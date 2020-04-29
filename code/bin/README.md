@@ -1,0 +1,1 @@
+This folder contains all external binary executable used in this project.

@@ -1,0 +1,1 @@
+This folder will contain the downloaded APKs of all analyzed apps
