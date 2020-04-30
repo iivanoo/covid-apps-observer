@@ -38,10 +38,10 @@ After all requirements are correctly installed, check the contents of the ``data
 ```js
 [
     {
-        "id": "it.softmining.projects.covid19.savelifestyle", // the Package identifier of the app to be analyze
+        "id": "com.company.app", // the Package identifier of the app to be analyze
         "store_country": "it", // the country of the Google Play store page of the app
         "store_lang": "it", // the language of the Google Play store page of the app
-        "latest_crawled_version": "3.3", // [not needed in the first run, it is automatically generated] the last version of the app crawled by covid-apps-observer 
+        "latest_crawled_version": "1.5", // [not needed in the first run, it is automatically generated] the last version of the app crawled by covid-apps-observer 
         "latest_crawl": 1588275552 // [not needed in the first run, it is automatically generated] the timestamp in which the app has been crawled the last time 
     },
     // ...
