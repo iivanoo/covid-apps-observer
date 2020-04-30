@@ -1,3 +1,10 @@
-google-play-scraper
-tqdm
-bs4
+beautifulsoup4==4.9.0
+bs4==0.0.1
+certifi==2020.4.5.1
+chardet==3.0.4
+google-play-scraper==0.0.2.3
+idna==2.9
+requests==2.23.0
+soupsieve==2.0
+tqdm==4.45.0
+urllib3==1.25.9
