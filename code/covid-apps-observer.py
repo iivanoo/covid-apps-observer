@@ -45,6 +45,7 @@ def start():
                 exit()
         
         a['latest_crawled_version'] = app_latest_version
+        a['latest_crawl'] = int(time.time())
         break
     c.save(c.apps_path, apps)
 
