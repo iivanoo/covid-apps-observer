@@ -63,9 +63,12 @@ def m_apkpure_com(package_id):
 # Credits to Gian Luca Scoccia - https://github.com/S2-group/apkDownloader/
 def apk_is_valid(_apk_name):
     with open(os.devnull, "w") as null:
-        error_state = call(["aapt", "dump", "permissions", _apk_name], stdout=null)
-        if error_state != 0:
-            print("Not a valid apk, maybe it's an xapk?")
+        try:
+            error_state = call(["aapt", "dump", "permissions", _apk_name], stdout=null)
+            if error_state != 0:
+                print("Not a valid apk, maybe it's an xapk?")
+        except:
+            pass
         return error_state == 0
 
 # Credits to Gian Luca Scoccia - https://github.com/S2-group/apkDownloader/
@@ -101,6 +104,8 @@ def verify_apk(apk_name: str, apk_path: str, app_suffix_path: str) -> None:
             os.remove(apk_path)
             print("Invalid file {}, removed".format(apk_path))
             return False
+    else:
+        return True
 
 def download_apk(app_id, path):
     download_URL = m_apkpure_com(app_id)
