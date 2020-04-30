@@ -1,7 +1,7 @@
 # covid-apps-observer
 Web scraper and analyzer of COVID-related Android apps
 
-#### Contributions
+## Contributions
 
 Any feedback, questions, and improvements about the project are very welcome, feel free to create an issue or pull request directly in this GitHub repository. 
 
