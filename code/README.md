@@ -35,7 +35,7 @@ $ python -m pip install -r requirements.txt
 
 After all requirements are correctly installed, check the contents of the ``data/apps.json`` file. It contains a minimal set of metadata referring to the Android apps you want to analyze. The ``data/apps.json`` has the following structure:
 
-```json
+```js
 [
     {
         "id": "it.softmining.projects.covid19.savelifestyle", // the Package identifier of the app to be analyze
