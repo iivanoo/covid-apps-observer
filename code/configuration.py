@@ -1,12 +1,14 @@
 import json
 
-data_path = './data/'
-apks_path = './apks/'
+DATA_PATH = './data/'
+APKS_PATH = './apks/'
 
-apps_path = data_path + 'apps.json'
+APPS_PATH = DATA_PATH + 'apps.json'
 
-app_version_separator = '___'
+SEPARATOR = '___'
+
+NUM_REVIEWS = 1000
 
 def save(filePath, data):
     with open(filePath, 'w') as outfile:  
-        json.dump(data, outfile, indent=4)
+        json.dump(data, outfile, indent=4, default=str)

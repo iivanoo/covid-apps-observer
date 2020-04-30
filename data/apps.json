@@ -2,31 +2,36 @@
     {
         "id": "it.softmining.projects.covid19.savelifestyle",
         "store_country": "it",
+        "store_lang": "it",
         "latest_crawled_version": "3.3",
-        "latest_crawl": 1588267028
+        "latest_crawl": 1588268680
     },
     {
         "id": "it.lispa.sire.app.mobile.allertalom",
         "latest_crawled_version": "1.6.0",
         "store_country": "it",
-        "latest_crawl": 1588267029
+        "store_lang": "it",
+        "latest_crawl": 1588268692
     },
     {
         "id": "com.intellicare.covid",
         "latest_crawled_version": "1.0.14",
         "store_country": "it",
-        "latest_crawl": 1588267029
+        "store_lang": "it",
+        "latest_crawl": 1588268701
     },
     {
         "id": "com.siciliasicura.app",
         "latest_crawled_version": "4.0",
         "store_country": "it",
-        "latest_crawl": 1588267029
+        "store_lang": "it",
+        "latest_crawl": 1588268701
     },
     {
         "id": "it.adl.aslroma3.covid19.app",
         "latest_crawled_version": "1.0.4",
         "store_country": "it",
-        "latest_crawl": 1588267029
+        "store_lang": "it",
+        "latest_crawl": 1588268702
     }
 ]

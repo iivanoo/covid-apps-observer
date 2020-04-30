@@ -3,8 +3,9 @@ import json
 import sys
 import os
 import time
-from google_play_scraper import app
+from google_play_scraper import app, Sort, reviews
 import ssl
+import random
 import configuration as c
 import apk_downloader
 
@@ -15,23 +16,41 @@ def download_apk(app_to_download, apk_path):
 
 def get_gp_metadata(app_to_scrape):
     ssl._create_default_https_context = ssl._create_unverified_context
-    app_metadata = app(app_to_scrape['id'], lang=app_to_scrape['store_country'], country=app_to_scrape['store_country'])
+    app_metadata = app(app_to_scrape['id'], lang=app_to_scrape['store_lang'], country=app_to_scrape['store_country'])
     return app_metadata
+
+def get_reviews(app_to_scrape):
+    time.sleep(random.randrange(10))
+    print("Downloading reviews for: " + app_to_scrape['id'])
+    
+    result, continuation_token = reviews(
+    app_to_scrape['id'],
+    lang=app_to_scrape['store_lang'],
+    country=app_to_scrape['store_country'],
+    sort=Sort.NEWEST, 
+    count=c.NUM_REVIEWS)
+
+    return result
 
 def crawl_data(app):
     # Download Google Play metadata
     app_metadata = get_gp_metadata(app)
     app_latest_version = app_metadata['version']
-    app_suffix_path = app['id'] + c.app_version_separator + app_latest_version
+    app_suffix_path = app['id'] + c.SEPARATOR + app_latest_version
 
     # Save the metadata if it is new
-    metadata_path = c.data_path + app_suffix_path + c.app_version_separator + 'metadata.json'
-    reviews_path = c.data_path + app_suffix_path + c.app_version_separator + 'reviews.json'
+    metadata_path = c.DATA_PATH + app_suffix_path + c.SEPARATOR + 'metadata.json'
     if(not os.path.exists(metadata_path)):
         c.save(metadata_path, app_metadata)
+
+    # Save the reviews if they are about an older version of the app 
+    reviews_path = c.DATA_PATH + app_suffix_path + c.SEPARATOR + 'reviews.json'
+    if(not os.path.exists(reviews_path)):
+        app_reviews = get_reviews(app)
+        c.save(reviews_path, app_reviews)
     
     # Download the APK if it is new
-    apk_path = c.apks_path + app_suffix_path + '.apk'
+    apk_path = c.APKS_PATH + app_suffix_path + '.apk'
     if(not os.path.exists(apk_path)):
         if(not download_apk(app['id'], apk_path)):
             print('Error while downloading the following app, try to download it manually: ' + app['id'])

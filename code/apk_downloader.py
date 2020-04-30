@@ -81,8 +81,8 @@ def xapk_is_valid(_xapk_name, _package_name):
 
 # Credits to Gian Luca Scoccia - https://github.com/S2-group/apkDownloader/
 def unpack_xapk(_xapk_name: str, _package_name: str) -> None:
-    with zipfile.ZipFile(os.path.join(c.apks_path, _xapk_name)) as zfile:
-        zfile.extract(_package_name, c.apks_path)
+    with zipfile.ZipFile(os.path.join(c.APKS_PATH, _xapk_name)) as zfile:
+        zfile.extract(_package_name, c.APKS_PATH)
 
 # Credits to Gian Luca Scoccia - https://github.com/S2-group/apkDownloader/
 def verify_apk(apk_name: str, apk_path: str, app_suffix_path: str) -> None:
@@ -91,7 +91,7 @@ def verify_apk(apk_name: str, apk_path: str, app_suffix_path: str) -> None:
             new_name = apk_path.split(".apk")[0] + ".xapk"
             os.rename(apk_path, new_name)
             unpack_xapk(app_suffix_path + ".xapk", apk_name + ".apk")
-            os.rename(c.apks_path + apk_name + ".apk", apk_path)
+            os.rename(c.APKS_PATH + apk_name + ".apk", apk_path)
             os.remove(new_name)
             if not apk_is_valid(apk_path):
                 os.remove(apk_path)
