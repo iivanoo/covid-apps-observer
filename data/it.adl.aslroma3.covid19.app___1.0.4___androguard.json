@@ -1,0 +1,38 @@
+{
+    "permissions": [
+        "android.permission.FOREGROUND_SERVICE",
+        "android.permission.INTERNET",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.WAKE_LOCK",
+        "android.permission.ACCESS_FINE_LOCATION",
+        "android.permission.BLUETOOTH",
+        "android.permission.BLUETOOTH_ADMIN",
+        "android.permission.ACCESS_COARSE_LOCATION"
+    ],
+    "activities": [
+        "it.adilife.view.activity.AdlSplashActivity",
+        "it.adilife.view.activity.AdlLoginActivity",
+        "it.adilife.view.activity.AdlCaringProxiesActivity",
+        "it.adilife.view.activity.AdlCaringProxiesGroupMembersActivity",
+        "it.adilife.view.activity.AdlHomeActivity",
+        "it.adilife.view.activity.AdlChangePasswordActivity",
+        "it.adilife.view.activity.AdlChangePinActivity",
+        "it.adilife.view.activity.AdlUserProfileActivity",
+        "it.adilife.view.activity.AdlGoalsActivity",
+        "it.adilife.view.activity.AdlThresholdsActivity",
+        "it.adilife.view.activity.AdlRemindersActivity",
+        "it.adilife.view.activity.AdlMeteringTemplatesActivity",
+        "it.adilife.view.activity.AdlTelemetrySingleActivity",
+        "it.adilife.view.activity.AdlTelemetryContinuousActivity",
+        "it.adilife.view.activity.AdlHistoryCalendarActivity",
+        "it.adilife.view.activity.AdlHistoryActivity",
+        "it.adilife.view.activity.AdlSurveyActivity"
+    ],
+    "urls": [
+        "http://schemas.android.com/apk/res/android",
+        "https://bcx-api.xyz-life.com/",
+        "https://telemedicine.adilife.net",
+        "http://schemas.android.com/apk/res-auto",
+        "https://www.adilife.net/decalogo-1/"
+    ]
+}

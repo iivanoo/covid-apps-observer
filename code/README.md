@@ -19,8 +19,8 @@ install the needed dependencies:
 $ # Clone the source code of covid-apps-observer 
 $ git clone https://github.com/iivanoo/covid-apps-observer.git
 
-$ # Move into the code directory
-$ cd covid-apps-observer/code
+$ # Move into the project's directory
+$ cd covid-apps-observer
 
 $ # Setup the virtual environment for the project, so that you do not interfere with the other 
 $ # Python configurations in your machine

@@ -1,0 +1,1004 @@
+[
+    {
+        "id": "ACCEPT_HANDOVER",
+        "protection_level": "dangerous",
+        "qualified_name": "android.permission.ACCEPT_HANDOVER",
+        "description": "Allows a calling app to continue a call which was started in another app."
+    },
+    {
+        "id": "ACCESS_BACKGROUND_LOCATION",
+        "protection_level": "dangerous",
+        "qualified_name": "android.permission.ACCESS_BACKGROUND_LOCATION",
+        "description": "Allows an app to access location in the background."
+    },
+    {
+        "id": "ACCESS_CALL_AUDIO",
+        "protection_level": "signature|appop",
+        "qualified_name": "android.permission.ACCESS_CALL_AUDIO",
+        "description": "Allows an application assigned to the Dialer role to be granted access to the telephony call audio streams, both TX and RX."
+    },
+    {
+        "id": "ACCESS_CHECKIN_PROPERTIES",
+        "protection_level": "Not for use by third-party applications.",
+        "qualified_name": "android.permission.ACCESS_CHECKIN_PROPERTIES",
+        "description": "Allows read/write access to the Properties table in the checkin database, to change values that get uploaded."
+    },
+    {
+        "id": "ACCESS_COARSE_LOCATION",
+        "protection_level": "dangerous",
+        "qualified_name": "android.permission.ACCESS_COARSE_LOCATION",
+        "description": "Allows an app to access approximate location."
+    },
+    {
+        "id": "ACCESS_FINE_LOCATION",
+        "protection_level": "dangerous",
+        "qualified_name": "android.permission.ACCESS_FINE_LOCATION",
+        "description": "Allows an app to access precise location."
+    },
+    {
+        "id": "ACCESS_LOCATION_EXTRA_COMMANDS",
+        "protection_level": "normal",
+        "qualified_name": "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+        "description": "Allows an application to access extra location provider commands."
+    },
+    {
+        "id": "ACCESS_MEDIA_LOCATION",
+        "protection_level": "dangerous",
+        "qualified_name": "android.permission.ACCESS_MEDIA_LOCATION",
+        "description": "Allows an application to access any geographic locations persisted in the user's shared collection."
+    },
+    {
+        "id": "ACCESS_NETWORK_STATE",
+        "protection_level": "normal",
+        "qualified_name": "android.permission.ACCESS_NETWORK_STATE",
+        "description": "Allows applications to access information about networks."
+    },
+    {
+        "id": "ACCESS_NOTIFICATION_POLICY",
+        "protection_level": "normal",
+        "qualified_name": "android.permission.ACCESS_NOTIFICATION_POLICY",
+        "description": "Marker permission for applications that wish to access notification policy."
+    },
+    {
+        "id": "ACCESS_WIFI_STATE",
+        "protection_level": "normal",
+        "qualified_name": "android.permission.ACCESS_WIFI_STATE",
+        "description": "Allows applications to access information about Wi-Fi networks."
+    },
+    {
+        "id": "ACCOUNT_MANAGER",
+        "protection_level": "Not for use by third-party applications.",
+        "qualified_name": "android.permission.ACCOUNT_MANAGER",
+        "description": "Allows applications to call into AccountAuthenticators."
+    },
+    {
+        "id": "ACTIVITY_RECOGNITION",
+        "protection_level": "dangerous",
+        "qualified_name": "android.permission.ACTIVITY_RECOGNITION",
+        "description": "Allows an application to recognize physical activity."
+    },
+    {
+        "id": "ADD_VOICEMAIL",
+        "protection_level": "dangerous",
+        "qualified_name": "com.android.voicemail.permission.ADD_VOICEMAIL",
+        "description": "Allows an application to add voicemails into the system."
+    },
+    {
+        "id": "ANSWER_PHONE_CALLS",
+        "protection_level": "dangerous",
+        "qualified_name": "android.permission.ANSWER_PHONE_CALLS",
+        "description": "Allows the app to answer an incoming phone call."
+    },
+    {
+        "id": "BATTERY_STATS",
+        "protection_level": "signature|privileged|development",
+        "qualified_name": "android.permission.BATTERY_STATS",
+        "description": "Allows an application to collect battery statistics"
+    },
+    {
+        "id": "BIND_ACCESSIBILITY_SERVICE",
+        "protection_level": "signature",
+        "qualified_name": "android.permission.BIND_ACCESSIBILITY_SERVICE",
+        "description": "Must be required by an AccessibilityService, to ensure that only the system can bind to it."
+    },
+    {
+        "id": "BIND_APPWIDGET",
+        "protection_level": "Not for use by third-party applications.",
+        "qualified_name": "android.permission.BIND_APPWIDGET",
+        "description": "Allows an application to tell the AppWidget service which application can access AppWidget's data."
+    },
+    {
+        "id": "BIND_AUTOFILL_SERVICE",
+        "protection_level": "signature",
+        "qualified_name": "android.permission.BIND_AUTOFILL_SERVICE",
+        "description": "Must be required by a AutofillService, to ensure that only the system can bind to it."
+    },
+    {
+        "id": "BIND_CALL_REDIRECTION_SERVICE",
+        "protection_level": "signature|privileged",
+        "qualified_name": "android.permission.BIND_CALL_REDIRECTION_SERVICE",
+        "description": "Must be required by a CallRedirectionService, to ensure that only the system can bind to it."
+    },
+    {
+        "id": "BIND_CARRIER_MESSAGING_CLIENT_SERVICE",
+        "protection_level": "signature",
+        "qualified_name": "android.permission.BIND_CARRIER_MESSAGING_CLIENT_SERVICE",
+        "description": "A subclass of CarrierMessagingClientService must be protected with this permission."
+    },
+    {
+        "id": "BIND_CARRIER_MESSAGING_SERVICE",
+        "protection_level": "Deprecated",
+        "qualified_name": "android.permission.BIND_CARRIER_MESSAGING_SERVICE",
+        "description": "This constant was deprecated in API level 23. Use BIND_CARRIER_SERVICES instead"
+    },
+    {
+        "id": "BIND_CARRIER_SERVICES",
+        "protection_level": "signature|privileged",
+        "qualified_name": "android.permission.BIND_CARRIER_SERVICES",
+        "description": "The system process that is allowed to bind to services in carrier apps will have this permission."
+    },
+    {
+        "id": "BIND_CHOOSER_TARGET_SERVICE",
+        "protection_level": "signature",
+        "qualified_name": "android.permission.BIND_CHOOSER_TARGET_SERVICE",
+        "description": "This constant was deprecated in API level R. For publishing direct share targets, please follow the instructions in https://developer.android.com/training/sharing/receive.html#providing-direct-share-targets instead."
+    },
+    {
+        "id": "BIND_CONDITION_PROVIDER_SERVICE",
+        "protection_level": "signature",
+        "qualified_name": "android.permission.BIND_CONDITION_PROVIDER_SERVICE",
+        "description": "Must be required by a ConditionProviderService, to ensure that only the system can bind to it."
+    },
+    {
+        "id": "BIND_CONTROLS",
+        "protection_level": "upcoming",
+        "qualified_name": "android.permission.BIND_CONTROLS",
+        "description": "Allows SystemUI to request third party controls."
+    },
+    {
+        "id": "BIND_DEVICE_ADMIN",
+        "protection_level": "signature",
+        "qualified_name": "android.permission.BIND_DEVICE_ADMIN",
+        "description": "Must be required by device administration receiver, to ensure that only the system can interact with it."
+    },
+    {
+        "id": "BIND_DREAM_SERVICE",
+        "protection_level": "signature",
+        "qualified_name": "android.permission.BIND_DREAM_SERVICE",
+        "description": "Must be required by an DreamService, to ensure that only the system can bind to it."
+    },
+    {
+        "id": "BIND_INCALL_SERVICE",
+        "protection_level": "signature|privileged",
+        "qualified_name": "android.permission.BIND_INCALL_SERVICE",
+        "description": "Must be required by a InCallService, to ensure that only the system can bind to it."
+    },
+    {
+        "id": "BIND_INPUT_METHOD",
+        "protection_level": "signature",
+        "qualified_name": "android.permission.BIND_INPUT_METHOD",
+        "description": "Must be required by an InputMethodService, to ensure that only the system can bind to it."
+    },
+    {
+        "id": "BIND_MIDI_DEVICE_SERVICE",
+        "protection_level": "signature",
+        "qualified_name": "android.permission.BIND_MIDI_DEVICE_SERVICE",
+        "description": "Must be required by an MidiDeviceService, to ensure that only the system can bind to it."
+    },
+    {
+        "id": "BIND_NFC_SERVICE",
+        "protection_level": "signature",
+        "qualified_name": "android.permission.BIND_NFC_SERVICE",
+        "description": "Must be required by a HostApduService or OffHostApduService to ensure that only the system can bind to it."
+    },
+    {
+        "id": "BIND_NOTIFICATION_LISTENER_SERVICE",
+        "protection_level": "signature",
+        "qualified_name": "android.permission.BIND_NOTIFICATION_LISTENER_SERVICE",
+        "description": "Must be required by an NotificationListenerService, to ensure that only the system can bind to it."
+    },
+    {
+        "id": "BIND_PRINT_SERVICE",
+        "protection_level": "signature",
+        "qualified_name": "android.permission.BIND_PRINT_SERVICE",
+        "description": "Must be required by a PrintService, to ensure that only the system can bind to it."
+    },
+    {
+        "id": "BIND_QUICK_ACCESS_WALLET_SERVICE",
+        "protection_level": "signature",
+        "qualified_name": "android.permission.BIND_QUICK_ACCESS_WALLET_SERVICE",
+        "description": "Must be required by a QuickAccessWalletService to ensure that only the system can bind to it."
+    },
+    {
+        "id": "BIND_QUICK_SETTINGS_TILE",
+        "protection_level": "undefined",
+        "qualified_name": "android.permission.BIND_QUICK_SETTINGS_TILE",
+        "description": "Allows an application to bind to third party quick settings tiles."
+    },
+    {
+        "id": "BIND_REMOTEVIEWS",
+        "protection_level": "signature|privileged",
+        "qualified_name": "android.permission.BIND_REMOTEVIEWS",
+        "description": "Must be required by a RemoteViewsService, to ensure that only the system can bind to it."
+    },
+    {
+        "id": "BIND_SCREENING_SERVICE",
+        "protection_level": "signature|privileged",
+        "qualified_name": "android.permission.BIND_SCREENING_SERVICE",
+        "description": "Must be required by a CallScreeningService, to ensure that only the system can bind to it."
+    },
+    {
+        "id": "BIND_TELECOM_CONNECTION_SERVICE",
+        "protection_level": "signature|privileged",
+        "qualified_name": "android.permission.BIND_TELECOM_CONNECTION_SERVICE",
+        "description": "Must be required by a ConnectionService, to ensure that only the system can bind to it."
+    },
+    {
+        "id": "BIND_TEXT_SERVICE",
+        "protection_level": "signature",
+        "qualified_name": "android.permission.BIND_TEXT_SERVICE",
+        "description": "Must be required by a TextService (e.g.\u00a0SpellCheckerService) to ensure that only the system can bind to it."
+    },
+    {
+        "id": "BIND_TV_INPUT",
+        "protection_level": "signature|privileged",
+        "qualified_name": "android.permission.BIND_TV_INPUT",
+        "description": "Must be required by a TvInputService to ensure that only the system can bind to it."
+    },
+    {
+        "id": "BIND_VISUAL_VOICEMAIL_SERVICE",
+        "protection_level": "signature|privileged",
+        "qualified_name": "android.permission.BIND_VISUAL_VOICEMAIL_SERVICE",
+        "description": "Must be required by a link VisualVoicemailService to ensure that only the system can bind to it."
+    },
+    {
+        "id": "BIND_VOICE_INTERACTION",
+        "protection_level": "signature",
+        "qualified_name": "android.permission.BIND_VOICE_INTERACTION",
+        "description": "Must be required by a VoiceInteractionService, to ensure that only the system can bind to it."
+    },
+    {
+        "id": "BIND_VPN_SERVICE",
+        "protection_level": "signature",
+        "qualified_name": "android.permission.BIND_VPN_SERVICE",
+        "description": "Must be required by a VpnService, to ensure that only the system can bind to it."
+    },
+    {
+        "id": "BIND_VR_LISTENER_SERVICE",
+        "protection_level": "signature",
+        "qualified_name": "android.permission.BIND_VR_LISTENER_SERVICE",
+        "description": "Must be required by an VrListenerService, to ensure that only the system can bind to it."
+    },
+    {
+        "id": "BIND_WALLPAPER",
+        "protection_level": "signature|privileged",
+        "qualified_name": "android.permission.BIND_WALLPAPER",
+        "description": "Must be required by a WallpaperService, to ensure that only the system can bind to it."
+    },
+    {
+        "id": "BLUETOOTH",
+        "protection_level": "normal",
+        "qualified_name": "android.permission.BLUETOOTH",
+        "description": "Allows applications to connect to paired bluetooth devices."
+    },
+    {
+        "id": "BLUETOOTH_ADMIN",
+        "protection_level": "normal",
+        "qualified_name": "android.permission.BLUETOOTH_ADMIN",
+        "description": "Allows applications to discover and pair bluetooth devices."
+    },
+    {
+        "id": "BLUETOOTH_PRIVILEGED",
+        "protection_level": "Not for use by third-party applications.",
+        "qualified_name": "android.permission.BLUETOOTH_PRIVILEGED",
+        "description": "Allows applications to pair bluetooth devices without user interaction, and to allow or disallow phonebook access or message access."
+    },
+    {
+        "id": "BODY_SENSORS",
+        "protection_level": "dangerous",
+        "qualified_name": "android.permission.BODY_SENSORS",
+        "description": "Allows an application to access data from sensors that the user uses to measure what is happening inside his/her body, such as heart rate."
+    },
+    {
+        "id": "BROADCAST_PACKAGE_REMOVED",
+        "protection_level": "Not for use by third-party applications.",
+        "qualified_name": "android.permission.BROADCAST_PACKAGE_REMOVED",
+        "description": "Allows an application to broadcast a notification that an application package has been removed."
+    },
+    {
+        "id": "BROADCAST_SMS",
+        "protection_level": "Not for use by third-party applications.",
+        "qualified_name": "android.permission.BROADCAST_SMS",
+        "description": "Allows an application to broadcast an SMS receipt notification."
+    },
+    {
+        "id": "BROADCAST_STICKY",
+        "protection_level": "normal",
+        "qualified_name": "android.permission.BROADCAST_STICKY",
+        "description": "Allows an application to broadcast sticky intents."
+    },
+    {
+        "id": "BROADCAST_WAP_PUSH",
+        "protection_level": "Not for use by third-party applications.",
+        "qualified_name": "android.permission.BROADCAST_WAP_PUSH",
+        "description": "Allows an application to broadcast a WAP PUSH receipt notification."
+    },
+    {
+        "id": "CALL_COMPANION_APP",
+        "protection_level": "normal",
+        "qualified_name": "android.permission.CALL_COMPANION_APP",
+        "description": "Allows an app which implements the InCallService API to be eligible to be enabled as a calling companion app."
+    },
+    {
+        "id": "CALL_PHONE",
+        "protection_level": "dangerous",
+        "qualified_name": "android.permission.CALL_PHONE",
+        "description": "Allows an application to initiate a phone call without going through the Dialer user interface for the user to confirm the call."
+    },
+    {
+        "id": "CALL_PRIVILEGED",
+        "protection_level": "Not for use by third-party applications.",
+        "qualified_name": "android.permission.CALL_PRIVILEGED",
+        "description": "Allows an application to call any phone number, including emergency numbers, without going through the Dialer user interface for the user to confirm the call being placed."
+    },
+    {
+        "id": "CAMERA",
+        "protection_level": "dangerous",
+        "qualified_name": "android.permission.CAMERA",
+        "description": "Required to be able to access the camera device."
+    },
+    {
+        "id": "CAPTURE_AUDIO_OUTPUT",
+        "protection_level": "Not for use by third-party applications.",
+        "qualified_name": "android.permission.CAPTURE_AUDIO_OUTPUT",
+        "description": "Allows an application to capture audio output."
+    },
+    {
+        "id": "CHANGE_COMPONENT_ENABLED_STATE",
+        "protection_level": "Not for use by third-party applications.",
+        "qualified_name": "android.permission.CHANGE_COMPONENT_ENABLED_STATE",
+        "description": "Allows an application to change whether an application component (other than its own) is enabled or not."
+    },
+    {
+        "id": "CHANGE_CONFIGURATION",
+        "protection_level": "signature|privileged|development",
+        "qualified_name": "android.permission.CHANGE_CONFIGURATION",
+        "description": "Allows an application to modify the current configuration, such as locale."
+    },
+    {
+        "id": "CHANGE_NETWORK_STATE",
+        "protection_level": "normal",
+        "qualified_name": "android.permission.CHANGE_NETWORK_STATE",
+        "description": "Allows applications to change network connectivity state."
+    },
+    {
+        "id": "CHANGE_WIFI_MULTICAST_STATE",
+        "protection_level": "normal",
+        "qualified_name": "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+        "description": "Allows applications to enter Wi-Fi Multicast mode."
+    },
+    {
+        "id": "CHANGE_WIFI_STATE",
+        "protection_level": "normal",
+        "qualified_name": "android.permission.CHANGE_WIFI_STATE",
+        "description": "Allows applications to change Wi-Fi connectivity state."
+    },
+    {
+        "id": "CLEAR_APP_CACHE",
+        "protection_level": "signature|privileged",
+        "qualified_name": "android.permission.CLEAR_APP_CACHE",
+        "description": "Allows an application to clear the caches of all installed applications on the device."
+    },
+    {
+        "id": "CONTROL_LOCATION_UPDATES",
+        "protection_level": "Not for use by third-party applications.",
+        "qualified_name": "android.permission.CONTROL_LOCATION_UPDATES",
+        "description": "Allows enabling/disabling location update notifications from the radio."
+    },
+    {
+        "id": "DELETE_CACHE_FILES",
+        "protection_level": "signature|privileged",
+        "qualified_name": "android.permission.DELETE_CACHE_FILES",
+        "description": "Old permission for deleting an app's cache files, no longer used, but signals for us to quietly ignore calls instead of throwing an exception."
+    },
+    {
+        "id": "DELETE_PACKAGES",
+        "protection_level": "Not for use by third-party applications.",
+        "qualified_name": "android.permission.DELETE_PACKAGES",
+        "description": "Allows an application to delete packages."
+    },
+    {
+        "id": "DIAGNOSTIC",
+        "protection_level": "Not for use by third-party applications.",
+        "qualified_name": "android.permission.DIAGNOSTIC",
+        "description": "Allows applications to RW to diagnostic resources."
+    },
+    {
+        "id": "DISABLE_KEYGUARD",
+        "protection_level": "normal",
+        "qualified_name": "android.permission.DISABLE_KEYGUARD",
+        "description": "Allows applications to disable the keyguard if it is not secure."
+    },
+    {
+        "id": "DUMP",
+        "protection_level": "Not for use by third-party applications.",
+        "qualified_name": "android.permission.DUMP",
+        "description": "Allows an application to retrieve state dump information from system services."
+    },
+    {
+        "id": "EXPAND_STATUS_BAR",
+        "protection_level": "normal",
+        "qualified_name": "android.permission.EXPAND_STATUS_BAR",
+        "description": "Allows an application to expand or collapse the status bar."
+    },
+    {
+        "id": "FACTORY_TEST",
+        "protection_level": "Not for use by third-party applications.",
+        "qualified_name": "android.permission.FACTORY_TEST",
+        "description": "Run as a manufacturer test application, running as the root user."
+    },
+    {
+        "id": "FOREGROUND_SERVICE",
+        "protection_level": "normal",
+        "qualified_name": "android.permission.FOREGROUND_SERVICE",
+        "description": "Allows a regular application to use Service.startForeground."
+    },
+    {
+        "id": "GET_ACCOUNTS",
+        "protection_level": "dangerous",
+        "qualified_name": "android.permission.GET_ACCOUNTS",
+        "description": "Allows access to the list of accounts in the Accounts Service."
+    },
+    {
+        "id": "GET_ACCOUNTS_PRIVILEGED",
+        "protection_level": "signature|privileged",
+        "qualified_name": "android.permission.GET_ACCOUNTS_PRIVILEGED",
+        "description": "Allows access to the list of accounts in the Accounts Service."
+    },
+    {
+        "id": "GET_PACKAGE_SIZE",
+        "protection_level": "normal",
+        "qualified_name": "android.permission.GET_PACKAGE_SIZE",
+        "description": "Allows an application to find out the space used by any package."
+    },
+    {
+        "id": "GET_TASKS",
+        "protection_level": "Deprecated",
+        "qualified_name": "android.permission.GET_TASKS",
+        "description": "This constant was deprecated in API level 21. No longer enforced."
+    },
+    {
+        "id": "GLOBAL_SEARCH",
+        "protection_level": "signature|privileged",
+        "qualified_name": "android.permission.GLOBAL_SEARCH",
+        "description": "This permission can be used on content providers to allow the global search system to access their data."
+    },
+    {
+        "id": "INSTALL_LOCATION_PROVIDER",
+        "protection_level": "Not for use by third-party applications.",
+        "qualified_name": "android.permission.INSTALL_LOCATION_PROVIDER",
+        "description": "Allows an application to install a location provider into the Location Manager."
+    },
+    {
+        "id": "INSTALL_PACKAGES",
+        "protection_level": "Not for use by third-party applications.",
+        "qualified_name": "android.permission.INSTALL_PACKAGES",
+        "description": "Allows an application to install packages."
+    },
+    {
+        "id": "INSTALL_SHORTCUT",
+        "protection_level": "normal",
+        "qualified_name": "com.android.launcher.permission.INSTALL_SHORTCUT",
+        "description": "Allows an application to install a shortcut in Launcher."
+    },
+    {
+        "id": "INSTANT_APP_FOREGROUND_SERVICE",
+        "protection_level": "signature|development|instant|appop",
+        "qualified_name": "android.permission.INSTANT_APP_FOREGROUND_SERVICE",
+        "description": "Allows an instant app to create foreground services."
+    },
+    {
+        "id": "INTERACT_ACROSS_PROFILES",
+        "protection_level": "upcoming",
+        "qualified_name": "android.permission.INTERACT_ACROSS_PROFILES",
+        "description": "Allows interaction across profiles in the same profile group."
+    },
+    {
+        "id": "INTERNET",
+        "protection_level": "normal",
+        "qualified_name": "android.permission.INTERNET",
+        "description": "Allows applications to open network sockets."
+    },
+    {
+        "id": "KILL_BACKGROUND_PROCESSES",
+        "protection_level": "normal",
+        "qualified_name": "android.permission.KILL_BACKGROUND_PROCESSES",
+        "description": "Allows an application to call ActivityManager.killBackgroundProcesses(String)."
+    },
+    {
+        "id": "LOADER_USAGE_STATS",
+        "protection_level": "signature|privileged|appop",
+        "qualified_name": "android.permission.LOADER_USAGE_STATS",
+        "description": "Allows a data loader to read a package's access logs."
+    },
+    {
+        "id": "LOCATION_HARDWARE",
+        "protection_level": "Not for use by third-party applications.",
+        "qualified_name": "android.permission.LOCATION_HARDWARE",
+        "description": "Allows an application to use location features in hardware, such as the geofencing api."
+    },
+    {
+        "id": "MANAGE_DOCUMENTS",
+        "protection_level": "undefined",
+        "qualified_name": "android.permission.MANAGE_DOCUMENTS",
+        "description": "Allows an application to manage access to documents, usually as part of a document picker."
+    },
+    {
+        "id": "MANAGE_EXTERNAL_STORAGE",
+        "protection_level": "signature|appop|preinstalled",
+        "qualified_name": "android.permission.MANAGE_EXTERNAL_STORAGE",
+        "description": "Allows an application a broad access to external storage in scoped storage."
+    },
+    {
+        "id": "MANAGE_OWN_CALLS",
+        "protection_level": "normal",
+        "qualified_name": "android.permission.MANAGE_OWN_CALLS",
+        "description": "Allows a calling application which manages it own calls through the self-managed ConnectionService APIs."
+    },
+    {
+        "id": "MASTER_CLEAR",
+        "protection_level": "Not for use by third-party applications.",
+        "qualified_name": "android.permission.MASTER_CLEAR",
+        "description": "Not for use by third-party applications."
+    },
+    {
+        "id": "MEDIA_CONTENT_CONTROL",
+        "protection_level": "Not for use by third-party applications due to privacy of media consumption",
+        "qualified_name": "android.permission.MEDIA_CONTENT_CONTROL",
+        "description": "Allows an application to know what content is playing and control its playback."
+    },
+    {
+        "id": "MODIFY_AUDIO_SETTINGS",
+        "protection_level": "normal",
+        "qualified_name": "android.permission.MODIFY_AUDIO_SETTINGS",
+        "description": "Allows an application to modify global audio settings."
+    },
+    {
+        "id": "MODIFY_PHONE_STATE",
+        "protection_level": "Not for use by third-party applications.",
+        "qualified_name": "android.permission.MODIFY_PHONE_STATE",
+        "description": "Allows modification of the telephony state - power on, mmi, etc."
+    },
+    {
+        "id": "MOUNT_FORMAT_FILESYSTEMS",
+        "protection_level": "Not for use by third-party applications.",
+        "qualified_name": "android.permission.MOUNT_FORMAT_FILESYSTEMS",
+        "description": "Allows formatting file systems for removable storage."
+    },
+    {
+        "id": "MOUNT_UNMOUNT_FILESYSTEMS",
+        "protection_level": "Not for use by third-party applications.",
+        "qualified_name": "android.permission.MOUNT_UNMOUNT_FILESYSTEMS",
+        "description": "Allows mounting and unmounting file systems for removable storage."
+    },
+    {
+        "id": "NFC",
+        "protection_level": "normal",
+        "qualified_name": "android.permission.NFC",
+        "description": "Allows applications to perform I/O operations over NFC."
+    },
+    {
+        "id": "NFC_PREFERRED_PAYMENT_INFO",
+        "protection_level": "normal",
+        "qualified_name": "android.permission.NFC_PREFERRED_PAYMENT_INFO",
+        "description": "Allows applications to receive NFC preferred payment service information."
+    },
+    {
+        "id": "NFC_TRANSACTION_EVENT",
+        "protection_level": "normal",
+        "qualified_name": "android.permission.NFC_TRANSACTION_EVENT",
+        "description": "Allows applications to receive NFC transaction events."
+    },
+    {
+        "id": "PACKAGE_USAGE_STATS",
+        "protection_level": "signature|privileged|development|appop|retailDemo",
+        "qualified_name": "android.permission.PACKAGE_USAGE_STATS",
+        "description": "Allows an application to collect component usage statistics"
+    },
+    {
+        "id": "PERSISTENT_ACTIVITY",
+        "protection_level": "Deprecated",
+        "qualified_name": "android.permission.PERSISTENT_ACTIVITY",
+        "description": "This constant was deprecated in API level 15. This functionality will be removed in the future; please do not use. Allow an application to make its activities persistent."
+    },
+    {
+        "id": "PROCESS_OUTGOING_CALLS",
+        "protection_level": "dangerous",
+        "qualified_name": "android.permission.PROCESS_OUTGOING_CALLS",
+        "description": "This constant was deprecated in API level 29. Applications should use CallRedirectionService instead of the Intent.ACTION_NEW_OUTGOING_CALL broadcast."
+    },
+    {
+        "id": "QUERY_ALL_PACKAGES",
+        "protection_level": "upcoming",
+        "qualified_name": "android.permission.QUERY_ALL_PACKAGES",
+        "description": "Allows query of any normal app on the device, regardless of manifest declarations."
+    },
+    {
+        "id": "READ_CALENDAR",
+        "protection_level": "dangerous",
+        "qualified_name": "android.permission.READ_CALENDAR",
+        "description": "Allows an application to read the user's calendar data."
+    },
+    {
+        "id": "READ_CALL_LOG",
+        "protection_level": "dangerous",
+        "qualified_name": "android.permission.READ_CALL_LOG",
+        "description": "Allows an application to read the user's call log."
+    },
+    {
+        "id": "READ_CONTACTS",
+        "protection_level": "dangerous",
+        "qualified_name": "android.permission.READ_CONTACTS",
+        "description": "Allows an application to read the user's contacts data."
+    },
+    {
+        "id": "READ_EXTERNAL_STORAGE",
+        "protection_level": "dangerous",
+        "qualified_name": "android.permission.READ_EXTERNAL_STORAGE",
+        "description": "Allows an application to read from external storage."
+    },
+    {
+        "id": "READ_INPUT_STATE",
+        "protection_level": "Not for use by third-party applications.",
+        "qualified_name": "android.permission.READ_INPUT_STATE",
+        "description": "This constant was deprecated in API level 16. The API that used this permission has been removed."
+    },
+    {
+        "id": "READ_LOGS",
+        "protection_level": "Not for use by third-party applications, because Log entries can contain the user's private information.",
+        "qualified_name": "android.permission.READ_LOGS",
+        "description": "Allows an application to read the low-level system log files."
+    },
+    {
+        "id": "READ_PHONE_NUMBERS",
+        "protection_level": "dangerous",
+        "qualified_name": "android.permission.READ_PHONE_NUMBERS",
+        "description": "Allows read access to the device's phone number(s)."
+    },
+    {
+        "id": "READ_PHONE_STATE",
+        "protection_level": "dangerous",
+        "qualified_name": "android.permission.READ_PHONE_STATE",
+        "description": "Allows read only access to phone state, including the phone number of the device, current cellular network information, the status of any ongoing calls, and a list of any PhoneAccounts registered on the device."
+    },
+    {
+        "id": "READ_PRECISE_PHONE_STATE",
+        "protection_level": "upcoming",
+        "qualified_name": "android.permission.READ_PRECISE_PHONE_STATE",
+        "description": "Allows read only access to precise phone state."
+    },
+    {
+        "id": "READ_SMS",
+        "protection_level": "dangerous",
+        "qualified_name": "android.permission.READ_SMS",
+        "description": "Allows an application to read SMS messages."
+    },
+    {
+        "id": "READ_SYNC_SETTINGS",
+        "protection_level": "normal",
+        "qualified_name": "android.permission.READ_SYNC_SETTINGS",
+        "description": "Allows applications to read the sync settings."
+    },
+    {
+        "id": "READ_SYNC_STATS",
+        "protection_level": "normal",
+        "qualified_name": "android.permission.READ_SYNC_STATS",
+        "description": "Allows applications to read the sync stats."
+    },
+    {
+        "id": "READ_VOICEMAIL",
+        "protection_level": "signature|privileged",
+        "qualified_name": "com.android.voicemail.permission.READ_VOICEMAIL",
+        "description": "Allows an application to read voicemails in the system."
+    },
+    {
+        "id": "REBOOT",
+        "protection_level": "Not for use by third-party applications.",
+        "qualified_name": "android.permission.REBOOT",
+        "description": "Required to be able to reboot the device."
+    },
+    {
+        "id": "RECEIVE_BOOT_COMPLETED",
+        "protection_level": "normal",
+        "qualified_name": "android.permission.RECEIVE_BOOT_COMPLETED",
+        "description": "Allows an application to receive the Intent.ACTION_BOOT_COMPLETED that is broadcast after the system finishes booting."
+    },
+    {
+        "id": "RECEIVE_MMS",
+        "protection_level": "dangerous",
+        "qualified_name": "android.permission.RECEIVE_MMS",
+        "description": "Allows an application to monitor incoming MMS messages."
+    },
+    {
+        "id": "RECEIVE_SMS",
+        "protection_level": "dangerous",
+        "qualified_name": "android.permission.RECEIVE_SMS",
+        "description": "Allows an application to receive SMS messages."
+    },
+    {
+        "id": "RECEIVE_WAP_PUSH",
+        "protection_level": "dangerous",
+        "qualified_name": "android.permission.RECEIVE_WAP_PUSH",
+        "description": "Allows an application to receive WAP push messages."
+    },
+    {
+        "id": "RECORD_AUDIO",
+        "protection_level": "dangerous",
+        "qualified_name": "android.permission.RECORD_AUDIO",
+        "description": "Allows an application to record audio."
+    },
+    {
+        "id": "REORDER_TASKS",
+        "protection_level": "normal",
+        "qualified_name": "android.permission.REORDER_TASKS",
+        "description": "Allows an application to change the Z-order of tasks."
+    },
+    {
+        "id": "REQUEST_COMPANION_RUN_IN_BACKGROUND",
+        "protection_level": "normal",
+        "qualified_name": "android.permission.REQUEST_COMPANION_RUN_IN_BACKGROUND",
+        "description": "Allows a companion app to run in the background."
+    },
+    {
+        "id": "REQUEST_COMPANION_USE_DATA_IN_BACKGROUND",
+        "protection_level": "normal",
+        "qualified_name": "android.permission.REQUEST_COMPANION_USE_DATA_IN_BACKGROUND",
+        "description": "Allows a companion app to use data in the background."
+    },
+    {
+        "id": "REQUEST_DELETE_PACKAGES",
+        "protection_level": "normal",
+        "qualified_name": "android.permission.REQUEST_DELETE_PACKAGES",
+        "description": "Allows an application to request deleting packages."
+    },
+    {
+        "id": "REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+        "protection_level": "normal",
+        "qualified_name": "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+        "description": "Permission an application must hold in order to use Settings.ACTION_REQUEST_IGNORE_BATTERY_OPTIMIZATIONS."
+    },
+    {
+        "id": "REQUEST_INSTALL_PACKAGES",
+        "protection_level": "signature",
+        "qualified_name": "android.permission.REQUEST_INSTALL_PACKAGES",
+        "description": "Allows an application to request installing packages."
+    },
+    {
+        "id": "REQUEST_PASSWORD_COMPLEXITY",
+        "protection_level": "normal",
+        "qualified_name": "android.permission.REQUEST_PASSWORD_COMPLEXITY",
+        "description": "Allows an application to request the screen lock complexity and prompt users to update the screen lock to a certain complexity level."
+    },
+    {
+        "id": "RESTART_PACKAGES",
+        "protection_level": "Deprecated",
+        "qualified_name": "android.permission.RESTART_PACKAGES",
+        "description": "This constant was deprecated in API level 15. The ActivityManager.restartPackage(String) API is no longer supported."
+    },
+    {
+        "id": "SEND_RESPOND_VIA_MESSAGE",
+        "protection_level": "Not for use by third-party applications.",
+        "qualified_name": "android.permission.SEND_RESPOND_VIA_MESSAGE",
+        "description": "Allows an application (Phone) to send a request to other applications to handle the respond-via-message action during incoming calls."
+    },
+    {
+        "id": "SEND_SMS",
+        "protection_level": "dangerous",
+        "qualified_name": "android.permission.SEND_SMS",
+        "description": "Allows an application to send SMS messages."
+    },
+    {
+        "id": "SET_ALARM",
+        "protection_level": "normal",
+        "qualified_name": "com.android.alarm.permission.SET_ALARM",
+        "description": "Allows an application to broadcast an Intent to set an alarm for the user."
+    },
+    {
+        "id": "SET_ALWAYS_FINISH",
+        "protection_level": "Not for use by third-party applications.",
+        "qualified_name": "android.permission.SET_ALWAYS_FINISH",
+        "description": "Allows an application to control whether activities are immediately finished when put in the background."
+    },
+    {
+        "id": "SET_ANIMATION_SCALE",
+        "protection_level": "Not for use by third-party applications.",
+        "qualified_name": "android.permission.SET_ANIMATION_SCALE",
+        "description": "Modify the global animation scaling factor."
+    },
+    {
+        "id": "SET_DEBUG_APP",
+        "protection_level": "Not for use by third-party applications.",
+        "qualified_name": "android.permission.SET_DEBUG_APP",
+        "description": "Configure an application for debugging."
+    },
+    {
+        "id": "SET_PREFERRED_APPLICATIONS",
+        "protection_level": "Deprecated",
+        "qualified_name": "android.permission.SET_PREFERRED_APPLICATIONS",
+        "description": "This constant was deprecated in API level 15. No longer useful, see PackageManager.addPackageToPreferred(String) for details."
+    },
+    {
+        "id": "SET_PROCESS_LIMIT",
+        "protection_level": "Not for use by third-party applications.",
+        "qualified_name": "android.permission.SET_PROCESS_LIMIT",
+        "description": "Allows an application to set the maximum number of (not needed) application processes that can be running."
+    },
+    {
+        "id": "SET_TIME",
+        "protection_level": "Not for use by third-party applications.",
+        "qualified_name": "android.permission.SET_TIME",
+        "description": "Allows applications to set the system time directly."
+    },
+    {
+        "id": "SET_TIME_ZONE",
+        "protection_level": "Not for use by third-party applications.",
+        "qualified_name": "android.permission.SET_TIME_ZONE",
+        "description": "Allows applications to set the system time zone directly."
+    },
+    {
+        "id": "SET_WALLPAPER",
+        "protection_level": "normal",
+        "qualified_name": "android.permission.SET_WALLPAPER",
+        "description": "Allows applications to set the wallpaper."
+    },
+    {
+        "id": "SET_WALLPAPER_HINTS",
+        "protection_level": "normal",
+        "qualified_name": "android.permission.SET_WALLPAPER_HINTS",
+        "description": "Allows applications to set the wallpaper hints."
+    },
+    {
+        "id": "SIGNAL_PERSISTENT_PROCESSES",
+        "protection_level": "Not for use by third-party applications.",
+        "qualified_name": "android.permission.SIGNAL_PERSISTENT_PROCESSES",
+        "description": "Allow an application to request that a signal be sent to all persistent processes."
+    },
+    {
+        "id": "SMS_FINANCIAL_TRANSACTIONS",
+        "protection_level": "signature|appop",
+        "qualified_name": "android.permission.SMS_FINANCIAL_TRANSACTIONS",
+        "description": "Allows financial apps to read filtered sms messages."
+    },
+    {
+        "id": "START_VIEW_PERMISSION_USAGE",
+        "protection_level": "signature|installer",
+        "qualified_name": "android.permission.START_VIEW_PERMISSION_USAGE",
+        "description": "Allows the holder to start the permission usage screen for an app."
+    },
+    {
+        "id": "STATUS_BAR",
+        "protection_level": "Not for use by third-party applications.",
+        "qualified_name": "android.permission.STATUS_BAR",
+        "description": "Allows an application to open, close, or disable the status bar and its icons."
+    },
+    {
+        "id": "SYSTEM_ALERT_WINDOW",
+        "protection_level": "signature|preinstalled|appop|pre23|development",
+        "qualified_name": "android.permission.SYSTEM_ALERT_WINDOW",
+        "description": "Allows an app to create windows using the type WindowManager.LayoutParams.TYPE_APPLICATION_OVERLAY, shown on top of all other apps."
+    },
+    {
+        "id": "TRANSMIT_IR",
+        "protection_level": "normal",
+        "qualified_name": "android.permission.TRANSMIT_IR",
+        "description": "Allows using the device's IR transmitter, if available."
+    },
+    {
+        "id": "UNINSTALL_SHORTCUT",
+        "protection_level": "deprecated",
+        "qualified_name": "com.android.launcher.permission.UNINSTALL_SHORTCUT",
+        "description": "Don't use this permission in your app."
+    },
+    {
+        "id": "UPDATE_DEVICE_STATS",
+        "protection_level": "Not for use by third-party applications.",
+        "qualified_name": "android.permission.UPDATE_DEVICE_STATS",
+        "description": "Allows an application to update device statistics."
+    },
+    {
+        "id": "USE_BIOMETRIC",
+        "protection_level": "normal",
+        "qualified_name": "android.permission.USE_BIOMETRIC",
+        "description": "Allows an app to use device supported biometric modalities."
+    },
+    {
+        "id": "USE_FINGERPRINT",
+        "protection_level": "normal",
+        "qualified_name": "android.permission.USE_FINGERPRINT",
+        "description": "This constant was deprecated in API level 28. Applications should request USE_BIOMETRIC instead"
+    },
+    {
+        "id": "USE_FULL_SCREEN_INTENT",
+        "protection_level": "normal",
+        "qualified_name": "android.permission.USE_FULL_SCREEN_INTENT",
+        "description": "Required for apps targeting Build.VERSION_CODES.Q that want to use notification full screen intents."
+    },
+    {
+        "id": "USE_SIP",
+        "protection_level": "dangerous",
+        "qualified_name": "android.permission.USE_SIP",
+        "description": "Allows an application to use SIP service."
+    },
+    {
+        "id": "VIBRATE",
+        "protection_level": "normal",
+        "qualified_name": "android.permission.VIBRATE",
+        "description": "Allows access to the vibrator."
+    },
+    {
+        "id": "WAKE_LOCK",
+        "protection_level": "normal",
+        "qualified_name": "android.permission.WAKE_LOCK",
+        "description": "Allows using PowerManager WakeLocks to keep processor from sleeping or screen from dimming."
+    },
+    {
+        "id": "WRITE_APN_SETTINGS",
+        "protection_level": "Not for use by third-party applications.",
+        "qualified_name": "android.permission.WRITE_APN_SETTINGS",
+        "description": "Allows applications to write the apn settings and read sensitive fields of an existing apn settings like user and password."
+    },
+    {
+        "id": "WRITE_CALENDAR",
+        "protection_level": "dangerous",
+        "qualified_name": "android.permission.WRITE_CALENDAR",
+        "description": "Allows an application to write the user's calendar data."
+    },
+    {
+        "id": "WRITE_CALL_LOG",
+        "protection_level": "dangerous",
+        "qualified_name": "android.permission.WRITE_CALL_LOG",
+        "description": "Allows an application to write (but not read) the user's call log data."
+    },
+    {
+        "id": "WRITE_CONTACTS",
+        "protection_level": "dangerous",
+        "qualified_name": "android.permission.WRITE_CONTACTS",
+        "description": "Allows an application to write the user's contacts data."
+    },
+    {
+        "id": "WRITE_EXTERNAL_STORAGE",
+        "protection_level": "dangerous",
+        "qualified_name": "android.permission.WRITE_EXTERNAL_STORAGE",
+        "description": "Allows an application to write to external storage."
+    },
+    {
+        "id": "WRITE_GSERVICES",
+        "protection_level": "Not for use by third-party applications.",
+        "qualified_name": "android.permission.WRITE_GSERVICES",
+        "description": "Allows an application to modify the Google service map."
+    },
+    {
+        "id": "WRITE_SECURE_SETTINGS",
+        "protection_level": "Not for use by third-party applications.",
+        "qualified_name": "android.permission.WRITE_SECURE_SETTINGS",
+        "description": "Allows an application to read or write the secure system settings."
+    },
+    {
+        "id": "WRITE_SETTINGS",
+        "protection_level": "signature|preinstalled|appop|pre23",
+        "qualified_name": "android.permission.WRITE_SETTINGS",
+        "description": "Allows an application to read or write the system settings."
+    },
+    {
+        "id": "WRITE_SYNC_SETTINGS",
+        "protection_level": "normal",
+        "qualified_name": "android.permission.WRITE_SYNC_SETTINGS",
+        "description": "Allows applications to write the sync settings."
+    },
+    {
+        "id": "WRITE_VOICEMAIL",
+        "protection_level": "signature|privileged",
+        "qualified_name": "com.android.voicemail.permission.WRITE_VOICEMAIL",
+        "description": "Allows an application to modify and remove existing voicemails in the system."
+    }
+]
