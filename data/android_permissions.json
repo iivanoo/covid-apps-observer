@@ -1,4 +1,8 @@
-[
+{
+    "crawled_at": "1588416683",
+    "crawled_from": "https://developer.android.com/reference/android/Manifest.permission",
+    "api_level": 29,
+    "permissions": [
     {
         "id": "ACCEPT_HANDOVER",
         "protection_level": "dangerous",
@@ -1002,3 +1006,4 @@
         "description": "Allows an application to modify and remove existing voicemails in the system."
     }
 ]
+}

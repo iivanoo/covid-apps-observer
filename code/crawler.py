@@ -33,6 +33,10 @@ def get_reviews(app_to_scrape):
     return result
 
 def crawl_data(app):
+
+    # Tells to the caller that we just downloaded new data
+    is_new_data_available = False
+
     # Download Google Play metadata
     app_metadata = get_gp_metadata(app)
     app_latest_version = app_metadata['version']
@@ -41,6 +45,7 @@ def crawl_data(app):
     # Save the metadata if it is new
     metadata_path = c.DATA_PATH + app_suffix_path + c.SEPARATOR + 'metadata.json'
     if(not os.path.exists(metadata_path)):
+        is_new_data_available = True
         c.save(metadata_path, app_metadata)
 
     # Save the reviews if they are about an older version of the app 
@@ -61,3 +66,11 @@ def crawl_data(app):
     
     app['latest_crawled_version'] = app_latest_version
     app['latest_crawl'] = int(time.time())
+    
+    # Let's inform the user about whether new data has been crawled
+    if(is_new_data_available):
+        print('Crawled new data for: ' + app['id'] +  ' - version: ' + app_latest_version)
+    else:
+        print('Already up to date: ' + app['id'] +  ' - version: ' + app_latest_version)
+
+    return is_new_data_available

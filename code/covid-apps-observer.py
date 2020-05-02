@@ -8,8 +8,9 @@ def start():
     apps = json.load(open(c.APPS_PATH, 'r'))
 
     for a in apps:
-        crawler.crawl_data(a)
-        androguard_analyzer.analyze(a)
+        crawled_new_data = crawler.crawl_data(a)
+        if(crawled_new_data):
+            androguard_analyzer.analyze(a)
         
     # Finally, if everything goes well, save the updated apps.json file with the new timestamps and versions
     c.save(c.APPS_PATH, apps)
