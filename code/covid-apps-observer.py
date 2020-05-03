@@ -1,6 +1,6 @@
 import json
 import crawler as crawler
-import androguard_analyzer
+import androguard_androwarn_analyzer
 import configuration as c
 
 def start():
@@ -10,7 +10,7 @@ def start():
     for a in apps:
         crawled_new_data = crawler.crawl_data(a)
         if(crawled_new_data):
-            androguard_analyzer.analyze(a)
+            androguard_androwarn_analyzer.analyze(a)
         
     # Finally, if everything goes well, save the updated apps.json file with the new timestamps and versions
     c.save(c.APPS_PATH, apps)
