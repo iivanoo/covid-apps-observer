@@ -3,7 +3,7 @@ import json
 DATA_PATH = '../data/'
 APKS_PATH = '../apks/'
 
-APPS_PATH = DATA_PATH + 'apps.json'
+APPS_PATH = '../apps.json'
 
 SEPARATOR = '___'
 
