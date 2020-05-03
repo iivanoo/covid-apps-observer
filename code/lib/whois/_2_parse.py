@@ -53,8 +53,6 @@ def do_parse(whois_str, tld):
     if sn:
         whois_str = whois_str[whois_str.find('Domain Name:'):]
 
-    print(whois_str)
-
     for k, v in TLD_RE.get(tld, TLD_RE['com']).items():
         if v is None:
             r[k] = ['']

@@ -10,10 +10,10 @@
         "last_updated": null,
         "status": "ok https://icann.org/epp#ok",
         "statuses": [
-            "ok http://www.icann.org/epp#ok",
-            "ok https://icann.org/epp#ok"
+            "ok https://icann.org/epp#ok",
+            "ok http://www.icann.org/epp#ok"
         ],
-        "name_servers": "{'dns3.xyz-life.com', 'dns1.xyz-life.com', 'dns2.xyz-life.com\\r', 'dns2.xyz-life.com', 'dns3.xyz-life.com\\r', 'dns1.xyz-life.com\\r'}"
+        "name_servers": "{'dns1.xyz-life.com', 'dns3.xyz-life.com\\r', 'dns3.xyz-life.com', 'dns2.xyz-life.com\\r', 'dns1.xyz-life.com\\r', 'dns2.xyz-life.com'}"
     },
     {
         "name": "adilife.net",
@@ -26,9 +26,9 @@
         "last_updated": null,
         "status": "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
         "statuses": [
-            "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited",
-            "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+            "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+            "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited"
         ],
-        "name_servers": "{'dns2.technorail.com\\r', 'dns3.arubadns.net\\r', 'dns3.arubadns.net', 'dns.technorail.com\\r', 'dns.technorail.com', 'dns4.arubadns.cz\\r', 'dns2.technorail.com', 'dns4.arubadns.cz'}"
+        "name_servers": "{'dns4.arubadns.cz\\r', 'dns3.arubadns.net\\r', 'dns2.technorail.com\\r', 'dns.technorail.com\\r', 'dns2.technorail.com', 'dns4.arubadns.cz', 'dns3.arubadns.net', 'dns.technorail.com'}"
     }
 ]

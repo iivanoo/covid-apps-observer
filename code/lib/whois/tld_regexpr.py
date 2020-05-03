@@ -245,11 +245,9 @@ it = {
     'extend': 'com',
 
     'domain_name':				r'Domain:\s?(.+)',
-    # 'registrar':				r'Registrar:\s*Organization:\s*(.+)',
     'registrar':				r'Registrar[\n]*\s*Organization:\s*(.+)',
-    'registrant':               r'Registrant[[\n|\s]*.*[\n|\s]*]*Organization:\s*(.+)',
-    # 'registrant_country':       r'Registrant:\s?(Address):\s?(.+)',
-    'registrant_country':		r'Registrant[[\n|\s]*.*[\n|\s]*]*Address:[[\n|\s]*.*[\n|\s]*]*[[\n|\s]*.*[\n|\s]*]*[[\n|\s]*.*[\n|\s]*]*[[\n|\s]*.*[\n|\s]*]*(.+)',
+    'registrant':               r'Registrant[\[\n|\s]*.*[\n|\s]*]*Organization:\s*(.+)',
+    'registrant_country':		r'Registrant[\[\n|\s]*.*[\n|\s]*]*Address:[\[\n|\s]*.*[\n|\s]*]*[\[\n|\s]*.*[\n|\s]*]*[\[\n|\s]*.*[\n|\s]*]*[\[\n|\s]*.*[\n|\s]*]*(.+)',
 
     'creation_date':			r'Created:\s?(.+)',
     'expiration_date':			r'Expire Date:\s?(.+)',
@@ -265,8 +263,8 @@ nl = {
     'creation_date':			r'Creation Date:\s?(.+)',
     'updated_date':				r'Updated Date:\s?(.+)',
     'name_servers':				r'Domain nameservers:(?:\s+(\S+)\n)(?:\s+(\S+)\n)?(?:\s+(\S+)\n)?(?:\s+(\S+)\n)?(?:\s+(\S+)\n)?(?:\s+(\S+)\n)?\n?',
-    'registrar':               r'Registrar:[[\n|\s]\s+(.+)',
-    'registrar_country':       r'Registrar:[[\n|\s]*]*[[\n|\s]*.*[\n|\s]*]*[[\n|\s]*.*[\n|\s]*]*[[\n|\s]*.*[\n|\s]+(.+)',
+    'registrar':               r'Registrar:[\[\n|\s]\s+(.+)',
+    'registrar_country':       r'Registrar:[\[\n|\s]*]*[\[\n|\s]*.*[\n|\s]*]*[\[\n|\s]*.*[\n|\s]*]*[\[\n|\s]*.*[\n|\s]+(.+)',
 }
 
 fr = {
