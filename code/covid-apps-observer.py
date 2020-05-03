@@ -19,6 +19,7 @@ def start():
             # Analyze the servers pointed by the URLs we found in the String analysis of Androguard
         servers_analyzer.analyze(a)
         
+        
     # Finally, if everything goes well, save the updated apps.json file with the new timestamps and versions
     c.save(c.APPS_PATH, apps)
 

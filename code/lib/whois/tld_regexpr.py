@@ -3,8 +3,9 @@ com = {
 
     'domain_name':				r'Domain Name:\s?(.+)',
     'registrar':				r'Registrar:\s?(.+)',
-    'registrant':				None,
-    'registrant_country':       r'Registrant Country:\s?(.+)',
+    'registrar_country':        r'Registrar Country:\s*(.+)',
+    'registrant':				r'Registrant Organization:\s?(.+)',
+    'registrant_country':       r'Registrant Country:\s*(.+)',
 
     'creation_date':			r'Creation Date:\s?(.+)',
     'expiration_date':			r'Registry Expiry Date:\s?(.+)',
@@ -244,8 +245,11 @@ it = {
     'extend': 'com',
 
     'domain_name':				r'Domain:\s?(.+)',
-    'registrar':				r'Registrar:\s*Organization:\s*(.+)',
-    'registrant':				r'Registrant:\s?Name:\s?(.+)',
+    # 'registrar':				r'Registrar:\s*Organization:\s*(.+)',
+    'registrar':				r'Registrar[\n]*\s*Organization:\s*(.+)',
+    'registrant':               r'Registrant[[\n|\s]*.*[\n|\s]*]*Organization:\s*(.+)',
+    # 'registrant_country':       r'Registrant:\s?(Address):\s?(.+)',
+    'registrant_country':		r'Registrant[[\n|\s]*.*[\n|\s]*]*Address:[[\n|\s]*.*[\n|\s]*]*[[\n|\s]*.*[\n|\s]*]*[[\n|\s]*.*[\n|\s]*]*[[\n|\s]*.*[\n|\s]*]*(.+)',
 
     'creation_date':			r'Created:\s?(.+)',
     'expiration_date':			r'Expire Date:\s?(.+)',
@@ -253,6 +257,16 @@ it = {
 
     'name_servers':				r'Nameservers:\s?(.+)\s?(.+)\s?(.+)\s?(.+)',
     'status':					r'Status:\s?(.+)',
+}
+
+nl = {
+    'extend': 'com',
+    'domain_name':				r'Domain name:\s?(.+)',
+    'creation_date':			r'Creation Date:\s?(.+)',
+    'updated_date':				r'Updated Date:\s?(.+)',
+    'name_servers':				r'Domain nameservers:(?:\s+(\S+)\n)(?:\s+(\S+)\n)?(?:\s+(\S+)\n)?(?:\s+(\S+)\n)?(?:\s+(\S+)\n)?(?:\s+(\S+)\n)?\n?',
+    'registrar':               r'Registrar:[[\n|\s]\s+(.+)',
+    'registrar_country':       r'Registrar:[[\n|\s]*]*[[\n|\s]*.*[\n|\s]*]*[[\n|\s]*.*[\n|\s]*]*[[\n|\s]*.*[\n|\s]+(.+)',
 }
 
 fr = {

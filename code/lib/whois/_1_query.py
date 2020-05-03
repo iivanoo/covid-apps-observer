@@ -36,7 +36,7 @@ def cache_save(cf):
     f.close()
 
 
-def do_query(dl, force=0, cache_file=None, slow_down=0, ignore_returncode=0):
+def do_query(dl, force=1, cache_file=None, slow_down=0, ignore_returncode=0):
     k = '.'.join(dl)
     if cache_file:
         cache_load(cache_file)
