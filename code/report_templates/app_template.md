@@ -32,6 +32,12 @@ In the following we report the main information provided by the development team
 
 ## Android support
 
+|---|---|
+| **Declared target Android version**  | <<<TARGET_SDK_CODENAME>> (<<<TARGET_SDK_VERSION>>) |
+| **Effective target Android version**  | <<<EFFECTIVE_SDK_CODENAME>> (<<<EFFECTIVE_SDK_VERSION>>) |
+| **Minum supported Android version**  | <<<MIN_SDK_CODENAME>> (<<<MIN_SDK_VERSION>>) |
+| **Maximum target Android version**  | <<<MAX_SDK_CODENAME>> (<<<MAX_SDK_VERSION>>) |
+
 ## Requested permissions
 
 In the following we report the complete list of the permissions requested by the app. 
@@ -44,7 +50,7 @@ In the following we report the complete list of the permissions requested by the
 |---|---|---|
 <<<SERVERS_TABLE>>>
 
-## Androwarn analysis 
+## Security analysis 
 
 TODO
 

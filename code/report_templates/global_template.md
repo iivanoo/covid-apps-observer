@@ -66,7 +66,7 @@ This part of the analysis is based on the [Androguard][https://github.com/androg
 
 ### Security analysis
 
-This dimension is based on the [Androwarn][https://github.com/maaaaz/androwarn] structural and data flow analysis of Android bytecode. Androwarn is developed by the University of Lyon/INSA (France) and it has been used in several academic studies. According to its documentation, Androwarn targets the following categories of malicious behaviour:
+This dimension is based on the [Androwarn][https://github.com/maaaaz/androwarn] structural and data flow analysis of Android bytecode. Androwarn is developed by the University of Lyon/INSA (France) and it has been used in several academic studies. According to its documentation, Androwarn targets the following categories of potential security issues:
 * **Telephony identifiers exfiltration**: IMEI, IMSI, MCC, MNC, LAC, CID, operator's name, etc.
 * **Device settings exfiltration**: software version, usage statistics, system settings, logs, etc.
 * **Geolocation information leakage**: GPS/WiFi geolocation, etc.
@@ -80,9 +80,15 @@ This dimension is based on the [Androwarn][https://github.com/maaaaz/androwarn] 
 * **Arbitrary code execution**: native code using JNI, UNIX command, privilege escalation, etc.
 * **Denial of Service**: event notification deactivation, file deletion, process killing, virtual keyboard disable, terminal shutdown/reboot, etc.
 
+It is important to note that Androwarn is a static analysis tool, and as such it performs a variety of heuristics and approximations in its analyses. Said that, the results shown in this report are meant to provide an indication of _potential_ security issues and should be by no means treated as complete and correct.   
+
 ### User ratings and reviews
 
-For this dimension we turn again to the web interface of the Google Play store. Firstly, we automatically mine summary statistics about user ratings from the web page of the app under analysis; then, we automatically download the newest 1000 reviews of the app under analysis. For each level of rating (5 stars, 4 stars, , etc., 1 star) we show the main topics discussed by end users in their reviews in the Google Play store. Those topics are collected in a simple frequentist manner and are meant to help both future users and the developers of the app in understanding what are the main positive and negative points of the app under analysis.
+For this dimension we turn again to the web interface of the Google Play store. Firstly, we automatically mine summary statistics about user ratings from the web page of the app under analysis; then, we automatically download the newest 1000 reviews of the app under analysis. For each level of rating (5 stars, 4 stars, , etc., 1 star) we show:
+- a word cloud presenting the main terms used by end users in their reviews in the Google Play store
+- a random sample of 10 reviews in the Google Play store. 
+
+This purposefully simple analysis is meant to help both future users and the development team of the app in understanding what are the main positive and negative points of the app under analysis.
 
 We make use of the [google-play-scraper][https://github.com/JoMingyu/google-play-scraper] tool for extracting the raw data related to this dimension of the project.
 
