@@ -1,20 +1,20 @@
 {
     "permissions": [
-        "android.permission.INTERNET",
-        "android.permission.FLASHLIGHT",
-        "android.permission.CAMERA",
-        "android.permission.USE_FULL_SCREEN_INTENT",
-        "android.permission.MODIFY_AUDIO_SETTINGS",
-        "com.google.android.c2dm.permission.RECEIVE",
-        "android.permission.ACCESS_NETWORK_STATE",
-        "android.permission.WAKE_LOCK",
-        "android.permission.WRITE_EXTERNAL_STORAGE",
-        "android.permission.VIBRATE",
         "android.permission.RECORD_AUDIO",
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        "android.permission.FLASHLIGHT",
+        "android.permission.USE_FULL_SCREEN_INTENT",
+        "android.permission.VIBRATE",
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        "android.permission.WAKE_LOCK",
+        "android.permission.INTERNET",
+        "android.permission.CAMERA",
         "android.permission.READ_EXTERNAL_STORAGE",
         "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+        "com.google.android.c2dm.permission.RECEIVE",
         "android.webkit.PermissionRequest",
-        "android.permission.RECEIVE_BOOT_COMPLETED"
+        "android.permission.MODIFY_AUDIO_SETTINGS",
+        "android.permission.ACCESS_NETWORK_STATE"
     ],
     "activities": [
         "com.intellicare.covid.ActivityRTC",

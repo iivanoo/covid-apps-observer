@@ -1,5 +1,7 @@
 from androguard.misc import AnalyzeAPK
 from androguard.core.bytecodes.apk import APK
+from lib.warn.analysis.analysis import perform_analysis
+from lib.warn.report.report import generate_report
 import configuration as c
 
 # Analyses the app with Androguard - https://androguard.readthedocs.io/en/latest/intro/index.html
@@ -31,3 +33,13 @@ def analyze(app):
     app_suffix_path = app['id'] + c.SEPARATOR + app['latest_crawled_version']
     result_path = c.DATA_PATH + app_suffix_path + c.SEPARATOR + 'androguard.json' 
     c.save(result_path, result)
+
+    # Now we run also the Androwarn analysis (with no Play Store look up)
+    data = perform_analysis(apk_path, a, d, dx, False)
+
+    # We generate the JSON report with the following parameters
+    # Verbosity level: 3 (advanced)
+    # Report type: json
+    # Output path: same pattern as all the other JSON files produced so far
+    androwarn_report_path = c.DATA_PATH + app_suffix_path + c.SEPARATOR + 'androwarn.json' 
+    generate_report(app['id'], data, 3, 'json', androwarn_report_path)

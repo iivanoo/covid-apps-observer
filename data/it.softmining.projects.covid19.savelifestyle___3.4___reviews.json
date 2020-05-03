@@ -1,5 +1,60 @@
 [
     {
+        "userName": "Enzo De Fraia",
+        "userImage": "https://lh3.googleusercontent.com/-6ETGfCfENwE/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJPGoEqqkgoHDqJUBhWq1dFRSxD3eA/photo.jpg",
+        "content": "OTTIMA",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.4",
+        "at": "2020-05-03 07:01:29",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "userName": "Tiziano",
+        "userImage": "https://lh3.googleusercontent.com/-PcOiNmAJZqQ/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJPtB5whFDaOA7xxAOR48w2pQscc3w/photo.jpg",
+        "content": "NON FATEVI TRACCIARE DA QUESTA APP. \u00c8 TUTTA UNA GROSSA PRESA IN GIRO, NON CASCATECI! ATTENTI ITALIANI!",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.3",
+        "at": "2020-05-02 22:38:22",
+        "replyContent": "Incontri ravvicinati del terzo tipo. \ud83d\ude09",
+        "repliedAt": "2020-05-02 23:12:09"
+    },
+    {
+        "userName": "Riccardo F.",
+        "userImage": "https://lh3.googleusercontent.com/-IMidEUTsbJQ/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJNDJao4gmzOAnwFr64FUmuJcM9zWg/photo.jpg",
+        "content": "Ottima idea. La dovrebbero usare tutti. Non influisce per niente sulle prestazioni del telefono! Complimenti.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.3",
+        "at": "2020-05-02 22:21:25",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "userName": "Michela Civitillo",
+        "userImage": "https://lh3.googleusercontent.com/-i84Haxcbq5g/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJMmLWSDb4JSOXjKIZ_wjc3YmIKPdA/photo.jpg",
+        "content": "Io lo scaricata ma nn ho capito come funziona.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.3",
+        "at": "2020-05-01 22:46:10",
+        "replyContent": "Ciao Michela. L'App \u00e8 dedicata al contact tracing quindi va avviata e va attivato il Bluetooth quando esci di casa. Stiamo terminando la fase Beta di sperimentazione e a breve attiveremo le funzionalit\u00e0 complete. Per poter funzionare correttamente \u00e8 necessario che molte persone la installino quindi ti chiediamo di aiutarci condividendola.",
+        "repliedAt": "2020-05-02 00:50:11"
+    },
+    {
+        "userName": "Davide Tincani",
+        "userImage": "https://lh3.googleusercontent.com/-6bXgZTAySZ0/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJMPYF0JiSmlWSApSCBdX-XSpTMYOQ/photo.jpg",
+        "content": "\u00e8 il primo maggio....dove \u00e8 la versione senza beta test, cio\u00e8 operativa?! senza la possibilit\u00e0 di segnalarsi che senso ha l app?",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2020-05-01 14:50:45",
+        "replyContent": "Ciao Davide, stiamo espandendo la fase beta per avere un feedback da un insieme pi\u00f9 ampio di utilizzatori. Al momento l'app esegue la faze di contact tracing e se riusciamo a raggiungere un alto numero di utilizzatori saremo in grado di applicare modelli matematici per capire come questi contatti  (anonimi!) evolvono.",
+        "repliedAt": "2020-05-01 17:17:19"
+    },
+    {
         "userName": "Caterina Prosperini",
         "userImage": "https://lh3.googleusercontent.com/-NS-HvFmI8W4/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJO2vM8wxM9qO1ByykixV912Yxz4Cg/photo.jpg",
         "content": "Mi sento pi\u00f9 protetta",
@@ -29,17 +84,6 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "3.1",
         "at": "2020-04-30 17:34:46",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "userName": "Pietro Maffezzoni",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gj7Aiq4DsyfIjrudxUS1B91kJAr3HQ5CjwwEwXdwIs",
-        "content": "App molto buona per Emergenza Covid 19. Rendetela disponibile anche per chi ha Apple quindi su App Store.",
-        "score": 4,
-        "thumbsUpCount": 2,
-        "reviewCreatedVersion": "3.3",
-        "at": "2020-04-30 16:34:01",
         "replyContent": null,
         "repliedAt": null
     },
@@ -84,8 +128,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2020-04-30 05:35:49",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ciao Alessandro, il nostro obiettivo \u00e8 proprio quello di stimare un indice di rischio in grado di poter notificare a possibili asintomatici un rischio di contagio. Se il BT \u00e8 spento l'app non \u00e8 in grado di eseguire il contact-tracing. Ecco perch\u00e9 dovrebbe essere attivato quando si lasciano i posti sicuri (la propria abitazione).",
+        "repliedAt": "2020-05-02 00:52:01"
     },
     {
         "userName": "Paolino Conte",
@@ -106,8 +150,8 @@
         "thumbsUpCount": 4,
         "reviewCreatedVersion": null,
         "at": "2020-04-29 21:42:55",
-        "replyContent": "Grazie per aver scaricato SM-COVID-19. \nTutti i Suoi commenti (1-3) saranno risolti nella prossima versione secondo le linee guida di contact tracing rilasciate da Google/Apple, insieme alla nuova interfaccia grafica. Come richiesto da Google (4) siamo supportati dalle istituzioni competenti con le dovute autorizzazioni. \nIl team SM-COVID-19",
-        "repliedAt": "2020-04-14 21:24:38"
+        "replyContent": "Ciao Raw Main, vogliamo ringraziarti per il lavoro di analisi che stai portando avanti giorno dopo giorno (e che ci aiuta a scoprire bachi che ci sfuggono) sia sulla nostra soluzione che su tutte le altre soluzioni di CT proposte. Attendiamo anche noi DP3T e le GoogleApple API per integrarle nella nostra soluzione. Scrivici se ti va di aiutarci!",
+        "repliedAt": "2020-05-01 17:21:24"
     },
     {
         "userName": "FabioC 1",
@@ -117,8 +161,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "3.2",
         "at": "2020-04-29 18:18:29",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ciao Fabio, abbiamo provveduto a far correggere Abruzzo :-)",
+        "repliedAt": "2020-05-02 00:52:36"
     },
     {
         "userName": "Giuseppe Amorese",
@@ -183,8 +227,8 @@
         "thumbsUpCount": 1,
         "reviewCreatedVersion": null,
         "at": "2020-04-28 18:56:54",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ciao Claudio, abbiamo risolto il bug che ci hai indicato nella versione 3.3 attualmente sullo store.",
+        "repliedAt": "2020-05-01 17:22:09"
     },
     {
         "userName": "stefano arrais",
@@ -205,8 +249,8 @@
         "thumbsUpCount": 1,
         "reviewCreatedVersion": null,
         "at": "2020-04-28 14:06:24",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ciao Ale, il tuo problema dovrebbe essere ora risolto con la versione 3.3",
+        "repliedAt": "2020-05-01 17:22:43"
     },
     {
         "userName": "rocco santoro",
@@ -224,7 +268,7 @@
         "userImage": "https://lh3.googleusercontent.com/-CqXihop0sdM/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJOfsrQKwafTLtLvOsbGWshlrldFiA/photo.jpg",
         "content": "Dovrebbero installarla tutti. App completamente anonima, non raccoglie nessun dato privacy sensibile. Non consuma affatto batteria nonostante l'attivazione del GPS e del traffico dati. Aiuta a monitorare il livello di rischio di contagio a cui si \u00e8 sottoposti, eventuale sintomatologia e contiene utili consigli comportamentali per contenere la pandemia. Attualmente \u00e8 in versione Beta cio\u00e8 in via sperimentale in attesa di passare ad una versione definitiva. Bravo il team di sviluppatori. Voto 10!",
         "score": 5,
-        "thumbsUpCount": 10,
+        "thumbsUpCount": 17,
         "reviewCreatedVersion": "3.1",
         "at": "2020-04-27 12:49:25",
         "replyContent": null,
@@ -290,7 +334,7 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gi5OJ_6gJMMFLnhxWOz47mRP8V1s56Ul1J37flB2w",
         "content": "Interessante, soprattutto ora che disattivando il Bt magari dentro casa, non si \u00e8 pi\u00f9 avvisati costantemente di riattivarlo. Ovviamente un'app che dovrebbero scaricare tutti. A tal proposito sarebbe interessante sapere dall'app il numero di device attivi nella propria citt\u00e0 o provincia, in modo da poterne valutare la reale efficacia. Inoltre vorrei sapere a cosa serve la modalit\u00e0 all'aperto. Grazie",
         "score": 4,
-        "thumbsUpCount": 21,
+        "thumbsUpCount": 25,
         "reviewCreatedVersion": "3.1",
         "at": "2020-04-26 14:21:08",
         "replyContent": null,
@@ -304,8 +348,8 @@
         "thumbsUpCount": 40,
         "reviewCreatedVersion": "2.4",
         "at": "2020-04-26 00:02:34",
-        "replyContent": "Grazie per aver scaricato SM-COVID-19. Abbiamo risolto il problema del BlueTooth con la nuova versione aggiornata. Speriamo che una larga distribuzione possa aiutare le autorit\u00e0 a combattere la diffusione del virus congiuntamente anche con altre soluzioni. Il team SM-COVID-19",
-        "repliedAt": "2020-04-19 23:28:37"
+        "replyContent": "Ciao! Il bug che ci riporti dovrebbe ora essere risolto nella versione 3.3",
+        "repliedAt": "2020-05-01 17:23:27"
     },
     {
         "userName": "Michele Cardillo",
@@ -326,8 +370,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2020-04-25 20:18:11",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ciao Laura! Abbiamo risolto il tuo problema nella versione 3.3 attualmente disponibile sullo store!",
+        "repliedAt": "2020-05-02 00:53:30"
     },
     {
         "userName": "Roberto de marchi",
@@ -348,8 +392,8 @@
         "thumbsUpCount": 1,
         "reviewCreatedVersion": "3.0",
         "at": "2020-04-25 14:22:54",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ciao Lorenzo, abbiamo risolto il tuo problema nella versione 3.3",
+        "repliedAt": "2020-05-02 01:09:55"
     },
     {
         "userName": "Andrea De Vendictis",
@@ -469,8 +513,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2020-04-24 17:49:26",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ciao Andrea! Questa App \u00e8 dedicata al contact tracing per la generazione di modelli matematici e statistici. Guarda il video o visita il nostro sito web per saperne di piu!",
+        "repliedAt": "2020-05-02 23:13:48"
     },
     {
         "userName": "Carlo Enzo Ravasi",
@@ -502,8 +546,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2020-04-24 16:07:09",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ciao Marco, no Softmining \u00e8 l'azienda che produce la App (cio\u00e8 noi!). :-)",
+        "repliedAt": "2020-05-02 01:12:00"
     },
     {
         "userName": "Nicoleta Gabriela apetrei",
@@ -513,8 +557,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "2.6",
         "at": "2020-04-24 15:34:59",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ciao Nicoleta! Guarda la nuoca versione:-)",
+        "repliedAt": "2020-05-02 23:14:21"
     },
     {
         "userName": "Giulio de Fiore",
@@ -524,8 +568,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "2.6",
         "at": "2020-04-24 14:45:48",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ciao Giulio, abbiamo risolto io tuo problema nella versione 3.3",
+        "repliedAt": "2020-05-02 01:13:05"
     },
     {
         "userName": "Michele Del Vecchio",
@@ -678,8 +722,8 @@
         "thumbsUpCount": 1,
         "reviewCreatedVersion": null,
         "at": "2020-04-22 11:03:16",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ciao Angelo, il tuo problema dovrebbe essere ora risolto nella versione 3.3",
+        "repliedAt": "2020-05-02 23:15:08"
     },
     {
         "userName": "Piersimone Avena",
@@ -755,8 +799,8 @@
         "thumbsUpCount": 3,
         "reviewCreatedVersion": null,
         "at": "2020-04-22 01:39:13",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ciao Alessandro, il permesso CAMERA veniva ereditato dal componente che si occupava di generare il codice QR! Lo abbiamo sostituito e ora la camera \u00e8 sparita dai permessi richiesti:)",
+        "repliedAt": "2020-05-02 23:16:09"
     },
     {
         "userName": "Mauricio Andres Valassina",
@@ -818,11 +862,11 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiCfKVM5QH-7Kkmjwf1fwRbMoNkl0ytYIyU4J4U",
         "content": "La parte sulle statistiche va rivista, quelli che chiamate \"positivi totali\" sono gli attuali, quelli che chiamate \"positivi nuovi\" \u00e8 l'incremento giornaliero sui casi totali, quelli che chiamate \"variazione totale\" \u00e8 invece la variazione giornaliera sugli attuali. Attualmente la parte statistica \u00e8 l'unica su cui realmente si pu\u00f2 giudicare e se il buongiorno si vede dal mattino...",
         "score": 2,
-        "thumbsUpCount": 3,
+        "thumbsUpCount": 4,
         "reviewCreatedVersion": "2.6",
         "at": "2020-04-21 22:04:59",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ciao Gabriele! Fatto!",
+        "repliedAt": "2020-05-02 23:16:24"
     },
     {
         "userName": "giuseppe Orsini",
@@ -887,8 +931,8 @@
         "thumbsUpCount": 3,
         "reviewCreatedVersion": null,
         "at": "2020-04-21 15:45:26",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ciao! Il problema \u00e8 stato risolto dalla versione 3.3",
+        "repliedAt": "2020-05-02 23:16:46"
     },
     {
         "userName": "alex77k12",
@@ -898,8 +942,8 @@
         "thumbsUpCount": 1,
         "reviewCreatedVersion": "2.6",
         "at": "2020-04-21 15:42:24",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ciao Alex, abbiamo risolto il problema nella versione attualmente sullo store.",
+        "repliedAt": "2020-05-02 23:17:06"
     },
     {
         "userName": "francesco giordano",
@@ -986,8 +1030,8 @@
         "thumbsUpCount": 3,
         "reviewCreatedVersion": null,
         "at": "2020-04-21 11:22:16",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ciao Vincenzo! Nessun controllo del telefono tranquillo :-) solo un banale scambio di pacchetti Bluetooth nell'ambiente!",
+        "repliedAt": "2020-05-02 23:17:45"
     },
     {
         "userName": "animal channel lama",
@@ -1371,8 +1415,8 @@
         "thumbsUpCount": 1,
         "reviewCreatedVersion": null,
         "at": "2020-04-17 14:13:44",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ciao Paolo! Abbiamo risolto questo problema nella versione 2.9",
+        "repliedAt": "2020-05-02 23:18:48"
     },
     {
         "userName": "Oleksandr Krestin",
@@ -1382,8 +1426,8 @@
         "thumbsUpCount": 25,
         "reviewCreatedVersion": "2.5",
         "at": "2020-04-17 14:03:46",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ciao Oleksandr, abbiamo risolto tutti questi problemi nella versione 2.9",
+        "repliedAt": "2020-05-02 23:19:16"
     },
     {
         "userName": "ANTONIO IZZO",
@@ -1599,7 +1643,7 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhKzVZyNKKlHnw4bkJeL1awZVD8_8L92m8p5B94",
         "content": "L'idea \u00e8 ottima. Ma che garanzie ha chi \"incrocia\" me, visto che non avendomi fatto il tampone non risulto n\u00e9 positivo n\u00e9 negativo? Cos\u00ec pure per quelli con cui vengo in contatto io: d\u00e0 garanzie solo quando si viene in contatto con gente a cui \u00e8 stato fatto un tampone. E poi, ovviamente, vale quando si incrocia qualcuno che ha installata l'app.",
         "score": 5,
-        "thumbsUpCount": 125,
+        "thumbsUpCount": 135,
         "reviewCreatedVersion": "2.4",
         "at": "2020-04-15 18:18:05",
         "replyContent": "Grazie per aver scaricato SM-COVID-19. L'obiettivo \u00e8 ricreare la rete dei contatti in modo da poter intervenire in modo tempestivo e puntuale nel caso di segnalazione della positivit\u00e0 di un utente della rete. Per aggiornamenti e ulteriori informazioni la reinvio al sito www.smcovid19.org. Il team SM-COVID-19",
@@ -1786,7 +1830,7 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gj4D2R5f34kxU3-jU1OpTg_2E2fDv1vfWGNHB-IoA",
         "content": "Ottima e semplice, ci vorrebbe un collegamento con la sede della protezione civile nella provincia in cui si usa l'applicazione, ed essere geolocalizzati in continuo. Cos\u00ec nessuno pu\u00f2 fare il furbo, e solo chi ha l'autorizzazione prefettizia per lavorare viene escluso. Questa applicazione dovrebbe essere obbligatoria, ma tanto si sa, siamo italiani, e ognuno pensa per s\u00e9 e non agli altri.",
         "score": 5,
-        "thumbsUpCount": 35,
+        "thumbsUpCount": 36,
         "reviewCreatedVersion": "2.3",
         "at": "2020-04-13 09:15:06",
         "replyContent": "Grazie per aver scaricato SM-COVID-19. \nI tuoi suggerimenti sono ben accetti. Stiamo infatti collaborando con le autorit\u00e0 competenti per integrare nuove funzionalit\u00e0. A breve rilasciamo una versione aggiornata con nuova grafica. \nStay tuned!\nIl team SM-COVID-19",

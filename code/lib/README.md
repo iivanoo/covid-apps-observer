@@ -1,0 +1,1 @@
+This folder contains all external libraries of the project.
