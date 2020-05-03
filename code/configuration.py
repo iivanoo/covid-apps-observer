@@ -1,7 +1,7 @@
 import json
 
-DATA_PATH = './data/'
-APKS_PATH = './apks/'
+DATA_PATH = '../data/'
+APKS_PATH = '../apks/'
 
 APPS_PATH = DATA_PATH + 'apps.json'
 

@@ -1,14 +1,14 @@
 {
     "permissions": [
-        "it.lispa.sire.app.mobile.allertalom.permission.C2D_MESSAGE",
-        "android.permission.CALL_PHONE",
-        "android.permission.WRITE_EXTERNAL_STORAGE",
         "android.permission.GET_ACCOUNTS",
-        "android.permission.INTERNET",
         "android.permission.WAKE_LOCK",
+        "it.lispa.sire.app.mobile.allertalom.permission.C2D_MESSAGE",
+        "android.permission.ACCESS_NETWORK_STATE",
         "android.permission.READ_EXTERNAL_STORAGE",
-        "com.google.android.c2dm.permission.RECEIVE",
-        "android.permission.ACCESS_NETWORK_STATE"
+        "android.permission.INTERNET",
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        "android.permission.CALL_PHONE",
+        "com.google.android.c2dm.permission.RECEIVE"
     ],
     "activities": [
         "it.lispa.sire.app.mobile.allertalom.MainActivity",

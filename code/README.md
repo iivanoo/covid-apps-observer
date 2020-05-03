@@ -28,6 +28,9 @@ $ virtualenv -p python3 venv
 $ # Activate the just created virtual environment
 $ source venv/bin/activate
 
+$ # Move into the code directory
+$ cd code
+
 $ # Install all the required packages needed by covid-apps-observer
 $ python -m pip install -r requirements.txt
 ```
