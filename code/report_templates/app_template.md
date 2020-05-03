@@ -19,6 +19,12 @@
 | **Size**  | <<<APP_SIZE>> |
 | **Supported Android version**  | <<<APP_ANDROID_VERSION>> |
 
+### Description
+```<<<APP_DESCRIPTION>>>```
+
+### User interface
+```<<<SCREENSHOTS>>>```
+
 ## Development team
 
 In the following we report the main information provided by the development team in the Google play store.
@@ -71,12 +77,28 @@ The <<<APP_NAME>>> app has been installed by more than **<<<APP_MIN_INSTALLS>>>*
 
 <p align="center">
 <img src="resources/<<<APP_ID>>><<<SEPARATOR>>><<<APP_VERSION>>>/wordcloud_5_stars.png" alt="<<<APP_NAME>>> wordcloud" width="200"/>
+</p>
+
+TODO placeholders for 10 random reviews
+
+<p align="center">
 <img src="resources/<<<APP_ID>>><<<SEPARATOR>>><<<APP_VERSION>>>/wordcloud_4_stars.png" alt="<<<APP_NAME>>> wordcloud" width="200"/>
 </p>
+
+TODO placeholders for 10 random reviews
+
 <p align="center">
 <img src="resources/<<<APP_ID>>><<<SEPARATOR>>><<<APP_VERSION>>>/wordcloud_3_stars.png" alt="<<<APP_NAME>>> wordcloud" width="200"/>
+</p>
+
+TODO placeholders for 10 random reviews
+
+<p align="center">
 <img src="resources/<<<APP_ID>>><<<SEPARATOR>>><<<APP_VERSION>>>/wordcloud_2_stars.png" alt="<<<APP_NAME>>> wordcloud" width="200"/>
 </p>
+
+TODO placeholders for 10 random reviews
+
 <p align="center">
 <img src="resources/<<<APP_ID>>><<<SEPARATOR>>><<<APP_VERSION>>>/wordcloud_1_star.png" alt="<<<APP_NAME>>> wordcloud" width="200"/>
 </p>
