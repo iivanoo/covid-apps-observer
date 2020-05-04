@@ -4,9 +4,9 @@ Version ``3.2.1``
 <img src="icon.png" alt="OpenWHO: Knowledge for Health Emergencies icon" width="80"/>
 
 ## App overview
-|&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;| |
+| | |
 |-------------------------|-------------------------| 
-| **Name**  | OpenWHO: Knowledge for Health Emergencies |
+| **Name**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  | OpenWHO: Knowledge for Health Emergencies |
 | **Unique identifier** | de.xikolo.openwho |
 | **Link to Google Play** | [https://play.google.com/store/apps/details?id=de.xikolo.openwho](https://play.google.com/store/apps/details?id=de.xikolo.openwho) |
 | **Summary**  | Conoscenza salvavita per i soccorritori in prima linea nelle emergenze sanitarie. |

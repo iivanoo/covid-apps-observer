@@ -4,9 +4,9 @@ Version ``<<<APP_VERSION>>>``
 <img src="<<<ICON_PATH>>>" alt="<<<APP_TITLE>>> icon" width="80"/>
 
 ## App overview
-|&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;| |
+| | |
 |-------------------------|-------------------------| 
-| **Name**  | <<<APP_TITLE>>> |
+| **Name**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  | <<<APP_TITLE>>> |
 | **Unique identifier** | <<<APP_ID>>> |
 | **Link to Google Play** | [https://play.google.com/store/apps/details?id=<<<APP_ID>>>](https://play.google.com/store/apps/details?id=<<<APP_ID>>>) |
 | **Summary**  | <<<APP_SUMMARY>>> |
