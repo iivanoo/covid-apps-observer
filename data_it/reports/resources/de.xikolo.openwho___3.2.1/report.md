@@ -148,12 +148,12 @@ Below we provide information about how end users are reacting to the app in term
 
 ### Ratings
 
-The OpenWHO: Knowledge for Health Emergencies app has been installed by more than **1000000** times. At this time, **2325** rated the app and its average score is ***4.2620087. Below we show the distribution of the ratings across the usual star-based rating of Google Play
-* :star::star::star::star::star: 1573
-* :star::star::star::star: 274
-* :star::star::star: 203
-* :star::star: 60
-* :star: 213
+The OpenWHO: Knowledge for Health Emergencies app has been installed by more than **1000000** times. At this time, **2325** rated the app and its average score is **4.2620087**. Below we show the distribution of the ratings across the usual star-based rating of Google Play
+:star::star::star::star::star:: 1573
+:star::star::star::star:: 274
+:star::star::star:: 203
+:star::star:: 60
+:star:: 213
 
 ### Reviews 
 

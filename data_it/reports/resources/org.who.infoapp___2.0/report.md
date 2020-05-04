@@ -104,12 +104,12 @@ Below we provide information about how end users are reacting to the app in term
 
 ### Ratings
 
-The WHO Info app has been installed by more than **100000** times. At this time, **256** rated the app and its average score is ***3.62. Below we show the distribution of the ratings across the usual star-based rating of Google Play
-* :star::star::star::star::star: 135
-* :star::star::star::star: 38
-* :star::star::star: 0
-* :star::star: 12
-* :star: 69
+The WHO Info app has been installed by more than **100000** times. At this time, **256** rated the app and its average score is **3.62**. Below we show the distribution of the ratings across the usual star-based rating of Google Play
+:star::star::star::star::star:: 135
+:star::star::star::star:: 38
+:star::star::star:: 0
+:star::star:: 12
+:star:: 69
 
 ### Reviews 
 

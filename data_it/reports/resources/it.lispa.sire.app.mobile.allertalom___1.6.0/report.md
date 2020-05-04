@@ -137,12 +137,12 @@ Below we provide information about how end users are reacting to the app in term
 
 ### Ratings
 
-The allertaLOM app has been installed by more than **500000** times. At this time, **3266** rated the app and its average score is ***3.236923. Below we show the distribution of the ratings across the usual star-based rating of Google Play
-* :star::star::star::star::star: 1055
-* :star::star::star::star: 633
-* :star::star::star: 432
-* :star::star: 321
-* :star: 824
+The allertaLOM app has been installed by more than **500000** times. At this time, **3266** rated the app and its average score is **3.236923**. Below we show the distribution of the ratings across the usual star-based rating of Google Play
+:star::star::star::star::star:: 1055
+:star::star::star::star:: 633
+:star::star::star:: 432
+:star::star:: 321
+:star:: 824
 
 ### Reviews 
 
