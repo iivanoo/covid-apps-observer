@@ -23,6 +23,7 @@ Uniti ce la faremo! |
 | **Supported Android version**  | 4.4W e versioni successive |
 
 ### Description
+
 ```Questa App è stata sviluppata e viene costantemente aggiornata con l'obiettivo di valutare (attraverso la definizione di modelli statistici e matematici) il rischio di trasmissione (e il comportamento epidemico) del virus attraverso il monitoraggio:
 
 - del numero dei contatti
@@ -49,6 +50,8 @@ Sm-Covid-19 è stata sviluppata e viene manutenuta senza fini economici né di a
 Sm-Covid-19 non può essere considerata sostitutiva di una diagnosi medica.```
 
 ### User interface
+The developers of the app provide the following screenshots in the Google play store.
+
 <img src="../data_it/reports/resources/it.softmining.projects.covid19.savelifestyle___3.4/screenshot_1.png" alt="screenshot" width="300"/>
 <img src="../data_it/reports/resources/it.softmining.projects.covid19.savelifestyle___3.4/screenshot_2.png" alt="screenshot" width="300"/>
 <img src="../data_it/reports/resources/it.softmining.projects.covid19.savelifestyle___3.4/screenshot_3.png" alt="screenshot" width="300"/>
@@ -57,7 +60,6 @@ Sm-Covid-19 non può essere considerata sostitutiva di una diagnosi medica.```
 
 
 ## Development team
-
 In the following we report the main information provided by the development team in the Google play store.
 
 |---|---|
@@ -70,10 +72,10 @@ In the following we report the main information provided by the development team
 ## Android support
 
 |---|---|
-| **Declared target Android version**  | <<<TARGET_SDK_CODENAME>>> (<<<TARGET_SDK_VERSION>>) |
-| **Effective target Android version**  | <<<EFFECTIVE_SDK_CODENAME>>> (<<<EFFECTIVE_SDK_VERSION>>) |
-| **Minimum supported Android version**  | <<<MIN_SDK_CODENAME>>> (<<<MIN_SDK_VERSION>>) |
-| **Maximum target Android version**  | <<<MAX_SDK_CODENAME>>> (<<<MAX_SDK_VERSION>>) |
+| **Declared target Android version**  | Android10, version 10 (API level 29) |
+| **Effective target Android version**  | Android10, version 10 (API level 29) |
+| **Minimum supported Android version**  | KitKat W, version 4.4W - 4.4.4W (API level 20) |
+| **Maximum target Android version**  | - |
 
 ## Requested permissions
 

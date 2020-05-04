@@ -71,8 +71,11 @@ This will take quite some time in the first run since it will download the follo
 * the Google Play metadata (i.e., what you see when you browse the Google Play webpage of a mobile app)
 * the latest ``NUM_REVIEWS`` user reviews of the app (as specified in the ``configuration.py`` file)
 * the APK file of the app
+* Images containing the icon of the apps and their screenshots
 
 Moreover, a set of analyses is also executed for extracting and aggregating other information about the apps, such as their Android activities, used libraries, etc.
+
+The final output of the analysis is a Markdown file called ``report_<CURRENT_DATE>.md`` contained into the folder ``my_data`` folder. 
 
 ## Contributions
 

@@ -2,6 +2,7 @@ import json
 from datetime import datetime
 import os
 import shutil
+import re
 import configuration as c
 
 # We create the folder containing the report and all its static resources, we return the root folder for this report for convenience
@@ -45,7 +46,7 @@ def fill_placeholders(placeholders, template):
 
 # Checks if the passed value is usable in the produced report (e.g., if it is not None)
 def is_void(entry):
-    return (entry is None) or (entry == '')
+    return (entry is None) or (entry == '') or (entry == 'None')
 
 # Returns the same placeholders dictionary, but it substitues None or other null values with a fixed replacement string
 def fill_voids(placeholders):
@@ -117,18 +118,57 @@ def fill_dev_team(app, metadata, template):
     
     return fill_placeholders(placeholders, template)
 
+# Given the portion of json file produced by Androwarm, it extracts a more structured and mapped data structure with placeholders 
+def get_sdk_info(aw, sdk_info):
+    result = {
+        'target_sdk': None,
+        'effective_sdk': None,
+        'min_sdk': None,
+        'max_sdk': None,
+    }
+    contents = '\n'.join(aw)
+
+    target_sdk = re.findall(r'Declared target SDK:\s*(\d+)', contents) or None
+    effective_sdk = re.findall(r'Effective target SDK:\s*(\d+)', contents) or None
+    min_sdk = re.findall(r'Min SDK:\s*(\d+)', contents) or None
+    max_sdk = re.findall(r'Max SDK:\s*(\d+)', contents) or None
+
+    if(not target_sdk is None):
+        target_sdk = int(target_sdk[0])
+    if(not effective_sdk is None):
+        effective_sdk = int(effective_sdk[0])
+    if(not min_sdk is None):
+        min_sdk = int(min_sdk[0])
+    if(not max_sdk is None):
+        max_sdk = int(max_sdk[0])
+
+    for e in sdk_info['codenames']:
+        if(e['api_level'] == target_sdk):
+            result['target_sdk'] = e['codename'] + ', version ' + e['version'] + ' (API level ' + str(e['api_level']) + ')'
+        if(e['api_level'] == effective_sdk):
+            result['effective_sdk'] = e['codename'] + ', version ' + e['version'] + ' (API level ' + str(e['api_level']) + ')'
+        if(e['api_level'] == min_sdk):
+            result['min_sdk'] = e['codename'] + ', version ' + e['version'] + ' (API level ' + str(e['api_level']) + ')'
+        if(e['api_level'] == max_sdk):
+            result['max_sdk'] = e['codename'] + ', version ' + e['version'] + ' (API level ' + str(e['api_level']) + ')'
+
+    return result
+
 # Fill the Android section of the report
 def fill_android(app, androwarn, template):
+
+    sdk_info = json.load(open('static_resources/android_codenames.json', 'r'))
+
+    mapped_info = get_sdk_info(androwarn[3]['androidmanifest.xml'][1][1], sdk_info)
+
     placeholders = {
-        # 'TARGET_SDK_CODENAME': '',
-        # 'TARGET_SDK_VERSION': androwarn['developerWebsite'],
-        # 'EFFECTIVE_SDK_CODENAME': '',
-        # 'EFFECTIVE_SDK_VERSION': androwarn['developerAddress'],
-        # 'MIN_SDK_CODENAME': '',
-        # 'MIN_SDK_VERSION': androwarn['developerId'],
-        # 'MAX_SDK_CODENAME': '',
-        # 'MAX_SDK_VERSION': androwarn['developerId']
+        'TARGET_SDK': mapped_info['target_sdk'],
+        'EFFECTIVE_SDK': mapped_info['effective_sdk'],
+        'MIN_SDK': mapped_info['min_sdk'],
+        'MAX_SDK': mapped_info['max_sdk']
     }
+
+    placeholders = fill_voids(placeholders)
     
     return fill_placeholders(placeholders, template)
 
