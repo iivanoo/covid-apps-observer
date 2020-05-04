@@ -26,25 +26,27 @@ def collect_data():
     # Finally, if everything goes well, save the updated apps.json file with the new timestamps and versions
     c.save(c.APPS_PATH, apps)
 
-def create_report():
+def create_report(author_name, author_email):
     
     apps = json.load(open(c.APPS_PATH, 'r'))
 
-    app_reports = list()
+    app_reports = {}
     
     # We firstly create the internal reports, one for each analyzed app (and we accumulate of their contents)
     for a in apps:
-        app_reports.append(report_creator.create(a))
+        app_reports[a['id'] + c.SEPARATOR + a['latest_crawled_version']] = report_creator.create(a)
     
     # We create the final gloabl report, which will also include each single app report
-    global_report_path = report_creator.create_global_report(app_reports)
+    global_report_path = report_creator.create_global_report(app_reports, author_name, author_email)
 
     print('Congratulations, the analysis is over! The global report is available here: ' + global_report_path)
 
 def main():
-    # Argument definition and management
+    # Arguments definition and management
     parser = argparse.ArgumentParser()
     parser.add_argument('-i', '--input', help='Path to the folder containing the JSON file with the apps to analyze', required=True, type=str)
+    parser.add_argument('-an', '--author_name', help='Name of the author of the analysis', required=False, type=str)
+    parser.add_argument('-ae', '--author_email', help='Email address of the author of the analysis', required=False, type=str)
     options = parser.parse_args()
     # We don't even start if the provided path does not exist
     if(os.path.exists(options.input)):
@@ -57,7 +59,7 @@ def main():
 
 
     # collect_data()
-    create_report()
+    create_report(options.author_name, options.author_email)
 
 if __name__ == "__main__":
     main()

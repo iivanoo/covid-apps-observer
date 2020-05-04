@@ -31,7 +31,7 @@ $ source venv/bin/activate
 $ # Move into the code directory
 $ cd code
 
-$ # Install all the required packages needed by covid-apps-observer
+$ # Install all the required packages
 $ python -m pip install -r requirements.txt
 ```
 
@@ -64,7 +64,7 @@ The rest is automatically managed by the tool.
 Finally, you can launch the covid-apps-observer by running its main script as shown below.
 
 ```Shell
-$ python covid-apps-observer.py -i <path to the my_data directory>
+$ python covid-apps-observer.py -i <path to the my_data directory> -an <your name> -ae <your email address>
 ```
 
 This will take quite some time in the first run since it will download the following data _for each_ Android app specified in the ``apps.json`` file, specifically:

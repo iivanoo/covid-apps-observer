@@ -425,36 +425,42 @@ def create(app):
     return ''
 
 # Creates the report about the app
-def create_global_report(app_reports):
+def create_global_report(app_reports, author_name, author_email):
 
     print('Generating the global report...')
 
     with open('./report_templates/global_template.md', 'r') as template_file:
         template = template_file.read()
 
-        placeholders = {
-            # '5_STAR_WORDCLOUD': generate_word_cloud(5, reviews, app, report_folder),
-            # '4_STAR_WORDCLOUD': generate_word_cloud(4, reviews, app, report_folder),
-            # '3_STAR_WORDCLOUD': generate_word_cloud(3, reviews, app, report_folder),
-            # '2_STAR_WORDCLOUD': generate_word_cloud(2, reviews, app, report_folder),
-            # '1_STAR_WORDCLOUD': generate_word_cloud(1, reviews, app, report_folder),
-            # '5_STAR_REVIEWS': get_reviews(5, 10, reviews),
-            # '4_STAR_REVIEWS': get_reviews(4, 10, reviews),
-            # '3_STAR_REVIEWS': get_reviews(3, 10, reviews),
-            # '2_STAR_REVIEWS': get_reviews(2, 10, reviews),
-            # '1_STAR_REVIEWS': get_reviews(1, 10, reviews),
-        }
-
-        placeholders = fill_voids(placeholders)
-        fill_placeholders(placeholders, template)
-
+        # Timestamp used in the header of the report and in the name of the file
         now = datetime.now()
         timestamp = str(now.year) + '_' + str(now.month) + '_' + str(now.day)
 
-        file_path = c.REPORTS_PATH + 'report_' + timestamp + '.md'
+        # We rebase the paths to the images in the apps' reports so that they can still be used in the global report
+        rebased_app_reports = ''
+        for k, r in app_reports.items():
+            new_base = 'resources/' + k + '/'
+            rebased_report = r.replace('<<<REBASE_ME>>>', new_base)
+            rebased_app_reports = rebased_app_reports + rebased_report + '\n'
 
-        with open(file_path, "w") as report_file:
-            new_base = '.' # TODO to check
-            report_file.write(template.replace('<<<REBASE_ME>>>', new_base))
+        # We fetch the contents of the requirements.txt file so to include them in the credits at the end of the report
+        with open('requirements.txt', 'r') as req_file:
+            requirements_contents = req_file.read()
+
+            placeholders = {
+                'AUTHOR_NAME': author_name,
+                'AUTHOR_EMAIL': author_email,
+                'CREATED_AT': timestamp.replace('_', '/'),
+                'TOC': '',
+                'APPS_REPORTS': rebased_app_reports,
+                'REQUIREMENTS_CONTENTS': requirements_contents
+            }
+
+            placeholders = fill_voids(placeholders)
+            filled_template = fill_placeholders(placeholders, template)
+
+            file_path = c.REPORTS_PATH + 'report_' + timestamp + '.md'
+            with open(file_path, "w") as report_file:
+                report_file.write(filled_template)
         
-        return file_path
+            return file_path
