@@ -92,15 +92,15 @@ In the following we report the complete list of the permissions requested by the
 
 | **Permission** | **Protection level** | **Description** | 
 |---|---|---|
- **android.permission.ACCESS_NETWORK_STATE** | Normal | Allows applications to access information about networks. 
- **android.permission.CALL_PHONE** | <p class="text-red mb-2">:warning:Dangerous</p> | Allows an application to initiate a phone call without going through the Dialer user interface for the user to confirm the call. 
- **android.permission.GET_ACCOUNTS** | <p class="text-red mb-2">:warning:Dangerous</p> | Allows access to the list of accounts in the Accounts Service. 
- **android.permission.INTERNET** | Normal | Allows applications to open network sockets. 
- **android.permission.READ_EXTERNAL_STORAGE** | <p class="text-red mb-2">:warning:Dangerous</p> | Allows an application to read from external storage. 
- **android.permission.WAKE_LOCK** | Normal | Allows using PowerManager WakeLocks to keep processor from sleeping or screen from dimming. 
- **android.permission.WRITE_EXTERNAL_STORAGE** | <p class="text-red mb-2">:warning:Dangerous</p> | Allows an application to write to external storage. 
- **com.google.android.c2dm.permission.RECEIVE** | - | - 
- **it.lispa.sire.app.mobile.allertalom.permission.C2D_MESSAGE** | - | - 
+ **android.permission ACCESS_NETWORK_STATE** | Normal | Allows applications to access information about networks. 
+ **android.permission CALL_PHONE** | <p class="text-red mb-2">:warning:Dangerous</p> | Allows an application to initiate a phone call without going through the Dialer user interface for the user to confirm the call. 
+ **android.permission GET_ACCOUNTS** | <p class="text-red mb-2">:warning:Dangerous</p> | Allows access to the list of accounts in the Accounts Service. 
+ **android.permission INTERNET** | Normal | Allows applications to open network sockets. 
+ **android.permission READ_EXTERNAL_STORAGE** | <p class="text-red mb-2">:warning:Dangerous</p> | Allows an application to read from external storage. 
+ **android.permission WAKE_LOCK** | Normal | Allows using PowerManager WakeLocks to keep processor from sleeping or screen from dimming. 
+ **android.permission WRITE_EXTERNAL_STORAGE** | <p class="text-red mb-2">:warning:Dangerous</p> | Allows an application to write to external storage. 
+ **com.google.android.c2dm.permission RECEIVE** | - | - 
+ **it.lispa.sire.app.mobile.allertalom.permission C2D_MESSAGE** | - | - 
 
 
 ## Mentioned servers

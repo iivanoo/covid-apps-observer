@@ -191,6 +191,7 @@ def fill_permissions(app, androguard, template):
         except KeyError:
             description = '-'
             protection_level = '-'
+        p = ' '.join(p.rsplit('.', 1))
         permissions_table = permissions_table + ' **' + p + '** | ' + protection_level + ' | ' + description + ' \n' 
 
     placeholders = {
@@ -302,6 +303,8 @@ def fill_reviews(app, metadata, reviews, template):
 
 # Creates the report about the app
 def create(app):
+
+    print('Generating report for: ' + app['id'])
 
     report_folder = prepare_folders_structure(app)
 
