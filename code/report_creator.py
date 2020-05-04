@@ -424,6 +424,31 @@ def create(app):
         return template
     return ''
 
+def generate_toc(app_reports):
+    result = ''
+    result = result
+
+    return result
+
+# - [Install](#install)
+# - [CLI](#cli)
+# - [Highlights](#highlights)
+# - [Usage](#usage)
+# - [API](#api)
+#   * [toc.plugin](#tocplugin)
+#   * [toc.json](#tocjson)
+#   * [toc.insert](#tocinsert)
+#   * [Utility functions](#utility-functions)
+# - [Options](#options)
+#   * [options.append](#optionsappend)
+#   * [options.filter](#optionsfilter)
+#   * [options.slugify](#optionsslugify)
+#   * [options.bullets](#optionsbullets)
+#   * [options.maxdepth](#optionsmaxdepth)
+#   * [options.firsth1](#optionsfirsth1)
+#   * [options.stripHeadingTags](#optionsstripheadingtags)
+# - [About](#about)
+
 # Creates the report about the app
 def create_global_report(app_reports, author_name, author_email):
 
@@ -451,7 +476,7 @@ def create_global_report(app_reports, author_name, author_email):
                 'AUTHOR_NAME': author_name,
                 'AUTHOR_EMAIL': author_email,
                 'CREATED_AT': timestamp.replace('_', '/'),
-                'TOC': '',
+                'TOC': generate_toc(app_reports),
                 'APPS_REPORTS': rebased_app_reports,
                 'REQUIREMENTS_CONTENTS': requirements_contents
             }
