@@ -4,7 +4,7 @@ Version ``1.0.14``
 <img src="icon.png" alt="LAZIOdrCovid icon" width="80"/>
 
 ## App overview
-| | |
+|&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;| |
 |-------------------------|-------------------------| 
 | **Name**  | LAZIOdrCovid |
 | **Unique identifier** | com.intellicare.covid |

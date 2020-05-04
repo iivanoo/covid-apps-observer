@@ -4,7 +4,7 @@ Version ``4.0``
 <img src="icon.png" alt="Sicilia Si Cura icon" width="80"/>
 
 ## App overview
-| | |
+|&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;| |
 |-------------------------|-------------------------| 
 | **Name**  | Sicilia Si Cura |
 | **Unique identifier** | com.siciliasicura.app |

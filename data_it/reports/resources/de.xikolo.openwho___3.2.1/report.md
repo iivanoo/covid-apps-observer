@@ -4,7 +4,7 @@ Version ``3.2.1``
 <img src="icon.png" alt="OpenWHO: Knowledge for Health Emergencies icon" width="80"/>
 
 ## App overview
-| | |
+|&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;| |
 |-------------------------|-------------------------| 
 | **Name**  | OpenWHO: Knowledge for Health Emergencies |
 | **Unique identifier** | de.xikolo.openwho |

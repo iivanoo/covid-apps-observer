@@ -4,7 +4,7 @@ Version ``1.0.4``
 <img src="icon.png" alt="Covid-19 icon" width="80"/>
 
 ## App overview
-| | |
+|&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;| |
 |-------------------------|-------------------------| 
 | **Name**  | Covid-19 |
 | **Unique identifier** | it.adl.aslroma3.covid19.app |

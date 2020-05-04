@@ -4,7 +4,7 @@ Version ``3.4``
 <img src="icon.png" alt="SM_Covid19 icon" width="80"/>
 
 ## App overview
-| | |
+|&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;| |
 |-------------------------|-------------------------| 
 | **Name**  | SM_Covid19 |
 | **Unique identifier** | it.softmining.projects.covid19.savelifestyle |

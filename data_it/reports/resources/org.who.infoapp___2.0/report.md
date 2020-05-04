@@ -4,7 +4,7 @@ Version ``2.0``
 <img src="icon.png" alt="WHO Info icon" width="80"/>
 
 ## App overview
-| | |
+|&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;| |
 |-------------------------|-------------------------| 
 | **Name**  | WHO Info |
 | **Unique identifier** | org.who.infoapp |

@@ -4,7 +4,7 @@ Version ``1.6.0``
 <img src="icon.png" alt="allertaLOM icon" width="80"/>
 
 ## App overview
-| | |
+|&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;| |
 |-------------------------|-------------------------| 
 | **Name**  | allertaLOM |
 | **Unique identifier** | it.lispa.sire.app.mobile.allertalom |
