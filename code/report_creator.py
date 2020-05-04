@@ -77,7 +77,7 @@ def fill_overview(app, metadata, template, report_folder):
         'APP_SUMMARY': metadata['summary'].replace('\n', ' '),
         'APP_PRIVACY_POLICY': metadata['privacyPolicy'],
         'APP_UPDATED': datetime.fromtimestamp(metadata['updated']),
-        'APP_RECENT_CHANGES': metadata['recentChanges'],
+        'APP_RECENT_CHANGES': metadata['recentChanges'].replace('\n', ' '),
         'APP_INSTALLS': metadata['installs'],
         'APP_GENRE': metadata['genre'],
         'APP_RELEASE': metadata['released'],

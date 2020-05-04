@@ -14,8 +14,7 @@ Version ``1.6.0``
 | **Privacy policy** | [http://www.allertalom.regione.lombardia.it/privacyapp](http://www.allertalom.regione.lombardia.it/privacyapp) |
 | **Latest version** | 1.6.0 |
 | **Last update** | 2020-04-20 15:21:27 |
-| **Recent changes** | Nuova funzionalità emergenza Coronavirus - aprile 2020
-Possibilità di partecipare al progetto di monitoraggio attivo della diffusione del COVID-19 in Lombardia. |
+| **Recent changes** | Nuova funzionalità emergenza Coronavirus - aprile 2020 Possibilità di partecipare al progetto di monitoraggio attivo della diffusione del COVID-19 in Lombardia. |
 | **Installs**  | 500,000+ |
 | **Category** | Weather |
 | **First release** | Dec 11, 2019 |
