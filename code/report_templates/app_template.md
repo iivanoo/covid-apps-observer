@@ -6,9 +6,9 @@ Version ``<<<APP_VERSION>>>``
 <img src="<<<ICON_PATH>>>" alt="<<<APP_TITLE>>> icon" width="200"/>
 
 | | |
-|:-------------------------:|:-------------------------:|
+|-------------------------|-------------------------|
 | **Name**  | <<<APP_TITLE>>> |
-| **Unique identifier** | <<<APP_ID>>>> |
+| **Unique identifier** | <<<APP_ID>>> |
 | **Link to Google Play** | [https://play.google.com/store/apps/details?id=<<<APP_ID>>>](https://play.google.com/store/apps/details?id=<<<APP_ID>>>) |
 | **Summary**  | <<<APP_SUMMARY>>> |
 | **Privacy policy** | [<<<APP_PRIVACY_POLICY>>>](<<<APP_PRIVACY_POLICY>>>) |
@@ -37,7 +37,7 @@ The developers of the app provide the following screenshots in the Google play s
 In the following we report the main information provided by the development team in the Google play store.
 
 | | |
-|:-------------------------:|:-------------------------:|
+|-------------------------|-------------------------|
 | **Developer**  | <<<APP_DEVELOPER>>> |
 | **Website**  | <<<DEVELOPER_WEBSITE>>> |
 | **Email** | <<<DEV_EMAIL>>> |
@@ -47,7 +47,7 @@ In the following we report the main information provided by the development team
 ## Android support
 
 | | |
-|:-------------------------:|:-------------------------:|
+|-------------------------|-------------------------|
 | **Declared target Android version**  | <<<TARGET_SDK>>> |
 | **Effective target Android version**  | <<<EFFECTIVE_SDK>>> |
 | **Minimum supported Android version**  | <<<MIN_SDK>>> |
@@ -58,13 +58,13 @@ In the following we report the main information provided by the development team
 In the following we report the complete list of the permissions requested by the app. 
 
 | **Permission** | **Protection level** | **Description** | 
-|---|---|---|
+|-------------------------|-------------------------|-------------------------|
 <<<PERMISSIONS_TABLE>>>
 
 ## Mentioned servers
 
 | **Server** | **Registrant** | **Registrant country** | **Creation date** | 
-|---|---|---|---|
+|-------------------------|-------------------------|-------------------------|-------------------------|
 <<<SERVERS_TABLE>>>
 
 ## Security analysis 
