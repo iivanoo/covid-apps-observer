@@ -1,5 +1,6 @@
 # SM_Covid19
-Version ``3.4``
+App version ``3.4``
+Analyzed with [covid-apps-observer][http://github.com/covid-apps-observer] project, version ``0.1``
 
 <img src="icon.png" alt="SM_Covid19 icon" width="80"/>
 

@@ -1,5 +1,6 @@
 # OpenWHO: Knowledge for Health Emergencies
-Version ``3.2.1``
+App version ``3.2.1``
+Analyzed with [covid-apps-observer][http://github.com/covid-apps-observer] project, version ``0.1``
 
 <img src="icon.png" alt="OpenWHO: Knowledge for Health Emergencies icon" width="80"/>
 

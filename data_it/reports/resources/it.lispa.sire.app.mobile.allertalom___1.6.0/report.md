@@ -1,5 +1,6 @@
 # allertaLOM
-Version ``1.6.0``
+App version ``1.6.0``
+Analyzed with [covid-apps-observer][http://github.com/covid-apps-observer] project, version ``0.1``
 
 <img src="icon.png" alt="allertaLOM icon" width="80"/>
 

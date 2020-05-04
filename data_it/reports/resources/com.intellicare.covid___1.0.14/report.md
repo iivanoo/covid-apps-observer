@@ -1,5 +1,6 @@
 # LAZIOdrCovid
-Version ``1.0.14``
+App version ``1.0.14``
+Analyzed with [covid-apps-observer][http://github.com/covid-apps-observer] project, version ``0.1``
 
 <img src="icon.png" alt="LAZIOdrCovid icon" width="80"/>
 
