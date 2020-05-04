@@ -68,13 +68,13 @@ In the following we report the complete list of the permissions requested by the
 
 | **Permission** | **Protection level** | **Description** | 
 |-------------------------|-------------------------|-------------------------|
- **android.permission<br>ACCESS_COARSE_LOCATION** | <p class="text-red mb-2">:warning:Dangerous</p> | Allows an app to access approximate location. 
- **android.permission<br>ACCESS_FINE_LOCATION** | <p class="text-red mb-2">:warning:Dangerous</p> | Allows an app to access precise location. 
+ **android.permission<br>ACCESS_COARSE_LOCATION** | <p style="color: red;">:warning:Dangerous</p> | Allows an app to access approximate location. 
+ **android.permission<br>ACCESS_FINE_LOCATION** | <p style="color: red;">:warning:Dangerous</p> | Allows an app to access precise location. 
  **android.permission<br>ACCESS_NETWORK_STATE** | Normal | Allows applications to access information about networks. 
  **android.permission<br>INTERNET** | Normal | Allows applications to open network sockets. 
- **android.permission<br>READ_EXTERNAL_STORAGE** | <p class="text-red mb-2">:warning:Dangerous</p> | Allows an application to read from external storage. 
+ **android.permission<br>READ_EXTERNAL_STORAGE** | <p style="color: red;">:warning:Dangerous</p> | Allows an application to read from external storage. 
  **android.permission<br>WAKE_LOCK** | Normal | Allows using PowerManager WakeLocks to keep processor from sleeping or screen from dimming. 
- **android.permission<br>WRITE_EXTERNAL_STORAGE** | <p class="text-red mb-2">:warning:Dangerous</p> | Allows an application to write to external storage. 
+ **android.permission<br>WRITE_EXTERNAL_STORAGE** | <p style="color: red;">:warning:Dangerous</p> | Allows an application to write to external storage. 
  **com.google.android.c2dm.permission<br>RECEIVE** | - | - 
 
 

@@ -72,22 +72,22 @@ In the following we report the complete list of the permissions requested by the
 
 | **Permission** | **Protection level** | **Description** | 
 |-------------------------|-------------------------|-------------------------|
- **android.permission<br>ACCESS_BACKGROUND_LOCATION** | <p class="text-red mb-2">:warning:Dangerous</p> | Allows an app to access location in the background. 
- **android.permission<br>ACCESS_COARSE_LOCATION** | <p class="text-red mb-2">:warning:Dangerous</p> | Allows an app to access approximate location. 
- **android.permission<br>ACCESS_FINE_LOCATION** | <p class="text-red mb-2">:warning:Dangerous</p> | Allows an app to access precise location. 
+ **android.permission<br>ACCESS_BACKGROUND_LOCATION** | <p style="color: red;">:warning:Dangerous</p> | Allows an app to access location in the background. 
+ **android.permission<br>ACCESS_COARSE_LOCATION** | <p style="color: red;">:warning:Dangerous</p> | Allows an app to access approximate location. 
+ **android.permission<br>ACCESS_FINE_LOCATION** | <p style="color: red;">:warning:Dangerous</p> | Allows an app to access precise location. 
  **android.permission<br>ACCESS_NETWORK_STATE** | Normal | Allows applications to access information about networks. 
  **android.permission<br>BLUETOOTH** | Normal | Allows applications to connect to paired bluetooth devices. 
  **android.permission<br>BLUETOOTH_ADMIN** | Normal | Allows applications to discover and pair bluetooth devices. 
  **android.permission<br>FOREGROUND_SERVICE** | Normal | Allows a regular application to use Service.startForeground. 
  **android.permission<br>INTERNET** | Normal | Allows applications to open network sockets. 
  **android.permission<br>READ_APP_BADGE** | - | - 
- **android.permission<br>READ_EXTERNAL_STORAGE** | <p class="text-red mb-2">:warning:Dangerous</p> | Allows an application to read from external storage. 
+ **android.permission<br>READ_EXTERNAL_STORAGE** | <p style="color: red;">:warning:Dangerous</p> | Allows an application to read from external storage. 
  **android.permission<br>RECEIVE_BOOT_COMPLETED** | Normal | Allows an application to receive the Intent.ACTION_BOOT_COMPLETED that is broadcast after the system finishes booting. 
  **android.permission<br>SYSTEM_ALERT_WINDOW** | Signature - preinstalled - appop - pre23 - development | Allows an app to create windows using the type WindowManager.LayoutParams.TYPE_APPLICATION_OVERLAY, shown on top of all other apps. 
  **android.permission<br>USE_FULL_SCREEN_INTENT** | Normal | Required for apps targeting Build.VERSION_CODES.Q that want to use notification full screen intents. 
  **android.permission<br>VIBRATE** | Normal | Allows access to the vibrator. 
  **android.permission<br>WAKE_LOCK** | Normal | Allows using PowerManager WakeLocks to keep processor from sleeping or screen from dimming. 
- **android.permission<br>WRITE_EXTERNAL_STORAGE** | <p class="text-red mb-2">:warning:Dangerous</p> | Allows an application to write to external storage. 
+ **android.permission<br>WRITE_EXTERNAL_STORAGE** | <p style="color: red;">:warning:Dangerous</p> | Allows an application to write to external storage. 
  **com.anddoes.launcher.permission<br>UPDATE_COUNT** | - | - 
  **com.google.android.c2dm.permission<br>RECEIVE** | - | - 
  **com.google.android.finsky.permission<br>BIND_GET_INSTALL_REFERRER_SERVICE** | - | - 

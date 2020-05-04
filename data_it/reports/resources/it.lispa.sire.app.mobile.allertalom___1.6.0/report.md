@@ -80,12 +80,12 @@ In the following we report the complete list of the permissions requested by the
 | **Permission** | **Protection level** | **Description** | 
 |-------------------------|-------------------------|-------------------------|
  **android.permission<br>ACCESS_NETWORK_STATE** | Normal | Allows applications to access information about networks. 
- **android.permission<br>CALL_PHONE** | <p class="text-red mb-2">:warning:Dangerous</p> | Allows an application to initiate a phone call without going through the Dialer user interface for the user to confirm the call. 
- **android.permission<br>GET_ACCOUNTS** | <p class="text-red mb-2">:warning:Dangerous</p> | Allows access to the list of accounts in the Accounts Service. 
+ **android.permission<br>CALL_PHONE** | <p style="color: red;">:warning:Dangerous</p> | Allows an application to initiate a phone call without going through the Dialer user interface for the user to confirm the call. 
+ **android.permission<br>GET_ACCOUNTS** | <p style="color: red;">:warning:Dangerous</p> | Allows access to the list of accounts in the Accounts Service. 
  **android.permission<br>INTERNET** | Normal | Allows applications to open network sockets. 
- **android.permission<br>READ_EXTERNAL_STORAGE** | <p class="text-red mb-2">:warning:Dangerous</p> | Allows an application to read from external storage. 
+ **android.permission<br>READ_EXTERNAL_STORAGE** | <p style="color: red;">:warning:Dangerous</p> | Allows an application to read from external storage. 
  **android.permission<br>WAKE_LOCK** | Normal | Allows using PowerManager WakeLocks to keep processor from sleeping or screen from dimming. 
- **android.permission<br>WRITE_EXTERNAL_STORAGE** | <p class="text-red mb-2">:warning:Dangerous</p> | Allows an application to write to external storage. 
+ **android.permission<br>WRITE_EXTERNAL_STORAGE** | <p style="color: red;">:warning:Dangerous</p> | Allows an application to write to external storage. 
  **com.google.android.c2dm.permission<br>RECEIVE** | - | - 
  **it.lispa.sire.app.mobile.allertalom.permission<br>C2D_MESSAGE** | - | - 
 

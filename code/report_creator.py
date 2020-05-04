@@ -197,7 +197,7 @@ def fill_permissions(app, androguard, template):
             description = permissions[p]['description']
             protection_level = permissions[p]['protection_level'].capitalize().replace('|', ' - ')
             if protection_level == 'Dangerous':
-                protection_level = '<p class="text-red mb-2">:warning:' + protection_level + '</p>'
+                protection_level = '<p style="color: red;">:warning:' + protection_level + '</p>'
         except KeyError:
             description = '-'
             protection_level = '-'

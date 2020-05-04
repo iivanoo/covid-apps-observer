@@ -81,8 +81,8 @@ In the following we report the complete list of the permissions requested by the
 
 | **Permission** | **Protection level** | **Description** | 
 |-------------------------|-------------------------|-------------------------|
- **android.permission<br>ACCESS_COARSE_LOCATION** | <p class="text-red mb-2">:warning:Dangerous</p> | Allows an app to access approximate location. 
- **android.permission<br>ACCESS_FINE_LOCATION** | <p class="text-red mb-2">:warning:Dangerous</p> | Allows an app to access precise location. 
+ **android.permission<br>ACCESS_COARSE_LOCATION** | <p style="color: red;">:warning:Dangerous</p> | Allows an app to access approximate location. 
+ **android.permission<br>ACCESS_FINE_LOCATION** | <p style="color: red;">:warning:Dangerous</p> | Allows an app to access precise location. 
  **android.permission<br>ACCESS_NETWORK_STATE** | Normal | Allows applications to access information about networks. 
  **android.permission<br>BLUETOOTH** | Normal | Allows applications to connect to paired bluetooth devices. 
  **android.permission<br>BLUETOOTH_ADMIN** | Normal | Allows applications to discover and pair bluetooth devices. 
