@@ -135,7 +135,7 @@ The LAZIOdrCovid app has been installed by more than **50000** times. At this ti
 #### 5-star reviews
 
 <p align="center">
--
+<img src="5_star_reviews_wordcloud.png" alt="com.intellicare.covid 5 reviews"/>
 </p>
 
 > Dopo la segnalazione hanno aggionato l'app e ora funziona<br> :date: __2020-05-02 10:25:12__
@@ -163,7 +163,7 @@ The LAZIOdrCovid app has been installed by more than **50000** times. At this ti
 #### 4-star reviews
 
 <p align="center">
--
+<img src="4_star_reviews_wordcloud.png" alt="com.intellicare.covid 4 reviews"/>
 </p>
 
 > Un buon progetto e decisamente un buon inizio, spero che per il futuro non si abbandonerà questo progetto ma che si possa ampliare per utilizzarlo aggiornando funzionalità.<br> :date: __2020-04-14 12:22:09__
@@ -191,7 +191,7 @@ The LAZIOdrCovid app has been installed by more than **50000** times. At this ti
 #### 3-star reviews
 
 <p align="center">
--
+<img src="3_star_reviews_wordcloud.png" alt="com.intellicare.covid 3 reviews"/>
 </p>
 
 > Ok ma il fatto che nella scheda "contatta il tuo medico" non compaia piú in nome del mio medico cosa significa? é voluto?<br> :date: __2020-04-30 12:58:44__
@@ -219,7 +219,7 @@ The LAZIOdrCovid app has been installed by more than **50000** times. At this ti
 #### 2-star reviews
 
 <p align="center">
--
+<img src="2_star_reviews_wordcloud.png" alt="com.intellicare.covid 2 reviews"/>
 </p>
 
 > Non aggiunge né leva nulla alle altre mille sul corona virus<br> :date: __2020-05-04 12:03:16__
@@ -247,7 +247,7 @@ The LAZIOdrCovid app has been installed by more than **50000** times. At this ti
 #### 1-star reviews
 
 <p align="center">
--
+<img src="1_star_reviews_wordcloud.png" alt="com.intellicare.covid 1 reviews"/>
 </p>
 
 > Da 1 mese e mezzo cerco di installarla e non c'è verso che funzioni. Mi fa inserire i miei dati,mi avverte di aver inviato un SMS al mio numero e di cliccare sul link. SMS mai arrivato. Inoltre sull'app accessibile da PC, riservata ai medici manca la colonna dei tamponi.<br> :date: __2020-04-30 15:14:08__

@@ -165,7 +165,7 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 #### 5-star reviews
 
 <p align="center">
--
+<img src="5_star_reviews_wordcloud.png" alt="de.xikolo.openwho 5 reviews"/>
 </p>
 
 > Useful and well-structured<br> :date: __2020-04-23 13:33:22__
@@ -201,7 +201,7 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 #### 1-star reviews
 
 <p align="center">
--
+<img src="1_star_reviews_wordcloud.png" alt="de.xikolo.openwho 1 reviews"/>
 </p>
 
 > Non c'è in italiano<br> :date: __2020-04-14 23:32:56__

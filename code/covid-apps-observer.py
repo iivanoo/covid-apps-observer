@@ -1,5 +1,6 @@
 import json
 import os
+import ssl
 import argparse
 import crawler as crawler
 import androguard_androwarn_analyzer
@@ -20,6 +21,7 @@ def collect_data():
             # Launch the Androguard and Androwarn analyses
             androguard_androwarn_analyzer.analyze(a)
             # Analyze the servers pointed by the URLs we found in the String analysis of Androguard
+            servers_analyzer.analyze(a)
         
     # Finally, if everything goes well, save the updated apps.json file with the new timestamps and versions
     c.save(c.APPS_PATH, apps)
@@ -42,10 +44,12 @@ def main():
     else:
         print('Error - the provided path does not exist: ' + options.input)
 
-    collect_data()
-    create_report()
+    # This will allow us to trust SSL certificates from the servers we will interact with (e.g., the one for downloading NLTK stop word)
+    ssl._create_default_https_context = ssl._create_unverified_context
 
-    # servers_analyzer.analyze({'id':'it.softmining.projects.covid19.savelifestyle', 'latest_crawled_version': '3.4'})
+
+    # collect_data()
+    create_report()
 
 if __name__ == "__main__":
     main()

@@ -3,6 +3,13 @@ from datetime import datetime
 import os
 import shutil
 import re
+from wordcloud import WordCloud, ImageColorGenerator
+import matplotlib.pyplot as plt
+from PIL import Image
+import numpy as np
+import nltk
+import pycountry
+from nltk.corpus import stopwords
 import configuration as c
 
 # We create the folder containing the report and all its static resources, we return the root folder for this report for convenience
@@ -67,13 +74,13 @@ def fill_overview(app, metadata, template, report_folder):
     screenshots = ''
     for i, s in enumerate(metadata['screenshots'], start=1):
         s_path = 'screenshot_' + str(i) + '.png'
-        screenshots = screenshots + ' | <img src="' + s_path + '" alt="screenshot" width="300"/> '
+        screenshots = screenshots + ' | <img src="<<<REBASE_ME>>>' + s_path + '" alt="screenshot" width="300"/> '
         if(i % 3 == 0):
             screenshots = screenshots + ' | \n'  
         c.download(s, report_folder + s_path) 
 
     placeholders = {
-        'ICON_PATH': icon_path,
+        'ICON_PATH': '<<<REBASE_ME>>>' + icon_path,
         'SEPARATOR': c.SEPARATOR,
         'APP_TITLE': metadata['title'],
         'APP_VERSION': app['latest_crawled_version'],
@@ -325,14 +332,45 @@ def get_reviews(stars, amount, reviews):
         i = i + 1
     return result
 
+# Generates a word cloud of the most used terms in the reviews with "stars" stars
+def generate_word_cloud(stars, reviews, app, report_folder):
+    count = 0
+    text_to_plot = ''
+    # We concatenate all the reviews with the same number of stars into a single string 
+    for r in reviews:
+        if(r['score'] == stars):
+            count = count + 1
+            text_to_plot = text_to_plot + ' ' + r['content']
+
+    if count > 0:
+        # We remove all stop words from the collected reviews
+        nltk.download('stopwords')
+        # We split the string so to be able to remove stop words
+        word_list = text_to_plot.split( )
+        # Stop words depend on the language of the Google Play store from which we are crawling
+        language = pycountry.languages.get(alpha_2=app['store_lang']).name.lower()
+        filtered_words = [word for word in word_list if word not in stopwords.words(language)]
+        # We join back the string
+        text_to_plot = ' '.join(filtered_words)
+
+        # We generate the word cloud
+        wc = WordCloud(width=600, height=300, background_color="white")
+        wc.generate(text_to_plot)
+
+        file_path = str(stars) + '_star_reviews_wordcloud.png'
+        wc.to_file(report_folder + file_path)
+
+        return '<img src="<<<REBASE_ME>>>' + file_path + '" alt="' + app['id'] + ' ' + str(stars) + ' reviews"/>'
+    return None
+
 # Fill the Reviews section of the report
-def fill_reviews(app, metadata, reviews, template):
+def fill_reviews(app, metadata, reviews, template, report_folder):
     placeholders = {
-        '5_STAR_WORDCLOUD': '',
-        '4_STAR_WORDCLOUD': '',
-        '3_STAR_WORDCLOUD': '',
-        '2_STAR_WORDCLOUD': '',
-        '1_STAR_WORDCLOUD': '',
+        '5_STAR_WORDCLOUD': generate_word_cloud(5, reviews, app, report_folder),
+        '4_STAR_WORDCLOUD': generate_word_cloud(4, reviews, app, report_folder),
+        '3_STAR_WORDCLOUD': generate_word_cloud(3, reviews, app, report_folder),
+        '2_STAR_WORDCLOUD': generate_word_cloud(2, reviews, app, report_folder),
+        '1_STAR_WORDCLOUD': generate_word_cloud(1, reviews, app, report_folder),
         '5_STAR_REVIEWS': get_reviews(5, 10, reviews),
         '4_STAR_REVIEWS': get_reviews(4, 10, reviews),
         '3_STAR_REVIEWS': get_reviews(3, 10, reviews),
@@ -378,9 +416,9 @@ def create(app):
         template = fill_ratings(app, metadata, template)
 
         # FIll the Reviews section
-        template = fill_reviews(app, metadata, reviews, template)
+        template = fill_reviews(app, metadata, reviews, template, report_folder)
 
         with open(report_folder + 'report.md', "w") as report_file:
-            report_file.write(template)
+            report_file.write(template.replace('<<<REBASE_ME>>>', ''))
         return template
     return ''

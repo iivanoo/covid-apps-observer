@@ -154,7 +154,7 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 #### 5-star reviews
 
 <p align="center">
--
+<img src="5_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 5 reviews"/>
 </p>
 
 > Volendo aggiornare quotidianamente la condizione di salute bisognava compilare ogni volta tutti i campi risolto però con l'ultimo aggiornamento. È stato sistemato e c' è in più la possibilità di inserire i familiari che non abbiano l'app ed ampliare quindi la platea del monitoraggio. Io per esempio inserisco anche i miei genitori.<br> :date: __2020-05-04 10:01:04__
@@ -182,7 +182,7 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 #### 4-star reviews
 
 <p align="center">
--
+<img src="4_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 4 reviews"/>
 </p>
 
 > Dopo aver fatto l'aggiornamento è tutto a posto, Ricerca Covid compare nella home Page e si può fare il questionario ogni giorno, aggiungendo anche i familiari.<br> :date: __2020-05-03 18:49:09__
@@ -210,7 +210,7 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 #### 3-star reviews
 
 <p align="center">
--
+<img src="3_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 3 reviews"/>
 </p>
 
 > Sarebbe interessante sapere per paese quanti hanno compilato il questionario e quanti sono a rischio....<br> :date: __2020-05-03 06:57:12__
@@ -238,7 +238,7 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 #### 2-star reviews
 
 <p align="center">
--
+<img src="2_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 2 reviews"/>
 </p>
 
 > Continua a partire come fosse la prima volta, chiedendo di impostare le preferenze, la mia ubicazione ed il tipo di allerta cui sono interessato. Questo me ne rende l'utilizzo impossibile. 4/5/20, provata ieri, stesso risultato, non salva le personalizzazioni. Android 7.0<br> :date: __2020-05-04 09:28:08__
@@ -266,7 +266,7 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 #### 1-star reviews
 
 <p align="center">
--
+<img src="1_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 1 reviews"/>
 </p>
 
 > Riesco ad accedere solo la prima volta poi ad ogni ulteriore tentativo si blocca<br> :date: __2020-05-04 10:58:16__

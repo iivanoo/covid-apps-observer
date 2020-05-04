@@ -15,7 +15,6 @@ def download_apk(app_to_download, apk_path):
     
 
 def get_gp_metadata(app_to_scrape):
-    ssl._create_default_https_context = ssl._create_unverified_context
     app_metadata = app(app_to_scrape['id'], lang=app_to_scrape['store_lang'], country=app_to_scrape['store_country'])
     return app_metadata
 

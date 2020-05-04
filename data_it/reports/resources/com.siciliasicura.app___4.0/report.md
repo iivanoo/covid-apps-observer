@@ -127,7 +127,7 @@ The Sicilia Si Cura app has been installed by more than **1000** times. At this 
 #### 5-star reviews
 
 <p align="center">
--
+<img src="5_star_reviews_wordcloud.png" alt="com.siciliasicura.app 5 reviews"/>
 </p>
 
 > App utile e facile<br> :date: __2020-04-29 14:12:38__
@@ -155,7 +155,7 @@ The Sicilia Si Cura app has been installed by more than **1000** times. At this 
 #### 4-star reviews
 
 <p align="center">
--
+<img src="4_star_reviews_wordcloud.png" alt="com.siciliasicura.app 4 reviews"/>
 </p>
 
 > Si blocca spesso e riprende a funzionare dopo aver riavviato lo smartphone, Grazie per la cortese risposta<br> :date: __2020-04-28 11:21:47__
@@ -165,7 +165,7 @@ The Sicilia Si Cura app has been installed by more than **1000** times. At this 
 #### 3-star reviews
 
 <p align="center">
--
+<img src="3_star_reviews_wordcloud.png" alt="com.siciliasicura.app 3 reviews"/>
 </p>
 
 > Sarebbe comoda l'aggiunta di un reminder giornaliero che ricordi di aggiornare lo stato di salute e non solo quello delle passate 6 ore<br> :date: __2020-05-01 03:57:37__
@@ -187,7 +187,7 @@ The Sicilia Si Cura app has been installed by more than **1000** times. At this 
 #### 1-star reviews
 
 <p align="center">
--
+<img src="1_star_reviews_wordcloud.png" alt="com.siciliasicura.app 1 reviews"/>
 </p>
 
 > L'app è instabile, la geolocalizzazione sballata, impossibile disinstallarla...ASSURDO!<br> :date: __2020-05-03 09:22:12__

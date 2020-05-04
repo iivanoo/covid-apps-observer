@@ -176,7 +176,7 @@ The SM_Covid19 app has been installed by more than **10000** times. At this time
 #### 5-star reviews
 
 <p align="center">
--
+<img src="5_star_reviews_wordcloud.png" alt="it.softmining.projects.covid19.savelifestyle 5 reviews"/>
 </p>
 
 > Mi pare utile, ottima, quando ci avviciniamo a una persona che ha il virus ci dovrebbe squillare un allarme visto che ho questa App. Istallata sul cell. Oppura come fa a segnalare se una persona ha il virus?ma oltre a questa App. Ci sarà una migliore? Come mi è sembrato di capire?grazie e buon proseguimento di lavoro<br> :date: __2020-05-04 14:42:45__
@@ -204,7 +204,7 @@ The SM_Covid19 app has been installed by more than **10000** times. At this time
 #### 4-star reviews
 
 <p align="center">
--
+<img src="4_star_reviews_wordcloud.png" alt="it.softmining.projects.covid19.savelifestyle 4 reviews"/>
 </p>
 
 > Sarebbe importante, al fine di capire quanto utile sia l'uso di questa app, avere anche una traccia anonima di quanti altri utenti con la stessa app abbiamo incontrato.<br> :date: __2020-05-04 13:47:20__
@@ -232,7 +232,7 @@ The SM_Covid19 app has been installed by more than **10000** times. At this time
 #### 3-star reviews
 
 <p align="center">
--
+<img src="3_star_reviews_wordcloud.png" alt="it.softmining.projects.covid19.savelifestyle 3 reviews"/>
 </p>
 
 > Inserendo la modalità all'aperto si riaccende il display<br> :date: __2020-05-04 14:36:31__
@@ -260,7 +260,7 @@ The SM_Covid19 app has been installed by more than **10000** times. At this time
 #### 2-star reviews
 
 <p align="center">
--
+<img src="2_star_reviews_wordcloud.png" alt="it.softmining.projects.covid19.savelifestyle 2 reviews"/>
 </p>
 
 > Consuma troppa batteria. Sarebbe interessante avere qualche informazione in più da consultare, se si entra in contatto con qualcuno, statistiche di utilizzo degli altri utenti etc... Ho uno Xiao Mi Note 10<br> :date: __2020-05-04 15:13:22__
@@ -288,7 +288,7 @@ The SM_Covid19 app has been installed by more than **10000** times. At this time
 #### 1-star reviews
 
 <p align="center">
--
+<img src="1_star_reviews_wordcloud.png" alt="it.softmining.projects.covid19.savelifestyle 1 reviews"/>
 </p>
 
 > Scarica subito la batteria e se non hai fatto il tampone è inutile. 1 stella e non ho fatto il download<br> :date: __2020-05-04 13:43:55__

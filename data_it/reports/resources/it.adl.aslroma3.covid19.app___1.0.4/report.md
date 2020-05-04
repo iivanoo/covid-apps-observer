@@ -141,7 +141,7 @@ The Covid-19 app has been installed by more than **10000** times. At this time, 
 #### 5-star reviews
 
 <p align="center">
--
+<img src="5_star_reviews_wordcloud.png" alt="it.adl.aslroma3.covid19.app 5 reviews"/>
 </p>
 
 > App. Fantastica, e necessaria. Bravi 👏👏👏 Noto che cè troppa ignoranza. Dovrebbero leggere le modalità, prima di commentare.<br> :date: __2020-05-01 16:35:43__
@@ -169,7 +169,7 @@ The Covid-19 app has been installed by more than **10000** times. At this time, 
 #### 4-star reviews
 
 <p align="center">
--
+<img src="4_star_reviews_wordcloud.png" alt="it.adl.aslroma3.covid19.app 4 reviews"/>
 </p>
 
 > Lo avevo scaricato ma non mi accetta l'imeil e non so come entrarci!<br> :date: __2020-05-01 19:29:55__
@@ -187,7 +187,7 @@ The Covid-19 app has been installed by more than **10000** times. At this time, 
 #### 3-star reviews
 
 <p align="center">
--
+<img src="3_star_reviews_wordcloud.png" alt="it.adl.aslroma3.covid19.app 3 reviews"/>
 </p>
 
 > se mi fa entrare o mi posso registrare allora merita5 stelle 👍<br> :date: __2020-04-03 23:59:46__
@@ -199,7 +199,7 @@ The Covid-19 app has been installed by more than **10000** times. At this time, 
 #### 2-star reviews
 
 <p align="center">
--
+<img src="2_star_reviews_wordcloud.png" alt="it.adl.aslroma3.covid19.app 2 reviews"/>
 </p>
 
 > Inutile<br> :date: __2020-03-29 08:51:38__
@@ -211,7 +211,7 @@ The Covid-19 app has been installed by more than **10000** times. At this time, 
 #### 1-star reviews
 
 <p align="center">
--
+<img src="1_star_reviews_wordcloud.png" alt="it.adl.aslroma3.covid19.app 1 reviews"/>
 </p>
 
 > C è si ignoranza È DEDICATA SOLO A CHI POSITIVO CAPRE !<br> :date: __2020-05-04 11:25:06__

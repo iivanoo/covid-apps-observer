@@ -121,7 +121,7 @@ The WHO Info app has been installed by more than **100000** times. At this time,
 #### 5-star reviews
 
 <p align="center">
--
+<img src="5_star_reviews_wordcloud.png" alt="org.who.infoapp 5 reviews"/>
 </p>
 
 > Molto utile per me che viaggio molto.<br> :date: __2020-04-24 06:42:36__
@@ -135,7 +135,7 @@ The WHO Info app has been installed by more than **100000** times. At this time,
 #### 4-star reviews
 
 <p align="center">
--
+<img src="4_star_reviews_wordcloud.png" alt="org.who.infoapp 4 reviews"/>
 </p>
 
 > per chi non sa leggere l'inglese basta che tenga premuto il testo lo evidenzi e lo traduca<br> :date: __2020-04-26 21:44:50__
@@ -161,7 +161,7 @@ The WHO Info app has been installed by more than **100000** times. At this time,
 #### 1-star reviews
 
 <p align="center">
--
+<img src="1_star_reviews_wordcloud.png" alt="org.who.infoapp 1 reviews"/>
 </p>
 
 > Io non conosco l'inglese non si potrebbe averla in italiano visto che siamo in Italia ?<br> :date: __2020-04-24 23:15:26__

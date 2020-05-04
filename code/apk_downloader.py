@@ -66,7 +66,7 @@ def apk_is_valid(_apk_name):
         try:
             error_state = call(["aapt", "dump", "permissions", _apk_name], stdout=null)
             if error_state != 0:
-                print("Not a valid apk, maybe it's an xapk?")
+                print("It seems we downloaded an XAPK, we unpack it now...")
         except:
             pass
         return error_state == 0
