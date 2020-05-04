@@ -1,5 +1,6 @@
 # Sicilia Si Cura
 App version ``4.0``
+
 Analyzed with [covid-apps-observer][http://github.com/covid-apps-observer] project, version ``0.1``
 
 <img src="icon.png" alt="Sicilia Si Cura icon" width="80"/>

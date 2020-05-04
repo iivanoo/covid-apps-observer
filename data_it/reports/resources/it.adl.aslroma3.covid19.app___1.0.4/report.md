@@ -1,5 +1,6 @@
 # Covid-19
 App version ``1.0.4``
+
 Analyzed with [covid-apps-observer][http://github.com/covid-apps-observer] project, version ``0.1``
 
 <img src="icon.png" alt="Covid-19 icon" width="80"/>
