@@ -1,48 +1,51 @@
-# <<<APP_NAME>>>
+# <<<APP_TITLE>>>
+Version ``<<<APP_VERSION>>>``
 
 ## App overview
 
-<img src="resources/<<<APP_ID>>><<<SEPARATOR>>><<<APP_VERSION>>>/icon.png" alt="<<<APP_NAME>>> icon" width="200"/>
+<img src="<<<ICON_PATH>>>" alt="<<<APP_TITLE>>> icon" width="200"/>
 
 |---|---|
-| **Name**  | <<<APP_TITLE>> |
-| **Unique identifier** | <<<APP_ID>>> |
-| **Link to Google Play** | [https://play.google.com/store/apps/details?id=<<<APP_ID>>][https://play.google.com/store/apps/details?id=<<<APP_ID>>] |
-| **Summary**  | <<<APP_SUMMARY>> |
+| **Name**  | <<<APP_TITLE>>> |
+| **Unique identifier** | <<<APP_ID>>>> |
+| **Link to Google Play** | [https://play.google.com/store/apps/details?id=<<<APP_ID>>>][https://play.google.com/store/apps/details?id=<<<APP_ID>>>] |
+| **Summary**  | <<<APP_SUMMARY>>> |
 | **Privacy policy** | [<<<APP_PRIVACY_POLICY>>>][<<<APP_PRIVACY_POLICY>>>] |
 | **Latest version** | <<<APP_VERSION>>> |
 | **Last update** | <<<APP_UPDATED>>> |
 | **Recent changes** | <<<APP_RECENT_CHANGES>>> |
-| **Installs**  | <<<APP_INSTALLS>> |
+| **Installs**  | <<<APP_INSTALLS>>> |
 | **Category** | <<<APP_GENRE>>> |
 | **First release** | <<<APP_RELEASE>>> |
-| **Size**  | <<<APP_SIZE>> |
-| **Supported Android version**  | <<<APP_ANDROID_VERSION>> |
+| **Size**  | <<<APP_SIZE>>> |
+| **Supported Android version**  | <<<APP_ANDROID_VERSION>>> |
 
 ### Description
+
 ```<<<APP_DESCRIPTION>>>```
 
 ### User interface
-```<<<SCREENSHOTS>>>```
+The developers of the app provide the following screenshots in the Google play store.
+
+<<<SCREENSHOTS>>>
 
 ## Development team
-
 In the following we report the main information provided by the development team in the Google play store.
 
 |---|---|
-| **Developer**  | <<<APP_DEVELOPER>> |
-| **Website**  | [<<<DEVELOPER_WEBSITE>>][<<<DEVELOPER_WEBSITE>>>] |
-| **Email** | [<<<mailto:DEV_EMAIL>>>][DEV_EMAIL] |
-| **Physical address**  | [<<<APP_DEVELOPER_ADDRESS>>][https://www.google.com/maps/search/<<<DEVELOPER_WEBSITE>>>/] (Google Maps) 
-| **Other developed apps**  | [<<<APP_TITLE>>][https://play.google.com/store/apps/developer?id=<<<APP_DEVELOPER_ID>>>] |
+| **Developer**  | <<<APP_DEVELOPER>>> |
+| **Website**  | <<<DEVELOPER_WEBSITE>>> |
+| **Email** | <<<DEV_EMAIL>>> |
+| **Physical address**  | <<<APP_DEVELOPER_ADDRESS>>> |
+| **Other developed apps**  | [https://play.google.com/store/apps/developer?id=<<<APP_DEVELOPER_ID>>>][https://play.google.com/store/apps/developer?id=<<<APP_DEVELOPER_ID>>>] |
 
 ## Android support
 
 |---|---|
-| **Declared target Android version**  | <<<TARGET_SDK_CODENAME>> (<<<TARGET_SDK_VERSION>>) |
-| **Effective target Android version**  | <<<EFFECTIVE_SDK_CODENAME>> (<<<EFFECTIVE_SDK_VERSION>>) |
-| **Minimum supported Android version**  | <<<MIN_SDK_CODENAME>> (<<<MIN_SDK_VERSION>>) |
-| **Maximum target Android version**  | <<<MAX_SDK_CODENAME>> (<<<MAX_SDK_VERSION>>) |
+| **Declared target Android version**  | <<<TARGET_SDK_CODENAME>>> (<<<TARGET_SDK_VERSION>>) |
+| **Effective target Android version**  | <<<EFFECTIVE_SDK_CODENAME>>> (<<<EFFECTIVE_SDK_VERSION>>) |
+| **Minimum supported Android version**  | <<<MIN_SDK_CODENAME>>> (<<<MIN_SDK_VERSION>>) |
+| **Maximum target Android version**  | <<<MAX_SDK_CODENAME>>> (<<<MAX_SDK_VERSION>>) |
 
 ## Requested permissions
 
@@ -73,7 +76,7 @@ The <<<APP_NAME>>> app has been installed by more than **<<<APP_MIN_INSTALLS>>>*
 * Two stars: <<<APP_2_STARS>>>
 * One star: <<<APP_1_STAR>>>
 
-## Reviews 
+### Reviews 
 
 <p align="center">
 <img src="resources/<<<APP_ID>>><<<SEPARATOR>>><<<APP_VERSION>>>/wordcloud_5_stars.png" alt="<<<APP_NAME>>> wordcloud" width="200"/>

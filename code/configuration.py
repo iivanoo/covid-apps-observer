@@ -1,5 +1,6 @@
 import json
 import os
+import requests
 
 # DATA_PATH = '../data/'
 # APKS_PATH = '../apks/'
@@ -33,7 +34,12 @@ def setPaths(path):
     if not os.path.exists(REPORTS_PATH):
         os.makedirs(APPS_PATH)
 
-
+# Downloads a remote resource pointed by url into path
+def download(url, path):
+    print(url)
+    img_data = requests.get(url, allow_redirects=True).content
+    with open(path, 'wb') as handler:
+        handler.write(img_data)
 
 # Save JSON data into the given filePath
 def save(filePath, data):
