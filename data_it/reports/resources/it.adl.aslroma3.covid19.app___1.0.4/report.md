@@ -10,7 +10,7 @@ Version ``1.0.4``
 | **Name**  | Covid-19 |
 | **Unique identifier** | it.adl.aslroma3.covid19.app> |
 | **Link to Google Play** | [https://play.google.com/store/apps/details?id=it.adl.aslroma3.covid19.app](https://play.google.com/store/apps/details?id=it.adl.aslroma3.covid19.app) |
-| **Summary**  | ```App per l'acquisizione e il monitoraggio parametri vitali - Covid-19.``` |
+| **Summary**  | App per l'acquisizione e il monitoraggio parametri vitali - Covid-19. |
 | **Privacy policy** | [https://www.adilife.net/en/policy-gdpr-app](https://www.adilife.net/en/policy-gdpr-app) |
 | **Latest version** | 1.0.4 |
 | **Last update** | 2020-03-11 14:58:32 |

@@ -10,7 +10,7 @@ Version ``4.0``
 | **Name**  | Sicilia Si Cura |
 | **Unique identifier** | com.siciliasicura.app> |
 | **Link to Google Play** | [https://play.google.com/store/apps/details?id=com.siciliasicura.app](https://play.google.com/store/apps/details?id=com.siciliasicura.app) |
-| **Summary**  | ```App for epidemiological evaluation of the advancement of the Covid-19 infection in Sicily``` |
+| **Summary**  | App for epidemiological evaluation of the advancement of the Covid-19 infection in Sicily |
 | **Privacy policy** | [https://siciliasicura.costruiresalute.it/welcome](https://siciliasicura.costruiresalute.it/welcome) |
 | **Latest version** | 4.0 |
 | **Last update** | 2020-04-28 13:14:44 |

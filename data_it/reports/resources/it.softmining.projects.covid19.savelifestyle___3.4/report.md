@@ -10,7 +10,7 @@ Version ``3.4``
 | **Name**  | SM_Covid19 |
 | **Unique identifier** | it.softmining.projects.covid19.savelifestyle> |
 | **Link to Google Play** | [https://play.google.com/store/apps/details?id=it.softmining.projects.covid19.savelifestyle](https://play.google.com/store/apps/details?id=it.softmining.projects.covid19.savelifestyle) |
-| **Summary**  | ```Community di contact tracing volontario per la sfida al Covid19.``` |
+| **Summary**  | Community di contact tracing volontario per la sfida al Covid19. |
 | **Privacy policy** | [https://www.softmining.it/index.php/sm-covid19-app/](https://www.softmining.it/index.php/sm-covid19-app/) |
 | **Latest version** | 3.4 |
 | **Last update** | 2020-05-02 21:09:38 |

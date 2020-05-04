@@ -10,7 +10,7 @@ Version ``1.0.14``
 | **Name**  | LAZIOdrCovid |
 | **Unique identifier** | com.intellicare.covid> |
 | **Link to Google Play** | [https://play.google.com/store/apps/details?id=com.intellicare.covid](https://play.google.com/store/apps/details?id=com.intellicare.covid) |
-| **Summary**  | ```Health remote monitoring platform for patients with COVID-19 risk.``` |
+| **Summary**  | Health remote monitoring platform for patients with COVID-19 risk. |
 | **Privacy policy** | [https://www.salutelazio.it/documents/10182/59078875/PoliticaPrivacy+LazioDoctor.pdf/2707a744-fe9d-92c9-abb8-c2e749ce82a1](https://www.salutelazio.it/documents/10182/59078875/PoliticaPrivacy+LazioDoctor.pdf/2707a744-fe9d-92c9-abb8-c2e749ce82a1) |
 | **Latest version** | 1.0.14 |
 | **Last update** | 2020-04-23 23:10:26 |

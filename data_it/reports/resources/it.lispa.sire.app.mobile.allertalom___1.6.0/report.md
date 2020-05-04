@@ -10,7 +10,7 @@ Version ``1.6.0``
 | **Name**  | allertaLOM |
 | **Unique identifier** | it.lispa.sire.app.mobile.allertalom> |
 | **Link to Google Play** | [https://play.google.com/store/apps/details?id=it.lispa.sire.app.mobile.allertalom](https://play.google.com/store/apps/details?id=it.lispa.sire.app.mobile.allertalom) |
-| **Summary**  | ```The app of the Civil Protection of the Lombardy Region that alerts in real time``` |
+| **Summary**  | The app of the Civil Protection of the Lombardy Region that alerts in real time |
 | **Privacy policy** | [http://www.allertalom.regione.lombardia.it/privacyapp](http://www.allertalom.regione.lombardia.it/privacyapp) |
 | **Latest version** | 1.6.0 |
 | **Last update** | 2020-04-20 15:21:27 |

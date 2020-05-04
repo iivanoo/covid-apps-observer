@@ -10,7 +10,7 @@ Version ``<<<APP_VERSION>>>``
 | **Name**  | <<<APP_TITLE>>> |
 | **Unique identifier** | <<<APP_ID>>>> |
 | **Link to Google Play** | [https://play.google.com/store/apps/details?id=<<<APP_ID>>>](https://play.google.com/store/apps/details?id=<<<APP_ID>>>) |
-| **Summary**  | ```<<<APP_SUMMARY>>>``` |
+| **Summary**  | <<<APP_SUMMARY>>> |
 | **Privacy policy** | [<<<APP_PRIVACY_POLICY>>>](<<<APP_PRIVACY_POLICY>>>) |
 | **Latest version** | <<<APP_VERSION>>> |
 | **Last update** | <<<APP_UPDATED>>> |
