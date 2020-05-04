@@ -296,6 +296,22 @@ def fill_security_analysis(app, androwarn, template):
     placeholders = fill_voids(placeholders)
     return fill_placeholders(placeholders, template)
 
+def fill_ratings(app, metadata, template):
+    placeholders = {
+        'APP_TITLE': metadata['title'],
+        'APP_MIN_INSTALLS': metadata['minInstalls'],
+        'APP_RATINGS': metadata['ratings'],
+        'APP_SCORE': metadata['score'],
+        'APP_5_STARS': metadata['histogram'][4],
+        'APP_4_STARS': metadata['histogram'][3],
+        'APP_3_STARS': metadata['histogram'][2],
+        'APP_2_STARS': metadata['histogram'][1],
+        'APP_1_STAR': metadata['histogram'][0]
+    }
+
+    placeholders = fill_voids(placeholders)
+    return fill_placeholders(placeholders, template)
+
 # Fill the Ratings and Reviews section of the report
 def fill_reviews(app, metadata, reviews, template):
     filled_template = template
@@ -333,7 +349,10 @@ def create(app):
         # Fill the Security Analysis section
         template = fill_security_analysis(app, androwarn, template)
 
-        # Fill the Ratings and Reviews section
+        # Fill the Ratings section
+        template = fill_ratings(app, metadata, template)
+
+        # FIll the Reviews section
         template = fill_reviews(app, metadata, reviews, template)
 
         with open(report_folder + 'report.md', "w") as report_file:

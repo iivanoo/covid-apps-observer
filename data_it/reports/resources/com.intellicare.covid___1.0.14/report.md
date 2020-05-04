@@ -118,12 +118,12 @@ Below we provide information about how end users are reacting to the app in term
 
 ### Ratings
 
-The <<<APP_NAME>>> app has been installed by more than **<<<APP_MIN_INSTALLS>>>** times. At this time, **<<<APP_RATINGS>>>** rated the app and its average score is ***<<<APP_SCORE>>>. Below we show the distribution of the ratings across the usual star-based rating of Google Play
-* Five stars: <<<APP_5_STARS>>>
-* Four stars: <<<APP_4_STARS>>>
-* Three stars: <<<APP_3_STARS>>>
-* Two stars: <<<APP_2_STARS>>>
-* One star: <<<APP_1_STAR>>>
+The LAZIOdrCovid app has been installed by more than **50000** times. At this time, **573** rated the app and its average score is ***3.22. Below we show the distribution of the ratings across the usual star-based rating of Google Play
+* :star::star::star::star::star: 223
+* :star::star::star::star: 68
+* :star::star::star: 63
+* :star::star: 45
+* :star: 171
 
 ### Reviews 
 
