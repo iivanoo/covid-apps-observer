@@ -87,7 +87,7 @@ def fill_overview(app, metadata, template, report_folder):
         'APP_RELEASE': metadata['released'],
         'APP_SIZE': metadata['size'],
         'APP_ANDROID_VERSION': metadata['androidVersionText'],
-        'APP_DESCRIPTION': '> ' + re.sub('[\n|\r]+','\n> ', metadata['description']),
+        'APP_DESCRIPTION': '> ' + re.sub('[\n|\r]+','\n<br>> ', metadata['description']),
         'SCREENSHOTS': screenshots
     }
 
@@ -286,7 +286,8 @@ def fill_security_analysis(app, androwarn, template):
             warnings = warnings + '**' + e[0].capitalize().replace('_', ' ') + '**\n'
             warnings = warnings
             for i, w in enumerate(e[1]):
-                warnings = warnings + '> ' + w + '\n'
+                warnings = warnings + '> ' + w + '<br>\n'
+            warnings = warnings + '\n'
         
     placeholders = {
         'ANDROWARN_RESULTS': warnings,

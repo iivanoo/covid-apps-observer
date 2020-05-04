@@ -24,22 +24,22 @@ Analyzed with [covid-apps-observer](http://github.com/covid-apps-observer) proje
 
 ### Description
 > OpenWHO is the World Health Organization's (WHO) interactive knowledge-transfer platform offering online courses to improve the response to health emergencies. OpenWHO enables the Organization and its key partners to transfer life-saving knowledge to large numbers of frontline responders.
-> With OpenWHO, you have the flexibility to learn at your convenience. Watch the short video lectures and test your knowledge with self-tests when and where you like. The course forum and the collaboration space allow you to get in touch with other participants and experts around the world.
->  
-> Designed primarily for health care workers, frontline responders, and decision-makers, the app is also a source of information for those affected by disease outbreaks and health emergencies, or for those with a general interest in WHO's work in health emergencies.
->  
-> It features 6 channels:
-> - The <b>Outbreak</b> channel addresses the management of infectious diseases and provides life-saving, scientific information.
-> - The <b>Ready for Response</b> channel helps prepare personnel who are training for deployment to work in disease outbreaks and health emergencies.
-> - The <b>Get Social</b> channel focuses on social science-based interventions and helps to communicate with affected communities.
-> - The <b>Preparing for Pandemics</b> channel brings together courses on various aspects of preparedness, including surveillance, public health measures and risk communication during a pandemic.
-> - The <b>COVID-19</b> channel provides learning resources in WHO's 6 official languages (Arabic, Chinese, English, French, Russian and Spanish) for health professionals, decision-makers and the public for the outbreak of coronavirus disease (COVID-19).
-> - The <b>COVID-19 National Languages</b> channel provides the same learning resources as the COVID-19 channel but in national languages, such as Indonesian, Japanese and Portuguese. 
->  
-> OpenWHO courses are available in many languages, including WHO's 6 official languages. 
->  
-> Download the app now, and join the OpenWHO community.
-> This app is developed in cooperation between the Hasso Plattner Institute and the WHO. The learning content is provided exclusively by the WHO.
+<br>> With OpenWHO, you have the flexibility to learn at your convenience. Watch the short video lectures and test your knowledge with self-tests when and where you like. The course forum and the collaboration space allow you to get in touch with other participants and experts around the world.
+<br>>  
+<br>> Designed primarily for health care workers, frontline responders, and decision-makers, the app is also a source of information for those affected by disease outbreaks and health emergencies, or for those with a general interest in WHO's work in health emergencies.
+<br>>  
+<br>> It features 6 channels:
+<br>> - The <b>Outbreak</b> channel addresses the management of infectious diseases and provides life-saving, scientific information.
+<br>> - The <b>Ready for Response</b> channel helps prepare personnel who are training for deployment to work in disease outbreaks and health emergencies.
+<br>> - The <b>Get Social</b> channel focuses on social science-based interventions and helps to communicate with affected communities.
+<br>> - The <b>Preparing for Pandemics</b> channel brings together courses on various aspects of preparedness, including surveillance, public health measures and risk communication during a pandemic.
+<br>> - The <b>COVID-19</b> channel provides learning resources in WHO's 6 official languages (Arabic, Chinese, English, French, Russian and Spanish) for health professionals, decision-makers and the public for the outbreak of coronavirus disease (COVID-19).
+<br>> - The <b>COVID-19 National Languages</b> channel provides the same learning resources as the COVID-19 channel but in national languages, such as Indonesian, Japanese and Portuguese. 
+<br>>  
+<br>> OpenWHO courses are available in many languages, including WHO's 6 official languages. 
+<br>>  
+<br>> Download the app now, and join the OpenWHO community.
+<br>> This app is developed in cooperation between the Hasso Plattner Institute and the WHO. The learning content is provided exclusively by the WHO.
 
 
 ### User interface
@@ -119,23 +119,27 @@ In the following we report the complete list of the permissions requested by the
 Below we report the main security warnings raised by our execution of the [Androwarn](https://github.com/maaaaz/androwarn) security analysis tool.
 
 **Telephony identifiers leakage**
-> This application reads the ISO country code equivalent of the current registered operator's MCC (Mobile Country Code)
+> This application reads the ISO country code equivalent of the current registered operator's MCC (Mobile Country Code)<br>
+
 **Connection interfaces exfiltration**
-> This application reads details about the currently active data network
-> This application tries to find out if the currently active data network is metered
+> This application reads details about the currently active data network<br>
+> This application tries to find out if the currently active data network is metered<br>
+
 **Suspicious connection establishment**
-> This application opens a Socket and connects it to the remote address ' returned no addresses for  ; port is out of range' on the 'N/A' port 
-> This application opens a Socket and connects it to the remote address '' on the 'N/A' port 
-> This application opens a Socket and connects it to the remote address 'Ljava/lang/StringBuilder;->toString()Ljava/lang/String;' on the 'N/A' port 
-> This application opens a Socket and connects it to the remote address 'Ljava/net/Proxy;->type()Ljava/net/Proxy$Type;' on the 'N/A' port 
-> This application opens a Socket and connects it to the remote address 'timeout' on the 'N/A' port 
+> This application opens a Socket and connects it to the remote address ' returned no addresses for  ; port is out of range' on the 'N/A' port <br>
+> This application opens a Socket and connects it to the remote address '' on the 'N/A' port <br>
+> This application opens a Socket and connects it to the remote address 'Ljava/lang/StringBuilder;->toString()Ljava/lang/String;' on the 'N/A' port <br>
+> This application opens a Socket and connects it to the remote address 'Ljava/net/Proxy;->type()Ljava/net/Proxy$Type;' on the 'N/A' port <br>
+> This application opens a Socket and connects it to the remote address 'timeout' on the 'N/A' port <br>
+
 **Code execution**
-> This application loads a native library
-> This application loads a native library: 'bypass'
-> This application loads a native library: 'jniPdfium'
-> This application loads a native library: 'modft2'
-> This application loads a native library: 'modpdfium'
-> This application loads a native library: 'modpng'
+> This application loads a native library<br>
+> This application loads a native library: 'bypass'<br>
+> This application loads a native library: 'jniPdfium'<br>
+> This application loads a native library: 'modft2'<br>
+> This application loads a native library: 'modpdfium'<br>
+> This application loads a native library: 'modpng'<br>
+
 
 
 ## User ratings and reviews
