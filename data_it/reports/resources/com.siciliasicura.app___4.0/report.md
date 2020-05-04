@@ -14,7 +14,7 @@ Version ``4.0``
 | **Privacy policy** | [https://siciliasicura.costruiresalute.it/welcome](https://siciliasicura.costruiresalute.it/welcome) |
 | **Latest version** | 4.0 |
 | **Last update** | 2020-04-28 13:14:44 |
-| **Recent changes** | Effettuato aggiornamento di bug fix che in rari casi poteva causare il crash dell'app. |
+| **Recent changes** | Effettuato aggiornamento di bug fix che in rari casi poteva causare il crash dell&#39;app. |
 | **Installs**  | 1,000+ |
 | **Category** | Health & Fitness |
 | **First release** | Mar 27, 2020 |

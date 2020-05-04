@@ -14,7 +14,7 @@ Version ``3.4``
 | **Privacy policy** | [https://www.softmining.it/index.php/sm-covid19-app/](https://www.softmining.it/index.php/sm-covid19-app/) |
 | **Latest version** | 3.4 |
 | **Last update** | 2020-05-02 21:09:38 |
-| **Recent changes** | È il momento di agire tutti insieme!Vi chiediamo di aiutarci a condividere e a far installare questa App a quante più persone possibili per permetterci di migliorare la precisione dei modelli matematici integrati.  In questa versione abbiamo corretto diversi bug che provocavano un riavvio della App ad intervalli casuali, migliorato la gestione delle statistiche e ridotto ulteriormente il consumo di batteria e migliorato la modalità passeggiata (da attivare quando uscite!).  Uniti ce la faremo! |
+| **Recent changes** | È il momento di agire tutti insieme!Vi chiediamo di aiutarci a condividere e a far installare questa App a quante più persone possibili per permetterci di migliorare la precisione dei modelli matematici integrati. <br>In questa versione abbiamo corretto diversi bug che provocavano un riavvio della App ad intervalli casuali, migliorato la gestione delle statistiche e ridotto ulteriormente il consumo di batteria e migliorato la modalità passeggiata (da attivare quando uscite!). <br>Uniti ce la faremo! |
 | **Installs**  | 10.000+ |
 | **Category** | Salute e fitness |
 | **First release** | 12 apr 2020 |
