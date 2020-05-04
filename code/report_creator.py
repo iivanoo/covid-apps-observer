@@ -99,15 +99,13 @@ def fill_dev_team(app, metadata, template):
     
     developerWebsite = metadata['developerWebsite']
     if(not is_void(developerWebsite)):
-        developerWebsite = '[' + metadata['developerWebsite'] + '][' + metadata['developerWebsite'] + ']'
+        developerWebsite = '[' + metadata['developerWebsite'] + '](' + metadata['developerWebsite'] + ')'
 
     developerEmail = metadata['developerEmail']
-    if(not is_void(developerEmail)):
-        developerEmail = '[mailto:' + metadata['developerEmail'] + '][' + metadata['developerEmail'] + ']'
 
     developerAddress = metadata['developerAddress']
     if(not is_void(developerAddress)):
-        developersAddress = '[' + metadata['developerAddress'] + '](https://www.google.com/maps/search/' + metadata['developerAddress'] + '/) (Google Maps)'
+        developersAddress = '[' + metadata['developerAddress'] + '](https://www.google.com/maps/search/' + metadata['developerAddress'] + ') (Google Maps)'
 
     placeholders = {
         'APP_DEVELOPER': metadata['developer'],

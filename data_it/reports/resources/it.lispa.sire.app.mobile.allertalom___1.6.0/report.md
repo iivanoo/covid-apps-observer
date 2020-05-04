@@ -59,8 +59,8 @@ In the following we report the main information provided by the development team
 | | |
 |-------------------------|-------------------------|
 | **Developer**  | Regione Lombardia |
-| **Website**  | [http://www.allertalom.regione.lombardia.it][http://www.allertalom.regione.lombardia.it] |
-| **Email** | [mailto:info.allertalom@ariaspa.it][info.allertalom@ariaspa.it] |
+| **Website**  | [http://www.allertalom.regione.lombardia.it](http://www.allertalom.regione.lombardia.it) |
+| **Email** | info.allertalom@ariaspa.it |
 | **Physical address**  | - |
 | **Other developed apps**  | [https://play.google.com/store/apps/developer?id=Regione+Lombardia](https://play.google.com/store/apps/developer?id=Regione+Lombardia) |
 

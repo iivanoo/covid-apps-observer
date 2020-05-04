@@ -46,8 +46,8 @@ In the following we report the main information provided by the development team
 | | |
 |-------------------------|-------------------------|
 | **Developer**  | World Health Organization |
-| **Website**  | [https://www.who.int/][https://www.who.int/] |
-| **Email** | [mailto:dcx@who.int][dcx@who.int] |
+| **Website**  | [https://www.who.int/](https://www.who.int/) |
+| **Email** | dcx@who.int |
 | **Physical address**  | Avenu Appia 20
 1211 Geneva
 Switzerland |

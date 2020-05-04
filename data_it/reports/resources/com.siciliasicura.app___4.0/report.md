@@ -56,8 +56,8 @@ In the following we report the main information provided by the development team
 | | |
 |-------------------------|-------------------------|
 | **Developer**  | IES Solutions |
-| **Website**  | [http://www.siciliacoronavirus.it][http://www.siciliacoronavirus.it] |
-| **Email** | [mailto:info@costruiresalute.it][info@costruiresalute.it] |
+| **Website**  | [http://www.siciliacoronavirus.it](http://www.siciliacoronavirus.it) |
+| **Email** | info@costruiresalute.it |
 | **Physical address**  | - |
 | **Other developed apps**  | [https://play.google.com/store/apps/developer?id=IES+Solutions](https://play.google.com/store/apps/developer?id=IES+Solutions) |
 

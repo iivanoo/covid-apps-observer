@@ -59,8 +59,8 @@ In the following we report the main information provided by the development team
 | | |
 |-------------------------|-------------------------|
 | **Developer**  | ADiLife Srl |
-| **Website**  | [https://www.adilife.net][https://www.adilife.net] |
-| **Email** | [mailto:info@adilife.net][info@adilife.net] |
+| **Website**  | [https://www.adilife.net](https://www.adilife.net) |
+| **Email** | info@adilife.net |
 | **Physical address**  | Via Mosca 52
 00142 Rome
 Italy |

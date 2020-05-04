@@ -61,8 +61,8 @@ In the following we report the main information provided by the development team
 | | |
 |-------------------------|-------------------------|
 | **Developer**  | Softmining Srl |
-| **Website**  | [https://www.smcovid19.org/][https://www.smcovid19.org/] |
-| **Email** | [mailto:smcovid19@softmining.it][smcovid19@softmining.it] |
+| **Website**  | [https://www.smcovid19.org/](https://www.smcovid19.org/) |
+| **Email** | smcovid19@softmining.it |
 | **Physical address**  | Via Tenente Corrado 22 - 83100 Avellino - Italia |
 | **Other developed apps**  | [https://play.google.com/store/apps/developer?id=Softmining+Srl](https://play.google.com/store/apps/developer?id=Softmining+Srl) |
 

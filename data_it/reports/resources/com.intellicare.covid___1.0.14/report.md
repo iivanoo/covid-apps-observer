@@ -41,7 +41,7 @@ In the following we report the main information provided by the development team
 |-------------------------|-------------------------|
 | **Developer**  | LAZIOcrea S.p.A. |
 | **Website**  | - |
-| **Email** | [mailto:mobile@laziocrea.it][mobile@laziocrea.it] |
+| **Email** | mobile@laziocrea.it |
 | **Physical address**  | - |
 | **Other developed apps**  | [https://play.google.com/store/apps/developer?id=LAZIOcrea+S.p.A.](https://play.google.com/store/apps/developer?id=LAZIOcrea+S.p.A.) |
 
