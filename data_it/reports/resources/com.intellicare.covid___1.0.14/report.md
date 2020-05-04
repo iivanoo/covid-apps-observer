@@ -138,35 +138,25 @@ The LAZIOdrCovid app has been installed by more than **50000** times. At this ti
 -
 </p>
 
-> Dopo la segnalazione hanno aggionato l'app e ora funziona
-> __2020-05-02 10:25:12__
+> Dopo la segnalazione hanno aggionato l'app e ora funziona<br>> __2020-05-02 10:25:12__
 
-> L'unica cosa che contesto nuovamente (lo feci già all'inizio ad un operatore) è che molte risposte non possono essere complete ed esplicitative perché il questionario non ti dà la possibilità di ampliare le risposte in maniera adeguata. Il SI e il NO non credo siano sufficienti a capire le singole situazioni.
-> __2020-04-25 10:35:51__
+> L'unica cosa che contesto nuovamente (lo feci già all'inizio ad un operatore) è che molte risposte non possono essere complete ed esplicitative perché il questionario non ti dà la possibilità di ampliare le risposte in maniera adeguata. Il SI e il NO non credo siano sufficienti a capire le singole situazioni.<br>> __2020-04-25 10:35:51__
 
-> Non ho più il sms che mi avete mandato
-> __2020-04-17 19:05:50__
+> Non ho più il sms che mi avete mandato<br>> __2020-04-17 19:05:50__
 
-> Perché non mi fa installare questa applicazione anche sul mio tablet e non accede e non mi fa registrare?Grazie Attendo una risposta gradita
-> __2020-04-17 01:18:30__
+> Perché non mi fa installare questa applicazione anche sul mio tablet e non accede e non mi fa registrare?Grazie Attendo una risposta gradita<br>> __2020-04-17 01:18:30__
 
-> Ottima
-> __2020-04-15 14:34:24__
+> Ottima<br>> __2020-04-15 14:34:24__
 
-> Dopo aver fatto il backup dello smartphone ed averlo resettato e quindi ricaricato il backup, una volta reinstallata l'applicazione, questa ora funziona benissimo.
-> __2020-04-15 13:47:11__
+> Dopo aver fatto il backup dello smartphone ed averlo resettato e quindi ricaricato il backup, una volta reinstallata l'applicazione, questa ora funziona benissimo.<br>> __2020-04-15 13:47:11__
 
-> Messaggio arrivato.. Vediamo la funzionalità
-> __2020-04-14 11:30:20__
+> Messaggio arrivato.. Vediamo la funzionalità<br>> __2020-04-14 11:30:20__
 
-> Utilissima applicazione
-> __2020-04-14 10:55:52__
+> Utilissima applicazione<br>> __2020-04-14 10:55:52__
 
-> Non riesco ad inserire i parametri della frequenza cardiaca Ottima app grazie
-> __2020-04-14 09:06:46__
+> Non riesco ad inserire i parametri della frequenza cardiaca Ottima app grazie<br>> __2020-04-14 09:06:46__
 
-> Sapere situazione covid nella zona, Non ce la casella paziente e patologie
-> __2020-04-13 21:27:42__
+> Sapere situazione covid nella zona, Non ce la casella paziente e patologie<br>> __2020-04-13 21:27:42__
 
 
 
@@ -176,35 +166,25 @@ The LAZIOdrCovid app has been installed by more than **50000** times. At this ti
 -
 </p>
 
-> Un buon progetto e decisamente un buon inizio, spero che per il futuro non si abbandonerà questo progetto ma che si possa ampliare per utilizzarlo aggiornando funzionalità.
-> __2020-04-14 12:22:09__
+> Un buon progetto e decisamente un buon inizio, spero che per il futuro non si abbandonerà questo progetto ma che si possa ampliare per utilizzarlo aggiornando funzionalità.<br>> __2020-04-14 12:22:09__
 
-> Si potrebbe integrare la movimentazione per eventuale sorveglianza per la fase due
-> __2020-04-14 11:24:04__
+> Si potrebbe integrare la movimentazione per eventuale sorveglianza per la fase due<br>> __2020-04-14 11:24:04__
 
-> Ottima
-> __2020-04-13 13:24:49__
+> Ottima<br>> __2020-04-13 13:24:49__
 
-> Buona applicazione utile e ben strutturata Ma nel mio caso è da qualche giorno ( 2 ) che non riesco a trasmettere i dati e si chiude. Provato a disinstallare e istallare sempre uguale.
-> __2020-04-11 11:00:48__
+> Buona applicazione utile e ben strutturata Ma nel mio caso è da qualche giorno ( 2 ) che non riesco a trasmettere i dati e si chiude. Provato a disinstallare e istallare sempre uguale.<br>> __2020-04-11 11:00:48__
 
-> App decisamente utile ma dopo l'ultimo aggiornamento aveva cominciato a dare problemi. Ora funziona correttamente. Grazie.
-> __2020-04-08 15:44:14__
+> App decisamente utile ma dopo l'ultimo aggiornamento aveva cominciato a dare problemi. Ora funziona correttamente. Grazie.<br>> __2020-04-08 15:44:14__
 
-> Update 6/4/2020: Scaricata nuova versione, confermo la risoluzione delle problematiche. Grazie
-> __2020-04-07 11:08:15__
+> Update 6/4/2020: Scaricata nuova versione, confermo la risoluzione delle problematiche. Grazie<br>> __2020-04-07 11:08:15__
 
-> Positiva
-> __2020-04-03 14:28:41__
+> Positiva<br>> __2020-04-03 14:28:41__
 
-> Aiuta a capirsi meglio quanta criticità hai in relazione al virus. Al momento non ho capito come poter cambiare medico curante... Dato che il medico inserito è in pensione dal 1 aprile e dovrei inserire nuovo medico scelto o dovrebbe proporlo in automatico
-> __2020-04-03 12:21:47__
+> Aiuta a capirsi meglio quanta criticità hai in relazione al virus. Al momento non ho capito come poter cambiare medico curante... Dato che il medico inserito è in pensione dal 1 aprile e dovrei inserire nuovo medico scelto o dovrebbe proporlo in automatico<br>> __2020-04-03 12:21:47__
 
-> Se ci sono pediatri, come mai non è possibile registrare i minorenni?
-> __2020-04-02 11:33:55__
+> Se ci sono pediatri, come mai non è possibile registrare i minorenni?<br>> __2020-04-02 11:33:55__
 
-> V 1.0.11 Honor 9 lite: installazione avvenuta correttamente, l'applicazione funziona bene.
-> __2020-03-31 15:21:12__
+> V 1.0.11 Honor 9 lite: installazione avvenuta correttamente, l'applicazione funziona bene.<br>> __2020-03-31 15:21:12__
 
 
 
@@ -214,35 +194,25 @@ The LAZIOdrCovid app has been installed by more than **50000** times. At this ti
 -
 </p>
 
-> Ok ma il fatto che nella scheda "contatta il tuo medico" non compaia piú in nome del mio medico cosa significa? é voluto?
-> __2020-04-30 12:58:44__
+> Ok ma il fatto che nella scheda "contatta il tuo medico" non compaia piú in nome del mio medico cosa significa? é voluto?<br>> __2020-04-30 12:58:44__
 
-> A volte non consente inserimento dati
-> __2020-04-27 07:41:30__
+> A volte non consente inserimento dati<br>> __2020-04-27 07:41:30__
 
-> Non mo permette di cambiare il recapito telefonico: come debbo fare?
-> __2020-04-25 17:53:57__
+> Non mo permette di cambiare il recapito telefonico: come debbo fare?<br>> __2020-04-25 17:53:57__
 
-> Continuo ad aver il solito problema, dopo un po' di tempo al tentativo di accesso mi dice sessione scaduta. Sono costretto a ripetere la procedura di accesso con invio SMS.
-> __2020-04-23 18:51:09__
+> Continuo ad aver il solito problema, dopo un po' di tempo al tentativo di accesso mi dice sessione scaduta. Sono costretto a ripetere la procedura di accesso con invio SMS.<br>> __2020-04-23 18:51:09__
 
-> Dall'ultimo aggiornamento. Tutto ok
-> __2020-04-20 19:58:07__
+> Dall'ultimo aggiornamento. Tutto ok<br>> __2020-04-20 19:58:07__
 
-> Aggiornamento 18 aprile: finalmente risolti diversi problemi. L'app adesso sembra funzionare decentemente, anche se il questionario di autovalutazione rimane un po' macchinoso e una volta inviato non si sa né quando né se arriva una risposta
-> __2020-04-18 16:28:14__
+> Aggiornamento 18 aprile: finalmente risolti diversi problemi. L'app adesso sembra funzionare decentemente, anche se il questionario di autovalutazione rimane un po' macchinoso e una volta inviato non si sa né quando né se arriva una risposta<br>> __2020-04-18 16:28:14__
 
-> Si blocca spesso
-> __2020-04-12 10:26:43__
+> Si blocca spesso<br>> __2020-04-12 10:26:43__
 
-> Una volta compilato il test di auto valutazione viene inviato ma non dà responsi, nemmeno preliminari
-> __2020-04-12 00:45:55__
+> Una volta compilato il test di auto valutazione viene inviato ma non dà responsi, nemmeno preliminari<br>> __2020-04-12 00:45:55__
 
-> Va sempre in crash quando si tenta di immettere i valori della frequenza cardiaca.
-> __2020-04-11 23:55:45__
+> Va sempre in crash quando si tenta di immettere i valori della frequenza cardiaca.<br>> __2020-04-11 23:55:45__
 
-> L'applicazione è ok funziona bene ma perché non estenderla anche ai malati sommersi cioè quelli che hanno tutti i sintomi tranne problemi respiratori e che non sono stati nella zona rossa e non sanno se sono stati in contatto con positivi visto che ci sono tanti asintomatici?...forse perché siamo molti? Per questo vi do 3 stelle.
-> __2020-04-02 12:31:07__
+> L'applicazione è ok funziona bene ma perché non estenderla anche ai malati sommersi cioè quelli che hanno tutti i sintomi tranne problemi respiratori e che non sono stati nella zona rossa e non sanno se sono stati in contatto con positivi visto che ci sono tanti asintomatici?...forse perché siamo molti? Per questo vi do 3 stelle.<br>> __2020-04-02 12:31:07__
 
 
 
@@ -252,35 +222,25 @@ The LAZIOdrCovid app has been installed by more than **50000** times. At this ti
 -
 </p>
 
-> Non aggiunge né leva nulla alle altre mille sul corona virus
-> __2020-05-04 12:03:16__
+> Non aggiunge né leva nulla alle altre mille sul corona virus<br>> __2020-05-04 12:03:16__
 
-> come faccio a vedere il nome del medico? e per contattare la pediatra dei bambini? grazie
-> __2020-04-26 12:12:58__
+> come faccio a vedere il nome del medico? e per contattare la pediatra dei bambini? grazie<br>> __2020-04-26 12:12:58__
 
-> Dal 7 al 22 aprile ha funzionato (lenta ad aprirsi e a cambiare quadro) Ora devo ricensirmi ad ogni accesso. Non era un prb risolto? Samsung a50
-> __2020-04-23 18:36:57__
+> Dal 7 al 22 aprile ha funzionato (lenta ad aprirsi e a cambiare quadro) Ora devo ricensirmi ad ogni accesso. Non era un prb risolto? Samsung a50<br>> __2020-04-23 18:36:57__
 
-> Se funzionasse, l'idea non sarebbe male ma giusto per tenere un archivio di valori da presentare al medico. Invece dopo l'ultimo aggiornamento non vengono più registrati valori del pulsossimetro e frequenza cardiaca. Non si capisce neanche cosa voglia dire valore MED nella registrazione della pressione arteriosa.
-> __2020-04-10 11:19:25__
+> Se funzionasse, l'idea non sarebbe male ma giusto per tenere un archivio di valori da presentare al medico. Invece dopo l'ultimo aggiornamento non vengono più registrati valori del pulsossimetro e frequenza cardiaca. Non si capisce neanche cosa voglia dire valore MED nella registrazione della pressione arteriosa.<br>> __2020-04-10 11:19:25__
 
-> Si blocca spesso ed a volte bisogna ricominciare dall'inizio. Secondo me non e' affidabile
-> __2020-04-09 15:07:46__
+> Si blocca spesso ed a volte bisogna ricominciare dall'inizio. Secondo me non e' affidabile<br>> __2020-04-09 15:07:46__
 
-> Mah.... Passi che ho dovuto installarla die volte perché la prima non si apriva, passi pure che ogni tanto si perde i dati e devi reinserirli, ma il fatto che dall'altra parte il medico non ti caga proprio rende l'applicazione piuttosto inutile.
-> __2020-04-08 13:53:33__
+> Mah.... Passi che ho dovuto installarla die volte perché la prima non si apriva, passi pure che ogni tanto si perde i dati e devi reinserirli, ma il fatto che dall'altra parte il medico non ti caga proprio rende l'applicazione piuttosto inutile.<br>> __2020-04-08 13:53:33__
 
-> Fa molto schifo!
-> __2020-04-06 13:42:42__
+> Fa molto schifo!<br>> __2020-04-06 13:42:42__
 
-> Appena istallata funzionava che era una meraviglia. Dopo aggiornamento è la quinta volta che mi fa riattivare e confermare l'account. Sarebbe opportuno che sistemiate la cosa
-> __2020-04-06 00:54:59__
+> Appena istallata funzionava che era una meraviglia. Dopo aggiornamento è la quinta volta che mi fa riattivare e confermare l'account. Sarebbe opportuno che sistemiate la cosa<br>> __2020-04-06 00:54:59__
 
-> Dall'ultimo aggiornamento ogni volta devo rifare l'accesso e dare l'autorizzazione. In più registra ogni misurazione due volte.
-> __2020-04-05 22:56:57__
+> Dall'ultimo aggiornamento ogni volta devo rifare l'accesso e dare l'autorizzazione. In più registra ogni misurazione due volte.<br>> __2020-04-05 22:56:57__
 
-> La versione del 02/04/2020 . Appare sempre sessione scaduta e bisogna reinserire i dati e riattivarla... Credo sia una enorme stupidaggine dover inserire tutti i giorni i miei dati personali e riattivare. La versione precedente non era così, e sicuramente era molto meglio.
-> __2020-04-05 05:06:01__
+> La versione del 02/04/2020 . Appare sempre sessione scaduta e bisogna reinserire i dati e riattivarla... Credo sia una enorme stupidaggine dover inserire tutti i giorni i miei dati personali e riattivare. La versione precedente non era così, e sicuramente era molto meglio.<br>> __2020-04-05 05:06:01__
 
 
 
@@ -290,34 +250,24 @@ The LAZIOdrCovid app has been installed by more than **50000** times. At this ti
 -
 </p>
 
-> Da 1 mese e mezzo cerco di installarla e non c'è verso che funzioni. Mi fa inserire i miei dati,mi avverte di aver inviato un SMS al mio numero e di cliccare sul link. SMS mai arrivato. Inoltre sull'app accessibile da PC, riservata ai medici manca la colonna dei tamponi.
-> __2020-04-30 15:14:08__
+> Da 1 mese e mezzo cerco di installarla e non c'è verso che funzioni. Mi fa inserire i miei dati,mi avverte di aver inviato un SMS al mio numero e di cliccare sul link. SMS mai arrivato. Inoltre sull'app accessibile da PC, riservata ai medici manca la colonna dei tamponi.<br>> __2020-04-30 15:14:08__
 
-> Fate prima a morire perchè ogni volta che provate ad aprirla dovete reinserire tutti i dati compreso il codice fiscale e non credo che con la febbre a 40 ho tempo ne voglia ne lucidità per farlo. Ma del resto nel Lazio non abbiamo neanche le mascherine (regolarmente pagate con i soldi pubblici) quindi una App che non serve a niente è il male minore. La elimino.
-> __2020-04-30 06:09:44__
+> Fate prima a morire perchè ogni volta che provate ad aprirla dovete reinserire tutti i dati compreso il codice fiscale e non credo che con la febbre a 40 ho tempo ne voglia ne lucidità per farlo. Ma del resto nel Lazio non abbiamo neanche le mascherine (regolarmente pagate con i soldi pubblici) quindi una App che non serve a niente è il male minore. La elimino.<br>> __2020-04-30 06:09:44__
 
-> Fa poco, e quel poco lo fa male. Ho dovuto registrarmi varie volte, tanto per dirne una. Poi visto che non serve a nulla ho rinunciato.
-> __2020-04-26 17:35:23__
+> Fa poco, e quel poco lo fa male. Ho dovuto registrarmi varie volte, tanto per dirne una. Poi visto che non serve a nulla ho rinunciato.<br>> __2020-04-26 17:35:23__
 
-> Manda in crash il telefono
-> __2020-04-24 20:49:09__
+> Manda in crash il telefono<br>> __2020-04-24 20:49:09__
 
-> Inseriti tutti campi richiesti, dato il consenso, mi arriva la mail per l'attivazione, clicco sul link, mi dice che l'account è attivo, rientro nell'app e si ricomincia da capo come se fosse la prima volta, avrò attivato almeno una decina di volte l'account ma al primo accesso è come se fosse la prima volta. Disinstallata. AGGIORNAMENTO: dopo l'aggiornamento di oggi l'app ha ripreso a non funzionare.
-> __2020-04-24 11:06:47__
+> Inseriti tutti campi richiesti, dato il consenso, mi arriva la mail per l'attivazione, clicco sul link, mi dice che l'account è attivo, rientro nell'app e si ricomincia da capo come se fosse la prima volta, avrò attivato almeno una decina di volte l'account ma al primo accesso è come se fosse la prima volta. Disinstallata. AGGIORNAMENTO: dopo l'aggiornamento di oggi l'app ha ripreso a non funzionare.<br>> __2020-04-24 11:06:47__
 
-> È inutile! Dove sono finiti tutti i miei dati e le rilevazioni dei parametri vitali che ho inserito dal 16/03/2020 al 26/03/2020? Successivamente al 26/03/2020 mi sono dovuto registrare nuovamente altre 3 volte in occasione dei vari rilasci della app, non è questa l'informatica a servizio del cittadino! Cordiali saluti.
-> __2020-04-24 08:24:45__
+> È inutile! Dove sono finiti tutti i miei dati e le rilevazioni dei parametri vitali che ho inserito dal 16/03/2020 al 26/03/2020? Successivamente al 26/03/2020 mi sono dovuto registrare nuovamente altre 3 volte in occasione dei vari rilasci della app, non è questa l'informatica a servizio del cittadino! Cordiali saluti.<br>> __2020-04-24 08:24:45__
 
-> Ho provato a scaricarla due volte, la prima mi inviava la mail di registrazione ma poi si bloccava, ora si blocca subito senza inviare alcun codice. Bella roba
-> __2020-04-22 19:44:09__
+> Ho provato a scaricarla due volte, la prima mi inviava la mail di registrazione ma poi si bloccava, ora si blocca subito senza inviare alcun codice. Bella roba<br>> __2020-04-22 19:44:09__
 
-> Installata. Mi chiede l'accesso alla galleria. Perché? Quale utilità ne può ricevere chi monitora? Disinstallata immediatamente.
-> __2020-04-22 12:28:31__
+> Installata. Mi chiede l'accesso alla galleria. Perché? Quale utilità ne può ricevere chi monitora? Disinstallata immediatamente.<br>> __2020-04-22 12:28:31__
 
-> readmi note 7 Android 9, dopo settimane per attivarlo, eravamo riusciti a farlo funzionare, inseriti dati ok. Oggi ho riprovato ad entrare e si riparte da zero e non ti riconosce. Ma state scherzando?
-> __2020-04-21 17:20:36__
+> readmi note 7 Android 9, dopo settimane per attivarlo, eravamo riusciti a farlo funzionare, inseriti dati ok. Oggi ho riprovato ad entrare e si riparte da zero e non ti riconosce. Ma state scherzando?<br>> __2020-04-21 17:20:36__
 
-> Dopo l'aggiornamento non funziona più
-> __2020-04-20 16:45:29__
+> Dopo l'aggiornamento non funziona più<br>> __2020-04-20 16:45:29__
 
 

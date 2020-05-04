@@ -322,7 +322,7 @@ def get_reviews(stars, amount, reviews):
         if(reviews[i]['score'] == stars):
             print(reviews[i])
             count = count + 1
-            result = result + '> ' + reviews[i]['content'] + '\n> __' + reviews[i]['at'] + '__\n\n'
+            result = result + '> ' + reviews[i]['content'] + '<br>> __' + reviews[i]['at'] + '__\n\n'
         i = i + 1
     return result
 

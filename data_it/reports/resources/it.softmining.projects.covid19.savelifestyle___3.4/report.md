@@ -179,35 +179,25 @@ The SM_Covid19 app has been installed by more than **10000** times. At this time
 -
 </p>
 
-> Mi pare utile, ottima, quando ci avviciniamo a una persona che ha il virus ci dovrebbe squillare un allarme visto che ho questa App. Istallata sul cell. Oppura come fa a segnalare se una persona ha il virus?ma oltre a questa App. Ci sarà una migliore? Come mi è sembrato di capire?grazie e buon proseguimento di lavoro
-> __2020-05-04 14:42:45__
+> Mi pare utile, ottima, quando ci avviciniamo a una persona che ha il virus ci dovrebbe squillare un allarme visto che ho questa App. Istallata sul cell. Oppura come fa a segnalare se una persona ha il virus?ma oltre a questa App. Ci sarà una migliore? Come mi è sembrato di capire?grazie e buon proseguimento di lavoro<br>> __2020-05-04 14:42:45__
 
-> Versione 3.4. Ora funziona bene, ma sembrava, che il bluetooth non funzionasse, ma dopo che associato nuavamente i 2 cell. funziona! Magari se avessi riassociato i cell. dopo aver scaricato l'aggiornamento, magari avrebbe funzionato anche con versioni prima. Io ho un honor 9 lite.
-> __2020-05-04 12:06:30__
+> Versione 3.4. Ora funziona bene, ma sembrava, che il bluetooth non funzionasse, ma dopo che associato nuavamente i 2 cell. funziona! Magari se avessi riassociato i cell. dopo aver scaricato l'aggiornamento, magari avrebbe funzionato anche con versioni prima. Io ho un honor 9 lite.<br>> __2020-05-04 12:06:30__
 
-> Bella interfaccia, di semplice utilizzo. Lunedì 4 maggio 2020 uscirò per lavoro. Vedremo.
-> __2020-05-03 14:09:11__
+> Bella interfaccia, di semplice utilizzo. Lunedì 4 maggio 2020 uscirò per lavoro. Vedremo.<br>> __2020-05-03 14:09:11__
 
-> OTTIMA
-> __2020-05-03 07:01:29__
+> OTTIMA<br>> __2020-05-03 07:01:29__
 
-> Ottima idea. La dovrebbero usare tutti. Non influisce per niente sulle prestazioni del telefono! Complimenti.
-> __2020-05-02 22:21:25__
+> Ottima idea. La dovrebbero usare tutti. Non influisce per niente sulle prestazioni del telefono! Complimenti.<br>> __2020-05-02 22:21:25__
 
-> Ottime intenzioni, Ottima grafica. Non può comunque sostituirsi all' attenzione che ognuno di noi deve porre alla propria salute e ai propri comportamenti in questo periodo.
-> __2020-04-30 17:44:45__
+> Ottime intenzioni, Ottima grafica. Non può comunque sostituirsi all' attenzione che ognuno di noi deve porre alla propria salute e ai propri comportamenti in questo periodo.<br>> __2020-04-30 17:44:45__
 
-> Buona iniziativa
-> __2020-04-30 17:34:46__
+> Buona iniziativa<br>> __2020-04-30 17:34:46__
 
-> Ottimo
-> __2020-04-30 15:31:03__
+> Ottimo<br>> __2020-04-30 15:31:03__
 
-> Buona
-> __2020-04-30 15:06:15__
+> Buona<br>> __2020-04-30 15:06:15__
 
-> Che possa servire ad un miglioramento di vita.
-> __2020-04-30 12:56:42__
+> Che possa servire ad un miglioramento di vita.<br>> __2020-04-30 12:56:42__
 
 
 
@@ -217,35 +207,25 @@ The SM_Covid19 app has been installed by more than **10000** times. At this time
 -
 </p>
 
-> Sarebbe importante, al fine di capire quanto utile sia l'uso di questa app, avere anche una traccia anonima di quanti altri utenti con la stessa app abbiamo incontrato.
-> __2020-05-04 13:47:20__
+> Sarebbe importante, al fine di capire quanto utile sia l'uso di questa app, avere anche una traccia anonima di quanti altri utenti con la stessa app abbiamo incontrato.<br>> __2020-05-04 13:47:20__
 
-> Mi sembra utile lo vedremo in avanti
-> __2020-05-03 21:59:25__
+> Mi sembra utile lo vedremo in avanti<br>> __2020-05-03 21:59:25__
 
-> Nn male Abruzzo si scrive con una sola b 🤔🤔 Da sviluppare la mappa interarttiva in maniera da visualizzare in tempo reale sulla mappa tutti i Bt positivi rossi negativi verdi sarebbe buono di turra europa da poter gestire in un unica app anche gli italiani che andranno all estero e gli stranieri Buono l idea del qr code per entrare nei locali Manxa la parte di autocertificazione online
-> __2020-04-29 18:18:29__
+> Nn male Abruzzo si scrive con una sola b 🤔🤔 Da sviluppare la mappa interarttiva in maniera da visualizzare in tempo reale sulla mappa tutti i Bt positivi rossi negativi verdi sarebbe buono di turra europa da poter gestire in un unica app anche gli italiani che andranno all estero e gli stranieri Buono l idea del qr code per entrare nei locali Manxa la parte di autocertificazione online<br>> __2020-04-29 18:18:29__
 
-> Spero possa essere utile a qualcuno....
-> __2020-04-28 19:19:40__
+> Spero possa essere utile a qualcuno....<br>> __2020-04-28 19:19:40__
 
-> L'ho disattivata perché il governo ha indicato un'altra app la trovo utilissima e interattiva, un consiglio andrebbe modificata allertando quando due o più persone si avvicinano a meno di un metro sarebbe utilissima per bloccare coloro i quali sono superficiali, ma soprattutto gli imbecilli
-> __2020-04-28 00:26:49__
+> L'ho disattivata perché il governo ha indicato un'altra app la trovo utilissima e interattiva, un consiglio andrebbe modificata allertando quando due o più persone si avvicinano a meno di un metro sarebbe utilissima per bloccare coloro i quali sono superficiali, ma soprattutto gli imbecilli<br>> __2020-04-28 00:26:49__
 
-> App ben fatta, consuma ancora troppa batteria
-> __2020-04-26 19:20:27__
+> App ben fatta, consuma ancora troppa batteria<br>> __2020-04-26 19:20:27__
 
-> Interessante, soprattutto ora che disattivando il Bt magari dentro casa, non si è più avvisati costantemente di riattivarlo. Ovviamente un'app che dovrebbero scaricare tutti. A tal proposito sarebbe interessante sapere dall'app il numero di device attivi nella propria città o provincia, in modo da poterne valutare la reale efficacia. Inoltre vorrei sapere a cosa serve la modalità all'aperto. Grazie
-> __2020-04-26 14:21:08__
+> Interessante, soprattutto ora che disattivando il Bt magari dentro casa, non si è più avvisati costantemente di riattivarlo. Ovviamente un'app che dovrebbero scaricare tutti. A tal proposito sarebbe interessante sapere dall'app il numero di device attivi nella propria città o provincia, in modo da poterne valutare la reale efficacia. Inoltre vorrei sapere a cosa serve la modalità all'aperto. Grazie<br>> __2020-04-26 14:21:08__
 
-> Good
-> __2020-04-25 13:43:36__
+> Good<br>> __2020-04-25 13:43:36__
 
-> Ok
-> __2020-04-25 13:22:48__
+> Ok<br>> __2020-04-25 13:22:48__
 
-> Sembra funzionare bene, ma da quando ho installato l'app ogni 5 minuti circa lo schermo si accende da solo e rimane acceso per 3 secondi, per poi spegnersi. Temo che non sia ottimale per la batteria.
-> __2020-04-25 10:32:28__
+> Sembra funzionare bene, ma da quando ho installato l'app ogni 5 minuti circa lo schermo si accende da solo e rimane acceso per 3 secondi, per poi spegnersi. Temo che non sia ottimale per la batteria.<br>> __2020-04-25 10:32:28__
 
 
 
@@ -255,35 +235,25 @@ The SM_Covid19 app has been installed by more than **10000** times. At this time
 -
 </p>
 
-> Inserendo la modalità all'aperto si riaccende il display
-> __2020-05-04 14:36:31__
+> Inserendo la modalità all'aperto si riaccende il display<br>> __2020-05-04 14:36:31__
 
-> è il primo maggio....dove è la versione senza beta test, cioè operativa?! senza la possibilità di segnalarsi che senso ha l app?
-> __2020-05-01 14:50:45__
+> è il primo maggio....dove è la versione senza beta test, cioè operativa?! senza la possibilità di segnalarsi che senso ha l app?<br>> __2020-05-01 14:50:45__
 
-> Mi sento più protetta
-> __2020-04-30 19:36:47__
+> Mi sento più protetta<br>> __2020-04-30 19:36:47__
 
-> Ho dovuto disinstallarla perché mi consumava moltissimo la batteria. Attendo che sia migliorato questo aspetto per installarla di nuovo. Penso possa essere utile se diffusa capillarmente...
-> __2020-04-25 20:18:11__
+> Ho dovuto disinstallarla perché mi consumava moltissimo la batteria. Attendo che sia migliorato questo aspetto per installarla di nuovo. Penso possa essere utile se diffusa capillarmente...<br>> __2020-04-25 20:18:11__
 
-> Non posso dare un voto perchè la ho scaricata da qualche ora e fatto una gran fatica ad avvisarla. Ancora adesso continua ogni pochi minuti a chiedere autorizzazione ad avvio automatico ed attività in background. Concesse più volte. In particolare per le attività in background non è capace di raggiungere automaticamente le impostazioni. Però sembra sia tutto in funzione boh .. In ogni caso sto utilizzando uno Xiaomi MI9SE. Saluti
-> __2020-04-25 17:06:39__
+> Non posso dare un voto perchè la ho scaricata da qualche ora e fatto una gran fatica ad avvisarla. Ancora adesso continua ogni pochi minuti a chiedere autorizzazione ad avvio automatico ed attività in background. Concesse più volte. In particolare per le attività in background non è capace di raggiungere automaticamente le impostazioni. Però sembra sia tutto in funzione boh .. In ogni caso sto utilizzando uno Xiaomi MI9SE. Saluti<br>> __2020-04-25 17:06:39__
 
-> Dopo l aggiornamento, il telefono ogni tanto si illumina e poi si rispegne
-> __2020-04-25 13:51:37__
+> Dopo l aggiornamento, il telefono ogni tanto si illumina e poi si rispegne<br>> __2020-04-25 13:51:37__
 
-> Da perfezionare. Il bluetooth salta continuamente e a volte sovrasta le altre app. A cosa serva poi se non si sa se si ha il virus o no, resta un mistero
-> __2020-04-24 14:45:48__
+> Da perfezionare. Il bluetooth salta continuamente e a volte sovrasta le altre app. A cosa serva poi se non si sa se si ha il virus o no, resta un mistero<br>> __2020-04-24 14:45:48__
 
-> Discreta
-> __2020-04-24 10:59:25__
+> Discreta<br>> __2020-04-24 10:59:25__
 
-> Appena scaricata. C'è l'icona badge che segnala "1", cosa mi sono perso?
-> __2020-04-23 20:04:11__
+> Appena scaricata. C'è l'icona badge che segnala "1", cosa mi sono perso?<br>> __2020-04-23 20:04:11__
 
-> L'ho scaricata ieri e non so se è una mia impressione ma mi sembra che la betteria del telefono si scarichi molti più in fretta.
-> __2020-04-22 11:55:02__
+> L'ho scaricata ieri e non so se è una mia impressione ma mi sembra che la betteria del telefono si scarichi molti più in fretta.<br>> __2020-04-22 11:55:02__
 
 
 
@@ -293,35 +263,25 @@ The SM_Covid19 app has been installed by more than **10000** times. At this time
 -
 </p>
 
-> Consuma troppa batteria. Sarebbe interessante avere qualche informazione in più da consultare, se si entra in contatto con qualcuno, statistiche di utilizzo degli altri utenti etc... Ho uno Xiao Mi Note 10
-> __2020-05-04 15:13:22__
+> Consuma troppa batteria. Sarebbe interessante avere qualche informazione in più da consultare, se si entra in contatto con qualcuno, statistiche di utilizzo degli altri utenti etc... Ho uno Xiao Mi Note 10<br>> __2020-05-04 15:13:22__
 
-> Ci sono sempre gli asintomatici, poi scusate se una persona non accende il blautoot come fa a segnare i positivi??
-> __2020-04-30 05:35:49__
+> Ci sono sempre gli asintomatici, poi scusate se una persona non accende il blautoot come fa a segnare i positivi??<br>> __2020-04-30 05:35:49__
 
-> Ho dovuto disinstallare perché molto invasiva, continua a dare notifiche e a sovrapporsi alle altre app.
-> __2020-04-28 18:56:54__
+> Ho dovuto disinstallare perché molto invasiva, continua a dare notifiche e a sovrapporsi alle altre app.<br>> __2020-04-28 18:56:54__
 
-> A me ogni 7 secondo mi fa arrivare lo schermo ...continuamente ...
-> __2020-04-25 14:22:54__
+> A me ogni 7 secondo mi fa arrivare lo schermo ...continuamente ...<br>> __2020-04-25 14:22:54__
 
-> Dopo l'aggiornamento il telefono si accende di continuo. Anche in mezzo a tanta gente il rischio rimane sempre 0 (forse ce ne sono ancora poche installate?)
-> __2020-04-24 21:00:58__
+> Dopo l'aggiornamento il telefono si accende di continuo. Anche in mezzo a tanta gente il rischio rimane sempre 0 (forse ce ne sono ancora poche installate?)<br>> __2020-04-24 21:00:58__
 
-> Per ora due stelle. Piuttosto invadente, è una notifica continua! Se si chiude arriva subito una notifica e si riapre. Non può lavorare in background come tutte le altre senza sostituirsi alla schermata principale? E usare solo la geolocalizzazione senza dover tenere acceso anche il bluetooth, sia per il risparmio energetico della batteria sia per evitare inavvertitamente di concedere l'accesso al telefono ad un dispositivo sconosciuto?
-> __2020-04-22 00:12:01__
+> Per ora due stelle. Piuttosto invadente, è una notifica continua! Se si chiude arriva subito una notifica e si riapre. Non può lavorare in background come tutte le altre senza sostituirsi alla schermata principale? E usare solo la geolocalizzazione senza dover tenere acceso anche il bluetooth, sia per il risparmio energetico della batteria sia per evitare inavvertitamente di concedere l'accesso al telefono ad un dispositivo sconosciuto?<br>> __2020-04-22 00:12:01__
 
-> La parte sulle statistiche va rivista, quelli che chiamate "positivi totali" sono gli attuali, quelli che chiamate "positivi nuovi" è l'incremento giornaliero sui casi totali, quelli che chiamate "variazione totale" è invece la variazione giornaliera sugli attuali. Attualmente la parte statistica è l'unica su cui realmente si può giudicare e se il buongiorno si vede dal mattino...
-> __2020-04-21 22:04:59__
+> La parte sulle statistiche va rivista, quelli che chiamate "positivi totali" sono gli attuali, quelli che chiamate "positivi nuovi" è l'incremento giornaliero sui casi totali, quelli che chiamate "variazione totale" è invece la variazione giornaliera sugli attuali. Attualmente la parte statistica è l'unica su cui realmente si può giudicare e se il buongiorno si vede dal mattino...<br>> __2020-04-21 22:04:59__
 
-> Popup impostazione bluetooth che continua ad apparire.Sarò ben padrone di disabilitarlo se ne ho necessitá. Disinstallata
-> __2020-04-21 15:45:26__
+> Popup impostazione bluetooth che continua ad apparire.Sarò ben padrone di disabilitarlo se ne ho necessitá. Disinstallata<br>> __2020-04-21 15:45:26__
 
-> Ho installato. Poi nei permessi, l'ultimo, evidentemente la scelta non era corretta. Ma per cambiare scelta ho dovuto disinstallare l'app e reinstallare. Non un buon inizio...
-> __2020-04-21 14:32:57__
+> Ho installato. Poi nei permessi, l'ultimo, evidentemente la scelta non era corretta. Ma per cambiare scelta ho dovuto disinstallare l'app e reinstallare. Non un buon inizio...<br>> __2020-04-21 14:32:57__
 
-> Io ho scaricato l'app ma onestamente non mi è chiaro come dovrebbe funzionare. Quindi ho disinstallato. Pensavo posse darmi traccia delle zone dove si trovano positivi e quindi dove non andare
-> __2020-04-16 10:31:02__
+> Io ho scaricato l'app ma onestamente non mi è chiaro come dovrebbe funzionare. Quindi ho disinstallato. Pensavo posse darmi traccia delle zone dove si trovano positivi e quindi dove non andare<br>> __2020-04-16 10:31:02__
 
 
 
@@ -331,34 +291,24 @@ The SM_Covid19 app has been installed by more than **10000** times. At this time
 -
 </p>
 
-> Scarica subito la batteria e se non hai fatto il tampone è inutile. 1 stella e non ho fatto il download
-> __2020-05-04 13:43:55__
+> Scarica subito la batteria e se non hai fatto il tampone è inutile. 1 stella e non ho fatto il download<br>> __2020-05-04 13:43:55__
 
-> Salve, io l ho appena scaricata, volevo sapere se questa app è valida anche qui da me, sono di Lecce, Puglia...
-> __2020-05-03 16:10:09__
+> Salve, io l ho appena scaricata, volevo sapere se questa app è valida anche qui da me, sono di Lecce, Puglia...<br>> __2020-05-03 16:10:09__
 
-> NON FATEVI TRACCIARE DA QUESTA APP. È TUTTA UNA GROSSA PRESA IN GIRO, NON CASCATECI! ATTENTI ITALIANI!
-> __2020-05-02 22:38:22__
+> NON FATEVI TRACCIARE DA QUESTA APP. È TUTTA UNA GROSSA PRESA IN GIRO, NON CASCATECI! ATTENTI ITALIANI!<br>> __2020-05-02 22:38:22__
 
-> Io lo scaricata ma nn ho capito come funziona.
-> __2020-05-01 22:46:10__
+> Io lo scaricata ma nn ho capito come funziona.<br>> __2020-05-01 22:46:10__
 
-> - (1). Come per le versioni beta precedenti, permane la richiesta di permessi non necessari, quali accesso a fotocamera e NFC. Peraltro con autorizzazione NFC, questo viene "spammato abbestia"... **EDIT : NFC spamming Fixed in build 2.5 #13 - Permessi camera e NFC ancora presenti causa mantenimento codice barcode scanner journeyapps - EDIT2 : permesso NFC rimosso in build 3.1 #16 - EDIT3 : rimossi (finalmente) codice Journeyapps barcode scanner & permesso fotocamera in build 3.2 #18. In tale build sono stati però aggiunti nuovi permessi lettura&scrittura External Storage...** . - (2). Presenti ancora problemi di riattivazione indesiderata in foreground con situazioni successive di crash / app, che non risponde correttamente/prontamente, tentando di rimetterla in background. . **EDIT : Partially fixed in build 2.5 #13 = cambiata gestione in background & OK supporto notifica persistente / ancora sporadiche riattivazioni indesiderate in foreground - EDIT2 : fixed in build 3.1 #16** . - (3). Errata gestione di richiesta opt-in per l'utilizzo dei servizi di localizzazione, dato che non si attiva quando l'utente effettivamente flagga/autorizza geolocalizzazione e GPS, ma anche per il solo BT peer contact-tracing **EDIT2 : cambiata gestione trasmissione coordinate GPS ad API OpenSignal ed Istanza Firebase in build 3.1 #16**. . - (4). Ci sono precise linee guida - a seguito dell'emergenza - che regolano la pubblicazione sul Play Store di app a tema COVID, che prevedono autorizzazione ufficiale esplicita da parte di Autorità Governative e/o Enti operanti in ambito sanitario. Non si ravvisano esplicitamente tali elementi necessari in relazione alle info di pubblicazione per quest'applicazione. . - Per tali motivi si è proceduto ad inoltrare apposito report per app inappropriata al supporto sviluppatori Google Play, onde effettuare le verifiche preposte. - **EDIT : Inoltrata segnalazione 15/04 a MID (Ministero per l'Innovazione tecnologica e la Digitalizzazione), onde consentire le relative verifiche, anche a seguito delle ufficializzazioni 16/04 in merito all'app nazionale di contact-tracing**.
-> __2020-04-29 21:42:55__
+> - (1). Come per le versioni beta precedenti, permane la richiesta di permessi non necessari, quali accesso a fotocamera e NFC. Peraltro con autorizzazione NFC, questo viene "spammato abbestia"... **EDIT : NFC spamming Fixed in build 2.5 #13 - Permessi camera e NFC ancora presenti causa mantenimento codice barcode scanner journeyapps - EDIT2 : permesso NFC rimosso in build 3.1 #16 - EDIT3 : rimossi (finalmente) codice Journeyapps barcode scanner & permesso fotocamera in build 3.2 #18. In tale build sono stati però aggiunti nuovi permessi lettura&scrittura External Storage...** . - (2). Presenti ancora problemi di riattivazione indesiderata in foreground con situazioni successive di crash / app, che non risponde correttamente/prontamente, tentando di rimetterla in background. . **EDIT : Partially fixed in build 2.5 #13 = cambiata gestione in background & OK supporto notifica persistente / ancora sporadiche riattivazioni indesiderate in foreground - EDIT2 : fixed in build 3.1 #16** . - (3). Errata gestione di richiesta opt-in per l'utilizzo dei servizi di localizzazione, dato che non si attiva quando l'utente effettivamente flagga/autorizza geolocalizzazione e GPS, ma anche per il solo BT peer contact-tracing **EDIT2 : cambiata gestione trasmissione coordinate GPS ad API OpenSignal ed Istanza Firebase in build 3.1 #16**. . - (4). Ci sono precise linee guida - a seguito dell'emergenza - che regolano la pubblicazione sul Play Store di app a tema COVID, che prevedono autorizzazione ufficiale esplicita da parte di Autorità Governative e/o Enti operanti in ambito sanitario. Non si ravvisano esplicitamente tali elementi necessari in relazione alle info di pubblicazione per quest'applicazione. . - Per tali motivi si è proceduto ad inoltrare apposito report per app inappropriata al supporto sviluppatori Google Play, onde effettuare le verifiche preposte. - **EDIT : Inoltrata segnalazione 15/04 a MID (Ministero per l'Innovazione tecnologica e la Digitalizzazione), onde consentire le relative verifiche, anche a seguito delle ufficializzazioni 16/04 in merito all'app nazionale di contact-tracing**.<br>> __2020-04-29 21:42:55__
 
-> Pessima rallenta il telefono s9+. È impossibile scaricare o ascoltare musica ininterrotta e qualsiasi altra operazione sembra impossibile. Disinstallata subito il telefono è tornato come prima. Servono stelle in negativo
-> __2020-04-28 14:06:24__
+> Pessima rallenta il telefono s9+. È impossibile scaricare o ascoltare musica ininterrotta e qualsiasi altra operazione sembra impossibile. Disinstallata subito il telefono è tornato come prima. Servono stelle in negativo<br>> __2020-04-28 14:06:24__
 
-> Ma a che serve? Non e attivo nulla, non c'è una mappa, se utilizzo deliveroo faccio prima. Ma come funziona perfettamente??? Da le statistiche e basta ..
-> __2020-04-24 17:49:26__
+> Ma a che serve? Non e attivo nulla, non c'è una mappa, se utilizzo deliveroo faccio prima. Ma come funziona perfettamente??? Da le statistiche e basta ..<br>> __2020-04-24 17:49:26__
 
-> Attenzione! Nel mio caso dopo l'installazione è comparso un pop-up che mi invita a scaricare una app denominata soft-mining. È un malware??
-> __2020-04-24 16:07:09__
+> Attenzione! Nel mio caso dopo l'installazione è comparso un pop-up che mi invita a scaricare una app denominata soft-mining. È un malware??<br>> __2020-04-24 16:07:09__
 
-> Puo essere meglio
-> __2020-04-24 15:34:59__
+> Puo essere meglio<br>> __2020-04-24 15:34:59__
 
-> La sto testando e onestamente non riesco a capire l'utilità, anche perché posso passare da essere un cittadino a essere dottore e non cambia nulla. Da rivedere
-> __2020-04-23 15:03:50__
+> La sto testando e onestamente non riesco a capire l'utilità, anche perché posso passare da essere un cittadino a essere dottore e non cambia nulla. Da rivedere<br>> __2020-04-23 15:03:50__
 
 
