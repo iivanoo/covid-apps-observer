@@ -1,28 +1,26 @@
 # LAZIOdrCovid
 Version ``1.0.14``
 
+<img src="icon.png" alt="LAZIOdrCovid icon" width="80"/>
+
 ## App overview
-
-<img src="icon.png" alt="LAZIOdrCovid icon" width="200"/>
-
 | | |
 |-------------------------|-------------------------| 
 | **Name**  | LAZIOdrCovid |
 | **Unique identifier** | com.intellicare.covid |
 | **Link to Google Play** | [https://play.google.com/store/apps/details?id=com.intellicare.covid](https://play.google.com/store/apps/details?id=com.intellicare.covid) |
-| **Summary**  | Health remote monitoring platform for patients with COVID-19 risk. |
+| **Summary**  | Piattaforma di telesorveglianza sanitaria dei pazienti con rischio COVID-19. |
 | **Privacy policy** | [https://www.salutelazio.it/documents/10182/59078875/PoliticaPrivacy+LazioDoctor.pdf/2707a744-fe9d-92c9-abb8-c2e749ce82a1](https://www.salutelazio.it/documents/10182/59078875/PoliticaPrivacy+LazioDoctor.pdf/2707a744-fe9d-92c9-abb8-c2e749ce82a1) |
 | **Latest version** | 1.0.14 |
 | **Last update** | 2020-04-23 23:10:26 |
 | **Recent changes** | Aggiorniamo l&#39;app regolarmente per renderla sempre migliore. Scarica la versione più recente per avere tutte le funzioni, i miglioramenti delle prestazioni e la risoluzione di problemi tecnici disponibili. |
-| **Installs**  | 50,000+ |
-| **Category** | Medical |
-| **First release** | Mar 16, 2020 |
+| **Installs**  | 50.000+ |
+| **Category** | Medicina |
+| **First release** | 16 mar 2020 |
 | **Size**  | 32M |
-| **Supported Android version**  | 6.0 and up |
+| **Supported Android version**  | 6.0 e versioni successive |
 
 ### Description
-
 ```
 La Regione Lazio offre la piattaforma Lazio Doctor per consultare informazioni utili legati all’emergenza COVID-19 e per connettere i pazienti con operatori sanitari e numero verde 800118800. Attraverso l’applicazione mobile scaricata sul telefono è possibile entrare in contatto con il proprio medico di base in modalità virtuale, ovunque, inviando in qualsiasi momento, le richieste di cui si ha bisogno. L’applicazione prevede comunicazioni testo-audio bidirezionali sicure tramite smartphone tra il cittadino ed il proprio medico. La videochiamata viene attivata, se necessario, dal medico per approfondire il quadro clinico del paziente.
 La Regione Lazio ha voluto rendere disponibile, ai pro¬pri cittadini, una corsia veloce ed affidabile per la fruizione dei servizi sanitari efficace soprattutto nei momenti di emergenza e in sicurezza. L’applicazione è scaricabile gratuitamente su App Store (iPhone) e Play Store (telefoni Android) su smar¬tphone. La modalità di accesso è immediata. Basta poi seguire i semplici passaggi per accedere ai servizi disponibili.
@@ -84,9 +82,9 @@ In the following we report the complete list of the permissions requested by the
 | **Server** | **Registrant** | **Registrant country** | **Creation date** | 
 |-------------------------|-------------------------|-------------------------|-------------------------|
  | googlesyndication.com | Google LLC | :us: US | 2003-01-21 06:17:24 |
- | google.com | - | - | 1997-09-15 04:00:00 |
- | app-measurement.com | - | - | 2015-06-19 20:13:31 |
- | googleadservices.com | - | - | 2003-06-19 16:34:53 |
+ | google.com | Google LLC | :us: US | 1997-09-15 04:00:00 |
+ | app-measurement.com | Google LLC | :us: US | 2015-06-19 20:13:31 |
+ | googleadservices.com | Google LLC | :us: US | 2003-06-19 16:34:53 |
  | color.org | International Color Consortium | :us: US | 1995-12-12 05:00:00 |
  | regione.lazio.it | Regione Lazio | :it: IT | 1996-12-17 00:00:00 |
 

@@ -1,10 +1,9 @@
 # Covid-19
 Version ``1.0.4``
 
+<img src="icon.png" alt="Covid-19 icon" width="80"/>
+
 ## App overview
-
-<img src="icon.png" alt="Covid-19 icon" width="200"/>
-
 | | |
 |-------------------------|-------------------------| 
 | **Name**  | Covid-19 |
@@ -22,7 +21,6 @@ Version ``1.0.4``
 | **Supported Android version**  | 5.0 e versioni successive |
 
 ### Description
-
 ```
 COVID-19 è la nuova App di “Connected Health” idonea per il self measurement, la prevenzione e il monitoraggio dei parametri fisiologici, o ancora per l’assistenza remota di pazienti contaggiati da COVID-19.
 Per accedere al servizio è sufficiente ricevere un account dalla struttura medica di riferimento per l’avvio della sorveglianza durante tutto il periodo di isolamento forzato.

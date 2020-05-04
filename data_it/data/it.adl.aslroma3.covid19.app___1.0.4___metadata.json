@@ -6,15 +6,15 @@
     "summaryHTML": "App per l&#39;acquisizione e il monitoraggio parametri vitali - Covid-19.",
     "installs": "10.000+",
     "minInstalls": 10000,
-    "score": 2.95,
-    "ratings": 127,
-    "reviews": 76,
+    "score": 3.04,
+    "ratings": 134,
+    "reviews": 80,
     "histogram": [
         58,
-        3,
         2,
-        10,
-        52
+        2,
+        13,
+        56
     ],
     "price": 0,
     "free": true,

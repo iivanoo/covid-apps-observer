@@ -28,11 +28,11 @@ def setPaths(path):
     if not os.path.exists(APPS_PATH):
         os.makedirs(APPS_PATH)
     if not os.path.exists(DATA_PATH):
-        os.makedirs(APPS_PATH)
+        os.makedirs(DATA_PATH)
     if not os.path.exists(APKS_PATH):
-        os.makedirs(APPS_PATH)
+        os.makedirs(APKS_PATH)
     if not os.path.exists(REPORTS_PATH):
-        os.makedirs(APPS_PATH)
+        os.makedirs(REPORTS_PATH)
 
 # Downloads a remote resource pointed by url into path
 def download(url, path):

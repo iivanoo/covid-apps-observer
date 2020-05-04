@@ -1,5 +1,49 @@
 [
     {
+        "userName": "Marco Rodesio",
+        "userImage": "https://lh3.googleusercontent.com/-QVzE21HgojA/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJPC7RwKwrbnY1C1PE5F9M0H29qFVQ/photo.jpg",
+        "content": "L'app \u00e8 instabile, la geolocalizzazione sballata, impossibile disinstallarla...ASSURDO!",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2020-05-03 09:22:12",
+        "replyContent": "La geolocalizzazione dipende dal suo device. Per quanto concerne la disinstallazione, come per qualsiasi altra App \u00e8 sempre possibile, non esiste alcun vincolo in tal senso. La ringraziamo per il suo feedback.",
+        "repliedAt": "2020-05-04 09:04:04"
+    },
+    {
+        "userName": "Antonio Di Vittorio",
+        "userImage": "https://lh3.googleusercontent.com/-M3B4Mr2JML0/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJOshEFZGUptJMxKLiLh2vARlnJj3g/photo.jpg",
+        "content": "Come altri commenti... Mi chiede sempre l' indirizzo e non mi fa continuare",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.0",
+        "at": "2020-05-02 23:37:36",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "userName": "Marco Parrinello",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjldVgib3lZPMMKP-UoH339lPkI44ad3T746Edyxg",
+        "content": "Sarebbe comoda l'aggiunta di un reminder giornaliero che ricordi di aggiornare lo stato di salute e non solo quello delle passate 6 ore",
+        "score": 3,
+        "thumbsUpCount": 4,
+        "reviewCreatedVersion": "3.0",
+        "at": "2020-05-01 03:57:37",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "userName": "Simone Zappala'",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gi0tmWFPwdPcDS0Z0OZsKyDKDrJF_zbD97Y7rPAcQ",
+        "content": "Volevo provare ad usarla ma non c'\u00e8 modo di effettuare la registrazione sul sito siciliasicura e non \u00e8 spiegato da nessuna parte",
+        "score": 1,
+        "thumbsUpCount": 2,
+        "reviewCreatedVersion": "4.0",
+        "at": "2020-04-30 21:42:22",
+        "replyContent": "Gentile Simone, nella pagina di login di Sicilia Si Cura, \u00e8 presente un apposito tasto denominato \"Informazioni per la registrazione a Sicilia Si Cura\" che le fornisce tutti i dettagli su come effettuare la registrazione.",
+        "repliedAt": "2020-05-04 09:06:12"
+    },
+    {
         "userName": "Eros Parrinello",
         "userImage": "https://lh3.googleusercontent.com/-iy8TN1PQMRA/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJNC8ksKuNQvwocVlQ3OeDD404r54Q/photo.jpg",
         "content": "Ma di preciso a cosa serve questa app",
@@ -132,22 +176,11 @@
         "repliedAt": "2020-04-23 18:01:31"
     },
     {
-        "userName": "Marco Parrinello",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjldVgib3lZPMMKP-UoH339lPkI44ad3T746Edyxg",
-        "content": "Sarebbe comoda l'aggiunta di un reminder che ricordi di aggiornare lo stato di salute",
-        "score": 3,
-        "thumbsUpCount": 4,
-        "reviewCreatedVersion": "2.0",
-        "at": "2020-04-23 13:35:19",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
         "userName": "Concetta Sidoti",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjOos1FccPeQAvfrmwdYUfTGmfAIhT_lXqmDoMK3Q",
         "content": "Una volta installata ed effettuato il login pi\u00f9 di una volta e in diverse ore del giorno, mi dice sempre di inserire un indirizzo e che gi\u00e0 c'\u00e8 un indirizzo registrato. Inserisco nuovamente l'imdirizzo dove mi trovo e l'app rimane bloccata l\u00ec. \u00c8 inutilizzabile",
         "score": 1,
-        "thumbsUpCount": 4,
+        "thumbsUpCount": 7,
         "reviewCreatedVersion": "2.0",
         "at": "2020-04-23 08:51:15",
         "replyContent": null,

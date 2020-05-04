@@ -20,8 +20,6 @@ def collect_data():
             # Launch the Androguard and Androwarn analyses
             androguard_androwarn_analyzer.analyze(a)
             # Analyze the servers pointed by the URLs we found in the String analysis of Androguard
-            servers_analyzer.analyze(a)
-        
         
     # Finally, if everything goes well, save the updated apps.json file with the new timestamps and versions
     c.save(c.APPS_PATH, apps)
@@ -44,7 +42,7 @@ def main():
     else:
         print('Error - the provided path does not exist: ' + options.input)
 
-    # collect_data()
+    collect_data()
     create_report()
 
     # servers_analyzer.analyze({'id':'it.softmining.projects.covid19.savelifestyle', 'latest_crawled_version': '3.4'})

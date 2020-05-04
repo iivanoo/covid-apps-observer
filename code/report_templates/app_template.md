@@ -1,10 +1,9 @@
 # <<<APP_TITLE>>>
 Version ``<<<APP_VERSION>>>``
 
+<img src="<<<ICON_PATH>>>" alt="<<<APP_TITLE>>> icon" width="80"/>
+
 ## App overview
-
-<img src="<<<ICON_PATH>>>" alt="<<<APP_TITLE>>> icon" width="200"/>
-
 | | |
 |-------------------------|-------------------------| 
 | **Name**  | <<<APP_TITLE>>> |
@@ -22,7 +21,6 @@ Version ``<<<APP_VERSION>>>``
 | **Supported Android version**  | <<<APP_ANDROID_VERSION>>> |
 
 ### Description
-
 ```
 <<<APP_DESCRIPTION>>>
 ```

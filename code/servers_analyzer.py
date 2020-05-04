@@ -20,6 +20,9 @@ def is_candidate(url):
         return False
     if re.search('example', url):
         return False
+    # if the url is too short, we discard it
+    if(len(url.replace('http://', '').replace('https://', '')) <= 2):
+        return False
     return True
 
 # Given a url, it returns only its first-level domain

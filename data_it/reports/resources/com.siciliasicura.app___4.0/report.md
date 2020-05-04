@@ -1,28 +1,26 @@
 # Sicilia Si Cura
 Version ``4.0``
 
+<img src="icon.png" alt="Sicilia Si Cura icon" width="80"/>
+
 ## App overview
-
-<img src="icon.png" alt="Sicilia Si Cura icon" width="200"/>
-
 | | |
 |-------------------------|-------------------------| 
 | **Name**  | Sicilia Si Cura |
 | **Unique identifier** | com.siciliasicura.app |
 | **Link to Google Play** | [https://play.google.com/store/apps/details?id=com.siciliasicura.app](https://play.google.com/store/apps/details?id=com.siciliasicura.app) |
-| **Summary**  | App for epidemiological evaluation of the advancement of the Covid-19 infection in Sicily |
+| **Summary**  | App per valutazione epidemiologica avanzamento del contagio Covid-19 in Sicilia |
 | **Privacy policy** | [https://siciliasicura.costruiresalute.it/welcome](https://siciliasicura.costruiresalute.it/welcome) |
 | **Latest version** | 4.0 |
 | **Last update** | 2020-04-28 13:14:44 |
 | **Recent changes** | Effettuato aggiornamento di bug fix che in rari casi poteva causare il crash dell&#39;app. |
-| **Installs**  | 1,000+ |
-| **Category** | Health & Fitness |
-| **First release** | Mar 27, 2020 |
-| **Size**  | 5.5M |
-| **Supported Android version**  | 5.0 and up |
+| **Installs**  | 1.000+ |
+| **Category** | Salute e fitness |
+| **First release** | 27 mar 2020 |
+| **Size**  | 5,5M |
+| **Supported Android version**  | 5.0 e versioni successive |
 
 ### Description
-
 ```
 La gestione della pandemia COVID-19, caratterizzata da una alta trasmissibilità del virus e da una contagiosità elevata anche durante il periodo asintomatico, richiede misure di isolamento sociale e di monitoraggio attivo delle condizioni di salute dei cittadini. 
 
@@ -92,7 +90,7 @@ In the following we report the complete list of the permissions requested by the
 
 | **Server** | **Registrant** | **Registrant country** | **Creation date** | 
 |-------------------------|-------------------------|-------------------------|-------------------------|
- | google.com | - | - | 1997-09-15 04:00:00 |
+ | google.com | Google LLC | :us: US | 1997-09-15 04:00:00 |
  | gstatic.com | Google LLC | :us: US | 2008-02-11 15:31:25 |
  | googleapis.com | Google LLC | :us: US | 2005-01-25 17:52:26 |
 

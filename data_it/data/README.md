@@ -1,1 +1,0 @@
-This folder will contain the crawled data about all analyzed apps

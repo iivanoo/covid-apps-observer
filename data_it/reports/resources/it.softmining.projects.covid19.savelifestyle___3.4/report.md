@@ -1,10 +1,9 @@
 # SM_Covid19
 Version ``3.4``
 
+<img src="icon.png" alt="SM_Covid19 icon" width="80"/>
+
 ## App overview
-
-<img src="icon.png" alt="SM_Covid19 icon" width="200"/>
-
 | | |
 |-------------------------|-------------------------| 
 | **Name**  | SM_Covid19 |
@@ -22,7 +21,6 @@ Version ``3.4``
 | **Supported Android version**  | 4.4W e versioni successive |
 
 ### Description
-
 ```
 Questa App è stata sviluppata e viene costantemente aggiornata con l'obiettivo di valutare (attraverso la definizione di modelli statistici e matematici) il rischio di trasmissione (e il comportamento epidemico) del virus attraverso il monitoraggio:
 
@@ -126,17 +124,17 @@ In the following we report the complete list of the permissions requested by the
 | **Server** | **Registrant** | **Registrant country** | **Creation date** | 
 |-------------------------|-------------------------|-------------------------|-------------------------|
  | googlesyndication.com | Google LLC | :us: US | 2003-01-21 06:17:24 |
- | google.com | - | - | 1997-09-15 04:00:00 |
- | app-measurement.com | - | - | 2015-06-19 20:13:31 |
- | googleadservices.com | - | - | 2003-06-19 16:34:53 |
+ | google.com | Google LLC | :us: US | 1997-09-15 04:00:00 |
+ | app-measurement.com | Google LLC | :us: US | 2015-06-19 20:13:31 |
+ | googleadservices.com | Google LLC | :us: US | 2003-06-19 16:34:53 |
  | onesignal.com | Domains By Proxy, LLC | :us: US | 2011-09-10 18:40:52 |
+ | githubusercontent.com | GitHub, Inc. | :us: US | 2014-02-06 21:17:00 |
  | softmining.it | SOFTMINING S.R.L. | :it: IT | 2017-10-16 19:27:28 |
  | salute.gov.it | - | - | - |
  | smcovid19.org | Data Protected | :canada: CA | 2020-03-31 21:30:24 |
  | governo.it | Presidenza del Consiglio dei Ministri | :it: IT | 2000-01-24 00:00:00 |
  | amazonaws.com | Amazon.com, Inc. | :us: US | 2005-08-18 02:10:45 |
- | crashlytics.com | - | - | 2011-01-21 15:30:40 |
- | githubusercontent.com | GitHub, Inc. | :us: US | 2014-02-06 21:17:00 |
+ | crashlytics.com | Google LLC | :us: US | 2011-01-21 15:30:40 |
 
 
 ## Security analysis 

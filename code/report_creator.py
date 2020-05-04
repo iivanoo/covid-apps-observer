@@ -12,6 +12,8 @@ def prepare_folders_structure(app):
     
     if os.path.exists(app_folder_path):
         shutil.rmtree(app_folder_path)
+    if not os.path.exists(c.GLOBAL_PATH + 'reports/resources/'):
+        os.mkdir(c.GLOBAL_PATH + 'reports/resources/')
     os.mkdir(app_folder_path)
 
     return app_folder_path

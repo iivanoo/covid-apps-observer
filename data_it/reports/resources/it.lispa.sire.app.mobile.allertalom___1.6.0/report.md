@@ -1,28 +1,26 @@
 # allertaLOM
 Version ``1.6.0``
 
+<img src="icon.png" alt="allertaLOM icon" width="80"/>
+
 ## App overview
-
-<img src="icon.png" alt="allertaLOM icon" width="200"/>
-
 | | |
 |-------------------------|-------------------------| 
 | **Name**  | allertaLOM |
 | **Unique identifier** | it.lispa.sire.app.mobile.allertalom |
 | **Link to Google Play** | [https://play.google.com/store/apps/details?id=it.lispa.sire.app.mobile.allertalom](https://play.google.com/store/apps/details?id=it.lispa.sire.app.mobile.allertalom) |
-| **Summary**  | The app of the Civil Protection of the Lombardy Region that alerts in real time |
+| **Summary**  | L’app della Protezione Civile di Regione Lombardia che allerta in tempo reale |
 | **Privacy policy** | [http://www.allertalom.regione.lombardia.it/privacyapp](http://www.allertalom.regione.lombardia.it/privacyapp) |
 | **Latest version** | 1.6.0 |
 | **Last update** | 2020-04-20 15:21:27 |
 | **Recent changes** | Nuova funzionalità emergenza Coronavirus - aprile 2020<br>Possibilità di partecipare al progetto di monitoraggio attivo della diffusione del COVID-19 in Lombardia. |
-| **Installs**  | 500,000+ |
-| **Category** | Weather |
-| **First release** | Dec 11, 2019 |
-| **Size**  | 9.7M |
-| **Supported Android version**  | 5.0 and up |
+| **Installs**  | 500.000+ |
+| **Category** | Meteo |
+| **First release** | 11 dic 2019 |
+| **Size**  | 9,7M |
+| **Supported Android version**  | 5.0 e versioni successive |
 
 ### Description
-
 ```
 allertaLOM è l’App di Regione Lombardia che permette di ricevere le allerte di Protezione Civile emesse dal Centro Funzionale Monitoraggio Rischi naturali di Regione Lombardia, in previsione di eventi naturali con possibili danni sul territorio.
 
@@ -97,8 +95,8 @@ In the following we report the complete list of the permissions requested by the
 | **Server** | **Registrant** | **Registrant country** | **Creation date** | 
 |-------------------------|-------------------------|-------------------------|-------------------------|
  | googlesyndication.com | Google LLC | :us: US | 2003-01-21 06:17:24 |
- | google.com | - | - | 1997-09-15 04:00:00 |
- | app-measurement.com | - | - | 2015-06-19 20:13:31 |
+ | google.com | Google LLC | :us: US | 1997-09-15 04:00:00 |
+ | app-measurement.com | Google LLC | :us: US | 2015-06-19 20:13:31 |
  | gstatic.com | Google LLC | :us: US | 2008-02-11 15:31:25 |
  | whatsapp.com | Whatsapp Inc. | :us: US | 2008-09-04 12:39:12 |
 
