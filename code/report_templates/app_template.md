@@ -1,5 +1,6 @@
 # <<<APP_TITLE>>>
 App version ``<<<APP_VERSION>>>``
+
 Analyzed with [covid-apps-observer][http://github.com/covid-apps-observer] project, version ``0.1``
 
 <img src="<<<ICON_PATH>>>" alt="<<<APP_TITLE>>> icon" width="80"/>
