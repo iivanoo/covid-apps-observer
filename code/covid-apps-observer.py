@@ -32,7 +32,6 @@ def create_report():
 
     for a in apps:
         report_creator.create(a)
-        break
 
 def main():
     # Argument definition and management

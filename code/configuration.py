@@ -36,7 +36,6 @@ def setPaths(path):
 
 # Downloads a remote resource pointed by url into path
 def download(url, path):
-    print(url)
     img_data = requests.get(url, allow_redirects=True).content
     with open(path, 'wb') as handler:
         handler.write(img_data)

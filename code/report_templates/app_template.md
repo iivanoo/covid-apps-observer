@@ -52,16 +52,20 @@ In the following we report the main information provided by the development team
 In the following we report the complete list of the permissions requested by the app. 
 
 |---|---|---|
+| **Permission** | **Protection level** | **Description** | 
 <<<PERMISSIONS_TABLE>>>
 
 ## Mentioned servers
 
-|---|---|---|
+|---|---|---|---|
+| **Server** | **Registrant** | **Registrant country** | **Creation date** | 
 <<<SERVERS_TABLE>>>
 
 ## Security analysis 
 
-TODO
+Below we report the main security warnings raised by our execution of the [Androwarn][https://github.com/maaaaz/androwarn] security analysis tool.
+
+<<<ANDROWARN_RESULTS>>>
 
 ## User ratings and reviews
 

@@ -88,7 +88,6 @@ def fill_overview(app, metadata, template, report_folder):
     }
 
     placeholders = fill_voids(placeholders)
-    
     return fill_placeholders(placeholders, template)
 
 # Fill the Development team section of the report
@@ -115,7 +114,6 @@ def fill_dev_team(app, metadata, template):
     }
 
     placeholders = fill_voids(placeholders)
-    
     return fill_placeholders(placeholders, template)
 
 # Given the portion of json file produced by Androwarm, it extracts a more structured and mapped data structure with placeholders 
@@ -127,7 +125,7 @@ def get_sdk_info(aw, sdk_info):
         'min_sdk': None,
         'max_sdk': None,
     }
-    
+
     # We flatten the list into a string so to ease the application of the regexes below
     contents = '\n'.join(aw)
 
@@ -174,26 +172,125 @@ def fill_android(app, androwarn, template):
     }
 
     placeholders = fill_voids(placeholders)
-    
     return fill_placeholders(placeholders, template)
 
 # Fill the Permissions section of the report
 def fill_permissions(app, androguard, template):
-    filled_template = template
+    
+    permissions = json.load(open('static_resources/android_permissions.json', 'r'))['permissions']
+    permissions_table = ''
 
-    return filled_template
+    androguard['permissions'].sort()
+
+    for p in androguard['permissions']:
+        try:
+            description = permissions[p]['description']
+            protection_level = permissions[p]['protection_level'].capitalize().replace('|', ' - ')
+            if protection_level == 'Dangerous':
+                protection_level = '<p class="text-red mb-2">:warning: ' + protection_level + '</p>'
+        except KeyError:
+            description = '-'
+            protection_level = '-'
+        permissions_table = permissions_table + ' | ' + p + ' | ' + protection_level + ' | ' + description + ' |\n' 
+
+    placeholders = {
+        'PERMISSIONS_TABLE': permissions_table
+    }
+
+    placeholders = fill_voids(placeholders)
+    return fill_placeholders(placeholders, template)
+
+# Given a country code, we return the Markdown code of the flag of the country
+def get_flag(country_code):
+    mapping = {
+        'US': ':us:',
+        'IT': ':it:',
+        'CA': ':canada:',
+        'ES': ':es:',
+        'FR': ':fr:',
+        'AR': ':argentina:',
+        'AT': ':austria:',
+        'BE': ':belgium:',
+        'BU': ':bulgaria:',
+        'CL': ':chile:',
+        'CH': ':china:',
+        'CU': ':cuba:',
+        'DE': ':de:',
+        'FI': ':finland:',
+        'CR': ':croatia:',
+        'IL': ':israel:',
+        'IN': ':india:',
+        'IS': ':iceland:',
+        'NO': ':norway:',
+        'NZ': ':new_zealand:',
+        'PO': ':poland:',
+        'RO': ':romania:',
+        'RU': ':ru:',
+        'SE': ':sweden:',
+        'UA': ':ukraine:',
+        'AU': ':australia:',
+        'BR': ':brazil:',
+        'CH': ':switzerland:',
+        'CZ': ':czech_republic:',
+        'DN': ':denmark:',
+        'UK': ':uk:',
+        'GR': ':greece:',
+        'JP': ':jp:',
+        'NL': ':netherlands:',
+        'PT': ':portugal:',
+        'SM': ':san_marino:',
+        'TR': ':tr:',
+        'VE': ':venezuela:',
+        'ZA': ':south_africa:',
+    }
+    if(country_code in mapping):
+        return mapping[country_code] + ' '
+    return ''
 
 # Fill the Servers section of the report
 def fill_servers(app, servers, template):
-    filled_template = template
 
-    return filled_template
+    servers_table = ''
+
+    for s in servers:
+        if s['registrant'] is None:
+            s['registrant'] = '-'
+        if s['registrant_country'] is None:
+            s['registrant_country'] = '-'
+        if s['creation_date'] is None:
+            s['creation_date'] = '-'
+
+        servers_table = servers_table + ' | ' + s['name'] + ' | ' + s['registrant'] + ' | ' + get_flag(s['registrant_country']) + s['registrant_country'] + '|' + s['creation_date'] + ' |\n' 
+
+    placeholders = {
+        'SERVERS_TABLE': servers_table
+    }
+
+    placeholders = fill_voids(placeholders)
+    return fill_placeholders(placeholders, template)
 
 # Fill the Security Analysis section of the report
 def fill_security_analysis(app, androwarn, template):
-    filled_template = template
 
-    return filled_template
+    security_analysis = androwarn[1]['analysis_results']
+
+    warnings = ''
+    
+    for e in security_analysis:
+        # We ignore the device_settings_harvesting results of Androwarm since it is too verbose and not informative for this project
+        if e[0] != 'device_settings_harvesting':
+            warnings = warnings + e[0].capitalize().replace('_', ' ') + '\n'
+            warnings = warnings + '```\n'
+            for w in e[1]:
+                warnings = warnings + w + '\n'
+            warnings = warnings + '\n```\n\n' 
+        
+    placeholders = {
+        'ANDROWARN_RESULTS': warnings,
+    }
+
+    placeholders = fill_voids(placeholders)
+    return fill_placeholders(placeholders, template)
 
 # Fill the Ratings and Reviews section of the report
 def fill_reviews(app, metadata, reviews, template):
