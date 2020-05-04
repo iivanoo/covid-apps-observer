@@ -60,8 +60,7 @@ In the following we report the main information provided by the development team
 | **Website**  | [https://openwho.org/](https://openwho.org/) |
 | **Email** | openwho-support@hpi.de |
 | **Physical address**  | [Prof.-Dr.-Helmert-Str.2-3
-14482 Potsdam](https://www.google.com/maps/search/Prof.-Dr.-Helmert-Str.2-3
-14482 Potsdam) (Google Maps) |
+14482 Potsdam](https://www.google.com/maps/search/Prof.-Dr.-Helmert-Str.2-3%2014482%20Potsdam) (Google Maps) |
 | **Other developed apps**  | [https://play.google.com/store/apps/developer?id=7185448023325736337](https://play.google.com/store/apps/developer?id=7185448023325736337) |
 
 ## Android support
