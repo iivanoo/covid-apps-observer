@@ -120,12 +120,15 @@ def fill_dev_team(app, metadata, template):
 
 # Given the portion of json file produced by Androwarm, it extracts a more structured and mapped data structure with placeholders 
 def get_sdk_info(aw, sdk_info):
+    
     result = {
         'target_sdk': None,
         'effective_sdk': None,
         'min_sdk': None,
         'max_sdk': None,
     }
+    
+    # We flatten the list into a string so to ease the application of the regexes below
     contents = '\n'.join(aw)
 
     target_sdk = re.findall(r'Declared target SDK:\s*(\d+)', contents) or None
@@ -133,6 +136,7 @@ def get_sdk_info(aw, sdk_info):
     min_sdk = re.findall(r'Min SDK:\s*(\d+)', contents) or None
     max_sdk = re.findall(r'Max SDK:\s*(\d+)', contents) or None
 
+    # Transform API levels into integers (when possible) so to ease the comparison in the subsequent for iteration 
     if(not target_sdk is None):
         target_sdk = int(target_sdk[0])
     if(not effective_sdk is None):
@@ -142,6 +146,7 @@ def get_sdk_info(aw, sdk_info):
     if(not max_sdk is None):
         max_sdk = int(max_sdk[0])
 
+    # Iterate over all codenames and when they match we produce the filled string to be put in the report
     for e in sdk_info['codenames']:
         if(e['api_level'] == target_sdk):
             result['target_sdk'] = e['codename'] + ', version ' + e['version'] + ' (API level ' + str(e['api_level']) + ')'
