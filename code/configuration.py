@@ -1,13 +1,39 @@
 import json
+import os
 
-DATA_PATH = '../data/'
-APKS_PATH = '../apks/'
-
-APPS_PATH = '../apps.json'
+# DATA_PATH = '../data/'
+# APKS_PATH = '../apks/'
 
 SEPARATOR = '___'
 
 NUM_REVIEWS = 1000
+
+def setPaths(path):
+
+    global GLOBAL_PATH
+    global APPS_PATH
+    global DATA_PATH
+    global APKS_PATH
+    global REPORTS_PATH
+
+    if(not path.endswith('/')):
+        path = path + '/'
+    GLOBAL_PATH = path
+    APPS_PATH = path + 'apps.json'
+    DATA_PATH = GLOBAL_PATH + 'data/'
+    APKS_PATH = GLOBAL_PATH + 'apks/'
+    REPORTS_PATH = GLOBAL_PATH + 'reports/'
+
+    if not os.path.exists(APPS_PATH):
+        os.makedirs(APPS_PATH)
+    if not os.path.exists(DATA_PATH):
+        os.makedirs(APPS_PATH)
+    if not os.path.exists(APKS_PATH):
+        os.makedirs(APPS_PATH)
+    if not os.path.exists(REPORTS_PATH):
+        os.makedirs(APPS_PATH)
+
+
 
 # Save JSON data into the given filePath
 def save(filePath, data):

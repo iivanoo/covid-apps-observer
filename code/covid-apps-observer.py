@@ -1,4 +1,6 @@
 import json
+import os
+import argparse
 import crawler as crawler
 import androguard_androwarn_analyzer
 import servers_analyzer
@@ -32,5 +34,19 @@ def create_report():
         report_creator.create(a)
         break
 
-# collect_data()
-create_report()
+def main():
+    # Argument definition and management
+    parser = argparse.ArgumentParser()
+    parser.add_argument('-i', '--input', help='Path to the folder containing the JSON file with the apps to analyze', required=True, type=str)
+    options = parser.parse_args()
+    # We don't even start if the provided path does not exist
+    if(os.path.exists(options.input)):
+        c.setPaths(options.input)
+    else:
+        print('Error - the provided path does not exist: ' + options.input)
+
+    # collect_data()
+    create_report()
+
+if __name__ == "__main__":
+    main()

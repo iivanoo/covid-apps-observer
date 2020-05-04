@@ -37,7 +37,7 @@ $ python -m pip install -r requirements.txt
 
 ## Usage
 
-After all requirements are correctly installed, check the contents of the ``data/apps.json`` file. It contains a minimal set of metadata referring to the Android apps you want to analyze. The ``data/apps.json`` has the following structure:
+After all requirements are correctly installed, check the contents of one of the ``data-<COUNTRY>/apps.json`` files. It contains a minimal set of metadata referring to the Android apps you want to analyze. An ``apps.json`` has the following structure:
 
 ```js
 [
@@ -56,15 +56,15 @@ After all requirements are correctly installed, check the contents of the ``data
 
 If you want to analyze different apps, you will need to do the following:
 
-* Modify the ``data/apps.json`` file according to your needs
-* Delete all contents of the ``data`` folder (but not the ``data/apps.json`` file you just modified)
+* create a new directory (for example, ``my_data``) which will contain all the apps you will analyze and their related data
+* Modify the ``my_data/apps.json`` file according to your needs
 
 The rest is automatically managed by the tool.
 
 Finally, you can launch the covid-apps-observer by running its main script as shown below.
 
 ```Shell
-$ python covid-apps-observer.py
+$ python covid-apps-observer.py -i <path to the my_data directory>
 ```
 
 This will take quite some time in the first run since it will download the following data _for each_ Android app specified in the ``apps.json`` file, specifically:

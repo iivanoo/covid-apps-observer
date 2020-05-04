@@ -41,7 +41,7 @@ In the following we report the main information provided by the development team
 |---|---|
 | **Declared target Android version**  | <<<TARGET_SDK_CODENAME>> (<<<TARGET_SDK_VERSION>>) |
 | **Effective target Android version**  | <<<EFFECTIVE_SDK_CODENAME>> (<<<EFFECTIVE_SDK_VERSION>>) |
-| **Minum supported Android version**  | <<<MIN_SDK_CODENAME>> (<<<MIN_SDK_VERSION>>) |
+| **Minimum supported Android version**  | <<<MIN_SDK_CODENAME>> (<<<MIN_SDK_VERSION>>) |
 | **Maximum target Android version**  | <<<MAX_SDK_CODENAME>> (<<<MAX_SDK_VERSION>>) |
 
 ## Requested permissions
