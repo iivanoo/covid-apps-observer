@@ -130,4 +130,5 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+# All Android Apk files should not be in the repo
 *.apk
