@@ -24,19 +24,19 @@ Analyzed with [covid-apps-observer](http://github.com/covid-apps-observer) proje
 
 ### Description
 > Questa App è stata sviluppata e viene costantemente aggiornata con l'obiettivo di valutare (attraverso la definizione di modelli statistici e matematici) il rischio di trasmissione (e il comportamento epidemico) del virus attraverso il monitoraggio:
-<br>> - del numero dei contatti
-<br>> - della durata dei contatti;
-<br>> - della distanza presente tra i contatti rilevati rispetto alla durata del contatto.
-<br>> Sm-Covid-19 non acquisisce dati personali ne dati sanitari: Ti preghiamo di visualizzare il video introduttivo per avere maggiori dettagli sullo scopo e sul funzionamento di questa App. 
-<br>> Se desideri maggiori dettagli tecnici sul funzionamento di Sm-Covid-19 puoi visitare questo link: https://www.smcovid19.org/recover/
-<br>> Sm-Covid-19 non acquisisce dati sensibili dell’utente (ne ha bisogno di tali dati per funzionare), salvo nel momento in cui sia l'utente stesso a decidere di utilizzare il modulo di segnalazione per comunicare il suo sospetto di essere infetto. Il modulo di auto-segnalazione non sarà attivo durante la fase di Beta Testing.
-<br>> Durante la fase di Beta Testing esteso, in concomitanza con l'avvio della fase 2, ci occorrerà un gran numero di utenti attivi, per poter migliorare i modelli di stima del contagio: Al momento siamo una piccola community di 30.000 volontari, ma per poter eseguire calcoli statistici precisi ti chiediamo di aiutarci a diffondere l'App tra tutti i tuoi contatti, sopratutto quelli con i quali presumibilmente potresti entrare in contatto durante la fase 2.
-<br>> Ci teniamo a ricordarti che SOLO le autorità sanitarie possono indicare la positività di un soggetto. I valori di rischio indicati in Sm-Covid-19 NON possono essere considerate diagnosi di positività o negatività al Covid-19: Lo scopo di questa APP è di generare modelli rappresentativi del contagio (modelli matematici) e statistiche accurate.
-<br>> L’utente non viene geo-localizzato, né viene reso riconoscibile, salvo nel caso in cui esso stesso decida di condividere di suo spontanea volontà i dati GPS attraverso il menù Impostazioni -> Abilita condivisione dati GPS.  
-<br>> I dati GPS verranno registrati SOLO quando verranno rilevati dei contatti. Se nessun utente viene rilevato nei dintorni, nessun dato viene acquisito. È possibile disabilitare in qualsiasi momento l'acquisizione dei dati GPS. 
-<br>> Le informazioni acquisite (solo numero, tipo di contatto, distanza e dati GPS se abilitati) saranno condivise con le sole autorità sanitarie. Il codice sorgente sarà condiviso con le autorità competenti e sarà reso disponibile a fine emergenza.
-<br>> Sm-Covid-19 è stata sviluppata e viene manutenuta senza fini economici né di acquisizione di dati sensibili. 
-<br>> Sm-Covid-19 non può essere considerata sostitutiva di una diagnosi medica.
+<br>- del numero dei contatti
+<br>- della durata dei contatti;
+<br>- della distanza presente tra i contatti rilevati rispetto alla durata del contatto.
+<br>Sm-Covid-19 non acquisisce dati personali ne dati sanitari: Ti preghiamo di visualizzare il video introduttivo per avere maggiori dettagli sullo scopo e sul funzionamento di questa App. 
+<br>Se desideri maggiori dettagli tecnici sul funzionamento di Sm-Covid-19 puoi visitare questo link: https://www.smcovid19.org/recover/
+<br>Sm-Covid-19 non acquisisce dati sensibili dell’utente (ne ha bisogno di tali dati per funzionare), salvo nel momento in cui sia l'utente stesso a decidere di utilizzare il modulo di segnalazione per comunicare il suo sospetto di essere infetto. Il modulo di auto-segnalazione non sarà attivo durante la fase di Beta Testing.
+<br>Durante la fase di Beta Testing esteso, in concomitanza con l'avvio della fase 2, ci occorrerà un gran numero di utenti attivi, per poter migliorare i modelli di stima del contagio: Al momento siamo una piccola community di 30.000 volontari, ma per poter eseguire calcoli statistici precisi ti chiediamo di aiutarci a diffondere l'App tra tutti i tuoi contatti, sopratutto quelli con i quali presumibilmente potresti entrare in contatto durante la fase 2.
+<br>Ci teniamo a ricordarti che SOLO le autorità sanitarie possono indicare la positività di un soggetto. I valori di rischio indicati in Sm-Covid-19 NON possono essere considerate diagnosi di positività o negatività al Covid-19: Lo scopo di questa APP è di generare modelli rappresentativi del contagio (modelli matematici) e statistiche accurate.
+<br>L’utente non viene geo-localizzato, né viene reso riconoscibile, salvo nel caso in cui esso stesso decida di condividere di suo spontanea volontà i dati GPS attraverso il menù Impostazioni -> Abilita condivisione dati GPS.  
+<br>I dati GPS verranno registrati SOLO quando verranno rilevati dei contatti. Se nessun utente viene rilevato nei dintorni, nessun dato viene acquisito. È possibile disabilitare in qualsiasi momento l'acquisizione dei dati GPS. 
+<br>Le informazioni acquisite (solo numero, tipo di contatto, distanza e dati GPS se abilitati) saranno condivise con le sole autorità sanitarie. Il codice sorgente sarà condiviso con le autorità competenti e sarà reso disponibile a fine emergenza.
+<br>Sm-Covid-19 è stata sviluppata e viene manutenuta senza fini economici né di acquisizione di dati sensibili. 
+<br>Sm-Covid-19 non può essere considerata sostitutiva di una diagnosi medica.
 
 
 ### User interface
@@ -133,23 +133,23 @@ In the following we report the complete list of the permissions requested by the
 Below we report the main security warnings raised by our execution of the [Androwarn](https://github.com/maaaaz/androwarn) security analysis tool.
 
 **Telephony identifiers leakage**
-> This application reads the numeric name (MCC+MNC) of current registered operator<br>
-> This application reads the operator name<br>
+> - This application reads the numeric name (MCC+MNC) of current registered operator<br>
+> - This application reads the operator name<br>
 
 **Connection interfaces exfiltration**
-> This application reads details about the currently active data network<br>
+> - This application reads details about the currently active data network<br>
 
 **Telephony services abuse**
-> This application makes phone calls<br>
+> - This application makes phone calls<br>
 
 **Suspicious connection establishment**
-> This application opens a Socket and connects it to the remote address 'Ld/a/a/a/a;->a(Ljava/lang/String;)Ljava/lang/StringBuilder;' on the 'N/A' port <br>
-> This application opens a Socket and connects it to the remote address 'Ljava/net/Proxy;->type()Ljava/net/Proxy$Type;' on the 'N/A' port <br>
-> This application opens a Socket and connects it to the remote address 'hostname == null ' on the 'N/A' port <br>
-> This application opens a Socket and connects it to the remote address 'timeout' on the 'N/A' port <br>
+> - This application opens a Socket and connects it to the remote address 'Ld/a/a/a/a;->a(Ljava/lang/String;)Ljava/lang/StringBuilder;' on the 'N/A' port <br>
+> - This application opens a Socket and connects it to the remote address 'Ljava/net/Proxy;->type()Ljava/net/Proxy$Type;' on the 'N/A' port <br>
+> - This application opens a Socket and connects it to the remote address 'hostname == null ' on the 'N/A' port <br>
+> - This application opens a Socket and connects it to the remote address 'timeout' on the 'N/A' port <br>
 
 **Code execution**
-> This application executes a UNIX command containing this argument: 'Ljava/lang/StringBuilder;->toString()Ljava/lang/String;'<br>
+> - This application executes a UNIX command containing this argument: 'Ljava/lang/StringBuilder;->toString()Ljava/lang/String;'<br>
 
 
 

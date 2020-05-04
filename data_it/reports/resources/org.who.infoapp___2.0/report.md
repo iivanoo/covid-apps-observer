@@ -24,9 +24,9 @@ Analyzed with [covid-apps-observer](http://github.com/covid-apps-observer) proje
 
 ### Description
 > Have the latest health information at your fingertips with the official World Health Organization Information App. This app displays the latest news, events, features and breaking updates on outbreaks. 
-<br>>  
-<br>> WHO works worldwide to promote health, keep the world safe, and serve the vulnerable. 
-<br>> Our goal is to ensure that a billion more people have universal health coverage, to protect a billion more people from health emergencies, and provide a further billion people with better health and well-being.
+<br> 
+<br>WHO works worldwide to promote health, keep the world safe, and serve the vulnerable. 
+<br>Our goal is to ensure that a billion more people have universal health coverage, to protect a billion more people from health emergencies, and provide a further billion people with better health and well-being.
 
 
 ### User interface
@@ -85,16 +85,16 @@ In the following we report the complete list of the permissions requested by the
 Below we report the main security warnings raised by our execution of the [Androwarn](https://github.com/maaaaz/androwarn) security analysis tool.
 
 **Connection interfaces exfiltration**
-> This application reads details about the currently active data network<br>
-> This application tries to find out if the currently active data network is metered<br>
+> - This application reads details about the currently active data network<br>
+> - This application tries to find out if the currently active data network is metered<br>
 
 **Suspicious connection establishment**
-> This application opens a Socket and connects it to the remote address 'Lfi/iki/elonen/NanoHTTPD$ResponseException;' on the 'N/A' port <br>
-> This application opens a Socket and connects it to the remote address 'NanoHttpd Shutdown' on the 'N/A' port <br>
+> - This application opens a Socket and connects it to the remote address 'Lfi/iki/elonen/NanoHTTPD$ResponseException;' on the 'N/A' port <br>
+> - This application opens a Socket and connects it to the remote address 'NanoHttpd Shutdown' on the 'N/A' port <br>
 
 **Code execution**
-> This application loads a native library: 'NativeScript'<br>
-> This application executes a UNIX command containing this argument: '2'<br>
+> - This application loads a native library: 'NativeScript'<br>
+> - This application executes a UNIX command containing this argument: '2'<br>
 
 
 

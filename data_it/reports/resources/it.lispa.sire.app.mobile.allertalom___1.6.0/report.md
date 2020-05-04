@@ -24,21 +24,21 @@ Analyzed with [covid-apps-observer](http://github.com/covid-apps-observer) proje
 
 ### Description
 > allertaLOM è l’App di Regione Lombardia che permette di ricevere le allerte di Protezione Civile emesse dal Centro Funzionale Monitoraggio Rischi naturali di Regione Lombardia, in previsione di eventi naturali con possibili danni sul territorio.
-<br>> allertaLOM, in occasione dell’emergenza Coronavirus in Lombardia, si è evoluta in uno strumento di partecipazione attiva della cittadinanza al monitoraggio della diffusione del virus e in un canale di informazioni aggiornate sulle disposizioni regionali in materia, attraverso due nuove funzionalità:
-<br>> •	CercaCovid – la partecipazione al sondaggio CercaCovid permette a Regione Lombardia di quantificare il livello di diffusione del contagio e la distribuzione territoriale della positività, sulla base dei sintomi segnalati dagli utenti. I dati raccolti servono per analisi statistiche ed epidemiologiche, fondamentali per aiutare le autorità sanitarie a definire modelli e strategie di contrasto al Coronavirus. Il questionario è volontario, completamente anonimo, non prevede alcuna geolocalizzazione e non sostituisce una valutazione medica delle proprie condizioni. Partecipare è importante, anche in assenza di sintomi: più dati si ricevono, più il quadro della situazione è preciso. 
-<br>> •	Notifiche sull’emergenza Coronavirus in Lombardia - sono state attivate notifiche push con il link alla pagina del portale istituzionale che contiene gli aggiornamenti sul tema. Le notifiche possono essere disattivate dall'utente nell'apposita sezione. 
-<br>> Scarica l’App per:
-<br>> •	partecipare al monitoraggio attivo della diffusione del Coronavirus;
-<br>> •	ricevere informazioni aggiornate sulle azioni intraprese da Regione Lombardia per l’emergenza Coronavirus 
-<br>> •	personalizzare la ricezione delle notifiche sulle ultime disposizioni regionali riguardanti l’emergenza Coronavirus
-<br>> •	restare sempre aggiornato sulle allerte di Protezione Civile in Lombardia;
-<br>> •	monitorare la situazione di allerta sui Comuni preferiti oppure su tutta la regione;
-<br>> •	seguire l’evoluzione su mappa dei li-velli di allerta nell’arco di 36 ore;
-<br>> •	personalizzare la ricezione delle notifiche su tutti i rischi naturali oppure sui singoli rischi;
-<br>> •	ricevere notifiche all’emissione di allerte nei Comuni preferiti sui rischi prescelti;
-<br>> •	scaricare e consultare i documenti di allerta
-<br>> Come funziona l’allertamento di Protezione civile in Regione Lombardia
-<br>> •	Le allerte riguardano i rischi naturali prevedibili (idrogeologico, idraulico, temporali forti, vento forte, neve, valanghe e incendi boschivi) e presentano livelli crescenti di criticità (codice verde, giallo, arancione, rosso) a seconda della gravità ed estensione dei fenomeni. I documenti di allerta sono destinati al sistema locale di Protezione Civile e forniscono indicazioni per attivare le misure di contrasto previste nei Piani Comunali di Protezione Civile. Per i cittadini, le allerte sono uno strumento per sapere quando adottare le misure di auto-protezione, seguendo le indicazioni dell’Autorità locale di Protezione Civile. Per maggiori informazioni, consultare la pagina sulle allerte sul Portale di Regione Lombardia.
+<br>allertaLOM, in occasione dell’emergenza Coronavirus in Lombardia, si è evoluta in uno strumento di partecipazione attiva della cittadinanza al monitoraggio della diffusione del virus e in un canale di informazioni aggiornate sulle disposizioni regionali in materia, attraverso due nuove funzionalità:
+<br>•	CercaCovid – la partecipazione al sondaggio CercaCovid permette a Regione Lombardia di quantificare il livello di diffusione del contagio e la distribuzione territoriale della positività, sulla base dei sintomi segnalati dagli utenti. I dati raccolti servono per analisi statistiche ed epidemiologiche, fondamentali per aiutare le autorità sanitarie a definire modelli e strategie di contrasto al Coronavirus. Il questionario è volontario, completamente anonimo, non prevede alcuna geolocalizzazione e non sostituisce una valutazione medica delle proprie condizioni. Partecipare è importante, anche in assenza di sintomi: più dati si ricevono, più il quadro della situazione è preciso. 
+<br>•	Notifiche sull’emergenza Coronavirus in Lombardia - sono state attivate notifiche push con il link alla pagina del portale istituzionale che contiene gli aggiornamenti sul tema. Le notifiche possono essere disattivate dall'utente nell'apposita sezione. 
+<br>Scarica l’App per:
+<br>•	partecipare al monitoraggio attivo della diffusione del Coronavirus;
+<br>•	ricevere informazioni aggiornate sulle azioni intraprese da Regione Lombardia per l’emergenza Coronavirus 
+<br>•	personalizzare la ricezione delle notifiche sulle ultime disposizioni regionali riguardanti l’emergenza Coronavirus
+<br>•	restare sempre aggiornato sulle allerte di Protezione Civile in Lombardia;
+<br>•	monitorare la situazione di allerta sui Comuni preferiti oppure su tutta la regione;
+<br>•	seguire l’evoluzione su mappa dei li-velli di allerta nell’arco di 36 ore;
+<br>•	personalizzare la ricezione delle notifiche su tutti i rischi naturali oppure sui singoli rischi;
+<br>•	ricevere notifiche all’emissione di allerte nei Comuni preferiti sui rischi prescelti;
+<br>•	scaricare e consultare i documenti di allerta
+<br>Come funziona l’allertamento di Protezione civile in Regione Lombardia
+<br>•	Le allerte riguardano i rischi naturali prevedibili (idrogeologico, idraulico, temporali forti, vento forte, neve, valanghe e incendi boschivi) e presentano livelli crescenti di criticità (codice verde, giallo, arancione, rosso) a seconda della gravità ed estensione dei fenomeni. I documenti di allerta sono destinati al sistema locale di Protezione Civile e forniscono indicazioni per attivare le misure di contrasto previste nei Piani Comunali di Protezione Civile. Per i cittadini, le allerte sono uno strumento per sapere quando adottare le misure di auto-protezione, seguendo le indicazioni dell’Autorità locale di Protezione Civile. Per maggiori informazioni, consultare la pagina sulle allerte sul Portale di Regione Lombardia.
 
 
 ### User interface
@@ -106,28 +106,28 @@ In the following we report the complete list of the permissions requested by the
 Below we report the main security warnings raised by our execution of the [Androwarn](https://github.com/maaaaz/androwarn) security analysis tool.
 
 **Telephony identifiers leakage**
-> This application reads the device phone type value<br>
+> - This application reads the device phone type value<br>
 
 **Connection interfaces exfiltration**
-> This application reads details about the currently active data network<br>
-> This application tries to find out if the currently active data network is metered<br>
+> - This application reads details about the currently active data network<br>
+> - This application tries to find out if the currently active data network is metered<br>
 
 **Telephony services abuse**
-> This application makes phone calls<br>
+> - This application makes phone calls<br>
 
 **Suspicious connection establishment**
-> This application opens a Socket and connects it to the remote address '' on the 'N/A' port <br>
-> This application opens a Socket and connects it to the remote address 'Ljava/lang/StringBuilder;->toString()Ljava/lang/String;' on the ': connect, resolve' port <br>
-> This application opens a Socket and connects it to the remote address 'Ljava/lang/StringBuilder;->toString()Ljava/lang/String;' on the 'N/A' port <br>
-> This application opens a Socket and connects it to the remote address 'Ljava/net/Proxy;->type()Ljava/net/Proxy$Type;' on the 'N/A' port <br>
-> This application opens a Socket and connects it to the remote address 'timeout' on the 'N/A' port <br>
+> - This application opens a Socket and connects it to the remote address '' on the 'N/A' port <br>
+> - This application opens a Socket and connects it to the remote address 'Ljava/lang/StringBuilder;->toString()Ljava/lang/String;' on the ': connect, resolve' port <br>
+> - This application opens a Socket and connects it to the remote address 'Ljava/lang/StringBuilder;->toString()Ljava/lang/String;' on the 'N/A' port <br>
+> - This application opens a Socket and connects it to the remote address 'Ljava/net/Proxy;->type()Ljava/net/Proxy$Type;' on the 'N/A' port <br>
+> - This application opens a Socket and connects it to the remote address 'timeout' on the 'N/A' port <br>
 
 **Code execution**
-> This application loads a native library: 'sqlc-native-driver'<br>
-> This application loads a native library: 'tool-checker'<br>
-> This application executes a UNIX command<br>
-> This application executes a UNIX command containing this argument: 'getprop'<br>
-> This application executes a UNIX command containing this argument: 'mount'<br>
+> - This application loads a native library: 'sqlc-native-driver'<br>
+> - This application loads a native library: 'tool-checker'<br>
+> - This application executes a UNIX command<br>
+> - This application executes a UNIX command containing this argument: 'getprop'<br>
+> - This application executes a UNIX command containing this argument: 'mount'<br>
 
 
 
