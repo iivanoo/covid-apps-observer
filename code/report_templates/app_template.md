@@ -5,6 +5,7 @@ Version ``<<<APP_VERSION>>>``
 
 <img src="<<<ICON_PATH>>>" alt="<<<APP_TITLE>>> icon" width="200"/>
 
+|||
 |---|---|
 | **Name**  | <<<APP_TITLE>>> |
 | **Unique identifier** | <<<APP_ID>>>> |
