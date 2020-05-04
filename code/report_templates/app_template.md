@@ -6,7 +6,7 @@ Version ``<<<APP_VERSION>>>``
 <img src="<<<ICON_PATH>>>" alt="<<<APP_TITLE>>> icon" width="200"/>
 
 | | |
-|-------------------------|-------------------------|
+|-------------------------|-------------------------| 
 | **Name**  | <<<APP_TITLE>>> |
 | **Unique identifier** | <<<APP_ID>>> |
 | **Link to Google Play** | [https://play.google.com/store/apps/details?id=<<<APP_ID>>>](https://play.google.com/store/apps/details?id=<<<APP_ID>>>) |
