@@ -9,9 +9,9 @@ Version ``1.0.4``
 |---|---|
 | **Name**  | Covid-19 |
 | **Unique identifier** | it.adl.aslroma3.covid19.app> |
-| **Link to Google Play** | [https://play.google.com/store/apps/details?id=it.adl.aslroma3.covid19.app][https://play.google.com/store/apps/details?id=it.adl.aslroma3.covid19.app] |
-| **Summary**  | App per l'acquisizione e il monitoraggio parametri vitali - Covid-19. |
-| **Privacy policy** | [https://www.adilife.net/en/policy-gdpr-app][https://www.adilife.net/en/policy-gdpr-app] |
+| **Link to Google Play** | [https://play.google.com/store/apps/details?id=it.adl.aslroma3.covid19.app](https://play.google.com/store/apps/details?id=it.adl.aslroma3.covid19.app) |
+| **Summary**  | ```App per l'acquisizione e il monitoraggio parametri vitali - Covid-19.``` |
+| **Privacy policy** | [https://www.adilife.net/en/policy-gdpr-app](https://www.adilife.net/en/policy-gdpr-app) |
 | **Latest version** | 1.0.4 |
 | **Last update** | 2020-03-11 14:58:32 |
 | **Recent changes** | Aggiornata icona dell'App. |
@@ -81,7 +81,7 @@ In the following we report the main information provided by the development team
 | **Physical address**  | Via Mosca 52
 00142 Rome
 Italy |
-| **Other developed apps**  | [https://play.google.com/store/apps/developer?id=ADiLife+Srl][https://play.google.com/store/apps/developer?id=ADiLife+Srl] |
+| **Other developed apps**  | [https://play.google.com/store/apps/developer?id=ADiLife+Srl](https://play.google.com/store/apps/developer?id=ADiLife+Srl) |
 
 ## Android support
 
@@ -118,49 +118,49 @@ In the following we report the complete list of the permissions requested by the
 
 ## Security analysis 
 
-Below we report the main security warnings raised by our execution of the [Androwarn][https://github.com/maaaaz/androwarn] security analysis tool.
+Below we report the main security warnings raised by our execution of the [Androwarn](https://github.com/maaaaz/androwarn) security analysis tool.
 
-Telephony identifiers leakage
+**Telephony identifiers leakage**
 ```
 This application reads the phone's current state
 
 ```
 
-Location lookup
+**Location lookup**
 ```
 
 ```
 
-Connection interfaces exfiltration
+**Connection interfaces exfiltration**
 ```
 This application reads details about the currently active data network
 This application tries to find out if the currently active data network is metered
 
 ```
 
-Telephony services abuse
+**Telephony services abuse**
 ```
 This application makes phone calls
 
 ```
 
-Audio video eavesdropping
+**Audio video eavesdropping**
 ```
 
 ```
 
-Suspicious connection establishment
+**Suspicious connection establishment**
 ```
 
 ```
 
-Pim data leakage
+**Pim data leakage**
 ```
 This application accesses the SMS list
 
 ```
 
-Code execution
+**Code execution**
 ```
 
 ```

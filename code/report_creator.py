@@ -103,7 +103,7 @@ def fill_dev_team(app, metadata, template):
 
     developerAddress = metadata['developerAddress']
     if(not is_void(developerAddress)):
-        developersAddress = '[' + metadata['developerAddress'] + '][https://www.google.com/maps/search/' + metadata['developerAddress'] + '/] (Google Maps)'
+        developersAddress = '[' + metadata['developerAddress'] + '](https://www.google.com/maps/search/' + metadata['developerAddress'] + '/) (Google Maps)'
 
     placeholders = {
         'APP_DEVELOPER': metadata['developer'],
@@ -279,7 +279,7 @@ def fill_security_analysis(app, androwarn, template):
     for e in security_analysis:
         # We ignore the device_settings_harvesting results of Androwarm since it is too verbose and not informative for this project
         if e[0] != 'device_settings_harvesting':
-            warnings = warnings + e[0].capitalize().replace('_', ' ') + '\n'
+            warnings = warnings + '**' + e[0].capitalize().replace('_', ' ') + '**\n'
             warnings = warnings + '```\n'
             for w in e[1]:
                 warnings = warnings + w + '\n'

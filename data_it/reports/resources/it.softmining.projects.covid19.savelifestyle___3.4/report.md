@@ -9,9 +9,9 @@ Version ``3.4``
 |---|---|
 | **Name**  | SM_Covid19 |
 | **Unique identifier** | it.softmining.projects.covid19.savelifestyle> |
-| **Link to Google Play** | [https://play.google.com/store/apps/details?id=it.softmining.projects.covid19.savelifestyle][https://play.google.com/store/apps/details?id=it.softmining.projects.covid19.savelifestyle] |
-| **Summary**  | Community di contact tracing volontario per la sfida al Covid19. |
-| **Privacy policy** | [https://www.softmining.it/index.php/sm-covid19-app/][https://www.softmining.it/index.php/sm-covid19-app/] |
+| **Link to Google Play** | [https://play.google.com/store/apps/details?id=it.softmining.projects.covid19.savelifestyle](https://play.google.com/store/apps/details?id=it.softmining.projects.covid19.savelifestyle) |
+| **Summary**  | ```Community di contact tracing volontario per la sfida al Covid19.``` |
+| **Privacy policy** | [https://www.softmining.it/index.php/sm-covid19-app/](https://www.softmining.it/index.php/sm-covid19-app/) |
 | **Latest version** | 3.4 |
 | **Last update** | 2020-05-02 21:09:38 |
 | **Recent changes** | È il momento di agire tutti insieme!Vi chiediamo di aiutarci a condividere e a far installare questa App a quante più persone possibili per permetterci di migliorare la precisione dei modelli matematici integrati. 
@@ -71,7 +71,7 @@ In the following we report the main information provided by the development team
 | **Website**  | [https://www.smcovid19.org/][https://www.smcovid19.org/] |
 | **Email** | [mailto:smcovid19@softmining.it][smcovid19@softmining.it] |
 | **Physical address**  | Via Tenente Corrado 22 - 83100 Avellino - Italia |
-| **Other developed apps**  | [https://play.google.com/store/apps/developer?id=Softmining+Srl][https://play.google.com/store/apps/developer?id=Softmining+Srl] |
+| **Other developed apps**  | [https://play.google.com/store/apps/developer?id=Softmining+Srl](https://play.google.com/store/apps/developer?id=Softmining+Srl) |
 
 ## Android support
 
@@ -146,38 +146,38 @@ In the following we report the complete list of the permissions requested by the
 
 ## Security analysis 
 
-Below we report the main security warnings raised by our execution of the [Androwarn][https://github.com/maaaaz/androwarn] security analysis tool.
+Below we report the main security warnings raised by our execution of the [Androwarn](https://github.com/maaaaz/androwarn) security analysis tool.
 
-Telephony identifiers leakage
+**Telephony identifiers leakage**
 ```
 This application reads the numeric name (MCC+MNC) of current registered operator
 This application reads the operator name
 
 ```
 
-Location lookup
+**Location lookup**
 ```
 
 ```
 
-Connection interfaces exfiltration
+**Connection interfaces exfiltration**
 ```
 This application reads details about the currently active data network
 
 ```
 
-Telephony services abuse
+**Telephony services abuse**
 ```
 This application makes phone calls
 
 ```
 
-Audio video eavesdropping
+**Audio video eavesdropping**
 ```
 
 ```
 
-Suspicious connection establishment
+**Suspicious connection establishment**
 ```
 This application opens a Socket and connects it to the remote address 'Ld/a/a/a/a;->a(Ljava/lang/String;)Ljava/lang/StringBuilder;' on the 'N/A' port 
 This application opens a Socket and connects it to the remote address 'Ljava/net/Proxy;->type()Ljava/net/Proxy$Type;' on the 'N/A' port 
@@ -186,12 +186,12 @@ This application opens a Socket and connects it to the remote address 'timeout' 
 
 ```
 
-Pim data leakage
+**Pim data leakage**
 ```
 
 ```
 
-Code execution
+**Code execution**
 ```
 This application executes a UNIX command containing this argument: 'Ljava/lang/StringBuilder;->toString()Ljava/lang/String;'
 

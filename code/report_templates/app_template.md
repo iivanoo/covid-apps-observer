@@ -9,9 +9,9 @@ Version ``<<<APP_VERSION>>>``
 |---|---|
 | **Name**  | <<<APP_TITLE>>> |
 | **Unique identifier** | <<<APP_ID>>>> |
-| **Link to Google Play** | [https://play.google.com/store/apps/details?id=<<<APP_ID>>>][https://play.google.com/store/apps/details?id=<<<APP_ID>>>] |
-| **Summary**  | <<<APP_SUMMARY>>> |
-| **Privacy policy** | [<<<APP_PRIVACY_POLICY>>>][<<<APP_PRIVACY_POLICY>>>] |
+| **Link to Google Play** | [https://play.google.com/store/apps/details?id=<<<APP_ID>>>](https://play.google.com/store/apps/details?id=<<<APP_ID>>>) |
+| **Summary**  | ```<<<APP_SUMMARY>>>``` |
+| **Privacy policy** | [<<<APP_PRIVACY_POLICY>>>](<<<APP_PRIVACY_POLICY>>>) |
 | **Latest version** | <<<APP_VERSION>>> |
 | **Last update** | <<<APP_UPDATED>>> |
 | **Recent changes** | <<<APP_RECENT_CHANGES>>> |
@@ -41,7 +41,7 @@ In the following we report the main information provided by the development team
 | **Website**  | <<<DEVELOPER_WEBSITE>>> |
 | **Email** | <<<DEV_EMAIL>>> |
 | **Physical address**  | <<<APP_DEVELOPER_ADDRESS>>> |
-| **Other developed apps**  | [https://play.google.com/store/apps/developer?id=<<<APP_DEVELOPER_ID>>>][https://play.google.com/store/apps/developer?id=<<<APP_DEVELOPER_ID>>>] |
+| **Other developed apps**  | [https://play.google.com/store/apps/developer?id=<<<APP_DEVELOPER_ID>>>](https://play.google.com/store/apps/developer?id=<<<APP_DEVELOPER_ID>>>) |
 
 ## Android support
 
@@ -68,7 +68,7 @@ In the following we report the complete list of the permissions requested by the
 
 ## Security analysis 
 
-Below we report the main security warnings raised by our execution of the [Androwarn][https://github.com/maaaaz/androwarn] security analysis tool.
+Below we report the main security warnings raised by our execution of the [Androwarn](https://github.com/maaaaz/androwarn) security analysis tool.
 
 <<<ANDROWARN_RESULTS>>>
 

@@ -9,9 +9,9 @@ Version ``1.0.14``
 |---|---|
 | **Name**  | LAZIOdrCovid |
 | **Unique identifier** | com.intellicare.covid> |
-| **Link to Google Play** | [https://play.google.com/store/apps/details?id=com.intellicare.covid][https://play.google.com/store/apps/details?id=com.intellicare.covid] |
-| **Summary**  | Health remote monitoring platform for patients with COVID-19 risk. |
-| **Privacy policy** | [https://www.salutelazio.it/documents/10182/59078875/PoliticaPrivacy+LazioDoctor.pdf/2707a744-fe9d-92c9-abb8-c2e749ce82a1][https://www.salutelazio.it/documents/10182/59078875/PoliticaPrivacy+LazioDoctor.pdf/2707a744-fe9d-92c9-abb8-c2e749ce82a1] |
+| **Link to Google Play** | [https://play.google.com/store/apps/details?id=com.intellicare.covid](https://play.google.com/store/apps/details?id=com.intellicare.covid) |
+| **Summary**  | ```Health remote monitoring platform for patients with COVID-19 risk.``` |
+| **Privacy policy** | [https://www.salutelazio.it/documents/10182/59078875/PoliticaPrivacy+LazioDoctor.pdf/2707a744-fe9d-92c9-abb8-c2e749ce82a1](https://www.salutelazio.it/documents/10182/59078875/PoliticaPrivacy+LazioDoctor.pdf/2707a744-fe9d-92c9-abb8-c2e749ce82a1) |
 | **Latest version** | 1.0.14 |
 | **Last update** | 2020-04-23 23:10:26 |
 | **Recent changes** | Aggiorniamo l'app regolarmente per renderla sempre migliore. Scarica la versione più recente per avere tutte le funzioni, i miglioramenti delle prestazioni e la risoluzione di problemi tecnici disponibili. |
@@ -48,7 +48,7 @@ In the following we report the main information provided by the development team
 | **Website**  | - |
 | **Email** | [mailto:mobile@laziocrea.it][mobile@laziocrea.it] |
 | **Physical address**  | - |
-| **Other developed apps**  | [https://play.google.com/store/apps/developer?id=LAZIOcrea+S.p.A.][https://play.google.com/store/apps/developer?id=LAZIOcrea+S.p.A.] |
+| **Other developed apps**  | [https://play.google.com/store/apps/developer?id=LAZIOcrea+S.p.A.](https://play.google.com/store/apps/developer?id=LAZIOcrea+S.p.A.) |
 
 ## Android support
 
@@ -96,37 +96,37 @@ In the following we report the complete list of the permissions requested by the
 
 ## Security analysis 
 
-Below we report the main security warnings raised by our execution of the [Androwarn][https://github.com/maaaaz/androwarn] security analysis tool.
+Below we report the main security warnings raised by our execution of the [Androwarn](https://github.com/maaaaz/androwarn) security analysis tool.
 
-Telephony identifiers leakage
+**Telephony identifiers leakage**
 ```
 
 ```
 
-Location lookup
+**Location lookup**
 ```
 
 ```
 
-Connection interfaces exfiltration
+**Connection interfaces exfiltration**
 ```
 This application reads details about the currently active data network
 This application tries to find out if the currently active data network is metered
 
 ```
 
-Telephony services abuse
+**Telephony services abuse**
 ```
 This application makes phone calls
 
 ```
 
-Audio video eavesdropping
+**Audio video eavesdropping**
 ```
 
 ```
 
-Suspicious connection establishment
+**Suspicious connection establishment**
 ```
 This application opens a Socket and connects it to the remote address 'Lc/a/a/a/a;->a(Ljava/lang/String;)Ljava/lang/StringBuilder;' on the 'N/A' port 
 This application opens a Socket and connects it to the remote address 'Ljava/net/Proxy;->type()Ljava/net/Proxy$Type;' on the 'N/A' port 
@@ -135,12 +135,12 @@ This application opens a Socket and connects it to the remote address 'timeout' 
 
 ```
 
-Pim data leakage
+**Pim data leakage**
 ```
 
 ```
 
-Code execution
+**Code execution**
 ```
 This application loads a native library: 'jingle_peerconnection_so'
 

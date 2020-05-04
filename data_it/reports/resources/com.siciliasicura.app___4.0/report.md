@@ -9,9 +9,9 @@ Version ``4.0``
 |---|---|
 | **Name**  | Sicilia Si Cura |
 | **Unique identifier** | com.siciliasicura.app> |
-| **Link to Google Play** | [https://play.google.com/store/apps/details?id=com.siciliasicura.app][https://play.google.com/store/apps/details?id=com.siciliasicura.app] |
-| **Summary**  | App for epidemiological evaluation of the advancement of the Covid-19 infection in Sicily |
-| **Privacy policy** | [https://siciliasicura.costruiresalute.it/welcome][https://siciliasicura.costruiresalute.it/welcome] |
+| **Link to Google Play** | [https://play.google.com/store/apps/details?id=com.siciliasicura.app](https://play.google.com/store/apps/details?id=com.siciliasicura.app) |
+| **Summary**  | ```App for epidemiological evaluation of the advancement of the Covid-19 infection in Sicily``` |
+| **Privacy policy** | [https://siciliasicura.costruiresalute.it/welcome](https://siciliasicura.costruiresalute.it/welcome) |
 | **Latest version** | 4.0 |
 | **Last update** | 2020-04-28 13:14:44 |
 | **Recent changes** | Effettuato aggiornamento di bug fix che in rari casi poteva causare il crash dell'app. |
@@ -63,7 +63,7 @@ In the following we report the main information provided by the development team
 | **Website**  | [http://www.siciliacoronavirus.it][http://www.siciliacoronavirus.it] |
 | **Email** | [mailto:info@costruiresalute.it][info@costruiresalute.it] |
 | **Physical address**  | - |
-| **Other developed apps**  | [https://play.google.com/store/apps/developer?id=IES+Solutions][https://play.google.com/store/apps/developer?id=IES+Solutions] |
+| **Other developed apps**  | [https://play.google.com/store/apps/developer?id=IES+Solutions](https://play.google.com/store/apps/developer?id=IES+Solutions) |
 
 ## Android support
 
@@ -101,48 +101,48 @@ In the following we report the complete list of the permissions requested by the
 
 ## Security analysis 
 
-Below we report the main security warnings raised by our execution of the [Androwarn][https://github.com/maaaaz/androwarn] security analysis tool.
+Below we report the main security warnings raised by our execution of the [Androwarn](https://github.com/maaaaz/androwarn) security analysis tool.
 
-Telephony identifiers leakage
+**Telephony identifiers leakage**
 ```
 
 ```
 
-Location lookup
+**Location lookup**
 ```
 
 ```
 
-Connection interfaces exfiltration
+**Connection interfaces exfiltration**
 ```
 This application reads details about the currently active data network
 This application tries to find out if the currently active data network is metered
 
 ```
 
-Telephony services abuse
+**Telephony services abuse**
 ```
 
 ```
 
-Audio video eavesdropping
+**Audio video eavesdropping**
 ```
 
 ```
 
-Suspicious connection establishment
+**Suspicious connection establishment**
 ```
 
 ```
 
-Pim data leakage
+**Pim data leakage**
 ```
 This application accesses the downloads folder
 This application accesses data stored in the clipboard
 
 ```
 
-Code execution
+**Code execution**
 ```
 This application loads a native library: 'sqlc-native-driver'
 
