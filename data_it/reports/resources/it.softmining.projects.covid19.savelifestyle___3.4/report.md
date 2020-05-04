@@ -52,9 +52,10 @@ Sm-Covid-19 non può essere considerata sostitutiva di una diagnosi medica.
 
 ### User interface
 The developers of the app provide the following screenshots in the Google play store.
-
- | <img src="screenshot_1.png" alt="screenshot" width="300"/> |  | <img src="screenshot_2.png" alt="screenshot" width="300"/> |  | <img src="screenshot_3.png" alt="screenshot" width="300"/> | 
- | <img src="screenshot_4.png" alt="screenshot" width="300"/> |  | <img src="screenshot_5.png" alt="screenshot" width="300"/> | 
+| | | |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+ | <img src="screenshot_1.png" alt="screenshot" width="300"/>  | <img src="screenshot_2.png" alt="screenshot" width="300"/>  | <img src="screenshot_3.png" alt="screenshot" width="300"/>  | 
+ | <img src="screenshot_4.png" alt="screenshot" width="300"/>  | <img src="screenshot_5.png" alt="screenshot" width="300"/> 
 
 ## Development team
 In the following we report the main information provided by the development team in the Google play store.

@@ -30,9 +30,10 @@ La Regione Lazio ha voluto rendere disponibile, ai pro¬pri cittadini, una corsi
 
 ### User interface
 The developers of the app provide the following screenshots in the Google play store.
-
- | <img src="screenshot_1.png" alt="screenshot" width="300"/> |  | <img src="screenshot_2.png" alt="screenshot" width="300"/> |  | <img src="screenshot_3.png" alt="screenshot" width="300"/> | 
- | <img src="screenshot_4.png" alt="screenshot" width="300"/> |  | <img src="screenshot_5.png" alt="screenshot" width="300"/> |  | <img src="screenshot_6.png" alt="screenshot" width="300"/> | 
+| | | |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+ | <img src="screenshot_1.png" alt="screenshot" width="300"/>  | <img src="screenshot_2.png" alt="screenshot" width="300"/>  | <img src="screenshot_3.png" alt="screenshot" width="300"/>  | 
+ | <img src="screenshot_4.png" alt="screenshot" width="300"/>  | <img src="screenshot_5.png" alt="screenshot" width="300"/>  | <img src="screenshot_6.png" alt="screenshot" width="300"/>  | 
 
 
 ## Development team
