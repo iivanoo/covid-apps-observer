@@ -105,7 +105,7 @@ def fill_dev_team(app, metadata, template):
 
     developerAddress = metadata['developerAddress']
     if(not is_void(developerAddress)):
-        developersAddress = '[' + metadata['developerAddress'] + '](https://www.google.com/maps/search/' + metadata['developerAddress'] + ') (Google Maps)'
+        developerAddress = '[' + metadata['developerAddress'] + '](https://www.google.com/maps/search/' + metadata['developerAddress'] + ') (Google Maps)'
 
     placeholders = {
         'APP_DEVELOPER': metadata['developer'],

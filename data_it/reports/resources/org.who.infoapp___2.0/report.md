@@ -48,9 +48,11 @@ In the following we report the main information provided by the development team
 | **Developer**  | World Health Organization |
 | **Website**  | [https://www.who.int/](https://www.who.int/) |
 | **Email** | dcx@who.int |
-| **Physical address**  | Avenu Appia 20
+| **Physical address**  | [Avenu Appia 20
 1211 Geneva
-Switzerland |
+Switzerland](https://www.google.com/maps/search/Avenu Appia 20
+1211 Geneva
+Switzerland) (Google Maps) |
 | **Other developed apps**  | [https://play.google.com/store/apps/developer?id=World+Health+Organization](https://play.google.com/store/apps/developer?id=World+Health+Organization) |
 
 ## Android support
