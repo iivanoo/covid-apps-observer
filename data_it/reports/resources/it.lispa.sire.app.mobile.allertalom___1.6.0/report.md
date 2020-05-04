@@ -92,15 +92,15 @@ In the following we report the complete list of the permissions requested by the
 
 | **Permission** | **Protection level** | **Description** | 
 |---|---|---|
- | android.permission.ACCESS_NETWORK_STATE | Normal | Allows applications to access information about networks. |
- | android.permission.CALL_PHONE | <p class="text-red mb-2">:warning: Dangerous</p> | Allows an application to initiate a phone call without going through the Dialer user interface for the user to confirm the call. |
- | android.permission.GET_ACCOUNTS | <p class="text-red mb-2">:warning: Dangerous</p> | Allows access to the list of accounts in the Accounts Service. |
- | android.permission.INTERNET | Normal | Allows applications to open network sockets. |
- | android.permission.READ_EXTERNAL_STORAGE | <p class="text-red mb-2">:warning: Dangerous</p> | Allows an application to read from external storage. |
- | android.permission.WAKE_LOCK | Normal | Allows using PowerManager WakeLocks to keep processor from sleeping or screen from dimming. |
- | android.permission.WRITE_EXTERNAL_STORAGE | <p class="text-red mb-2">:warning: Dangerous</p> | Allows an application to write to external storage. |
- | com.google.android.c2dm.permission.RECEIVE | - | - |
- | it.lispa.sire.app.mobile.allertalom.permission.C2D_MESSAGE | - | - |
+ | **android.permission.ACCESS_NETWORK_STATE** | Normal | Allows applications to access information about networks. |
+ | **android.permission.CALL_PHONE** | <p class="text-red mb-2">:warning:Dangerous</p> | Allows an application to initiate a phone call without going through the Dialer user interface for the user to confirm the call. |
+ | **android.permission.GET_ACCOUNTS** | <p class="text-red mb-2">:warning:Dangerous</p> | Allows access to the list of accounts in the Accounts Service. |
+ | **android.permission.INTERNET** | Normal | Allows applications to open network sockets. |
+ | **android.permission.READ_EXTERNAL_STORAGE** | <p class="text-red mb-2">:warning:Dangerous</p> | Allows an application to read from external storage. |
+ | **android.permission.WAKE_LOCK** | Normal | Allows using PowerManager WakeLocks to keep processor from sleeping or screen from dimming. |
+ | **android.permission.WRITE_EXTERNAL_STORAGE** | <p class="text-red mb-2">:warning:Dangerous</p> | Allows an application to write to external storage. |
+ | **com.google.android.c2dm.permission.RECEIVE** | - | - |
+ | **it.lispa.sire.app.mobile.allertalom.permission.C2D_MESSAGE** | - | - |
 
 
 ## Mentioned servers
@@ -108,8 +108,8 @@ In the following we report the complete list of the permissions requested by the
 | **Server** | **Registrant** | **Registrant country** | **Creation date** | 
 |---|---|---|---|
  | googlesyndication.com | Google LLC | :us: US|2003-01-21 06:17:24 |
- | google.com |  | |1997-09-15 04:00:00 |
- | app-measurement.com |  | |2015-06-19 20:13:31 |
+ | google.com | - | -|1997-09-15 04:00:00 |
+ | app-measurement.com | - | -|2015-06-19 20:13:31 |
  | gstatic.com | Google LLC | :us: US|2008-02-11 15:31:25 |
  | whatsapp.com | Whatsapp Inc. | :us: US|2008-09-04 12:39:12 |
 
@@ -121,30 +121,17 @@ Below we report the main security warnings raised by our execution of the [Andro
 **Telephony identifiers leakage**
 ```
 This application reads the device phone type value
-
-```
-
-**Location lookup**
-```
-
 ```
 
 **Connection interfaces exfiltration**
 ```
 This application reads details about the currently active data network
 This application tries to find out if the currently active data network is metered
-
 ```
 
 **Telephony services abuse**
 ```
 This application makes phone calls
-
-```
-
-**Audio video eavesdropping**
-```
-
 ```
 
 **Suspicious connection establishment**
@@ -154,12 +141,6 @@ This application opens a Socket and connects it to the remote address 'Ljava/lan
 This application opens a Socket and connects it to the remote address 'Ljava/lang/StringBuilder;->toString()Ljava/lang/String;' on the 'N/A' port 
 This application opens a Socket and connects it to the remote address 'Ljava/net/Proxy;->type()Ljava/net/Proxy$Type;' on the 'N/A' port 
 This application opens a Socket and connects it to the remote address 'timeout' on the 'N/A' port 
-
-```
-
-**Pim data leakage**
-```
-
 ```
 
 **Code execution**
@@ -169,7 +150,6 @@ This application loads a native library: 'tool-checker'
 This application executes a UNIX command
 This application executes a UNIX command containing this argument: 'getprop'
 This application executes a UNIX command containing this argument: 'mount'
-
 ```
 
 

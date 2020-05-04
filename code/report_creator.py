@@ -187,11 +187,11 @@ def fill_permissions(app, androguard, template):
             description = permissions[p]['description']
             protection_level = permissions[p]['protection_level'].capitalize().replace('|', ' - ')
             if protection_level == 'Dangerous':
-                protection_level = '<p class="text-red mb-2">:warning: ' + protection_level + '</p>'
+                protection_level = '<p class="text-red mb-2">:warning:' + protection_level + '</p>'
         except KeyError:
             description = '-'
             protection_level = '-'
-        permissions_table = permissions_table + ' | ' + p + ' | ' + protection_level + ' | ' + description + ' |\n' 
+        permissions_table = permissions_table + ' | **' + p + '** | ' + protection_level + ' | ' + description + ' |\n' 
 
     placeholders = {
         'PERMISSIONS_TABLE': permissions_table
@@ -253,14 +253,14 @@ def fill_servers(app, servers, template):
     servers_table = ''
 
     for s in servers:
-        if s['registrant'] is None:
+        if s['registrant'] is None or s['registrant'] == '':
             s['registrant'] = '-'
-        if s['registrant_country'] is None:
+        if s['registrant_country'] is None or s['registrant_country'] == '':
             s['registrant_country'] = '-'
-        if s['creation_date'] is None:
+        if s['creation_date'] is None or s['creation_date'] == '':
             s['creation_date'] = '-'
 
-        servers_table = servers_table + ' | ' + s['name'] + ' | ' + s['registrant'] + ' | ' + get_flag(s['registrant_country']) + s['registrant_country'] + '|' + s['creation_date'] + ' |\n' 
+        servers_table = servers_table + ' | ' + s['name'] + ' | ' + s['registrant'] + ' | ' + get_flag(s['registrant_country']) + s['registrant_country'] + ' | ' + s['creation_date'] + ' |\n' 
 
     placeholders = {
         'SERVERS_TABLE': servers_table
@@ -278,11 +278,13 @@ def fill_security_analysis(app, androwarn, template):
     
     for e in security_analysis:
         # We ignore the device_settings_harvesting results of Androwarm since it is too verbose and not informative for this project
-        if e[0] != 'device_settings_harvesting':
+        if e[0] != 'device_settings_harvesting' and len(e[1]) != 0:
             warnings = warnings + '**' + e[0].capitalize().replace('_', ' ') + '**\n'
             warnings = warnings + '```\n'
-            for w in e[1]:
-                warnings = warnings + w + '\n'
+            for i, w in enumerate(e[1]):
+                warnings = warnings + w
+                if i != len(e[1]) - 1:
+                    warnings = warnings + '\n'
             warnings = warnings + '\n```\n\n' 
         
     placeholders = {

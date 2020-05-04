@@ -80,21 +80,21 @@ In the following we report the complete list of the permissions requested by the
 
 | **Permission** | **Protection level** | **Description** | 
 |---|---|---|
- | android.permission.ACCESS_COARSE_LOCATION | <p class="text-red mb-2">:warning: Dangerous</p> | Allows an app to access approximate location. |
- | android.permission.ACCESS_FINE_LOCATION | <p class="text-red mb-2">:warning: Dangerous</p> | Allows an app to access precise location. |
- | android.permission.ACCESS_NETWORK_STATE | Normal | Allows applications to access information about networks. |
- | android.permission.INTERNET | Normal | Allows applications to open network sockets. |
- | android.permission.READ_EXTERNAL_STORAGE | <p class="text-red mb-2">:warning: Dangerous</p> | Allows an application to read from external storage. |
- | android.permission.WAKE_LOCK | Normal | Allows using PowerManager WakeLocks to keep processor from sleeping or screen from dimming. |
- | android.permission.WRITE_EXTERNAL_STORAGE | <p class="text-red mb-2">:warning: Dangerous</p> | Allows an application to write to external storage. |
- | com.google.android.c2dm.permission.RECEIVE | - | - |
+ | **android.permission.ACCESS_COARSE_LOCATION** | <p class="text-red mb-2">:warning:Dangerous</p> | Allows an app to access approximate location. |
+ | **android.permission.ACCESS_FINE_LOCATION** | <p class="text-red mb-2">:warning:Dangerous</p> | Allows an app to access precise location. |
+ | **android.permission.ACCESS_NETWORK_STATE** | Normal | Allows applications to access information about networks. |
+ | **android.permission.INTERNET** | Normal | Allows applications to open network sockets. |
+ | **android.permission.READ_EXTERNAL_STORAGE** | <p class="text-red mb-2">:warning:Dangerous</p> | Allows an application to read from external storage. |
+ | **android.permission.WAKE_LOCK** | Normal | Allows using PowerManager WakeLocks to keep processor from sleeping or screen from dimming. |
+ | **android.permission.WRITE_EXTERNAL_STORAGE** | <p class="text-red mb-2">:warning:Dangerous</p> | Allows an application to write to external storage. |
+ | **com.google.android.c2dm.permission.RECEIVE** | - | - |
 
 
 ## Mentioned servers
 
 | **Server** | **Registrant** | **Registrant country** | **Creation date** | 
 |---|---|---|---|
- | google.com |  | |1997-09-15 04:00:00 |
+ | google.com | - | -|1997-09-15 04:00:00 |
  | gstatic.com | Google LLC | :us: US|2008-02-11 15:31:25 |
  | googleapis.com | Google LLC | :us: US|2005-01-25 17:52:26 |
 
@@ -103,49 +103,21 @@ In the following we report the complete list of the permissions requested by the
 
 Below we report the main security warnings raised by our execution of the [Androwarn](https://github.com/maaaaz/androwarn) security analysis tool.
 
-**Telephony identifiers leakage**
-```
-
-```
-
-**Location lookup**
-```
-
-```
-
 **Connection interfaces exfiltration**
 ```
 This application reads details about the currently active data network
 This application tries to find out if the currently active data network is metered
-
-```
-
-**Telephony services abuse**
-```
-
-```
-
-**Audio video eavesdropping**
-```
-
-```
-
-**Suspicious connection establishment**
-```
-
 ```
 
 **Pim data leakage**
 ```
 This application accesses the downloads folder
 This application accesses data stored in the clipboard
-
 ```
 
 **Code execution**
 ```
 This application loads a native library: 'sqlc-native-driver'
-
 ```
 
 

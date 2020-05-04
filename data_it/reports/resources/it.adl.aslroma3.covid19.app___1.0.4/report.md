@@ -98,21 +98,21 @@ In the following we report the complete list of the permissions requested by the
 
 | **Permission** | **Protection level** | **Description** | 
 |---|---|---|
- | android.permission.ACCESS_COARSE_LOCATION | <p class="text-red mb-2">:warning: Dangerous</p> | Allows an app to access approximate location. |
- | android.permission.ACCESS_FINE_LOCATION | <p class="text-red mb-2">:warning: Dangerous</p> | Allows an app to access precise location. |
- | android.permission.ACCESS_NETWORK_STATE | Normal | Allows applications to access information about networks. |
- | android.permission.BLUETOOTH | Normal | Allows applications to connect to paired bluetooth devices. |
- | android.permission.BLUETOOTH_ADMIN | Normal | Allows applications to discover and pair bluetooth devices. |
- | android.permission.FOREGROUND_SERVICE | Normal | Allows a regular application to use Service.startForeground. |
- | android.permission.INTERNET | Normal | Allows applications to open network sockets. |
- | android.permission.WAKE_LOCK | Normal | Allows using PowerManager WakeLocks to keep processor from sleeping or screen from dimming. |
+ | **android.permission.ACCESS_COARSE_LOCATION** | <p class="text-red mb-2">:warning:Dangerous</p> | Allows an app to access approximate location. |
+ | **android.permission.ACCESS_FINE_LOCATION** | <p class="text-red mb-2">:warning:Dangerous</p> | Allows an app to access precise location. |
+ | **android.permission.ACCESS_NETWORK_STATE** | Normal | Allows applications to access information about networks. |
+ | **android.permission.BLUETOOTH** | Normal | Allows applications to connect to paired bluetooth devices. |
+ | **android.permission.BLUETOOTH_ADMIN** | Normal | Allows applications to discover and pair bluetooth devices. |
+ | **android.permission.FOREGROUND_SERVICE** | Normal | Allows a regular application to use Service.startForeground. |
+ | **android.permission.INTERNET** | Normal | Allows applications to open network sockets. |
+ | **android.permission.WAKE_LOCK** | Normal | Allows using PowerManager WakeLocks to keep processor from sleeping or screen from dimming. |
 
 
 ## Mentioned servers
 
 | **Server** | **Registrant** | **Registrant country** | **Creation date** | 
 |---|---|---|---|
- | xyz-life.com |  | |2014-09-29 01:53:30 |
+ | xyz-life.com | - | -|2014-09-29 01:53:30 |
  | adilife.net | REDACTED FOR PRIVACY | :it: IT|2017-04-06 09:06:30 |
 
 
@@ -123,46 +123,22 @@ Below we report the main security warnings raised by our execution of the [Andro
 **Telephony identifiers leakage**
 ```
 This application reads the phone's current state
-
-```
-
-**Location lookup**
-```
-
 ```
 
 **Connection interfaces exfiltration**
 ```
 This application reads details about the currently active data network
 This application tries to find out if the currently active data network is metered
-
 ```
 
 **Telephony services abuse**
 ```
 This application makes phone calls
-
-```
-
-**Audio video eavesdropping**
-```
-
-```
-
-**Suspicious connection establishment**
-```
-
 ```
 
 **Pim data leakage**
 ```
 This application accesses the SMS list
-
-```
-
-**Code execution**
-```
-
 ```
 
 
