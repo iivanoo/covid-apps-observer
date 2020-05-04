@@ -65,7 +65,9 @@ def fill_overview(app, metadata, template, report_folder):
     screenshots = ''
     for i, s in enumerate(metadata['screenshots'], start=1):
         s_path = 'screenshot_' + str(i) + '.png'
-        screenshots = screenshots + '<img src="' + s_path + '" alt="screenshot" width="300"/>\n'  
+        screenshots = screenshots + ' | <img src="' + s_path + '" alt="screenshot" width="300"/> | '
+        if(i % 3 == 0):
+            screenshots = screenshots + '\n'  
         c.download(s, report_folder + s_path) 
 
     placeholders = {

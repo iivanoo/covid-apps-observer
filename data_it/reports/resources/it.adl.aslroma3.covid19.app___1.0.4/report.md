@@ -44,30 +44,14 @@ ADiLife è la salute a portata di tasca.
 ### User interface
 The developers of the app provide the following screenshots in the Google play store.
 
-<img src="screenshot_1.png" alt="screenshot" width="300"/>
-<img src="screenshot_2.png" alt="screenshot" width="300"/>
-<img src="screenshot_3.png" alt="screenshot" width="300"/>
-<img src="screenshot_4.png" alt="screenshot" width="300"/>
-<img src="screenshot_5.png" alt="screenshot" width="300"/>
-<img src="screenshot_6.png" alt="screenshot" width="300"/>
-<img src="screenshot_7.png" alt="screenshot" width="300"/>
-<img src="screenshot_8.png" alt="screenshot" width="300"/>
-<img src="screenshot_9.png" alt="screenshot" width="300"/>
-<img src="screenshot_10.png" alt="screenshot" width="300"/>
-<img src="screenshot_11.png" alt="screenshot" width="300"/>
-<img src="screenshot_12.png" alt="screenshot" width="300"/>
-<img src="screenshot_13.png" alt="screenshot" width="300"/>
-<img src="screenshot_14.png" alt="screenshot" width="300"/>
-<img src="screenshot_15.png" alt="screenshot" width="300"/>
-<img src="screenshot_16.png" alt="screenshot" width="300"/>
-<img src="screenshot_17.png" alt="screenshot" width="300"/>
-<img src="screenshot_18.png" alt="screenshot" width="300"/>
-<img src="screenshot_19.png" alt="screenshot" width="300"/>
-<img src="screenshot_20.png" alt="screenshot" width="300"/>
-<img src="screenshot_21.png" alt="screenshot" width="300"/>
-<img src="screenshot_22.png" alt="screenshot" width="300"/>
-<img src="screenshot_23.png" alt="screenshot" width="300"/>
-<img src="screenshot_24.png" alt="screenshot" width="300"/>
+ | <img src="screenshot_1.png" alt="screenshot" width="300"/> |  | <img src="screenshot_2.png" alt="screenshot" width="300"/> |  | <img src="screenshot_3.png" alt="screenshot" width="300"/> | 
+ | <img src="screenshot_4.png" alt="screenshot" width="300"/> |  | <img src="screenshot_5.png" alt="screenshot" width="300"/> |  | <img src="screenshot_6.png" alt="screenshot" width="300"/> | 
+ | <img src="screenshot_7.png" alt="screenshot" width="300"/> |  | <img src="screenshot_8.png" alt="screenshot" width="300"/> |  | <img src="screenshot_9.png" alt="screenshot" width="300"/> | 
+ | <img src="screenshot_10.png" alt="screenshot" width="300"/> |  | <img src="screenshot_11.png" alt="screenshot" width="300"/> |  | <img src="screenshot_12.png" alt="screenshot" width="300"/> | 
+ | <img src="screenshot_13.png" alt="screenshot" width="300"/> |  | <img src="screenshot_14.png" alt="screenshot" width="300"/> |  | <img src="screenshot_15.png" alt="screenshot" width="300"/> | 
+ | <img src="screenshot_16.png" alt="screenshot" width="300"/> |  | <img src="screenshot_17.png" alt="screenshot" width="300"/> |  | <img src="screenshot_18.png" alt="screenshot" width="300"/> | 
+ | <img src="screenshot_19.png" alt="screenshot" width="300"/> |  | <img src="screenshot_20.png" alt="screenshot" width="300"/> |  | <img src="screenshot_21.png" alt="screenshot" width="300"/> | 
+ | <img src="screenshot_22.png" alt="screenshot" width="300"/> |  | <img src="screenshot_23.png" alt="screenshot" width="300"/> |  | <img src="screenshot_24.png" alt="screenshot" width="300"/> | 
 
 
 ## Development team
