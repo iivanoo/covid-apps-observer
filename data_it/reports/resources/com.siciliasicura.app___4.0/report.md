@@ -5,6 +5,7 @@ Version ``4.0``
 
 <img src="../data_it/reports/resources/com.siciliasicura.app___4.0/icon.png" alt="Sicilia Si Cura icon" width="200"/>
 
+| Property | Value |
 |---|---|
 | **Name**  | Sicilia Si Cura |
 | **Unique identifier** | com.siciliasicura.app> |
@@ -56,6 +57,7 @@ The developers of the app provide the following screenshots in the Google play s
 ## Development team
 In the following we report the main information provided by the development team in the Google play store.
 
+| Property | Value |
 |---|---|
 | **Developer**  | IES Solutions |
 | **Website**  | [http://www.siciliacoronavirus.it][http://www.siciliacoronavirus.it] |
@@ -65,6 +67,7 @@ In the following we report the main information provided by the development team
 
 ## Android support
 
+| Property | Value |
 |---|---|
 | **Declared target Android version**  | Android10, version 10 (API level 29) |
 | **Effective target Android version**  | Android10, version 10 (API level 29) |
@@ -75,8 +78,8 @@ In the following we report the main information provided by the development team
 
 In the following we report the complete list of the permissions requested by the app. 
 
-|---|---|---|
 | **Permission** | **Protection level** | **Description** | 
+|---|---|---|
  | android.permission.ACCESS_COARSE_LOCATION | <p class="text-red mb-2">:warning: Dangerous</p> | Allows an app to access approximate location. |
  | android.permission.ACCESS_FINE_LOCATION | <p class="text-red mb-2">:warning: Dangerous</p> | Allows an app to access precise location. |
  | android.permission.ACCESS_NETWORK_STATE | Normal | Allows applications to access information about networks. |
@@ -89,8 +92,8 @@ In the following we report the complete list of the permissions requested by the
 
 ## Mentioned servers
 
-|---|---|---|---|
 | **Server** | **Registrant** | **Registrant country** | **Creation date** | 
+|---|---|---|---|
  | google.com |  | |1997-09-15 04:00:00 |
  | gstatic.com | Google LLC | :us: US|2008-02-11 15:31:25 |
  | googleapis.com | Google LLC | :us: US|2005-01-25 17:52:26 |

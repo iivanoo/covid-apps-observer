@@ -5,6 +5,7 @@ Version ``3.4``
 
 <img src="../data_it/reports/resources/it.softmining.projects.covid19.savelifestyle___3.4/icon.png" alt="SM_Covid19 icon" width="200"/>
 
+| Property | Value |
 |---|---|
 | **Name**  | SM_Covid19 |
 | **Unique identifier** | it.softmining.projects.covid19.savelifestyle> |
@@ -64,6 +65,7 @@ The developers of the app provide the following screenshots in the Google play s
 ## Development team
 In the following we report the main information provided by the development team in the Google play store.
 
+| Property | Value |
 |---|---|
 | **Developer**  | Softmining Srl |
 | **Website**  | [https://www.smcovid19.org/][https://www.smcovid19.org/] |
@@ -73,6 +75,7 @@ In the following we report the main information provided by the development team
 
 ## Android support
 
+| Property | Value |
 |---|---|
 | **Declared target Android version**  | Android10, version 10 (API level 29) |
 | **Effective target Android version**  | Android10, version 10 (API level 29) |
@@ -83,8 +86,8 @@ In the following we report the main information provided by the development team
 
 In the following we report the complete list of the permissions requested by the app. 
 
-|---|---|---|
 | **Permission** | **Protection level** | **Description** | 
+|---|---|---|
  | android.permission.ACCESS_BACKGROUND_LOCATION | <p class="text-red mb-2">:warning: Dangerous</p> | Allows an app to access location in the background. |
  | android.permission.ACCESS_COARSE_LOCATION | <p class="text-red mb-2">:warning: Dangerous</p> | Allows an app to access approximate location. |
  | android.permission.ACCESS_FINE_LOCATION | <p class="text-red mb-2">:warning: Dangerous</p> | Allows an app to access precise location. |
@@ -125,8 +128,8 @@ In the following we report the complete list of the permissions requested by the
 
 ## Mentioned servers
 
-|---|---|---|---|
 | **Server** | **Registrant** | **Registrant country** | **Creation date** | 
+|---|---|---|---|
  | googlesyndication.com | Google LLC | :us: US|2003-01-21 06:17:24 |
  | google.com |  | |1997-09-15 04:00:00 |
  | app-measurement.com |  | |2015-06-19 20:13:31 |

@@ -5,6 +5,7 @@ Version ``1.0.4``
 
 <img src="../data_it/reports/resources/it.adl.aslroma3.covid19.app___1.0.4/icon.png" alt="Covid-19 icon" width="200"/>
 
+| Property | Value |
 |---|---|
 | **Name**  | Covid-19 |
 | **Unique identifier** | it.adl.aslroma3.covid19.app> |
@@ -72,6 +73,7 @@ The developers of the app provide the following screenshots in the Google play s
 ## Development team
 In the following we report the main information provided by the development team in the Google play store.
 
+| Property | Value |
 |---|---|
 | **Developer**  | ADiLife Srl |
 | **Website**  | [https://www.adilife.net][https://www.adilife.net] |
@@ -83,6 +85,7 @@ Italy |
 
 ## Android support
 
+| Property | Value |
 |---|---|
 | **Declared target Android version**  | Android10, version 10 (API level 29) |
 | **Effective target Android version**  | Android10, version 10 (API level 29) |
@@ -93,8 +96,8 @@ Italy |
 
 In the following we report the complete list of the permissions requested by the app. 
 
-|---|---|---|
 | **Permission** | **Protection level** | **Description** | 
+|---|---|---|
  | android.permission.ACCESS_COARSE_LOCATION | <p class="text-red mb-2">:warning: Dangerous</p> | Allows an app to access approximate location. |
  | android.permission.ACCESS_FINE_LOCATION | <p class="text-red mb-2">:warning: Dangerous</p> | Allows an app to access precise location. |
  | android.permission.ACCESS_NETWORK_STATE | Normal | Allows applications to access information about networks. |
@@ -107,8 +110,8 @@ In the following we report the complete list of the permissions requested by the
 
 ## Mentioned servers
 
-|---|---|---|---|
 | **Server** | **Registrant** | **Registrant country** | **Creation date** | 
+|---|---|---|---|
  | xyz-life.com |  | |2014-09-29 01:53:30 |
  | adilife.net | REDACTED FOR PRIVACY | :it: IT|2017-04-06 09:06:30 |
 

@@ -5,6 +5,7 @@ Version ``1.0.14``
 
 <img src="../data_it/reports/resources/com.intellicare.covid___1.0.14/icon.png" alt="LAZIOdrCovid icon" width="200"/>
 
+| Property | Value |
 |---|---|
 | **Name**  | LAZIOdrCovid |
 | **Unique identifier** | com.intellicare.covid> |
@@ -41,6 +42,7 @@ The developers of the app provide the following screenshots in the Google play s
 ## Development team
 In the following we report the main information provided by the development team in the Google play store.
 
+| Property | Value |
 |---|---|
 | **Developer**  | LAZIOcrea S.p.A. |
 | **Website**  | - |
@@ -50,6 +52,7 @@ In the following we report the main information provided by the development team
 
 ## Android support
 
+| Property | Value |
 |---|---|
 | **Declared target Android version**  | Android10, version 10 (API level 29) |
 | **Effective target Android version**  | Android10, version 10 (API level 29) |
@@ -60,8 +63,8 @@ In the following we report the main information provided by the development team
 
 In the following we report the complete list of the permissions requested by the app. 
 
-|---|---|---|
 | **Permission** | **Protection level** | **Description** | 
+|---|---|---|
  | android.permission.ACCESS_NETWORK_STATE | Normal | Allows applications to access information about networks. |
  | android.permission.CAMERA | <p class="text-red mb-2">:warning: Dangerous</p> | Required to be able to access the camera device. |
  | android.permission.FLASHLIGHT | - | - |
@@ -81,8 +84,8 @@ In the following we report the complete list of the permissions requested by the
 
 ## Mentioned servers
 
-|---|---|---|---|
 | **Server** | **Registrant** | **Registrant country** | **Creation date** | 
+|---|---|---|---|
  | googlesyndication.com | Google LLC | :us: US|2003-01-21 06:17:24 |
  | google.com |  | |1997-09-15 04:00:00 |
  | app-measurement.com |  | |2015-06-19 20:13:31 |

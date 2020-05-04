@@ -5,6 +5,7 @@ Version ``1.6.0``
 
 <img src="../data_it/reports/resources/it.lispa.sire.app.mobile.allertalom___1.6.0/icon.png" alt="allertaLOM icon" width="200"/>
 
+| Property | Value |
 |---|---|
 | **Name**  | allertaLOM |
 | **Unique identifier** | it.lispa.sire.app.mobile.allertalom> |
@@ -69,6 +70,7 @@ The developers of the app provide the following screenshots in the Google play s
 ## Development team
 In the following we report the main information provided by the development team in the Google play store.
 
+| Property | Value |
 |---|---|
 | **Developer**  | Regione Lombardia |
 | **Website**  | [http://www.allertalom.regione.lombardia.it][http://www.allertalom.regione.lombardia.it] |
@@ -78,6 +80,7 @@ In the following we report the main information provided by the development team
 
 ## Android support
 
+| Property | Value |
 |---|---|
 | **Declared target Android version**  | Pie, version 9 (API level 28) |
 | **Effective target Android version**  | Pie, version 9 (API level 28) |
@@ -88,8 +91,8 @@ In the following we report the main information provided by the development team
 
 In the following we report the complete list of the permissions requested by the app. 
 
-|---|---|---|
 | **Permission** | **Protection level** | **Description** | 
+|---|---|---|
  | android.permission.ACCESS_NETWORK_STATE | Normal | Allows applications to access information about networks. |
  | android.permission.CALL_PHONE | <p class="text-red mb-2">:warning: Dangerous</p> | Allows an application to initiate a phone call without going through the Dialer user interface for the user to confirm the call. |
  | android.permission.GET_ACCOUNTS | <p class="text-red mb-2">:warning: Dangerous</p> | Allows access to the list of accounts in the Accounts Service. |
@@ -103,8 +106,8 @@ In the following we report the complete list of the permissions requested by the
 
 ## Mentioned servers
 
-|---|---|---|---|
 | **Server** | **Registrant** | **Registrant country** | **Creation date** | 
+|---|---|---|---|
  | googlesyndication.com | Google LLC | :us: US|2003-01-21 06:17:24 |
  | google.com |  | |1997-09-15 04:00:00 |
  | app-measurement.com |  | |2015-06-19 20:13:31 |
