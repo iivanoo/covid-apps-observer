@@ -34,6 +34,7 @@ Pillow==7.1.2
 play-scraper==0.6.0
 prompt-toolkit==3.0.5
 ptyprocess==0.6.0
+pycountry==19.8.18
 pycparser==2.20
 pydot==1.4.1
 Pygments==2.6.1
