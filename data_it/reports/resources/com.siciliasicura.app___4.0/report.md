@@ -6,9 +6,9 @@ Version ``4.0``
 <img src="icon.png" alt="Sicilia Si Cura icon" width="200"/>
 
 | | |
-|:-------------------------:|:-------------------------:|
+|-------------------------|-------------------------| 
 | **Name**  | Sicilia Si Cura |
-| **Unique identifier** | com.siciliasicura.app> |
+| **Unique identifier** | com.siciliasicura.app |
 | **Link to Google Play** | [https://play.google.com/store/apps/details?id=com.siciliasicura.app](https://play.google.com/store/apps/details?id=com.siciliasicura.app) |
 | **Summary**  | App for epidemiological evaluation of the advancement of the Covid-19 infection in Sicily |
 | **Privacy policy** | [https://siciliasicura.costruiresalute.it/welcome](https://siciliasicura.costruiresalute.it/welcome) |
@@ -56,7 +56,7 @@ The developers of the app provide the following screenshots in the Google play s
 In the following we report the main information provided by the development team in the Google play store.
 
 | | |
-|:-------------------------:|:-------------------------:|
+|-------------------------|-------------------------|
 | **Developer**  | IES Solutions |
 | **Website**  | [http://www.siciliacoronavirus.it][http://www.siciliacoronavirus.it] |
 | **Email** | [mailto:info@costruiresalute.it][info@costruiresalute.it] |
@@ -66,7 +66,7 @@ In the following we report the main information provided by the development team
 ## Android support
 
 | | |
-|:-------------------------:|:-------------------------:|
+|-------------------------|-------------------------|
 | **Declared target Android version**  | Android10, version 10 (API level 29) |
 | **Effective target Android version**  | Android10, version 10 (API level 29) |
 | **Minimum supported Android version**  | Lollipop, version 5.0 (API level 21) |
@@ -77,7 +77,7 @@ In the following we report the main information provided by the development team
 In the following we report the complete list of the permissions requested by the app. 
 
 | **Permission** | **Protection level** | **Description** | 
-|---|---|---|
+|-------------------------|-------------------------|-------------------------|
  **android.permission<br>ACCESS_COARSE_LOCATION** | <p class="text-red mb-2">:warning:Dangerous</p> | Allows an app to access approximate location. 
  **android.permission<br>ACCESS_FINE_LOCATION** | <p class="text-red mb-2">:warning:Dangerous</p> | Allows an app to access precise location. 
  **android.permission<br>ACCESS_NETWORK_STATE** | Normal | Allows applications to access information about networks. 
@@ -91,7 +91,7 @@ In the following we report the complete list of the permissions requested by the
 ## Mentioned servers
 
 | **Server** | **Registrant** | **Registrant country** | **Creation date** | 
-|---|---|---|---|
+|-------------------------|-------------------------|-------------------------|-------------------------|
  | google.com | - | - | 1997-09-15 04:00:00 |
  | gstatic.com | Google LLC | :us: US | 2008-02-11 15:31:25 |
  | googleapis.com | Google LLC | :us: US | 2005-01-25 17:52:26 |

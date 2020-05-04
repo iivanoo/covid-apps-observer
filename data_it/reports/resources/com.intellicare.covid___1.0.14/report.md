@@ -6,9 +6,9 @@ Version ``1.0.14``
 <img src="icon.png" alt="LAZIOdrCovid icon" width="200"/>
 
 | | |
-|:-------------------------:|:-------------------------:|
+|-------------------------|-------------------------| 
 | **Name**  | LAZIOdrCovid |
-| **Unique identifier** | com.intellicare.covid> |
+| **Unique identifier** | com.intellicare.covid |
 | **Link to Google Play** | [https://play.google.com/store/apps/details?id=com.intellicare.covid](https://play.google.com/store/apps/details?id=com.intellicare.covid) |
 | **Summary**  | Health remote monitoring platform for patients with COVID-19 risk. |
 | **Privacy policy** | [https://www.salutelazio.it/documents/10182/59078875/PoliticaPrivacy+LazioDoctor.pdf/2707a744-fe9d-92c9-abb8-c2e749ce82a1](https://www.salutelazio.it/documents/10182/59078875/PoliticaPrivacy+LazioDoctor.pdf/2707a744-fe9d-92c9-abb8-c2e749ce82a1) |
@@ -40,7 +40,7 @@ The developers of the app provide the following screenshots in the Google play s
 In the following we report the main information provided by the development team in the Google play store.
 
 | | |
-|:-------------------------:|:-------------------------:|
+|-------------------------|-------------------------|
 | **Developer**  | LAZIOcrea S.p.A. |
 | **Website**  | - |
 | **Email** | [mailto:mobile@laziocrea.it][mobile@laziocrea.it] |
@@ -50,7 +50,7 @@ In the following we report the main information provided by the development team
 ## Android support
 
 | | |
-|:-------------------------:|:-------------------------:|
+|-------------------------|-------------------------|
 | **Declared target Android version**  | Android10, version 10 (API level 29) |
 | **Effective target Android version**  | Android10, version 10 (API level 29) |
 | **Minimum supported Android version**  | Marshmallow, version 6.0 (API level 23) |
@@ -61,7 +61,7 @@ In the following we report the main information provided by the development team
 In the following we report the complete list of the permissions requested by the app. 
 
 | **Permission** | **Protection level** | **Description** | 
-|---|---|---|
+|-------------------------|-------------------------|-------------------------|
  **android.permission<br>ACCESS_NETWORK_STATE** | Normal | Allows applications to access information about networks. 
  **android.permission<br>CAMERA** | <p class="text-red mb-2">:warning:Dangerous</p> | Required to be able to access the camera device. 
  **android.permission<br>FLASHLIGHT** | - | - 
@@ -82,7 +82,7 @@ In the following we report the complete list of the permissions requested by the
 ## Mentioned servers
 
 | **Server** | **Registrant** | **Registrant country** | **Creation date** | 
-|---|---|---|---|
+|-------------------------|-------------------------|-------------------------|-------------------------|
  | googlesyndication.com | Google LLC | :us: US | 2003-01-21 06:17:24 |
  | google.com | - | - | 1997-09-15 04:00:00 |
  | app-measurement.com | - | - | 2015-06-19 20:13:31 |

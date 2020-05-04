@@ -6,9 +6,9 @@ Version ``1.0.4``
 <img src="icon.png" alt="Covid-19 icon" width="200"/>
 
 | | |
-|:-------------------------:|:-------------------------:|
+|-------------------------|-------------------------| 
 | **Name**  | Covid-19 |
-| **Unique identifier** | it.adl.aslroma3.covid19.app> |
+| **Unique identifier** | it.adl.aslroma3.covid19.app |
 | **Link to Google Play** | [https://play.google.com/store/apps/details?id=it.adl.aslroma3.covid19.app](https://play.google.com/store/apps/details?id=it.adl.aslroma3.covid19.app) |
 | **Summary**  | App per l&#39;acquisizione e il monitoraggio parametri vitali - Covid-19. |
 | **Privacy policy** | [https://www.adilife.net/en/policy-gdpr-app](https://www.adilife.net/en/policy-gdpr-app) |
@@ -59,7 +59,7 @@ The developers of the app provide the following screenshots in the Google play s
 In the following we report the main information provided by the development team in the Google play store.
 
 | | |
-|:-------------------------:|:-------------------------:|
+|-------------------------|-------------------------|
 | **Developer**  | ADiLife Srl |
 | **Website**  | [https://www.adilife.net][https://www.adilife.net] |
 | **Email** | [mailto:info@adilife.net][info@adilife.net] |
@@ -71,7 +71,7 @@ Italy |
 ## Android support
 
 | | |
-|:-------------------------:|:-------------------------:|
+|-------------------------|-------------------------|
 | **Declared target Android version**  | Android10, version 10 (API level 29) |
 | **Effective target Android version**  | Android10, version 10 (API level 29) |
 | **Minimum supported Android version**  | Lollipop, version 5.0 (API level 21) |
@@ -82,7 +82,7 @@ Italy |
 In the following we report the complete list of the permissions requested by the app. 
 
 | **Permission** | **Protection level** | **Description** | 
-|---|---|---|
+|-------------------------|-------------------------|-------------------------|
  **android.permission<br>ACCESS_COARSE_LOCATION** | <p class="text-red mb-2">:warning:Dangerous</p> | Allows an app to access approximate location. 
  **android.permission<br>ACCESS_FINE_LOCATION** | <p class="text-red mb-2">:warning:Dangerous</p> | Allows an app to access precise location. 
  **android.permission<br>ACCESS_NETWORK_STATE** | Normal | Allows applications to access information about networks. 
@@ -96,7 +96,7 @@ In the following we report the complete list of the permissions requested by the
 ## Mentioned servers
 
 | **Server** | **Registrant** | **Registrant country** | **Creation date** | 
-|---|---|---|---|
+|-------------------------|-------------------------|-------------------------|-------------------------|
  | xyz-life.com | - | - | 2014-09-29 01:53:30 |
  | adilife.net | REDACTED FOR PRIVACY | :it: IT | 2017-04-06 09:06:30 |
 

@@ -6,9 +6,9 @@ Version ``1.6.0``
 <img src="icon.png" alt="allertaLOM icon" width="200"/>
 
 | | |
-|:-------------------------:|:-------------------------:|
+|-------------------------|-------------------------| 
 | **Name**  | allertaLOM |
-| **Unique identifier** | it.lispa.sire.app.mobile.allertalom> |
+| **Unique identifier** | it.lispa.sire.app.mobile.allertalom |
 | **Link to Google Play** | [https://play.google.com/store/apps/details?id=it.lispa.sire.app.mobile.allertalom](https://play.google.com/store/apps/details?id=it.lispa.sire.app.mobile.allertalom) |
 | **Summary**  | The app of the Civil Protection of the Lombardy Region that alerts in real time |
 | **Privacy policy** | [http://www.allertalom.regione.lombardia.it/privacyapp](http://www.allertalom.regione.lombardia.it/privacyapp) |
@@ -59,7 +59,7 @@ The developers of the app provide the following screenshots in the Google play s
 In the following we report the main information provided by the development team in the Google play store.
 
 | | |
-|:-------------------------:|:-------------------------:|
+|-------------------------|-------------------------|
 | **Developer**  | Regione Lombardia |
 | **Website**  | [http://www.allertalom.regione.lombardia.it][http://www.allertalom.regione.lombardia.it] |
 | **Email** | [mailto:info.allertalom@ariaspa.it][info.allertalom@ariaspa.it] |
@@ -69,7 +69,7 @@ In the following we report the main information provided by the development team
 ## Android support
 
 | | |
-|:-------------------------:|:-------------------------:|
+|-------------------------|-------------------------|
 | **Declared target Android version**  | Pie, version 9 (API level 28) |
 | **Effective target Android version**  | Pie, version 9 (API level 28) |
 | **Minimum supported Android version**  | Lollipop, version 5.0 (API level 21) |
@@ -80,7 +80,7 @@ In the following we report the main information provided by the development team
 In the following we report the complete list of the permissions requested by the app. 
 
 | **Permission** | **Protection level** | **Description** | 
-|---|---|---|
+|-------------------------|-------------------------|-------------------------|
  **android.permission<br>ACCESS_NETWORK_STATE** | Normal | Allows applications to access information about networks. 
  **android.permission<br>CALL_PHONE** | <p class="text-red mb-2">:warning:Dangerous</p> | Allows an application to initiate a phone call without going through the Dialer user interface for the user to confirm the call. 
  **android.permission<br>GET_ACCOUNTS** | <p class="text-red mb-2">:warning:Dangerous</p> | Allows access to the list of accounts in the Accounts Service. 
@@ -95,7 +95,7 @@ In the following we report the complete list of the permissions requested by the
 ## Mentioned servers
 
 | **Server** | **Registrant** | **Registrant country** | **Creation date** | 
-|---|---|---|---|
+|-------------------------|-------------------------|-------------------------|-------------------------|
  | googlesyndication.com | Google LLC | :us: US | 2003-01-21 06:17:24 |
  | google.com | - | - | 1997-09-15 04:00:00 |
  | app-measurement.com | - | - | 2015-06-19 20:13:31 |

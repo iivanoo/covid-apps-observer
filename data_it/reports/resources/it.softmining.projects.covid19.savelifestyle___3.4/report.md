@@ -6,9 +6,9 @@ Version ``3.4``
 <img src="icon.png" alt="SM_Covid19 icon" width="200"/>
 
 | | |
-|:-------------------------:|:-------------------------:|
+|-------------------------|-------------------------| 
 | **Name**  | SM_Covid19 |
-| **Unique identifier** | it.softmining.projects.covid19.savelifestyle> |
+| **Unique identifier** | it.softmining.projects.covid19.savelifestyle |
 | **Link to Google Play** | [https://play.google.com/store/apps/details?id=it.softmining.projects.covid19.savelifestyle](https://play.google.com/store/apps/details?id=it.softmining.projects.covid19.savelifestyle) |
 | **Summary**  | Community di contact tracing volontario per la sfida al Covid19. |
 | **Privacy policy** | [https://www.softmining.it/index.php/sm-covid19-app/](https://www.softmining.it/index.php/sm-covid19-app/) |
@@ -61,7 +61,7 @@ The developers of the app provide the following screenshots in the Google play s
 In the following we report the main information provided by the development team in the Google play store.
 
 | | |
-|:-------------------------:|:-------------------------:|
+|-------------------------|-------------------------|
 | **Developer**  | Softmining Srl |
 | **Website**  | [https://www.smcovid19.org/][https://www.smcovid19.org/] |
 | **Email** | [mailto:smcovid19@softmining.it][smcovid19@softmining.it] |
@@ -71,7 +71,7 @@ In the following we report the main information provided by the development team
 ## Android support
 
 | | |
-|:-------------------------:|:-------------------------:|
+|-------------------------|-------------------------|
 | **Declared target Android version**  | Android10, version 10 (API level 29) |
 | **Effective target Android version**  | Android10, version 10 (API level 29) |
 | **Minimum supported Android version**  | KitKat W, version 4.4W - 4.4.4W (API level 20) |
@@ -82,7 +82,7 @@ In the following we report the main information provided by the development team
 In the following we report the complete list of the permissions requested by the app. 
 
 | **Permission** | **Protection level** | **Description** | 
-|---|---|---|
+|-------------------------|-------------------------|-------------------------|
  **android.permission<br>ACCESS_BACKGROUND_LOCATION** | <p class="text-red mb-2">:warning:Dangerous</p> | Allows an app to access location in the background. 
  **android.permission<br>ACCESS_COARSE_LOCATION** | <p class="text-red mb-2">:warning:Dangerous</p> | Allows an app to access approximate location. 
  **android.permission<br>ACCESS_FINE_LOCATION** | <p class="text-red mb-2">:warning:Dangerous</p> | Allows an app to access precise location. 
@@ -124,7 +124,7 @@ In the following we report the complete list of the permissions requested by the
 ## Mentioned servers
 
 | **Server** | **Registrant** | **Registrant country** | **Creation date** | 
-|---|---|---|---|
+|-------------------------|-------------------------|-------------------------|-------------------------|
  | googlesyndication.com | Google LLC | :us: US | 2003-01-21 06:17:24 |
  | google.com | - | - | 1997-09-15 04:00:00 |
  | app-measurement.com | - | - | 2015-06-19 20:13:31 |
