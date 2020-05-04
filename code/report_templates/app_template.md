@@ -22,7 +22,9 @@ Version ``<<<APP_VERSION>>>``
 
 ### Description
 
-```<<<APP_DESCRIPTION>>>```
+```
+<<<APP_DESCRIPTION>>>
+```
 
 ### User interface
 The developers of the app provide the following screenshots in the Google play store.

@@ -24,7 +24,8 @@ Uniti ce la faremo! |
 
 ### Description
 
-```Questa App è stata sviluppata e viene costantemente aggiornata con l'obiettivo di valutare (attraverso la definizione di modelli statistici e matematici) il rischio di trasmissione (e il comportamento epidemico) del virus attraverso il monitoraggio:
+```
+Questa App è stata sviluppata e viene costantemente aggiornata con l'obiettivo di valutare (attraverso la definizione di modelli statistici e matematici) il rischio di trasmissione (e il comportamento epidemico) del virus attraverso il monitoraggio:
 
 - del numero dei contatti
 - della durata dei contatti;
@@ -47,7 +48,8 @@ Le informazioni acquisite (solo numero, tipo di contatto, distanza e dati GPS se
 
 Sm-Covid-19 è stata sviluppata e viene manutenuta senza fini economici né di acquisizione di dati sensibili. 
 
-Sm-Covid-19 non può essere considerata sostitutiva di una diagnosi medica.```
+Sm-Covid-19 non può essere considerata sostitutiva di una diagnosi medica.
+```
 
 ### User interface
 The developers of the app provide the following screenshots in the Google play store.

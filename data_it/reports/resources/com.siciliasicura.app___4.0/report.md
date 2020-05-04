@@ -22,7 +22,8 @@ Version ``4.0``
 
 ### Description
 
-```La gestione della pandemia COVID-19, caratterizzata da una alta trasmissibilità del virus e da una contagiosità elevata anche durante il periodo asintomatico, richiede misure di isolamento sociale e di monitoraggio attivo delle condizioni di salute dei cittadini. 
+```
+La gestione della pandemia COVID-19, caratterizzata da una alta trasmissibilità del virus e da una contagiosità elevata anche durante il periodo asintomatico, richiede misure di isolamento sociale e di monitoraggio attivo delle condizioni di salute dei cittadini. 
 
 La Regione Siciliana ha avviato, dal 1 Marzo 2020, una procedura di registrazione per chi è entrato nel territorio regionale, indipendentemente dalla zona di provenienza e dal mezzo di trasporto attraverso il sito http://www.siciliacoronavirus.it, che è la modalità da utilizzare per poter ricevere le proprie credenziali per utilizzare l'APP Sicilia Si Cura.
 
@@ -40,7 +41,8 @@ Nel rispetto della Privacy del cittadino, "Sicilia Si Cura" non esegue un monito
 
 Successivamente, nel momento dell'aggiornamento delle condizioni viene inviata la localizzazione dell'utente, al fine di confermare la sua presenza in un Comune della Regione Siciliana.
 
-Il Sistema di Gestione dell'Emergenza avrà la possibilità di accedere alle informazioni ricavate dall'APP per meglio gestire la curva epidemiologica in Sicilia.```
+Il Sistema di Gestione dell'Emergenza avrà la possibilità di accedere alle informazioni ricavate dall'APP per meglio gestire la curva epidemiologica in Sicilia.
+```
 
 ### User interface
 The developers of the app provide the following screenshots in the Google play store.
