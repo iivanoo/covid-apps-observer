@@ -79,10 +79,15 @@ Below we provide information about how end users are reacting to the app in term
 ### Ratings
 
 The <<<APP_TITLE>>> app has been installed by more than **<<<APP_MIN_INSTALLS>>>** times. At this time, **<<<APP_RATINGS>>>** rated the app and its average score is **<<<APP_SCORE>>>**. Below we show the distribution of the ratings across the usual star-based rating of Google Play
+
 :star::star::star::star::star:: <<<APP_5_STARS>>>
+
 :star::star::star::star:: <<<APP_4_STARS>>>
+
 :star::star::star:: <<<APP_3_STARS>>>
+
 :star::star:: <<<APP_2_STARS>>>
+
 :star:: <<<APP_1_STAR>>>
 
 ### Reviews 

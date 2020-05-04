@@ -111,10 +111,15 @@ Below we provide information about how end users are reacting to the app in term
 ### Ratings
 
 The Sicilia Si Cura app has been installed by more than **1000** times. At this time, **42** rated the app and its average score is **3.3809524**. Below we show the distribution of the ratings across the usual star-based rating of Google Play
+
 :star::star::star::star::star:: 22
+
 :star::star::star::star:: 2
+
 :star::star::star:: 3
+
 :star::star:: 0
+
 :star:: 15
 
 ### Reviews 

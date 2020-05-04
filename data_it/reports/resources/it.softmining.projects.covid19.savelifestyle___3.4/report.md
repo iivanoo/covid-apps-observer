@@ -160,10 +160,15 @@ Below we provide information about how end users are reacting to the app in term
 ### Ratings
 
 The SM_Covid19 app has been installed by more than **10000** times. At this time, **356** rated the app and its average score is **4.16**. Below we show the distribution of the ratings across the usual star-based rating of Google Play
+
 :star::star::star::star::star:: 220
+
 :star::star::star::star:: 53
+
 :star::star::star:: 32
+
 :star::star:: 17
+
 :star:: 32
 
 ### Reviews 
