@@ -320,9 +320,8 @@ def get_reviews(stars, amount, reviews):
     i = 0
     while count != amount and i < len(reviews):
         if(reviews[i]['score'] == stars):
-            print(reviews[i])
             count = count + 1
-            result = result + '> ' + reviews[i]['content'] + '<br>> __' + reviews[i]['at'] + '__\n\n'
+            result = result + '> ' + reviews[i]['content'].replace('**', '\*\*') + '<br> :date: __' + reviews[i]['at'] + '__\n\n'
         i = i + 1
     return result
 

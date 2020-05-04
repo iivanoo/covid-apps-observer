@@ -124,11 +124,11 @@ The WHO Info app has been installed by more than **100000** times. At this time,
 -
 </p>
 
-> Molto utile per me che viaggio molto.<br>> __2020-04-24 06:42:36__
+> Molto utile per me che viaggio molto.<br> :date: __2020-04-24 06:42:36__
 
-> Per me questa ap é molto utile in questo momento difficile ma noi siamo molto forti e vinceremo però per ora restamo a casa<br>> __2020-04-22 14:59:40__
+> Per me questa ap é molto utile in questo momento difficile ma noi siamo molto forti e vinceremo però per ora restamo a casa<br> :date: __2020-04-22 14:59:40__
 
-> Lo provò se va benne<br>> __2020-04-22 10:50:07__
+> Lo provò se va benne<br> :date: __2020-04-22 10:50:07__
 
 
 
@@ -138,7 +138,7 @@ The WHO Info app has been installed by more than **100000** times. At this time,
 -
 </p>
 
-> per chi non sa leggere l'inglese basta che tenga premuto il testo lo evidenzi e lo traduca<br>> __2020-04-26 21:44:50__
+> per chi non sa leggere l'inglese basta che tenga premuto il testo lo evidenzi e lo traduca<br> :date: __2020-04-26 21:44:50__
 
 
 
@@ -164,8 +164,8 @@ The WHO Info app has been installed by more than **100000** times. At this time,
 -
 </p>
 
-> Io non conosco l'inglese non si potrebbe averla in italiano visto che siamo in Italia ?<br>> __2020-04-24 23:15:26__
+> Io non conosco l'inglese non si potrebbe averla in italiano visto che siamo in Italia ?<br> :date: __2020-04-24 23:15:26__
 
-> Non funziona<br>> __2020-04-19 18:22:27__
+> Non funziona<br> :date: __2020-04-19 18:22:27__
 
 

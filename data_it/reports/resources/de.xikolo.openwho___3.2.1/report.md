@@ -168,9 +168,9 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 -
 </p>
 
-> Useful and well-structured<br>> __2020-04-23 13:33:22__
+> Useful and well-structured<br> :date: __2020-04-23 13:33:22__
 
-> Ottimo e significativo per la vita.<br>> __2020-04-17 06:44:32__
+> Ottimo e significativo per la vita.<br> :date: __2020-04-17 06:44:32__
 
 
 
@@ -204,6 +204,6 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 -
 </p>
 
-> Non c'è in italiano<br>> __2020-04-14 23:32:56__
+> Non c'è in italiano<br> :date: __2020-04-14 23:32:56__
 
 

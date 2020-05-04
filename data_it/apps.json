@@ -4,48 +4,48 @@
         "store_country": "it",
         "store_lang": "it",
         "latest_crawled_version": "3.4",
-        "latest_crawl": 1588618315
+        "latest_crawl": 1588618542
     },
     {
         "id": "it.lispa.sire.app.mobile.allertalom",
         "store_country": "it",
         "store_lang": "it",
         "latest_crawled_version": "1.6.0",
-        "latest_crawl": 1588618316
+        "latest_crawl": 1588618542
     },
     {
         "id": "com.intellicare.covid",
         "store_country": "it",
         "store_lang": "it",
         "latest_crawled_version": "1.0.14",
-        "latest_crawl": 1588618316
+        "latest_crawl": 1588618543
     },
     {
         "id": "com.siciliasicura.app",
         "store_country": "it",
         "store_lang": "it",
         "latest_crawled_version": "4.0",
-        "latest_crawl": 1588618317
+        "latest_crawl": 1588618543
     },
     {
         "id": "it.adl.aslroma3.covid19.app",
         "store_country": "it",
         "store_lang": "it",
         "latest_crawled_version": "1.0.4",
-        "latest_crawl": 1588618317
+        "latest_crawl": 1588618543
     },
     {
         "id": "org.who.infoapp",
         "store_country": "it",
         "store_lang": "it",
         "latest_crawled_version": "2.0",
-        "latest_crawl": 1588618317
+        "latest_crawl": 1588618544
     },
     {
         "id": "de.xikolo.openwho",
         "store_country": "it",
         "store_lang": "it",
         "latest_crawled_version": "3.2.1",
-        "latest_crawl": 1588618317
+        "latest_crawl": 1588618545
     }
 ]
