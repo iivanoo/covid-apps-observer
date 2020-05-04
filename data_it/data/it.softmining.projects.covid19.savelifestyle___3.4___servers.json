@@ -10,20 +10,20 @@
         "last_updated": null,
         "status": "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
         "statuses": [
-            "serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)",
-            "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
-            "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited",
-            "clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)",
-            "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited",
-            "serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)",
-            "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
-            "clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)",
             "serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)",
             "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+            "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited",
             "clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)",
-            "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited"
+            "serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)",
+            "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited",
+            "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+            "clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)",
+            "serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)",
+            "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+            "clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)",
+            "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited"
         ],
-        "name_servers": "{'ns1.google.com\\r', 'ns4.google.com\\r', 'ns2.google.com', 'ns3.google.com\\r', 'ns4.google.com', 'ns2.google.com\\r', 'ns1.google.com', 'ns3.google.com'}"
+        "name_servers": "{'ns1.google.com\\r', 'ns4.google.com\\r', 'ns2.google.com', 'ns4.google.com', 'ns3.google.com', 'ns1.google.com', 'ns2.google.com\\r', 'ns3.google.com\\r'}"
     },
     {
         "name": "google.com",
@@ -36,14 +36,14 @@
         "last_updated": null,
         "status": "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
         "statuses": [
-            "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
-            "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited",
-            "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited",
-            "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
             "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
-            "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited"
+            "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited",
+            "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited",
+            "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+            "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+            "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited"
         ],
-        "name_servers": "{'ns1.google.com\\r', 'ns4.google.com\\r', 'ns3.google.com\\r', 'ns2.google.com\\r'}"
+        "name_servers": "{'ns2.google.com\\r', 'ns1.google.com\\r', 'ns3.google.com\\r', 'ns4.google.com\\r'}"
     },
     {
         "name": "app-measurement.com",
@@ -60,7 +60,7 @@
             "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
             "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited"
         ],
-        "name_servers": "{'ns1.google.com\\r', 'ns4.google.com\\r', 'ns3.google.com\\r', 'ns2.google.com\\r'}"
+        "name_servers": "{'ns2.google.com\\r', 'ns1.google.com\\r', 'ns3.google.com\\r', 'ns4.google.com\\r'}"
     },
     {
         "name": "googleadservices.com",
@@ -73,14 +73,14 @@
         "last_updated": null,
         "status": "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
         "statuses": [
-            "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
-            "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited",
-            "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited",
-            "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
             "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
-            "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited"
+            "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited",
+            "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited",
+            "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+            "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+            "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited"
         ],
-        "name_servers": "{'ns1.google.com\\r', 'ns4.google.com\\r', 'ns3.google.com\\r', 'ns2.google.com\\r'}"
+        "name_servers": "{'ns2.google.com\\r', 'ns1.google.com\\r', 'ns3.google.com\\r', 'ns4.google.com\\r'}"
     },
     {
         "name": "onesignal.com",
@@ -93,14 +93,14 @@
         "last_updated": null,
         "status": "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
         "statuses": [
-            "clientDeleteProhibited http://www.icann.org/epp#clientDeleteProhibited",
-            "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
-            "clientRenewProhibited https://icann.org/epp#clientRenewProhibited",
-            "clientUpdateProhibited http://www.icann.org/epp#clientUpdateProhibited",
             "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited",
             "clientTransferProhibited http://www.icann.org/epp#clientTransferProhibited",
+            "clientUpdateProhibited http://www.icann.org/epp#clientUpdateProhibited",
+            "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+            "clientRenewProhibited https://icann.org/epp#clientRenewProhibited",
+            "clientDeleteProhibited http://www.icann.org/epp#clientDeleteProhibited",
             "clientRenewProhibited http://www.icann.org/epp#clientRenewProhibited",
-            "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+            "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited"
         ],
         "name_servers": "{'gail.ns.cloudflare.com\\r', 'vin.ns.cloudflare.com\\r'}"
     },
@@ -145,11 +145,11 @@
         "last_updated": null,
         "status": "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
         "statuses": [
-            "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
             "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+            "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
             "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited"
         ],
-        "name_servers": "{'ns.abdns.info\\r', 'ns.abdns.biz\\r', 'ns.abdns.eu\\r', 'ns.abdns.eu', 'ns.abdns.biz', 'ns.abdns.info'}"
+        "name_servers": "{'ns.abdns.info', 'ns.abdns.biz\\r', 'ns.abdns.info\\r', 'ns.abdns.eu', 'ns.abdns.biz', 'ns.abdns.eu\\r'}"
     },
     {
         "name": "governo.it",
@@ -177,20 +177,20 @@
         "last_updated": null,
         "status": "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
         "statuses": [
-            "serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)",
-            "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
-            "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited",
-            "clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)",
-            "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited",
-            "serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)",
-            "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
-            "clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)",
             "serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)",
             "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+            "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited",
             "clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)",
-            "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited"
+            "serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)",
+            "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited",
+            "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+            "clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)",
+            "serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)",
+            "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+            "clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)",
+            "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited"
         ],
-        "name_servers": "{'u2.amazonaws.com\\r', 'r1.amazonaws.com', 'u2.amazonaws.com', 'r2.amazonaws.com', 'r1.amazonaws.com\\r', 'r2.amazonaws.com\\r', 'u1.amazonaws.com', 'u1.amazonaws.com\\r'}"
+        "name_servers": "{'r1.amazonaws.com', 'r2.amazonaws.com', 'u1.amazonaws.com', 'u2.amazonaws.com', 'u1.amazonaws.com\\r', 'u2.amazonaws.com\\r', 'r1.amazonaws.com\\r', 'r2.amazonaws.com\\r'}"
     },
     {
         "name": "crashlytics.com",
@@ -207,7 +207,7 @@
             "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
             "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited"
         ],
-        "name_servers": "{'ns-1226.awsdns-25.org\\r', 'ns-1609.awsdns-09.co.uk\\r', 'ns-968.awsdns-57.net\\r', 'ns-279.awsdns-34.com\\r'}"
+        "name_servers": "{'ns-279.awsdns-34.com\\r', 'ns-968.awsdns-57.net\\r', 'ns-1226.awsdns-25.org\\r', 'ns-1609.awsdns-09.co.uk\\r'}"
     },
     {
         "name": "githubusercontent.com",
@@ -220,13 +220,13 @@
         "last_updated": null,
         "status": "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
         "statuses": [
-            "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
             "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited",
+            "clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)",
             "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
             "clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)",
             "clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)",
-            "clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)"
+            "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited"
         ],
-        "name_servers": "{'ns-1411.awsdns-48.org\\r', 'ns2.p16.dynect.net', 'ns3.p16.dynect.net\\r', 'ns4.p16.dynect.net\\r', 'ns1.p16.dynect.net', 'ns-1411.awsdns-48.org', 'ns-181.awsdns-22.com\\r', 'ns4.p16.dynect.net', 'ns2.p16.dynect.net\\r', 'ns-1867.awsdns-41.co.uk\\r', 'ns-181.awsdns-22.com', 'ns-596.awsdns-10.net', 'ns3.p16.dynect.net', 'ns1.p16.dynect.net\\r', 'ns-1867.awsdns-41.co.uk', 'ns-596.awsdns-10.net\\r'}"
+        "name_servers": "{'ns-596.awsdns-10.net', 'ns3.p16.dynect.net\\r', 'ns-1411.awsdns-48.org', 'ns4.p16.dynect.net', 'ns-181.awsdns-22.com', 'ns4.p16.dynect.net\\r', 'ns-181.awsdns-22.com\\r', 'ns-1867.awsdns-41.co.uk', 'ns-596.awsdns-10.net\\r', 'ns2.p16.dynect.net', 'ns1.p16.dynect.net', 'ns2.p16.dynect.net\\r', 'ns-1867.awsdns-41.co.uk\\r', 'ns-1411.awsdns-48.org\\r', 'ns3.p16.dynect.net', 'ns1.p16.dynect.net\\r'}"
     }
 ]

@@ -59,14 +59,14 @@ def fill_voids(placeholders):
 # Fill the Overview section of the report
 def fill_overview(app, metadata, template, report_folder):
     
-    icon_path = report_folder + 'icon.png'
-    c.download(metadata['icon'], icon_path)
+    icon_path = 'icon.png'
+    c.download(metadata['icon'], report_folder + icon_path)
 
     screenshots = ''
     for i, s in enumerate(metadata['screenshots'], start=1):
-        s_path = report_folder + 'screenshot_' + str(i) + '.png'
+        s_path = 'screenshot_' + str(i) + '.png'
         screenshots = screenshots + '<img src="' + s_path + '" alt="screenshot" width="300"/>\n'  
-        c.download(s, s_path) 
+        c.download(s, report_folder + s_path) 
 
     placeholders = {
         'ICON_PATH': icon_path,
@@ -191,7 +191,7 @@ def fill_permissions(app, androguard, template):
         except KeyError:
             description = '-'
             protection_level = '-'
-        p = ' '.join(p.rsplit('.', 1))
+        p = '<br>'.join(p.rsplit('.', 1))
         permissions_table = permissions_table + ' **' + p + '** | ' + protection_level + ' | ' + description + ' \n' 
 
     placeholders = {

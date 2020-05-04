@@ -50,9 +50,10 @@ def analyze(app):
 
     for url in urls:
         # Here is where we do the real Whois query
-        domain_info = whois.query(url)
+        domain_info = whois.query(url, force=1, slow_down=2)
         # We transform the domain object into a plain dictionary, otherwise we cannot save it into the json file
         item = domain_info.__dict__
+        
         result.append(item)
 
     # We save the result into a JSON file

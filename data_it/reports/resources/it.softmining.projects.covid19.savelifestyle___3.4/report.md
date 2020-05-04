@@ -3,7 +3,7 @@ Version ``3.4``
 
 ## App overview
 
-<img src="../data_it/reports/resources/it.softmining.projects.covid19.savelifestyle___3.4/icon.png" alt="SM_Covid19 icon" width="200"/>
+<img src="icon.png" alt="SM_Covid19 icon" width="200"/>
 
 | Property | Value |
 |---|---|
@@ -53,11 +53,11 @@ Sm-Covid-19 non può essere considerata sostitutiva di una diagnosi medica.
 ### User interface
 The developers of the app provide the following screenshots in the Google play store.
 
-<img src="../data_it/reports/resources/it.softmining.projects.covid19.savelifestyle___3.4/screenshot_1.png" alt="screenshot" width="300"/>
-<img src="../data_it/reports/resources/it.softmining.projects.covid19.savelifestyle___3.4/screenshot_2.png" alt="screenshot" width="300"/>
-<img src="../data_it/reports/resources/it.softmining.projects.covid19.savelifestyle___3.4/screenshot_3.png" alt="screenshot" width="300"/>
-<img src="../data_it/reports/resources/it.softmining.projects.covid19.savelifestyle___3.4/screenshot_4.png" alt="screenshot" width="300"/>
-<img src="../data_it/reports/resources/it.softmining.projects.covid19.savelifestyle___3.4/screenshot_5.png" alt="screenshot" width="300"/>
+<img src="screenshot_1.png" alt="screenshot" width="300"/>
+<img src="screenshot_2.png" alt="screenshot" width="300"/>
+<img src="screenshot_3.png" alt="screenshot" width="300"/>
+<img src="screenshot_4.png" alt="screenshot" width="300"/>
+<img src="screenshot_5.png" alt="screenshot" width="300"/>
 
 
 ## Development team
@@ -86,42 +86,42 @@ In the following we report the complete list of the permissions requested by the
 
 | **Permission** | **Protection level** | **Description** | 
 |---|---|---|
- **android.permission ACCESS_BACKGROUND_LOCATION** | <p class="text-red mb-2">:warning:Dangerous</p> | Allows an app to access location in the background. 
- **android.permission ACCESS_COARSE_LOCATION** | <p class="text-red mb-2">:warning:Dangerous</p> | Allows an app to access approximate location. 
- **android.permission ACCESS_FINE_LOCATION** | <p class="text-red mb-2">:warning:Dangerous</p> | Allows an app to access precise location. 
- **android.permission ACCESS_NETWORK_STATE** | Normal | Allows applications to access information about networks. 
- **android.permission BLUETOOTH** | Normal | Allows applications to connect to paired bluetooth devices. 
- **android.permission BLUETOOTH_ADMIN** | Normal | Allows applications to discover and pair bluetooth devices. 
- **android.permission FOREGROUND_SERVICE** | Normal | Allows a regular application to use Service.startForeground. 
- **android.permission INTERNET** | Normal | Allows applications to open network sockets. 
- **android.permission READ_APP_BADGE** | - | - 
- **android.permission READ_EXTERNAL_STORAGE** | <p class="text-red mb-2">:warning:Dangerous</p> | Allows an application to read from external storage. 
- **android.permission RECEIVE_BOOT_COMPLETED** | Normal | Allows an application to receive the Intent.ACTION_BOOT_COMPLETED that is broadcast after the system finishes booting. 
- **android.permission SYSTEM_ALERT_WINDOW** | Signature - preinstalled - appop - pre23 - development | Allows an app to create windows using the type WindowManager.LayoutParams.TYPE_APPLICATION_OVERLAY, shown on top of all other apps. 
- **android.permission USE_FULL_SCREEN_INTENT** | Normal | Required for apps targeting Build.VERSION_CODES.Q that want to use notification full screen intents. 
- **android.permission VIBRATE** | Normal | Allows access to the vibrator. 
- **android.permission WAKE_LOCK** | Normal | Allows using PowerManager WakeLocks to keep processor from sleeping or screen from dimming. 
- **android.permission WRITE_EXTERNAL_STORAGE** | <p class="text-red mb-2">:warning:Dangerous</p> | Allows an application to write to external storage. 
- **com.anddoes.launcher.permission UPDATE_COUNT** | - | - 
- **com.google.android.c2dm.permission RECEIVE** | - | - 
- **com.google.android.finsky.permission BIND_GET_INSTALL_REFERRER_SERVICE** | - | - 
- **com.htc.launcher.permission READ_SETTINGS** | - | - 
- **com.htc.launcher.permission UPDATE_SHORTCUT** | - | - 
- **com.huawei.android.launcher.permission CHANGE_BADGE** | - | - 
- **com.huawei.android.launcher.permission READ_SETTINGS** | - | - 
- **com.huawei.android.launcher.permission WRITE_SETTINGS** | - | - 
- **com.huawei.permission.external_app_settings USE_COMPONENT** | - | - 
- **com.majeur.launcher.permission UPDATE_BADGE** | - | - 
- **com.oppo.launcher.permission READ_SETTINGS** | - | - 
- **com.oppo.launcher.permission WRITE_SETTINGS** | - | - 
- **com.sec.android.provider.badge.permission READ** | - | - 
- **com.sec.android.provider.badge.permission WRITE** | - | - 
- **com.sonyericsson.home.permission BROADCAST_BADGE** | - | - 
- **com.sonymobile.home.permission PROVIDER_INSERT_BADGE** | - | - 
- **it.softmining.projects.covid19.savelifestyle.permission C2D_MESSAGE** | - | - 
- **me.everything.badger.permission BADGE_COUNT_READ** | - | - 
- **me.everything.badger.permission BADGE_COUNT_WRITE** | - | - 
- **oppo.permission OPPO_COMPONENT_SAFE** | - | - 
+ **android.permission<br>ACCESS_BACKGROUND_LOCATION** | <p class="text-red mb-2">:warning:Dangerous</p> | Allows an app to access location in the background. 
+ **android.permission<br>ACCESS_COARSE_LOCATION** | <p class="text-red mb-2">:warning:Dangerous</p> | Allows an app to access approximate location. 
+ **android.permission<br>ACCESS_FINE_LOCATION** | <p class="text-red mb-2">:warning:Dangerous</p> | Allows an app to access precise location. 
+ **android.permission<br>ACCESS_NETWORK_STATE** | Normal | Allows applications to access information about networks. 
+ **android.permission<br>BLUETOOTH** | Normal | Allows applications to connect to paired bluetooth devices. 
+ **android.permission<br>BLUETOOTH_ADMIN** | Normal | Allows applications to discover and pair bluetooth devices. 
+ **android.permission<br>FOREGROUND_SERVICE** | Normal | Allows a regular application to use Service.startForeground. 
+ **android.permission<br>INTERNET** | Normal | Allows applications to open network sockets. 
+ **android.permission<br>READ_APP_BADGE** | - | - 
+ **android.permission<br>READ_EXTERNAL_STORAGE** | <p class="text-red mb-2">:warning:Dangerous</p> | Allows an application to read from external storage. 
+ **android.permission<br>RECEIVE_BOOT_COMPLETED** | Normal | Allows an application to receive the Intent.ACTION_BOOT_COMPLETED that is broadcast after the system finishes booting. 
+ **android.permission<br>SYSTEM_ALERT_WINDOW** | Signature - preinstalled - appop - pre23 - development | Allows an app to create windows using the type WindowManager.LayoutParams.TYPE_APPLICATION_OVERLAY, shown on top of all other apps. 
+ **android.permission<br>USE_FULL_SCREEN_INTENT** | Normal | Required for apps targeting Build.VERSION_CODES.Q that want to use notification full screen intents. 
+ **android.permission<br>VIBRATE** | Normal | Allows access to the vibrator. 
+ **android.permission<br>WAKE_LOCK** | Normal | Allows using PowerManager WakeLocks to keep processor from sleeping or screen from dimming. 
+ **android.permission<br>WRITE_EXTERNAL_STORAGE** | <p class="text-red mb-2">:warning:Dangerous</p> | Allows an application to write to external storage. 
+ **com.anddoes.launcher.permission<br>UPDATE_COUNT** | - | - 
+ **com.google.android.c2dm.permission<br>RECEIVE** | - | - 
+ **com.google.android.finsky.permission<br>BIND_GET_INSTALL_REFERRER_SERVICE** | - | - 
+ **com.htc.launcher.permission<br>READ_SETTINGS** | - | - 
+ **com.htc.launcher.permission<br>UPDATE_SHORTCUT** | - | - 
+ **com.huawei.android.launcher.permission<br>CHANGE_BADGE** | - | - 
+ **com.huawei.android.launcher.permission<br>READ_SETTINGS** | - | - 
+ **com.huawei.android.launcher.permission<br>WRITE_SETTINGS** | - | - 
+ **com.huawei.permission.external_app_settings<br>USE_COMPONENT** | - | - 
+ **com.majeur.launcher.permission<br>UPDATE_BADGE** | - | - 
+ **com.oppo.launcher.permission<br>READ_SETTINGS** | - | - 
+ **com.oppo.launcher.permission<br>WRITE_SETTINGS** | - | - 
+ **com.sec.android.provider.badge.permission<br>READ** | - | - 
+ **com.sec.android.provider.badge.permission<br>WRITE** | - | - 
+ **com.sonyericsson.home.permission<br>BROADCAST_BADGE** | - | - 
+ **com.sonymobile.home.permission<br>PROVIDER_INSERT_BADGE** | - | - 
+ **it.softmining.projects.covid19.savelifestyle.permission<br>C2D_MESSAGE** | - | - 
+ **me.everything.badger.permission<br>BADGE_COUNT_READ** | - | - 
+ **me.everything.badger.permission<br>BADGE_COUNT_WRITE** | - | - 
+ **oppo.permission<br>OPPO_COMPONENT_SAFE** | - | - 
 
 
 ## Mentioned servers

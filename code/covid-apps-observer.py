@@ -47,5 +47,7 @@ def main():
     # collect_data()
     create_report()
 
+    # servers_analyzer.analyze({'id':'it.softmining.projects.covid19.savelifestyle', 'latest_crawled_version': '3.4'})
+
 if __name__ == "__main__":
     main()

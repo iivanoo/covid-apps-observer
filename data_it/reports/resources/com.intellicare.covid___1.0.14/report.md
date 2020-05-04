@@ -3,7 +3,7 @@ Version ``1.0.14``
 
 ## App overview
 
-<img src="../data_it/reports/resources/com.intellicare.covid___1.0.14/icon.png" alt="LAZIOdrCovid icon" width="200"/>
+<img src="icon.png" alt="LAZIOdrCovid icon" width="200"/>
 
 | Property | Value |
 |---|---|
@@ -31,12 +31,12 @@ La Regione Lazio ha voluto rendere disponibile, ai pro¬pri cittadini, una corsi
 ### User interface
 The developers of the app provide the following screenshots in the Google play store.
 
-<img src="../data_it/reports/resources/com.intellicare.covid___1.0.14/screenshot_1.png" alt="screenshot" width="300"/>
-<img src="../data_it/reports/resources/com.intellicare.covid___1.0.14/screenshot_2.png" alt="screenshot" width="300"/>
-<img src="../data_it/reports/resources/com.intellicare.covid___1.0.14/screenshot_3.png" alt="screenshot" width="300"/>
-<img src="../data_it/reports/resources/com.intellicare.covid___1.0.14/screenshot_4.png" alt="screenshot" width="300"/>
-<img src="../data_it/reports/resources/com.intellicare.covid___1.0.14/screenshot_5.png" alt="screenshot" width="300"/>
-<img src="../data_it/reports/resources/com.intellicare.covid___1.0.14/screenshot_6.png" alt="screenshot" width="300"/>
+<img src="screenshot_1.png" alt="screenshot" width="300"/>
+<img src="screenshot_2.png" alt="screenshot" width="300"/>
+<img src="screenshot_3.png" alt="screenshot" width="300"/>
+<img src="screenshot_4.png" alt="screenshot" width="300"/>
+<img src="screenshot_5.png" alt="screenshot" width="300"/>
+<img src="screenshot_6.png" alt="screenshot" width="300"/>
 
 
 ## Development team
@@ -65,21 +65,21 @@ In the following we report the complete list of the permissions requested by the
 
 | **Permission** | **Protection level** | **Description** | 
 |---|---|---|
- **android.permission ACCESS_NETWORK_STATE** | Normal | Allows applications to access information about networks. 
- **android.permission CAMERA** | <p class="text-red mb-2">:warning:Dangerous</p> | Required to be able to access the camera device. 
- **android.permission FLASHLIGHT** | - | - 
- **android.permission INTERNET** | Normal | Allows applications to open network sockets. 
- **android.permission MODIFY_AUDIO_SETTINGS** | Normal | Allows an application to modify global audio settings. 
- **android.permission READ_EXTERNAL_STORAGE** | <p class="text-red mb-2">:warning:Dangerous</p> | Allows an application to read from external storage. 
- **android.permission RECEIVE_BOOT_COMPLETED** | Normal | Allows an application to receive the Intent.ACTION_BOOT_COMPLETED that is broadcast after the system finishes booting. 
- **android.permission RECORD_AUDIO** | <p class="text-red mb-2">:warning:Dangerous</p> | Allows an application to record audio. 
- **android.permission USE_FULL_SCREEN_INTENT** | Normal | Required for apps targeting Build.VERSION_CODES.Q that want to use notification full screen intents. 
- **android.permission VIBRATE** | Normal | Allows access to the vibrator. 
- **android.permission WAKE_LOCK** | Normal | Allows using PowerManager WakeLocks to keep processor from sleeping or screen from dimming. 
- **android.permission WRITE_EXTERNAL_STORAGE** | <p class="text-red mb-2">:warning:Dangerous</p> | Allows an application to write to external storage. 
- **android.webkit PermissionRequest** | - | - 
- **com.google.android.c2dm.permission RECEIVE** | - | - 
- **com.google.android.finsky.permission BIND_GET_INSTALL_REFERRER_SERVICE** | - | - 
+ **android.permission<br>ACCESS_NETWORK_STATE** | Normal | Allows applications to access information about networks. 
+ **android.permission<br>CAMERA** | <p class="text-red mb-2">:warning:Dangerous</p> | Required to be able to access the camera device. 
+ **android.permission<br>FLASHLIGHT** | - | - 
+ **android.permission<br>INTERNET** | Normal | Allows applications to open network sockets. 
+ **android.permission<br>MODIFY_AUDIO_SETTINGS** | Normal | Allows an application to modify global audio settings. 
+ **android.permission<br>READ_EXTERNAL_STORAGE** | <p class="text-red mb-2">:warning:Dangerous</p> | Allows an application to read from external storage. 
+ **android.permission<br>RECEIVE_BOOT_COMPLETED** | Normal | Allows an application to receive the Intent.ACTION_BOOT_COMPLETED that is broadcast after the system finishes booting. 
+ **android.permission<br>RECORD_AUDIO** | <p class="text-red mb-2">:warning:Dangerous</p> | Allows an application to record audio. 
+ **android.permission<br>USE_FULL_SCREEN_INTENT** | Normal | Required for apps targeting Build.VERSION_CODES.Q that want to use notification full screen intents. 
+ **android.permission<br>VIBRATE** | Normal | Allows access to the vibrator. 
+ **android.permission<br>WAKE_LOCK** | Normal | Allows using PowerManager WakeLocks to keep processor from sleeping or screen from dimming. 
+ **android.permission<br>WRITE_EXTERNAL_STORAGE** | <p class="text-red mb-2">:warning:Dangerous</p> | Allows an application to write to external storage. 
+ **android.webkit<br>PermissionRequest** | - | - 
+ **com.google.android.c2dm.permission<br>RECEIVE** | - | - 
+ **com.google.android.finsky.permission<br>BIND_GET_INSTALL_REFERRER_SERVICE** | - | - 
 
 
 ## Mentioned servers

@@ -3,7 +3,7 @@ Version ``1.0.4``
 
 ## App overview
 
-<img src="../data_it/reports/resources/it.adl.aslroma3.covid19.app___1.0.4/icon.png" alt="Covid-19 icon" width="200"/>
+<img src="icon.png" alt="Covid-19 icon" width="200"/>
 
 | Property | Value |
 |---|---|
@@ -44,30 +44,30 @@ ADiLife è la salute a portata di tasca.
 ### User interface
 The developers of the app provide the following screenshots in the Google play store.
 
-<img src="../data_it/reports/resources/it.adl.aslroma3.covid19.app___1.0.4/screenshot_1.png" alt="screenshot" width="300"/>
-<img src="../data_it/reports/resources/it.adl.aslroma3.covid19.app___1.0.4/screenshot_2.png" alt="screenshot" width="300"/>
-<img src="../data_it/reports/resources/it.adl.aslroma3.covid19.app___1.0.4/screenshot_3.png" alt="screenshot" width="300"/>
-<img src="../data_it/reports/resources/it.adl.aslroma3.covid19.app___1.0.4/screenshot_4.png" alt="screenshot" width="300"/>
-<img src="../data_it/reports/resources/it.adl.aslroma3.covid19.app___1.0.4/screenshot_5.png" alt="screenshot" width="300"/>
-<img src="../data_it/reports/resources/it.adl.aslroma3.covid19.app___1.0.4/screenshot_6.png" alt="screenshot" width="300"/>
-<img src="../data_it/reports/resources/it.adl.aslroma3.covid19.app___1.0.4/screenshot_7.png" alt="screenshot" width="300"/>
-<img src="../data_it/reports/resources/it.adl.aslroma3.covid19.app___1.0.4/screenshot_8.png" alt="screenshot" width="300"/>
-<img src="../data_it/reports/resources/it.adl.aslroma3.covid19.app___1.0.4/screenshot_9.png" alt="screenshot" width="300"/>
-<img src="../data_it/reports/resources/it.adl.aslroma3.covid19.app___1.0.4/screenshot_10.png" alt="screenshot" width="300"/>
-<img src="../data_it/reports/resources/it.adl.aslroma3.covid19.app___1.0.4/screenshot_11.png" alt="screenshot" width="300"/>
-<img src="../data_it/reports/resources/it.adl.aslroma3.covid19.app___1.0.4/screenshot_12.png" alt="screenshot" width="300"/>
-<img src="../data_it/reports/resources/it.adl.aslroma3.covid19.app___1.0.4/screenshot_13.png" alt="screenshot" width="300"/>
-<img src="../data_it/reports/resources/it.adl.aslroma3.covid19.app___1.0.4/screenshot_14.png" alt="screenshot" width="300"/>
-<img src="../data_it/reports/resources/it.adl.aslroma3.covid19.app___1.0.4/screenshot_15.png" alt="screenshot" width="300"/>
-<img src="../data_it/reports/resources/it.adl.aslroma3.covid19.app___1.0.4/screenshot_16.png" alt="screenshot" width="300"/>
-<img src="../data_it/reports/resources/it.adl.aslroma3.covid19.app___1.0.4/screenshot_17.png" alt="screenshot" width="300"/>
-<img src="../data_it/reports/resources/it.adl.aslroma3.covid19.app___1.0.4/screenshot_18.png" alt="screenshot" width="300"/>
-<img src="../data_it/reports/resources/it.adl.aslroma3.covid19.app___1.0.4/screenshot_19.png" alt="screenshot" width="300"/>
-<img src="../data_it/reports/resources/it.adl.aslroma3.covid19.app___1.0.4/screenshot_20.png" alt="screenshot" width="300"/>
-<img src="../data_it/reports/resources/it.adl.aslroma3.covid19.app___1.0.4/screenshot_21.png" alt="screenshot" width="300"/>
-<img src="../data_it/reports/resources/it.adl.aslroma3.covid19.app___1.0.4/screenshot_22.png" alt="screenshot" width="300"/>
-<img src="../data_it/reports/resources/it.adl.aslroma3.covid19.app___1.0.4/screenshot_23.png" alt="screenshot" width="300"/>
-<img src="../data_it/reports/resources/it.adl.aslroma3.covid19.app___1.0.4/screenshot_24.png" alt="screenshot" width="300"/>
+<img src="screenshot_1.png" alt="screenshot" width="300"/>
+<img src="screenshot_2.png" alt="screenshot" width="300"/>
+<img src="screenshot_3.png" alt="screenshot" width="300"/>
+<img src="screenshot_4.png" alt="screenshot" width="300"/>
+<img src="screenshot_5.png" alt="screenshot" width="300"/>
+<img src="screenshot_6.png" alt="screenshot" width="300"/>
+<img src="screenshot_7.png" alt="screenshot" width="300"/>
+<img src="screenshot_8.png" alt="screenshot" width="300"/>
+<img src="screenshot_9.png" alt="screenshot" width="300"/>
+<img src="screenshot_10.png" alt="screenshot" width="300"/>
+<img src="screenshot_11.png" alt="screenshot" width="300"/>
+<img src="screenshot_12.png" alt="screenshot" width="300"/>
+<img src="screenshot_13.png" alt="screenshot" width="300"/>
+<img src="screenshot_14.png" alt="screenshot" width="300"/>
+<img src="screenshot_15.png" alt="screenshot" width="300"/>
+<img src="screenshot_16.png" alt="screenshot" width="300"/>
+<img src="screenshot_17.png" alt="screenshot" width="300"/>
+<img src="screenshot_18.png" alt="screenshot" width="300"/>
+<img src="screenshot_19.png" alt="screenshot" width="300"/>
+<img src="screenshot_20.png" alt="screenshot" width="300"/>
+<img src="screenshot_21.png" alt="screenshot" width="300"/>
+<img src="screenshot_22.png" alt="screenshot" width="300"/>
+<img src="screenshot_23.png" alt="screenshot" width="300"/>
+<img src="screenshot_24.png" alt="screenshot" width="300"/>
 
 
 ## Development team
@@ -98,14 +98,14 @@ In the following we report the complete list of the permissions requested by the
 
 | **Permission** | **Protection level** | **Description** | 
 |---|---|---|
- **android.permission ACCESS_COARSE_LOCATION** | <p class="text-red mb-2">:warning:Dangerous</p> | Allows an app to access approximate location. 
- **android.permission ACCESS_FINE_LOCATION** | <p class="text-red mb-2">:warning:Dangerous</p> | Allows an app to access precise location. 
- **android.permission ACCESS_NETWORK_STATE** | Normal | Allows applications to access information about networks. 
- **android.permission BLUETOOTH** | Normal | Allows applications to connect to paired bluetooth devices. 
- **android.permission BLUETOOTH_ADMIN** | Normal | Allows applications to discover and pair bluetooth devices. 
- **android.permission FOREGROUND_SERVICE** | Normal | Allows a regular application to use Service.startForeground. 
- **android.permission INTERNET** | Normal | Allows applications to open network sockets. 
- **android.permission WAKE_LOCK** | Normal | Allows using PowerManager WakeLocks to keep processor from sleeping or screen from dimming. 
+ **android.permission<br>ACCESS_COARSE_LOCATION** | <p class="text-red mb-2">:warning:Dangerous</p> | Allows an app to access approximate location. 
+ **android.permission<br>ACCESS_FINE_LOCATION** | <p class="text-red mb-2">:warning:Dangerous</p> | Allows an app to access precise location. 
+ **android.permission<br>ACCESS_NETWORK_STATE** | Normal | Allows applications to access information about networks. 
+ **android.permission<br>BLUETOOTH** | Normal | Allows applications to connect to paired bluetooth devices. 
+ **android.permission<br>BLUETOOTH_ADMIN** | Normal | Allows applications to discover and pair bluetooth devices. 
+ **android.permission<br>FOREGROUND_SERVICE** | Normal | Allows a regular application to use Service.startForeground. 
+ **android.permission<br>INTERNET** | Normal | Allows applications to open network sockets. 
+ **android.permission<br>WAKE_LOCK** | Normal | Allows using PowerManager WakeLocks to keep processor from sleeping or screen from dimming. 
 
 
 ## Mentioned servers
