@@ -296,6 +296,7 @@ def fill_security_analysis(app, androwarn, template):
     placeholders = fill_voids(placeholders)
     return fill_placeholders(placeholders, template)
 
+# Fill the Ratings section of the report
 def fill_ratings(app, metadata, template):
     placeholders = {
         'APP_TITLE': metadata['title'],
@@ -312,11 +313,36 @@ def fill_ratings(app, metadata, template):
     placeholders = fill_voids(placeholders)
     return fill_placeholders(placeholders, template)
 
-# Fill the Ratings and Reviews section of the report
-def fill_reviews(app, metadata, reviews, template):
-    filled_template = template
+# Retrieves the latest "amount" reviews of "stars" stars from "reviews"
+def get_reviews(stars, amount, reviews):
+    result = ''
+    count = 0
+    i = 0
+    while count != amount and i < len(reviews):
+        if(reviews[i]['score'] == stars):
+            print(reviews[i])
+            count = count + 1
+            result = result + '> ' + reviews[i]['content'] + '\n> __' + reviews[i]['at'] + '__\n\n'
+        i = i + 1
+    return result
 
-    return filled_template
+# Fill the Reviews section of the report
+def fill_reviews(app, metadata, reviews, template):
+    placeholders = {
+        '5_STAR_WORDCLOUD': '',
+        '4_STAR_WORDCLOUD': '',
+        '3_STAR_WORDCLOUD': '',
+        '2_STAR_WORDCLOUD': '',
+        '1_STAR_WORDCLOUD': '',
+        '5_STAR_REVIEWS': get_reviews(5, 10, reviews),
+        '4_STAR_REVIEWS': get_reviews(4, 10, reviews),
+        '3_STAR_REVIEWS': get_reviews(3, 10, reviews),
+        '2_STAR_REVIEWS': get_reviews(2, 10, reviews),
+        '1_STAR_REVIEWS': get_reviews(1, 10, reviews),
+    }
+
+    placeholders = fill_voids(placeholders)
+    return fill_placeholders(placeholders, template)
 
 # Creates the report about the app
 def create(app):

@@ -92,30 +92,42 @@ The <<<APP_TITLE>>> app has been installed by more than **<<<APP_MIN_INSTALLS>>>
 
 ### Reviews 
 
-<p align="center">
-<img src="resources/<<<APP_ID>>><<<SEPARATOR>>><<<APP_VERSION>>>/wordcloud_5_stars.png" alt="<<<APP_NAME>>> wordcloud" width="200"/>
-</p>
-
-TODO placeholders for 10 random reviews
+#### 5-star reviews
 
 <p align="center">
-<img src="resources/<<<APP_ID>>><<<SEPARATOR>>><<<APP_VERSION>>>/wordcloud_4_stars.png" alt="<<<APP_NAME>>> wordcloud" width="200"/>
+<<<5_STAR_WORDCLOUD>>>
 </p>
 
-TODO placeholders for 10 random reviews
+<<<5_STAR_REVIEWS>>>
+
+#### 4-star reviews
 
 <p align="center">
-<img src="resources/<<<APP_ID>>><<<SEPARATOR>>><<<APP_VERSION>>>/wordcloud_3_stars.png" alt="<<<APP_NAME>>> wordcloud" width="200"/>
+<<<4_STAR_WORDCLOUD>>>
 </p>
 
-TODO placeholders for 10 random reviews
+<<<4_STAR_REVIEWS>>>
+
+#### 3-star reviews
 
 <p align="center">
-<img src="resources/<<<APP_ID>>><<<SEPARATOR>>><<<APP_VERSION>>>/wordcloud_2_stars.png" alt="<<<APP_NAME>>> wordcloud" width="200"/>
+<<<3_STAR_WORDCLOUD>>>
 </p>
 
-TODO placeholders for 10 random reviews
+<<<3_STAR_REVIEWS>>>
+
+#### 2-star reviews
 
 <p align="center">
-<img src="resources/<<<APP_ID>>><<<SEPARATOR>>><<<APP_VERSION>>>/wordcloud_1_star.png" alt="<<<APP_NAME>>> wordcloud" width="200"/>
+<<<2_STAR_WORDCLOUD>>>
 </p>
+
+<<<2_STAR_REVIEWS>>>
+
+#### 1-star reviews
+
+<p align="center">
+<<<1_STAR_WORDCLOUD>>>
+</p>
+
+<<<1_STAR_REVIEWS>>>

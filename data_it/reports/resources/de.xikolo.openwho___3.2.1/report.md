@@ -162,30 +162,51 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 
 ### Reviews 
 
-<p align="center">
-<img src="resources/de.xikolo.openwho___3.2.1/wordcloud_5_stars.png" alt="<<<APP_NAME>>> wordcloud" width="200"/>
-</p>
-
-TODO placeholders for 10 random reviews
+#### 5-star reviews
 
 <p align="center">
-<img src="resources/de.xikolo.openwho___3.2.1/wordcloud_4_stars.png" alt="<<<APP_NAME>>> wordcloud" width="200"/>
+-
 </p>
 
-TODO placeholders for 10 random reviews
+> Useful and well-structured
+> __2020-04-23 13:33:22__
+
+> Ottimo e significativo per la vita.
+> __2020-04-17 06:44:32__
+
+
+
+#### 4-star reviews
 
 <p align="center">
-<img src="resources/de.xikolo.openwho___3.2.1/wordcloud_3_stars.png" alt="<<<APP_NAME>>> wordcloud" width="200"/>
+-
 </p>
 
-TODO placeholders for 10 random reviews
+-
+
+#### 3-star reviews
 
 <p align="center">
-<img src="resources/de.xikolo.openwho___3.2.1/wordcloud_2_stars.png" alt="<<<APP_NAME>>> wordcloud" width="200"/>
+-
 </p>
 
-TODO placeholders for 10 random reviews
+-
+
+#### 2-star reviews
 
 <p align="center">
-<img src="resources/de.xikolo.openwho___3.2.1/wordcloud_1_star.png" alt="<<<APP_NAME>>> wordcloud" width="200"/>
+-
 </p>
+
+-
+
+#### 1-star reviews
+
+<p align="center">
+-
+</p>
+
+> Non c'è in italiano
+> __2020-04-14 23:32:56__
+
+

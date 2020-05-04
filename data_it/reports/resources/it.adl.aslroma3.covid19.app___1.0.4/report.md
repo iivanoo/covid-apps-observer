@@ -138,30 +138,129 @@ The Covid-19 app has been installed by more than **10000** times. At this time, 
 
 ### Reviews 
 
-<p align="center">
-<img src="resources/it.adl.aslroma3.covid19.app___1.0.4/wordcloud_5_stars.png" alt="<<<APP_NAME>>> wordcloud" width="200"/>
-</p>
-
-TODO placeholders for 10 random reviews
+#### 5-star reviews
 
 <p align="center">
-<img src="resources/it.adl.aslroma3.covid19.app___1.0.4/wordcloud_4_stars.png" alt="<<<APP_NAME>>> wordcloud" width="200"/>
+-
 </p>
 
-TODO placeholders for 10 random reviews
+> App. Fantastica, e necessaria. Bravi 👏👏👏 Noto che cè troppa ignoranza. Dovrebbero leggere le modalità, prima di commentare.
+> __2020-05-01 16:35:43__
+
+> Ottima app per la prevenzione sanitaria nostra e altruistica .
+> __2020-04-30 15:38:06__
+
+> ciao é un'app utile, ah ok ora ho capito grazie 👌
+> __2020-04-21 18:08:58__
+
+> Buon
+> __2020-04-18 19:45:08__
+
+> E' valida anche per l' area di Rieti e provincia?
+> __2020-04-06 14:01:21__
+
+> Questa è davvero necessariamente importante per tutti
+> __2020-04-02 17:35:22__
+
+> etuttu ok-pontuale rapido alla consegna
+> __2020-04-01 19:33:31__
+
+> Non mi fa proseguire! Non capisco che tipo di password occorra...
+> __2020-04-01 09:43:42__
+
+> Non riesco a registrarmi
+> __2020-03-31 22:27:18__
+
+> Che si offra al paziente la possibilità di non sentirsi dimenticato e lontano da chi lo può curare lo trovo straordinario. Andate avanti!
+> __2020-03-31 20:16:58__
+
+
+
+#### 4-star reviews
 
 <p align="center">
-<img src="resources/it.adl.aslroma3.covid19.app___1.0.4/wordcloud_3_stars.png" alt="<<<APP_NAME>>> wordcloud" width="200"/>
+-
 </p>
 
-TODO placeholders for 10 random reviews
+> Lo avevo scaricato ma non mi accetta l'imeil e non so come entrarci!
+> __2020-05-01 19:29:55__
+
+> Buono..
+> __2020-04-17 20:26:24__
+
+> Anche a me dice credenziali errate, in entrambe le modalita'. Ma che cavolo di email e password devo metterci??? Vi do 4 stelle di incoraggiamento sperando che risolvete grazie. Edit ah ookk bastava legger sotto... Mi sono accorto solo ora.
+> __2020-04-06 16:00:11__
+
+> Ok 😂😂🔚🔚🔚🔚⌛
+> __2020-03-30 06:20:22__
+
+> VALIDA BRAVI.
+> __2020-03-26 14:39:15__
+
+
+
+#### 3-star reviews
 
 <p align="center">
-<img src="resources/it.adl.aslroma3.covid19.app___1.0.4/wordcloud_2_stars.png" alt="<<<APP_NAME>>> wordcloud" width="200"/>
+-
 </p>
 
-TODO placeholders for 10 random reviews
+> se mi fa entrare o mi posso registrare allora merita5 stelle 👍
+> __2020-04-03 23:59:46__
+
+> Ma è valido solo per Roma?
+> __2020-04-02 17:32:38__
+
+
+
+#### 2-star reviews
 
 <p align="center">
-<img src="resources/it.adl.aslroma3.covid19.app___1.0.4/wordcloud_1_star.png" alt="<<<APP_NAME>>> wordcloud" width="200"/>
+-
 </p>
+
+> Inutile
+> __2020-03-29 08:51:38__
+
+> Fa SCHIFO!!! Non serve a nulla. Non rileva ID né Passwd...
+> __2020-03-25 11:46:24__
+
+
+
+#### 1-star reviews
+
+<p align="center">
+-
+</p>
+
+> C è si ignoranza È DEDICATA SOLO A CHI POSITIVO CAPRE !
+> __2020-05-04 11:25:06__
+
+> All'inizio sembrava un gioco divertente, simile a plauge inc in cui c'è un virus che deve sterminare il mondo, poi è iniziato anche nella vita reale ed è diventato un po' noioso, soprattutto perché bisogna stare a casa per giocare ed è obbligatorio giocare
+> __2020-05-04 10:55:31__
+
+> Non funziona
+> __2020-04-27 20:19:51__
+
+> Ho installato questa app però non funziona, quando metto la mia email e la password mi dice sempre dati errati...potete fare qualcosa? Se lo fate metto altre stelline
+> __2020-04-25 00:22:26__
+
+> Dice errato
+> __2020-04-24 23:09:25__
+
+> Sempre complicato, cancello.
+> __2020-04-20 21:22:42__
+
+> Non riesco ad entrare
+> __2020-04-20 13:12:47__
+
+> Ho installato l'ap ma non sono riuscita ad entrare mi dice che le mie credenziali sono errate
+> __2020-04-20 00:18:51__
+
+> Se non riesco ed entrare nella app a cosa serve, metto mail e password, arriva la notifica che le mie credenziali non sono valide
+> __2020-04-19 11:48:29__
+
+> Non ti fa entrare. Fa pena
+> __2020-04-18 19:20:37__
+
+

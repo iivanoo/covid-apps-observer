@@ -118,30 +118,60 @@ The WHO Info app has been installed by more than **100000** times. At this time,
 
 ### Reviews 
 
-<p align="center">
-<img src="resources/org.who.infoapp___2.0/wordcloud_5_stars.png" alt="<<<APP_NAME>>> wordcloud" width="200"/>
-</p>
-
-TODO placeholders for 10 random reviews
+#### 5-star reviews
 
 <p align="center">
-<img src="resources/org.who.infoapp___2.0/wordcloud_4_stars.png" alt="<<<APP_NAME>>> wordcloud" width="200"/>
+-
 </p>
 
-TODO placeholders for 10 random reviews
+> Molto utile per me che viaggio molto.
+> __2020-04-24 06:42:36__
+
+> Per me questa ap é molto utile in questo momento difficile ma noi siamo molto forti e vinceremo però per ora restamo a casa
+> __2020-04-22 14:59:40__
+
+> Lo provò se va benne
+> __2020-04-22 10:50:07__
+
+
+
+#### 4-star reviews
 
 <p align="center">
-<img src="resources/org.who.infoapp___2.0/wordcloud_3_stars.png" alt="<<<APP_NAME>>> wordcloud" width="200"/>
+-
 </p>
 
-TODO placeholders for 10 random reviews
+> per chi non sa leggere l'inglese basta che tenga premuto il testo lo evidenzi e lo traduca
+> __2020-04-26 21:44:50__
+
+
+
+#### 3-star reviews
 
 <p align="center">
-<img src="resources/org.who.infoapp___2.0/wordcloud_2_stars.png" alt="<<<APP_NAME>>> wordcloud" width="200"/>
+-
 </p>
 
-TODO placeholders for 10 random reviews
+-
+
+#### 2-star reviews
 
 <p align="center">
-<img src="resources/org.who.infoapp___2.0/wordcloud_1_star.png" alt="<<<APP_NAME>>> wordcloud" width="200"/>
+-
 </p>
+
+-
+
+#### 1-star reviews
+
+<p align="center">
+-
+</p>
+
+> Io non conosco l'inglese non si potrebbe averla in italiano visto che siamo in Italia ?
+> __2020-04-24 23:15:26__
+
+> Non funziona
+> __2020-04-19 18:22:27__
+
+

@@ -124,30 +124,114 @@ The Sicilia Si Cura app has been installed by more than **1000** times. At this 
 
 ### Reviews 
 
-<p align="center">
-<img src="resources/com.siciliasicura.app___4.0/wordcloud_5_stars.png" alt="<<<APP_NAME>>> wordcloud" width="200"/>
-</p>
-
-TODO placeholders for 10 random reviews
+#### 5-star reviews
 
 <p align="center">
-<img src="resources/com.siciliasicura.app___4.0/wordcloud_4_stars.png" alt="<<<APP_NAME>>> wordcloud" width="200"/>
+-
 </p>
 
-TODO placeholders for 10 random reviews
+> App utile e facile
+> __2020-04-29 14:12:38__
+
+> App fantastica, semplice da utilizzare e veramente molto utile
+> __2020-04-26 00:17:04__
+
+> Applicazione molto utile
+> __2020-04-25 19:51:32__
+
+> Applicazione semplice e veramente molto utile
+> __2020-04-25 19:43:44__
+
+> App. Facile da usare e molto utile
+> __2020-04-25 19:43:10__
+
+> App intelligente facile da utilizzare e molto utile
+> __2020-04-25 18:52:13__
+
+> Fantastica! Facile da utilizzare, ottima idea!
+> __2020-04-24 20:42:19__
+
+> Contrariamente a quanto alcuni dicono l'app é ben fatta. Alcune capre non leggono e si lamentano inutilmente.
+> __2020-04-23 18:41:50__
+
+> App molto utile, specialmente per chi ha il virus e si trova in isolamento domiciliare.
+> __2020-04-22 10:34:23__
+
+> Semplice da usare ed utile
+> __2020-04-21 16:00:54__
+
+
+
+#### 4-star reviews
 
 <p align="center">
-<img src="resources/com.siciliasicura.app___4.0/wordcloud_3_stars.png" alt="<<<APP_NAME>>> wordcloud" width="200"/>
+-
 </p>
 
-TODO placeholders for 10 random reviews
+> Si blocca spesso e riprende a funzionare dopo aver riavviato lo smartphone, Grazie per la cortese risposta
+> __2020-04-28 11:21:47__
+
+
+
+#### 3-star reviews
 
 <p align="center">
-<img src="resources/com.siciliasicura.app___4.0/wordcloud_2_stars.png" alt="<<<APP_NAME>>> wordcloud" width="200"/>
+-
 </p>
 
-TODO placeholders for 10 random reviews
+> Sarebbe comoda l'aggiunta di un reminder giornaliero che ricordi di aggiornare lo stato di salute e non solo quello delle passate 6 ore
+> __2020-05-01 03:57:37__
+
+> Ma di preciso a cosa serve questa app
+> __2020-04-30 18:44:40__
+
+> Disinstallata inutilizzabile. Troppo complicato avere le credenziali per utilizzare questa app. speriamo nei nuovi aggiornamenti. Grazie
+> __2020-04-23 18:02:08__
+
+
+
+#### 2-star reviews
 
 <p align="center">
-<img src="resources/com.siciliasicura.app___4.0/wordcloud_1_star.png" alt="<<<APP_NAME>>> wordcloud" width="200"/>
+-
 </p>
+
+-
+
+#### 1-star reviews
+
+<p align="center">
+-
+</p>
+
+> L'app è instabile, la geolocalizzazione sballata, impossibile disinstallarla...ASSURDO!
+> __2020-05-03 09:22:12__
+
+> Come altri commenti... Mi chiede sempre l' indirizzo e non mi fa continuare
+> __2020-05-02 23:37:36__
+
+> Volevo provare ad usarla ma non c'è modo di effettuare la registrazione sul sito siciliasicura e non è spiegato da nessuna parte
+> __2020-04-30 21:42:22__
+
+> Mi sono iscritto il 26. 04 compilando tutto per quarantena ma l'App mi dice che sono sempre al 1 giorno?
+> __2020-04-28 10:34:17__
+
+> Una volta installata ed effettuato il login più di una volta e in diverse ore del giorno, mi dice sempre di inserire un indirizzo e che già c'è un indirizzo registrato. Inserisco nuovamente l'imdirizzo dove mi trovo e l'app rimane bloccata lì. È inutilizzabile
+> __2020-04-23 08:51:15__
+
+> Strano approccio. Dopo installata chiede il consenso quindi "Surname e Password". Ma dice che la password perverrà via mail. Quale mail? Non è prevista registrazione né richiesta di email! Pertanto non consente l'avvio. COMINCIAMO BENE.
+> __2020-04-22 09:02:25__
+
+> Bisogna spiegare meglio che non tutti possono usare la app (non permette registrarsi) In realtà può usare soltanto chi ha ricevuto login e password prima (dove e come nessuno sa).
+> __2020-04-21 07:11:08__
+
+> Una gran presa x i fondelli..... Da 1 settimana aspetto le credenziali x l'accesso
+> __2020-04-20 20:54:09__
+
+> Che minchiata la può scaricare solo chi riceve l'email
+> __2020-04-20 19:57:53__
+
+> Fatti le pippe e meglio forse se sei capace
+> __2020-04-20 09:46:36__
+
+
