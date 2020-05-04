@@ -5,8 +5,8 @@ Version ``1.0.14``
 
 <img src="icon.png" alt="LAZIOdrCovid icon" width="200"/>
 
-| Property | Value |
-|---|---|
+| | |
+|:-------------------------:|:-------------------------:|
 | **Name**  | LAZIOdrCovid |
 | **Unique identifier** | com.intellicare.covid> |
 | **Link to Google Play** | [https://play.google.com/store/apps/details?id=com.intellicare.covid](https://play.google.com/store/apps/details?id=com.intellicare.covid) |
@@ -39,8 +39,8 @@ The developers of the app provide the following screenshots in the Google play s
 ## Development team
 In the following we report the main information provided by the development team in the Google play store.
 
-| Property | Value |
-|---|---|
+| | |
+|:-------------------------:|:-------------------------:|
 | **Developer**  | LAZIOcrea S.p.A. |
 | **Website**  | - |
 | **Email** | [mailto:mobile@laziocrea.it][mobile@laziocrea.it] |
@@ -49,8 +49,8 @@ In the following we report the main information provided by the development team
 
 ## Android support
 
-| Property | Value |
-|---|---|
+| | |
+|:-------------------------:|:-------------------------:|
 | **Declared target Android version**  | Android10, version 10 (API level 29) |
 | **Effective target Android version**  | Android10, version 10 (API level 29) |
 | **Minimum supported Android version**  | Marshmallow, version 6.0 (API level 23) |

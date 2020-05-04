@@ -5,8 +5,8 @@ Version ``1.6.0``
 
 <img src="icon.png" alt="allertaLOM icon" width="200"/>
 
-| Property | Value |
-|---|---|
+| | |
+|:-------------------------:|:-------------------------:|
 | **Name**  | allertaLOM |
 | **Unique identifier** | it.lispa.sire.app.mobile.allertalom> |
 | **Link to Google Play** | [https://play.google.com/store/apps/details?id=it.lispa.sire.app.mobile.allertalom](https://play.google.com/store/apps/details?id=it.lispa.sire.app.mobile.allertalom) |
@@ -58,8 +58,8 @@ The developers of the app provide the following screenshots in the Google play s
 ## Development team
 In the following we report the main information provided by the development team in the Google play store.
 
-| Property | Value |
-|---|---|
+| | |
+|:-------------------------:|:-------------------------:|
 | **Developer**  | Regione Lombardia |
 | **Website**  | [http://www.allertalom.regione.lombardia.it][http://www.allertalom.regione.lombardia.it] |
 | **Email** | [mailto:info.allertalom@ariaspa.it][info.allertalom@ariaspa.it] |
@@ -68,8 +68,8 @@ In the following we report the main information provided by the development team
 
 ## Android support
 
-| Property | Value |
-|---|---|
+| | |
+|:-------------------------:|:-------------------------:|
 | **Declared target Android version**  | Pie, version 9 (API level 28) |
 | **Effective target Android version**  | Pie, version 9 (API level 28) |
 | **Minimum supported Android version**  | Lollipop, version 5.0 (API level 21) |

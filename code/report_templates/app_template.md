@@ -5,8 +5,8 @@ Version ``<<<APP_VERSION>>>``
 
 <img src="<<<ICON_PATH>>>" alt="<<<APP_TITLE>>> icon" width="200"/>
 
-| Property | Value |
-|---|---|
+| | |
+|:-------------------------:|:-------------------------:|
 | **Name**  | <<<APP_TITLE>>> |
 | **Unique identifier** | <<<APP_ID>>>> |
 | **Link to Google Play** | [https://play.google.com/store/apps/details?id=<<<APP_ID>>>](https://play.google.com/store/apps/details?id=<<<APP_ID>>>) |
@@ -36,8 +36,8 @@ The developers of the app provide the following screenshots in the Google play s
 ## Development team
 In the following we report the main information provided by the development team in the Google play store.
 
-| Property | Value |
-|---|---|
+| | |
+|:-------------------------:|:-------------------------:|
 | **Developer**  | <<<APP_DEVELOPER>>> |
 | **Website**  | <<<DEVELOPER_WEBSITE>>> |
 | **Email** | <<<DEV_EMAIL>>> |
@@ -46,8 +46,8 @@ In the following we report the main information provided by the development team
 
 ## Android support
 
-| Property | Value |
-|---|---|
+| | |
+|:-------------------------:|:-------------------------:|
 | **Declared target Android version**  | <<<TARGET_SDK>>> |
 | **Effective target Android version**  | <<<EFFECTIVE_SDK>>> |
 | **Minimum supported Android version**  | <<<MIN_SDK>>> |

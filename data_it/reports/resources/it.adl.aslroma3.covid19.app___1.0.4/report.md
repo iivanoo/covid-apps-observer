@@ -5,8 +5,8 @@ Version ``1.0.4``
 
 <img src="icon.png" alt="Covid-19 icon" width="200"/>
 
-| Property | Value |
-|---|---|
+| | |
+|:-------------------------:|:-------------------------:|
 | **Name**  | Covid-19 |
 | **Unique identifier** | it.adl.aslroma3.covid19.app> |
 | **Link to Google Play** | [https://play.google.com/store/apps/details?id=it.adl.aslroma3.covid19.app](https://play.google.com/store/apps/details?id=it.adl.aslroma3.covid19.app) |
@@ -58,8 +58,8 @@ The developers of the app provide the following screenshots in the Google play s
 ## Development team
 In the following we report the main information provided by the development team in the Google play store.
 
-| Property | Value |
-|---|---|
+| | |
+|:-------------------------:|:-------------------------:|
 | **Developer**  | ADiLife Srl |
 | **Website**  | [https://www.adilife.net][https://www.adilife.net] |
 | **Email** | [mailto:info@adilife.net][info@adilife.net] |
@@ -70,8 +70,8 @@ Italy |
 
 ## Android support
 
-| Property | Value |
-|---|---|
+| | |
+|:-------------------------:|:-------------------------:|
 | **Declared target Android version**  | Android10, version 10 (API level 29) |
 | **Effective target Android version**  | Android10, version 10 (API level 29) |
 | **Minimum supported Android version**  | Lollipop, version 5.0 (API level 21) |

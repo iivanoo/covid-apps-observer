@@ -5,8 +5,8 @@ Version ``4.0``
 
 <img src="icon.png" alt="Sicilia Si Cura icon" width="200"/>
 
-| Property | Value |
-|---|---|
+| | |
+|:-------------------------:|:-------------------------:|
 | **Name**  | Sicilia Si Cura |
 | **Unique identifier** | com.siciliasicura.app> |
 | **Link to Google Play** | [https://play.google.com/store/apps/details?id=com.siciliasicura.app](https://play.google.com/store/apps/details?id=com.siciliasicura.app) |
@@ -55,8 +55,8 @@ The developers of the app provide the following screenshots in the Google play s
 ## Development team
 In the following we report the main information provided by the development team in the Google play store.
 
-| Property | Value |
-|---|---|
+| | |
+|:-------------------------:|:-------------------------:|
 | **Developer**  | IES Solutions |
 | **Website**  | [http://www.siciliacoronavirus.it][http://www.siciliacoronavirus.it] |
 | **Email** | [mailto:info@costruiresalute.it][info@costruiresalute.it] |
@@ -65,8 +65,8 @@ In the following we report the main information provided by the development team
 
 ## Android support
 
-| Property | Value |
-|---|---|
+| | |
+|:-------------------------:|:-------------------------:|
 | **Declared target Android version**  | Android10, version 10 (API level 29) |
 | **Effective target Android version**  | Android10, version 10 (API level 29) |
 | **Minimum supported Android version**  | Lollipop, version 5.0 (API level 21) |

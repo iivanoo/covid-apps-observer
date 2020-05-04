@@ -5,8 +5,8 @@ Version ``3.4``
 
 <img src="icon.png" alt="SM_Covid19 icon" width="200"/>
 
-| Property | Value |
-|---|---|
+| | |
+|:-------------------------:|:-------------------------:|
 | **Name**  | SM_Covid19 |
 | **Unique identifier** | it.softmining.projects.covid19.savelifestyle> |
 | **Link to Google Play** | [https://play.google.com/store/apps/details?id=it.softmining.projects.covid19.savelifestyle](https://play.google.com/store/apps/details?id=it.softmining.projects.covid19.savelifestyle) |
@@ -60,8 +60,8 @@ The developers of the app provide the following screenshots in the Google play s
 ## Development team
 In the following we report the main information provided by the development team in the Google play store.
 
-| Property | Value |
-|---|---|
+| | |
+|:-------------------------:|:-------------------------:|
 | **Developer**  | Softmining Srl |
 | **Website**  | [https://www.smcovid19.org/][https://www.smcovid19.org/] |
 | **Email** | [mailto:smcovid19@softmining.it][smcovid19@softmining.it] |
@@ -70,8 +70,8 @@ In the following we report the main information provided by the development team
 
 ## Android support
 
-| Property | Value |
-|---|---|
+| | |
+|:-------------------------:|:-------------------------:|
 | **Declared target Android version**  | Android10, version 10 (API level 29) |
 | **Effective target Android version**  | Android10, version 10 (API level 29) |
 | **Minimum supported Android version**  | KitKat W, version 4.4W - 4.4.4W (API level 20) |
