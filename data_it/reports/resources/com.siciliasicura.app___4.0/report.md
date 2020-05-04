@@ -1,7 +1,7 @@
 # Sicilia Si Cura
 App version ``4.0``
 
-Analyzed with [covid-apps-observer][http://github.com/covid-apps-observer] project, version ``0.1``
+Analyzed with [covid-apps-observer](http://github.com/covid-apps-observer) project, version ``0.1``
 
 <img src="icon.png" alt="Sicilia Si Cura icon" width="80"/>
 
@@ -23,27 +23,17 @@ Analyzed with [covid-apps-observer][http://github.com/covid-apps-observer] proje
 | **Supported Android version**  | 5.0 e versioni successive |
 
 ### Description
-```
-La gestione della pandemia COVID-19, caratterizzata da una alta trasmissibilità del virus e da una contagiosità elevata anche durante il periodo asintomatico, richiede misure di isolamento sociale e di monitoraggio attivo delle condizioni di salute dei cittadini. 
+> La gestione della pandemia COVID-19, caratterizzata da una alta trasmissibilità del virus e da una contagiosità elevata anche durante il periodo asintomatico, richiede misure di isolamento sociale e di monitoraggio attivo delle condizioni di salute dei cittadini. 
+> La Regione Siciliana ha avviato, dal 1 Marzo 2020, una procedura di registrazione per chi è entrato nel territorio regionale, indipendentemente dalla zona di provenienza e dal mezzo di trasporto attraverso il sito http://www.siciliacoronavirus.it, che è la modalità da utilizzare per poter ricevere le proprie credenziali per utilizzare l'APP Sicilia Si Cura.
+> Tale procedura è stato un primo passo verso il monitoraggio attivo di uno dei principali veicoli di ingresso del virus: i contagiati asintomatici che inconsapevolmente agiscono da moltiplicatori di esposizione al rischio da COVID-19.
+> Il passo successivo è quello di offrire uno strumento che consenta, volontariamente, l'invio periodico delle condizioni di salute delle persone registrate, consentendo l'incrocio dei dati sintomatologici da parte del Sistema Sanitario Regionale.
+> Il Servizio "Sicilia Si Cura" ha l'obiettivo di creare un flusso continuo e trasparente di informazioni tra coloro che sono arrivati in Sicilia dopo il 1 Marzo 2020 e il Sistema di Gestione dell'Emergenza.
+> Le informazioni riguardano le condizioni di salute, l'insorgenza di sintomi del COVID-19, l'eventuale esposizione a persone contagiate e l'indirizzo presso il quale si sta rimanendo in isolamento.
+> La finalità è chiara: mantenere sotto controllo le condizioni di salute di chi è arrivato in Sicilia per identificare rapidamente l'insorgere di eventuali sintomi, intervenire celermente per la cura e mitigare i rischi di contagio per la popolazione.
+> Nel rispetto della Privacy del cittadino, "Sicilia Si Cura" non esegue un monitoraggio attivo, in tempo reale, della posizione del suo utilizzatore, ma costituisce uno strumento per la condivisione volontaria delle proprie condizioni di salute su base bi-giornaliera. L'inserimento dell'indirizzo attuale è, volontario a cura dell'utente: l'APP verifica soltanto che l'indirizzo sia nell'ambito di un Comune della Regione Siciliana.
+> Successivamente, nel momento dell'aggiornamento delle condizioni viene inviata la localizzazione dell'utente, al fine di confermare la sua presenza in un Comune della Regione Siciliana.
+> Il Sistema di Gestione dell'Emergenza avrà la possibilità di accedere alle informazioni ricavate dall'APP per meglio gestire la curva epidemiologica in Sicilia.
 
-La Regione Siciliana ha avviato, dal 1 Marzo 2020, una procedura di registrazione per chi è entrato nel territorio regionale, indipendentemente dalla zona di provenienza e dal mezzo di trasporto attraverso il sito http://www.siciliacoronavirus.it, che è la modalità da utilizzare per poter ricevere le proprie credenziali per utilizzare l'APP Sicilia Si Cura.
-
-Tale procedura è stato un primo passo verso il monitoraggio attivo di uno dei principali veicoli di ingresso del virus: i contagiati asintomatici che inconsapevolmente agiscono da moltiplicatori di esposizione al rischio da COVID-19.
-
-Il passo successivo è quello di offrire uno strumento che consenta, volontariamente, l'invio periodico delle condizioni di salute delle persone registrate, consentendo l'incrocio dei dati sintomatologici da parte del Sistema Sanitario Regionale.
-
-Il Servizio "Sicilia Si Cura" ha l'obiettivo di creare un flusso continuo e trasparente di informazioni tra coloro che sono arrivati in Sicilia dopo il 1 Marzo 2020 e il Sistema di Gestione dell'Emergenza.
-
-Le informazioni riguardano le condizioni di salute, l'insorgenza di sintomi del COVID-19, l'eventuale esposizione a persone contagiate e l'indirizzo presso il quale si sta rimanendo in isolamento.
-
-La finalità è chiara: mantenere sotto controllo le condizioni di salute di chi è arrivato in Sicilia per identificare rapidamente l'insorgere di eventuali sintomi, intervenire celermente per la cura e mitigare i rischi di contagio per la popolazione.
-
-Nel rispetto della Privacy del cittadino, "Sicilia Si Cura" non esegue un monitoraggio attivo, in tempo reale, della posizione del suo utilizzatore, ma costituisce uno strumento per la condivisione volontaria delle proprie condizioni di salute su base bi-giornaliera. L'inserimento dell'indirizzo attuale è, volontario a cura dell'utente: l'APP verifica soltanto che l'indirizzo sia nell'ambito di un Comune della Regione Siciliana.
-
-Successivamente, nel momento dell'aggiornamento delle condizioni viene inviata la localizzazione dell'utente, al fine di confermare la sua presenza in un Comune della Regione Siciliana.
-
-Il Sistema di Gestione dell'Emergenza avrà la possibilità di accedere alle informazioni ricavate dall'APP per meglio gestire la curva epidemiologica in Sicilia.
-```
 
 ### User interface
 The developers of the app provide the following screenshots in the Google play store.
@@ -102,22 +92,13 @@ In the following we report the complete list of the permissions requested by the
 Below we report the main security warnings raised by our execution of the [Androwarn](https://github.com/maaaaz/androwarn) security analysis tool.
 
 **Connection interfaces exfiltration**
-```
-This application reads details about the currently active data network
-This application tries to find out if the currently active data network is metered
-```
-
+> This application reads details about the currently active data network
+> This application tries to find out if the currently active data network is metered
 **Pim data leakage**
-```
-This application accesses the downloads folder
-This application accesses data stored in the clipboard
-```
-
+> This application accesses the downloads folder
+> This application accesses data stored in the clipboard
 **Code execution**
-```
-This application loads a native library: 'sqlc-native-driver'
-```
-
+> This application loads a native library: 'sqlc-native-driver'
 
 
 ## User ratings and reviews

@@ -1,7 +1,7 @@
 # SM_Covid19
 App version ``3.4``
 
-Analyzed with [covid-apps-observer][http://github.com/covid-apps-observer] project, version ``0.1``
+Analyzed with [covid-apps-observer](http://github.com/covid-apps-observer) project, version ``0.1``
 
 <img src="icon.png" alt="SM_Covid19 icon" width="80"/>
 
@@ -23,32 +23,21 @@ Analyzed with [covid-apps-observer][http://github.com/covid-apps-observer] proje
 | **Supported Android version**  | 4.4W e versioni successive |
 
 ### Description
-```
-Questa App è stata sviluppata e viene costantemente aggiornata con l'obiettivo di valutare (attraverso la definizione di modelli statistici e matematici) il rischio di trasmissione (e il comportamento epidemico) del virus attraverso il monitoraggio:
+> Questa App è stata sviluppata e viene costantemente aggiornata con l'obiettivo di valutare (attraverso la definizione di modelli statistici e matematici) il rischio di trasmissione (e il comportamento epidemico) del virus attraverso il monitoraggio:
+> - del numero dei contatti
+> - della durata dei contatti;
+> - della distanza presente tra i contatti rilevati rispetto alla durata del contatto.
+> Sm-Covid-19 non acquisisce dati personali ne dati sanitari: Ti preghiamo di visualizzare il video introduttivo per avere maggiori dettagli sullo scopo e sul funzionamento di questa App. 
+> Se desideri maggiori dettagli tecnici sul funzionamento di Sm-Covid-19 puoi visitare questo link: https://www.smcovid19.org/recover/
+> Sm-Covid-19 non acquisisce dati sensibili dell’utente (ne ha bisogno di tali dati per funzionare), salvo nel momento in cui sia l'utente stesso a decidere di utilizzare il modulo di segnalazione per comunicare il suo sospetto di essere infetto. Il modulo di auto-segnalazione non sarà attivo durante la fase di Beta Testing.
+> Durante la fase di Beta Testing esteso, in concomitanza con l'avvio della fase 2, ci occorrerà un gran numero di utenti attivi, per poter migliorare i modelli di stima del contagio: Al momento siamo una piccola community di 30.000 volontari, ma per poter eseguire calcoli statistici precisi ti chiediamo di aiutarci a diffondere l'App tra tutti i tuoi contatti, sopratutto quelli con i quali presumibilmente potresti entrare in contatto durante la fase 2.
+> Ci teniamo a ricordarti che SOLO le autorità sanitarie possono indicare la positività di un soggetto. I valori di rischio indicati in Sm-Covid-19 NON possono essere considerate diagnosi di positività o negatività al Covid-19: Lo scopo di questa APP è di generare modelli rappresentativi del contagio (modelli matematici) e statistiche accurate.
+> L’utente non viene geo-localizzato, né viene reso riconoscibile, salvo nel caso in cui esso stesso decida di condividere di suo spontanea volontà i dati GPS attraverso il menù Impostazioni -> Abilita condivisione dati GPS.  
+> I dati GPS verranno registrati SOLO quando verranno rilevati dei contatti. Se nessun utente viene rilevato nei dintorni, nessun dato viene acquisito. È possibile disabilitare in qualsiasi momento l'acquisizione dei dati GPS. 
+> Le informazioni acquisite (solo numero, tipo di contatto, distanza e dati GPS se abilitati) saranno condivise con le sole autorità sanitarie. Il codice sorgente sarà condiviso con le autorità competenti e sarà reso disponibile a fine emergenza.
+> Sm-Covid-19 è stata sviluppata e viene manutenuta senza fini economici né di acquisizione di dati sensibili. 
+> Sm-Covid-19 non può essere considerata sostitutiva di una diagnosi medica.
 
-- del numero dei contatti
-- della durata dei contatti;
-- della distanza presente tra i contatti rilevati rispetto alla durata del contatto.
-
-Sm-Covid-19 non acquisisce dati personali ne dati sanitari: Ti preghiamo di visualizzare il video introduttivo per avere maggiori dettagli sullo scopo e sul funzionamento di questa App. 
-
-Se desideri maggiori dettagli tecnici sul funzionamento di Sm-Covid-19 puoi visitare questo link: https://www.smcovid19.org/recover/
-
-Sm-Covid-19 non acquisisce dati sensibili dell’utente (ne ha bisogno di tali dati per funzionare), salvo nel momento in cui sia l'utente stesso a decidere di utilizzare il modulo di segnalazione per comunicare il suo sospetto di essere infetto. Il modulo di auto-segnalazione non sarà attivo durante la fase di Beta Testing.
-
-Durante la fase di Beta Testing esteso, in concomitanza con l'avvio della fase 2, ci occorrerà un gran numero di utenti attivi, per poter migliorare i modelli di stima del contagio: Al momento siamo una piccola community di 30.000 volontari, ma per poter eseguire calcoli statistici precisi ti chiediamo di aiutarci a diffondere l'App tra tutti i tuoi contatti, sopratutto quelli con i quali presumibilmente potresti entrare in contatto durante la fase 2.
-
-Ci teniamo a ricordarti che SOLO le autorità sanitarie possono indicare la positività di un soggetto. I valori di rischio indicati in Sm-Covid-19 NON possono essere considerate diagnosi di positività o negatività al Covid-19: Lo scopo di questa APP è di generare modelli rappresentativi del contagio (modelli matematici) e statistiche accurate.
-
-L’utente non viene geo-localizzato, né viene reso riconoscibile, salvo nel caso in cui esso stesso decida di condividere di suo spontanea volontà i dati GPS attraverso il menù Impostazioni -> Abilita condivisione dati GPS.  
-I dati GPS verranno registrati SOLO quando verranno rilevati dei contatti. Se nessun utente viene rilevato nei dintorni, nessun dato viene acquisito. È possibile disabilitare in qualsiasi momento l'acquisizione dei dati GPS. 
-
-Le informazioni acquisite (solo numero, tipo di contatto, distanza e dati GPS se abilitati) saranno condivise con le sole autorità sanitarie. Il codice sorgente sarà condiviso con le autorità competenti e sarà reso disponibile a fine emergenza.
-
-Sm-Covid-19 è stata sviluppata e viene manutenuta senza fini economici né di acquisizione di dati sensibili. 
-
-Sm-Covid-19 non può essere considerata sostitutiva di una diagnosi medica.
-```
 
 ### User interface
 The developers of the app provide the following screenshots in the Google play store.
@@ -144,34 +133,19 @@ In the following we report the complete list of the permissions requested by the
 Below we report the main security warnings raised by our execution of the [Androwarn](https://github.com/maaaaz/androwarn) security analysis tool.
 
 **Telephony identifiers leakage**
-```
-This application reads the numeric name (MCC+MNC) of current registered operator
-This application reads the operator name
-```
-
+> This application reads the numeric name (MCC+MNC) of current registered operator
+> This application reads the operator name
 **Connection interfaces exfiltration**
-```
-This application reads details about the currently active data network
-```
-
+> This application reads details about the currently active data network
 **Telephony services abuse**
-```
-This application makes phone calls
-```
-
+> This application makes phone calls
 **Suspicious connection establishment**
-```
-This application opens a Socket and connects it to the remote address 'Ld/a/a/a/a;->a(Ljava/lang/String;)Ljava/lang/StringBuilder;' on the 'N/A' port 
-This application opens a Socket and connects it to the remote address 'Ljava/net/Proxy;->type()Ljava/net/Proxy$Type;' on the 'N/A' port 
-This application opens a Socket and connects it to the remote address 'hostname == null ' on the 'N/A' port 
-This application opens a Socket and connects it to the remote address 'timeout' on the 'N/A' port 
-```
-
+> This application opens a Socket and connects it to the remote address 'Ld/a/a/a/a;->a(Ljava/lang/String;)Ljava/lang/StringBuilder;' on the 'N/A' port 
+> This application opens a Socket and connects it to the remote address 'Ljava/net/Proxy;->type()Ljava/net/Proxy$Type;' on the 'N/A' port 
+> This application opens a Socket and connects it to the remote address 'hostname == null ' on the 'N/A' port 
+> This application opens a Socket and connects it to the remote address 'timeout' on the 'N/A' port 
 **Code execution**
-```
-This application executes a UNIX command containing this argument: 'Ljava/lang/StringBuilder;->toString()Ljava/lang/String;'
-```
-
+> This application executes a UNIX command containing this argument: 'Ljava/lang/StringBuilder;->toString()Ljava/lang/String;'
 
 
 ## User ratings and reviews

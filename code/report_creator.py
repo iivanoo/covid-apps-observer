@@ -87,7 +87,7 @@ def fill_overview(app, metadata, template, report_folder):
         'APP_RELEASE': metadata['released'],
         'APP_SIZE': metadata['size'],
         'APP_ANDROID_VERSION': metadata['androidVersionText'],
-        'APP_DESCRIPTION': metadata['description'],
+        'APP_DESCRIPTION': '> ' + re.sub('[\n|\r]+','\n> ', metadata['description']),
         'SCREENSHOTS': screenshots
     }
 
@@ -284,12 +284,9 @@ def fill_security_analysis(app, androwarn, template):
         # We ignore the device_settings_harvesting results of Androwarm since it is too verbose and not informative for this project
         if e[0] != 'device_settings_harvesting' and len(e[1]) != 0:
             warnings = warnings + '**' + e[0].capitalize().replace('_', ' ') + '**\n'
-            warnings = warnings + '```\n'
+            warnings = warnings
             for i, w in enumerate(e[1]):
-                warnings = warnings + w
-                if i != len(e[1]) - 1:
-                    warnings = warnings + '\n'
-            warnings = warnings + '\n```\n\n' 
+                warnings = warnings + '> ' + w + '\n'
         
     placeholders = {
         'ANDROWARN_RESULTS': warnings,

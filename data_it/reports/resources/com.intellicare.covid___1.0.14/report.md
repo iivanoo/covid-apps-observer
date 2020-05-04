@@ -1,7 +1,7 @@
 # LAZIOdrCovid
 App version ``1.0.14``
 
-Analyzed with [covid-apps-observer][http://github.com/covid-apps-observer] project, version ``0.1``
+Analyzed with [covid-apps-observer](http://github.com/covid-apps-observer) project, version ``0.1``
 
 <img src="icon.png" alt="LAZIOdrCovid icon" width="80"/>
 
@@ -23,10 +23,9 @@ Analyzed with [covid-apps-observer][http://github.com/covid-apps-observer] proje
 | **Supported Android version**  | 6.0 e versioni successive |
 
 ### Description
-```
-La Regione Lazio offre la piattaforma Lazio Doctor per consultare informazioni utili legati all’emergenza COVID-19 e per connettere i pazienti con operatori sanitari e numero verde 800118800. Attraverso l’applicazione mobile scaricata sul telefono è possibile entrare in contatto con il proprio medico di base in modalità virtuale, ovunque, inviando in qualsiasi momento, le richieste di cui si ha bisogno. L’applicazione prevede comunicazioni testo-audio bidirezionali sicure tramite smartphone tra il cittadino ed il proprio medico. La videochiamata viene attivata, se necessario, dal medico per approfondire il quadro clinico del paziente.
-La Regione Lazio ha voluto rendere disponibile, ai pro¬pri cittadini, una corsia veloce ed affidabile per la fruizione dei servizi sanitari efficace soprattutto nei momenti di emergenza e in sicurezza. L’applicazione è scaricabile gratuitamente su App Store (iPhone) e Play Store (telefoni Android) su smar¬tphone. La modalità di accesso è immediata. Basta poi seguire i semplici passaggi per accedere ai servizi disponibili.
-```
+> La Regione Lazio offre la piattaforma Lazio Doctor per consultare informazioni utili legati all’emergenza COVID-19 e per connettere i pazienti con operatori sanitari e numero verde 800118800. Attraverso l’applicazione mobile scaricata sul telefono è possibile entrare in contatto con il proprio medico di base in modalità virtuale, ovunque, inviando in qualsiasi momento, le richieste di cui si ha bisogno. L’applicazione prevede comunicazioni testo-audio bidirezionali sicure tramite smartphone tra il cittadino ed il proprio medico. La videochiamata viene attivata, se necessario, dal medico per approfondire il quadro clinico del paziente.
+> La Regione Lazio ha voluto rendere disponibile, ai pro¬pri cittadini, una corsia veloce ed affidabile per la fruizione dei servizi sanitari efficace soprattutto nei momenti di emergenza e in sicurezza. L’applicazione è scaricabile gratuitamente su App Store (iPhone) e Play Store (telefoni Android) su smar¬tphone. La modalità di accesso è immediata. Basta poi seguire i semplici passaggi per accedere ai servizi disponibili.
+
 
 ### User interface
 The developers of the app provide the following screenshots in the Google play store.
@@ -96,29 +95,17 @@ In the following we report the complete list of the permissions requested by the
 Below we report the main security warnings raised by our execution of the [Androwarn](https://github.com/maaaaz/androwarn) security analysis tool.
 
 **Connection interfaces exfiltration**
-```
-This application reads details about the currently active data network
-This application tries to find out if the currently active data network is metered
-```
-
+> This application reads details about the currently active data network
+> This application tries to find out if the currently active data network is metered
 **Telephony services abuse**
-```
-This application makes phone calls
-```
-
+> This application makes phone calls
 **Suspicious connection establishment**
-```
-This application opens a Socket and connects it to the remote address 'Lc/a/a/a/a;->a(Ljava/lang/String;)Ljava/lang/StringBuilder;' on the 'N/A' port 
-This application opens a Socket and connects it to the remote address 'Ljava/net/Proxy;->type()Ljava/net/Proxy$Type;' on the 'N/A' port 
-This application opens a Socket and connects it to the remote address 'hostname == null ' on the 'N/A' port 
-This application opens a Socket and connects it to the remote address 'timeout' on the 'N/A' port 
-```
-
+> This application opens a Socket and connects it to the remote address 'Lc/a/a/a/a;->a(Ljava/lang/String;)Ljava/lang/StringBuilder;' on the 'N/A' port 
+> This application opens a Socket and connects it to the remote address 'Ljava/net/Proxy;->type()Ljava/net/Proxy$Type;' on the 'N/A' port 
+> This application opens a Socket and connects it to the remote address 'hostname == null ' on the 'N/A' port 
+> This application opens a Socket and connects it to the remote address 'timeout' on the 'N/A' port 
 **Code execution**
-```
-This application loads a native library: 'jingle_peerconnection_so'
-```
-
+> This application loads a native library: 'jingle_peerconnection_so'
 
 
 ## User ratings and reviews

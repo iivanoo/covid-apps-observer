@@ -48,6 +48,7 @@ def get_candidate_urls(app):
 
 # Polishes the list of URLs used in the app and performs a whois lookup on the most promising ones
 def analyze(app):
+    print('Analyzing the servers mentioned by: ' + app['id'])
     result = list()
     urls = get_candidate_urls(app)
 

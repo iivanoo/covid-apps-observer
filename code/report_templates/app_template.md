@@ -23,9 +23,8 @@ Analyzed with [covid-apps-observer](http://github.com/covid-apps-observer) proje
 | **Supported Android version**  | <<<APP_ANDROID_VERSION>>> |
 
 ### Description
-```
 <<<APP_DESCRIPTION>>>
-```
+
 
 ### User interface
 The developers of the app provide the following screenshots in the Google play store.

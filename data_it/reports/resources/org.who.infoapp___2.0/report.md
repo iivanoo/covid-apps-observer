@@ -1,7 +1,7 @@
 # WHO Info
 App version ``2.0``
 
-Analyzed with [covid-apps-observer][http://github.com/covid-apps-observer] project, version ``0.1``
+Analyzed with [covid-apps-observer](http://github.com/covid-apps-observer) project, version ``0.1``
 
 <img src="icon.png" alt="WHO Info icon" width="80"/>
 
@@ -23,12 +23,11 @@ Analyzed with [covid-apps-observer][http://github.com/covid-apps-observer] proje
 | **Supported Android version**  | 4.2 e versioni successive |
 
 ### Description
-```
-Have the latest health information at your fingertips with the official World Health Organization Information App. This app displays the latest news, events, features and breaking updates on outbreaks. 
- 
-WHO works worldwide to promote health, keep the world safe, and serve the vulnerable. 
-Our goal is to ensure that a billion more people have universal health coverage, to protect a billion more people from health emergencies, and provide a further billion people with better health and well-being.
-```
+> Have the latest health information at your fingertips with the official World Health Organization Information App. This app displays the latest news, events, features and breaking updates on outbreaks. 
+>  
+> WHO works worldwide to promote health, keep the world safe, and serve the vulnerable. 
+> Our goal is to ensure that a billion more people have universal health coverage, to protect a billion more people from health emergencies, and provide a further billion people with better health and well-being.
+
 
 ### User interface
 The developers of the app provide the following screenshots in the Google play store.
@@ -86,23 +85,14 @@ In the following we report the complete list of the permissions requested by the
 Below we report the main security warnings raised by our execution of the [Androwarn](https://github.com/maaaaz/androwarn) security analysis tool.
 
 **Connection interfaces exfiltration**
-```
-This application reads details about the currently active data network
-This application tries to find out if the currently active data network is metered
-```
-
+> This application reads details about the currently active data network
+> This application tries to find out if the currently active data network is metered
 **Suspicious connection establishment**
-```
-This application opens a Socket and connects it to the remote address 'Lfi/iki/elonen/NanoHTTPD$ResponseException;' on the 'N/A' port 
-This application opens a Socket and connects it to the remote address 'NanoHttpd Shutdown' on the 'N/A' port 
-```
-
+> This application opens a Socket and connects it to the remote address 'Lfi/iki/elonen/NanoHTTPD$ResponseException;' on the 'N/A' port 
+> This application opens a Socket and connects it to the remote address 'NanoHttpd Shutdown' on the 'N/A' port 
 **Code execution**
-```
-This application loads a native library: 'NativeScript'
-This application executes a UNIX command containing this argument: '2'
-```
-
+> This application loads a native library: 'NativeScript'
+> This application executes a UNIX command containing this argument: '2'
 
 
 ## User ratings and reviews
