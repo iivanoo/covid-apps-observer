@@ -191,7 +191,7 @@ def fill_permissions(app, androguard, template):
         except KeyError:
             description = '-'
             protection_level = '-'
-        permissions_table = permissions_table + ' | **' + p + '** | ' + protection_level + ' | ' + description + ' |\n' 
+        permissions_table = permissions_table + ' **' + p + '** | ' + protection_level + ' | ' + description + ' \n' 
 
     placeholders = {
         'PERMISSIONS_TABLE': permissions_table

@@ -65,33 +65,33 @@ In the following we report the complete list of the permissions requested by the
 
 | **Permission** | **Protection level** | **Description** | 
 |---|---|---|
- | **android.permission.ACCESS_NETWORK_STATE** | Normal | Allows applications to access information about networks. |
- | **android.permission.CAMERA** | <p class="text-red mb-2">:warning:Dangerous</p> | Required to be able to access the camera device. |
- | **android.permission.FLASHLIGHT** | - | - |
- | **android.permission.INTERNET** | Normal | Allows applications to open network sockets. |
- | **android.permission.MODIFY_AUDIO_SETTINGS** | Normal | Allows an application to modify global audio settings. |
- | **android.permission.READ_EXTERNAL_STORAGE** | <p class="text-red mb-2">:warning:Dangerous</p> | Allows an application to read from external storage. |
- | **android.permission.RECEIVE_BOOT_COMPLETED** | Normal | Allows an application to receive the Intent.ACTION_BOOT_COMPLETED that is broadcast after the system finishes booting. |
- | **android.permission.RECORD_AUDIO** | <p class="text-red mb-2">:warning:Dangerous</p> | Allows an application to record audio. |
- | **android.permission.USE_FULL_SCREEN_INTENT** | Normal | Required for apps targeting Build.VERSION_CODES.Q that want to use notification full screen intents. |
- | **android.permission.VIBRATE** | Normal | Allows access to the vibrator. |
- | **android.permission.WAKE_LOCK** | Normal | Allows using PowerManager WakeLocks to keep processor from sleeping or screen from dimming. |
- | **android.permission.WRITE_EXTERNAL_STORAGE** | <p class="text-red mb-2">:warning:Dangerous</p> | Allows an application to write to external storage. |
- | **android.webkit.PermissionRequest** | - | - |
- | **com.google.android.c2dm.permission.RECEIVE** | - | - |
- | **com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE** | - | - |
+ **android.permission.ACCESS_NETWORK_STATE** | Normal | Allows applications to access information about networks. 
+ **android.permission.CAMERA** | <p class="text-red mb-2">:warning:Dangerous</p> | Required to be able to access the camera device. 
+ **android.permission.FLASHLIGHT** | - | - 
+ **android.permission.INTERNET** | Normal | Allows applications to open network sockets. 
+ **android.permission.MODIFY_AUDIO_SETTINGS** | Normal | Allows an application to modify global audio settings. 
+ **android.permission.READ_EXTERNAL_STORAGE** | <p class="text-red mb-2">:warning:Dangerous</p> | Allows an application to read from external storage. 
+ **android.permission.RECEIVE_BOOT_COMPLETED** | Normal | Allows an application to receive the Intent.ACTION_BOOT_COMPLETED that is broadcast after the system finishes booting. 
+ **android.permission.RECORD_AUDIO** | <p class="text-red mb-2">:warning:Dangerous</p> | Allows an application to record audio. 
+ **android.permission.USE_FULL_SCREEN_INTENT** | Normal | Required for apps targeting Build.VERSION_CODES.Q that want to use notification full screen intents. 
+ **android.permission.VIBRATE** | Normal | Allows access to the vibrator. 
+ **android.permission.WAKE_LOCK** | Normal | Allows using PowerManager WakeLocks to keep processor from sleeping or screen from dimming. 
+ **android.permission.WRITE_EXTERNAL_STORAGE** | <p class="text-red mb-2">:warning:Dangerous</p> | Allows an application to write to external storage. 
+ **android.webkit.PermissionRequest** | - | - 
+ **com.google.android.c2dm.permission.RECEIVE** | - | - 
+ **com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE** | - | - 
 
 
 ## Mentioned servers
 
 | **Server** | **Registrant** | **Registrant country** | **Creation date** | 
 |---|---|---|---|
- | googlesyndication.com | Google LLC | :us: US|2003-01-21 06:17:24 |
- | google.com | - | -|1997-09-15 04:00:00 |
- | app-measurement.com | - | -|2015-06-19 20:13:31 |
- | googleadservices.com | - | -|2003-06-19 16:34:53 |
- | color.org | International Color Consortium | :us: US|1995-12-12 05:00:00 |
- | regione.lazio.it | Regione Lazio | :it: IT|1996-12-17 00:00:00 |
+ | googlesyndication.com | Google LLC | :us: US | 2003-01-21 06:17:24 |
+ | google.com | - | - | 1997-09-15 04:00:00 |
+ | app-measurement.com | - | - | 2015-06-19 20:13:31 |
+ | googleadservices.com | - | - | 2003-06-19 16:34:53 |
+ | color.org | International Color Consortium | :us: US | 1995-12-12 05:00:00 |
+ | regione.lazio.it | Regione Lazio | :it: IT | 1996-12-17 00:00:00 |
 
 
 ## Security analysis 
