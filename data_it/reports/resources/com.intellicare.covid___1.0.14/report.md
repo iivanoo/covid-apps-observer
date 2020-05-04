@@ -55,6 +55,8 @@ In the following we report the main information provided by the development team
 | **Minimum supported Android version**  | Marshmallow, version 6.0 (API level 23) |
 | **Maximum target Android version**  | - |
 
+The larger the difference between the minimum and maximum supported Android versions, the better. A larger difference means a wider audience. For example, old phones have a very low Android version, so a high minimum supported Android version means that the app cannot be used by users with old phones, thus leading to accessibility problems. 
+
 ## Requested permissions
 
 In the following we report the complete list of the permissions requested by the app. 
@@ -62,17 +64,17 @@ In the following we report the complete list of the permissions requested by the
 | **Permission** | **Protection level** | **Description** | 
 |-------------------------|-------------------------|-------------------------|
  **android.permission<br>ACCESS_NETWORK_STATE** | Normal | Allows applications to access information about networks. 
- **android.permission<br>CAMERA** | <p style="color: red;">:warning:Dangerous</p> | Required to be able to access the camera device. 
+ **android.permission<br>CAMERA** | :warning:**Dangerous** | Required to be able to access the camera device. 
  **android.permission<br>FLASHLIGHT** | - | - 
  **android.permission<br>INTERNET** | Normal | Allows applications to open network sockets. 
  **android.permission<br>MODIFY_AUDIO_SETTINGS** | Normal | Allows an application to modify global audio settings. 
- **android.permission<br>READ_EXTERNAL_STORAGE** | <p style="color: red;">:warning:Dangerous</p> | Allows an application to read from external storage. 
+ **android.permission<br>READ_EXTERNAL_STORAGE** | :warning:**Dangerous** | Allows an application to read from external storage. 
  **android.permission<br>RECEIVE_BOOT_COMPLETED** | Normal | Allows an application to receive the Intent.ACTION_BOOT_COMPLETED that is broadcast after the system finishes booting. 
- **android.permission<br>RECORD_AUDIO** | <p style="color: red;">:warning:Dangerous</p> | Allows an application to record audio. 
+ **android.permission<br>RECORD_AUDIO** | :warning:**Dangerous** | Allows an application to record audio. 
  **android.permission<br>USE_FULL_SCREEN_INTENT** | Normal | Required for apps targeting Build.VERSION_CODES.Q that want to use notification full screen intents. 
  **android.permission<br>VIBRATE** | Normal | Allows access to the vibrator. 
  **android.permission<br>WAKE_LOCK** | Normal | Allows using PowerManager WakeLocks to keep processor from sleeping or screen from dimming. 
- **android.permission<br>WRITE_EXTERNAL_STORAGE** | <p style="color: red;">:warning:Dangerous</p> | Allows an application to write to external storage. 
+ **android.permission<br>WRITE_EXTERNAL_STORAGE** | :warning:**Dangerous** | Allows an application to write to external storage. 
  **android.webkit<br>PermissionRequest** | - | - 
  **com.google.android.c2dm.permission<br>RECEIVE** | - | - 
  **com.google.android.finsky.permission<br>BIND_GET_INSTALL_REFERRER_SERVICE** | - | - 

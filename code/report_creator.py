@@ -8,6 +8,7 @@ import matplotlib.pyplot as plt
 from PIL import Image
 import numpy as np
 import nltk
+from datetime import datetime
 import pycountry
 from nltk.corpus import stopwords
 import configuration as c
@@ -197,7 +198,7 @@ def fill_permissions(app, androguard, template):
             description = permissions[p]['description']
             protection_level = permissions[p]['protection_level'].capitalize().replace('|', ' - ')
             if protection_level == 'Dangerous':
-                protection_level = '<p style="color: red;">:warning:' + protection_level + '</p>'
+                protection_level = ':warning:**' + protection_level + '**'
         except KeyError:
             description = '-'
             protection_level = '-'
@@ -422,3 +423,38 @@ def create(app):
             report_file.write(template.replace('<<<REBASE_ME>>>', ''))
         return template
     return ''
+
+# Creates the report about the app
+def create_global_report(app_reports):
+
+    print('Generating the global report...')
+
+    with open('./report_templates/global_template.md', 'r') as template_file:
+        template = template_file.read()
+
+        placeholders = {
+            # '5_STAR_WORDCLOUD': generate_word_cloud(5, reviews, app, report_folder),
+            # '4_STAR_WORDCLOUD': generate_word_cloud(4, reviews, app, report_folder),
+            # '3_STAR_WORDCLOUD': generate_word_cloud(3, reviews, app, report_folder),
+            # '2_STAR_WORDCLOUD': generate_word_cloud(2, reviews, app, report_folder),
+            # '1_STAR_WORDCLOUD': generate_word_cloud(1, reviews, app, report_folder),
+            # '5_STAR_REVIEWS': get_reviews(5, 10, reviews),
+            # '4_STAR_REVIEWS': get_reviews(4, 10, reviews),
+            # '3_STAR_REVIEWS': get_reviews(3, 10, reviews),
+            # '2_STAR_REVIEWS': get_reviews(2, 10, reviews),
+            # '1_STAR_REVIEWS': get_reviews(1, 10, reviews),
+        }
+
+        placeholders = fill_voids(placeholders)
+        fill_placeholders(placeholders, template)
+
+        now = datetime.now()
+        timestamp = str(now.year) + '_' + str(now.month) + '_' + str(now.day)
+
+        file_path = c.REPORTS_PATH + 'report_' + timestamp + '.md'
+
+        with open(file_path, "w") as report_file:
+            new_base = '.' # TODO to check
+            report_file.write(template.replace('<<<REBASE_ME>>>', new_base))
+        
+        return file_path

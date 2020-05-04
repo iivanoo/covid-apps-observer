@@ -30,8 +30,16 @@ def create_report():
     
     apps = json.load(open(c.APPS_PATH, 'r'))
 
+    app_reports = list()
+    
+    # We firstly create the internal reports, one for each analyzed app (and we accumulate of their contents)
     for a in apps:
-        report_creator.create(a)
+        app_reports.append(report_creator.create(a))
+    
+    # We create the final gloabl report, which will also include each single app report
+    global_report_path = report_creator.create_global_report(app_reports)
+
+    print('Congratulations, the analysis is over! The global report is available here: ' + global_report_path)
 
 def main():
     # Argument definition and management

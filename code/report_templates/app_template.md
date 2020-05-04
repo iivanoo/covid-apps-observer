@@ -52,6 +52,8 @@ In the following we report the main information provided by the development team
 | **Minimum supported Android version**  | <<<MIN_SDK>>> |
 | **Maximum target Android version**  | <<<MAX_SDK>>> |
 
+The larger the difference between the minimum and maximum supported Android versions, the better. A larger difference means a wider audience. For example, old phones have a very low Android version, so a high minimum supported Android version means that the app cannot be used by users with old phones, thus leading to accessibility problems. 
+
 ## Requested permissions
 
 In the following we report the complete list of the permissions requested by the app. 

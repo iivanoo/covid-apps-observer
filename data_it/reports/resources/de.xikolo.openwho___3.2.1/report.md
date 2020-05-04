@@ -71,6 +71,8 @@ In the following we report the main information provided by the development team
 | **Minimum supported Android version**  | Lollipop, version 5.0 (API level 21) |
 | **Maximum target Android version**  | - |
 
+The larger the difference between the minimum and maximum supported Android versions, the better. A larger difference means a wider audience. For example, old phones have a very low Android version, so a high minimum supported Android version means that the app cannot be used by users with old phones, thus leading to accessibility problems. 
+
 ## Requested permissions
 
 In the following we report the complete list of the permissions requested by the app. 
@@ -81,10 +83,10 @@ In the following we report the complete list of the permissions requested by the
  **android.permission<br>ACCESS_WIFI_STATE** | Normal | Allows applications to access information about Wi-Fi networks. 
  **android.permission<br>FOREGROUND_SERVICE** | Normal | Allows a regular application to use Service.startForeground. 
  **android.permission<br>INTERNET** | Normal | Allows applications to open network sockets. 
- **android.permission<br>READ_EXTERNAL_STORAGE** | <p style="color: red;">:warning:Dangerous</p> | Allows an application to read from external storage. 
+ **android.permission<br>READ_EXTERNAL_STORAGE** | :warning:**Dangerous** | Allows an application to read from external storage. 
  **android.permission<br>RECEIVE_BOOT_COMPLETED** | Normal | Allows an application to receive the Intent.ACTION_BOOT_COMPLETED that is broadcast after the system finishes booting. 
  **android.permission<br>WAKE_LOCK** | Normal | Allows using PowerManager WakeLocks to keep processor from sleeping or screen from dimming. 
- **android.permission<br>WRITE_EXTERNAL_STORAGE** | <p style="color: red;">:warning:Dangerous</p> | Allows an application to write to external storage. 
+ **android.permission<br>WRITE_EXTERNAL_STORAGE** | :warning:**Dangerous** | Allows an application to write to external storage. 
  **com.google.android.c2dm.permission<br>RECEIVE** | - | - 
  **com.google.android.finsky.permission<br>BIND_GET_INSTALL_REFERRER_SERVICE** | - | - 
 

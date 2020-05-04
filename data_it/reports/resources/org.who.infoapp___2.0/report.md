@@ -63,6 +63,8 @@ Switzerland](https://www.google.com/maps/search/Avenu%20Appia%2020%201211%20Gene
 | **Minimum supported Android version**  | Jelly Bean, version 4.2.x (API level 17) |
 | **Maximum target Android version**  | - |
 
+The larger the difference between the minimum and maximum supported Android versions, the better. A larger difference means a wider audience. For example, old phones have a very low Android version, so a high minimum supported Android version means that the app cannot be used by users with old phones, thus leading to accessibility problems. 
+
 ## Requested permissions
 
 In the following we report the complete list of the permissions requested by the app. 
@@ -70,8 +72,8 @@ In the following we report the complete list of the permissions requested by the
 | **Permission** | **Protection level** | **Description** | 
 |-------------------------|-------------------------|-------------------------|
  **android.permission<br>INTERNET** | Normal | Allows applications to open network sockets. 
- **android.permission<br>READ_EXTERNAL_STORAGE** | <p style="color: red;">:warning:Dangerous</p> | Allows an application to read from external storage. 
- **android.permission<br>WRITE_EXTERNAL_STORAGE** | <p style="color: red;">:warning:Dangerous</p> | Allows an application to write to external storage. 
+ **android.permission<br>READ_EXTERNAL_STORAGE** | :warning:**Dangerous** | Allows an application to read from external storage. 
+ **android.permission<br>WRITE_EXTERNAL_STORAGE** | :warning:**Dangerous** | Allows an application to write to external storage. 
 
 
 ## Mentioned servers
