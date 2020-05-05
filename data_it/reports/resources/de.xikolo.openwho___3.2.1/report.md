@@ -182,7 +182,7 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 -
 </p>
 
--
+No recent reviews available with 4 stars.
 
 #### 3-star reviews
 
@@ -190,7 +190,7 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 -
 </p>
 
--
+No recent reviews available with 3 stars.
 
 #### 2-star reviews
 
@@ -198,7 +198,7 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 -
 </p>
 
--
+No recent reviews available with 2 stars.
 
 #### 1-star reviews
 

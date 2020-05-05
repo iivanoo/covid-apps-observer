@@ -331,6 +331,8 @@ def get_reviews(stars, amount, reviews):
             count = count + 1
             result = result + '> ' + reviews[i]['content'].replace('**', '\*\*') + '<br> :date: __' + reviews[i]['at'] + '__\n\n'
         i = i + 1
+    if count == 0:
+        result = 'No recent reviews available with ' + str(stars) + ' stars.'
     return result
 
 # Generates a word cloud of the most used terms in the reviews with "stars" stars
