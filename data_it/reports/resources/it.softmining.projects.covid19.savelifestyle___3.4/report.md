@@ -5,7 +5,7 @@ Analyzed with [covid-apps-observer](http://github.com/covid-apps-observer) proje
 
 <img src="icon.png" alt="SM_Covid19 icon" width="80"/>
 
-## App overview
+## App overview {it.softmining.projects.covid19.savelifestyle-app-overview}
 | | |
 |-------------------------|-------------------------| 
 | **Name**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  | SM_Covid19 |

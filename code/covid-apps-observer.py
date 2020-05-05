@@ -37,7 +37,7 @@ def create_report(author_name, author_email):
         app_reports[a['id'] + c.SEPARATOR + a['latest_crawled_version']] = report_creator.create(a)
     
     # We create the final gloabl report, which will also include each single app report
-    global_report_path = report_creator.create_global_report(app_reports, author_name, author_email)
+    global_report_path = report_creator.create_global_report(apps, app_reports, author_name, author_email)
 
     print('Congratulations, the analysis is over! The global report is available here: ' + global_report_path)
 

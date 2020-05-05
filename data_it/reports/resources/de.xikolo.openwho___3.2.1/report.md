@@ -5,7 +5,7 @@ Analyzed with [covid-apps-observer](http://github.com/covid-apps-observer) proje
 
 <img src="icon.png" alt="OpenWHO: Knowledge for Health Emergencies icon" width="80"/>
 
-## App overview
+## App overview {de.xikolo.openwho-app-overview}
 | | |
 |-------------------------|-------------------------| 
 | **Name**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  | OpenWHO: Knowledge for Health Emergencies |

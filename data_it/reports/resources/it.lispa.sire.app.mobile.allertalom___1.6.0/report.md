@@ -5,7 +5,7 @@ Analyzed with [covid-apps-observer](http://github.com/covid-apps-observer) proje
 
 <img src="icon.png" alt="allertaLOM icon" width="80"/>
 
-## App overview
+## App overview {it.lispa.sire.app.mobile.allertalom-app-overview}
 | | |
 |-------------------------|-------------------------| 
 | **Name**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  | allertaLOM |

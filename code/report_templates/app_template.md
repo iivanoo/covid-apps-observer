@@ -5,7 +5,7 @@ Analyzed with [covid-apps-observer](http://github.com/covid-apps-observer) proje
 
 <img src="<<<ICON_PATH>>>" alt="<<<APP_TITLE>>> icon" width="80"/>
 
-## App overview
+## App overview {<<<APP_ID>>>-app-overview}
 | | |
 |-------------------------|-------------------------| 
 | **Name**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  | <<<APP_TITLE>>> |

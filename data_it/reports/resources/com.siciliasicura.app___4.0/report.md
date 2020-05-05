@@ -5,7 +5,7 @@ Analyzed with [covid-apps-observer](http://github.com/covid-apps-observer) proje
 
 <img src="icon.png" alt="Sicilia Si Cura icon" width="80"/>
 
-## App overview
+## App overview {com.siciliasicura.app-app-overview}
 | | |
 |-------------------------|-------------------------| 
 | **Name**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  | Sicilia Si Cura |
