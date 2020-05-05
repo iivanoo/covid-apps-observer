@@ -431,7 +431,7 @@ def generate_apps_toc(apps):
 
     for a in apps:
         app_name = c.ger_raw_data(a, 'metadata')['title']
-        app_handle = re.sub(r"[,;@#?!&$]+\ *", '', app_name).strip().lower().replace(' ', '-')
+        app_handle = re.sub(r"[,:;@#?!&$]+", '', app_name).strip().lower().replace(' ', '-')
         result = result + '- [' + app_name + '](#' + app_handle + ')\n' 
 
     return result
