@@ -58,7 +58,7 @@ def main():
     ssl._create_default_https_context = ssl._create_unverified_context
 
 
-    # collect_data()
+    collect_data()
     create_report(options.author_name, options.author_email)
 
 if __name__ == "__main__":

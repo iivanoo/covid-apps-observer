@@ -436,6 +436,7 @@ def generate_apps_toc(apps):
 
     return result
 
+# Generates the summary table at the beginning of the global report
 def get_analysed_apps(apps):
     result = ''
 
