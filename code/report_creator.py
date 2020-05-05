@@ -460,7 +460,7 @@ def create_global_report(apps, app_reports, author_name, author_email):
         # We fetch the contents of the requirements.txt file so to include them in the credits at the end of the report
         with open('requirements.txt', 'r') as req_file:
             requirements_contents = req_file.read()
-            requirements_contents = '- ' + requirements_contents.replace('\n', '\n- ')
+            requirements_contents = '- ' + requirements_contents.replace('\n', '\n- ')[:-2]
 
             placeholders = {
                 'AUTHOR_NAME': author_name,
