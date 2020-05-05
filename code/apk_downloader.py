@@ -64,7 +64,7 @@ def m_apkpure_com(package_id):
 def apk_is_valid(_apk_name):
     with open(os.devnull, "w") as null:
         try:
-            error_state = call(["aapt", "dump", "permissions", _apk_name], stdout=null)
+            error_state = call(["aapt", "dump", "permissions", _apk_name], stdout=null, stderr=null)
             if error_state != 0:
                 print("It seems we downloaded an XAPK, we unpack it now...")
         except:

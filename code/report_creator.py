@@ -340,7 +340,7 @@ def generate_word_cloud(stars, reviews, app, report_folder):
     text_to_plot = ''
     # We concatenate all the reviews with the same number of stars into a single string 
     for r in reviews:
-        if(r['score'] == stars):
+        if r['score'] == stars and not r['content'] is None:
             count = count + 1
             text_to_plot = text_to_plot + ' ' + r['content']
 
