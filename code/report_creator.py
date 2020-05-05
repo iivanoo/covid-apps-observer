@@ -431,37 +431,10 @@ def generate_apps_toc(apps):
 
     for a in apps:
         app_name = c.ger_raw_data(a, 'metadata')['title']
-        app_handle = a['id']
-
-        inner_toc = '\t* [App overview](#app-overview)\n'
-        inner_toc = inner_toc + '\t\t* [App description](#app-description)\n'
-
-        inner_toc = inner_toc + '\t\t* [User interface](#' + app_handle + '-user-interface)\n'
-        inner_toc = inner_toc + '\t* [Development team](#' + app_handle + '-development-team)\n'
-        inner_toc = inner_toc + '\t* [Android support](#' + app_handle + '-android-support)\n'
-        inner_toc = inner_toc + '\t* [Requested permissions](#' + app_handle + '-requested-permissions)\n'
-        inner_toc = inner_toc + '\t* [Mentioned servers](#' + app_handle + '-mentioned-servers)\n'
-        inner_toc = inner_toc + '\t* [Security analysis](#' + app_handle + '-security-analysis)\n'
-        inner_toc = inner_toc + '\t* [User ratings and reviews](#' + app_handle + '-User-ratings-and-reviews)\n'
-        inner_toc = inner_toc + '\t\t* [Ratings](#' + app_handle + '-ratings)\n'
-        inner_toc = inner_toc + '\t\t* [Reviews](#' + app_handle + '-reviews)\n'
-
-        result = result + '- [' + app_name + '](#' + app_handle + ')\n' + inner_toc 
+        app_handle = re.sub(r"[,;@#?!&$]+\ *", '', app_name).strip().lower().replace(' ', '-')
+        result = result + '- [' + app_name + '](#' + app_handle + ')\n' 
 
     return result
-
-# - [Install](#install)
-#     * [App overview](#app-overview)
-#         * [App description](#app-description)
-#         * [User interface](#user-interface)
-#     * [Development team](#development-team)
-#     * [Android support](#android-support)
-#     * [Requested permissions](#requested-permissions)
-#     * [Mentioned servers](#mentioned-servers)
-#     * [Security analysis](#security-analysis)
-#     * [User ratings and reviews](#User-ratings-and-reviews)
-#         * [Ratings](#ratings)
-#         * [Reviews](#reviews)
 
 # Creates the report about the app
 def create_global_report(apps, app_reports, author_name, author_email):
