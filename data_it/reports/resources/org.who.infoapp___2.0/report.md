@@ -147,7 +147,7 @@ The WHO Info app has been installed by more than **100000** times. At this time,
 #### 3-star reviews
 
 <p align="center">
--
+
 </p>
 
 No recent reviews available with 3 stars.
@@ -155,7 +155,7 @@ No recent reviews available with 3 stars.
 #### 2-star reviews
 
 <p align="center">
--
+
 </p>
 
 No recent reviews available with 2 stars.

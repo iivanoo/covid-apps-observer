@@ -181,7 +181,7 @@ The Sicilia Si Cura app has been installed by more than **1000** times. At this 
 #### 2-star reviews
 
 <p align="center">
--
+
 </p>
 
 No recent reviews available with 2 stars.

@@ -59,8 +59,7 @@ def is_void(entry):
     return (entry is None) or (entry == '') or (entry == 'None')
 
 # Returns the same placeholders dictionary, but it substitues None or other null values with a fixed replacement string
-def fill_voids(placeholders):
-    replacement = '-'
+def fill_voids(placeholders, replacement='-'):
     for p in placeholders:
         if is_void(placeholders[p]):
             placeholders[p] = replacement
@@ -381,7 +380,7 @@ def fill_reviews(app, metadata, reviews, template, report_folder):
         '1_STAR_REVIEWS': get_reviews(1, 10, reviews),
     }
 
-    placeholders = fill_voids(placeholders)
+    placeholders = fill_voids(placeholders, '')
     return fill_placeholders(placeholders, template)
 
 # Creates the report about the app
