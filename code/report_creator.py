@@ -428,12 +428,22 @@ def create(app):
 # Iterates over all analyzed apps and generates their corresponding portion of TOC
 def generate_apps_toc(apps):
     result = ''
-    result = result
 
     for a in apps:
         app_name = c.ger_raw_data(a, 'metadata')['title']
         app_handle = re.sub(r"[,:;@#?!&$]+", '', app_name).strip().lower().replace(' ', '-')
         result = result + '- [' + app_name + '](#' + app_handle + ')\n' 
+
+    return result
+
+def get_analysed_apps(apps):
+    result = ''
+
+    for a in apps:
+        app_data = c.ger_raw_data(a, 'metadata')
+        app_name = app_data['title']
+        app_icon_path = 'resources/' + a['id'] + c.SEPARATOR + a['latest_crawled_version'] + '/icon.png'
+        result = result + '| <img src="' + app_icon_path + '" alt="' + app_name + ' icon" width="40"/> | ' + app_name + '\n' 
 
     return result
 
@@ -467,7 +477,8 @@ def create_global_report(apps, app_reports, author_name, author_email):
                 'CREATED_AT': timestamp.replace('_', '/'),
                 'TOC': generate_apps_toc(apps),
                 'APPS_REPORTS': rebased_app_reports,
-                'REQUIREMENTS_CONTENTS': requirements_contents
+                'REQUIREMENTS_CONTENTS': requirements_contents,
+                'ANALYSED_APPS': get_analysed_apps(apps)
             }
 
             placeholders = fill_voids(placeholders)
