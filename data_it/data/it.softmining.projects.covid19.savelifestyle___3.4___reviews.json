@@ -1,5 +1,49 @@
 [
     {
+        "userName": "bass boosted music",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhcnXez-0xY39vFSifmoi3vX0Nywk5YdM9tjQFT",
+        "content": "Ottima contro il virus se la installi guarisci",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2020-05-05 14:26:52",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "userName": "Antonio antonio",
+        "userImage": "https://lh3.googleusercontent.com/-rg_15MH8dEM/AAAAAAAAAAI/AAAAAAAAAtk/AAKWJJNHSCLVycvo9QdKUlZM7706TaBLjg/photo.jpg",
+        "content": "Cancellata. Serve solo a sapere la mia posizione",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.4",
+        "at": "2020-05-05 13:57:16",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "userName": "michele baratto",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gil0yDzGa4-_-k3sgejBbiOosroaD7YW-6ItenALg",
+        "content": "Invadente e vengono segnalati bug da antivirus disintallata",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2020-05-05 11:23:25",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "userName": "Franco Moretti",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gjc_4RqnTeVcn3-iQqniiYUEoNmUJXIYzhcYWn1",
+        "content": "Faccio l'antennista e mi darebbe pi\u00f9 sicurezza sapere che tutti usano una app. come questa",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.4",
+        "at": "2020-05-05 08:50:51",
+        "replyContent": "Ciao Franco, quando la modalit\u00e0 all'aperto \u00e8 attiva, viene eseguito un wakeup di alcuni istanti sul dispositivo per permettergli di aumentare la velocit\u00e0 di rilevazione delle altre App intorno. Stiamo collaborando con KNOX per ridurre al minimo questo comportamento. Il wakeup viene disattivato nel momento in cui disattivi la modalit\u00e0 all'aperto.",
+        "repliedAt": "2020-05-04 14:56:26"
+    },
+    {
         "userName": "Fabio Verdinelli",
         "userImage": "https://lh3.googleusercontent.com/-6RjDRb28yX4/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJOG4rzfdwcIroU9XUhJD935axD47A/photo.jpg",
         "content": "Consuma troppa batteria. Sarebbe interessante avere qualche informazione in pi\u00f9 da consultare, se si entra in contatto con qualcuno, statistiche di utilizzo degli altri utenti etc... Ho uno Xiao Mi Note 10",
@@ -20,17 +64,6 @@
         "at": "2020-05-04 14:42:45",
         "replyContent": null,
         "repliedAt": null
-    },
-    {
-        "userName": "Franco Moretti",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gjc_4RqnTeVcn3-iQqniiYUEoNmUJXIYzhcYWn1",
-        "content": "Inserendo la modalit\u00e0 all'aperto si riaccende il display",
-        "score": 3,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "3.4",
-        "at": "2020-05-04 14:36:31",
-        "replyContent": "Ciao Franco, quando la modalit\u00e0 all'aperto \u00e8 attiva, viene eseguito un wakeup di alcuni istanti sul dispositivo per permettergli di aumentare la velocit\u00e0 di rilevazione delle altre App intorno. Stiamo collaborando con KNOX per ridurre al minimo questo comportamento. Il wakeup viene disattivato nel momento in cui disattivi la modalit\u00e0 all'aperto.",
-        "repliedAt": "2020-05-04 14:56:26"
     },
     {
         "userName": "Michele Della Guardia",
@@ -367,7 +400,7 @@
         "userImage": "https://lh3.googleusercontent.com/-CqXihop0sdM/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJOfsrQKwafTLtLvOsbGWshlrldFiA/photo.jpg",
         "content": "Dovrebbero installarla tutti. App completamente anonima, non raccoglie nessun dato privacy sensibile. Non consuma affatto batteria nonostante l'attivazione del GPS e del traffico dati. Aiuta a monitorare il livello di rischio di contagio a cui si \u00e8 sottoposti, eventuale sintomatologia e contiene utili consigli comportamentali per contenere la pandemia. Attualmente \u00e8 in versione Beta cio\u00e8 in via sperimentale in attesa di passare ad una versione definitiva. Bravo il team di sviluppatori. Voto 10!",
         "score": 5,
-        "thumbsUpCount": 17,
+        "thumbsUpCount": 18,
         "reviewCreatedVersion": "3.1",
         "at": "2020-04-27 12:49:25",
         "replyContent": null,
@@ -433,7 +466,7 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gi5OJ_6gJMMFLnhxWOz47mRP8V1s56Ul1J37flB2w",
         "content": "Interessante, soprattutto ora che disattivando il Bt magari dentro casa, non si \u00e8 pi\u00f9 avvisati costantemente di riattivarlo. Ovviamente un'app che dovrebbero scaricare tutti. A tal proposito sarebbe interessante sapere dall'app il numero di device attivi nella propria citt\u00e0 o provincia, in modo da poterne valutare la reale efficacia. Inoltre vorrei sapere a cosa serve la modalit\u00e0 all'aperto. Grazie",
         "score": 4,
-        "thumbsUpCount": 25,
+        "thumbsUpCount": 27,
         "reviewCreatedVersion": "3.1",
         "at": "2020-04-26 14:21:08",
         "replyContent": null,
@@ -532,7 +565,7 @@
         "userImage": "https://lh3.googleusercontent.com/-ZT3vVuq91po/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJOs4RpIuJxvfw5Dje9xbwSQguPYlA/photo.jpg",
         "content": "Sembra funzionare bene, ma da quando ho installato l'app ogni 5 minuti circa lo schermo si accende da solo e rimane acceso per 3 secondi, per poi spegnersi. Temo che non sia ottimale per la batteria.",
         "score": 4,
-        "thumbsUpCount": 1,
+        "thumbsUpCount": 2,
         "reviewCreatedVersion": "3.0",
         "at": "2020-04-25 10:32:28",
         "replyContent": null,
@@ -1071,7 +1104,7 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gg5GPseo5AX3K9feW4W7rOQF4F3R3l1JDTS9-tlVQ",
         "content": "Ottima iniziativa e ottima app. Funziona perfettamente e non impatta minimamente sulle prestazioni del telefono. Funzionamento trasparente e assolutamente intuitivo anche per chi \u00e8 poco avvezzo alla tecnologia. Speriamo che il progetto di questa app alternativa resti in piedi e funzionante per il futuro. Come sempre l'iniziativa privata arriva prima di quella pubblica. Grazie per il vostro lavoro.",
         "score": 5,
-        "thumbsUpCount": 29,
+        "thumbsUpCount": 30,
         "reviewCreatedVersion": "2.6",
         "at": "2020-04-21 14:12:38",
         "replyContent": null,
@@ -1107,8 +1140,8 @@
         "thumbsUpCount": 1,
         "reviewCreatedVersion": "2.6",
         "at": "2020-04-21 12:37:04",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ciao Claudio, dovrebbe essere tutto risolto nella build 3.3",
+        "repliedAt": "2020-05-04 18:30:19"
     },
     {
         "userName": "Vincenzo Simeone",
@@ -1731,7 +1764,7 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhKzVZyNKKlHnw4bkJeL1awZVD8_8L92m8p5B94",
         "content": "L'idea \u00e8 ottima. Ma che garanzie ha chi \"incrocia\" me, visto che non avendomi fatto il tampone non risulto n\u00e9 positivo n\u00e9 negativo? Cos\u00ec pure per quelli con cui vengo in contatto io: d\u00e0 garanzie solo quando si viene in contatto con gente a cui \u00e8 stato fatto un tampone. E poi, ovviamente, vale quando si incrocia qualcuno che ha installata l'app.",
         "score": 5,
-        "thumbsUpCount": 142,
+        "thumbsUpCount": 145,
         "reviewCreatedVersion": "2.4",
         "at": "2020-04-15 18:18:05",
         "replyContent": "Grazie per aver scaricato SM-COVID-19. L'obiettivo \u00e8 ricreare la rete dei contatti in modo da poter intervenire in modo tempestivo e puntuale nel caso di segnalazione della positivit\u00e0 di un utente della rete. Per aggiornamenti e ulteriori informazioni la reinvio al sito www.smcovid19.org. Il team SM-COVID-19",
@@ -1918,7 +1951,7 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gj4D2R5f34kxU3-jU1OpTg_2E2fDv1vfWGNHB-IoA",
         "content": "Ottima e semplice, ci vorrebbe un collegamento con la sede della protezione civile nella provincia in cui si usa l'applicazione, ed essere geolocalizzati in continuo. Cos\u00ec nessuno pu\u00f2 fare il furbo, e solo chi ha l'autorizzazione prefettizia per lavorare viene escluso. Questa applicazione dovrebbe essere obbligatoria, ma tanto si sa, siamo italiani, e ognuno pensa per s\u00e9 e non agli altri.",
         "score": 5,
-        "thumbsUpCount": 36,
+        "thumbsUpCount": 38,
         "reviewCreatedVersion": "2.3",
         "at": "2020-04-13 09:15:06",
         "replyContent": "Grazie per aver scaricato SM-COVID-19. \nI tuoi suggerimenti sono ben accetti. Stiamo infatti collaborando con le autorit\u00e0 competenti per integrare nuove funzionalit\u00e0. A breve rilasciamo una versione aggiornata con nuova grafica. \nStay tuned!\nIl team SM-COVID-19",
@@ -1959,7 +1992,7 @@
     },
     {
         "userName": "Andrea Romano",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgjF_ExA3Yw82AIkYxp8sSv6FR0j4WmVCwde9mLFRw",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gjzd7kTIQ0cBufdgIYP085zkjpmcdHFN1oq3Akz1IU",
         "content": "Ottima Interessante e Fatta Bene",
         "score": 5,
         "thumbsUpCount": 6,

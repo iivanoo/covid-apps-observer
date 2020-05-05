@@ -181,6 +181,8 @@ The SM_Covid19 app has been installed by more than **10000** times. At this time
 <img src="5_star_reviews_wordcloud.png" alt="it.softmining.projects.covid19.savelifestyle 5 reviews"/>
 </p>
 
+> Ottima contro il virus se la installi guarisci<br> :date: __2020-05-05 14:26:52__
+
 > Mi pare utile, ottima, quando ci avviciniamo a una persona che ha il virus ci dovrebbe squillare un allarme visto che ho questa App. Istallata sul cell. Oppura come fa a segnalare se una persona ha il virus?ma oltre a questa App. Ci sarà una migliore? Come mi è sembrato di capire?grazie e buon proseguimento di lavoro<br> :date: __2020-05-04 14:42:45__
 
 > Versione 3.4. Ora funziona bene, ma sembrava, che il bluetooth non funzionasse, ma dopo che associato nuavamente i 2 cell. funziona! Magari se avessi riassociato i cell. dopo aver scaricato l'aggiornamento, magari avrebbe funzionato anche con versioni prima. Io ho un honor 9 lite.<br> :date: __2020-05-04 12:06:30__
@@ -199,8 +201,6 @@ The SM_Covid19 app has been installed by more than **10000** times. At this time
 
 > Buona<br> :date: __2020-04-30 15:06:15__
 
-> Che possa servire ad un miglioramento di vita.<br> :date: __2020-04-30 12:56:42__
-
 
 
 #### 4-star reviews
@@ -208,6 +208,8 @@ The SM_Covid19 app has been installed by more than **10000** times. At this time
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="it.softmining.projects.covid19.savelifestyle 4 reviews"/>
 </p>
+
+> Faccio l'antennista e mi darebbe più sicurezza sapere che tutti usano una app. come questa<br> :date: __2020-05-05 08:50:51__
 
 > Sarebbe importante, al fine di capire quanto utile sia l'uso di questa app, avere anche una traccia anonima di quanti altri utenti con la stessa app abbiamo incontrato.<br> :date: __2020-05-04 13:47:20__
 
@@ -227,8 +229,6 @@ The SM_Covid19 app has been installed by more than **10000** times. At this time
 
 > Ok<br> :date: __2020-04-25 13:22:48__
 
-> Sembra funzionare bene, ma da quando ho installato l'app ogni 5 minuti circa lo schermo si accende da solo e rimane acceso per 3 secondi, per poi spegnersi. Temo che non sia ottimale per la batteria.<br> :date: __2020-04-25 10:32:28__
-
 
 
 #### 3-star reviews
@@ -236,8 +236,6 @@ The SM_Covid19 app has been installed by more than **10000** times. At this time
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="it.softmining.projects.covid19.savelifestyle 3 reviews"/>
 </p>
-
-> Inserendo la modalità all'aperto si riaccende il display<br> :date: __2020-05-04 14:36:31__
 
 > è il primo maggio....dove è la versione senza beta test, cioè operativa?! senza la possibilità di segnalarsi che senso ha l app?<br> :date: __2020-05-01 14:50:45__
 
@@ -257,6 +255,8 @@ The SM_Covid19 app has been installed by more than **10000** times. At this time
 
 > L'ho scaricata ieri e non so se è una mia impressione ma mi sembra che la betteria del telefono si scarichi molti più in fretta.<br> :date: __2020-04-22 11:55:02__
 
+> Buona nelle intenzioni ma ad oggi incompleta e oggettivamente non utile. Non disinstallata ma disattivata. Il perché è presto detto: come si fa ad inserire una positività? Le autorità che dovrebbero farlo hanno una app che permetta di scansionare barcode della app? Ammesso che ce l'abbiano, se uno non porta con se smartphone in ospedale e viene ricoverato per complicanze, non verrà segnato come positivo... Tanti dubbi...<br> :date: __2020-04-22 08:44:30__
+
 
 
 #### 2-star reviews
@@ -264,6 +264,8 @@ The SM_Covid19 app has been installed by more than **10000** times. At this time
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="it.softmining.projects.covid19.savelifestyle 2 reviews"/>
 </p>
+
+> Invadente e vengono segnalati bug da antivirus disintallata<br> :date: __2020-05-05 11:23:25__
 
 > Consuma troppa batteria. Sarebbe interessante avere qualche informazione in più da consultare, se si entra in contatto con qualcuno, statistiche di utilizzo degli altri utenti etc... Ho uno Xiao Mi Note 10<br> :date: __2020-05-04 15:13:22__
 
@@ -283,8 +285,6 @@ The SM_Covid19 app has been installed by more than **10000** times. At this time
 
 > Ho installato. Poi nei permessi, l'ultimo, evidentemente la scelta non era corretta. Ma per cambiare scelta ho dovuto disinstallare l'app e reinstallare. Non un buon inizio...<br> :date: __2020-04-21 14:32:57__
 
-> Io ho scaricato l'app ma onestamente non mi è chiaro come dovrebbe funzionare. Quindi ho disinstallato. Pensavo posse darmi traccia delle zone dove si trovano positivi e quindi dove non andare<br> :date: __2020-04-16 10:31:02__
-
 
 
 #### 1-star reviews
@@ -292,6 +292,8 @@ The SM_Covid19 app has been installed by more than **10000** times. At this time
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="it.softmining.projects.covid19.savelifestyle 1 reviews"/>
 </p>
+
+> Cancellata. Serve solo a sapere la mia posizione<br> :date: __2020-05-05 13:57:16__
 
 > Scarica subito la batteria e se non hai fatto il tampone è inutile. 1 stella e non ho fatto il download<br> :date: __2020-05-04 13:43:55__
 
@@ -310,7 +312,5 @@ The SM_Covid19 app has been installed by more than **10000** times. At this time
 > Attenzione! Nel mio caso dopo l'installazione è comparso un pop-up che mi invita a scaricare una app denominata soft-mining. È un malware??<br> :date: __2020-04-24 16:07:09__
 
 > Puo essere meglio<br> :date: __2020-04-24 15:34:59__
-
-> La sto testando e onestamente non riesco a capire l'utilità, anche perché posso passare da essere un cittadino a essere dottore e non cambia nulla. Da rivedere<br> :date: __2020-04-23 15:03:50__
 
 

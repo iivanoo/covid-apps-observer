@@ -58,7 +58,6 @@ def main():
     # This will allow us to trust SSL certificates from the servers we will interact with (e.g., the one for downloading NLTK stop word)
     ssl._create_default_https_context = ssl._create_unverified_context
 
-
     collect_data()
     create_report(options.author_name, options.author_email, options.report_title)
 

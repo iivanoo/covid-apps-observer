@@ -216,6 +216,8 @@ The Covid-19 app has been installed by more than **10000** times. At this time, 
 <img src="1_star_reviews_wordcloud.png" alt="it.adl.aslroma3.covid19.app 1 reviews"/>
 </p>
 
+> Malware e Spyware<br> :date: __2020-05-05 13:49:42__
+
 > C è si ignoranza È DEDICATA SOLO A CHI POSITIVO CAPRE !<br> :date: __2020-05-04 11:25:06__
 
 > All'inizio sembrava un gioco divertente, simile a plauge inc in cui c'è un virus che deve sterminare il mondo, poi è iniziato anche nella vita reale ed è diventato un po' noioso, soprattutto perché bisogna stare a casa per giocare ed è obbligatorio giocare<br> :date: __2020-05-04 10:55:31__
@@ -233,7 +235,5 @@ The Covid-19 app has been installed by more than **10000** times. At this time, 
 > Ho installato l'ap ma non sono riuscita ad entrare mi dice che le mie credenziali sono errate<br> :date: __2020-04-20 00:18:51__
 
 > Se non riesco ed entrare nella app a cosa serve, metto mail e password, arriva la notifica che le mie credenziali non sono valide<br> :date: __2020-04-19 11:48:29__
-
-> Non ti fa entrare. Fa pena<br> :date: __2020-04-18 19:20:37__
 
 

@@ -49,9 +49,8 @@ def crawl_data(app):
 
     # Save the reviews if they are about an older version of the app 
     reviews_path = c.DATA_PATH + app_suffix_path + c.SEPARATOR + 'reviews.json'
-    if(not os.path.exists(reviews_path)):
-        app_reviews = get_reviews(app)
-        c.save(reviews_path, app_reviews)
+    app_reviews = get_reviews(app)
+    c.save(reviews_path, app_reviews)
     
     # Download the APK if it is new
     apk_path = c.APKS_PATH + app_suffix_path + '.apk'

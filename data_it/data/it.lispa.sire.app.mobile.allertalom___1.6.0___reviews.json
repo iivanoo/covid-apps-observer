@@ -1,14 +1,91 @@
 [
     {
-        "userName": "J G",
-        "userImage": "https://lh3.googleusercontent.com/-edaROMHme5U/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJOrabSSwIvoeBCn5V6dRxchwJlsEw/photo.jpg",
-        "content": "Riesco ad accedere solo la prima volta poi ad ogni ulteriore tentativo si blocca",
+        "userName": "Guido Bonetti",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Ghx52rSdkU-emnkBpgxvaQ2ovofldpH11R79oWs",
+        "content": "Bisogna introdurre i dati inutilmente tutti i giorni. Mettete un \"bottone\" per confermare i dati precedenti se nulla \u00e8 cambiato. Qualche miglioria \u00e8 stata apportata ma bisogna comunque riconfermare uno ad uno i dati sanitari.",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.6.0",
+        "at": "2020-05-05 14:24:59",
+        "replyContent": "Ciao Guido, grazie per aver aggiornato la tua valutazione continueremo a lavorare per fornire uno strumento utile a tutti! Grazie per i suggerimenti!",
+        "repliedAt": "2020-05-05 15:45:09"
+    },
+    {
+        "userName": "Paolo Ottini",
+        "userImage": "https://lh3.googleusercontent.com/-vh2skV742Q4/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJOGa1GlDG1g-KPq5xEI6xHQ2pGqqQ/photo.jpg",
+        "content": "Dopo l'aggiornamento i dati fissi restano memorizzati ma comunque modificabili in caso di cambiamenti.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.6.0",
+        "at": "2020-05-05 13:26:56",
+        "replyContent": "Ciao Paolo, grazie per aver aggiornato la tua recensione!",
+        "repliedAt": "2020-05-05 12:49:44"
+    },
+    {
+        "userName": "Graz Bond",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gi2EJdWKm2E4UIJCBTY-geRo10mpEOpkbUGTWVPWQ",
+        "content": "La versione aggiornata funziona. Chiedo se i dati sono salvati o se \u00e8 necessario compilare ex novo il format.",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.6.0",
+        "at": "2020-05-05 12:51:18",
+        "replyContent": "Ciao, con la nuova versione  - 1.6.0 -  i dati riferiti alla residenza e al luogo di lavoro sono precompilati e, se necessario, editabili. I dati riferiti a et\u00e0, sesso e Condizioni Mediche Rilevanti rimangono memorizzati e non sono modificabili. I restanti dati, invece, devono essere reinseriti ad ogni invio.",
+        "repliedAt": "2020-05-05 13:43:47"
+    },
+    {
+        "userName": "Erika D'Agrumo",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhGRf5M9EbKCrRIK_GSxSxjT6IykiEwYSQuRnJOwQ",
+        "content": "Pessimo il collegamento notifiche-app. Si, purtroppo persiste l'errore :(",
+        "score": 1,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "1.5.0",
+        "at": "2020-05-05 11:52:11",
+        "replyContent": "Ciao Erika, stiamo procedendo con le verifiche del caso nel frattempo ti suggeriamo di accedere alle notifiche avviando direttamente l'app dall'apposita sezione.",
+        "repliedAt": "2020-05-05 13:47:01"
+    },
+    {
+        "userName": "Alberto Fraquelli",
+        "userImage": "https://lh3.googleusercontent.com/-uS9m2Ij4Hpo/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJPXzP8txPw4t4fbWjgRcsoFhrrnow/photo.jpg",
+        "content": "Bellissima app",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2020-05-05 07:58:40",
+        "replyContent": "Ciao Alberto, siamo contenti che l'app sia di tuo gradimento!",
+        "repliedAt": "2020-05-05 13:48:22"
+    },
+    {
+        "userName": "Daniele Martinelli",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Ggv-dtlaEg9vDuD1paVd2Txdc1Qpb9PiYCul9eqlA",
+        "content": "Salve, riesco a compilare il questionario covid e poi niente pi\u00f9. Non riesco a fare altro e non so nemmeno se il questionario \u00e8 stato inviato e andato a buon fine. L'ho installato su Xiaomi Mi A1. Mi dite di verificare la versione. Fatto. Aggiornata. Aperta. Compilato... Vorrei allegare il video del modulo con davanti il rollio del wip ma purtroppo non si pu\u00f2. Facciamo che per la sesta volta la disinstallo e pace",
         "score": 1,
         "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.5.0",
-        "at": "2020-05-04 10:58:16",
-        "replyContent": null,
-        "repliedAt": null
+        "reviewCreatedVersion": null,
+        "at": "2020-05-04 19:54:00",
+        "replyContent": "Ciao Daniele, per analizzare la problematica da te segnalata ci occorre sapere se sei riuscito ad inviare il questionario o se l'errore si verifica prima che tu possa dare conferma  dell'invio dei dati compilati.Restiamo in attesa di tuo cortese riscontro da poter trasmettere ai servizi tecnici.",
+        "repliedAt": "2020-05-05 15:39:30"
+    },
+    {
+        "userName": "J G",
+        "userImage": "https://lh3.googleusercontent.com/-edaROMHme5U/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJOrabSSwIvoeBCn5V6dRxchwJlsEw/photo.jpg",
+        "content": "Ho disinstallato e reinstallato ma Riesco ad accedere solo la prima volta poi ad ogni ulteriore tentativo si blocca",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.6.0",
+        "at": "2020-05-04 19:35:58",
+        "replyContent": "Ciao, per poter procedere con l'analisi di quanto segnalato \u00e8 necessario consultare il print screen dell'errore da te indicato e che ci venga indicato il momento preciso in cui si blocca! ti invitiamo a voler trasmettere i dati richiesti scrivendo a : info.allertalom@ariaspa.it Grazie!",
+        "repliedAt": "2020-05-05 14:00:51"
+    },
+    {
+        "userName": "Nicola Gualteroni",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgiTnL1Gv_jEB6AKxLipaz_5Dba5jmNEKH5VEf9uqU",
+        "content": "Semplicemente pessima. A cominciare dal fatto che non va su un dispositivi con accesso root (manco fosse l'app della banca: \u00e8 un'app che serve solo a diffondere informazioni PUBBLICHE o sbaglio ?), spesso cancella i dati di registrazione e bisogna rifare tutto da capo (ogni volta bisogna cliccare 4 volte, QUATTRO!!, sulla parola \"accetta\". Prima in fondo a destra e poi nel popup, quindi un altro giro uguale...) e oggi, novit\u00e0, non mi consente di rifiutare il monitoraggio covid (l'opzione \"non partecipo\" non reagisce al tocco). Non bastasse tutto ci\u00f2... 2 volte su 3 da errore durante l'accesso al server: Piena di operazioni noiose da ripetere e ripetere (bisogna inserire i comuni uno per uno per poter ricevere le allerte su tutta una zona, e poi l'app si perde tutto e bisogna rifarlo da capo) e in definitiva quasi inutile visto che \u00e8 raro vederla funzionare davvero.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.6.0",
+        "at": "2020-05-04 19:01:16",
+        "replyContent": "Ciao Nicola, i  problemi sono stati segnalati agli sviluppatori e stanno lavorando per una risoluzione! Grazie per averci contattato!",
+        "repliedAt": "2020-05-05 13:55:51"
     },
     {
         "userName": "Nico East Milan",
@@ -17,9 +94,31 @@
         "score": 1,
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.5.0",
-        "at": "2020-05-04 10:30:55",
-        "replyContent": "Ciao Nico, , l\u2019app non sostituisce una valutazione medica delle proprie condizioni. I dati raccolti servono per di quantificare il livello di diffusione del contagio e la distribuzione territoriale della positivit\u00e0.",
-        "repliedAt": "2020-05-04 10:25:57"
+        "at": "2020-05-04 18:59:16",
+        "replyContent": "Ciao Nico,i dati raccolti vengono gi\u00e0 incrociati con altri dati forniti dalle strutture sanitarie e dai presidi.Si punta infatti a fornire all\u2019Unit\u00e0 Regionale di gestione della crisi elementi utili a localizzare le zone con maggior probabilit\u00e0 di ospitare un focolaio attivo, o a individuare la ripresa del contagio in zone considerate meno a rischio",
+        "repliedAt": "2020-05-04 19:56:02"
+    },
+    {
+        "userName": "Ruth Paoletti",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gh28GFH5LtShuO26b7H9es8LJMS-5jiSPVGT9k-0A",
+        "content": "Io sono residente in Lombardia ma domiciliata in Veneto, ha senso inserire i miei dati in questo caso?",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.6.0",
+        "at": "2020-05-04 18:45:53",
+        "replyContent": "Ciao Ruth, il questionario permette di  raccogliere dati da poter fornire all\u2019Unit\u00e0 di Crisi regionale e degli specialisti, informazioni complete e strutturate sulla diffusione del contagio sul territorio lombardo.",
+        "repliedAt": "2020-05-04 20:01:37"
+    },
+    {
+        "userName": "Desir\u00e8e",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiJaEeuT9KCj3SsCy0JRfrI3UZDyF_aQ1ofvwCm",
+        "content": "Arrivavano notifiche, ma non riuscivo a ricevere mai aggiornamenti, come se si bloccasse. Mi spiace, ma l'ho eliminata.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2020-05-04 16:53:32",
+        "replyContent": "Ciao Desiree, ti andrebbe di riprovare? abbiamo rilasciato recentemente un nuovo aggiornamento! in alternativa alla disinstallazione possiamo suggerirti di contattarci e ti risolviamo noi il problema \ud83d\ude09",
+        "repliedAt": "2020-05-04 18:37:33"
     },
     {
         "userName": "Paolo Melis",
@@ -29,8 +128,8 @@
         "thumbsUpCount": 5,
         "reviewCreatedVersion": "1.6.0",
         "at": "2020-05-04 10:01:04",
-        "replyContent": "Ciao Paolo, grazie per la tua segnalazione. A partire dalla prima compilazione del \"CercaCovid\" effettuata con la nuova versione  - 1.6.0 -  i dati riferiti alla residenza e al luogo di lavoro sono precompilati e, se necessario, editabili.  Scarica l'aggiornamento e se hai bisogno di ulteriore assistenza scrivici a info.allertalom@ariaspa.it.",
-        "repliedAt": "2020-05-04 09:33:03"
+        "replyContent": "Ciao Paolo, lavoriamo quotidianamente per fornire a tutti uno strumento utile, recensioni come questa ci fanno particolarmente piacere!",
+        "repliedAt": "2020-05-04 18:48:03"
     },
     {
         "userName": "Pietro Cazzola",
@@ -40,8 +139,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.6.0",
         "at": "2020-05-04 09:28:08",
-        "replyContent": "Ciao Pietro, riscontri ancora il problema dopo l'ultimo aggiornamento?\nSe si scrivici a info.allertalom@ariaspa.it, in caso contrario ti invitiamo ad aggiornare la recensione.",
-        "repliedAt": "2020-05-04 08:30:09"
+        "replyContent": "Ciao Pietro, abbiamo inoltrato la segnalazione ai servizi tecnici ti chiediamo di attendere un nostro riscontro a verifica ultimata!",
+        "repliedAt": "2020-05-04 18:49:10"
     },
     {
         "userName": "Adriano Frasconi",
@@ -95,8 +194,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.6.0",
         "at": "2020-05-03 12:58:36",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ciao Giorgio, ti ricordiamo che \u00e8 possibile compilare il questionario una volta al giorno decorse le 24 ore dall'ultimo inserimento. Grazie per averci contattato!",
+        "repliedAt": "2020-05-05 15:31:30"
     },
     {
         "userName": "Giuseppe Montresor",
@@ -117,8 +216,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.6.0",
         "at": "2020-05-03 09:07:56",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ciao, grazie per averci contattato, il tuo suggerimento \u00e8 stato segnalato agli sviluppatori.",
+        "repliedAt": "2020-05-05 15:34:36"
     },
     {
         "userName": "Manuel Zanni",
@@ -128,8 +227,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.6.0",
         "at": "2020-05-03 06:57:12",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ciao Manuel, grazie per il suggerimento, al momento non \u00e8 prevista la consultazione della casistica dell'infezione in real- time, speriamo di poter soddisfare presto la tua richiesta!",
+        "repliedAt": "2020-05-04 19:16:28"
     },
     {
         "userName": "GIOVANNI IUSI",
@@ -143,28 +242,6 @@
         "repliedAt": "2020-04-28 12:24:41"
     },
     {
-        "userName": "Daniele Martinelli",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Ggv-dtlaEg9vDuD1paVd2Txdc1Qpb9PiYCul9eqlA",
-        "content": "Salve, riesco a compilare il questionario covid e poi niente pi\u00f9. Non riesco a fare altro e non so nemmeno se il questionario \u00e8 stato inviato e andato a buon fine. L'ho installato su Xiaomi Mi A1",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": null,
-        "at": "2020-05-02 19:41:02",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "userName": "Enea Castagnaro",
-        "userImage": "https://lh3.googleusercontent.com/-88CE-CtoQxI/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJNsqzSpGtNLI5fC3S1q82-pcI0oiw/photo.jpg",
-        "content": "Boh ti dice de dire i dati a boh non lo installo dire",
-        "score": 2,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": null,
-        "at": "2020-05-02 18:18:34",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
         "userName": "Vittorio Ratta'",
         "userImage": "https://lh3.googleusercontent.com/-KBJg83QPxdc/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJMahdn34QJ1E0j4DqC0aG-bZ220pA/photo.jpg",
         "content": "Da una sicurezza in pi\u00f9 grazie",
@@ -172,8 +249,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.5.0",
         "at": "2020-05-02 17:40:04",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ciao Vittorio, siamo spiacenti che l'applicazione non soddisfi le tue aspettative! Ci piacerebbe sentire la tua opinione al fine di poter migliorare il servizio offerto! Se ti va scrivici a : info.allertalom@ariaspa.it i vostri suggerimenti sono importanti per noi!",
+        "repliedAt": "2020-05-04 19:22:40"
     },
     {
         "userName": "toni eton",
@@ -183,8 +260,8 @@
         "thumbsUpCount": 1,
         "reviewCreatedVersion": null,
         "at": "2020-05-02 16:03:00",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ciao... i download sono quelli che vengono realmente comunicati, dallo STORE infatti alla voce installazioni viene indicato 500.000+ . Grazie per averci contattato!",
+        "repliedAt": "2020-05-04 19:30:40"
     },
     {
         "userName": "Rosa Ruberto",
@@ -194,8 +271,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.6.0",
         "at": "2020-05-02 15:47:31",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ciao Rosa, il questionario non sostituisce una valutazione medica delle proprie condizioni. Ti ricordiamo di poter fare riferimento al numero 1500 per richieste di informazioni e il numero verde 800 894 545 solo se ritieni di avere dei sintomi della malattia!",
+        "repliedAt": "2020-05-04 19:32:18"
     },
     {
         "userName": "rosario Saglimbeni",
@@ -205,8 +282,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2020-05-02 15:16:29",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ciao Rosario, grazie la tua collaborazione \u00e8 importante! Ricorda, il questionario non si rivolge solo a chi manifesta sintomi ricollegabili al Covid-19, ma a tutti i cittadini!!",
+        "repliedAt": "2020-05-04 19:34:22"
     },
     {
         "userName": "Massimo",
@@ -216,8 +293,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.6.0",
         "at": "2020-05-02 12:28:53",
-        "replyContent": "Ciao Massimo,  scarica l'aggiornamento dell'app dallo STORE  e potrai procedere con il sondaggio attraverso la nuova funzione \"CercaCovid\"!",
-        "repliedAt": "2020-04-07 09:57:27"
+        "replyContent": "Ciao Massimo, grazie a te per aver aggiornato la tua valutazione!",
+        "repliedAt": "2020-05-04 19:35:22"
     },
     {
         "userName": "andrea mussi",
@@ -227,8 +304,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.6.0",
         "at": "2020-05-02 12:27:22",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ciao Andrea abbiamo inoltrato la tua segnalazione ai servizi tecnici per le verifiche del caso!",
+        "repliedAt": "2020-05-04 19:36:12"
     },
     {
         "userName": "giovanni montanti",
@@ -238,8 +315,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.6.0",
         "at": "2020-05-02 11:54:09",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ciao Giovanni, l'errore da te segnalato e collegabile al grande numero di utilizzatori o alla velocit\u00e0 di rete. Se non riesci ad accedere alle notizie dalle notifiche ti suggeriamo di accedere alle notifiche avviando l'app! Interverremo per migliorare la tua esperienza utente!",
+        "repliedAt": "2020-05-04 19:37:55"
     },
     {
         "userName": "Aldo Martelli",
@@ -249,8 +326,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.6.0",
         "at": "2020-05-02 09:47:42",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ciao Aldo, Grazie per la valutazione positiva!",
+        "repliedAt": "2020-05-04 19:38:29"
     },
     {
         "userName": "Ceck Ruby",
@@ -260,8 +337,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.6.0",
         "at": "2020-05-02 09:33:40",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Grazie per il feedback!",
+        "repliedAt": "2020-05-04 19:38:39"
     },
     {
         "userName": "Maurizio Ciceri",
@@ -282,8 +359,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.6.0",
         "at": "2020-05-01 20:53:38",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ciao Claudio, per assistenza scrivici a info.allertalom@ariaspa.it indicando il dettaglio dell'errore riscontrato e procederemo con le opportune verifiche!",
+        "repliedAt": "2020-05-04 19:40:24"
     },
     {
         "userName": "Gianmarco Tirelli",
@@ -293,8 +370,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.6.0",
         "at": "2020-05-01 20:18:02",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ciao Gianmarco, abbiamo inoltrato la tua segnalazione ai servizi tecnici per le verifiche!",
+        "repliedAt": "2020-05-04 19:41:24"
     },
     {
         "userName": "Simona Beccaria",
@@ -304,8 +381,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.6.0",
         "at": "2020-05-01 16:10:52",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ciao Simona, stiamo provvedendo a verificare quanto da te segnalato attraverso i nostri servizi tecnici!",
+        "repliedAt": "2020-05-04 19:43:12"
     },
     {
         "userName": "Antonio Merolla",
@@ -315,8 +392,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.6.0",
         "at": "2020-05-01 14:19:43",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ciao Antonio, , siamo spiacenti che la tua esperienza non corrisponda alle tue aspettative. Ti va di fornirci qualche suggerimento per migliorare il servizio offerto? scrivi a info.allertalom@ariaspa.it. I vostri suggerimenti sono importanti per noi!",
+        "repliedAt": "2020-05-04 19:46:10"
     },
     {
         "userName": "Giorgio Savazzi",
@@ -326,8 +403,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.6.0",
         "at": "2020-05-01 13:33:34",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ciao Giorgio, grazie per il suggerimento, provvederemo a trasmetterlo ai servizi tecnici. Ogni contributo \u00e8 prezioso !",
+        "repliedAt": "2020-05-04 19:48:10"
     },
     {
         "userName": "Paola Cellario",
@@ -337,8 +414,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.6.0",
         "at": "2020-05-01 13:03:27",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ciao Paola, riscontri ancora malfunzionamenti? se si scrivici a info.allertalom@ariaspa.it e verificheremo!",
+        "repliedAt": "2020-05-04 19:49:00"
     },
     {
         "userName": "Anna Maria Zuccotti",
@@ -348,8 +425,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.6.0",
         "at": "2020-05-01 13:03:02",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Grazie Anna!! siamo felici che tu abbia apprezzato la nostra iniziativa.Grazie per il feedback!",
+        "repliedAt": "2020-05-04 19:50:38"
     },
     {
         "userName": "domenico rodriquens",
@@ -359,8 +436,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.6.0",
         "at": "2020-05-01 11:49:39",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Grazie per la valutazione positiva!",
+        "repliedAt": "2020-05-04 19:51:08"
     },
     {
         "userName": "marino rusca",
@@ -370,8 +447,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.6.0",
         "at": "2020-05-01 11:38:21",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ciao Mario,  le recensioni positive sono una vetrina del lavoro svolto, grazie!",
+        "repliedAt": "2020-05-04 19:52:21"
     },
     {
         "userName": "Fabio Tremolada",
@@ -381,8 +458,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.6.0",
         "at": "2020-05-01 10:46:47",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Grazie per il feedback!",
+        "repliedAt": "2020-05-04 19:52:45"
     },
     {
         "userName": "Andrea Frasson",
@@ -392,8 +469,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.6.0",
         "at": "2020-05-01 10:27:44",
-        "replyContent": "Ciao Andrea, grazie!!Continuiamo a lavorare sodo per migliorare la vostra esperienza e le nostre funzionalit\u00e0. I vostri commenti sono utili per capire ogni esigenza e valutare possibili soluzioni!",
-        "repliedAt": "2020-04-29 09:17:13"
+        "replyContent": "Ciao Andrea, allo stato attuale  \u00e8 stata implementata un'apposita domanda di contesto riferita al test, inoltreremo la segnalazione ai servizi tecnici che valuteranno la possibilit\u00e0 di implementare il quesito al prossimo aggiornamento! Grazie per la collaborazione!",
+        "repliedAt": "2020-05-05 16:05:02"
     },
     {
         "userName": "giacomo oliva",
@@ -403,8 +480,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2020-05-01 08:26:07",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ciao Giacomo, siamo spiacenti che tu abbia deciso di non utilizzare l'app. Ogni contributo \u00e8 importante! Pi\u00f9 dati si ricevono, pi\u00f9 il quadro della situazione \u00e8 preciso.",
+        "repliedAt": "2020-05-05 16:06:41"
     },
     {
         "userName": "mgpisu@gmail.com Pisu",
@@ -414,8 +491,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.6.0",
         "at": "2020-05-01 02:08:27",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Grazie per il suggerimento! Per l'errore da te segnalato ti chiediamo di inviare i dettagli scrivendo a info.allertalom@ariaspa.it",
+        "repliedAt": "2020-05-05 16:10:09"
     },
     {
         "userName": "Elena Chiriac",
@@ -1332,7 +1409,7 @@
     },
     {
         "userName": "Stebh0687",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhUzGNZK2wsYXhd5ecjlHqKozhkKnRKsN2a5OIw",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjiiiKC98it4IjzSnBTBvPWAYpXn-iLda_8-rsQ",
         "content": "Serve per vedere se tu sei una persona sedentaria e nn serve per il covid",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1852,7 +1929,7 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjB8NopTBT-YgZyLNT8EFcJ6LxU-eKo-iieVtWZkA",
         "content": "Mi spiegate perch\u00e9 ogni volta devo reinserire il comune e cap di residenza? Non \u00e8 che uno ogni giorno cambi casa. Anche la situazione lavorativa a mio avviso pu\u00f2 essere memorizzata. Al limite, se dovesse cambiare, la si varia prima di inviare i dati. Se l'applicazione \u00e8 pensata per monitorare giornalmente la situazione sarebbe pi\u00f9 comodo variare ci\u00f2 che \u00e8 cambiato rispetto al giorno prima, piuttosto che reinserire tutto, specie per chi volesse inserire anche i famigliari. Cos\u00ec passa la voglia.",
         "score": 3,
-        "thumbsUpCount": 70,
+        "thumbsUpCount": 73,
         "reviewCreatedVersion": "1.6.0",
         "at": "2020-04-23 19:19:54",
         "replyContent": null,
@@ -2607,23 +2684,23 @@
         "repliedAt": null
     },
     {
-        "userName": "Graziella Dal Conte",
-        "userImage": "https://lh3.googleusercontent.com/-mizl0THhejc/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJNMkMWjzie6o5T1V8SUYF_DL74VmA/photo.jpg",
-        "content": "A tutto serve nella vita sara' ricordata dentro di noi",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.6.0",
-        "at": "2020-04-22 12:50:37",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
         "userName": "Valentina Mariani",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gj2UX4TubgEwkMZjwwFRTNNKXD7QXwNv1JYWf_R",
         "content": "Tutte le app mi si scaricano, tranne questa!",
         "score": 1,
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
+        "at": "2020-04-22 12:50:37",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "userName": "Graziella Dal Conte",
+        "userImage": "https://lh3.googleusercontent.com/-mizl0THhejc/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJNMkMWjzie6o5T1V8SUYF_DL74VmA/photo.jpg",
+        "content": "A tutto serve nella vita sara' ricordata dentro di noi",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.6.0",
         "at": "2020-04-22 12:50:37",
         "replyContent": null,
         "repliedAt": null
@@ -2636,8 +2713,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.6.0",
         "at": "2020-04-22 12:48:00",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ciao, ci piacerebbe migliorare la tua esperienza utente, scrivici a info.allertalom@ariaspa.it i tuoi suggerimenti e proveremo a soddisfare le tue richieste nei prossimi rilasci.",
+        "repliedAt": "2020-05-05 13:50:30"
     },
     {
         "userName": "gianpiero brambilla",
@@ -2647,8 +2724,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.6.0",
         "at": "2020-04-22 12:26:47",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ciao Gianpiero, riscontri l'errore anche dopo aver effettuato l'ultimo aggiornamento? Se si scrivi a info.allertalom@ariaspa.it, altrimenti ti invitiamo ad aggiornare la recensione.",
+        "repliedAt": "2020-05-05 13:49:06"
     },
     {
         "userName": "Nicola Villani",
@@ -2658,8 +2735,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.6.0",
         "at": "2020-04-22 12:25:00",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Grazie Nicola, della tua recensione e grazie di tutte le stelline che fanno crescere la nostra valutazione. Cercheremo instancabilmente di fare in modo che tutti quelli che usano l'app, la apprezzino come te",
+        "repliedAt": "2020-05-05 13:48:02"
     },
     {
         "userName": "Viviana Odorico",
@@ -2669,8 +2746,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2020-04-22 12:24:02",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ciao Viviana, scrivici a info.allertalom@ariaspa.it indicando i tuoi dati e del dispositivo utilizzato!",
+        "repliedAt": "2020-05-05 13:46:12"
     },
     {
         "userName": "daniele bossetti",
@@ -2680,8 +2757,8 @@
         "thumbsUpCount": 1,
         "reviewCreatedVersion": "1.6.0",
         "at": "2020-04-22 12:21:20",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ciao Daniele, la ringraziamo per il suggerimento.Lo invieremo al gruppo di ricerca di medici e ricercatori dell\u2019Ospedale San Matteo e dell\u2019Universit\u00e0 degli Studi di Pavia che ha ideato il questionario. Ogni contributo degli utenti \u00e8 prezioso!",
+        "repliedAt": "2020-05-05 13:43:04"
     },
     {
         "userName": "Iride Giussani",
@@ -2691,19 +2768,19 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.6.0",
         "at": "2020-04-22 11:54:38",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ciao Iride, non \u00e8 possibile modificare ci\u00f2 che \u00e8 gi\u00e0 stato inoltrato, ma il questionario pu\u00f2 essere aggiornato dopo 24 h, pertanto se l'et\u00e0 risulta errata ti invitiamo a disinstallare e reinstallare l'app.",
+        "repliedAt": "2020-05-05 13:40:37"
     },
     {
         "userName": "Raimondo de Paola",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gg4DDn2l7Y01cay9BFobazMyn0hc5i-VVmpnJ2j",
         "content": "Se lo scopo dell'app \u00e8 quello di effettuare una mappatura di quella che pu\u00f2 essere stata la diffusione del contagio sul territorio, risulta inefficace poich\u00e9 si limita ad una fotografia della situazione attuale. Le domande sui sintomi sono riferite alle sole ultime 2 settimane. Io e la mia famiglia la quasi totalit\u00e0 dei sintomi (compreso, per me, la congiuntivite) li abbiamo avuto a met\u00e0 febbraio. Sarebbe pi\u00f9 utile chiedere se i sintomi si sono avuti e, in caso affermativo, chiedere quando",
         "score": 2,
-        "thumbsUpCount": 109,
+        "thumbsUpCount": 111,
         "reviewCreatedVersion": "1.6.0",
         "at": "2020-04-22 11:52:35",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ciao Raimondo, la ringraziamo per il suggerimento.Lo invieremo al gruppo di ricerca di medici e ricercatori dell\u2019Ospedale San Matteo e dell\u2019Universit\u00e0 degli Studi di Pavia che ha ideato il questionario. Ogni contributo degli utenti \u00e8 prezioso!",
+        "repliedAt": "2020-05-05 13:37:48"
     },
     {
         "userName": "fabio maiorano",
@@ -2713,8 +2790,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.5.0",
         "at": "2020-04-22 11:45:28",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ciao Fabio, siamo spiacenti che la tua esperienza non corrisponda alle tue aspettative. Lavoreremo per migliorare!",
+        "repliedAt": "2020-05-05 13:36:22"
     },
     {
         "userName": "Vincenzo",
@@ -2724,8 +2801,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2020-04-22 11:11:11",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ciao Vincenzo, ci piacerebbe migliorare la tua esperienza utente, scrivici a info.allertalom@ariaspa.it i tuoi suggerimenti e proveremo a soddisfare le tue richieste nei prossimi rilasci.",
+        "repliedAt": "2020-05-05 13:32:02"
     },
     {
         "userName": "NYHEAD",
@@ -2735,8 +2812,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2020-04-22 11:01:39",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ciao, l\u2019app non sostituisce una valutazione medica delle proprie condizioni. I dati raccolti servono per di quantificare il livello di diffusione del contagio e la distribuzione territoriale della positivit\u00e0.",
+        "repliedAt": "2020-05-05 13:33:53"
     },
     {
         "userName": "Sergio Faustini",
@@ -2746,8 +2823,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.6.0",
         "at": "2020-04-22 10:53:51",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ciao Sergio, grazie per la valutazione positiva! Cercheremo instancabilmente di fare in modo che tutti quelli che usano l'app, la apprezzino come te!",
+        "repliedAt": "2020-05-05 13:29:53"
     },
     {
         "userName": "Tiziana Bergonzi",
@@ -2757,8 +2834,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.6.0",
         "at": "2020-04-22 10:46:55",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ciao Tiziana, la ringraziamo per il suggerimento.Lo invieremo al gruppo di ricerca di medici e ricercatori dell\u2019Ospedale San Matteo e dell\u2019Universit\u00e0 degli Studi di Pavia che ha ideato il questionario. Ogni contributo degli utenti \u00e8 prezioso!",
+        "repliedAt": "2020-05-05 13:52:21"
     },
     {
         "userName": "Stefano Radice",
@@ -2790,8 +2867,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2020-04-22 10:37:26",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ciao Santino, l\u2019app supporta i dispositivi mobile (smartphone e tablet), supportati da sistemi operativi Android e iOS, superiori rispettivamente alle versioni 5 e 9.x.",
+        "repliedAt": "2020-05-05 13:25:41"
     },
     {
         "userName": "roberto lattes",
@@ -2801,8 +2878,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2020-04-22 10:20:19",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ciao Roberto, siamo grati per la valutazione positiva e per le 5 stelline.",
+        "repliedAt": "2020-05-05 13:24:08"
     },
     {
         "userName": "Paolo Cattaneo",
@@ -2812,8 +2889,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.5.0",
         "at": "2020-04-22 10:20:16",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ciao Paolo,  ti invitiamo ad effettuare l'aggiornamento 1.6.0 . Se riscontri ancora problemi non esitare a scriverci a info.allertalom@ariaspa.it",
+        "repliedAt": "2020-05-05 13:22:05"
     },
     {
         "userName": "Marco Malagutti",
@@ -2823,8 +2900,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.5.0",
         "at": "2020-04-22 10:19:27",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ciao Marco, ci piacerebbe migliorare la tua esperienza utente, scrivici a info.allertalom@ariaspa.it i tuoi suggerimenti e proveremo a soddisfare le tue richieste nei prossimi rilasci.",
+        "repliedAt": "2020-05-05 13:21:24"
     },
     {
         "userName": "Vittorio Pavesi",
@@ -2834,8 +2911,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2020-04-22 09:59:13",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ciao Vittorio, dove riscontri difficolt\u00e0? Se hai bisogno di assistenza ti invitiamo a consultare il Manuale d'uso o scriverci a info.allertalom@ariaspa.it",
+        "repliedAt": "2020-05-05 13:13:58"
     },
     {
         "userName": "Gigi zenze",
@@ -2845,8 +2922,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.6.0",
         "at": "2020-04-22 09:35:17",
-        "replyContent": "Ciao Gigi, abbiamo rilasciato un nuovo aggiornamento se riscontri ancora problemi contattaci scrivendo a : info.allertalom@ariaspa.it, ti chiediamo di voler indicare i dettagli dell'errore riscontrato e i dati del tuo dispositivo al fine di poter procedere con le verifiche del caso.",
-        "repliedAt": "2020-04-22 08:05:27"
+        "replyContent": "Ciao Gigi, ti ringraziamo per aver aggiornato la recensione!",
+        "repliedAt": "2020-05-05 12:59:56"
     },
     {
         "userName": "Daniele Tagliabue",
@@ -2856,8 +2933,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.6.0",
         "at": "2020-04-22 09:35:01",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ciao Daniele, la ringraziamo per il suggerimento.Lo invieremo al gruppo di ricerca di medici e ricercatori dell\u2019Ospedale San Matteo e dell\u2019Universit\u00e0 degli Studi di Pavia che ha ideato il questionario. Ogni contributo degli utenti \u00e8 prezioso!",
+        "repliedAt": "2020-05-05 12:58:22"
     },
     {
         "userName": "Erika Baggetto",
@@ -2867,19 +2944,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.6.0",
         "at": "2020-04-22 09:27:53",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "userName": "Paolo Ottini",
-        "userImage": "https://lh3.googleusercontent.com/-vh2skV742Q4/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJOGa1GlDG1g-KPq5xEI6xHQ2pGqqQ/photo.jpg",
-        "content": "Ogni volta bisogna inserire il comune, il cap.",
-        "score": 4,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.6.0",
-        "at": "2020-04-22 08:33:03",
-        "replyContent": "Ciao Paolo, al momento non \u00e8 stata implementata questa funzione la prenderemo in considerazione in futuro, grazie per il suggerimento!",
-        "repliedAt": "2020-04-22 08:03:58"
+        "replyContent": "Ciao Erika, riscontri ancora il problema? Se si scrivici a info.allertalom@ariaspa.it",
+        "repliedAt": "2020-05-05 12:53:01"
     },
     {
         "userName": "Enrico",
@@ -2893,17 +2959,6 @@
         "repliedAt": "2020-04-22 08:24:16"
     },
     {
-        "userName": "Guido Bonetti",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Ghx52rSdkU-emnkBpgxvaQ2ovofldpH11R79oWs",
-        "content": "Bisogna introdurre i dati inutilmente tutti i giorni. Mettete un \"bottone\" per confermare i dati precedenti se nulla \u00e8 cambiato..altrimenti disinstallo l'App.",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.6.0",
-        "at": "2020-04-22 08:24:05",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
         "userName": "Patrick G. TARDIEU",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgTCSANn8ThRCguq_yn05eKeCFsdSTmkoRvT32ir9g",
         "content": "Inutile!",
@@ -2911,8 +2966,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.5.0",
         "at": "2020-04-22 08:04:52",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ciao Patrick,ci piacerebbe migliorare la tua esperienza utente, scrivici a info.allertalom@ariaspa.it i tuoi suggerimenti e proveremo a soddisfare le tue richieste nei prossimi rilasci.",
+        "repliedAt": "2020-05-05 12:45:58"
     },
     {
         "userName": "federico guerretti",
@@ -2933,8 +2988,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.6.0",
         "at": "2020-04-22 03:50:04",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ciao Daniela, tramite l'App ALLERTALOM non \u00e8 possibile visualizzare la situazione in real-time della casistica dell'infezione, bens\u00ec in essa vengono pubblicate le ultime indicazioni di pubblica tutela rivolte alla popolazione della regione.",
+        "repliedAt": "2020-05-05 12:42:55"
     },
     {
         "userName": "Sabino Melillo",
@@ -2944,8 +2999,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.6.0",
         "at": "2020-04-22 02:28:23",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ciao Sabino, \u00e8 possibile compilare il questionario ogni 24 h , per raccogliere i dati ed averli aggiornati ogni giorno al fine di quantificare il livello di diffusione del contagio e la distribuzione territoriale della positivit\u00e0.",
+        "repliedAt": "2020-05-05 12:30:29"
     },
     {
         "userName": "Serena Maisto",
@@ -2966,8 +3021,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.6.0",
         "at": "2020-04-22 00:12:02",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ciao Tiziana, AllertaLOM non \u00e8 un'app obbligatoria, ma consigliabile in quanto i dati raccolti servono per di quantificare il livello di diffusione del contagio e la distribuzione territoriale della positivit\u00e0.",
+        "repliedAt": "2020-05-05 12:24:34"
     },
     {
         "userName": "Franco Veronesi",
@@ -5390,17 +5445,6 @@
         "repliedAt": "2020-05-04 13:24:58"
     },
     {
-        "userName": "Ruth Paoletti",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gh28GFH5LtShuO26b7H9es8LJMS-5jiSPVGT9k-0A",
-        "content": "Non riesco a finalizzare perch\u00e9 il mio comune non \u00e8 nell' elenco, e nemmeno il capoluogo di provincia.\ud83d\ude31",
-        "score": 2,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.5.0",
-        "at": "2020-04-17 18:44:36",
-        "replyContent": "Ciao Ruth, il comune \u00e8 di Regione Lombardia o di altre regioni? Perch\u00e8 al momento l'app \u00e8 rivolta ai cittadini lombardi, speriamo di poter estendere il nostro servizio al resto delle Regioni. Nel caso fosse un comune di Regione Lombardia ti invitiamo a scriverci a info.allertalom@ariaspa.it. Inoltre, ti invitiamo ad aggiornarla all'ultima versione",
-        "repliedAt": "2020-05-04 13:37:00"
-    },
-    {
         "userName": "Renato Caminada",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhlfUDrnwPgF38s-Zrpw3WOh2fv_boMsh4B1jTSrA",
         "content": "Applicazione penosa .Come si fa a richiedere l adesione a una cosa del genere. !! Credevo fosse una cosa seria! ! La disinstello immediatamente con la speranza che qualcuno ci metta le mani e la faccia diventare una cosa seria e utile. SPEREM IN BEN",
@@ -6431,8 +6475,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.5.0",
         "at": "2020-04-16 21:31:07",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ciao, con l'aggiornamento 1.6.0 \u00e8 possibile poter compilare il questionario per i propri familiari, i dati riferiti alla residenza e al luogo di lavoro rimangono memorizzati! Il questionario va compilato solo una volta ogni 24 h . Grazie per la valutazione positiva",
+        "repliedAt": "2020-05-05 10:02:11"
     },
     {
         "userName": "William Lupo",
@@ -6442,8 +6486,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.5.0",
         "at": "2020-04-16 21:23:43",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ciao William, grazie per il feedback positivo",
+        "repliedAt": "2020-05-05 09:59:16"
     },
     {
         "userName": "anna bornaccini",
@@ -6453,8 +6497,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.5.0",
         "at": "2020-04-16 21:19:45",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ciao Anna, sei riuscita a compilare il questionario? Se hai bisogno di assistenza scrivi a info.allertalom@ariaspa.it\nInoltre ti invitiamo ad aggiornare l'app alla versione 1.6.0",
+        "repliedAt": "2020-05-05 09:58:47"
     },
     {
         "userName": "Serena Molinari",
@@ -6464,8 +6508,8 @@
         "thumbsUpCount": 4,
         "reviewCreatedVersion": "1.5.0",
         "at": "2020-04-16 20:58:29",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ciao Serena, abbiamo inoltrato la tua segnalazione agli sviluppatori, ti risponderemo a verifica ultimata!",
+        "repliedAt": "2020-05-05 09:56:59"
     },
     {
         "userName": "Matteo Dozio",
@@ -6475,8 +6519,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.5.0",
         "at": "2020-04-16 20:47:11",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ciao Matteo, grazie per la valutazione positiva. Le vostre recensioni sono la vetrina del lavoro svolto.",
+        "repliedAt": "2020-05-05 09:56:07"
     },
     {
         "userName": "Stacco 76",
@@ -6490,17 +6534,6 @@
         "repliedAt": null
     },
     {
-        "userName": "Graz Bond",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gi2EJdWKm2E4UIJCBTY-geRo10mpEOpkbUGTWVPWQ",
-        "content": "Idea buona, realizzazione pessima. L\"app non permette di inviare i dati compilati. La regione Lombardia ha denaro da buttare?",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.5.0",
-        "at": "2020-04-16 20:27:22",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
         "userName": "Ludovica Basso",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiFICWRhlcWf4ui8TImeFcSVJ_MXHMfER5m3rUP",
         "content": "Sicuramente utile se riuscissi a avviare l'applicazione",
@@ -6508,8 +6541,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.5.0",
         "at": "2020-04-16 20:20:25",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ciao Ludovica, ti invitiamo ad aggiornare l'app alla versione 1.6.0. Se riscontri ancora il problema, scrivi a info.allertalom@ariaspa.it, in caso contrario ti invitiamo ad aggiornare la tua valutazione.",
+        "repliedAt": "2020-05-05 09:52:47"
     },
     {
         "userName": "Loris Sogni",
@@ -6519,8 +6552,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.5.0",
         "at": "2020-04-16 20:11:07",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ciao Loris, l'app \u00e8 stata progettata per permettere a Regione Lombardia di quantificare il livello di diffusione del contagio e la distribuzione territoriale della positivit\u00e0, speriamo di poter estendere il nostro servizio al resto delle Regioni. Grazie per il feedback positivo.",
+        "repliedAt": "2020-05-05 09:49:00"
     },
     {
         "userName": "Davide Soliani - Landscapes and a Hassy",
@@ -6530,8 +6563,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2020-04-16 20:05:36",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ciao Davide, ci piacerebbe migliorare la tua esperienza utente, scrivici a info.allertalom@ariaspa.it i tuoi suggerimenti e proveremo a soddisfare le tue richieste nei prossimi rilasci.",
+        "repliedAt": "2020-05-05 09:47:51"
     },
     {
         "userName": "Cinzia Sacchelli",
@@ -6541,8 +6574,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.5.0",
         "at": "2020-04-16 20:04:19",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ciao Cinzia, sei riuscita ad inviare il questionario? Se si, ti invitiamo ad aggiornare la recensione, altrimenti non esitare a scriverci a info.allertalom@ariaspa.it\nInoltre, ti invitiamo ad aggiornare l'app alla versione 1.6.0.",
+        "repliedAt": "2020-05-05 09:46:54"
     },
     {
         "userName": "Monica Zanchi",
@@ -6552,8 +6585,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.5.0",
         "at": "2020-04-16 20:04:11",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Grazie per la recensione positiva e per tutte le stelline.",
+        "repliedAt": "2020-05-05 09:43:48"
     },
     {
         "userName": "emanuele pegorin",
@@ -6563,8 +6596,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.5.0",
         "at": "2020-04-16 20:04:00",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ciao Emanuele, in essa vengono pubblicate le ultime indicazioni di pubblica tutela rivolte alla popolazione della regione ed ha la possibilit\u00e0 di partecipare al progetto di monitoraggio attivo della diffusione del COVID-19 in Lombardia.",
+        "repliedAt": "2020-05-05 09:41:13"
     },
     {
         "userName": "Mattia Dallago",
@@ -6574,8 +6607,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2020-04-16 19:56:51",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ciao Mattia, siamo spiacenti che la tua esperienza non corrisponda alle tue aspettative. Lavoreremo per migliorare!",
+        "repliedAt": "2020-05-05 09:29:15"
     },
     {
         "userName": "Davide Mancin",
@@ -6585,8 +6618,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.5.0",
         "at": "2020-04-16 19:49:40",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ciao Davide, grazie per il feedback.",
+        "repliedAt": "2020-05-05 09:20:06"
     },
     {
         "userName": "Andrea Burgio",
@@ -8697,8 +8730,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.5.0",
         "at": "2020-04-10 15:19:41",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ciao Graziano, ti invitiamo ad aggiornare alla versione 1.6.0 e se dovessi avere bisogno di assistenza scrivi a info.allertalom@ariaspa.it",
+        "repliedAt": "2020-05-05 10:40:12"
     },
     {
         "userName": "A. Vincenzo Rossi",
@@ -9401,8 +9434,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2020-04-07 18:00:12",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ciao Renata, ci spiace che la tua esperienza con l'app non sia positiva. I suggerimenti per noi sono importantissimi e ci aiutano a migliorare il servizio offerto.",
+        "repliedAt": "2020-05-05 12:03:48"
     },
     {
         "userName": "Roberto Losso",
@@ -9412,8 +9445,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.5.0",
         "at": "2020-04-07 17:59:01",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ciao Roberto, ti invitiamo ad aggiornare l'app alla versione pi\u00f9 recente (1.6.0) Se il problema persiste non esitare ascrivere all'indirizzo info.allertalom@ariaspa.it",
+        "repliedAt": "2020-05-05 12:00:21"
     },
     {
         "userName": "Maria Cristina Pocchini",
@@ -9423,19 +9456,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.5.0",
         "at": "2020-04-07 17:55:11",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "userName": "Erika D'Agrumo",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhGRf5M9EbKCrRIK_GSxSxjT6IykiEwYSQuRnJOwQ",
-        "content": "Pessimo il collegamento notifiche-app",
-        "score": 1,
-        "thumbsUpCount": 1,
-        "reviewCreatedVersion": "1.5.0",
-        "at": "2020-04-07 17:54:59",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ciao Maria Cristina, riscontri ancora il problema? Se si non esitare a scriverci a info.allertalom@ariaspa.it\nTi ricordiamo inoltre che per il corretto funzionamento dell'app, \u00e8 necessario l'aggiornamento alla versione pi\u00f9 recente.",
+        "repliedAt": "2020-05-05 11:53:51"
     },
     {
         "userName": "Nicol\u00f2 Barro",
@@ -9456,8 +9478,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.5.0",
         "at": "2020-04-07 17:51:48",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ciao, riscontri ancora l'errore? Se hai bisogno di assistenza scrivi a info.allertalom@ariaspa.it . Inoltre ti invitiamo ad aggiornare l'app alla versione pi\u00f9 recente(1.6.0)",
+        "repliedAt": "2020-05-05 11:37:08"
     },
     {
         "userName": "Pierpaolo Giordano",
@@ -9467,8 +9489,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.5.0",
         "at": "2020-04-07 17:51:47",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ciao Pierpaolo, ci spiace che la tua esperienza con l'app non sia positiva. Ti invitiamo ad aggiornare l'app alla versione 1.6.0. Se hai bisogno di ulteriore assistenza non esitare ascriverci a info.allertalom@ariaspa.it",
+        "repliedAt": "2020-05-05 11:34:08"
     },
     {
         "userName": "attilio schiavo",
@@ -9478,8 +9500,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.5.0",
         "at": "2020-04-07 17:51:04",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ciao Attilio, ti invitiamo ad aggiornare l'app alla versione pi\u00f9 recente 1.6.0. Se hai bisogno di ulteriore assistenza scrivici a info.allertalom@ariaspa.it",
+        "repliedAt": "2020-05-05 11:30:41"
     },
     {
         "userName": "Fabio Marchesi",
@@ -9489,8 +9511,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.5.0",
         "at": "2020-04-07 17:50:10",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ciao Fabio, ti invitiamo ad aggiornare l'app alla versione pi\u00f9 recente 1.6.0, dove oltre a poter compilare il questionario per i propri familiari, i dati riferiti alla residenza e al luogo di lavoro rimangono memorizzati! Se hai bisogno di ulteriore assistenza, scrivi a info.allertalom@ariaspa.it",
+        "repliedAt": "2020-05-05 11:24:06"
     },
     {
         "userName": "Renato Dante",
@@ -9500,8 +9522,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.5.0",
         "at": "2020-04-07 17:49:44",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ciao Renato, ti invitiamo ad aggiornare alla versione 1.6.0 e se dovessi riscontrare errori, contattaci scrivendo a info.allertalom@ariaspa.it",
+        "repliedAt": "2020-05-05 11:11:45"
     },
     {
         "userName": "Franco Guzzetti",
@@ -9511,8 +9533,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.5.0",
         "at": "2020-04-07 17:48:29",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ciao Franco, ti invitiamo ad aggiornare alla versione 1.6.0. Se hai bisogno di assistenza non esitare a contattarci a info.allertalom@ariaspa.it",
+        "repliedAt": "2020-05-05 11:08:36"
     },
     {
         "userName": "kappa z750",
@@ -9522,8 +9544,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.5.0",
         "at": "2020-04-07 17:48:17",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ciao, ti invitiamo ad aggiornare l'app alla versione 1.6.0.  Se il problema persiste non esitare a scrivere a info.allertalom@ariaspa.it",
+        "repliedAt": "2020-05-05 11:05:01"
     },
     {
         "userName": "Mirko achille",
@@ -9533,8 +9555,8 @@
         "thumbsUpCount": 1,
         "reviewCreatedVersion": "1.5.0",
         "at": "2020-04-07 17:48:02",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ciao Mirko, ti invitiamo ad aggiornare l'app alla versione 1.6.0.  Se il problema persiste non esitare a scrivere a info.allertalom@ariaspa.it",
+        "repliedAt": "2020-05-05 10:54:21"
     },
     {
         "userName": "Federico Manna",
@@ -10976,27 +10998,5 @@
         "at": "2020-04-04 22:30:47",
         "replyContent": "Ciao Luigi, grazie per il tuo suggerimento! Lo invieremo al gruppo di ricerca di medici e ricercatori dell\u2019Ospedale San Matteo e dell\u2019Universit\u00e0 degli Studi di Pavia che ha ideato il questionario. Ogni contributo degli utenti \u00e8 prezioso!",
         "repliedAt": "2020-04-06 12:08:48"
-    },
-    {
-        "userName": "Patrizia Zanotti",
-        "userImage": "https://lh3.googleusercontent.com/-95M2Xsk-gJM/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJMeQVsAZ-Dzk4r8z1LzZSIHocv2pA/photo.jpg",
-        "content": "App interessante ma non salva il questionario, posso rifarlo tutti i giorni, ma a parte la febbre e altri sintomi che possono variare altre informazioni sono fisse. Non riesco a capire se lo salva o meno",
-        "score": 3,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.5.0",
-        "at": "2020-04-04 21:59:53",
-        "replyContent": "Ciao Patrizia ti confermiamo che l'app prevede l'inserimento di tutti i dati ad ogni invio.",
-        "repliedAt": "2020-04-06 12:21:54"
-    },
-    {
-        "userName": "Mary Benz",
-        "userImage": "https://lh3.googleusercontent.com/-uLEZkyh1U2I/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJOhQDbr-2b8Ur2v7h8vPZUKmtd_sw/photo.jpg",
-        "content": "Molto utile",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.5.0",
-        "at": "2020-04-04 21:39:56",
-        "replyContent": "Ciao Mary, grazie per l'apprezzamento!!",
-        "repliedAt": "2020-04-06 12:26:30"
     }
 ]
