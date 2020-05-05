@@ -11,12 +11,13 @@ Several mobile apps are being developed and released to the public in order to e
 
 With this project we aim at providing useful insights about COVID-related mobile apps available to the public, ranging from the privacy-related permissions they request, contacted servers, users' perceptions, security-related issues, and so on. In order to extract those insights, we setup a dedicated analysis tool and we are running it **weekly** and on a **nation-by-nation** basis. 
 
-The inspection of each mobile app is structured around five main dimensions: 
+The inspection of each mobile app is structured around five main dimensions:
+
 :card_index_dividers: App and developer's information<br>  
 :key: User permissions requested by the app<br>
 :globe_with_meridians: External servers mentioned in the code of the app<br>
 :closed_lock_with_key: Security issues in the code of the app<br>
-:speaking_head User ratings and reviews<br>
+:speaking_head: User ratings and reviews<br>
 
 As you can imagine, we collect several data points for each dimension so the best way to get an idea about the information we provide is to directly look at one of our reports (see the table below).  
 
@@ -34,10 +35,13 @@ For transparency, the complete reports and raw data of _all_ the previous inspec
 
 This project is aimed at helping several actors:
 
-:white_check_mark: **Citizens** can use our reports to easily compare COVID-related apps and identify which one fits their needs in terms of usability, trustworthiness, and privacy.<br>
-:white_check_mark: **Content creators** can use our reports as the basis for articles, blog posts, statistical analyses, further investigations, etc.<br> 
-:white_check_mark: **Decision makers** can use our report to estimate the current landscape about COVID-related apps in their country, for example in terms of app's quality, provided services, etc.<br> 
-:white_check_mark: **App developers** can use our report to assess how their own app compares against other COVID-related apps (both within their own nation and worldwide), whether some security-oriented improvements can be done, and how users perceive their own app (for example by seeing our analysis of app reviews in the Google Play store).<br>   
+:white_check_mark: **Citizens** can use our reports to easily compare COVID-related apps and identify which one fits their needs in terms of usability, trustworthiness, and privacy.
+:white_check_mark: **Content creators** can use our reports as the basis for articles, blog posts, statistical analyses, further investigations, etc.
+
+:white_check_mark: **Decision makers** can use our report to estimate the current landscape about COVID-related apps in their country, for example in terms of app's quality, provided services, etc.
+
+:white_check_mark: **App developers** can use our report to assess how their own app compares against other COVID-related apps (both within their own nation and worldwide), whether some security-oriented improvements can be done, and how users perceive their own app (for example by seeing our analysis of app reviews in the Google Play store).
+
 :white_check_mark: **Project contributors** can help in improving this project by:
   - running the analysis tool for countries which are covered yet
   - implementing additional analyses
