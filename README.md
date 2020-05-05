@@ -33,7 +33,7 @@ As you can imagine, we collect several data points for each dimension so the bes
 :netherlands: The Netherlands | [:chart_with_upwards_trend: Results](data_nl/reports/report_2020_5_5.md) | [4 apps](https://play.google.com/store/search?q=covid&c=apps&gl=nl) (Links to Google Play) | :calendar: 05/05/2020
 :us: United States | [:chart_with_upwards_trend: Results](data_us/reports/report_2020_5_5.md) | [3 apps](https://play.google.com/store/search?q=covid&c=apps&gl=us) (Links to Google Play) | :calendar: 05/05/2020
 
-:question: If you want your nation listed here, you can [create an issue](https://github.com/iivanoo/covid-apps-observer/issues/new) in this repository and we will take care of it!
+> Do you want your nation listed here? You can [create an issue](https://github.com/iivanoo/covid-apps-observer/issues/new) in this repository and we will take care of it!
 
 For transparency, the complete reports and raw data of _all_ the previous inspections are available in this GitHub repository and grouped by nation. For example, the ``data-it`` folder contains all the reports and raw data of our inspections in the previous weeks.
 
