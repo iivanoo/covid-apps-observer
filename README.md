@@ -11,11 +11,16 @@ Several mobile apps are being developed and released to the public in order to e
 
 With this project we aim at providing useful insights about COVID-related mobile apps available to the public, ranging from the privacy-related permissions they request, contacted servers, users' perceptions, security-related issues, and so on. In order to extract those insights, we setup a dedicated analysis tool and we are running it **weekly** and on a **nation-by-nation** basis. 
 
-The inspection of each mobile app is structured around five main dimensions:<br>
-:card_index_dividers: App and developer's information<br>  
-:key: User permissions requested by the app<br>
-:globe_with_meridians: External servers mentioned in the code of the app<br>
-:closed_lock_with_key: Security issues in the code of the app<br>
+The inspection of each mobile app is structured around five main dimensions:
+
+:card_index_dividers: App and developer's information
+
+:key: User permissions requested by the app
+
+:globe_with_meridians: External servers mentioned in the code of the app
+
+:closed_lock_with_key: Security issues in the code of the app
+
 :speaking_head: User ratings and reviews
 
 As you can imagine, we collect several data points for each dimension so the best way to get an idea about the information we provide is to directly look at one of our reports (see the table below).  
