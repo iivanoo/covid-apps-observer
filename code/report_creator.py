@@ -449,7 +449,7 @@ def get_analysed_apps(apps):
     return result
 
 # Creates the report about the app
-def create_global_report(apps, app_reports, author_name, author_email):
+def create_global_report(apps, app_reports, author_name, author_email, report_title):
 
     print('Generating the global report...')
 
@@ -472,7 +472,11 @@ def create_global_report(apps, app_reports, author_name, author_email):
             requirements_contents = req_file.read()
             requirements_contents = '- ' + requirements_contents.replace('\n', '\n- ')[:-2]
 
+            if(report_title is None):
+                report_title = 'COVID-related Android apps report'
+
             placeholders = {
+                'REPORT_TITLE': report_title,
                 'AUTHOR_NAME': author_name,
                 'AUTHOR_EMAIL': author_email,
                 'CREATED_AT': timestamp.replace('_', '/'),

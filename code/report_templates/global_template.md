@@ -1,4 +1,4 @@
-# COVID-related Android apps report
+# <<<REPORT_TITLE>>>
 
 Author: `<<<AUTHOR_NAME>>>` (<<<AUTHOR_EMAIL>>>)
 
