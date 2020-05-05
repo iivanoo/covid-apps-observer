@@ -43,15 +43,16 @@ This project is aimed at helping several actors:
 
 :white_check_mark: **Citizens** can use our reports to easily compare COVID-related apps and identify which one fits their needs in terms of usability, trustworthiness, and privacy.
 
-:white_check_mark: **Content creators** can use our reports as the basis for articles, blog posts, statistical analyses, further investigations, etc.
+:white_check_mark: **Content creators and press** can use our reports as the basis for articles, blog posts, statistical analyses, further investigations, etc.
 
 :white_check_mark: **Decision makers** can use our report to estimate the current landscape about COVID-related apps in their country, for example in terms of app's quality, provided services, etc.
 
-:white_check_mark: **App developers** can use our report to assess how their own app compares against other COVID-related apps (both within their own nation and worldwide), whether some security-oriented improvements can be done, and how users perceive their own app (for example by seeing our analysis of app reviews in the Google Play store).
+:white_check_mark: **App developers** can use our report to assess how their own app compares against other COVID-related apps (both within their own nation and worldwide), whether some security-oriented improvements can be done in their own app, and how users perceive it (for example by using our analysis of app reviews in the Google Play store).
 
 :white_check_mark: **Project contributors** can help in improving this project by:
-  - running the analysis tool for countries which are covered yet
+  - running the analysis tool for countries which are not covered yet
   - implementing additional analyses
+    * for example: detection of used 3rd-party libraries, deeper URL detection, detection of usability antipatterns, etc.
   - fixing bugs or improving the current analysis tool
 
 ## Contributions :rainbow:
