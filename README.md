@@ -59,7 +59,9 @@ This project is aimed at helping several actors:
 
 Any feedback, questions, and improvements about the project are very welcome, feel free to create an issue or pull request directly in this GitHub repository. 
 
-For independent verification, the raw data and the source code of the project is publicly available in this repository and its source code has been thoroughly commented in order to provide all the details about how the information provided in our reports has been extracted. Further information about how to contribute to the project is available [here](code/).
+For independent verification, the raw data and the source code of the project is publicly available in this repository and its source code has been thoroughly commented in order to provide all the details about how the information provided in our reports has been extracted. 
+
+Installation and usage guide of the analysis tool are available [here](code/).
 
 ## License
 
