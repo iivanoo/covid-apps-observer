@@ -11,7 +11,9 @@ Several mobile apps are being developed and released to the public in order to e
 
 With this project we aim at providing useful insights about COVID-related mobile apps available to the public, ranging from the privacy-related permissions they request, contacted servers, users' perceptions, security-related issues, and so on. In order to extract those insights, we setup a dedicated analysis tool and we are running it **weekly** and on a **nation-by-nation** basis. 
 
-![](https://media.giphy.com/media/lOxJZCPqVvVTVH5q2d/giphy.gif)
+<p align="center">
+<img src="https://media.giphy.com/media/lOxJZCPqVvVTVH5q2d/giphy.gif" alt="Report preview" width="600"/>
+</p>
 
 The inspection of each mobile app is structured around five main dimensions:
 
