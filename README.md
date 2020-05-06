@@ -33,9 +33,9 @@ As you can imagine, we collect several data points for each dimension so the bes
 
 | **Nation** | **Report** | **Analysed apps** | **Updated at** | 
 |-------------------------|-------------------------|-------------------------|-------------------------|
-:it: Italy | [:chart_with_upwards_trend: Results](data_it/reports/report_2020_5_5.md) | [7 apps](https://play.google.com/store/search?q=covid&c=apps&gl=it) (Links to Google Play) | :calendar: 05/05/2020
-:netherlands: The Netherlands | [:chart_with_upwards_trend: Results](data_nl/reports/report_2020_5_5.md) | [4 apps](https://play.google.com/store/search?q=covid&c=apps&gl=nl) (Links to Google Play) | :calendar: 05/05/2020
-:us: United States | [:chart_with_upwards_trend: Results](data_us/reports/report_2020_5_5.md) | [3 apps](https://play.google.com/store/search?q=covid&c=apps&gl=us) (Links to Google Play) | :calendar: 05/05/2020
+:it: Italy | [:chart_with_upwards_trend: Results](data/data_it/reports/report_2020_5_5.md) | [7 apps](https://play.google.com/store/search?q=covid&c=apps&gl=it) (Links to Google Play) | :calendar: 05/05/2020
+:netherlands: The Netherlands | [:chart_with_upwards_trend: Results](data/data_nl/reports/report_2020_5_5.md) | [4 apps](https://play.google.com/store/search?q=covid&c=apps&gl=nl) (Links to Google Play) | :calendar: 05/05/2020
+:us: United States | [:chart_with_upwards_trend: Results](data/data_us/reports/report_2020_5_5.md) | [3 apps](https://play.google.com/store/search?q=covid&c=apps&gl=us) (Links to Google Play) | :calendar: 05/05/2020
 
 > Do you want your nation listed here? You can [create an issue](https://github.com/iivanoo/covid-apps-observer/issues/new) in this repository and we will take care of it!
 

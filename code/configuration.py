@@ -2,9 +2,6 @@ import json
 import os
 import requests
 
-# DATA_PATH = '../data/'
-# APKS_PATH = '../apks/'
-
 SEPARATOR = '___'
 
 NUM_REVIEWS = 1000
