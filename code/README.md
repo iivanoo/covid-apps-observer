@@ -37,7 +37,7 @@ $ python -m pip install -r requirements.txt
 
 ## Usage
 
-After all requirements are correctly installed, check the contents of one of the ``data-<COUNTRY>/apps.json`` files. It contains a minimal set of metadata referring to the Android apps you want to analyze. An ``apps.json`` has the following structure:
+After all requirements are correctly installed, check the contents of one of the ``data/data-<COUNTRY>/apps.json`` files. It contains a minimal set of metadata referring to the Android apps you want to analyze. An ``apps.json`` has the following structure:
 
 ```js
 [
@@ -57,7 +57,7 @@ After all requirements are correctly installed, check the contents of one of the
 If you want to analyze different apps, you will need to do the following:
 
 * create a new directory (for example, ``my_data``) which will contain all the apps you will analyze and their related data
-* Modify the ``my_data/apps.json`` file according to your needs
+* Create the ``my_data/apps.json`` file according to your needs
 
 The rest is automatically managed by the tool.
 

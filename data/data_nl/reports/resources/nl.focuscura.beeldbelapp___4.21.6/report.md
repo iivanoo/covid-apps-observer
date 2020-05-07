@@ -192,25 +192,25 @@ The Luscii app has been installed by more than **50000** times. At this time, **
 <img src="5_star_reviews_wordcloud.png" alt="nl.focuscura.beeldbelapp 5 reviews"/>
 </p>
 
+> Prima app<br> :date: __2020-05-06 13:42:01__
+
+> Gemakkelijk en overzichtelijk<br> :date: __2020-05-06 10:48:14__
+
+> Krijg iedere dag keurig mijn up dates gestuurd!<br> :date: __2020-05-06 09:34:02__
+
+> Simel<br> :date: __2020-05-06 08:04:01__
+
+> het lijk perfect te werken.<br> :date: __2020-05-05 21:56:24__
+
+> Zeer nuttige Covid app<br> :date: __2020-05-05 18:30:30__
+
+> Goed en duidelijk<br> :date: __2020-05-05 17:45:34__
+
 > Prima! Duidelijk!<br> :date: __2020-05-05 15:20:55__
 
 > makkelijk invullen snel antwoord<br> :date: __2020-05-05 15:14:20__
 
 > Supermakkelijk in gebruik.<br> :date: __2020-05-05 11:13:10__
-
-> Simpel, doelgericht en veel toegevoegde waarde in deze tijd.<br> :date: __2020-05-05 10:09:30__
-
-> Simpel gebruik, goede voorlichting<br> :date: __2020-05-05 08:53:58__
-
-> Geen mening<br> :date: __2020-05-05 08:32:35__
-
-> Duidelijke en eerlijke app. Je krijgt ook netjes een email na het invullen van je gegevens.<br> :date: __2020-05-05 07:46:40__
-
-> Zeer gebruiksvriendelijk<br> :date: __2020-05-04 20:24:15__
-
-> Prima app<br> :date: __2020-05-04 16:42:05__
-
-> Controlle om jezelf te nlijven controleren.<br> :date: __2020-05-04 16:39:48__
 
 
 
@@ -219,6 +219,14 @@ The Luscii app has been installed by more than **50000** times. At this time, **
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="nl.focuscura.beeldbelapp 4 reviews"/>
 </p>
+
+> Werkt naar behoren. Aanrader.<br> :date: __2020-05-06 11:32:52__
+
+> Wel handig en zo kan je je gezondheid in een opslag zien<br> :date: __2020-05-06 11:16:50__
+
+> Prima. Wel een beetje laat de reactie<br> :date: __2020-05-06 10:10:03__
+
+> Handige app, fijn gevoel dat je gebeld word als er iets opvallends gezien word. Echter voor mij zou het handig zijn om bv astma/hooikoorts gerelateerde klachten te kunnen onderscheiden van verkoudheidsklachten.<br> :date: __2020-05-05 20:25:48__
 
 > Goede app. Jammer dat ik na een ong. 3 keer gebruiken alleen nog maar een witte pagina krijg. Na verwijderen en verwijderen opnieuw downloaden werkt hij weer goed.<br> :date: __2020-05-05 12:32:37__
 
@@ -232,14 +240,6 @@ The Luscii app has been installed by more than **50000** times. At this time, **
 
 > Is goed<br> :date: __2020-05-04 09:08:34__
 
-> Waarom niet 1x alles invullen en dan ná akkoord alles tegelijk versturen. Nu telkens versturen na ieder onderdeel is minder. Verder zeer tevreden!<br> :date: __2020-05-04 08:44:52__
-
-> Lijkt goed te werken. Stelt geen vragen over pijn op de borstkas en maag-darmklachten.<br> :date: __2020-05-04 08:35:39__
-
-> Prettig in gebruik<br> :date: __2020-05-04 00:50:16__
-
-> Vindt het een prettige app en laat ook zien dat je ook al gaat het soms langzaam vooruit gaat. Was ik mis is een ruimte om.iets aan te geven, zelf ben ik ook kortademig vanwege hartproblemen dus komt bij mij nooit op 0 en geeft dan een vertekend beeld.<br> :date: __2020-05-03 20:42:55__
-
 
 
 #### 3-star reviews
@@ -247,6 +247,8 @@ The Luscii app has been installed by more than **50000** times. At this time, **
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="nl.focuscura.beeldbelapp 3 reviews"/>
 </p>
+
+> Alle aangevinkte uitslagen zouden ook in 1 keer verstuurd kunnen worden<br> :date: __2020-05-06 13:44:36__
 
 > Je moet ieder item apart verzenden. Veel geklik dus. Verder ok.<br> :date: __2020-05-05 11:55:29__
 
@@ -265,8 +267,6 @@ The Luscii app has been installed by more than **50000** times. At this time, **
 > Simpel en snel<br> :date: __2020-05-02 17:45:08__
 
 > Het steeds versturen is hinderlijk kan ook als de vragen allemaal ingevuld zijn<br> :date: __2020-05-01 19:09:33__
-
-> Zou fijn zijn als er meer symptomen bij staan, zoals buikpijn, diarree, hoofdpijn.<br> :date: __2020-05-01 18:07:17__
 
 
 
@@ -304,6 +304,8 @@ The Luscii app has been installed by more than **50000** times. At this time, **
 <img src="1_star_reviews_wordcloud.png" alt="nl.focuscura.beeldbelapp 1 reviews"/>
 </p>
 
+> Beter als je eerst alle vragen beantwoord en dan alle antwoorden in 1 keer verstuurd. Werkt sneller bij invullen<br> :date: __2020-05-06 15:03:22__
+
 > Slecht<br> :date: __2020-05-05 09:25:06__
 
 > App opend niet meer meerdere malen opnieuw geinstaleerd<br> :date: __2020-05-05 06:09:16__
@@ -321,7 +323,5 @@ The Luscii app has been installed by more than **50000** times. At this time, **
 > De app is te traag. De app "dividend radar" stelt dezelfde vragen en is snel en makkelijk. Vreemd dat de verschillende apps geen gegevens delen. Zou een vollediger beeld geven<br> :date: __2020-04-28 23:28:23__
 
 > Super APP heel duidelijk. Voor mij zelf geef het als gebruiker een safe gevoel<br> :date: __2020-04-28 10:13:12__
-
-> Gebruik nog kort,maar handig in te voeren de gegevens<br> :date: __2020-04-26 19:31:51__
 
 

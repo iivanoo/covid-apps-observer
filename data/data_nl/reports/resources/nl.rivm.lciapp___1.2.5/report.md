@@ -140,6 +140,8 @@ The RIVM LCI-richtlijnen app has been installed by more than **50000** times. At
 <img src="5_star_reviews_wordcloud.png" alt="nl.rivm.lciapp 5 reviews"/>
 </p>
 
+> BLIJF. ANDERHALVE .METER . AFSTAND HOUDEN/ PLEASE KEEP 1,5M DISTANCE AT ALL TIMES , otherwise YOU CAN GET FINED €290,--!!!!!!<br> :date: __2020-05-05 22:02:40__
+
 > Super mooi.werk prima.<br> :date: __2020-04-30 13:56:43__
 
 > Goed<br> :date: __2020-04-23 16:47:54__
@@ -157,8 +159,6 @@ The RIVM LCI-richtlijnen app has been installed by more than **50000** times. At
 > Erg veel informatie interessante telefoon nummers, info over allerlei ziektes, en wat jij nog meer zou willen weten over corona staat hier in. direct downloaden. Blijf gezond en houd je aan de regels.<br> :date: __2020-04-05 14:12:57__
 
 > Veel info<br> :date: __2020-04-05 04:30:22__
-
-> Als het continue wordt ge update prima!<br> :date: __2020-03-19 08:33:44__
 
 
 
@@ -204,6 +204,8 @@ The RIVM LCI-richtlijnen app has been installed by more than **50000** times. At
 <img src="1_star_reviews_wordcloud.png" alt="nl.rivm.lciapp 1 reviews"/>
 </p>
 
+> Te slecht voor woorden hier maak ik geen tijd meer voor vrij.<br> :date: __2020-05-06 03:31:06__
+
 > Goede app maar niet voor de particulier<br> :date: __2020-04-27 11:01:02__
 
 > Nvt<br> :date: __2020-04-21 09:03:25__
@@ -221,7 +223,5 @@ The RIVM LCI-richtlijnen app has been installed by more than **50000** times. At
 > Gegevens worden niet opgehaald<br> :date: __2020-04-08 18:34:58__
 
 > Kan bestanden niet downloaden.<br> :date: __2020-04-07 19:23:22__
-
-> Mooie algemene app maar waarom is er nog steeds geen fatsoenlijke app gericht op Corona, het liefst op omgevingsniveau ? Deze data is gewoon voorhanden.Ws geen prioriteit ondanks ondanks alle crisis. Dank aan het kabinet.<br> :date: __2020-04-04 11:20:09__
 
 
