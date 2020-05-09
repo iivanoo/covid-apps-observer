@@ -11,8 +11,8 @@
     {"code": "br", "lang": "pt", "name": "Brasil"},
     {"code": "ca", "lang": "en", "name": "Canada"},
     {"code": "cn", "lang": "en", "name": "China"},
-    {"code": "in", "lang": "in", "name": "India"},
     {"code": "jp", "lang": "jp", "name": "Japan"},
     {"code": "ru", "lang": "ru", "name": "Russia"},
-    {"code": "au", "lang": "en", "name": "Australia"}
+    {"code": "au", "lang": "en", "name": "Australia"},
+    {"code": "in", "lang": "in", "name": "India"}
     ]
