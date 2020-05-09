@@ -33,12 +33,13 @@ def is_new(app_id, apps):
             return False
     return True
 
-def collect_data(input):
+# Iterates over all COUNTRIES and searches for new covid apps in the Google Play store
+def collect_data(root_path):
     
     for e in COUNTRIES:
         country = e['country_code']
         lang = e['lang']
-        data_path = input + '/data_' + country
+        data_path = root_path + '/data_' + country
         if(not os.path.exists(data_path)):
             print('The country with code "' + country + '" is new, I am setting up its folder and app.json file now...')
             os.mkdir(data_path)
@@ -70,7 +71,7 @@ def collect_data(input):
         c.save(c.APPS_PATH, analysed_apps)
 
 # We check if the provided input is correct and then we start checking and collecting the new data 
-def update(input):
+def update_apps_lists(input):
     
     # We don't even start if the provided path does not exist
     if(not os.path.exists(input)):
@@ -78,6 +79,9 @@ def update(input):
         exit()
 
     collect_data(input)
+
+def analyze_apps(root_path):
+    print(root_path)
 
 def main():
     # Arguments definition and management
@@ -88,7 +92,8 @@ def main():
     # This will allow us to trust SSL certificates from the servers we will interact with (e.g., the one for downloading NLTK stop word)
     ssl._create_default_https_context = ssl._create_unverified_context
 
-    update(options.input)
+    update_apps_lists(options.input)
+    analyze_apps(options.input)
 
 if __name__ == "__main__":
     main()
