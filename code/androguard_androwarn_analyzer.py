@@ -4,6 +4,7 @@ from lib.warn.analysis.analysis import perform_analysis
 from lib.warn.report.report import generate_report
 import configuration as c
 
+
 # Analyses the app with Androguard - https://androguard.readthedocs.io/en/latest/intro/index.html
 def analyze(app):
     
