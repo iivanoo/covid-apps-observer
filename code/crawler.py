@@ -4,10 +4,10 @@ import sys
 import os
 import time
 from google_play_scraper import app, Sort, reviews
-import ssl
 import random
 import configuration as c
 import apk_downloader
+
 
 def download_apk(app_to_download, apk_path):
     print('Downloading the APK of: ' + app_to_download)
@@ -17,6 +17,7 @@ def download_apk(app_to_download, apk_path):
 def get_gp_metadata(app_to_scrape):
     app_metadata = app(app_to_scrape['id'], lang=app_to_scrape['store_lang'], country=app_to_scrape['store_country'])
     return app_metadata
+
 
 def get_reviews(app_to_scrape):
     time.sleep(random.randrange(10))
@@ -30,6 +31,7 @@ def get_reviews(app_to_scrape):
     count=c.NUM_REVIEWS)
 
     return result
+
 
 def crawl_data(app):
 
@@ -54,11 +56,11 @@ def crawl_data(app):
     
     # Download the APK if it is new
     apk_path = c.APKS_PATH + app_suffix_path + '.apk'
-    if(not os.path.exists(apk_path)):
-        if(not download_apk(app['id'], apk_path)):
+    if not os.path.exists(apk_path):
+        if not download_apk(app['id'], apk_path):
             print('Error while downloading the following app, try to download it manually: ' + app['id'])
             exit()
-        elif(not apk_downloader.verify_apk(app['id'], apk_path, app_suffix_path)):
+        elif not apk_downloader.verify_apk(app['id'], apk_path, app_suffix_path):
             print('The downloaded APK is not well formed: ' + apk_path)
             exit()
     
@@ -66,9 +68,9 @@ def crawl_data(app):
     app['latest_crawl'] = int(time.time())
     
     # Let's inform the user about whether new data has been crawled
-    if(is_new_data_available):
-        print('Crawled new data for: ' + app['id'] +  ' - version: ' + app_latest_version)
+    if is_new_data_available:
+        print('Crawled new data for: ' + app['id'] + ' - version: ' + app_latest_version)
     else:
-        print('Already up to date: ' + app['id'] +  ' - version: ' + app_latest_version)
+        print('Already up to date: ' + app['id'] + ' - version: ' + app_latest_version)
 
     return is_new_data_available

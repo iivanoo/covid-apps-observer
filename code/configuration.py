@@ -6,6 +6,7 @@ SEPARATOR = '___'
 
 NUM_REVIEWS = 1000
 
+
 def setPaths(path):
 
     global GLOBAL_PATH
@@ -14,7 +15,7 @@ def setPaths(path):
     global APKS_PATH
     global REPORTS_PATH
 
-    if(not path.endswith('/')):
+    if not path.endswith('/'):
         path = path + '/'
     GLOBAL_PATH = path
     APPS_PATH = path + 'apps.json'
@@ -31,22 +32,26 @@ def setPaths(path):
     if not os.path.exists(REPORTS_PATH):
         os.makedirs(REPORTS_PATH)
 
+
 # Downloads a remote resource pointed by url into path
 def download(url, path):
     img_data = requests.get(url, allow_redirects=True).content
     with open(path, 'wb') as handler:
         handler.write(img_data)
 
+
 # Save JSON data into the given filePath
-def save(filePath, data):
-    with open(filePath, 'w') as outfile:  
+def save(file_path, data):
+    with open(file_path, 'w') as outfile:
         json.dump(data, outfile, indent=4, default=str)
+
 
 # Get the complete path of the APK of the app
 def get_apk_path(app):
     app_latest_version = app['latest_crawled_version']
     app_suffix_path = app['id'] + SEPARATOR + app_latest_version
     return APKS_PATH + app_suffix_path + '.apk'
+
 
 # Get the raw data resulting from either a previous analysis or a previous crawl
 # analysis_type = androguard | androwarn | metadata | reviews 

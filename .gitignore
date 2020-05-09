@@ -130,6 +130,9 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+# PyCharm files
+.idea/
+
 # All Android Apk files should not be in the repo
 *.apk
 

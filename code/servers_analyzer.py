@@ -23,14 +23,16 @@ def is_candidate(url):
     if re.search('hostname', url):
         return False
     # if the url is too short, we discard it
-    if(len(url.replace('http://', '').replace('https://', '')) <= 2):
+    if len(url.replace('http://', '').replace('https://', '')) <= 2:
         return False
     return True
+
 
 # Given a url, it returns only its first-level domain
 def get_first_level_domain(url):
     res = get_tld(url, as_object=True)
     return res.fld
+
 
 # Checks all the URLs managed within the app and returns the candidates for being relevant URLs
 def get_candidate_urls(app):
@@ -40,13 +42,14 @@ def get_candidate_urls(app):
     all_urls = c.ger_raw_data(app, 'androguard')['urls']
     
     for current_url in all_urls:
-        if(is_candidate(current_url)):
+        if is_candidate(current_url):
             polished_url = get_first_level_domain(current_url)
             result.append(polished_url)
     
     # Remove duplicates
     result = list(dict.fromkeys(result))
     return result
+
 
 # Polishes the list of URLs used in the app and performs a whois lookup on the most promising ones
 def analyze(app):
