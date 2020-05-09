@@ -1,5 +1,27 @@
 [
     {
+        "userName": "Luigi Pilia",
+        "userImage": "https://lh3.googleusercontent.com/-dJ_remQpVGU/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJPjTY-r6RWa5buB6hv6G0A5F_kmdQ/photo.jpg",
+        "content": "Ok",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2020-05-08 07:14:05",
+        "replyContent": "Gentile utente, la ringraziamo per la valutazione positiva.",
+        "repliedAt": "2020-05-08 09:16:22"
+    },
+    {
+        "userName": "Paolo Roggero",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiNhdkgMJGIO3b_cQaMomN7b-7vdih1bDe4jj0",
+        "content": "Magari scrivetelo che \u00e8 per Roma o Lazio... Cos\u00ec uno evita di installare App a capocchia e inutilmente",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2020-05-06 01:39:14",
+        "replyContent": "Gentile utente, ha ragione, ma dopo la prima release ufficiale Google Play ha sempre bloccato qualsiasi tipo di aggiornamento. Tuttora stiamo provando ad aggiornare l'App in attesa di valutazione. E' disponibile una versione \"generica\" ADiLife C-19, utilizzabile previa fornitura da parte della struttura che ha aderito al servizio di un account.",
+        "repliedAt": "2020-05-06 09:17:51"
+    },
+    {
         "userName": "Rota Alessandro",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjJVyymmnJHOP-hrioX3bjUuClAqC1VqCb90wjHv7E",
         "content": "Malware e Spyware",
@@ -235,7 +257,7 @@
         "userImage": "https://lh3.googleusercontent.com/-G4eLFqLOwws/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJMaWvLf55cNXhrl26Am7tSXoVIURQ/photo.jpg",
         "content": "Anche a me dice credenziali errate, in entrambe le modalita'. Ma che cavolo di email e password devo metterci??? Vi do 4 stelle di incoraggiamento sperando che risolvete grazie. Edit ah ookk bastava legger sotto... Mi sono accorto solo ora.",
         "score": 4,
-        "thumbsUpCount": 46,
+        "thumbsUpCount": 47,
         "reviewCreatedVersion": "1.0.4",
         "at": "2020-04-06 16:00:11",
         "replyContent": "Gentile cliente, questa App \u00e8 rivolta alle persone che sono in isolamento forzato causa Covid-19. Per accedere al servizio \u00e8 sufficiente ricevere un account dalla struttura medica di riferimento (se usufrisce della piattaforma) per l\u2019avvio della sorveglianza. Per maggiori informazioni a riguardo https://www.adilife.net/covid-19.",
@@ -342,7 +364,7 @@
     },
     {
         "userName": "Antonio Bertolini",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gg8mvzz2MISW8ZpsA4eNnwswuvmVgaYPFJICgK6Bg",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhQUDge9RuxVaKrZYeqB33mbc7QUyVmEAU-TMy-ww",
         "content": "Questa \u00e8 davvero necessariamente importante per tutti",
         "score": 5,
         "thumbsUpCount": 0,
@@ -411,7 +433,7 @@
         "userImage": "https://lh3.googleusercontent.com/-JkkrOWzNcPw/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJOfciTGxv7GF9EXKQBgPULC6gFoAQ/photo.jpg",
         "content": "Che si offra al paziente la possibilit\u00e0 di non sentirsi dimenticato e lontano da chi lo pu\u00f2 curare lo trovo straordinario. Andate avanti!",
         "score": 5,
-        "thumbsUpCount": 109,
+        "thumbsUpCount": 110,
         "reviewCreatedVersion": "1.0.4",
         "at": "2020-03-31 20:16:58",
         "replyContent": "Gentile utente, la ringraziamo per la valutazione. Ce la stiamo mettendo tutta per supportare le strutture mediche (ASL, associazione di MMG) nell'affrontare questa pandemia.",
@@ -693,7 +715,7 @@
         "repliedAt": "2020-03-25 13:32:02"
     },
     {
-        "userName": "Massimo Bonessio",
+        "userName": "alida merlo",
         "userImage": "https://lh3.googleusercontent.com/-XNG4Ls6sPHE/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJPUsKtxk_6S7-Qx2rHK6001h7VShA/photo.jpg",
         "content": "Nn funziona fa schifo",
         "score": 1,

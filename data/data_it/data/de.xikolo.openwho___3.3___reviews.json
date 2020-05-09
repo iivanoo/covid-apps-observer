@@ -1,0 +1,35 @@
+[
+    {
+        "userName": "NOPCEA Onlus",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiMben7RYiwilndJ2QQmBrxmNJTFOQCFYQnXkV1FQ",
+        "content": "Useful and well-structured",
+        "score": 5,
+        "thumbsUpCount": 5,
+        "reviewCreatedVersion": "3.2.1",
+        "at": "2020-04-23 13:33:22",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "userName": "Angelo Damiani",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgQmXK0kZkaHBoxzcmgz3qlLWms-FZWOZBxF8TTEQ",
+        "content": "Ottimo e significativo per la vita.",
+        "score": 5,
+        "thumbsUpCount": 15,
+        "reviewCreatedVersion": null,
+        "at": "2020-04-17 06:44:32",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "userName": "Si Ga",
+        "userImage": "https://lh3.googleusercontent.com/-FF0UazzsW0A/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJMT998Z8sa36_CofwhGm8rcPWxYEw/photo.jpg",
+        "content": "Non c'\u00e8 in italiano",
+        "score": 1,
+        "thumbsUpCount": 40,
+        "reviewCreatedVersion": null,
+        "at": "2020-04-14 23:32:56",
+        "replyContent": null,
+        "repliedAt": null
+    }
+]

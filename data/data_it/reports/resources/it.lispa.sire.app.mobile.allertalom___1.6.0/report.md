@@ -159,25 +159,25 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <img src="5_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 5 reviews"/>
 </p>
 
-> Dopo l'aggiornamento i dati fissi restano memorizzati ma comunque modificabili in caso di cambiamenti.<br> :date: __2020-05-05 13:26:56__
+> App ben fatta..un unico appunto, manca la Casellina del "sierologico" che in molti stiamo facendo. Io ho dato ok al tampone ma è mezza verità. Buon lavoro e grazie.<br> :date: __2020-05-09 07:49:11__
 
-> Bellissima app<br> :date: __2020-05-05 07:58:40__
+> 5 stelle sulla fiducia<br> :date: __2020-05-08 21:19:23__
 
-> Volendo aggiornare quotidianamente la condizione di salute bisognava compilare ogni volta tutti i campi risolto però con l'ultimo aggiornamento. È stato sistemato e c' è in più la possibilità di inserire i familiari che non abbiano l'app ed ampliare quindi la platea del monitoraggio. Io per esempio inserisco anche i miei genitori.<br> :date: __2020-05-04 10:01:04__
+> Adesso ci riprovo<br> :date: __2020-05-08 18:02:04__
 
-> Grazie mille ora funziona alla grande<br> :date: __2020-05-03 19:04:03__
+> Perfetto<br> :date: __2020-05-08 15:30:18__
 
-> Il mio stato di salute va aggiornato tutti i giorni. Ma come e da dove?<br> :date: __2020-05-02 22:57:51__
+> App molto utile , scoperta solo adesso purtroppo dato che dà informazioni utili.una richiesta : la compilazione giornaliera del questionario x il covid19 precompila alcuni campi con i valori del giorno prima altri invece vanno reinseriti ogni volta ( tipo città e cap dove si abita e si lavora ) . Potreste riportare e valori del giorno precedente , almeno x quello che ne n riguarda la salute? Grazie in anticipo Update : 5 🌟<br> :date: __2020-05-08 10:55:52__
 
-> L'APP per me è valida!!!Nel mio commento giornaliero posso aggiungere che oggi mio genero lavorando al Sacco ha fatto il prelievo ed è risultato positivo inoltre ha già fatto il primo tampone ed è in attesa del risultato.Siccome abita vicino a me io e mia moglie dobbiamo preoccuparci Comunque per ora noi tutto bene Grazie Oggi è errivato l'esito del tampone NEGATIVO BENE meglio così<br> :date: __2020-05-02 15:16:29__
+> Regione Lombardia,grazie per la risposta,<br> :date: __2020-05-07 17:22:18__
 
-> Ma dove si trova il questionario CoVid 19? Ok, fatto! Ora è perfetto. Grazie<br> :date: __2020-05-02 12:28:53__
+> Ottima<br> :date: __2020-05-06 17:36:41__
 
-> Tutto bene.<br> :date: __2020-05-02 09:47:42__
+> Molto utile<br> :date: __2020-05-06 16:13:49__
 
-> Utile<br> :date: __2020-05-02 09:33:40__
+> Dopo l’aggiornamento funziona benissimo.<br> :date: __2020-05-06 12:25:53__
 
-> Favoloso<br> :date: __2020-05-01 13:03:02__
+> Edit: come segnalato, con la nuova versione il problema dei dati da ricompilare è stato risolto, ora la compilazione del questionario è più veloce. Tutto il resto continua a funzionare bene<br> :date: __2020-05-06 11:55:15__
 
 
 
@@ -187,25 +187,25 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <img src="4_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 4 reviews"/>
 </p>
 
+> Grazie per la Vostra risposta. Quand'è così ho modificato la mia recensione. Trovo importante avere la possibilità di visualizzare l'evoluzione del virus. Grazie<br> :date: __2020-05-09 12:45:04__
+
+> Decisamente meglio con gli ultimi aggiornamenti ma... Come si fa a modificare l'età di "me stesso"? Magari cambierà poco ai fini statistici, ma è anche l'unica prova del compleanno trascorso... E per fortuna! Edit post risposta: fatto! E grazie mille per gli auguri!<br> :date: __2020-05-08 11:02:53__
+
+> Ogni giorno continua a chiedere i soliti dati capisco la salute ma il resto è dalla chiusura che più che casa lavoro non faccio mi sono stancato disinstallato.<br> :date: __2020-05-08 09:46:43__
+
+> Ora va meglio grazie<br> :date: __2020-05-07 18:50:15__
+
+> Grazie per la cortese risposta e per l'aggiornamento che ora mantiene alcune infornazioni, sarebbe utile,per poter individuare le zone di proprio interesse che sulla cartina della regione venissero inseriti i capoluoghi di prov. o i codice-zona, o che selezionando una zona si attivi uno zoom. Grazie<br> :date: __2020-05-07 17:44:10__
+
+> Buono<br> :date: __2020-05-07 15:16:53__
+
+> La ho reinstallata da più di una settimana sta funzionando. Ok.<br> :date: __2020-05-06 17:52:14__
+
+> Mi e' servita e mi serve ora ,per gestire le mie esigenze pratiche.<br> :date: __2020-05-06 09:29:49__
+
+> ok, risolto il problema, mi ha permesso di inviaee ilquestionario compilato<br> :date: __2020-05-05 20:47:09__
+
 > Dopo aver fatto l'aggiornamento è tutto a posto, Ricerca Covid compare nella home Page e si può fare il questionario ogni giorno, aggiungendo anche i familiari.<br> :date: __2020-05-03 18:49:09__
-
-> Peccato si debba riconfermare privacy ad ogni apertura<br> :date: __2020-05-02 12:27:22__
-
-> Buona<br> :date: __2020-05-01 11:38:21__
-
-> Dopo l'aggiornamento l'app è sicuramente più user friendly. Potrebbe essere utile mandare una notifica push per ricordare l'utente di compilare il questionario.<br> :date: __2020-04-30 20:09:02__
-
-> Utile per le allerte meteo, funziona correttamente.<br> :date: __2020-04-30 15:58:08__
-
-> Interessante applicazione che verrà utile anche in tempi "normali". Unico neo che riscontro non trovo il modo di cambiare la mia età inserita erroneamente al primo inserimento.<br> :date: __2020-04-29 06:24:45__
-
-> Installato dopo molti tentativi. Perché resta memorizzata solo l'età? Non si potrebbe fare rimanere disponibili anche il comune di residenza, il cap... e tutti gli altri dati che non cambiano? Grazie.<br> :date: __2020-04-28 20:45:21__
-
-> Tutti dovrebbero applicarla..ci se ne frega della privacy...la vita è più importante<br> :date: __2020-04-28 20:37:49__
-
-> Con la nuova versione sembrano risolti i problemi di connessione al servizio In precedenza, con la versione precedente della app spesso appariva l'errore: "Servizio attualmente non raggiungibile. Ti invitiamo a riprovare più tardi." quasi a ogni apertura<br> :date: __2020-04-28 18:59:48__
-
-> Manca possibilità segnalazione di interferenze da farmaci, es.: CARDURA può produrre sintomi similinfluenzali, NORVASC può produrre dispnea, tosse, riniti, faringo tracheiti, etc. per vari farmaci<br> :date: __2020-04-28 18:42:08__
 
 
 
@@ -214,6 +214,16 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 3 reviews"/>
 </p>
+
+> Risolto i problemi di caricamento<br> :date: __2020-05-08 09:38:45__
+
+> App che uso pressoché regolarmente da circa un mese, da quando ne sono venuto a conoscenza. Il questionario a mio avviso ha qualche lacuna: secondo me andrebbero distinti i sintomi del raffreddore allergico da quello comune. Anche per la domanda sui dolori muscolari, l'attività fisica intensa o il lavoro possono esserne una causa. In tal caso, come rispondere?<br> :date: __2020-05-08 08:30:37__
+
+> Ripetitivo<br> :date: __2020-05-08 00:51:45__
+
+> All'inizio funzionava. Ora quasi sempre non si apre e va in errore<br> :date: __2020-05-07 20:31:38__
+
+> Migliorata, ma ancora lentissima.<br> :date: __2020-05-07 10:07:15__
 
 > Bisogna introdurre i dati inutilmente tutti i giorni. Mettete un "bottone" per confermare i dati precedenti se nulla è cambiato. Qualche miglioria è stata apportata ma bisogna comunque riconfermare uno ad uno i dati sanitari.<br> :date: __2020-05-05 14:24:59__
 
@@ -224,16 +234,6 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 > X me e' utile ma molto riduttiva in quanto si richiede se negli ultimi 15 giorni si sono avuti determinati sintomi ma non da la possibilita' di specificare se si hanno variazioni nel frattempo<br> :date: __2020-05-01 13:33:34__
 
 > Oggi funziona poco gli altri giorni era efficace<br> :date: __2020-05-01 13:03:27__
-
-> Recentemente si apre in minor tempo rispetto a prima<br> :date: __2020-04-30 17:20:33__
-
-> L'avevo disinstallata perché non funzionava. Appariva una pagina bianca. Ora installata nuovamente. Per ora pare funzioni. L'altra volta diede problemi dopo qualche giorno. Aggiornamento: al 30 / 04 tutto bene<br> :date: __2020-04-30 17:15:04__
-
-> Migliorata rispetto a prima<br> :date: __2020-04-29 18:17:55__
-
-> Se i dati covid inseritonon variano perché non c'è la possibilità che restino memorizzati? Perché non c'è la possibilità di segnalare un luogo dove se ne fregano di rispettare le norme di avere mascherine, controllo temperatura e tutto il resto?<br> :date: __2020-04-29 13:56:41__
-
-> Vorrei consigliare di aggiungere la possibilità di segnalare se il soggetto è allergico o meno, perché in caso di allergia potrebbero essere presenti sintomi quali congiuntivite, rinite, tosse asmatica che non vanno confusi con i sintomi da infezione delle vie respiratorie da covid19<br> :date: __2020-04-29 09:43:40__
 
 
 
@@ -251,8 +251,6 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 
 > Non carica se vuoi aggiornare il tuo stato di single e rimane bloccata App<br> :date: __2020-05-03 12:58:36__
 
-> Finalmente dopo più di un mese sono riuscito ad installare l'APP e ad accedere. Sono ancora molto perplesso sulla reale utilità di questa app. Nella sezione Covid, fa domande sullo stato di salute ma poi non fornisce nessuna indicazione specifica sullo stato di rischio regionale o comunale riguardante l'epidemia, nemmeno quanti contagiati o morti ci sono stati nella regione, provincia o comune. La sezione Covid e stata sviluppata in fretta ma dopo oltre un mese occorreva fare di più.<br> :date: __2020-05-03 10:21:13__
-
 > Utile e comoda se funzionasse regolarmente<br> :date: __2020-05-01 20:53:38__
 
 > Sto provando a compilare dal pomeriggio ed ora è notte. Non riesco ancora , quando chiedo di accedere mi esce solo una pagina bianca . Mi permetto una osservazione. Alla domanda sulle eventuali malattie croniche dovrebbe esserci la voce" altro". Sarebbe più completo<br> :date: __2020-05-01 02:08:27__
@@ -263,6 +261,8 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 
 > Non si capisce lo scopo, scarsa utilita'.<br> :date: __2020-04-30 19:06:54__
 
+> Avrebbe avuto più senso ideare una applicazione con domande risalenti al mese di febbraio, così da avere un quadro della patologia passata ed in atto. In tal modo, sarebbe stato possibile seguire l'evoluzione dei sintomi di tutta quella parte di popolazione che non si è potuta sottoporre al tampone.<br> :date: __2020-04-29 20:26:01__
+
 
 
 #### 1-star reviews
@@ -271,24 +271,24 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <img src="1_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 1 reviews"/>
 </p>
 
-> Pessimo il collegamento notifiche-app. Si, purtroppo persiste l'errore :(<br> :date: __2020-05-05 11:52:11__
+> Quanti pecoroni ha scaricare un App,bene,bene,fate...svegliatevi piuttosto, ancora l'avete capito che è stato tutto studiato a tavolino,compreso app????? X tenervi tutti sotto controllo, moritorarvi è farvi ammalare,trà vaccini avvelenati,virus creati,modificati x ammazzarci,è nn solo...NWO...umanità gregge bravi scaricate...fatevi vaccinare,microchip, economia e lavoro a collasso,tutto studiato...voi dormite pecore ubbidienti...ma attenzione ai lupi,vorrei dire queste fecce del NWO.<br> :date: __2020-05-08 20:25:04__
 
-> Salve, riesco a compilare il questionario covid e poi niente più. Non riesco a fare altro e non so nemmeno se il questionario è stato inviato e andato a buon fine. L'ho installato su Xiaomi Mi A1. Mi dite di verificare la versione. Fatto. Aggiornata. Aperta. Compilato... Vorrei allegare il video del modulo con davanti il rollio del wip ma purtroppo non si può. Facciamo che per la sesta volta la disinstallo e pace<br> :date: __2020-05-04 19:54:00__
+> Questa applicazione si chiama Allerta LOM , ma sul covid non fornisce nessuna allerta. Nella sezione Covid, fa domande sullo stato di salute ma poi non fornisce nessuna indicazione specifica sullo stato di rischio regionale o comunale riguardante l'epidemia, nemmeno quanti contagiati o morti ci sono stati nella regione, provincia o comune. La regione fa' il monitoraggio, ma poi non dice niente sui risultati alla gente. Capisco la fretta iniziale ma dopo un mese occorreva fare di più.<br> :date: __2020-05-08 08:14:20__
 
-> Ho disinstallato e reinstallato ma Riesco ad accedere solo la prima volta poi ad ogni ulteriore tentativo si blocca<br> :date: __2020-05-04 19:35:58__
+> Dovreste aggiungere la possibilita di inserire congiunti morti con sintomi e senza che sia stato effettuato nessun tampone<br> :date: __2020-05-07 20:46:11__
 
-> Semplicemente pessima. A cominciare dal fatto che non va su un dispositivi con accesso root (manco fosse l'app della banca: è un'app che serve solo a diffondere informazioni PUBBLICHE o sbaglio ?), spesso cancella i dati di registrazione e bisogna rifare tutto da capo (ogni volta bisogna cliccare 4 volte, QUATTRO!!, sulla parola "accetta". Prima in fondo a destra e poi nel popup, quindi un altro giro uguale...) e oggi, novità, non mi consente di rifiutare il monitoraggio covid (l'opzione "non partecipo" non reagisce al tocco). Non bastasse tutto ciò... 2 volte su 3 da errore durante l'accesso al server: Piena di operazioni noiose da ripetere e ripetere (bisogna inserire i comuni uno per uno per poter ricevere le allerte su tutta una zona, e poi l'app si perde tutto e bisogna rifarlo da capo) e in definitiva quasi inutile visto che è raro vederla funzionare davvero.<br> :date: __2020-05-04 19:01:16__
+> Ma possibile che nessuno si rende conto che questa app non funziona la provo da almeno tre settimane ricevo le notifiche apro l'app ma non arrivo mai a leggere la notifica continua a chiedermi di compilare il form covid, l'avrò compilato almeno 20 volte.<br> :date: __2020-05-07 20:42:49__
 
-> Potreste già quntificarli coordinandovi con medici di base e ospedali<br> :date: __2020-05-04 18:59:16__
+> Pessima disinstallo!<br> :date: __2020-05-07 20:35:56__
 
-> Arrivavano notifiche, ma non riuscivo a ricevere mai aggiornamenti, come se si bloccasse. Mi spiace, ma l'ho eliminata.<br> :date: __2020-05-04 16:53:32__
+> Dopo settimane che compilo regolarmente il questionario per il Coronavirus, oggi l'app non si apre più in nessun modo.<br> :date: __2020-05-07 18:35:16__
 
-> La gestione Covid19 è sostanzialmente inutile. Se le persone con sintomi non vengono valutate poi da un medico dell'Asst, il significato "cercacovid" Non ha senso. Serve una gestione sanitaria dell'emergenza non indagini di autocertificazioni. Il problema dell'estensione dell'epidemia è proprio l'incapacità di isolare i positivi.<br> :date: __2020-05-03 14:13:36__
+> 👂👀👂 🏟️🏟️🏟️🏟️🏟️🏟️🏟️🎙️🎷🎶📢🚩🚩👅<br> :date: __2020-05-07 13:04:39__
 
-> Oltre al servizio principale, tracciare le persone non è di concreta utilità: il rischio temporali , grandine, piogge intense, devono essere previsti nella maggior parte dei casi almeno il giorno prima, per essere efficaci. Qui ti avvisa solo qualche ora prima !<br> :date: __2020-05-03 09:07:56__
+> A che serve.....<br> :date: __2020-05-07 02:52:36__
 
-> Da una sicurezza in più grazie<br> :date: __2020-05-02 17:40:04__
+> Anche con questa nuova versione non vengono salvate le scelte iniziali e i dati compilati e ogni volta bisogna reinserire tutto. Troppo complicato fare un app che funzioni? --- 6/5/2020 La versione 1.6.0 continua a non salvare l'accettazione dei termini di servizio e tutte le scelte successive. Huawei P8 lite, Android 6. Ogni volta che si lancia bisogna rieseguire tutta la procedura.<br> :date: __2020-05-06 21:14:46__
 
-> ma perchè? continuano a mentire sul numero dei dowload, in tv ne dichiarano 1.200.000. qui sono "solo" 500.000.. la #lega. e i milioni litigano sempre. eh!<br> :date: __2020-05-02 16:03:00__
+> Installata, provata. Risultato: non serve a nulla, perché non é legata alla singola persona, quindi non rileva la posizione geografica, e richiede l'aggiornamento quotidiano anche se non ci sono variazioni di salute. Quando uscirá la famosa app Immuni?<br> :date: __2020-05-06 20:10:24__
 
 

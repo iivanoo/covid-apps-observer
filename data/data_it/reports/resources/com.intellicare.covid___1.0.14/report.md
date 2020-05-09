@@ -168,6 +168,8 @@ The LAZIOdrCovid app has been installed by more than **50000** times. At this ti
 <img src="4_star_reviews_wordcloud.png" alt="com.intellicare.covid 4 reviews"/>
 </p>
 
+> Funziona, per quelle che sono le sue funzioni base. Sarebbe il caso che fosse collegata con la propria cartella che si trova online accessibile con CNS in modo che possano essere sincronizzati i parametri.<br> :date: __2020-05-08 18:46:04__
+
 > Un buon progetto e decisamente un buon inizio, spero che per il futuro non si abbandonerà questo progetto ma che si possa ampliare per utilizzarlo aggiornando funzionalità.<br> :date: __2020-04-14 12:22:09__
 
 > Si potrebbe integrare la movimentazione per eventuale sorveglianza per la fase due<br> :date: __2020-04-14 11:24:04__
@@ -185,8 +187,6 @@ The LAZIOdrCovid app has been installed by more than **50000** times. At this ti
 > Aiuta a capirsi meglio quanta criticità hai in relazione al virus. Al momento non ho capito come poter cambiare medico curante... Dato che il medico inserito è in pensione dal 1 aprile e dovrei inserire nuovo medico scelto o dovrebbe proporlo in automatico<br> :date: __2020-04-03 12:21:47__
 
 > Se ci sono pediatri, come mai non è possibile registrare i minorenni?<br> :date: __2020-04-02 11:33:55__
-
-> V 1.0.11 Honor 9 lite: installazione avvenuta correttamente, l'applicazione funziona bene.<br> :date: __2020-03-31 15:21:12__
 
 
 
@@ -252,6 +252,12 @@ The LAZIOdrCovid app has been installed by more than **50000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="com.intellicare.covid 1 reviews"/>
 </p>
 
+> Mi arriva un messaggio che dice che sono registrata con altro numero, ma io ho sempre e soltanto avuto un unico numero di telefono che il sistema non, riconosce come il mio.<br> :date: __2020-05-06 14:25:24__
+
+> Il mio medico non è in chat e non risponde.<br> :date: __2020-05-06 08:14:45__
+
+> Perché per aprire la app devo dare il consenso all'accesso ai file multimediali, foto e altro del mio dispositivo? Credo che tale consenso debba essere richiesto solo se necessario e in prossimità di tali azione da parte dell'utente (immagino che la app dia la possibilità di caricare foto e audio e altro in caso). Disinstallata.<br> :date: __2020-05-06 07:43:03__
+
 > Da 1 mese e mezzo cerco di installarla e non c'è verso che funzioni. Mi fa inserire i miei dati,mi avverte di aver inviato un SMS al mio numero e di cliccare sul link. SMS mai arrivato. Inoltre sull'app accessibile da PC, riservata ai medici manca la colonna dei tamponi.<br> :date: __2020-04-30 15:14:08__
 
 > Fate prima a morire perchè ogni volta che provate ad aprirla dovete reinserire tutti i dati compreso il codice fiscale e non credo che con la febbre a 40 ho tempo ne voglia ne lucidità per farlo. Ma del resto nel Lazio non abbiamo neanche le mascherine (regolarmente pagate con i soldi pubblici) quindi una App che non serve a niente è il male minore. La elimino.<br> :date: __2020-04-30 06:09:44__
@@ -265,11 +271,5 @@ The LAZIOdrCovid app has been installed by more than **50000** times. At this ti
 > È inutile! Dove sono finiti tutti i miei dati e le rilevazioni dei parametri vitali che ho inserito dal 16/03/2020 al 26/03/2020? Successivamente al 26/03/2020 mi sono dovuto registrare nuovamente altre 3 volte in occasione dei vari rilasci della app, non è questa l'informatica a servizio del cittadino! Cordiali saluti.<br> :date: __2020-04-24 08:24:45__
 
 > Ho provato a scaricarla due volte, la prima mi inviava la mail di registrazione ma poi si bloccava, ora si blocca subito senza inviare alcun codice. Bella roba<br> :date: __2020-04-22 19:44:09__
-
-> Installata. Mi chiede l'accesso alla galleria. Perché? Quale utilità ne può ricevere chi monitora? Disinstallata immediatamente.<br> :date: __2020-04-22 12:28:31__
-
-> readmi note 7 Android 9, dopo settimane per attivarlo, eravamo riusciti a farlo funzionare, inseriti dati ok. Oggi ho riprovato ad entrare e si riparte da zero e non ti riconosce. Ma state scherzando?<br> :date: __2020-04-21 17:20:36__
-
-> Dopo l'aggiornamento non funziona più<br> :date: __2020-04-20 16:45:29__
 
 

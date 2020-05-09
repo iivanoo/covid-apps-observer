@@ -160,7 +160,7 @@ The Sicilia Si Cura app has been installed by more than **1000** times. At this 
 <img src="4_star_reviews_wordcloud.png" alt="com.siciliasicura.app 4 reviews"/>
 </p>
 
-> Si blocca spesso e riprende a funzionare dopo aver riavviato lo smartphone, Grazie per la cortese risposta<br> :date: __2020-04-28 11:21:47__
+> Si blocca spesso e riprende a funzionare dopo aver riavviato lo smartphone, anche quando ricevo notifica per aggiornare il mio stato di salute, clicco su come stai e si blocca, bisogna sempre riavviare lo smartphone, non so se è un problema della app o del device... Grazie<br> :date: __2020-05-06 05:47:22__
 
 
 
@@ -169,6 +169,8 @@ The Sicilia Si Cura app has been installed by more than **1000** times. At this 
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="com.siciliasicura.app 3 reviews"/>
 </p>
+
+> Non c'è il tasto per uscire dall'app senza effettuare la disconessione account. Per il resto, app semplice , utile e carina<br> :date: __2020-05-09 10:57:43__
 
 > Sarebbe comoda l'aggiunta di un reminder giornaliero che ricordi di aggiornare lo stato di salute e non solo quello delle passate 6 ore<br> :date: __2020-05-01 03:57:37__
 
@@ -181,10 +183,12 @@ The Sicilia Si Cura app has been installed by more than **1000** times. At this 
 #### 2-star reviews
 
 <p align="center">
-
+<img src="2_star_reviews_wordcloud.png" alt="com.siciliasicura.app 2 reviews"/>
 </p>
 
-No recent reviews available with 2 stars.
+> Al momento di registrarmi,mi chiede l'indirizzo in cui risiedo,mi fa attivare la geolocalizzazione per poi non farmi continuare con la registrazione in quanto mi dice che la posizione dell'utente non coincide con l'indirizzo selezionato. Aiutatemi!!!<br> :date: __2020-05-05 17:35:06__
+
+
 
 #### 1-star reviews
 

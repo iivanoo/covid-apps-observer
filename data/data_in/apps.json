@@ -248,5 +248,10 @@
         "id": "www.facetagr.com.cobuddy",
         "store_country": "in",
         "store_lang": "in"
+    },
+    {
+        "id": "com.mahakavach",
+        "store_country": "in",
+        "store_lang": "in"
     }
 ]

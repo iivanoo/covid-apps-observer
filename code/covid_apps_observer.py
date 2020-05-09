@@ -42,13 +42,13 @@ def create_report(author_name, author_email, report_title):
     print('Congratulations, the analysis is over! The global report is available here: ' + global_report_path)
 
 # We run the full analysis on the apps.json file provided as input
-def run_analysis(input, author_name, author_email, report_title):
+def run_analysis(input_path, author_name, author_email, report_title):
     
     # We don't even start if the provided path does not exist
-    if(os.path.exists(options.input)):
-        c.setPaths(options.input)
+    if os.path.exists(input_path):
+        c.setPaths(input_path)
     else:
-        print('Error - the provided path does not exist: ' + options.input)
+        print('Error - the provided path does not exist: ' + input_path)
         exit()
 
     collect_data()

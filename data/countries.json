@@ -1,0 +1,18 @@
+[
+    {"code": "it", "lang": "it", "name": "Italy"},
+    {"code": "nl", "lang": "nl", "name": "the Netherlands"},
+    {"code": "us", "lang": "us", "name": "US"},
+    {"code": "fr", "lang": "fr", "name": "France"},
+    {"code": "uk", "lang": "en", "name": "UK"},
+    {"code": "de", "lang": "de", "name": "Germany"},
+    {"code": "es", "lang": "es", "name": "Spain"},
+    {"code": "gr", "lang": "gr", "name": "Greece"},
+    {"code": "ar", "lang": "es", "name": "Argentina"},
+    {"code": "br", "lang": "pt", "name": "Brasil"},
+    {"code": "ca", "lang": "en", "name": "Canada"},
+    {"code": "cn", "lang": "en", "name": "China"},
+    {"code": "in", "lang": "in", "name": "India"},
+    {"code": "jp", "lang": "jp", "name": "Japan"},
+    {"code": "ru", "lang": "ru", "name": "Russia"},
+    {"code": "au", "lang": "en", "name": "Australia"}
+    ]

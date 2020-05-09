@@ -144,6 +144,8 @@ The Covid-19 app has been installed by more than **10000** times. At this time, 
 <img src="5_star_reviews_wordcloud.png" alt="it.adl.aslroma3.covid19.app 5 reviews"/>
 </p>
 
+> Ok<br> :date: __2020-05-08 07:14:05__
+
 > App. Fantastica, e necessaria. Bravi 👏👏👏 Noto che cè troppa ignoranza. Dovrebbero leggere le modalità, prima di commentare.<br> :date: __2020-05-01 16:35:43__
 
 > Ottima app per la prevenzione sanitaria nostra e altruistica .<br> :date: __2020-04-30 15:38:06__
@@ -161,8 +163,6 @@ The Covid-19 app has been installed by more than **10000** times. At this time, 
 > Non mi fa proseguire! Non capisco che tipo di password occorra...<br> :date: __2020-04-01 09:43:42__
 
 > Non riesco a registrarmi<br> :date: __2020-03-31 22:27:18__
-
-> Che si offra al paziente la possibilità di non sentirsi dimenticato e lontano da chi lo può curare lo trovo straordinario. Andate avanti!<br> :date: __2020-03-31 20:16:58__
 
 
 
@@ -214,6 +214,8 @@ The Covid-19 app has been installed by more than **10000** times. At this time, 
 <img src="1_star_reviews_wordcloud.png" alt="it.adl.aslroma3.covid19.app 1 reviews"/>
 </p>
 
+> Magari scrivetelo che è per Roma o Lazio... Così uno evita di installare App a capocchia e inutilmente<br> :date: __2020-05-06 01:39:14__
+
 > Malware e Spyware<br> :date: __2020-05-05 13:49:42__
 
 > C è si ignoranza È DEDICATA SOLO A CHI POSITIVO CAPRE !<br> :date: __2020-05-04 11:25:06__
@@ -231,7 +233,5 @@ The Covid-19 app has been installed by more than **10000** times. At this time, 
 > Non riesco ad entrare<br> :date: __2020-04-20 13:12:47__
 
 > Ho installato l'ap ma non sono riuscita ad entrare mi dice che le mie credenziali sono errate<br> :date: __2020-04-20 00:18:51__
-
-> Se non riesco ed entrare nella app a cosa serve, metto mail e password, arriva la notifica che le mie credenziali non sono valide<br> :date: __2020-04-19 11:48:29__
 
 

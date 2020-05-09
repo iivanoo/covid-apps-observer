@@ -5,26 +5,8 @@ import argparse
 import requests
 import re
 from bs4 import BeautifulSoup
+import covid_apps_observer
 import configuration as c
-
-COUNTRIES = [
-    {'country_code': 'it', 'lang': 'it'},
-    {'country_code': 'nl', 'lang': 'nl'},
-    {'country_code': 'us', 'lang': 'us'},
-    {'country_code': 'fr', 'lang': 'fr'},
-    {'country_code': 'uk', 'lang': 'en'},
-    {'country_code': 'de', 'lang': 'de'},
-    {'country_code': 'es', 'lang': 'es'},
-    {'country_code': 'gr', 'lang': 'gr'},
-    {'country_code': 'ar', 'lang': 'es'},
-    {'country_code': 'br', 'lang': 'pt'},
-    {'country_code': 'ca', 'lang': 'en'},
-    {'country_code': 'cn', 'lang': 'en'},
-    {'country_code': 'in', 'lang': 'in'},
-    {'country_code': 'jp', 'lang': 'jp'},
-    {'country_code': 'ru', 'lang': 'ru'},
-    {'country_code': 'au', 'lang': 'en'},
-    ]
 
 # Check if the app with app_id is already present in the apps list
 def is_new(app_id, apps):
@@ -33,11 +15,11 @@ def is_new(app_id, apps):
             return False
     return True
 
-# Iterates over all COUNTRIES and searches for new covid apps in the Google Play store
-def collect_data(root_path):
+# Iterates over all countries and searches for new covid apps in the Google Play store
+def update_apps_lists(root_path, countries):
     
-    for e in COUNTRIES:
-        country = e['country_code']
+    for e in countries:
+        country = e['code']
         lang = e['lang']
         data_path = root_path + '/data_' + country
         if(not os.path.exists(data_path)):
@@ -70,30 +52,35 @@ def collect_data(root_path):
 
         c.save(c.APPS_PATH, analysed_apps)
 
-# We check if the provided input is correct and then we start checking and collecting the new data 
-def update_apps_lists(input):
-    
-    # We don't even start if the provided path does not exist
-    if(not os.path.exists(input)):
-        print('Error - the provided path does not exist: ' + options.input)
-        exit()
-
-    collect_data(input)
-
-def analyze_apps(root_path):
-    print(root_path)
+def analyze_apps(root_path, author_name, author_email, countries):
+    # We launch the analysis for each country
+    for e in countries:
+        country = e['code']
+        country_name = e['name']
+        data_path = root_path + '/data_' + country
+        if os.path.exists(data_path) and os.path.exists(data_path + '/apps.json'):
+            covid_apps_observer.run_analysis(data_path, author_name, author_email, 'COVID-related Android apps in ' + country_name)
 
 def main():
     # Arguments definition and management
     parser = argparse.ArgumentParser()
-    parser.add_argument('-i', '--input', help='Path to the folder containing the data to be updated', required=True, type=str)
+    parser.add_argument('-i', '--input', help='Path to the folder containing the data to be updated and the countries.json file', required=True, type=str)
+    parser.add_argument('-an', '--author_name', help='Name of the author of the analysis', required=False, type=str)
+    parser.add_argument('-ae', '--author_email', help='Email address of the author of the analysis', required=False, type=str)
     options = parser.parse_args()
 
     # This will allow us to trust SSL certificates from the servers we will interact with (e.g., the one for downloading NLTK stop word)
     ssl._create_default_https_context = ssl._create_unverified_context
 
-    update_apps_lists(options.input)
-    analyze_apps(options.input)
+    # We don't even start if the provided path does not exist
+    if not os.path.exists(options.input) or not os.path.exists(options.input + '/countries.json'):
+        print('Error - the provided path does not exist: ' + options.input)
+        exit()
+
+    countries = json.load(open(options.input + '/countries.json', 'r'))
+
+    update_apps_lists(options.input, countries)
+    analyze_apps(options.input, options.author_name, options.author_email, countries)
 
 if __name__ == "__main__":
     main()
