@@ -132,3 +132,6 @@ dmypy.json
 
 # All Android Apk files should not be in the repo
 *.apk
+
+# All the test-related artifacts
+data/data_test
