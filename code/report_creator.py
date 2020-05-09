@@ -13,6 +13,7 @@ import pycountry
 from nltk.corpus import stopwords
 import configuration as c
 
+
 # We create the folder containing the report and all its static resources, we return the root folder for this report for convenience
 def prepare_folders_structure(app):
     app_suffix_path = app['id'] + c.SEPARATOR + app['latest_crawled_version']
@@ -25,6 +26,7 @@ def prepare_folders_structure(app):
     os.mkdir(app_folder_path)
 
     return app_folder_path
+
 
 # Loads all the json files one by one containing the data which will populate the report
 def load_data(app):
@@ -47,6 +49,7 @@ def load_data(app):
 
     return metadata, reviews, servers, androguard, androwarn
 
+
 # Iterates over all entries of placeholders and replaces every key within placeholders into its corresponding value
 def fill_placeholders(placeholders, template):
     filled_template = template
@@ -54,9 +57,11 @@ def fill_placeholders(placeholders, template):
         filled_template = filled_template.replace('<<<' + key + '>>>', str(placeholders[key]))
     return filled_template
 
+
 # Checks if the passed value is usable in the produced report (e.g., if it is not None)
 def is_void(entry):
     return (entry is None) or (entry == '') or (entry == 'None')
+
 
 # Returns the same placeholders dictionary, but it substitues None or other null values with a fixed replacement string
 def fill_voids(placeholders, replacement='-'):
@@ -64,6 +69,7 @@ def fill_voids(placeholders, replacement='-'):
         if is_void(placeholders[p]):
             placeholders[p] = replacement
     return placeholders
+
 
 # Fill the Overview section of the report
 def fill_overview(app, metadata, template, report_folder):
@@ -75,7 +81,7 @@ def fill_overview(app, metadata, template, report_folder):
     for i, s in enumerate(metadata['screenshots'], start=1):
         s_path = 'screenshot_' + str(i) + '.png'
         screenshots = screenshots + ' | <img src="<<<REBASE_ME>>>' + s_path + '" alt="screenshot" width="300"/> '
-        if(i % 3 == 0):
+        if i % 3 == 0:
             screenshots = screenshots + ' | \n'  
         c.download(s, report_folder + s_path) 
 
@@ -101,30 +107,33 @@ def fill_overview(app, metadata, template, report_folder):
     placeholders = fill_voids(placeholders)
     return fill_placeholders(placeholders, template)
 
+
 # Fill the Development team section of the report
 def fill_dev_team(app, metadata, template):
     
-    developerWebsite = metadata['developerWebsite']
-    if(not is_void(developerWebsite)):
-        developerWebsite = '[' + metadata['developerWebsite'] + '](' + metadata['developerWebsite'] + ')'
+    developer_website = metadata['developerWebsite']
+    if not is_void(developer_website):
+        developer_website = '[' + metadata['developerWebsite'] + '](' + metadata['developerWebsite'] + ')'
 
-    developerEmail = metadata['developerEmail']
+    developer_email = metadata['developerEmail']
 
-    developerAddress = metadata['developerAddress']
-    if(not is_void(developerAddress)):
-        developerAddress = re.sub('[\s|\n|\r]+','%20', developerAddress)
-        developerAddress = '[' + metadata['developerAddress'].replace('\n', ' ') + '](https://www.google.com/maps/search/' + developerAddress + ') (Google Maps)'
+    developer_address = metadata['developerAddress']
+    if(not is_void(developer_address)):
+        developer_address = re.sub('[\s|\n|\r]+','%20', developer_address)
+        developer_address = '[' + metadata['developerAddress'].replace('\n', ' ') \
+                            + '](https://www.google.com/maps/search/' + developer_address + ') (Google Maps)'
 
     placeholders = {
         'APP_DEVELOPER': metadata['developer'],
-        'DEVELOPER_WEBSITE': developerWebsite,
-        'DEV_EMAIL': developerEmail,
-        'APP_DEVELOPER_ADDRESS': developerAddress,
+        'DEVELOPER_WEBSITE': developer_website,
+        'DEV_EMAIL': developer_email,
+        'APP_DEVELOPER_ADDRESS': developer_address,
         'APP_DEVELOPER_ID': metadata['developerId']
     }
 
     placeholders = fill_voids(placeholders)
     return fill_placeholders(placeholders, template)
+
 
 # Given the portion of json file produced by Androwarm, it extracts a more structured and mapped data structure with placeholders 
 def get_sdk_info(aw, sdk_info):
@@ -145,27 +154,28 @@ def get_sdk_info(aw, sdk_info):
     max_sdk = re.findall(r'Max SDK:\s*(\d+)', contents) or None
 
     # Transform API levels into integers (when possible) so to ease the comparison in the subsequent for iteration 
-    if(not target_sdk is None):
+    if not target_sdk is None:
         target_sdk = int(target_sdk[0])
-    if(not effective_sdk is None):
+    if not effective_sdk is None:
         effective_sdk = int(effective_sdk[0])
-    if(not min_sdk is None):
+    if not min_sdk is None:
         min_sdk = int(min_sdk[0])
-    if(not max_sdk is None):
+    if not max_sdk is None:
         max_sdk = int(max_sdk[0])
 
     # Iterate over all codenames and when they match we produce the filled string to be put in the report
     for e in sdk_info['codenames']:
-        if(e['api_level'] == target_sdk):
+        if e['api_level'] == target_sdk:
             result['target_sdk'] = e['codename'] + ', version ' + e['version'] + ' (API level ' + str(e['api_level']) + ')'
-        if(e['api_level'] == effective_sdk):
+        if e['api_level'] == effective_sdk:
             result['effective_sdk'] = e['codename'] + ', version ' + e['version'] + ' (API level ' + str(e['api_level']) + ')'
-        if(e['api_level'] == min_sdk):
+        if e['api_level'] == min_sdk:
             result['min_sdk'] = e['codename'] + ', version ' + e['version'] + ' (API level ' + str(e['api_level']) + ')'
-        if(e['api_level'] == max_sdk):
+        if e['api_level'] == max_sdk:
             result['max_sdk'] = e['codename'] + ', version ' + e['version'] + ' (API level ' + str(e['api_level']) + ')'
 
     return result
+
 
 # Fill the Android section of the report
 def fill_android(app, androwarn, template):
@@ -183,6 +193,7 @@ def fill_android(app, androwarn, template):
 
     placeholders = fill_voids(placeholders)
     return fill_placeholders(placeholders, template)
+
 
 # Fill the Permissions section of the report
 def fill_permissions(app, androguard, template):
@@ -211,6 +222,7 @@ def fill_permissions(app, androguard, template):
     placeholders = fill_voids(placeholders)
     return fill_placeholders(placeholders, template)
 
+
 # Given a country code, we return the Markdown code of the flag of the country
 def get_flag(country_code):
     mapping = {
@@ -224,7 +236,7 @@ def get_flag(country_code):
         'BE': ':belgium:',
         'BU': ':bulgaria:',
         'CL': ':chile:',
-        'CH': ':china:',
+        'CN': ':china:',
         'CU': ':cuba:',
         'DE': ':de:',
         'FI': ':finland:',
@@ -254,9 +266,10 @@ def get_flag(country_code):
         'VE': ':venezuela:',
         'ZA': ':south_africa:',
     }
-    if(country_code in mapping):
+    if country_code in mapping:
         return mapping[country_code] + ' '
     return ''
+
 
 # Fill the Servers section of the report
 def fill_servers(app, servers, template):
@@ -280,6 +293,7 @@ def fill_servers(app, servers, template):
     placeholders = fill_voids(placeholders)
     return fill_placeholders(placeholders, template)
 
+
 # Fill the Security Analysis section of the report
 def fill_security_analysis(app, androwarn, template):
 
@@ -288,7 +302,8 @@ def fill_security_analysis(app, androwarn, template):
     warnings = ''
     
     for e in security_analysis:
-        # We ignore the device_settings_harvesting results of Androwarm since it is too verbose and not informative for this project
+        # We ignore the device_settings_harvesting results of Androwarm since it is too verbose
+        # and not informative for this project
         if e[0] != 'device_settings_harvesting' and len(e[1]) != 0:
             warnings = warnings + '**' + e[0].capitalize().replace('_', ' ') + '**\n'
             warnings = warnings
@@ -302,6 +317,7 @@ def fill_security_analysis(app, androwarn, template):
 
     placeholders = fill_voids(placeholders)
     return fill_placeholders(placeholders, template)
+
 
 # Fill the Ratings section of the report
 def fill_ratings(app, metadata, template):
@@ -320,19 +336,22 @@ def fill_ratings(app, metadata, template):
     placeholders = fill_voids(placeholders)
     return fill_placeholders(placeholders, template)
 
+
 # Retrieves the latest "amount" reviews of "stars" stars from "reviews"
 def get_reviews(stars, amount, reviews):
     result = ''
     count = 0
     i = 0
     while count != amount and i < len(reviews):
-        if(reviews[i]['score'] == stars):
+        if reviews[i]['score'] == stars:
             count = count + 1
-            result = result + '> ' + reviews[i]['content'].replace('**', '\*\*') + '<br> :date: __' + reviews[i]['at'] + '__\n\n'
+            result = result + '> ' + reviews[i]['content'].replace('**', '\*\*') + '<br> :date: __' \
+                     + reviews[i]['at'] + '__\n\n'
         i = i + 1
     if count == 0:
         result = 'No recent reviews available with ' + str(stars) + ' stars.'
     return result
+
 
 # Generates a word cloud of the most used terms in the reviews with "stars" stars
 def generate_word_cloud(stars, reviews, app, report_folder):
@@ -348,7 +367,7 @@ def generate_word_cloud(stars, reviews, app, report_folder):
         # We remove all stop words from the collected reviews
         nltk.download('stopwords')
         # We split the string so to be able to remove stop words
-        word_list = text_to_plot.split( )
+        word_list = text_to_plot.split()
         # Stop words depend on the language of the Google Play store from which we are crawling
         language = pycountry.languages.get(alpha_2=app['store_lang']).name.lower()
         filtered_words = [word for word in word_list if word not in stopwords.words(language)]
@@ -364,6 +383,7 @@ def generate_word_cloud(stars, reviews, app, report_folder):
 
         return '<img src="<<<REBASE_ME>>>' + file_path + '" alt="' + app['id'] + ' ' + str(stars) + ' reviews"/>'
     return None
+
 
 # Fill the Reviews section of the report
 def fill_reviews(app, metadata, reviews, template, report_folder):
@@ -382,6 +402,7 @@ def fill_reviews(app, metadata, reviews, template, report_folder):
 
     placeholders = fill_voids(placeholders, '')
     return fill_placeholders(placeholders, template)
+
 
 # Creates the report about the app
 def create(app):
@@ -423,7 +444,7 @@ def create(app):
         with open(report_folder + 'report.md', "w") as report_file:
             report_file.write(template.replace('<<<REBASE_ME>>>', ''))
         return template
-    return ''
+
 
 # Iterates over all analyzed apps and generates their corresponding portion of TOC
 def generate_apps_toc(apps):
@@ -436,6 +457,7 @@ def generate_apps_toc(apps):
 
     return result
 
+
 # Generates the summary table at the beginning of the global report
 def get_analysed_apps(apps):
     result = ''
@@ -444,9 +466,11 @@ def get_analysed_apps(apps):
         app_data = c.ger_raw_data(a, 'metadata')
         app_name = app_data['title']
         app_icon_path = 'resources/' + a['id'] + c.SEPARATOR + a['latest_crawled_version'] + '/icon.png'
-        result = result + '| <img src="' + app_icon_path + '" alt="' + app_name + ' icon" width="40"/> | ' + app_name + '\n' 
+        result = result + '| <img src="' + app_icon_path + '" alt="' + app_name + ' icon" width="40"/> | ' \
+                 + app_name + '\n'
 
     return result
+
 
 # Creates the report about the app
 def create_global_report(apps, app_reports, author_name, author_email, report_title):
@@ -472,7 +496,7 @@ def create_global_report(apps, app_reports, author_name, author_email, report_ti
             requirements_contents = req_file.read()
             requirements_contents = '- ' + requirements_contents.replace('\n', '\n- ')[:-2]
 
-            if(report_title is None):
+            if report_title is None:
                 report_title = 'COVID-related Android apps report'
 
             placeholders = {
