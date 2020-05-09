@@ -41,6 +41,19 @@ def create_report(author_name, author_email, report_title):
 
     print('Congratulations, the analysis is over! The global report is available here: ' + global_report_path)
 
+# We run the full analysis on the apps.json file provided as input
+def run_analysis(input, author_name, author_email, report_title):
+    
+    # We don't even start if the provided path does not exist
+    if(os.path.exists(options.input)):
+        c.setPaths(options.input)
+    else:
+        print('Error - the provided path does not exist: ' + options.input)
+        exit()
+
+    collect_data()
+    create_report(author_name, author_email, report_title)
+
 def main():
     # Arguments definition and management
     parser = argparse.ArgumentParser()
@@ -49,17 +62,11 @@ def main():
     parser.add_argument('-ae', '--author_email', help='Email address of the author of the analysis', required=False, type=str)
     parser.add_argument('-rt', '--report_title', help='Title of the report to be generated', required=False, type=str)
     options = parser.parse_args()
-    # We don't even start if the provided path does not exist
-    if(os.path.exists(options.input)):
-        c.setPaths(options.input)
-    else:
-        print('Error - the provided path does not exist: ' + options.input)
 
     # This will allow us to trust SSL certificates from the servers we will interact with (e.g., the one for downloading NLTK stop word)
     ssl._create_default_https_context = ssl._create_unverified_context
 
-    collect_data()
-    create_report(options.author_name, options.author_email, options.report_title)
+    run_analysis(options.input, options.author_name, options.author_email, options.report_title)
 
 if __name__ == "__main__":
     main()
