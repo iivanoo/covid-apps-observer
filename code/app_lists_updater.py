@@ -7,8 +7,26 @@ import re
 from bs4 import BeautifulSoup
 import configuration as c
 
-COUNTRIES = ['it', 'nl', 'us', 'fr']
+COUNTRIES = [
+    {'country_code': 'it', 'lang': 'it'},
+    {'country_code': 'nl', 'lang': 'nl'},
+    {'country_code': 'us', 'lang': 'us'},
+    {'country_code': 'fr', 'lang': 'fr'},
+    {'country_code': 'uk', 'lang': 'en'},
+    {'country_code': 'de', 'lang': 'de'},
+    {'country_code': 'es', 'lang': 'es'},
+    {'country_code': 'gr', 'lang': 'gr'},
+    {'country_code': 'ar', 'lang': 'es'},
+    {'country_code': 'br', 'lang': 'pt'},
+    {'country_code': 'ca', 'lang': 'en'},
+    {'country_code': 'cn', 'lang': 'en'},
+    {'country_code': 'in', 'lang': 'in'},
+    {'country_code': 'jp', 'lang': 'jp'},
+    {'country_code': 'ru', 'lang': 'ru'},
+    {'country_code': 'au', 'lang': 'en'},
+    ]
 
+# Check if the app with app_id is already present in the apps list
 def is_new(app_id, apps):
     for a in apps:
         if(a['id'] == app_id):
@@ -17,7 +35,9 @@ def is_new(app_id, apps):
 
 def collect_data(input):
     
-    for country in COUNTRIES:
+    for e in COUNTRIES:
+        country = e['country_code']
+        lang = e['lang']
         data_path = input + '/data_' + country
         if(not os.path.exists(data_path)):
             print('The country with code "' + country + '" is new, I am setting up its folder and app.json file now...')
@@ -45,7 +65,7 @@ def collect_data(input):
         analysed_apps = json.load(open(c.APPS_PATH, 'r')) 
         for a in app_ids:
             if(is_new(a, analysed_apps)):
-                analysed_apps.append({'id': a, 'store_country': country, 'store_lang': country})
+                analysed_apps.append({'id': a, 'store_country': country, 'store_lang': lang})
 
         c.save(c.APPS_PATH, analysed_apps)
 

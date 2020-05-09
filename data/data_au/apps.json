@@ -1,0 +1,27 @@
+[
+    {
+        "id": "au.gov.health.covidsafe",
+        "store_country": "au",
+        "store_lang": "en"
+    },
+    {
+        "id": "org.who.infoapp",
+        "store_country": "au",
+        "store_lang": "en"
+    },
+    {
+        "id": "au.gov.health.covid19",
+        "store_country": "au",
+        "store_lang": "en"
+    },
+    {
+        "id": "com.myaus",
+        "store_country": "au",
+        "store_lang": "en"
+    },
+    {
+        "id": "de.xikolo.openwho",
+        "store_country": "au",
+        "store_lang": "en"
+    }
+]

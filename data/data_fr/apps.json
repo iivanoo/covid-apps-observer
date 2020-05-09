@@ -1,1 +1,27 @@
-[]
+[
+    {
+        "id": "org.who.infoapp",
+        "store_country": "fr",
+        "store_lang": "fr"
+    },
+    {
+        "id": "org.crf.minutis",
+        "store_country": "fr",
+        "store_lang": "fr"
+    },
+    {
+        "id": "de.xikolo.openwho",
+        "store_country": "fr",
+        "store_lang": "fr"
+    },
+    {
+        "id": "fr.aphp.covidom",
+        "store_country": "fr",
+        "store_lang": "fr"
+    },
+    {
+        "id": "com.ambulis.aphm.covid",
+        "store_country": "fr",
+        "store_lang": "fr"
+    }
+]

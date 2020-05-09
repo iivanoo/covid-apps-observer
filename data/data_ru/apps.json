@@ -1,0 +1,32 @@
+[
+    {
+        "id": "ru.altarix.mos.pgu",
+        "store_country": "ru",
+        "store_lang": "ru"
+    },
+    {
+        "id": "ru.mos.app",
+        "store_country": "ru",
+        "store_lang": "ru"
+    },
+    {
+        "id": "org.who.infoapp",
+        "store_country": "ru",
+        "store_lang": "ru"
+    },
+    {
+        "id": "ru.mos.socmon",
+        "store_country": "ru",
+        "store_lang": "ru"
+    },
+    {
+        "id": "de.xikolo.openwho",
+        "store_country": "ru",
+        "store_lang": "ru"
+    },
+    {
+        "id": "ru.mos.polls",
+        "store_country": "ru",
+        "store_lang": "ru"
+    }
+]

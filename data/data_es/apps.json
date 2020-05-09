@@ -1,0 +1,52 @@
+[
+    {
+        "id": "org.who.infoapp",
+        "store_country": "es",
+        "store_lang": "es"
+    },
+    {
+        "id": "com.erictelm2m.colabora",
+        "store_country": "es",
+        "store_lang": "es"
+    },
+    {
+        "id": "cat.gencat.mobi.StopCovid19Cat",
+        "store_country": "es",
+        "store_lang": "es"
+    },
+    {
+        "id": "cat.gencat.mobi.confinApp",
+        "store_country": "es",
+        "store_lang": "es"
+    },
+    {
+        "id": "es.gva.responde",
+        "store_country": "es",
+        "store_lang": "es"
+    },
+    {
+        "id": "org.madrid.CoronaMadrid",
+        "store_country": "es",
+        "store_lang": "es"
+    },
+    {
+        "id": "es.gva.coronavirus",
+        "store_country": "es",
+        "store_lang": "es"
+    },
+    {
+        "id": "es.gob.asistenciacovid19",
+        "store_country": "es",
+        "store_lang": "es"
+    },
+    {
+        "id": "de.xikolo.openwho",
+        "store_country": "es",
+        "store_lang": "es"
+    },
+    {
+        "id": "es.navarra.coronatestnavarra",
+        "store_country": "es",
+        "store_lang": "es"
+    }
+]

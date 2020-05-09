@@ -1,0 +1,47 @@
+[
+    {
+        "id": "com.ga.covidjujuy_app",
+        "store_country": "ar",
+        "store_lang": "es"
+    },
+    {
+        "id": "ar.gov.santafe.mobile.coronavirusapp",
+        "store_country": "ar",
+        "store_lang": "es"
+    },
+    {
+        "id": "ar.gob.coronavirus",
+        "store_country": "ar",
+        "store_lang": "es"
+    },
+    {
+        "id": "org.who.infoapp",
+        "store_country": "ar",
+        "store_lang": "es"
+    },
+    {
+        "id": "com.munidigital.cba_covid",
+        "store_country": "ar",
+        "store_lang": "es"
+    },
+    {
+        "id": "com.globalthinktec.coronatime_rioja",
+        "store_country": "ar",
+        "store_lang": "es"
+    },
+    {
+        "id": "de.xikolo.openwho",
+        "store_country": "ar",
+        "store_lang": "es"
+    },
+    {
+        "id": "app.testeate.ar.mdq",
+        "store_country": "ar",
+        "store_lang": "es"
+    },
+    {
+        "id": "coronavirus.gba.gob.ar",
+        "store_country": "ar",
+        "store_lang": "es"
+    }
+]
