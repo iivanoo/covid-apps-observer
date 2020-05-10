@@ -1,4 +1,4 @@
-# COVID Android apps observers
+# COVID Android apps observer
 Web scraper and analyzer of COVID-related Android apps
 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/iivanoo/covid-apps-observer)
