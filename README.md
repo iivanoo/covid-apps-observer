@@ -32,7 +32,6 @@ As you can imagine, we collect several data points for each dimension so the bes
 
 | **Nation** | **Report** | **Analysed apps** | **Updated at** | 
 |-------------------------|-------------------------|-------------------------|-------------------------|
-
 :australia: Australia | :chart_with_upwards_trend: [Results](data/data_au/reports/report_2020_5_10.md) | [5 apps](https://play.google.com/store/search?q=covid&c=apps&gl=au) (Links to Google Play) | :calendar: 10/05/2020
 :canada: Canada | :chart_with_upwards_trend: [Results](data/data_ca/reports/report_2020_5_10.md) | [5 apps](https://play.google.com/store/search?q=covid&c=apps&gl=ca) (Links to Google Play) | :calendar: 10/05/2020
 :cn: China | :chart_with_upwards_trend: [Results](data/data_cn/reports/report_2020_5_10.md) | [2 apps](https://play.google.com/store/search?q=covid&c=apps&gl=cn) (Links to Google Play) | :calendar: 10/05/2020
