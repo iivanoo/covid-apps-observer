@@ -1,0 +1,387 @@
+[
+    {
+        "name": "w3.org",
+        "registrar": "Gandi SAS",
+        "registrant": "W3C",
+        "registrar_country": "",
+        "registrant_country": "US",
+        "creation_date": "1994-07-06 04:00:00",
+        "expiration_date": "2029-07-05 04:00:00",
+        "last_updated": null,
+        "status": "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+        "statuses": [
+            "",
+            "clientTransferProhibited http://www.icann.org/epp#clientTransferProhibited",
+            "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+            "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+        ],
+        "name_servers": "{'ns3.w3.org\\r', 'ns2.w3.org', 'ns1.w3.org\\r', 'ns2.w3.org\\r', 'ns1.w3.org', 'ns3.w3.org'}"
+    },
+    {
+        "name": "xml.org",
+        "registrar": "DNC Holdings, Inc.",
+        "registrant": "OASIS Open",
+        "registrar_country": "",
+        "registrant_country": "US",
+        "creation_date": "1997-02-03 05:00:00",
+        "expiration_date": "2021-02-04 05:00:00",
+        "last_updated": null,
+        "status": "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+        "statuses": [
+            "clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)",
+            "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+            "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+            "clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)",
+            "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited",
+            "clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)"
+        ],
+        "name_servers": "{'dns1.stabletransit.com', 'dns2.stabletransit.com\\r', 'dns1.stabletransit.com\\r', 'dns2.stabletransit.com'}"
+    },
+    {
+        "name": "xmlpull.org",
+        "registrar": "NameCheap, Inc.",
+        "registrant": "WhoisGuard, Inc.",
+        "registrar_country": "",
+        "registrant_country": "PA",
+        "creation_date": "2001-11-26 20:33:08",
+        "expiration_date": "2020-11-26 20:33:08",
+        "last_updated": null,
+        "status": "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+        "statuses": [
+            "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+        ],
+        "name_servers": "{'dns2.registrar-servers.com\\r', 'dns1.registrar-servers.com\\r', 'dns2.registrar-servers.com', 'dns1.registrar-servers.com'}"
+    },
+    {
+        "name": "googlesyndication.com",
+        "registrar": "MarkMonitor Inc.",
+        "registrant": "Google LLC",
+        "registrar_country": "",
+        "registrant_country": "US",
+        "creation_date": "2003-01-21 06:17:24",
+        "expiration_date": "2021-01-21 06:17:23",
+        "last_updated": null,
+        "status": "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+        "statuses": [
+            "clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)",
+            "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+            "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+            "serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)",
+            "serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)",
+            "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited",
+            "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+            "serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)",
+            "clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)",
+            "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+            "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited",
+            "clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)"
+        ],
+        "name_servers": "{'ns1.google.com\\r', 'ns2.google.com', 'ns3.google.com', 'ns4.google.com\\r', 'ns1.google.com', 'ns4.google.com', 'ns2.google.com\\r', 'ns3.google.com\\r'}"
+    },
+    {
+        "name": "google.com",
+        "registrar": "MarkMonitor Inc.",
+        "registrant": "Google LLC",
+        "registrar_country": "",
+        "registrant_country": "US",
+        "creation_date": "1997-09-15 04:00:00",
+        "expiration_date": "2028-09-14 04:00:00",
+        "last_updated": null,
+        "status": "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+        "statuses": [
+            "clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)",
+            "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+            "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+            "serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)",
+            "serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)",
+            "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited",
+            "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+            "serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)",
+            "clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)",
+            "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+            "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited",
+            "clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)"
+        ],
+        "name_servers": "{'ns1.google.com\\r', 'ns2.google.com', 'ns3.google.com', 'ns4.google.com\\r', 'ns1.google.com', 'ns4.google.com', 'ns2.google.com\\r', 'ns3.google.com\\r'}"
+    },
+    {
+        "name": "facebook.com",
+        "registrar": "RegistrarSafe, LLC",
+        "registrant": "Facebook, Inc.",
+        "registrar_country": "",
+        "registrant_country": "US",
+        "creation_date": "1997-03-29 05:00:00",
+        "expiration_date": "2028-03-30 04:00:00",
+        "last_updated": null,
+        "status": "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+        "statuses": [
+            "clientTransferProhibited https://www.icann.org/epp#clientTransferProhibited",
+            "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+            "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+            "serverUpdateProhibited https://www.icann.org/epp#serverUpdateProhibited",
+            "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited",
+            "serverTransferProhibited https://www.icann.org/epp#serverTransferProhibited",
+            "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+            "clientDeleteProhibited https://www.icann.org/epp#clientDeleteProhibited",
+            "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+            "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited",
+            "serverDeleteProhibited https://www.icann.org/epp#serverDeleteProhibited",
+            "clientUpdateProhibited https://www.icann.org/epp#clientUpdateProhibited"
+        ],
+        "name_servers": "{'a.ns.facebook.com\\r', 'd.ns.facebook.com', 'a.ns.facebook.com', 'b.ns.facebook.com', 'b.ns.facebook.com\\r', 'c.ns.facebook.com', 'c.ns.facebook.com\\r', 'd.ns.facebook.com\\r'}"
+    },
+    {
+        "name": "app-measurement.com",
+        "registrar": "MarkMonitor Inc.",
+        "registrant": "Google LLC",
+        "registrar_country": "",
+        "registrant_country": "US",
+        "creation_date": "2015-06-19 20:13:31",
+        "expiration_date": "2020-06-19 20:13:31",
+        "last_updated": null,
+        "status": "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+        "statuses": [
+            "clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)",
+            "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+            "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+            "clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)",
+            "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited",
+            "clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)"
+        ],
+        "name_servers": "{'ns1.google.com\\r', 'ns2.google.com', 'ns3.google.com', 'ns4.google.com\\r', 'ns1.google.com', 'ns4.google.com', 'ns2.google.com\\r', 'ns3.google.com\\r'}"
+    },
+    {
+        "name": "yandex.ru",
+        "registrar": "RU-CENTER-RU",
+        "registrant": "",
+        "registrar_country": "",
+        "registrant_country": "",
+        "creation_date": "1997-09-23 09:45:07",
+        "expiration_date": "2020-09-30 21:00:00",
+        "last_updated": null,
+        "status": "REGISTERED, DELEGATED, VERIFIED",
+        "statuses": [
+            "REGISTERED, DELEGATED, VERIFIED"
+        ],
+        "name_servers": "{'ns1.yandex.ru', 'ns2.yandex.ru', 'ns9.z5h64q92x9.net'}"
+    },
+    {
+        "name": "yandexadexchange.net",
+        "registrar": "SafeNames Ltd.",
+        "registrant": "",
+        "registrar_country": "",
+        "registrant_country": "RU",
+        "creation_date": "2014-02-18 12:48:07",
+        "expiration_date": "2022-02-18 12:48:07",
+        "last_updated": null,
+        "status": "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+        "statuses": [
+            "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited",
+            "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+            "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+        ],
+        "name_servers": "{'ns1.yandex.net\\r', 'ns2.yandex.net\\r'}"
+    },
+    {
+        "name": "kladr-api.ru",
+        "registrar": "R01-RU",
+        "registrant": "",
+        "registrar_country": "",
+        "registrant_country": "",
+        "creation_date": "2013-02-06 00:31:38",
+        "expiration_date": "2021-02-06 01:31:38",
+        "last_updated": null,
+        "status": "REGISTERED, DELEGATED, VERIFIED",
+        "statuses": [
+            "REGISTERED, DELEGATED, VERIFIED"
+        ],
+        "name_servers": "{'ns2.timeweb.ru', 'ns4.timeweb.org', 'ns1.timeweb.ru', 'ns3.timeweb.org'}"
+    },
+    {
+        "name": "crashlytics.com",
+        "registrar": "MarkMonitor Inc.",
+        "registrant": "Google LLC",
+        "registrar_country": "",
+        "registrant_country": "US",
+        "creation_date": "2011-01-21 15:30:40",
+        "expiration_date": "2021-01-21 15:30:40",
+        "last_updated": null,
+        "status": "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+        "statuses": [
+            "clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)",
+            "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+            "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+            "clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)",
+            "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited",
+            "clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)"
+        ],
+        "name_servers": "{'ns-1226.awsdns-25.org\\r', 'ns-968.awsdns-57.net', 'ns-968.awsdns-57.net\\r', 'ns-1226.awsdns-25.org', 'ns-1609.awsdns-09.co.uk\\r', 'ns-279.awsdns-34.com', 'ns-279.awsdns-34.com\\r', 'ns-1609.awsdns-09.co.uk'}"
+    },
+    {
+        "name": "yandex.com",
+        "registrar": "SafeNames Ltd.",
+        "registrant": "",
+        "registrar_country": "",
+        "registrant_country": "CH",
+        "creation_date": "1998-09-24 04:00:00",
+        "expiration_date": "2021-09-23 04:00:00",
+        "last_updated": null,
+        "status": "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+        "statuses": [
+            "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+            "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+            "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited",
+            "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+            "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+            "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited"
+        ],
+        "name_servers": "{'ns1.yandex.ru\\r', 'ns9.z5h64q92x9.net\\r', 'ns2.yandex.ru\\r'}"
+    },
+    {
+        "name": "yandex.net",
+        "registrar": "SafeNames Ltd.",
+        "registrant": "",
+        "registrar_country": "",
+        "registrant_country": "RU",
+        "creation_date": "2000-11-14 06:56:55",
+        "expiration_date": "2022-11-14 06:56:55",
+        "last_updated": null,
+        "status": "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+        "statuses": [
+            "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+            "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+            "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited",
+            "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+            "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+            "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited"
+        ],
+        "name_servers": "{'ns1.yandex.ru\\r', 'ns9.z5h64q92x9.net\\r', 'ns2.yandex.ru\\r'}"
+    },
+    {
+        "name": "googleapis.com",
+        "registrar": "MarkMonitor Inc.",
+        "registrant": "Google LLC",
+        "registrar_country": "",
+        "registrant_country": "US",
+        "creation_date": "2005-01-25 17:52:26",
+        "expiration_date": "2021-01-25 17:52:26",
+        "last_updated": null,
+        "status": "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+        "statuses": [
+            "clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)",
+            "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+            "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+            "serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)",
+            "serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)",
+            "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited",
+            "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+            "serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)",
+            "clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)",
+            "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+            "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited",
+            "clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)"
+        ],
+        "name_servers": "{'ns1.google.com\\r', 'ns2.google.com', 'ns3.google.com', 'ns4.google.com\\r', 'ns1.google.com', 'ns4.google.com', 'ns2.google.com\\r', 'ns3.google.com\\r'}"
+    },
+    {
+        "name": "googleadservices.com",
+        "registrar": "MarkMonitor Inc.",
+        "registrant": "Google LLC",
+        "registrar_country": "",
+        "registrant_country": "US",
+        "creation_date": "2003-06-19 16:34:53",
+        "expiration_date": "2020-06-19 16:34:53",
+        "last_updated": null,
+        "status": "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+        "statuses": [
+            "clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)",
+            "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+            "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+            "serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)",
+            "serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)",
+            "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited",
+            "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+            "serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)",
+            "clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)",
+            "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+            "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited",
+            "clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)"
+        ],
+        "name_servers": "{'ns1.google.com\\r', 'ns2.google.com', 'ns3.google.com', 'ns4.google.com\\r', 'ns4.google.com', 'ns1.google.com', 'ns2.google.com\\r', 'ns3.google.com\\r'}"
+    },
+    {
+        "name": "frosteye.ru",
+        "registrar": "REGRU-RU",
+        "registrant": "",
+        "registrar_country": "",
+        "registrant_country": "",
+        "creation_date": "2012-12-08 18:43:12",
+        "expiration_date": "2020-12-08 19:43:12",
+        "last_updated": null,
+        "status": "REGISTERED, DELEGATED, UNVERIFIED",
+        "statuses": [
+            "REGISTERED, DELEGATED, UNVERIFIED"
+        ],
+        "name_servers": "{'ns2.reg.ru', 'ns1.reg.ru'}"
+    },
+    {
+        "name": "intervale.ru",
+        "registrar": "RU-CENTER-RU",
+        "registrant": "",
+        "registrar_country": "",
+        "registrant_country": "",
+        "creation_date": "2001-04-09 20:00:00",
+        "expiration_date": "2021-04-10 21:00:00",
+        "last_updated": null,
+        "status": "REGISTERED, DELEGATED, VERIFIED",
+        "statuses": [
+            "REGISTERED, DELEGATED, VERIFIED"
+        ],
+        "name_servers": "{'ns2.intervale.ru', 'ns1.intervale.ru'}"
+    },
+    {
+        "name": "mts.ru",
+        "registrar": "RU-CENTER-RU",
+        "registrant": "",
+        "registrar_country": "",
+        "registrant_country": "",
+        "creation_date": "1997-11-19 12:02:34",
+        "expiration_date": "2020-11-30 21:00:00",
+        "last_updated": null,
+        "status": "REGISTERED, DELEGATED, VERIFIED",
+        "statuses": [
+            "REGISTERED, DELEGATED, VERIFIED"
+        ],
+        "name_servers": "{'ns2.mts.ru', 'ns.mts.ru'}"
+    },
+    {
+        "name": "mos.ru",
+        "registrar": "RU-CENTER-RU",
+        "registrant": "",
+        "registrar_country": "",
+        "registrant_country": "",
+        "creation_date": "1996-12-23 09:49:03",
+        "expiration_date": "2020-12-31 21:00:00",
+        "last_updated": null,
+        "status": "REGISTERED, DELEGATED, VERIFIED",
+        "statuses": [
+            "REGISTERED, DELEGATED, VERIFIED"
+        ],
+        "name_servers": "{'ns4.mos.ru', 'ns3.mos.ru', 'ns1.mos.ru'}"
+    },
+    {
+        "name": "mgfoms.ru",
+        "registrar": "RU-CENTER-RU",
+        "registrant": "",
+        "registrar_country": "",
+        "registrant_country": "",
+        "creation_date": "2002-12-22 21:00:00",
+        "expiration_date": "2020-12-22 21:00:00",
+        "last_updated": null,
+        "status": "REGISTERED, DELEGATED, VERIFIED",
+        "statuses": [
+            "REGISTERED, DELEGATED, VERIFIED"
+        ],
+        "name_servers": "{'ns.mgfoms.ru', 'ns2.comcor.ru'}"
+    }
+]

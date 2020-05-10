@@ -159,6 +159,8 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <img src="5_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 5 reviews"/>
 </p>
 
+> Buona, e facile da utilizzare<br> :date: __2020-05-10 06:25:08__
+
 > App ben fatta..un unico appunto, manca la Casellina del "sierologico" che in molti stiamo facendo. Io ho dato ok al tampone ma è mezza verità. Buon lavoro e grazie.<br> :date: __2020-05-09 07:49:11__
 
 > 5 stelle sulla fiducia<br> :date: __2020-05-08 21:19:23__
@@ -176,8 +178,6 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 > Molto utile<br> :date: __2020-05-06 16:13:49__
 
 > Dopo l’aggiornamento funziona benissimo.<br> :date: __2020-05-06 12:25:53__
-
-> Edit: come segnalato, con la nuova versione il problema dei dati da ricompilare è stato risolto, ora la compilazione del questionario è più veloce. Tutto il resto continua a funzionare bene<br> :date: __2020-05-06 11:55:15__
 
 
 
@@ -271,6 +271,8 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <img src="1_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 1 reviews"/>
 </p>
 
+> Non ho mai ricevuto comunicazione<br> :date: __2020-05-10 06:51:28__
+
 > Quanti pecoroni ha scaricare un App,bene,bene,fate...svegliatevi piuttosto, ancora l'avete capito che è stato tutto studiato a tavolino,compreso app????? X tenervi tutti sotto controllo, moritorarvi è farvi ammalare,trà vaccini avvelenati,virus creati,modificati x ammazzarci,è nn solo...NWO...umanità gregge bravi scaricate...fatevi vaccinare,microchip, economia e lavoro a collasso,tutto studiato...voi dormite pecore ubbidienti...ma attenzione ai lupi,vorrei dire queste fecce del NWO.<br> :date: __2020-05-08 20:25:04__
 
 > Questa applicazione si chiama Allerta LOM , ma sul covid non fornisce nessuna allerta. Nella sezione Covid, fa domande sullo stato di salute ma poi non fornisce nessuna indicazione specifica sullo stato di rischio regionale o comunale riguardante l'epidemia, nemmeno quanti contagiati o morti ci sono stati nella regione, provincia o comune. La regione fa' il monitoraggio, ma poi non dice niente sui risultati alla gente. Capisco la fretta iniziale ma dopo un mese occorreva fare di più.<br> :date: __2020-05-08 08:14:20__
@@ -288,7 +290,5 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 > A che serve.....<br> :date: __2020-05-07 02:52:36__
 
 > Anche con questa nuova versione non vengono salvate le scelte iniziali e i dati compilati e ogni volta bisogna reinserire tutto. Troppo complicato fare un app che funzioni? --- 6/5/2020 La versione 1.6.0 continua a non salvare l'accettazione dei termini di servizio e tutte le scelte successive. Huawei P8 lite, Android 6. Ogni volta che si lancia bisogna rieseguire tutta la procedura.<br> :date: __2020-05-06 21:14:46__
-
-> Installata, provata. Risultato: non serve a nulla, perché non é legata alla singola persona, quindi non rileva la posizione geografica, e richiede l'aggiornamento quotidiano anche se non ci sono variazioni di salute. Quando uscirá la famosa app Immuni?<br> :date: __2020-05-06 20:10:24__
 
 

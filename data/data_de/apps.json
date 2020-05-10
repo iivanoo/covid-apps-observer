@@ -2,31 +2,43 @@
     {
         "id": "de.rki.coronadatenspende",
         "store_country": "de",
-        "store_lang": "de"
+        "store_lang": "de",
+        "latest_crawled_version": "1.0.9",
+        "latest_crawl": 1589104245
     },
     {
         "id": "de.bssd.covid19",
         "store_country": "de",
-        "store_lang": "de"
+        "store_lang": "de",
+        "latest_crawled_version": "4120.4.29",
+        "latest_crawl": 1589104248
     },
     {
         "id": "org.who.infoapp",
         "store_country": "de",
-        "store_lang": "de"
+        "store_lang": "de",
+        "latest_crawled_version": "2.1.0",
+        "latest_crawl": 1589104253
     },
     {
         "id": "com.designit.covid_19",
         "store_country": "de",
-        "store_lang": "de"
+        "store_lang": "de",
+        "latest_crawled_version": "1.0.0",
+        "latest_crawl": 1589104262
     },
     {
         "id": "de.kreativzirkel.coronika",
         "store_country": "de",
-        "store_lang": "de"
+        "store_lang": "de",
+        "latest_crawled_version": "1.4.0",
+        "latest_crawl": 1589104263
     },
     {
         "id": "de.xikolo.openwho",
         "store_country": "de",
-        "store_lang": "de"
+        "store_lang": "de",
+        "latest_crawled_version": "3.3",
+        "latest_crawl": 1589104266
     }
 ]

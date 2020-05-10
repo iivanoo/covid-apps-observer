@@ -1,0 +1,40 @@
+{
+    "permissions": [
+        "android.permission.INTERNET",
+        "com.google.android.c2dm.permission.RECEIVE",
+        "android.permission.WAKE_LOCK",
+        "android.permission.CAMERA",
+        "de.bssd.covid19.permission.C2D_MESSAGE"
+    ],
+    "activities": [
+        "com.embarcadero.firemonkey.FMXNativeActivity"
+    ],
+    "urls": [
+        "http://schemas.android.com/apk/res/android",
+        "https://pagead2.googlesyndication.com/pagead/gen_204?id=gmob-apps",
+        "https://plus.google.com/",
+        "https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/sdk-core-v40-loader.html",
+        "https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/production/sdk-core-v40-impl.html",
+        "https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/production/sdk-core-v40-impl.js",
+        "https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/mraid/v2/mraid_app_banner.js",
+        "https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/mraid/v2/mraid_app_expanded_banner.js",
+        "https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/mraid/v2/mraid_app_interstitial.js",
+        "https://csi.gstatic.com/csi",
+        "https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/native_ads.html",
+        "https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/production/native_ads.js",
+        "https://imasdk.googleapis.com/admob/sdkloader/native_video.html",
+        "https://www.google.com/dfp/linkDevice",
+        "https://www.google.com/dfp/inAppPreview",
+        "https://www.google.com/dfp/debugSignals",
+        "https://www.google.com/dfp/sendDebugData",
+        "http://www.example.com",
+        "http://www.google.com",
+        "https://support.google.com/dfp_premium/answer/7160685#push",
+        "http://www.google-analytics.com",
+        "https://ssl.google-analytics.com",
+        "https://www.googletagmanager.com",
+        "http://hostname/?",
+        "https://www.googleapis.com/auth/games_lite",
+        "https://www.googleapis.com/auth/games"
+    ]
+}

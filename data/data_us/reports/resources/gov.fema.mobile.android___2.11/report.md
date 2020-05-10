@@ -224,6 +224,8 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 <img src="3_star_reviews_wordcloud.png" alt="gov.fema.mobile.android 3 reviews"/>
 </p>
 
+> Should be updated & expanded upon more but for what it is, I like it and will be keeping it.<br> :date: __2020-05-08 07:51:52__
+
 > I am a Harvey Hurrican victom me an my brother. When the hurrican was over i rent a place. My brother is with liver problems high blood pressure and hepitest. I am a copd lung condition also health problems. I am on home oxegen and four times a day with breathing treatments. Also my brother has a lung problem also woth Copd. We need Fema to help eith a house on Dickinson Texas , 77539. The place we rent has md and the land lord is a ok person but a slumlord. Fema to help us better living home<br> :date: __2020-04-20 08:40:27__
 
 > The app did work great. I got a Samsung A10 and for some reason the notifications stopped working properly. The weather notifications are intermittent and my reminders for emergency kit, smoke detectors, etc. don't come through at all anymore. Suggestions? I'd like to give higher marks.<br> :date: __2020-04-09 04:12:19__
@@ -241,8 +243,6 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 > I would give it a zero, but that's not an option. I just found out about this app, and being in the path of hurricane Dorian, thought it would be a good app to have. However, it doesn't search/recognize my location when i try to enter it for alerts, making it pretty useless to me. Edited to add: after the 5th install, i was finally able to add a location, so i bumped up the stars.<br> :date: __2019-09-01 03:46:38__
 
 > This app needs to be updated immediately. I live in Miami but when I click on 'shelter' the only option is 'Kansas' and there is no way to change it.<br> :date: __2019-08-31 14:16:33__
-
-> too many alerts for the same events<br> :date: __2019-08-24 00:01:31__
 
 
 

@@ -1,0 +1,34 @@
+{
+    "permissions": [
+        "android.permission.READ_APP_BADGE",
+        "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+        "com.anddoes.launcher.permission.UPDATE_COUNT",
+        "android.permission.WAKE_LOCK",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "com.majeur.launcher.permission.UPDATE_BADGE",
+        "com.huawei.android.launcher.permission.CHANGE_BADGE",
+        "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+        "com.sec.android.provider.badge.permission.WRITE",
+        "com.oppo.launcher.permission.WRITE_SETTINGS",
+        "com.sonyericsson.home.permission.BROADCAST_BADGE",
+        "me.everything.badger.permission.BADGE_COUNT_WRITE",
+        "com.oppo.launcher.permission.READ_SETTINGS",
+        "com.htc.launcher.permission.UPDATE_SHORTCUT",
+        "com.huawei.android.launcher.permission.READ_SETTINGS",
+        "com.sec.android.provider.badge.permission.READ",
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        "com.htc.launcher.permission.READ_SETTINGS",
+        "me.everything.badger.permission.BADGE_COUNT_READ",
+        "android.permission.INTERNET"
+    ],
+    "activities": [
+        "com.designit.covid_19.MainActivity",
+        "de.appplant.cordova.plugin.localnotification.ClickReceiver"
+    ],
+    "urls": [
+        "http://schemas.android.com/apk/res/android",
+        "https://ssl.gstatic.com/accessibility/javascript/android/",
+        "http://*/*",
+        "https://*/*"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "permissions": [
+        "android.permission.WRITE_CALENDAR",
+        "android.permission.CAMERA",
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        "android.permission.FLASHLIGHT",
+        "android.permission.INTERNET",
+        "android.permission.READ_CALENDAR"
+    ],
+    "activities": [
+        "es.gva.coronavirus.MainActivity",
+        "com.google.zxing.client.android.CaptureActivity",
+        "com.google.zxing.client.android.encode.EncodeActivity"
+    ],
+    "urls": [
+        "http://schemas.android.com/apk/res/android",
+        "http://zxing.appspot.com/scan",
+        "http://www.google",
+        "http://google.com/books",
+        "http://books.google.",
+        "http://www.google.com/books?id=",
+        "http://www.google.com/books?vid=isbn",
+        "http://maps.google.",
+        "http://www.google.",
+        "https://ssl.gstatic.com/accessibility/javascript/android/",
+        "https://www.googleapis.com/books/v1/volumes?q=isbn:",
+        "https://www.google.",
+        "http://*/*",
+        "https://*/*"
+    ]
+}

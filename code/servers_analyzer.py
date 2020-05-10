@@ -30,8 +30,11 @@ def is_candidate(url):
 
 # Given a url, it returns only its first-level domain
 def get_first_level_domain(url):
-    res = get_tld(url, as_object=True)
-    return res.fld
+    try:
+        res = get_tld(url, as_object=True)
+        return res.fld
+    except:
+        return None
 
 
 # Checks all the URLs managed within the app and returns the candidates for being relevant URLs
@@ -44,7 +47,8 @@ def get_candidate_urls(app):
     for current_url in all_urls:
         if is_candidate(current_url):
             polished_url = get_first_level_domain(current_url)
-            result.append(polished_url)
+            if not polished_url is None:
+                result.append(polished_url)
     
     # Remove duplicates
     result = list(dict.fromkeys(result))
@@ -59,11 +63,13 @@ def analyze(app):
 
     for url in urls:
         # Here is where we do the real Whois query
-        domain_info = whois.query(url, force=1, slow_down=2)
-        # We transform the domain object into a plain dictionary, otherwise we cannot save it into the json file
-        item = domain_info.__dict__
-        
-        result.append(item)
+        try:
+            domain_info = whois.query(url, force=1, slow_down=2)
+            # We transform the domain object into a plain dictionary, otherwise we cannot save it into the json file
+            item = domain_info.__dict__
+            result.append(item)
+        except:
+            print('Error performing the whois lookup for this server, it will be ignored: ' + url)
 
     # We save the result into a JSON file
     app_suffix_path = app['id'] + c.SEPARATOR + app['latest_crawled_version']

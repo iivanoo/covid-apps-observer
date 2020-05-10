@@ -192,25 +192,25 @@ The Luscii app has been installed by more than **50000** times. At this time, **
 <img src="5_star_reviews_wordcloud.png" alt="nl.focuscura.beeldbelapp 5 reviews"/>
 </p>
 
-> Prima app<br> :date: __2020-05-06 13:42:01__
+> Duidelijk en correct<br> :date: __2020-05-10 11:47:48__
 
-> Gemakkelijk en overzichtelijk<br> :date: __2020-05-06 10:48:14__
+> Geen bijzonderheden<br> :date: __2020-05-10 10:40:31__
 
-> Krijg iedere dag keurig mijn up dates gestuurd!<br> :date: __2020-05-06 09:34:02__
+> Je wordt oplettend en bewust van je zelf hierdoor.<br> :date: __2020-05-10 10:21:55__
 
-> Simel<br> :date: __2020-05-06 08:04:01__
+> Werkt perfect<br> :date: __2020-05-10 10:20:49__
 
-> het lijk perfect te werken.<br> :date: __2020-05-05 21:56:24__
+> Ik vind het een geruststellende app. Ik stuur deze iedere dag in, en de feedback indien nodig, is mi ook perfect . Ik ga zeker door met invullen en opsturen.<br> :date: __2020-05-10 10:04:09__
 
-> Zeer nuttige Covid app<br> :date: __2020-05-05 18:30:30__
+> Heel heldere instructies, eigen metingen inzichtelijk, dagelijkse professionele feedback<br> :date: __2020-05-10 09:33:31__
 
-> Goed en duidelijk<br> :date: __2020-05-05 17:45:34__
+> Prima app snelle reactie op de waardes<br> :date: __2020-05-10 09:16:54__
 
-> Prima! Duidelijk!<br> :date: __2020-05-05 15:20:55__
+> Heel duidelijk en makkelijk re gebruiken. TOP.<br> :date: __2020-05-10 08:58:13__
 
-> makkelijk invullen snel antwoord<br> :date: __2020-05-05 15:14:20__
+> Doet wat het moet doen<br> :date: __2020-05-10 08:25:52__
 
-> Supermakkelijk in gebruik.<br> :date: __2020-05-05 11:13:10__
+> Heel gemakkelijk in gebruik.<br> :date: __2020-05-10 07:05:32__
 
 
 
@@ -220,25 +220,25 @@ The Luscii app has been installed by more than **50000** times. At this time, **
 <img src="4_star_reviews_wordcloud.png" alt="nl.focuscura.beeldbelapp 4 reviews"/>
 </p>
 
-> Werkt naar behoren. Aanrader.<br> :date: __2020-05-06 11:32:52__
+> Prima app. Aantal stappen (schermen) kan wat slimmer.<br> :date: __2020-05-10 11:20:06__
 
-> Wel handig en zo kan je je gezondheid in een opslag zien<br> :date: __2020-05-06 11:16:50__
+> Geeft je een beetje gevoel van veiligheid..... misschien niet helemaal de bedoeling maar als je klachten heb vind ik het fijn dat je gemonitord word....<br> :date: __2020-05-10 10:54:28__
 
-> Prima. Wel een beetje laat de reactie<br> :date: __2020-05-06 10:10:03__
+> Goed om bij te houden. En duidelijk. Je moet het wel elke dag doen!!! Om een resultaat te zien.<br> :date: __2020-05-10 10:13:12__
 
-> Handige app, fijn gevoel dat je gebeld word als er iets opvallends gezien word. Echter voor mij zou het handig zijn om bv astma/hooikoorts gerelateerde klachten te kunnen onderscheiden van verkoudheidsklachten.<br> :date: __2020-05-05 20:25:48__
+> Graag van meerdere vragen bijv. 0 tot 3 in kunnen vullen. Verder prima App<br> :date: __2020-05-10 10:02:34__
 
-> Goede app. Jammer dat ik na een ong. 3 keer gebruiken alleen nog maar een witte pagina krijg. Na verwijderen en verwijderen opnieuw downloaden werkt hij weer goed.<br> :date: __2020-05-05 12:32:37__
+> Simpel<br> :date: __2020-05-10 09:34:23__
 
-> Goed functioneel<br> :date: __2020-05-05 11:55:11__
+> Overzichtelijk<br> :date: __2020-05-10 08:55:30__
 
-> Ik vind het een goed initiatief, om dit te laten controle. Het is duidelijk en als er iets is en je geef het aan, dan nemen ze meteen contact.<br> :date: __2020-05-05 10:46:53__
+> Duidelijk, kort en krachtig. Voor herkenning zeer goed.<br> :date: __2020-05-09 22:29:45__
 
-> Duidelijk en makkelijk te gebruiken<br> :date: __2020-05-05 09:57:30__
+> Goede controle voor jezelf<br> :date: __2020-05-09 20:47:20__
 
-> Je kunt ze niet mailen.<br> :date: __2020-05-04 11:48:37__
+> Goed, hoop dat men er iets mee doet<br> :date: __2020-05-09 20:19:50__
 
-> Is goed<br> :date: __2020-05-04 09:08:34__
+> Werkt prima<br> :date: __2020-05-09 18:09:48__
 
 
 
@@ -248,25 +248,25 @@ The Luscii app has been installed by more than **50000** times. At this time, **
 <img src="3_star_reviews_wordcloud.png" alt="nl.focuscura.beeldbelapp 3 reviews"/>
 </p>
 
-> Alle aangevinkte uitslagen zouden ook in 1 keer verstuurd kunnen worden<br> :date: __2020-05-06 13:44:36__
+> Het zou handig zijn als je niet telkens na het invoeren van 1 waarde je telkens die waarde eerst moet versturen. Prettiger zou zijn wanneer alle resultaten in een keer verstuurd kunnen worden.<br> :date: __2020-05-10 10:15:46__
 
-> Je moet ieder item apart verzenden. Veel geklik dus. Verder ok.<br> :date: __2020-05-05 11:55:29__
+> + : persoonlijke curve wordt overzichtelijk bijgehouden. - : Nergens ruimte om persoonlijke veranderingen op te schrijven, iedere dag dezelfde vragen, wordt saai na enkele weken.<br> :date: __2020-05-10 09:19:23__
 
-> Het is een omslachtige app. Je moet voor alles wat je invoert bevestigen en versturen. Waarom niet eerst alles invoeren en dan 1 totaal scherm maken met bevestiging en opsturen.<br> :date: __2020-05-04 00:21:12__
+> Heb hem al 3x opnieuw moeten installeren<br> :date: __2020-05-10 07:43:55__
 
-> Ik kan de ernst van de keelpijn niet aangeven<br> :date: __2020-05-03 21:49:23__
+> Wel veel werk, dat invullen<br> :date: __2020-05-10 07:19:20__
 
-> Bij sommige vragen te weinig antwoorden<br> :date: __2020-05-03 21:18:42__
+> Goed voor de zelfcontrole<br> :date: __2020-05-09 21:11:16__
 
-> Relatief traag, zou fijn zijn in 1x alles tegelijk in te kunnen sturen. En ook misschien handig om daarnaast optie voor geestelijke/emotionele gezondheid te pijlen, zoals slaap, stress, angst, verdriet, eenzaamheid, vermoeidheid etc<br> :date: __2020-05-03 15:49:51__
+> zou goed zijn alsmen ook reeds jarenlange klachten/medicatie heeft lan doorgeven eenmalig dan kan in relatie met luchtweg klachten gelegd worden<br> :date: __2020-05-09 16:46:29__
 
-> Ik ben er blij mee met dit initiatief. Zo kan je toch bijhouden hoe het je vergaat en wordt er ook een deskundig oordeel over gegeven. Samen zijn we sterk!<br> :date: __2020-05-03 10:00:35__
+> De vraag en antwoorden worden nogal omslachtig behandeld<br> :date: __2020-05-09 11:13:49__
 
-> Steeds temperatuur opnemen is lastig.<br> :date: __2020-05-03 08:34:08__
+> Ik kan er weinig over zeggen. Door het dagelijks in te vullen blijf je wel alert.<br> :date: __2020-05-09 06:47:01__
 
-> Simpel en snel<br> :date: __2020-05-02 17:45:08__
+> Statische lijst<br> :date: __2020-05-08 06:14:32__
 
-> Het steeds versturen is hinderlijk kan ook als de vragen allemaal ingevuld zijn<br> :date: __2020-05-01 19:09:33__
+> Goede app echter het is handiger om alle of enkele gegevens met één zendknop te versturen<br> :date: __2020-05-07 10:06:32__
 
 
 
@@ -275,6 +275,8 @@ The Luscii app has been installed by more than **50000** times. At this time, **
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="nl.focuscura.beeldbelapp 2 reviews"/>
 </p>
+
+> App moet ik bijna bij iedere meting verwijderen en opnieuw installeren! Na invullen code verschijnt leeg scherm.<br> :date: __2020-05-07 09:36:52__
 
 > Neutraal geen inzicht wat het op grotere schaal oplevert. Met de ja /nee antwoorden op een aantal vragen mis je de mensen met zeer milde symptomen lijjt mij.<br> :date: __2020-05-05 12:26:35__
 
@@ -289,8 +291,6 @@ The Luscii app has been installed by more than **50000** times. At this time, **
 > De app werkt sinds gisteren niet meer, dus ik kan ook niets meer opvoeren. Erg jammer.<br> :date: __2020-04-28 18:24:51__
 
 > Mate van klachten kun je niet aangegeven. Ik ook andere veelgehoorde klachten.<br> :date: __2020-04-28 16:57:04__
-
-> Nogal onhandig dat je de zes uitslagen niet in één keer kunt versturen.<br> :date: __2020-04-28 09:35:10__
 
 > Lang niet alle klachten of symptomen kunnen aangegeven worden.<br> :date: __2020-04-28 02:02:53__
 

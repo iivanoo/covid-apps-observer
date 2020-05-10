@@ -1,0 +1,37 @@
+{
+    "permissions": [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+        "com.google.android.providers.gsf.permission.READ_GSERVICES",
+        "android.permission.WAKE_LOCK",
+        "android.permission.INTERNET",
+        "com.google.android.c2dm.permission.RECEIVE",
+        "android.permission.ACCESS_NETWORK_STATE"
+    ],
+    "activities": [
+        "fr.radhius.ambulis.activity.SplashActivity",
+        "fr.radhius.ambulis.activity.RecordActivity",
+        "fr.radhius.ambulis.activity.PINCodeActivity",
+        "fr.radhius.ambulis.activity.DashboardActivity",
+        "fr.radhius.ambulis.activity.HealthFacilityDetailsActivity",
+        "fr.radhius.ambulis.activity.HealthFacilityEULAActivity",
+        "fr.radhius.ambulis.activity.AdviceDetailsActivity",
+        "fr.radhius.ambulis.activity.FormDetailsActivity",
+        "fr.radhius.ambulis.activity.TemperatureActivity",
+        "fr.radhius.ambulis.activity.PainActivity",
+        "fr.radhius.ambulis.activity.ConstantFormDetailsActivity",
+        "fr.radhius.ambulis.activity.AboutActivity",
+        "fr.radhius.ambulis.activity.PictureDetailsActivity",
+        "com.google.android.gms.common.api.GoogleApiActivity"
+    ],
+    "urls": [
+        "http://schemas.android.com/apk/res/android",
+        "https://plus.google.com/",
+        "https://app-measurement.com/a",
+        "https://pagead2.googlesyndication.com/pagead/gen_204?id=gmob-apps",
+        "http://schemas.android.com/apk/res-auto",
+        "https://www.googleapis.com/auth/games_lite",
+        "https://www.googleapis.com/auth/games",
+        "https://www.google.com"
+    ]
+}

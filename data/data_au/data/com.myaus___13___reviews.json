@@ -1,0 +1,35 @@
+[
+    {
+        "userName": "Ingrid Escobar",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhDEU5FUH3b5fFKZJGWd5u_GTHS_YLjgfIe3k7z",
+        "content": "I I think this is a very useful app.",
+        "score": 5,
+        "thumbsUpCount": 4,
+        "reviewCreatedVersion": "6",
+        "at": "2020-04-28 10:47:19",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "userName": "Roslyn Hirst",
+        "userImage": "https://lh3.googleusercontent.com/-DWdgBdGvl-s/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl1pS5lA3JGs_W7wRd7M9IE8d5ndQ/photo.jpg",
+        "content": "It needs wifi. It collects official info but makes it easier to read and keep up with current stats. I feel really anxious and this app helped me feel calm while I was looking up what I needed to know.",
+        "score": 4,
+        "thumbsUpCount": 6,
+        "reviewCreatedVersion": "6",
+        "at": "2020-04-27 07:31:18",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "userName": "Carla Wilshire",
+        "userImage": "https://lh3.googleusercontent.com/-vq2z60oWH4A/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmCFUzFA8Z5hYRwSflL1kqgiXguBg/photo.jpg",
+        "content": "Great app! Very easy to navigate and loads of relevant info.",
+        "score": 5,
+        "thumbsUpCount": 6,
+        "reviewCreatedVersion": null,
+        "at": "2020-04-26 12:57:58",
+        "replyContent": null,
+        "repliedAt": null
+    }
+]

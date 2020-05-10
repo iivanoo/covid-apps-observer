@@ -294,6 +294,8 @@ The SM_Covid19 app has been installed by more than **10000** times. At this time
 <img src="1_star_reviews_wordcloud.png" alt="it.softmining.projects.covid19.savelifestyle 1 reviews"/>
 </p>
 
+> Manca tipologia di utente soccoritore<br> :date: __2020-05-09 15:39:05__
+
 > poco efficace<br> :date: __2020-05-08 09:14:11__
 
 > Non serve a nulla, e solo un beta test<br> :date: __2020-05-07 10:36:20__
@@ -311,7 +313,5 @@ The SM_Covid19 app has been installed by more than **10000** times. At this time
 > Pessima rallenta il telefono s9+. È impossibile scaricare o ascoltare musica ininterrotta e qualsiasi altra operazione sembra impossibile. Disinstallata subito il telefono è tornato come prima. Servono stelle in negativo<br> :date: __2020-04-28 14:06:24__
 
 > Ma a che serve? Non e attivo nulla, non c'è una mappa, se utilizzo deliveroo faccio prima. Ma come funziona perfettamente??? Da le statistiche e basta ..<br> :date: __2020-04-24 17:49:26__
-
-> Attenzione! Nel mio caso dopo l'installazione è comparso un pop-up che mi invita a scaricare una app denominata soft-mining. È un malware??<br> :date: __2020-04-24 16:07:09__
 
 

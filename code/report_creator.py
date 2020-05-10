@@ -369,8 +369,16 @@ def generate_word_cloud(stars, reviews, app, report_folder):
         # We split the string so to be able to remove stop words
         word_list = text_to_plot.split()
         # Stop words depend on the language of the Google Play store from which we are crawling
-        language = pycountry.languages.get(alpha_2=app['store_lang']).name.lower()
-        filtered_words = [word for word in word_list if word not in stopwords.words(language)]
+        try:
+            language = pycountry.languages.get(alpha_2=app['store_lang']).name.lower()
+            if language is None:
+                language = 'en'
+        except:
+            language = 'en'
+        try:
+            filtered_words = [word for word in word_list if word not in stopwords.words(language)]
+        except:
+            filtered_words = word_list
         # We join back the string
         text_to_plot = ' '.join(filtered_words)
 

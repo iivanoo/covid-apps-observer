@@ -1,0 +1,40 @@
+{
+    "permissions": [
+        "android.permission.ACCESS_NETWORK_STATE",
+        "com.google.android.c2dm.permission.RECEIVE",
+        "android.permission.WAKE_LOCK",
+        "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+        "android.permission.CALL_PHONE",
+        "android.permission.INTERNET"
+    ],
+    "activities": [
+        "es.gva.responde.activity.LoadingActivity",
+        "es.gva.responde.activity.LanguajeActivity",
+        "es.gva.responde.activity.FrequentsFaqsActivity",
+        "es.gva.responde.activity.TitularGuieActivity",
+        "es.gva.responde.activity.SubTitularGuieActivity",
+        "es.gva.responde.activity.WebviewActivity",
+        "com.facebook.FacebookActivity",
+        "com.facebook.CustomTabMainActivity",
+        "com.facebook.CustomTabActivity",
+        "com.google.android.gms.common.api.GoogleApiActivity"
+    ],
+    "urls": [
+        "https://www.example.com",
+        "http://schemas.android.com/apk/res/android",
+        "https://graph.%s",
+        "https://graph-video.%s",
+        "https://facebook.com",
+        "https://.facebook.com",
+        "https://facebook.com/device?user_code=%1$s&qr=1",
+        "http://play.google.com/store/apps/details?id=com.facebook.orca",
+        "https://pagead2.googlesyndication.com/pagead/gen_204?id=gmob-apps",
+        "https://plus.google.com/",
+        "https://app-measurement.com/a",
+        "https://google.com/search?",
+        "https://www.googleapis.com/auth/games_lite",
+        "https://www.googleapis.com/auth/games",
+        "https://www.google.com",
+        "https://www.googleadservices.com/pagead/conversion/app/deeplink?id_type=adid&sdk_version=%s&rdid=%s&bundleid=%s&retry=%s"
+    ]
+}
