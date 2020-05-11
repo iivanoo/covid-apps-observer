@@ -20,16 +20,19 @@ def get_gp_metadata(app_to_scrape):
 
 
 def get_reviews(app_to_scrape):
-    time.sleep(random.randrange(10))
-    print("Downloading reviews for: " + app_to_scrape['id'])
-    
-    result, continuation_token = reviews(
-    app_to_scrape['id'],
-    lang=app_to_scrape['store_lang'],
-    country=app_to_scrape['store_country'],
-    sort=Sort.NEWEST, 
-    count=c.NUM_REVIEWS)
-
+    try: 
+        time.sleep(random.randrange(10))
+        print("Downloading reviews for: " + app_to_scrape['id'])
+        
+        result, continuation_token = reviews(
+        app_to_scrape['id'],
+        lang=app_to_scrape['store_lang'],
+        country=app_to_scrape['store_country'],
+        sort=Sort.NEWEST, 
+        count=c.NUM_REVIEWS)
+    except:
+        print('It seems like we had some problems in fetching the reviews for: ' + app_to_scrape['id'])
+        result = list()
     return result
 
 
@@ -49,7 +52,7 @@ def crawl_data(app):
         is_new_data_available = True
         c.save(metadata_path, app_metadata)
 
-    # Save the reviews if they are about an older version of the app 
+    # Save the reviews 
     reviews_path = c.DATA_PATH + app_suffix_path + c.SEPARATOR + 'reviews.json'
     app_reviews = get_reviews(app)
     c.save(reviews_path, app_reviews)

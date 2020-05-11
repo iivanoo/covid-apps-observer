@@ -324,13 +324,13 @@ def fill_ratings(app, metadata, template):
     placeholders = {
         'APP_TITLE': metadata['title'],
         'APP_MIN_INSTALLS': metadata['minInstalls'],
-        'APP_RATINGS': metadata['ratings'],
-        'APP_SCORE': metadata['score'],
-        'APP_5_STARS': metadata['histogram'][4],
-        'APP_4_STARS': metadata['histogram'][3],
-        'APP_3_STARS': metadata['histogram'][2],
-        'APP_2_STARS': metadata['histogram'][1],
-        'APP_1_STAR': metadata['histogram'][0]
+        'APP_RATINGS': '-' if metadata['ratings'] is None else metadata['ratings'],
+        'APP_SCORE': '-' if metadata['score'] is None else metadata['score'],
+        'APP_5_STARS': '-' if metadata['histogram'] is None else metadata['histogram'][4],
+        'APP_4_STARS': '-' if metadata['histogram'] is None else metadata['histogram'][3],
+        'APP_3_STARS': '-' if metadata['histogram'] is None else metadata['histogram'][2],
+        'APP_2_STARS': '-' if metadata['histogram'] is None else metadata['histogram'][1],
+        'APP_1_STAR': '-' if metadata['histogram'] is None else metadata['histogram'][0]
     }
 
     placeholders = fill_voids(placeholders)
