@@ -72,6 +72,7 @@ def m_apkpure_com(package_id):
 # Credits to Gian Luca Scoccia - https://github.com/S2-group/apkDownloader/
 def apk_is_valid(_apk_name):
     with open(os.devnull, "w") as null:
+        error_state = 1
         try:
             error_state = call(["aapt", "dump", "permissions", _apk_name], stdout=null, stderr=null)
             if error_state != 0:
