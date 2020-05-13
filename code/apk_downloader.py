@@ -84,7 +84,7 @@ def apk_is_valid(_apk_name):
 
 # Credits to Gian Luca Scoccia - https://github.com/S2-group/apkDownloader/
 def xapk_is_valid(_xapk_name, _package_name):
-    with zipfile.ZipFile(_xapk_name) as zfile:
+    with zipfile.ZipFile(os.path.join(c.APKS_PATH, _xapk_name)) as zfile:
         if _package_name in zfile.namelist():
             return True
         else:
