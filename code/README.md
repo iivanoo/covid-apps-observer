@@ -33,6 +33,10 @@ $ cd code
 
 $ # Install all the required packages
 $ python -m pip install -r requirements.txt
+
+$ # Install the aapt utility (it is used for unpacking XAPK files
+$ sudo apt install aapt # Linux
+$ brew tap caskroom/cask ; brew cask install android-sdk # MacOS
 ```
 
 ## Usage
