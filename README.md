@@ -38,7 +38,7 @@ As you can imagine, we collect several data points for each dimension so the bes
 :canada: Canada | :chart_with_upwards_trend: [Results](data/data_ca/reports/report_2020_5_10.md) | [5 apps](https://play.google.com/store/search?q=covid&c=apps&gl=ca) (Links to Google Play) | :calendar: 10/05/2020
 :cn: China | :chart_with_upwards_trend: [Results](data/data_cn/reports/report_2020_5_10.md) | [2 apps](https://play.google.com/store/search?q=covid&c=apps&gl=cn) (Links to Google Play) | :calendar: 10/05/2020
 :fr: France | :chart_with_upwards_trend: [Results](data/data_fr/reports/report_2020_5_10.md) | [5 apps](https://play.google.com/store/search?q=covid&c=apps&gl=fr) (Links to Google Play) | :calendar: 10/05/2020
-:de: Germany | :chart_with_upwards_trend: [Results](data/data_de/reports/report_2020_5_10.md) | [5 apps](https://play.google.com/store/search?q=covid&c=apps&gl=de) (Links to Google Play) | :calendar: 10/05/2020
+:de: Germany | :chart_with_upwards_trend: [Results](data/data_de/reports/report_2020_5_10.md) | [6 apps](https://play.google.com/store/search?q=covid&c=apps&gl=de) (Links to Google Play) | :calendar: 10/05/2020
 :greece: Greece | :chart_with_upwards_trend: [Results](data/data_gr/reports/report_2020_5_10.md) | [2 apps](https://play.google.com/store/search?q=covid&c=apps&gl=gr) (Links to Google Play) | :calendar: 10/05/2020
 :it: Italy | [:chart_with_upwards_trend: Results](data/data_it/reports/report_2020_5_10.md) | [7 apps](https://play.google.com/store/search?q=covid&c=apps&gl=it) (Links to Google Play) | :calendar: 10/05/2020
 :jp: Japan | [:chart_with_upwards_trend: Results](data/data_jp/reports/report_2020_5_10.md) | [2 apps](https://play.google.com/store/search?q=covid&c=apps&gl=jp) (Links to Google Play) | :calendar: 10/05/2020
