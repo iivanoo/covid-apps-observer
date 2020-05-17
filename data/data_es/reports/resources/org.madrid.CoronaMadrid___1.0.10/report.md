@@ -206,6 +206,8 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 <img src="3_star_reviews_wordcloud.png" alt="org.madrid.CoronaMadrid 3 reviews"/>
 </p>
 
+> El cuestionario parece anticuado. La tos puede ser con flema (30% casos) o seca. No pregunta desde cuándo se tienen síntomas. No pregunta por dolos de cabeza. Ni por nivel de saturación en sangre por si se tiene oxímetro. No parece que haya intención de hacer pruebas a los que tengan síntomas leves, como se debe para cambiar de fases. Un catarro debería ser motivo de test PCR<br> :date: __2020-05-11 12:59:50__
+
 > De qué me atiendan lo pondre<br> :date: __2020-05-06 13:23:50__
 
 > El contestar Sí o No, no es suficiénte. A veces hay concretar algo<br> :date: __2020-04-16 21:04:02__
@@ -224,8 +226,6 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 
 > Hola, me han comentado que los datos que metemos, sensibles como DNI, edad o teléfono, luego los van a usar la empresa que ha desarrollado la app. Es verdad?<br> :date: __2020-03-29 14:02:58__
 
-> Solo vale si estás infectado o crees estarlo para mandar tus datos y que te tengan controlado pero no da información de ningún tipo. Ni mapa, ni estadísticas ni nada. Si no tienes síntomas ni la abras porque no te sirve.<br> :date: __2020-03-28 22:09:48__
-
 
 
 #### 2-star reviews
@@ -233,6 +233,8 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="org.madrid.CoronaMadrid 2 reviews"/>
 </p>
+
+> Lo que te dice lo sabes de antemano<br> :date: __2020-05-12 16:01:06__
 
 > No vale para mucho, no permite hacer un seguimiento real de la evolución de los síntomas. Muy limitado. Y quienes te llaman ni siquiera son sanitarios a los que se puedan consultarles dudas.<br> :date: __2020-05-04 22:58:45__
 
@@ -252,8 +254,6 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 
 > Te hace algunas preguntas muy genéricas y no acordes con todos los síntomas que se han reportado de tener el COVID19. La app de la Generalitat de Cataluña es bastante más completa. En esta siempre me sale negativo y en la de la Generalitat me sale posible caso. Está app es como los test que el gobierno compró, te sirve cuando es más que obvio que lo tienes.<br> :date: __2020-04-03 11:48:04__
 
-> Incompleta. Faltan opciones de más síntomas confirmados del covid-19. Cansancio, dolor de cabeza...<br> :date: __2020-03-26 17:36:15__
-
 
 
 #### 1-star reviews
@@ -261,6 +261,16 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="org.madrid.CoronaMadrid 1 reviews"/>
 </p>
+
+> Y la geolocalizacion no está? Pues para qué la quiero. Desinstalo.<br> :date: __2020-05-16 20:16:34__
+
+> Y las miles de personas que desde el principio estamos sin sabor ni olor? No existimos?<br> :date: __2020-05-16 10:47:28__
+
+> Mala<br> :date: __2020-05-13 18:53:25__
+
+> Considero que es una memez de aplicación que recaba una cantidad de datos personales exagerada.<br> :date: __2020-05-11 09:57:27__
+
+> No tiene en cuenta muchos parámetros claves; cefalea, digestivo, muscular, etc. Y considera sólo un plazo de 15 días de duración cuando es una enfermedad que puede durar más de 6 semanas. Una perdida de tiempo.<br> :date: __2020-05-10 17:09:55__
 
 > No me Dan una respuesta coherente, pues los síntomas no concuerdan con las preguntas.<br> :date: __2020-05-07 11:53:54__
 
@@ -271,15 +281,5 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 > Nunca pude ingresar y cuando entre me preguntaba hasta el nombre de mis tatarabuelos<br> :date: __2020-04-30 19:08:10__
 
 > Una forma de detectar los síntomas penosa, apenas una preguntas simples y de vez en cuando te llaman para verificar datos y lo único que hace es pasar las mismas preguntas. He tenido que recurrir a la sanidad privada para que efectivamente me hicieran la prueba y he dado positivo. Gracias a que he sido cauteloso y me he mantenido en cuarentena, si es por ellos podría salir perfectamente. ESTA ES LA MEJOR MANERA DE USAR LA TECNOLOGÍA PARA ESTA PANDEMIA. que triste<br> :date: __2020-04-30 18:40:06__
-
-> Yo ni siquiera pude entrar no me deja poner el pasaporte solo NIE y DNI<br> :date: __2020-04-26 00:10:52__
-
-> No la veo completa... He leído en sitios toda la cantidad de síntomas que hay de la enfermedad, y aquí solo se basan en 3 o 4. Yo por ejemplo de repente he empezado a vomitar ( que he leído en sitios que es un síntoma) incluso, con restos de sangre, y aquí no viene nada de vómitos por lo tanto ya me dice esto que no es... Y si si? Deberían de hacer una encuesta más completa!<br> :date: __2020-04-25 07:15:36__
-
-> Es fiable poner nuestro número de teléfono? No me fío ya de nadie<br> :date: __2020-04-24 07:13:43__
-
-> Tengo el virus y la aplicación dice que no, sólo sirve para dar largas y que te quedes en tu casa....<br> :date: __2020-04-22 22:21:25__
-
-> En realidad que hace esta aplicación?<br> :date: __2020-04-21 17:49:03__
 
 

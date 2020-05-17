@@ -250,6 +250,8 @@ The Asistencia COVID-19 app has been installed by more than **10000** times. At 
 <img src="1_star_reviews_wordcloud.png" alt="es.gob.asistenciacovid19 1 reviews"/>
 </p>
 
+> App no responde, desinstalo<br> :date: __2020-05-15 12:45:58__
+
 > Mucho multidioma con el catalán pero de Murcia no os acordáis... A ver si ya añadís ya a la Región de Murcia.<br> :date: __2020-05-07 23:12:58__
 
 > No funciona en Andalucía, desinstalada.<br> :date: __2020-05-07 20:33:00__
@@ -267,7 +269,5 @@ The Asistencia COVID-19 app has been installed by more than **10000** times. At 
 > Ni si quiera están todas las comunidades autónomas. Muchas gracias por olvidaros de Andalucía y demás. Esto no es sorpresa con los egoistas del gobierno, tanto de un color como de otro. Edit: encima acabo de ver que en la ultima version, en vez de expandir mas la posibilidad de uso entre comunidades autónomas, han incluido el idioma catalán. Muchas gracias por darle prioridad a una lengua antes que a la gente.<br> :date: __2020-04-29 16:18:33__
 
 > Veo un poco injusto que en una comunidad autónoma tan poblada, como es Andalucía no se dé apoyo con esta app. En fin, siempre lo hacen igual de bien con los andaluces....<br> :date: __2020-04-28 18:13:32__
-
-> No hay para La Rioja<br> :date: __2020-04-27 09:37:48__
 
 

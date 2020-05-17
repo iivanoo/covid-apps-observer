@@ -1,0 +1,38 @@
+{
+    "permissions": [
+        "android.permission.BLUETOOTH",
+        "android.permission.ACCESS_COARSE_LOCATION",
+        "android.permission.WAKE_LOCK",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.CHANGE_NETWORK_STATE",
+        "android.permission.FOREGROUND_SERVICE",
+        "android.permission.CHANGE_WIFI_STATE",
+        "com.google.android.c2dm.permission.RECEIVE",
+        "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+        "android.permission.ACCESS_WIFI_STATE",
+        "android.permission.BLUETOOTH_ADMIN",
+        "android.permission.INTERNET",
+        "android.permission.RECEIVE_BOOT_COMPLETED"
+    ],
+    "activities": [
+        "at.roteskreuz.stopcorona.screens.routing.RouterActivity",
+        "at.roteskreuz.stopcorona.screens.base.CoronaBaseActivity",
+        "at.roteskreuz.stopcorona.screens.base.CoronaPortraitBaseActivity",
+        "at.roteskreuz.stopcorona.screens.reporting.ReportingActivity",
+        "at.roteskreuz.stopcorona.screens.base.FullScreenPortraitBaseActivity",
+        "com.google.android.gms.oss.licenses.OssLicensesActivity",
+        "com.google.android.gms.oss.licenses.OssLicensesMenuActivity",
+        "at.roteskreuz.stopcorona.screens.dashboard.DashboardActivity",
+        "com.google.android.gms.common.api.GoogleApiActivity"
+    ],
+    "urls": [
+        "https://play.google.com/store/apps/details?id=",
+        "http://schemas.android.com/apk/res/android",
+        "https://p2pkit-analytics-v5-prod.uepaa.ch/analytics/appstart",
+        "https://plus.google.com/",
+        "https://%s/%s/%s?key=%s",
+        "http://localhost/",
+        "http://schemas.android.com/apk/res-auto",
+        "https://rca-coronaapp-rcp-fd.azurefd.net/Rest/v4/"
+    ]
+}

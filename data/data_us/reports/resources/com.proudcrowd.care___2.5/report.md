@@ -138,6 +138,12 @@ The Care19 app has been installed by more than **10000** times. At this time, **
 <img src="5_star_reviews_wordcloud.png" alt="com.proudcrowd.care 5 reviews"/>
 </p>
 
+> Awesome<br> :date: __2020-05-17 11:47:26__
+
+> Love this app<br> :date: __2020-05-16 12:11:08__
+
+> A must!!<br> :date: __2020-05-14 06:24:04__
+
 > Payment<br> :date: __2020-05-02 21:50:55__
 
 > Great if I don't want to catch COVID #RIPrickmay<br> :date: __2020-04-26 09:16:49__
@@ -170,6 +176,10 @@ The Care19 app has been installed by more than **10000** times. At this time, **
 <img src="3_star_reviews_wordcloud.png" alt="com.proudcrowd.care 3 reviews"/>
 </p>
 
+> Very inconsistent with location. Can be at a location for hours and doesn't list it.<br> :date: __2020-05-16 15:20:52__
+
+> It's a great idea, but does not log most of the places I've been. Stopped at 6 places in Bismarck and didn't log one place. And then the next time it will log the same place 4 times within a few minutes or log a place I only drove by.<br> :date: __2020-05-14 02:20:12__
+
 > Still isn't capturing places I've been. Was at 3 different locations today, and not one of them showing up.<br> :date: __2020-05-04 19:46:22__
 
 > I hope this helps people but there are definitely a lot of bugs<br> :date: __2020-05-04 05:28:59__
@@ -182,6 +192,14 @@ The Care19 app has been installed by more than **10000** times. At this time, **
 <img src="2_star_reviews_wordcloud.png" alt="com.proudcrowd.care 2 reviews"/>
 </p>
 
+> Doesn't log locations all the time. Even after I have been there for over ten minutes. Not very dependable .<br> :date: __2020-05-13 18:15:39__
+
+> I'm not sure if it's just the app for Android but most days it doesn't even recognize that I have been anywhere! My Bluetooth is on, what's going on?<br> :date: __2020-05-13 02:08:21__
+
+> Not the best, has not tracked me since May 9th! My location is turned on also. Noticed previously it missed Tracking me to and from work on May 6th. Might be easier to just write it down on paper .<br> :date: __2020-05-11 15:36:20__
+
+> So far only kept two logs. Both for work. Both on the same day. It's also picked up places I drove past. Been at work 12 hours today and it didn't register once.<br> :date: __2020-05-11 00:43:47__
+
 > Need to have a way to add places one has been when it quite often misses the place one had visited all together.<br> :date: __2020-05-10 02:16:21__
 
 > This app doesn't work very well. Sometimes places I've been will show up but I have gone places that do not show up. This type of app needs to be much more reliable.<br> :date: __2020-05-10 01:32:49__
@@ -192,15 +210,7 @@ The Care19 app has been installed by more than **10000** times. At this time, **
 
 > Pretty much a pain to use, might be easier to log locations manually.<br> :date: __2020-05-02 21:00:07__
 
-> Gives a lot of erroneous locations that are passed while driving or stopping at a stop light.<br> :date: __2020-05-02 02:30:37__
-
 > Quit recording places after one day not help anywhere<br> :date: __2020-04-30 01:53:49__
-
-> Has not logged anything sense the 25th of April and have gone to work for 2 8 hour shifts plus trip to grocery store<br> :date: __2020-04-29 04:45:01__
-
-> It works but Google maps does the same thing with timeline<br> :date: __2020-04-26 09:14:04__
-
-> Location info is incorrect and incomplete. I was able to fix the incorrect info, but can't add locations.<br> :date: __2020-04-22 21:37:04__
 
 
 
@@ -210,24 +220,24 @@ The Care19 app has been installed by more than **10000** times. At this time, **
 <img src="1_star_reviews_wordcloud.png" alt="com.proudcrowd.care 1 reviews"/>
 </p>
 
-> The only place the app consistently logs is where I work, and it doesn't log that until I come back to work after lunch around 1 pm. Today I went to 3 different stores and it didn't log any of them, those are the most important locations to be logged. I've been using the app since it became available in South Dakota and this has been my experience from the start.<br> :date: __2020-05-10 00:54:52__
+> Did not accurately record any location... not even 1. Downloaded 5/7 recorded on 5/8 ( inaccurately) then no location recorded since this date and I have been working out of the home so should have at least 2.<br> :date: __2020-05-17 02:39:16__
 
-> This app does not log any of the locations I have been. Do not know how to correct.this. delete and reinstall?<br> :date: __2020-05-09 19:17:40__
+> Does not seem to log locations or show anything under the info tab.<br> :date: __2020-05-16 17:34:52__
 
-> Does not keep accurate tracing. Places I have been are not being recorded, but it records places I have not been.<br> :date: __2020-05-08 23:27:13__
+> I have visited the grocery store on a weekly basis since downloading Care19. This trips have not once shown up in visited locations.<br> :date: __2020-05-16 02:10:05__
 
-> Is not exact location of where I was do not like it at all and I am always up dating my app for it to work If i have to update this thing again and it looks like i have to i am deleting it should not have to make sure it is working right before leaving my house<br> :date: __2020-05-08 15:46:39__
+> Don't capture all the locations<br> :date: __2020-05-16 01:35:14__
 
-> It doesn't work. Yesterday I went to 2 places and neither was captured. Last week the same thing.<br> :date: __2020-05-08 06:18:44__
+> Hasn't recorded any stops for a week. Have had doctor appointments and other stops.<br> :date: __2020-05-15 12:27:41__
 
-> It does not ever log the places I have been at.<br> :date: __2020-05-07 19:42:14__
+> Does not track my movements.<br> :date: __2020-05-15 02:19:43__
 
-> Has not recorded anything since end of april<br> :date: __2020-05-07 13:36:34__
+> This has not updated my location since 5/12. It is now the 14th. It's missing about 50% of where I've been. You should have the ability to enter information manually or name places if it's not recording your location. If everyone has this poor of a tracking record, it's pretty usless.<br> :date: __2020-05-14 22:18:14__
 
-> It did not track at all.<br> :date: __2020-05-07 03:15:55__
+> Gives a lot of erroneous locations that are passed while driving or stopping at a stop light. Some days it gives no information at all..<br> :date: __2020-05-14 17:59:57__
 
-> The app still does not log all stop. I drove into Fargo and I was stopped for more than 10 minutes and it did not log it at all<br> :date: __2020-05-06 16:25:40__
+> Doesnt track 99% of the time.<br> :date: __2020-05-14 17:32:00__
 
-> I uninstalled it because it doesn't always record places I visit. I was at the YMCA for 45 minutes and it didn't add it.<br> :date: __2020-05-06 16:21:58__
+> Only logs some locations. Yesterday i made 4 stops, 130 miles, didn't register one of them. Few days ago logged a location which turned out to be a long red light. We need the option to add locations. And what is the information about? Just says loading... loading... loading.<br> :date: __2020-05-14 16:27:17__
 
 

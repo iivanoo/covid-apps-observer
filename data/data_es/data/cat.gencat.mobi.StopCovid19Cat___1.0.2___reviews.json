@@ -1,5 +1,93 @@
 [
     {
+        "userName": "Inma Rojo",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiJJ4kCq5dNPnD2zmjcHfgCiLUms7uErN9cNWUF",
+        "content": "Poco detallada",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.0.2",
+        "at": "2020-05-16 19:48:31",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "userName": "George Noh",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhBhn389GjByCgNcHz-OkKFIF3NnmLz4-xjrsVsHg",
+        "content": "No serveix de massa falten altres dades, no tots els casos s\u00f3n de tipus respiratori, tamb\u00e9 hi han sintomes intestinals forts(edito, no serveix de res) ll\u00e0stima",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.0.2",
+        "at": "2020-05-14 15:24:24",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "userName": "Yoly L\u00f3pez",
+        "userImage": "https://lh3.googleusercontent.com/-JCBSqTbx-G4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckdj4yItkmCb2dredBEb9Iz1-osDw/photo.jpg",
+        "content": "Tan solo que tengas malestar general ya te dice que eres posible enfermo del virus. Apenas te pregunta mas sintomas de los muchos que da el covid. Desues de eso te dice ke te aisles en tu habiatacion, llames a tu medico y ya esta . No entiendo para que sirve esta app la verdad. Si al menos algun medico contactase cobtigo para contrastar sintomas o algo pero na d na.... Menuda app mas absurda",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.0.2",
+        "at": "2020-05-14 02:23:31",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "userName": "Jose Manuel De Almeida Corporan",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhkT5D0-pSPbNIzy_qB5GV2dpsb8L98xgvEmi4Acg",
+        "content": "Esta bien para no colapsar los sistemas sanitarios",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.0.2",
+        "at": "2020-05-12 21:00:41",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "userName": "Josep M\u00aa Ferrer Gen\u00e9",
+        "userImage": "https://lh3.googleusercontent.com/-sthkfxxUo54/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckr-Hn7LuU59cjDVFBz4DzP4HEx8Q/photo.jpg",
+        "content": "Muy buenas.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.0.2",
+        "at": "2020-05-12 18:38:01",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "userName": "Ivan Garcia Garcia",
+        "userImage": "https://lh3.googleusercontent.com/-xAL9n3YrAkc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl4YCN9FfHGQMUqK2mLdwEsEEVEiA/photo.jpg",
+        "content": "Bona aplicacio",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.0.2",
+        "at": "2020-05-11 16:15:28",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "userName": "Gerard Siguero",
+        "userImage": "https://lh3.googleusercontent.com/-4VKcljfzuJQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmrd927woNJCQ-Gu3uEJ9Xm8zsDMw/photo.jpg",
+        "content": "Esta app \u00e9s una casta\u00f1a, llevo d\u00edas intentando conectarme y siempre me da error, lo he intentado a diferentes horas. Pocas veces me ha dejado actualizar.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.0.2",
+        "at": "2020-05-11 07:32:05",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "userName": "kike sutil",
+        "userImage": "https://lh3.googleusercontent.com/-5ovV8ZeCHiI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmgbIlSwum86R8pvQJ-QDiPtuYfbA/photo.jpg",
+        "content": "No serveix de res, no truca ning\u00fa, a la fin has de fer el de sempre, anar a urg\u00e8ncies. Per\u00f2 la medalla ja est\u00e0 col\u00b7locada",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2020-05-10 19:36:40",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "userName": "Jos\u00e9 Antonio Tenorio D\u00edaz",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgnjKFF4DT_lldUrOuESg4LloHcz14PZPD3F4Fh5_8",
         "content": "Fatal, ya puedes intentar a diferentes horas del d\u00eda que no funciona, eso s\u00ed, me a ayudado a memorizar mi targeta sanitaria de tantas veces ingresarla. Gracias\u00a1",
@@ -34,7 +122,7 @@
     },
     {
         "userName": "Ma Guadalupe Trevejo",
-        "userImage": "https://lh3.googleusercontent.com/-etxsX-pIJkY/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJNm6CfB5MVLda2PieNCmNvR6GcFkA/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-etxsX-pIJkY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclTzMg0KBFCsGieo9PVjwQNzV3wTg/photo.jpg",
         "content": "Si sirviera para llevar control de asintom\u00e1ticos o contagios... Pero para que sirve?",
         "score": 1,
         "thumbsUpCount": 0,
@@ -56,7 +144,7 @@
     },
     {
         "userName": "montserrat bernad ros",
-        "userImage": "https://lh3.googleusercontent.com/-XbddmfBvOWk/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJNU7_yWow9RsDVlSqtSHhaJMogDag/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-XbddmfBvOWk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm6kbd-yBt5DWe5YSoquVtZidZz_g/photo.jpg",
         "content": "Perfecte",
         "score": 5,
         "thumbsUpCount": 0,
@@ -67,7 +155,7 @@
     },
     {
         "userName": "MARIA DOLORS Luna",
-        "userImage": "https://lh3.googleusercontent.com/-eh-IqHjE0oU/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJNsdT0e62QMaHlOqQBPy_G8W9FwTA/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-eh-IqHjE0oU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmLD1ExTeiISr4pFzOat8sK1muPhw/photo.jpg",
         "content": "La aplicaci\u00f3 \u00e9s poc accessible",
         "score": 1,
         "thumbsUpCount": 0,
@@ -155,7 +243,7 @@
     },
     {
         "userName": "Sebastian Valls Ramon",
-        "userImage": "https://lh3.googleusercontent.com/-PfSELo6PFJk/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJN2dyoOM_SN9mlawexIwyu-7aj3Ow/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-PfSELo6PFJk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmm5XCL_Gd04GJuGnpPKMRnasvkfg/photo.jpg",
         "content": "Si se hacen controles como en china iriamos mejor pues aqui en espa\u00f1a lo tenemos crudo el control sanitario",
         "score": 5,
         "thumbsUpCount": 0,
@@ -166,7 +254,7 @@
     },
     {
         "userName": "Eva Villagrasa",
-        "userImage": "https://lh3.googleusercontent.com/-4eDQsC5pPSw/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJPlCS2F5fDd5FvcAx_e7UIVPxPcGw/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-4eDQsC5pPSw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnrm4qlOwQErUrFnmduJe7ZsHR4XQ/photo.jpg",
         "content": "Dicen ke asi controlan a diario los datos y no los guarda ya me dir\u00e1s t\u00fa ke manera de controlar.",
         "score": 2,
         "thumbsUpCount": 0,
@@ -177,7 +265,7 @@
     },
     {
         "userName": "Sen\u00e9n de Diego Su\u00e1rez",
-        "userImage": "https://lh3.googleusercontent.com/-TPuJjjPY8Kc/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJMLpdzvM1pQjNkrX5AfkUH2cE4HDQ/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-TPuJjjPY8Kc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckcc4_CmJjn3ODU5mHxWiVPheqCjg/photo.jpg",
         "content": "Los s\u00edntomas se deber\u00edan describir y poder precisar mejor. Por ejemplo, \u00bf36'6 es fiebre? Y si se pone como fiebre, \u00bfqu\u00e9 temperatura se deber\u00eda poner, \"36'5 o menos\" o 37?",
         "score": 3,
         "thumbsUpCount": 0,
@@ -213,14 +301,14 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgU0CO3Hx3OygZjhiB9isZW0zUslQO8rve09dtq",
         "content": "Donde pone s\u00edntomas, faltan algunos, como por ejemplo el de la falta de olfato y gusto, y otros relacionados con la piel, as\u00ed que considero que no es muy fiable esta aplicaci\u00f3n",
         "score": 1,
-        "thumbsUpCount": 2,
+        "thumbsUpCount": 3,
         "reviewCreatedVersion": "1.0.2",
         "at": "2020-04-19 20:21:14",
         "replyContent": null,
         "repliedAt": null
     },
     {
-        "userName": "Nuri",
+        "userName": "Nuria Riera Riera",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gh-9qs4MxVf5f6uKBRn_zJ8xkVmu51Hcb7bI_HmFg",
         "content": "Ja l'he probat, i funciona s\u00ed",
         "score": 5,
@@ -232,7 +320,7 @@
     },
     {
         "userName": "Alicia Nieto",
-        "userImage": "https://lh3.googleusercontent.com/-wKzGk1UXg3c/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJOMLJSgK0kJAnISLhL-aRxPpdgEWQ/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-wKzGk1UXg3c/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmbaneFXVTHMxblssSnaG2MqX7Vuw/photo.jpg",
         "content": "No sirve para nada.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -276,7 +364,7 @@
     },
     {
         "userName": "Jordi Escol\u00e0",
-        "userImage": "https://lh3.googleusercontent.com/-l4H9heXaMLU/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJP2NlfDfmIYa75bpkZLgYT4BuYxHg/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-l4H9heXaMLU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnslQUhMxLbQ8cfl4jL95PAtUK-1w/photo.jpg",
         "content": "No me deja repetir el test. Cuando le doy a \"Accedir al test\" piensa un poco y no hace nada m\u00e1s. Ah\u00ed se queda sin hacer nada.",
         "score": 1,
         "thumbsUpCount": 2,
@@ -287,7 +375,7 @@
     },
     {
         "userName": "Manuel Jose Aguado Aizpun",
-        "userImage": "https://lh3.googleusercontent.com/-wXeX-um4hh4/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJOzpcBH5KXuiMyhr7Soj0rFCMSgog/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-wXeX-um4hh4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmTS2wkf-KS_aj0y19MnRO9gntFgQ/photo.jpg",
         "content": "No funciona",
         "score": 1,
         "thumbsUpCount": 0,
@@ -331,7 +419,7 @@
     },
     {
         "userName": "L M R",
-        "userImage": "https://lh3.googleusercontent.com/-UslerKt2Rqc/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJMHyrqncAdKKxOW3ocjSoqibOLaNQ/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-UslerKt2Rqc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl6jqJIutdm9Z5li2HtYGdkJwyT3g/photo.jpg",
         "content": "No puedo acceder. Pongo identificaci\u00f3n y al darle a acceder al test se queda pensando pero no accede. He probado con DNI con cip y nada....una p\u00e9rdida de tiempo",
         "score": 1,
         "thumbsUpCount": 4,
@@ -375,7 +463,7 @@
     },
     {
         "userName": "Laura Ramon",
-        "userImage": "https://lh3.googleusercontent.com/-B_xuKgjBuKU/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJPmVCMjVm-8lzcSkO-H3Uz9RXlPJA/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-B_xuKgjBuKU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckd3Jk-dC5UVI84OaKMaklZBKYG7A/photo.jpg",
         "content": "Molt util",
         "score": 5,
         "thumbsUpCount": 0,
@@ -430,7 +518,7 @@
     },
     {
         "userName": "Josep i Remei",
-        "userImage": "https://lh3.googleusercontent.com/-mHnb51Nl-yU/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJOgynW6uXjhJCL7uR-1QH4a70eQiA/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-mHnb51Nl-yU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclyMFPvs-xmWiSYbBo5L_POQCKfFg/photo.jpg",
         "content": "No funciona",
         "score": 1,
         "thumbsUpCount": 0,
@@ -441,7 +529,7 @@
     },
     {
         "userName": "Carlos Diego Campo",
-        "userImage": "https://lh3.googleusercontent.com/-XfSNaqDtjNU/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJP8Bn3VMCgI53lg-NyjSq39U3Q86A/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-XfSNaqDtjNU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckN2M8VjMDuuo7ketiBMAfHu9VzMA/photo.jpg",
         "content": "Facil",
         "score": 5,
         "thumbsUpCount": 0,
@@ -452,7 +540,7 @@
     },
     {
         "userName": "Laura Baiges",
-        "userImage": "https://lh3.googleusercontent.com/-E1ECTpUjSJo/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJPqx7dqNdw9ZFoclwtFzkMG943sug/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-E1ECTpUjSJo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm7v7AOt-qUXKK1DAANxZ4AbFxWQQ/photo.jpg",
         "content": "Pocas preguntas",
         "score": 1,
         "thumbsUpCount": 1,
@@ -463,7 +551,7 @@
     },
     {
         "userName": "Lluis Oliva",
-        "userImage": "https://lh3.googleusercontent.com/-UeMSZJqdHuQ/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJOsG0YiBzonSKIuXRhuwL5rEu2PYQ/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-UeMSZJqdHuQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl3SVbiM_2vQcncj-1Orhuv7Y4_IA/photo.jpg",
         "content": "Va perfecte",
         "score": 5,
         "thumbsUpCount": 1,
@@ -474,7 +562,7 @@
     },
     {
         "userName": "Luc\u00eda Daubnerova",
-        "userImage": "https://lh3.googleusercontent.com/-54fazQYGGso/AAAAAAAAAAI/AAAAAAAAAIU/AAKWJJPDusbq2Zqllp9dcbRADGQ69Mv2-g/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-54fazQYGGso/AAAAAAAAAAI/AAAAAAAAAIU/AMZuuckF6AuPi9gmUDxFlbaTuAr6Zggyiw/photo.jpg",
         "content": "Muy util para controlar la epidemia",
         "score": 5,
         "thumbsUpCount": 0,
@@ -496,7 +584,7 @@
     },
     {
         "userName": "Esther Gonzalez",
-        "userImage": "https://lh3.googleusercontent.com/-9vY3rvw2IGA/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJPwSvCyHKPhImW5yQjFXgCyj-_jZw/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-9vY3rvw2IGA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucneh9b7MgKBdoV4MkA3JVifjs5V5g/photo.jpg",
         "content": "Util muy util",
         "score": 5,
         "thumbsUpCount": 0,
@@ -518,7 +606,7 @@
     },
     {
         "userName": "antonio bueno",
-        "userImage": "https://lh3.googleusercontent.com/-5tLEOtobVgM/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJMDiFocn4JVARbTx8NXWaLKjFTYOw/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-5tLEOtobVgM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclTJD3O8hSkALQsqKo1v8kWAk38iQ/photo.jpg",
         "content": "LO SIENTO PERO ES UNA COMPLETA INUTILIDAD. SI CLIKAS UNA DE LAS PRIMERAS, LA QUE SEA Y NINGUNA MAS EN TODO EL PPROCESO. AUTOM\u00c1TICAMENTE TE DICE QUE TIENES SINTOMAS Y QUE TE QUEDES EN TU CASA Y PARACETAMOL. 1\u00b0 SI TRABAJO COMO ME VOY A QUEDAR EN CASA? . QUE LE DICES AL JEFE ?(QUE ME QUEDO EN CASA PORQUE TENGO SINTOMAS. A LO QUE EL JEFE CON TODA RAZON DEL MUNDO TE DIRA TRAER BAJA DRL VIRUS.).AVER QUE HACES. PORQUE HACERTE LA PRUEBA ROTUNDAMENTE NO. SI NI SIQUIERA SE PONEN EN CONTACTO CON TIGO.",
         "score": 2,
         "thumbsUpCount": 1,
@@ -543,7 +631,7 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gib9zxWSWmg-bTveaorHF0J2r18HONvfxIBKlwfsl4",
         "content": "No le veo ning\u00fan sentido a esta app. Para lo \u00fanico que sirve es para que la Generalitat tenga datos para saber hasta donde pueden enga\u00f1arnos. Siempre dice lo mismo, que te quedes en casa por ser posible positivo. Si le hubiera hecho caso no habr\u00eda ido a urgencias. Ahora ya se que soy positivo en covid-19 y me han puesto en tratamiento. Tampoco te llama nadie por muy mal que est\u00e9s ni por muchos d\u00edas que tengas fiebre. Dudo que alguien supervise nada en la app. Una app in\u00fatil",
         "score": 1,
-        "thumbsUpCount": 62,
+        "thumbsUpCount": 68,
         "reviewCreatedVersion": "1.0.2",
         "at": "2020-04-09 19:56:06",
         "replyContent": null,
@@ -595,7 +683,7 @@
     },
     {
         "userName": "Diego Nicolas",
-        "userImage": "https://lh3.googleusercontent.com/-gS2m-YgEYY8/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJMFL2eVlxWXgnmXgWJOfaSjEW97yA/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-gS2m-YgEYY8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclcnLZTcMmWvJwoXHmcWN8MkHvf_w/photo.jpg",
         "content": "Me gustar\u00eda saber en cuantos pa\u00edses esta disponible esta app",
         "score": 1,
         "thumbsUpCount": 0,
@@ -628,7 +716,7 @@
     },
     {
         "userName": "Isabel Ramirez Almagro",
-        "userImage": "https://lh3.googleusercontent.com/-7LO5IJeHOwU/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJMmH_j7iBMAzgyIMH1Md1RwjuSiOQ/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-7LO5IJeHOwU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclfxmmYsJ65SUC4e6CHgGQvTwAyfQ/photo.jpg",
         "content": "Positiva",
         "score": 4,
         "thumbsUpCount": 0,
@@ -639,7 +727,7 @@
     },
     {
         "userName": "YAN Espu\u00f1a Jim\u00e9nez",
-        "userImage": "https://lh3.googleusercontent.com/-N_GRnZ7fMZ4/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJMBuXWbgZJoAzbG_JtHOZuwfjbx0g/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-N_GRnZ7fMZ4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclzMIgC0jKvgTotzOflc1Zus1tCfQ/photo.jpg",
         "content": "Es lo que hay",
         "score": 4,
         "thumbsUpCount": 0,
@@ -672,7 +760,7 @@
     },
     {
         "userName": "carles virgili",
-        "userImage": "https://lh3.googleusercontent.com/-E_qGCPIIJkI/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJOWcMEvcNA2otsE5JXGEscluUpqGg/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-E_qGCPIIJkI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl_0DqiVFPaV8mdREeQEkn_Was-KA/photo.jpg",
         "content": "Des de fa molts dies intento entrar i d\u00f3na errada de connexi\u00f3......",
         "score": 1,
         "thumbsUpCount": 0,
@@ -705,7 +793,7 @@
     },
     {
         "userName": "PAQUITA REQUENA",
-        "userImage": "https://lh3.googleusercontent.com/-HFdUGtrBBzw/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJOJPAZtTUrErEroTZgkh9-15G-eOg/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-HFdUGtrBBzw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclBiiaP5oZaBFyR60zRCNt5hKmaoA/photo.jpg",
         "content": "Problemes per identificar-me",
         "score": 3,
         "thumbsUpCount": 0,
@@ -738,7 +826,7 @@
     },
     {
         "userName": "Carmen Casas Gass\u00f3",
-        "userImage": "https://lh3.googleusercontent.com/-WlzMwvUmCWs/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJNqURQR3Si67JU_EWZOg0-wgCbSYw/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-WlzMwvUmCWs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmVgPj1QD_XWwJaLMtzeuM0OTYiIg/photo.jpg",
         "content": "Trobo molt bona aquesta iniciativa.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -815,7 +903,7 @@
     },
     {
         "userName": "laura toys paez",
-        "userImage": "https://lh3.googleusercontent.com/-9Ya1n6oIct8/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJMLa6i_uxo7bWcR2xh64y6GULcMmQ/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-9Ya1n6oIct8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckOsox4Ftte8XztQA4N5b684HlC5Q/photo.jpg",
         "content": "estaria be que recordes el numero de tarja sanitaria. es molt molest haver-lo de possar cada vegada",
         "score": 3,
         "thumbsUpCount": 0,
@@ -826,7 +914,7 @@
     },
     {
         "userName": "Sole Gonzalez",
-        "userImage": "https://lh3.googleusercontent.com/-oa9D0UAmlyo/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJO0U3_BDZxDgmuubGsgdqC1VZZd5A/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-oa9D0UAmlyo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucloVj2Xhkw31FPmFSmuLDQbiHqQQQ/photo.jpg",
         "content": "NO ES NADA PR\u00c1CTICA, CONTINUAME TE DICE ERROR DE CONEXI\u00d3N",
         "score": 1,
         "thumbsUpCount": 1,
@@ -837,7 +925,7 @@
     },
     {
         "userName": "Antonio Charles",
-        "userImage": "https://lh3.googleusercontent.com/-2jaIJkkP1Is/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJO--x2fmfHJErKtD1O3utXuI747yA/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-2jaIJkkP1Is/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnWJKEBl5vDOpB5qzp5TimQQYktUw/photo.jpg",
         "content": "Normal",
         "score": 5,
         "thumbsUpCount": 0,
@@ -848,7 +936,7 @@
     },
     {
         "userName": "Mar Lopez Marentes",
-        "userImage": "https://lh3.googleusercontent.com/-9vewYXGfxKs/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJM4J79qv4QuH78-0qM_rCBH108mLQ/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-9vewYXGfxKs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmgJ0jaMoG2HDOqfZbIKlQZSHaaxQ/photo.jpg",
         "content": "La aplicaci\u00f3n es penosa, se ahorra tiempo diciendo a la gente que si no est\u00e1n perfectos, es probable que tengan coronavirus...as\u00ed nos va",
         "score": 1,
         "thumbsUpCount": 1,
@@ -859,7 +947,7 @@
     },
     {
         "userName": "MARTA PONS VILLORO",
-        "userImage": "https://lh3.googleusercontent.com/-nDQnnNVC0lU/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJOrwwci_x8s9FmH9mB91baMJc31ww/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-nDQnnNVC0lU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckonW5tsAqJWdeSIwlGrXiGmxiwCg/photo.jpg",
         "content": "Siempre da error de conexi\u00f3n",
         "score": 2,
         "thumbsUpCount": 1,
@@ -870,7 +958,7 @@
     },
     {
         "userName": "Xavier Canals",
-        "userImage": "https://lh3.googleusercontent.com/-PNxCfpeMQ5s/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJN9uRI9pr3WBSxfZvwM2WkRxJQibw/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-PNxCfpeMQ5s/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmc1Cww-8IpRtndQZMoUeanuSd8DQ/photo.jpg",
         "content": "Molt bona aplicaci\u00f3",
         "score": 5,
         "thumbsUpCount": 0,
@@ -892,7 +980,7 @@
     },
     {
         "userName": "Pilar Torremocha Portoles",
-        "userImage": "https://lh3.googleusercontent.com/-3p8WKWwUIv4/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJOwigm1RD2f0iTO2Szi0U4UzvSFag/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-3p8WKWwUIv4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm8QFtHBsCqhwyAHxvreYRqp3PXCw/photo.jpg",
         "content": "Muy deficiente y poco fiable.",
         "score": 3,
         "thumbsUpCount": 1,
@@ -925,7 +1013,7 @@
     },
     {
         "userName": "Jordi Aragones",
-        "userImage": "https://lh3.googleusercontent.com/-aWzeTmbR2Z4/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJM5ij_mej8q5UWMCQCePZaD04xKBQ/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-aWzeTmbR2Z4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmB6VvR3cKaQsFgEw21SLc4BR2fvg/photo.jpg",
         "content": "Ha delgado de funcionar, me poden permisos que ya est\u00e1n habilitados a partir de hoy dejo de hacer el test.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -958,7 +1046,7 @@
     },
     {
         "userName": "Accion total -",
-        "userImage": "https://lh3.googleusercontent.com/-kmbBedBO4Mo/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJPBRUXrbrwhtW043VL-tYI4olBLhw/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-kmbBedBO4Mo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnvBN9lC8BN8AdGMNiqZ4uwyGVLBg/photo.jpg",
         "content": "Terrible",
         "score": 1,
         "thumbsUpCount": 0,
@@ -991,7 +1079,7 @@
     },
     {
         "userName": "yvonne acosta",
-        "userImage": "https://lh3.googleusercontent.com/-3At84Zb3MB8/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJNQNOcydHA6ll3BpWzix5O5vP8z1g/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-3At84Zb3MB8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl7I-cnknVgo8PxIWn2-EYw8tmdFA/photo.jpg",
         "content": "Los s\u00edntomas son cerrados...no da opci\u00f3n a otros... ni si hay m\u00e1s personas de tu hogar con s\u00edntomas... Hay identificaci\u00f3n que no reconoce",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1002,10 +1090,10 @@
     },
     {
         "userName": "Edu Bizarraga",
-        "userImage": "https://lh3.googleusercontent.com/-GumBoQg0iHo/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJMI-PmrCboCol02aeA-EtAZWHsFCg/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-GumBoQg0iHo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmmyhtBBL_vYdjt33u-Ac2KZs3YKQ/photo.jpg",
         "content": "No me gusta nada esto aun puese asustar a la gente por cualquuer cosa dice que ya puedes ser un enfermo de covid-19 y que te aisles en uns habitaci\u00f3n. No entiendo primero siempre nos han dicho el medico que no hagamos caso a internet que se necesita una exploraci\u00f3n por el medico y ahora nos ponen estas aplicaciones para que??? Si no sirve de nada en fin no la recomiendo por que os va hacer cojer ansiedad.",
         "score": 1,
-        "thumbsUpCount": 1,
+        "thumbsUpCount": 2,
         "reviewCreatedVersion": "1.0.1",
         "at": "2020-04-01 22:21:25",
         "replyContent": null,
@@ -1013,7 +1101,7 @@
     },
     {
         "userName": "Conrado Rodr\u00edguez",
-        "userImage": "https://lh3.googleusercontent.com/-I6Osn1KBqG8/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJPt2diR0p1uTDZjR0gOcvMIUCGflQ/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-I6Osn1KBqG8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclGdt_hscyGpDrk2KiUVfzbsttvXA/photo.jpg",
         "content": "pulso para poner el CIP y se cierra",
         "score": 1,
         "thumbsUpCount": 1,
@@ -1024,7 +1112,7 @@
     },
     {
         "userName": "Jaime Alastruey",
-        "userImage": "https://lh3.googleusercontent.com/-W_c333Xud24/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJMOT0TzP8o5Qs753QEqL-U308wlgw/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-W_c333Xud24/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclwBCdn7Uz8YFx3Nipm7hP9ULg2Lw/photo.jpg",
         "content": "Es una buena ayuda para que las autoridades sanitarias tengan un mapa global de la situacion",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1079,7 +1167,7 @@
     },
     {
         "userName": "Miguel Orcalla Hidalgo",
-        "userImage": "https://lh3.googleusercontent.com/-J1KWf0MuB7Y/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJMlIIQOUwgeDWiHlvY0RLPwAuhbWQ/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-J1KWf0MuB7Y/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmMHK2VFyRIaE5NxcEV4m48lDgJZQ/photo.jpg",
         "content": "La aplicaci\u00f3n se cuelga cuando pongo edad y sexo.",
         "score": 1,
         "thumbsUpCount": 1,
@@ -1101,7 +1189,7 @@
     },
     {
         "userName": "MARI C. Frias",
-        "userImage": "https://lh3.googleusercontent.com/-uP5lMctLFlA/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJO0KoQZxdIIEkoxd0q502KZ39nlBA/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-uP5lMctLFlA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnGTOJ_Due6P-r-zzq9iKgcmzVkjw/photo.jpg",
         "content": "Cuando acabas de poner sintomas y te dice caso probable, te indica que repitas dos veces al d\u00eda, pero cada vez que entras te indica HAS COMENZADO A TENER SINTOMAS as\u00ed no hay seguimiento. No entiendo",
         "score": 1,
         "thumbsUpCount": 4,
@@ -1123,7 +1211,7 @@
     },
     {
         "userName": "nuria5656 Capdevila",
-        "userImage": "https://lh3.googleusercontent.com/-LADUs41roAo/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJPRyPoCNIgFS0mrRcNrBOxukTLdJg/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-LADUs41roAo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnyWgfHdYQNTceS3gZcSpKNsnOtCw/photo.jpg",
         "content": "No deixa entrar el n\u00famero de la tarjeta sanitaria. No puc fer res.",
         "score": 1,
         "thumbsUpCount": 1,
@@ -1145,7 +1233,7 @@
     },
     {
         "userName": "Anastasio Herraiz",
-        "userImage": "https://lh3.googleusercontent.com/-g2e9LISJ9q8/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJOI5LR6g4nkgH10lWbLOVtd4kiMig/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-g2e9LISJ9q8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmsfuJ_B2jklBBQv4YygACmIC-iJw/photo.jpg",
         "content": "En test es muy b\u00e1sico. No tiene bot\u00f3n de salida de la aplicaci\u00f3n, s\u00f3lo uno de volver a repetir el test. Dada la incapacidad de controlar a la poblaci\u00f3n por la falta de medios y organizaci\u00f3n es un indicador medio aceptable del estado general.",
         "score": 3,
         "thumbsUpCount": 7,
@@ -1156,7 +1244,7 @@
     },
     {
         "userName": "Vanesa Navarra",
-        "userImage": "https://lh3.googleusercontent.com/-QOQVcRSXp-Y/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJMZpSqfElwu9QD_vY_EKGlOzugrLQ/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-QOQVcRSXp-Y/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckZcX7n-FNswqSkiDO_YPq-1k2JAg/photo.jpg",
         "content": "No pasa de poner el identificador",
         "score": 1,
         "thumbsUpCount": 1,
@@ -1167,7 +1255,7 @@
     },
     {
         "userName": "Xavi",
-        "userImage": "https://lh3.googleusercontent.com/-6pQh65WBBPY/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJNWed5kRTbg2PLsrvDczkohm_p6Ig/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-6pQh65WBBPY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclWH51aposKY6Ujk8JZVGu0KjNoDA/photo.jpg",
         "content": "Sencilla de fer servir",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1178,7 +1266,7 @@
     },
     {
         "userName": "xavier codina puig",
-        "userImage": "https://lh3.googleusercontent.com/-od9Q8ZXxAcA/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJM2sDvKkAx2SZpnyFtLkisav2fKiA/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-od9Q8ZXxAcA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckgak4CIzfoEIPWRqaLdGSM_DGSoA/photo.jpg",
         "content": "No puedes dejar constancia si ya has tenido Covid19",
         "score": 4,
         "thumbsUpCount": 0,
@@ -1211,7 +1299,7 @@
     },
     {
         "userName": "Carmen Hernandez",
-        "userImage": "https://lh3.googleusercontent.com/-8YmEibME_Dw/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJNDkKfebOYwdQiDH1OV1iydwxWdOw/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-8YmEibME_Dw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn8gNmn1pftETh90LHM8ZG0wi2HJg/photo.jpg",
         "content": "Despu\u00e9s de utilizarla 4 veces ya no funciona, da error de conexi\u00f3n. La he borrado y vuelto a instalar y contin\u00faa el mal funcionamiento.",
         "score": 3,
         "thumbsUpCount": 0,
@@ -1255,7 +1343,7 @@
     },
     {
         "userName": "Jose Ramon Barrionuevo Lopez",
-        "userImage": "https://lh3.googleusercontent.com/-uS_CsaXsnaY/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJPYG77RKPT2bhszbj2n5kC-q-s6Mg/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-uS_CsaXsnaY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmhAh4ZF3RT1B9QJr_xxNgaloz2DQ/photo.jpg",
         "content": "Solo sirve para la catsalut SS ,los funcionarios con tarjeta de muface no tenemos acceso, muy mal!!!!",
         "score": 3,
         "thumbsUpCount": 1,
@@ -1266,7 +1354,7 @@
     },
     {
         "userName": "Mireia Roya",
-        "userImage": "https://lh3.googleusercontent.com/-EWduAgfZ_lw/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJPoYMUa9aea2egg7IewA1gSr9hq7g/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-EWduAgfZ_lw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmAnwsQJXgpXHtZrG74Mzqq9_oE3Q/photo.jpg",
         "content": "Da error",
         "score": 3,
         "thumbsUpCount": 0,
@@ -1299,7 +1387,7 @@
     },
     {
         "userName": "Gerard Rius",
-        "userImage": "https://lh3.googleusercontent.com/-97Yh3MBNwAA/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJMz163KDupZ53Xnbu06lYCjseAgvg/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-97Yh3MBNwAA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclrMI2DsW-5mcck3kYM_UjIJdAJQg/photo.jpg",
         "content": "Gran iniciativa davant aquesta crisis",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1343,7 +1431,7 @@
     },
     {
         "userName": "Josep Plaza Carmona",
-        "userImage": "https://lh3.googleusercontent.com/-_g_NfIt-btA/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJNjViA0itve_sY3flYOrQed49bZ9w/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-_g_NfIt-btA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckvDFovhQt_n0tPagLKEJx41c8Ahw/photo.jpg",
         "content": "Llevo 2 dias dandome error de conexion",
         "score": 1,
         "thumbsUpCount": 1,
@@ -1398,7 +1486,7 @@
     },
     {
         "userName": "fjcarme",
-        "userImage": "https://lh3.googleusercontent.com/-EwNRqKQKzgc/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJMosrKegaLn9RryLILW41TcoKFI9Q/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-EwNRqKQKzgc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmi9FrW8zi1V1jvNWL8xtiTD_PbJw/photo.jpg",
         "content": "F\u00e0cil i r\u00e0pida",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1409,7 +1497,7 @@
     },
     {
         "userName": "Jorge H.R.",
-        "userImage": "https://lh3.googleusercontent.com/-dlHzXgY7WYo/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJN5rqjoK6HZTVeiwU13cMWdD-LQxQ/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-dlHzXgY7WYo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucldAbGPzj65cb4WBVvGZRLnUE2kPg/photo.jpg",
         "content": "Ayuda a ayudar.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1431,7 +1519,7 @@
     },
     {
         "userName": "lorenzo cusac caramazana",
-        "userImage": "https://lh3.googleusercontent.com/-Fgvr8yvn8NQ/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJOiQO8mpAQEPlNSh4x-Sf0LTKx_eQ/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-Fgvr8yvn8NQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmmrIEv-7tXblP7SiqStdcJIF4CoQ/photo.jpg",
         "content": "Intento conectar y me dice todo el rato error de conexi\u00f3n N",
         "score": 1,
         "thumbsUpCount": 1,
@@ -1442,7 +1530,7 @@
     },
     {
         "userName": "Maribel Paracuellos",
-        "userImage": "https://lh3.googleusercontent.com/-nqsSXlEKAQQ/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJM754l-9wT7Q6qH_ilG60QtYf1jHA/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-nqsSXlEKAQQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckbQK9TxClJVRxYz-aKjdeqigUYXg/photo.jpg",
         "content": "Despr\u00e9s d'una setmana m'acaben de fer un control",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1475,7 +1563,7 @@
     },
     {
         "userName": "Juan Jos\u00e9 Segado Rodr\u00edguez",
-        "userImage": "https://lh3.googleusercontent.com/-OJmaepWQeqA/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJMTUT1gtJBsrAW1UmiHcSuOQ2DLXw/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-OJmaepWQeqA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckJaZLKPPTENFcJ6x78mzEqCEfujg/photo.jpg",
         "content": "No se para que vale esta aplicacion sin uso",
         "score": 1,
         "thumbsUpCount": 1,
@@ -1562,17 +1650,6 @@
         "repliedAt": null
     },
     {
-        "userName": "George Noh",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhBhn389GjByCgNcHz-OkKFIF3NnmLz4-xjrsVsHg",
-        "content": "No serveix de massa falten altres dades, no tots els casos s\u00f3n de tipus respiratori, tamb\u00e9 hi han sintomes intestinals forts",
-        "score": 3,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.0.1",
-        "at": "2020-03-28 21:54:00",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
         "userName": "Raquel Garc\u00eda Mu\u00f1oz",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gh5lBHf6PxSOOmkDbUkd9VpQ6kIVmdBK540DzB0dg",
         "content": "Solo sirve para hacer un test y que al m\u00ednimo s\u00edntoma te diga que te aisles? Tengo tos, pero es tos constructiva no seca, como no pregunta algo tan importante dentro de los s\u00edntomas pues nada... Posible caso y luego ya solo puedo repetir el test... ESTO NO SIRVE PARA NADA.",
@@ -1596,7 +1673,7 @@
     },
     {
         "userName": "Saray Lopez",
-        "userImage": "https://lh3.googleusercontent.com/-Orlv4CoyZWk/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJNn8rUZWI789eC8k12lL0krI8f8vg/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-Orlv4CoyZWk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclQ_uhk_lYSxClkJNaFv5rtw3hObw/photo.jpg",
         "content": "Siempre dice que si lo tienes",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1618,7 +1695,7 @@
     },
     {
         "userName": "Maritza Bernal Ortega",
-        "userImage": "https://lh3.googleusercontent.com/-IXTl558weao/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJMks4cIg1ZQI000tAwWndDIGi5egw/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-IXTl558weao/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckVbHecDRcdrkgYMMAdpqbcLu4LQw/photo.jpg",
         "content": "Muy mal",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1717,7 +1794,7 @@
     },
     {
         "userName": "Salvador Lage",
-        "userImage": "https://lh3.googleusercontent.com/-I7EbXa342hs/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJNT2LbhNtnWh9rRx7acKZAExTpzZg/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-I7EbXa342hs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmy2CjK06hChCCOKE5N7uMA2TxMgw/photo.jpg",
         "content": "Ja funciona altre cop. Haurien de fer una actualitzacio dels simptomes,doncs segons estudis publicats el tenir diarrea,anorexia o nauseas, son sintomes de petir l'infeccio per covid19,encara que no hi hagi febre.",
         "score": 3,
         "thumbsUpCount": 0,
@@ -1772,7 +1849,7 @@
     },
     {
         "userName": "Carolina VS",
-        "userImage": "https://lh3.googleusercontent.com/-2MBka1abVM0/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJMOMEAfL45L-rpW-HdD6THhakI52A/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-2MBka1abVM0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclsDRCJKQw7ZOxANWxZGZTVy2TOcQ/photo.jpg",
         "content": "Al principio, al preguntar sobre los s\u00edntomas, he marcado que tengo tos y dificultad respiratoria, pero es que siempre tengo esos s\u00edntomas ya que soy asm\u00e1tica. Tendr\u00eda que haber alguna pregunta previa para descartar que sean s\u00edntomas cr\u00f3nicos del paciente. No tengo m\u00e1s tos de la normal ni ning\u00fan otro s\u00edntoma.",
         "score": 3,
         "thumbsUpCount": 0,
@@ -1838,7 +1915,7 @@
     },
     {
         "userName": "J\u00falia Bc",
-        "userImage": "https://lh3.googleusercontent.com/-n_uRMuEzI_E/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJPF1x1Zymh-Um6uezB2bGGdFABAxQ/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-n_uRMuEzI_E/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckDhL86tL6wxfJ-I4PN1zZOfI4JJQ/photo.jpg",
         "content": "Pones el tel\u00e9fono y se queda el teclado numeral clavado en la pantalla sin poder seguir adelante. Espero que lo puefan arreglar pronto.",
         "score": 3,
         "thumbsUpCount": 1,
@@ -1863,7 +1940,7 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiXLXJRogw8HN11qNpAuOCEO0LXI3LJr9FjlI-Zjg",
         "content": "El que ha hecho el test se ha lucido. Solamente que tengas uno de los s\u00edntomas del inicio ya te dice que eres probable portador no s\u00e9 para qu\u00e9 sirve el resto de preguntas... \u00c9sta aplicaci\u00f3n no aporta nada nuevo o que no sepas. En fin otra manera m\u00e1s de crearte miedo. Y si es una app simplemente para crear una estad\u00edstica yo me pregunto qu\u00e9 veracidad debe tener. Cu\u00e1nta gente debe haber contestado que tiene los s\u00edntomas sin ser cierto? S\u00f3lo para ver qu\u00e9 te contesta... En fin.",
         "score": 1,
-        "thumbsUpCount": 115,
+        "thumbsUpCount": 118,
         "reviewCreatedVersion": "1.0.0",
         "at": "2020-03-25 06:01:20",
         "replyContent": null,
@@ -1871,7 +1948,7 @@
     },
     {
         "userName": "Angie Santamar\u00eda",
-        "userImage": "https://lh3.googleusercontent.com/-ozHJIXTl2vE/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJMOqEMoCLMZyrjRN-wI5lWHH6MkUQ/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-ozHJIXTl2vE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnRIUOaEz6Qb0w23-fpf6MLzrcQyA/photo.jpg",
         "content": "No funciona he introducido el n\u00famero de tarjeta y nada, tambi\u00e9n lo he hecho con el DNI y se queda pensando.",
         "score": 1,
         "thumbsUpCount": 3,
@@ -1882,7 +1959,7 @@
     },
     {
         "userName": "Ana S\u00e1nchez",
-        "userImage": "https://lh3.googleusercontent.com/-z7x8S3Ex9-U/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJNYN2Z2yC6DFWq5KIEPFZd-w4bcwQ/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-z7x8S3Ex9-U/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnE8YuZLFhg9VRFH97dB43rSQW5yw/photo.jpg",
         "content": "Fatal",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1907,7 +1984,7 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiVbcH3kUo_qPQ6ncOhakNpNDxEMtmyUC3WKFXV2A",
         "content": "Eh puesto un simple malestar general y la app me dice que soy un probable caso de coronavirus, solonponiendo un s\u00edntoma muy com\u00fan para pr\u00e1cticamente todas las enfermedades, me parece que le falta desarrollo a esta app.",
         "score": 1,
-        "thumbsUpCount": 2,
+        "thumbsUpCount": 3,
         "reviewCreatedVersion": "1.0.0",
         "at": "2020-03-24 22:03:46",
         "replyContent": null,
@@ -1926,7 +2003,7 @@
     },
     {
         "userName": "Ma CARME MAS COSTA",
-        "userImage": "https://lh3.googleusercontent.com/-WpvTHtybk60/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJM9TtSm4KJl1RTXUTcRZE7sdtggDQ/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-WpvTHtybk60/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnJBCbrdxU776lUrLmyz9QyV9SOHg/photo.jpg",
         "content": "Buena",
         "score": 3,
         "thumbsUpCount": 0,
@@ -1948,7 +2025,7 @@
     },
     {
         "userName": "Roger Rider",
-        "userImage": "https://lh3.googleusercontent.com/-Xgn-TYEvZd0/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJPNKEp9jmhOC4YTj0ZL8wDJK1k0Gg/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-Xgn-TYEvZd0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmWhoQFv7v-GcuX6tBt_uh_WlPWAw/photo.jpg",
         "content": "Una app que et diu que et quedis a casa i beguis molta aigua. I si truques al 061 et diuen despr\u00e9s de dues hores de espera que ja et trucaran sense fer-ho",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1959,7 +2036,7 @@
     },
     {
         "userName": "helena varela",
-        "userImage": "https://lh3.googleusercontent.com/-LmeyCrrZ9Q0/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJPPqWLWGx45ZZKHdKAdz1pRfj7S-Q/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-LmeyCrrZ9Q0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckkMfEFbBfU9yBQGDfnE99bUZwTqA/photo.jpg",
         "content": "Molt acertat",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1970,7 +2047,7 @@
     },
     {
         "userName": "Julio Elkan",
-        "userImage": "https://lh3.googleusercontent.com/-NwCeojysS5I/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJOQ-IN96TKztt9VkjQOFxN2HQUqYA/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-NwCeojysS5I/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnuG__uOw8DUubh8uXzZ9KxieoakQ/photo.jpg",
         "content": "Se necesitan test diarios y para toda la poblaci\u00f3n",
         "score": 5,
         "thumbsUpCount": 0,
@@ -2047,7 +2124,7 @@
     },
     {
         "userName": "Josep Vidal Basallote",
-        "userImage": "https://lh3.googleusercontent.com/-qjZ3ccXNv-4/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJMF6qgK9V9OrGv0KUsOH-qG3QxPoQ/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-qjZ3ccXNv-4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl9Ie-QMn2zOr4QTjYPX5ogALlb4w/photo.jpg",
         "content": "He intentado entrar varias veces en catal\u00e1n y en castellano, incluso reiniciando el tel\u00e9fono, pero siempre que marco la casilla para escribir el numero de la tarjeta de me cierra la app, que puedo hacer?",
         "score": 2,
         "thumbsUpCount": 2,
@@ -2058,7 +2135,7 @@
     },
     {
         "userName": "EVA LAMAZARES",
-        "userImage": "https://lh3.googleusercontent.com/-4BAm-_svif0/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJOxWV0NJRdaooVXqvK3aRQ6XRW9RQ/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-4BAm-_svif0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclPpKePGlu5s4--WecvsHYXQiwwRw/photo.jpg",
         "content": "Gr\u00e0cies!!!!",
         "score": 5,
         "thumbsUpCount": 0,
@@ -2080,7 +2157,7 @@
     },
     {
         "userName": "Ferran Sole",
-        "userImage": "https://lh3.googleusercontent.com/-jY9QWhhEVIg/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJMtP1SVzHDL2fAs_giHhBwhLShRdg/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-jY9QWhhEVIg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnbZ3ButnT-fx0IwwP-KuCjngkQhg/photo.jpg",
         "content": "Impossible conectar amb tarjeta sanit\u00e0ria",
         "score": 1,
         "thumbsUpCount": 0,
@@ -2091,7 +2168,7 @@
     },
     {
         "userName": "Carlos Donaire Fern\u00e1ndez",
-        "userImage": "https://lh3.googleusercontent.com/-VIeZ8vpdeEs/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJNlToZQQ9fFtFMtZcpkZpC4ppUYdQ/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-VIeZ8vpdeEs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucntkxH9eciLhIjYaF-zULBry98zng/photo.jpg",
         "content": "No contempla los que ua hemos pasado s\u00edntomas. Yo tuve fiebre y otros sintomas hace 10 dias y de eso no piedo dejar constancia, siendo posible a\u00fan que contagie. Desde entonces he perdido gusto y olfato y tampoco contempla ese sintoma.",
         "score": 2,
         "thumbsUpCount": 0,
@@ -2102,7 +2179,7 @@
     },
     {
         "userName": "Casa Arnau",
-        "userImage": "https://lh3.googleusercontent.com/-rn9-gguOycQ/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJOOjYQAfC5KyEe0FmBlYdpjQrrWQQ/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-rn9-gguOycQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnAG3cGc2ii42yYMlGsqzuduMIB6Q/photo.jpg",
         "content": "Hay una pregunta importante en clave internacional que no haceis. - Has perdido la concepcion de la olor y del gusto? Todos los portadores del covid han perdido esos dos sentidos. #sinolfato #singusto",
         "score": 3,
         "thumbsUpCount": 0,
@@ -2124,7 +2201,7 @@
     },
     {
         "userName": "Jes\u00fas Segura",
-        "userImage": "https://lh3.googleusercontent.com/-YdiYuz2tlw8/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJPGgpX5DJk825Dah8S9U22X0zi5gQ/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-YdiYuz2tlw8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckh9L60goqZu_6MqmzeYtfcR3e8Kw/photo.jpg",
         "content": "M\u00e1s de 200 Mb de app para un simple cuestionario. No se puede hacer por web?",
         "score": 1,
         "thumbsUpCount": 1,
@@ -2135,7 +2212,7 @@
     },
     {
         "userName": "Francis Rosa",
-        "userImage": "https://lh3.googleusercontent.com/-nAlu50ITxqY/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJNRCdbpsywRbcN7Wforju39S5J8Ag/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-nAlu50ITxqY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclX-sUv5xRQTTUPGKZf_0FkHuzUfA/photo.jpg",
         "content": "He intentat entrar i no em deixa, ni amb el meu n\u00b0 tarja CATSALUT ni amb el n\u00b0 DNI. Em diu q esta equivocat",
         "score": 1,
         "thumbsUpCount": 0,
@@ -2146,7 +2223,7 @@
     },
     {
         "userName": "Jose Manuel Sales",
-        "userImage": "https://lh3.googleusercontent.com/-fWAyaav7ls0/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJMKvfB3pGoIT93PbZjp2lsYi0njWw/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-fWAyaav7ls0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckGIUIONUMjcPVG3vo0nwS-3EQ1-g/photo.jpg",
         "content": "Funciona PERFECTAMENTE",
         "score": 5,
         "thumbsUpCount": 0,
@@ -2179,7 +2256,7 @@
     },
     {
         "userName": "Zelia Faustino",
-        "userImage": "https://lh3.googleusercontent.com/-wnj4DoZ71oQ/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJNDq8mEUlQMJ4BRdmn2FXt-HiPcQA/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-wnj4DoZ71oQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnZAwiay8An07pDKmJReF6Y04smOw/photo.jpg",
         "content": "No poc entrar",
         "score": 1,
         "thumbsUpCount": 0,
@@ -2201,7 +2278,7 @@
     },
     {
         "userName": "Carmen Gama",
-        "userImage": "https://lh3.googleusercontent.com/-bmrqCzF9Zjs/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJM7PBlHgqXvfcPsLVG-PWfvreEZWg/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-bmrqCzF9Zjs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckHEz_-N25Vm34p84OJ-NtRQjBIYg/photo.jpg",
         "content": "No hay maner de entrar ni con CIP ni DNI",
         "score": 1,
         "thumbsUpCount": 2,
@@ -2223,7 +2300,7 @@
     },
     {
         "userName": "Candelaria Rodriguez",
-        "userImage": "https://lh3.googleusercontent.com/-kS4m01OLfIg/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJP_Ry5d93PZ9C-ghkenJ5IgMh6wZw/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-kS4m01OLfIg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnkz8EfhOxiYTiSyUzg-nTBpSrn6A/photo.jpg",
         "content": "S\u00f3lo funciona en versiones nuevas de Android",
         "score": 1,
         "thumbsUpCount": 3,
@@ -2245,7 +2322,7 @@
     },
     {
         "userName": "Daniel G\u00f3mez Martin",
-        "userImage": "https://lh3.googleusercontent.com/-e4MNiSWGCXs/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJMJLsXwaLAR-KFOzHQXLLMn9BV98Q/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-e4MNiSWGCXs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnSm0mYI94k8wCVov9U64Vz4TywrA/photo.jpg",
         "content": "Se quedan con datos de identificacion y personales de nivel de proteccion 5/6, desde una aplicacion... Que parece los envia al email del ctti (centro datos Generalitat)! El canal oficial no deberia ser este. El canal deberia ser los propios hospitales y certificados medicos",
         "score": 2,
         "thumbsUpCount": 8,
@@ -2256,7 +2333,7 @@
     },
     {
         "userName": "Eli Eli",
-        "userImage": "https://lh3.googleusercontent.com/-q85PW_cVxvQ/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJMrQ90ZRESQaYy4HdOVgn2HYoHkGg/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-q85PW_cVxvQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclf13GrzOhOgoWRcMrJoIacK9pIYA/photo.jpg",
         "content": "Pongo vip y nada pongo dni y tampoco entro.",
         "score": 2,
         "thumbsUpCount": 1,
@@ -2267,7 +2344,7 @@
     },
     {
         "userName": "Mjesus Allue",
-        "userImage": "https://lh3.googleusercontent.com/-AzqoKVb8MJQ/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJMxBy44MxdXBq_fU_gT-hBsdLGmRQ/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-AzqoKVb8MJQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnFJqlcAjed1zpcU-wtmrJxoa2XtA/photo.jpg",
         "content": "Cuesta mucho entrar.",
         "score": 4,
         "thumbsUpCount": 0,
@@ -2278,7 +2355,7 @@
     },
     {
         "userName": "Francisco Javier G\u00f3mez Grao",
-        "userImage": "https://lh3.googleusercontent.com/-sp6DOlrs4TU/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJOsyYFsql4gaXNZPyuQIc7w5Hm9ZQ/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-sp6DOlrs4TU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmTSo3AUQzsiLzyjoEtQc14U7ECyQ/photo.jpg",
         "content": "Enseguida te responden y contacta con la persona y su urgencia!!",
         "score": 5,
         "thumbsUpCount": 0,
@@ -2289,7 +2366,7 @@
     },
     {
         "userName": "Tito Quispe",
-        "userImage": "https://lh3.googleusercontent.com/-CH3Vc2k5ekc/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJMzaJ2yzVIxu_me0tmHJWE6R75Ukg/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-CH3Vc2k5ekc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmnhOEbP-ke3G2WU2A5F-tzdql58Q/photo.jpg",
         "content": "No me gusta xq no da el CIP",
         "score": 2,
         "thumbsUpCount": 0,
@@ -2311,7 +2388,7 @@
     },
     {
         "userName": "Ivan Canales",
-        "userImage": "https://lh3.googleusercontent.com/-ed2wJhGqWOU/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJOV79-BNm_pmNl0qeKK-sv5z_Cq3A/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-ed2wJhGqWOU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnL8F06-4rtGoHmzoSOsop6T5p23w/photo.jpg",
         "content": "No detecta la ubicaci\u00f3n aunque le des permisos y de ah\u00ed no pasas",
         "score": 1,
         "thumbsUpCount": 0,
@@ -2333,7 +2410,7 @@
     },
     {
         "userName": "Aaron Castro",
-        "userImage": "https://lh3.googleusercontent.com/-WtliU59TI9s/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJP5ChbWBsTLBGY4is4817h-zhdxOw/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-WtliU59TI9s/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmeLANb_NUAgYMJi6YlpSEfsmzSsQ/photo.jpg",
         "content": "Soy de Bolivia y pongo mi dni mio pero no entro, es solo para espa\u00f1a?",
         "score": 2,
         "thumbsUpCount": 0,
@@ -2366,7 +2443,7 @@
     },
     {
         "userName": "Antonia Montoro",
-        "userImage": "https://lh3.googleusercontent.com/-T0mG5tn66sI/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJNxEySdLucvRvkuC4fGzNHxgEi7ag/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-T0mG5tn66sI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmH_wub2QtakR76wqaCaTK2TaSpwQ/photo.jpg",
         "content": "Te sientes m\u00e1s seguro y te da m\u00e1s confianza",
         "score": 5,
         "thumbsUpCount": 0,
@@ -2377,7 +2454,7 @@
     },
     {
         "userName": "Emma Molina Arcas",
-        "userImage": "https://lh3.googleusercontent.com/-psjMn3Td8Ww/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJOiwGV2VZrZYaNkj32ZxrMOYMXkyg/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-psjMn3Td8Ww/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnK8pQBmhK96abs1WH1PxiN0875DA/photo.jpg",
         "content": "No me deja hacerlo y pongo lo que pide",
         "score": 1,
         "thumbsUpCount": 0,
@@ -2388,7 +2465,7 @@
     },
     {
         "userName": "Nuria Garc\u00eda",
-        "userImage": "https://lh3.googleusercontent.com/-Tw5aDfkcdco/AAAAAAAAAAI/AAAAAAAAb1s/AAKWJJMRfeUAFpowhjdzU7B3A8OULe-CMA/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-Tw5aDfkcdco/AAAAAAAAAAI/AAAAAAAAb1s/AMZuucmJYV2EWX_WRRFKJ1EmaM4WJne8fQ/photo.jpg",
         "content": "\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d",
         "score": 4,
         "thumbsUpCount": 0,
@@ -2399,7 +2476,7 @@
     },
     {
         "userName": "Ramon Bov\u00e9",
-        "userImage": "https://lh3.googleusercontent.com/-ylsCM5AImp8/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJNyBRKUMRMsgCxCdPMkzvC5CmINcQ/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-ylsCM5AImp8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclukGvTAJciCH6fgV7iMqoI1bhxGw/photo.jpg",
         "content": "Creo que puede ser muy util por ahora y para el futuro",
         "score": 4,
         "thumbsUpCount": 0,
@@ -2410,7 +2487,7 @@
     },
     {
         "userName": "Ja Murme",
-        "userImage": "https://lh3.googleusercontent.com/-8TfD6znG9x0/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJPXTYoPibbDRnySkhdA6zUQmjafcw/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-8TfD6znG9x0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnizkhL2Vkyk_anM1zb1ayUgY6mxA/photo.jpg",
         "content": "No sirve para nada.",
         "score": 1,
         "thumbsUpCount": 4,
@@ -2432,10 +2509,10 @@
     },
     {
         "userName": "ambrosio gepeto",
-        "userImage": "https://lh3.googleusercontent.com/-7YS5QJNAM6k/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJPTez7J2hqkVjLhr8rQsPXBUJ7uJA/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-7YS5QJNAM6k/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmTFLD_h7PyJ8dIg55Mna5TEPuNeQ/photo.jpg",
         "content": "Sirve para que la gencat se ahorre hacer test y nos enga\u00f1en con el n\u00famero de contagiados. Para el desarrollo de esta app si han tenido dinero pero para dar clases online a los alumnos de primaria, secundaria etc. No han sido capaces o han pasado por no interesarles pol\u00edticamente. Vergonzoso. Est\u00e1 opini\u00f3n ser\u00e1 borrada en cuanto la lean por no interesarles las cr\u00edticas.",
         "score": 1,
-        "thumbsUpCount": 53,
+        "thumbsUpCount": 54,
         "reviewCreatedVersion": "1.0.0",
         "at": "2020-03-22 11:50:28",
         "replyContent": null,
@@ -2443,7 +2520,7 @@
     },
     {
         "userName": "ALEX DESO",
-        "userImage": "https://lh3.googleusercontent.com/-kjoAZKigy8g/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJM3igj9b9asKKgMk7kZpwB8RpHWRw/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-kjoAZKigy8g/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmdJ40NZExfXrh0_IrcuriSQUnnbQ/photo.jpg",
         "content": "Mes preguntes estaria be",
         "score": 5,
         "thumbsUpCount": 0,
@@ -2454,7 +2531,7 @@
     },
     {
         "userName": "Alexandre Ratrod",
-        "userImage": "https://lh3.googleusercontent.com/-K_FsTWHD3Rc/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJOzbNea999vLRLusfEgj0k2fh1QzQ/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-K_FsTWHD3Rc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclPMHqCy-he4gTUuIWDrni6K_m6MA/photo.jpg",
         "content": "Qui l ha fet l App?? , mare meva quina xusta!!! \ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f tanta publicitat per aix\u00f2? \ud83d\ude02\ud83d\ude02\ud83d\ude02 us heu lluit fier@s!!!",
         "score": 1,
         "thumbsUpCount": 3,
@@ -2465,7 +2542,7 @@
     },
     {
         "userName": "Raquel L\u00f3pez L\u00f3pez",
-        "userImage": "https://lh3.googleusercontent.com/-Hy2DHYLaWY4/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJNHJkgicRms7SjPX5ZKupIDAcAYCg/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-Hy2DHYLaWY4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckeKH65NRPiNjZ2_5naI2l0dksWPA/photo.jpg",
         "content": "Despu\u00e9s de escribir la sintomatolog\u00eda para una persona con perfil de riesgo, con ciertas patolog\u00edas, la \u00fanica recomendaci\u00f3n que te da, es que te quedes en casa y que tomes muchos l\u00edquidos. No entiendo como pueden hacer c\u00e1lculos de estad\u00edsticas o mapas de zonas si no confirman quien lo tiene o no...",
         "score": 1,
         "thumbsUpCount": 4,
@@ -2520,7 +2597,7 @@
     },
     {
         "userName": "Jennifer Bertran",
-        "userImage": "https://lh3.googleusercontent.com/-4uoC8ENbqzY/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJO-LDAbj2siduRyn13vNwuPbXg7jQ/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-4uoC8ENbqzY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck9eSoMXRy1Ei_JK3IfqCkvVjuO1w/photo.jpg",
         "content": "Es massa simple. Pocs s\u00edmtomes a evaluar i passa de ''menys de 36\u00b0'' a 37\u00b0.. la trobo incompleta",
         "score": 2,
         "thumbsUpCount": 1,
@@ -2564,7 +2641,7 @@
     },
     {
         "userName": "xavier riu",
-        "userImage": "https://lh3.googleusercontent.com/-eRtST9qLnIg/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJPr3kEuVOflNnTj_i2lN56S8tTxUg/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-eRtST9qLnIg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclHckW8OQ0iSr5XeclmmAu-Lo1X2g/photo.jpg",
         "content": "Lo \u00fanico malo es que cada vez hay que poner el CIP",
         "score": 5,
         "thumbsUpCount": 0,
@@ -2619,7 +2696,7 @@
     },
     {
         "userName": "MANUEL ANGEL MATILLA LAPERAL",
-        "userImage": "https://lh3.googleusercontent.com/-4Q5h-Y9hSM0/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJNRQzRKCCUIvVoXM5UuuB6pDvXSvA/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-4Q5h-Y9hSM0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclNSrpU6odRY9OboXzRpJOHhz4qZQ/photo.jpg",
         "content": "Molt positiva",
         "score": 5,
         "thumbsUpCount": 0,
@@ -2641,7 +2718,7 @@
     },
     {
         "userName": "Loreto Montesinos Pascual",
-        "userImage": "https://lh3.googleusercontent.com/-H2RCVwq0o1A/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJP9RJUd1-a7KFJCPu6qAhIHDZrZsA/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-H2RCVwq0o1A/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl5JJWcem__kw95O0AqisUze0kc6A/photo.jpg",
         "content": "De forma individual poc \u00fatil, si per focalitzar els pics del coronavirus",
         "score": 3,
         "thumbsUpCount": 0,
@@ -2663,7 +2740,7 @@
     },
     {
         "userName": "Mari carmen que Tomas",
-        "userImage": "https://lh3.googleusercontent.com/-Hcm5E879uJc/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJNSVlALjqs6g5h0dUhpq1j82_TfWA/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-Hcm5E879uJc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmnPglKxyXrKpOasu92lGRidBaaMQ/photo.jpg",
         "content": "No me deja entrar con mi n\u00famero de cartilla de asistencia sanitaria de toda la vida y me pone que es incorrecto???? . Como todo se haga igual estamos apa\u00f1ados.",
         "score": 1,
         "thumbsUpCount": 1,
@@ -2674,7 +2751,7 @@
     },
     {
         "userName": "merce covas",
-        "userImage": "https://lh3.googleusercontent.com/-cIzZSI_RwTU/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJOKu0dGYz6IqZvxl9YmF6txh9EHew/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-cIzZSI_RwTU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl2aerJRr-0K4A9-fKezaq6ZI0Zgw/photo.jpg",
         "content": "Molt b\u00e9 aquesta iniciativa",
         "score": 5,
         "thumbsUpCount": 1,
@@ -2729,7 +2806,7 @@
     },
     {
         "userName": "Alberto Reyes",
-        "userImage": "https://lh3.googleusercontent.com/-0s_loc90qPg/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJPXk_iPPPvRukDOe8_ZJrmsIXypcg/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-0s_loc90qPg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckGgVZTpUmGYQpiC1zblzLrS_Q9Xw/photo.jpg",
         "content": "Como pide el CIP cada vez con instalar una vez puede servir para los cada uno de los miembros de la Familia.",
         "score": 4,
         "thumbsUpCount": 0,
@@ -2740,7 +2817,7 @@
     },
     {
         "userName": "javier orea",
-        "userImage": "https://lh3.googleusercontent.com/-AijY5KOJlhY/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJNGJ0KMO-dsE6X2csBpQ3msowK3xg/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-AijY5KOJlhY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnDl_hMvobk0aFp8uC5j1rl8V8-EA/photo.jpg",
         "content": "Esto ni esta conectado con catsalut ni nada...no.lo va a leer nadie",
         "score": 1,
         "thumbsUpCount": 1,
@@ -2751,7 +2828,7 @@
     },
     {
         "userName": "Miguel Ortega",
-        "userImage": "https://lh3.googleusercontent.com/-5ZeL9x1r96U/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJM-em_UTMQhVP01h51mA9byHDuofQ/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-5ZeL9x1r96U/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmu1EgFyDjOgnH3bxogjgVw9aDy6w/photo.jpg",
         "content": "No li veig utilita",
         "score": 1,
         "thumbsUpCount": 0,
@@ -2762,7 +2839,7 @@
     },
     {
         "userName": "Jose Rosales",
-        "userImage": "https://lh3.googleusercontent.com/-lNLdwya-pS0/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJOa9rGEs--wXI38zKhTZ8qxaBg8LA/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-lNLdwya-pS0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclaZ1Fn6d3NIfw39jYydut5OzbSPg/photo.jpg",
         "content": "Muy fiable funciona perfectamente",
         "score": 5,
         "thumbsUpCount": 0,
@@ -2773,7 +2850,7 @@
     },
     {
         "userName": "ramon curto",
-        "userImage": "https://lh3.googleusercontent.com/-hmZoGdg_syo/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJP7Unm-HrPx19-5kodvwVghxqOkcQ/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-hmZoGdg_syo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm2g14MLqJcdBa72FLhj2D5FYF6GQ/photo.jpg",
         "content": "No mes ho veig util per seguir els teus moviments-ubicacions si es que ho aceptes i per deixar constancia de si peteixes alg\u00fan s\u00edmptoma. Dit aix\u00f2..... Qualsevol cosa per petita que sigui ser\u00e0 bona per lluitar contra aquest virus",
         "score": 3,
         "thumbsUpCount": 0,
@@ -2795,7 +2872,7 @@
     },
     {
         "userName": "\u00c1ngel Molina S",
-        "userImage": "https://lh3.googleusercontent.com/-gkHeW5cABCs/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJOCgcuScAjntBqlaaNLqmqXOeviGA/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-gkHeW5cABCs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckF29BnPszJopiCXoq6PsqUK9bRvw/photo.jpg",
         "content": "S\u00f3lo recoge datos de los s\u00edntomas.No aporta gran informaci\u00f3n al paciente.",
         "score": 1,
         "thumbsUpCount": 3,
@@ -2806,7 +2883,7 @@
     },
     {
         "userName": "armando oliva",
-        "userImage": "https://lh3.googleusercontent.com/-hfMfzGZaOdw/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJPISv6_H-1iLymU4Yn4DmcUS8I04A/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-hfMfzGZaOdw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucneIngbLnqCMWG65epNcl1Xh7jZiw/photo.jpg",
         "content": "Crec que por ajudar molt a controlar la propagaci\u00f3 de la infecci\u00f3",
         "score": 5,
         "thumbsUpCount": 0,
@@ -2828,7 +2905,7 @@
     },
     {
         "userName": "Miguel Espa\u00f1a",
-        "userImage": "https://lh3.googleusercontent.com/-QxfC5Q16iBY/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJM3zlL5jT2k96oVjKhcvW3b-VY7UQ/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-QxfC5Q16iBY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm7KyUkqd3N6hBBLuHyTPndO9G25g/photo.jpg",
         "content": "Sencilla y did\u00e1ctica",
         "score": 4,
         "thumbsUpCount": 1,
@@ -2861,7 +2938,7 @@
     },
     {
         "userName": "Jordi Aguila Jaquel",
-        "userImage": "https://lh3.googleusercontent.com/-92cG71aIl_s/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJP_85mhfBPvEbu_lyHiNxJY-fuIbQ/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-92cG71aIl_s/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnexSamk19tFAMkxG2VQl2VhBwGdA/photo.jpg",
         "content": "Bona, tot el que sigui x controlar la pandemia,",
         "score": 4,
         "thumbsUpCount": 0,
@@ -2894,7 +2971,7 @@
     },
     {
         "userName": "Silvia Sp",
-        "userImage": "https://lh3.googleusercontent.com/-HpCxBRomPgw/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJPdayHsFC_NvB7U7nTWtbdNU4qJ8w/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-HpCxBRomPgw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck3n7z3_OFdC9YmJkKZZ4TUQD1P3A/photo.jpg",
         "content": "Si esta aplicaci\u00f3n es para controlar o localizar, la encuentro muy acertada. Gracias",
         "score": 5,
         "thumbsUpCount": 0,
@@ -2927,7 +3004,7 @@
     },
     {
         "userName": "pedro ramon",
-        "userImage": "https://lh3.googleusercontent.com/-tG_HRitPNJI/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJNLfUTM-VR0427hpi7mMUMiKv_Ohw/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-tG_HRitPNJI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnRd64GJmUv1iTN8uM3UVz4Ihw9bw/photo.jpg",
         "content": "Parece phishing, s\u00f3lo recoge datos",
         "score": 2,
         "thumbsUpCount": 2,
@@ -2938,7 +3015,7 @@
     },
     {
         "userName": "Rosa Maria Calaf",
-        "userImage": "https://lh3.googleusercontent.com/-9KYRMnXrcA0/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJPjXdJ-n3a-NurLL4bSU4lB1a48zQ/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-9KYRMnXrcA0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck3ofpRzIUDahZkjTM6gLps_8Xwow/photo.jpg",
         "content": "Imposible enviar. Dos d\u00edas dando error. Indignante.",
         "score": 1,
         "thumbsUpCount": 1,
@@ -2949,7 +3026,7 @@
     },
     {
         "userName": "Montserrat Salacruch reduan",
-        "userImage": "https://lh3.googleusercontent.com/-5o_-g7XAgos/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJMiKxMoUbX9UMHMofK2SQx-4xHhuQ/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-5o_-g7XAgos/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl22TkGOpd5SgGo_4NKE6m_sNmouA/photo.jpg",
         "content": "Molt util",
         "score": 5,
         "thumbsUpCount": 0,
@@ -2960,7 +3037,7 @@
     },
     {
         "userName": "Francesc Martinez Vilaseca",
-        "userImage": "https://lh3.googleusercontent.com/-SU2EOLM6CSU/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJMrCTZVSsH1DefjKjV92MBnFk3G_g/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-SU2EOLM6CSU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclUp7_lxWozw_-SwRb7chO1xkAaDA/photo.jpg",
         "content": "Ho guanyarem!!!7",
         "score": 4,
         "thumbsUpCount": 0,
@@ -2971,7 +3048,7 @@
     },
     {
         "userName": "Cristina Moyano",
-        "userImage": "https://lh3.googleusercontent.com/-MpHADPp4A_U/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJME-nrs9BeE7fNaHoKbFIfILgYhdw/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-MpHADPp4A_U/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnkiYVnfOPTsFDHqSao_lLeWfy-9Q/photo.jpg",
         "content": "La opci\u00f3 de febre hauria d'estar en intervals. Per exemple de 37 a 38, de 38 a 39 etc. Si tinc 37'2 haig de posar 37 o 38?",
         "score": 2,
         "thumbsUpCount": 0,
@@ -2993,7 +3070,7 @@
     },
     {
         "userName": "Marisa Ruiz",
-        "userImage": "https://lh3.googleusercontent.com/-Ipc7sxIzCac/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJOBnzfcjdwJDYDhzhsv19HbvFnmEA/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-Ipc7sxIzCac/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckyPhDNbYxdA4lWQPs5taBfbotP4g/photo.jpg",
         "content": "Muy f\u00e1cil. Al principio he puesto el CIP con las separaciones pertinentes, pero no funcionaba, hay que ponerlo todo seguido. Me parece estupendo poder colaborar para que se pueda tener un mapa en relaci\u00f3n a est\u00e1 epidemia que tenemos actualmente.",
         "score": 5,
         "thumbsUpCount": 35,
@@ -3004,7 +3081,7 @@
     },
     {
         "userName": "Antonio Morillas",
-        "userImage": "https://lh3.googleusercontent.com/-GQBavG1rvCE/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJNRXX65tPW7id9kpbn8dBYBHnfm3Q/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-GQBavG1rvCE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucndtRYk3vx9GZxM7BgUv13OJb_IpA/photo.jpg",
         "content": "La pregunta sobre l'ofec t\u00e9 l'ordre incorrecte. Els petits esfor\u00e7os haurien d'anar m\u00e9s a la dreta.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -3015,7 +3092,7 @@
     },
     {
         "userName": "Jose Luis Fontaneda",
-        "userImage": "https://lh3.googleusercontent.com/-KLfRxUKTyNM/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJOo_vYLrA2mIZ0NGz_VcIS003Kp8g/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-KLfRxUKTyNM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnw2L7gvL9alEWGO1DjTSLtc86-AA/photo.jpg",
         "content": "Per el moment molt bona",
         "score": 5,
         "thumbsUpCount": 0,
@@ -3026,7 +3103,7 @@
     },
     {
         "userName": "Laura Mu\u00f1oz",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgxlV3l2EslCQyFi4__ksof9LOz62Ftteacfyq7bA",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiehDRJ1sbPBmHKW8zqe3iPain9SKm56dfSye5FsA",
         "content": "Esperaba un mapeado",
         "score": 2,
         "thumbsUpCount": 1,
@@ -3037,7 +3114,7 @@
     },
     {
         "userName": "Ester Alcantara",
-        "userImage": "https://lh3.googleusercontent.com/-qv0wY0UApGo/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJOV7ywdG3mCW2B5xRG2eSwYHD1udw/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-qv0wY0UApGo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclkcWO-lZUnJmfoWsp5q9hLtgS0-w/photo.jpg",
         "content": "Me despierto con taquicardia, ahora no toso tanto, me duele despu\u00e9s de cenar la boca del est\u00f3mago, y he tenido diarrea, trabajo en hospital, bellvitge, nadie me ha mirado, dos d\u00edas de baja, me han dicho y atendida por tel\u00e9fono del cap, estoy preocupada, vive conmigo mi hija y nieta, de 21 mes, ella tb trabaja para los hospitales, vivimos las tres solas, llame al 061, y no cogen el tel\u00e9fono, el lunes vuelvo al trabajo, y tenemos la planta habilitada para los cr\u00edticos, la planta tres de quirofanos",
         "score": 2,
         "thumbsUpCount": 1,
@@ -3048,7 +3125,7 @@
     },
     {
         "userName": "BELEN",
-        "userImage": "https://lh3.googleusercontent.com/-1dUBhFao2Kw/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJMjDNPdbxV4c4C0SaIqwwmp7WSpXg/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-1dUBhFao2Kw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclCkjG03lCehhmlRleoqdptNzFang/photo.jpg",
         "content": "Decepcionada, en el meu cas jo he passat en una setmana per tots, tos, dificiltat respiratoria, febre, dolors d' esquena molt intensos....a mes malt de cap i ara n\u00e1useas....pero aqu\u00ed si ara no tens febre res i si ets un positiu? com ho saben ells i nosaltres, en fi...",
         "score": 1,
         "thumbsUpCount": 3,
@@ -3059,7 +3136,7 @@
     },
     {
         "userName": "maria rosa carrasco catarineu",
-        "userImage": "https://lh3.googleusercontent.com/-QXHNyS4TPxA/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJN5LwU_9rCkQIo-zAuyn9TC8-wXrQ/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-QXHNyS4TPxA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucltOSlKtwgC2tLlr6gdc8Io1VnBEA/photo.jpg",
         "content": "Gr\u00e0cies!!",
         "score": 5,
         "thumbsUpCount": 0,
@@ -3114,7 +3191,7 @@
     },
     {
         "userName": "persona com\u00fan",
-        "userImage": "https://lh3.googleusercontent.com/--a9LrDoMfyE/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJO7W748T22hovNSw_1lHqvm3y98IQ/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/--a9LrDoMfyE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl3JODg6SRyofXaZ3GKx5Wt3DlXyQ/photo.jpg",
         "content": "\u00datil, nos hace sentir acompa\u00f1ados. La \u00fanica pega es que no guarda \u00e9l n\u00famero de tarjeta sanitaria y hay que ponerla cada vez que entras.",
         "score": 4,
         "thumbsUpCount": 1,
@@ -3125,7 +3202,7 @@
     },
     {
         "userName": "Ana Alfonzo",
-        "userImage": "https://lh3.googleusercontent.com/-cQvddaphrv4/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJP5oGYXxXzP9HpE1Trl95jwycx5oA/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-cQvddaphrv4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmQ4n09ZEx9ArgubauqYfitM5jShQ/photo.jpg",
         "content": "F\u00e1cil de usar, me gusta que la app se pueda utilizar para varios usuarios y no tengamos que descargarla en cada m\u00f3vil \ud83d\udc4d",
         "score": 5,
         "thumbsUpCount": 1,
@@ -3147,7 +3224,7 @@
     },
     {
         "userName": "M.A. Izquierdo",
-        "userImage": "https://lh3.googleusercontent.com/-i2j_BZfznYo/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJNgMmQxMerQBzmO89cscaBGrnetXQ/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-i2j_BZfznYo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm6Dzbvodgn-7kDrj5cvs4fhPAtIw/photo.jpg",
         "content": "Muy buena iniciativa. Gracias.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -3180,7 +3257,7 @@
     },
     {
         "userName": "Esther Mibars",
-        "userImage": "https://lh3.googleusercontent.com/-cGHKiCisynk/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJPoc5ZdQwdr293XGH5h_b0U2M3V3A/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-cGHKiCisynk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl9AgsQGRf3VdXt151xcM4VfEFenA/photo.jpg",
         "content": "M\u00e9dico jubilada, pero trabajando en privada. Hija de amiga de 27 a\u00f1os contacto + +. Fiebre alta y RX sospechosa pero anal\u00edtica normal. Llamo a 061, 112, y a todos los n\u00fameros que me indican sin obtener respuesta ni la m\u00e1s m\u00ednima orientaci\u00f3n. Tremenda sensaci\u00f3n de abandono. El caso sigue sin diagn\u00f3stico definitivo y en confinamiento domiciliario. Ninguna ayuda de ning\u00fan organismo.",
         "score": 1,
         "thumbsUpCount": 13,
@@ -3191,7 +3268,7 @@
     },
     {
         "userName": "Montserrat Formenti",
-        "userImage": "https://lh3.googleusercontent.com/-NUFebcCeDcI/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJMFaUPdAohXF91Vfc0kwfVz7Zh0eg/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-NUFebcCeDcI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl5dvpsoBcyIrns9GOkpivfTM2aaw/photo.jpg",
         "content": "no es por accedir no amb deixa no amb n tarjeta no DNI",
         "score": 1,
         "thumbsUpCount": 1,
@@ -3224,7 +3301,7 @@
     },
     {
         "userName": "Roger Sarrate",
-        "userImage": "https://lh3.googleusercontent.com/-CH_XIPNGiIc/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJNxWJN4zPm3n_C6mkcEIwkHggvqjw/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-CH_XIPNGiIc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmgqCzDS9CYStnNZM1vaYI5NfUT5Q/photo.jpg",
         "content": "Muy elemental, pero aceptable. Esperaba nos pregunt\u00e1sen por nuestros factores de riesgo.",
         "score": 3,
         "thumbsUpCount": 1,
@@ -3268,7 +3345,7 @@
     },
     {
         "userName": "BERNARDO APARICIO YUSTE",
-        "userImage": "https://lh3.googleusercontent.com/-gjkq9fY_UKk/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJMoKvDC9a8yUQQFC6zeVIDjxhG2qQ/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-gjkq9fY_UKk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl7bZQXy1Jvn5ETfa398BuUOq7BMA/photo.jpg",
         "content": "Muy r\u00e1pida",
         "score": 5,
         "thumbsUpCount": 0,
@@ -3279,7 +3356,7 @@
     },
     {
         "userName": "Angela Fernandez",
-        "userImage": "https://lh3.googleusercontent.com/--N_4JYX8BZg/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJON6YUBOUHBVO5LTQ_V5V6Hi4E3aw/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/--N_4JYX8BZg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmffCUN6H6I7OGD7TedeOQu3-nt6g/photo.jpg",
         "content": "No me deja entrar",
         "score": 1,
         "thumbsUpCount": 2,
@@ -3290,7 +3367,7 @@
     },
     {
         "userName": "Lluis Molina",
-        "userImage": "https://lh3.googleusercontent.com/-MDDxVwl4ABc/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJP6wGOMQvXGfQuIAT1rUMHQzRiAQQ/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-MDDxVwl4ABc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmTzvEV2fquy6pEPfW2Z0Gl2Ale8Q/photo.jpg",
         "content": "Dona error de conexi\u00f3 tot el temps. Amb el DNi es pot fer el test, per\u00f2 no finalitza . Amb el n\u00famero de la targeta (perfectament introdu\u00eft), res de res.",
         "score": 1,
         "thumbsUpCount": 3,
@@ -3301,7 +3378,7 @@
     },
     {
         "userName": "Montserrat Casasin Hortes",
-        "userImage": "https://lh3.googleusercontent.com/-ChuNys4bY2c/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJNkFA3kKDhCE8t4z_6vVSkTQGMT2Q/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-ChuNys4bY2c/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclJNFGmsc3bMNcilkyywGldjmhqwg/photo.jpg",
         "content": "No consegueixo entrar",
         "score": 1,
         "thumbsUpCount": 1,
@@ -3323,7 +3400,7 @@
     },
     {
         "userName": "Gerard Castilla Curulla",
-        "userImage": "https://lh3.googleusercontent.com/-3aUf3f1xrS4/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJNLpnDwNEbhBxABOs-fdFrsuF64qw/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-3aUf3f1xrS4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckGIVAKihevf3Bx1ISsDTDJd7dhWA/photo.jpg",
         "content": "Creo que deber\u00edan de poner un mapa con los puntos calientes para poder tener m\u00e1s precauci\u00f3n",
         "score": 2,
         "thumbsUpCount": 1,
@@ -3356,7 +3433,7 @@
     },
     {
         "userName": "Sonia DE LA ROSA",
-        "userImage": "https://lh3.googleusercontent.com/-x8knNgV-M9U/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJM9RKntIuJ9kyalpjTX9r9UZRDTvg/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-x8knNgV-M9U/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmal6dp9IY1Pb-orNhJvWwYly9_qA/photo.jpg",
         "content": "Cuando le doy a finalizar al test me sale un mensaje de que hay un error de conexi\u00f3n, que lo intente m\u00e1s tarde... Y ese \"m\u00e1s tarde\" no se cu\u00e1ndo debe ser porque llevo un buen rato intent\u00e1ndolo",
         "score": 1,
         "thumbsUpCount": 6,
@@ -3367,7 +3444,7 @@
     },
     {
         "userName": "Jaume",
-        "userImage": "https://lh3.googleusercontent.com/-wFP8cXncmMc/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJMmRU8riwWHRfXPo0wuzR4SJkhQrA/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-wFP8cXncmMc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckJtQ7qLMFBwCp8NjofEsY5JdCQ1A/photo.jpg",
         "content": "Tothom a casa!",
         "score": 5,
         "thumbsUpCount": 0,
@@ -3411,7 +3488,7 @@
     },
     {
         "userName": "Albert P",
-        "userImage": "https://lh3.googleusercontent.com/-tYvc4NrlkfM/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJMACcaLGOFwwpBY3sVcv7jX8KrkkA/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-tYvc4NrlkfM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnb7BIukF4VTMNkQXSfmyOWLDjhlQ/photo.jpg",
         "content": "Al finalizar el test da error de conexi\u00f3n",
         "score": 1,
         "thumbsUpCount": 1,
@@ -3422,7 +3499,7 @@
     },
     {
         "userName": "paqui Sanz Labios",
-        "userImage": "https://lh3.googleusercontent.com/-7PjCQeoZip4/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJP2TAIaETsRiVUdERr4wneUK52cTg/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-7PjCQeoZip4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclKp5d-ivqmmh2KQo8JhhPgA4S_8g/photo.jpg",
         "content": "Hago el test me encuentro mal los dolores van a m\u00e1s y sobre todo los del lado derecho y no s\u00e9 qu\u00e9 hacer.puedo ir al cap",
         "score": 1,
         "thumbsUpCount": 2,
@@ -3433,7 +3510,7 @@
     },
     {
         "userName": "Raul Torres",
-        "userImage": "https://lh3.googleusercontent.com/-jzNZs0uLYO0/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJO7AvZKDT0L5muCjcfGsV8CnZZY9w/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-jzNZs0uLYO0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnutNcF851NnN4bC_vixW2ZVYkYXQ/photo.jpg",
         "content": "Ahora mismo, vital. Bravo.",
         "score": 5,
         "thumbsUpCount": 1,
@@ -3455,7 +3532,7 @@
     },
     {
         "userName": "Carme Sanfeliu",
-        "userImage": "https://lh3.googleusercontent.com/-DD7E2GVet4g/AAAAAAAAAAI/AAAAAAAAHq8/AAKWJJPVHpsblodDZZqjcEveN-d1czWwJg/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-DD7E2GVet4g/AAAAAAAAAAI/AAAAAAAAHq8/AMZuuclCyTPg7K2fgiKQ3MF124FEzMIrLw/photo.jpg",
         "content": "La idea \u00e9s bona, per\u00f2 jo no la puc obrir, sempre em surt error de connexions. Que puc fer?",
         "score": 1,
         "thumbsUpCount": 0,
@@ -3466,7 +3543,7 @@
     },
     {
         "userName": "Claudia Cas",
-        "userImage": "https://lh3.googleusercontent.com/-FUNQv-g1JzQ/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJNBgmkHDPNrsXE8ndWLrevFUKRkBw/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-FUNQv-g1JzQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnZXk5S-mj59R06IpWvjE2WBRzqGQ/photo.jpg",
         "content": "Dif\u00edcil acceso",
         "score": 1,
         "thumbsUpCount": 0,
@@ -3488,7 +3565,7 @@
     },
     {
         "userName": "pau miguel ba\u00f1os",
-        "userImage": "https://lh3.googleusercontent.com/-b_tbDa3DiZg/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJMX6or70OngvUVimkx2AsmipIzJlg/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-b_tbDa3DiZg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckUalHKIcdp_JSh5jdTdv_zUaT5zQ/photo.jpg",
         "content": "Continuamente me env\u00eda el mensaje \"sin conexi\u00f3n\" es un desastre .",
         "score": 1,
         "thumbsUpCount": 2,
@@ -3499,7 +3576,7 @@
     },
     {
         "userName": "gerard tubau arjona",
-        "userImage": "https://lh3.googleusercontent.com/-fMCc53eN75w/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJPQljxb55phzL1Vk_EIwPB8vwBpKA/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-fMCc53eN75w/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmOiEaeI1k-k0CMMJ-Eba6MdbmXIw/photo.jpg",
         "content": "Good",
         "score": 5,
         "thumbsUpCount": 0,
@@ -3510,7 +3587,7 @@
     },
     {
         "userName": "jonatan guirao",
-        "userImage": "https://lh3.googleusercontent.com/-avJE6IlvtJE/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJPzSfy54Fht7hTRbaJBvv-EHGHVGw/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-avJE6IlvtJE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckcJ_K4wjcZ7_2bsQscpDT5u1Vu6Q/photo.jpg",
         "content": "No me deja acceder ni con n\u00famero de seguridad social ni DNI ni nada",
         "score": 1,
         "thumbsUpCount": 3,
@@ -3532,7 +3609,7 @@
     },
     {
         "userName": "oscar douton",
-        "userImage": "https://lh3.googleusercontent.com/-0ffR1CUf5-U/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJPDSI3aoSkueXjVthXmg5gruz-qTA/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-0ffR1CUf5-U/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucltOegkvm3qtjoM8y5d520U8hQtPw/photo.jpg",
         "content": "He intentado entrar poniendo el cip pero no funciona, se queda pensando y no entra al test, he probado en castellano y catal\u00e1n por si acaso. Espero que lo solucionen pronto, no esta el horno para bollos",
         "score": 1,
         "thumbsUpCount": 10,
@@ -3543,7 +3620,7 @@
     },
     {
         "userName": "Alejandro ogando",
-        "userImage": "https://lh3.googleusercontent.com/-MR9dr2WxWxs/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJOOprZ4mDbj2bzx8LmytPjdsu2H1w/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-MR9dr2WxWxs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckDJ_GI8enkXNKlArkatiFG8J-Dvg/photo.jpg",
         "content": "No puedes consultar estad\u00edsticas y tampoco guarda datos introducidos. Simplemente es para comunicar los s\u00edntomas a catsalud y que ellos hagan sus estad\u00edsticas, no son compartidas en la app.",
         "score": 1,
         "thumbsUpCount": 13,
@@ -3554,7 +3631,7 @@
     },
     {
         "userName": "Iv\u00e1n L",
-        "userImage": "https://lh3.googleusercontent.com/-QIw6C2Dgin8/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJMOUHMY-pZ2acZzpCvejfNy_i974g/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-QIw6C2Dgin8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclNEjkP3cN5NAbVJEsYGN4X53O2RA/photo.jpg",
         "content": "Esperava que hi sort\u00eds un mapa amb les zones on extremar les precaucions.",
         "score": 3,
         "thumbsUpCount": 1,
@@ -3565,7 +3642,7 @@
     },
     {
         "userName": "jo mateix",
-        "userImage": "https://lh3.googleusercontent.com/-DJE2T2pfKnk/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJNU2tUGwfLlf7dS13qfaVQD63pTlg/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-DJE2T2pfKnk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucldIln01Fmr78SBUpG1JfHHyeVy9A/photo.jpg",
         "content": "Be",
         "score": 5,
         "thumbsUpCount": 0,
@@ -3598,7 +3675,7 @@
     },
     {
         "userName": "Rosa Rios Dur\u00e0",
-        "userImage": "https://lh3.googleusercontent.com/-gbIGY62RMxY/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJNZpK-qpVzeSrK9ZouA9rKtmGSMYw/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-gbIGY62RMxY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck9Al8AKEJhoes49iGj4_2W1D8sRQ/photo.jpg",
         "content": "Me identifico con el CIP o con el DNI y ni caso. No hace nada en absoluto",
         "score": 1,
         "thumbsUpCount": 5,
@@ -3620,7 +3697,7 @@
     },
     {
         "userName": "Isabel Velazquez Pi\u00f1on",
-        "userImage": "https://lh3.googleusercontent.com/--ZvwkuLqOfE/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJNi88qzf-ZMf25cyaKgHk3FebBTQQ/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/--ZvwkuLqOfE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucke2hjdChucBudtuR0Wm__Cc7RObw/photo.jpg",
         "content": "Genial gr\u00e0cies!!!",
         "score": 5,
         "thumbsUpCount": 0,
@@ -3686,7 +3763,7 @@
     },
     {
         "userName": "Manuel Garrido",
-        "userImage": "https://lh3.googleusercontent.com/-tDAHNP7N0CA/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJO_zWMZmBmSj8I4ttMNsq8Kz3TxXQ/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-tDAHNP7N0CA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmIB2IGaNFT0lfvC0N-kGskNym16g/photo.jpg",
         "content": "Vaya bodrio de APP.",
         "score": 1,
         "thumbsUpCount": 3,
@@ -3774,7 +3851,7 @@
     },
     {
         "userName": "Annabel Trinidad",
-        "userImage": "https://lh3.googleusercontent.com/-XkFfftZgYts/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJMpQ-ChwDRx4IRs9GjHx3cwM5Nqbg/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-XkFfftZgYts/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm934DjZ44R3CYLpIa9JgFucACyPQ/photo.jpg",
         "content": "Genial",
         "score": 5,
         "thumbsUpCount": 0,
@@ -3785,7 +3862,7 @@
     },
     {
         "userName": "juan carlos fidalgo igartua",
-        "userImage": "https://lh3.googleusercontent.com/-RaCk49L1yzM/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJO8aqkQ4BZrSelZPUXJESrSG_v7Ew/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-RaCk49L1yzM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmqxs0N5FqRr9vCbYzSdg7PGAfwGw/photo.jpg",
         "content": "Bueno. Es muy simple. No guarda los datos. Lo que me sorprende es que en android no este disponible para todas las versiones del s.o. Tengo un movil de hace 6 a\u00f1os que va de pel\u00edcula con la versi\u00f3n 5.0 y no me deja instalarlo. Nos obligan a cambiar de movil?",
         "score": 3,
         "thumbsUpCount": 120,
@@ -3796,7 +3873,7 @@
     },
     {
         "userName": "Carmen Carmona",
-        "userImage": "https://lh3.googleusercontent.com/-a7l-Z6Z62FY/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJNcNF11bzSobfJE9CJxmvzzPeLyUA/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-a7l-Z6Z62FY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl60luzmqnMDi2dE7o2GjVF3kV3kA/photo.jpg",
         "content": "No me deja abrirla ni con el carnet de identidad ni con el n\u00famero de la seguridad social",
         "score": 1,
         "thumbsUpCount": 1,
@@ -3829,7 +3906,7 @@
     },
     {
         "userName": "Mohammadi El Youzghi",
-        "userImage": "https://lh3.googleusercontent.com/-zeIV85Uf7a4/AAAAAAAAAAI/AAAAAAAAOFE/AAKWJJM7c2-j2hk0oTp-6pbuyctgFXHUAQ/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-zeIV85Uf7a4/AAAAAAAAAAI/AAAAAAAAOFE/AMZuuck_xJaMKrhbqhVA3OQfhaY_UdaUHw/photo.jpg",
         "content": "Bon dia, Per qu\u00e8 no est\u00e0 disponible en \u00c0rab? Est\u00e0 en catal\u00e0, castell\u00e0, angl\u00e8s, franc\u00e8s i xin\u00e8s. Segons l'IEC, la poblaci\u00f3 d'origen xin\u00e9s a Catalunya suposa un 5,36% dels estrangers i nom\u00e9s del Marroc (sense comptar la resta de pa\u00efsos \u00e0rabs) hi ha un 19.29%.",
         "score": 1,
         "thumbsUpCount": 5,
@@ -3840,7 +3917,7 @@
     },
     {
         "userName": "Maria Cinta Alarcon Sastre",
-        "userImage": "https://lh3.googleusercontent.com/-MdNQys8OZ6U/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJOyTSrssl_hDPeDxsDIaJOj1OPwKQ/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-MdNQys8OZ6U/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckDGnPVL4ixFN4Odc-FE13YwjCKYw/photo.jpg",
         "content": "Est\u00e0 b\u00e9. Per\u00f2 voldria saber si aix\u00f2 de posar cada vegada el num de la tarjeta serveis tamb\u00e9 per consultar en la mateixa app varies persones. Si es aix\u00ed molt b\u00e9 perqu\u00e8 no tothom t\u00e9 movil. Per av\u00eds o o nens o alg\u00fa que encara no t\u00e9 l'aplicaci\u00f3 tamb\u00e9 ho pots consultar. I si veuen que els s\u00edmptomes s\u00f3n clars si poden donar-te informaci\u00f3. I que no t\u00e9 derivin al 061 perqu\u00e8 fa dies que com diuen quan truqu\u00e9s...est\u00e0 saturat.",
         "score": 3,
         "thumbsUpCount": 33,
@@ -3862,7 +3939,7 @@
     },
     {
         "userName": "Elsa Bort Foz",
-        "userImage": "https://lh3.googleusercontent.com/-w-REQVQ9uOs/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJOjvAcRCIpUm1Hgbyv_Cohd5KI_IQ/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-w-REQVQ9uOs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclIoQis_uvIALC2MnlgK6NBgldm3g/photo.jpg",
         "content": "R\u00e0pida i senzilla",
         "score": 5,
         "thumbsUpCount": 0,
@@ -3895,7 +3972,7 @@
     },
     {
         "userName": "Nadala Copons",
-        "userImage": "https://lh3.googleusercontent.com/-vL8Am0v01MA/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJOkAn02x-8N31lRc8F18hS2vKGY5A/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-vL8Am0v01MA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclg5rfohTu99O8EnVD4-890JczFBA/photo.jpg",
         "content": "Exelent i molt necess\u00e0ria.",
         "score": 4,
         "thumbsUpCount": 0,
@@ -3906,7 +3983,7 @@
     },
     {
         "userName": "Desiree Rambla Navarro",
-        "userImage": "https://lh3.googleusercontent.com/-beKNKURW-A8/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJM9ZFQxVuZH33UjdTEXK0K0-_o_AA/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-beKNKURW-A8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn6hYTz9zqjnRhDaI4zywmtoDjOVQ/photo.jpg",
         "content": "es molt bona idea, crec que ahuria de preguntar si tens fills petits i si tene sintomes",
         "score": 5,
         "thumbsUpCount": 0,
@@ -3917,7 +3994,7 @@
     },
     {
         "userName": "R E.",
-        "userImage": "https://lh3.googleusercontent.com/-dmiflnqCQv8/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJN_CKlms2bncx8hY-7fvhAVnZXk0w/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-dmiflnqCQv8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucltPh1xf8bJoqgpdQ1WF-cfYEvC1A/photo.jpg",
         "content": "Todo lo que sirva para ayudar es bienvenido!",
         "score": 5,
         "thumbsUpCount": 0,
@@ -3961,7 +4038,7 @@
     },
     {
         "userName": "Mario Maricalva",
-        "userImage": "https://lh3.googleusercontent.com/-95GiECpJzvY/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJMHalcQK4GppZrcWfD_BslzZbn9ig/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-95GiECpJzvY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnakfZvaB-mAiXLF1-9KsvrC3yoaw/photo.jpg",
         "content": "Poc \u00fatil",
         "score": 1,
         "thumbsUpCount": 1,
@@ -3972,7 +4049,7 @@
     },
     {
         "userName": "Ton Glor",
-        "userImage": "https://lh3.googleusercontent.com/-y08NV4InltI/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJPNVu96ZjBGSdXwqGsp3RcjDTklbw/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-y08NV4InltI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnagoGqjM_wGrfS3gWB440rEjpWIw/photo.jpg",
         "content": "No funciona.da error de conexion",
         "score": 1,
         "thumbsUpCount": 2,
@@ -3994,7 +4071,7 @@
     },
     {
         "userName": "dolors rubau lisara",
-        "userImage": "https://lh3.googleusercontent.com/-Ti4ql_tqvCQ/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJPTK6bqlL9iOLafTQ1oufO-VxRv5A/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-Ti4ql_tqvCQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmLkauTnBhY8UQJg2e6HCdVMtKsIg/photo.jpg",
         "content": "Vaig comen\u00e7ar amb un refredat normal,estava de creuer als Emirats \u00c0rabs,ja no tinc mocusitat,per\u00f2 la febre va a m\u00e9s,malgrat el parecetamol,molt xafada em sento",
         "score": 3,
         "thumbsUpCount": 3,
@@ -4016,7 +4093,7 @@
     },
     {
         "userName": "F\u00e9lix P\u00e9rez",
-        "userImage": "https://lh3.googleusercontent.com/-JhDtJnEq_1w/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJPA7lOATN7ebv1ts9ZI7IPDSFuFJQ/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-JhDtJnEq_1w/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck8LjJHqlTysKZIeSDHizMlZAxo2g/photo.jpg",
         "content": "Muy buena .despeja dudas",
         "score": 5,
         "thumbsUpCount": 1,
@@ -4071,7 +4148,7 @@
     },
     {
         "userName": "Juan Carlos Gutierrez Bellido",
-        "userImage": "https://lh3.googleusercontent.com/-hdcMt7eZuBs/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJO1YHvfHGFG3u8EGjOxGgSAuvwKvQ/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-hdcMt7eZuBs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucncMXxhW8B-SUJnc3tIZjt0z28VDw/photo.jpg",
         "content": "Es un q\u00fcestionari sencill lligat a la teva targeta sanit\u00e0ria dels s\u00edmptomes i que serveix per descarregar de feina el 061. Simple cuestionario sobre los s\u00edntomas, pero una gran descarga de trabajo para el 061.",
         "score": 5,
         "thumbsUpCount": 5,
@@ -4126,7 +4203,7 @@
     },
     {
         "userName": "Cristina Gamundi",
-        "userImage": "https://lh3.googleusercontent.com/-dzyMB_bj1iw/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJMIaVwMEN4T7x9poH5sV99NTX2V9Q/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-dzyMB_bj1iw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclHdNtIMCd2cpfPa9rGCsxy4DYqLg/photo.jpg",
         "content": "Ser\u00e0 una molt bona app, potser milloraria els rangs de temperatura, si no tens febre i tens 36,5\u00ba no ho pots indicar potser s'hauria d'haber pogut posar la dada de temperatur real en comptes d'uns elegibles",
         "score": 5,
         "thumbsUpCount": 11,
@@ -4137,7 +4214,7 @@
     },
     {
         "userName": "Xavi link",
-        "userImage": "https://lh3.googleusercontent.com/-IsFAgwC1IBE/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJOhQXNMx4xuuxYBYix5aJA3Jx_PCw/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-IsFAgwC1IBE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckgxLlAUyeF4fCClX3PtD0jwHJTjw/photo.jpg",
         "content": "No funciona en mi Android. El ID no lo reconoce ni el DNI tampoco. Vaya chapuza.",
         "score": 1,
         "thumbsUpCount": 9,
@@ -4170,7 +4247,7 @@
     },
     {
         "userName": "jose luis Ibarro",
-        "userImage": "https://lh3.googleusercontent.com/-MHB7HgpUnDI/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJMomKqzEcdmS9yPB1QEm7xETvrudw/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-MHB7HgpUnDI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclpAX-yvIQhhvs68nVyNmXBxesMRw/photo.jpg",
         "content": "Lo he probado y todo perfecto, cuando pong\u00e1is la identidad hacerlo sin separaciones.",
         "score": 5,
         "thumbsUpCount": 2,
@@ -4214,7 +4291,7 @@
     },
     {
         "userName": "Jose Calatayud Molero",
-        "userImage": "https://lh3.googleusercontent.com/--05ToMyv7xY/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJNpGmb2bAb7vjZ4QaihEPWmx8Gjjw/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/--05ToMyv7xY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucljoTaZ1ea5NkPV3zhTggWXACeswA/photo.jpg",
         "content": "Gracies! Per\u00f2 obligueu d'una vegada a tancar les empreses! No t\u00e9 cap sentit el confinament si despr\u00e9s anem a treballar com si res...",
         "score": 5,
         "thumbsUpCount": 11,
@@ -4247,7 +4324,7 @@
     },
     {
         "userName": "FANTASMEO PUNK",
-        "userImage": "https://lh3.googleusercontent.com/-FGdlnubbw9w/AAAAAAAAAAI/AAAAAAAAAmo/AAKWJJPrFfr6E0h0WNai8gQMP0N2a9FZCQ/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-FGdlnubbw9w/AAAAAAAAAAI/AAAAAAAAAmo/AMZuucme9RptLpy0Pj6A7LuCWCRXfWTQew/photo.jpg",
         "content": "No consigo abrirla, ni me deja poner mi m\u00fanero de la tarjeta sanitaria o del DNI. CORONAVIRUS... ARDE EN EL INFIERNO! Punk not Dead!",
         "score": 1,
         "thumbsUpCount": 45,
@@ -4269,7 +4346,7 @@
     },
     {
         "userName": "Andreu Purroy Montull",
-        "userImage": "https://lh3.googleusercontent.com/-3YQAvWtYVnc/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJPgkrllrBBrdizx029WPznu8fKGMw/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-3YQAvWtYVnc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclaAjWziaRTF3Ic_1H-W5JKIGxSdg/photo.jpg",
         "content": "Perque tinc de posar el meu numero de la seguretat social? No tindrie que ser anonim?",
         "score": 1,
         "thumbsUpCount": 2,
@@ -4291,7 +4368,7 @@
     },
     {
         "userName": "Alex",
-        "userImage": "https://lh3.googleusercontent.com/-lhjFErVf71A/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJN7Q_x3E5zO5JktnrL9UL0bpoBWnw/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-lhjFErVf71A/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmZ7vM4znsFG3Ylz_8871lA3AQfiA/photo.jpg",
         "content": "Catalufi catalufo",
         "score": 1,
         "thumbsUpCount": 1,
@@ -4302,7 +4379,7 @@
     },
     {
         "userName": "Jordi Ari\u00f1o",
-        "userImage": "https://lh3.googleusercontent.com/-Yya2QTo-DVE/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJNne31olAQ9zPBToG-FYJYaSK7Z2g/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-Yya2QTo-DVE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl-BBrT5asinjTLMX7uKYf4fCbY0g/photo.jpg",
         "content": "\ud83d\udc4d",
         "score": 5,
         "thumbsUpCount": 1,
@@ -4324,7 +4401,7 @@
     },
     {
         "userName": "Robert Borrell",
-        "userImage": "https://lh3.googleusercontent.com/-SyFzKpxB64I/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJP9rIDskmwqq3AhyCvp3J_p9gfX1g/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-SyFzKpxB64I/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck36AvczoH0ovNYWt6n2uSCV_d-3A/photo.jpg",
         "content": "Gr\u00e0cies als desarrolladors, tot el que sigui agilitzar tr\u00e0mits \u00e9s benvingut. Estaria b\u00e8 que hi hagu\u00e8s la opci\u00f3 de guardar els numeros CIP introdu\u00efts.",
         "score": 5,
         "thumbsUpCount": 16,
@@ -4357,7 +4434,7 @@
     },
     {
         "userName": "Ana Exp\u00f3sito",
-        "userImage": "https://lh3.googleusercontent.com/-zE2SimEYhkk/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJOIEA5d5Ac5_U9E1E7jsL7q1_fnpQ/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-zE2SimEYhkk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclszUmqrkWEcacaIzdLlihkIp4HBw/photo.jpg",
         "content": "Me da que esta aplicaci\u00f3n es para hacer estad\u00edsticas y para que sirva de test del conoravirus sin hacer la prueba",
         "score": 1,
         "thumbsUpCount": 18,
@@ -4368,7 +4445,7 @@
     },
     {
         "userName": "Gonzalo Santiago Borb\u00f3n",
-        "userImage": "https://lh3.googleusercontent.com/-7fFb_CE-Yzg/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJNlZd0Q5eHu1GqOSyDj8ikRM2sYsQ/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-7fFb_CE-Yzg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnW_jFbdXI3gRmgLd4uei67H0risw/photo.jpg",
         "content": "No se como funciona realmente, pero vaya, me parece una buena idea.",
         "score": 4,
         "thumbsUpCount": 1,
@@ -4547,7 +4624,7 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjaZNR2sdkZ33vbEbB42aaJWo2bRxgtbACvWtZRPA",
         "content": "No me gusta. Cada vez que inicias la aplicaci\u00f3n tienes que poner el CIP (C\u00f3digo de Identificaci\u00f3n Personal), no lo recuerda. No se puede saber por un mapa la incidencia del coronavirus en los alrededores, al contrario que la aplicaci\u00f3n coreana que parece mucho m\u00e1s completa. Solo sirve para transmitir si est\u00e1s enfermo dejando tu tel\u00e9fono. Supongo que la pueden mejorar pero de momento creo que es muy poco \u00fatil para la emergencia que estamos viviendo.",
         "score": 3,
-        "thumbsUpCount": 378,
+        "thumbsUpCount": 382,
         "reviewCreatedVersion": "1.0.0",
         "at": "2020-03-18 21:54:30",
         "replyContent": null,

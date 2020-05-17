@@ -124,6 +124,12 @@ The WHO Info app has been installed by more than **100000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="org.who.infoapp 5 reviews"/>
 </p>
 
+> Perfect<br> :date: __2020-05-17 03:30:37__
+
+> Akid<br> :date: __2020-05-17 03:08:26__
+
+> A timely gift from the W H O!<br> :date: __2020-05-12 14:25:39__
+
 > Covit 19<br> :date: __2020-05-10 10:57:13__
 
 > Good<br> :date: __2020-05-09 14:49:27__
@@ -137,12 +143,6 @@ The WHO Info app has been installed by more than **100000** times. At this time,
 > مقاله ی بیماری کوبید19<br> :date: __2020-05-06 15:09:54__
 
 > Hhhh<br> :date: __2020-05-06 13:10:10__
-
-> I would like to down load coronavirus tracking app<br> :date: __2020-05-05 11:31:22__
-
-> করোনা ভাইরাজ<br> :date: __2020-05-04 20:15:49__
-
-> Very good thanks bye<br> :date: __2020-05-04 19:17:17__
 
 
 
@@ -172,6 +172,8 @@ The WHO Info app has been installed by more than **100000** times. At this time,
 <img src="3_star_reviews_wordcloud.png" alt="org.who.infoapp 3 reviews"/>
 </p>
 
+> Good<br> :date: __2020-05-14 21:22:11__
+
 > Best.<br> :date: __2020-04-20 13:14:33__
 
 > Looks nice great look smooth Lario<br> :date: __2020-04-18 09:44:30__
@@ -184,6 +186,8 @@ The WHO Info app has been installed by more than **100000** times. At this time,
 <img src="2_star_reviews_wordcloud.png" alt="org.who.infoapp 2 reviews"/>
 </p>
 
+> Very little data or charts. Not consistent with Worldometer. Mostly an aggregation of news feeds about WHO<br> :date: __2020-05-15 15:38:10__
+
 > Thanks for your help.<br> :date: __2020-04-22 18:52:40__
 
 
@@ -193,6 +197,12 @@ The WHO Info app has been installed by more than **100000** times. At this time,
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="org.who.infoapp 1 reviews"/>
 </p>
+
+> I don't like this app<br> :date: __2020-05-14 07:07:35__
+
+> The world health organization are deliberately killing people with tainted vaccines all around the world health should be put away from the elite cartels that danger public health - Covid-19 is a biological Engineered Weapon of mass Destruction<br> :date: __2020-05-12 23:43:51__
+
+> THEY MADE IT 😷😷😷😷😷<br> :date: __2020-05-10 15:57:09__
 
 > None<br> :date: __2020-05-10 11:40:37__
 
@@ -207,11 +217,5 @@ The WHO Info app has been installed by more than **100000** times. At this time,
 > This app will not download. I have tried several times. The app is useless.<br> :date: __2020-05-02 13:44:43__
 
 > DND<br> :date: __2020-05-01 23:59:44__
-
-> Not what I'm looking for<br> :date: __2020-04-29 09:57:51__
-
-> Useless<br> :date: __2020-04-28 17:56:42__
-
-> My expectations for this app is to work perfectly<br> :date: __2020-04-28 09:11:44__
 
 

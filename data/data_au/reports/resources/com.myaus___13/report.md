@@ -172,6 +172,8 @@ The MyAus COVID-19 app has been installed by more than **500** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="com.myaus 5 reviews"/>
 </p>
 
+> Amazing<br> :date: __2020-05-11 22:49:05__
+
 > I I think this is a very useful app.<br> :date: __2020-04-28 10:47:19__
 
 > Great app! Very easy to navigate and loads of relevant info.<br> :date: __2020-04-26 12:57:58__
@@ -183,6 +185,8 @@ The MyAus COVID-19 app has been installed by more than **500** times. At this ti
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.myaus 4 reviews"/>
 </p>
+
+> Only app out there for Australians with so many languages.<br> :date: __2020-05-13 23:13:36__
 
 > It needs wifi. It collects official info but makes it easier to read and keep up with current stats. I feel really anxious and this app helped me feel calm while I was looking up what I needed to know.<br> :date: __2020-04-27 07:31:18__
 

@@ -168,6 +168,16 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 <img src="5_star_reviews_wordcloud.png" alt="gov.fema.mobile.android 5 reviews"/>
 </p>
 
+> I can call 911 if needed I hear about all emergency weather wise and other like child abduction as well<br> :date: __2020-05-16 15:42:24__
+
+> Options to customize notifications by type and locations. Useful information and links, a good app.<br> :date: __2020-05-13 02:06:20__
+
+> Be alert is the best way to live I likeWeather alerts, safety tips and more to help before, during & after disasters. Emergency alerts, safety tips and resources to help before, during & after disasters. The FEMA App provides timely alerts and useful information to help you and your loved ones stay safe before, during and after disasters. Receive and share real-time notifications about disasters, severe weather, and other emergencies for up to five locations nationwide. This simple and easy-to<br> :date: __2020-05-13 00:33:40__
+
+> Easy to navigate, and set up choices-- there are a lot-- living in the middle of Pacific, like to know asap if something hazardous is on the way to us, here in HI.<br> :date: __2020-05-13 00:02:16__
+
+> Works great for weather emergency but I don't like Amber alerts. Most of the time these are divorcing parents fighting over the children or an over reach of local and feds into family matters. I have seen the damages to family relationships caused by such over reach. Parents who's only sin is they were poor. Instead of helping the parents, they are demonized and the children removed. I want no part of the destruction of the family unit. Think heal the family!<br> :date: __2020-05-10 14:04:03__
+
 > This is a great app. Warns you about amber alerts in your area and any kind of danger.<br> :date: __2020-05-04 02:43:08__
 
 > Wonderful.<br> :date: __2020-05-01 06:13:22__
@@ -178,16 +188,6 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 
 > Update<br> :date: __2020-04-29 23:10:11__
 
-> So far, very good. Only a few of the case workers are nuts.<br> :date: __2020-04-29 16:34:12__
-
-> Very eay to file but no results for the good<br> :date: __2020-04-28 19:25:35__
-
-> Always helping people around the world and this best app<br> :date: __2020-04-22 21:47:21__
-
-> Thank you<br> :date: __2020-04-20 21:41:05__
-
-> Unsure<br> :date: __2020-04-20 07:46:27__
-
 
 
 #### 4-star reviews
@@ -195,6 +195,8 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="gov.fema.mobile.android 4 reviews"/>
 </p>
+
+> It's been very helpful<br> :date: __2020-05-13 12:07:49__
 
 > The weather alert tab is missing Indland Hurricane Warning, Inland Hurricane Watch, Inland Tropical Storm Warning, Inland Tropical Storm Watch, Hurricane Force Wind Warning, and Snow Squall Warning.<br> :date: __2020-04-28 21:42:47__
 
@@ -213,8 +215,6 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 > Pretty good app, tons of info would have given it a 5 star if it had downloadable prepping lists. It doea have check lists in the app, but no way to download<br> :date: __2020-03-14 03:01:50__
 
 > Very helpful. Easy to use.<br> :date: __2020-02-09 14:55:41__
-
-> Very helpful getting things together after a disaster is hard to do .this app helps keep it organized and leaves a easy trail to keep your affairs on the right track.<br> :date: __2020-01-03 13:20:22__
 
 
 

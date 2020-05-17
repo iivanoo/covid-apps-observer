@@ -160,6 +160,8 @@ The Sicilia Si Cura app has been installed by more than **1000** times. At this 
 <img src="4_star_reviews_wordcloud.png" alt="com.siciliasicura.app 4 reviews"/>
 </p>
 
+> app funzionale, consiglierei l'aggiunta di una notifica durate le prime ore del mattino.<br> :date: __2020-05-16 03:55:51__
+
 > Si blocca spesso e riprende a funzionare dopo aver riavviato lo smartphone, anche quando ricevo notifica per aggiornare il mio stato di salute, clicco su come stai e si blocca, bisogna sempre riavviare lo smartphone, non so se è un problema della app o del device... Grazie<br> :date: __2020-05-06 05:47:22__
 
 
@@ -186,6 +188,10 @@ The Sicilia Si Cura app has been installed by more than **1000** times. At this 
 <img src="2_star_reviews_wordcloud.png" alt="com.siciliasicura.app 2 reviews"/>
 </p>
 
+> Io devo rientrare in Sicilia e al momento della registrazione mi dice che la mia posizione non è nel territorio regionale. Ma io per rientrare in Sicilia devo per forza registrarmi? come faccio se non mi fa registrare? Non capisco, se qualcuno può rispondere grazie.<br> :date: __2020-05-12 12:12:40__
+
+> Devo tornare a casa tra qualche giorno e come indicato mi sono registrata al sito indicando il luogo di partenza e di arrivo. Ora ho scaricato l'app, ho ricevuto l'email e la password ma non riesco ad accedere perché mi chiede la geolocalizzazione. Mi spiegate cosa devo fare? Che senso ha impedire l'accesso perché sono fuori dal comune? l'ho scaricata apposta perché sono fuori e devo rientrare.<br> :date: __2020-05-11 17:56:46__
+
 > Al momento di registrarmi,mi chiede l'indirizzo in cui risiedo,mi fa attivare la geolocalizzazione per poi non farmi continuare con la registrazione in quanto mi dice che la posizione dell'utente non coincide con l'indirizzo selezionato. Aiutatemi!!!<br> :date: __2020-05-05 17:35:06__
 
 
@@ -195,6 +201,10 @@ The Sicilia Si Cura app has been installed by more than **1000** times. At this 
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="com.siciliasicura.app 1 reviews"/>
 </p>
+
+> Non mi fa completare la registrazione perché il geocalizzatore dice che non sono in Sicilia... mi sembra normale non mi sarei iscritta al censimento se no. Potete aiutarmi?<br> :date: __2020-05-15 11:55:02__
+
+> Buongiorno. ..ho istallato l'applicazione sul cellulare ma non mi fa andare oltre non riesco ad aprirla cliccandoci sopra ...forse sbaglio qualche passaggio ..e il terzo giorno ...grazie<br> :date: __2020-05-11 07:41:37__
 
 > L'app è instabile, la geolocalizzazione sballata, impossibile disinstallarla...ASSURDO!<br> :date: __2020-05-03 09:22:12__
 
@@ -211,9 +221,5 @@ The Sicilia Si Cura app has been installed by more than **1000** times. At this 
 > Bisogna spiegare meglio che non tutti possono usare la app (non permette registrarsi) In realtà può usare soltanto chi ha ricevuto login e password prima (dove e come nessuno sa).<br> :date: __2020-04-21 07:11:08__
 
 > Una gran presa x i fondelli..... Da 1 settimana aspetto le credenziali x l'accesso<br> :date: __2020-04-20 20:54:09__
-
-> Che minchiata la può scaricare solo chi riceve l'email<br> :date: __2020-04-20 19:57:53__
-
-> Fatti le pippe e meglio forse se sei capace<br> :date: __2020-04-20 09:46:36__
 
 

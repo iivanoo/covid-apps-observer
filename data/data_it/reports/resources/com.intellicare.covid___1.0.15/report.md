@@ -140,6 +140,8 @@ The LAZIOdrCovid app has been installed by more than **50000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="com.intellicare.covid 5 reviews"/>
 </p>
 
+> Ottimo<br> :date: __2020-05-11 12:02:38__
+
 > Dopo la segnalazione hanno aggionato l'app e ora funziona<br> :date: __2020-05-02 10:25:12__
 
 > L'unica cosa che contesto nuovamente (lo feci già all'inizio ad un operatore) è che molte risposte non possono essere complete ed esplicitative perché il questionario non ti dà la possibilità di ampliare le risposte in maniera adeguata. Il SI e il NO non credo siano sufficienti a capire le singole situazioni.<br> :date: __2020-04-25 10:35:51__
@@ -157,8 +159,6 @@ The LAZIOdrCovid app has been installed by more than **50000** times. At this ti
 > Utilissima applicazione<br> :date: __2020-04-14 10:55:52__
 
 > Non riesco ad inserire i parametri della frequenza cardiaca Ottima app grazie<br> :date: __2020-04-14 09:06:46__
-
-> Sapere situazione covid nella zona, Non ce la casella paziente e patologie<br> :date: __2020-04-13 21:27:42__
 
 
 
@@ -196,6 +196,10 @@ The LAZIOdrCovid app has been installed by more than **50000** times. At this ti
 <img src="3_star_reviews_wordcloud.png" alt="com.intellicare.covid 3 reviews"/>
 </p>
 
+> Correggo la sottostante recensione, credo sia stato un malfunzionamento temporaneo, mi ha dato la possibilità di accedere e funziona. "Pessimo funzionamento. Avevo già installato l'applicazione ed avevo anche inserito i miei dati, ad un certo punto all'accesso (fase invio SMS di verifica) usciva un messaggio di errore che diceva che mi ero registrato con un altro numero (impossibile) e quindi non mi ha più consentito l'accesso. Sarebbe utile se funzionasse!!!"<br> :date: __2020-05-13 18:20:22__
+
+> Un po' complicato<br> :date: __2020-05-10 17:47:50__
+
 > Ok ma il fatto che nella scheda "contatta il tuo medico" non compaia piú in nome del mio medico cosa significa? é voluto?<br> :date: __2020-04-30 12:58:44__
 
 > A volte non consente inserimento dati<br> :date: __2020-04-27 07:41:30__
@@ -212,10 +216,6 @@ The LAZIOdrCovid app has been installed by more than **50000** times. At this ti
 
 > Una volta compilato il test di auto valutazione viene inviato ma non dà responsi, nemmeno preliminari<br> :date: __2020-04-12 00:45:55__
 
-> Va sempre in crash quando si tenta di immettere i valori della frequenza cardiaca.<br> :date: __2020-04-11 23:55:45__
-
-> L'applicazione è ok funziona bene ma perché non estenderla anche ai malati sommersi cioè quelli che hanno tutti i sintomi tranne problemi respiratori e che non sono stati nella zona rossa e non sanno se sono stati in contatto con positivi visto che ci sono tanti asintomatici?...forse perché siamo molti? Per questo vi do 3 stelle.<br> :date: __2020-04-02 12:31:07__
-
 
 
 #### 2-star reviews
@@ -223,6 +223,8 @@ The LAZIOdrCovid app has been installed by more than **50000** times. At this ti
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="com.intellicare.covid 2 reviews"/>
 </p>
+
+> Non si riesce ad aprire perché indica numero telefonico. Mentre quello indicato è assolutamente corretto<br> :date: __2020-05-14 19:28:38__
 
 > Non aggiunge né leva nulla alle altre mille sul corona virus<br> :date: __2020-05-04 12:03:16__
 
@@ -241,8 +243,6 @@ The LAZIOdrCovid app has been installed by more than **50000** times. At this ti
 > Appena istallata funzionava che era una meraviglia. Dopo aggiornamento è la quinta volta che mi fa riattivare e confermare l'account. Sarebbe opportuno che sistemiate la cosa<br> :date: __2020-04-06 00:54:59__
 
 > Dall'ultimo aggiornamento ogni volta devo rifare l'accesso e dare l'autorizzazione. In più registra ogni misurazione due volte.<br> :date: __2020-04-05 22:56:57__
-
-> La versione del 02/04/2020 . Appare sempre sessione scaduta e bisogna reinserire i dati e riattivarla... Credo sia una enorme stupidaggine dover inserire tutti i giorni i miei dati personali e riattivare. La versione precedente non era così, e sicuramente era molto meglio.<br> :date: __2020-04-05 05:06:01__
 
 
 

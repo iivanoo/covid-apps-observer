@@ -1,0 +1,79 @@
+[
+    {
+        "userName": "Lismara Cintura",
+        "userImage": "https://lh3.googleusercontent.com/-tbtQDQ8s78o/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmlFO2LcUtxdADjnpeGMBndpTzdCw/photo.jpg",
+        "content": "Ajuda a saude de todos gostei\ud83d\ude0f\ud83d\ude0f",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2020-05-16 21:46:48",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "userName": "Pedro Paiva",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiBUeNWG6Dtgnz0blGcvTJ-LaOA8l_Q6jYI35N5",
+        "content": "Aprendam a falar e a escrever INGL\u00caS. \u00c9 mais \u00fatil que Funk!",
+        "score": 5,
+        "thumbsUpCount": 10,
+        "reviewCreatedVersion": "3.2.1",
+        "at": "2020-05-03 15:00:54",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "userName": "Ab\u00edlio Beio Ceolho",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiJm4WQeZfltePsdvmCR_puP4CoHWJAP6KhKpZY_Q",
+        "content": "Como uma Organiza\u00e7\u00e3o mundial n\u00e3o dispor mais idiomas?",
+        "score": 1,
+        "thumbsUpCount": 35,
+        "reviewCreatedVersion": null,
+        "at": "2020-04-09 17:28:57",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "userName": "Esmiro Quinime",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gj3rkMHz5rDscGaVpg_dBlrDFJNnPceuPPr2avi",
+        "content": "Boa",
+        "score": 5,
+        "thumbsUpCount": 4,
+        "reviewCreatedVersion": null,
+        "at": "2020-04-06 08:22:43",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "userName": "Amosse Benjamim Benjamim",
+        "userImage": "https://lh3.googleusercontent.com/-rAXLwkD08tA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckzDu2hW6AhC1VTYu-RM51ED27_-Q/photo.jpg",
+        "content": "Isso \u00e8 um lixo tente melhorar",
+        "score": 1,
+        "thumbsUpCount": 14,
+        "reviewCreatedVersion": null,
+        "at": "2020-04-02 09:30:07",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "userName": "Suele Sousa",
+        "userImage": "https://lh3.googleusercontent.com/-tFU6ooU-Xqs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclaZ-3jFnTmdvfAuvB4jKab6Dloeg/photo.jpg",
+        "content": "S\u00f3 em engles ruim",
+        "score": 5,
+        "thumbsUpCount": 44,
+        "reviewCreatedVersion": "3.1.1",
+        "at": "2020-03-17 03:56:56",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "userName": "Andrey Chiconato",
+        "userImage": "https://lh3.googleusercontent.com/-igAMHl6EtJg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn1sGZAWjcxjF0Cz1OkotF-CfrfDA/photo.jpg",
+        "content": "Uma pena n\u00e3o ser em portugu\u00eas.",
+        "score": 4,
+        "thumbsUpCount": 52,
+        "reviewCreatedVersion": "2.0.1",
+        "at": "2018-01-18 01:21:10",
+        "replyContent": null,
+        "repliedAt": null
+    }
+]

@@ -1,7 +1,249 @@
 [
     {
+        "userName": "Marta Sainz Puebla",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgtOdFsloSeNWpWDd6X-T1hBtlvsa3PHqfpypBzhOI",
+        "content": "Muy pr\u00e1ctica y recomendable",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.4",
+        "at": "2020-05-17 08:54:28",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "userName": "Aran Martin",
+        "userImage": "https://lh3.googleusercontent.com/-JZEwhH93cHo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnxo4FNbJvYRoyxotsmVQZ1OmBSmg/photo.jpg",
+        "content": "Muy recomendable",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2020-05-17 08:40:37",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "userName": "Igor Zarraga",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhGvioPS80tKMctaDAlHU3ZirhtvTM6CvzZ0huX",
+        "content": "interesante app, hecho en falta saber si he estado cerca d alguien infectado",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.4",
+        "at": "2020-05-17 07:10:26",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "userName": "Jose Luis Carcedo",
+        "userImage": "https://lh3.googleusercontent.com/-Ai77UyXi7zw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckoBzgUUOKm6FaGyZA2ns-ferfqJw/photo.jpg",
+        "content": "Excelente",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.4",
+        "at": "2020-05-16 23:53:05",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "userName": "Bego\u00f1a Mar\u00edn",
+        "userImage": "https://lh3.googleusercontent.com/-2IE-rPkj__w/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnhFMjLPcaxNiX_Sdvr1WsaDQkPBA/photo.jpg",
+        "content": "Buena aplicaci\u00f3n para saber si has estado expuesto al virus en tu \u00e1mbito cercano, adem\u00e1s ha mejorado mucho en las \u00faltimas versiones",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.4",
+        "at": "2020-05-16 23:00:29",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "userName": "Patxo Leo",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gi5RdjQ5RgSGvAX0sczgE5MrlcSWck4TCEG0ZyLyQ",
+        "content": "Muy buena aplicaci\u00f3n, muy \u00fatil",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.4",
+        "at": "2020-05-16 22:51:40",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "userName": "Un usuario de Google",
+        "userImage": "https://lh3.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+        "content": "Intuitiva, colaborativa y eficiente",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.0",
+        "at": "2020-05-16 22:43:47",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "userName": "Ana Corrales",
+        "userImage": "https://lh3.googleusercontent.com/-Wdo5nMGnXfE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmv-YqZSG_o8-KcJSECYD61xabqEA/photo.jpg",
+        "content": "Funciona muy bien, m registro todos los d\u00edas, es una buena app para controlar tu estado de salud.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.4",
+        "at": "2020-05-16 22:42:35",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "userName": "Jesus carcedo alvarez",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiGnIW-Kj7cXI3Q3xtnL0KncJhI6QLKTGwYGPxx9ic",
+        "content": "Excelente aplicaci\u00f3n la recomiendo . Muy buena.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.1",
+        "at": "2020-05-16 22:39:26",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "userName": "pewitchYT",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgIH-z4DXHjRG9ws1t2_X4ilFIh11PdPnU4JYidpQ",
+        "content": "Muy fiable, es muy f\u00e1cil crearte c\u00edrculos de contactos. Ha ido mejorando mucho con las nuevas versiones",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.4",
+        "at": "2020-05-16 22:39:07",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "userName": "Oscar Navarro",
+        "userImage": "https://lh3.googleusercontent.com/-XNZ79v-PEDw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckPgko84Tf0Moe2tmEEmo0CFfoZOQ/photo.jpg",
+        "content": "Muy intuitiva, inspira confianza...",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.4",
+        "at": "2020-05-16 22:36:55",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "userName": "Maria begona Corcostegui ormazabal",
+        "userImage": "https://lh3.googleusercontent.com/-KphPXwFFQ_Y/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnAKLdLSNGW_a5x5csrxQ5QW5DcVg/photo.jpg",
+        "content": "No me deja corregir errores.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.4",
+        "at": "2020-05-16 14:32:41",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "userName": "Vsg",
+        "userImage": "https://lh3.googleusercontent.com/-oDkAIkUMp00/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucla5xiLZH8I6iPN2ObRZeNe1Vs0bA/photo.jpg",
+        "content": "No le veo utilidad. No la usa mi ha gente.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.4",
+        "at": "2020-05-16 13:58:39",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "userName": "Pedro Isasmendi Gmail",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GimImxILUiIbukJHd4jf3vFOkn4t4ZIk6H60RCE6Q",
+        "content": "El apartado de c\u00edrculos creo que no funciona bien. Intento, al menos, rellenar el c\u00edrculo de familia y me dice que ya los tengo en contactos pero no me aparecen en el c\u00edrculo, siempre est\u00e1 vac\u00edo. Por otras opiniones tambi\u00e9n ocurre a mas gente.",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.4",
+        "at": "2020-05-16 11:25:04",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "userName": "I\u00f1aki Ausan",
+        "userImage": "https://lh3.googleusercontent.com/-xz20IsrCWbk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck4QybdwtfDRy4wWSuqhxPYY0myHQ/photo.jpg",
+        "content": "La han mejorado, pero sigue siendo muy dif\u00edcil (por no decir imposible) agregar a contactos que ya tienen la app a tus c\u00edrculos. Por favor, SI NO FUNCIONA BIEN, SI NO ES F\u00c1CIL, NO SE USAR\u00c1. Y entonces esta app no servir\u00e1 de nada, cuando la idea es muy buena. Estimados desarrolladores, por favor, intenten arreglar o facilitar el sistema de agregar contactos a los c\u00edrculos (no \u00fanicamente mandar las invitaciones). Gracias.",
+        "score": 3,
+        "thumbsUpCount": 6,
+        "reviewCreatedVersion": "2.4",
+        "at": "2020-05-15 12:38:05",
+        "replyContent": "Se va a incorporar en breve el acceso a la lista de contactos.Muchas gracias por las sugerencia.",
+        "repliedAt": "2020-03-29 18:38:06"
+    },
+    {
+        "userName": "Jose Angel L\u00f3pez",
+        "userImage": "https://lh3.googleusercontent.com/-2OUJP7jDpXk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclPT_jMv3ZTNDyfbJDwi_9JgvhOcQ/photo.jpg",
+        "content": "Al agregar una solicitud, me dice k el usuario ya est\u00e1 agregado o tiene una invitaci\u00f3n pendiente. Y no es as\u00ed. Lo intenta mi contacto y me dice lo mismo. No agrega bien los contactos. Si esta es la fiabilidad que tiene, igual no merece la pena instalarla... una pena",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.4",
+        "at": "2020-05-13 19:43:48",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "userName": "Fernando Mateos",
+        "userImage": "https://lh3.googleusercontent.com/-3m_b9TIxmcE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckkDe4LFRWadqGlY-4TogD3Jp4mTw/photo.jpg",
+        "content": "Muy buena y efizcad",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.2",
+        "at": "2020-05-12 22:03:55",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "userName": "Isabel Del Amo Calle",
+        "userImage": "https://lh3.googleusercontent.com/-bqAarb9IrEI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmTk3Fu3Bwi6WCjwJ92W4aiXnT9cQ/photo.jpg",
+        "content": "Excelente",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.4",
+        "at": "2020-05-12 19:38:54",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "userName": "Ana Pastor Sousa",
+        "userImage": "https://lh3.googleusercontent.com/-IkjMbmsKYxQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnYHiv066ql1uqIOn0tjQaYuiIYAQ/photo.jpg",
+        "content": "Aunque me llegan notificaciones luego no puedo leerlas en la aplicaci\u00f3n. Y a pesar de que pulso sobre el icono de sobre/notificaci\u00f3n siempre me abre propuestas de aislamiento.",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.4",
+        "at": "2020-05-12 07:01:35",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "userName": "Ainhoa Perez",
+        "userImage": "https://lh3.googleusercontent.com/-JYHFja1acfE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclosfMp3ABCaayYXFjW-Qn2IqFZdw/photo.jpg",
+        "content": "Para empezar, soy inmunosupresora, y no tienes la opci\u00f3n de ponerlo. Anotar el contacto de la gente con qui\u00e9n te relacionas? Yo estoy trabajando, mis compa\u00f1eros no tienen la aplicaci\u00f3n, y muchos no quieren (el tel\u00e9fono de mis jefes, no tengo) Y no se actualiza la \u00faltima vez que entr\u00e9 en la app. El \u00faltimo acceso me dice que fue cuando la instal\u00e9. Siempre me pone riesgo 0. No creo que sirva m\u00e1s que para decir si est\u00e1s bien o tienes s\u00edntomas, para nada m\u00e1s.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.4",
+        "at": "2020-05-11 21:13:49",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "userName": "Rafa fa",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjKSKToNyKhuZ6VVh-20UsvcevIpUC73yLk2asuNw",
+        "content": "C\u00f3mo le digo a la app que estoy en cuarentena? C\u00f3mo pretend\u00e9is que os ofrezca tan tranquilamente los n\u00fameros de tel\u00e9fono personales de todos mis contactos?",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.4",
+        "at": "2020-05-11 14:00:00",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "userName": "ROBERTO G HIERRO",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhEr1PBoDn-kamqfSC2Do-MFWOHsPliU5nlEA9ZyxY",
+        "content": "Desde esta app no se pueden abrir los informes de coronavirus que publica el Gobierno Vasco cada d\u00eda, en el apartado recomendaciones: te reenv\u00eda a la web del Gobierno Vasco, en el propio entorno de la app, y los archivos de pdf no se descargan. Desde la web no hay problema. A fecha de 10 de mayo sigo sin poder abrir los informes en pdf. No os hab\u00e9is molestado ni en contestar. S\u00f3lo quer\u00eda saber si es un problema de la app o de mi m\u00f3vil. Bajo calificaci\u00f3n. No si es ni siquiera \u00fatil est\u00e1 app.",
+        "score": 1,
+        "thumbsUpCount": 5,
+        "reviewCreatedVersion": "2.4",
+        "at": "2020-05-10 13:50:14",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "userName": "Gari Lopetegi",
-        "userImage": "https://lh3.googleusercontent.com/-dQ45F_Rm794/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJNcb-pLfkYmvqvJ35eBAyBWH83pHA/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-dQ45F_Rm794/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl1g6MYp-ENVRCg81iob0EL-YLAPA/photo.jpg",
         "content": "Nos va a ayudar a todos, denori lagunduko gaitu",
         "score": 4,
         "thumbsUpCount": 0,
@@ -12,10 +254,10 @@
     },
     {
         "userName": "Bego Vega",
-        "userImage": "https://lh3.googleusercontent.com/-lwgl-jHBRYs/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJPp4w9ugjUZ3fadgfdYlJvxQxopSg/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-lwgl-jHBRYs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckk2Qsf7vgd7rFrO5yr7JNofn8iMQ/photo.jpg",
         "content": "Me gusta la idea pero mucha gente de mi entorno no entiende su utilidad y no quieren instalarla. Si quiere ser un m\u00e9todo de control deber\u00edan publicitarla m\u00e1s",
         "score": 4,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 2,
         "reviewCreatedVersion": "2.4",
         "at": "2020-05-09 07:36:38",
         "replyContent": null,
@@ -37,7 +279,7 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiSIZw-D_LywJD9lm9M1UwjvNsGxofY_18vIf2e-2c",
         "content": "Por mucha gente que tengas en contactos, si alguien no indica que se encuentra enfermo, el resto no van a recibir ninguna notificaci\u00f3n. Adem\u00e1s que tienes que tener el contacto de las personas para que se te notifique. Y si tienes el contacto y sueles coincidir, es m\u00e1s plausible que te manden un WhatsApp a que lo activen en la aplicacion. Y tampoco vas a tener el contacto de gente con la que coincides en lugares p\u00fablicos.",
         "score": 1,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "2.2",
         "at": "2020-05-08 14:34:44",
         "replyContent": null,
@@ -45,7 +287,7 @@
     },
     {
         "userName": "Jakinde Carballo",
-        "userImage": "https://lh3.googleusercontent.com/-AExz2rYXJNw/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJNvED__cF5JZxQDgIwXOZHwPE9BYw/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-AExz2rYXJNw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl8s2dzxhCNqIudQ9zRhAAAlrHAAQ/photo.jpg",
         "content": "Tengo muchos problemas para que los contactos a los que env\u00edo solicitud y la aceptan aparezcan reflejados en mis c\u00edrculos. Mando la solicitud, me dicen que la confirman, pero no aparecen en la aplicaci\u00f3n. Un saludo",
         "score": 2,
         "thumbsUpCount": 0,
@@ -70,7 +312,7 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhWM1Qz1LI13jV-fTxTZALY8C8xws-SdzSU0T12Nw",
         "content": "Tengo la aplicaci\u00f3n desde pr\u00e1cticamente el primer d\u00eda, y me resulta curioso que por un lado me diga que mi \u00faltimo estado es del 10 de abril (cuando la instal\u00e9), cuando lo hago todos los d\u00edas, que imagino que por eso dice algo confiable. Por otro lado, mi mujer tambi\u00e9n la tiene bajada, la tengo en el circulo familia y el circulo aparece vaci\u00f3 de gente",
         "score": 3,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 4,
         "reviewCreatedVersion": "2.2",
         "at": "2020-05-07 21:47:08",
         "replyContent": null,
@@ -78,7 +320,7 @@
     },
     {
         "userName": "David Iglesias",
-        "userImage": "https://lh3.googleusercontent.com/-vImjjsbHoYI/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJMaMUy40w0XRIwHAP8A7QLhCiFRkg/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-vImjjsbHoYI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclVRDyrsI2AKRia78q7VzUVNpkYTg/photo.jpg",
         "content": "No me ha dejado seleccionar que no ten\u00eda Covid 19",
         "score": 1,
         "thumbsUpCount": 0,
@@ -89,10 +331,10 @@
     },
     {
         "userName": "Borja Gonzalez",
-        "userImage": "https://lh3.googleusercontent.com/-XWBUIVmd3ws/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJMRWJ5mLaPgPsWK11_cmW8mxIopQQ/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-XWBUIVmd3ws/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmczEeO9DwwPbXf8ugJWTA0c3tJdw/photo.jpg",
         "content": "Nada m\u00e1s abrir, te pregunta si tienes o has pasado el virus. Si seleccionas \"no lo he pasado\" te lo sigue preguntando hasta que respondas otra cosa. Si empezamos as\u00ed, poca utilidad puede tener esta aplicaci\u00f3n.",
         "score": 1,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "2.2",
         "at": "2020-05-07 21:17:17",
         "replyContent": null,
@@ -103,7 +345,7 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GisuSF1maqP1v_YcJrflEafN8pni6kpS4o4yIgC_A",
         "content": "Eso de que no puedas incorporar los contactos todos a la vez y tenga que ser de uno en uno es bastante poco \u00fatil. Y si te llega alguna invitaci\u00f3n de alguien, o te metes en los mensajes o no te enteras porque no te llega ni aviso y pone nada en el sobre para que sepas que hay algo nuevo. Mucho que mejorar para que esto sirva. Igual que creo que se deber\u00eda poner si te han hecho PCR o serolog\u00eda y poder poner el resultado.",
         "score": 1,
-        "thumbsUpCount": 1,
+        "thumbsUpCount": 6,
         "reviewCreatedVersion": "2.2",
         "at": "2020-05-07 16:01:52",
         "replyContent": null,
@@ -144,7 +386,7 @@
     },
     {
         "userName": "mirikituli",
-        "userImage": "https://lh3.googleusercontent.com/-giFqk-tWxiU/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJMAsKbsY1-2G5Ay6Hg4pbGQwVV4cw/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-giFqk-tWxiU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclp0E_f7ShIYJ5BoXmrg7_ATl5HBQ/photo.jpg",
         "content": "No consigo a\u00f1adir contactos a mis c\u00edrculos. Cuando env\u00edo solicitud a alguien, me dice que \"el usuario ya existe en mis c\u00edrculos de contactos\" pero no aparece en ninguno de los c\u00edrculos predeterminados... Gracias",
         "score": 3,
         "thumbsUpCount": 0,
@@ -155,7 +397,7 @@
     },
     {
         "userName": "Alruma",
-        "userImage": "https://lh3.googleusercontent.com/-0CMEwEw5KIM/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJN8jWp-NlBqZ5pI0fnsBYHhbNjp2A/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-0CMEwEw5KIM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclluLqAsPiPaosl8pBr_6lxiAcgBg/photo.jpg",
         "content": "Deber\u00eda permitir saber qu\u00e9 contactoa la tienen instalada.",
         "score": 3,
         "thumbsUpCount": 1,
@@ -169,7 +411,7 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhRRqbQes3xnqfXMRNJmyYFBDXN0x5JqEO6uX6GHA",
         "content": "Ya accede a la agenda de contactos , ok, pero a lo que le refiero es que si en una persona de la agenda tienes varios n\u00fameros guardados, no deja seleccionar uno de ellos, si que la aplicaci\u00f3n selecciona uno. En ocasiones puede ser que ese n\u00famero no sea el que quieres, por ejemplo, un tel\u00e9fono fijo o de trabajo.",
         "score": 2,
-        "thumbsUpCount": 21,
+        "thumbsUpCount": 23,
         "reviewCreatedVersion": "2.2",
         "at": "2020-05-04 13:40:28",
         "replyContent": "Se va a incorporar en breve el acceso a la lista de contactos. Muchas gracias por las sugerencias",
@@ -199,7 +441,7 @@
     },
     {
         "userName": "Teodoro Menendez",
-        "userImage": "https://lh3.googleusercontent.com/-KVv_AdZc2Z4/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJNPiZyy7BbZa91GfVkSl9pCmZoBhQ/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-KVv_AdZc2Z4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucngbPG845UinjolBP_4iwv-blk8Mw/photo.jpg",
         "content": "Complicada y no resuelve absolutamente nada",
         "score": 1,
         "thumbsUpCount": 0,
@@ -221,7 +463,7 @@
     },
     {
         "userName": "zow iracam",
-        "userImage": "https://lh3.googleusercontent.com/-uMqJEdP8xQM/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJN20r42cIjbCUBHeyVsgDz9MM6Zmg/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-uMqJEdP8xQM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclMO0LRelkPn5vf0egx8xvxmOjUgQ/photo.jpg",
         "content": "Mejor\u00f3 un mont\u00f3n, pero... - me confund\u00ed, puse el tel\u00e9fono en familia y era CASA. No me muestra una lista de las personas por grupo, no se si est\u00e1 est\u00e1 persona agregada. Borr\u00e9 el grupo familia. Y ahora no me deja agregar a esa persona a ning\u00fan grupo, porque dice que ya est\u00e1 en un grupo, que no existe",
         "score": 3,
         "thumbsUpCount": 1,
@@ -232,7 +474,7 @@
     },
     {
         "userName": "Ram\u00f3n D\u00edez Carreras",
-        "userImage": "https://lh3.googleusercontent.com/-7MkL2JGuxKQ/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJNyqniskLhKb5p69bS_DNvzk8PF_Q/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-7MkL2JGuxKQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclYngd6nyG-5eodKvyQ98WH7QtU7A/photo.jpg",
         "content": "Mi hija est\u00e1 registrada como familiar; y, sin embargo, en el c\u00edrculo familiar no aparece nadie. La escala 'confiable', entiendo que es una soberana tonter\u00eda. \u00bfQu\u00e9 mayor confiabilidad que la que indica uno mismo? Seg\u00fan lo que indica la aplicaci\u00f3n, parece que, para que ses confiable, lo tiene que corroborar mucha gente. Si quieren decir otra cosa, lo explican fatal. No desinstalo la aplicaci\u00f3n por si sirve para algo; cosa que dudo.",
         "score": 1,
         "thumbsUpCount": 1,
@@ -254,7 +496,7 @@
     },
     {
         "userName": "i\u00f1aki Estefania",
-        "userImage": "https://lh3.googleusercontent.com/-e3XlXywx0qY/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJPLi8mNAfgMGxUVkgwFfls9YUCpJA/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-e3XlXywx0qY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckUTgvm16D6hubvcUinyceOWpIEgg/photo.jpg",
         "content": "Toda ayuda es bienvenida",
         "score": 5,
         "thumbsUpCount": 0,
@@ -276,7 +518,7 @@
     },
     {
         "userName": "gonzalo cedrun rabago",
-        "userImage": "https://lh3.googleusercontent.com/-Pr65eynD2hk/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJNmF3vwWY8f1GZ6fBqBWM02r49odw/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-Pr65eynD2hk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck_IAO6f9ZQ8tGK4EE1xYPO_yJo2Q/photo.jpg",
         "content": "Buena",
         "score": 2,
         "thumbsUpCount": 0,
@@ -287,7 +529,7 @@
     },
     {
         "userName": "Juan Jos\u00e9 Monge LLorente",
-        "userImage": "https://lh3.googleusercontent.com/-Y8OMiqXon7A/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJPOs5iZZkmSWjqbRS6Cr3p8wMx8aQ/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-Y8OMiqXon7A/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmKgPUN6cFtIywuTOoYsbrVxMuNjg/photo.jpg",
         "content": "Lleva unas semanas que ha mejorado.",
         "score": 4,
         "thumbsUpCount": 1,
@@ -298,7 +540,7 @@
     },
     {
         "userName": "Guillermo Regil",
-        "userImage": "https://lh3.googleusercontent.com/-OfZX3qV0TE4/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJNfD22HfHlCOKRTgUrM_r5q4_0cSA/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-OfZX3qV0TE4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucme7Une4vTZYsDmckANmvNPuEBjKQ/photo.jpg",
         "content": "Todos los d\u00edas entro en ella y confirmo los datos",
         "score": 1,
         "thumbsUpCount": 1,
@@ -320,7 +562,7 @@
     },
     {
         "userName": "Ainhoa Alonso",
-        "userImage": "https://lh3.googleusercontent.com/-MN5iVbXnZUc/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJO8HCW8sPe-YjBU3JDzLPJkrX__CA/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-MN5iVbXnZUc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclNjw2SsucBDs7d3K8NZpfCJNszBA/photo.jpg",
         "content": "El d\u00eda 9 de abril puse que ten\u00eda un sintoma, temperatura de 37, ni unad\u00e9cima m\u00e1s, ni un sintoma m\u00e1s. Para no molestar a mi doctora abr\u00ed el chat y me dijeron que con esa temperatura y nada m\u00e1s no hay problema. Pues la app, al no dar opci\u00f3n a que el m\u00e9dico descarta covid me pone hoy que estoy con covid. Me parece muy poco serio. Hoy ten\u00eda pensando salir, espero que no me pongan pegas por la informaci\u00f3n falsa que haya podido enviar la app. Me arrepiento mil de haberla descargado.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -342,7 +584,7 @@
     },
     {
         "userName": "Vanesa Talavera",
-        "userImage": "https://lh3.googleusercontent.com/-3sJT5EJEMtc/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJPbX440liVZJR-vlDKnoxnxvUWBeA/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-3sJT5EJEMtc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmOvp6Qpxp1Yrr3eWFnE-Lw7-lDnA/photo.jpg",
         "content": "Hola! Necesita mejorar, -poder cambiar tu nombre de usuario -Ver el estado de las solicitudes -poder reenviar la solicitud Actualmente he enviado solicitudes a mis compa\u00f1eros de trabajo y cuando se descargan la app no se me incluyen en la lista ni yo a ellos y no puedo volver a enviarles la invitaci\u00f3n porque me dice que ya est\u00e1 incluido en mis c\u00edrculos. No obstante \u00e1nimo que lo est\u00e1is haciendo en tiempo record",
         "score": 3,
         "thumbsUpCount": 2,
@@ -386,7 +628,7 @@
     },
     {
         "userName": "cristina lombide garcia",
-        "userImage": "https://lh3.googleusercontent.com/-cFQn29XMDbc/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJPwYNA0WG3Q37xQkkmMIJlxeR7CXw/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-cFQn29XMDbc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckdZR4evBQ8n-hZdyXZc9RrKkdaQw/photo.jpg",
         "content": "No funciona",
         "score": 1,
         "thumbsUpCount": 0,
@@ -408,7 +650,7 @@
     },
     {
         "userName": "Levido Dole",
-        "userImage": "https://lh3.googleusercontent.com/-L12Gsfr2GBA/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJN4Xu5Gdql_P6LWQQo_0CCtyR0RWw/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-L12Gsfr2GBA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl9i2suNeAx65XDKZjMwVpdZ_l11w/photo.jpg",
         "content": "Muy \u00fbtil y necesaria .",
         "score": 5,
         "thumbsUpCount": 0,
@@ -441,7 +683,7 @@
     },
     {
         "userName": "Carmen Dieguez",
-        "userImage": "https://lh3.googleusercontent.com/-VSLY8XVQF-o/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJO8XL2txArcnpqnhz-CuM0KfS2ulg/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-VSLY8XVQF-o/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclPNoG5MV3JmQScFMxpmjH4kprjUA/photo.jpg",
         "content": "Ning\u00fan d\u00eda me da la opci\u00f3n de poner como me encontraba, solo me encuentro bien cuando ten\u00eda que poner tos dolor de cabeza y dolor en el pecho con falta de aire as\u00ed que decid\u00ed borrarme de la app",
         "score": 1,
         "thumbsUpCount": 0,
@@ -452,7 +694,7 @@
     },
     {
         "userName": "Yolanda FG",
-        "userImage": "https://lh3.googleusercontent.com/-yQIRkdIJILk/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJPfKj58bnymCXUEMk4dBD3sNcJHsQ/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-yQIRkdIJILk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnyUoLMxpYMgzCbxfDbr_gXPyr1ag/photo.jpg",
         "content": "La app es nueva a\u00fan; 1-pensar en el colectivo sordo, c\u00f3mo comunicar por escrito,no podemos por voz, etc 2-en vez de invitar a gente para agregarlos, mejor mostrar lista de los contactos que est\u00e1n usando la app.",
         "score": 2,
         "thumbsUpCount": 2,
@@ -463,34 +705,12 @@
     },
     {
         "userName": "Miguel G\u00f3mez Lasa",
-        "userImage": "https://lh3.googleusercontent.com/-Nn3oie-o0wc/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJNCkpq57bqp_5eWUeEUg7vcJbOU_Q/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-Nn3oie-o0wc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckoKhVYCu59hf1t82wdzn0ZvDtoSA/photo.jpg",
         "content": "No me dicen como pueden vds. Detectar el virus y cambiar a la prueba a mi familia gracias",
         "score": 3,
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "2.0",
         "at": "2020-04-16 09:09:41",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "userName": "Oscar Navarro",
-        "userImage": "https://lh3.googleusercontent.com/-XNZ79v-PEDw/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJN3wARMf4xhErTQxqX-hILdDDZGSg/photo.jpg",
-        "content": "Muy intuitiva",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "2.0",
-        "at": "2020-04-15 23:30:42",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "userName": "Patxo Leo",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gi5RdjQ5RgSGvAX0sczgE5MrlcSWck4TCEG0ZyLyQ",
-        "content": "Muy \u00fatil y funciona muy bien",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "2.0",
-        "at": "2020-04-15 20:18:33",
         "replyContent": null,
         "repliedAt": null
     },
@@ -507,7 +727,7 @@
     },
     {
         "userName": "Jos\u00e9 Angel L\u00f3pez",
-        "userImage": "https://lh3.googleusercontent.com/-PJ_5_Yi-mSQ/AAAAAAAAAAI/AAAAAAAACbE/AAKWJJMCwY4TQHPa_-BYSf9oX--U0ogMtg/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-PJ_5_Yi-mSQ/AAAAAAAAAAI/AAAAAAAACbE/AMZuucl-fqW7eM-g5vhgbyyNNBdVUbjmvg/photo.jpg",
         "content": "Deber\u00edan de pensar en una aplicaci\u00f3n para ordenadores, ya que hay personas con m\u00f3viles viejos en los que no funciona la aplicaci\u00f3n.",
         "score": 3,
         "thumbsUpCount": 0,
@@ -540,7 +760,7 @@
     },
     {
         "userName": "Arantza Pinedo Hernandorera",
-        "userImage": "https://lh3.googleusercontent.com/-j9ZWMweLHA0/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJMMsPjT2O9cwetqcRprp3sxBJAgzQ/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-j9ZWMweLHA0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnYZS7apaWJfICUX5I87WCVnx3snA/photo.jpg",
         "content": "No permite rectificar en los c\u00edrculos. Yo me he equivocado entre Casa y Familia y no puedo cambiar. Luego la informaci\u00f3n no es del todo veraz.",
         "score": 2,
         "thumbsUpCount": 0,
@@ -551,34 +771,12 @@
     },
     {
         "userName": "Teresa",
-        "userImage": "https://lh3.googleusercontent.com/-AuzxWp-qdlc/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJNp02xzP_aA6FVT8r-AVI38Kf3_hg/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-AuzxWp-qdlc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmW0UZA1UkLJKgmyazVyY1MemyxaA/photo.jpg",
         "content": "Excelente",
         "score": 5,
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "2.0",
         "at": "2020-04-11 23:55:35",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "userName": "Jose Luis Carcedo",
-        "userImage": "https://lh3.googleusercontent.com/-Ai77UyXi7zw/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJNzXGrs8uxMb8s7hSg8uGcNA44ymw/photo.jpg",
-        "content": "Excelente",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "2.0",
-        "at": "2020-04-11 23:54:45",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "userName": "Jesus carcedo alvarez",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiGnIW-Kj7cXI3Q3xtnL0KncJhI6QLKTGwYGPxx9ic",
-        "content": "Excelente aplicaci\u00f3n la recomiendo . Muy buena.",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.2",
-        "at": "2020-04-11 21:22:59",
         "replyContent": null,
         "repliedAt": null
     },
@@ -617,7 +815,7 @@
     },
     {
         "userName": "Pako Ripoll",
-        "userImage": "https://lh3.googleusercontent.com/-I3teyetu3v4/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJPAR6UVvdyxT4EXVrnPwgH99Odcvw/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-I3teyetu3v4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclZJ93-m6DWuWO-v1REJdDI_hL59g/photo.jpg",
         "content": "Faltan cosas b\u00e1sicas como acceso a la agenda de tel\u00e9fonos y poder modificar datos como el Alias... Por otro lado es algo que si se toma en serio puede aportar al control de la expansi\u00f3n del covid-19. Mucho por mejorar pero no es mala la idea. (10-4-20) Mejorando con las actualizaciones. El acceso a la agenda y la edici\u00f3n de datos del usuario arreglado. Aunque ahora falla la autoevaluaci\u00f3n diaria. Ha desaparecido...",
         "score": 3,
         "thumbsUpCount": 28,
@@ -639,7 +837,7 @@
     },
     {
         "userName": "Lydia Martinez",
-        "userImage": "https://lh3.googleusercontent.com/-2SoAlZeEjc0/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJOcesL4hDxDPjmIEd97MxPWxg4H2g/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-2SoAlZeEjc0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclfio7K7hne4llYOiYFK5RXeh-O2w/photo.jpg",
         "content": "Escasa y en la versi\u00f3n descargada por un familiar no da la opci\u00f3n de autoanalisis, por lo que no se puede indicar estado de ninguna manera. A dia 10 de abril, con la actualizaci\u00f3n me ha desaparecido ahora el autoan\u00e1lisis a mi. Cada vez peor.",
         "score": 2,
         "thumbsUpCount": 1,
@@ -650,7 +848,7 @@
     },
     {
         "userName": "Ama",
-        "userImage": "https://lh3.googleusercontent.com/-C5WCYgqw8Ig/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJM66g6JjjphZFdf3XKA_XpreNjnfg/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-C5WCYgqw8Ig/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnNbRc5eV4i11paM3C8_J2TBarSrw/photo.jpg",
         "content": "Acabo de instalar la app, soy paciente de riesgo y no he podido configurar bien, no puedo volver atr\u00e1s para poder reeditar la configuraci\u00f3n, no se si volviendo a instalar se podr\u00e1 corregir",
         "score": 5,
         "thumbsUpCount": 0,
@@ -661,7 +859,7 @@
     },
     {
         "userName": "Nerea Vazquez",
-        "userImage": "https://lh3.googleusercontent.com/-4ik2D_CYN0I/AAAAAAAAAAI/AAAAAAAAQwI/AAKWJJNli4JHPasSAS_EuRxJA4D__1F0TQ/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-4ik2D_CYN0I/AAAAAAAAAAI/AAAAAAAAQwI/AMZuuck9k8_t6wXTfLL5CyXbeE9UDZJVbA/photo.jpg",
         "content": "Con la nueva actualizaci\u00f3n han mejorado el poder acceder a los contactos en vez de tener que poner tu el n\u00famero de tel\u00e9fono. Veo \u00fatil el apartado donde te pregunta que tal te encuentras",
         "score": 5,
         "thumbsUpCount": 0,
@@ -683,7 +881,7 @@
     },
     {
         "userName": "Jes\u00fas Manuel Molano",
-        "userImage": "https://lh3.googleusercontent.com/-vElZzpbcF-k/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJP3Ys1uZo7PkIPn16EOvG_JxHVpzw/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-vElZzpbcF-k/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck33ilzHU_McPIPgKn4Jf6Hsqs5-w/photo.jpg",
         "content": "Estaba bien. Pero lleva dias que no se puede hacer el test",
         "score": 2,
         "thumbsUpCount": 0,
@@ -694,7 +892,7 @@
     },
     {
         "userName": "Angel Mart\u00ednez",
-        "userImage": "https://lh3.googleusercontent.com/-WPV56M2GqQM/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJNssUzlqrQDfD2wXbLHXXjgxHz4ZA/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-WPV56M2GqQM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckIHi5CBse3prxmwThigZPZkZdgTQ/photo.jpg",
         "content": "No podemos enviar nuestro estado ni mi grupo familiar ni yo. No hay que enviar el estado personal una vez al d\u00eda?",
         "score": 1,
         "thumbsUpCount": 0,
@@ -705,7 +903,7 @@
     },
     {
         "userName": "Yolanda Contreras",
-        "userImage": "https://lh3.googleusercontent.com/-YTJJFe80RTI/AAAAAAAAAAI/AAAAAAAAFxA/AAKWJJP6ElDFYp5reHxnLmlAZaf_mc77xg/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-YTJJFe80RTI/AAAAAAAAAAI/AAAAAAAAFxA/AMZuucmmU9Ks9mKcDa-M5k9vzY6YkpbDfA/photo.jpg",
         "content": "Sigue sin aparecer el auto test diario. He desinstalado y vuelto a instalar y nada",
         "score": 2,
         "thumbsUpCount": 0,
@@ -716,7 +914,7 @@
     },
     {
         "userName": "gorka rivero",
-        "userImage": "https://lh3.googleusercontent.com/-7JCiTYlJ7eI/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJPRxRFfdE2W5uGE0pGCqVpDeGry8A/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-7JCiTYlJ7eI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclKLOIuKDgio-TnMU8rd_-lWCuqkA/photo.jpg",
         "content": "Fenomenal. Muy f\u00e1cil de manejar..Me encanta la aplicaci\u00f3n y su utilidad.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -727,7 +925,7 @@
     },
     {
         "userName": "Jesus Orozco",
-        "userImage": "https://lh3.googleusercontent.com/-v9wNFEmwSwI/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJP-qOkktVzIycKHSrGvy8hV9JBxRQ/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-v9wNFEmwSwI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckmrsRXUZO_VWKlYcGtJ1RSo-0Bbw/photo.jpg",
         "content": "Funciona mal,muy mejorable",
         "score": 1,
         "thumbsUpCount": 0,
@@ -760,7 +958,7 @@
     },
     {
         "userName": "Nekane Fern\u00e1ndez A.",
-        "userImage": "https://lh3.googleusercontent.com/-3GZZoH3dxik/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJNbo9NUvlbMWxFenmfAP8qKz76SSQ/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-3GZZoH3dxik/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckFSW0aoi4ovfoLlO2Aq6UeupfB0A/photo.jpg",
         "content": "No funciona",
         "score": 1,
         "thumbsUpCount": 0,
@@ -771,7 +969,7 @@
     },
     {
         "userName": "GORKA LOPEZ GANGOITI",
-        "userImage": "https://lh3.googleusercontent.com/-Kubjg0OtY2Q/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJNZu-932Egs7Dpvh9yiamcu72aswg/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-Kubjg0OtY2Q/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn7kia8LAWCYI1c0p43LrhHouyClQ/photo.jpg",
         "content": "\u00bfCuando va a empezar a funcionar al 100%?\u00bfCuando ya no haga falta?No se puede abrir la agenda,no se puede hacer el autotest...mucha publicidad pero poca utilidad",
         "score": 1,
         "thumbsUpCount": 1,
@@ -782,7 +980,7 @@
     },
     {
         "userName": "Mikel Gonz\u00e1lez",
-        "userImage": "https://lh3.googleusercontent.com/-D16kn_TGVBY/AAAAAAAAAAI/AAAAAAAALaA/AAKWJJNd3fudFUYZomuHTwGwprSFt_MOiQ/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-D16kn_TGVBY/AAAAAAAAAAI/AAAAAAAALaA/AMZuuclUVewYjjNlaDo6k7Y5nYmmlWlQHw/photo.jpg",
         "content": "No puedo realizar el test.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -793,7 +991,7 @@
     },
     {
         "userName": "Roberto Alonso Cuervo",
-        "userImage": "https://lh3.googleusercontent.com/-VC7SgTFNqbY/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJP-YWaPage3VqFZtPc8qCcqus-DwA/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-VC7SgTFNqbY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnVH2hK9Nm4ZlYPEUM065sIoee3EA/photo.jpg",
         "content": "Acabo de bajarla en este momento...",
         "score": 3,
         "thumbsUpCount": 0,
@@ -804,7 +1002,7 @@
     },
     {
         "userName": "Anaito Loso",
-        "userImage": "https://lh3.googleusercontent.com/-urcBGkfY5Ok/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJNIbEcpX0W_j2VtKdNOSgApX1KlTQ/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-urcBGkfY5Ok/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm1uUGXUxS-AZK5Mfpyxsw2c4X_iA/photo.jpg",
         "content": "Muy buena idea. Muy \u00fatil.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -815,7 +1013,7 @@
     },
     {
         "userName": "I\u00f1aki Ramos Aizpurua",
-        "userImage": "https://lh3.googleusercontent.com/-QQ9tlWwiKB4/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJMecemWIIKJdOJ4HWuoBjzVEgMAqQ/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-QQ9tlWwiKB4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl3is9m6N02F0C6oOiYNy-iFmoBvA/photo.jpg",
         "content": "Muy util",
         "score": 5,
         "thumbsUpCount": 0,
@@ -826,7 +1024,7 @@
     },
     {
         "userName": "Winzip68 Winzip",
-        "userImage": "https://lh3.googleusercontent.com/-Zsw5Al5v4NE/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJNQHOnbLOvVVJVOLleCUQtSH8IZjQ/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-Zsw5Al5v4NE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckll-nAUGKnpZ3lSFyTK7e0jqtnEg/photo.jpg",
         "content": "No puedo hacer el autores, antes si, ahora no me aparece",
         "score": 3,
         "thumbsUpCount": 0,
@@ -892,7 +1090,7 @@
     },
     {
         "userName": "Iker carnero herreras",
-        "userImage": "https://lh3.googleusercontent.com/-Aaj4lCniVYs/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJO3yASz21Ps3gSm7kmYflRtyhJXAw/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-Aaj4lCniVYs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmLUtJv8j4Ah49LEZ0DEbnGuomQMg/photo.jpg",
         "content": "Est\u00e1 mal. Como en el test diario pongas que te duele la cabeza ya te dice que contactes con el PAC. Al d\u00eda siguiente puse que no fui al m\u00e9dico y me dice que tengo el coronavirus.... Esto puede colapsar m\u00e1s los hospitales",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1002,7 +1200,7 @@
     },
     {
         "userName": "Ana Isabel Barba Docampo",
-        "userImage": "https://lh3.googleusercontent.com/-UKw5jgKDR2g/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJMSPOTyHWV_Xb2AYJrd3UrynNoAQw/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-UKw5jgKDR2g/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl3F1sosIbepNdNb7XMvqLHQfvBFw/photo.jpg",
         "content": "No me dejaba elegir el espa\u00f1ol como idioma al descargarme la p\u00e1gina",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1046,7 +1244,7 @@
     },
     {
         "userName": "Abraham F.S.",
-        "userImage": "https://lh3.googleusercontent.com/-JAziNP3IZaw/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJOHTNaKnONHIN4RzQtKLVkX-XYGSA/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-JAziNP3IZaw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclaBsUJTAYiYv_nXSag7kaYuyIQtg/photo.jpg",
         "content": "Ya han incluido la opci\u00f3n de seleccionar contactos de la agenda.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1057,7 +1255,7 @@
     },
     {
         "userName": "Javier Garcia",
-        "userImage": "https://lh3.googleusercontent.com/-rKMKqOCg8n8/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJM1nvaR8pvGr1r4LFrW3J8f8kQklg/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-rKMKqOCg8n8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucksfyPgGsbgXX3bbSzb6Vu9Tw3H8w/photo.jpg",
         "content": "No me funciona. En cuanto la intento abrir, se cierra. Ahora ya funciona.",
         "score": 3,
         "thumbsUpCount": 0,
@@ -1078,17 +1276,6 @@
         "repliedAt": "2020-03-29 18:44:27"
     },
     {
-        "userName": "ROBERTO G HIERRO",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhEr1PBoDn-kamqfSC2Do-MFWOHsPliU5nlEA9ZyxY",
-        "content": "Desde esta app no se pueden abrir los informes de coronavirus que publica el Gobierno Vasco cada d\u00eda, en el apartado recomendaciones: te reenv\u00eda a la web del Gobierno Vasco, en el propio entorno de la app, y los archivos de pdf no se descargan. Desde la web no hay problema.",
-        "score": 4,
-        "thumbsUpCount": 3,
-        "reviewCreatedVersion": "1.2",
-        "at": "2020-04-04 13:24:45",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
         "userName": "Fortxuzopo zopi",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgIuDP41QAGyq2V9ObfCUlfrUFpcSK77e08pDYW8w",
         "content": "Buena idea. Pero de que me sirve si yo acabo de pasar la enfermedad y no me deja ponerlo, creo que para que tuvieran los datos de todos los contagiados, deberian dejar que lo informaramos y asi se podrian tratar todos los datos. aunque ya lo hayamos pasado. solo me pregunta mi estado actual. Deberian dejar poner fecha de cuando empezaste los sintomas. Tambien deberian poner una forma de acceder a los contactos del movil. Se hace pesado a\u00f1adir los numeros a mano",
@@ -1101,7 +1288,7 @@
     },
     {
         "userName": "M Bego\u00f1a Diaz Resurreccion",
-        "userImage": "https://lh3.googleusercontent.com/-VwPO1dQtl8U/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJO7rG17pRGaNOx20t8IJtwczZU_ew/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-VwPO1dQtl8U/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnGmU_gvKikcmDYe4DVldydnhBPUg/photo.jpg",
         "content": "Se podria hacer q hubiera mas de un perfil con el mismo movil. Ten a los padres de alto riesgo y como no tienen movil no los puedo a\u00f1adir. Es un sugerencia.",
         "score": 3,
         "thumbsUpCount": 0,
@@ -1112,7 +1299,7 @@
     },
     {
         "userName": "NAIARA MONTOYA GUTIERREZ",
-        "userImage": "https://lh3.googleusercontent.com/-LLnfVpfu-5Y/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJM9OPbmxsKBE-skWTLkmz4WfQIqGg/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-LLnfVpfu-5Y/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl_BgCWD7sWf5nyUenuZKRaisfakA/photo.jpg",
         "content": "No permite ver lo que has enviado como informaci\u00f3n y si quieres hacer alguna rectificacion, puede dar a equ\u00edvoco no deja anotar nada para que lo tengan en cuenta sobre los sintomas, faltan muchas cosas por introducir en la aplicaci\u00f3n es excesivamente b\u00e1sica",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1145,7 +1332,7 @@
     },
     {
         "userName": "Mikel F",
-        "userImage": "https://lh3.googleusercontent.com/-xhLAQbp0FSU/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJNEk3_xKSpJ8iGeI6UeFYj3d65cbA/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-xhLAQbp0FSU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmGmz4Q7VC0dwgkOwsAObqlzdwpTA/photo.jpg",
         "content": "La actualizaci\u00f3n ha mejorado mucho la usabilidad. El poder usar la agenda es otra gran mejora.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1156,7 +1343,7 @@
     },
     {
         "userName": "Iker L\u00f3pez",
-        "userImage": "https://lh3.googleusercontent.com/-AyJe1NpV8Tc/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJNjN0Baocijtbvt-pR0NNJJwYDPyw/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-AyJe1NpV8Tc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclUDQxDI520Xan3yFel4Mn5mSU02w/photo.jpg",
         "content": "Ahora que se puede acceder a la agenda, no me deje realizar el autotest...",
         "score": 2,
         "thumbsUpCount": 19,
@@ -1167,7 +1354,7 @@
     },
     {
         "userName": "Charo muguruza urkiola",
-        "userImage": "https://lh3.googleusercontent.com/-2ohstbGB7Uk/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJPnEWAczJgBB1PNpWFqk8fKUeflAA/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-2ohstbGB7Uk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl5yVSos6yOgBwchrW5vXn9zryhJw/photo.jpg",
         "content": "He desintalado la app, no sirve para nada",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1189,7 +1376,7 @@
     },
     {
         "userName": "Elena Redondo",
-        "userImage": "https://lh3.googleusercontent.com/-LgHz8F5k5fc/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJNIbAQNWp3wWwqO937IldQfXjGWaQ/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-LgHz8F5k5fc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmYpSsJbVvtfxnsChMROYa09r_uWA/photo.jpg",
         "content": "Tambi\u00e9n creo que le falta un segundo bot\u00f3n de confirmar el env\u00edo de datos porque el otro d\u00eda hice un env\u00edo de mi informaci\u00f3n, no me di cuenta que estaba seleccionado el apartado de dolor de garganta y como ya se envi\u00f3 ahora estoy en supuesto \"aislamiento\". Para otro d\u00eda tambi\u00e9n ya estar\u00e9 m\u00e1s atenta.",
         "score": 4,
         "thumbsUpCount": 1,
@@ -1211,7 +1398,7 @@
     },
     {
         "userName": "Jos\u00e9 Mart\u00edn Ruiz Miranda",
-        "userImage": "https://lh3.googleusercontent.com/-r_R8cSgpORU/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJPue1B2zBpFOwPSU1hynfCflI1FDw/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-r_R8cSgpORU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnMxm9LSRJrXfNG-Djpn0VDikTQBQ/photo.jpg",
         "content": "Malisima. Me pone en el peor caso posible (aislamiento total) cuando el medico de cabecera me pone sin riesgo.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1222,7 +1409,7 @@
     },
     {
         "userName": "Ismael Gallo",
-        "userImage": "https://lh3.googleusercontent.com/-5yTuOA6u9Sg/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJMTfTbY5tW-FSBf-dSyQr5ADGsXCg/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-5yTuOA6u9Sg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckIFEhpIraeXpM4x-LO9XzBaA-WDg/photo.jpg",
         "content": "Bien, pero a ver cuando nos damos cuenta de que el virus no conoce fronteras trazadas en mapas, ni autonomias ni estatutos, y si la base de datos no es comun con el resto pues no me servir\u00e1 de nada cuando vaya a Madrid o peor, a Noja!!!!. Podiamos copiar de Corea y hacer una para todos y obligatorio si te quieres mover. Espero que luego se implemente a una a nivel nacional",
         "score": 1,
         "thumbsUpCount": 20,
@@ -1244,7 +1431,7 @@
     },
     {
         "userName": "Aitor Navarro",
-        "userImage": "https://lh3.googleusercontent.com/-znN0AbHfHwQ/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJP8Tj3fe55YO04RL93ncJohj8x4Fw/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-znN0AbHfHwQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckvIPEUr8illZFlAwldi5TWRDf4hw/photo.jpg",
         "content": "\u00c1nimo con el desarrollo de esta app que puede ser muy \u00fatil en los pr\u00f3ximos meses!!!",
         "score": 5,
         "thumbsUpCount": 1,
@@ -1255,7 +1442,7 @@
     },
     {
         "userName": "Ane",
-        "userImage": "https://lh3.googleusercontent.com/--oU81LCKQEQ/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJMx46aOpmyauVCpcyDuyixvW-DAww/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/--oU81LCKQEQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmJR7Jgtg84XSpAS7d7JfPuVHY90Q/photo.jpg",
         "content": "La aplicaci\u00f3n requiere iOS 13, por lo que en iPhone 6 no se puede descargar...Gente que se queda fuera del sondeo.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1299,7 +1486,7 @@
     },
     {
         "userName": "Alejandro Ormazabal",
-        "userImage": "https://lh3.googleusercontent.com/-Myhen-mSRV4/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJNSSOBhfEGwBth-t803wdn-hy5Atw/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-Myhen-mSRV4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn5iXXt_tLNGONAUV_OqrfaXd7Fyw/photo.jpg",
         "content": "Llega a tiempo y puede facilitar que nos vayamos reincorporando de manera ordenada minimizando riesgos colectivos. Me apunto!",
         "score": 5,
         "thumbsUpCount": 1,
@@ -1332,7 +1519,7 @@
     },
     {
         "userName": "Ander Martin Gila",
-        "userImage": "https://lh3.googleusercontent.com/-ufb0fNqW3Iw/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJMULCHxoEzxzNzuPEjW5lVv8AnXZw/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-ufb0fNqW3Iw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmoaDLDo8g_Tz9diPbikTnOzPgNVw/photo.jpg",
         "content": "Me instala pero al intentar abrir dice Covid-19.eus se ha detenido Y no abre no se porque",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1343,7 +1530,7 @@
     },
     {
         "userName": "elena eguia",
-        "userImage": "https://lh3.googleusercontent.com/-Ls79QB35Muc/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJPq6CKj1wtq1dvA276LAilp2NB0aA/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-Ls79QB35Muc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmqIWVfdgweYg-g2Qrqz7EF_52QqA/photo.jpg",
         "content": "Muy \u00fatil e interesante",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1365,7 +1552,7 @@
     },
     {
         "userName": "Jose Antonio Murga",
-        "userImage": "https://lh3.googleusercontent.com/---hwObkL9kc/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJOMYFrtGE17oRhNVPekYAtc_FcwNA/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/---hwObkL9kc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckojcklu592lTu3r7WPqfScICHa-A/photo.jpg",
         "content": "Para legos, como yo, no es....",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1376,7 +1563,7 @@
     },
     {
         "userName": "Carolina f",
-        "userImage": "https://lh3.googleusercontent.com/-9dyqhWMzdAI/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJNHx_m8X01286J8tH_XPV24FpveMA/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-9dyqhWMzdAI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm1v9yma1dmHAE27dOVCFOfpDeePg/photo.jpg",
         "content": "La intenci\u00f3n es buena..... pero no, simple, si pones solo que te duele la cabeza dice que ya tienes s\u00edntomas. No le veo mucha utilidad. Se nota que est\u00e1 hecho r\u00e1pido y corriendo.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1398,7 +1585,7 @@
     },
     {
         "userName": "capo smini",
-        "userImage": "https://lh3.googleusercontent.com/-cJGVpmmqnIA/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJPNUOHEwQaXlXm_O6MUFRx8V8QDAg/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-cJGVpmmqnIA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckpuE6o5KnhkOptDRO1T4nGFhbFag/photo.jpg",
         "content": "Por poner que tienes tos ya te dicen que tienes coronavirus jajaj y te dicen que te mantengas solo en la habiatcion y a distancia de la gente seguro mente me rompo la pierna o algo y me dicen que es por coronavirus deberias aislarte ahora mismo ya no existe ni resfriado ni gripe ni nada toses tienes coronavirus los medicos ya no tienen ni idea te diagnostican por diagnosticar",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1420,7 +1607,7 @@
     },
     {
         "userName": "loay el maazouz",
-        "userImage": "https://lh3.googleusercontent.com/-hl3QqdJneeU/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJNVAmuqNYamuFgwEUlMpO8F3b1Nig/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-hl3QqdJneeU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnDGU91PJBFQKK9tVkHFqBuviGiNA/photo.jpg",
         "content": "Quiero saber c\u00f3mo funciona. Porque s\u00f3lo me sale una pantalla en blanco nada m\u00e1s es mejor que hag\u00e1is un v\u00eddeo para explicar a la gente como funciona",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1431,7 +1618,7 @@
     },
     {
         "userName": "Antxon Urtiaga",
-        "userImage": "https://lh3.googleusercontent.com/-2lpBCStJ4W0/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJP0vp6e75W9enqAvg1MFos9ygKCsQ/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-2lpBCStJ4W0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckw1Dn1nsi0LJdDQ6NhaBMs3LSrcw/photo.jpg",
         "content": "He perdido la contrase\u00f1a gracias. Le pongo la contrase\u00f1a y pone que falta alg\u00fan dato",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1475,7 +1662,7 @@
     },
     {
         "userName": "Carmen P\u00e9rez Calleja",
-        "userImage": "https://lh3.googleusercontent.com/-EvcTbOA44y4/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJNp5i5Fkq-8f5vruXfSrkNvPMgA_A/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-EvcTbOA44y4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckizWgFMbgvFsnTzcLm9I2tiSSztA/photo.jpg",
         "content": "La instalo para android pero s\u00f3lo se abre y se cierra",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1486,7 +1673,7 @@
     },
     {
         "userName": "Zaira Muga",
-        "userImage": "https://lh3.googleusercontent.com/-7hikngOFjyY/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJMe3gyb8Lw8wmd-A9mlp_nYhVZuDA/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-7hikngOFjyY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmZ859u0jr7A2g5oC7qnUwYXp5JuA/photo.jpg",
         "content": "Intento poner que estoy en cuarentena dado que estoy de baja m\u00e9dica por ello y no deja. Te hace preguntas sobre como estas hoy. Yo hay sintomas que ya he superado pero sigo enferma. Me parece absurda una app que no deje poner estado inicial. Como ya no tengo fiebre ya no puedo contagiar y estoy bien como me dice la app? Entonces porque sigo mal? O modifican eso de la app o no creo que sirva de nada sinceramente.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1529,8 +1716,8 @@
         "repliedAt": null
     },
     {
-        "userName": "Mar\u00eda Gal\u00edndez",
-        "userImage": "https://lh3.googleusercontent.com/-u_6jdm5MOZQ/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJPC2zGp7KKwoZ5YGqoeH6eXkvwsIw/photo.jpg",
+        "userName": "El Rinc\u00f3n de Kosko",
+        "userImage": "https://lh3.googleusercontent.com/-u_6jdm5MOZQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnwCkUlkZxlGX4gbYBg2uVkVCuovg/photo.jpg",
         "content": "La he instalado por segunda vez y al darle a abrir me pone que se ha detenido. Ni siquiera me deja entrar",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1541,7 +1728,7 @@
     },
     {
         "userName": "Andoni Hurtado",
-        "userImage": "https://lh3.googleusercontent.com/-8AfIzjGkr1o/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJOaF06P0YF6II-2v1JYUsKlWd7MEA/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-8AfIzjGkr1o/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclGX2eemY7mz---MFYB72JGLKRjvQ/photo.jpg",
         "content": "No puedo acceder, hay que registrarse en alg\u00fan sitio a parte de \u00e9l N\u00b0 M\u00d3VIL Y EL C\u00d3DIGO POSTAL",
         "score": 2,
         "thumbsUpCount": 0,
@@ -1552,7 +1739,7 @@
     },
     {
         "userName": "Jorge A",
-        "userImage": "https://lh3.googleusercontent.com/-eDxVXjEY-Mg/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJO3I7D5xgMJIcQqhiXBS3QDjFC9Kw/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-eDxVXjEY-Mg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckMKMh4eC0TheKeXgjKOPp2oiSTZQ/photo.jpg",
         "content": "La app no es funcional. No es m\u00e1s que propaganda del GV, la publicitaban y no estaba disponible y ahora que est\u00e1 disponible no funciona.",
         "score": 1,
         "thumbsUpCount": 1,
@@ -1585,7 +1772,7 @@
     },
     {
         "userName": "Victoria Blanco",
-        "userImage": "https://lh3.googleusercontent.com/-XmzHGJffeOM/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJNqlrhIQnwsRModH3XW2R1XeDAXpg/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-XmzHGJffeOM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclzRawbWtZvJIMx34vKCnIX8hPRcg/photo.jpg",
         "content": "Una aplicaci\u00f3n \u00fatil para controlar esta pandemia.",
         "score": 5,
         "thumbsUpCount": 1,
@@ -1596,7 +1783,7 @@
     },
     {
         "userName": "Jose TAMAYO",
-        "userImage": "https://lh3.googleusercontent.com/-By7oNuwDVMA/AAAAAAAAAAI/AAAAAAAAATE/AAKWJJN3wIrGIjLhIssQVBqUMiuNlZjT9A/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-By7oNuwDVMA/AAAAAAAAAAI/AAAAAAAAATE/AMZuucnoSIt33638QtdqyRJ5pv_cy-sxIw/photo.jpg",
         "content": "Le doy una estrella porque no se puede dar 0, peor no lo han podido hacer, adem\u00e1s como viene siendo habitual, muy tarde",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1607,7 +1794,7 @@
     },
     {
         "userName": "Ana Castroviejo",
-        "userImage": "https://lh3.googleusercontent.com/-Qx8sZu5KQgs/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJOnU678Fl1rQkrcbLxFCELZ2wEa7g/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-Qx8sZu5KQgs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmTTTmFulcsxrP97goIGIX5wXoc6w/photo.jpg",
         "content": "Mejorable, aunque entiendo que lo importante es lanzarla y seguir puli\u00e9ndola d\u00eda a d\u00eda. Sugerencia: poder dar de alta miembros de unidad familiar k no tienen movil: hijos, abuelos...que permita a\u00f1adir desde un mismo m\u00f3vil m\u00e1s miembros de la unidad familiar",
         "score": 2,
         "thumbsUpCount": 0,
@@ -1618,7 +1805,7 @@
     },
     {
         "userName": "Jorge Ferrer",
-        "userImage": "https://lh3.googleusercontent.com/-Iq7vwYhH0ss/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJMUDCwoAttulO3rXZoNI5qgjZ04fw/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-Iq7vwYhH0ss/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck0lvtUTP0jSMv6OzIv9eI5aOMopg/photo.jpg",
         "content": "Tarde y mal....menudo desastre. Tengo la sensaci\u00f3n que esta app sirve para poder decir eso, que se ha desarrollado una app.",
         "score": 1,
         "thumbsUpCount": 3,
@@ -1629,7 +1816,7 @@
     },
     {
         "userName": "Javier Igartua",
-        "userImage": "https://lh3.googleusercontent.com/-G1iJdcEGpzE/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJNKfy5O2NK8kVwmGD6Joa6DA1c_rg/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-G1iJdcEGpzE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnvyMqkeLaSoQx--FkQiV--q1tXuA/photo.jpg",
         "content": "Nada intuitiva. Las explicaciones en euskera son poco claras. No es nada evidente la forma de incluir contactos.",
         "score": 1,
         "thumbsUpCount": 2,
@@ -1651,7 +1838,7 @@
     },
     {
         "userName": "David San Miguel Dominguez",
-        "userImage": "https://lh3.googleusercontent.com/-lbliXseaPM4/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJNcjb878MTMXNqhNirvX6MnyNHgtA/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-lbliXseaPM4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnNWnsDNHtOGbZvuLjGbV11vUOoDw/photo.jpg",
         "content": "Dif\u00edcil de entender incluso para los que estamos acostumbrados a las tecnolog\u00edas, sobre todo para configurar inicialmente. Las personas mayores no disponen de tel\u00e9fonos para instalar la aplicaci\u00f3n en muchos casos.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1665,7 +1852,7 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gg5eF7zdUCSE4tE20toFCPxt6nqje6wIizRTemOChs",
         "content": "Demasiado simple. No funciona en todos los m\u00f3viles: En el m\u00edo (Android 8) va bien, pero a mi mujer (Android 6) no le arranca, avisando de que la app \"se ha detenido\" Ambos terminales son SAMSUNG Deber\u00eda ser compatible desde versiones Android 4, por lo menos. No tod@s podemos cambiar de m\u00f3vil cada 2 a\u00f1os, para estar \"a la \u00faltima\". Y si no, al menos, informar sobre las versiones realmente compatibles.",
         "score": 2,
-        "thumbsUpCount": 23,
+        "thumbsUpCount": 25,
         "reviewCreatedVersion": "1.0",
         "at": "2020-03-30 16:24:15",
         "replyContent": null,
@@ -1673,7 +1860,7 @@
     },
     {
         "userName": "Alfonso Pascual Etxebarria",
-        "userImage": "https://lh3.googleusercontent.com/-aA11MXtwycE/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJN6mQJAs2qTzbmgRQ_-rsVrUBBTMQ/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-aA11MXtwycE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnCTjZjdZ0_18FB1MF4JvI4GfiY4w/photo.jpg",
         "content": "No funciona. No se abre. No he cobseguido entrar.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1695,7 +1882,7 @@
     },
     {
         "userName": "leticia iglesias",
-        "userImage": "https://lh3.googleusercontent.com/-dak746FDj-w/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJPCmsl7RXderZoiqexWZ1wd3wguUA/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-dak746FDj-w/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmhuECLBcQWCU1X2mYfeWott7CJFw/photo.jpg",
         "content": "No funciona",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1717,7 +1904,7 @@
     },
     {
         "userName": "I\u00f1aki Garcia",
-        "userImage": "https://lh3.googleusercontent.com/-EluRXGx_O_M/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJMEU4GL49G7gN2cv1kiphLPMkYCuQ/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-EluRXGx_O_M/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnq8ARlWrQiO_AHUqg0HHx5iq1S4g/photo.jpg",
         "content": "No funciona nada",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1739,7 +1926,7 @@
     },
     {
         "userName": "Jose Mendez",
-        "userImage": "https://lh3.googleusercontent.com/-vzGKB5bwN0o/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJOHwC--hsftT33Te4bz9miU0FTg-A/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-vzGKB5bwN0o/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnvNDMdVgbe5ecEBBzAQ8hLqnRTMA/photo.jpg",
         "content": "La app no permite meter miembros de una misma familia que no tenga m\u00f3vil (ni\u00f1os, ancianos). Creo que con esta opci\u00f3n se tendr\u00eda a\u00fan m\u00e1s control.",
         "score": 3,
         "thumbsUpCount": 0,
@@ -1750,7 +1937,7 @@
     },
     {
         "userName": "Ivan Gutierrez",
-        "userImage": "https://lh3.googleusercontent.com/-1UmzT06BVDw/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJMqRjPpYSTnAAu3I1b7floHZx4mMg/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-1UmzT06BVDw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnSYqZlyeTBR1ry0vtzclBhhQS42w/photo.jpg",
         "content": "Instalada, pero no me permite abrirla, se cierra sin m\u00e1s.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1761,7 +1948,7 @@
     },
     {
         "userName": "Carlos Osa",
-        "userImage": "https://lh3.googleusercontent.com/-D7dYVWtor6o/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJOK2aw_fsGGAlvcmFa4H7PRT_f1Gw/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-D7dYVWtor6o/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn2_ESDstVEL651BUTMIAPcPT5mZQ/photo.jpg",
         "content": "Da un error y se cierra",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1772,7 +1959,7 @@
     },
     {
         "userName": "Susana Marin",
-        "userImage": "https://lh3.googleusercontent.com/-li1qKvoW5L0/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJOQ2V2uGGT0ZzQ7ZuRSKmIwSKlY9A/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-li1qKvoW5L0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnOY26u_JNRv7FyNi0r-O0NLIKspA/photo.jpg",
         "content": "No puedo abrirla La desinstalo",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1805,7 +1992,7 @@
     },
     {
         "userName": "maiteaparicio Aparicio",
-        "userImage": "https://lh3.googleusercontent.com/-CJMmwOx7SLM/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJMTqHvCiErXRax5DB8oc4sQsw8c6w/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-CJMmwOx7SLM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmX5as3OKhPxC8ubC3kyQtLKm8XkQ/photo.jpg",
         "content": "Mala no reconoce el codigo",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1827,7 +2014,7 @@
     },
     {
         "userName": "Maider Ramirez",
-        "userImage": "https://lh3.googleusercontent.com/-CmOdiMFWAFo/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJNM7CEdnn6Q68LkcDGTp4RpbCoDUQ/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-CmOdiMFWAFo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm4z4n1bRe88OPb2amTMr8fpfPqmw/photo.jpg",
         "content": "No me funciona, me da un error",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1837,19 +2024,8 @@
         "repliedAt": null
     },
     {
-        "userName": "Rafa fa",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjKSKToNyKhuZ6VVh-20UsvcevIpUC73yLk2asuNw",
-        "content": "c\u00f3mo le digo a la app que estoy en cuarentena?",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.0",
-        "at": "2020-03-30 11:46:32",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
         "userName": "kontxi ugarte",
-        "userImage": "https://lh3.googleusercontent.com/-dOXY4qAwbAc/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJM6BP3xMpqf9uc_TOqmhKvCBM593g/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-dOXY4qAwbAc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclHpMjF2-c8gXcEMTpLhID8pSof2g/photo.jpg",
         "content": "No consigo nada, los c\u00edrculos no deja marcar",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1860,7 +2036,7 @@
     },
     {
         "userName": "Elixabete Uriarte Ormaeche",
-        "userImage": "https://lh3.googleusercontent.com/-vXaGDGd6gtk/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJPjxWXGA3UBkZw0ipcGN6Z-ASUlfw/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-vXaGDGd6gtk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnCUfoLCNJPRa_nLsttGwhvs9qamQ/photo.jpg",
         "content": "No se sabe si funciona, \u00bfQue es eso de c\u00edrculos?\u00bf d\u00f3nde? \u00bffuncionan?...por m\u00e1s c\u00edrculos que hago nada.y est\u00e1 es una aplicaci\u00f3n que funciona bien o no funciona en absoluto. Todo o nada.",
         "score": 2,
         "thumbsUpCount": 0,
@@ -1882,7 +2058,7 @@
     },
     {
         "userName": "Ignacio Isusi",
-        "userImage": "https://lh3.googleusercontent.com/-0iexH9VwxtI/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJOiJH3473TQGB9AEbGXGnFXpRtubw/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-0iexH9VwxtI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnq8egSQVVSKGkyTKeZnpd167rSUA/photo.jpg",
         "content": "En casa quiero introducir a mi mujer y logicamente doy mi telefono movil porque ella no tiene y no me deja ya que el telefono ya esta registrado",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1904,7 +2080,7 @@
     },
     {
         "userName": "Bego\u00f1a Vilasuso",
-        "userImage": "https://lh3.googleusercontent.com/-Yv4pn2JNmj8/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJNyhNBLHM8e8DddTyt_DufAqALMSw/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-Yv4pn2JNmj8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckEPEER5QUlZdZ8meznzf0ZnHzA-w/photo.jpg",
         "content": "No me funciona",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1915,7 +2091,7 @@
     },
     {
         "userName": "Kepa Castro",
-        "userImage": "https://lh3.googleusercontent.com/-jSW3u2vZCnA/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJMnecyBxjm2llejQQ1nPEv0dvkzoA/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-jSW3u2vZCnA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmWpOGMNRSfmpYb4XqoEE84Sm80lw/photo.jpg",
         "content": "Muchas de las funcionalidades no funcionan. Veo los links a lis informes de jaularitza, hago click y no se abren los pdf. Los c\u00edrculos no se ven.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1926,7 +2102,7 @@
     },
     {
         "userName": "Aitor Iba\u00f1ez",
-        "userImage": "https://lh3.googleusercontent.com/-CyPxPld0iDM/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJOikYUFERTVQ_YlS6AN_HXMEwi1OA/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-CyPxPld0iDM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnWsOJp0QcNQJa0DpfkKja-TF8aEQ/photo.jpg",
         "content": "No se abre, da error",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1937,7 +2113,7 @@
     },
     {
         "userName": "G V",
-        "userImage": "https://lh3.googleusercontent.com/-wLHNk0aQgl0/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJNbwzWWT96XOxFjAbdp4-CZlwFxmA/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-wLHNk0aQgl0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucklqL5vKvmQhAwAG32QHvddbJDCyQ/photo.jpg",
         "content": "Se deber\u00eda poder acceder a la agenda, y como local con el mismo n\u00famero de tel\u00e9fono agregar a gente de tu casa que no disponen de tel\u00e9fono multimedia, bien sean menores, discapacitados o gente mayor, que no saben o no pueden utilizar este tipo de app. La idea es buena y tiene que ir mejorando mucho para las casu\u00edsticas existentes.",
         "score": 3,
         "thumbsUpCount": 1,
@@ -1959,7 +2135,7 @@
     },
     {
         "userName": "Ra\u00fal Torrego",
-        "userImage": "https://lh3.googleusercontent.com/-i3dWfgkH0Sw/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJOUrN1jGJQrWnzKffGwcJT5PZx-0Q/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-i3dWfgkH0Sw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnY3xEWKe006Flw6Gv0GxzxqAqI7A/photo.jpg",
         "content": "Error al enviar autodiagnostico. Muy poco intuitiva. A\u00f1ado tel\u00e9fonos y no salen en la lista \u00bfS\u00f3lo salen cuando la otra persona instala la aplicaci\u00f3n? Si es as\u00ed se deber\u00eda cambiar; que salga y se indique \"sin aplicaci\u00f3n\"",
         "score": 1,
         "thumbsUpCount": 2,
@@ -1981,7 +2157,7 @@
     },
     {
         "userName": "mikel Roman",
-        "userImage": "https://lh3.googleusercontent.com/-jXh46fv6VZc/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJMBFCOkzanyn8vD1wuxgIqjMDJixw/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-jXh46fv6VZc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclnJ6Iehg_Lo-fSxPL774vgZxyF_g/photo.jpg",
         "content": "Tiene que tener la opci\u00f3n de agregar contactos de tu agenda de contactos, sino no tiene gran utilidad",
         "score": 3,
         "thumbsUpCount": 1,
@@ -1992,7 +2168,7 @@
     },
     {
         "userName": "Estibaliz De Val",
-        "userImage": "https://lh3.googleusercontent.com/-e_VFzyzaxuA/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJNzh79z1nl2jDhlkU-RsbI7-OMpIQ/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-e_VFzyzaxuA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclUUeI6NaYag6cxDy5MXnquXaSmhg/photo.jpg",
         "content": "No se puede consultar las preguntas frecuentes en recomendaciones, y tampoco el mapa interactivo.",
         "score": 2,
         "thumbsUpCount": 1,
@@ -2014,7 +2190,7 @@
     },
     {
         "userName": "Susana Ruiz de Azua",
-        "userImage": "https://lh3.googleusercontent.com/-QNRDvE_oFgc/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJPV2iMpfc1bFTQxPygySUOZ--wcxA/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-QNRDvE_oFgc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm0WHuDQ1VN_JyiVN6kAceLBCZHMQ/photo.jpg",
         "content": "En mi m\u00f3vil Android no funciona, es decir, no se abre.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -2025,7 +2201,7 @@
     },
     {
         "userName": "jonjosu zarraga",
-        "userImage": "https://lh3.googleusercontent.com/-pb8pTBmdKhs/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJNfQFP3Mf690tZ6rf9FZ40_TzH0CQ/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-pb8pTBmdKhs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckhlMh7mTzKOdQSr_8MyYPqq_73fQ/photo.jpg",
         "content": "Relajante. Impersonal.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -2080,7 +2256,7 @@
     },
     {
         "userName": "Josu Josu",
-        "userImage": "https://lh3.googleusercontent.com/-gvEs95fT77w/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJMCLC4uAvntTGkwkD4qKjniKdqKhw/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-gvEs95fT77w/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnqNYzbDj966RkZi6FGfGc8le9zUg/photo.jpg",
         "content": "Buena idea, pero los comercios deber\u00edan tener un c\u00f3digo identificativo q tengan en la tienda visible para poder a\u00f1adirlo al c\u00edrculo. Estando en cuarentena la mayor\u00eda de contactos de riesgo es al comprar... Y no vas a andar pidiendo el tel\u00e9fono a todos los de Eroski o a mi panadera.",
         "score": 4,
         "thumbsUpCount": 2,
@@ -2146,7 +2322,7 @@
     },
     {
         "userName": "Patxi RB",
-        "userImage": "https://lh3.googleusercontent.com/-8cDAdqoOrCA/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJOkLkPfs7S5ZxIpWTdBzy401rxs9A/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-8cDAdqoOrCA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnysf2oLpnpRjtJs0U12zofcs4uvw/photo.jpg",
         "content": "Toma control de TODO. C\u00e1mara, almacenamiento... Entiendo que pida acceso al GPS pero todos los dem\u00e1s permisos \u00bfPara qu\u00e9?",
         "score": 1,
         "thumbsUpCount": 0,
@@ -2168,7 +2344,7 @@
     },
     {
         "userName": "Ramon Mejias",
-        "userImage": "https://lh3.googleusercontent.com/-t4inU9jkz7s/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJO9Me30Ipm76O54rUjAojX4q31OnQ/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-t4inU9jkz7s/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckWHjZIzWyQb8H7wvBIeeDkLrxEmA/photo.jpg",
         "content": "Poco intuitiva. Estar\u00eda bien q la propia aplicaci\u00f3n fuese capaz de tener acceso a la lista de contactos para una mayor facilidad a la hora de enviar solicitudes. Mayor difusi\u00f3n a la propia sociedad para una descarga masiva. Si no, no va a tener utilidad. Seguir trabajando en ella, es una gran idea y arma contra los posibles contagios. \ud83d\udcaa",
         "score": 1,
         "thumbsUpCount": 6,
@@ -2209,17 +2385,6 @@
         "at": "2020-03-29 14:16:18",
         "replyContent": "Env\u00eda por favor un correo a esta direcci\u00f3n: COVID19.APP@osakidetza.eus, indicando el detalle del problema y lo revisamos. Muchas gracias",
         "repliedAt": "2020-03-29 17:39:42"
-    },
-    {
-        "userName": "Blanca Azkoitia Goiri",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgXeP4huXGLctYxJubfOWnPxjmAuxKZ2BwZ7Jmd_Ho",
-        "content": "Imposible actualizar. No se,porque han dado la noticia, a bombo y platillo,si es imposible actualizar.",
-        "score": 1,
-        "thumbsUpCount": 2,
-        "reviewCreatedVersion": "1.0",
-        "at": "2020-03-29 14:01:09",
-        "replyContent": "Env\u00eda por favor un correo a esta direcci\u00f3n: COVID19.APP@osakidetza.eus, indicando el detalle del problema y lo revisamos. Muchas gracias",
-        "repliedAt": "2020-03-29 17:40:07"
     },
     {
         "userName": "Xabat Santamaria",
@@ -2387,17 +2552,6 @@
         "repliedAt": "2020-03-29 17:59:21"
     },
     {
-        "userName": "Ana Pastor Sousa",
-        "userImage": "https://lh3.googleusercontent.com/-IkjMbmsKYxQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnYHiv066ql1uqIOn0tjQaYuiIYAQ/photo.jpg",
-        "content": "La he instalado pero falla al abrir. Se detiene.",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.0",
-        "at": "2020-03-29 09:00:10",
-        "replyContent": "Env\u00eda por favor un correo a esta direcci\u00f3n: COVID19.APP@osakidetza.eus, indicando el detalle del problema y lo revisaremos. Muchas gracias",
-        "repliedAt": "2020-03-29 18:00:46"
-    },
-    {
         "userName": "Kos tan",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhQMz5WpO3xLDAQ9uOQqyKQfc0XdEY35XVmuscYkw",
         "content": "No deja hacer circulos. Los telefonos hay que meter a a mano, y luego nl se ve la red hecha. Como siempre la casa por la ventana, haceis una propaganda del copon de la APP y luego todo a medias o no funciona. PnV stile.. Dinero de los contribuyentes a la basura. La APP nl es intuitiva y hay muchas \u00f1ersinas mayores que no saben como se usa. La APP decis que esta en android market y no lo esta para su descarga. Resumiendo, un desastre de aplicaci\u00f3n .",
@@ -2501,7 +2655,7 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjU8Wq6Leqmp1GsEcFoNVZlibEHKMfVxWSKROfhFQ",
         "content": "Buena idea pero por el momento es muy poco intuitiva. No permite indicar, por ejemplo, si estas en contacto frecuente con personas sin m\u00f3vil, como ni\u00f1os u otros dependientes o si llevas ya mucho tiempo de cuarentena. A\u00f1adir la pregunta de ultima vez que has salido de casa podr\u00eda ser muy \u00fatil.",
         "score": 3,
-        "thumbsUpCount": 4,
+        "thumbsUpCount": 5,
         "reviewCreatedVersion": "1.0",
         "at": "2020-03-28 23:26:29",
         "replyContent": "Muchas gracias por las sugerencias, lo revisaremos.",
@@ -2814,17 +2968,6 @@
         "at": "2020-03-28 19:33:24",
         "replyContent": "Env\u00eda por favor un correo a esta direcci\u00f3n: COVID19.APP@osakidetza.eus, indicando el detalle del problema y lo revisaremos. Muchas gracias",
         "repliedAt": "2020-03-29 18:38:41"
-    },
-    {
-        "userName": "I\u00f1aki Ausan",
-        "userImage": "https://lh3.googleusercontent.com/-xz20IsrCWbk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck4QybdwtfDRy4wWSuqhxPYY0myHQ/photo.jpg",
-        "content": "Le pongo 4 estrellas por la idea, pero la app est\u00e1 pensada con los pies. Estimados desarrolladores, por favor, intenten hacer un poco m\u00e1s intuitiva la app y habiliten la opci\u00f3n de consultar la agenda de contactos para introducir los n\u00fameros de tel\u00e9fono. Si no, la app se quedar\u00e1 sencillamente en una buena idea, pero de aplicaci\u00f3n in\u00fatil.",
-        "score": 4,
-        "thumbsUpCount": 6,
-        "reviewCreatedVersion": "1.0",
-        "at": "2020-03-28 19:31:57",
-        "replyContent": "Se va a incorporar en breve el acceso a la lista de contactos.Muchas gracias por las sugerencia.",
-        "repliedAt": "2020-03-29 18:38:06"
     },
     {
         "userName": "Maria Pilar Lazcanotegui",

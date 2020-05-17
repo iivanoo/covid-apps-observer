@@ -131,6 +131,8 @@ The COVID-19 app has been installed by more than **50000** times. At this time, 
 <img src="5_star_reviews_wordcloud.png" alt="de.bssd.covid19 5 reviews"/>
 </p>
 
+> Eine sehr gute app Spitze<br> :date: __2020-05-16 11:21:07__
+
 > Fünf Mal berwet<br> :date: __2020-05-04 16:16:30__
 
 > Ich würde gerne die App nutzen kann mich leider nicht anmelden<br> :date: __2020-04-28 04:16:15__
@@ -148,8 +150,6 @@ The COVID-19 app has been installed by more than **50000** times. At this time, 
 > Wichtig!!! Richtig!!!! Innovativ und möglichst hilfreich! Aber der Erfolg dieser Apps sind nur Retropresktive Aussagekräftig<br> :date: __2020-04-15 13:56:46__
 
 > Ich finde diese App sehr gut. 🙂...<br> :date: __2020-04-13 13:14:41__
-
-> 💟<br> :date: __2020-04-12 05:21:02__
 
 
 
@@ -203,6 +203,8 @@ The COVID-19 app has been installed by more than **50000** times. At this time, 
 <img src="2_star_reviews_wordcloud.png" alt="de.bssd.covid19 2 reviews"/>
 </p>
 
+> Die app ist blöd weil man sich registrieren muss und ich habe keine Handy Nummer<br> :date: __2020-05-15 19:55:38__
+
 > Also aktuell warte ich auf mein ergebnis und komme seit heute morgen gar nicht mehr im die app. Error, server, überprüfen Sie ihren benutzernamen. Hab ja nur nen code. Also leute, wenn ihr schon ne app raus bringt, dann solltest ihr die auch regelmäßig abdaten. Sowas geht gar nicht. Wir medizinisches personal sind an forderster front und sollten schon wissen, was für ergebnisse wir haben.<br> :date: __2020-05-09 17:50:57__
 
 > Ich hasse das Anmelden. Wird Deinstalliert<br> :date: __2020-04-30 14:52:09__
@@ -223,6 +225,14 @@ The COVID-19 app has been installed by more than **50000** times. At this time, 
 <img src="1_star_reviews_wordcloud.png" alt="de.bssd.covid19 1 reviews"/>
 </p>
 
+> Die 1 Sterne Bewertungen sind wahr. Die App ist Schmutz! Liest man sich positive Bewertungen durch, erkennt man sofort die sind gekauft da Sie inhaltlich gleich aber die Gramatik... naja lest selbst hab alles gespeichert in Bildform und an Google weitergeleitet.<br> :date: __2020-05-13 10:37:47__
+
+> Das Ergebnis wird immernoch nicht angezeigt, obwohl ich es telefonisch schon längst erfahren habe. Somit sinnlos.<br> :date: __2020-05-12 21:18:22__
+
+> Für mein Begriff zu kompliziert<br> :date: __2020-05-12 19:13:43__
+
+> Schlecht<br> :date: __2020-05-10 19:00:20__
+
 > Die klauen nur Daten,glaube ich<br> :date: __2020-05-09 15:14:50__
 
 > Das Scannen funktioniert nicht und mit der ID-Nummer kommt man auch nicht rein um das Ergebnis abzufragen. Das ganze ist keine schlechte Idee wenn es klappen würde. Somit ist die App Schrott und habe es wieder deinstalliert.<br> :date: __2020-05-07 10:49:40__
@@ -234,13 +244,5 @@ The COVID-19 app has been installed by more than **50000** times. At this time, 
 > App ist schlecht. Scanner hängt sich nach kurzer Zeit auf. Ergebnis wird auch nach 4 Tagen nicht angezeigt. Die Idee einer Corona-Test-App ist gut, aber dann sollte sie auch funktionieren. Diese App sollte dringend überarbeitet werden.<br> :date: __2020-05-03 11:44:58__
 
 > Sinnlos und eine App die Daten Sammeln möchte.<br> :date: __2020-05-03 05:43:01__
-
-> Ich finde das nicht nicht toll. Weil das Geld kokost. Nicht jeder kann das leichen<br> :date: __2020-05-03 00:04:43__
-
-> Sehr schlechte App, scannen von barcode ist eine zumutung. Mein Ergebnis hat es nicht angezeigt, obwohl ich es schon telefonisch bekam. Ich würde den Entwicklern dieser App eine Neuentwicklung empfehlen.<br> :date: __2020-05-01 09:18:06__
-
-> Bei mir steht covid 19 wurde beendet<br> :date: __2020-04-29 20:46:04__
-
-> Wurde heute getestet aber kein QR Code erhalten. Somit kann ich leider diese App nicht testen 🤷‍♀️<br> :date: __2020-04-27 19:04:46__
 
 

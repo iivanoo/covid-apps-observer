@@ -140,6 +140,10 @@ The RIVM LCI-richtlijnen app has been installed by more than **50000** times. At
 <img src="5_star_reviews_wordcloud.png" alt="nl.rivm.lciapp 5 reviews"/>
 </p>
 
+> Handig die richrlijnen<br> :date: __2020-05-13 18:57:39__
+
+> Goed<br> :date: __2020-05-11 10:03:41__
+
 > BLIJF. ANDERHALVE .METER . AFSTAND HOUDEN/ PLEASE KEEP 1,5M DISTANCE AT ALL TIMES , otherwise YOU CAN GET FINED €290,--!!!!!!<br> :date: __2020-05-05 22:02:40__
 
 > Super mooi.werk prima.<br> :date: __2020-04-30 13:56:43__
@@ -155,10 +159,6 @@ The RIVM LCI-richtlijnen app has been installed by more than **50000** times. At
 > Helemaal top!!!<br> :date: __2020-04-09 11:36:44__
 
 > Prima App met veel informatie<br> :date: __2020-04-08 10:15:50__
-
-> Erg veel informatie interessante telefoon nummers, info over allerlei ziektes, en wat jij nog meer zou willen weten over corona staat hier in. direct downloaden. Blijf gezond en houd je aan de regels.<br> :date: __2020-04-05 14:12:57__
-
-> Veel info<br> :date: __2020-04-05 04:30:22__
 
 
 

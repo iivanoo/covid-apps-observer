@@ -169,6 +169,10 @@ The CDC app has been installed by more than **100000** times. At this time, **11
 <img src="5_star_reviews_wordcloud.png" alt="gov.cdc.general 5 reviews"/>
 </p>
 
+> Good<br> :date: __2020-05-15 14:40:09__
+
+> OBVIOUSLY this is DEFINITELY AN AMAZING APP AVAILABLE ON MOBILE DEVICES ESPECIALLY DURING THIS WORLD SPREAD EXTREMELY DEADLY PANDEMIC THAT NOT ONLY JUST HERE IN AMERICA, BUT ALL OVER THE ENTIRE WORLD THE DEATH TOLLS HAVE ALREADY FAR SURPASSED THE HUNDREDS OF THOUSANDS ALREADY CONFIRMED DEATHS AND EVEN WORSE, IT IS NOT GOING TO DO ANYTHING OTHER THAN WORSEN WORLDWIDE , HIGHEST IN AMERICA ONLY CAN IMPROVE BY CONTINUING 2 SELF QUARANTINE<br> :date: __2020-05-12 11:32:13__
+
 > Awesome 👍👍👍<br> :date: __2020-05-07 05:35:52__
 
 > government for me mean everything that means CDC is a nice company yeah they're working really nice the highest voice control sync, external complete is you want to get in touch with something like business you could you should use this you get more information about how it works for me work nice you should try to<br> :date: __2020-05-07 01:38:57__
@@ -185,10 +189,6 @@ The CDC app has been installed by more than **100000** times. At this time, **11
 
 > Thank you<br> :date: __2020-05-03 23:05:46__
 
-> I like it I think<br> :date: __2020-05-03 01:16:28__
-
-> Wow I love it you can't get information about all gov information<br> :date: __2020-05-02 05:58:31__
-
 
 
 #### 4-star reviews
@@ -196,6 +196,8 @@ The CDC app has been installed by more than **100000** times. At this time, **11
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="gov.cdc.general 4 reviews"/>
 </p>
+
+> It's OK. Notjing to brag about. Haven't used it that much really.<br> :date: __2020-05-15 06:06:05__
 
 > Very little data a available.<br> :date: __2020-05-08 15:45:49__
 
@@ -215,8 +217,6 @@ The CDC app has been installed by more than **100000** times. At this time, **11
 
 > Fine. Does what it's supposed to do. Keep me informed on the latest situations.<br> :date: __2020-04-14 04:22:52__
 
-> very good, lots of good info, that's needed at this time in steed of listing to rumors floating around<br> :date: __2020-04-10 00:35:55__
-
 
 
 #### 3-star reviews
@@ -224,6 +224,8 @@ The CDC app has been installed by more than **100000** times. At this time, **11
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="gov.cdc.general 3 reviews"/>
 </p>
+
+> App does not work on android phones.<br> :date: __2020-05-15 00:22:26__
 
 > Useful to keep up, especially with the Sars-CoV-2 outbreak, but really annoying design. Harder to help less technically inclined use it.<br> :date: __2020-05-08 04:29:03__
 
@@ -242,8 +244,6 @@ The CDC app has been installed by more than **100000** times. At this time, **11
 > I think it is a great idea and it's definitely one that should be improved upon. The app falls short in information and in many ways it's easier to navigate the CDC website. Local alerts and information would greatly increase the useful aspects of the app.<br> :date: __2020-04-02 01:32:17__
 
 > Deep<br> :date: __2020-04-01 08:16:21__
-
-> All right<br> :date: __2020-03-26 19:11:26__
 
 
 
@@ -281,6 +281,12 @@ The CDC app has been installed by more than **100000** times. At this time, **11
 <img src="1_star_reviews_wordcloud.png" alt="gov.cdc.general 1 reviews"/>
 </p>
 
+> What's the point? It's easier to navigate CDC.gov.<br> :date: __2020-05-15 11:20:46__
+
+> Data is not up to date!<br> :date: __2020-05-15 03:02:09__
+
+> PLEASE NEEDS MORE UP DATE .. ALL THE UP DATE IS OVER DUE .. IAM READING UP DATES BACK 3 OR 4 MONTHS AGO 🤔🤔<br> :date: __2020-05-12 17:11:45__
+
 > COVID-19: *laughs in coronavirus*<br> :date: __2020-05-09 18:02:54__
 
 > Stop the noteafacations<br> :date: __2020-05-08 22:47:05__
@@ -294,11 +300,5 @@ The CDC app has been installed by more than **100000** times. At this time, **11
 > App won't close no matter what. Have to restart my phone to get out of it. Uninstalling.<br> :date: __2020-05-02 23:38:29__
 
 > I'm getting notifications at 2 am....stop<br> :date: __2020-05-02 08:24:32__
-
-> Weaponised propaganda<br> :date: __2020-05-01 14:21:15__
-
-> This app is a joke! Major virus outbreak and it sends no notifications at all, despite being asked for notification information. The CDC needs to get a new developer.<br> :date: __2020-04-27 00:19:01__
-
-> Uninstalled. Searched high and low for Covid19 stats and located every disease known to man in the dropdown EXCEPT for Covid19. Infornation overload on diseases no one cares about. What about Covid19???<br> :date: __2020-04-26 17:16:17__
 
 

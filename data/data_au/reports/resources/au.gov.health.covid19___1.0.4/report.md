@@ -149,6 +149,12 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 <img src="5_star_reviews_wordcloud.png" alt="au.gov.health.covid19 5 reviews"/>
 </p>
 
+> Good info and helpful app<br> :date: __2020-05-15 03:27:11__
+
+> Good thing<br> :date: __2020-05-11 23:17:24__
+
+> Coronavirus is the information of the most dangerous sickness in the world. The first time in the world that we have to work together and help each other for this reason we should all stay-at-home and try not to have a visitor and if we could get together and must fallow all the important information about this virus.COVID19. We will need to cooperate for the best way to back our normal life, I will have to be careful with my own experience with this. I am very happy and excited when the latest<br> :date: __2020-05-11 18:17:42__
+
 > It's very useful and gives me peace of mind<br> :date: __2020-05-08 20:19:48__
 
 > Crucial app you need to survive this disease that was definitely not released by any government or grouping of people to quell the overwhelming amount of people that are alive. This app it had too many similarities to plague Inc, but the story was the biggest failure of it all. I mean truly, who would believe our governments would release this disease on the people, it's too cruel to imagine. It's not like the powers to be around you are plotting against you. Or are they..<br> :date: __2020-05-08 02:07:04__
@@ -163,12 +169,6 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 
 > It tells me what I need to know.<br> :date: __2020-05-04 10:09:29__
 
-> Great app<br> :date: __2020-05-04 09:16:38__
-
-> 2 O,44. ? Got ýi.<br> :date: __2020-05-04 04:34:31__
-
-> Keeps me safe<br> :date: __2020-05-04 00:48:58__
-
 
 
 #### 4-star reviews
@@ -176,6 +176,10 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="au.gov.health.covid19 4 reviews"/>
 </p>
+
+> Works as expected, an information manager, not a source (otherwise the app would need updating daily). Helps to get at relevant, reliable information, without needing to hunt around the web myself to find it.<br> :date: __2020-05-13 10:32:15__
+
+> Good<br> :date: __2020-05-11 11:25:39__
 
 > I like<br> :date: __2020-05-07 01:23:44__
 
@@ -193,10 +197,6 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 
 > Very useful. Concise, well presented. Told me what l need to know. Thanks<br> :date: __2020-04-27 03:26:44__
 
-> Thankyou for getting this app. Now everyone pls get it<br> :date: __2020-04-26 11:13:44__
-
-> I'm giving it 4 stars as I think it's a good idea for tracking the virus but it will only work if others download it. I need it as I deliver food to 15 - 35 people six days a week, and I certainly would like to know who I am coming across, I also think all retail workers should definately download it for their own safety. I don't give a toss about its privacy it's a lot less invasive than Google Maps & I'm on that everyday, yes it will have to iron out problems but that's ok.<br> :date: __2020-04-26 07:39:42__
-
 
 
 #### 3-star reviews
@@ -204,6 +204,8 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="au.gov.health.covid19 3 reviews"/>
 </p>
+
+> It hasn't updated. Supposed to update at 9:00 AM daily.<br> :date: __2020-05-14 01:15:17__
 
 > Never have received the pin to open it<br> :date: __2020-05-08 01:20:55__
 
@@ -222,8 +224,6 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 > Okay, this app keeps consumers informed and offers a dialect about what to do if you need to do something/anything. However, the app has zero allowance for inquiry; no room to question the ongoing situation. I don't disregard the media as an institution but its reporter's are sometimes off the beaten path and want to break a story rather than provide valuable information. Things will get better, stay vigilant and patient.<br> :date: __2020-04-29 14:26:47__
 
 > Is this the app to detect the virus?<br> :date: __2020-04-27 02:37:12__
-
-> This app brings together all the gov websites.. We'll done.. But it's COVIDSafe you want. That tracks your interaction. Real value is knowing the active cases and our exposure.. I really want to keep safe<br> :date: __2020-04-27 01:21:15__
 
 
 
@@ -261,24 +261,24 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 <img src="1_star_reviews_wordcloud.png" alt="au.gov.health.covid19 1 reviews"/>
 </p>
 
+> A great idea but shame we have the morons out of touch with reality running the states and country! I had this installed but with restrictions continuing no point continuing with this app!<br> :date: __2020-05-17 12:33:27__
+
+> Battery drainer. Not yet sustainable to use.<br> :date: __2020-05-16 00:09:20__
+
+> I am just interested in total number of active cases in my suburb. But this app provides only total infected cases of each state and dont say anything about recovered cases. Not useful for me.<br> :date: __2020-05-13 07:09:18__
+
+> It needs location service on. Why? Explanation: necessary for Bluetooth to work.??? Why can I connect to my speakers via BT when location service is off? Why can I connect to my tablet via BT when location service is off?Why can I connect to my hands free car entertainment system via BT when location service is off? Why can I connect to my laptop via BT when location service is off? Could extend this list indefinite....<br> :date: __2020-05-13 04:50:09__
+
+> Shortly after installing I started getting a dry cough. Also this app boosted 5g in my house im pretty sure.<br> :date: __2020-05-13 02:08:20__
+
+> Like government like app... Useless!<br> :date: __2020-05-12 16:37:23__
+
+> Marketed as a COVID-19 tracker. Does nothing of the sort, simply keeps a list of phones that have been near your phone for more than 15 minutes at a time. Considering I already minimise contact with others, it's simply not needed.<br> :date: __2020-05-11 10:39:34__
+
+> Just links you to health.gov for everything anyway, so just go there and don't bother with this. People thinking this is the COVIDsafe app are off chops - I blame the govt not being clear but also the off choppers<br> :date: __2020-05-10 23:27:35__
+
 > Greetings from Jesper<br> :date: __2020-05-10 04:12:08__
 
 > Terrible<br> :date: __2020-05-10 03:33:23__
-
-> Cost a fortune in data<br> :date: __2020-05-09 02:33:02__
-
-> Chews through the battery.<br> :date: __2020-05-08 00:01:52__
-
-> Covid 19 is fake check the news<br> :date: __2020-05-07 14:02:27__
-
-> Does it do anything????<br> :date: __2020-05-07 11:14:38__
-
-> Only sheep download this app because people are stupid. Stuff the government they just want to track us if not why did they chose to have a data retention law passed think about it<br> :date: __2020-05-07 00:19:33__
-
-> This app is never up to date! Useless!<br> :date: __2020-05-06 17:16:15__
-
-> I am trying to register this is stupid<br> :date: __2020-05-06 10:47:22__
-
-> Drain heaps of battery<br> :date: __2020-05-06 02:57:56__
 
 

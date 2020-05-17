@@ -145,25 +145,25 @@ The ABTraceTogether app has been installed by more than **10000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="ca.albertahealthservices.contacttracing 5 reviews"/>
 </p>
 
+> Works well on my pixel 3. No issues.<br> :date: __2020-05-16 02:32:19__
+
+> Will not send 6 digit code.<br> :date: __2020-05-15 03:08:34__
+
+> Running on a Huawei P30 Lite with Android 9 patched to latest. App runs fine and I don't notice any battery drain issues. However, I find that the app self-terminates regularly. I see this when I wake the phone up without entering the password - the status screen shows that the app is running or not. Starting it up is easy - just go to the apps page and start the app again. It's good for anywhere from 1 to 3 days before it dies again. This app seems to strike a decent balance between privacy and usefulness.<br> :date: __2020-05-13 00:57:07__
+
+> Battery drain bluetooth issue fix: you do NOT have to disable bluetooth to disable the app, although this is the easiest and fastest method. The other method is to disable location permissions for the app under apps & notifications tab in phone's settings. This disables the ability for the app to use bluetooth. Another method would be to uninstall the app altogether lol<br> :date: __2020-05-13 00:11:47__
+
+> App seems to do what it's designed for. Battery drain doesn't seem an issue on my 2+ year old Galaxy S9. So far today, my phone has been on for 3 hours, the app has been active for less than one minute and running in the background the rest of the time, using 0.2% of my battery in that time, according to my battery stats. Battery usage is negligible. People are going to complain about anything, but this app doesn't seem to deserve the criticism it is getting.<br> :date: __2020-05-12 18:44:35__
+
+> Same experience as others. Installed smoothly on my Android 10 device. Report shows that it has used 3% of my battery over the last 3 days.<br> :date: __2020-05-11 15:27:53__
+
+> Thank you, thank you, thank you! Anything to help keep better tabs on the spread and potential exposure is great.<br> :date: __2020-05-11 00:29:38__
+
 > Contact tracing using technology is an obvious and effective way to fight the covid-19 crisis. Well done!<br> :date: __2020-05-09 07:37:24__
 
 > Thank you all for your service!!!<br> :date: __2020-05-09 00:57:11__
 
 > I havent experienced any problems or crashings, during registration. So far, it is a good app! My only question is, how reliable is this app?<br> :date: __2020-05-08 06:02:30__
-
-> The app runs in the background. For those worried about battery drainage, turn off Bluetooth when in your home. I hope this will help AHS deal with COVID19<br> :date: __2020-05-08 00:04:13__
-
-> Easy to install and no noticeable battery drain ... thanks Alberta<br> :date: __2020-05-07 20:11:05__
-
-> Great work getting it created quickly!<br> :date: __2020-05-07 05:20:38__
-
-> Doesn't send the code,now works<br> :date: __2020-05-06 01:18:23__
-
-> Good app. Doing my part to help feels good. Also the more people download this the better the app will work.<br> :date: __2020-05-04 21:36:13__
-
-> Works as advertised.<br> :date: __2020-05-04 20:30:59__
-
-> Works great, but why location? The whole point of the contact tracing API developed by Apple & Google was to facilitate contact tracing without the need for location access. Even from the app description: "The app uses Bluetooth to log contact with other individuals[...]" and "Geolocation data is not collected by the app or by [AHS]". SO WHY DO YOU NEED LOCATION? Please update explanation. Edit: Per AHS website & Android docs, location required for Bluetooth. Please update this in description.<br> :date: __2020-05-04 16:53:18__
 
 
 
@@ -173,6 +173,18 @@ The ABTraceTogether app has been installed by more than **10000** times. At this
 <img src="4_star_reviews_wordcloud.png" alt="ca.albertahealthservices.contacttracing 4 reviews"/>
 </p>
 
+> Won't know if it works till it's needed. Hopefully never. Always has a 1 superimposed on the icon, but nothing apparent when I open the app.<br> :date: __2020-05-15 20:40:40__
+
+> I was totally surprised on how much this app draws dowm my battery , worse than f-cebook app, will be definitely removed once things cool down ...<br> :date: __2020-05-15 00:48:59__
+
+> Good app and hopefully it gets installed and used more. Like others are saying, it needs and off button because of the battery drain when using it at home. Most people are at home now so this should be a feature available....<br> :date: __2020-05-12 17:49:39__
+
+> Installed easily and seems to work fine.<br> :date: __2020-05-12 00:44:52__
+
+> No problems, but also I don't get any feedback about whether I'm near another person with the app, so I can't verify whether it's actually doing anything.<br> :date: __2020-05-11 18:46:13__
+
+> Works as advertised, used 0% to 1% of battery daily. A must have with the reopening strategy as it will make it easier to stop a second wave and stop the spread. Smart way to prevent a second closure....<br> :date: __2020-05-11 07:36:00__
+
 > Overall, same as other reviews. Installs and runs smooth. The issue is the constant "on" state, with you needing to disable Bluetooth to effectively disable the battery draining searching for other Bluetooth devices. It would be nice to just have a button to click to enable when I leave the house. No need for it to be on when at home, but I'd like to use my headphones please. Thanks!!<br> :date: __2020-05-09 04:44:38__
 
 > The daily power consumption is high. It never runs in the background. Hopefully the next release will reduce per consumption.<br> :date: __2020-05-08 21:57:57__
@@ -181,18 +193,6 @@ The ABTraceTogether app has been installed by more than **10000** times. At this
 
 > Easy to install. Would be better if it had a way to pause scanning when just at home.<br> :date: __2020-05-05 01:00:27__
 
-> Obviously I haven't had to use the upload feature and haven't been contacted, so no comment on those features, but installation and verification went smoothly. It has been running issue free over a weekend.<br> :date: __2020-05-04 15:41:13__
-
-> Had troubles getting the code at first, had to delay getting this set up by a day, but got it installed now so maybe they worked out some bugs. Won't really know if it's working unless I get an alert or something. More for their use than mine but I hope it works.<br> :date: __2020-05-04 14:14:38__
-
-> It runs just fine in the background and doesn't seem to have any affect on battery<br> :date: __2020-05-04 04:14:09__
-
-> So far, so good very little power drain on the cell. I like the privacy options. Especially the deletion of all my data at my request when this pandemic is over.<br> :date: __2020-05-03 20:03:18__
-
-> Seems to be working fine. Was easy to set up. The only thing I dislike is that it keeps a notification open 24/7 when usually I make sure I've dealt with and gotten rid of all notifications. I'll get used to it, I'm sure.<br> :date: __2020-05-03 16:31:41__
-
-> Downloaded fine / easy to set up. I'd like to see how many downloads have happened.<br> :date: __2020-05-03 15:57:03__
-
 
 
 #### 3-star reviews
@@ -200,6 +200,14 @@ The ABTraceTogether app has been installed by more than **10000** times. At this
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="ca.albertahealthservices.contacttracing 3 reviews"/>
 </p>
+
+> Battery consuption is way too high. Currently 13% on a day when I was only out of my house 1 hour. App needs to detect home WiFi and stop scanning unless it detects no wifi. It is the third largest app draining my battery. Not acceptable. May have to discontinue use.<br> :date: __2020-05-17 06:56:45__
+
+> I haven't noticed any drastic battery drain on my device yet but as others mentioned the app should be able to be turned off as 95% of my time is spent in my own home. People are more likely to use the app if they don't feel that they don't need it 95% of the time but rather have the option for the 5% of the time it could be helpful.<br> :date: __2020-05-13 16:32:13__
+
+> It's fine but battery draining lately. Seemed to run pretty efficiently in the background at the start but I'm charging my phone 3 times a day now.<br> :date: __2020-05-11 06:52:48__
+
+> Please add an "off" button. I shouldn't have to keep the app running while I'm sleeping or just sitting at home. Turning off bluetooth is not an "off" button since this app isn't the only thing that people use bluetooth for. I don't mind the battery drain since it's a useful app and I think the battery drain, when I want to use the app, is worth it. Would rate 5 stars if you had an off button.<br> :date: __2020-05-10 22:42:27__
 
 > No experience. Just hope it works, it will kill me if I get it with my health issues<br> :date: __2020-05-09 06:18:52__
 
@@ -213,14 +221,6 @@ The ABTraceTogether app has been installed by more than **10000** times. At this
 
 > Constantly trying to pair with my laptop even when it's already paired and connected via Bluetooth.<br> :date: __2020-05-06 16:46:32__
 
-> What is the point if IPhone users can't run their version of the app in the background. No IPhone user is going to have the app running in the foreground with their screen on. Because of the sheer volume of iPhone users this makes the android app pointless.<br> :date: __2020-05-06 13:09:07__
-
-> I don't like the notification that has to be present at all times but oh well. My main complaint is that this app needs to be compatible with older model smartphones. My mother is older and has an older phone as I'm sure many older people do. She now can't use this app even though seniors are the most at risk.<br> :date: __2020-05-05 23:04:32__
-
-> Had to get code four times because, even though I entered the correct number, it told me either the number was wrong or did nothing at all. Had to press other keys multiple times to get it to advance. Annoying. Hope it works better than the set up.<br> :date: __2020-05-05 03:06:42__
-
-> Just downloaded it last night, so no valid remarks yet. I'll update when I have something useful to say.<br> :date: __2020-05-04 22:26:36__
-
 
 
 #### 2-star reviews
@@ -228,6 +228,8 @@ The ABTraceTogether app has been installed by more than **10000** times. At this
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="ca.albertahealthservices.contacttracing 2 reviews"/>
 </p>
+
+> I've had this app installed for a few weeks, this weekend I noticed battery usage of 13.3% in two hours. I did a phone reboot, recharged and tested again. Battery use at 15% for this application, I have removed the app until this issue can be resolved.<br> :date: __2020-05-10 19:00:10__
 
 > Good intentions, but battery hog! This thing is a background app, so why does it use the most battery of any app? It sucks up 150% of the battery compared to apps I do actively use a lot! Dead phones don't trace -- they'll need to address this in order to get people on board.<br> :date: __2020-05-09 22:03:36__
 
@@ -247,8 +249,6 @@ The ABTraceTogether app has been installed by more than **10000** times. At this
 
 > Having an issue where it seems to constantly trigger my laptop to try and pair with it. My phone beeps every couple of minutes and no way to prevent it short of killing the app (or switching off bluetooth). If the devs want to contact me to find out what's happening feel free.<br> :date: __2020-05-06 00:17:53__
 
-> Yes it probably tracks you to see if you have come into contact with someone sick. But drains your phone battery.<br> :date: __2020-05-05 23:50:23__
-
 
 
 #### 1-star reviews
@@ -257,24 +257,24 @@ The ABTraceTogether app has been installed by more than **10000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="ca.albertahealthservices.contacttracing 1 reviews"/>
 </p>
 
-> Read other reviews, including comments re battery drain. Installed app at about 11.00 am with about 90% battery. By 11.00 pm, down to 15%. About to uninstall.<br> :date: __2020-05-10 08:18:29__
+> I deal with the public all day so I thought the idea behind the app was great. Knowing you could reach out to anyone I had steady contact with if I ever got sick gave me peace of mind. However, it drains my battery so quickly that I have since deleted the app. I can't have a phone that won't work when I need it to because my battery has died.<br> :date: __2020-05-16 20:04:56__
 
-> Drained my battery! Downloaded the app yesterday, woke up & my phone was dead. For functionality of Covid-19 tracing, don't we need an app that won't kill off our battery so we can be reached?<br> :date: __2020-05-09 14:08:50__
+> Installed without activating the app. After giving it some thought I uninstalled it. I do not trust the current Wildrose Party aka UCP government with unlimited data access. It's easy to see by the number of installs how many Albertans feels the same as I do. I will stay with the simple Federal government app for reporting daily conditions. No name, phone number required. Location only.<br> :date: __2020-05-16 16:22:48__
 
-> Despite claiming that it doesn't recited your location it requires your location to work.<br> :date: __2020-05-09 10:15:14__
+> Kills your battery<br> :date: __2020-05-15 05:05:17__
 
-> Eats your battery and interferes with other apps on my phone that worked perfectly fine before I installed. I have no problem with the info being shared. Just wish it wasn't such a phone killer<br> :date: __2020-05-09 04:50:08__
+> Used 29% of my battery today, while it was in airplane mode. This needs to be fixed before I'll download it again.<br> :date: __2020-05-14 22:15:27__
 
-> Installed the app on two different S8 phones but had to remove because of excessive battery use. Would kill the battery overnight. Battery usage showed between 40% and 70%. This has to be fixed before I will reinstall.<br> :date: __2020-05-09 00:17:55__
+> 2 weeks and only 10,000 downloads. Seems like a waste if you can't get more people on board.<br> :date: __2020-05-14 05:22:08__
 
-> Battery hog! While the app has good intentions it is a major battery hog. Uninstalling it.<br> :date: __2020-05-08 23:15:09__
+> Kills your battery like your mom does to a piece of cake. 4 hours from full charge, and my phone is almost dead. Useless<br> :date: __2020-05-13 16:55:29__
 
-> Public health is important so an app like this could really help, but having it use Bluetooth drains peoples batteries quickly and the constant notification is very annoying. There are also privacy concerns of course<br> :date: __2020-05-08 20:19:40__
+> Will download app if battery drain issues are solved. I use Bluetooth in my home so disabling Bluetooth isn't an option for me<br> :date: __2020-05-12 22:04:33__
 
-> Keeps saying "something went wrong try again"<br> :date: __2020-05-08 10:31:31__
+> Do I trust the Utterly Corrupt Party government with information about my every movement? Absolutely not. If they really want to make a difference against COVID they can allow the user to control the data. DO NOT RECOMMEND!<br> :date: __2020-05-12 15:46:49__
 
-> Cant even put my cell number in. It's a 403 number, so I cant even get in to the app<br> :date: __2020-05-08 07:01:07__
+> It was chewing through my battery life. Will come back in 30 days once improved.<br> :date: __2020-05-12 00:37:30__
 
-> Won't accept valid phone number<br> :date: __2020-05-08 06:50:52__
+> I dont find any useful this app.. draining battery alot... Disconnect many time.. in day...<br> :date: __2020-05-11 00:28:27__
 
 

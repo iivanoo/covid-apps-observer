@@ -134,6 +134,10 @@ The GVA Responde app has been installed by more than **10000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="es.gva.responde 5 reviews"/>
 </p>
 
+> Actualización completa y diaria de todo lo que nos afecta como ciudadanos. Muy útil.<br> :date: __2020-05-14 16:20:01__
+
+> Interesante<br> :date: __2020-05-10 15:43:13__
+
 > Muy útil y completa<br> :date: __2020-05-05 13:08:36__
 
 > Para que sirve esta app porque a mi no me sirve<br> :date: __2020-05-02 12:41:27__
@@ -149,10 +153,6 @@ The GVA Responde app has been installed by more than **10000** times. At this ti
 > Excelente. Gracias de verdad por crearla, ya que yo trabajo en la Generalitat.<br> :date: __2020-04-13 11:08:37__
 
 > Sencilla y fiable<br> :date: __2020-04-11 21:10:10__
-
-> Muy sencilla y comprensiva<br> :date: __2020-04-10 10:17:50__
-
-> No entiendo como pueden dar ayudas a 38000 o 40000 autonomos, mientras hay 150000 que lo necesitan BIENVENIDOS A LOS JUEGOS DEL HAMBRE. Y los que no tengan certificado digital a comer tierra. Nefasto, no hay mas que decir...NEFASTO.<br> :date: __2020-04-08 18:14:52__
 
 
 
@@ -178,6 +178,8 @@ No recent reviews available with 3 stars.
 <img src="2_star_reviews_wordcloud.png" alt="es.gva.responde 2 reviews"/>
 </p>
 
+> Esta completamente desfasada, los que pasan a la fase 1 no sabemos cómo obrar y comportarnos.<br> :date: __2020-05-10 18:59:19__
+
 > Dónde está el seguimiento de contactos como dice el protocolo PDT-3 creo que sería bastante recomendable, gracias.<br> :date: __2020-05-01 10:04:18__
 
 > ¿Qué pasa con las custodias compartidas? No he visto nada explicando eso.<br> :date: __2020-04-19 16:04:41__
@@ -191,6 +193,8 @@ No recent reviews available with 3 stars.
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="es.gva.responde 1 reviews"/>
 </p>
+
+> Ineficaz, las respuestas son confusas, ó, ineficaces.<br> :date: __2020-05-15 07:20:04__
 
 > No me resuelve nada que no me diga las noticias ya....<br> :date: __2020-05-06 18:45:25__
 

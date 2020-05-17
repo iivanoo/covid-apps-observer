@@ -124,6 +124,8 @@ The WHO Info app has been installed by more than **100000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="org.who.infoapp 5 reviews"/>
 </p>
 
+> Me encanta 💜<br> :date: __2020-05-10 18:04:27__
+
 > no puedo entrar para los datos<br> :date: __2020-05-04 15:16:51__
 
 > Buena onds<br> :date: __2020-05-04 05:32:07__
@@ -142,8 +144,6 @@ The WHO Info app has been installed by more than **100000** times. At this time,
 
 > Excellent the app is much beautiful no wifi need<br> :date: __2020-04-22 01:48:19__
 
-> App muy util es muy satifactoria<br> :date: __2020-04-20 02:44:10__
-
 
 
 #### 4-star reviews
@@ -161,10 +161,12 @@ The WHO Info app has been installed by more than **100000** times. At this time,
 #### 3-star reviews
 
 <p align="center">
-
+<img src="3_star_reviews_wordcloud.png" alt="org.who.infoapp 3 reviews"/>
 </p>
 
-No recent reviews available with 3 stars.
+> Lautaro18<br> :date: __2020-05-13 06:07:11__
+
+
 
 #### 2-star reviews
 
@@ -182,6 +184,10 @@ No recent reviews available with 3 stars.
 <img src="1_star_reviews_wordcloud.png" alt="org.who.infoapp 1 reviews"/>
 </p>
 
+> No está en español<br> :date: __2020-05-14 22:12:38__
+
+> No sirve en inglés deve de ser en español<br> :date: __2020-05-12 05:36:41__
+
 > Esta en ingles no sirve para nada<br> :date: __2020-05-09 22:28:50__
 
 > Haber si se toman la molestia de publicar en español latinoamericano, mnf<br> :date: __2020-05-07 03:04:32__
@@ -197,9 +203,5 @@ No recent reviews available with 3 stars.
 > No la pude instalar<br> :date: __2020-04-26 00:52:12__
 
 > Esto está en inglés. No sirve<br> :date: __2020-04-22 04:19:51__
-
-> No esta en español y no publican en tiempo real ni preferencial sobre Covid19 por eso una sola estrella. Debe ser una aplicación sencilla con cuadros estadísticos y numeros exactos de Covid19<br> :date: __2020-04-19 00:15:37__
-
-> Es la organización mundial de la salud y solo está en inglés y sin información relevante una basura de app<br> :date: __2020-04-18 21:15:08__
 
 
