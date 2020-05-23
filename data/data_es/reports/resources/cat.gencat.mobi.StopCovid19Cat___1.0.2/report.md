@@ -166,6 +166,8 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 <img src="4_star_reviews_wordcloud.png" alt="cat.gencat.mobi.StopCovid19Cat 4 reviews"/>
 </p>
 
+> Haver perdut el gust i l'olfacte, que segons un estudi força ampli fet x una U. dels EE. UU., una de Suėcia i diverses de la G Bretanya, que deveu conėixer, són mės importants x detectar qui ja l'ha passat o ės contagiarà properament. Gràcies Senador J Cambra Int JIC<br> :date: __2020-05-19 13:57:13__
+
 > Entiendo que es útil a nivel estadístico y que cuantas más personas la utilicemos mejor se colabora para establecer datos importantes.<br> :date: __2020-05-05 23:41:38__
 
 > Incompleta, pero sirve para algo<br> :date: __2020-04-26 11:32:33__
@@ -183,8 +185,6 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 > Estic fent el seguiment però avui, quan intento prèmer el botó ACCEDEIX AL TEST, No hi accedeix..<br> :date: __2020-04-01 13:34:18__
 
 > No puedes dejar constancia si ya has tenido Covid19<br> :date: __2020-04-01 06:10:05__
-
-> Seguda impresión. En principio, he puesto que tenía fiebre, menos de 36.5° y entonces sigue con una lista de síntomas y patologías. Al final me ha dado unas recomendaciones para seguir. Seguiré a la espectativa, a ver a dónde me lleva. Seguiré informando.<br> :date: __2020-03-28 16:51:35__
 
 
 
@@ -250,6 +250,8 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 <img src="1_star_reviews_wordcloud.png" alt="cat.gencat.mobi.StopCovid19Cat 1 reviews"/>
 </p>
 
+> gracias a apps de este tipo vamos a vivir una distopía<br> :date: __2020-05-22 13:46:28__
+
 > No serveix de massa falten altres dades, no tots els casos són de tipus respiratori, també hi han sintomes intestinals forts(edito, no serveix de res) llàstima<br> :date: __2020-05-14 15:24:24__
 
 > Tan solo que tengas malestar general ya te dice que eres posible enfermo del virus. Apenas te pregunta mas sintomas de los muchos que da el covid. Desues de eso te dice ke te aisles en tu habiatacion, llames a tu medico y ya esta . No entiendo para que sirve esta app la verdad. Si al menos algun medico contactase cobtigo para contrastar sintomas o algo pero na d na.... Menuda app mas absurda<br> :date: __2020-05-14 02:23:31__
@@ -267,7 +269,5 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 > La aplicació és poc accessible<br> :date: __2020-04-30 14:24:34__
 
 > Muy Sencilla, y es muy molesto q no recuerde los datos del usuario por eso entrar cada vez se hace pesado<br> :date: __2020-04-29 15:40:12__
-
-> Aplicació sense accessibilitat. Que trist que una aplicació feta pel govern no prengui cura en aquests detalls. Jo no la puc fer servir. Si usted plau corregiu-la.<br> :date: __2020-04-28 21:53:46__
 
 

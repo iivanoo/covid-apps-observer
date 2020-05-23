@@ -184,6 +184,8 @@ The Coronavirus Help app has been installed by more than **1000** times. At this
 <img src="3_star_reviews_wordcloud.png" alt="appinventor.ai_david_taylor.Coronavirus_help2020 3 reviews"/>
 </p>
 
+> Virus checker (McAfee) alerted to a (possible) malware contained within this app. After reading other reviews of this app it appears to be a false positive, thank goodness other people had flagged this as i would of halted the install and not downloaded it. I don't believe its actually anything harmful contained within the app itself. I would given the app a 5 ⭐ except its laid out like a website from 1992. Great app though<br> :date: __2020-05-21 09:29:34__
+
 > What is your email? I can send you a screen shot saying that the app might be a virus when I install it<br> :date: __2020-04-26 14:51:15__
 
 
@@ -201,8 +203,6 @@ No recent reviews available with 2 stars.
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="appinventor.ai_david_taylor.Coronavirus_help2020 1 reviews"/>
 </p>
-
-> Waste of time.can get this info on your phone without this app.good reviews seem fake to me aswell.<br> :date: __2020-05-13 05:17:25__
 
 > NO NO NO this app sucks Firstly, it was developed by a 5 year old Secondly it damaged my device. Finally it gave me Coronavirus<br> :date: __2020-04-27 15:32:13__
 

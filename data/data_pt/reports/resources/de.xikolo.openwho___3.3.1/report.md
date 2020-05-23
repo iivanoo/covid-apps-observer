@@ -188,10 +188,12 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 #### 3-star reviews
 
 <p align="center">
-
+<img src="3_star_reviews_wordcloud.png" alt="de.xikolo.openwho 3 reviews"/>
 </p>
 
-No recent reviews available with 3 stars.
+> Caro amigo Pedro Paiva nem não todos tem a oportunidades de aprender outras línguas, e mesmo concordando que aprender inglês e muito melhor que esse estilo de música a ONU Organizações das Nações Unidades deveria ter App oficial em outros idiomas!<br> :date: __2020-05-19 02:36:13__
+
+
 
 #### 2-star reviews
 

@@ -131,6 +131,8 @@ The COVID-19 app has been installed by more than **50000** times. At this time, 
 <img src="5_star_reviews_wordcloud.png" alt="de.bssd.covid19 5 reviews"/>
 </p>
 
+> Also ich finde diese App sehr gut. Innerhalb von nicht mal 24 std hatte ich mein Ergebnis und das ganz simple. Über das Gesundheitsamt dauerte es viel länger. Ich bin zwar mit vielen noch skeptisch aber diese App hat mich überzeugt<br> :date: __2020-05-22 09:39:45__
+
 > Eine sehr gute app Spitze<br> :date: __2020-05-16 11:21:07__
 
 > Fünf Mal berwet<br> :date: __2020-05-04 16:16:30__
@@ -148,8 +150,6 @@ The COVID-19 app has been installed by more than **50000** times. At this time, 
 > Jede Stunde zählt. Über die app werden Patienten, die auf Covid-19 untersucht wurden, in Echtzeit über ihr Testergebnis informiert. Sobald der Befund verfügbar ist, erhält der Patient eine Push-Notification. Hoffentlich würde ich nie brauchen, wenn doch - freue mich dann dass so ein app gibt.<br> :date: __2020-04-17 17:29:42__
 
 > Wichtig!!! Richtig!!!! Innovativ und möglichst hilfreich! Aber der Erfolg dieser Apps sind nur Retropresktive Aussagekräftig<br> :date: __2020-04-15 13:56:46__
-
-> Ich finde diese App sehr gut. 🙂...<br> :date: __2020-04-13 13:14:41__
 
 
 
@@ -225,13 +225,13 @@ The COVID-19 app has been installed by more than **50000** times. At this time, 
 <img src="1_star_reviews_wordcloud.png" alt="de.bssd.covid19 1 reviews"/>
 </p>
 
+> App ist Mist; "Reif für die Tonne". Abfrage beim Hausarzt ist schneller,; Das App liefert leider keine Informationen dir versprochen werden.<br> :date: __2020-05-20 14:18:40__
+
 > Die 1 Sterne Bewertungen sind wahr. Die App ist Schmutz! Liest man sich positive Bewertungen durch, erkennt man sofort die sind gekauft da Sie inhaltlich gleich aber die Gramatik... naja lest selbst hab alles gespeichert in Bildform und an Google weitergeleitet.<br> :date: __2020-05-13 10:37:47__
 
 > Das Ergebnis wird immernoch nicht angezeigt, obwohl ich es telefonisch schon längst erfahren habe. Somit sinnlos.<br> :date: __2020-05-12 21:18:22__
 
 > Für mein Begriff zu kompliziert<br> :date: __2020-05-12 19:13:43__
-
-> Schlecht<br> :date: __2020-05-10 19:00:20__
 
 > Die klauen nur Daten,glaube ich<br> :date: __2020-05-09 15:14:50__
 

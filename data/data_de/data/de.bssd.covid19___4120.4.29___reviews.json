@@ -1,5 +1,27 @@
 [
     {
+        "userName": "Justine Preuss",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjNT3iTEjNBlunajo0X_LtS4KRc99Y8W1kUYvMx",
+        "content": "Also ich finde diese App sehr gut. Innerhalb von nicht mal 24 std hatte ich mein Ergebnis und das ganz simple. \u00dcber das Gesundheitsamt dauerte es viel l\u00e4nger. Ich bin zwar mit vielen noch skeptisch aber diese App hat mich \u00fcberzeugt",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2020-05-22 09:39:45",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "userName": "Treuer Artur",
+        "userImage": "https://lh3.googleusercontent.com/-mnwTCRsTd-o/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclcOPRAo3pq-4U1dlVNZux8ghOqjQ/photo.jpg",
+        "content": "App ist Mist; \"Reif f\u00fcr die Tonne\". Abfrage beim Hausarzt ist schneller,; Das App liefert leider keine Informationen dir versprochen werden.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4120.4.29",
+        "at": "2020-05-20 14:18:40",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "userName": "Ute Leja",
         "userImage": "https://lh3.googleusercontent.com/-tSN3KpfflXs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnb8q_s4LO8vvYUbm9h8rOVUymBKw/photo.jpg",
         "content": "Eine sehr gute app Spitze",
@@ -55,17 +77,6 @@
         "repliedAt": null
     },
     {
-        "userName": "Sabine Michalowski",
-        "userImage": "https://lh3.googleusercontent.com/-4zONndGcAec/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmeDRKe0FO_dIeA5aCawv8dvp1ljg/photo.jpg",
-        "content": "Schlecht",
-        "score": 1,
-        "thumbsUpCount": 1,
-        "reviewCreatedVersion": null,
-        "at": "2020-05-10 19:00:20",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
         "userName": "Jennifer Domjan",
         "userImage": "https://lh3.googleusercontent.com/-XgCjqzBeHcs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmVLiHvXO1LnuMWq-PMPws0fUYX2Q/photo.jpg",
         "content": "Hallo, beim eingeben der id Nummer oder abscannen des Codes steht dran dass es ein Fehler gibt und das passwort oder benutzernamen falsch ist kann mir bitte einer weiterhelfen? Vielen Dank im voraus",
@@ -81,7 +92,7 @@
         "userImage": "https://lh3.googleusercontent.com/-nFLiQoo-0fI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckgxHZE7CZDfZDzD2mMtBDc14TfZQ/photo.jpg",
         "content": "Also aktuell warte ich auf mein ergebnis und komme seit heute morgen gar nicht mehr im die app. Error, server, \u00fcberpr\u00fcfen Sie ihren benutzernamen. Hab ja nur nen code. Also leute, wenn ihr schon ne app raus bringt, dann solltest ihr die auch regelm\u00e4\u00dfig abdaten. Sowas geht gar nicht. Wir medizinisches personal sind an forderster front und sollten schon wissen, was f\u00fcr ergebnisse wir haben.",
         "score": 2,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 2,
         "reviewCreatedVersion": "4120.4.29",
         "at": "2020-05-09 17:50:57",
         "replyContent": null,
@@ -103,7 +114,7 @@
         "userImage": "https://lh3.googleusercontent.com/-9Z38w1W0ORo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclz4NWk8JAS8lduoqiP8rSE-AFtWg/photo.jpg",
         "content": "Das Scannen funktioniert nicht und mit der ID-Nummer kommt man auch nicht rein um das Ergebnis abzufragen. Das ganze ist keine schlechte Idee wenn es klappen w\u00fcrde. Somit ist die App Schrott und habe es wieder deinstalliert.",
         "score": 1,
-        "thumbsUpCount": 4,
+        "thumbsUpCount": 9,
         "reviewCreatedVersion": "4120.4.29",
         "at": "2020-05-07 10:49:40",
         "replyContent": null,
@@ -125,7 +136,7 @@
         "userImage": "https://lh3.googleusercontent.com/-6YCo_LZcf5s/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclOqjNwqCrc0eL22ZVis_L1X7HcDQ/photo.jpg",
         "content": "Ergebnis wird mit noch immer nicht angezeigt obwohl ich es seit einem Tag kenne (telefonische Anfrage). Evtl. liegt es schon l\u00e4nger vor. Bei der telefonischen Auskunft wurde mir auch gesagt, dass das Ergebnis im System bereits freigeschaltet ist und damit einsehbar sein m\u00fcsste. Also liegt der Fehler schon mal nicht beim Labor. So unterst\u00fctzt die App die Labore nicht und kl\u00e4rt auch nicht in Echtzeit auf - schade.",
         "score": 1,
-        "thumbsUpCount": 12,
+        "thumbsUpCount": 13,
         "reviewCreatedVersion": "4120.4.16",
         "at": "2020-05-05 06:12:11",
         "replyContent": null,
@@ -389,7 +400,7 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Giekwz_XeIv8obooRiKhrQJbEbIyQh1h9qfpaM0",
         "content": "Installiert um 1 Stern zu geben und jetzt wieder deinstallieren Q",
         "score": 1,
-        "thumbsUpCount": 1,
+        "thumbsUpCount": 2,
         "reviewCreatedVersion": "4120.4.16",
         "at": "2020-04-16 18:34:19",
         "replyContent": null,
@@ -433,7 +444,7 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjlP867snKH8tigbjjGeCDRpFqbDdxEN16MdzCT",
         "content": "Corona ist Fake! Bitte informiert euch dar\u00fcber!",
         "score": 1,
-        "thumbsUpCount": 1,
+        "thumbsUpCount": 2,
         "reviewCreatedVersion": null,
         "at": "2020-04-13 14:08:47",
         "replyContent": null,
@@ -510,7 +521,7 @@
         "userImage": "https://lh3.googleusercontent.com/-VqVGwEHf0D0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl8vbXJ7LdQG4M2BdW63rVZrqJwFg/photo.jpg",
         "content": "LEUTE LEST MAL DIE C'T 2020/Heft 9 Seite 14. Passt lieber auf was ihr da in die Felder eintragt. Diese App verschl\u00fcsselt eure Daten NICHT!!!",
         "score": 1,
-        "thumbsUpCount": 3,
+        "thumbsUpCount": 4,
         "reviewCreatedVersion": null,
         "at": "2020-04-09 09:14:26",
         "replyContent": null,
@@ -627,7 +638,7 @@
         "repliedAt": null
     },
     {
-        "userName": "Torsten Kappestein",
+        "userName": "Torsten",
         "userImage": "https://lh3.googleusercontent.com/-f6YHns1dJXg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn-747HJbr7YMcGdwqrNRCcC8xydQ/photo.jpg",
         "content": "Sehr gute App die wir unbedingt brauchen. Hoffe selbst diese vorerst nicht nutzen zu m\u00fcssen, doch der Tag wird f\u00fcr uns alle kommen. Danke an das Entwicklerteam. Weiter so. An die Vollidioten mit der 1 Sterne Bewertung. Hinterfragt euch mal selbst was ihr da geschrieben habt. Wenn das euer Ernst ist dann armes Deutschland.",
         "score": 5,
@@ -814,8 +825,8 @@
         "repliedAt": "2020-04-03 12:22:00"
     },
     {
-        "userName": "Benny 31",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gi-9GnT4ZWLYYdpdW66P0WIil5jcLeWF1btQdVN",
+        "userName": "Benny",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjnmUexf3fFjoCw01-HOivT37r75bmKpbY-Kty3cA",
         "content": "Ich wei\u00df nicht was soll es bedeuten das ich so traurig bin ein M\u00e4rchen von mediengestaltern geht mir nicht mehr aus dem Sinn \ud83d\ude02",
         "score": 1,
         "thumbsUpCount": 5,
@@ -947,7 +958,7 @@
     },
     {
         "userName": "assem 49",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjOt1h3hiDzgua2-WUHzEgyZr2J54jXxR_xXRB1",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Ggy6gFDVZwqS51WNvanHDacf5E90IyAUPSgbhcp",
         "content": "Wie geht diese app?? Was macht man damit testet die app die leute die coronavirus haben??",
         "score": 2,
         "thumbsUpCount": 0,
@@ -1082,7 +1093,7 @@
         "userImage": "https://lh3.googleusercontent.com/-AJAodhRPkZM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckw2yXvL3iw7DBxn5KRbu9FCgukgA/photo.jpg",
         "content": "Danke f\u00fcr das schnelle Entwickeln einer solchen App. Ich selbst habe sie gl\u00fccklicherweise noch nicht testen k\u00f6nnen/m\u00fcssen. Ich finde zu tiefst ersch\u00fctternd wie hoch der Dummheitsgrad in unserer Bev\u00f6lkerung ist, wenn ich die Bewertungen mit nur einem Stern lese. Dachtet ihr man spuckt auf sein Smartphone und es leuchtet rot oder gr\u00fcn auf ?! Nat\u00fcrlich funktioniert es nur mit ID, oder wie wollt ihr eure Probe aus dem Labor euch zuordnen ?! Namen sind Schall und Rauch...",
         "score": 5,
-        "thumbsUpCount": 317,
+        "thumbsUpCount": 318,
         "reviewCreatedVersion": "4120.3.31",
         "at": "2020-04-01 08:24:09",
         "replyContent": null,

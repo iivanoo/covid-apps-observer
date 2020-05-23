@@ -165,7 +165,15 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 <img src="5_star_reviews_wordcloud.png" alt="de.xikolo.openwho 5 reviews"/>
 </p>
 
-> Nice<br> :date: __2020-05-17 14:22:57__
+> Best learning experience<br> :date: __2020-05-23 08:10:23__
+
+> Very good knowledge source<br> :date: __2020-05-22 18:54:31__
+
+> This application is very important for fight against all viruses. 👌👌👍<br> :date: __2020-05-20 20:02:12__
+
+> Very use full and informative app<br> :date: __2020-05-20 14:17:27__
+
+> Best<br> :date: __2020-05-17 20:40:50__
 
 > Good<br> :date: __2020-05-17 00:38:34__
 
@@ -177,14 +185,6 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 
 > Good<br> :date: __2020-05-14 15:29:40__
 
-> Nice<br> :date: __2020-05-14 14:26:19__
-
-> Nice<br> :date: __2020-05-14 07:29:29__
-
-> 🤝<br> :date: __2020-05-14 01:43:48__
-
-> Natural<br> :date: __2020-05-11 13:26:51__
-
 
 
 #### 4-star reviews
@@ -192,6 +192,8 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="de.xikolo.openwho 4 reviews"/>
 </p>
+
+> Arch. eng.<br> :date: __2020-05-22 01:54:14__
 
 > Good<br> :date: __2020-05-17 08:09:21__
 
@@ -210,8 +212,6 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 > Facing Error while check tool bar progress.<br> :date: __2020-05-07 11:56:39__
 
 > It is educative very helpful to me and my impact in my community<br> :date: __2020-05-05 12:29:56__
-
-> "శుభోదయం 🌅 సూర్యోదయం. "ఓం మహాగణాధిపతయే నమః. ఓంగణానాంత్వాగణపతిగ్ంహవామహే కవింకవీనాముపమశ్రవస్తమమ్ జ్యేష్టరాజం బ్రహ్మణాంబ్రహ్మణస్పత ఆనశ్శృణ్వనూతి భిస్సీద సాదనమ్. "శ్రీ ఓం మహాగణపతయేనమః . "వాగర్ధావివ సంపృక్తౌ వాగర్ధ ప్రతిపత్తయే వందే జగతఃపితరౌ పార్వతీ పరమేశ్వరౌ . "సంఘం శక్తి చ దేహిమే జగదంభికే నమాయః మహాదేవి దంపతీ సుఖహేతవే "ఓం హ్రీం శివశివాయై నమః స్వాహాః. "సంకల్పానికి గణాధిపతి అధిపతి అయితే శుభసంకల్పానికి సౌభాగ్య సంపద ఇచ్చేవారు ఆదిదంపతులు పార్వతీ పరమేశ్వరులు. "ఓంహ్రీశివశివాయైనమఃస్వాహః.<br> :date: __2020-05-03 08:12:34__
 
 
 
@@ -269,7 +269,11 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 <img src="1_star_reviews_wordcloud.png" alt="de.xikolo.openwho 1 reviews"/>
 </p>
 
-> Don't you think you are responsible for COVID19 worldwide Dr...????<br> :date: __2020-05-17 06:54:55__
+> Helpful<br> :date: __2020-05-21 16:23:19__
+
+> I try lots time to sign in but no response and my 3mile ide are all ready registered<br> :date: __2020-05-19 16:24:39__
+
+> Just a poor app (Mickey mouse programmers)<br> :date: __2020-05-19 11:01:08__
 
 > Its not working<br> :date: __2020-05-13 18:24:22__
 
@@ -284,9 +288,5 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 > I dont want it please cancel immediate<br> :date: __2020-04-28 06:51:19__
 
 > U want my email address<br> :date: __2020-04-27 09:15:16__
-
-> I wanted the developer to tell me the uses of this app<br> :date: __2020-04-24 22:13:46__
-
-> It sucks i wanted map of world and diseases<br> :date: __2020-04-23 21:50:10__
 
 

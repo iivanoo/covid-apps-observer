@@ -138,6 +138,8 @@ The Care19 app has been installed by more than **10000** times. At this time, **
 <img src="5_star_reviews_wordcloud.png" alt="com.proudcrowd.care 5 reviews"/>
 </p>
 
+> I think its a great app to have Since cvid19 happend<br> :date: __2020-05-22 22:01:43__
+
 > Awesome<br> :date: __2020-05-17 11:47:26__
 
 > Love this app<br> :date: __2020-05-16 12:11:08__
@@ -156,8 +158,6 @@ The Care19 app has been installed by more than **10000** times. At this time, **
 
 > Thank you for helping us track so easily with anonymity and confidentiality. #NDSmart Governor Burgum and team are doing everything they can to keep us safe and doing it smart. So proud to be from ND!<br> :date: __2020-04-22 03:03:34__
 
-> Great Idea, saving so much time though technology thanks Governor!<br> :date: __2020-04-21 21:52:36__
-
 
 
 #### 4-star reviews
@@ -165,6 +165,8 @@ The Care19 app has been installed by more than **10000** times. At this time, **
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.proudcrowd.care 4 reviews"/>
 </p>
+
+> The early release back in April was rough (didn't log any stops for me). But it's been working well for me since about May 4. It occasionally logs more than one stop at the same location. It occasionally gets the name of the location wrong, but this is very easy to correct.<br> :date: __2020-05-19 06:25:30__
 
 > It is great, it works, and I am excited for updates!<br> :date: __2020-04-29 03:31:46__
 
@@ -176,11 +178,13 @@ The Care19 app has been installed by more than **10000** times. At this time, **
 <img src="3_star_reviews_wordcloud.png" alt="com.proudcrowd.care 3 reviews"/>
 </p>
 
+> Simple app. Does what it was designed for but little else. Misses many locations and frequently has location accuracy issues. Routinely misses my home by 6 blocks. Says I have visited locations I have just driven past. Would be nice to have ability to add locations that I visited but app failed to record.<br> :date: __2020-05-22 15:52:32__
+
+> Still isn't capturing places I've been. Was at 3 different locations today, and not one of them showing up.<br> :date: __2020-05-20 23:03:13__
+
 > Very inconsistent with location. Can be at a location for hours and doesn't list it.<br> :date: __2020-05-16 15:20:52__
 
 > It's a great idea, but does not log most of the places I've been. Stopped at 6 places in Bismarck and didn't log one place. And then the next time it will log the same place 4 times within a few minutes or log a place I only drove by.<br> :date: __2020-05-14 02:20:12__
-
-> Still isn't capturing places I've been. Was at 3 different locations today, and not one of them showing up.<br> :date: __2020-05-04 19:46:22__
 
 > I hope this helps people but there are definitely a lot of bugs<br> :date: __2020-05-04 05:28:59__
 
@@ -192,6 +196,16 @@ The Care19 app has been installed by more than **10000** times. At this time, **
 <img src="2_star_reviews_wordcloud.png" alt="com.proudcrowd.care 2 reviews"/>
 </p>
 
+> Hasn't loaded anything in 3 days not impressed.<br> :date: __2020-05-22 14:57:46__
+
+> This app would make sense if it correctly tracked where you were. It needs an update to better track it also for walking. Poor and elderly won't use this nor will people who refuse so information will be limited. Needs an upgrade to let you know if you've been around someone with Coronavirus. Good idea but needs fixing<br> :date: __2020-05-21 05:24:02__
+
+> This app does not record all the places I've been. I was in 5 different businesses in one day for more than 15 minutes and it did not record them . This app has a few bugs...I write down mow.<br> :date: __2020-05-20 22:58:49__
+
+> Inaccurate<br> :date: __2020-05-19 18:09:09__
+
+> Does not work in NJ<br> :date: __2020-05-18 02:41:29__
+
 > Doesn't log locations all the time. Even after I have been there for over ten minutes. Not very dependable .<br> :date: __2020-05-13 18:15:39__
 
 > I'm not sure if it's just the app for Android but most days it doesn't even recognize that I have been anywhere! My Bluetooth is on, what's going on?<br> :date: __2020-05-13 02:08:21__
@@ -202,16 +216,6 @@ The Care19 app has been installed by more than **10000** times. At this time, **
 
 > Need to have a way to add places one has been when it quite often misses the place one had visited all together.<br> :date: __2020-05-10 02:16:21__
 
-> This app doesn't work very well. Sometimes places I've been will show up but I have gone places that do not show up. This type of app needs to be much more reliable.<br> :date: __2020-05-10 01:32:49__
-
-> I have had this ap downloaded for a week and it has only captured visits to my office. I went to Target and Walmart both for at least one hour during this time. It also did not record a visit to my chiropractor, but that was only 15 minutes total. I downloaded this to be a good citizen and help protect myself and others, but it clearly is not working. I have a Galaxy Note 10. I didn't see another way to offer feedback.<br> :date: __2020-05-03 20:53:36__
-
-> Location services on and did not log 4 businesses we were at on 4/28. Yet logs places we only drove by. Android version 2.1 on Samsung Galaxy Note 9. Hope this helps. Turned notifications off.<br> :date: __2020-05-03 05:08:46__
-
-> Pretty much a pain to use, might be easier to log locations manually.<br> :date: __2020-05-02 21:00:07__
-
-> Quit recording places after one day not help anywhere<br> :date: __2020-04-30 01:53:49__
-
 
 
 #### 1-star reviews
@@ -220,24 +224,24 @@ The Care19 app has been installed by more than **10000** times. At this time, **
 <img src="1_star_reviews_wordcloud.png" alt="com.proudcrowd.care 1 reviews"/>
 </p>
 
-> Did not accurately record any location... not even 1. Downloaded 5/7 recorded on 5/8 ( inaccurately) then no location recorded since this date and I have been working out of the home so should have at least 2.<br> :date: __2020-05-17 02:39:16__
+> No privacy<br> :date: __2020-05-23 00:05:46__
 
-> Does not seem to log locations or show anything under the info tab.<br> :date: __2020-05-16 17:34:52__
+> Too slow<br> :date: __2020-05-22 22:54:12__
 
-> I have visited the grocery store on a weekly basis since downloading Care19. This trips have not once shown up in visited locations.<br> :date: __2020-05-16 02:10:05__
+> This app will never get on my phone. Nothing like it will never get on my phone. I NEVER WEAR MASKS. I DO NOT SOCIAL DISTANCE. I WILL NEVER BE "VACCINATED " AND NO NEEDLE WILL EVER TOUCH MY SKIN. I WILL NEVER ALLOW YOU TO TAKE MY CONSTITUTIONAL RIGHTS AWAY YOU CRAZY PSYCHOPATHS. YOU ALL NEED TO GO AWAY. LIKE ACTUALLY... GO.... AWAY....<br> :date: __2020-05-22 18:32:15__
 
-> Don't capture all the locations<br> :date: __2020-05-16 01:35:14__
+> Shared my location that I was not sure about. I wanted to help with the virus.<br> :date: __2020-05-22 05:39:43__
 
-> Hasn't recorded any stops for a week. Have had doctor appointments and other stops.<br> :date: __2020-05-15 12:27:41__
+> Stopped logging where I go. Not useful. Uninstalling.<br> :date: __2020-05-21 19:48:26__
 
-> Does not track my movements.<br> :date: __2020-05-15 02:19:43__
+> Great idea Junk Only listed one site over 5 weeks 😔<br> :date: __2020-05-21 15:24:17__
 
-> This has not updated my location since 5/12. It is now the 14th. It's missing about 50% of where I've been. You should have the ability to enter information manually or name places if it's not recording your location. If everyone has this poor of a tracking record, it's pretty usless.<br> :date: __2020-05-14 22:18:14__
+> It likes to log random locations or wrong locations. It is trying to tell me i was at work when I was no where near there. Pops up wrong locations and thinks there is a speakeasy in my neighborhood and that my house is a campground.<br> :date: __2020-05-21 05:06:01__
 
-> Gives a lot of erroneous locations that are passed while driving or stopping at a stop light. Some days it gives no information at all..<br> :date: __2020-05-14 17:59:57__
+> Violation of constitutional rights<br> :date: __2020-05-21 03:32:57__
 
-> Doesnt track 99% of the time.<br> :date: __2020-05-14 17:32:00__
+> Someone told me this tracked people with COVID. I do not see the possibility inside the app.. it seems to be only for the infected individuals. Wheres the app to see where the infected individuals are proximity wise to your location?<br> :date: __2020-05-19 08:26:57__
 
-> Only logs some locations. Yesterday i made 4 stops, 130 miles, didn't register one of them. Few days ago logged a location which turned out to be a long red light. We need the option to add locations. And what is the information about? Just says loading... loading... loading.<br> :date: __2020-05-14 16:27:17__
+> Worthless. Says it will only locate places when having used a vehicle. Went 100 miles, been here two hours, it still thinks I'm at home yet. Minus 2 stars<br> :date: __2020-05-18 19:17:03__
 
 

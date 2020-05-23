@@ -118,6 +118,8 @@ The COVID-19.eus app has been installed by more than **50000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="com.erictelm2m.colabora 5 reviews"/>
 </p>
 
+> En mi Xiaomi no he tenido ningún problema :) Con cada nueva versión noto que la app mejora notablemente. Van incluyendo más y más opciones. Supongo que ahora que empieza la desescalada será más importante que usemos la app y agreguemos más personas, para ayudar a que no haya rebrotes. Mejoraría la gestión de invitaciones para que los usuarios podamos comprobar de un vistazo a quienes hemos enviado ya la invitación.<br> :date: __2020-05-18 09:06:16__
+
 > Muy práctica y recomendable<br> :date: __2020-05-17 08:54:28__
 
 > Muy recomendable<br> :date: __2020-05-17 08:40:37__
@@ -136,8 +138,6 @@ The COVID-19.eus app has been installed by more than **50000** times. At this ti
 
 > Excelente aplicación la recomiendo . Muy buena.<br> :date: __2020-05-16 22:39:26__
 
-> Muy fiable, es muy fácil crearte círculos de contactos. Ha ido mejorando mucho con las nuevas versiones<br> :date: __2020-05-16 22:39:07__
-
 
 
 #### 4-star reviews
@@ -145,6 +145,8 @@ The COVID-19.eus app has been installed by more than **50000** times. At this ti
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.erictelm2m.colabora 4 reviews"/>
 </p>
+
+> Me ayuda tener control del estado de salud de mis allegados<br> :date: __2020-05-17 21:57:07__
 
 > Nos va a ayudar a todos, denori lagunduko gaitu<br> :date: __2020-05-09 10:01:59__
 
@@ -163,8 +165,6 @@ The COVID-19.eus app has been installed by more than **50000** times. At this ti
 > También creo que le falta un segundo botón de confirmar el envío de datos porque el otro día hice un envío de mi información, no me di cuenta que estaba seleccionado el apartado de dolor de garganta y como ya se envió ahora estoy en supuesto "aislamiento". Para otro día también ya estaré más atenta.<br> :date: __2020-04-03 00:34:03__
 
 > De momento bien pero necesita mejorar pero creo que puede llegar a ser una buena herramienta para el futuro<br> :date: __2020-03-31 17:01:47__
-
-> Me parece una idea estupenda para saber cuántas personas tienen síntomas compatibles con el virus. No entiendo a quien se queja de que no enlaza la agenda, solo hay que meter personas con las que se convive, al resto, los contactos frecuentes, estando en confinamiento total no deberíamos tener contactos frecuentes.... Gracias.<br> :date: __2020-03-31 16:08:56__
 
 
 
@@ -230,6 +230,8 @@ The COVID-19.eus app has been installed by more than **50000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="com.erictelm2m.colabora 1 reviews"/>
 </p>
 
+> Imposible añadir contactos a mis círculos a pesar de intentarlo todos los días. Anotó el teléfono lo envío y me indica que ya está en mi circulo pero no lo veo<br> :date: __2020-05-20 15:07:59__
+
 > No me deja corregir errores.<br> :date: __2020-05-16 14:32:41__
 
 > No le veo utilidad. No la usa mi ha gente.<br> :date: __2020-05-16 13:58:39__
@@ -247,7 +249,5 @@ The COVID-19.eus app has been installed by more than **50000** times. At this ti
 > Es imposible de entender ésta aplicación, no ha quién la maneje, como no la expliqueis mejor, es imposible de utilizar.<br> :date: __2020-05-07 21:58:27__
 
 > No me ha dejado seleccionar que no tenía Covid 19<br> :date: __2020-05-07 21:29:14__
-
-> Nada más abrir, te pregunta si tienes o has pasado el virus. Si seleccionas "no lo he pasado" te lo sigue preguntando hasta que respondas otra cosa. Si empezamos así, poca utilidad puede tener esta aplicación.<br> :date: __2020-05-07 21:17:17__
 
 

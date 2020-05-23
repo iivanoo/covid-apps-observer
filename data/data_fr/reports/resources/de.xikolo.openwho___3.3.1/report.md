@@ -165,6 +165,12 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 <img src="5_star_reviews_wordcloud.png" alt="de.xikolo.openwho 5 reviews"/>
 </p>
 
+> Meilleurs façons d'apprentissage Merci aux concepteurs<br> :date: __2020-05-22 15:49:15__
+
+> Très intéressant<br> :date: __2020-05-20 21:42:01__
+
+> J'utilise cette application et je l'l'apprécie trop car ça m'arrange bcp pour mes cours en ligne et mes formation afin d'augmenter sur mes performances. C'est vraiment important pour le monde scientifique désireux d'apprendre et pour renforcer nos connaissance.<br> :date: __2020-05-20 05:01:28__
+
 > Salam de son côté que<br> :date: __2020-05-17 07:27:34__
 
 > Merci beaucoup<br> :date: __2020-05-09 10:05:09__
@@ -178,12 +184,6 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 > Good<br> :date: __2020-04-17 01:02:57__
 
 > Cv<br> :date: __2020-04-16 22:00:21__
-
-> C'est mieux de être informé pars l oms que par le gouvernement !merci a vous<br> :date: __2020-04-16 02:14:30__
-
-> Extraordinaire comme travail merci à vous tous<br> :date: __2020-04-14 22:54:11__
-
-> تم<br> :date: __2020-04-11 11:56:24__
 
 
 

@@ -1,12 +1,100 @@
 [
     {
-        "userName": "md nurul islam Babu",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjCpJZuQY4FlNO4SVxXpXQ8zCkTqh823NwdDhb0eg",
-        "content": "Nice",
+        "userName": "ashraf musa",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiA5QMPqGpEu-RAT7YS4U9d9M6_Y8xn7-QmXY2t",
+        "content": "Best learning experience",
         "score": 5,
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "3.3.1",
-        "at": "2020-05-17 14:22:57",
+        "at": "2020-05-23 08:10:23",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "userName": "Adeniran Olawale Lovette",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gjqjk74TXBP6FqKSzNqBEoUjHKyFzqhEWgYDmO1SQ",
+        "content": "Very good knowledge source",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2020-05-22 18:54:31",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "userName": "A. Yousri",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjHenhzlFKowUux2YuBJ75Nyc9Ml3aSwsQz-it5TYs",
+        "content": "Arch. eng.",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.3.1",
+        "at": "2020-05-22 01:54:14",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "userName": "Tomas Cabanela",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GggoF26-Z_eV-lUwT3J3TSnJLJ05Sft0apfTDa1",
+        "content": "Helpful",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.3.1",
+        "at": "2020-05-21 16:23:19",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "userName": "Adv Yogesh Badave",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhCyqBWAQMrA4avwsCmCw7eifk--IZQZmNqwrqc",
+        "content": "This application is very important for fight against all viruses. \ud83d\udc4c\ud83d\udc4c\ud83d\udc4d",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2020-05-20 20:02:12",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "userName": "Raghav solanki",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gjhi6hPiRGYjiYcUqsG92kSbGyox3W7WenwNAx89w",
+        "content": "Very use full and informative app",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.3.1",
+        "at": "2020-05-20 14:17:27",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "userName": "Manisha Chavan",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gguy6nYTVDSzPOa8g-XmR5nrcbxDXjM97Q6PTVB4g",
+        "content": "I try lots time to sign in but no response and my 3mile ide are all ready registered",
+        "score": 1,
+        "thumbsUpCount": 5,
+        "reviewCreatedVersion": "3.3.1",
+        "at": "2020-05-19 16:24:39",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "userName": "John Burke",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gg4qcQDOXsqOd3pECHBaXPUBHX0uTxSTqV9NL86vQ",
+        "content": "Just a poor app (Mickey mouse programmers)",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2020-05-19 11:01:08",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "userName": "Ahmed Mohammed",
+        "userImage": "https://lh3.googleusercontent.com/-CcicnaJ9urA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmJANyUQwlcA2BABlg5rW3cGgFKUQ/photo.jpg",
+        "content": "Best",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2020-05-17 20:40:50",
         "replyContent": null,
         "repliedAt": null
     },
@@ -18,17 +106,6 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2020-05-17 08:09:21",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "userName": "Mohit Singh",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GifgTs6fovUM_IIMSfJj-1RKlzdK8EVYxCopRhJjg",
-        "content": "Don't you think you are responsible for COVID19 worldwide Dr...????",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "3.3.1",
-        "at": "2020-05-17 06:54:55",
         "replyContent": null,
         "repliedAt": null
     },
@@ -150,8 +227,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "3.3.1",
         "at": "2020-05-13 18:24:22",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thanks for your feedback. If you have technical issues, please contact the Support within the app.",
+        "repliedAt": "2020-05-18 11:28:07"
     },
     {
         "userName": "Suneha Sharma",
@@ -161,8 +238,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "3.3.1",
         "at": "2020-05-13 08:20:42",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thanks for your feedback. If you have issues with specific courses, please contact the Support within the app.",
+        "repliedAt": "2020-05-18 11:29:14"
     },
     {
         "userName": "Thokozile Magret",
@@ -194,8 +271,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "3.3.1",
         "at": "2020-05-12 22:12:31",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thanks for your feedback. If you have technical issues, please contact the Support within the app.",
+        "repliedAt": "2020-05-18 11:29:31"
     },
     {
         "userName": "dr s s prasad",
@@ -359,8 +436,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2020-05-07 11:56:39",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thanks for your feedback, this issue was fixed with the latest version of the app.",
+        "repliedAt": "2020-05-18 11:30:28"
     },
     {
         "userName": "Ann Harper",
@@ -488,7 +565,7 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjRYc0T3VdQwgLqJXw1y0KSh3jOURsgOPvz4xpcCg",
         "content": "Very good app ..give chance to learn higher education...its very good if this app will provide job related educational studies",
         "score": 3,
-        "thumbsUpCount": 2,
+        "thumbsUpCount": 3,
         "reviewCreatedVersion": "3.1.1",
         "at": "2020-05-02 15:54:16",
         "replyContent": null,
@@ -532,7 +609,7 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gj5tsjMdpYVpF1IJHtuQhI5DSBKypKORR6QRQ8BlQ",
         "content": "Best sponsor. This is really helpful app in health care provide. But, i have a problem. How can i add my profile picture? Please tell me!!",
         "score": 5,
-        "thumbsUpCount": 58,
+        "thumbsUpCount": 70,
         "reviewCreatedVersion": "3.2.1",
         "at": "2020-05-01 14:55:25",
         "replyContent": "Thanks for your feedback! Currently, you can only change your profile with the web version under https://openwho.org/dashboard/profile",
@@ -540,7 +617,7 @@
     },
     {
         "userName": "Patrick To",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjO1F9h5eU4EHi-9njX1wZut7gnfWhfZiBwaqCfzpg",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GikCt1VLXMkcEgxEG8iFu5V33rbAmgSy-E4APHnBTE",
         "content": "Good",
         "score": 4,
         "thumbsUpCount": 0,
@@ -587,7 +664,7 @@
         "userImage": "https://lh3.googleusercontent.com/-WFkmdkGjBVs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck0jnss_GhyOvx6Px82gUBsxx7rZg/photo.jpg",
         "content": "Nice app l hope that improve and add alot of unique courses !!!",
         "score": 4,
-        "thumbsUpCount": 8,
+        "thumbsUpCount": 9,
         "reviewCreatedVersion": "3.2",
         "at": "2020-04-29 14:56:21",
         "replyContent": null,
@@ -719,7 +796,7 @@
         "userImage": "https://lh3.googleusercontent.com/-J2DI0DvppT8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnEe5ZOtiHJOFLo5BgswWuZr82VbQ/photo.jpg",
         "content": "Seen your video add before I downloaded the app and you say join an app with \"millions\" of users, number of downloads are 500k+ less that 1 million. Thoughtbud point it out",
         "score": 4,
-        "thumbsUpCount": 109,
+        "thumbsUpCount": 130,
         "reviewCreatedVersion": "3.2.1",
         "at": "2020-04-26 19:37:53",
         "replyContent": "Thanks for your feedback. The OpenWHO platform is also accessible via the web under openwho.org, not only via app. In total, the platform has more than one million registered users.",
@@ -748,8 +825,8 @@
         "repliedAt": null
     },
     {
-        "userName": "Pharmacist sudipta",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gj56XKAPbUb9nTqmpax3Bk8JeDR_7Ukw6CQY6mJTgw",
+        "userName": "Technical Support",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgenGSG4-HWP3KVXyw8BI1l55BMrRanRdqG3CkBCIs",
         "content": "Super Technical nd Knowledge System..thanks WHO...",
         "score": 5,
         "thumbsUpCount": 0,
@@ -2138,7 +2215,7 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgtMfwE2yiB3o1mo6_9iDzumVcuxgvH6LP6kHzN6A",
         "content": "It's a very instructive health care app, it allowed me to get a WHO certificate, excellent.",
         "score": 5,
-        "thumbsUpCount": 185,
+        "thumbsUpCount": 186,
         "reviewCreatedVersion": "3.1.1",
         "at": "2020-04-14 02:13:15",
         "replyContent": null,
@@ -2644,7 +2721,7 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Ghp-plyxNv-X8AZq6VyMM4NQm8X-ay6u25R-W8S",
         "content": "Very interactive app ever seen... Thank you for sharing.",
         "score": 5,
-        "thumbsUpCount": 196,
+        "thumbsUpCount": 197,
         "reviewCreatedVersion": "3.1.1",
         "at": "2020-04-08 04:03:53",
         "replyContent": null,
@@ -2677,7 +2754,7 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhyydudFlv9smxohl2HZU80GgivdtAtPytiq1_Xe3U",
         "content": "Well informative app for epidamic covid 19",
         "score": 3,
-        "thumbsUpCount": 6,
+        "thumbsUpCount": 7,
         "reviewCreatedVersion": "3.1.1",
         "at": "2020-04-07 18:42:21",
         "replyContent": null,
@@ -3092,7 +3169,7 @@
     },
     {
         "userName": "Khoka Seikh69",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhHSROL92_UuM04Y0Ab-bxueunOjRS-3-npWFjkxg",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiPW2ZFfRrP8jIVXYBDzo92Yr9mGUVu6xe6WQWcGg",
         "content": "i like google",
         "score": 5,
         "thumbsUpCount": 1,
@@ -3169,7 +3246,7 @@
     },
     {
         "userName": "Nilesh Rajesh Mustapure",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiGo4CtRXVHiXdgL-NOeApLWPING0wDDf0oqJC4Dg",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgGrqyrGB0xjOpOIkkqdMKWebboSSyhz0MxiPTIhw",
         "content": "Helpful app ..",
         "score": 5,
         "thumbsUpCount": 1,
@@ -3839,8 +3916,8 @@
         "repliedAt": null
     },
     {
-        "userName": "Dr M",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gj1QdjJxZhNhmP14Nn6rpkiUeERh-xp0ywD2VkNGQ",
+        "userName": "\u0627\u0644\u0641\u0627\u0631\u0633 \u0627\u0644\u0623\u0648\u062d\u062f",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GioNEwgPTtnYRZUkqlhIXYjwcAV7AT0OCBReQBEEA",
         "content": "Love who",
         "score": 5,
         "thumbsUpCount": 2,
@@ -3961,7 +4038,7 @@
     },
     {
         "userName": "Bruce Lee Dragon of jade blind swordsman Eazye",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gg2LVQ-uiry2apG_gr3XFLAhV0pCZH4ycIdnnhdnt0",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GimHImw-rjW7ZHn58_hz2tFF4nigC04axXyZaesSro",
         "content": "Not bad app but ass holes should not of let vampire bat viras in the UK fact ask for cure Lab testing they need to look closer to the main source bat's = human blood test in Labs with blood under microscope s",
         "score": 5,
         "thumbsUpCount": 99,
@@ -4052,7 +4129,7 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Ghc0iB-mSfbBj2jWxPIGVtgcuQYnNIDe28ndqSl",
         "content": "Great app for healthcare providers who are willing to learn about the global health issues especially to the emerging viruses that may cause pandemics. Convenient and easy to access plus it's free, it has also certificate for some of their training courses. Great job, WHO!",
         "score": 5,
-        "thumbsUpCount": 1209,
+        "thumbsUpCount": 1242,
         "reviewCreatedVersion": "3.1.1",
         "at": "2020-03-25 13:51:18",
         "replyContent": null,
@@ -4422,7 +4499,7 @@
         "repliedAt": null
     },
     {
-        "userName": "jyparkyt 33",
+        "userName": "afifah lotfi",
         "userImage": "https://lh3.googleusercontent.com/-GYioF9L54B8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmJsYLfrv5wrIk9EKrSffWTflYOuA/photo.jpg",
         "content": "Good",
         "score": 5,
@@ -4598,7 +4675,7 @@
         "repliedAt": "2020-04-06 11:02:31"
     },
     {
-        "userName": "What Next",
+        "userName": "Perfect Sphere",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjQzi2oekyaPTVQGNZcXtnIsZ1sh9pIhYqzRkSqgQ",
         "content": "Nice one \u270c\ufe0f\u270c\ufe0f\u270c\ufe0f\u270c\ufe0f",
         "score": 4,

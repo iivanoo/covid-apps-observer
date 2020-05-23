@@ -139,10 +139,12 @@ No recent reviews available with 4 stars.
 #### 3-star reviews
 
 <p align="center">
-
+<img src="3_star_reviews_wordcloud.png" alt="org.who.infoapp 3 reviews"/>
 </p>
 
-No recent reviews available with 3 stars.
+> А можно по русский написать<br> :date: __2020-05-23 06:45:03__
+
+
 
 #### 2-star reviews
 
@@ -157,6 +159,8 @@ No recent reviews available with 2 stars.
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="org.who.infoapp 1 reviews"/>
 </p>
+
+> Смерть разработчикам!!!<br> :date: __2020-05-19 22:17:08__
 
 > Хотелось иметь под рукой понятную статистику по вирусу, google play рекомендует это приложение как единственно достоверное. Кроме статей на английском ничего нет. Т.е. для России альтернативы нет?<br> :date: __2020-05-07 16:18:22__
 

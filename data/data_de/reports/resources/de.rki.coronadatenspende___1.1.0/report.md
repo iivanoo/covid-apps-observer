@@ -131,25 +131,25 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 <img src="5_star_reviews_wordcloud.png" alt="de.rki.coronadatenspende 5 reviews"/>
 </p>
 
-> 100 %<br> :date: __2020-05-17 12:37:57__
+> Funktioniert problemlos mit meiner Withings Steel HR Sport. Sehr schnell eingerichtet und auch anschließend nie Probleme mit gehabt.<br> :date: __2020-05-23 10:01:49__
 
-> Verbindung zum Google-Konto nicht möglich. Fehler 403: rate_limit_exceeded<br> :date: __2020-05-17 12:37:11__
+> Ramona Rübasm<br> :date: __2020-05-22 17:48:13__
 
-> Die App finde ich gut gemacht. Ich habe Sie nun seit Veröffentlichung und bin vollstens überzeugt!<br> :date: __2020-05-16 23:32:20__
+> Was tun für die Allgemeinheit.Top.<br> :date: __2020-05-22 14:30:27__
 
-> Sehr einfach zu installieren.<br> :date: __2020-05-16 16:10:15__
+> Anmeldung Google Fit nicht möglich.... Nachtrag: Bei "Google anmelden" "über das Smartphone anmelden" deaktivieren. Dann geht es.<br> :date: __2020-05-22 07:30:37__
 
-> Hallo Bei mir hat es anfangs ein paar Tage (vllt 4) nichts angezeigt bei den gespendeten Tagen - aber dann - nach einem Update - funktionierte es einwandfrei mit meiner Fitbit Altar HR und meinen xiaomi Mi a2 Handy. Alles gut...<br> :date: __2020-05-15 21:05:20__
+> Funktioniert mit Fitbit einwandfrei<br> :date: __2020-05-21 23:16:12__
 
-> Hoffentlich kann ich zur Erforschung des Corona-Virus beitragen.<br> :date: __2020-05-15 19:46:30__
+> Funktioniert super mit 2 Garmin Uhren. Ich habe bereits 43 Tage Daten gespendet. Ja mehr Infos wären schon interessant, was mit den Daten passiert oder welche Schlüsse daraus bislang gezogen wurden.<br> :date: __2020-05-21 23:16:10__
 
-> Alle Gute Alle Glück<br> :date: __2020-05-15 19:42:19__
+> Funktioniert nicht mit Google Fit und Samsung Galaxy Watch<br> :date: __2020-05-21 14:15:21__
 
-> Bitte noch andere Wearables zulassen ☝️<br> :date: __2020-05-15 12:55:00__
+> Samsung Gear S3 nutzung möglich, wenn man die Daten mit google sync.<br> :date: __2020-05-20 11:44:17__
 
-> Update : Mit Hilfe von Health Sync hier aus dem Playstore kann man die Daten von Samsung Health z.B. mit GoogleFit synchronisieren. ......... Kann man leider nicht testen. Samsung wird nicht angeboten. Somit leider nicht nutzbar mit einer Samsung Galaxy Gear S3. Werde sie erstmal installiert lassen und schauen, ob Samsung noch hinzugefügt wird.<br> :date: __2020-05-14 21:05:23__
+> super mega gut<br> :date: __2020-05-19 10:56:51__
 
-> Ich habe das Fitbit Blaze und konnte mich sofort einwandfrei verbinden. Heute der 23. Tag ohne Probleme.<br> :date: __2020-05-13 20:46:06__
+> Gut<br> :date: __2020-05-19 00:57:18__
 
 
 
@@ -158,6 +158,8 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="de.rki.coronadatenspende 4 reviews"/>
 </p>
+
+> Die Samsung Gearfit 2 pro bzw. Samsung Health ist leider nicht aufgeführt, ansonsten sehr gute App,<br> :date: __2020-05-22 16:49:49__
 
 > Anmeldung funktioniert nun endlich.<br> :date: __2020-05-14 10:03:20__
 
@@ -177,8 +179,6 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 
 > Die App gewährt dem RKI lediglich Zugriff auf die Daten des eigenen Fitnesstrackers ohne einen unmittelbaren Mehrwert für den Datenspender. Eine App wäre hierzu nicht notwendig. Die Daten können bei Fitbit, Google Fit u.a. auch auf direkten Wege frei gegeben werden. Ein bißchen Mehrwert für den Nutzer z.B. in Form von Statistikdaten wäre für die Akzeptanz der App sicher hilfreich. Aber was soll man von einer Bundesbehörden wie dem RKI auch anderes erwarten ....<br> :date: __2020-05-09 08:43:09__
 
-> Ausser die Vitalparameter, hätte ich mir als Chronisch Kranker noch andere Parameter gewünscht. BZ, Blutgerinnung usw.<br> :date: __2020-05-06 23:11:30__
-
 
 
 #### 3-star reviews
@@ -186,6 +186,18 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="de.rki.coronadatenspende 3 reviews"/>
 </p>
+
+> Gute Idee, leider gibt es mit Garmin ein Synk Problem APP ist den ganzen Tag im Synk Modus kann so nicht gebraucht werden. Nachtrag, nach nun mehr 2 Tagen am Start gespendete Tage 0 ich warte noch bis morgen ist dann immer noch 0 Tage kommt die APP weg. Geht ja gar nicht.... Nachtrag: Jetzt funktioniert alles super<br> :date: __2020-05-20 19:00:31__
+
+> Samsung galaxy watch active nicht dabei...tolle Idee...macht da mehr geräte kompatibel.... es ist wichtig ...danke RKI...<br> :date: __2020-05-19 11:37:52__
+
+> Ich würde gern mitmachen aber meine Huawei Band 4 pro wird noch nicht Unterstützt. Stand 26.4.2020 immer noch kein Support. Ich dachte das alles ist so mega wichtig!? Stand 19.5.2020. Immer noch warte ich auf huawei Support.<br> :date: __2020-05-19 00:09:05__
+
+> Ich kann diese App nicht verwenden, da ich ein Huawei Band 3 Pro habe.<br> :date: __2020-05-18 06:43:34__
+
+> Vielleicht arbeitet die app in der Stille...man bekommt vom Datenaustausch oder Stand nichts mit. Ein bisschen unheimlich. Ich hoffe es hilft.<br> :date: __2020-05-17 21:55:50__
+
+> Die App funktioniert mit meiner Fenix 3HR gut. Aber jetzt hab ich 40Tage gespendet, gibt's auch Mal nen Feedback vom RKI,?<br> :date: __2020-05-17 17:29:26__
 
 > Update 15.5. Konto verbinden mit Google Fit weiterhin nicht möglich. Anmeldung am Googlekonto mit Email und Passwort nicht möglich, wenn Sonderzeichen im Passwort enthalten sind. Ein Wechsel auf Sonderzeichen via "123" Schaltfläche nicht möglich. Aufgetreten mit Honor 9 Lite, Android 9, Swiftkey Tastatur.<br> :date: __2020-05-15 12:57:01__
 
@@ -195,18 +207,6 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 
 > Huawei Health wird nicht unterstützt, bis dahin war die App gut zu installieren ;)<br> :date: __2020-05-11 15:02:24__
 
-> Sehr gute Idee, nur leider noch nicht mit Samsung Galaxy Watch 46mm kompatibel. Nach 10 Tagen immer noch nicht mit Samsung Watch kompatibel. Warte noch ein wenig und wenn nicht wird die App gelöscht, Immer noch nicht mit Samsung kompatibel -26.04. 11.05. Immer noch nicht mit Samsung kompatibel<br> :date: __2020-05-11 12:02:02__
-
-> Ist man drin, ist alles gut. Aber der Weg dahin ist mit Stolperfallen bestückt. Unter Android 10 auf einem Galaxy A50 bei Eingabe von Garmin Nutzerdaten überdeckt die Tastatur das Emailfeld, weshalb Eingaben ins Leere gehen. Blendet man dann die Tastatur aus, nimmt das Emailfeld keine Eingaben mehr an. Hat man den Account dann angegeben und soll der Datennutzung zustimmen, führt ein Klick auf "agree" wieder auf die Auswahlseite des Tracker-Dienstes zurück. Ganzer Spaß von vorne.<br> :date: __2020-05-11 07:01:53__
-
-> Das Mi Band bzw. die MiFit App wird nicht nativ unterstützt. Immerhin klappt nach anfangs massiven Problemen mittlerweile die indirekte Synchronisierung über GoogleFit (kann in MiFit leidlich zuverlässig verknüpft werden) stabil.<br> :date: __2020-05-11 06:35:53__
-
-> Sehr geehrtes RKI Team, ich kann die App leider nicht nutzen. Meine Uhr ist nicht kompatibel, nicht aufgeführt unter ihre Schnittstelle. Die Idee ist gut, sollte zumindest möglich sein auch nur über das Handy Gerät zu nutzen. Ich trage selten eine elektronische Uhr. Schade dass sie keine Statements mehr abgeben im TV. Ich kann das auch verstehen, durch die ungerechte Kritik die ausgeübt wird. Viele Grüße Andre aus Schweinfurt. PS Spruch: Gegen Dummheit/Unklugheit die in Mode gekommen ist, -kommt keine Klugheit an. ;-)<br> :date: __2020-05-08 11:34:31__
-
-> Spende seit 31 Tagen, Daten/Profil können nicht eingesehen werden!<br> :date: __2020-05-08 08:21:29__
-
-> Durchwachsen und nicht mehr so sicher ob das App, mit meinen Daten vorsorglich um geht. Weshalb ich die Applikation wieder deinstalliert habe. Eine zentrale Corona App die mit vernünftigen Datensätze arbeiten, ohne Wirtschaftliche Interessen. Damit ich nicht in ein paar Jahren, von meiner Krankenkasse angeschrieben werde, Herr XYZ sie hatten Krankheit XYZ, wir müssen ihnen leider mitteilen dass sie gekündigt wurden. Bin kein IT Spezialist, jedoch Tech interessiert.<br> :date: __2020-05-07 10:00:23__
-
 
 
 #### 2-star reviews
@@ -214,6 +214,14 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="de.rki.coronadatenspende 2 reviews"/>
 </p>
+
+> Wann geht das endlich mit Samsung? Wir brauchen doch nicht über Datensicherheit zu reden, wenn die Daten erst kompliziert über drei unterschiedliche Anbieter synchronisiert werden müssen. In meinem Umfeld nutzt niemand die App, weil keiner eines der unterstützen Geräte besitzt. Aber eine Samsung SmartWatch haben die meisten von denen, die es nutzen würden, wenn es ginge.<br> :date: __2020-05-22 14:30:45__
+
+> Ich hätte gerne teilgenommen. aber Samsung Fitness Uhr ist nicht aufgeführt. Apple übrigens auch nicht. Ich habe kein Verständnis dafür.<br> :date: __2020-05-20 00:07:30__
+
+> Guten Tag, ich kann leider diese app auch nicht nutzen da mein Fitness tracker garnich dabei ist.<br> :date: __2020-05-18 11:49:36__
+
+> Leider funktioniert das verbinden mit GoogleFit auf einen Pixel Smartphone nicht! Die Eingabe ist nur sporadisch in der Abmeldemaske möglich. Kommt man bis zum Kennwort kann man dies auch nicht immer eingehen. Klappt auch dies hängt er danach. (Die Fenster erscheinen akzeptieren aber keine Eingabe)<br> :date: __2020-05-18 11:24:32__
 
 > Ich finde es doof das ich erst 16 sein muß obwohl man auch ab einen jüngeren alter an covid 19 erkranken kann.!!<br> :date: __2020-05-15 17:54:38__
 
@@ -227,14 +235,6 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 
 > Eine Samsung Health Unterstützenung wäre mal nicht schlecht wir können wir helfen wenn unsere Geräte nicht unterstützt werden Idee toll und wichtig Ausführung Mangelhaft !<br> :date: __2020-05-11 19:44:56__
 
-> Kann meine Samsung S3 watch nicht verbinden<br> :date: __2020-05-11 19:38:56__
-
-> Funktioniert leider nicht. Ich habe versucht, die App mit einer garmin vivosport und danach mit einer fitbit charge 3 zu koppeln. Mehr als 4 Tage Datenspende wurden nie angezeigt, der Zähler sprang dann wieder auf 0, so dass ich die App, obwohl ich sie für sehr sinnvoll halte, wieder deinstalliert habe. Schade eigentlich .....<br> :date: __2020-05-11 13:19:40__
-
-> Die Kopplung mit einem Gerät/Konto ist eine Qual und funktioniert nur nach vielen Versuchen.<br> :date: __2020-05-11 06:44:37__
-
-> Man soll im Laufe der Installation angeben, welches Wearable man trägt. Aber meins (Samsung galaxy fit e) ist nicht in der Liste. Also leider wieder deinstalliert.<br> :date: __2020-05-10 20:10:06__
-
 
 
 #### 1-star reviews
@@ -243,24 +243,24 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 <img src="1_star_reviews_wordcloud.png" alt="de.rki.coronadatenspende 1 reviews"/>
 </p>
 
-> Haut nicht hin.<br> :date: __2020-05-17 11:42:40__
+> Ich hätte gerne geholfen. Mit einem P 30 Pro ist es nicht möglich die Daten für einen Garmin Login einzugeben.<br> :date: __2020-05-23 12:45:30__
 
-> Bei jedem Update denke ich, ja, jetzt könnte es auch mit Samsung klappen....nix is. Der Handyhersteller Nr.1 wird nicht unterstützt. Sehr irritierend.<br> :date: __2020-05-17 09:48:35__
+> Seine Daten zu Spenden ist ja gerade wenn man bereit dazu ist in Zeiten der Pandemie durchaus ein nutzvolles Instrument. Allerdings eine App zu entwickeln die sich nur auf ca 4 oder 5 wearables beschränkt ist äußerst ineffizient. Mit zb einer Samsung Gear ist man an dem Punkt an dem diese app direkt keinen nutzen hat. Schade<br> :date: __2020-05-23 08:25:02__
 
-> Huawei smartwatches werden nicht unterstützt, schade, da die meistverkaufte Smartwatch letztes Jahr. Dies wurde auch im Verlauf nicht nachgebessert, daher wieder gelöscht<br> :date: __2020-05-17 06:11:20__
+> Wäre super, wenn man sich in seinen Google Account auch einloggen könnte 🤷‍♂️<br> :date: __2020-05-22 21:51:32__
 
-> Nicht funktionsfähig. Google: Wollen sie sich auf einen neuen Gerät anmelden? Geben sie den Code ein, den Sie auf dem Bildschirm sehen. Ende. Withings: Error. Klartext Passwörter nicht erlaubt. Keine Übertragung von Account Daten über Zwischenablage möglich. SwiftKey Tastatur funktioniert nicht, nur Gboard. Selten eine so schlechte und disfunktionale App gesehen. Schade!<br> :date: __2020-05-17 05:24:01__
+> Mit der Samsung Uhr werden die Daten Automatisch mit Samsung Health app auf dem Handy Syncronisiert mit der App Health Sync was ihr in Google playstore bekommt Könnt ihr einstellen das alles von Samsung Healt zu Google fit übertragen wird ihr müsst nur die Datenspende App mit Google fit Verbinden<br> :date: __2020-05-22 20:48:52__
 
-> Meine Daten werden angeblich von -VeryFitPro an Googlefit geleitet. Die Werte stimmen aber nicht über ein. Also sind meine Werte für Sie leider wertlos. Deshalb werde ich ihre App wieder löschen. Schade!<br> :date: __2020-05-16 22:29:36__
+> Sobald sie funktioniert, würde ich sie wieder installieren. Ich kann mich mit meinem Garmin Account nicht anmelden. Sobald der login abgefragt wird friert der Bildschirm ein.<br> :date: __2020-05-22 19:08:26__
 
-> Nicht nutzbar für gear fit pro oder Samsung healt ...<br> :date: __2020-05-16 18:03:34__
+> Man kommt gar nicht rein<br> :date: __2020-05-22 18:31:30__
 
-> Warum nur Extrageräte sind benutzt. Warum Bluetooth und GPS von Smartfone geht nicht????<br> :date: __2020-05-16 16:25:26__
+> 07.04. Keine Anmeldung am Google-Dienst möglich. 08.04., 20:20 Uhr. Es gab ein Update der App, die Anmeldung ist aber weiterhin nicht möglich. 09.04., 09:00 Uhr. Ich konnte mich jetzt anmelden. 22.04.: App neu installiert. Die Eingabe vom FIT-Passwort ist nach kurzer Zeit gesperrt. 25.05.: Das heutige Update hat mein Problem nicht behoben. Könnte man doch wenigstens sein PW in das Feld kopieren...aber auch das ist gesperrt. 22.05. Bisher keine Verbesserung<br> :date: __2020-05-22 18:09:20__
 
-> Was machen die Menschen die keine Smart Watch haben? Also diese App ist nutzlos liebes RKI<br> :date: __2020-05-15 20:28:48__
+> Leider kann ich meine Fitnessapp (Samsung Helth) nicht verknüpfen. Die voreingestellten Apps habe ich nicht. Schade, ich hätte gerne geholfen.<br> :date: __2020-05-22 16:37:59__
 
-> Samsung dazu - bin ich auch dabei! 👍🏻😉<br> :date: __2020-05-15 19:16:54__
+> Da soll man helfen und kann es nicht da dich man sich nicht mal über google einlogen kann wenn man die adresse eingeben will hängt es sich auf somit kann ich meine hilfe nicht anbieten<br> :date: __2020-05-22 08:48:36__
 
-> Leider ist es nicht möglich sich mit GoogleFit zu verbinden da bei meinem Huawei P20 keine Sonderzeichen eingegeben werden können. Die Tastatur switched nach umschalten auf Sonderzeichen sofort wieder zurück zum Buchstabenfeld. Lasst Experten entwickeln, keine Amateure.<br> :date: __2020-05-15 08:56:55__
+> Habe mir extra einen Fitness tracker gekauft, weil ich etwas beitragen wollte. Leider fehlt mir die Analyse der Daten, bzw es war mir nicht möglich Hinweise darauf im Netz zu finden.<br> :date: __2020-05-22 08:20:14__
 
 

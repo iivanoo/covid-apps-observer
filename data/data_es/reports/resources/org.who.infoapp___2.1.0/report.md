@@ -124,6 +124,12 @@ The WHO Info app has been installed by more than **100000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="org.who.infoapp 5 reviews"/>
 </p>
 
+> No entiendo ni j esta en ingles<br> :date: __2020-05-23 03:10:59__
+
+> Bueno<br> :date: __2020-05-18 14:01:19__
+
+> 😷😷😷😷😷😷😷😷😦😧<br> :date: __2020-05-17 22:41:34__
+
 > Me encanta 💜<br> :date: __2020-05-10 18:04:27__
 
 > no puedo entrar para los datos<br> :date: __2020-05-04 15:16:51__
@@ -137,12 +143,6 @@ The WHO Info app has been installed by more than **100000** times. At this time,
 > Excelente<br> :date: __2020-04-27 05:08:54__
 
 > Me encanta<br> :date: __2020-04-26 01:27:11__
-
-> Por que es una forma de cuidarnos<br> :date: __2020-04-24 20:03:17__
-
-> ZULAY<br> :date: __2020-04-22 04:03:12__
-
-> Excellent the app is much beautiful no wifi need<br> :date: __2020-04-22 01:48:19__
 
 
 
@@ -184,6 +184,12 @@ The WHO Info app has been installed by more than **100000** times. At this time,
 <img src="1_star_reviews_wordcloud.png" alt="org.who.infoapp 1 reviews"/>
 </p>
 
+> No está en español. No nos sirve a los hispano parlantes.<br> :date: __2020-05-20 14:13:49__
+
+> No está en español<br> :date: __2020-05-20 12:35:15__
+
+> La app es interesante pero yo no sé inglés. Pongan la posibilidad que pueda leerse en español porque soy lector de su página web y es muy interesante y más en éstos tiempos.<br> :date: __2020-05-19 00:45:01__
+
 > No está en español<br> :date: __2020-05-14 22:12:38__
 
 > No sirve en inglés deve de ser en español<br> :date: __2020-05-12 05:36:41__
@@ -197,11 +203,5 @@ The WHO Info app has been installed by more than **100000** times. At this time,
 > no es lo q parece<br> :date: __2020-05-04 17:52:58__
 
 > Madre caveza de ogar<br> :date: __2020-05-01 09:00:35__
-
-> No sirve<br> :date: __2020-04-30 06:36:27__
-
-> No la pude instalar<br> :date: __2020-04-26 00:52:12__
-
-> Esto está en inglés. No sirve<br> :date: __2020-04-22 04:19:51__
 
 

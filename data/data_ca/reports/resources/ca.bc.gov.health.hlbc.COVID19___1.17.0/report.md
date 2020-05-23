@@ -131,6 +131,8 @@ The BC COVID-19 Support app has been installed by more than **10000** times. At 
 <img src="5_star_reviews_wordcloud.png" alt="ca.bc.gov.health.hlbc.COVID19 5 reviews"/>
 </p>
 
+> Very helpful and informative!<br> :date: __2020-05-20 15:13:25__
+
 > Your app keeps opening Google Chrome for news updates. However, I don't use this browser. Can you update the app to support any browser? Android has Firefox, Samsung Internet, Microsoft Edge, Opera, Brave, and many more - you need to support more than just Chrome. Once this is fixed, the app will get 5 stars! Edit: you guys fixed it!! Thank you! 5stars to you!<br> :date: __2020-05-16 08:10:54__
 
 > Perfect<br> :date: __2020-04-28 11:09:46__
@@ -148,8 +150,6 @@ The BC COVID-19 Support app has been installed by more than **10000** times. At 
 > This app is very nicely done<br> :date: __2020-04-07 17:37:19__
 
 > Thank you for this app. Please include a graph of active cases in BC, if possible. Thanks.<br> :date: __2020-04-05 16:21:41__
-
-> I'm a hypochondriac, or so my therapist tells me. This app is great for me, I just had some bad gas last night and thought it might be covid-19, i researched and saw that some people get diarrhea which really worried me cause i didnt buy a ton of toilet paper. So i sat in my study until 3 am worried I was going to suffer from extreme pooping I was just glade I had my study washroom sanitized in the morning. I found this app dug right into it, went thru the self assessment and I'm ok. Thanks.<br> :date: __2020-04-05 01:06:59__
 
 
 

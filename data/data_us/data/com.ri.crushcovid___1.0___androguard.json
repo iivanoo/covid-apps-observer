@@ -1,0 +1,44 @@
+{
+    "permissions": [
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.CALL_PHONE",
+        "com.google.android.c2dm.permission.RECEIVE",
+        "android.permission.INTERNET",
+        "android.permission.FOREGROUND_SERVICE",
+        "android.permission.WAKE_LOCK",
+        "android.permission.ACCESS_FINE_LOCATION",
+        "android.permission.ACCESS_WIFI_STATE"
+    ],
+    "activities": [
+        "com.ri.crushcovid.ui.maplist.AnonymousActivity",
+        "com.ri.crushcovid.view.TermsOfUseAndPrivacyPolicyPopup",
+        "com.ri.crushcovid.view.GovernerMessageActivity",
+        "com.ri.crushcovid.view.PermissionSetUp",
+        "com.ri.crushcovid.view.LanguageSelection",
+        "com.ri.crushcovid.MainActivity",
+        "com.ri.crushcovid.view.TermsAndConditions",
+        "com.ri.crushcovid.ui.maplist.MapWithListActivity",
+        "com.ri.crushcovid.view.SplashScreen",
+        "com.google.firebase.auth.internal.FederatedSignInActivity",
+        "com.google.android.gms.common.api.GoogleApiActivity"
+    ],
+    "urls": [
+        "http://schemas.android.com/apk/res/android",
+        "http://www.android.com/",
+        "https://plus.google.com/",
+        "https://%s/%s/%s",
+        "https://www.mapbox.com/feedback/",
+        "https://www.mapbox.com/map-feedback/",
+        "https://apps.mapbox.com/feedback/",
+        "https://www.mapbox.com/telemetry/",
+        "https://www.mapbox.com/about/maps/",
+        "https://www.mapbox.com/map-feedback",
+        "https://apps.mapbox.com/feedback",
+        "https://api.crushcovid.ri.gov/api/",
+        "http://localhost",
+        "http://schemas.android.com/apk/res-auto",
+        "https://www.googleapis.com/auth/games_lite",
+        "https://www.googleapis.com/auth/games",
+        "http://localhost/"
+    ]
+}

@@ -1,5 +1,16 @@
 [
     {
+        "userName": "Marc Vilarrubias i Gal\u00ed",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjIDaa0sebjjbfkmIKnbiVPfUXsU0b2_uQzhxpT",
+        "content": "No va",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2020-05-18 13:16:22",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "userName": "maria martinez marquez",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhzQ5td0K1rY2EgMZpYPMgR21q9GMl2uyQaopex",
         "content": "De momento va bien",
@@ -92,7 +103,7 @@
         "userImage": "https://lh3.googleusercontent.com/-SaQEOu-NFIM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnHZVAIsZ28HAb0U6bOlvSBrdw4dg/photo.jpg",
         "content": "En concret, a la Fase 1 indica que el bars podr\u00e1n tenir un aforament fina el 30%...en realitat es del 50%>>>no se si la resta d'informacio que dona nos App es correcta",
         "score": 2,
-        "thumbsUpCount": 1,
+        "thumbsUpCount": 3,
         "reviewCreatedVersion": "1.0.0",
         "at": "2020-05-07 14:41:43",
         "replyContent": null,
@@ -114,7 +125,7 @@
         "userImage": "https://lh3.googleusercontent.com/-zg5L9B5Ivu4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnatRJjSRyerQsjaq5Ax6TSlcEaOg/photo.jpg",
         "content": "En un principio generaba certificados ahora no lo hace y no me sirve para nada",
         "score": 1,
-        "thumbsUpCount": 2,
+        "thumbsUpCount": 5,
         "reviewCreatedVersion": "1.0.0",
         "at": "2020-05-06 08:59:27",
         "replyContent": null,
@@ -290,7 +301,7 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiSFYlKtPv2TrWc30_tPeSRABrmP3dY9QYkRIcTfp4",
         "content": "Poco pr\u00e1ctica. Si la polic\u00eda te pide el \"papel dela empresa\" pues eso , pide papeles. No quieren tocar tu m\u00f3vil que est\u00e1 cargadito de virus. Solo vale para llevar una estad\u00edstica la Generalitat.",
         "score": 1,
-        "thumbsUpCount": 20,
+        "thumbsUpCount": 21,
         "reviewCreatedVersion": "1.0.0",
         "at": "2020-04-13 02:49:47",
         "replyContent": null,

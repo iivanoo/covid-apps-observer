@@ -134,6 +134,10 @@ The GVA Responde app has been installed by more than **10000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="es.gva.responde 5 reviews"/>
 </p>
 
+> Muy completa y útil.<br> :date: __2020-05-20 16:38:14__
+
+> Información fiable y actualizada. Excelente aplicación<br> :date: __2020-05-19 19:28:45__
+
 > Actualización completa y diaria de todo lo que nos afecta como ciudadanos. Muy útil.<br> :date: __2020-05-14 16:20:01__
 
 > Interesante<br> :date: __2020-05-10 15:43:13__
@@ -149,10 +153,6 @@ The GVA Responde app has been installed by more than **10000** times. At this ti
 > Fácil de usar y de entender. Enhorabuena<br> :date: __2020-04-20 01:25:39__
 
 > Be<br> :date: __2020-04-14 15:03:50__
-
-> Excelente. Gracias de verdad por crearla, ya que yo trabajo en la Generalitat.<br> :date: __2020-04-13 11:08:37__
-
-> Sencilla y fiable<br> :date: __2020-04-11 21:10:10__
 
 
 

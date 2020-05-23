@@ -177,6 +177,8 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 <img src="4_star_reviews_wordcloud.png" alt="au.gov.health.covid19 4 reviews"/>
 </p>
 
+> Would be great if you could also put how many active cases there are.<br> :date: __2020-05-21 00:11:52__
+
 > Works as expected, an information manager, not a source (otherwise the app would need updating daily). Helps to get at relevant, reliable information, without needing to hunt around the web myself to find it.<br> :date: __2020-05-13 10:32:15__
 
 > Good<br> :date: __2020-05-11 11:25:39__
@@ -195,8 +197,6 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 
 > Frustratingly good<br> :date: __2020-04-27 14:40:16__
 
-> Very useful. Concise, well presented. Told me what l need to know. Thanks<br> :date: __2020-04-27 03:26:44__
-
 
 
 #### 3-star reviews
@@ -204,6 +204,8 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="au.gov.health.covid19 3 reviews"/>
 </p>
+
+> Keeps turning itself off!<br> :date: __2020-05-19 04:42:12__
 
 > It hasn't updated. Supposed to update at 9:00 AM daily.<br> :date: __2020-05-14 01:15:17__
 
@@ -222,8 +224,6 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 > Lite info and few updates ... than news media<br> :date: __2020-05-01 10:01:51__
 
 > Okay, this app keeps consumers informed and offers a dialect about what to do if you need to do something/anything. However, the app has zero allowance for inquiry; no room to question the ongoing situation. I don't disregard the media as an institution but its reporter's are sometimes off the beaten path and want to break a story rather than provide valuable information. Things will get better, stay vigilant and patient.<br> :date: __2020-04-29 14:26:47__
-
-> Is this the app to detect the virus?<br> :date: __2020-04-27 02:37:12__
 
 
 
@@ -261,6 +261,14 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 <img src="1_star_reviews_wordcloud.png" alt="au.gov.health.covid19 1 reviews"/>
 </p>
 
+> Checking the website is more reliable and informative<br> :date: __2020-05-23 10:55:37__
+
+> March 2020 This app just keeps saying unable to download information . I have uninstalled and reinstalled this app a number of times and it is always the same. 23/05/2020 Tried again, downloaded and installed app easily but as soon as app was opened got "Try again etc.." message again. So annoying!<br> :date: __2020-05-23 00:31:23__
+
+> Batter is ZTE BATTERY SOURCE OF VIRUS LINKED TO BLUETOOTH LINKED TO OSC!!!<br> :date: __2020-05-20 19:14:48__
+
+> The government is hiding info on covid19<br> :date: __2020-05-18 05:59:07__
+
 > A great idea but shame we have the morons out of touch with reality running the states and country! I had this installed but with restrictions continuing no point continuing with this app!<br> :date: __2020-05-17 12:33:27__
 
 > Battery drainer. Not yet sustainable to use.<br> :date: __2020-05-16 00:09:20__
@@ -272,13 +280,5 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 > Shortly after installing I started getting a dry cough. Also this app boosted 5g in my house im pretty sure.<br> :date: __2020-05-13 02:08:20__
 
 > Like government like app... Useless!<br> :date: __2020-05-12 16:37:23__
-
-> Marketed as a COVID-19 tracker. Does nothing of the sort, simply keeps a list of phones that have been near your phone for more than 15 minutes at a time. Considering I already minimise contact with others, it's simply not needed.<br> :date: __2020-05-11 10:39:34__
-
-> Just links you to health.gov for everything anyway, so just go there and don't bother with this. People thinking this is the COVIDsafe app are off chops - I blame the govt not being clear but also the off choppers<br> :date: __2020-05-10 23:27:35__
-
-> Greetings from Jesper<br> :date: __2020-05-10 04:12:08__
-
-> Terrible<br> :date: __2020-05-10 03:33:23__
 
 

@@ -4,41 +4,41 @@
         "store_country": "de",
         "store_lang": "de",
         "latest_crawled_version": "1.1.0",
-        "latest_crawl": 1589723963
+        "latest_crawl": 1590233391
     },
     {
         "id": "de.bssd.covid19",
         "store_country": "de",
         "store_lang": "de",
         "latest_crawled_version": "4120.4.29",
-        "latest_crawl": 1589723983
+        "latest_crawl": 1590233398
     },
     {
         "id": "org.who.infoapp",
         "store_country": "de",
         "store_lang": "de",
         "latest_crawled_version": "2.1.0",
-        "latest_crawl": 1589723990
+        "latest_crawl": 1590233406
     },
     {
         "id": "com.designit.covid_19",
         "store_country": "de",
         "store_lang": "de",
         "latest_crawled_version": "1.0.0",
-        "latest_crawl": 1589723996
+        "latest_crawl": 1590233415
     },
     {
         "id": "de.kreativzirkel.coronika",
         "store_country": "de",
         "store_lang": "de",
         "latest_crawled_version": "1.4.0",
-        "latest_crawl": 1589724004
+        "latest_crawl": 1590233421
     },
     {
         "id": "de.xikolo.openwho",
         "store_country": "de",
         "store_lang": "de",
         "latest_crawled_version": "3.3.1",
-        "latest_crawl": 1589724012
+        "latest_crawl": 1590233425
     }
 ]

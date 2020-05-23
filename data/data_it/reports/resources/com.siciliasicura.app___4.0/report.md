@@ -202,6 +202,14 @@ The Sicilia Si Cura app has been installed by more than **1000** times. At this 
 <img src="1_star_reviews_wordcloud.png" alt="com.siciliasicura.app 1 reviews"/>
 </p>
 
+> Neanche si può installare. Sono due giorni che cerco di installare questa schifezza<br> :date: __2020-05-22 22:43:02__
+
+> Non riesco ad accederw<br> :date: __2020-05-22 11:07:58__
+
+> Dopo essermi registrato mi dice accesso negato cosa devo fare?<br> :date: __2020-05-21 18:03:56__
+
+> Sono fuori regione, ragion per cui non riesco ad accedere... l'ho scaricata proprio perché devo rientrare...mah!? non ha senso sta cosa<br> :date: __2020-05-18 21:26:32__
+
 > Non mi fa completare la registrazione perché il geocalizzatore dice che non sono in Sicilia... mi sembra normale non mi sarei iscritta al censimento se no. Potete aiutarmi?<br> :date: __2020-05-15 11:55:02__
 
 > Buongiorno. ..ho istallato l'applicazione sul cellulare ma non mi fa andare oltre non riesco ad aprirla cliccandoci sopra ...forse sbaglio qualche passaggio ..e il terzo giorno ...grazie<br> :date: __2020-05-11 07:41:37__
@@ -213,13 +221,5 @@ The Sicilia Si Cura app has been installed by more than **1000** times. At this 
 > Volevo provare ad usarla ma non c'è modo di effettuare la registrazione sul sito siciliasicura e non è spiegato da nessuna parte<br> :date: __2020-04-30 21:42:22__
 
 > Mi sono iscritto il 26. 04 compilando tutto per quarantena ma l'App mi dice che sono sempre al 1 giorno?<br> :date: __2020-04-28 10:34:17__
-
-> Una volta installata ed effettuato il login più di una volta e in diverse ore del giorno, mi dice sempre di inserire un indirizzo e che già c'è un indirizzo registrato. Inserisco nuovamente l'imdirizzo dove mi trovo e l'app rimane bloccata lì. È inutilizzabile<br> :date: __2020-04-23 08:51:15__
-
-> Strano approccio. Dopo installata chiede il consenso quindi "Surname e Password". Ma dice che la password perverrà via mail. Quale mail? Non è prevista registrazione né richiesta di email! Pertanto non consente l'avvio. COMINCIAMO BENE.<br> :date: __2020-04-22 09:02:25__
-
-> Bisogna spiegare meglio che non tutti possono usare la app (non permette registrarsi) In realtà può usare soltanto chi ha ricevuto login e password prima (dove e come nessuno sa).<br> :date: __2020-04-21 07:11:08__
-
-> Una gran presa x i fondelli..... Da 1 settimana aspetto le credenziali x l'accesso<br> :date: __2020-04-20 20:54:09__
 
 

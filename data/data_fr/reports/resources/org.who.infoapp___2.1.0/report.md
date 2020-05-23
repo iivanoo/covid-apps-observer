@@ -124,6 +124,8 @@ The WHO Info app has been installed by more than **100000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="org.who.infoapp 5 reviews"/>
 </p>
 
+> ممناز<br> :date: __2020-05-21 02:07:37__
+
 > Quel application<br> :date: __2020-05-05 22:53:45__
 
 > coment savoir si ont na le covid19<br> :date: __2020-04-24 18:51:24__

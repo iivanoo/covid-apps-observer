@@ -169,6 +169,8 @@ No recent reviews available with 3 stars.
 <img src="1_star_reviews_wordcloud.png" alt="cat.gencat.mobi.confinApp 1 reviews"/>
 </p>
 
+> No va<br> :date: __2020-05-18 13:16:22__
+
 > Una aplicació que no serveix per res. Fora de temps.<br> :date: __2020-05-09 21:45:11__
 
 > Assisten virtual molt deficient....<br> :date: __2020-05-09 16:32:39__
@@ -186,7 +188,5 @@ No recent reviews available with 3 stars.
 > Va fatal no graba los datos<br> :date: __2020-05-04 16:08:16__
 
 > No funciona, ni siquiera se abre<br> :date: __2020-05-04 15:31:35__
-
-> No la puedo abrir ni utilizar<br> :date: __2020-05-03 16:06:08__
 
 

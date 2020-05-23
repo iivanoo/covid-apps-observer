@@ -1,0 +1,30 @@
+{
+    "permissions": [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.CAMERA",
+        "com.google.android.c2dm.permission.RECEIVE",
+        "android.permission.INTERNET",
+        "android.permission.WAKE_LOCK",
+        "android.permission.ACCESS_COARSE_LOCATION",
+        "jp.co.maff.maffapp.permission.C2D_MESSAGE",
+        "android.permission.READ_EXTERNAL_STORAGE",
+        "android.permission.ACCESS_FINE_LOCATION",
+        "android.permission.ACCESS_WIFI_STATE"
+    ],
+    "activities": [
+        "crc64a01f4bc7f0b4355e.MainActivity",
+        "crc646957603ea1820544.MediaPickerActivity",
+        "com.google.android.gms.common.api.GoogleApiActivity"
+    ],
+    "urls": [
+        "http://schemas.android.com/apk/res/android",
+        "http://schemas.android.com/apk/res-auto",
+        "https://www.example.com",
+        "https://pagead2.googlesyndication.com/pagead/gen_204?id=gmob-apps",
+        "https://www.googleapis.com/auth/games",
+        "https://plus.google.com/",
+        "https://app-measurement.com/a",
+        "https://www.google.com"
+    ]
+}

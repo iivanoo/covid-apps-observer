@@ -171,6 +171,8 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <img src="5_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 5 reviews"/>
 </p>
 
+> É um excelente apetrecho que tem muita e boa actualização<br> :date: __2020-05-19 20:52:00__
+
 > Penso que é muito importante<br> :date: __2020-04-29 21:28:10__
 
 > Gosto<br> :date: __2020-04-28 20:35:44__
@@ -188,8 +190,6 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 > Muito útil pelo menu alargado.<br> :date: __2020-04-01 22:25:04__
 
 > Boa App<br> :date: __2020-03-31 01:18:19__
-
-> Satisfaz plenamente.<br> :date: __2020-03-25 17:24:56__
 
 
 
@@ -284,6 +284,12 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <img src="1_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 1 reviews"/>
 </p>
 
+> Sem atualizar desde 2018! Estamos on dizem os atrasados!<br> :date: __2020-05-23 00:01:59__
+
+> É a algum tempo que nao entro no meu my sns agora ia entrar nao me deixa entrar nada.mas no entanto continuam a ver a minha ficha medica,porque sai me a menssagem quando a minha medica entra para ver.senao conseguir entrar desinstalo,e quero ver se continuam a entrar!!!!!<br> :date: __2020-05-20 17:19:00__
+
+> Se não funciona porque a disponibilizam? Aberração desta gente do SNS para alguns votantes.<br> :date: __2020-05-17 17:35:05__
+
 > Gostaria muito de poder dar um feedback e no dia em que o SNS fizer uma aplicação que permita um procedimento de registo acessível ao povo de forma a que eu também me possa registar, contem comigo que também gostaria de estar inscrito mas não frequentei um curso para aprender o complicado procedimento de inscrição.<br> :date: __2020-05-14 17:17:25__
 
 > Primeiro os Liberais desviaram as contribuições dos Cidadãos para os Hospitais que pertencem ao sector não público e depois criaram estás aplicações que o utente tem sempre que usa identificar-se de modo que esta aplicação foi feita para impedir o acesso á leitura de receitas etc. . Mas a informação sobre Hospitais é Extremamente úteis.<br> :date: __2020-05-07 21:55:53__
@@ -297,11 +303,5 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 > Não dá para instalar. Erro atrás de erro.<br> :date: __2020-05-05 04:41:29__
 
 > Permanentemente a bloquear no meu telemóvel.<br> :date: __2020-05-02 12:59:00__
-
-> Deixou de funcionar! Mesmo funcionando, é confusa, nada intuitiva, muito pobre de conteúdos.<br> :date: __2020-05-02 08:01:03__
-
-> Não trabalha<br> :date: __2020-05-01 11:12:21__
-
-> Péssimo! Uma aplicação onde supostamente podemos consultar guias de tratamento e remete-nos para uma página online onde é necessário fazer login.<br> :date: __2020-04-27 21:42:27__
 
 

@@ -204,6 +204,8 @@ The Covidom Patient app has been installed by more than **10000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="fr.aphp.covidom 1 reviews"/>
 </p>
 
+> On m'a envoyé 2 messages pour me dire de remplir le questionnaire. Mais je ne suis pas malade, j'étais supposé être malade il y a déjà plus d'un mois et j'ai eu une consultation avec un médecin qui m'a dit que non je n'ai pas tous les symptômes bref. Et ça fait 2 mois que je ne suis pas sortie et je ne suis actuellement pas malade et je n'ai eu aucune consultation. Donc pourquoi m'envoyer ces deux messages ??<br> :date: __2020-05-19 09:55:54__
+
 > Pas du tour contente du service j'ai eu des grosse tachycardie et PERSONNE ne ma appeler ... tomber malade le 21 mars, déclarer "guerri" le 7 avril, on est le 13 mai ET J'AI TOUJOURS DES SYMPTOMES QUI ME GACHE LA VIE ET M'EMPÊCHE D'ALLER TRAVAILLER et je ne suis pas la seule c'est nimporte quoi horrible personne pour nous prendre en charge !!!!!!!!!<br> :date: __2020-05-13 19:01:45__
 
 > Arrive pas à ce connecter ou crée un compte<br> :date: __2020-04-27 10:18:23__
@@ -221,7 +223,5 @@ The Covidom Patient app has been installed by more than **10000** times. At this
 > Impossible remplir mes formulaires les jours demandés, quand je vais me connecter ils sont directement archivés. J'ai beau cliquer dessus il ne se passe rien donc zéro suivi<br> :date: __2020-04-08 11:06:21__
 
 > Impossible de se connecter, mot de passe non valide, aucune explication pour recréer un compte 😡<br> :date: __2020-03-31 14:29:17__
-
-> Impossible de se connecter<br> :date: __2020-03-28 16:44:01__
 
 

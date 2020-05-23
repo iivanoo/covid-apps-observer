@@ -159,6 +159,14 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <img src="5_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 5 reviews"/>
 </p>
 
+> Buona<br> :date: __2020-05-23 12:42:01__
+
+> Buona, e facile da utilizzare, peccato una cosa che certe cose non le avete gestite bene, Comunque vada gente come voi sicuramente non la voterò mai e poi ma<br> :date: __2020-05-22 12:21:06__
+
+> Ok<br> :date: __2020-05-22 10:03:10__
+
+> Gente in giro se ne vede molta Tanti solo quelli che hanno la mascherina solo al collo e vedo che se passa una pattuglia la portano subito verso il naso per ritornare poi a toglierla!!Non è il Top portarla e dà fastidio però se si vuole risolvere un qualcosa bisogna sacrificarsi!!!Oggi verso il Sacco sono transitate meno autolettighe e da questo presumo che la situazione migliori !!Visto che abito a 1 KM dal Sacco faccio un resoconto!!!<br> :date: __2020-05-20 17:59:29__
+
 > Perfetto risolto il problema che avevo segnalato. Grazie mille<br> :date: __2020-05-17 12:01:49__
 
 > Buongiorno come si fa a aggiornare l'età perché nel frattempo ho compiuto gli anni e non riesco a modificare. Grazie<br> :date: __2020-05-14 17:03:11__
@@ -167,17 +175,9 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 
 > Utile<br> :date: __2020-05-13 13:31:24__
 
-> sembra che la situazione sia in miglioramento in quanto vedo che sono in pochi che si lamentano!!Io personalmente guardandomi attorno sento gente che manifesta i sintomi più strani dagli occhi a dolori diffusi per tutto il corpo Secco al petto o leggero mal di gola Comunque sintomì che avvertiamo tutti aggiunti ad una forte componente emotiva in quanto tutti abbiamo paura Grazie<br> :date: __2020-05-12 17:11:03__
-
 > Vivi e lasci vivere<br> :date: __2020-05-11 16:21:22__
 
 > Mai piu una cosa cosi..drammatica..<br> :date: __2020-05-11 12:59:28__
-
-> EDIT: correggo la recensione perché dopo l'aggiornamento adesso funziona perfettamente. Bravi! - Boooh! Installata, aperta, compilato i dati la prima volta. Poi qualche ora dopo ho ricevuto una notifica, ci ho cliccato sopra e... magia! La app non si apre più, rimane o lo schermo bianco fisso o il logo iniziale con la rotella che gira in eterno. Direi perfettamente in linea col tono ridicolo generale con cui è stato gestito tutto questo frangente. Ciao, vado a disinstallare.<br> :date: __2020-05-10 17:41:24__
-
-> Buona, e facile da utilizzare<br> :date: __2020-05-10 06:25:08__
-
-> App ben fatta..un unico appunto, manca la Casellina del "sierologico" che in molti stiamo facendo. Io ho dato ok al tampone ma è mezza verità. Buon lavoro e grazie.<br> :date: __2020-05-09 07:49:11__
 
 
 
@@ -186,6 +186,12 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 4 reviews"/>
 </p>
+
+> Mi piace<br> :date: __2020-05-18 17:50:44__
+
+> Ottima<br> :date: __2020-05-18 12:07:43__
+
+> Buona<br> :date: __2020-05-17 20:19:44__
 
 > Reputo l'app un utile iniziativa, ma tecnologicamente antiquata ed orpellosa. Tutti gli utenti con uno smartphone in Italia oggi concedono tramite le app scaricate in media 2,6 autorizzazioni di tracciamento a testa (facebook, tripadvisor, whatsapp, etc). semplificate con una raccolta dati volontaria ed automatizzata per chi vi concede la tracciatura non anonima. Consentite ai pendolari fuori regione di partecipare dato che trascorrono mediamente piú di metá giornata su territorio Lombardo.<br> :date: __2020-05-16 09:42:56__
 
@@ -201,12 +207,6 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 
 > Quando arriva un avviso apro l'app ma si blocca su una schermata bianca. Devo per forza chiuderla. Oggi 10/05 sembra tutto ok.<br> :date: __2020-05-10 12:49:28__
 
-> Grazie per la Vostra risposta. Quand'è così ho modificato la mia recensione. Trovo importante avere la possibilità di visualizzare l'evoluzione del virus. Grazie<br> :date: __2020-05-09 12:45:04__
-
-> Decisamente meglio con gli ultimi aggiornamenti ma... Come si fa a modificare l'età di "me stesso"? Magari cambierà poco ai fini statistici, ma è anche l'unica prova del compleanno trascorso... E per fortuna! Edit post risposta: fatto! E grazie mille per gli auguri!<br> :date: __2020-05-08 11:02:53__
-
-> Ogni giorno continua a chiedere i soliti dati capisco la salute ma il resto è dalla chiusura che più che casa lavoro non faccio mi sono stancato disinstallato.<br> :date: __2020-05-08 09:46:43__
-
 
 
 #### 3-star reviews
@@ -214,6 +214,14 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 3 reviews"/>
 </p>
+
+> Boh<br> :date: __2020-05-21 21:12:44__
+
+> Questa app non l'ha capisco<br> :date: __2020-05-19 21:23:37__
+
+> Sarebbe interessante sapere per paese quanti hanno compilato il questionario e quanti sono a rischio....Non parlo di una consultazione in tempo reale ma basterebbe un report a cadenza periodica .. aiuterebbe addetti ai lavori e non....<br> :date: __2020-05-17 20:20:57__
+
+> Non sono un medico ma mi sembra un questionario troppo generico....inoltre con le dovute protezione della privacy ma perche` anche su base volontaria non viene consentito il tracciamento in modo da incrociare efficentemente i dati in caso di necessita'?<br> :date: __2020-05-17 17:17:53__
 
 > Il questionario cercacovid deve essere aggiornato!.. molta gente è sottoposta a esame sierologico prima del tampone. Manca la domanda.. il tampone non viene fatto se sierologico è negativo. Grazie.<br> :date: __2020-05-17 09:34:58__
 
@@ -227,14 +235,6 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 
 > App che uso pressoché regolarmente da circa un mese, da quando ne sono venuto a conoscenza. Il questionario a mio avviso ha qualche lacuna: secondo me andrebbero distinti i sintomi del raffreddore allergico da quello comune. Anche per la domanda sui dolori muscolari, l'attività fisica intensa o il lavoro possono esserne una causa. In tal caso, come rispondere?<br> :date: __2020-05-08 08:30:37__
 
-> Ripetitivo<br> :date: __2020-05-08 00:51:45__
-
-> All'inizio funzionava. Ora quasi sempre non si apre e va in errore<br> :date: __2020-05-07 20:31:38__
-
-> Migliorata, ma ancora lentissima.<br> :date: __2020-05-07 10:07:15__
-
-> Bisogna introdurre i dati inutilmente tutti i giorni. Mettete un "bottone" per confermare i dati precedenti se nulla è cambiato. Qualche miglioria è stata apportata ma bisogna comunque riconfermare uno ad uno i dati sanitari.<br> :date: __2020-05-05 14:24:59__
-
 
 
 #### 2-star reviews
@@ -243,7 +243,11 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <img src="2_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 2 reviews"/>
 </p>
 
-> Andrebbe migliorato UX. Ad ogni accesso bisogna compiere tutti gli step da capo. Dell'autorizzazione privacy, al setting x gli alert delle notifiche, al questionario. 15 Maggio: É peggiorata. Non si leggono le notifiche , si può accedere solo al questionario covid. Le falle di cui sopra sono ovviamente rimaste, non è vero che con la nuova release alcune info restano memorizzate.<br> :date: __2020-05-15 13:03:07__
+> Avrei voluto usare cercacovid in quanto lavoro in Lombardia, ma essendo residente in Piemonte è impossibile registrarsi<br> :date: __2020-05-21 15:59:47__
+
+> purtroppo app inutilizzabile su dispositivi con root. Speriamo che venga permesso il suo utilizzo al più presto e a tutti<br> :date: __2020-05-17 22:20:32__
+
+> App molto macchinosa, tanti bug e crash, notifiche abbastanza insulse e tracciamento delle infezioni pressoché inutile: è necessario compilare un questionario molto lungo e dispersivo (chiede costantemente età, ed altre generalità ad ogni utilizzo) da compilare ogni giorno per garantire l'efficienza<br> :date: __2020-05-17 17:41:08__
 
 > Senza tamponi e test come si fa a sapere se si è stati a contatto con persone contagiose asintomatiche? Qui si può semplicemente tener conto di coloro che hanno sintomi importanti... sembra più uno scarabocchio piuttosto che un grafico della situazione...<br> :date: __2020-05-14 15:24:51__
 
@@ -259,10 +263,6 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 
 > Utile e comoda se funzionasse regolarmente<br> :date: __2020-05-01 20:53:38__
 
-> Sto provando a compilare dal pomeriggio ed ora è notte. Non riesco ancora , quando chiedo di accedere mi esce solo una pagina bianca . Mi permetto una osservazione. Alla domanda sulle eventuali malattie croniche dovrebbe esserci la voce" altro". Sarebbe più completo<br> :date: __2020-05-01 02:08:27__
-
-> Due stelle di incoraggiamento. Da un Organismo in primo piano mi aspettavo qualcosa di fatto meglio. Arrivano notifiche e poi apri non trovi nulla o si blocca. Interazione e grafica basica e non proprio immediatamente comprensibile. Qualcosa di più moderno nn sarebbe stato male. Comunque persisto e vediamo come va.<br> :date: __2020-04-30 23:38:19__
-
 
 
 #### 1-star reviews
@@ -270,6 +270,16 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 1 reviews"/>
 </p>
+
+> Si accede solo al questionatio covid senza poter vedere le altre sezioni né cambiare navigazione. Non si riesce a leggere gli alert dei rischi metro eyc.. Poi ad ogni accesso bisogna ogni volta dare le approvazioni x il trattamento dei dati personali e compilare questionario covid da capo anche nelle info di base Insomma é pessima<br> :date: __2020-05-22 13:58:16__
+
+> Pesissima, se si lavora come pendolari fuori dalla Lombardia il censimento covid non può essere fatto<br> :date: __2020-05-22 13:16:05__
+
+> Ma se è personale e non aziendale perché è raccomandato che il datore di lavoro la compili ?<br> :date: __2020-05-22 13:09:51__
+
+> Te lo dico soltanto una cosa Io mi sono rotto le palle perché qui c'è stataun'emergenza tremenda il cielo è giallo è arrivato un uragano qui dava allerta gialla e invece era rossa per dirci<br> :date: __2020-05-18 20:39:39__
+
+> L'ho riprovato come mi avete suggerito dopo i vostri aggiornamenti ha funzionato fino ad oggi che mi riporta come se sto facendo il primo accesso se potessi non darei nemmeno una stella<br> :date: __2020-05-18 13:34:22__
 
 > Devo ogni volta salvare le notifiche scelte, reinserire i comuni preferiti..... mah!!!<br> :date: __2020-05-17 15:10:05__
 
@@ -280,15 +290,5 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 > il mio terminale la rifiuta a priori ho capito...il mio terminale ha i permessi di root...questo per la mia SICUREZZA...l'app dice che si chiude per la mia sicurezza...disinstallato immediatamente.<br> :date: __2020-05-16 13:20:58__
 
 > Secondo me ha la stessa utilità di un cartello che posso appendere fuori casa in cui chiedo ai passanti di mandarmi un messaggio se vedono del fumo uscire dalla finestra. Poi dico di aver installato un impianto antincendio.<br> :date: __2020-05-16 12:00:36__
-
-> Ma questa applicazione da quel che fate intendere è solo per la regione Lombardia per le altre regioni d'Italia?avete bisogno solo di una mappatura interna regionale..anche se le notizie parlavano dell'intera penisola!<br> :date: __2020-05-16 09:07:44__
-
-> Dite a fontana di dimettersi e di lasciare spazio a gente col cervello in testa che questi ci hanno quasi ammazzati tutti<br> :date: __2020-05-15 16:40:21__
-
-> Non ricevo le notifiche<br> :date: __2020-05-15 16:33:25__
-
-> Con smartphone A50 ogni volta richiede tutti i consensi e le impostazioni. Il pulsante SALVA evidentemente non funziona. Impossibile skippare la parte COVID e accedere alle allerte.<br> :date: __2020-05-15 14:00:21__
-
-> Scomoda, lenta, manda notifiche ma poi ti presenta una home page da cui non capisci dove è l'avviso, te lo devi cercare. Inutile<br> :date: __2020-05-15 12:40:30__
 
 

@@ -124,6 +124,10 @@ The WHO Info app has been installed by more than **100000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="org.who.infoapp 5 reviews"/>
 </p>
 
+> Good<br> :date: __2020-05-20 06:15:04__
+
+> Thank<br> :date: __2020-05-19 18:59:32__
+
 > Perfect<br> :date: __2020-05-17 03:30:37__
 
 > Akid<br> :date: __2020-05-17 03:08:26__
@@ -139,10 +143,6 @@ The WHO Info app has been installed by more than **100000** times. At this time,
 > So useful must have app!<br> :date: __2020-05-07 11:42:33__
 
 > To protect myself I follow this application<br> :date: __2020-05-06 16:44:22__
-
-> مقاله ی بیماری کوبید19<br> :date: __2020-05-06 15:09:54__
-
-> Hhhh<br> :date: __2020-05-06 13:10:10__
 
 
 
@@ -198,6 +198,10 @@ The WHO Info app has been installed by more than **100000** times. At this time,
 <img src="1_star_reviews_wordcloud.png" alt="org.who.infoapp 1 reviews"/>
 </p>
 
+> How can I change the language?<br> :date: __2020-05-19 00:43:45__
+
+> This app is useless it can't download many times l try<br> :date: __2020-05-18 07:25:58__
+
 > I don't like this app<br> :date: __2020-05-14 07:07:35__
 
 > The world health organization are deliberately killing people with tainted vaccines all around the world health should be put away from the elite cartels that danger public health - Covid-19 is a biological Engineered Weapon of mass Destruction<br> :date: __2020-05-12 23:43:51__
@@ -213,9 +217,5 @@ The WHO Info app has been installed by more than **100000** times. At this time,
 > Keeps coming Up with typing error<br> :date: __2020-05-06 02:07:37__
 
 > Errors<br> :date: __2020-05-03 17:24:33__
-
-> This app will not download. I have tried several times. The app is useless.<br> :date: __2020-05-02 13:44:43__
-
-> DND<br> :date: __2020-05-01 23:59:44__
 
 

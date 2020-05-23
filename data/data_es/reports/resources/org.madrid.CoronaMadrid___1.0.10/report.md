@@ -150,6 +150,8 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="org.madrid.CoronaMadrid 5 reviews"/>
 </p>
 
+> En el centro de salud calle odonell no les dio la gana de hacerlo.con una oscultacion de 1 minuto la dictora ya te decia que no tenias nada .soy de riesgo y cronico .diabetico y con cancer como se explica esa actuacion tengo el nombre de la doctora si me pasa algo esta todo grabado .<br> :date: __2020-05-18 16:20:48__
+
 > Mejorarla, meter más opciones de diagnóstico.<br> :date: __2020-05-09 17:01:13__
 
 > Es una app estupenda para este momento<br> :date: __2020-05-01 13:22:48__
@@ -167,8 +169,6 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 > Deberíamos hacer todos este seguimiento voluntario, creo que podría ser beneficioso para toda la población y para la investigación.<br> :date: __2020-04-13 00:53:49__
 
 > Perfecto gracias<br> :date: __2020-04-12 22:01:18__
-
-> Madrid unida. Siempre fuertes<br> :date: __2020-04-12 19:22:18__
 
 
 
@@ -206,6 +206,8 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 <img src="3_star_reviews_wordcloud.png" alt="org.madrid.CoronaMadrid 3 reviews"/>
 </p>
 
+> Sería más que adecuado, que en la próxima actualización se modificara la recomendación sobre las mascarillas (ya que desde el 21 de mayo su uso es obligatorio en muchos lugares, con independencia de si se tiene o no síntomas). Gracias.<br> :date: __2020-05-21 12:01:07__
+
 > El cuestionario parece anticuado. La tos puede ser con flema (30% casos) o seca. No pregunta desde cuándo se tienen síntomas. No pregunta por dolos de cabeza. Ni por nivel de saturación en sangre por si se tiene oxímetro. No parece que haya intención de hacer pruebas a los que tengan síntomas leves, como se debe para cambiar de fases. Un catarro debería ser motivo de test PCR<br> :date: __2020-05-11 12:59:50__
 
 > De qué me atiendan lo pondre<br> :date: __2020-05-06 13:23:50__
@@ -223,8 +225,6 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 > donde te pregunta de escalofrios o el dolor del cuerop/muslos.......muy pesima la aplicacion...otra vez enganados por el estado.....verguenza ....en estta situation se burlean de la population....<br> :date: __2020-04-02 10:22:37__
 
 > Echo en falta poder indicar si se trata de una persona que vive sola y no tiene red de apoyo en Madrid<br> :date: __2020-03-30 13:46:22__
-
-> Hola, me han comentado que los datos que metemos, sensibles como DNI, edad o teléfono, luego los van a usar la empresa que ha desarrollado la app. Es verdad?<br> :date: __2020-03-29 14:02:58__
 
 
 
@@ -262,6 +262,12 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="org.madrid.CoronaMadrid 1 reviews"/>
 </p>
 
+> La app está bien hecha y funciona bien, si no fuese porque a pesar de tener tres de los cuatro síntomas más comunes de la Covid-19, la app me dice que descarta que pueda tenerla. En el servicio de atención telefónica hacen las mismas preguntas y me dicen que como respiro bien, no puede ser covid, que vaya al médico.<br> :date: __2020-05-20 17:38:20__
+
+> Inútil<br> :date: __2020-05-19 03:45:54__
+
+> Muy básica. No vale de nada<br> :date: __2020-05-18 17:15:34__
+
 > Y la geolocalizacion no está? Pues para qué la quiero. Desinstalo.<br> :date: __2020-05-16 20:16:34__
 
 > Y las miles de personas que desde el principio estamos sin sabor ni olor? No existimos?<br> :date: __2020-05-16 10:47:28__
@@ -275,11 +281,5 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 > No me Dan una respuesta coherente, pues los síntomas no concuerdan con las preguntas.<br> :date: __2020-05-07 11:53:54__
 
 > Podríais actualizar los síntomas, porque tener diarrea y fiebre es síntoma de coronavirus, aquí es coranovirus si te estás muriendo, así nos va asintomáticos o Co algunos síntomas no son lo suficiente para decir que coronavirus, está aplicación sólo detecta si estas muy grave con el virus pero vamos que eso no hace falta que lo diga una aplicación, de eso uno se da cuenta mismamente<br> :date: __2020-05-01 21:16:16__
-
-> La aplicación pregunta si se ha estado en contacto con una persona con coronavirus confirmado, lo que deja fuera a los miles de posibles casos leves a los que no se les hace la prueba. La diferencia entre ser o no caso confirmado no debería ser realmente relevante, cuando en Madrid sólo se hace la prueba a casos graves, personal sanitario y políticos. Actualización: siempre me dijo que mis síntomas no eran de coronavirus. Me hicieron un test rápido en el trabajo y he pasado el COVID... En fin<br> :date: __2020-04-30 23:49:39__
-
-> Nunca pude ingresar y cuando entre me preguntaba hasta el nombre de mis tatarabuelos<br> :date: __2020-04-30 19:08:10__
-
-> Una forma de detectar los síntomas penosa, apenas una preguntas simples y de vez en cuando te llaman para verificar datos y lo único que hace es pasar las mismas preguntas. He tenido que recurrir a la sanidad privada para que efectivamente me hicieran la prueba y he dado positivo. Gracias a que he sido cauteloso y me he mantenido en cuarentena, si es por ellos podría salir perfectamente. ESTA ES LA MEJOR MANERA DE USAR LA TECNOLOGÍA PARA ESTA PANDEMIA. que triste<br> :date: __2020-04-30 18:40:06__
 
 

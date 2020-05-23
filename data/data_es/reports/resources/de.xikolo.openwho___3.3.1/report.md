@@ -165,6 +165,10 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 <img src="5_star_reviews_wordcloud.png" alt="de.xikolo.openwho 5 reviews"/>
 </p>
 
+> Genial<br> :date: __2020-05-21 21:30:52__
+
+> Me parece muy bien que Allan sacado una aplicación así me gustó mucho y quiero decirles gracias<br> :date: __2020-05-21 13:30:58__
+
 > Excelente app<br> :date: __2020-05-08 13:54:41__
 
 > Buenos contenidos de acceso gratis. Falta tener acceso a los documentos que están en inglés ya que leyendo los papper se va haciendo necesario leerlos cuando en el mismo te los recomiendan.<br> :date: __2020-04-28 12:40:29__
@@ -180,10 +184,6 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 > Excelente App muy educativa, hay que buscar la capacitación y hay muchas veces que están en varios idiomas. Muy buena<br> :date: __2020-04-17 04:14:30__
 
 > Excelente app para lo que necesitan traductor actualicen la página y les aparecerá el traductor automático díganlo sin llorar y usen mascarilla weones porfiados hagan cuarentena y si estás contagiado no salgas a contagiar al resto que el virus no es como un resfriado que se va desde tu cuerpo hacia otro y tu te alivias no es ASÍ<br> :date: __2020-04-16 18:44:09__
-
-> No es lo que buscaba pero exselente, tiene para traducir al español Y soy una vieja conbpocos estudios!!<br> :date: __2020-04-16 18:40:36__
-
-> Le falta desarrollo<br> :date: __2020-04-15 21:42:43__
 
 
 

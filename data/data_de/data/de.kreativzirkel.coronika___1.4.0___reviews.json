@@ -1,5 +1,16 @@
 [
     {
+        "userName": "Andreas Becker",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gh3u0ueazBCfYl92m2LrOECpIiYZM-lfOeKNUA91Bk",
+        "content": "Ich hab keine Kontakte und bin nur wenn n\u00f6tig drau\u00dfen :) Die App an sich ist ganz s\u00fc\u00df. Leider ein so furtbares Thema aber",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.4.0",
+        "at": "2020-05-18 08:48:17",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "userName": "Claudia Ayreon",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GictAU-vsT2u3ZY-vzZH2BcvOXZOKP-ljDlIQK7",
         "content": "W\u00e4re gut wenn man die Ansicht in Wochen aufteilen k\u00f6nnte... ansonsten einfach und simpel",
@@ -92,7 +103,7 @@
         "userImage": "https://lh3.googleusercontent.com/-hjoCVwRpamc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckayl65G9NTStYtt2TKtsa_JKnXTA/photo.jpg",
         "content": "App ist einfach zu bedienen (wenn man den Dreh raus hat \ud83d\ude09). Sch\u00f6n, dass die Eintr\u00e4ge bei mir bleiben und nicht automatisch irgendwo landen. Zwei W\u00fcnsche h\u00e4tte ich: 1. Es w\u00e4re sch\u00f6n, wenn man Gruppen ausw\u00e4hlen k\u00f6nnte (z.B. sch\u00e4tzt man, dass 20 weitere Kunden auch im Gesch\u00e4ft waren). Momentan sieht es so aus, als w\u00e4re nur 1 Person au\u00dfer mir dort gewesen. 2. Kontakte aus dem Import lassen sich nicht l\u00f6schen (brauche z.B. nicht den ADAC in der Liste). W\u00e4re sch\u00f6n, wenn man die auch \u201cwischen\u201c k\u00f6nnte.",
         "score": 4,
-        "thumbsUpCount": 20,
+        "thumbsUpCount": 25,
         "reviewCreatedVersion": "1.3.2",
         "at": "2020-04-19 22:22:06",
         "replyContent": null,
@@ -517,8 +528,8 @@
         "repliedAt": "2020-04-03 08:37:51"
     },
     {
-        "userName": "Benny 31",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gi-9GnT4ZWLYYdpdW66P0WIil5jcLeWF1btQdVN",
+        "userName": "Benny",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjnmUexf3fFjoCw01-HOivT37r75bmKpbY-Kty3cA",
         "content": "Liebes Tagebuch heute hab ich wieder im Radio coronanachrichten geh\u00f6rt... \ud83d\ude02",
         "score": 1,
         "thumbsUpCount": 1,
@@ -543,7 +554,7 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgerqYkbW2M0mD3uI8tTXZ7M0qDk0JuCwPPtUlEm8I",
         "content": "Nette Idee, aber zu umst\u00e4ndlich. Wieso kann ich nicht per GPS Orte in meiner Gegend ausw\u00e4hlen, wie es bei Google Maps und einigen anderen Apps funktioniert? Was nutzt es mir, wenn ich einen Ort manuell benennen muss und nicht einmal gespeichert wird, wo sich dieser befindet? Optimal w\u00e4re ein durchgehendes Tracking. Man k\u00f6nnte dann an bestimmten Stellen anklicken, dass man dort \"in Kontakt\" war, von wann bis wann und wem man dort begegnet ist. Noch fortschrittlicher - und durchaus machbar - w\u00e4re es, wenn die App erkennt, ob man im Auto oder zu Fu\u00df unterwegs ist und bei Fu\u00dfwegen die Strecke als \"potenzieller Kontaktbereich\" gespeichert wird. Kontakte sollte man nachtr\u00e4glich erg\u00e4nzen k\u00f6nnen und das Ganze sollte anklickbar auf einer Karte dargestellt werden. So w\u00fcrde auch das Problem mit Paketzustellern gel\u00f6st.",
         "score": 3,
-        "thumbsUpCount": 90,
+        "thumbsUpCount": 94,
         "reviewCreatedVersion": "1.2.0",
         "at": "2020-04-02 14:42:31",
         "replyContent": "Vielen Dank f\u00fcr die ausf\u00fchrliche R\u00fcckmeldung. Auf eine GPS Abfrage haben wir zu Beginn zum Schutz der pers\u00f6nlichen Daten verzichtet. Unser Ansatz setzt auf eine aktive Beteiligung durch die Pflege eines manuellen Tagebuchs. Wir werden dein Feedback aber in kommenden Releases ber\u00fccksichtigen. Bleib gesund! :)",
@@ -609,7 +620,7 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgkZ9u6ACerF54ibDKwLIUsfCW3q2Jcw0pxKQDTiQI",
         "content": "Sehr gut mit viel Potential. Sehr gute und selbst erkl\u00e4rende App mit viel Potential zur Aufzeichnung von Kontakten w\u00e4hrend Corona. Die Entwickler geben sofort R\u00fcckmeldung bei Feedback. Bei Aufzeichnung der Orte und der Kontakte wird einem erst mal richtig klar mit wie vielen Personen man t\u00e4glich zusammentrifft. Danke f\u00fcr diese App und die Arbeit die hier drin steckt.",
         "score": 5,
-        "thumbsUpCount": 27,
+        "thumbsUpCount": 30,
         "reviewCreatedVersion": "1.2.0",
         "at": "2020-04-01 18:25:09",
         "replyContent": "Danke f\u00fcr die positive Bewertung und die vielen n\u00fctzlichen Tipps und Hinweise. Wir arbeiten gerade an einem verbesserten Tagebuch und freuen uns schon auf deinen Input. :)",
@@ -708,7 +719,7 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjN8l7nPJr6u0TUnEhnWtOU2T2a9hMrJfzBGcQgYsA",
         "content": "App ist eine gute Idee. Einige Bewertungen sprechen f\u00fcr eine Standort Freigabe. K\u00f6nnte man in der App als Option einbauen. So kann jeder \u00fcber seine datenfreigabeentscheiden. Seine eigenen Daten verbergen und trotzdem auf \u00f6ffentliche Daten zugreife.der Nutzer bekommt Hinweis \" infizierte Person war heute zu diesem Zeitpunkt auch dort\" Ich war heute einkaufen. Wenn ich infiziertr w\u00e4re w\u00fcssten dann andere Nutzer dass sie m\u00f6glicherweise Kontakt beim Einkaufen hatten. Das geht sicher auch anonym.",
         "score": 4,
-        "thumbsUpCount": 42,
+        "thumbsUpCount": 43,
         "reviewCreatedVersion": "1.2.0",
         "at": "2020-03-31 12:07:35",
         "replyContent": null,

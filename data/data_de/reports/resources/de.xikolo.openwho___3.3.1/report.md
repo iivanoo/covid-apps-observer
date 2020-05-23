@@ -213,6 +213,8 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 <img src="1_star_reviews_wordcloud.png" alt="de.xikolo.openwho 1 reviews"/>
 </p>
 
+> in Deutsch bitte<br> :date: __2020-05-18 12:53:36__
+
 > Kein deutsch<br> :date: __2020-05-12 15:46:33__
 
 > Unbrauchbar bitte in Deutsch übersetzen ansonsten löschen 😡 und dann ist jeder zu hundertprozentig gut Englisch kann Schulenglisch ist anderes wie richtiges Englisch sollte das bitte auch auf deutsch sein weil in Deutschland sterben die Leute ja auch und nicht nur in der Türkei oder Iran oder wo auch immer bitte auf Deutsch danke<br> :date: __2020-04-16 23:12:00__
@@ -230,7 +232,5 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 > Kein deutsch, etwa noch Spam und Überwachung, Vertraue nicht. Sofort Deinstalliert<br> :date: __2020-03-28 10:37:10__
 
 > nichts deutsch habe ich wieder deinstalliert.<br> :date: __2020-03-25 18:42:53__
-
-> Völlig unübersichtlich Deutsch nicht zu finden<br> :date: __2020-03-25 18:13:21__
 
 

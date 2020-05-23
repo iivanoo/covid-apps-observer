@@ -159,6 +159,8 @@ The COVID-19 Symptom Tracker app has been installed by more than **10000** times
 <img src="4_star_reviews_wordcloud.png" alt="com.designit.covid_19 4 reviews"/>
 </p>
 
+> Die Uniklinik hat mir bisher 3mal das Leben gerettet (siehe Krankenakte). Jetzt kann ich mal etwas zurückgeben. Ich würde die App gerne auch auf dem Smartphon meiner Frau aktivieren. Dort werden mir nach der Installation aber meine Eingaben angezeigt. Mache ich etwas falsch?<br> :date: __2020-05-22 21:57:23__
+
 > Habe die App gestern installiert und ich finde sie sehr gut und nützlich. Das ist ein sinnvoller Schritt um die Pandemie immer besser zu bekämpfen. Ich kann es nur weiterempfehlen 👍<br> :date: __2020-04-27 13:39:18__
 
 > kann gut helfen 👍👊<br> :date: __2020-04-27 07:04:57__
@@ -166,8 +168,6 @@ The COVID-19 Symptom Tracker app has been installed by more than **10000** times
 > Es wäre wünschenswert wenn viele Mitbürger diese App nutzen würden.<br> :date: __2020-04-26 21:09:46__
 
 > Gute App. Um 8 Uhr installiert und Fragen beantw. Um 9:00 Benachrichtigung die erst nach zigmaligem quittieren aufhörte. Erinnerung ist gut aber bitte nicht so penetrant<br> :date: __2020-04-26 09:06:49__
-
-> Die Uniklinik hat mir bisher 3mal das Leben gerettet (siehe Krankenakte). Jetzt kann ich mal etwas zurückgeben. Ich würde die App gerne auch auf dem Smartphon meiner Frau aktivieren. Dort werden mir nach der Installation aber meine Eingaben angezeigt. Mache ich etwas falsch?<br> :date: __2020-04-24 13:01:53__
 
 
 
@@ -191,6 +191,8 @@ The COVID-19 Symptom Tracker app has been installed by more than **10000** times
 <img src="2_star_reviews_wordcloud.png" alt="com.designit.covid_19 2 reviews"/>
 </p>
 
+> Die Fragen sind schnell beantwortet. Aber ich frage mich ernsthaft wie lange es dauern kann die Kennzahlen im Status zu überarbeiten. Seit ich diese App benutze steht es dort. Ich würde mich um eine Antwort freuen in es an mir oder der App allgeim liegt.<br> :date: __2020-05-20 20:27:54__
+
 > Gibt es auch ein Feedback seitens der App-Betreiber? Man beantwortet fleißig, aber der Status bleibt dauerhaft unter Bearbeitung. Wäre ja schön, wenn hier der Nutzer auch mal einen nutzen hätte. Aber scheinbar interessieren dann doch nur die wirtschaftlichen Nutzen des Betreibers<br> :date: __2020-05-03 11:42:16__
 
 > Phänomen heute: App startet als hätte ich sie erstmalig aufgerufen (basisfragen zum Start). Also App geschlossen & neu aufgerufen. Nun normale Ansicht, aber heutiger Tag ist als bereits beantwortet abgehakt. Keine Möglichkeit der Erfassung/Korrektur mehr...<br> :date: __2020-05-01 10:13:09__
@@ -211,6 +213,12 @@ The COVID-19 Symptom Tracker app has been installed by more than **10000** times
 <img src="1_star_reviews_wordcloud.png" alt="com.designit.covid_19 1 reviews"/>
 </p>
 
+> Bei mir funktioniert Google Pixel 2 XL Aber das ist nur 7 Tage .... Das ist nur Allgemein Meinung Frage Es läuft nicht Gebe 1 Stern Ich danke dir ❤️<br> :date: __2020-05-23 00:31:53__
+
+> Die App ist völlig unausgereift ! Es gibt keine Möglichkeit Fehlangaben zu korrigieren. Ich habe bei der Frage auf Corona-Testung versehentlich auf positiv getippt, dabei bin ich aktuell negativ ! Keine Möglichkeit dies zu korrigieren !!! So macht es keinen Sinn und ergibt verfälschte Ergebnisse ! In dieser Form ist die App untauglich und wird zu meinem Bedauern deinstalliert! DIE APP BITTE GEWISSENHAFT ÜBERARBEITEN ! Mit freundlichen Grüßen.<br> :date: __2020-05-22 12:32:33__
+
+> Total schlecht woher soll einer wissen ob er es hat oder nicht da nicht jeder Symptome hat xD also die Hersteller von den hier sind echt miserabel. Wenn es gehen würde -5 Sterne<br> :date: __2020-05-20 09:47:15__
+
 > Sollte uns helfen!? Nachtrag: Jedes mal die gleichen Fragen! Der Sinn erschließt sich mir nicht! Deinstalliert!!!<br> :date: __2020-05-17 09:53:07__
 
 > Ich verstehe den Sinn der App nicht so Recht... Ich beantworte jeden Tag die Fragen und was passiert? Genau... Nix...<br> :date: __2020-05-14 22:04:34__
@@ -224,11 +232,5 @@ The COVID-19 Symptom Tracker app has been installed by more than **10000** times
 > Heute hat die App einfach angefangen, mich mit notifications zuzuspammen. 30 notifications in einer Minute. Konnte gar nichts mehr machen.<br> :date: __2020-05-03 09:03:58__
 
 > Das Problem ist trotz vorhandener Internet Verbindung funktioniert sie nicht mehr ich habe sie deshalb gelöscht, Sorry, wenn es wieder funktioniert installiere ich es wieder.<br> :date: __2020-05-01 09:07:22__
-
-> Habe die App am 22.4. installiert, die Daten jeden Tag wie vorgegeben eingetragen. Jetzt am 29.4. auf einmal war mein Konto nach anklicken nicht mehr da mit den bisher eingegebenen Daten. Anstattdessen erscheint nun eine neue Maske, mit einer neuen Benutzername. Das alte Konto erscheint nicht mehr. Wo sind meine alten Daten?<br> :date: __2020-04-30 13:19:00__
-
-> Läd ohne Ende Immer nur ladesymbol<br> :date: __2020-04-29 09:04:22__
-
-> Erinnerung nervig und lässt sich nur durch Neustart ausschalten oder es hängt sich ganz auf<br> :date: __2020-04-29 09:04:17__
 
 

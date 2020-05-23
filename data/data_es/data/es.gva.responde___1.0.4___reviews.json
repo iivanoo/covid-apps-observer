@@ -1,5 +1,27 @@
 [
     {
+        "userName": "M G Sanz",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgbkUIT5-vBvz8CAmJOUFoepWE7zZp1UaZo2ufseA",
+        "content": "Muy completa y \u00fatil.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.0.4",
+        "at": "2020-05-20 16:38:14",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "userName": "Francisco Javier Cabanes Lopez",
+        "userImage": "https://lh3.googleusercontent.com/-YT5xdxFVBmY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckbAFbnBa_BBA6HnXqgErc0DRxiow/photo.jpg",
+        "content": "Informaci\u00f3n fiable y actualizada. Excelente aplicaci\u00f3n",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.0.4",
+        "at": "2020-05-19 19:28:45",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "userName": "Jose Luis Guillen",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhefCRkOpVnWs6kzFkwwzNBathsFYuHfmpfSISIpQ",
         "content": "Ineficaz, las respuestas son confusas, \u00f3, ineficaces.",
@@ -15,7 +37,7 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GimPRDEcDAYlb4xvj4nNF14_ls71DTS6fYnSAnA",
         "content": "Actualizaci\u00f3n completa y diaria de todo lo que nos afecta como ciudadanos. Muy \u00fatil.",
         "score": 5,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "1.0.4",
         "at": "2020-05-14 16:20:01",
         "replyContent": null,
@@ -411,7 +433,7 @@
         "userImage": "https://lh3.googleusercontent.com/-4-D3a4I2DM8/AAAAAAAAAAI/AAAAAAAANb0/AMZuucll4s4EPC-y0pQxjj5RcyFl3_TxTQ/photo.jpg",
         "content": "Con tanta informaci\u00f3n, esta aplicaci\u00f3n la recopila y la muestra estructurada, resolviendo muchas dudas que plantea el estado de alarma. Les \u00e1nimo a que pongan un buscador, ser\u00eda \u00fatil!",
         "score": 5,
-        "thumbsUpCount": 24,
+        "thumbsUpCount": 26,
         "reviewCreatedVersion": "1.0.1",
         "at": "2020-04-04 19:27:16",
         "replyContent": null,

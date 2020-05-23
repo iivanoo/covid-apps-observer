@@ -168,6 +168,14 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 <img src="5_star_reviews_wordcloud.png" alt="gov.fema.mobile.android 5 reviews"/>
 </p>
 
+> Awesome Info<br> :date: __2020-05-21 20:01:11__
+
+> Helpful<br> :date: __2020-05-21 10:49:13__
+
+> Helpful and useful<br> :date: __2020-05-20 23:26:40__
+
+> Works but why no alert sound???<br> :date: __2020-05-17 18:23:59__
+
 > I can call 911 if needed I hear about all emergency weather wise and other like child abduction as well<br> :date: __2020-05-16 15:42:24__
 
 > Options to customize notifications by type and locations. Useful information and links, a good app.<br> :date: __2020-05-13 02:06:20__
@@ -180,14 +188,6 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 
 > This is a great app. Warns you about amber alerts in your area and any kind of danger.<br> :date: __2020-05-04 02:43:08__
 
-> Wonderful.<br> :date: __2020-05-01 06:13:22__
-
-> TIMER AGAINST 60:89.<br> :date: __2020-05-01 04:00:36__
-
-> Amazing app, which works well with Notify NYC. Both are extremely accurate real time tools.<br> :date: __2020-05-01 03:22:24__
-
-> Update<br> :date: __2020-04-29 23:10:11__
-
 
 
 #### 4-star reviews
@@ -196,6 +196,18 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 <img src="4_star_reviews_wordcloud.png" alt="gov.fema.mobile.android 4 reviews"/>
 </p>
 
+> Only worth downloading if you're in a disaster situation. Otherwise it's not very useful.<br> :date: __2020-05-23 06:10:43__
+
+> 🌟<br> :date: __2020-05-22 23:05:11__
+
+> Extremely well covers high pop centers. However, little to no coverage in rural areas. We live in Benton County, MO...no coverage ANYWHERE here.<br> :date: __2020-05-22 15:48:47__
+
+> Excelente<br> :date: __2020-05-22 01:23:54__
+
+> Always on top of it<br> :date: __2020-05-21 12:13:30__
+
+> Weather warnings are necessary, including worse.<br> :date: __2020-05-17 22:09:22__
+
 > It's been very helpful<br> :date: __2020-05-13 12:07:49__
 
 > The weather alert tab is missing Indland Hurricane Warning, Inland Hurricane Watch, Inland Tropical Storm Warning, Inland Tropical Storm Watch, Hurricane Force Wind Warning, and Snow Squall Warning.<br> :date: __2020-04-28 21:42:47__
@@ -203,18 +215,6 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 > pretty good app...it lets you pick locations you want to monitor and it lets you customize the weather settings so youre not pestered to death about things you dont need to know about...i need to figure out if l can fine tune it however...l'm still getting silly things in the middle of the night like it will be "windy" today or "foggy"...thats all well and good...just not at 0300.<br> :date: __2020-04-26 17:06:27__
 
 > Searching for a cure before the worsening<br> :date: __2020-04-14 20:29:37__
-
-> Great information!<br> :date: __2020-04-12 04:20:08__
-
-> Glad it's here but not really sure how useful it is yet.<br> :date: __2020-03-29 04:00:47__
-
-> I want to help not just for donations are money donations I want to volunteer to help<br> :date: __2020-03-27 12:53:53__
-
-> Needs to be updated with covid-19 alerts and or features<br> :date: __2020-03-24 15:35:30__
-
-> Pretty good app, tons of info would have given it a 5 star if it had downloadable prepping lists. It doea have check lists in the app, but no way to download<br> :date: __2020-03-14 03:01:50__
-
-> Very helpful. Easy to use.<br> :date: __2020-02-09 14:55:41__
 
 
 

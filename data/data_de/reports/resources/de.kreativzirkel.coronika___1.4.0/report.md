@@ -163,6 +163,8 @@ The Coronika - Dein Corona Tagebuch app has been installed by more than **10000*
 <img src="5_star_reviews_wordcloud.png" alt="de.kreativzirkel.coronika 5 reviews"/>
 </p>
 
+> Ich hab keine Kontakte und bin nur wenn nötig draußen :) Die App an sich ist ganz süß. Leider ein so furtbares Thema aber<br> :date: __2020-05-18 08:48:17__
+
 > Sinnvolle Idee mit der man Symptome und noch wichtiger die Eintragungen zu getroffennen Personen um die Infektionskette nachzuvollziehen damit die zuständige Behörde mit diesen Daten etwas erreichen!!! DIE HOFFNUNG STIRBT ZULETZT UND WIR ALLE SIND SO VIEL STÄRKER ALS DIESES KLEINE BIEST DAS UNSERE WELT AUF DEN KOPF STELLT Das wird es lehren das wir keine Opfer-Beute sind sondern ein VOLK KEINE RASSEN NUR EINE MENSCHHEIT 😁👆<br> :date: __2020-04-15 14:13:38__
 
 > sehr gute Idee, um ggf etwas zurück zu verfolgen.<br> :date: __2020-04-03 12:20:29__
@@ -180,8 +182,6 @@ The Coronika - Dein Corona Tagebuch app has been installed by more than **10000*
 > Sehr gut mit viel Potential. Sehr gute und selbst erklärende App mit viel Potential zur Aufzeichnung von Kontakten während Corona. Die Entwickler geben sofort Rückmeldung bei Feedback. Bei Aufzeichnung der Orte und der Kontakte wird einem erst mal richtig klar mit wie vielen Personen man täglich zusammentrifft. Danke für diese App und die Arbeit die hier drin steckt.<br> :date: __2020-04-01 18:25:09__
 
 > Gute Idee gegen das virus<br> :date: __2020-03-31 16:34:04__
-
-> Unkomplizierte Anwendung<br> :date: __2020-03-31 13:31:55__
 
 
 

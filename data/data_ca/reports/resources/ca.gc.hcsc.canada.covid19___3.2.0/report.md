@@ -187,6 +187,8 @@ The Canada COVID-19 app has been installed by more than **100000** times. At thi
 <img src="3_star_reviews_wordcloud.png" alt="ca.gc.hcsc.canada.covid19 3 reviews"/>
 </p>
 
+> Should incorporate new Google tracing software. Trudeau recommended more tracing<br> :date: __2020-05-22 17:31:10__
+
 > It would be great if we also can see the map with active cases only. This would be very helpful.<br> :date: __2020-05-11 22:57:22__
 
 > The symptom tracker needs some improvement. I have moderate to severe asthma so I regularly have symptoms like difficulty breathing & coughing. I also have seasonal allergies so sneezing & sinus issues are common for me right now too. If I check these things off on the symptom tracker, it automatically assumes the worst even tho I don't have any other common symptoms like fever, haven't traveled, or been in close contact with know Covid cases. The app doen't ask about pre existing conditions.<br> :date: __2020-05-06 16:13:33__
@@ -204,8 +206,6 @@ The Canada COVID-19 app has been installed by more than **100000** times. At thi
 > I havent really used this app much to give an opinion<br> :date: __2020-04-22 03:00:51__
 
 > Show how many have recovered please I want to know<br> :date: __2020-04-20 17:37:02__
-
-> Completed update and my archive data is gone. Very disappointing.<br> :date: __2020-04-18 06:41:40__
 
 
 
@@ -235,6 +235,8 @@ The Canada COVID-19 app has been installed by more than **100000** times. At thi
 <img src="1_star_reviews_wordcloud.png" alt="ca.gc.hcsc.canada.covid19 1 reviews"/>
 </p>
 
+> Do not download this app, this is another step Justin Trudeau and his communist government are taking to create a policed state. What the government is doing is quite draconian. I would not trust the government with so much power, because at some point it will be abused!<br> :date: __2020-05-23 13:04:17__
+
 > Haven't used yet i hope it is more truthful than the canadian health minister who said masks were not needed because covid wasn't very contagious when documents prove she knew she was lying. There is an app with 2 million users posting their symptoms but can only get what our government wants us to think.<br> :date: __2020-05-16 05:43:47__
 
 > Plandemic Cov.id nine teen is a hoax<br> :date: __2020-05-13 15:47:51__
@@ -252,7 +254,5 @@ The Canada COVID-19 app has been installed by more than **100000** times. At thi
 > Didn't like it so I uninstalled it<br> :date: __2020-04-21 22:18:08__
 
 > possible malware....installed itself on my phone and instantly wanted me to update to newer version. checked the manifest anfd permissions allow it to camera. and send and tecieve messages via c2. mainly though installed on its own on an INACTIVE phone (no sim)<br> :date: __2020-04-19 00:55:33__
-
-> Useless<br> :date: __2020-04-17 01:43:45__
 
 

@@ -130,25 +130,25 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 <img src="5_star_reviews_wordcloud.png" alt="au.gov.health.covidsafe 5 reviews"/>
 </p>
 
-> The health and wellness of everyone is important<br> :date: __2020-05-17 15:10:07__
+> Keepin AUSSIES safe.<br> :date: __2020-05-23 09:06:20__
 
-> I love it. It feels like having an added layer of protection when I go into Coles.<br> :date: __2020-05-17 14:46:47__
+> 28/4/3020 Took less than two minutes to install and register. The only permission it gets is location. 23/5/2020 Since installed it has been fine, no impacts on functionality of phone and negligible battery or storage usage. All good.<br> :date: __2020-05-23 06:25:51__
 
-> Works well, stable, does not crash.<br> :date: __2020-05-17 13:39:56__
+> Keep,s every Victorian safe<br> :date: __2020-05-23 05:54:35__
 
-> App is rubbish. Phone number is invalid<br> :date: __2020-05-17 13:24:56__
+> I have never had this viorus at all now it's time to get things going on now. Warren Patterson<br> :date: __2020-05-23 05:44:56__
 
-> No problems with the app as far as I am concerned. Better to be safe than sorry.<br> :date: __2020-05-17 13:21:25__
+> No problems with installation, battery use or the app dropping off. All good. 2 updates so far.<br> :date: __2020-05-23 04:24:16__
 
-> Lates version has battery usage issues thst earlier ddn't. It would appear that the app only needs Location permission, with Location turned off the app works. Earlier: I would like to contribute but I never have Location on so will not use this app.<br> :date: __2020-05-17 10:43:44__
+> The app appears to do exactly what it says. I have had no issues since installing this app, but I only use my phone as a phone, not a media center like most people seem to. What little risk there might be to my privacy is vastly outweighed by the potential benefits.<br> :date: __2020-05-23 04:08:54__
 
-> S10 5G App doesn't appear to have any impact on performance or security. Your irresponsible if it's not installed!<br> :date: __2020-05-17 02:55:25__
+> No yet<br> :date: __2020-05-22 12:17:15__
 
-> Great<br> :date: __2020-05-17 02:46:06__
+> Great<br> :date: __2020-05-22 10:19:13__
 
-> Those Google accounts that had initially been setup from overseas are not able to download the app, though the users are located here in Australia. Please remove the restrictions.<br> :date: __2020-05-17 01:07:05__
+> Great app very easy to use 👍👍<br> :date: __2020-05-22 09:04:27__
 
-> Exceptional user interface. No bugs. Very slick work<br> :date: __2020-05-16 15:47:36__
+> I cant get the app on my phone<br> :date: __2020-05-22 08:37:17__
 
 
 
@@ -158,25 +158,25 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 <img src="4_star_reviews_wordcloud.png" alt="au.gov.health.covidsafe 4 reviews"/>
 </p>
 
-> Great idea and service, execution not so good. My battery on a Samsung S10+ only lasts now to about 5pm (9 hrs) whereas it usually would last double that. I've installed the update today and will test again. /Update/ since updating to the newer release the battery is not badly affected. Increased to 4 stars.<br> :date: __2020-05-17 15:02:46__
+> Looking forward to integration to Google Exposure API for more efficient battery use.<br> :date: __2020-05-23 13:11:36__
 
-> Don't know yet.<br> :date: __2020-05-17 03:18:24__
+> I find it very difficult to negotiate the app.<br> :date: __2020-05-23 12:52:16__
 
-> A great concept but it needs all of us to use it to help keep us all safe. Note oppo users will need to lock the app so the phone doesn't close it down. To do that, start the app, tap the square menu thing at the bottom of your phone, swipe the app down (you should then see a padlock at the top left of the app screen).<br> :date: __2020-05-17 02:04:26__
+> Didn't like the old version as I had lots of issues like causing the GMail app to stop syncing. Let alone the annoying permanent notification on the screen. But the new version overcome 90% of the issues. Well done Aussies!<br> :date: __2020-05-22 13:00:22__
 
-> Edit - Seems fixed in latest update. Causes my Sony Xperia Xa2 to blank screen during a call, making it impossible to hang up the call.<br> :date: __2020-05-16 06:05:31__
+> Generally don't notice the app running at all; however started using the phone for music in the car today and it constantly causes the cars Bluetooth to reset about 1-2 minutes into each song. Phone = Samsung S9+ Car = Mazda BT50 2014 (Don't know what version of Bluetooth) Hopefully you can resolve this issue.<br> :date: __2020-05-22 06:18:48__
 
-> I find the app places significant drain on my battery. I'm using a Samsung s7<br> :date: __2020-05-15 12:23:47__
+> App works fine on my S9. Only issue is the battery drain.<br> :date: __2020-05-21 14:30:12__
 
-> Good<br> :date: __2020-05-15 08:00:09__
+> Great app, every Australian should get it! I'd give 5 stars but for 1 reason. I really don't like the permanent lock screen notification that the app is 'protecting' me. I don't care. I just want it to work quietly in the background and not bother me until it needs to. I'd be quite surprised if any user wants the app to remind them it is there every time they pick up their phone. Please create a setting to turn this off -- then you'll get my 5 stars.<br> :date: __2020-05-21 10:36:51__
 
-> Update. Finally able to register the next day. Jan still not happy. . You'd think they would of had the app bug checked by now. Considering the amount of time they have been talking about it. Not happy Jan...! So, I am a Muppet and an inpatient Troll! It now after 6pm and it still won't except my phone number. I have un installed, and re installed. It is still a bug ridden 1 star because I can't give it a ZERO..<br> :date: __2020-05-15 04:43:58__
+> Good but small things. hahahaha. Right. Got that<br> :date: __2020-05-21 09:00:54__
 
-> Kept disconnecting blue tooth.<br> :date: __2020-05-15 00:24:56__
+> Downloaded and uninstalled and downloaded again after having done more research. Easy to uninstall but need to switch off another in list of apps that appears as a code of letters and numerals which I presume is the encryption as stated in the privacy policy and conditions, worth reading in this case. No issues experienced in downloading and uninstalling on my Samsung S10! Also, no issues with my Bluetooth audio and car phone nor my audio ear buds and Bluetooth is turned off whilst home alone.<br> :date: __2020-05-21 03:38:46__
 
-> Presumably working quietly in the background. Pleasing that the source code has been made available. A persistent, slightly irritating and presumptuous "keeping you safe" badge cannot be easily hidden but at least will remind me to delete the app when/if the need is passed.<br> :date: __2020-05-14 15:09:16__
+> Runs fine. Easy to set up. Unsure if Bluetooth drains battery quicker than normal but hey if it helps opening up the lockdown, so be it.<br> :date: __2020-05-21 00:20:47__
 
-> Does the app need to take up space in my notifications? To me that's a bit like the kid who cried wolf. Please just give me notifications that matter not a constant space waster at the top of the screen.<br> :date: __2020-05-14 14:07:58__
+> Drains battery like crazy but it's for a good cause and it won't be forever so i can deal with it!<br> :date: __2020-05-21 00:04:55__
 
 
 
@@ -186,25 +186,25 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 <img src="3_star_reviews_wordcloud.png" alt="au.gov.health.covidsafe 3 reviews"/>
 </p>
 
-> Have son with diabetes so installed but it is a battery hog. Disable bluetooth while at home. Battery usage showed 47% usage was by this app while all other apps negligable.<br> :date: __2020-05-17 11:10:32__
+> Mr Morrison said it only uses Bluetooth, it also uses your GPS. Also the notification bar is permanent.<br> :date: __2020-05-23 12:32:26__
 
-> We'll see...<br> :date: __2020-05-17 09:18:10__
+> If the Govt were serious it should have been backwood compatible with earlier operating systems<br> :date: __2020-05-22 08:58:29__
 
-> Severely disrupts my Bluetooth connection with speakers, headphones, etc. So when I'm playing music on my phone and the app is active, the music skips.<br> :date: __2020-05-17 06:44:08__
+> I've had no major problems. However the constant icon that appears with the install is annoying, I have a new Android so I was able to turn-off the foreground service notification for covidsafe in my app settings to get rid of it. I was unable to install the app to my elderly step dad's Samsung because despite only being a couple of years old it was incompatible. He reports that as a common issue amongst his peers. So I think there is room for improvement but no reason not to install it<br> :date: __2020-05-22 02:03:38__
 
-> I don't mind the app but I don't understand wire displays how many minutes and the time when I pull down my home screen and it's running in the background what do the minutes mean? Eg: covidsafe 12m ??<br> :date: __2020-05-16 16:03:40__
+> The concept is a good idea in theory. I only turn my wifi on when I leave home so I have not experienced any battery issues with my Galaxy S10 5G device. I don't believe any state or territory has been able to read any data being produced by this app yet, therefore it's difficult to know if the app is actually working?<br> :date: __2020-05-21 00:42:39__
 
-> I wish it would remind me to enable Bluetooth when I leave the house. I ussually turn of Bluetooth to save battery.<br> :date: __2020-05-16 15:04:09__
+> Needs more Hing.<br> :date: __2020-05-20 09:03:39__
 
-> App switches itself off! Need to continually monitor the optimisation battery section and switch on for it to function!!!!<br> :date: __2020-05-16 11:42:11__
+> Keeps turning off even though I have turned off battery optimisation settings.<br> :date: __2020-05-20 04:40:27__
 
-> It seems as though my battery runs flat quicker than usual since installing, and my screen is always warm.<br> :date: __2020-05-15 20:57:45__
+> I know this is important so will keep it but it drains battery excessively. Almost to the point it's unusable. I've had to start carrying a portable charger when I'm out. I think I'm going to have to disable it when I'm at home. I can't carry a portable charger around the house. Ridiculous.<br> :date: __2020-05-19 16:40:19__
 
-> The app is still saying it is not active unless notifications are allowed despite the app updated claiming this is no longer the case<br> :date: __2020-05-15 16:20:15__
+> When the app is installed and I'm connected to a device with Bluetooth and playing music, the music seems to cut out a lot. When the app is not installed it works fine.<br> :date: __2020-05-19 15:51:05__
 
-> Battery optimisation option constantly flagging every time the app opens regardless of how many times I select allow.<br> :date: __2020-05-15 09:56:35__
+> Can't fairly assess it yet. Seemed to work OK until I installed Malwarebytes to protect my device from malware attacks. Now the COVIDSafe icon is map of Australia keeps disappearing from top of my screen and is replaced by the Malwarebytes app symbol. If I go into the COVIDSafe app, it reappears and sits beside the Malware bytes icon at top of page a while and then disappears again. Is this OK? I thought the COVID icon had to remain there at all times. Why is the Covid icon disappearing?<br> :date: __2020-05-19 12:47:32__
 
-> Happy to run it, but the permanent notification display is annoying. Turning notifications off thru app manager disables the app... Would be good to have an option to turn off the notification icon.<br> :date: __2020-05-15 09:41:36__
+> Have had to uninstall because of the excess battery drain, unable to carry out my day-to-day work and I rely on my device. Would love to be able to put this app to sleep when connected to my home WiFi - seems like a low hanging fruit to actually meet the problem this app is trying to solve.<br> :date: __2020-05-19 07:44:11__
 
 
 
@@ -214,25 +214,25 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 <img src="2_star_reviews_wordcloud.png" alt="au.gov.health.covidsafe 2 reviews"/>
 </p>
 
-> re<br> :date: __2020-05-17 06:26:37__
+> Stuffs up my Bluetooth<br> :date: __2020-05-23 11:53:17__
 
-> The way it drains my battery is may as well be perminately plugged in<br> :date: __2020-05-17 04:24:22__
+> Constantly being killed in the background. I've told Android to leave it alone, don't know why my phone would be killing it given that I've got 8gb of ram and usually about 5gb free.<br> :date: __2020-05-23 07:30:35__
 
-> Used up the battery from first use. After a week of charging the phone frequently it stopped working. Had no issues until downloading the app. Would not use it. It was not a new phone but worked. Drains battery on older phones.<br> :date: __2020-05-17 02:19:00__
+> How do u know when you've walked near someone who has covid19 does the phone beep<br> :date: __2020-05-23 05:19:29__
 
-> It wouldn't stay active. It always deactivates every time my phone goes on lock screen. I have to always activate it. I hope they fix it soon.<br> :date: __2020-05-17 00:00:51__
+> This app interferes with my Bluetooth audio. Sound drops out randomly but often. When I force stop the app, Bluetooth audio functions normally.<br> :date: __2020-05-23 04:00:18__
 
-> The latest update (with the green Australia symbol) is chewing my battery at idle. It uses 10% per hour when my phone is idle. Was fine until the latest update. You need to fix this. UNINSTALLING.<br> :date: __2020-05-16 14:31:22__
+> Since I started running this app my Bluetooth keeps getting turned off.<br> :date: __2020-05-23 03:29:37__
 
-> Initially didn't recognise my phone number, 5 attempts later accepted it. It then took 9 PIN requests because it never sent the PIN before the 5 minute time out.<br> :date: __2020-05-16 11:48:29__
+> This app drains the battery fast. Almost considering to uninstall.<br> :date: __2020-05-22 14:42:58__
 
-> Always wants to set permissions when I've already set them.<br> :date: __2020-05-16 09:31:06__
+> Suggestion to use the gps location instead of bluetooth as it drain the battery heavy ly and to keet the blue tooth as a options if you are going to public places<br> :date: __2020-05-22 04:24:47__
 
-> With the covid-safe installed there are constant interuptions to other devices also using Bluetooth. Uninstall covid-safe no problems. Would love to use this app but it is very hard to listen to interrupted music<br> :date: __2020-05-16 09:20:56__
+> It disconnects my Bluetooth headphones<br> :date: __2020-05-22 04:14:46__
 
-> This keeps us safe, and the rating isn't about downloading the app. Rather, this apps negatively affects your phones functioning. 1) battery is drained at an insane pace!!! Full battery gone by noon (S10). 2) Bluetooth device disruption, both my buds and my UE Boom drop out often. Since uninstalling the app, both of these functions have returned to normal.<br> :date: __2020-05-16 01:35:17__
+> Awesome idea, but I uninstalled after 1 day because it drained my battery continuously<br> :date: __2020-05-21 23:29:43__
 
-> Unsure of value of app until it's required but it's seriously detrimental to Bluetooth connectivity. Can't steadily stream music to my headphones etc, Can't connect my fitbit for exercise, Can't hotspot internet for my tablet. Poor effort really, if it was any other app, no one in their right mind would allow such a detrimental impact to the standard running of their phone.<br> :date: __2020-05-16 00:25:00__
+> @CovidSafeapp has issues, it keeps disconnecting my beats bluetooth headphones sound while watching videos. On uninstalling app theu work fine. Same issue on my wife's phone with bose headphones.<br> :date: __2020-05-21 22:41:51__
 
 
 
@@ -242,24 +242,24 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 <img src="1_star_reviews_wordcloud.png" alt="au.gov.health.covidsafe 1 reviews"/>
 </p>
 
-> Says doesn't track you but requires location permission? For the app to work seems legit.<br> :date: __2020-05-17 14:40:30__
+> Stops working after a couple of hours and rebooting is needed to get going again. Version 6.0.1 of Android. Err message flashes with description "Unfortunately, Bluetooth Share has stopped". In this state I couldn't even answer a call. Very little usefulness for my Motorola Moto G 3rd generation. Tried with versions 1.0.1, 1.0.16, 1.0.17 with no success. Still hopeful.<br> :date: __2020-05-23 09:38:36__
 
-> It's a POS!!! won't stay on despite Bluetooth on & tracking app on in the background. , Yeh download the app they keep telling you, well fix it up and we will !!<br> :date: __2020-05-17 14:19:03__
+> Severe bluetooth connectivity issues with other devices now I have this app, keeps cutting out the other connection. Needs work.<br> :date: __2020-05-23 09:32:08__
 
-> Big battery drain issues Samsung s10. Also had Bluetooth car connection problems. Would love to help but the app is causing big issues.<br> :date: __2020-05-17 12:50:32__
+> Really WANT to use the app, think it's a good idea but am unable to register. The app doesn't reject my mobile phone number - it tells me it's sent the PIN to my number, which is shown correctly on the screen, but the PIN doesn't arrive. Tried via wifi & mobile data, with 0 at the front of my number & without, done clean reinstalls, phone (Nokia 6, Android 9) software up to date - still no luck. Support unhelpful. UPDATE 23 May: Still unable to register, emails now ignored. Lowered rating.<br> :date: __2020-05-23 09:07:21__
 
-> A great idea but shame we have the morons out of touch with reality running the states and country! I had this installed but with restrictions continuing no point continuing with this app!<br> :date: __2020-05-17 12:31:47__
+> cannot register says phone number invalid. suggested work arounds do not help either<br> :date: __2020-05-23 07:40:58__
 
-> Constantly turns itself off due to the battery optimize setting, making it pointless.<br> :date: __2020-05-17 10:06:53__
+> Terrible ... says no internet when mobile working FINE! I have a Samsung S7 Edge. Downloaded App ok, put in my info and tried to register, got to download PIN ... said 'check your internet'<br> :date: __2020-05-23 04:15:20__
 
-> took 4 attempts to install the app. the screen froze several times. Àfter installing this app, my mobile connection regularly dropped out. There is not much use to having a locator app if there is no mobile connection. So I uninstalled the app from my phone<br> :date: __2020-05-17 09:36:38__
+> It will not download. Im a tech expert. Android 7.1.1.<br> :date: __2020-05-23 03:52:31__
 
-> Useless app, my android phone is only 2 years old but still as soon as screen goes off the app deactivates and shuts down. Fix asap or will uninstall it's not working anyway. Typical government can't get a bloody app right that works for everyone. And they want you to download app, what a joke!!!!!<br> :date: __2020-05-17 09:11:47__
+> Why are 1 star reviews being deleted?<br> :date: __2020-05-23 02:16:18__
 
-> My older Optus smartphone says CovidSAFE safe will be installed SOON but has said this for a week now yet it does NOT show in my list of apps on this phone yet confusing in another field days it is installed BUT IT IS NIT WIRKING<br> :date: __2020-05-17 06:44:45__
+> I find it is not working at all I keep my phone on 24/7 and no notifications at all. 😠😠 So this app is a useless app.😠😠. Save yourself the trouble and don't install it use a different one. Be Covid safe anyone who reads this.👍👍<br> :date: __2020-05-22 23:01:03__
 
-> Using bluetooth to track u is wrong your details including bank and other data u use on ur mobile can be stolen<br> :date: __2020-05-17 01:33:19__
+> Made my phone impossible to use playing audio with bluetooth headphones. Sound constantly skipped. As soon as I stopped this app, there was no longer a problem.<br> :date: __2020-05-22 16:41:02__
 
-> Boo I say! The CCP called, it wants its app back<br> :date: __2020-05-17 00:55:06__
+> Storing the encryption key(s) with the data seems crazy? As for protecting our privacy by legislation, I'm so reassured and comforted ... :-( I'm glad government spokespeople said it is okay to use an alias in the COVIDSafe app, and personnally I'd recommend everybody put an alias into this app!!<br> :date: __2020-05-22 12:17:10__
 
 

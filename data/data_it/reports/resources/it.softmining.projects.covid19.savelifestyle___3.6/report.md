@@ -181,6 +181,12 @@ The SM_Covid19 app has been installed by more than **10000** times. At this time
 <img src="5_star_reviews_wordcloud.png" alt="it.softmining.projects.covid19.savelifestyle 5 reviews"/>
 </p>
 
+> Ottimo!<br> :date: __2020-05-22 22:17:43__
+
+> Ottima<br> :date: __2020-05-18 22:36:53__
+
+> Siete bravi complimenti<br> :date: __2020-05-18 17:31:28__
+
 > Ottima app.?<br> :date: __2020-05-15 20:42:37__
 
 > Lo appena scaricato per adesso li do 5 stelle per adesso mi dà rischio 0 poi vedremo più avanti<br> :date: __2020-05-15 20:41:15__
@@ -195,12 +201,6 @@ The SM_Covid19 app has been installed by more than **10000** times. At this time
 
 > Ok privacy! Intuitiva. Well done!<br> :date: __2020-05-13 00:20:05__
 
-> Informazioni in merito il mio astistente del mio telefono mi comunica come sito pericoloso potete spiegarmi come mai. Grazie<br> :date: __2020-05-12 18:41:55__
-
-> MITICOLOSA SI.....AMPIA E MOLTO VASTA CE<br> :date: __2020-05-12 13:30:48__
-
-> App fatta bene devo ancora testare il funzionamento<br> :date: __2020-05-11 03:12:43__
-
 
 
 #### 4-star reviews
@@ -208,6 +208,10 @@ The SM_Covid19 app has been installed by more than **10000** times. At this time
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="it.softmining.projects.covid19.savelifestyle 4 reviews"/>
 </p>
+
+> Molto interessante<br> :date: __2020-05-22 05:46:37__
+
+> Discreta precisione, vedremo in luoghi aperti<br> :date: __2020-05-18 01:27:06__
 
 > Ottima app.<br> :date: __2020-05-15 20:54:14__
 
@@ -225,10 +229,6 @@ The SM_Covid19 app has been installed by more than **10000** times. At this time
 
 > Sarebbe importante, al fine di capire quanto utile sia l'uso di questa app, avere anche una traccia anonima di quanti altri utenti con la stessa app abbiamo incontrato.<br> :date: __2020-05-04 13:47:20__
 
-> Nn male Abruzzo si scrive con una sola b 🤔🤔 Da sviluppare la mappa interarttiva in maniera da visualizzare in tempo reale sulla mappa tutti i Bt positivi rossi negativi verdi sarebbe buono di turra europa da poter gestire in un unica app anche gli italiani che andranno all estero e gli stranieri Buono l idea del qr code per entrare nei locali Manxa la parte di autocertificazione online<br> :date: __2020-04-29 18:18:29__
-
-> Spero possa essere utile a qualcuno....<br> :date: __2020-04-28 19:19:40__
-
 
 
 #### 3-star reviews
@@ -236,6 +236,10 @@ The SM_Covid19 app has been installed by more than **10000** times. At this time
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="it.softmining.projects.covid19.savelifestyle 3 reviews"/>
 </p>
+
+> Affidabile al50%<br> :date: __2020-05-22 11:17:59__
+
+> Come faccio a mettere come lingua l'italiano? Nelle impostazioni c'è scritto italiano ma invece nella app compare l'arabo<br> :date: __2020-05-20 10:31:01__
 
 > è il primo maggio....dove è la versione senza beta test, cioè operativa?! senza la possibilità di segnalarsi che senso ha l app?<br> :date: __2020-05-01 14:50:45__
 
@@ -253,10 +257,6 @@ The SM_Covid19 app has been installed by more than **10000** times. At this time
 
 > Appena scaricata. C'è l'icona badge che segnala "1", cosa mi sono perso?<br> :date: __2020-04-23 20:04:11__
 
-> L'ho scaricata ieri e non so se è una mia impressione ma mi sembra che la betteria del telefono si scarichi molti più in fretta.<br> :date: __2020-04-22 11:55:02__
-
-> Buona nelle intenzioni ma ad oggi incompleta e oggettivamente non utile. Non disinstallata ma disattivata. Il perché è presto detto: come si fa ad inserire una positività? Le autorità che dovrebbero farlo hanno una app che permetta di scansionare barcode della app? Ammesso che ce l'abbiano, se uno non porta con se smartphone in ospedale e viene ricoverato per complicanze, non verrà segnato come positivo... Tanti dubbi...<br> :date: __2020-04-22 08:44:30__
-
 
 
 #### 2-star reviews
@@ -264,6 +264,8 @@ The SM_Covid19 app has been installed by more than **10000** times. At this time
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="it.softmining.projects.covid19.savelifestyle 2 reviews"/>
 </p>
+
+> Per ora due stelle. Piuttosto invadente, è una notifica continua! Se si chiude arriva subito una notifica e si riapre. Non può lavorare in background come tutte le altre senza sostituirsi alla schermata principale? E usare solo la geolocalizzazione senza dover tenere acceso anche il bluetooth, sia per il risparmio energetico della batteria sia per evitare inavvertitamente di concedere l'accesso al telefono ad un dispositivo sconosciuto? Aggiornamento: Ok per le notifiche, non ci sono più ma KO per la whitelist perché non può e non deve prosciugare la batteria.<br> :date: __2020-05-21 09:34:47__
 
 > Disinstalla quasi subito, mi appare in modo quasi continuo la notifica da parte di questa app di un consumo eccessivo della batteria.<br> :date: __2020-05-16 16:25:43__
 
@@ -278,8 +280,6 @@ The SM_Covid19 app has been installed by more than **10000** times. At this time
 > A me ogni 7 secondo mi fa arrivare lo schermo ...continuamente ...<br> :date: __2020-04-25 14:22:54__
 
 > Dopo l'aggiornamento il telefono si accende di continuo. Anche in mezzo a tanta gente il rischio rimane sempre 0 (forse ce ne sono ancora poche installate?)<br> :date: __2020-04-24 21:00:58__
-
-> Per ora due stelle. Piuttosto invadente, è una notifica continua! Se si chiude arriva subito una notifica e si riapre. Non può lavorare in background come tutte le altre senza sostituirsi alla schermata principale? E usare solo la geolocalizzazione senza dover tenere acceso anche il bluetooth, sia per il risparmio energetico della batteria sia per evitare inavvertitamente di concedere l'accesso al telefono ad un dispositivo sconosciuto?<br> :date: __2020-04-22 00:12:01__
 
 > Popup impostazione bluetooth che continua ad apparire.Sarò ben padrone di disabilitarlo se ne ho necessitá. Disinstallata<br> :date: __2020-04-21 15:45:26__
 

@@ -169,6 +169,18 @@ The CDC app has been installed by more than **100000** times. At this time, **11
 <img src="5_star_reviews_wordcloud.png" alt="gov.cdc.general 5 reviews"/>
 </p>
 
+> Awsome<br> :date: __2020-05-22 21:10:05__
+
+> Great app for all humanity.<br> :date: __2020-05-20 19:40:13__
+
+> Perfect .thanks to warming when sickness comes alone<br> :date: __2020-05-20 18:11:24__
+
+> Keeps me up to date<br> :date: __2020-05-20 11:21:54__
+
+> Keeps updated and convenient for all. Recommend it<br> :date: __2020-05-18 16:39:02__
+
+> Coronavirus (COVID-19) every day updates<br> :date: __2020-05-17 16:54:18__
+
 > Good<br> :date: __2020-05-15 14:40:09__
 
 > OBVIOUSLY this is DEFINITELY AN AMAZING APP AVAILABLE ON MOBILE DEVICES ESPECIALLY DURING THIS WORLD SPREAD EXTREMELY DEADLY PANDEMIC THAT NOT ONLY JUST HERE IN AMERICA, BUT ALL OVER THE ENTIRE WORLD THE DEATH TOLLS HAVE ALREADY FAR SURPASSED THE HUNDREDS OF THOUSANDS ALREADY CONFIRMED DEATHS AND EVEN WORSE, IT IS NOT GOING TO DO ANYTHING OTHER THAN WORSEN WORLDWIDE , HIGHEST IN AMERICA ONLY CAN IMPROVE BY CONTINUING 2 SELF QUARANTINE<br> :date: __2020-05-12 11:32:13__
@@ -176,18 +188,6 @@ The CDC app has been installed by more than **100000** times. At this time, **11
 > Awesome 👍👍👍<br> :date: __2020-05-07 05:35:52__
 
 > government for me mean everything that means CDC is a nice company yeah they're working really nice the highest voice control sync, external complete is you want to get in touch with something like business you could you should use this you get more information about how it works for me work nice you should try to<br> :date: __2020-05-07 01:38:57__
-
-> Great CDC News<br> :date: __2020-05-07 01:00:50__
-
-> USA, CDC name greg lewis,first all im 100% Team cdc. This health& desease agency/ research lab is the Best.their work saves countless lives daily,words truly can't express how grateful i am for their existence.we all should be happy.May god bless u in your continued future endeavors. G.Lewis.......<br> :date: __2020-05-06 23:42:42__
-
-> I Luv it<br> :date: __2020-05-06 20:44:06__
-
-> Source of trustworthy data.<br> :date: __2020-05-06 18:28:30__
-
-> Great services...<br> :date: __2020-05-04 18:55:58__
-
-> Thank you<br> :date: __2020-05-03 23:05:46__
 
 
 
@@ -225,6 +225,8 @@ The CDC app has been installed by more than **100000** times. At this time, **11
 <img src="3_star_reviews_wordcloud.png" alt="gov.cdc.general 3 reviews"/>
 </p>
 
+> Disappointing. Not as useful as I expected. Doesn't show up to date info. Just info we've already seen 1000 times. Expected more from the CDC whom I've always respected.<br> :date: __2020-05-23 06:09:07__
+
 > App does not work on android phones.<br> :date: __2020-05-15 00:22:26__
 
 > Useful to keep up, especially with the Sars-CoV-2 outbreak, but really annoying design. Harder to help less technically inclined use it.<br> :date: __2020-05-08 04:29:03__
@@ -242,8 +244,6 @@ The CDC app has been installed by more than **100000** times. At this time, **11
 > Ever since the COVID-19 Coronavirus struck the U.S., I want to be more informed and so I installed the CDC app so I can be so. Unfortunately for me however, everytime I tap on notifications fron this app, this app fails to display the news article it notified me about within the app once it starts it.<br> :date: __2020-04-10 23:42:01__
 
 > I think it is a great idea and it's definitely one that should be improved upon. The app falls short in information and in many ways it's easier to navigate the CDC website. Local alerts and information would greatly increase the useful aspects of the app.<br> :date: __2020-04-02 01:32:17__
-
-> Deep<br> :date: __2020-04-01 08:16:21__
 
 
 
@@ -281,6 +281,12 @@ The CDC app has been installed by more than **100000** times. At this time, **11
 <img src="1_star_reviews_wordcloud.png" alt="gov.cdc.general 1 reviews"/>
 </p>
 
+> Someone on a government level has used this app illegally to track my being I did not give permission to download this app and it will not allow me to uninstall the covid-19 app<br> :date: __2020-05-23 05:23:02__
+
+> Useless. Can't find covid19 numbers. Or CDC publications on re-opening.<br> :date: __2020-05-21 06:38:53__
+
+> Just a poor app (Mickey mouse programmers)<br> :date: __2020-05-19 10:58:58__
+
 > What's the point? It's easier to navigate CDC.gov.<br> :date: __2020-05-15 11:20:46__
 
 > Data is not up to date!<br> :date: __2020-05-15 03:02:09__
@@ -294,11 +300,5 @@ The CDC app has been installed by more than **100000** times. At this time, **11
 > Sucks ... need update .. uninstalled..<br> :date: __2020-05-08 01:58:58__
 
 > The CDC is nothing but uneducated garbage!! You need to employ someone who actually has some common sense to not speak before they have the facts. Great job creating mass hysteria!!!! Well done coming with recommended activities and wearing of masks after the fact.<br> :date: __2020-05-05 06:19:56__
-
-> Political. Nothing more to say.<br> :date: __2020-05-03 23:37:56__
-
-> App won't close no matter what. Have to restart my phone to get out of it. Uninstalling.<br> :date: __2020-05-02 23:38:29__
-
-> I'm getting notifications at 2 am....stop<br> :date: __2020-05-02 08:24:32__
 
 

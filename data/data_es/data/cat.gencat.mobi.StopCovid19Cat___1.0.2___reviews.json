@@ -1,5 +1,27 @@
 [
     {
+        "userName": "Pablo Montes Mart\u00ednez",
+        "userImage": "https://lh3.googleusercontent.com/-2QdpVqKcotM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck_vOaD5pawHuxeBF5eldpKkxn2mQ/photo.jpg",
+        "content": "gracias a apps de este tipo vamos a vivir una distop\u00eda",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2020-05-22 13:46:28",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "userName": "Llu\u00eds G. Mujal",
+        "userImage": "https://lh3.googleusercontent.com/-SOt3WRw9yLo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn82hrbMbxPoNsYZWIZVOnNUbnAbw/photo.jpg",
+        "content": "Haver perdut el gust i l'olfacte, que segons un estudi for\u00e7a ampli fet x una U. dels EE. UU., una de Su\u0117cia i diverses de la G Bretanya, que deveu con\u0117ixer, s\u00f3n m\u0117s importants x detectar qui ja l'ha passat o \u0117s contagiar\u00e0 properament. Gr\u00e0cies Senador J Cambra Int JIC",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.0.2",
+        "at": "2020-05-19 13:57:13",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "userName": "Inma Rojo",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiJJ4kCq5dNPnD2zmjcHfgCiLUms7uErN9cNWUF",
         "content": "Poco detallada",
@@ -631,7 +653,7 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gib9zxWSWmg-bTveaorHF0J2r18HONvfxIBKlwfsl4",
         "content": "No le veo ning\u00fan sentido a esta app. Para lo \u00fanico que sirve es para que la Generalitat tenga datos para saber hasta donde pueden enga\u00f1arnos. Siempre dice lo mismo, que te quedes en casa por ser posible positivo. Si le hubiera hecho caso no habr\u00eda ido a urgencias. Ahora ya se que soy positivo en covid-19 y me han puesto en tratamiento. Tampoco te llama nadie por muy mal que est\u00e9s ni por muchos d\u00edas que tengas fiebre. Dudo que alguien supervise nada en la app. Una app in\u00fatil",
         "score": 1,
-        "thumbsUpCount": 68,
+        "thumbsUpCount": 72,
         "reviewCreatedVersion": "1.0.2",
         "at": "2020-04-09 19:56:06",
         "replyContent": null,
@@ -1331,7 +1353,7 @@
         "repliedAt": null
     },
     {
-        "userName": "SoaRZerminator",
+        "userName": "Zerminator",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjZMJDi7dzSF0akZU-q6CpeZytfBMqvxEfoci-VYA",
         "content": "Yo no tinc el COVID19 perque JoActuo i hem quedo a casa :)",
         "score": 5,
@@ -1940,7 +1962,7 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiXLXJRogw8HN11qNpAuOCEO0LXI3LJr9FjlI-Zjg",
         "content": "El que ha hecho el test se ha lucido. Solamente que tengas uno de los s\u00edntomas del inicio ya te dice que eres probable portador no s\u00e9 para qu\u00e9 sirve el resto de preguntas... \u00c9sta aplicaci\u00f3n no aporta nada nuevo o que no sepas. En fin otra manera m\u00e1s de crearte miedo. Y si es una app simplemente para crear una estad\u00edstica yo me pregunto qu\u00e9 veracidad debe tener. Cu\u00e1nta gente debe haber contestado que tiene los s\u00edntomas sin ser cierto? S\u00f3lo para ver qu\u00e9 te contesta... En fin.",
         "score": 1,
-        "thumbsUpCount": 118,
+        "thumbsUpCount": 122,
         "reviewCreatedVersion": "1.0.0",
         "at": "2020-03-25 06:01:20",
         "replyContent": null,
@@ -2325,7 +2347,7 @@
         "userImage": "https://lh3.googleusercontent.com/-e4MNiSWGCXs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnSm0mYI94k8wCVov9U64Vz4TywrA/photo.jpg",
         "content": "Se quedan con datos de identificacion y personales de nivel de proteccion 5/6, desde una aplicacion... Que parece los envia al email del ctti (centro datos Generalitat)! El canal oficial no deberia ser este. El canal deberia ser los propios hospitales y certificados medicos",
         "score": 2,
-        "thumbsUpCount": 8,
+        "thumbsUpCount": 9,
         "reviewCreatedVersion": "1.0.0",
         "at": "2020-03-23 01:16:32",
         "replyContent": null,
@@ -4624,7 +4646,7 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjaZNR2sdkZ33vbEbB42aaJWo2bRxgtbACvWtZRPA",
         "content": "No me gusta. Cada vez que inicias la aplicaci\u00f3n tienes que poner el CIP (C\u00f3digo de Identificaci\u00f3n Personal), no lo recuerda. No se puede saber por un mapa la incidencia del coronavirus en los alrededores, al contrario que la aplicaci\u00f3n coreana que parece mucho m\u00e1s completa. Solo sirve para transmitir si est\u00e1s enfermo dejando tu tel\u00e9fono. Supongo que la pueden mejorar pero de momento creo que es muy poco \u00fatil para la emergencia que estamos viviendo.",
         "score": 3,
-        "thumbsUpCount": 382,
+        "thumbsUpCount": 388,
         "reviewCreatedVersion": "1.0.0",
         "at": "2020-03-18 21:54:30",
         "replyContent": null,
