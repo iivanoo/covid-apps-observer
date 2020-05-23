@@ -39,34 +39,43 @@ def apkdl_in(package_id):
 
 # Credits to https://github.com/HamidrezaMoradi/APK-Downloader        
 def apkplz_net(package_id):
-    url = 'https://apkplz.net/app/' + package_id
-    r = requests.get(url)
-    app_page = BeautifulSoup(r.text, 'html.parser')
-    download_url = app_page.find("div", attrs={'class':'col-sm-12 col-md-12 text-center'})
+    try:
+        url = 'https://apkplz.net/app/' + package_id
+        r = requests.get(url)
+        app_page = BeautifulSoup(r.text, 'html.parser')
+        download_url = app_page.find("div", attrs={'class':'col-sm-12 col-md-12 text-center'})
 
-    download_url = download_url.find("a", rel='nofollow')['href']
-    r = requests.get(download_url)
-    download_page = BeautifulSoup(r.text, 'html.parser')
-    download_url = download_page.find("a", string='click here')
-    return download_url['href'] if download_url is not None else None
+        download_url = download_url.find("a", rel='nofollow')['href']
+        r = requests.get(download_url)
+        download_page = BeautifulSoup(r.text, 'html.parser')
+        download_url = download_page.find("a", string='click here')
+        return download_url['href'] if download_url is not None else None
+    except:
+        return None
 
 
 # Credits to https://github.com/HamidrezaMoradi/APK-Downloader        
 def apktada_com(package_id):
-    url = 'https://apktada.com/download-apk/' + package_id
-    r = requests.get(url)
-    app_page = BeautifulSoup(r.text, 'html.parser')
-    download_url = app_page.find("a", string='click here')
-    return download_url['href'] if download_url is not None else None
+    try: 
+        url = 'https://apktada.com/download-apk/' + package_id
+        r = requests.get(url)
+        app_page = BeautifulSoup(r.text, 'html.parser')
+        download_url = app_page.find("a", string='click here')
+        return download_url['href'] if download_url is not None else None
+    except:
+        return None
 
 
 # Credits to https://github.com/HamidrezaMoradi/APK-Downloader        
 def m_apkpure_com(package_id):
-    url = 'https://m.apkpure.com/android/' + package_id + '/download?from=details' 
-    r = requests.get(url)
-    app_page = BeautifulSoup(r.text, 'html.parser')
-    download_url = app_page.find("a", string='click here')
-    return download_url['href'] if download_url is not None else None
+    try:
+        url = 'https://m.apkpure.com/android/' + package_id + '/download?from=details' 
+        r = requests.get(url)
+        app_page = BeautifulSoup(r.text, 'html.parser')
+        download_url = app_page.find("a", string='click here')
+        return download_url['href'] if download_url is not None else None
+    except:
+        return None
 
 
 # Credits to Gian Luca Scoccia - https://github.com/S2-group/apkDownloader/
