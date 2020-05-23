@@ -138,6 +138,12 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 <img src="5_star_reviews_wordcloud.png" alt="cat.gencat.mobi.StopCovid19Cat 5 reviews"/>
 </p>
 
+> Esta bien para no colapsar los sistemas sanitarios<br> :date: __2020-05-12 21:00:41__
+
+> Muy buenas.<br> :date: __2020-05-12 18:38:01__
+
+> Bona aplicacio<br> :date: __2020-05-11 16:15:28__
+
 > Esto es muy interesante para todos<br> :date: __2020-05-02 21:51:43__
 
 > Perfecte<br> :date: __2020-05-01 14:19:52__
@@ -151,12 +157,6 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 > Ja l'he probat, i funciona sí<br> :date: __2020-04-19 16:06:47__
 
 > Molt important pel control i seguiment de la evolució de aquesta pandémia.! Bons consells oficials, guiats per a experts.<br> :date: __2020-04-17 14:40:23__
-
-> Molt Bé<br> :date: __2020-04-16 21:09:02__
-
-> Mi experiencia es más que positiva<br> :date: __2020-04-16 18:01:35__
-
-> Molt util<br> :date: __2020-04-13 08:17:19__
 
 
 
@@ -194,6 +194,8 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 <img src="3_star_reviews_wordcloud.png" alt="cat.gencat.mobi.StopCovid19Cat 3 reviews"/>
 </p>
 
+> Poco detallada<br> :date: __2020-05-16 19:48:31__
+
 > A casa som 4 i solament guarda el CIP de l'últim. És podria buscar la forma de que els guardés<br> :date: __2020-04-26 10:44:04__
 
 > Los síntomas se deberían describir y poder precisar mejor. Por ejemplo, ¿36'6 es fiebre? Y si se pone como fiebre, ¿qué temperatura se debería poner, "36'5 o menos" o 37?<br> :date: __2020-04-23 11:46:06__
@@ -211,8 +213,6 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 > estaria be que recordes el numero de tarja sanitaria. es molt molest haver-lo de possar cada vegada<br> :date: __2020-04-05 16:26:29__
 
 > Muy deficiente y poco fiable.<br> :date: __2020-04-04 21:44:59__
-
-> En test es muy básico. No tiene botón de salida de la aplicación, sólo uno de volver a repetir el test. Dada la incapacidad de controlar a la población por la falta de medios y organización es un indicador medio aceptable del estado general.<br> :date: __2020-04-01 10:33:41__
 
 
 
@@ -250,6 +250,14 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 <img src="1_star_reviews_wordcloud.png" alt="cat.gencat.mobi.StopCovid19Cat 1 reviews"/>
 </p>
 
+> No serveix de massa falten altres dades, no tots els casos són de tipus respiratori, també hi han sintomes intestinals forts(edito, no serveix de res) llàstima<br> :date: __2020-05-14 15:24:24__
+
+> Tan solo que tengas malestar general ya te dice que eres posible enfermo del virus. Apenas te pregunta mas sintomas de los muchos que da el covid. Desues de eso te dice ke te aisles en tu habiatacion, llames a tu medico y ya esta . No entiendo para que sirve esta app la verdad. Si al menos algun medico contactase cobtigo para contrastar sintomas o algo pero na d na.... Menuda app mas absurda<br> :date: __2020-05-14 02:23:31__
+
+> Esta app és una castaña, llevo días intentando conectarme y siempre me da error, lo he intentado a diferentes horas. Pocas veces me ha dejado actualizar.<br> :date: __2020-05-11 07:32:05__
+
+> No serveix de res, no truca ningú, a la fin has de fer el de sempre, anar a urgències. Però la medalla ja està col·locada<br> :date: __2020-05-10 19:36:40__
+
 > Fatal, ya puedes intentar a diferentes horas del día que no funciona, eso sí, me a ayudado a memorizar mi targeta sanitaria de tantas veces ingresarla. Gracias¡<br> :date: __2020-05-08 22:16:50__
 
 > No tiene ninguna utilidad<br> :date: __2020-05-07 23:55:19__
@@ -261,13 +269,5 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 > Muy Sencilla, y es muy molesto q no recuerde los datos del usuario por eso entrar cada vez se hace pesado<br> :date: __2020-04-29 15:40:12__
 
 > Aplicació sense accessibilitat. Que trist que una aplicació feta pel govern no prengui cura en aquests detalls. Jo no la puc fer servir. Si usted plau corregiu-la.<br> :date: __2020-04-28 21:53:46__
-
-> patética<br> :date: __2020-04-26 08:31:27__
-
-> Meto DNI y no accede. la La he desistalado<br> :date: __2020-04-22 22:49:55__
-
-> Només va funcionar el primer dia. Surt error totes les altres vegades que vull notificar canvis en el meu estat de salut.<br> :date: __2020-04-20 10:58:12__
-
-> Donde pone síntomas, faltan algunos, como por ejemplo el de la falta de olfato y gusto, y otros relacionados con la piel, así que considero que no es muy fiable esta aplicación<br> :date: __2020-04-19 20:21:14__
 
 

@@ -132,6 +132,8 @@ The Covidom Patient app has been installed by more than **10000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="fr.aphp.covidom 5 reviews"/>
 </p>
 
+> Tres bien<br> :date: __2020-05-10 22:51:16__
+
 > Super application je remercie sincèrement toute l équipe qui m a suivi et qui m a beaucoup aidé par leur écoute leur gentillesse et leur bonne humeur<br> :date: __2020-05-08 14:38:35__
 
 > Bonne<br> :date: __2020-05-02 16:55:43__
@@ -149,8 +151,6 @@ The Covidom Patient app has been installed by more than **10000** times. At this
 > Avant-hier j'avais beaucoup de mal pour respirer. Après avoir rempli mon questionnaire qq'un m'a appelé et m'a demandé de me rendre à l'hôpital pour une consultation. Après j'ai pu rentrer chez moi rassurée et fière du système de santé. Bravo covidom.<br> :date: __2020-04-16 17:09:12__
 
 > C'est très rassurant. Tous les jours on réponds à des questionnaires. Et quand ça va moins bien, quelqu'un nous appelle. Sans covidom je pense que j'aurais souvent appelé ou consulté un médecin pour savoir si je devais m'inquiéter.<br> :date: __2020-04-16 15:49:46__
-
-> J ai reçu mes codes après ma consultation. Ce qui m a permis de me connecter sans problème. Depuis 10 jours maintenant je remplis les questionnaires. On m a rappelé suite à des difficultés respiratoires au 5ème et 6eme jour et c etait vraiment rassurant. Maintenant je commence à aller mieux et je voulais remercier les personnes qui ont créé cette application qui me permet de rester chez moi et surtout tous les soignants pas seulement ceux de l hôpital mais aussi ceux qui nous appellent.<br> :date: __2020-04-15 17:51:47__
 
 
 
@@ -175,6 +175,8 @@ The Covidom Patient app has been installed by more than **10000** times. At this
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="fr.aphp.covidom 3 reviews"/>
 </p>
+
+> Très pratique et simple d'utilisation. Mais depuis 16/05 ne peut plus entres mes constante.<br> :date: __2020-05-17 15:13:38__
 
 > Je reçois des SMS alors que je ne suis pas inclus dans le suivi<br> :date: __2020-04-08 09:06:01__
 
@@ -202,6 +204,8 @@ The Covidom Patient app has been installed by more than **10000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="fr.aphp.covidom 1 reviews"/>
 </p>
 
+> Pas du tour contente du service j'ai eu des grosse tachycardie et PERSONNE ne ma appeler ... tomber malade le 21 mars, déclarer "guerri" le 7 avril, on est le 13 mai ET J'AI TOUJOURS DES SYMPTOMES QUI ME GACHE LA VIE ET M'EMPÊCHE D'ALLER TRAVAILLER et je ne suis pas la seule c'est nimporte quoi horrible personne pour nous prendre en charge !!!!!!!!!<br> :date: __2020-05-13 19:01:45__
+
 > Arrive pas à ce connecter ou crée un compte<br> :date: __2020-04-27 10:18:23__
 
 > Pénible a utiliser<br> :date: __2020-04-22 12:27:37__
@@ -219,7 +223,5 @@ The Covidom Patient app has been installed by more than **10000** times. At this
 > Impossible de se connecter, mot de passe non valide, aucune explication pour recréer un compte 😡<br> :date: __2020-03-31 14:29:17__
 
 > Impossible de se connecter<br> :date: __2020-03-28 16:44:01__
-
-> On peut mourir tranquille ! Impossible de se connecter<br> :date: __2020-03-28 10:12:19__
 
 

@@ -133,6 +133,8 @@ The CONFINAPP app has been installed by more than **10000** times. At this time,
 <img src="4_star_reviews_wordcloud.png" alt="cat.gencat.mobi.confinApp 4 reviews"/>
 </p>
 
+> De momento va bien<br> :date: __2020-05-12 11:26:45__
+
 > Molt útil. Dona informació oficial i actualitzada. Permet accedir a les darreres novetats i eines útils per manegar la situació d'excepció<br> :date: __2020-05-08 09:31:56__
 
 > No lo sé<br> :date: __2020-05-07 15:44:02__

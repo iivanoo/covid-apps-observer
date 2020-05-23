@@ -3,35 +3,35 @@
         "id": "ca.bc.gov.health.hlbc.COVID19",
         "store_country": "ca",
         "store_lang": "en",
-        "latest_crawled_version": "1.16.0",
-        "latest_crawl": 1589104407
+        "latest_crawled_version": "1.17.0",
+        "latest_crawl": 1589724605
     },
     {
         "id": "ca.albertahealthservices.contacttracing",
         "store_country": "ca",
         "store_lang": "en",
         "latest_crawled_version": "1.0.1",
-        "latest_crawl": 1589104410
+        "latest_crawl": 1589724672
     },
     {
         "id": "ca.gc.hcsc.canada.covid19",
         "store_country": "ca",
         "store_lang": "en",
-        "latest_crawled_version": "3.0.0",
-        "latest_crawl": 1589104411
+        "latest_crawled_version": "3.2.0",
+        "latest_crawl": 1589724676
     },
     {
         "id": "org.who.infoapp",
         "store_country": "ca",
         "store_lang": "en",
         "latest_crawled_version": "2.1.0",
-        "latest_crawl": 1589104411
+        "latest_crawl": 1589724735
     },
     {
         "id": "de.xikolo.openwho",
         "store_country": "ca",
         "store_lang": "en",
-        "latest_crawled_version": "3.3",
-        "latest_crawl": 1589104420
+        "latest_crawled_version": "3.3.1",
+        "latest_crawl": 1589724737
     }
 ]

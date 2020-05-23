@@ -1,10 +1,76 @@
 [
     {
+        "userName": "It's DaRealFireWolf",
+        "userImage": "https://lh3.googleusercontent.com/-ueyZnYwhVds/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckJ2Z-sAa2HWVwWtzwKxGJ5vaHlTQ/photo.jpg",
+        "content": "I can call 911 if needed I hear about all emergency weather wise and other like child abduction as well",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.11",
+        "at": "2020-05-16 15:42:24",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "userName": "Jeanette Walmack",
+        "userImage": "https://lh3.googleusercontent.com/-DBVqrx6Habs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucle8rmX2hEnfL-nAJz0ZCYdOeMZZA/photo.jpg",
+        "content": "It's been very helpful",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2020-05-13 12:07:49",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "userName": "Shawn M",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhO4Dtr9fR61o6V2D8U4LqvIt9adNsn2FlAIH3-Tw",
+        "content": "Options to customize notifications by type and locations. Useful information and links, a good app.",
+        "score": 5,
+        "thumbsUpCount": 9,
+        "reviewCreatedVersion": "2.11",
+        "at": "2020-05-13 02:06:20",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "userName": "Ana E Cruz nazario",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gj3IwEHhZKB4k0Nl6Ifcla9ut0tjFDJtZY_hWTBahA",
+        "content": "Be alert is the best way to live I likeWeather alerts, safety tips and more to help before, during & after disasters. Emergency alerts, safety tips and resources to help before, during & after disasters. The FEMA App provides timely alerts and useful information to help you and your loved ones stay safe before, during and after disasters. Receive and share real-time notifications about disasters, severe weather, and other emergencies for up to five locations nationwide. This simple and easy-to",
+        "score": 5,
+        "thumbsUpCount": 5,
+        "reviewCreatedVersion": null,
+        "at": "2020-05-13 00:33:40",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "userName": "Nani Otani",
+        "userImage": "https://lh3.googleusercontent.com/-4iMS-uBC7tA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnyConIFFeyer-gSLUNNVXnnAiajw/photo.jpg",
+        "content": "Easy to navigate, and set up choices-- there are a lot-- living in the middle of Pacific, like to know asap if something hazardous is on the way to us, here in HI.",
+        "score": 5,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "2.11",
+        "at": "2020-05-13 00:02:16",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "userName": "Devora Forsman",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Ghv-nbvqN_tVM0QLTcwyINEJQIhQQeuu1HD1Den",
+        "content": "Works great for weather emergency but I don't like Amber alerts. Most of the time these are divorcing parents fighting over the children or an over reach of local and feds into family matters. I have seen the damages to family relationships caused by such over reach. Parents who's only sin is they were poor. Instead of helping the parents, they are demonized and the children removed. I want no part of the destruction of the family unit. Think heal the family!",
+        "score": 5,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": null,
+        "at": "2020-05-10 14:04:03",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "userName": "Big Dalt97",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhdGVZnfCs2HmkDu802bO0WAOOHVAgfE04_lANg7A",
         "content": "Should be updated & expanded upon more but for what it is, I like it and will be keeping it.",
         "score": 3,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "2.11",
         "at": "2020-05-08 07:51:52",
         "replyContent": null,
@@ -15,7 +81,7 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhzAEhSabB8BgT8WFCpm-ud_ZZo33Q7ooh4VEVFSw",
         "content": "This is a great app. Warns you about amber alerts in your area and any kind of danger.",
         "score": 5,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "2.11",
         "at": "2020-05-04 02:43:08",
         "replyContent": null,
@@ -37,7 +103,7 @@
         "userImage": "https://lh3.googleusercontent.com/-sBAhw0OJrvo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucksBjL2w6FbCpDZnt2FTxkq45hpmQ/photo.jpg",
         "content": "TIMER AGAINST 60:89.",
         "score": 5,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "2.11",
         "at": "2020-05-01 04:00:36",
         "replyContent": null,
@@ -48,7 +114,7 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjuN6Iybw-EMmid-ANqpuoEr4OQJRjPU2lllsDBLg",
         "content": "Amazing app, which works well with Notify NYC. Both are extremely accurate real time tools.",
         "score": 5,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 2,
         "reviewCreatedVersion": "2.11",
         "at": "2020-05-01 03:22:24",
         "replyContent": null,
@@ -81,7 +147,7 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Ggn-6J6r6FPu-6qd7T2JA_N9m1cUrt4uKz_OZwWCA",
         "content": "The weather alert tab is missing Indland Hurricane Warning, Inland Hurricane Watch, Inland Tropical Storm Warning, Inland Tropical Storm Watch, Hurricane Force Wind Warning, and Snow Squall Warning.",
         "score": 4,
-        "thumbsUpCount": 8,
+        "thumbsUpCount": 11,
         "reviewCreatedVersion": "2.11",
         "at": "2020-04-28 21:42:47",
         "replyContent": null,
@@ -114,7 +180,7 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgTflacnqVGsX-N-zg6OkBI0TUR24Iu8Mp38x6G",
         "content": "pretty good app...it lets you pick locations you want to monitor and it lets you customize the weather settings so youre not pestered to death about things you dont need to know about...i need to figure out if l can fine tune it however...l'm still getting silly things in the middle of the night like it will be \"windy\" today or \"foggy\"...thats all well and good...just not at 0300.",
         "score": 4,
-        "thumbsUpCount": 32,
+        "thumbsUpCount": 47,
         "reviewCreatedVersion": "2.11",
         "at": "2020-04-26 17:06:27",
         "replyContent": null,
@@ -246,7 +312,7 @@
         "userImage": "https://lh3.googleusercontent.com/-6nEK5k5n9F4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckqSAXn9ujDlj04r90Dm9wBR-kpvw/photo.jpg",
         "content": "App does not work. Will not accept any locations.",
         "score": 1,
-        "thumbsUpCount": 3,
+        "thumbsUpCount": 4,
         "reviewCreatedVersion": "2.11",
         "at": "2020-04-14 02:01:12",
         "replyContent": null,
@@ -264,17 +330,6 @@
         "repliedAt": null
     },
     {
-        "userName": "Samuel D.",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjsD2PiF4itv2-ugYp5mFxfrh7EDFWZO2j4OIU9jg",
-        "content": "Works great for local alerts of events.",
-        "score": 5,
-        "thumbsUpCount": 3,
-        "reviewCreatedVersion": "2.11",
-        "at": "2020-04-13 09:43:12",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
         "userName": "dd c",
         "userImage": "https://lh3.googleusercontent.com/-POzl7wD11VI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm2bhJFerEDRSAuX7Q3Mo_E0Mx3FA/photo.jpg",
         "content": "Great information!",
@@ -287,7 +342,7 @@
     },
     {
         "userName": "Quincy Brown",
-        "userImage": "https://lh3.googleusercontent.com/-4rIabYxQKIU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn4Qvi_vdO3yVMymTfewTK9WonX-w/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GginDiOM09n2Cjv1vMdkZbeSevtihvf5SNwW1y2",
         "content": "Make me millionaire",
         "score": 5,
         "thumbsUpCount": 2,
@@ -323,7 +378,7 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjzLmzPM4j6NQ-UrL7yexA2eZprW_d4ubSyXGy4QA",
         "content": "The app did work great. I got a Samsung A10 and for some reason the notifications stopped working properly. The weather notifications are intermittent and my reminders for emergency kit, smoke detectors, etc. don't come through at all anymore. Suggestions? I'd like to give higher marks.",
         "score": 3,
-        "thumbsUpCount": 98,
+        "thumbsUpCount": 106,
         "reviewCreatedVersion": "2.11",
         "at": "2020-04-09 04:12:19",
         "replyContent": null,
@@ -407,7 +462,7 @@
         "repliedAt": null
     },
     {
-        "userName": "MOODY ONE81",
+        "userName": "MYSTIC MOOnSHINE",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjozzcDReCVu2s7ul0TKd6EglSCviZ7D18_mzMBJ8A",
         "content": "Worth it to have peace of mind",
         "score": 5,
@@ -418,24 +473,13 @@
         "repliedAt": null
     },
     {
-        "userName": "Jackson A",
+        "userName": "Jack Handy",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgIEXlS4FceGZUy2mJ9AEGR8RgHEGpYKgnSHqigdg",
         "content": "Awesome share. Kudos to the team. With Godspeed we proceed to endure. Thank you very much for letting me help the effort.",
         "score": 5,
         "thumbsUpCount": 3,
         "reviewCreatedVersion": "2.11",
         "at": "2020-04-01 18:46:55",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "userName": "Shawn M",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhO4Dtr9fR61o6V2D8U4LqvIt9adNsn2FlAIH3-Tw",
-        "content": "Overall I'm pleased with this.",
-        "score": 5,
-        "thumbsUpCount": 8,
-        "reviewCreatedVersion": "2.11",
-        "at": "2020-04-01 16:14:41",
         "replyContent": null,
         "repliedAt": null
     },
@@ -708,7 +752,7 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgBjA95ACKgpVcusGeYz4HXF6ikQ5X0MfuBokCiNQ",
         "content": "FEMA is supposed to be the lead agency in responding to a national disaster. Under Donald Trump's direction, FEMA was defunded to pay for his wall. The appropriate leadership resigned or were fired, and the money went towards paying for his wall. Now this useless app is nothing but Trump appointees patting Trump on the back and calling him a good boy when they should be directing resources to help Americans. It makes me sick and disgusted at Trump and his lackeys in the GOP.",
         "score": 1,
-        "thumbsUpCount": 22,
+        "thumbsUpCount": 23,
         "reviewCreatedVersion": "2.11",
         "at": "2020-03-19 15:49:42",
         "replyContent": null,
@@ -858,17 +902,6 @@
         "repliedAt": null
     },
     {
-        "userName": "Ana E Cruz nazario",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjZvg345Hodc9aWEbuoPv4n-6d-fVLLCW6s3tx0bpY",
-        "content": "Be alert is the best way to live I like",
-        "score": 5,
-        "thumbsUpCount": 3,
-        "reviewCreatedVersion": null,
-        "at": "2020-02-15 02:48:37",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
         "userName": "Anna Bradshaw",
         "userImage": "https://lh3.googleusercontent.com/-cENPhtTOthI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclHCYgKRfau7g4xdFcffSAkvjdhxQ/photo.jpg",
         "content": "Greatly informative thanks",
@@ -983,7 +1016,7 @@
         "userImage": "https://lh3.googleusercontent.com/-spQWwp-mor0/AAAAAAAAAAI/AAAAAAAAALc/AMZuuckKzXX_njzOY7BUgkmk0MG1CGwxGw/photo.jpg",
         "content": "A good app from the government? Shocker. In all seriousness it's actually very useful. I like being able to keep updated on the town my family lives in as well as where I am now. I used to use the \"Emergency\" app from the Red Cross for this purpose. However this app is better because it shows less severe alerts. For example I live in a low lying area so it's good to get flood notifications, even if it's just a watch. Same with high surf warnings. The Red Cross app only shows high level alerts.",
         "score": 5,
-        "thumbsUpCount": 268,
+        "thumbsUpCount": 283,
         "reviewCreatedVersion": "2.11",
         "at": "2020-01-11 06:51:42",
         "replyContent": null,
@@ -1629,7 +1662,7 @@
     },
     {
         "userName": "Wesley Earl Loveless / Wesley Earl Montanye",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gh2J3eNP7UR7hjm2QP86jFbuFY3FRHPuJg3lRBHnw",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gh_QhWIztYKG8l09oSvuJmZxjq4ShRETj6vMaCfkg",
         "content": "thank you !! Works...",
         "score": 5,
         "thumbsUpCount": 4,
@@ -1826,7 +1859,7 @@
         "repliedAt": null
     },
     {
-        "userName": "johns Monte",
+        "userName": "johns statler",
         "userImage": "https://lh3.googleusercontent.com/-3DQ1A4T7wrk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnT81bPTSSYJNuitqIeYMXj9N43Yg/photo.jpg",
         "content": "download the application. would not let me add my location. i typed in my city but it would not let me click accept",
         "score": 1,
@@ -2718,7 +2751,7 @@
     },
     {
         "userName": "M.D.",
-        "userImage": "https://lh3.googleusercontent.com/-gyBcLCD_9u4/AAAAAAAAAAI/AAAAAAAARGM/AMZuuckSaPIHYHfeOLP3fuQEBOIA3O7dTw/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjWb1td4spbIuvZcMMeCdoMkM5XytlOAYdEOvBXSVU",
         "content": "any way to cut down on the same alerts every hour? the very same alert every hour for 24+ hours. i get it. ice storm coming.grrr otherwise i guess the app works fine.",
         "score": 3,
         "thumbsUpCount": 13,
@@ -2864,7 +2897,7 @@
         "userImage": "https://lh3.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
         "content": "The app has had its ups and downs, but it was working for a while. Now it has stopped sending notifications, which makes it useless unless you want to open the app and check each location to see if there have been any alerts. The point is to GET the alerts, not have to keep checking to see if there have been any. 12/18/18 Still was not getting a single alert... Uninstalled, downloaded again -- working now!",
         "score": 4,
-        "thumbsUpCount": 31,
+        "thumbsUpCount": 32,
         "reviewCreatedVersion": "2.10.3",
         "at": "2018-12-19 03:09:13",
         "replyContent": null,
@@ -3091,7 +3124,7 @@
         "repliedAt": null
     },
     {
-        "userName": "Paul Edwards",
+        "userName": "Paul N4DME Edwards",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gi6FLTMGukxyAmIi7J4Ue-41dyhybfEtc1ccxVC",
         "content": "Very basic.",
         "score": 1,
@@ -6656,7 +6689,7 @@
     },
     {
         "userName": "Max Higareda",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Ggm3KtGj7NfYrsuJvZ6EAnwIiEirwU8vI4x2aK78g",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhOWIFp6cDT3t95xq5a67ieIlVzmvqVWP51Xb3oHw",
         "content": "Description",
         "score": 2,
         "thumbsUpCount": 1,

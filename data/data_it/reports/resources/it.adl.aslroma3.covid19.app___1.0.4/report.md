@@ -144,6 +144,10 @@ The Covid-19 app has been installed by more than **10000** times. At this time, 
 <img src="5_star_reviews_wordcloud.png" alt="it.adl.aslroma3.covid19.app 5 reviews"/>
 </p>
 
+> Ottimo<br> :date: __2020-05-16 00:56:55__
+
+> E importante.Ne va della nostra salute, della famiglia, quella altrui.Ottimo se siamo attenti.Il panico non serve..Basta essere coscienti ,e responsabili.Solo cosi' ritorneremo liberi da questo mostro.<br> :date: __2020-05-15 13:41:47__
+
 > Ok<br> :date: __2020-05-08 07:14:05__
 
 > App. Fantastica, e necessaria. Bravi 👏👏👏 Noto che cè troppa ignoranza. Dovrebbero leggere le modalità, prima di commentare.<br> :date: __2020-05-01 16:35:43__
@@ -160,10 +164,6 @@ The Covid-19 app has been installed by more than **10000** times. At this time, 
 
 > etuttu ok-pontuale rapido alla consegna<br> :date: __2020-04-01 19:33:31__
 
-> Non mi fa proseguire! Non capisco che tipo di password occorra...<br> :date: __2020-04-01 09:43:42__
-
-> Non riesco a registrarmi<br> :date: __2020-03-31 22:27:18__
-
 
 
 #### 4-star reviews
@@ -171,6 +171,8 @@ The Covid-19 app has been installed by more than **10000** times. At this time, 
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="it.adl.aslroma3.covid19.app 4 reviews"/>
 </p>
+
+> Interessante<br> :date: __2020-05-14 18:21:52__
 
 > Lo avevo scaricato ma non mi accetta l'imeil e non so come entrarci!<br> :date: __2020-05-01 19:29:55__
 
@@ -189,6 +191,8 @@ The Covid-19 app has been installed by more than **10000** times. At this time, 
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="it.adl.aslroma3.covid19.app 3 reviews"/>
 </p>
+
+> Voglio più informazioni<br> :date: __2020-05-14 07:56:09__
 
 > se mi fa entrare o mi posso registrare allora merita5 stelle 👍<br> :date: __2020-04-03 23:59:46__
 

@@ -1,0 +1,33 @@
+{
+    "permissions": [
+        "android.permission.BLUETOOTH",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.FOREGROUND_SERVICE",
+        "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+        "android.permission.BLUETOOTH_ADMIN",
+        "android.permission.INTERNET",
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        "android.permission.ACCESS_FINE_LOCATION"
+    ],
+    "activities": [
+        "au.gov.health.covidsafe.SplashActivity",
+        "au.gov.health.covidsafe.ui.onboarding.OnboardingActivity",
+        "au.gov.health.covidsafe.WebViewActivity",
+        "au.gov.health.covidsafe.HomeActivity",
+        "au.gov.health.covidsafe.SelfIsolationDoneActivity",
+        "au.gov.health.covidsafe.PeekActivity",
+        "au.gov.health.covidsafe.PlotActivity",
+        "com.atlassian.mobilekit.module.feedback.FeedbackActivity",
+        "pub.devrel.easypermissions.AppSettingsDialogHolderActivity"
+    ],
+    "urls": [
+        "http://schemas.android.com/apk/res/android",
+        "https://device-api.prod.lp.aws.covidsafe.gov.au",
+        "https://www.covidsafe.gov.au/help-topics.html",
+        "https://stackoverflow.com/q/5189914/28465",
+        "https://groups.google.com/d/msg/guava-announce/zHZTFg7YF3o/rQNnwdHeEwAJ",
+        "http://schemas.android.com/apk/res-auto",
+        "https://www.australia.gov.au",
+        "http://localhost/"
+    ]
+}

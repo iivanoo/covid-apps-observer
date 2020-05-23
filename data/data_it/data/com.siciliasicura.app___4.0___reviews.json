@@ -1,5 +1,60 @@
 [
     {
+        "userName": "ludovico mantello",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Ght_xGd12DB7AArZw1PEG7m3MtqtUusKQaKG-jm",
+        "content": "app funzionale, consiglierei l'aggiunta di una notifica durate le prime ore del mattino.",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.0",
+        "at": "2020-05-16 03:55:51",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "userName": "Deborah Crifo'",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gguubx3DMl-QO43gfi31TythOMRKELdWd8ed6g_",
+        "content": "Non mi fa completare la registrazione perch\u00e9 il geocalizzatore dice che non sono in Sicilia... mi sembra normale non mi sarei iscritta al censimento se no. Potete aiutarmi?",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.0",
+        "at": "2020-05-15 11:55:02",
+        "replyContent": "Come si legge sul manuale (http://tinyurl.com/siciliasicura) per utilizzare l'APP, in modo del tutto volontario, \u00e8 necessario essere fisicamente presenti sul territorio della Regione Siciliana. Pu\u00f2 quindi completare la registrazione quando sar\u00e0 in Sicilia. Ove lei fosse gi\u00e0 in Sicilia provi a spegnere ed accendere il telefono x resettare il suo GPS",
+        "repliedAt": "2020-05-15 12:27:10"
+    },
+    {
+        "userName": "Matteo Torneo",
+        "userImage": "https://lh3.googleusercontent.com/-GdCuy3bDFOM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmSBaI4FgYJsrIx6hNeryAC3ropRQ/photo.jpg",
+        "content": "Io devo rientrare in Sicilia e al momento della registrazione mi dice che la mia posizione non \u00e8 nel territorio regionale. Ma io per rientrare in Sicilia devo per forza registrarmi? come faccio se non mi fa registrare? Non capisco, se qualcuno pu\u00f2 rispondere grazie.",
+        "score": 2,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "4.0",
+        "at": "2020-05-12 12:12:40",
+        "replyContent": "Il manuale (http://tinyurl.com/siciliasicura) spiega che, per utilizzare alcune funzioni dell'APP, \u00e8 necessario essere presenti sul territorio. Pu\u00f2 completare la registrazione, se vorr\u00e0, quando sar\u00e0 in Sicilia: non \u00e8 obbligatorio. Per la registrazione sul portale siciliacoronavirus.it faccia riferimento alle ordinanze del Presidente della Regione.",
+        "repliedAt": "2020-05-15 12:34:53"
+    },
+    {
+        "userName": "Zanzi",
+        "userImage": "https://lh3.googleusercontent.com/-C2BsCYpnD2o/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnyVd9dIkZFT_TXBACvglVT3_kvwA/photo.jpg",
+        "content": "Devo tornare a casa tra qualche giorno e come indicato mi sono registrata al sito indicando il luogo di partenza e di arrivo. Ora ho scaricato l'app, ho ricevuto l'email e la password ma non riesco ad accedere perch\u00e9 mi chiede la geolocalizzazione. Mi spiegate cosa devo fare? Che senso ha impedire l'accesso perch\u00e9 sono fuori dal comune? l'ho scaricata apposta perch\u00e9 sono fuori e devo rientrare.",
+        "score": 2,
+        "thumbsUpCount": 5,
+        "reviewCreatedVersion": "4.0",
+        "at": "2020-05-11 17:56:46",
+        "replyContent": "Potr\u00e0 completare, con calma, la registrazione una volta rientrata in Sicilia. Ove la password fosse scaduta potr\u00e0 richiederne una nuova cliccando su \"recupera password\".",
+        "repliedAt": "2020-05-15 12:46:52"
+    },
+    {
+        "userName": "Lucia Bucalo",
+        "userImage": "https://lh3.googleusercontent.com/-FdHwUtHFM3s/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnhW98LJIdDKFI0pvBdy_2e6g7xTQ/photo.jpg",
+        "content": "Buongiorno. ..ho istallato l'applicazione sul cellulare ma non mi fa andare oltre non riesco ad aprirla cliccandoci sopra ...forse sbaglio qualche passaggio ..e il terzo giorno ...grazie",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.0",
+        "at": "2020-05-11 07:41:37",
+        "replyContent": "Gentile Lucia, per comprendere il corretto funzionamento dell'app, pu\u00f2 fare riferimento al manuale d'uso http://tinyurl.com/siciliasicura\nSe anche seguendo le istruzioni non dovesse poter aprire l'app, le suggeriamo di verificare il corretto funzionamento del device.",
+        "repliedAt": "2020-05-11 09:51:29"
+    },
+    {
         "userName": "Vincenzo Sorce",
         "userImage": "https://lh3.googleusercontent.com/-Czvfw-z1K28/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclvMu9q5IxQYai4PCrvjZbCLP7wcA/photo.jpg",
         "content": "Non c'\u00e8 il tasto per uscire dall'app senza effettuare la disconessione account. Per il resto, app semplice , utile e carina",
@@ -7,8 +62,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.0",
         "at": "2020-05-09 10:57:43",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Grazie per il feedback!",
+        "repliedAt": "2020-05-15 12:47:25"
     },
     {
         "userName": "Lucia Durisi",
@@ -26,18 +81,18 @@
         "userImage": "https://lh3.googleusercontent.com/-OmCY0dOePF8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmUn2g9ljV9cHRtrWXWQKoqAnV74w/photo.jpg",
         "content": "Al momento di registrarmi,mi chiede l'indirizzo in cui risiedo,mi fa attivare la geolocalizzazione per poi non farmi continuare con la registrazione in quanto mi dice che la posizione dell'utente non coincide con l'indirizzo selezionato. Aiutatemi!!!",
         "score": 2,
-        "thumbsUpCount": 5,
+        "thumbsUpCount": 9,
         "reviewCreatedVersion": "4.0",
         "at": "2020-05-05 17:35:06",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Serve una coerenza tra il comune dichiarato nella verifica dell'indirizzo e la sua posizione geografica. Provi a spegnere e riaccendere il suo device per resettare il GPS.",
+        "repliedAt": "2020-05-15 12:48:34"
     },
     {
         "userName": "Marco Rodesio",
         "userImage": "https://lh3.googleusercontent.com/-QVzE21HgojA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnr3J7y6TLqdrRzzR82hFNTdHJtAQ/photo.jpg",
         "content": "L'app \u00e8 instabile, la geolocalizzazione sballata, impossibile disinstallarla...ASSURDO!",
         "score": 1,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": null,
         "at": "2020-05-03 09:22:12",
         "replyContent": "La geolocalizzazione dipende dal suo device. Per quanto concerne la disinstallazione, come per qualsiasi altra App \u00e8 sempre possibile, non esiste alcun vincolo in tal senso. La ringraziamo per il suo feedback.",
@@ -48,7 +103,7 @@
         "userImage": "https://lh3.googleusercontent.com/-M3B4Mr2JML0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmaQwn8KbNVUYBhS5YuB5m-7V7liA/photo.jpg",
         "content": "Come altri commenti... Mi chiede sempre l' indirizzo e non mi fa continuare",
         "score": 1,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "4.0",
         "at": "2020-05-02 23:37:36",
         "replyContent": null,
@@ -62,8 +117,8 @@
         "thumbsUpCount": 4,
         "reviewCreatedVersion": "3.0",
         "at": "2020-05-01 03:57:37",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Grazie per il suo feedback, abbiamo aggiunto la funzionalit\u00e0 da lei suggerita.",
+        "repliedAt": "2020-05-15 12:49:20"
     },
     {
         "userName": "Simone Zappala'",
@@ -202,7 +257,7 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjOos1FccPeQAvfrmwdYUfTGmfAIhT_lXqmDoMK3Q",
         "content": "Una volta installata ed effettuato il login pi\u00f9 di una volta e in diverse ore del giorno, mi dice sempre di inserire un indirizzo e che gi\u00e0 c'\u00e8 un indirizzo registrato. Inserisco nuovamente l'imdirizzo dove mi trovo e l'app rimane bloccata l\u00ec. \u00c8 inutilizzabile",
         "score": 1,
-        "thumbsUpCount": 9,
+        "thumbsUpCount": 11,
         "reviewCreatedVersion": "2.0",
         "at": "2020-04-23 08:51:15",
         "replyContent": null,

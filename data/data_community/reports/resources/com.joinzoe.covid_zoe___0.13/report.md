@@ -199,25 +199,25 @@ The COVID Symptom Study app has been installed by more than **1000000** times. A
 <img src="5_star_reviews_wordcloud.png" alt="com.joinzoe.covid_zoe 5 reviews"/>
 </p>
 
-> Very easy to use and so worthwhile. The more people who take part, the faster we can help to make lives better<br> :date: __2020-05-11 12:09:59__
+> lt is vital piece of research. dont understand why it needs tobappeal for thevsupport of the public. We have an incompetent government in power.<br> :date: __2020-05-23 10:45:38__
 
-> Simple to use and very quick<br> :date: __2020-05-11 12:08:58__
+> Very simple to use. Good to feel here is something I can do to help.<br> :date: __2020-05-23 10:35:10__
 
-> Very good<br> :date: __2020-05-11 11:56:13__
+> Easy to use<br> :date: __2020-05-23 10:27:47__
 
-> It does what it says.<br> :date: __2020-05-11 11:52:26__
+> Sign up<br> :date: __2020-05-23 10:21:22__
 
-> Easy to use. Help the fight.<br> :date: __2020-05-11 11:44:58__
+> Easy to use. Hope my small contribution can help scientists understand this awful virus better<br> :date: __2020-05-23 10:07:58__
 
-> Good app to help<br> :date: __2020-05-11 11:41:38__
+> Excellent and innovative idea which will hopefully make a global difference to treating C19. Very easy to use and takes no time at all to answer the questions each day. WHO should reccomend the app!<br> :date: __2020-05-23 10:00:13__
 
-> It asks lot of good and right questions about how you feel, your symptoms and gives you a good range of options and areas to add comments. I think everyone should be using this to help track covid-19.<br> :date: __2020-05-11 11:34:05__
+> Quick and easy to use each day.<br> :date: __2020-05-23 09:46:22__
 
-> Clear and concise recording<br> :date: __2020-05-11 11:31:23__
+> Easy<br> :date: __2020-05-23 09:30:53__
 
-> Easy, concise, not to intrusive. I think as it is the goverment is doing a good job on the whole. A few grey areas the day after Boris's new annoncment. I'm sure more clarity will come when more details come today. The app is easy to use. Ive registered my poorly uncle onto it as well. Check in every day is quick and really simple. No complaints. Good job Boris and co<br> :date: __2020-05-11 11:23:13__
+> Easy to complete and good to use if this helps the nation.<br> :date: __2020-05-23 09:30:43__
 
-> Good easy to use app<br> :date: __2020-05-11 11:05:14__
+> Easy to use<br> :date: __2020-05-23 09:30:09__
 
 
 
@@ -227,25 +227,25 @@ The COVID Symptom Study app has been installed by more than **1000000** times. A
 <img src="4_star_reviews_wordcloud.png" alt="com.joinzoe.covid_zoe 4 reviews"/>
 </p>
 
-> Glad to be helping research. The app seems to be working well.<br> :date: __2020-05-11 11:37:43__
+> Although I know she doesn't care about me specifically, it's nice to report each day to Zoe how I feel.<br> :date: __2020-05-23 10:43:42__
 
-> Simple and quick to use.<br> :date: __2020-05-11 10:44:50__
+> The research fir which this app is collecting data is important. The app does the job ok, but could be better. So worth downloading providing you are disciplined enough to remember to report daily.<br> :date: __2020-05-23 10:24:58__
 
-> Really easy to use & happy to contribute if this helps our situation.<br> :date: __2020-05-11 10:41:03__
+> I like the fact I can let them know if I'm not feeling well.<br> :date: __2020-05-23 10:04:47__
 
-> Easy to use, takes no time and helps build statistical information.<br> :date: __2020-05-11 10:26:53__
+> Very simple app usually taking less than a minute to report.<br> :date: __2020-05-23 08:53:51__
 
-> I have just signed up for this how do you access the information regarding the number of people in your area with symptoms?<br> :date: __2020-05-11 09:40:46__
+> Helpful app to track everyday people doing everyday things<br> :date: __2020-05-23 08:20:58__
 
-> Very straightforward. Would like to be reminded to update my information though.<br> :date: __2020-05-11 09:33:06__
+> Good..although free text options may be good<br> :date: __2020-05-23 07:56:55__
 
-> Easy to use.<br> :date: __2020-05-11 09:26:27__
+> Basic but easy to use.<br> :date: __2020-05-22 23:10:46__
 
-> Simple to use...<br> :date: __2020-05-11 09:25:57__
+> Good<br> :date: __2020-05-22 21:23:31__
 
-> Little bit buggy, but good<br> :date: __2020-05-11 09:19:27__
+> This will help trace people and symptoms.<br> :date: __2020-05-22 19:44:44__
 
-> Very easy to use, but doesn't seem to ask enough questions or leave enough room to answer fully on health issues<br> :date: __2020-05-11 08:35:53__
+> Easy to use and straight forward. Good that you can add others on.<br> :date: __2020-05-22 18:11:21__
 
 
 
@@ -255,25 +255,25 @@ The COVID Symptom Study app has been installed by more than **1000000** times. A
 <img src="3_star_reviews_wordcloud.png" alt="com.joinzoe.covid_zoe 3 reviews"/>
 </p>
 
-> Easy to use. Not sure how effective it will be.<br> :date: __2020-05-11 09:25:59__
+> It seems a little basic in terms of information gathered, but maybe simplicity is good.<br> :date: __2020-05-23 10:16:01__
 
-> Not enough questions about pre existing conditions or treatment, surgery that could mask or present or be similar to varied covid symptoms<br> :date: __2020-05-10 23:43:17__
+> Easy to use. But not sure the frequency of information needed<br> :date: __2020-05-22 18:55:42__
 
-> Limited but worthwhile til something with more detailed reporting options emerges<br> :date: __2020-05-10 21:13:57__
+> Some days it is easy<br> :date: __2020-05-22 18:19:57__
 
-> The app is a great idea but needs lots of work. I added my child to the app who is under 18 but the app still asks all the questions relating to adults such as if they work in health care or look after someone. Please get this sorted please then I will give a better rating.<br> :date: __2020-05-10 20:49:09__
+> Fine. Simple to use. Took 2-3 minutes to do initial register and report. Only takes 1 minute to report. Only small gripe is when you type in the box at the bottom of a screen you can't see what you're typing because the keyboard gets in the way of the text box and the screen doesn't move up to accommodate both. Otherwise okay.<br> :date: __2020-05-22 14:27:34__
 
-> The app works fine until you want to answer yes to the questions requiring no or yes on the section asking if you need support. My Daughter has additional , so needs one too one support. Its as if the 3 questions do not want you too answer yes.<br> :date: __2020-05-10 18:56:30__
+> Should remind me<br> :date: __2020-05-22 14:26:06__
 
-> Keeps dropping out or not moving forward on clicks<br> :date: __2020-05-10 16:31:47__
+> Simple to use.<br> :date: __2020-05-22 13:54:57__
 
-> Latest updates are a big step backwards. Very laggy, takes ages to call up my profile, then calls me Bob for some reason... Finding it almost unusable. Think you gonna be losing participants very quickly...<br> :date: __2020-05-10 16:27:24__
+> Fine when I remember to do it.<br> :date: __2020-05-22 12:33:34__
 
-> It asks questions, you answer job done<br> :date: __2020-05-10 11:55:20__
+> It's a bit clunky, never know what to expect when I open it, too many low-info screens. Get a UX person on board! I assume it's useful so I do it<br> :date: __2020-05-22 08:27:04__
 
-> Very simple and straightforward for about 5 days. Now I cannot even find the questions. So I give up !<br> :date: __2020-05-10 11:42:43__
+> Very simple but doesn't ask about social activity.<br> :date: __2020-05-22 06:45:38__
 
-> Found some of the questions intrusive and unnecessary. Example...are you still having periods?...seriously?<br> :date: __2020-05-10 09:53:38__
+> It's a good app helping towards a study of a virus .<br> :date: __2020-05-21 17:01:38__
 
 
 
@@ -283,23 +283,25 @@ The COVID Symptom Study app has been installed by more than **1000000** times. A
 <img src="2_star_reviews_wordcloud.png" alt="com.joinzoe.covid_zoe 2 reviews"/>
 </p>
 
-> Great idea... however. "Create account" screen is unusable as my keyboard covers the fields. Please redesign so I can actually create an account.<br> :date: __2020-05-11 08:27:55__
+> Very clunky.. Not user friendly .. Very dumb.. If you forget a day yiu cannot go back and fill in any forgotten days<br> :date: __2020-05-22 00:15:02__
 
-> Daily reminders just do not seem to work, yes I have permissions granted and sometimes (very infrequently) I receive a reminder. Surely that should be a prime objective of this app, to remind you to report.<br> :date: __2020-05-10 22:51:04__
+> Stopped working twice (Message: Something went wrong,please try later) Re-installed once. My enthusiasm has waned!<br> :date: __2020-05-21 09:42:58__
 
-> It lost my profile today.<br> :date: __2020-05-10 21:05:39__
+> Not been able to access for 2 days Had to uninstall and reinstall<br> :date: __2020-05-20 23:16:15__
 
-> App is OK its better now its updated to add family members. Shame can't add past information though . Downside is that I changed to Samsung from apple and now dont get the daily notifications to do it and keep being logged out . Edited to add since changing phones its been impossible to do it. App isn't working great at all and all over the place<br> :date: __2020-05-10 16:25:31__
+> Most days this app will not load.<br> :date: __2020-05-20 17:32:33__
 
-> Today the app lost all my details after using it for the past 4 weeks. That is all. :-/<br> :date: __2020-05-10 15:57:49__
+> Started asking me questions about birth control. Then one day it just lost all of my details so didn't bother again!<br> :date: __2020-05-18 19:10:09__
 
-> Happy to help at first, then a few days ago started locking up my phone and had no profile. Added again and now have two. Can't get rid of extra one and get two notifications now. Unfortunately uninstalling now.<br> :date: __2020-05-10 15:56:28__
+> I started contributing to this some time ago, but then the app decided to update itself and completely turned my phone inside out, and I lost a lot of contacts etc. I can't see any way of contributing on my windows laptop. During lockdown whenever either phone or laptop has a little moment I suddenly feel very very lonely as I live alone. I fear I shall feel the same about the contact tracing app if it ever becomes available<br> :date: __2020-05-18 16:52:03__
 
-> Poor app. Gradually asks more and more questions you can't skip to mine data. Not impressed.<br> :date: __2020-05-08 14:53:05__
+> This app has started to ask for money!<br> :date: __2020-05-18 15:50:37__
 
-> why are you not collecting gender and age.<br> :date: __2020-05-06 19:17:18__
+> Had to change my rating because app claims it doesn't recognize me, numerous error messages, etc. Have uninstalled and reinstalled, to no avail. Love to try to help, but frustrating here.<br> :date: __2020-05-17 20:52:55__
 
-> Suboptimal<br> :date: __2020-05-06 12:17:16__
+> Doesn't give you any other information about the virus, and it is the same question every single day no update on what is happen in real time , and also doesn't tell you where to get tested or if you qualify for it<br> :date: __2020-05-17 12:25:08__
+
+> Won't load, won't let create profile or answer all questions<br> :date: __2020-05-16 16:05:45__
 
 
 
@@ -309,24 +311,24 @@ The COVID Symptom Study app has been installed by more than **1000000** times. A
 <img src="1_star_reviews_wordcloud.png" alt="com.joinzoe.covid_zoe 1 reviews"/>
 </p>
 
-> What does it mean to have "sex assigned at birth"? By whom? Surely sex is assigned at conception, by reality.<br> :date: __2020-05-11 10:27:32__
+> Really trying to install on my phone but I cannot access the code they send me. Just doesn’t arrive.<br> :date: __2020-05-22 19:47:29__
 
-> Tried installing this but it simply doesn't appear on my phone.<br> :date: __2020-05-10 21:04:25__
+> not comfortable with the latest app asking how often I've been outside. I'm not gonna use this any more if those questions are mandatory.<br> :date: __2020-05-21 15:59:01__
 
-> Last update broke the app so can no longer report<br> :date: __2020-05-10 20:07:08__
+> Just didn't install.... hung there<br> :date: __2020-05-19 18:00:37__
 
-> Stopped working. Reinstalled twice, but now shows as installed on google play and so won't let me reinstall.<br> :date: __2020-05-10 17:01:56__
+> Unable to open. Installed ok and able to enter required information but been unable to.open app ever since.<br> :date: __2020-05-19 14:48:55__
 
-> Useless<br> :date: __2020-05-10 16:55:22__
+> The app doesn't allow for previous symptoms ie back in Jan/Feb<br> :date: __2020-05-18 20:17:52__
 
-> Does not work since update/ name change. This easy to use app no longer works. My profile disappeared and I can no longer sign in - instead I get sent round in a loop asking me to choose my country of residence. I found this slightly disappointing as I thought it was concentrating on cases within the UK.<br> :date: __2020-05-10 16:35:35__
+> Download it but stayed on a blue screen after covid 19 sign. So uninstalled it<br> :date: __2020-05-18 19:06:45__
 
-> Been using the app for about a month, went to use it today and it's lost my profile?<br> :date: __2020-05-10 16:19:54__
+> Every time you try and answer questions the app just freezes its also added about 4 profiles when there should only be 1 and i dont know how to delete them? Frustrated<br> :date: __2020-05-18 15:20:46__
 
-> After about 2 weeks of using it daily it lost my profile. It was like I had never set one up. I don't trust it now it seems to have lost my data. Uninstalled<br> :date: __2020-05-10 15:56:46__
+> Won't load. Started well but now won't load at all<br> :date: __2020-05-17 12:48:19__
 
-> Not working today 10th May 2020<br> :date: __2020-05-10 15:51:33__
+> Its been downloading for 20 min & won't complete.<br> :date: __2020-05-17 02:23:23__
 
-> Its stopped working, asks you to log your results and says something has gone wrong<br> :date: __2020-05-10 15:47:29__
+> First weeks using, no problems. Now so slow to load and open, there's time for a tea break while waiting on blue screen. Uninstalled but download for reinstall sticks at 78%. Finally reinstalled - 5 mins. Still slow to open.<br> :date: __2020-05-16 17:14:42__
 
 

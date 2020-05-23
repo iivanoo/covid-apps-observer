@@ -1,0 +1,16 @@
+{
+    "permissions": [
+        "android.permission.INTERNET",
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        "android.permission.ACCESS_NETWORK_STATE"
+    ],
+    "activities": [
+        "es.navarra.coronatestnavarra.MainActivity"
+    ],
+    "urls": [
+        "https://api.whatsapp.com/send?phone=",
+        "https://ssl.gstatic.com/accessibility/javascript/android/",
+        "http://*/*",
+        "https://*/*"
+    ]
+}

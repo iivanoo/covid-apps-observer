@@ -4,34 +4,34 @@
         "store_country": "fr",
         "store_lang": "fr",
         "latest_crawled_version": "2.1.0",
-        "latest_crawl": 1589104177
+        "latest_crawl": 1589723569
     },
     {
         "id": "org.crf.minutis",
         "store_country": "fr",
         "store_lang": "fr",
         "latest_crawled_version": "2.0.3",
-        "latest_crawl": 1589104186
+        "latest_crawl": 1589723573
     },
     {
         "id": "de.xikolo.openwho",
         "store_country": "fr",
         "store_lang": "fr",
-        "latest_crawled_version": "3.3",
-        "latest_crawl": 1589104191
+        "latest_crawled_version": "3.3.1",
+        "latest_crawl": 1589723582
     },
     {
         "id": "fr.aphp.covidom",
         "store_country": "fr",
         "store_lang": "fr",
         "latest_crawled_version": "1.5.21",
-        "latest_crawl": 1589104195
+        "latest_crawl": 1589723752
     },
     {
         "id": "com.ambulis.aphm.covid",
         "store_country": "fr",
         "store_lang": "fr",
         "latest_crawled_version": "1.2.0",
-        "latest_crawl": 1589104197
+        "latest_crawl": 1589723756
     }
 ]

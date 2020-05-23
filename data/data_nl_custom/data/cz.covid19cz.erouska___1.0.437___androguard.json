@@ -1,0 +1,32 @@
+{
+    "permissions": [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        "android.permission.WAKE_LOCK",
+        "android.permission.INTERNET",
+        "com.google.android.c2dm.permission.RECEIVE",
+        "android.permission.BLUETOOTH_ADMIN",
+        "android.permission.FOREGROUND_SERVICE",
+        "android.permission.BLUETOOTH",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.ACCESS_FINE_LOCATION",
+        "android.permission.ACCESS_COARSE_LOCATION"
+    ],
+    "activities": [
+        "cz.covid19cz.erouska.ui.main.MainActivity",
+        "cz.covid19cz.erouska.ui.ShortcutActivity",
+        "com.google.firebase.auth.internal.FederatedSignInActivity",
+        "com.google.android.gms.common.api.GoogleApiActivity"
+    ],
+    "urls": [
+        "http://schemas.android.com/apk/res/android",
+        "https://plus.google.com/",
+        "https://%1$s-%2$s.cloudfunctions.net/%3$s",
+        "https://%s/%s/%s?key=%s",
+        "https://firebaseremoteconfig.googleapis.com/v1/projects/%s/namespaces/%s:fetch",
+        "https://firebasestorage.googleapis.com/v0",
+        "https://settings.crashlytics.com/spi/v2/platforms/android/apps/%s/settings",
+        "https://e.crashlytics.com/spi/v2/events",
+        "http://localhost",
+        "http://schemas.android.com/apk/res-auto"
+    ]
+}

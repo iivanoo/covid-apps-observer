@@ -145,6 +145,8 @@ The COVID-19 NI app has been installed by more than **50000** times. At this tim
 <img src="5_star_reviews_wordcloud.png" alt="net.hscni.covid19ni 5 reviews"/>
 </p>
 
+> This app got its rating destroyed by people across the water, therefore, the HSC deserve as many 5 star ratings as possible.<br> :date: __2020-05-14 06:12:38__
+
 > Very good<br> :date: __2020-05-08 18:22:42__
 
 > Intresing read about covid 19<br> :date: __2020-05-02 15:58:29__
@@ -162,8 +164,6 @@ The COVID-19 NI app has been installed by more than **50000** times. At this tim
 > Great app. Has bad reviews due to people being unable to read, it quite clearly says NI in the apps name.<br> :date: __2020-04-20 08:08:20__
 
 > Brilliant app. Does exactly what is required and is easy to use. Thank you for your hard work. It's a shame a lot of the people reviewing the app do not have the basic level of intelligence to realise it's for people here in northern Ireland so they can track our localised cases. I can only assume these are the same people who don't social distance and burn 5g phone masts. App developers have done a top job.<br> :date: __2020-04-20 06:15:43__
-
-> App works fine. Mostly putting this here for the morons that don't understand it's for NI only, mostly people in England who don't understand how borders work.<br> :date: __2020-04-20 00:29:52__
 
 
 

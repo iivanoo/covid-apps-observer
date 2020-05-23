@@ -1,25 +1,487 @@
 [
     {
+        "userName": "Stefano Zorzan",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Ghwk9tzw2F9gHxoA9P5APf2UtDlu-J910QRPeYX",
+        "content": "Devo ogni volta salvare le notifiche scelte, reinserire i comuni preferiti..... mah!!!",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2020-05-17 15:10:05",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "userName": "Concetta Oliva",
+        "userImage": "https://lh3.googleusercontent.com/-fYcuW1me7n0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckERySgnkKuFrMS-TX-cW5cObKbxg/photo.jpg",
+        "content": "Perfetto risolto il problema che avevo segnalato. Grazie mille",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.6.0",
+        "at": "2020-05-17 12:01:49",
+        "replyContent": "Ciao Concetta, abbiamo verificato quanto da te segnalato, ma accedendo a \"Archivio allerte di Protezione Civile\" e successivamente \"Info Coronavirus\" risulta la notizia del 14/05/2020 riferita all'ordinanza in questione con il relativo link del redazionale.",
+        "repliedAt": "2020-05-14 15:31:15"
+    },
+    {
+        "userName": "Alessandro Barcellan",
+        "userImage": "https://lh3.googleusercontent.com/-mCiIXP4cN28/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck2uFqMC2BH8deEpRTV4ucJm7trTg/photo.jpg",
+        "content": "In utilissima",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2020-05-17 11:53:31",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "userName": "Eduardo Sottile",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Ghv_Er93G7-CjtYOLgnbLm-h3IDoIHGW3gz80em",
+        "content": "Il questionario cercacovid deve essere aggiornato!.. molta gente \u00e8 sottoposta a esame sierologico prima del tampone. Manca la domanda.. il tampone non viene fatto se sierologico \u00e8 negativo. Grazie.",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.6.0",
+        "at": "2020-05-17 09:34:58",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "userName": "Alessio Malacrida",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gh9JzsKwgTNPBuS5HpYJo8rx1IVlYzYDedWDAyknQ",
+        "content": "Pessima",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.6.0",
+        "at": "2020-05-16 17:05:31",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "userName": "marco savoia",
+        "userImage": "https://lh3.googleusercontent.com/-H1ww4l1pCHg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn406qhKu744xPxaS4QPQ_WL-yAyg/photo.jpg",
+        "content": "il mio terminale la rifiuta a priori ho capito...il mio terminale ha i permessi di root...questo per la mia SICUREZZA...l'app dice che si chiude per la mia sicurezza...disinstallato immediatamente.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2020-05-16 13:20:58",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "userName": "Andrea Levi",
+        "userImage": "https://lh3.googleusercontent.com/-1zsP5tJpsp8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclC7p7iM85yy1N03MFaKpPiG7ga6w/photo.jpg",
+        "content": "Secondo me ha la stessa utilit\u00e0 di un cartello che posso appendere fuori casa in cui chiedo ai passanti di mandarmi un messaggio se vedono del fumo uscire dalla finestra. Poi dico di aver installato un impianto antincendio.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.6.0",
+        "at": "2020-05-16 12:00:36",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "userName": "Mauro Fociani",
+        "userImage": "https://lh3.googleusercontent.com/-G2c5H9Gd7BE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl2RkcYKAKuHtCF0hRMYtEZ43PK4A/photo.jpg",
+        "content": "Reputo l'app un utile iniziativa, ma tecnologicamente antiquata ed orpellosa. Tutti gli utenti con uno smartphone in Italia oggi concedono tramite le app scaricate in media 2,6 autorizzazioni di tracciamento a testa (facebook, tripadvisor, whatsapp, etc). semplificate con una raccolta dati volontaria ed automatizzata per chi vi concede la tracciatura non anonima. Consentite ai pendolari fuori regione di partecipare dato che trascorrono mediamente pi\u00fa di met\u00e1 giornata su territorio Lombardo.",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.6.0",
+        "at": "2020-05-16 09:42:56",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "userName": "Alessia Cocco",
+        "userImage": "https://lh3.googleusercontent.com/-n6doM5sT-ow/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmnwW051NCKn01_RuT-d9JsLorkZQ/photo.jpg",
+        "content": "Ma questa applicazione da quel che fate intendere \u00e8 solo per la regione Lombardia per le altre regioni d'Italia?avete bisogno solo di una mappatura interna regionale..anche se le notizie parlavano dell'intera penisola!",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2020-05-16 09:07:44",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "userName": "CONCETTA FANIZZA",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gh-ZPf7E8afFAgollfChH4GtR6oHaQZYauhhNpgMA",
+        "content": "Peccato che non d\u00e0 la possibilit\u00e0 di modificare l'et\u00e0 di se stessi. Grazie Grazie per la risposta, ho disinstallato e reinstallato l'app ed ho aggiornato il dato. Ne approfitto per chiedere se potreste aggiungere anche: - hai fatto il test sierologico? Magari pu\u00f2 comunque essere utile. Saluti e grazie",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.6.0",
+        "at": "2020-05-16 07:07:05",
+        "replyContent": "Ciao Concetta, grazie per averci contattato, l'errore \u00e8 gi\u00e0 stato segnalato ai servizi tecnici, in attesa della risoluzione possiamo suggerirti di disinstallare e reinstallare l'app cos\u00ec da poter inserire il dato aggiornato.",
+        "repliedAt": "2020-05-13 10:32:51"
+    },
+    {
+        "userName": "Alberto Missiaia",
+        "userImage": "https://lh3.googleusercontent.com/-wjad_hLZjgg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmWAshTMdVCcD0lZPwuawgBuUBhbQ/photo.jpg",
+        "content": "Non mi interessa",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.6.0",
+        "at": "2020-05-15 22:56:01",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "userName": "TM\u30de\u30ea\u30f3",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhNod3JFMYAo2rerF-YBgo8-4PygvlVf8zLekzFugg",
+        "content": "Dite a fontana di dimettersi e di lasciare spazio a gente col cervello in testa che questi ci hanno quasi ammazzati tutti",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2020-05-15 16:40:21",
+        "replyContent": "Siamo spiacenti che le funzionalit\u00e0 dell'app non siano di tuo gradimento!",
+        "repliedAt": "2020-05-15 17:02:43"
+    },
+    {
+        "userName": "Davide Minora",
+        "userImage": "https://lh3.googleusercontent.com/-NH-uGN3D0k4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmjHEYbpgcCZswblkKGPBdv7aVvZg/photo.jpg",
+        "content": "Non ricevo le notifiche",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.5.0",
+        "at": "2020-05-15 16:33:25",
+        "replyContent": "Ciao Davide, prima di inoltrare la tua segnalazione ai servizi tecnici vorremmo assicurarci che le notifiche siano state correttamente impostate, accedi al menu e verifica le impostazioni. Se risultano attive invia lo screen delle impostazioni all'indirizzo : info.allertalom@ariaspa.it",
+        "repliedAt": "2020-05-15 16:59:47"
+    },
+    {
+        "userName": "Paolo Hoffer",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjD1tT5n9hcaHkS2bOBtYPHBqYYIpvDkCbkd4kN",
+        "content": "Con smartphone A50 ogni volta richiede tutti i consensi e le impostazioni. Il pulsante SALVA evidentemente non funziona. Impossibile skippare la parte COVID e accedere alle allerte.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.6.0",
+        "at": "2020-05-15 14:00:21",
+        "replyContent": "Ciao Paolo, abbiamo inoltrato la tua segnalazione ai servizi tecnici, grazie per averci contattato!",
+        "repliedAt": "2020-05-15 17:00:40"
+    },
+    {
+        "userName": "barbara novito",
+        "userImage": "https://lh3.googleusercontent.com/-5Z2mmEVJY2g/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmsLCldV7EHf9wavS6z5wFld3C9aQ/photo.jpg",
+        "content": "Andrebbe migliorato UX. Ad ogni accesso bisogna compiere tutti gli step da capo. Dell'autorizzazione privacy, al setting x gli alert delle notifiche, al questionario. 15 Maggio: \u00c9 peggiorata. Non si leggono le notifiche , si pu\u00f2 accedere solo al questionario covid. Le falle di cui sopra sono ovviamente rimaste, non \u00e8 vero che con la nuova release alcune info restano memorizzate.",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.6.0",
+        "at": "2020-05-15 13:03:07",
+        "replyContent": "Ciao Barbara, grazie per la segnalazione. L'abbiamo inoltrata ai servizi tecnici. Ogni contributo \u00e8 prezioso.",
+        "repliedAt": "2020-04-07 19:38:25"
+    },
+    {
+        "userName": "Caterina Montaldo",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GghaNaP4Q7YmNZGHFN1HeiWg0DUSVEO1u4Oz-x0Sg",
+        "content": "Scomoda, lenta, manda notifiche ma poi ti presenta una home page da cui non capisci dove \u00e8 l'avviso, te lo devi cercare. Inutile",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.6.0",
+        "at": "2020-05-15 12:40:30",
+        "replyContent": "Ciao Caterina, abbiamo inoltrato la tua segnalazione ai servizi tecnici.",
+        "repliedAt": "2020-05-15 17:03:54"
+    },
+    {
+        "userName": "Max Guapo",
+        "userImage": "https://lh3.googleusercontent.com/-nph93PJx1II/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckb2559_09PptMT0xtKpmTyL_qL4g/photo.jpg",
+        "content": "App orribile",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.5.0",
+        "at": "2020-05-14 20:08:24",
+        "replyContent": "Ciao ci spiace sapere che le funzionalit\u00e0 dell'app non sia di tuo gradimento, ci piacerebbe sapere come poter migliorare la tua esperienza utente scrivici a info.allertalom@ariaspa.it !",
+        "repliedAt": "2020-05-15 08:20:03"
+    },
+    {
+        "userName": "monica venturi",
+        "userImage": "https://lh3.googleusercontent.com/-qwlG2btg4yQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn3CErGMeuLZGGCegAgisFPJ__mJQ/photo.jpg",
+        "content": "Buongiorno come si fa a aggiornare l'et\u00e0 perch\u00e9 nel frattempo ho compiuto gli anni e non riesco a modificare. Grazie",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.6.0",
+        "at": "2020-05-14 17:03:11",
+        "replyContent": "Ciao Monica, allo stato attuale i dati riferiti ad et\u00e0, sesso e condizioni mediche rilevanti non sono editabili dopo il primo inserimento per esigenze tecniche, in quanto il questionario \u00e8 stato \"pensato\" per fini statistici.",
+        "repliedAt": "2020-05-15 08:25:51"
+    },
+    {
+        "userName": "marco",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gh9e65_bmkF7ITJ32CaSAApqIIybA37_t4L_PaCQA",
+        "content": "Provato a inserire dati allarmanti il risultato il nulla pi\u00f9 assoluto... a che serve? Grazie per la risposta quindi l app serve a poco e nulla se la compilo una volta? Se posso darvi una idea si possono monitorare battiti e temperatura con smartwatch e fitbit simili questi hanno piu senso e col gps hai una mappa reale... questa la trovo utile solo per le comunicazioni.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.6.0",
+        "at": "2020-05-14 16:04:26",
+        "replyContent": "Ciao Marco, i dati raccolti servono per analisi statistiche ed epidemiologiche, fondamentali per aiutare le autorit\u00e0 sanitarie a definire modelli e strategie di contrasto al Coronavirus.Partecipare \u00e8 importante, anche in assenza di sintomi: pi\u00f9 dati si ricevono, pi\u00f9 il quadro della situazione \u00e8 preciso. Grazie per averci lasciato il tuo feedback!",
+        "repliedAt": "2020-05-15 08:28:23"
+    },
+    {
+        "userName": "marinella zugnoni",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjYFuZD0w4fMws_0jTAFDbRIERYHKh5LVx574-Udw",
+        "content": "Senza tamponi e test come si fa a sapere se si \u00e8 stati a contatto con persone contagiose asintomatiche? Qui si pu\u00f2 semplicemente tener conto di coloro che hanno sintomi importanti... sembra pi\u00f9 uno scarabocchio piuttosto che un grafico della situazione...",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.6.0",
+        "at": "2020-05-14 15:24:51",
+        "replyContent": "Ciao Marinella, grazie per averci lasciato il tuo feedback!",
+        "repliedAt": "2020-05-14 15:44:21"
+    },
+    {
+        "userName": "susi tanghetti",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgcZtFK_yS-xrlLIpJfqaG6ZDTZFLEN17-F7wfvzA",
+        "content": "Ottima",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.6.0",
+        "at": "2020-05-14 11:14:07",
+        "replyContent": "Grazie per la valutazione positiva!Cercheremo instancabilmente di fare in modo che tutti quelli che usano l'app, la apprezzino come te!",
+        "repliedAt": "2020-05-14 12:57:38"
+    },
+    {
+        "userName": "Flavio Crespi",
+        "userImage": "https://lh3.googleusercontent.com/-Ehko97X1gRU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnMKsmI5WnfsPC4UXytF_2e4QWkZw/photo.jpg",
+        "content": "Ogni volta che si apre chiede di accettare le condizioni, una volta dovrebbe bastare, non salva le scelte di avviso, una volta entrati, non accetta, di non partecipare al sondaggio coronavirus e si blocca. Disinstallata",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.6.0",
+        "at": "2020-05-14 10:56:09",
+        "replyContent": "Ciao Flavio, vorremmo permetterti di utilizzare correttamente l'app, pertanto abbiamo inoltrato la tua segnalazione ai servizi tecnici. Ti contatteremo a verifica ultimata. Grazie!",
+        "repliedAt": "2020-05-14 12:56:04"
+    },
+    {
+        "userName": "Diego Bernasconi",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgTYz9nxMfAkaRnlCuDT8-z6TWHvOAguTszO2ae",
+        "content": "L'app non funziona se hai uno smartphone con i permessi di root. Esce un messaggio che ti avvisa e l'app si chiude. Molti hanno fatto il rooting solo per fare il backup completo del cellulare. Se volete far diffondere il pi\u00f9 possibile quest'app vi conviene togliere questa limitazione.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.6.0",
+        "at": "2020-05-14 09:43:36",
+        "replyContent": "Ciao Diego, grazie per averci lasciato il tuo feedback! L'abbiamo inoltrata ai servizi tecnici.",
+        "repliedAt": "2020-05-14 10:43:49"
+    },
+    {
+        "userName": "Cesare Dolce",
+        "userImage": "https://lh3.googleusercontent.com/-UjFEV0c9TO4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckmyUW6OiefAq3cspbZodWKTBhniw/photo.jpg",
+        "content": "Ogni volta bisogna impostare i dati e reinserire le informazioni di base come se fosse il primo utilizzo, purtroppo questo inconveniente ne scoraggia un utilizzo frequente.",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.6.0",
+        "at": "2020-05-14 08:01:18",
+        "replyContent": "Ciao Cesare, gli sviluppatori, stanno lavorando per una risoluzione! Grazie per averci contattato!",
+        "repliedAt": "2020-05-14 14:17:13"
+    },
+    {
+        "userName": "Ernesto Braghini",
+        "userImage": "https://lh3.googleusercontent.com/-yZYJHzU7kS0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclXZyxveSzBuIuIMtB_DX8mHh6PgA/photo.jpg",
+        "content": "Complimenti x chi la pensata per",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.6.0",
+        "at": "2020-05-14 07:08:46",
+        "replyContent": "Ciao Ernesto, grazie per la valutazione positiva!",
+        "repliedAt": "2020-05-14 08:40:37"
+    },
+    {
+        "userName": "Elena Armani",
+        "userImage": "https://lh3.googleusercontent.com/-UmZYf0rviEs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn_gUPu8deZFiU7yQtGb6c_CbPCbw/photo.jpg",
+        "content": "A mio parere dovrebbe essere aggiornato il questionario sul proprio stato di salute, almeno settimanalmente. Cos\u00ec come proposto, fotografa una condizione solo momentanea.",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.6.0",
+        "at": "2020-05-13 19:27:24",
+        "replyContent": "Ciao Elena, grazie per il tuo suggerimento. Lo invieremo al gruppo di ricerca di medici e ricercatori dell\u2019Ospedale San Matteo e dell\u2019Universit\u00e0 degli Studi di Pavia che ha ideato il questionario. Ogni contributo degli utenti \u00e8 prezioso!",
+        "repliedAt": "2020-05-14 09:32:50"
+    },
+    {
+        "userName": "Valeriano Viretti",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gif6zuGWz0RNfdaVCAgGGYuXNPvLQjHSTHwxBhP4Q",
+        "content": "Non \u00e8 che si capisce molto a che serve",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.6.0",
+        "at": "2020-05-13 18:45:50",
+        "replyContent": "Ciao Valeriano, le informazioni raccolte contribuiscono ad alimentare una \u201cmappa del rischio contagio\u201d continuamente aggiornata, che permette agli esperti di sviluppare modelli previsionali sul contagio. Puoi trovare maggiori chiarimenti sul redazionale di Regione al seguente link https://bit.ly/35YtwxG oppure scrivi a : info.allertalom@ariaspa.it",
+        "repliedAt": "2020-05-14 10:35:28"
+    },
+    {
+        "userName": "valeria capitolani",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GitpiXioIpZSoXcVftcAfvf4LdE7uiDCECnskqo",
+        "content": "Dovrebbero aggiornare con voci aggiuntive oltre allo spostamento x lavoro anche se ci si sposta x congiungimento parenti...ad esempio io mi sono trasferita da 1 settimana da cabiate a Treviglio xch\u00e9 mia madre infatuata da marzo e non pi\u00f9 vista e non ho potuto segnalarlo in alcun modo e quindi non lo sto compilando pi\u00f9",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.6.0",
+        "at": "2020-05-13 16:17:07",
+        "replyContent": "Ciao Valeria, grazie per il suggerimento. L'abbiamo inoltrata ai servizi tecnici. Ogni contributo \u00e8 prezioso!",
+        "repliedAt": "2020-05-13 16:22:30"
+    },
+    {
+        "userName": "Daniele Favalli",
+        "userImage": "https://lh3.googleusercontent.com/-ilDd-DLuctY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclZaa7M7V5ng3A6pReMSrtQzI-ZDg/photo.jpg",
+        "content": "Utile",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.6.0",
+        "at": "2020-05-13 13:31:24",
+        "replyContent": "Grazie Daniele siamo felici che tu abbia apprezzato le funzionalit\u00e0 dell\u2019App. Ti ringraziamo per la valutazione positiva!",
+        "repliedAt": "2020-05-13 15:41:39"
+    },
+    {
+        "userName": "corrado albergoni",
+        "userImage": "https://lh3.googleusercontent.com/-v1eZ36jiXUw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmJLh51FBQLZi7Yp_gkMh3bOTrVGg/photo.jpg",
+        "content": "Nessun risultato disponibile, che serve a qualche cosa!",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2020-05-12 23:02:44",
+        "replyContent": "Ciao Corrado, potresti dettagliare la problematica riscontrata? scrivici a info.allertalom@ariaspa.it",
+        "repliedAt": "2020-05-13 08:00:56"
+    },
+    {
+        "userName": "Daniela petro Betea",
+        "userImage": "https://lh3.googleusercontent.com/-1Y2wg3QwrWk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckH18rRjDYyRNZyU37-61kRX6-tXQ/photo.jpg",
+        "content": "Entro e la prima cosa che mi chiedono \u00e8 di un famigliare..... Non si sa se le informazioni che chiedono sono per se o per l altra persona che con voi o che avete incontrato .. Dovrebbe essere migliorata: la prima fomanda va fatta sulla prima persona cio\u00e8 quella che scarica l app non sul primo sul quale si chiedono info \"tipo famigliare o bla bla bla\" Miglioratela : prima si chiede della persona che l ha scaricata poi sui famigliari o amici!!! Non pu\u00f2 funzionare cos\u00ec",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2020-05-12 22:56:20",
+        "replyContent": "Ciao Daniela, l'app \u00e8 impostata per permetterti di partecipare al sondaggio per se stessi. la possibilit\u00e0 di compilare il questionario anche per i propri familiari e una funzione aggiuntiva per chi non ha la possibilit\u00e0 di farlo, non devi necessariamente creare altri profili oltre al tuo.Se hai bisogno di ulteriori chiarimenti contattaci!",
+        "repliedAt": "2020-05-13 08:04:38"
+    },
+    {
+        "userName": "rosario Saglimbeni",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhzP5dALJRjwPMEF907iglPYHtO57Ed0_VE3O6llg",
+        "content": "sembra che la situazione sia in miglioramento in quanto vedo che sono in pochi che si lamentano!!Io personalmente guardandomi attorno sento gente che manifesta i sintomi pi\u00f9 strani dagli occhi a dolori diffusi per tutto il corpo Secco al petto o leggero mal di gola Comunque sintom\u00ec che avvertiamo tutti aggiunti ad una forte componente emotiva in quanto tutti abbiamo paura Grazie",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2020-05-12 17:11:03",
+        "replyContent": "Ciao Rosario, grazie per la valutazione positiva!",
+        "repliedAt": "2020-05-12 17:56:12"
+    },
+    {
+        "userName": "Danico Gnisci",
+        "userImage": "https://lh3.googleusercontent.com/-qlV71EU_tG4/AAAAAAAAAAI/AAAAAAAAAZQ/AMZuucmZRCoY4oFwC2nT_8dZU0dNxPs-Vw/photo.jpg",
+        "content": "A cosa serve? E solo ambito regionale?",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2020-05-11 22:27:39",
+        "replyContent": "Ciao,l'app \u00e8 stata progettata per permettere a Regione Lombardia di quantificare il livello di diffusione del contagio e la distribuzione territoriale della positivit\u00e0, speriamo di poter estendere il nostro servizio al resto delle Regioni.",
+        "repliedAt": "2020-05-12 09:21:30"
+    },
+    {
+        "userName": "oli lulu",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhfcyEvDWENIOZV9exVhSb_T2uLGSHkh9rdzv2B",
+        "content": "Se ce root impossibile da istallare",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2020-05-11 19:42:11",
+        "replyContent": "Ciao, l'applicazione non tratta dati sensibili, bens\u00ec dati di natura comune. Ciononostante, si \u00e8 ritenuto opportuno inserire controlli di dispositivo a fronte di jailbreaking e rooting.Ovvero si nega l'utilizzo a quei dispositivi che risultano siano stati alterati rispetto al loro funzionamento originale",
+        "repliedAt": "2020-05-12 09:22:05"
+    },
+    {
+        "userName": "Nazario Vitale",
+        "userImage": "https://lh3.googleusercontent.com/-z0Jroxg0wVA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnqFVGGveykQOd68AqnyOMpMOagVQ/photo.jpg",
+        "content": "Vivi e lasci vivere",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.6.0",
+        "at": "2020-05-11 16:21:22",
+        "replyContent": "Ciao Nazario, grazie per aver aggiunto le stelline e aggiornato la valutazione!",
+        "repliedAt": "2020-05-12 09:18:48"
+    },
+    {
+        "userName": "Enzo Sacca",
+        "userImage": "https://lh3.googleusercontent.com/-jkwckFWQd9E/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucngrSk6PTYCqpZnMHpqTGGODdwBAQ/photo.jpg",
+        "content": "Mai piu una cosa cosi..drammatica..",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.6.0",
+        "at": "2020-05-11 12:59:28",
+        "replyContent": "Grazie per la valutazione positiva.",
+        "repliedAt": "2020-05-11 14:57:45"
+    },
+    {
+        "userName": "Gopo",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjqWlh_yu2kq3S1_sQrYFxNZJIbXAbjG4YAyOzqPg",
+        "content": "No va senza che dai tutti i tuoi dati.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2020-05-11 11:13:39",
+        "replyContent": "Ciao, il questionario \u00e8 volontario, completamente anonimo, non prevede alcuna geolocalizzazione e non sostituisce una valutazione medica delle proprie condizioni. Partecipare \u00e8 importante, anche in assenza di sintomi: pi\u00f9 dati si ricevono, pi\u00f9 il quadro della situazione \u00e8 preciso",
+        "repliedAt": "2020-05-11 15:00:15"
+    },
+    {
+        "userName": "Guido Berardinelli",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiXjw_oaVVBATcB0-i2qQPOhLMep0NahLR2NFJyhQ",
+        "content": "Ho segnalato un malfunzionamento relativo al 3g e 4g che sembra essere stato risolto. Mi riservo di provarlo comunque apprezzo la celerit\u00e0 nel gestire la segnalazione.",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.6.0",
+        "at": "2020-05-11 02:55:04",
+        "replyContent": "Ciao Guido,  grazie per aver aggiornato la tua recensione.",
+        "repliedAt": "2020-05-11 14:56:40"
+    },
+    {
+        "userName": "Valentina Razionale",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Ggnk2JbXw-KTCulMwJl7B7zcTQFqLq5Rw3Gwh0xIw",
+        "content": "EDIT: correggo la recensione perch\u00e9 dopo l'aggiornamento adesso funziona perfettamente. Bravi! - Boooh! Installata, aperta, compilato i dati la prima volta. Poi qualche ora dopo ho ricevuto una notifica, ci ho cliccato sopra e... magia! La app non si apre pi\u00f9, rimane o lo schermo bianco fisso o il logo iniziale con la rotella che gira in eterno. Direi perfettamente in linea col tono ridicolo generale con cui \u00e8 stato gestito tutto questo frangente. Ciao, vado a disinstallare.",
+        "score": 5,
+        "thumbsUpCount": 15,
+        "reviewCreatedVersion": "1.6.0",
+        "at": "2020-05-10 17:41:24",
+        "replyContent": "Ciao Valentina,  grazie per aver aggiornato la tua recensione, e grazie per aver apprezzato la nostra disponibilit\u00e0!lavoriamo quotidianamente per fornire a tutti uno strumento utile, recensioni come questa ci fanno particolarmente piacere!",
+        "repliedAt": "2020-05-11 14:53:17"
+    },
+    {
+        "userName": "YHATTA GAME",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjXEVmZ7nXUWHHIcz4PXZTfQ9kUt1gLpDMpK8recw",
+        "content": "Messo allerta covid e sulla mappa fa vedere altri avvisi che all inzio dell avvio della app avevo escluso.... Insomma tutto e niente o. O",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.6.0",
+        "at": "2020-05-10 14:12:31",
+        "replyContent": "Ciao, hai salvato  le impostazioni? Se si, ti invitiamo ad aggiornare la recensione.Nonostante ci\u00f2,  abbiamo segnalato agli sviluppatori l'anomalia riscontrata.",
+        "repliedAt": "2020-05-11 15:07:53"
+    },
+    {
+        "userName": "mario r",
+        "userImage": "https://lh3.googleusercontent.com/-SFaEc5_VHWw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckNHZCoCxPD-5ZF2pG_2YwrcyqGOQ/photo.jpg",
+        "content": "Credo manchi una domanda ... io ho fatto il test sierologico \"privatamente\" con la medicina del lavoro ... questo per\u00f3 non \u00e8 il tanpone quindi in base alle domande non posso condividerne l'esito.",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.6.0",
+        "at": "2020-05-10 12:56:10",
+        "replyContent": "Ciao Mario, ti ringraziamo per il suggerimento.Lo invieremo al gruppo di ricerca di medici e ricercatori dell\u2019Ospedale San Matteo e dell\u2019Universit\u00e0 degli Studi di Pavia che ha ideato il questionario. Ogni contributo degli utenti \u00e8 prezioso!",
+        "repliedAt": "2020-05-11 14:52:46"
+    },
+    {
+        "userName": "piero palaz",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gg2gdhztaNoF6pNvYTslqBwf2neW2VMX3p33bsFaro",
+        "content": "Quando arriva un avviso apro l'app ma si blocca su una schermata bianca. Devo per forza chiuderla. Oggi 10/05 sembra tutto ok.",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.6.0",
+        "at": "2020-05-10 12:49:28",
+        "replyContent": "Ciao Piero, grazie per aver aggiornato la tua recensione, e grazie per aver apprezzato la nostra disponibilit\u00e0!lavoriamo quotidianamente per fornire a tutti uno strumento utile, recensioni come questa ci fanno particolarmente piacere!",
+        "repliedAt": "2020-05-11 14:50:40"
+    },
+    {
         "userName": "Linda Smith",
-        "userImage": "https://lh3.googleusercontent.com/-Ld8B1QL5ijk/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJP9VipBaNHzEj1l0p8cqKCOshqj8w/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-Ld8B1QL5ijk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclo1k17cbdxLbC9WDxwVb1gczf-dQ/photo.jpg",
         "content": "Non ho mai ricevuto comunicazione",
         "score": 1,
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.6.0",
         "at": "2020-05-10 06:51:28",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ciao Linda, a quale comunicazione ti riferisci? potresti dettagliare la problematica riscontrata? scrivici a info.allertalom@ariaspa.it indicando i tuoi dati e del dispositivo utilizzato!",
+        "repliedAt": "2020-05-11 14:55:15"
     },
     {
         "userName": "Alessandro Mascoli",
-        "userImage": "https://lh3.googleusercontent.com/-X_atwdC-uMg/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJO1CPMb9R-GavyqYhTid8r-ymeyJg/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-X_atwdC-uMg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclgRwwRyhQJOn9vmWAU1eygehGNDw/photo.jpg",
         "content": "Buona, e facile da utilizzare",
         "score": 5,
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.6.0",
         "at": "2020-05-10 06:25:08",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ciao Alessandro, le recensioni positive sono una vetrina del lavoro svolto.",
+        "repliedAt": "2020-05-11 14:50:08"
     },
     {
         "userName": "PAOLA cirillo",
@@ -29,19 +491,19 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.5.0",
         "at": "2020-05-09 12:45:04",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ciao Paola, grazie della recensione!! Il nostro lavoro \u00e8 misurato anche in funzione delle vostre recensioni e valutazioni!!",
+        "repliedAt": "2020-05-11 14:48:53"
     },
     {
         "userName": "Daniele Locatelli",
-        "userImage": "https://lh3.googleusercontent.com/-sCeJfSZ-lIM/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJNsFAakZAxbyWbIJ9GWYEG4dHgxvw/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-sCeJfSZ-lIM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnD41YM3gXd7fLl7LQo_FAS-4fMng/photo.jpg",
         "content": "App ben fatta..un unico appunto, manca la Casellina del \"sierologico\" che in molti stiamo facendo. Io ho dato ok al tampone ma \u00e8 mezza verit\u00e0. Buon lavoro e grazie.",
         "score": 5,
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.6.0",
         "at": "2020-05-09 07:49:11",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ciao Daniele, ti ringraziamo per il suggerimento.Lo invieremo al gruppo di ricerca di medici e ricercatori dell\u2019Ospedale San Matteo e dell\u2019Universit\u00e0 degli Studi di Pavia che ha ideato il questionario. Ogni contributo degli utenti \u00e8 prezioso!",
+        "repliedAt": "2020-05-11 14:47:46"
     },
     {
         "userName": "Corrado Sanguanini",
@@ -51,8 +513,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.5.0",
         "at": "2020-05-08 21:19:23",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Grazie Corrado per la valutazione.",
+        "repliedAt": "2020-05-11 14:45:46"
     },
     {
         "userName": "Lupalycans 6",
@@ -62,8 +524,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2020-05-08 20:25:04",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ciao, i dati raccolti servono per analisi statistiche ed epidemiologiche, fondamentali per aiutare le autorit\u00e0 sanitarie a definire modelli e strategie di contrasto al Coronavirus. Il questionario \u00e8 volontario, completamente anonimo, non prevede alcuna geolocalizzazione e non sostituisce una valutazione medica delle proprie condizioni.",
+        "repliedAt": "2020-05-11 14:45:11"
     },
     {
         "userName": "Enrico Secomandi",
@@ -73,8 +535,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.6.0",
         "at": "2020-05-08 18:02:04",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ciao Enrico, grazie per il feedback positivo!",
+        "repliedAt": "2020-05-11 14:44:13"
     },
     {
         "userName": "Pinco Pallino",
@@ -100,7 +562,7 @@
     },
     {
         "userName": "Pasquale Marzullo",
-        "userImage": "https://lh3.googleusercontent.com/-L7nl6X3qrfo/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJMdW4-A4yTFwldGC0S0kayxdMW-Ig/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-L7nl6X3qrfo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclQtEpFhqEnO9Q7nWCvPIyqM1Q94w/photo.jpg",
         "content": "App molto utile , scoperta solo adesso purtroppo dato che d\u00e0 informazioni utili.una richiesta : la compilazione giornaliera del questionario x il covid19 precompila alcuni campi con i valori del giorno prima altri invece vanno reinseriti ogni volta ( tipo citt\u00e0 e cap dove si abita e si lavora ) . Potreste riportare e valori del giorno precedente , almeno x quello che ne n riguarda la salute? Grazie in anticipo Update : 5 \ud83c\udf1f",
         "score": 5,
         "thumbsUpCount": 0,
@@ -111,7 +573,7 @@
     },
     {
         "userName": "giacomo oliva",
-        "userImage": "https://lh3.googleusercontent.com/-2YvRKuqz-Oc/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJOtYaeZUky2ej0K8YflH6fpVmt7Xw/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-2YvRKuqz-Oc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnZI4dqCZh2djPY7QA3gSAf7uI8FQ/photo.jpg",
         "content": "Ogni giorno continua a chiedere i soliti dati capisco la salute ma il resto \u00e8 dalla chiusura che pi\u00f9 che casa lavoro non faccio mi sono stancato disinstallato.",
         "score": 4,
         "thumbsUpCount": 0,
@@ -136,7 +598,7 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gge5i722E7ZNontE6X0rvz_onSqOn9jaRL2uww9Sg",
         "content": "App che uso pressoch\u00e9 regolarmente da circa un mese, da quando ne sono venuto a conoscenza. Il questionario a mio avviso ha qualche lacuna: secondo me andrebbero distinti i sintomi del raffreddore allergico da quello comune. Anche per la domanda sui dolori muscolari, l'attivit\u00e0 fisica intensa o il lavoro possono esserne una causa. In tal caso, come rispondere?",
         "score": 3,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 8,
         "reviewCreatedVersion": "1.6.0",
         "at": "2020-05-08 08:30:37",
         "replyContent": "Ciao Andrea, ti ringraziamo per il suggerimento.Lo invieremo al gruppo di ricerca di medici e ricercatori dell\u2019Ospedale San Matteo e dell\u2019Universit\u00e0 degli Studi di Pavia che ha ideato il questionario. Ogni contributo degli utenti \u00e8 prezioso!",
@@ -147,7 +609,7 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhsuLQAw9KbnVvfjIy0v8bj6T-Vi0A_X1Xa1V_7",
         "content": "Questa applicazione si chiama Allerta LOM , ma sul covid non fornisce nessuna allerta. Nella sezione Covid, fa domande sullo stato di salute ma poi non fornisce nessuna indicazione specifica sullo stato di rischio regionale o comunale riguardante l'epidemia, nemmeno quanti contagiati o morti ci sono stati nella regione, provincia o comune. La regione fa' il monitoraggio, ma poi non dice niente sui risultati alla gente. Capisco la fretta iniziale ma dopo un mese occorreva fare di pi\u00f9.",
         "score": 1,
-        "thumbsUpCount": 7,
+        "thumbsUpCount": 8,
         "reviewCreatedVersion": "1.6.0",
         "at": "2020-05-08 08:14:20",
         "replyContent": "Ciao Giuseppe, sul portale di Regione sono presenti tutti i dati aggiornati, ti lasciamo il link della dashboard\nhttps://experience.arcgis.com/experience/0a5dfcc103d0468bbb6b14e713ec1e30/",
@@ -155,7 +617,7 @@
     },
     {
         "userName": "Norbert Kavalla",
-        "userImage": "https://lh3.googleusercontent.com/-5nikY1Cndm8/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJNXgoOB0M67nQa3NRsVeorFMielnA/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-5nikY1Cndm8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclBY4r0MxtgjDPm_0wp5cXI93Kghg/photo.jpg",
         "content": "Ripetitivo",
         "score": 3,
         "thumbsUpCount": 0,
@@ -166,7 +628,7 @@
     },
     {
         "userName": "Gianluigi Fassina",
-        "userImage": "https://lh3.googleusercontent.com/-OvkyGD6V7Hk/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJNwHbU6BPFW7FLnN_Z6s7IzNm_9kA/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-OvkyGD6V7Hk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck7GTYyPvJW4PFNsOI3d2WP4hYnfg/photo.jpg",
         "content": "Dovreste aggiungere la possibilita di inserire congiunti morti con sintomi e senza che sia stato effettuato nessun tampone",
         "score": 1,
         "thumbsUpCount": 0,
@@ -188,7 +650,7 @@
     },
     {
         "userName": "Cristina Broggi",
-        "userImage": "https://lh3.googleusercontent.com/-7n1UtU2eNbo/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJNEdqa3t8iPy218kIErLJg9YEYY3A/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-7n1UtU2eNbo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnlKoybo28yJKDHq74oBGpL_k-mcg/photo.jpg",
         "content": "Pessima disinstallo!",
         "score": 1,
         "thumbsUpCount": 0,
@@ -221,7 +683,7 @@
     },
     {
         "userName": "Roberta Sparano",
-        "userImage": "https://lh3.googleusercontent.com/-_XPqG0k_yDE/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJPgD2Hgq7saXKSiUc0Dm2WFHYbnBw/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-_XPqG0k_yDE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucloQt75H1nueIkkjtE9ZHGPQnTnsg/photo.jpg",
         "content": "Dopo settimane che compilo regolarmente il questionario per il Coronavirus, oggi l'app non si apre pi\u00f9 in nessun modo.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -232,7 +694,7 @@
     },
     {
         "userName": "Antonio C.",
-        "userImage": "https://lh3.googleusercontent.com/-ViHaImnFuRo/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJNdOjbKMZ8KoVKhEmz5eBYvkuIYHA/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-ViHaImnFuRo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnW0kwKBMaCqOaBXHhoz7huzR7J8w/photo.jpg",
         "content": "Grazie per la cortese risposta e per l'aggiornamento che ora mantiene alcune infornazioni, sarebbe utile,per poter individuare le zone di proprio interesse che sulla cartina della regione venissero inseriti i capoluoghi di prov. o i codice-zona, o che selezionando una zona si attivi uno zoom. Grazie",
         "score": 4,
         "thumbsUpCount": 0,
@@ -254,7 +716,7 @@
     },
     {
         "userName": "Salvatore Murgia",
-        "userImage": "https://lh3.googleusercontent.com/-8lXtK_8u5lM/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJOB5FxJA--sMtQLS9dhA_cO-Dh_5w/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-8lXtK_8u5lM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmfFqt0704XP4BalR4_4Bz_Ket1_Q/photo.jpg",
         "content": "Buono",
         "score": 4,
         "thumbsUpCount": 0,
@@ -287,7 +749,7 @@
     },
     {
         "userName": "massimoelp massimoelp",
-        "userImage": "https://lh3.googleusercontent.com/-HxHK9SENhhY/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJNLd5d9egNKTP5_6q2b2qFlo5tXHg/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-HxHK9SENhhY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckyXfnitmTNQXU5NF59n6TGwLWHig/photo.jpg",
         "content": "A che serve.....",
         "score": 1,
         "thumbsUpCount": 0,
@@ -298,7 +760,7 @@
     },
     {
         "userName": "Marco Vallino",
-        "userImage": "https://lh3.googleusercontent.com/-NdUbe3dnrDM/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJPqWb_yHzkrG1Vh7Jq6iXbUbCDa_w/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-NdUbe3dnrDM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmaEbDRkud0vSfjFchSpV_Vx7i9yg/photo.jpg",
         "content": "Anche con questa nuova versione non vengono salvate le scelte iniziali e i dati compilati e ogni volta bisogna reinserire tutto. Troppo complicato fare un app che funzioni? --- 6/5/2020 La versione 1.6.0 continua a non salvare l'accettazione dei termini di servizio e tutte le scelte successive. Huawei P8 lite, Android 6. Ogni volta che si lancia bisogna rieseguire tutta la procedura.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -309,7 +771,7 @@
     },
     {
         "userName": "Claudio Poggio",
-        "userImage": "https://lh3.googleusercontent.com/-L5AqYuY8sCg/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJOJotIwar4spDoPxRINtwh3dQ5Jcg/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-L5AqYuY8sCg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckN5SgUAsxUyoayDoYFS2xTYzdEuQ/photo.jpg",
         "content": "Installata, provata. Risultato: non serve a nulla, perch\u00e9 non \u00e9 legata alla singola persona, quindi non rileva la posizione geografica, e richiede l'aggiornamento quotidiano anche se non ci sono variazioni di salute. Quando uscir\u00e1 la famosa app Immuni?",
         "score": 1,
         "thumbsUpCount": 0,
@@ -320,7 +782,7 @@
     },
     {
         "userName": "Fabio Bruzzone",
-        "userImage": "https://lh3.googleusercontent.com/-GzIhjsQd8uw/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJNQo6RyHka2Lil-4m19HFIKlg-Z5Q/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-GzIhjsQd8uw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn2e2lUCjlaq5hRVBjx2B5lOegP9g/photo.jpg",
         "content": "La ho reinstallata da pi\u00f9 di una settimana sta funzionando. Ok.",
         "score": 4,
         "thumbsUpCount": 0,
@@ -331,7 +793,7 @@
     },
     {
         "userName": "Carlo Dell'anna",
-        "userImage": "https://lh3.googleusercontent.com/-JH4pGnhuin0/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJPTP-SLGiDu6uNp6IJrdIpL2Js-EQ/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-JH4pGnhuin0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnMZnUZJ0BU4NN4-lyED0pU58KhRw/photo.jpg",
         "content": "Ottima",
         "score": 5,
         "thumbsUpCount": 0,
@@ -342,7 +804,7 @@
     },
     {
         "userName": "Carla Doris Mancassola",
-        "userImage": "https://lh3.googleusercontent.com/-8vwmMrlbUHY/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJO8FyydstPI0ZvTUMCpK_YyzhhbOg/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-8vwmMrlbUHY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclNIIAFz1h0n-8xrx62brRUiigJGg/photo.jpg",
         "content": "Molto utile",
         "score": 5,
         "thumbsUpCount": 0,
@@ -419,7 +881,7 @@
     },
     {
         "userName": "Alfredo Tralci",
-        "userImage": "https://lh3.googleusercontent.com/-HIFXMAKZl00/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJPjTZoW868HQERGrFAg1hfmw3KuDQ/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-HIFXMAKZl00/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm2qq_fJM8WT1ZH4Rh51ux0mFwtNQ/photo.jpg",
         "content": "Utile",
         "score": 5,
         "thumbsUpCount": 0,
@@ -452,7 +914,7 @@
     },
     {
         "userName": "Claudio Frosi",
-        "userImage": "https://lh3.googleusercontent.com/-q7CzyL3PTXE/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJM-z3MzsQvCYiIP1VF4lwhNEeJgVQ/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-q7CzyL3PTXE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclO6tDAm6B6rSC81Ak_ufCQT4o5dw/photo.jpg",
         "content": "Serve",
         "score": 5,
         "thumbsUpCount": 0,
@@ -474,7 +936,7 @@
     },
     {
         "userName": "Paolo Ottini",
-        "userImage": "https://lh3.googleusercontent.com/-vh2skV742Q4/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJOGa1GlDG1g-KPq5xEI6xHQ2pGqqQ/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-vh2skV742Q4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmdMMlqzi37J3h5UgAPxuM4xtEoLQ/photo.jpg",
         "content": "Dopo l'aggiornamento i dati fissi restano memorizzati ma comunque modificabili in caso di cambiamenti.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -507,7 +969,7 @@
     },
     {
         "userName": "Alberto Fraquelli",
-        "userImage": "https://lh3.googleusercontent.com/-uS9m2Ij4Hpo/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJPXzP8txPw4t4fbWjgRcsoFhrrnow/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-uS9m2Ij4Hpo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck8pTXD98muyeuNiSkj_g9AQeE2tA/photo.jpg",
         "content": "Bellissima app",
         "score": 5,
         "thumbsUpCount": 0,
@@ -529,7 +991,7 @@
     },
     {
         "userName": "J G",
-        "userImage": "https://lh3.googleusercontent.com/-edaROMHme5U/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJOrabSSwIvoeBCn5V6dRxchwJlsEw/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-edaROMHme5U/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmNAEEvUe0igOvrEVDSKNvCq4ANAA/photo.jpg",
         "content": "Ho disinstallato e reinstallato ma Riesco ad accedere solo la prima volta poi ad ogni ulteriore tentativo si blocca",
         "score": 1,
         "thumbsUpCount": 0,
@@ -551,7 +1013,7 @@
     },
     {
         "userName": "Nico East Milan",
-        "userImage": "https://lh3.googleusercontent.com/-f8L6se69O1U/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJNUuFuPfbVrgkTsy8EcV7qCKDgCjA/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-f8L6se69O1U/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclFe1cCRysxtcB2gkwwA2VR9NIJpw/photo.jpg",
         "content": "Potreste gi\u00e0 quntificarli coordinandovi con medici di base e ospedali",
         "score": 1,
         "thumbsUpCount": 0,
@@ -639,7 +1101,7 @@
     },
     {
         "userName": "Nicola Porcu",
-        "userImage": "https://lh3.googleusercontent.com/-Zw8rp3OLjAE/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJN9iHe53hHjKLMAk2hGTv1QiKqJYA/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-Zw8rp3OLjAE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn0xEUMpRpjDlgfUbcI8NnOILcWyw/photo.jpg",
         "content": "La gestione Covid19 \u00e8 sostanzialmente inutile. Se le persone con sintomi non vengono valutate poi da un medico dell'Asst, il significato \"cercacovid\" Non ha senso. Serve una gestione sanitaria dell'emergenza non indagini di autocertificazioni. Il problema dell'estensione dell'epidemia \u00e8 proprio l'incapacit\u00e0 di isolare i positivi.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -661,7 +1123,7 @@
     },
     {
         "userName": "Brizio Maggiore",
-        "userImage": "https://lh3.googleusercontent.com/-i-V3cIIOU6E/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJP7g5Sx8ryRnC9NOKOEIfE_hzsMnA/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-i-V3cIIOU6E/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckngvjHNI1xyLUz7x2MtZ7UZReQ0A/photo.jpg",
         "content": "Oltre al servizio principale, tracciare le persone non \u00e8 di concreta utilit\u00e0: il rischio temporali , grandine, piogge intense, devono essere previsti nella maggior parte dei casi almeno il giorno prima, per essere efficaci. Qui ti avvisa solo qualche ora prima !",
         "score": 1,
         "thumbsUpCount": 0,
@@ -672,7 +1134,7 @@
     },
     {
         "userName": "Manuel Zanni",
-        "userImage": "https://lh3.googleusercontent.com/-9gpyqiN9jI0/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJPIX1ZVFEjsVuXLhWK7_JTrORTyvw/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-9gpyqiN9jI0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclRR_bVIWowIYx8SWgILC2aIWPrbA/photo.jpg",
         "content": "Sarebbe interessante sapere per paese quanti hanno compilato il questionario e quanti sono a rischio....",
         "score": 3,
         "thumbsUpCount": 0,
@@ -683,7 +1145,7 @@
     },
     {
         "userName": "GIOVANNI IUSI",
-        "userImage": "https://lh3.googleusercontent.com/-8tXlGIL2I4Q/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJP21FKDa4GC5yf9iyWejTSWbsz4ew/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-8tXlGIL2I4Q/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclo3zD_JAfpyAJGDf_mAqFXUUYhTw/photo.jpg",
         "content": "Il mio stato di salute va aggiornato tutti i giorni. Ma come e da dove?",
         "score": 5,
         "thumbsUpCount": 0,
@@ -694,7 +1156,7 @@
     },
     {
         "userName": "Vittorio Ratta'",
-        "userImage": "https://lh3.googleusercontent.com/-KBJg83QPxdc/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJMahdn34QJ1E0j4DqC0aG-bZ220pA/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-KBJg83QPxdc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmtC_LiTCEx6t1hOCX5TcTynbfOdw/photo.jpg",
         "content": "Da una sicurezza in pi\u00f9 grazie",
         "score": 1,
         "thumbsUpCount": 0,
@@ -726,17 +1188,6 @@
         "repliedAt": "2020-05-04 19:32:18"
     },
     {
-        "userName": "rosario Saglimbeni",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhzP5dALJRjwPMEF907iglPYHtO57Ed0_VE3O6llg",
-        "content": "L'APP per me \u00e8 valida!!!Nel mio commento giornaliero posso aggiungere che oggi mio genero lavorando al Sacco ha fatto il prelievo ed \u00e8 risultato positivo inoltre ha gi\u00e0 fatto il primo tampone ed \u00e8 in attesa del risultato.Siccome abita vicino a me io e mia moglie dobbiamo preoccuparci Comunque per ora noi tutto bene Grazie Oggi \u00e8 errivato l'esito del tampone NEGATIVO BENE meglio cos\u00ec",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": null,
-        "at": "2020-05-02 15:16:29",
-        "replyContent": "Ciao Rosario, grazie la tua collaborazione \u00e8 importante! Ricorda, il questionario non si rivolge solo a chi manifesta sintomi ricollegabili al Covid-19, ma a tutti i cittadini!!",
-        "repliedAt": "2020-05-04 19:34:22"
-    },
-    {
         "userName": "Massimo",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Giaq7vq0rFPfrVfAtnep1YTgIue1pLP12wPx68F",
         "content": "Ma dove si trova il questionario CoVid 19? Ok, fatto! Ora \u00e8 perfetto. Grazie",
@@ -749,7 +1200,7 @@
     },
     {
         "userName": "andrea mussi",
-        "userImage": "https://lh3.googleusercontent.com/-qI8NweDhcNk/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJO5tcPSlB8DSpf2fgVn78bQVWDeQQ/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-qI8NweDhcNk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucldhVJZnWH8ZV5MfA_Jz3oB8p71Lw/photo.jpg",
         "content": "Peccato si debba riconfermare privacy ad ogni apertura",
         "score": 4,
         "thumbsUpCount": 0,
@@ -804,7 +1255,7 @@
     },
     {
         "userName": "Claudio Cortinovis",
-        "userImage": "https://lh3.googleusercontent.com/-6Dz3NkO_t2c/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJNIR9snL7zrtMWhfmkt-203UCWflQ/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-6Dz3NkO_t2c/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnLIBhWAkJV-jzT6qfWbxAFa-GFxA/photo.jpg",
         "content": "Utile e comoda se funzionasse regolarmente",
         "score": 2,
         "thumbsUpCount": 0,
@@ -837,7 +1288,7 @@
     },
     {
         "userName": "Antonio Merolla",
-        "userImage": "https://lh3.googleusercontent.com/-sBPSO-z9Wxs/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJOrVKKW2M8xtOJvnvbHnuDusd-IwA/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-sBPSO-z9Wxs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucla_BZeVfN5UUYbj9rHmgvR8RFoTw/photo.jpg",
         "content": "Buona ldea",
         "score": 1,
         "thumbsUpCount": 0,
@@ -848,7 +1299,7 @@
     },
     {
         "userName": "Giorgio Savazzi",
-        "userImage": "https://lh3.googleusercontent.com/-V9d0MuESTjw/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJOyUAu1sVc1bRquBDvkDqzltb4Muw/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-V9d0MuESTjw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnzJp0LLh6PBTD0VhQ_fRqOhQtx1A/photo.jpg",
         "content": "X me e' utile ma molto riduttiva in quanto si richiede se negli ultimi 15 giorni si sono avuti determinati sintomi ma non da la possibilita' di specificare se si hanno variazioni nel frattempo",
         "score": 3,
         "thumbsUpCount": 0,
@@ -859,7 +1310,7 @@
     },
     {
         "userName": "Paola Cellario",
-        "userImage": "https://lh3.googleusercontent.com/-A9L979xcij8/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJMFn_H59FLOlr9spbBnDC3Stpwhvg/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-A9L979xcij8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclBp2MfJ0MkVIS6pDR_8FFVa-BhMw/photo.jpg",
         "content": "Oggi funziona poco gli altri giorni era efficace",
         "score": 3,
         "thumbsUpCount": 0,
@@ -870,7 +1321,7 @@
     },
     {
         "userName": "Anna Maria Zuccotti",
-        "userImage": "https://lh3.googleusercontent.com/-yPTYoAcxkTo/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJORpw-iMLFqEahtgF8FwPnna8wQkg/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-yPTYoAcxkTo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnOXtLCUjsg6Wg9Ad_NJ5lJW8LBkg/photo.jpg",
         "content": "Favoloso",
         "score": 5,
         "thumbsUpCount": 0,
@@ -881,7 +1332,7 @@
     },
     {
         "userName": "domenico rodriquens",
-        "userImage": "https://lh3.googleusercontent.com/-lJ3vUNXmYbw/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJNaii_HFDoX_uSo0QuofxzRJzUNPg/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-lJ3vUNXmYbw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmbyuiIokTTZsy_kq1-6JN4l1d6zg/photo.jpg",
         "content": "L'interesse",
         "score": 5,
         "thumbsUpCount": 0,
@@ -892,7 +1343,7 @@
     },
     {
         "userName": "marino rusca",
-        "userImage": "https://lh3.googleusercontent.com/-pxpXvmnj9Rw/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJPw_ZEVVwRwaTHlqn9T-DU340juxQ/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-pxpXvmnj9Rw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucncehLt2iUQlS0X95Z29rDCibcsZg/photo.jpg",
         "content": "Buona",
         "score": 4,
         "thumbsUpCount": 0,
@@ -903,7 +1354,7 @@
     },
     {
         "userName": "Fabio Tremolada",
-        "userImage": "https://lh3.googleusercontent.com/-WyZvhcMFa3g/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJPWCvU97Gx7t-Y01aFM4yRLxhrrzw/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-WyZvhcMFa3g/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnzM0H4GQ8foTRFTMtzmrhxO1jcNw/photo.jpg",
         "content": "Ok",
         "score": 5,
         "thumbsUpCount": 0,
@@ -925,7 +1376,7 @@
     },
     {
         "userName": "mgpisu@gmail.com Pisu",
-        "userImage": "https://lh3.googleusercontent.com/-5cwj7uxZAPo/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJMsHYaOXUjUNBNz5ZUl2EUfRcv4vg/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-5cwj7uxZAPo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucneX-WKEeam2Jj7vN9w8GftnVeQqA/photo.jpg",
         "content": "Sto provando a compilare dal pomeriggio ed ora \u00e8 notte. Non riesco ancora , quando chiedo di accedere mi esce solo una pagina bianca . Mi permetto una osservazione. Alla domanda sulle eventuali malattie croniche dovrebbe esserci la voce\" altro\". Sarebbe pi\u00f9 completo",
         "score": 2,
         "thumbsUpCount": 0,
@@ -947,7 +1398,7 @@
     },
     {
         "userName": "carlo franco buzz",
-        "userImage": "https://lh3.googleusercontent.com/-2DYEnFXxvSg/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJPRfbrGdw9IsNGxLMY6-d5C6pVQRA/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-2DYEnFXxvSg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclKQu0tJG2ZfdLQrDZHMlSdn92j4w/photo.jpg",
         "content": "Appare una finestra che dice telefono che ha subito jailbreaking o rooting nonostante ho sistema operativo originale non permette l'utilizzo peccato Provate diverse app ma penso che il problema sia il telefono Cinese commutato in italiano probabilmente la privacy Cinese non rispetta alcuni parametri italiani Ho perso alcune ore e perfino resettato il telefono ma il problema persiste",
         "score": 1,
         "thumbsUpCount": 0,
@@ -968,19 +1419,8 @@
         "repliedAt": "2020-05-05 16:25:09"
     },
     {
-        "userName": "piero palaz",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gg2gdhztaNoF6pNvYTslqBwf2neW2VMX3p33bsFaro",
-        "content": "Quando arriva un avviso apro l'app ma si blocca su una schermata bianca. Devo per forza chiuderla.",
-        "score": 2,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.6.0",
-        "at": "2020-04-30 23:35:57",
-        "replyContent": "Ciao Piero abbiamo gi\u00e0 segnalato ai nostri sviluppatori l'errore da te riscontrato, in attesa della risoluzione ti invitiamo a consultare le notifiche accedendo all'apposita sezione avviando  direttamente l'app!",
-        "repliedAt": "2020-05-05 16:29:08"
-    },
-    {
         "userName": "agnese viviani",
-        "userImage": "https://lh3.googleusercontent.com/-lT5HZ8RiwUc/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJNXpNiGd9_Uzl2y8uC-WHiEqEy7Lg/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-lT5HZ8RiwUc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnR92BHwlKD6oxdB3EkmmMFCKUhgA/photo.jpg",
         "content": "Sono tranquilla anche se con tampone fatto lo sarei ancora di pi\u00f9. Comunque \u00e8 un ottima iniziativa.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1024,7 +1464,7 @@
     },
     {
         "userName": "Vincenzo Giusti",
-        "userImage": "https://lh3.googleusercontent.com/-WrqWVwXyHRk/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJOCJykxlqAlSh9C7oMdAJZTZMdj2g/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-WrqWVwXyHRk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmfM7A-qLB-fMSw7CTDui_o2b7QWQ/photo.jpg",
         "content": "Recentemente si apre in minor tempo rispetto a prima",
         "score": 3,
         "thumbsUpCount": 0,
@@ -1035,7 +1475,7 @@
     },
     {
         "userName": "Cinzia Rossignoli",
-        "userImage": "https://lh3.googleusercontent.com/-RuYEAkmetFk/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJMcllk0xHgTnHr_X3wf4lAZYwMQyQ/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-RuYEAkmetFk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck9GDwBNvqQv5J12DwJ2pgwTs9jJw/photo.jpg",
         "content": "L'avevo disinstallata perch\u00e9 non funzionava. Appariva una pagina bianca. Ora installata nuovamente. Per ora pare funzioni. L'altra volta diede problemi dopo qualche giorno. Aggiornamento: al 30 / 04 tutto bene",
         "score": 3,
         "thumbsUpCount": 0,
@@ -1046,7 +1486,7 @@
     },
     {
         "userName": "Federico Velludini",
-        "userImage": "https://lh3.googleusercontent.com/-xmGJ6qF-QBc/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJM3XPjW8A2-R4WWUt1XbLJbMw_cpg/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-xmGJ6qF-QBc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckKuAsfn-rnFlRRkVXKOUHGCrIv_A/photo.jpg",
         "content": "Utile per le allerte meteo, funziona correttamente.",
         "score": 4,
         "thumbsUpCount": 0,
@@ -1057,7 +1497,7 @@
     },
     {
         "userName": "Aldo Galli",
-        "userImage": "https://lh3.googleusercontent.com/-ETsk4iwrgaE/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJMDqDatQKhkhSBjjMQepXaBaMXMtw/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-ETsk4iwrgaE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnUWPUdqMk32-PPcyK9_vvqYTpfqw/photo.jpg",
         "content": "Funziona. Tutto a posto.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1068,7 +1508,7 @@
     },
     {
         "userName": "Andrea perillo",
-        "userImage": "https://lh3.googleusercontent.com/-dKzWQ3BJeSE/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJPTRPiNrOT6kiLMvjyJ4wbEkhmAlQ/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-dKzWQ3BJeSE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckO3Hs90dm36u-MprO6TgyRL8D76w/photo.jpg",
         "content": "Questa app non serve a niente che stronzata \u00e8 cosa mi interessa delle valanghe ecc. Potevate fare a meno di questa minchiata",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1090,7 +1530,7 @@
     },
     {
         "userName": "Enrica Ballarati",
-        "userImage": "https://lh3.googleusercontent.com/-VfF9DhKGsB0/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJMw4zd0vFQWPzMPWkLo82EOatA_zw/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-VfF9DhKGsB0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmx0Y6as78z6TWDxqjTLKdCmXawvg/photo.jpg",
         "content": "Questionario non ha spazio per eventuali note",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1112,7 +1552,7 @@
     },
     {
         "userName": "Andrea Valsecchi",
-        "userImage": "https://lh3.googleusercontent.com/-wdZdIHCk_G0/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJMy7gxq1vi2txP-uZVSiTV5kidHXg/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-wdZdIHCk_G0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclLMUCqnSK7T-_GJwmohq27qk3jjg/photo.jpg",
         "content": "Avrebbe avuto pi\u00f9 senso ideare una applicazione con domande risalenti al mese di febbraio, cos\u00ec da avere un quadro della patologia passata ed in atto. In tal modo, sarebbe stato possibile seguire l'evoluzione dei sintomi di tutta quella parte di popolazione che non si \u00e8 potuta sottoporre al tampone.",
         "score": 2,
         "thumbsUpCount": 4,
@@ -1145,7 +1585,7 @@
     },
     {
         "userName": "Loriana Biancardi",
-        "userImage": "https://lh3.googleusercontent.com/-7yFSIaIUd7o/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJPSHNbwyftS4VccYDqb1NuUeIpbjw/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-7yFSIaIUd7o/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmOO_owCubCmrpdudbcBRl9NTWmsg/photo.jpg",
         "content": "Molto utile",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1156,7 +1596,7 @@
     },
     {
         "userName": "Lorenza Carrara",
-        "userImage": "https://lh3.googleusercontent.com/--y3YooBzu2k/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJOLWhVq36RUlvF8vDPALZYglCVDvA/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/--y3YooBzu2k/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnDLU-JuySfskdVIL3aWX_ovC4kaQ/photo.jpg",
         "content": "Su Android non funziona ... su Apple perfetta",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1167,7 +1607,7 @@
     },
     {
         "userName": "stefania sigalini",
-        "userImage": "https://lh3.googleusercontent.com/-LmsQITnkC5M/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJP1OxQG6t0aq6wofqWcqivgrZxhhQ/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-LmsQITnkC5M/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmtxqX8WMEG164Voe_oS3VN-s-07Q/photo.jpg",
         "content": "Ok",
         "score": 5,
         "thumbsUpCount": 1,
@@ -1178,7 +1618,7 @@
     },
     {
         "userName": "Io Me",
-        "userImage": "https://lh3.googleusercontent.com/-U411q4piGVo/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJPKrsydyTwPt43pt2F6ze0MX0jWqA/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-U411q4piGVo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclGE7PO1xqhg0DCcvjJSXynclW8bQ/photo.jpg",
         "content": "Se i dati covid inseritonon variano perch\u00e9 non c'\u00e8 la possibilit\u00e0 che restino memorizzati? Perch\u00e9 non c'\u00e8 la possibilit\u00e0 di segnalare un luogo dove se ne fregano di rispettare le norme di avere mascherine, controllo temperatura e tutto il resto?",
         "score": 3,
         "thumbsUpCount": 0,
@@ -1211,7 +1651,7 @@
     },
     {
         "userName": "Mara Casellato",
-        "userImage": "https://lh3.googleusercontent.com/-hBxrOk7wM_w/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJMdFu_yPCKW4JZTcVz9dlsK6HbTOg/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-hBxrOk7wM_w/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclMvilC_u2qsXqsPI670L7MetwXxw/photo.jpg",
         "content": "Non sta funzionando da diversi giorni",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1222,7 +1662,7 @@
     },
     {
         "userName": "Silvia Bricchi",
-        "userImage": "https://lh3.googleusercontent.com/-u75B58kgGWY/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJOodYzWuXrEEYamkkdIFyPKDr9gDg/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-u75B58kgGWY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnmUTm0MSQOhZZxJBKzmuEC7txHhQ/photo.jpg",
         "content": "Vorrei consigliare di aggiungere la possibilit\u00e0 di segnalare se il soggetto \u00e8 allergico o meno, perch\u00e9 in caso di allergia potrebbero essere presenti sintomi quali congiuntivite, rinite, tosse asmatica che non vanno confusi con i sintomi da infezione delle vie respiratorie da covid19",
         "score": 3,
         "thumbsUpCount": 2,
@@ -1277,7 +1717,7 @@
     },
     {
         "userName": "Umberto Barbieri",
-        "userImage": "https://lh3.googleusercontent.com/-ND3rP-KZ7io/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJNJTl6hr0j24qhzaEw5js9rCz_41w/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-ND3rP-KZ7io/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm_zH2daB6clZZZZcPEuzlVfejN4g/photo.jpg",
         "content": "Ragazzi serve a contare meno morti, dobbiamo azzerare il dato , non esiste che ogni giorno ci dobbiamo inginocchiare davanti a300 - 400 morti al giorno, sono persone nonni, padri,e purtroppo anche figli.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1299,7 +1739,7 @@
     },
     {
         "userName": "Giuseppe Belussi",
-        "userImage": "https://lh3.googleusercontent.com/-2T_InPWZVMU/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJOzdvAtHXiuWPaIRYzIQjZMmevIVw/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-2T_InPWZVMU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckKR7cLIDkVqT_ISr58R_ejTYA8hw/photo.jpg",
         "content": "Tutti dovrebbero applicarla..ci se ne frega della privacy...la vita \u00e8 pi\u00f9 importante",
         "score": 4,
         "thumbsUpCount": 0,
@@ -1310,7 +1750,7 @@
     },
     {
         "userName": "Enrico Magni",
-        "userImage": "https://lh3.googleusercontent.com/-X-FuF0fONUY/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJNkdfvPziuQra5XbLWVHBxfpu8vFg/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-X-FuF0fONUY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckJ3CCJnwNaNgNDGT375YjUS1MNDg/photo.jpg",
         "content": "poco utile",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1354,7 +1794,7 @@
     },
     {
         "userName": "Roberto Michelin",
-        "userImage": "https://lh3.googleusercontent.com/-8SxbsZd9wuM/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJOr2HVVniAQZyEKs5eN-8SgGU84jg/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-8SxbsZd9wuM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn6QrWcDk0Ieq51M07JHio6LdXSEA/photo.jpg",
         "content": "Manca possibilit\u00e0 segnalazione di interferenze da farmaci, es.: CARDURA pu\u00f2 produrre sintomi similinfluenzali, NORVASC pu\u00f2 produrre dispnea, tosse, riniti, faringo tracheiti, etc. per vari farmaci",
         "score": 4,
         "thumbsUpCount": 0,
@@ -1365,7 +1805,7 @@
     },
     {
         "userName": "Luigi Tagliaferri",
-        "userImage": "https://lh3.googleusercontent.com/-7eWIo3rmM7A/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJPC5nGFai8EmwZgle5zH4eEyS1KqA/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-7eWIo3rmM7A/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmbB3VFit5RzNc9JpdJMfy8JE01aw/photo.jpg",
         "content": "\u00c8 riduttivo chiedere il luogo di lavoro per chi come me fa l'autotrasportatore e fa consegne in diverse zone della provincia di Bergamo.Ho frequentato una persona che \u00e8 stata curata telefonicamente su ricetta del medico di base ma non si sa se \u00e8 coronavirus o meno dato che non gli \u00e8 mai stato fatto un tampone.",
         "score": 1,
         "thumbsUpCount": 1,
@@ -1376,7 +1816,7 @@
     },
     {
         "userName": "Cristina Paolino",
-        "userImage": "https://lh3.googleusercontent.com/-yGlDciK90nk/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJPws0z06Q_A7cSw-qKv9KEZY2Ls-g/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-yGlDciK90nk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmEy_Rrzs5qUZdl1aAbTP6cNPUD9Q/photo.jpg",
         "content": "Troppo povera per la vera necessit\u00e0",
         "score": 2,
         "thumbsUpCount": 0,
@@ -1398,7 +1838,7 @@
     },
     {
         "userName": "Raffaele Paganini",
-        "userImage": "https://lh3.googleusercontent.com/-2n86wwxl-i0/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJMwcio7_jGB-l6IN5-42CI_peF2_A/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-2n86wwxl-i0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckk7i6bkWh9nLSluPL4bN8swnnw5A/photo.jpg",
         "content": "Leggo che Questa App \u00e8 pensata per :QUANTIFICARE IL LIVELLO DI DIFFUSIONE E LA DISTRIBUZIONE TERRITORIALE DELLA POSITIVIT\u00c0. Ma non sarebbe molto pi\u00f9 utile sfruttare questi dati per intervenire e curare tempestivamente anche i poveri cittadini che si trovano contagiati? Francamente non ne capisco l'utilit\u00e0 per i Lombardi. E poi perch\u00e9 solo in Lombardia se la ritenete cos\u00ec importante STATISTICAMENTE?",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1409,7 +1849,7 @@
     },
     {
         "userName": "Grazia Ruscino",
-        "userImage": "https://lh3.googleusercontent.com/-cUnabPicXZA/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJMwptpBoHk1rDJVc00Lvo_nlTO6hA/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-cUnabPicXZA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclwidnYBNHYw1QHykN85APSOSmspA/photo.jpg",
         "content": "Ottima",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1420,7 +1860,7 @@
     },
     {
         "userName": "simonetta polenta",
-        "userImage": "https://lh3.googleusercontent.com/-RpYzgtgz-t4/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJNArs0kRX95HwN9JsIZKlmRSTdwKw/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-RpYzgtgz-t4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclPhn8ICgVMNOoDnJpuC6KujzzpsA/photo.jpg",
         "content": "Grazie a voi per tutti i servizi offerti",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1442,7 +1882,7 @@
     },
     {
         "userName": "Lui/gi torta di zucca e carote dolce Vecchio",
-        "userImage": "https://lh3.googleusercontent.com/-hO7wDsioOa8/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJNcrohpTiDehNGyiU-kMTX2nefXUA/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-hO7wDsioOa8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmAXsWLhzL2wMN4yoeQSw3Ntp02nw/photo.jpg",
         "content": "Si sono riuscita per\u00f2 adesso pu\u00f2 farlo mio marito da quando avete messo la clausola che si pu\u00f2 inserire un famigliare cos\u00ec lo faccio con lui e",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1475,7 +1915,7 @@
     },
     {
         "userName": "Luca Redaelli",
-        "userImage": "https://lh3.googleusercontent.com/-46u4ZL9N1R4/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJMwCufwoUVieWKSV74Q4uUJrYgAVA/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-46u4ZL9N1R4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclH7E72SCFDThvHcXITa_iMVm1rcg/photo.jpg",
         "content": "Ora funziona a meraviglia! Utile!",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1497,7 +1937,7 @@
     },
     {
         "userName": "Alice Oprandi",
-        "userImage": "https://lh3.googleusercontent.com/-utAPyQkAp0A/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJPE0RM-W8sDUIrQD9roD9ZVnvuGEQ/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-utAPyQkAp0A/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnS4t8zrfNHU5LA5vGdTfCO2mPY6Q/photo.jpg",
         "content": "Non funziona il questionario per cui ci \u00e8 stata fatta scaricare l'applicazione",
         "score": 4,
         "thumbsUpCount": 1,
@@ -1507,7 +1947,7 @@
         "repliedAt": "2020-04-28 12:41:52"
     },
     {
-        "userName": "Fabio Tibi",
+        "userName": "F T",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gj8Fx6HGTmz57lmznW-MF5uXT2UMSUPph8wiWFxQg",
         "content": "Come app va bene .non si capisce perch\u00e9 tutte le volte che si esce bisogna reimpostare i dati appena registrati grazie saluti Nella sezione dei dati del coronavirus sono d'accordo perch\u00e9 possono variare ma le condizioni d'uso ecc una volta basta presumo Aggiornamento: Vi ringrazio della risposta",
         "score": 5,
@@ -1519,7 +1959,7 @@
     },
     {
         "userName": "giacomo seresini",
-        "userImage": "https://lh3.googleusercontent.com/-Jp9tQLN_F-k/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJPYev48hhRuOCU2C57REvFUZZiy8w/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-Jp9tQLN_F-k/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn9mzGc5RFRiDojVT8jn7hvjMucaQ/photo.jpg",
         "content": "Facile utilizzo",
         "score": 4,
         "thumbsUpCount": 0,
@@ -1596,7 +2036,7 @@
     },
     {
         "userName": "Adriano Spaggiari",
-        "userImage": "https://lh3.googleusercontent.com/-6UitBdNFTLs/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJPFQasyaxAS-meW94_u1l5xubSGfA/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-6UitBdNFTLs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm9bNLq-C_zgv9vaVo0qwKs1MMVLw/photo.jpg",
         "content": "\ud83d\udc4d\ud83c\udffb\ud83d\udc4d\ud83c\udffb\ud83d\udc4d\ud83c\udffb\ud83d\udc4d\ud83c\udffb\ud83d\udc4d\ud83c\udffb\ud83d\udc4d\ud83c\udffb\ud83d\udc4d\ud83c\udffb\ud83d\udc4d\ud83c\udffb\ud83d\udc4d\ud83c\udffb",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1618,7 +2058,7 @@
     },
     {
         "userName": "Martino Corti",
-        "userImage": "https://lh3.googleusercontent.com/-XmY1bhHzi94/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJMiiCUFNIn69VFtKoX7rTaqvbx05g/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-XmY1bhHzi94/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmoU_B7AC-_BojfCK1SDlNQoxYGmw/photo.jpg",
         "content": "Ottima per raccogliere informazioni sui sintomi di un elevato numero di persone, frequentemente e in modo efficiente. Complementare ai test con tampone ed ematici. Questionario mirato alla situazione attuale/ultimi giorni. Suggerimento: questionario aggiuntivo per stimare ex-sintomatici (almeno da Dicembre!!) a scopo analisi epidemiologiche (inizio e fine sintomi, massimo dei sintomi, ...) Aggiornamento: se non rendete disponibili i dati le persone smetteranno di contribuire.",
         "score": 1,
         "thumbsUpCount": 2,
@@ -1640,7 +2080,7 @@
     },
     {
         "userName": "Franco Ciliberti",
-        "userImage": "https://lh3.googleusercontent.com/-grx9neJ3-Yg/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJNHPsmhTkTlFun_vtANY1wuRzIvMg/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-grx9neJ3-Yg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnX8j3emnrwKu3_gpFN4wDlCrvl3g/photo.jpg",
         "content": "Troppe allerte, ma perch\u00e9 devo segnalare sempre se lavoro fuori o dentro la Lombardia se lavoro da anni in Monza Brianza. Se ho risposto no a stanchezza dolori muscolari ecc.... non rimangono come spunta e dovrei io aggiornare le voci se ci sono variazioni? Grazie",
         "score": 3,
         "thumbsUpCount": 0,
@@ -1684,7 +2124,7 @@
     },
     {
         "userName": "Marco Beccari",
-        "userImage": "https://lh3.googleusercontent.com/-w_nZCGMXQzA/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJMB9yPXpuOi7hoYihkiYV0Ah6vd-Q/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-w_nZCGMXQzA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckrnxf_st0ZjmGhefrCB-h4s7mihQ/photo.jpg",
         "content": "Buona",
         "score": 4,
         "thumbsUpCount": 0,
@@ -1695,7 +2135,7 @@
     },
     {
         "userName": "S B",
-        "userImage": "https://lh3.googleusercontent.com/-YKeacC_Picw/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJMnQTyazrXUtvfLCp67PcBqaJU2LQ/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-YKeacC_Picw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnfTdIn-svlEK40Ed0Rt04MOe_z0w/photo.jpg",
         "content": "Dopo l'aggiornamento sembrerebbe migliorata, aumento di una stella sulla fiducia",
         "score": 3,
         "thumbsUpCount": 0,
@@ -1706,7 +2146,7 @@
     },
     {
         "userName": "Roberto D",
-        "userImage": "https://lh3.googleusercontent.com/-nOgZhn9EDMU/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJMKB2JsutN1by7tADAbCH7ss7_JCg/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-nOgZhn9EDMU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm1id40ZDq2A6hsAGzjiVty1Et7Fg/photo.jpg",
         "content": "le mappe sono decisamente da migliorare, non si vedono le citta , non si riesce ad ingrandire le mappe.Strano poter inserire una scheda al giorno. Buono il principio ma da migliorare.",
         "score": 3,
         "thumbsUpCount": 0,
@@ -1717,7 +2157,7 @@
     },
     {
         "userName": "Flavio Flumian",
-        "userImage": "https://lh3.googleusercontent.com/-Vi3FP7fHSIE/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJMZAvI8C0364w_hNDgE4hU3o0s1Sw/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-Vi3FP7fHSIE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucma3TkfpeyICByHrPICz5AUx97ilg/photo.jpg",
         "content": "Sempre pi\u00f9 vicina a tutti noi, migliora sempre pi\u00f9",
         "score": 4,
         "thumbsUpCount": 0,
@@ -1739,7 +2179,7 @@
     },
     {
         "userName": "Luca Gaffurini",
-        "userImage": "https://lh3.googleusercontent.com/-nT_A706hNr4/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJMwfyNc1mzVU6ydhBB1T2ZZ_cwD6Q/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-nT_A706hNr4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclCFaKxskDwWqfh6ZFPeFkDnfz1gw/photo.jpg",
         "content": "Quando dopo diverso tempo si apre il questionario no e mi fa selezionare alcune risposte",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1750,7 +2190,7 @@
     },
     {
         "userName": "Alessandra Ragnoli",
-        "userImage": "https://lh3.googleusercontent.com/-7zmjRzwcPx0/AAAAAAAAAAI/AAAAAAAAGUQ/AAKWJJNaYKYGSZz5vyKly7yOA7eO9bopJg/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-7zmjRzwcPx0/AAAAAAAAAAI/AAAAAAAAGUQ/AMZuucltsGJ-o2FcFKdWCTOAlLMNDjAEvg/photo.jpg",
         "content": "Abito vicino al primo morto di coronavirus e ho il marito in cura con mieloma3G. In marzo entrambi abbiamo accusato febbre, disturbi allo stomaco, mal di gola assenza di gusto e una stanchezza enorme. Assistita a distanza dal medico di base curata anche con antibiotico. Non ho avuto difficolt\u00e0 respiratorie Fatica e stanchezza a parlare e inappeteza assoluta",
         "score": 4,
         "thumbsUpCount": 1,
@@ -1761,7 +2201,7 @@
     },
     {
         "userName": "Santi La Rosa",
-        "userImage": "https://lh3.googleusercontent.com/-HKzjSsPf9Tg/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJMvSpnIQ4wOweXSiI4D5kOOiRJRbA/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-HKzjSsPf9Tg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnIxiJQhWp4_bP_VCyJPD9t84MieQ/photo.jpg",
         "content": "bella",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1772,7 +2212,7 @@
     },
     {
         "userName": "juri campanelli",
-        "userImage": "https://lh3.googleusercontent.com/-0qqHNVZ2Ajk/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJP9foBPFaYGtI_Fdy3kP1Yzcgp8OA/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-0qqHNVZ2Ajk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclILPslbBaIRB6_DsFxqC-BtO4xXA/photo.jpg",
         "content": "App essenziale ed intuitiva.Suggerirei nella parte cerca covid,di implementare alcune domande riguardanti la sintomatologia legata al covid,facendo una stima delle persone che hanno avuto sintomi molto prima dell'allarme.(conosco gente,me compreso,che aveva i sintomi gi\u00e0 a met\u00e0 dicembre 2019),magari incrociando i dati dei ricoveri dello stesso periodo per complicazioni respiratorie.",
         "score": 4,
         "thumbsUpCount": 4,
@@ -1805,7 +2245,7 @@
     },
     {
         "userName": "Amedeo Carcassa",
-        "userImage": "https://lh3.googleusercontent.com/-JjnYBAi9RUs/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJP_oT1IQ92Oew_SOQMi-Z-Au9EYUQ/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-JjnYBAi9RUs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm0cys5delshp9TAxmh2IG77utSdg/photo.jpg",
         "content": "Non si capisce nulla",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1816,7 +2256,7 @@
     },
     {
         "userName": "Nome Cognome",
-        "userImage": "https://lh3.googleusercontent.com/-nvuQUVyIkf0/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJPhUG2d37Vh-e9vs5eelKfoNxv3FA/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-nvuQUVyIkf0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm8ytk5Hd67sfS8aUwolXZPZ-GxfA/photo.jpg",
         "content": "Utile ma d\u00e0 molte notifiche e l'interfaccia potrebbe essere pi\u00f9 intuitiva. Grazie allo sviluppatore per avermi spiegato che si pu\u00f2 selezionare quali notifiche ricevere.",
         "score": 4,
         "thumbsUpCount": 0,
@@ -1827,7 +2267,7 @@
     },
     {
         "userName": "nontdico nulla",
-        "userImage": "https://lh3.googleusercontent.com/-aCqyoYgEnCY/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJM00lNdSjVmikHHkQ9VmsUcylhhrQ/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-aCqyoYgEnCY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclBM3nQpsCIelp-o-FAYcIBlkqNkQ/photo.jpg",
         "content": "L'ho installata, tutti dobbiamo dare una mano e i dati inseriti non ledono la mia privacy, tuttavia sono perplesso dalla lettura che la regione fa dei dati, dichiarare un sintomo equivale ad accendere il sospetto di contagio, ma se uno ha una scarica di diarrea o il solo raffreddore (che io ho rigorosamente tutti gli anni da quando me ne ricordi) come pu\u00f2 indicare il contagio? Il singolo sintomo non indica una sola causa!",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1838,7 +2278,7 @@
     },
     {
         "userName": "Annalisa Albanese",
-        "userImage": "https://lh3.googleusercontent.com/-7gLiEW5rLhs/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJPIS8AxR1q5S-LNyv8MGNgvuG1tMQ/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-7gLiEW5rLhs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm9nquUA7ePDbqhgYoE2F6cl4XV6w/photo.jpg",
         "content": "Molto bella questa app! Complimenti ai creatori, comunque io sono negativa al virus perci\u00f2 l'ho installata solo per curiosit\u00e0",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1849,7 +2289,7 @@
     },
     {
         "userName": "Paolo Valdameri",
-        "userImage": "https://lh3.googleusercontent.com/-qzXP0QoSdVM/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJOuDFuOkGkmrYUooGJ6ll0A3weqMg/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-qzXP0QoSdVM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclERD9De2oZaq34lhnwcM8G3EqW4w/photo.jpg",
         "content": "Condivido l'opinione di chi dice che l'applicazione si valuta solo su sintomi recenti e non va bene. Per esperienza personale dovrebbe approfondire pi\u00f9 sul passato in modo di mappare meglio chi ha avuto contatti con malati gravi ed abbia avuto sintomi (magari seguiti telefonicamente dall'ats) riconducibili alla malattia in modo di capire meglio l'entit\u00e0 e l'espansione del contagio",
         "score": 3,
         "thumbsUpCount": 2,
@@ -1871,7 +2311,7 @@
     },
     {
         "userName": "Giuseppe Lantieri",
-        "userImage": "https://lh3.googleusercontent.com/-vaIduhOVV7U/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJMQG0KzYQd7XdKhyMxgyNLLbv56qA/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-vaIduhOVV7U/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnE9v5L_8wSc454ts6BYwdIh9uQOQ/photo.jpg",
         "content": "App non funzionante ....complimenti in linea con Regione Lombardia.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1893,7 +2333,7 @@
     },
     {
         "userName": "Max I.",
-        "userImage": "https://lh3.googleusercontent.com/-qMyzFOS1sGE/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJPRj3ASATDnxVU3ndPtHYeyNngRyg/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-qMyzFOS1sGE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckL96v9rzfF1JY_HkC3bIH4gX2vQQ/photo.jpg",
         "content": "Secondo il mio personalissimo parere non \u00e8 assolutamente un dovere civico installare questa app. \u00c8 un dovere assoluto, di uno Stato Civile, assistere e curare i propri CONTRIBUENTI che si svenano di tasse, senza limitarne le libert\u00e0. Se uno pensa di star male o di avere un sintomo, sta a casa, chiama il dottore e richiede il tampone. Questo \u00e8 senso civico. Ricordo che noi viviamo in un grande paese LIBERO che si chiama Italia. Io Disinstallo immediatamente !",
         "score": 1,
         "thumbsUpCount": 26,
@@ -1904,7 +2344,7 @@
     },
     {
         "userName": "Raffaella Binaghi",
-        "userImage": "https://lh3.googleusercontent.com/-SMNlgw7wcqA/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJOPFUBOpBBL5zVqUbW9kXZUh7CPoQ/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-SMNlgw7wcqA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclRqWWXZNhD7iikTzsQrzLfVzC9Jg/photo.jpg",
         "content": "Ogni volta che compilo il questionario del coronavirus rimane fissa (ho provato ad attendere anche mezz'ora) una rotella di caricamento. Ogni volta che accedo all'app \u00e8 come se fosse la prima volta, ed \u00e8 tedioso ogni volta riaccettare le stesse licenze di utilizzo e ricompilare le stesse cose. Inoltre, nonostante io mi trovi su Android, l'app (moooolto probabilmente sviluppata usando Flutter) usa i widget con lo stile di iOS.",
         "score": 1,
         "thumbsUpCount": 5,
@@ -1915,7 +2355,7 @@
     },
     {
         "userName": "Manuela Corradini",
-        "userImage": "https://lh3.googleusercontent.com/-2ZH4wH0F6z4/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJPH3LSNpzK44KZKgjkZy-CvC1owSQ/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-2ZH4wH0F6z4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckKdLrk6DzWjxBWkjddc2dFHh3YIg/photo.jpg",
         "content": "Ma non esiste l'applicazione delle marche grazie se mi risponde",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1925,8 +2365,8 @@
         "repliedAt": "2020-05-07 13:37:13"
     },
     {
-        "userName": "Sergio Piscini",
-        "userImage": "https://lh3.googleusercontent.com/-4Ys-vX08sz0/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJOcFHNZWhYF0Ymeg2brQybxxMONpw/photo.jpg",
+        "userName": "Andro Umeda",
+        "userImage": "https://lh3.googleusercontent.com/-4Ys-vX08sz0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmIaocYNpwDJpy9Euk0ls-yIwNopA/photo.jpg",
         "content": "Poco intuitiva, spesso appare il messaggio che il servizio non \u00e8 disponibile",
         "score": 3,
         "thumbsUpCount": 0,
@@ -1937,7 +2377,7 @@
     },
     {
         "userName": "Pietro Barone",
-        "userImage": "https://lh3.googleusercontent.com/-T282pLLei4Q/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJOqyestGXMjC5UAD9nELa0r01o4iA/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-T282pLLei4Q/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnXrHYz608a-eW-Nm-KGNo9Z3sOaA/photo.jpg",
         "content": "Sono a contatto saltuario con il nipote perch\u00e9 mia figlia lavora Come OSS e non pu\u00f2 lasciare a casa i figli minorenni da soli ed \u00e8 divorziata. La figlia maggiorenne ulteriormente convive con lei ma \u00e8 problematica e non affidabile, cosa possiamo fare?????",
         "score": 3,
         "thumbsUpCount": 0,
@@ -1948,7 +2388,7 @@
     },
     {
         "userName": "Sandro Crespi",
-        "userImage": "https://lh3.googleusercontent.com/-sq5-c4TzcA8/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJN9wqk9nvbIAr2RuhQR3j84ArppAQ/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-sq5-c4TzcA8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclc8zsMGtF107kmHvll3TU1MuSs3g/photo.jpg",
         "content": "Bravi!",
         "score": 4,
         "thumbsUpCount": 0,
@@ -1981,7 +2421,7 @@
     },
     {
         "userName": "Enrico Consoli",
-        "userImage": "https://lh3.googleusercontent.com/-XXAuzzv1v5E/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJOavdb33VS90RAU6N1Z7WhTMNZjbg/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-XXAuzzv1v5E/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmwYkyIL_J7-KmLk3c7Uv6w_SRnyQ/photo.jpg",
         "content": "io dato i mio nominativo e dati spero siano utili x combattere sto bastardi di virus",
         "score": 5,
         "thumbsUpCount": 0,
@@ -2003,7 +2443,7 @@
     },
     {
         "userName": "corrado benedetto",
-        "userImage": "https://lh3.googleusercontent.com/-c0iDM5wKAx0/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJM2KQOm57HYKVjTPsutqNyh77k_XQ/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-c0iDM5wKAx0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm80aO2LTu1nAcxQELdE6mmtoc6SA/photo.jpg",
         "content": "Dopo l'aggiornamento non mi funziona pi\u00f9......risolvete",
         "score": 2,
         "thumbsUpCount": 0,
@@ -2014,7 +2454,7 @@
     },
     {
         "userName": "Anna Schiattarella",
-        "userImage": "https://lh3.googleusercontent.com/-PARcRWUPXlU/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJNfOdWexnwWzEBDbTpwjlGssjn3nA/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-PARcRWUPXlU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmWxvrTOxAtFXUtMcZ9-H_TLXOWvA/photo.jpg",
         "content": "Non mi fa entrare, il pi\u00f9 delle volte.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -2025,7 +2465,7 @@
     },
     {
         "userName": "Maira Runner",
-        "userImage": "https://lh3.googleusercontent.com/-sPLAZP1ncUQ/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJNRVWDwVxHCugGuMYwLhs1wzu7Muw/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-sPLAZP1ncUQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnDWzXYGHfvsybvH3oAOLZP5FX_fg/photo.jpg",
         "content": "Vi sono oltre 60000 lombardi che lavorano in Svizzera, si chiamano FRONTALIERI. Dove si compila? inserire Svizzera o Ticino. Inserire uno spazio che indichi il pensionato. Anamnesi da ampliare. Patologie significative sono anche BPCO .",
         "score": 2,
         "thumbsUpCount": 0,
@@ -2033,17 +2473,6 @@
         "at": "2020-04-24 23:23:12",
         "replyContent": "Ciao Maira, l'ultimo aggiornamento da la possibilit\u00e0 di inserire nel questionario  il luogo di lavoro extra regione, nel campo \"Se lavori fuori dalla Lombardia indica il luogo\u201c\nI suggerimenti li invieremo al gruppo di ricerca di medici e ricercatori dell\u2019Ospedale San Matteo e dell\u2019Universit\u00e0 degli Studi di Pavia che hanno ideato il questionario.",
         "repliedAt": "2020-05-08 09:10:19"
-    },
-    {
-        "userName": "Valentina Razionale",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Ggnk2JbXw-KTCulMwJl7B7zcTQFqLq5Rw3Gwh0xIw",
-        "content": "Boooh! Installata, aperta, compilato i dati la prima volta. Poi qualche ora dopo ho ricevuto una notifica, ci ho cliccato sopra e... magia! La app non si apre pi\u00f9, rimane o lo schermo bianco fisso o il logo iniziale con la rotella che gira in eterno. Direi perfettamente in linea col tono ridicolo generale con cui \u00e8 stato gestito tutto questo frangente. Ciao, vado a disinstallare.",
-        "score": 1,
-        "thumbsUpCount": 15,
-        "reviewCreatedVersion": "1.6.0",
-        "at": "2020-04-24 23:16:41",
-        "replyContent": "Ciao Valentina, riscontri ancora problemi dopo l'ultimo aggiornamento? Se riscontri ancora problemi non esitare a scriverci a info.allertalom@ariaspa.it",
-        "repliedAt": "2020-05-07 19:44:25"
     },
     {
         "userName": "Tiziano Zucchella",
@@ -2069,7 +2498,7 @@
     },
     {
         "userName": "Antonella Mereu",
-        "userImage": "https://lh3.googleusercontent.com/-yDhCnqmzApU/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJPmkQnw5BAxd6fQZxhEeMOhpGBCGw/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-yDhCnqmzApU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckQEsh05fVJDZ4EyHbbj6TGqw8KJw/photo.jpg",
         "content": "Quando arrivano le notifiche non riesco ad aprirle e si chiude l'app.",
         "score": 3,
         "thumbsUpCount": 0,
@@ -2080,7 +2509,7 @@
     },
     {
         "userName": "R F",
-        "userImage": "https://lh3.googleusercontent.com/-86sx9lvmXDQ/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJOv8tYCtbbU_aqJswsZcy14JWOrmg/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-86sx9lvmXDQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnA7DXFdtyfK6rE8onEOimAg9ndow/photo.jpg",
         "content": "Piena di bug, non funziona quasi mai, disorganizzata e confusionaria...",
         "score": 1,
         "thumbsUpCount": 0,
@@ -2091,7 +2520,7 @@
     },
     {
         "userName": "Fiorenzo Bassi",
-        "userImage": "https://lh3.googleusercontent.com/-B6t49ep_l0U/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJM7-jBuQcNw2hoEXX0HBSeBKAALUw/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-B6t49ep_l0U/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn7yeOqU_ZKRoeBqthqwtnJQ4XTPw/photo.jpg",
         "content": "Sono d'accordo ci devo pensare",
         "score": 5,
         "thumbsUpCount": 0,
@@ -2113,7 +2542,7 @@
     },
     {
         "userName": "Maurizio Da Ros",
-        "userImage": "https://lh3.googleusercontent.com/-IzHy5zuPgb0/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJMKS6_4QAQZoXqV8cVNxgGllf39Tg/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-IzHy5zuPgb0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclPAs5DKI3R2dWdD_CkvqsEkaak5g/photo.jpg",
         "content": "Non funziona pi\u00f9 su Huawei con aggiornamento Emui 10.0.0",
         "score": 1,
         "thumbsUpCount": 0,
@@ -2135,7 +2564,7 @@
     },
     {
         "userName": "Giuseppe Lupi",
-        "userImage": "https://lh3.googleusercontent.com/-0Dwv3VttyzY/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJNxrp-gLnNoLmm_ek9u7RaX_sDqYA/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-0Dwv3VttyzY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnR-DmSvtTqJQtgyiyfkW2xVtyZWg/photo.jpg",
         "content": "Ottima iniziativa",
         "score": 4,
         "thumbsUpCount": 0,
@@ -2146,7 +2575,7 @@
     },
     {
         "userName": "giuseppe vella",
-        "userImage": "https://lh3.googleusercontent.com/-sOpuezQ1qpg/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJNE_FfIJ_akRPpXgtXrQcAj0wcgyw/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-sOpuezQ1qpg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclGvXUBai6aNfFS2Oys-vjBOvuWMg/photo.jpg",
         "content": "Fa cagare, come tutto quello che riguarda il governo di questa nostra martoriata regione!",
         "score": 1,
         "thumbsUpCount": 0,
@@ -2157,7 +2586,7 @@
     },
     {
         "userName": "Valeria Borghetti",
-        "userImage": "https://lh3.googleusercontent.com/-Itks3Vb-vMQ/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJPCDpLphZ8TxiXIGNGvcUp6pMoxzQ/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-Itks3Vb-vMQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckZezloV66G9i0aHnJlSUExBqw55A/photo.jpg",
         "content": "Io ho installato l app sul cell ma non posso aprirla perche' dice che il mio dispositivo e' con rooting... Come faccio per aprirla? Non si puo' dare un autorizzazione x poterla aprire? Grazie In questo modo mi e' impossibile utilizzarla...",
         "score": 1,
         "thumbsUpCount": 0,
@@ -2179,14 +2608,14 @@
     },
     {
         "userName": "Jacopo Castaldo",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiJhGDfMYY1QkQLbPS40rTmXXJyC-fH7sJP9CYlwg",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gh7wNriaybrApb_eX2uoo2LcCws8Cvnd7Vs_f9mxQ",
         "content": "Si potrebbe mettere la possibilit\u00e0 di cancellare un parente (nella sezione covid19)?",
         "score": 4,
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.6.0",
         "at": "2020-04-24 17:11:13",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ciao Jacopo, il problema \u00e8 stato segnalato agli sviluppatori, ma al momento tale funzionalit\u00e0 non \u00e8 contemplata.",
+        "repliedAt": "2020-05-12 13:34:56"
     },
     {
         "userName": "Marco Sessa",
@@ -2201,7 +2630,7 @@
     },
     {
         "userName": "Sabrina Lodigiani",
-        "userImage": "https://lh3.googleusercontent.com/-hSb10UMBozc/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJMa-osD5YLNGCl41ROXA_cTorKLew/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-hSb10UMBozc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckb8Nu6_MGz94jnWvb4nQDHOmU0Qg/photo.jpg",
         "content": "Applicazione utile e ben aggiornata",
         "score": 4,
         "thumbsUpCount": 1,
@@ -2212,7 +2641,7 @@
     },
     {
         "userName": "Bianca Casoni",
-        "userImage": "https://lh3.googleusercontent.com/-Kv5-MW1dbbM/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJP9PZvQ4uM4wS39ciHk1BGt6qytZw/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-Kv5-MW1dbbM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckUvSH9vYVR6kQyXpfY0BZG82cvAw/photo.jpg",
         "content": "La scheda da compilare ha una prima parte poco comprensibile. Il prosieguo \u00e8 pi\u00f9 chiaro. La parte meno chiara \u00e8 quella. attinente ai componenti della famiglia. Che cosa vuol dire : coniuge/partner? Che cosa bisogna scrivere ? Il nome e cognome?",
         "score": 3,
         "thumbsUpCount": 1,
@@ -2223,7 +2652,7 @@
     },
     {
         "userName": "Giacomo Vallotta",
-        "userImage": "https://lh3.googleusercontent.com/-Orbpv5T6Qds/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJMgO3cSWr5XYYV7MCqNla2BVzbGtg/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-Orbpv5T6Qds/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckJJYOGNIILWMDhAR5d8cu3Ea51-g/photo.jpg",
         "content": "I testi delle note legali e dell'informativa sulla privacy sono enciclopedici; la concisione e l'uso di linguaggio comune non sono stati minimamente considerati. I testi sono scritti in \"legalese\" e \"burocratese\", cos\u00ec non si facilita la comprensione.",
         "score": 2,
         "thumbsUpCount": 0,
@@ -2256,7 +2685,7 @@
     },
     {
         "userName": "Sergio Tiboni",
-        "userImage": "https://lh3.googleusercontent.com/-RRjcoZ_IwhU/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJMfTmSE14dALikjZlUUSJNSjns3aw/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-RRjcoZ_IwhU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckDt06Wm-JJ7Ec_gEX7QWUMbWaPnw/photo.jpg",
         "content": "Il solo dato negativo \u00e8 il rimanere in \ud83c\udfe0 e parlare con gli amici solo in videochiamata",
         "score": 5,
         "thumbsUpCount": 0,
@@ -2300,7 +2729,7 @@
     },
     {
         "userName": "progamer89 alex",
-        "userImage": "https://lh3.googleusercontent.com/-fdyrWanPc1M/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJPNWXf4GGa38ZiWzNa07aQVARoyOA/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-fdyrWanPc1M/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclT3vrTAEUNxM1aBsIz7Foqao_iiw/photo.jpg",
         "content": "Ottima",
         "score": 5,
         "thumbsUpCount": 0,
@@ -2311,7 +2740,7 @@
     },
     {
         "userName": "Davide Rovidone",
-        "userImage": "https://lh3.googleusercontent.com/-ZO6_jUCTUsQ/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJP8MFhmnVJh6Txb5taALPKz1AwCUA/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-ZO6_jUCTUsQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck1jMm6MgvtlBryDX91HxwJsHdPFA/photo.jpg",
         "content": "Non per altro \u00e8, mi \u00e8 anche arrivato il SMS. Ma non riesco a scaricarla. Ho solo la connessione cellulare. Dipende da questo?",
         "score": 1,
         "thumbsUpCount": 0,
@@ -2347,7 +2776,7 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjB8NopTBT-YgZyLNT8EFcJ6LxU-eKo-iieVtWZkA",
         "content": "Mi spiegate perch\u00e9 ogni volta devo reinserire il comune e cap di residenza? Non \u00e8 che uno ogni giorno cambi casa. Anche la situazione lavorativa a mio avviso pu\u00f2 essere memorizzata. Al limite, se dovesse cambiare, la si varia prima di inviare i dati. Se l'applicazione \u00e8 pensata per monitorare giornalmente la situazione sarebbe pi\u00f9 comodo variare ci\u00f2 che \u00e8 cambiato rispetto al giorno prima, piuttosto che reinserire tutto, specie per chi volesse inserire anche i famigliari. Cos\u00ec passa la voglia.",
         "score": 3,
-        "thumbsUpCount": 79,
+        "thumbsUpCount": 87,
         "reviewCreatedVersion": "1.6.0",
         "at": "2020-04-23 19:19:54",
         "replyContent": "Ciao Silvano,  ci teniamo a precisare che con la nuova release 1.6, i dati riferiti alla residenza e al luogo di lavoro rimangono memorizzati! Se hai bisogno di ulteriore assistenza, scrivi a info.allertalom@ariaspa.it",
@@ -2355,7 +2784,7 @@
     },
     {
         "userName": "Paolo Grande",
-        "userImage": "https://lh3.googleusercontent.com/-rs8dJ1n_QkY/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJN8n1XQpunA4toI-UhxdyO1bp7i1w/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-rs8dJ1n_QkY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn_BAHsOrxeRdHkXgEyKt0_SrxYpw/photo.jpg",
         "content": "Per il covid - non si capisce come utilizzarla. Potrebbe chiedere se ci sono cambiamenti invece di dover inserire ogni volta tutto. Mah",
         "score": 1,
         "thumbsUpCount": 0,
@@ -2366,7 +2795,7 @@
     },
     {
         "userName": "Alessandra Fratticci",
-        "userImage": "https://lh3.googleusercontent.com/-D3vtHpC8tf4/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJMT5xWZeiMQMVcjXWvCH3HOQZkY1A/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-D3vtHpC8tf4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm-vqxEUICBXSW52dTJEbBE_ss4qg/photo.jpg",
         "content": "Perfetta.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -2410,7 +2839,7 @@
     },
     {
         "userName": "Maria Teresa Crisci",
-        "userImage": "https://lh3.googleusercontent.com/-PcfKTvJLk-0/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJMVC8TdcwoXLcku0DnSXGPoEUv_ow/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-PcfKTvJLk-0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucltZzKrIw7AjFmpb8lHPXKm5Er8kA/photo.jpg",
         "content": "Interessante e facile da compilare, speriamo che le informazioni raccolte siano esaurienti!",
         "score": 4,
         "thumbsUpCount": 0,
@@ -2443,7 +2872,7 @@
     },
     {
         "userName": "fabio sechi",
-        "userImage": "https://lh3.googleusercontent.com/-jYe20UCev98/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJPmtLcDb513RjBNZqa62t1gSCrXRQ/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-jYe20UCev98/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck3CwWIIq01qrWHp3yO3bP1YhKWSw/photo.jpg",
         "content": "Non \u00e8 possibile utilizzare l'app su Mi 9T",
         "score": 1,
         "thumbsUpCount": 0,
@@ -2465,7 +2894,7 @@
     },
     {
         "userName": "Giacomo Riccardo Sacellini",
-        "userImage": "https://lh3.googleusercontent.com/-ODTBu6FJh6E/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJPF-Z7dAkACTqkd2h1-XoIXqdQjkQ/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-ODTBu6FJh6E/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclme91jS_stHpeA8E6BSlvILyX_7w/photo.jpg",
         "content": "Molto interessante",
         "score": 3,
         "thumbsUpCount": 0,
@@ -2498,7 +2927,7 @@
     },
     {
         "userName": "Den Zuk",
-        "userImage": "https://lh3.googleusercontent.com/-VxwQ2bPbEOw/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJP7CzRIOwAvQ6z5kQHNAHZdtQ095w/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-VxwQ2bPbEOw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn0THnNuN2l-mGfY4z7t59vGxFftA/photo.jpg",
         "content": "Applicazione che viene spacciata come utile per la salute pubblica, ma dopo la compilazione del form Non fornisce all'utilizzatore nessuna informazione in tempo reale sul covid19, mentre invece fornisce molte altre informazioni su altre tipologie di allerta (idrogeologica ecc).",
         "score": 1,
         "thumbsUpCount": 0,
@@ -2509,7 +2938,7 @@
     },
     {
         "userName": "Chiara Taddei",
-        "userImage": "https://lh3.googleusercontent.com/-LLj_WA8JzwI/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJOHRGp8u56C-cKOj6R0njaIgym4Yw/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-LLj_WA8JzwI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck2qOsBInVG_JLIeeyfPcSzDSAXeQ/photo.jpg",
         "content": "Ho dovuto disinstallarla il giorno dopo perch\u00e9 mi bloccava il telefono.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -2520,7 +2949,7 @@
     },
     {
         "userName": "Giuliana Dini",
-        "userImage": "https://lh3.googleusercontent.com/-FcXK9mbp4I0/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJOnLzkOPf7Rm7SN2tToO5XLVLdIOw/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-FcXK9mbp4I0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckmCZDV0eUJW3TyFsAuw7X_AytMBg/photo.jpg",
         "content": "Non riesco aprirla",
         "score": 2,
         "thumbsUpCount": 0,
@@ -2531,7 +2960,7 @@
     },
     {
         "userName": "Monica Gallotti",
-        "userImage": "https://lh3.googleusercontent.com/-uNLU4wmV9Ig/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJP0X_vuw6JDm2Fxf9Ajr4385ZPOww/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-uNLU4wmV9Ig/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn3XdNkWFHCswN4qofB34MiUIUdhw/photo.jpg",
         "content": "Ottimo",
         "score": 5,
         "thumbsUpCount": 1,
@@ -2564,7 +2993,7 @@
     },
     {
         "userName": "Sandro Toncelli",
-        "userImage": "https://lh3.googleusercontent.com/-iNt10WaCwcI/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJOhK-K1ldSR9E3niP70uTalFcXcgg/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-iNt10WaCwcI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnQCoQYb_lYV3RT7QzmohaGTzQirA/photo.jpg",
         "content": "Risiedo fuori regione ma ho importanti attivit\u00e1 lavorative in lombardia. Non posso registrarmi al programma covid petch\u00e9 non \u00e8 previsto e mi sembra un limite inutile.",
         "score": 2,
         "thumbsUpCount": 0,
@@ -2575,7 +3004,7 @@
     },
     {
         "userName": "giuseppe besam",
-        "userImage": "https://lh3.googleusercontent.com/-Tn53IkqUd20/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJPnxj5HIc0mc4oIBh7NI-8sfT02Uw/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-Tn53IkqUd20/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckV27nK0ZuCYEznKRdslDhrILeIlw/photo.jpg",
         "content": "Utile",
         "score": 4,
         "thumbsUpCount": 0,
@@ -2597,7 +3026,7 @@
     },
     {
         "userName": "CINZIA Bolzoni",
-        "userImage": "https://lh3.googleusercontent.com/-DeIXvUqDJww/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJNg3PJBWh9Y9twzPSm83E7_iM9vQw/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-DeIXvUqDJww/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckaW1rObjFN4Dp_0RPK7JYuzMorHA/photo.jpg",
         "content": "Veloce da compilare",
         "score": 4,
         "thumbsUpCount": 0,
@@ -2608,7 +3037,7 @@
     },
     {
         "userName": "Roberto Varalli",
-        "userImage": "https://lh3.googleusercontent.com/-X95_RQiDguw/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJNthrtVUeeUsRF6FBqEkgI9DqZT5w/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-X95_RQiDguw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnKnQaToz6z7BZ6hwE1FMsAME8CBQ/photo.jpg",
         "content": "ora va tutto bene. non so come mai prima desse problemi",
         "score": 1,
         "thumbsUpCount": 0,
@@ -2619,7 +3048,7 @@
     },
     {
         "userName": "Alessia Pruna",
-        "userImage": "https://lh3.googleusercontent.com/-D8Qc4dt2mT4/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJPbVgHkMQW6ZaEPVFHS_gFx60CFvg/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-D8Qc4dt2mT4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmFpUtqVFfoAcHwyFCl2ejKeR2GfA/photo.jpg",
         "content": "Sarebbe molto utile questa applicazione ma apro l'app e rimane sulla schermata principale! C'\u00e8 qualcosa da sistemare.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -2630,7 +3059,7 @@
     },
     {
         "userName": "MARIA GELPI",
-        "userImage": "https://lh3.googleusercontent.com/-uh8qR9j61XA/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJN6c_wQzDiv7u-GKsAFNR8uhJ9-lA/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-uh8qR9j61XA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckilxvc0brsuteJEPNJblPdy5eghw/photo.jpg",
         "content": "Ottima per valutazione casistica,speriami che i cittadini lombardi collaborino.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -2641,7 +3070,7 @@
     },
     {
         "userName": "Pinco Palino",
-        "userImage": "https://lh3.googleusercontent.com/-WODh7kIbOvc/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJMcN_ierQNINeKlJS_M0n5A4TgZLQ/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-WODh7kIbOvc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclI5TROvSLT7Z9pSqColFYACazoyA/photo.jpg",
         "content": "Credo sia un dovere civico installare questa app. L'ho fatto e aggiorner\u00f2 tutti i giorni i miei dati di salute. Dopo di che mi piacerebbe che qualcuno rispondesse a questa domanda: Se non sto bene, tutti noi chiamiamo il medico di base, lui fa la diagnosi e se crede sia un sospetto covid19, morbillo o meningite deve avvisare l'ats. Perch\u00e9 chiedete anche a me di farlo? E' forse un altro ufficio e non vi siete parlati?",
         "score": 3,
         "thumbsUpCount": 22,
@@ -2674,7 +3103,7 @@
     },
     {
         "userName": "Caterina Caifano",
-        "userImage": "https://lh3.googleusercontent.com/-p-EqtrmgRKg/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJOHBZzaq8TqruTU9KSorgfKgA7MbQ/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-p-EqtrmgRKg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclJS-zTATqmQB1M0SCRB8kWsOqWzg/photo.jpg",
         "content": "Pu\u00f2 essere utile ma perch\u00e8 ogni volta che apro viene fuori tutta la privacy,lo sappiamo gi\u00e0 non \u00e8 un perdita di tempo?",
         "score": 2,
         "thumbsUpCount": 0,
@@ -2685,7 +3114,7 @@
     },
     {
         "userName": "donatella berna",
-        "userImage": "https://lh3.googleusercontent.com/-E4eUJPpjxOA/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJORdCwgyH7C-Ub4Z4pB3HMUTg9Ucw/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-E4eUJPpjxOA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmMdwCz4Wff3EaskHWdz7S21FTVVg/photo.jpg",
         "content": "Non sono previste professioni in itinere per cui il luogo di lavoro pu\u00f2 variare ogni giorno e non essere solo entro i confini regionali.",
         "score": 2,
         "thumbsUpCount": 0,
@@ -2696,7 +3125,7 @@
     },
     {
         "userName": "Angelo Ambrosini",
-        "userImage": "https://lh3.googleusercontent.com/-Ns7Z-soWmk4/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJPIBQj66EEZnayF7bTu8PLmG9UMag/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-Ns7Z-soWmk4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnoC58nWr2b1nuzOMlwSa3t7Z8GPA/photo.jpg",
         "content": "Non si. Capisce un Amen!",
         "score": 1,
         "thumbsUpCount": 0,
@@ -2707,7 +3136,7 @@
     },
     {
         "userName": "Linda Fabro",
-        "userImage": "https://lh3.googleusercontent.com/-VwkTg5IaQiw/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJOiU2_TfOuVDLRNbN503mIrz4QSjg/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-VwkTg5IaQiw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnwXyBjLBQ_kjh6jgO3PseIiLkrBw/photo.jpg",
         "content": "Perch\u00e9 ogni volta devo ridare il mio nome e cognome dove abito etc? Vada per lo stato di salute Ma non \u00e8 scontato non cambio residenza ogni giorno... Dover sempre reinserire tutti i dati ogni giorno fa passare la voglia di compilare.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -2751,7 +3180,7 @@
     },
     {
         "userName": "Marco Giarone",
-        "userImage": "https://lh3.googleusercontent.com/-iEn4Yan7Uzs/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJNgAgZPH0GfgE7wFlYB1IFgVz7a8w/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-iEn4Yan7Uzs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclfSVddZ9LnCxiKuhrPy22bfHKLug/photo.jpg",
         "content": "Aiutiamoci \ud83d\ude42",
         "score": 5,
         "thumbsUpCount": 0,
@@ -2762,7 +3191,7 @@
     },
     {
         "userName": "Marco Menduni",
-        "userImage": "https://lh3.googleusercontent.com/-UbZ2CUGiFpU/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJOp1jb98dvMst6KRobdL6WpNwUmVA/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-UbZ2CUGiFpU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckQ5KAYyd583t7V22xrdqJ5008_SQ/photo.jpg",
         "content": "Fatta bene dovrebbe tenere salvate le informazioni di base e l'assenso per la privacy.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -2773,7 +3202,7 @@
     },
     {
         "userName": "Marco Rossi",
-        "userImage": "https://lh3.googleusercontent.com/-k7cPXF4sINY/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJNW_H-Vlc7NUa-gU_WVlImb2mcY4w/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-k7cPXF4sINY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnCUfhFs30YCWQQEu0VsPIbfuZpjQ/photo.jpg",
         "content": "Ok",
         "score": 5,
         "thumbsUpCount": 0,
@@ -2784,7 +3213,7 @@
     },
     {
         "userName": "sergio baricci",
-        "userImage": "https://lh3.googleusercontent.com/-zWuu6fMWAGI/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJMnThTxRDcbUakUEdipDaQy4RF0qg/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-zWuu6fMWAGI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmLBaEcDXQP-G1ekYWoekq7ydFGnw/photo.jpg",
         "content": "Tutto ok",
         "score": 5,
         "thumbsUpCount": 0,
@@ -2806,7 +3235,7 @@
     },
     {
         "userName": "Gregorio Pietropaolo",
-        "userImage": "https://lh3.googleusercontent.com/-1Rt-QAN0IVI/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJNnsR9AjVU0UNlCchR6DeaQIcBZOw/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-1Rt-QAN0IVI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm4FMEdy2vPkc53jVp51C7IYC5pkg/photo.jpg",
         "content": "Semplicissime domande per altrettanto semplici e veloci risposte.Penso sia un ottimo sistema di monitoraggio per l'infezione del covid-19 ,sempre che la cosa sia DAVVERO SEGUITA e limitata al SOLO scopo sanitario,visto che in Italia e' tutto poco credibile !!! Io aderisco e ,spero,lo facciate anche Voi tutti. Ciao.",
         "score": 5,
         "thumbsUpCount": 1,
@@ -2817,7 +3246,7 @@
     },
     {
         "userName": "michele belloli",
-        "userImage": "https://lh3.googleusercontent.com/-dHHpXY8zjNo/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJMUdsxLY6vdSlCbdE8u06kYAjMXkg/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-dHHpXY8zjNo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclDUIA5r3DayOToWS9KRm3D_hcsbA/photo.jpg",
         "content": "In base alla mia recensione precedente, il feedback vocaleda come non selezionata la casella di accettazione dei termini di della privacyma i dati sanitari, una volta tappato su invio, vengono correttamente registrati come mi ha detto un vedente. Grazie per l'interessamento.",
         "score": 4,
         "thumbsUpCount": 1,
@@ -2828,7 +3257,7 @@
     },
     {
         "userName": "MBP",
-        "userImage": "https://lh3.googleusercontent.com/-tYuT2FIkH-s/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJODCgRw7JDafFr3qEl02z4ol3C9yg/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-tYuT2FIkH-s/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucneT16s2H_Ku4ERBopsGAPZWmhw1w/photo.jpg",
         "content": "Il questionario su COVID19 lo trovo ben fatto, nn chiede nome e cognome n\u00e9 nr tel, solo et\u00e0, localit\u00e0 dove abiti e localit\u00e0 dove lavori. Poi c'\u00e8 la parte riservata ai sintomi. Compilato il questionario la prima volta lo ricompilo se constato delle variazioni su i sintomi. Valutazione positiva\ud83d\udc4d",
         "score": 5,
         "thumbsUpCount": 1,
@@ -2839,7 +3268,7 @@
     },
     {
         "userName": "Pierangelo Mariani",
-        "userImage": "https://lh3.googleusercontent.com/-TB-6tkSrZjg/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJMy-d99PwixUuKFH_xB5WTYDgNH9Q/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-TB-6tkSrZjg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn_XhzvC5ZO61nl2wDdFlRjB6ldlQ/photo.jpg",
         "content": "All'avvio mi da questo messaggio \"impossibile utilizzare l'app. Il dispositivo in uso risulta aver subito un processo di jailbreaking o rooting.....\"",
         "score": 1,
         "thumbsUpCount": 0,
@@ -2850,7 +3279,7 @@
     },
     {
         "userName": "Marco Varone",
-        "userImage": "https://lh3.googleusercontent.com/-XgR0HrjqJME/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJOuXcyuRn3ih7wTTNC-iKGQTqp1mQ/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-XgR0HrjqJME/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckBJYDwvm5hwlCn0WOvD3hVwX_HXA/photo.jpg",
         "content": "Applicazione aggiornata in data 22/04 funziona perfettamente, grazie della mail inviata per L aggiornamento, spero presto di essere parte della protezione civile",
         "score": 5,
         "thumbsUpCount": 0,
@@ -2861,7 +3290,7 @@
     },
     {
         "userName": "Giorgio Cincinnati",
-        "userImage": "https://lh3.googleusercontent.com/-Zi-Q_vGNX0o/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJOUKCjneY6Igpx6fzT0ausXhQuY3w/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-Zi-Q_vGNX0o/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucngmgFMMt3qM3iiJrMBJodSDvBkFA/photo.jpg",
         "content": "E' una buona app ma il questionario sul Covid 19 dovrebbe essere nominativo, non anonimo. Cos\u00ec permetterebbe oltre che fare una mappa del contagio anche di prevenirlo. Appena una persona vi dichiara di avere uno dei sintomi potreste subito fargli, tramite incaricati, un tampone ed isolarlo subito in strutture apposite fino all'esito cos\u00ec da prevenire contatti con altre persone, anche del nucleo famigliare, e impedire il contagio",
         "score": 3,
         "thumbsUpCount": 1,
@@ -2883,7 +3312,7 @@
     },
     {
         "userName": "Dario C.",
-        "userImage": "https://lh3.googleusercontent.com/-q-l5lx1oW5Q/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJOaSicul1F9g_em25SH7U-EyIh31w/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-q-l5lx1oW5Q/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnuA-ZOg2P93p-GSqWYF4BHIybhbw/photo.jpg",
         "content": "Questionario semplice e veloce. Forse alcune domande sono un po' troppo generiche.",
         "score": 4,
         "thumbsUpCount": 0,
@@ -2938,7 +3367,7 @@
     },
     {
         "userName": "Thomas Colombo",
-        "userImage": "https://lh3.googleusercontent.com/-I7ZukzX-VTo/AAAAAAAAAAI/AAAAAAAAAkE/AAKWJJOluPqPZ-VblrP_4paNDZ4so-lCVw/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-I7ZukzX-VTo/AAAAAAAAAAI/AAAAAAAAAkE/AMZuucnjjL_PAGNbpUx-IY_8PVwx46E1yw/photo.jpg",
         "content": "Questionario da compilare max una volta al giorno . Spero produca una statistica fedele che ci porti ad una convivenza con COVID-19 . Grazie !!!!",
         "score": 5,
         "thumbsUpCount": 1,
@@ -3015,7 +3444,7 @@
     },
     {
         "userName": "Francesca Malusardi",
-        "userImage": "https://lh3.googleusercontent.com/-hjZm3QYP_OU/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJN82aZdaF-fVZW74CZSmRs1X8jnRg/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-hjZm3QYP_OU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnlssh5dn3FXRhzU0vvCZcoRxRCRw/photo.jpg",
         "content": "Applicazione abbastanza utile,se fosse pi\u00f9 utilizzata dai cittadini Fornisce informazioni aggiornate.",
         "score": 4,
         "thumbsUpCount": 0,
@@ -3026,7 +3455,7 @@
     },
     {
         "userName": "filippo colombo",
-        "userImage": "https://lh3.googleusercontent.com/-zsp46zAp8fA/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJNHeeblwYbdzAU3mUX25V5slfzRMw/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-zsp46zAp8fA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckyUTADnkkpkr7r7TBNZNCITe46wQ/photo.jpg",
         "content": "Grazie per il servizio che svolgete",
         "score": 5,
         "thumbsUpCount": 0,
@@ -3048,7 +3477,7 @@
     },
     {
         "userName": "Guido Monti",
-        "userImage": "https://lh3.googleusercontent.com/-CH_MJqcIvT4/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJOKPcqAigj8weJZ80dpI2xriLCQCg/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-CH_MJqcIvT4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclexJHYNaUJrEyH6SO-jixRm9Symw/photo.jpg",
         "content": "Compilo il questionario invio risposta prova pi\u00f9 tardi questo succede sempre",
         "score": 1,
         "thumbsUpCount": 0,
@@ -3056,6 +3485,17 @@
         "at": "2020-04-22 13:08:34",
         "replyContent": "Ciao Guido, riscontri ancora il problema ? Se si scrivi a info.allertalom@ariaspa.it, altrimenti ti invitiamo ad aggiornare la recensione.",
         "repliedAt": "2020-05-07 17:07:09"
+    },
+    {
+        "userName": "Graziella Dal Conte",
+        "userImage": "https://lh3.googleusercontent.com/-mizl0THhejc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl8zNJf3Cq2VPQY-F_42gVmS7-ArA/photo.jpg",
+        "content": "A tutto serve nella vita sara' ricordata dentro di noi",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.6.0",
+        "at": "2020-04-22 12:50:37",
+        "replyContent": "Ciao Graziella, grazie per il feedback positivo!",
+        "repliedAt": "2020-05-07 16:25:54"
     },
     {
         "userName": "Valentina Mariani",
@@ -3069,19 +3509,8 @@
         "repliedAt": "2020-05-07 16:27:36"
     },
     {
-        "userName": "Graziella Dal Conte",
-        "userImage": "https://lh3.googleusercontent.com/-mizl0THhejc/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJNMkMWjzie6o5T1V8SUYF_DL74VmA/photo.jpg",
-        "content": "A tutto serve nella vita sara' ricordata dentro di noi",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.6.0",
-        "at": "2020-04-22 12:50:37",
-        "replyContent": "Ciao Graziella, grazie per il feedback positivo!",
-        "repliedAt": "2020-05-07 16:25:54"
-    },
-    {
         "userName": "rorframe red",
-        "userImage": "https://lh3.googleusercontent.com/-hjNaf2JOTK0/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJMMoOoe5IHFprMiPat63m6kt0re-w/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-hjNaf2JOTK0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckJzLf63275f6CKLziPylG8QFIGvw/photo.jpg",
         "content": "Inutile",
         "score": 1,
         "thumbsUpCount": 0,
@@ -3092,7 +3521,7 @@
     },
     {
         "userName": "gianpiero brambilla",
-        "userImage": "https://lh3.googleusercontent.com/-S6yGMuZcl2Q/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJPmquIeFMEKasQg0S4lpFJLjuDHYA/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-S6yGMuZcl2Q/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnccu-j6_5EvaME11paSlvlIn8zIg/photo.jpg",
         "content": "non parte",
         "score": 1,
         "thumbsUpCount": 0,
@@ -3103,7 +3532,7 @@
     },
     {
         "userName": "Nicola Villani",
-        "userImage": "https://lh3.googleusercontent.com/-2LflpvZS80s/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJMF54jz5zFF4xbQNjsLOraWqsDkQQ/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-2LflpvZS80s/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckehrUii3TxCeW7bEQA0x7Lp_c2Cg/photo.jpg",
         "content": "Eccellente",
         "score": 5,
         "thumbsUpCount": 0,
@@ -3114,7 +3543,7 @@
     },
     {
         "userName": "Viviana Odorico",
-        "userImage": "https://lh3.googleusercontent.com/-QUoVpmL65E0/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJNNSxZKZiQmoIORG5aPN4maNDtrkQ/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-QUoVpmL65E0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckU801AwLcsBNbuDcO2nRv13ZN8Ow/photo.jpg",
         "content": "Ho eseguito le direttive per l'installazione del dispositivo mi dice installato ma non mi compare nulla .nemmeno il questionario .Chi mi pu\u00f2 aiutare per favore? Grazie",
         "score": 1,
         "thumbsUpCount": 0,
@@ -3136,7 +3565,7 @@
     },
     {
         "userName": "Iride Giussani",
-        "userImage": "https://lh3.googleusercontent.com/-sb-QFc8XnP4/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJOaZL72gyeo3jiGzQMcKnxhpEXeyA/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-sb-QFc8XnP4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckF6PxnV1BpyMwfOhXPpy0yUYkMxw/photo.jpg",
         "content": "Ho aderito alla sessione CERCA COVID, mi sono accorta dopo avere inviato che erroneamente ho digitato l'et\u00e0 sbagliata. Non da la possibilit\u00e0 di correzione dell'errore.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -3150,7 +3579,7 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gg4DDn2l7Y01cay9BFobazMyn0hc5i-VVmpnJ2j",
         "content": "Se lo scopo dell'app \u00e8 quello di effettuare una mappatura di quella che pu\u00f2 essere stata la diffusione del contagio sul territorio, risulta inefficace poich\u00e9 si limita ad una fotografia della situazione attuale. Le domande sui sintomi sono riferite alle sole ultime 2 settimane. Io e la mia famiglia la quasi totalit\u00e0 dei sintomi (compreso, per me, la congiuntivite) li abbiamo avuto a met\u00e0 febbraio. Sarebbe pi\u00f9 utile chiedere se i sintomi si sono avuti e, in caso affermativo, chiedere quando",
         "score": 2,
-        "thumbsUpCount": 127,
+        "thumbsUpCount": 144,
         "reviewCreatedVersion": "1.6.0",
         "at": "2020-04-22 11:52:35",
         "replyContent": "Ciao Raimondo, la ringraziamo per il suggerimento.Lo invieremo al gruppo di ricerca di medici e ricercatori dell\u2019Ospedale San Matteo e dell\u2019Universit\u00e0 degli Studi di Pavia che ha ideato il questionario. Ogni contributo degli utenti \u00e8 prezioso!",
@@ -3169,7 +3598,7 @@
     },
     {
         "userName": "Vincenzo",
-        "userImage": "https://lh3.googleusercontent.com/-A905Jv5VGww/AAAAAAAAAAI/AAAAAAAAAOs/AAKWJJO89OCAtYp_qnsdWI-i7LqDO9suKg/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-A905Jv5VGww/AAAAAAAAAAI/AAAAAAAAAOs/AMZuuclXa_p8S8-glm1krQ2mKDRZsQdfbA/photo.jpg",
         "content": "Non so se l'app \u00e8 sviluppata male (di certo lo \u00e8 il questionario) o se il server risale agli anni 60, comunque al momento non sembra un'app granch\u00e9 utile",
         "score": 2,
         "thumbsUpCount": 0,
@@ -3213,7 +3642,7 @@
     },
     {
         "userName": "Stefano Radice",
-        "userImage": "https://lh3.googleusercontent.com/-jyA8cvEyD20/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJPPLeNwWNOyrkj2lIL-Q-FWv0nEEA/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-jyA8cvEyD20/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm6vuRbLOpGQYBC2CpHLVAzQ9gpIQ/photo.jpg",
         "content": "Ogni volta debbo partire da 0, privacy ecc.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -3268,7 +3697,7 @@
     },
     {
         "userName": "Marco Malagutti",
-        "userImage": "https://lh3.googleusercontent.com/-4fvnF8wm7bo/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJN3BwuUuWLCQJuWNZlilmPs5Wuejw/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-4fvnF8wm7bo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn_C6IcUCslR3rWizgRmKhJeH_LJQ/photo.jpg",
         "content": "Una stella. La prossima volta, prima di mandare messaggi per richiedere l'installazione (ho lo screen shot) pensateci bene. Disinstallare subito",
         "score": 1,
         "thumbsUpCount": 0,
@@ -3301,7 +3730,7 @@
     },
     {
         "userName": "Daniele Tagliabue",
-        "userImage": "https://lh3.googleusercontent.com/-_w8xbk98M94/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJMjWWVkljUJL9qAyxrgszWmRCWbhw/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-_w8xbk98M94/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnHN8SBdU_yapymkpNZJsCVL-38vQ/photo.jpg",
         "content": "Da fare tutti ! Prima iniziativa massiva sensata di R.L. che rende responsabili le persone. Ora mandate i bambini a scuola: test sierologico di ingresso ogni 3 giorni. Cos\u00ec mappate mezza Lombardia ogni 3 giorni. Loro non tengono distanze e sono i primi vettori. Chi positivo a casa e test x la famiglia. Mandate a lavorare le persone: ogni 3 GG test sierologico detraibile dal datore di lavoro. Chi positivo, segnalazione ASL e test x famiglia. Altrimenti non ne usciremo +. Grazie.",
         "score": 4,
         "thumbsUpCount": 0,
@@ -3345,7 +3774,7 @@
     },
     {
         "userName": "federico guerretti",
-        "userImage": "https://lh3.googleusercontent.com/-ioL47Za8b8E/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJO4Inqo3-ZN0rlzCiI8oP9cO-_igA/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-ioL47Za8b8E/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckOTGzYQsmrHBAe7sVERYSFyGvXsg/photo.jpg",
         "content": "Ora sembra che il problema del falso rooted sia risolto",
         "score": 3,
         "thumbsUpCount": 2,
@@ -3356,7 +3785,7 @@
     },
     {
         "userName": "Daniela Vicenzi",
-        "userImage": "https://lh3.googleusercontent.com/-PxA40N1JDFA/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJOCDDenuRKmADEjoaBzXlBy0H_wrw/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-PxA40N1JDFA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclHyoXHNqY86RXsj4eMfp0pUshxaQ/photo.jpg",
         "content": "A fronte della compilazione del questionario covid, non fornisce, di ritorno, nessuna informazione sul rischio.",
         "score": 2,
         "thumbsUpCount": 0,
@@ -3378,7 +3807,7 @@
     },
     {
         "userName": "Serena Maisto",
-        "userImage": "https://lh3.googleusercontent.com/-HEwzhGQAGxg/AAAAAAAAAAI/AAAAAAAAAPI/AAKWJJMUmXx0yqy6wb9-dNOtNlxrXQD_lA/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-HEwzhGQAGxg/AAAAAAAAAAI/AAAAAAAAAPI/AMZuucmk9qSmuDyAfXdPtczxcPCd7NmxXA/photo.jpg",
         "content": "Suggerisco di rivedere il questionario \"Cerca covid\" molte domande sono fuorvianti se decontestualizzate, mia mamma si sottopone a chemioterapia, molte delle sintomatologia ricercate per lei sono croniche, ma se rispondo onestamente, risulta un soggetto per voi a rischio, e non mi \u00e8 manco consentito precisare a monte le patologie di cui \u00e8 affetta. Suggerisco qualche modifica in tal senso",
         "score": 2,
         "thumbsUpCount": 0,
@@ -3400,7 +3829,7 @@
     },
     {
         "userName": "Franco Veronesi",
-        "userImage": "https://lh3.googleusercontent.com/-I3J-94YT4TM/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJMo6qsmdPHNhPF4fyl5rvDefZKPsQ/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-I3J-94YT4TM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclLRQ5jKzUKMop_Op7AH9_ZbhzHYw/photo.jpg",
         "content": "Con tutto quello che successo e'obli\u0123atorio aderire al progetto \u00e8 una questione che ci riguarda tutti \u00e8 molto da vicino naturalmente questo \u00e8 il mio pensiero grazie per l' opportunit\u00e0.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -3411,7 +3840,7 @@
     },
     {
         "userName": "MrslowDJslow",
-        "userImage": "https://lh3.googleusercontent.com/-cF7ZXviOoSg/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJP1DVvHw6BFWQ2feWettu6d312b1A/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-cF7ZXviOoSg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckNn9HtvcfMJnreiC0WdDqnLVok6w/photo.jpg",
         "content": "Sinceramente installato e disinstallato subito dopo aver complicato il dizionario, lo trovo privo di utilit\u00e0 e creato solo per monitorare gli spostamenti. Non d\u00e0 nessun aiuto, se devo sapere se da qualche parte c'\u00e8 una valanga e presunto virus basta sentire gli TG senza essere monitorato anche quando si va in bagno. Ma per favore fatte i seri",
         "score": 1,
         "thumbsUpCount": 6,
@@ -3422,7 +3851,7 @@
     },
     {
         "userName": "Paolo Milanese",
-        "userImage": "https://lh3.googleusercontent.com/-9odxDfVrscs/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJMf1La_Y-3Tk43lrNqJS7pmwj5R3w/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-9odxDfVrscs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnZEoKtbdeECZPdHJasQAMB0CY6IQ/photo.jpg",
         "content": "Non \u00e8 concepibile che venga chiesto di testimoniare il proprio stato di salute, dato sensibile extra protetto dalla legge sulla privacy, con una app senza uno straccio di informativa su chi tratta i dati. Nulla che garantisca l'anonimato. Questa APP \u00e8 pensata solo per propaganda politica locale, mentre la lotta sanitaria \u00e8 UNICAMENTE NAZIONALE. State buttando i nostri soldi. Disinstallo la APP e addio Lega. Mai pi\u00f9!",
         "score": 1,
         "thumbsUpCount": 51,
@@ -3433,7 +3862,7 @@
     },
     {
         "userName": "Robedfo Stokausen",
-        "userImage": "https://lh3.googleusercontent.com/-Wj9lpZ7OEVA/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJNX_-gTDCOlMg5ldGalpdwi-MaX8g/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-Wj9lpZ7OEVA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclXCa62kKJ97hhJiEsNdP4X09LyGQ/photo.jpg",
         "content": "App che crasha ogni 2*3...le volte che non si impalla all'apertura crasha sul questionario",
         "score": 1,
         "thumbsUpCount": 1,
@@ -3455,7 +3884,7 @@
     },
     {
         "userName": "Pietro Ratti",
-        "userImage": "https://lh3.googleusercontent.com/-1WCvJH0Uu4Y/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJPbGpGSdVCRkBz79PfnSDnDYq6uag/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-1WCvJH0Uu4Y/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclgK5EgsVjspzueZUN1ZWGv64S4Lg/photo.jpg",
         "content": "Provata ora semplice e intuitiva Manca la nota cassa o cigo che dir si voglia ok basta mettere no allo spostamento per lavoro",
         "score": 3,
         "thumbsUpCount": 0,
@@ -3466,7 +3895,7 @@
     },
     {
         "userName": "minidora tihu",
-        "userImage": "https://lh3.googleusercontent.com/-3gyY511EBF0/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJMsaH0teM5p6dXquynBE0uKQYCbKg/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-3gyY511EBF0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmYe1jjVJpAcQhFzGMBh0J1nYQoIA/photo.jpg",
         "content": "Di grande aiuto",
         "score": 5,
         "thumbsUpCount": 0,
@@ -3477,7 +3906,7 @@
     },
     {
         "userName": "stev com",
-        "userImage": "https://lh3.googleusercontent.com/-6GUN1QO31PA/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJNbo1YurB-ucYaraXx8McwNwZJoWg/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-6GUN1QO31PA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnjPIbKKKma0s7s8yYU5JIGpTsCdw/photo.jpg",
         "content": "Utile",
         "score": 4,
         "thumbsUpCount": 0,
@@ -3488,7 +3917,7 @@
     },
     {
         "userName": "Uberto Barbero",
-        "userImage": "https://lh3.googleusercontent.com/-ObD4nD43oF8/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJMCf8CLnzlBEKDHe2Yf06f4s7GDrA/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-ObD4nD43oF8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclV271CfNA73sE8LG0OqW_jd4tVsQ/photo.jpg",
         "content": "Spero che serva ad uscire da questa emergenza",
         "score": 5,
         "thumbsUpCount": 0,
@@ -3499,7 +3928,7 @@
     },
     {
         "userName": "lukabenvenuto",
-        "userImage": "https://lh3.googleusercontent.com/-MX6Jv27e7i8/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJMMEBgVYY_LjkNCqC9Jv1BA1Ywclg/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-MX6Jv27e7i8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnm0fbSWnY-Nwp3K0FU1oGm0XulKQ/photo.jpg",
         "content": "Veloce e intuitiva. Due migliorie potrebbero essere: - effettuare un login con il proprio codice fiscale o altro username in modo da inserire automaticamente i dati ogni volta - prevedere una sola domanda iniziale \"\u00e8 cambiato qualcosa rispetto alla precedente compilazione?\" per chi avesse gi\u00e0 compilato in precedenza In questo modo a mio parere ci sarebbero pi\u00f9 dati e sarebbero pi\u00f9 affidabili",
         "score": 5,
         "thumbsUpCount": 5,
@@ -3565,7 +3994,7 @@
     },
     {
         "userName": "Giuseppe Cannizzaro",
-        "userImage": "https://lh3.googleusercontent.com/-LpPzMbdvJtQ/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJNe3MfEeCieE6-KAvJ8emfmgcRONQ/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-LpPzMbdvJtQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclwqsXVj8KsU7RCuNM5CrIwCw2FGw/photo.jpg",
         "content": "Molto utile",
         "score": 4,
         "thumbsUpCount": 0,
@@ -3587,7 +4016,7 @@
     },
     {
         "userName": "Chiara",
-        "userImage": "https://lh3.googleusercontent.com/-WO2G6AkfsKw/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJOpRN7_Q16ORQ8isvf9TdjJPwbdXA/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-WO2G6AkfsKw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm3cgs80h3wcJfDGqFAiLcpPf47Iw/photo.jpg",
         "content": "Per l'ennesima volta spariscono tutti i dati ed \u00e8 frustrante ricompilare il questionario. Inoltre c'\u00e8 stata una frana vicino casa e non ho ricevuto nessuna allerta, direi che se non traccia i contagi e avvisa \u00e8 totalmente inutile!",
         "score": 1,
         "thumbsUpCount": 1,
@@ -3609,7 +4038,7 @@
     },
     {
         "userName": "Marco Ornaghi",
-        "userImage": "https://lh3.googleusercontent.com/-G6gQbLeGX-g/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJNqjqpaLeGNuonrJggHGhaz2bOmMA/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-G6gQbLeGX-g/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnBkUrc_G6-28VGTn0CJBA8ZLOGhA/photo.jpg",
         "content": "Scarsa e ogni volta bisogna reinserite i dati: ridondante!",
         "score": 1,
         "thumbsUpCount": 0,
@@ -3620,7 +4049,7 @@
     },
     {
         "userName": "Daniele",
-        "userImage": "https://lh3.googleusercontent.com/-qaKH8opAZDg/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJNmlN_knT7qIg_2vQFUJoEl1Ri7gQ/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-qaKH8opAZDg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckULdRBBfXIjmDnDIa8mYa4rI6Hmg/photo.jpg",
         "content": "Ben fatta e molto utile, complimenti",
         "score": 5,
         "thumbsUpCount": 0,
@@ -3653,7 +4082,7 @@
     },
     {
         "userName": "fernando cerulo",
-        "userImage": "https://lh3.googleusercontent.com/-koZa27DUu9w/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJMXO-b5jMSu1Izh1-b3Ig1xbkCYvQ/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-koZa27DUu9w/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucljcanh57_sMfeIWPTLzvtKMpD8KA/photo.jpg",
         "content": "Scusate ma io che faccio l'infermiere in terapia intensia nella prima zona colpita \u00e8 ovvio che sono stato a contatto con casi positivi quindi il questionario andrebbe un attimo rivisto visto che ogni giorno dovr\u00f2 rispondere si a questa domanda",
         "score": 1,
         "thumbsUpCount": 0,
@@ -3675,7 +4104,7 @@
     },
     {
         "userName": "PierEnrico Chelli",
-        "userImage": "https://lh3.googleusercontent.com/-4wC78UYdt_4/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJMRZdmVDc8ONMWyxAobFNjK7ewC2A/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-4wC78UYdt_4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmoWpsQgN7Yb352mWJyYWN1rLZiuA/photo.jpg",
         "content": "Non si apre!!!!!",
         "score": 1,
         "thumbsUpCount": 0,
@@ -3708,7 +4137,7 @@
     },
     {
         "userName": "Alessandro",
-        "userImage": "https://lh3.googleusercontent.com/-4iygS_jVqU0/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJOWgvlPTb1S0FVRVldoGGbHRjLWRA/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-4iygS_jVqU0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmoszuTzYuCHek42P0lM-to-iWxZg/photo.jpg",
         "content": "Non si apre, riportando il messaggio di blocco per rilevazione jailbreaking o rooting. Tuttavia non \u00e8 mai stata fatta alcuna modifica al sistema operativo, dispositivo Samsung Galaxy S8 con Android 9",
         "score": 1,
         "thumbsUpCount": 0,
@@ -3741,7 +4170,7 @@
     },
     {
         "userName": "Giogio Venzo",
-        "userImage": "https://lh3.googleusercontent.com/-4l6s38hFdXs/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJMsFkLltiI-KP4eUzHgweKlairLpg/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-4l6s38hFdXs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclnQTKL3NE4YwdnmuoH4RZNfXWu9w/photo.jpg",
         "content": "Ottima applicazione per aiutare a combattere il virus \u00e8 a proteggerci dai possibili contagiati.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -3752,7 +4181,7 @@
     },
     {
         "userName": "Giuseppina Colnago",
-        "userImage": "https://lh3.googleusercontent.com/-khMUcAyRCzI/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJPy1lbhVmeSo69tsPOikZjhY31qoA/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-khMUcAyRCzI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl8qDqMgPjLg4MM1VG8j41plHD1gQ/photo.jpg",
         "content": "Sono soddisfatta ,scusate ogni quanto la devo compilare? Grazie",
         "score": 5,
         "thumbsUpCount": 0,
@@ -3785,7 +4214,7 @@
     },
     {
         "userName": "Cristina Gasparutti",
-        "userImage": "https://lh3.googleusercontent.com/-Pde_ACoh97s/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJPCF2-EydjD1EQA8cVLVtgicwN7VQ/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-Pde_ACoh97s/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl1dwh43CIWZ9GffysbLLJqNHWFRQ/photo.jpg",
         "content": "Lenta e difficoltosa",
         "score": 1,
         "thumbsUpCount": 0,
@@ -3807,7 +4236,7 @@
     },
     {
         "userName": "Lucia Pecchia",
-        "userImage": "https://lh3.googleusercontent.com/-lwehiVLSBLw/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJOSV8kxrBnY2-jPThfJ4ymQEqdOnw/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-lwehiVLSBLw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnBpmo7qU8tXasl1_HYh6uMbgy6dQ/photo.jpg",
         "content": "Mi sembra sciocco dover compilare tutti i giorni lo stesso form (se ho capito bene come va utilizzata) se non cambia la mia situazione sanitaria ... Una volta inserito la mia condizione di salute posso inserire SOLO eventuali variazioni del mio stato qualora in futuro dovesse cambiare la mia situazione sanitaria? Oltretutto,all'utente non viene dato alcun riscontro diretto (es.situazione contagio nella sua zona e simili), e ritengo che ci\u00f2 sia scarsamente motivante alla partecipazione attiva",
         "score": 3,
         "thumbsUpCount": 8,
@@ -3829,7 +4258,7 @@
     },
     {
         "userName": "Erina Maria Rosadoni",
-        "userImage": "https://lh3.googleusercontent.com/-ACMxFa1lGJc/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJM4_KCFH9XHqj2x7NAcabcHo5gPvQ/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-ACMxFa1lGJc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckhgsu5xtCTdPUTiNEOmn1tU0FFSQ/photo.jpg",
         "content": "semplice da compilare ho solo dei dubbi se veramente ho fatto tutto bene",
         "score": 4,
         "thumbsUpCount": 0,
@@ -3851,7 +4280,7 @@
     },
     {
         "userName": "ferdinando marletta",
-        "userImage": "https://lh3.googleusercontent.com/-SVt4qhNTj-E/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJP0plAtIWhWBGFAup0VX4fyiBZJoQ/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-SVt4qhNTj-E/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclDFUru-_G_qGIja9i_3mxh9wFrjA/photo.jpg",
         "content": "Se riuscir\u00f2 ad averla",
         "score": 1,
         "thumbsUpCount": 0,
@@ -3920,7 +4349,7 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Giadd6d3bZ005juQ2xpufSGiTeW5CdW-kT4EWmMcA",
         "content": "Non ho riscontrato nessun problema con l'applicazione, sembrerebbe essere ottimizzata bene, per\u00f2 non \u00e8 possibile implementare la possibilit\u00e0 di vedere i numeri del contagio divisi per comuni ? Avete tutti i dati, non mi sembra cos\u00ec impossibile, inoltre solo fare vedere i numeri, senza le posizioni dei contagiati, non violerebbe la privacy.",
         "score": 4,
-        "thumbsUpCount": 23,
+        "thumbsUpCount": 24,
         "reviewCreatedVersion": "1.6.0",
         "at": "2020-04-21 13:17:05",
         "replyContent": "Ciao Matteo, tramite l'App ALLERTALOM non \u00e8 possibile visualizzare la situazione in real-time della casistica dell'infezione, bens\u00ec in essa vengono pubblicate le ultime indicazioni di pubblica tutela rivolte alla popolazione della regione.",
@@ -3928,7 +4357,7 @@
     },
     {
         "userName": "Caterina Cavalletto",
-        "userImage": "https://lh3.googleusercontent.com/-BzcVJ29jlLw/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJOVD0Z_4xzDHWlgXWxvrWV2Kk1xZw/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-BzcVJ29jlLw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclSJF_nMEa6UFpgYWBm1uKrB7pIDA/photo.jpg",
         "content": "Io non do nessuna possibilit\u00e0 a nessun ente di essere schedata, quando stavo male Nessuno ats e regione non mi hanno aiutato ne fatto il tampone.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -3939,7 +4368,7 @@
     },
     {
         "userName": "Uciano3 Papa",
-        "userImage": "https://lh3.googleusercontent.com/-1w3OD8oPeoo/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJOHBa19LMLrMJIsa-csXjkVlKbQkA/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-1w3OD8oPeoo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmGrnMoz6qMEFzdDtnfBz09MiFVoA/photo.jpg",
         "content": "Ottima",
         "score": 5,
         "thumbsUpCount": 0,
@@ -3950,7 +4379,7 @@
     },
     {
         "userName": "Angiolina Terlisio",
-        "userImage": "https://lh3.googleusercontent.com/-xG3rFrbTjJM/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJMnjk4UQd2HB7LCspq1aq_9DpoVUA/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-xG3rFrbTjJM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnxJiuDrsI8QjmDUxbhF5XoyemD7g/photo.jpg",
         "content": "Trovo positiva l'indagine",
         "score": 5,
         "thumbsUpCount": 0,
@@ -3972,7 +4401,7 @@
     },
     {
         "userName": "Edoardo Guerrini",
-        "userImage": "https://lh3.googleusercontent.com/-LIIWrv1OhPs/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJPxT3_OxnsvsAhhVQIYe4dNwkaMFQ/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-LIIWrv1OhPs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmTQVyWLluCj4aSSXyyOJqe_wSqSg/photo.jpg",
         "content": "su Asus zenfone, dopo la compilazione dei dati (form poco studiato), mi ha bloccato il cellulare. riavviato cel e disinstallato.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -3983,7 +4412,7 @@
     },
     {
         "userName": "roberto contursi",
-        "userImage": "https://lh3.googleusercontent.com/-1Jqb5nf1D6E/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJMng6lo8lYSQiEGrYrTbS4xWwICFQ/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-1Jqb5nf1D6E/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucleaqruAKufH4jcIWkn0wi9DbFLDQ/photo.jpg",
         "content": "Non serve a molto chiedono solo informazioni alle quali se si vuole si pu\u00f2 rispondere anche non esattamente per cui il.rischio permane anzi .non c \u00e8 nessuna mappatura della diffusione virus ,senza altro pi\u00f9 utile di altre in questo periodo tipo neve ecc.",
         "score": 2,
         "thumbsUpCount": 0,
@@ -3994,7 +4423,7 @@
     },
     {
         "userName": "Angelo Lapadula",
-        "userImage": "https://lh3.googleusercontent.com/-9AKdHkiQKLc/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJMvCxpdYYfnCaFN4I2ro_SIY1cCwA/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-9AKdHkiQKLc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckQt1d0hdo9dkuw-vi_idtCgtetTA/photo.jpg",
         "content": "Non funziona",
         "score": 1,
         "thumbsUpCount": 0,
@@ -4005,7 +4434,7 @@
     },
     {
         "userName": "Giovanna Morosini",
-        "userImage": "https://lh3.googleusercontent.com/-2suxzErPFRk/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJOAjzv-Vv4NSKuXiNUeHDtiHdEpPg/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-2suxzErPFRk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnS39d6iULGJ0VnY1g3-RPlt7JjxA/photo.jpg",
         "content": "Non riesco ad aprire l'app perche\" esce messaggio ke non e' possibile aprirla xke\" ha subito provesso di jaibreaking o rooting x la privacy",
         "score": 1,
         "thumbsUpCount": 0,
@@ -4016,7 +4445,7 @@
     },
     {
         "userName": "Ludovica Bonaldo",
-        "userImage": "https://lh3.googleusercontent.com/-c4unoTd1xu4/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJMwaFcTU4uBXl8i0jQ27aPGEfjaFA/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-c4unoTd1xu4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclGXQdEZV2P-G9DReS1DlYFB-Rmkw/photo.jpg",
         "content": "L'applicazione non \u00e8 utilizzabile perch\u00e9 mi segnala che il mio smartphone ha subito un processo di rooting, anche se non l'ho mai fatto. Uso uno Xiaomi Redmi Note 5. Aggiornamento: con la nuova versione riesco ad accedere, utilizzare l'app e a compilare il questionario.",
         "score": 4,
         "thumbsUpCount": 1,
@@ -4027,7 +4456,7 @@
     },
     {
         "userName": "Mauro Carboni",
-        "userImage": "https://lh3.googleusercontent.com/-z2hrF2xZQWg/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJPbcyyndgZa_2KnyX8hVJUkoMcSjA/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-z2hrF2xZQWg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmuJ-ch06L4LbjvWeni3letMtjMkQ/photo.jpg",
         "content": "In pratica \u00e8 quasi impossibile avviarla, non so quanta banda richieda ma anche in 4g da errore (servizio non disponibile) oppure i mette una vita a caricarsi rimanendo sempre sulla pagina iniziale con il cerchio che gira",
         "score": 1,
         "thumbsUpCount": 0,
@@ -4038,7 +4467,7 @@
     },
     {
         "userName": "Matteo Fontana",
-        "userImage": "https://lh3.googleusercontent.com/-AAySaBol7go/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJMLqfkZu_DuEFBjHYUTFcIJWCYUhA/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-AAySaBol7go/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn5r62w8Ul-pEGF89Sss6BHdPV8xg/photo.jpg",
         "content": "Faccio il questionario e poi non c \u00e8 nessuna informazione sul covid ovvero non ho nessuna mappa o tabella real time...",
         "score": 1,
         "thumbsUpCount": 0,
@@ -4082,7 +4511,7 @@
     },
     {
         "userName": "Mohamed halimi",
-        "userImage": "https://lh3.googleusercontent.com/-6Mt23SS2ETk/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJNHebNIZSBbkwY2N3PAZbkLADGcdg/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-6Mt23SS2ETk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmXBAJ_oGdNdj4AS25kC0YIE6xxiw/photo.jpg",
         "content": "Non dice quanti sono i contagi",
         "score": 1,
         "thumbsUpCount": 0,
@@ -4104,7 +4533,7 @@
     },
     {
         "userName": "G_785632 Capoferri",
-        "userImage": "https://lh3.googleusercontent.com/-CrFL2ycVqQ8/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJN-5O6JMHzdHa_KbleGL_QNxe1x4g/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-CrFL2ycVqQ8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucki2vOfhvQ8h7W4uHlreB00WyTAaA/photo.jpg",
         "content": "Facile e intuitivo",
         "score": 5,
         "thumbsUpCount": 0,
@@ -4159,7 +4588,7 @@
     },
     {
         "userName": "Alessandra Bottagisi",
-        "userImage": "https://lh3.googleusercontent.com/-Qy_ZqYzoVAs/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJMKxYvyfSxCA0cI2tqt1PqBZ7zLig/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-Qy_ZqYzoVAs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckwqpAFTGueDMWLj1RlrNFJfJGNlQ/photo.jpg",
         "content": "Non si capisce come funziona. Non serve a niente. Se non verr\u00e0 migliorata, l' unica soluzione sar\u00e0 disinstallarla.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -4181,7 +4610,7 @@
     },
     {
         "userName": "Stefano Bonacina",
-        "userImage": "https://lh3.googleusercontent.com/-hMj38gV8Fz0/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJOcfHup3msNxwkkzxpra94rrRSTpA/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-hMj38gV8Fz0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckpOZazVG-oCHL_Ov42-a9-FOHZ-A/photo.jpg",
         "content": "Messa e tolta non va e impalla il cell",
         "score": 1,
         "thumbsUpCount": 1,
@@ -4192,7 +4621,7 @@
     },
     {
         "userName": "Iuri Frenquelli",
-        "userImage": "https://lh3.googleusercontent.com/--df1GOO7HLk/AAAAAAAAAAI/AAAAAAAAFIw/AAKWJJNbBOzmfH8SSCz6HDxVs0dYFMZibg/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/--df1GOO7HLk/AAAAAAAAAAI/AAAAAAAAFIw/AMZuucldKl1uaincp4-5r0DouucnFe7e5A/photo.jpg",
         "content": "Chiedete di aggiornare spesso i dati inseriti anche se non variano. Ora che avete dato la possibilit\u00e0 di inserire le segnalazioni anche per altre persone del nucleo familiare sarebbe opportuno anche solo poter inserire una voce da flaggare dove si conferma che non ci sono state variazioni (per non stare a ricompilare tutte le innumerevoli voci). Grazie",
         "score": 3,
         "thumbsUpCount": 9,
@@ -4203,7 +4632,7 @@
     },
     {
         "userName": "fabrizio orsi",
-        "userImage": "https://lh3.googleusercontent.com/-kGm529e228A/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJP1AA_vAbmzhB1rDYYSjB-sqFwo0A/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-kGm529e228A/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnAj-MiJVCiV4Xd6yTNo2swt54LJw/photo.jpg",
         "content": "Non funziona",
         "score": 1,
         "thumbsUpCount": 0,
@@ -4258,7 +4687,7 @@
     },
     {
         "userName": "Simone Bergo",
-        "userImage": "https://lh3.googleusercontent.com/-xooDwdR2B88/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJM3-4asioq5GX53Hr_Zxwa6e5ABtw/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-xooDwdR2B88/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclbpwrVt9tBRg212kZL1X3S3-MeAg/photo.jpg",
         "content": "Un'app inutile un dispendio di risorse pubbliche possibile che nel 2020 non si riesca a far di meglio",
         "score": 1,
         "thumbsUpCount": 0,
@@ -4302,7 +4731,7 @@
     },
     {
         "userName": "Bianca Natali",
-        "userImage": "https://lh3.googleusercontent.com/-OAYU_mzl0rw/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJOUhyOsskDqPUsMHAFZHxsgkiNScg/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-OAYU_mzl0rw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckHnSKmG5sXStl4CjjKxpjLDJLAew/photo.jpg",
         "content": "Ok.mi sembra giusto",
         "score": 5,
         "thumbsUpCount": 0,
@@ -4313,7 +4742,7 @@
     },
     {
         "userName": "Rocco Castagno",
-        "userImage": "https://lh3.googleusercontent.com/-w10Wh0lhZ6M/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJM5pi6tEKQZcJNPjzaLpKrI8RKjQA/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-w10Wh0lhZ6M/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckHWQ_CET4klcUE7Q_A_DL8GvMw5A/photo.jpg",
         "content": "Forse \u00e8 meglio aspettare quella del governo che uscir\u00e0 da poco anzi no la app \u00e8 stata creata da una societ\u00e0 che appartiene alla famiglia Berlusconi, senza una gara di bando strano regalo di conte a Berlusconi in cambio di che cosa? Io non scarico nessuna App ci vogliamo controllare tramite app rivoluzione svegliamoci",
         "score": 1,
         "thumbsUpCount": 0,
@@ -4335,7 +4764,7 @@
     },
     {
         "userName": "Sandro C\u00f2",
-        "userImage": "https://lh3.googleusercontent.com/-Tyy6vFih9t8/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJPAES4YTaIz1ehkn2cTxG7KiNN6FA/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-Tyy6vFih9t8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck_vTRR5t2DQ9DunnuD5YUD7GNVFA/photo.jpg",
         "content": "Non mi fa inviare una volta completate le domande",
         "score": 1,
         "thumbsUpCount": 0,
@@ -4357,7 +4786,7 @@
     },
     {
         "userName": "Sergio Grattirola",
-        "userImage": "https://lh3.googleusercontent.com/-a46QOdL0FT8/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJMCtRusFeQ0IxhyvTEP6PHKtY4DRQ/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/-a46QOdL0FT8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckAuL178pUsuosNl2Owb3PBgsH34w/photo.jpg",
         "content": "Non male",
         "score": 4,
         "thumbsUpCount": 0,
@@ -4552,17 +4981,6 @@
         "at": "2020-04-20 16:01:39",
         "replyContent": "Grazie Alena per l'apprezzamento!",
         "repliedAt": "2020-04-20 16:27:02"
-    },
-    {
-        "userName": "Samuele Gallini",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gg7dyAVDTFW0yDIANoX2eVbbqTBhN3OpdJe-0crUw",
-        "content": "Adesso sapete che non ho la febbre ne altri sintomi. Quali altri scopi ha il questionario ?",
-        "score": 4,
-        "thumbsUpCount": 2,
-        "reviewCreatedVersion": "1.5.0",
-        "at": "2020-04-20 15:44:41",
-        "replyContent": "Ciao Samuele, il tuo contributo \u00e8 importante per le autorit\u00e0 sanitarie di Regione Lombardia al fine di quantificare con maggior precisione il livello di sviluppo del contagio e la distribuzione territoriale dei casi di positivit\u00e0, sulla base dei sintomi segnalati.",
-        "repliedAt": "2020-04-20 16:08:12"
     },
     {
         "userName": "Roberto Cosentino",
@@ -5445,17 +5863,6 @@
         "repliedAt": "2020-04-29 09:51:30"
     },
     {
-        "userName": "Guido Berardinelli",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiXjw_oaVVBATcB0-i2qQPOhLMep0NahLR2NFJyhQ",
-        "content": "Ho notato che la app riesce ad avviarsi solo in 4g. In 3g parte ma dice servizio non disponibile quando scarica i dati (io ho operatore Iliad e a volte ho migliore stabilitaa' in 3g).",
-        "score": 3,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.5.0",
-        "at": "2020-04-18 01:23:24",
-        "replyContent": "Ciao Guido, i nostri sviluppatori hanno individuato il problema e rilasciato un aggiornamento Ti ringrazio per la segnalazione e ti invito ad aggiornare l'applicazione all'ultima versione disponibile Se hai bisogno di ulteriore assistenza, scrivi a info.allertalom@ariaspa.it",
-        "repliedAt": "2020-04-29 09:49:42"
-    },
-    {
         "userName": "Sisi B",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhESQLGk6xfTuWOb2H43GJzkEq_vfag_LuotQvWrQ",
         "content": "Completamente inutile. Non si possono vedere zone dove sono i contagiati, ne numeri per cap etc. A chi serve vedere vedere varie info inutili, neve, incendi etc. Pensavo che si tratta di una App simile di quella di Korea Disinstallato subito.",
@@ -5622,7 +6029,7 @@
     },
     {
         "userName": "Anto Molly",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gj-5DsKFzPerJSz0gQqEE_Hi0VI6b7mRPHEbrXz",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhpIQF6qh5N-usw0ALlmTiApHCm1RsKKML37vZSHtY",
         "content": "Commentato relativo alla compilazione Covid19: dovete tenere conto di inserire una nota \"sei affetto da allergie di stagione?\" \u00c8 importante l'inserimento di questa domanda perch\u00e9 l'allergia stagionale provoca: starnuti frequenti, o congiuntivite o prurito agli occhi, secrezione nasale domande che avete inserito nella scheda sintomi da covid. Bisogna inserire la domanda sull'allergia cos\u00ec potete valutare coi giusti parametri. Grazie",
         "score": 3,
         "thumbsUpCount": 0,
@@ -5864,7 +6271,7 @@
     },
     {
         "userName": "Maurizio",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhU8mIXEdDJTubXAA8h33LzzvbpSHi2SnpAvNbtMg",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gi9PlAnkjngOEmIgPt0LQGZHFK0ddwgMdk4qFz1sys",
         "content": "Sinceramente mi aspettavo di meglio... Se ieri abitavo a casa mia e lavoravo in una citt\u00e0 oggi suppongo di abitare bella stessa casa e lavorare nello stesso posto.... se cambia qualcosa lo cambio..... perch\u00e9 tutte le volte reinserirlo?",
         "score": 2,
         "thumbsUpCount": 1,
@@ -5885,7 +6292,7 @@
         "repliedAt": "2020-04-28 18:33:16"
     },
     {
-        "userName": "Raffaele Trani",
+        "userName": "Geom. Raffaele Trani",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhoTv1XiRkBMh_TggaRmjY3_5gK-dZlsJprmBO-Iw",
         "content": "\u00c8 fatta male. I frontalieri non possono indicare il loro luogo di lavoro. E siccome sono pi\u00f9 di 70000 come fate a monitorare in modo corretto?",
         "score": 1,
@@ -6876,7 +7283,7 @@
     },
     {
         "userName": "Stacco 76",
-        "userImage": "https://lh3.googleusercontent.com/-xcviKlQ-XCk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnusMEQTw6YcdBTtj05OQS5aGNUFg/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiDQkexnqmZmdqRRjYlqQqSP9jIKSPNIvx3Bj8V1g",
         "content": "Non \u00e8 possibile aprire l'app se il device \u00e8 rootato, risolvete.",
         "score": 2,
         "thumbsUpCount": 0,
@@ -8339,7 +8746,7 @@
     },
     {
         "userName": "Domenico Tommasino",
-        "userImage": "https://lh3.googleusercontent.com/-sSfVW79F3mI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnq0A1Sdw6qBcRUik0m2J6CvvdZNA/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GheatyR1JRaQIUF0_63a41uUhDX-WmtHuKh6ctFBw",
         "content": "Ok",
         "score": 4,
         "thumbsUpCount": 0,
@@ -9911,17 +10318,6 @@
         "repliedAt": "2020-04-07 19:17:18"
     },
     {
-        "userName": "Maurizio Brianza",
-        "userImage": "https://lh3.googleusercontent.com/-Lenz1pkodqs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclp2C62noR4h4m_aPab7tjv3XiehA/photo.jpg",
-        "content": "L'ha scritta Topo Gigio?",
-        "score": 2,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.5.0",
-        "at": "2020-04-07 17:47:43",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
         "userName": "Marco Colombo",
         "userImage": "https://lh3.googleusercontent.com/-TH-ax2kR6ac/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmsZKAFqIYeela5p_lNdVTqay1ErA/photo.jpg",
         "content": "Perennemente inchiodata e in crush per errore...",
@@ -10162,17 +10558,6 @@
         "at": "2020-04-06 23:26:25",
         "replyContent": "Grazie Paola per il tuo suggerimento. Lo invieremo al gruppo di ricerca di medici e ricercatori dell\u2019Ospedale San Matteo e dell\u2019Universit\u00e0 degli Studi di Pavia che ha ideato il questionario. Ogni contributo degli utenti \u00e8 prezioso!",
         "repliedAt": "2020-04-07 19:36:49"
-    },
-    {
-        "userName": "barbara novito",
-        "userImage": "https://lh3.googleusercontent.com/-5Z2mmEVJY2g/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmsLCldV7EHf9wavS6z5wFld3C9aQ/photo.jpg",
-        "content": "Andrebbe migliorato UX. Ad ogni accesso bisogna compiere tutti gli step da capo. Dell'autorizzazione privacy, al setting x gli alert delle notifiche, al questionario. Poco smart, va migliorara per rendere il tutto pi\u00f9 veloce ed invogliare gli utenti alla collaborazione .",
-        "score": 2,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.5.0",
-        "at": "2020-04-06 23:20:06",
-        "replyContent": "Ciao Barbara, grazie per la segnalazione. L'abbiamo inoltrata ai servizi tecnici. Ogni contributo \u00e8 prezioso.",
-        "repliedAt": "2020-04-07 19:38:25"
     },
     {
         "userName": "Luciano Cavagna",
@@ -10613,390 +10998,5 @@
         "at": "2020-04-06 13:31:09",
         "replyContent": "Ciao Marina, abbiamo inoltrato la tua segnalazione ai servizi tecnici. Ogni contributo \u00e8 prezioso !",
         "repliedAt": "2020-04-15 15:24:49"
-    },
-    {
-        "userName": "Alessandro Condy",
-        "userImage": "https://lh3.googleusercontent.com/-KXaHL7IzNyQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnCG2zMmVzHTTQ7965FaW8r4irzUg/photo.jpg",
-        "content": "Ottimo servizio grazie",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.5.0",
-        "at": "2020-04-06 13:28:56",
-        "replyContent": "Grazie Alessandro della tua recensione e grazie di tutte le stelline che fanno crescere la nostra valutazione. Cercheremo instancabilmente di fare in modo che tutti quelli che usano l'app, la apprezzino come te!",
-        "repliedAt": "2020-04-15 15:37:41"
-    },
-    {
-        "userName": "Moreno Marasco",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gh9JdnmCWFmhLhD7EBcasapIug32yy3c3GK1ti_iHg",
-        "content": "Interessante ma migliorabile: 1. Non ha senso che chiediate di inserire citt\u00e0 di residenza e lavoro, \u00e8 sufficiente che chiediate il cap. 2. Memorizzate i dati per successive modifiche, non ha senso partire da zero ogni qualvolta l'utente desideri aggiornare la propria situazione.",
-        "score": 1,
-        "thumbsUpCount": 1,
-        "reviewCreatedVersion": "1.5.0",
-        "at": "2020-04-06 13:23:46",
-        "replyContent": "Ciao Moreno, per il tuo suggerimento. Lo invieremo al gruppo di ricerca di medici e ricercatori dell\u2019Ospedale San Matteo e dell\u2019Universit\u00e0 degli Studi di Pavia che ha ideato il questionario. Ogni contributo degli utenti \u00e8 prezioso!",
-        "repliedAt": "2020-04-06 14:25:43"
-    },
-    {
-        "userName": "Filippo Besana",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Ghl4weSHiQQd43y6A3dc9abgjllyaqGTubIEMPqV4U",
-        "content": "Non si pu\u00f2 usare su dispositivi con root. Poi non lamentatevi che i dati raccolti sono parziali! RISP: E' proprio questo inopportuno controllo che fa venire meno lo scopo di controllo dell'epidemia con cui l'app \u00e8 stata pensata. Inoltre \u00e8 improponibile pensare di far cambiare cellulare o di comprarne uno apposta solo pper far andare un'app. Come al solito le cose fatte in italia sono giuste a met\u00e0. Che tristezza.... Beh, che vi devo dire? Contenti voi...",
-        "score": 1,
-        "thumbsUpCount": 32,
-        "reviewCreatedVersion": "1.5.0",
-        "at": "2020-04-06 13:23:16",
-        "replyContent": "Ciao Filippo, l'applicazione non tratta dati sensibili, bens\u00ec dati di natura comune. Ciononostante, si \u00e8 ritenuto opportuno inserire controlli di dispositivo a fronte di jailbreaking e rooting.Ovvero si nega l'utilizzo a quei dispositivi che risultano siano stati alterati rispetto al loro funzionamento originale",
-        "repliedAt": "2020-04-15 15:40:27"
-    },
-    {
-        "userName": "Ettio Cogoli",
-        "userImage": "https://lh3.googleusercontent.com/-W-VSwrwfYDg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclx56RU8HDZ-Klnps7ZXl1yem8j9w/photo.jpg",
-        "content": "App completamente inutile perch\u00e9 si apre una volta su cento, anche l'aggiornamento sulla condizione di salute non tiene conto delle impostazioni precedenti bisogna sempre aggiornare (praticamente come sempre quando si pu\u00f2 fare una cosa utile si fa sempre male peccato).",
-        "score": 1,
-        "thumbsUpCount": 1,
-        "reviewCreatedVersion": "1.5.0",
-        "at": "2020-04-06 13:12:14",
-        "replyContent": "Ciao! l'errore da te segnalato e collegabile al grande numero di utilizzatori o alla velocit\u00e0 di rete. Se non riesci ad accedere alle notizie dalle notifiche ti suggeriamo di accedere alle notifiche avviando l'app! Interverremo per migliorare la tua esperienza utente!",
-        "repliedAt": "2020-04-15 15:42:22"
-    },
-    {
-        "userName": "stefano barbesta",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Ghh6z88mJTVyL15ykfUCJkOnOt8sxliu9q84_kYTw",
-        "content": "All 'arrivo delle notifiche, cliccando l' applicazione non si apre, occorre resettare e rientrare",
-        "score": 3,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.5.0",
-        "at": "2020-04-06 13:12:02",
-        "replyContent": "Ciao Stefano, l'errore da te segnalato e collegabile al grande numero di utilizzatori o alla velocit\u00e0 di rete. Se non riesci ad accedere alle notizie dalle notifiche ti suggeriamo di accedere alle notifiche avviando l'app! Interverremo per migliorare la tua esperienza utente!",
-        "repliedAt": "2020-04-15 15:44:44"
-    },
-    {
-        "userName": "Carlo Paglia",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GicrsFyii5ytIo9rgpkwEtPmu1WckVqdoHpHtsEJw",
-        "content": "Una volta partito non va avanti! Disinstallo!",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.5.0",
-        "at": "2020-04-06 13:11:18",
-        "replyContent": "Ciao Carlo, vorremmo comprendere la difficolt\u00e0 da te riscontrata. Scrivici a: info.allertalom@ariaspa.it indicando l'errore riscontrato e i dati del dispositivo utilizzano per permetterci di effettuare le verifiche del caso.",
-        "repliedAt": "2020-04-15 15:46:42"
-    },
-    {
-        "userName": "Marco Caruzzo",
-        "userImage": "https://lh3.googleusercontent.com/-S8_Z82iF_R8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucme2XnE6YpyXW-Qc2IKqAuNthSuJA/photo.jpg",
-        "content": "Cliccando su qualsiasi notifica o si blocca l'app o restituisce un errore di contenuto non disponibile.",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.5.0",
-        "at": "2020-04-06 13:09:12",
-        "replyContent": "Ciao Marco, se non riesci ad accedere  alle notizie dalle notifiche ti suggeriamo di accedere alla sezione  info coronavirus dall'apposita sezione  avviando l'app!",
-        "repliedAt": "2020-04-15 15:48:55"
-    },
-    {
-        "userName": "Leopoldo Arienti",
-        "userImage": "https://lh3.googleusercontent.com/-Ay2tBKenIm4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnQBmb_E2NdmPLcN1TsrMFm4jtpnw/photo.jpg",
-        "content": "Non so se sia dovuto all'elevato numero di accessi, ma il pi\u00f9 delle volte non si riesce a leggere le notifiche. Ci prova un po', poi si blocca e d\u00e0 errore",
-        "score": 2,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.5.0",
-        "at": "2020-04-06 13:08:35",
-        "replyContent": "Ciao Leopoldo, l'errore da te segnalato e collegabile al grande numero di utilizzatori o alla velocit\u00e0 di rete. Se non riesci ad accedere alle notizie dalle notifiche ti suggeriamo di accedere alle notifiche avviando l'app! Interverremo per migliorare la tua esperienza utente!",
-        "repliedAt": "2020-04-15 15:56:54"
-    },
-    {
-        "userName": "Alessandro Peraldini",
-        "userImage": "https://lh3.googleusercontent.com/-cKIrpQXTPUM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnik8LDmraSkQPuI6Y7qu4st6Kceg/photo.jpg",
-        "content": "Fa schifo e un continuo blocco in apertura a che serve",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": null,
-        "at": "2020-04-06 13:07:44",
-        "replyContent": "Ciao Alessandro, se ti riferisci alle notifiche, l'errore \u00e8 collegabile al grande numero di utilizzatori o alla velocit\u00e0 di rete. Se non riesci ad accedere alle notizie dalle notifiche ti suggeriamo di accedere alle notifiche avviando l'app! Se riscontri problemi di altro genere scrivici a : info.allertalom@ariaspa.it e verificheremo!",
-        "repliedAt": "2020-04-15 15:59:50"
-    },
-    {
-        "userName": "Stefano Gentilini",
-        "userImage": "https://lh3.googleusercontent.com/-VvGTiQyVNaA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnNHEbxZmVXrDY84Zfa202trq3Vzg/photo.jpg",
-        "content": "NON si riesce mai ad accedere alle ultime notizie...ti compare la notifica ma poi non arriva mai a caricare la pagina",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.5.0",
-        "at": "2020-04-06 13:05:46",
-        "replyContent": "Ciao stefano, se non riesci ad accedere alle notizie dalle notifiche ti suggeriamo di accedere alla sezione  info coronavirus avviando l'app!",
-        "repliedAt": "2020-04-15 16:02:55"
-    },
-    {
-        "userName": "Andrea Belvisi",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gi2n7OIU-uayIo5CtYBFfmof_ZBoiHKskUt73--eA",
-        "content": "Disinstallata. Continui blocchi e caricamenti infiniti sia con Wi-Fi che con rete mobile. Meno male che dovrebbe essere un'app di pubblica utilit\u00e0. Pessima.",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.5.0",
-        "at": "2020-04-06 13:05:46",
-        "replyContent": "Ciao Andrea ,  il problema \u00e8 stato segnalato agli sviluppatori, ti invitiamo a voler riprovare ad accedere!",
-        "repliedAt": "2020-04-15 16:00:54"
-    },
-    {
-        "userName": "mario pedrocchi",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Ggn-gQR5ntJIu0OZcu__4ViKi8Qj2vpn5jb0wl38g",
-        "content": "Non si aprono le notifiche che ricevo",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.5.0",
-        "at": "2020-04-06 13:05:25",
-        "replyContent": "Ciao Mario, l'errore da te segnalato e collegabile al grande numero di utilizzatori o alla velocit\u00e0 di rete. Se non riesci ad accedere alle notizie dalle notifiche ti suggeriamo di accedere alle notifiche avviando l'app! Interverremo per migliorare la tua esperienza utente!",
-        "repliedAt": "2020-04-15 16:05:38"
-    },
-    {
-        "userName": "Roberto Resca",
-        "userImage": "https://lh3.googleusercontent.com/-5plwsAkj5jQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucksKzA0bLDV3gbVtZ_cLSeMz0hBeA/photo.jpg",
-        "content": "Quando ricevo avviso non si apre mai la pagina",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.5.0",
-        "at": "2020-04-06 13:05:09",
-        "replyContent": "Ciao Roberto, l'errore da te segnalato e collegabile al grande numero di utilizzatori o alla velocit\u00e0 di rete. Se non riesci ad accedere alle notizie dalle notifiche ti suggeriamo di accedere alle notifiche avviando l'app! Interverremo per migliorare la tua esperienza utente!",
-        "repliedAt": "2020-04-15 16:07:55"
-    },
-    {
-        "userName": "Claudia Aceti",
-        "userImage": "https://lh3.googleusercontent.com/-JBNeGmdB1TY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmTnXTn4EUhvuil8Qknk0u8jyLp1Q/photo.jpg",
-        "content": "In questi giorni funziona poco ... sar\u00e0 il momento di contingenza per il questionario COVID19? Inoltre non posso indicare il comune dove lavoro perch\u00e9 fuori regione e tantomeno mio marito che lavora in CH. Potete verificare e correggere? Grazie!",
-        "score": 3,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.5.0",
-        "at": "2020-04-06 12:56:27",
-        "replyContent": "Ciao Claudia, ti suggeriamo di accedere alle notifiche info coronavirus dall'apposita sezione avviando l'app! Ti ringraziamo per il suggerimento, abbiamo gi\u00e0 inviato il tuo suggerimento ai servizi tecnici.",
-        "repliedAt": "2020-04-15 16:12:09"
-    },
-    {
-        "userName": "Emiddio Polcaro",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gi4-i7ya83d0rEZbOLx5M-ilLMuRKV7vI4bB-AxWg",
-        "content": "Correggete \"qual'\u00e8\" nel questionario alla domanda sulla sintomatologia",
-        "score": 4,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": null,
-        "at": "2020-04-06 12:56:19",
-        "replyContent": "Ciao Ermiddio, grazie per averci contattato, abbiamo inviato la tua segnalazione ai servizi tecnici!",
-        "repliedAt": "2020-04-15 16:15:17"
-    },
-    {
-        "userName": "F. Ferrari",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Givt4DEJJWVEta4fobyB7OibWZKcs0r-gHIT3hd",
-        "content": "La trovo praticamente inutile oltre che poco intuitiva e malfunzionante. Disistallata, risparmiamo tempo !",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.5.0",
-        "at": "2020-04-06 12:51:20",
-        "replyContent": "Ciao! siamo spiacenti che la tua esperienza non corrisponda alle tue aspettative. Lavoreremo per migliorare!",
-        "repliedAt": "2020-04-06 12:24:22"
-    },
-    {
-        "userName": "Franca Piromallo",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gi-ZR63JHUTrhSkCIu0w6Vpvu-qHKwJQYJIvJPr2w",
-        "content": "ho compilato il questionario ma non riesco ad inviarlo? Mi sembra una ottima iniziativa ma come posso aderire!!",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.5.0",
-        "at": "2020-04-06 12:05:37",
-        "replyContent": "Ciao Franca per poter inviare il questionario devi assicurarti di aver compilato tutti i campi contrassegnati da asterisco rosso e di aver attivato il cursore riferito alla privacy. Se riscontri lo stesso problema contattaci, scrivi a : info.allertalom@ariaspa.it",
-        "repliedAt": "2020-04-15 16:18:37"
-    },
-    {
-        "userName": "PInuccio Podda",
-        "userImage": "https://lh3.googleusercontent.com/-NKSExgsa8Js/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn3SQQGN0hxyloSVSc17kgFlqPc8w/photo.jpg",
-        "content": "Quando arrivano notizie non riesci mai a leggerle perch\u00e9 non si apre mai. Risolvete xfavore",
-        "score": 3,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.5.0",
-        "at": "2020-04-06 12:00:15",
-        "replyContent": "Ciao Pinuccio, se non riesci ad accedere alle notizie dalle notifiche ti suggeriamo di accedere alla sezione  info coronavirus dall'apposita sezione  avviando l'app!",
-        "repliedAt": "2020-04-15 16:23:05"
-    },
-    {
-        "userName": "Salvatore Furfaro",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhP3vDWATXyMS5PCue5comSM3P9mkVaJ-rxQAO7tg",
-        "content": "Le notifiche non si aprono",
-        "score": 2,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.5.0",
-        "at": "2020-04-06 11:53:17",
-        "replyContent": "Ciao Salvatore, l'errore da te segnalato e collegabile al grande numero di utilizzatori o alla velocit\u00e0 di rete. Se non riesci ad accedere alle notizie dalle notifiche ti suggeriamo di accedere alle notifiche avviando l'app! Interverremo per migliorare la tua esperienza utente!",
-        "repliedAt": "2020-04-15 16:24:52"
-    },
-    {
-        "userName": "Daniele Baroni",
-        "userImage": "https://lh3.googleusercontent.com/-IF74ckCDLnQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn0g5xSl--Kqm-O1ZyDsdda1AyAIA/photo.jpg",
-        "content": "Non capisco per quale motivo ogni volta che la apro mi venga richiesto, di nuovo, di accettare i termini contrattuali, l'informativa privacy e l'elenco delle notifiche. In pi\u00f9, per l'aggiornamento del questionario covid19 viene sempre richiesto di nuovo il CAP di casa e del lavoro, che sono dati che dovrebbero rimanere salvati. Insomma, c'\u00e8 da migliorare. Grazie",
-        "score": 2,
-        "thumbsUpCount": 32,
-        "reviewCreatedVersion": "1.5.0",
-        "at": "2020-04-06 11:45:55",
-        "replyContent": "Ciao Daniele, non \u00e8 previsto che i dati inseriti in precedenza vengano memorizzati, i campi devono essere compilati ad ogni inoltro! Grazie per il suggerimento, lo invieremo ai nostri sviluppatori!",
-        "repliedAt": "2020-04-15 16:26:17"
-    },
-    {
-        "userName": "Zarkron",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Ghpjrgg34bmxCLDuleyjxXcQDvXs1yRRBi1_ddr",
-        "content": "Tre telefoni su tre che usiamo in famiglia hanno installata questa applicazione e su tutti e tre ogni qualvolta tentiamo di aprirla e vedere gli aggiornamenti si blocca non permettendoci pi\u00f9 di trovare le ultime notizie riguardo il covid 19. Inoltre vorrei sapere come funziona il test covid 19: dopo averlo fatto non ci \u00e8 arrivata nessuna comunicazione della riuscita del test o di qualunque altra informazione necessaria a capire se \u00e8 andato a buon fine. Applicazione pesante e molto lenta.",
-        "score": 2,
-        "thumbsUpCount": 2,
-        "reviewCreatedVersion": "1.5.0",
-        "at": "2020-04-06 11:43:54",
-        "replyContent": "Ciao, l'errore da te segnalato e collegabile al grande numero di utilizzatori o alla velocit\u00e0 di rete. Dopo aver compilato ed inviato il questionario il sistema mostrer\u00e0 un pop-up che conferma che il sondaggio \u00e8 stato inviato con successo.Per consultare le notizie ti consigliamo di avviare direttamente l'app!",
-        "repliedAt": "2020-04-15 16:30:02"
-    },
-    {
-        "userName": "Aldo Arzenati",
-        "userImage": "https://lh3.googleusercontent.com/-ByGO_TUJGhI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmahsnVdtxX1Lw2u_GgYoA3gnaVTQ/photo.jpg",
-        "content": "Non funziona le notifiche danno solo un un'errore e dicono di riprovare ma ho riprovato pi\u00f9 tardi ma da lo stesso errore.",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.5.0",
-        "at": "2020-04-06 11:40:39",
-        "replyContent": "Ciao Aldo,  se non riesci ad accedere alle notizie dalle notifiche ti suggeriamo di accedere alla sezione  info coronavirus dall'apposita sezione  avviando l'app!",
-        "repliedAt": "2020-04-15 16:33:34"
-    },
-    {
-        "userName": "LORENZO GRAVA",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiDKEs9_RXi-4SKjBSjLZQJcntwgU5FUFIQUNypAQ",
-        "content": "OTTIMA APPLICAZIONE DELLA PROTEZIONE CIVILE",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.5.0",
-        "at": "2020-04-06 11:39:11",
-        "replyContent": "Grazie Lorenzo della tua recensione e grazie di tutte le stelline che fanno crescere la nostra valutazione!! Cercheremo instancabilmente di fare in modo che tutti quelli che usano l'app, la apprezzino come te!",
-        "repliedAt": "2020-04-06 09:55:39"
-    },
-    {
-        "userName": "leandra gulino",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjGF-nWv0vEaRpfUz-yL0Iqxai21xvPxiq0mxFxJA",
-        "content": "Ma perch\u00e9? Perch\u00e9 tutto ci\u00f2 che riguarda la pubblica amministrazione non deve funzionare? Ma a chi vi affidate per sviluppare app mobile e web?",
-        "score": 1,
-        "thumbsUpCount": 1,
-        "reviewCreatedVersion": "1.5.0",
-        "at": "2020-04-06 11:38:46",
-        "replyContent": "Ciao Leandra, potresti dettagliare la problematica riscontrata? scrivi a info.allertalom@ariaspa.it, indica i tuoi dati e i dati del dispositivo utilizzato e ti aiutiamo noi!",
-        "repliedAt": "2020-04-15 16:40:01"
-    },
-    {
-        "userName": "Francesco Manieri",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gj-HwfgQa4JhSISmSiZULS83vM3uP60GWm2_VYNaQ",
-        "content": "Sarebbe molto utile, ma quando arriva una segnalazione, compare solo una pagina bianca.",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.5.0",
-        "at": "2020-04-06 11:37:21",
-        "replyContent": "Ciao Francesco, se non riesci ad accedere alle notizie dalle notifiche ti suggeriamo di accedere alla sezione  info coronavirus dall'apposita sezione  avviando l'app!",
-        "repliedAt": "2020-04-15 16:43:41"
-    },
-    {
-        "userName": "Elisabetta Galassi",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GigPNHXVQgx-QuU0GdTFhpBcO0FKOEjBgCfHgMrLIQ",
-        "content": "\u00c8 sempre down. L'idea era buona, ma lo sviluppo non all'altezza purtroppo. Disinstallata",
-        "score": 2,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": null,
-        "at": "2020-04-06 11:35:51",
-        "replyContent": "Ciao Elisabetta, siamo spiacenti che la tua esperienza non corrisponda alle tue aspettative. Lavoreremo per migliorare!",
-        "repliedAt": "2020-04-15 16:47:21"
-    },
-    {
-        "userName": "Davide Radice",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gh3u4UV2Ni7gzhkhxK3iqe0nTCwM2vQyP84O3A8fw",
-        "content": "Sulla carta molto valida, ma praticamente d\u00e0 sempre errore di connessione perch\u00e9 con la massima diffusione attuale i server su cui si appoggia non ce la fanno ... molto male!",
-        "score": 2,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.5.0",
-        "at": "2020-04-06 11:34:50",
-        "replyContent": "Ciao Davide i problemi riferiti alla connessione di rete non sono imputabili alle funzionalit\u00e0 dell'app ma al tuo gestore.",
-        "repliedAt": "2020-04-15 16:51:06"
-    },
-    {
-        "userName": "Marcello Ramella",
-        "userImage": "https://lh3.googleusercontent.com/-v6nwJYCY5Zg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmc7FajURTdlMrK-303iMfTXrgXQA/photo.jpg",
-        "content": "Quando mi giunge un avviso clicco, mi apre l'app e mi d\u00e0 errore",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.5.0",
-        "at": "2020-04-06 11:34:34",
-        "replyContent": "Ciao Marcello,  ti invitiamo ad effettuare l'aggiornamento 1.6.0 . Se riscontri ancora problemi non esitare a scriverci a info.allertalom@ariaspa.it",
-        "repliedAt": "2020-05-08 12:13:17"
-    },
-    {
-        "userName": "adriana colombo",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhJZL3Olpv9xAEjKBPp-h_F1tHZ5SxH6sEeO6Z17Q",
-        "content": "Si apre una volta su 10",
-        "score": 1,
-        "thumbsUpCount": 1,
-        "reviewCreatedVersion": null,
-        "at": "2020-04-06 11:33:58",
-        "replyContent": "Ciao Adriana, ti invitiamo ad installare nuovamente alla versione pi\u00f9 aggiornata. Se dovessi riscontrare ancora l'errore scrivi a info.allertalom@ariaspa.it",
-        "repliedAt": "2020-05-08 12:16:12"
-    },
-    {
-        "userName": "Lucilla Luzi",
-        "userImage": "https://lh3.googleusercontent.com/-AkmVqEeLs_w/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnvnsP6YXkVN7rq0ueemUyCsxBdUw/photo.jpg",
-        "content": "Non funziona!!",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.5.0",
-        "at": "2020-04-06 11:33:46",
-        "replyContent": "Ciao Lucilla, ti invitiamo ad effettuare l'aggiornamento 1.6.0 . Se riscontri ancora problemi non esitare a scriverci a info.allertalom@ariaspa.it",
-        "repliedAt": "2020-05-08 12:26:29"
-    },
-    {
-        "userName": "Massimo Mazzasogni",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhXjCxTbiKyMYg1ZfVtElEJoeQ2Ws0KdfUirNrBsA",
-        "content": "Ogni volta che appare una notifica poi non la si riesce a leggere. Quindi a cosa serve?",
-        "score": 1,
-        "thumbsUpCount": 1,
-        "reviewCreatedVersion": "1.5.0",
-        "at": "2020-04-06 11:33:32",
-        "replyContent": "Ciao Massimo,  ti invitiamo ad effettuare l'aggiornamento 1.6.0 . Se riscontri ancora problemi non esitare a scriverci a info.allertalom@ariaspa.it",
-        "repliedAt": "2020-05-08 12:29:44"
-    },
-    {
-        "userName": "giuliano turolla",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhZ6zxyZliVUdFP0254XoUaUEBoBDGjxLJRBbO1hw",
-        "content": "Spesso va in crash",
-        "score": 3,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.5.0",
-        "at": "2020-04-06 11:33:09",
-        "replyContent": "Ciao Giuliano,  ti invitiamo ad effettuare l'aggiornamento 1.6.0 . Se riscontri ancora problemi non esitare a scriverci a info.allertalom@ariaspa.it",
-        "repliedAt": "2020-05-08 12:29:55"
-    },
-    {
-        "userName": "2771barbara",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gjv4WuR6TIs-6DbKWGofL-9XM_Qu-vKKTjdd-d9rQ",
-        "content": "Dopo essermi registrata la app non si appre mai. Sono giorni che provo ogni volta che mi arriva una notifica ma nulla",
-        "score": 1,
-        "thumbsUpCount": 1,
-        "reviewCreatedVersion": "1.5.0",
-        "at": "2020-04-06 11:32:48",
-        "replyContent": "Ciao,  ti invitiamo ad effettuare l'aggiornamento 1.6.0 . Se riscontri ancora problemi non esitare a scriverci a info.allertalom@ariaspa.it",
-        "repliedAt": "2020-05-08 12:30:10"
-    },
-    {
-        "userName": "Giuseppina Bertoni",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gi2Znhg7HEjAIZUAlGbiGoT00ki6dIlzhBIuJxz",
-        "content": "Non merita nemmeno 1 stella ... Fa schifooooooooooooo !!!!!",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": null,
-        "at": "2020-04-06 09:31:08",
-        "replyContent": "Ciao Giuseppina,siamo spiacenti che la tua esperienza non sia stata all\u2019altezza delle tue aspettative. Ci piacerebbe sapere perch\u00e9, al fine di migliorarci, le vostre recensioni sono importanti per noi!",
-        "repliedAt": "2020-04-06 09:33:27"
-    },
-    {
-        "userName": "Andrea Mazza",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gg8q2rBfAo3TOUGD_gJdwrmbemNxbyzG3KNO6jIog",
-        "content": "Ora funziona! Grazie! E forza!!",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.5.0",
-        "at": "2020-04-06 08:59:48",
-        "replyContent": "Ciao Andrea grazie per aver aggiornato la tua recensione! Il nostro lavoro \u00e8 misurato anche in funzione delle vostre recensioni e valutazioni!",
-        "repliedAt": "2020-04-06 09:42:43"
     }
 ]

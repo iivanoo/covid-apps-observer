@@ -12,5 +12,6 @@
     {"code": "jp", "lang": "jp", "name": "Japan"},
     {"code": "ru", "lang": "ru", "name": "Russia"},
     {"code": "au", "lang": "en", "name": "Australia"},
-    {"code": "at", "lang": "de", "name": "Austria"}
+    {"code": "at", "lang": "de", "name": "Austria"},
+    {"code": "pt", "lang": "pt", "name": "Portugal"}
 ]

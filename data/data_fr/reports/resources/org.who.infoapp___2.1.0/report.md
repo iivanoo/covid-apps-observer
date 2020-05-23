@@ -147,10 +147,12 @@ No recent reviews available with 4 stars.
 #### 3-star reviews
 
 <p align="center">
-
+<img src="3_star_reviews_wordcloud.png" alt="org.who.infoapp 3 reviews"/>
 </p>
 
-No recent reviews available with 3 stars.
+> Elle est une très belle appli<br> :date: __2020-05-17 05:36:47__
+
+
 
 #### 2-star reviews
 

@@ -133,8 +133,6 @@ The COVID-19 Symptom Tracker app has been installed by more than **10000** times
 
 > Top-Bin Begeistert :-) weiter so.update,seit ca 1 Woche klingelt das Handy bis zu 20 x und mehr durchgehend, wenn die Tägliche Nachricht kommt,warum auch immer.<br> :date: __2020-05-09 09:36:43__
 
-> Sollte uns helfen!?<br> :date: __2020-05-05 19:59:33__
-
 > Super<br> :date: __2020-05-04 13:16:29__
 
 > Nachdem ich die Benachrichtigungen abgestellt hatte, war der morgendliche Dauergong verschwunden! Als Alumnus der Uni FR unterstütze ich das Projekt gerne. Auch wenn ich stark glaube, dass ich von Mitte bis Ende Februar auf Grund eines vorherigen Auslandaufenthaltes die Krankheit durchgemacht habe. An eine offizielle Bestätigung war damals noch nicht zu denken.....<br> :date: __2020-05-03 21:14:17__
@@ -151,6 +149,8 @@ The COVID-19 Symptom Tracker app has been installed by more than **10000** times
 
 > ひうししみくめすゆゆくもく。。くめくひし<br> :date: __2020-04-28 17:38:44__
 
+> Ich finde die App gut läuft bei mir perfekt<br> :date: __2020-04-28 10:11:43__
+
 
 
 #### 4-star reviews
@@ -158,8 +158,6 @@ The COVID-19 Symptom Tracker app has been installed by more than **10000** times
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.designit.covid_19 4 reviews"/>
 </p>
-
-> Ich finde diese App ,und den Hintergrund dafür gut . Wenn es um die Gesundheit ,und um Leben und Tot geht , ist mir in dem Fall der Datenschutz zweitrangig. Jedoch tue ich mich mit den alltäglichen zwei Fragen , insbesondere zu einer Frage arg schwer. Es wird gefragt ob man irgendwelche Symptome innerhalb 24 Stunden hatte. Ich habe auf Grund meiner Vorerkrankungen , wie die HOCM ,und der COPD Gold 2 und andere oftmals Luftnot und fühle mich schlapp . Von dem bin ich mir nie so richtig sicher .<br> :date: __2020-04-28 19:25:58__
 
 > Habe die App gestern installiert und ich finde sie sehr gut und nützlich. Das ist ein sinnvoller Schritt um die Pandemie immer besser zu bekämpfen. Ich kann es nur weiterempfehlen 👍<br> :date: __2020-04-27 13:39:18__
 
@@ -213,6 +211,10 @@ The COVID-19 Symptom Tracker app has been installed by more than **10000** times
 <img src="1_star_reviews_wordcloud.png" alt="com.designit.covid_19 1 reviews"/>
 </p>
 
+> Sollte uns helfen!? Nachtrag: Jedes mal die gleichen Fragen! Der Sinn erschließt sich mir nicht! Deinstalliert!!!<br> :date: __2020-05-17 09:53:07__
+
+> Ich verstehe den Sinn der App nicht so Recht... Ich beantworte jeden Tag die Fragen und was passiert? Genau... Nix...<br> :date: __2020-05-14 22:04:34__
+
 > Lösche ich.<br> :date: __2020-05-10 06:50:38__
 
 > Tja... Ich weiß nicht, was soll diese App bringen? Sie steckt voller bugs und der Support antwortet nur, wenn er gerade will!<br> :date: __2020-05-06 11:52:33__
@@ -225,12 +227,8 @@ The COVID-19 Symptom Tracker app has been installed by more than **10000** times
 
 > Habe die App am 22.4. installiert, die Daten jeden Tag wie vorgegeben eingetragen. Jetzt am 29.4. auf einmal war mein Konto nach anklicken nicht mehr da mit den bisher eingegebenen Daten. Anstattdessen erscheint nun eine neue Maske, mit einer neuen Benutzername. Das alte Konto erscheint nicht mehr. Wo sind meine alten Daten?<br> :date: __2020-04-30 13:19:00__
 
-> Naja der Gedanke ist gut. Leider hört der Alarmton nicht mehr auf zu bimmeln. Abhilfe - Handy neu starten. Kann also keine Option sein. Fragen zum Abend wären angebrachter 🤷‍♀️<br> :date: __2020-04-29 12:59:31__
-
 > Läd ohne Ende Immer nur ladesymbol<br> :date: __2020-04-29 09:04:22__
 
 > Erinnerung nervig und lässt sich nur durch Neustart ausschalten oder es hängt sich ganz auf<br> :date: __2020-04-29 09:04:17__
-
-> Läuft nicht bei mir. Erst hellblauer, dann weißer leerer Bildschirm, fertig. Habe Android 5.1 - alles an. WLAN, GPS, Bluetooth. Kein Firewall Eintrag. Ein paar mal installiert, hilft nichts. Nach Update vom 28.04.2020: unverändert.<br> :date: __2020-04-29 00:41:49__
 
 

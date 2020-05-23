@@ -1,0 +1,65 @@
+[
+    {
+        "id": "cz.covid19cz.erouska",
+        "store_country": "nl",
+        "store_lang": "nl",
+        "latest_crawled_version": "1.0.437",
+        "latest_crawl": 1590170118
+    },
+    {
+        "id": "at.roteskreuz.stopcorona",
+        "store_country": "nl",
+        "store_lang": "nl",
+        "latest_crawled_version": "1.2.0.12-QA_229",
+        "latest_crawl": 1590170126
+    },
+    {
+        "id": "nl.rivm.lciapp",
+        "store_country": "nl",
+        "store_lang": "nl",
+        "latest_crawled_version": "1.2.5",
+        "latest_crawl": 1590170133
+    },
+    {
+        "id": "org.who.infoapp",
+        "store_country": "nl",
+        "store_lang": "nl",
+        "latest_crawled_version": "2.1.0",
+        "latest_crawl": 1590170142
+    },
+    {
+        "id": "nl.focuscura.beeldbelapp",
+        "store_country": "nl",
+        "store_lang": "nl",
+        "latest_crawled_version": "4.22.4",
+        "latest_crawl": 1590170144
+    },
+    {
+        "id": "de.xikolo.openwho",
+        "store_country": "nl",
+        "store_lang": "nl",
+        "latest_crawled_version": "3.3.1",
+        "latest_crawl": 1590170150
+    },
+    {
+        "id": "com.joinzoe.covid_zoe",
+        "store_country": "nl",
+        "store_lang": "nl",
+        "latest_crawled_version": "0.13",
+        "latest_crawl": 1590170155
+    },
+    {
+        "id": "nl.lumc.covidradar",
+        "store_country": "nl",
+        "store_lang": "nl",
+        "latest_crawled_version": "1.1.2",
+        "latest_crawl": 1590170211
+    },
+    {
+        "id": "jhu.edu.JohnsHopkinsCOVIDControl",
+        "store_country": "nl",
+        "store_lang": "nl",
+        "latest_crawled_version": "2.0",
+        "latest_crawl": 1590170293
+    }
+]
