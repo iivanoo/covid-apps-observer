@@ -13,5 +13,9 @@
     {"code": "ru", "lang": "ru", "name": "Russia"},
     {"code": "au", "lang": "en", "name": "Australia"},
     {"code": "at", "lang": "de", "name": "Austria"},
-    {"code": "pt", "lang": "pt", "name": "Portugal"}
+    {"code": "pt", "lang": "pt", "name": "Portugal"},
+    {"code": "se", "lang": "se", "name": "Sweden"},
+    {"code": "dk", "lang": "dk", "name": "Denmark"},
+    {"code": "no", "lang": "no", "name": "Norway"},
+    {"code": "is", "lang": "is", "name": "Iceland"}
 ]
