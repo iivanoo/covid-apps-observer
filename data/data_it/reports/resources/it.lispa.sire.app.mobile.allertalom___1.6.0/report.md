@@ -159,6 +159,12 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <img src="5_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 5 reviews"/>
 </p>
 
+> Ok<br> :date: __2020-06-01 18:45:06__
+
+> Che sia Finita veramente !!!Vedo gente in giro tranquillamente con mascherina e qualcuno anche i guanti e mi sorge il dubbio che sia veramente finita. Allora un augurio a tutti e Grazie per la collaborazione,<br> :date: __2020-06-01 17:52:23__
+
+> Recensione basata solo sullo scopo di base dell'app: fornire allerte dalla Protezione Civile. Fa bene quello che deve fare, con utili informazioni aggiuntive e la possibilità di scaricare i documenti originali delle allerte. Se si usa assieme ad una buona app meteo offre previsioni, facili da capire, sulla potenziale violenza dell'evento meteo previsto. Per quanto riguarda la parte sul CoViD, nel peggiore degli scenari risulterà una componente inutile, non capisco il perché delle lamentele...<br> :date: __2020-06-01 15:06:15__
+
 > Forza Lombardia<br> :date: __2020-05-30 19:22:03__
 
 > Buono<br> :date: __2020-05-27 13:47:13__
@@ -172,12 +178,6 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 > Speriamo che sia utile<br> :date: __2020-05-23 17:58:23__
 
 > Buona<br> :date: __2020-05-23 12:42:01__
-
-> Buona, e facile da utilizzare, peccato una cosa che certe cose non le avete gestite bene, Comunque vada gente come voi sicuramente non la voterò mai e poi ma<br> :date: __2020-05-22 12:21:06__
-
-> Ok<br> :date: __2020-05-22 10:03:10__
-
-> Gente in giro se ne vede molta Tanti solo quelli che hanno la mascherina solo al collo e vedo che se passa una pattuglia la portano subito verso il naso per ritornare poi a toglierla!!Non è il Top portarla e dà fastidio però se si vuole risolvere un qualcosa bisogna sacrificarsi!!!Oggi verso il Sacco sono transitate meno autolettighe e da questo presumo che la situazione migliori !!Visto che abito a 1 KM dal Sacco faccio un resoconto!!!<br> :date: __2020-05-20 17:59:29__
 
 
 
@@ -271,6 +271,8 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <img src="1_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 1 reviews"/>
 </p>
 
+> Non serve veramente a nulla, lenta a caricare, informazioni non caricate e il questionario dedicato al covid è ridicolo<br> :date: __2020-06-01 11:44:51__
+
 > Non comprendo il motivo di bloccare l'utilizzo dell'app ai dispositivi che hanno ottenuto i permessi di root. Addirittura, nel mio caso, non ho i permessi di root ma solo il bootloader sbloccato, ma l'app non funziona comunque.<br> :date: __2020-05-31 20:08:21__
 
 > Aggiungendo qualcuno per cui compilare cercacovid mette in automatico alcuni miei dati senza la possibilità di cambiarli<br> :date: __2020-05-30 09:17:23__
@@ -288,7 +290,5 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 > Non la installo<br> :date: __2020-05-24 20:41:25__
 
 > Modesta e praticamente inutile. Scrive rante cose, ma quando ci sono bufere, pioggie torrenziali ecc. Non segnala nulla<br> :date: __2020-05-23 20:01:27__
-
-> Si accede solo al questionatio covid senza poter vedere le altre sezioni né cambiare navigazione. Non si riesce a leggere gli alert dei rischi metro eyc.. Poi ad ogni accesso bisogna ogni volta dare le approvazioni x il trattamento dei dati personali e compilare questionario covid da capo anche nelle info di base Insomma é pessima<br> :date: __2020-05-22 13:58:16__
 
 

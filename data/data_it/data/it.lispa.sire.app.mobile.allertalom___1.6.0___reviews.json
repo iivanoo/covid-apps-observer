@@ -1,5 +1,49 @@
 [
     {
+        "userName": "Giorgio Lanzoni",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiXH4XvKupIz-f4T36NxlxV5SR5DD54BYxzf7hrxA",
+        "content": "Ok",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.6.0",
+        "at": "2020-06-01 18:45:06",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "userName": "rosario Saglimbeni",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhzP5dALJRjwPMEF907iglPYHtO57Ed0_VE3O6llg",
+        "content": "Che sia Finita veramente !!!Vedo gente in giro tranquillamente con mascherina e qualcuno anche i guanti e mi sorge il dubbio che sia veramente finita. Allora un augurio a tutti e Grazie per la collaborazione,",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2020-06-01 17:52:23",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "userName": "Davide Premoli",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Ghv7fEklVmmaV5KZ6Yy4s4Tqy8I46izVuqlQs8-0A",
+        "content": "Recensione basata solo sullo scopo di base dell'app: fornire allerte dalla Protezione Civile. Fa bene quello che deve fare, con utili informazioni aggiuntive e la possibilit\u00e0 di scaricare i documenti originali delle allerte. Se si usa assieme ad una buona app meteo offre previsioni, facili da capire, sulla potenziale violenza dell'evento meteo previsto. Per quanto riguarda la parte sul CoViD, nel peggiore degli scenari risulter\u00e0 una componente inutile, non capisco il perch\u00e9 delle lamentele...",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.6.0",
+        "at": "2020-06-01 15:06:15",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "userName": "Alessandro Branchi",
+        "userImage": "https://lh3.googleusercontent.com/-Jm9M44xN_3U/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnU0N5ntSGrLfF_4wZt_c3Mcb26Mg/photo.jpg",
+        "content": "Non serve veramente a nulla, lenta a caricare, informazioni non caricate e il questionario dedicato al covid \u00e8 ridicolo",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2020-06-01 11:44:51",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "userName": "Emanuele Magni",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gi2aX3eBWddWMaBq0O1aHkz0GSIM7dJcqq0SpOwjA",
         "content": "Non comprendo il motivo di bloccare l'utilizzo dell'app ai dispositivi che hanno ottenuto i permessi di root. Addirittura, nel mio caso, non ho i permessi di root ma solo il bootloader sbloccato, ma l'app non funziona comunque.",
@@ -59,7 +103,7 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GixptIjVmN6tNMm3oFUxcCFZ7BUgTT7kZL3k3XTvw",
         "content": "Ogni volta che accedo devo ripetere l'inizializzazione da capo e accettare la normativa sulla privacy. Arrivato al sondaggio Cercacovid non si pu\u00f2 selezionare l'opzione per non partecipare (nuovamente) con il brillante risultato che mi tocca per forza fare il sondaggio alterando cos\u00ec i dati. Come diavolo \u00e8 possibile che tutte le app di regione Lombardia non funzionino?! Al cugino di quale raccomandato avete dato l'appalto stavolta?",
         "score": 1,
-        "thumbsUpCount": 1,
+        "thumbsUpCount": 10,
         "reviewCreatedVersion": "1.6.0",
         "at": "2020-05-30 09:06:38",
         "replyContent": null,
@@ -339,17 +383,6 @@
         "at": "2020-05-21 15:59:47",
         "replyContent": "Ciao, l'app \u00e8 stata progettata per permettere a Regione Lombardia di quantificare il livello di diffusione del contagio e la distribuzione territoriale della positivit\u00e0, speriamo di poter estendere il nostro servizio al resto delle regioni.",
         "repliedAt": "2020-05-22 19:57:07"
-    },
-    {
-        "userName": "rosario Saglimbeni",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhzP5dALJRjwPMEF907iglPYHtO57Ed0_VE3O6llg",
-        "content": "Gente in giro se ne vede molta Tanti solo quelli che hanno la mascherina solo al collo e vedo che se passa una pattuglia la portano subito verso il naso per ritornare poi a toglierla!!Non \u00e8 il Top portarla e d\u00e0 fastidio per\u00f2 se si vuole risolvere un qualcosa bisogna sacrificarsi!!!Oggi verso il Sacco sono transitate meno autolettighe e da questo presumo che la situazione migliori !!Visto che abito a 1 KM dal Sacco faccio un resoconto!!!",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": null,
-        "at": "2020-05-20 17:59:29",
-        "replyContent": "Ciao Rosario, grazie per averci lasciato il tuo feedback!",
-        "repliedAt": "2020-05-22 19:56:39"
     },
     {
         "userName": "Laura Pievo",
@@ -653,7 +686,7 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gh9e65_bmkF7ITJ32CaSAApqIIybA37_t4L_PaCQA",
         "content": "Provato a inserire dati allarmanti il risultato il nulla pi\u00f9 assoluto... a che serve? Grazie per la risposta quindi l app serve a poco e nulla se la compilo una volta? Se posso darvi una idea si possono monitorare battiti e temperatura con smartwatch e fitbit simili questi hanno piu senso e col gps hai una mappa reale... questa la trovo utile solo per le comunicazioni.",
         "score": 1,
-        "thumbsUpCount": 1,
+        "thumbsUpCount": 2,
         "reviewCreatedVersion": "1.6.0",
         "at": "2020-05-14 16:04:26",
         "replyContent": "Ciao Marco, i dati raccolti servono per analisi statistiche ed epidemiologiche, fondamentali per aiutare le autorit\u00e0 sanitarie a definire modelli e strategie di contrasto al Coronavirus.Partecipare \u00e8 importante, anche in assenza di sintomi: pi\u00f9 dati si ricevono, pi\u00f9 il quadro della situazione \u00e8 preciso. Grazie per averci lasciato il tuo feedback!",
@@ -697,7 +730,7 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgTYz9nxMfAkaRnlCuDT8-z6TWHvOAguTszO2ae",
         "content": "L'app non funziona se hai uno smartphone con i permessi di root. Esce un messaggio che ti avvisa e l'app si chiude. Molti hanno fatto il rooting solo per fare il backup completo del cellulare. Se volete far diffondere il pi\u00f9 possibile quest'app vi conviene togliere questa limitazione.",
         "score": 1,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "1.6.0",
         "at": "2020-05-14 09:43:36",
         "replyContent": "Ciao Diego, grazie per averci lasciato il tuo feedback! L'abbiamo inoltrata ai servizi tecnici.",
@@ -3883,17 +3916,6 @@
         "repliedAt": "2020-05-07 17:07:09"
     },
     {
-        "userName": "Graziella Dal Conte",
-        "userImage": "https://lh3.googleusercontent.com/-mizl0THhejc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl8zNJf3Cq2VPQY-F_42gVmS7-ArA/photo.jpg",
-        "content": "A tutto serve nella vita sara' ricordata dentro di noi",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.6.0",
-        "at": "2020-04-22 12:50:37",
-        "replyContent": "Ciao Graziella, grazie per il feedback positivo!",
-        "repliedAt": "2020-05-07 16:25:54"
-    },
-    {
         "userName": "Valentina Mariani",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gj2UX4TubgEwkMZjwwFRTNNKXD7QXwNv1JYWf_R",
         "content": "Tutte le app mi si scaricano, tranne questa!",
@@ -3903,6 +3925,17 @@
         "at": "2020-04-22 12:50:37",
         "replyContent": "Ciao Valentina, potresti dettagliare la problematica riscontrata? scrivici a info.allertalom@ariaspa.it indicando i tuoi dati e del dispositivo utilizzato!",
         "repliedAt": "2020-05-07 16:27:36"
+    },
+    {
+        "userName": "Graziella Dal Conte",
+        "userImage": "https://lh3.googleusercontent.com/-mizl0THhejc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl8zNJf3Cq2VPQY-F_42gVmS7-ArA/photo.jpg",
+        "content": "A tutto serve nella vita sara' ricordata dentro di noi",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.6.0",
+        "at": "2020-04-22 12:50:37",
+        "replyContent": "Ciao Graziella, grazie per il feedback positivo!",
+        "repliedAt": "2020-05-07 16:25:54"
     },
     {
         "userName": "rorframe red",
@@ -3975,7 +4008,7 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gg4DDn2l7Y01cay9BFobazMyn0hc5i-VVmpnJ2j",
         "content": "Se lo scopo dell'app \u00e8 quello di effettuare una mappatura di quella che pu\u00f2 essere stata la diffusione del contagio sul territorio, risulta inefficace poich\u00e9 si limita ad una fotografia della situazione attuale. Le domande sui sintomi sono riferite alle sole ultime 2 settimane. Io e la mia famiglia la quasi totalit\u00e0 dei sintomi (compreso, per me, la congiuntivite) li abbiamo avuto a met\u00e0 febbraio. Sarebbe pi\u00f9 utile chiedere se i sintomi si sono avuti e, in caso affermativo, chiedere quando",
         "score": 2,
-        "thumbsUpCount": 160,
+        "thumbsUpCount": 162,
         "reviewCreatedVersion": "1.6.0",
         "at": "2020-04-22 11:52:35",
         "replyContent": "Ciao Raimondo, la ringraziamo per il suggerimento.Lo invieremo al gruppo di ricerca di medici e ricercatori dell\u2019Ospedale San Matteo e dell\u2019Universit\u00e0 degli Studi di Pavia che ha ideato il questionario. Ogni contributo degli utenti \u00e8 prezioso!",
@@ -6263,7 +6296,7 @@
         "userImage": "https://lh3.googleusercontent.com/-6AFOSmq5u8Q/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmPD_LT2aWIxIF4zA8AsF2H2bi9Vg/photo.jpg",
         "content": "Non classificabile. Compilando il questionario, che non \u00e8 ben pensato, ci si rende conto che non si pu\u00f2 dire che attivit\u00e0 si svolge, non si pu\u00f2 dichiarare se si \u00e8 lavoratore, studente, pensionato, quale patologie si hanno...Si dovrebbe compilare tutti i giorni il questionario ma in realt\u00e0 non si riesce a farlo. Il questionario non \u00e8 in evidenza nell'App. L'App si blocca su quello del giorno precedente... che disastro! E questo dovrebbe essere d'aiuto...???",
         "score": 1,
-        "thumbsUpCount": 86,
+        "thumbsUpCount": 87,
         "reviewCreatedVersion": "1.5.0",
         "at": "2020-04-17 23:51:57",
         "replyContent": "Ciao Laura, i nostri sviluppatori hanno individuato il problema e rilasciato un aggiornamento Ti ringrazio per la segnalazione e ti invito ad aggiornare l'applicazione all'ultima versione disponibile Se hai bisogno di ulteriore assistenza, scrivi a info.allertalom@ariaspa.it",
@@ -10965,38 +10998,5 @@
         "at": "2020-04-06 22:52:13",
         "replyContent": "Ciao Walter, se non riesci a visualizzare le notifiche non \u00e8 necessario disinstallare e reinstallare l'app! Consulta le notifiche avviando l'app accedendo all'apposita sezione. se riscontri ancora problemi scrivici a : info.allertalom@ariaspa.it e verificheremo!",
         "repliedAt": "2020-04-15 18:04:22"
-    },
-    {
-        "userName": "ignazio sellitri",
-        "userImage": "https://lh3.googleusercontent.com/-oCOCHgRWu4A/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn_cxsVZOEKYDK50hCKkhLaBNaifA/photo.jpg",
-        "content": "App da rivedere.. ..funziona malissimo arrivano notifiche non si apre app. Ecc. Ecc.",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.5.0",
-        "at": "2020-04-06 22:51:52",
-        "replyContent": "Ciao Ignazio, l'errore da te segnalato e collegabile al grande numero di utilizzatori o alla velocit\u00e0 di rete. Se non riesci ad accedere alle notizie dalle notifiche ti suggeriamo di accedere alle notifiche avviando l'app!",
-        "repliedAt": "2020-04-15 18:08:29"
-    },
-    {
-        "userName": "graziano",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjpZ_6n53qRz1Xnhj8VUxGiJ4zXvwJ9gey5Yw2PXg",
-        "content": "Penosa, avete anche il coraggio di pubblicizzarla in TV. Vergognatevi e cambiate mestiere. Nel dettaglio, arrivano le notifiche e puntualmente viene dato msg di servizio non disponibile. Andate a scuola prima di pubblicare app",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.5.0",
-        "at": "2020-04-06 22:51:27",
-        "replyContent": "Ciao Graziano, siamo spiacenti che la tua esperienza non sia stata all\u2019altezza delle tue aspettative! l'errore da te segnalato e collegabile al grande numero di utilizzatori o alla velocit\u00e0 di rete. Se non riesci ad accedere alle notizie dalle notifiche ti suggeriamo di accedere alle notifiche avviando l'app!",
-        "repliedAt": "2020-04-15 18:10:34"
-    },
-    {
-        "userName": "stefano fratus",
-        "userImage": "https://lh3.googleusercontent.com/-cQBx9SmJZGM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclUS5f2AqFYVXKtsoQFck2TeJPbAw/photo.jpg",
-        "content": "Non funziona sempre",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.5.0",
-        "at": "2020-04-06 22:51:26",
-        "replyContent": "Ciao Stefano, potresti dettagliare la problematica riscontrata? scrivi a info.allertalom@ariaspa.it, indica i tuoi dati e i dati del dispositivo utilizzato e ti aiutiamo noi!",
-        "repliedAt": "2020-04-15 18:13:14"
     }
 ]

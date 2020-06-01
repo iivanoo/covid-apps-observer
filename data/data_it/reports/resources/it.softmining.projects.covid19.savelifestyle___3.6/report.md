@@ -181,6 +181,10 @@ The SM_Covid19 app has been installed by more than **10000** times. At this time
 <img src="5_star_reviews_wordcloud.png" alt="it.softmining.projects.covid19.savelifestyle 5 reviews"/>
 </p>
 
+> Utile<br> :date: __2020-06-01 21:44:00__
+
+> Appena installato,spero che funzioni adeguatamente e che mi protegga, xchè ho una persona di 70 anni invalido con il morbo di Parkinson e problemi respiratori ecc.ecc. cmq semplice da istallare e da settare io lo consiglio.<br> :date: __2020-06-01 18:45:30__
+
 > Si presenta bene 👍 vedremo se è valida<br> :date: __2020-05-30 18:59:50__
 
 > Spero che serva per la mia tranquillita, perche sono in cura per una B.P.C.O<br> :date: __2020-05-28 19:04:30__
@@ -196,10 +200,6 @@ The SM_Covid19 app has been installed by more than **10000** times. At this time
 > Ottimo!<br> :date: __2020-05-22 22:17:43__
 
 > Ottima<br> :date: __2020-05-18 22:36:53__
-
-> Siete bravi complimenti<br> :date: __2020-05-18 17:31:28__
-
-> Ottima app.?<br> :date: __2020-05-15 20:42:37__
 
 
 
@@ -237,6 +237,8 @@ The SM_Covid19 app has been installed by more than **10000** times. At this time
 <img src="3_star_reviews_wordcloud.png" alt="it.softmining.projects.covid19.savelifestyle 3 reviews"/>
 </p>
 
+> Sono un Tsrm sarebbe bello inserire anche profili sanitari non citati dai media...<br> :date: __2020-06-01 20:22:02__
+
 > Affidabile al50%<br> :date: __2020-05-22 11:17:59__
 
 > Come faccio a mettere come lingua l'italiano? Nelle impostazioni c'è scritto italiano ma invece nella app compare l'arabo<br> :date: __2020-05-20 10:31:01__
@@ -255,8 +257,6 @@ The SM_Covid19 app has been installed by more than **10000** times. At this time
 
 > Discreta<br> :date: __2020-04-24 10:59:25__
 
-> Appena scaricata. C'è l'icona badge che segnala "1", cosa mi sono perso?<br> :date: __2020-04-23 20:04:11__
-
 
 
 #### 2-star reviews
@@ -264,6 +264,10 @@ The SM_Covid19 app has been installed by more than **10000** times. At this time
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="it.softmining.projects.covid19.savelifestyle 2 reviews"/>
 </p>
+
+> la volevo scaricare ma non mi fa andare avanti,boh...<br> :date: __2020-06-01 20:40:14__
+
+> Ti divora la batteria , Non posso tenere un app che in tre ore sei 13 % energia, scusate anche se togli il Bluetooth e sempre in eseguzione , non voglio dire che non è buona come app ma rimani senza batteria in poche ore se il cellulare a qualche anno la batteria ti saluta<br> :date: __2020-06-01 17:41:33__
 
 > Durante l'installazione viene chiesto di abilitare 3 funzioni (bluetooth, avvio automatico etc.) ma appena ne seleziono una, passa alla schermata successiva e non da la possibilità di abilitare le altre 2. Inoltre, se entro nelle Impostazioni e spunto "Permetti l'uso del GPS", quando esco e rientro lo trovo ancora non spuntato.<br> :date: __2020-06-01 10:55:24__
 
@@ -281,10 +285,6 @@ The SM_Covid19 app has been installed by more than **10000** times. At this time
 
 > A me ogni 7 secondo mi fa arrivare lo schermo ...continuamente ...<br> :date: __2020-04-25 14:22:54__
 
-> Dopo l'aggiornamento il telefono si accende di continuo. Anche in mezzo a tanta gente il rischio rimane sempre 0 (forse ce ne sono ancora poche installate?)<br> :date: __2020-04-24 21:00:58__
-
-> Popup impostazione bluetooth che continua ad apparire.Sarò ben padrone di disabilitarlo se ne ho necessitá. Disinstallata<br> :date: __2020-04-21 15:45:26__
-
 
 
 #### 1-star reviews
@@ -293,6 +293,18 @@ The SM_Covid19 app has been installed by more than **10000** times. At this time
 <img src="1_star_reviews_wordcloud.png" alt="it.softmining.projects.covid19.savelifestyle 1 reviews"/>
 </p>
 
+> Non ė quella del mInIstero della salute ATTENZIONE!!!<br> :date: __2020-06-01 22:00:24__
+
+> Non funziona pur avendo abilitato tutto soldi dei contribuenti spesi male.<br> :date: __2020-06-01 21:22:05__
+
+> Non funziona<br> :date: __2020-06-01 17:37:40__
+
+> Appena Installata ma al momento non si apre.<br> :date: __2020-06-01 16:15:11__
+
+> Pessima app<br> :date: __2020-06-01 16:06:29__
+
+> App inutile<br> :date: __2020-06-01 15:18:42__
+
 > Fa schifo, rimangono sempre notifiche indecifrabili....<br> :date: __2020-05-31 10:27:26__
 
 > Non funziona è come se fosse zoomata e non si visualizza tutto<br> :date: __2020-05-27 08:13:39__
@@ -300,17 +312,5 @@ The SM_Covid19 app has been installed by more than **10000** times. At this time
 > Questa e' app ufficiale immuni?<br> :date: __2020-05-25 23:53:42__
 
 > Manca tipologia di utente soccoritore<br> :date: __2020-05-09 15:39:05__
-
-> poco efficace<br> :date: __2020-05-08 09:14:11__
-
-> Non serve a nulla, e solo un beta test<br> :date: __2020-05-07 10:36:20__
-
-> Cancellata. Serve solo a sapere la mia posizione<br> :date: __2020-05-05 13:57:16__
-
-> Scarica subito la batteria e se non hai fatto il tampone è inutile. 1 stella e non ho fatto il download<br> :date: __2020-05-04 13:43:55__
-
-> NON FATEVI TRACCIARE DA QUESTA APP. È TUTTA UNA GROSSA PRESA IN GIRO, NON CASCATECI! ATTENTI ITALIANI!<br> :date: __2020-05-02 22:38:22__
-
-> Io lo scaricata ma nn ho capito come funziona.<br> :date: __2020-05-01 22:46:10__
 
 
