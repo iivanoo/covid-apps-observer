@@ -165,6 +165,8 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 <img src="5_star_reviews_wordcloud.png" alt="de.xikolo.openwho 5 reviews"/>
 </p>
 
+> Ce bon<br> :date: __2020-05-29 05:54:46__
+
 > Meilleurs façons d'apprentissage Merci aux concepteurs<br> :date: __2020-05-22 15:49:15__
 
 > Très intéressant<br> :date: __2020-05-20 21:42:01__
@@ -182,8 +184,6 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 > Très bien Boudet jontie<br> :date: __2020-04-21 21:58:00__
 
 > Good<br> :date: __2020-04-17 01:02:57__
-
-> Cv<br> :date: __2020-04-16 22:00:21__
 
 
 
@@ -204,6 +204,8 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="de.xikolo.openwho 3 reviews"/>
 </p>
+
+> Médecin de carrière<br> :date: __2020-05-29 23:52:47__
 
 > Pensez pour ceux qui parlent exclusivement en français, les documents sont a l'origine en Anglais c'est vrai mais. Les francophones peuvent aussi, éditer des textes à la rédaction pour ne pas avoir des confusions entre la langue Française et l'Anglais. Bravo aux développeurs.<br> :date: __2020-03-29 17:13:41__
 

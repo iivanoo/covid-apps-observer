@@ -146,6 +146,10 @@ The Coronavirus Help app has been installed by more than **1000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="appinventor.ai_david_taylor.Coronavirus_help2020 5 reviews"/>
 </p>
 
+> I love it 💖 so simple to use and not confusing at all, I love that everything is in one place and from the people that we should be listening to and not from misleading sources (newspapers) x I love all you over 70's that was involved in making this great app x I am 28 and I couldn't of done anything like this well done guys stay safe 💋💋<br> :date: __2020-05-27 22:54:07__
+
+> This app is very good .<br> :date: __2020-05-26 02:43:22__
+
 > Brilliant app! Very informative and easy to follow. Highly recommend<br> :date: __2020-05-08 13:34:16__
 
 > Easy to use<br> :date: __2020-05-03 17:07:02__
@@ -162,10 +166,6 @@ The Coronavirus Help app has been installed by more than **1000** times. At this
 
 > Keeps all links on latest info in the same place with a handy translation tool, easy to use with a clear layout.<br> :date: __2020-04-14 21:12:59__
 
-> Great app, really useful advice. Everything that you need to know all in one place.<br> :date: __2020-04-14 16:39:51__
-
-> Very concise, informative and easy to navigate<br> :date: __2020-04-14 15:07:06__
-
 
 
 #### 4-star reviews
@@ -173,6 +173,8 @@ The Coronavirus Help app has been installed by more than **1000** times. At this
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="appinventor.ai_david_taylor.Coronavirus_help2020 4 reviews"/>
 </p>
+
+> Great to see all the information bundled into one little package, unfortunately, because the app simply directs you to websites that are displayed within a web view, it's completely useless for offline use.<br> :date: __2020-05-30 11:49:56__
 
 > Hi I'm not criticising your app but my avast antivirus also detected that there was malware in your app so I wasn't able to install. Maybe this is something you want to look into<br> :date: __2020-04-28 03:51:39__
 

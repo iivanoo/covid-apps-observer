@@ -131,6 +131,8 @@ The COVID-19 Symptom Tracker app has been installed by more than **10000** times
 <img src="5_star_reviews_wordcloud.png" alt="com.designit.covid_19 5 reviews"/>
 </p>
 
+> So eben installiert und nehme dran teil :)<br> :date: __2020-05-24 16:07:03__
+
 > Top-Bin Begeistert :-) weiter so.update,seit ca 1 Woche klingelt das Handy bis zu 20 x und mehr durchgehend, wenn die Tägliche Nachricht kommt,warum auch immer.<br> :date: __2020-05-09 09:36:43__
 
 > Super<br> :date: __2020-05-04 13:16:29__
@@ -148,8 +150,6 @@ The COVID-19 Symptom Tracker app has been installed by more than **10000** times
 > Endlich eine gute Corona App<br> :date: __2020-04-29 10:35:30__
 
 > ひうししみくめすゆゆくもく。。くめくひし<br> :date: __2020-04-28 17:38:44__
-
-> Ich finde die App gut läuft bei mir perfekt<br> :date: __2020-04-28 10:11:43__
 
 
 
@@ -191,6 +191,10 @@ The COVID-19 Symptom Tracker app has been installed by more than **10000** times
 <img src="2_star_reviews_wordcloud.png" alt="com.designit.covid_19 2 reviews"/>
 </p>
 
+> Seit einem Monat dabei, aber bis heute keine Rückmeldung zu meinem Status. Nur einseitig, so wird das nichts... Wird demnächst gelöscht.<br> :date: __2020-05-29 09:45:10__
+
+> Habe die App seit 4 Wochen installiert und jeden Tag die "Tagesfrage" beantwortet. Auf einmal soll ich bei jedem öffnen der App mein Passwort eingeben. Warum???? Es besteht noch nicht einmal die Möglichkeit dieses Passwort zu speichern. Warum macht ihr es so kompliziert. So vergrault ihr die Leute.<br> :date: __2020-05-25 11:07:58__
+
 > Die Fragen sind schnell beantwortet. Aber ich frage mich ernsthaft wie lange es dauern kann die Kennzahlen im Status zu überarbeiten. Seit ich diese App benutze steht es dort. Ich würde mich um eine Antwort freuen in es an mir oder der App allgeim liegt.<br> :date: __2020-05-20 20:27:54__
 
 > Gibt es auch ein Feedback seitens der App-Betreiber? Man beantwortet fleißig, aber der Status bleibt dauerhaft unter Bearbeitung. Wäre ja schön, wenn hier der Nutzer auch mal einen nutzen hätte. Aber scheinbar interessieren dann doch nur die wirtschaftlichen Nutzen des Betreibers<br> :date: __2020-05-03 11:42:16__
@@ -213,7 +217,7 @@ The COVID-19 Symptom Tracker app has been installed by more than **10000** times
 <img src="1_star_reviews_wordcloud.png" alt="com.designit.covid_19 1 reviews"/>
 </p>
 
-> Bei mir funktioniert Google Pixel 2 XL Aber das ist nur 7 Tage .... Das ist nur Allgemein Meinung Frage Es läuft nicht Gebe 1 Stern Ich danke dir ❤️<br> :date: __2020-05-23 00:31:53__
+> Wenn du Covid-19 installieren willst kommt Polizei also sei vorsichtig ;) dann kommt Ambulante aus deine Adresse usw... gebe 1 Stern !!!<br> :date: __2020-05-31 10:32:12__
 
 > Die App ist völlig unausgereift ! Es gibt keine Möglichkeit Fehlangaben zu korrigieren. Ich habe bei der Frage auf Corona-Testung versehentlich auf positiv getippt, dabei bin ich aktuell negativ ! Keine Möglichkeit dies zu korrigieren !!! So macht es keinen Sinn und ergibt verfälschte Ergebnisse ! In dieser Form ist die App untauglich und wird zu meinem Bedauern deinstalliert! DIE APP BITTE GEWISSENHAFT ÜBERARBEITEN ! Mit freundlichen Grüßen.<br> :date: __2020-05-22 12:32:33__
 

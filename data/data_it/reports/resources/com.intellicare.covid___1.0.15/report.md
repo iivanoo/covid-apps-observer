@@ -168,6 +168,8 @@ The LAZIOdrCovid app has been installed by more than **50000** times. At this ti
 <img src="4_star_reviews_wordcloud.png" alt="com.intellicare.covid 4 reviews"/>
 </p>
 
+> Salve, vorrei farvi notare che quando si compila l'autovalutazione, alla domanda: hai frequentato nelle ultime 2 settimane strutture sanitarie ? Io rispondo NO e al termine dei quesiti andando ad aprire il documento word con le mie risposte risulta SI per gli ospedali anche se la mia risposta, come già ho detto, sia stata No! Ho provato 2 volte per sicurezza, ma il risultato è lo stesso.<br> :date: __2020-05-28 05:22:18__
+
 > Funziona, per quelle che sono le sue funzioni base. Sarebbe il caso che fosse collegata con la propria cartella che si trova online accessibile con CNS in modo che possano essere sincronizzati i parametri.<br> :date: __2020-05-08 18:46:04__
 
 > Un buon progetto e decisamente un buon inizio, spero che per il futuro non si abbandonerà questo progetto ma che si possa ampliare per utilizzarlo aggiornando funzionalità.<br> :date: __2020-04-14 12:22:09__
@@ -185,8 +187,6 @@ The LAZIOdrCovid app has been installed by more than **50000** times. At this ti
 > Positiva<br> :date: __2020-04-03 14:28:41__
 
 > Aiuta a capirsi meglio quanta criticità hai in relazione al virus. Al momento non ho capito come poter cambiare medico curante... Dato che il medico inserito è in pensione dal 1 aprile e dovrei inserire nuovo medico scelto o dovrebbe proporlo in automatico<br> :date: __2020-04-03 12:21:47__
-
-> Se ci sono pediatri, come mai non è possibile registrare i minorenni?<br> :date: __2020-04-02 11:33:55__
 
 
 
@@ -224,6 +224,10 @@ The LAZIOdrCovid app has been installed by more than **50000** times. At this ti
 <img src="2_star_reviews_wordcloud.png" alt="com.intellicare.covid 2 reviews"/>
 </p>
 
+> Io vorrei sapere solo se altri hanno un problema di covid io sono un paziente sano e vorrei solo prevenire il contagio<br> :date: __2020-05-26 18:40:05__
+
+> L'ho appena installata memorizzando i miei dati ma cliccando sul link del SMS mi dà errore. Per ora ho solo perso tempo.<br> :date: __2020-05-23 16:19:44__
+
 > Non si riesce ad aprire perché indica numero telefonico. Mentre quello indicato è assolutamente corretto<br> :date: __2020-05-14 19:28:38__
 
 > Non aggiunge né leva nulla alle altre mille sul corona virus<br> :date: __2020-05-04 12:03:16__
@@ -239,10 +243,6 @@ The LAZIOdrCovid app has been installed by more than **50000** times. At this ti
 > Mah.... Passi che ho dovuto installarla die volte perché la prima non si apriva, passi pure che ogni tanto si perde i dati e devi reinserirli, ma il fatto che dall'altra parte il medico non ti caga proprio rende l'applicazione piuttosto inutile.<br> :date: __2020-04-08 13:53:33__
 
 > Fa molto schifo!<br> :date: __2020-04-06 13:42:42__
-
-> Appena istallata funzionava che era una meraviglia. Dopo aggiornamento è la quinta volta che mi fa riattivare e confermare l'account. Sarebbe opportuno che sistemiate la cosa<br> :date: __2020-04-06 00:54:59__
-
-> Dall'ultimo aggiornamento ogni volta devo rifare l'accesso e dare l'autorizzazione. In più registra ogni misurazione due volte.<br> :date: __2020-04-05 22:56:57__
 
 
 

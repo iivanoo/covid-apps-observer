@@ -1,12 +1,144 @@
 [
     {
-        "userName": "txxemita 14",
-        "userImage": "https://lh3.googleusercontent.com/-N3lTM7dz8mA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnfQsZFH4ksDRw-i8rqJWkGqevcBQ/photo.jpg",
-        "content": "Imposible a\u00f1adir contactos a mis c\u00edrculos a pesar de intentarlo todos los d\u00edas. Anot\u00f3 el tel\u00e9fono lo env\u00edo y me indica que ya est\u00e1 en mi circulo pero no lo veo",
-        "score": 1,
+        "userName": "Diego Cea",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiUewwL5RagfE8AiVlMJW8OlDOx-TOakKUr6aMI",
+        "content": "Muy buena aplicaci\u00f3n. Se van a incluir m\u00e1s actualizaciones?",
+        "score": 4,
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "2.4",
-        "at": "2020-05-20 15:07:59",
+        "at": "2020-05-31 17:02:26",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "userName": "Alvaro Corral Crespo",
+        "userImage": "https://lh3.googleusercontent.com/-dV2gMfkd8b8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn-frODMbIT3Cc0HzXREAUBgrXxbw/photo.jpg",
+        "content": "Es informstivo",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.4",
+        "at": "2020-05-31 01:28:42",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "userName": "Ira Zazpe",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgKsf1htDfUJe-3eU0Kcpe_NALWZklFEvwxyK1FiQ",
+        "content": "Buena aplicaci\u00f3n. \u00bfCuando a\u00f1ado contactos , les llega alg\u00fan mensaje de que les he a\u00f1adido o es an\u00f3nimo?. \u00bfEllos tambi\u00e9n tienen que tener instalada la aplicaci\u00f3n?.",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.4",
+        "at": "2020-05-30 13:10:12",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "userName": "Sergio Salvador",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhFcRG0QwGPmITpQZraLaEl6FzidoGKX5NDgXbRdgs",
+        "content": "Si me fubcion\u00f3. Estar\u00eda bien que pudieses seleccionar a muchos contactos de tu agenda para que se envie el mensaje a la vez. Si no es muy dificil que la gente se anime.. Mucho tiempo. Asi somos...",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.4",
+        "at": "2020-05-29 16:16:42",
+        "replyContent": "Espero que ya hayas podido entrar, actualmente est\u00e1 funcionando.",
+        "repliedAt": "2020-05-28 10:19:44"
+    },
+    {
+        "userName": "Eneko Perea",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiSIZw-D_LywJD9lm9M1UwjvNsGxofY_18vIf2e-2c",
+        "content": "Es poco com\u00fan tener los tel\u00e9fonos de todos los vecinos del bloque, personal del supermercado habitual, en general gente con la que te cruzas habitualmente o comprarles espacio. Y con la que tienes m\u00e1s confianza como para pedir el tel\u00e9fono, sueles avisar por WhatsApp o una nota de papel que se est\u00e1 enfermo. Y si alguien te lo notifica, sueles avisar a los cercanos por dicho m\u00e9todo. Ser\u00eda interesante tener sistema GPS que avise de gente cercana posiblemente enferma (sin dar datos personales).",
+        "score": 1,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "2.2",
+        "at": "2020-05-28 15:19:20",
+        "replyContent": "No se trata de cu\u00e1ntos contactos tienes en tu agenda, lo importante es con qu\u00e9 personas te relacionas frecuentemente e intercambiar con ellas el riesgo que puedes tener de contagio. Te recomendamos que env\u00edes solicitudes de colaboraci\u00f3n s\u00f3lo a aquellas personas con las que trates frecuentemente. Gracias por escribirnos",
+        "repliedAt": "2020-05-28 13:58:18"
+    },
+    {
+        "userName": "Koldo",
+        "userImage": "https://lh3.googleusercontent.com/-RDQht5q2WlM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn-COTpgW_96meZGD6_wUNjYnTXmw/photo.jpg",
+        "content": "\u00bfC\u00f3mo es posible que aparezca en mi play como instalada si yo no lo he instalado (con otra cuenta, no con la que estoy escribiendo)? \u00bfQu\u00e9 relaci\u00f3n tiene esto con lo que aparece en Ajuste/ Google, \"Notificaciones de exposici\u00f3n al COVID-19\"? Si tiene alguna, que parece que s\u00ed, \u00bfque papel tiene Google? \u00bfPor qu\u00e9 hace falta su colaboraci\u00f3n? Tengo decenas de apps que pueden notificar cosas sin que Google tenga que configurar nada en mi cuenta. \u00bfD\u00f3nde hay datos t\u00e9cnicos que demuestren la confidencialidad? \u00bfCuando avisa de que he estado cerca de un infectado, c\u00f3mo sabe dirigirse a mi tel\u00e9fono si los identificadores compartidos son an\u00f3nimos? \u00bfA trav\u00e9s de qu\u00e9 servidores lo hace?",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2020-05-28 12:56:42",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "userName": "Marijo Pelayo",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgxmQbKmI0mgPj8G7Yb4dhL1xuQjdBKbWXzGM0zUQ",
+        "content": "Todo bien, gracias!",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.0.1",
+        "at": "2020-05-28 10:54:44",
+        "replyContent": "Esperamos que haya podido descargarla y le sea de utilidad. Un saludo.",
+        "repliedAt": "2020-05-28 10:42:34"
+    },
+    {
+        "userName": "Santiago Moreno",
+        "userImage": "https://lh3.googleusercontent.com/-G4vkgNkd27I/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckk3Z4caECWH3i_ZIorQY07hrzK7w/photo.jpg",
+        "content": "en espa\u00f1ol fant\u00e1stico",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.4",
+        "at": "2020-05-27 16:36:43",
+        "replyContent": "Muchas gracias por su opini\u00f3n. Un saludo.",
+        "repliedAt": "2020-05-28 08:56:27"
+    },
+    {
+        "userName": "Roberto Alonso Cuervo",
+        "userImage": "https://lh3.googleusercontent.com/-VC7SgTFNqbY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnVH2hK9Nm4ZlYPEUM065sIoee3EA/photo.jpg",
+        "content": "Me parece necesaria, sobretodo a las que viven solas y de riesgo... Un saludo.",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.4",
+        "at": "2020-05-27 14:34:32",
+        "replyContent": "Muchas gracias por su opini\u00f3n. Un saludo.",
+        "repliedAt": "2020-05-28 08:56:10"
+    },
+    {
+        "userName": "ROBERTO G HIERRO",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhEr1PBoDn-kamqfSC2Do-MFWOHsPliU5nlEA9ZyxY",
+        "content": "Desde esta app no se pueden abrir los informes de coronavirus que publica el Gobierno Vasco cada d\u00eda, en el apartado recomendaciones: te reenv\u00eda a la web del Gobierno Vasco, en el propio entorno de la app, y los archivos de pdf no se descargan. Desde la web no hay problema. Gracias por contestar.",
+        "score": 4,
+        "thumbsUpCount": 11,
+        "reviewCreatedVersion": "2.4",
+        "at": "2020-05-27 09:31:51",
+        "replyContent": "Gracias por el comentario. Vemos que est\u00e1 ocurriendo en algunos tel\u00e9fonos. Es un problema nuestro. Estamos trabajando para resolverlo en la pr\u00f3xima versi\u00f3n. Disculpe las molestias.",
+        "repliedAt": "2020-05-27 09:21:20"
+    },
+    {
+        "userName": "Raquel \u00c1lvarez pladano",
+        "userImage": "https://lh3.googleusercontent.com/-PjEHx8alMk0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck7EXCwjsdya_ww-3HwkBQIKKmzfg/photo.jpg",
+        "content": "Es una aplicaci\u00f3n muy \u00fatil en esta pandemia y la deber\u00eda descargar todo el mundo para que seamos conscientes de quien esta a nuestro alrededor",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.4",
+        "at": "2020-05-25 21:38:54",
+        "replyContent": "Muchas gracias",
+        "repliedAt": "2020-05-26 12:44:01"
+    },
+    {
+        "userName": "Unai Fercol",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhuxKprigQ3N-ORgJj5tI0nak7LkRN97WBWibliHA",
+        "content": "No sirve para nada. Parec\u00eda buena iniciativa por parte del GV pero... Se queda en un sue\u00f1o...",
+        "score": 1,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "2.4",
+        "at": "2020-05-25 13:36:56",
+        "replyContent": "Muchas gracias por tu opini\u00f3n.",
+        "repliedAt": "2020-05-26 12:45:06"
+    },
+    {
+        "userName": "JESUS CARBAJO",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhpN1miF-KiO8uqqVrEIinCTFJqShGVG5W31Vu91mQ",
+        "content": "No deja bajar ni ver los informes en Pdf y el menu de ayuda no funciona...",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.4",
+        "at": "2020-05-23 19:46:09",
         "replyContent": null,
         "repliedAt": null
     },
@@ -18,8 +150,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "2.4",
         "at": "2020-05-18 09:06:16",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Muchas gracias por su opini\u00f3n. Recogemos tus comentarios para seguir mejorando.",
+        "repliedAt": "2020-05-26 12:46:41"
     },
     {
         "userName": "Ana Crespo",
@@ -29,8 +161,8 @@
         "thumbsUpCount": 1,
         "reviewCreatedVersion": "1.0",
         "at": "2020-05-17 21:57:07",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Muchas gracias por su opini\u00f3n.",
+        "repliedAt": "2020-05-27 11:23:36"
     },
     {
         "userName": "Marta Sainz Puebla",
@@ -40,8 +172,8 @@
         "thumbsUpCount": 2,
         "reviewCreatedVersion": "2.4",
         "at": "2020-05-17 08:54:28",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Muchas gracias por su opini\u00f3n.",
+        "repliedAt": "2020-05-27 11:19:06"
     },
     {
         "userName": "Aran Martin",
@@ -51,8 +183,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2020-05-17 08:40:37",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Muchas gracias por su opini\u00f3n.",
+        "repliedAt": "2020-05-27 11:19:33"
     },
     {
         "userName": "Igor Zarraga",
@@ -73,8 +205,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "2.4",
         "at": "2020-05-16 23:53:05",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Muchas gracias por su opini\u00f3n.",
+        "repliedAt": "2020-05-27 11:24:04"
     },
     {
         "userName": "Bego\u00f1a Mar\u00edn",
@@ -84,8 +216,8 @@
         "thumbsUpCount": 1,
         "reviewCreatedVersion": "2.4",
         "at": "2020-05-16 23:00:29",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Muchas gracias por su opini\u00f3n.",
+        "repliedAt": "2020-05-27 11:24:33"
     },
     {
         "userName": "Patxo Leo",
@@ -95,8 +227,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "2.4",
         "at": "2020-05-16 22:51:40",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Muchas gracias por su opini\u00f3n.",
+        "repliedAt": "2020-05-27 11:24:58"
     },
     {
         "userName": "Un usuario de Google",
@@ -106,8 +238,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.0",
         "at": "2020-05-16 22:43:47",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Muchas gracias por su opini\u00f3n.",
+        "repliedAt": "2020-05-27 11:25:12"
     },
     {
         "userName": "Ana Corrales",
@@ -117,8 +249,8 @@
         "thumbsUpCount": 1,
         "reviewCreatedVersion": "2.4",
         "at": "2020-05-16 22:42:35",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Muchas gracias por su opini\u00f3n.",
+        "repliedAt": "2020-05-27 11:27:13"
     },
     {
         "userName": "Jesus carcedo alvarez",
@@ -128,8 +260,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "2.1",
         "at": "2020-05-16 22:39:26",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Muchas gracias por su opini\u00f3n.",
+        "repliedAt": "2020-05-27 11:27:30"
     },
     {
         "userName": "pewitchYT",
@@ -139,8 +271,8 @@
         "thumbsUpCount": 1,
         "reviewCreatedVersion": "2.4",
         "at": "2020-05-16 22:39:07",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Muchas gracias por su opini\u00f3n.",
+        "repliedAt": "2020-05-27 11:28:01"
     },
     {
         "userName": "Oscar Navarro",
@@ -150,8 +282,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "2.4",
         "at": "2020-05-16 22:36:55",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Muchas gracias por su opini\u00f3n.",
+        "repliedAt": "2020-05-27 11:28:18"
     },
     {
         "userName": "Maria begona Corcostegui ormazabal",
@@ -172,8 +304,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "2.4",
         "at": "2020-05-16 13:58:39",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Muchas gracias por su opini\u00f3n.",
+        "repliedAt": "2020-05-27 11:31:45"
     },
     {
         "userName": "Pedro Isasmendi Gmail",
@@ -183,15 +315,15 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "2.4",
         "at": "2020-05-16 11:25:04",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "En la versi\u00f3n que subimos esta semana se va a mejorar la gesti\u00f3n de las invitaciones. Las invitaciones las puedes borrar entrando al sobre y pulsando sobre solicitudes enviadas, pero aseg\u00farate de tener actualizada la app. Una vez borradas las puedes enviar de nuevo.",
+        "repliedAt": "2020-05-28 13:59:52"
     },
     {
         "userName": "I\u00f1aki Ausan",
         "userImage": "https://lh3.googleusercontent.com/-xz20IsrCWbk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck4QybdwtfDRy4wWSuqhxPYY0myHQ/photo.jpg",
         "content": "La han mejorado, pero sigue siendo muy dif\u00edcil (por no decir imposible) agregar a contactos que ya tienen la app a tus c\u00edrculos. Por favor, SI NO FUNCIONA BIEN, SI NO ES F\u00c1CIL, NO SE USAR\u00c1. Y entonces esta app no servir\u00e1 de nada, cuando la idea es muy buena. Estimados desarrolladores, por favor, intenten arreglar o facilitar el sistema de agregar contactos a los c\u00edrculos (no \u00fanicamente mandar las invitaciones). Gracias.",
         "score": 3,
-        "thumbsUpCount": 8,
+        "thumbsUpCount": 12,
         "reviewCreatedVersion": "2.4",
         "at": "2020-05-15 12:38:05",
         "replyContent": "Se va a incorporar en breve el acceso a la lista de contactos.Muchas gracias por las sugerencia.",
@@ -205,8 +337,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "2.4",
         "at": "2020-05-13 19:43:48",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Los receptores tienen que aceptar las colaboraciones enviadas. Dependiendo de la versi\u00f3n que tengan es posible que la aceptaci\u00f3n requiera de una aceptaci\u00f3n. Lo mejor es que se actualicen la versi\u00f3n. En la versi\u00f3n actual ese procedimiento se ha mejorado",
+        "repliedAt": "2020-05-28 14:03:43"
     },
     {
         "userName": "Fernando Mateos",
@@ -216,8 +348,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.2",
         "at": "2020-05-12 22:03:55",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Muchas gracias por su opini\u00f3n favorable.",
+        "repliedAt": "2020-05-27 11:35:42"
     },
     {
         "userName": "Isabel Del Amo Calle",
@@ -227,8 +359,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "2.4",
         "at": "2020-05-12 19:38:54",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Muchas gracias por su opini\u00f3n favorable.",
+        "repliedAt": "2020-05-27 11:36:33"
     },
     {
         "userName": "Ana Pastor Sousa",
@@ -238,8 +370,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "2.4",
         "at": "2020-05-12 07:01:35",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hola Ana, tienes que seleccionar sobre la l\u00ednea que quieres ver. Por defecto siempre se muestran primero las de aislamiento porque son las m\u00e1s importantes. Tomamos nota y vamos mejorar esto. Muchas gracias por tu comentario.",
+        "repliedAt": "2020-05-27 10:10:47"
     },
     {
         "userName": "Ainhoa Perez",
@@ -249,8 +381,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "2.4",
         "at": "2020-05-11 21:13:49",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "En caso de tener una enfermedad, puedes editar desde tu perfil y etiquetarte como \u201csensible\u201d\nLa app es colaborativa y no se puede imponer a nadie. Te recomendamos utilizarla en tu \u00e1mbito personal, familiar, amigos. Y ojal\u00e1 que m\u00e1s adelante tus compa\u00f1eros de trabajo cambien de idea.",
+        "repliedAt": "2020-05-28 14:05:49"
     },
     {
         "userName": "Rafa fa",
@@ -264,17 +396,6 @@
         "repliedAt": null
     },
     {
-        "userName": "ROBERTO G HIERRO",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhEr1PBoDn-kamqfSC2Do-MFWOHsPliU5nlEA9ZyxY",
-        "content": "Desde esta app no se pueden abrir los informes de coronavirus que publica el Gobierno Vasco cada d\u00eda, en el apartado recomendaciones: te reenv\u00eda a la web del Gobierno Vasco, en el propio entorno de la app, y los archivos de pdf no se descargan. Desde la web no hay problema. A fecha de 10 de mayo sigo sin poder abrir los informes en pdf. No os hab\u00e9is molestado ni en contestar. S\u00f3lo quer\u00eda saber si es un problema de la app o de mi m\u00f3vil. Bajo calificaci\u00f3n. No si es ni siquiera \u00fatil est\u00e1 app.",
-        "score": 1,
-        "thumbsUpCount": 9,
-        "reviewCreatedVersion": "2.4",
-        "at": "2020-05-10 13:50:14",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
         "userName": "Gari Lopetegi",
         "userImage": "https://lh3.googleusercontent.com/-dQ45F_Rm794/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl1g6MYp-ENVRCg81iob0EL-YLAPA/photo.jpg",
         "content": "Nos va a ayudar a todos, denori lagunduko gaitu",
@@ -282,8 +403,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "2.2",
         "at": "2020-05-09 10:01:59",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Muchas gracias por su opini\u00f3n.",
+        "repliedAt": "2020-05-27 11:43:10"
     },
     {
         "userName": "Bego Vega",
@@ -293,8 +414,8 @@
         "thumbsUpCount": 2,
         "reviewCreatedVersion": "2.4",
         "at": "2020-05-09 07:36:38",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Muchas gracias por su opini\u00f3n.",
+        "repliedAt": "2020-05-27 11:44:12"
     },
     {
         "userName": "Jabier Angulo",
@@ -304,30 +425,19 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "2.2",
         "at": "2020-05-08 14:41:45",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Muchas gracias por su opini\u00f3n",
+        "repliedAt": "2020-05-27 11:44:44"
     },
     {
-        "userName": "Eneko Perea",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiSIZw-D_LywJD9lm9M1UwjvNsGxofY_18vIf2e-2c",
-        "content": "Por mucha gente que tengas en contactos, si alguien no indica que se encuentra enfermo, el resto no van a recibir ninguna notificaci\u00f3n. Adem\u00e1s que tienes que tener el contacto de las personas para que se te notifique. Y si tienes el contacto y sueles coincidir, es m\u00e1s plausible que te manden un WhatsApp a que lo activen en la aplicacion. Y tampoco vas a tener el contacto de gente con la que coincides en lugares p\u00fablicos.",
-        "score": 1,
-        "thumbsUpCount": 1,
-        "reviewCreatedVersion": "2.2",
-        "at": "2020-05-08 14:34:44",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "userName": "Jakinde Carballo",
+        "userName": "jak jak",
         "userImage": "https://lh3.googleusercontent.com/-AExz2rYXJNw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl8s2dzxhCNqIudQ9zRhAAAlrHAAQ/photo.jpg",
         "content": "Tengo muchos problemas para que los contactos a los que env\u00edo solicitud y la aceptan aparezcan reflejados en mis c\u00edrculos. Mando la solicitud, me dicen que la confirman, pero no aparecen en la aplicaci\u00f3n. Un saludo",
         "score": 2,
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "2.2",
         "at": "2020-05-07 22:09:37",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Los receptores tienen que aceptar las colaboraciones enviadas. Dependiendo de la versi\u00f3n que tengan es posible que la aceptaci\u00f3n requiera de una aceptaci\u00f3n. Lo mejor es que se actualicen la versi\u00f3n. En la versi\u00f3n actual ese procedimiento se ha mejorado.",
+        "repliedAt": "2020-05-28 14:03:02"
     },
     {
         "userName": "Beatriz Barrena",
@@ -345,11 +455,11 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhWM1Qz1LI13jV-fTxTZALY8C8xws-SdzSU0T12Nw",
         "content": "Tengo la aplicaci\u00f3n desde pr\u00e1cticamente el primer d\u00eda, y me resulta curioso que por un lado me diga que mi \u00faltimo estado es del 10 de abril (cuando la instal\u00e9), cuando lo hago todos los d\u00edas, que imagino que por eso dice algo confiable. Por otro lado, mi mujer tambi\u00e9n la tiene bajada, la tengo en el circulo familia y el circulo aparece vaci\u00f3 de gente",
         "score": 3,
-        "thumbsUpCount": 4,
+        "thumbsUpCount": 8,
         "reviewCreatedVersion": "2.2",
         "at": "2020-05-07 21:47:08",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Esa es la fecha que indica desde cuando est\u00e1s en ese estado. Vamos a mejorar el literal para que quede m\u00e1s claro.\n\nTe recomendamos que actualices la aplicaci\u00f3n. Si el problema persiste ponte en contacto con nosotros y buscaremos la soluci\u00f3n. Gracias por escribirnos.",
+        "repliedAt": "2020-05-27 09:22:40"
     },
     {
         "userName": "David Iglesias",
@@ -370,19 +480,19 @@
         "thumbsUpCount": 1,
         "reviewCreatedVersion": "2.2",
         "at": "2020-05-07 21:17:17",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ten\u00edamos un error en esa versi\u00f3n, con la nueva versi\u00f3n,2.4, ya no ocurre.",
+        "repliedAt": "2020-05-27 10:06:41"
     },
     {
         "userName": "Blanca SOBRON SERRANO",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GisuSF1maqP1v_YcJrflEafN8pni6kpS4o4yIgC_A",
         "content": "Eso de que no puedas incorporar los contactos todos a la vez y tenga que ser de uno en uno es bastante poco \u00fatil. Y si te llega alguna invitaci\u00f3n de alguien, o te metes en los mensajes o no te enteras porque no te llega ni aviso y pone nada en el sobre para que sepas que hay algo nuevo. Mucho que mejorar para que esto sirva. Igual que creo que se deber\u00eda poner si te han hecho PCR o serolog\u00eda y poder poner el resultado.",
         "score": 1,
-        "thumbsUpCount": 7,
+        "thumbsUpCount": 11,
         "reviewCreatedVersion": "2.2",
         "at": "2020-05-07 16:01:52",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "En la pr\u00f3xima versi\u00f3n se podr\u00e1 seleccionar varios contactos de la agenda y se a\u00f1adir\u00e1 informaci\u00f3n en el sobre de las invitaciones recibidas.\n\n\nEstamos estudiando la forma en la que se pueden incorporar los test PCR de forma segura.",
+        "repliedAt": "2020-05-27 09:18:47"
     },
     {
         "userName": "Dani Txo",
@@ -403,8 +513,8 @@
         "thumbsUpCount": 5,
         "reviewCreatedVersion": "2.2",
         "at": "2020-05-05 17:01:24",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hola, la fecha del estado no cambia si no cambias de \u201ccolor\u201d, es decir, alguien de tu entorno (c\u00edrculo) no se ha contagiado o t\u00fa mismo.\nLa app no es institucional, es una colaboraci\u00f3n p\u00fablico - privada y se basa en la colaboraci\u00f3n ciudadana. Seguimos desarrollando para mejorarla,  hasta hoy es la \u00fanica del Estado.",
+        "repliedAt": "2020-05-27 10:09:17"
     },
     {
         "userName": "David Montoya",
@@ -414,8 +524,8 @@
         "thumbsUpCount": 4,
         "reviewCreatedVersion": "2.2",
         "at": "2020-05-05 14:35:25",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Es cierto David, esta semana subimos nueva versi\u00f3n con esto solucionado.\nGracias por escribirnos. Tu indicaci\u00f3n nos ha sido de ayuda para mejorar.",
+        "repliedAt": "2020-05-27 09:47:09"
     },
     {
         "userName": "mirikituli",
@@ -425,8 +535,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "2.2",
         "at": "2020-05-04 16:19:44",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Los receptores tienen que aceptar las colaboraciones enviadas. Para enviarlas de nuevo tendr\u00edas que borrarlas primero entrando al sobre y pulsando solicitudes enviadas. Antes de hacer nada, actualiza la app y comprueba si esta todo ok. Gracias por escribirnos.",
+        "repliedAt": "2020-05-27 09:56:09"
     },
     {
         "userName": "Alruma",
@@ -469,8 +579,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "2.2",
         "at": "2020-05-03 15:06:51",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Muchas gracias por su opini\u00f3n, vamos lanzando nuevas versiones en las que intentamos mejorar teniendo en cuenta vuestros comentarios.",
+        "repliedAt": "2020-05-27 12:11:57"
     },
     {
         "userName": "Teodoro Menendez",
@@ -480,8 +590,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "2.2",
         "at": "2020-05-03 15:03:10",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Muchas gracias por su opini\u00f3n.",
+        "repliedAt": "2020-05-27 12:13:16"
     },
     {
         "userName": "Julen Durandegi",
@@ -502,8 +612,8 @@
         "thumbsUpCount": 1,
         "reviewCreatedVersion": "2.2",
         "at": "2020-05-02 21:14:07",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Escribe por favor un correo a COVID19.APP@osakidetza.eus para que podamos recuperar tu entorno.",
+        "repliedAt": "2020-05-27 10:35:02"
     },
     {
         "userName": "Ram\u00f3n D\u00edez Carreras",
@@ -513,8 +623,8 @@
         "thumbsUpCount": 1,
         "reviewCreatedVersion": "2.2",
         "at": "2020-05-02 21:08:27",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Los receptores tienen que aceptar las colaboraciones enviadas. Comprueba si los tienes en solicitudes enviadas. Si est\u00e1n ah\u00ed, quiere decir que no han aceptado dichas solicitudes. \nSi el problema persiste prueba a actualizar la app.",
+        "repliedAt": "2020-05-28 14:04:49"
     },
     {
         "userName": "Ion Zabala",
@@ -524,8 +634,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "2.2",
         "at": "2020-05-02 20:54:43",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Muchas gracias por su opini\u00f3n.",
+        "repliedAt": "2020-05-27 12:54:51"
     },
     {
         "userName": "i\u00f1aki Estefania",
@@ -535,8 +645,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "2.2",
         "at": "2020-05-02 20:16:12",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Muchas gracias por su opini\u00f3n.",
+        "repliedAt": "2020-05-27 12:55:23"
     },
     {
         "userName": "Jorge Garcia",
@@ -546,8 +656,8 @@
         "thumbsUpCount": 2,
         "reviewCreatedVersion": "2.2",
         "at": "2020-05-02 20:12:48",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Muchas gracias por su opini\u00f3n. Nos agrada saber que se mejora en versiones m\u00e1s recientes.",
+        "repliedAt": "2020-05-27 12:56:31"
     },
     {
         "userName": "gonzalo cedrun rabago",
@@ -557,8 +667,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "2.2",
         "at": "2020-05-02 20:02:06",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Muchas gracias por su opini\u00f3n.",
+        "repliedAt": "2020-05-27 12:56:46"
     },
     {
         "userName": "Juan Jos\u00e9 Monge LLorente",
@@ -568,8 +678,8 @@
         "thumbsUpCount": 1,
         "reviewCreatedVersion": "2.2",
         "at": "2020-05-02 19:59:14",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Muchas gracias por su opini\u00f3n.",
+        "repliedAt": "2020-05-27 13:08:31"
     },
     {
         "userName": "Guillermo Regil",
@@ -579,8 +689,8 @@
         "thumbsUpCount": 1,
         "reviewCreatedVersion": "2.2",
         "at": "2020-05-02 19:00:21",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Muchas gracias por su opini\u00f3n.",
+        "repliedAt": "2020-05-27 13:08:54"
     },
     {
         "userName": "Pototo",
@@ -590,8 +700,8 @@
         "thumbsUpCount": 1,
         "reviewCreatedVersion": "2.2",
         "at": "2020-05-02 14:55:14",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hola, la fecha del estado no cambia si no cambias de \u201ccolor\u201d, es decir, alguien de tu entorno (c\u00edrculo) no se ha contagiado o t\u00fa mismo.\n\nLa confiabilidad tiene que ver con el n\u00famero de contactos que tienes en tus c\u00edrculos.",
+        "repliedAt": "2020-05-27 10:13:04"
     },
     {
         "userName": "Ainhoa Alonso",
@@ -601,8 +711,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2020-05-02 10:40:57",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hola Ainhoa, ten en cuenta que el primer protocolo que tuvimos para el autodiagn\u00f3stico de COVID19 era muy severo y tienes raz\u00f3n no siempre un dolor de cabeza es determinante para diagnosticar un posible caso de COVID. Disc\u00falpanos por las molestias y ahora con la nueva versi\u00f3n ya puedes actualizar tu estado. Gracias por escribirnos.",
+        "repliedAt": "2020-05-27 10:45:15"
     },
     {
         "userName": "Ainara Gurtubay",
@@ -612,8 +722,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "2.2",
         "at": "2020-05-01 16:39:49",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Muchas gracias por su opini\u00f3n.",
+        "repliedAt": "2020-05-27 13:09:17"
     },
     {
         "userName": "Vanesa Talavera",
@@ -623,8 +733,8 @@
         "thumbsUpCount": 2,
         "reviewCreatedVersion": "2.1",
         "at": "2020-04-27 13:36:21",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Gracias Vanesa, en las \u00faltimas versiones se ha incorporado la edici\u00f3n del nombre, puedes editarla en tu perfil.\n\nPrueba a entrar en solicitudes enviadas, borrar las que tengas pendientes y enviarlas de nuevo. Y ser\u00eda conveniente que actualizaras antes la app.",
+        "repliedAt": "2020-05-27 09:41:07"
     },
     {
         "userName": "Reyes Tornos",
@@ -634,8 +744,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2020-04-26 02:29:52",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Muchas gracias por su opini\u00f3n.",
+        "repliedAt": "2020-05-27 13:09:40"
     },
     {
         "userName": "Juan Carlos Uriarte",
@@ -656,8 +766,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2020-04-25 01:47:50",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Muchas gracias por su opini\u00f3n.",
+        "repliedAt": "2020-05-27 13:11:44"
     },
     {
         "userName": "cristina lombide garcia",
@@ -667,8 +777,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2020-04-24 16:48:04",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Muchas gracias por su opini\u00f3n.",
+        "repliedAt": "2020-05-27 13:13:00"
     },
     {
         "userName": "Leticia Carcedo",
@@ -678,8 +788,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "2.1",
         "at": "2020-04-23 16:46:12",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Muchas gracias por su opini\u00f3n, nos agrada que le haya resultado \u00fatil.",
+        "repliedAt": "2020-05-27 13:14:18"
     },
     {
         "userName": "Levido Dole",
@@ -689,8 +799,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "2.0",
         "at": "2020-04-23 13:55:13",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Muchas gracias por su opini\u00f3n, nos agrada que le haya resultado \u00fatil",
+        "repliedAt": "2020-05-27 13:14:45"
     },
     {
         "userName": "Aurora Myu",
@@ -755,8 +865,8 @@
         "thumbsUpCount": 1,
         "reviewCreatedVersion": "2.0",
         "at": "2020-04-15 19:59:08",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hola Roberto, el chat m\u00e9dico est\u00e1 bloqueado para que solamente puedan hacer uso de \u00e9l las personas que est\u00e1n enfermas de COVID19, a nosotros nos parece que el chat si es un canal de comunicaci\u00f3n \u00f3ptimo para personas con discapacidad auditiva.\nPor favor mantennos informados y dinos c\u00f3mo podemos ayudarte mejor. Gracias por escribirnos.",
+        "repliedAt": "2020-05-27 10:41:11"
     },
     {
         "userName": "Jos\u00e9 Angel L\u00f3pez",
@@ -771,14 +881,14 @@
     },
     {
         "userName": "Iv\u00e1n Ortega Villaiz\u00e1n Rold\u00e1n",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhpVdMADEcu9QB7BY6mhqSPVD9hoHJLx5-hKTMz-j0",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgX0XR4gy2pRWjcvF9jlMm3qhB3t_ENrXrYoKnBMew",
         "content": "Buena iniciativa. Le falta.mucha promoci\u00f3n para.que sea realmente \u00fatil. Deber\u00edan dar m\u00e1s posibilidades para compartir la opci\u00f3n de registro en la app. Mediante enlace, por whatsapp, en redes...",
         "score": 3,
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "2.0",
         "at": "2020-04-13 00:06:06",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Muchas gracias por su opini\u00f3n, en pr\u00f3ximas actualizaciones intentaremos mejorar.",
+        "repliedAt": "2020-05-27 13:30:26"
     },
     {
         "userName": "Dukatera A",
@@ -788,8 +898,8 @@
         "thumbsUpCount": 1,
         "reviewCreatedVersion": "2.0",
         "at": "2020-04-12 19:11:30",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Muchas gracias por su opini\u00f3n.",
+        "repliedAt": "2020-05-27 13:30:57"
     },
     {
         "userName": "Arantza Pinedo Hernandorera",
@@ -810,8 +920,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "2.0",
         "at": "2020-04-11 23:55:35",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Muchas gracias por su opini\u00f3n favorable.",
+        "repliedAt": "2020-05-27 13:33:32"
     },
     {
         "userName": "Raul Lozano",
@@ -821,8 +931,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.0",
         "at": "2020-04-11 18:55:12",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Muchas gracias por su opini\u00f3n.",
+        "repliedAt": "2020-05-27 13:36:17"
     },
     {
         "userName": "Jose Antonio",
@@ -843,8 +953,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2020-04-11 13:18:19",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hola, esta aplicaci\u00f3n puede ser utilizada por cualquier persona del Estado, sin ning\u00fan l\u00edmite salvo el asistencial.\n\nDebemos distinguir la Comunidad a la que pertenece porque no podemos darle asistencia m\u00e9dica a alguien fuera de la CAV",
+        "repliedAt": "2020-05-27 13:38:17"
     },
     {
         "userName": "Pako Ripoll",
@@ -865,8 +975,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2020-04-10 16:43:34",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Muchas gracias por su opini\u00f3n.",
+        "repliedAt": "2020-05-27 13:39:08"
     },
     {
         "userName": "Lydia Martinez",
@@ -898,8 +1008,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.2",
         "at": "2020-04-10 00:37:22",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Muchas gracias por su opini\u00f3n, nos agrada saber que le resulta \u00fatil.",
+        "repliedAt": "2020-05-27 13:43:40"
     },
     {
         "userName": "eo 23",
@@ -909,8 +1019,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.2",
         "at": "2020-04-09 15:02:32",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Muchas gracias por su opini\u00f3n.",
+        "repliedAt": "2020-05-27 13:43:59"
     },
     {
         "userName": "Jes\u00fas Manuel Molano",
@@ -920,8 +1030,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.2",
         "at": "2020-04-09 12:04:56",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hemos actualizado versiones, espero que ya le funcione.",
+        "repliedAt": "2020-05-27 13:46:11"
     },
     {
         "userName": "Angel Mart\u00ednez",
@@ -953,8 +1063,8 @@
         "thumbsUpCount": 1,
         "reviewCreatedVersion": "1.2",
         "at": "2020-04-08 21:34:45",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Muchas gracias por su opini\u00f3n. Nos agrada saber que le ha resultado \u00fatil.",
+        "repliedAt": "2020-05-27 13:49:58"
     },
     {
         "userName": "Jesus Orozco",
@@ -964,8 +1074,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.2",
         "at": "2020-04-08 21:11:46",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Muchas gracias por su opini\u00f3n.",
+        "repliedAt": "2020-05-27 13:50:25"
     },
     {
         "userName": "Calzados Luzar Basauri",
@@ -997,8 +1107,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.2",
         "at": "2020-04-08 07:45:53",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Muchas gracias por su opini\u00f3n.",
+        "repliedAt": "2020-05-27 13:52:02"
     },
     {
         "userName": "GORKA LOPEZ GANGOITI",
@@ -1023,17 +1133,6 @@
         "repliedAt": null
     },
     {
-        "userName": "Roberto Alonso Cuervo",
-        "userImage": "https://lh3.googleusercontent.com/-VC7SgTFNqbY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnVH2hK9Nm4ZlYPEUM065sIoee3EA/photo.jpg",
-        "content": "Acabo de bajarla en este momento...",
-        "score": 3,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.2",
-        "at": "2020-04-07 21:17:11",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
         "userName": "Anaito Loso",
         "userImage": "https://lh3.googleusercontent.com/-urcBGkfY5Ok/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm1uUGXUxS-AZK5Mfpyxsw2c4X_iA/photo.jpg",
         "content": "Muy buena idea. Muy \u00fatil.",
@@ -1041,8 +1140,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.2",
         "at": "2020-04-07 19:57:38",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Muchas gracias por su opini\u00f3n.",
+        "repliedAt": "2020-05-27 13:56:21"
     },
     {
         "userName": "I\u00f1aki Ramos Aizpurua",
@@ -1052,8 +1151,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.0.1",
         "at": "2020-04-07 19:45:11",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Muchas gracias por su opini\u00f3n",
+        "repliedAt": "2020-05-27 13:56:53"
     },
     {
         "userName": "Winzip68 Winzip",
@@ -1074,8 +1173,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.2",
         "at": "2020-04-07 00:51:27",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "En el men\u00fa, en ajustes, figura la opci\u00f3n Castellano o Euskera. Un saludo.",
+        "repliedAt": "2020-05-28 09:06:31"
     },
     {
         "userName": "arantzazu torrontegi sanz",
@@ -1107,8 +1206,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.2",
         "at": "2020-04-06 15:02:30",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Muchas gracias por su opini\u00f3n",
+        "repliedAt": "2020-05-27 13:58:21"
     },
     {
         "userName": "Juan Ignacio Lasagabaster",
@@ -1151,8 +1250,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.1",
         "at": "2020-04-05 22:00:29",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Esperamos que ya haya conseguido entrar.",
+        "repliedAt": "2020-05-27 14:00:36"
     },
     {
         "userName": "hegoi P",
@@ -1195,8 +1294,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.2",
         "at": "2020-04-05 11:31:39",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Muchas gracias por su opini\u00f3n, en las nuevas versiones se ha intentado mejorar.",
+        "repliedAt": "2020-05-28 10:17:09"
     },
     {
         "userName": "Leku HeyWire",
@@ -1210,17 +1309,6 @@
         "repliedAt": null
     },
     {
-        "userName": "Sergio Salvador",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhFcRG0QwGPmITpQZraLaEl6FzidoGKX5NDgXbRdgs",
-        "content": "No me manda codigo sms, asi que ni empezar. Animo",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.2",
-        "at": "2020-04-05 09:01:28",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
         "userName": "Salvi Mart\u00edn",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhpYPl_pjsK0XB9iY40np_b06OZ4tKqgK4tSusr",
         "content": "Me gusta mucho pero le falta cosas....",
@@ -1228,8 +1316,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.2",
         "at": "2020-04-05 04:52:47",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Muchas gracias por su opini\u00f3n, vamos mejorando en nuevas versiones actualizadas con consejos de los usuarios.",
+        "repliedAt": "2020-05-27 14:03:10"
     },
     {
         "userName": "Ana Isabel Barba Docampo",
@@ -1239,8 +1327,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.2",
         "at": "2020-04-05 02:14:08",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "En el men\u00fa, en Ajustes, se puede cambiar el idioma entre Euskera y Castellano.",
+        "repliedAt": "2020-05-28 10:20:42"
     },
     {
         "userName": "MARICARMEN ZC",
@@ -1272,8 +1360,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.2",
         "at": "2020-04-04 16:10:18",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Muchas gracias por su opini\u00f3n.",
+        "repliedAt": "2020-05-27 14:03:52"
     },
     {
         "userName": "Abraham F.S.",
@@ -1283,8 +1371,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.1",
         "at": "2020-04-04 15:22:19",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Muchas gracias por su opini\u00f3n",
+        "repliedAt": "2020-05-27 14:04:20"
     },
     {
         "userName": "Javier Garcia",
@@ -1349,8 +1437,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.1",
         "at": "2020-04-03 18:18:42",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Muchas gracias por su opini\u00f3n, sentimos que no le haya resultado \u00fatil.",
+        "repliedAt": "2020-05-27 14:06:27"
     },
     {
         "userName": "Natalia Preciado",
@@ -1360,8 +1448,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2020-04-03 13:51:38",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Muchas gracias por su opini\u00f3n, sentimos que no le haya resultado \u00fatil.",
+        "repliedAt": "2020-05-27 14:08:11"
     },
     {
         "userName": "Mikel F",
@@ -1371,8 +1459,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.1",
         "at": "2020-04-03 12:12:50",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Muchas gracias por su opini\u00f3n, nos agrada saber que las actualizaciones mejoran la app.",
+        "repliedAt": "2020-05-27 14:10:23"
     },
     {
         "userName": "Iker L\u00f3pez",
@@ -1393,8 +1481,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2020-04-03 09:04:42",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Muchas gracias por su opini\u00f3n.",
+        "repliedAt": "2020-05-27 14:10:51"
     },
     {
         "userName": "M\u00e9lida Garc\u00eda G\u00f3mez",
@@ -1404,8 +1492,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.1",
         "at": "2020-04-03 05:43:27",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "En las \u00faltimas versiones ya est\u00e1. Un saludo",
+        "repliedAt": "2020-05-28 10:31:56"
     },
     {
         "userName": "Elena Redondo",
@@ -1448,8 +1536,8 @@
         "thumbsUpCount": 20,
         "reviewCreatedVersion": "1.1",
         "at": "2020-04-02 17:51:04",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hola, esta aplicaci\u00f3n puede ser utilizada por cualquier persona del Estado, sin ning\u00fan l\u00edmite salvo el asistencial.\n\nDebemos distinguir la Comunidad a la que pertenece porque no podemos darle asistencia m\u00e9dica a alguien fuera de la CAV.",
+        "repliedAt": "2020-05-27 10:18:36"
     },
     {
         "userName": "Juan Carlos Arnaiz",
@@ -1470,8 +1558,8 @@
         "thumbsUpCount": 1,
         "reviewCreatedVersion": "1.1",
         "at": "2020-04-02 13:23:06",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Muchas gracias por su opini\u00f3n.",
+        "repliedAt": "2020-05-27 14:13:03"
     },
     {
         "userName": "Ane",
@@ -1485,17 +1573,6 @@
         "repliedAt": null
     },
     {
-        "userName": "Marijo Pelayo",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgxmQbKmI0mgPj8G7Yb4dhL1xuQjdBKbWXzGM0zUQ",
-        "content": "Esperando la descarga.....",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": null,
-        "at": "2020-04-02 11:28:15",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
         "userName": "juan casta\u00f1o",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhQPC7hTU15Goh-fX-2ymDauOa8A760S530uOKSSA",
         "content": "Solucionado ya puedes acceder a la Agenda .Rapida respuesta en tampoco tiempo felicidades. Animo a todo el mundo a descargar la aplicacion y ser rigurosos en su utilizacion es una herramienta no un juego hay vidas de por medio.",
@@ -1503,8 +1580,8 @@
         "thumbsUpCount": 1,
         "reviewCreatedVersion": "1.1",
         "at": "2020-04-02 10:12:09",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Muchas gracias por su opini\u00f3n.",
+        "repliedAt": "2020-05-27 14:13:56"
     },
     {
         "userName": "Raulete J.",
@@ -1525,8 +1602,8 @@
         "thumbsUpCount": 1,
         "reviewCreatedVersion": "1.1",
         "at": "2020-04-01 22:18:15",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Muchas gracias por su opini\u00f3n.",
+        "repliedAt": "2020-05-27 14:14:31"
     },
     {
         "userName": "I\u00f1aki Gutierrez Ibarluzea",
@@ -1536,8 +1613,8 @@
         "thumbsUpCount": 1,
         "reviewCreatedVersion": "1.1",
         "at": "2020-04-01 20:09:15",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Muchas gracias por su opini\u00f3n. Un saludo.",
+        "repliedAt": "2020-05-28 10:44:14"
     },
     {
         "userName": "E. M. S. d. O",
@@ -1558,8 +1635,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.0",
         "at": "2020-04-01 17:59:31",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Esperamos que ya haya podido entrar y le sea de utilidad.",
+        "repliedAt": "2020-05-28 10:46:36"
     },
     {
         "userName": "elena eguia",
@@ -1569,8 +1646,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.0.1",
         "at": "2020-04-01 14:44:05",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Muchas gracias por su opini\u00f3n. Un saludo.",
+        "repliedAt": "2020-05-28 10:46:58"
     },
     {
         "userName": "Alexander Ros\u00f3n",
@@ -1580,8 +1657,8 @@
         "thumbsUpCount": 21,
         "reviewCreatedVersion": "1.0.1",
         "at": "2020-04-01 13:37:21",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Muchas gracias por su opini\u00f3n y sugerencias, en las nuevas versiones hemos intentado mejorar funciones.",
+        "repliedAt": "2020-05-28 10:48:27"
     },
     {
         "userName": "Jose Antonio Murga",
@@ -1591,8 +1668,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2020-04-01 13:36:36",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Muchas gracias por su opini\u00f3n.",
+        "repliedAt": "2020-05-28 10:48:54"
     },
     {
         "userName": "Carolina f",
@@ -1613,8 +1690,8 @@
         "thumbsUpCount": 1,
         "reviewCreatedVersion": "1.0.1",
         "at": "2020-03-31 21:50:41",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Muchas gracias por su opini\u00f3n, intentaremos mejorar con algunas de sus sugerencias.",
+        "repliedAt": "2020-05-28 10:51:46"
     },
     {
         "userName": "capo smini",
@@ -1657,8 +1734,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.0",
         "at": "2020-03-31 17:24:51",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Esperamos que ya haya podido acceder. Un saludo.",
+        "repliedAt": "2020-05-28 10:54:51"
     },
     {
         "userName": "Josele Alves Gonzalez",
@@ -1668,8 +1745,8 @@
         "thumbsUpCount": 1,
         "reviewCreatedVersion": "1.0.1",
         "at": "2020-03-31 17:01:47",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Muchas gracias por su opini\u00f3n, en las nuevas versiones hemos intentado mejorar siguiendo las sugerencias de los usuarios.",
+        "repliedAt": "2020-05-28 10:57:30"
     },
     {
         "userName": "M\u00f3nica Diez",
@@ -1679,8 +1756,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2020-03-31 16:29:51",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Esperamos que ya hayas podido acceder. Un saludo.",
+        "repliedAt": "2020-05-28 10:58:35"
     },
     {
         "userName": "Lola Casal",
@@ -1690,8 +1767,8 @@
         "thumbsUpCount": 1,
         "reviewCreatedVersion": "1.0.1",
         "at": "2020-03-31 16:08:56",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Muchas gracias por su opini\u00f3n. Un saludo.",
+        "repliedAt": "2020-05-28 10:59:11"
     },
     {
         "userName": "Carmen P\u00e9rez Calleja",
@@ -1745,8 +1822,8 @@
         "thumbsUpCount": 1,
         "reviewCreatedVersion": "1.0.1",
         "at": "2020-03-31 08:51:45",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Muchas gracias por su opini\u00f3n. Un saludo.",
+        "repliedAt": "2020-05-28 11:05:25"
     },
     {
         "userName": "El Rinc\u00f3n de Kosko",
@@ -1789,8 +1866,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.0.1",
         "at": "2020-03-30 21:45:05",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "El acceso a los contactos ya se ha solucionado en la versi\u00f3n actual. Gracias por su opini\u00f3n. Un saludo.",
+        "repliedAt": "2020-05-28 11:09:08"
     },
     {
         "userName": "javi bouzas",
@@ -1800,8 +1877,8 @@
         "thumbsUpCount": 1,
         "reviewCreatedVersion": "1.0.1",
         "at": "2020-03-30 20:21:24",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Muchas gracias por su opini\u00f3n, en la versi\u00f3n actual funciona en ambas.",
+        "repliedAt": "2020-05-28 11:10:33"
     },
     {
         "userName": "Victoria Blanco",
@@ -1811,8 +1888,8 @@
         "thumbsUpCount": 1,
         "reviewCreatedVersion": "1.0",
         "at": "2020-03-30 20:01:26",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Muchas gracias por su opini\u00f3n. Un saludo.",
+        "repliedAt": "2020-05-28 11:11:03"
     },
     {
         "userName": "Jose TAMAYO",
@@ -1822,8 +1899,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.0.1",
         "at": "2020-03-30 20:00:54",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Muchas gracias por su opini\u00f3n.",
+        "repliedAt": "2020-05-28 11:11:45"
     },
     {
         "userName": "Ana Castroviejo",
@@ -1844,8 +1921,8 @@
         "thumbsUpCount": 3,
         "reviewCreatedVersion": "1.0.1",
         "at": "2020-03-30 18:31:59",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Muchas gracias por su opini\u00f3n.",
+        "repliedAt": "2020-05-28 11:27:55"
     },
     {
         "userName": "Javier Igartua",
@@ -1866,8 +1943,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.0",
         "at": "2020-03-30 17:06:58",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Muchas gracias por su opini\u00f3n, en las nuevas versiones hemos procurado mejorar algunas cosas.",
+        "repliedAt": "2020-05-28 11:34:47"
     },
     {
         "userName": "David San Miguel Dominguez",
@@ -1899,8 +1976,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.0",
         "at": "2020-03-30 16:05:24",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Esperamos que ya haya podido entrar con las nuevas versiones mejoradas.",
+        "repliedAt": "2020-05-28 11:39:03"
     },
     {
         "userName": "Raquel Hernando Briongos",
@@ -2020,8 +2097,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.0",
         "at": "2020-03-30 12:36:59",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Muchas gracias por su opini\u00f3n, en las nuevas versiones se han mejorado varias funciones.",
+        "repliedAt": "2020-05-28 12:05:55"
     },
     {
         "userName": "maiteaparicio Aparicio",
@@ -2036,7 +2113,7 @@
     },
     {
         "userName": "Silvia Ugalde",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgvBtMjgyY2QMnQym_vigHyF0m0c4o6NH8S2ibs",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gi0RTgzqR2f69Wv6SCdEhHpO3hP8xPg81g-9lJwhQ",
         "content": "No sirve para nada, no te deja meter los datos de tus c\u00edrculos y no te ofrece la informaci\u00f3n que anuncia.",
         "score": 1,
         "thumbsUpCount": 1,
@@ -2064,8 +2141,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.0",
         "at": "2020-03-30 11:08:22",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Muchas gracias por su opini\u00f3n.",
+        "repliedAt": "2020-05-28 12:23:09"
     },
     {
         "userName": "Elixabete Uriarte Ormaeche",
@@ -2086,8 +2163,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2020-03-30 10:47:26",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Muchas gracias por su opini\u00f3n. Un saludo.",
+        "repliedAt": "2020-05-28 12:28:08"
     },
     {
         "userName": "Ignacio Isusi",
@@ -2097,8 +2174,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.0",
         "at": "2020-03-30 10:36:20",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Muchas gracias por su opini\u00f3n. Un saludo.",
+        "repliedAt": "2020-05-28 12:29:32"
     },
     {
         "userName": "Hola Hola Hola",
@@ -2152,8 +2229,8 @@
         "thumbsUpCount": 1,
         "reviewCreatedVersion": "1.0",
         "at": "2020-03-30 09:53:24",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Muchas gracias por su opini\u00f3n, en las versiones m\u00e1s recientes estamos mejorando gracias a vuestras sugerencias.",
+        "repliedAt": "2020-05-28 14:20:09"
     },
     {
         "userName": "Luis Guinea",
@@ -2185,8 +2262,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2020-03-30 07:17:04",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Muchas gracias por su opini\u00f3n.",
+        "repliedAt": "2020-05-28 14:22:30"
     },
     {
         "userName": "mikel Roman",
@@ -2196,8 +2273,8 @@
         "thumbsUpCount": 1,
         "reviewCreatedVersion": "1.0",
         "at": "2020-03-30 07:04:47",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "En las \u00faltimas versiones ya se incluye esta opci\u00f3n. Gracias por su sugerencia.",
+        "repliedAt": "2020-05-28 14:23:41"
     },
     {
         "userName": "Estibaliz De Val",
@@ -2218,8 +2295,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.0",
         "at": "2020-03-29 23:50:54",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Muchas gracias por su opini\u00f3n, en la \u00faltima versi\u00f3n se han mejorado cosas gracias a vuestras sugerencias.",
+        "repliedAt": "2020-05-28 14:25:49"
     },
     {
         "userName": "Susana Ruiz de Azua",
@@ -2240,8 +2317,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.0",
         "at": "2020-03-29 22:30:41",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Muchas gracias por su opini\u00f3n. Un saludo",
+        "repliedAt": "2020-05-28 14:27:15"
     },
     {
         "userName": "Luka",
@@ -2251,8 +2328,8 @@
         "thumbsUpCount": 19,
         "reviewCreatedVersion": "1.0",
         "at": "2020-03-29 22:10:41",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Muchas gracias por su opini\u00f3n. Un saludo",
+        "repliedAt": "2020-05-28 14:27:54"
     },
     {
         "userName": "Miguel Mar\u00eda Ubillos Salaberria",
@@ -2262,8 +2339,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.0",
         "at": "2020-03-29 21:35:17",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Muchas gracias por su opini\u00f3n. Un saludo",
+        "repliedAt": "2020-05-28 14:28:05"
     },
     {
         "userName": "Arkaitz Bastida",
@@ -2633,7 +2710,7 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgIPGZ2s0Mu9_ns2eWTbE37sipQgmnwH2d6faelEA",
         "content": "Desarrollador: afirm\u00e1is que no quer\u00e9is ser demasiado intrusivos con la carga autom\u00e1tica de los contactos, pero el virus s\u00ed es intrusivo. Si no lo implement\u00e1is, probablemente la App no tenga \u00e9xito, ya que el usuario tipo no va a cargar manualmente sus contactos. Por lo dem\u00e1s, la idea es muy buena y os puede proporcionar datos muy interesantes si consegu\u00eds hacer funcionar socialmente la App (para lo cual necesitar\u00e9is lo que hemos comentado sobre los contactos). Muchas gracias",
         "score": 2,
-        "thumbsUpCount": 42,
+        "thumbsUpCount": 43,
         "reviewCreatedVersion": "1.0",
         "at": "2020-03-29 00:29:03",
         "replyContent": "Se va a incorporar en breve el acceso a la lista de contactos,. Muchas gracias por las sugerencias.",
@@ -2794,17 +2871,6 @@
         "repliedAt": "2020-03-29 18:21:17"
     },
     {
-        "userName": "Unai Fercol",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhuxKprigQ3N-ORgJj5tI0nak7LkRN97WBWibliHA",
-        "content": "Muy buena app. Sin embargo hay mejorar que deberia de hacerse. Como a\u00f1adir n\u00fameros desde la agenda de telefono.",
-        "score": 5,
-        "thumbsUpCount": 1,
-        "reviewCreatedVersion": "1.0",
-        "at": "2020-03-28 21:37:02",
-        "replyContent": "Se va a incorporar en breve el acceso a la lista de contactos.Muchas gracias por las sugerencia.",
-        "repliedAt": "2020-03-29 18:21:36"
-    },
-    {
         "userName": "I\u00f1igo Urberuaga",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgWs1Mksv7jy2fBEvKwKDI3IfXGLsx1NYyqwGH25g",
         "content": "No funciona",
@@ -2960,7 +3026,7 @@
     },
     {
         "userName": "Fernando ibarra arranz",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjGHTma0obQ6yD9BdhQ8jHClh_CFzxbSkD05aRUdQ",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgyNubLyOIeUL0RIUZAro4ItOKHVTrQAlML3VQETKg",
         "content": "No me deja abrila con el codigo del SMS enviado al m\u00f3vil y rellenando los datos opcionales. Me dice: Falta un dato. No se a q se refiere (?)",
         "score": 1,
         "thumbsUpCount": 2,

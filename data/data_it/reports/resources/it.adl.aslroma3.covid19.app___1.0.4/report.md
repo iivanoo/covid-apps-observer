@@ -218,6 +218,12 @@ The Covid-19 app has been installed by more than **10000** times. At this time, 
 <img src="1_star_reviews_wordcloud.png" alt="it.adl.aslroma3.covid19.app 1 reviews"/>
 </p>
 
+> Inserisco l'indirizzo di posta elettronica e non lo accetta. Da schifo<br> :date: __2020-05-31 15:28:34__
+
+> Bleee<br> :date: __2020-05-28 13:15:44__
+
+> Troppe omissioni<br> :date: __2020-05-25 16:30:20__
+
 > Magari scrivetelo che è per Roma o Lazio... Così uno evita di installare App a capocchia e inutilmente<br> :date: __2020-05-06 01:39:14__
 
 > Malware e Spyware<br> :date: __2020-05-05 13:49:42__
@@ -231,11 +237,5 @@ The Covid-19 app has been installed by more than **10000** times. At this time, 
 > Ho installato questa app però non funziona, quando metto la mia email e la password mi dice sempre dati errati...potete fare qualcosa? Se lo fate metto altre stelline<br> :date: __2020-04-25 00:22:26__
 
 > Dice errato<br> :date: __2020-04-24 23:09:25__
-
-> Sempre complicato, cancello.<br> :date: __2020-04-20 21:22:42__
-
-> Non riesco ad entrare<br> :date: __2020-04-20 13:12:47__
-
-> Ho installato l'ap ma non sono riuscita ad entrare mi dice che le mie credenziali sono errate<br> :date: __2020-04-20 00:18:51__
 
 

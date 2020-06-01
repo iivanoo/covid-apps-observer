@@ -132,6 +132,8 @@ The Sicilia Si Cura app has been installed by more than **1000** times. At this 
 <img src="5_star_reviews_wordcloud.png" alt="com.siciliasicura.app 5 reviews"/>
 </p>
 
+> Per attivare l'applicazione bisogna essere presenti nel luogo di residenza indicato al momento della registrazione. Non è possibile effettuare l'accesso prima della partenza<br> :date: __2020-05-29 11:08:55__
+
 > App utile e facile<br> :date: __2020-04-29 14:12:38__
 
 > App fantastica, semplice da utilizzare e veramente molto utile<br> :date: __2020-04-26 00:17:04__
@@ -149,8 +151,6 @@ The Sicilia Si Cura app has been installed by more than **1000** times. At this 
 > Contrariamente a quanto alcuni dicono l'app é ben fatta. Alcune capre non leggono e si lamentano inutilmente.<br> :date: __2020-04-23 18:41:50__
 
 > App molto utile, specialmente per chi ha il virus e si trova in isolamento domiciliare.<br> :date: __2020-04-22 10:34:23__
-
-> Semplice da usare ed utile<br> :date: __2020-04-21 16:00:54__
 
 
 
@@ -171,8 +171,6 @@ The Sicilia Si Cura app has been installed by more than **1000** times. At this 
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="com.siciliasicura.app 3 reviews"/>
 </p>
-
-> Non c'è il tasto per uscire dall'app senza effettuare la disconessione account. Per il resto, app semplice , utile e carina<br> :date: __2020-05-09 10:57:43__
 
 > Sarebbe comoda l'aggiunta di un reminder giornaliero che ricordi di aggiornare lo stato di salute e non solo quello delle passate 6 ore<br> :date: __2020-05-01 03:57:37__
 
@@ -202,9 +200,13 @@ The Sicilia Si Cura app has been installed by more than **1000** times. At this 
 <img src="1_star_reviews_wordcloud.png" alt="com.siciliasicura.app 1 reviews"/>
 </p>
 
-> Neanche si può installare. Sono due giorni che cerco di installare questa schifezza<br> :date: __2020-05-22 22:43:02__
+> Geolocalizzazione totalmente a caso, connesso alla stessa rete wi-fi da quando sono tornato ma ricevo il messaggio:"non sei stato localizzato ai confini di operatività...". Ora non posso più utilizzare l'app in pratica perché non riconosce più la posizione che aveva trovato in principio<br> :date: __2020-05-31 19:42:14__
 
-> Non riesco ad accederw<br> :date: __2020-05-22 11:07:58__
+> Applicazione insulsa Tutto ciò che fa é chiedere all'utente se presenta sintomi, se ha frequentato persone negli ultimi 15 giorni, e nel processo manda la localizzazione della sola posizione del telefono al momento dell'invio Ho letto il breve manuale nella sua interezza prima di scrivere una recensione Non é nemmeno utile a scopo sondaggistico Avrebbero potuto inserire una cosa semplicissima come un conto alla rovescia dei giorni di quarantena per chi ne é obbligato ma no, neppure questo<br> :date: __2020-05-25 20:28:22__
+
+> Ma come si spiega che ha due giorni che non riesco ad aggiornare lo stato di salute? Mi fa mettere le credenziali e mi dice Accesso Negato. Cmq sto bene.<br> :date: __2020-05-23 14:30:01__
+
+> Neanche si può installare. Sono due giorni che cerco di installare questa schifezza<br> :date: __2020-05-22 22:43:02__
 
 > Dopo essermi registrato mi dice accesso negato cosa devo fare?<br> :date: __2020-05-21 18:03:56__
 
@@ -217,9 +219,5 @@ The Sicilia Si Cura app has been installed by more than **1000** times. At this 
 > L'app è instabile, la geolocalizzazione sballata, impossibile disinstallarla...ASSURDO!<br> :date: __2020-05-03 09:22:12__
 
 > Come altri commenti... Mi chiede sempre l' indirizzo e non mi fa continuare<br> :date: __2020-05-02 23:37:36__
-
-> Volevo provare ad usarla ma non c'è modo di effettuare la registrazione sul sito siciliasicura e non è spiegato da nessuna parte<br> :date: __2020-04-30 21:42:22__
-
-> Mi sono iscritto il 26. 04 compilando tutto per quarantena ma l'App mi dice che sono sempre al 1 giorno?<br> :date: __2020-04-28 10:34:17__
 
 

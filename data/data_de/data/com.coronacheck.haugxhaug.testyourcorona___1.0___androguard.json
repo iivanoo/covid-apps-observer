@@ -1,0 +1,43 @@
+{
+    "permissions": [
+        "android.permission.ACCESS_FINE_LOCATION",
+        "android.permission.ACCESS_COARSE_LOCATION",
+        "android.permission.INTERNET"
+    ],
+    "activities": [
+        "com.coronacheck.haugxhaug.testyourcorona.TipsActivity",
+        "com.coronacheck.haugxhaug.testyourcorona.FAQActivity",
+        "com.coronacheck.haugxhaug.testyourcorona.ChatBotActivity",
+        "com.coronacheck.haugxhaug.testyourcorona.AboutActivity",
+        "com.coronacheck.haugxhaug.testyourcorona.MenuActivity",
+        "com.coronacheck.haugxhaug.testyourcorona.LoginActivity",
+        "com.coronacheck.haugxhaug.testyourcorona.RegistrationActivity",
+        "com.coronacheck.haugxhaug.testyourcorona.ForgotPasswordActivity",
+        "com.coronacheck.haugxhaug.testyourcorona.ResetPasswordActivity",
+        "com.coronacheck.haugxhaug.testyourcorona.QuestionnairesActivity",
+        "com.coronacheck.haugxhaug.testyourcorona.StudiesActivity",
+        "com.coronacheck.haugxhaug.testyourcorona.NotificationsActivity",
+        "com.coronacheck.haugxhaug.testyourcorona.ResultsActivity",
+        "com.coronacheck.haugxhaug.testyourcorona.LanguageActivity",
+        "com.coronacheck.haugxhaug.testyourcorona.ExtendedAppCompatActivity",
+        "com.coronacheck.haugxhaug.testyourcorona.QuestionnaireStructureActivity",
+        "com.coronacheck.haugxhaug.testyourcorona.AnswersheetsActivity",
+        "com.coronacheck.haugxhaug.testyourcorona.StartViewActivity",
+        "com.coronacheck.haugxhaug.testyourcorona.FirstLaunchActivity",
+        "com.coronacheck.haugxhaug.testyourcorona.MyProfileActivity",
+        "com.coronacheck.haugxhaug.testyourcorona.MessagesActivity"
+    ],
+    "urls": [
+        "http://schemas.android.com/apk/res/android",
+        "https://coronacheck.ukw.de",
+        "https://corona.trackyourhealth.net/data/en/ticker.txt",
+        "https://corona.trackyourhealth.net/data/de/ticker.txt",
+        "https://corona.trackyourhealth.net/data/en/areas.txt",
+        "https://corona.trackyourhealth.net/data/de/areas.txt",
+        "https://tools.rki.de/PLZTool/en-GB",
+        "https://tools.rki.de/PLZTool/",
+        "http://schemas.android.com/apk/res-auto",
+        "https://android.asset/",
+        "http://160.40.52.153/index_bg.html"
+    ]
+}

@@ -138,6 +138,10 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 <img src="5_star_reviews_wordcloud.png" alt="cat.gencat.mobi.StopCovid19Cat 5 reviews"/>
 </p>
 
+> Esta guau<br> :date: __2020-05-29 12:24:23__
+
+> Si bien el TEST no es del todo amplio y exacto, mi valoración de esta app es muy positiva en el aspecto del acompañamiento que los SANITARIOS han hecho, de forma muy correcta y amable, a las personas que hemos pasado la enfermedad en casa. Yo he recibido el mejor seguimiento y trato por parte de los sanitarios de la app que por parte de mi MÉDICO DE FAMILIA. Tristemente éste ni me llamó una vez. Todos los contactos que yo tuve con él han sido iniciados por mi misma. Muy agradecida a la app.<br> :date: __2020-05-28 11:47:04__
+
 > Esta bien para no colapsar los sistemas sanitarios<br> :date: __2020-05-12 21:00:41__
 
 > Muy buenas.<br> :date: __2020-05-12 18:38:01__
@@ -154,10 +158,6 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 
 > Si se hacen controles como en china iriamos mejor pues aqui en españa lo tenemos crudo el control sanitario<br> :date: __2020-04-23 17:09:23__
 
-> Ja l'he probat, i funciona sí<br> :date: __2020-04-19 16:06:47__
-
-> Molt important pel control i seguiment de la evolució de aquesta pandémia.! Bons consells oficials, guiats per a experts.<br> :date: __2020-04-17 14:40:23__
-
 
 
 #### 4-star reviews
@@ -165,6 +165,8 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="cat.gencat.mobi.StopCovid19Cat 4 reviews"/>
 </p>
+
+> Ha funcionat bé des de el primer día<br> :date: __2020-05-24 18:05:44__
 
 > Haver perdut el gust i l'olfacte, que segons un estudi força ampli fet x una U. dels EE. UU., una de Suėcia i diverses de la G Bretanya, que deveu conėixer, són mės importants x detectar qui ja l'ha passat o ės contagiarà properament. Gràcies Senador J Cambra Int JIC<br> :date: __2020-05-19 13:57:13__
 
@@ -184,8 +186,6 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 
 > Estic fent el seguiment però avui, quan intento prèmer el botó ACCEDEIX AL TEST, No hi accedeix..<br> :date: __2020-04-01 13:34:18__
 
-> No puedes dejar constancia si ya has tenido Covid19<br> :date: __2020-04-01 06:10:05__
-
 
 
 #### 3-star reviews
@@ -193,6 +193,8 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="cat.gencat.mobi.StopCovid19Cat 3 reviews"/>
 </p>
+
+> No ñellsimplemente<br> :date: __2020-05-29 21:40:28__
 
 > Poco detallada<br> :date: __2020-05-16 19:48:31__
 
@@ -211,8 +213,6 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 > Desconec si la LOPD té alguna cosa a veure però, és realment molest tenir que introduïr cada vegada el número de tarjeta sanitària.<br> :date: __2020-04-05 16:54:40__
 
 > estaria be que recordes el numero de tarja sanitaria. es molt molest haver-lo de possar cada vegada<br> :date: __2020-04-05 16:26:29__
-
-> Muy deficiente y poco fiable.<br> :date: __2020-04-04 21:44:59__
 
 
 
@@ -250,6 +250,14 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 <img src="1_star_reviews_wordcloud.png" alt="cat.gencat.mobi.StopCovid19Cat 1 reviews"/>
 </p>
 
+> No entenc encara l'objectiu d'aquesta aplicació... més inversió en els equips de primària i no tanta app que només recomana quedar-se a cada, és millor apuntar-se a un paper la simptomatologia.<br> :date: __2020-05-29 11:17:45__
+
+> Una basura, no serveix absolutament de res.<br> :date: __2020-05-28 20:11:40__
+
+> No me deja acceder<br> :date: __2020-05-27 20:36:17__
+
+> Desinstalada a los 5 min. No le veo sentido. No aporta nada útil.<br> :date: __2020-05-23 18:22:35__
+
 > gracias a apps de este tipo vamos a vivir una distopía<br> :date: __2020-05-22 13:46:28__
 
 > No serveix de massa falten altres dades, no tots els casos són de tipus respiratori, també hi han sintomes intestinals forts(edito, no serveix de res) llàstima<br> :date: __2020-05-14 15:24:24__
@@ -261,13 +269,5 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 > No serveix de res, no truca ningú, a la fin has de fer el de sempre, anar a urgències. Però la medalla ja està col·locada<br> :date: __2020-05-10 19:36:40__
 
 > Fatal, ya puedes intentar a diferentes horas del día que no funciona, eso sí, me a ayudado a memorizar mi targeta sanitaria de tantas veces ingresarla. Gracias¡<br> :date: __2020-05-08 22:16:50__
-
-> No tiene ninguna utilidad<br> :date: __2020-05-07 23:55:19__
-
-> Si sirviera para llevar control de asintomáticos o contagios... Pero para que sirve?<br> :date: __2020-05-05 14:18:09__
-
-> La aplicació és poc accessible<br> :date: __2020-04-30 14:24:34__
-
-> Muy Sencilla, y es muy molesto q no recuerde los datos del usuario por eso entrar cada vez se hace pesado<br> :date: __2020-04-29 15:40:12__
 
 

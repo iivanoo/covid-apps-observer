@@ -1,5 +1,38 @@
 [
     {
+        "userName": "Cristian Sguazzino",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjaFbh6E-e8XGbjjThU0H9f455zkf8BKBnvNw_mRA",
+        "content": "Salve, vorrei farvi notare che quando si compila l'autovalutazione, alla domanda: hai frequentato nelle ultime 2 settimane strutture sanitarie ? Io rispondo NO e al termine dei quesiti andando ad aprire il documento word con le mie risposte risulta SI per gli ospedali anche se la mia risposta, come gi\u00e0 ho detto, sia stata No! Ho provato 2 volte per sicurezza, ma il risultato \u00e8 lo stesso.",
+        "score": 4,
+        "thumbsUpCount": 2,
+        "reviewCreatedVersion": "1.0.15",
+        "at": "2020-05-28 05:22:18",
+        "replyContent": "Grazie per la segnalazione, stiamo verificando. Un saluto",
+        "repliedAt": "2020-05-27 12:41:31"
+    },
+    {
+        "userName": "Un utente Google",
+        "userImage": "https://lh3.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+        "content": "Io vorrei sapere solo se altri hanno un problema di covid io sono un paziente sano e vorrei solo prevenire il contagio",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.0.15",
+        "at": "2020-05-26 18:40:05",
+        "replyContent": "Lo scopo dell'applicazione \u00e8 anche quello di verificare la presenza di eventuali sintomi  da covid, attraverso la compilazione del questionario e misure che saranno rese visibili da piattaforma al medico. saluti",
+        "repliedAt": "2020-05-27 12:43:23"
+    },
+    {
+        "userName": "Mariagrazia Antonetti",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiuxwT5agt3UfGsKWrnCLp1z4C4dlTod9rP0G7X7Q",
+        "content": "L'ho appena installata memorizzando i miei dati ma cliccando sul link del SMS mi d\u00e0 errore. Per ora ho solo perso tempo.",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.0.15",
+        "at": "2020-05-23 16:19:44",
+        "replyContent": "Gentile utente, al fine di verificare quanto segnalato invii una mail alla casella lazioadvice@regione.lazio.it indicando CF; recapito email e N\u00b0 cell utilizzato e su quale inserimento dati riscontra problemi . Grazie in anticipo",
+        "repliedAt": "2020-05-25 14:40:41"
+    },
+    {
         "userName": "master runci",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhSIjJStmXhxcLjuo3xJ1JLmOMtuGCH7spReHi1",
         "content": "Non si riesce ad aprire perch\u00e9 indica numero telefonico. Mentre quello indicato \u00e8 assolutamente corretto",
@@ -15,7 +48,7 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgIpkyx0LiecB_sXjOtD0JFhQjX1g0tIEChoj8uu3g",
         "content": "Correggo la sottostante recensione, credo sia stato un malfunzionamento temporaneo, mi ha dato la possibilit\u00e0 di accedere e funziona. \"Pessimo funzionamento. Avevo gi\u00e0 installato l'applicazione ed avevo anche inserito i miei dati, ad un certo punto all'accesso (fase invio SMS di verifica) usciva un messaggio di errore che diceva che mi ero registrato con un altro numero (impossibile) e quindi non mi ha pi\u00f9 consentito l'accesso. Sarebbe utile se funzionasse!!!\"",
         "score": 3,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "1.0.15",
         "at": "2020-05-13 18:20:22",
         "replyContent": null,
@@ -155,7 +188,7 @@
     },
     {
         "userName": "**",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gj_EVm0g35QVvongHVJQkKsbfn2cHesszchR_dzRA",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgG3s_EhpvbPWyIZvUm1DU_fmmLwC1acMuA3n1-Kw",
         "content": "Fate prima a morire perch\u00e8 ogni volta che provate ad aprirla dovete reinserire tutti i dati compreso il codice fiscale e non credo che con la febbre a 40 ho tempo ne voglia ne lucidit\u00e0 per farlo. Ma del resto nel Lazio non abbiamo neanche le mascherine (regolarmente pagate con i soldi pubblici) quindi una App che non serve a niente \u00e8 il male minore. La elimino.",
         "score": 1,
         "thumbsUpCount": 10,
@@ -317,17 +350,6 @@
         "at": "2020-04-20 19:58:07",
         "replyContent": "Gentile utente, la ringrazio comunque per la sua segnalazione . Sviluppiamo l'APP per renderla sempre pi\u00f9 fruibile e sicura, stiamo verificando il comportamento per il suo dispositivo. Buona giornata",
         "repliedAt": "2020-04-10 19:35:53"
-    },
-    {
-        "userName": "Letizia Clemente",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gjhfqmjh3TxWWlxyQEq6ltB_aAJ-ASuntmTj5ay4A",
-        "content": "Dopo l'aggiornamento non funziona pi\u00f9",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.0.13",
-        "at": "2020-04-20 16:45:29",
-        "replyContent": "Gentile utente, le chiediamo di riprovare facendo attenzione che il CF inserito sia corretto. se ha ancora problemi pu\u00f2 inviare mail alla casella lazioadvice@regione.lazio.it indicando recapito email e N\u00b0 cell utilizzato. Saluti",
-        "repliedAt": "2020-04-20 16:55:06"
     },
     {
         "userName": "Marco Flammini",
@@ -1530,7 +1552,7 @@
     },
     {
         "userName": "Paola Rossetti",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgiH9oBBC7PRkR_j8p9dvB_b_9M8QUa4KPClIQTBw",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgyNiuMmfK7Mjt79AfXpfz-F2vzWoOW1MoI7kItq8g",
         "content": "Dopo l'aggiornamento , funziona",
         "score": 4,
         "thumbsUpCount": 2,
@@ -3964,7 +3986,7 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Ghy3g5e9-In9S9dCpAjGy3CR1JCHF1RYIF05d8FTA",
         "content": "Sto cercando di attivarlo. Ho scaricato. Ho dato il consenso a tutto. Ho compilato i campi suindicati. Ma il caricamento non avviene. E tanto meno mi arriva la email per la conferma dell'attivazione. Sono 20 minuti e pi\u00f9 che cerca di caricare. Ma nulla. \u00c8 il secondo tentativo. Fallito il primo ho disinstallato l'app e poi preinstallata. Ma nulla!! Rinuncio. Ps. Non ho capito perch\u00e9 si deve accedere alle foto o altro dove ci stanno contenuti magari riservati.",
         "score": 1,
-        "thumbsUpCount": 59,
+        "thumbsUpCount": 60,
         "reviewCreatedVersion": "1.0.3",
         "at": "2020-03-19 16:04:01",
         "replyContent": "invii una mail alla casella lazioadvice@regione.lazio.it con la problematica ed i suoi contatti. Un operatore la supporter\u00e0 nell'attivazione. Saluti",

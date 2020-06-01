@@ -191,6 +191,8 @@ The Coronika - Dein Corona Tagebuch app has been installed by more than **10000*
 <img src="4_star_reviews_wordcloud.png" alt="de.kreativzirkel.coronika 4 reviews"/>
 </p>
 
+> Die PDF-Exportdatei wird im Download-Verzeichnis nicht angezeigt.<br> :date: __2020-05-31 17:36:52__
+
 > Wäre gut wenn man die Ansicht in Wochen aufteilen könnte... ansonsten einfach und simpel<br> :date: __2020-05-07 22:57:54__
 
 > App ist einfach zu bedienen (wenn man den Dreh raus hat 😉). Schön, dass die Einträge bei mir bleiben und nicht automatisch irgendwo landen. Zwei Wünsche hätte ich: 1. Es wäre schön, wenn man Gruppen auswählen könnte (z.B. schätzt man, dass 20 weitere Kunden auch im Geschäft waren). Momentan sieht es so aus, als wäre nur 1 Person außer mir dort gewesen. 2. Kontakte aus dem Import lassen sich nicht löschen (brauche z.B. nicht den ADAC in der Liste). Wäre schön, wenn man die auch “wischen“ könnte.<br> :date: __2020-04-19 22:22:06__
@@ -209,8 +211,6 @@ The Coronika - Dein Corona Tagebuch app has been installed by more than **10000*
 
 > Sehr interessant<br> :date: __2020-03-31 22:37:38__
 
-> App ist eine gute Idee. Einige Bewertungen sprechen für eine Standort Freigabe. Könnte man in der App als Option einbauen. So kann jeder über seine datenfreigabeentscheiden. Seine eigenen Daten verbergen und trotzdem auf öffentliche Daten zugreife.der Nutzer bekommt Hinweis " infizierte Person war heute zu diesem Zeitpunkt auch dort" Ich war heute einkaufen. Wenn ich infiziertr wäre wüssten dann andere Nutzer dass sie möglicherweise Kontakt beim Einkaufen hatten. Das geht sicher auch anonym.<br> :date: __2020-03-31 12:07:35__
-
 
 
 #### 3-star reviews
@@ -218,6 +218,8 @@ The Coronika - Dein Corona Tagebuch app has been installed by more than **10000*
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="de.kreativzirkel.coronika 3 reviews"/>
 </p>
+
+> Das Export Protokoll ist verbesserungsbedürftig: bei den "Personen" wird überhaupt kein Tag/Datum genannt, und die Orte sind auch nicht chronologisch nach Datum sortiert<br> :date: __2020-05-25 18:11:51__
 
 > 50/50<br> :date: __2020-04-20 22:24:07__
 

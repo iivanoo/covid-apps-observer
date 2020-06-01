@@ -213,6 +213,14 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 <img src="1_star_reviews_wordcloud.png" alt="de.xikolo.openwho 1 reviews"/>
 </p>
 
+> Gates Trash<br> :date: __2020-05-31 14:34:34__
+
+> Was soll das kein Deutsch ???<br> :date: __2020-05-26 09:37:55__
+
+> nicht zu gebruchen du wirst total ausspionirt<br> :date: __2020-05-26 00:20:56__
+
+> Nur werbung<br> :date: __2020-05-23 16:53:18__
+
 > in Deutsch bitte<br> :date: __2020-05-18 12:53:36__
 
 > Kein deutsch<br> :date: __2020-05-12 15:46:33__
@@ -224,13 +232,5 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 > Kein deutsch<br> :date: __2020-04-13 17:57:42__
 
 > Kein deutsche Version Kein deutsche Version?<br> :date: __2020-04-11 21:01:24__
-
-> Nicht in Deutsch<br> :date: __2020-04-11 07:52:48__
-
-> Kein deutsch. Absolut unbrauchbar. Katastrophal. Muss zur sofortigen Deinstallation empfohlen werden<br> :date: __2020-03-31 00:56:01__
-
-> Kein deutsch, etwa noch Spam und Überwachung, Vertraue nicht. Sofort Deinstalliert<br> :date: __2020-03-28 10:37:10__
-
-> nichts deutsch habe ich wieder deinstalliert.<br> :date: __2020-03-25 18:42:53__
 
 

@@ -3,28 +3,28 @@
         "id": "com.proudcrowd.care",
         "store_country": "us",
         "store_lang": "en",
-        "latest_crawled_version": "2.5",
-        "latest_crawl": 1590232574
+        "latest_crawled_version": "2.8",
+        "latest_crawl": 1591004036
     },
     {
         "id": "gov.fema.mobile.android",
         "store_country": "us",
         "store_lang": "en",
         "latest_crawled_version": "2.11",
-        "latest_crawl": 1590232582
+        "latest_crawl": 1591004117
     },
     {
         "id": "gov.cdc.general",
         "store_country": "us",
         "store_lang": "en",
         "latest_crawled_version": "2.7.1",
-        "latest_crawl": 1590232586
+        "latest_crawl": 1591004120
     },
     {
         "id": "com.ri.crushcovid",
         "store_country": "us",
         "store_lang": "us",
         "latest_crawled_version": "1.0",
-        "latest_crawl": 1590232727
+        "latest_crawl": 1591004126
     }
 ]

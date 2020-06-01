@@ -145,6 +145,8 @@ The COVID-19 NI app has been installed by more than **50000** times. At this tim
 <img src="5_star_reviews_wordcloud.png" alt="net.hscni.covid19ni 5 reviews"/>
 </p>
 
+> I don't live in NI, and I don't have any covid symptoms but I was curious to see how this app worked, so I used an NI postcode and 'role-played'. This is great; clear and concise, with efficient links through to local health service info. We could definitely benefit from an app like this in mainland UK. Hats off to the developers! To those giving 1 star reviews, I note many of you do not live in NI & did not notice that the app was, therefore, not designed for you!!!<br> :date: __2020-05-27 19:31:24__
+
 > 🌍🌎🌏😷<br> :date: __2020-05-20 18:53:50__
 
 > This app got its rating destroyed by people across the water, therefore, the HSC deserve as many 5 star ratings as possible.<br> :date: __2020-05-14 06:12:38__
@@ -162,8 +164,6 @@ The COVID-19 NI app has been installed by more than **50000** times. At this tim
 > Was good great apps<br> :date: __2020-04-20 16:55:30__
 
 > Great app for people in NI (as stated in title), includes symptoms, contact details and advice for people in Northern Ireland. Our services operate differently than those in the UK so don't be an idiot and download if you're anywhere else in the world, it's not going to work for you.<br> :date: __2020-04-20 10:43:39__
-
-> Great app. Has bad reviews due to people being unable to read, it quite clearly says NI in the apps name.<br> :date: __2020-04-20 08:08:20__
 
 
 
@@ -217,6 +217,10 @@ The COVID-19 NI app has been installed by more than **50000** times. At this tim
 <img src="2_star_reviews_wordcloud.png" alt="net.hscni.covid19ni 2 reviews"/>
 </p>
 
+> Insta-crash. Pointless when it was working. Out of date news. Weblinks in one place might be useful. Contact Tracing search links to this app.<br> :date: __2020-06-01 07:52:25__
+
+> Sporadic updates. Better to just use google.<br> :date: __2020-05-26 17:42:14__
+
 > No updated figures since April 30<br> :date: __2020-05-04 17:55:33__
 
 > Sorry 2 stars only. App not for England or Wales. Advertised on the news as available all over UK and this is not so. So I've uninstalled it.<br> :date: __2020-04-11 23:08:08__
@@ -235,6 +239,10 @@ The COVID-19 NI app has been installed by more than **50000** times. At this tim
 <img src="1_star_reviews_wordcloud.png" alt="net.hscni.covid19ni 1 reviews"/>
 </p>
 
+> App is garbage. Only for NI.<br> :date: __2020-05-25 23:34:54__
+
+> What's the point of a Covid app for the public that doesn't even include the latest lockdown rules. Its like the government has gone to sleep now that things have eased. Should we also stop bothering to take things seriously? Och sure, where's the harm...<br> :date: __2020-05-25 10:42:48__
+
 > Not up to date, the recent info starts at 9 days old. I just googled what I was looking for instead. What's the point in this app if it doesn't have the latest updates for Northern Ireland?<br> :date: __2020-05-22 23:37:16__
 
 > Cobblers<br> :date: __2020-05-22 16:22:27__
@@ -250,9 +258,5 @@ The COVID-19 NI app has been installed by more than **50000** times. At this tim
 > This app does not work in Bristol UK... So this app is FAKE<br> :date: __2020-05-18 18:17:29__
 
 > Useless and a waste of tax payer money. What's the point of this app? It shows text which I can see on any website and get the same service as this "app". And it's only available to NI? What's next, a different app for every other village in NI? What a joke. It's clearly a set-up between developers and HSC to show the public they are doing something, in reality doing nothing.<br> :date: __2020-05-07 10:46:29__
-
-> To G Rice - You thick Mick NI is british<br> :date: __2020-05-05 10:11:13__
-
-> It works in Spain also!, just type a NI postcode. Funciona en España también, pon un CP Norirlandés. It's just the web in an app.<br> :date: __2020-05-01 01:45:21__
 
 

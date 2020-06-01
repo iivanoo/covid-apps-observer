@@ -134,6 +134,8 @@ The GVA Responde app has been installed by more than **10000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="es.gva.responde 5 reviews"/>
 </p>
 
+> Excelente<br> :date: __2020-05-29 07:43:47__
+
 > Muy completa y útil.<br> :date: __2020-05-20 16:38:14__
 
 > Información fiable y actualizada. Excelente aplicación<br> :date: __2020-05-19 19:28:45__
@@ -152,17 +154,17 @@ The GVA Responde app has been installed by more than **10000** times. At this ti
 
 > Fácil de usar y de entender. Enhorabuena<br> :date: __2020-04-20 01:25:39__
 
-> Be<br> :date: __2020-04-14 15:03:50__
-
 
 
 #### 4-star reviews
 
 <p align="center">
-
+<img src="4_star_reviews_wordcloud.png" alt="es.gva.responde 4 reviews"/>
 </p>
 
-No recent reviews available with 4 stars.
+> Pues gratamente sorprendida. Contiene informacion importante y bastante aclaratoria en esta locura de desescalada en la que no se aclara ni dios .... No le doy las 5 estrellas porque, bajo mi punto de vista, creo que le falta incluir las cifras diarias con la evolución de los contagios tanto de España como de la comunidad.<br> :date: __2020-05-24 13:47:13__
+
+
 
 #### 3-star reviews
 

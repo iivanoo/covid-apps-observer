@@ -139,6 +139,12 @@ The CRUSH COVID RI app has been installed by more than **5000** times. At this t
 <img src="5_star_reviews_wordcloud.png" alt="com.ri.crushcovid 5 reviews"/>
 </p>
 
+> Excellent tool to track all those sick people.<br> :date: __2020-05-29 21:11:47__
+
+> Eats to much battery<br> :date: __2020-05-27 18:23:52__
+
+> Thanks for help<br> :date: __2020-05-23 17:24:32__
+
 > App works great. No problem with wifi nor data. People having problem need to give permission to the app in order to work.<br> :date: __2020-05-20 04:28:11__
 
 > I think this will be interesting<br> :date: __2020-05-20 03:32:36__
@@ -147,15 +153,11 @@ The CRUSH COVID RI app has been installed by more than **5000** times. At this t
 
 > Will really help with contact tracing! Love this! Everything on the app seems to be working great.<br> :date: __2020-05-19 21:42:11__
 
-> So far so good the first day. Cases by Geography needs the legend to scale with the map. Hard to click on anything south of Cranston. :/<br> :date: __2020-05-19 20:31:18__
-
 > Quick and easy install and setup. App works as designed as far as I can tell. Useful info on volunteer opportunities is a great addition.<br> :date: __2020-05-19 19:43:22__
 
 > Easy to set up. Stay safe!<br> :date: __2020-05-19 19:35:42__
 
 > Anything that helps the community "crush" this virus is worthwhile to use<br> :date: __2020-05-19 19:22:56__
-
-> App is completely anonymous and does not ask the user to share any personal information.<br> :date: __2020-05-18 18:28:56__
 
 
 
@@ -164,6 +166,8 @@ The CRUSH COVID RI app has been installed by more than **5000** times. At this t
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.ri.crushcovid 4 reviews"/>
 </p>
+
+> Took (me) some extra effort to find the app but it was Soo easy to download it once I finally found it. Very simple to use and I feel Very safe about my privacy control. GJGR!<br> :date: __2020-05-24 10:19:46__
 
 > Does what its supposed to however I can only set it to detect location when app is in use. There's no way that I've found to set it all the time.<br> :date: __2020-05-22 04:56:47__
 
@@ -185,15 +189,21 @@ The CRUSH COVID RI app has been installed by more than **5000** times. At this t
 <img src="3_star_reviews_wordcloud.png" alt="com.ri.crushcovid 3 reviews"/>
 </p>
 
+> It would work fine, except it should not require being in a location for 10 minutes to add it to your location. I walked by several people without masks on today, but my location record shows that I haven't left home.<br> :date: __2020-05-29 21:13:15__
+
+> Tracker does not update correctly.<br> :date: __2020-05-26 11:23:20__
+
+> App has helpful information but the My Location Diary has been inaccurate.<br> :date: __2020-05-25 17:18:49__
+
+> Started off well but crushed my battery and has been causing issues with my GPS using apps. Can't have it on all the time which kind of defeats the point.<br> :date: __2020-05-24 17:43:32__
+
+> Great public health service, but the foreground only location permissions seems to be incorrectly confirmed?<br> :date: __2020-05-24 00:55:57__
+
 > Easy install. All you need is to enable gps permissions. Location data is saved on the phone and you can review the locations you went to. I found you can turn off the tracking mg in the settings by pulling down the menu, swiping left on the crush covid icon, and click the clog. Then toggle the button to disable. There needs to be a way to turn on and off easier from the top pull down menu. This will allow users to turn off when at home to save battery.<br> :date: __2020-05-23 02:17:51__
 
 > Location info not 100% accurate. Since I don't spend 20 minutes at every place I visit, you should add a location manually button.<br> :date: __2020-05-23 00:18:42__
 
-> Not exactly accurate. It didn't record my trips on the morning of 5/22nd. I thought this was supposed to be up to date tracking<br> :date: __2020-05-22 19:15:46__
-
 > Good information, however, the location is not very accurate.<br> :date: __2020-05-22 16:08:09__
-
-> According to the app's tracking history, I was at an address for 53 minutes, which I wasn't. I didn't even go by that address.<br> :date: __2020-05-21 00:55:05__
 
 > Informative and useful ap. Easy to use. Unfortunately it interfered with the location on Pokemon Go so I had to uninstall it.<br> :date: __2020-05-20 02:55:09__
 
@@ -204,6 +214,16 @@ The CRUSH COVID RI app has been installed by more than **5000** times. At this t
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="com.ri.crushcovid 2 reviews"/>
 </p>
+
+> Not accurate. Looking at my history it has me at places I've never even been close too!<br> :date: __2020-05-31 00:28:14__
+
+> Killed my battery quickly. Makes sense but google maps does the same tracking of where I go.<br> :date: __2020-05-26 22:35:54__
+
+> Location does not work all the time, only if app is running, so it useless, as I can't seem to set it to access location all the time? So the location data is not updating.<br> :date: __2020-05-25 18:06:42__
+
+> Getting better each day. Hopefully, it is adapted to work on mobile devices.<br> :date: __2020-05-24 04:53:55__
+
+> I drove on a road near my house I was on this street for total of1 min because of stop sign . I diary say I was on this street for 22min. Maybe once glitches are fixed it will be a better app. But for now I'll continue to write where ever I go and who I see.<br> :date: __2020-05-23 18:40:57__
 
 > I think the point of this app is great. And I don't know if it's my phone or the app but I have been home all day today yet it says I have been to places up the street from me. Like I said, it could be my phone. This hasn't just happened today, but other days too.<br> :date: __2020-05-22 22:06:35__
 
@@ -223,6 +243,18 @@ The CRUSH COVID RI app has been installed by more than **5000** times. At this t
 <img src="1_star_reviews_wordcloud.png" alt="com.ri.crushcovid 1 reviews"/>
 </p>
 
+> Bad spying app<br> :date: __2020-05-30 19:15:13__
+
+> Glitchy and inaccurate. Has not updated my whereabouts in 4 days even though I traveled to the other end of the state where I stayed for four hours. Prior to the last place it says I've been, it also records me being places I have never been (including a street over when I was sleeping in my bed) and missed my entire 30 min grocery shop run. Sent messages to IT but no response. How much did this app cost?<br> :date: __2020-05-29 00:35:51__
+
+> I get why RI wanted to have something sooner rather than later but this app does not follow the standard conventions and frameworks the major contact tracing applications use. Rather than use BLE to ping anonymous IDs for _proximity_ detection they are storing your full location history locally.<br> :date: __2020-05-28 04:39:43__
+
+> Completely inaccurate.<br> :date: __2020-05-27 02:56:07__
+
+> I am deleting this app. The location data is joke. I have had it installed for 3 days now and there about a dozen locations in the data that say I was there for long periods of time that I have been nowhere near. Useless.<br> :date: __2020-05-23 19:48:23__
+
+> Uninstalling. The location diary is wholly inaccurate and I can get the other info elsewhere<br> :date: __2020-05-23 14:49:10__
+
 > Does not work! I have not left my house since I downloaded it, yet it states I have been in 5 different places! I uninstalled it!<br> :date: __2020-05-22 18:10:29__
 
 > Won't download😠😠<br> :date: __2020-05-22 13:48:07__
@@ -230,17 +262,5 @@ The CRUSH COVID RI app has been installed by more than **5000** times. At this t
 > It said I was at a location for 53 minutes that I passed by on a ride but it won't say I was home for the 10 hours while working<br> :date: __2020-05-22 00:42:43__
 
 > Doesn't go beyond choosing a language<br> :date: __2020-05-21 22:50:11__
-
-> Locations are not correct.<br> :date: __2020-05-21 03:29:13__
-
-> The my location diary is not very useful if it's only going to register somewhere I've been for 10 minutes or more. It takes less then a second for somebody to cough or sneeze on you. I went to 3 places today and only one registered in my diary. One of the places that did not register had a worker who was not wearing a face mask. So this place would have been the highest likelihood to get me sick and I wouldn't have been able to track it and the DOH would have inaccurate information.<br> :date: __2020-05-21 02:41:04__
-
-> I Do not consent to the state tracking me.<br> :date: __2020-05-21 00:53:16__
-
-> I get why RI wanted to have something sooner rather than later but this app does not follow the standard conventions and frameworks the major contact tracing applications use. Rather than use BLE to ping anonymous IDs for _proxity_ detection they are storing your full location history locally.<br> :date: __2020-05-20 17:02:04__
-
-> Highly insecure and unstable. References non-specific security policies, absent HIPAA compliance. Provides examples of some information, not all information collected<br> :date: __2020-05-20 15:55:42__
-
-> While I understand and appreciate the good will and intent behind the creation of this app, the implementation is severely flawed. Using a persistent foreground service with GPS lock is going to significantly drain users battery, to the point where this app will likely become less useful as devices enter battery saving mode or simply turn off. I believe there are better and more user-friendly ways to introduce an experience like this that balance good will while preserving device resources.<br> :date: __2020-05-20 15:03:38__
 
 

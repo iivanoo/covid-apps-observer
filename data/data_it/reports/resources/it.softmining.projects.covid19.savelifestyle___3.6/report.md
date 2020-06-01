@@ -181,6 +181,18 @@ The SM_Covid19 app has been installed by more than **10000** times. At this time
 <img src="5_star_reviews_wordcloud.png" alt="it.softmining.projects.covid19.savelifestyle 5 reviews"/>
 </p>
 
+> Si presenta bene 👍 vedremo se è valida<br> :date: __2020-05-30 18:59:50__
+
+> Spero che serva per la mia tranquillita, perche sono in cura per una B.P.C.O<br> :date: __2020-05-28 19:04:30__
+
+> Ottima<br> :date: __2020-05-28 06:13:42__
+
+> Ottimo Proviamola<br> :date: __2020-05-26 12:37:25__
+
+> Fa il suo dovere...<br> :date: __2020-05-25 19:03:11__
+
+> Utile<br> :date: __2020-05-23 16:17:59__
+
 > Ottimo!<br> :date: __2020-05-22 22:17:43__
 
 > Ottima<br> :date: __2020-05-18 22:36:53__
@@ -188,18 +200,6 @@ The SM_Covid19 app has been installed by more than **10000** times. At this time
 > Siete bravi complimenti<br> :date: __2020-05-18 17:31:28__
 
 > Ottima app.?<br> :date: __2020-05-15 20:42:37__
-
-> Lo appena scaricato per adesso li do 5 stelle per adesso mi dà rischio 0 poi vedremo più avanti<br> :date: __2020-05-15 20:41:15__
-
-> C'è qualcuno che può aiutarmi. Secondo me non funziona questa App. Forse sono io che non la capisco. Se qualcuno mi aiuta<br> :date: __2020-05-14 21:12:17__
-
-> Bella app. Aggiornamento proprio adesso. Cinque stelline meritate. Aggiornamento proprio adesso<br> :date: __2020-05-14 20:15:01__
-
-> Estate utile grazie⭐⭐⭐⭐⭐<br> :date: __2020-05-14 16:16:26__
-
-> Non lo so ancora lo scaricato poi vedro se funziona<br> :date: __2020-05-13 20:29:58__
-
-> Ok privacy! Intuitiva. Well done!<br> :date: __2020-05-13 00:20:05__
 
 
 
@@ -265,6 +265,8 @@ The SM_Covid19 app has been installed by more than **10000** times. At this time
 <img src="2_star_reviews_wordcloud.png" alt="it.softmining.projects.covid19.savelifestyle 2 reviews"/>
 </p>
 
+> Durante l'installazione viene chiesto di abilitare 3 funzioni (bluetooth, avvio automatico etc.) ma appena ne seleziono una, passa alla schermata successiva e non da la possibilità di abilitare le altre 2. Inoltre, se entro nelle Impostazioni e spunto "Permetti l'uso del GPS", quando esco e rientro lo trovo ancora non spuntato.<br> :date: __2020-06-01 10:55:24__
+
 > Per ora due stelle. Piuttosto invadente, è una notifica continua! Se si chiude arriva subito una notifica e si riapre. Non può lavorare in background come tutte le altre senza sostituirsi alla schermata principale? E usare solo la geolocalizzazione senza dover tenere acceso anche il bluetooth, sia per il risparmio energetico della batteria sia per evitare inavvertitamente di concedere l'accesso al telefono ad un dispositivo sconosciuto? Aggiornamento: Ok per le notifiche, non ci sono più ma KO per la whitelist perché non può e non deve prosciugare la batteria.<br> :date: __2020-05-21 09:34:47__
 
 > Disinstalla quasi subito, mi appare in modo quasi continuo la notifica da parte di questa app di un consumo eccessivo della batteria.<br> :date: __2020-05-16 16:25:43__
@@ -283,8 +285,6 @@ The SM_Covid19 app has been installed by more than **10000** times. At this time
 
 > Popup impostazione bluetooth che continua ad apparire.Sarò ben padrone di disabilitarlo se ne ho necessitá. Disinstallata<br> :date: __2020-04-21 15:45:26__
 
-> Ho installato. Poi nei permessi, l'ultimo, evidentemente la scelta non era corretta. Ma per cambiare scelta ho dovuto disinstallare l'app e reinstallare. Non un buon inizio...<br> :date: __2020-04-21 14:32:57__
-
 
 
 #### 1-star reviews
@@ -292,6 +292,12 @@ The SM_Covid19 app has been installed by more than **10000** times. At this time
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="it.softmining.projects.covid19.savelifestyle 1 reviews"/>
 </p>
+
+> Fa schifo, rimangono sempre notifiche indecifrabili....<br> :date: __2020-05-31 10:27:26__
+
+> Non funziona è come se fosse zoomata e non si visualizza tutto<br> :date: __2020-05-27 08:13:39__
+
+> Questa e' app ufficiale immuni?<br> :date: __2020-05-25 23:53:42__
 
 > Manca tipologia di utente soccoritore<br> :date: __2020-05-09 15:39:05__
 
@@ -306,11 +312,5 @@ The SM_Covid19 app has been installed by more than **10000** times. At this time
 > NON FATEVI TRACCIARE DA QUESTA APP. È TUTTA UNA GROSSA PRESA IN GIRO, NON CASCATECI! ATTENTI ITALIANI!<br> :date: __2020-05-02 22:38:22__
 
 > Io lo scaricata ma nn ho capito come funziona.<br> :date: __2020-05-01 22:46:10__
-
-> - (1). Come per le versioni beta precedenti, permane la richiesta di permessi non necessari, quali accesso a fotocamera e NFC. Peraltro con autorizzazione NFC, questo viene "spammato abbestia"... \*\*EDIT : NFC spamming Fixed in build 2.5 #13 - Permessi camera e NFC ancora presenti causa mantenimento codice barcode scanner journeyapps - EDIT2 : permesso NFC rimosso in build 3.1 #16 - EDIT3 : rimossi (finalmente) codice Journeyapps barcode scanner & permesso fotocamera in build 3.2 #18. In tale build sono stati però aggiunti nuovi permessi lettura&scrittura External Storage...\*\* . - (2). Presenti ancora problemi di riattivazione indesiderata in foreground con situazioni successive di crash / app, che non risponde correttamente/prontamente, tentando di rimetterla in background. . \*\*EDIT : Partially fixed in build 2.5 #13 = cambiata gestione in background & OK supporto notifica persistente / ancora sporadiche riattivazioni indesiderate in foreground - EDIT2 : fixed in build 3.1 #16\*\* . - (3). Errata gestione di richiesta opt-in per l'utilizzo dei servizi di localizzazione, dato che non si attiva quando l'utente effettivamente flagga/autorizza geolocalizzazione e GPS, ma anche per il solo BT peer contact-tracing \*\*EDIT2 : cambiata gestione trasmissione coordinate GPS ad API OpenSignal ed Istanza Firebase in build 3.1 #16\*\*. . - (4). Ci sono precise linee guida - a seguito dell'emergenza - che regolano la pubblicazione sul Play Store di app a tema COVID, che prevedono autorizzazione ufficiale esplicita da parte di Autorità Governative e/o Enti operanti in ambito sanitario. Non si ravvisano esplicitamente tali elementi necessari in relazione alle info di pubblicazione per quest'applicazione. . - Per tali motivi si è proceduto ad inoltrare apposito report per app inappropriata al supporto sviluppatori Google Play, onde effettuare le verifiche preposte. - \*\*EDIT : Inoltrata segnalazione 15/04 a MID (Ministero per l'Innovazione tecnologica e la Digitalizzazione), onde consentire le relative verifiche, anche a seguito delle ufficializzazioni 16/04 in merito all'app nazionale di contact-tracing\*\*.<br> :date: __2020-04-29 21:42:55__
-
-> Pessima rallenta il telefono s9+. È impossibile scaricare o ascoltare musica ininterrotta e qualsiasi altra operazione sembra impossibile. Disinstallata subito il telefono è tornato come prima. Servono stelle in negativo<br> :date: __2020-04-28 14:06:24__
-
-> Ma a che serve? Non e attivo nulla, non c'è una mappa, se utilizzo deliveroo faccio prima. Ma come funziona perfettamente??? Da le statistiche e basta ..<br> :date: __2020-04-24 17:49:26__
 
 

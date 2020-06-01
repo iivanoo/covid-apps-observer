@@ -1,5 +1,49 @@
 [
     {
+        "userName": "Giovanni Ledda",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gib-S1CBNP_ndQTvBejNBshoZPe5t4FEwjYidYu",
+        "content": "Geolocalizzazione totalmente a caso, connesso alla stessa rete wi-fi da quando sono tornato ma ricevo il messaggio:\"non sei stato localizzato ai confini di operativit\u00e0...\". Ora non posso pi\u00f9 utilizzare l'app in pratica perch\u00e9 non riconosce pi\u00f9 la posizione che aveva trovato in principio",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.0",
+        "at": "2020-05-31 19:42:14",
+        "replyContent": "Verosimilmente un problema del suo dispositivo. Provi a spegnere e riaccendere lo smartphone.",
+        "repliedAt": "2020-06-01 10:38:56"
+    },
+    {
+        "userName": "Enrico Guagliardo",
+        "userImage": "https://lh3.googleusercontent.com/-XBd9fhNenmo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucly4g51Xzx5P_jQo8HGYK1JUxKxag/photo.jpg",
+        "content": "Per attivare l'applicazione bisogna essere presenti nel luogo di residenza indicato al momento della registrazione. Non \u00e8 possibile effettuare l'accesso prima della partenza",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.0",
+        "at": "2020-05-29 11:08:55",
+        "replyContent": "Gentile Enrico, se ha effettuato correttamente la registrazione, ricevendo conferma di registrazione avvenuta, dovrebbe verificare la correttezza delle credenziali, se il problema persiste le suggeriamo di effettuare un reset della password. Per qualsiasi dubbio pu\u00f2 consultare il manuale d'uso visibile al link: http://tinyurl.com/siciliasicura",
+        "repliedAt": "2020-05-22 11:35:53"
+    },
+    {
+        "userName": "Dyprex",
+        "userImage": "https://lh3.googleusercontent.com/-zPFScVL02w0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmqYQ1JBV0NXdJEu5frmM5n8V09sQ/photo.jpg",
+        "content": "Applicazione insulsa Tutto ci\u00f2 che fa \u00e9 chiedere all'utente se presenta sintomi, se ha frequentato persone negli ultimi 15 giorni, e nel processo manda la localizzazione della sola posizione del telefono al momento dell'invio Ho letto il breve manuale nella sua interezza prima di scrivere una recensione Non \u00e9 nemmeno utile a scopo sondaggistico Avrebbero potuto inserire una cosa semplicissima come un conto alla rovescia dei giorni di quarantena per chi ne \u00e9 obbligato ma no, neppure questo",
+        "score": 1,
+        "thumbsUpCount": 3,
+        "reviewCreatedVersion": "4.0",
+        "at": "2020-05-25 20:28:22",
+        "replyContent": "Grazie per il commento. La sorprender\u00e0 sapere che l'APP fa esattamente quello per cui \u00e8 stata progettata: poter verificare salute ed esposizione, ossia il cosiddetto \"Diario Clinico\". Il conto alla rovescia dei giorni di quarantena \u00e8 disponibile per l'amministrazione e non per l'utente finale, visto che non dipende dall'uso (volontario) dell'APP.",
+        "repliedAt": "2020-05-26 10:13:13"
+    },
+    {
+        "userName": "sergio spallino",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjFXI1SplTEny-CcJxHO4X0MgzbpFb_WO9VH6wt",
+        "content": "Ma come si spiega che ha due giorni che non riesco ad aggiornare lo stato di salute? Mi fa mettere le credenziali e mi dice Accesso Negato. Cmq sto bene.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.0",
+        "at": "2020-05-23 14:30:01",
+        "replyContent": "Gentile Sergio, pu\u00f2 provare a riavviare il suo smartphone, se il problema persiste potrebbe essere risolutivo disinstallare e installare nuovamente l'app. Per maggiori informazioni su Sicilia Si Cura \u00e8 possibile consultare il manuale d'uso visibile al link: http://tinyurl.com/siciliasicura",
+        "repliedAt": "2020-05-25 09:14:27"
+    },
+    {
         "userName": "Giuseppe Tamburello",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjBRhMWTCSYio2bmjNuuSZz8livP1sYPPM79JUT",
         "content": "Neanche si pu\u00f2 installare. Sono due giorni che cerco di installare questa schifezza",
@@ -7,19 +51,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2020-05-22 22:43:02",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "userName": "Enrico Guagliardo",
-        "userImage": "https://lh3.googleusercontent.com/-XBd9fhNenmo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucly4g51Xzx5P_jQo8HGYK1JUxKxag/photo.jpg",
-        "content": "Non riesco ad accederw",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "4.0",
-        "at": "2020-05-22 11:07:58",
-        "replyContent": "Gentile Enrico, se ha effettuato correttamente la registrazione, ricevendo conferma di registrazione avvenuta, dovrebbe verificare la correttezza delle credenziali, se il problema persiste le suggeriamo di effettuare un reset della password. Per qualsiasi dubbio pu\u00f2 consultare il manuale d'uso visibile al link: http://tinyurl.com/siciliasicura",
-        "repliedAt": "2020-05-22 11:35:53"
+        "replyContent": "Gentile Giuseppe, sebbene l'app sia compatibile con la maggioranza delle versioni Android, una versione troppo obsoleta potrebbe far si che a monte il play store non consenta il download dell'app. Per maggiori informazioni su Sicilia Si Cura pu\u00f2 consultare il manuale d'uso visibile al link: http://tinyurl.com/siciliasicura",
+        "repliedAt": "2020-05-25 09:12:11"
     },
     {
         "userName": "Giovanna Lo Cascio",
@@ -70,7 +103,7 @@
         "userImage": "https://lh3.googleusercontent.com/-GdCuy3bDFOM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmSBaI4FgYJsrIx6hNeryAC3ropRQ/photo.jpg",
         "content": "Io devo rientrare in Sicilia e al momento della registrazione mi dice che la mia posizione non \u00e8 nel territorio regionale. Ma io per rientrare in Sicilia devo per forza registrarmi? come faccio se non mi fa registrare? Non capisco, se qualcuno pu\u00f2 rispondere grazie.",
         "score": 2,
-        "thumbsUpCount": 4,
+        "thumbsUpCount": 10,
         "reviewCreatedVersion": "4.0",
         "at": "2020-05-12 12:12:40",
         "replyContent": "Il manuale (http://tinyurl.com/siciliasicura) spiega che, per utilizzare alcune funzioni dell'APP, \u00e8 necessario essere presenti sul territorio. Pu\u00f2 completare la registrazione, se vorr\u00e0, quando sar\u00e0 in Sicilia: non \u00e8 obbligatorio. Per la registrazione sul portale siciliacoronavirus.it faccia riferimento alle ordinanze del Presidente della Regione.",
@@ -81,7 +114,7 @@
         "userImage": "https://lh3.googleusercontent.com/-C2BsCYpnD2o/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnyVd9dIkZFT_TXBACvglVT3_kvwA/photo.jpg",
         "content": "Devo tornare a casa tra qualche giorno e come indicato mi sono registrata al sito indicando il luogo di partenza e di arrivo. Ora ho scaricato l'app, ho ricevuto l'email e la password ma non riesco ad accedere perch\u00e9 mi chiede la geolocalizzazione. Mi spiegate cosa devo fare? Che senso ha impedire l'accesso perch\u00e9 sono fuori dal comune? l'ho scaricata apposta perch\u00e9 sono fuori e devo rientrare.",
         "score": 2,
-        "thumbsUpCount": 8,
+        "thumbsUpCount": 15,
         "reviewCreatedVersion": "4.0",
         "at": "2020-05-11 17:56:46",
         "replyContent": "Potr\u00e0 completare, con calma, la registrazione una volta rientrata in Sicilia. Ove la password fosse scaduta potr\u00e0 richiederne una nuova cliccando su \"recupera password\".",
@@ -97,17 +130,6 @@
         "at": "2020-05-11 07:41:37",
         "replyContent": "Gentile Lucia, per comprendere il corretto funzionamento dell'app, pu\u00f2 fare riferimento al manuale d'uso http://tinyurl.com/siciliasicura\nSe anche seguendo le istruzioni non dovesse poter aprire l'app, le suggeriamo di verificare il corretto funzionamento del device.",
         "repliedAt": "2020-05-11 09:51:29"
-    },
-    {
-        "userName": "Vincenzo Sorce",
-        "userImage": "https://lh3.googleusercontent.com/-Czvfw-z1K28/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclvMu9q5IxQYai4PCrvjZbCLP7wcA/photo.jpg",
-        "content": "Non c'\u00e8 il tasto per uscire dall'app senza effettuare la disconessione account. Per il resto, app semplice , utile e carina",
-        "score": 3,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "4.0",
-        "at": "2020-05-09 10:57:43",
-        "replyContent": "Grazie per il feedback!",
-        "repliedAt": "2020-05-15 12:47:25"
     },
     {
         "userName": "Lucia Durisi",

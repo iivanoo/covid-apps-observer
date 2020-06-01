@@ -181,6 +181,8 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 <img src="4_star_reviews_wordcloud.png" alt="de.xikolo.openwho 4 reviews"/>
 </p>
 
+> Coronavirus<br> :date: __2020-05-27 13:53:07__
+
 > Uma pena não ser em português.<br> :date: __2018-01-18 01:21:10__
 
 

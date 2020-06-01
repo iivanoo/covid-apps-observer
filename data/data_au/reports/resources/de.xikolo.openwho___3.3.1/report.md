@@ -165,25 +165,25 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 <img src="5_star_reviews_wordcloud.png" alt="de.xikolo.openwho 5 reviews"/>
 </p>
 
-> Best learning experience<br> :date: __2020-05-23 08:10:23__
+> it is nice app<br> :date: __2020-05-31 05:08:00__
 
-> Very good knowledge source<br> :date: __2020-05-22 18:54:31__
+> Good application<br> :date: __2020-05-30 21:05:42__
 
-> This application is very important for fight against all viruses. 👌👌👍<br> :date: __2020-05-20 20:02:12__
+> The best one. Provides lots of online courses nd a lott of knowledge. And also the course completion certificate.<br> :date: __2020-05-30 18:04:02__
 
-> Very use full and informative app<br> :date: __2020-05-20 14:17:27__
+> Security update<br> :date: __2020-05-30 14:19:31__
 
-> Best<br> :date: __2020-05-17 20:40:50__
+> Great educational app<br> :date: __2020-05-30 11:59:12__
 
-> Good<br> :date: __2020-05-17 00:38:34__
+> The App is very amazing and I have learned alot from it.<br> :date: __2020-05-28 18:13:08__
 
-> Very usefull app<br> :date: __2020-05-17 00:24:33__
+> Great<br> :date: __2020-05-28 15:11:18__
 
-> Great app for healthcare providers who are willing to learn about the global health issues especially to the emerging viruses that may cause pandemics. Convenient and easy to access plus it's free,<br> :date: __2020-05-16 15:52:32__
+> I personally experience new knowledge about health perspective. Also get e-certificate of participation and achievement.<br> :date: __2020-05-26 09:14:04__
 
-> ممتازه<br> :date: __2020-05-15 21:55:53__
+> Great application 👌👌<br> :date: __2020-05-26 08:46:23__
 
-> Good<br> :date: __2020-05-14 15:29:40__
+> Useful app<br> :date: __2020-05-26 05:31:40__
 
 
 
@@ -192,6 +192,8 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="de.xikolo.openwho 4 reviews"/>
 </p>
+
+> Good app of thh halt.<br> :date: __2020-05-31 05:25:43__
 
 > Arch. eng.<br> :date: __2020-05-22 01:54:14__
 
@@ -211,8 +213,6 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 
 > Facing Error while check tool bar progress.<br> :date: __2020-05-07 11:56:39__
 
-> It is educative very helpful to me and my impact in my community<br> :date: __2020-05-05 12:29:56__
-
 
 
 #### 3-star reviews
@@ -220,6 +220,10 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="de.xikolo.openwho 3 reviews"/>
 </p>
+
+> Sir, Plzz improve the quality of the certificate awarded by the WHO to the participants to increase more & more participation as well as awareness of the people in this contest organised by OpenWHO.<br> :date: __2020-05-24 16:44:50__
+
+> Some extent it's very good and its provide guidelines to advert disease.<br> :date: __2020-05-23 18:33:55__
 
 > Nice app however difficult to watch video presentations<br> :date: __2020-05-14 19:35:42__
 
@@ -237,10 +241,6 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 
 > Can't open<br> :date: __2020-04-16 00:11:34__
 
-> What i do use this apps<br> :date: __2020-04-15 20:44:05__
-
-> Good app<br> :date: __2020-04-14 15:20:06__
-
 
 
 #### 2-star reviews
@@ -248,6 +248,8 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="de.xikolo.openwho 2 reviews"/>
 </p>
+
+> I completed a course and then downloaded certificate it ... But I'm unable too see my certificate as it say corrupted file or invalid file. Please help with reagrdings to it.<br> :date: __2020-05-27 13:14:22__
 
 > Noisy app.<br> :date: __2020-04-21 21:34:45__
 
@@ -269,7 +271,11 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 <img src="1_star_reviews_wordcloud.png" alt="de.xikolo.openwho 1 reviews"/>
 </p>
 
-> Helpful<br> :date: __2020-05-21 16:23:19__
+> Not sign in properly Many times error<br> :date: __2020-05-29 19:05:54__
+
+> Cannot access securely and info very unclear and cloudy<br> :date: __2020-05-28 05:01:52__
+
+> Not good at all, very bad<br> :date: __2020-05-25 06:20:08__
 
 > I try lots time to sign in but no response and my 3mile ide are all ready registered<br> :date: __2020-05-19 16:24:39__
 
@@ -284,9 +290,5 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 > Bad<br> :date: __2020-05-09 07:44:18__
 
 > Don't even know how to play<br> :date: __2020-05-06 17:54:16__
-
-> I dont want it please cancel immediate<br> :date: __2020-04-28 06:51:19__
-
-> U want my email address<br> :date: __2020-04-27 09:15:16__
 
 

@@ -131,6 +131,12 @@ The COVID-19 app has been installed by more than **50000** times. At this time, 
 <img src="5_star_reviews_wordcloud.png" alt="de.bssd.covid19 5 reviews"/>
 </p>
 
+> Die App ist super. Ich hatte mein Ergebnis innerhalb von 48 Stunden. Ich hatte dran gezweifelt wegen dem Pfingstwochenende, aber Sonntagmorgen (!) war das Ergebnis da. Nur die Pushbenachrichtigung hat leider nicht funktioniert. Auch der Scanner hat sich ab und an aufgehangen, aber das hab ich gern in Kauf genommen um schnell mein Testergebnis zu erhalten.<br> :date: __2020-05-31 09:27:46__
+
+> Sehr gut 👍<br> :date: __2020-05-27 17:06:40__
+
+> Habe Ergebnis innerhalb von 48 Stunden erhalten. Wurde vorher über SMS benachrichtigt. Echt klasse<br> :date: __2020-05-24 04:46:16__
+
 > Also ich finde diese App sehr gut. Innerhalb von nicht mal 24 std hatte ich mein Ergebnis und das ganz simple. Über das Gesundheitsamt dauerte es viel länger. Ich bin zwar mit vielen noch skeptisch aber diese App hat mich überzeugt<br> :date: __2020-05-22 09:39:45__
 
 > Eine sehr gute app Spitze<br> :date: __2020-05-16 11:21:07__
@@ -145,12 +151,6 @@ The COVID-19 app has been installed by more than **50000** times. At this time, 
 
 > Top! Hat alles super funktioniert! Super App! An alle die hier negativ bewerten, mal die Beschreibung genau durchlesen!<br> :date: __2020-04-22 11:33:23__
 
-> Seher gute App<br> :date: __2020-04-19 09:57:06__
-
-> Jede Stunde zählt. Über die app werden Patienten, die auf Covid-19 untersucht wurden, in Echtzeit über ihr Testergebnis informiert. Sobald der Befund verfügbar ist, erhält der Patient eine Push-Notification. Hoffentlich würde ich nie brauchen, wenn doch - freue mich dann dass so ein app gibt.<br> :date: __2020-04-17 17:29:42__
-
-> Wichtig!!! Richtig!!!! Innovativ und möglichst hilfreich! Aber der Erfolg dieser Apps sind nur Retropresktive Aussagekräftig<br> :date: __2020-04-15 13:56:46__
-
 
 
 #### 4-star reviews
@@ -158,6 +158,8 @@ The COVID-19 app has been installed by more than **50000** times. At this time, 
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="de.bssd.covid19 4 reviews"/>
 </p>
+
+> WENN die Datenübertragung der Labore funktioniert, funktioniert die App. Es ist hochbedenklich, dass die App nach 4 Tagen Quarantäne kein Ergebnis zeigt, auch jetzt nach 6 Tagen nicht. Kein Anruf vom Gesundheitsamt, wo das Ergebnis wahrscheinlich schon nach 2 Tagen vorlag. Anruf auf Gesundheitsamthotline (obwohl ja unerwünscht!): Test ist negativ und lag schon als Duplikat da vor .... könnte so schnell und easy sein. In Zeiten autonomen Fahrens und KI verwunderlich.<br> :date: __2020-05-28 12:36:02__
 
 > Gute App aber zeigt nicht an ob ich an corona erkrankt bin?<br> :date: __2020-04-28 13:09:45__
 
@@ -193,8 +195,6 @@ The COVID-19 app has been installed by more than **50000** times. At this time, 
 
 > Wo bekomme ich ID Nummer?<br> :date: __2020-03-31 20:19:46__
 
-> Ich habe schiss und hoffentlich kein Corona Virus denn ich huste jeden Tag 10 mal und das fast eine Stunde lang 0_0<br> :date: __2020-03-25 01:52:24__
-
 
 
 #### 2-star reviews
@@ -225,6 +225,10 @@ The COVID-19 app has been installed by more than **50000** times. At this time, 
 <img src="1_star_reviews_wordcloud.png" alt="de.bssd.covid19 1 reviews"/>
 </p>
 
+> Ich warte vergebens auf mein Ergebnis und gerade sowas macht einen fertig man würde schon dann auch gerne wissen was nun Phase ist. Auch andere Personen zum Beispiel meine Kollegen oder meine Chefin würden gerne wissen wie es weitergeht. Also ich bin sehr enttäuscht von dieser App die wurde nur gemacht damit die Leute nicht stetig anrufen und nachfragen. Kann sich aber jemand von denen in die Situation versetzen wenn man nicht weiß was los ist. Hauptsache mit so einer App Geld verdienen .<br> :date: __2020-05-30 22:55:57__
+
+> Die Idee der App ist ja nicht schlecht. Ich sitze seit 5 Tagen Zuhause in Quarantäne, warte auf die angekündigte Push-Benachrichtigung der App, scanne den Code, gebe die ID Nr ein - mein Ergebnis liegt (angeblich) noch nicht vor. Mittlerweile habe ich das Ergebnis schriftlich vorliegen direkt aus dem Labor - ausgewertet nach weniger als 2 Tagen nach dem Abstrich. Die App zeigt noch immer kein Ergebnis an! Also für mich ein Schuss in den Ofen!<br> :date: __2020-05-29 17:10:18__
+
 > App ist Mist; "Reif für die Tonne". Abfrage beim Hausarzt ist schneller,; Das App liefert leider keine Informationen dir versprochen werden.<br> :date: __2020-05-20 14:18:40__
 
 > Die 1 Sterne Bewertungen sind wahr. Die App ist Schmutz! Liest man sich positive Bewertungen durch, erkennt man sofort die sind gekauft da Sie inhaltlich gleich aber die Gramatik... naja lest selbst hab alles gespeichert in Bildform und an Google weitergeleitet.<br> :date: __2020-05-13 10:37:47__
@@ -240,9 +244,5 @@ The COVID-19 app has been installed by more than **50000** times. At this time, 
 > Ergebnis wird mit noch immer nicht angezeigt obwohl ich es seit einem Tag kenne (telefonische Anfrage). Evtl. liegt es schon länger vor. Bei der telefonischen Auskunft wurde mir auch gesagt, dass das Ergebnis im System bereits freigeschaltet ist und damit einsehbar sein müsste. Also liegt der Fehler schon mal nicht beim Labor. So unterstützt die App die Labore nicht und klärt auch nicht in Echtzeit auf - schade.<br> :date: __2020-05-05 06:12:11__
 
 > App funktioniert nicht. Zeigt immer das da kein Ergebnis vorliegt. Auch nach 2 Wochen wird mein Ergebnis nicht angezeigt.<br> :date: __2020-05-05 00:06:38__
-
-> App ist schlecht. Scanner hängt sich nach kurzer Zeit auf. Ergebnis wird auch nach 4 Tagen nicht angezeigt. Die Idee einer Corona-Test-App ist gut, aber dann sollte sie auch funktionieren. Diese App sollte dringend überarbeitet werden.<br> :date: __2020-05-03 11:44:58__
-
-> Sinnlos und eine App die Daten Sammeln möchte.<br> :date: __2020-05-03 05:43:01__
 
 

@@ -118,6 +118,14 @@ The COVID-19.eus app has been installed by more than **50000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="com.erictelm2m.colabora 5 reviews"/>
 </p>
 
+> Es informstivo<br> :date: __2020-05-31 01:28:42__
+
+> Todo bien, gracias!<br> :date: __2020-05-28 10:54:44__
+
+> en español fantástico<br> :date: __2020-05-27 16:36:43__
+
+> Es una aplicación muy útil en esta pandemia y la debería descargar todo el mundo para que seamos conscientes de quien esta a nuestro alrededor<br> :date: __2020-05-25 21:38:54__
+
 > En mi Xiaomi no he tenido ningún problema :) Con cada nueva versión noto que la app mejora notablemente. Van incluyendo más y más opciones. Supongo que ahora que empieza la desescalada será más importante que usemos la app y agreguemos más personas, para ayudar a que no haya rebrotes. Mejoraría la gestión de invitaciones para que los usuarios podamos comprobar de un vistazo a quienes hemos enviado ya la invitación.<br> :date: __2020-05-18 09:06:16__
 
 > Muy práctica y recomendable<br> :date: __2020-05-17 08:54:28__
@@ -130,14 +138,6 @@ The COVID-19.eus app has been installed by more than **50000** times. At this ti
 
 > Buena aplicación para saber si has estado expuesto al virus en tu ámbito cercano, además ha mejorado mucho en las últimas versiones<br> :date: __2020-05-16 23:00:29__
 
-> Muy buena aplicación, muy útil<br> :date: __2020-05-16 22:51:40__
-
-> Intuitiva, colaborativa y eficiente<br> :date: __2020-05-16 22:43:47__
-
-> Funciona muy bien, m registro todos los días, es una buena app para controlar tu estado de salud.<br> :date: __2020-05-16 22:42:35__
-
-> Excelente aplicación la recomiendo . Muy buena.<br> :date: __2020-05-16 22:39:26__
-
 
 
 #### 4-star reviews
@@ -145,6 +145,14 @@ The COVID-19.eus app has been installed by more than **50000** times. At this ti
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.erictelm2m.colabora 4 reviews"/>
 </p>
+
+> Muy buena aplicación. Se van a incluir más actualizaciones?<br> :date: __2020-05-31 17:02:26__
+
+> Buena aplicación. ¿Cuando añado contactos , les llega algún mensaje de que les he añadido o es anónimo?. ¿Ellos también tienen que tener instalada la aplicación?.<br> :date: __2020-05-30 13:10:12__
+
+> Me parece necesaria, sobretodo a las que viven solas y de riesgo... Un saludo.<br> :date: __2020-05-27 14:34:32__
+
+> Desde esta app no se pueden abrir los informes de coronavirus que publica el Gobierno Vasco cada día, en el apartado recomendaciones: te reenvía a la web del Gobierno Vasco, en el propio entorno de la app, y los archivos de pdf no se descargan. Desde la web no hay problema. Gracias por contestar.<br> :date: __2020-05-27 09:31:51__
 
 > Me ayuda tener control del estado de salud de mis allegados<br> :date: __2020-05-17 21:57:07__
 
@@ -158,14 +166,6 @@ The COVID-19.eus app has been installed by more than **50000** times. At this ti
 
 > Poco a poco la van mejorado, espero también les sirva como referente para hacernos test y para saber si se. Convive con positivos<br> :date: __2020-04-12 19:11:30__
 
-> No acabo de enterarme<br> :date: __2020-04-11 18:55:12__
-
-> La instale la semana pasada, muy útil, solo un problema los primeros días te mostraba los síntomas y tenías que ir marcando cuales tenías, ahora ya no los muestra, te piden que te hagas el test diario pero no aparece, no se si es un fallo de la app o los han quitado. Gracias<br> :date: __2020-04-06 19:22:42__
-
-> También creo que le falta un segundo botón de confirmar el envío de datos porque el otro día hice un envío de mi información, no me di cuenta que estaba seleccionado el apartado de dolor de garganta y como ya se envió ahora estoy en supuesto "aislamiento". Para otro día también ya estaré más atenta.<br> :date: __2020-04-03 00:34:03__
-
-> De momento bien pero necesita mejorar pero creo que puede llegar a ser una buena herramienta para el futuro<br> :date: __2020-03-31 17:01:47__
-
 
 
 #### 3-star reviews
@@ -173,6 +173,10 @@ The COVID-19.eus app has been installed by more than **50000** times. At this ti
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="com.erictelm2m.colabora 3 reviews"/>
 </p>
+
+> Si me fubcionó. Estaría bien que pudieses seleccionar a muchos contactos de tu agenda para que se envie el mensaje a la vez. Si no es muy dificil que la gente se anime.. Mucho tiempo. Asi somos...<br> :date: __2020-05-29 16:16:42__
+
+> No deja bajar ni ver los informes en Pdf y el menu de ayuda no funciona...<br> :date: __2020-05-23 19:46:09__
 
 > El apartado de círculos creo que no funciona bien. Intento, al menos, rellenar el círculo de familia y me dice que ya los tengo en contactos pero no me aparecen en el círculo, siempre está vacío. Por otras opiniones también ocurre a mas gente.<br> :date: __2020-05-16 11:25:04__
 
@@ -189,10 +193,6 @@ The COVID-19.eus app has been installed by more than **50000** times. At this ti
 > Aún tiene que mejorar.<br> :date: __2020-05-03 15:06:51__
 
 > Mejoró un montón, pero... - me confundí, puse el teléfono en familia y era CASA. No me muestra una lista de las personas por grupo, no se si está está persona agregada. Borré el grupo familia. Y ahora no me deja agregar a esa persona a ningún grupo, porque dice que ya está en un grupo, que no existe<br> :date: __2020-05-02 21:14:07__
-
-> Hola! Necesita mejorar, -poder cambiar tu nombre de usuario -Ver el estado de las solicitudes -poder reenviar la solicitud Actualmente he enviado solicitudes a mis compañeros de trabajo y cuando se descargan la app no se me incluyen en la lista ni yo a ellos y no puedo volver a enviarles la invitación porque me dice que ya está incluido en mis círculos. No obstante ánimo que lo estáis haciendo en tiempo record<br> :date: __2020-04-27 13:36:21__
-
-> No me dicen como pueden vds. Detectar el virus y cambiar a la prueba a mi familia gracias<br> :date: __2020-04-16 09:09:41__
 
 
 
@@ -230,7 +230,11 @@ The COVID-19.eus app has been installed by more than **50000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="com.erictelm2m.colabora 1 reviews"/>
 </p>
 
-> Imposible añadir contactos a mis círculos a pesar de intentarlo todos los días. Anotó el teléfono lo envío y me indica que ya está en mi circulo pero no lo veo<br> :date: __2020-05-20 15:07:59__
+> Es poco común tener los teléfonos de todos los vecinos del bloque, personal del supermercado habitual, en general gente con la que te cruzas habitualmente o comprarles espacio. Y con la que tienes más confianza como para pedir el teléfono, sueles avisar por WhatsApp o una nota de papel que se está enfermo. Y si alguien te lo notifica, sueles avisar a los cercanos por dicho método. Sería interesante tener sistema GPS que avise de gente cercana posiblemente enferma (sin dar datos personales).<br> :date: __2020-05-28 15:19:20__
+
+> ¿Cómo es posible que aparezca en mi play como instalada si yo no lo he instalado (con otra cuenta, no con la que estoy escribiendo)? ¿Qué relación tiene esto con lo que aparece en Ajuste/ Google, "Notificaciones de exposición al COVID-19"? Si tiene alguna, que parece que sí, ¿que papel tiene Google? ¿Por qué hace falta su colaboración? Tengo decenas de apps que pueden notificar cosas sin que Google tenga que configurar nada en mi cuenta. ¿Dónde hay datos técnicos que demuestren la confidencialidad? ¿Cuando avisa de que he estado cerca de un infectado, cómo sabe dirigirse a mi teléfono si los identificadores compartidos son anónimos? ¿A través de qué servidores lo hace?<br> :date: __2020-05-28 12:56:42__
+
+> No sirve para nada. Parecía buena iniciativa por parte del GV pero... Se queda en un sueño...<br> :date: __2020-05-25 13:36:56__
 
 > No me deja corregir errores.<br> :date: __2020-05-16 14:32:41__
 
@@ -241,10 +245,6 @@ The COVID-19.eus app has been installed by more than **50000** times. At this ti
 > Para empezar, soy inmunosupresora, y no tienes la opción de ponerlo. Anotar el contacto de la gente con quién te relacionas? Yo estoy trabajando, mis compañeros no tienen la aplicación, y muchos no quieren (el teléfono de mis jefes, no tengo) Y no se actualiza la última vez que entré en la app. El último acceso me dice que fue cuando la instalé. Siempre me pone riesgo 0. No creo que sirva más que para decir si estás bien o tienes síntomas, para nada más.<br> :date: __2020-05-11 21:13:49__
 
 > Cómo le digo a la app que estoy en cuarentena? Cómo pretendéis que os ofrezca tan tranquilamente los números de teléfono personales de todos mis contactos?<br> :date: __2020-05-11 14:00:00__
-
-> Desde esta app no se pueden abrir los informes de coronavirus que publica el Gobierno Vasco cada día, en el apartado recomendaciones: te reenvía a la web del Gobierno Vasco, en el propio entorno de la app, y los archivos de pdf no se descargan. Desde la web no hay problema. A fecha de 10 de mayo sigo sin poder abrir los informes en pdf. No os habéis molestado ni en contestar. Sólo quería saber si es un problema de la app o de mi móvil. Bajo calificación. No si es ni siquiera útil está app.<br> :date: __2020-05-10 13:50:14__
-
-> Por mucha gente que tengas en contactos, si alguien no indica que se encuentra enfermo, el resto no van a recibir ninguna notificación. Además que tienes que tener el contacto de las personas para que se te notifique. Y si tienes el contacto y sueles coincidir, es más plausible que te manden un WhatsApp a que lo activen en la aplicacion. Y tampoco vas a tener el contacto de gente con la que coincides en lugares públicos.<br> :date: __2020-05-08 14:34:44__
 
 > Es imposible de entender ésta aplicación, no ha quién la maneje, como no la expliqueis mejor, es imposible de utilizar.<br> :date: __2020-05-07 21:58:27__
 

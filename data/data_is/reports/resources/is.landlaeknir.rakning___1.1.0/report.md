@@ -199,6 +199,8 @@ The Rakning C-19 app has been installed by more than **50000** times. At this ti
 <img src="3_star_reviews_wordcloud.png" alt="is.landlaeknir.rakning 3 reviews"/>
 </p>
 
+> Það er eiginlega alveg ferlega erfitt að hafa appið í símanum því það tekur svo mikið batterí!! Flott konsept samt<br> :date: __2020-05-27 22:05:52__
+
 > Nær ekki að rekjast<br> :date: __2020-04-09 01:37:23__
 
 > Mikilvægt app en ég horfi á batteríið tæmast. Er ekki hægt að gera eitthvað í því?<br> :date: __2020-04-07 16:21:05__

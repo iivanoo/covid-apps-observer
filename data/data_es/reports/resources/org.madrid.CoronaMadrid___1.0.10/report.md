@@ -178,6 +178,8 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 <img src="4_star_reviews_wordcloud.png" alt="org.madrid.CoronaMadrid 4 reviews"/>
 </p>
 
+> Esta bien la aplicación para hacerte autotest de coronavirus pero espero que mejore más está aplicación<br> :date: __2020-05-29 01:23:56__
+
 > Te va avisando de cuando puedes ir haciéndote el test de las preguntas. Te da pautas a seguir según el resultado que te haya dado<br> :date: __2020-04-23 17:45:23__
 
 > Buena<br> :date: __2020-04-13 09:25:49__
@@ -195,8 +197,6 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 > La acabo de instalar y espero que este acorde al menos con mi evaluacion.<br> :date: __2020-04-04 17:06:30__
 
 > Está muy bien. No le pongo todas las estrellas porque siempre es subceptible de mejorar.Nada ni nadie es perfecto. Salud y saludos.Gracias<br> :date: __2020-04-04 06:56:52__
-
-> La app es útil para estadísticas, me parece bien, te evalúa según los síntomas que tienes cada 12 horas y te da los consejos que todos sabemos y en caso que empeores te dice que llames al teléfono 900, me parece bien para descongestionar el sistema sanitario, todo suma.<br> :date: __2020-03-30 12:23:10__
 
 
 
@@ -262,6 +262,8 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="org.madrid.CoronaMadrid 1 reviews"/>
 </p>
 
+> Basica muy basica. Solo sirve para diagnosticar. Un mes y no han echo nada aprendan de los Coreanos y Franceses<br> :date: __2020-05-28 09:05:45__
+
 > La app está bien hecha y funciona bien, si no fuese porque a pesar de tener tres de los cuatro síntomas más comunes de la Covid-19, la app me dice que descarta que pueda tenerla. En el servicio de atención telefónica hacen las mismas preguntas y me dicen que como respiro bien, no puede ser covid, que vaya al médico.<br> :date: __2020-05-20 17:38:20__
 
 > Inútil<br> :date: __2020-05-19 03:45:54__
@@ -279,7 +281,5 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 > No tiene en cuenta muchos parámetros claves; cefalea, digestivo, muscular, etc. Y considera sólo un plazo de 15 días de duración cuando es una enfermedad que puede durar más de 6 semanas. Una perdida de tiempo.<br> :date: __2020-05-10 17:09:55__
 
 > No me Dan una respuesta coherente, pues los síntomas no concuerdan con las preguntas.<br> :date: __2020-05-07 11:53:54__
-
-> Podríais actualizar los síntomas, porque tener diarrea y fiebre es síntoma de coronavirus, aquí es coranovirus si te estás muriendo, así nos va asintomáticos o Co algunos síntomas no son lo suficiente para decir que coronavirus, está aplicación sólo detecta si estas muy grave con el virus pero vamos que eso no hace falta que lo diga una aplicación, de eso uno se da cuenta mismamente<br> :date: __2020-05-01 21:16:16__
 
 

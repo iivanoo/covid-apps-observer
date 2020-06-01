@@ -132,6 +132,8 @@ The Covidom Patient app has been installed by more than **10000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="fr.aphp.covidom 5 reviews"/>
 </p>
 
+> Je félicite et remercie tout le personnel du covidom . Ils m'ont suivis durant toute cette difficile période ,sans oublier mon médecin traitant . Ils m'ont aidés physiquement et moralement, bravo à vous tous.<br> :date: __2020-05-26 14:43:58__
+
 > Tres bien<br> :date: __2020-05-10 22:51:16__
 
 > Super application je remercie sincèrement toute l équipe qui m a suivi et qui m a beaucoup aidé par leur écoute leur gentillesse et leur bonne humeur<br> :date: __2020-05-08 14:38:35__
@@ -150,8 +152,6 @@ The Covidom Patient app has been installed by more than **10000** times. At this
 
 > Avant-hier j'avais beaucoup de mal pour respirer. Après avoir rempli mon questionnaire qq'un m'a appelé et m'a demandé de me rendre à l'hôpital pour une consultation. Après j'ai pu rentrer chez moi rassurée et fière du système de santé. Bravo covidom.<br> :date: __2020-04-16 17:09:12__
 
-> C'est très rassurant. Tous les jours on réponds à des questionnaires. Et quand ça va moins bien, quelqu'un nous appelle. Sans covidom je pense que j'aurais souvent appelé ou consulté un médecin pour savoir si je devais m'inquiéter.<br> :date: __2020-04-16 15:49:46__
-
 
 
 #### 4-star reviews
@@ -159,6 +159,8 @@ The Covidom Patient app has been installed by more than **10000** times. At this
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="fr.aphp.covidom 4 reviews"/>
 </p>
+
+> C'est trés bien , très bonne initiative Mille mercis encore On vous soutient tous !!!!!!!!<br> :date: __2020-05-28 00:30:08__
 
 > J'habite en Bretagne Ilya pas la Bretagne<br> :date: __2020-04-05 20:24:42__
 
@@ -194,6 +196,8 @@ The Covidom Patient app has been installed by more than **10000** times. At this
 <img src="2_star_reviews_wordcloud.png" alt="fr.aphp.covidom 2 reviews"/>
 </p>
 
+> Je veux<br> :date: __2020-05-29 16:29:13__
+
 > J'essaie d'inscrire pour le suivi mon père de 78 ans et de l'aider comme je peux avec son téléphone, un identifiant lui a été communiqué à l'oral, mais impossible de procéder à l'activation. C'est très compliqué. Idem , j'ai essayé de lui créer un compte sur l'AP-HP, sans succès. Du coup, je ne sais même pas à qui m'adresser pour demander la redemander le n° d'identification. Dommage...<br> :date: __2020-04-04 19:45:01__
 
 
@@ -204,7 +208,7 @@ The Covidom Patient app has been installed by more than **10000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="fr.aphp.covidom 1 reviews"/>
 </p>
 
-> On m'a envoyé 2 messages pour me dire de remplir le questionnaire. Mais je ne suis pas malade, j'étais supposé être malade il y a déjà plus d'un mois et j'ai eu une consultation avec un médecin qui m'a dit que non je n'ai pas tous les symptômes bref. Et ça fait 2 mois que je ne suis pas sortie et je ne suis actuellement pas malade et je n'ai eu aucune consultation. Donc pourquoi m'envoyer ces deux messages ??<br> :date: __2020-05-19 09:55:54__
+> Pas d'accès hors app qui a refusé de me suivre<br> :date: __2020-05-31 20:24:54__
 
 > Pas du tour contente du service j'ai eu des grosse tachycardie et PERSONNE ne ma appeler ... tomber malade le 21 mars, déclarer "guerri" le 7 avril, on est le 13 mai ET J'AI TOUJOURS DES SYMPTOMES QUI ME GACHE LA VIE ET M'EMPÊCHE D'ALLER TRAVAILLER et je ne suis pas la seule c'est nimporte quoi horrible personne pour nous prendre en charge !!!!!!!!!<br> :date: __2020-05-13 19:01:45__
 

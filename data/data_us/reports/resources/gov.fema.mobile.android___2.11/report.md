@@ -168,7 +168,15 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 <img src="5_star_reviews_wordcloud.png" alt="gov.fema.mobile.android 5 reviews"/>
 </p>
 
-> Awesome Info<br> :date: __2020-05-21 20:01:11__
+> A most un-intrusive app no garbage like most apps BUT WARNINGS KEEP MY FAMILY SAFE. PROBABLY AMONG MY TOP TEN APPS<br> :date: __2020-05-29 21:02:24__
+
+> Great app<br> :date: __2020-05-29 07:48:43__
+
+> Love it!<br> :date: __2020-05-26 04:09:18__
+
+> How do I turn on the sound?<br> :date: __2020-05-25 00:06:13__
+
+> Funn I, you<br> :date: __2020-05-24 17:57:36__
 
 > Helpful<br> :date: __2020-05-21 10:49:13__
 
@@ -179,14 +187,6 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 > I can call 911 if needed I hear about all emergency weather wise and other like child abduction as well<br> :date: __2020-05-16 15:42:24__
 
 > Options to customize notifications by type and locations. Useful information and links, a good app.<br> :date: __2020-05-13 02:06:20__
-
-> Be alert is the best way to live I likeWeather alerts, safety tips and more to help before, during & after disasters. Emergency alerts, safety tips and resources to help before, during & after disasters. The FEMA App provides timely alerts and useful information to help you and your loved ones stay safe before, during and after disasters. Receive and share real-time notifications about disasters, severe weather, and other emergencies for up to five locations nationwide. This simple and easy-to<br> :date: __2020-05-13 00:33:40__
-
-> Easy to navigate, and set up choices-- there are a lot-- living in the middle of Pacific, like to know asap if something hazardous is on the way to us, here in HI.<br> :date: __2020-05-13 00:02:16__
-
-> Works great for weather emergency but I don't like Amber alerts. Most of the time these are divorcing parents fighting over the children or an over reach of local and feds into family matters. I have seen the damages to family relationships caused by such over reach. Parents who's only sin is they were poor. Instead of helping the parents, they are demonized and the children removed. I want no part of the destruction of the family unit. Think heal the family!<br> :date: __2020-05-10 14:04:03__
-
-> This is a great app. Warns you about amber alerts in your area and any kind of danger.<br> :date: __2020-05-04 02:43:08__
 
 
 
@@ -280,6 +280,12 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 <img src="1_star_reviews_wordcloud.png" alt="gov.fema.mobile.android 1 reviews"/>
 </p>
 
+> It doesn't work. The government sucks cum bubble.<br> :date: __2020-05-28 19:26:04__
+
+> Unfriendly<br> :date: __2020-05-26 22:15:06__
+
+> It doesn't include covid-19<br> :date: __2020-05-26 16:01:04__
+
 > stinks not informable<br> :date: __2020-04-16 18:51:22__
 
 > App does not work. Will not accept any locations.<br> :date: __2020-04-14 02:01:12__
@@ -293,11 +299,5 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 > FEMA is supposed to be the lead agency in responding to a national disaster. Under Donald Trump's direction, FEMA was defunded to pay for his wall. The appropriate leadership resigned or were fired, and the money went towards paying for his wall. Now this useless app is nothing but Trump appointees patting Trump on the back and calling him a good boy when they should be directing resources to help Americans. It makes me sick and disgusted at Trump and his lackeys in the GOP.<br> :date: __2020-03-19 15:49:42__
 
 > Push notifications work but information doesn't show in app.<br> :date: __2020-03-19 08:55:16__
-
-> Doesn't f\*\*\*\*\*\* warn me about s\*\**<br> :date: __2020-03-15 14:53:08__
-
-> I can not rate my experience as it is ongoing until time ends I can not rate anything regarding this app I do not have the technical knowledge nor the equipment to program frequencies to effect any good out come to a very com text tool in a a very complex world so I am waiting for one to arrive who is worthy to accomplish these goals I am not the one today who will the one that I shall be tomorrow.<br> :date: __2020-03-14 06:23:03__
-
-> How to find a you whats your address<br> :date: __2020-02-21 10:17:54__
 
 

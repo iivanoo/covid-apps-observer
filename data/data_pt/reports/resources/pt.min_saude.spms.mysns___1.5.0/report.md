@@ -171,6 +171,10 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <img src="5_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 5 reviews"/>
 </p>
 
+> Muito fixe!<br> :date: __2020-05-25 01:47:57__
+
+> Excelente para consultar<br> :date: __2020-05-24 15:40:06__
+
 > É um excelente apetrecho que tem muita e boa actualização<br> :date: __2020-05-19 20:52:00__
 
 > Penso que é muito importante<br> :date: __2020-04-29 21:28:10__
@@ -186,10 +190,6 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 > É 0ptimo<br> :date: __2020-04-16 21:41:03__
 
 > Eu agora ja alguns dias que tento fazer o loging mas da que o site nao e seguro.Ou seja a aplicacao.Hoje estou farta de tentar com o leitor de cartão de cidadão e não entro na App do My SNS!!!Gostaria de saber como posso ENTRAR...<br> :date: __2020-04-15 15:52:22__
-
-> Muito útil pelo menu alargado.<br> :date: __2020-04-01 22:25:04__
-
-> Boa App<br> :date: __2020-03-31 01:18:19__
 
 
 

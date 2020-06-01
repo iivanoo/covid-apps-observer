@@ -165,6 +165,10 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 <img src="5_star_reviews_wordcloud.png" alt="de.xikolo.openwho 5 reviews"/>
 </p>
 
+> Es La mejor para el desarrollo profesional de las personas especialmente de el área de la salud<br> :date: __2020-05-29 20:03:19__
+
+> Esta guaiii<br> :date: __2020-05-29 12:25:30__
+
 > Genial<br> :date: __2020-05-21 21:30:52__
 
 > Me parece muy bien que Allan sacado una aplicación así me gustó mucho y quiero decirles gracias<br> :date: __2020-05-21 13:30:58__
@@ -180,10 +184,6 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 > Gracias. Me ha servido muchísimo.<br> :date: __2020-04-22 07:35:24__
 
 > Practic App Best<br> :date: __2020-04-20 15:54:06__
-
-> Excelente App muy educativa, hay que buscar la capacitación y hay muchas veces que están en varios idiomas. Muy buena<br> :date: __2020-04-17 04:14:30__
-
-> Excelente app para lo que necesitan traductor actualicen la página y les aparecerá el traductor automático díganlo sin llorar y usen mascarilla weones porfiados hagan cuarentena y si estás contagiado no salgas a contagiar al resto que el virus no es como un resfriado que se va desde tu cuerpo hacia otro y tu te alivias no es ASÍ<br> :date: __2020-04-16 18:44:09__
 
 
 
@@ -231,7 +231,7 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 <img src="1_star_reviews_wordcloud.png" alt="de.xikolo.openwho 1 reviews"/>
 </p>
 
-> No esta en español ni tiene opción de cambiar aunque sea a italiano, el idioma mas hablado es Mandarin por número de personas, por numero de paises es el español y el idioma vonercialbel ingles por eso las aolicaciiones deben tener esos 3 odiomas o por lonmenos el ingles y español y no publican en tiempo real ni preferencial sobre Covid19 por eso una sola estrella. Debe ser una aplicación sencilla con cuadros estadísticos y numeros exactos de Covid19<br> :date: __2020-04-19 00:24:15__
+> Una basura.<br> :date: __2020-05-27 15:31:21__
 
 > La aplicacion siempre dice que ocurre un problema para iniciar sesion, la web funciona bien.<br> :date: __2020-04-15 15:22:50__
 

@@ -157,16 +157,30 @@ No recent reviews available with 4 stars.
 #### 2-star reviews
 
 <p align="center">
-
+<img src="2_star_reviews_wordcloud.png" alt="com.ambulis.aphm.covid 2 reviews"/>
 </p>
 
-No recent reviews available with 2 stars.
+> Tres nul pour le chargement<br> :date: __2020-05-25 20:36:22__
+
+
 
 #### 1-star reviews
 
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="com.ambulis.aphm.covid 1 reviews"/>
 </p>
+
+> Trop nnuuulll il seire à rien il fait sa pour tuer les personnes trop nul je vous le déconseille de téléchargé l'application qui d'accord avec 🙂il et trop nul👎🏻👎🏻<br> :date: __2020-05-31 11:45:24__
+
+> Ou se trouve le numéro de dossier ?<br> :date: __2020-05-31 08:00:02__
+
+> J'arrive pas à gagner je comprend pas le jeux<br> :date: __2020-05-28 18:48:40__
+
+> Bonjour, vous pouvez m expliquer quelle est le numéro de dossier svp<br> :date: __2020-05-28 17:58:01__
+
+> Zéro cela ne vaut absolument rien aucunes confiances cest juste du blabla et prendre le peuple pour des naifs sa ne vaut rien car rien nest fiable juste un gadget ni plus ,ni moins et comme dautres sites bidon okay d'accord<br> :date: __2020-05-26 23:10:02__
+
+> Il n'y a même pas qq mots la présentant!!! 2 ou 3 phrases ne seraint pas superflues! But ? Moyens utilisés ? Opensource ? Un minimum pour un app santé et sécurité amha!<br> :date: __2020-05-26 11:26:44__
 
 > Tres nul nul<br> :date: __2020-04-30 20:06:11__
 

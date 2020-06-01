@@ -1,5 +1,38 @@
 [
     {
+        "userName": "Lizeth Espinal",
+        "userImage": "https://lh3.googleusercontent.com/-B9S3xJ4dTHg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn8EUQwqiHGrJ1dVJzTl0DINJnypw/photo.jpg",
+        "content": "Es La mejor para el desarrollo profesional de las personas especialmente de el \u00e1rea de la salud",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.3.1",
+        "at": "2020-05-29 20:03:19",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "userName": "Grafica Ctr",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiPOGQvjy1Ur27BRqUahVsv-mj92dRg9NwlTqtBRA",
+        "content": "Esta guaiii",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.3.1",
+        "at": "2020-05-29 12:25:30",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "userName": "Mr White",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjJFAVlEV8ZZB-FveQ4FZA90QwiV_kc6eHM2YAehw",
+        "content": "Una basura.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.3.1",
+        "at": "2020-05-27 15:31:21",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "userName": "Emely Guia",
         "userImage": "https://lh3.googleusercontent.com/-5N9X6slRLhs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn1qgjs1ixU1RIcf6zjbV0_jAGePg/photo.jpg",
         "content": "Genial",
@@ -37,7 +70,7 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgF1-X76uuyURTCpVYsccj6pflQNUHU0qZXxDnkJg",
         "content": "Buenos contenidos de acceso gratis. Falta tener acceso a los documentos que est\u00e1n en ingl\u00e9s ya que leyendo los papper se va haciendo necesario leerlos cuando en el mismo te los recomiendan.",
         "score": 5,
-        "thumbsUpCount": 17,
+        "thumbsUpCount": 25,
         "reviewCreatedVersion": "3.2.1",
         "at": "2020-04-28 12:40:29",
         "replyContent": null,
@@ -88,17 +121,6 @@
         "repliedAt": null
     },
     {
-        "userName": "ANTONIO PETRO",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gi5paXIfDfpZgMcpWGqOC0wZJq43zs8boXegmdZ",
-        "content": "No esta en espa\u00f1ol ni tiene opci\u00f3n de cambiar aunque sea a italiano, el idioma mas hablado es Mandarin por n\u00famero de personas, por numero de paises es el espa\u00f1ol y el idioma vonercialbel ingles por eso las aolicaciiones deben tener esos 3 odiomas o por lonmenos el ingles y espa\u00f1ol y no publican en tiempo real ni preferencial sobre Covid19 por eso una sola estrella. Debe ser una aplicaci\u00f3n sencilla con cuadros estad\u00edsticos y numeros exactos de Covid19",
-        "score": 1,
-        "thumbsUpCount": 41,
-        "reviewCreatedVersion": "3.2.1",
-        "at": "2020-04-19 00:24:15",
-        "replyContent": "Thanks for your feedback. OpenWHO is WHO\u2019s interactive, knowledge-transfer platform offering free online courses to improve the response to health emergencies. OpenWHO enables the Organization and its key partners to transfer life-saving knowledge to large numbers of frontline responders.",
-        "repliedAt": "2020-04-27 12:20:49"
-    },
-    {
         "userName": "El Gallego",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjwYUWbwt5QT8NK19cFhGIdqVTnVlOKKhDwErrd",
         "content": "Excelente App muy educativa, hay que buscar la capacitaci\u00f3n y hay muchas veces que est\u00e1n en varios idiomas. Muy buena",
@@ -114,7 +136,7 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgtAypkDhYi92seC-AYIAFuDse-oqafX9duDa404A",
         "content": "Excelente app para lo que necesitan traductor actualicen la p\u00e1gina y les aparecer\u00e1 el traductor autom\u00e1tico d\u00edganlo sin llorar y usen mascarilla weones porfiados hagan cuarentena y si est\u00e1s contagiado no salgas a contagiar al resto que el virus no es como un resfriado que se va desde tu cuerpo hacia otro y tu te alivias no es AS\u00cd",
         "score": 5,
-        "thumbsUpCount": 95,
+        "thumbsUpCount": 109,
         "reviewCreatedVersion": "3.2.1",
         "at": "2020-04-16 18:44:09",
         "replyContent": null,
@@ -187,7 +209,7 @@
         "repliedAt": null
     },
     {
-        "userName": "Maria Victoria R\u00faa Passos",
+        "userName": "Mar\u00eda victoria passos",
         "userImage": "https://lh3.googleusercontent.com/-itnsdg3glOg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm5S-vhzuhRykp7PFAm7KqWcw_dSg/photo.jpg",
         "content": "No da toda la informaci\u00f3n requerida",
         "score": 1,
@@ -389,7 +411,7 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhvQv3rSg3C-CLC_XZ_igmlhsvAzcdE2f9TadkL8Mc",
         "content": "Es curioso como la gente condena una App como desastrosa porque est\u00e1 en ingl\u00e9s y no por su funci\u00f3n. Adem\u00e1s si uno se registra, si que est\u00e1 en m\u00faltiples idiomas, entre ellos el espa\u00f1ol, as\u00ed es que los quejillas que vuelvan a hacer las cosas bien \ud83d\ude0a",
         "score": 3,
-        "thumbsUpCount": 151,
+        "thumbsUpCount": 166,
         "reviewCreatedVersion": "3.1.1",
         "at": "2020-04-03 00:08:27",
         "replyContent": null,
@@ -562,7 +584,7 @@
     },
     {
         "userName": "Victoria Aguilar",
-        "userImage": "https://lh3.googleusercontent.com/-mxk-yka-G4o/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn3ornPusg1G45ejSFIVgfqhypqJA/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Ggp7iukrxT9vMV-qA-1Ks75NwC4vicJ0Vwi_kf9",
         "content": "NomedA",
         "score": 1,
         "thumbsUpCount": 2,
@@ -631,7 +653,7 @@
         "userImage": "https://lh3.googleusercontent.com/-wmcyS9Svpeo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclkaCMeyCEwxKMy_c8maRHM-qw7cQ/photo.jpg",
         "content": "Como hago para q aparesca en espa\u00f1ol",
         "score": 1,
-        "thumbsUpCount": 1,
+        "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2020-03-26 18:07:20",
         "replyContent": null,
@@ -686,7 +708,7 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GitBZtZZKoYz8dl-16y_7H1sX0x9jWaalremHtlyA",
         "content": "Es una porquer\u00eda de aplicaci\u00f3n aunque el desarrollador dice que se puede seleccionar el idioma desde el inicio es mentira, yo seleccione idioma Espa\u00f1ol y todo sale en ingl\u00e9s y en todos los idiomas menos espa\u00f1ol",
         "score": 1,
-        "thumbsUpCount": 270,
+        "thumbsUpCount": 269,
         "reviewCreatedVersion": "3.1.1",
         "at": "2020-03-24 18:13:32",
         "replyContent": null,
@@ -727,7 +749,7 @@
     },
     {
         "userName": "Alexandre Palma Araya",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgkS3JnOdLrKorGkScsYGxpms5Bh-oMMJC3YgWx9es",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhTTt98GkI3UcF8P8WKuuzNjm-eyYfmId9PDx63dX8",
         "content": "FALTA DIPLOMA Y NO TIENE TRADUCCI\u00d3N A TODOS LOS IDIOMAS le hace falta un LECTOR POR VOZ FALTA MODO NOCHE Y UN MAPA INTERACTIVO tambi\u00e9n falta para las personas que no pueden leer puedan escuchar por Voz y volcar diferentes Voces para que puedan escuchar lo que est\u00e1 escrito en Diferentes idiomas",
         "score": 1,
         "thumbsUpCount": 2,
@@ -917,7 +939,7 @@
         "userImage": "https://lh3.googleusercontent.com/-B3Lar8zp2kM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclyyqoYt5Wukq5alAamUmGXS2kwXw/photo.jpg",
         "content": "Para los que preguntan sobre el lenguaje al matricularte salen en varios lenguajes solo baja o sube y busca el que prefieres.",
         "score": 5,
-        "thumbsUpCount": 480,
+        "thumbsUpCount": 479,
         "reviewCreatedVersion": "3.1.1",
         "at": "2020-03-22 01:00:48",
         "replyContent": null,
