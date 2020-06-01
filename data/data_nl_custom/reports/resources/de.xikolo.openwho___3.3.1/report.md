@@ -165,8 +165,6 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 <img src="5_star_reviews_wordcloud.png" alt="de.xikolo.openwho 5 reviews"/>
 </p>
 
-> Ik spreek wel Engels! 😉<br> :date: __2020-05-14 11:20:10__
-
 > Ronald groensecheij prins van oranje Nassau<br> :date: __2020-04-20 15:59:15__
 
 > Goed<br> :date: __2020-03-22 12:10:06__
@@ -194,6 +192,8 @@ No recent reviews available with 3 stars.
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="de.xikolo.openwho 2 reviews"/>
 </p>
+
+> Niet Nederlands?<br> :date: __2020-05-29 19:42:03__
 
 > Niet in Nederlands is totaal niet handig ook niet om mee te werken<br> :date: __2020-03-27 17:35:23__
 
