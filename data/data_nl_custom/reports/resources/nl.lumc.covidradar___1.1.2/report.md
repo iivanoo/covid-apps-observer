@@ -140,6 +140,8 @@ The COVID Radar app has been installed by more than **50000** times. At this tim
 <img src="5_star_reviews_wordcloud.png" alt="nl.lumc.covidradar 5 reviews"/>
 </p>
 
+> Goed veel info over het verloop en anoniem op postcode👍<br> :date: __2020-06-07 17:01:26__
+
 > Heel goed<br> :date: __2020-05-23 11:38:51__
 
 > Nummer 2 in de lijst ....!' 💪🏼❣️<br> :date: __2020-05-23 11:32:42__
@@ -157,8 +159,6 @@ The COVID Radar app has been installed by more than **50000** times. At this tim
 > Zeer goed initiatief voor onderzoek. Doe mee, en help in de strijd tegen corona!<br> :date: __2020-04-16 11:43:49__
 
 > Good<br> :date: __2020-04-14 18:37:17__
-
-> Zolang de app geschikte data oplevert voor het LUMC dan is de app toch perfect? Het gaat er toch niet om of deze app aan mijn wensen voldoet?<br> :date: __2020-04-08 23:47:34__
 
 
 
@@ -252,6 +252,8 @@ The COVID Radar app has been installed by more than **50000** times. At this tim
 <img src="1_star_reviews_wordcloud.png" alt="nl.lumc.covidradar 1 reviews"/>
 </p>
 
+> Ik heb de app geïnstalleerd en de vragen beantwoord. Er kwam uit dat ik Covid heb zonder koorts. Ik moet gelijk een arts raadplegen en het huis niet verlaten. Ik heb waarschijnlijk zeker geen Covid maar wel astma en longproblemen. En OSAS. Zo kan je van half Nederland zeggen dat ze Covid hebben<br> :date: __2020-06-06 13:38:25__
+
 > Deze radar draagt niks bij aan de weg terug naar een samenleving zonder 1.5m. Hier geef ik mijn privacy niet voor op. App verwijderd.<br> :date: __2020-05-17 10:57:47__
 
 > De vragen kan ik niet naar waarheid invullen. Krijg ook regelmatig de vraag of mijn lijst nog klopt terwijl ik elke dag de lijst invul. De vragen zijn te algemeen en ik kan geen nadere aanduiding geven waarom iemand binnen anderhalve meter afstand van mij is. Bij doktersbezoek is dat redelijk onmogelijk in mijn geval.<br> :date: __2020-05-16 23:34:28__
@@ -269,7 +271,5 @@ The COVID Radar app has been installed by more than **50000** times. At this tim
 > Wat moet je met deze troep<br> :date: __2020-04-19 15:24:06__
 
 > Onduidelijke vragen. De vraag over werk... Ik werk niet meer, ben "oudere". De op twee na laatste vraag en de laatste vraag zijn het zelfde. Denk niet dat dit iets oplevert. Werk samen, alle deskundigen en ziekenhuizen aan één app ipv ieder een eigen app met andere invalshoek<br> :date: __2020-04-10 10:45:23__
-
-> Ik heb al bijna 4 weken lichte simptomen van de verkoudheid. Hoe kan ik het weten of ik het corona virus heb? Ik vind de app niet nuttig door onjuiste vragen, jammer.<br> :date: __2020-04-09 09:02:46__
 
 

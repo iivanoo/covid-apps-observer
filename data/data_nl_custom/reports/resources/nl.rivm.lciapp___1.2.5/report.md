@@ -140,6 +140,8 @@ The RIVM LCI-richtlijnen app has been installed by more than **50000** times. At
 <img src="5_star_reviews_wordcloud.png" alt="nl.rivm.lciapp 5 reviews"/>
 </p>
 
+> Prima 👍 duidelijk.<br> :date: __2020-06-02 00:35:27__
+
 > Handig die richrlijnen<br> :date: __2020-05-13 18:57:39__
 
 > Goed<br> :date: __2020-05-11 10:03:41__
@@ -157,8 +159,6 @@ The RIVM LCI-richtlijnen app has been installed by more than **50000** times. At
 > Eén oorlog om bacteriën uit te roeien is geactiveerd, het had beter voorkomen kunnen worden.... nu heeft bacteriën zoals corona veel mensenlevens, verdriet, pijn, ellende, etc etc veroorzaakt. Laten we met zijn allen nu ECHT BEGINNEN MET VOORKOMEN, NOG ALTIJD BETER DAN GENEZEN. HET ZIJN ONGEWENSTE BACTERIËN IN DEZE WERELD DIE DE MENS VERVUILD ALS OOK DE GEEST EN ZIEL VERBITTERT. SUCCES<br> :date: __2020-04-12 06:21:40__
 
 > Helemaal top!!!<br> :date: __2020-04-09 11:36:44__
-
-> Prima App met veel informatie<br> :date: __2020-04-08 10:15:50__
 
 
 
@@ -204,6 +204,10 @@ The RIVM LCI-richtlijnen app has been installed by more than **50000** times. At
 <img src="1_star_reviews_wordcloud.png" alt="nl.rivm.lciapp 1 reviews"/>
 </p>
 
+> werkt niet eens.. kan de gegevens niet downloaden... dat gaat levens redden 👌<br> :date: __2020-06-05 19:51:27__
+
+> Gedownload,bekeken en verwijderd<br> :date: __2020-06-05 18:16:34__
+
 > Te slecht voor woorden hier maak ik geen tijd meer voor vrij.<br> :date: __2020-05-06 03:31:06__
 
 > Goede app maar niet voor de particulier<br> :date: __2020-04-27 11:01:02__
@@ -219,9 +223,5 @@ The RIVM LCI-richtlijnen app has been installed by more than **50000** times. At
 > Best een oké app maar alles rondom de richtlijnen is op dit moment een grote onnodigheid als Rutte en zijn teampje er eerder bij waren geweest had dit niet hoeven gebeuren<br> :date: __2020-04-14 14:24:32__
 
 > Werkt niet zeer slecht 😈<br> :date: __2020-04-08 20:18:54__
-
-> Gegevens worden niet opgehaald<br> :date: __2020-04-08 18:34:58__
-
-> Kan bestanden niet downloaden.<br> :date: __2020-04-07 19:23:22__
 
 
