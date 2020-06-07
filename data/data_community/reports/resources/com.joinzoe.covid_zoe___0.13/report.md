@@ -199,25 +199,25 @@ The COVID Symptom Study app has been installed by more than **1000000** times. A
 <img src="5_star_reviews_wordcloud.png" alt="com.joinzoe.covid_zoe 5 reviews"/>
 </p>
 
-> Very easy to use<br> :date: __2020-06-01 10:25:39__
+> Simple, quick, and clearly very important<br> :date: __2020-06-07 23:23:46__
 
-> Once registered it's easy to report once a day and it takes up to one minute to complete.<br> :date: __2020-06-01 10:16:02__
+> Very easy to use.<br> :date: __2020-06-07 23:08:42__
 
-> Very easy to use and very helpful for me and others<br> :date: __2020-06-01 10:09:08__
+> Really easy to navigate all the questions.<br> :date: __2020-06-07 23:04:17__
 
-> I think this is an important survey.<br> :date: __2020-06-01 10:06:45__
+> Extremely easy to use.<br> :date: __2020-06-07 22:19:33__
 
-> Simple to install and use. Hopefully the feedback is useful.<br> :date: __2020-06-01 09:39:48__
+> Quick to report, easy to use<br> :date: __2020-06-07 22:16:12__
 
-> Very easy to follow<br> :date: __2020-06-01 09:18:56__
+> Easy to use and informative<br> :date: __2020-06-07 22:12:29__
 
-> Just simple, does what you need it to.<br> :date: __2020-06-01 09:18:11__
+> Simple and quick to use<br> :date: __2020-06-07 21:31:39__
 
-> Good start but need more people to join<br> :date: __2020-06-01 09:13:08__
+> Its been good<br> :date: __2020-06-07 21:23:34__
 
-> It is very easy to use. I join this study knowing that it will eventually benefit the whole country which will lead to our freedom<br> :date: __2020-06-01 09:04:11__
+> Easy to use and once set up ok<br> :date: __2020-06-07 21:15:36__
 
-> Just do it!<br> :date: __2020-06-01 08:52:58__
+> Easy to use<br> :date: __2020-06-07 21:11:04__
 
 
 
@@ -227,25 +227,25 @@ The COVID Symptom Study app has been installed by more than **1000000** times. A
 <img src="4_star_reviews_wordcloud.png" alt="com.joinzoe.covid_zoe 4 reviews"/>
 </p>
 
-> Easy to use and report status. if it helps then it is worth it.<br> :date: __2020-06-01 10:39:16__
+> It would be helpful to have an option to comment on ones health other than "feeling fine" or "not feeling fine".<br> :date: __2020-06-07 23:29:18__
 
-> Very easy to use<br> :date: __2020-06-01 09:12:30__
+> Fine, but people like me could do with an inbuilt reminder function. If course, one can take steps to do that for oneself! Just would help.<br> :date: __2020-06-07 20:33:28__
 
-> Easy to use ...asks a lot of questions<br> :date: __2020-06-01 07:42:54__
+> Easy to use. I wish i could see more of the compiled data of other self reporters but i understand that could be misleading.<br> :date: __2020-06-07 19:58:41__
 
-> Runs a little slowly, but very easy to compley<br> :date: __2020-06-01 00:59:08__
+> Easy to use<br> :date: __2020-06-07 16:48:24__
 
-> Works well and good to be part of research would bd even better if it reminded me to access it more often<br> :date: __2020-06-01 00:41:10__
+> Easy to use. Although the Yes & No pop up a hair too easiky for someone who has to use a Stylus.<br> :date: __2020-06-07 15:56:06__
 
-> As expected<br> :date: __2020-05-31 19:40:27__
+> Quietly, over time, builds a profile to help against the covid-19 epidemics.<br> :date: __2020-06-07 15:41:11__
 
-> Good<br> :date: __2020-05-31 19:20:03__
+> Straightforward questions. But some input fields are not designed well and make editing very difficult .. a basic form design error which should have been resolved during Beta Test.<br> :date: __2020-06-07 13:19:51__
 
-> Good app<br> :date: __2020-05-31 16:22:27__
+> Easy to use<br> :date: __2020-06-07 12:20:23__
 
-> good<br> :date: __2020-05-31 14:58:09__
+> Easy to use. Happy to feel I'm doing something to help.<br> :date: __2020-06-07 11:58:12__
 
-> Seems to work well for me.<br> :date: __2020-05-31 14:57:00__
+> It would be good to be able to correct parts of med history<br> :date: __2020-06-07 11:14:31__
 
 
 
@@ -255,25 +255,25 @@ The COVID Symptom Study app has been installed by more than **1000000** times. A
 <img src="3_star_reviews_wordcloud.png" alt="com.joinzoe.covid_zoe 3 reviews"/>
 </p>
 
-> Seems good so far<br> :date: __2020-05-31 20:20:50__
+> In Denbigh early December a whole week in bed. Doctor came to me. I had gone 4 days not able to getup, eat or drink. Doctor if not improving in next 2 days off to hospital, pneumonia potential. He prescribed anti sickness tablets and anti biotics. I improved. I started with flu like symptoms. However I was struggling for breath, had loss of feeling in my finger tips, felt dreadful. I was at work and had to return home after 2 hours. Lacking in energy. Off work for 3 weeks. Need more space !<br> :date: __2020-06-07 12:13:51__
 
-> Works OK but old style<br> :date: __2020-05-31 15:03:01__
+> Doesnt always prompt user to report.<br> :date: __2020-06-07 11:45:51__
 
-> Too cluuttered. Also you need to include a termination message after response to questions has been sent. Its not quite clear that answers have been received by the app and that session can be closed<br> :date: __2020-05-31 13:44:33__
+> Not always clear if data has been submitted.<br> :date: __2020-06-07 09:29:11__
 
-> It only take seconds to do it tells the government information they need<br> :date: __2020-05-31 13:31:48__
+> OK but a bit clunky (e.g. why ask me every time if I've *ever* had a test, a daily notification /reminder to report in would be useful)<br> :date: __2020-06-06 22:38:56__
 
-> That app is easy to use, however, I would like feedback or data on how I'm doing.<br> :date: __2020-05-31 09:34:40__
+> I do not get any feedback. Trying to help with info, but the lack of any feedback is making it more of a chore each day. I will continue but, just letting you know I find it difficult to "recommend" this app. John Campbell COVID videos recommended...that is why I am participating.<br> :date: __2020-06-06 21:39:31__
 
-> Its OK but limited<br> :date: __2020-05-30 20:23:20__
+> Not bad for a first attempt.<br> :date: __2020-06-06 10:25:02__
 
-> Easy to do, and ok at the moment but might need a few extra questions re health to be added<br> :date: __2020-05-30 18:30:56__
+> Is easy to use, simple q's, not at all confusing. Reliable, doesn't crash or need weird permissions. Downside is that it doesn't give much info back on how the country as a whole is doing....that would be nice to know if it is safe out there....obviously totally ignoring this incompetent murderous governments advice due to it killing so many tens of thousands of us thru delay, incompetence and inaction<br> :date: __2020-06-05 15:19:55__
 
-> Very boring app, boring design and no entertainment value; but I hope my small contribution help.<br> :date: __2020-05-30 17:37:43__
+> Not sure why I'm using it ...is it track and trace?<br> :date: __2020-06-04 11:59:59__
 
-> It d be nice if there were more info available regarding if you ve been in touch with anyone with the virus instead of just letting them know how I m feeling<br> :date: __2020-05-30 13:42:18__
+> Unresponsive to yes/no drop down. Check box would be better<br> :date: __2020-06-04 01:16:07__
 
-> At first l loaded the wrong app.<br> :date: __2020-05-30 11:50:30__
+> Very boring app, but I hope it is useful.<br> :date: __2020-06-03 15:56:24__
 
 
 
@@ -283,21 +283,17 @@ The COVID Symptom Study app has been installed by more than **1000000** times. A
 <img src="2_star_reviews_wordcloud.png" alt="com.joinzoe.covid_zoe 2 reviews"/>
 </p>
 
+> Is this the app the government want us to install, I've seen so many?<br> :date: __2020-06-07 22:13:53__
+
+> Good idea but bad user experience. Unnecessary clicks by asking every single day if you've been tested for the virus. Also the arrival screen (the blue one with the button to report is) is messy.<br> :date: __2020-06-07 15:50:07__
+
+> Hold lot of junk mail since got this. Avoid !!<br> :date: __2020-06-05 17:25:30__
+
+> App was working when we entered dailey report. The last two days, when we logged on, it showed that we had already reported our status?<br> :date: __2020-06-04 10:33:56__
+
+> Not started yet glitches on it<br> :date: __2020-06-01 23:55:15__
+
 > It seems a good idea but I haven't used the site log enough to form an opinlon<br> :date: __2020-05-29 19:39:40__
-
-> I deleted the app. I added more family members but it crashed as I did this and then duplicated my daughters info multiple times and I was unable to delete, leaving me with 15 requests for information re my daughters health.<br> :date: __2020-05-28 11:06:18__
-
-> Bugs need fixing<br> :date: __2020-05-28 10:02:53__
-
-> Loses three stars because asks my sex "assigned at birth". Sex is not assigned, it is determined at fertilisation and observed in utero. This question is based on unscientific gender ideology that the majority of the population do not believe in.<br> :date: __2020-05-26 16:32:48__
-
-> Easy and basic<br> :date: __2020-05-25 13:15:54__
-
-> Great idea behind the app and tracking the spread of Covid. Happy to contribute but not covering Scotland so input had been useless.<br> :date: __2020-05-24 13:17:55__
-
-> Great app; so good that you can contribute to preventing infection very easily and conveniently. Just annoying it reminds you to report even if you have done already. New feature I dislike: it's asking information on my movements and shopping outings...too intrusive for my taste and cannot opt out (I decided to lie about it). I might stop reporting and using app if questions continue.<br> :date: __2020-05-23 22:22:32__
-
-> Very clunky.. Not user friendly .. Very dumb.. If you forget a day yiu cannot go back and fill in any forgotten days<br> :date: __2020-05-22 00:15:02__
 
 
 
@@ -307,24 +303,22 @@ The COVID Symptom Study app has been installed by more than **1000000** times. A
 <img src="1_star_reviews_wordcloud.png" alt="com.joinzoe.covid_zoe 1 reviews"/>
 </p>
 
+> Useful app, however very difficult to find. When typing in 'COVID' or 'corona' in the Google play browser this app does not show up. These tags/search phrases should be added for a wider reach<br> :date: __2020-06-07 21:09:19__
+
+> I did not ask to get question about my heath.<br> :date: __2020-06-07 11:17:07__
+
+> Pretty basic and no way to put past episodes in, missed my March bout of Covid apart from start date.<br> :date: __2020-06-06 18:17:51__
+
+> Okay to use<br> :date: __2020-06-06 12:09:24__
+
+> Why can't I pick the language? I live in Sweden but I don't speak Swedish. The app supports English language.<br> :date: __2020-06-03 10:38:46__
+
+> You've stopped me reporting because having said I'm interested to the "want a test ... Help vital research" I have to have read a data sheet from 27th which I haven't received, but there is no option to report unless i click take part which I would do if I could day I've read the data sheet which I don't have. Catch 22, can't proceed so can't even report as normal. Fundamental software bug<br> :date: __2020-06-02 12:33:41__
+
 > Well this app is not what it makes out to be, no control.over how many times you can fill out daily. It's a nonsense .<br> :date: __2020-05-31 09:46:05__
 
 > Asking you to put how your feeling everyday is not a problem but then it keeps asking even when done. I don't have time for this so removed it. Well done for your attempts but sadly needs more work before going live.<br> :date: __2020-05-30 11:44:49__
 
 > Early days<br> :date: __2020-05-30 00:41:54__
-
-> App won't open no way of reporting it.<br> :date: __2020-05-28 11:45:16__
-
-> There's nothing here to indicate that this is the authorised HM Government/NHS app, which according to the news rolls out in 2 - 3 days. Are ppl sure that this isn't an unscrupulous scam? Please correct me if I'm missing something. I only download it so I could write this. Deleted until I get further information.<br> :date: __2020-05-27 23:35:34__
-
-> No such thing.<br> :date: __2020-05-26 21:48:52__
-
-> Don't trust it you will be tracked on your location and you will be giving them access to your data on your mobile.<br> :date: __2020-05-26 19:12:24__
-
-> Easy and a great way to help the challenge.<br> :date: __2020-05-26 16:37:56__
-
-> Where is the data for Wales? Having used it daily for the past 6 weeks I've now deleted it. I thought the app for the UK, but the only detailed analysis provided is for England which makes it less than helpful for monitoring the impact on my area.<br> :date: __2020-05-25 10:34:15__
-
-> What is the the purpose of this? I don't get it.<br> :date: __2020-05-24 09:16:25__
 
 
