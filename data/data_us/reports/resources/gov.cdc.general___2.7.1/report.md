@@ -169,6 +169,12 @@ The CDC app has been installed by more than **100000** times. At this time, **11
 <img src="5_star_reviews_wordcloud.png" alt="gov.cdc.general 5 reviews"/>
 </p>
 
+> Nice<br> :date: __2020-06-07 20:27:47__
+
+> MUST HAVE !<br> :date: __2020-06-04 03:41:41__
+
+> This is an essential asset to all Americans. Two thumbs way up.<br> :date: __2020-06-03 09:28:23__
+
 > Great Information from a group of individuals whom I respect!<br> :date: __2020-05-30 01:17:02__
 
 > This is great CDC mobile app you can get the lastest updates and news reports also.<br> :date: __2020-05-25 18:18:31__
@@ -182,12 +188,6 @@ The CDC app has been installed by more than **100000** times. At this time, **11
 > Great app for all humanity.<br> :date: __2020-05-20 19:40:13__
 
 > Perfect .thanks to warming when sickness comes alone<br> :date: __2020-05-20 18:11:24__
-
-> Keeps me up to date<br> :date: __2020-05-20 11:21:54__
-
-> Keeps updated and convenient for all. Recommend it<br> :date: __2020-05-18 16:39:02__
-
-> Coronavirus (COVID-19) every day updates<br> :date: __2020-05-17 16:54:18__
 
 
 
@@ -225,6 +225,8 @@ The CDC app has been installed by more than **100000** times. At this time, **11
 <img src="3_star_reviews_wordcloud.png" alt="gov.cdc.general 3 reviews"/>
 </p>
 
+> Depresing inormationb<br> :date: __2020-06-04 04:00:19__
+
 > What happened to the daily updates? Did Trump get to you? Ah science. What do you matter.<br> :date: __2020-05-26 18:27:05__
 
 > Disappointing. Not as useful as I expected. Doesn't show up to date info. Just info we've already seen 1000 times. Expected more from the CDC whom I've always respected.<br> :date: __2020-05-23 06:09:07__
@@ -243,8 +245,6 @@ The CDC app has been installed by more than **100000** times. At this time, **11
 
 > Need rolling updates to keep the information fresh.<br> :date: __2020-04-21 17:00:11__
 
-> Ever since the COVID-19 Coronavirus struck the U.S., I want to be more informed and so I installed the CDC app so I can be so. Unfortunately for me however, everytime I tap on notifications fron this app, this app fails to display the news article it notified me about within the app once it starts it.<br> :date: __2020-04-10 23:42:01__
-
 
 
 #### 2-star reviews
@@ -252,6 +252,8 @@ The CDC app has been installed by more than **100000** times. At this time, **11
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="gov.cdc.general 2 reviews"/>
 </p>
+
+> Didn't use this app much so I can't tell you much about it..you gonna have to try it and decide for yourself.... good luck...<br> :date: __2020-06-07 15:28:34__
 
 > I hear the very Patriot Japanese have a Voluntary CoVid19 website where they have the option to report if they feel sick or well and their accurate tracking, voluntarily. Scientists says this raw data would be useful. So which Politicians are again standing in the way of Public Health and Progress??<br> :date: __2020-05-25 06:30:00__
 
@@ -271,8 +273,6 @@ The CDC app has been installed by more than **100000** times. At this time, **11
 
 > 🚮<br> :date: __2020-04-06 00:58:13__
 
-> Great content, but app bogs my phone down.<br> :date: __2020-04-04 06:13:31__
-
 
 
 #### 1-star reviews
@@ -280,6 +280,12 @@ The CDC app has been installed by more than **100000** times. At this time, **11
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="gov.cdc.general 1 reviews"/>
 </p>
+
+> Doesn't update enough data daily.<br> :date: __2020-06-07 18:08:04__
+
+> Can't get the CDC icon on my screen and don't see how to shut it down getting ready to take it off<br> :date: __2020-06-07 12:05:50__
+
+> It's NOT a contact tracing app.<br> :date: __2020-06-02 16:28:44__
 
 > Not up to date<br> :date: __2020-05-28 03:49:46__
 
@@ -294,11 +300,5 @@ The CDC app has been installed by more than **100000** times. At this time, **11
 > Data is not up to date!<br> :date: __2020-05-15 03:02:09__
 
 > PLEASE NEEDS MORE UP DATE .. ALL THE UP DATE IS OVER DUE .. IAM READING UP DATES BACK 3 OR 4 MONTHS AGO 🤔🤔<br> :date: __2020-05-12 17:11:45__
-
-> COVID-19: *laughs in coronavirus*<br> :date: __2020-05-09 18:02:54__
-
-> Stop the noteafacations<br> :date: __2020-05-08 22:47:05__
-
-> Sucks ... need update .. uninstalled..<br> :date: __2020-05-08 01:58:58__
 
 

@@ -1,0 +1,30 @@
+{
+    "permissions": [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        "android.permission.CALL_PHONE",
+        "android.permission.INTERNET",
+        "it.lispa.sire.app.mobile.allertalom.permission.C2D_MESSAGE",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "com.google.android.c2dm.permission.RECEIVE",
+        "android.permission.WAKE_LOCK",
+        "android.permission.GET_ACCOUNTS"
+    ],
+    "activities": [
+        "it.lispa.sire.app.mobile.allertalom.MainActivity",
+        "com.gae.scaffolder.plugin.FCMPluginActivity"
+    ],
+    "urls": [
+        "http://schemas.android.com/apk/res/android",
+        "https://pagead2.googlesyndication.com/pagead/gen_204?id=gmob-apps",
+        "https://plus.google.com/",
+        "https://app-measurement.com/a",
+        "https://ssl.gstatic.com/accessibility/javascript/android/",
+        "https://play.google.com/store/apps/details?id=",
+        "https://api.whatsapp.com/send?phone=",
+        "http://*/*",
+        "https://*/*",
+        "https://www.google.com",
+        "http://localhost:"
+    ]
+}

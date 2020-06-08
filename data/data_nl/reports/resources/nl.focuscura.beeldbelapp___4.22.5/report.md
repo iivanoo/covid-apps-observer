@@ -197,25 +197,25 @@ The Luscii app has been installed by more than **50000** times. At this time, **
 <img src="5_star_reviews_wordcloud.png" alt="nl.focuscura.beeldbelapp 5 reviews"/>
 </p>
 
-> Een fijne houvast<br> :date: __2020-06-01 09:50:13__
+> Ik vind heel goed<br> :date: __2020-06-07 14:59:55__
 
-> Prima werkende app. Hier kan de regering een voorbeeld aannemen.<br> :date: __2020-06-01 09:04:00__
+> Makkelijke app.Geeft goed overzicht.<br> :date: __2020-06-07 09:00:03__
 
-> Gewoon fijn dat je mee kunt doen en in gaten gehouden word<br> :date: __2020-05-31 15:09:31__
+> App die prima zijn werk doet.<br> :date: __2020-06-07 07:28:09__
 
-> Ik ben geen professional, daarom. Pijn in de borst, en zwaar geïnjecteerd va achteren. Ook armen niet ongeschonden. Gezicht gehavend, vrees voor verhitting, vrees voor verstikking. Gestoord uithoudingsvermogen, watervrees...<br> :date: __2020-05-31 14:02:14__
+> Goed initiatief<br> :date: __2020-06-06 15:02:41__
 
-> Hij werkt perfect...Ik ben er blij mee<br> :date: __2020-05-31 11:49:14__
+> Duidelijke vragen, snel antwoord<br> :date: __2020-06-05 13:44:08__
 
-> Ervaring is goed<br> :date: __2020-05-29 10:49:00__
+> heel fijne app!<br> :date: __2020-06-05 09:52:36__
 
-> Ben heel blij met deze app<br> :date: __2020-05-28 16:31:03__
+> Fantastische service!<br> :date: __2020-06-05 09:32:53__
 
-> Duidelijk en makkelijk in te vullen<br> :date: __2020-05-28 12:29:32__
+> Makkelijke App.<br> :date: __2020-06-04 17:37:42__
 
-> Handig<br> :date: __2020-05-28 11:36:54__
+> Heel duidelijk<br> :date: __2020-06-04 11:54:07__
 
-> Bloeddruk er nog bij in en saturratie er in verwerken helemaal af Vgr lya<br> :date: __2020-05-28 11:04:06__
+> Een hele goede app. Werkt uitstekend. Geeft ook 'n geruststellende gedachte.<br> :date: __2020-06-04 10:07:29__
 
 
 
@@ -225,6 +225,18 @@ The Luscii app has been installed by more than **50000** times. At this time, **
 <img src="4_star_reviews_wordcloud.png" alt="nl.focuscura.beeldbelapp 4 reviews"/>
 </p>
 
+> Geruststellend en duidelijk!!<br> :date: __2020-06-06 09:21:23__
+
+> Is duidelijk/nu wachten op testuitslag GGD van 4 Juni 2020.<br> :date: __2020-06-05 20:21:19__
+
+> Duidelijke app, maar kan bijvoorbeeld niet zuurstof doorgeven zonder gekoppeld apparaat.<br> :date: __2020-06-04 20:57:13__
+
+> Geeft een gerustellig gevoel<br> :date: __2020-06-04 16:33:58__
+
+> De app is gemakkelijk in het gebruik. Het is alleen lastig dat je je antwoorden niet kan zien voordat je op verz enden drukt. Al zou je op dat moment alleen maar de eindscore zien.<br> :date: __2020-06-03 09:35:19__
+
+> Handig en snel<br> :date: __2020-06-01 18:27:16__
+
 > Je weet nooit kan zinloos zijn maar ook zinvol.<br> :date: __2020-05-30 18:08:02__
 
 > Heel fijn., met to the point vragen al ontbreken er meerdere, bijv aangaande saturatie, maar compleet kan toch niet met een nieuw virus, en erg fijn dat je gebeld wordt bij afwijkende waardes of kunt aangeven dat je gebeld zou willen worden<br> :date: __2020-05-30 15:32:03__
@@ -233,18 +245,6 @@ The Luscii app has been installed by more than **50000** times. At this time, **
 
 > Vindt het toch een fijn gevoel.<br> :date: __2020-05-29 13:42:30__
 
-> Het scrollen om een cijfer in te voeren is bij de start niet helemaal duidelijk.<br> :date: __2020-05-29 13:13:13__
-
-> Prima app. Het houd je alert<br> :date: __2020-05-29 11:32:14__
-
-> Het werkt goed en snel<br> :date: __2020-05-28 15:40:49__
-
-> Prima app, makkelijk in gebruik.<br> :date: __2020-05-28 10:31:45__
-
-> Oke<br> :date: __2020-05-27 13:16:37__
-
-> Het is een makkelijk en vriendelijk programma<br> :date: __2020-05-26 10:50:12__
-
 
 
 #### 3-star reviews
@@ -252,6 +252,16 @@ The Luscii app has been installed by more than **50000** times. At this time, **
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="nl.focuscura.beeldbelapp 3 reviews"/>
 </p>
+
+> Ik vind het vervelend dat na elk antwoord deze verstuurd moet worden. Kost extra tijd en maakt dat ik niet elke dag deze lijst wil invullen.<br> :date: __2020-06-06 08:37:06__
+
+> Covid bevat veel meer symptomen die niet in jullie vragenlijst zijn opgenomen<br> :date: __2020-06-05 10:08:00__
+
+> Goed dat de app er is, maar aantal klik stappen is teveel, er kan gecombineerd worden.<br> :date: __2020-06-03 10:28:20__
+
+> Geeft een goed gevoel<br> :date: __2020-06-03 09:34:30__
+
+> Telkens apart invoeren is wat omslachtig en onlogisch.<br> :date: __2020-06-02 02:52:20__
 
 > Ik kan helemaal niks met de app. Alleen mijn eigen gegevens bekijken, de anderen schermen melden dat ik ze niet gebruiken kan. Na ee paar uur doet jij het. Nu een paar keer hebruikt.. Ik vind het errg veel onnodig tikwerk..32 keer sls je alles wilt invullen.<br> :date: __2020-05-28 13:59:41__
 
@@ -263,16 +273,6 @@ The Luscii app has been installed by more than **50000** times. At this time, **
 
 > Twee opmerkingen: 1. waarom steeds per item versturen en niet alles in een keer? 2. Berichten die je ontvangt zijn niet te verwijderen<br> :date: __2020-05-20 19:12:45__
 
-> Na update geen historische gegevens meer zichtbaar.<br> :date: __2020-05-19 19:30:39__
-
-> Ik vind het onpraktisch dat je iedere waarneming apart moet insturen. Dat moet gewoon in één keer kunnen. Daarnaast zou het handig zijn als je een herinnering kon instellen om in te vullen. Het is wel fijn dat je iedere dag systematisch alle verschijnselen langsloopt en in een grafisch overzicht gepresenteerd krijgt. De meldingen of er actie vereist is of niet zijn geruststellend.<br> :date: __2020-05-18 23:29:44__
-
-> App werkt weer door oude te verwijderen en opnieuw te installeren<br> :date: __2020-05-18 10:51:30__
-
-> Ik moet na élke factor "versturen". Kan dat niet eenvoudiger?<br> :date: __2020-05-17 12:08:36__
-
-> Goed<br> :date: __2020-05-17 07:40:41__
-
 
 
 #### 2-star reviews
@@ -280,6 +280,10 @@ The Luscii app has been installed by more than **50000** times. At this time, **
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="nl.focuscura.beeldbelapp 2 reviews"/>
 </p>
+
+> Zinvolle app, hinderlijk dat na elke vraag resultaat verzonden wordt. Kan ook in 1 keer lijkt me.<br> :date: __2020-06-06 12:43:48__
+
+> Een beetje, meer of veel keelpijn? Hooikoorts verleden?<br> :date: __2020-06-04 05:11:30__
 
 > Duidelijk dat het een geautomatiseerd systeem is. Geeft niet echt juiste adviezen. Maar beter iets dan niets.<br> :date: __2020-05-31 23:14:55__
 
@@ -296,10 +300,6 @@ The Luscii app has been installed by more than **50000** times. At this time, **
 > Sinds gisteren kan ik weer niet in de app komen. Moet eerst mijn e mailadres invullen en dan komt de melding, er is iets fout gegaan.<br> :date: __2020-05-18 09:39:42__
 
 > Een app die niet werkt de-ïnstalleer ik in de regel meteen. Weg ermee! Maar deze, waar je elke dag je gegevens naartoe stuurt, schuif je natuurlijk niet zomaar terzijde. Een app die (mogelijk) cruciale data verzamelt en verzendt mag natuurlijk nooit falen. Misschien zijn nu al mijn ingevoerde gegevens verdwenen en heb ik voor Jan dinges meegedaan. Mocht dat zo zijn, dan was dit de 1e en laatste keer om mee te doen aan zo'n (voor mij althans) toch wel belangrijk meetinstrument, gelet op mijn fragiele gezondheid. Het kan trouwens niet bestaan dat deze app al enkele dagen eruit ligt. Er moet toch érgens een bel zijn afgegaan dat er géén meetgegevens meer binnenkomen? Ik meende dat dit professionals zijn/waren. Ik heb nu toch wel ernstige twijfels<br> :date: __2020-05-17 15:29:26__
-
-> Mijn ervaring met luscii is prima word keurig geïnformeerd<br> :date: __2020-05-17 10:02:33__
-
-> Geeft geen melding op Android, en ja melding staat aan<br> :date: __2020-05-13 08:30:47__
 
 
 

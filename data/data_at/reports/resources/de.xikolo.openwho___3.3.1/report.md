@@ -213,6 +213,8 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 <img src="1_star_reviews_wordcloud.png" alt="de.xikolo.openwho 1 reviews"/>
 </p>
 
+> Gibt es dies nicht in Deutscher Sprache ? Dann lösche ich dies gleich wieder.<br> :date: __2020-06-03 20:05:16__
+
 > Gates Trash<br> :date: __2020-05-31 14:34:34__
 
 > Was soll das kein Deutsch ???<br> :date: __2020-05-26 09:37:55__
@@ -230,7 +232,5 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 > Kein Deutsch<br> :date: __2020-04-16 01:55:15__
 
 > Kein deutsch<br> :date: __2020-04-13 17:57:42__
-
-> Kein deutsche Version Kein deutsche Version?<br> :date: __2020-04-11 21:01:24__
 
 

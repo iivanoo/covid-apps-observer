@@ -273,6 +273,10 @@ The Coronika - Dein Corona Tagebuch app has been installed by more than **10000*
 <img src="1_star_reviews_wordcloud.png" alt="de.kreativzirkel.coronika 1 reviews"/>
 </p>
 
+> brauch kein Mensch...alles wegen ein bischen Grippe...lächerlich!<br> :date: __2020-06-07 17:21:46__
+
+> Taugt nix<br> :date: __2020-06-01 16:30:44__
+
 > Das war mir viel zu umständlich, gerade wenn es einem sowieso nicht so gut geht.<br> :date: __2020-05-03 12:41:03__
 
 > Ich deinstalliere wider mein Fitness träckr kan ich nicht damit verbinden. Und ich möchte ja eine schlaf überwachung. Aber ich gebe keine namen von Personen aus meinem Telefon Buch raus<br> :date: __2020-05-01 12:16:48__
@@ -288,9 +292,5 @@ The Coronika - Dein Corona Tagebuch app has been installed by more than **10000*
 > Was fehlt ist der Kontakt mit fremden Personen in der Öffentlichkeit z.b bus Bahn einkaufen<br> :date: __2020-04-16 22:49:07__
 
 > Schlechteste App die ich jemals installiert habe... unübersichtlich und sehr instabil. Sofort wieder gelöscht<br> :date: __2020-04-15 16:27:28__
-
-> Ich arbeite in einem ALTENHEIM als Altenpfleger wie soll ich da Personen eintragen geht gar nicht, ist nicht ganz einfach.<br> :date: __2020-04-14 07:14:32__
-
-> Corona ist Fake! Bitte informiert euch darüber!<br> :date: __2020-04-13 14:07:41__
 
 

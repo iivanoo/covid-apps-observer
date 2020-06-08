@@ -150,6 +150,8 @@ No recent reviews available with 4 stars.
 <img src="3_star_reviews_wordcloud.png" alt="com.ambulis.aphm.covid 3 reviews"/>
 </p>
 
+> C'est Bon<br> :date: __2020-06-02 14:26:24__
+
 > À voir<br> :date: __2020-04-05 23:13:29__
 
 
@@ -170,6 +172,10 @@ No recent reviews available with 4 stars.
 <img src="1_star_reviews_wordcloud.png" alt="com.ambulis.aphm.covid 1 reviews"/>
 </p>
 
+> rien ne marche . pas adapté à mon appareil. On me demande un numéro de dossier sans explication derrière...? Bref c'est nul<br> :date: __2020-06-02 22:14:05__
+
+> J'ai pas de numéro de dossier?<br> :date: __2020-06-02 16:38:05__
+
 > Trop nnuuulll il seire à rien il fait sa pour tuer les personnes trop nul je vous le déconseille de téléchargé l'application qui d'accord avec 🙂il et trop nul👎🏻👎🏻<br> :date: __2020-05-31 11:45:24__
 
 > Ou se trouve le numéro de dossier ?<br> :date: __2020-05-31 08:00:02__
@@ -185,7 +191,5 @@ No recent reviews available with 4 stars.
 > Tres nul nul<br> :date: __2020-04-30 20:06:11__
 
 > Nul<br> :date: __2020-04-16 20:04:52__
-
-> Nullllll<br> :date: __2020-04-10 04:40:34__
 
 

@@ -165,25 +165,25 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 <img src="5_star_reviews_wordcloud.png" alt="de.xikolo.openwho 5 reviews"/>
 </p>
 
+> Nice<br> :date: __2020-06-07 20:30:55__
+
+> Nice<br> :date: __2020-06-07 13:25:14__
+
+> Impressive app<br> :date: __2020-06-07 10:19:32__
+
+> Download and Updare COVID19-app.<br> :date: __2020-06-04 14:20:00__
+
+> Great app Who can I ask more about the certificates<br> :date: __2020-06-04 13:12:09__
+
+> Helpful<br> :date: __2020-06-03 11:42:30__
+
+> It is important app for our country<br> :date: __2020-06-01 18:02:34__
+
+> Goif<br> :date: __2020-06-01 13:26:30__
+
 > it is nice app<br> :date: __2020-05-31 05:08:00__
 
 > Good application<br> :date: __2020-05-30 21:05:42__
-
-> The best one. Provides lots of online courses nd a lott of knowledge. And also the course completion certificate.<br> :date: __2020-05-30 18:04:02__
-
-> Security update<br> :date: __2020-05-30 14:19:31__
-
-> Great educational app<br> :date: __2020-05-30 11:59:12__
-
-> The App is very amazing and I have learned alot from it.<br> :date: __2020-05-28 18:13:08__
-
-> Great<br> :date: __2020-05-28 15:11:18__
-
-> I personally experience new knowledge about health perspective. Also get e-certificate of participation and achievement.<br> :date: __2020-05-26 09:14:04__
-
-> Great application 👌👌<br> :date: __2020-05-26 08:46:23__
-
-> Useful app<br> :date: __2020-05-26 05:31:40__
 
 
 
@@ -271,6 +271,8 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 <img src="1_star_reviews_wordcloud.png" alt="de.xikolo.openwho 1 reviews"/>
 </p>
 
+> Dirty apps<br> :date: __2020-06-08 01:02:18__
+
 > Not sign in properly Many times error<br> :date: __2020-05-29 19:05:54__
 
 > Cannot access securely and info very unclear and cloudy<br> :date: __2020-05-28 05:01:52__
@@ -288,7 +290,5 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 > Hate it.<br> :date: __2020-05-13 07:43:50__
 
 > Bad<br> :date: __2020-05-09 07:44:18__
-
-> Don't even know how to play<br> :date: __2020-05-06 17:54:16__
 
 

@@ -144,6 +144,8 @@ The Covid-19 app has been installed by more than **10000** times. At this time, 
 <img src="5_star_reviews_wordcloud.png" alt="it.adl.aslroma3.covid19.app 5 reviews"/>
 </p>
 
+> Ottima<br> :date: __2020-06-05 12:38:13__
+
 > Ottimo<br> :date: __2020-05-16 00:56:55__
 
 > E importante.Ne va della nostra salute, della famiglia, quella altrui.Ottimo se siamo attenti.Il panico non serve..Basta essere coscienti ,e responsabili.Solo cosi' ritorneremo liberi da questo mostro.<br> :date: __2020-05-15 13:41:47__
@@ -161,8 +163,6 @@ The Covid-19 app has been installed by more than **10000** times. At this time, 
 > E' valida anche per l' area di Rieti e provincia?<br> :date: __2020-04-06 14:01:21__
 
 > Questa è davvero necessariamente importante per tutti<br> :date: __2020-04-02 17:35:22__
-
-> etuttu ok-pontuale rapido alla consegna<br> :date: __2020-04-01 19:33:31__
 
 
 
@@ -218,7 +218,7 @@ The Covid-19 app has been installed by more than **10000** times. At this time, 
 <img src="1_star_reviews_wordcloud.png" alt="it.adl.aslroma3.covid19.app 1 reviews"/>
 </p>
 
-> Inserisco l'indirizzo di posta elettronica e non lo accetta. Da schifo<br> :date: __2020-05-31 15:28:34__
+> Non riuscivo ad accedere da migliorare<br> :date: __2020-06-07 13:56:29__
 
 > Bleee<br> :date: __2020-05-28 13:15:44__
 

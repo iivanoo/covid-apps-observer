@@ -188,6 +188,8 @@ No recent reviews available with 2 stars.
 <img src="1_star_reviews_wordcloud.png" alt="es.gva.coronavirus 1 reviews"/>
 </p>
 
+> La he descargado porque no la conocia y he cometido un error ahora me van a llamr del ambulatorio pero no me da opcion a anular. Deberia de figurar esta opcion. Este servicio podia incluirse en la app normal y no ser necesario instalar una nueva. Solo cita tfno no entiendo una app solo exclusiva para eso y encima que no puedes anular cita.<br> :date: __2020-06-02 14:38:09__
+
 > No me deja meter el sip<br> :date: __2020-04-21 11:26:17__
 
 > Me parece increíble la discriminación. De la Generalidad Valenciana que si no eres de seguridad social no puedes usar esta aplicación funcionarios, policías y militares guardias civiles todos estos que que por decisión. Del estado y no propia tienen tarjetas de MUFACE MUGEJO IFAS todos estos también somos ciudadanos de la Comunidad Valencia y a esto añadir I migrantes y demás desfavorecidos, viviendo en valencia me está dando servicio la aplicación Catalana UNA VERGUENZA<br> :date: __2020-04-20 20:34:22__
@@ -205,7 +207,5 @@ No recent reviews available with 2 stars.
 > Inútil.. Coger cita y nada más. Un ataque más a la privacidad,<br> :date: __2020-04-12 10:44:26__
 
 > Como el sip la tarjeta sanitaria,no tiene mas misterio..yo creia era otra cosa.<br> :date: __2020-04-11 15:21:22__
-
-> Ninguna finalidad,para pedir cita previa y nada más.<br> :date: __2020-04-10 18:44:06__
 
 

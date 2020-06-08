@@ -186,6 +186,8 @@ The Care19 app has been installed by more than **10000** times. At this time, **
 <img src="3_star_reviews_wordcloud.png" alt="com.proudcrowd.care 3 reviews"/>
 </p>
 
+> Doesn't this app use the Contact Tracking System that Apple and Google developed?<br> :date: __2020-06-02 15:29:17__
+
 > Simple app. Does what it was designed for but little else. Misses many locations and frequently has location accuracy issues. Routinely misses my home by 6 blocks. Says I have visited locations I have just driven past. Would be nice to have ability to add locations that I visited but app failed to record.<br> :date: __2020-05-22 15:52:32__
 
 > Still isn't capturing places I've been. Was at 3 different locations today, and not one of them showing up.<br> :date: __2020-05-20 23:03:13__
@@ -204,7 +206,9 @@ The Care19 app has been installed by more than **10000** times. At this time, **
 <img src="2_star_reviews_wordcloud.png" alt="com.proudcrowd.care 2 reviews"/>
 </p>
 
-> I have a samsung android phone and I used the app Tacoma 19 South Dakota app from Google Play. I have installed it and reinstalled it this install that reinstalled it and updated it every time. I have yet to see anything on my page of anywhere that I've been tracked it just keeps saying congratulations you are set up but doesn't detect that you win any places yet. I don't go very often but I have went to stores and I have spent more than 10 minutes there why can't I see where I have been?<br> :date: __2020-05-30 02:55:26__
+> Not very accurate for locations. It does not show several places my wife & I have been for an hour or more and it shows us stopping at places we only drove passed on our way to our destination that does not show up. Very inaccurate. It's the same on both of our phones (Galaxy Note 9's). There is no way to add the places we did go to, only to delete the irrelevant ones or change the name from "Unknown" to a proper name. It's pointless/useless for tracking when this inaccurate.<br> :date: __2020-06-05 01:20:41__
+
+> I have a samsung android phone and I used the app Tacoma 19 South Dakota app from Google Play. I have installed it and reinstalled it this install that reinstalled it and updated it every time. I have yet to see anything on my page of anywhere that I've been tracked it just keeps saying congratulations you are set up but doesn't detect that you win any places yet. I don't go very often but I have went to stores and I have spent more than 10 minutes there why can't I see where I have been?<br> :date: __2020-06-01 23:56:11__
 
 > I wish this used the exposure API rather than log GPS coordinates. As I understand, the exposure API is just a log of device identifiers of other nearby phones, stored locally, rotated every 2 weeks. Your phone then simply downloads identifiers of any recent positives in your area and alerts you if they match any your phone has been near. That's very minimal impact on me and a health organization. For me, you don't know that I went to the eye doctor on Tuesday. For you: the health dept doesn't then have to go around in hazmat suits trying to play investigator - nor posting some public notice "HAVE YOU SEEN THIS WOMAN AT THE EYE DOCTOR ON TUESDAY? IF SO, YOU MAY BE INFECTED." One is a little more subtle message, cleans up after itself, puts the burden of response to the user, likely more reliable against device power savings features, and more battery friendly where a GPS/cell tower solution is more invasive, doesn't really capture proximity to another device, probably gets affected by device power savings features, elicits more work and exposes too much to a 3rd party. I'd just scrap this one and make an open source solution using the exposure API.<br> :date: __2020-05-26 20:08:29__
 
@@ -222,8 +226,6 @@ The Care19 app has been installed by more than **10000** times. At this time, **
 
 > I'm not sure if it's just the app for Android but most days it doesn't even recognize that I have been anywhere! My Bluetooth is on, what's going on?<br> :date: __2020-05-13 02:08:21__
 
-> Not the best, has not tracked me since May 9th! My location is turned on also. Noticed previously it missed Tracking me to and from work on May 6th. Might be easier to just write it down on paper .<br> :date: __2020-05-11 15:36:20__
-
 
 
 #### 1-star reviews
@@ -231,6 +233,14 @@ The Care19 app has been installed by more than **10000** times. At this time, **
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="com.proudcrowd.care 1 reviews"/>
 </p>
+
+> This has not updated my location since 5/12. It is now the 14th. It's missing about 50% of where I've been. You should have the ability to enter information manually or name places if it's not recording your location. If everyone has this poor of a tracking record, it's pretty usless. Update June 5th. Checked the app today. It has no record of anywhere I have been at all now. Not even the May data I entered.<br> :date: __2020-06-06 04:29:38__
+
+> Has NEVER tracker my location, it says I have been anywhere, I've been to many many place since installed. Checked and double checked my permissions, and location settings, they are fine.<br> :date: __2020-06-05 17:19:07__
+
+> This app is worthless ! Doesn't deserve 1 star..<br> :date: __2020-06-04 04:49:05__
+
+> Far as I can tell, it doesn't do anything.<br> :date: __2020-06-01 16:18:32__
 
 > Bad app<br> :date: __2020-05-30 19:14:48__
 
@@ -243,13 +253,5 @@ The Care19 app has been installed by more than **10000** times. At this time, **
 > Violating the privacy policy!!! Look it up North Dakota is giving your data to Four Square dont believe me, google it<br> :date: __2020-05-26 08:21:59__
 
 > This app is terrible at tracking. It doesn't record even close accurately and doesn't log anything for days at a time.<br> :date: __2020-05-24 04:03:54__
-
-> Does not seem to log locations or show anything under the info tab. Samsung Galaxy Note 10 plus<br> :date: __2020-05-24 00:57:38__
-
-> Too slow<br> :date: __2020-05-22 22:54:12__
-
-> This app will never get on my phone. Nothing like it will never get on my phone. I NEVER WEAR MASKS. I DO NOT SOCIAL DISTANCE. I WILL NEVER BE "VACCINATED " AND NO NEEDLE WILL EVER TOUCH MY SKIN. I WILL NEVER ALLOW YOU TO TAKE MY CONSTITUTIONAL RIGHTS AWAY YOU CRAZY PSYCHOPATHS. YOU ALL NEED TO GO AWAY. LIKE ACTUALLY... GO.... AWAY....<br> :date: __2020-05-22 18:32:15__
-
-> Shared my location that I was not sure about. I wanted to help with the virus.<br> :date: __2020-05-22 05:39:43__
 
 

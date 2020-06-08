@@ -149,6 +149,8 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 <img src="5_star_reviews_wordcloud.png" alt="au.gov.health.covid19 5 reviews"/>
 </p>
 
+> Great got 2 NEGATIVE. Maureen.<br> :date: __2020-06-04 04:04:37__
+
 > Good updates daily. Well presented. Thank you.<br> :date: __2020-05-27 02:38:45__
 
 > Good info and helpful app<br> :date: __2020-05-15 03:27:11__
@@ -166,8 +168,6 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 > A must have app. Works seamlessly in the background and makes me feel more confident that I will know if I've been exposed to the virus. Everyone should have it<br> :date: __2020-05-05 22:22:45__
 
 > Let stop the spread of Covid19!<br> :date: __2020-05-05 09:30:18__
-
-> to get us bak 2normal...<br> :date: __2020-05-04 16:02:19__
 
 
 
@@ -261,7 +261,17 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 <img src="1_star_reviews_wordcloud.png" alt="au.gov.health.covid19 1 reviews"/>
 </p>
 
-> Since you have updated this app there are now no more new case numbers for states for the day the most important information is missing I have got to use worldometer now deleted..<br> :date: __2020-05-30 10:48:55__
+> Since you have updated this app there are now no more new case numbers for states for the day the most important information is missing.<br> :date: __2020-06-07 08:58:11__
+
+> Was totally changed in the update ; how bloody stupid. Idiotic.<br> :date: __2020-06-07 01:05:56__
+
+> Probably the most b\*\**sh\*\* app ever created. Shame on you gov.<br> :date: __2020-06-06 01:20:45__
+
+> Sorry, but I can't trust what the government says with the same type of personal information collected when they've previously been caught lying about it.<br> :date: __2020-06-05 18:56:10__
+
+> I have just gone through my telephone and I would like to know why Google Play has installed coronavirus app on my phone without approval<br> :date: __2020-06-03 07:13:37__
+
+> Useless messed up a BRAND NEW CELL PHONE.WOULD NOT RECOMEND AT ALL<br> :date: __2020-06-02 12:28:37__
 
 > I don't remember installing this app, I did leave my phone charging overnight with the WiFi on. Why can't they just have emailed you instead or have an entire page just for Covid updates in your local newspaper.<br> :date: __2020-05-29 13:24:39__
 
@@ -270,15 +280,5 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 > Pissed off. I've been in hospital heart attack and clot in left Ventricle. Plus lethal high deadly Virus A. Everyone needs to be brutally honest I have been impounded for 5 months. The Government has to find positive encouraging laughter and words of faith strength and ALL the best will appear. Open up our Lord Jesus is wanting more life back in the real world. I'm multiple disability after work place ACCIDENT and left for dead told to go to work. NO COMPENSATION AND NO ONE TO HELP ME<br> :date: __2020-05-24 20:42:33__
 
 > Had one notification since downloading it two months ago. And what it shared with me was two day old info which I saw on the ABC. No way will I download the tracking app either. This government is not known for being tech savvy. Most of their online attempts have been an epic fail. Especially when it comes to keeping your data secure. Also, the coronatracker app works using Bluetooth. Bluetooth can only be connected to one device at a time. So you won't be able to use your headphones when out.<br> :date: __2020-05-24 20:41:17__
-
-> Checking the website is more reliable and informative<br> :date: __2020-05-23 10:55:37__
-
-> March 2020 This app just keeps saying unable to download information . I have uninstalled and reinstalled this app a number of times and it is always the same. 23/05/2020 Tried again, downloaded and installed app easily but as soon as app was opened got "Try again etc.." message again. So annoying!<br> :date: __2020-05-23 00:31:23__
-
-> Batter is ZTE BATTERY SOURCE OF VIRUS LINKED TO BLUETOOTH LINKED TO OSC!!!<br> :date: __2020-05-20 19:14:48__
-
-> The government is hiding info on covid19<br> :date: __2020-05-18 05:59:07__
-
-> A great idea but shame we have the morons out of touch with reality running the states and country! I had this installed but with restrictions continuing no point continuing with this app!<br> :date: __2020-05-17 12:33:27__
 
 

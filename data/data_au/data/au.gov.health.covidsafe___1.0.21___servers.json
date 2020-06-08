@@ -1,0 +1,44 @@
+[
+    {
+        "name": "stackoverflow.com",
+        "registrar": "Name.com, Inc.",
+        "registrant": "Stack Exchange, Inc.",
+        "registrar_country": "",
+        "registrant_country": "US",
+        "creation_date": "2003-12-26 19:18:07",
+        "expiration_date": "2021-02-02 11:59:59",
+        "last_updated": null,
+        "status": "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+        "statuses": [
+            "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+            "clientTransferProhibited https://www.icann.org/epp#clientTransferProhibited"
+        ],
+        "name_servers": "{'ns-1033.awsdns-01.org', 'ns-cloud-e1.googledomains.com', 'ns-358.awsdns-44.com', 'ns-cloud-e2.googledomains.com'}"
+    },
+    {
+        "name": "google.com",
+        "registrar": "MarkMonitor Inc.",
+        "registrant": "Google LLC",
+        "registrar_country": "",
+        "registrant_country": "US",
+        "creation_date": "1997-09-15 04:00:00",
+        "expiration_date": "2028-09-14 04:00:00",
+        "last_updated": null,
+        "status": "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+        "statuses": [
+            "clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)",
+            "serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)",
+            "serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)",
+            "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited",
+            "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+            "clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)",
+            "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+            "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+            "serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)",
+            "clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)",
+            "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited",
+            "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited"
+        ],
+        "name_servers": "{'ns1.google.com', 'ns2.google.com', 'ns3.google.com', 'ns4.google.com'}"
+    }
+]

@@ -3,35 +3,42 @@
         "id": "org.who.infoapp",
         "store_country": "fr",
         "store_lang": "fr",
-        "latest_crawled_version": "2.1.1",
-        "latest_crawl": 1591004233
+        "latest_crawled_version": "2.1.2",
+        "latest_crawl": 1591567271
     },
     {
         "id": "org.crf.minutis",
         "store_country": "fr",
         "store_lang": "fr",
         "latest_crawled_version": "2.0.3",
-        "latest_crawl": 1591004262
+        "latest_crawl": 1591567291
     },
     {
         "id": "de.xikolo.openwho",
         "store_country": "fr",
         "store_lang": "fr",
         "latest_crawled_version": "3.3.1",
-        "latest_crawl": 1591004267
+        "latest_crawl": 1591567301
     },
     {
         "id": "fr.aphp.covidom",
         "store_country": "fr",
         "store_lang": "fr",
         "latest_crawled_version": "1.5.21",
-        "latest_crawl": 1591004273
+        "latest_crawl": 1591567309
     },
     {
         "id": "com.ambulis.aphm.covid",
         "store_country": "fr",
         "store_lang": "fr",
         "latest_crawled_version": "1.2.0",
-        "latest_crawl": 1591004278
+        "latest_crawl": 1591567312
+    },
+    {
+        "id": "fr.gouv.android.stopcovid",
+        "store_country": "fr",
+        "store_lang": "fr",
+        "latest_crawled_version": "1.0.1",
+        "latest_crawl": 1591567437
     }
 ]

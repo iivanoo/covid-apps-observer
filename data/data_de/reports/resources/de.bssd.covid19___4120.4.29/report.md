@@ -131,6 +131,8 @@ The COVID-19 app has been installed by more than **50000** times. At this time, 
 <img src="5_star_reviews_wordcloud.png" alt="de.bssd.covid19 5 reviews"/>
 </p>
 
+> 😘😘😘😘😘<br> :date: __2020-06-02 16:08:46__
+
 > Die App ist super. Ich hatte mein Ergebnis innerhalb von 48 Stunden. Ich hatte dran gezweifelt wegen dem Pfingstwochenende, aber Sonntagmorgen (!) war das Ergebnis da. Nur die Pushbenachrichtigung hat leider nicht funktioniert. Auch der Scanner hat sich ab und an aufgehangen, aber das hab ich gern in Kauf genommen um schnell mein Testergebnis zu erhalten.<br> :date: __2020-05-31 09:27:46__
 
 > Sehr gut 👍<br> :date: __2020-05-27 17:06:40__
@@ -148,8 +150,6 @@ The COVID-19 app has been installed by more than **50000** times. At this time, 
 > Deutschland verblödet. Erst testen, dann könnt ihr die App nutzen!<br> :date: __2020-04-23 03:33:32__
 
 > 1. Die App ist sinnvoll! Für Menschen die getestet wurden und bei einer Pandemie logischerweise schnellstmöglich ihr Testergebnis erhalten sollten. 2. Fremdschämen muss man sich, wenn man hier die negativen Kommentare liest! Kann man solchen Menschen nicht einfach ihr Handy entziehen, damit sie keinen Schwachsinn mehr verbreiten können?! Einfach mal die App Informationen lesen und ein wenig nachdenken! 3. Die App HATTE Probleme mit der Verschlüsselung. Die sind mittlerweile aber behoben!<br> :date: __2020-04-23 01:30:02__
-
-> Top! Hat alles super funktioniert! Super App! An alle die hier negativ bewerten, mal die Beschreibung genau durchlesen!<br> :date: __2020-04-22 11:33:23__
 
 
 
@@ -225,24 +225,24 @@ The COVID-19 app has been installed by more than **50000** times. At this time, 
 <img src="1_star_reviews_wordcloud.png" alt="de.bssd.covid19 1 reviews"/>
 </p>
 
+> ...mein Test und auch der Test von 20 weiteren meiner Bekannten, mit denen ich zusammen gefeierte hatte, war positiv....trotzdem hat keiner eine Benachrichtigung über diese App erhalten...sie taugt wohl eher nichts...<br> :date: __2020-06-07 17:40:13__
+
+> Schade..die Idee ist sehr gut, aber wenn man auf das Ergebnis wartet eine Ewigkeit und Morgen bekomm ich über den Arzt Bescheid..dann hat sich das hiermit auch erledigt.. Sucht den Fehler!!! Es scheint an der Kommunikation zu scheitern 😪<br> :date: __2020-06-07 07:54:15__
+
+> Habe keine ID Nummer<br> :date: __2020-06-06 14:47:16__
+
+> Super!! Die App hat ein 3 Jähriger mit Sratch erstellt tolle Leistung von dem "Coder" und der "Agentur" Ausschreibung war wohl ein Kaugummi genau so wie die Anforderungen^^<br> :date: __2020-06-06 11:37:22__
+
+> Das Ergebnis sollte an dem Abend da sein... seit 5 Tagen ist da nichts zu sehen. Wir haben von unserem Hausarzt erfahren dass das Ergebnis schon da ist. Die App ist einfach nur schrott...<br> :date: __2020-06-06 07:42:35__
+
+> Ein Graus. In allen Hinsichten eine schlechte Anwendung, ich hoffe die Entwicklung hat nicht mehr als 20 Euro gekostet. Aller Hindernisse zum Trotz kann ich den Status einsehen. Angeblich noch ohne Ergebnis. Mein Hausarzt hat mich schon angerufen, also ist auch das falsch.<br> :date: __2020-06-04 11:23:29__
+
+> Ich habe beim Test nur einen 9-stelligen Code bekommen. (xxx.xxx.xxx) Damit kann die App offensichtlich nichts anfangen. Ein Beispiel für eine korrekten Code fehlt. Somit kann mir die App nicht weiter helfen. Schade. Wieder deinstalliert.<br> :date: __2020-06-03 08:58:57__
+
+> Wie soll die App Wissen in wir Corona haben... . Außerdem ist Corona FAKE. Ich habe meiner Familie meine Verschwörungstheorien erzählt die wahr wurden. Hört auf der Regierung eure Daten Preis zu geben, die Regierung belügt uns. Ich glaube an den Corona Mist nicht und halte mich auch nicht an die Maßnahmen. Geht lieber euern Volk retten. Die sche*ße die ihr wählt... Lasse ich euch gern schmecken.<br> :date: __2020-06-03 02:34:15__
+
 > Ich warte vergebens auf mein Ergebnis und gerade sowas macht einen fertig man würde schon dann auch gerne wissen was nun Phase ist. Auch andere Personen zum Beispiel meine Kollegen oder meine Chefin würden gerne wissen wie es weitergeht. Also ich bin sehr enttäuscht von dieser App die wurde nur gemacht damit die Leute nicht stetig anrufen und nachfragen. Kann sich aber jemand von denen in die Situation versetzen wenn man nicht weiß was los ist. Hauptsache mit so einer App Geld verdienen .<br> :date: __2020-05-30 22:55:57__
 
 > Die Idee der App ist ja nicht schlecht. Ich sitze seit 5 Tagen Zuhause in Quarantäne, warte auf die angekündigte Push-Benachrichtigung der App, scanne den Code, gebe die ID Nr ein - mein Ergebnis liegt (angeblich) noch nicht vor. Mittlerweile habe ich das Ergebnis schriftlich vorliegen direkt aus dem Labor - ausgewertet nach weniger als 2 Tagen nach dem Abstrich. Die App zeigt noch immer kein Ergebnis an! Also für mich ein Schuss in den Ofen!<br> :date: __2020-05-29 17:10:18__
-
-> App ist Mist; "Reif für die Tonne". Abfrage beim Hausarzt ist schneller,; Das App liefert leider keine Informationen dir versprochen werden.<br> :date: __2020-05-20 14:18:40__
-
-> Die 1 Sterne Bewertungen sind wahr. Die App ist Schmutz! Liest man sich positive Bewertungen durch, erkennt man sofort die sind gekauft da Sie inhaltlich gleich aber die Gramatik... naja lest selbst hab alles gespeichert in Bildform und an Google weitergeleitet.<br> :date: __2020-05-13 10:37:47__
-
-> Das Ergebnis wird immernoch nicht angezeigt, obwohl ich es telefonisch schon längst erfahren habe. Somit sinnlos.<br> :date: __2020-05-12 21:18:22__
-
-> Für mein Begriff zu kompliziert<br> :date: __2020-05-12 19:13:43__
-
-> Die klauen nur Daten,glaube ich<br> :date: __2020-05-09 15:14:50__
-
-> Das Scannen funktioniert nicht und mit der ID-Nummer kommt man auch nicht rein um das Ergebnis abzufragen. Das ganze ist keine schlechte Idee wenn es klappen würde. Somit ist die App Schrott und habe es wieder deinstalliert.<br> :date: __2020-05-07 10:49:40__
-
-> Ergebnis wird mit noch immer nicht angezeigt obwohl ich es seit einem Tag kenne (telefonische Anfrage). Evtl. liegt es schon länger vor. Bei der telefonischen Auskunft wurde mir auch gesagt, dass das Ergebnis im System bereits freigeschaltet ist und damit einsehbar sein müsste. Also liegt der Fehler schon mal nicht beim Labor. So unterstützt die App die Labore nicht und klärt auch nicht in Echtzeit auf - schade.<br> :date: __2020-05-05 06:12:11__
-
-> App funktioniert nicht. Zeigt immer das da kein Ergebnis vorliegt. Auch nach 2 Wochen wird mein Ergebnis nicht angezeigt.<br> :date: __2020-05-05 00:06:38__
 
 

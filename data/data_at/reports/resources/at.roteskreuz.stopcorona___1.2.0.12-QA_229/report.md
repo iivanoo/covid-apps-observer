@@ -152,6 +152,18 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 <img src="5_star_reviews_wordcloud.png" alt="at.roteskreuz.stopcorona 5 reviews"/>
 </p>
 
+> Ich denke, die App ist einfach, datenschutzrechtlich vorbildlich gestaltet und sollte nicht für die prinzipbedingten Schwächen mit 1/5 abgewatscht werden. Kann für viele ein lebensrettendes Tool werden, wenn gewissenhaft verwendet. Nur die sticky Notification bei aktiviertem automatischen Handshake find ich persönlich etwas invasiv.<br> :date: __2020-06-06 08:31:26__
+
+> Scheint mittlerweile einwandfrei zu funktionieren.<br> :date: __2020-06-03 14:56:11__
+
+> Gute App, verbraucht nicht viel Akku und hilft<br> :date: __2020-06-03 07:15:33__
+
+> Tolle App. Wenn die Google API verwendet wird, werden hoffentlich auch die letzten Kinderkrankheiten behoben sein. Danke an das RK!<br> :date: __2020-06-02 17:41:40__
+
+> Wedget am bildschirm wär cool zum autoHS aktivieren. Bzw planen wann autoHS (und Bluetooth) aktiviert ist.<br> :date: __2020-06-02 17:18:21__
+
+> Die app ist sehr gut<br> :date: __2020-06-02 12:58:02__
+
 > Super App<br> :date: __2020-06-01 10:09:26__
 
 > einfach in der Anwendung<br> :date: __2020-05-25 05:31:21__
@@ -160,18 +172,6 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 
 > Super Sache - danke<br> :date: __2020-05-17 11:10:52__
 
-> Ich finde die App super!!<br> :date: __2020-05-17 06:50:01__
-
-> sehr einfach! sind 15 Minuten nicht zu lange? habe bisher nur 0 Kontakte!<br> :date: __2020-05-16 17:55:38__
-
-> Sehr gut gemacht....<br> :date: __2020-05-15 19:55:23__
-
-> Wer Sicherheit will und Sicherheit geben will ein muss<br> :date: __2020-05-15 15:00:58__
-
-> Super<br> :date: __2020-05-15 13:09:14__
-
-> Super<br> :date: __2020-05-15 08:43:54__
-
 
 
 #### 4-star reviews
@@ -179,6 +179,8 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="at.roteskreuz.stopcorona 4 reviews"/>
 </p>
+
+> Ich finde diese App gut, deshalb installiere ich sie 👍👍👍<br> :date: __2020-06-02 19:46:30__
 
 > Top<br> :date: __2020-05-24 13:26:25__
 
@@ -198,8 +200,6 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 
 > Unbedingt automatisierter Kontakt, was soll das Ganze sonst??? Ich treffl mich im Park mit 5 Freunden und erkläre ihnen, dass sie die App downloaden sollen, damit sie mir dann Bescheid geben wenns ernst wird???????? Liebe Leute.....das kann ja nicht wahr sein.....in so einer Situation muss das funktionieren, da es ja bei anderen Social Media Apps auch geht.....?????!!!!!<br> :date: __2020-05-01 00:54:11__
 
-> Die App finde ich echt sinnvoll und sie ist auch sehr Benutzerfreundlich. Das einzig nervige ist, dass der virtuelle Handshake nach dem Ausschalten des Flugzeugmodus nicht automatisch startet. So hab ich bestimmt etwaige Handshakes nicht dokumentiert, da ich das manuelle Aktivieren vergessen habe....<br> :date: __2020-04-26 05:56:29__
-
 
 
 #### 3-star reviews
@@ -207,6 +207,8 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="at.roteskreuz.stopcorona 3 reviews"/>
 </p>
+
+> 7.6.2020 Warum schaltet sich der automatische Handshake immer wieder aus, ist das so gewollt ????? Hervorragend, hoffentlich nutzen diese App möglichst viele Österreicher🤗🤗<br> :date: __2020-06-07 18:14:43__
 
 > Na ja, hab schon einen Kontakt gehabt. Man muss aber den automatischen Handshake spätestens nach jedem Neustart des Handys frisch aktivieren. Das wird vielen gar nicht auffallen. Also stark verbesserungswürdig.<br> :date: __2020-05-26 16:48:30__
 
@@ -226,8 +228,6 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 
 > Es scheint so zu sein, dass der automatische Handshake nur funktioniert, wenn man zuvor zumindest einmal den manuellen Handshake gestartet und damit die Berechtigung für das Mikrofon freigegeben hat. Android 10.<br> :date: __2020-05-15 18:01:22__
 
-> Prinzipiell gute Idee, leider schaltet sich die App immer wieder, ohne Warnung ab. Wenn man wieder startet kommt die Info über ein Update. Nach Update Instsllstion muss man wieder händisch starten. Das sollte unbedingt automatisiert werden. Automatisches Update, oder zumindest Aufforderung zum Update.<br> :date: __2020-05-15 17:37:53__
-
 
 
 #### 2-star reviews
@@ -235,6 +235,14 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="at.roteskreuz.stopcorona 2 reviews"/>
 </p>
+
+> Funktioniert die App nicht? Ich habe den automatischen Handshake eingeschaltet. Müsste die App nicht andere Smartphones automatisch erkennen? Ich kann doch nicht jedes Mal, wenn mir wer gegenüber steht die App bedienen!<br> :date: __2020-06-04 13:49:47__
+
+> Ich muss leider den kritischen Rezensionen zustimmen: der automatische Handshake hat bei mir im Test mit 2 Handys bisher nicht funktioniert. "Austria is a too small country to make a good app." Jedenfalls wäre eine europäische Lösung sicher viel besser, wenn man an die bevorstehende Reisesaison denkt.<br> :date: __2020-06-02 21:51:44__
+
+> Die Idee ist gut, die Umsetzung leider mangelhaft. Nach jedem Neustart muss man die App (autom. Handshake) neu aktivieren und bekommt auch eine neue ID zugewiesen. Automatisch bekommt man kaum Kontakt-Aufzeichnungen außer die Handys liegen fast nebeneinander.<br> :date: __2020-06-02 17:47:55__
+
+> Seit Wochen kein einziger automatischer Kontakt?!?<br> :date: __2020-06-02 13:09:25__
 
 > Die Idee ist gut, leider mangelt es an der Umsetzung. Der automatische Handshake deaktiviert sich ständig von selbst und auch wenn er aktiviert ist, habe ich im Test mit zwei Android-Smartphones bis jetzt keinen Kontakt aufgezeichnet. Bitte analysiert mal die Funktionalität in einem Feldtest und bessert nach. Update: Automatischer Handshake funktioniert nun manchmal<br> :date: __2020-05-31 01:48:34__
 
@@ -248,14 +256,6 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 
 > Automatischer Handshake deaktiviert sich ständig.<br> :date: __2020-05-22 22:08:18__
 
-> Wäre ja eine gute Sache wenn der automatische Handshake funktionieren würde. Manuell macht das ja keiner. 2x in 4 Wochen hat die App ein automatisches Handshake mit dem iPhone meiner Frau, das jeden Tag mehrere Stunden in der Nähe ist, auch tatsächlich erfasst, ansonsten aber nichts. So macht das ja keinen Sinn. Ausserdem war nach Updates die Automatik wieder deaktiviert, und musste erst wieder eingeschaltet werden.<br> :date: __2020-05-21 22:42:48__
-
-> Funktioniert nur sehr schlecht, wenn nur manuell, Automatisch verbindet sie nie, daher uninteressant 👎<br> :date: __2020-05-18 19:25:50__
-
-> Der automatische Handshake funktioniert nicht, sekbst wenn zwei Telefone 30min. nebeneinander liegen.<br> :date: __2020-05-18 07:18:36__
-
-> Ich habe die App seit mehr als 4 Wochen und noch keinen automatischen Handshake gesehen. Nach jedem Update ist die Automatik deaktiviert. Die Automatik schaltet sich auch aus, wenn man Bluetooth deaktiviert, und dann nicht mehr ein. Ich glaube nicht, dass viele Leute die App installiert haben - die nette Werbung von Kurz, Sobotka und jetzt Mei-Pochtler hat ein übriges zur mangelnden Akzeptanz beigetragen. Einigt euch EU-weit auf eine funktionierende App!<br> :date: __2020-05-17 21:17:38__
-
 
 
 #### 1-star reviews
@@ -264,24 +264,24 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 <img src="1_star_reviews_wordcloud.png" alt="at.roteskreuz.stopcorona 1 reviews"/>
 </p>
 
-> Automatischer Handshake funktioniert nicht. Automatischer Handshake muss nach jedem Handy-Neustart wieder aktiviert werden. Nachdem der automatische Handshake aktiviert wurde, kommt alle zwei Minuten eine weitere Benachrichtigung, dass der automatusche Handshake aktiviert werden muss. Auch die Speicherung der durchgeführten Handshakes scheint Probleme zu haben. Fazit: Zumindest bei mir funktioniert fast nichts.<br> :date: __2020-05-31 16:35:21__
+> Ich habe die App in den letzten 2 Wochen durchgehend wenn ich unterwegs war aktiviert gehabt und NICHTS IST PASSIERT!!! Wenn der Mist dann wenigstens die nicht erkrankten oder alle Kontakte anzeigen würde. Wieviel Personen oder Handys man begegnet ist oder so. Und eine Statistik die man nachvollziehen kann. Aber so ist Dispo nach wie vor Sinnfrei!!! Emporia usw. Da gibt es schon von anderen viel sinnvollere und besser funktionierende Apps wie in China.<br> :date: __2020-06-07 22:06:49__
 
-> App und automatischer Handshake schalten sich am Honor 10 von selbst ab. Somit sinnlos.<br> :date: __2020-05-30 08:57:24__
+> Die App blockiert andere Apps die Bluetooth verwenden wie z. B. Polar oder Blutdruckmessgeräte. Man muss dann die Corona App immer umständlich deaktivieren.<br> :date: __2020-06-07 12:07:26__
 
-> Leider völlig unbrauchbar, auch während einer Stunde gemeinsam Kaffee trinken, mit beiden Telefonen nebeneinander am Tisch, hat der automatische Handshake nicht funktioniert, weiters schaltet sich die Automatik mitunter aus (möglicherweise nach Updates, das weiß ich nicht) und dabei wurden zuletzt auch meine gespeicherten Kontakte gelöscht die ich per manuellen Handshake gespeichert hatte... wird also wieder gelöscht<br> :date: __2020-05-29 21:56:45__
+> Den Käse u.ŪBERWACHUNG App,brauche ich nicht<br> :date: __2020-06-05 13:28:35__
 
-> Mir frisst es mein geringes Datenvolumen und vor allem den Akku ständig leer! Ob sie funktioniert hab ich noch gar nicht mitgekriegt!<br> :date: __2020-05-29 15:01:24__
+> Für was braucht man eine Corona App???<br> :date: __2020-06-04 11:03:57__
 
-> Offensichtlich blockiert die App nach Freigabe des Mikrofons, den internen Lautsprecher und der Anrufer kann nicht mehr gehört werden. Ich dachte mein Telefon ist beschädigt. Nach der Deinstallation funktionierte wieder der Lautsprecher.<br> :date: __2020-05-28 16:32:12__
+> Funktioniert leider nicht richtig<br> :date: __2020-06-04 09:25:18__
 
-> Nicht funktioniert<br> :date: __2020-05-28 07:16:28__
+> Meine Daten möchte ich gerne behalten.<br> :date: __2020-06-03 23:01:15__
 
-> Ich kenne mich nicht aus<br> :date: __2020-05-27 23:53:02__
+> Schrott! Der automatische Handshake deaktiviert sich ständig. Zwei Smartphones nebeneinander mit aktivierter App - nach 1 Stunde noch immer keine Aufzeichnung. Der Corona-Virus ist verlässlicher.<br> :date: __2020-06-03 18:08:31__
 
-> Bundestrojaner - STOPP 1984 - Wer die Freiheit aufgibt, um Sicherheit zu gewinnen, wird am Ende beides verlieren.<br> :date: __2020-05-27 19:41:51__
+> Solange man den Standort freigeben muss, ist diese App indiskutabel! Schade! Andere Länder schaffen das auch ohne!?<br> :date: __2020-06-03 16:36:00__
 
-> Laut Medien hat man sich beim Datenschutz große Mühe gegeben. Bravo. Leider schaltet sich die App aber immer aus. Täglich neu starten ist mühsam bis unmöglich. Und wenn die App nicht läuft, hat sie ihren Sinn verfehlt. Infos zum Virus sind den Umständen entsprechend uralt. Nicht gerade vertrauenserweckend.<br> :date: __2020-05-26 23:29:35__
+> Schaltet sich ständig aus :-(<br> :date: __2020-06-03 14:29:36__
 
-> Tolle Idee, aber wenn es nicht funktioniert mehr gefählich als nutzlos. Nachdem der automatische Handshake gestern Abend lange nichts registiert haben, ob wohl die zwei Handys kaum einen Meter auseinander lagen, hat dann auch der manuelle Handshake nicht funktioniert. So wiegen sich die Menschen höchstens in falscher Sicherheit.<br> :date: __2020-05-26 10:13:08__
+> Ohne automatischen Handshake macht die App keinen Sinn außer zum Datensammeln. Und wenn man Kontakte manuell speichert werden diese nach einem Update der App gelöscht . Daher deinstalliere ich diese nicht brauchbare App.<br> :date: __2020-06-03 11:33:01__
 
 

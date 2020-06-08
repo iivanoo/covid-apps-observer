@@ -131,6 +131,8 @@ The BC COVID-19 Support app has been installed by more than **10000** times. At 
 <img src="5_star_reviews_wordcloud.png" alt="ca.bc.gov.health.hlbc.COVID19 5 reviews"/>
 </p>
 
+> Excellent useful informative thank you<br> :date: __2020-06-07 16:54:54__
+
 > Very helpfull<br> :date: __2020-05-25 02:52:46__
 
 > Very helpful and informative!<br> :date: __2020-05-20 15:13:25__
@@ -148,8 +150,6 @@ The BC COVID-19 Support app has been installed by more than **10000** times. At 
 > Great<br> :date: __2020-04-24 03:48:09__
 
 > Very well made, intuitive, and provides exactly the information needed during this time. As a bonus, the app is very respectful of privacy settings, and has location turned off by default. Highly recommend using this app to keep up to date with the current situation in BC.<br> :date: __2020-04-16 12:46:31__
-
-> This app is very nicely done<br> :date: __2020-04-07 17:37:19__
 
 
 

@@ -252,6 +252,8 @@ The LAZIOdrCovid app has been installed by more than **50000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="com.intellicare.covid 1 reviews"/>
 </p>
 
+> L'app non si riesce a scaricare il mio medico non risponde al telefono il numero verde della regione e' una voce registrata. Se in un momento di lucida e onesta autovalutazione decideste di cambiare mestiere provate a cercarlo in un ambito dove si fanno pochi danni. Tipo ippica ad esempio<br> :date: __2020-06-04 17:33:23__
+
 > Appena installata mi chiede di effettuare l'aggiornamento peccato che su play store non c'è alcun aggiornamento... In tal modo non la posso aprire. Disinstallata.<br> :date: __2020-05-09 14:34:20__
 
 > Appena aggiornata non si apre dice di installare la versione recente ma l ho appena installata!<br> :date: __2020-05-09 14:28:28__
@@ -269,7 +271,5 @@ The LAZIOdrCovid app has been installed by more than **50000** times. At this ti
 > Fa poco, e quel poco lo fa male. Ho dovuto registrarmi varie volte, tanto per dirne una. Poi visto che non serve a nulla ho rinunciato.<br> :date: __2020-04-26 17:35:23__
 
 > Manda in crash il telefono<br> :date: __2020-04-24 20:49:09__
-
-> Inseriti tutti campi richiesti, dato il consenso, mi arriva la mail per l'attivazione, clicco sul link, mi dice che l'account è attivo, rientro nell'app e si ricomincia da capo come se fosse la prima volta, avrò attivato almeno una decina di volte l'account ma al primo accesso è come se fosse la prima volta. Disinstallata. AGGIORNAMENTO: dopo l'aggiornamento di oggi l'app ha ripreso a non funzionare.<br> :date: __2020-04-24 11:06:47__
 
 

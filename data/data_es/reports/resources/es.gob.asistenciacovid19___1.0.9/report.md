@@ -214,8 +214,6 @@ The Asistencia COVID-19 app has been installed by more than **10000** times. At 
 
 > Según la App las mascarillas no son obligatorias... Presuntamente sí son obligatorias en transporte público y en lugares donde no se pueda respetar la distancia de seguridad... Corregid este dato<br> :date: __2020-05-28 15:23:55__
 
-> Como información puede ser útil pero como se sabe quién es el infectado ho no<br> :date: __2020-05-03 11:21:12__
-
 > Esperaba con ella conseguir mas datos e informacion como en otras de mismas caracteristicas, por ejemplo si en tu zona es mayor o menor el riesgo de contagio por presencia en ella de positivos.<br> :date: __2020-04-28 10:48:13__
 
 > Cuando llegara a Andalucía???<br> :date: __2020-04-22 22:47:56__
@@ -229,6 +227,8 @@ The Asistencia COVID-19 app has been installed by more than **10000** times. At 
 > Orientativa<br> :date: __2020-04-09 10:40:28__
 
 > Muy escueta y la autoevaluación es la misma sean personas vulnerables o de menos riesgo. Te preguntan patologías previas y luego no ahondan en ellas. Muy pobre<br> :date: __2020-04-08 17:27:47__
+
+> Le faltan preguntas ,hay gente que sólo tiene febrícula ,y faltan algunos síntomas que está teniendo gente positiva como lo del olfato,mareos ...<br> :date: __2020-04-08 13:30:38__
 
 
 
@@ -250,6 +250,10 @@ The Asistencia COVID-19 app has been installed by more than **10000** times. At 
 <img src="1_star_reviews_wordcloud.png" alt="es.gob.asistenciacovid19 1 reviews"/>
 </p>
 
+> Galicia cuando???<br> :date: __2020-06-04 01:15:35__
+
+> Sin test poco fiable, dar datos y valorar síntomas.<br> :date: __2020-06-02 08:04:16__
+
 > Lo primero que te pide la aplicación es el teléfono móvil. Muy mal.<br> :date: __2020-05-30 23:20:04__
 
 > No está disponible en catalunya<br> :date: __2020-05-30 22:06:01__
@@ -265,9 +269,5 @@ The Asistencia COVID-19 app has been installed by more than **10000** times. At 
 > Queremos tests masivos para todos y no este bodrio de App<br> :date: __2020-05-06 19:48:02__
 
 > No es fiable. Solo está basado en preguntas tipo test. Además a muchas regiones no las abarca. Como los ministros y el gobierno no se han bajado sus sueldos durante el estado de alarma, ni hacen test PCR hacen una aplicación tipo test que el posible enfermo no puede realizar con precisión. Otro engaño del gobierno...mientras que el Covid-19 sigue suelto y para no hacer gastos ni recortarse los sueldos la población a la calle como ratones de laboratorios, si fallecen menos pensiones que pagar.<br> :date: __2020-05-05 01:52:19__
-
-> No define para nada ninguna valoración y no está dígamos actualizado .El gobierno dice llevar mascarillas y lo a aplicación que no salvo estés contagiado,se podran de acuerdo alguna vez?solo tenemos órdenes contradictorias.....<br> :date: __2020-05-04 09:29:14__
-
-> Resulta que si no tienes todos los sintonas, la app dice que no tienes coronavirus. Eso es falso, ademas según la bibliografia no tienes por que tener todos los sintomas. Para hacer chapuzas mejor no hagan nada.<br> :date: __2020-05-02 09:34:11__
 
 

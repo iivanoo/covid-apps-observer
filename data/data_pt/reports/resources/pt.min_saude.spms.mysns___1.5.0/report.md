@@ -284,6 +284,8 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <img src="1_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 1 reviews"/>
 </p>
 
+> Nao abre<br> :date: __2020-06-03 21:34:16__
+
 > Sem atualizar desde 2018! Estamos on dizem os atrasados!<br> :date: __2020-05-23 00:01:59__
 
 > É a algum tempo que nao entro no meu my sns agora ia entrar nao me deixa entrar nada.mas no entanto continuam a ver a minha ficha medica,porque sai me a menssagem quando a minha medica entra para ver.senao conseguir entrar desinstalo,e quero ver se continuam a entrar!!!!!<br> :date: __2020-05-20 17:19:00__
@@ -301,7 +303,5 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 > Não é compatível com o meu android 4.2 pensão que so por o telemóvel ter 4 anos tenho de comprar outro novo so para ir buscar as receitas<br> :date: __2020-05-05 21:53:30__
 
 > Não dá para instalar. Erro atrás de erro.<br> :date: __2020-05-05 04:41:29__
-
-> Permanentemente a bloquear no meu telemóvel.<br> :date: __2020-05-02 12:59:00__
 
 

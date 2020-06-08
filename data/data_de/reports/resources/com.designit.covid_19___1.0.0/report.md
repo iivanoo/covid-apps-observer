@@ -217,6 +217,8 @@ The COVID-19 Symptom Tracker app has been installed by more than **10000** times
 <img src="1_star_reviews_wordcloud.png" alt="com.designit.covid_19 1 reviews"/>
 </p>
 
+> ...so ein Schmarrn...selten so gelacht...<br> :date: __2020-06-07 17:32:05__
+
 > Wenn du Covid-19 installieren willst kommt Polizei also sei vorsichtig ;) dann kommt Ambulante aus deine Adresse usw... gebe 1 Stern !!!<br> :date: __2020-05-31 10:32:12__
 
 > Die App ist völlig unausgereift ! Es gibt keine Möglichkeit Fehlangaben zu korrigieren. Ich habe bei der Frage auf Corona-Testung versehentlich auf positiv getippt, dabei bin ich aktuell negativ ! Keine Möglichkeit dies zu korrigieren !!! So macht es keinen Sinn und ergibt verfälschte Ergebnisse ! In dieser Form ist die App untauglich und wird zu meinem Bedauern deinstalliert! DIE APP BITTE GEWISSENHAFT ÜBERARBEITEN ! Mit freundlichen Grüßen.<br> :date: __2020-05-22 12:32:33__
@@ -234,7 +236,5 @@ The COVID-19 Symptom Tracker app has been installed by more than **10000** times
 > Nimmt den QR-Code nicht!<br> :date: __2020-05-03 10:31:29__
 
 > Heute hat die App einfach angefangen, mich mit notifications zuzuspammen. 30 notifications in einer Minute. Konnte gar nichts mehr machen.<br> :date: __2020-05-03 09:03:58__
-
-> Das Problem ist trotz vorhandener Internet Verbindung funktioniert sie nicht mehr ich habe sie deshalb gelöscht, Sorry, wenn es wieder funktioniert installiere ich es wieder.<br> :date: __2020-05-01 09:07:22__
 
 

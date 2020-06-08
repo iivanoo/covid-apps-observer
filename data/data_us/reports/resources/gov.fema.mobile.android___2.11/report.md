@@ -168,6 +168,18 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 <img src="5_star_reviews_wordcloud.png" alt="gov.fema.mobile.android 5 reviews"/>
 </p>
 
+> Nicr<br> :date: __2020-06-07 06:06:39__
+
+> All NASA PERSONS TAKE THE INITIATIVE AS A FEELING THAT IS WELL.<br> :date: __2020-06-07 02:15:13__
+
+> Very productive sercure guard national support VA non-profit but helpful for safety and insurance for damages of areas of destruction weather storms, or life support<br> :date: __2020-06-06 23:26:31__
+
+> You can receive alerts for multiple areas. The app has everything from weather alerts to information on disaster preparedness. I've not used but you can also call 911 with it.<br> :date: __2020-06-06 16:21:09__
+
+> Now I can hear all my emgincay updated information<br> :date: __2020-06-06 06:36:37__
+
+> Resourceful App Absolutly!<br> :date: __2020-06-02 04:24:22__
+
 > A most un-intrusive app no garbage like most apps BUT WARNINGS KEEP MY FAMILY SAFE. PROBABLY AMONG MY TOP TEN APPS<br> :date: __2020-05-29 21:02:24__
 
 > Great app<br> :date: __2020-05-29 07:48:43__
@@ -175,18 +187,6 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 > Love it!<br> :date: __2020-05-26 04:09:18__
 
 > How do I turn on the sound?<br> :date: __2020-05-25 00:06:13__
-
-> Funn I, you<br> :date: __2020-05-24 17:57:36__
-
-> Helpful<br> :date: __2020-05-21 10:49:13__
-
-> Helpful and useful<br> :date: __2020-05-20 23:26:40__
-
-> Works but why no alert sound???<br> :date: __2020-05-17 18:23:59__
-
-> I can call 911 if needed I hear about all emergency weather wise and other like child abduction as well<br> :date: __2020-05-16 15:42:24__
-
-> Options to customize notifications by type and locations. Useful information and links, a good app.<br> :date: __2020-05-13 02:06:20__
 
 
 
@@ -280,6 +280,14 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 <img src="1_star_reviews_wordcloud.png" alt="gov.fema.mobile.android 1 reviews"/>
 </p>
 
+> "Watch out for torrential downpours leading to localized flooding" 2 drops falls from sky... err overreacted much FEMA?<br> :date: __2020-06-06 13:21:01__
+
+> I am not getting tornado alerts like my sister 1 mile away gets on TV and NOAA radio. I have the warnings checked, but I am not getting them.<br> :date: __2020-06-05 17:43:06__
+
+> One of the many problems we as Whistleblowers face is, a lack housing from being targeted. This app was not at all helpful in reaching that goal. Being denied basic human resources is never good.<br> :date: __2020-06-04 14:42:07__
+
+> It needs to be user-friendly you need to hire a real designer to do it correctly. You need to be all the tie and the other government in it also local government agencies needs to be tight end. Need a better alert system Cayenne with it<br> :date: __2020-06-01 17:33:00__
+
 > It doesn't work. The government sucks cum bubble.<br> :date: __2020-05-28 19:26:04__
 
 > Unfriendly<br> :date: __2020-05-26 22:15:06__
@@ -291,13 +299,5 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 > App does not work. Will not accept any locations.<br> :date: __2020-04-14 02:01:12__
 
 > Not helpful at all with covid-19<br> :date: __2020-04-03 16:57:24__
-
-> Just download this app for coronavirus updates. Looking for something that will show me where the highest concentrations of COVID 19 is in my county. I'm not going anywhere, just curious. I'm in a more rural part of Oakland Co. The last article 'update' was Tuesday, March 24, 2020. Today is Friday, March 27, 2020. Goodbye!<br> :date: __2020-03-27 19:45:46__
-
-> יציז<br> :date: __2020-03-26 15:38:06__
-
-> FEMA is supposed to be the lead agency in responding to a national disaster. Under Donald Trump's direction, FEMA was defunded to pay for his wall. The appropriate leadership resigned or were fired, and the money went towards paying for his wall. Now this useless app is nothing but Trump appointees patting Trump on the back and calling him a good boy when they should be directing resources to help Americans. It makes me sick and disgusted at Trump and his lackeys in the GOP.<br> :date: __2020-03-19 15:49:42__
-
-> Push notifications work but information doesn't show in app.<br> :date: __2020-03-19 08:55:16__
 
 

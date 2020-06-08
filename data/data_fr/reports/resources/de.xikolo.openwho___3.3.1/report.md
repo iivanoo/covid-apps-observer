@@ -165,6 +165,8 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 <img src="5_star_reviews_wordcloud.png" alt="de.xikolo.openwho 5 reviews"/>
 </p>
 
+> Good<br> :date: __2020-06-02 10:54:02__
+
 > Ce bon<br> :date: __2020-05-29 05:54:46__
 
 > Meilleurs façons d'apprentissage Merci aux concepteurs<br> :date: __2020-05-22 15:49:15__
@@ -182,8 +184,6 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 > Permet un apprentissage en ligne<br> :date: __2020-04-27 23:47:50__
 
 > Très bien Boudet jontie<br> :date: __2020-04-21 21:58:00__
-
-> Good<br> :date: __2020-04-17 01:02:57__
 
 
 

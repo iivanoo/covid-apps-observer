@@ -1,0 +1,26 @@
+{
+    "permissions": [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        "android.permission.INTERNET",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "com.google.android.c2dm.permission.RECEIVE",
+        "android.permission.ACCESS_FINE_LOCATION",
+        "android.permission.WAKE_LOCK",
+        "android.permission.ACCESS_COARSE_LOCATION"
+    ],
+    "activities": [
+        "com.siciliasicura.app.MainActivity",
+        "com.google.android.gms.common.api.GoogleApiActivity"
+    ],
+    "urls": [
+        "https://www.example.com",
+        "http://schemas.android.com/apk/res/android",
+        "https://plus.google.com/",
+        "https://%s/%s/%s?key=%s",
+        "https://ssl.gstatic.com/accessibility/javascript/android/",
+        "http://schemas.android.com/apk/res-auto",
+        "https://www.googleapis.com/auth/games_lite",
+        "https://www.googleapis.com/auth/games"
+    ]
+}

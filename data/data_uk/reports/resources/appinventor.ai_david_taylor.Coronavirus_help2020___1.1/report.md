@@ -146,6 +146,8 @@ The Coronavirus Help app has been installed by more than **1000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="appinventor.ai_david_taylor.Coronavirus_help2020 5 reviews"/>
 </p>
 
+> Contact tracing. Uk<br> :date: __2020-06-01 22:22:36__
+
 > I love it 💖 so simple to use and not confusing at all, I love that everything is in one place and from the people that we should be listening to and not from misleading sources (newspapers) x I love all you over 70's that was involved in making this great app x I am 28 and I couldn't of done anything like this well done guys stay safe 💋💋<br> :date: __2020-05-27 22:54:07__
 
 > This app is very good .<br> :date: __2020-05-26 02:43:22__
@@ -163,8 +165,6 @@ The Coronavirus Help app has been installed by more than **1000** times. At this
 > This is a great App for up to date info, I live in spain and although I am english all my spanish friends can use the app due to it's multi language feature first class<br> :date: __2020-04-20 15:23:09__
 
 > Great app, very useful information, and easy to use.<br> :date: __2020-04-15 00:21:51__
-
-> Keeps all links on latest info in the same place with a handy translation tool, easy to use with a clear layout.<br> :date: __2020-04-14 21:12:59__
 
 
 

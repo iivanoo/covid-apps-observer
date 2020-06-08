@@ -1,5 +1,16 @@
 [
     {
+        "userName": "Edit Csoka",
+        "userImage": "https://lh3.googleusercontent.com/-VzFLmRphIPw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm-y433ETF5x6Kugloba_zja2u8hQ/photo.jpg",
+        "content": "Contact tracing. Uk",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.1",
+        "at": "2020-06-01 22:22:36",
+        "replyContent": "Thank you for taking the time to leave a review.  It means a lot to our group and charity  that you find it useful.",
+        "repliedAt": "2020-06-01 23:19:01"
+    },
+    {
         "userName": "dean spencer",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgKlH8gTFhSR8f8vV0hE6QjpMeQ082ud2sVcMFP6eE",
         "content": "Great to see all the information bundled into one little package, unfortunately, because the app simply directs you to websites that are displayed within a web view, it's completely useless for offline use.",
@@ -15,7 +26,7 @@
         "userImage": "https://lh3.googleusercontent.com/-DuA9wcKSnHs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck4YxNNXb6fjDbfhPSBoKmxKYpzSg/photo.jpg",
         "content": "I love it \ud83d\udc96 so simple to use and not confusing at all, I love that everything is in one place and from the people that we should be listening to and not from misleading sources (newspapers) x I love all you over 70's that was involved in making this great app x I am 28 and I couldn't of done anything like this well done guys stay safe \ud83d\udc8b\ud83d\udc8b",
         "score": 5,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 4,
         "reviewCreatedVersion": "1.1",
         "at": "2020-05-27 22:54:07",
         "replyContent": "Thank you Hannah for taking time to review our app.  We're happy to see you are find it useful. The Ryecroft website section is being updated daily with latest advice as becomes available.",
@@ -37,7 +48,7 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gjvv5RhiORXmrHEk10dqNM1zbylGCnUw5xQ4SBSYLY",
         "content": "Virus checker (McAfee) alerted to a (possible) malware contained within this app. After reading other reviews of this app it appears to be a false positive, thank goodness other people had flagged this as i would of halted the install and not downloaded it. I don't believe its actually anything harmful contained within the app itself. I would given the app a 5 \u2b50 except its laid out like a website from 1992. Great app though",
         "score": 3,
-        "thumbsUpCount": 8,
+        "thumbsUpCount": 11,
         "reviewCreatedVersion": "1.1",
         "at": "2020-05-21 09:29:34",
         "replyContent": "Loved your comment about the layout. Unfortunately our team of over 70s and myself are not the best when it comes to layout.  Glad you like the app otherwise.  Thank you for taking time to comment",
@@ -70,7 +81,7 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GitxGZB17p8fk196I6IU0tc2rpjgLYl45vvT1obUw",
         "content": "It's good that this information is available in one location, however please note (developers) that the physical distance required by law and for the best chance of avoiding the virus via breath, is 2 metres, not 1 metre as stated in the app. Sorry to be picky, but this is crucial information. As for the risk of malware, some of the more rudimentary so-called security apps will throw up false positives but Kaspersky, AVG and Malwarebytes will not. \ud83c\udff3",
         "score": 5,
-        "thumbsUpCount": 53,
+        "thumbsUpCount": 55,
         "reviewCreatedVersion": "1.1",
         "at": "2020-05-02 18:01:23",
         "replyContent": "Thank you so much for your feedback. Very much appreciated.  Unfortunately as these are external links we have little control over their content. I will put forward a correction.  Thank you once again.",
@@ -198,8 +209,8 @@
         "repliedAt": null
     },
     {
-        "userName": "A Google user",
-        "userImage": "https://lh3.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+        "userName": "K Haynes Fine Art",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gj24yoiVs91-GA0hxpHImuNRIlibTBmkxBpTm3O",
         "content": "Very concise, informative and easy to navigate",
         "score": 5,
         "thumbsUpCount": 2,

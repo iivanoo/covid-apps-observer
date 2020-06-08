@@ -1,14 +1,25 @@
 [
     {
-        "userName": "Raffaella Loreta Frattaruolo de Michele",
-        "userImage": "https://lh3.googleusercontent.com/-v6N2Bqajgdo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckVN4-Gr6FysNf6SUGeSdZ817tbtA/photo.jpg",
-        "content": "Inserisco l'indirizzo di posta elettronica e non lo accetta. Da schifo",
+        "userName": "Barbara Rubatto",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gip-y9Bp-dSoNy3jN-IiijIoI-zp5PILS0fz9rmT1E",
+        "content": "Non riuscivo ad accedere da migliorare",
         "score": 1,
         "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2020-06-07 13:56:29",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "userName": "Enzo Tomaselli",
+        "userImage": "https://lh3.googleusercontent.com/-LaG0DRFZUg4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmICI0q-g0G2W6Xh23WtHIorHUnIQ/photo.jpg",
+        "content": "Ottima",
+        "score": 5,
+        "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.0.4",
-        "at": "2020-05-31 15:28:34",
-        "replyContent": "Questa App \u00e8 rivolta alle persone che sono in isolamento forzato causa Covid-19. Per accedere al servizio \u00e8 sufficiente ricevere un account dalla struttura medica di riferimento (se usufrisce della piattaforma) per l\u2019avvio della sorveglianza. E' scritto nella descrizione. Per maggiori informazioni a riguardo https://www.adilife.net/covid-19.",
-        "repliedAt": "2020-06-01 09:32:30"
+        "at": "2020-06-05 12:38:13",
+        "replyContent": "Gentile utente, la ringraziamo per la valutazione positiva.",
+        "repliedAt": "2020-06-05 12:54:42"
     },
     {
         "userName": "Ilary Travascio",
@@ -125,7 +136,7 @@
         "userImage": "https://lh3.googleusercontent.com/-o0x8mhozdFA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck5HySuVVZShYUUXljr2txn9GlamA/photo.jpg",
         "content": "All'inizio sembrava un gioco divertente, simile a plauge inc in cui c'\u00e8 un virus che deve sterminare il mondo, poi \u00e8 iniziato anche nella vita reale ed \u00e8 diventato un po' noioso, soprattutto perch\u00e9 bisogna stare a casa per giocare ed \u00e8 obbligatorio giocare",
         "score": 1,
-        "thumbsUpCount": 20,
+        "thumbsUpCount": 31,
         "reviewCreatedVersion": "1.0.4",
         "at": "2020-05-04 10:55:31",
         "replyContent": null,
@@ -334,7 +345,7 @@
         "userImage": "https://lh3.googleusercontent.com/-G4eLFqLOwws/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckP8gBdin5RQ89TUYpsGsNErUaqjg/photo.jpg",
         "content": "Anche a me dice credenziali errate, in entrambe le modalita'. Ma che cavolo di email e password devo metterci??? Vi do 4 stelle di incoraggiamento sperando che risolvete grazie. Edit ah ookk bastava legger sotto... Mi sono accorto solo ora.",
         "score": 4,
-        "thumbsUpCount": 55,
+        "thumbsUpCount": 57,
         "reviewCreatedVersion": "1.0.4",
         "at": "2020-04-06 16:00:11",
         "replyContent": "Gentile cliente, questa App \u00e8 rivolta alle persone che sono in isolamento forzato causa Covid-19. Per accedere al servizio \u00e8 sufficiente ricevere un account dalla struttura medica di riferimento (se usufrisce della piattaforma) per l\u2019avvio della sorveglianza. Per maggiori informazioni a riguardo https://www.adilife.net/covid-19.",
@@ -510,7 +521,7 @@
         "userImage": "https://lh3.googleusercontent.com/-JkkrOWzNcPw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl0KcDRAKpcnKNNh85ZJ1Tn2usN2g/photo.jpg",
         "content": "Che si offra al paziente la possibilit\u00e0 di non sentirsi dimenticato e lontano da chi lo pu\u00f2 curare lo trovo straordinario. Andate avanti!",
         "score": 5,
-        "thumbsUpCount": 127,
+        "thumbsUpCount": 139,
         "reviewCreatedVersion": "1.0.4",
         "at": "2020-03-31 20:16:58",
         "replyContent": "Gentile utente, la ringraziamo per la valutazione. Ce la stiamo mettendo tutta per supportare le strutture mediche (ASL, associazione di MMG) nell'affrontare questa pandemia.",

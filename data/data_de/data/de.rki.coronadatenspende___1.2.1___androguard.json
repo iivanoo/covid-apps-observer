@@ -1,0 +1,16 @@
+{
+    "permissions": [
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.INTERNET",
+        "android.permission.ACCESS_WIFI_STATE"
+    ],
+    "activities": [
+        "com.thryve.datenspendeausweis.MainActivity",
+        "io.flutter.plugins.urllauncher.WebViewActivity",
+        "com.google.android.gms.common.api.GoogleApiActivity"
+    ],
+    "urls": [
+        "http://schemas.android.com/apk/res/android",
+        "https://plus.google.com/"
+    ]
+}
