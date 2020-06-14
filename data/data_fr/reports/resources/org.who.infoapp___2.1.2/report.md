@@ -126,6 +126,12 @@ The WHO Info app has been installed by more than **100000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="org.who.infoapp 5 reviews"/>
 </p>
 
+> J'aime<br> :date: __2020-06-14 12:30:05__
+
+> Oui elle peut elle fornit également des actualités<br> :date: __2020-06-13 12:20:30__
+
+> Bien<br> :date: __2020-06-13 09:33:22__
+
 > Tem<br> :date: __2020-06-03 21:34:49__
 
 > bonne appli<br> :date: __2020-06-02 21:35:56__
@@ -139,12 +145,6 @@ The WHO Info app has been installed by more than **100000** times. At this time,
 > Peut toujours servir<br> :date: __2020-05-29 20:32:55__
 
 > Coronavirus image s<br> :date: __2020-05-25 20:27:10__
-
-> ممناز<br> :date: __2020-05-21 02:07:37__
-
-> Quel application<br> :date: __2020-05-05 22:53:45__
-
-> coment savoir si ont na le covid19<br> :date: __2020-04-24 18:51:24__
 
 
 
@@ -171,6 +171,10 @@ No recent reviews available with 4 stars.
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="org.who.infoapp 2 reviews"/>
 </p>
+
+> ركنا<br> :date: __2020-06-14 04:12:29__
+
+> Impossible de télécharger l'application<br> :date: __2020-06-08 19:28:39__
 
 > Les infos devraient être en français<br> :date: __2020-04-19 19:07:09__
 

@@ -174,6 +174,14 @@ The Sicilia Si Cura app has been installed by more than **10000** times. At this
 <img src="3_star_reviews_wordcloud.png" alt="com.siciliasicura.app 3 reviews"/>
 </p>
 
+> Salve, sarebbe utile poter inserire un eventuale test/tampone effettuato (data,esito, sede...) per completare il patrimonio informativo<br> :date: __2020-06-14 13:11:31__
+
+> Provo a registrarmi e la mia mail risulta già presente, ma io non ho mai scaricato né app e nulla, cosa debbo fare?<br> :date: __2020-06-11 18:19:53__
+
+> È legalmente obbligatoria per entrare in Sicilia? Grazie<br> :date: __2020-06-10 17:44:39__
+
+> Salve, potreste dirmi come registrare i figli minorenni?<br> :date: __2020-06-10 14:19:32__
+
 > Da siciliano che torna nella propria terra per le vacanze...sono d'accordo nell'utilizzo di questa applicazione. Non risulta chiaro se i minori debbano essere registrati...e comunque non è possibile effettuare più registrazioni con la stessa e-mail. Bisognerebbe fare più chiarezza.<br> :date: __2020-06-07 20:38:11__
 
 > Una volta arrivato in Sicilia, indicata la mia posizione che corrisponde all'indirizzo indicato in fase di registrazione, se volessi spostarmi in un'altra località (San Vito Lo Capo) in un villaggio turistico, posso spostarmi o devo rimanere nel luogo di Palermo?<br> :date: __2020-06-02 19:35:59__
@@ -191,6 +199,10 @@ The Sicilia Si Cura app has been installed by more than **10000** times. At this
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="com.siciliasicura.app 2 reviews"/>
 </p>
+
+> Scusate ma come si fa ad impostare le date,c è da sclerare,devo essere in sicilia nei primi di luglio e non riesco a registrarmi,impostare le date,di nascita,di partenza non si capisce,fate qualcosa<br> :date: __2020-06-13 21:00:06__
+
+> Nn riesco ad effettuare la registrazione, né dall'APP, tantomenovia web...scade in continuazione il time della verifica captcha...<br> :date: __2020-06-10 16:14:27__
 
 > L'applicazione è tutta in italiano, solo dopo si può scegliere la lingua di preferenza, molto dopo. Un turista che arriva dall'estero e non conosce l'italiano, come dovrebbe fare? Ai gestori di strutture ricettive si dice di dire scaricare l'app, di controllare che l'ospite l'abbia scaricata, ma gli ospiti che non parlano italiano stanno riscontrando un sacco di difficoltà, non comprendendo neanche il consenso ai dati personali.... sistematela subito!!!<br> :date: __2020-06-07 23:36:49__
 
@@ -210,9 +222,15 @@ The Sicilia Si Cura app has been installed by more than **10000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="com.siciliasicura.app 1 reviews"/>
 </p>
 
-> Mi dice codice fiscale non riconosciuto.. Cominciamo bene....<br> :date: __2020-06-07 23:41:21__
+> Applicazione x ora totalmente inefficente. Dopo la registrazione non riconosce ne username ne password. Non esegue il reset della password . Neanche dopo il vostro intervento tramite helpdesk con reset password. Una nuova registrazione inefficente perché sei già registrato con i tuoi dati. Uno che viene in vacanza in Sicilia non può stare in balia giorni dietro applicazioni o call center. Predisponete anche un cartaceo forse risolviamo.<br> :date: __2020-06-13 11:44:20__
 
-> Ho qualche dubbio sulla sua utilita'!!! Non è un vaccino ma serve solo a complicare la vita ai turisti che hanno una mezza intenzione di venire in Sicilia. Mha!!!<br> :date: __2020-06-07 16:59:10__
+> Ma le persone anziane che vogliono tornare nel loro paese di nascita e non hanno internet come fanno a registrarsi ????<br> :date: __2020-06-13 00:06:52__
+
+> Tutto quello che non è stato concesso all'app Immuni trova spazio nell'utilizzo di questa app. Grazie Musumeci per rispettare i siciliani che si trovano al nord a causa della classe dirigente siciliana.<br> :date: __2020-06-12 14:06:53__
+
+> Non capisco dove registrare i miei figli che viaggiano con me. L'app non consente di registrarli ne' sul mio profilo ne nuovo con la mia stessa mail. Inoltre al numero verde dopo un'ora di attesa non risponde nessuno. Cosa intendete x segnalazione dei figli? Sull app non fa fare nulla. E per gli spostamenti dall'indirizzo originale bisogna segnalarlo? Cosa vuol dire fare una segnalazione x i figli? Spiegate? Non date risposte tutte uguali. Dove devo segnalarli? Sull'app non mi da altre possibi<br> :date: __2020-06-10 15:46:56__
+
+> Buongiorno, Ieri ho scaricato l'app ma non riesco a registrarmi perché non mi fa inviare i dati da me compilati Ho già mandato una mail di richiesta di password e login ma nessuna risposta<br> :date: __2020-06-09 06:44:59__
 
 > Geolocalizzazione totalmente a caso, connesso alla stessa rete wi-fi da quando sono tornato ma ricevo il messaggio:"non sei stato localizzato ai confini di operatività...". Ora non posso più utilizzare l'app in pratica perché non riconosce più la posizione che aveva trovato in principio<br> :date: __2020-05-31 19:42:14__
 
@@ -223,11 +241,5 @@ The Sicilia Si Cura app has been installed by more than **10000** times. At this
 > Neanche si può installare. Sono due giorni che cerco di installare questa schifezza<br> :date: __2020-05-22 22:43:02__
 
 > Dopo essermi registrato mi dice accesso negato cosa devo fare?<br> :date: __2020-05-21 18:03:56__
-
-> Sono fuori regione, ragion per cui non riesco ad accedere... l'ho scaricata proprio perché devo rientrare...mah!? non ha senso sta cosa<br> :date: __2020-05-18 21:26:32__
-
-> Non mi fa completare la registrazione perché il geocalizzatore dice che non sono in Sicilia... mi sembra normale non mi sarei iscritta al censimento se no. Potete aiutarmi?<br> :date: __2020-05-15 11:55:02__
-
-> Buongiorno. ..ho istallato l'applicazione sul cellulare ma non mi fa andare oltre non riesco ad aprirla cliccandoci sopra ...forse sbaglio qualche passaggio ..e il terzo giorno ...grazie<br> :date: __2020-05-11 07:41:37__
 
 

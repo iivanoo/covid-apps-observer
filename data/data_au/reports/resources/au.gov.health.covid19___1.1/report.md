@@ -149,6 +149,10 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 <img src="5_star_reviews_wordcloud.png" alt="au.gov.health.covid19 5 reviews"/>
 </p>
 
+> Good tool It has lots of useful info<br> :date: __2020-06-14 10:58:40__
+
+> Good<br> :date: __2020-06-13 22:31:54__
+
 > Great got 2 NEGATIVE. Maureen.<br> :date: __2020-06-04 04:04:37__
 
 > Good updates daily. Well presented. Thank you.<br> :date: __2020-05-27 02:38:45__
@@ -164,10 +168,6 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 > Crucial app you need to survive this disease that was definitely not released by any government or grouping of people to quell the overwhelming amount of people that are alive. This app it had too many similarities to plague Inc, but the story was the biggest failure of it all. I mean truly, who would believe our governments would release this disease on the people, it's too cruel to imagine. It's not like the powers to be around you are plotting against you. Or are they..<br> :date: __2020-05-08 02:07:04__
 
 > I am reviewing in response to the current most highly rated negative review. TLDR this is not spyware. Storing data on Amazon Web Services (AWS) is no real concern. AWS *does* have servers in Australia. It is very stable, and any sensitive data collected by the app (which afaik is *all* voluntary) will probably be about as secure as most government services. Using AWS means 99.99% uptime (not exaggerating), that the app is available much sooner than it would be otherwise, and cheaper on tax $$<br> :date: __2020-05-06 10:36:30__
-
-> A must have app. Works seamlessly in the background and makes me feel more confident that I will know if I've been exposed to the virus. Everyone should have it<br> :date: __2020-05-05 22:22:45__
-
-> Let stop the spread of Covid19!<br> :date: __2020-05-05 09:30:18__
 
 
 
@@ -261,6 +261,10 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 <img src="1_star_reviews_wordcloud.png" alt="au.gov.health.covid19 1 reviews"/>
 </p>
 
+> I was violated by having this app installed on my phone without any notice or warning or most importantly MY CONSENT.<br> :date: __2020-06-10 05:41:48__
+
+> Useless<br> :date: __2020-06-09 23:40:47__
+
 > Since you have updated this app there are now no more new case numbers for states for the day the most important information is missing.<br> :date: __2020-06-07 08:58:11__
 
 > Was totally changed in the update ; how bloody stupid. Idiotic.<br> :date: __2020-06-07 01:05:56__
@@ -276,9 +280,5 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 > I don't remember installing this app, I did leave my phone charging overnight with the WiFi on. Why can't they just have emailed you instead or have an entire page just for Covid updates in your local newspaper.<br> :date: __2020-05-29 13:24:39__
 
 > Won't keep working. Send to be issue with battery optimisation on my android phone<br> :date: __2020-05-25 18:03:02__
-
-> Pissed off. I've been in hospital heart attack and clot in left Ventricle. Plus lethal high deadly Virus A. Everyone needs to be brutally honest I have been impounded for 5 months. The Government has to find positive encouraging laughter and words of faith strength and ALL the best will appear. Open up our Lord Jesus is wanting more life back in the real world. I'm multiple disability after work place ACCIDENT and left for dead told to go to work. NO COMPENSATION AND NO ONE TO HELP ME<br> :date: __2020-05-24 20:42:33__
-
-> Had one notification since downloading it two months ago. And what it shared with me was two day old info which I saw on the ABC. No way will I download the tracking app either. This government is not known for being tech savvy. Most of their online attempts have been an epic fail. Especially when it comes to keeping your data secure. Also, the coronatracker app works using Bluetooth. Bluetooth can only be connected to one device at a time. So you won't be able to use your headphones when out.<br> :date: __2020-05-24 20:41:17__
 
 

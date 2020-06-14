@@ -1,5 +1,82 @@
 [
     {
+        "userName": "Blas Donaire",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gh4j-5Nz6oaNqb5vbWWNBF3EgRJxpqpb0ysxYQD",
+        "content": "No puedo cambiar un familiar a home si vive en mi casa, si pudiese hacerlo le dar\u00eda m\u00e1s estrellas",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.0",
+        "at": "2020-06-11 10:47:28",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "userName": "Jani lo",
+        "userImage": "https://lh3.googleusercontent.com/-deL71DDgssY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck4tbFX5c2OQrwaaYPvcUCg7K544Q/photo.jpg",
+        "content": "S\u00faper \u00fatil para evitar contagios y nuevos rebrotes!!",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.4",
+        "at": "2020-06-11 09:18:56",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "userName": "rebeca deza",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhCMZqWZRDMvSGGGwxdclXLEwIj_p2fvOn3-3Qdjis",
+        "content": "A mi me sale que tengo 3 contagiados en mi zona no en mis conctactos eso como lo tengo que tomar",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.0",
+        "at": "2020-06-10 23:59:50",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "userName": "Josean Serrano",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gixz7SVloT3lgqM3tr3XQciA05PjMqWuNmf0jR-",
+        "content": "Falta mas desarrollo pero veo constantes cambios que me dicen que mejorara la app. Puede darnos informaci\u00f3n muy \u00fatil si todos la usamos, y podr\u00eda evitar q gente con riesgo se mezcle en ciertos sitios, supongo q para eso es el QR. Ya lo hicieron en China. Ademas tienes mucha informaci\u00f3n actualizada. Mis 5 estrellas para impulsarla y para que sig\u00e1is trabajando. Animo a los dem\u00e1s a hacer lo mismo. Hemos estado aplaudiendo a los sanitarios y podemos dar apoyar tambi\u00e9n con nuestro voto. Gracias.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.0",
+        "at": "2020-06-10 16:30:41",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "userName": "gonzalo cedrun rabago",
+        "userImage": "https://lh3.googleusercontent.com/-Pr65eynD2hk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck_IAO6f9ZQ8tGK4EE1xYPO_yJo2Q/photo.jpg",
+        "content": "La ultima actuallizacion no se me descarga",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.2",
+        "at": "2020-06-10 11:56:18",
+        "replyContent": "Muchas gracias por su opini\u00f3n.",
+        "repliedAt": "2020-05-27 12:56:46"
+    },
+    {
+        "userName": "Maider Luengo",
+        "userImage": "https://lh3.googleusercontent.com/-iobwFaTY6xA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnOoAxyvv-EEg8Hok5jF75m3YvIDA/photo.jpg",
+        "content": "Instalo y no me coje mi codigo postal, pone todo el rato el de otra localidad y no deja editar los datos para poner el cp correcto.",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.0",
+        "at": "2020-06-08 11:33:07",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "userName": "UNAITXU401 SC",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Ggu6LrkNsEV6qfeEab9fmPASVpOs8iFfCT2zO2yWA",
+        "content": "Esta bien, Le falta mejoras como poder editar tu informaci\u00f3n y que se lea mejor el texto para que sea una aplicaci\u00f3n familiar y confortable.",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.0",
+        "at": "2020-06-08 03:08:14",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "userName": "Luis Maria Herrero",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gi4jto-hvMNXDJobzV_clJUyD0ReCz--FKkYmVkRgQ",
         "content": "M\u00e1s sanidad y menos recortes",
@@ -62,8 +139,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "3.0",
         "at": "2020-06-07 11:23:23",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Muchas gracias por su opini\u00f3n. Un saludo.",
+        "repliedAt": "2020-06-09 10:27:33"
     },
     {
         "userName": "Asier Berasaluce",
@@ -73,8 +150,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "3.0",
         "at": "2020-06-07 11:11:45",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Muchas gracias por su opini\u00f3n. Un saludo.",
+        "repliedAt": "2020-06-09 10:27:00"
     },
     {
         "userName": "Yolanda FG",
@@ -106,8 +183,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "2.4",
         "at": "2020-06-07 10:51:56",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Muchas gracias por su opini\u00f3n. Un saludo",
+        "repliedAt": "2020-06-09 10:24:36"
     },
     {
         "userName": "Alruma",
@@ -128,8 +205,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "3.0",
         "at": "2020-06-07 10:40:23",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Muchas gracias por su opini\u00f3n. Un saludo",
+        "repliedAt": "2020-06-09 10:24:01"
     },
     {
         "userName": "JM PC",
@@ -147,11 +224,11 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiwAJh3OnnK7OdVupNZ9dEz3k1fiYk-HgWIBRW05Q",
         "content": "App en mejora. La verdad es que lo han actualizado constantemente y se agradece. Es funcional y \u00fatil si los de tu alrededor lo utilizan.",
         "score": 3,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 4,
         "reviewCreatedVersion": "3.0",
         "at": "2020-06-07 10:33:23",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Muchas gracias por su opini\u00f3n. Un saludo.",
+        "repliedAt": "2020-06-09 10:17:42"
     },
     {
         "userName": "Mariluz Astigarraga Rodrigo",
@@ -161,8 +238,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "2.4",
         "at": "2020-06-07 10:31:55",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Muchas gracias por su opini\u00f3n. Un saludo.",
+        "repliedAt": "2020-06-09 10:17:26"
     },
     {
         "userName": "Unai Zamalloa Zubiaurre",
@@ -172,8 +249,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "3.0",
         "at": "2020-06-07 10:29:20",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Muchas gracias por su opini\u00f3n. Un saludo.",
+        "repliedAt": "2020-06-09 10:17:17"
     },
     {
         "userName": "owl of the night",
@@ -183,8 +260,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "3.0",
         "at": "2020-06-06 18:38:02",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Muchas gracias por su opini\u00f3n. Un saludo.",
+        "repliedAt": "2020-06-09 10:17:00"
     },
     {
         "userName": "Francisco Saenz de Tejada",
@@ -194,8 +271,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "2.4",
         "at": "2020-06-06 13:06:59",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Muchas gracias por su opini\u00f3n. Un saludo.",
+        "repliedAt": "2020-06-09 10:16:44"
     },
     {
         "userName": "Alfredo Blasco",
@@ -205,8 +282,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "2.4",
         "at": "2020-06-06 12:24:56",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Esta funcionalidad se pilota en muchos lugares del mundo y calibrar c\u00f3mo utilizar la tecnolog\u00eda y evitar falsos positivos. Para que funcione, se necesita que la \u201cautoridad sanitaria\u201d, certifique un positivo y se transmita a los contactos.\nLo dif\u00edcil de esta tecnolog\u00eda es que hay que llegar al 60% de la poblaci\u00f3n y que no existan falsos positivos",
+        "repliedAt": "2020-06-09 10:15:30"
     },
     {
         "userName": "Txinaroa",
@@ -227,8 +304,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2020-06-04 19:24:57",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hola Carles, si tienes alg\u00fan problema con la agenda o la app, escr\u00edbenos por favor a COVID19.APP@osakidetza.eus",
+        "repliedAt": "2020-06-09 10:01:51"
     },
     {
         "userName": "Luisma Fernandez Ventura",
@@ -271,8 +348,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "2.4",
         "at": "2020-06-02 14:51:36",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hola, el n\u00famero de tel\u00e9fono es lo \u00fanico que te identifica a un usuario para hacer c\u00edrculos",
+        "repliedAt": "2020-06-09 10:02:45"
     },
     {
         "userName": "Diego Cea",
@@ -293,8 +370,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "2.4",
         "at": "2020-05-31 01:28:42",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Muchas gracias por su opini\u00f3n.",
+        "repliedAt": "2020-06-09 10:07:18"
     },
     {
         "userName": "Ira Zazpe",
@@ -304,8 +381,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "2.4",
         "at": "2020-05-30 13:10:12",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hola, los contactos reciben una solicitud para que te acepten.Si tienen la app instalada recibir\u00e1n una notificaci\u00f3n dentro de la app y si no la tienen, recibir\u00e1n un SMS.",
+        "repliedAt": "2020-06-09 10:06:01"
     },
     {
         "userName": "Sergio Salvador",
@@ -337,8 +414,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2020-05-28 12:56:42",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hola, las notificaciones de exposici\u00f3n COVID-19, dependen de Google. Para que esa funcionalidad sea operativa, se necesita una app que haga uso de ellas, como dice en M\u00e1s informaci\u00f3n. Esta app no utiliza esta funcionalidad.",
+        "repliedAt": "2020-06-09 10:06:45"
     },
     {
         "userName": "Marijo Pelayo",
@@ -598,7 +675,7 @@
         "userImage": "https://lh3.googleusercontent.com/-xz20IsrCWbk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck4QybdwtfDRy4wWSuqhxPYY0myHQ/photo.jpg",
         "content": "La han mejorado, pero sigue siendo muy dif\u00edcil (por no decir imposible) agregar a contactos que ya tienen la app a tus c\u00edrculos. Por favor, SI NO FUNCIONA BIEN, SI NO ES F\u00c1CIL, NO SE USAR\u00c1. Y entonces esta app no servir\u00e1 de nada, cuando la idea es muy buena. Estimados desarrolladores, por favor, intenten arreglar o facilitar el sistema de agregar contactos a los c\u00edrculos (no \u00fanicamente mandar las invitaciones). Gracias.",
         "score": 3,
-        "thumbsUpCount": 22,
+        "thumbsUpCount": 23,
         "reviewCreatedVersion": "2.4",
         "at": "2020-05-15 12:38:05",
         "replyContent": "Se va a incorporar en breve el acceso a la lista de contactos.Muchas gracias por las sugerencia.",
@@ -922,17 +999,6 @@
         "at": "2020-05-02 20:12:48",
         "replyContent": "Muchas gracias por su opini\u00f3n. Nos agrada saber que se mejora en versiones m\u00e1s recientes.",
         "repliedAt": "2020-05-27 12:56:31"
-    },
-    {
-        "userName": "gonzalo cedrun rabago",
-        "userImage": "https://lh3.googleusercontent.com/-Pr65eynD2hk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck_IAO6f9ZQ8tGK4EE1xYPO_yJo2Q/photo.jpg",
-        "content": "Buena",
-        "score": 2,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "2.2",
-        "at": "2020-05-02 20:02:06",
-        "replyContent": "Muchas gracias por su opini\u00f3n.",
-        "repliedAt": "2020-05-27 12:56:46"
     },
     {
         "userName": "Juan Jos\u00e9 Monge LLorente",
@@ -1870,17 +1936,6 @@
         "repliedAt": "2020-05-28 10:44:14"
     },
     {
-        "userName": "E. M. S. d. O",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gg2L3UfXMTvkupN-LOebJ_wnS-usg5uzVWjotEtop8",
-        "content": "He enviado un correo a la app que me han indicado y me contestan, que esa direcci\u00f3n no existe...!!!",
-        "score": 1,
-        "thumbsUpCount": 3,
-        "reviewCreatedVersion": "1.0",
-        "at": "2020-04-01 19:28:38",
-        "replyContent": "Hola prueba en COVID19.APP@osakidetza.eus",
-        "repliedAt": "2020-06-05 10:15:21"
-    },
-    {
         "userName": "Ander Martin Gila",
         "userImage": "https://lh3.googleusercontent.com/-ufb0fNqW3Iw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmoaDLDo8g_Tz9diPbikTnOzPgNVw/photo.jpg",
         "content": "Me instala pero al intentar abrir dice Covid-19.eus se ha detenido Y no abre no se porque",
@@ -2366,7 +2421,7 @@
     },
     {
         "userName": "Silvia Ugalde",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gi0RTgzqR2f69Wv6SCdEhHpO3hP8xPg81g-9lJwhQ",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gg2ygZY1nIp5c1EYrNEMtADLzZVMwfVzegIExlfng",
         "content": "No sirve para nada, no te deja meter los datos de tus c\u00edrculos y no te ofrece la informaci\u00f3n que anuncia.",
         "score": 1,
         "thumbsUpCount": 1,
@@ -3597,7 +3652,7 @@
         "repliedAt": "2020-03-29 19:00:51"
     },
     {
-        "userName": "Jose Gabriel Guevara",
+        "userName": "Chaos Then",
         "userImage": "https://lh3.googleusercontent.com/-x6lQSPmo6jM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck0uOhvKvP4S_mQOls5Ivz38tCKsA/photo.jpg",
         "content": "No funciona. Otra basura mas del gobierno vasco.",
         "score": 1,

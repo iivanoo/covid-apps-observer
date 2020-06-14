@@ -146,6 +146,8 @@ The Care19 app has been installed by more than **10000** times. At this time, **
 <img src="5_star_reviews_wordcloud.png" alt="com.proudcrowd.care 5 reviews"/>
 </p>
 
+> Nudes help<br> :date: __2020-06-11 01:24:14__
+
 > Awesome<br> :date: __2020-05-17 11:47:26__
 
 > Love this app<br> :date: __2020-05-16 12:11:08__
@@ -164,8 +166,6 @@ The Care19 app has been installed by more than **10000** times. At this time, **
 
 > Thank you for helping us track so easily with anonymity and confidentiality. #NDSmart Governor Burgum and team are doing everything they can to keep us safe and doing it smart. So proud to be from ND!<br> :date: __2020-04-22 03:03:34__
 
-> Great Idea, saving so much time though technology thanks Governor!<br> :date: __2020-04-21 21:52:36__
-
 
 
 #### 4-star reviews
@@ -173,6 +173,8 @@ The Care19 app has been installed by more than **10000** times. At this time, **
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.proudcrowd.care 4 reviews"/>
 </p>
+
+> Keep up the good work!😀<br> :date: __2020-06-12 13:54:37__
 
 > The early release back in April was rough (didn't log any stops for me). But it's been working well for me since about May 4. It occasionally logs more than one stop at the same location. It occasionally gets the name of the location wrong, but this is very easy to correct.<br> :date: __2020-05-19 06:25:30__
 
@@ -234,6 +236,14 @@ The Care19 app has been installed by more than **10000** times. At this time, **
 <img src="1_star_reviews_wordcloud.png" alt="com.proudcrowd.care 1 reviews"/>
 </p>
 
+> Has strange locations and does not keep up with where I have been. How can this be helpful?<br> :date: __2020-06-13 04:20:59__
+
+> Only collected for one day and then nothing before or since. Does not work at all.<br> :date: __2020-06-11 03:59:09__
+
+> How does this thing work again? By only recording where I go once a week and having the location always say "Unknown"? If that's how it's supposed to work, bravo....5 stars.<br> :date: __2020-06-10 19:20:39__
+
+> Not very helpful, only gets a few places.<br> :date: __2020-06-09 22:01:23__
+
 > This has not updated my location since 5/12. It is now the 14th. It's missing about 50% of where I've been. You should have the ability to enter information manually or name places if it's not recording your location. If everyone has this poor of a tracking record, it's pretty usless. Update June 5th. Checked the app today. It has no record of anywhere I have been at all now. Not even the May data I entered.<br> :date: __2020-06-06 04:29:38__
 
 > Has NEVER tracker my location, it says I have been anywhere, I've been to many many place since installed. Checked and double checked my permissions, and location settings, they are fine.<br> :date: __2020-06-05 17:19:07__
@@ -245,13 +255,5 @@ The Care19 app has been installed by more than **10000** times. At this time, **
 > Bad app<br> :date: __2020-05-30 19:14:48__
 
 > Have had this app installed for a month. Has not logged ANY locations. All I get is a message that Congratulations, your device is setup properly.<br> :date: __2020-05-29 23:21:10__
-
-> This is terrible because I had troubles with the app because they put the wrong city of Sisseton South Dakota instead of Rosholt South Dakota.<br> :date: __2020-05-27 17:34:46__
-
-> Not impressed so far major gaps in my travel visits someone days.<br> :date: __2020-05-26 15:38:10__
-
-> Violating the privacy policy!!! Look it up North Dakota is giving your data to Four Square dont believe me, google it<br> :date: __2020-05-26 08:21:59__
-
-> This app is terrible at tracking. It doesn't record even close accurately and doesn't log anything for days at a time.<br> :date: __2020-05-24 04:03:54__
 
 

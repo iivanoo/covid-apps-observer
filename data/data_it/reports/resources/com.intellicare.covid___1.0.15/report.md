@@ -252,6 +252,10 @@ The LAZIOdrCovid app has been installed by more than **50000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="com.intellicare.covid 1 reviews"/>
 </p>
 
+> Qualcuno ha detto ai mmg che esiste questa applicazione e la relativa chat? Applicazione totalmente inutile.<br> :date: __2020-06-11 08:39:29__
+
+> Istallata ma ho dovuto disinstallare perché mi ha infettato il telefono con il covid20<br> :date: __2020-06-08 01:38:27__
+
 > L'app non si riesce a scaricare il mio medico non risponde al telefono il numero verde della regione e' una voce registrata. Se in un momento di lucida e onesta autovalutazione decideste di cambiare mestiere provate a cercarlo in un ambito dove si fanno pochi danni. Tipo ippica ad esempio<br> :date: __2020-06-04 17:33:23__
 
 > Appena installata mi chiede di effettuare l'aggiornamento peccato che su play store non c'è alcun aggiornamento... In tal modo non la posso aprire. Disinstallata.<br> :date: __2020-05-09 14:34:20__
@@ -260,8 +264,6 @@ The LAZIOdrCovid app has been installed by more than **50000** times. At this ti
 
 > Mi arriva un messaggio che dice che sono registrata con altro numero, ma io ho sempre e soltanto avuto un unico numero di telefono che il sistema non, riconosce come il mio.<br> :date: __2020-05-06 14:25:24__
 
-> Il mio medico non è in chat e non risponde.<br> :date: __2020-05-06 08:14:45__
-
 > Perché per aprire la app devo dare il consenso all'accesso ai file multimediali, foto e altro del mio dispositivo? Credo che tale consenso debba essere richiesto solo se necessario e in prossimità di tali azione da parte dell'utente (immagino che la app dia la possibilità di caricare foto e audio e altro in caso). Disinstallata.<br> :date: __2020-05-06 07:43:03__
 
 > Da 1 mese e mezzo cerco di installarla e non c'è verso che funzioni. Mi fa inserire i miei dati,mi avverte di aver inviato un SMS al mio numero e di cliccare sul link. SMS mai arrivato. Inoltre sull'app accessibile da PC, riservata ai medici manca la colonna dei tamponi.<br> :date: __2020-04-30 15:14:08__
@@ -269,7 +271,5 @@ The LAZIOdrCovid app has been installed by more than **50000** times. At this ti
 > Fate prima a morire perchè ogni volta che provate ad aprirla dovete reinserire tutti i dati compreso il codice fiscale e non credo che con la febbre a 40 ho tempo ne voglia ne lucidità per farlo. Ma del resto nel Lazio non abbiamo neanche le mascherine (regolarmente pagate con i soldi pubblici) quindi una App che non serve a niente è il male minore. La elimino.<br> :date: __2020-04-30 06:09:44__
 
 > Fa poco, e quel poco lo fa male. Ho dovuto registrarmi varie volte, tanto per dirne una. Poi visto che non serve a nulla ho rinunciato.<br> :date: __2020-04-26 17:35:23__
-
-> Manda in crash il telefono<br> :date: __2020-04-24 20:49:09__
 
 

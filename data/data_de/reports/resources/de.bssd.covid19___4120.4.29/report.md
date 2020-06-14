@@ -159,6 +159,8 @@ The COVID-19 app has been installed by more than **50000** times. At this time, 
 <img src="4_star_reviews_wordcloud.png" alt="de.bssd.covid19 4 reviews"/>
 </p>
 
+> App ist okay! Mein Ergebniss war am zweiten Tag da. Einzige Beanstandung ist dass man den QR jedesmal neu scannen muss<br> :date: __2020-06-09 09:53:38__
+
 > WENN die Datenübertragung der Labore funktioniert, funktioniert die App. Es ist hochbedenklich, dass die App nach 4 Tagen Quarantäne kein Ergebnis zeigt, auch jetzt nach 6 Tagen nicht. Kein Anruf vom Gesundheitsamt, wo das Ergebnis wahrscheinlich schon nach 2 Tagen vorlag. Anruf auf Gesundheitsamthotline (obwohl ja unerwünscht!): Test ist negativ und lag schon als Duplikat da vor .... könnte so schnell und easy sein. In Zeiten autonomen Fahrens und KI verwunderlich.<br> :date: __2020-05-28 12:36:02__
 
 > Gute App aber zeigt nicht an ob ich an corona erkrankt bin?<br> :date: __2020-04-28 13:09:45__
@@ -180,6 +182,8 @@ The COVID-19 app has been installed by more than **50000** times. At this time, 
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="de.bssd.covid19 3 reviews"/>
 </p>
+
+> Höre von dieser App erst, als ich Mal gegoogelt habe, wie lange ich auf ein Ergebniss noch warten soll. Leider haben wir von der Elmshorner Klinik, wo wir den Test gemacht haben, keine QR-Codes bekommen. Arbeiten nicht alle Kliniken oder Teststationen mit der App? Wir warten auch seit 5 Tagen auf ein Ergebniss.<br> :date: __2020-06-11 18:47:53__
 
 > Hallo, beim eingeben der id Nummer oder abscannen des Codes steht dran dass es ein Fehler gibt und das passwort oder benutzernamen falsch ist kann mir bitte einer weiterhelfen? Vielen Dank im voraus<br> :date: __2020-05-09 19:58:09__
 
@@ -225,24 +229,24 @@ The COVID-19 app has been installed by more than **50000** times. At this time, 
 <img src="1_star_reviews_wordcloud.png" alt="de.bssd.covid19 1 reviews"/>
 </p>
 
+> App schützt nicht vor Ansteckung mit dem Husten<br> :date: __2020-06-14 18:14:18__
+
+> Ich bin nicht Zufrieden mit Covid-19 App!👎🏼👎🏼😡😡😤😤😷😷🤒🤒🤕🤕🤢🤢<br> :date: __2020-06-14 13:28:33__
+
+> so nötig wie ein Kropf<br> :date: __2020-06-14 12:30:26__
+
+> Tja, was soll man sagen?! Wieso gibt es die Option dieser App, wenn man dann doch das Ergebnis per Post viel früher bekommt? Man kann die Menschheit auch zusätzlich bekloppter machen als sie eh schon ist. Wartet also einfach auf euren Brief. Das spart Zeit, Akku und vorallem nerven.<br> :date: __2020-06-12 22:22:53__
+
+> Jedes Mal muss der QR Code erneut gescannt werden. Es wird nichts gespeichert und somit erscheint auch keine Push Nachricht. Katastrophal<br> :date: __2020-06-10 09:36:48__
+
+> Mein Arzt hat das Ergebnis seit Stunden und obwohl ich es durch die App zeitgleich erhalten sollte, zeigt diese immer noch an, dass noch kein Ergebnis vorliegt.<br> :date: __2020-06-09 11:01:46__
+
+> Da hat wohl einer keine Ahnung von wie man Apps erszellt...die Anmeldung geht Mal geht Mal garnicht<br> :date: __2020-06-08 12:52:11__
+
+> Diese App ist lächerlich und beängstigend wie man mit der jetzigen Situation umgeht. Seit 5 Tagen warte ich auf das Ergebnis. Leider immer wieder die Meldung "ihr Ergebnis liegt noch nicht vor". Wenn die App fehlerhaft ist, was nach den Bewertungen hier ersichtlich ist, sollte man den Leuten eine Telefonnummer mitgeben, wo das Ergebnis telefonisch erfragt werden kann. Das Gesundheitsamt weißt von dieser App nichts. Was ist hier los?<br> :date: __2020-06-08 09:03:18__
+
 > ...mein Test und auch der Test von 20 weiteren meiner Bekannten, mit denen ich zusammen gefeierte hatte, war positiv....trotzdem hat keiner eine Benachrichtigung über diese App erhalten...sie taugt wohl eher nichts...<br> :date: __2020-06-07 17:40:13__
 
 > Schade..die Idee ist sehr gut, aber wenn man auf das Ergebnis wartet eine Ewigkeit und Morgen bekomm ich über den Arzt Bescheid..dann hat sich das hiermit auch erledigt.. Sucht den Fehler!!! Es scheint an der Kommunikation zu scheitern 😪<br> :date: __2020-06-07 07:54:15__
-
-> Habe keine ID Nummer<br> :date: __2020-06-06 14:47:16__
-
-> Super!! Die App hat ein 3 Jähriger mit Sratch erstellt tolle Leistung von dem "Coder" und der "Agentur" Ausschreibung war wohl ein Kaugummi genau so wie die Anforderungen^^<br> :date: __2020-06-06 11:37:22__
-
-> Das Ergebnis sollte an dem Abend da sein... seit 5 Tagen ist da nichts zu sehen. Wir haben von unserem Hausarzt erfahren dass das Ergebnis schon da ist. Die App ist einfach nur schrott...<br> :date: __2020-06-06 07:42:35__
-
-> Ein Graus. In allen Hinsichten eine schlechte Anwendung, ich hoffe die Entwicklung hat nicht mehr als 20 Euro gekostet. Aller Hindernisse zum Trotz kann ich den Status einsehen. Angeblich noch ohne Ergebnis. Mein Hausarzt hat mich schon angerufen, also ist auch das falsch.<br> :date: __2020-06-04 11:23:29__
-
-> Ich habe beim Test nur einen 9-stelligen Code bekommen. (xxx.xxx.xxx) Damit kann die App offensichtlich nichts anfangen. Ein Beispiel für eine korrekten Code fehlt. Somit kann mir die App nicht weiter helfen. Schade. Wieder deinstalliert.<br> :date: __2020-06-03 08:58:57__
-
-> Wie soll die App Wissen in wir Corona haben... . Außerdem ist Corona FAKE. Ich habe meiner Familie meine Verschwörungstheorien erzählt die wahr wurden. Hört auf der Regierung eure Daten Preis zu geben, die Regierung belügt uns. Ich glaube an den Corona Mist nicht und halte mich auch nicht an die Maßnahmen. Geht lieber euern Volk retten. Die sche*ße die ihr wählt... Lasse ich euch gern schmecken.<br> :date: __2020-06-03 02:34:15__
-
-> Ich warte vergebens auf mein Ergebnis und gerade sowas macht einen fertig man würde schon dann auch gerne wissen was nun Phase ist. Auch andere Personen zum Beispiel meine Kollegen oder meine Chefin würden gerne wissen wie es weitergeht. Also ich bin sehr enttäuscht von dieser App die wurde nur gemacht damit die Leute nicht stetig anrufen und nachfragen. Kann sich aber jemand von denen in die Situation versetzen wenn man nicht weiß was los ist. Hauptsache mit so einer App Geld verdienen .<br> :date: __2020-05-30 22:55:57__
-
-> Die Idee der App ist ja nicht schlecht. Ich sitze seit 5 Tagen Zuhause in Quarantäne, warte auf die angekündigte Push-Benachrichtigung der App, scanne den Code, gebe die ID Nr ein - mein Ergebnis liegt (angeblich) noch nicht vor. Mittlerweile habe ich das Ergebnis schriftlich vorliegen direkt aus dem Labor - ausgewertet nach weniger als 2 Tagen nach dem Abstrich. Die App zeigt noch immer kein Ergebnis an! Also für mich ein Schuss in den Ofen!<br> :date: __2020-05-29 17:10:18__
 
 

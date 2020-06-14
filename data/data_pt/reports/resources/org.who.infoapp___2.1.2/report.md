@@ -137,10 +137,12 @@ The WHO Info app has been installed by more than **100000** times. At this time,
 #### 4-star reviews
 
 <p align="center">
-
+<img src="4_star_reviews_wordcloud.png" alt="org.who.infoapp 4 reviews"/>
 </p>
 
-No recent reviews available with 4 stars.
+> Nao consigo olhar a do Paraná e não consigo traduzir para o Português<br> :date: __2020-06-14 14:18:24__
+
+
 
 #### 3-star reviews
 

@@ -1,0 +1,36 @@
+{
+    "permissions": [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.FOREGROUND_SERVICE",
+        "android.permission.BLUETOOTH",
+        "android.permission.INTERNET",
+        "android.permission.WAKE_LOCK"
+    ],
+    "activities": [
+        "it.ministerodellasalute.immuni.ui.setup.SetupActivity",
+        "it.ministerodellasalute.immuni.ui.onboarding.OnboardingActivity",
+        "it.ministerodellasalute.immuni.ui.main.MainActivity",
+        "it.ministerodellasalute.immuni.ui.welcome.WelcomeActivity",
+        "it.ministerodellasalute.immuni.ui.forceupdate.ForceUpdateActivity",
+        "it.ministerodellasalute.immuni.ui.faq.FaqActivity",
+        "it.ministerodellasalute.immuni.ui.upload.UploadDataActivity",
+        "it.ministerodellasalute.immuni.nearby.NearbyTestActivity",
+        "it.ministerodellasalute.immuni.debugmenu.ui.ExitActivity",
+        "it.ministerodellasalute.immuni.debugmenu.ui.DebugMenuActivity",
+        "com.google.android.gms.common.api.GoogleApiActivity"
+    ],
+    "urls": [
+        "http://schemas.android.com/apk/res/android",
+        "https://plus.google.com/",
+        "http://play.google.com/store/apps/details?id=",
+        "https://play.google.com/store/apps/details?id=",
+        "http://schemas.android.com/apk/res-auto",
+        "https://www.googleapis.com/auth/games_lite",
+        "https://www.googleapis.com/auth/games",
+        "https://get.immuni.gov.it/docs/faq-",
+        "https://get.immuni.gov.it/docs/app-tou-",
+        "https://get.immuni.gov.it/docs/app-pn-",
+        "http://localhost/"
+    ]
+}

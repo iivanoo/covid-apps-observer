@@ -131,6 +131,10 @@ The COVID-19 Symptom Tracker app has been installed by more than **10000** times
 <img src="5_star_reviews_wordcloud.png" alt="com.designit.covid_19 5 reviews"/>
 </p>
 
+> ich finde Corona warn app sehr gut.<br> :date: __2020-06-13 09:24:26__
+
+> Sehr gute app<br> :date: __2020-06-12 10:18:43__
+
 > So eben installiert und nehme dran teil :)<br> :date: __2020-05-24 16:07:03__
 
 > Top-Bin Begeistert :-) weiter so.update,seit ca 1 Woche klingelt das Handy bis zu 20 x und mehr durchgehend, wenn die Tägliche Nachricht kommt,warum auch immer.<br> :date: __2020-05-09 09:36:43__
@@ -146,10 +150,6 @@ The COVID-19 Symptom Tracker app has been installed by more than **10000** times
 > App hat sich komplett auf Anfang zurückgesetzt.. alles umsonst!<br> :date: __2020-04-30 14:01:26__
 
 > Die Fragebögen sind schnell und einfach zu beantworten. MACHT EINEN SCREENSHOT DES BENUTZERNAMENS, denn neim Update am 29.4.2020 gingen die gespeicherten Informationen verloren und ohne den alten Benutzernamen können meine Antworten von vor und nach dem Update nicht verbunden werden.<br> :date: __2020-04-30 10:21:12__
-
-> Endlich eine gute Corona App<br> :date: __2020-04-29 10:35:30__
-
-> ひうししみくめすゆゆくもく。。くめくひし<br> :date: __2020-04-28 17:38:44__
 
 
 
@@ -217,6 +217,10 @@ The COVID-19 Symptom Tracker app has been installed by more than **10000** times
 <img src="1_star_reviews_wordcloud.png" alt="com.designit.covid_19 1 reviews"/>
 </p>
 
+> Nach ein paar Wochen, hat die App ein anderes Profil angezeigt. Keine Korrektur bei Fehleingaben möglich. Im Moment würde ich die App nicht wieder installieren.<br> :date: __2020-06-12 16:51:57__
+
+> Ausgrenzung der Personen wie es geworben ist per Bluetooth funktioniert gar & überhaupt nicht. Deinstalliert.<br> :date: __2020-06-09 05:19:18__
+
 > ...so ein Schmarrn...selten so gelacht...<br> :date: __2020-06-07 17:32:05__
 
 > Wenn du Covid-19 installieren willst kommt Polizei also sei vorsichtig ;) dann kommt Ambulante aus deine Adresse usw... gebe 1 Stern !!!<br> :date: __2020-05-31 10:32:12__
@@ -232,9 +236,5 @@ The COVID-19 Symptom Tracker app has been installed by more than **10000** times
 > Lösche ich.<br> :date: __2020-05-10 06:50:38__
 
 > Tja... Ich weiß nicht, was soll diese App bringen? Sie steckt voller bugs und der Support antwortet nur, wenn er gerade will!<br> :date: __2020-05-06 11:52:33__
-
-> Nimmt den QR-Code nicht!<br> :date: __2020-05-03 10:31:29__
-
-> Heute hat die App einfach angefangen, mich mit notifications zuzuspammen. 30 notifications in einer Minute. Konnte gar nichts mehr machen.<br> :date: __2020-05-03 09:03:58__
 
 

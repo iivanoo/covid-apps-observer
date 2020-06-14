@@ -126,6 +126,12 @@ The Corona Check Screening app has been installed by more than **5000** times. A
 <img src="5_star_reviews_wordcloud.png" alt="com.coronacheck.haugxhaug.testyourcorona 5 reviews"/>
 </p>
 
+> IRINA LIEBSCHER/29.05.1975<br> :date: __2020-06-14 21:00:05__
+
+> Fragt mit der Zeit höflich zweimal nach, ob der Standort abgefragt werden darf und nach zweimal Fragen ist dann auch gut. Keine weiteren Daten werden abgefragt. Alles i.O.<br> :date: __2020-06-14 20:55:18__
+
+> Tolles Design. Einfache Bedienung. Voll und ganz zufrieden 👍<br> :date: __2020-06-08 16:05:56__
+
 > Nützlich<br> :date: __2020-06-05 09:35:48__
 
 > 👍👍👍👍👍👍<br> :date: __2020-05-30 22:18:53__
@@ -140,21 +146,17 @@ The Corona Check Screening app has been installed by more than **5000** times. A
 
 > super app tolles design durchdachte funktionen empfehle ich gerne weiter!<br> :date: __2020-04-27 14:12:51__
 
-> Super! Eine einfach bedienbare, durchdachte Screening-App, die gerade in Zeiten von Informationsflut genau auf Deutschland zugeschnittene Empfehlungen zum Coronavirus gibt, zu möglichen Symptomen und Vorgehensweisen, aber auch zu Kontaktadressen und allgemeinen Tipps. Sehr empfehlenswert!<br> :date: __2020-04-27 12:20:47__
-
-> Super App, zahlreiche Informationen und leicht zu bedienen. 👍<br> :date: __2020-04-27 09:53:42__
-
-> Klasse App, hilft in allen Bereichen zum gewünschten Thema 👌👍<br> :date: __2020-04-27 09:50:12__
-
 
 
 #### 4-star reviews
 
 <p align="center">
-
+<img src="4_star_reviews_wordcloud.png" alt="com.coronacheck.haugxhaug.testyourcorona 4 reviews"/>
 </p>
 
-No recent reviews available with 4 stars.
+> Erst mal die App auf mein Handy geladen muss noch testen<br> :date: __2020-06-09 08:47:01__
+
+
 
 #### 3-star reviews
 
@@ -163,8 +165,6 @@ No recent reviews available with 4 stars.
 </p>
 
 > App konnte erst nicht starten, war Angeblich nicht mit dem Internet verbunden. Sehr schnelle Reaktion vom Support, nun funktioniert die App. Sternewertung schonmal gestiegen. 👍🏻👍🏻<br> :date: __2020-06-02 21:27:19__
-
-> Was soll denn das bewirken?<br> :date: __2020-05-30 22:49:35__
 
 
 
@@ -182,6 +182,16 @@ No recent reviews available with 2 stars.
 <img src="1_star_reviews_wordcloud.png" alt="com.coronacheck.haugxhaug.testyourcorona 1 reviews"/>
 </p>
 
+> Bluetooth und Standort ist nichts für mich ich habe eine andere Corona App und die deinstalliert habe den covid-19 Symptom Tracker auch eine deutsche app und die ist ganz gut<br> :date: __2020-06-14 20:52:59__
+
+> Schutz vor der Haustür<br> :date: __2020-06-14 18:16:37__
+
+> Eine App, die ausdrücklich nicht zur Erfassung von Bewegungsprofilen gedacht ist, aber gleich als Erstes auf den Standort zugreifen will! Ein Corona Symptom Check, bei dem u.a. Alter und Dauer der Schulbildung abgefragt wird! Echt jetzt?! Einziger Sinn und Zweck der App ist scheinbar Daten anzugreifen. Ansonsten allgemeine Infos, die man auch ohne Installation einer App erhalten kann. Bleibt zu hoffen, dass für diese überflüssige App nicht auch noch unsere Steuergelder verbrannt wurden!<br> :date: __2020-06-13 08:43:39__
+
+> Was für ein Schwachsinn. Hier können sich die ganzen Coronapaniker auslassen. Unfassbar. Und wieder gelöscht....<br> :date: __2020-06-12 22:38:02__
+
+> Toll, jetzt hab ich Corona! 😧<br> :date: __2020-06-12 13:24:46__
+
 > selten so gelacht...was soll dieses sinnlose Machwerk?...ich hab denen mit sinnlosen Angaben die Taschen voll gehauen und diese komische App deinstalliert...<br> :date: __2020-06-07 17:29:43__
 
 > Was soll der Mist bringen? 🤔 Direkt wieder gelöscht so ein gwaff<br> :date: __2020-06-06 19:18:12__
@@ -191,15 +201,5 @@ No recent reviews available with 2 stars.
 > Nur für Bayern. 1 Land, 16 Länder.<br> :date: __2020-06-06 13:07:31__
 
 > Sowas braucht doch keiner. Ausprobiert und für Unsinn gehalten.😴<br> :date: __2020-06-04 15:10:37__
-
-> öffnet sich nicht. Verlangt eine Internetverbindung obwohl Internet an ist.<br> :date: __2020-06-02 20:13:34__
-
-> Tja bei mir zeigt sie an ich hätte keine Internet Verbindung .jedesmal.<br> :date: __2020-06-02 19:24:23__
-
-> Nur für Bayern. Schade<br> :date: __2020-05-30 09:40:52__
-
-> Ich finde es schade bis irreführend, dass nicht ausdrücklich VOR der Installation darauf hingewiesen wird, dass lediglich die Daten und Informationen für Bayern bereitgestellt werden. Habe sie direkt wieder deinstalliert.<br> :date: __2020-05-29 13:07:36__
-
-> Was für ein Schwachsinn...gibt es jetzt auch ne Grippe App....Na für die Corona Idioten Optimal 👍<br> :date: __2020-05-28 18:58:16__
 
 

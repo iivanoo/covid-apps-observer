@@ -163,6 +163,8 @@ The Coronika - Dein Corona Tagebuch app has been installed by more than **10000*
 <img src="5_star_reviews_wordcloud.png" alt="de.kreativzirkel.coronika 5 reviews"/>
 </p>
 
+> Die App ist als erster Schritt ok.<br> :date: __2020-06-11 18:20:13__
+
 > Ich hab keine Kontakte und bin nur wenn nötig draußen :) Die App an sich ist ganz süß. Leider ein so furtbares Thema aber<br> :date: __2020-05-18 08:48:17__
 
 > Sinnvolle Idee mit der man Symptome und noch wichtiger die Eintragungen zu getroffennen Personen um die Infektionskette nachzuvollziehen damit die zuständige Behörde mit diesen Daten etwas erreichen!!! DIE HOFFNUNG STIRBT ZULETZT UND WIR ALLE SIND SO VIEL STÄRKER ALS DIESES KLEINE BIEST DAS UNSERE WELT AUF DEN KOPF STELLT Das wird es lehren das wir keine Opfer-Beute sind sondern ein VOLK KEINE RASSEN NUR EINE MENSCHHEIT 😁👆<br> :date: __2020-04-15 14:13:38__
@@ -180,8 +182,6 @@ The Coronika - Dein Corona Tagebuch app has been installed by more than **10000*
 > Ich habe diese app bei mir schon installiert. Eine super sinnvolle sache. Auf jedemfall empfehlenswert. Grade in solch einer Situation.<br> :date: __2020-04-01 18:43:47__
 
 > Sehr gut mit viel Potential. Sehr gute und selbst erklärende App mit viel Potential zur Aufzeichnung von Kontakten während Corona. Die Entwickler geben sofort Rückmeldung bei Feedback. Bei Aufzeichnung der Orte und der Kontakte wird einem erst mal richtig klar mit wie vielen Personen man täglich zusammentrifft. Danke für diese App und die Arbeit die hier drin steckt.<br> :date: __2020-04-01 18:25:09__
-
-> Gute Idee gegen das virus<br> :date: __2020-03-31 16:34:04__
 
 
 
@@ -219,6 +219,10 @@ The Coronika - Dein Corona Tagebuch app has been installed by more than **10000*
 <img src="3_star_reviews_wordcloud.png" alt="de.kreativzirkel.coronika 3 reviews"/>
 </p>
 
+> Gute Idee, aber mühsam zu befüllen ... Warum kann man Personen und Orte nicht einem Datensatz zuordnen. Dann hätte man alles beisammen, wenn es ernst wird... Name, Ort, ggf Notizen (wenn zB von einem Kontakt die ganze Familie da war...). So ist das ganze auch viel zu umständlich auszuwerten...<br> :date: __2020-06-14 17:36:36__
+
+> Nicht schlecht. Wäre gut, wenn man Orte und Personen verknüpfen könnte und bei Personen noch Notizen machen könnte.<br> :date: __2020-06-08 08:40:57__
+
 > Das Export Protokoll ist verbesserungsbedürftig: bei den "Personen" wird überhaupt kein Tag/Datum genannt, und die Orte sind auch nicht chronologisch nach Datum sortiert<br> :date: __2020-05-25 18:11:51__
 
 > 50/50<br> :date: __2020-04-20 22:24:07__
@@ -234,8 +238,6 @@ The Coronika - Dein Corona Tagebuch app has been installed by more than **10000*
 > Nette Idee, aber zu umständlich. Wieso kann ich nicht per GPS Orte in meiner Gegend auswählen, wie es bei Google Maps und einigen anderen Apps funktioniert? Was nutzt es mir, wenn ich einen Ort manuell benennen muss und nicht einmal gespeichert wird, wo sich dieser befindet? Optimal wäre ein durchgehendes Tracking. Man könnte dann an bestimmten Stellen anklicken, dass man dort "in Kontakt" war, von wann bis wann und wem man dort begegnet ist. Noch fortschrittlicher - und durchaus machbar - wäre es, wenn die App erkennt, ob man im Auto oder zu Fuß unterwegs ist und bei Fußwegen die Strecke als "potenzieller Kontaktbereich" gespeichert wird. Kontakte sollte man nachträglich ergänzen können und das Ganze sollte anklickbar auf einer Karte dargestellt werden. So würde auch das Problem mit Paketzustellern gelöst.<br> :date: __2020-04-02 14:42:31__
 
 > Ganz gut soweit. Es wäre aber gut, wenn man im Nachhinein die Einträge bearbeiten könnte. Hab mich beispielsweise bei der Uhrzeit vertan und kann es nicht mehr ändern.<br> :date: __2020-04-01 07:32:47__
-
-> Wenn ich noch meine tägliche Körpertemperatur früh/abends eintragen könnte, wäre es für die Kontrolle noch besser.<br> :date: __2020-03-31 08:10:58__
 
 
 
@@ -273,6 +275,8 @@ The Coronika - Dein Corona Tagebuch app has been installed by more than **10000*
 <img src="1_star_reviews_wordcloud.png" alt="de.kreativzirkel.coronika 1 reviews"/>
 </p>
 
+> Das geht niemand etwas an<br> :date: __2020-06-14 18:16:04__
+
 > brauch kein Mensch...alles wegen ein bischen Grippe...lächerlich!<br> :date: __2020-06-07 17:21:46__
 
 > Taugt nix<br> :date: __2020-06-01 16:30:44__
@@ -290,7 +294,5 @@ The Coronika - Dein Corona Tagebuch app has been installed by more than **10000*
 > Einfach nur ??????<br> :date: __2020-04-17 18:44:28__
 
 > Was fehlt ist der Kontakt mit fremden Personen in der Öffentlichkeit z.b bus Bahn einkaufen<br> :date: __2020-04-16 22:49:07__
-
-> Schlechteste App die ich jemals installiert habe... unübersichtlich und sehr instabil. Sofort wieder gelöscht<br> :date: __2020-04-15 16:27:28__
 
 

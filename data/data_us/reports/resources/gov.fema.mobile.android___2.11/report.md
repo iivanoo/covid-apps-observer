@@ -168,6 +168,12 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 <img src="5_star_reviews_wordcloud.png" alt="gov.fema.mobile.android 5 reviews"/>
 </p>
 
+> Have never had a problem with FEMA /ALL their programs for me have been spot on and the assistance needed has been prompt THANK YOU GOVERNMENT PROGRAMS!!!!!<br> :date: __2020-06-11 13:16:40__
+
+> Great<br> :date: __2020-06-11 11:42:51__
+
+> U.S. Navy seaL WO4, Powerplant Operator Hydro and others. Engineer, mech, elec. GS19 and UN Secreteriat since 2018. Looking to incorporate with DARPA for integration with aumented reality and AI. Towards innovative drone with a encoding and applied through New systems to creative by custom Sailors as for myself Black Squadron last to current assighnments Ive been as Switchman qualified operator, and was a rated HT with all NEC classifications as well. So perhaps im all ready essential retirement<br> :date: __2020-06-08 05:44:00__
+
 > Nicr<br> :date: __2020-06-07 06:06:39__
 
 > All NASA PERSONS TAKE THE INITIATIVE AS A FEELING THAT IS WELL.<br> :date: __2020-06-07 02:15:13__
@@ -182,12 +188,6 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 
 > A most un-intrusive app no garbage like most apps BUT WARNINGS KEEP MY FAMILY SAFE. PROBABLY AMONG MY TOP TEN APPS<br> :date: __2020-05-29 21:02:24__
 
-> Great app<br> :date: __2020-05-29 07:48:43__
-
-> Love it!<br> :date: __2020-05-26 04:09:18__
-
-> How do I turn on the sound?<br> :date: __2020-05-25 00:06:13__
-
 
 
 #### 4-star reviews
@@ -195,6 +195,8 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="gov.fema.mobile.android 4 reviews"/>
 </p>
+
+> Great at giving alerts for different areas. Live posting during storms is excellent. Just be careful you don't list to many places to avoid constant updates.<br> :date: __2020-06-12 03:22:06__
 
 > Only worth downloading if you're in a disaster situation. Otherwise it's not very useful.<br> :date: __2020-05-23 06:10:43__
 
@@ -214,8 +216,6 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 
 > pretty good app...it lets you pick locations you want to monitor and it lets you customize the weather settings so youre not pestered to death about things you dont need to know about...i need to figure out if l can fine tune it however...l'm still getting silly things in the middle of the night like it will be "windy" today or "foggy"...thats all well and good...just not at 0300.<br> :date: __2020-04-26 17:06:27__
 
-> Searching for a cure before the worsening<br> :date: __2020-04-14 20:29:37__
-
 
 
 #### 3-star reviews
@@ -223,6 +223,8 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="gov.fema.mobile.android 3 reviews"/>
 </p>
+
+> The back button does not exit the app.<br> :date: __2020-06-09 16:17:55__
 
 > Should be updated & expanded upon more but for what it is, I like it and will be keeping it.<br> :date: __2020-05-08 07:51:52__
 
@@ -241,8 +243,6 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 > disappointed would be helpful if you listed citizen corps. And ways to expand and improve readiness. Most e.m.a. offices have no knowledge of getting volunteers for natural disasters in Illinois, and I have a feeling they don't care<br> :date: __2019-09-02 21:56:27__
 
 > I would give it a zero, but that's not an option. I just found out about this app, and being in the path of hurricane Dorian, thought it would be a good app to have. However, it doesn't search/recognize my location when i try to enter it for alerts, making it pretty useless to me. Edited to add: after the 5th install, i was finally able to add a location, so i bumped up the stars.<br> :date: __2019-09-01 03:46:38__
-
-> This app needs to be updated immediately. I live in Miami but when I click on 'shelter' the only option is 'Kansas' and there is no way to change it.<br> :date: __2019-08-31 14:16:33__
 
 
 
@@ -280,6 +280,10 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 <img src="1_star_reviews_wordcloud.png" alt="gov.fema.mobile.android 1 reviews"/>
 </p>
 
+> Digital contact tracing not mentioned in app<br> :date: __2020-06-13 19:42:11__
+
+> Nagging with unwanted notifications<br> :date: __2020-06-11 05:56:34__
+
 > "Watch out for torrential downpours leading to localized flooding" 2 drops falls from sky... err overreacted much FEMA?<br> :date: __2020-06-06 13:21:01__
 
 > I am not getting tornado alerts like my sister 1 mile away gets on TV and NOAA radio. I have the warnings checked, but I am not getting them.<br> :date: __2020-06-05 17:43:06__
@@ -295,9 +299,5 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 > It doesn't include covid-19<br> :date: __2020-05-26 16:01:04__
 
 > stinks not informable<br> :date: __2020-04-16 18:51:22__
-
-> App does not work. Will not accept any locations.<br> :date: __2020-04-14 02:01:12__
-
-> Not helpful at all with covid-19<br> :date: __2020-04-03 16:57:24__
 
 

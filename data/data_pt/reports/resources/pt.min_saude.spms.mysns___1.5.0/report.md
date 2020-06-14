@@ -284,6 +284,8 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <img src="1_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 1 reviews"/>
 </p>
 
+> A única coisa que parece trabalhar é o envio de relatórios de erro... App não funcional.<br> :date: __2020-06-14 20:12:51__
+
 > Nao abre<br> :date: __2020-06-03 21:34:16__
 
 > Sem atualizar desde 2018! Estamos on dizem os atrasados!<br> :date: __2020-05-23 00:01:59__
@@ -301,7 +303,5 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 > Depois de instalado e ao abrir diz que não é compatível com esta versão do Android, diz que este programa está para uma versão anterior.<br> :date: __2020-05-07 02:35:46__
 
 > Não é compatível com o meu android 4.2 pensão que so por o telemóvel ter 4 anos tenho de comprar outro novo so para ir buscar as receitas<br> :date: __2020-05-05 21:53:30__
-
-> Não dá para instalar. Erro atrás de erro.<br> :date: __2020-05-05 04:41:29__
 
 

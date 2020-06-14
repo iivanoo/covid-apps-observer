@@ -184,6 +184,8 @@ The COVID-19 NI app has been installed by more than **50000** times. At this tim
 <img src="4_star_reviews_wordcloud.png" alt="net.hscni.covid19ni 4 reviews"/>
 </p>
 
+> Manchester not,,,,,<br> :date: __2020-06-11 21:25:59__
+
 > Quite good app as has a symptoms checker and some info, advice and statistics.. However doesn't have what I actually downloaded it for which was to find out about updates to current regulations and recovery plan such as easing of lockdown rules etc.. Have to search for this and then visit nidirect website for this info..<br> :date: __2020-06-07 21:55:20__
 
 > Good app<br> :date: __2020-05-06 23:22:23__

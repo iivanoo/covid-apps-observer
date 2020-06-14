@@ -144,7 +144,9 @@ The Covid-19 app has been installed by more than **10000** times. At this time, 
 <img src="5_star_reviews_wordcloud.png" alt="it.adl.aslroma3.covid19.app 5 reviews"/>
 </p>
 
-> Ottima<br> :date: __2020-06-05 12:38:13__
+> Spero che serva, ma serve anche per quelli che non hanno contratto il Covid 19, siccome da 1 al 15 agosto 2020 dovrei recarmi ad Porto San Maurizio in provincia di Imperia Liguria Italia Italie Italy. Oltre ad installare questa applicazione si dobbiamo fare i 3 tamponi e eseguire l'autocertificazione quella per l'uscita dal Piemonte ovvero dal capoluogo Torino TO alla Liguria, Porto San Maurizio, in provincia di Imperia IM, siccome dovremmo convivere insieme in un alloggio bilocale. Luisa<br> :date: __2020-06-08 16:16:05__
+
+> Ottima<br> :date: __2020-06-08 09:27:16__
 
 > Ottimo<br> :date: __2020-05-16 00:56:55__
 
@@ -162,8 +164,6 @@ The Covid-19 app has been installed by more than **10000** times. At this time, 
 
 > E' valida anche per l' area di Rieti e provincia?<br> :date: __2020-04-06 14:01:21__
 
-> Questa è davvero necessariamente importante per tutti<br> :date: __2020-04-02 17:35:22__
-
 
 
 #### 4-star reviews
@@ -171,6 +171,8 @@ The Covid-19 app has been installed by more than **10000** times. At this time, 
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="it.adl.aslroma3.covid19.app 4 reviews"/>
 </p>
+
+> Si può individuare qualcuno con il coronaviru<br> :date: __2020-06-08 14:07:56__
 
 > Interessante<br> :date: __2020-05-14 18:21:52__
 

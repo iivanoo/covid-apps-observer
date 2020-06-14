@@ -165,6 +165,10 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 <img src="5_star_reviews_wordcloud.png" alt="de.xikolo.openwho 5 reviews"/>
 </p>
 
+> Beppe VergaraAyala<br> :date: __2020-06-12 16:21:46__
+
+> MObiSTARyAMiLEN.................(1977)<br> :date: __2020-06-10 19:23:01__
+
 > Es La mejor para el desarrollo profesional de las personas especialmente de el área de la salud<br> :date: __2020-05-29 20:03:19__
 
 > Esta guaiii<br> :date: __2020-05-29 12:25:30__
@@ -180,10 +184,6 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 > ¡De veras, es salvadora de vidas!<br> :date: __2020-04-25 17:43:48__
 
 > good<br> :date: __2020-04-24 21:32:00__
-
-> Gracias. Me ha servido muchísimo.<br> :date: __2020-04-22 07:35:24__
-
-> Practic App Best<br> :date: __2020-04-20 15:54:06__
 
 
 

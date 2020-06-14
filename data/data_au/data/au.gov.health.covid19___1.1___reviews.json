@@ -1,5 +1,49 @@
 [
     {
+        "userName": "Charmaine Rayan",
+        "userImage": "https://lh3.googleusercontent.com/-2FlPg95SLBY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl844EqqlR9RoxnNpxk7mtFeRq8Rg/photo.jpg",
+        "content": "Good tool It has lots of useful info",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.1",
+        "at": "2020-06-14 10:58:40",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "userName": "Thanh Trinh",
+        "userImage": "https://lh3.googleusercontent.com/-XiPADyRVbFo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmX5K4dZW3MLcTSst21js24WuRxgw/photo.jpg",
+        "content": "Good",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.1",
+        "at": "2020-06-13 22:31:54",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "userName": "Anita Poupa",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiD5SF1ph8hN0PPZDP6wexDi5iniZ7h1MHALkt7",
+        "content": "I was violated by having this app installed on my phone without any notice or warning or most importantly MY CONSENT.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2020-06-10 05:41:48",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "userName": "Alex Up",
+        "userImage": "https://lh3.googleusercontent.com/-RT9k3d7_9ko/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucndGTOHEKl96gPLQSaauJ5c5rfHrg/photo.jpg",
+        "content": "Useless",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.1",
+        "at": "2020-06-09 23:40:47",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "userName": "andy simpson",
         "userImage": "https://lh3.googleusercontent.com/-87n8Wgy1wmo/AAAAAAAAAAI/AAAAAAAAAEw/AMZuuclsL3r9Gby86-7uFV2S5ZGJLRaD7w/photo.jpg",
         "content": "Since you have updated this app there are now no more new case numbers for states for the day the most important information is missing.",
@@ -150,17 +194,6 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2020-05-23 10:55:37",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "userName": "Peta Cabban",
-        "userImage": "https://lh3.googleusercontent.com/-QZDW4qpcBxU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclKh7D374U2mDRkGtVABy6Ssrtk5A/photo.jpg",
-        "content": "March 2020 This app just keeps saying unable to download information . I have uninstalled and reinstalled this app a number of times and it is always the same. 23/05/2020 Tried again, downloaded and installed app easily but as soon as app was opened got \"Try again etc..\" message again. So annoying!",
-        "score": 1,
-        "thumbsUpCount": 5,
-        "reviewCreatedVersion": "1.0.4",
-        "at": "2020-05-23 00:31:23",
         "replyContent": null,
         "repliedAt": null
     },
@@ -969,7 +1002,7 @@
     },
     {
         "userName": "Cherie",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GielQKtjrPFFhNA8EnoPlaBQGYly-ao455g-SD2pw",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gi839eokTAD0p0GAKVb5s92MrvuSu0kMGTbftBd1Q",
         "content": "Cool app \ud83d\ude42",
         "score": 5,
         "thumbsUpCount": 0,
@@ -3015,7 +3048,7 @@
     },
     {
         "userName": "South Ozzi",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GghcELJPBFFRCHz2SJ_hwjVv5G5BaqUmkyqHg_SjTs",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gj_DINBZ-u77rvpRYNljF1DmXBS52vA3HWHJ51rf6s",
         "content": "Fails to open link \ud83d\ude21",
         "score": 2,
         "thumbsUpCount": 0,
@@ -3120,6 +3153,17 @@
         "thumbsUpCount": 31,
         "reviewCreatedVersion": "1.0.2",
         "at": "2020-04-10 00:31:06",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "userName": "Tracy weber",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjwwdmFCMSRfBGTIIesc04Tk7CjmWF2StnvmzJk",
+        "content": "Very informative app",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.0.2",
+        "at": "2020-04-09 20:46:17",
         "replyContent": null,
         "repliedAt": null
     },
@@ -3271,7 +3315,7 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgxafdOfIb55f5VXuCrPurdLIhwdbj3HwSEW2UbJg",
         "content": "Poor effort, it's just a wrapper on a mobile website and doesn't work well. For example, a notification of an article will come through, and clicking the notification goes straight to the homepage of the app rather than the content. Very, very poor implementation on Android! When you manually find content within the app, it just launches a browser anyway. There is no use for the app if it's just a mobile webpage...",
         "score": 1,
-        "thumbsUpCount": 412,
+        "thumbsUpCount": 414,
         "reviewCreatedVersion": "1.0.1",
         "at": "2020-04-08 02:14:07",
         "replyContent": null,
@@ -7385,7 +7429,7 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjtCj_cwfUiRG6doKsoQIC2oFYRps2HTbx1byLB8A",
         "content": "App is handy for being a single point of contact for government information on COVID-19. However, it does have some issues. Firstly, most information opens in the web browser, instead of in the app, which is clunky . Secondary, the infection status is updated less often than the press releases, and is out of date later in the day. Some features, like the isolation register look useful, though I haven't need to use that yet.",
         "score": 3,
-        "thumbsUpCount": 575,
+        "thumbsUpCount": 576,
         "reviewCreatedVersion": "1.0",
         "at": "2020-03-29 07:34:01",
         "replyContent": null,

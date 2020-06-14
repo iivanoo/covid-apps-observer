@@ -188,6 +188,10 @@ No recent reviews available with 2 stars.
 <img src="1_star_reviews_wordcloud.png" alt="es.gva.coronavirus 1 reviews"/>
 </p>
 
+> Para el coronavirus es una castaña. Lo que hace falta de una vez es una implementación a nivel estatal o europeo, de la rutina de seguimiento mediante bluetooth de Apple y Google. Lo demás chapuzas sobre chapuzas<br> :date: __2020-06-11 02:37:02__
+
+> Me quiero bajar la aplicación pero me pide un código ? Cual pongo? Me quedaba solo un intento . Gracias<br> :date: __2020-06-10 19:43:32__
+
 > La he descargado porque no la conocia y he cometido un error ahora me van a llamr del ambulatorio pero no me da opcion a anular. Deberia de figurar esta opcion. Este servicio podia incluirse en la app normal y no ser necesario instalar una nueva. Solo cita tfno no entiendo una app solo exclusiva para eso y encima que no puedes anular cita.<br> :date: __2020-06-02 14:38:09__
 
 > No me deja meter el sip<br> :date: __2020-04-21 11:26:17__
@@ -203,9 +207,5 @@ No recent reviews available with 2 stars.
 > Basura. Solo accedes con SIP, no sirve para consultar información general y seguir los cambios. Desinstalando<br> :date: __2020-04-12 18:43:13__
 
 > Necesito información rápida en una App, y no que me vaya pidiendo datos que no tengo a mano<br> :date: __2020-04-12 18:20:45__
-
-> Inútil.. Coger cita y nada más. Un ataque más a la privacidad,<br> :date: __2020-04-12 10:44:26__
-
-> Como el sip la tarjeta sanitaria,no tiene mas misterio..yo creia era otra cosa.<br> :date: __2020-04-11 15:21:22__
 
 

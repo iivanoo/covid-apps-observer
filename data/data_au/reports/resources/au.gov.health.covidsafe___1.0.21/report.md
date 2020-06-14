@@ -130,25 +130,25 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 <img src="5_star_reviews_wordcloud.png" alt="au.gov.health.covidsafe 5 reviews"/>
 </p>
 
-> It is good because it helps me be covid-19 safe so this is why I think that this game is the greatest game<br> :date: __2020-06-07 19:16:18__
+> Amazing<br> :date: __2020-06-14 12:24:15__
 
-> Awesome app<br> :date: __2020-06-07 10:28:18__
+> Good<br> :date: __2020-06-14 04:54:32__
 
-> Works well. Enough info.<br> :date: __2020-06-07 08:45:07__
+> It's needed<br> :date: __2020-06-14 02:26:41__
 
-> Worried<br> :date: __2020-06-07 05:23:37__
+> Good for safety<br> :date: __2020-06-13 12:01:12__
 
-> Wait 4PERFECT#CORRECTION<br> :date: __2020-06-06 07:40:42__
+> Very good app, relevant to my safety<br> :date: __2020-06-13 09:34:55__
 
-> Extends very good information<br> :date: __2020-06-06 01:02:19__
+> Would be irresponsible to not have this app. It will help Australia prevent large outbreaks and allow us to live more normally. The reviews about Bluetooth dropping out seem to not be generally true. I use Airpods via Bluetooth with my Samsung S8 and it all works fine.<br> :date: __2020-06-13 06:21:34__
 
-> I haven't heard or receive notification at all.<br> :date: __2020-06-05 03:31:19__
+> Good<br> :date: __2020-06-13 05:37:57__
 
-> Good<br> :date: __2020-06-05 02:24:29__
+> IAM happy that I have the CovidSAfe 19 on my phone and would like my grandson to have the CovidSAfe 19 on his phone and my granddaughter too Pattrich, Catherine Kennedy.my family in Bendigo.thank you.<br> :date: __2020-06-12 20:17:27__
 
-> All good. No issues on my OnePlus 6T<br> :date: __2020-06-04 06:04:49__
+> After a few updates it finally became the app that just runs in the background without impacting other apps, Bluetooth, etc. Its just there in the background and i don't even remember i have it installed<br> :date: __2020-06-12 03:16:33__
 
-> Happy to Keep Everyone in My Family Safe by Using this App<br> :date: __2020-06-04 05:17:32__
+> Ido use this app regularly to check how things are going.<br> :date: __2020-06-11 19:27:20__
 
 
 
@@ -158,25 +158,25 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 <img src="4_star_reviews_wordcloud.png" alt="au.gov.health.covidsafe 4 reviews"/>
 </p>
 
+> Tip: as the app conflicts with my Bluetooth headphones. You can go to settings > apps > force stop. As needed. An official fix would be nice 😊<br> :date: __2020-06-14 07:10:17__
+
+> Workwell I haven't met anyone with the virus<br> :date: __2020-06-12 12:48:54__
+
+> Good to see the latest update to include older android versions seems to be working my bluetooth headset stops playing for a second when someone's close<br> :date: __2020-06-10 19:39:16__
+
+> This app is really smashing my battery life!<br> :date: __2020-06-09 11:14:01__
+
+> Easy to use, simple<br> :date: __2020-06-09 02:46:49__
+
+> The app crashes on launch for me now. EDIT: I fixed this by clearing the apps data from storage, but that of course means that all contacts I've logged over the past few weeks have been lost.<br> :date: __2020-06-08 13:35:39__
+
+> Please remove it from the notification tray it is annoying, the small symbol above like wifi bluetooth ect is fine. Happy to help fellow Aussies. 5 stars if that is fixed.<br> :date: __2020-06-08 04:40:44__
+
+> Mmm<br> :date: __2020-06-08 02:57:17__
+
+> Fine. I would give it 5 stars if the icon wasn't changed from the subtle and stylish grey shield to the bland green Aus logo.<br> :date: __2020-06-08 02:29:46__
+
 > need more stats showing growth/decline<br> :date: __2020-06-07 02:11:23__
-
-> Sometimes I forget to turn Bluetooth back on again after I have turned it off. I think it would be good if the app sent me an SMS or email reminder eg hourly to turn Bluetooth on again if I have forgotten to turn Bluetooth on again. Cheers.<br> :date: __2020-06-06 05:53:08__
-
-> A good use of technology to help reduce the spread of this disease. Leaving bluetooth on sure drains the battery though. This latest version stops unexpectedly when using other apps and causes error messages.<br> :date: __2020-06-04 15:51:30__
-
-> Necessary App to keep searching for data from point to point. Ultimately arriving at a point where collected.<br> :date: __2020-06-03 08:31:10__
-
-> Have to force my Oppo Reno Z to keep the app using resources otherwise it shuts down. Therefore I get a constant notification that my phone is using excess resources but only a minor issue.<br> :date: __2020-06-02 05:57:12__
-
-> The use of Bluetooth was disruptive in the 1st version: if you were listening to music using a Bluetooth speaker, for instance, there was a 3 to 5 seconds pause every time you were in contact with someone using the same app. Very annoying! This new version has fixed this and the interruption is now very brief, 1 second or a bit less. Congrats to the dev team! I still hit a minor issue: my phone# was rejected when I tried to register. Closing and opening the app fixed the glitch.<br> :date: __2020-06-01 14:10:01__
-
-> don't know<br> :date: __2020-06-01 03:41:22__
-
-> Nothing at all just download it now<br> :date: __2020-05-31 01:38:40__
-
-> Yes it drains the battery and screws with Bluetooth, but honestly just turn it and Bluetooth off for a while..making sure to do same for app running in the background. Works great for me<br> :date: __2020-05-30 08:41:49__
-
-> Ok kcal keep d<br> :date: __2020-05-28 09:51:01__
 
 
 
@@ -186,25 +186,25 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 <img src="3_star_reviews_wordcloud.png" alt="au.gov.health.covidsafe 3 reviews"/>
 </p>
 
+> Bluetooth dropouts... Disappointing but I guess it serves its purpose..<br> :date: __2020-06-14 11:03:05__
+
+> Apps a good idea, I'm relying on this apps to keep my family and myself safe but it keeps on turning itself off.<br> :date: __2020-06-13 12:46:39__
+
+> This app should not need location data and should run in the background without pop ups<br> :date: __2020-06-12 07:00:18__
+
+> Does seem to also work on android 5.0.1 Install is a bit funny as it hung on permissions page but still installed. Couple restarts but basically mostly stable and running.<br> :date: __2020-06-11 09:00:31__
+
+> It works out for all<br> :date: __2020-06-10 12:23:24__
+
+> The app serves its purpose however given the link to Bluetooth is it creating no end of Bluetooth connectivity issues resulting in the dropping put of other bluetooth connected devices (headphones, Android auto, etc)<br> :date: __2020-06-10 01:13:23__
+
+> It causes repeated drop out of my Bluetooth devices (headphones, smart watch etc.). I have also found the latest update is causing a significant increase in battery drainage which is incredibly annoying.<br> :date: __2020-06-08 14:58:20__
+
+> Still not 100% sure it is the app or just a huge coincidence. Ever since I have installed the app, my Bluetooth in the car gets momentarily disconnected. While it does reconnect, it is a real issue as it invariably happens during a call. If it keeps happening, I will uninstall and see if things improve.<br> :date: __2020-06-08 11:17:09__
+
+> Keeps on bugging my BT connections as I use a BT headphone<br> :date: __2020-06-08 02:19:43__
+
 > Needs to be more compatible with older device. Drains the battery, my phone is about 3+ years old. Keep bluetooth off and disable app permissions unless i leave the house. Easy to install.<br> :date: __2020-06-07 21:41:19__
-
-> Can't RESTRICT even though I've opened within a month it still shows Error in my notification panel<br> :date: __2020-06-07 14:04:17__
-
-> Not always sure it is still working<br> :date: __2020-06-07 11:48:35__
-
-> Maybe it could do with an immediate connect mode so that gyms and places that need to maintain contact lists , could use the app at reception to record contacts<br> :date: __2020-06-07 01:04:53__
-
-> I removed this app. I'm not sure if it's a coincidence but just after installing I started getting suspicious activity on some of my apps and gmail. Not wanting to take any chances.<br> :date: __2020-06-06 14:54:21__
-
-> Frustrating to set up. The app will not accept your phone number, saying there is an error with your phone number, if there is a problem on the previous screen. Where you enter your name, the supplied model shows "First, Family" name implying to put a comma between your names, but doing so gives the message on the subsequent page about the phone number. In addition where you enter your number, the prefix +61 is written for you. But you must enter the initial zero, despite international protocols<br> :date: __2020-06-04 13:15:36__
-
-> A great idea, but it keeps interfering with my Bluetooth connection, making it drop out regularly :( This makes playing any music or podcasts using headphones or car VERY annoying due to constant restarts. Please fix ASAP. UPDATE 4 JUNE 2020: Bluetooth issues seem to be fixed. Changed rating from 1 star.<br> :date: __2020-06-04 09:13:53__
-
-> 1.0.18 installed, 25 May, 2020... Let see if it drains my Battery, ifvso I shall term using this!<br> :date: __2020-06-03 23:51:08__
-
-> It slow down my smartphone system samsung note 9 and sometime my smartphone don't respond it just freeze there . I have to switch off and than on just to see if my note 9 respond or or not.<br> :date: __2020-06-03 16:39:37__
-
-> Every now and then the app no longer run in the background. Weird<br> :date: __2020-06-03 09:00:43__
 
 
 
@@ -214,25 +214,25 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 <img src="2_star_reviews_wordcloud.png" alt="au.gov.health.covidsafe 2 reviews"/>
 </p>
 
-> Can't tell if it's doing anything except drain your battery.. Only have it as a work requirement<br> :date: __2020-06-07 14:51:56__
+> It was ok at first, but i noticed lots of connectivity issues and CovidSafe was the last app installed, after uninstalling the app, connection issues appear to be resolved.<br> :date: __2020-06-14 08:21:30__
 
-> Kills my battery<br> :date: __2020-06-07 00:40:16__
+> Keeps asking for battery optimisation permission everytime<br> :date: __2020-06-13 06:16:13__
 
-> As a developer myself I looked into the security concerns and I was satisified with what I saw. I read the reviews of people describing how it screwed up their Bluetooth connectivity but i thought I'd give it a try anyway hoping that might not happen for me. Well, it stopped my watch from connecting to my phone and it started interfering when my phone was connected to the car. So after 2 days I've given up. I will happily reinstall it once they can fix these issues but not until then<br> :date: __2020-06-06 11:29:11__
+> Nice idea but uninstalled as it causes connectivity issues with other devices, most importantly hands free in the car. Also causes much higher battery drain.<br> :date: __2020-06-13 02:02:31__
 
-> I have had to uninstall because it uses too much battery power. I will be uninstalling it on my husband phone too as he used to only need to charge his phone every 2-3 days prior to installing this app. But now he needs to charge it twice a day.<br> :date: __2020-06-04 22:01:29__
+> Bluetooth issues. Ever since installing I've had BT issues with other devices not being able to reconnect, without clearing cache and data, then all other devices reconnect for a few days, then problems start again.<br> :date: __2020-06-13 01:59:59__
 
-> App started well. But after some time I noticed a lot of un-charactistic that were not usual. In coming call - the screen goes black. Warnings of battery failure. High battery usage. Moving through apps was slower than normal.Some apps would not open or freeze on the screen. Found bluetooth connections with other devices also impossible, had to restart phone every time to fix it. Once deleted most if not all functional operation has returned on first day. Not happy needs work here to re-instal<br> :date: __2020-06-04 15:22:55__
+> Great initiative but destroys your Bluetooth audio. Constant skips and pauses with a variety of speakers that all work fine without this app installed.<br> :date: __2020-06-12 12:39:29__
 
-> Since latest update, CONSTANT crashing and battery draining, not to mention interference with bluetooth devices.<br> :date: __2020-06-04 14:40:04__
+> Over the last 2 weeks the app keeps crashing several times a day. This will stop it doing it's job if you come into contact with a known case when the app isn't functioning. The only way i can see it has crashed is by looking at the screen. No sound happens when it crashes.<br> :date: __2020-06-12 01:56:00__
 
-> It was the best thing ever when it first came out.. Now I think everyone else has it so it drains my battery as it continuously poll's Bluetooth devices as I am always around large amounts of people.<br> :date: __2020-06-04 09:51:32__
+> Yes it installs on 5.1 now but gets stuck after enabling Bluetooth. Proceed does not enable battery optimisation off and Bluetooth location. Oppo R7+ with ColorOs.<br> :date: __2020-06-12 00:18:12__
 
-> Keeps dropping my Bluetooth audio connections - calls and music. Really annoying. New version crashes regularly and needs to be manually restarted.<br> :date: __2020-06-04 05:24:03__
+> Constant issues with Bluetooth dropping out when playing music<br> :date: __2020-06-11 05:14:42__
 
-> Bluetooth connectivity interruptions make this so very annoying especially when in close contact to others. Please make work without needing to mess up Bluetooth.<br> :date: __2020-06-03 04:15:07__
+> Lots of Bluetooth connectivity issues. Not connecting or long time to connect. Smart watch will not connect at all. Bit frustrating.<br> :date: __2020-06-10 22:49:44__
 
-> Tacky App.<br> :date: __2020-06-02 11:50:07__
+> I really want to use this app as it is a great idea. However since installing it, I've had nothing but issues with my phone, issues with updating important apps for work, even battery life is messed up. App can't work without an alive phone, and phone can't stay alive if said app drains it of all power before it has a chance to do anyone any good. So it's a no for me regarding the installation of this app. I stick to what we have been doing since this all started. Keep distance and wash hands.<br> :date: __2020-06-10 15:04:54__
 
 
 
@@ -242,24 +242,24 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 <img src="1_star_reviews_wordcloud.png" alt="au.gov.health.covidsafe 1 reviews"/>
 </p>
 
-> Stop deleting my review Google. Useless app when the government won't stop protesters for black lives matter.<br> :date: __2020-06-08 00:25:27__
+> Gives no information about status<br> :date: __2020-06-14 15:02:03__
 
-> Disrupted my Bluetooth connection with my fit bit watch. Stopped the messages and calls coming through most of the time despite all tries to reestablish the connection. I could fix this sometimes for a few hours, sometimes it didn't even reconnect to my watch despite manually trying to connect. All resolved after I deleted it. plus some minor issues with other Bluetooth connections.<br> :date: __2020-06-07 22:43:42__
+> My screen locks and goes blank any time I revive or make call. Have to uninstalled, friend has same issue. Tried re installing, issue is back.<br> :date: __2020-06-14 06:32:55__
 
-> Glitching Bluetooth devices<br> :date: __2020-06-07 18:07:32__
+> I had to uninstall do to issues with black screen during phone calls Sony Xperia XA2. I couldn't use the keypad, speaker or even end calls. No problem since uninstalling.<br> :date: __2020-06-14 05:57:20__
 
-> I am deleting. Obviously there is no danger any more if our governments are willing to allow 30,000 to gather for a protest. If anyone contracts the virus because of this, then they should sue the organisers and the government. I know I will. Maybe I'll organise a protest at the MCG next Thursday night, and see how quickly I am fined. Guess what....my life matters too. Dumbarses.<br> :date: __2020-06-07 16:26:51__
+> I installed it couple weeks ago and checked it few times since then. It is never active. Always requires something else although i allowed all app permissions.<br> :date: __2020-06-14 03:34:57__
 
-> As mentioned in many reviews, this app has a major issue that prevents my Bluetooth headphones hold connection with my phone. I really want to install this app and help to fight the pandemic, but at the moment I had to uninstall it. Very sad, do you guys even test it?<br> :date: __2020-06-07 13:29:47__
+> Too easy to accidentally disable or remove when in use or it crashes (either way you think it's working but it's not) also had to uninstall and reinstall because "push notifications" refused to activate. Would be nice too to be told someone near you has the app up and running otherwise what's the point? btw had no problems prior to last update!<br> :date: __2020-06-14 02:56:15__
 
-> After last week's update I couldn't make or receive phone calls on my Oppo Reno z2. The issue only resolved after uninstalling this app.<br> :date: __2020-06-07 12:36:08__
+> It's stopped working. Crashes every time I relaunch it. This is in the last couple of days. Please fix it!<br> :date: __2020-06-14 01:21:12__
 
-> Waste of tax payers dollars. Why is my comments being deleted?<br> :date: __2020-06-07 12:04:06__
+> Installed this app when it was first released but it's caused so many issues on my phone, blocking Bluetooth, whatsapp messages and app downloads. I've tried it three times now and each time have had to uninstall after a few days as the reduced phone function is too impractical. Very disappointing.<br> :date: __2020-06-13 15:51:50__
 
-> Does not find my bluetooth so unistalled. Windows 10 running bluestacks.<br> :date: __2020-06-07 10:43:49__
+> This worked well before you "fixed" it. Now it continues to crash.<br> :date: __2020-06-13 12:42:58__
 
-> I have given up on this app as I cannot get a pin number for the verification process no matter how many times I try.<br> :date: __2020-06-07 07:31:20__
+> Ever since downloading the app my phone battery dies within a few hours. The same happens to my parents phones. I'm now deleting the app. Useless.<br> :date: __2020-06-13 12:11:20__
 
-> The app crashes on launch for me now.<br> :date: __2020-06-07 04:45:49__
+> Any app that forces a notification on my notification bar all the time is disabled at best, uninstalled usually. Get rid of that dumb feature<br> :date: __2020-06-13 11:30:29__
 
 

@@ -160,6 +160,8 @@ The Covidom Patient app has been installed by more than **10000** times. At this
 <img src="4_star_reviews_wordcloud.png" alt="fr.aphp.covidom 4 reviews"/>
 </p>
 
+> Ghita<br> :date: __2020-06-13 17:31:58__
+
 > C'est trés bien , très bonne initiative Mille mercis encore On vous soutient tous !!!!!!!!<br> :date: __2020-05-28 00:30:08__
 
 > J'habite en Bretagne Ilya pas la Bretagne<br> :date: __2020-04-05 20:24:42__

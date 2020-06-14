@@ -160,6 +160,16 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <img src="5_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 5 reviews"/>
 </p>
 
+> Eccezionale, con questo Coronavirus che ha fatto milioni di morti nel mondo<br> :date: __2020-06-14 13:17:04__
+
+> Bv<br> :date: __2020-06-12 02:57:47__
+
+> oggi la situazione almeno per le persone che mi stanno attorno sembra notevolmente migliorata Mia moglie ogni tanto ha il naso che gli cola ma subito dopo passa tutto..Io ogni tanto ho qualche fastidio alla laringe ma sono mesi che non peggiora anzi sembra migliorare I miei figli e i miei quattro nipoti non hanno alcun sintomo che possa collegarsi al Covid.19 Anche nel mio condominio non ci sono casi o sintomi da come posso accertarmi io!!!Quindi speriamo BENE<br> :date: __2020-06-11 17:48:14__
+
+> Ottima<br> :date: __2020-06-11 11:09:16__
+
+> Ottima APP<br> :date: __2020-06-09 20:28:32__
+
 > Funziona bene anche x covid<br> :date: __2020-06-07 12:06:07__
 
 > Io la trovo molto utile. Compilarlo non mi costa niente e spero che serva<br> :date: __2020-06-06 14:06:41__
@@ -170,16 +180,6 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 
 > Ok<br> :date: __2020-06-01 18:45:06__
 
-> Che sia Finita veramente !!!Vedo gente in giro tranquillamente con mascherina e qualcuno anche i guanti e mi sorge il dubbio che sia veramente finita. Allora un augurio a tutti e Grazie per la collaborazione,<br> :date: __2020-06-01 17:52:23__
-
-> Recensione basata solo sullo scopo di base dell'app: fornire allerte dalla Protezione Civile. Fa bene quello che deve fare, con utili informazioni aggiuntive e la possibilità di scaricare i documenti originali delle allerte. Se si usa assieme ad una buona app meteo offre previsioni, facili da capire, sulla potenziale violenza dell'evento meteo previsto. Per quanto riguarda la parte sul CoViD, nel peggiore degli scenari risulterà una componente inutile, non capisco il perché delle lamentele...<br> :date: __2020-06-01 15:06:15__
-
-> Forza Lombardia<br> :date: __2020-05-30 19:22:03__
-
-> Buono<br> :date: __2020-05-27 13:47:13__
-
-> Ottima<br> :date: __2020-05-26 20:13:55__
-
 
 
 #### 4-star reviews
@@ -187,6 +187,8 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 4 reviews"/>
 </p>
+
+> Convinto della bontà del sito<br> :date: __2020-06-12 22:46:58__
 
 > Secondo me sarebbe ancora più utile se le domande non si riferissero solo ai precedenti 15 giorni allargando il periodo temporale a tutto il 2020 lasciando un campo libero per aggiungere delle note oppure chiedendo la data in cui sono iniziati e finiti determinati sintomi o contatti con persone e luoghi infetti. dopo l'aggiornamento giugno 2020 la finestra di pop-up finale dopo la compilazione non viene visualizzata correttamente<br> :date: __2020-06-07 18:54:52__
 
@@ -206,8 +208,6 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 
 > Ottima<br> :date: __2020-05-18 12:07:43__
 
-> Buona<br> :date: __2020-05-17 20:19:44__
-
 
 
 #### 3-star reviews
@@ -215,6 +215,14 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 3 reviews"/>
 </p>
+
+> Scaricata ma non riesco a ricevere nessuna notifica di allerta inoltre ogni volta che si chiude l'applicazione spariscono dai preferiti i comuni precedentemente memorizzati. Le notifiche sono tutte attive, occorre tenere sempre acceso il GPS ? grazie<br> :date: __2020-06-11 15:25:30__
+
+> L'app è ben fatta, solo a volte non arrivano le notifiche ma gli SMS. Inoltre, come si fa a cambiare i numeri associati all allerta meteo? Non vedo nessun menù a disposizione. Grazie<br> :date: __2020-06-09 07:43:19__
+
+> Per la parte covid, con Android mi è impossibile compilarla nè per me, nè per la mia famiglia. Ritengo sia un baco. Ci ho riprovato e funziona.<br> :date: __2020-06-08 16:11:32__
+
+> Lasciando perdere per un attimo l'aggiunta della sezione covid, poco integrata e sviluppata, per quanto riguarda le allerte sarebbe bene un maggiore sviluppo. Ad esempio vorrei poter vedere nelle notifiche il colore e la descrizione delle allerte emesse Se si potesse sarebbe bello addirittura poter selezionare una provincia preferita per le allerte<br> :date: __2020-06-08 13:26:21__
 
 > Boh info perlopiu' inutili ed esageratamente allarmistiche<br> :date: __2020-06-06 07:58:56__
 
@@ -228,14 +236,6 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 
 > Per le allerte meteo mi serve poco. Per il covid mi aspettavo di vedere in cambio della collaborazione una mappa o qualcosa di utile. Ho apprezzato che adesso memorizza i dati che non cambiano, come CAP di casa e ufficio.<br> :date: __2020-05-24 16:57:53__
 
-> Boh<br> :date: __2020-05-21 21:12:44__
-
-> Questa app non l'ha capisco<br> :date: __2020-05-19 21:23:37__
-
-> Sarebbe interessante sapere per paese quanti hanno compilato il questionario e quanti sono a rischio....Non parlo di una consultazione in tempo reale ma basterebbe un report a cadenza periodica .. aiuterebbe addetti ai lavori e non....<br> :date: __2020-05-17 20:20:57__
-
-> Non sono un medico ma mi sembra un questionario troppo generico....inoltre con le dovute protezione della privacy ma perche` anche su base volontaria non viene consentito il tracciamento in modo da incrociare efficentemente i dati in caso di necessita'?<br> :date: __2020-05-17 17:17:53__
-
 
 
 #### 2-star reviews
@@ -243,6 +243,8 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 2 reviews"/>
 </p>
+
+> Funziona una volta si e 5 no<br> :date: __2020-06-14 15:57:48__
 
 > perche modificare in peggio la parte covid?? uso questa app da circa tre mesi direi esclusivamente per la parte covid la prima versione poteva essere migliorata e la seconda l'ha sicuramente molto più fruibile e rapida la compilazione l'ultimo aggiornamento di qualche giorno fa ha spostato la compilazione a sinistra. dato che la maggior parte delle persone é destrorsa e usa il pollice, cio ha reso l'applicazione non ergonomica. l'ho trovato stupido<br> :date: __2020-06-07 10:13:33__
 
@@ -262,8 +264,6 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 
 > App molto macchinosa, tanti bug e crash, notifiche abbastanza insulse e tracciamento delle infezioni pressoché inutile: è necessario compilare un questionario molto lungo e dispersivo (chiede costantemente età, ed altre generalità ad ogni utilizzo) da compilare ogni giorno per garantire l'efficienza<br> :date: __2020-05-17 17:41:08__
 
-> Senza tamponi e test come si fa a sapere se si è stati a contatto con persone contagiose asintomatiche? Qui si può semplicemente tener conto di coloro che hanno sintomi importanti... sembra più uno scarabocchio piuttosto che un grafico della situazione...<br> :date: __2020-05-14 15:24:51__
-
 
 
 #### 1-star reviews
@@ -271,6 +271,16 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 1 reviews"/>
 </p>
+
+> Modifico ad oggi la mia recensione definita in precedenza terribile. Ora è diventata ULTRACTERRIBILE e ancora non funziona. Peccato che pure la mail che mi avete inserito per contattarvi se persiste il disguido non è nemmeno valida, e torna indietro come indirizzo sconosciuto. Certo che se le app per il Covid in Lombardia funzionano così stiamo a posto.<br> :date: __2020-06-11 13:03:21__
+
+> Dopo aggiornamento non funziona più. Accetti tutto, ma quando arrivi a cerca covid non fa compilare dati per "me stesso"<br> :date: __2020-06-10 20:52:11__
+
+> Questa app non ti da la possibilitá di raccontare quello che ti ha successo veramente...mio marito a marzo era con la febbre e di sei fratelli 4 con febbre, io con la congiuntivite e reffredore, mio dottore portato con la ambulanza (guarita grazie a Dio) mio vicino di casa morto con el covit, in mio paese di solo 3 mila anime a Marzo 22 persone sono morte, solo sentivamo le campane dei morti e ambulanze...si parla sempre delle ultime due settimane e quello di prima?<br> :date: __2020-06-10 18:34:16__
+
+> Ogni volta che si avvia è come fosse la prima volta,richiede permessi e preferenze. Ma possibile che non si possa fare di meglio nel 2020 in Lombardia?Assurdo.<br> :date: __2020-06-10 14:07:35__
+
+> E niente, ogni volta bisogna reinserire la gran parte dei dati. Tenerli memorizzati e modificare solo quelli che eventualmente cambiano è così complicato? Disinstallata, molto meglio la professionalità di Immuni.<br> :date: __2020-06-09 21:16:56__
 
 > Si blocca sempre. Pessima.<br> :date: __2020-06-07 14:31:56__
 
@@ -281,15 +291,5 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 > Un disastro ad ogni avvio richiede la compilazione del questionario covid<br> :date: __2020-06-06 13:39:13__
 
 > La peggior app in circolazione! Si blocca sempre, è incomprensibile ma soprattutto inutile. Vorrei dare meno di una stella ma non posso<br> :date: __2020-06-05 21:16:48__
-
-> 5.06.20. Scaricato aggiornamento non posso cambiare la mia età in compenso se inserisco mia figlia mia età scende a 20 anni.... tolgo una stella ed sto a vedere se almeno gli alert funzionano.... nel caso disinstallo. 04.2020.... Sinceramente mi aspettavo di meglio... Se ieri abitavo a casa mia e lavoravo in una città oggi suppongo di abitare bella stessa casa e lavorare nello stesso posto.... se cambia qualcosa lo cambio..... perché tutte le volte reinserirlo?<br> :date: __2020-06-05 07:30:52__
-
-> Serve a poco....inoltrate dati COVID19 che molto prima sono stati trasmessi da vari social network. Inoltre date le allerte "meteo" dopo che gli eventi sono già "successi". Disinstallo.<br> :date: __2020-06-05 06:41:41__
-
-> La app viene installata ma non si apre.<br> :date: __2020-06-03 15:38:49__
-
-> Non serve a nulla... 5 minuti tutti i giorni spesi a compilare la stessa cosa...<br> :date: __2020-06-02 21:21:43__
-
-> ,zw<br> :date: __2020-06-02 17:50:28__
 
 

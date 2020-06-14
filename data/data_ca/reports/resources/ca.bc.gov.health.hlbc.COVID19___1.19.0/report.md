@@ -183,6 +183,8 @@ The BC COVID-19 Support app has been installed by more than **10000** times. At 
 <img src="3_star_reviews_wordcloud.png" alt="ca.bc.gov.health.hlbc.COVID19 3 reviews"/>
 </p>
 
+> The app recommended I get tested. I already know where the nearest testing centre is so I thought that was it, just show up. Nothing in the testing instructions was said about making an appointment until I drilled down to search the location for hours of operation. There in tiny tiny letters it says 'Appointment Required'. The finder app uses Chrome. Clicking on the text field pops up the keyboard and then closes it. So you can't type in your location to search. Pixel 3XL, Android 10<br> :date: __2020-06-14 02:55:44__
+
 > I think you need to add a prompt to set up the location. I'm happy to have this app. Tx<br> :date: __2020-05-13 09:24:24__
 
 > Stats are nice but the self assessment tells me to call 911 if I'm feeling confused.<br> :date: __2020-05-05 06:05:32__

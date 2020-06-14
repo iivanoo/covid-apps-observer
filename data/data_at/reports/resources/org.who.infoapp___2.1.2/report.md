@@ -164,6 +164,12 @@ No recent reviews available with 3 stars.
 <img src="1_star_reviews_wordcloud.png" alt="org.who.infoapp 1 reviews"/>
 </p>
 
+> Fake app<br> :date: __2020-06-14 18:13:19__
+
+> nur allgemeines geschwurbel<br> :date: __2020-06-12 11:35:48__
+
+> Wäre schön, wenn man eine Sprache auswählen könnte. Es ist nicht davon auszugehen, dass jeder die englische Sprache beherrscht.<br> :date: __2020-06-08 08:31:18__
+
 > Propaganda und Fehlinformationen...deinstalliert<br> :date: __2020-06-07 17:38:52__
 
 > Gates Müll<br> :date: __2020-05-31 14:32:57__
@@ -177,11 +183,5 @@ No recent reviews available with 3 stars.
 > Nicht RUNTERLADEN UH RMACHT EUCH ZU SKLAVEN DES SYSTEMS<br> :date: __2020-04-27 12:30:51__
 
 > Einseitige Berichte, nur in Englisch<br> :date: __2020-04-25 21:01:14__
-
-> Keine Suchfunktion, einseitige Berichte, keine Feedback-Funktion, keine Fragen, keine zeitliche Eingrenzung der Informationen - insgesamt sehr enttäuscht.<br> :date: __2020-04-19 22:01:42__
-
-> In Deutsch wäre es viel besser es könnten nicht alle Englisch.<br> :date: __2020-04-19 13:18:22__
-
-> Diese App ist eine Face App<br> :date: __2020-04-19 08:27:50__
 
 

@@ -165,25 +165,25 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 <img src="5_star_reviews_wordcloud.png" alt="de.xikolo.openwho 5 reviews"/>
 </p>
 
-> Nice<br> :date: __2020-06-07 20:30:55__
+> It's help full me<br> :date: __2020-06-14 16:51:52__
 
-> Nice<br> :date: __2020-06-07 13:25:14__
+> Very informative<br> :date: __2020-06-13 12:07:57__
 
-> Impressive app<br> :date: __2020-06-07 10:19:32__
+> The app is great 5star from me ☺<br> :date: __2020-06-12 21:14:51__
 
-> Download and Updare COVID19-app.<br> :date: __2020-06-04 14:20:00__
+> Ok<br> :date: __2020-06-12 13:20:32__
 
-> Great app Who can I ask more about the certificates<br> :date: __2020-06-04 13:12:09__
+> Awesome....<br> :date: __2020-06-12 10:03:06__
 
-> Helpful<br> :date: __2020-06-03 11:42:30__
+> BAY<br> :date: __2020-06-10 15:53:20__
 
-> It is important app for our country<br> :date: __2020-06-01 18:02:34__
+> Thank you so much for enrolled me in open WHO knowledge.<br> :date: __2020-06-10 03:46:24__
 
-> Goif<br> :date: __2020-06-01 13:26:30__
+> Nice app<br> :date: __2020-06-09 18:28:42__
 
-> it is nice app<br> :date: __2020-05-31 05:08:00__
+> V good app I am useing<br> :date: __2020-06-09 10:23:00__
 
-> Good application<br> :date: __2020-05-30 21:05:42__
+> WHO does it again<br> :date: __2020-06-08 16:48:55__
 
 
 
@@ -192,6 +192,8 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="de.xikolo.openwho 4 reviews"/>
 </p>
+
+> Mast<br> :date: __2020-06-13 09:10:54__
 
 > Good app of thh halt.<br> :date: __2020-05-31 05:25:43__
 
@@ -211,8 +213,6 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 
 > Good 👍<br> :date: __2020-05-08 13:54:07__
 
-> Facing Error while check tool bar progress.<br> :date: __2020-05-07 11:56:39__
-
 
 
 #### 3-star reviews
@@ -220,6 +220,10 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="de.xikolo.openwho 3 reviews"/>
 </p>
+
+> I have finished two courses on two different date(one before midnight, another after midnight) but found same date on both while I downloaded Certificates. Why is this?<br> :date: __2020-06-11 19:18:50__
+
+> covid<br> :date: __2020-06-11 18:37:22__
 
 > Sir, Plzz improve the quality of the certificate awarded by the WHO to the participants to increase more & more participation as well as awareness of the people in this contest organised by OpenWHO.<br> :date: __2020-05-24 16:44:50__
 
@@ -236,10 +240,6 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 > Good<br> :date: __2020-04-29 17:15:00__
 
 > Very interesting.<br> :date: __2020-04-29 08:44:44__
-
-> Good<br> :date: __2020-04-23 19:00:10__
-
-> Can't open<br> :date: __2020-04-16 00:11:34__
 
 
 
@@ -271,6 +271,10 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 <img src="1_star_reviews_wordcloud.png" alt="de.xikolo.openwho 1 reviews"/>
 </p>
 
+> No real news<br> :date: __2020-06-10 20:20:26__
+
+> Dirty apps<br> :date: __2020-06-08 01:02:18__
+
 > Not sign in properly Many times error<br> :date: __2020-05-29 19:05:54__
 
 > Cannot access securely and info very unclear and cloudy<br> :date: __2020-05-28 05:01:52__
@@ -286,9 +290,5 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 > Nonsense app<br> :date: __2020-05-13 08:19:05__
 
 > Hate it.<br> :date: __2020-05-13 07:43:50__
-
-> Bad<br> :date: __2020-05-09 07:44:18__
-
-> Don't even know how to play<br> :date: __2020-05-06 17:54:16__
 
 

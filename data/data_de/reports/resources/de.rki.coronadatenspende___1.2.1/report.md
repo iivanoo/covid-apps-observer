@@ -131,25 +131,25 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 <img src="5_star_reviews_wordcloud.png" alt="de.rki.coronadatenspende 5 reviews"/>
 </p>
 
-> Leben > Bernds Hausnummer.<br> :date: __2020-06-07 19:41:35__
+> App einwandfrei installierbar, Fitnessarmband Q-Band über Google fit mit App problemlos zu verbinden, läuft reibungslos seit > 60 Tagen.<br> :date: __2020-06-14 17:40:09__
 
-> Ich finde diese App super und es ist eine tolle Idee. Bei mir funktioniert es ohne Probleme.<br> :date: __2020-06-06 22:15:29__
+> Kluge Idee des RKI.<br> :date: __2020-06-14 17:04:57__
 
-> Tolle Aktion! Deswegen 5 Sterne in der Hoffnung, dass daran weiterhin gearbeitet wird. Leider funktioniert die Anmeldung bei mir nicht, wenn ich in der App auf Fitbit klicke. (Huawei P30 aktuellste Version) EDIT: Anmeldung funktionier immer noch nicht 26.5. Stand 5.6. Ich kann mich nun auch über Google anmelden<br> :date: __2020-06-05 20:04:52__
+> Arbeitet seit 44 Tagen ohne Probleme. (Stand 14.06 2020)<br> :date: __2020-06-14 16:19:12__
 
-> Funktioniert problemlos mit Withings.<br> :date: __2020-06-05 10:37:17__
+> Meine Datenspende beträgt nun 68 Tage. An Anfang gab es Probleme bei der Verbindung. Das schien an meinem Vivofit 2 zu liegen. (Ich verlor einige Tage.) ... Ich hoffe, die Daten können helfen.<br> :date: __2020-06-14 11:34:26__
 
-> läuft anstandslos und hilft hoffentlich langfristig. Seit dem letzten Update sind nun auch Infos und Auswertungen zu sehen.<br> :date: __2020-06-05 07:37:14__
+> Installation der App war Problemlos möglich, mit Garmin verbinden hat auch sofort funktioniert. Anzeige gespendeter Tage funktioniert einwandfrei.<br> :date: __2020-06-11 23:07:15__
 
-> Ganz vergessen alles läuft wieder perfekt. Sehr sinnvolle App<br> :date: __2020-06-04 19:51:38__
+> Läuft ohne Probleme, Verbindung mit Garmin Tracker funktioniert super. Schon 65 Tage gespendet.<br> :date: __2020-06-11 17:32:06__
 
-> Ich nutze die App jetzt seit 40 Tagen. Die Verbindung mit meiner Garmin einwandfrei.<br> :date: __2020-06-04 18:41:58__
+> Läuft einwandfrei mit Polar<br> :date: __2020-06-11 07:08:00__
 
-> Ich finde es schade. Dass die App so viele negative Bewertungen bekommen hat. Ich besitze zwar eine Samsung SmartWatch und musste 3€ für die HelthSync App bezahlen, aber dafür tue ich etwas GutesHelth für mich und meine Mitmenschen. Immerhin ist diese App schon vorhanden, im Gegensatz zu anderen...<br> :date: __2020-06-04 18:08:57__
+> 55 Tage 😊<br> :date: __2020-06-09 14:49:38__
 
-> Funktioniert mit Fitbit Versa und Samsung 10e einwandfrei! Mich würde aber interessieren welche Erkenntnisse aus den Daten abgeleitet wurden. Das wäre eine sinnvolle Ergänzung in der App.<br> :date: __2020-06-04 17:09:15__
+> Nachtrag... wieso schafft es unser Land nicht, eine "warnapp" zu entwickeln. Andere Länder haben dies zeitnah geschafft. Bei uns wird diskutiert. Wieviel geld erhalten die Entwickler dafür? Und unser Minister vertröstet mit neuen terminen. Da kann das rki nichts für, sorry. habe das Gefühl, es wird so ein Prestigeobjekt wie der ber ... Idee gut, Umsetzung wie in einer Bananenrepublik. Ich habe den Datenspender wieder deinstalliert. Trotzdem vielen Dank an das rki und den Mitarbeitern.<br> :date: __2020-06-08 20:44:27__
 
-> Nutze die App jetzt seit 55 Tagen und kann nichts negatives berichten. Zum Einsatz kommen bei mir das MiBand 3 und jetzt das MiBand 4 von Xiaomi bzw. Amazfit, welche ihre Daten per Google Fit an die App übermitteln.<br> :date: __2020-06-04 16:19:35__
+> Funktioniert einwandfrei...<br> :date: __2020-06-08 20:00:48__
 
 
 
@@ -158,6 +158,16 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="de.rki.coronadatenspende 4 reviews"/>
 </p>
+
+> Nicht ganz fehlerfreie Anmeldung. Übernimmt die Daten meiner Amazfit bip mit Hilfe der Google Fit App.<br> :date: __2020-06-14 12:36:48__
+
+> Nach einigen Schwierigkeiten beim Anmelden (Eingabeprobleme) und nach Tagen ohne Datenspende, funktioniert die App nach einigen Aktualisierungen endlich. Die anfänglichen Probleme sollten nicht andere davon abhalten, Daten zuspenden. Installiert die App, wenn Ihr dem RKI helfen wollt. Sonderzeichen sind auch über die Alphabettastatur erreichbar! ;-) Seit Anfang Mai wird in einem Blog gelegentlich mitgeteilt welche Erkenntnisse man aus den Daten zieht.<br> :date: __2020-06-14 07:06:25__
+
+> Wenn ich mir googlefit auf dem Handy lade, zählt das genauso? Die app macht sonst das was Sie machen soll<br> :date: __2020-06-13 21:38:38__
+
+> Fehler 403 (rate_limit_exceeded) bei Google Anmeldung Zudem Fehlen einer direkten Verbindeng mit Armbändern von Xiaomi.<br> :date: __2020-06-13 11:39:46__
+
+> Die App lässt sich problemlos installieren und auch mit meiner Fitbit verbinden. Nur steht selbst nach 3 Tagen noch immer eine "0" bei der Anzahl der gespendeten Tage. Warum? ☆☆☆UPDATE☆☆☆ An Tag 4 hat die App nun endlich angefangen die gesammelten Tage zu zählen. Hoffe, diese Daten tragen erfolgreich dazu bei, das Virus besser verstehen zu können und unter Kontrolle zu bringen.<br> :date: __2020-06-09 00:34:59__
 
 > Lässt sich leider nicht mit Google Fit verknüpfen, gleiche Fehlermeldung wie bei anderen Usern.<br> :date: __2020-06-04 07:48:26__
 
@@ -169,16 +179,6 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 
 > Leider kann ich mich nicht regestrienen bei google fit es wird nach der email gefragt aber ich kann keine eingabe tätigen auch nachdem update unverändert<br> :date: __2020-05-23 18:30:17__
 
-> Die Samsung Gearfit 2 pro bzw. Samsung Health ist leider nicht aufgeführt, ansonsten sehr gute App,<br> :date: __2020-05-22 16:49:49__
-
-> Anmeldung funktioniert nun endlich.<br> :date: __2020-05-14 10:03:20__
-
-> Eigentlich dachte ich einen Beitrag leisten zu können mit dem Zugriff zu meiner Smartwatch. Leider wird zwar eine Verbindung angezeigt, aber der Zähler steht seit ich die App habe auf "0 gespendete Tage" 🤷‍♀️ Dabei sind es jetzt schon 5 Tage. Für die Idee geb ich 2 ⭐ wenn der Zähler irgendwann funktioniert dann mehr. Nachdem ich die App zunächst gellscht und nach einer Weile neu installiert habe funktioniert der Tageszähler. daher auch 4 ⭐. Bitte noch mehr Infos im Menü dann ist's perfekt.<br> :date: __2020-05-14 05:17:55__
-
-> Mii Bänder sind leider nicht in der Liste enthalten :( Kütt dat noch? Welche Tracker werden als näxtes implementiert? Jibbet da ne Roadmap? Nachtrag: Mi Band wird jetzt per Google fit erkannt...<br> :date: __2020-05-13 23:29:15__
-
-> Mit der App Health Sync kann man Samsung Health mit Google Fit synchronisieren und damit Samsung Gear Uhren für die Datenspende verwenden<br> :date: __2020-05-13 15:33:53__
-
 
 
 #### 3-star reviews
@@ -186,6 +186,16 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="de.rki.coronadatenspende 3 reviews"/>
 </p>
+
+> Es funktioniert technisch alles mit der Garmin vivoavtive. Mache auch gerne mit. Jedoch habe ich immer noch nicht verstanden, wie ich mit meinen Daten hier weiter helfe.<br> :date: __2020-06-14 18:46:59__
+
+> Immer noch keine Unterstützung für Amazfit Bip<br> :date: __2020-06-12 22:08:41__
+
+> Ich dachte man kann die App auch mit einer samsung smart watch nutzen?<br> :date: __2020-06-11 12:54:01__
+
+> Weiß nicht wie das funktioniert<br> :date: __2020-06-10 02:45:33__
+
+> Prinzipiell eine gute Idee, aber nicht ideal umgesetzt. Kooperatiert doch bitte mit mehr SmartWatch Anbietern wie Huawei oder Xiaomi ( Mi Fit )<br> :date: __2020-06-09 14:38:21__
 
 > Undurchsichtig<br> :date: __2020-06-07 15:39:03__
 
@@ -197,16 +207,6 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 
 > Verbinden mit Withings hat nun geklappt. Es bleibt spannend.<br> :date: __2020-05-30 14:50:27__
 
-> Ich hab die App jetzt seit Version 1.0.1 und eine Fitbit Charge 4 und bis heute lässt sich das FitBit-Konto nicht mit dieser RKI App verknüpfen. Früher waren einfach die Buttons tot, jetzt kommt beim tippen auf z.B Fitbit nur "Server Fehler" - immer. Es geht einfach nicht. Völlig schwach. Die Fitbit hatte ich extra für diese App gekauft.<br> :date: __2020-05-30 07:16:40__
-
-> Die App funktioniert......aber Transparenz?? Wer programmiert hier eigentlich? "Sie können Ihre Daten sowie Ihr Profil jederzeit über das Menü oben links einsehen und verwalten."....da sind weder Daten noch Profil. Das RKI hat einen Blog, warum kann der nicht z.B. über das RKI-Symbol aufgerufen werden? Alles in allem besser als nichts, wenn es den hilft:-)<br> :date: __2020-05-28 10:34:38__
-
-> Da die app leider nur wenige Anbieter und Hersteller unterstützt, gehen viele Daten ungenutzt verloren. Ich selbst nutze mapmyrun, samsung health, sowie samsung fitness tracker. Hiervon wird nichts unterstützt und die Verbindung mit der einzigen unterstützten app(google fit) ist mangelhaft, da diese nicht mit den anderen apps synchronisiert. Würde mich freuen wenn ihr hier nachbessert.<br> :date: __2020-05-26 10:13:02__
-
-> Nachdem keine Daten über eine Samsung Smartwatch möglich sind, habe ich die App wieder gelöscht.<br> :date: __2020-05-25 16:05:44__
-
-> Ebenso wie bei anderen: Verbindung hergestellt, Tageszahl blieb zunächst lange bei Null. Aktuell werden nun 10 Tage angezeigt.<br> :date: __2020-05-25 14:18:24__
-
 
 
 #### 2-star reviews
@@ -214,6 +214,12 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="de.rki.coronadatenspende 2 reviews"/>
 </p>
+
+> Eine App zu verwenden ist schon eine gute Idee. Aber leider nicht diese. Was für einen Nutzen sollte es habe Daten zu haben wieviel km Ich Fahrrad gefahren bin oder ich gelaufen bin.<br> :date: __2020-06-12 13:19:56__
+
+> Ich kann meine Mi Band nicht verbinden und muss es deshalb über Google fit als Umweg machen. Dabei gehen halt auch Details aus meinen tracker verloren. Seit Start der App wird versprochen auch weitere Fitness-Tracker einzubinden. Ich habe immer wieder Probleme die Daten mit google fit zu synchronisieren und so lückenhafte Daten bringen ja echt nichts. Also deinstalliere ich die App wieder. Schade, aber mit einer so winzigen Auswahl an unterstützen Fitness-Tracker ist es nur eine gute Idee.<br> :date: __2020-06-09 08:18:41__
+
+> 5 Sterne für die Idee zur Unterstützung bzw. Erkenntnisgewinnung. Jedoch kann auch ich hier nicht unterstützen, da Samsung nicht aktivierbar ist. Sobald dies möglich ist bin ich dabei. Daumen hoch.<br> :date: __2020-06-08 08:22:38__
 
 > Weiß ich nicht bescheid<br> :date: __2020-06-07 20:22:57__
 
@@ -229,12 +235,6 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 
 > Ich würde super gerne helfen aber leider wird Samsung noch nicht unterstützt. Wäre super wenn das schnellstmöglich kommt.<br> :date: __2020-06-01 11:07:04__
 
-> Gute Idee, aber keine Schnittstelle zu Samsung Health, obwohl die Samsung Smartwatches und auch Smartphones sehr verbreitet sind...<br> :date: __2020-05-30 00:29:03__
-
-> Schade das die App keine Huawei Smartwatch unterstützt. Leider immer noch keine Verbindung zu Huawei oder Samsung.<br> :date: __2020-05-29 05:43:26__
-
-> Soweit eine sinnvolle App. Aber leider zeigte er am ersten Tag 0 Tage dann wieder 3 und jetzt wieder 0. Also anscheinend funktioniert die App nicht einwandfrei.<br> :date: __2020-05-28 13:19:58__
-
 
 
 #### 1-star reviews
@@ -243,24 +243,24 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 <img src="1_star_reviews_wordcloud.png" alt="de.rki.coronadatenspende 1 reviews"/>
 </p>
 
-> Sinnvolle Sache. Aber noch besser wäre es, wenn die App echte Funktionalität besitzen würde. Warum den Benutzern nicht (freiwillig und anonym) z.B. die Erfassung von möglichen Symptomen in einem täglichen Fragebogen ermöglichen.<br> :date: __2020-06-08 00:02:19__
+> Funktioniert nach wie vor nicht mit MI Band. Von der Idee her gut, aber für mich nicht nutzbar. Also wieder de-installiert. Juni 2020 Mal wieder nachgeschaut. Mi Band geht immer noch nicht direkt. Schade.<br> :date: __2020-06-14 19:46:07__
 
-> Leider nicht für meine Smartwatch (Samsung Gear S3) geeignet.<br> :date: __2020-06-07 23:48:58__
+> Wollen nur private Daten von<br> :date: __2020-06-14 18:15:03__
 
-> Es werden einfach zu wenige Dienste angeboten. Google Health etc. reicht einfach nicht. Es gibt auch noch Dienste wie MiFit oder Huawei health und viele weitere. Sollten diese hinzugefügt werden hätte ich kein Problem mit der erneuten Installation. Das Angebot ist zu gering!<br> :date: __2020-06-07 12:47:51__
+> Kann es nicht aktivieren, weil es sich nicht mit Polar verbindet. Der Akzeptieren Button funktioniert nicht. Trotz verschiedener Versuche und Einstellungen im Firefox<br> :date: __2020-06-14 15:14:35__
 
-> Huawei Health nicht unterstützt.<br> :date: __2020-06-06 21:08:25__
+> Ich habe keinen der angegebenen Tracker. Deswegen ist die App für mich sinnlos. Ich lösche sie wieder.<br> :date: __2020-06-13 16:09:59__
 
-> Gute Idee aber die Verknüpfung funktioniert nicht. Edit: Weiterhin keine Funktion. Jetzt kommt aber der Fehler, dass die App keine Verbindung zum Server aufbauen kann. Edit2: Immernoch keine Verbindung möglich...<br> :date: __2020-06-06 17:37:53__
+> Lässt sich nicht mit dem Mii Band verbinden nur über den Umweg über Google Fit<br> :date: __2020-06-12 19:48:51__
 
-> Wann funktioniert das mit Samsung ich kann die abb oder auch andere sonst nicht nutzen weil sie und ich alle nur Samsung Haben<br> :date: __2020-06-06 16:21:52__
+> Keine verbindung mit samsung health möglich 👎<br> :date: __2020-06-12 16:13:12__
 
-> Richtig dumme App. Mit den großen Herstellern wie Samsung und Apple null kompatibel (auch nicht nach Monaten)...<br> :date: __2020-06-06 13:01:52__
+> Es müssen weitere Schnittstellen bereit gestellt werden, Huawai Fit und Mi Fit sind nicht dabei, dabei sind die Geräte sehr verbreitet...<br> :date: __2020-06-12 08:40:30__
 
-> zu wenig unterstützte gräte<br> :date: __2020-06-05 23:51:26__
+> Support sagte dass Samsung werables bald verfügbar sein werden, auch nach Wochen nicht verfügbar, daher jetzt die schlechte Bewertung.<br> :date: __2020-06-12 00:26:43__
 
-> Samsung Smartwatches werden nicht unterstützt und somit für mich leider unzugänglich.<br> :date: __2020-06-05 18:20:36__
+> Keine Samsung GearFit Kompatibilität<br> :date: __2020-06-11 14:08:43__
 
-> Immer noch keine Verbindung zu Samsung Health möglich, warum?<br> :date: __2020-06-05 11:53:42__
+> Samsung Gear S3 ist nicht mit der App kompatibel. Es gibt nicht die Möglichkeit das Gerät mit der App zu koppeln. Schade...<br> :date: __2020-06-10 17:09:31__
 
 

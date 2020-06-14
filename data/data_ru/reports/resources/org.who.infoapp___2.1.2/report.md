@@ -151,10 +151,12 @@ No recent reviews available with 4 stars.
 #### 2-star reviews
 
 <p align="center">
-
+<img src="2_star_reviews_wordcloud.png" alt="org.who.infoapp 2 reviews"/>
 </p>
 
-No recent reviews available with 2 stars.
+> На русском где?<br> :date: __2020-06-14 12:29:29__
+
+
 
 #### 1-star reviews
 

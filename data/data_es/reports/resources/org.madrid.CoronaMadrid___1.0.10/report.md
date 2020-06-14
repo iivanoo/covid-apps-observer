@@ -262,6 +262,10 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="org.madrid.CoronaMadrid 1 reviews"/>
 </p>
 
+> Inutil<br> :date: __2020-06-09 08:48:31__
+
+> A fecha de hoy sigue sin recomendar la mascarilla cuando es de uso obligatorio. NO vale ni para las recomendaciones. Una pena que se gasten tanto dinero y no haya un mantenimiento diario de la aplicación.<br> :date: __2020-06-08 13:41:12__
+
 > Basica muy basica. Solo sirve para diagnosticar. Un mes y no han echo nada aprendan de los Coreanos y Franceses<br> :date: __2020-05-28 09:05:45__
 
 > La app está bien hecha y funciona bien, si no fuese porque a pesar de tener tres de los cuatro síntomas más comunes de la Covid-19, la app me dice que descarta que pueda tenerla. En el servicio de atención telefónica hacen las mismas preguntas y me dicen que como respiro bien, no puede ser covid, que vaya al médico.<br> :date: __2020-05-20 17:38:20__
@@ -277,9 +281,5 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 > Mala<br> :date: __2020-05-13 18:53:25__
 
 > Considero que es una memez de aplicación que recaba una cantidad de datos personales exagerada.<br> :date: __2020-05-11 09:57:27__
-
-> No tiene en cuenta muchos parámetros claves; cefalea, digestivo, muscular, etc. Y considera sólo un plazo de 15 días de duración cuando es una enfermedad que puede durar más de 6 semanas. Una perdida de tiempo.<br> :date: __2020-05-10 17:09:55__
-
-> No me Dan una respuesta coherente, pues los síntomas no concuerdan con las preguntas.<br> :date: __2020-05-07 11:53:54__
 
 

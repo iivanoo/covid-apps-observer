@@ -1,5 +1,27 @@
 [
     {
+        "userName": "Debora Davolio",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgWFN_BkcYvpx0ZsRHZwkOiudCD2OCx0lkx-EMDsg",
+        "content": "Qualcuno ha detto ai mmg che esiste questa applicazione e la relativa chat? Applicazione totalmente inutile.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.0.15",
+        "at": "2020-06-11 08:39:29",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "userName": "Davide Simone",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiNA984IHyAhWQDP-9KaUz9wblh8hBFIu2YE0mf9Yc",
+        "content": "Istallata ma ho dovuto disinstallare perch\u00e9 mi ha infettato il telefono con il covid20",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2020-06-08 01:38:27",
+        "replyContent": "Gentile Utente, la ringraziamo per la sua ironia,  ma siamo costantemente impegnati nell'aiutare tutti gli assistiti che hanno realmente bisogno del servizio in un modo cosi delicato dell'emergenza. Saluti",
+        "repliedAt": "2020-06-08 14:24:27"
+    },
+    {
         "userName": "Enrico Formone",
         "userImage": "https://lh3.googleusercontent.com/-Nw3YHCH7rQI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckCqC-MJ8hymIgeJA_aJIuX6WAXCg/photo.jpg",
         "content": "L'app non si riesce a scaricare il mio medico non risponde al telefono il numero verde della regione e' una voce registrata. Se in un momento di lucida e onesta autovalutazione decideste di cambiare mestiere provate a cercarlo in un ambito dove si fanno pochi danni. Tipo ippica ad esempio",
@@ -7,15 +29,15 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2020-06-04 17:33:23",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Gentile utente,  diverse decine di migliaia di hanno utilizzato l'APP, se avesse bisogno invii una mail alla casella lazioadvice@regione.lazio.it indicando CF; recapito email e N\u00b0 cell utilizzato e su quale inserimento dati riscontra problemi . Grazie in anticipo",
+        "repliedAt": "2020-06-08 14:22:31"
     },
     {
         "userName": "Cristian Sguazzino",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjaFbh6E-e8XGbjjThU0H9f455zkf8BKBnvNw_mRA",
         "content": "Salve, vorrei farvi notare che quando si compila l'autovalutazione, alla domanda: hai frequentato nelle ultime 2 settimane strutture sanitarie ? Io rispondo NO e al termine dei quesiti andando ad aprire il documento word con le mie risposte risulta SI per gli ospedali anche se la mia risposta, come gi\u00e0 ho detto, sia stata No! Ho provato 2 volte per sicurezza, ma il risultato \u00e8 lo stesso.",
         "score": 4,
-        "thumbsUpCount": 3,
+        "thumbsUpCount": 4,
         "reviewCreatedVersion": "1.0.15",
         "at": "2020-05-28 05:22:18",
         "replyContent": "Grazie per la segnalazione, stiamo verificando. Un saluto",
@@ -130,17 +152,6 @@
         "at": "2020-05-06 14:25:24",
         "replyContent": "Gentile utente, al fine di verificare quanto segnalato invii una mail alla casella lazioadvice@regione.lazio.it indicando CF; recapito email e N\u00b0 cell utilizzato e su quale inserimento dati riscontra problemi . Grazie in anticipo",
         "repliedAt": "2020-05-06 16:47:54"
-    },
-    {
-        "userName": "ELVIDIO CINELLI",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhDOQIxA_Ph8D55_C7hwr3iGz22Ru2UWAMGZQW8CA",
-        "content": "Il mio medico non \u00e8 in chat e non risponde.",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.0.14",
-        "at": "2020-05-06 08:14:45",
-        "replyContent": "Gentile utente, l'applicazione supporta solo lo scambio delle informazioni e il contatto da remoto con il proprio medico che avviene quanto lo stesso accede alla piattaforma o attraverso i consueti canali in essere tra medico/assistito. Ricordiamo che l'APP non si sostituisce ai numeri 800112800 e 112 per ogni emergenza.Grazie per la segnalazione.",
-        "repliedAt": "2020-05-06 17:40:43"
     },
     {
         "userName": "Valentina De Giosa",
@@ -279,7 +290,7 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gige6EfUivIhkxSM5Af5MjhdnLVpszw6OnTteVxqA",
         "content": "Inseriti tutti campi richiesti, dato il consenso, mi arriva la mail per l'attivazione, clicco sul link, mi dice che l'account \u00e8 attivo, rientro nell'app e si ricomincia da capo come se fosse la prima volta, avr\u00f2 attivato almeno una decina di volte l'account ma al primo accesso \u00e8 come se fosse la prima volta. Disinstallata. AGGIORNAMENTO: dopo l'aggiornamento di oggi l'app ha ripreso a non funzionare.",
         "score": 1,
-        "thumbsUpCount": 35,
+        "thumbsUpCount": 37,
         "reviewCreatedVersion": "1.0.11",
         "at": "2020-04-24 11:06:47",
         "replyContent": "Gentile utente, ci risulta che la sua app non \u00e8 stata aggiornata. La preghiamo di aggiornare da play store la stessa alla versione disponibile e ripetere l'accesso. SAluti.",
@@ -760,7 +771,7 @@
     },
     {
         "userName": "Alberto Tucci",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhL-SSp_yCNFVt5nKMYrKG3XJ2wnSnBOjNeiKxlNdU",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GieEh_G-Xlje5qpr-wvJLtymOe1-8IIGasQlL-Pi-E",
         "content": "Se funzionasse, l'idea non sarebbe male ma giusto per tenere un archivio di valori da presentare al medico. Invece dopo l'ultimo aggiornamento non vengono pi\u00f9 registrati valori del pulsossimetro e frequenza cardiaca. Non si capisce neanche cosa voglia dire valore MED nella registrazione della pressione arteriosa.",
         "score": 2,
         "thumbsUpCount": 2,
@@ -1134,7 +1145,7 @@
     },
     {
         "userName": "Rita Garelli",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiYJH-kB-rOrWhtmJWFsPvFGXydeZmoctwMl0HMKw",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GheAI2TUiMUw2He4LY5deteB1J0qgF5YsA103VERA",
         "content": "difatti apro il link ricevuto via sms e mi porta ad una pagina web che mi inviata a richiedere una nuova attivazione poich\u00e8 fallita. prover\u00f2 a disinstallare l'applicazione",
         "score": 1,
         "thumbsUpCount": 0,
@@ -2355,7 +2366,7 @@
     },
     {
         "userName": "Matteo v.N",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiV2R2-liH9ZLOHm25c3VnX7Is3cAKVaHsTYNZV5d4",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjM4kVArYACexFSkWHQJ7hkdXIbd3c_JtqevhLkMmo",
         "content": "Molto chiara, bravi",
         "score": 5,
         "thumbsUpCount": 0,
@@ -3997,7 +4008,7 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Ghy3g5e9-In9S9dCpAjGy3CR1JCHF1RYIF05d8FTA",
         "content": "Sto cercando di attivarlo. Ho scaricato. Ho dato il consenso a tutto. Ho compilato i campi suindicati. Ma il caricamento non avviene. E tanto meno mi arriva la email per la conferma dell'attivazione. Sono 20 minuti e pi\u00f9 che cerca di caricare. Ma nulla. \u00c8 il secondo tentativo. Fallito il primo ho disinstallato l'app e poi preinstallata. Ma nulla!! Rinuncio. Ps. Non ho capito perch\u00e9 si deve accedere alle foto o altro dove ci stanno contenuti magari riservati.",
         "score": 1,
-        "thumbsUpCount": 64,
+        "thumbsUpCount": 67,
         "reviewCreatedVersion": "1.0.3",
         "at": "2020-03-19 16:04:01",
         "replyContent": "invii una mail alla casella lazioadvice@regione.lazio.it con la problematica ed i suoi contatti. Un operatore la supporter\u00e0 nell'attivazione. Saluti",

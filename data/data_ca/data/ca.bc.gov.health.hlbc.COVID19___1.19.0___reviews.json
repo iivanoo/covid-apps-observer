@@ -1,5 +1,16 @@
 [
     {
+        "userName": "John Taylor",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgOjpD0Y4_HrqKp7Dgjage4lHk_11TMRNVc1bcqBg",
+        "content": "The app recommended I get tested. I already know where the nearest testing centre is so I thought that was it, just show up. Nothing in the testing instructions was said about making an appointment until I drilled down to search the location for hours of operation. There in tiny tiny letters it says 'Appointment Required'. The finder app uses Chrome. Clicking on the text field pops up the keyboard and then closes it. So you can't type in your location to search. Pixel 3XL, Android 10",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.19.0",
+        "at": "2020-06-14 02:55:44",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "userName": "Clarke Hazard",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Ghf8BXYBLz85CakzBXRjqDqHDOCia0Xz1wLHkcA",
         "content": "Excellent useful informative thank you",
@@ -48,7 +59,7 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gg_wRz9oL_ICnuBrS62JDhyBJZDao6DDNuu0-h6yi0",
         "content": "Your app keeps opening Google Chrome for news updates. However, I don't use this browser. Can you update the app to support any browser? Android has Firefox, Samsung Internet, Microsoft Edge, Opera, Brave, and many more - you need to support more than just Chrome. Once this is fixed, the app will get 5 stars! Edit: you guys fixed it!! Thank you! 5stars to you!",
         "score": 5,
-        "thumbsUpCount": 15,
+        "thumbsUpCount": 17,
         "reviewCreatedVersion": "1.17.0",
         "at": "2020-05-16 08:10:54",
         "replyContent": null,
@@ -430,7 +441,7 @@
     },
     {
         "userName": "David Hirtle",
-        "userImage": "https://lh3.googleusercontent.com/-f0Ocr9gFmok/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnf5HOCBQdN4HjtND_73pWVLDrbAw/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GipovIZiEmrSHl0h9tfuEq5GcE6eB5Maad40033LQ",
         "content": "Great self-assessment tool came in handy for my family this week.",
         "score": 5,
         "thumbsUpCount": 1,
@@ -477,7 +488,7 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiVviU2550dDOkQDBBMiodarikGBl1ySMDYF8JRRg",
         "content": "I'd love something that started with a daily update straight from the province. Maybe a color coded system like fire warnings that is clear and actionable. What IS social distancing? Which businesses are supposed to be open? Which are deemed essential? How often should someone be at a grocery store? Make this easy.",
         "score": 1,
-        "thumbsUpCount": 15,
+        "thumbsUpCount": 16,
         "reviewCreatedVersion": "1.6.0",
         "at": "2020-03-25 07:31:11",
         "replyContent": null,

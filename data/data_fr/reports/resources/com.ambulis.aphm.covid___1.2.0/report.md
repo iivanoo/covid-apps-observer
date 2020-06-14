@@ -130,6 +130,8 @@ The COVID AP-HM app has been installed by more than **10000** times. At this tim
 <img src="5_star_reviews_wordcloud.png" alt="com.ambulis.aphm.covid 5 reviews"/>
 </p>
 
+> Ghita<br> :date: __2020-06-13 17:32:24__
+
 > dd<br> :date: __2020-05-09 21:36:25__
 
 > Très bien<br> :date: __2020-04-10 20:58:40__

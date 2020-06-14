@@ -143,25 +143,25 @@ The StopCovid France app has been installed by more than **500000** times. At th
 <img src="5_star_reviews_wordcloud.png" alt="fr.gouv.android.stopcovid 5 reviews"/>
 </p>
 
-> Toujours moins intrusif que Facebook, Google, Apple et Amazon contrairement à ce qu'affirme une publication Facebook... J'aurais du me méfier, l'avertissement était signé Albert Einstein...<br> :date: __2020-06-07 20:20:47__
+> Installez tous l'application. C génial !!!!<br> :date: __2020-06-14 20:47:41__
 
-> Acte citoyen, on sera pas plus traqués qu'on ne l'est déjà par Amazon Google et autres<br> :date: __2020-06-07 20:20:02__
+> Super appli je la recommande toujours là pour vous avertir!!<br> :date: __2020-06-14 19:51:02__
 
-> C'est super bien<br> :date: __2020-06-07 19:54:17__
+> Filecitation virus malheureurs riche sur terre pas plus ya pas miellheurs<br> :date: __2020-06-14 18:59:18__
 
-> Bonjour, Comme souhaité dans un précédent commentaire, on peut choisir de lancer automatiquement StopCovid au démarrage de son téléphone. Avec Android 9 : appui long sur l'icône de l'application, puis menu informations et enfin l'option démarrage automatique.<br> :date: __2020-06-07 19:41:24__
+> Tout marche bien. Des efforts ont été fait sur la transparence du fonctionnement de l'application. (Dans cette même démarche il serait intéressant de mettre les sources de l'application en libre accès sur le web)<br> :date: __2020-06-14 18:41:32__
 
-> Excellent ! Rien à dire.<br> :date: __2020-06-07 19:38:44__
+> Que tous ceux qui nous expliquent que l'application est pourrie, qu'elle se désactive toute seule... commencez par régler les paramètres de votre smartphone en autorisant en arrière-plan l'application ainsi que son démarrage automatique selon les téléphones. Vous verrez, ça marche beaucoup mieux ! 😉<br> :date: __2020-06-14 12:22:01__
 
-> Très satisfait<br> :date: __2020-06-07 19:17:54__
+> Soyons responsable et fraternels<br> :date: __2020-06-14 12:17:09__
 
-> Facile<br> :date: __2020-06-07 18:38:22__
+> 👍<br> :date: __2020-06-14 11:19:17__
 
-> Simple et efficace<br> :date: __2020-06-07 18:29:04__
+> Bien.<br> :date: __2020-06-14 07:38:40__
 
-> Qui c'est peut être ça vole les données comme les FRANÇAIS son avec les USA et arrêter de dire que les truc chinois volent les données TOUS les entreprises volent les données (oui même Google et Google c'est quoi c États-Unis...Mes bon sa sert a rien de mettre un mauvaise note mais j'espère que se sera plus lu que dans un simple tweet ou une story.<br> :date: __2020-06-07 18:02:14__
+> Bien<br> :date: __2020-06-14 03:31:02__
 
-> Très simple à utiliser. Très pratique de pouvoir activer ou désactiver l'application.<br> :date: __2020-06-07 17:55:52__
+> Le geste barrière électronique indispensable.<br> :date: __2020-06-14 01:57:02__
 
 
 
@@ -171,25 +171,25 @@ The StopCovid France app has been installed by more than **500000** times. At th
 <img src="4_star_reviews_wordcloud.png" alt="fr.gouv.android.stopcovid 4 reviews"/>
 </p>
 
-> Activation impossible. Le truc n'arrive pas a me distinguer d'un robot. Comme un robot ne peut attraper le Covid je suis rassuré. Bon après de nombreuses tentatives infructueuses depuis ma petite commune alpine (malgré réussite des tests photos avec passages piétons, feux rouges et autres), j'ai réussi à me connecter lors d'un passage a Marseille.<br> :date: __2020-06-07 22:08:34__
+> Pas d infornation depuis mon inscription<br> :date: __2020-06-14 09:15:24__
 
-> Application bien faite. Pas convaincu de l'intérêt sachant que tout le monde ne l'aura pas installé mais l'application en soi fonctionne bien. Rien à signaler.<br> :date: __2020-06-07 17:20:01__
+> l'App se met en arrière plan et disparaît à l'écran d'une manière intempestive. Ne sais pas pourquoi ! Dommage que son source ne soit en Open Source pour vérifier ce qu'affirme le gouvernement...<br> :date: __2020-06-13 22:16:32__
 
-> Parfait pour la transparence, Suggestions d'Amélioration : Un compteur indiquant le nombre de portables ayant été en relation serait intéressant. Ceci afin de le correler à notre perception du nombre de personnes côtoyées, et cela permettrait aussi d'améliorer le respect de la distanciation puisque l'on saurait avec combien de personnes nous sommes restés plus d'1/4 d'heure à moins de 1m Correctif technique : L'application ne se reactive pas en sortie du mode avion ou redémarrage (redmi note 7)<br> :date: __2020-06-07 17:01:56__
+> Ne reste pas allumé quand on la ferme malgres l'autorisation du fonctionnement en arrière plan.<br> :date: __2020-06-13 19:58:41__
 
-> Bien pensé, seulement, la plus part des smartphones avec surcouches l'empêche de s'exécuter en continu. Durant le processus d'activation, il faudrait ajouter la demande de permission concernant l'optimisation de batterie.<br> :date: __2020-06-07 15:52:57__
+> La 1ere version ne fonctionnait pas sur mon téléphone en Android 9. La nouvelle version de semble fonctionner<br> :date: __2020-06-13 15:20:29__
 
-> Malgré la communication catastrophique du gouvernement, par civisme j'ai installé cette appli.<br> :date: __2020-06-07 13:51:37__
+> J'étais vraiment septique et je fait très attention à l'utilisation de mes donnés mais force est de reconnaître qu'un bel effort à été fait sur cette application. En revanche l'impact sur la batterie est vraiment significatif. Et j'aurais voulu un petit compteur de personnes croisées car on n'a pas de feedback sur ce que fait l'application.<br> :date: __2020-06-13 14:20:52__
 
-> Malgré que je laisse le bluetooth activé, il faut que chaque jour lorsque j'allume mon téléphone que je pense à me connecter à l'application pour activer stopcovid. C'est pas très pratique.<br> :date: __2020-06-07 12:52:24__
+> Application bien utile. L'application s'arrête parfois sans qu'on sache pourquoi. Il faut alors la relancer manuellement.<br> :date: __2020-06-13 08:03:28__
 
-> Très simple à installer. Une critique : la notification permanente "stopcovid est activé" est gênante<br> :date: __2020-06-07 11:33:17__
+> Très Bien mais il géolocalise et voit se que l'on fait<br> :date: __2020-06-12 17:47:33__
 
-> Utile et facile d'utilisation malgré le fait qu'elle vide la batterie de n'importe quel téléphone ( si vous me croyez pas j'ai un S10)...<br> :date: __2020-06-07 11:28:32__
+> Mettez un compteur de gens croisés, un compteur uptime, ou un truc marrant. Ca apporterait un intérêt a l'application et du coup plus de gens l'utiliserait..<br> :date: __2020-06-12 11:12:41__
 
-> 💜💜💜💜<br> :date: __2020-06-07 10:38:14__
+> Bonjour j'ai installé cette application qui selon moi est top à voir avec le temps.<br> :date: __2020-06-12 10:23:07__
 
-> Semble fonctionner correction sir samsung s10<br> :date: __2020-06-07 10:36:14__
+> Pas assez d'utilisateurs<br> :date: __2020-06-11 21:30:11__
 
 
 
@@ -199,25 +199,25 @@ The StopCovid France app has been installed by more than **500000** times. At th
 <img src="3_star_reviews_wordcloud.png" alt="fr.gouv.android.stopcovid 3 reviews"/>
 </p>
 
-> Obligé de mettre en route l'application après avoir démarré le téléphone, du coup quelques fois j'oublie de la mettre en route à quand une option de démarrage automatique ?<br> :date: __2020-06-07 20:10:48__
+> Bonne initiative, bonne démarche mais... lourd ! Le téléphone est considérablement ralenti et les validations par double authentification en pâtissent lourdement. Dès que vous aurez allégez le fonctionnement, n'hésitez pas à communiquer, je referais un essai. Bonne continuation<br> :date: __2020-06-14 17:51:46__
 
-> Bof !!! Obligé de lancer l'application à chaque démarrage du téléphone. Aucun réglage pour la lancer au démarrage. Résultat une journée de courses sans l'application lancée. Grr !!!<br> :date: __2020-06-07 16:35:42__
+> Mon avis a disparu... Je le réécris... C'est quoi ces notifications plusieurs fois par jour pour dire que l'application est activée??? Je n'espère pas de réponse, je n'en vois pas sous les autres avis...<br> :date: __2020-06-14 10:02:55__
 
-> Personnellement mon téléphone est compatible, il est puissant donc c'est normal.<br> :date: __2020-06-07 12:42:15__
+> Application simple, originale dans le sens où on ne sait pas d'avance si elle nous sera personnellement utile....en revanche, je ne doute pas de son utilité collective. J'utilise de nombreux appareils bluetooth qu' Il m'arrive parfois de de desactiver. A plusieurs reprise stopCovid s'est également désactivé sans que je m'en aperçoive, ce qui la rend inutile. Pourriez vous trouver une solution pour qu'elle reste active tant que l'utilisateur ne la desactive pas volontairement.<br> :date: __2020-06-13 22:10:00__
 
-> J'ai l'impression qu'il se désactive lorsque j'éteins mon téléphone<br> :date: __2020-06-07 12:29:38__
+> l'application se déconnecte tout sol<br> :date: __2020-06-13 17:22:08__
 
-> Fonctionne sans grand défaut me semble-t-il. Jusqu'à redémarrage du tel ou passage en mode avion. 😤🙄 Comment dire ça sans langue de bois. C'EST UNE BLAGUE ??? 😳😳😳 Mon tél fait une mise à jour une fois par mois, je le redémarre de temps en temps en dehors de sa pour diverses raisons. Ben imaginer l'utilité du truc. J'ose espérer que ça va être corrigé rapidement mais j'ai un doute vu qu'une mise à jour vient de passer (elle était du 04/06/2020) et que ce n'était pas dedans.<br> :date: __2020-06-07 12:21:16__
+> Plantages successifs Dommage. Il semble que l'appli plante systématiquement depuis que je l'ai lancée depuis ma voiture. Sûrement un problème lié au bluetooth de ma voiture mais même en l'éteignant le problème persiste après.<br> :date: __2020-06-13 16:21:16__
 
-> Consomme trop de batterie.<br> :date: __2020-06-07 10:14:51__
+> Se désactive toute seule semble t il (3x en 2j) donc je ne vais pas la réactiver toutes les heures ???<br> :date: __2020-06-13 14:01:51__
 
-> Les notifications toutes les demies heures pour dire que l'application fonctionne sont très pénibles Je pense à la désactiver alors que je suis convaincu de son utilité<br> :date: __2020-06-07 09:40:49__
+> Il faut réactiver l'application a chaque fois que le Bluetooth a ete eteint ou que le tel a ete mis en mode avion du coup j'oublie tout le temps de la mettre en route ..... ce n'est pas pratique du tout et je me dit que beaucoup de gens feront comme moi du lappli ne sert pas à grand chose. .... Je desinstalle 😣😢😭<br> :date: __2020-06-13 11:50:05__
 
-> Super application, avec les potes on a enfin réussi à choper un infecté et à le tondre sur la place publique, mais on a même pas reçu de gratification. Il manque également une option pour dénoncer ses voisins. Et il faudrait pouvoir prendre en photo ceux qui ne mettent pas de masques sur cette appli (avec leur adresse bien sûr !) 🙄<br> :date: __2020-06-07 09:25:31__
+> Depuis quelques jours l'application me dit que c'est désactivé alors que mon blutooth est activé. J'ai désinstallé et réinstaller et toujours le même problème...<br> :date: __2020-06-12 21:31:43__
 
-> Entre en conflit avec min application de tracking d'activité de la montre connectée. Celle ci 'e fonctionne plus depuis l'installation de stopcovid et se remet en route des que l'autorisation d'utiliser le bluetooth est retirée a stopcovid (lors d'un redémarrage du smartphone par exemple)<br> :date: __2020-06-07 09:00:05__
+> La notification permanente de l'activation est vraiment pénible... Si je désinstalle l'appli ce sera pour cette unique raison...<br> :date: __2020-06-12 20:32:17__
 
-> En cours d'utilisation sur Xiaomi, le démarrage automatique après un reboot serait apprécié. De plus, il manque un tableau statistiques du nombre de contact Covid-19 positif et négatif 🤔<br> :date: __2020-06-07 07:20:06__
+> Ma batterie dure deux fois moins longtemps depuis que j'ai installé cette application. Je l'ai désactivée, et j'ai observé un retour à la normale.<br> :date: __2020-06-12 15:51:40__
 
 
 
@@ -227,25 +227,25 @@ The StopCovid France app has been installed by more than **500000** times. At th
 <img src="2_star_reviews_wordcloud.png" alt="fr.gouv.android.stopcovid 2 reviews"/>
 </p>
 
-> L application s arrête toute seule dès que le wifi s enlève ou que je le enlève pour basculer sur les données mobiles. L application perd de facto son intérêt puisque je dois la réactiver tout le temps et elle passe sont temps à se désactiver.<br> :date: __2020-06-07 19:17:45__
+> L'application ne cesse de se désactiver. Il n'y a aucune alerte particulière et l'icone de l'application reste présente en haut de l'écran. Donc on ne sait pas que l’application s'est désactivée sauf en l'ouvrant....Comment dans ce cas peut-elle être utile ?<br> :date: __2020-06-14 17:51:45__
 
-> Elle ne peut être installée sur des mobiles qui n'ont que 3 ans. S il faut changer c est dommage. Espérons une version utilisable sur des mobiles plus anciens<br> :date: __2020-06-07 16:51:08__
+> Impossible de l'activer, l'appli est donc inutile.<br> :date: __2020-06-14 10:00:50__
 
-> Appli energivore, avec notif en permanence, et indicateur new toujours présent. Vous connaissez Pierre et Le Loup ? Ben c'est pareil !<br> :date: __2020-06-07 14:14:58__
+> A améliorer svp<br> :date: __2020-06-14 08:23:24__
 
-> Une bonne idée à la base mais des impasses techniques rendent l'expérience totalement inutile et dans le meilleur des cas peu productive : la batterie est mise à rude épreuve (Bluetooth, fonctionnement en arrière plan) et la distance entre 2 utilisateurs est limitée...<br> :date: __2020-06-07 12:34:08__
+> Trop gourmand Désolé, plus de batterie en fin de journée<br> :date: __2020-06-13 19:52:38__
 
-> Pouvez vous me dire comment sa marche ?<br> :date: __2020-06-07 11:00:27__
+> Il semblerait que personne ne veuille se "déclarer"! Pourtant cela pourrait être bien utile. En France, nous avons un état d'esprit exécrable<br> :date: __2020-06-13 14:28:05__
 
-> Il y a un bug. Obligé de supprimer l'app pour pouvoir la réinstaller tous les jours.<br> :date: __2020-06-07 08:38:12__
+> L'application se désinstalle à chaque fois<br> :date: __2020-06-13 14:13:21__
 
-> Appli instable. Il faut la redémarrer tout le temps. Je doute de la qualité du traçage vu le nombre de redémarrage qu'il faut faire. Je viens de faire une màj... À voir...<br> :date: __2020-06-06 22:40:33__
+> Obligé de relancer l'application tous les jours en pas très pratique. Elle devrait se lancer et s activité toute seul.. cela serait plus simple et plus sur pour tout le monde...<br> :date: __2020-06-13 14:11:13__
 
-> Ne fonctionne pas avec tous les smartphones. Domage<br> :date: __2020-06-06 20:24:07__
+> Pas top, obligé de réinstaller au bout de 72h car impossible à redémarrer après un arrêt automatique et non demandé ......<br> :date: __2020-06-13 10:52:43__
 
-> Bonne application seulement il faut penser à réactiver l'application après chaque redémarrage du téléphone vraiment dommage car je n'y pense pas tout le temps Sur Samsung s10<br> :date: __2020-06-06 20:02:33__
+> Il faut l'allumer tous le temps car elle s'éteint ou bout d'un certain temps , du coup inutile 🤔<br> :date: __2020-06-13 09:03:27__
 
-> L'application s'arrête régulièrement et demande une réactivation. Un peu gênant lorsque cette application est censée fonctionner tout le temps afin d'être efficace. Je vais très certainement la désinstaller. Dommage.<br> :date: __2020-06-06 19:10:34__
+> 4500 personnes ont télécharger l'application je trouve ça très peu comparer au nombre de personnes qui font les tests à voir par la suite.<br> :date: __2020-06-12 22:23:42__
 
 
 
@@ -255,24 +255,24 @@ The StopCovid France app has been installed by more than **500000** times. At th
 <img src="1_star_reviews_wordcloud.png" alt="fr.gouv.android.stopcovid 1 reviews"/>
 </p>
 
-> L application se désactive toute seule environ une fois par jour. Il faut constamment vérifier et la réactiver !<br> :date: __2020-06-07 23:32:45__
+> Trop tard, dommage. Très mauvaise communication, dommage. Coût exorbitant, un copain a faire travailler ? Ceci aurait dû être développé au niveau européen mais bon déjà pas foutu de se mettre d'accord, chacun à tirer la couverture à soit pas un pour rattraper les autres. Encore une gestion catastrophique à en dégoûter les peuples de l'Europe 😓<br> :date: __2020-06-14 20:14:38__
 
-> Aucune utilité, je respecte les gestes barrières, pas besoin de ce genre d'application et en plus pour nous surveiller. Non merci<br> :date: __2020-06-07 23:30:53__
+> L'application plante et impossible à redémarrer. Je l'ai réinstallée mais cela n'a pas l'air très abouti. Pompe la batterie<br> :date: __2020-06-14 17:58:41__
 
-> Après deux jours d'activation, l'application c'est désactivé elle-même. Lors de la demande réactivation, elle indique que c'est impossible car Stopcovid est victime de son succès. C'est une bonne nouvelle ! C'est un peu le principe. Il faut qu'un maximum de personnes l'utilisent pour que ce soit utile. Mais encore faudrait-il pouvoir la conserver active. Cela fait donc trois jours que l'activation est impossible. Il faut la désinstaller et la réinstaller pour résoudre le problème.<br> :date: __2020-06-07 22:26:45__
+> Après quelques jours de fonctionnement, l'appli me demande d'activer la géolocalisation. Bien sûr c'est déjà fait mais impossible de lui faire comprendre 🤬🤬 Je vais la désinstaller et réessayer ! Et si c'est toujours pareil tant pis ! Dommage<br> :date: __2020-06-14 17:08:29__
 
-> Facile à installer et à comprendre. Par contre au bout de quelques minutes: un premier message m'indiquant qu'elle s'est arrêtée. Je la redémarre. Et depuis, plusieurs notifications "pour rien". Si ce n'etait pas pour un sujet aussi important, je l'aurais desinstallé. Je baisse la note à la plus basse possible plusieurs jours après installation car elle s'arrête toute seule plusieurs fois par jour et m'envoie des notifications plusieurs fois également pour rien. Inutile....<br> :date: __2020-06-07 22:25:49__
+> Trop de bug Un jour ça fonctionne et 2 jours après on ne peut plus l'activer Je désinstalle<br> :date: __2020-06-14 14:52:32__
 
-> Nulle, dans le principe et dans la réalisation.<br> :date: __2020-06-07 22:05:26__
+> L'application ne se lance pas automatiquement suite au redémarrage du smartphone. Je me suis aperçu qu elle était désactivée depuis plusieurs jours. Mais qu'on ne compte pas sur moi pour l'activer manuellement à chaque redémarrage de mon smartphone.<br> :date: __2020-06-14 13:22:46__
 
-> Depuis la mise à jour, impossible d'activer l'application qui se désactivait toute seule avant... Une phrase dans un encadré rouge apparaît "victime de son succès, réessayez plus tard..."<br> :date: __2020-06-07 21:46:44__
+> L'application ne reste pas activée<br> :date: __2020-06-14 12:23:16__
 
-> Ne fonctionne pas avec le Samsung Galaxy j5.<br> :date: __2020-06-07 20:51:47__
+> Sérieusement.. il faut que je réactive l'application à chaque sortie<br> :date: __2020-06-14 12:16:56__
 
-> La notification qui reste en permanence c'est insupportable et si on désactive les notifications ça ne fonctionne plus. En plus ça pompe la batterie.<br> :date: __2020-06-07 20:36:03__
+> Seul le SDK est open-source, dommage que l'application ne le soit pas, donc impossible de vérifier la bonne foi de cette app.<br> :date: __2020-06-14 12:01:50__
 
-> Décevant de croire le gouvernement, justement quand ils di que rien n'est collecté, c'est comme les masques mouai pas besoin. Croire touj le contraire d'un guouv<br> :date: __2020-06-07 20:03:58__
+> Désinstallé très rapidement quand j'ai constaté que la batterie se déchargeait à la vitesse de la lumière.<br> :date: __2020-06-14 11:34:57__
 
-> Depuis la dernière mise à jour, je ne peux plus l'activer, j'ai du la supprimer et la réinstaller. Cela fausse les stats de téléchargements<br> :date: __2020-06-07 19:55:04__
+> Un vrai fiasco ! Combien ça a coûté aux contribuables encore cette fameuse et extraordinaire application victime de son succès qui ne fonctionne même pas correctement ?<br> :date: __2020-06-14 11:23:06__
 
 

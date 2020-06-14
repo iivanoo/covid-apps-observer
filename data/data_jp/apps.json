@@ -4,20 +4,20 @@
         "store_country": "jp",
         "store_lang": "jp",
         "latest_crawled_version": "2.1.2",
-        "latest_crawl": 1591569774
+        "latest_crawl": 1592163086
     },
     {
         "id": "de.xikolo.openwho",
         "store_country": "jp",
         "store_lang": "jp",
         "latest_crawled_version": "3.3.1",
-        "latest_crawl": 1591569801
+        "latest_crawl": 1592163092
     },
     {
         "id": "jp.co.maff.maffapp",
         "store_country": "jp",
         "store_lang": "jp",
         "latest_crawled_version": "1.0.2",
-        "latest_crawl": 1591569810
+        "latest_crawl": 1592163101
     }
 ]

@@ -126,6 +126,16 @@ The WHO Info app has been installed by more than **100000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="org.who.infoapp 5 reviews"/>
 </p>
 
+> Good<br> :date: __2020-06-10 20:34:34__
+
+> hi md zihad mia<br> :date: __2020-06-10 12:49:41__
+
+> Bala bals<br> :date: __2020-06-10 06:34:10__
+
+> Ok<br> :date: __2020-06-10 03:01:27__
+
+> ➕➕🅰🅰🅰➕➕ 🍀🍀😊😊😊🍀🍀 📖📖🙏🙏🙏📖📖<br> :date: __2020-06-08 13:46:53__
+
 > its good for us thamk you W.H.O<br> :date: __2020-06-06 16:10:24__
 
 > Cumilla Debidwer Gunaighar<br> :date: __2020-06-06 15:19:02__
@@ -136,16 +146,6 @@ The WHO Info app has been installed by more than **100000** times. At this time,
 
 > fine<br> :date: __2020-06-05 16:20:47__
 
-> Google play<br> :date: __2020-06-05 07:01:18__
-
-> Excellent<br> :date: __2020-06-04 22:53:18__
-
-> Install and Update WHO info app.<br> :date: __2020-06-04 15:00:31__
-
-> I need it<br> :date: __2020-06-04 13:55:37__
-
-> It show nice and accurate information which is nice<br> :date: __2020-06-04 10:44:03__
-
 
 
 #### 4-star reviews
@@ -153,8 +153,6 @@ The WHO Info app has been installed by more than **100000** times. At this time,
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="org.who.infoapp 4 reviews"/>
 </p>
-
-> good<br> :date: __2020-06-07 04:28:25__
 
 > good<br> :date: __2020-06-03 00:37:10__
 
@@ -210,6 +208,8 @@ The WHO Info app has been installed by more than **100000** times. At this time,
 <img src="1_star_reviews_wordcloud.png" alt="org.who.infoapp 1 reviews"/>
 </p>
 
+> Cannot download cv19 app<br> :date: __2020-06-08 15:19:41__
+
 > Want to learn<br> :date: __2020-05-27 11:52:00__
 
 > How can I change the language?<br> :date: __2020-05-19 00:43:45__
@@ -227,7 +227,5 @@ The WHO Info app has been installed by more than **100000** times. At this time,
 > Application is a waste of time, just like the organization.<br> :date: __2020-05-08 14:00:29__
 
 > Chinese propaganda<br> :date: __2020-05-06 11:43:52__
-
-> Keeps coming Up with typing error<br> :date: __2020-05-06 02:07:37__
 
 

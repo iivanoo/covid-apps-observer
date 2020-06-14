@@ -206,6 +206,8 @@ No recent reviews available with 2 stars.
 <img src="1_star_reviews_wordcloud.png" alt="appinventor.ai_david_taylor.Coronavirus_help2020 1 reviews"/>
 </p>
 
+> Turns out I didn't need an app for a mysteriously absent virus that has killed worldwide less than seasonal flu.<br> :date: __2020-06-09 10:13:17__
+
 > NO NO NO this app sucks Firstly, it was developed by a 5 year old Secondly it damaged my device. Finally it gave me Coronavirus<br> :date: __2020-04-27 15:32:13__
 
 > If I wanted to see a picture of the word caronavirus I can Google one . Other than this it's pretty useless probably worst app I've encountered<br> :date: __2020-04-17 14:09:13__

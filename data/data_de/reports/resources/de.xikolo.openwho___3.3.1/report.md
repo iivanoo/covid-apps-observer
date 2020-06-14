@@ -213,6 +213,8 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 <img src="1_star_reviews_wordcloud.png" alt="de.xikolo.openwho 1 reviews"/>
 </p>
 
+> Es wird immer lustiger<br> :date: __2020-06-14 18:17:12__
+
 > Gibt es dies nicht in Deutscher Sprache ? Dann lösche ich dies gleich wieder.<br> :date: __2020-06-03 20:05:16__
 
 > Gates Trash<br> :date: __2020-05-31 14:34:34__
@@ -230,7 +232,5 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 > Unbrauchbar bitte in Deutsch übersetzen ansonsten löschen 😡 und dann ist jeder zu hundertprozentig gut Englisch kann Schulenglisch ist anderes wie richtiges Englisch sollte das bitte auch auf deutsch sein weil in Deutschland sterben die Leute ja auch und nicht nur in der Türkei oder Iran oder wo auch immer bitte auf Deutsch danke<br> :date: __2020-04-16 23:12:00__
 
 > Kein Deutsch<br> :date: __2020-04-16 01:55:15__
-
-> Kein deutsch<br> :date: __2020-04-13 17:57:42__
 
 

@@ -118,6 +118,10 @@ The COVID-19.eus app has been installed by more than **50000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="com.erictelm2m.colabora 5 reviews"/>
 </p>
 
+> Súper útil para evitar contagios y nuevos rebrotes!!<br> :date: __2020-06-11 09:18:56__
+
+> Falta mas desarrollo pero veo constantes cambios que me dicen que mejorara la app. Puede darnos información muy útil si todos la usamos, y podría evitar q gente con riesgo se mezcle en ciertos sitios, supongo q para eso es el QR. Ya lo hicieron en China. Ademas tienes mucha información actualizada. Mis 5 estrellas para impulsarla y para que sigáis trabajando. Animo a los demás a hacer lo mismo. Hemos estado aplaudiendo a los sanitarios y podemos dar apoyar también con nuestro voto. Gracias.<br> :date: __2020-06-10 16:30:41__
+
 > Es una pena que la gente no colabore por miedo a que nos controlen, pero no se dan cuenta que es una herramienta que puede ayudarnos a controlar la pandemia que es para lo que realmente está destinada....<br> :date: __2020-06-07 10:40:23__
 
 > Bueno.<br> :date: __2020-06-07 10:29:20__
@@ -133,10 +137,6 @@ The COVID-19.eus app has been installed by more than **50000** times. At this ti
 > Es informstivo<br> :date: __2020-05-31 01:28:42__
 
 > Todo bien, gracias!<br> :date: __2020-05-28 10:54:44__
-
-> en español fantástico<br> :date: __2020-05-27 16:36:43__
-
-> Es una aplicación muy útil en esta pandemia y la debería descargar todo el mundo para que seamos conscientes de quien esta a nuestro alrededor<br> :date: __2020-05-25 21:38:54__
 
 
 
@@ -174,6 +174,10 @@ The COVID-19.eus app has been installed by more than **50000** times. At this ti
 <img src="3_star_reviews_wordcloud.png" alt="com.erictelm2m.colabora 3 reviews"/>
 </p>
 
+> No puedo cambiar un familiar a home si vive en mi casa, si pudiese hacerlo le daría más estrellas<br> :date: __2020-06-11 10:47:28__
+
+> Esta bien, Le falta mejoras como poder editar tu información y que se lea mejor el texto para que sea una aplicación familiar y confortable.<br> :date: __2020-06-08 03:08:14__
+
 > No se, no le acabo de ver la utilidad<br> :date: __2020-06-07 13:04:02__
 
 > Debería permitir saber qué contactos la tienen instalada.<br> :date: __2020-06-07 10:46:12__
@@ -190,10 +194,6 @@ The COVID-19.eus app has been installed by more than **50000** times. At this ti
 
 > La han mejorado, pero sigue siendo muy difícil (por no decir imposible) agregar a contactos que ya tienen la app a tus círculos. Por favor, SI NO FUNCIONA BIEN, SI NO ES FÁCIL, NO SE USARÁ. Y entonces esta app no servirá de nada, cuando la idea es muy buena. Estimados desarrolladores, por favor, intenten arreglar o facilitar el sistema de agregar contactos a los círculos (no únicamente mandar las invitaciones). Gracias.<br> :date: __2020-05-15 12:38:05__
 
-> Aunque me llegan notificaciones luego no puedo leerlas en la aplicación. Y a pesar de que pulso sobre el icono de sobre/notificación siempre me abre propuestas de aislamiento.<br> :date: __2020-05-12 07:01:35__
-
-> Tengo la aplicación desde prácticamente el primer día, y me resulta curioso que por un lado me diga que mi último estado es del 10 de abril (cuando la instalé), cuando lo hago todos los días, que imagino que por eso dice algo confiable. Por otro lado, mi mujer también la tiene bajada, la tengo en el circulo familia y el circulo aparece vació de gente<br> :date: __2020-05-07 21:47:08__
-
 
 
 #### 2-star reviews
@@ -201,6 +201,12 @@ The COVID-19.eus app has been installed by more than **50000** times. At this ti
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="com.erictelm2m.colabora 2 reviews"/>
 </p>
+
+> A mi me sale que tengo 3 contagiados en mi zona no en mis conctactos eso como lo tengo que tomar<br> :date: __2020-06-10 23:59:50__
+
+> La ultima actuallizacion no se me descarga<br> :date: __2020-06-10 11:56:18__
+
+> Instalo y no me coje mi codigo postal, pone todo el rato el de otra localidad y no deja editar los datos para poner el cp correcto.<br> :date: __2020-06-08 11:33:07__
 
 > Korapilatsua<br> :date: __2020-06-07 11:30:45__
 
@@ -214,13 +220,7 @@ The COVID-19.eus app has been installed by more than **50000** times. At this ti
 
 > Ya accede a la agenda de contactos , ok, pero a lo que le refiero es que si en una persona de la agenda tienes varios números guardados, no deja seleccionar uno de ellos, si que la aplicación selecciona uno. En ocasiones puede ser que ese número no sea el que quieres, por ejemplo, un teléfono fijo o de trabajo.<br> :date: __2020-05-04 13:40:28__
 
-> Buena<br> :date: __2020-05-02 20:02:06__
-
 > Prácticamente no sirve de nada si no permite importar la agenda. La idea es buena.<br> :date: __2020-04-25 19:31:50__
-
-> No creo que sea una app accesible para las personas con discapacidad auditiva o sordas, .a rellenar los datos habría que poner el número de teléfono y no pueden telefonear por sordera. Y el chat bloqueado.<br> :date: __2020-04-15 19:59:08__
-
-> No permite rectificar en los círculos. Yo me he equivocado entre Casa y Familia y no puedo cambiar. Luego la información no es del todo veraz.<br> :date: __2020-04-12 10:27:49__
 
 
 

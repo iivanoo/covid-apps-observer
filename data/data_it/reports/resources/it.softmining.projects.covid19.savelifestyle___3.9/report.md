@@ -185,6 +185,18 @@ The SM_Covid19 app has been installed by more than **50000** times. At this time
 <img src="5_star_reviews_wordcloud.png" alt="it.softmining.projects.covid19.savelifestyle 5 reviews"/>
 </p>
 
+> Ok<br> :date: __2020-06-14 18:34:04__
+
+> Molto buona<br> :date: __2020-06-13 00:50:56__
+
+> Buona giornata 😎. Va bene. Funziona bene<br> :date: __2020-06-12 15:56:36__
+
+> Se funziona sarebbe eccezionale<br> :date: __2020-06-11 18:10:06__
+
+> Ho da poco installato l'app e devo dire che non è male per niente anzi ha una schermata davvero carina e semplice da usare.<br> :date: __2020-06-10 11:45:26__
+
+> Spero che serva, ma serve anche per quelli che non hanno contratto il Covid 19, siccome da 1 al 15 agosto 2020 dovrei recarmi ad Porto San Maurizio in provincia di Imperia Liguria Italia Italie Italy. Oltre ad installare questa applicazione si dobbiamo fare i 3 tamponi e eseguire l'autocertificazione quella per l'uscita dal Piemonte ovvero dal capoluogo Torino TO alla Liguria, Porto San Maurizio, in provincia di Imperia IM, siccome dovremmo convivere insieme in un alloggio bilocale. Luisa<br> :date: __2020-06-08 14:22:11__
+
 > Molto utile<br> :date: __2020-06-07 20:15:19__
 
 > Ok<br> :date: __2020-06-07 15:58:14__
@@ -193,18 +205,6 @@ The SM_Covid19 app has been installed by more than **50000** times. At this time
 
 > Oggi disinstallo l'app dopo 2 mesi di utilizzo perché ho installato ieri Immuni. Lo Stato d'altronde ha sviluppato internamente l'app ufficiale e ha deciso di non utilizzare la vostra. Non trovo utilità ad utilizzare la vostra app in quanto priva del rapporto ufficiale con le istituzioni. Ho contribuito con i miei dati al test di Sm_covid19 e mi auguro la softmining possa trovare vantaggio di questo e nel futuro sviluppare altre app utili. Ciao e buon lavoro<br> :date: __2020-06-07 12:35:51__
 
-> Mi aiuta<br> :date: __2020-06-07 07:44:15__
-
-> Comodissima 😊😊😊<br> :date: __2020-06-06 23:36:59__
-
-> Complimenti state facendo un buon lavoro anche se questo risultato lo otterrete solo grazie al numero di chi scaricherà l'app, comunque io penso di essere stato uno dei primi a scaricarla, ed attualmente sta funzionando molto bene contrariamente ad immuni che ho scaricato da circa una settimana e fino ad ora non ho ancora capito se veramente c'è Continuate a migliorare e speriamo che molte persone si convicono che la tecnologia può veramente aiutarci ed essere utile.<br> :date: __2020-06-06 21:05:13__
-
-> Molto utile<br> :date: __2020-06-06 20:12:43__
-
-> Utile<br> :date: __2020-06-06 13:37:39__
-
-> Dopo il chiarimento informativo dell'autore posso dire che merita 5 stelle, e grazie delle informazioni<br> :date: __2020-06-06 11:54:12__
-
 
 
 #### 4-star reviews
@@ -212,6 +212,12 @@ The SM_Covid19 app has been installed by more than **50000** times. At this time
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="it.softmining.projects.covid19.savelifestyle 4 reviews"/>
 </p>
+
+> Non sono riuscito a capire quando il n.aumenta cosa devo fare?<br> :date: __2020-06-12 16:01:33__
+
+> Ancora presto<br> :date: __2020-06-11 18:49:30__
+
+> Meglio di immuni, che non è nemmeno compatibile con il mio telefono, questa invece è molto semplice come app e molto più completa (ho scaricato l'app immuni con un altro telefono)<br> :date: __2020-06-08 08:24:29__
 
 > Avendo scaricato e poi disinstallato subito Immuni, sembra che questa app sia di gran lunga migliore. Ma vedremo, io lavorando in strada, a Milano, tra la gente, per acquedotto, sono più a rischio di tanti altri. Mi frega poco della privacy,anche perché siamo già ultracontrollati anche senza app,se mi sarà utile la tengo altrimenti disinstallo. PERCHÉ PER APPLE NN C'È APP? . 👍<br> :date: __2020-06-07 20:14:41__
 
@@ -226,12 +232,6 @@ The SM_Covid19 app has been installed by more than **50000** times. At this time
 > Ok<br> :date: __2020-06-03 20:43:20__
 
 > buono<br> :date: __2020-06-03 20:41:13__
-
-> Finché viene usata da poche persone in Campania, mi sembra piuttosto inutile. Comunque sia, ora che è disponibile anche l'app Immuni del Ministero della Salute, continuiamo a tenere SM_Covid19 ?<br> :date: __2020-06-02 14:03:22__
-
-> Molto interessante<br> :date: __2020-05-22 05:46:37__
-
-> Discreta precisione, vedremo in luoghi aperti<br> :date: __2020-05-18 01:27:06__
 
 
 
@@ -269,9 +269,11 @@ The SM_Covid19 app has been installed by more than **50000** times. At this time
 <img src="2_star_reviews_wordcloud.png" alt="it.softmining.projects.covid19.savelifestyle 2 reviews"/>
 </p>
 
-> Non sicura<br> :date: __2020-06-06 19:22:21__
+> Mi sembra una stronzata come app come fa a sapere se uno è veramente positivo o negativo senza tampone? Poi se l tocca un altro il cell cambia o no? Sec me na cavolata l altra volta m diceva che ero poco rischioso ora mi dice tutto bene mha<br> :date: __2020-06-08 13:48:07__
 
-> Una app ubriaca di energia, asciuga la batteria. Destinata a smettere di funzionare insieme al telefono : una delusione 😣. Domando agli sviluppatori se è stata testata per un uso normale e continuativo di almeno 6/8 ore su un dispositivo con attività tipica in contemporanea ad altre app.<br> :date: __2020-06-02 22:23:22__
+> Non è chiaro il significato dell'indice (e le varie soglie), né sono indicate le procedure da fare in caso indicasse una situazione di potenziale pericolo. Inoltre è molto fastidioso il continuo vibrare delle notifiche push che arrivano più o meno ogni ora, inclusa la notte. Vibrazione che a quanto pare è impossibile disabilitare.<br> :date: __2020-06-08 11:13:44__
+
+> Non sicura<br> :date: __2020-06-06 19:22:21__
 
 > la volevo scaricare ma non mi fa andare avanti,boh...<br> :date: __2020-06-01 20:40:14__
 
@@ -287,8 +289,6 @@ The SM_Covid19 app has been installed by more than **50000** times. At this time
 
 > Consuma troppa batteria. Sarebbe interessante avere qualche informazione in più da consultare, se si entra in contatto con qualcuno, statistiche di utilizzo degli altri utenti etc... Ho uno Xiao Mi Note 10<br> :date: __2020-05-04 15:13:22__
 
-> Ci sono sempre gli asintomatici, poi scusate se una persona non accende il blautoot come fa a segnare i positivi??<br> :date: __2020-04-30 05:35:49__
-
 
 
 #### 1-star reviews
@@ -296,6 +296,14 @@ The SM_Covid19 app has been installed by more than **50000** times. At this time
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="it.softmining.projects.covid19.savelifestyle 1 reviews"/>
 </p>
+
+> Non buona come app.<br> :date: __2020-06-10 19:39:46__
+
+> Non la scaricate e un virus<br> :date: __2020-06-09 09:17:18__
+
+> Non è possibile una notifica ogni 30 secondi<br> :date: __2020-06-08 16:29:53__
+
+> Non so neanche se è utile!<br> :date: __2020-06-08 13:10:50__
 
 > Mi spiace ma l'ho disitallata. L'ho avuta per qualche giorno e ieri sono stata a casa da sola dalle 13:00 fino a questa mattina DA SOLA e mi ha segnalato se non ricordo male un incremento di 3.0 quando invece ANDANDO a fare commissioni mi segnalava 0.93. Non l'ho trovata attendibile. Mi spiace.<br> :date: __2020-06-07 09:22:29__
 
@@ -308,13 +316,5 @@ The SM_Covid19 app has been installed by more than **50000** times. At this time
 > Inutile<br> :date: __2020-06-04 12:30:10__
 
 > Non è quella ufficiale del Governo!!<br> :date: __2020-06-04 07:07:20__
-
-> Ma in Toscana, funziona!?<br> :date: __2020-06-03 16:54:50__
-
-> Dovendo tenere attivo il bluetooth mi fa sprecare troppa batteria. La ritengo utile, ma non con Bluetooth<br> :date: __2020-06-02 17:33:40__
-
-> È complicata, e sicuramente banale.<br> :date: __2020-06-02 10:23:03__
-
-> Al momento impossibile valutare. È bloccata da ieri 1giugno mentre aprivo. Ancora bloccata verso la fine. Non sono riuscito a completare l'installazione.<br> :date: __2020-06-02 08:27:01__
 
 
