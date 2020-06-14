@@ -199,6 +199,8 @@ The COVID Symptom Study app has been installed by more than **1000000** times. A
 <img src="5_star_reviews_wordcloud.png" alt="com.joinzoe.covid_zoe 5 reviews"/>
 </p>
 
+> Easy and quick<br> :date: __2020-06-14 19:16:28__
+
 > Very good<br> :date: __2020-06-14 18:54:40__
 
 > Very straightforward.<br> :date: __2020-06-14 18:47:34__
@@ -217,8 +219,6 @@ The COVID Symptom Study app has been installed by more than **1000000** times. A
 
 > Easy to use and comprehensive.<br> :date: __2020-06-14 16:13:48__
 
-> Takes hardly any time to complete every day.<br> :date: __2020-06-14 16:07:55__
-
 
 
 #### 4-star reviews
@@ -226,6 +226,8 @@ The COVID Symptom Study app has been installed by more than **1000000** times. A
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.joinzoe.covid_zoe 4 reviews"/>
 </p>
+
+> A worthy cause. App is generally easy to use, but not super easy.<br> :date: __2020-06-14 19:25:14__
 
 > The app works OK. I am running it on an Android emulator on my PC as I don't have a smart phone. It would be more convenient to have a Windows version.<br> :date: __2020-06-14 15:10:36__
 
@@ -244,8 +246,6 @@ The COVID Symptom Study app has been installed by more than **1000000** times. A
 > Easy to use<br> :date: __2020-06-13 15:42:49__
 
 > Simple to use. Once set up, takes a couple minutes a day.<br> :date: __2020-06-13 12:30:53__
-
-> Quick to install and set up and takes seconds each day to add your personal update<br> :date: __2020-06-13 11:49:22__
 
 
 
