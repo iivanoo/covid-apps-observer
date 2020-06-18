@@ -13,7 +13,7 @@ With this project we aim at providing useful insights about COVID-related mobile
 The slide deck below gives an overview about the project, including its goal, motivation, target audience, and the collected data. 
 
 <p align="center">
-<img src="./slide_deck_cover.png" alt="Slide deck about the project" width="400"/>
+<a href="https://docs.google.com/presentation/d/1O6vBbqjbI7X6ApTSspc9D-YpG_3xwugGgwXJ9SN0nIk" target="_blank"><img src="./slide_deck_cover.png" alt="Slide deck about the project" width="400"/></a>
 </p>
 
 The inspection of each mobile app is structured around five main dimensions:
@@ -29,7 +29,7 @@ The inspection of each mobile app is structured around five main dimensions:
 :speaking_head: User ratings and reviews
 
 <p align="center">
-<a href="https://docs.google.com/presentation/d/1O6vBbqjbI7X6ApTSspc9D-YpG_3xwugGgwXJ9SN0nIk" target="_blank"><img src="https://media.giphy.com/media/lOxJZCPqVvVTVH5q2d/giphy.gif" alt="Report preview" width="600"/></a>
+<img src="https://media.giphy.com/media/lOxJZCPqVvVTVH5q2d/giphy.gif" alt="Report preview" width="600"/>
 </p>
 
 As you can imagine, we collect several data points for each dimension so the best way to get an idea about the information we provide is to directly look at one of our reports (see the table below).  
