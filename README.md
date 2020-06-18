@@ -8,10 +8,12 @@ Web scraper and analyzer of COVID-related Android apps
 # What is it about?
 Several mobile apps are being developed and released to the public in order to ease the tracking of COVID-19 and to inform people about key facts and procedures related to this virus.   
 
-With this project we aim at providing useful insights about COVID-related mobile apps available to the public, ranging from the privacy-related permissions they request, contacted servers, users' perceptions, security-related issues, and so on. In order to extract those insights, we setup a dedicated analysis tool and we are running it **weekly** and on a **nation-by-nation** basis. 
+With this project we aim at providing useful insights about COVID-related mobile apps available to the public, ranging from the privacy-related permissions they request, contacted servers, users' perceptions, security-related issues, and so on. In order to extract those insights, we setup a dedicated analysis tool and we are running it **weekly** and on a **nation-by-nation** basis.
+
+The slide deck below gives an overview about the project, including its goal, motivation, target audience, and the collected data. 
 
 <p align="center">
-<img src="https://media.giphy.com/media/lOxJZCPqVvVTVH5q2d/giphy.gif" alt="Report preview" width="600"/>
+<img src="./slide_deck_cover.png" alt="Slide deck about the project" width="400"/>
 </p>
 
 The inspection of each mobile app is structured around five main dimensions:
@@ -25,6 +27,10 @@ The inspection of each mobile app is structured around five main dimensions:
 :closed_lock_with_key: Security issues in the code of the app
 
 :speaking_head: User ratings and reviews
+
+<p align="center">
+<a href="https://docs.google.com/presentation/d/1O6vBbqjbI7X6ApTSspc9D-YpG_3xwugGgwXJ9SN0nIk" target="_blank"><img src="https://media.giphy.com/media/lOxJZCPqVvVTVH5q2d/giphy.gif" alt="Report preview" width="600"/></a>
+</p>
 
 As you can imagine, we collect several data points for each dimension so the best way to get an idea about the information we provide is to directly look at one of our reports (see the table below).  
 
