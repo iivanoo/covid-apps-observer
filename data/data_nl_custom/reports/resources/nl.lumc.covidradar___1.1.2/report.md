@@ -140,6 +140,8 @@ The COVID Radar app has been installed by more than **50000** times. At this tim
 <img src="5_star_reviews_wordcloud.png" alt="nl.lumc.covidradar 5 reviews"/>
 </p>
 
+> Fijn om hier aan deel te nemen aan een zéér belangrijk onderzoek.<br> :date: __2020-06-13 12:04:05__
+
 > Goed veel info over het verloop en anoniem op postcode👍<br> :date: __2020-06-07 17:01:26__
 
 > Heel goed<br> :date: __2020-05-23 11:38:51__
@@ -157,8 +159,6 @@ The COVID Radar app has been installed by more than **50000** times. At this tim
 > Wetenschap is alles<br> :date: __2020-04-18 22:30:28__
 
 > Zeer goed initiatief voor onderzoek. Doe mee, en help in de strijd tegen corona!<br> :date: __2020-04-16 11:43:49__
-
-> Good<br> :date: __2020-04-14 18:37:17__
 
 
 
@@ -196,6 +196,8 @@ The COVID Radar app has been installed by more than **50000** times. At this tim
 <img src="3_star_reviews_wordcloud.png" alt="nl.lumc.covidradar 3 reviews"/>
 </p>
 
+> De vraag hoeveel mensen binnen 5 meter kwamen is niet te beantwoorden als je dagelijks een wandeling in het park maakt. 5 of 50? Ik stop ermee<br> :date: __2020-06-20 20:29:35__
+
 > Meerdere gebruikers schreven het al : de schuifbalken zijn veel te gevoelig waardoor onbedoeld hoge waarden worden doorgegeven. Gebeurt vooral bij scrollen. Bijvoorbeeld 15 bezoekers gehad terwijl dit eigenlijk 0 had moeten zijn. Mijn inziens worden de uitkomsten dus onbetrouwbaar. Kijk het nog weekje aan, anders stop ik.<br> :date: __2020-04-29 15:13:12__
 
 > Leek een aardige app. Kap ermee want de 5m regel is niet uitvoerbaar<br> :date: __2020-04-25 19:37:29__
@@ -213,8 +215,6 @@ The COVID Radar app has been installed by more than **50000** times. At this tim
 > mooie app. leuke update tip:. via gps als iemand in buurt komt gaat app rinkelen blijf uit buurt. of houd afstand. of meld ik was / ben ziek / ziek in buurt pas op. dit helpt<br> :date: __2020-04-14 08:29:17__
 
 > Push notificaties verschijnen niet elke dag, hierdoor kan invullen vergeten worden.<br> :date: __2020-04-13 12:23:59__
-
-> Één vraag vind ik lastig om te beoordelen. Is je co ouder kind en LAT relatie een persoon binnen of buiten je huishouden? Beide komen namelijk in minder dan 1,5m afstand met zowel mij als voor mij onbekende mensen buiten mijn huis in aanraking. Hoe betrouwbaar kan je hier een antwoord op geven? Er zijn nogal wat gebroken gezinnen in het land.<br> :date: __2020-04-12 18:45:13__
 
 
 
@@ -252,6 +252,12 @@ The COVID Radar app has been installed by more than **50000** times. At this tim
 <img src="1_star_reviews_wordcloud.png" alt="nl.lumc.covidradar 1 reviews"/>
 </p>
 
+> Kan veel beter<br> :date: __2020-06-20 08:45:51__
+
+> Waardeloze app. Schuiven zitten in de weg<br> :date: __2020-06-16 23:46:00__
+
+> Slechte app. Instellen van gegevens d.m.v schuifbalkje is niet goed in te stellen, en gaat zomaar van een laag naar hoog getal<br> :date: __2020-06-10 19:16:10__
+
 > Ik heb de app geïnstalleerd en de vragen beantwoord. Er kwam uit dat ik Covid heb zonder koorts. Ik moet gelijk een arts raadplegen en het huis niet verlaten. Ik heb waarschijnlijk zeker geen Covid maar wel astma en longproblemen. En OSAS. Zo kan je van half Nederland zeggen dat ze Covid hebben<br> :date: __2020-06-06 13:38:25__
 
 > Deze radar draagt niks bij aan de weg terug naar een samenleving zonder 1.5m. Hier geef ik mijn privacy niet voor op. App verwijderd.<br> :date: __2020-05-17 10:57:47__
@@ -265,11 +271,5 @@ The COVID Radar app has been installed by more than **50000** times. At this tim
 > App sluit niet af en heeft ook geen exit of quit optie<br> :date: __2020-05-08 19:17:30__
 
 > Ik merk het volgende mankement op bij de COVID Radar: Ik lig in het ziekenhuis voor een hartinfarct en vandaar geef ik afwijkende antwoorden, maar ik kan de reden niet vermelden......<br> :date: __2020-05-01 21:07:48__
-
-> Sinds de laatste wijziging werkt de laatste vraag (aantal binnen 1,50 m) niet meer . De nieuwe vraag (aantal binnen 5 m) gaat tot 20. Ik telde gisteren bij een fietsritje van een uur 100. Het nut van deze vraag is me niet duidelijk. Uitleg wat wordt verstaan onder uit huis is nodig. Is de tuin uit huis? Je eigen erf? Gaat het om openbare ruimte? Nu het niet goed meer werkt stop ik met invullen.<br> :date: __2020-04-24 07:48:26__
-
-> Wat moet je met deze troep<br> :date: __2020-04-19 15:24:06__
-
-> Onduidelijke vragen. De vraag over werk... Ik werk niet meer, ben "oudere". De op twee na laatste vraag en de laatste vraag zijn het zelfde. Denk niet dat dit iets oplevert. Werk samen, alle deskundigen en ziekenhuizen aan één app ipv ieder een eigen app met andere invalshoek<br> :date: __2020-04-10 10:45:23__
 
 

@@ -182,10 +182,12 @@ No recent reviews available with 4 stars.
 #### 3-star reviews
 
 <p align="center">
-
+<img src="3_star_reviews_wordcloud.png" alt="de.xikolo.openwho 3 reviews"/>
 </p>
 
-No recent reviews available with 3 stars.
+> Tja weet het nog niet echt lijkt me beetje vaag<br> :date: __2020-06-14 19:44:44__
+
+
 
 #### 2-star reviews
 
