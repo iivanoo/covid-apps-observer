@@ -168,6 +168,10 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 <img src="5_star_reviews_wordcloud.png" alt="gov.fema.mobile.android 5 reviews"/>
 </p>
 
+> Stays updated<br> :date: __2020-06-18 04:05:32__
+
+> Nice app<br> :date: __2020-06-15 19:39:57__
+
 > Have never had a problem with FEMA /ALL their programs for me have been spot on and the assistance needed has been prompt THANK YOU GOVERNMENT PROGRAMS!!!!!<br> :date: __2020-06-11 13:16:40__
 
 > Great<br> :date: __2020-06-11 11:42:51__
@@ -183,10 +187,6 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 > You can receive alerts for multiple areas. The app has everything from weather alerts to information on disaster preparedness. I've not used but you can also call 911 with it.<br> :date: __2020-06-06 16:21:09__
 
 > Now I can hear all my emgincay updated information<br> :date: __2020-06-06 06:36:37__
-
-> Resourceful App Absolutly!<br> :date: __2020-06-02 04:24:22__
-
-> A most un-intrusive app no garbage like most apps BUT WARNINGS KEEP MY FAMILY SAFE. PROBABLY AMONG MY TOP TEN APPS<br> :date: __2020-05-29 21:02:24__
 
 
 
@@ -252,6 +252,8 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 <img src="2_star_reviews_wordcloud.png" alt="gov.fema.mobile.android 2 reviews"/>
 </p>
 
+> This app did not help me.<br> :date: __2020-06-19 19:14:29__
+
 > It really does do absolutely nothing. Not even sure why i have it<br> :date: __2020-04-28 15:16:55__
 
 > Alerts are way too excessive.. It's a little windy in my area and I get notifications what feel like every 5 minutes. Had to delete the app because it was so annoying.<br> :date: __2020-04-10 21:47:54__
@@ -270,8 +272,6 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 
 > Why new permission without reason? Added finsky bind referer without statement of why or what for<br> :date: __2018-10-09 16:45:58__
 
-> It was doing okay until Trump got a hold of it I'll just stick to the weather apps<br> :date: __2018-10-06 06:52:37__
-
 
 
 #### 1-star reviews
@@ -279,6 +279,12 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="gov.fema.mobile.android 1 reviews"/>
 </p>
+
+> The app should work off line. I cannot use the app with cellular data. Alerts set to my location only notify me when I have Wi-Fi and completely disappear if I'm not connected. How is this convenient during a disaster?<br> :date: __2020-06-21 22:29:23__
+
+> App can not be moved to external SD memory<br> :date: __2020-06-15 13:42:40__
+
+> It said my location was covered by neighbors county. It didn't recognize two different counties. Maybe better for largecities.<br> :date: __2020-06-15 02:05:50__
 
 > Digital contact tracing not mentioned in app<br> :date: __2020-06-13 19:42:11__
 
@@ -293,11 +299,5 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 > It needs to be user-friendly you need to hire a real designer to do it correctly. You need to be all the tie and the other government in it also local government agencies needs to be tight end. Need a better alert system Cayenne with it<br> :date: __2020-06-01 17:33:00__
 
 > It doesn't work. The government sucks cum bubble.<br> :date: __2020-05-28 19:26:04__
-
-> Unfriendly<br> :date: __2020-05-26 22:15:06__
-
-> It doesn't include covid-19<br> :date: __2020-05-26 16:01:04__
-
-> stinks not informable<br> :date: __2020-04-16 18:51:22__
 
 

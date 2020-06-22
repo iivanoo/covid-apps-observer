@@ -185,25 +185,25 @@ The SM_Covid19 app has been installed by more than **50000** times. At this time
 <img src="5_star_reviews_wordcloud.png" alt="it.softmining.projects.covid19.savelifestyle 5 reviews"/>
 </p>
 
+> Ottima App<br> :date: __2020-06-21 12:55:37__
+
+> Funziona bene<br> :date: __2020-06-20 17:42:45__
+
+> App.eccellentissima,<br> :date: __2020-06-19 00:17:17__
+
+> Consuma troppo riprovare e controllare... 1 ora e la batteria è giù ....arcano scoperto è incompatibile con immuni l'app governativa ... #veneto1st<br> :date: __2020-06-17 22:56:28__
+
+> Questa app funziona, al contrario di Immuni che non va....<br> :date: __2020-06-16 22:48:41__
+
+> Ottima app e facile da usare, veramente molto interessante, consigliata e usatela<br> :date: __2020-06-16 22:18:40__
+
+> Complimenti ottima app<br> :date: __2020-06-16 21:43:20__
+
+> Bene sono contenta<br> :date: __2020-06-15 22:15:01__
+
+> Molto utile lapp e magnifica scaricare l'app<br> :date: __2020-06-14 22:43:14__
+
 > Ok<br> :date: __2020-06-14 18:34:04__
-
-> Molto buona<br> :date: __2020-06-13 00:50:56__
-
-> Buona giornata 😎. Va bene. Funziona bene<br> :date: __2020-06-12 15:56:36__
-
-> Se funziona sarebbe eccezionale<br> :date: __2020-06-11 18:10:06__
-
-> Ho da poco installato l'app e devo dire che non è male per niente anzi ha una schermata davvero carina e semplice da usare.<br> :date: __2020-06-10 11:45:26__
-
-> Spero che serva, ma serve anche per quelli che non hanno contratto il Covid 19, siccome da 1 al 15 agosto 2020 dovrei recarmi ad Porto San Maurizio in provincia di Imperia Liguria Italia Italie Italy. Oltre ad installare questa applicazione si dobbiamo fare i 3 tamponi e eseguire l'autocertificazione quella per l'uscita dal Piemonte ovvero dal capoluogo Torino TO alla Liguria, Porto San Maurizio, in provincia di Imperia IM, siccome dovremmo convivere insieme in un alloggio bilocale. Luisa<br> :date: __2020-06-08 14:22:11__
-
-> Molto utile<br> :date: __2020-06-07 20:15:19__
-
-> Ok<br> :date: __2020-06-07 15:58:14__
-
-> Ottima app<br> :date: __2020-06-07 12:54:34__
-
-> Oggi disinstallo l'app dopo 2 mesi di utilizzo perché ho installato ieri Immuni. Lo Stato d'altronde ha sviluppato internamente l'app ufficiale e ha deciso di non utilizzare la vostra. Non trovo utilità ad utilizzare la vostra app in quanto priva del rapporto ufficiale con le istituzioni. Ho contribuito con i miei dati al test di Sm_covid19 e mi auguro la softmining possa trovare vantaggio di questo e nel futuro sviluppare altre app utili. Ciao e buon lavoro<br> :date: __2020-06-07 12:35:51__
 
 
 
@@ -212,6 +212,12 @@ The SM_Covid19 app has been installed by more than **50000** times. At this time
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="it.softmining.projects.covid19.savelifestyle 4 reviews"/>
 </p>
+
+> Molto bella<br> :date: __2020-06-18 21:12:10__
+
+> Non ho capito se ad oggi, 17.6.2020, la app è attiva e funzionante, con invio di notifiche in caso di contatti a rischio<br> :date: __2020-06-17 21:37:42__
+
+> Molto utile<br> :date: __2020-06-17 13:58:09__
 
 > Non sono riuscito a capire quando il n.aumenta cosa devo fare?<br> :date: __2020-06-12 16:01:33__
 
@@ -227,12 +233,6 @@ The SM_Covid19 app has been installed by more than **50000** times. At this time
 
 > Ottima idea<br> :date: __2020-06-03 20:57:54__
 
-> Non capisco l'utilità della stellina accanto alla regione, a che cosa serve se non ti mette la regione in alto e non ne puoi mettere più di due? Comunque applicazione valida, quando risolverete metterò 5 stelle.<br> :date: __2020-06-03 20:48:38__
-
-> Ok<br> :date: __2020-06-03 20:43:20__
-
-> buono<br> :date: __2020-06-03 20:41:13__
-
 
 
 #### 3-star reviews
@@ -240,6 +240,10 @@ The SM_Covid19 app has been installed by more than **50000** times. At this time
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="it.softmining.projects.covid19.savelifestyle 3 reviews"/>
 </p>
+
+> Non so quanto sia credibile, al momento non posso dare di + poi si vedra', a me pare + un controllo della persona. E allora W la privacy.<br> :date: __2020-06-16 11:42:51__
+
+> Do 3 stelle sulla fiducia. Ho un Samsung del 2016 e volendo impostare il mio profilo riesco a vedere solo le prime 2 opzioni. Come mai? So che dovrei cambiare smartphone...<br> :date: __2020-06-15 16:02:14__
 
 > e una beta comunque<br> :date: __2020-06-04 11:07:17__
 
@@ -257,10 +261,6 @@ The SM_Covid19 app has been installed by more than **50000** times. At this time
 
 > Mi sento più protetta<br> :date: __2020-04-30 19:36:47__
 
-> Ho dovuto disinstallarla perché mi consumava moltissimo la batteria. Attendo che sia migliorato questo aspetto per installarla di nuovo. Penso possa essere utile se diffusa capillarmente...<br> :date: __2020-04-25 20:18:11__
-
-> Non posso dare un voto perchè la ho scaricata da qualche ora e fatto una gran fatica ad avvisarla. Ancora adesso continua ogni pochi minuti a chiedere autorizzazione ad avvio automatico ed attività in background. Concesse più volte. In particolare per le attività in background non è capace di raggiungere automaticamente le impostazioni. Però sembra sia tutto in funzione boh .. In ogni caso sto utilizzando uno Xiaomi MI9SE. Saluti<br> :date: __2020-04-25 17:06:39__
-
 
 
 #### 2-star reviews
@@ -268,6 +268,12 @@ The SM_Covid19 app has been installed by more than **50000** times. At this time
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="it.softmining.projects.covid19.savelifestyle 2 reviews"/>
 </p>
+
+> Cosa significa quando mette 0,e poi un tot di numeri dopo?<br> :date: __2020-06-20 18:27:25__
+
+> Qusta app vale 2 stele<br> :date: __2020-06-17 18:12:17__
+
+> Non riesco a capire in che modo (spero di no) avvisare il medico in caso di positività per poi avvisare chi è stato a contatto con me (principio di funzionamento di immuni). Nell'app non trovo nessuna voce a riguardo<br> :date: __2020-06-15 21:05:35__
 
 > Mi sembra una stronzata come app come fa a sapere se uno è veramente positivo o negativo senza tampone? Poi se l tocca un altro il cell cambia o no? Sec me na cavolata l altra volta m diceva che ero poco rischioso ora mi dice tutto bene mha<br> :date: __2020-06-08 13:48:07__
 
@@ -282,12 +288,6 @@ The SM_Covid19 app has been installed by more than **50000** times. At this time
 > Durante l'installazione viene chiesto di abilitare 3 funzioni (bluetooth, avvio automatico etc.) ma appena ne seleziono una, passa alla schermata successiva e non da la possibilità di abilitare le altre 2. Inoltre, se entro nelle Impostazioni e spunto "Permetti l'uso del GPS", quando esco e rientro lo trovo ancora non spuntato.<br> :date: __2020-06-01 10:55:24__
 
 > Per ora due stelle. Piuttosto invadente, è una notifica continua! Se si chiude arriva subito una notifica e si riapre. Non può lavorare in background come tutte le altre senza sostituirsi alla schermata principale? E usare solo la geolocalizzazione senza dover tenere acceso anche il bluetooth, sia per il risparmio energetico della batteria sia per evitare inavvertitamente di concedere l'accesso al telefono ad un dispositivo sconosciuto? Aggiornamento: Ok per le notifiche, non ci sono più ma KO per la whitelist perché non può e non deve prosciugare la batteria.<br> :date: __2020-05-21 09:34:47__
-
-> Disinstalla quasi subito, mi appare in modo quasi continuo la notifica da parte di questa app di un consumo eccessivo della batteria.<br> :date: __2020-05-16 16:25:43__
-
-> Invadente e vengono segnalati bug da antivirus disintallata<br> :date: __2020-05-05 11:23:25__
-
-> Consuma troppa batteria. Sarebbe interessante avere qualche informazione in più da consultare, se si entra in contatto con qualcuno, statistiche di utilizzo degli altri utenti etc... Ho uno Xiao Mi Note 10<br> :date: __2020-05-04 15:13:22__
 
 
 

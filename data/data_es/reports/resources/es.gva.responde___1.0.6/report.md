@@ -146,13 +146,13 @@ The GVA Responde app has been installed by more than **10000** times. At this ti
 
 > Muy útil y completa<br> :date: __2020-05-05 13:08:36__
 
-> Para que sirve esta app porque a mi no me sirve<br> :date: __2020-05-02 12:41:27__
-
 > Muy útil<br> :date: __2020-04-30 14:33:02__
 
 > Molta claredat en la informació<br> :date: __2020-04-30 11:16:38__
 
 > Fácil de usar y de entender. Enhorabuena<br> :date: __2020-04-20 01:25:39__
+
+> Be<br> :date: __2020-04-14 15:03:50__
 
 
 
@@ -169,10 +169,12 @@ The GVA Responde app has been installed by more than **10000** times. At this ti
 #### 3-star reviews
 
 <p align="center">
-
+<img src="3_star_reviews_wordcloud.png" alt="es.gva.responde 3 reviews"/>
 </p>
 
-No recent reviews available with 3 stars.
+> Una pregunta:¿Se puede ir a las escuelas de bailes de salón? ahora que han terminado las fases. En el decreto del 19/06/2020, no aparece ninguna referencia.Y escuelas ya han empezado a funcionar.<br> :date: __2020-06-21 20:22:58__
+
+
 
 #### 2-star reviews
 

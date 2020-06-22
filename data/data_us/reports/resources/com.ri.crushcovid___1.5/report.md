@@ -228,6 +228,8 @@ The CRUSH COVID RI app has been installed by more than **10000** times. At this 
 <img src="2_star_reviews_wordcloud.png" alt="com.ri.crushcovid 2 reviews"/>
 </p>
 
+> I had the app when it first came out and it worked fine until 3 weeks ago then it stopped tracking me. I just got a new Note 10 and it won't let me finish setting it up . Won't respond on last page of setup to allow it to track, etc. So I uninstalled it and am going to try to install it again<br> :date: __2020-06-19 20:44:25__
+
 > Not accurate. Uses too much battery.<br> :date: __2020-06-13 01:11:30__
 
 > On my Google Pixel 3 Android, the app only gives me the options to access location while using the app or to deny location services. There is no option for allow all the time. Thus, my location diary has nothing in it! Also, an excellent feature for this app would be a contact diary.<br> :date: __2020-06-09 03:10:53__
@@ -246,8 +248,6 @@ The CRUSH COVID RI app has been installed by more than **10000** times. At this 
 
 > Location does not work all the time, only if app is running, so it useless, as I can't seem to set it to access location all the time? So the location data is not updating.<br> :date: __2020-05-25 18:06:42__
 
-> Getting better each day. Hopefully, it is adapted to work on mobile devices.<br> :date: __2020-05-24 04:53:55__
-
 
 
 #### 1-star reviews
@@ -255,6 +255,8 @@ The CRUSH COVID RI app has been installed by more than **10000** times. At this 
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="com.ri.crushcovid 1 reviews"/>
 </p>
+
+> F\*\** off big brother<br> :date: __2020-06-19 16:58:23__
 
 > Download the app and select language preference but can't proceed from that point.<br> :date: __2020-06-14 14:30:46__
 
@@ -273,7 +275,5 @@ The CRUSH COVID RI app has been installed by more than **10000** times. At this 
 > Easy and intuitive in the 1.0 release, but it doesn't always track me, and it never keeps tracking info more than 24 hours. Also there's no option to "always track." So kind of a fail. I contacted developers, and they said a new release is due in late June.<br> :date: __2020-06-03 01:33:33__
 
 > When working inaccurate... mostly non functioning... and i do not have an old phone....<br> :date: __2020-06-01 22:49:53__
-
-> It's unfortunate that this app is completely useless. And it had a potential to save lives. Total incompetence of developers!<br> :date: __2020-06-01 21:15:03__
 
 

@@ -126,6 +126,14 @@ The Corona Check Screening app has been installed by more than **5000** times. A
 <img src="5_star_reviews_wordcloud.png" alt="com.coronacheck.haugxhaug.testyourcorona 5 reviews"/>
 </p>
 
+> Auch wenn es gedauert hat .... aber wenn was gut und zuverlässig funktionieren soll braucht es halt zeit .... und ich bin positiv überrascht diese app können sogar die etwas älteren Mitbürger und bürgerinin problemlos bedienen.... gut 👍 gemacht<br> :date: __2020-06-16 13:10:04__
+
+> Für mich ist die APP sehr interessant und wichtig, man kann vieles nach lesen auch was in meinem Bundesland wichtig ist. Danke<br> :date: __2020-06-16 12:34:10__
+
+> Dies ist NICHT die Corona-Warn-App der Bundesregierung, sondern die Corona Check App des Landesamts für Gesundheit und Lebensmittelsicherheit! Und sie funktioniert :-)<br> :date: __2020-06-16 08:49:46__
+
+> 👍<br> :date: __2020-06-15 17:56:01__
+
 > IRINA LIEBSCHER/29.05.1975<br> :date: __2020-06-14 21:00:05__
 
 > Fragt mit der Zeit höflich zweimal nach, ob der Standort abgefragt werden darf und nach zweimal Fragen ist dann auch gut. Keine weiteren Daten werden abgefragt. Alles i.O.<br> :date: __2020-06-14 20:55:18__
@@ -138,14 +146,6 @@ The Corona Check Screening app has been installed by more than **5000** times. A
 
 > Klasse App. Kann man nur weiterempfehlen<br> :date: __2020-05-29 12:19:03__
 
-> Super,😷👍<br> :date: __2020-05-26 08:04:07__
-
-> Daumen hoch! App ist präzise, hilfreich und informativ!<br> :date: __2020-04-29 12:38:07__
-
-> Schöne übersichtlich App mit täglich neuen News. Einfach zu bedienen!<br> :date: __2020-04-27 17:55:55__
-
-> super app tolles design durchdachte funktionen empfehle ich gerne weiter!<br> :date: __2020-04-27 14:12:51__
-
 
 
 #### 4-star reviews
@@ -153,6 +153,8 @@ The Corona Check Screening app has been installed by more than **5000** times. A
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.coronacheck.haugxhaug.testyourcorona 4 reviews"/>
 </p>
+
+> Zum Glück habe ich das Screening noch nicht gebraucht. Aber der News-Ticker mit den Links und Verweisen ist mir sehr willkommen, gute Informations-Quelle. Die Tipps eine sehr gute Ergänzung. Gut gemacht, weiter so!<br> :date: __2020-06-19 16:37:52__
 
 > Erst mal die App auf mein Handy geladen muss noch testen<br> :date: __2020-06-09 08:47:01__
 
@@ -164,6 +166,8 @@ The Corona Check Screening app has been installed by more than **5000** times. A
 <img src="3_star_reviews_wordcloud.png" alt="com.coronacheck.haugxhaug.testyourcorona 3 reviews"/>
 </p>
 
+> Die App ist toll aber nicht die beste die ich kenne 🤐😓<br> :date: __2020-06-16 19:10:08__
+
 > App konnte erst nicht starten, war Angeblich nicht mit dem Internet verbunden. Sehr schnelle Reaktion vom Support, nun funktioniert die App. Sternewertung schonmal gestiegen. 👍🏻👍🏻<br> :date: __2020-06-02 21:27:19__
 
 
@@ -171,10 +175,12 @@ The Corona Check Screening app has been installed by more than **5000** times. A
 #### 2-star reviews
 
 <p align="center">
-
+<img src="2_star_reviews_wordcloud.png" alt="com.coronacheck.haugxhaug.testyourcorona 2 reviews"/>
 </p>
 
-No recent reviews available with 2 stars.
+> Gab noch keine Bewertung mir 2 Sternen<br> :date: __2020-06-15 03:48:36__
+
+
 
 #### 1-star reviews
 
@@ -182,24 +188,24 @@ No recent reviews available with 2 stars.
 <img src="1_star_reviews_wordcloud.png" alt="com.coronacheck.haugxhaug.testyourcorona 1 reviews"/>
 </p>
 
-> Bluetooth und Standort ist nichts für mich ich habe eine andere Corona App und die deinstalliert habe den covid-19 Symptom Tracker auch eine deutsche app und die ist ganz gut<br> :date: __2020-06-14 20:52:59__
+> Diese App hat NICHTS mit der Corona warn app der Bundesregierung zu tun. Diese App möchte bewusst fälscherweise diesen Eindruck erwecken um an Daten zu kommen.<br> :date: __2020-06-16 23:42:15__
 
-> Schutz vor der Haustür<br> :date: __2020-06-14 18:16:37__
+> Achtung Fake! Das hier ist nicht die App der Regierung. Die richtige App ist von RKI und heißt Corona-warn-App<br> :date: __2020-06-16 21:19:35__
 
-> Eine App, die ausdrücklich nicht zur Erfassung von Bewegungsprofilen gedacht ist, aber gleich als Erstes auf den Standort zugreifen will! Ein Corona Symptom Check, bei dem u.a. Alter und Dauer der Schulbildung abgefragt wird! Echt jetzt?! Einziger Sinn und Zweck der App ist scheinbar Daten anzugreifen. Ansonsten allgemeine Infos, die man auch ohne Installation einer App erhalten kann. Bleibt zu hoffen, dass für diese überflüssige App nicht auch noch unsere Steuergelder verbrannt wurden!<br> :date: __2020-06-13 08:43:39__
+> Mir fehlen die Worte<br> :date: __2020-06-16 21:06:56__
 
-> Was für ein Schwachsinn. Hier können sich die ganzen Coronapaniker auslassen. Unfassbar. Und wieder gelöscht....<br> :date: __2020-06-12 22:38:02__
+> Die App wurde installiert. Es wurde versucht die Neuigkeiten zu lesen. Die App sagt, dass ohne Internetverbindung keine Neuigkeiten zur Verfügung stünden. Zwischenzeitlich wurde das Internet nicht ausgeschaltet. Wie kann es sein, dass einem mitgeteilt wird, dass man ohne Internetverbindung keine Neuigkeiten zur Verfügung hat obwohl man Internet geschaltet hat weil einen Wimpernschlag zuvor man diese App installiert hat? Fazit: SCHROTT Diese App ist noch nicht mal einen einzigen Stern wert<br> :date: __2020-06-16 15:55:03__
 
-> Toll, jetzt hab ich Corona! 😧<br> :date: __2020-06-12 13:24:46__
+> Ist nicht die offizielle App vom RKI<br> :date: __2020-06-16 07:26:58__
 
-> selten so gelacht...was soll dieses sinnlose Machwerk?...ich hab denen mit sinnlosen Angaben die Taschen voll gehauen und diese komische App deinstalliert...<br> :date: __2020-06-07 17:29:43__
+> Bayern ist nicht Deutschland oder ist das RKI von Bayern abhängig!!! SÖDER WILL BUNDESKANZLER WERDEN<br> :date: __2020-06-16 03:23:21__
 
-> Was soll der Mist bringen? 🤔 Direkt wieder gelöscht so ein gwaff<br> :date: __2020-06-06 19:18:12__
+> Müll<br> :date: __2020-06-16 00:10:42__
 
-> Nur für Bayern?<br> :date: __2020-06-06 16:45:09__
+> Reinste Daten sammel Maschine selbst meine viren Schutz App hat diese app als riskant und gefährlich eingestuft Warnungen waren Daten Sicherheit und eventuell Malware Zum Glück wurde die app von der App gleich gelöscht<br> :date: __2020-06-15 19:55:00__
 
-> Nur für Bayern. 1 Land, 16 Länder.<br> :date: __2020-06-06 13:07:31__
+> Um weiterhin allgemeine Sicherheit und Stabilität zu gewährleisten wird die Republik umgestaltet werden, und zwar zum ersten galaktischen Imperium. ZUM WOHLE UND NUTZEN EINER STABILEN UND SICHEREN GESELLSCHAFT.<br> :date: __2020-06-15 13:31:27__
 
-> Sowas braucht doch keiner. Ausprobiert und für Unsinn gehalten.😴<br> :date: __2020-06-04 15:10:37__
+> Eine App die sehr fragwürdig ist. Was hat corona mit meiner Schulbildung zu tun? Warum will sie auf meinen Standort zugreifen wenn sie doch nicht auf tracking basiert? Finger weg von der App, die wollen nur Daten sammeln.<br> :date: __2020-06-15 12:05:15__
 
 

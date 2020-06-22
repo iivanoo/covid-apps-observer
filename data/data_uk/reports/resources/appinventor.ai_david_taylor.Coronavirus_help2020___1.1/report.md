@@ -146,6 +146,8 @@ The Coronavirus Help app has been installed by more than **1000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="appinventor.ai_david_taylor.Coronavirus_help2020 5 reviews"/>
 </p>
 
+> This helps me from the new crona very good 👍 👌 😊 ☺ 😀 😄 👍 👌 😊<br> :date: __2020-06-15 17:43:31__
+
 > Contact tracing. Uk<br> :date: __2020-06-01 22:22:36__
 
 > I love it 💖 so simple to use and not confusing at all, I love that everything is in one place and from the people that we should be listening to and not from misleading sources (newspapers) x I love all you over 70's that was involved in making this great app x I am 28 and I couldn't of done anything like this well done guys stay safe 💋💋<br> :date: __2020-05-27 22:54:07__
@@ -163,8 +165,6 @@ The Coronavirus Help app has been installed by more than **1000** times. At this
 > If you download and it warns of a virus, ignore it. You have sensitive settings on your anti virus software. Thr app is fantastic, precisely what I need as I'm constantly poking through all the sites, with this it's all in one place. Thank you for putting this together.<br> :date: __2020-04-26 23:33:36__
 
 > This is a great App for up to date info, I live in spain and although I am english all my spanish friends can use the app due to it's multi language feature first class<br> :date: __2020-04-20 15:23:09__
-
-> Great app, very useful information, and easy to use.<br> :date: __2020-04-15 00:21:51__
 
 
 
@@ -205,6 +205,8 @@ No recent reviews available with 2 stars.
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="appinventor.ai_david_taylor.Coronavirus_help2020 1 reviews"/>
 </p>
+
+> Stolen content<br> :date: __2020-06-21 18:51:30__
 
 > Turns out I didn't need an app for a mysteriously absent virus that has killed worldwide less than seasonal flu.<br> :date: __2020-06-09 10:13:17__
 

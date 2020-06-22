@@ -171,6 +171,8 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <img src="5_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 5 reviews"/>
 </p>
 
+> Porque aufiro tratamentos oncológicos no hospital distrital de Santarém e com atendimento excional.<br> :date: __2020-06-18 00:13:36__
+
 > Muito fixe!<br> :date: __2020-05-25 01:47:57__
 
 > Excelente para consultar<br> :date: __2020-05-24 15:40:06__
@@ -188,8 +190,6 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 > Bom<br> :date: __2020-04-20 17:36:52__
 
 > É 0ptimo<br> :date: __2020-04-16 21:41:03__
-
-> Eu agora ja alguns dias que tento fazer o loging mas da que o site nao e seguro.Ou seja a aplicacao.Hoje estou farta de tentar com o leitor de cartão de cidadão e não entro na App do My SNS!!!Gostaria de saber como posso ENTRAR...<br> :date: __2020-04-15 15:52:22__
 
 
 
@@ -228,6 +228,8 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <img src="3_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 3 reviews"/>
 </p>
 
+> A informação do movimento de banhistas,deveria ser actualizada mais frequentemente, particularmente até ao meio dia e depois das 4 da tarde. E mais divulgada nos meios comunicação.<br> :date: __2020-06-21 08:13:06__
+
 > Dificuldade em perceber e aceder às receitas digitais<br> :date: __2020-04-22 15:28:21__
 
 > Pratico!<br> :date: __2020-03-24 14:20:35__
@@ -245,8 +247,6 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 > Marcação de consulta médico família é difícil a Apps assumir<br> :date: __2019-05-14 23:48:58__
 
 > Muito fraquinho...<br> :date: __2019-03-21 05:08:33__
-
-> Seria útil se ao marcarmos as consultas estas não fossem canceladas. Comigo já me sucedeu por duas vezes. Como trabalho por turnos da me mais jeito marcar nas minhas folgas e foi o que fiz e o resultado foi como atrás digo, foram desmarcadas sem qualquer justificação.<br> :date: __2019-01-03 10:45:41__
 
 
 
@@ -284,6 +284,14 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <img src="1_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 1 reviews"/>
 </p>
 
+> Não consigo entrar através cmd e nem consigo ajuda. Bastava o contato do tmv para confirmar através de mensagem a pass e ter acesso à aplicação. É impossível de se fazer algo com tanta burocracia<br> :date: __2020-06-19 23:40:32__
+
+> Típica aplicação do estado, inútil e que só serve pra dar tacho aos amigos do governo!<br> :date: __2020-06-19 13:44:43__
+
+> Muito complexa... Não funciona...<br> :date: __2020-06-17 12:28:42__
+
+> aplicacao sem utilidade alguma , neste momento nao serve para nada, ZERO.<br> :date: __2020-06-16 10:35:35__
+
 > A única coisa que parece trabalhar é o envio de relatórios de erro... App não funcional.<br> :date: __2020-06-14 20:12:51__
 
 > Nao abre<br> :date: __2020-06-03 21:34:16__
@@ -295,13 +303,5 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 > Se não funciona porque a disponibilizam? Aberração desta gente do SNS para alguns votantes.<br> :date: __2020-05-17 17:35:05__
 
 > Gostaria muito de poder dar um feedback e no dia em que o SNS fizer uma aplicação que permita um procedimento de registo acessível ao povo de forma a que eu também me possa registar, contem comigo que também gostaria de estar inscrito mas não frequentei um curso para aprender o complicado procedimento de inscrição.<br> :date: __2020-05-14 17:17:25__
-
-> Primeiro os Liberais desviaram as contribuições dos Cidadãos para os Hospitais que pertencem ao sector não público e depois criaram estás aplicações que o utente tem sempre que usa identificar-se de modo que esta aplicação foi feita para impedir o acesso á leitura de receitas etc. . Mas a informação sobre Hospitais é Extremamente úteis.<br> :date: __2020-05-07 21:55:53__
-
-> Já tenho a aplicação há mais de dois anos, porque será que nunca consegui entrar e utilizá-la, para a única coisa para que uma app deste tipo, deve servir? Tenho e sempre tive, conhecimentos informáticos, mas neste momento perante isto, nem ando para frente nem para trás. Considero esta app, uma autêntica aberração. Espero pelo menos que os serviços informáticos do Ministério da Saúde, olhem para isto e a substituam urgentemente.<br> :date: __2020-05-07 10:45:17__
-
-> Depois de instalado e ao abrir diz que não é compatível com esta versão do Android, diz que este programa está para uma versão anterior.<br> :date: __2020-05-07 02:35:46__
-
-> Não é compatível com o meu android 4.2 pensão que so por o telemóvel ter 4 anos tenho de comprar outro novo so para ir buscar as receitas<br> :date: __2020-05-05 21:53:30__
 
 

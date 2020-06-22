@@ -4,27 +4,27 @@
         "store_country": "uk",
         "store_lang": "en",
         "latest_crawled_version": "2.1.2",
-        "latest_crawl": 1592162230
+        "latest_crawl": 1592782780
     },
     {
         "id": "appinventor.ai_david_taylor.Coronavirus_help2020",
         "store_country": "uk",
         "store_lang": "en",
         "latest_crawled_version": "1.1",
-        "latest_crawl": 1592162230
+        "latest_crawl": 1592782783
     },
     {
         "id": "net.hscni.covid19ni",
         "store_country": "uk",
         "store_lang": "en",
         "latest_crawled_version": "1.7",
-        "latest_crawl": 1592162236
+        "latest_crawl": 1592782787
     },
     {
         "id": "de.xikolo.openwho",
         "store_country": "uk",
         "store_lang": "en",
         "latest_crawled_version": "3.3.1",
-        "latest_crawl": 1592162243
+        "latest_crawl": 1592782788
     }
 ]

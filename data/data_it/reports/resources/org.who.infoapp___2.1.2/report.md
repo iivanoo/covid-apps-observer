@@ -126,6 +126,8 @@ The WHO Info app has been installed by more than **100000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="org.who.infoapp 5 reviews"/>
 </p>
 
+> Uti<br> :date: __2020-06-16 07:00:29__
+
 > Molto utile per me che viaggio molto.<br> :date: __2020-04-24 06:42:36__
 
 > Per me questa ap é molto utile in questo momento difficile ma noi siamo molto forti e vinceremo però per ora restamo a casa<br> :date: __2020-04-22 14:59:40__
@@ -165,6 +167,8 @@ No recent reviews available with 2 stars.
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="org.who.infoapp 1 reviews"/>
 </p>
+
+> Non si apre mi da errore<br> :date: __2020-06-18 14:35:44__
 
 > Non si apre, inoltre dato che non tutti conosco l'inglese sarebbe opportuno metterla in ITALIANO.<br> :date: __2020-05-31 15:19:43__
 

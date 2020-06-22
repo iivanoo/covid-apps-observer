@@ -140,6 +140,10 @@ The LAZIOdrCovid app has been installed by more than **50000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="com.intellicare.covid 5 reviews"/>
 </p>
 
+> Buoni<br> :date: __2020-06-18 15:11:38__
+
+> La salute prima di tutto.<br> :date: __2020-06-17 12:27:22__
+
 > Ottimo<br> :date: __2020-05-11 12:02:38__
 
 > Dopo la segnalazione hanno aggionato l'app e ora funziona<br> :date: __2020-05-02 10:25:12__
@@ -155,10 +159,6 @@ The LAZIOdrCovid app has been installed by more than **50000** times. At this ti
 > Dopo aver fatto il backup dello smartphone ed averlo resettato e quindi ricaricato il backup, una volta reinstallata l'applicazione, questa ora funziona benissimo.<br> :date: __2020-04-15 13:47:11__
 
 > Messaggio arrivato.. Vediamo la funzionalità<br> :date: __2020-04-14 11:30:20__
-
-> Utilissima applicazione<br> :date: __2020-04-14 10:55:52__
-
-> Non riesco ad inserire i parametri della frequenza cardiaca Ottima app grazie<br> :date: __2020-04-14 09:06:46__
 
 
 
@@ -196,6 +196,8 @@ The LAZIOdrCovid app has been installed by more than **50000** times. At this ti
 <img src="3_star_reviews_wordcloud.png" alt="com.intellicare.covid 3 reviews"/>
 </p>
 
+> Buona l'idea...peccato sia solo x il Lazio...ogni Regione dovrebbe averne una simile, da integrare con Immuni a livello nazionale...tutti i cittadini dovrebbero utilizzarla x tenere sotto controllo la propria salute e stare più tranquilli...<br> :date: __2020-06-16 11:10:30__
+
 > Correggo la sottostante recensione, credo sia stato un malfunzionamento temporaneo, mi ha dato la possibilità di accedere e funziona. "Pessimo funzionamento. Avevo già installato l'applicazione ed avevo anche inserito i miei dati, ad un certo punto all'accesso (fase invio SMS di verifica) usciva un messaggio di errore che diceva che mi ero registrato con un altro numero (impossibile) e quindi non mi ha più consentito l'accesso. Sarebbe utile se funzionasse!!!"<br> :date: __2020-05-13 18:20:22__
 
 > Un po' complicato<br> :date: __2020-05-10 17:47:50__
@@ -213,8 +215,6 @@ The LAZIOdrCovid app has been installed by more than **50000** times. At this ti
 > Aggiornamento 18 aprile: finalmente risolti diversi problemi. L'app adesso sembra funzionare decentemente, anche se il questionario di autovalutazione rimane un po' macchinoso e una volta inviato non si sa né quando né se arriva una risposta<br> :date: __2020-04-18 16:28:14__
 
 > Si blocca spesso<br> :date: __2020-04-12 10:26:43__
-
-> Una volta compilato il test di auto valutazione viene inviato ma non dà responsi, nemmeno preliminari<br> :date: __2020-04-12 00:45:55__
 
 
 
@@ -252,6 +252,8 @@ The LAZIOdrCovid app has been installed by more than **50000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="com.intellicare.covid 1 reviews"/>
 </p>
 
+> Per carità lo avete fatto difficile, non lho scaricata.<br> :date: __2020-06-21 15:45:11__
+
 > Qualcuno ha detto ai mmg che esiste questa applicazione e la relativa chat? Applicazione totalmente inutile.<br> :date: __2020-06-11 08:39:29__
 
 > Istallata ma ho dovuto disinstallare perché mi ha infettato il telefono con il covid20<br> :date: __2020-06-08 01:38:27__
@@ -269,7 +271,5 @@ The LAZIOdrCovid app has been installed by more than **50000** times. At this ti
 > Da 1 mese e mezzo cerco di installarla e non c'è verso che funzioni. Mi fa inserire i miei dati,mi avverte di aver inviato un SMS al mio numero e di cliccare sul link. SMS mai arrivato. Inoltre sull'app accessibile da PC, riservata ai medici manca la colonna dei tamponi.<br> :date: __2020-04-30 15:14:08__
 
 > Fate prima a morire perchè ogni volta che provate ad aprirla dovete reinserire tutti i dati compreso il codice fiscale e non credo che con la febbre a 40 ho tempo ne voglia ne lucidità per farlo. Ma del resto nel Lazio non abbiamo neanche le mascherine (regolarmente pagate con i soldi pubblici) quindi una App che non serve a niente è il male minore. La elimino.<br> :date: __2020-04-30 06:09:44__
-
-> Fa poco, e quel poco lo fa male. Ho dovuto registrarmi varie volte, tanto per dirne una. Poi visto che non serve a nulla ho rinunciato.<br> :date: __2020-04-26 17:35:23__
 
 

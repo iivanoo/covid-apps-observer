@@ -1,16 +1,42 @@
 [
     {
+        "reviewId": "gp:AOqpTOGV8JuGbBFX2RjdXk-SBkW6F-PVzIg3HltRqjulErIq6k3nWWT0jdwPLVkllYbPJjv1Mg-idBC8NdbeXMc",
+        "userName": "samantha merola",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiynZcFtuI7acYnD4YENLy-Vxo7G5KUvyqkDdDSUA",
+        "content": "Non si apre mi da errore",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2020-06-18 14:35:44",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOE7JGlna9i-066YZRkRPcMPDu8P5i81bh5n7l_VejdLLcsy8fBkKLTyVaR8BUJd2j9cnbHYjiuIUOF66yc",
+        "userName": "FRANCESCO IMBRIANO",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiOoRifN2uLx18rjtZBg-yeupOH-jK6-QDtqkS-3w",
+        "content": "Uti",
+        "score": 5,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "2.1.2",
+        "at": "2020-06-16 07:00:29",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHgce4xhA1B3HcZYYk0XpU828bja2uABzzeOA5TkG21Vnz7lVazEPKRcv2zk_KJ-ELzjf5B85c_UGaDh5k",
         "userName": "Gabriella Bianchi",
         "userImage": "https://lh3.googleusercontent.com/-aQQWAJuhebI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckvr4N2R173wmzfL0aOfy-8XpR_dw/photo.jpg",
         "content": "Non si apre, inoltre dato che non tutti conosco l'inglese sarebbe opportuno metterla in ITALIANO.",
         "score": 1,
-        "thumbsUpCount": 31,
+        "thumbsUpCount": 50,
         "reviewCreatedVersion": "2.1.1",
         "at": "2020-05-31 15:19:43",
         "replyContent": null,
         "repliedAt": null
     },
     {
+        "reviewId": "gp:AOqpTOHk2Hw-nqBrsuUjkrkSUTMuhe2k1opVEFYFfyNkVSW6AmAvUU5MwzxGPirZK-ZUuCsJtIT--wAbAbkaf4s",
         "userName": "N1C0 G4M3R 07",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gh0p-tuWfOlHltgceolUQB1b9NFkQJyUzHMr_xvuA",
         "content": "Inutile...",
@@ -22,6 +48,7 @@
         "repliedAt": null
     },
     {
+        "reviewId": "gp:AOqpTOFyqy52zqX6c6xXUBN-GPxx8GTcf9y5W0J8SApQrv6TBidwKxEV_WbRbubZjEfdo1E8uQCpR7vqn5oKMns",
         "userName": "inxer12 Nath",
         "userImage": "https://lh3.googleusercontent.com/-dqFjLwUr3qI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclux22ufrN349Pm8tlrhYLYc_1q6Q/photo.jpg",
         "content": "per chi non sa leggere l'inglese basta che tenga premuto il testo lo evidenzi e lo traduca",
@@ -33,17 +60,19 @@
         "repliedAt": null
     },
     {
+        "reviewId": "gp:AOqpTOHA2ux14XCJHncpCPHjxwI--gCY9os0lZIzD1YYGwkB-Y4DLdvPjV6lXl29zjhk-7hs3YHNf4FHoyzTAsg",
         "userName": "Myriam Zizola",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GggJ4eSWtikNpGsj0Ra1cPGobX5R0LOy331eiYLDw",
         "content": "Io non conosco l'inglese non si potrebbe averla in italiano visto che siamo in Italia ?",
         "score": 1,
-        "thumbsUpCount": 70,
+        "thumbsUpCount": 88,
         "reviewCreatedVersion": "2.0",
         "at": "2020-04-24 23:15:26",
         "replyContent": null,
         "repliedAt": null
     },
     {
+        "reviewId": "gp:AOqpTOGk_Ht6aWw9LVyN5oqc7-SjHWI3lfawkpGx2_Qftgi5DU33OI4NveCd6YVxzR9UK73hIcteQdK1wb3QuHM",
         "userName": "Pieraldo Chiappa",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgTxhwRhIqJOx59oyxf0x6u9F2LCH2iVPijJE6Of8Q",
         "content": "Molto utile per me che viaggio molto.",
@@ -55,19 +84,21 @@
         "repliedAt": null
     },
     {
+        "reviewId": "gp:AOqpTOFaI4dKVp0oKPAAo_0bs-MMfABuM9qvnGs3OST7cEogOTrjqQcciQ_LYw-DdPrgASdwhaqYRPA83ZCXxyU",
         "userName": "Tea Alijaj",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gjrq_yMcSn_rzgsQUCGiLTVuNRP2RJPNrpndx1E",
         "content": "Per me questa ap \u00e9 molto utile in questo momento difficile ma noi siamo molto forti e vinceremo per\u00f2 per ora restamo a casa",
         "score": 5,
-        "thumbsUpCount": 35,
+        "thumbsUpCount": 40,
         "reviewCreatedVersion": "2.0",
         "at": "2020-04-22 14:59:40",
         "replyContent": null,
         "repliedAt": null
     },
     {
+        "reviewId": "gp:AOqpTOGHjhJQM9IXmNr0BEFuEtxD8ybP79Q63hcbOhr7x3ZrybRrtUPiAl9p9ngqVlLQw304W1ArHkPjaUXD_6g",
         "userName": "Mihaela Parlapan",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjbHT3C5qaCgqesSwkYmu347Fwh67A19GCJbE7l",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiTiZiorKj7F8sErLP3pzEJrgPYlbipq4Dn4x7n",
         "content": "Lo prov\u00f2 se va benne",
         "score": 5,
         "thumbsUpCount": 18,
@@ -77,6 +108,7 @@
         "repliedAt": null
     },
     {
+        "reviewId": "gp:AOqpTOHtFOW7lt2gScok2Cr7akEq_8ADx1LMV5aGp69kHvJdLRX--5WIuEKT3hv_AmczfjeT5bqVWYRvQkL0_g0",
         "userName": "martina Batistini",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjwesN5vZ6aayPsBrocCzCcLH_9gJYg6C9RxzenuQ",
         "content": "Non funziona",

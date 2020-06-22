@@ -194,6 +194,8 @@ The Covid-19 app has been installed by more than **10000** times. At this time, 
 <img src="3_star_reviews_wordcloud.png" alt="it.adl.aslroma3.covid19.app 3 reviews"/>
 </p>
 
+> Ma è solo per gli assistiti in quarantena di Roma? Allora mi tocca scaricarla...Peccato... se fosse un'app nazionale potrebbe risultare quasi più utile di Immuni...anche per chi è sano...<br> :date: __2020-06-16 11:01:44__
+
 > Voglio più informazioni<br> :date: __2020-05-14 07:56:09__
 
 > se mi fa entrare o mi posso registrare allora merita5 stelle 👍<br> :date: __2020-04-03 23:59:46__

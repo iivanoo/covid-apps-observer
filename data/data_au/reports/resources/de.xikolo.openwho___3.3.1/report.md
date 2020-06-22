@@ -165,25 +165,25 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 <img src="5_star_reviews_wordcloud.png" alt="de.xikolo.openwho 5 reviews"/>
 </p>
 
+> Good<br> :date: __2020-06-21 13:44:16__
+
+> Nice<br> :date: __2020-06-21 11:44:45__
+
+> Nice<br> :date: __2020-06-20 05:43:12__
+
+> Right informing .<br> :date: __2020-06-19 19:35:20__
+
+> Nice<br> :date: __2020-06-19 18:05:45__
+
+> To see corona<br> :date: __2020-06-19 11:22:26__
+
+> perfect<br> :date: __2020-06-19 04:06:59__
+
+> Great.. informstive<br> :date: __2020-06-17 20:12:02__
+
+> Good for all<br> :date: __2020-06-16 09:05:38__
+
 > It's help full me<br> :date: __2020-06-14 16:51:52__
-
-> Very informative<br> :date: __2020-06-13 12:07:57__
-
-> The app is great 5star from me ☺<br> :date: __2020-06-12 21:14:51__
-
-> Ok<br> :date: __2020-06-12 13:20:32__
-
-> Awesome....<br> :date: __2020-06-12 10:03:06__
-
-> BAY<br> :date: __2020-06-10 15:53:20__
-
-> Thank you so much for enrolled me in open WHO knowledge.<br> :date: __2020-06-10 03:46:24__
-
-> Nice app<br> :date: __2020-06-09 18:28:42__
-
-> V good app I am useing<br> :date: __2020-06-09 10:23:00__
-
-> WHO does it again<br> :date: __2020-06-08 16:48:55__
 
 
 
@@ -192,6 +192,10 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="de.xikolo.openwho 4 reviews"/>
 </p>
+
+> Good source of information<br> :date: __2020-06-20 09:36:05__
+
+> Excellent Direction~<br> :date: __2020-06-19 14:08:55__
 
 > Mast<br> :date: __2020-06-13 09:10:54__
 
@@ -208,10 +212,6 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 > Good app for prevention of health<br> :date: __2020-05-12 15:26:14__
 
 > Good ap<br> :date: __2020-05-10 07:41:36__
-
-> Eccellent<br> :date: __2020-05-09 06:04:21__
-
-> Good 👍<br> :date: __2020-05-08 13:54:07__
 
 
 
@@ -271,6 +271,8 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 <img src="1_star_reviews_wordcloud.png" alt="de.xikolo.openwho 1 reviews"/>
 </p>
 
+> Not sign in properly many time errors.. Please help me out of this problem. I already registered a complaint that particular problem through mail.<br> :date: __2020-06-16 05:10:29__
+
 > No real news<br> :date: __2020-06-10 20:20:26__
 
 > Dirty apps<br> :date: __2020-06-08 01:02:18__
@@ -288,7 +290,5 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 > Its not working<br> :date: __2020-05-13 18:24:22__
 
 > Nonsense app<br> :date: __2020-05-13 08:19:05__
-
-> Hate it.<br> :date: __2020-05-13 07:43:50__
 
 

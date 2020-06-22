@@ -131,25 +131,25 @@ The COVID-19 app has been installed by more than **50000** times. At this time, 
 <img src="5_star_reviews_wordcloud.png" alt="de.bssd.covid19 5 reviews"/>
 </p>
 
-> 😘😘😘😘😘<br> :date: __2020-06-02 16:08:46__
+> Tolle App :) ja die push Benachrichtigungen funktionieren nicht aber das Ergebnis kam bei mir schon am nächten Tag abends an. Da es ein Freitag war musste ich nicht noch bis Montag warten bis ich was vom hausartzt höre :)<br> :date: __2020-06-19 22:12:35__
 
-> Die App ist super. Ich hatte mein Ergebnis innerhalb von 48 Stunden. Ich hatte dran gezweifelt wegen dem Pfingstwochenende, aber Sonntagmorgen (!) war das Ergebnis da. Nur die Pushbenachrichtigung hat leider nicht funktioniert. Auch der Scanner hat sich ab und an aufgehangen, aber das hab ich gern in Kauf genommen um schnell mein Testergebnis zu erhalten.<br> :date: __2020-05-31 09:27:46__
+> Es ist sehr wichtig dass man diese App runterladen tut ich wünsche noch einen schönen Abend<br> :date: __2020-06-19 01:35:15__
 
-> Sehr gut 👍<br> :date: __2020-05-27 17:06:40__
+> Bin froh dass es diese app gibt<br> :date: __2020-06-18 22:48:41__
 
-> Habe Ergebnis innerhalb von 48 Stunden erhalten. Wurde vorher über SMS benachrichtigt. Echt klasse<br> :date: __2020-05-24 04:46:16__
+> Optimal<br> :date: __2020-06-18 18:46:34__
 
-> Also ich finde diese App sehr gut. Innerhalb von nicht mal 24 std hatte ich mein Ergebnis und das ganz simple. Über das Gesundheitsamt dauerte es viel länger. Ich bin zwar mit vielen noch skeptisch aber diese App hat mich überzeugt<br> :date: __2020-05-22 09:39:45__
+> Sehr gut<br> :date: __2020-06-18 16:16:05__
 
-> Eine sehr gute app Spitze<br> :date: __2020-05-16 11:21:07__
+> ist super und erlich<br> :date: __2020-06-18 13:55:36__
 
-> Fünf Mal berwet<br> :date: __2020-05-04 16:16:30__
+> Okay<br> :date: __2020-06-18 01:50:06__
 
-> Ich würde gerne die App nutzen kann mich leider nicht anmelden<br> :date: __2020-04-28 04:16:15__
+> Freundin<br> :date: __2020-06-16 11:17:46__
 
-> Deutschland verblödet. Erst testen, dann könnt ihr die App nutzen!<br> :date: __2020-04-23 03:33:32__
+> HANSJÖRG Duhnke Datenschutzes<br> :date: __2020-06-15 23:03:56__
 
-> 1. Die App ist sinnvoll! Für Menschen die getestet wurden und bei einer Pandemie logischerweise schnellstmöglich ihr Testergebnis erhalten sollten. 2. Fremdschämen muss man sich, wenn man hier die negativen Kommentare liest! Kann man solchen Menschen nicht einfach ihr Handy entziehen, damit sie keinen Schwachsinn mehr verbreiten können?! Einfach mal die App Informationen lesen und ein wenig nachdenken! 3. Die App HATTE Probleme mit der Verschlüsselung. Die sind mittlerweile aber behoben!<br> :date: __2020-04-23 01:30:02__
+> Viele Nutzer mit schlechten Bewertungen haben scheinbar ein anderes Problem... Dieses Programm dient als zusätzlicher Informationsweg wenn man sich getestet hat und das Labor dies unterstützt. Steht in der Beschreibung deutlich, aber das kennt man ja. Ungetesteten bringt es logischerweise nichts. Zudem ist dies nicht "DIE" Corona App, die übrigends morgen erscheinen soll und für Infektionsketten helfen soll. Mal sehen wie viele da meckern, dass es nicht geht, aber Bluetooth aus haben...<br> :date: __2020-06-15 21:09:43__
 
 
 
@@ -158,6 +158,8 @@ The COVID-19 app has been installed by more than **50000** times. At this time, 
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="de.bssd.covid19 4 reviews"/>
 </p>
+
+> Ich habe diese App zum Glück noch nicht gebraucht; hatte sie mir nur zur Vorsicht heruntergeladen. Ich hoffe, daß die Testlabore sie auch verwenden, damit sie auch funktioniert.<br> :date: __2020-06-17 12:34:45__
 
 > App ist okay! Mein Ergebniss war am zweiten Tag da. Einzige Beanstandung ist dass man den QR jedesmal neu scannen muss<br> :date: __2020-06-09 09:53:38__
 
@@ -183,6 +185,8 @@ The COVID-19 app has been installed by more than **50000** times. At this time, 
 <img src="3_star_reviews_wordcloud.png" alt="de.bssd.covid19 3 reviews"/>
 </p>
 
+> Ich kann das nicht beurteilen.<br> :date: __2020-06-19 13:05:42__
+
 > Höre von dieser App erst, als ich Mal gegoogelt habe, wie lange ich auf ein Ergebniss noch warten soll. Leider haben wir von der Elmshorner Klinik, wo wir den Test gemacht haben, keine QR-Codes bekommen. Arbeiten nicht alle Kliniken oder Teststationen mit der App? Wir warten auch seit 5 Tagen auf ein Ergebniss.<br> :date: __2020-06-11 18:47:53__
 
 > Hallo, beim eingeben der id Nummer oder abscannen des Codes steht dran dass es ein Fehler gibt und das passwort oder benutzernamen falsch ist kann mir bitte einer weiterhelfen? Vielen Dank im voraus<br> :date: __2020-05-09 19:58:09__
@@ -207,6 +211,8 @@ The COVID-19 app has been installed by more than **50000** times. At this time, 
 <img src="2_star_reviews_wordcloud.png" alt="de.bssd.covid19 2 reviews"/>
 </p>
 
+> Meine id wurde nicht akzeptiert keine Ahnung was das Problem ist hab ich mir einfacher vorgestellt. Das ist mir zu kompliziert vielleicht liegt es ja daran das ich ein Samsung Android hab?!<br> :date: __2020-06-16 16:13:14__
+
 > Die app ist blöd weil man sich registrieren muss und ich habe keine Handy Nummer<br> :date: __2020-05-15 19:55:38__
 
 > Also aktuell warte ich auf mein ergebnis und komme seit heute morgen gar nicht mehr im die app. Error, server, überprüfen Sie ihren benutzernamen. Hab ja nur nen code. Also leute, wenn ihr schon ne app raus bringt, dann solltest ihr die auch regelmäßig abdaten. Sowas geht gar nicht. Wir medizinisches personal sind an forderster front und sollten schon wissen, was für ergebnisse wir haben.<br> :date: __2020-05-09 17:50:57__
@@ -229,24 +235,24 @@ The COVID-19 app has been installed by more than **50000** times. At this time, 
 <img src="1_star_reviews_wordcloud.png" alt="de.bssd.covid19 1 reviews"/>
 </p>
 
+> Misst<br> :date: __2020-06-21 23:21:24__
+
+> Funktioniert nicht schreibt zwar es hätte sich installiert ist als App aber nicht sichtbar<br> :date: __2020-06-20 09:30:14__
+
+> Ich kann sie nicht mal öffnen<br> :date: __2020-06-19 14:05:29__
+
+> Wo ist die ID Nummer, wo ist der QR-Code,?? So kann man die App nicht mal starten. Fazit: Gewollt, aber nicht gekonnt!<br> :date: __2020-06-16 06:41:33__
+
+> Falsche App!<br> :date: __2020-06-16 03:08:09__
+
+> Hat leider nicht funktioniert. Ergebnis haben wir am Freitag vom Doc erfahren. Laut App liegt das Ergebnis bis heute noch nicht vor.<br> :date: __2020-06-15 20:11:17__
+
+> Eine gute Idee, leider hat es bei meiner Untersuchung des Abstrichs nicht funktioniert. Ich konnte mich zwar mit dem QR-Code anmelden, das Ergebnis wurde jedoch nicht angezeigt. Obwohl ich heute den schriftlichen Befund vom Labor per Post erhalten habe, sagt die App immer noch, "das Ergebnis liegt noch nicht vor". Der eine Stern geht also an die Idee, die Funktionalität ist ja leider gleich Null. Schade.<br> :date: __2020-06-15 15:00:52__
+
+> Um weiterhin allgemeine Sicherheit und Stabilität zu gewährleisten wird die Republik umgestaltet werden. Undzwar zum ersten galaktischen Imperium. Zum Wohle einer stabilen und sicheren Gesellschaft.<br> :date: __2020-06-15 11:02:15__
+
+> Erbärmlich schlechte Bilderkennung, stüpperhaft<br> :date: __2020-06-15 09:42:59__
+
 > App schützt nicht vor Ansteckung mit dem Husten<br> :date: __2020-06-14 18:14:18__
-
-> Ich bin nicht Zufrieden mit Covid-19 App!👎🏼👎🏼😡😡😤😤😷😷🤒🤒🤕🤕🤢🤢<br> :date: __2020-06-14 13:28:33__
-
-> so nötig wie ein Kropf<br> :date: __2020-06-14 12:30:26__
-
-> Tja, was soll man sagen?! Wieso gibt es die Option dieser App, wenn man dann doch das Ergebnis per Post viel früher bekommt? Man kann die Menschheit auch zusätzlich bekloppter machen als sie eh schon ist. Wartet also einfach auf euren Brief. Das spart Zeit, Akku und vorallem nerven.<br> :date: __2020-06-12 22:22:53__
-
-> Jedes Mal muss der QR Code erneut gescannt werden. Es wird nichts gespeichert und somit erscheint auch keine Push Nachricht. Katastrophal<br> :date: __2020-06-10 09:36:48__
-
-> Mein Arzt hat das Ergebnis seit Stunden und obwohl ich es durch die App zeitgleich erhalten sollte, zeigt diese immer noch an, dass noch kein Ergebnis vorliegt.<br> :date: __2020-06-09 11:01:46__
-
-> Da hat wohl einer keine Ahnung von wie man Apps erszellt...die Anmeldung geht Mal geht Mal garnicht<br> :date: __2020-06-08 12:52:11__
-
-> Diese App ist lächerlich und beängstigend wie man mit der jetzigen Situation umgeht. Seit 5 Tagen warte ich auf das Ergebnis. Leider immer wieder die Meldung "ihr Ergebnis liegt noch nicht vor". Wenn die App fehlerhaft ist, was nach den Bewertungen hier ersichtlich ist, sollte man den Leuten eine Telefonnummer mitgeben, wo das Ergebnis telefonisch erfragt werden kann. Das Gesundheitsamt weißt von dieser App nichts. Was ist hier los?<br> :date: __2020-06-08 09:03:18__
-
-> ...mein Test und auch der Test von 20 weiteren meiner Bekannten, mit denen ich zusammen gefeierte hatte, war positiv....trotzdem hat keiner eine Benachrichtigung über diese App erhalten...sie taugt wohl eher nichts...<br> :date: __2020-06-07 17:40:13__
-
-> Schade..die Idee ist sehr gut, aber wenn man auf das Ergebnis wartet eine Ewigkeit und Morgen bekomm ich über den Arzt Bescheid..dann hat sich das hiermit auch erledigt.. Sucht den Fehler!!! Es scheint an der Kommunikation zu scheitern 😪<br> :date: __2020-06-07 07:54:15__
 
 

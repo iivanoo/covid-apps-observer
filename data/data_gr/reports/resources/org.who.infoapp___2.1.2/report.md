@@ -126,6 +126,8 @@ The WHO Info app has been installed by more than **100000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="org.who.infoapp 5 reviews"/>
 </p>
 
+> jafure<br> :date: __2020-06-16 06:19:43__
+
 > Good<br> :date: __2020-06-10 20:34:34__
 
 > hi md zihad mia<br> :date: __2020-06-10 12:49:41__
@@ -143,8 +145,6 @@ The WHO Info app has been installed by more than **100000** times. At this time,
 > করুনা বাই রাজ এলাটডামলো<br> :date: __2020-06-05 23:02:23__
 
 > Shows the acurate number of the infected people<br> :date: __2020-06-05 20:06:30__
-
-> fine<br> :date: __2020-06-05 16:20:47__
 
 
 
@@ -178,6 +178,8 @@ The WHO Info app has been installed by more than **100000** times. At this time,
 <img src="3_star_reviews_wordcloud.png" alt="org.who.infoapp 3 reviews"/>
 </p>
 
+> Very good apps<br> :date: __2020-06-17 19:02:00__
+
 > Will not download onto my 1year old state of the art smatphone. Bad, as a user of many android apps what are you thinking. I have found more than 3700 other users that can not use this app. Come on you must no you have problem.<br> :date: __2020-05-26 02:04:59__
 
 > Good<br> :date: __2020-05-14 21:22:11__
@@ -194,6 +196,8 @@ The WHO Info app has been installed by more than **100000** times. At this time,
 <img src="2_star_reviews_wordcloud.png" alt="org.who.infoapp 2 reviews"/>
 </p>
 
+> Learn more<br> :date: __2020-06-15 23:35:50__
+
 > WHO Inform Covid 19<br> :date: __2020-05-24 17:14:56__
 
 > Very little data or charts. Not consistent with Worldometer. Mostly an aggregation of news feeds about WHO<br> :date: __2020-05-15 15:38:10__
@@ -207,6 +211,10 @@ The WHO Info app has been installed by more than **100000** times. At this time,
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="org.who.infoapp 1 reviews"/>
 </p>
+
+> Jahangir<br> :date: __2020-06-19 05:46:57__
+
+> Crashed after one minute<br> :date: __2020-06-15 05:58:08__
 
 > Cannot download cv19 app<br> :date: __2020-06-08 15:19:41__
 
@@ -223,9 +231,5 @@ The WHO Info app has been installed by more than **100000** times. At this time,
 > THEY MADE IT 😷😷😷😷😷<br> :date: __2020-05-10 15:57:09__
 
 > None<br> :date: __2020-05-10 11:40:37__
-
-> Application is a waste of time, just like the organization.<br> :date: __2020-05-08 14:00:29__
-
-> Chinese propaganda<br> :date: __2020-05-06 11:43:52__
 
 

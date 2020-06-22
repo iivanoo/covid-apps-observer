@@ -131,13 +131,15 @@ The COVID-19 Symptom Tracker app has been installed by more than **10000** times
 <img src="5_star_reviews_wordcloud.png" alt="com.designit.covid_19 5 reviews"/>
 </p>
 
+> Top-Bin Begeistert :-) weiter so.update,seit ca 1 Woche klingelt das Handy bis zu 20 x und mehr durchgehend, wenn die Tägliche Nachricht kommt,warum auch immer.Jetzt sieht es so aus das keine tägliche Nachricht mehr kommt,man muss selber immer dran denken<br> :date: __2020-06-18 17:30:36__
+
+> Ich finde diese Corona App sinnvoll und gut<br> :date: __2020-06-17 10:35:16__
+
 > ich finde Corona warn app sehr gut.<br> :date: __2020-06-13 09:24:26__
 
 > Sehr gute app<br> :date: __2020-06-12 10:18:43__
 
 > So eben installiert und nehme dran teil :)<br> :date: __2020-05-24 16:07:03__
-
-> Top-Bin Begeistert :-) weiter so.update,seit ca 1 Woche klingelt das Handy bis zu 20 x und mehr durchgehend, wenn die Tägliche Nachricht kommt,warum auch immer.<br> :date: __2020-05-09 09:36:43__
 
 > Super<br> :date: __2020-05-04 13:16:29__
 
@@ -148,8 +150,6 @@ The COVID-19 Symptom Tracker app has been installed by more than **10000** times
 > Sehr gute App funktioniert einfach gut und für die Gesundheit macht man viel und man nimmt sich die paar Sekunden dafür<br> :date: __2020-04-30 18:41:10__
 
 > App hat sich komplett auf Anfang zurückgesetzt.. alles umsonst!<br> :date: __2020-04-30 14:01:26__
-
-> Die Fragebögen sind schnell und einfach zu beantworten. MACHT EINEN SCREENSHOT DES BENUTZERNAMENS, denn neim Update am 29.4.2020 gingen die gespeicherten Informationen verloren und ohne den alten Benutzernamen können meine Antworten von vor und nach dem Update nicht verbunden werden.<br> :date: __2020-04-30 10:21:12__
 
 
 

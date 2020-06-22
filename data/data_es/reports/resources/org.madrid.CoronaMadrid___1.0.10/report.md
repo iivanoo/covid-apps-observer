@@ -262,6 +262,8 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="org.madrid.CoronaMadrid 1 reviews"/>
 </p>
 
+> Aplicación muy básica y prácticamente inútil. No es nada de lo que debiera ser una aplicación de este tipo.<br> :date: __2020-06-17 22:13:05__
+
 > Inutil<br> :date: __2020-06-09 08:48:31__
 
 > A fecha de hoy sigue sin recomendar la mascarilla cuando es de uso obligatorio. NO vale ni para las recomendaciones. Una pena que se gasten tanto dinero y no haya un mantenimiento diario de la aplicación.<br> :date: __2020-06-08 13:41:12__
@@ -279,7 +281,5 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 > Y las miles de personas que desde el principio estamos sin sabor ni olor? No existimos?<br> :date: __2020-05-16 10:47:28__
 
 > Mala<br> :date: __2020-05-13 18:53:25__
-
-> Considero que es una memez de aplicación que recaba una cantidad de datos personales exagerada.<br> :date: __2020-05-11 09:57:27__
 
 

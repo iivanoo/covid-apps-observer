@@ -126,6 +126,10 @@ The WHO Info app has been installed by more than **100000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="org.who.infoapp 5 reviews"/>
 </p>
 
+> Informativ<br> :date: __2020-06-16 12:45:21__
+
+> Gute App. Sehr informativ! An alle die sich über die fehlende deutsche Sprache beschweren. Die WHO verwendet die Amtssprachen der UN: English, Französisch, Arabisch, Chinesisch, Russisch und Spanish. Es wäre viel zu aufwendig alle Berichte in jede Sprache zu übersetzen. Wer kein English kann kann es sich ja per Google Translate übersetzen lassen.<br> :date: __2020-06-16 11:28:39__
+
 > Naja hat mir besonders garnicht geholfen ich muss tuhen um umzusetzen<br> :date: __2020-04-18 00:58:20__
 
 > Zu Gunsten der Gesundheit werde ich meine extrem geheime Privatsphäre einschränken können... Datenschutz-Rotz. Track mich, Baby ;-) Wann kommt die eigentliche App ?<br> :date: __2020-04-17 14:10:26__
@@ -135,10 +139,12 @@ The WHO Info app has been installed by more than **100000** times. At this time,
 #### 4-star reviews
 
 <p align="center">
-
+<img src="4_star_reviews_wordcloud.png" alt="org.who.infoapp 4 reviews"/>
 </p>
 
-No recent reviews available with 4 stars.
+> Die App liefert verlässliche Informationen, nur in englischer Sprache.<br> :date: __2020-06-15 07:45:00__
+
+
 
 #### 3-star reviews
 

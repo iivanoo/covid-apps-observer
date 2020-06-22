@@ -149,6 +149,14 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 <img src="5_star_reviews_wordcloud.png" alt="au.gov.health.covid19 5 reviews"/>
 </p>
 
+> It does what it's meant to<br> :date: __2020-06-19 04:05:19__
+
+> Helping keep me safe and therefore other people are kept safe<br> :date: __2020-06-17 06:09:53__
+
+> Let's me know what is happening around Australia thanks<br> :date: __2020-06-16 05:55:34__
+
+> Very good and easy to.use Thankyou<br> :date: __2020-06-15 06:43:18__
+
 > Good tool It has lots of useful info<br> :date: __2020-06-14 10:58:40__
 
 > Good<br> :date: __2020-06-13 22:31:54__
@@ -161,14 +169,6 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 
 > Good thing<br> :date: __2020-05-11 23:17:24__
 
-> Coronavirus is the information of the most dangerous sickness in the world. The first time in the world that we have to work together and help each other for this reason we should all stay-at-home and try not to have a visitor and if we could get together and must fallow all the important information about this virus.COVID19. We will need to cooperate for the best way to back our normal life, I will have to be careful with my own experience with this. I am very happy and excited when the latest<br> :date: __2020-05-11 18:17:42__
-
-> It's very useful and gives me peace of mind<br> :date: __2020-05-08 20:19:48__
-
-> Crucial app you need to survive this disease that was definitely not released by any government or grouping of people to quell the overwhelming amount of people that are alive. This app it had too many similarities to plague Inc, but the story was the biggest failure of it all. I mean truly, who would believe our governments would release this disease on the people, it's too cruel to imagine. It's not like the powers to be around you are plotting against you. Or are they..<br> :date: __2020-05-08 02:07:04__
-
-> I am reviewing in response to the current most highly rated negative review. TLDR this is not spyware. Storing data on Amazon Web Services (AWS) is no real concern. AWS *does* have servers in Australia. It is very stable, and any sensitive data collected by the app (which afaik is *all* voluntary) will probably be about as secure as most government services. Using AWS means 99.99% uptime (not exaggerating), that the app is available much sooner than it would be otherwise, and cheaper on tax $$<br> :date: __2020-05-06 10:36:30__
-
 
 
 #### 4-star reviews
@@ -176,6 +176,8 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="au.gov.health.covid19 4 reviews"/>
 </p>
+
+> I'm thinking big box around the end of my bed = vr. Has potential if anything. He won't. / Rub my forehead LatcH<br> :date: __2020-06-16 09:18:45__
 
 > Would be great if you could also put how many active cases there are.<br> :date: __2020-05-21 00:11:52__
 
@@ -195,8 +197,6 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 
 > All I get is Aust gov site. Where is app?<br> :date: __2020-04-27 22:20:40__
 
-> Frustratingly good<br> :date: __2020-04-27 14:40:16__
-
 
 
 #### 3-star reviews
@@ -204,6 +204,8 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="au.gov.health.covid19 3 reviews"/>
 </p>
+
+> Only used occasionally as it is quite bitsy in that finding info isn't that intuitive. Most concerning is that finding specific details about Victoria is a link to a powerbi report that is almost impossible to navigate on a phone, the point of the app. If you want to view graphs and charts, find your local municipalities etc, then I'd suggest you head for a PC that it was built for the job. Interactive charts are a good concept but not when prepared for a PC and viewed on a phone.<br> :date: __2020-06-19 13:30:45__
 
 > Keeps turning itself off!<br> :date: __2020-05-19 04:42:12__
 
@@ -222,8 +224,6 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 > Dear Gov Oz good overall but if time ask those negative reviews e.g. force closure what system they use....keep up good work... we pray to Jesu Mary's Health bless us<br> :date: __2020-05-04 13:56:47__
 
 > Lite info and few updates ... than news media<br> :date: __2020-05-01 10:01:51__
-
-> Okay, this app keeps consumers informed and offers a dialect about what to do if you need to do something/anything. However, the app has zero allowance for inquiry; no room to question the ongoing situation. I don't disregard the media as an institution but its reporter's are sometimes off the beaten path and want to break a story rather than provide valuable information. Things will get better, stay vigilant and patient.<br> :date: __2020-04-29 14:26:47__
 
 
 
@@ -261,6 +261,8 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 <img src="1_star_reviews_wordcloud.png" alt="au.gov.health.covid19 1 reviews"/>
 </p>
 
+> Don't tell you anything<br> :date: __2020-06-21 15:00:17__
+
 > I was violated by having this app installed on my phone without any notice or warning or most importantly MY CONSENT.<br> :date: __2020-06-10 05:41:48__
 
 > Useless<br> :date: __2020-06-09 23:40:47__
@@ -278,7 +280,5 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 > Useless messed up a BRAND NEW CELL PHONE.WOULD NOT RECOMEND AT ALL<br> :date: __2020-06-02 12:28:37__
 
 > I don't remember installing this app, I did leave my phone charging overnight with the WiFi on. Why can't they just have emailed you instead or have an entire page just for Covid updates in your local newspaper.<br> :date: __2020-05-29 13:24:39__
-
-> Won't keep working. Send to be issue with battery optimisation on my android phone<br> :date: __2020-05-25 18:03:02__
 
 

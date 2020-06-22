@@ -160,25 +160,25 @@ The Sardegna Sicura app has been installed by more than **5000** times. At this 
 <img src="5_star_reviews_wordcloud.png" alt="it.regione.sardegna.autorizzazionicovid19 5 reviews"/>
 </p>
 
+> Ottima scelta il GPS<br> :date: __2020-06-20 19:30:33__
+
+> Funziona tutto correttamente, installata rapidamente, inserito con calma tutti i dati richiesti per la registrazione rileggendo tutto prima di inviare, ricevuto subito email di conferma con relativa password di accesso (che se uno vuole può cambiarsi in qualsiasi momento). Ho trovato già inserito nel mio account il viaggio registrato online e ho la possibilità di aggiungerne altri quando tornerò ad agosto. Nessun problema riscontrato.<br> :date: __2020-06-20 14:02:45__
+
+> Importante ed Utile. Grazie. 🌾☀️<br> :date: __2020-06-20 13:59:52__
+
+> App utilissima, molto intuitiva e precisa👍<br> :date: __2020-06-20 13:43:45__
+
+> Ho scaricato la App, il tutto con estrema semplicità e altrettanta velocità. Registrazione semplice e veloce così altrettanto la notifica ricevuta via mail. Nel complesso è facile e intuitiva da utilizzare. Nessuna difficoltà nell'usabilità riscontrata.<br> :date: __2020-06-20 10:50:56__
+
+> Semplice e ottima grafica.<br> :date: __2020-06-20 09:47:26__
+
+> Ottimi comunicatori...nonstante qualche problema iniziale hanno risolto prontamente<br> :date: __2020-06-19 14:02:34__
+
+> Abito in sardegna, e spero tutti la installino per fare vacanze sicure e bellissime, sia per i nostri cari turisti che per noi residenti.<br> :date: __2020-06-16 21:00:19__
+
+> Ho digitato erroneamente il mio nome senza accorgermi, ma non è possibile correggerlo dopo la registrazione né effettuarne una nuova perché risulto già registrato. Come posso effettuare la correzione?<br> :date: __2020-06-15 19:04:20__
+
 > Strano ma vero...funziona! Registrazione avvenuta con successo!<br> :date: __2020-06-14 16:41:09__
-
-> App molto facile e intuitiva, solo 10 minuti tra scaricarla ed effettuare la registrazione. La prima parte è simile alla registrazione di una qualsiasi compagnia aerea. Tenete a portata di mano carta di identità e prenotazione aereo o nave.<br> :date: __2020-06-14 13:15:02__
-
-> Scusate ho sbagliato ad inserire la email,ora non posso ricevere la password,come posso corregerla?<br> :date: __2020-06-14 12:40:29__
-
-> Veloce ed intuitiva. Funziona bene su Huawei p30<br> :date: __2020-06-13 23:31:29__
-
-> ho scaricato app sembrerebbe funzionare bene pero nn mi fa cancellare due regiatrazioni sbagliate fatte sul sito. visto che io mi sono registrato sul sito della Regione il qrcode nn lo ricevuto. mi potete confermare che il qrcode mi arriva una volta che ho cliccato sul link 48ore prima di partire e compilare ultima parte della scheda dei DATI ANAMNESTICI???<br> :date: __2020-06-13 23:17:10__
-
-> Ottima grazie alla regione Sardegna semplice da utilizzare veloce molto utile<br> :date: __2020-06-13 17:02:50__
-
-> Vorrei valutarla se si riuscisse ad entrare. Scaricata vado per aprire mi riporta all'app... Grazie. Perfetto grazie<br> :date: __2020-06-13 15:31:39__
-
-> Funziona alla perfezione<br> :date: __2020-06-13 14:36:42__
-
-> BELLISSIMA FUNZIONA BENE AL 100% SCARICATELA FIDATEVI!<br> :date: __2020-06-13 14:05:32__
-
-> Ho scaricato l'app, mi sono registrata senza problemi, mi è arrivato immediatamente il QR code. Con l'ultimo aggiornamento si può compilare anche il form anamnestico. Non capisco il perché di tante polemiche....<br> :date: __2020-06-13 12:02:58__
 
 
 
@@ -187,6 +187,12 @@ The Sardegna Sicura app has been installed by more than **5000** times. At this 
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="it.regione.sardegna.autorizzazionicovid19 4 reviews"/>
 </p>
+
+> Installata non mi compare l'applicazione tra le altre e non ho ricevuto la mail con la password Grazie<br> :date: __2020-06-19 16:53:06__
+
+> Un amico ha sbagliato a digitare la mail. La registrazione è avvenuta normalmente ma la mail di ritorno con la password non è arrivata. Rifacendo la registrazione il sistema comunica che é già registrato e non é più in grado di accedere salvo avere un'altra password e poter cambiare la mail. Oppure eliminare la registrazione per poter procedere a una nuova. Come facciamo ? Aspetto la soluzione altrimenti non sappiamo come proseguire.<br> :date: __2020-06-16 15:41:24__
+
+> Da aggiungere la possibilità di segnalare l'insorgenza di un sintomo durante il soggiorno.<br> :date: __2020-06-15 10:30:32__
 
 > Per cortesia esiste la versione in tedesco? Grazie<br> :date: __2020-06-14 15:04:47__
 
@@ -202,19 +208,25 @@ The Sardegna Sicura app has been installed by more than **5000** times. At this 
 <img src="3_star_reviews_wordcloud.png" alt="it.regione.sardegna.autorizzazionicovid19 3 reviews"/>
 </p>
 
+> Ho inserito tutti i dati per la registrazione ma non mi fa inviare richiesta...<br> :date: __2020-06-21 12:30:12__
+
+> Quali credenziali devo inserire per accedere all' app? Premetto che ho fatto la registrazione sul sito.<br> :date: __2020-06-21 10:42:07__
+
+> Buonasera io sto compilando lo stato di salute 48 ore prima del imbarco oggi x domenica ma quando inoltro non va , dice attenzione va compilato 48 ore antecedenti e'cosi' che o fatto cosa posso fare<br> :date: __2020-06-19 23:36:58__
+
+> Mi sono registrato e aggiunto il mio viaggio. È possibile aggiungere mia moglie allo stesso itinerario o deve avere un ulteriore account?<br> :date: __2020-06-19 11:32:39__
+
+> Ho scaricato l'APP ma all'atto di inserire la località di destinazione nella sezione "Soggiorni" non mi trova la provincia (Olbia-Tempio) e non mi permette di concludere e salvare la sezione. Mi trova solo le seguenti province : Sassari, Cagliari, Nuoro, Sud Sardegna (!?).<br> :date: __2020-06-16 13:20:16__
+
+> Buongiorno vorrei porre un quesito. Per chi viene in camper e si sposta continuamente senza aver programmato come si deve comportare? Come faccio ad indicare il luogo dove mi devo recare?<br> :date: __2020-06-16 10:47:13__
+
+> Il comune di Villasimius non compare nella lista dei comuni in provincia di Cagliari. Come Fare?😂<br> :date: __2020-06-15 15:42:04__
+
 > Come posso fare per rettificare il codice fiscale inserito ?<br> :date: __2020-06-14 19:07:41__
 
 > Ho sbagliato a scrivere la residenza ..invece di mettere la mia ho messo quella del villaggio dove soggiornero ...come posso fare per modificarla?...devo rifare tutto da capo?<br> :date: __2020-06-14 17:27:38__
 
 > Sto ancora aspettando la password per accedere via email 📧<br> :date: __2020-06-14 10:59:04__
-
-> Sono riusciti a registrarmi. Non si può rispondere alla domanda del nome della nave che cambia giorno per giorno ed è un pò complesso, non alla portata di tutti.<br> :date: __2020-06-14 08:33:22__
-
-> Ho sbagliato ed ho inserito una mail sbagliata all'atto della registrazione. Come posso fare?<br> :date: __2020-06-13 20:28:00__
-
-> Scusate ma.. Chi invece ha fatto la registrazione nel sito della regione? Deve rifarlo nell App solo perché non posso registrarmi con email e password? Mi sembra una cacchiata..<br> :date: __2020-06-13 15:49:06__
-
-> Intuitiva, semplice da usare<br> :date: __2020-06-12 20:44:46__
 
 
 
@@ -224,13 +236,25 @@ The Sardegna Sicura app has been installed by more than **5000** times. At this 
 <img src="2_star_reviews_wordcloud.png" alt="it.regione.sardegna.autorizzazionicovid19 2 reviews"/>
 </p>
 
-> Ho scaricato l'app per me tutto ok . Ho cercato di scaricarla sul tel di mia moglie ma non registra la sua anagrafica (tra l'altro corretta) e aggiorna soltanto la pwd della mia registrazione. Come faccio visto che dovremmo venire in due ?<br> :date: __2020-06-14 00:20:24__
+> La mia registrazione è andata a buon fine ed è stata completata, a mio marito non è arrivata la mail di conferma e l'indirizzo mail che consigliate risulta non raggiungibile.<br> :date: __2020-06-21 17:59:15__
 
-> La app non permette di apportare modifiche una volta inviato il modulo, e non permette di cancellare l account volontariamente, per favore ponete rimedio a questi problemi il prima possibile, io ho sbagliato a mandare il modulo perché volevo semplicemente fare una prova e non ho allegato niente, per quando partirò ho intenzione di fare il test e non ho la possibilità di allegarlo successivamente in alcuna maniera per cui RIMEDIARE GRAZIE. Poi magari vi darò pure cinque stelle.<br> :date: __2020-06-13 22:11:03__
+> Mi sono registrata correttamente na non ho ricevuto alcuna email fi conferma e PW<br> :date: __2020-06-21 14:49:12__
 
-> Non posso cambiare la PW xché non me ne dà il tempo. Sessione scaduta dopo pochi secondi. Per il resto vedrò con calma, però non mi sembra completa. Ridarò una valutazione quando l'esaminerò completamente. Ma le persone anziane che non hanno uno smartphone, come devono fare?<br> :date: __2020-06-13 20:59:16__
+> Non ho capito come aggiungere mia moglie.... I figli ok<br> :date: __2020-06-20 17:55:53__
 
-> Non mi fa scaricare l app Come devo fare<br> :date: __2020-06-13 17:08:48__
+> Applicazione secondo me troppo complicata,sono 20 anni che vengo in Sardegna , adoro questi posti meravigliosi, ma se fate queste applicazioni invogliate la gente a non venire, secondo me i problemi dell'applicazione sono diversi, prima di tutto se viene una famiglia di 4 adulti ognuno deve avere la sua app? io dalla mia ho aggiunto mia figlia di 16 anni , ma mia moglie ha dovuto scaricare l'app anche lei , se un mio amico viene con moglie e figlia di 18 anni devono scaricare 3 app ??? Nome nave come risposta già vista sul biglietto non è specificata ed ho messo "Nome nave sconosciuta" Per il modulo da compilare 48 ore prima della partenza dove lo sitroverà ? Ripeto secondo me è troppo complicata e purtroppo tanta gente quest'anno non verrà nella vostra magnifica terra....<br> :date: __2020-06-20 11:42:21__
+
+> Non riesco a resettare la password. Ho inserito codice fiscale e e mail ma non mi arriva e mail per reset<br> :date: __2020-06-18 10:12:00__
+
+> Buongiorno,mi sono registrata sull'app,ma non è ancora arrivata la password, potete mandarmela con urgenza .. Grazie.<br> :date: __2020-06-17 13:39:48__
+
+> Scusate io ho ricevuto via mail identificativo per la richiesta di arrivo&partenza. Poi scrivete che 48 ore antecedenti alla partenza bisogna compilare le dichiarazioni di stato di salute. Come faccio a riprendere la richiesta già inserita se non c'è un campo dove inserire "ID e GUID". Devo rifare tutta la procedura nell'app?<br> :date: __2020-06-16 16:07:46__
+
+> Una perdita di tempo inutile. Si sconnette troppo velocemente con il risultato di dover rifare tutto da zero. Davvero senza senso, fate scappare i turisti.<br> :date: __2020-06-16 15:24:38__
+
+> Ho sbagliato la e-mail di riferimento, dalle impostazioni è impossibile modificarla, come faccio a eliminare un profilo per rifarlo con i dati corretti?<br> :date: __2020-06-16 13:01:28__
+
+> Come mai ci mette tanto tempo per arrivare email di conferma per accedere, dal sito web delle Regione non mi accetta il formato email e dalla app non arriva nulla<br> :date: __2020-06-16 10:42:45__
 
 
 
@@ -240,24 +264,24 @@ The Sardegna Sicura app has been installed by more than **5000** times. At this 
 <img src="1_star_reviews_wordcloud.png" alt="it.regione.sardegna.autorizzazionicovid19 1 reviews"/>
 </p>
 
-> Non serve a nulla se non a rompere le scatole alla gente.<br> :date: __2020-06-14 20:51:52__
+> Dopo un minuto che sono nell'app mi butta fuori e bisogna riloggarsi. Ci vuole una vita per fare tutto. Assurdo. E' un disincentivo al turismo in Sardegna!!!!<br> :date: __2020-06-21 18:44:54__
 
-> Mi dice codice fiscale non valido<br> :date: __2020-06-14 19:47:31__
+> L'app non mi permette di inserire il viaggio. Mi sembra una situazione abbastanza ridicola.<br> :date: __2020-06-21 17:31:53__
 
-> Ho fatto la registrazione sul app sardegna sicura però non mi e arrivato la password<br> :date: __2020-06-14 19:30:19__
+> un cittadino italiano nato all'estero come fa a registrarsi? Deve spuntare non esserlo allora gli apre la possibilità di indicare il paese e la città di nascita. 2) TIN ... Che cos'è? Chi non ha un TIN? Io personalmente ho indicato il n. della partita iva per procedere e chi non ha una partita iva che fa? Molti dati indicati come obbligatori sarebbero da richiedere come facoltativi. 3) personale sanitario: che fine fa la richiesta di chi ha avuto contatti con affetti da Covid per lavoro?<br> :date: __2020-06-21 09:13:06__
 
-> Scaricata app inseriti tutti i miei dati non riesco a registrarmi perché dice codice fiscale invalido<br> :date: __2020-06-14 19:01:09__
+> Non è possibile effettuare una nuova registrazione. Si compilano tutti i dati ma il bottone per avviare la procedura rimane grigio (un messaggio dice di compilare tutti i campi con l'asterisco ma non ce n'è nemmeno uno)<br> :date: __2020-06-20 21:42:22__
 
-> Non mi è ancora arrivata la password temporanea.<br> :date: __2020-06-14 18:31:03__
+> Mi dice che è sbagliato il codice fiscale ma non è vero<br> :date: __2020-06-20 20:40:12__
 
-> Scusate, il sistema dopo aver scaricato la app inserito mail e Pw mi dice errore Pw o mail di mettere una maiuscola , due numeri ed un carattere speciale. Fatto, continua a darmi errore. Cosa devo fare?<br> :date: __2020-06-14 15:01:48__
+> Tirrenia non fornisce il nome della nave, né ho scritto uno ma non so se sarà quella la nave. È un problema? Poi non si può aggiungere un soggiorno ad una registrazione già effettuata?prima della casa vacanza resto due giorni a casa di parenti, come posso fare ora?<br> :date: __2020-06-20 19:22:54__
 
-> Sicuri che funzioni ? Sto inutilmente provando da due giorni a scaricarla ,su un dispositivo android, ma nulla ! ...proverò con la registrazione sul sito forse andrà meglio ...!<br> :date: __2020-06-14 13:51:12__
+> Sono residente in Sardegna. Martedì dovrei partire per la Corsica per una settimana. Ho scaricato questa App Sardegna Sicura ma non mi riconosce il codice fiscale come devo fare?<br> :date: __2020-06-20 18:05:35__
 
-> Ho installato la app ma non ho avuto nessuna email di conferma. Non posso entrare nella app.<br> :date: __2020-06-14 12:55:16__
+> Sia all'imbarco che all'arrivo nessuno ti chiede niente. Alitalia chiede di compilare un suo modulo sullo stato di salute. Avete creato confusione per partorire il nulla!<br> :date: __2020-06-20 06:59:08__
 
-> Informaticamente é un aborto. Non é possibile cambiare la password perché dopo pochi secondi dall'accesso la sessione é già scaduta. A ZAPPARE LA TERRA!!!!<br> :date: __2020-06-14 10:46:12__
+> Non serve a nulla se non a rompere le scatole alla gente.<br> :date: __2020-06-20 06:17:45__
 
-> Non funziona a cominciare dalla registrazione!<br> :date: __2020-06-14 08:20:39__
+> non da possibilità di registrazione<br> :date: __2020-06-20 00:59:37__
 
 

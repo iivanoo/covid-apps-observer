@@ -118,6 +118,8 @@ The COVID-19.eus app has been installed by more than **50000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="com.erictelm2m.colabora 5 reviews"/>
 </p>
 
+> Regular<br> :date: __2020-06-16 16:36:15__
+
 > Súper útil para evitar contagios y nuevos rebrotes!!<br> :date: __2020-06-11 09:18:56__
 
 > Falta mas desarrollo pero veo constantes cambios que me dicen que mejorara la app. Puede darnos información muy útil si todos la usamos, y podría evitar q gente con riesgo se mezcle en ciertos sitios, supongo q para eso es el QR. Ya lo hicieron en China. Ademas tienes mucha información actualizada. Mis 5 estrellas para impulsarla y para que sigáis trabajando. Animo a los demás a hacer lo mismo. Hemos estado aplaudiendo a los sanitarios y podemos dar apoyar también con nuestro voto. Gracias.<br> :date: __2020-06-10 16:30:41__
@@ -135,8 +137,6 @@ The COVID-19.eus app has been installed by more than **50000** times. At this ti
 > Muy buena<br> :date: __2020-06-03 21:51:06__
 
 > Es informstivo<br> :date: __2020-05-31 01:28:42__
-
-> Todo bien, gracias!<br> :date: __2020-05-28 10:54:44__
 
 
 
@@ -230,6 +230,8 @@ The COVID-19.eus app has been installed by more than **50000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="com.erictelm2m.colabora 1 reviews"/>
 </p>
 
+> Mala. No deja añadir los contactos a los círculos. El desarrollador @osakidetza.eus no responde los mails de problemas.<br> :date: __2020-06-18 11:12:42__
+
 > La app es nueva aún; 1-pensar en el colectivo sordo, cómo comunicar por escrito,no podemos por voz, etc 2-en vez de invitar a gente para agregarlos, mejor mostrar lista de los contactos que están usando la app.<br> :date: __2020-06-07 10:56:57__
 
 > Es una vergüenza como tiran el dinero en por ahí, lo lógico es utilizar la rutina de covid19 a través de bluetooth de Apple y Google, con mucha más privacidad y sin tener que crear ninguna red. Además lo lógico es que solo hubiera en Europa una app de seguimiento, es una vergüenza lo de las nacionalidades, comunidades y chiringuitos.<br> :date: __2020-06-06 12:24:56__
@@ -247,7 +249,5 @@ The COVID-19.eus app has been installed by more than **50000** times. At this ti
 > No le veo utilidad. No la usa mi ha gente.<br> :date: __2020-05-16 13:58:39__
 
 > Al agregar una solicitud, me dice k el usuario ya está agregado o tiene una invitación pendiente. Y no es así. Lo intenta mi contacto y me dice lo mismo. No agrega bien los contactos. Si esta es la fiabilidad que tiene, igual no merece la pena instalarla... una pena<br> :date: __2020-05-13 19:43:48__
-
-> Para empezar, soy inmunosupresora, y no tienes la opción de ponerlo. Anotar el contacto de la gente con quién te relacionas? Yo estoy trabajando, mis compañeros no tienen la aplicación, y muchos no quieren (el teléfono de mis jefes, no tengo) Y no se actualiza la última vez que entré en la app. El último acceso me dice que fue cuando la instalé. Siempre me pone riesgo 0. No creo que sirva más que para decir si estás bien o tienes síntomas, para nada más.<br> :date: __2020-05-11 21:13:49__
 
 

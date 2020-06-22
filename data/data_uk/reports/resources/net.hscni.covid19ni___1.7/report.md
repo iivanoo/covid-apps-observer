@@ -184,6 +184,8 @@ The COVID-19 NI app has been installed by more than **50000** times. At this tim
 <img src="4_star_reviews_wordcloud.png" alt="net.hscni.covid19ni 4 reviews"/>
 </p>
 
+> A bit empty but good overall!<br> :date: __2020-06-17 22:06:54__
+
 > Manchester not,,,,,<br> :date: __2020-06-11 21:25:59__
 
 > Quite good app as has a symptoms checker and some info, advice and statistics.. However doesn't have what I actually downloaded it for which was to find out about updates to current regulations and recovery plan such as easing of lockdown rules etc.. Have to search for this and then visit nidirect website for this info..<br> :date: __2020-06-07 21:55:20__
@@ -232,6 +234,8 @@ The COVID-19 NI app has been installed by more than **50000** times. At this tim
 <img src="2_star_reviews_wordcloud.png" alt="net.hscni.covid19ni 2 reviews"/>
 </p>
 
+> Not in NI but won't load 😔<br> :date: __2020-06-20 10:41:04__
+
 > Sporadic updates. Better to just use google.<br> :date: __2020-05-26 17:42:14__
 
 > No updated figures since April 30<br> :date: __2020-05-04 17:55:33__
@@ -252,6 +256,8 @@ The COVID-19 NI app has been installed by more than **50000** times. At this tim
 <img src="1_star_reviews_wordcloud.png" alt="net.hscni.covid19ni 1 reviews"/>
 </p>
 
+> Ok<br> :date: __2020-06-15 16:57:46__
+
 > Insta-crash all this week - lucky we don't need it yet. Pointless when it was working. Out of date news. Weblinks in one place might be useful. Contact Tracing search links to this app.<br> :date: __2020-06-05 09:30:21__
 
 > App is garbage. Only for NI.<br> :date: __2020-05-25 23:34:54__
@@ -269,7 +275,5 @@ The COVID-19 NI app has been installed by more than **50000** times. At this tim
 > Pointless really, after you go to the trouble of registering and getting it set up, all our doors is ask you 3 questions. Have you a temperature? Have you a continuous cough? Did anyone in your household have covid symptoms? That's it!!<br> :date: __2020-05-20 20:09:40__
 
 > Latest information updated 20 days ago. I wanted to find out how far I can travel from home. I still have no idea. This app is completely useless and not up to date<br> :date: __2020-05-19 20:12:40__
-
-> Useless and a waste of tax payer money. What's the point of this app? It shows text which I can see on any website and get the same service as this "app". And it's only available to NI? What's next, a different app for every other village in NI? What a joke. It's clearly a set-up between developers and HSC to show the public they are doing something, in reality doing nothing.<br> :date: __2020-05-07 10:46:29__
 
 

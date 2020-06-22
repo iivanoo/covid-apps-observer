@@ -1,27 +1,54 @@
 [
     {
+        "reviewId": "gp:AOqpTOFgI6MpCb4VdeWZdO7rDRzC04v-AXPhwszIsria_6Fzm4NhfnquilAyip-ARh5hw8PxlSariEV0tpmvOw",
+        "userName": "Meindert Meun",
+        "userImage": "https://lh3.googleusercontent.com/-CtvTTYUDvFE/AAAAAAAAAAI/AAAAAAAAGrY/AMZuucns-qpgROkBMcsSY1JmGhSukrZZrw/photo.jpg",
+        "content": "Wat een waardeloze onzin. Hoe kun je nou iets geloven als er niet eens data naar buiten wordt gebracht. Ik geloof hier helemaal niks van. Als je tegenwoordig dood gaat aan een of ander ongeluk, wordt het gewoon vertaald als corona. Nee dit gaat er bij mij niet in",
+        "score": 1,
+        "thumbsUpCount": 4,
+        "reviewCreatedVersion": "1.2.5",
+        "at": "2020-06-19 21:20:43",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGf8PhiX252oC06zsEV6mV6GgyXV6G0l4-xfXw2zDqyc4EchUhFeKa4OWaoJy1y0bqFnA9S_qjRkqdBmg",
+        "userName": "Bert Meulenkamp",
+        "userImage": "https://lh3.googleusercontent.com/-7-ceEkuvveU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnRZk8c4dt92HRc7sKUKMNrOWU37w/photo.jpg",
+        "content": "Zeer goede en bruikbare informatie",
+        "score": 5,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "1.2.5",
+        "at": "2020-06-18 17:15:10",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOEX5ZMTnGQUWXG36N6UrMFGSu2Sy6VbS3o9ai1iwFKSSNnWoQjT92mtjLeBer49NMzygcckWzKNgBLl6g",
         "userName": "Tom Alexander Weststrate",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gih3RIi-1rZW9wt51vSBAiIs74I0XJv9u2bPjxb_wk",
         "content": "Geweldige app die het hellaas op een Lenovo tab M10 niet doet..",
         "score": 5,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "1.2.5",
         "at": "2020-06-12 17:52:50",
         "replyContent": null,
         "repliedAt": null
     },
     {
+        "reviewId": "gp:AOqpTOHlmgipcItZe4FGhi_rhAyTs2Rr1A156lGWdkcBaLYdwaDr2XTsA0N11KYf2fx0luQTXOE2n806dxPcOQ",
         "userName": "Ellen Heuvel",
         "userImage": "https://lh3.googleusercontent.com/-soOdunQqz04/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmTDdNo7fZkQunKCSOsEjgY41ud-Q/photo.jpg",
         "content": "Gedownload,bekeken en verwijderd",
         "score": 1,
-        "thumbsUpCount": 1,
+        "thumbsUpCount": 3,
         "reviewCreatedVersion": "1.2.5",
         "at": "2020-06-08 05:33:41",
         "replyContent": null,
         "repliedAt": null
     },
     {
+        "reviewId": "gp:AOqpTOFMd3TFWk4KkAuLM306nP4nYSv2wbplE4OOcsks9cEiLaKc3Y11PlnSQZCDmalK33AsMXzoQxHcQ4pD4w",
         "userName": "Ria van der Zee",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjsbfRKZMhfkMK4v-hL0ufg0J9QWI8zXixdeWA5",
         "content": "werkt niet eens.. kan de gegevens niet downloaden... dat gaat levens redden \ud83d\udc4c",
@@ -33,6 +60,7 @@
         "repliedAt": null
     },
     {
+        "reviewId": "gp:AOqpTOEGej-RydQWB5sT9fzMxD0TMXlzA3OLFNcueyMBs0enToLQpghjGus9pdKJmzHb1SVoxdDSJ6Bb1_5ZjQ",
         "userName": "Abdelmalik Bady",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjdXEcXmfgzuPlX_DUFkLzxR5V5TGNQHZgfwxdD",
         "content": "Prima \ud83d\udc4d duidelijk.",
@@ -44,17 +72,19 @@
         "repliedAt": null
     },
     {
+        "reviewId": "gp:AOqpTOFt3X17Qmcxbi9tKTOPUm8geLBawwxvuLKttgkuKZ716FqE6eit4aHMD1JlWDskiG823Nx7kgCveWmdeg",
         "userName": "Petra Binnendijk",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjN8gE55qc4XxxRmS6spvAQbrrIjCUEc_R8KyvhWw",
         "content": "Handig die richrlijnen",
         "score": 5,
-        "thumbsUpCount": 1,
+        "thumbsUpCount": 2,
         "reviewCreatedVersion": "1.2.5",
         "at": "2020-05-13 18:57:39",
         "replyContent": null,
         "repliedAt": null
     },
     {
+        "reviewId": "gp:AOqpTOFG3SC-edgftFBH-Mh94CbvgNKqbi6RpbUXE_EUhXFLdM7bHiHixB0RJIn0jrkPxt8kuaUpKvUqZ4U7Bw",
         "userName": "Gerrit Brunink",
         "userImage": "https://lh3.googleusercontent.com/-KnW-5eJXdBk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnJCIblRXrTCKkAGg3oNvcaykIHsA/photo.jpg",
         "content": "Goed",
@@ -66,6 +96,7 @@
         "repliedAt": null
     },
     {
+        "reviewId": "gp:AOqpTOFIN3X6Z-8DW7vEQTUkMf3dqqbsBpkn9IyktFI2fKL8ynRn56FZaNkJltHRvTsJ3ki47w8CvoKI2tT1Tw",
         "userName": "Tommy Janssen",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gh84MlchLclo2TDbf6gOlMU94d_GJHWCyftkFxC6A",
         "content": "Te slecht voor woorden hier maak ik geen tijd meer voor vrij.",
@@ -77,17 +108,19 @@
         "repliedAt": null
     },
     {
+        "reviewId": "gp:AOqpTOFWnp1WkE_eXqIhpTtkmaqCB396mr2tfMsdnaRrPf721eE1FE9OHhL7F1zs18AljgIhXz6Kl0mw46vgew",
         "userName": "GW ZWART",
         "userImage": "https://lh3.googleusercontent.com/-ewo6oANtfrw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnJGCn9m3fNbGEw-cUq_W3BXicPiA/photo.jpg",
         "content": "BLIJF. ANDERHALVE .METER . AFSTAND HOUDEN/ PLEASE KEEP 1,5M DISTANCE AT ALL TIMES , otherwise YOU CAN GET FINED \u20ac290,--!!!!!!",
         "score": 5,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "1.2.5",
         "at": "2020-05-05 22:02:40",
         "replyContent": null,
         "repliedAt": null
     },
     {
+        "reviewId": "gp:AOqpTOEfEgh8ZL2d6vXvXqvbE0VNhc8wJkuMweak_1DhG8RwU-_RAhwX5UCaSi16gCacv49T-1IXZJI1aZRfOQ",
         "userName": "Walter Ghoerahoe",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjmOrN6nEUHn4P3rGMv_JvX33L5RV6RRW1NzE5FpQ",
         "content": "Super mooi.werk prima.",
@@ -99,6 +132,7 @@
         "repliedAt": null
     },
     {
+        "reviewId": "gp:AOqpTOF4PvC4fwiTgYkUuqrAaifqnpkB2szSvlmLzAfRybJOnzUuX6nQjcZFvNrALo0GD_R2C8nAyPAbtL_lkQ",
         "userName": "Rommert Werkman",
         "userImage": "https://lh3.googleusercontent.com/-kgKDaWq_PYA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnsvMZghTH3DnLbQ5Um_4ANeOnR8A/photo.jpg",
         "content": "Goede app maar niet voor de particulier",
@@ -110,6 +144,7 @@
         "repliedAt": null
     },
     {
+        "reviewId": "gp:AOqpTOEZTXxOQn3JISuIZVPmxa-IM0BmtLUdxuU3b_uByPyy946HsiSAgs1IMIePr81es1nniBDULMMFqPKnEA",
         "userName": "Doeke Hemstra",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjNBgMQ90lhlIuZ35n4_m5Ahyr0l10zKFw-fI9WSg",
         "content": "Goed",
@@ -121,6 +156,7 @@
         "repliedAt": null
     },
     {
+        "reviewId": "gp:AOqpTOF2jIVFjGRDRSKnXZTFzv7pSCmwmUiYz5to6dOqvHmVWeCcwJlWobV8kbslaU8bM6-M-8wNUnVfKzoZRw",
         "userName": "ferry wehmuller",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgE48QPULTt-lwCO4wPWAT8dOmfFqd5-tTqpRH4fQ",
         "content": "Duidelijk",
@@ -132,6 +168,7 @@
         "repliedAt": null
     },
     {
+        "reviewId": "gp:AOqpTOGW4J0St1m8YK1VQPDzrAoEt3B4pvXWIoN6H9jhydKiJE0SKigASf9Ky4wprjl94ytjVRExIDqo_KtvMA",
         "userName": "Patricia p",
         "userImage": "https://lh3.googleusercontent.com/-QpaOGFc636s/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmb_REpiCot3MuJL8wXfbwW1O1yeQ/photo.jpg",
         "content": "Werkt niet laadt niet geeft aan dat je geen internet hebt terwijl je gewoon internet hebt",
@@ -143,6 +180,7 @@
         "repliedAt": null
     },
     {
+        "reviewId": "gp:AOqpTOFWYVEuMPpPY-x10wZajnsd5Zz20PAmlaglLro4LiNsmqrxTGDsKWwUtNXJv7yHnGppDoEVUAI0M-cRIg",
         "userName": "Angelo Agus",
         "userImage": "https://lh3.googleusercontent.com/-rbArlmp8TcU/AAAAAAAAAAI/AAAAAAAAAFU/AMZuucnvR3V6Cthc0wBvQ0I_5iBoIkZqRg/photo.jpg",
         "content": "Nvt",
@@ -154,6 +192,7 @@
         "repliedAt": null
     },
     {
+        "reviewId": "gp:AOqpTOEq31Aj2uC9PF-v20s-VSsFdxB4HM9HMgg4tl8fZgBcJRox3OQMccSmIJr6iaXIq1SYARKGfV-EERThUA",
         "userName": "Bonami Smith",
         "userImage": "https://lh3.googleusercontent.com/-U0HhhzbcULs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm4NmP-Vs7Jk2Q5lP1K4hZjv0O3Mg/photo.jpg",
         "content": "Top",
@@ -165,6 +204,7 @@
         "repliedAt": null
     },
     {
+        "reviewId": "gp:AOqpTOHiOCHk1lDwB_CkihsEsu_CT47q0TmmV6qCJkakoMZ-pSgzOdhlwgM9nEfDTxmDjycd4oKsvA_F_6z2tQ",
         "userName": "Shame",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiSd2DpfgVNYtQw_bGiC7Qec3I-6jvQoQZvkpdyiQ",
         "content": "Actuele info haal je van de website",
@@ -176,6 +216,7 @@
         "repliedAt": null
     },
     {
+        "reviewId": "gp:AOqpTOF3mbEZr-duCJ5Jtp70yPhTFO-N3TlfA2kw1n-XpYCyJ7495mhQ1KIphvE5n0eaPlq3yiIsGiIfAMFc4A",
         "userName": "Joseph Laak",
         "userImage": "https://lh3.googleusercontent.com/-9eq223fj53o/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmc7fRFDg1K8H28_X0zPVKZ5I4T7A/photo.jpg",
         "content": "cruciale beroepen waarbij niet word weergeven over personeel beveiliging die elke dag ermee in aanraking komen ik werk op een dakloze centrum als beveiliger waarbij het elke dag een risico bestaat over besmette daklozen.",
@@ -187,28 +228,31 @@
         "repliedAt": null
     },
     {
+        "reviewId": "gp:AOqpTOG3hp-TlUrmNWf9CrNM4DJUIStZhRcJj6v0aZ1mlvBp9bMZbrnUZOCzB6yD71xTwUFbZW9_wZJ8DQi1bw",
         "userName": "Ina Vd Ploeg",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhWAg21l8e_KHPPMhPJhBsfyjCXTbigPPFX-hSFlQ",
         "content": "Duurt TE lang voor alles gedownload is",
         "score": 1,
-        "thumbsUpCount": 4,
+        "thumbsUpCount": 5,
         "reviewCreatedVersion": "1.2.5",
         "at": "2020-04-14 19:48:15",
         "replyContent": null,
         "repliedAt": null
     },
     {
+        "reviewId": "gp:AOqpTOHXvVLQy8_wHlUhIIyfZP7wleDtcSev9DPVbyDWVlyStdJAtalHCmi3XW257L7JByNjN6rzDh-4GXHEVQ",
         "userName": "BlurryWesley",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjW_YQUrr4f_-hUE9wekDrM752lOaV4_navX0sf8w",
         "content": "Best een ok\u00e9 app maar alles rondom de richtlijnen is op dit moment een grote onnodigheid als Rutte en zijn teampje er eerder bij waren geweest had dit niet hoeven gebeuren",
         "score": 1,
-        "thumbsUpCount": 18,
+        "thumbsUpCount": 21,
         "reviewCreatedVersion": "1.2.5",
         "at": "2020-04-14 14:24:32",
         "replyContent": null,
         "repliedAt": null
     },
     {
+        "reviewId": "gp:AOqpTOFOwau8EUcRJq0kqJlMmPgJJfjFDDAtXwgUzAqCPfNozCbVfMbkHndyWNswMt2NEC9Wv0RtwhEGFdrpCg",
         "userName": "Viola de Boer",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjpLU72E04lTobOzNUUO7PXBDXTshlZb2OWulOAFw",
         "content": "Graag nog de app aanpassen aan corona crisis.",
@@ -220,6 +264,7 @@
         "repliedAt": null
     },
     {
+        "reviewId": "gp:AOqpTOFLSFaLScedtXfY2su0q2dguVxIV37vaXF5bFUDb_FVwIkwIWdj3AtZ9cOoiSHV6GSpsYcRNA7wcUJ1gA",
         "userName": "2 september sgangane",
         "userImage": "https://lh3.googleusercontent.com/-5EemVJ3RUgE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm6ep3XBTiQ0z1x2bED885n_tUUnQ/photo.jpg",
         "content": "E\u00e9n oorlog om bacteri\u00ebn uit te roeien is geactiveerd, het had beter voorkomen kunnen worden.... nu heeft bacteri\u00ebn zoals corona veel mensenlevens, verdriet, pijn, ellende, etc etc veroorzaakt. Laten we met zijn allen nu ECHT BEGINNEN MET VOORKOMEN, NOG ALTIJD BETER DAN GENEZEN. HET ZIJN ONGEWENSTE BACTERI\u00cbN IN DEZE WERELD DIE DE MENS VERVUILD ALS OOK DE GEEST EN ZIEL VERBITTERT. SUCCES",
@@ -231,28 +276,31 @@
         "repliedAt": null
     },
     {
+        "reviewId": "gp:AOqpTOEk6RvPSEcLhfCXTAR7ynHGKlOowYMTnhz1983REsV_AXP9WqVdTL001kRmKWlA5xvf5uwymDRhqHsYjA",
         "userName": "Malyar",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gjghouiw3TURBi4N6Trh-p35NhLodZtHG1fNhV5zA",
         "content": "Helemaal top!!!",
         "score": 5,
-        "thumbsUpCount": 3,
+        "thumbsUpCount": 4,
         "reviewCreatedVersion": "1.2.5",
         "at": "2020-04-09 11:36:44",
         "replyContent": null,
         "repliedAt": null
     },
     {
+        "reviewId": "gp:AOqpTOGK2i_v_fPoTZSUzkDB7MKf6us9XHkGlLMQq3Klu5yX3m_8h3f96QIHuTpnkYYtywkgl-vZod3Zd6Mrzw",
         "userName": "Richie Damrie",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gg0k_0EBcGfL9ePDvcFIZKTqQ_WyBeer4wU-eJrpg",
         "content": "Meest nodige informatie zit in deze app \ud83d\ude4f NAMASTE",
         "score": 4,
-        "thumbsUpCount": 7,
+        "thumbsUpCount": 8,
         "reviewCreatedVersion": "1.2.5",
         "at": "2020-04-09 09:55:23",
         "replyContent": null,
         "repliedAt": null
     },
     {
+        "reviewId": "gp:AOqpTOGPT-rjIIMQMAUhbcV8wdrhTpmBuZxbLVMcAn5-4Lrp6ghFhoje4b6ypGYReijAjVM3RyyV6A0aRto0Yw",
         "userName": "bart kracht",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gh1EsCuoBJUnjVSKjhHZSaMi721Emq4rSzVi9QCiw",
         "content": "Werkt niet zeer slecht \ud83d\ude08",
@@ -264,6 +312,7 @@
         "repliedAt": null
     },
     {
+        "reviewId": "gp:AOqpTOGgcivuN1ehsVZEQtLC2VqB4HRolZQSQN0FbUyl6REtrSyia_KSPfDQ3Skbh12V9XpoYdvPF9IquG5Zkw",
         "userName": "Annelies Kars",
         "userImage": "https://lh3.googleusercontent.com/-s2FGAinUyk4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckLx5xvotz6Po5-0qe2whEBqODU0g/photo.jpg",
         "content": "Gegevens worden niet opgehaald",
@@ -275,17 +324,19 @@
         "repliedAt": null
     },
     {
+        "reviewId": "gp:AOqpTOHLJ-nxSQf-KgPwRGTC__bht88aH_0qDNUviyoX_8U5k1X-IQ6W_5SsYKCSdZl75TQCSYQETxnQE8GYpA",
         "userName": "Ap van der Heide",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gg9t11XftpmRrTEQ2MKeko4WvPN2sCKtpYPtCaT",
         "content": "Prima App met veel informatie",
         "score": 5,
-        "thumbsUpCount": 6,
+        "thumbsUpCount": 7,
         "reviewCreatedVersion": "1.2.5",
         "at": "2020-04-08 10:15:50",
         "replyContent": null,
         "repliedAt": null
     },
     {
+        "reviewId": "gp:AOqpTOFVvccDS4NPJzpKR2UpQcV9LZReMRUgasnNiNDeZ_EK0r1YUyppHRScw89qqkBVO3vJu8ZSJJE5arGBwQ",
         "userName": "Jos P.M. Borsboom",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gi2x8cXK7K1jEbKIDNLnud30R3kX613pu7zoSWEKU4",
         "content": "Kan bestanden niet downloaden.",
@@ -297,50 +348,55 @@
         "repliedAt": null
     },
     {
+        "reviewId": "gp:AOqpTOGwQ1LueWCw-fRPLktzjwEekRawso5wfGrbI7vue5L_FlC_Ao70oQ-Etg8-qb_uu1f-yO3uccaX4UIyQQ",
         "userName": "Willem Tieleman",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgrhUUUx--Qdhfg_7GQ2iBwNHoHoqmd4kvebxy3SWw",
         "content": "Erg veel informatie interessante telefoon nummers, info over allerlei ziektes, en wat jij nog meer zou willen weten over corona staat hier in. direct downloaden. Blijf gezond en houd je aan de regels.",
         "score": 5,
-        "thumbsUpCount": 107,
+        "thumbsUpCount": 110,
         "reviewCreatedVersion": "1.2.5",
         "at": "2020-04-05 14:12:57",
         "replyContent": null,
         "repliedAt": null
     },
     {
+        "reviewId": "gp:AOqpTOESmwBTnMMp7GcPMWX9dyBpFiHJEK1hiFmLcraLV3eJFdTtmWpcC10IvUewHK8joZXC5pKPk-jlLtD49w",
         "userName": "H De zoete",
         "userImage": "https://lh3.googleusercontent.com/-1g6UWfHii8k/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmZ-D3gqDmBcSQUt14cmpP8NsenDw/photo.jpg",
         "content": "Goede app. Informatief en duidelijk. \ud83d\udc4d",
         "score": 4,
-        "thumbsUpCount": 16,
+        "thumbsUpCount": 17,
         "reviewCreatedVersion": "1.2.5",
         "at": "2020-04-05 10:16:42",
         "replyContent": null,
         "repliedAt": null
     },
     {
+        "reviewId": "gp:AOqpTOFzgSWth-ku7e57xl8PW4sbx0-WGxnFPMXE7aA_nHihffZ0cXZqQznjdQPYiUFfhkLs8WDfM71K8EHmtQ",
         "userName": "M36 O36",
         "userImage": "https://lh3.googleusercontent.com/-jOL7LHmsBMM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmBIuXRFyIiZZIB4wFoYS_TPkYe8g/photo.jpg",
         "content": "Veel info",
         "score": 5,
-        "thumbsUpCount": 6,
+        "thumbsUpCount": 7,
         "reviewCreatedVersion": "1.2.5",
         "at": "2020-04-05 04:30:22",
         "replyContent": null,
         "repliedAt": null
     },
     {
+        "reviewId": "gp:AOqpTOEEqDA8YJyYCH-MXzJUJ7i69gUBKVh7v_MEodcrPgFfIgFNh5dUb4JrAp-SKHTx2A1WehMUWBtVb8Z8gw",
         "userName": "Marc Claassen",
         "userImage": "https://lh3.googleusercontent.com/-2SpRc-JDtF4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucloHe88X99WroIlOS05ABxkb5bLwg/photo.jpg",
         "content": "Mooie algemene app maar waarom is er nog steeds geen fatsoenlijke app gericht op Corona, het liefst op omgevingsniveau ? Deze data is gewoon voorhanden.Ws geen prioriteit ondanks ondanks alle crisis. Dank aan het kabinet.",
         "score": 1,
-        "thumbsUpCount": 83,
+        "thumbsUpCount": 87,
         "reviewCreatedVersion": "1.2.5",
         "at": "2020-04-04 11:20:09",
         "replyContent": null,
         "repliedAt": null
     },
     {
+        "reviewId": "gp:AOqpTOFxtwgkabAUox_IxnCq-VEIdOuR3pMqNnI9TwtGv2IZ3O_cotURsEUaaM50oQes8C7_t2iTNtyQRDN4yA",
         "userName": "Maarten Schut",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gh53kZxefIz1Xeuqwy_4houD2hpiKsF9FGc62VoGg",
         "content": "Rol eens een Corona update uit",
@@ -352,6 +408,7 @@
         "repliedAt": null
     },
     {
+        "reviewId": "gp:AOqpTOHd97W2ygb-gU7CmwSEXXpYeXoXigWIPND7oYBpghV1aE5jEOBppISnghtOSY0TW6TDO3me18Bufd_OlQ",
         "userName": "Pieter Kraak",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhWTRqIFP90YICI0PWqgbIJYB3-C-553OzfXQ2j",
         "content": "Kan bestanden niet downloaden....",
@@ -363,17 +420,19 @@
         "repliedAt": null
     },
     {
+        "reviewId": "gp:AOqpTOG0lYEOGomNkWOA1Gd8v6O_D_4mpmNL5Ei9FpkSVOcgXL-DEjeln4hqHuQZ3FrSj6n4IkRAdK44y6rvKw",
         "userName": "Willem van Setten",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gj8JlcVREFZrQMlna6YMOJ4fAIXsL0ibkkWVaYygGA",
         "content": "Als het continue wordt ge update prima!",
         "score": 5,
-        "thumbsUpCount": 4,
+        "thumbsUpCount": 6,
         "reviewCreatedVersion": "1.2.2",
         "at": "2020-03-19 08:33:44",
         "replyContent": null,
         "repliedAt": null
     },
     {
+        "reviewId": "gp:AOqpTOFyTTNWnQWFQ6R0QdU1LYIEzOtPc47GyQkOnzkmGdWfG383_fByXbPX95dnaHgCUV2kidxbsxL8E8Vy0A",
         "userName": "JD Ottevanger",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgtupaL8uXLgPpU7StAwGrfBWXSTajzspjz9DzBsg",
         "content": "Gegevens bijladen werkt niet",
@@ -385,6 +444,7 @@
         "repliedAt": null
     },
     {
+        "reviewId": "gp:AOqpTOFLPxWqlWJitwA5LjcgXTAT7CpivOrpOxYycYMWoatEFfkYKv0vp88rlXulstSHJhSBwJjvOe3CLrSg6w",
         "userName": "Miriam Van Der Ploeg",
         "userImage": "https://lh3.googleusercontent.com/-AGHezlgfKgM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnCICm3wAVk4AkZJdsQVW0xwwOQVA/photo.jpg",
         "content": "In deze situatie hoort hij actueel te zijn",
@@ -396,28 +456,31 @@
         "repliedAt": null
     },
     {
+        "reviewId": "gp:AOqpTOHEwsHHP6vSNhgj5WJps3USjtTrHp-XHdxSjJJXAs2qxgdmzRLWJJonBo1KQTwprmWCERJc9qKBOVkrrQ",
         "userName": "Cjp Raas",
         "userImage": "https://lh3.googleusercontent.com/-uADQiR0GArA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclcmALIgcE9THlKnHynkU3ZxpTkBA/photo.jpg",
         "content": "In 2020 en de huidige situatie; maak beter gebruik van dit soort tools- wees duidelijker, m.n voor zorgpersoneel! Updates RIVM maatregelen/richtlijnen(te downloaden hygi\u00ebne maatregel ed) door n alert via een soort app als deze zal fijn zijn en zal werkdruk bij informatielijnen verminderen. iig content dat er iets is aan app op dit gebied, maar kan denk ik dus beter/effectiever",
         "score": 4,
-        "thumbsUpCount": 24,
+        "thumbsUpCount": 25,
         "reviewCreatedVersion": "1.2.2",
         "at": "2020-03-12 23:47:14",
         "replyContent": null,
         "repliedAt": null
     },
     {
+        "reviewId": "gp:AOqpTOGuTj01VcvQEmgozRyM-NKThxvN35umhUzlkyp05bRqg2livLILo23WbfRNco8dbrBX5-3gtsDcb4xn0g",
         "userName": "Harp and a Flute",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gg3PSBqhpsD7oL3YYd9u5tMFUkfHOluPryHbrHR",
         "content": "Het is niet handig dat de tekst van de richtlijnen onder aparte kopjes staan. Snel overzicht krijgen lukt zo niet. Ga toch elke keer weer naar de website.",
         "score": 3,
-        "thumbsUpCount": 9,
+        "thumbsUpCount": 10,
         "reviewCreatedVersion": "1.1.1",
         "at": "2018-04-15 12:23:09",
         "replyContent": null,
         "repliedAt": null
     },
     {
+        "reviewId": "gp:AOqpTOEgt7jDOcaqH69WMXQCQC3Cfk5JvGK6gPbBwKSUkt4u_1mVG1XQdLKAVPDdvHICWavKF0o-WbJUcQo7OA",
         "userName": "Lambiek van der Steen",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gh5Dl2kuynT8IMJEIma3Ey_8vD6kuRaTlQLXNhw",
         "content": "Blijft helaas elke keer bij het starten hangen.",
@@ -429,6 +492,7 @@
         "repliedAt": null
     },
     {
+        "reviewId": "gp:AOqpTOF3qXb7Z5Zr8F7bNZr9ZC5y-XHlkbDuXH_Uyf2eCYEb6YXcChYbxAgvTRWcXsSmtO06xpWHN7NpqEYVzA",
         "userName": "Kees Mooike",
         "userImage": "https://lh3.googleusercontent.com/-IZs5qJ5Ttos/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclioyhhc7edCmgbOy85QjTXVFiA6Q/photo.jpg",
         "content": "Overzichtelijk, geeft duidelijkheid ipv paniekvoetbal bij bepaalde ziektes. Fijn dat ook zichtbaar is voor welke ziekten een meldplicht geldt.",
@@ -440,6 +504,7 @@
         "repliedAt": null
     },
     {
+        "reviewId": "gp:AOqpTOGySP0Q78I1O8gmMbfl39Qgxu6AdnSVXnuxNKSBrphUfua14QkR2lxD0D13andcYlMLC5Xz6hp4WbJEDA",
         "userName": "Rob van der Ree",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiZ51pFial3Cf4Mb7TbLy5FohsjyOWjYLKnq8yTWd4",
         "content": "Overzichtelijk en compleet, zou alleen \"mijn\" GGD als favoriet willen aanmerken",
@@ -451,6 +516,7 @@
         "repliedAt": null
     },
     {
+        "reviewId": "gp:AOqpTOFCKp1QgxXK_JdO7nmtgfBwftJekWZ9S_8L4JeKKi0EQLNGkk4X0wVfmC6XIDH4ZDlZs6CH2otBVSD79g",
         "userName": "Erwin MD",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhmynGPM8YLprPjAChR3Jm5E95amcUeJfDcGcBpwmQ",
         "content": "Overzichtelijk en compleet",
@@ -462,6 +528,7 @@
         "repliedAt": null
     },
     {
+        "reviewId": "gp:AOqpTOGpnZimne1-VtVGJ9VuCf-e_3mrbR57AGfLHeqvdT_zZ4AkcRchx2pbmkq_9znGXKjh5xkrsTiUSR0XRw",
         "userName": "Robbert Bentvelsen",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjzWzHEWemszLIpHzVju-lbIS2q7fow5MJdsbmBFmA",
         "content": "Duidelijk en snel de nationale standaard.",

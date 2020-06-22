@@ -1,0 +1,44 @@
+{
+    "permissions": [
+        "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+        "com.google.android.c2dm.permission.RECEIVE",
+        "android.permission.ACCESS_FINE_LOCATION",
+        "android.permission.ACCESS_COARSE_LOCATION",
+        "android.permission.REQUEST_INSTALL_PACKAGES",
+        "android.permission.INTERNET",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.READ_EXTERNAL_STORAGE"
+    ],
+    "activities": [
+        "app.health.thrive.MainActivity",
+        "com.google.android.gms.common.api.GoogleApiActivity"
+    ],
+    "urls": [
+        "http://schemas.android.com/apk/res/android",
+        "https://www.example.com",
+        "https://pagead2.googlesyndication.com/pagead/gen_204?id=gmob-apps",
+        "https://plus.google.com/",
+        "https://app-measurement.com/a",
+        "https://google.com/search?",
+        "https://api2.branch.io/",
+        "https://api.branch.io/",
+        "https://settings.crashlytics.com/spi/v2/platforms/android/apps/%s/settings",
+        "https://ssl.gstatic.com/accessibility/javascript/android/",
+        "http://www.example.com",
+        "http://schemas.android.com/apk/res-auto",
+        "https://bnc.lt/a/",
+        "https://cdn.branch.io/sdk/uriskiplist_v#.json",
+        "https://docs.branch.io/pages/dashboard/integrate/#android",
+        "https://docs.branch.io/pages/deep-linking/android-app-links/#add-intent-filter-to-manifest",
+        "https://docs.branch.io/pages/apps/android/#configure-app",
+        "https://docs.branch.io/pages/apps/android/#load-branch",
+        "https://branch.app.link/link-settings-page",
+        "https://e.crashlytics.com/spi/v2/events",
+        "http://*/*",
+        "https://*/*",
+        "https://www.googleapis.com/auth/games_lite",
+        "https://www.googleapis.com/auth/games",
+        "https://www.google.com",
+        "https://www.googleadservices.com/pagead/conversion/app/deeplink?id_type=adid&sdk_version=%s&rdid=%s&bundleid=%s"
+    ]
+}

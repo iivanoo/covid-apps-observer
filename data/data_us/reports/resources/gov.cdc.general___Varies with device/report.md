@@ -167,9 +167,13 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 <img src="5_star_reviews_wordcloud.png" alt="gov.cdc.general 5 reviews"/>
 </p>
 
-> Nice<br> :date: __2020-06-14 20:32:31__
+> Nice<br> :date: __2020-06-21 11:46:13__
 
-> donte me plase<br> :date: __2020-06-14 17:00:00__
+> Great amp<br> :date: __2020-06-20 02:01:10__
+
+> Can't live without it!<br> :date: __2020-06-19 16:13:02__
+
+> Good for beginners. I like the full site.<br> :date: __2020-06-19 02:42:19__
 
 > Best Source For True Information<br> :date: __2020-06-14 16:56:20__
 
@@ -182,10 +186,6 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 > MUST HAVE !<br> :date: __2020-06-04 03:41:41__
 
 > This is an essential asset to all Americans. Two thumbs way up.<br> :date: __2020-06-03 09:28:23__
-
-> Great Information from a group of individuals whom I respect!<br> :date: __2020-05-30 01:17:02__
-
-> This is great CDC mobile app you can get the lastest updates and news reports also.<br> :date: __2020-05-25 18:18:31__
 
 
 
@@ -279,6 +279,12 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 <img src="1_star_reviews_wordcloud.png" alt="gov.cdc.general 1 reviews"/>
 </p>
 
+> Outdated and useless information.<br> :date: __2020-06-21 05:55:03__
+
+> We need a national plan for contact tracing! The technology is now on our phones but the government is doing nothing<br> :date: __2020-06-20 15:58:23__
+
+> App can not be moved to external SD memory<br> :date: __2020-06-15 13:48:02__
+
 > Does not contain digital contact tracing<br> :date: __2020-06-13 19:29:19__
 
 > Doesn't update enough data daily.<br> :date: __2020-06-07 18:08:04__
@@ -292,11 +298,5 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 > Someone on a government level has used this app illegally to track my being I did not give permission to download this app and it will not allow me to uninstall the covid-19 app<br> :date: __2020-05-23 05:23:02__
 
 > Useless. Can't find covid19 numbers. Or CDC publications on re-opening.<br> :date: __2020-05-21 06:38:53__
-
-> Just a poor app (Mickey mouse programmers)<br> :date: __2020-05-19 10:58:58__
-
-> What's the point? It's easier to navigate CDC.gov.<br> :date: __2020-05-15 11:20:46__
-
-> Data is not up to date!<br> :date: __2020-05-15 03:02:09__
 
 

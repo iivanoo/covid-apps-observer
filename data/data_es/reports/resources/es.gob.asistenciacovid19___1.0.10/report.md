@@ -154,6 +154,8 @@ The Asistencia COVID-19 app has been installed by more than **10000** times. At 
 <img src="5_star_reviews_wordcloud.png" alt="es.gob.asistenciacovid19 5 reviews"/>
 </p>
 
+> Aplicación estupenda para vivir con la tranquilidad de sentirse protegida. Aprovecho para felicitar al Servicio Canario de Salud, a la sección de Rastreo y Comunicación, en biblioteca nacional. Las mujeres encargadas de hacer las pruebas del COVID han demostrado, además de ser EXCELENTES PROFESIONALES, tener mucho tacto,. delicadeza además de simpatía. Así da gusto hacerse las pruebas. Me alegraron el día. Muchas gracias.<br> :date: __2020-06-15 09:35:08__
+
 > Me parece bien qur nos alerten cpn esta app Para eviar riesgos<br> :date: __2020-05-20 00:35:27__
 
 > Ya era hora que hiciesen esta medida felicidades haber si la hacemos todos los Españoles yo en mi centro de salud no quisieron hacerme PCR teniendolos en el laboratorio hablo del dia 14 de mayo .no les da la gana de hacerlo y luego dicen en la comunidad de madrid que lo estan haciendo .digan a quien.<br> :date: __2020-05-18 16:16:28__
@@ -171,8 +173,6 @@ The Asistencia COVID-19 app has been installed by more than **10000** times. At 
 > Interesante de momento falta Andalucía<br> :date: __2020-04-23 17:29:28__
 
 > Recomendaciones oficiales en relación con el coronavirus.<br> :date: __2020-04-19 00:07:41__
-
-> Muy buena<br> :date: __2020-04-16 20:34:54__
 
 
 

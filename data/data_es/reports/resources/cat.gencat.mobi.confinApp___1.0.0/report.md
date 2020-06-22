@@ -119,6 +119,8 @@ The CONFINAPP app has been installed by more than **10000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="cat.gencat.mobi.confinApp 5 reviews"/>
 </p>
 
+> Buena<br> :date: __2020-06-16 16:01:27__
+
 > Molt bona<br> :date: __2020-05-04 22:06:55__
 
 > Molt bona<br> :date: __2020-05-03 20:55:06__

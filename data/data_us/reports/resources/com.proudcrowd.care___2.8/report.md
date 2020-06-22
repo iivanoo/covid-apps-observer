@@ -146,6 +146,12 @@ The Care19 app has been installed by more than **10000** times. At this time, **
 <img src="5_star_reviews_wordcloud.png" alt="com.proudcrowd.care 5 reviews"/>
 </p>
 
+> Cool<br> :date: __2020-06-20 05:50:45__
+
+> Good idea<br> :date: __2020-06-20 00:01:28__
+
+> Good<br> :date: __2020-06-16 20:33:40__
+
 > Nudes help<br> :date: __2020-06-11 01:24:14__
 
 > Awesome<br> :date: __2020-05-17 11:47:26__
@@ -160,12 +166,6 @@ The Care19 app has been installed by more than **10000** times. At this time, **
 
 > Thank you at least someone in government is coherrant.<br> :date: __2020-04-24 02:11:08__
 
-> I hope Michigan stats will be here soon.<br> :date: __2020-04-22 20:52:08__
-
-> 🙄😔😔😔<br> :date: __2020-04-22 11:07:56__
-
-> Thank you for helping us track so easily with anonymity and confidentiality. #NDSmart Governor Burgum and team are doing everything they can to keep us safe and doing it smart. So proud to be from ND!<br> :date: __2020-04-22 03:03:34__
-
 
 
 #### 4-star reviews
@@ -174,7 +174,7 @@ The Care19 app has been installed by more than **10000** times. At this time, **
 <img src="4_star_reviews_wordcloud.png" alt="com.proudcrowd.care 4 reviews"/>
 </p>
 
-> Keep up the good work!😀<br> :date: __2020-06-12 13:54:37__
+> Remember this is for north & south Dakota only.. other states will may add their state if they choose too. It will show other states but will not guarantee it at this time<br> :date: __2020-06-20 21:46:43__
 
 > The early release back in April was rough (didn't log any stops for me). But it's been working well for me since about May 4. It occasionally logs more than one stop at the same location. It occasionally gets the name of the location wrong, but this is very easy to correct.<br> :date: __2020-05-19 06:25:30__
 
@@ -208,6 +208,8 @@ The Care19 app has been installed by more than **10000** times. At this time, **
 <img src="2_star_reviews_wordcloud.png" alt="com.proudcrowd.care 2 reviews"/>
 </p>
 
+> It's not all that<br> :date: __2020-06-18 15:59:46__
+
 > Not very accurate for locations. It does not show several places my wife & I have been for an hour or more and it shows us stopping at places we only drove passed on our way to our destination that does not show up. Very inaccurate. It's the same on both of our phones (Galaxy Note 9's). There is no way to add the places we did go to, only to delete the irrelevant ones or change the name from "Unknown" to a proper name. It's pointless/useless for tracking when this inaccurate.<br> :date: __2020-06-05 01:20:41__
 
 > I have a samsung android phone and I used the app Tacoma 19 South Dakota app from Google Play. I have installed it and reinstalled it this install that reinstalled it and updated it every time. I have yet to see anything on my page of anywhere that I've been tracked it just keeps saying congratulations you are set up but doesn't detect that you win any places yet. I don't go very often but I have went to stores and I have spent more than 10 minutes there why can't I see where I have been?<br> :date: __2020-06-01 23:56:11__
@@ -226,8 +228,6 @@ The Care19 app has been installed by more than **10000** times. At this time, **
 
 > Doesn't log locations all the time. Even after I have been there for over ten minutes. Not very dependable .<br> :date: __2020-05-13 18:15:39__
 
-> I'm not sure if it's just the app for Android but most days it doesn't even recognize that I have been anywhere! My Bluetooth is on, what's going on?<br> :date: __2020-05-13 02:08:21__
-
 
 
 #### 1-star reviews
@@ -235,6 +235,10 @@ The Care19 app has been installed by more than **10000** times. At this time, **
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="com.proudcrowd.care 1 reviews"/>
 </p>
+
+> I saw the update that you could manually put in where you have been by the developer in 5/20. They said it would be implemented within the next update. However, it has now been over a month & time is of the essence. A month long wait for a feature that is now allowing a significant amount of people to use the app or provide inaccurate data is unacceptable. Please fix this asap or please ND & SD find a new developer. As a programmer, the basic first step before release is bug testing.<br> :date: __2020-06-21 11:19:38__
+
+> F\*\** you big brother<br> :date: __2020-06-19 16:56:46__
 
 > Has strange locations and does not keep up with where I have been. How can this be helpful?<br> :date: __2020-06-13 04:20:59__
 
@@ -251,9 +255,5 @@ The Care19 app has been installed by more than **10000** times. At this time, **
 > This app is worthless ! Doesn't deserve 1 star..<br> :date: __2020-06-04 04:49:05__
 
 > Far as I can tell, it doesn't do anything.<br> :date: __2020-06-01 16:18:32__
-
-> Bad app<br> :date: __2020-05-30 19:14:48__
-
-> Have had this app installed for a month. Has not logged ANY locations. All I get is a message that Congratulations, your device is setup properly.<br> :date: __2020-05-29 23:21:10__
 
 

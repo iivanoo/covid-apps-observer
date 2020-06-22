@@ -1,5 +1,30 @@
 [
     {
+        "reviewId": "gp:AOqpTOGS1pzujxe1RqCXTbJ1buFbKB7z6LDZcIC_b4mMSRralMNbOevRern4n3p4fNP8UgFosFirVpsnG_1z9A",
+        "userName": "Jon",
+        "userImage": "https://lh3.googleusercontent.com/-0mX980poyjw/AAAAAAAAAAI/AAAAAAACjlE/AMZuucm9nnk6-oNAarHG3k4-NB72yfaXRA/photo.jpg",
+        "content": "Mala. No deja a\u00f1adir los contactos a los c\u00edrculos. El desarrollador @osakidetza.eus no responde los mails de problemas.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.0",
+        "at": "2020-06-18 11:12:42",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHM4-xcwxHQ6m_CHLNt0RgpCwE02CLGmE6bseNXwMkVoANo3hTuiXbKDKPgqBETtYl52ZmJdQHDeMAcLg",
+        "userName": "Tom\u00e9 Atunes",
+        "userImage": "https://lh3.googleusercontent.com/-1KG8eUvM4_k/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclqJgeinYgIEtqsDeROQbHhP9015g/photo.jpg",
+        "content": "Regular",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2020-06-16 16:36:15",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGC99QWbm62K8D9obNf7Tr6iDiOrKp1JE7FQAQxs6bKyteEAM4fsILXmwNUpMGZKWVz-bbC13E9xrBtQA",
         "userName": "Blas Donaire",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gh4j-5Nz6oaNqb5vbWWNBF3EgRJxpqpb0ysxYQD",
         "content": "No puedo cambiar un familiar a home si vive en mi casa, si pudiese hacerlo le dar\u00eda m\u00e1s estrellas",
@@ -11,6 +36,7 @@
         "repliedAt": null
     },
     {
+        "reviewId": "gp:AOqpTOHq9H8hgmVApr6b3QPNIY47I4qn1vPAQe8vDCawgHZe9iEK8TTbkCQ-ENny_pTvPgywBUrDfU2jy1oSjA",
         "userName": "Jani lo",
         "userImage": "https://lh3.googleusercontent.com/-deL71DDgssY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck4tbFX5c2OQrwaaYPvcUCg7K544Q/photo.jpg",
         "content": "S\u00faper \u00fatil para evitar contagios y nuevos rebrotes!!",
@@ -22,6 +48,7 @@
         "repliedAt": null
     },
     {
+        "reviewId": "gp:AOqpTOHFzWnmiEvZ5HRoJB4uHor9T2Ssdl0btdpczufJsZdpB7Duzgh4K1-x4Ul4RAPEv82y9jEwWFjbdVXt7Q",
         "userName": "rebeca deza",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhCMZqWZRDMvSGGGwxdclXLEwIj_p2fvOn3-3Qdjis",
         "content": "A mi me sale que tengo 3 contagiados en mi zona no en mis conctactos eso como lo tengo que tomar",
@@ -33,17 +60,19 @@
         "repliedAt": null
     },
     {
+        "reviewId": "gp:AOqpTOHl1_cYSGbM89AKxNBXp9vJGB4KEDVXJ3mDkeJddL_u4Pl4xUfiDraIQed1o0qtg0J98z3inB14SX_oVg",
         "userName": "Josean Serrano",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gixz7SVloT3lgqM3tr3XQciA05PjMqWuNmf0jR-",
         "content": "Falta mas desarrollo pero veo constantes cambios que me dicen que mejorara la app. Puede darnos informaci\u00f3n muy \u00fatil si todos la usamos, y podr\u00eda evitar q gente con riesgo se mezcle en ciertos sitios, supongo q para eso es el QR. Ya lo hicieron en China. Ademas tienes mucha informaci\u00f3n actualizada. Mis 5 estrellas para impulsarla y para que sig\u00e1is trabajando. Animo a los dem\u00e1s a hacer lo mismo. Hemos estado aplaudiendo a los sanitarios y podemos dar apoyar tambi\u00e9n con nuestro voto. Gracias.",
         "score": 5,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 4,
         "reviewCreatedVersion": "3.0",
         "at": "2020-06-10 16:30:41",
         "replyContent": null,
         "repliedAt": null
     },
     {
+        "reviewId": "gp:AOqpTOEW9iTpioiWNkrf7g_Dw76d4uzyITmLuz6fs6QfZNdrRMwjFJX6VGSRtbDDrfxo8Smtk4RxdNLA9CS6kw",
         "userName": "gonzalo cedrun rabago",
         "userImage": "https://lh3.googleusercontent.com/-Pr65eynD2hk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck_IAO6f9ZQ8tGK4EE1xYPO_yJo2Q/photo.jpg",
         "content": "La ultima actuallizacion no se me descarga",
@@ -55,6 +84,7 @@
         "repliedAt": "2020-05-27 12:56:46"
     },
     {
+        "reviewId": "gp:AOqpTOH_lAfk69d1Us29O6mpa_5vaDBlJz6Z6vsZQLjgsWmySnkOsdog8vHZG6V7gFWwe1nhJNoYWLXMqVogXg",
         "userName": "Maider Luengo",
         "userImage": "https://lh3.googleusercontent.com/-iobwFaTY6xA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnOoAxyvv-EEg8Hok5jF75m3YvIDA/photo.jpg",
         "content": "Instalo y no me coje mi codigo postal, pone todo el rato el de otra localidad y no deja editar los datos para poner el cp correcto.",
@@ -66,6 +96,7 @@
         "repliedAt": null
     },
     {
+        "reviewId": "gp:AOqpTOEWgMWZQgi8NWlHpX7Pk2Xg0fhOHIqa-1ivP8kDFv5Ycc1wurRi7kKJMcoW6PhxXfwNLFLPYUizdfXQ6g",
         "userName": "UNAITXU401 SC",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Ggu6LrkNsEV6qfeEab9fmPASVpOs8iFfCT2zO2yWA",
         "content": "Esta bien, Le falta mejoras como poder editar tu informaci\u00f3n y que se lea mejor el texto para que sea una aplicaci\u00f3n familiar y confortable.",
@@ -77,6 +108,7 @@
         "repliedAt": null
     },
     {
+        "reviewId": "gp:AOqpTOFsLLmP-saWaNEQ3k0rXQSGqoXg5s86Ydn7bV7iuoloRFPpT1l48czXlmBANfjqrvwkZs6ejSLBGg7E-Q",
         "userName": "Luis Maria Herrero",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gi4jto-hvMNXDJobzV_clJUyD0ReCz--FKkYmVkRgQ",
         "content": "M\u00e1s sanidad y menos recortes",
@@ -88,6 +120,7 @@
         "repliedAt": null
     },
     {
+        "reviewId": "gp:AOqpTOEUP0YBkuRgHy7-E4phBe1LwwrIsRjNWrHAhVPE3s7kg-Tz5XHNaUmVvDWO8ruza1qUQaJA8rzvMCU8kw",
         "userName": "Sara CHAMIZO DIEZ",
         "userImage": "https://lh3.googleusercontent.com/-u9QhYbwQEPo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck1zTq_1_tCinlTnj6rPwbQbg9R_A/photo.jpg",
         "content": "Diagn\u00f3stico poco fiable",
@@ -99,6 +132,7 @@
         "repliedAt": null
     },
     {
+        "reviewId": "gp:AOqpTOFFUSUMjK7hmYhMuthprNy4i3-QbpR06v0GuVKbXs8WuvFyX_pclRqERnUHhp6F_soUjwyvVgmk2WVhtg",
         "userName": "Oskar Her",
         "userImage": "https://lh3.googleusercontent.com/-qzYsejXmt3g/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnmWd1xXUXvoSBmNDnjV4HsHbEwUA/photo.jpg",
         "content": "No se, no le acabo de ver la utilidad",
@@ -110,6 +144,7 @@
         "repliedAt": null
     },
     {
+        "reviewId": "gp:AOqpTOG13uzISreV1gsVKcauA7aNdCLcAg3O-swK2yfBeqWL1CS9OhDbnQDVGyaYHeSTCmIP_edLROnvs7U-Ag",
         "userName": "Agurtzane Mojas Larreategui",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gj2_ZoIVxbVNVO1JAD0NZkMc8lo6NfbNE3bfeYe",
         "content": "Tan solo era trasmitir la situaci\u00f3n del d\u00eda",
@@ -121,6 +156,7 @@
         "repliedAt": null
     },
     {
+        "reviewId": "gp:AOqpTOHbWUDAle7KJSkJcgrIVSt86VHs7srUvGEQC5X9gDWMKf_R7-wmksvo9HtfSJbN0uMrgdSAhIlEO2rV9w",
         "userName": "unaift",
         "userImage": "https://lh3.googleusercontent.com/-ncOw2W_vDc0/AAAAAAAAAAI/AAAAAAAALp0/AMZuucnHKV84uFT5GtEavlQRaA4gnQNj0A/photo.jpg",
         "content": "Korapilatsua",
@@ -132,6 +168,7 @@
         "repliedAt": null
     },
     {
+        "reviewId": "gp:AOqpTOFvg_gZG47qgZ2XmQjyyH_KvmmM_DBgpSvVXKlinGitQ6uEVS4kVtoBffoR0iz8IdsIIjeYA0B6OYfR8Q",
         "userName": "ANGEL Fdez",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gi5CeiitqJhqt9UoAUQleUlXtMaQS4RQ4TZ_FLScQ",
         "content": "No est\u00e1 mal dice que te orienta.",
@@ -143,6 +180,7 @@
         "repliedAt": "2020-06-09 10:27:33"
     },
     {
+        "reviewId": "gp:AOqpTOEcLc6wjBEGS2-EEyLcom94poQgKiM0axe53alUZUj1DGxjORTQ-8tRs0Se_TbV1pNBIIMexoVMcv8ZVA",
         "userName": "Asier Berasaluce",
         "userImage": "https://lh3.googleusercontent.com/-TXCdHjOiISI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmCyEzOU2HDWmEFyXr2s0X4OqNx7g/photo.jpg",
         "content": "Buena",
@@ -154,17 +192,19 @@
         "repliedAt": "2020-06-09 10:27:00"
     },
     {
+        "reviewId": "gp:AOqpTOFc7eifTJCfC1fVAiY0Glp4_7Mn3imT-tHofAEiV-jlEEq4GqtfwPzMCw-rQVjsUgjJ-Q-zzOY7FrORTw",
         "userName": "Yolanda FG",
         "userImage": "https://lh3.googleusercontent.com/-yQIRkdIJILk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnyUoLMxpYMgzCbxfDbr_gXPyr1ag/photo.jpg",
         "content": "La app es nueva a\u00fan; 1-pensar en el colectivo sordo, c\u00f3mo comunicar por escrito,no podemos por voz, etc 2-en vez de invitar a gente para agregarlos, mejor mostrar lista de los contactos que est\u00e1n usando la app.",
         "score": 1,
-        "thumbsUpCount": 2,
+        "thumbsUpCount": 4,
         "reviewCreatedVersion": "3.0",
         "at": "2020-06-07 10:56:57",
         "replyContent": "Hola, en el chat m\u00e9dico, si est\u00e1is enfermos pod\u00e9is escribir a personal sanitario.\nEl mostrar qu\u00e9 contactos tienen la app implica recopilar toda la agenda en nuestro sistema y es algo que no vamos a hacer.",
         "repliedAt": "2020-06-05 12:35:37"
     },
     {
+        "reviewId": "gp:AOqpTOGlaHXG1uePgXJt6-yci3pSougHAduMxBHwUDbNPofMuja5kqr7TZxK9OUjVaxZ4ZwsgSU-ObFytR-S1A",
         "userName": "Ana Marcos",
         "userImage": "https://lh3.googleusercontent.com/-X0wk_JzQoKg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnM4v_BZUr1l_r-qGJ_lVyOaU4QIA/photo.jpg",
         "content": "En cuanto tienes un s\u00edntoma ya te cambia de estado el primer d\u00eda y puedes tener dolor de cabeza cosa normal ya te cambia de grado tiene que ser dos d\u00edas consecutivos",
@@ -176,6 +216,7 @@
         "repliedAt": null
     },
     {
+        "reviewId": "gp:AOqpTOHryekkKoR0DZp3BlzNEPVMcnpjxyfbXG23FJkOI2R2b3xOFeohhDBun0cK8hcKK3-P-_EuBrlcr5b9Nw",
         "userName": "Miguel Gamero",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gij-aD-ZUGvtbii5BT0Ku_okYJcnTSCubRzGkM_",
         "content": "Muy buena",
@@ -187,6 +228,7 @@
         "repliedAt": "2020-06-09 10:24:36"
     },
     {
+        "reviewId": "gp:AOqpTOEsURe46l8N5rnj6zV6e5GGuT-DWgBiPAGMA9qBvAAWv6nXbfLxppPY3XYGx9f0ds4pN0YxrpCWfkrSSA",
         "userName": "Alruma",
         "userImage": "https://lh3.googleusercontent.com/-0CMEwEw5KIM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclluLqAsPiPaosl8pBr_6lxiAcgBg/photo.jpg",
         "content": "Deber\u00eda permitir saber qu\u00e9 contactos la tienen instalada.",
@@ -198,6 +240,7 @@
         "repliedAt": "2020-06-05 12:56:30"
     },
     {
+        "reviewId": "gp:AOqpTOGRkSB0PfbZON7t4kz0dY455oy89cNGISlnBcqvRZTMqSRc2A8VSaOprM3kAKYsrWMg8vpimH8NJ3GAHw",
         "userName": "Jos\u00e9 P",
         "userImage": "https://lh3.googleusercontent.com/-bujw9NGzZ6Y/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclWY14k1ETgcZ6MrkubIJ-zNqwX6g/photo.jpg",
         "content": "Es una pena que la gente no colabore por miedo a que nos controlen, pero no se dan cuenta que es una herramienta que puede ayudarnos a controlar la pandemia que es para lo que realmente est\u00e1 destinada....",
@@ -209,6 +252,7 @@
         "repliedAt": "2020-06-09 10:24:01"
     },
     {
+        "reviewId": "gp:AOqpTOEY-VwMUNBFBbd8EpIcCyG7IWqkG5rkXSyTBg8BOnfV8Ce2a-_vt-uDv2A03dhzwjI75fZ5PcwrTMktzw",
         "userName": "JM PC",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Ggx3q7vtxlYX4O8hDG-IRZGeJ1m-9q5sdR5a0oyfA",
         "content": "Yo doy a esta aplicaci\u00f3n informaci\u00f3n diaria de mi estado. Para calcular mi riesgo la gente de mi entorno debe aportar su estado, pero no colabora por su propia decisi\u00f3n. Por tanto me sirve de poco.",
@@ -220,6 +264,7 @@
         "repliedAt": null
     },
     {
+        "reviewId": "gp:AOqpTOHibMwGXym_PO45GHpLYTRFVKeg7neA0-0QL09ubtpnEsGbRleTYSsMQ3_8G_IfhFJ9bOT0tb3geZ74WQ",
         "userName": "Jon Larra\u00f1aga",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiwAJh3OnnK7OdVupNZ9dEz3k1fiYk-HgWIBRW05Q",
         "content": "App en mejora. La verdad es que lo han actualizado constantemente y se agradece. Es funcional y \u00fatil si los de tu alrededor lo utilizan.",
@@ -231,6 +276,7 @@
         "repliedAt": "2020-06-09 10:17:42"
     },
     {
+        "reviewId": "gp:AOqpTOG5A3MHklJ7tqSgfQdtKIXHfoI182d2Dwoc8wLKShowvmNucfRWr15_0ZEeqpVzRKQUy2xjW5mq2sxcqQ",
         "userName": "Mariluz Astigarraga Rodrigo",
         "userImage": "https://lh3.googleusercontent.com/-su404UPQV7s/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckcRYfzWOeaIAfm4PZhT2vv9_D6gA/photo.jpg",
         "content": "F\u00e1cil, c\u00f3moda",
@@ -242,6 +288,7 @@
         "repliedAt": "2020-06-09 10:17:26"
     },
     {
+        "reviewId": "gp:AOqpTOHsboNATbgC-vqM1PxN67nABA8KFC2cxQIfGFf6pgA9mO4Xy79S_kq2QFrv71KGl9KhnamlsE3-Kw-g1g",
         "userName": "Unai Zamalloa Zubiaurre",
         "userImage": "https://lh3.googleusercontent.com/-wKuES0eBd9E/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl9i3bP-bR1g98yyMG88RjV1NQZnw/photo.jpg",
         "content": "Bueno.",
@@ -253,6 +300,7 @@
         "repliedAt": "2020-06-09 10:17:17"
     },
     {
+        "reviewId": "gp:AOqpTOGzXLQKUkRtFivSo-CWd3C-A-k14oBl0GB-7XqGeBkYpKi87Iw3vFRQBqC9jyiXbC0AxPpGOpC042xMjw",
         "userName": "owl of the night",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjQm7Hg1s1rG3X9tEqhWlGxA70ogKnT3HZdD3MP",
         "content": "Genial",
@@ -264,6 +312,7 @@
         "repliedAt": "2020-06-09 10:17:00"
     },
     {
+        "reviewId": "gp:AOqpTOEy_peVTxyy3EdtxkPvm8JJDeOi9WY1ydG6_Xg3qUDPk5rjnbNH_neoQ0igXHQK4XeK422Mq3_uKoZpDg",
         "userName": "Francisco Saenz de Tejada",
         "userImage": "https://lh3.googleusercontent.com/-eva7yRzjowM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmZyV4-pYYXyvFP2-hH_1D1mpIg5Q/photo.jpg",
         "content": "Imprescindible hoy en d\u00eda.",
@@ -275,6 +324,7 @@
         "repliedAt": "2020-06-09 10:16:44"
     },
     {
+        "reviewId": "gp:AOqpTOHhPftKIBIuE5RDFrE_-0emUSQNz4puMw0If5S4h3jpWuXnCxFPg4v5koSCLBOBIraDCWEPu5pEa8Jd5A",
         "userName": "Alfredo Blasco",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiwvneGf3RxtQWW5V-vkRN64_fMOcyJW45hEUWZbDE",
         "content": "Es una verg\u00fcenza como tiran el dinero en por ah\u00ed, lo l\u00f3gico es utilizar la rutina de covid19 a trav\u00e9s de bluetooth de Apple y Google, con mucha m\u00e1s privacidad y sin tener que crear ninguna red. Adem\u00e1s lo l\u00f3gico es que solo hubiera en Europa una app de seguimiento, es una verg\u00fcenza lo de las nacionalidades, comunidades y chiringuitos.",
@@ -286,6 +336,7 @@
         "repliedAt": "2020-06-09 10:15:30"
     },
     {
+        "reviewId": "gp:AOqpTOFUkVtcpVByUAJK5x_VsIsZMlmSkfzgd42GdIfDbo8CmrKSPQo9S2Ma6mKGFpbxaohtMGo6HoglQV_WnA",
         "userName": "Txinaroa",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gim2LnqT0xYvPk9sCRhzKRSZZKJRevrXInmKI6pKw",
         "content": "La aplicaci\u00f3n est\u00e1 bien, el objetivo es muy positivo, pero mo sirve de nada si nadie de mi alrededor lo tiene. Ser\u00eda mas f\u00e1cil que la aplicaci\u00f3n te a\u00f1adir\u00e1 directamente los contactos que tienen la app, y los pusiera en t\u00fa c\u00edrculo. En vez de andar enviando y aceptando solicitudes. Tambien podr\u00eda tener acceso a la localizaci\u00f3n para saber por donde ha andado.",
@@ -297,6 +348,7 @@
         "repliedAt": null
     },
     {
+        "reviewId": "gp:AOqpTOGYdkTNbU5SmL-4C3H4IRX319lXiJSdT5NaVmQ6-VSF_4J9DZ3QxHcYCEVIaNw-YsO_U9-IToZH7sLGXA",
         "userName": "carles gil",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiYkFH2ec2p08VPGu-gqxjVHzMCsifS6_4W9OoOag",
         "content": "No puedo incluir a nadie. Tengo un Xiaomi 8",
@@ -308,17 +360,19 @@
         "repliedAt": "2020-06-09 10:01:51"
     },
     {
+        "reviewId": "gp:AOqpTOESTePC4N0MVCJfu6IOpJQ2xe47UZlKsRDOlC-XW7TPEbbXB5Ch7bianhfTHSbKvVdSDRV9Hrmw3JHw7g",
         "userName": "Luisma Fernandez Ventura",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gg_MamwM7ilLEABIA9lGThH_49tQVOXJSlD2AXk6A",
         "content": "Ha mejorado mucho, pero creo que sin la colaboraci\u00f3n de la gente es muy dificil que sirva para algo. La gente no conoce la app o cree que no sirve para nada. Yo creo que facilitar\u00eda la labor de los sanitarios a la hora de rastrear los contactos en caso de dar positivo",
         "score": 5,
-        "thumbsUpCount": 3,
+        "thumbsUpCount": 4,
         "reviewCreatedVersion": "2.4",
         "at": "2020-06-03 21:53:07",
         "replyContent": "Muchas gracias por su opini\u00f3n. Un saludo.",
         "repliedAt": "2020-06-05 13:14:59"
     },
     {
+        "reviewId": "gp:AOqpTOFTx31HCDD_aaCBp1-bh2xf5XGLpX7CdoPYUmZL1puwa5aalvtcVFR1NNprex-es_JAmXODrK9Tz9ORxg",
         "userName": "Manolo Gomez Nogueras",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiAddZqAUqymITImWI2c-sbqMzNtKyJpDC8uBn9",
         "content": "Muy buena",
@@ -330,6 +384,7 @@
         "repliedAt": "2020-06-05 13:27:44"
     },
     {
+        "reviewId": "gp:AOqpTOEdVChEEKUSgk1Rx1Pm3dS3FPTalBZy-AcndbadhGIwQteDiN4VxlXHqWgG5Ev04MGL4aDaNH7r3ZhpfA",
         "userName": "Ignacio Barrena",
         "userImage": "https://lh3.googleusercontent.com/-D5d82UblGyo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckW7jF3KFTH3VJrGNNGuYJmLwBVeQ/photo.jpg",
         "content": "F\u00e1cil",
@@ -341,6 +396,7 @@
         "repliedAt": "2020-06-05 13:27:16"
     },
     {
+        "reviewId": "gp:AOqpTOH1-rOitxxfuyAg8-yKmUtnExkdJ4eKYwzRmm_cF4qy0ZfE2QOSqLSkd36JX_2hg1TMIREROMohp0A_QQ",
         "userName": "JoHn lemon",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gi9UUnReUzsxh46sKNO8wXN3r8MsbWIB7zbYhZosg",
         "content": "Pide n\u00famero de tel\u00e9fono. Desinstalo.",
@@ -352,6 +408,7 @@
         "repliedAt": "2020-06-09 10:02:45"
     },
     {
+        "reviewId": "gp:AOqpTOFQ0_Bax1sOAnSlS4uRfgSCRla2do7Zr3abGlFxTaSCRoMvn49zBv9UT7fI8Fh1MTWnXo2EyUJ-K07KkA",
         "userName": "Diego Cea",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiUewwL5RagfE8AiVlMJW8OlDOx-TOakKUr6aMI",
         "content": "Muy buena aplicaci\u00f3n. Se van a incluir m\u00e1s actualizaciones?",
@@ -363,6 +420,7 @@
         "repliedAt": "2020-06-05 13:23:43"
     },
     {
+        "reviewId": "gp:AOqpTOGjnO7zNEyv3mXdSVRPzpVd8fU06pUG4pFHSxB_56sLHMeklBso1pgdmB4KSRD7FybvTMjzsMPip3PwXA",
         "userName": "Alvaro Corral Crespo",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjSHS3Pd_mnovA0uhJa5qfDG0Q67Z2QdSJmYtGL",
         "content": "Es informstivo",
@@ -374,6 +432,7 @@
         "repliedAt": "2020-06-09 10:07:18"
     },
     {
+        "reviewId": "gp:AOqpTOHEEmCgy-vQnxbntT8dNwInX_U8YTJIMQsE5ssmvSsq0UjT2FUQPL-RZR3pbxhYsaTcKg3iI62yKxRRFA",
         "userName": "Ira Zazpe",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgKsf1htDfUJe-3eU0Kcpe_NALWZklFEvwxyK1FiQ",
         "content": "Buena aplicaci\u00f3n. \u00bfCuando a\u00f1ado contactos , les llega alg\u00fan mensaje de que les he a\u00f1adido o es an\u00f3nimo?. \u00bfEllos tambi\u00e9n tienen que tener instalada la aplicaci\u00f3n?.",
@@ -385,6 +444,7 @@
         "repliedAt": "2020-06-09 10:06:01"
     },
     {
+        "reviewId": "gp:AOqpTOFvErPLg0lODlSOs5dkpNgLrwOZQqA_Yqx__keEn4C6OTUdqT5Tf_UWKLGiOAY3jt-qm5z8IV1Pa5lIBA",
         "userName": "Sergio Salvador",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhFcRG0QwGPmITpQZraLaEl6FzidoGKX5NDgXbRdgs",
         "content": "Si me fubcion\u00f3. Estar\u00eda bien que pudieses seleccionar a muchos contactos de tu agenda para que se envie el mensaje a la vez. Si no es muy dificil que la gente se anime.. Mucho tiempo. Asi somos...",
@@ -396,6 +456,7 @@
         "repliedAt": "2020-05-28 10:19:44"
     },
     {
+        "reviewId": "gp:AOqpTOF3Pxx3Q0IMzG4swz5j6MgU8yQSRXAfBmnC-x2SXF4E_YTrCA8-0XG_MUiaGi1XkSvVFapuQ7LPMJHw9g",
         "userName": "Eneko Perea",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiSIZw-D_LywJD9lm9M1UwjvNsGxofY_18vIf2e-2c",
         "content": "Es poco com\u00fan tener los tel\u00e9fonos de todos los vecinos del bloque, personal del supermercado habitual, en general gente con la que te cruzas habitualmente o comprarles espacio. Y con la que tienes m\u00e1s confianza como para pedir el tel\u00e9fono, sueles avisar por WhatsApp o una nota de papel que se est\u00e1 enfermo. Y si alguien te lo notifica, sueles avisar a los cercanos por dicho m\u00e9todo. Ser\u00eda interesante tener sistema GPS que avise de gente cercana posiblemente enferma (sin dar datos personales).",
@@ -407,6 +468,7 @@
         "repliedAt": "2020-05-28 13:58:18"
     },
     {
+        "reviewId": "gp:AOqpTOGJVV7tF-g6tw3mRe3PzH0cFHt1Blx_ZBnbdcmUvFFWdumU4mYwzMQZa90-pyxMCZTYMId14o9MiqSTow",
         "userName": "Koldo",
         "userImage": "https://lh3.googleusercontent.com/-RDQht5q2WlM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn-COTpgW_96meZGD6_wUNjYnTXmw/photo.jpg",
         "content": "\u00bfC\u00f3mo es posible que aparezca en mi play como instalada si yo no lo he instalado (con otra cuenta, no con la que estoy escribiendo)? \u00bfQu\u00e9 relaci\u00f3n tiene esto con lo que aparece en Ajuste/ Google, \"Notificaciones de exposici\u00f3n al COVID-19\"? Si tiene alguna, que parece que s\u00ed, \u00bfque papel tiene Google? \u00bfPor qu\u00e9 hace falta su colaboraci\u00f3n? Tengo decenas de apps que pueden notificar cosas sin que Google tenga que configurar nada en mi cuenta. \u00bfD\u00f3nde hay datos t\u00e9cnicos que demuestren la confidencialidad? \u00bfCuando avisa de que he estado cerca de un infectado, c\u00f3mo sabe dirigirse a mi tel\u00e9fono si los identificadores compartidos son an\u00f3nimos? \u00bfA trav\u00e9s de qu\u00e9 servidores lo hace?",
@@ -418,6 +480,7 @@
         "repliedAt": "2020-06-09 10:06:45"
     },
     {
+        "reviewId": "gp:AOqpTOHq-v9XgxcOPY3trBiDZ1MC3IeVgf9oevd176sOn8Gm0CY47SV5FX27XZJRx9eN16r5d0Lmf0QB4te-mg",
         "userName": "Marijo Pelayo",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgxmQbKmI0mgPj8G7Yb4dhL1xuQjdBKbWXzGM0zUQ",
         "content": "Todo bien, gracias!",
@@ -429,6 +492,7 @@
         "repliedAt": "2020-05-28 10:42:34"
     },
     {
+        "reviewId": "gp:AOqpTOGUqZRkR2G2sox23vQG-X50vkqGaUUahanAJBSE1AQJNYLBN0wDKxgeo4EdamY0hu0nsUq7xBdoICF7sg",
         "userName": "Santiago Moreno",
         "userImage": "https://lh3.googleusercontent.com/-G4vkgNkd27I/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckk3Z4caECWH3i_ZIorQY07hrzK7w/photo.jpg",
         "content": "en espa\u00f1ol fant\u00e1stico",
@@ -440,6 +504,7 @@
         "repliedAt": "2020-05-28 08:56:27"
     },
     {
+        "reviewId": "gp:AOqpTOHDaf2uyruGwEV6lWpBbRA_iz8x3XhAVkpno9C9eUM-Z6sUwXRjjT__4qoG96M1K6zhQXaEuPJyekV6ow",
         "userName": "Roberto Alonso Cuervo",
         "userImage": "https://lh3.googleusercontent.com/-VC7SgTFNqbY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnVH2hK9Nm4ZlYPEUM065sIoee3EA/photo.jpg",
         "content": "Me parece necesaria, sobretodo a las que viven solas y de riesgo... Un saludo.",
@@ -451,6 +516,7 @@
         "repliedAt": "2020-05-28 08:56:10"
     },
     {
+        "reviewId": "gp:AOqpTOEBLszv4msn97SiFTlrKKgLghyIxF30aAbvDSF7dvw8wViUoa_Bmq7nAvfDucCFxFPD6DCK_MebQ1v00g",
         "userName": "ROBERTO G HIERRO",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhEr1PBoDn-kamqfSC2Do-MFWOHsPliU5nlEA9ZyxY",
         "content": "Desde esta app no se pueden abrir los informes de coronavirus que publica el Gobierno Vasco cada d\u00eda, en el apartado recomendaciones: te reenv\u00eda a la web del Gobierno Vasco, en el propio entorno de la app, y los archivos de pdf no se descargan. Desde la web no hay problema. Gracias por contestar.",
@@ -462,6 +528,7 @@
         "repliedAt": "2020-05-27 09:21:20"
     },
     {
+        "reviewId": "gp:AOqpTOFdYVSzpyoKTWaOGtzGUurmbIRHcRCc2civI46ic7RPNgMuHIsbd6cuBH47HSjZ2AWmsrBdupb4qQPWDQ",
         "userName": "Raquel \u00c1lvarez pladano",
         "userImage": "https://lh3.googleusercontent.com/-PjEHx8alMk0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck7EXCwjsdya_ww-3HwkBQIKKmzfg/photo.jpg",
         "content": "Es una aplicaci\u00f3n muy \u00fatil en esta pandemia y la deber\u00eda descargar todo el mundo para que seamos conscientes de quien esta a nuestro alrededor",
@@ -473,6 +540,7 @@
         "repliedAt": "2020-05-26 12:44:01"
     },
     {
+        "reviewId": "gp:AOqpTOEjHrqGYuqnrdM_f6Vmc8CYNj8Ly9p9OOeNC1dtcE5Hcb8Vfts_LSGUg0aE2lQxA5E0zOlC7DcWpXj-4g",
         "userName": "Unai Fercol",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhuxKprigQ3N-ORgJj5tI0nak7LkRN97WBWibliHA",
         "content": "No sirve para nada. Parec\u00eda buena iniciativa por parte del GV pero... Se queda en un sue\u00f1o...",
@@ -484,6 +552,7 @@
         "repliedAt": "2020-05-26 12:45:06"
     },
     {
+        "reviewId": "gp:AOqpTOH1DTu52Nr0Oyo4KhYLQAjRaI6PmnhOHlcaoBbcvH1ssQkeSyk-oqnhx3oTTte3eeC2WFOTSlbXlNWjfA",
         "userName": "JESUS CARBAJO",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhpN1miF-KiO8uqqVrEIinCTFJqShGVG5W31Vu91mQ",
         "content": "No deja bajar ni ver los informes en Pdf y el menu de ayuda no funciona...",
@@ -495,6 +564,7 @@
         "repliedAt": "2020-06-05 13:08:22"
     },
     {
+        "reviewId": "gp:AOqpTOGgEY0iNY7HdZ0sNC43yGjbnTZy9lE-PQxJjPaGMFqqMW1KzV3nzm2pXm6IdGaHhi0b2v6D7GXuB8L4iA",
         "userName": "Philux Magnus",
         "userImage": "https://lh3.googleusercontent.com/-JRmWPo16a8Y/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn4AtoGRGhUH64qpgQV98aJ2R_oig/photo.jpg",
         "content": "En mi Xiaomi no he tenido ning\u00fan problema :) Con cada nueva versi\u00f3n noto que la app mejora notablemente. Van incluyendo m\u00e1s y m\u00e1s opciones. Supongo que ahora que empieza la desescalada ser\u00e1 m\u00e1s importante que usemos la app y agreguemos m\u00e1s personas, para ayudar a que no haya rebrotes. Mejorar\u00eda la gesti\u00f3n de invitaciones para que los usuarios podamos comprobar de un vistazo a quienes hemos enviado ya la invitaci\u00f3n.",
@@ -506,6 +576,7 @@
         "repliedAt": "2020-05-26 12:46:41"
     },
     {
+        "reviewId": "gp:AOqpTOFyf6vhBJl0uaqop-L8hTy_-nUV4_WdevSv7qTHeYs3lUu-H9QYqGYKrT-GbkHJJs9skjLdFnWIX4iSIA",
         "userName": "Ana Crespo",
         "userImage": "https://lh3.googleusercontent.com/-N63q8E3oleU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckd1rt7L2lsmHCVzPV7jEFs6xRQsQ/photo.jpg",
         "content": "Me ayuda tener control del estado de salud de mis allegados",
@@ -517,6 +588,7 @@
         "repliedAt": "2020-05-27 11:23:36"
     },
     {
+        "reviewId": "gp:AOqpTOH6ytYGvqaqE0n5NAgXVUM-M7KBR04TS5MrQcfi5U3Hpb_mTFs3HVQH61z0YJhGB_TXDizdg0KgXXAsIQ",
         "userName": "Marta Sainz Puebla",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgtOdFsloSeNWpWDd6X-T1hBtlvsa3PHqfpypBzhOI",
         "content": "Muy pr\u00e1ctica y recomendable",
@@ -528,6 +600,7 @@
         "repliedAt": "2020-05-27 11:19:06"
     },
     {
+        "reviewId": "gp:AOqpTOF6vrTXk9ABYG4BaH43oiZ3Re0PkwRac35fb9IO8IhdGaJB-6mdTaOB9UlzpSvvdDODNlYF7umTZF4o1w",
         "userName": "Aran Martin",
         "userImage": "https://lh3.googleusercontent.com/-JZEwhH93cHo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnxo4FNbJvYRoyxotsmVQZ1OmBSmg/photo.jpg",
         "content": "Muy recomendable",
@@ -539,6 +612,7 @@
         "repliedAt": "2020-05-27 11:19:33"
     },
     {
+        "reviewId": "gp:AOqpTOHly-MqTsUeb6i5EwVu1iL8k0cn01QCXPycsX296U_C6cmw8JVZ4pvjj1XNKlLLVnOJtUGPTYGfzSx6Og",
         "userName": "Igor Zarraga",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhGvioPS80tKMctaDAlHU3ZirhtvTM6CvzZ0huX",
         "content": "interesante app, hecho en falta saber si he estado cerca d alguien infectado",
@@ -550,6 +624,7 @@
         "repliedAt": "2020-06-05 13:07:36"
     },
     {
+        "reviewId": "gp:AOqpTOE-j1PsNIEQvrdUHkaDnuEMfNVS3MiEIi7Ym1rLuAo4My9j-zJ6HjfBgAEiHIMvAP670wCvjNefkfTlyQ",
         "userName": "Jose Luis Carcedo",
         "userImage": "https://lh3.googleusercontent.com/-Ai77UyXi7zw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckoBzgUUOKm6FaGyZA2ns-ferfqJw/photo.jpg",
         "content": "Excelente",
@@ -561,6 +636,7 @@
         "repliedAt": "2020-05-27 11:24:04"
     },
     {
+        "reviewId": "gp:AOqpTOFW7v42en6PjfTKl582FuzKJ3FluKjSM092kIXlw2mgmBeWnV5t0gwm_9tEPRl4pihUS4KR4lonk3tZlA",
         "userName": "Bego\u00f1a Mar\u00edn",
         "userImage": "https://lh3.googleusercontent.com/-2IE-rPkj__w/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnhFMjLPcaxNiX_Sdvr1WsaDQkPBA/photo.jpg",
         "content": "Buena aplicaci\u00f3n para saber si has estado expuesto al virus en tu \u00e1mbito cercano, adem\u00e1s ha mejorado mucho en las \u00faltimas versiones",
@@ -572,6 +648,7 @@
         "repliedAt": "2020-05-27 11:24:33"
     },
     {
+        "reviewId": "gp:AOqpTOGa_2V_8pe-OCo7LIVBZGQ579niZRbuait-snGuPg3YcmZMLN4I62UEHOsCLyfwFQDLHXz4sq0mnssH8g",
         "userName": "Patxo Leo",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gi5RdjQ5RgSGvAX0sczgE5MrlcSWck4TCEG0ZyLyQ",
         "content": "Muy buena aplicaci\u00f3n, muy \u00fatil",
@@ -583,6 +660,7 @@
         "repliedAt": "2020-05-27 11:24:58"
     },
     {
+        "reviewId": "gp:AOqpTOFpxxvtocqjwNJDlAalkBqf7zYSwgev04kLCXTelbeDB8QCVRTahcGsYnjFZOuVCAH8AoJp0-vE5U3f8w",
         "userName": "Un usuario de Google",
         "userImage": "https://lh3.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
         "content": "Intuitiva, colaborativa y eficiente",
@@ -594,6 +672,7 @@
         "repliedAt": "2020-05-27 11:25:12"
     },
     {
+        "reviewId": "gp:AOqpTOFMUBEgkd2PehyVvsxIMHx3RbdsvVyx7gFA_aChIcONLSsbL-mD2IHqTlj5PJcThD8PVvbe_wGY_Zn6rA",
         "userName": "Ana Corrales",
         "userImage": "https://lh3.googleusercontent.com/-Wdo5nMGnXfE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmv-YqZSG_o8-KcJSECYD61xabqEA/photo.jpg",
         "content": "Funciona muy bien, m registro todos los d\u00edas, es una buena app para controlar tu estado de salud.",
@@ -605,6 +684,7 @@
         "repliedAt": "2020-05-27 11:27:13"
     },
     {
+        "reviewId": "gp:AOqpTOGERsXOrfx4eITYeS9j-JQ4a_9sImttgF3CPrnhTZESHilqh9YLswokVCHPSIqDmOr44cgnMYHu00gnZg",
         "userName": "Jesus carcedo alvarez",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiGnIW-Kj7cXI3Q3xtnL0KncJhI6QLKTGwYGPxx9ic",
         "content": "Excelente aplicaci\u00f3n la recomiendo . Muy buena.",
@@ -616,6 +696,7 @@
         "repliedAt": "2020-05-27 11:27:30"
     },
     {
+        "reviewId": "gp:AOqpTOG2IlGPMF9aQ3CuHKqltD_wcsB2jj1EWFa0yo8Rr6TXWmAi6xbn9ftMXMhSrfwB8wtSW7g48L9ZRjcqKA",
         "userName": "pewitchYT",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgIH-z4DXHjRG9ws1t2_X4ilFIh11PdPnU4JYidpQ",
         "content": "Muy fiable, es muy f\u00e1cil crearte c\u00edrculos de contactos. Ha ido mejorando mucho con las nuevas versiones",
@@ -627,6 +708,7 @@
         "repliedAt": "2020-05-27 11:28:01"
     },
     {
+        "reviewId": "gp:AOqpTOHteh4W-uD-4sG2iJ7jkI0CULSd7vteZS6ZVJpWSXaq1Ha8kBfieJs1lGCdixkzF1T5NJDQfTeyBG-hOg",
         "userName": "Oscar Navarro",
         "userImage": "https://lh3.googleusercontent.com/-XNZ79v-PEDw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckPgko84Tf0Moe2tmEEmo0CFfoZOQ/photo.jpg",
         "content": "Muy intuitiva, inspira confianza...",
@@ -638,6 +720,7 @@
         "repliedAt": "2020-05-27 11:28:18"
     },
     {
+        "reviewId": "gp:AOqpTOHsrqkQN3LYGVDuNSHDrOmY_fWJP3n9HnVFRHS9IXmfxtwl7YLrr8vy0s1AbxTwxrpHp2mJk3jynOhSwA",
         "userName": "Maria begona Corcostegui ormazabal",
         "userImage": "https://lh3.googleusercontent.com/-KphPXwFFQ_Y/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnAKLdLSNGW_a5x5csrxQ5QW5DcVg/photo.jpg",
         "content": "No me deja corregir errores.",
@@ -649,6 +732,7 @@
         "repliedAt": "2020-06-05 13:06:57"
     },
     {
+        "reviewId": "gp:AOqpTOEJr0dDWvLMTlPEfEe8LJZ0k0tkO7FCPA2Xd3CtPxjGdSnUTqfel98yXgDSCytWrwlbxEAWlgn5xm1SAw",
         "userName": "Vsg",
         "userImage": "https://lh3.googleusercontent.com/-oDkAIkUMp00/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucla5xiLZH8I6iPN2ObRZeNe1Vs0bA/photo.jpg",
         "content": "No le veo utilidad. No la usa mi ha gente.",
@@ -660,6 +744,7 @@
         "repliedAt": "2020-05-27 11:31:45"
     },
     {
+        "reviewId": "gp:AOqpTOGyNARc_oo5Cjn1fIyk2X_bZqCfFpiP1CJU7DbgE2UP5yf-tTD_-uUOnrSz7y51Hh27nc5uJ_kpchL6Jw",
         "userName": "Pedro Isasmendi Gmail",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GimImxILUiIbukJHd4jf3vFOkn4t4ZIk6H60RCE6Q",
         "content": "El apartado de c\u00edrculos creo que no funciona bien. Intento, al menos, rellenar el c\u00edrculo de familia y me dice que ya los tengo en contactos pero no me aparecen en el c\u00edrculo, siempre est\u00e1 vac\u00edo. Por otras opiniones tambi\u00e9n ocurre a mas gente.",
@@ -671,6 +756,7 @@
         "repliedAt": "2020-05-28 13:59:52"
     },
     {
+        "reviewId": "gp:AOqpTOFg0nZu5YX40V4BzV8X1MLUQJJEJ_S0jJzgSc6XA7LdC3AEhE8fobPvYlaT2k6jJxAWlUWJvTaf6Srs8w",
         "userName": "I\u00f1aki Ausan",
         "userImage": "https://lh3.googleusercontent.com/-xz20IsrCWbk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck4QybdwtfDRy4wWSuqhxPYY0myHQ/photo.jpg",
         "content": "La han mejorado, pero sigue siendo muy dif\u00edcil (por no decir imposible) agregar a contactos que ya tienen la app a tus c\u00edrculos. Por favor, SI NO FUNCIONA BIEN, SI NO ES F\u00c1CIL, NO SE USAR\u00c1. Y entonces esta app no servir\u00e1 de nada, cuando la idea es muy buena. Estimados desarrolladores, por favor, intenten arreglar o facilitar el sistema de agregar contactos a los c\u00edrculos (no \u00fanicamente mandar las invitaciones). Gracias.",
@@ -682,6 +768,7 @@
         "repliedAt": "2020-03-29 18:38:06"
     },
     {
+        "reviewId": "gp:AOqpTOEa9uKavSnaO26RoJFXSO3L4VQ5zvg5IVRGmrA9prxrGPoP_ubgjWm9UqUeeFhnJCM-4pbAWRyHBw1mFQ",
         "userName": "Jose Angel L\u00f3pez",
         "userImage": "https://lh3.googleusercontent.com/-2OUJP7jDpXk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclPT_jMv3ZTNDyfbJDwi_9JgvhOcQ/photo.jpg",
         "content": "Al agregar una solicitud, me dice k el usuario ya est\u00e1 agregado o tiene una invitaci\u00f3n pendiente. Y no es as\u00ed. Lo intenta mi contacto y me dice lo mismo. No agrega bien los contactos. Si esta es la fiabilidad que tiene, igual no merece la pena instalarla... una pena",
@@ -693,6 +780,7 @@
         "repliedAt": "2020-05-28 14:03:43"
     },
     {
+        "reviewId": "gp:AOqpTOFG4elJ5-76yCOFx6hBSH5Z8EilBJifLEmvLyBD1MIvTPCNzbdampwKkyFlhzdoEvBMfKdoNY0Nk7YFiw",
         "userName": "Fernando Mateos",
         "userImage": "https://lh3.googleusercontent.com/-3m_b9TIxmcE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckkDe4LFRWadqGlY-4TogD3Jp4mTw/photo.jpg",
         "content": "Muy buena y efizcad",
@@ -704,6 +792,7 @@
         "repliedAt": "2020-05-27 11:35:42"
     },
     {
+        "reviewId": "gp:AOqpTOH66Rv445d8MK-r4IqRD0GZDOHE0WH6_546ZV-7sktj6wCu9tkwkgTZirs3Z3ycoVduOVcVEidl1t-zhg",
         "userName": "Isabel Del Amo Calle",
         "userImage": "https://lh3.googleusercontent.com/-bqAarb9IrEI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmTk3Fu3Bwi6WCjwJ92W4aiXnT9cQ/photo.jpg",
         "content": "Excelente",
@@ -715,6 +804,7 @@
         "repliedAt": "2020-05-27 11:36:33"
     },
     {
+        "reviewId": "gp:AOqpTOG9gIH4lSOc2jYu2IJRZj_tlji12_mKFFULqk-xNfYdsDCVP9okeNtt0JSo_ckVi5U8OvDQ8yL8fUYyQg",
         "userName": "Ana Pastor Sousa",
         "userImage": "https://lh3.googleusercontent.com/-IkjMbmsKYxQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnYHiv066ql1uqIOn0tjQaYuiIYAQ/photo.jpg",
         "content": "Aunque me llegan notificaciones luego no puedo leerlas en la aplicaci\u00f3n. Y a pesar de que pulso sobre el icono de sobre/notificaci\u00f3n siempre me abre propuestas de aislamiento.",
@@ -726,6 +816,7 @@
         "repliedAt": "2020-05-27 10:10:47"
     },
     {
+        "reviewId": "gp:AOqpTOFPGRkekbgxrT8PAOryM5bW0dnNtKgzL2h3P8pHvFXTD9nMh9n5WiEkYzbKvFLB1okoY9hjJW6BoBn4rA",
         "userName": "Ainhoa Perez",
         "userImage": "https://lh3.googleusercontent.com/-JYHFja1acfE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclosfMp3ABCaayYXFjW-Qn2IqFZdw/photo.jpg",
         "content": "Para empezar, soy inmunosupresora, y no tienes la opci\u00f3n de ponerlo. Anotar el contacto de la gente con qui\u00e9n te relacionas? Yo estoy trabajando, mis compa\u00f1eros no tienen la aplicaci\u00f3n, y muchos no quieren (el tel\u00e9fono de mis jefes, no tengo) Y no se actualiza la \u00faltima vez que entr\u00e9 en la app. El \u00faltimo acceso me dice que fue cuando la instal\u00e9. Siempre me pone riesgo 0. No creo que sirva m\u00e1s que para decir si est\u00e1s bien o tienes s\u00edntomas, para nada m\u00e1s.",
@@ -737,6 +828,7 @@
         "repliedAt": "2020-05-28 14:05:49"
     },
     {
+        "reviewId": "gp:AOqpTOEXkR2F849iPioE_-c8bns0zQ5oETuoFK_5l6h7AjmEOCGwl_OPaO06t8AaLVUZAtcGwALOyduGPpgnhA",
         "userName": "Rafa fa",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjKSKToNyKhuZ6VVh-20UsvcevIpUC73yLk2asuNw",
         "content": "C\u00f3mo le digo a la app que estoy en cuarentena? C\u00f3mo pretend\u00e9is que os ofrezca tan tranquilamente los n\u00fameros de tel\u00e9fono personales de todos mis contactos?",
@@ -748,6 +840,7 @@
         "repliedAt": "2020-06-05 13:04:27"
     },
     {
+        "reviewId": "gp:AOqpTOFFaE_4BwVRH8Hy8tXfXNsg22eYd5vPheyiDX8ZLBKTE19pAep3Ow1EmFY2kOt4WploBIFHVd21cq_5sw",
         "userName": "Gari Lopetegi",
         "userImage": "https://lh3.googleusercontent.com/-dQ45F_Rm794/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl1g6MYp-ENVRCg81iob0EL-YLAPA/photo.jpg",
         "content": "Nos va a ayudar a todos, denori lagunduko gaitu",
@@ -759,6 +852,7 @@
         "repliedAt": "2020-05-27 11:43:10"
     },
     {
+        "reviewId": "gp:AOqpTOHWhfHTH0vw0-yC3AErsbJef0TexJOkav670PGBKMKiGRTWs-KIJJCtvenBYWf9CsHUD0GgjI48Rrgu9w",
         "userName": "Bego Vega",
         "userImage": "https://lh3.googleusercontent.com/-lwgl-jHBRYs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckk2Qsf7vgd7rFrO5yr7JNofn8iMQ/photo.jpg",
         "content": "Me gusta la idea pero mucha gente de mi entorno no entiende su utilidad y no quieren instalarla. Si quiere ser un m\u00e9todo de control deber\u00edan publicitarla m\u00e1s",
@@ -770,6 +864,7 @@
         "repliedAt": "2020-05-27 11:44:12"
     },
     {
+        "reviewId": "gp:AOqpTOHgxVRKwJLd5yb0TqKYEiAX7uljmMk7GBPyJpH22KzAZPSVbd6Q4A0JjSQyRJ0BdRe5Rxel_XZLWQG6hw",
         "userName": "Jabier Angulo",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gip8-mWzWbbo9GR1VYpB6t5RsMvvYZGrsNMQ54C5Ck",
         "content": "Me gustaba m\u00e1s la primera,",
@@ -781,6 +876,7 @@
         "repliedAt": "2020-05-27 11:44:44"
     },
     {
+        "reviewId": "gp:AOqpTOHnhOfHFHApA6nbIehT5PZ7ncJq7yx657rtRyd8RTSSB13gtJFDmR7Ehng0CF0Qzt2SkQ6peNqtNkyvDw",
         "userName": "jak jak",
         "userImage": "https://lh3.googleusercontent.com/-AExz2rYXJNw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl8s2dzxhCNqIudQ9zRhAAAlrHAAQ/photo.jpg",
         "content": "Tengo muchos problemas para que los contactos a los que env\u00edo solicitud y la aceptan aparezcan reflejados en mis c\u00edrculos. Mando la solicitud, me dicen que la confirman, pero no aparecen en la aplicaci\u00f3n. Un saludo",
@@ -792,6 +888,7 @@
         "repliedAt": "2020-05-28 14:03:02"
     },
     {
+        "reviewId": "gp:AOqpTOEqQrg2wyODmG_7rlup6aP_w1B2wgrETixP3fjXTHLaDFA25LdeQdmMXE_sLy0mIGy76l5hTIMaDiFoJA",
         "userName": "Beatriz Barrena",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GivlExDXQ1FFMHJmzpelt-o3Sr0k3VmVj-xqc6F3A",
         "content": "Es imposible de entender \u00e9sta aplicaci\u00f3n, no ha qui\u00e9n la maneje, como no la expliqueis mejor, es imposible de utilizar.",
@@ -803,6 +900,7 @@
         "repliedAt": "2020-06-05 12:57:42"
     },
     {
+        "reviewId": "gp:AOqpTOGY4XAqRlUxE3AMB0omcMVadKXLrotP4kLDi8luzReRI7v7P0w_ptkOhKvppkwJrFStsuHr6NLGHvFIRA",
         "userName": "Clemen Melendez",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhWM1Qz1LI13jV-fTxTZALY8C8xws-SdzSU0T12Nw",
         "content": "Tengo la aplicaci\u00f3n desde pr\u00e1cticamente el primer d\u00eda, y me resulta curioso que por un lado me diga que mi \u00faltimo estado es del 10 de abril (cuando la instal\u00e9), cuando lo hago todos los d\u00edas, que imagino que por eso dice algo confiable. Por otro lado, mi mujer tambi\u00e9n la tiene bajada, la tengo en el circulo familia y el circulo aparece vaci\u00f3 de gente",
@@ -814,6 +912,7 @@
         "repliedAt": "2020-05-27 09:22:40"
     },
     {
+        "reviewId": "gp:AOqpTOEN4vPZXX3O2GSrUSdtMUAh_jYYWW_cGeO5YSH4vo_N2Bx1K6CbSPtp4Gmmf6g9d8M0eJ4p_aeM2FwRFw",
         "userName": "David Iglesias",
         "userImage": "https://lh3.googleusercontent.com/-vImjjsbHoYI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclVRDyrsI2AKRia78q7VzUVNpkYTg/photo.jpg",
         "content": "No me ha dejado seleccionar que no ten\u00eda Covid 19",
@@ -825,6 +924,7 @@
         "repliedAt": "2020-06-05 12:57:13"
     },
     {
+        "reviewId": "gp:AOqpTOGGSDXtH67fBhm1wE83UCy3nKprp-8dNEt9_MXAQS8uxZDzSx_gusl_3Q-qWm7UIROhqzNHY3lRDBazBQ",
         "userName": "Borja Gonzalez",
         "userImage": "https://lh3.googleusercontent.com/-XWBUIVmd3ws/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmczEeO9DwwPbXf8ugJWTA0c3tJdw/photo.jpg",
         "content": "Nada m\u00e1s abrir, te pregunta si tienes o has pasado el virus. Si seleccionas \"no lo he pasado\" te lo sigue preguntando hasta que respondas otra cosa. Si empezamos as\u00ed, poca utilidad puede tener esta aplicaci\u00f3n.",
@@ -836,6 +936,7 @@
         "repliedAt": "2020-05-27 10:06:41"
     },
     {
+        "reviewId": "gp:AOqpTOGp5ECJOiKTF6hXz8qdOPKJ_4n2GTAKOPcWd6j95yz5wWenObbX8K-EA0QBzYg7t_OKHOJ5ncUU4dKrvw",
         "userName": "Blanca SOBRON SERRANO",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GisuSF1maqP1v_YcJrflEafN8pni6kpS4o4yIgC_A",
         "content": "Eso de que no puedas incorporar los contactos todos a la vez y tenga que ser de uno en uno es bastante poco \u00fatil. Y si te llega alguna invitaci\u00f3n de alguien, o te metes en los mensajes o no te enteras porque no te llega ni aviso y pone nada en el sobre para que sepas que hay algo nuevo. Mucho que mejorar para que esto sirva. Igual que creo que se deber\u00eda poner si te han hecho PCR o serolog\u00eda y poder poner el resultado.",
@@ -847,6 +948,7 @@
         "repliedAt": "2020-05-27 09:18:47"
     },
     {
+        "reviewId": "gp:AOqpTOGRSPg7T5R5OUBMjLGYC-yigqXW3IZVLvUMTtEJKfh_IZrFXr-iXXMTL16wzSNjqN-lK8mi0Y7w9sfqtw",
         "userName": "Dani Txo",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gj-QfMNXmmD8O2DRnfc7apDifWtVIWYh4xVwENe",
         "content": "No funciona. No pasa de la pantalla inicial. Xiaomi redmi note 3 pro con miui10. Edit: Funciona bien tras actualizaci\u00f3n, gracias.",
@@ -858,6 +960,7 @@
         "repliedAt": "2020-03-29 19:27:27"
     },
     {
+        "reviewId": "gp:AOqpTOFNwK6btYT-6azF-h5W_FiSzVfftmNuHI9mi4E2597Fgc29QIDE3j1zWGtkrEkhMV4GbjzAaNVCDqutJQ",
         "userName": "borja lopez",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjkkaLr09HAqbaZwyMSAbf9859x_f1AXpVnUrnHTIM",
         "content": "No se actualiza el estado desde el d\u00eda que la us\u00e9 por primera vez el 28 de marzo. La he reinstalado y sigue igual. He escrito al desarrollador y no contesta. Para ser institucional, bastante mal.",
@@ -869,6 +972,7 @@
         "repliedAt": "2020-05-27 10:09:17"
     },
     {
+        "reviewId": "gp:AOqpTOHvohJNUx9ABEcKjnpnRuRcddv1gC0lFGjoSgGKJ2IMc6YeNF1dzuGemuyE0IYIbHy10etVxF1Z3tcPzw",
         "userName": "David Montoya",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgntnLtMwMTwVZHP_RNDtAOAnnEKzeo7ClOuK46Qg",
         "content": "Mientras no sea f\u00e1cil incorporar los contactos de la agenda no resulta \u00fatil. Hay que escribir el tel\u00e9fono sin verlo ya que no se puede seleccionar si el contacto tiene m\u00e1s de un tel\u00e9fono. Estar\u00eda bien la gesti\u00f3n de las invitaciones y m\u00e1s ahora que es la propia APP quien te invita a tener los c\u00edrculos \"ordenados\".",
@@ -880,6 +984,7 @@
         "repliedAt": "2020-05-27 09:47:09"
     },
     {
+        "reviewId": "gp:AOqpTOEbblSaygdXCtPljnrxfwrFxtBluSw4jRMB-Ubs53FYkMrjR3Xc5RtwpQI2ucvzK6t4-GRJwxP3-bUE5A",
         "userName": "mirikituli",
         "userImage": "https://lh3.googleusercontent.com/-giFqk-tWxiU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclp0E_f7ShIYJ5BoXmrg7_ATl5HBQ/photo.jpg",
         "content": "No consigo a\u00f1adir contactos a mis c\u00edrculos. Cuando env\u00edo solicitud a alguien, me dice que \"el usuario ya existe en mis c\u00edrculos de contactos\" pero no aparece en ninguno de los c\u00edrculos predeterminados... Gracias",
@@ -891,6 +996,7 @@
         "repliedAt": "2020-05-27 09:56:09"
     },
     {
+        "reviewId": "gp:AOqpTOHC23n6cGjWbtHrx546Ey2dqw7cQG9ntkGOMBrFeNBCmcWWkJPo4dz61_s5AmgWw70jNdTHEzmMB7UmBw",
         "userName": "Samuel Agudi\u00f1o",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhRRqbQes3xnqfXMRNJmyYFBDXN0x5JqEO6uX6GHA",
         "content": "Ya accede a la agenda de contactos , ok, pero a lo que le refiero es que si en una persona de la agenda tienes varios n\u00fameros guardados, no deja seleccionar uno de ellos, si que la aplicaci\u00f3n selecciona uno. En ocasiones puede ser que ese n\u00famero no sea el que quieres, por ejemplo, un tel\u00e9fono fijo o de trabajo.",
@@ -902,6 +1008,7 @@
         "repliedAt": "2020-03-29 17:55:07"
     },
     {
+        "reviewId": "gp:AOqpTOH-IjUrdkzWXaQ7sbwMrtRVR1wYP3Wgbzfk85fHTXnwB1ar8K43Ws3ECFWBP74qqmJi2V10XGCJFfd2jg",
         "userName": "Alejandro S\u00e1nchez",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhnmOpwKL_VO3D5eUZsMxfudzBtMtNecko4aOZidQ",
         "content": "Me he equivocado y he seleccionado \"creo que lo he pasado\" en lugar de \"no lo he pasado\". \u00bfEs posible modificarlo?",
@@ -913,6 +1020,7 @@
         "repliedAt": "2020-06-05 12:55:53"
     },
     {
+        "reviewId": "gp:AOqpTOGUd0lw_wua_sB12P6RFluSL_ActIapWqUaJf8R6oINBYEjh6alhAExNqQKEZmZ9ARA5aPqZIEJnsNHBw",
         "userName": "LAP LAP",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjsRQdwH7SCc63sz16CkX2oDoxJcWRIPHK5Qq9odQ",
         "content": "A\u00fan tiene que mejorar.",
@@ -924,6 +1032,7 @@
         "repliedAt": "2020-05-27 12:11:57"
     },
     {
+        "reviewId": "gp:AOqpTOE8kEQYNROCOfiSYwBTH7_E7nJ4s0P1Wz7sYS8QyGRIuVOsPN9ElPaRiSRab31I5CgnWCCyYx56d4I3EQ",
         "userName": "Teodoro Menendez",
         "userImage": "https://lh3.googleusercontent.com/-KVv_AdZc2Z4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucngbPG845UinjolBP_4iwv-blk8Mw/photo.jpg",
         "content": "Complicada y no resuelve absolutamente nada",
@@ -935,6 +1044,7 @@
         "repliedAt": "2020-05-27 12:13:16"
     },
     {
+        "reviewId": "gp:AOqpTOEBcSoan_EizUe0WjElAnLZEFJ0Vsi3mpWB5ezu4lGK8cz34DuMttiN-Uu93JH9YLqE7Divl4d7TWY1LQ",
         "userName": "Julen Durandegi",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhlUhJYfeSKyH8tstOaIpMgS3aBp7PzReuz9IO_-w",
         "content": "Hurrengo egunetan, atal edo notifikazio guztiak euskaraz ez baditut ikusten, kendu egingo dut. Euskara hizkuntza dut aukeratua eta ez dut onartuko gaztelaniaz egotea",
@@ -946,6 +1056,7 @@
         "repliedAt": "2020-06-05 12:55:26"
     },
     {
+        "reviewId": "gp:AOqpTOEw5kVgPLkCe1YyvIMVyCZAOvcGS8gJ1qXTt9jNVGRkxo3m8zxtqqW5aDC_-U34yi6FhcPxtup0ei12_g",
         "userName": "zow iracam",
         "userImage": "https://lh3.googleusercontent.com/-uMqJEdP8xQM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclMO0LRelkPn5vf0egx8xvxmOjUgQ/photo.jpg",
         "content": "Mejor\u00f3 un mont\u00f3n, pero... - me confund\u00ed, puse el tel\u00e9fono en familia y era CASA. No me muestra una lista de las personas por grupo, no se si est\u00e1 est\u00e1 persona agregada. Borr\u00e9 el grupo familia. Y ahora no me deja agregar a esa persona a ning\u00fan grupo, porque dice que ya est\u00e1 en un grupo, que no existe",
@@ -957,6 +1068,7 @@
         "repliedAt": "2020-05-27 10:35:02"
     },
     {
+        "reviewId": "gp:AOqpTOGJ5GPneJZRkV5LSOl1AGRcZ5dXYNykmRMXVy6um4wcuPysGmJPkiO6M7DurC8ldMEPSqetQ8_FMgTiig",
         "userName": "Ram\u00f3n D\u00edez Carreras",
         "userImage": "https://lh3.googleusercontent.com/-7MkL2JGuxKQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclYngd6nyG-5eodKvyQ98WH7QtU7A/photo.jpg",
         "content": "Mi hija est\u00e1 registrada como familiar; y, sin embargo, en el c\u00edrculo familiar no aparece nadie. La escala 'confiable', entiendo que es una soberana tonter\u00eda. \u00bfQu\u00e9 mayor confiabilidad que la que indica uno mismo? Seg\u00fan lo que indica la aplicaci\u00f3n, parece que, para que ses confiable, lo tiene que corroborar mucha gente. Si quieren decir otra cosa, lo explican fatal. No desinstalo la aplicaci\u00f3n por si sirve para algo; cosa que dudo.",
@@ -968,6 +1080,7 @@
         "repliedAt": "2020-05-28 14:04:49"
     },
     {
+        "reviewId": "gp:AOqpTOHtmWsLNqQ1rxfxIKn-Z_Jy-mhmMVab-PUhDrk-k8_2Ip1wSCUXG9TR2znVBgyZtlVjGgo_6CHKiwpxSg",
         "userName": "Ion Zabala",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiOYFVusbTdf1Ca3m5VU2_aJqe9Lx6bspMiYqHm",
         "content": "Sencillo y comodo",
@@ -979,6 +1092,7 @@
         "repliedAt": "2020-05-27 12:54:51"
     },
     {
+        "reviewId": "gp:AOqpTOF7MfQdYA_Q6xm7Ww3xJ5EcsMYMNTZxVG28btOvOHq8PynApqv0I7BznXa6zCCG1lp01_PANyFg2oqySw",
         "userName": "i\u00f1aki Estefania",
         "userImage": "https://lh3.googleusercontent.com/-e3XlXywx0qY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckUTgvm16D6hubvcUinyceOWpIEgg/photo.jpg",
         "content": "Toda ayuda es bienvenida",
@@ -990,6 +1104,7 @@
         "repliedAt": "2020-05-27 12:55:23"
     },
     {
+        "reviewId": "gp:AOqpTOERx8pafa2mXM97-yEtG1yTO-rzs6FAlLqd1jyA2EPabMD_DuJrOiTVJe6oU_GYGZJ0dECQbYLHLgq5lA",
         "userName": "Jorge Garcia",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gij9O4aVhUoHizXXxtFJ4Clh4XoC-3n1GYqU0my",
         "content": "Con la \u00faltima actualizaci\u00f3n se han solventado los problemas que ten\u00eda, por lo que cambio mi valoraci\u00f3n de 2 a 5 estrellas",
@@ -1001,6 +1116,7 @@
         "repliedAt": "2020-05-27 12:56:31"
     },
     {
+        "reviewId": "gp:AOqpTOF-3BHkqBisBdw2WD8aH6H4V_pFlAGnaq49Vtvx5i4SHt0Dojp9k-t2rglvDX8N2y5KqfNM147ShYCxtQ",
         "userName": "Juan Jos\u00e9 Monge LLorente",
         "userImage": "https://lh3.googleusercontent.com/-Y8OMiqXon7A/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmKgPUN6cFtIywuTOoYsbrVxMuNjg/photo.jpg",
         "content": "Lleva unas semanas que ha mejorado.",
@@ -1012,6 +1128,7 @@
         "repliedAt": "2020-05-27 13:08:31"
     },
     {
+        "reviewId": "gp:AOqpTOF7JMXT0FRhnzitaJmA5bC4aRtB6QGsCJr_MpAPui16oKJVr7r01YZmoOAG1A9ddOJ45XVypcuy46QO1g",
         "userName": "Guillermo Regil",
         "userImage": "https://lh3.googleusercontent.com/-OfZX3qV0TE4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucme7Une4vTZYsDmckANmvNPuEBjKQ/photo.jpg",
         "content": "Todos los d\u00edas entro en ella y confirmo los datos",
@@ -1023,6 +1140,7 @@
         "repliedAt": "2020-05-27 13:08:54"
     },
     {
+        "reviewId": "gp:AOqpTOGSX_xu-r6YmQaC7Vqvq4eMoCDN1F8HlnlALwe5Xum4MH1HtcegK-qsmJkS6FGcQHFQjke-HJTlQhvcgw",
         "userName": "Pototo",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiAMvF7_Va87tDPtBr04ZdjxmvyTkgmG6yH6vEoFA",
         "content": "Cada d\u00eda actualizo mi estado y acabo de ver en mi perfil -en mi estado ,que est\u00e1 sin actualizar desde el 29 de Marzo y al pulsar en el QR me sale \"algo confiable\"\ud83e\udd37\ud83c\udffc\u200d\u2640\ufe0f",
@@ -1034,6 +1152,7 @@
         "repliedAt": "2020-05-27 10:13:04"
     },
     {
+        "reviewId": "gp:AOqpTOEkWSuUGaWeXY4Vs81Ce1j66BcR-m6wh1zurEltd6wnAHMElwOgKO_gEMys6uNqfRrBbMJ6fvfH071UKw",
         "userName": "Ainhoa Alonso",
         "userImage": "https://lh3.googleusercontent.com/-MN5iVbXnZUc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclNjw2SsucBDs7d3K8NZpfCJNszBA/photo.jpg",
         "content": "El d\u00eda 9 de abril puse que ten\u00eda un sintoma, temperatura de 37, ni unad\u00e9cima m\u00e1s, ni un sintoma m\u00e1s. Para no molestar a mi doctora abr\u00ed el chat y me dijeron que con esa temperatura y nada m\u00e1s no hay problema. Pues la app, al no dar opci\u00f3n a que el m\u00e9dico descarta covid me pone hoy que estoy con covid. Me parece muy poco serio. Hoy ten\u00eda pensando salir, espero que no me pongan pegas por la informaci\u00f3n falsa que haya podido enviar la app. Me arrepiento mil de haberla descargado.",
@@ -1045,6 +1164,7 @@
         "repliedAt": "2020-05-27 10:45:15"
     },
     {
+        "reviewId": "gp:AOqpTOFWqJ8z-fZidui0pSRoO-yNr3b_ty0WQfcNJDWA_Ywjg62QjKSiumRHWhUFbXW6qvl96OjK_zV03o-7og",
         "userName": "Ainara Gurtubay",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjcZnl630GtkD1Bg9jLlGS77SGR9rqB4IKnA6GxEA",
         "content": "\u00a1Muy mejorada la navegaci\u00f3n!",
@@ -1056,6 +1176,7 @@
         "repliedAt": "2020-05-27 13:09:17"
     },
     {
+        "reviewId": "gp:AOqpTOFaFXZfXEuDnoFKDXo_US2yTtkBw5_JIYXNzGcTVJHU7YbB1ZvGTw69hVVVWe4jrO6Mh31K_qCasA08OA",
         "userName": "Vanesa Talavera",
         "userImage": "https://lh3.googleusercontent.com/-3sJT5EJEMtc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmOvp6Qpxp1Yrr3eWFnE-Lw7-lDnA/photo.jpg",
         "content": "Hola! Necesita mejorar, -poder cambiar tu nombre de usuario -Ver el estado de las solicitudes -poder reenviar la solicitud Actualmente he enviado solicitudes a mis compa\u00f1eros de trabajo y cuando se descargan la app no se me incluyen en la lista ni yo a ellos y no puedo volver a enviarles la invitaci\u00f3n porque me dice que ya est\u00e1 incluido en mis c\u00edrculos. No obstante \u00e1nimo que lo est\u00e1is haciendo en tiempo record",
@@ -1067,6 +1188,7 @@
         "repliedAt": "2020-05-27 09:41:07"
     },
     {
+        "reviewId": "gp:AOqpTOFzzIV9r3G3H8F5WsYCWfNCpygP78c7cZVV39mQTXpMtm0KOt7ZZrE-L6XR3pbOF4tjmBnMvgcj0jtI_g",
         "userName": "Reyes Tornos",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgWRqIWv_4ybQg3zHfcxJdVQemd29GB0Yuh5Z9dCg",
         "content": "Para nada.",
@@ -1078,6 +1200,7 @@
         "repliedAt": "2020-05-27 13:09:40"
     },
     {
+        "reviewId": "gp:AOqpTOGruprObjx3nuB_Y8vQBvWxdwC83daT34lZKU3k1TFoJmM8YGy0h-7eQ3_hKiRqkdG0ezsZS4sY8JW-JQ",
         "userName": "Juan Carlos Uriarte",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiFbd0bVE7XE8pkE_J9Bg9Wfj8YHLpYgjb6r7Zbw5E",
         "content": "Pr\u00e1cticamente no sirve de nada si no permite importar la agenda. La idea es buena.",
@@ -1089,6 +1212,7 @@
         "repliedAt": "2020-06-05 12:38:40"
     },
     {
+        "reviewId": "gp:AOqpTOGBRHxtPjpzw7yQK8-37LCgRdg0pzWEYVUocoPtGTEl2YNiHIjQt6vP2FZ1p8H6l6VJHL6LRZKNiEkL1g",
         "userName": "Patxi Elola",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgiigyPzzwlXceoSsTQQY_ugGJajlpaPPun745OEA",
         "content": "Una aplicaci\u00f3n para hacer propaganda del gv que no sirve para nada. Una chapuza m\u00e1s del gv .",
@@ -1100,6 +1224,7 @@
         "repliedAt": "2020-05-27 13:11:44"
     },
     {
+        "reviewId": "gp:AOqpTOECrAnSe-4OMd0E9va5rOKhe0_5oSguYCCB2wDUli4dgBvM5VWLAdaPCHlo19-1-S3D3qG2Q9OJmpz71g",
         "userName": "cristina lombide garcia",
         "userImage": "https://lh3.googleusercontent.com/-cFQn29XMDbc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckdZR4evBQ8n-hZdyXZc9RrKkdaQw/photo.jpg",
         "content": "No funciona",
@@ -1111,6 +1236,7 @@
         "repliedAt": "2020-05-27 13:13:00"
     },
     {
+        "reviewId": "gp:AOqpTOHyPm1WB4EdustKOw__5zlqX1dIHoRUVFNZosr8IyFZ4uIwuuqqnNx2_16uzfC5oHOPT6xmUYuFYz5DWg",
         "userName": "Leticia Carcedo",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiesYpbDTqIzME-y8zTwd8FC8XwPeZMA1vwHhOQpw",
         "content": "Aunque sigue con cambios me parece una app \u00fatil para la situaci\u00f3n que estamos viviendo ahora. Gracias !!!",
@@ -1122,6 +1248,7 @@
         "repliedAt": "2020-05-27 13:14:18"
     },
     {
+        "reviewId": "gp:AOqpTOEWia8vtnAL-W2-JghoFItThk0ZDrzkVC2-eteQ6x3Rkwxco4KGoXdQsR012mNRhXo94YHw3ATaaiuggA",
         "userName": "Levido Dole",
         "userImage": "https://lh3.googleusercontent.com/-L12Gsfr2GBA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl9i2suNeAx65XDKZjMwVpdZ_l11w/photo.jpg",
         "content": "Muy \u00fbtil y necesaria .",
@@ -1133,6 +1260,7 @@
         "repliedAt": "2020-05-27 13:14:45"
     },
     {
+        "reviewId": "gp:AOqpTOHiHU5O6rv_2vJWrFo9oVluIUrIyzmiFQM4yCDxzg5n4Sk4-BPiacWIKgt3QlxJQepA1qDx6VYQn9y4Ag",
         "userName": "Aurora Myu",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjC_sgwHVBNgrbpTE-3F1fb2tOhMga2vifLPXJIyg",
         "content": "Y si no tienes s\u00edntomas pero tienes una prueba que te confirma que eres positivo? Esa opci\u00f3n no est\u00e1 contemplada.",
@@ -1144,6 +1272,7 @@
         "repliedAt": "2020-06-05 12:37:49"
     },
     {
+        "reviewId": "gp:AOqpTOGMrxCeYNfKM1BYuvJNGhGMmEh6vAFD1RcXMVP-UiXQZN0NyfTCiRAXhvzASxI1HOhkjgRuz0Ky_xOyOA",
         "userName": "Asier Errasti",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Ghhk1dIxK21xOFfCEIJG_tT4FKO4gBDuwau9V0z6hY",
         "content": "Desde la actualizaci\u00f3n se queda todo el rato \"por favor int\u00e9ntelo mas tarde\" y asi se queda, no hace nada mas",
@@ -1155,6 +1284,7 @@
         "repliedAt": "2020-06-05 12:36:44"
     },
     {
+        "reviewId": "gp:AOqpTOGzeEDlzLGTKBAto-jO4GYmD46eUg0-u85O875lLGeucJB3x3jfxwWYDp1fbVwkMBTvpAnPcD-JOWyXtg",
         "userName": "Carmen Dieguez",
         "userImage": "https://lh3.googleusercontent.com/-VSLY8XVQF-o/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclPNoG5MV3JmQScFMxpmjH4kprjUA/photo.jpg",
         "content": "Ning\u00fan d\u00eda me da la opci\u00f3n de poner como me encontraba, solo me encuentro bien cuando ten\u00eda que poner tos dolor de cabeza y dolor en el pecho con falta de aire as\u00ed que decid\u00ed borrarme de la app",
@@ -1166,6 +1296,7 @@
         "repliedAt": "2020-06-05 12:36:06"
     },
     {
+        "reviewId": "gp:AOqpTOFTqF3LfBzUxon7z-iYCr_aowntGk7TV6c7FXf94_VGYZZ4glrC52XDl6Lo9tt-WYy1qozqLRy6X-VS6A",
         "userName": "Miguel G\u00f3mez Lasa",
         "userImage": "https://lh3.googleusercontent.com/-Nn3oie-o0wc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckoKhVYCu59hf1t82wdzn0ZvDtoSA/photo.jpg",
         "content": "No me dicen como pueden vds. Detectar el virus y cambiar a la prueba a mi familia gracias",
@@ -1177,6 +1308,7 @@
         "repliedAt": "2020-06-05 12:35:01"
     },
     {
+        "reviewId": "gp:AOqpTOHsR0ifSuiKuikDHjMkkQS-h7pybN8xMmqRDSZObxhOXVGo6f4R48SwQvCLUacA3hX_0iaP6heXu-p0fw",
         "userName": "Roberto Florido",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GieWxUK7Q35PLLUQ3qa1QxJEBgMjke7UdLlnXer",
         "content": "No creo que sea una app accesible para las personas con discapacidad auditiva o sordas, .a rellenar los datos habr\u00eda que poner el n\u00famero de tel\u00e9fono y no pueden telefonear por sordera. Y el chat bloqueado.",
@@ -1188,6 +1320,7 @@
         "repliedAt": "2020-05-27 10:41:11"
     },
     {
+        "reviewId": "gp:AOqpTOG1VZby5r5MqziLGRwRCDW-Y-It6QJWgl_mSnC6ND6qMw5M4WmWpjYA28BthHLj_sHtfv7rzRb_QnR2qg",
         "userName": "Jos\u00e9 Angel L\u00f3pez",
         "userImage": "https://lh3.googleusercontent.com/-PJ_5_Yi-mSQ/AAAAAAAAAAI/AAAAAAAACbE/AMZuucl-fqW7eM-g5vhgbyyNNBdVUbjmvg/photo.jpg",
         "content": "Deber\u00edan de pensar en una aplicaci\u00f3n para ordenadores, ya que hay personas con m\u00f3viles viejos en los que no funciona la aplicaci\u00f3n.",
@@ -1199,6 +1332,7 @@
         "repliedAt": "2020-06-05 12:34:29"
     },
     {
+        "reviewId": "gp:AOqpTOGy-uxxg1FY-7ZfeEUbgGWJYVDNBa9GBeTZOvHXZwHXdtv0RCTGEdkPbLaLvzjJY7srWi5xZr0YX6gopg",
         "userName": "Iv\u00e1n Ortega Villaiz\u00e1n Rold\u00e1n",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgX0XR4gy2pRWjcvF9jlMm3qhB3t_ENrXrYoKnBMew",
         "content": "Buena iniciativa. Le falta.mucha promoci\u00f3n para.que sea realmente \u00fatil. Deber\u00edan dar m\u00e1s posibilidades para compartir la opci\u00f3n de registro en la app. Mediante enlace, por whatsapp, en redes...",
@@ -1210,6 +1344,7 @@
         "repliedAt": "2020-05-27 13:30:26"
     },
     {
+        "reviewId": "gp:AOqpTOEbgkcTGBKGBrLYQOKfkmT98EwfbiQwRVdb9Potjg_XDJUi9oQkL4RVNstZsgZbQX1kFFwhq9GSv8vAmQ",
         "userName": "Dukatera A",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjHO5l4eQ-wP3q8uii5Z5FOf9OIPDCef-59bgbm6A",
         "content": "Poco a poco la van mejorado, espero tambi\u00e9n les sirva como referente para hacernos test y para saber si se. Convive con positivos",
@@ -1221,6 +1356,7 @@
         "repliedAt": "2020-05-27 13:30:57"
     },
     {
+        "reviewId": "gp:AOqpTOFE_BdJmYGt0IH6SNF4dzTr2m-AiM2ZJFwjPo4TRGrD4HK-67C18eMEc4Ctpny1erR6_3I2dSfWHSc3Vg",
         "userName": "Arantza Pinedo Hernandorera",
         "userImage": "https://lh3.googleusercontent.com/-j9ZWMweLHA0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnYZS7apaWJfICUX5I87WCVnx3snA/photo.jpg",
         "content": "No permite rectificar en los c\u00edrculos. Yo me he equivocado entre Casa y Familia y no puedo cambiar. Luego la informaci\u00f3n no es del todo veraz.",
@@ -1232,6 +1368,7 @@
         "repliedAt": "2020-06-05 12:33:10"
     },
     {
+        "reviewId": "gp:AOqpTOH989hVXLapYuT4W-9XbtTK1CP0-DL-KRVz8lKty6ftCgyNSqBcpxEj0egKOO3f_638TQo3pZzNrkPvCA",
         "userName": "Teresa",
         "userImage": "https://lh3.googleusercontent.com/-AuzxWp-qdlc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmW0UZA1UkLJKgmyazVyY1MemyxaA/photo.jpg",
         "content": "Excelente",
@@ -1243,6 +1380,7 @@
         "repliedAt": "2020-05-27 13:33:32"
     },
     {
+        "reviewId": "gp:AOqpTOFYefIOiW4txdRc-UPDFTHeKbM8rZcrq1SmffQ-s5FyVjt8_Y_GNu331iHk0Ob3c-GTps8kNoM54p7qRQ",
         "userName": "Raul Lozano",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Ghn-HfzH0mMHalY-ifTyKOrfhkwREAls6lRjNpd",
         "content": "No acabo de enterarme",
@@ -1254,6 +1392,7 @@
         "repliedAt": "2020-05-27 13:36:17"
     },
     {
+        "reviewId": "gp:AOqpTOE-mgFbdjXp_d16wipnxmmTLEgSVex8yArmRDJavxFbf6YQ9zgEkTw9UECMfwiBC7kAc0sVyXDVhU3bqQ",
         "userName": "Jose Antonio",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhIbMn3jg4Z4NFCNurzcvdjyULgULXC-gzlKQIF2w",
         "content": "Con la versi\u00f3n 2.0 me he quedado encantado. Aumento mi puntuaci\u00f3n hasta el tope !!!",
@@ -1265,6 +1404,7 @@
         "repliedAt": "2020-03-29 18:48:06"
     },
     {
+        "reviewId": "gp:AOqpTOFn7dR1T4jL42QIT5D9brnoJaTRdub8Sv2N8FpIoog5rslPcbNjf7_UXR66H6OORXn4bI_GEcORJ1IMFg",
         "userName": "alfonso blanco rubiales",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgO13nbWTiwZ-vMZbXhUaeko2svhiZZm1zZQa4KBMs",
         "content": "Esta bien no esta en aragon",
@@ -1276,17 +1416,19 @@
         "repliedAt": "2020-05-27 13:38:17"
     },
     {
+        "reviewId": "gp:AOqpTOHbzaRSrXAC9255-AWHJFGKcs8mxkCGZ0m1EWsOONhDu_flnTjsmsu5mBH9Vz6sZ4rDxjzyhlVNadx6ag",
         "userName": "Pako Ripoll",
         "userImage": "https://lh3.googleusercontent.com/-I3teyetu3v4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclZJ93-m6DWuWO-v1REJdDI_hL59g/photo.jpg",
         "content": "Faltan cosas b\u00e1sicas como acceso a la agenda de tel\u00e9fonos y poder modificar datos como el Alias... Por otro lado es algo que si se toma en serio puede aportar al control de la expansi\u00f3n del covid-19. Mucho por mejorar pero no es mala la idea. (10-4-20) Mejorando con las actualizaciones. El acceso a la agenda y la edici\u00f3n de datos del usuario arreglado. Aunque ahora falla la autoevaluaci\u00f3n diaria. Ha desaparecido...",
         "score": 3,
-        "thumbsUpCount": 28,
+        "thumbsUpCount": 29,
         "reviewCreatedVersion": "1.2",
         "at": "2020-04-10 17:52:42",
         "replyContent": "Se va a incorporar en breve el acceso a la lista de contactos.Muchas gracias por la sugerencia",
         "repliedAt": "2020-03-29 18:48:55"
     },
     {
+        "reviewId": "gp:AOqpTOH8SpKF8EdqC0P95eipEQtyakVLnuDIpP5k6Gv0HK2us8K0k0XbkvG7hbtLlgcU_1dm__Iev7Ytrf55MA",
         "userName": "Alfonso Urquijo",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Ggn8hnDVKYUtJE2AslxEqG7w3v5UgvSua8hO9g7",
         "content": "Suspenso. Mala de solemnidad",
@@ -1298,6 +1440,7 @@
         "repliedAt": "2020-05-27 13:39:08"
     },
     {
+        "reviewId": "gp:AOqpTOHz9w7CTzKhjBM2xjyDELu2wbcWRNoV_4c216pzVeCC8_KrYLAVVZZoBK7claOxl9DHhqrl6exAsP9fYQ",
         "userName": "Lydia Martinez",
         "userImage": "https://lh3.googleusercontent.com/-2SoAlZeEjc0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclfio7K7hne4llYOiYFK5RXeh-O2w/photo.jpg",
         "content": "Escasa y en la versi\u00f3n descargada por un familiar no da la opci\u00f3n de autoanalisis, por lo que no se puede indicar estado de ninguna manera. A dia 10 de abril, con la actualizaci\u00f3n me ha desaparecido ahora el autoan\u00e1lisis a mi. Cada vez peor.",
@@ -1309,6 +1452,7 @@
         "repliedAt": "2020-06-05 12:32:02"
     },
     {
+        "reviewId": "gp:AOqpTOHMljHnoyR-U1CX394k_mQ8VN9lMJUE9K3MxTKSBvPpkOMAlkq_UMpgVOZOxz6FQO4_1p1UzI7rLUkgTw",
         "userName": "Ama",
         "userImage": "https://lh3.googleusercontent.com/-C5WCYgqw8Ig/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnNbRc5eV4i11paM3C8_J2TBarSrw/photo.jpg",
         "content": "Acabo de instalar la app, soy paciente de riesgo y no he podido configurar bien, no puedo volver atr\u00e1s para poder reeditar la configuraci\u00f3n, no se si volviendo a instalar se podr\u00e1 corregir",
@@ -1320,6 +1464,7 @@
         "repliedAt": "2020-06-05 12:30:53"
     },
     {
+        "reviewId": "gp:AOqpTOH8cf8OGlstD4TZH_Pxx1u0ZPktv4y1nv5C1XSteXmsIibwrt0MCankAMSpgzCyNO1VvlJ7WcPqNqIfOg",
         "userName": "Nerea Vazquez",
         "userImage": "https://lh3.googleusercontent.com/-4ik2D_CYN0I/AAAAAAAAAAI/AAAAAAAAQwI/AMZuuck9k8_t6wXTfLL5CyXbeE9UDZJVbA/photo.jpg",
         "content": "Con la nueva actualizaci\u00f3n han mejorado el poder acceder a los contactos en vez de tener que poner tu el n\u00famero de tel\u00e9fono. Veo \u00fatil el apartado donde te pregunta que tal te encuentras",
@@ -1331,6 +1476,7 @@
         "repliedAt": "2020-05-27 13:43:40"
     },
     {
+        "reviewId": "gp:AOqpTOGiZC1feqxTYCR1wLHo403-1k8Z8NVecfM5GholtTdsO-RB7Ct6FR6oaKVkBUOhH_PU6STxGfjVGVXO7g",
         "userName": "eo 23",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgMKwvW3yBtlAVhoZDK2H3A2gTdwgkU8cO_EQWoVA",
         "content": "funciona bien",
@@ -1342,6 +1488,7 @@
         "repliedAt": "2020-05-27 13:43:59"
     },
     {
+        "reviewId": "gp:AOqpTOEzXr32vPxDjGo4CnhyxN3bDGuV3slZnnAy4vLZ80IA_k5Ok1UriADQc-J6VpPf1uI_x08fBdvFks4wWA",
         "userName": "Jes\u00fas Manuel Molano",
         "userImage": "https://lh3.googleusercontent.com/-vElZzpbcF-k/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck33ilzHU_McPIPgKn4Jf6Hsqs5-w/photo.jpg",
         "content": "Estaba bien. Pero lleva dias que no se puede hacer el test",
@@ -1353,6 +1500,7 @@
         "repliedAt": "2020-05-27 13:46:11"
     },
     {
+        "reviewId": "gp:AOqpTOF-0hJauSpz4sxARiCITXJ7RECOAr__8_bTp616LpfoiDM24_lMw5FdiF6x6hnAfY9qi8uPNv_fAQ7e9A",
         "userName": "Angel Mart\u00ednez",
         "userImage": "https://lh3.googleusercontent.com/-WPV56M2GqQM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckIHi5CBse3prxmwThigZPZkZdgTQ/photo.jpg",
         "content": "No podemos enviar nuestro estado ni mi grupo familiar ni yo. No hay que enviar el estado personal una vez al d\u00eda?",
@@ -1364,6 +1512,7 @@
         "repliedAt": "2020-06-05 12:30:22"
     },
     {
+        "reviewId": "gp:AOqpTOFoY61bVkmzghfrFjPXQxXGYr6UGwq0dK8Av_HQIDm1uGlI69hfe6_Y0TB8SMPy4hIgClzmq7bLRz-HcQ",
         "userName": "Yolanda Contreras",
         "userImage": "https://lh3.googleusercontent.com/-YTJJFe80RTI/AAAAAAAAAAI/AAAAAAAAFxA/AMZuucmmU9Ks9mKcDa-M5k9vzY6YkpbDfA/photo.jpg",
         "content": "Sigue sin aparecer el auto test diario. He desinstalado y vuelto a instalar y nada",
@@ -1375,6 +1524,7 @@
         "repliedAt": "2020-06-05 12:29:43"
     },
     {
+        "reviewId": "gp:AOqpTOHdbyo5jAfMP72RQvWN6m-ip09h2SxKt9jtawtLWUD_3OibCiTusMzKugrPJskIhQ7OUUT8CyywDmru-A",
         "userName": "gorka rivero",
         "userImage": "https://lh3.googleusercontent.com/-7JCiTYlJ7eI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclKLOIuKDgio-TnMU8rd_-lWCuqkA/photo.jpg",
         "content": "Fenomenal. Muy f\u00e1cil de manejar..Me encanta la aplicaci\u00f3n y su utilidad.",
@@ -1386,6 +1536,7 @@
         "repliedAt": "2020-05-27 13:49:58"
     },
     {
+        "reviewId": "gp:AOqpTOGjf-L0mfpRu9S4kqYg61AniOopMDgswIjv7xXTWn5Knfkw5mYgWcAWJVKrg0fXOHfuxtw308FII4LViw",
         "userName": "Jesus Orozco",
         "userImage": "https://lh3.googleusercontent.com/-v9wNFEmwSwI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckmrsRXUZO_VWKlYcGtJ1RSo-0Bbw/photo.jpg",
         "content": "Funciona mal,muy mejorable",
@@ -1397,6 +1548,7 @@
         "repliedAt": "2020-05-27 13:50:25"
     },
     {
+        "reviewId": "gp:AOqpTOHSoOCRx7L7iW3BPUZ7baBESTVab4orSNM8-Erf0A8dLxxJRT6Ehg4sQ4NYv6uQ99zuHmkoEr2QGf6sog",
         "userName": "Calzados Luzar Basauri",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhJ78MiEHm4vyqjmT-7rIvcJiC59Sz176heF7wKDQ",
         "content": "Lo que me ha costado que me quiten de aislamiento s\u00f3lo pq le di a tos. Me llegaban sms que llame a urgencias. He tenido que poner que he empezado a estar mala hoy y que hoy mes he curado para que me deje hacer consulta en la aplicaci\u00f3n. He llamado y por ese s\u00edntoma no pasa nada. Corregir las preguntas y las calificaci\u00f3n de salud",
@@ -1408,6 +1560,7 @@
         "repliedAt": "2020-03-29 18:54:44"
     },
     {
+        "reviewId": "gp:AOqpTOEMUCla7TCOXZoHZxy3tQbpv4dYGrWXzirEZJ0Bcqz2-K7WZ2La-UXo_HW1UlQ_p4gRghnufBxKZ7-fng",
         "userName": "Saceur",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjknqROIa7rGcJEUOGfDESQTSiK2xoMV0zbXDp5wQ",
         "content": "Francamente no es nada \u00fatil. No hay un autodiagnostico, ni explica los s\u00edntomas del covid, ni recomendaciones de nada, solo unas pesta\u00f1as con p\u00e1ginas en blanco, no da formas de contactar con tu MAP, ni consejo m\u00e9dico ni nada de nada. \u00bfRealmente esper\u00e1is algo \u00fatil de esto?",
@@ -1419,6 +1572,7 @@
         "repliedAt": "2020-06-05 12:29:06"
     },
     {
+        "reviewId": "gp:AOqpTOEmeKbLF2be0j6wpIkJ8SilEgoD9v8CQfjXS3jlUwTxomQbNC598Hv4Qa7EhFoyyMHPiQh73HTynqYRmg",
         "userName": "Nekane Fern\u00e1ndez A.",
         "userImage": "https://lh3.googleusercontent.com/-3GZZoH3dxik/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckFSW0aoi4ovfoLlO2Aq6UeupfB0A/photo.jpg",
         "content": "No funciona",
@@ -1430,6 +1584,7 @@
         "repliedAt": "2020-05-27 13:52:02"
     },
     {
+        "reviewId": "gp:AOqpTOHtqZRmD5-Bo-vrcrFZcv1atvq2j2zAxhImRxogi9Fwn--NgBH4-F0V31kaoxS4krMorBlGZbvArRLETQ",
         "userName": "GORKA LOPEZ GANGOITI",
         "userImage": "https://lh3.googleusercontent.com/-Kubjg0OtY2Q/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn7kia8LAWCYI1c0p43LrhHouyClQ/photo.jpg",
         "content": "\u00bfCuando va a empezar a funcionar al 100%?\u00bfCuando ya no haga falta?No se puede abrir la agenda,no se puede hacer el autotest...mucha publicidad pero poca utilidad",
@@ -1441,6 +1596,7 @@
         "repliedAt": "2020-06-05 10:50:12"
     },
     {
+        "reviewId": "gp:AOqpTOEalcF1UmQBC94GHUygc3BQ2IhEZQa2ADK-Vd0j3H2MAp3dsxgIdH9VGeYK1HrPzrWrfFxdn1_85go5hQ",
         "userName": "Mikel Gonz\u00e1lez",
         "userImage": "https://lh3.googleusercontent.com/-D16kn_TGVBY/AAAAAAAAAAI/AAAAAAAALaA/AMZuuclUVewYjjNlaDo6k7Y5nYmmlWlQHw/photo.jpg",
         "content": "No puedo realizar el test.",
@@ -1452,6 +1608,7 @@
         "repliedAt": "2020-06-05 10:49:46"
     },
     {
+        "reviewId": "gp:AOqpTOFaQWkUHIaItDpP1vfvMEEpKdh4KyNeVcm_0R63rVDkjsikm7N6HCTQhHyUJAoxA0nU6fhaEm7gBez9NA",
         "userName": "Anaito Loso",
         "userImage": "https://lh3.googleusercontent.com/-urcBGkfY5Ok/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm1uUGXUxS-AZK5Mfpyxsw2c4X_iA/photo.jpg",
         "content": "Muy buena idea. Muy \u00fatil.",
@@ -1463,6 +1620,7 @@
         "repliedAt": "2020-05-27 13:56:21"
     },
     {
+        "reviewId": "gp:AOqpTOG2PTBx0GwVGcN2xhTdIlOkrKFycYxgmOTJdnf6CVdD3AD2nN1vkANmhfysFM81vEpUUfO-k8pRnWQj_A",
         "userName": "I\u00f1aki Ramos Aizpurua",
         "userImage": "https://lh3.googleusercontent.com/-QQ9tlWwiKB4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl3is9m6N02F0C6oOiYNy-iFmoBvA/photo.jpg",
         "content": "Muy util",
@@ -1474,6 +1632,7 @@
         "repliedAt": "2020-05-27 13:56:53"
     },
     {
+        "reviewId": "gp:AOqpTOEs15NKhQNJZjFC819TLifW5Mb3k04HqMccVsl8ZeqkxKXUBQzV2et90TLrZKK6h5WL0dBZGljacLRy9g",
         "userName": "Winzip68 Winzip",
         "userImage": "https://lh3.googleusercontent.com/-Zsw5Al5v4NE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckll-nAUGKnpZ3lSFyTK7e0jqtnEg/photo.jpg",
         "content": "No puedo hacer el autores, antes si, ahora no me aparece",
@@ -1485,6 +1644,7 @@
         "repliedAt": "2020-06-05 10:49:35"
     },
     {
+        "reviewId": "gp:AOqpTOHx9_Cr9PoVsUcRwKziMXPLyvUfqlQ_drnxNAR0O_LDQ9IaBV1I9EBtI74xjaJtTBO2QFE2XYBrdiobxw",
         "userName": "V\u00cdCTOR GONZ\u00c1LEZ",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhwDXdrKJDHkezSHSNuJbwgZ4LL2kvXbffd7iXX8Q",
         "content": "Estar\u00eda bien que lo anunciaran en castellano, yo he llegado aqu\u00ed por un anuncio en daylimotion y nos seguimos empe\u00f1ando en que todo el mundo sabe euskera cuando no es as\u00ed, castellano si que sabemos todos. Esto es de inter\u00e9s general, por favor, ponedle sentido y permitidnos enterarnos a la primera.",
@@ -1496,6 +1656,7 @@
         "repliedAt": "2020-05-28 09:06:31"
     },
     {
+        "reviewId": "gp:AOqpTOGkAadhImw-1LhWM4GAXlITJV9FFUS6qP-Yolvv_aW6pQ36mN9sv46S6vHHjUJHDpOmTc9We29Zl1rJpw",
         "userName": "arantzazu torrontegi sanz",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gg47OokIml0yOOSGOl0mo5oQX3uzipY14mNFdS0DBY",
         "content": "Se tendr\u00eda que dejar a\u00f1adir a gente que no usa smartphones, como ni\u00f1os peque\u00f1os o personas mayores. En la \u00faltima actualizaci\u00f3n se han cargado el test...",
@@ -1507,6 +1668,7 @@
         "repliedAt": "2020-06-05 10:49:01"
     },
     {
+        "reviewId": "gp:AOqpTOEjRqr_H2WnkjDeyfcT9MPiXNATDd3mzwfgwyud7RXZiZyL8Q_ozbKl825i8vPg68nkR6ZNcfTgiGcz_Q",
         "userName": "gabriela buchicchio souto",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Ggo65t8SbJ4o5kPZvDLfTfmS9dyIK5kXDM7ZUyGFA",
         "content": "La instale la semana pasada, muy \u00fatil, solo un problema los primeros d\u00edas te mostraba los s\u00edntomas y ten\u00edas que ir marcando cuales ten\u00edas, ahora ya no los muestra, te piden que te hagas el test diario pero no aparece, no se si es un fallo de la app o los han quitado. Gracias",
@@ -1518,6 +1680,7 @@
         "repliedAt": "2020-06-05 10:48:55"
     },
     {
+        "reviewId": "gp:AOqpTOGYiEyVszu62kTpfIBdtmzw8EUo6u6kc0AMcArctKCGfeqW-z771uEiL5C0MaO-P0wdxJVpS9JenfKClQ",
         "userName": "Raul Melgar Ijalba",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgD61AECRIGChaBQdvCQzdDSGVs5NQ3X0IZNIyA",
         "content": "Ok",
@@ -1529,6 +1692,7 @@
         "repliedAt": "2020-05-27 13:58:21"
     },
     {
+        "reviewId": "gp:AOqpTOHB4NhgJoXNuCQ469Q4KArc0strWORISSM9hTuCYgN670n320ZFf3uRpDa3UCBsFRVBGUPBYFxfTfJI-Q",
         "userName": "Juan Ignacio Lasagabaster",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgO4VF2C2xaVoFEZL1W2aNrl4rMQKLNVIz2WfKZfw",
         "content": "No hay manera de hacer el autotest diario",
@@ -1540,6 +1704,7 @@
         "repliedAt": "2020-06-05 10:48:17"
     },
     {
+        "reviewId": "gp:AOqpTOH-TNoGvU83eaO2pAO4sKvbXn-xMav97B_MjENHXDbLhEtS6PYu2eYS26Sv4y_L8LQbbGe0LuaiAMEiWg",
         "userName": "Iker carnero herreras",
         "userImage": "https://lh3.googleusercontent.com/-Aaj4lCniVYs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmLUtJv8j4Ah49LEZ0DEbnGuomQMg/photo.jpg",
         "content": "Est\u00e1 mal. Como en el test diario pongas que te duele la cabeza ya te dice que contactes con el PAC. Al d\u00eda siguiente puse que no fui al m\u00e9dico y me dice que tengo el coronavirus.... Esto puede colapsar m\u00e1s los hospitales",
@@ -1551,6 +1716,7 @@
         "repliedAt": "2020-06-05 10:47:45"
     },
     {
+        "reviewId": "gp:AOqpTOHBae1H0cBJkaEWCMd47dgMEG-KO9KRCzJbBZbJ43zpiQmiQ1rv4yq0XnHL0LxfmK-thB2toCBQjAVLGg",
         "userName": "V\u00edctor Lekuona",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjawxBiu4Fob0pnosWshSu2AUuTNhynVs_-Nmz9HQ",
         "content": "Estoy un d\u00eda con dolor de cabeza SIN fiebre y ya me marca como contagiado. Fue un dolor de cabeza TENSIONAL. Por mucho que lo pongo en el muro no me lo quita.",
@@ -1562,6 +1728,7 @@
         "repliedAt": "2020-06-05 10:47:21"
     },
     {
+        "reviewId": "gp:AOqpTOHbJfcsYwFAsgxf3BcOQMe5lQhoxa7UgOCfVXA16ejkJmsr8_F6R-JCjQpShT3B8GoMtHH7hSsdWuOq1Q",
         "userName": "Edorta Suso",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gg-OjAXjHqXnuXs98qBdi_UXiZeV8_5Fw4eBkzhpA",
         "content": "No me llega el sms para poder registrarme",
@@ -1573,6 +1740,7 @@
         "repliedAt": "2020-05-27 14:00:36"
     },
     {
+        "reviewId": "gp:AOqpTOFVvzKsB9fQNr4sHDblXpK_EG52uKugivowXIPcS7jJ-_eS-Nugzr2G_OYaHDN9zd0UMfcSrfN9Zrdw9w",
         "userName": "hegoi P",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgcbpbN-r44YymqJMf7sEsgHGoW4jSaKYfLSI8u6cY",
         "content": "Con las \u00faltimas actualizaciones no me deja hacer el test diario",
@@ -1584,6 +1752,7 @@
         "repliedAt": "2020-06-05 10:46:58"
     },
     {
+        "reviewId": "gp:AOqpTOFH1bMPHnbtinXSuEg6X6OOx6QiW8DZlbZldF3DEPAyzR_Ukz6JM-ShNEyOKoAvqe3bp1UdzusmuobGcQ",
         "userName": "E Z E",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Ghq7dfy80U8MivUUB_JofKaM4-30AMYoBu7ErHCxw",
         "content": "Por fin la he reinstalado y puedo abrirla, pero no le veo mucha utilidad. Apenas se puede hacer nada con ella.",
@@ -1595,6 +1764,7 @@
         "repliedAt": "2020-03-29 18:20:39"
     },
     {
+        "reviewId": "gp:AOqpTOGuhLrXcpbB0_i5D9fiDnpibFPsSyXUTei2N94rg_AFajQlYdgVHPbzPI-1Fv3KX-W8lmbwK840HnrirA",
         "userName": "Sonia \u00c1lvarez",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gi7yQoAbBsGNiwM8721kq0sy5EF6vDhmEgPORTXaxU",
         "content": "Echo de menos poder incluir en los c\u00edrculos a ni\u00f1os y ni\u00f1as peque\u00f1os que, obviamente no tienen n\u00famero de tel\u00e9fono propio. Si no se recogen datos de los ni\u00f1os la informaci\u00f3n no es completa. Quiz\u00e1 se podr\u00edan incluir con el m\u00f3vil de alguno de los padres. En cualquier caso, me parece una herramienta muy \u00fatil.",
@@ -1606,6 +1776,7 @@
         "repliedAt": "2020-06-05 10:45:46"
     },
     {
+        "reviewId": "gp:AOqpTOGD2uv-BVaxcY3T0Lazd9xZC1H2-9oaGWpUySSPyDEs5PA5l3VVlnljONO1EVdSU2pYw-FLsKmm6ya15A",
         "userName": "i\u00f1aki lascurain",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gh0E_XWt3JMkP_nyYSVrkozyuaps1kkXlc38bR7DA",
         "content": "No es nada interactiva",
@@ -1617,6 +1788,7 @@
         "repliedAt": "2020-05-28 10:17:09"
     },
     {
+        "reviewId": "gp:AOqpTOHYkf1I2D7KvIJwXy8bfk4I4wBWmV9CQ4dhItNcXOtRRaleWAsY8Ho8sZqOzmsKimJlf9RmKIsQH1npTQ",
         "userName": "Leku HeyWire",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgcOGQzpqJArB9vpkxXvfnXp4ncl9Rl8chnXKvzdA",
         "content": "Muy b\u00e1sica. En el caso de mis padres, no los puedo a\u00f1adir porque no tienen m\u00f3vil. No funcionan los enlaces.",
@@ -1628,6 +1800,7 @@
         "repliedAt": "2020-06-05 10:45:25"
     },
     {
+        "reviewId": "gp:AOqpTOG7GX-6pZbClfEmeGPr5isj0U6zaNhs-HHfES-VTqpVfdhs0NH55yHRpQTUKP2xus6G_U_a_pkLl3oKjg",
         "userName": "Salvi Mart\u00edn",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhpYPl_pjsK0XB9iY40np_b06OZ4tKqgK4tSusr",
         "content": "Me gusta mucho pero le falta cosas....",
@@ -1639,6 +1812,7 @@
         "repliedAt": "2020-05-27 14:03:10"
     },
     {
+        "reviewId": "gp:AOqpTOEd2BqvoFovV97WieQ9frLEobguQMgBP5B10Nxn4PfIrbIx_lm4iaq376WT8daPIVeiDV56xpLSrCuatg",
         "userName": "Ana Isabel Barba Docampo",
         "userImage": "https://lh3.googleusercontent.com/-UKw5jgKDR2g/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl3F1sosIbepNdNb7XMvqLHQfvBFw/photo.jpg",
         "content": "No me dejaba elegir el espa\u00f1ol como idioma al descargarme la p\u00e1gina",
@@ -1650,6 +1824,7 @@
         "repliedAt": "2020-05-28 10:20:42"
     },
     {
+        "reviewId": "gp:AOqpTOFcCJe7tabfp9nvwCmzGm1Frz85mvejwVrnNOyVM5j0lTvtQqTQ1N3jmx3ecqU2tdZwAADWxi_KrJnMxw",
         "userName": "MARICARMEN ZC",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gi82zUm6Ihoxc6CmECma_ya_WZ4rwy1sXs2Dk4k",
         "content": "Indignante que no se permita hacerlo a todos. Que verguenza dan algunas personas.",
@@ -1661,8 +1836,9 @@
         "repliedAt": null
     },
     {
+        "reviewId": "gp:AOqpTOFYhw9g3YnDAWpuWSsak6IEwitz0S_6m5orm3r7BOjC831ckkmv7ReTQ8j7YOJwcu8d7SnHpmAQOZJImA",
         "userName": "Aritz Urizar",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gh8uET4CTD2TqXD1wUhP2kV2E5vn1V5BdgECH9g8g",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhmY9cGj_zE3ohCEIGJqxg3OyGyu2454U_L-1hG8w",
         "content": "Se tendr\u00eda que dejar a\u00f1adir a personas que no tienen smartphones. Como ni\u00f1os peque\u00f1os o personas mayores.",
         "score": 2,
         "thumbsUpCount": 1,
@@ -1672,6 +1848,7 @@
         "repliedAt": "2020-06-05 10:44:28"
     },
     {
+        "reviewId": "gp:AOqpTOH0lH66MuOF--l2U9CLvsFVWmJgmw0ckbHoWzOYFNxothnNBg1Af2h_6yP7txlzpQLqiqO2vatQ4E3KRg",
         "userName": "Fernando de Ribera Serrano",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjmNy13p8rcAWgp9rCBCuWIu98Fx-wvXFTlEfzRpg",
         "content": "Oportuna.",
@@ -1683,6 +1860,7 @@
         "repliedAt": "2020-05-27 14:03:52"
     },
     {
+        "reviewId": "gp:AOqpTOErmZhNgUw04FVTdATajUBvgbQqcr0KtKdJGH1ZoRujuJmqiXpeqpz-V4uVsajcikXXd3sfG15FV2835g",
         "userName": "Abraham F.S.",
         "userImage": "https://lh3.googleusercontent.com/-JAziNP3IZaw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclaBsUJTAYiYv_nXSag7kaYuyIQtg/photo.jpg",
         "content": "Ya han incluido la opci\u00f3n de seleccionar contactos de la agenda.",
@@ -1694,6 +1872,7 @@
         "repliedAt": "2020-05-27 14:04:20"
     },
     {
+        "reviewId": "gp:AOqpTOHTuszBW5cC-xF5e4IzjmYqR7nHD-W0ybpZONE4WLRRqj4wfGo8J0RVRYG0QJwXxgclHDf4Q_blitBCQA",
         "userName": "Javier Garcia",
         "userImage": "https://lh3.googleusercontent.com/-rKMKqOCg8n8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucksfyPgGsbgXX3bbSzb6Vu9Tw3H8w/photo.jpg",
         "content": "No me funciona. En cuanto la intento abrir, se cierra. Ahora ya funciona.",
@@ -1705,6 +1884,7 @@
         "repliedAt": "2020-03-29 18:16:02"
     },
     {
+        "reviewId": "gp:AOqpTOHaRu_LMkQR8k4cVKaSxFFu7V66KyfMlDJEze6wrOUl50C7Gd6WQ6LYoynt--UWdMeLJfmXHrEaY0d9AQ",
         "userName": "Xabi",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgoOtViYNWK3eyaGHWQUKljF6p8_-i8IrxOfPIo0A",
         "content": "Se agradece el esfuerzo pero es la app menos intuitiva que he visto nunca. Es necesaria una interfaz mas simple y amigable. Actualizacion: BUG detectado, al a\u00f1adir un contacto de la agenda no se envia la solicitud si el numero de telfono tiene algun guion",
@@ -1716,6 +1896,7 @@
         "repliedAt": "2020-03-29 18:44:27"
     },
     {
+        "reviewId": "gp:AOqpTOGmyeNl_VXEnZq51iz2tM8RjQBJlAPzlwKP72CeyvEfnz8bJtEB05PeR-HN_UEPfrru89D6hXCsK1Tr7g",
         "userName": "Fortxuzopo zopi",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgIuDP41QAGyq2V9ObfCUlfrUFpcSK77e08pDYW8w",
         "content": "Buena idea. Pero de que me sirve si yo acabo de pasar la enfermedad y no me deja ponerlo, creo que para que tuvieran los datos de todos los contagiados, deberian dejar que lo informaramos y asi se podrian tratar todos los datos. aunque ya lo hayamos pasado. solo me pregunta mi estado actual. Deberian dejar poner fecha de cuando empezaste los sintomas. Tambien deberian poner una forma de acceder a los contactos del movil. Se hace pesado a\u00f1adir los numeros a mano",
@@ -1727,6 +1908,7 @@
         "repliedAt": "2020-03-29 18:22:21"
     },
     {
+        "reviewId": "gp:AOqpTOFgw7UEg__UodcTpry3Z8dXH80FEIq6eyCRbM3JNNwZlRmxQdhWoFoBB7p4wqu-DEWS9KvsfZeI6-gBkA",
         "userName": "M Bego\u00f1a Diaz Resurreccion",
         "userImage": "https://lh3.googleusercontent.com/-VwPO1dQtl8U/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnGmU_gvKikcmDYe4DVldydnhBPUg/photo.jpg",
         "content": "Se podria hacer q hubiera mas de un perfil con el mismo movil. Ten a los padres de alto riesgo y como no tienen movil no los puedo a\u00f1adir. Es un sugerencia.",
@@ -1738,6 +1920,7 @@
         "repliedAt": "2020-06-05 10:44:10"
     },
     {
+        "reviewId": "gp:AOqpTOGFixMYEbaF-My9eV5PzTxD8SBNbjt53Vs4lHJSIR7LelbBLHNHGj5kMFZl0LY9E-Fz5pV0GGvtGG85rQ",
         "userName": "NAIARA MONTOYA GUTIERREZ",
         "userImage": "https://lh3.googleusercontent.com/-LLnfVpfu-5Y/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl_BgCWD7sWf5nyUenuZKRaisfakA/photo.jpg",
         "content": "No permite ver lo que has enviado como informaci\u00f3n y si quieres hacer alguna rectificacion, puede dar a equ\u00edvoco no deja anotar nada para que lo tengan en cuenta sobre los sintomas, faltan muchas cosas por introducir en la aplicaci\u00f3n es excesivamente b\u00e1sica",
@@ -1749,6 +1932,7 @@
         "repliedAt": "2020-06-05 10:43:36"
     },
     {
+        "reviewId": "gp:AOqpTOFRFxBE2jAdf7em0r4NuMYvifPPvIncwBGLo_1LIJB_s_4FMehOG53GU1VrSpWQtJoMsapA8c4W8YlaZw",
         "userName": "Juan Maria Martija Alcorta",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgxazwV3c1NoDV6BTV7QyqCmbYQAf3TG5oFSr6gGQ",
         "content": "No sirve para nada",
@@ -1760,6 +1944,7 @@
         "repliedAt": "2020-05-27 14:06:27"
     },
     {
+        "reviewId": "gp:AOqpTOF91uZ3LBaL1xvrTFkbinjxgY7Xohjv6pamulHMzXYBktngwAzJ8mLBdlyRWmgPiita1ixie7UC8E1elA",
         "userName": "Natalia Preciado",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjdEt1NK3LvSPlmekcvG0NTZC-WSI0YIb2hIFZN5Og",
         "content": "No sirve para nada. Le pongo que tengo tos y me llega un mensaje diciendo que llame al ambulatorio.",
@@ -1771,6 +1956,7 @@
         "repliedAt": "2020-05-27 14:08:11"
     },
     {
+        "reviewId": "gp:AOqpTOEZkZZAEnOZFvDI1Npp8yilg1Bkb4511fkqIWmJ3sZyAORbkR6p4gT25iXSOkZOQF5Jk55H55S08pP8rQ",
         "userName": "Mikel F",
         "userImage": "https://lh3.googleusercontent.com/-xhLAQbp0FSU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmGmz4Q7VC0dwgkOwsAObqlzdwpTA/photo.jpg",
         "content": "La actualizaci\u00f3n ha mejorado mucho la usabilidad. El poder usar la agenda es otra gran mejora.",
@@ -1782,6 +1968,7 @@
         "repliedAt": "2020-05-27 14:10:23"
     },
     {
+        "reviewId": "gp:AOqpTOFLxFEqurdKR_RLkBTEkkeUTiOGmQwH8CJnEDxziDVtuC-N5a3KhUjCqU_fqNptpCsj4ZIEnT82d6QqSg",
         "userName": "Iker L\u00f3pez",
         "userImage": "https://lh3.googleusercontent.com/-AyJe1NpV8Tc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclUDQxDI520Xan3yFel4Mn5mSU02w/photo.jpg",
         "content": "Ahora que se puede acceder a la agenda, no me deje realizar el autotest...",
@@ -1793,6 +1980,7 @@
         "repliedAt": "2020-03-29 17:48:45"
     },
     {
+        "reviewId": "gp:AOqpTOF5p788x6FwcnEo2Fu0u7sKEec4ES1qiZjPDXYICNCynb7W3oRLNwfuZu_rvTP_i1Vti_XxVx2FP5CD7Q",
         "userName": "Charo muguruza urkiola",
         "userImage": "https://lh3.googleusercontent.com/-2ohstbGB7Uk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl5yVSos6yOgBwchrW5vXn9zryhJw/photo.jpg",
         "content": "He desintalado la app, no sirve para nada",
@@ -1804,6 +1992,7 @@
         "repliedAt": "2020-05-27 14:10:51"
     },
     {
+        "reviewId": "gp:AOqpTOFGTKJSuK75oB8bkj_DcwxreGiuainCustmZ_qeA_PQPTKC0bI5FpEStG-1HFg5KA2FOBZ1QdOlfSqtug",
         "userName": "M\u00e9lida Garc\u00eda G\u00f3mez",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gghu6E2j1Wu_7-74OmeBgBA8NYEc2NnixuQhLR5xQ",
         "content": "La aplicaci\u00f3n est\u00e1 muy bien pero desde la \u00faltima actualizaci\u00f3n no aparece el test diario.",
@@ -1815,6 +2004,7 @@
         "repliedAt": "2020-05-28 10:31:56"
     },
     {
+        "reviewId": "gp:AOqpTOHYRcUu_jIqGQFimVHVPGkPsNSQbdskPUsDxobrtHbZFqJoIwPgPtqfvj7mKRskCBHP4tNlcfuWHZybvw",
         "userName": "Elena Redondo",
         "userImage": "https://lh3.googleusercontent.com/-LgHz8F5k5fc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmYpSsJbVvtfxnsChMROYa09r_uWA/photo.jpg",
         "content": "Tambi\u00e9n creo que le falta un segundo bot\u00f3n de confirmar el env\u00edo de datos porque el otro d\u00eda hice un env\u00edo de mi informaci\u00f3n, no me di cuenta que estaba seleccionado el apartado de dolor de garganta y como ya se envi\u00f3 ahora estoy en supuesto \"aislamiento\". Para otro d\u00eda tambi\u00e9n ya estar\u00e9 m\u00e1s atenta.",
@@ -1826,6 +2016,7 @@
         "repliedAt": "2020-06-05 10:43:06"
     },
     {
+        "reviewId": "gp:AOqpTOGQacOwcNEkstoaHfQTQOV4z91SkAzScJ4KOggVEr-ml-r4_bWE_UuEvxmj9rv_PnhMRJjcqSVCi0314w",
         "userName": "Emilio Ord\u00f3\u00f1ez",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgXvwsXYRTQ24pYP_ICZPcoen2kA4RjEbrb7F15Mw",
         "content": "No apta para ios anteriores a ios13",
@@ -1837,6 +2028,7 @@
         "repliedAt": "2020-06-05 10:42:33"
     },
     {
+        "reviewId": "gp:AOqpTOE-TXW8XN7Qu4sOj7NWK1OFVK9xdmLZZ-cuQFR8db8Hw7J-N1Pg1pYtKPKf1xk8vAvTKabw6qRZXOw5lA",
         "userName": "Jos\u00e9 Mart\u00edn Ruiz Miranda",
         "userImage": "https://lh3.googleusercontent.com/-r_R8cSgpORU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnMxm9LSRJrXfNG-Djpn0VDikTQBQ/photo.jpg",
         "content": "Malisima. Me pone en el peor caso posible (aislamiento total) cuando el medico de cabecera me pone sin riesgo.",
@@ -1848,6 +2040,7 @@
         "repliedAt": "2020-06-05 10:42:02"
     },
     {
+        "reviewId": "gp:AOqpTOFMJYzhHfKHOsgUkncT1jA0wXQ9VbwzCbGlhNT3gPldA9Dr_7-mqpozCUeEP72yiJW0ARauhy64caNhig",
         "userName": "Ismael Gallo",
         "userImage": "https://lh3.googleusercontent.com/-5yTuOA6u9Sg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckIFEhpIraeXpM4x-LO9XzBaA-WDg/photo.jpg",
         "content": "Bien, pero a ver cuando nos damos cuenta de que el virus no conoce fronteras trazadas en mapas, ni autonomias ni estatutos, y si la base de datos no es comun con el resto pues no me servir\u00e1 de nada cuando vaya a Madrid o peor, a Noja!!!!. Podiamos copiar de Corea y hacer una para todos y obligatorio si te quieres mover. Espero que luego se implemente a una a nivel nacional",
@@ -1859,6 +2052,7 @@
         "repliedAt": "2020-05-27 10:18:36"
     },
     {
+        "reviewId": "gp:AOqpTOGh9A3hUOFPjaGhkheunvpV4gq4u4d8nJ8zYdKeWnkoDMWNxBxjVWkXBUw5CWGL5jxljN3TGb70r1cdRQ",
         "userName": "Juan Carlos Arnaiz",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gi4PC9gbnWJHuxNlCJJCABHd7M_BMHiqeFfYNsp9Q",
         "content": "\u00danicamente valorar positivamente el contrato por el chat con Osakidetza. El resto, aparte de muchos fallos, no es v\u00e1lido. El \u00fanico que puede ponerte en cuarentena es el personal de Osakidetza. No la aplicaci\u00f3n, y menos contradiciendo las indicaciones del personal sanitario.",
@@ -1870,6 +2064,7 @@
         "repliedAt": "2020-06-05 10:41:03"
     },
     {
+        "reviewId": "gp:AOqpTOFhAqrYR5_clz8SftAAAj2aR5s3zWz-350siGWJuB01CYE625T4UHT-jXUMV2UbxHBMA-TiuofBkLHHLQ",
         "userName": "Aitor Navarro",
         "userImage": "https://lh3.googleusercontent.com/-znN0AbHfHwQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckvIPEUr8illZFlAwldi5TWRDf4hw/photo.jpg",
         "content": "\u00c1nimo con el desarrollo de esta app que puede ser muy \u00fatil en los pr\u00f3ximos meses!!!",
@@ -1881,6 +2076,7 @@
         "repliedAt": "2020-05-27 14:13:03"
     },
     {
+        "reviewId": "gp:AOqpTOH3pEAW7oDTX6Y3NpgA2RqtelMx4wJc9RjL6BnJJD3JNGgACGJirEbEzmT1clChVw3QW_upZxG6GM6thA",
         "userName": "Ane",
         "userImage": "https://lh3.googleusercontent.com/--oU81LCKQEQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmJR7Jgtg84XSpAS7d7JfPuVHY90Q/photo.jpg",
         "content": "La aplicaci\u00f3n requiere iOS 13, por lo que en iPhone 6 no se puede descargar...Gente que se queda fuera del sondeo.",
@@ -1892,6 +2088,7 @@
         "repliedAt": "2020-06-05 10:40:30"
     },
     {
+        "reviewId": "gp:AOqpTOFtMS1Yvvmj_0soEO1qk3NBtkHdnHjnWqMYkSW3tY0uKuOTV16wLmiYGM81NL56zQTK8l68e2i25gH-Dw",
         "userName": "juan casta\u00f1o",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhQPC7hTU15Goh-fX-2ymDauOa8A760S530uOKSSA",
         "content": "Solucionado ya puedes acceder a la Agenda .Rapida respuesta en tampoco tiempo felicidades. Animo a todo el mundo a descargar la aplicacion y ser rigurosos en su utilizacion es una herramienta no un juego hay vidas de por medio.",
@@ -1903,6 +2100,7 @@
         "repliedAt": "2020-05-27 14:13:56"
     },
     {
+        "reviewId": "gp:AOqpTOHxjngfQAq3O4jrf8NnBIarzusOp6xZc4jSFIAdM30jN_rb3yaFLVCq0_bxXHky3Eqn4xbmKUVUKwwKYQ",
         "userName": "Raulete J.",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GimOiSh5-80jsla9fsiL58VvrzRDIcz9L2wy3_z-g",
         "content": "La aplicaci\u00f3n no da la opci\u00f3n de seleccionar asm\u00e1tico como si lo hace diab\u00e9tico o hipertenso. Y una vez hecho el perfil, no se puede cambiar. Creo que se deber\u00eda mirar eso en una actualizaci\u00f3n.",
@@ -1914,6 +2112,7 @@
         "repliedAt": "2020-06-05 10:37:35"
     },
     {
+        "reviewId": "gp:AOqpTOHTPKh7tfIB9eotd_6Ws4mYozXAknIhUcq8-aDV-oPy8EGefxsftySxABBQIkRiTlp9xEcMfc3IYQj97Q",
         "userName": "Alejandro Ormazabal",
         "userImage": "https://lh3.googleusercontent.com/-Myhen-mSRV4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn5iXXt_tLNGONAUV_OqrfaXd7Fyw/photo.jpg",
         "content": "Llega a tiempo y puede facilitar que nos vayamos reincorporando de manera ordenada minimizando riesgos colectivos. Me apunto!",
@@ -1925,6 +2124,7 @@
         "repliedAt": "2020-05-27 14:14:31"
     },
     {
+        "reviewId": "gp:AOqpTOF4jif6qkNtLBacmfAs5M4Pbejen-BqtnATou2RNveFazWNPJIdUHGTpGpbMAutz7cgHZDIdyykpXCvOg",
         "userName": "I\u00f1aki Gutierrez Ibarluzea",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhLtlrx1LYZLgH-lJK9POxQX02qig7mw8tU4YR3",
         "content": "ya accede a la libreta de direcciones...",
@@ -1936,6 +2136,7 @@
         "repliedAt": "2020-05-28 10:44:14"
     },
     {
+        "reviewId": "gp:AOqpTOEdL5xqmOb31r6SCi-N0kPj03v99Ecsgo-qGx5MOYiiNDkoMUPT9BIgoXmQR0P3lY2IlAi9vE8kSBbovw",
         "userName": "Ander Martin Gila",
         "userImage": "https://lh3.googleusercontent.com/-ufb0fNqW3Iw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmoaDLDo8g_Tz9diPbikTnOzPgNVw/photo.jpg",
         "content": "Me instala pero al intentar abrir dice Covid-19.eus se ha detenido Y no abre no se porque",
@@ -1947,6 +2148,7 @@
         "repliedAt": "2020-05-28 10:46:36"
     },
     {
+        "reviewId": "gp:AOqpTOGV7nNYz7SOcYkMxNOZNJ9AE9NdbOnBDaJvU6m2AM6_0KOO2ttv8epaUAGRK1czsWzXA055fF-PFU7qKg",
         "userName": "elena eguia",
         "userImage": "https://lh3.googleusercontent.com/-Ls79QB35Muc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmqIWVfdgweYg-g2Qrqz7EF_52QqA/photo.jpg",
         "content": "Muy \u00fatil e interesante",
@@ -1958,6 +2160,7 @@
         "repliedAt": "2020-05-28 10:46:58"
     },
     {
+        "reviewId": "gp:AOqpTOE0iXqZqmu7_9AJC4cz6-fO0DBiHlqdWzgR2pX5sliJ5SAxJxMYrKE-SKD-gI62Vt9bbcsYTTMLR0GZqQ",
         "userName": "Alexander Ros\u00f3n",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gg-Wk6Wwp16lD1Ex37RysBiCOIZ-COfJNbQRlnqKg",
         "content": "Se nota que es nueva, que se est\u00e1 trabajando en ella. Faltan cosas, pero felicidades y \u00e1nimo a los desarrolladores. Ya se habr\u00e1 dicho por ah\u00ed, pero voy a a\u00f1adir cosas que creo que faltan: - Importar contactos de tu agenda. - A\u00f1adir a gente que no sea de tu c\u00edrculo de contacto actual (estamos en cuarentena, la mayor\u00eda tenemos c\u00edrculos reales de 1-2 personas, y sin embargo sigue interesando asociarse a familiares y amigos, sobre todo para distribuir el app). - Los links de informes no funcionan.",
@@ -1969,6 +2172,7 @@
         "repliedAt": "2020-05-28 10:48:27"
     },
     {
+        "reviewId": "gp:AOqpTOFHHlb-3wT0rldNrHr-45thOmo-LB2Z5U5ON3zeLq7E-h2t_zpnv_UkbSZYCoFKN_NJTgI1G724kwY1ug",
         "userName": "Jose Antonio Murga",
         "userImage": "https://lh3.googleusercontent.com/---hwObkL9kc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckojcklu592lTu3r7WPqfScICHa-A/photo.jpg",
         "content": "Para legos, como yo, no es....",
@@ -1980,6 +2184,7 @@
         "repliedAt": "2020-05-28 10:48:54"
     },
     {
+        "reviewId": "gp:AOqpTOHqkMrmoB0IWkDWbhjPKmvdHkPYtvJ67qNqrLQ9OYVIuuLRFDUaJedPNuphc_kOxTmOoMcu4Tr65GYs1Q",
         "userName": "Carolina f",
         "userImage": "https://lh3.googleusercontent.com/-9dyqhWMzdAI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm1v9yma1dmHAE27dOVCFOfpDeePg/photo.jpg",
         "content": "La intenci\u00f3n es buena..... pero no, simple, si pones solo que te duele la cabeza dice que ya tienes s\u00edntomas. No le veo mucha utilidad. Se nota que est\u00e1 hecho r\u00e1pido y corriendo.",
@@ -1991,6 +2196,7 @@
         "repliedAt": "2020-06-05 10:14:37"
     },
     {
+        "reviewId": "gp:AOqpTOEFe0oT0oDx4zYBQ2W9BbukRS3Ek846BAr3f9EMaycnCC2cCysg8L2lzpeyg5SyehLXdvyqktnBSun9qQ",
         "userName": "Biktor Guti\u00e9rrez",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgVsF-3qUvjDhgwGfCXjkhhjCGj2ch_27IrdTvyt34",
         "content": "Creo que deb\u00e9is explicar la aplicaci\u00f3n un poco mejor para las personas mayores, pasito a paso. O incluir un video de youtube con ejemplo de c\u00f3mo se hace y para qu\u00e9 sirve e integrarlo aqu\u00ed. Un abrazo.",
@@ -2002,6 +2208,7 @@
         "repliedAt": "2020-05-28 10:51:46"
     },
     {
+        "reviewId": "gp:AOqpTOFy4MIza9rOUT8hTiWjk7WX3oLICOG9xyWjX3tlLjMbGZuPPp79X-68-3cM2wsp3n2iPYKMNQ-Pf0LuAg",
         "userName": "capo smini",
         "userImage": "https://lh3.googleusercontent.com/-cJGVpmmqnIA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckpuE6o5KnhkOptDRO1T4nGFhbFag/photo.jpg",
         "content": "Por poner que tienes tos ya te dicen que tienes coronavirus jajaj y te dicen que te mantengas solo en la habiatcion y a distancia de la gente seguro mente me rompo la pierna o algo y me dicen que es por coronavirus deberias aislarte ahora mismo ya no existe ni resfriado ni gripe ni nada toses tienes coronavirus los medicos ya no tienen ni idea te diagnostican por diagnosticar",
@@ -2013,6 +2220,7 @@
         "repliedAt": "2020-06-05 10:14:00"
     },
     {
+        "reviewId": "gp:AOqpTOHWSkN5U7XknCc28UbVCwNGYmJmfTcZFF7yO517VAr2OqoJuYSV_LF-gsSFD8s_Pugn4NBQxO-jgSvM0Q",
         "userName": "A. M. R",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjMCWqzVcs3UHZdkcL6_QjG-iroK6VqBCErHZ7PaA",
         "content": "Falta mejorar muchas cosas... Algo indispensable ser\u00eda poder acceder a invitar desde la agenda del tel\u00e9fono y no ingresar individualmente los n\u00fameros. es buena iniciativa. Espero la actualic\u00e9is r\u00e1pido. Actualizo mi votaci\u00f3n para apoyar la app y esperando las nuevas actualizaciones",
@@ -2024,6 +2232,7 @@
         "repliedAt": "2020-03-29 18:54:56"
     },
     {
+        "reviewId": "gp:AOqpTOHFoHavb_sOo3cSopE4cEbzymyeWBznsmHTsLXe930m2-AaP9cZMjh7uRr5kvzJMu_XZkVWPg-PYTGzZg",
         "userName": "loay el maazouz",
         "userImage": "https://lh3.googleusercontent.com/-hl3QqdJneeU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnDGU91PJBFQKK9tVkHFqBuviGiNA/photo.jpg",
         "content": "Quiero saber c\u00f3mo funciona. Porque s\u00f3lo me sale una pantalla en blanco nada m\u00e1s es mejor que hag\u00e1is un v\u00eddeo para explicar a la gente como funciona",
@@ -2035,6 +2244,7 @@
         "repliedAt": "2020-06-05 10:13:23"
     },
     {
+        "reviewId": "gp:AOqpTOHLee0T_Gd2RvSYSpqIfgpmJoL6bgH27VE9Hf1OT05cGezHnyl8kOMW53Be5J2XZT4jj2h49ZA_D-hmWA",
         "userName": "Antxon Urtiaga",
         "userImage": "https://lh3.googleusercontent.com/-2lpBCStJ4W0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckw1Dn1nsi0LJdDQ6NhaBMs3LSrcw/photo.jpg",
         "content": "He perdido la contrase\u00f1a gracias. Le pongo la contrase\u00f1a y pone que falta alg\u00fan dato",
@@ -2046,6 +2256,7 @@
         "repliedAt": "2020-05-28 10:54:51"
     },
     {
+        "reviewId": "gp:AOqpTOHUNfTtxAMbyLSFKID37u63jKSrB4yXo65fElg9aw0oMs5NFjRp8C7rTbTPtfnE3srvQFGY-WrtwDMwKg",
         "userName": "Josele Alves Gonzalez",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiztvFBeSZ_Es087O4pE8HpDvacAsisvHiklns3cA",
         "content": "De momento bien pero necesita mejorar pero creo que puede llegar a ser una buena herramienta para el futuro",
@@ -2057,6 +2268,7 @@
         "repliedAt": "2020-05-28 10:57:30"
     },
     {
+        "reviewId": "gp:AOqpTOGwbEAFVZb5XBipMGZ8_G7virDpZBkrXw0BtltEqodDRErJgP8sSn0YXzzp85g8nBDsrLVE4aooLolv_Q",
         "userName": "M\u00f3nica Diez",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gj75BIONXiclw8I0LGdtM2F96PX09OvluEKs09snQ",
         "content": "Meto el c\u00f3digo y dice incorrecto ya llevo dos veces y nada.",
@@ -2068,6 +2280,7 @@
         "repliedAt": "2020-05-28 10:58:35"
     },
     {
+        "reviewId": "gp:AOqpTOGxKNeNYke-_ATlcObGyaT90VxrGfIJnhvMh45eTJp3Akfz7yw7Dr5yzqnrTodJGBWCnBMzkJb0rNGXMA",
         "userName": "Lola Casal",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Ghy9ZNMSqJqF480xhW4fcGNn1pJjlU2QL3XngE5",
         "content": "Me parece una idea estupenda para saber cu\u00e1ntas personas tienen s\u00edntomas compatibles con el virus. No entiendo a quien se queja de que no enlaza la agenda, solo hay que meter personas con las que se convive, al resto, los contactos frecuentes, estando en confinamiento total no deber\u00edamos tener contactos frecuentes.... Gracias.",
@@ -2079,6 +2292,7 @@
         "repliedAt": "2020-05-28 10:59:11"
     },
     {
+        "reviewId": "gp:AOqpTOH4f2B4uJ9rhTYB9id2pIPBtBHjUenzhQS1S6vkHsPG1x8c2eMENoQerwI9tdrMpz3jYuHauewgwH7kCQ",
         "userName": "Carmen P\u00e9rez Calleja",
         "userImage": "https://lh3.googleusercontent.com/-EvcTbOA44y4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckizWgFMbgvFsnTzcLm9I2tiSSztA/photo.jpg",
         "content": "La instalo para android pero s\u00f3lo se abre y se cierra",
@@ -2090,6 +2304,7 @@
         "repliedAt": "2020-06-05 10:01:24"
     },
     {
+        "reviewId": "gp:AOqpTOEJJUGX_ORGc4Y-eMTaOws5VUoAZVL_QIXLOZMwBMezQSGtqCEcZ89-7hxCd83ijCJC7t1zPgDnjn59Mw",
         "userName": "Zaira Muga",
         "userImage": "https://lh3.googleusercontent.com/-7hikngOFjyY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmZ859u0jr7A2g5oC7qnUwYXp5JuA/photo.jpg",
         "content": "Intento poner que estoy en cuarentena dado que estoy de baja m\u00e9dica por ello y no deja. Te hace preguntas sobre como estas hoy. Yo hay sintomas que ya he superado pero sigo enferma. Me parece absurda una app que no deje poner estado inicial. Como ya no tengo fiebre ya no puedo contagiar y estoy bien como me dice la app? Entonces porque sigo mal? O modifican eso de la app o no creo que sirva de nada sinceramente.",
@@ -2101,6 +2316,7 @@
         "repliedAt": "2020-06-05 10:00:30"
     },
     {
+        "reviewId": "gp:AOqpTOF3xAEWmotPCVrg4uXwEQBiuxOhaNkWJc8aO2tpNpaqk4jw_m8uHEDYEUA4OtVN-kFZN9PGWDnfC0vegw",
         "userName": "Lourdes De La Puente",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gg6RZS6f3-oY93rRR957vGlTRTMG1JCW7k3gGI",
         "content": "No se puede corregir el perfil, es decir, no se puede ir hacia atr\u00e1s.",
@@ -2112,6 +2328,7 @@
         "repliedAt": "2020-06-05 09:59:40"
     },
     {
+        "reviewId": "gp:AOqpTOEgH4Vv-V2xjgzblWmlom1KnVugdAwQp0rvRzuN1G-J54wYuDXNK70uH-caRPMJnto6pb-mj0VAZha02g",
         "userName": "mari luz suarez mendez",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gh_7Dsx_HFksUe6xUylSdIsbwrie7a4ilU6foSS7A",
         "content": "Cuando pongo segunda persona no va la app",
@@ -2123,6 +2340,7 @@
         "repliedAt": null
     },
     {
+        "reviewId": "gp:AOqpTOH0ucZXHsZaZ1pMp86hmzOYnRGt-MnTTCE0ZVKNzrQ8swoRkvhJc-IA8o-7M2wayIGRTbACWREtwsJGBA",
         "userName": "Manolo Fernandez Beobide",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjP_Rgql8GgjOQP6yUjv3Wn3xTwhUFsCwRm2zXw",
         "content": "La idea es muy buena.",
@@ -2134,6 +2352,7 @@
         "repliedAt": "2020-05-28 11:05:25"
     },
     {
+        "reviewId": "gp:AOqpTOHGJyFi9hSzoBpTJheVnwYxhVTLwdYIU_yn70vPTNJ4CpS93DY4c9ZetLY_HB2KzZpAEYAXngdzUGRguw",
         "userName": "El Rinc\u00f3n de Kosko",
         "userImage": "https://lh3.googleusercontent.com/-u_6jdm5MOZQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnwCkUlkZxlGX4gbYBg2uVkVCuovg/photo.jpg",
         "content": "La he instalado por segunda vez y al darle a abrir me pone que se ha detenido. Ni siquiera me deja entrar",
@@ -2145,6 +2364,7 @@
         "repliedAt": "2020-06-05 09:56:57"
     },
     {
+        "reviewId": "gp:AOqpTOFF2Kehue9al2GLSIiOX0CAtfNYDnn-VtG1GqRlqEHcIBp4PhF8d8SakDCDsGzkxgJyaJCUlBfMjSK67Q",
         "userName": "Andoni Hurtado",
         "userImage": "https://lh3.googleusercontent.com/-8AfIzjGkr1o/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclGX2eemY7mz---MFYB72JGLKRjvQ/photo.jpg",
         "content": "No puedo acceder, hay que registrarse en alg\u00fan sitio a parte de \u00e9l N\u00b0 M\u00d3VIL Y EL C\u00d3DIGO POSTAL",
@@ -2156,6 +2376,7 @@
         "repliedAt": "2020-06-05 09:56:24"
     },
     {
+        "reviewId": "gp:AOqpTOHE7fNRoIBsPFXydavoWwkdHXNuECS2IwVNUQSNAZeARDmwph3A63B1o4M3Kv1jURLKgDnqKuDtFmpNJA",
         "userName": "Jorge A",
         "userImage": "https://lh3.googleusercontent.com/-eDxVXjEY-Mg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckMKMh4eC0TheKeXgjKOPp2oiSTZQ/photo.jpg",
         "content": "La app no es funcional. No es m\u00e1s que propaganda del GV, la publicitaban y no estaba disponible y ahora que est\u00e1 disponible no funciona.",
@@ -2167,6 +2388,7 @@
         "repliedAt": "2020-06-05 09:55:51"
     },
     {
+        "reviewId": "gp:AOqpTOFgsaBG4sd1Z2OiVphyaFulTW1sXUilPP1rydy4MoutrJHxRohT3TIduuG_cnGwwR7J_1LnRFjhsuvRTw",
         "userName": "Ekain Jim\u00e9nez Valencia",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gh2bNaO9KD8m02nxxjpCCH_9hUXjzDeqlyxVdOo2A",
         "content": "Acceso manual a los contactos. Mal.",
@@ -2178,6 +2400,7 @@
         "repliedAt": "2020-05-28 11:09:08"
     },
     {
+        "reviewId": "gp:AOqpTOEmez3CtFnYYXoWv16FM5pZtJWKXZsGtcmL-W03K5ocl4JocNxy1iTbUJMOJ_xdrbb4uwxdAKjqevy7VA",
         "userName": "javi bouzas",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgNtxZnmq4acqTxOq6rHD-NfPhIvneLK6WrJ9wJSqg",
         "content": "Muy buena y necesaria ahora mismo pero el mapa interactivo funciona en iOS pero no en Android.",
@@ -2189,6 +2412,7 @@
         "repliedAt": "2020-05-28 11:10:33"
     },
     {
+        "reviewId": "gp:AOqpTOHHRRnCv5YjCWZBsGxriqp6k3WG0Ad6AMtGmEsrqDpVGXZRsyN9oLqBGHlExOsJBXRn6mGj6vMAcOiF1g",
         "userName": "Victoria Blanco",
         "userImage": "https://lh3.googleusercontent.com/-XmzHGJffeOM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclzRawbWtZvJIMx34vKCnIX8hPRcg/photo.jpg",
         "content": "Una aplicaci\u00f3n \u00fatil para controlar esta pandemia.",
@@ -2200,7 +2424,8 @@
         "repliedAt": "2020-05-28 11:11:03"
     },
     {
-        "userName": "Jose",
+        "reviewId": "gp:AOqpTOFRPkHVD5vl-K60eJf35ttEoztL2RAl1CFe7-2IMXh7OqLAw6JHpDb-l7vmrT5f85uIilQLU-0Pgr5vHQ",
+        "userName": "Que m\u00e1s da",
         "userImage": "https://lh3.googleusercontent.com/-By7oNuwDVMA/AAAAAAAAAAI/AAAAAAAAATE/AMZuucnoSIt33638QtdqyRJ5pv_cy-sxIw/photo.jpg",
         "content": "Le doy una estrella porque no se puede dar 0, peor no lo han podido hacer, adem\u00e1s como viene siendo habitual, muy tarde",
         "score": 1,
@@ -2211,6 +2436,7 @@
         "repliedAt": "2020-05-28 11:11:45"
     },
     {
+        "reviewId": "gp:AOqpTOFcXdNrLuA7YWSqJLXriE1rUd-qXcIlF839H1hMouaYBE2UGXcqsS8cSeG9hYXekXCaHxFFY0hp0fMYUQ",
         "userName": "Ana Castroviejo",
         "userImage": "https://lh3.googleusercontent.com/-Qx8sZu5KQgs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmTTTmFulcsxrP97goIGIX5wXoc6w/photo.jpg",
         "content": "Mejorable, aunque entiendo que lo importante es lanzarla y seguir puli\u00e9ndola d\u00eda a d\u00eda. Sugerencia: poder dar de alta miembros de unidad familiar k no tienen movil: hijos, abuelos...que permita a\u00f1adir desde un mismo m\u00f3vil m\u00e1s miembros de la unidad familiar",
@@ -2222,6 +2448,7 @@
         "repliedAt": "2020-06-05 09:55:15"
     },
     {
+        "reviewId": "gp:AOqpTOHAgvCVlro1HhHYJGll3FCY33LRwu0kJPR7qfWLNkyZCp5Z1izpcpyJJoGXwcrUNARqV5IvnCkglzLoEw",
         "userName": "Jorge Ferrer",
         "userImage": "https://lh3.googleusercontent.com/-Iq7vwYhH0ss/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck0lvtUTP0jSMv6OzIv9eI5aOMopg/photo.jpg",
         "content": "Tarde y mal....menudo desastre. Tengo la sensaci\u00f3n que esta app sirve para poder decir eso, que se ha desarrollado una app.",
@@ -2233,6 +2460,7 @@
         "repliedAt": "2020-05-28 11:27:55"
     },
     {
+        "reviewId": "gp:AOqpTOHuAwd58AW2eWf_w5KhINqFwOwLSpgiDwzyOjol0PPObVZlIZxXgqW_MBXFl_cK81sd41M6XYnQ--iLOA",
         "userName": "Javier Igartua",
         "userImage": "https://lh3.googleusercontent.com/-G1iJdcEGpzE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnvyMqkeLaSoQx--FkQiV--q1tXuA/photo.jpg",
         "content": "Nada intuitiva. Las explicaciones en euskera son poco claras. No es nada evidente la forma de incluir contactos.",
@@ -2244,6 +2472,7 @@
         "repliedAt": "2020-06-05 09:54:48"
     },
     {
+        "reviewId": "gp:AOqpTOFGuP4VrVDlFMzDOTHUs3KNMx7NRR9LH0mRLQZrtjtzSlIWgHSnsDnYDYMM4CVk9ShWozvECbUesXHlbw",
         "userName": "C\u00e9sar San Juan",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhL89jNjDXzrA0uLpJv9QebRDJg0tt_2B6nHAoLmw",
         "content": "Se ve que est\u00e1 desarrollada precipitadamente. Nefasta experiencia de uso.",
@@ -2255,6 +2484,7 @@
         "repliedAt": "2020-05-28 11:34:47"
     },
     {
+        "reviewId": "gp:AOqpTOFIiHMYdygjRYigQkZ8GpankHbSAv9koAHeKt27S16lwhGnkNfdVQl_LShoBCNTwI4oXofkv6yc4Jsiuw",
         "userName": "David San Miguel Dominguez",
         "userImage": "https://lh3.googleusercontent.com/-lbliXseaPM4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnNWnsDNHtOGbZvuLjGbV11vUOoDw/photo.jpg",
         "content": "Dif\u00edcil de entender incluso para los que estamos acostumbrados a las tecnolog\u00edas, sobre todo para configurar inicialmente. Las personas mayores no disponen de tel\u00e9fonos para instalar la aplicaci\u00f3n en muchos casos.",
@@ -2266,17 +2496,19 @@
         "repliedAt": "2020-06-05 09:54:08"
     },
     {
+        "reviewId": "gp:AOqpTOFn4qaIyLb5Dg8m5mnw-rSAsghfidepT1HBvFqVZa8Zj5YbuNPxfL1hpi4uE1yKojlyyK5PVpqZ2VzEeQ",
         "userName": "Jose Bernad",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gg5eF7zdUCSE4tE20toFCPxt6nqje6wIizRTemOChs",
         "content": "Demasiado simple. No funciona en todos los m\u00f3viles: En el m\u00edo (Android 8) va bien, pero a mi mujer (Android 6) no le arranca, avisando de que la app \"se ha detenido\" Ambos terminales son SAMSUNG Deber\u00eda ser compatible desde versiones Android 4, por lo menos. No tod@s podemos cambiar de m\u00f3vil cada 2 a\u00f1os, para estar \"a la \u00faltima\". Y si no, al menos, informar sobre las versiones realmente compatibles.",
         "score": 2,
-        "thumbsUpCount": 27,
+        "thumbsUpCount": 28,
         "reviewCreatedVersion": "1.0",
         "at": "2020-03-30 16:24:15",
         "replyContent": "Hola, en la primera versi\u00f3n tuvimos un error con Android 6.\nDisculpe las molestias",
         "repliedAt": "2020-06-05 09:53:38"
     },
     {
+        "reviewId": "gp:AOqpTOFzIhDRertAZ2O_W54TRd8EA-XLBMorfFQDrimR8HofmCLONcRI_YQ3GdmUmSLbLzpVPZG-XkJTxMTBBA",
         "userName": "Alfonso Pascual Etxebarria",
         "userImage": "https://lh3.googleusercontent.com/-aA11MXtwycE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnCTjZjdZ0_18FB1MF4JvI4GfiY4w/photo.jpg",
         "content": "No funciona. No se abre. No he cobseguido entrar.",
@@ -2288,6 +2520,7 @@
         "repliedAt": "2020-05-28 11:39:03"
     },
     {
+        "reviewId": "gp:AOqpTOHYAnIK_5D1KZUj3SK6-qAZC-ClSR9-Is4_ee_lL40kDeI11-bqRoNsPpNKDbn45APEY2wjfl2Tu_yGFQ",
         "userName": "Raquel Hernando Briongos",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Giu6gflBKjbP6-WdppOgC-LH_DCPJhLXoegPN22kA",
         "content": "Se me detiene la aplicaci\u00f3n. No se abre",
@@ -2299,6 +2532,7 @@
         "repliedAt": "2020-06-05 09:52:59"
     },
     {
+        "reviewId": "gp:AOqpTOGa1cSY1OcrajtnhwgYTe9GYrbetv9svdVMC4bsL0uIwbo4TKaE0VAT8SRjnAGB89X8dN_aJRtw-itaSw",
         "userName": "leticia iglesias",
         "userImage": "https://lh3.googleusercontent.com/-dak746FDj-w/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmhuECLBcQWCU1X2mYfeWott7CJFw/photo.jpg",
         "content": "No funciona",
@@ -2310,6 +2544,7 @@
         "repliedAt": "2020-06-05 09:52:45"
     },
     {
+        "reviewId": "gp:AOqpTOG1tP8rc36tr7oNpvgiIYDVW-_faboil4FQ9QiZYZa-0V1J2aNOsgli4cy0R4e0chD1jZVf3gOdJHw9LA",
         "userName": "victor",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Ggm9JmAerzPUbk_SBcTBfSzoglho-RfteSeQQCA_w",
         "content": "Es gracioso puedes tener todos los s\u00edntomas pero no tener fiebre y no te manda a Osakidetza",
@@ -2321,6 +2556,7 @@
         "repliedAt": "2020-06-05 09:51:49"
     },
     {
+        "reviewId": "gp:AOqpTOEI5pcgrY02aFM6vs1IgZNywRSJedplVohloCUzY5rIPDRZo3MZfVTwBapCiuWh-5tz_I5FLjCwIDBmZQ",
         "userName": "I\u00f1aki Garcia",
         "userImage": "https://lh3.googleusercontent.com/-EluRXGx_O_M/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnq8ARlWrQiO_AHUqg0HHx5iq1S4g/photo.jpg",
         "content": "No funciona nada",
@@ -2332,6 +2568,7 @@
         "repliedAt": "2020-06-05 09:51:19"
     },
     {
+        "reviewId": "gp:AOqpTOGnVAmNgNMVWIuOZS9qFD3KDTrnJSE8E6nBZfhIjmymco2s1S-Puc6TVHyAJslZvYgMtBtuhUQ8ID9bvA",
         "userName": "Daniel",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gj82SVZDGyAJPtlkT_eFC6GhQz6xSLvuV2fNhiRQfU",
         "content": "Para cuando termine de meter los contactos ya se ha pasado la cuarentena...",
@@ -2343,6 +2580,7 @@
         "repliedAt": "2020-06-05 09:50:22"
     },
     {
+        "reviewId": "gp:AOqpTOHxxOoWtH9caJv_E4Xv5-TqBKSPi8m7HXz0x2CJZ3MNCyeF8rFFfBFdXKhuxUjkpUEGHONtBEVjkV_2Xg",
         "userName": "Jose Mendez",
         "userImage": "https://lh3.googleusercontent.com/-vzGKB5bwN0o/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnvNDMdVgbe5ecEBBzAQ8hLqnRTMA/photo.jpg",
         "content": "La app no permite meter miembros de una misma familia que no tenga m\u00f3vil (ni\u00f1os, ancianos). Creo que con esta opci\u00f3n se tendr\u00eda a\u00fan m\u00e1s control.",
@@ -2354,6 +2592,7 @@
         "repliedAt": "2020-06-05 09:49:45"
     },
     {
+        "reviewId": "gp:AOqpTOHADg0aN0B3tTGJHinZl1Zl0ui2R3xnLQoM26lG6WwfzAETEJ6Vovr-qvfgbDk84W8zbp436WSUyONm9g",
         "userName": "Ivan Gutierrez",
         "userImage": "https://lh3.googleusercontent.com/-1UmzT06BVDw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnSYqZlyeTBR1ry0vtzclBhhQS42w/photo.jpg",
         "content": "Instalada, pero no me permite abrirla, se cierra sin m\u00e1s.",
@@ -2365,6 +2604,7 @@
         "repliedAt": "2020-06-05 09:48:52"
     },
     {
+        "reviewId": "gp:AOqpTOFPgC4xnDkSjoX5Z1lq4s-Iz3h9HWLISi4eTi-Ald8G0d4wibWG6JLWXgAE_PODFEi3SxK2sU-uTEGckw",
         "userName": "Carlos Osa",
         "userImage": "https://lh3.googleusercontent.com/-D7dYVWtor6o/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn2_ESDstVEL651BUTMIAPcPT5mZQ/photo.jpg",
         "content": "Da un error y se cierra",
@@ -2376,6 +2616,7 @@
         "repliedAt": "2020-06-05 09:48:36"
     },
     {
+        "reviewId": "gp:AOqpTOG7fG5XXTeNgmflNOeSeC1tWc-I9r0DjEsFbPbxrhLh5qZ02Hiui2SWxsbuLyuJau-hr9YyBQ89ZzL-_A",
         "userName": "Susana Marin",
         "userImage": "https://lh3.googleusercontent.com/-li1qKvoW5L0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnOY26u_JNRv7FyNi0r-O0NLIKspA/photo.jpg",
         "content": "No puedo abrirla La desinstalo",
@@ -2387,6 +2628,7 @@
         "repliedAt": "2020-06-05 09:48:17"
     },
     {
+        "reviewId": "gp:AOqpTOEMc_NqX44lg-yRxT8ohNH0DNcLVKPaAI8YfE-JRuaExAmqjAM5l31PLXwY89RvmVjRtsrL6lnXEuxxuw",
         "userName": "GOXOAK",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GheVg44vFj0EV1etLxzdJXoM6FM824bsbDbdEj6ZjA",
         "content": "No puedo abrirla, me dice que se ha detenido la aplicacion constantemente",
@@ -2398,6 +2640,7 @@
         "repliedAt": "2020-06-05 09:47:15"
     },
     {
+        "reviewId": "gp:AOqpTOExgRaoBTRfGZ7frrDY6kUpBaKfTwkTrvKNymIOdFWT9bDIe46YM5aEgwhk4DJK7gcG13yjcdVw7fCqww",
         "userName": "Ana Caballero Azkarraga",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjrL3f8qP8gdtEE9okmi8h6skPDGAPb9HUN5JVcuQ",
         "content": "No da opci\u00f3n a nada. Ni acceso a agenda de telf ni nada. Antes de poner la app pulirla un poquito.....",
@@ -2409,6 +2652,7 @@
         "repliedAt": "2020-05-28 12:05:55"
     },
     {
+        "reviewId": "gp:AOqpTOGi567WSfk54MVo-DDXVVjSfpn0gxII_49TJPXEHYxB5ISaB48EDqLhUfR6IHH1ASrrpp2CZcL2ywgiBQ",
         "userName": "maiteaparicio Aparicio",
         "userImage": "https://lh3.googleusercontent.com/-CJMmwOx7SLM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmX5as3OKhPxC8ubC3kyQtLKm8XkQ/photo.jpg",
         "content": "Mala no reconoce el codigo",
@@ -2420,6 +2664,7 @@
         "repliedAt": "2020-06-05 09:46:37"
     },
     {
+        "reviewId": "gp:AOqpTOHvDqIOwwEZOHqwqdM6SmJQ7xZx16wrZ758DfKS-ZHOUkgVb8J0VHmz0_HyjD3F1GILL_mxBHug72DtJQ",
         "userName": "Silvia Ugalde",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gg2ygZY1nIp5c1EYrNEMtADLzZVMwfVzegIExlfng",
         "content": "No sirve para nada, no te deja meter los datos de tus c\u00edrculos y no te ofrece la informaci\u00f3n que anuncia.",
@@ -2431,6 +2676,7 @@
         "repliedAt": "2020-06-05 09:46:05"
     },
     {
+        "reviewId": "gp:AOqpTOHzpzo8cu8Bk9qDruYbLQ0sQq1-QPjLW0tO0ijNGqRkhbcSitvJLHglDpXhdRj0h-oe0XvtY_6ozNpMMA",
         "userName": "Maider Ramirez",
         "userImage": "https://lh3.googleusercontent.com/-CmOdiMFWAFo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm4z4n1bRe88OPb2amTMr8fpfPqmw/photo.jpg",
         "content": "No me funciona, me da un error",
@@ -2442,6 +2688,7 @@
         "repliedAt": "2020-06-05 09:44:17"
     },
     {
+        "reviewId": "gp:AOqpTOF8AcuS1KWFPUhaFphqVKOm1xkiV6NgISbVegpTDb1TkAsSreiQSTmJ3WICrv5-v2ONKayrShvqe5UwpQ",
         "userName": "kontxi ugarte",
         "userImage": "https://lh3.googleusercontent.com/-dOXY4qAwbAc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclHpMjF2-c8gXcEMTpLhID8pSof2g/photo.jpg",
         "content": "No consigo nada, los c\u00edrculos no deja marcar",
@@ -2453,6 +2700,7 @@
         "repliedAt": "2020-05-28 12:23:09"
     },
     {
+        "reviewId": "gp:AOqpTOH9zCBOoBSWOO28YVP6nN3MX627-gDpmMdfZ91B4WCxLVzXgA5S9eaYIyrpLX3mxK4yqifzOvzVi84WZQ",
         "userName": "Elixabete Uriarte Ormaeche",
         "userImage": "https://lh3.googleusercontent.com/-vXaGDGd6gtk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnCUfoLCNJPRa_nLsttGwhvs9qamQ/photo.jpg",
         "content": "No se sabe si funciona, \u00bfQue es eso de c\u00edrculos?\u00bf d\u00f3nde? \u00bffuncionan?...por m\u00e1s c\u00edrculos que hago nada.y est\u00e1 es una aplicaci\u00f3n que funciona bien o no funciona en absoluto. Todo o nada.",
@@ -2464,6 +2712,7 @@
         "repliedAt": "2020-06-05 09:43:04"
     },
     {
+        "reviewId": "gp:AOqpTOEQ9Jn14rmnJhLWKF5JGgdACrO5zWwU4D9JKkg1OJG1zWOE5yKAU0GopDT1hYtq--1B6ii-fuR9XmvrlA",
         "userName": "Jose Mari Egana",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjtZIGwlXZ1Rz7IU9MVFSxGEFE_akpbnTHtuddZ-Q",
         "content": "Si ya por redes sociales se lanzan mentiras, no me parece fiable ver informaci\u00f3n de personas o de focos de virus que pueden ser una mentira.",
@@ -2475,6 +2724,7 @@
         "repliedAt": "2020-05-28 12:28:08"
     },
     {
+        "reviewId": "gp:AOqpTOEebyCPiUpDKdSu6LxlQtsEX7MOV8b7VVsHLMNl99KzvUELCL7ucKoywxPRwtCQMGlyc3Riqd2BJ_tsJg",
         "userName": "Ignacio Isusi",
         "userImage": "https://lh3.googleusercontent.com/-0iexH9VwxtI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnq8egSQVVSKGkyTKeZnpd167rSUA/photo.jpg",
         "content": "En casa quiero introducir a mi mujer y logicamente doy mi telefono movil porque ella no tiene y no me deja ya que el telefono ya esta registrado",
@@ -2486,6 +2736,7 @@
         "repliedAt": "2020-05-28 12:29:32"
     },
     {
+        "reviewId": "gp:AOqpTOGh9ulJGyfHjdus6lSyiICTNQOePtfAGq5u8XOVDuWJGqA2XQNKjleZCcnp3QzDnzyYSFQlQ_L7ZnW4hQ",
         "userName": "Hola Hola Hola",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiselLZJ-Gwyb3iKH-PfA953NDWulWdTAarbGaspg",
         "content": "Lamentable, as\u00ed nos va en Euskadi...",
@@ -2497,6 +2748,7 @@
         "repliedAt": "2020-03-29 18:44:44"
     },
     {
+        "reviewId": "gp:AOqpTOE05ck1kx51mHCKI0Lp3SE9Bbv91MXnC6UkKLA8a0XizGNcJKOiWujtnOFLiDXoUyYL1EAruJIBQiru3w",
         "userName": "Bego\u00f1a Vilasuso",
         "userImage": "https://lh3.googleusercontent.com/-Yv4pn2JNmj8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckEPEER5QUlZdZ8meznzf0ZnHzA-w/photo.jpg",
         "content": "No me funciona",
@@ -2508,6 +2760,7 @@
         "repliedAt": "2020-03-29 18:32:19"
     },
     {
+        "reviewId": "gp:AOqpTOFwDELnLd3QBUOLHy0xhF9exLa0Tti9q4j-8cwIbn4ZEX2QE_W94ZTMO8OMYvLrp1FlAU8t-pPDeKpWng",
         "userName": "Kepa Castro",
         "userImage": "https://lh3.googleusercontent.com/-jSW3u2vZCnA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmWpOGMNRSfmpYb4XqoEE84Sm80lw/photo.jpg",
         "content": "Muchas de las funcionalidades no funcionan. Veo los links a lis informes de jaularitza, hago click y no se abren los pdf. Los c\u00edrculos no se ven.",
@@ -2519,6 +2772,7 @@
         "repliedAt": "2020-06-05 09:41:26"
     },
     {
+        "reviewId": "gp:AOqpTOESwL2QbUfneYykrkAiVqODAOC2_rkjL5IuomvRjzVfFuZ4YTDBvvFQ87-SnAbLD3A1ghzgpxjBgF2-5A",
         "userName": "Aitor Iba\u00f1ez",
         "userImage": "https://lh3.googleusercontent.com/-CyPxPld0iDM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnWsOJp0QcNQJa0DpfkKja-TF8aEQ/photo.jpg",
         "content": "No se abre, da error",
@@ -2530,6 +2784,7 @@
         "repliedAt": "2020-06-05 09:39:15"
     },
     {
+        "reviewId": "gp:AOqpTOHPVDJS-kgyzZST8h7upsWtmGeo15nYcez1bYRKoZ8NP-c9bfChizbjBu9UOnwRSsTl3ScsHj3AfiYZxw",
         "userName": "G V",
         "userImage": "https://lh3.googleusercontent.com/-wLHNk0aQgl0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucklqL5vKvmQhAwAG32QHvddbJDCyQ/photo.jpg",
         "content": "Se deber\u00eda poder acceder a la agenda, y como local con el mismo n\u00famero de tel\u00e9fono agregar a gente de tu casa que no disponen de tel\u00e9fono multimedia, bien sean menores, discapacitados o gente mayor, que no saben o no pueden utilizar este tipo de app. La idea es buena y tiene que ir mejorando mucho para las casu\u00edsticas existentes.",
@@ -2541,6 +2796,7 @@
         "repliedAt": "2020-05-28 14:20:09"
     },
     {
+        "reviewId": "gp:AOqpTOHUE8jXkIc6OMJ-OxQLrxDBCQo_eGxYvypu5fzcQcMMry8r0nqjO7U2vY7sZR33gDKt9APXDk5HIaehRQ",
         "userName": "Luis Guinea",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gh3Giw3poXeWMFIgJuolyYIJyx2mA7fw17VYqNW",
         "content": "No encuentro opciones para aumentar los usuarios que te acompa\u00f1an",
@@ -2552,6 +2808,7 @@
         "repliedAt": "2020-06-05 09:38:43"
     },
     {
+        "reviewId": "gp:AOqpTOEk4ju5g_SLO1ggeasLcSg89gGUe-gHMZc_gx-xsAA63-q5o0FqwLKeWxA9v9hKlggsA8IZX0onXgqKUw",
         "userName": "Ra\u00fal Torrego",
         "userImage": "https://lh3.googleusercontent.com/-i3dWfgkH0Sw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnY3xEWKe006Flw6Gv0GxzxqAqI7A/photo.jpg",
         "content": "Error al enviar autodiagnostico. Muy poco intuitiva. A\u00f1ado tel\u00e9fonos y no salen en la lista \u00bfS\u00f3lo salen cuando la otra persona instala la aplicaci\u00f3n? Si es as\u00ed se deber\u00eda cambiar; que salga y se indique \"sin aplicaci\u00f3n\"",
@@ -2563,6 +2820,7 @@
         "repliedAt": "2020-06-05 08:54:57"
     },
     {
+        "reviewId": "gp:AOqpTOHcjwXfm95txGTX1FWzgQYEjp-rb4Xfeauqj1Ut6CDyLxZvyCyF-2dya8uLIBMxbTsa4yRebSWRfkbKfw",
         "userName": "Mikel",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhDR5UOq4IVD7i6UE8vJFNEPwqJMmW79UemkYL3oQ",
         "content": "No sirve para informar sobre la pandemia. No se para qu\u00e9 sirve... Pero datos te pide unos cuantos.",
@@ -2574,6 +2832,7 @@
         "repliedAt": "2020-05-28 14:22:30"
     },
     {
+        "reviewId": "gp:AOqpTOF4FBoxUdq9ViqQWewkuN5sYc7BLNVCdzXgmb-RQJYaLSEItsFFteqlwg-0ZPHJcQRE24b_hbxYQePi_Q",
         "userName": "mikel Roman",
         "userImage": "https://lh3.googleusercontent.com/-jXh46fv6VZc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclnJ6Iehg_Lo-fSxPL774vgZxyF_g/photo.jpg",
         "content": "Tiene que tener la opci\u00f3n de agregar contactos de tu agenda de contactos, sino no tiene gran utilidad",
@@ -2585,6 +2844,7 @@
         "repliedAt": "2020-05-28 14:23:41"
     },
     {
+        "reviewId": "gp:AOqpTOHACRdaoapaWZTtIB8XRpKPo6h3aOTCC7-J-kK6_PQw4jThemIeGmMg8WNbdo3Bfgn5TrhCi6Qoru2Obg",
         "userName": "Estibaliz De Val",
         "userImage": "https://lh3.googleusercontent.com/-e_VFzyzaxuA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclUUeI6NaYag6cxDy5MXnquXaSmhg/photo.jpg",
         "content": "No se puede consultar las preguntas frecuentes en recomendaciones, y tampoco el mapa interactivo.",
@@ -2596,6 +2856,7 @@
         "repliedAt": "2020-06-05 08:54:15"
     },
     {
+        "reviewId": "gp:AOqpTOF2hT7Xl3zNM5wDAuj0viJQ-ug6c3nQxkLc6XialIsp2LYo1XWX4D1bMi-Ylj1Wz7YFxl2uheGHnbVDVQ",
         "userName": "SONIA MUGA",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gg5xsBYsOzprnymNZBi81Gd4uQZP2bqJD--QKHj7w",
         "content": "A\u00fan no va muy fina. Supongo que se ir\u00e1 mejorando",
@@ -2607,6 +2868,7 @@
         "repliedAt": "2020-05-28 14:25:49"
     },
     {
+        "reviewId": "gp:AOqpTOFRjHVNQJVWxiU5Bguz8iHYCKpKSmqdgelUxRaTv9YI-0JbYclZ40LtbAwoZppXAEF0_ZgD2O4zD5D-Kw",
         "userName": "Susana Ruiz de Azua",
         "userImage": "https://lh3.googleusercontent.com/-QNRDvE_oFgc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm0WHuDQ1VN_JyiVN6kAceLBCZHMQ/photo.jpg",
         "content": "En mi m\u00f3vil Android no funciona, es decir, no se abre.",
@@ -2618,6 +2880,7 @@
         "repliedAt": "2020-06-05 08:53:39"
     },
     {
+        "reviewId": "gp:AOqpTOGYRLaRn34ITMB76LfINQmajUWSlCsZK8vZ6PLjhumV5yFqsgjZ-LTRHurXk3XVbUWM38sQ1QFM-GogLw",
         "userName": "jonjosu zarraga",
         "userImage": "https://lh3.googleusercontent.com/-pb8pTBmdKhs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckhlMh7mTzKOdQSr_8MyYPqq_73fQ/photo.jpg",
         "content": "Relajante. Impersonal.",
@@ -2629,8 +2892,9 @@
         "repliedAt": "2020-05-28 14:27:15"
     },
     {
+        "reviewId": "gp:AOqpTOHYAvbfZIvnwV2qx1ov_QsPuKsbF_Eun7FY0w7WH4VuydvV_ZaF4ITgs1iY3lQuV0nzSESCP6FutkWiJQ",
         "userName": "Luka",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjXSR__O772FqDnibOtBrhZJ-8pf6cmfq0qHWnTkg",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gghw-oJg0-R3hE0782OFUESlosAvz4rlIOFZH0qqQ",
         "content": "\u00a1\u00a1\u00a1La idea es fant\u00e1stica, tiene muchos puntos positivos!!! Entiendo que desarrollar una aplicaci\u00f3n tan grande en tan poco tiempo \u201cdesde casa\u201d es un trabajo abismal, bastante bien est\u00e1. Esperar\u00e9 a la siguiente actualizaci\u00f3n y mejoras. Muy agradecido por aportar tan r\u00e1pidamente una soluci\u00f3n a este problema que tenemos. En casa hemos hecho varios el autotest y nos hemos quedado m\u00e1s tranquilos. Gracias",
         "score": 5,
         "thumbsUpCount": 19,
@@ -2640,6 +2904,7 @@
         "repliedAt": "2020-05-28 14:27:54"
     },
     {
+        "reviewId": "gp:AOqpTOHGK-6PLuMsDzK7WZaXzLGJOmyDle9yN7to_CVkkXYbp_I2_yujnrEX8S5go_a7VDMEjfaC4NqDcTGheQ",
         "userName": "Miguel Mar\u00eda Ubillos Salaberria",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgCflsIxr8V1meMm7y14d7fEepqsUe_p6iBZkfR",
         "content": "Hoy comienzo. Todo va bien.",
@@ -2651,6 +2916,7 @@
         "repliedAt": "2020-05-28 14:28:05"
     },
     {
+        "reviewId": "gp:AOqpTOHZQJh9d8RExMUB9zNRvBpVW6CWhLVBCsxAUGk3nyCVbN77eDMhO4aqy5Gn_GMrnhQYmiv_66I5ij4TlA",
         "userName": "Arkaitz Bastida",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhcqtVKdpnIaldbM_lGPq8J_CCJN23LIUPYRCJGsAY",
         "content": "- Zirkuluak ez dira azaltzen. - Norbait gonbidatzen denean jasotzen den SMSak daukan esteka ez dabil. - Play Storean bilaketa eginez gero, ez da azaltzen. - Sintomak aurreko egunetan izan badituzu, ezin da informazioa sartu",
@@ -2662,6 +2928,7 @@
         "repliedAt": "2020-03-29 21:06:53"
     },
     {
+        "reviewId": "gp:AOqpTOHCpuq6OxsCEYmKytEVeWe6CEF-xU6rCIqsNk-jpHJahFzTdBFiYgSJqIYKmivcYum89Vb6kBoGmiW3AQ",
         "userName": "Aitor ega\u00f1a ruiz",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjPWptdrFdaqov-zUWulI7ESoqnVpigJhBBg-1X",
         "content": "En el Huawei no se abre la app",
@@ -2673,6 +2940,7 @@
         "repliedAt": "2020-03-29 20:09:14"
     },
     {
+        "reviewId": "gp:AOqpTOGeeZyv0z9mA74QIRtmfYRWoSJfLuGgRrngp1Y5l9CGyV474eOWmTsYJ7CavMh5BA8GkP69PanlnPNg2w",
         "userName": "Josu Josu",
         "userImage": "https://lh3.googleusercontent.com/-gvEs95fT77w/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnqNYzbDj966RkZi6FGfGc8le9zUg/photo.jpg",
         "content": "Buena idea, pero los comercios deber\u00edan tener un c\u00f3digo identificativo q tengan en la tienda visible para poder a\u00f1adirlo al c\u00edrculo. Estando en cuarentena la mayor\u00eda de contactos de riesgo es al comprar... Y no vas a andar pidiendo el tel\u00e9fono a todos los de Eroski o a mi panadera.",
@@ -2684,6 +2952,7 @@
         "repliedAt": "2020-03-29 19:21:38"
     },
     {
+        "reviewId": "gp:AOqpTOHozTU6T8vQs1HIc-X83J54E-4pxEj2bp1IpZ1Gz1IHy5uRXzgmTO0uGCSq_Q5gKtfdTFBQln7iKwEKWw",
         "userName": "Pablo Mart\u00ednez",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gi0sPS8LGuFPri4rD1RlLmExKa2gYpy6gAd6ji1FQ",
         "content": "Ya pod\u00e9is darle cera a la aplicaci\u00f3n. Primero que la aplicaci\u00f3n no hay manera de encontrarla por el nombre en el Google Play. Segundo, como la mayor\u00eda de comentarios, si tengo que mandar a todos mis contactos, por ejemplo compa\u00f1eros de trabajo, la llevamos clara. Para que sea efectivo hace falta que sea masivo.",
@@ -2695,6 +2964,7 @@
         "repliedAt": "2020-03-29 19:24:40"
     },
     {
+        "reviewId": "gp:AOqpTOElqZWEBnQDp0aYp-AxxKekO2OLfMyqxxY0G35X4ZQ1KEoHvzuxjMcFkY8N0cSQe_62MN6x6TrvO4NfNA",
         "userName": "edorta",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gi0xiW8pRXhU1c0SIrM1L9grfa9yBmIfUki3AcEHA",
         "content": "Penosa app, no hay quien la entienda, parece que la hayan sacado solo de cara a la galer\u00eda",
@@ -2706,6 +2976,7 @@
         "repliedAt": "2020-03-29 19:25:18"
     },
     {
+        "reviewId": "gp:AOqpTOHp1fF-fkcwzP5EkwrVYGZ3a_8so6gdF91py53yVoiChTF_J7aywpjvL1vd__dDS4rNxAWMad0JcnzUEQ",
         "userName": "susana barrios",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiNu9WGN345w7fIMpIiJ4DdH04FhsK8evpSAL3m9w",
         "content": "Estoy aislada hace 14 d\u00edas por prescripci\u00f3n m\u00e9dica (pero sin test... Cosa que no entiendo). Hoy me siento bastante peor que en d\u00edas anteriores. Introduzco los mismos de los que ya dispone Osakidetza y no reconoce mi perfil como persona aislada por Covid.",
@@ -2717,6 +2988,7 @@
         "repliedAt": "2020-03-29 19:25:33"
     },
     {
+        "reviewId": "gp:AOqpTOF10lHGT8oWgG_-GHfgfyMxRWYMLANIGKFVh0q7FkFG-dEuTAT-lLaT-JtiIBKc5Z6v4Ay04cL_zss0dQ",
         "userName": "Julius Ferdinandson Elmgrove",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gib8f8EE9fesF7jGjFpRqwpRAzY_lY1Nr-pIfMTkQ",
         "content": "Desarrollador: Ponla a funcionar en manos de alguien fuera de tu c\u00edrculo profesional y observa qu\u00e9 tal se desenvuelve con ella. Y que tampoco sea alguien que te vaya a elogiar gratuitamente. Cuando sea \u00fatil avisad, por favor. En serio.",
@@ -2728,6 +3000,7 @@
         "repliedAt": "2020-03-29 17:24:59"
     },
     {
+        "reviewId": "gp:AOqpTOEvtZvk-CspYFPeEnD0sEnoLCAt__Z53K5x6zFv4c2Qs3_Fxk2naroD06yF-dEC3wUTwzCiJ-LFJfEhdA",
         "userName": "Angel Goti",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgFN1EdeueBu2gBxjs_4l-6MO7gESV2xUjFd1LbUis",
         "content": "\u00bfC\u00f3mo puede una persona que tiene una anal\u00edtica positiva indicar su estado en la aplicaci\u00f3n?",
@@ -2739,6 +3012,7 @@
         "repliedAt": "2020-03-29 19:26:40"
     },
     {
+        "reviewId": "gp:AOqpTOG3h_ZdeebDs54u3RzaWNGh3YLLwp1I5MdnxYazhfpsNEg76f4EXMc2Pmw220I-mzYhqPWY21Xzu8HIYg",
         "userName": "Patxi RB",
         "userImage": "https://lh3.googleusercontent.com/-8cDAdqoOrCA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnysf2oLpnpRjtJs0U12zofcs4uvw/photo.jpg",
         "content": "Toma control de TODO. C\u00e1mara, almacenamiento... Entiendo que pida acceso al GPS pero todos los dem\u00e1s permisos \u00bfPara qu\u00e9?",
@@ -2750,6 +3024,7 @@
         "repliedAt": "2020-06-05 08:52:04"
     },
     {
+        "reviewId": "gp:AOqpTOHCun61aAcrFF43rnSQxY80STUd1WAbbwjXKv4YeDpL2inCgjNBhfXDqbNYkbmA0nZl3jutyJ1pErJzpg",
         "userName": "Laura Cortes",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gjjxb0NOg16Tp8zL_zFXfRzRa8jZAgNT-VcPE2JcA",
         "content": "La APP no es f\u00e1cil de buscar en Play Store, de hecho no aparece. Yo la pude descargar pq me enviaron un link. Pero sino no hay forma de encontrarla.",
@@ -2761,17 +3036,19 @@
         "repliedAt": "2020-03-29 17:30:55"
     },
     {
+        "reviewId": "gp:AOqpTOE0CTzolHLd7mvM1sRq5S0ineIZeySJd_mf2smmG5WvARooMHOGuPzPUFBaC-GfVqnc5tDQ7nw9A6gchw",
         "userName": "Ramon Mejias",
         "userImage": "https://lh3.googleusercontent.com/-t4inU9jkz7s/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckWHjZIzWyQb8H7wvBIeeDkLrxEmA/photo.jpg",
         "content": "Poco intuitiva. Estar\u00eda bien q la propia aplicaci\u00f3n fuese capaz de tener acceso a la lista de contactos para una mayor facilidad a la hora de enviar solicitudes. Mayor difusi\u00f3n a la propia sociedad para una descarga masiva. Si no, no va a tener utilidad. Seguir trabajando en ella, es una gran idea y arma contra los posibles contagios. \ud83d\udcaa",
         "score": 1,
-        "thumbsUpCount": 6,
+        "thumbsUpCount": 7,
         "reviewCreatedVersion": "1.0",
         "at": "2020-03-29 15:14:42",
         "replyContent": "Se va a incorporar en breve el acceso a la lista de contactos. Muchas gracias por la sugerencia.",
         "repliedAt": "2020-03-29 17:34:31"
     },
     {
+        "reviewId": "gp:AOqpTOGOaHLrrcTR1BCJGBR6IHEEfEO0Mqdw5ILVrHGwotFFpXE3W-pAXnvTV4w07GX1gVnwtDhUVI8Ppvn-nw",
         "userName": "ionuts_go",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GipRKZNE7opMbaF6l6g3_irTX5Dy6WG3eODCAIQtf4",
         "content": "Poner para poder invitar a todos los contactos , con acceso a la agenda y al mandar sms que tenga la url a la play store. El usuario que instale esta app esta dispuesto a que tenga acceso a sus contactos.",
@@ -2783,6 +3060,7 @@
         "repliedAt": "2020-03-29 17:36:24"
     },
     {
+        "reviewId": "gp:AOqpTOH5O8AvCmo80OQ8tqVwTDz1dGyIFzVghPXBF8FTt_CRh2CF48zYAz4A3sdbKlzIrp0Kh2GCzqMeXOgVBA",
         "userName": "Iban Cabero",
         "userImage": "https://lh3.googleusercontent.com/-0RP4NuRTJSg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckGIFzAC95fB2oYHN268NUXM7Nu8Q/photo.jpg",
         "content": "Si tengo que meter 400 contactos a mano....y esperar a que acepten la invitacion...y seguir como les/nos va....se pasa un mes, terminamos todos la cuarentena y agur.",
@@ -2794,6 +3072,7 @@
         "repliedAt": "2020-03-29 17:38:32"
     },
     {
+        "reviewId": "gp:AOqpTOE8qr7VyG2HhAw6p-zcwbU6PuFMSbMCGEhJwJeVPyjSQEckRrKVKvgW72tAoNjHktbN-S-UxAus_qPwiA",
         "userName": "Iker Abrisketa",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gg2lUtMgYu6CpfZwruoP17fMlO2jlym4kERny89VA",
         "content": "No vale absolutamente para nada. Ni si quiera me deja meter el C\u00f3digo. Menuda perdida de tiempo.",
@@ -2805,6 +3084,7 @@
         "repliedAt": "2020-03-29 17:39:42"
     },
     {
+        "reviewId": "gp:AOqpTOGbSWehWIsjhmDYh8CVqMlKNJgRalf7ypmohgvIa6uYgPYw2upXwB9MpYwyAINN8N7bkmNkhJ_jZufnjw",
         "userName": "Xabat Santamaria",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiNpBGXF2drLlkXE0mUQTx-Nasr1i58XTC5UJZm-w",
         "content": "Mesedez konpondu eta errezagoa egin.",
@@ -2816,6 +3096,7 @@
         "repliedAt": "2020-03-29 19:28:05"
     },
     {
+        "reviewId": "gp:AOqpTOFzDJV5FvTu8N0NOG7sx-ZZDmluoL-nqyuF88aPvk_H9DfxoPR-fPSdDORmwpKxbHiVQXMaro8fQBj-oQ",
         "userName": "Jose L\u00f3pez-Cozar",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhYIBx2UqQ7_-hyfdsUvvVjqRouDhiva0iJ2ObUzw",
         "content": "A ver si poco a poco va habiendo actualizaciones. De momento los c\u00edrculos no s\u00e9 si funcionan o hay algo que hago mal.",
@@ -2827,6 +3108,7 @@
         "repliedAt": "2020-03-29 17:42:56"
     },
     {
+        "reviewId": "gp:AOqpTOFrIL2_2rFoLLXFrMsSrQiSy-Vv0rKGCE6TsRp5PPbrJSRS8nz23rjz4UeqR2KWDt2T75lK01L0SBLgCQ",
         "userName": "marian sierra vallejo",
         "userImage": "https://lh3.googleusercontent.com/-PECRmvCSDgs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn3gUTmhAy1OEs17KyTZYDaN2QxGw/photo.jpg",
         "content": "me resulta imposible acceder...",
@@ -2838,6 +3120,7 @@
         "repliedAt": "2020-03-29 17:43:33"
     },
     {
+        "reviewId": "gp:AOqpTOFdI0LmHwZKhtLYubGte5Oo9IqOHhBVjuWeuBgCBsb051M1yUvppb9Q29LTqYP2wwlL4TRzYwSolOhaow",
         "userName": "Amaia DF",
         "userImage": "https://lh3.googleusercontent.com/-UdT_gJPuE2I/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn2dPczQsYJ-GDgSpK8uYaS_m16Cg/photo.jpg",
         "content": "No deja meter correo electr\u00f3nico",
@@ -2849,17 +3132,19 @@
         "repliedAt": "2020-03-29 17:43:53"
     },
     {
+        "reviewId": "gp:AOqpTOFqN0xnN2qp9Bd6asjePcBLahaqy7dEXyicmnP2yK_vMsv2QN_yAgx-fv3EEyH5I-j8n18RlmnsW9oqSA",
         "userName": "Denis Fernandez",
         "userImage": "https://lh3.googleusercontent.com/-Id-byp88ifk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclJy9f-0OKHj1-I4IYdS1V0LQfFmg/photo.jpg",
         "content": "La aplicaci\u00f3n no sirve para nada. Si tengo que meter de uno en uno los tel\u00e9fonos de mi gente cercana, seguro que me enterar\u00eda antes por cualquier medio si se han contagiado. S\u00f3lo por tener el n\u00famero de m\u00f3vil de alguien, se supone que tengo o podr\u00eda haber tenido contacto con esa persona. La aplicaci\u00f3n deber\u00eda pedir permiso para compartir mi estado (sano o contagiado) con todos mis contactos. Y aunque sea una medida intrusiva, es un mal menor para prevenir al resto de mis contactos.",
         "score": 1,
-        "thumbsUpCount": 33,
+        "thumbsUpCount": 34,
         "reviewCreatedVersion": "1.0",
         "at": "2020-03-29 13:12:14",
         "replyContent": "Se va a incorporar en breve el acceso a la lista de contactos. Muchas gracias por la sugerencia.",
         "repliedAt": "2020-03-29 17:44:32"
     },
     {
+        "reviewId": "gp:AOqpTOGLaXo3DM0NHCi4qfmPeuoU3--wBcF-gVQWfb23qHY-ocp7GscF-esXBkcjyYlXWy6dkPJ0AfXDRS22WQ",
         "userName": "Unai Carrasco",
         "userImage": "https://lh3.googleusercontent.com/-C2pS5kXBZaU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclfER8YNzjXkinGMq45q-jDBO58MQ/photo.jpg",
         "content": "Si no permit\u00eds el acceso de la app a los contactos es totalmente in\u00fatil. Seamos serios con este tema por favor.",
@@ -2871,6 +3156,7 @@
         "repliedAt": "2020-03-29 17:44:40"
     },
     {
+        "reviewId": "gp:AOqpTOHyKqkKH4EnB6upuIlvVxeR2jFPpFRsR-FgN4s5QI9mC6U2PnSO5dzezCx_9KfiC0r0LAXzK_a0wZsv2w",
         "userName": "cristhian garcia pinto",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgQ-VoDS6apw7eKlBVYaUTC3cJiucMiC61NHcaS8Q",
         "content": "mal , no deja ingresar . se detiene !",
@@ -2882,6 +3168,7 @@
         "repliedAt": "2020-03-29 17:45:36"
     },
     {
+        "reviewId": "gp:AOqpTOFXnKElYF1tvc_g5DcYNWcOYuLPsV3oIe85z7i_qxq863zTK8yvy7-dISQ9Kk-76Kjd_ASk1YfakiVQ2A",
         "userName": "Rosa Garcia",
         "userImage": "https://lh3.googleusercontent.com/--V2AeZf5rZQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnSuyJBqr9S5zC4jMy7R42I7Hinkg/photo.jpg",
         "content": "Simplemente, no funciona.",
@@ -2893,6 +3180,7 @@
         "repliedAt": "2020-03-29 17:46:06"
     },
     {
+        "reviewId": "gp:AOqpTOEWd5xF7vW0tUNz6Se96NdQMOh7VqZfF03lojSgwlZQVKtm9SV1CKjGdIFhrOr_spuCRDWL9UV7XIIJ5g",
         "userName": "Leire Pay\u00e1s",
         "userImage": "https://lh3.googleusercontent.com/-IwjPQm34748/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmZjmI3NJSIsXKyZFoE5XQLhA5NTQ/photo.jpg",
         "content": "No se puede acceder a la agenda y por otro lado, no se puede instalar en todos los modelos de m\u00f3vil (Xiaomi Redmi note 2, por ejemplo). Como sugerencia, deber\u00eda poder meterse como contacto para hacer su seguimiento a gente que no tenga m\u00f3vil (hijos, ancianos...)",
@@ -2904,6 +3192,7 @@
         "repliedAt": "2020-03-29 17:46:30"
     },
     {
+        "reviewId": "gp:AOqpTOGfE4QAYzqpjx3b_kQV3mfyw_BPb6_RvEXzbACTQBOVXbebs68Mnt8Bhb343mkWg5NVX6QPSS3Kpi3O_g",
         "userName": "V\u00edctor Gorrotxategi Garc\u00eda",
         "userImage": "https://lh3.googleusercontent.com/-AeJHEgbdNNk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck20WQjko6b4LkdnRAdPKM5vxFwxQ/photo.jpg",
         "content": "No se puede descargar desde Google Play. Sale la app de Madrid y Catalu\u00f1a pero no la de Euskadi. Hay que intentarlo desde el enlace de la web del GV. A\u00fan as\u00ed NO se descarga pues se 'detiene'. Para terminales Xiaomi NO funciona, \u00bfno es android?. Una pena! Pues estamos muy involucrados.",
@@ -2915,6 +3204,7 @@
         "repliedAt": "2020-03-29 17:47:41"
     },
     {
+        "reviewId": "gp:AOqpTOFelFa3FDIgeYeyIYft7RykH-ISUmTclEY_sSvmMctO8hKlWWUsc-trKxOiPX5P7YmwaTvjHU7_b0oQGQ",
         "userName": "victor soriano",
         "userImage": "https://lh3.googleusercontent.com/-GgYhNjJjHTs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclvVBF5jxkEbLtFxeNQ1FEc7eh8CA/photo.jpg",
         "content": "Cumple su funci\u00f3n, deber\u00eda usarla toda la. Poblaci\u00f3n para que sea efectiva",
@@ -2926,6 +3216,7 @@
         "repliedAt": "2020-03-29 17:48:01"
     },
     {
+        "reviewId": "gp:AOqpTOEjaa0WEoUSO_IShs8YqL0AmrWk6SeRc2Wh_1LMco1LfhWUynquKwy8oJXAxmLiaIu5h67S5qDhit421A",
         "userName": "Xabier Eizagirre",
         "userImage": "https://lh3.googleusercontent.com/-iUS0Hk1Ye_Q/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn29nDaOemKM6qSEhCc5LnrPsNOuw/photo.jpg",
         "content": "1.- No se puede encontrar en la store poniendo el nombre. Ni siquiera poniendo osakidetza. 2.- Si no se puede a\u00f1adir por contactos, no lo va a usar nadie.",
@@ -2937,6 +3228,7 @@
         "repliedAt": "2020-03-29 17:54:41"
     },
     {
+        "reviewId": "gp:AOqpTOEm1bpqWXW1ZgW-1PwoqIzRoLI2uWe9SZWxhZEY3ovc0k-TLLgTMVZwP5xpAdL2M_DQAUqwkiVd_aoNEQ",
         "userName": "Saretxu",
         "userImage": "https://lh3.googleusercontent.com/-lhr3MjpUuFY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckYxaojOXUNGPbtQraz7d5Tro85NQ/photo.jpg",
         "content": "No sirve para nada, todas las pantallas en blanco. 0 utilidad",
@@ -2948,17 +3240,19 @@
         "repliedAt": "2020-03-29 17:55:48"
     },
     {
+        "reviewId": "gp:AOqpTOGIKou6nDGoyD8eBIxWmPMCpM1I9hHJ7sjl9i9jR9RRlcJhPLtGD74Rm_vZXf3ck_7_jt5DTnG_Y2m6tA",
         "userName": "Alejandro Hern\u00e1ndez",
         "userImage": "https://lh3.googleusercontent.com/-_P5x2BYoxsg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclG-YNRoQbThBhJDXtkIpjb-kgUhA/photo.jpg",
         "content": "A ver como explico a mis padres de 74 y 80 a\u00f1os , a distancia, c\u00f3mo configuro la app. Hay poco tiempo y una app decente cuesta tiempo y dinero pero si no es capaz de configurarla f\u00e1cilmente todo el mundo tendr\u00e9is una base de datos sesgada. Mala calidad de informaci\u00f3n, malas decisiones. Resultado, in\u00fatil. Buena iniciativa a futuro. Tomarla como base para la pr\u00f3xima pandemia.",
         "score": 1,
-        "thumbsUpCount": 20,
+        "thumbsUpCount": 21,
         "reviewCreatedVersion": "1.0",
         "at": "2020-03-29 09:47:12",
         "replyContent": "Muchas gracias por la sugerencia, la vamos a revisar.",
         "repliedAt": "2020-03-29 17:57:31"
     },
     {
+        "reviewId": "gp:AOqpTOExthT1ymf9MC_hW1wedLKw7QlanE4nGzKyw_I-Lp5wEFdRrEE8ZL_lXnHpXBMuHKxV04h9KOx6sYuf7w",
         "userName": ".**.",
         "userImage": "https://lh3.googleusercontent.com/-H_QsVuL0w74/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn6oFhy8goBxWxk72ONRz0N-PFW3g/photo.jpg",
         "content": "Reci\u00e9n instalada y pensando en desinstalarla. No le veo funcionalidad si no aporta datos interesantes. Dec\u00edan que se podr\u00eda ver si hab\u00eda gente contagiada en tu \u00e1rea para as\u00ed evitar y yo no veo este dato por ning\u00fan lado. Bastante escasita",
@@ -2970,17 +3264,19 @@
         "repliedAt": "2020-03-29 17:59:21"
     },
     {
+        "reviewId": "gp:AOqpTOH08FcLh5VQv-xQLb0RDiO0zc7xcoeXDXHBUOcaeevUGh3p35yA6ChV5CxvNG40JQ9a0LjEt0CPZNoEXA",
         "userName": "Kos tan",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhQMz5WpO3xLDAQ9uOQqyKQfc0XdEY35XVmuscYkw",
         "content": "No deja hacer circulos. Los telefonos hay que meter a a mano, y luego nl se ve la red hecha. Como siempre la casa por la ventana, haceis una propaganda del copon de la APP y luego todo a medias o no funciona. PnV stile.. Dinero de los contribuyentes a la basura. La APP nl es intuitiva y hay muchas \u00f1ersinas mayores que no saben como se usa. La APP decis que esta en android market y no lo esta para su descarga. Resumiendo, un desastre de aplicaci\u00f3n .",
         "score": 1,
-        "thumbsUpCount": 23,
+        "thumbsUpCount": 24,
         "reviewCreatedVersion": "1.0",
         "at": "2020-03-29 08:57:13",
         "replyContent": "Se va a incorporar en breve el acceso a la lista de contactos, y  para buscar en el play store hay que indicar covid19eus Muchas gracias por las sugerencias.",
         "repliedAt": "2020-03-29 18:01:46"
     },
     {
+        "reviewId": "gp:AOqpTOEwRLPHCP5809YTa1Mrf1Y0m-qsHQczPoygVGW4UCkFiYFKCN3XPQaF1UMdxNldWcb7pQXEpLw2j34kaQ",
         "userName": "Manuel Sanchez",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhCBlofozi2RPI5lZubZvH0JV8ifiZzaVbj-LN9",
         "content": "No me ha funcionado. Se detiene al intentar arrancar",
@@ -2992,6 +3288,7 @@
         "repliedAt": "2020-03-29 18:02:24"
     },
     {
+        "reviewId": "gp:AOqpTOFTwa5DwnX22aNx_eov2VGKC8rWETKL-RGfRZmBBTbpk3LmxIb6V5bSpuJnGnmEcquQL8Y4JRjcyhl_2Q",
         "userName": "la oliva",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhDZ3zntgWT71tAK3vc2nBpwh8j7gRgjCOn-JP1",
         "content": "No me funciona ning\u00fan enlace de las recomendaciones.",
@@ -3003,6 +3300,7 @@
         "repliedAt": "2020-03-29 18:04:41"
     },
     {
+        "reviewId": "gp:AOqpTOFwn-Yo3gHAPW-Ny3s4AMSfWlWCfwPn0muvaCg4wB9WhYpw0JsiIlSkoBT0lxuUu0YrCqwy3piJOoSMCQ",
         "userName": "Sergio",
         "userImage": "https://lh3.googleusercontent.com/-4BGnkHVWyvk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck-116zO_i5eoqqaTFTfRXMdSE5wQ/photo.jpg",
         "content": "Tiene mucho potencial, puede resultar muy \u00fatil. No puntu\u00f3 5 estrellas porque no me funciona lo de subir foto de perfil ni con la c\u00e1mara ni desde galer\u00eda. Tambi\u00e9n me gustar\u00eda poder cambiar el nick, ya que cuando te creas el perfil no tienes mucha idea de para qu\u00e9 va a usarse y luego no puedes cambiarlo.",
@@ -3014,17 +3312,19 @@
         "repliedAt": "2020-03-29 18:05:23"
     },
     {
+        "reviewId": "gp:AOqpTOEKECiEk_TdO10qm6AHBIvA2GHE2LEGyT6YaQz6bcmKyT9SRaKOicEB8c6dOdqhRwvaKSHk6jJSTAKlKw",
         "userName": "Eugenio P\u00e9rez Arieta-Araunabe\u00f1a",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgIPGZ2s0Mu9_ns2eWTbE37sipQgmnwH2d6faelEA",
         "content": "Desarrollador: afirm\u00e1is que no quer\u00e9is ser demasiado intrusivos con la carga autom\u00e1tica de los contactos, pero el virus s\u00ed es intrusivo. Si no lo implement\u00e1is, probablemente la App no tenga \u00e9xito, ya que el usuario tipo no va a cargar manualmente sus contactos. Por lo dem\u00e1s, la idea es muy buena y os puede proporcionar datos muy interesantes si consegu\u00eds hacer funcionar socialmente la App (para lo cual necesitar\u00e9is lo que hemos comentado sobre los contactos). Muchas gracias",
         "score": 2,
-        "thumbsUpCount": 43,
+        "thumbsUpCount": 44,
         "reviewCreatedVersion": "1.0",
         "at": "2020-03-29 00:29:03",
         "replyContent": "Se va a incorporar en breve el acceso a la lista de contactos,. Muchas gracias por las sugerencias.",
         "repliedAt": "2020-03-29 18:06:14"
     },
     {
+        "reviewId": "gp:AOqpTOFv7d67CjikcfxZ7H5__r4GU1sMsyUW7uho8xy-ndFvlftMjAYe-Z1WKD64SHJNdGSxXxWt2eWO9AD-Bg",
         "userName": "Maritza Bernal Ortega",
         "userImage": "https://lh3.googleusercontent.com/-IXTl558weao/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckVbHecDRcdrkgYMMAdpqbcLu4LQw/photo.jpg",
         "content": "Muy mala uno mete todo SMS seguir rellenado hay se queda\ud83d\ude14",
@@ -3036,6 +3336,7 @@
         "repliedAt": "2020-03-29 18:06:30"
     },
     {
+        "reviewId": "gp:AOqpTOFAqfuCZOinTrlNQ0Bae9k86pO6mG5j6DuMHLuEnuT-6Dl6dTETM-8K3NkEOLOd4tbnMWbACmzGJzi0mg",
         "userName": "Virginia Mart\u00ednez Montes",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gj-Xfr68LekWTz3x7HjZbJFp-UH0_5-U3kOkfvTUA",
         "content": "Estar\u00eda bien si tuviera acceso a agenda. Hoy en d\u00eda nadie se sabe los n\u00fameros y es tedioso ir mirando n\u00famero a n\u00famero y m\u00e1s a\u00fan para la gente mayor o gente que se encuentre mal.",
@@ -3047,6 +3348,7 @@
         "repliedAt": "2020-03-29 18:06:59"
     },
     {
+        "reviewId": "gp:AOqpTOG_72vtpLtEnDIxjuH9WbK-gvNS161Qfk528OQufRsq1ojLxVcqgnoLVwecuxuNSZYfcQK6WmAlAhdaMQ",
         "userName": "Asier Morales",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhrNtdcEIKHpoYpdW8uldher6EwmTFiXY3mZljJyA",
         "content": "Deber\u00eda permitir a\u00f1adir m\u00e1s datos en el perfil, poder cambiar nombre, lugar de trabajo, etc... Invitaciones via wachapp... \u00c1nimo a todos, la idea es buena!!",
@@ -3058,6 +3360,7 @@
         "repliedAt": "2020-03-29 18:07:21"
     },
     {
+        "reviewId": "gp:AOqpTOFNDo0YqMPH1P8L2Py4MVUfwSfOME_rtHbOvX8GmYuTHcTBMXCUNi1WH6VYekwKBiY-NN2ufEFT-jnO8g",
         "userName": "1 2",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gh0gSsFMHR-XEZEiZTP8sTM8-YII-dEqW0TuHAjLH8",
         "content": "Mala, no, lo siguiente. Parece que la ha hecho alguien que no ha manejado un m\u00f3vil en la vida. Si hay que a\u00f1adir contactos en las pesta\u00f1as, lo l\u00f3gico es poner un icono para a\u00f1adirlos, el signo + de toda la vida, claro y visual!!!!",
@@ -3069,6 +3372,7 @@
         "repliedAt": "2020-03-29 18:07:52"
     },
     {
+        "reviewId": "gp:AOqpTOG2Io1kzaYNTx11CSPMq-404C0hJw-nBFvf1n4RW5OsuPRyoiY3Fpm3g5VKBv37lDd44AlyOuLO_hYdVg",
         "userName": "Virginia Arechavala",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjU8Wq6Leqmp1GsEcFoNVZlibEHKMfVxWSKROfhFQ",
         "content": "Buena idea pero por el momento es muy poco intuitiva. No permite indicar, por ejemplo, si estas en contacto frecuente con personas sin m\u00f3vil, como ni\u00f1os u otros dependientes o si llevas ya mucho tiempo de cuarentena. A\u00f1adir la pregunta de ultima vez que has salido de casa podr\u00eda ser muy \u00fatil.",
@@ -3080,6 +3384,7 @@
         "repliedAt": "2020-03-29 18:09:20"
     },
     {
+        "reviewId": "gp:AOqpTOGw5DjVFRAY_jsr6165nLNWf04IR9t-P4i-pIZVfXebtSTjEiEu6Esybx5cujWKRj3H1JyGEByXOgYEuQ",
         "userName": "Alberto Mutiloa Izaguirre",
         "userImage": "https://lh3.googleusercontent.com/-ZCQOtDMjn3g/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckOBeWM5-GmyzF_1vhMdy5lk2q-9A/photo.jpg",
         "content": "No se lo que hecho, no consigo entender si funciona o c\u00f3mo lo hace.",
@@ -3091,6 +3396,7 @@
         "repliedAt": "2020-03-29 18:10:04"
     },
     {
+        "reviewId": "gp:AOqpTOGW56WVfwlAy_RnKzUeKQd2yjjcxtmhiHBexpfVxdDKHSoFmkmay3PW2O8Bmvc4MgOsfGIL-PW-jjx5tQ",
         "userName": "Alvaro L\u00f3pez Saiz",
         "userImage": "https://lh3.googleusercontent.com/-nrDF3eqcid4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmG0yvt8fNQa90tyT80wiTvkTyS9A/photo.jpg",
         "content": "IMPORTANTE: Soy Ingeniero y estudi\u00e9 hace a\u00f1os las redes neuronales. Me parece que se podr\u00eda encontrar un patr\u00f3n en el sonido de la tos de los contagiados por coronavirus. Y, tal vez, con inteligencia artificial y reconocimiento de sonidos podr\u00edan hacer algo y ahorrar los test y dedicarlos s\u00f3lo para los ancianos. \u00bfPodr\u00edais difundirlo o buscar a los t\u00e9cnicos que pudieran programarlo? Yo he presentado algunos sintomas del COVID-19 y he notado que los infectados leves tienen una tos espec\u00edfica.",
@@ -3102,6 +3408,7 @@
         "repliedAt": "2020-03-29 18:11:01"
     },
     {
+        "reviewId": "gp:AOqpTOEd1rByHwjnnFJtgE5RXT-PTjXk8cjIhbymfnyjIkQ4fkjgjCO-nJUl0ceupWv_8JGLaHFFLtp5vNX9Bg",
         "userName": "Leire Junguitu",
         "userImage": "https://lh3.googleusercontent.com/-e1TP1jgx5yY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn-nuaWXdQny_YGFdS7hQsyVikYwQ/photo.jpg",
         "content": "Poco intuitiva Hay que meter los contactos a mano. La idea es muy buena, pero o la mejorais r\u00e1pido y se gana usabilidad o la gente va a pasar de ella y se perder\u00e1 la oportunidad que puede aportar que mucha gente la use",
@@ -3113,17 +3420,19 @@
         "repliedAt": "2020-03-29 18:15:39"
     },
     {
+        "reviewId": "gp:AOqpTOEvT2S2tbEUPCWDseBSNYEngqjjhBbdJWPEbd6vlqetL_nSIwB8tB9MBK6_N3MVI8VkNIgmpVVyEG1hRg",
         "userName": "Koldo Fernandez Verdute",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gj0rgFgtI10n8FtSKPCRRdJiUChLy_pCANzQVhVLg",
         "content": "Falta mucho para ser \u00fatil, ya he invitado a amigos y familiares que aun a\u00f1adiendo manualmente no salen, el acceso a la agenda falta para + intuitivo para personas mayores que ir a buscar numeros Es una buena herramienta si se usa la geolocalizaci\u00f3n para mostrar focos posibles, ejemplo si una ambulancia recoge a un posible caso se puede marcar con un punto amarillo obvio sin dar datos de qui\u00e9n se recoge, pero si para saber que puede tener carga viral el aire en esa zona por 2 horas y mas cosas.",
         "score": 2,
-        "thumbsUpCount": 9,
+        "thumbsUpCount": 10,
         "reviewCreatedVersion": "1.0",
         "at": "2020-03-28 22:26:49",
         "replyContent": "Se va a incorporar en breve el acceso a la lista de contactos, revisaremos los otros temas indicados.Muchas gracias por las sugerencia.",
         "repliedAt": "2020-03-29 18:16:46"
     },
     {
+        "reviewId": "gp:AOqpTOHUwlMmSsJAoiFeujWbA8spFUdkUaNq9LgcgEHWfKe1AQH7zeKZoCEKHinb6vInWt5r7IJfQi4ztbu01Q",
         "userName": "Marta Ampudia de la Cal",
         "userImage": "https://lh3.googleusercontent.com/-QE6Wu3BDQ-Y/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclI3S6v75hHhyiI6J12myyV-88JHg/photo.jpg",
         "content": "Ya he podido registrarme. Faltan muchas cosas en esta app...",
@@ -3135,6 +3444,7 @@
         "repliedAt": "2020-03-29 18:18:03"
     },
     {
+        "reviewId": "gp:AOqpTOGiAw4iuJntfGubafbeT1TokL5bTgLJjUG-wnoaTlJRVPQvJc3T-KhwZT3YR-oIlUBXUXegG2jwDZ-GCg",
         "userName": "Itahisa Nieves",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgwWPr_-T1ETtueRRT0wRi0LTodYLTCQL39GYZRlA",
         "content": "A las personas que tienen iphone no les aparece la app cuando la buscan, tienen alg\u00fan enlace?",
@@ -3146,6 +3456,7 @@
         "repliedAt": "2020-03-29 20:22:41"
     },
     {
+        "reviewId": "gp:AOqpTOH7oL-GWSoUUnjWmkC4NpMfOaMD7hgKpJtwO9U8yGRzkXdwB86W-9jpeIXoJXfanE6_XNTAX9HCr8qKMA",
         "userName": "Kike Garc\u00eda",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Giw_x5BO4ariQjxpNDi6S2H0zd238Sxge4HW9aGnDw",
         "content": "No funciona, no me reconoce ni la clave por mensaje",
@@ -3157,6 +3468,7 @@
         "repliedAt": "2020-03-29 18:19:58"
     },
     {
+        "reviewId": "gp:AOqpTOG9_RPDmvjiTD36nNe1uIdhwuKb7jT6sqosOZeNGIJAzgbH0MDQFxZLoFYWKp-N6xKDSEA3T_8bPb3nTA",
         "userName": "Fabi Llama",
         "userImage": "https://lh3.googleusercontent.com/-a_w3NifaKiQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclytwWzYgII7_XGprebzM_ErfHmhQ/photo.jpg",
         "content": "Fenomenal",
@@ -3168,6 +3480,7 @@
         "repliedAt": "2020-03-29 18:20:20"
     },
     {
+        "reviewId": "gp:AOqpTOFxBtGuraMJI--_3FSgSPeXvPpcOxitNiE3OUxzlJluoB9gc0sKhvaehuHgwI9PH7n5Oy-aOTYxY9wy-A",
         "userName": "Nekane Madariaga Uribe",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjR0yfBvgtIdDWfnqhstej5sGjT3HhJovLGrImgGA",
         "content": "Que haya que teclear el n\u00famero de tel\u00e9fono para a\u00f1adir personas lo hace muy poco pr\u00e1ctico. Si pudiera buscar en la agenda ser\u00eda m\u00e1s r\u00e1pido y eficaz. Igual es que no lo se hacer.",
@@ -3179,6 +3492,7 @@
         "repliedAt": "2020-03-29 18:21:17"
     },
     {
+        "reviewId": "gp:AOqpTOHlDYfvu8Yim5DnY6sYPYswxyRpx63Shh0M3LFBjzs1J5a_960lbcnF_OhI0Rf3aWNVUSokLlRyRhgsKQ",
         "userName": "I\u00f1igo Urberuaga",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgWs1Mksv7jy2fBEvKwKDI3IfXGLsx1NYyqwGH25g",
         "content": "No funciona",
@@ -3190,6 +3504,7 @@
         "repliedAt": "2020-03-29 18:21:55"
     },
     {
+        "reviewId": "gp:AOqpTOFRAH_NE92ot6Vca_IPiCk78BwjkMM4a9Egt7k6n8W8WERBIAdAXS8vneRVxfsDADvr10Gq-_X8ycc6UQ",
         "userName": "Aitor Ibernia",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhpKYgSWelGR54wZDqjJeEU-YRjG6y3PYiuay-5fg",
         "content": "Estaria bien tener la posibilidad de registrar las personas que ya se encuentren en cuarentena tras dejar de tener sintomas indicando la fecha de inicio de la misma.",
@@ -3201,6 +3516,7 @@
         "repliedAt": "2020-03-29 18:22:52"
     },
     {
+        "reviewId": "gp:AOqpTOHnBxfOMSIopUX2msCXcIv5BB9E2yGP_IOCsMvJd6a0yLor7ghlCA6yD4loxbQrulbQEi8jCKlJuDcW0Q",
         "userName": "Naroa Gonz\u00e1lez",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gh1VNW8tGOXELTsY2tRyDgSMJ4ixVi9HjGI4vPNIQ",
         "content": "Los contactos tienes que meterlos a mano, es decir, el n\u00famero de tel\u00e9fono uno por uno. Si tuviera la opci\u00f3n de elegir desde la agenda del m\u00f3vil ser\u00eda mucho m\u00e1s pr\u00e1ctico.",
@@ -3212,6 +3528,7 @@
         "repliedAt": "2020-03-29 18:26:45"
     },
     {
+        "reviewId": "gp:AOqpTOF4PD8_0J4AJAxACC21VfSxDcVmZvZR-FvOzfSROJ7qhQcGMI-cu6AqiXMkIzrDgNhsmZB7aIA8iyUuCA",
         "userName": "Josu Cabanellas",
         "userImage": "https://lh3.googleusercontent.com/-w5wUGRpQkMQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckAFnSyFr2UECRDHGfgPyU4BpbQTQ/photo.jpg",
         "content": "Indica faltan datos todo el tiempo. Hemos puesto c\u00f3digo de forma manual varias veces y nada. Lo damos por imposible.",
@@ -3223,6 +3540,7 @@
         "repliedAt": "2020-03-29 18:27:08"
     },
     {
+        "reviewId": "gp:AOqpTOFb62abfEsccnlc7QATFaUaoU8y1pmkwlGaZwEFEZaDrFOsLKt4sbOHp1jm6PwbztWRXNnSm2SUgwZKOQ",
         "userName": "Iban",
         "userImage": "https://lh3.googleusercontent.com/-1X0CweY14P4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck506XVyZaCc5-f62j5u71kHzaYyg/photo.jpg",
         "content": "No me deja completar el registro. Dice todo el rato que faltan datos y he rellenado todos los campos.",
@@ -3234,7 +3552,8 @@
         "repliedAt": "2020-03-29 18:27:22"
     },
     {
-        "userName": "amaya zanapa",
+        "reviewId": "gp:AOqpTOEoQXztvVgiFrcmEJHNROQiWNwlsO7JsIOeCE5s-iQIPM-CzFh-IWSnHY2rtwDR50YuJcT2UAvCZVH1mw",
+        "userName": "amayita 81",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiS3ARvImdXf1D8za5k1t4-t0V70c8ihdU8QlkgCg",
         "content": "De momento no funciona correctamente. Supongo que van a ir mejorandola pero puede ser una herramienta excelente. Deber\u00eda haber una opci\u00f3n para se\u00f1alar si se es persona de riesgo por contacto continuo con enfermos por ejemplo,trabajadores que est\u00e1n cada d\u00eda en contacto con otras personas, etc.",
         "score": 1,
@@ -3245,6 +3564,7 @@
         "repliedAt": "2020-03-29 18:27:54"
     },
     {
+        "reviewId": "gp:AOqpTOHWiqEoGtugvfF2Zz8GkmO8tjTRP85KtseDHu0azO1JeQ1uHpkRreywCq9mXUxhNsJxKRnXZ5KlZE6siw",
         "userName": "Ulma Lama",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gg-u6IprgWvruR-gyOotGtWvnC6GC91qYBSqAy2Bw",
         "content": "No funciona No deja crear los c\u00edrculos y no me guarda el usuario creado siempre me hace inscripci\u00f3n de nuevo",
@@ -3256,6 +3576,7 @@
         "repliedAt": "2020-03-29 18:31:50"
     },
     {
+        "reviewId": "gp:AOqpTOFI6PyjWxcuXym42I2UqS-x_TrTK-bLLOhX8D8xtPckDPyJmtRiatm5YBt1jsx9jAfMgKIDinHW_Se1aA",
         "userName": "Gaizka Iglesias Ruiz",
         "userImage": "https://lh3.googleusercontent.com/-mTDLRcPaaRM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclQmex1I1mkS7ojXeAMJM2zCVBDMA/photo.jpg",
         "content": "Al a\u00f1adir el c\u00f3digo me da error",
@@ -3267,6 +3588,7 @@
         "repliedAt": "2020-03-29 18:32:25"
     },
     {
+        "reviewId": "gp:AOqpTOFRhk8qAMC3ToIS3_Xdcn-mVpS_-mAdgIqX6eWae0JGbb4tupDy3orE8WlYVzlxupv4-EYbleQnL_RXaw",
         "userName": "I\u00f1ako Fuentes",
         "userImage": "https://lh3.googleusercontent.com/-p2tXGPZGWnI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclZE271zegdJEt1eHfYRA3cyKtJ-g/photo.jpg",
         "content": "Muy \u00fatil y al ser versi\u00f3n inicial, dada la urgencia en ponerla en marcha, habr\u00e1 que esperar por actualizaciones m\u00e1s completas y \u00fatiles en breve.",
@@ -3278,6 +3600,7 @@
         "repliedAt": "2020-03-29 18:32:39"
     },
     {
+        "reviewId": "gp:AOqpTOFUyp56_lSjoIeMgYDSeBcBDmXznABtTwPf7m6bsqPyk_wAR1P5yaP9m2aJmhrcR73Kmdokv_ALWLAA6g",
         "userName": "JAVIER MART\u00cdN GONZALEZ",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjXvPfPSaYaQr4WhyQhESB2_Y5oR-prlFKnlaUg",
         "content": "Imposible entrar en la aplicacion. Llevo 5 intentos y me pone todo el rato que el codigo recibido por sms es incorrecto",
@@ -3289,6 +3612,7 @@
         "repliedAt": "2020-03-29 18:33:51"
     },
     {
+        "reviewId": "gp:AOqpTOFUBTQL3HAxfCTBenlmVJcgBsVN8YmAG0wcXzj56sKWDsNOMfoM0gj8xCerKGjalWlHtN8n5LA5FAQuxg",
         "userName": "Julian Andres Parrado",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjaWqFW5dgIt0dh17Eiocthjq_tfLjWL3AG2E_O0Q",
         "content": "Imposible de instalar da de continuo faltan datos",
@@ -3300,6 +3624,7 @@
         "repliedAt": "2020-03-29 18:34:15"
     },
     {
+        "reviewId": "gp:AOqpTOGmyjmLI0KahynaXkDAdIrgBEVh8bNriDv8ikIOmDHt6Ff87VUW5WaSafo1R1IrQcT3GalrmbFrNTnOyg",
         "userName": "Eneko Camarero",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiVoEVVJ9TjyHIeV8C8T177cfNiy80HD7hz5GLUzQ",
         "content": "Una aplicaci\u00f3n in\u00fatil si no implementan el acceso a los contactos para agregarlos r\u00e1pidamente al estilo aplicaci\u00f3n de mensajer\u00eda. Para que la difusi\u00f3n sea lo mayor y m\u00e1s r\u00e1pida posible. En este momento hay que ir agregando a mano cada n\u00famero de tel\u00e9fono de nuestra agenda, de la otra forma se ver\u00eda autom\u00e1ticamente quien lo tiene de mis contactos, por lo que se hace mucho m\u00e1s amigable.",
@@ -3311,6 +3636,7 @@
         "repliedAt": "2020-03-29 18:34:51"
     },
     {
+        "reviewId": "gp:AOqpTOHmX5nWqQ_WhUKkzQpxJhqYDFRx_GpamwQQcDFMlzDJT-gwg2ruQ7W5kwNIGICRg2J9KxSGQUheQbd3OQ",
         "userName": "Gaizka V",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgUVetri9UisOIOi86Ak4sIIMLWafC_KX3m1QeZP2s",
         "content": "El enlace a ver condiciones de uso u privacidad no funciona. Eskerrik asko!!",
@@ -3322,6 +3648,7 @@
         "repliedAt": "2020-03-29 18:35:33"
     },
     {
+        "reviewId": "gp:AOqpTOEM8Y3IzLzgjc8U95-QEm_YrlFFblO5CJcAaI7_Bs-q_AItbtO1nbKx3nEs0ka5-eqdHEid1gXxszBsTg",
         "userName": "Jos\u00e9 Ramon Luque Lara",
         "userImage": "https://lh3.googleusercontent.com/-BhpcJWR9qBk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnVNAdH5Kcj_-jBmqxsuZ_Ikj6tGg/photo.jpg",
         "content": "El c\u00f3digo SMS no lo reconoce",
@@ -3333,6 +3660,7 @@
         "repliedAt": "2020-03-29 18:35:58"
     },
     {
+        "reviewId": "gp:AOqpTOEVk9ZPY4hdTqfncHZuhCnLbpT_uVEPcnZYZPHDPFfltuDQgY1FadSXxaf1J4LPMREEAnt5SiOdjJ8qFA",
         "userName": "Fernando ibarra arranz",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgyNubLyOIeUL0RIUZAro4ItOKHVTrQAlML3VQETKg",
         "content": "No me deja abrila con el codigo del SMS enviado al m\u00f3vil y rellenando los datos opcionales. Me dice: Falta un dato. No se a q se refiere (?)",
@@ -3344,6 +3672,7 @@
         "repliedAt": "2020-03-29 18:36:09"
     },
     {
+        "reviewId": "gp:AOqpTOF-YCylH_2UuOmo7yu8w1oNRhHLOx_gH7h2JHqAysc25hgL218HDzoGNuz2t_F_lcitXPkMG_bCDjUu0w",
         "userName": "Ainitze Diez",
         "userImage": "https://lh3.googleusercontent.com/-X96nYqE-dqk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclUY3R4MdTXMvBqMRjHFab7FOWSTQ/photo.jpg",
         "content": "Ser\u00eda recomendable poder acceder a la agenda de contactos para poder a\u00f1adir m\u00e1s r\u00e1pidamente los contactos",
@@ -3355,6 +3684,7 @@
         "repliedAt": "2020-03-29 18:37:10"
     },
     {
+        "reviewId": "gp:AOqpTOFnK5EPiudl2nLlWalqCR0PjUclULObdKwfKfdpp15Wqh_dLr99ovXduvVbXR7CjvhVrwra0xVwS0ZOgA",
         "userName": "Fernando Diez Renovales",
         "userImage": "https://lh3.googleusercontent.com/-0GQ1Spm2xb4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn6meq_Zmxq0NyrTa4ekn9AjZwXew/photo.jpg",
         "content": "Muy justa.. mucho por mejorar. Imprescindible mayor facilidad para incorporar n\u00fameros y grupos completos de wassap .y mejor a\u00fan detectar contactos por bluetooth y no por gps...llega tarde y mal",
@@ -3366,6 +3696,7 @@
         "repliedAt": "2020-03-29 18:37:21"
     },
     {
+        "reviewId": "gp:AOqpTOFjSjUtu5JlvUCtm9bXJ71se601SlAojNf6GbqQG_C6AwRPoWl6BbFdsOL4o02K1qMIWl-frgHLoJlF3g",
         "userName": "Marisa Garcia Arribas",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhBkmb4Rw8W4YPWbS2faCSpesxEd5O6vdMV6m6U",
         "content": "Ni tan siquiera se abre.",
@@ -3377,6 +3708,7 @@
         "repliedAt": "2020-03-29 18:38:41"
     },
     {
+        "reviewId": "gp:AOqpTOHM7gdhQpedRNgGtQn7Pwn46DFyfpo3Fj5FTd475FnGjzmM4VES7jVvqdJ0A4A7q9nBgwfOCDtKeNAKPw",
         "userName": "Maria Pilar Lazcanotegui",
         "userImage": "https://lh3.googleusercontent.com/-9gNuaYKYFNk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnQQGRC-rlWgMZLBmK_gNm4U1h5YQ/photo.jpg",
         "content": "No me deja avanzar de la segunda pantalla",
@@ -3388,6 +3720,7 @@
         "repliedAt": "2020-03-29 18:39:01"
     },
     {
+        "reviewId": "gp:AOqpTOFBlo-uqETt-xZJHOQOPZqOgFroqrFT3PhTAGRn7gIDWsIS30L4UuibhbBSxfvdyiw3Rh4P0cAQgKMbFg",
         "userName": "gorka bravo",
         "userImage": "https://lh3.googleusercontent.com/-HT1LKrGGWog/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnyeVdLeEQ7E7Y_HAgCJNEG1r__cA/photo.jpg",
         "content": "Me pone que me falta alg\u00fan dato.",
@@ -3399,6 +3732,7 @@
         "repliedAt": "2020-03-29 18:40:38"
     },
     {
+        "reviewId": "gp:AOqpTOG7F02H0KXGY-kyLwUS9xLC_RFhJl5eGCnLxUS5nS7zKPR8mwpocAOTAJU4HJtxSwf7hPH3mEZ1FbbCiw",
         "userName": "R G",
         "userImage": "https://lh3.googleusercontent.com/-PLlvn0whLw4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm0WpZCOqaR9INsAu7DI6VIaUezDw/photo.jpg",
         "content": "Buena idea pero la habeis sacado precipitadamente creando falsas espectativas. No es accesible la agenda de tlfs. El SMS que mandais a los familiares, personas cercanas, vamos nuestros circulos No tiene un link directo a la Store (Y si la buscas no aparece ni con el propio nombre de la aplicaci\u00f3n ni como palabra clave Osakidetza....) Yo estoy con febricula. Seg\u00fan el test de m\u00e1s de 37 y sin resto de sintomas y semaforo en Verde (Sano como una lechuga) y soy grupo de riesgo (Diabetico e hipertenso). Por comentar: Un familiar m\u00edo esta ma\u00f1ana a dado POSITIVO y era ASINTOMATICO. Gracias por el esfuerzo pero queda mucho. Esperamos mejoras Y por favor ahorraros lo de \"intrusiva\" que pareceis un robot.",
@@ -3410,6 +3744,7 @@
         "repliedAt": "2020-03-29 18:41:34"
     },
     {
+        "reviewId": "gp:AOqpTOFBmYg9Murymrjll6EsSP1P3gK1RiGwznRdwym8ztHua6_iH9rJPwnKlSvH0D2VYRFkUBwA-B9P4brLtA",
         "userName": "Jose Luis Barroso",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgiF1SGfpYhagIrIIFuZhbghKuSusydZqZaNlK0DAU",
         "content": "Creo q hacer una pesta\u00f1a para quien trabaje en el hospital... Ya que no se registra en ning\u00fan sitio, o no lo encuentro... Y de por si ya deber\u00eda ser de riesgo!!! Y hay gente que has tenido contacto en el puesto de trabajo y no tienes su tel\u00e9fono! no quer\u00edas acceder a la agenda del tel\u00e9fono.... Pero creo q deber\u00eda haber estado!!Esto es una emergencia sanitaria!!!! Que me importa a m\u00ed s\u00ed accedes a los tel\u00e9fonos!Lo que queremos es no contagiarnos!!! Xdios... ahora con protecci\u00f3n de datos... Madre!",
@@ -3421,6 +3756,7 @@
         "repliedAt": "2020-03-29 18:42:13"
     },
     {
+        "reviewId": "gp:AOqpTOE3F-LpSAxLJqiFFRBYULyOAWP2qDBw7i32RVvqxiio5k4wVKdeyHz4fWKJOjxkn4DDFaQJ8cfvoiGe7A",
         "userName": "Miguel Llamas",
         "userImage": "https://lh3.googleusercontent.com/-jaWwpSUQo9w/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnYxztK9dThY6C1jtYKvdC5QpsHiw/photo.jpg",
         "content": "As\u00ed saber c\u00f3mo nos encontramos muy bien",
@@ -3432,6 +3768,7 @@
         "repliedAt": "2020-03-29 18:42:39"
     },
     {
+        "reviewId": "gp:AOqpTOGfu-_0dt6okEdGW-nY3Qb-Jz4Uprs3Z_68dueAYwDVzTcBBZFW4s5gNxRYXsovaPf25hic5kkoSw7nlA",
         "userName": "Maria Delgado",
         "userImage": "https://lh3.googleusercontent.com/-gnB3TpkI0NM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm_3y--pVCET_R8H--krxOcH0xymA/photo.jpg",
         "content": "Poner por favor la agenda, es lo suficientemente importante como para dejar el punto de la intrusividad de un lado. Vivimos conectados y exponemos nuestros datos diariamente y por esto que puede salvar vidas con mayor motivos poder acceder a tu agenda. Para las personas que no tengan tantos conocimientos tecnol\u00f3gicos les puede ayudar. Gracias.",
@@ -3443,6 +3780,7 @@
         "repliedAt": "2020-03-29 18:43:56"
     },
     {
+        "reviewId": "gp:AOqpTOGre5qFiIJNPowMuQi4UBuPki6uw2lOi4_iKg-beir-FHFR_0cysEtzorhAt2DOTfkFQd6vTbuvL_uOzA",
         "userName": "David Carrera",
         "userImage": "https://lh3.googleusercontent.com/-TZD_rKrdJWY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnx3vSXCQ1AobbH3cn-fcdV3KLVVw/photo.jpg",
         "content": "No se puede usar la agenda para a\u00f1adir n\u00fameros de tel\u00e9fono. Eso limita mucho la aplicaci\u00f3n. Por lo dem\u00e1s gran idea, gracias",
@@ -3454,6 +3792,7 @@
         "repliedAt": "2020-03-29 20:23:32"
     },
     {
+        "reviewId": "gp:AOqpTOHYIPFrJh7S5ideiZp2_sBVDiA0Svs1jTART_1TmsmC28FPBxe1V35Pi3XDRPNNETTHySiapMUIn4sgkQ",
         "userName": "John Reese Connor",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjrQ_ActbWIKn3IsCSqTAO3mtyzKtJnxnlpZAMAQw",
         "content": "En cuanto la abro despu\u00e9s de instalarla me aparece un mensaje: se ha detenido la aplicaci\u00f3n Covid19.eus. Vaya, decir que tengo un m\u00f3vil con sistema Android 6.0.",
@@ -3465,6 +3804,7 @@
         "repliedAt": "2020-03-29 18:46:01"
     },
     {
+        "reviewId": "gp:AOqpTOGiiBlgllud7AJUiRdfHIx81cWadveDQySz5iL7VNDl2MQ9FfLerHrFkQ1G_wMbCFS_F-VXpEfVGnyJvA",
         "userName": "Ander Escasain",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhbRDN9d2JgjdnX3NVYCL9sYCGxTtW6zn97kpsg",
         "content": "Muy util la App \ud83d\ude0a",
@@ -3476,6 +3816,7 @@
         "repliedAt": "2020-03-29 18:46:28"
     },
     {
+        "reviewId": "gp:AOqpTOFY3M9wIcw07uYZzh7BYc8__QrhiTQQv-DSnQcHL5-87DeJTCxb3nAwF8k-cRgalWRXA18iycuFTLh5QA",
         "userName": "Ion Etxabe",
         "userImage": "https://lh3.googleusercontent.com/-3sJCTrrxY-8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm9EFYZAe6IDXTX0aWMwCCDBIQdXw/photo.jpg",
         "content": "En mi telefono Huawei no funciona la aplicacion ya que cada vez entro me echa de la aplicacion.No puedo hacer nada de nada!!",
@@ -3487,17 +3828,19 @@
         "repliedAt": "2020-03-29 18:46:44"
     },
     {
+        "reviewId": "gp:AOqpTOE5f9FDbea5W8U39NE5IW_Aj-3WjfHM2Zynfc2Qj1r6zloHAbbQeFNDk_lW6sTnIy9CmjJ0ThGU5Lov_A",
         "userName": "asier arrieta elorza",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Giv-6W--xOi2KN-5V0GvKPAzOLcGRNEWpn5lLs0",
         "content": "Por una parte lo de la agenda que lo dicen varias personas. Por otra, si a la hora de registrarse, dejar datos e incluso indicar si se pertenece a un grupo de riesgo se ha cometido alg\u00fan error no se puede reeditar la configuraci\u00f3n inicial. De hecho, yo pertenezco a un grupo de riesgo y la app me dice que no y no puedo volver a ver y reeditar la configuraci\u00f3n inicial.",
         "score": 3,
-        "thumbsUpCount": 8,
+        "thumbsUpCount": 9,
         "reviewCreatedVersion": "1.0",
         "at": "2020-03-28 18:23:38",
         "replyContent": "Se va a incorporar en breve el acceso a la lista de contactos y analizaremos lo que  has indicado.Muchas gracias por las sugerencias",
         "repliedAt": "2020-03-29 18:47:31"
     },
     {
+        "reviewId": "gp:AOqpTOGd21ffgJjeUWOuYdVTtGLt7C6iBq5o2FP5QW_oIHHuKlj7OtaP4_sYRWSE83qhwCHv7zSpHM8EPv7rzg",
         "userName": "Guillermo Talavera",
         "userImage": "https://lh3.googleusercontent.com/-Gk1Ly1jcCBQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnUW9XepBBTqecAEgN_pCMZszXBhQ/photo.jpg",
         "content": "No se muy bien para que sirve, no me deja meter n\u00fameros de personas de lo que el prograna define como circulos. Entiendo que la app es para tener de una forma visual, con quien has tenido contacto, pero lo \u00fanico que veo es todas las pesta\u00f1as en blanco...raro",
@@ -3509,6 +3852,7 @@
         "repliedAt": "2020-03-29 18:56:19"
     },
     {
+        "reviewId": "gp:AOqpTOFlyUcNvFbgH6WARJcyfdsS8Y4eEzTfgV9KLe6snEYzS9XKGWR-lDMxekVPoGG7HFwUhNYMAZ_GeHT_hQ",
         "userName": "Jos\u00e9 Ram\u00f3n G\u00f3mez",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Ghb54aarhDisFr4zWyjtcLWo12oE6eSwh1kebD9ow",
         "content": "Gracias por ponerla en marcha. Puede ser importante. Sin embargo la gesti\u00f3n que hace de los c\u00edrculos es muy b\u00e1sica e ineficaz. Nadie recuerda hoy en d\u00eda los n\u00fameros de tlf de memoria. Deber\u00eda de poder cogerlos de la agenda. Adem\u00e1s, cuando introduces una persona en un c\u00edrculo no tienes ni idea de lo que ha ocurrido con ella. Deber\u00eda de aparecer en un listado de personas a las que has introducido con una informaci\u00f3n b\u00e1sica al lado: enviada solicitud, aceptada solicitud, etc. Se puede + c\u00edrculos?",
@@ -3520,6 +3864,7 @@
         "repliedAt": "2020-03-29 18:56:47"
     },
     {
+        "reviewId": "gp:AOqpTOHTOoMlIcLVKGuXpSrq311ivRw7BHRiotX17gXICebHf2kZrWpLh6rrVYkhW46isiqttBCThbJUB3sV_g",
         "userName": "Gudelia Garcia Borreguero",
         "userImage": "https://lh3.googleusercontent.com/-EtJiVaiV-Tc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckYHsKbF4_8VOqwwzhmYg7K8q9FFA/photo.jpg",
         "content": "Muy buena",
@@ -3531,6 +3876,7 @@
         "repliedAt": "2020-03-28 18:21:30"
     },
     {
+        "reviewId": "gp:AOqpTOFJh8PxLfyMuHB-p-I1u2ezzY7H6qAc4yBRg-b9bQ6fwrK1Y0L70bKA6K8Ho-AR0xIliqhzTOnv7wkCdA",
         "userName": "Luis Miguel",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjNYQfknM_s6jU5fBAaoHMzmrZHR3fUQagGpzKACQ",
         "content": "Falta a\u00f1adir desde la agenda! Hasta entonces ser\u00e1 un fracaso....",
@@ -3542,6 +3888,7 @@
         "repliedAt": "2020-03-29 18:57:02"
     },
     {
+        "reviewId": "gp:AOqpTOFuKQzHY7zHwZdPLAiqH4LVPlUouDW66fT54eP5g4XPS9OZfM5KzeTWRs8AmtBsQbsjJeV2haCPt2aXGg",
         "userName": "Pacazo Pu\u00f1o & Letra",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgM_Mht2YXO55JRZoDJpGe38jHD07Ew5Y5IynMj7g",
         "content": "Hay que meter a mano los n\u00b0 de los contactos del \"c\u00edrculo\". Si tuviese acceso a la agenda del m\u00f3vil al menos se har\u00eda m\u00e1s f\u00e1cil",
@@ -3553,6 +3900,7 @@
         "repliedAt": "2020-03-29 18:57:11"
     },
     {
+        "reviewId": "gp:AOqpTOH2YRaIZsMoCVz0diREGKMLswOkeysXr0JcfThVIpnTd6zVJc4fNaExfRv_7XIM4dUnMweTlZ6IYSOkyw",
         "userName": "Bego\u00f1a Unzurrunzaga Ortega",
         "userImage": "https://lh3.googleusercontent.com/-c3JgS4h15X8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck-ZMWBR0bJwhweBz2QhJI6QwaF-Q/photo.jpg",
         "content": "A mi me funciona muy bien. No he tenido problema alguno al acceder y estoy a la espera de que mis contactos aparezcan. Echo el falta que no se pueda ir a la agenda de tel\u00e9fonos para escoger el tel\u00e9fono que deseas. Espero que esta iniciativa funcione y sea de ayuda para hacer desaparecer est\u00e1 pandemia .",
@@ -3564,6 +3912,7 @@
         "repliedAt": "2020-03-29 18:57:18"
     },
     {
+        "reviewId": "gp:AOqpTOH5ub4-BtDd8m7uHcKLEFutCSWn6WeJjDGImwhk_LOANqCdybHSj2tCvgcD3__udEm4Vu4SKtMUBtS6sg",
         "userName": "Ainara Fernandez Arroyuelos",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GglL-9ZWVZ8uQ84q7n4HR4VFIn_vG60ygV6Qn8VHw",
         "content": "Poco intuitiva. Hay que meter los n\u00fameros de tel\u00e9fono de las personas con las que has estado en contacto de manera manual, sin dejar acceder a la agenda ni nada. Me parece complicada de usar.... Tengo que pedirle el n\u00famero de tel\u00e9fono a mi panadera?",
@@ -3575,6 +3924,7 @@
         "repliedAt": "2020-03-29 18:57:33"
     },
     {
+        "reviewId": "gp:AOqpTOH_0Jt1p5rNM0-yot4RJlNfPsyMdK9AEjznvhLtBSklJwl9ynuEeC327tveAQSjrCuC9sGWvdX7SD9wpA",
         "userName": "Maite Flores Gand\u00eda",
         "userImage": "https://lh3.googleusercontent.com/-oyp7pLuiTT8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn66jLqoZNlSobyV-ZzNUWLhbKmvA/photo.jpg",
         "content": "Apenas funciona, no deja configurar tus c\u00edrculos ni casi nada",
@@ -3586,6 +3936,7 @@
         "repliedAt": "2020-03-29 18:58:30"
     },
     {
+        "reviewId": "gp:AOqpTOGz_ok_4JnWFcMfKHGSV6diVV_Vfw7LLD_p8ojF-B4Le3gGEcFXsoOXluyPNlgfEN6oJ8scm97qsVD1Ew",
         "userName": "Isabel Escudero",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Ggz1icZVFC1O-64ixoh-1a3pQd3GB6ekvGPjPMLpg",
         "content": "No funciona, sale todo el rato faltan datos",
@@ -3597,6 +3948,7 @@
         "repliedAt": "2020-03-29 18:59:08"
     },
     {
+        "reviewId": "gp:AOqpTOEs_UbJkU_hfBkFDaoemOGZXiukAOOQsptr59egXbhpyGK7F-DxeQgIgfxhBLS7q4bI3Iq2sBRhfvjmbQ",
         "userName": "Marian Martin",
         "userImage": "https://lh3.googleusercontent.com/-Prtg4PzIT8w/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclRrHNB2lxx8FnbLhC1gFU5_rNc_g/photo.jpg",
         "content": "A mi tambi\u00e9n me dice que me faltan datos",
@@ -3608,6 +3960,7 @@
         "repliedAt": "2020-03-29 18:59:26"
     },
     {
+        "reviewId": "gp:AOqpTOEHqDxTGx1rlAcI3tJMdMTK00w8f05PO1dekyBpDuOkz0Tz-DgUOX-VJNbXgpbMYm1VEnMcHjEuiduyYQ",
         "userName": "Inaki Etxebarria",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gg_Dx47rYRLxSWjzwF_6k66ZykIRhTuvdq4IpJ8ZEI",
         "content": "Estupenda aplicaci\u00f3n. Hac\u00eda falta algo as\u00ed!",
@@ -3619,6 +3972,7 @@
         "repliedAt": "2020-03-28 18:23:39"
     },
     {
+        "reviewId": "gp:AOqpTOECJygAZ810hBM3g1AtTo6OEeSVWcuuR2OxjTjQ5YIhf6kasv8EOtFfAANJlCWGla8-P2tsyvdYDh9wMQ",
         "userName": "Sergio Martin",
         "userImage": "https://lh3.googleusercontent.com/-gUdkV3BJIdM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucla9-TW-aokSlIemvhr1Xsl_XtS7A/photo.jpg",
         "content": "Redmi Note 4. Error al ejecutar.",
@@ -3630,6 +3984,7 @@
         "repliedAt": "2020-03-29 19:00:02"
     },
     {
+        "reviewId": "gp:AOqpTOEzjziFMUZ40t2f9R8d9EUZAHwFy6QRp9Sjn3M7fNNwXRvPQR34aD5GtXO1SwqJuFpY-avMzbEnH7GS2g",
         "userName": "Jokin Zubieta",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhjWj_0HL7WdRmr-qfOdWWlOQk8b0cZmpMkXJJK7g",
         "content": "No funciona. Se detiene al inicio.",
@@ -3641,6 +3996,7 @@
         "repliedAt": "2020-03-29 19:00:37"
     },
     {
+        "reviewId": "gp:AOqpTOFTT3u6UwHCG7vXM9WMxpXNQVg1ewx6DoBIu3uXxzxxSvZyro0cCiKzNdWv-TtNDezhCbiXD7fp_otJQQ",
         "userName": "Alberto Gonzalez Rodriguez",
         "userImage": "https://lh3.googleusercontent.com/-d-sMPVpOU5c/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnjxLK4a9F-_Qvm0TMlYHV1th6WTQ/photo.jpg",
         "content": "En Xiaomi redmi 4 pro la aplicaci\u00f3n se cierra, nada m\u00e1s abrirla",
@@ -3652,7 +4008,8 @@
         "repliedAt": "2020-03-29 19:00:51"
     },
     {
-        "userName": "Chaos Then",
+        "reviewId": "gp:AOqpTOGBTrnCMXT21_rODlwDWhJukkuGBILSD4zNz5SLjQXOlDvIsCg0eE1vHvaKbH6p8zkt9edbUImOg74MgA",
+        "userName": "Jose G. Guevara",
         "userImage": "https://lh3.googleusercontent.com/-x6lQSPmo6jM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck0uOhvKvP4S_mQOls5Ivz38tCKsA/photo.jpg",
         "content": "No funciona. Otra basura mas del gobierno vasco.",
         "score": 1,
