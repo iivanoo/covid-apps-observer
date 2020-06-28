@@ -199,25 +199,25 @@ The COVID Symptom Study app has been installed by more than **1000000** times. A
 <img src="5_star_reviews_wordcloud.png" alt="com.joinzoe.covid_zoe 5 reviews"/>
 </p>
 
-> An important well operated app.<br> :date: __2020-06-28 11:29:42__
+> Excellent<br> :date: __2020-06-28 22:30:07__
 
-> Easy to set up and use, and is invaluable now we are gradually coming out of lockdown, to see how the Covid 19 is affecting each of us, reporting daily.<br> :date: __2020-06-28 11:28:21__
+> Great app<br> :date: __2020-06-28 22:16:43__
 
-> Do it to help<br> :date: __2020-06-28 10:28:10__
+> Very easy to use<br> :date: __2020-06-28 21:47:09__
 
-> Great app<br> :date: __2020-06-28 10:06:49__
+> All straightforward and only 1 minute a day<br> :date: __2020-06-28 21:31:16__
 
-> Fast and easy to use<br> :date: __2020-06-28 09:52:53__
+> An easy , quick app to use. Hopefully will provide good data.<br> :date: __2020-06-28 21:03:14__
 
-> It's easy to use, but I forget to update it. Maybe it would be better if it sent reminder to the user to provide information.<br> :date: __2020-06-28 09:50:12__
+> Excellent in helping discover the spread of covid. Non intrusive Easy questions to answer .<br> :date: __2020-06-28 20:33:51__
 
-> Easy to use and giving vital information.<br> :date: __2020-06-28 09:42:58__
+> Brilliant<br> :date: __2020-06-28 20:03:13__
 
-> Clear and easy to use.<br> :date: __2020-06-28 09:35:45__
+> If it helps control Covid 19 and find vaccine, then we all must us it.<br> :date: __2020-06-28 19:31:56__
 
-> Easy to use, quick<br> :date: __2020-06-28 09:03:58__
+> Good to contribute to dealing with C-19<br> :date: __2020-06-28 18:52:53__
 
-> Easy to use, doesn't take more than one minute a day and supports key science.<br> :date: __2020-06-28 08:41:34__
+> Best App to keep track of Covid 19<br> :date: __2020-06-28 18:52:47__
 
 
 
@@ -227,25 +227,25 @@ The COVID Symptom Study app has been installed by more than **1000000** times. A
 <img src="4_star_reviews_wordcloud.png" alt="com.joinzoe.covid_zoe 4 reviews"/>
 </p>
 
-> Lets you feel you are contributing usefully. Would be better if instead of just well or not well, you had a chance to describe why you are not well. Maybe you can, but I've never had to tick not well yet!<br> :date: __2020-06-28 11:18:55__
+> Easy to use the app<br> :date: __2020-06-28 18:18:18__
 
-> Enjoyed using the app. Think it's doing a very important and great job.<br> :date: __2020-06-28 10:24:26__
+> Why are the daily cases alot higher on the app than they are in the official figures released daily?<br> :date: __2020-06-28 17:14:31__
 
-> If everyone reported any symptoms it is bound to make a difference<br> :date: __2020-06-27 23:50:51__
+> Informative<br> :date: __2020-06-28 14:03:47__
 
-> Neutral<br> :date: __2020-06-27 23:33:55__
+> Simple to use<br> :date: __2020-06-28 13:47:18__
 
-> This app is easy to use. I hope that the information gathered will help us all.<br> :date: __2020-06-27 21:57:03__
+> Easy<br> :date: __2020-06-28 13:42:40__
 
-> Straight forward but still needs to evolve<br> :date: __2020-06-27 21:08:50__
+> First entry was clear but daily updates seem confusing.<br> :date: __2020-06-28 13:34:33__
 
-> Very good app<br> :date: __2020-06-27 19:37:11__
+> Easy to download and join.<br> :date: __2020-06-28 13:17:08__
 
-> Hope this is useful!<br> :date: __2020-06-27 19:29:14__
+> Easy to use<br> :date: __2020-06-28 13:09:02__
 
-> Easy to use, let's me feel I may be of some use in this awful crisis<br> :date: __2020-06-27 19:25:38__
+> Easy to use<br> :date: __2020-06-28 11:50:00__
 
-> Quick and easy. Takes little time.<br> :date: __2020-06-27 16:11:54__
+> Easy to use.<br> :date: __2020-06-28 11:48:02__
 
 
 

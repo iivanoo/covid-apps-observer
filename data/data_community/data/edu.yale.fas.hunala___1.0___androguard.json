@@ -1,0 +1,42 @@
+{
+    "permissions": [
+        "edu.yale.fas.hunala.permission.C2D_MESSAGE",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "com.google.android.c2dm.permission.RECEIVE",
+        "android.permission.INTERNET",
+        "android.permission.WAKE_LOCK",
+        "android.permission.VIBRATE",
+        "android.permission.READ_CONTACTS",
+        "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+        "android.permission.ACCESS_BACKGROUND_LOCATION",
+        "android.permission.ACCESS_FINE_LOCATION"
+    ],
+    "activities": [
+        "edu.yale.fas.hunala.MainActivity",
+        "com.facebook.react.devsupport.DevSettingsActivity",
+        "com.google.android.gms.common.api.GoogleApiActivity"
+    ],
+    "urls": [
+        "http://schemas.android.com/apk/res/android",
+        "http://%s/%s.%s?platform=android&dev=%s&minify=%s",
+        "http://%s/launch-js-devtools",
+        "http://%s/onchange",
+        "http://%s/open-stack-frame",
+        "http://%s/status",
+        "http://%s/%s",
+        "http://%s/symbolicate",
+        "http://%s/nuclide/attach-debugger-nuclide?title=%s&app=%s&device=%s",
+        "http://%s/inspector/device?name=%s&app=%s",
+        "http://www.android.com/",
+        "https://pagead2.googlesyndication.com/pagead/gen_204?id=gmob-apps",
+        "https://plus.google.com/",
+        "https://app-measurement.com/a",
+        "https://google.com/search?",
+        "https://%s/%s/%s?key=%s",
+        "http://schemas.android.com/apk/res-auto",
+        "https://www.googleapis.com/auth/games_lite",
+        "https://www.googleapis.com/auth/games",
+        "https://www.google.com",
+        "https://www.googleadservices.com/pagead/conversion/app/deeplink?id_type=adid&sdk_version=%s&rdid=%s&bundleid=%s&retry=%s"
+    ]
+}
