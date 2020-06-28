@@ -38,7 +38,7 @@ As you can imagine, we collect several data points for each dimension so the bes
 
 | **Nation** | **Report** | **Analysed apps** | **Updated at** | 
 |-------------------------|-------------------------|-------------------------|-------------------------|
-:rainbow: By the community | :chart_with_upwards_trend: [Results](data/data_community/reports/report_2020_6_28.md) | 2 apps ([suggest new apps!](https://github.com/iivanoo/covid-apps-observer/issues/new)!) | :calendar: 28/06/2020
+:rainbow: By the community | :chart_with_upwards_trend: [Results](data/data_community/reports/report_2020_6_28.md) | 3 apps ([suggest new apps!](https://github.com/iivanoo/covid-apps-observer/issues/new)!) | :calendar: 28/06/2020
 :australia: Australia | :chart_with_upwards_trend: [Results](data/data_au/reports/report_2020_6_28.md) | [5 apps](https://play.google.com/store/search?q=covid&c=apps&gl=au) (Links to Google Play) | :calendar: 28/06/2020
 :austria: Austria | :chart_with_upwards_trend: [Results](data/data_at/reports/report_2020_6_28.md) | [3 apps](https://play.google.com/store/search?q=covid&c=apps&gl=at) (Links to Google Play) | :calendar: 28/06/2020
 :canada: Canada | :chart_with_upwards_trend: [Results](data/data_ca/reports/report_2020_6_28.md) | [5 apps](https://play.google.com/store/search?q=covid&c=apps&gl=ca) (Links to Google Play) | :calendar: 28/06/2020
