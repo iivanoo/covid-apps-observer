@@ -156,6 +156,14 @@ The COVID-19 Contact App (MHLW official) - preview app has been installed by mor
 <img src="5_star_reviews_wordcloud.png" alt="jp.go.mhlw.covid19radar 5 reviews"/>
 </p>
 
+> Cool! Thanks.<br> :date: __2020-06-25 02:30:49__
+
+> Good. Good. Good.<br> :date: __2020-06-23 11:15:39__
+
+> Straightforward app, pretty good explanations of how this works, 5/5<br> :date: __2020-06-22 10:20:41__
+
+> Perfect.<br> :date: __2020-06-22 04:35:40__
+
 > 個人情報への配慮がよくできています。電話番号など詳細に登録しなくても使えるので安心しました。<br> :date: __2020-06-21 02:43:31__
 
 > 海外在住で、英語設定の海外スマホと居住国が日本以外のGoogleアカウントを用いてインストールしましたが全てスムーズです。気になる点は(1) 英語版の登録名にある"MHLW official"は日本人の私にもハテナ? です (2) アプリ自体はよく英語化されているのですが、スプラッシュスクリーンとアプリ上部のバナーに日本語が残るのは気になります。特に旅行者にとっては読めない文字で書かれたものは何かしら不安を感じます。厳しい言い方をすればアマビエも日本人の間だけで通じる内輪ネタで英語版のスプラッシュスクリーンには相応しくないです。シンプルな英語のみのスプラッシュとバナーにして、アマビエについては別途アプリ内に紹介ページを設けた方がよいと思います。<br> :date: __2020-06-20 11:54:17__
@@ -167,10 +175,6 @@ The COVID-19 Contact App (MHLW official) - preview app has been installed by mor
 > It's working too fast<br> :date: __2020-06-19 16:05:35__
 
 > No GPS request, good.<br> :date: __2020-06-19 15:20:31__
-
-> Sharing this with my friends. Let's all help to make Japan safe.<br> :date: __2020-06-19 14:09:35__
-
-> 友達にも勧めておきます。<br> :date: __2020-06-19 13:02:58__
 
 
 
@@ -207,6 +211,8 @@ No recent reviews available with 2 stars.
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="jp.go.mhlw.covid19radar 1 reviews"/>
 </p>
+
+> Asks for GPS location. I uninstalled this app because it kept asking me to enable Google location services, therefore accessing my GPS location. This is in stark contrast to what was claimed.<br> :date: __2020-06-28 08:07:01__
 
 > Bluetooth Range. Class 2 (the most common kind) operate up to 10m (33ft), and class 3 are the least powerful and don't go much beyond 1m (3.3ft). Why not use mobile data to monitor the entire city, country or world?<br> :date: __2020-06-20 19:52:23__
 

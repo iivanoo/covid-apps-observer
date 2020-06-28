@@ -224,6 +224,8 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 <img src="3_star_reviews_wordcloud.png" alt="gov.fema.mobile.android 3 reviews"/>
 </p>
 
+> where's the warnings I used to get<br> :date: __2020-06-24 02:29:53__
+
 > The back button does not exit the app.<br> :date: __2020-06-09 16:17:55__
 
 > Should be updated & expanded upon more but for what it is, I like it and will be keeping it.<br> :date: __2020-05-08 07:51:52__
@@ -241,8 +243,6 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 > No notification on<br> :date: __2019-11-08 13:38:22__
 
 > disappointed would be helpful if you listed citizen corps. And ways to expand and improve readiness. Most e.m.a. offices have no knowledge of getting volunteers for natural disasters in Illinois, and I have a feeling they don't care<br> :date: __2019-09-02 21:56:27__
-
-> I would give it a zero, but that's not an option. I just found out about this app, and being in the path of hurricane Dorian, thought it would be a good app to have. However, it doesn't search/recognize my location when i try to enter it for alerts, making it pretty useless to me. Edited to add: after the 5th install, i was finally able to add a location, so i bumped up the stars.<br> :date: __2019-09-01 03:46:38__
 
 
 
@@ -280,6 +280,10 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 <img src="1_star_reviews_wordcloud.png" alt="gov.fema.mobile.android 1 reviews"/>
 </p>
 
+> Don't trust fema<br> :date: __2020-06-26 20:16:46__
+
+> Did not get it<br> :date: __2020-06-23 16:46:56__
+
 > The app should work off line. I cannot use the app with cellular data. Alerts set to my location only notify me when I have Wi-Fi and completely disappear if I'm not connected. How is this convenient during a disaster?<br> :date: __2020-06-21 22:29:23__
 
 > App can not be moved to external SD memory<br> :date: __2020-06-15 13:42:40__
@@ -295,9 +299,5 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 > I am not getting tornado alerts like my sister 1 mile away gets on TV and NOAA radio. I have the warnings checked, but I am not getting them.<br> :date: __2020-06-05 17:43:06__
 
 > One of the many problems we as Whistleblowers face is, a lack housing from being targeted. This app was not at all helpful in reaching that goal. Being denied basic human resources is never good.<br> :date: __2020-06-04 14:42:07__
-
-> It needs to be user-friendly you need to hire a real designer to do it correctly. You need to be all the tie and the other government in it also local government agencies needs to be tight end. Need a better alert system Cayenne with it<br> :date: __2020-06-01 17:33:00__
-
-> It doesn't work. The government sucks cum bubble.<br> :date: __2020-05-28 19:26:04__
 
 

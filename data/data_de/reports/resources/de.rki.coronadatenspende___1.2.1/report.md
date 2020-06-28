@@ -131,6 +131,18 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 <img src="5_star_reviews_wordcloud.png" alt="de.rki.coronadatenspende 5 reviews"/>
 </p>
 
+> Die App funktioniert bei mir von Anfang an (bereits seit 77 Tagen) einwandfrei. Die öffentlichen Berichte des RKI über die Auswertung der Zahlen finde ich extrem spannend und lesenswert, da man so einen Bezug zu der Arbeitsweise bekommt. Toll. Ich bin froh dabei zu sein.<br> :date: __2020-06-28 09:21:13__
+
+> Ok<br> :date: __2020-06-27 20:31:43__
+
+> Funktioniert gut mit garmin venu und fitbit charge 2, interessanter blog<br> :date: __2020-06-26 21:27:56__
+
+> Gute App<br> :date: __2020-06-26 17:42:07__
+
+> achso na dann. also ein fitnessarmband habe ich jetzt nöcht.<br> :date: __2020-06-26 11:22:25__
+
+> Super App. Über einen Exploit kann man mittels dieser App von außen beliebige Daten aufspielen und/oder auslesen! Seid schön brav und installiert die App. Vielleicht bekommt ihr dann eure Pornos im. Hintergrund umsonst mit drauf. Euch ist sowieso nicht mehr zu helfen. 👍👍👍17 BTW, das RKI hat sich geweigert, mit den Leuten, die diesen Fehler entdeckt haben, zusammenzuarbeiten und ihn zu beheben.<br> :date: __2020-06-22 12:25:50__
+
 > Man kann helfen, ohne dass es etwas kostet!<br> :date: __2020-06-20 11:59:57__
 
 > Funktioniert alles super, die Verbindung geht schnell und sobald man die Berechtigungen zum Abfragen der Daten von dem jeweiligen Konto gegeben hat, funktioniert alles automatisch. Man kann die Berechtigung jederzeit entziehen. Verstehe die schlechten Bewertungen nicht<br> :date: __2020-06-19 12:09:35__
@@ -139,18 +151,6 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 
 > Funktioniert unkompliziert.<br> :date: __2020-06-18 12:41:22__
 
-> Super, hat alles funktioniert! Gerne spende ich meine Körperdaten und Fitnessdaten, um das RKI zu unterstützen.<br> :date: __2020-06-18 11:53:30__
-
-> Mehr sollten freiwillig helfen. Super Sache!<br> :date: __2020-06-17 02:23:16__
-
-> Sehr sehr gut<br> :date: __2020-06-16 21:52:39__
-
-> Leicht zu bedienen. Angenehmes Schriftbild.<br> :date: __2020-06-16 21:41:15__
-
-> Nachtrag Juni 2020: Die Zwischenberichte finde ich schon mal sehr interessant. Danke für den Link in der App April 2020: habe das nur gemacht, weil ich dem Robert-Koch-Institut und dem Okay vom Bundesdatenschutzbeauftragten traue. Und ich finde die Idee mit solchen Daten wissenschaftliche Erkenntnisse zur Pandemie zu bekommen einleuchtend.Aber wehe mit solch sensiblen Daten wird unsensibel umgegangen!<br> :date: __2020-06-16 18:50:27__
-
-> Sauber umgesetzte App. An alle 1-Sterne Bewerter wegen inkompatibler Hardware: Man kann nicht jeden Hersteller unterstützen. Die wichtigsten offenen Plattformen werden unterstützt. Wenn Euer Fitness-Armband oder Eure Smartwatch das nicht tun, liegt der Fehler nicht beim RKI! ;-)<br> :date: __2020-06-16 14:27:49__
-
 
 
 #### 4-star reviews
@@ -158,6 +158,10 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="de.rki.coronadatenspende 4 reviews"/>
 </p>
+
+> Nach einigen Minuten hatte ich die App<br> :date: __2020-06-25 05:44:40__
+
+> Login funktioniert jetzt auch mit Einfügen des Passworts über die Zwischenablage. Die Verbindung mit meinem Garmin Connect-Konto ist jetzt problemlos möglich. Mehr kann ich zu der App momentan noch nicht sagen.<br> :date: __2020-06-23 09:56:38__
 
 > Ich hab die App in unter einer Minute eingerichtet und mit meiner Fitbit Charge 4 verbunden. Alles top, aber ich finde es sehr schade, dass ich nicht meine Daten der letzten Wochen spenden kann. Das wäre doch auch praktisch.<br> :date: __2020-06-18 20:33:57__
 
@@ -175,10 +179,6 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 
 > Die App läuft. Dennoch kann ich meine Samsung Gear S3 nicht verbinden.<br> :date: __2020-06-16 08:06:16__
 
-> Funktioniert schon, allerdings braucht es ca. eine Woche bis man was sieht.<br> :date: __2020-06-16 06:40:55__
-
-> Etwas schwierig zu handhaben<br> :date: __2020-06-16 06:37:19__
-
 
 
 #### 3-star reviews
@@ -186,6 +186,10 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="de.rki.coronadatenspende 3 reviews"/>
 </p>
+
+> Schade, meine Huawei watch GT2 ist nicht dabei. Dabei ist diese Uhr weit verbreitet. Vielleicht bessert ihr noch nach?<br> :date: __2020-06-24 11:59:11__
+
+> Anfang alles gut. Aber komme beim verbindungen des truker nicht weiter und kommt zu einer sever fehler. Ich habe android 5.1 . wenn mann hilfen soll dann ab 5.0 erstallen<br> :date: __2020-06-23 13:02:49__
 
 > Warum gibt es keine Unterstützung für Samsung-Geräte? Habe eine Samsung Gear S3 und der Hersteller fehlt.<br> :date: __2020-06-19 12:44:37__
 
@@ -202,10 +206,6 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 > Habe auch eine Samsung Gear S3... Die Bereitschaft von mir ist da.. Aber so leider nicht! 10 Tage später noch immer kein Support = deinstalliert, Edit 16.06. Jetzt funktioniert anscheinend der Umweg über Google Fit, die ja die Daten von meiner Gear erhält. Mal sehen..<br> :date: __2020-06-16 03:08:25__
 
 > Was sollen immer die Wörter wie "Bürger:innen" in den Texten der App? Wollen Sie damit modern wirken und die deutsche Sprache mit Füßen treten?<br> :date: __2020-06-15 18:55:50__
-
-> Mit Samsung Watch über 2 Zwischenstationen laufen die Daten, kontrollieren kann ich nicht ob es klappt. Im Blog zählen sie Schritte, erfasst werden logisch nur die von den Fitnessbewussten, andere zählen die gar nicht. Daraus was berechnen- da graust es einem Statistiker. Dann wird behauptet ein hoher Puls bedeutet Fieber, Ruhepuls von 80 und 36,4° Normaltemperatur- bin wohl eine fehlkonstruierte Menschmaschine. Gut gemeint alles aber fragliche Umsetzung<br> :date: __2020-06-15 17:52:30__
-
-> Hab leider ein anderes Fitness Armband was dort leider nicht aufgeführt ist. Sonst würde ich die App gerne nutzen.<br> :date: __2020-06-15 12:28:23__
 
 
 
@@ -243,6 +243,18 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 <img src="1_star_reviews_wordcloud.png" alt="de.rki.coronadatenspende 1 reviews"/>
 </p>
 
+> Wird Samsung Health in Zukunft unterstützt werden ? Ich würde gerne meine Daten spenden doch ich benutze Samsung Health.<br> :date: __2020-06-27 10:20:03__
+
+> Ohne SmartWatch oder ähnliches nicht gebrauchbar. ACHTUNG Datenspende!<br> :date: __2020-06-26 14:39:33__
+
+> App hat massive Sicherheitslücken. Auf Kontaktanfragen wird nicht reagiert. Was auch immer hier gerade falsch läuft, das wird Konsequenzen haben. Das RKI ist eine Behörde und somit im Dienste der Bürger. Die Presse wird sich ebenfalls für diese Vorgänge interessieren!<br> :date: __2020-06-23 16:02:12__
+
+> Kann diese App nun eigentlich deinstalliert werden oder kommt da auch mal ein Update für Samsung Geräte? Wäre schön wenn sich von Seiten des RKI jemand melden könnte.<br> :date: __2020-06-23 06:50:45__
+
+> Xiaomi wird nicht unterstützt, dabei sind deren Fitness Tracker mehrheitlich im Umlauf<br> :date: __2020-06-23 00:49:49__
+
+> Leider sind keine Samsung Smartwatches verwendbar und daher leider unbrauchbar. Sobald dies nachgeholt wird diese App sehr gern genutzt.<br> :date: __2020-06-22 12:01:43__
+
 > Leider nicht nutzbar da Samsung Health nicht angeboten wird. Schade. Wäre gerne dabei wie viele andere auch. Leider haben sich die Entwickler der App keine großen Gedanken gemacht um eine möglichst große Nutzerbasis aufzubauen.<br> :date: __2020-06-21 03:51:14__
 
 > Unterstützt weder Huawei noch Samsung. 2 riesen hersteller von smartwatches und Fitnessarmbänder.<br> :date: __2020-06-20 13:14:04__
@@ -250,17 +262,5 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 > Jeder der sich freiwillig diese corona (Überwachung)app installiert ist komplett lost. Überlegt mal was ihr hier (freiwillig) macht Leute ... omg ...<br> :date: __2020-06-18 16:06:25__
 
 > Es gibt doch mittlerweile eine neue App warum steht diese immer noch zum Download bereit?<br> :date: __2020-06-17 22:53:26__
-
-> Suunto smart watch habt ihr komplett vergessen obwohl die Uhr von Sensoren mehr als dafür ausgelegt ist<br> :date: __2020-06-17 20:36:50__
-
-> Seit 63 Tagen läuft es nun bei mir. Aber IMMER NOCH KEINE Unterstützung für Huawei Health bzw. Huawei GT2 Watch! Kommt da nun noch was für weitere Geräte, oder war es das jetzt?<br> :date: __2020-06-17 19:52:18__
-
-> Geht leider nicht mit Huawei also Murks<br> :date: __2020-06-17 14:05:52__
-
-> Leider funktioniert die App mit meinem 2 Jahre alten Samsung nicht. Ich müsste mir zusätzlich eine smart watch oder ähnliches anschaffen.<br> :date: __2020-06-17 13:20:51__
-
-> Der größte Mist, funktioniert einfach nicht, fragt immer nach einer Smartwatch. War mir klar, dass es sich wieder nur um Selbstlob handelt<br> :date: __2020-06-17 10:16:15__
-
-> Also im Ernst... Jetzt soll diese App helfen zur Erkennung. Wie soll ich als Person erkennen ob jemand krank ist?? Really???? Ich melde jeden der hustet, nießt oder schwitzt (weil er wohl Fieber hat)? Da wird viel Geld ausgegeben für so ein Mist. Also werden alle Ärzte. Es ist eine Schande, dass es darüber überhaupt Diskussionen gibt<br> :date: __2020-06-17 00:22:41__
 
 

@@ -1,5 +1,17 @@
 [
     {
+        "reviewId": "gp:AOqpTOHVCTIFse86daQugEkZAANUisDUFQSRu_t3uDvAvU6o6qyQjNmcubAbOygEyq7KbVbut3ltG8svIl4UgCw",
+        "userName": "rosa karina garcia obando",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhxRhcXDwzlhTc4RXbNaylaPq8OVtch_vL0aSqN",
+        "content": "No acepta mi numero de telefono dice que hay un erro",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.0.3",
+        "at": "2020-06-27 06:15:08",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOFxGt6RqKx-CsBuoJIIBteSX_O_kTP8GoKO2TGIFwxe0fkNdjC0dtJpesq1AyDPExsbniOj92_mttadlM4",
         "userName": "Jordi Alabart",
         "userImage": "https://lh3.googleusercontent.com/-a0rG0mLF8kw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl_DV05Ea4GR70EulKyffDWwS0S_Q/photo.jpg",
@@ -89,7 +101,7 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhybQ6y56DP_DI7qOyNnxSel-_KYxyj0gx0R0jUUA",
         "content": "No me deja poner el n\u00b0 de tef, me sale que hay un error. La anterior era perfecta pero esta no funciona. El problema se a solucionado, ahora esta OK.",
         "score": 4,
-        "thumbsUpCount": 3,
+        "thumbsUpCount": 7,
         "reviewCreatedVersion": "2.0.2",
         "at": "2020-06-12 20:44:26",
         "replyContent": "Trasladamos la incidencia t\u00e9cnica a los desarrolladores.",
@@ -221,7 +233,7 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Ghhz7ZrvXi-jHJDt3YZrKilAG_8ShZ4cIMU2kudbw",
         "content": "En la nueva configuraci\u00f3n de Google para saber qui\u00e9n est\u00e1 infectado y si has estado cerca, eso que nos han instalado a todo el pa\u00eds, dice que hay que dar permiso a la app de covid de nuestra comunidad para que nos avisen de posibles contactos con infectados. Esta app no tiene ajustes. Hay otra app de covid en nuestra comunidad?",
         "score": 3,
-        "thumbsUpCount": 2,
+        "thumbsUpCount": 3,
         "reviewCreatedVersion": "1.0.2",
         "at": "2020-06-02 14:47:27",
         "replyContent": "Creemos que no hay otra en el marco del sistema p\u00fablico.",
@@ -1025,7 +1037,7 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gib9zxWSWmg-bTveaorHF0J2r18HONvfxIBKlwfsl4",
         "content": "No le veo ning\u00fan sentido a esta app. Para lo \u00fanico que sirve es para que la Generalitat tenga datos para saber hasta donde pueden enga\u00f1arnos. Siempre dice lo mismo, que te quedes en casa por ser posible positivo. Si le hubiera hecho caso no habr\u00eda ido a urgencias. Ahora ya se que soy positivo en covid-19 y me han puesto en tratamiento. Tampoco te llama nadie por muy mal que est\u00e9s ni por muchos d\u00edas que tengas fiebre. Dudo que alguien supervise nada en la app. Una app in\u00fatil",
         "score": 1,
-        "thumbsUpCount": 103,
+        "thumbsUpCount": 106,
         "reviewCreatedVersion": "1.0.2",
         "at": "2020-04-09 19:56:06",
         "replyContent": null,
@@ -1081,8 +1093,8 @@
     },
     {
         "reviewId": "gp:AOqpTOHKvTy7-axdOCqgr5oavyVkm5wa5yi16-deV7oqwYxPqaLxiABVRhG-no6AyE9-2rAtHV8bMc-sLmxyGbE",
-        "userName": "Diego Nicolas",
-        "userImage": "https://lh3.googleusercontent.com/-gS2m-YgEYY8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclcnLZTcMmWvJwoXHmcWN8MkHvf_w/photo.jpg",
+        "userName": "D'Silence",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjC0-LNbUywD_B88LOWR_LWcMn5cITjjD7sIgEuPQ",
         "content": "Me gustar\u00eda saber en cuantos pa\u00edses esta disponible esta app",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1682,7 +1694,7 @@
     {
         "reviewId": "gp:AOqpTOGS-fVvoXKExX4bGVRTXDm7YO27m3OKQ3apyJBpLx-0O5Ee_Q1nRVxyA_Tto9olrzY6oaOGQCiIv0g9hjM",
         "userName": "Anastasio Herraiz",
-        "userImage": "https://lh3.googleusercontent.com/-g2e9LISJ9q8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmsfuJ_B2jklBBQv4YygACmIC-iJw/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjUpAtDPGABkk3zrPkRaXqSzRr8JHmM5JeHaxFdBA",
         "content": "En test es muy b\u00e1sico. No tiene bot\u00f3n de salida de la aplicaci\u00f3n, s\u00f3lo uno de volver a repetir el test. Dada la incapacidad de controlar a la poblaci\u00f3n por la falta de medios y organizaci\u00f3n es un indicador medio aceptable del estado general.",
         "score": 3,
         "thumbsUpCount": 7,
@@ -4118,7 +4130,7 @@
     {
         "reviewId": "gp:AOqpTOEDYNM-QefFdWc0fNgdIlRKDee1FnPTTZN1vjrPlP57JAdV6Or-434LPxo0UFgjemHMC_wmx0kSGgXFLQ8",
         "userName": "Fernando Mora",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhjU-JA7lU1azVgFFFk8IRm36fA0q_G-9gCwA__hw",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhGxaT7RKpBiC-r3DOO7mAj_ocQr3BK-5asLOOgHqU",
         "content": "Da siempre error de conexi\u00f3n. No funciona",
         "score": 1,
         "thumbsUpCount": 1,

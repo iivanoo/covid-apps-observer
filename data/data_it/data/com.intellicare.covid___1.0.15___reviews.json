@@ -8,8 +8,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.0.15",
         "at": "2020-06-21 15:45:11",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Gentile utente, migliaia di cittadini utilizzano l'APP,  potrebbe indicarci nel dettaglio le sue difficolt\u00e0 per supportarla?",
+        "repliedAt": "2020-06-23 16:28:40"
     },
     {
         "reviewId": "gp:AOqpTOFh2NORf3-w9craEwb9_yng7vOV9aqgc24BXaWOWOCKhNAfVnHfu5kte-oU2TfFafLENe0VUuB6Z0dR6A",
@@ -89,7 +89,7 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjaFbh6E-e8XGbjjThU0H9f455zkf8BKBnvNw_mRA",
         "content": "Salve, vorrei farvi notare che quando si compila l'autovalutazione, alla domanda: hai frequentato nelle ultime 2 settimane strutture sanitarie ? Io rispondo NO e al termine dei quesiti andando ad aprire il documento word con le mie risposte risulta SI per gli ospedali anche se la mia risposta, come gi\u00e0 ho detto, sia stata No! Ho provato 2 volte per sicurezza, ma il risultato \u00e8 lo stesso.",
         "score": 4,
-        "thumbsUpCount": 7,
+        "thumbsUpCount": 10,
         "reviewCreatedVersion": "1.0.15",
         "at": "2020-05-28 05:22:18",
         "replyContent": "Grazie per la segnalazione, stiamo verificando. Un saluto",
@@ -365,7 +365,7 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gige6EfUivIhkxSM5Af5MjhdnLVpszw6OnTteVxqA",
         "content": "Inseriti tutti campi richiesti, dato il consenso, mi arriva la mail per l'attivazione, clicco sul link, mi dice che l'account \u00e8 attivo, rientro nell'app e si ricomincia da capo come se fosse la prima volta, avr\u00f2 attivato almeno una decina di volte l'account ma al primo accesso \u00e8 come se fosse la prima volta. Disinstallata. AGGIORNAMENTO: dopo l'aggiornamento di oggi l'app ha ripreso a non funzionare.",
         "score": 1,
-        "thumbsUpCount": 41,
+        "thumbsUpCount": 42,
         "reviewCreatedVersion": "1.0.11",
         "at": "2020-04-24 11:06:47",
         "replyContent": "Gentile utente, ci risulta che la sua app non \u00e8 stata aggiornata. La preghiamo di aggiornare da play store la stessa alla versione disponibile e ripetere l'accesso. SAluti.",
@@ -533,7 +533,7 @@
         "userImage": "https://lh3.googleusercontent.com/-jvHeYBNHGjk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn3MpfS166WtMdcYMwDP5zArviJ8w/photo.jpg",
         "content": "Bene . Quindi se un cittadino \"qualsiasi \" ha sintomi riferibili al Covid-19 anche a lui verranno a casa a fare il tampone faringeo e , in caso di positivit\u00e0, gli verr\u00e0 somministrata la terapia antivirale a domicilio, come \u00e8 stato fatto per \"qualcuno \". Se funziona cos\u00ec allora \u00e8 molto utile. Funziona cosi per tutti i cittadini ? Una semplice domanda a cui rispondere con un si o con un no.",
         "score": 1,
-        "thumbsUpCount": 19,
+        "thumbsUpCount": 21,
         "reviewCreatedVersion": "1.0.13",
         "at": "2020-04-15 15:40:45",
         "replyContent": "Gentile Utente, l'applicazione \u00e8 uno strumento tecnologico che mette in contatto remoto assistito e medico  dando informazioni utili alla valutazione dei sintomi agli operatori sanitari. Non si sostituisce all'azione del sistema sanitario ma la supporta. Ci dispiace che lei non lo comprenda.  Distinti saluti",
@@ -890,7 +890,7 @@
     {
         "reviewId": "gp:AOqpTOFQHOn83qJjiVvpHb-8OOevNq2aExhPnP3jYxklX7LwmeG70TUA4Pikfw4gYgQmKvaSBDVS2tnUNs6qgw",
         "userName": "Alberto Tucci",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GieEh_G-Xlje5qpr-wvJLtymOe1-8IIGasQlL-Pi-E",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gg5HyspFo7rh7hYcP-NlN34fjpDF_ZpMi-vnNYGufM",
         "content": "Se funzionasse, l'idea non sarebbe male ma giusto per tenere un archivio di valori da presentare al medico. Invece dopo l'ultimo aggiornamento non vengono pi\u00f9 registrati valori del pulsossimetro e frequenza cardiaca. Non si capisce neanche cosa voglia dire valore MED nella registrazione della pressione arteriosa.",
         "score": 2,
         "thumbsUpCount": 2,
@@ -2929,7 +2929,7 @@
     },
     {
         "reviewId": "gp:AOqpTOFJfw5NUqzNHOWMPYltNNSD88VCyKKyp_c02E2ssnDdi8W5P-kNSdOQYkzNAHH2D31ziD6JkgXnD3ffqA",
-        "userName": "Mauro Vergari",
+        "userName": "Mauro Mauro",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GilTKmXbAkMv4Qr9lYzvy0uDZw3L9thdmhnRuY8",
         "content": "Non funziona l'attivazione tramite email: cliccando si ottiene \"impossibile trovare l'indirizzo IP del server di testlazioadvice.regione.lazio.it\"",
         "score": 2,
@@ -4006,18 +4006,6 @@
         "at": "2020-03-21 00:04:28",
         "replyContent": "Abbiamo appena rilasciato aggiornamento per il suo dispositivo, potrebbe per favore ripetere il processo di installazione.in caso di problema, invii una mail alla casella lazioadvice@regione.lazio.it indicato il recapito email utilizzato per l'attivazione. Un operatore la supporter\u00e0 nell'attivazione. Saluti",
         "repliedAt": "2020-03-21 08:03:28"
-    },
-    {
-        "reviewId": "gp:AOqpTOHIK1v7d01djlO5MLPs-4W9yUAKG73-5-D6hNOhDUdWgumV695xhkCzSZa5rEznesxHheTAyhEleEJiGw",
-        "userName": "Laura d'alessio",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gjig6WhdzFoToDbOxlwcUnmBFtrN-Q9AtmZEJSRsVU",
-        "content": "Grazie attivazione riuscita\ud83d\ude0a",
-        "score": 5,
-        "thumbsUpCount": 2,
-        "reviewCreatedVersion": "1.0.3",
-        "at": "2020-03-20 23:50:10",
-        "replyContent": "Abbiamo appena rilasciato aggiornamento per il suo dispositivo, potrebbe per favore ripetere il processo di installazione.  Saluti",
-        "repliedAt": "2020-03-20 23:19:50"
     },
     {
         "reviewId": "gp:AOqpTOFOeumCvbkDabc5MEqKmOTBrM1ieIEHeXwKXOrCTDH7wxaIjDTlXBTCaifCODPIasVg9_GiWJboVmTMfA",

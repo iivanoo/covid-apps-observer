@@ -131,6 +131,8 @@ The COVID-19 Symptom Tracker app has been installed by more than **10000** times
 <img src="5_star_reviews_wordcloud.png" alt="com.designit.covid_19 5 reviews"/>
 </p>
 
+> Winkelnkemper hildegard<br> :date: __2020-06-25 16:08:07__
+
 > Top-Bin Begeistert :-) weiter so.update,seit ca 1 Woche klingelt das Handy bis zu 20 x und mehr durchgehend, wenn die Tägliche Nachricht kommt,warum auch immer.Jetzt sieht es so aus das keine tägliche Nachricht mehr kommt,man muss selber immer dran denken<br> :date: __2020-06-18 17:30:36__
 
 > Ich finde diese Corona App sinnvoll und gut<br> :date: __2020-06-17 10:35:16__
@@ -144,8 +146,6 @@ The COVID-19 Symptom Tracker app has been installed by more than **10000** times
 > Super<br> :date: __2020-05-04 13:16:29__
 
 > Nachdem ich die Benachrichtigungen abgestellt hatte, war der morgendliche Dauergong verschwunden! Als Alumnus der Uni FR unterstütze ich das Projekt gerne. Auch wenn ich stark glaube, dass ich von Mitte bis Ende Februar auf Grund eines vorherigen Auslandaufenthaltes die Krankheit durchgemacht habe. An eine offizielle Bestätigung war damals noch nicht zu denken.....<br> :date: __2020-05-03 21:14:17__
-
-> Ich finde die app gut es macht auch Spaß und wenn ich dadurch helfen kann ist das eine gute Sache<br> :date: __2020-05-02 18:34:17__
 
 > Sehr gute App funktioniert einfach gut und für die Gesundheit macht man viel und man nimmt sich die paar Sekunden dafür<br> :date: __2020-04-30 18:41:10__
 
@@ -217,6 +217,10 @@ The COVID-19 Symptom Tracker app has been installed by more than **10000** times
 <img src="1_star_reviews_wordcloud.png" alt="com.designit.covid_19 1 reviews"/>
 </p>
 
+> Ich deinstallier das wieder..., hab keine Lust mehr. Wenn ihr unbedingt Informationen wollt, dann gebt dem Affen Zucker ;-)<br> :date: __2020-06-27 18:10:36__
+
+> Ich mache schon Seit 52 Tagen mit und es steht immer noch da wir Bearbeiten gerade die Kernzahlen finde die app gut aber es tut dich nicht viel<br> :date: __2020-06-25 08:06:01__
+
 > Nach ein paar Wochen, hat die App ein anderes Profil angezeigt. Keine Korrektur bei Fehleingaben möglich. Im Moment würde ich die App nicht wieder installieren.<br> :date: __2020-06-12 16:51:57__
 
 > Ausgrenzung der Personen wie es geworben ist per Bluetooth funktioniert gar & überhaupt nicht. Deinstalliert.<br> :date: __2020-06-09 05:19:18__
@@ -232,9 +236,5 @@ The COVID-19 Symptom Tracker app has been installed by more than **10000** times
 > Sollte uns helfen!? Nachtrag: Jedes mal die gleichen Fragen! Der Sinn erschließt sich mir nicht! Deinstalliert!!!<br> :date: __2020-05-17 09:53:07__
 
 > Ich verstehe den Sinn der App nicht so Recht... Ich beantworte jeden Tag die Fragen und was passiert? Genau... Nix...<br> :date: __2020-05-14 22:04:34__
-
-> Lösche ich.<br> :date: __2020-05-10 06:50:38__
-
-> Tja... Ich weiß nicht, was soll diese App bringen? Sie steckt voller bugs und der Support antwortet nur, wenn er gerade will!<br> :date: __2020-05-06 11:52:33__
 
 

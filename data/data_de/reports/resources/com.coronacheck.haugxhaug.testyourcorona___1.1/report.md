@@ -126,11 +126,13 @@ The Corona Check Screening app has been installed by more than **5000** times. A
 <img src="5_star_reviews_wordcloud.png" alt="com.coronacheck.haugxhaug.testyourcorona 5 reviews"/>
 </p>
 
+> hildegard w Sabine orthopadie<br> :date: __2020-06-25 18:19:41__
+
+> Dies ist NICHT die Corona-Warn-App der Bundesregierung, sondern die Corona Check App, die in Kooperation mit dem Landesamts für Gesundheit und Lebensmittelsicherheit entstanden ist! Und sie funktioniert :-)<br> :date: __2020-06-22 14:47:02__
+
 > Auch wenn es gedauert hat .... aber wenn was gut und zuverlässig funktionieren soll braucht es halt zeit .... und ich bin positiv überrascht diese app können sogar die etwas älteren Mitbürger und bürgerinin problemlos bedienen.... gut 👍 gemacht<br> :date: __2020-06-16 13:10:04__
 
 > Für mich ist die APP sehr interessant und wichtig, man kann vieles nach lesen auch was in meinem Bundesland wichtig ist. Danke<br> :date: __2020-06-16 12:34:10__
-
-> Dies ist NICHT die Corona-Warn-App der Bundesregierung, sondern die Corona Check App des Landesamts für Gesundheit und Lebensmittelsicherheit! Und sie funktioniert :-)<br> :date: __2020-06-16 08:49:46__
 
 > 👍<br> :date: __2020-06-15 17:56:01__
 
@@ -143,8 +145,6 @@ The Corona Check Screening app has been installed by more than **5000** times. A
 > Nützlich<br> :date: __2020-06-05 09:35:48__
 
 > 👍👍👍👍👍👍<br> :date: __2020-05-30 22:18:53__
-
-> Klasse App. Kann man nur weiterempfehlen<br> :date: __2020-05-29 12:19:03__
 
 
 
@@ -188,6 +188,8 @@ The Corona Check Screening app has been installed by more than **5000** times. A
 <img src="1_star_reviews_wordcloud.png" alt="com.coronacheck.haugxhaug.testyourcorona 1 reviews"/>
 </p>
 
+> Müll Infos wie uberall<br> :date: __2020-06-22 21:22:52__
+
 > Diese App hat NICHTS mit der Corona warn app der Bundesregierung zu tun. Diese App möchte bewusst fälscherweise diesen Eindruck erwecken um an Daten zu kommen.<br> :date: __2020-06-16 23:42:15__
 
 > Achtung Fake! Das hier ist nicht die App der Regierung. Die richtige App ist von RKI und heißt Corona-warn-App<br> :date: __2020-06-16 21:19:35__
@@ -205,7 +207,5 @@ The Corona Check Screening app has been installed by more than **5000** times. A
 > Reinste Daten sammel Maschine selbst meine viren Schutz App hat diese app als riskant und gefährlich eingestuft Warnungen waren Daten Sicherheit und eventuell Malware Zum Glück wurde die app von der App gleich gelöscht<br> :date: __2020-06-15 19:55:00__
 
 > Um weiterhin allgemeine Sicherheit und Stabilität zu gewährleisten wird die Republik umgestaltet werden, und zwar zum ersten galaktischen Imperium. ZUM WOHLE UND NUTZEN EINER STABILEN UND SICHEREN GESELLSCHAFT.<br> :date: __2020-06-15 13:31:27__
-
-> Eine App die sehr fragwürdig ist. Was hat corona mit meiner Schulbildung zu tun? Warum will sie auf meinen Standort zugreifen wenn sie doch nicht auf tracking basiert? Finger weg von der App, die wollen nur Daten sammeln.<br> :date: __2020-06-15 12:05:15__
 
 

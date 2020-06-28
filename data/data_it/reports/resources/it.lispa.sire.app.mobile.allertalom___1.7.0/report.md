@@ -160,6 +160,14 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <img src="5_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 5 reviews"/>
 </p>
 
+> Vorrei fare le vacanze in Calabria come midevo compore<br> :date: __2020-06-26 21:00:11__
+
+> Tutto funziona perfettamente!<br> :date: __2020-06-26 16:58:45__
+
+> Applicazione aggiornata in data 22/04 funziona perfettamente, grazie della mail inviata per L aggiornamento, spero presto di essere parte della protezione civile, in data 24/06 ho superato i test per il corso volontario di protezione civile, presto dei vostri<br> :date: __2020-06-25 14:10:44__
+
+> Al momento utile.<br> :date: __2020-06-25 07:17:16__
+
 > Ottimo per conoscenza della situazione degli allertamenti<br> :date: __2020-06-21 22:53:53__
 
 > Molto utile<br> :date: __2020-06-21 21:28:18__
@@ -172,14 +180,6 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 
 > Chiara, di facile lettura ed utilissima<br> :date: __2020-06-15 18:31:46__
 
-> Il test sierologico vale come tampone? Cordiali Saluti<br> :date: __2020-06-15 06:48:49__
-
-> Eccezionale, con questo Coronavirus che ha fatto milioni di morti nel mondo<br> :date: __2020-06-14 13:17:04__
-
-> Bv<br> :date: __2020-06-12 02:57:47__
-
-> oggi la situazione almeno per le persone che mi stanno attorno sembra notevolmente migliorata Mia moglie ogni tanto ha il naso che gli cola ma subito dopo passa tutto..Io ogni tanto ho qualche fastidio alla laringe ma sono mesi che non peggiora anzi sembra migliorare I miei figli e i miei quattro nipoti non hanno alcun sintomo che possa collegarsi al Covid.19 Anche nel mio condominio non ci sono casi o sintomi da come posso accertarmi io!!!Quindi speriamo BENE<br> :date: __2020-06-11 17:48:14__
-
 
 
 #### 4-star reviews
@@ -187,6 +187,10 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 4 reviews"/>
 </p>
+
+> 25/6/2020: i campi "condizioni mediche rilevanti" sono comparsi tutti deselezionati e non è permesso inviare dichiarazioni senza selezionarne uno. Allo stesso tempo non è permesso fare una selezione dopo avere già inviato una dichiarazione al servizio CercaCovid. Problema risolto cancellando i dati dell'applicazione.<br> :date: __2020-06-25 15:01:47__
+
+> Dopo questa modifica diciamo che già meglio, la cosa che mi lascia perplesso e perché si possa inserire solo un figlio chi ne ha due o piu cosa deve fare ?<br> :date: __2020-06-24 14:28:57__
 
 > Convinto della bontà del sito<br> :date: __2020-06-12 22:46:58__
 
@@ -203,10 +207,6 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 > belke playlist e relax<br> :date: __2020-05-27 22:37:28__
 
 > Veloce e facile da usare, una volta capito il meccanismo...<br> :date: __2020-05-27 17:21:10__
-
-> Mi piace<br> :date: __2020-05-18 17:50:44__
-
-> Ottima<br> :date: __2020-05-18 12:07:43__
 
 
 
@@ -272,6 +272,10 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <img src="1_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 1 reviews"/>
 </p>
 
+> Non è migliorata, ma perché non pensate a liberare tutti i ragazzi giovani chiusi da 5 mesi nelle comunità? Li dentro c'è mio figlio invalido civile ma semi indipendente come tutti gli altri. Aprite le comunità e fate tornare a casa i ragazzi, che per colpa di non so chi, mio figlio lo state debilitato. Liberi tutti e non solo i boss, immigrati, carne e pesce che puzza. Liberate immediatamente tutti i ragazzi giovani.<br> :date: __2020-06-26 19:59:23__
+
+> Svegliatevi cittadini italiani,(come ci chiamano i nostri governanti intellettuali ). Non fatevi prendere in giro è un'app al solo scopo contrario alla nostra libertà, e tantomeno alla nostra salute.<br> :date: __2020-06-23 10:10:03__
+
 > Buongiorno è possibile sapere come salvare il comune preferito e ricevere le notifiche una volta x tutte? Grazie Ma è quello che faccio ogni volta che apro l'app... non dovrebbero rimanere.... anche le notifiche le salvo ogni volta e non arrivano....<br> :date: __2020-06-19 00:09:38__
 
 > Siccome non mi collego ogni giorno, quando entro mi chiede ogni volta di registrarmi, questa utenza è di proprietà del Comune di Palazzolo sull'Oglio e io sono il Funzionario del Patrimonio e della P.C., come mai ho sempre questo disguido?? Il cel e un Samsung Galaxy A5 con sistema Android, dovrebbe essere abilitato per queste App. Mi potete dare una risposta. GRAZIE e buon lavoro.<br> :date: __2020-06-17 12:55:03__
@@ -287,9 +291,5 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 > Questa app non ti da la possibilitá di raccontare quello che ti ha successo veramente...mio marito a marzo era con la febbre e di sei fratelli 4 con febbre, io con la congiuntivite e reffredore, mio dottore portato con la ambulanza (guarita grazie a Dio) mio vicino di casa morto con el covit, in mio paese di solo 3 mila anime a Marzo 22 persone sono morte, solo sentivamo le campane dei morti e ambulanze...si parla sempre delle ultime due settimane e quello di prima?<br> :date: __2020-06-10 18:34:16__
 
 > Ogni volta che si avvia è come fosse la prima volta,richiede permessi e preferenze. Ma possibile che non si possa fare di meglio nel 2020 in Lombardia?Assurdo.<br> :date: __2020-06-10 14:07:35__
-
-> E niente, ogni volta bisogna reinserire la gran parte dei dati. Tenerli memorizzati e modificare solo quelli che eventualmente cambiano è così complicato? Disinstallata, molto meglio la professionalità di Immuni.<br> :date: __2020-06-09 21:16:56__
-
-> Si blocca sempre. Pessima.<br> :date: __2020-06-07 14:31:56__
 
 

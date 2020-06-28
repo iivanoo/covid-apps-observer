@@ -163,6 +163,8 @@ The Coronika - Dein Corona Tagebuch app has been installed by more than **10000*
 <img src="5_star_reviews_wordcloud.png" alt="de.kreativzirkel.coronika 5 reviews"/>
 </p>
 
+> Gute App, leicht zu handhaben<br> :date: __2020-06-25 10:16:17__
+
 > Ich nutze die App nun schon eine Weile. Es ist schön, dass kein tracking oder tracing notwendig ist. Natürlich bedarf es einer größeren Disziplin während oder am Ende des Tages alle Aktivitäten und Kontakte einzutragen. Gerade habe ich mir das aktuelle Update heruntergeladen und hoffe, dass man an der einen oder anderen Stelle Korrekturen vornehmen kann.<br> :date: __2020-06-18 11:15:16__
 
 > App okay<br> :date: __2020-06-17 17:56:41__
@@ -181,8 +183,6 @@ The Coronika - Dein Corona Tagebuch app has been installed by more than **10000*
 
 > Sehr hilfreich, ein Verbesserungstip noch: es wäre hilfreich, wenn eine zeitliche Komponente beim Ort von.... Uhr bis...... Uhr möglich gäbe.<br> :date: __2020-04-02 18:35:07__
 
-> Ich helfe gerne. Super app.habe schon eine installiert<br> :date: __2020-04-02 15:39:12__
-
 
 
 #### 4-star reviews
@@ -190,6 +190,8 @@ The Coronika - Dein Corona Tagebuch app has been installed by more than **10000*
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="de.kreativzirkel.coronika 4 reviews"/>
 </p>
+
+> Gerne über zwei Monate geführt.Dann kam die Warn-App und die Coronica-App ging nicht mehr zu bedienen.Vielleicht beabsichtigt,deshalb deinstalliert..<br> :date: __2020-06-22 17:27:33__
 
 > Die PDF-Exportdatei wird im Download-Verzeichnis nicht angezeigt. Nur über einen Dateimanager kann ich sie finden Die App ist sonst gut gemacht. Mir sind sowieso manuelle Kontakt-Tagenücher lieber; nur so findet man die Hotspots. Im Falle einer Infektion muß man dem Gesundheitsamt sowiso alle Kontakte selber bekannt geben, da tut dieser Report gute Dienste. Also weiter so! Nach dem letzten Update waren jedoch alle Eintragungen gelöscht. Viel Fleißarbeit, alle Eintragungen wieder herzustellen.<br> :date: __2020-06-19 20:35:11__
 
@@ -208,8 +210,6 @@ The Coronika - Dein Corona Tagebuch app has been installed by more than **10000*
 > Ganz ok, aber reicht nicht! Bitte eine Bluetooth Funktion hinzu fügen, die andere in der Nähe erkennt, die gefärdet waren sind oder sogar erkrankt sind. Diese werden anonym an die anderen Kontakte gemeldet... Ungefähr so arbeitet der Virus in seiner Verbreitung, schlagen wir ihn mit seinen eigenen Waffen...<br> :date: __2020-04-06 18:46:18__
 
 > Ich gebe 4 Sterne, weil die App genau das macht, was sie verspricht, nur etwas zu umständlich. Ich führe selbst schon mit einer nornalen Tagebuch-App Tagebuch, das ist das gleiche. Der Grund weswegen ich mir diese App geholt habe war die Hoffnung, dass hier Informationen geteilt werden. In meiner 200.000 Einwohnerstadt gibt es weniger als 200 Infizierte und einen Toten, aber die ganze Stadt steht still. Sollen sie doch sagen, auf welcher Parkbank sie saßen und schon steckt sich keiner an.<br> :date: __2020-04-06 13:24:41__
-
-> Einfaches und sinnvolles handling. Sicher im "Alarmfall eine gute Hilfe". Toll wäre noch eine Alarmfunktion, wenn in Region, Land, Bund neue Erkenntnisse oder Maßnahmen erfolgen. Nachtrag: Die Zeitangaben sollten Beginn und Ende beinhalten. Ebenso wäre noch eine Komentarfunktion hilfreich.<br> :date: __2020-04-02 13:06:05__
 
 
 

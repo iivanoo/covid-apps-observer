@@ -174,6 +174,10 @@ The COVID-19.eus app has been installed by more than **50000** times. At this ti
 <img src="3_star_reviews_wordcloud.png" alt="com.erictelm2m.colabora 3 reviews"/>
 </p>
 
+> Tenía instalada la aplicación, pero me avisa de que debo descargarla otra vez porque ha expirado, lo hago pero sigue diciéndome lo mismo.<br> :date: __2020-06-28 14:42:08__
+
+> Lo último que me dice es que la sesión ha expirado y que desinstale y vuelva a instalar..<br> :date: __2020-06-27 22:50:42__
+
 > No puedo cambiar un familiar a home si vive en mi casa, si pudiese hacerlo le daría más estrellas<br> :date: __2020-06-11 10:47:28__
 
 > Esta bien, Le falta mejoras como poder editar tu información y que se lea mejor el texto para que sea una aplicación familiar y confortable.<br> :date: __2020-06-08 03:08:14__
@@ -190,10 +194,6 @@ The COVID-19.eus app has been installed by more than **50000** times. At this ti
 
 > No deja bajar ni ver los informes en Pdf y el menu de ayuda no funciona...<br> :date: __2020-05-23 19:46:09__
 
-> El apartado de círculos creo que no funciona bien. Intento, al menos, rellenar el círculo de familia y me dice que ya los tengo en contactos pero no me aparecen en el círculo, siempre está vacío. Por otras opiniones también ocurre a mas gente.<br> :date: __2020-05-16 11:25:04__
-
-> La han mejorado, pero sigue siendo muy difícil (por no decir imposible) agregar a contactos que ya tienen la app a tus círculos. Por favor, SI NO FUNCIONA BIEN, SI NO ES FÁCIL, NO SE USARÁ. Y entonces esta app no servirá de nada, cuando la idea es muy buena. Estimados desarrolladores, por favor, intenten arreglar o facilitar el sistema de agregar contactos a los círculos (no únicamente mandar las invitaciones). Gracias.<br> :date: __2020-05-15 12:38:05__
-
 
 
 #### 2-star reviews
@@ -201,6 +201,10 @@ The COVID-19.eus app has been installed by more than **50000** times. At this ti
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="com.erictelm2m.colabora 2 reviews"/>
 </p>
+
+> Desde ayer no funciona. Dice que la sesión ha expirado y que la desinstale y la vuelva a instalar. A pesar de haberlo hecho varias veces no funciona. Por otro lado, a la hora de añadir personas a los círculos debería dar la posibilidad de añadirlos sin teléfono puesto que si son personas mayores seguramente o tienen un móvil o no tienen ninguno; y por otro lado, es posible que la gente de mis círculos no quiera que le lleguen notificaciones para instalar la app.<br> :date: __2020-06-28 18:03:44__
+
+> Me ha aparecido un mensaje que la sesión ha expirado, que desinstale y vuelva a instalar. Y sigue apareciendo ese mensaje que imposibilita un uso correcto. Se rogaría un arreglo o, al menos, una explicación en la ayuda de la app.<br> :date: __2020-06-27 21:15:54__
 
 > A mi me sale que tengo 3 contagiados en mi zona no en mis conctactos eso como lo tengo que tomar<br> :date: __2020-06-10 23:59:50__
 
@@ -218,10 +222,6 @@ The COVID-19.eus app has been installed by more than **50000** times. At this ti
 
 > Mientras no sea fácil incorporar los contactos de la agenda no resulta útil. Hay que escribir el teléfono sin verlo ya que no se puede seleccionar si el contacto tiene más de un teléfono. Estaría bien la gestión de las invitaciones y más ahora que es la propia APP quien te invita a tener los círculos "ordenados".<br> :date: __2020-05-05 14:35:25__
 
-> Ya accede a la agenda de contactos , ok, pero a lo que le refiero es que si en una persona de la agenda tienes varios números guardados, no deja seleccionar uno de ellos, si que la aplicación selecciona uno. En ocasiones puede ser que ese número no sea el que quieres, por ejemplo, un teléfono fijo o de trabajo.<br> :date: __2020-05-04 13:40:28__
-
-> Prácticamente no sirve de nada si no permite importar la agenda. La idea es buena.<br> :date: __2020-04-25 19:31:50__
-
 
 
 #### 1-star reviews
@@ -229,6 +229,12 @@ The COVID-19.eus app has been installed by more than **50000** times. At this ti
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="com.erictelm2m.colabora 1 reviews"/>
 </p>
+
+> No se si sirve de algo porque la ultima actualizacion me aparece con la fecha de la primera descarga. Algo pasa con la instalacion. Me dice que ha expirado, que "desinstale y vuelva a instalar," pero lo hago y sigue diciendo lo mismo. Que ocurre?<br> :date: __2020-06-28 15:50:50__
+
+> Muy bien hasta hoy, que me sale un mensaje que dice que la sesión ha expirado y que desinstale y vuelva a instalar, lo he hecho y me sigue saliendo lo mismo...<br> :date: __2020-06-28 13:08:47__
+
+> Me dice que tengo que actualizar y, después de borrarla y volver a descargar, me vuelve a decir lo mismo. La quito porque no sirve para nada.<br> :date: __2020-06-27 16:04:01__
 
 > Mala. No deja añadir los contactos a los círculos. El desarrollador @osakidetza.eus no responde los mails de problemas.<br> :date: __2020-06-18 11:12:42__
 
@@ -243,11 +249,5 @@ The COVID-19.eus app has been installed by more than **50000** times. At this ti
 > ¿Cómo es posible que aparezca en mi play como instalada si yo no lo he instalado (con otra cuenta, no con la que estoy escribiendo)? ¿Qué relación tiene esto con lo que aparece en Ajuste/ Google, "Notificaciones de exposición al COVID-19"? Si tiene alguna, que parece que sí, ¿que papel tiene Google? ¿Por qué hace falta su colaboración? Tengo decenas de apps que pueden notificar cosas sin que Google tenga que configurar nada en mi cuenta. ¿Dónde hay datos técnicos que demuestren la confidencialidad? ¿Cuando avisa de que he estado cerca de un infectado, cómo sabe dirigirse a mi teléfono si los identificadores compartidos son anónimos? ¿A través de qué servidores lo hace?<br> :date: __2020-05-28 12:56:42__
 
 > No sirve para nada. Parecía buena iniciativa por parte del GV pero... Se queda en un sueño...<br> :date: __2020-05-25 13:36:56__
-
-> No me deja corregir errores.<br> :date: __2020-05-16 14:32:41__
-
-> No le veo utilidad. No la usa mi ha gente.<br> :date: __2020-05-16 13:58:39__
-
-> Al agregar una solicitud, me dice k el usuario ya está agregado o tiene una invitación pendiente. Y no es así. Lo intenta mi contacto y me dice lo mismo. No agrega bien los contactos. Si esta es la fiabilidad que tiene, igual no merece la pena instalarla... una pena<br> :date: __2020-05-13 19:43:48__
 
 

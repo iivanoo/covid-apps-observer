@@ -130,25 +130,25 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 <img src="5_star_reviews_wordcloud.png" alt="au.gov.health.covidsafe 5 reviews"/>
 </p>
 
-> Good app 👍 made me feel 💯. The things is only use more 🔋 battery than normal.<br> :date: __2020-06-22 00:41:26__
+> Excellent<br> :date: __2020-06-28 15:15:15__
 
-> Check out the new Australia+tick notification icon !<br> :date: __2020-06-21 23:10:04__
+> I have had this app since the beginning. I've had no problems, maybe a bit more battery use. Happy to help and everyone else should help too!!!!<br> :date: __2020-06-28 06:02:51__
 
-> Super<br> :date: __2020-06-21 15:08:59__
+> Works great with my phone, sad to hear others with different phones have issues<br> :date: __2020-06-28 03:47:13__
 
-> love it so much<br> :date: __2020-06-21 12:51:56__
+> Safe Australia.<br> :date: __2020-06-27 15:28:44__
 
-> Worthy aim and a way we can all help. Version 1.0 28 is even more stable for me. 1.0.21 stays alive long enough to be useful. Still stops working after several hours and rebooting is needed to get going again. Version 6.0.1 of Android. Err message flashes with description "Unfortunately, Bluetooth Share has stopped". In this state I couldn't even answer a call. Very little usefulness for my Motorola Moto G 3rd generation. Tried with versions 1.0.1, 1.0.16, 1.0.17 with no success. Still hopeful.<br> :date: __2020-06-21 12:47:13__
+> Twenty five stars<br> :date: __2020-06-27 08:31:09__
 
-> A good use of technology to help reduce the spread of this disease. Leaving bluetooth on sure drains the battery though. This latest version solved the previous problem of unexpectedly closing.<br> :date: __2020-06-21 12:02:36__
+> App has no issues on my phone, and working in the background, despite what some people believe (battery draining is the main one), my phone has not drop its charge that was noticeable by me. In order for it to work effectively, more people needs to download it. It is not working as it should because people are too worried about 'privacy'. The app is 'contact traCING', not 'personal information traCKING'. Don't blame the app for not working, look at the people that don't have it.<br> :date: __2020-06-27 08:27:55__
 
-> Seems to work fine. Hope never to find out....<br> :date: __2020-06-21 11:53:01__
+> Great<br> :date: __2020-06-27 07:12:06__
 
-> Doesn't drain battery, faster than usual anyway have not noticed it causing any additional issues that I can attribute to this app. Stays on all the time. Have never had to restart.<br> :date: __2020-06-21 01:26:33__
+> Latest update fixed the previous problem of crashing. Thanks for that. Working well again. Well, not sure if it's working because nobody I've ever encountered had the virus, so how would I know? But, this app is a good idea and if it says it's doing it's job then that's fine with me.<br> :date: __2020-06-27 03:15:32__
 
-> Brilliant!! Thank you 😁<br> :date: __2020-06-20 15:29:37__
+> Onya Scotty<br> :date: __2020-06-27 01:47:13__
 
-> Zero issues. Works as intended. Some initial issues with Bluetooth streaming audio but these are easily overcome with updates and firmware updates on speakers.<br> :date: __2020-06-20 12:55:42__
+> ممتاز<br> :date: __2020-06-26 15:53:43__
 
 
 
@@ -158,25 +158,25 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 <img src="4_star_reviews_wordcloud.png" alt="au.gov.health.covidsafe 4 reviews"/>
 </p>
 
+> On my Note 10, I don't have any of the problems others mention about bluetooth drop outs to car or Senheisser headphones or Samsung Watch, the only problem I have is the app doesn't start up when I restart the phone, I rarely restart so not a big problem.<br> :date: __2020-06-28 04:21:25__
+
+> The app conflicts with my Bluetooth headphones, here's the fix: Settings > apps > force stop. Remember to turn the app back on when you go outside. Good luck everyone.<br> :date: __2020-06-27 08:52:54__
+
+> I don't mind the app but I don't understand wire displays how many minutes and the time when I pull down my home screen and it's running in the background what do the minutes mean? Eg: covidsafe 12m ??<br> :date: __2020-06-24 17:17:19__
+
+> Excellent<br> :date: __2020-06-24 08:54:38__
+
+> I installed this app, hoping people do the right thing. If they have the virus they too should install and updated information for the public to know about it. Noone knows who the infected person/s are, but you are made aware that someone near you is.<br> :date: __2020-06-23 14:53:07__
+
+> Always on keeping myself and others safe<br> :date: __2020-06-23 09:13:15__
+
+> Great idea. But my phone keeps turning it off<br> :date: __2020-06-22 17:07:55__
+
+> The app is very good and I never had any problem with it. But since I installed it about 2 months ago it didn't give any warning about people having the Covid19 around me, in which I guess not much people using it.<br> :date: __2020-06-22 09:41:52__
+
 > A work in progress, be patient folks<br> :date: __2020-06-19 02:30:01__
 
 > I'll give 5 stars when @VictorianCHO's (and/or other states') contact tracers release evidence clearly demonstrating that it is an effective, and cost effective, adjunct to manual contact tracing, and thus can a) help put asymptomatic carriers into quarantine, and b) extinguish hot spots more quickly. Their hype, my hope. Happy since v1.0.16 that it no longer nags to switch on GPS. v1.0.11 did. On this Samsung S5 the Bluetooth BLE being "on" doesn't cut battery life. [Redacted 15 June '20]<br> :date: __2020-06-15 05:57:03__
-
-> Tip: as the app conflicts with my Bluetooth headphones. You can go to settings > apps > force stop. As needed. An official fix would be nice 😊<br> :date: __2020-06-14 07:10:17__
-
-> Workwell I haven't met anyone with the virus<br> :date: __2020-06-12 12:48:54__
-
-> Good to see the latest update to include older android versions seems to be working my bluetooth headset stops playing for a second when someone's close<br> :date: __2020-06-10 19:39:16__
-
-> This app is really smashing my battery life!<br> :date: __2020-06-09 11:14:01__
-
-> Easy to use, simple<br> :date: __2020-06-09 02:46:49__
-
-> The app crashes on launch for me now. EDIT: I fixed this by clearing the apps data from storage, but that of course means that all contacts I've logged over the past few weeks have been lost.<br> :date: __2020-06-08 13:35:39__
-
-> Please remove it from the notification tray it is annoying, the small symbol above like wifi bluetooth ect is fine. Happy to help fellow Aussies. 5 stars if that is fixed.<br> :date: __2020-06-08 04:40:44__
-
-> Mmm<br> :date: __2020-06-08 02:57:17__
 
 
 
@@ -186,25 +186,25 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 <img src="3_star_reviews_wordcloud.png" alt="au.gov.health.covidsafe 3 reviews"/>
 </p>
 
+> Useless<br> :date: __2020-06-28 01:05:52__
+
+> Might be useful, but can't be sure. I've installed this app and so far haven't got Covid 19 (that I know of). Registration was easy, and can be done using a pseudonym. Battery usage is quite low. Ongoing notification to tell you that it is working, and will let you know if it stops working (eg. you turn off Bluetooth). However, the icon (Australia with tick) shows whether it is working or not (eg. When Bluetooth turned off).<br> :date: __2020-06-27 14:26:06__
+
+> Doesn't work properly<br> :date: __2020-06-26 18:15:48__
+
+> This app is causing too many problems with Bluetooth devices.. Ever since I installed the app, my car can't connect automatically so I have to manually do it every time. The same goes for my Fitbit...<br> :date: __2020-06-23 11:28:33__
+
+> The app doesn't start automatically, this is a pretty fatal flaw<br> :date: __2020-06-23 05:32:28__
+
+> It keeps stopping, several times a day. I'd like to do the right thing and run this app, but it's not helping.<br> :date: __2020-06-23 03:49:26__
+
+> The app forces my Bluetooth to disconnect heaps making the use of Bluetooth devices a pain in the backside, but other than that it's great.<br> :date: __2020-06-22 16:06:42__
+
+> Makes my samsung play up. Have to uninstall and re install whenever needed<br> :date: __2020-06-22 07:41:37__
+
+> The app would be useful if it didn't turn off by itself. It's kind of missing the whole purpose.<br> :date: __2020-06-22 03:03:55__
+
 > Not sure it is working properly. Everytime I decide to check in on the app, it says battery optimiser is on and it's not working. I then put this on but it goes back to off again. Also there is no way in settings to make sure this app doesn't get this treatment. Ahh!!<br> :date: __2020-06-22 01:48:43__
-
-> Why does it keep stopping? I support the use of this app, but it keeps stopping. Even though battery optimisation is on in my settings, the app keeps requesting I turn optimisation on. After being out for 4 hours yesterday, I found that the app wasn't activated because it had turned itself off. Now if I was in contact with anyone who is diagnosed with covid-19 I'll never know.<br> :date: __2020-06-21 23:39:05__
-
-> Interferes with Bluetooth when using video or audio playback causing pauses in the playback. Samsung s10.<br> :date: __2020-06-21 15:13:59__
-
-> I keep getting flash notifications "connected to null" "disconnected to null". I'm guessing this is the 'handshake'' thing it does. But it's very frustrating. Flashing up every 15-60 seconds. It's come up 8 times while typing this. I don't want to, but I'll have to delete it.<br> :date: __2020-06-21 11:36:10__
-
-> Keeps becoming in activr<br> :date: __2020-06-21 02:43:51__
-
-> If I use 'Clean Master', will the data you guy's need be erased?<br> :date: __2020-06-20 05:13:18__
-
-> It keeps stopping, several times a day. Seems to be when I'm browsing other apps such as Twitter, Instagram or news. I'm not sure that it's much use anyway, if I need to be near someone for 15 minutes. For example, I went for a flu shot. I waited my turn, sitting 1.5m from other people, for less than 15 minutes. I was in the room with the nurse, up close, getting an injection, for less than 15 minutes. None of those contacts would have been logged.<br> :date: __2020-06-18 01:02:10__
-
-> I aint seen it do any thing just get u to down load so can track you<br> :date: __2020-06-18 00:04:56__
-
-> Bluetooth dropouts... Disappointing but I guess it serves its purpose..<br> :date: __2020-06-14 11:03:05__
-
-> Apps a good idea, I'm relying on this apps to keep my family and myself safe but it keeps on turning itself off.<br> :date: __2020-06-13 12:46:39__
 
 
 
@@ -214,25 +214,25 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 <img src="2_star_reviews_wordcloud.png" alt="au.gov.health.covidsafe 2 reviews"/>
 </p>
 
-> Whilst it may help keep us safe it does seem to be at the cost of hogging your bluetooth so nothing else will connect properly. As an essential worker I'm traveling into the city every day(a 2 hr trip) and this app means I can't listen to music. If I'm in the car the connection keeps dropping meaning I can't receive calls if I must. The only reason this doesn't get 1 start is that I appreciate it is to try and keep us safe.<br> :date: __2020-06-21 22:29:39__
+> Has not identify a single case in Victoria's outbreak<br> :date: __2020-06-28 14:07:51__
 
-> Had to uninstall. Constantly stopping and requires manual restart. Too frustrating.<br> :date: __2020-06-20 23:18:01__
+> I'm a first responder but deleted the app because of its bluetooth hogging and battery consumption issues, plus it seems to just stop working, especially after turning my phone into a pocket heater. I reckon this is exactly the sort of terribly optimised app we can expect from the government and as such it needs plenty of fixes before I reinstall it. Then of course there's the security side of things. Look at the government's track record with My Health and others being hacked, not good.<br> :date: __2020-06-28 08:46:32__
 
-> Covid safe can't even update itself! Really? Lift your game government!<br> :date: __2020-06-19 07:37:34__
+> Eventually my bluetòoth would not turn on.<br> :date: __2020-06-27 10:52:19__
 
-> With the COVIDSafe app installed I'm unable to install updates to any apps through the play store. Some notifications are repeating and others delayed or not received. After uninstalling COVIDSafe app and restarting phone am able to apply Play store updates and notification issues are resolved. I reinstall the app when going out but suspect that my historical data has been lost every time I uninstall the app.<br> :date: __2020-06-19 06:20:33__
+> I'm a bit concerned as how this app has inboxed people from my facebook messenger.. someone I have never spoken to received a message saying to join the covid safe app and prevent the spread, at 4.24am Friday. Along with several other people. I was asleep so unsure who or how it was sent to people 🤔<br> :date: __2020-06-27 07:03:31__
 
-> Just downloaded it, as I've been working from home since beginning of March, and back at work on Monday thought it was best I had it on the phone. But, will see how much battery it uses and how irritating it becomes if it does that is, before I up or down the star rating.<br> :date: __2020-06-19 01:39:35__
+> Now the app just keep crashing.<br> :date: __2020-06-27 04:27:47__
 
-> While it's a good idea, battery life is horrible now my phone is flat before 4pm usually 8/9pm before I need to charge my phone. My phone cuts out when using Bluetooth especially music. Sure with all the tech gurus there could be a better system.<br> :date: __2020-06-17 02:44:01__
+> This app makes my headphone sound stop for a few seconds every 20 secs once i block the app this stops happening<br> :date: __2020-06-26 05:17:39__
 
-> Buggy. (Motorola G 3rd Gen Android 6) Seems to work ok for 1 - 3 hours, but time is uncertain as phone rarely leaves my pocket. Then gives error message "Unfortunately bluetooth share has stopped" Phone is then locked and must be restarted to get any functionality. Bluetooth is active on restart. No other apps using bluetooth.<br> :date: __2020-06-16 09:30:42__
+> I'm all for this app, but it keeps turning off itself. Not sure if it is the issue with this new version or my new phone, but I couldn't figure out how to keep it running constantly.<br> :date: __2020-06-26 03:44:56__
 
-> flattened my battery. At least work out how to turn it off at night and then restart in the morning automatically. Sort of geo fence your home location<br> :date: __2020-06-15 04:15:20__
+> Ambiguous<br> :date: __2020-06-25 07:48:41__
 
-> It was ok at first, but i noticed lots of connectivity issues and CovidSafe was the last app installed, after uninstalling the app, connection issues appear to be resolved.<br> :date: __2020-06-14 08:21:30__
+> The app shuts off every time my phone goes to sleep, even though I've specifically given it permission to run in background in my settings. So we either walk around constantly on our phone in public or let ALL the apps run continuously, and recharge phone 3x a day because the battery is continuously drained. So if the app doesn't work properly half the time what's the point???<br> :date: __2020-06-24 21:48:19__
 
-> Keeps asking for battery optimisation permission everytime<br> :date: __2020-06-13 06:16:13__
+> Fairly useless. Turns off multiple times a day.<br> :date: __2020-06-24 09:00:15__
 
 
 
@@ -242,24 +242,24 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 <img src="1_star_reviews_wordcloud.png" alt="au.gov.health.covidsafe 1 reviews"/>
 </p>
 
-> It disappears after a short time. Unreliable<br> :date: __2020-06-22 00:04:08__
+> Tried to sign up but when I put in my phone number I got no verification pin, making the whole app entirely useless. I've tried following the steps on the FAQ but they don't work either. Cant tell if this is an OS issue or something with the app considering in stuck on Android 9<br> :date: __2020-06-28 17:02:53__
 
-> Really WANT to use the app, think it's a good idea but am unable to register. The app doesn't reject my mobile phone number - it tells me it's sent the PIN to my number, which is shown correctly on the screen, but the PIN doesn't arrive. Tried wifi & mobile data, with 0 at front of my number & without, done clean reinstalls, phone (Nokia 6, Android 9) software up to date - no luck. Support unhelpful. UPDATE 23 May: Still can't to register, emails now ignored. 21 JUNE: Still can't register.<br> :date: __2020-06-21 11:18:07__
+> I'm losing faith that this works. Show me the proof!<br> :date: __2020-06-28 16:29:37__
 
-> Dependent on bluetooth connectivity too much for this app to have it constantly crashing. Always disconnecting from other devices. Uninstalling this app until reviews advise it's working better<br> :date: __2020-06-21 09:29:32__
+> Im a Android user app wont even let me continue after entering info on first page useless<br> :date: __2020-06-28 15:52:33__
 
-> Apparently useless. Uninstalled.<br> :date: __2020-06-21 03:05:20__
+> If this actually showed something to prove it was working, say IDs or part of Id of other devices it had a handshake with or something such as the number of hand shakes or some other stat info that could prove it was actually doing something it would extremely helpful as it stands it is a blackhole app that appears on this unit to keep stopping unless in the foreground, not what one wants from something like this.<br> :date: __2020-06-28 13:11:26__
 
-> I'm not happy with the app using Bluetooth they should use the location instead Bluetooth is easy for hackers<br> :date: __2020-06-21 01:57:50__
+> Drains the battery without providing any helpful information<br> :date: __2020-06-28 12:00:25__
 
-> Cannot get it my LG Android phone<br> :date: __2020-06-20 12:16:36__
+> I am continually getting 'connected to null ' and 'disconnected from null ' messages all the time on my phone, it disrupts what I am trying to read on screen. I end up turning Bluetooth off when not out in the public to prevent it happening. It is very annoying, I have emailed support covid, but no response so far.<br> :date: __2020-06-28 11:22:51__
 
-> Whilst the purpose of this app is fantastic it interferes with the playback of music through Bluetooth headphones or the Bluetooth connection in the car. It causes drop outs that last up to 5 or so seconds and this is really frustrating. I uninstalled the app because of this and have only reinstalled it to leave feedback. I will be uninstalling it after this.<br> :date: __2020-06-20 01:15:45__
+> It drained my battery.<br> :date: __2020-06-28 09:52:32__
 
-> 28 versions of this app so far and still not working properly. Nobody stay next to me for less than 4 minutes so pointless having it on. It is on my phone so why do you want it.<br> :date: __2020-06-19 19:02:20__
+> Very ordinary. My Bluetooth turns off and it never prompts. Often isn't running. Basically a dud app and of little use. And I use android.apple is a total fail<br> :date: __2020-06-28 08:27:59__
 
-> App frequently stops. Bluetooth switches off unexpectedly. These issues together with the fact that it depends on close proximity for an extended period of time makes the app ineffective for its intended purpose. As stated elsewhere in these reviews, it only takes the time for a sneeze or a cough to become infected. Still have it installed but not as optimistic as those in power are. A very disappointing app.<br> :date: __2020-06-19 11:45:25__
+> I installed this to do my part. My phone became sluggish, the camera stopped working, and the battery life became about a fifth of normal. Uninstalled, everything went back to normal. Fix it!<br> :date: __2020-06-28 03:55:39__
 
-> Needs to use the Apple-Google API that other countries are adopting because it's the only one that works properly.<br> :date: __2020-06-19 11:28:45__
+> I am a firm believer in the concept behind this app. Like other users I am experiencing issues with the app closing. In addition, it interrupts my ability to connect to my car Bluetooth meaning I have no hands free use of my phone. Please fix asap.<br> :date: __2020-06-28 03:38:08__
 
 

@@ -197,25 +197,25 @@ The Luscii app has been installed by more than **50000** times. At this time, **
 <img src="5_star_reviews_wordcloud.png" alt="nl.focuscura.beeldbelapp 5 reviews"/>
 </p>
 
-> Fijn dat deze app er is....<br> :date: __2020-06-21 12:50:37__
+> werkt weer prima<br> :date: __2020-06-28 00:11:45__
 
-> Goede App voor Corona<br> :date: __2020-06-20 09:14:31__
+> Prima app, eenvoudig en doeltreffend<br> :date: __2020-06-26 10:43:50__
 
-> Prima app<br> :date: __2020-06-18 09:44:15__
+> Duidelijk en nuttige app<br> :date: __2020-06-25 21:01:19__
 
-> Vind Dit oké.<br> :date: __2020-06-17 16:50:21__
+> Makkelijk en snel!<br> :date: __2020-06-25 19:55:55__
 
-> Prettige app, houd je bij de actualiteit van het Covid '19. Zit al 13weken in thuisisolatie.<br> :date: __2020-06-16 12:43:54__
+> Ik. Vind het. Altijd. Moeilijk. Groetjes van alie Brinkman .<br> :date: __2020-06-25 00:11:58__
 
-> Makkelijk<br> :date: __2020-06-16 10:32:06__
+> Gemakkelijk in te vullen<br> :date: __2020-06-24 10:55:11__
 
-> Wordt meteen gebeld als de waardes niet goed zijn<br> :date: __2020-06-15 10:04:03__
+> Gebruikersvriendelijk en veel informatie<br> :date: __2020-06-24 10:35:37__
 
-> Prettig om op deze manier aan te geven hoe ik mij voel en wat mijn gedachtes daar over zijn.<br> :date: __2020-06-15 09:08:21__
+> Top<br> :date: __2020-06-23 21:32:38__
 
-> Super fijn zo hoef ik niet wekelijks naar het zh maar houden ze me daar toch in de gaten<br> :date: __2020-06-14 20:31:04__
+> Werkt goed en je heb zelf de controle over de app i.v.m corona app<br> :date: __2020-06-22 22:48:27__
 
-> Frequentie dagelijks lijkt wat veel. Bij geen klachten automatisch naar bv om de 3 dagen.<br> :date: __2020-06-13 15:58:04__
+> Goede app<br> :date: __2020-06-22 21:26:25__
 
 
 
@@ -224,6 +224,16 @@ The Luscii app has been installed by more than **50000** times. At this time, **
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="nl.focuscura.beeldbelapp 4 reviews"/>
 </p>
+
+> Goed en handig<br> :date: __2020-06-25 13:44:31__
+
+> Je houd jezelf op deze manier goed in de gaten<br> :date: __2020-06-24 10:06:15__
+
+> Gewoon goed!<br> :date: __2020-06-22 18:16:43__
+
+> Prima, ook bij geen klachten twee keer per week een melding<br> :date: __2020-06-22 17:45:17__
+
+> Heel pretig en gerusstelend<br> :date: __2020-06-22 09:15:05__
 
 > Goed initiatief<br> :date: __2020-06-18 12:31:05__
 
@@ -235,16 +245,6 @@ The Luscii app has been installed by more than **50000** times. At this time, **
 
 > Waren in eerste instantie veel meer gerichte vragen nu alleen maar 1 vraag waar alles in moet zitten. Klopt dat wel?<br> :date: __2020-06-15 09:19:46__
 
-> Wat omslachtig bij het invoeren.<br> :date: __2020-06-15 05:23:21__
-
-> Werkt zoals het moet. Alleen 1 ding. Je krijgt een alert met je resultaten. Daar klik je op. Vervolgens moet je ALTIJD naar boven scrollen om daadwerkelijk te lezen wat het resultaat is. De rest van de tekst is altijd hetzelfde. Dus of maak die boilerplate tekst korter, of zet de focus bovenaan.<br> :date: __2020-06-13 12:35:28__
-
-> Geruststellend.<br> :date: __2020-06-13 09:25:18__
-
-> Voelt goed, prima app. Zou graag de oude berichten vanaf 2 mei willen verwijderen en voor het gemak de antwoorden in 1x willen verzenden.<br> :date: __2020-06-13 06:53:15__
-
-> Prima app, werkt ook prima op een Android telefoon<br> :date: __2020-06-12 22:17:11__
-
 
 
 #### 3-star reviews
@@ -252,6 +252,10 @@ The Luscii app has been installed by more than **50000** times. At this time, **
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="nl.focuscura.beeldbelapp 3 reviews"/>
 </p>
+
+> Ik vind de vragen summier en vrij algemeen. Ook is het jammer dat jullie de app niet white label aanbieden zodat jullie klanten er hun eigen merk overheen kunnen leggen.<br> :date: __2020-06-24 14:56:37__
+
+> Tot voor kort uitstekend en gedetailleerde vragen. Nu veel te oppervlakkig.<br> :date: __2020-06-22 09:47:55__
 
 > Ben niet negatief of positief. App houd weinig rekening met andere klachten of ziektes<br> :date: __2020-06-19 17:37:44__
 
@@ -268,10 +272,6 @@ The Luscii app has been installed by more than **50000** times. At this time, **
 > Geeft een goed gevoel<br> :date: __2020-06-03 09:34:30__
 
 > Telkens apart invoeren is wat omslachtig en onlogisch.<br> :date: __2020-06-02 02:52:20__
-
-> Ik kan helemaal niks met de app. Alleen mijn eigen gegevens bekijken, de anderen schermen melden dat ik ze niet gebruiken kan. Na ee paar uur doet jij het. Nu een paar keer hebruikt.. Ik vind het errg veel onnodig tikwerk..32 keer sls je alles wilt invullen.<br> :date: __2020-05-28 13:59:41__
-
-> Historie is verdwenen na de updates. Vond dagelijks bijhouden handiger routine dan alleen maandag en donderdag. Veel liever dagelijkse controle. Temperatuur meting nu ook verdwenen. Jammer, zo heeft een app weinig meerwaarde. Na update is foutmelding weg gelukkig.<br> :date: __2020-05-21 11:46:16__
 
 
 

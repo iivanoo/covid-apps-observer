@@ -195,10 +195,12 @@ The Coronavirus Help app has been installed by more than **1000** times. At this
 #### 2-star reviews
 
 <p align="center">
-
+<img src="2_star_reviews_wordcloud.png" alt="appinventor.ai_david_taylor.Coronavirus_help2020 2 reviews"/>
 </p>
 
-No recent reviews available with 2 stars.
+> Who'd of thought I'd need an app to "help" me with a virus that I have a 99.94% chance of surviving (official numbers).<br> :date: __2020-06-25 08:48:45__
+
+
 
 #### 1-star reviews
 

@@ -131,6 +131,8 @@ The COVID-19 app has been installed by more than **50000** times. At this time, 
 <img src="5_star_reviews_wordcloud.png" alt="de.bssd.covid19 5 reviews"/>
 </p>
 
+> Winkelnkemper<br> :date: __2020-06-25 16:10:19__
+
 > Tolle App :) ja die push Benachrichtigungen funktionieren nicht aber das Ergebnis kam bei mir schon am nächten Tag abends an. Da es ein Freitag war musste ich nicht noch bis Montag warten bis ich was vom hausartzt höre :)<br> :date: __2020-06-19 22:12:35__
 
 > Es ist sehr wichtig dass man diese App runterladen tut ich wünsche noch einen schönen Abend<br> :date: __2020-06-19 01:35:15__
@@ -148,8 +150,6 @@ The COVID-19 app has been installed by more than **50000** times. At this time, 
 > Freundin<br> :date: __2020-06-16 11:17:46__
 
 > HANSJÖRG Duhnke Datenschutzes<br> :date: __2020-06-15 23:03:56__
-
-> Viele Nutzer mit schlechten Bewertungen haben scheinbar ein anderes Problem... Dieses Programm dient als zusätzlicher Informationsweg wenn man sich getestet hat und das Labor dies unterstützt. Steht in der Beschreibung deutlich, aber das kennt man ja. Ungetesteten bringt es logischerweise nichts. Zudem ist dies nicht "DIE" Corona App, die übrigends morgen erscheinen soll und für Infektionsketten helfen soll. Mal sehen wie viele da meckern, dass es nicht geht, aber Bluetooth aus haben...<br> :date: __2020-06-15 21:09:43__
 
 
 
@@ -235,6 +235,10 @@ The COVID-19 app has been installed by more than **50000** times. At this time, 
 <img src="1_star_reviews_wordcloud.png" alt="de.bssd.covid19 1 reviews"/>
 </p>
 
+> Die App ist nicht für mein Gerät optimiert, sie stürzt beim Öffnen der App immer ab.<br> :date: __2020-06-27 15:24:02__
+
+> Ergebnis kam mehrere Tage später als es im Labor vorlag , außerdem funktioniert der qr Code scanner nicht<br> :date: __2020-06-27 10:48:15__
+
 > Misst<br> :date: __2020-06-21 23:21:24__
 
 > Funktioniert nicht schreibt zwar es hätte sich installiert ist als App aber nicht sichtbar<br> :date: __2020-06-20 09:30:14__
@@ -250,9 +254,5 @@ The COVID-19 app has been installed by more than **50000** times. At this time, 
 > Eine gute Idee, leider hat es bei meiner Untersuchung des Abstrichs nicht funktioniert. Ich konnte mich zwar mit dem QR-Code anmelden, das Ergebnis wurde jedoch nicht angezeigt. Obwohl ich heute den schriftlichen Befund vom Labor per Post erhalten habe, sagt die App immer noch, "das Ergebnis liegt noch nicht vor". Der eine Stern geht also an die Idee, die Funktionalität ist ja leider gleich Null. Schade.<br> :date: __2020-06-15 15:00:52__
 
 > Um weiterhin allgemeine Sicherheit und Stabilität zu gewährleisten wird die Republik umgestaltet werden. Undzwar zum ersten galaktischen Imperium. Zum Wohle einer stabilen und sicheren Gesellschaft.<br> :date: __2020-06-15 11:02:15__
-
-> Erbärmlich schlechte Bilderkennung, stüpperhaft<br> :date: __2020-06-15 09:42:59__
-
-> App schützt nicht vor Ansteckung mit dem Husten<br> :date: __2020-06-14 18:14:18__
 
 

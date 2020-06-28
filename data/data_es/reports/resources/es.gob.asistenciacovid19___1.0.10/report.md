@@ -250,6 +250,8 @@ The Asistencia COVID-19 app has been installed by more than **10000** times. At 
 <img src="1_star_reviews_wordcloud.png" alt="es.gob.asistenciacovid19 1 reviews"/>
 </p>
 
+> no funciona en todas las autonomías esto es España a distintas velocidades como siempre<br> :date: __2020-06-26 01:03:12__
+
 > Eres una auténtica vergüenza que no haya una única app para controlar está pandemia a nivel nacional e incluso Europea. Lo lógico es utilizar la rutina de seguimiento de Google Apple y Huawei, lo demás sin chapuzas inservibles que desaparecerán en día días. Aunar esfuerzos y que Europa sirva para algo<br> :date: __2020-06-11 02:33:41__
 
 > Galicia cuando???<br> :date: __2020-06-04 01:15:35__
@@ -267,7 +269,5 @@ The Asistencia COVID-19 app has been installed by more than **10000** times. At 
 > App no responde, desinstalo<br> :date: __2020-05-15 12:45:58__
 
 > No funciona en Andalucía, desinstalada.<br> :date: __2020-05-07 20:33:00__
-
-> Queremos tests masivos para todos y no este bodrio de App<br> :date: __2020-05-06 19:48:02__
 
 

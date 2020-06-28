@@ -1,0 +1,19 @@
+[
+    {
+        "name": "stopcovid.gouv.fr",
+        "registrar": "GANDI",
+        "registrant": "Etat francais represente par le Ministere de l Economie et des Finances de l Action et des Comptes publics",
+        "registrar_country": "",
+        "registrant_country": "",
+        "creation_date": "2020-04-15 12:02:42",
+        "expiration_date": null,
+        "last_updated": "2020-04-15 12:02:44",
+        "status": "ACTIVE",
+        "statuses": [
+            "ok",
+            "not identified",
+            "ACTIVE"
+        ],
+        "name_servers": "{'ns1.actimage.net', 'ns2.actimage.net'}"
+    }
+]

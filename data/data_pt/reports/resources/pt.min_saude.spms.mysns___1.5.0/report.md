@@ -171,6 +171,10 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <img src="5_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 5 reviews"/>
 </p>
 
+> Muito bom obrigados<br> :date: __2020-06-27 22:40:52__
+
+> Muito bom.<br> :date: __2020-06-26 00:43:33__
+
 > Porque aufiro tratamentos oncológicos no hospital distrital de Santarém e com atendimento excional.<br> :date: __2020-06-18 00:13:36__
 
 > Muito fixe!<br> :date: __2020-05-25 01:47:57__
@@ -186,10 +190,6 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 > Muito útil...... obrigada.<br> :date: __2020-04-28 11:23:38__
 
 > Muito bom. Quem se queixa é porque é burro. Tem de pedir a chave móvel para fazer autenticação. O tuga só se queixa, esforçar que é bom, tá quieto.<br> :date: __2020-04-21 08:36:28__
-
-> Bom<br> :date: __2020-04-20 17:36:52__
-
-> É 0ptimo<br> :date: __2020-04-16 21:41:03__
 
 
 
@@ -228,6 +228,8 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <img src="3_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 3 reviews"/>
 </p>
 
+> Pouca dificuldade a, aceder !<br> :date: __2020-06-26 20:16:31__
+
 > A informação do movimento de banhistas,deveria ser actualizada mais frequentemente, particularmente até ao meio dia e depois das 4 da tarde. E mais divulgada nos meios comunicação.<br> :date: __2020-06-21 08:13:06__
 
 > Dificuldade em perceber e aceder às receitas digitais<br> :date: __2020-04-22 15:28:21__
@@ -245,8 +247,6 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 > Nao é muito funcional. É confusa para o utente.<br> :date: __2019-10-03 13:04:49__
 
 > Marcação de consulta médico família é difícil a Apps assumir<br> :date: __2019-05-14 23:48:58__
-
-> Muito fraquinho...<br> :date: __2019-03-21 05:08:33__
 
 
 
@@ -284,6 +284,8 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <img src="1_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 1 reviews"/>
 </p>
 
+> 😡😡😡😡<br> :date: __2020-06-24 15:47:21__
+
 > Não consigo entrar através cmd e nem consigo ajuda. Bastava o contato do tmv para confirmar através de mensagem a pass e ter acesso à aplicação. É impossível de se fazer algo com tanta burocracia<br> :date: __2020-06-19 23:40:32__
 
 > Típica aplicação do estado, inútil e que só serve pra dar tacho aos amigos do governo!<br> :date: __2020-06-19 13:44:43__
@@ -301,7 +303,5 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 > É a algum tempo que nao entro no meu my sns agora ia entrar nao me deixa entrar nada.mas no entanto continuam a ver a minha ficha medica,porque sai me a menssagem quando a minha medica entra para ver.senao conseguir entrar desinstalo,e quero ver se continuam a entrar!!!!!<br> :date: __2020-05-20 17:19:00__
 
 > Se não funciona porque a disponibilizam? Aberração desta gente do SNS para alguns votantes.<br> :date: __2020-05-17 17:35:05__
-
-> Gostaria muito de poder dar um feedback e no dia em que o SNS fizer uma aplicação que permita um procedimento de registo acessível ao povo de forma a que eu também me possa registar, contem comigo que também gostaria de estar inscrito mas não frequentei um curso para aprender o complicado procedimento de inscrição.<br> :date: __2020-05-14 17:17:25__
 
 

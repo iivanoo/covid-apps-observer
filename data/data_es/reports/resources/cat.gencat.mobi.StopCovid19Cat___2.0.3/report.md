@@ -244,6 +244,8 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 <img src="1_star_reviews_wordcloud.png" alt="cat.gencat.mobi.StopCovid19Cat 1 reviews"/>
 </p>
 
+> No acepta mi numero de telefono dice que hay un erro<br> :date: __2020-06-27 06:15:08__
+
 > Inutil<br> :date: __2020-06-14 02:53:54__
 
 > No me deja poner mi número de teléfono<br> :date: __2020-06-10 13:44:09__
@@ -261,7 +263,5 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 > No entenc encara l'objectiu d'aquesta aplicació... més inversió en els equips de primària i no tanta app que només recomana quedar-se a cada, és millor apuntar-se a un paper la simptomatologia.<br> :date: __2020-05-29 11:17:45__
 
 > Una basura, no serveix absolutament de res.<br> :date: __2020-05-28 20:11:40__
-
-> No me deja acceder<br> :date: __2020-05-27 20:36:17__
 
 

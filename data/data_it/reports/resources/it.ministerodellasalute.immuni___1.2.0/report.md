@@ -149,25 +149,25 @@ The Immuni app has been installed by more than **1000000** times. At this time, 
 <img src="5_star_reviews_wordcloud.png" alt="it.ministerodellasalute.immuni 5 reviews"/>
 </p>
 
-> Scusate una che ha il coronavirus<br> :date: __2020-06-22 01:04:12__
+> App. Molto buona e a me andrebbe bene essere monitorato 24 su 24<br> :date: __2020-06-28 18:01:01__
 
-> Mi auguro che tutti gli Italiani scarichino e utilizzino questa app.<br> :date: __2020-06-22 00:10:09__
+> Semplice e ben fatta Dovrebbero installarla tutti.<br> :date: __2020-06-28 17:48:43__
 
-> È semplice perfetta fino ora siamo 3.000.000 che la stiamo utilizzando ma dobbiamo aumentare e convinci che ci è utile e senza costo<br> :date: __2020-06-21 23:30:20__
+> Nessun problema, funziona perfettamente senza interruzioni ho uno Xiaomi<br> :date: __2020-06-28 17:44:24__
 
-> Semplice da installare,speriamo di disinstallarla presto vuol dire che il peggio è passato<br> :date: __2020-06-21 23:12:17__
+> App perfetta, piacevole da navigare, ottima privacy. Fa ciò che deve<br> :date: __2020-06-28 17:37:55__
 
-> Un'arma per tutelare la nostra salute<br> :date: __2020-06-21 22:56:29__
+> App fatta bene che però funziona solo se la gente la scarica e decide di "condividere" il fatto di essere contagiati o meno<br> :date: __2020-06-28 17:28:17__
 
-> Se può essere d'aiuto benvenga questa applicazione. Ne abbiamo a sicuramente installate altredi gran lunga più... DIVERSAMENFE UTILI.<br> :date: __2020-06-21 22:13:39__
+> Ottime app e niziativa per monitoraggio, tuttavia i dati sembrano indicare un utilizzo irrisorio rispetto alla popolazione complessiva, e se dobbiamo essere in 4 gatti, tanto vale disinstallare, perché viene meno lo scopo per cui è stata realizzata. Staremo a vedere se si raggiungeranno almeno i 10 mln di utenti<br> :date: __2020-06-28 17:19:58__
 
-> Funziona e nessun problema per l'installazione su LG del 2017. Dopo una settimana mi é arrivata una notifica in cui mi avvisavano che negli ultimi 7 gg non ero entrata in contatto con persone positive. Certo che se la maggior parte delle persone non la scarica serve a poco. Speriamo nel buon senso altrui.<br> :date: __2020-06-21 21:47:44__
+> Con Android dalla versione 6 in sù dovete mettere l'app tra quelle protette da Doze, altrimenti l'app verrà interrotta ad ogni spegnimento schermo. Quindi cercate nel menu Batteria delle Impostazioni Android le 2 voci tipo "mantieni attiva dopo blocco schermo" e "ignora ottimizzazione batteria" (queste voci variano in base al dispositivo e alla versione Android). Non occorre tenerla sempre al massimo regime con inutile consumo energetico: solo in luoghi pubblici ha senso! Dopo potete ridurre impatto semplicemente disattivando bluetooth e/o GPS oppure più drasticamente terminando la app da Impostazioni Android --> App --> Immuni (apritela comunque per qualche minuto una volta al giorno con bluetooth, GPS e connessione dati attivi anche se non capitate in luoghi affollati, per verificare se ci sono notifiche relative a contatti a rischio con soggetti ammalati avvenuti nei giorni precedenti). È inoltre utile non avere installati o quantomeno in esecuzione task killer, perché questi fermano le app in esecuzione in background; se si hanno app del tipo task killer, allora inserire Immuni nella lista bianca (whitelist) in modo da impedirne la chiusura da parte del task killer. Infine, quando si sta in luoghi pubblici, è opportuno tenere la app in primo piano (la scheda della app Immuni dovrebbe risultare al primo posto nella lista App recenti) e tenere chiusa ogni altra app (perlomeno quelle a elevato assorbimento energetico), perché certi modelli (Huawei e Samsung, per citarne un paio) montano sistemi proprietari di ottimizzazione energetica (una sorta di task killer extra Android) che senza farsi troppi scrupoli interrompono temporaneamente certe app in caso di intenso utilizzo della CPU del dispositivo<br> :date: __2020-06-28 17:18:41__
 
-> Adatta per questa situazione che stiamo vivendo<br> :date: __2020-06-21 21:31:37__
+> 5 stelle perché la app è ottima così come la iniziativa, ma 1 stella alla utenza per la scarsa partecipazione! Ad oggi i download segnati dal Play Store Google ammontano ad appena 1 milione! Capisco impossibilità di obbligare la popolazione (mica tutti hanno smartphone, soggetti un po' impediti, anziani refrattari a novità e modernità...), ma credo si dovrebbe pressare mediaticamente molto di più l'utilizzo della applicazione! Altrimenti che senso ha investire per svilupparla se efficacia e utilità tendono a zero? Io la attivo, e la probabilità che in un ambiente affollato le persone intorno a me l'abbiano pure attiva si aggira intorno al 2%... l'idea rimane buona solo sulla carta!<br> :date: __2020-06-28 17:17:27__
 
-> Utile per me e per le persone alle qualo voglio bene... Anche per gli stupidini che nn la scaricano<br> :date: __2020-06-21 21:30:35__
+> NON rileva alcun dato personale dell'utente, genera codici casuali ogni ora c,invia tramite bluetooth (ma per limiti Android è necessario attivare anche GPS, non per tracciamento, ma per poter ricevere notifiche) ai dispositivi nelle vicinanze che montano pure Immuni. L'utente è "identificato" tramite tali codici casuali anonimi, e se risulterà positivo in seguito (spetta a lui, insieme all'operatore sanitario, inviare la sua accertata positività al server del Ministero della Salute per mezzo della app), gli utenti con i codici casuali memorizzati sui propri dispositivi nei giorni precedenti per via del contatto con il soggetto risultato ora ammalato, verranno allertati di potenziali contatti a rischio tramite notifica da parte dell'app Immuni. Sta poi al buon senso di costoro procedere ad ulteriori accertamenti, consultando il proprio medico di base; Immuni lo suggerisce soltanto, poiché non è assolutamente in grado di obbligare, non sapendo nemmeno chi siano gli utenti notificati<br> :date: __2020-06-28 17:15:34__
 
-> Bohhh<br> :date: __2020-06-21 21:23:18__
+> Speriamo sia come un vaccino.<br> :date: __2020-06-28 16:58:32__
 
 
 
@@ -177,25 +177,25 @@ The Immuni app has been installed by more than **1000000** times. At this time, 
 <img src="4_star_reviews_wordcloud.png" alt="it.ministerodellasalute.immuni 4 reviews"/>
 </p>
 
-> Se non viene utilizzata da almeno ⅘ della popolazione non potrà essere utile... peccato.<br> :date: __2020-06-22 00:09:48__
+> Ora funziona perfettamente.<br> :date: __2020-06-28 15:33:56__
 
-> Ottima app, peccato che sia stata sviluppata in un paese troppo arretrato. Troppo pochi i download. Così non serve a nulla.<br> :date: __2020-06-21 23:08:51__
+> Sarebbe molto utile se tutti civilmente se la scaricassero. Purtroppo così non è, quindi sarebbe più utile se attraverso il gps mi segnalasse che un posto che ho visitato è stato frequentato anche da un positivo che non usa Immuni. PS Baci complottisti in lotta per la privacy ✌️<br> :date: __2020-06-28 15:04:17__
 
-> Non ho sintomi e godo discreta salute. (a parte il morbo di parkinson ed un tumore alla prostata)<br> :date: __2020-06-21 21:50:56__
+> È l'app che tutti dobbiamo avere, per rispetto degli altri e la sicurezza di tutti<br> :date: __2020-06-28 13:59:54__
 
-> È utile per tutti per la prevenzione della salute di tutti<br> :date: __2020-06-21 20:59:37__
+> Non do 5 stelle perché sui cellulari più vecchi non è installabile. Per il resto c'è da vedere se funziona. Spero di non trovarmi nella situazione di verificarlo! Piuttosto alla segnalazione di positività, l'ASL competente me lo fa subito il tampone o mi mette in quarantena? Questo aspetto, che non dipende dall'app ma dal SSN, sarebbe importante saperlo! Comunque dovrebbe essere installata da TUTTI perché poi la segnalazione all'ASL è comunque una scelta soggettiva. Ma questo pochi lo capiscono.<br> :date: __2020-06-28 11:40:10__
 
-> Molto bella la grafica! Dovreste renderla disponibile anche per PC con Windows e Linux.<br> :date: __2020-06-21 20:42:27__
+> Confermo che ora è finalmente attivabile anche su HUAWEI P20 lite. Bene!<br> :date: __2020-06-28 10:12:34__
 
-> "notifiche di esposizione non attivate" su Honor 10 lite.<br> :date: __2020-06-21 20:27:15__
+> Finalmente funziona. Speriamo facciano i tamponi ai positivi finalmente.<br> :date: __2020-06-28 09:51:36__
 
-> Semplice e intuitiva. Nessun problema nell'installazione<br> :date: __2020-06-21 20:19:24__
+> App semplice, grafica ben fatta. Potrebbe dare qualche feedback all'utente, ad esempio il numero di contatti degli ultimi giorni. Almeno quando la apro mi direbbe qualcosa.<br> :date: __2020-06-28 09:36:48__
 
-> Non do le 5 stelle perché se il GPS e BT non sono attivi vengono notificati dei messaggi di servizio inattivo. Se si è a casa, queste notifiche sono fuori luogo. Sarebbe utile introdurre una modalità "home" che disattiva tali notifiche<br> :date: __2020-06-21 19:33:32__
+> BELLA<br> :date: __2020-06-28 08:43:29__
 
-> La notifica che qualcuno dice apparire e "sparire" nel nulla è quella relativa all'app stessa che utilizza il sistema di notifiche all'esposizione di Google e Apple. La si può leggere nel menu notifiche (ma va?) su Google Play ad esempio. Non è notifica sul contagio scomparsa. Capre! - App facile da installare e intuitiva nella configurazione. Non è chiaro invece con che procedura va segnalata la positività. Aspetto sicuramente da migliorare.<br> :date: __2020-06-21 17:14:09__
+> Installata su Huawei P 10 lite da quando Google Play ha dato i permessi. Anche se uso parecchie app. finora non ho notato problemi a parte un leggero aumento del consumo della batteria a causa del bluetooth. Per il resto funziona bene. Se la installassero in parecchi sarebbe un buon aiuto<br> :date: __2020-06-28 00:09:33__
 
-> Molto utile<br> :date: __2020-06-21 15:41:34__
+> Facile e chiara dall'installazione al funzionamento<br> :date: __2020-06-27 20:35:56__
 
 
 
@@ -205,25 +205,25 @@ The Immuni app has been installed by more than **1000000** times. At this time, 
 <img src="3_star_reviews_wordcloud.png" alt="it.ministerodellasalute.immuni 3 reviews"/>
 </p>
 
-> Per quanto riguarda l'app nulla da dire , ma voi FATELA FINITA con questa psicosi e ricominciate a vivere! Altrimenti tra poco non ci sarà più niente da VIVERE ,con le vostre assurde psicosi ed esagerazioni state mandando al collasso il paese intero! Questo perché a prescindere guardare il vostro orticello senza capire che è una CATENA! Chiude la pizzeria all'angolo ,ci rimette il proprietario e anche chi ci lavora e di conseguenza i lavoratori non potranno spendere altrove! Brutti idioti!!!<br> :date: __2020-06-22 00:56:37__
+> Direi un ni<br> :date: __2020-06-28 18:00:58__
 
-> L'app di per sé "potrebbe" essere utile a limitare il contagio. Potrebbe, in quanto, oltre a diversi bug riscontrati come il servizio che si autodisattiva, su molti dispositivi è pressoché impossibile farla partire (Huawei e alcuni modelli Xiaomi in primis, più ovviamente tutti i device senza le API). Aggiungo inoltre che ho notato un battery drain abbastanza elevato per via della geolocalizzazione sempre attiva (anche se alla fine non la usa) L'unico problema però era la foto introduttiva...<br> :date: __2020-06-22 00:19:22__
+> Sono d'accordo con qualunque mezzo che permetta di controllare meglio la diffusione del virus ma mi chiedo: é possibile che, vivendo a Milano, non sia nai entrata in contatto con un positivo dall'entrata in funzione di questa app ad oggi?<br> :date: __2020-06-28 16:50:06__
 
-> App molto utile, non invadente , il problema è tenere sempre il bluetooth acceso, la batteria ne risente.<br> :date: __2020-06-21 20:32:38__
+> Su Huawei P9 la prima versione é installata e funzionante, sopravvive quando lo schermo è spento. Su Impostazioni => Google trova "Notifiche di esposizione al COVID-19" e in Batteria l'app è tra quelle da non chiudere dopo il blocco schermo. Per ora non ho segnalazioni di contatto.Dal 8/6 reinstallata sul P9Lite e funziona. Però su entrambi occorre controllare spesso che l'app sia ancora attiva, perchè ogni tanto sparisce. In un caso non riuscivo a farla ripartire e ho dovuto fare il restart dello smartphone.<br> :date: __2020-06-28 16:50:05__
 
-> Non mi preoccupa la questione privacy. Ma servirebbe qualche funzione in più, per verificare che stia facendo il suo mestiere: un contatore dei codici scambiati, possibilità di testare le notifiche.<br> :date: __2020-06-21 19:43:05__
+> Non si capisce nulla<br> :date: __2020-06-28 16:47:48__
 
-> Ma forse devo essere screenata (=aver fatto un tampone) x essere avvisata di un possibile contagio??? E, quindi, aver comunicato il mio codice (che mi da l'applicazione) ??? A chi operatore sanitario??? ... Cioè che devo fare??? Non è molto chiara e semplice!!!<br> :date: __2020-06-21 17:51:42__
+> Fa quello per cui è progettata, sarebbe utile uno storico delle notifiche o dei messaggi che comunica l'app, mi ha detto qualche cosa ma non ho letto correttamente ed ora è impossibile recuperare quello che l'app aveva comunicato...<br> :date: __2020-06-28 14:56:18__
 
-> Praticamente non serve a nulla quando mi avvertirà di essere stato contagiato me ne sarò accorto certamente da solo.... quando stramazzerò al suolo mi manderà una notifica con un codice casuale e l'operatore sanitario non potrà far altro che constatare la mia morte!!!!.....<br> :date: __2020-06-21 15:44:20__
+> Trovo questa app molto utile, però nn riesco ad attivarla, anche se attivo il bluetooth nn succede mai nulla quando sono fuori casa. Peccato perché come idea era molto carina e utile!<br> :date: __2020-06-28 10:24:38__
 
-> Se l'app non traccia la posizione, a che gli serve avere accesso al GPS? Non ho nulla in contrario, infatti a parer mio l'app doveva funzionare fin dal principio con il tracking della posizione ma vorrei solo un po' più di chiarezza. La sezione "Segnala positività" la metterei in home page, per il resto la trovo fluida e ben fatta graficamente.<br> :date: __2020-06-21 14:32:10__
+> Purtroppo l' App consuma troppa energia determinando lo scaricamento precoce della batteria.<br> :date: __2020-06-27 23:44:45__
 
-> Ancora da provare non so il mio cellulare la tiene e non capisco che cosa sia il blututh<br> :date: __2020-06-21 14:23:40__
+> Necessita mantenere attivo sia bluetooth sia posizione, con notevole consumo di batteria: non era stato detto essere sufficiente bluetooth?<br> :date: __2020-06-27 23:44:28__
 
-> Sembra funzionare tutto bene grazie<br> :date: __2020-06-21 12:05:52__
+> L'idea dell'app mi piace. Però lato utente non fa granché. Mi chiedo sempre se funzioni o meno. Perché non mettere un contatore di dispositivi con cui si è venuti a contatto durante la giornata o durante la settimana? Oppure un funzione "scambia codice con un amico" per verificare il funzionamento.<br> :date: __2020-06-27 19:53:39__
 
-> Non è immediato il funzionamento, inoltre, è difficile capire se rimane attiva dopo l'uscita<br> :date: __2020-06-21 12:01:57__
+> L'ho dovuta rimuovere. Mi surriscaldava il telefono (Mate 20 X 5g) La batteria durava mezza giornata<br> :date: __2020-06-27 13:52:25__
 
 
 
@@ -233,25 +233,25 @@ The Immuni app has been installed by more than **1000000** times. At this time, 
 <img src="2_star_reviews_wordcloud.png" alt="it.ministerodellasalute.immuni 2 reviews"/>
 </p>
 
-> Tecnologia di livello troppo basso per l importanza del caso.Dovrebbe segnalare a priori la presenza di soggetti positivi che violano la quarantena in luoghi pubblici<br> :date: __2020-06-21 22:37:51__
+> L'app è buona, ma la batteria del telefono vola via in poche ore con il Bluetooth sempre acceso.<br> :date: __2020-06-28 15:08:38__
 
-> Esta app no funciona<br> :date: __2020-06-21 21:19:29__
+> Sono 3 giorni che devo rifare il tutto inserendo i dati richiesti. Prima non lo faceva, mi teneva sempre connesso......<br> :date: __2020-06-28 13:58:37__
 
-> Non credo possa servire, se fosse utilizzato da tutti potrebbe avere un senso, ma così...<br> :date: __2020-06-21 21:13:44__
+> Samsung s10 e: la app si disattiva spessissimo nonostante io la apra ogni giorno<br> :date: __2020-06-28 10:58:09__
 
-> Finalmente va anche per i huawei e gli honor. Ho messo 4 stelle solo perché su i huawei in generale all'inizio non andava. Però ora tutto funziona<br> :date: __2020-06-21 19:53:05__
+> Volevo dare 1stella, ma voglio credere in questa app. Installata app al Sabato. Alla Domenica mattina era frizzata. Non so il motivo. L'ho reinstalla, vedremo. Spero di rivedere il mio giudizio.<br> :date: __2020-06-28 10:49:20__
 
-> Spero di contribuire x migliorare tutti<br> :date: __2020-06-21 19:25:53__
+> Inutilmente invadente e poco personalizzabile. Se non è sempre attiva ti tartassa di notifiche per attivarla, anche se sei chiuso in casa. E non è possibile attivarla senza le notifiche. Mi spiace, ma è fatta davvero male.<br> :date: __2020-06-28 09:18:53__
 
-> Con Immuni attivo devo ricaricare la batteria due volte al giorno, inaccettabile.<br> :date: __2020-06-21 17:26:50__
+> Pare fatta bene, semplice e con informazioni molto chiare e dettagliate, potrebbe essere utile ma non lo sarà per un semplice motivo: per essere attiva ha bisogno della geolocalizzazione attiva. Non é un problema di privacy, anche se molti non la installeranno pensando a questo, ma vorrei sapere chi sta con il GPS sempre attivo perdendo almeno il 50% della batteria... oppure bisognerebbe ricordarsi sempre di attivarlo quando ti rechi in un luogo pubblico... ma dai non può funzionare...<br> :date: __2020-06-28 09:16:32__
 
-> Da quando ho installato immuni non riesco a trasferire file via bluetooth<br> :date: __2020-06-21 17:19:04__
+> Se non abilito il GPS l'app non funziona. Ma a che le serve il GPS se non deve tracciare gli spostamenti? Questo comportamento limita la fiducia nei confronti di questa app che ritengo importante ma che non dà trasparenza.<br> :date: __2020-06-28 07:40:45__
 
-> una app che per essere efficace dovrebbe avere una diffusione capillare non può, come invece fa, escludere i possessori di smartphone prodotti dal terzo costruttore mondiale<br> :date: __2020-06-21 16:46:17__
+> La app non serve veramente a niente, contando che un sacco di gente non ce la ha, inoltre sono a Firenze e non credo che non ci sia nessun postivo.<br> :date: __2020-06-27 19:10:52__
 
-> Non se capisce se funziona o no io la tengo sempre aperta ma non ricevo nessuna modifica<br> :date: __2020-06-21 15:05:00__
+> Contemperare Privacy con l'utilità di un'app sulla salute personale è cosa ardua e necessita di decisioni coraggiose per conseguire lo scopo. Per questo, e per come è congegnata, penso che Immuni abbia solo la pia illusione di funzionare a dovere (pardon, non Immuni, ma i cervelloni burocrati che l'hanno ridotta a quello che è).C'è poi da chiedersi se quelli stessi cervelloni abbiano fatto un accordo economico segreto con Apple , visto che chi possiede un Iphone sotto il 6splus non può usarla.<br> :date: __2020-06-27 16:20:00__
 
-> Scaricata ma non ho capito bene il funzionamento<br> :date: __2020-06-21 12:42:17__
+> Per il momento li do, due stelle. Se nel caso dovesse funzionare correttamente ve lo saprò dire.<br> :date: __2020-06-27 16:12:09__
 
 
 
@@ -261,24 +261,24 @@ The Immuni app has been installed by more than **1000000** times. At this time, 
 <img src="1_star_reviews_wordcloud.png" alt="it.ministerodellasalute.immuni 1 reviews"/>
 </p>
 
-> Potrebbe essere utile ma creata app senza pensare a come comportarsi se si incrocia un codice di un positivo. Pessima gestione .<br> :date: __2020-06-22 00:48:39__
+> Questi geni fanno l'app quando non ci sono quasi più contagi? I cervelloni non potevano farla 3 mesi fa? Inutile.<br> :date: __2020-06-28 17:04:29__
 
-> Casus belli: due persone con la mascherina si incontrano, entrambe con l'applicazione Immuni (forse dovrebbe chiamarla Contagiati!), una delle due è risultata positiva al tampone ma è stata a casa già per due settimane. L'altra riceve la segnalazione che si è beccata il contagio solo perché la distanza era ridotta e quindi le viene suggerito di andare a fare il tampone (che si paga!)? Ma siamo matti ?<br> :date: __2020-06-22 00:17:26__
+> Pochissima diffusione, consumo infinito di batteria<br> :date: __2020-06-28 16:31:57__
 
-> Non funziona dice che Google non e' ancora pronto errore 30507<br> :date: __2020-06-21 22:57:00__
+> Ma non funziona?<br> :date: __2020-06-28 16:14:03__
 
-> anche se hai febbre non succede niente...<br> :date: __2020-06-21 22:35:03__
+> Disinstallata perché non funziona più, provo a reinstallare ma niente. Bohh?<br> :date: __2020-06-28 16:09:40__
 
-> Consuma troppa batteria con GPS e BLUETOOTH sempre accesi<br> :date: __2020-06-21 22:28:31__
+> Devo scaricare l'app tutti i giorni perché s'interrompe<br> :date: __2020-06-28 13:51:23__
 
-> Sono un boomer<br> :date: __2020-06-21 21:57:36__
+> Impedisce l'utilizzo del Bluetooth a tutte le altre applicazioni, i vari dispositivi non riescono più a rimanere connessi. È un bel problema, se per essere avvisato nel remoto caso in cui dovessi incontrare uno dei 50 positivi che ci saranno in giro in tutta la regione non posso più utilizzare alcun dispositivo Bluetooth, penso proprio che non userò la app.<br> :date: __2020-06-28 13:26:58__
 
-> Inutile se non ha fatto il tampone<br> :date: __2020-06-21 21:48:41__
+> L'app installata non parte nemmeno. Esce messaggio che è aggiornata ma non ancora pronta . Potrei sapere quando sarà attiva ? Grazie<br> :date: __2020-06-28 13:23:19__
 
-> Meizu M5 non funziona<br> :date: __2020-06-21 21:13:41__
+> Bisogna tenere attivo il GPS, avevate detto che serviva solo per la Prima configurazione e non che bisognava tenerlo sempre attivo...disinstallata.<br> :date: __2020-06-28 12:14:43__
 
-> Trovo estremamente inaffidabile l'applicazione essendo lo stesso paziente che gli è stato riscontrato il covid a segnalarlo e non l'azienda sanitaria, riscontrando la grande capacità dell'italiano a dichiarare il falso trovo per questo un servizio inaffidabile. Giacomo Roversi<br> :date: __2020-06-21 20:49:01__
+> Dovete abbassare l'uso della batteria. Drena il telefono in poche ore.<br> :date: __2020-06-28 11:12:22__
 
-> Fa schifoooooo<br> :date: __2020-06-21 20:28:57__
+> Pretende il GPS attivo altrimenti sul mio android 10 si chiude. Credo che tramite la triangolazione attraverso le celle del mio gestore mi localizzino a sufficienza. Siamo già troppo controllati e schedati!<br> :date: __2020-06-28 11:12:15__
 
 

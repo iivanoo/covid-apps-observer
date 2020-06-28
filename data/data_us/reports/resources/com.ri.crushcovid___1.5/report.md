@@ -200,6 +200,10 @@ The CRUSH COVID RI app has been installed by more than **10000** times. At this 
 <img src="3_star_reviews_wordcloud.png" alt="com.ri.crushcovid 3 reviews"/>
 </p>
 
+> Shows me at my neighbor's house instead of mine Number of hours shown in day for locations add to more or less than 24<br> :date: __2020-06-27 21:17:46__
+
+> This is not accurately tracking location. Uodate: Even after installing the update, it is not accurately tracking my location. Sometimes it shows me at an address down the street from my home all day rather than my house. Other days it doesn't record any location at all. Such as yesterday, I went to Narragansett, nothing g shows on my location tracker at all for the last 2 days.<br> :date: __2020-06-27 15:30:01__
+
 > Better, but did not kmow it had to be active on my screen to be working. Needs an option to be a tive in the background.<br> :date: __2020-06-14 15:26:44__
 
 > Connect to sarahlandry coronavirous<br> :date: __2020-06-11 01:25:17__
@@ -208,8 +212,6 @@ The CRUSH COVID RI app has been installed by more than **10000** times. At this 
 
 > Meaningless precision and poor accuracy. Maybe new version is better.<br> :date: __2020-06-09 11:00:28__
 
-> This is not accurately tracking location.<br> :date: __2020-06-03 14:50:44__
-
 > Easy install. All you need is to enable gps permissions. Location data is saved on the phone and you can review the locations you went to. I found you can turn off the tracking in the settings by pulling down the menu, swiping left on the crush covid icon, and clicking the cog icon. Then toggle the button to disable. There needs to be a way to turn on and off easier from the top pull down menu. This will allow users to turn off when at home to save battery.<br> :date: __2020-06-03 14:44:12__
 
 > Tracker does not update correctly.<br> :date: __2020-05-26 11:23:20__
@@ -217,8 +219,6 @@ The CRUSH COVID RI app has been installed by more than **10000** times. At this 
 > App has helpful information but the My Location Diary has been inaccurate.<br> :date: __2020-05-25 17:18:49__
 
 > Started off well but crushed my battery and has been causing issues with my GPS using apps. Can't have it on all the time which kind of defeats the point.<br> :date: __2020-05-24 17:43:32__
-
-> Great public health service, but the foreground only location permissions seems to be incorrectly confirmed?<br> :date: __2020-05-24 00:55:57__
 
 
 
@@ -256,24 +256,24 @@ The CRUSH COVID RI app has been installed by more than **10000** times. At this 
 <img src="1_star_reviews_wordcloud.png" alt="com.ri.crushcovid 1 reviews"/>
 </p>
 
+> Mmm<br> :date: __2020-06-26 05:59:51__
+
+> The app completely missed my morning hike, seems to work only intermittently.<br> :date: __2020-06-26 04:36:49__
+
+> "My location diary" doesn't do anything. It doesn't show where I have been. Don't throw away your log book. This is worthless.<br> :date: __2020-06-25 21:20:44__
+
+> I dont think I spent 125 hours in one day at a location very inaccurate and may skip a few days and hours<br> :date: __2020-06-25 20:51:58__
+
+> It is incredibly inaccurate. I live in Cranston. We went to the border of CT and got off the motorcycle for over 30 minutes. It didn't record my location at all that day. Now it's reading I was at Ace Hardware for HOURS. I wasn't there at all. Worthless. UPDATE - MY LOCATION DIARY HAS NOT UPDATED IN 10 DAYS. REMOVING THIS FROM MY PHONE.<br> :date: __2020-06-25 05:34:38__
+
+> Thus app is not working on my android smart phone. No locations are being recorded.<br> :date: __2020-06-24 19:24:21__
+
+> Completely inaccurate. This is the wrong solution. Should use Google COVID-19 Proximity Tracking API, which already works. But app relies on ineffective method that (sometimes) stores your (wong) location history locally and then flags you as a contact if RIDOH parameters have been met. So you still have to rely on people correlating information and calling you. Way too many variables will mean very slow, and never complete, adiption. Don't reinvent the wheel.<br> :date: __2020-06-24 05:16:21__
+
+> Remove covid19<br> :date: __2020-06-22 06:32:14__
+
 > F\*\** off big brother<br> :date: __2020-06-19 16:58:23__
 
 > Download the app and select language preference but can't proceed from that point.<br> :date: __2020-06-14 14:30:46__
-
-> Location not working at all since update. I have android phone.<br> :date: __2020-06-14 07:22:21__
-
-> It is incredibly inaccurate. I live in Cranston. We went to the border of CT and got off the motorcycle for over 30 minutes. It didn't record my location at all that day. Now it's reading I was at Ace Hardware for HOURS. I wasn't there at all. Worthless.<br> :date: __2020-06-12 04:36:02__
-
-> According to my location diary, I haven't been anywhere. So I guess I'm ok. Uninstalling.<br> :date: __2020-06-09 16:21:18__
-
-> Location diary lacks accuracy, functionality and practicality. Borderline useless.<br> :date: __2020-06-08 14:38:45__
-
-> This is the wrong solution. Should use Google COVID-19 Proximity Tracking API, which already works. But app relies on ineffective method that (sometimes) stores your (wong) location history locally and then flags you as a contact if RIDOH parameters have been met. So you still have to rely on people correlating information and calling you. Way too many variables will mean very slow, and never complete, adiption. Don't reinvent the wheel. It won't work. This isn't the way.<br> :date: __2020-06-07 01:18:25__
-
-> The State of Rhode Island will purpose your collected data for things other than the intent of this app. Especially during BLM protests. This is a data stream for them. Do not use this application. It's malicious in nature. READ THE TERMS OF AGREEMENT AND PRIVACY POLICY VERY CAREFULLY.<br> :date: __2020-06-06 18:27:31__
-
-> Easy and intuitive in the 1.0 release, but it doesn't always track me, and it never keeps tracking info more than 24 hours. Also there's no option to "always track." So kind of a fail. I contacted developers, and they said a new release is due in late June.<br> :date: __2020-06-03 01:33:33__
-
-> When working inaccurate... mostly non functioning... and i do not have an old phone....<br> :date: __2020-06-01 22:49:53__
 
 

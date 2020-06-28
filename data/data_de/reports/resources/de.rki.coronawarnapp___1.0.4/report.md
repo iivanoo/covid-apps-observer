@@ -151,25 +151,25 @@ The Corona-Warn-App app has been installed by more than **5000000** times. At th
 <img src="5_star_reviews_wordcloud.png" alt="de.rki.coronawarnapp 5 reviews"/>
 </p>
 
-> Übersichtlich und stromsparend<br> :date: __2020-06-22 01:39:59__
+> Totaler Schwachsinn<br> :date: __2020-06-28 18:50:49__
 
-> Bin auf mein erstes Match gespannt 🤔😂<br> :date: __2020-06-22 01:20:48__
+> Top, es werden keine Daten gespeichert und es kann viel bewegen.<br> :date: __2020-06-28 18:49:43__
 
-> Edit: Update hat Problem behoben! LLeider derzeit ein Fehler: Risikoermittlung konnte seit mehr als 24 Stunden nicht aktualisiert werden. Xiaomi Note 10 pro<br> :date: __2020-06-22 01:20:02__
+> Funktioniert wie sie soll.<br> :date: __2020-06-28 18:47:36__
 
-> einfach und datenschutz wird großgeschrieben<br> :date: __2020-06-22 01:15:16__
+> Verantwortung gegenüber seinen Mitmenschen tragen!<br> :date: __2020-06-28 18:41:47__
 
-> Kann lebenswichtig sein.<br> :date: __2020-06-22 00:48:42__
+> Sollten alle mitmachen,finde dir App sehr wichtig<br> :date: __2020-06-28 18:40:11__
 
-> Offenbar auf Transparenz angelegt und gut beschrieben. Je mehr diese App nutzen, desto besser für uns alle.<br> :date: __2020-06-22 00:39:40__
+> Ich glaube, dass die App uns wirklich helfen kann, mal gucken!<br> :date: __2020-06-28 18:40:08__
 
-> Top. Sollten so viele Leute wie möglich nützen.<br> :date: __2020-06-22 00:35:49__
+> Wichtig! Auch für Aluhutträger.<br> :date: __2020-06-28 18:37:18__
 
-> Erfüllt seine Funktion<br> :date: __2020-06-22 00:35:37__
+> Läuft absolut reibungslos. Zumindest meldet mein Smartphone keinerlei Fehlermeldungen. Akkuverbrauch so gut wie nicht feststellbar. Alles wie immer. Dafür leiste ich gerne meinen Teil zur Eindämmung der Pandemie. Lob an die Entwickler.<br> :date: __2020-06-28 18:34:53__
 
-> Tut was es soll. Nicht mehr und nicht weniger.<br> :date: __2020-06-22 00:16:44__
+> Funktioniert einwandfrei! Da ich ohnehin mein Handy meist mit dem Fitnessband oder Bluetoothkopfhörern verbunden habe, spüre ich keinen merkbaren unterschied der Akkulaifzeit, obwohl die App im Hintergrund ja ständig läuft.<br> :date: __2020-06-28 18:22:30__
 
-> Tut was es soll<br> :date: __2020-06-22 00:06:52__
+> Einfach und unkompliziert.<br> :date: __2020-06-28 18:15:23__
 
 
 
@@ -179,25 +179,25 @@ The Corona-Warn-App app has been installed by more than **5000000** times. At th
 <img src="4_star_reviews_wordcloud.png" alt="de.rki.coronawarnapp 4 reviews"/>
 </p>
 
-> Läuft wie sie soll. Die App zieht nicht viel Akku, aber die Tatsache, dass man Bluetooth anhaben muss, schon! Eine häufigere Aktualisierung wäre wünschenswert. Dann könnte man sehr viel genauer entscheiden, wo man nicht mehr hingehen sollte. Bei iPhone Screenshot möglich, bei Android nicht - warum?<br> :date: __2020-06-22 00:34:14__
+> Es sollte auf die Stromspareinstellungen von Android hingewiesen werden, falls der Dienst im Hintergrund beendet werden kann. Außerdem ist es wichtig, sein Handy bei sich zu tragen.<br> :date: __2020-06-28 18:28:08__
 
-> Mein Risiko konnte seit 24 Std. nicht bewertet werden. > Xiaomi Mi 9 lite Update: Einige Stunden später war alles wieder normal.<br> :date: __2020-06-22 00:29:38__
+> Habe einen Corona Test in einer Reha gemacht und war negativ, kann dies aber nicht in der App eingeben, hab auch nicht's schriftlich darüber, was kann ich machen ????<br> :date: __2020-06-28 17:38:44__
 
-> Es wäre schön, wenn man die Benachrichtigung, das Bluetooth aus ist, abschalten kann. Ich weiß dass Bluetooth aus ist wenn ich absichtlich mein Handy in den Flugzeug Modus versetzte.<br> :date: __2020-06-21 23:54:47__
+> Bekomme Fehlermeldung über die Kommunikation mit Google API (10). Liegt das möglicherweise an Android 6.0? Danke vorab für ihre Antwort.<br> :date: __2020-06-28 16:45:49__
 
-> Honor 6 Android 7.0 EMUI 5.0.3 Inzwischen läuft alles wie es soll, überprüfen kann ich es nicht. Ich unterstütze die Vorschläge, die Kontaktzahlen u IDs sehen zu können + ein Update auch selbst anstoßen zu können. 1x in 24 h ist einfach zu wenig Mich stört d Standortfreigabe ebenfalls. Allen Apps Zugriff verboten, Google kommt trotzdem dran. Ich nutze keine Apps wie FB, WA (viele Apps ziehen dann zus. Strom!). Stromsparmodus i Apps f CWA deaktiviert, das es nicht geschlossen wird, hat geholfen.<br> :date: __2020-06-21 23:31:44__
+> Die App sollte ein Kontaktprotokoll anzeigen, wann sie für wie lange andere Token gesehen hat. Die Token selbst müssen nicht unbedingt angezeigt werden. Interessant wäre auch zu wissen, ob ein Token die Schwelle überschritten hat, um bei der Risikoermittlung berücksichtigt zu werden oder werden immer alle bereücksichtigt?<br> :date: __2020-06-28 16:45:22__
 
-> Tut was man erwartet<br> :date: __2020-06-21 23:30:47__
+> Mein Problem: Smartphone zeigt seit Stunden an : Wird installiert, passiert aber nichts. Weiß nicht, was ich falsch mache!<br> :date: __2020-06-28 16:36:44__
 
-> INSTALLIERT EUCH DIE APP !!!Die App ist echt super ich hab nur das problem das mein Musik Box nicht funktioniert wenn ich die App aktiv habe aber an sonst UND ZUM THEMA DATEN! Andere Apps wie zb insta usw haben erheblich mehr zugreif auf eure Daten die sie auch weiter geben was diese App NICHT Macht<br> :date: __2020-06-21 23:29:13__
+> Funktioniert sehr gut bis auf die Fehlermeldung Google API (10) die immer kommt<br> :date: __2020-06-28 16:33:09__
 
-> Ich finde die App und die Idee dahinter super, aaaaaaber bei mir aktualisiert sie sich nicht, zeigt an: "zuletzt aktualisiert vorgestern 22.45 Uhr". War jetzt schon der 2.Versuch, hatte sie einmal wieder deinstalliert und neu heruntergeladen. Sie aktualisiert sich einfach nicht bei meinem Huawei... - Update:- Danke für den Hinweis, zwischendurch hat er heute doch aktualisiert, aber ich habe Ihren Tipp verfolgt und hoffe, dass es jetzt klappt! Danke!<br> :date: __2020-06-21 23:27:57__
+> Lief zwei Tage ohne Probleme. Ab dann ging gar nix mehr, ein Status war nicht mehr abrufbar. Selbst nachdem sämtliche Ernergiesparmodi abgestellt wurden. Auch Löschung der Daten und des Cache brachte keine Besserung. Wenn das die beste Corona Warn App sein soll, was soll dann wirklich schlecht sein? Ich werde es nach Neuinstallation und Erteilung diverser Berechtigungen nochmals versuchen. Nachtrag: nach erneuter Installation nun vier Tage im Einsatz, keine Einschränkungen mehr.<br> :date: __2020-06-28 15:28:59__
 
-> Gute Informationen<br> :date: __2020-06-21 23:23:35__
+> Einfach und übersichtlich. Leider hab ich meinen Test versehentlich gelöscht. Wollte ich wieder per QRCode scannen, war aber nicht möglich. Meldung: Code/Tan bereits vergeben. Ich hätte den Test schon gern wieder in der App. Bitte um Hilfe, wie es geht.<br> :date: __2020-06-28 15:27:02__
 
-> Funktioniert nicht auf meinem Huawei P40pro. Edit. Nach zwei Updates der Google Play Dienste funktioniert die App nun.<br> :date: __2020-06-21 23:11:04__
+> Funktioniert anscheinend ohne Probleme. Es wäre schön, wenn man angezeigt bekäme, wie viele Kontakte von der App aufgezeichnet wurden.<br> :date: __2020-06-28 15:26:15__
 
-> Seit genau 4 Tagen kann die Risikobeurteilung nicht ermittelt werden, obwohl Bluetooth dauerhaft an ist. Ist das wieder einmal ein Problem mit Huawei? Die App sollte doch eigentlich für jedermann und jedes Handy funktionieren... Nachtrag: Nach Rückmeldung vom RKI scheint dass Problem gelöst zu sein. Dankeschön. Schade, dass es nicht die Möglichkeit gibt das vorab zu lesen. Die App ist sonst sehr einfach und übersichtlich aufgebaut.<br> :date: __2020-06-21 23:08:57__
+> Übersichtlich, einfach erklärt, es wird Bluetooth benötigt. Update: Nach 11 Tagen Benutzung kann ich sagen das Bluetooth angeschaltet bleiben muss, es also auch aktiviert werden sollte dadurch wird die Laufzeit meines Handys deutlich verkürzt, Akku geht schneller leer. Eine Rückmeldung push-up ob der Schutz noch da ist wenn ich z. B Bluetooth automatisch ausschaltet wäre besser. Trotzdem zufrieden und werde diese App weiter nutzen. Je mehr Leute desto besser.<br> :date: __2020-06-28 15:19:29__
 
 
 
@@ -207,25 +207,25 @@ The Corona-Warn-App app has been installed by more than **5000000** times. At th
 <img src="3_star_reviews_wordcloud.png" alt="de.rki.coronawarnapp 3 reviews"/>
 </p>
 
-> Mir erscheint es als wären die 60 Mio in den Sand gesetzt worden.<br> :date: __2020-06-22 01:42:51__
+> Die App sendet nach längerer Zeit ohne Geräte Neustart keine BLE Signale mehr und empfängt diese nur noch, die App zeigt dies jedoch nicht an sondern die Risikoermittlung wird weiterhin als aktiv gekennzeichnet. D.h. selbst bei allen erlaubten Rechten ist die Funktion eingeschränkt. Dies trat auf bei einem Huawei P20 nach dem Update auf Android 10! Ermittelt wurde dies mit dem BLE Mapper Ramble!<br> :date: __2020-06-28 18:03:38__
 
-> WICHTIG! Leider fehlt eine 'DATENSICHERUNG"! SOLLTE SCHNELLSTENS INTEGRIERT WERDEN.... wichtig bei einer evtl. Neuinstallation etc.! Die App ist sehr gut gemacht und wohl auch sehr stabil. Die tägliche Aktualisierung sollte jedoch veränderbar sein, z. B. von 3 bis 20 Minuten! Bluetooth Low Energy benötigt sehr wenig Akkuleistung. Sehr transparent, eine Registrierung wird nicht benötigt. Die KOSTEN sind mir unbegreiflich, das geht weitaus günstiger, das geht gar nicht!<br> :date: __2020-06-22 00:22:58__
+> Leider hat die App im Zusammenhang mit dauerhaft aktiviertem Bluetooth nach einem halben Tag mein Handy extrem warm werden lassen und den Akku stark entleert. Warte auf ein Update.<br> :date: __2020-06-28 17:40:37__
 
-> Ich habe die App seit nun 3 Tagen laufen lassen, heute hat sie begonnen mir anzuzeigen, dass die Risiko Ermittlung nicht länger möglich sei und bietet mir an die Ermittlung wieder einzuschalten, jedoch passiert einfach nichts, wenn ich das versuche.<br> :date: __2020-06-22 00:21:30__
+> Die App überhitzt mein Mate 9 extrem. Die App habe ich deinstalliert und kein Fehler. Also bitte den Fehler beheben. Es kann sein die app viele Handies beschädigen!!!!<br> :date: __2020-06-28 17:26:25__
 
-> Die Idee ist ja gut, die Umsetzung bisher aber sehr instabil. Auf einem 9T Pro spinnt die Risiko-Ermittlung alle 1-2 Tage. Hoffe das aktuelle Update schafft Abhilfe<br> :date: __2020-06-22 00:09:50__
+> Eine App, in der man ungefragt mit "Du" angesprochen wird, ist für mich nicht akzeptabel - und mag die Aufgabe der App noch so sinnvoll sein.<br> :date: __2020-06-28 16:53:01__
 
-> Gute Sache an sich, aber wenn ich für andere Apps auch erst in den FAQ nachlesen müsste, dass ich vorher noch meinen GooglePlayDienste-Cache leeren muss, wäre ich wenig begeistert von der Idee Smartphone...<br> :date: __2020-06-21 23:21:51__
+> Toll, dass Apple GPS nicht braucht, Android aber schon. Und das zusätzlich zu Bluetooth dauerhaft. Da ist der Akku ja gefühlt sofort leer. App wird also nicht installiert, ohne Akku bringt die ja eh nix.<br> :date: __2020-06-28 16:34:04__
 
-> Aktualisiert entgegen Angabe bei mir nicht täglich. Zuletzt vorgestern.<br> :date: __2020-06-21 23:12:34__
+> Ich finde die Idee der Corona app super. Mit Technik gegen die Seuche, ein Vorteil für alle. Mich stört aber Googles Zwang sehr, GPS anschalten zu müssen. Damit macht Google die Nutzung kaputt. Shame on you, Google.<br> :date: __2020-06-28 16:33:48__
 
-> 3* für die Idee und Vorschuss auf die Zukunft. Obwohl alles passend für die App eingestellt wurde, Bluetooth aktiviert blieb und Google Dienste auf dem aktuellen Stand sind meldet die App jetzt nach anfänglicher Funktion nur noch Risiko-Ermittlung nicht möglich (konnte seit mehr als 24 Stunden nicht aktualisiert werden). Workaround Xiaomi : Einstellungen / Akku & Leistung / App Energiesparen / Corona Warn App / keine Beschränkung / Phone Neustarten.<br> :date: __2020-06-21 23:02:34__
+> Die Idee der App ist wohl gut, aber: Wenn jemand positiv getestet wird, wird er das auch in die App eintragen, ganz bestimmt nicht! Wer positiv getestet wurde, hat er dann nicht eh eine Ausgangssperre und hat im öffentlichen Leben nichts zu suchen? Also wie soll er dann jemanden warnen, wenn er in Quarantäne ist? Der richtige Weg währe, demjenigen einen Chip unter die Haut zu pflanzen der solange Signale an die Umgebung sendet, bis Tests wieder negativ sind. Ist nur meine Meinung. Deinstalliert!<br> :date: __2020-06-28 16:18:10__
 
-> Der Akku Verbrauch ist deutlich. obwohl BT eingeschaltet ist meldet könnte nicht synchronisiert werden. Nach Update nun Status grün. Also ich würde beta Status sagen, aber da ist noch einiges zu tun. Und warum braucht es GPS wo dich kein Tracking stattfindet? Alles sehr merkwürdig.<br> :date: __2020-06-21 22:54:06__
+> Loö<br> :date: __2020-06-28 15:59:54__
 
-> Sehr schön<br> :date: __2020-06-21 22:28:11__
+> Risikoermittlung funktioniert nicht. Irgendein Fehler mit Google api 10.<br> :date: __2020-06-28 15:42:57__
 
-> Das ist eine tolle App aber das man Internet braucht stört, weil ich habe nicht viele mobile Daten und es wäre besser wenn man die App auch ohne Internet benutzen könnte.<br> :date: __2020-06-21 22:26:18__
+> Funktioniert nach 10 Tagen nicht mehr. Was ist "Ursache 3"? Keine für Laien verständliche Information. Dasselbe Problem tritt nicht nur bei mir auf. Auch Neuinstallation behob das Problem nicht. Und jetzt? Danke für Ihre Rückmeldung: Fehlercode 10 Danke und baldigen Erfolg<br> :date: __2020-06-28 15:37:17__
 
 
 
@@ -235,25 +235,25 @@ The Corona-Warn-App app has been installed by more than **5000000** times. At th
 <img src="2_star_reviews_wordcloud.png" alt="de.rki.coronawarnapp 2 reviews"/>
 </p>
 
-> Verstehe nicht warum die app damit Werbung macht keinen Standort abzufragen aber wenn ich die App nutze muss Standort an sein finde ich persönlich wieder sprüchig. Aber sonst funktioniert alles einwandfrei.<br> :date: __2020-06-21 23:38:12__
+> Hatte die App noch am Tag des Erscheinens installiert und sie lief 1 Woche reibungslos... jetzt geht gar nichts mehr. Mehrfach de- und neuinstalliert, kein Erfolg. Ursache 3, Fehler bei Kommunikation mit Google API(10). Wann läuft die App auf Huawei- Handys?<br> :date: __2020-06-28 18:01:43__
 
-> Optisch ist sie App ja gut. Auf meinem Huawei Mate 9 scheint die App nicht zu funktionieren. Es steht immer da, dass ich die Risikoermittlung aktivieren soll. Diese ist aber an. Zudem meldet die App dass seit 24h nicht aktualisiert wurde. Hier muss nachgebessert werden<br> :date: __2020-06-21 23:25:15__
+> Seit Tagen ist eine Fehlermeldung vorhanden welche die Funktion behindert!<br> :date: __2020-06-28 18:01:16__
 
-> es müssten über 2/3 der Bevölkerung die App nutzen um halbwegs Ergebnisse zu liefern.. erschwerend dazu die Ergebnisse selbst.. der Bluetooth nimmt nicht wahr ob der Gegenüber 1 oder 10 Meter Abstand zu mir hat, dadurch ist die mögliche Infektion nicht wirklich erkennbar. Wobei aber in der Rückabwicklung die Infektionsnachverfolgung mich als möglichen Überträger einloggt.. Ich denke das hier sowie an anderen Sicherheitsverfahren (Wurmloch) etc. nachzubessern ist.<br> :date: __2020-06-21 23:12:56__
+> Mit 20 Mio zu teuer und warum wird mir nicht angezeigt mit wieviel anderen Appinstallationen ich schon Kontakt hatte. Erst dann würde ich mich überzeugt fühlen. Aber müsste sowas nicht auch ausgeschrieben werden? Oder irre ich mich wegen Pandemieregeln?<br> :date: __2020-06-28 17:52:46__
 
-> Ich habe mich sehr gefreut als die App rausgebracht wurde. Im Grunde ist die App gut, was mich jedoch stört ist: warum aktualisiert sich die App nicht jede Stunde? Bei mir hat sich die App vor zwei Tagen das letzte Mal aktualisiert......<br> :date: __2020-06-21 22:54:24__
+> Die User-Erahrung lässt zu wünschen übrig. Beispielsweise wäre eine direkt zugängliche Statistik über die aufgezeichneten Begegnungen mit anderen Teilnehmer hilfreich, um zu zeigen, dass sie richtig arbeitet. Darüber hinaus ist das Rechtemanagement intransparent. Deaktivieren ich die Ortungsdienste, wird dauerhaft ein Hinweis angezeigt, dass ich dieses wieder aktivieren muss, wenn ich die Benachrichtigungsfunktion nutzen will. Der Zusammenhang scheint bekannt und in Kauf genommen; seltsam.<br> :date: __2020-06-28 17:49:38__
 
-> Die App ist vielleicht ganz gut, vorausgesetzt das die betroffenen auch sich zu erkennen geben das sie infiziert sind. Was das größte Manko ist das sie bei meinem 1 Jahr alten Telefon den akku in ca 7,5std 73% entleert hat. Wenn ich 12 Std auf Arbeit unterwegs bin und noch viel telefonieren muss etc reicht der Akku nicht mal einen ganzen Arbeitstag. Deswegen deinstalliert.<br> :date: __2020-06-21 22:05:46__
+> Schon Mist, habs mir schon gedacht, üppige App an MB und kein native 2 SD. ICH HABE EIN ALTES GALAXY S5 UND KEINE LUST DIE ANDEREN APPS ZU DEINSTALLIEREN NUR DAMIT ICH DIESE APP NUTZEN KANN TUT MIR LEID. NATIVE APP 2 SD IST ZWINGEND ERFORDERLICH! 15MB IST NATÜRLICH AUCH EIN WEG... BIN JA MAL GESPANNT. WANN IST DAS NÄCHSTE UPDATE GEPLANT? UND DANKE FÜR DIE ERKLÄRUNG.<br> :date: __2020-06-28 17:35:45__
 
-> Leider stürzt die app seit gestern bei jedem öffnen ab. So bringt sie leider nichts<br> :date: __2020-06-21 21:57:26__
+> Nach 8 Tagen braucht man eine Genehmigung für Android! Sobald alles normal funktioniert gibt es mehr sterne!<br> :date: __2020-06-28 16:00:07__
 
-> Der Gedanke dahinter ist super, die Ausführung noch sehr verbesserungswürdig. Leider stürzt die App permanent ab, bzw lässt sich nicht öffnen. Manchmal wird auch Fehlermeldung 9002 angezeigt (Huawei P20) . Da muss scheinbar noch einiges verbessert werden. Auch dass die App auf älteren Smartphones nicht läuft, ist ein Unding. Wenn ich überlege, dass allein in meinem Verwandtenkreis fast alle der Risikogruppe ihre Smartphones seit Ewigkeiten nutzen und niemand davon die App installieren kann...<br> :date: __2020-06-21 21:24:41__
+> Bleibt ständig stehen, trotz deaktivierten Energieeinstellungen. "4 von 14 Tagen aktiv". So ists nichtmal ne halbe Sache.<br> :date: __2020-06-28 15:57:46__
 
-> Bei mir zeigt die App ebenfalls sn, dass eine Bewertung nicht möglich ist. Bluetooth schalte ich nur ein wenn ich das Haus verlasse, da es sonst zu viel Akku verbraucht, da ständig meine Bluetooth fähigen Geräte gesucht werden. Funktioniert momentan nicht richtig, mal sehen ob der Fehler zukünftig gefixt wird.<br> :date: __2020-06-21 21:20:39__
+> Ich habe die ganze Zeit ein "Fehler mit der Google API" weswegen ich die app nicht nutzen kann und ich habe eigentlich die aktuellste Android Version auf meinem Samsung S9 Edit: Danke für die Antwort aber ich habe alle Möglichkeiten im faq gecheckt und eigentlich sollte alles passen aber trotzdem geht es nicht Zu Edit4: Es steht da "Ursache: 3" und am ende der Nachricht hinter dem faq link steht "(17)"<br> :date: __2020-06-28 15:28:48__
 
-> Es fehlen mir persönlich Informationen wie ... - ist in meinem aktuellen Umkreis, z.B. 1000-2000m jemand infiziert, wenn ja wieviele - mit wievielen anderen Nutzern gab es bisher einen Connect und ich hoffe sehr - wenn es zu einer Warnung kommt ... sagt mir die APP auch genau WANN (Datum, Uhrzeit) und WO<br> :date: __2020-06-21 21:01:50__
+> Schön und gut...aber ich habe nur gesehen, dass Bluetooth die ganze Zeit dafür an sein muss ?!😂 Dann kann ich ja direkt eine 30.000 mAh Powerbank mit mir rumschleppen...Ansich gute Idee...aber dauerhaft Bluetooth an? Nein danke.<br> :date: __2020-06-28 14:44:49__
 
-> Ob die etwas bringt ist fraglich. Zu viel Datenschutz ohne Positionsdaten zu übermitteln sind Hotspots schwer zu erkenen. Gesetzgeber hat hier nicht genug mit dem Handel verhandelt. Die meisten Arbeitnehmer z.B. Lebensmittelladen dürfen die Handys nicht bei sich geführt werden. Mit kontakt mit mehreren 100 Menschen pro Tag macht das dsn wenig Sinn. Hier hätten Absprachen getroffen werden müssen das die Mitarbeiter die Handys am Mann haben und die Handys im Spint liegen.<br> :date: __2020-06-21 20:19:05__
+> Glaub nicht das diese app funktioniert. Habe die App seit einiger Zeit installiert sowie auch einige Kollegen und meine Famiele. Es wurde aber in den Aufzeichnungen und Anzahl der Schlüssel und Anzahl der Treffer noch kein einziger Schlüssel registriert, obwohl ich lange und nahe in Kontakt war.<br> :date: __2020-06-28 14:35:07__
 
 
 
@@ -263,24 +263,24 @@ The Corona-Warn-App app has been installed by more than **5000000** times. At th
 <img src="1_star_reviews_wordcloud.png" alt="de.rki.coronawarnapp 1 reviews"/>
 </p>
 
-> Ich habe sie mir runtergeladen bevor ich befürchten muss dass mein Supermarkt mich in Zukunft eventuell nicht mehr einkaufen lässt... das Logo und Design der App gefällt mir auch sehr gut👍❗<br> :date: __2020-06-22 01:40:00__
+> nach Deinstallation/Neuinstallation läuft die App auf einen API Fehler. Samsung Android.<br> :date: __2020-06-28 18:51:19__
 
-> Funktioniert seit mind vorgestern nicht mehr. Risikoermittlung kann nicht aktualisiert werden weil sie angeblich deaktiviert ist. Wird aktiviert angezeigt und geht trotzdem nicht.<br> :date: __2020-06-22 01:28:54__
+> Ich habe die App nun zum dritten Mal de- und wieder neu installiert, weil sie sich nicht öffnen lässt. Vielleicht klappt es ja diesmal...<br> :date: __2020-06-28 18:40:26__
 
-> Will zu viele Informationen und Berechtigungen die nicht nötig sind und nein ich möchte sie NICHT per Mail kontaktiert, sie sehen hier meine Nachricht/Bewertung dies ist somit also nicht nötig. Es wird eh ignoriert was man bewertet,. Ändern wird sich nie was.<br> :date: __2020-06-22 00:59:09__
+> Was soll diese app bringen wenn ich corona ab geh ich in quarantäne und die app kann daran nichts ändern diese app ist so sinnlos wie ein auto ohne sprit<br> :date: __2020-06-28 18:39:52__
 
-> Huawei P20 - die App aktualisiert einfach nicht obwohl es alles eingeschaltet ist, ich soll es doch bitte einschalten. Wtf! - DEINSTALLIERT! Edit: Diese Punkte was man machen soll in den Einstellungen habe ich gar nicht als Option in den Einstellungen, kann das also auch nicht selber fixen, einfach Müll diese app.<br> :date: __2020-06-22 00:53:46__
+> Blockiert die Verbindung zu anderen Bluetooth Geräten. Viel gerede für eine teure App. Dazu unbrauchbar, da viel zu wenig mitgemacht wird. Das Geld sollte besser investiert werden und dem RKI abgezogen werden!<br> :date: __2020-06-28 18:39:41__
 
-> Schrott !<br> :date: __2020-06-22 00:41:14__
+> Ich würde mindestens einen täglichen Bericht erwarten, wieviele und welcher Art Kontakte erfasst wurden: welcher Abstand, welche Zeitdauer? Solange die App nur geheimnisvoll im Hintergrund arbeitet und ich keine Informationen über die Aktivitäten bekomme, traue ich der App überhaupt nicht; gibt es das was zu verbergen, das ich nicht wissen soll? So geheimnisvoll und intransparent bzgl. der durchgeführten Aktionen wie sie jetzt ist, will ich die App nicht auf meinem Smartphone!<br> :date: __2020-06-28 18:25:47__
 
-> Endlich da: das Sakrament, die Hostie des Fürsorgestaates, unseres sterblichen Gottes, und seiner Propheten, der Experten, die in Nullen und Einsen geronnene Massenpsychose. Bitte in Corona-Wahn-App umbennenen, dann gibt es 5 Sterne<br> :date: __2020-06-22 00:30:00__
+> Da die App immer wieder nach der Berechtigung Standortdienst (GPS) fragt, obwohl es nicht notwendig ist, habe ich die App wieder gelöscht. Ein Verweis auf die FAQ reicht nicht, weil trotzdem das Warnsymbol auf Standortdienst an ist. Wenn die App nur Bluetooth benötigt, soll die App oder Google nicht mit Standort (Gps) nerven. Wenn das behoben ist, installiere ich die App gern wieder.<br> :date: __2020-06-28 18:21:16__
 
-> Also das mit denn Mundschutz Pflicht ist etwas über trieben was ist wenn man ein mundschutz aus Stoff hat soll man den dann auch weg werfen für mich ist das nur dummes gemache<br> :date: __2020-06-22 00:10:57__
+> Wie kann es ein, daß in der enrgieverwaltung angezeigt wird, dass die App GPS nutzt. Jedoch niemals auf Bluetooth zugegriffen hat? Und nein es liegt nicht an BLE. Andere Apps welche BLE nutzen zeigen es auch an.<br> :date: __2020-06-28 18:20:03__
 
-> Funktioniert auf Huawei Honor 10 (Android 10) nicht. "Nearby EXPOSURE_NOTIFICATION_API is not available on this device ..."<br> :date: __2020-06-22 00:03:40__
+> Wie kann es denn sein dass sich die Risiko Ermittlung ohne Warnung selbstständig ausschaltet?<br> :date: __2020-06-28 18:18:00__
 
-> Ich finde die App nicht gut irgendwie kommt mir es vor das meine Daten nicht geheim bleiben, es steht immer ich wäre mit 20 Menschen in Kontakt gewesen die positiv wären, aber ich war fast immer alleine in meiner Wohnung und hätte nie die 1,5 Meter eingehalten und sie stürzt manchmal ab und schaltet mein Bluetooth und mein GPS selber an wo ich es eigentlich aus habe,und mir und meine gute Freunde kommt es vor das die Regierung uns nur mit der App überwachen wollen wie in den anderen Ländern.<br> :date: __2020-06-21 23:57:55__
+> Die App ist ordnungsgemäß Installiert doch funktioniert nicht. Als Fehlermeldung bekomme ich :Leider fehlen ihrem Smartphone die Benachrichtigungen zu möglicher Begegnung mit Covid-19 infizierten. Ziemlich schade, dass diese App nicht bei jedem Handy funktioniert ( habe ein Huawei P8 lite 2017)<br> :date: __2020-06-28 18:16:00__
 
-> wtf app verwendet Googleplay dinste? Und die app nennt sich sicher<br> :date: __2020-06-21 23:48:37__
+> Gleich beim Start eine Fehlermeldung. Das schafft kein Vertrauen...<br> :date: __2020-06-28 18:00:15__
 
 

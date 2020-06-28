@@ -149,6 +149,10 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 <img src="5_star_reviews_wordcloud.png" alt="au.gov.health.covid19 5 reviews"/>
 </p>
 
+> I don't think that I do not know anyone with these viruses....thirty five given star's for each of all of the features....<br> :date: __2020-06-27 08:53:35__
+
+> Beautiful App a must for every Australian<br> :date: __2020-06-23 13:56:58__
+
 > It does what it's meant to<br> :date: __2020-06-19 04:05:19__
 
 > Helping keep me safe and therefore other people are kept safe<br> :date: __2020-06-17 06:09:53__
@@ -164,10 +168,6 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 > Great got 2 NEGATIVE. Maureen.<br> :date: __2020-06-04 04:04:37__
 
 > Good updates daily. Well presented. Thank you.<br> :date: __2020-05-27 02:38:45__
-
-> Good info and helpful app<br> :date: __2020-05-15 03:27:11__
-
-> Good thing<br> :date: __2020-05-11 23:17:24__
 
 
 
@@ -261,6 +261,8 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 <img src="1_star_reviews_wordcloud.png" alt="au.gov.health.covid19 1 reviews"/>
 </p>
 
+> Unable to download<br> :date: __2020-06-24 05:19:21__
+
 > Don't tell you anything<br> :date: __2020-06-21 15:00:17__
 
 > I was violated by having this app installed on my phone without any notice or warning or most importantly MY CONSENT.<br> :date: __2020-06-10 05:41:48__
@@ -278,7 +280,5 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 > I have just gone through my telephone and I would like to know why Google Play has installed coronavirus app on my phone without approval<br> :date: __2020-06-03 07:13:37__
 
 > Useless messed up a BRAND NEW CELL PHONE.WOULD NOT RECOMEND AT ALL<br> :date: __2020-06-02 12:28:37__
-
-> I don't remember installing this app, I did leave my phone charging overnight with the WiFi on. Why can't they just have emailed you instead or have an entire page just for Covid updates in your local newspaper.<br> :date: __2020-05-29 13:24:39__
 
 
