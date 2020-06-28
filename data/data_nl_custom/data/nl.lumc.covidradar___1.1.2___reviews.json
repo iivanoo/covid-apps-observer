@@ -1,5 +1,17 @@
 [
     {
+        "reviewId": "gp:AOqpTOEYPEC1u4XCNndm16tYvfrR2ygl_eg1-b7x_Zk_L__-2LssA5_L3V1JqRKSGm_aMCUt6e2Prz8A59ysdw",
+        "userName": "Kees Visser",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiWg6UmqGnFaDUX2BMSJDDMDieF9k278cVTuFn7mD0",
+        "content": "Het lukt na de versoepelingen van de lockdown niet meer om de waarden in te vullen. Hoeveel mensen binnen 1.5 of 5(!) meter zijn gekomen in de supermarkt of in de stad? Geen idee!",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.1.2",
+        "at": "2020-06-25 20:55:45",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOF2agLg_UMMXpA-EnjX23k_FR4fDyrMFLhxFz8CUZChHNVI-LAz6YVCHwd_1oc49AB730AX0OJDE1yECA",
         "userName": "R Glas",
         "userImage": "https://lh3.googleusercontent.com/-AulpUqdym6E/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucku6D5WhcHGVjqnjdKEh0WbMmsvBg/photo.jpg",
@@ -173,7 +185,7 @@
         "userImage": "https://lh3.googleusercontent.com/-oeibj_G8ZOc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclZ9sg1ru3DZehShu-2rSS-qqg1IA/photo.jpg",
         "content": "Geen handige app. Vooral het invullen van getallen met die schuiven. Vooral de laatste schuif, die zit heel dicht tegen de knop versturen aan. Waarom niet gewoon cijfers ingeven? Ik hoop niet dat er een 2e uitbraak komt. Komt die er wel dan hoop ik dat de app gebruiksvriendelijker wordt.",
         "score": 1,
-        "thumbsUpCount": 7,
+        "thumbsUpCount": 8,
         "reviewCreatedVersion": "1.1.2",
         "at": "2020-05-13 14:20:31",
         "replyContent": null,

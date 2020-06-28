@@ -196,6 +196,8 @@ The COVID Radar app has been installed by more than **50000** times. At this tim
 <img src="3_star_reviews_wordcloud.png" alt="nl.lumc.covidradar 3 reviews"/>
 </p>
 
+> Het lukt na de versoepelingen van de lockdown niet meer om de waarden in te vullen. Hoeveel mensen binnen 1.5 of 5(!) meter zijn gekomen in de supermarkt of in de stad? Geen idee!<br> :date: __2020-06-25 20:55:45__
+
 > De vraag hoeveel mensen binnen 5 meter kwamen is niet te beantwoorden als je dagelijks een wandeling in het park maakt. 5 of 50? Ik stop ermee<br> :date: __2020-06-20 20:29:35__
 
 > Meerdere gebruikers schreven het al : de schuifbalken zijn veel te gevoelig waardoor onbedoeld hoge waarden worden doorgegeven. Gebeurt vooral bij scrollen. Bijvoorbeeld 15 bezoekers gehad terwijl dit eigenlijk 0 had moeten zijn. Mijn inziens worden de uitkomsten dus onbetrouwbaar. Kijk het nog weekje aan, anders stop ik.<br> :date: __2020-04-29 15:13:12__
@@ -213,8 +215,6 @@ The COVID Radar app has been installed by more than **50000** times. At this tim
 > Goed initiatief. Bij scrollen verschuiven de scores soms onbedoeld. Verbetering is noodzakelijk om geen foute scores te krijgen. Ik heb vragen die ook door anderen zijn gesteld en hoop dat antwoorden komen. In winkel en buiten let niet iedereen even goed op de 1,5 mtr. en het lukt niet altijd om zo iemand te ontwijken. Ik schat in hoe vaak dat is geweest en vul dat in. Is dat juist? Als je hoest door allergie, vul je dan "ja" in?<br> :date: __2020-04-14 09:09:26__
 
 > mooie app. leuke update tip:. via gps als iemand in buurt komt gaat app rinkelen blijf uit buurt. of houd afstand. of meld ik was / ben ziek / ziek in buurt pas op. dit helpt<br> :date: __2020-04-14 08:29:17__
-
-> Push notificaties verschijnen niet elke dag, hierdoor kan invullen vergeten worden.<br> :date: __2020-04-13 12:23:59__
 
 
 
