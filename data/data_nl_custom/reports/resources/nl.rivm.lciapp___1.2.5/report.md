@@ -168,6 +168,10 @@ The RIVM LCI-richtlijnen app has been installed by more than **50000** times. At
 <img src="4_star_reviews_wordcloud.png" alt="nl.rivm.lciapp 4 reviews"/>
 </p>
 
+> Als ik op het startscherm "Publieksinformatie" aanklik vind ik niets over Covid-19. Deze informatie kan ik alleen bereiken via het volgende traject: "Richtlijnen & Draaiboeken - COVID 19 - Gerelateerde informatie - Publieksinformatie RIVM.nl". Een beetje omslachtig. Verder vind ik het een goede en overzichtelijke app.<br> :date: __2020-06-30 13:02:17__
+
+> Het staat allemaal in goed te begrijpen woord keuze en duidelijk/overzichtelijk Goed uitgelegd<br> :date: __2020-06-29 09:06:30__
+
 > Meest nodige informatie zit in deze app 🙏 NAMASTE<br> :date: __2020-04-09 09:55:23__
 
 > Goede app. Informatief en duidelijk. 👍<br> :date: __2020-04-05 10:16:42__
@@ -194,6 +198,8 @@ The RIVM LCI-richtlijnen app has been installed by more than **50000** times. At
 <img src="2_star_reviews_wordcloud.png" alt="nl.rivm.lciapp 2 reviews"/>
 </p>
 
+> Kan niet eens een telefoonnummer vinden voor het testen van Covid19<br> :date: __2020-06-30 22:42:16__
+
 > Werkt niet laadt niet geeft aan dat je geen internet hebt terwijl je gewoon internet hebt<br> :date: __2020-04-21 20:48:56__
 
 
@@ -203,6 +209,8 @@ The RIVM LCI-richtlijnen app has been installed by more than **50000** times. At
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="nl.rivm.lciapp 1 reviews"/>
 </p>
+
+> Niet actueel meer...<br> :date: __2020-07-03 23:32:50__
 
 > Wat een waardeloze onzin. Hoe kun je nou iets geloven als er niet eens data naar buiten wordt gebracht. Ik geloof hier helemaal niks van. Als je tegenwoordig dood gaat aan een of ander ongeluk, wordt het gewoon vertaald als corona. Nee dit gaat er bij mij niet in<br> :date: __2020-06-19 21:20:43__
 
@@ -221,7 +229,5 @@ The RIVM LCI-richtlijnen app has been installed by more than **50000** times. At
 > cruciale beroepen waarbij niet word weergeven over personeel beveiliging die elke dag ermee in aanraking komen ik werk op een dakloze centrum als beveiliger waarbij het elke dag een risico bestaat over besmette daklozen.<br> :date: __2020-04-15 01:08:30__
 
 > Duurt TE lang voor alles gedownload is<br> :date: __2020-04-14 19:48:15__
-
-> Best een oké app maar alles rondom de richtlijnen is op dit moment een grote onnodigheid als Rutte en zijn teampje er eerder bij waren geweest had dit niet hoeven gebeuren<br> :date: __2020-04-14 14:24:32__
 
 
