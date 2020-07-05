@@ -244,6 +244,10 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 <img src="1_star_reviews_wordcloud.png" alt="cat.gencat.mobi.StopCovid19Cat 1 reviews"/>
 </p>
 
+> De momento pongo una estrella 🌟 porque esta app solo sirve para uno mismo para ver si tienes algún síntoma. De momento no sirve para saber si estas cerca de alguien que pueda que sea portador de Covid-19.<br> :date: __2020-07-02 21:27:30__
+
+> Penosa app, se rien en tu cara y ciertos comentarios los borran...<br> :date: __2020-07-01 10:52:39__
+
 > No acepta mi numero de telefono dice que hay un erro<br> :date: __2020-06-27 06:15:08__
 
 > Inutil<br> :date: __2020-06-14 02:53:54__
@@ -259,9 +263,5 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 > No es realista, t sale q tienes coronavirus por solo tener cierta fatiga al hacer esfuerzos, y q antes no tenias, mejor llamar al medico d cabecera, esta aplicacion no es tan practica.<br> :date: __2020-06-02 16:40:27__
 
 > Sin sentido responder a las preguntas,el resultado es el mismo<br> :date: __2020-06-02 15:09:37__
-
-> No entenc encara l'objectiu d'aquesta aplicació... més inversió en els equips de primària i no tanta app que només recomana quedar-se a cada, és millor apuntar-se a un paper la simptomatologia.<br> :date: __2020-05-29 11:17:45__
-
-> Una basura, no serveix absolutament de res.<br> :date: __2020-05-28 20:11:40__
 
 

@@ -171,8 +171,6 @@ The BC COVID-19 Support app has been installed by more than **10000** times. At 
 
 > Very helpful and informative particularly for British Columbians. Presented in a way that is clear and easy to digest. A "survival guide" that doesn't come across as all doom and gloom. Daily stats could be updated more frequently but overall very helpful.<br> :date: __2020-04-07 00:36:59__
 
-> Good app, but could use some enhancements such as a dark theme (app is blindingly white) and a widget that provides updates on cases in real time. Also, app survey is focused solely on symptom related material and nothing in regards to the actual app...<br> :date: __2020-04-05 23:00:40__
-
 > Clear and easy to use<br> :date: __2020-03-24 05:10:56__
 
 

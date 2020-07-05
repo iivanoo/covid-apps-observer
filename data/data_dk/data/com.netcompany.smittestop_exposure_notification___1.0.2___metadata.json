@@ -6,15 +6,15 @@
     "summaryHTML": "Infect Stops is the official Ministry of Health and Elderly&#39;s COVID-19 app.",
     "installs": "100,000+",
     "minInstalls": 100000,
-    "score": 3.43,
-    "ratings": 419,
-    "reviews": 208,
+    "score": 3.29,
+    "ratings": 489,
+    "reviews": 250,
     "histogram": [
-        100,
-        41,
-        37,
-        54,
-        184
+        132,
+        63,
+        34,
+        48,
+        210
     ],
     "price": 0,
     "free": true,

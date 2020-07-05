@@ -154,6 +154,8 @@ The Asistencia COVID-19 app has been installed by more than **10000** times. At 
 <img src="5_star_reviews_wordcloud.png" alt="es.gob.asistenciacovid19 5 reviews"/>
 </p>
 
+> Decine<br> :date: __2020-06-30 15:31:40__
+
 > Aplicación estupenda para vivir con la tranquilidad de sentirse protegida. Aprovecho para felicitar al Servicio Canario de Salud, a la sección de Rastreo y Comunicación, en biblioteca nacional. Las mujeres encargadas de hacer las pruebas del COVID han demostrado, además de ser EXCELENTES PROFESIONALES, tener mucho tacto,. delicadeza además de simpatía. Así da gusto hacerse las pruebas. Me alegraron el día. Muchas gracias.<br> :date: __2020-06-15 09:35:08__
 
 > Me parece bien qur nos alerten cpn esta app Para eviar riesgos<br> :date: __2020-05-20 00:35:27__
@@ -171,8 +173,6 @@ The Asistencia COVID-19 app has been installed by more than **10000** times. At 
 > Mantiene informado puntualmente<br> :date: __2020-04-23 23:20:01__
 
 > Interesante de momento falta Andalucía<br> :date: __2020-04-23 17:29:28__
-
-> Recomendaciones oficiales en relación con el coronavirus.<br> :date: __2020-04-19 00:07:41__
 
 
 
@@ -238,6 +238,8 @@ The Asistencia COVID-19 app has been installed by more than **10000** times. At 
 <img src="2_star_reviews_wordcloud.png" alt="es.gob.asistenciacovid19 2 reviews"/>
 </p>
 
+> En cataluña porque no esta disponible<br> :date: __2020-07-01 20:37:46__
+
 > Se entiende era libre de pagar y eso no és asį<br> :date: __2020-05-05 16:51:12__
 
 > La veo muy encorsetada y poco actualizada a los síntomas...<br> :date: __2020-04-13 23:54:33__
@@ -250,7 +252,13 @@ The Asistencia COVID-19 app has been installed by more than **10000** times. At 
 <img src="1_star_reviews_wordcloud.png" alt="es.gob.asistenciacovid19 1 reviews"/>
 </p>
 
-> no funciona en todas las autonomías esto es España a distintas velocidades como siempre<br> :date: __2020-06-26 01:03:12__
+> No vale para nada.<br> :date: __2020-07-01 09:26:56__
+
+> Esta autoevaluacion , en mi caso, no vale para nada. Ya di positivo en un test rápido privado, con el informe me fui al medico dé familia y no me hizo ni caso. Resultado 14 días más en casa y volver a pagar 65 euros para repetir el test. Ya he dado negativo. Preocupacion en la Seguridad Social por hacerme la PCR , NINGUNA.<br> :date: __2020-06-30 16:01:41__
+
+> no vale absolutamente para nada esta aplicación es una castaña<br> :date: __2020-06-30 07:11:17__
+
+> Para otras comunidades ejemplo Galicia para cuando?<br> :date: __2020-06-30 00:18:21__
 
 > Eres una auténtica vergüenza que no haya una única app para controlar está pandemia a nivel nacional e incluso Europea. Lo lógico es utilizar la rutina de seguimiento de Google Apple y Huawei, lo demás sin chapuzas inservibles que desaparecerán en día días. Aunar esfuerzos y que Europa sirva para algo<br> :date: __2020-06-11 02:33:41__
 
@@ -263,11 +271,5 @@ The Asistencia COVID-19 app has been installed by more than **10000** times. At 
 > No está disponible en catalunya<br> :date: __2020-05-30 22:06:01__
 
 > Haber si aprendéis de los Franceses y hacéis una aplicación que de verdad sirva para algo<br> :date: __2020-05-28 09:05:18__
-
-> Para descargar en huelva España no sale comp ay que acerlo<br> :date: __2020-05-24 14:29:24__
-
-> App no responde, desinstalo<br> :date: __2020-05-15 12:45:58__
-
-> No funciona en Andalucía, desinstalada.<br> :date: __2020-05-07 20:33:00__
 
 

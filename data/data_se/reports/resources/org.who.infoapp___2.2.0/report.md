@@ -128,6 +128,8 @@ The WHO Info app has been installed by more than **100000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="org.who.infoapp 5 reviews"/>
 </p>
 
+> Good job<br> :date: __2020-06-30 16:55:28__
+
 > jafure<br> :date: __2020-06-16 06:19:43__
 
 > Good<br> :date: __2020-06-10 20:34:34__
@@ -145,8 +147,6 @@ The WHO Info app has been installed by more than **100000** times. At this time,
 > Cumilla Debidwer Gunaighar<br> :date: __2020-06-06 15:19:02__
 
 > করুনা বাই রাজ এলাটডামলো<br> :date: __2020-06-05 23:02:23__
-
-> Shows the acurate number of the infected people<br> :date: __2020-06-05 20:06:30__
 
 
 
@@ -198,6 +198,8 @@ The WHO Info app has been installed by more than **100000** times. At this time,
 <img src="2_star_reviews_wordcloud.png" alt="org.who.infoapp 2 reviews"/>
 </p>
 
+> Coro nosotras coronas<br> :date: __2020-07-02 06:41:55__
+
 > Partial<br> :date: __2020-06-22 12:24:23__
 
 > Learn more<br> :date: __2020-06-15 23:35:50__
@@ -216,6 +218,8 @@ The WHO Info app has been installed by more than **100000** times. At this time,
 <img src="1_star_reviews_wordcloud.png" alt="org.who.infoapp 1 reviews"/>
 </p>
 
+> The app does not show me anything. Since I downloaded it I have not been able to use it. When I open it nothing shows so I wonder why some people are giving you thumbs up<br> :date: __2020-07-05 05:34:15__
+
 > Jahangir<br> :date: __2020-06-19 05:46:57__
 
 > Crashed after one minute<br> :date: __2020-06-15 05:58:08__
@@ -233,7 +237,5 @@ The WHO Info app has been installed by more than **100000** times. At this time,
 > The world health organization are deliberately killing people with tainted vaccines all around the world health should be put away from the elite cartels that danger public health - Covid-19 is a biological Engineered Weapon of mass Destruction<br> :date: __2020-05-12 23:43:51__
 
 > THEY MADE IT 😷😷😷😷😷<br> :date: __2020-05-10 15:57:09__
-
-> None<br> :date: __2020-05-10 11:40:37__
 
 

@@ -1,5 +1,29 @@
 [
     {
+        "reviewId": "gp:AOqpTOG7-WUj08yRFu0mPdV9jRnwNs6ZkzXSTwwKKtZ_MIw27XPgR1tD3H1RcZ_lbVBtdnHiR7vYeHvn2iXSfg",
+        "userName": "Constanze Traub",
+        "userImage": "https://lh3.googleusercontent.com/-iqtRU2mo_1M/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucltJd5Hb3Qu-MZ92r4hQONCQvriUg/photo.jpg",
+        "content": "Die App ist unheimlich langsam, da macht das Einloggen und Beantworten keinen Spa\u00df. Auf die Kennzahlen wartet man immer noch. Ich hab's nur deshalb noch nicht deinstalliert, weil ich es wichtig finde, an vielen Stellen bei der Erforschung zu unterst\u00fctzen.",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.0.0",
+        "at": "2020-07-04 21:37:54",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOEndSBU7BZESh1wmfudU8SLofi018JoAc39hooVaazsLZt1NPL_MHfLmsrGYYRD_34MeN3Y96wbwOLoXg",
+        "userName": "Markus Venus",
+        "userImage": "https://lh3.googleusercontent.com/-1ItetN20scU/AAAAAAAAAAI/AAAAAAAADME/AMZuucnfLk6RYDOtWgYoH8PG-VDqhtImzQ/photo.jpg",
+        "content": "Ich mache Seit 2 Monaten mit Beantworte die Fragen Aber ich Wei\u00df nicht ob es was Bringt es steht immer noch da Wir \u00fcberarbeiten derzeit die Kernzahlen wenn ich auf Aktivit\u00e4ten Klicke Dreht sich lange der Kreis bis die Fragen kommen",
+        "score": 1,
+        "thumbsUpCount": 23,
+        "reviewCreatedVersion": "1.0.0",
+        "at": "2020-07-03 21:05:37",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOHCcCwjl3IVFx4coyfd8XrHUeq997qMrjWNzzZ6Zl8Mr_3O8tUKRUyxTGViloNXhha0dWY7Rnvn5K1WZg",
         "userName": "J\u00fcrgen Walter",
         "userImage": "https://lh3.googleusercontent.com/-7joLRDI83IM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl7YGoHniOurDEjr-z56PL_eTAwfQ/photo.jpg",
@@ -20,18 +44,6 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2020-06-25 16:08:07",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOEndSBU7BZESh1wmfudU8SLofi018JoAc39hooVaazsLZt1NPL_MHfLmsrGYYRD_34MeN3Y96wbwOLoXg",
-        "userName": "Markus Venus",
-        "userImage": "https://lh3.googleusercontent.com/-1ItetN20scU/AAAAAAAAAAI/AAAAAAAADME/AMZuucnfLk6RYDOtWgYoH8PG-VDqhtImzQ/photo.jpg",
-        "content": "Ich mache schon Seit 52 Tagen mit und es steht immer noch da wir Bearbeiten gerade die Kernzahlen finde die app gut aber es tut dich nicht viel",
-        "score": 1,
-        "thumbsUpCount": 23,
-        "reviewCreatedVersion": "1.0.0",
-        "at": "2020-06-25 08:06:01",
         "replyContent": null,
         "repliedAt": null
     },
@@ -289,7 +301,7 @@
     },
     {
         "reviewId": "gp:AOqpTOFxhbnjYCbapfThRUwp84IsIW0NwM6UPBPsbR_SsTQaxHSQEErkF-hQeN_SH_dQCzAMuJO6Rx5Pd6MpDQ",
-        "userName": "Martin Faerber",
+        "userName": "Rudy Dyer",
         "userImage": "https://lh3.googleusercontent.com/-2UL2Am_J8zU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnkneKvFLY1vpDmlxpAWtiVrNOpRw/photo.jpg",
         "content": "Gibt es auch ein Feedback seitens der App-Betreiber? Man beantwortet flei\u00dfig, aber der Status bleibt dauerhaft unter Bearbeitung. W\u00e4re ja sch\u00f6n, wenn hier der Nutzer auch mal einen nutzen h\u00e4tte. Aber scheinbar interessieren dann doch nur die wirtschaftlichen Nutzen des Betreibers",
         "score": 2,
@@ -461,7 +473,7 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GimW3kIZcuXv94qbhsC4I93Vl5j-3yy_oaN_ETaKA",
         "content": "L\u00e4uft nicht bei mir. Erst hellblauer, dann wei\u00dfer leerer Bildschirm, fertig. Habe Android 5.1 - alles an. WLAN, GPS, Bluetooth. Kein Firewall Eintrag. Ein paar mal installiert, hilft nichts. Nach Update vom 28.04.2020: unver\u00e4ndert.",
         "score": 1,
-        "thumbsUpCount": 25,
+        "thumbsUpCount": 26,
         "reviewCreatedVersion": "1.0.0",
         "at": "2020-04-29 00:41:49",
         "replyContent": "Vielen Dank f\u00fcr Ihren Hinweis und Ihre M\u00fche. Wir werden den Fehler untersuchen und uns um eine L\u00f6sung bem\u00fchen. Es ist eine gro\u00dfe Herausforderung die App f\u00fcr alle verf\u00fcgbaren Android Versionen anzubieten.",
@@ -506,7 +518,7 @@
     {
         "reviewId": "gp:AOqpTOGadjuBppX91uO3bkMx56UZ3ZtvBJi1DPEkCB8iPUTaK7ICbg289oJekln_8G3Fo5Ifeo8fNpAhrNoL0Q",
         "userName": "Stefan Tillmann",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gi11h6vB2B0qPyjAq1Nn95pNOnAjvcGXl2PAiio",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gi6I_gutCEPUNStOOeVI4LDwPaYxXNrbQCeGWRRxA",
         "content": "Ich finde die App gut l\u00e4uft bei mir perfekt",
         "score": 5,
         "thumbsUpCount": 0,

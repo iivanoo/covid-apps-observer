@@ -160,8 +160,6 @@ The Covidom Patient app has been installed by more than **10000** times. At this
 <img src="4_star_reviews_wordcloud.png" alt="fr.aphp.covidom 4 reviews"/>
 </p>
 
-> Ghita<br> :date: __2020-06-13 17:31:58__
-
 > C'est trés bien , très bonne initiative Mille mercis encore On vous soutient tous !!!!!!!!<br> :date: __2020-05-28 00:30:08__
 
 > J'habite en Bretagne Ilya pas la Bretagne<br> :date: __2020-04-05 20:24:42__
@@ -210,6 +208,8 @@ The Covidom Patient app has been installed by more than **10000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="fr.aphp.covidom 1 reviews"/>
 </p>
 
+> De la poudre au yeux quelque soit le résultat on vous demande d'appeler ...donc poubelle direct<br> :date: __2020-07-04 12:58:45__
+
 > Pas d'accès hors app qui a refusé de me suivre<br> :date: __2020-05-31 20:24:54__
 
 > Pas du tour contente du service j'ai eu des grosse tachycardie et PERSONNE ne ma appeler ... tomber malade le 21 mars, déclarer "guerri" le 7 avril, on est le 13 mai ET J'AI TOUJOURS DES SYMPTOMES QUI ME GACHE LA VIE ET M'EMPÊCHE D'ALLER TRAVAILLER et je ne suis pas la seule c'est nimporte quoi horrible personne pour nous prendre en charge !!!!!!!!!<br> :date: __2020-05-13 19:01:45__
@@ -227,7 +227,5 @@ The Covidom Patient app has been installed by more than **10000** times. At this
 > Sérieusement , on se soigne pas avec une application 🤔 arrêté vos cinéma d'application inutile a la société de maintenant ... Tu prends le RER ton application elle sert a quoi ??? Tu va laisser passer tout le monde devant toi 😅 , lui il la lui il la Pas , époque d'argent en fusion 😜<br> :date: __2020-04-11 18:35:58__
 
 > Impossible remplir mes formulaires les jours demandés, quand je vais me connecter ils sont directement archivés. J'ai beau cliquer dessus il ne se passe rien donc zéro suivi<br> :date: __2020-04-08 11:06:21__
-
-> Impossible de se connecter, mot de passe non valide, aucune explication pour recréer un compte 😡<br> :date: __2020-03-31 14:29:17__
 
 

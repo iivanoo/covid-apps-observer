@@ -151,25 +151,25 @@ The Corona-Warn-App app has been installed by more than **5000000** times. At th
 <img src="5_star_reviews_wordcloud.png" alt="de.rki.coronawarnapp 5 reviews"/>
 </p>
 
-> Totaler Schwachsinn<br> :date: __2020-06-28 18:50:49__
+> Kann nur helfen<br> :date: __2020-07-05 14:05:23__
 
-> Top, es werden keine Daten gespeichert und es kann viel bewegen.<br> :date: __2020-06-28 18:49:43__
+> Corona Warn App<br> :date: __2020-07-05 14:04:22__
 
-> Funktioniert wie sie soll.<br> :date: __2020-06-28 18:47:36__
+> Tut brav was und wie sie soll. Keine Probleme.<br> :date: __2020-07-05 14:04:18__
 
-> Verantwortung gegenüber seinen Mitmenschen tragen!<br> :date: __2020-06-28 18:41:47__
+> IcrimaxOG<br> :date: __2020-07-05 13:50:39__
 
-> Sollten alle mitmachen,finde dir App sehr wichtig<br> :date: __2020-06-28 18:40:11__
+> Läuft, ich war auch irritiert hinsichtlich der Anzeige von 14/14, aber ich habe Ihre Erwiderung zu der Frage gelesen und bin jetzt beruhigt. Danke für Ihre Arbeit.<br> :date: __2020-07-05 13:48:21__
 
-> Ich glaube, dass die App uns wirklich helfen kann, mal gucken!<br> :date: __2020-06-28 18:40:08__
+> Schlanke App. die wenig Ressourcen benötigt. Kann leider nur bis 14 zählen, das verunsichert ein bißchen.<br> :date: __2020-07-05 13:45:54__
 
-> Wichtig! Auch für Aluhutträger.<br> :date: __2020-06-28 18:37:18__
+> Wirklich wichtig!<br> :date: __2020-07-05 13:42:33__
 
-> Läuft absolut reibungslos. Zumindest meldet mein Smartphone keinerlei Fehlermeldungen. Akkuverbrauch so gut wie nicht feststellbar. Alles wie immer. Dafür leiste ich gerne meinen Teil zur Eindämmung der Pandemie. Lob an die Entwickler.<br> :date: __2020-06-28 18:34:53__
+> Alles gut! Diese App macht genau was sie soll und was sie darf. Das finde ich Klasse. Leider zeigen die negativen Bewertungen auch wie weit Deutschland in der digitalen Revolution erst gekommen ist. Hier wimmelt es von Bedingungsfehlern und veralteter Hardware. Außerdem greifen Nutzer auf die Einsternebewertung zurück nur weil sie etwas anderes erwartet haben.<br> :date: __2020-07-05 13:34:58__
 
-> Funktioniert einwandfrei! Da ich ohnehin mein Handy meist mit dem Fitnessband oder Bluetoothkopfhörern verbunden habe, spüre ich keinen merkbaren unterschied der Akkulaifzeit, obwohl die App im Hintergrund ja ständig läuft.<br> :date: __2020-06-28 18:22:30__
+> Fehler: Ursache 3, API (39508) tritt seit einem Tag auf meinem Android Handy auf. Muss man jetzt etwas tun oder einfach auf ein Update warten? Funktioniert die App jetzt noch? EDIT: der Fehler ist einfach verschwunden... Danke für das schnelle Feedback!<br> :date: __2020-07-05 13:30:39__
 
-> Einfach und unkompliziert.<br> :date: __2020-06-28 18:15:23__
+> Keine Fehler erkennbar, außer der Anzeige, dass sie nur bis 14 zählen kann<br> :date: __2020-07-05 13:10:06__
 
 
 
@@ -179,25 +179,25 @@ The Corona-Warn-App app has been installed by more than **5000000** times. At th
 <img src="4_star_reviews_wordcloud.png" alt="de.rki.coronawarnapp 4 reviews"/>
 </p>
 
-> Es sollte auf die Stromspareinstellungen von Android hingewiesen werden, falls der Dienst im Hintergrund beendet werden kann. Außerdem ist es wichtig, sein Handy bei sich zu tragen.<br> :date: __2020-06-28 18:28:08__
+> Seit einer Woche ist der Zähler nun bei 13 von 14 Tagen stehen geblieben. Grundsätzlich nicht dramatisch aber fraglich, ob die Weitergabe möglicher Infektionen dann genauso zuverlässig funktioniert...<br> :date: __2020-07-05 14:02:14__
 
-> Habe einen Corona Test in einer Reha gemacht und war negativ, kann dies aber nicht in der App eingeben, hab auch nicht's schriftlich darüber, was kann ich machen ????<br> :date: __2020-06-28 17:38:44__
+> Wie bekomme ich denn die Aktualisierung? Die App hört nach 14 Tagen auf zu zählen?!<br> :date: __2020-07-05 13:38:49__
 
-> Bekomme Fehlermeldung über die Kommunikation mit Google API (10). Liegt das möglicherweise an Android 6.0? Danke vorab für ihre Antwort.<br> :date: __2020-06-28 16:45:49__
+> Die unzutreffende Zählung der aktivierten Tage wurde offensichtlich behoben. Bei der Anzeige 14 von 14 ist alles ok. Wenn noch mehr mitmachen würden, könnte auch noch mehr Sicherheit erreicht werden. M.E. sollte sich jeder in Reihenfolge die Fragen stellen: Was kann ich für die Gemeinschaft (Staat) tun? Danach, was kann ich von der Gemeinschaft (Staat) erwarten? (Frei nach John F. Kennedy.)<br> :date: __2020-07-05 13:20:20__
 
-> Die App sollte ein Kontaktprotokoll anzeigen, wann sie für wie lange andere Token gesehen hat. Die Token selbst müssen nicht unbedingt angezeigt werden. Interessant wäre auch zu wissen, ob ein Token die Schwelle überschritten hat, um bei der Risikoermittlung berücksichtigt zu werden oder werden immer alle bereücksichtigt?<br> :date: __2020-06-28 16:45:22__
+> Bis jetzt lief die App gut, aber seit heute erscheint folgende Meldung. Ursache 3 etwas ist schiefgelaufen. Fehler bei Kommunikation mit Google API (39508). Nachtrag Heute läuft wieder alles normal, die Fehlermeldung ist verschwunden.<br> :date: __2020-07-05 13:16:06__
 
-> Mein Problem: Smartphone zeigt seit Stunden an : Wird installiert, passiert aber nichts. Weiß nicht, was ich falsch mache!<br> :date: __2020-06-28 16:36:44__
+> Schade ist nur, daß die Software nicht auf alten Android Handys wie z.B. S4 läuft. Es wird sich kaum jemand deshalb ein neues Handy kaufen!! Hilft gegen das Virus, nicht um Daten auszuspionieren. Das ist bei Google anders.<br> :date: __2020-07-05 13:04:38__
 
-> Funktioniert sehr gut bis auf die Fehlermeldung Google API (10) die immer kommt<br> :date: __2020-06-28 16:33:09__
+> Bei mir hat die App nach 14 Tagen aufgehört zu zählen, obwohl ich die neueste Version habe.<br> :date: __2020-07-05 13:02:05__
 
-> Lief zwei Tage ohne Probleme. Ab dann ging gar nix mehr, ein Status war nicht mehr abrufbar. Selbst nachdem sämtliche Ernergiesparmodi abgestellt wurden. Auch Löschung der Daten und des Cache brachte keine Besserung. Wenn das die beste Corona Warn App sein soll, was soll dann wirklich schlecht sein? Ich werde es nach Neuinstallation und Erteilung diverser Berechtigungen nochmals versuchen. Nachtrag: nach erneuter Installation nun vier Tage im Einsatz, keine Einschränkungen mehr.<br> :date: __2020-06-28 15:28:59__
+> Funktionierte vom ersten Tag - hatte ein paar Probleme mit der Google API - die sind inzw aber behoben.<br> :date: __2020-07-05 12:55:31__
 
-> Einfach und übersichtlich. Leider hab ich meinen Test versehentlich gelöscht. Wollte ich wieder per QRCode scannen, war aber nicht möglich. Meldung: Code/Tan bereits vergeben. Ich hätte den Test schon gern wieder in der App. Bitte um Hilfe, wie es geht.<br> :date: __2020-06-28 15:27:02__
+> Ist wohl noch nicht ganz ausgereift. Unter Android 9 läuft scheinbar alles, außer das die App nur bis 14 zählt. Unter Android 6.01 kommen irgendwelche google Kommunikations Fehler und zählt auch nur bis 14. Risikoermittlung aber unter beiden Betriebssystemversionen scheint aber aktiv zu sein. Was soll man davon halten......<br> :date: __2020-07-05 12:50:06__
 
-> Funktioniert anscheinend ohne Probleme. Es wäre schön, wenn man angezeigt bekäme, wie viele Kontakte von der App aufgezeichnet wurden.<br> :date: __2020-06-28 15:26:15__
+> Eher semi gut. Pluspunkt: der Akku geht nicht so schnell leer, wie immer behauptet wird. Allerdings muss man der App dafür am besten die Berechtigungen entziehen, sich selbst zu starten und im Hintergrund weiter zu laufen. Wenn man dazu noch die internetfreigabe entfernt, spart man noch mehr Akku. Schade ist nur, dass man nicht noch Berechtigungen für Bluetooth entziehen kann. Aber dagegen hilft Google play Dienste deinstallieren. Dank der schnüffel-app bin ich jetzt sicher<br> :date: __2020-07-05 12:43:33__
 
-> Übersichtlich, einfach erklärt, es wird Bluetooth benötigt. Update: Nach 11 Tagen Benutzung kann ich sagen das Bluetooth angeschaltet bleiben muss, es also auch aktiviert werden sollte dadurch wird die Laufzeit meines Handys deutlich verkürzt, Akku geht schneller leer. Eine Rückmeldung push-up ob der Schutz noch da ist wenn ich z. B Bluetooth automatisch ausschaltet wäre besser. Trotzdem zufrieden und werde diese App weiter nutzen. Je mehr Leute desto besser.<br> :date: __2020-06-28 15:19:29__
+> Der Tageszähler zählt nach 14 von 14 Tagen nicht weiter S10e.<br> :date: __2020-07-05 12:40:49__
 
 
 
@@ -207,25 +207,25 @@ The Corona-Warn-App app has been installed by more than **5000000** times. At th
 <img src="3_star_reviews_wordcloud.png" alt="de.rki.coronawarnapp 3 reviews"/>
 </p>
 
-> Die App sendet nach längerer Zeit ohne Geräte Neustart keine BLE Signale mehr und empfängt diese nur noch, die App zeigt dies jedoch nicht an sondern die Risikoermittlung wird weiterhin als aktiv gekennzeichnet. D.h. selbst bei allen erlaubten Rechten ist die Funktion eingeschränkt. Dies trat auf bei einem Huawei P20 nach dem Update auf Android 10! Ermittelt wurde dies mit dem BLE Mapper Ramble!<br> :date: __2020-06-28 18:03:38__
+> Bei fast 40 Mio.€, den die App den Steuerzahler kostet, würde ich erwarten, dass die App über 14 Tage hinaus zählen kann oder die Entwickler die Bugs zeitnah beseitigen. Das schafft kein Vertrauen. Oder hat Boris Johnson doch Recht, es gibt keine funktionierende App?<br> :date: __2020-07-05 14:03:38__
 
-> Leider hat die App im Zusammenhang mit dauerhaft aktiviertem Bluetooth nach einem halben Tag mein Handy extrem warm werden lassen und den Akku stark entleert. Warte auf ein Update.<br> :date: __2020-06-28 17:40:37__
+> Warn-App funktioniert. Leider kann an nicht einsehen, ob sich die App automatisch aktualisiert. Ich wollte ein Update machen, ging nicht. Nach einer Neuinstallation istdie alte Version wieder aufgespielt worden. Die App zählt wieder ab Null. Muss ich jetzt alle 14 Tage die App neu installieren? Danke für die Antwort. Also bleibt der Zähler bei 14 stehen und fängt nicht wieder bei 1 an.<br> :date: __2020-07-05 14:02:08__
 
-> Die App überhitzt mein Mate 9 extrem. Die App habe ich deinstalliert und kein Fehler. Also bitte den Fehler beheben. Es kann sein die app viele Handies beschädigen!!!!<br> :date: __2020-06-28 17:26:25__
+> Funktioniert nicht mehr auf dem Huawei Mate s. Datenbank Fehler.<br> :date: __2020-07-05 13:44:54__
 
-> Eine App, in der man ungefragt mit "Du" angesprochen wird, ist für mich nicht akzeptabel - und mag die Aufgabe der App noch so sinnvoll sein.<br> :date: __2020-06-28 16:53:01__
+> Habe seit 4 Tagen Probleme beim Aktualisieren zeigt mir Fehlermeldung Ursache 3 Fehler bei Kommunikation mit Google AP 10 Wenn ich das Smartphone neu starte kann ich aktualisieren Die Frage stellt sich für mich funktioniert die App suche die soll? Heute funktioniert die App überhaupt nicht mehr auch wenn ich das Smartphone neu starte gibt die Ursache 3 an Fehler in der Kommunikation Google AB 39508. Da Aktualisierung nicht möglich wird mir jetzt Risikoermittlung nicht möglich. Was soll ich tun?<br> :date: __2020-07-05 13:42:48__
 
-> Toll, dass Apple GPS nicht braucht, Android aber schon. Und das zusätzlich zu Bluetooth dauerhaft. Da ist der Akku ja gefühlt sofort leer. App wird also nicht installiert, ohne Akku bringt die ja eh nix.<br> :date: __2020-06-28 16:34:04__
+> Es ist komisch das nach 14 Tagen die app nicht zurück gesetzt wird und ab da die neu Zählung beginnt<br> :date: __2020-07-05 13:34:59__
 
-> Ich finde die Idee der Corona app super. Mit Technik gegen die Seuche, ein Vorteil für alle. Mich stört aber Googles Zwang sehr, GPS anschalten zu müssen. Damit macht Google die Nutzung kaputt. Shame on you, Google.<br> :date: __2020-06-28 16:33:48__
+> Hallo, leider funktioniert die Aktualisierung bei mir seit dem letzten Update nicht mehr (Stand heute seit dem 29.06. nicht mehr): Ursachen 3 und 9003; Motorola G3, Android 6.0.1. Vielen Dank!<br> :date: __2020-07-05 13:25:19__
 
-> Die Idee der App ist wohl gut, aber: Wenn jemand positiv getestet wird, wird er das auch in die App eintragen, ganz bestimmt nicht! Wer positiv getestet wurde, hat er dann nicht eh eine Ausgangssperre und hat im öffentlichen Leben nichts zu suchen? Also wie soll er dann jemanden warnen, wenn er in Quarantäne ist? Der richtige Weg währe, demjenigen einen Chip unter die Haut zu pflanzen der solange Signale an die Umgebung sendet, bis Tests wieder negativ sind. Ist nur meine Meinung. Deinstalliert!<br> :date: __2020-06-28 16:18:10__
+> Leider werden immer wieder Tage nicht mitgezählt, obwohl die App aktiv ist. (5 Tage aktiv, aber nur 2/14) gezählt. So bringt die App nicht besonders viel.<br> :date: __2020-07-05 13:18:41__
 
-> Loö<br> :date: __2020-06-28 15:59:54__
+> Zeigt ständig einen API Fehler an. Google ist auf dem neuesten Stand. Handy gerade 3 Monate alt. Auch das deinstallieren und eine neue Installation halfen nicht. Jetzt zeigt die App nicht mal mehr die Tage an, sondern bleibt dauerhaft grau. Hatte echt mehr erwartet, nachdem es so lange dauerte, das Ding überhaupt ans laufen zu bekommen.<br> :date: __2020-07-05 13:12:36__
 
-> Risikoermittlung funktioniert nicht. Irgendein Fehler mit Google api 10.<br> :date: __2020-06-28 15:42:57__
+> Wie bei allen anderen Bewertungen, das mit den 14 Tagen ist gelinde gesagt sehr verwirrend. Ist die App aktiv? Wollte schon die App neu installieren, oder deinstallieren. Kann man das nicht anders, zBsp. mit Datum darstellen. Eigentlich kann man diese App nicht bewerten, man sieht ja nicht ob sie überhaupt arbeitet. Das wäre sehr hilfreich, auch um die Akzeptanz zu erhöhen. Deshalb nur 3*<br> :date: __2020-07-05 13:04:33__
 
-> Funktioniert nach 10 Tagen nicht mehr. Was ist "Ursache 3"? Keine für Laien verständliche Information. Dasselbe Problem tritt nicht nur bei mir auf. Auch Neuinstallation behob das Problem nicht. Und jetzt? Danke für Ihre Rückmeldung: Fehlercode 10 Danke und baldigen Erfolg<br> :date: __2020-06-28 15:37:17__
+> Zählt nur 14 Tage ...? Das verunsichert mehr wie die ganze Datenschutzquatsch Diskussion .. wer davor Angst hat soll sein Handy wegwerfen statt dumm zu argumentieren . Betriebsart und / oder jede App zahlt ihr mit euren Daten .Das ist der Preis . Warum bei Corona viele Datendiktatur oder Überwachungsstaat schreihen ist nicht nur falsch sondern völlig dumm . Aluhut physolophie .. das schränkt nützliche Apps bis zur nutzlosigkeit ein .Schämt euch !!!<br> :date: __2020-07-05 13:04:19__
 
 
 
@@ -235,25 +235,25 @@ The Corona-Warn-App app has been installed by more than **5000000** times. At th
 <img src="2_star_reviews_wordcloud.png" alt="de.rki.coronawarnapp 2 reviews"/>
 </p>
 
-> Hatte die App noch am Tag des Erscheinens installiert und sie lief 1 Woche reibungslos... jetzt geht gar nichts mehr. Mehrfach de- und neuinstalliert, kein Erfolg. Ursache 3, Fehler bei Kommunikation mit Google API(10). Wann läuft die App auf Huawei- Handys?<br> :date: __2020-06-28 18:01:43__
+> Anfangs lief die App super. Nach dem 16. Tag wurde immer noch der 14.Tag angezeigt und nichts ist weiter passiert. Es kam der Fehler Nr. 3 etwas ist schief gelaufenen, Kommunikation mit Google API (10), API (39508).Ich habe die App deinstalliert und wieder installiert, alles war weg. Nichts von wegen die Grund Daten bleiben erhalten. Ich werde die App nochmals testen. Sollte gleiches wieder passieren, werde ich die App auf immer vom Handy entfernen.<br> :date: __2020-07-05 14:02:56__
 
-> Seit Tagen ist eine Fehlermeldung vorhanden welche die Funktion behindert!<br> :date: __2020-06-28 18:01:16__
+> Eigentlich eine gute Idee, deswegen habe ich sie auch installiert. Blauzahn ist eh dauernd bei mir an also wieso nicht... dumm nur, dass nicht nur Blauzahn sondern auch die Standortermittlung dauerhaft an sein muss ... geht gar nicht! Standort ist bei mir generell nur an wenn ich mit Maps navigiere, was nur selten mal vorkommt und ich sehe nicht ein, dass die App selbst zwar schön sicher sein mag, aber alle anderen dann auch dauerhaft meinen Standort erhalten, vom Stromverbrauch zu schweigen...<br> :date: __2020-07-05 14:01:51__
 
-> Mit 20 Mio zu teuer und warum wird mir nicht angezeigt mit wieviel anderen Appinstallationen ich schon Kontakt hatte. Erst dann würde ich mich überzeugt fühlen. Aber müsste sowas nicht auch ausgeschrieben werden? Oder irre ich mich wegen Pandemieregeln?<br> :date: __2020-06-28 17:52:46__
+> Seit ein paar Tagen steht die App still. Angeblich soll die App durch ein Update fehlerfrei weiterlaufen...nur wird kein Update angeboten. Es wird keine Fehlermeldung angezeigt. Die App steht lediglich still.<br> :date: __2020-07-05 13:52:19__
 
-> Die User-Erahrung lässt zu wünschen übrig. Beispielsweise wäre eine direkt zugängliche Statistik über die aufgezeichneten Begegnungen mit anderen Teilnehmer hilfreich, um zu zeigen, dass sie richtig arbeitet. Darüber hinaus ist das Rechtemanagement intransparent. Deaktivieren ich die Ortungsdienste, wird dauerhaft ein Hinweis angezeigt, dass ich dieses wieder aktivieren muss, wenn ich die Benachrichtigungsfunktion nutzen will. Der Zusammenhang scheint bekannt und in Kauf genommen; seltsam.<br> :date: __2020-06-28 17:49:38__
+> Eigentlich ist die App ja eine gute Idee ABER bei mir funktioniert sie immer nur zwei Tage (bis zur Neuinstallation, was bei der App ja auch doof ist), dann kommt eine Fehlermeldung und es wird nix mehr aktualisiert. Ich habe ein huawei P8Lite mit Android 6.0. Das ist zwar schon alt, aber trotzdem sollte man das fixen. Es gibt recht viele Leute, die die App gerne nutzten würden aber ss wegen ihrem Gerät nicht können. Bitte ein Update!<br> :date: __2020-07-05 13:42:33__
 
-> Schon Mist, habs mir schon gedacht, üppige App an MB und kein native 2 SD. ICH HABE EIN ALTES GALAXY S5 UND KEINE LUST DIE ANDEREN APPS ZU DEINSTALLIEREN NUR DAMIT ICH DIESE APP NUTZEN KANN TUT MIR LEID. NATIVE APP 2 SD IST ZWINGEND ERFORDERLICH! 15MB IST NATÜRLICH AUCH EIN WEG... BIN JA MAL GESPANNT. WANN IST DAS NÄCHSTE UPDATE GEPLANT? UND DANKE FÜR DIE ERKLÄRUNG.<br> :date: __2020-06-28 17:35:45__
+> Seit einigen Tagen kommen nur noch Fehlermeldungen (alle möglichen Ursachen und Zahlen ). Die tägliche Aktualisierung funktioniert garniert mehr. Dabei verlasse ich mich auf die App, denn ich bin Hochrisikopatient. Zwar treffe ich mich mit niemandem, muss aber dennoch hin und wieder einkaufen und im Supermarkt ist die Maskenmoral, die Einhaltung Hygienevorschriften und Einhaltung des Abstandes der Leute haarsträubend. Da sollte wenigstens die App funktionieren. Bitte dringend beheben. Danke<br> :date: __2020-07-05 13:41:03__
 
-> Nach 8 Tagen braucht man eine Genehmigung für Android! Sobald alles normal funktioniert gibt es mehr sterne!<br> :date: __2020-06-28 16:00:07__
+> Mir wird seit Tagen angezeigt, dass die App 14 von 14 Tagen aktiv sei. Es gibt auch kein Update.<br> :date: __2020-07-05 13:31:05__
 
-> Bleibt ständig stehen, trotz deaktivierten Energieeinstellungen. "4 von 14 Tagen aktiv". So ists nichtmal ne halbe Sache.<br> :date: __2020-06-28 15:57:46__
+> Obwohl ich Bluetooth stets an habe, steht da Risikowert kann nicht ermittelt werden. Risiko Ermittlung seit 0 Tagen aktiv. Seit ich die App installiert habe hat sich nichts getan! Samsung S6<br> :date: __2020-07-05 13:19:38__
 
-> Ich habe die ganze Zeit ein "Fehler mit der Google API" weswegen ich die app nicht nutzen kann und ich habe eigentlich die aktuellste Android Version auf meinem Samsung S9 Edit: Danke für die Antwort aber ich habe alle Möglichkeiten im faq gecheckt und eigentlich sollte alles passen aber trotzdem geht es nicht Zu Edit4: Es steht da "Ursache: 3" und am ende der Nachricht hinter dem faq link steht "(17)"<br> :date: __2020-06-28 15:28:48__
+> Frage mich ob die APP wirklich richtig und fehlerfrei funktioniert. APP am 16.06. runtergeladen, sie zeigt jedoch seit Tagen nur an "13 von 14 Tagen aktiv"(!!), obwohl sie seit 20 Tagen installiert ist!!! Wenn die APP nicht fehlerfrei läuft, dann nutzt sie vermutlich auch nicht wirklich etwas und man kann sie deinstallieren. Dies wäre sehr enttäuschend. Ich hoffe, das dieser (Zähl- bzw Ansichts-)Fehler der APP bald behoben werden kann.<br> :date: __2020-07-05 13:08:49__
 
-> Schön und gut...aber ich habe nur gesehen, dass Bluetooth die ganze Zeit dafür an sein muss ?!😂 Dann kann ich ja direkt eine 30.000 mAh Powerbank mit mir rumschleppen...Ansich gute Idee...aber dauerhaft Bluetooth an? Nein danke.<br> :date: __2020-06-28 14:44:49__
+> Bekomme immer kurz die Fehlerneldung “Fehler bei Kommunikation mit Google API(10)“ eingeblendet. Daher bin ich nicht sicher, ob bei der App überhaupt alles funktioniert... Neuinstallation hat auch nichts gebracht.<br> :date: __2020-07-05 13:06:19__
 
-> Glaub nicht das diese app funktioniert. Habe die App seit einiger Zeit installiert sowie auch einige Kollegen und meine Famiele. Es wurde aber in den Aufzeichnungen und Anzahl der Schlüssel und Anzahl der Treffer noch kein einziger Schlüssel registriert, obwohl ich lange und nahe in Kontakt war.<br> :date: __2020-06-28 14:35:07__
+> Die App ist nicht schlecht, leider hängt der Tages zähler bei 13 Tage fest . Obwohl es schon die Version 1.0.4 ist. Neuer Fehler ist Ursache 3 Google API 10. Die App lässt sich nicht mehr Nutzen.... Sehr schade<br> :date: __2020-07-05 13:01:58__
 
 
 
@@ -263,24 +263,24 @@ The Corona-Warn-App app has been installed by more than **5000000** times. At th
 <img src="1_star_reviews_wordcloud.png" alt="de.rki.coronawarnapp 1 reviews"/>
 </p>
 
-> nach Deinstallation/Neuinstallation läuft die App auf einen API Fehler. Samsung Android.<br> :date: __2020-06-28 18:51:19__
+> Dauerhafte Fehlermeldungen, nachdem die App 13 Tage fehlerfrei lief. Nervt einfach nur.<br> :date: __2020-07-05 14:04:21__
 
-> Ich habe die App nun zum dritten Mal de- und wieder neu installiert, weil sie sich nicht öffnen lässt. Vielleicht klappt es ja diesmal...<br> :date: __2020-06-28 18:40:26__
+> Seit Tag 1 installiert, funktionierte einwandfrei - jetzt, seit ca. 2 Tagen keine Aktualisierung der Begegnungen mehr möglich - auch nach heutigem Update keine Veränderung - Fehlermeldung "Ursache 3", obwohl kein Energiesparmodus aktiviert ist! Es ist der Fehlercode 10. Update: Immer noch keine Aktualisierung möglich!!!<br> :date: __2020-07-05 14:01:15__
 
-> Was soll diese app bringen wenn ich corona ab geh ich in quarantäne und die app kann daran nichts ändern diese app ist so sinnlos wie ein auto ohne sprit<br> :date: __2020-06-28 18:39:52__
+> 👎🏻👎🏼👎🏽👎🏾👎🏿<br> :date: __2020-07-05 13:56:07__
 
-> Blockiert die Verbindung zu anderen Bluetooth Geräten. Viel gerede für eine teure App. Dazu unbrauchbar, da viel zu wenig mitgemacht wird. Das Geld sollte besser investiert werden und dem RKI abgezogen werden!<br> :date: __2020-06-28 18:39:41__
+> Ich habe die App auf einem Honor 5X installiert. Und bekomme als Fehlermeldung Ursache 3. Etwas ist schief gelaufen. So leider wertlos<br> :date: __2020-07-05 13:49:58__
 
-> Ich würde mindestens einen täglichen Bericht erwarten, wieviele und welcher Art Kontakte erfasst wurden: welcher Abstand, welche Zeitdauer? Solange die App nur geheimnisvoll im Hintergrund arbeitet und ich keine Informationen über die Aktivitäten bekomme, traue ich der App überhaupt nicht; gibt es das was zu verbergen, das ich nicht wissen soll? So geheimnisvoll und intransparent bzgl. der durchgeführten Aktionen wie sie jetzt ist, will ich die App nicht auf meinem Smartphone!<br> :date: __2020-06-28 18:25:47__
+> Läuft gut, aber wer wird sich schon freiwillig dort eintragen bzw. wen ja wer trägt die Menschen wieder aus? Und Europa weit ist sie auch nicht.<br> :date: __2020-07-05 13:43:23__
 
-> Da die App immer wieder nach der Berechtigung Standortdienst (GPS) fragt, obwohl es nicht notwendig ist, habe ich die App wieder gelöscht. Ein Verweis auf die FAQ reicht nicht, weil trotzdem das Warnsymbol auf Standortdienst an ist. Wenn die App nur Bluetooth benötigt, soll die App oder Google nicht mit Standort (Gps) nerven. Wenn das behoben ist, installiere ich die App gern wieder.<br> :date: __2020-06-28 18:21:16__
+> Seit mehreren Tagen die Anzeige "13 von 14 Tagen aktiv". Oftmals auch die Anzeige "nicht aktiv", obwohl ich nichts mache. Also ich weiß nicht so recht wie diese App (nicht wirklich) funktioniert 🤔<br> :date: __2020-07-05 13:42:37__
 
-> Wie kann es ein, daß in der enrgieverwaltung angezeigt wird, dass die App GPS nutzt. Jedoch niemals auf Bluetooth zugegriffen hat? Und nein es liegt nicht an BLE. Andere Apps welche BLE nutzen zeigen es auch an.<br> :date: __2020-06-28 18:20:03__
+> Kommunikation ist gestört.<br> :date: __2020-07-05 13:40:05__
 
-> Wie kann es denn sein dass sich die Risiko Ermittlung ohne Warnung selbstständig ausschaltet?<br> :date: __2020-06-28 18:18:00__
+> Spionage!<br> :date: __2020-07-05 13:30:42__
 
-> Die App ist ordnungsgemäß Installiert doch funktioniert nicht. Als Fehlermeldung bekomme ich :Leider fehlen ihrem Smartphone die Benachrichtigungen zu möglicher Begegnung mit Covid-19 infizierten. Ziemlich schade, dass diese App nicht bei jedem Handy funktioniert ( habe ein Huawei P8 lite 2017)<br> :date: __2020-06-28 18:16:00__
+> Wollen Sie die App bewußt nicht aktualisieren? Ich bin sehr verärgert über den weiterhin nicht richtig arbeitenden Zähler.<br> :date: __2020-07-05 13:22:52__
 
-> Gleich beim Start eine Fehlermeldung. Das schafft kein Vertrauen...<br> :date: __2020-06-28 18:00:15__
+> Die App funktioniert bei mir leider nach 3 Tagen nicht mehr, zeigt mir eine verschlüsselte Fehlermeldung an, die man aber nicht beheben kann und zeichnet folglich keine Kontakte auf. Ich finde es ein schwaches Bild nach solch langer Entwicklungszeit, dabei wäre diese App gesellschaftlich von höchstem Nutzen. Ich lade sie mir nochmal neu runter, bin aber mit der bisherigen Leitung nicht zufrieden.<br> :date: __2020-07-05 13:22:45__
 
 

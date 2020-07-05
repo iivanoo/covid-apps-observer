@@ -168,6 +168,10 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 <img src="5_star_reviews_wordcloud.png" alt="gov.fema.mobile.android 5 reviews"/>
 </p>
 
+> Is there a way to customize the sound alert?<br> :date: __2020-07-04 10:52:45__
+
+> Great app for getting any alerts by phone.<br> :date: __2020-07-03 23:13:08__
+
 > Stays updated<br> :date: __2020-06-18 04:05:32__
 
 > Nice app<br> :date: __2020-06-15 19:39:57__
@@ -184,10 +188,6 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 
 > Very productive sercure guard national support VA non-profit but helpful for safety and insurance for damages of areas of destruction weather storms, or life support<br> :date: __2020-06-06 23:26:31__
 
-> You can receive alerts for multiple areas. The app has everything from weather alerts to information on disaster preparedness. I've not used but you can also call 911 with it.<br> :date: __2020-06-06 16:21:09__
-
-> Now I can hear all my emgincay updated information<br> :date: __2020-06-06 06:36:37__
-
 
 
 #### 4-star reviews
@@ -195,6 +195,8 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="gov.fema.mobile.android 4 reviews"/>
 </p>
+
+> Great app.<br> :date: __2020-07-01 08:50:11__
 
 > Great at giving alerts for different areas. Live posting during storms is excellent. Just be careful you don't list to many places to avoid constant updates.<br> :date: __2020-06-12 03:22:06__
 
@@ -213,8 +215,6 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 > It's been very helpful<br> :date: __2020-05-13 12:07:49__
 
 > The weather alert tab is missing Indland Hurricane Warning, Inland Hurricane Watch, Inland Tropical Storm Warning, Inland Tropical Storm Watch, Hurricane Force Wind Warning, and Snow Squall Warning.<br> :date: __2020-04-28 21:42:47__
-
-> pretty good app...it lets you pick locations you want to monitor and it lets you customize the weather settings so youre not pestered to death about things you dont need to know about...i need to figure out if l can fine tune it however...l'm still getting silly things in the middle of the night like it will be "windy" today or "foggy"...thats all well and good...just not at 0300.<br> :date: __2020-04-26 17:06:27__
 
 
 

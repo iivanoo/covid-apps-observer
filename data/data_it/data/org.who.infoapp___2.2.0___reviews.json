@@ -1,5 +1,29 @@
 [
     {
+        "reviewId": "gp:AOqpTOE1TqVzZPYM_oyOBnTA9ZM_yc6uH9vKfRiphQ-3ROIya1V3AHzvP8PUG6NELXvlvnr0NbhRiNmXMuk_mto",
+        "userName": "debby 76",
+        "userImage": "https://lh3.googleusercontent.com/-fPM7qBcDAvQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnnmzAddcZhlCgyc2xXgorbtSDRWg/photo.jpg",
+        "content": "Visto che molte persone non conoscono l'inglese (e tra queste anche io)sarebbe pi\u00f9 opportuno metterla in italiano",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2020-07-01 16:19:18",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGD5_2MaMY9u39qGmU_rtLpOCuVBm3P_3sDQwDJvpwz-3isTG9FrCXtWh9l1YsQWeAbnYb2KLsMBckhJ-8",
+        "userName": "- Heavy",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhcXnh_JsjcFE3ez193t38FlkB7YSIVoj6vqGk5Jg",
+        "content": "Ma \u00e8 possibile che tutti quelli che abbiano istallato l'app non conoscano l'Inglese? (O almeno l'Italiano visto che lo parlate, ma non sembrerebbe) C'\u00e8 pi\u00f9 ignoranza di quanta ne servirebbe nelle critiche.",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2020-06-30 12:43:55",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOGV8JuGbBFX2RjdXk-SBkW6F-PVzIg3HltRqjulErIq6k3nWWT0jdwPLVkllYbPJjv1Mg-idBC8NdbeXMc",
         "userName": "samantha merola",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiynZcFtuI7acYnD4YENLy-Vxo7G5KUvyqkDdDSUA",
@@ -29,7 +53,7 @@
         "userImage": "https://lh3.googleusercontent.com/-aQQWAJuhebI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckvr4N2R173wmzfL0aOfy-8XpR_dw/photo.jpg",
         "content": "Non si apre, inoltre dato che non tutti conosco l'inglese sarebbe opportuno metterla in ITALIANO.",
         "score": 1,
-        "thumbsUpCount": 52,
+        "thumbsUpCount": 55,
         "reviewCreatedVersion": "2.1.1",
         "at": "2020-05-31 15:19:43",
         "replyContent": null,

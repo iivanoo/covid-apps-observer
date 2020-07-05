@@ -133,6 +133,8 @@ The Canada COVID-19 app has been installed by more than **100000** times. At thi
 <img src="5_star_reviews_wordcloud.png" alt="ca.gc.hcsc.canada.covid19 5 reviews"/>
 </p>
 
+> The case numbers aren't being updated as fast as expected.<br> :date: __2020-07-01 18:34:06__
+
 > I find that it helps me think of my health. I'm also glad that this is out there for us to do. I too have COPD, Asthma which makes me cough through the night that bothers me & my neighbors. I am a smoker which I know I should quit but I don't have the umph to do so that I don't want any Dr to ask me if I want to quit. It'll just make me smile more.<br> :date: __2020-06-27 16:40:51__
 
 > Love it.<br> :date: __2020-06-18 21:51:49__
@@ -150,8 +152,6 @@ The Canada COVID-19 app has been installed by more than **100000** times. At thi
 > I have found this app comforting. It really feels like we are being supported in a common sense way throughout this pandemic. Thank you to the creators of the app and to all of the government employees working so hard in uncharted territory to help keep all of us in Canada safe and secure. Jane McGregor<br> :date: __2020-05-17 15:57:43__
 
 > Stay safe<br> :date: __2020-05-08 04:42:33__
-
-> Excellent app for civilian use<br> :date: __2020-05-05 10:52:22__
 
 
 
@@ -189,6 +189,10 @@ The Canada COVID-19 app has been installed by more than **100000** times. At thi
 <img src="3_star_reviews_wordcloud.png" alt="ca.gc.hcsc.canada.covid19 3 reviews"/>
 </p>
 
+> Daily reporting even if you don't have symptoms is good data.<br> :date: __2020-07-04 17:22:16__
+
+> Pretty basic, wish this worked with the COVID tracking that was installed on my phone by Google. Also, I set the reminder for daily at 9am and it has only reminded me maybe 2-3 times since installing, which was 10-14 days ago.<br> :date: __2020-07-04 16:45:19__
+
 > No local info. Weak app.<br> :date: __2020-06-19 14:47:23__
 
 > slow to load and transition from page to page.<br> :date: __2020-06-16 02:26:59__
@@ -205,10 +209,6 @@ The Canada COVID-19 app has been installed by more than **100000** times. At thi
 
 > It would be great if we also can see the map with active cases only. This would be very helpful.<br> :date: __2020-05-11 22:57:22__
 
-> The symptom tracker needs some improvement. I have moderate to severe asthma so I regularly have symptoms like difficulty breathing & coughing. I also have seasonal allergies so sneezing & sinus issues are common for me right now too. If I check these things off on the symptom tracker, it automatically assumes the worst even tho I don't have any other common symptoms like fever, haven't traveled, or been in close contact with know Covid cases. The app doen't ask about pre existing conditions.<br> :date: __2020-05-06 16:13:33__
-
-> Meh<br> :date: __2020-04-29 21:35:56__
-
 
 
 #### 2-star reviews
@@ -216,6 +216,8 @@ The Canada COVID-19 app has been installed by more than **100000** times. At thi
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="ca.gc.hcsc.canada.covid19 2 reviews"/>
 </p>
+
+> Dont like it<br> :date: __2020-07-04 07:09:53__
 
 > Can't get it to load update ? But phone gets jammed regularly in this ongoing hostage scenario.<br> :date: __2020-06-04 01:51:24__
 

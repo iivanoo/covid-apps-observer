@@ -177,6 +177,8 @@ The COVID-19 Symptom Tracker app has been installed by more than **10000** times
 <img src="3_star_reviews_wordcloud.png" alt="com.designit.covid_19 3 reviews"/>
 </p>
 
+> Die App ist unheimlich langsam, da macht das Einloggen und Beantworten keinen Spaß. Auf die Kennzahlen wartet man immer noch. Ich hab's nur deshalb noch nicht deinstalliert, weil ich es wichtig finde, an vielen Stellen bei der Erforschung zu unterstützen.<br> :date: __2020-07-04 21:37:54__
+
 > Wie lange soll das bearbeiten der Kennzahlen noch dauern? Da fehlt der Teil, der den Nutzen für den Studienteilnehmer ausmacht.<br> :date: __2020-05-01 21:30:34__
 
 > Erinnerung in Dauerschleife. Hallo musste die App heute Morgen kurzzeitig deinstallieren , da der Erinerungston in Dauerschleife lief. Erst Ausschalten und Neustart hat da geholfen.<br> :date: __2020-04-27 16:06:47__
@@ -217,9 +219,9 @@ The COVID-19 Symptom Tracker app has been installed by more than **10000** times
 <img src="1_star_reviews_wordcloud.png" alt="com.designit.covid_19 1 reviews"/>
 </p>
 
-> Ich deinstallier das wieder..., hab keine Lust mehr. Wenn ihr unbedingt Informationen wollt, dann gebt dem Affen Zucker ;-)<br> :date: __2020-06-27 18:10:36__
+> Ich mache Seit 2 Monaten mit Beantworte die Fragen Aber ich Weiß nicht ob es was Bringt es steht immer noch da Wir überarbeiten derzeit die Kernzahlen wenn ich auf Aktivitäten Klicke Dreht sich lange der Kreis bis die Fragen kommen<br> :date: __2020-07-03 21:05:37__
 
-> Ich mache schon Seit 52 Tagen mit und es steht immer noch da wir Bearbeiten gerade die Kernzahlen finde die app gut aber es tut dich nicht viel<br> :date: __2020-06-25 08:06:01__
+> Ich deinstallier das wieder..., hab keine Lust mehr. Wenn ihr unbedingt Informationen wollt, dann gebt dem Affen Zucker ;-)<br> :date: __2020-06-27 18:10:36__
 
 > Nach ein paar Wochen, hat die App ein anderes Profil angezeigt. Keine Korrektur bei Fehleingaben möglich. Im Moment würde ich die App nicht wieder installieren.<br> :date: __2020-06-12 16:51:57__
 

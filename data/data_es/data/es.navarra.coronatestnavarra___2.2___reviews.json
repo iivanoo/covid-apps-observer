@@ -1,5 +1,17 @@
 [
     {
+        "reviewId": "gp:AOqpTOEDtFODMS9yhKOHD2eVWhA2zwmBw0BQ7oZt9IDLO69nfxX1fbMsU81DFfvN3uNn_kcWnUGgom13H0_9Is4",
+        "userName": "Juanjose Pedraja",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gi_0jqw-uTq2KSQnGMk9ZXLqYfDGbOaj2GHZZzk3Q",
+        "content": "Penosa app, se rien en tu cara...",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.2",
+        "at": "2020-07-01 10:51:35",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOEFJOVtpxo8AqVkION_pgtFOdPb-B7M0pBm--KqgTro54fi9ojNpim_0bMySpxRRjk4RUN5lhZYXCZ_I54",
         "userName": "Zarach BalTajh",
         "userImage": "https://lh3.googleusercontent.com/-xv9p2Ow6fso/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclZ4224u7_PTyWmpS6mElKxuN5kSg/photo.jpg",
@@ -53,7 +65,7 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjDVops6yiXjD0-MB9iQ3pMC1Z1Sgq5MwhlXfzg",
         "content": "Buena app, muy f\u00e1cil de utilizar. Espero que haya siguientes versiones con m\u00e1s acciones. Adem\u00e1s del test y consejos, me parece muy interesante saber cu\u00e1ntos casos hay en tiempo real.",
         "score": 5,
-        "thumbsUpCount": 15,
+        "thumbsUpCount": 16,
         "reviewCreatedVersion": "1.1",
         "at": "2020-04-11 00:46:35",
         "replyContent": null,
@@ -113,7 +125,7 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiWVdc_DdJ1BdTbQJ82ih6Nxi64kaFAviAJFx-Hrg",
         "content": "La app muestra el teclado y no desaparece al pinchar en siguiente. La forma de solucionarlo es pinchar en la apertura de aplicaciones abiertas y volver a entrar, pero arreglen ese bug.",
         "score": 3,
-        "thumbsUpCount": 5,
+        "thumbsUpCount": 7,
         "reviewCreatedVersion": "1.0",
         "at": "2020-04-06 14:49:58",
         "replyContent": null,

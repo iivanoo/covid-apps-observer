@@ -165,25 +165,25 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 <img src="5_star_reviews_wordcloud.png" alt="de.xikolo.openwho 5 reviews"/>
 </p>
 
+> Nice<br> :date: __2020-07-03 10:48:14__
+
+> Great information.<br> :date: __2020-07-02 13:56:24__
+
+> Good 75544<br> :date: __2020-07-02 09:34:53__
+
+> thanks i like this app because it help us to take care of our health .🙏🙏🙏🙏🙏🙏🙏🙏🙏<br> :date: __2020-07-02 08:34:37__
+
+> Great helpful e learning platform in the world.... greatest thanks who....<br> :date: __2020-07-02 08:08:22__
+
+> Good<br> :date: __2020-07-01 12:17:47__
+
+> It is good<br> :date: __2020-07-01 08:15:30__
+
 > Great app. Lots of courses to choose from.<br> :date: __2020-06-28 18:23:35__
 
 > Good<br> :date: __2020-06-28 09:39:08__
 
 > Thank you<br> :date: __2020-06-28 09:19:35__
-
-> It's fast and a secure site. I<br> :date: __2020-06-28 07:10:04__
-
-> DR KAMAL KRISHNA BANIK HOLY HEALTH MISSION BANIK CLINIC Ex External Monitor NPSP WHO Govt of India University of Cal Award Winner Jadavpur University SNPS Conference Guide Ethno pharmacology and Jamia Hamdard New Delhi India Award Winner ROTARY International Dist 3291 Life Member IRCS WB Kolkata Powered by NIH Ministry of Ayush Govt of India.<br> :date: __2020-06-27 13:45:36__
-
-> Super<br> :date: __2020-06-26 14:12:53__
-
-> Cool<br> :date: __2020-06-25 21:35:34__
-
-> they are not providing certificate<br> :date: __2020-06-25 09:54:34__
-
-> Good<br> :date: __2020-06-25 00:12:37__
-
-> I assure that certificate may be eligible thanks for giving this opportunity<br> :date: __2020-06-24 23:49:47__
 
 
 
@@ -192,6 +192,8 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="de.xikolo.openwho 4 reviews"/>
 </p>
+
+> Excellent information but less attractive for the most<br> :date: __2020-07-02 17:54:08__
 
 > Good working<br> :date: __2020-06-28 08:53:05__
 
@@ -210,8 +212,6 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 > Good<br> :date: __2020-05-17 08:09:21__
 
 > Want to print my certificate<br> :date: __2020-05-15 02:12:18__
-
-> tell me the process of certificate exam in this application?? I couldn't able to find that..!!<br> :date: __2020-05-13 08:20:42__
 
 
 
@@ -273,6 +273,12 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 <img src="1_star_reviews_wordcloud.png" alt="de.xikolo.openwho 1 reviews"/>
 </p>
 
+> I can't Login no matter how much I try.<br> :date: __2020-07-04 14:19:09__
+
+> This app is having technical issues<br> :date: __2020-07-03 17:13:33__
+
+> Not a good application....It always changes names in certificates and it changes dates also moreover i have done courses and it changes there names also in certificates...so many problems...now what to do<br> :date: __2020-07-02 03:49:39__
+
 > Not sign in properly many time errors.. Please help me out of this problem. I already registered a complaint that particular problem through mail.<br> :date: __2020-06-16 05:10:29__
 
 > No real news<br> :date: __2020-06-10 20:20:26__
@@ -286,11 +292,5 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 > Not good at all, very bad<br> :date: __2020-05-25 06:20:08__
 
 > I try lots time to sign in but no response and my 3mile ide are all ready registered<br> :date: __2020-05-19 16:24:39__
-
-> Just a poor app (Mickey mouse programmers)<br> :date: __2020-05-19 11:01:08__
-
-> Its not working<br> :date: __2020-05-13 18:24:22__
-
-> Nonsense app<br> :date: __2020-05-13 08:19:05__
 
 

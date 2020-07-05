@@ -161,6 +161,8 @@ The SiciliaSiCura app has been installed by more than **10000** times. At this t
 <img src="4_star_reviews_wordcloud.png" alt="com.siciliasicura.app 4 reviews"/>
 </p>
 
+> Stamattina ha ricevuto 5 mail di reset e ho potuto effettuare il login. Grazie per l'aiuto.<br> :date: __2020-07-02 09:53:40__
+
 > A me funziona senza problemi, ho effettuato il check-in appena arrivata e di tanto in tanto la aggiorno.<br> :date: __2020-06-24 20:22:08__
 
 > Buongiorno volevo sapere siccome noi partiamo dalla Svizzera ad agosto,devo comunque scaricare l'app, o basta immettere i propri dati nel sito Siciliasicura. it Un altra cosa siccome siamo in 4,io mia moglie e 2 figlie minorenni, ogni persona ha bisogno della registrazione. Posso farlo io per tutti e 4.<br> :date: __2020-06-24 13:21:59__
@@ -182,6 +184,8 @@ The SiciliaSiCura app has been installed by more than **10000** times. At this t
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="com.siciliasicura.app 3 reviews"/>
 </p>
+
+> Ho avuto difficoltà a registrarmi mi diceva l'email era già presente. Una volta inviata l'email al servizio clienti il problema lo risolvono rapidamente.<br> :date: __2020-07-01 13:03:53__
 
 > Continuo a ricevere la notifica che mi chiede il mio stato di salute... almeno 3 volte al giorno anche se ho già aggiornato lo stato.<br> :date: __2020-06-26 15:07:10__
 
@@ -209,6 +213,14 @@ The SiciliaSiCura app has been installed by more than **10000** times. At this t
 <img src="2_star_reviews_wordcloud.png" alt="com.siciliasicura.app 2 reviews"/>
 </p>
 
+> Nn si vedono i mesi dell' anno e tanto meno l anno, bisogna andare a fortuna o contare all indietro. Vedete di modificare e di semplificare l'iscrizione<br> :date: __2020-07-04 16:24:40__
+
+> L'app manda 5-6 volte di fila la notifica per segnalare il proprio stato. Si verifica ogni santo giorno! Da 2-3 giorni, addirittura, anche dopo che invio l'aggiornamento sul mio stato mi viene notificato nuovamente di segnalare il mio stato! Sempre 5-6 volte di fila!<br> :date: __2020-07-03 17:02:43__
+
+> Ho fatto la registrazione compilando il modulo ma dopo tempo continuo a non ricevere nessuna mail di conferma...<br> :date: __2020-07-03 09:45:20__
+
+> Un app con diversi malfunzionamenti , una volta registrati quando si prova a fare il check in pur avendo attivato la geolocalizzazione, il sistema si blocca, dice di attivare la geolocalizzazione già attiva e rimanda al numero verde<br> :date: __2020-07-01 07:45:11__
+
 > Ho appena scarico app. Ho compilato il form per la registrazione ma quando clicco su "invia" non va avanti.<br> :date: __2020-06-25 17:28:23__
 
 > Scusate ma come si fa ad impostare le date,c è da sclerare,devo essere in sicilia nei primi di luglio e non riesco a registrarmi,impostare le date,di nascita,di partenza non si capisce,fate qualcosa<br> :date: __2020-06-13 21:00:06__
@@ -221,10 +233,6 @@ The SiciliaSiCura app has been installed by more than **10000** times. At this t
 
 > Io devo rientrare in Sicilia e al momento della registrazione mi dice che la mia posizione non è nel territorio regionale. Ma io per rientrare in Sicilia devo per forza registrarmi? come faccio se non mi fa registrare? Non capisco, se qualcuno può rispondere grazie.<br> :date: __2020-05-12 12:12:40__
 
-> Devo tornare a casa tra qualche giorno e come indicato mi sono registrata al sito indicando il luogo di partenza e di arrivo. Ora ho scaricato l'app, ho ricevuto l'email e la password ma non riesco ad accedere perché mi chiede la geolocalizzazione. Mi spiegate cosa devo fare? Che senso ha impedire l'accesso perché sono fuori dal comune? l'ho scaricata apposta perché sono fuori e devo rientrare.<br> :date: __2020-05-11 17:56:46__
-
-> Al momento di registrarmi,mi chiede l'indirizzo in cui risiedo,mi fa attivare la geolocalizzazione per poi non farmi continuare con la registrazione in quanto mi dice che la posizione dell'utente non coincide con l'indirizzo selezionato. Aiutatemi!!!<br> :date: __2020-05-05 17:35:06__
-
 
 
 #### 1-star reviews
@@ -233,24 +241,24 @@ The SiciliaSiCura app has been installed by more than **10000** times. At this t
 <img src="1_star_reviews_wordcloud.png" alt="com.siciliasicura.app 1 reviews"/>
 </p>
 
+> Fa schifo e rompe le scatole anche più volte al giorno. Invasiva ed inutile<br> :date: __2020-07-04 16:23:23__
+
+> App fa sciffo mia sorella e rimasta Li aeroporti di Dusseldorf Dopo che aveva pagato biglietto aero euro 500 per la sicilia. Musumeci I extracomunitari entrano senza essere registrati e noi italiani solo problemi per entrare in sicilia<br> :date: __2020-07-04 12:36:37__
+
+> Come scritto da altri prima di me NON RIESCO A FARE ACCESSO all'app dopo la registrazione e dopo 3 cambi password. Il problema è VOSTRO. Più una vuole essere precisa in questa situazione da Covid e più mettete.in difficoltà! Un servizio così importante DEVE essere efficiente e non ci si può permettere di essere così superficiali!! RISOLVETE PLEASE<br> :date: __2020-07-03 22:17:46__
+
+> Non obbligate a scaricare l'app se prima non la semplificate in modo che si possa almeno iscriversi<br> :date: __2020-07-03 10:02:26__
+
+> Spero che non vogliate sapere anche quante volte vado in bagno. Disistallata immediatamente. A detta di Nello è un app discreta...ma lui dice pure che la brava gente sta a casa e sta zitta. Vergogna.<br> :date: __2020-07-02 09:05:55__
+
+> Ho scaricato l app e mi sono registrata ma non hanno inviato l'email. Ho controllato anche la posta indesiderata. Ho fatto richiesta di recupero pw ma nulla. Credo che obbligare le persone alla registrazione e non attenzionare il funzionamento del servizio sia veramente ridicolo.<br> :date: __2020-06-30 23:11:26__
+
+> L'app non funziona... Dice sempre email già presente. Ma non è vero perché sto provando con tante email ma dice sempre la stessa cosa.<br> :date: __2020-06-30 20:40:15__
+
+> Appena completata la registrazione mi segnala che la mail è già presente.<br> :date: __2020-06-30 19:43:48__
+
+> Piena di bug anche solo in fase registrativa. Mi ha bloccato al punto di "verifica di non essere un robot" dopo aver ritentato il test dice che però la mail di registrazione è stata utilizzata. App inutile e fine a se stessa.<br> :date: __2020-06-30 19:31:16__
+
 > Ottima App per passarci un po' di ore per registrarsi,senza concludere nulla complimenti al telefono nessuno risponde,bene bene.<br> :date: __2020-06-27 05:58:29__
-
-> Non va e si blocca subito. Android.<br> :date: __2020-06-26 22:40:22__
-
-> Finalmente sono riuscito a registrarmi , ma nell'app su android appena click su esci ,mi ritorna alla pagina iniziale dove devo ridare consenso ecc e rimettere le credenziali. Scusate ma così no va bene vale sempre una stella<br> :date: __2020-06-25 16:25:30__
-
-> Provo ad accedere una volta fatta la registrazione e scelta la password, ma mi dice "Accesso Negato". Scrivo all'Help Desk che mi dice che il mio username non esiste, nonostante abbia ricevuto la mail di conferma che mi assegna proprio quel user... Inadeguati app e servizio Help Desk<br> :date: __2020-06-24 14:48:26__
-
-> Non arriva l'email per avere l'username ... Registrazione non portata a termine<br> :date: __2020-06-24 13:12:48__
-
-> Sembra che i dati inseriti non siano mai corretti e continua a non funzionare.<br> :date: __2020-06-23 19:09:37__
-
-> Nella registrazione, per la data di nascita è possibile indicare solo i mesi da gennaio a giugno, come se i successivinon esistessero. Io sono nata ad agosto e non ho potuto selezionare il mese 08. Quondi, niente registrazione!!!<br> :date: __2020-06-21 14:15:52__
-
-> Provo a registrarmi ma dice che la mail è già presente e devo fare prima il checkout... vorrei capire come visto che non ho i dati per accedere (controllato anche la cartella spam. La registrazione non è mai stata completata). Restiamo in attesa dell'helpdesk. Se un turista deve fare tutti questi giri voglio proprio vedere a fine stagione quanti si sono registrati. Sicuramente da migliorare.<br> :date: __2020-06-21 12:43:42__
-
-> Ho scaricato l'applicazione, l'ho compilata ma alla fine, dopo la verifica corretta col captcha non mi fa inviare la richiesta, cioè non si evidenzia INVIA. Ho provato da pc, stessa cosa, tutti i campi compilati correttamente, ma alla fine non fa inviare<br> :date: __2020-06-20 10:08:15__
-
-> Nella fase finale della registrazione, dopo la verifica " non sono un robot" non ti fa andare avanti e non ti dice il perche', il tasto invia e' inattivo.<br> :date: __2020-06-19 13:34:56__
 
 

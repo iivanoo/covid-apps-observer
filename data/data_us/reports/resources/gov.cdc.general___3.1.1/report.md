@@ -188,6 +188,8 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 <img src="5_star_reviews_wordcloud.png" alt="gov.cdc.general 5 reviews"/>
 </p>
 
+> Even though our president is a dipshit I can always count on this app to give me the truth.<br> :date: __2020-06-30 19:08:00__
+
 > What a loving organization help us be safe, bless you my Lord CDC. Great app, I give you 10 sun's. 🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞<br> :date: __2020-06-27 11:47:05__
 
 > Exceptionally well done<br> :date: __2020-06-25 17:49:18__
@@ -200,13 +202,11 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 
 > Best Source For True Information<br> :date: __2020-06-14 16:56:20__
 
+> Am very happy for this app<br> :date: __2020-06-14 07:03:51__
+
 > Go CDC<br> :date: __2020-06-08 16:48:17__
 
 > Hey my opinion is the best app for everyone to have nowadays extremely important feedback up to date is given as you Basque everyone should have this application<br> :date: __2020-06-08 16:34:36__
-
-> MUST HAVE !<br> :date: __2020-06-04 03:41:41__
-
-> This is an essential asset to all Americans. Two thumbs way up.<br> :date: __2020-06-03 09:28:23__
 
 
 
@@ -300,6 +300,10 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 <img src="1_star_reviews_wordcloud.png" alt="gov.cdc.general 1 reviews"/>
 </p>
 
+> YOU ARE ALL GUILTY OF MURDER, & WAR CRIMES AGAINST GOD'S PEOPLE. MAY GOD BURN EVERY ONE OF YOU WITH HIS FIRE FROM HEAVEN IN THE NAME OF JESUS CHRIST. MAY YOUR LAUGHTER, & SMILES BE TURNED TO HORROR, & FBI, CIA, & THEIR ACCOMPLICES SUFFER THE HOLY FIRE OF GOD UPON THEIR FAMILIES, & THEMSELVES, INCLUDING THE FREE MASON, JESUIT, & THEIR ANTICHRIST JEW CRIMINALS. FBI=GUILTY. CIA=GUILTY. CDC=GUILTY. ATF=GUILTY. IRS=GUILTY. ALL DEATH PENALTY OFFENSES! WE THE PEOPLE HAVE SPOKEN. #SWIFTDEATHPENALTY.<br> :date: __2020-07-04 01:05:26__
+
+> Just a bunch of feel good cr,p. No stats on coronis or anything else such as death by gun, by car, by cancer or anything else, at a time when that is what people are looking for. If it's in there they have made it to hard to find.<br> :date: __2020-07-02 18:35:07__
+
 > I mean, why not just use the website? It just seems kinda useless. Maybe if it was a covid-19 exposure tracker, then it may be useful, but it's not so I can't recommend it.<br> :date: __2020-06-28 03:11:43__
 
 > Outdated and useless information.<br> :date: __2020-06-21 05:55:03__
@@ -315,9 +319,5 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 > Can't get the CDC icon on my screen and don't see how to shut it down getting ready to take it off<br> :date: __2020-06-07 12:05:50__
 
 > It's NOT a contact tracing app.<br> :date: __2020-06-02 16:28:44__
-
-> Not up to date<br> :date: __2020-05-28 03:49:46__
-
-> Someone on a government level has used this app illegally to track my being I did not give permission to download this app and it will not allow me to uninstall the covid-19 app<br> :date: __2020-05-23 05:23:02__
 
 

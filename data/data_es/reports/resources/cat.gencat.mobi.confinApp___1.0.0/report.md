@@ -171,6 +171,8 @@ No recent reviews available with 3 stars.
 <img src="1_star_reviews_wordcloud.png" alt="cat.gencat.mobi.confinApp 1 reviews"/>
 </p>
 
+> Penosa app, se rien en tu cara<br> :date: __2020-07-01 10:52:14__
+
 > No puedo crear mi perfil Pongo lo que pide pero no me da la opción de finalizar mi perfil<br> :date: __2020-06-11 20:59:07__
 
 > No va<br> :date: __2020-05-18 13:16:22__
@@ -188,7 +190,5 @@ No recent reviews available with 3 stars.
 > En un principio generaba certificados ahora no lo hace y no me sirve para nada<br> :date: __2020-05-06 08:59:27__
 
 > Fatal, li pregunto sobre animals de companyia, les normes i no hi ha manera de que em respongui. Desinstal-lo!<br> :date: __2020-05-05 12:31:40__
-
-> Va fatal no graba los datos<br> :date: __2020-05-04 16:08:16__
 
 

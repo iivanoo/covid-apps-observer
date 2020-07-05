@@ -65,7 +65,7 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gg_wRz9oL_ICnuBrS62JDhyBJZDao6DDNuu0-h6yi0",
         "content": "Your app keeps opening Google Chrome for news updates. However, I don't use this browser. Can you update the app to support any browser? Android has Firefox, Samsung Internet, Microsoft Edge, Opera, Brave, and many more - you need to support more than just Chrome. Once this is fixed, the app will get 5 stars! Edit: you guys fixed it!! Thank you! 5stars to you!",
         "score": 5,
-        "thumbsUpCount": 21,
+        "thumbsUpCount": 22,
         "reviewCreatedVersion": "1.17.0",
         "at": "2020-05-16 08:10:54",
         "replyContent": null,
@@ -145,7 +145,7 @@
     },
     {
         "reviewId": "gp:AOqpTOGSp7jL6EcjnYANZ-ppum7AP2ii6O-EPBtmQDe_4mde3cxDfgnUrF9SkPw9iTegdGLZ4XyEMfPZMNLhRUk",
-        "userName": "Suzanna Read",
+        "userName": "Suzanna",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhyX8vGcN1Afc_gYwdDoVBOkWVo99IfaaNd9-5QaQ",
         "content": "This app helps with understanding what to do, what is going on, and what the government is doing.",
         "score": 5,
@@ -296,18 +296,6 @@
         "thumbsUpCount": 5,
         "reviewCreatedVersion": "1.8.0",
         "at": "2020-04-07 00:36:59",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOEow69tZlMPSIoNJijMemrt9a7aWocz1hDv1khMT_rCBd1XKOJClfCG8dKViFR4t-ln90u_KjyLwhmiETE",
-        "userName": "S. H.",
-        "userImage": "https://lh3.googleusercontent.com/-m_HRkpPAv5A/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclx2hOLd1Oj2WICcICnvu31j0wJYg/photo.jpg",
-        "content": "Good app, but could use some enhancements such as a dark theme (app is blindingly white) and a widget that provides updates on cases in real time. Also, app survey is focused solely on symptom related material and nothing in regards to the actual app...",
-        "score": 4,
-        "thumbsUpCount": 3,
-        "reviewCreatedVersion": "1.8.0",
-        "at": "2020-04-05 23:00:40",
         "replyContent": null,
         "repliedAt": null
     },

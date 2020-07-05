@@ -172,6 +172,8 @@ The CRUSH COVID RI app has been installed by more than **10000** times. At this 
 <img src="4_star_reviews_wordcloud.png" alt="com.ri.crushcovid 4 reviews"/>
 </p>
 
+> if you don't see the icon, it's not tracking you.<br> :date: __2020-07-04 23:43:54__
+
 > Works fine, though doesn't seem to update daily on my tracking.<br> :date: __2020-06-08 22:02:18__
 
 > Happy with it, but wish it had: - lower battery drain - visual display of location tracing Thanks!<br> :date: __2020-06-08 19:14:53__
@@ -190,8 +192,6 @@ The CRUSH COVID RI app has been installed by more than **10000** times. At this 
 
 > Great idea RI DOH<br> :date: __2020-05-19 21:24:30__
 
-> First to download hope it works<br> :date: __2020-05-19 19:10:52__
-
 
 
 #### 3-star reviews
@@ -199,6 +199,8 @@ The CRUSH COVID RI app has been installed by more than **10000** times. At this 
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="com.ri.crushcovid 3 reviews"/>
 </p>
+
+> Not accurate or up to date. Last night, I grabbed some takeout and then drove to a park by the ocean to eat it. App says I spent almost two hours at Game Stop (the restaurant is where Game Stop used to be.....4 years ago....)<br> :date: __2020-07-03 18:29:50__
 
 > Shows me at my neighbor's house instead of mine Number of hours shown in day for locations add to more or less than 24<br> :date: __2020-06-27 21:17:46__
 
@@ -218,8 +220,6 @@ The CRUSH COVID RI app has been installed by more than **10000** times. At this 
 
 > App has helpful information but the My Location Diary has been inaccurate.<br> :date: __2020-05-25 17:18:49__
 
-> Started off well but crushed my battery and has been causing issues with my GPS using apps. Can't have it on all the time which kind of defeats the point.<br> :date: __2020-05-24 17:43:32__
-
 
 
 #### 2-star reviews
@@ -227,6 +227,8 @@ The CRUSH COVID RI app has been installed by more than **10000** times. At this 
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="com.ri.crushcovid 2 reviews"/>
 </p>
+
+> I've had this app on my phone for about a month now and I assumed it was keeping track of where I go, apparently that isn't the case because it's only showing two places in a month which is wrong. I also stopped keeping a contact diary after downloading the app and now I will have a hard time remembering everywhere I've been the past month. Luckily I stay home a lot more than I used to but it's not showing any markets or stores I've been to. I think I'm just going to delete the app.<br> :date: __2020-06-29 20:04:33__
 
 > I had the app when it first came out and it worked fine until 3 weeks ago then it stopped tracking me. I just got a new Note 10 and it won't let me finish setting it up . Won't respond on last page of setup to allow it to track, etc. So I uninstalled it and am going to try to install it again<br> :date: __2020-06-19 20:44:25__
 
@@ -246,8 +248,6 @@ The CRUSH COVID RI app has been installed by more than **10000** times. At this 
 
 > Killed my battery quickly. Makes sense but google maps does the same tracking of where I go.<br> :date: __2020-05-26 22:35:54__
 
-> Location does not work all the time, only if app is running, so it useless, as I can't seem to set it to access location all the time? So the location data is not updating.<br> :date: __2020-05-25 18:06:42__
-
 
 
 #### 1-star reviews
@@ -255,6 +255,16 @@ The CRUSH COVID RI app has been installed by more than **10000** times. At this 
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="com.ri.crushcovid 1 reviews"/>
 </p>
+
+> Terrible app. Won't install properly. Developers don't know what they're doing. Very amateurish.<br> :date: __2020-07-03 13:17:57__
+
+> Inaccurate<br> :date: __2020-07-02 17:42:35__
+
+> Not accurate or effective.<br> :date: __2020-06-30 21:56:46__
+
+> Completely inaccurate and doesn't stay open. If I haven't clicked on it, it doesn't track anything and it seems to close out on its own. When it IS tracking, the location is incorrect for about 90% of the time. Great idea, poor app.<br> :date: __2020-06-30 17:14:37__
+
+> Dumb app. Don't download.<br> :date: __2020-06-30 04:45:34__
 
 > Mmm<br> :date: __2020-06-26 05:59:51__
 
@@ -265,15 +275,5 @@ The CRUSH COVID RI app has been installed by more than **10000** times. At this 
 > I dont think I spent 125 hours in one day at a location very inaccurate and may skip a few days and hours<br> :date: __2020-06-25 20:51:58__
 
 > It is incredibly inaccurate. I live in Cranston. We went to the border of CT and got off the motorcycle for over 30 minutes. It didn't record my location at all that day. Now it's reading I was at Ace Hardware for HOURS. I wasn't there at all. Worthless. UPDATE - MY LOCATION DIARY HAS NOT UPDATED IN 10 DAYS. REMOVING THIS FROM MY PHONE.<br> :date: __2020-06-25 05:34:38__
-
-> Thus app is not working on my android smart phone. No locations are being recorded.<br> :date: __2020-06-24 19:24:21__
-
-> Completely inaccurate. This is the wrong solution. Should use Google COVID-19 Proximity Tracking API, which already works. But app relies on ineffective method that (sometimes) stores your (wong) location history locally and then flags you as a contact if RIDOH parameters have been met. So you still have to rely on people correlating information and calling you. Way too many variables will mean very slow, and never complete, adiption. Don't reinvent the wheel.<br> :date: __2020-06-24 05:16:21__
-
-> Remove covid19<br> :date: __2020-06-22 06:32:14__
-
-> F\*\** off big brother<br> :date: __2020-06-19 16:58:23__
-
-> Download the app and select language preference but can't proceed from that point.<br> :date: __2020-06-14 14:30:46__
 
 

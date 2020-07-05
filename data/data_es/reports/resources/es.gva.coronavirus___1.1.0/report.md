@@ -169,6 +169,10 @@ No recent reviews available with 2 stars.
 <img src="1_star_reviews_wordcloud.png" alt="es.gva.coronavirus 1 reviews"/>
 </p>
 
+> Bien<br> :date: __2020-07-01 19:17:38__
+
+> Penosa app, se rien en tu cara y ciertos comentarios los retiran...<br> :date: __2020-07-01 10:53:08__
+
 > Ninguna finalidad,para pedir cita previa y nada más.<br> :date: __2020-06-18 22:41:38__
 
 > Para el coronavirus es una castaña. Lo que hace falta de una vez es una implementación a nivel estatal o europeo, de la rutina de seguimiento mediante bluetooth de Apple y Google. Lo demás chapuzas sobre chapuzas<br> :date: __2020-06-11 02:37:02__
@@ -184,9 +188,5 @@ No recent reviews available with 2 stars.
 > Solo sirve para rastrear<br> :date: __2020-04-19 10:25:21__
 
 > Es que está aplicación no tiene sentido... Con la propia anterior era suficiente, obligan a todos a instalar una nueva. Perdida de dinero y tiempo<br> :date: __2020-04-16 19:29:40__
-
-> Parece que sea una atención específica de coronavirus y es tu médico de cabecera. Una perdida de tiempo. Si necesitas algo urgente llama al número asignado al coronavirus.<br> :date: __2020-04-16 13:07:28__
-
-> Basura. Solo accedes con SIP, no sirve para consultar información general y seguir los cambios. Desinstalando<br> :date: __2020-04-12 18:43:13__
 
 

@@ -198,6 +198,8 @@ The GVA Responde app has been installed by more than **10000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="es.gva.responde 1 reviews"/>
 </p>
 
+> Penosa app, se rien en tu cara<br> :date: __2020-07-01 10:51:54__
+
 > Ineficaz, las respuestas son confusas, ó, ineficaces.<br> :date: __2020-05-15 07:20:04__
 
 > No me resuelve nada que no me diga las noticias ya....<br> :date: __2020-05-06 18:45:25__
@@ -215,7 +217,5 @@ The GVA Responde app has been installed by more than **10000** times. At this ti
 > No sirve para nada, por el momento.<br> :date: __2020-04-07 00:59:40__
 
 > No me ha gustado, esperaba más<br> :date: __2020-04-06 16:32:08__
-
-> Pensava que podria fer preguntes i l'administració contestaria, però no. Simplement és un "preguntes freqüents"<br> :date: __2020-04-04 13:11:17__
 
 

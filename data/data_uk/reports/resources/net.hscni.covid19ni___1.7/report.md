@@ -156,6 +156,8 @@ The COVID-19 NI app has been installed by more than **50000** times. At this tim
 <img src="5_star_reviews_wordcloud.png" alt="net.hscni.covid19ni 5 reviews"/>
 </p>
 
+> Excellent and informative<br> :date: __2020-06-30 14:11:20__
+
 > Amazing the p we people who it doesn't work you need to go to the NHS website or gothirmont web don't give the 1 star if do you are ungrateful and it probably your phone. 😂😂😂<br> :date: __2020-06-06 22:45:27__
 
 > Easy to use informative and source of good advice and information specific for NI residents.<br> :date: __2020-06-06 10:56:34__
@@ -174,8 +176,6 @@ The COVID-19 NI app has been installed by more than **50000** times. At this tim
 
 > Very good feels like I can really see what's going on<br> :date: __2020-05-02 00:31:11__
 
-> Great app for the people in N. Ireland<br> :date: __2020-05-01 11:34:34__
-
 
 
 #### 4-star reviews
@@ -183,6 +183,8 @@ The COVID-19 NI app has been installed by more than **50000** times. At this tim
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="net.hscni.covid19ni 4 reviews"/>
 </p>
+
+> Could do with more updates. But pretty good for sign posting<br> :date: __2020-06-29 12:39:16__
 
 > A bit empty but good overall!<br> :date: __2020-06-17 22:06:54__
 
@@ -201,8 +203,6 @@ The COVID-19 NI app has been installed by more than **50000** times. At this tim
 > Not bad. To all the people saying its useless as it only works in Northern Ireland, just what exactly do you think the NI in the bloody name stood for? If you're that stupid maybe you shouldn't be allowed a smartphone - Jeez! 🙄<br> :date: __2020-03-30 14:46:56__
 
 > It's a good app, unsure why the comments are being so annoyed about it not working outside of northern ireland whenever the app is called covid 19 ni... Anyhow if any of the people actually wanted to use the app outside the UK all they would need to do is look on Google for a post code from northern Ireland which is easy to find and since we're all on lock down then you all have plenty of time to Google it.<br> :date: __2020-03-30 10:24:28__
-
-> ÑHS rocks<br> :date: __2020-03-30 09:25:57__
 
 
 

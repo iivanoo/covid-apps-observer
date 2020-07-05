@@ -193,6 +193,8 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 <img src="4_star_reviews_wordcloud.png" alt="de.xikolo.openwho 4 reviews"/>
 </p>
 
+> OK.Bien<br> :date: __2020-07-02 03:23:46__
+
 > Je ne comprend pas qu'il fait écrit<br> :date: __2020-04-16 19:36:27__
 
 > Je viens de m'inscrire et commence a suivre des cours, format et contenu très intéressant. Si on pouvait avoir encore plus de contenu en Français ce serait top. L'application crash parfois... A voir...<br> :date: __2020-04-08 17:22:54__

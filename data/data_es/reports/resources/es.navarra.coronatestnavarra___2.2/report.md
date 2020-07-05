@@ -173,6 +173,8 @@ No recent reviews available with 2 stars.
 <img src="1_star_reviews_wordcloud.png" alt="es.navarra.coronatestnavarra 1 reviews"/>
 </p>
 
+> Penosa app, se rien en tu cara...<br> :date: __2020-07-01 10:51:35__
+
 > Solo te dice si estás contagiado en función de que le respondas que tienes síntomas. No da información sobre número de contagiados en la zona ni nada en tiempo real<br> :date: __2020-05-27 08:17:55__
 
 > Falta la opción tu tuviste síntomas tu pareja le an echo el test 5 semanas de su posible contagio y a dado positivo etc.<br> :date: __2020-04-28 00:28:42__

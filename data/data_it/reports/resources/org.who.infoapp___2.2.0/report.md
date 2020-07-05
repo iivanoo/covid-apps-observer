@@ -151,10 +151,12 @@ The WHO Info app has been installed by more than **100000** times. At this time,
 #### 3-star reviews
 
 <p align="center">
-
+<img src="3_star_reviews_wordcloud.png" alt="org.who.infoapp 3 reviews"/>
 </p>
 
-No recent reviews available with 3 stars.
+> Ma è possibile che tutti quelli che abbiano istallato l'app non conoscano l'Inglese? (O almeno l'Italiano visto che lo parlate, ma non sembrerebbe) C'è più ignoranza di quanta ne servirebbe nelle critiche.<br> :date: __2020-06-30 12:43:55__
+
+
 
 #### 2-star reviews
 
@@ -169,6 +171,8 @@ No recent reviews available with 2 stars.
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="org.who.infoapp 1 reviews"/>
 </p>
+
+> Visto che molte persone non conoscono l'inglese (e tra queste anche io)sarebbe più opportuno metterla in italiano<br> :date: __2020-07-01 16:19:18__
 
 > Non si apre mi da errore<br> :date: __2020-06-18 14:35:44__
 

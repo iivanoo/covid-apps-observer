@@ -1,5 +1,17 @@
 [
     {
+        "reviewId": "gp:AOqpTOH7UJ8vuq8F9Yj99izNkoMWF2nONxf2CKGr8RVGZQXs43N5XwbCIYRks3ela0iD8nyo-K8TPk9lzdGKYw",
+        "userName": "Juanjose Pedraja",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gi_0jqw-uTq2KSQnGMk9ZXLqYfDGbOaj2GHZZzk3Q",
+        "content": "Penosa app, se rien en tu cara",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.0.6",
+        "at": "2020-07-01 10:51:54",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOG5ko_oU_P67mDmYNH65K7_mx08lz3saMNPg3JErQsR8QUwATUtTNq5uOA1tTw-bA5ySl7m9n45ZmMdaA",
         "userName": "Jesus Gil",
         "userImage": "https://lh3.googleusercontent.com/-ufXcsthOEA4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckjji2TP4Dpp-O9-mwVtGNn3wUxQA/photo.jpg",
@@ -245,7 +257,7 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgOV1RqPw8IwLgzJsdCRawml5mohXcQbkPIkJsd8g",
         "content": "He intentado abrir dos secciones, las primeras que me interesaban y se queda colgada cargando hasta el infinito y m\u00e1s all\u00e1. Arreglen esto por favor.",
         "score": 1,
-        "thumbsUpCount": 8,
+        "thumbsUpCount": 9,
         "reviewCreatedVersion": "1.0.2",
         "at": "2020-04-14 12:28:21",
         "replyContent": null,
@@ -497,7 +509,7 @@
         "userImage": "https://lh3.googleusercontent.com/-4-D3a4I2DM8/AAAAAAAAAAI/AAAAAAAANb0/AMZuucll4s4EPC-y0pQxjj5RcyFl3_TxTQ/photo.jpg",
         "content": "Con tanta informaci\u00f3n, esta aplicaci\u00f3n la recopila y la muestra estructurada, resolviendo muchas dudas que plantea el estado de alarma. Les \u00e1nimo a que pongan un buscador, ser\u00eda \u00fatil!",
         "score": 5,
-        "thumbsUpCount": 30,
+        "thumbsUpCount": 31,
         "reviewCreatedVersion": "1.0.1",
         "at": "2020-04-04 19:27:16",
         "replyContent": null,

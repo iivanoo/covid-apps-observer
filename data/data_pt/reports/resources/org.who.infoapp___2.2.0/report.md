@@ -149,10 +149,12 @@ The WHO Info app has been installed by more than **100000** times. At this time,
 #### 3-star reviews
 
 <p align="center">
-
+<img src="3_star_reviews_wordcloud.png" alt="org.who.infoapp 3 reviews"/>
 </p>
 
-No recent reviews available with 3 stars.
+> Em português<br> :date: __2020-07-01 10:18:15__
+
+
 
 #### 2-star reviews
 

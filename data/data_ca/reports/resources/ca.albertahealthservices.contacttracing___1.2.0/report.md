@@ -145,6 +145,10 @@ The ABTraceTogether app has been installed by more than **50000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="ca.albertahealthservices.contacttracing 5 reviews"/>
 </p>
 
+> 5 stars but still......Google maps tracks your phone -where, when- what time and exact place literally on a bus, anyone with a Gmail account, their GPS or location setting on their Android or Apple phone can access their location history, even your commands to Ok Google. and easily share this information with health officials if the time arises. Just thought I'd point that out.<br> :date: __2020-07-04 04:12:15__
+
+> Installed it. Hope I'll need to use it!<br> :date: __2020-06-29 22:14:01__
+
 > Works well on S10, no issues to report here. Impressive beard illustrations to boot!<br> :date: __2020-06-28 14:37:55__
 
 > Bring app please to every one mandatory.<br> :date: __2020-06-23 03:30:47__
@@ -161,10 +165,6 @@ The ABTraceTogether app has been installed by more than **50000** times. At this
 
 > Amazing app, feels so good to know the government knows all. I cannot wait for the vaccine. Please increase my taxes and fund more the media.<br> :date: __2020-05-25 03:45:04__
 
-> Easy to install. Not noticing any power drain and analysis agrees. Bluetooth speaker works fine at same time. Reminds me to turn bluetooth back on when I shut off for a phone call not to be via my bluetooth speaker.<br> :date: __2020-05-24 18:39:00__
-
-> Great idea except for the power usage. The only way to stop is is to go into the app's app setting and "force stop" it to turn it off when I'm at home. It's easy enough to turn it back on again by tapping the app icon. But this is a hassle.You should be able to just pin it and minimize it when you need it to run in the background, and close it when your at home.<br> :date: __2020-05-24 10:44:48__
-
 
 
 #### 4-star reviews
@@ -172,6 +172,8 @@ The ABTraceTogether app has been installed by more than **50000** times. At this
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="ca.albertahealthservices.contacttracing 4 reviews"/>
 </p>
+
+> I don't huv any pinyon<br> :date: __2020-06-30 07:19:48__
 
 > Greetings to anyone who reads this, If the app is only getting a 3.0 (3 Stars), is there a problem with it? Please consider the following, none of which is/are (a) conspiracy theory/theories. I can say this because countless independent studies done across the world have all found these phenomena to be true. 1. Are delusional naysayers about the Covid-19 pandemic keeping the app from scoring higher by not subscribing to it? ; or 2. Is the low rating the possible result of most of the current subscribers not getting alerts, and that others - who haven't (yet) subscribed to the app - are being lulled into a false sense of safety, even complacency? ; or, 3. Is the app a bit of a lame-duck technology - on the part of the government - and the app is not functioning properly or at all? ; or, 4. Are Albertans simply complacent about the pandemic? Go into any store which has clearly defined and labelled "shopping lanes" and other forms of signage, along with PA and public service announcements exhorting shoppers to abide by the store's rules and Alberta Health's guidelines, and you'll experience first-hand what I'm talking about. Indifference, obtuse behaviour, willful or blind ignorance, etc. ; or, finally (at least for now) 5. Is the media, which continues to feed us only what is "news worthy" to it (as it has done for nearly 3 generations), the real problem? If the app is not being kept in front of viewers or in the ears of listeners, is that the reason for the low rating? The media, along with government, controls the access to news. More often than not, it's the media doing this because "news worthy" really means that which attracts and is supported by the most lucrative advertising revenue streams. As CFCN says "All the news you need to know", which translates, "All the news we want you to hear". CBC, CTV, and the American networks on cable and satellite TV are all complicit in this. I'll stop now, since I've run out of time to continue. However, I must add that if the government is truly engaged in leading Albertans out of this tragedy, it will not alter, delete, expunge, rephrase, or in any other way, edit my comments because some of them have suggested government shortcomings. I'm keeping a copy of this for my own files and for posterity. Clayton Walls, Calgary June 11, 2020 @ 1300 h MDT<br> :date: __2020-06-11 21:00:38__
 
@@ -191,8 +193,6 @@ The ABTraceTogether app has been installed by more than **50000** times. At this
 
 > Installed easily and seems to work fine.<br> :date: __2020-05-12 00:44:52__
 
-> No problems, but also I don't get any feedback about whether I'm near another person with the app, so I can't verify whether it's actually doing anything.<br> :date: __2020-05-11 18:46:13__
-
 
 
 #### 3-star reviews
@@ -200,6 +200,10 @@ The ABTraceTogether app has been installed by more than **50000** times. At this
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="ca.albertahealthservices.contacttracing 3 reviews"/>
 </p>
+
+> Only installing for long periods of exposure It seems to cause overheating with my phone. If I have the app installed (paused or unpaused) it seems to ramp up internal temps. Also, there should be an option to say you are at home, so you don't have to pause the app. The constant need to have BT on, even while at home, is annoying. I get why but it is frustrating.<br> :date: __2020-07-03 00:54:11__
+
+> I uninstalled the ap due to high battery usage from the app.<br> :date: __2020-06-28 21:23:04__
 
 > I'm sure this a great service to use. The only issue I have is having Bluetooth on all the time. It drained my battery by 60% in 10 hours while I was at work. I'm out in the community a lot, so I would need to keep it on for it to be useful.<br> :date: __2020-06-26 16:41:45__
 
@@ -217,10 +221,6 @@ The ABTraceTogether app has been installed by more than **50000** times. At this
 
 > I've had no complaints up until a couple of days ago when my phone indicated that AB Trace Together has been using 35.6% of my battery, while at home. I disabled Bluetooth and it didn't change or conserve the battery. My phone has been on for 20 minutes this morning and its already used 6.1% of my battery. Prior to this, battery usage was negligible. Updated it and hoping that helps.<br> :date: __2020-06-08 16:52:26__
 
-> I so want to help by having the app but the battery drain is frustrating to deal with. At the start a few weeks ago it seemed like there was no issue but over the past two days, after going out twice, my battery is just kaput in an outrageously short period of time. I'm talking from full charge down to 10 percent in a span of 7 hours, of which 5 of those hours was spent being in battery saving mode and idle. I hope the update fixes this or retaining this app will be untenable.<br> :date: __2020-06-08 06:21:14__
-
-> Drains battery life.<br> :date: __2020-06-07 11:01:03__
-
 
 
 #### 2-star reviews
@@ -228,6 +228,10 @@ The ABTraceTogether app has been installed by more than **50000** times. At this
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="ca.albertahealthservices.contacttracing 2 reviews"/>
 </p>
+
+> I barely go outside, so all it did was eat my battery throughout the day. Even if I went outside, I never got a notification from the app.<br> :date: __2020-07-04 11:08:43__
+
+> This app is a terrible battery drain. I had to uninstall to keep battery more than a few hours.<br> :date: __2020-06-29 19:45:55__
 
 > Anybody else have to uninstall this app cause it makes your phone glitchy and kills the battery?<br> :date: __2020-06-23 15:02:58__
 
@@ -245,10 +249,6 @@ The ABTraceTogether app has been installed by more than **50000** times. At this
 
 > Great idea except you should probably make it available to all phones. I know a number of people who want to download the app but can't because it's not supported on their phone<br> :date: __2020-06-02 03:32:37__
 
-> It was fine until 3 days ago when it went from draining 1% of my battery to >80%. Can't track anything if my phone is dead by 9am. I had to uninstall until this is fixed.<br> :date: __2020-05-31 02:36:09__
-
-> I installed this app, however it was causing issues with some of my other apps and they would not load so I had to uninstall. Once I uninstalled everything else worked fine. Unfortunately the app is not going to be very effective unless more people use it and with all the issues people are having with it fewer people will be using it. I hope you are able to find a solution to those issues and relaunch an app that will be effective. I may consider reinstalling after it is fixed.<br> :date: __2020-05-29 22:39:00__
-
 
 
 #### 1-star reviews
@@ -256,6 +256,8 @@ The ABTraceTogether app has been installed by more than **50000** times. At this
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="ca.albertahealthservices.contacttracing 1 reviews"/>
 </p>
+
+> dont like it didnt do anything to help me wast of time<br> :date: __2020-07-04 07:06:04__
 
 > I had this a few days after release and didn't feel the usefulness. But it kept draining my battery. 39% use compared to all other apps. My battery kept heating up. Uninstalled.<br> :date: __2020-06-25 01:11:32__
 
@@ -274,7 +276,5 @@ The ABTraceTogether app has been installed by more than **50000** times. At this
 > This app is supposed to run in the background with a notification that it's still running. Well, it won't stay running on my phone. So it's pretty much useless if every 20 minutes I have to open the app to make sure it's still working on my phone. I'd give it zero stars if I could. P.o.s.<br> :date: __2020-06-16 23:34:35__
 
 > You may want to look at power usage. Depending on how close I am to another phone? my phone chews through its battery. Sitting with my wife at home and in less than 5 hours, it ate through 45% of my battery. Prior to the installation of ABTraceTogether, I never used my battery up in a day; sometimes would get two days. It is also heating my phone up due to excessive battery usage. Please resolve this issue so I do not need to uninstall the app.<br> :date: __2020-06-13 22:03:04__
-
-> Brand new phone and totally drains my battery. Had to uninstall, sadly 😞<br> :date: __2020-06-09 20:04:20__
 
 

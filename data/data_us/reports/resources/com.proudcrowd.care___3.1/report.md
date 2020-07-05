@@ -210,6 +210,10 @@ The Care19 Diary app has been installed by more than **10000** times. At this ti
 <img src="2_star_reviews_wordcloud.png" alt="com.proudcrowd.care 2 reviews"/>
 </p>
 
+> Gives a lot of erroneous locations that are passed while driving or stopping at a stop light. Some days it gives no information at all.. i reloaded it a couple of weeks ago. It worked well until July 3 then quit working, not registering any locations.<br> :date: __2020-07-04 20:23:07__
+
+> Idk procedure to get my phone to let this work automatically in the background, out on the east coast<br> :date: __2020-07-02 20:56:10__
+
 > It's not all that<br> :date: __2020-06-18 15:59:46__
 
 > Not very accurate for locations. It does not show several places my wife & I have been for an hour or more and it shows us stopping at places we only drove passed on our way to our destination that does not show up. Very inaccurate. It's the same on both of our phones (Galaxy Note 9's). There is no way to add the places we did go to, only to delete the irrelevant ones or change the name from "Unknown" to a proper name. It's pointless/useless for tracking when this inaccurate.<br> :date: __2020-06-05 01:20:41__
@@ -226,10 +230,6 @@ The Care19 Diary app has been installed by more than **10000** times. At this ti
 
 > Inaccurate<br> :date: __2020-05-19 18:09:09__
 
-> Does not work in NJ<br> :date: __2020-05-18 02:41:29__
-
-> Doesn't log locations all the time. Even after I have been there for over ten minutes. Not very dependable .<br> :date: __2020-05-13 18:15:39__
-
 
 
 #### 1-star reviews
@@ -238,6 +238,18 @@ The Care19 Diary app has been installed by more than **10000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="com.proudcrowd.care 1 reviews"/>
 </p>
 
+> Keeps stopping<br> :date: __2020-07-05 05:31:18__
+
+> this app is worthless<br> :date: __2020-07-03 21:11:21__
+
+> Not very helpful, only gets a few places. It's not getting any better. It's gotten to be a joke.<br> :date: __2020-07-03 03:45:42__
+
+> After multiple attempts, this app cannot determine my home location. Uninstalling.<br> :date: __2020-07-02 13:35:50__
+
+> Update 6.27.20 - Tou can tell the developer(s) doesnt even use this app or they would know what we are talking about. You say it's just the way it is, no, you know how it's supposed to work, so find someone to make it work correctly. This app does not trace where I been going. It does not stay open in the background. When open, it does not show where I go or been since the 23rd. I restarted phone and reinstalled app on S9+<br> :date: __2020-06-29 02:47:10__
+
+> Tried to update for about 30 minutes. Never got it to work.<br> :date: __2020-06-28 22:11:34__
+
 > I work in Technology Sales, Retail. So I wanted an app that would start tracking my locations AUTOMATICALLY to assist me in providing that data needed for my Contact Tracers should the need arise. This app FAILS MISERABLY!!! It DOES NOT track when I am some place for more than an hour. Examples: Work, Gym, Restaurants. Don't waste your time on the Android version of this app!!! Look elsewhere. Samsung S20+ 5G<br> :date: __2020-06-27 04:18:00__
 
 > Location is in issue for me<br> :date: __2020-06-25 00:03:09__
@@ -245,17 +257,5 @@ The Care19 Diary app has been installed by more than **10000** times. At this ti
 > I saw the update that you could manually put in where you have been by the developer in 5/20. They said it would be implemented within the next update. However, it has now been over a month & time is of the essence. A month long wait for a feature that is now allowing a significant amount of people to use the app or provide inaccurate data is unacceptable. Please fix this asap or please ND & SD find a new developer. As a programmer, the basic first step before release is bug testing.<br> :date: __2020-06-21 11:19:38__
 
 > F\*\** you big brother<br> :date: __2020-06-19 16:56:46__
-
-> Has strange locations and does not keep up with where I have been. How can this be helpful?<br> :date: __2020-06-13 04:20:59__
-
-> Only collected for one day and then nothing before or since. Does not work at all.<br> :date: __2020-06-11 03:59:09__
-
-> How does this thing work again? By only recording where I go once a week and having the location always say "Unknown"? If that's how it's supposed to work, bravo....5 stars.<br> :date: __2020-06-10 19:20:39__
-
-> Not very helpful, only gets a few places.<br> :date: __2020-06-09 22:01:23__
-
-> This has not updated my location since 5/12. It is now the 14th. It's missing about 50% of where I've been. You should have the ability to enter information manually or name places if it's not recording your location. If everyone has this poor of a tracking record, it's pretty usless. Update June 5th. Checked the app today. It has no record of anywhere I have been at all now. Not even the May data I entered.<br> :date: __2020-06-06 04:29:38__
-
-> Has NEVER tracker my location, it says I have been anywhere, I've been to many many place since installed. Checked and double checked my permissions, and location settings, they are fine.<br> :date: __2020-06-05 17:19:07__
 
 

@@ -142,25 +142,25 @@ The StopCovid France app has been installed by more than **1000000** times. At t
 <img src="5_star_reviews_wordcloud.png" alt="fr.gouv.android.stopcovid 5 reviews"/>
 </p>
 
-> Pas de soucis avec cette application.<br> :date: __2020-06-28 18:27:29__
+> Calme plat pour le moment, mais heureuse de participer à la prévention de cas de covid 19<br> :date: __2020-07-05 12:46:28__
 
-> Très bien<br> :date: __2020-06-28 18:22:40__
+> Top. Encourager la pratique chez les jeunes ( un djeunz de 55 ans!)<br> :date: __2020-07-04 21:24:47__
 
-> Application fiable et transparente. Aucune interférence avec le fonctionnement de mon smartphone.<br> :date: __2020-06-28 18:06:48__
+> Très bonne application. Elle devrait être obligatoire pour se battre contre le COVID19.<br> :date: __2020-07-04 21:15:53__
 
-> Impérative application.<br> :date: __2020-06-28 17:34:58__
+> Fonctionne en ar plan en toute discrétion et en toute transparence avec la notif d'exécution. Franchement si ça peut éviter de se reconfiner je signe. Côté confidentialité j'ai un compte Google, et facebook alors....<br> :date: __2020-07-04 21:02:52__
 
-> J'essaie de la télécharger mais je n'y arrive pas<br> :date: __2020-06-28 16:35:54__
+> Tout est parfait MERCI<br> :date: __2020-07-04 20:57:09__
 
-> Tout le monde devrait la télécharger !<br> :date: __2020-06-28 16:33:30__
+> Super<br> :date: __2020-07-04 20:52:58__
 
-> Parfait<br> :date: __2020-06-28 14:48:03__
+> S arrêté souvent<br> :date: __2020-07-04 20:03:08__
 
-> Simple et sur. Aucun pistage personnel.<br> :date: __2020-06-28 14:17:50__
+> Aucun problème avec mon Samsung S8. Elle reste activée tout le temps. Je ne comprends pas les autres utilisateurs qui voudraient la désactiver selon des plages horaires. Complexité inutile. Mais j aimerais bien avoir un compteur qui me dise combien de personnes croisées avaient l appli. Ça aiderait à se sentir moins seul et à avoir l impression qu en utilisant l appli, on est utile<br> :date: __2020-07-04 19:04:38__
 
-> 👍<br> :date: __2020-06-28 13:49:34__
+> Je pense que les messages gouvernementaux diffusés sans cesse sur toutes les chaînes et radio sont obsolètes. Il faudrait montrer comment mettre son masque et surtout comment ne PAS le mettre de plus en plus de personnes le mettent sous le nez. Également les conseils pour le retour de l extérieur, comment jeter son masque ou comment le laver. On entend tout et n importe quoi. Enfin profiter de ces sports pour inviter les personnes à télécharger ce site, car seulement 20 % l ont faitMerci<br> :date: __2020-07-04 09:35:18__
 
-> Je l'active lorsque je sors , pas contraignant , ça me rassure, je n'oublie pas quand même mon masque et le gel hydroalcolique.<br> :date: __2020-06-28 12:50:40__
+> Tres bonne application<br> :date: __2020-07-04 09:08:14__
 
 
 
@@ -170,25 +170,25 @@ The StopCovid France app has been installed by more than **1000000** times. At t
 <img src="4_star_reviews_wordcloud.png" alt="fr.gouv.android.stopcovid 4 reviews"/>
 </p>
 
-> Très bien<br> :date: __2020-06-28 17:04:12__
+> Application simple à utiliser. Le seul problème, c'est que tous les soirs, je mets mon téléphone en mode avion et je le désactive tous les matins. Cela désactive automatiquement stopcovid et, du coup, il faut le réactiver tous jours. C'est un peu lourd...<br> :date: __2020-07-05 09:17:49__
 
-> Bonjour Impossible à installer sur samsung SM-J600FN de mon épouse, alors qu'elle est sous androidone version 10. Avez-vous une solution ?. J'ai un Nokia, androidone version 10, et aucun problème. J'avais un windowsphone 10, que je quitte à regret (car plus facile à paramétrer et plus convivial), et l'application n'est pas disponible, alors qu'il y a encore des utilisateurs.<br> :date: __2020-06-28 16:58:40__
+> Bonne application, manque juste un compte rendu .<br> :date: __2020-07-04 19:45:18__
 
-> Application simple et adaptée aux circonstances car il faut continuer à être vigilant.<br> :date: __2020-06-28 16:27:49__
+> Zoé a été très occupée par la<br> :date: __2020-07-04 15:30:37__
 
-> Dans tous les cas, il ne peux qu'être utile de participer à cette expérience quelle fasse progresser (c'est mieux) ou quelle échoue.<br> :date: __2020-06-28 13:18:41__
+> est amène de<br> :date: __2020-07-03 19:03:32__
 
-> ளபக்ஷக்ஷக்ஷிளணட டகஙஙஙணண<br> :date: __2020-06-28 11:00:03__
+> Un bémol : l'application consomme beaucoup d'énergie, je recharge mon téléphone dans la journée<br> :date: __2020-07-03 12:18:07__
 
-> Depuis la dernière MAJ, l'application s'arrête lors se son activation...<br> :date: __2020-06-28 09:58:17__
+> J'ai une notification persistante pour m'informer que l'appli est active (inutile) et je reçois des notifications vides de l'application... Si l'appli fonctionnait bien au début, depuis plusieurs jours sur One Plus 5 (Android 9), elle se ferme toute seule dès l'ouverture.<br> :date: __2020-07-03 08:14:33__
 
-> Le bug qui faisait planter l'application au démarrage semble avoir été résolu donc je remonte ma note. L'application est très claire sur son fonctionnement et la confidentialité des données, dommage que trop peu de personnes l'utilise mais c'est de la responsabilité des citoyens.<br> :date: __2020-06-28 08:47:49__
+> Il faut penser a la réactiver régulièrement<br> :date: __2020-07-02 08:20:12__
 
-> Très bien, mais ne pourrait on pas visualiser le trafic potentiellement à risque des zones traversées ? Cela permettrait d'inciter aux gestes barrières.<br> :date: __2020-06-28 08:45:28__
+> Indispensable !<br> :date: __2020-07-02 07:56:49__
 
-> Securisant<br> :date: __2020-06-28 08:08:50__
+> Application discrète et finalement pas trop gourmande en batteries<br> :date: __2020-07-02 07:23:06__
 
-> Application utile et simple. Doit être réactivée de temps en temps, je ne sais pas pourquoi.<br> :date: __2020-06-28 07:36:43__
+> Bug et s'arrête depuis mise à jour, sur Xperia<br> :date: __2020-07-01 21:20:16__
 
 
 
@@ -198,25 +198,25 @@ The StopCovid France app has been installed by more than **1000000** times. At t
 <img src="3_star_reviews_wordcloud.png" alt="fr.gouv.android.stopcovid 3 reviews"/>
 </p>
 
-> Principe est bon mais consomme beaucoup de batterie<br> :date: __2020-06-28 18:15:23__
+> L'application en elle-même est utile, mais elle est inutilisable car elle s'arrête 2 à 3 secondes après. Si vous pourriez corriger cette erreur ce serait bien En vous souhaitant une bonne journée Cordialement Appareil utilisé actuellement : Wiko Harry 2<br> :date: __2020-07-05 13:18:32__
 
-> J'ai compris le principe de cette application. Ce qui me chiffonne un peu, c'est que si une personne positive au covid ne se déclare pas, j'aurai beau avoir l'application qui ne me servira à rien si je rencontre cette personne.<br> :date: __2020-06-28 17:01:18__
+> Difficile d'avoir un avis sur l'efficacité de l'appli tant qu'on ne croise pas de malades... Mais elle envoie en permanence une notification d'activité (c'est pénible) ou de désactivation puisqu'elle se déconnecte seule 😥<br> :date: __2020-07-05 10:03:18__
 
-> Le bluetooth une technologie sur base de version toute différente.<br> :date: __2020-06-28 15:11:07__
+> L'application n'autorise pas l'optimisation de la batterie. C'est vraiment handicapant car le téléphone se décharge trop vite. Merlin en usage normal.<br> :date: __2020-07-04 21:47:32__
 
-> Cette applic se desactive trop souvent.<br> :date: __2020-06-28 14:06:36__
+> L appli se désactivé toute seule il l'a réactiver quand j y pense pas pratique<br> :date: __2020-07-04 21:27:35__
 
-> Je débute pour l'instant ça va nous verrons plus tard<br> :date: __2020-06-28 13:39:56__
+> J ai téléchargé cette appli dans le but de faire mon devoir civique (et oui tout le monde parle de DROITS mais nous avons aussi des DEVOIRS (beaucoup semble l oublier mais ce n est pas le sujet ici)). L aplli est très bien faite mais a un défaut majeur, celui de noups informer de personne positive qu une fois l avoir cotoyer 15 mn. Quel intérêt ??? C est " dans l instant " que nous devons savoir, afin de ne pas cotyer plus longuement la/les personnes concernées. Ceci dit, bravo pour le travail.<br> :date: __2020-07-04 18:58:28__
 
-> L'Appli fonctionne sur mon A3 2016 (android 7.0). Pas eu le problème cité par un autre utilisateur d'A3 2016. La batterie ne semble pas souffrir visiblement. En revanche, il faut réactiver le fonctionnement de l'app une ou 2 fois par jour, car elle s'inhibe toute seule. A voir si la màj de l'app corrige ce problème.<br> :date: __2020-06-28 12:55:26__
+> Je suis d'accord pour participer à la lutte contre le covid mais si vous pouviez faire en sorte que je ne sois pas sans arrêt en train de réactiver l'application.....<br> :date: __2020-07-04 15:31:56__
 
-> sans plus !<br> :date: __2020-06-28 10:42:54__
+> Tous contre le covid 19<br> :date: __2020-07-04 09:37:25__
 
-> Raz le bol de la notification sonore tous les matins à 8h pour me rappeler que l'application fonctionne ! Si la mise à jour modifie cela, je continue, sinon je supprime l'application.<br> :date: __2020-06-28 08:58:05__
+> R A S<br> :date: __2020-07-03 15:37:48__
 
-> Je pense qu'elle fonctionne. Mais je n'aurais un retour que si je suis en contact. Pour l'instant je n'ai pas eu de retour<br> :date: __2020-06-28 07:39:10__
+> En effet, l'application se ferme d'elle même régulièrement, et on ne s'en aperçoit pas tout de suite... donc des trous dans les mailles du filet. A améliorer.<br> :date: __2020-07-03 13:58:58__
 
-> Je ne crois pas à stopcovid malheureusement bien trop peu d utilisateurs ont mis stopcovid dans leur téléphone et donc peu de réactivité.... Il aurait du être obligatoire...<br> :date: __2020-06-28 06:38:23__
+> La dernière étape de l'installation est laborieuse, elle se bloque, il faut recommencer plusieurs fois, le capcha n'est pas lisible, etc<br> :date: __2020-07-03 10:43:24__
 
 
 
@@ -226,25 +226,25 @@ The StopCovid France app has been installed by more than **1000000** times. At t
 <img src="2_star_reviews_wordcloud.png" alt="fr.gouv.android.stopcovid 2 reviews"/>
 </p>
 
-> Volontaire je l'ai installé, et hop on ne pense pas chaque jour à mettre le bluettooth. Aprés encore ce weekends je vois les 3/4 des gens sans masques, magasins, restaus, rues, bisous et serrages de mains etc... donc si 75% des gens se moquent de cette hygiène qui est primordiale, je suppose que 75% se moquent litteralement de cette application. Il faudrait que toutes les déclarations Covid 19 soit déclarées en toute transparence sur une carte nationale IGN. Plus de sensibilisation !!! Pas dur !<br> :date: __2020-06-28 17:13:21__
+> Il faut tout le temps réactiver l application mais il faut s en apercevoir, pas évident plus il manque quelques info pour savoir si l appli fonctionne correctement<br> :date: __2020-07-05 12:46:08__
 
-> 1/Se déconnecte tout seul 2/ Conso batterie trop portante.<br> :date: __2020-06-28 14:54:59__
+> Désinstallee, Trop energivore .<br> :date: __2020-07-04 13:28:19__
 
-> Garder le bluetooth ouvert peut permettre a des personnes mal intentionnées de recuperer nos données. Ce n est pas une bonne idee d avoir choisi cettetechbisue<br> :date: __2020-06-28 12:48:23__
+> Impossible d'activer après la mise à jour car impossible d'écrire le texte. Dommage<br> :date: __2020-07-04 11:34:32__
 
-> Jamais averti<br> :date: __2020-06-28 12:27:05__
+> L'appli a sans arrêt besoin de mon intervention, elle s'arrête toute seule, etc.. Redmi Note 8 Pro<br> :date: __2020-07-03 19:13:09__
 
-> Ne fonctionne pas hors reseau<br> :date: __2020-06-28 11:00:46__
+> Je l ai chargée. Mais inutile si personne ne le fait. Dommage<br> :date: __2020-07-03 17:28:44__
 
-> Nul il marche pas sur Android Mais il marche sur iphone (Apple) Je suis vraiment déçu<br> :date: __2020-06-28 10:49:10__
+> Il faut réactiver à chaque fois l'application quand le téléphone est éteint, ce n'est pas pratique. J'oublie une fois sur deux de l'activer donc quelle efficacité ? Ce jour, impossible de l'activer, message d'erreur, trop de personnes l'ont téléchargé, dommage que cette appli ne soit pas prévue justement pour des millions de téléchargements...<br> :date: __2020-07-03 12:47:38__
 
-> Le Bluetooth est très énergivore .<br> :date: __2020-06-28 10:43:00__
+> Démarrer sans internet me donne un crash et après ça ne marche plus. Je dois le désinstaller et encore installer.<br> :date: __2020-07-02 15:31:56__
 
-> Simpliste sommaire non intuitif aucune certitude quant à son fonctionnement<br> :date: __2020-06-28 10:30:48__
+> Aucune description sur le mode d'alerte. Comment cela se présente si on se trouve en présence prolongée d'un infecté ?<br> :date: __2020-07-02 15:31:29__
 
-> Malheureusement trop peu de personnes ont du télécharger cette appli. Donc aucun résultat. Pourtant je bosse dans des endroits où il y a eu des cas de CORONAVIRUS et certains qu'il y en a encore.<br> :date: __2020-06-28 10:18:44__
+> Je ne veux pas activer la géo-localisation, même si stopcovid ne l'utilise pas.<br> :date: __2020-07-02 08:00:31__
 
-> Consomme énormément de batterie du téléphone<br> :date: __2020-06-27 23:55:38__
+> Ça fait 4 fois que j'installe et désinstalle cette application et l'on me demande d'activer la géolocalisation alors que je le fais....de plus ça se coupe toujours<br> :date: __2020-07-01 21:00:52__
 
 
 
@@ -254,24 +254,24 @@ The StopCovid France app has been installed by more than **1000000** times. At t
 <img src="1_star_reviews_wordcloud.png" alt="fr.gouv.android.stopcovid 1 reviews"/>
 </p>
 
-> Se désactivé sans arrêt<br> :date: __2020-06-28 16:54:49__
+> Sollicite trop la batterie...<br> :date: __2020-07-05 10:33:27__
 
-> Autoriser le gouvernement à vous suivre à la trace : toujours une bonne idée... Ça se saurait si le gouvernement avait l'habitude d'espionner les citoyens sans autorisation et aussi voler les données privées sans contrepartie ni contrôle ...<br> :date: __2020-06-28 16:18:16__
+> Se désactive lorsque l'on éteint le téléphone<br> :date: __2020-07-05 07:23:58__
 
-> La mise a jour ne se fait pas<br> :date: __2020-06-28 16:03:04__
+> Application à l'image de la société : Ça aurait pu le faire mais ça le fait pas. Embauchez des pro peut-être que l'application fonctionnera !<br> :date: __2020-07-05 06:56:25__
 
-> Impossible de l'activer..<br> :date: __2020-06-28 14:35:33__
+> Toujours une notification qui s'affiche sur le téléphone, enlever cette notification permanente<br> :date: __2020-07-04 23:08:48__
 
-> Je la télécharge juste pour mettre une étoile et critiquer alors que je ne l'utiliserai jamais et même pire je la desinstalle directement. Halte au flicage, au traçage des personnes ici c'est la France pas la Chine.<br> :date: __2020-06-28 14:30:52__
+> C pas compatible avec mon téléphone du coup c'est pas très cool😞<br> :date: __2020-07-04 21:52:12__
 
-> L'application ne peut pas fonctionner avec mon Samsung Galaxy J7. Système Bluetooth non compatible...aucune possibilité de le télécharger. Extrêmement déçue...<br> :date: __2020-06-28 14:18:26__
+> Comment cette app qui ne fait que de la tâche de fond peut elle consommer autant de batterie ?<br> :date: __2020-07-04 21:12:26__
 
-> Non téléchargeable sur Samsung J6 c'est dommage Une de mes connaissances souhaitait l'installer sur son Samsung Android J6 mais cela n'est pas possible<br> :date: __2020-06-28 12:06:31__
+> Ne fonctionne plus depuis quelques jours. Refuse de démarrer.<br> :date: __2020-07-04 21:11:40__
 
-> Inutile<br> :date: __2020-06-28 11:54:10__
+> Vu le peu d'utilisateur, j'ai un doute sur sa réelle efficacité, ...<br> :date: __2020-07-04 20:35:29__
 
-> Impossible à télécharger<br> :date: __2020-06-28 11:34:25__
+> Non installé. Le big brother très peu pour moi. Seule la vaccination serait utile. Quid de ceux qui n'ont pas de portable ou qui ne l'allument que rarement. Réponse de technocrates à un problème de santé vitale.<br> :date: __2020-07-04 20:07:45__
 
-> Cette application ne sert à rien, je l'ai installée dès les premiers jours. Elle se déconnecte très souvent.<br> :date: __2020-06-28 11:03:59__
+> J'ai téléchargé l'application par "civisme " mais je pense que même pour moi qui suis médecin, la probabilité d'être 15 minutes à moins d'un mètre d'une personne contaminée est quasi nulle (je ne suis pas allé à la fête de la musique...). J'ai eu le Covid19 comme beaucoup de soignants et malgré des précautions draconiennes mais probablement prises trop tardivement par défaut de conseil de l'ARS. Je pense que ce dispositif ne peut être efficace que si on en augmente la sensibilité. Dr P Guibé<br> :date: __2020-07-04 19:51:33__
 
 

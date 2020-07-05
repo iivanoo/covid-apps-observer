@@ -256,6 +256,8 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <img src="2_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 2 reviews"/>
 </p>
 
+> Elaborada para uma versão mais antiga<br> :date: __2020-07-02 08:58:12__
+
 > Muito complicada para acessar da muitas voltas, ao paciente !!!<br> :date: __2020-05-11 00:17:22__
 
 > Parece ser uma aplicação muito útil. Infelizmente é dificílimo introduzir doenças antigas na secção "os meus registos". Não aceita ainda muitas doenças amplamente reconhecidas.<br> :date: __2020-04-22 08:10:15__
@@ -274,8 +276,6 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 
 > Após introdução de análises clínicas pelo médico de família, não é possível saber que análises foram pedidas ou onde as fazer<br> :date: __2019-06-15 21:33:25__
 
-> Pouco vale a pena<br> :date: __2019-05-27 14:49:19__
-
 
 
 #### 1-star reviews
@@ -283,6 +283,10 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 1 reviews"/>
 </p>
+
+> nao funciona rubish<br> :date: __2020-07-02 21:44:57__
+
+> Uma verdadeira dor de cabeça para entrar desde que mudaram para autenticação com cartão se cidadão!! Não se consegue entrar sequer!!! Com o pin correto! Inutilidade!!! Uma vergonha!<br> :date: __2020-07-02 19:25:28__
 
 > 😡😡😡😡<br> :date: __2020-06-24 15:47:21__
 
@@ -299,9 +303,5 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 > Nao abre<br> :date: __2020-06-03 21:34:16__
 
 > Sem atualizar desde 2018! Estamos on dizem os atrasados!<br> :date: __2020-05-23 00:01:59__
-
-> É a algum tempo que nao entro no meu my sns agora ia entrar nao me deixa entrar nada.mas no entanto continuam a ver a minha ficha medica,porque sai me a menssagem quando a minha medica entra para ver.senao conseguir entrar desinstalo,e quero ver se continuam a entrar!!!!!<br> :date: __2020-05-20 17:19:00__
-
-> Se não funciona porque a disponibilizam? Aberração desta gente do SNS para alguns votantes.<br> :date: __2020-05-17 17:35:05__
 
 

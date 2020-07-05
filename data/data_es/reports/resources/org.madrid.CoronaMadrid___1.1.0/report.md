@@ -150,6 +150,8 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="org.madrid.CoronaMadrid 5 reviews"/>
 </p>
 
+> Excelente, buen seguimiento.<br> :date: __2020-07-01 16:47:36__
+
 > Funciona bien cumple lo que promete, ayuda al diagnóstico y a evitar riesgos<br> :date: __2020-06-27 14:18:58__
 
 > En el centro de salud calle odonell no les dio la gana de hacerlo.con una oscultacion de 1 minuto la dictora ya te decia que no tenias nada .soy de riesgo y cronico .diabetico y con cancer como se explica esa actuacion tengo el nombre de la doctora si me pasa algo esta todo grabado .<br> :date: __2020-05-18 16:20:48__
@@ -168,8 +170,6 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 
 > Poco a poco se va mejorando, seguid trabajando en esta aplicación. Una duda: En la última pregunta hay que contestar SI o NO, si por ejemplo cambia una de las respuestas de una autoevaluación a otra ¿la respuesta sería NO, verdad? Porque la nueva situación hace que no lleves 20 días...<br> :date: __2020-04-13 11:53:25__
 
-> Deberíamos hacer todos este seguimiento voluntario, creo que podría ser beneficioso para toda la población y para la investigación.<br> :date: __2020-04-13 00:53:49__
-
 
 
 #### 4-star reviews
@@ -177,6 +177,12 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="org.madrid.CoronaMadrid 4 reviews"/>
 </p>
+
+> Bien, estaba tranquilo y confiado en las pautas, gracias Javier<br> :date: __2020-07-04 11:22:48__
+
+> Parece ser que la aplicación es buena pero cuando introduces o intenta introducir tu fecha de nacimiento no lo puede hacer correctamente por lo menos los que han nacido antes del 2007<br> :date: __2020-07-01 16:59:45__
+
+> Buena<br> :date: __2020-07-01 16:28:31__
 
 > Muy util<br> :date: __2020-06-23 17:50:47__
 
@@ -191,12 +197,6 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 > Buena y tranquilizadora<br> :date: __2020-04-12 11:18:14__
 
 > Me parece muy bien, pero no es un juicio si no si no, tienen que dejar escribir algo periódicamente, porque puede ser que haya tenido dolor de cabeza 2 días no 15 días. Pero el esfuerzo está bien, entre todos podemos. Aplicación se podía un saludo<br> :date: __2020-04-09 13:09:58__
-
-> No pude fijar fecha de nacimiento<br> :date: __2020-04-07 11:23:47__
-
-> No esta mal, bastante completa<br> :date: __2020-04-06 19:24:20__
-
-> La acabo de instalar y espero que este acorde al menos con mi evaluacion.<br> :date: __2020-04-04 17:06:30__
 
 
 
@@ -262,6 +262,10 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="org.madrid.CoronaMadrid 1 reviews"/>
 </p>
 
+> Para poner tu fecha de nacimiento, tienes que ir bajando mes a mes desde hoy, hasta el día que naciste... A quién se le ha ocurrido?<br> :date: __2020-07-01 15:31:50__
+
+> Penosa app, se rien en tu cara con esto, gobierno corrupto...<br> :date: __2020-07-01 10:50:27__
+
 > Aplicación muy básica y prácticamente inútil. No es nada de lo que debiera ser una aplicación de este tipo.<br> :date: __2020-06-17 22:13:05__
 
 > Inutil<br> :date: __2020-06-09 08:48:31__
@@ -277,9 +281,5 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 > Muy básica. No vale de nada<br> :date: __2020-05-18 17:15:34__
 
 > Y la geolocalizacion no está? Pues para qué la quiero. Desinstalo.<br> :date: __2020-05-16 20:16:34__
-
-> Y las miles de personas que desde el principio estamos sin sabor ni olor? No existimos?<br> :date: __2020-05-16 10:47:28__
-
-> Mala<br> :date: __2020-05-13 18:53:25__
 
 

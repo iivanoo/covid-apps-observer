@@ -156,6 +156,8 @@ The WHO Info app has been installed by more than **100000** times. At this time,
 <img src="4_star_reviews_wordcloud.png" alt="org.who.infoapp 4 reviews"/>
 </p>
 
+> Bueno<br> :date: __2020-06-29 07:08:43__
+
 > I think you can create a version in Spanish, it's one of the most spoken languages around the world and we need an access in our own native language. Thanks for your effort, I remember an WHO News App some years ago and then it disappeared.<br> :date: __2020-05-24 03:28:52__
 
 > Nomr intetesa<br> :date: __2020-04-28 07:09:55__
@@ -179,6 +181,8 @@ The WHO Info app has been installed by more than **100000** times. At this time,
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="org.who.infoapp 2 reviews"/>
 </p>
+
+> Deseo encontrar buenas enseñansas para mejorar nuestras vidas .oquey<br> :date: __2020-06-28 22:17:04__
 
 > Presta una ayuda buena<br> :date: __2020-05-07 20:16:33__
 

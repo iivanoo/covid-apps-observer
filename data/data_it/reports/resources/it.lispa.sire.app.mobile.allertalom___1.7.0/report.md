@@ -160,6 +160,12 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <img src="5_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 5 reviews"/>
 </p>
 
+> Molto utile<br> :date: __2020-07-03 22:31:26__
+
+> Tutto ok, fino a quando la dobbiamo usare? Fino a che trovano il vaccino?<br> :date: __2020-07-03 12:45:10__
+
+> Ritornata fantastica!<br> :date: __2020-07-01 12:55:17__
+
 > Vorrei fare le vacanze in Calabria come midevo compore<br> :date: __2020-06-26 21:00:11__
 
 > Tutto funziona perfettamente!<br> :date: __2020-06-26 16:58:45__
@@ -172,13 +178,7 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 
 > Molto utile<br> :date: __2020-06-21 21:28:18__
 
-> Ragazzi un help! Sto aiutando la protezione civile nel mio paese e installando app su altro smartphone non si accede piu a nulla! E quindi inutilizzabile, si blocca alla compilazione modulo covid... Non fa procedere ne per se stessi ne per se e "parentele"<br> :date: __2020-06-18 22:08:50__
-
 > Grazie per il vostro lavoro<br> :date: __2020-06-17 12:06:57__
-
-> Discreto e funzionale<br> :date: __2020-06-16 14:08:01__
-
-> Chiara, di facile lettura ed utilissima<br> :date: __2020-06-15 18:31:46__
 
 
 
@@ -216,6 +216,8 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <img src="3_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 3 reviews"/>
 </p>
 
+> Sarà utile per segnalare covid ma è monotona rispondere sempre alle stesse domande tutti i giorni se non ci sono cambiamenti. Per di più l'applicazione si blocca ogni tanto con lo schermo che diventa bianco e si deve disinstallare e reinstallare tutto di nuovo....<br> :date: __2020-07-02 16:06:39__
+
 > Secondo me è utilizzata pochissimo e non ho capito come dare informazioni dopo aver compilato il questionario<br> :date: __2020-06-15 18:06:53__
 
 > Scaricata ma non riesco a ricevere nessuna notifica di allerta inoltre ogni volta che si chiude l'applicazione spariscono dai preferiti i comuni precedentemente memorizzati. Le notifiche sono tutte attive, occorre tenere sempre acceso il GPS ? grazie<br> :date: __2020-06-11 15:25:30__
@@ -233,8 +235,6 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 > Le domande dovrebbero essere rivolte allo stato quotidiano dell'individuo, tenere memoria per 15 giorni un eventuale sintomo scoraggia la compilazione.<br> :date: __2020-06-02 20:34:09__
 
 > Da qualche settimana che uso l app ...nel frattempo è cambiata la mia età anagrafica....Non si riesce a modificare!!!!<br> :date: __2020-05-28 15:50:44__
-
-> Sarebbe importante implementare le domande ed inserire se è stato fatto il test sierologico. Grazie<br> :date: __2020-05-25 18:08:10__
 
 
 
@@ -272,7 +272,11 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <img src="1_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 1 reviews"/>
 </p>
 
-> Non è migliorata, ma perché non pensate a liberare tutti i ragazzi giovani chiusi da 5 mesi nelle comunità? Li dentro c'è mio figlio invalido civile ma semi indipendente come tutti gli altri. Aprite le comunità e fate tornare a casa i ragazzi, che per colpa di non so chi, mio figlio lo state debilitato. Liberi tutti e non solo i boss, immigrati, carne e pesce che puzza. Liberate immediatamente tutti i ragazzi giovani.<br> :date: __2020-06-26 19:59:23__
+> Disinstallato<br> :date: __2020-07-03 14:26:55__
+
+> Non riesco a scaricare<br> :date: __2020-07-02 15:20:12__
+
+> Peccato, non funziona più: a ogni accesso occorre partire da zero e arrivati alla parte Covid il questionario per me stesso non è più compilabile. Riproverò nei prossimi giorni e, se non si sblocca, disinstallo<br> :date: __2020-06-30 07:57:46__
 
 > Svegliatevi cittadini italiani,(come ci chiamano i nostri governanti intellettuali ). Non fatevi prendere in giro è un'app al solo scopo contrario alla nostra libertà, e tantomeno alla nostra salute.<br> :date: __2020-06-23 10:10:03__
 
@@ -287,9 +291,5 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 > Modifico ad oggi la mia recensione definita in precedenza terribile. Ora è diventata ULTRACTERRIBILE e ancora non funziona. Peccato che pure la mail che mi avete inserito per contattarvi se persiste il disguido non è nemmeno valida, e torna indietro come indirizzo sconosciuto. Certo che se le app per il Covid in Lombardia funzionano così stiamo a posto.<br> :date: __2020-06-11 13:03:21__
 
 > Dopo aggiornamento non funziona più. Accetti tutto, ma quando arrivi a cerca covid non fa compilare dati per "me stesso"<br> :date: __2020-06-10 20:52:11__
-
-> Questa app non ti da la possibilitá di raccontare quello che ti ha successo veramente...mio marito a marzo era con la febbre e di sei fratelli 4 con febbre, io con la congiuntivite e reffredore, mio dottore portato con la ambulanza (guarita grazie a Dio) mio vicino di casa morto con el covit, in mio paese di solo 3 mila anime a Marzo 22 persone sono morte, solo sentivamo le campane dei morti e ambulanze...si parla sempre delle ultime due settimane e quello di prima?<br> :date: __2020-06-10 18:34:16__
-
-> Ogni volta che si avvia è come fosse la prima volta,richiede permessi e preferenze. Ma possibile che non si possa fare di meglio nel 2020 in Lombardia?Assurdo.<br> :date: __2020-06-10 14:07:35__
 
 

@@ -131,6 +131,12 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 <img src="5_star_reviews_wordcloud.png" alt="de.rki.coronadatenspende 5 reviews"/>
 </p>
 
+> Läuft bei mir seit 89 Tagen ohne Probleme. Hoffentlich hilft das irgendwie mit.<br> :date: __2020-07-05 11:44:16__
+
+> Die App funktioniert mit meiner Garmin Fenix 5plus tadellos seit der ersten Minute. Die vielen negativen Kommentare kommen scheinbar oft von Samsung-Usern welche nicht sauber unterstützt werden.<br> :date: __2020-07-04 09:37:47__
+
+> An die ganzen Schlechtbewerter: Leute, bisschen mehr Geduld! Also bei mir geht alles. Nur eine Frage hätte ich noch: Muss ich meine Smartwatch den ganzen Tag mit dem Smartphon verbunden haben? EDIT: nachdem ich die App schon lange installiert habe, stehe ich immer noch bei 0 gespendete Tage. Was mach ich falsch?<br> :date: __2020-06-29 11:46:18__
+
 > Die App funktioniert bei mir von Anfang an (bereits seit 77 Tagen) einwandfrei. Die öffentlichen Berichte des RKI über die Auswertung der Zahlen finde ich extrem spannend und lesenswert, da man so einen Bezug zu der Arbeitsweise bekommt. Toll. Ich bin froh dabei zu sein.<br> :date: __2020-06-28 09:21:13__
 
 > Ok<br> :date: __2020-06-27 20:31:43__
@@ -145,12 +151,6 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 
 > Man kann helfen, ohne dass es etwas kostet!<br> :date: __2020-06-20 11:59:57__
 
-> Funktioniert alles super, die Verbindung geht schnell und sobald man die Berechtigungen zum Abfragen der Daten von dem jeweiligen Konto gegeben hat, funktioniert alles automatisch. Man kann die Berechtigung jederzeit entziehen. Verstehe die schlechten Bewertungen nicht<br> :date: __2020-06-19 12:09:35__
-
-> Aktiviert in 3 Minuten! Keine unnötigen Fragen, Daten oder Angaben und die Texte sind kurz gefasst. (AGB ausgenommen und bisher noch keine Verknüpfung mit SmartWatch und co.)<br> :date: __2020-06-18 23:49:58__
-
-> Funktioniert unkompliziert.<br> :date: __2020-06-18 12:41:22__
-
 
 
 #### 4-star reviews
@@ -158,6 +158,10 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="de.rki.coronadatenspende 4 reviews"/>
 </p>
+
+> Leicht zu bedienen<br> :date: __2020-07-01 12:34:38__
+
+> "Anzahl der gespendeten Tage" nach etlichen Tagen weiter auf Null. Angemeldet mit einer Garmin forerunner 235/SamsungS9.... Und jetzt? Augenscheinlich nix! Läuft die App überhaupt? Ein minderjähriger Informatiker aus Indien auf einem Nagelbrett, hätte das besser programmiert! Da will man helfen und nix passiert .... Nachtrag... funktioniert jetzt...<br> :date: __2020-07-01 07:07:38__
 
 > Nach einigen Minuten hatte ich die App<br> :date: __2020-06-25 05:44:40__
 
@@ -174,10 +178,6 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 > Hallo ich habe nur mal eine Frage, ich habe die App Installiert aber jetzt bin ich mir nicht sicher ob es Corona App die seit heute zum Installieren ist. Es wäre nett wenn ich eine Antwort bekomme.<br> :date: __2020-06-16 22:54:31__
 
 > Scheint mit Garmin gut zu funktionieren. Handy und Garmin App läuft weiter stabil<br> :date: __2020-06-16 10:38:41__
-
-> Ich stehe total hinter der App, aber leider gibt es bisher keine Unterstützung für Samsung Activity Tracker und somit kann ich nicht teilnehmen. Es wäre schön, wenn Samsunggeräte neben fitbit, Google etc noch ergänzt werden könnten.<br> :date: __2020-06-16 08:58:03__
-
-> Die App läuft. Dennoch kann ich meine Samsung Gear S3 nicht verbinden.<br> :date: __2020-06-16 08:06:16__
 
 
 
@@ -215,6 +215,12 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 <img src="2_star_reviews_wordcloud.png" alt="de.rki.coronadatenspende 2 reviews"/>
 </p>
 
+> Leider immer noch keine Anbindung zu Samsung Health. Dadurch keine Trainingsverfolgung für die Nutzer von Samsung Geräten!!! Und leider wird die App auch nicht gut gepflegt. Ein letztes Update ist gut einen Monat her, am 02.06.20. So stelle ich mir eine verantwortungsvolle Datenpflege nicht vor.<br> :date: __2020-07-01 22:42:00__
+
+> Für Samsung Endgeräte ist Handerfassung notwendig, daher für mich nicht aussagekräftig.<br> :date: __2020-07-01 18:47:19__
+
+> leider wird kein Smasung Health unterstützt. Somit kann ich nicht helfen.<br> :date: __2020-06-29 17:51:01__
+
 > Leider wird meine Amazfit smartwatch nicht unterstützt<br> :date: __2020-06-16 12:42:40__
 
 > Mein Ixfit ist garnicht zur Verbindung aufgeführt. Also kann ich garnicht weiter. Bereits deinstalliert.<br> :date: __2020-06-16 09:44:07__
@@ -229,12 +235,6 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 
 > Kann meine Samsung Galaxy Watch nicht auswählen<br> :date: __2020-06-16 07:48:33__
 
-> Bei der Auswahl der Wearables fehlt meins leider. Xiaomi Schade, vielleicht kommt es ja mit einem Update.<br> :date: __2020-06-16 06:30:23__
-
-> Man kann keine Galaxy watch oder Apple watch verbinden.<br> :date: __2020-06-15 08:57:42__
-
-> Eine App zu verwenden ist schon eine gute Idee. Aber leider nicht diese. Was für einen Nutzen sollte es habe Daten zu haben wieviel km Ich Fahrrad gefahren bin oder ich gelaufen bin.<br> :date: __2020-06-12 13:19:56__
-
 
 
 #### 1-star reviews
@@ -243,24 +243,24 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 <img src="1_star_reviews_wordcloud.png" alt="de.rki.coronadatenspende 1 reviews"/>
 </p>
 
+> Würde mich ja gerne beteiligen, aber die App funktioniert nicht mit lokal speichernden Open Source Apps, sondern nur in Zusammenarbeit mit den Cloudservices der jeweiligen Hersteller, denen ich meine Gesundheitsdaten jedoch NICHT anvertraue. Sorry Leute, SO wird das nichts! Schade...<br> :date: __2020-07-05 13:45:16__
+
+> Leider. Habe das falsche System.<br> :date: __2020-07-04 19:28:44__
+
+> Ja schade, funktioniert nicht mit Samsung SmartWatch<br> :date: __2020-07-04 16:39:36__
+
+> Eine Samsung Galaxy Unterstützung gibt es leider nicht<br> :date: __2020-07-04 16:16:52__
+
+> Leider ist die App nicht mit Samsung Health kompatibel.<br> :date: __2020-07-04 10:28:20__
+
+> Schrott Daten Skandal und viele Modelle nicht drin. Zieht Akku und sendet mehr Daten als erwartet. Durch PC Programme überprüft! Löscht euch endlich.<br> :date: __2020-07-02 23:09:41__
+
+> Leider nicht mit Samsung Health kompatibel. Die 5 vorhandenen Fitness Apps habe ich nicht installiert. Da es andere Apps schaffen, mit Samsung Health als Datenquelle zu kommunizieren sollte dies eigentlich kein Hintergrund sein, dies auch anzubieten.<br> :date: __2020-07-01 18:09:27__
+
+> Einen Teufel werde ich tun und den Verbreitern von fakenews bezüglich Corona Daten zur Verfügung stellen...Stasi 2.0 werde ich nicht unterstützen...niemals!...wer klar denken kann wird es mir nachtun...sofort wieder deinstalliert...!<br> :date: __2020-07-01 02:27:02__
+
+> Da die App nicht mehr nutzbar ist kann sie ja auch aus dem Store entfernt werden ...<br> :date: __2020-06-30 14:25:02__
+
 > Wird Samsung Health in Zukunft unterstützt werden ? Ich würde gerne meine Daten spenden doch ich benutze Samsung Health.<br> :date: __2020-06-27 10:20:03__
-
-> Ohne SmartWatch oder ähnliches nicht gebrauchbar. ACHTUNG Datenspende!<br> :date: __2020-06-26 14:39:33__
-
-> App hat massive Sicherheitslücken. Auf Kontaktanfragen wird nicht reagiert. Was auch immer hier gerade falsch läuft, das wird Konsequenzen haben. Das RKI ist eine Behörde und somit im Dienste der Bürger. Die Presse wird sich ebenfalls für diese Vorgänge interessieren!<br> :date: __2020-06-23 16:02:12__
-
-> Kann diese App nun eigentlich deinstalliert werden oder kommt da auch mal ein Update für Samsung Geräte? Wäre schön wenn sich von Seiten des RKI jemand melden könnte.<br> :date: __2020-06-23 06:50:45__
-
-> Xiaomi wird nicht unterstützt, dabei sind deren Fitness Tracker mehrheitlich im Umlauf<br> :date: __2020-06-23 00:49:49__
-
-> Leider sind keine Samsung Smartwatches verwendbar und daher leider unbrauchbar. Sobald dies nachgeholt wird diese App sehr gern genutzt.<br> :date: __2020-06-22 12:01:43__
-
-> Leider nicht nutzbar da Samsung Health nicht angeboten wird. Schade. Wäre gerne dabei wie viele andere auch. Leider haben sich die Entwickler der App keine großen Gedanken gemacht um eine möglichst große Nutzerbasis aufzubauen.<br> :date: __2020-06-21 03:51:14__
-
-> Unterstützt weder Huawei noch Samsung. 2 riesen hersteller von smartwatches und Fitnessarmbänder.<br> :date: __2020-06-20 13:14:04__
-
-> Jeder der sich freiwillig diese corona (Überwachung)app installiert ist komplett lost. Überlegt mal was ihr hier (freiwillig) macht Leute ... omg ...<br> :date: __2020-06-18 16:06:25__
-
-> Es gibt doch mittlerweile eine neue App warum steht diese immer noch zum Download bereit?<br> :date: __2020-06-17 22:53:26__
 
 
