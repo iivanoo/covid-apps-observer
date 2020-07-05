@@ -199,25 +199,25 @@ The COVID Symptom Study app has been installed by more than **1000000** times. A
 <img src="5_star_reviews_wordcloud.png" alt="com.joinzoe.covid_zoe 5 reviews"/>
 </p>
 
-> Very informative<br> :date: __2020-07-04 19:49:40__
+> Very easy and simple<br> :date: __2020-07-05 14:46:37__
 
-> Very efficient and informative.<br> :date: __2020-07-04 19:34:13__
+> Takes about 20 seconds each day for you to add to this vital research tool.<br> :date: __2020-07-05 14:38:44__
 
-> Simple to use<br> :date: __2020-07-04 18:57:44__
+> Excellent<br> :date: __2020-07-05 14:21:03__
 
-> Easy to use and a great way of gathering statistics to help track the spread of the virus.<br> :date: __2020-07-04 18:53:32__
+> Simple and user friendly<br> :date: __2020-07-05 14:09:47__
 
-> Easy to use<br> :date: __2020-07-04 18:30:56__
+> Really easy and quick to use. Hoping my small part will contribute to the greater cause.<br> :date: __2020-07-05 13:38:56__
 
-> Looks like a good study. Glad to take part<br> :date: __2020-07-04 18:30:03__
+> Excellent<br> :date: __2020-07-05 13:29:48__
 
-> simple to use and quick. everyone should use it<br> :date: __2020-07-04 18:18:42__
+> It's useful to feel that I'm contributing to an evidence base and in filling it in I have also taken comfort in the efforts of academics/the medical profession in taking the lead on this. I don't know if its accurate take on who's responsibility (ie academic or gov't) it should be to take a lead in ensuring this kind of work is done, but in signing up to it has given me a sense of security that some sensible/intelligent people are taking charge.<br> :date: __2020-07-05 13:22:20__
 
-> Easy.<br> :date: __2020-07-04 17:50:35__
+> Easy to use and very necessary.<br> :date: __2020-07-05 13:16:27__
 
-> Excellent app<br> :date: __2020-07-04 17:39:29__
+> Simple to use, clearly important. Good insights from blog and webinars. Later addition - can it be made easier to take the Updates? You're making a lot, but the App only occasionally offers an Update option (to me, anyway). Later update: The App no longer allows me to update it. Google Play tells me only that it's 'Installed', and if I want to reinstall it I have to verify an account that's not my personal one. I've given up - I'll just keep going with what I have, which is now 16 updates behind.<br> :date: __2020-07-05 13:07:30__
 
-> Very easy to use<br> :date: __2020-07-04 17:34:13__
+> Excellent and a reassuring app.<br> :date: __2020-07-05 13:05:45__
 
 
 
@@ -227,25 +227,25 @@ The COVID Symptom Study app has been installed by more than **1000000** times. A
 <img src="4_star_reviews_wordcloud.png" alt="com.joinzoe.covid_zoe 4 reviews"/>
 </p>
 
+> Feel like I'm doing my bit a little. Only problem is that the pop up keyboard sometimes obscures the question I'm answering.<br> :date: __2020-07-05 14:27:55__
+
+> To many page add's but easy to use<br> :date: __2020-07-05 13:44:50__
+
+> Simple and easy to use. Takes no time at all<br> :date: __2020-07-05 13:28:54__
+
+> Questions too simple for sure a dangerous disease<br> :date: __2020-07-05 12:48:10__
+
+> Bit difficult to get on at first but ok now and the daily reminder is good<br> :date: __2020-07-05 12:03:59__
+
+> Easy to access and full of useful information and opinion.<br> :date: __2020-07-05 10:35:42__
+
+> Great app for a great cause, but I am now uninstalling and will no longer assist due being asked to participate in taking a home test and not realising that you use Amazon to deliver your kids and I have now sat waiting for 11 hours for the kit to be delivered today, including a couple of hours on with Amazon so-called customer service being passed from pillar to post and asked to wait another few hours, then another few. They keep saying delivery attempt failed, but they are not even attempting<br> :date: __2020-07-04 22:07:25__
+
+> No problems hope it helps<br> :date: __2020-07-04 21:55:12__
+
+> It is very handy however it asked me today what my blood group is. Now, I know I'm O- but that isn't one of the options 🤷🏻‍♀️<br> :date: __2020-07-04 21:11:01__
+
 > Helpful<br> :date: __2020-07-04 16:38:27__
-
-> I wanted to expand on some of the answers. And i cant exit this rating without discarding it, and it offers no submit button.<br> :date: __2020-07-04 16:15:11__
-
-> Simple straight forward.<br> :date: __2020-07-04 16:09:03__
-
-> Easy to use once you are logged in. I had a bit of trouble with the questions at the start as some of the drop down choices didn't appear and it wasn't obvious that there were more to see (no scroll bar if I remember correctly).<br> :date: __2020-07-04 15:56:25__
-
-> Easy to use. Feel I am contributing in a small way to research.<br> :date: __2020-07-04 15:19:46__
-
-> Good app. Ramdomly requires additional information depending upon local, national factors. Ideally needs to remind the user to daily update. This part of the app keeps dropping off.<br> :date: __2020-07-04 15:03:38__
-
-> Straightforward. Do l get notified if l come into contact with someone with covid19?<br> :date: __2020-07-04 14:55:08__
-
-> Good. Easy to complete.<br> :date: __2020-07-04 14:15:26__
-
-> Literally takes a minute. Well worth the effort if it helps research.<br> :date: __2020-07-04 14:00:07__
-
-> Fairly intuitive<br> :date: __2020-07-04 13:14:26__
 
 
 
@@ -254,6 +254,12 @@ The COVID Symptom Study app has been installed by more than **1000000** times. A
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="com.joinzoe.covid_zoe 3 reviews"/>
 </p>
+
+> Good app<br> :date: __2020-07-05 12:46:47__
+
+> Basically easy to use but the q about contact with others could have been broken down furrher eg had to visit place with lots if people could have said had to visit place with a few people eg groceries then had to visit place with lots of people eg hospital etc. Also symptoms could include cold symptoms.<br> :date: __2020-07-05 06:31:25__
+
+> Wouldn't let me log in for the last few days<br> :date: __2020-07-04 19:59:11__
 
 > As yet, no useful information<br> :date: __2020-07-04 19:09:26__
 
@@ -269,12 +275,6 @@ The COVID Symptom Study app has been installed by more than **1000000** times. A
 
 > I am happy to take part, but the interface could be more intuitive. Right it is stick, does not move on. Not good. It only asks me if I want to clear my comments ! No , I wish to submit! Come on Kings college programmer you can do better than this.<br> :date: __2020-07-02 14:43:21__
 
-> I don't think this app has captured the fact that I'm pretty sure I had covid before I started reporting on the app (but wasn't tested) as the questions about that were really unclear. Also now it keeps asking me about how much I've been out every week but doesn't include meeting people to socialize (e.g. if people come round my house I haven't technically been out but I've still mixed with people) most of the mixing I've done has been socializing e.g.in my garden which is not being captured.<br> :date: __2020-07-02 12:53:15__
-
-> On novorapid in day and levimer at night.no mentioning that.also no mention of statins or ramilpril or prils in general<br> :date: __2020-07-01 23:28:47__
-
-> Easy to use. An improvement would be a reminder to report on a daily basis. Glad to be helping research.<br> :date: __2020-07-01 10:18:36__
-
 
 
 #### 2-star reviews
@@ -288,10 +288,6 @@ The COVID Symptom Study app has been installed by more than **1000000** times. A
 > Limited feedback<br> :date: __2020-06-29 13:50:26__
 
 > This used to be very simple, it took 20 seconds to report. Now they've added pages of questions so I uninstalled. Pity.<br> :date: __2020-06-23 18:37:33__
-
-> It takes ages to set this up. The quid pro quo is supposed to be daily, accurate Covid data - but the data has not been updated since I've been using the app!<br> :date: __2020-06-21 20:52:40__
-
-> Post update did not recognise my login details.<br> :date: __2020-06-21 11:57:29__
 
 
 
@@ -316,9 +312,5 @@ The COVID Symptom Study app has been installed by more than **1000000** times. A
 > This app there nosey fcukers like to no ins and outs how about piss off do one<br> :date: __2020-06-24 02:58:32__
 
 > I have cancelled this app because every day they are searching for funding and I have used the app since April and suddenly they started asking for my logon details again as if they have lost previous history seems strange.<br> :date: __2020-06-23 13:34:06__
-
-> Didn.t know it was on phone<br> :date: __2020-06-21 15:46:57__
-
-> Couldn't put any date of birth in<br> :date: __2020-06-21 14:18:52__
 
 

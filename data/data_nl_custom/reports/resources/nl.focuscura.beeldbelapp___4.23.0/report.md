@@ -309,6 +309,8 @@ The Luscii app has been installed by more than **50000** times. At this time, **
 <img src="1_star_reviews_wordcloud.png" alt="nl.focuscura.beeldbelapp 1 reviews"/>
 </p>
 
+> Ik ga de app verwijderen, waardeloos<br> :date: __2020-07-05 01:01:49__
+
 > Weegschaal werkt niet lege batterijen<br> :date: __2020-06-29 09:36:25__
 
 > Ze sturen je een code maar de app zegt elke keer dat het geen geldige code is!!!<br> :date: __2020-06-17 08:01:41__
@@ -326,7 +328,5 @@ The Luscii app has been installed by more than **50000** times. At this time, **
 > Duurt te lang doorat iedere vraag apart verzonden moet worden<br> :date: __2020-05-29 10:45:18__
 
 > Aanmeld procedure doorlopen om dan een melding te krijgen dat het niet werkt voor Android<br> :date: __2020-05-25 18:53:10__
-
-> Nu vind ik de app niet goed meer zeker na de updates,alles is verdwenen alle metingen. Ik heb liever de metingen die ik iedere dag doet<br> :date: __2020-05-23 18:46:54__
 
 
