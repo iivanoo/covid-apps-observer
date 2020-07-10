@@ -199,25 +199,25 @@ The COVID Symptom Study app has been installed by more than **1000000** times. A
 <img src="5_star_reviews_wordcloud.png" alt="com.joinzoe.covid_zoe 5 reviews"/>
 </p>
 
-> Very easy and simple<br> :date: __2020-07-05 14:46:37__
+> Easy to use<br> :date: __2020-07-10 14:15:09__
 
-> Takes about 20 seconds each day for you to add to this vital research tool.<br> :date: __2020-07-05 14:38:44__
+> Good<br> :date: __2020-07-10 14:04:24__
 
-> Excellent<br> :date: __2020-07-05 14:21:03__
+> Easy to use and informative<br> :date: __2020-07-10 13:24:24__
 
-> Simple and user friendly<br> :date: __2020-07-05 14:09:47__
+> Straight forward and easy to use<br> :date: __2020-07-10 13:16:41__
 
-> Really easy and quick to use. Hoping my small part will contribute to the greater cause.<br> :date: __2020-07-05 13:38:56__
+> Very easy to follow and understand. That's less than a min to answer a question<br> :date: __2020-07-10 13:12:34__
 
-> Excellent<br> :date: __2020-07-05 13:29:48__
+> Satisfaction<br> :date: __2020-07-10 12:51:49__
 
-> It's useful to feel that I'm contributing to an evidence base and in filling it in I have also taken comfort in the efforts of academics/the medical profession in taking the lead on this. I don't know if its accurate take on who's responsibility (ie academic or gov't) it should be to take a lead in ensuring this kind of work is done, but in signing up to it has given me a sense of security that some sensible/intelligent people are taking charge.<br> :date: __2020-07-05 13:22:20__
+> Really easy to use !<br> :date: __2020-07-10 12:32:00__
 
-> Easy to use and very necessary.<br> :date: __2020-07-05 13:16:27__
+> Simple, straight forward<br> :date: __2020-07-10 12:08:56__
 
-> Simple to use, clearly important. Good insights from blog and webinars. Later addition - can it be made easier to take the Updates? You're making a lot, but the App only occasionally offers an Update option (to me, anyway). Later update: The App no longer allows me to update it. Google Play tells me only that it's 'Installed', and if I want to reinstall it I have to verify an account that's not my personal one. I've given up - I'll just keep going with what I have, which is now 16 updates behind.<br> :date: __2020-07-05 13:07:30__
+> Good<br> :date: __2020-07-10 11:26:12__
 
-> Excellent and a reassuring app.<br> :date: __2020-07-05 13:05:45__
+> Easy to do and no reason not to do it!<br> :date: __2020-07-10 11:24:12__
 
 
 
@@ -227,25 +227,25 @@ The COVID Symptom Study app has been installed by more than **1000000** times. A
 <img src="4_star_reviews_wordcloud.png" alt="com.joinzoe.covid_zoe 4 reviews"/>
 </p>
 
-> Feel like I'm doing my bit a little. Only problem is that the pop up keyboard sometimes obscures the question I'm answering.<br> :date: __2020-07-05 14:27:55__
+> Entering daily report on being well or unwell is a great idea. I haven't chose unwell yet so not sure what options you have after that which is why only 4 stars. Plenty of information though so thumbs up for that.<br> :date: __2020-07-10 13:07:16__
 
-> To many page add's but easy to use<br> :date: __2020-07-05 13:44:50__
+> Easy to use<br> :date: __2020-07-10 11:19:45__
 
-> Simple and easy to use. Takes no time at all<br> :date: __2020-07-05 13:28:54__
+> Good. More detailed (first 3 letter of postcode?) Feedback/reports welcomed<br> :date: __2020-07-10 11:16:08__
 
-> Questions too simple for sure a dangerous disease<br> :date: __2020-07-05 12:48:10__
+> Fine and easy - when it works first time! I quite frequently have a white screen and have to try multiple times.<br> :date: __2020-07-10 09:41:44__
 
-> Bit difficult to get on at first but ok now and the daily reminder is good<br> :date: __2020-07-05 12:03:59__
+> Very simple to use.<br> :date: __2020-07-10 01:50:18__
 
-> Easy to access and full of useful information and opinion.<br> :date: __2020-07-05 10:35:42__
+> Great app for a great cause, but I am now uninstalling & will no longer able to assist due to being asked to participate in taking a test and not realising that you use Amazon to deliver your kits. I have now sat waiting for 11 hours for the kit to be delivered today, including a couple of hours on with Amazon so-called customer service being passed from pillar to post & asked to wait another few hours, then another few. They keep saying delivery attempt failed, but they are not even attempting.<br> :date: __2020-07-09 21:13:56__
 
-> Great app for a great cause, but I am now uninstalling and will no longer assist due being asked to participate in taking a home test and not realising that you use Amazon to deliver your kids and I have now sat waiting for 11 hours for the kit to be delivered today, including a couple of hours on with Amazon so-called customer service being passed from pillar to post and asked to wait another few hours, then another few. They keep saying delivery attempt failed, but they are not even attempting<br> :date: __2020-07-04 22:07:25__
+> Easy to use<br> :date: __2020-07-09 19:07:31__
 
-> No problems hope it helps<br> :date: __2020-07-04 21:55:12__
+> Anything that will provide more info to those fighting this virus is good for me ... except, can I please have a way of being reminded what my password is? I've had to create 2 accounts because I couldn't remember first time round.<br> :date: __2020-07-09 16:40:29__
 
-> It is very handy however it asked me today what my blood group is. Now, I know I'm O- but that isn't one of the options 🤷🏻‍♀️<br> :date: __2020-07-04 21:11:01__
+> Once profile is saved, Can't go back and change some of my answers if I want to.<br> :date: __2020-07-09 15:21:43__
 
-> Helpful<br> :date: __2020-07-04 16:38:27__
+> My only 'problem' was, all friends were describing the extra questions and I was still just getting the same 2questions. Has taken until today for me to suss how to update app! 😅<br> :date: __2020-07-09 13:39:30__
 
 
 
@@ -255,25 +255,25 @@ The COVID Symptom Study app has been installed by more than **1000000** times. A
 <img src="3_star_reviews_wordcloud.png" alt="com.joinzoe.covid_zoe 3 reviews"/>
 </p>
 
+> Some issues leading to a feeling of incomplete answering due to questions not specific enough, or answer you want not available in choice options.<br> :date: __2020-07-10 01:22:30__
+
+> app is keeping me informed<br> :date: __2020-07-09 19:01:06__
+
+> Lots of technical problems. Surprised I still try it.<br> :date: __2020-07-09 15:17:22__
+
+> Easy to use but there's no way of recovering a password once lost. Have tried Reset Password 4 times but no email arrives from the app to let me back in.<br> :date: __2020-07-08 08:56:48__
+
+> App is generally easy to use. But the estimate of "people with symptoms" for my county is staggeringly wrong. I live in Fresno County, CA, where the virus is out of control. For 6-8 weeks, the app's estimate for cases in my county has been steady at around 1,850 cases, or slightly declining. In fact there are >4,600 active cases in the county, and it's been going up by >200 cases PER DAY for the last couple of weeks. I'm tempted to stop using the app so these folks will stop publishing falsely comforting numbers. The virus is out of control in my county, and these folks are completely missing that.<br> :date: __2020-07-06 19:47:55__
+
+> Good app but would like to input symptoms previously had but it did not ask what these were.<br> :date: __2020-07-06 13:34:57__
+
+> App has good intensions but I report every single day without fail but when I open it to report it sometimes says, last reported 2 days ago, even 3 days ago. I've been using it for around 3 months now so I'm not convinced it's very accurate.<br> :date: __2020-07-06 07:57:05__
+
 > Good app<br> :date: __2020-07-05 12:46:47__
 
 > Basically easy to use but the q about contact with others could have been broken down furrher eg had to visit place with lots if people could have said had to visit place with a few people eg groceries then had to visit place with lots of people eg hospital etc. Also symptoms could include cold symptoms.<br> :date: __2020-07-05 06:31:25__
 
 > Wouldn't let me log in for the last few days<br> :date: __2020-07-04 19:59:11__
-
-> As yet, no useful information<br> :date: __2020-07-04 19:09:26__
-
-> Easy to use but lacking some usability features.<br> :date: __2020-07-04 13:50:04__
-
-> Great idea! Could add an easier daily update and prompt.<br> :date: __2020-07-04 12:35:15__
-
-> Obviously an excellent idea but once I had to re-log in and now I have two personalities<br> :date: __2020-07-04 11:57:14__
-
-> Unable to complete initial questionnaire. Reinstalled , logged in but now unable to complete profile... Daily reporting seems ok.<br> :date: __2020-07-03 11:57:40__
-
-> All I seem to be able to do is report well or unwell. It flashed up wanting me to add my blood group if Iknow it but there is no way to do this. I can't report the symptoms I had in March either. How do I edit myprofile data?<br> :date: __2020-07-03 10:58:53__
-
-> I am happy to take part, but the interface could be more intuitive. Right it is stick, does not move on. Not good. It only asks me if I want to clear my comments ! No , I wish to submit! Come on Kings college programmer you can do better than this.<br> :date: __2020-07-02 14:43:21__
 
 
 
@@ -287,8 +287,6 @@ The COVID Symptom Study app has been installed by more than **1000000** times. A
 
 > Limited feedback<br> :date: __2020-06-29 13:50:26__
 
-> This used to be very simple, it took 20 seconds to report. Now they've added pages of questions so I uninstalled. Pity.<br> :date: __2020-06-23 18:37:33__
-
 
 
 #### 1-star reviews
@@ -296,6 +294,8 @@ The COVID Symptom Study app has been installed by more than **1000000** times. A
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="com.joinzoe.covid_zoe 1 reviews"/>
 </p>
+
+> Just another way for the government to track your movements.<br> :date: __2020-07-07 14:48:31__
 
 > Wouldn't let me put i don't know my blood type so couldn't finish signing up<br> :date: __2020-07-04 17:25:07__
 
@@ -308,9 +308,5 @@ The COVID Symptom Study app has been installed by more than **1000000** times. A
 > I have attempted to use the app 3 times and 'it' has never allowed me to finish the list of questions so I haven't completed even registering<br> :date: __2020-06-28 09:16:36__
 
 > Pointless app not official plus no links too covid this is a scam site<br> :date: __2020-06-27 21:33:39__
-
-> This app there nosey fcukers like to no ins and outs how about piss off do one<br> :date: __2020-06-24 02:58:32__
-
-> I have cancelled this app because every day they are searching for funding and I have used the app since April and suddenly they started asking for my logon details again as if they have lost previous history seems strange.<br> :date: __2020-06-23 13:34:06__
 
 
