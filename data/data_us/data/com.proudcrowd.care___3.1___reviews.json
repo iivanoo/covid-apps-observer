@@ -1,5 +1,41 @@
 [
     {
+        "reviewId": "gp:AOqpTOG3eKCyyAQsViJiDmQR8ag81ZKtrEOj58E9CeEs00BuEtl4C0bSUcVjQjpiNpny8ps6LJCB3JOLfYw-Cvo",
+        "userName": "Carol Robshaw",
+        "userImage": "https://lh3.googleusercontent.com/-Ps3BCboUbA0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucktbn49QtxN3Q2hJJBG-YYZHbraPg/photo.jpg",
+        "content": "Location info is incorrect and incomplete. I was able to fix the incorrect info, but can't add locations. Uninstalled and reinstalled on 6/24. Tracked my location until 6/27 then nothing.",
+        "score": 2,
+        "thumbsUpCount": 37,
+        "reviewCreatedVersion": "3.1",
+        "at": "2020-07-07 17:28:05",
+        "replyContent": "We only get a location that is accurate to around 50 meters from the phone, as it does location detection via cell tower or wifi detection to save battery.  There are often cases where you may be at a strip mall where there are multiple stores nearby and we simply can't get it right 100% of the time.  We do try to make it easy to change in the app.",
+        "repliedAt": "2020-04-23 06:59:24"
+    },
+    {
+        "reviewId": "gp:AOqpTOHB5_8-AUcWYxBnzPktDk49NRbk6Tz2F9hdJZwhYwbOurVn5v3V2jDvj2iokTDiUS4Z4xqWYRZ31_DpYak",
+        "userName": "carrie melland",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gi2h6wrJkP7ux73lmtiE2dYX7PGfHlyEAZBS67j",
+        "content": "I just dont have room on my phone:(",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.1",
+        "at": "2020-07-06 11:55:41",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOEn3SBC5XJhJBwE65ycj6b8dC2Y7nuTh5LlmZn8pwDu_XRhEXalWIWFpGmGZOAD41lA67RGSaXb0fFo1-M",
+        "userName": "Quito Banogon",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgyjIypg0jviQzafB1TY3JO8IZlOTf2nz5pEuLauQA",
+        "content": "Does this app work for Los Angeles, CA residents? It doesn\u2019t seem to work when installed on my phone because I\u2019m still unable to turn on \u201cExposure Notifications\u201d after the app is installed. I\u2019m going to Settings > Google > COVID-19 Exposure Notifications and the toggle to turn on Exposure Notifications will not respond.",
+        "score": 1,
+        "thumbsUpCount": 2,
+        "reviewCreatedVersion": "3.1",
+        "at": "2020-07-06 03:44:17",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOF8lb5UnM4mPSBxxl09U7H6Cw6a1TM4fWDLgxvwpUZjJVCEYFD5Ul5UeeuU5-Y_fcCu-OcAjnNi-c3M1L4",
         "userName": "Elizabeth Schanz",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Ghkt6DMKgXSmIFl0bdqlVW2f99Yq5wzTD8bqIUVyQ",
@@ -17,7 +53,7 @@
         "userImage": "https://lh3.googleusercontent.com/-cwhmqKFvCR8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmxgwhngGs5M7UHaqfi_-Ii0s8PnA/photo.jpg",
         "content": "Gives a lot of erroneous locations that are passed while driving or stopping at a stop light. Some days it gives no information at all.. i reloaded it a couple of weeks ago. It worked well until July 3 then quit working, not registering any locations.",
         "score": 2,
-        "thumbsUpCount": 4,
+        "thumbsUpCount": 7,
         "reviewCreatedVersion": "3.1",
         "at": "2020-07-04 20:23:07",
         "replyContent": "Please contact support@care19.app for help.  We should not be grabbing stoplights, though it is often hard for the phone to tell the difference between a stoplight and a trip through a drive-through line at McDonalds.  (Looks the same).  We have made some changes in the last week to improve this, I see your review if from about 8 days ago.",
@@ -25,8 +61,8 @@
     },
     {
         "reviewId": "gp:AOqpTOF-L95rKdNQvGHbVY_7e5WKmKW2xYJJZqFhBfc7RREzJ_ePC4lL-jzXFdvBbhIzRHV0-xbCUA5XMFNPV_A",
-        "userName": "Mace Ravenwolf",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjLSWHQPmpZDo_OdZYDl9yDddhNZmCuDNczxQ_CxQ",
+        "userName": "Greg Pawlak",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GisjPbGdgFZhPl5bxtOPzhIgVtwOUZlHQgrzJhMHg",
         "content": "this app is worthless",
         "score": 1,
         "thumbsUpCount": 0,
@@ -101,7 +137,7 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjlCY1cCTPAMPxEHZZL3l8tsKLL0hLdZ9Gk57Cy8Q",
         "content": "I work in Technology Sales, Retail. So I wanted an app that would start tracking my locations AUTOMATICALLY to assist me in providing that data needed for my Contact Tracers should the need arise. This app FAILS MISERABLY!!! It DOES NOT track when I am some place for more than an hour. Examples: Work, Gym, Restaurants. Don't waste your time on the Android version of this app!!! Look elsewhere. Samsung S20+ 5G",
         "score": 1,
-        "thumbsUpCount": 16,
+        "thumbsUpCount": 23,
         "reviewCreatedVersion": "3.1",
         "at": "2020-06-27 04:18:00",
         "replyContent": null,
@@ -1033,7 +1069,7 @@
     },
     {
         "reviewId": "gp:AOqpTOHe-QnzRJ-PBBe5ji6vxTRZ3ujibZcwRTCQKObDcm0Y0qH3vDwQVDmTBZmszeflB7ol1o48SWgjkWNuUho",
-        "userName": "Brooke Hochhalter",
+        "userName": "Brooke Nelson",
         "userImage": "https://lh3.googleusercontent.com/-ZqFj4nr6NdM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl17_mYB5S7A3xuAueC84sJttHogQ/photo.jpg",
         "content": "Does not keep accurate tracing. Places I have been are not being recorded, but it records places I have not been.",
         "score": 1,
@@ -1618,18 +1654,6 @@
         "at": "2020-04-24 02:11:08",
         "replyContent": null,
         "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOG3eKCyyAQsViJiDmQR8ag81ZKtrEOj58E9CeEs00BuEtl4C0bSUcVjQjpiNpny8ps6LJCB3JOLfYw-Cvo",
-        "userName": "Carol Robshaw",
-        "userImage": "https://lh3.googleusercontent.com/-Ps3BCboUbA0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucktbn49QtxN3Q2hJJBG-YYZHbraPg/photo.jpg",
-        "content": "Location info is incorrect and incomplete. I was able to fix the incorrect info, but can't add locations.",
-        "score": 2,
-        "thumbsUpCount": 37,
-        "reviewCreatedVersion": "1.0",
-        "at": "2020-04-22 21:37:04",
-        "replyContent": "We only get a location that is accurate to around 50 meters from the phone, as it does location detection via cell tower or wifi detection to save battery.  There are often cases where you may be at a strip mall where there are multiple stores nearby and we simply can't get it right 100% of the time.  We do try to make it easy to change in the app.",
-        "repliedAt": "2020-04-23 06:59:24"
     },
     {
         "reviewId": "gp:AOqpTOHRyc01Y9zpGrCOIU1urV3NC0aiFhEWk4gs-Ub5UI_A5YahSG8WThkwih8Bfut793Kkt1FD6JtMuBdZt6g",

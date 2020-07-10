@@ -169,6 +169,8 @@ No recent reviews available with 2 stars.
 <img src="1_star_reviews_wordcloud.png" alt="es.gva.coronavirus 1 reviews"/>
 </p>
 
+> Mala<br> :date: __2020-07-05 18:02:44__
+
 > Bien<br> :date: __2020-07-01 19:17:38__
 
 > Penosa app, se rien en tu cara y ciertos comentarios los retiran...<br> :date: __2020-07-01 10:53:08__
@@ -186,7 +188,5 @@ No recent reviews available with 2 stars.
 > Me parece increíble la discriminación. De la Generalidad Valenciana que si no eres de seguridad social no puedes usar esta aplicación funcionarios, policías y militares guardias civiles todos estos que que por decisión. Del estado y no propia tienen tarjetas de MUFACE MUGEJO IFAS todos estos también somos ciudadanos de la Comunidad Valencia y a esto añadir I migrantes y demás desfavorecidos, viviendo en valencia me está dando servicio la aplicación Catalana UNA VERGUENZA<br> :date: __2020-04-20 20:34:22__
 
 > Solo sirve para rastrear<br> :date: __2020-04-19 10:25:21__
-
-> Es que está aplicación no tiene sentido... Con la propia anterior era suficiente, obligan a todos a instalar una nueva. Perdida de dinero y tiempo<br> :date: __2020-04-16 19:29:40__
 
 

@@ -217,6 +217,8 @@ The Canada COVID-19 app has been installed by more than **100000** times. At thi
 <img src="2_star_reviews_wordcloud.png" alt="ca.gc.hcsc.canada.covid19 2 reviews"/>
 </p>
 
+> On the surface the app appears to do what it claims. I will update my review once I've had a chance to inspect the code for myself and do some testing of my own.<br> :date: __2020-07-05 23:34:48__
+
 > Dont like it<br> :date: __2020-07-04 07:09:53__
 
 > Can't get it to load update ? But phone gets jammed regularly in this ongoing hostage scenario.<br> :date: __2020-06-04 01:51:24__
@@ -241,6 +243,8 @@ The Canada COVID-19 app has been installed by more than **100000** times. At thi
 <img src="1_star_reviews_wordcloud.png" alt="ca.gc.hcsc.canada.covid19 1 reviews"/>
 </p>
 
+> Doesn't support contact tracing, at least Google says so in the settings.<br> :date: __2020-07-08 14:48:53__
+
 > Useless<br> :date: __2020-06-25 06:52:28__
 
 > I have used this before. I have location on, googles scanning service for wifi location also on. When I open it, it takes me to a white page with the BC logo and states there is an app error. I am confused because there seems to be a seperate app for BC anyway yet thats what is happening and have not got past the error message to try and correct it to Ontario<br> :date: __2020-06-24 00:06:53__
@@ -258,7 +262,5 @@ The Canada COVID-19 app has been installed by more than **100000** times. At thi
 > Need tracking info, not just links, app is absolutely no need to have<br> :date: __2020-05-11 10:34:51__
 
 > Daily check in suddenly stopped working<br> :date: __2020-04-29 23:12:54__
-
-> Can someone tell me how this app was already to go as fast as March 30? Telus can't even get my optik tv app right and they have all the money in the world. So how can the gov have one that works so quickly ?<br> :date: __2020-04-28 06:08:24__
 
 

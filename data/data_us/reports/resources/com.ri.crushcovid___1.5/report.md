@@ -180,8 +180,6 @@ The CRUSH COVID RI app has been installed by more than **10000** times. At this 
 
 > In principle it's great. The developer need to patch a few things, though. Also, it doesn't do passive tracking so either the app is open and running or it won't do anything<br> :date: __2020-06-04 14:38:07__
 
-> Excellent resource for Covid-19 info along with optional tracking feature to assist with contact tracing. Version 1.0 has some room for improvement, but it is an excellent tool to assist the DOH with their mission of protecting the health of RI citizens. I feel like I am helping to do my part in a small way by downloading this app.<br> :date: __2020-06-04 01:20:55__
-
 > Took (me) some extra effort to find the app but it was Soo easy to download it once I finally found it. Very simple to use and I feel Very safe about my privacy control. GJGR!<br> :date: __2020-05-24 10:19:46__
 
 > Does what its supposed to however I can only set it to detect location when app is in use. There's no way that I've found to set it all the time.<br> :date: __2020-05-22 04:56:47__
@@ -191,6 +189,8 @@ The CRUSH COVID RI app has been installed by more than **10000** times. At this 
 > Decent app. The gps seems to slingshot. Of it shows me going out in my neighborhood when i was home.<br> :date: __2020-05-22 00:15:21__
 
 > Great idea RI DOH<br> :date: __2020-05-19 21:24:30__
+
+> First to download hope it works<br> :date: __2020-05-19 19:10:52__
 
 
 
@@ -228,6 +228,10 @@ The CRUSH COVID RI app has been installed by more than **10000** times. At this 
 <img src="2_star_reviews_wordcloud.png" alt="com.ri.crushcovid 2 reviews"/>
 </p>
 
+> Not accurate. Needs a feature for correcting addresses. Not compatible with the covid tracker that was placed on cell phones.<br> :date: __2020-07-10 08:36:38__
+
+> Update 7/8/20: As with many other reviews, tracking function does not appear accurate. Location permission "While app is in use" may be problem. Previous comments: Excellent resource for Covid-19 info along with optional tracking feature to assist with contact tracing. Version 1.0 has some room for improvement, but it is an excellent tool to assist the DOH with their mission of protecting the health of RI citizens. I feel like I am helping to do my part in a small way by downloading this app.<br> :date: __2020-07-08 15:57:16__
+
 > I've had this app on my phone for about a month now and I assumed it was keeping track of where I go, apparently that isn't the case because it's only showing two places in a month which is wrong. I also stopped keeping a contact diary after downloading the app and now I will have a hard time remembering everywhere I've been the past month. Luckily I stay home a lot more than I used to but it's not showing any markets or stores I've been to. I think I'm just going to delete the app.<br> :date: __2020-06-29 20:04:33__
 
 > I had the app when it first came out and it worked fine until 3 weeks ago then it stopped tracking me. I just got a new Note 10 and it won't let me finish setting it up . Won't respond on last page of setup to allow it to track, etc. So I uninstalled it and am going to try to install it again<br> :date: __2020-06-19 20:44:25__
@@ -243,10 +247,6 @@ The CRUSH COVID RI app has been installed by more than **10000** times. At this 
 > Good idea bleh execution app is barren amd pins do not stick. Develop moar<br> :date: __2020-06-04 03:55:32__
 
 > Doesn't recognize as data on or connected to wifi.<br> :date: __2020-06-03 20:55:20__
-
-> Not accurate. Looking at my history it has me at places I've never even been close too!<br> :date: __2020-05-31 00:28:14__
-
-> Killed my battery quickly. Makes sense but google maps does the same tracking of where I go.<br> :date: __2020-05-26 22:35:54__
 
 
 

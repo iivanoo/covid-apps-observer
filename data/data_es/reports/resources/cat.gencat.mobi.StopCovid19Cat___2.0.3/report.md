@@ -216,6 +216,8 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 <img src="2_star_reviews_wordcloud.png" alt="cat.gencat.mobi.StopCovid19Cat 2 reviews"/>
 </p>
 
+> Em diu que nio tinc zip;)<br> :date: __2020-07-08 07:46:25__
+
 > Introdueixo les dades pero despres quan confirmo no avança es queda aturat<br> :date: __2020-06-21 14:00:59__
 
 > Dicen ke asi controlan a diario los datos y no los guarda ya me dirás tú ke manera de controlar.<br> :date: __2020-04-23 13:11:12__
@@ -234,8 +236,6 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 
 > Lleva 2 días sin funcionar...<br> :date: __2020-03-29 16:57:39__
 
-> Creo que no está muy bien calibrada. He puesto que tengo malestar general, sin tos, ni fiebre ni otro síntoma y ya me dice que tengo el virus... Estaria bien arreglar eso para no alarmar a la gente<br> :date: __2020-03-25 09:01:46__
-
 
 
 #### 1-star reviews
@@ -243,6 +243,8 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="cat.gencat.mobi.StopCovid19Cat 1 reviews"/>
 </p>
+
+> No puc accedir a l'aplicacio,. Un cop poso el codi de validació no em deixa avançar.<br> :date: __2020-07-08 12:28:43__
 
 > De momento pongo una estrella 🌟 porque esta app solo sirve para uno mismo para ver si tienes algún síntoma. De momento no sirve para saber si estas cerca de alguien que pueda que sea portador de Covid-19.<br> :date: __2020-07-02 21:27:30__
 
@@ -261,7 +263,5 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 > Desde hoy no me funciona bien, hay algún problema?<br> :date: __2020-06-05 14:15:46__
 
 > No es realista, t sale q tienes coronavirus por solo tener cierta fatiga al hacer esfuerzos, y q antes no tenias, mejor llamar al medico d cabecera, esta aplicacion no es tan practica.<br> :date: __2020-06-02 16:40:27__
-
-> Sin sentido responder a las preguntas,el resultado es el mismo<br> :date: __2020-06-02 15:09:37__
 
 

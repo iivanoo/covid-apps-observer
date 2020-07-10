@@ -159,6 +159,8 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 <img src="4_star_reviews_wordcloud.png" alt="de.bssd.covid19 4 reviews"/>
 </p>
 
+> Eigendlich gut. Testergebnis war ,mit dem verbesserten scanner, nach 2 tagen da. Das schriftliche Ergebnis nach 4 tagen. Nur die Benachrichtigung der App kam dann nach einer Woche. Das ist dann schon komisch.<br> :date: __2020-07-07 09:22:03__
+
 > Binnen weniger als 24h war das Ergebnis da. Kreis Gütersloh zentrale Teststelle. Allerdings ist mir unklar, wie man den Nachweis erbringen kann: Der Name steht nicht dabei.<br> :date: __2020-07-01 09:13:44__
 
 > Ich habe diese App zum Glück noch nicht gebraucht; hatte sie mir nur zur Vorsicht heruntergeladen. Ich hoffe, daß die Testlabore sie auch verwenden, damit sie auch funktioniert.<br> :date: __2020-06-17 12:34:45__
@@ -176,8 +178,6 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 > Wenn man hier die Bewertungen von einigen Usern durchliest, kann einen nur übel werden. Besteht ein Großteil von Anwendern aus legasthenisch veranlagten Untermenschen? Ein Handy bedienen können, aber nichtmal auf verständlichen DEUTSCH eine Bewertung schreiben. Braucht man sich auch nicht wundern auf welch fruchtbaren Boden Hamsterkäufe und Fehlinformation gedeihen können^^... Zur App: Funktioniert und erledigt ihren Zweck, die Ausführung der appinternen Sicherheit ist nur sehr fraglich.<br> :date: __2020-04-02 07:53:10__
 
 > Sehr gut, jede Stunde zählt, wie auch die Entlastung derer bei denen das Ergebnis bisher vmtl. Tel. angefragt werden muss. Wie man den Kommentaren Dritter entnehmen kann, muss man wohl noch einen Erklärbär einbauen der den Zweck erklärt, die App ist kein mobiles Labor 8:-)<br> :date: __2020-04-01 22:37:46__
-
-> Hier sieht man Mal wieder, wenn man die Bewertungen liest, wie dumm viele Leute sind. Es glauben echt manche, dass die App ein Corona-Test oder so etwas sei. Es steht in der Beschreibung usw. Ihr müsst nur lesen und Mal nachdenken! Und dann wird die App auch noch negativ bewertet. Unfassbar, was die heutige Zeit so alles hervorbringt.<br> :date: __2020-03-31 23:30:10__
 
 
 
@@ -241,6 +241,12 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 <img src="1_star_reviews_wordcloud.png" alt="de.bssd.covid19 1 reviews"/>
 </p>
 
+> Also das Scannen des Codes klappt schonmal nicht. Habe dann jedes Mal mühevoll den langen Code eingegeben. Schonmal sehr schlecht. Während in der App steht, dass Ergebnis läge nach 2 Tagen immer noch nicht vor, hat der Arzt es schon. Also keine Echtzeitübertragung. Die Idee der App ist spitze, dafür 1 Punkt. Schade, dass sie aber überhaupt nicht funktioniert.<br> :date: __2020-07-09 16:03:33__
+
+> NULL Sterne - Anmeldung nicht möglich Ich hab es oft probiert und es passiert gar nichts. Auch den Code kann man nicht manuell eingeben. Da kann man es sich auch schenken.<br> :date: __2020-07-06 19:48:30__
+
+> Der Barcode lässt sich nicht anspannen und Id Nummer funktioniert auch nicht<br> :date: __2020-07-05 22:13:01__
+
 > Für den Nachweis eines negativen Tests leider nicht brauchbar, da auf dem Ergebnis weder die QR Nummer, noch das Datum des Testergebnisses angezeigt wird .<br> :date: __2020-07-05 12:50:50__
 
 > Ich wurde mit vielen die ich kenne am gleichen Tag und im gleichen Zeitraum getestet. Bei nur ganz wenigen liegt ein Ergebnis vor. Katastrophe diese App!<br> :date: __2020-07-04 21:14:00__
@@ -254,11 +260,5 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 > Ich kann nix machen . Lässt sich nicht Scannen oder die id eintippen und anmelden funktioniert auch nicht . Was kann ich tun<br> :date: __2020-07-02 22:41:16__
 
 > Sorry, aber dies APP ist nicht vollständig, das können andere besser. Man erhält nur die Antwort: JA - NEIN - VIELLEICHT Wem das reicht, gut. Ich benötigte jedoch eine personalisierte und terminierte Detailinformation, also mit meinem Namen und dem Untersuchungsdatum zum Nachweis des negativen Tests zu einem bestimmten Zeitpunkt um in einem Krankenhaus hereingelassen zu werden. Das leistet diese "APP" leider nicht, für mich wertlos und auch irreführend.<br> :date: __2020-06-30 22:57:58__
-
-> Da steht keine Zeitangabe wann das Ergebnis vorlag. Wie soll man die 48 Stunden nachweisen?<br> :date: __2020-06-30 20:35:04__
-
-> Leider nicht gut da Ergebnis nicht nach 48 Stunden<br> :date: __2020-06-30 10:40:12__
-
-> App soll in Kürze installiert werden. Tut sich aber nichts .Ich würde gern das Testergebnis abrufen.<br> :date: __2020-06-29 11:24:19__
 
 

@@ -1,5 +1,17 @@
 [
     {
+        "reviewId": "gp:AOqpTOGqtizwMkRQn_JdbKt-md7zwe4MLOG_wInZxLOmdCXcQVMc5tgxMRTuLJ-a5xfYQP_GXOJrNYpE4s42nQ",
+        "userName": "Marisa Garcia",
+        "userImage": "https://lh3.googleusercontent.com/-uIgUre10zbE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn_eZ00O21V5jbAqQllpux2MPEQ0g/photo.jpg",
+        "content": "Ha sido muy facil de usar y muy pr\u00e1ctica.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.1.0",
+        "at": "2020-07-08 21:14:07",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOHjcZZ3kTar25oTDgIKgJ95rOirzU3gxDsYhC9Z3aVrYoOb0-3yeKtFXuKXEQ_Aaq4TgG5Ml-6dpJFLDA",
         "userName": "Javier Garc\u00eda",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhW2CmdMnY1NlDJuiafVrRu07oFdlHTenxU6eRvOw",
@@ -17,7 +29,7 @@
         "userImage": "https://lh3.googleusercontent.com/-Bq3XdvFRPuQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmqQM9rGTFHI-iSLFVNwmKjlczAgg/photo.jpg",
         "content": "Parece ser que la aplicaci\u00f3n es buena pero cuando introduces o intenta introducir tu fecha de nacimiento no lo puede hacer correctamente por lo menos los que han nacido antes del 2007",
         "score": 4,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "1.1.0",
         "at": "2020-07-01 16:59:45",
         "replyContent": null,
@@ -185,7 +197,7 @@
         "userImage": "https://lh3.googleusercontent.com/-IwSn6fy4iUc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnKaqiZAB_Px9vorQt2ZwuNMUNvcw/photo.jpg",
         "content": "La app est\u00e1 bien hecha y funciona bien, si no fuese porque a pesar de tener tres de los cuatro s\u00edntomas m\u00e1s comunes de la Covid-19, la app me dice que descarta que pueda tenerla. En el servicio de atenci\u00f3n telef\u00f3nica hacen las mismas preguntas y me dicen que como respiro bien, no puede ser covid, que vaya al m\u00e9dico.",
         "score": 1,
-        "thumbsUpCount": 18,
+        "thumbsUpCount": 19,
         "reviewCreatedVersion": "1.0.10",
         "at": "2020-05-20 17:38:20",
         "replyContent": null,

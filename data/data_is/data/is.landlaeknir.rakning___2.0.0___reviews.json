@@ -1,11 +1,23 @@
 [
     {
+        "reviewId": "gp:AOqpTOHc7NfVMqZz70DRphUP0PLTpYDsHQKe4KM4ORYQBUM81ad19DCpsj1JsNv_ozP9nAS-fRa6Q0lkY40ufiI",
+        "userName": "Hjatli Sigurj\u00f3n Hauksson",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiIfdmQzxGPQWmguV4opJWSbUF8spW5Z_nMbT22sWc",
+        "content": "Veitir \u00f6ryggi",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.0.0",
+        "at": "2020-07-10 03:16:57",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOH4shDGJkiohEX_XdBIEbA6a8RhWKgSfxjBmiel-iOUiMz4lBGkELsO-B3HYVeDHTBUtW0B38CTDuM9xks",
         "userName": "\u00c1sa D\u00f3ra Finnbogad\u00f3ttir",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgkTFXu-cF5gmNkDePog6ASYChSihVO3KNjyQPA",
         "content": "\u00dea\u00f0 er eiginlega alveg ferlega erfitt a\u00f0 hafa appi\u00f0 \u00ed s\u00edmanum \u00fev\u00ed \u00fea\u00f0 tekur svo miki\u00f0 batter\u00ed!! Flott konsept samt",
         "score": 3,
-        "thumbsUpCount": 1,
+        "thumbsUpCount": 2,
         "reviewCreatedVersion": "1.1.0",
         "at": "2020-05-27 22:05:52",
         "replyContent": null,

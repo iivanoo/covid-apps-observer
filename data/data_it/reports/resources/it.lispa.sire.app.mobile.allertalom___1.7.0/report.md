@@ -272,6 +272,12 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <img src="1_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 1 reviews"/>
 </p>
 
+> Non riesco ad usarla, ad ogni notifica mi chiede di accettare le condizioni e di compilare il questionario ma non riesco a finire. App inutile per me! Con dispiacere la elimino<br> :date: __2020-07-10 12:30:41__
+
+> Non funziona mai, mi chiede tutti i permessi e mi porta alla pagina di adesione al questionario Covid e da lì non va oltre. Fa schifo!<br> :date: __2020-07-10 12:30:05__
+
+> App poco comprensibile e poco funzionale. Si puo' certamente fare molto meglio<br> :date: __2020-07-06 12:36:24__
+
 > Disinstallato<br> :date: __2020-07-03 14:26:55__
 
 > Non riesco a scaricare<br> :date: __2020-07-02 15:20:12__
@@ -285,11 +291,5 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 > Siccome non mi collego ogni giorno, quando entro mi chiede ogni volta di registrarmi, questa utenza è di proprietà del Comune di Palazzolo sull'Oglio e io sono il Funzionario del Patrimonio e della P.C., come mai ho sempre questo disguido?? Il cel e un Samsung Galaxy A5 con sistema Android, dovrebbe essere abilitato per queste App. Mi potete dare una risposta. GRAZIE e buon lavoro.<br> :date: __2020-06-17 12:55:03__
 
 > Caccoso<br> :date: __2020-06-16 18:17:42__
-
-> Disinstlallo, perché non salva le mie scelte e non mi manda le notifiche delle allerte, ogni volta che entro devo ridare tutte le autorizzazioni.<br> :date: __2020-06-15 21:38:18__
-
-> Modifico ad oggi la mia recensione definita in precedenza terribile. Ora è diventata ULTRACTERRIBILE e ancora non funziona. Peccato che pure la mail che mi avete inserito per contattarvi se persiste il disguido non è nemmeno valida, e torna indietro come indirizzo sconosciuto. Certo che se le app per il Covid in Lombardia funzionano così stiamo a posto.<br> :date: __2020-06-11 13:03:21__
-
-> Dopo aggiornamento non funziona più. Accetti tutto, ma quando arrivi a cerca covid non fa compilare dati per "me stesso"<br> :date: __2020-06-10 20:52:11__
 
 

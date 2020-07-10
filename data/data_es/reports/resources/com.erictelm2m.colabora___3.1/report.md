@@ -203,6 +203,10 @@ The COVID-19.eus app has been installed by more than **50000** times. At this ti
 <img src="2_star_reviews_wordcloud.png" alt="com.erictelm2m.colabora 2 reviews"/>
 </p>
 
+> Se necesita la colaboración y a veces es difícil convencer de la confidencialidad y hay rechazo a colaborar. Un poco más de propaganda de ella y su utilidad.<br> :date: __2020-07-09 20:05:24__
+
+> Muy difícil de instalar<br> :date: __2020-07-07 09:34:02__
+
 > Desde ayer no funciona. Dice que la sesión ha expirado y que la desinstale y la vuelva a instalar. A pesar de haberlo hecho varias veces no funciona. Por otro lado, a la hora de añadir personas a los círculos debería dar la posibilidad de añadirlos sin teléfono puesto que si son personas mayores seguramente o tienen un móvil o no tienen ninguno; y por otro lado, es posible que la gente de mis círculos no quiera que le lleguen notificaciones para instalar la app.<br> :date: __2020-06-28 18:03:44__
 
 > Me ha aparecido un mensaje que la sesión ha expirado, que desinstale y vuelva a instalar. Y sigue apareciendo ese mensaje que imposibilita un uso correcto. Se rogaría un arreglo o, al menos, una explicación en la ayuda de la app.<br> :date: __2020-06-27 21:15:54__
@@ -218,10 +222,6 @@ The COVID-19.eus app has been installed by more than **50000** times. At this ti
 > Yo doy a esta aplicación información diaria de mi estado. Para calcular mi riesgo la gente de mi entorno debe aportar su estado, pero no colabora por su propia decisión. Por tanto me sirve de poco.<br> :date: __2020-06-07 10:38:00__
 
 > No puedo incluir a nadie. Tengo un Xiaomi 8<br> :date: __2020-06-04 19:24:57__
-
-> Tengo muchos problemas para que los contactos a los que envío solicitud y la aceptan aparezcan reflejados en mis círculos. Mando la solicitud, me dicen que la confirman, pero no aparecen en la aplicación. Un saludo<br> :date: __2020-05-07 22:09:37__
-
-> Mientras no sea fácil incorporar los contactos de la agenda no resulta útil. Hay que escribir el teléfono sin verlo ya que no se puede seleccionar si el contacto tiene más de un teléfono. Estaría bien la gestión de las invitaciones y más ahora que es la propia APP quien te invita a tener los círculos "ordenados".<br> :date: __2020-05-05 14:35:25__
 
 
 

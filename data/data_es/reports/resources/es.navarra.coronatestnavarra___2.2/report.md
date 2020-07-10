@@ -117,6 +117,8 @@ The CoronaTest Navarra app has been installed by more than **5000** times. At th
 <img src="5_star_reviews_wordcloud.png" alt="es.navarra.coronatestnavarra 5 reviews"/>
 </p>
 
+> Es muy útil no te miente la verdad<br> :date: __2020-07-07 21:08:04__
+
 > ¡Muy útil! Muy buena iniciativa. Encantada con la nueva funcionalidad de seguimiento día a día de la enfermedad.<br> :date: __2020-04-13 10:50:23__
 
 > Buena app, muy fácil de utilizar. Espero que haya siguientes versiones con más acciones. Además del test y consejos, me parece muy interesante saber cuántos casos hay en tiempo real.<br> :date: __2020-04-11 00:46:35__
@@ -135,8 +137,6 @@ The CoronaTest Navarra app has been installed by more than **5000** times. At th
 
 > Muy buena aplicación.<br> :date: __2020-04-05 10:41:08__
 
-> Práctica y muy necesaria para frenar la pandemia<br> :date: __2020-04-05 10:21:11__
-
 
 
 #### 4-star reviews
@@ -154,6 +154,8 @@ The CoronaTest Navarra app has been installed by more than **5000** times. At th
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="es.navarra.coronatestnavarra 3 reviews"/>
 </p>
+
+> Pensaba que era como un radar<br> :date: __2020-07-05 21:37:17__
 
 > La app muestra el teclado y no desaparece al pinchar en siguiente. La forma de solucionarlo es pinchar en la apertura de aplicaciones abiertas y volver a entrar, pero arreglen ese bug.<br> :date: __2020-04-06 14:49:58__
 

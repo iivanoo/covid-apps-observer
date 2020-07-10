@@ -185,6 +185,12 @@ The SM_Covid19 app has been installed by more than **50000** times. At this time
 <img src="5_star_reviews_wordcloud.png" alt="it.softmining.projects.covid19.savelifestyle 5 reviews"/>
 </p>
 
+> È utile, ma non so se si interfaccia con "Immuni" come sarebbe logico<br> :date: __2020-07-09 17:34:09__
+
+> Efficiente<br> :date: __2020-07-08 22:51:40__
+
+> OTTIMA<br> :date: __2020-07-08 19:22:21__
+
 > Bella<br> :date: __2020-07-05 07:36:59__
 
 > Funzionera'?<br> :date: __2020-07-02 09:48:11__
@@ -198,12 +204,6 @@ The SM_Covid19 app has been installed by more than **50000** times. At this time
 > Eccellente<br> :date: __2020-06-26 08:56:34__
 
 > 🤗🔝👍😘<br> :date: __2020-06-25 21:12:06__
-
-> Ottima App<br> :date: __2020-06-21 12:55:37__
-
-> Funziona bene<br> :date: __2020-06-20 17:42:45__
-
-> App.eccellentissima,<br> :date: __2020-06-19 00:17:17__
 
 
 
@@ -241,6 +241,10 @@ The SM_Covid19 app has been installed by more than **50000** times. At this time
 <img src="3_star_reviews_wordcloud.png" alt="it.softmining.projects.covid19.savelifestyle 3 reviews"/>
 </p>
 
+> Nessuna esperinsa<br> :date: __2020-07-08 21:44:00__
+
+> Buona<br> :date: __2020-07-08 19:36:55__
+
 > non 0si capisce il funz.to<br> :date: __2020-07-01 13:12:28__
 
 > Applicazione molto interessante e ben fatta ma che consuma una quantità di batteria assurda: minimo il 16% della batteria in 10 ore e senza mai averla aperta in modo esplicito ed è un valore molto più alto di quello del display o di Facebook o navigazione internet nello stesso intervallo<br> :date: __2020-06-29 22:46:39__
@@ -257,10 +261,6 @@ The SM_Covid19 app has been installed by more than **50000** times. At this time
 
 > Sono un Tsrm sarebbe bello inserire anche profili sanitari non citati dai media...<br> :date: __2020-06-01 20:22:02__
 
-> Affidabile al50%<br> :date: __2020-05-22 11:17:59__
-
-> Come faccio a mettere come lingua l'italiano? Nelle impostazioni c'è scritto italiano ma invece nella app compare l'arabo<br> :date: __2020-05-20 10:31:01__
-
 
 
 #### 2-star reviews
@@ -268,6 +268,8 @@ The SM_Covid19 app has been installed by more than **50000** times. At this time
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="it.softmining.projects.covid19.savelifestyle 2 reviews"/>
 </p>
+
+> Per ora va bene, io non ho molti contatti con l'estero comunque<br> :date: __2020-07-06 11:35:49__
 
 > Non serve a gran che visto che ho incrociato positivi e loro non avevano l'app<br> :date: __2020-06-26 08:05:34__
 
@@ -287,8 +289,6 @@ The SM_Covid19 app has been installed by more than **50000** times. At this time
 
 > Non sicura<br> :date: __2020-06-06 19:22:21__
 
-> la volevo scaricare ma non mi fa andare avanti,boh...<br> :date: __2020-06-01 20:40:14__
-
 
 
 #### 1-star reviews
@@ -296,6 +296,12 @@ The SM_Covid19 app has been installed by more than **50000** times. At this time
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="it.softmining.projects.covid19.savelifestyle 1 reviews"/>
 </p>
+
+> Poco efficace fino ad ora<br> :date: __2020-07-08 23:41:06__
+
+> Non soddisfacente (al momento). Domanda: perché mi appare spesso la scritta 'applicazione in esecuzione" e l' indice è a 0.00? La prima volta che l'ho scaricata andava molto bene. Perché ora no saluti Paolo<br> :date: __2020-07-06 18:26:16__
+
+> 😢<br> :date: __2020-07-06 15:08:42__
 
 > Si blocca e non mi fa scorrere lo schermo😡. Ieri o l'altro giorno al TELEGIORNALE hanno detto che le app sul COVID-19 rubano dati personali o ti spiano. Quando ho parlato dell'app ai miei genitori si sono SUBITO ARRABBIATI (anche preoccupati) e mi hanno detto di DISINSTALLARE E BASTA.<br> :date: __2020-06-27 21:55:07__
 
@@ -310,11 +316,5 @@ The SM_Covid19 app has been installed by more than **50000** times. At this time
 > Non so neanche se è utile!<br> :date: __2020-06-08 13:10:50__
 
 > Mi spiace ma l'ho disitallata. L'ho avuta per qualche giorno e ieri sono stata a casa da sola dalle 13:00 fino a questa mattina DA SOLA e mi ha segnalato se non ricordo male un incremento di 3.0 quando invece ANDANDO a fare commissioni mi segnalava 0.93. Non l'ho trovata attendibile. Mi spiace.<br> :date: __2020-06-07 09:22:29__
-
-> - (1). Come per le versioni beta precedenti, permane la richiesta di permessi non necessari, quali accesso a fotocamera e NFC. Peraltro con autorizzazione NFC, questo viene "spammato abbestia"... \*\*EDIT : NFC spamming Fixed in build 2.5 #13 - Permessi camera e NFC ancora presenti causa mantenimento codice barcode scanner journeyapps - EDIT2 : permesso NFC rimosso in build 3.1 #16 - EDIT3 : rimossi (finalmente) codice Journeyapps barcode scanner & permesso fotocamera in build 3.2 #18. In tale build sono stati però aggiunti nuovi permessi lettura&scrittura External Storage...\*\* . - (2). Presenti ancora problemi di riattivazione indesiderata in foreground con situazioni successive di crash / app, che non risponde correttamente/prontamente, tentando di rimetterla in background. . \*\*EDIT : Partially fixed in build 2.5 #13 = cambiata gestione in background & OK supporto notifica persistente / ancora sporadiche riattivazioni indesiderate in foreground - EDIT2 : fixed in build 3.1 #16\*\* . - (3). Errata gestione di richiesta opt-in per l'utilizzo dei servizi di localizzazione, dato che non si attiva quando l'utente effettivamente flagga/autorizza geolocalizzazione e GPS, ma anche per il solo BT peer contact-tracing \*\*EDIT2 : cambiata gestione trasmissione coordinate GPS ad API OpenSignal ed Istanza Firebase in build 3.1 #16\*\*. . - (4). Ci sono precise linee guida - a seguito dell'emergenza - che regolano la pubblicazione sul Play Store di app a tema COVID, che prevedono autorizzazione ufficiale esplicita da parte di Autorità Governative e/o Enti operanti in ambito sanitario. Non si ravvisano esplicitamente tali elementi necessari in relazione alle info di pubblicazione per quest'applicazione. . - Per tali motivi si è proceduto ad inoltrare apposito report per app inappropriata al supporto sviluppatori Google Play, onde effettuare le verifiche preposte. - \*\*EDIT : Inoltrata segnalazione 15/04 a MID (Ministero per l'Innovazione tecnologica e la Digitalizzazione), onde consentire le relative verifiche, anche a seguito delle ufficializzazioni 16/04 in merito all'app nazionale di contact-tracing\*\* - \*\*EDIT-2 : il rilevamento di Immuni, qualora installata & effettivamente attiva, introdotto nella build 3.8 #24 funziona cosmeticamente (ved. cambio riquadro nella UI), ma non introduce nuove reali funzionalità per l'utente & comporta un peggioramento del risk-score dell'app. \*\*EDIT-3 : Tutte le app BT proximity tracing con protezioni per esecuzione in foreground e background evidenziano un risk-score di base superiore. Nel caso specifico di SM_COVID19 risulta più alto rispetto alla media di altre app BT proximity-tracing analizzate in ambito EEA/Single-Market, a causa della combinazione di extra-perms + tecniche di offuscamento del codice (che si applica al 70% dei metodi richiamati dall'app) & evasion/antidebugging + impostazioni listener/receiver (a partire da build 3.4 #20 n.d.r.). In merito a ultima reply dev, si ringrazia per la disponibilità. Visto che tali non sono comunque info riservate / soggette a NDA, riterrei opportuna anche la loro pubblicazione da parte vostra in scheda app e/o sito web, in analogia a quanto fatto per le altre app autorizzate in pannello nazionale covid & associate a publisher privati / non-istituzionali.<br> :date: __2020-06-05 15:01:14__
-
-> Invadente. Vuole accedere alle mie app personali per funzionare sconsigliato.<br> :date: __2020-06-05 14:35:10__
-
-> Nn riesco a comilare sembra bloccata<br> :date: __2020-06-04 13:13:53__
 
 

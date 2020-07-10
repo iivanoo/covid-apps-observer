@@ -160,6 +160,8 @@ The Sardegna Sicura app has been installed by more than **50000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="it.regione.sardegna.autorizzazionicovid19 5 reviews"/>
 </p>
 
+> Mi da codice fiscale non valido. Tutto compilato e controllato. Dopo intervento dell'assistenza, una gentilissima Daniela mi ha guidato alla ricerca dell'errore. L'errore era probabilmente in uno spazio vuoto inserito alla fine del codice fiscale. Ora funziona correttamente e posso modificare il mio giudizio.<br> :date: __2020-07-10 09:19:16__
+
 > Sto completando la app per partire e mi continua a dire che si è verificato un errore.cosa devo fare?<br> :date: __2020-07-03 18:28:24__
 
 > D O P O.<br> :date: __2020-07-02 22:59:32__
@@ -178,8 +180,6 @@ The Sardegna Sicura app has been installed by more than **50000** times. At this
 
 > Ottima scelta il GPS<br> :date: __2020-06-20 19:30:33__
 
-> Funziona tutto correttamente, installata rapidamente, inserito con calma tutti i dati richiesti per la registrazione rileggendo tutto prima di inviare, ricevuto subito email di conferma con relativa password di accesso (che se uno vuole può cambiarsi in qualsiasi momento). Ho trovato già inserito nel mio account il viaggio registrato online e ho la possibilità di aggiungerne altri quando tornerò ad agosto. Nessun problema riscontrato.<br> :date: __2020-06-20 14:02:45__
-
 
 
 #### 4-star reviews
@@ -187,6 +187,10 @@ The Sardegna Sicura app has been installed by more than **50000** times. At this
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="it.regione.sardegna.autorizzazionicovid19 4 reviews"/>
 </p>
+
+> L'appicazione funziona bene e la uso volentieri se può essere utile al contenimento del coronavirus, sarebbe utile anche poter abilitare il tracciamento una volta sola, mi accade invece che, pur non avendo fatto logout, talvolta il tracciamento si disabiliti e perdo alcuni miei spostamenti. Forse ciò è stato fatto per la tutela della privacy, ma sarebbe utile avere una ulteriore scelta che abilita il tracciamento in modo permanente. Evviva la Sardegna !!<br> :date: __2020-07-09 11:36:19__
+
+> Entro quando devo compilare la nuova registrazione? E cosa c'è da compilare oltre a quella?<br> :date: __2020-07-06 21:54:55__
 
 > Buonasera... Ho fatto registrazione per venire in sardegna. Ho dovuto mettere come citta' Olbia, io ho casa a Porto Rotondo perche' non c'e' Porto Rotondo?<br> :date: __2020-07-03 22:19:12__
 
@@ -203,10 +207,6 @@ The Sardegna Sicura app has been installed by more than **50000** times. At this
 > Buona<br> :date: __2020-06-27 12:24:55__
 
 > Installata non mi compare l'applicazione tra le altre e non ho ricevuto la mail con la password Grazie<br> :date: __2020-06-19 16:53:06__
-
-> Un amico ha sbagliato a digitare la mail. La registrazione è avvenuta normalmente ma la mail di ritorno con la password non è arrivata. Rifacendo la registrazione il sistema comunica che é già registrato e non é più in grado di accedere salvo avere un'altra password e poter cambiare la mail. Oppure eliminare la registrazione per poter procedere a una nuova. Come facciamo ? Aspetto la soluzione altrimenti non sappiamo come proseguire.<br> :date: __2020-06-16 15:41:24__
-
-> Da aggiungere la possibilità di segnalare l'insorgenza di un sintomo durante il soggiorno.<br> :date: __2020-06-15 10:30:32__
 
 
 
@@ -244,25 +244,25 @@ The Sardegna Sicura app has been installed by more than **50000** times. At this
 <img src="2_star_reviews_wordcloud.png" alt="it.regione.sardegna.autorizzazionicovid19 2 reviews"/>
 </p>
 
+> Buongiorno io non ho ancora scaricato app volevo chiedere dato che noi siamo in quattro in famiglia se è possibile registrare tutti grazie p.s. ha messo solo due stelle per adesso perché non mi faceva scrivere<br> :date: __2020-07-09 12:55:46__
+
+> Non riesco a completare l'ultima parte della registrazione.Sempre il solito errore.<br> :date: __2020-07-08 13:11:17__
+
+> Non carica L'ho scaricata su un altro telefono e andava L'ho scaricata su questo e non fa il caricamento iniziale<br> :date: __2020-07-07 20:36:15__
+
+> Ho effettuato la registrazione sul sito della regione Sardegna ricevendo la relativa email di conferma. Per utilizzare eventualmente l'app devo rifare una nuova registrazione? Inoltre, quando lascerò l'isola quale codice qr devo presentare?<br> :date: __2020-07-06 17:58:18__
+
+> Impossibile completare la procedura con l'app. Ho dovuto farlo dal sito della regione, anche lì diversi tentativi prima di riuscire a concludere, ma una volta fatto arriva subito email di conferma e si aggiorna in automatico anche l'app.<br> :date: __2020-07-06 14:31:39__
+
+> Ho scaricato l'app e ho inserito tutto e fin qua tutto ok! Il problema è che devo cambiare numero di biglietto e il giorno della partenza come si fa?? Non riesco a modificare niente. Devo creare un altro profilo? Come devo fare?<br> :date: __2020-07-06 10:12:12__
+
+> Continui errori inaspettati durante la registrazione di viaggio..<br> :date: __2020-07-05 19:59:17__
+
 > A me dice "codice fiscale invalido" . Eppure è corretto.<br> :date: __2020-07-04 14:35:10__
 
 > Mezzora per compilare tutto, "si è verificato un errore inaspettato" Fortuna che questa è la versione nuova....<br> :date: __2020-07-02 22:09:35__
 
 > Non funziona bene la data di nascita<br> :date: __2020-07-01 16:11:32__
-
-> Difficile inserire provincia OT<br> :date: __2020-06-27 08:36:44__
-
-> Io e mia moglie avevamo il volo di rientro da Malpensa delle ore 20.00 con EasyJet. Al momento dell'imbarco ci viene comunicato che che dovevano disporre di una Applicazione della Regione Sardegna. Quasi la metà dei passeggeri non ne erano in possesso e non ci facevamo imbarcare. Ma chi sono questa grandi menti che elaborano queste cose. Noi siamo partiti da Cagliari firmando una autocertificazione cartacea e al ritorno nessuna ci avvisa con una mail o un messaggio del cambiamento. Terzo mondo.<br> :date: __2020-06-26 14:54:55__
-
-> Scaricata oggi, mi volevo avvantaggiare per Luglio. In fase di registrazione, compilo tutto ma poi mi chiede la residenza in Sardegna che non ho.... quindi non procede Come si deve fare? Mi pare che non ci sia neanche un numero di supporto. Se Compilo dal Link invece aggiunge semplicemente la parte sanitaria, quella da compilare 48 ore prima, senza problemi. Come posso risolvere????? Grazie<br> :date: __2020-06-26 09:54:52__
-
-> Ho scaricato l'applicazione, l'ho attivata, mi sono registrato ottenendo l'ok, fin qui tutto bene. Chiudo, riapro ed entro ma non trovo il modulo da compilare con lo stato di salute! Non ho parole!<br> :date: __2020-06-25 12:14:05__
-
-> Siamo 2 coniugi che viaggiano insieme ma si devono iscrivere separatamente. Gia' questo.. Abbiamo dichiarato la stessa mail col risultato che il secondo coniuge non puo' usare l'app. Se poi si registra con altra email il cod fiscale rimane collegato ad email precedente, quindi no app di nuovo. Non potra' mostrare il codice 3d dal telefono all'imbarco. Pazienza. Dovra' fare tutto online 48h prima SPERANDO che arrivino i codici necessari per poi stampare? Via mail? Quale?<br> :date: __2020-06-23 11:52:00__
-
-> Sono riuscita a registrarmi, ma se voglio comunicare il mio ritorno in Sardegna, inserendo tutto correttamente non mi fa accedere alla fase successiva.<br> :date: __2020-06-23 09:37:19__
-
-> Non mi permette di inserire il codice fiscale<br> :date: __2020-06-22 18:16:48__
 
 
 
@@ -272,24 +272,24 @@ The Sardegna Sicura app has been installed by more than **50000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="it.regione.sardegna.autorizzazionicovid19 1 reviews"/>
 </p>
 
-> E una presa per il cuolo no è bello a prendere turisti in giro e farle perdere tempo .basta darle il modulo al chiking tutto qua e facile mi la detto un bravo poliziotto<br> :date: __2020-07-05 11:45:04__
+> Dopo averla installata l'app non si apre, rimane in stand by nella schermata iniziale con a centro schermo il segnale di caricamento.... Provato più volte a disistallarla e installarla ma niente, il problema rimane<br> :date: __2020-07-10 11:28:33__
 
-> Ancora non funziona!!! "Errore inaspettato!" Vergognoso<br> :date: __2020-07-04 21:25:41__
+> Non riesco a registrarmi, mi dice campo codice fiscale "invalido" .. anche se è corretto.<br> :date: __2020-07-10 08:33:01__
 
-> Sto provando da questa mattina ma non funziona. Errore "Si è verificato un errore inaspettato"<br> :date: __2020-07-04 20:05:13__
+> Micidiale la registrazione e i dati richiesti. In linea con la burocrazia Italiana. Semplificateeeeeeeee.<br> :date: __2020-07-09 16:25:03__
 
-> Non si riesce a scaricare<br> :date: __2020-07-04 12:40:44__
+> Salve, nel format di registrazione che mi viene chiesto di compilare non è presente il campo email, una volta compilati tutti i campi a chi mandate l'email di verifica? Grazie<br> :date: __2020-07-09 13:30:46__
 
-> Non è buona, non serve, ho provato ad usarla ma non traccia nulla<br> :date: __2020-07-04 07:59:45__
+> grossi problemi per registrarsi riproverò domani sperando che sia un problema temporaneo<br> :date: __2020-07-08 18:17:14__
 
-> Non riesco a completare la registrazione. Compare il messaggio: Errore inaspettato, ma i campi sono stati compilati tutti correttamente<br> :date: __2020-07-03 21:51:27__
+> Prima dell'aggiornamento funzionava ora al momento di concludere la registrazione da errore inaspettato. Abbastanza ridicolo<br> :date: __2020-07-08 10:17:51__
 
-> Non mi permette di ultimare l'inserimento dei dati perché quando schiaccio per completare l'operazione, mi da errore inaspettato<br> :date: __2020-07-03 19:35:11__
+> In fase di registrazione, sezione Profilo, ho tolto il flag "Residenza corrisponde a domicilio" per inserire il domicilio corretto.Dopo aver fatto la registrazione e attivato l'account sono entrata nella sezione Profilo per ricontrollare quanto inserito.il salvataggio dei dati non è stato effettuato correttamente:è presente il flag quindi il domicilio è impostato di default uguale alla residenza. Ho provato a modificare nuovamente il domicilio e salvare i dati ma il risultato è lo stesso<br> :date: __2020-07-07 20:00:24__
 
-> Impossibile registrarsi<br> :date: __2020-07-03 12:57:36__
+> Ho scaricato l'app prima di recarmi in sardegna e ho fatto la registrazione e fin qui tutto ok. 48 ore prima del viaggio dovevo compilare il form che da app mi è risultato impossibile. Ho dovuto farlo da PC! Né all'imbarco né allo sbarco NESSUNO mi ha chiesto la ricevuta della registrazione che pareva essere cosa importante!<br> :date: __2020-07-07 17:48:11__
 
-> Aiutatemiiiiii, ho fatto 10 volte la registrazione, niente mi dice sessione scaduta....Poi errore Vi ho già contattato, i dati sono corretti, più che altro da sessione scaduta<br> :date: __2020-07-03 11:46:44__
+> A cosa è servita, se nessuno l'ha controllata?<br> :date: __2020-07-07 15:49:43__
 
-> Caricati tutti i dati, l app risponde con errore inaspettato rendendo impossibile la registrazione<br> :date: __2020-07-02 21:46:42__
+> Non si apre<br> :date: __2020-07-07 12:26:45__
 
 

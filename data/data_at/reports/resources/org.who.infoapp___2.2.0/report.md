@@ -172,6 +172,8 @@ No recent reviews available with 3 stars.
 <img src="1_star_reviews_wordcloud.png" alt="org.who.infoapp 1 reviews"/>
 </p>
 
+> Leder nur Englisch, für viele unbrauchbar.<br> :date: __2020-07-08 09:21:49__
+
 > Fake app<br> :date: __2020-06-14 18:13:19__
 
 > nur allgemeines geschwurbel<br> :date: __2020-06-12 11:35:48__
@@ -189,7 +191,5 @@ No recent reviews available with 3 stars.
 > Funktioniert nicht!!!!!!!!!!!<br> :date: __2020-05-02 23:58:40__
 
 > Nicht RUNTERLADEN UH RMACHT EUCH ZU SKLAVEN DES SYSTEMS<br> :date: __2020-04-27 12:30:51__
-
-> Einseitige Berichte, nur in Englisch<br> :date: __2020-04-25 21:01:14__
 
 

@@ -156,6 +156,8 @@ The WHO Info app has been installed by more than **100000** times. At this time,
 <img src="4_star_reviews_wordcloud.png" alt="org.who.infoapp 4 reviews"/>
 </p>
 
+> Nice<br> :date: __2020-07-08 17:19:26__
+
 > good<br> :date: __2020-06-03 00:37:10__
 
 > It's just information, not the actual tracker. But has plenty of information that's 100% accurate.<br> :date: __2020-05-31 02:37:20__

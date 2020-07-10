@@ -171,6 +171,8 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <img src="5_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 5 reviews"/>
 </p>
 
+> Boa<br> :date: __2020-07-07 14:04:32__
+
 > Muito bom obrigados<br> :date: __2020-06-27 22:40:52__
 
 > Muito bom.<br> :date: __2020-06-26 00:43:33__
@@ -188,8 +190,6 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 > Gosto<br> :date: __2020-04-28 20:35:44__
 
 > Muito útil...... obrigada.<br> :date: __2020-04-28 11:23:38__
-
-> Muito bom. Quem se queixa é porque é burro. Tem de pedir a chave móvel para fazer autenticação. O tuga só se queixa, esforçar que é bom, tá quieto.<br> :date: __2020-04-21 08:36:28__
 
 
 
@@ -284,6 +284,8 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <img src="1_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 1 reviews"/>
 </p>
 
+> Não consigo entrar no site e fazer qualquer pedido de medicação... quem me pode ajudar???!!!<br> :date: __2020-07-07 20:48:27__
+
 > nao funciona rubish<br> :date: __2020-07-02 21:44:57__
 
 > Uma verdadeira dor de cabeça para entrar desde que mudaram para autenticação com cartão se cidadão!! Não se consegue entrar sequer!!! Com o pin correto! Inutilidade!!! Uma vergonha!<br> :date: __2020-07-02 19:25:28__
@@ -301,7 +303,5 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 > A única coisa que parece trabalhar é o envio de relatórios de erro... App não funcional.<br> :date: __2020-06-14 20:12:51__
 
 > Nao abre<br> :date: __2020-06-03 21:34:16__
-
-> Sem atualizar desde 2018! Estamos on dizem os atrasados!<br> :date: __2020-05-23 00:01:59__
 
 

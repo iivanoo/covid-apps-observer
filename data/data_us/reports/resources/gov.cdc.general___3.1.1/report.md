@@ -188,6 +188,12 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 <img src="5_star_reviews_wordcloud.png" alt="gov.cdc.general 5 reviews"/>
 </p>
 
+> Keeps you up-to-date<br> :date: __2020-07-09 16:33:18__
+
+> Perfect awesome<br> :date: __2020-07-07 11:03:32__
+
+> I like this app it helps to keep me informed on food outbreaks. ( I'm a cook) very important to have this information. I order thousands of dollars worth of food a month. Plus, very educational on all matter of health. Thank You<br> :date: __2020-07-06 18:21:11__
+
 > Even though our president is a dipshit I can always count on this app to give me the truth.<br> :date: __2020-06-30 19:08:00__
 
 > What a loving organization help us be safe, bless you my Lord CDC. Great app, I give you 10 sun's. 🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞<br> :date: __2020-06-27 11:47:05__
@@ -201,12 +207,6 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 > Good for beginners. I like the full site.<br> :date: __2020-06-19 02:42:19__
 
 > Best Source For True Information<br> :date: __2020-06-14 16:56:20__
-
-> Am very happy for this app<br> :date: __2020-06-14 07:03:51__
-
-> Go CDC<br> :date: __2020-06-08 16:48:17__
-
-> Hey my opinion is the best app for everyone to have nowadays extremely important feedback up to date is given as you Basque everyone should have this application<br> :date: __2020-06-08 16:34:36__
 
 
 
@@ -244,6 +244,8 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 <img src="3_star_reviews_wordcloud.png" alt="gov.cdc.general 3 reviews"/>
 </p>
 
+> This application was good but I wish it would have a section on were the were the covid-19 was maybe they should work with Google maps to show the information. Like how the escort raider detector application live feed.<br> :date: __2020-07-07 15:05:04__
+
 > program has good info, does not rotate to horizontal.<br> :date: __2020-06-14 15:51:53__
 
 > I get more information from Bing<br> :date: __2020-06-11 07:46:28__
@@ -262,8 +264,6 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 
 > great<br> :date: __2020-04-27 21:31:31__
 
-> could offer more direct contact links<br> :date: __2020-04-25 21:10:30__
-
 
 
 #### 2-star reviews
@@ -271,6 +271,8 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="gov.cdc.general 2 reviews"/>
 </p>
+
+> I downloaded this for coronavirus updates for my area no updated information. Some dates back to june 2 abd its July 6th.<br> :date: __2020-07-06 13:27:08__
 
 > No covid-19 disease case count?<br> :date: __2020-06-26 02:32:43__
 
@@ -290,8 +292,6 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 
 > Use the website it is far superior, this app has a blatant lack of organization, however does contain useful information.<br> :date: __2020-04-19 03:08:59__
 
-> THE APP IS NOT OPENING UP TO THE PAGES THAT ARE LINKED WITH THE SPECIFIC INFORMATION . ITS A BLANK WHITE PAGE MY ISP INTERNET CONNECTION IS WORKING FINE. ITS YOUR APP NOT WORKING FRIDAY IT WORKED SEVERAL DAYS AGO, BUT NOW ITS USELESS<br> :date: __2020-04-14 22:23:39__
-
 
 
 #### 1-star reviews
@@ -299,6 +299,12 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="gov.cdc.general 1 reviews"/>
 </p>
+
+> Not a tracker<br> :date: __2020-07-05 23:23:48__
+
+> 99 harmless . Trump said<br> :date: __2020-07-05 22:07:02__
+
+> Hard to get thru irreverent info<br> :date: __2020-07-05 14:29:58__
 
 > YOU ARE ALL GUILTY OF MURDER, & WAR CRIMES AGAINST GOD'S PEOPLE. MAY GOD BURN EVERY ONE OF YOU WITH HIS FIRE FROM HEAVEN IN THE NAME OF JESUS CHRIST. MAY YOUR LAUGHTER, & SMILES BE TURNED TO HORROR, & FBI, CIA, & THEIR ACCOMPLICES SUFFER THE HOLY FIRE OF GOD UPON THEIR FAMILIES, & THEMSELVES, INCLUDING THE FREE MASON, JESUIT, & THEIR ANTICHRIST JEW CRIMINALS. FBI=GUILTY. CIA=GUILTY. CDC=GUILTY. ATF=GUILTY. IRS=GUILTY. ALL DEATH PENALTY OFFENSES! WE THE PEOPLE HAVE SPOKEN. #SWIFTDEATHPENALTY.<br> :date: __2020-07-04 01:05:26__
 
@@ -313,11 +319,5 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 > App can not be moved to external SD memory<br> :date: __2020-06-15 13:48:02__
 
 > Does not contain digital contact tracing<br> :date: __2020-06-13 19:29:19__
-
-> Doesn't update enough data daily.<br> :date: __2020-06-07 18:08:04__
-
-> Can't get the CDC icon on my screen and don't see how to shut it down getting ready to take it off<br> :date: __2020-06-07 12:05:50__
-
-> It's NOT a contact tracing app.<br> :date: __2020-06-02 16:28:44__
 
 

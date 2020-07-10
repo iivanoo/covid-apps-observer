@@ -1,5 +1,29 @@
 [
     {
+        "reviewId": "gp:AOqpTOFtzBNwFIHBdd5_cvVW2zgDZFmVckABq06IOdVFinU2dqHotJ6HQARNo6NTa5inY7QldsNFsxBKhZkioo0",
+        "userName": "Paradeda Gibrat N\u00faria",
+        "userImage": "https://lh3.googleusercontent.com/-sIPP3PaE9oM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclRWKYzpywPK2BrnNRTfS-fEj511Q/photo.jpg",
+        "content": "No puc accedir a l'aplicacio,. Un cop poso el codi de validaci\u00f3 no em deixa avan\u00e7ar.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.0.3",
+        "at": "2020-07-08 12:28:43",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHIWu51LBwiwoKF27iRhMWI4dr2xeWZtAzSENqhIy4GjgdkSYGQMKhRVT6glGqkBjHioAV7a_nKUU8uzBk",
+        "userName": "Rosa Llg",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiTESXlEzwHP9zHvsSlhpkiNqKQ_-X1BVFgZciEtA",
+        "content": "Em diu que nio tinc zip;)",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.0.3",
+        "at": "2020-07-08 07:46:25",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOEzoUA74sqYltSXdj-fyxjHvSmh2QZQ4fV9n1yNQLwL9q8ZZb4FXnb675UZBOys58Epk_RSo2WpkT6WZJY",
         "userName": "Paulino",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiGR3s9jSuei7dArBF_siZjL0HpfzCGje1h-Sm9",
@@ -125,7 +149,7 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhybQ6y56DP_DI7qOyNnxSel-_KYxyj0gx0R0jUUA",
         "content": "No me deja poner el n\u00b0 de tef, me sale que hay un error. La anterior era perfecta pero esta no funciona. El problema se a solucionado, ahora esta OK.",
         "score": 4,
-        "thumbsUpCount": 9,
+        "thumbsUpCount": 10,
         "reviewCreatedVersion": "2.0.2",
         "at": "2020-06-12 20:44:26",
         "replyContent": "Ya hay disponible una actualizaci\u00f3n que corrige el problema",
@@ -614,7 +638,7 @@
     {
         "reviewId": "gp:AOqpTOEpwPVohXvM_6Gn7D0qQlhpUS_fDiMMs2UjSd8vLp16fIuO6hMrtJ5ymhLw1w7NA-l4D3j9JlfoGomnhRU",
         "userName": "Ra\u00fal Bernal",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiUb7WpIpyY7mH08GbvSbxseRg2rngM1itDyXVfjg",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjF7H9X0x2LalornL39KZm6umFrVwkvJPxBE9_Bs7U",
         "content": "A casa som 4 i solament guarda el CIP de l'\u00faltim. \u00c9s podria buscar la forma de que els guard\u00e9s",
         "score": 3,
         "thumbsUpCount": 0,
@@ -1061,7 +1085,7 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gib9zxWSWmg-bTveaorHF0J2r18HONvfxIBKlwfsl4",
         "content": "No le veo ning\u00fan sentido a esta app. Para lo \u00fanico que sirve es para que la Generalitat tenga datos para saber hasta donde pueden enga\u00f1arnos. Siempre dice lo mismo, que te quedes en casa por ser posible positivo. Si le hubiera hecho caso no habr\u00eda ido a urgencias. Ahora ya se que soy positivo en covid-19 y me han puesto en tratamiento. Tampoco te llama nadie por muy mal que est\u00e9s ni por muchos d\u00edas que tengas fiebre. Dudo que alguien supervise nada en la app. Una app in\u00fatil",
         "score": 1,
-        "thumbsUpCount": 113,
+        "thumbsUpCount": 114,
         "reviewCreatedVersion": "1.0.2",
         "at": "2020-04-09 19:56:06",
         "replyContent": null,
@@ -5282,7 +5306,7 @@
     {
         "reviewId": "gp:AOqpTOFpT77_29ed2z4Y6jIl6xbp8PPVc-FeWCrGpIo91lnlXPTy9VFJYcnqXXknuHJ2MtBB1rYSAj6iPX9vD24",
         "userName": "ryna mv",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gipi6EHiJNyyLLE9zi1O7n3ys49P9d1p1dND8dy_w",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gg5FTnDdYs3ambytY7UokgaCplJVN_Sm7gTDG4Gww",
         "content": "Pongo mi c\u00f3digo cip sin separaciones y me dice que es incorrecto. Pongo el Nie y lo mismo.... As\u00ed que no puedo opinar",
         "score": 1,
         "thumbsUpCount": 7,

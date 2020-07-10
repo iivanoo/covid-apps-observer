@@ -146,6 +146,8 @@ The Coronavirus Help app has been installed by more than **1000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="appinventor.ai_david_taylor.Coronavirus_help2020 5 reviews"/>
 </p>
 
+> Very informative<br> :date: __2020-07-09 21:39:20__
+
 > This helps me from the new crona very good 👍 👌 😊 ☺ 😀 😄 👍 👌 😊<br> :date: __2020-06-15 17:43:31__
 
 > Contact tracing. Uk<br> :date: __2020-06-01 22:22:36__
@@ -163,8 +165,6 @@ The Coronavirus Help app has been installed by more than **1000** times. At this
 > Very nice app 😊👌🏻<br> :date: __2020-04-30 18:58:06__
 
 > If you download and it warns of a virus, ignore it. You have sensitive settings on your anti virus software. Thr app is fantastic, precisely what I need as I'm constantly poking through all the sites, with this it's all in one place. Thank you for putting this together.<br> :date: __2020-04-26 23:33:36__
-
-> This is a great App for up to date info, I live in spain and although I am english all my spanish friends can use the app due to it's multi language feature first class<br> :date: __2020-04-20 15:23:09__
 
 
 

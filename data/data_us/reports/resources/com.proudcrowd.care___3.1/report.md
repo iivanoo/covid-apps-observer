@@ -174,6 +174,8 @@ The Care19 Diary app has been installed by more than **10000** times. At this ti
 <img src="4_star_reviews_wordcloud.png" alt="com.proudcrowd.care 4 reviews"/>
 </p>
 
+> I just dont have room on my phone:(<br> :date: __2020-07-06 11:55:41__
+
 > Remember this is for north & south Dakota only.. other states will may add their state if they choose too. It will show other states but will not guarantee it at this time<br> :date: __2020-06-20 21:46:43__
 
 > The early release back in April was rough (didn't log any stops for me). But it's been working well for me since about May 4. It occasionally logs more than one stop at the same location. It occasionally gets the name of the location wrong, but this is very easy to correct.<br> :date: __2020-05-19 06:25:30__
@@ -210,6 +212,8 @@ The Care19 Diary app has been installed by more than **10000** times. At this ti
 <img src="2_star_reviews_wordcloud.png" alt="com.proudcrowd.care 2 reviews"/>
 </p>
 
+> Location info is incorrect and incomplete. I was able to fix the incorrect info, but can't add locations. Uninstalled and reinstalled on 6/24. Tracked my location until 6/27 then nothing.<br> :date: __2020-07-07 17:28:05__
+
 > Gives a lot of erroneous locations that are passed while driving or stopping at a stop light. Some days it gives no information at all.. i reloaded it a couple of weeks ago. It worked well until July 3 then quit working, not registering any locations.<br> :date: __2020-07-04 20:23:07__
 
 > Idk procedure to get my phone to let this work automatically in the background, out on the east coast<br> :date: __2020-07-02 20:56:10__
@@ -228,8 +232,6 @@ The Care19 Diary app has been installed by more than **10000** times. At this ti
 
 > This app does not record all the places I've been. I was in 5 different businesses in one day for more than 15 minutes and it did not record them . This app has a few bugs...I write down mow.<br> :date: __2020-05-20 22:58:49__
 
-> Inaccurate<br> :date: __2020-05-19 18:09:09__
-
 
 
 #### 1-star reviews
@@ -237,6 +239,8 @@ The Care19 Diary app has been installed by more than **10000** times. At this ti
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="com.proudcrowd.care 1 reviews"/>
 </p>
+
+> Does this app work for Los Angeles, CA residents? It doesn’t seem to work when installed on my phone because I’m still unable to turn on “Exposure Notifications” after the app is installed. I’m going to Settings > Google > COVID-19 Exposure Notifications and the toggle to turn on Exposure Notifications will not respond.<br> :date: __2020-07-06 03:44:17__
 
 > Keeps stopping<br> :date: __2020-07-05 05:31:18__
 
@@ -255,7 +259,5 @@ The Care19 Diary app has been installed by more than **10000** times. At this ti
 > Location is in issue for me<br> :date: __2020-06-25 00:03:09__
 
 > I saw the update that you could manually put in where you have been by the developer in 5/20. They said it would be implemented within the next update. However, it has now been over a month & time is of the essence. A month long wait for a feature that is now allowing a significant amount of people to use the app or provide inaccurate data is unacceptable. Please fix this asap or please ND & SD find a new developer. As a programmer, the basic first step before release is bug testing.<br> :date: __2020-06-21 11:19:38__
-
-> F\*\** you big brother<br> :date: __2020-06-19 16:56:46__
 
 

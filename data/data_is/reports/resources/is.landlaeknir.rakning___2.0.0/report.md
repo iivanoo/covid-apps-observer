@@ -154,6 +154,8 @@ The Rakning C-19 app has been installed by more than **50000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="is.landlaeknir.rakning 5 reviews"/>
 </p>
 
+> Veitir öryggi<br> :date: __2020-07-10 03:16:57__
+
 > Bara snilld.<br> :date: __2020-05-21 00:56:16__
 
 > Allir ættu að vera með þetta forrit!<br> :date: __2020-04-20 08:13:49__
@@ -171,8 +173,6 @@ The Rakning C-19 app has been installed by more than **50000** times. At this ti
 > Snilld<br> :date: __2020-04-07 07:25:15__
 
 > Ok<br> :date: __2020-04-07 01:51:06__
-
-> Hvernig kallar maður fram rakninga gögn úr símanum?<br> :date: __2020-04-06 21:35:39__
 
 
 

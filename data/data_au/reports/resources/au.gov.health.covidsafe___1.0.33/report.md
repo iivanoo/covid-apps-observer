@@ -130,25 +130,25 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 <img src="5_star_reviews_wordcloud.png" alt="au.gov.health.covidsafe 5 reviews"/>
 </p>
 
-> Persistent notification is annoying but I understand the priority is keeping it running to keep the Bluetooth pinging. Reverse-engineering has shown the security of the app to be good but I hope the source is released soon.<br> :date: __2020-07-05 14:06:31__
+> Unbeatable!<br> :date: __2020-07-09 14:43:00__
 
-> Installed. registered. Not had an issue since.<br> :date: __2020-07-05 11:51:07__
+> So easy to follow<br> :date: __2020-07-09 14:27:00__
 
-> Worthy aim and a way we can all help. 1.0.28 stays alive long enough to be useful. Still stops working after several hours and rebooting is needed to get going again. Version 6.0.1 of Android. Err message flashes with description "Unfortunately, Bluetooth Share has stopped". In this state I couldn't even answer a call before 1.0.28. Just usable with my Motorola Moto G 3rd generation.<br> :date: __2020-07-05 09:47:20__
+> App very informative.<br> :date: __2020-07-09 13:57:09__
 
-> The persistent notification doesn't appear on the lock screen anymore<br> :date: __2020-07-05 07:54:30__
+> Very good app & much needed.<br> :date: __2020-07-09 11:36:29__
 
-> It gives me all the details I need to know about COVID 19<br> :date: __2020-07-05 05:47:53__
+> GREAT =] staying home saving lives<br> :date: __2020-07-09 08:34:54__
 
-> It keeps closing...not very useful when I get home and realise it hasn't been tracking. I make sure I reopen the app every morning but it closes within a couple hours. I have selected the not allowed option within battery optimisation, so it's not due to that. Update: newer updates have fixed this issue<br> :date: __2020-07-05 00:48:34__
+> Far too voluminous<br> :date: __2020-07-08 23:27:58__
 
-> Installed from it's release. Worked. No problems at all. It doesn't drain the battery. It doesn't crash. It's totally fine. I haven't been dragged into the back of a van, taken to an underground bunker and questioned by spies.<br> :date: __2020-07-03 10:31:09__
+> Love it<br> :date: __2020-07-08 14:38:42__
 
-> Very Good<br> :date: __2020-07-02 11:56:22__
+> Easy to navigate. Thanks.<br> :date: __2020-07-08 12:22:40__
 
-> Just wear a mask, it's not that hard.<br> :date: __2020-07-02 02:47:55__
+> Generally don't notice the app running at all; UPDATED - haven't experienced the below for some time now. however started using the phone for music in the car today and it constantly causes the cars Bluetooth to reset about 1-2 minutes into each song. Phone = Samsung S9+ Car = Mazda BT50 2014 (Don't know what version of Bluetooth) Hopefully you can resolve this issue.<br> :date: __2020-07-08 11:55:46__
 
-> The latest version of this app on my Motorola G7 is all good - battery life, connectivity to Bluetooth, and operation of other apps (issues reported by other users) all normal. The previous version meant I had to manually connect to other Bluetooth devices, but I wasn't experiencing any dropouts so it was worth the minor inconvenience. Would recommend people at least try it on their mobile for the possible future benefit of yourself and others.<br> :date: __2020-07-01 01:33:50__
+> On 4 Of May I have Received my Corona test results was Good from Auburn Hospital<br> :date: __2020-07-08 11:49:35__
 
 
 
@@ -158,6 +158,18 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 <img src="4_star_reviews_wordcloud.png" alt="au.gov.health.covidsafe 4 reviews"/>
 </p>
 
+> Please fix the notification area. I have to stop the app because it blocks other notification from other app<br> :date: __2020-07-09 00:24:03__
+
+> Put the app on the phone like they said have not had a problem with it Blue tooth OK.<br> :date: __2020-07-08 14:40:30__
+
+> I live in guyana and they do not have guyana in there country list please put guyana now or i will delet this app please really want this app<br> :date: __2020-07-07 02:07:51__
+
+> Would be good if it at least showed how many other devices it's registered, and when.<br> :date: __2020-07-06 16:14:37__
+
+> Update: Initial force-close issue resolved by reinstalling. Haven't heard of the app actually doing its job yet and at what accuracy rate, but I guess it's better than nothing.<br> :date: __2020-07-06 00:39:03__
+
+> Not knocking the app, no app is perfect therefore no app ever gets "5 stars". Unfortunately this is a necessary evil in modern times. I wish I could close it including from the notifications panel when I'm home & Bluetooth is off. "4 & 3/4 stars" if you can achieve this. (Android 10, gentle notifications on, no option to disable foreground services or option them at "home location" or "Bluetooth off".)<br> :date: __2020-07-05 22:16:29__
+
 > Sits quietly in the background can't complain<br> :date: __2020-07-05 13:21:45__
 
 > Using this app makes audio headset bluetooth connection unstable, but still worth using it<br> :date: __2020-07-02 02:43:49__
@@ -165,18 +177,6 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 > It's this one of those, pay-to-win games? I haven't leveled up once yet !?!<br> :date: __2020-07-01 23:23:24__
 
 > My screen locks and goes blank any time I revive or make call. Have to uninstalled, friend has same issue. Tried re installing, issue is back.<br> :date: __2020-07-01 00:11:47__
-
-> On my Note 10, I don't have any of the problems others mention about bluetooth drop outs to car or Senheisser headphones or Samsung Watch, the only problem I have is the app doesn't start up when I restart the phone, I rarely restart so not a big problem.<br> :date: __2020-06-28 04:21:25__
-
-> The app conflicts with my Bluetooth headphones, here's the fix: Settings > apps > force stop. Remember to turn the app back on when you go outside. Good luck everyone.<br> :date: __2020-06-27 08:52:54__
-
-> I don't mind the app but I don't understand wire displays how many minutes and the time when I pull down my home screen and it's running in the background what do the minutes mean? Eg: covidsafe 12m ??<br> :date: __2020-06-24 17:17:19__
-
-> Excellent<br> :date: __2020-06-24 08:54:38__
-
-> I installed this app, hoping people do the right thing. If they have the virus they too should install and updated information for the public to know about it. Noone knows who the infected person/s are, but you are made aware that someone near you is.<br> :date: __2020-06-23 14:53:07__
-
-> Always on keeping myself and others safe<br> :date: __2020-06-23 09:13:15__
 
 
 
@@ -186,25 +186,25 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 <img src="3_star_reviews_wordcloud.png" alt="au.gov.health.covidsafe 3 reviews"/>
 </p>
 
-> Not had experience yet<br> :date: __2020-07-05 02:51:10__
+> You guys broke the lock screen notification in the last update 🤦‍♂️<br> :date: __2020-07-09 23:43:36__
 
-> Not sure why the app needs access to bluetooth, also doesn't seem like an intuitive app<br> :date: __2020-07-02 07:16:01__
+> Edit: Issue appears only when I've set the notification to silent, if I set it back to alerting it looks ok. --- Latest update has wrecked the notification drawer. Please fix soon.<br> :date: __2020-07-09 23:07:53__
 
-> Still being asked to fill details in on contact tracing forms 🙄 could be better!<br> :date: __2020-07-02 01:00:09__
+> I wish I could see where I am on the map and I wish that the app work like the fire app so I can see hot spot in the world.<br> :date: __2020-07-09 10:46:33__
 
-> I want to like this. But it's messing with Bluetooth audio. So do I accept the drop outs or uninstall?<br> :date: __2020-06-30 11:56:40__
+> Need more communication between each of the virus stations make sure that they put are on the same giving the same advice and not stuffing me around<br> :date: __2020-07-09 10:22:16__
 
-> It is unobtrusive and altruistic<br> :date: __2020-06-30 04:51:52__
+> Was using this when it was just Bluetooth, but the Government doesn't need my location data as well.<br> :date: __2020-07-09 10:08:54__
 
-> Constantly requires restarting. Haven't had to supply data at all but if I did I don't know how much would have been captured cause it seems to always shut itself down<br> :date: __2020-06-29 03:39:07__
+> This app as important as it is prevents my other apps notifications from displaying correctly I've removed it until it is fixed<br> :date: __2020-07-08 10:44:52__
 
-> didn't detect anything<br> :date: __2020-06-29 02:08:33__
+> Issues from latest update causing notifications overlapping , on pixel phone<br> :date: __2020-07-08 10:39:37__
 
-> Useless<br> :date: __2020-06-28 01:05:52__
+> After the last update, the notification that is usually on my lock screen is missing and affects the appearance of other notifications, which makes it difficult to read incoming messages on the lock screen. Perhaps the notification height was set to a negative number. Other than that, it appears to do as described. No issues with Bluetooth here.<br> :date: __2020-07-08 03:18:05__
 
-> Might be useful, but can't be sure. I've installed this app and so far haven't got Covid 19 (that I know of). Registration was easy, and can be done using a pseudonym. Battery usage is quite low. Ongoing notification to tell you that it is working, and will let you know if it stops working (eg. you turn off Bluetooth). However, the icon (Australia with tick) shows whether it is working or not (eg. When Bluetooth turned off).<br> :date: __2020-06-27 14:26:06__
+> Interferes with wifi. Uninstalled. Probably built on a $3 budget.<br> :date: __2020-07-07 12:23:16__
 
-> Doesn't work properly<br> :date: __2020-06-26 18:15:48__
+> it working wasnt easy<br> :date: __2020-07-07 02:45:12__
 
 
 
@@ -214,25 +214,25 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 <img src="2_star_reviews_wordcloud.png" alt="au.gov.health.covidsafe 2 reviews"/>
 </p>
 
-> Effected blutooth dramatically. Uninstalling.<br> :date: __2020-07-05 11:07:18__
+> Latest update has broken the notifications system for my phone (pixel 2 xl)<br> :date: __2020-07-10 03:17:23__
 
-> App causes music to be interrupted every few seconds on blue tooth heaphones. And extra battery drain. Makes my brand new bluetooth headphones useless. Cant listen from my phone at all.<br> :date: __2020-07-05 07:05:46__
+> 10/7 latest update has screwed up the notification bar, and somehow has stuffed up the notifications for other apps too. Will probably uninstall if not fixed soon. *Original Review*: Enrollment was pretty easy, the app is always running in the background but so far doesn't appear to be using the battery at all. Would trust it more if they used the Google/Apple framework, but sounds like that's a few weeks away..<br> :date: __2020-07-10 00:10:43__
 
-> It complains that it's not running because I turned off push notifications. I hate being bothered by apps. Why can't it run without bothering me?<br> :date: __2020-07-05 06:49:23__
+> Uninstalled because it messes up my lockscreen notifications (Samsung Snapdragon Note 10+).<br> :date: __2020-07-09 16:56:30__
 
-> Until the recent update this app was okay a few gripes mentioned below. Unfortunately It now eats my battery and caused my Bluetooth headphones to be completely out of sync with video! I am going to uninstall it until we get the second wave in Tassie! I also really don't like the permanent icon and status in my notifications bar. Please make this app so that it only notifies me if there is a problem!!!!!!!!<br> :date: __2020-07-04 13:49:12__
+> I need to uninstall and reinstall the app every time I activate it to make it work. This is rather frustrating and time-consuming, and defeats the purpose of being able to open the app and have it running at a moment's notice when you're near other people.<br> :date: __2020-07-09 14:13:56__
 
-> App should be named COVIDTrace as this is its purpose. Doesn't do anything to keep me safe.<br> :date: __2020-07-04 08:25:09__
+> The latest update prevents the notifications on my lock screen showing correctly. They are now only partly visible. They show fine if I disable the app.<br> :date: __2020-07-09 11:06:44__
 
-> Keeps saying my phone is an invalid mobile nb. Can't even register.<br> :date: __2020-07-03 16:08:03__
+> Latest update is drawing over the top of other notifications, please fix asap, use the phone for work and this getting in the way<br> :date: __2020-07-09 06:01:45__
 
-> Battery drains a lot faster and my phone has been freezing since installing this app.<br> :date: __2020-07-03 01:09:54__
+> Just had to uninstall this as a result of the latest update. It hides all of my notifications while installed. Problem goes away as soon as its uninstalled. Pretty poor for a government app if you ask me. This sort of stuff only makes people more suspicious of the app...<br> :date: __2020-07-09 05:44:46__
 
-> Good idea, if it would work. Every time I go into the app to check if it's still working it isn't and I have to re-allow battery optimisation, I'm not sure why this gets turned off because I've re-allowed it at least 10 times by now.<br> :date: __2020-07-02 23:56:06__
+> Notification bar issues since most recent update. Have to disable this apps notifications to rectify<br> :date: __2020-07-09 04:59:13__
 
-> Since installing this app Bluetooth music playing in my car keeps momentarily pausing a number of times per minute. Force Stopping the app lets the music play normally so it's definitely the app.<br> :date: __2020-07-02 12:17:37__
+> It works fine but has caused an issue with notifications displaying for all apps on the locked screen.<br> :date: __2020-07-09 03:14:08__
 
-> Great idea. But it interferes with my earphones and car system. So I use it only when I don't use bluetooth for anything else and when I remember to a enable bluetooth in covid safe app.<br> :date: __2020-07-02 11:48:25__
+> Keeps telling me my name is not legal. So i am uninstalling<br> :date: __2020-07-08 08:03:09__
 
 
 
@@ -242,24 +242,24 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 <img src="1_star_reviews_wordcloud.png" alt="au.gov.health.covidsafe 1 reviews"/>
 </p>
 
-> The fact that it doesnt seem to work while the phone is locked (samsung s5) makes it pretty much useless.<br> :date: __2020-07-05 13:01:40__
+> Uninstalling this app because since latest update on 2/7/2020 it's affecting the appearance of other app notifications which is annoying.<br> :date: __2020-07-10 14:46:49__
 
-> No virus it's a scam<br> :date: __2020-07-05 11:04:31__
+> Drains too much battery<br> :date: __2020-07-10 14:18:45__
 
-> Congrats, the latest update completely glitches the displaying of all lockscreen notifications, rendering them unreadable. Thankfully I can simply disable the CovidSafe notification from appearing altogether, though this obviously defeats its purpose. Galaxy S9, Android 10.<br> :date: __2020-07-05 08:14:06__
+> Why no auto update<br> :date: __2020-07-10 13:08:26__
 
-> Never trust an APP made in China.<br> :date: __2020-07-05 07:40:25__
+> Keep crashing after the latest update<br> :date: __2020-07-10 12:29:35__
 
-> Useless. Doesn't do anything to help against covid 19<br> :date: __2020-07-05 06:50:21__
+> Not.useful.at all<br> :date: __2020-07-10 11:58:47__
 
-> I'm not sure what happened, but after the last two updates, the app keeps force closing, so it doesn't run at all. A system error message pops up as well saying that the app stopped working. Please fix.<br> :date: __2020-07-05 05:37:10__
+> I downloaded the app one the first few days. Today I deleted it. It kept turning itself off. I followed all tips and suggestions but it just kept on shutting down with no alert to let me know it had done so.<br> :date: __2020-07-10 08:41:18__
 
-> Latest update to have the app in 100 languages has broken my notifications panel on my Samsung S10 5G. Have switched off foreground service until fixed.<br> :date: __2020-07-05 05:21:11__
+> Drained my phone battery and so useless, I can't believed the government spent that much money for an useless app, this is how you spend tax payers money, poor design and chased nothing, unbelievable<br> :date: __2020-07-10 06:50:17__
 
-> The status bar has gone blank with the latest update, using Android Samsung Galaxy S7 Edge<br> :date: __2020-07-05 02:27:05__
+> The latest update is causing notification issues in the swipe down menu and lock screen<br> :date: __2020-07-09 13:42:11__
 
-> Stop download what ever they saying 😠 and stop to be a 🐑<br> :date: __2020-07-05 02:09:57__
+> It's a placebo. No benefit.<br> :date: __2020-07-09 11:43:22__
 
-> Cuts spotify off regularly with bluetooth headphones and car.<br> :date: __2020-07-05 01:35:32__
+> It is of no use whatsoever. A waste of money & a waste of my battery life.<br> :date: __2020-07-09 07:12:24__
 
 

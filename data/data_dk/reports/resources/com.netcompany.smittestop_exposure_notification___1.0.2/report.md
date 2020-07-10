@@ -147,6 +147,8 @@ The Smittestop app has been installed by more than **100000** times. At this tim
 <img src="5_star_reviews_wordcloud.png" alt="com.netcompany.smittestop_exposure_notification 5 reviews"/>
 </p>
 
+> Great solution! I am impressed by how well the app and tracing system was designed. It's impressive how the design allows to both ensure absolute privacy of all users while still being able to track infection chains anonymously. Good work!<br> :date: __2020-07-08 17:21:06__
+
 > Everyone should take note that even though the app requires location access, it doesn't use your GPS. It's only for Bluetooth based tracing 👍🏻<br> :date: __2020-06-27 14:06:19__
 
 > Great app. Another tool in our fight against the virus.<br> :date: __2020-06-27 11:32:10__
@@ -164,8 +166,6 @@ The Smittestop app has been installed by more than **100000** times. At this tim
 > Tilpas simpel til at alle kan bruge den. Tilpas sikker til at ingen bør lade være.<br> :date: __2020-06-18 10:05:05__
 
 > Non-intrusive and securing for the user! I fully approve!<br> :date: __2020-06-18 09:30:31__
-
-> Fantastisk at den faktisk bruger exposure notifications fra Google selv, i stedet for et selvopfundet system, der ikke respekterer brugerens data og privatliv. Fin og enkel app.<br> :date: __2020-06-18 08:58:26__
 
 
 
@@ -245,6 +245,8 @@ The Smittestop app has been installed by more than **100000** times. At this tim
 <img src="1_star_reviews_wordcloud.png" alt="com.netcompany.smittestop_exposure_notification 1 reviews"/>
 </p>
 
+> not in English - thus useless<br> :date: __2020-07-08 18:44:11__
+
 > Aktiver knap virker ikke på samsung 10+, jeg har forsøgt at opdatere android og google play no luck... apps bør virke lidt out of the box.... Den 03.07.2020 virker jeres app stadig ikke. Så er det lige meget hvor mange der downloader app'en!! Selv med jeres nye update...<br> :date: __2020-07-03 22:32:50__
 
 > Det er da dumt at appen først advare én når man har været i nærheden af en der er smittet. Den burde ha et kort hvor man kan se smitten har været så man ikke går derhen i første omgang.<br> :date: __2020-06-30 10:39:00__
@@ -262,7 +264,5 @@ The Smittestop app has been installed by more than **100000** times. At this tim
 > Denne app dumper. Bliver ved med at deaktivere og siger at bluetooth ikke er slået til selvom den er. Er nød til at genstarte appen for at få den til at virke indtil den gør det igen. Og ja GPS og Bluetooth er slået til hele tiden.<br> :date: __2020-06-27 13:04:38__
 
 > Hvad er ideen med at jeg skal bruge nem-id for at melde mig smittet? Det er ikke forbundet med anonymitet - tvært imod, så er nem-id udviklet for at verificere vores unikke identitet.<br> :date: __2020-06-26 22:25:01__
-
-> Jeg kan ikke aktivere bluetooth funktionen i app'en, hvilket gør den ubrugelig. Har Xiaomi Mi9 Se<br> :date: __2020-06-26 07:08:02__
 
 

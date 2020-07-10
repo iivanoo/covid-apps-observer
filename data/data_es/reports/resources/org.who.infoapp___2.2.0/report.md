@@ -128,6 +128,8 @@ The WHO Info app has been installed by more than **100000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="org.who.infoapp 5 reviews"/>
 </p>
 
+> Ok<br> :date: __2020-07-10 07:34:35__
+
 > Gracias por la aplicación<br> :date: __2020-06-08 09:56:21__
 
 > Emanuel Beltrán.<br> :date: __2020-05-30 04:29:30__
@@ -146,8 +148,6 @@ The WHO Info app has been installed by more than **100000** times. At this time,
 
 > no puedo entrar para los datos<br> :date: __2020-05-04 15:16:51__
 
-> Buena onds<br> :date: __2020-05-04 05:32:07__
-
 
 
 #### 4-star reviews
@@ -155,6 +155,8 @@ The WHO Info app has been installed by more than **100000** times. At this time,
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="org.who.infoapp 4 reviews"/>
 </p>
+
+> La aplicación viene con opción para cambiar el idioma... No se porque la gente no se molesta en indagar eso, la aplicación en sí esta muy bien<br> :date: __2020-07-09 21:29:22__
 
 > Bueno<br> :date: __2020-06-29 07:08:43__
 

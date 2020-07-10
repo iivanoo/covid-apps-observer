@@ -168,8 +168,6 @@ No recent reviews available with 4 stars.
 
 > Men aniq virusli statistikaga ega bo'lishni xohladim, google Play ushbu dasturni yagona ishonchli dastur sifatida tavsiya qiladi. Ingliz tilidagi maqolalardan tashqari, hech narsa yo'q. O'zbekiston uchun ma'lumot va dasturni aloqasi yo''qmi?<br> :date: __2020-06-05 13:48:39__
 
-> Надоели с это паникой,например я не знаю ни одного заболевшего и мои знакомые и друзья ни одного!!!<br> :date: __2020-06-02 23:31:22__
-
 > Смерть разработчикам!!!<br> :date: __2020-05-19 22:17:08__
 
 > Хотелось иметь под рукой понятную статистику по вирусу, google play рекомендует это приложение как единственно достоверное. Кроме статей на английском ничего нет. Т.е. для России альтернативы нет?<br> :date: __2020-05-07 16:18:22__

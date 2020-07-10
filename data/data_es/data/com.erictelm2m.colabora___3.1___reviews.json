@@ -1,5 +1,29 @@
 [
     {
+        "reviewId": "gp:AOqpTOFLNEl4wdJ6gCWag7Tu1ycJDIT67Khpv76WApPh1x_Z7msyqhtnF4gj-XXhGGNL1TKvj-l37MMnbJ9IOg",
+        "userName": "Marta P\u00e9rez Gal\u00e1n",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhPZr9I9uv0p8-xUSuWkLYf3lJAYNXi7utdkPZAcnY",
+        "content": "Se necesita la colaboraci\u00f3n y a veces es dif\u00edcil convencer de la confidencialidad y hay rechazo a colaborar. Un poco m\u00e1s de propaganda de ella y su utilidad.",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.1",
+        "at": "2020-07-09 20:05:24",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFphSKfjK3pq-nBohevebtV6JuQbHllvnH4QyzBie6DdyScn_7sGMYg_gOrBrjdLVGulIA4_RnzOyJ6dw",
+        "userName": "Lola Valderrama",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhSyK17ddwum2R4G2HVfo2NJxNmtARkvw1NTJ_WhJ8",
+        "content": "Muy dif\u00edcil de instalar",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.1",
+        "at": "2020-07-07 09:34:02",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOGoD-KrMGPypJ3vsWIwOPnRnon4pe_B1ChsStlGYv1LNsW8OeM0LnqhKWT6f8yxnCgoiBMUdqWDmyCxeA",
         "userName": "encuestasrod",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgK0bx4Wi1JgzYsjjYxuNI3irK2l0ufnyIgcSCp",
@@ -17,7 +41,7 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhwDXdrKJDHkezSHSNuJbwgZ4LL2kvXbffd7iXX8Q",
         "content": "Estar\u00eda bien que lo anunciaran en castellano, yo he llegado aqu\u00ed por un anuncio en daylimotion y nos seguimos empe\u00f1ando en que todo el mundo sabe euskera cuando no es as\u00ed, castellano si que sabemos todos. Esto es de inter\u00e9s general, por favor, ponedle sentido y permitidnos enterarnos a la primera. Edito! Mirad la respuesta, me refer\u00eda a la publicidad de la app, para contestar eso la verdad es que no se para que pagan a un community manager.",
         "score": 3,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "3.1",
         "at": "2020-07-01 11:20:50",
         "replyContent": "En el men\u00fa, en ajustes, figura la opci\u00f3n Castellano o Euskera. Un saludo.",
@@ -137,7 +161,7 @@
         "userImage": "https://lh3.googleusercontent.com/-Pip2ReRmN8g/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm6sJcPfiLcU_L37sffq4FadcbKJw/photo.jpg",
         "content": "Desde ayer no funciona. Dice que la sesi\u00f3n ha expirado y que la desinstale y la vuelva a instalar. A pesar de haberlo hecho varias veces no funciona. Por otro lado, a la hora de a\u00f1adir personas a los c\u00edrculos deber\u00eda dar la posibilidad de a\u00f1adirlos sin tel\u00e9fono puesto que si son personas mayores seguramente o tienen un m\u00f3vil o no tienen ninguno; y por otro lado, es posible que la gente de mis c\u00edrculos no quiera que le lleguen notificaciones para instalar la app.",
         "score": 2,
-        "thumbsUpCount": 9,
+        "thumbsUpCount": 10,
         "reviewCreatedVersion": "3.0",
         "at": "2020-06-28 18:03:44",
         "replyContent": null,
@@ -761,7 +785,7 @@
         "userImage": "https://lh3.googleusercontent.com/-JRmWPo16a8Y/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn4AtoGRGhUH64qpgQV98aJ2R_oig/photo.jpg",
         "content": "En mi Xiaomi no he tenido ning\u00fan problema :) Con cada nueva versi\u00f3n noto que la app mejora notablemente. Van incluyendo m\u00e1s y m\u00e1s opciones. Supongo que ahora que empieza la desescalada ser\u00e1 m\u00e1s importante que usemos la app y agreguemos m\u00e1s personas, para ayudar a que no haya rebrotes. Mejorar\u00eda la gesti\u00f3n de invitaciones para que los usuarios podamos comprobar de un vistazo a quienes hemos enviado ya la invitaci\u00f3n.",
         "score": 5,
-        "thumbsUpCount": 5,
+        "thumbsUpCount": 6,
         "reviewCreatedVersion": "2.4",
         "at": "2020-05-18 09:06:16",
         "replyContent": "Muchas gracias por su opini\u00f3n. Recogemos tus comentarios para seguir mejorando.",
@@ -1956,18 +1980,6 @@
         "repliedAt": "2020-06-05 10:45:25"
     },
     {
-        "reviewId": "gp:AOqpTOG7GX-6pZbClfEmeGPr5isj0U6zaNhs-HHfES-VTqpVfdhs0NH55yHRpQTUKP2xus6G_U_a_pkLl3oKjg",
-        "userName": "Salvi Mart\u00edn",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhpYPl_pjsK0XB9iY40np_b06OZ4tKqgK4tSusr",
-        "content": "Me gusta mucho pero le falta cosas....",
-        "score": 3,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.2",
-        "at": "2020-04-05 04:52:47",
-        "replyContent": "Muchas gracias por su opini\u00f3n, vamos mejorando en nuevas versiones actualizadas con consejos de los usuarios.",
-        "repliedAt": "2020-05-27 14:03:10"
-    },
-    {
         "reviewId": "gp:AOqpTOEd2BqvoFovV97WieQ9frLEobguQMgBP5B10Nxn4PfIrbIx_lm4iaq376WT8daPIVeiDV56xpLSrCuatg",
         "userName": "Ana Isabel Barba Docampo",
         "userImage": "https://lh3.googleusercontent.com/-UKw5jgKDR2g/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl3F1sosIbepNdNb7XMvqLHQfvBFw/photo.jpg",
@@ -2017,7 +2029,7 @@
     },
     {
         "reviewId": "gp:AOqpTOErmZhNgUw04FVTdATajUBvgbQqcr0KtKdJGH1ZoRujuJmqiXpeqpz-V4uVsajcikXXd3sfG15FV2835g",
-        "userName": "Abraham F.S.",
+        "userName": "Abraham Florido Sierra",
         "userImage": "https://lh3.googleusercontent.com/-JAziNP3IZaw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclaBsUJTAYiYv_nXSag7kaYuyIQtg/photo.jpg",
         "content": "Ya han incluido la opci\u00f3n de seleccionar contactos de la agenda.",
         "score": 5,
@@ -2126,7 +2138,7 @@
     {
         "reviewId": "gp:AOqpTOFLxFEqurdKR_RLkBTEkkeUTiOGmQwH8CJnEDxziDVtuC-N5a3KhUjCqU_fqNptpCsj4ZIEnT82d6QqSg",
         "userName": "Iker L\u00f3pez",
-        "userImage": "https://lh3.googleusercontent.com/-AyJe1NpV8Tc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclUDQxDI520Xan3yFel4Mn5mSU02w/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiLe3aYMBkfNO-mn7XdGv03p20mYVLtcNcOZJLvpPM",
         "content": "Ahora que se puede acceder a la agenda, no me deje realizar el autotest...",
         "score": 2,
         "thumbsUpCount": 19,
@@ -3854,7 +3866,7 @@
     {
         "reviewId": "gp:AOqpTOFjSjUtu5JlvUCtm9bXJ71se601SlAojNf6GbqQG_C6AwRPoWl6BbFdsOL4o02K1qMIWl-frgHLoJlF3g",
         "userName": "Marisa Garcia Arribas",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhBkmb4Rw8W4YPWbS2faCSpesxEd5O6vdMV6m6U",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gi7MR4XL3ey-YYVj1dlBKzLa4WICyw45WBX1V_7tQ",
         "content": "Ni tan siquiera se abre.",
         "score": 1,
         "thumbsUpCount": 0,

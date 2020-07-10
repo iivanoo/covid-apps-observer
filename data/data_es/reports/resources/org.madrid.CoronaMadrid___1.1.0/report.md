@@ -150,6 +150,8 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="org.madrid.CoronaMadrid 5 reviews"/>
 </p>
 
+> Ha sido muy facil de usar y muy práctica.<br> :date: __2020-07-08 21:14:07__
+
 > Excelente, buen seguimiento.<br> :date: __2020-07-01 16:47:36__
 
 > Funciona bien cumple lo que promete, ayuda al diagnóstico y a evitar riesgos<br> :date: __2020-06-27 14:18:58__
@@ -167,8 +169,6 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 > Me parece muy útil y de gran ayuda<br> :date: __2020-04-15 11:23:15__
 
 > Muy buena aplicación Me han llamado un par de veces por tfno<br> :date: __2020-04-14 01:45:02__
-
-> Poco a poco se va mejorando, seguid trabajando en esta aplicación. Una duda: En la última pregunta hay que contestar SI o NO, si por ejemplo cambia una de las respuestas de una autoevaluación a otra ¿la respuesta sería NO, verdad? Porque la nueva situación hace que no lleves 20 días...<br> :date: __2020-04-13 11:53:25__
 
 
 

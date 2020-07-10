@@ -1,0 +1,43 @@
+[
+    {
+        "name": "google.com",
+        "registrar": "MarkMonitor Inc.",
+        "registrant": "Google LLC",
+        "registrar_country": "",
+        "registrant_country": "US",
+        "creation_date": "1997-09-15 04:00:00",
+        "expiration_date": "2028-09-14 04:00:00",
+        "last_updated": null,
+        "status": "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+        "statuses": [
+            "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+            "clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)",
+            "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+            "serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)",
+            "clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)",
+            "serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)",
+            "serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)",
+            "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited",
+            "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited",
+            "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+            "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+            "clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)"
+        ],
+        "name_servers": "{'ns1.google.com', 'ns4.google.com', 'ns2.google.com', 'ns3.google.com'}"
+    },
+    {
+        "name": "t-online.de",
+        "registrar": "",
+        "registrant": "",
+        "registrar_country": "",
+        "registrant_country": "",
+        "creation_date": null,
+        "expiration_date": null,
+        "last_updated": "2006-07-28 04:31:25+02:00",
+        "status": "connect",
+        "statuses": [
+            "connect"
+        ],
+        "name_servers": "{'dns02.btx.dtag.de', 'dns50.t-ipnet.de', 'dns00.btx.dtag.de', 'pns.dtag.de'}"
+    }
+]

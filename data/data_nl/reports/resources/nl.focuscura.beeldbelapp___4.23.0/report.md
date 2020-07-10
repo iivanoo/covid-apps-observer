@@ -197,25 +197,25 @@ The Luscii app has been installed by more than **50000** times. At this time, **
 <img src="5_star_reviews_wordcloud.png" alt="nl.focuscura.beeldbelapp 5 reviews"/>
 </p>
 
-> Ik vind het prettig dat je toch een check hebt hoe het er voor staat en dat je advies kunt krijgen wanneer dit noodzakelojk mocht zijn.<br> :date: __2020-07-03 08:25:32__
+> 👍👍heel goed.<br> :date: __2020-07-10 10:36:27__
 
-> Zeer goede app<br> :date: __2020-07-02 16:30:28__
+> Heldere site<br> :date: __2020-07-10 10:11:07__
 
-> Ben zeer tevreden over deze app. Veilig om dit achter de hand te hebben.<br> :date: __2020-07-02 09:54:39__
+> Zeer overzichtelijk en gemakkelijk.<br> :date: __2020-07-09 12:06:22__
 
-> Werkt super En niet moeilijk<br> :date: __2020-07-01 20:26:10__
+> Super programma. Fijn dat je op afstand in de gaten wordt gehouden en terug koppeling krijgt . Telefonisch contact is ook top<br> :date: __2020-07-09 10:16:13__
 
-> Geruststellende app<br> :date: __2020-07-01 09:33:53__
+> Ik vindt het super goed en fijn dat wij hier de mogelijkheid voor krijgen bedankt<br> :date: __2020-07-08 08:58:54__
 
-> Fijne veilige app<br> :date: __2020-07-01 09:15:31__
+> Duidelijk en makkelijk in te vullen<br> :date: __2020-07-07 21:49:55__
 
-> Vind ik makkelijk<br> :date: __2020-06-30 12:32:54__
+> Prima app. De applicatie heeft 2 meldpunten en één meldpunt in Kenia maar k woon, werk en verblijf in Marokko. In de app wordt doorgeleid aan het kisumu meldpunt. In Marokko kan ik hier niks mee. Overigens is in Casablanca een centraal meldpunt waar je in meerdere talen kan praten, Arabische, Frans maar ook Duits, Engels, Italiaans, Spaan. Mag ik de app ontwikkelaars adviseren om de app in meerdere talen aan de passen, óók de meldpunten toetevoegen en interne mailadres om te reageren.<br> :date: __2020-07-07 20:05:05__
 
-> Gaat heel goed.<br> :date: __2020-06-29 09:31:32__
+> Makkelijk en functionele app<br> :date: __2020-07-06 16:44:14__
 
-> werkt weer prima<br> :date: __2020-06-28 00:11:45__
+> Goede invulmogelijkheden.<br> :date: __2020-07-06 15:06:08__
 
-> Prima app, eenvoudig en doeltreffend<br> :date: __2020-06-26 10:43:50__
+> Een hele goede app. Werkt uitstekend. Geeft ook 'n geruststellende gedachte. Gebruik 'm van het begin af aan al.<br> :date: __2020-07-06 09:41:40__
 
 
 
@@ -224,6 +224,10 @@ The Luscii app has been installed by more than **50000** times. At this time, **
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="nl.focuscura.beeldbelapp 4 reviews"/>
 </p>
+
+> Alleen was in ziekenhuis CWZ niets bekend van deze uitslagen. Ik ging als begeleidster mee met een bewoner voor onderzoek. Van bewoner was ook niets bekend. Vraag me af waarom we dit dan invullen?<br> :date: __2020-07-06 19:49:03__
+
+> Duidelijk<br> :date: __2020-07-06 08:28:22__
 
 > Werkt prima!<br> :date: __2020-07-03 20:13:45__
 
@@ -241,10 +245,6 @@ The Luscii app has been installed by more than **50000** times. At this time, **
 
 > Goed, prettige controle<br> :date: __2020-06-18 09:33:28__
 
-> 👍👍🤗<br> :date: __2020-06-17 08:41:10__
-
-> Duidelijk en goede App<br> :date: __2020-06-16 11:07:33__
-
 
 
 #### 3-star reviews
@@ -252,6 +252,10 @@ The Luscii app has been installed by more than **50000** times. At this time, **
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="nl.focuscura.beeldbelapp 3 reviews"/>
 </p>
+
+> Ik kan helemaal niks met de app. Alleen mijn eigen gegevens bekijken, de anderen schermen melden dat ik ze niet gebruiken kan. Na ee paar uur doet hij het. Nu een paar keer gebruikt.. Ik vind het errg veel onnodig tikwerk..32 keer sls je alles wilt invullen.<br> :date: __2020-07-06 15:06:06__
+
+> Goed.<br> :date: __2020-07-05 17:42:13__
 
 > Te vaak moet je de gegevens met de hand invullen. Misschien doe ik zelf iets niet goed, maar dat komt dan omdat de handleiding tekort schiet.<br> :date: __2020-06-29 13:55:22__
 
@@ -268,10 +272,6 @@ The Luscii app has been installed by more than **50000** times. At this time, **
 > Ik vind het vervelend dat na elk antwoord deze verstuurd moet worden. Kost extra tijd en maakt dat ik niet elke dag deze lijst wil invullen.<br> :date: __2020-06-06 08:37:06__
 
 > Covid bevat veel meer symptomen die niet in jullie vragenlijst zijn opgenomen<br> :date: __2020-06-05 10:08:00__
-
-> Goed dat de app er is, maar aantal klik stappen is teveel, er kan gecombineerd worden.<br> :date: __2020-06-03 10:28:20__
-
-> Geeft een goed gevoel<br> :date: __2020-06-03 09:34:30__
 
 
 

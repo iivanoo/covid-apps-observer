@@ -156,6 +156,8 @@ The COCOA - COVID-19 Contact App app has been installed by more than **1000000**
 <img src="5_star_reviews_wordcloud.png" alt="jp.go.mhlw.covid19radar 5 reviews"/>
 </p>
 
+> Japan's contact tracing app is one more layer of safety when it comes to the coronavirus. The app works fine on my Pixel 4.<br> :date: __2020-07-09 07:44:07__
+
 > Cool! Thanks.<br> :date: __2020-06-25 02:30:49__
 
 > Good. Good. Good.<br> :date: __2020-06-23 11:15:39__
@@ -173,8 +175,6 @@ The COCOA - COVID-19 Contact App app has been installed by more than **1000000**
 > たくさんの方にインストールしてほしいです。あともし自分がかかったらちゃんと番号を入力してほしいですね。濃厚接触者と分かった時点で他の人が感染しないように行動を変えることもできるし、早期発見早期治療にもつながると思いますので、みんな積極的に捉えてほしいです。友達にも勧めておきます！<br> :date: __2020-06-19 17:08:24__
 
 > It's working too fast<br> :date: __2020-06-19 16:05:35__
-
-> No GPS request, good.<br> :date: __2020-06-19 15:20:31__
 
 
 
@@ -195,6 +195,10 @@ The COCOA - COVID-19 Contact App app has been installed by more than **1000000**
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="jp.go.mhlw.covid19radar 3 reviews"/>
 </p>
+
+> 英語学習のために、スマートフォンの言語設定を英語にしています。このアプリで は端末の言語設定がそのまま反映されるので、アプリの言語は自動的に英語になります。 感染者と接触があった場合に、保健所などに画面を提示する必要が出てくる場合があるようですが、英語設定のままでも対応してもらえるのでしょうか？ 日本語でないといけないようであれば、アプリ内で簡単に言語設定を変えられるように仕様変更していただけるといいと思います。<br> :date: __2020-07-08 09:46:08__
+
+> 100 MB download is a lot!<br> :date: __2020-07-06 14:33:54__
 
 > 問題なくインストールでき、個人情報を登録せず利用開始できました。 機能についてもっと長く使わないと分かりませんが、今までの気づきをまず共有します。 1. ステム言語が英語の場合アプリの表示も英語に変わります。 2. 機能的に問題ないですが、厚生労働省のメイン画面のバナーには英語の...welfareのeが欠けています。 3. 友人にシェアボタンでアプリをLINEで送って見ましたが、Androidアプリなのでplayストアになりますね。友人がiphoneなので、役に立たないリンクでした。アクセスするスマホによって、自動的にアップストアやplayストアにつながるといいと思います。 以上によって総合的にまず3つ星にしました。<br> :date: __2020-06-20 03:38:56__
 
