@@ -224,6 +224,8 @@ The COVID Radar app has been installed by more than **50000** times. At this tim
 <img src="2_star_reviews_wordcloud.png" alt="nl.lumc.covidradar 2 reviews"/>
 </p>
 
+> Ik stop er mee. Puur omdat je gewoon bij het dagelijks invullen, nog steeds dagelijks de vraag krijgt of de gegevens nog kloppen en het belangrijk is iedere dag in te vullen<br> :date: __2020-07-09 20:12:11__
+
 > Ik ben gestopt met invullen omdat het onmogelijk is om aan te geven hoeveel mensen binnen een straal van vijf meter zijn gekomen. De makers van de app hebben kennelijk weinig ervaring met de realiteit van het leven.<br> :date: __2020-05-26 10:22:15__
 
 > Ik vind het heel goed dat de informatie verzameld wordt en heb tot aan vandaag meegedaan voor mij en ook voor mijn man. Ik stop er nu mee omdat het onmogelijk is in te vullen hoeveel mensen binnen een straal van 5 meter komen.<br> :date: __2020-05-12 20:57:31__
@@ -241,8 +243,6 @@ The COVID Radar app has been installed by more than **50000** times. At this tim
 > Vragen zijn gedateerd en veel te beperkt. Ik werd namelijk 4 weken geleden ziek en had alle symptomen, na een bezoekje aan Noord Italië. Lijkt me interessante informatie maar kan dat nergens in de app kwijt. De App heeft weinig meerwaarde... Niet installeren.<br> :date: __2020-04-06 16:03:56__
 
 > Erg summier. Ik zou juist graag de klachten over de afgelopen periode willen omschrijven. Die begonnen op 9 maart, maar zijn nu vrijwel over. Voor mij dus niet zo zinvol deze app.<br> :date: __2020-04-04 12:57:31__
-
-> Super dat dit in kaart wordt gebracht. Mijn klachten waren actueel tot week geleden, zijn nu deels in remissie. Heeft dus geen zin om dit in te vullen omdat het vertekend beeld geeft. Zou misschien toegevoegde waarde kunnen hebben om ook klachten in remissie te bevragen.<br> :date: __2020-04-03 23:14:32__
 
 
 

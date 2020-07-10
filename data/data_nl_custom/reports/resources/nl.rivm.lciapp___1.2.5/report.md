@@ -168,6 +168,8 @@ The RIVM LCI-richtlijnen app has been installed by more than **50000** times. At
 <img src="4_star_reviews_wordcloud.png" alt="nl.rivm.lciapp 4 reviews"/>
 </p>
 
+> wel goed<br> :date: __2020-07-08 23:18:55__
+
 > Heel overzichtelijk.<br> :date: __2020-07-05 11:03:44__
 
 > Als ik op het startscherm "Publieksinformatie" aanklik vind ik niets over Covid-19. Deze informatie kan ik alleen bereiken via het volgende traject: "Richtlijnen & Draaiboeken - COVID 19 - Gerelateerde informatie - Publieksinformatie RIVM.nl". Een beetje omslachtig. Verder vind ik het een goede en overzichtelijke app.<br> :date: __2020-06-30 13:02:17__
