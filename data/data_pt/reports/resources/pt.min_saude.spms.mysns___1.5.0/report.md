@@ -199,6 +199,8 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <img src="4_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 4 reviews"/>
 </p>
 
+> Agora que já consegui entrar com a ChaveMovelDigital (que não tinha activa) já funciona!!!!<br> :date: __2020-07-16 12:20:38__
+
 > Mysns paro<br> :date: __2020-04-15 17:46:57__
 
 > Fixe<br> :date: __2020-04-05 13:41:52__
@@ -216,9 +218,6 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 > como posso marcar consulta de saude horal?<br> :date: __2019-05-19 22:40:36__
 
 > Considero esta aplicação de grande utilidade.<br> :date: __2018-10-26 22:33:36__
-
-> Falta ainda lista de espera de cirurgias , histórico médico de doenças 
-,cirurgias e consultas<br> :date: __2018-07-18 12:43:13__
 
 
 
@@ -284,7 +283,9 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <img src="1_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 1 reviews"/>
 </p>
 
-> Não consigo entrar no site e fazer qualquer pedido de medicação... quem me pode ajudar???!!!<br> :date: __2020-07-07 20:48:27__
+> Não consigo entrar no site e fazer qualquer pedido de medicação... quem me pode ajudar???!!!<br> :date: __2020-07-17 09:09:08__
+
+> Esta app apenas serve de launcher para os servicos que estão disponíveis na net.<br> :date: __2020-07-14 22:33:15__
 
 > nao funciona rubish<br> :date: __2020-07-02 21:44:57__
 
@@ -301,7 +302,5 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 > aplicacao sem utilidade alguma , neste momento nao serve para nada, ZERO.<br> :date: __2020-06-16 10:35:35__
 
 > A única coisa que parece trabalhar é o envio de relatórios de erro... App não funcional.<br> :date: __2020-06-14 20:12:51__
-
-> Nao abre<br> :date: __2020-06-03 21:34:16__
 
 

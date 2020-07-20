@@ -208,10 +208,12 @@ The MyAus COVID-19 app has been installed by more than **1000** times. At this t
 #### 3-star reviews
 
 <p align="center">
-
+<img src="3_star_reviews_wordcloud.png" alt="com.myaus 3 reviews"/>
 </p>
 
-No recent reviews available with 3 stars.
+> updates on stats are a little slow needs to be more accurate<br> :date: __2020-07-15 20:20:30__
+
+
 
 #### 2-star reviews
 

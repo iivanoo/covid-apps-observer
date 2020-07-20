@@ -1,0 +1,44 @@
+{
+    "permissions": [
+        "android.permission.INTERNET",
+        "android.permission.WAKE_LOCK",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.FOREGROUND_SERVICE",
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        "android.permission.BLUETOOTH"
+    ],
+    "activities": [
+        "md52ecc484fd43c6baf7f3301c3ba1d0d0c.AuthUrlSchemeInterceptorActivity",
+        "crc64471264127c629303.InitializerActivity",
+        "crc647ca3ac64383ede52.WelcomeActivity",
+        "crc647ca3ac64383ede52.WelcomePageConsentsActivity",
+        "crc644c829e021839fa99.SettingsWithdrawConsentsActivity",
+        "crc646606394ed7385085.GeneralErrorActivity",
+        "crc646606394ed7385085.TransmissionErrorActivity",
+        "crc64234a0fa73bf99aca.InformationAndConsentActivity",
+        "crc64234a0fa73bf99aca.LoadingPageActivity",
+        "crc64234a0fa73bf99aca.RegisteredActivity",
+        "crc64234a0fa73bf99aca.QuestionnairePageActivity",
+        "crc64eb88b827e132ab26.InfectionStatusActivity",
+        "crc640d713d83950d86f9.ENDeveloperToolsActivity",
+        "crc64e4c4ba9cdf39f437.MessagesActivity",
+        "crc645f1fbe73ebb7b3e1.ForceUpdateActivity",
+        "crc643b024e138a80d2ac.SettingsActivity",
+        "crc643b024e138a80d2ac.SettingsHelpActivity",
+        "crc643b024e138a80d2ac.SettingsAbout",
+        "crc643b024e138a80d2ac.SettingsHowItWorksActivity",
+        "crc64f98dd38067c0c88b.FormAuthenticatorActivity",
+        "crc64f98dd38067c0c88b.WebAuthenticatorActivity",
+        "crc64f98dd38067c0c88b.WebViewActivity",
+        "crc64f98dd38067c0c88b.WebAuthenticatorNativeBrowserActivity",
+        "com.google.android.gms.common.api.GoogleApiActivity"
+    ],
+    "urls": [
+        "https://www.example.com",
+        "http://schemas.android.com/apk/res/android",
+        "https://plus.google.com/",
+        "http://schemas.android.com/apk/res-auto",
+        "https://www.googleapis.com/auth/games_lite",
+        "https://www.googleapis.com/auth/games"
+    ]
+}

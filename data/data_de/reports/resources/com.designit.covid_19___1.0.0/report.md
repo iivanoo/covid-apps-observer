@@ -219,7 +219,7 @@ The COVID-19 Symptom Tracker app has been installed by more than **10000** times
 <img src="1_star_reviews_wordcloud.png" alt="com.designit.covid_19 1 reviews"/>
 </p>
 
-> Ich mache Seit 2 Monaten mit Beantworte die Fragen Aber ich Weiß nicht ob es was Bringt es steht immer noch da Wir überarbeiten derzeit die Kernzahlen wenn ich auf Aktivitäten Klicke Dreht sich lange der Kreis bis die Fragen kommen<br> :date: __2020-07-03 21:05:37__
+> Ich werde die App wieder Deeinstallieren weil hier nichts passiert seit Anfang an steht das die Zahlen überarbeitet werden die app ist zu langsam es dreht sich lange der Kreis es gab schon lange kein update mehr<br> :date: __2020-07-18 07:18:07__
 
 > Ich deinstallier das wieder..., hab keine Lust mehr. Wenn ihr unbedingt Informationen wollt, dann gebt dem Affen Zucker ;-)<br> :date: __2020-06-27 18:10:36__
 

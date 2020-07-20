@@ -165,6 +165,8 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 <img src="5_star_reviews_wordcloud.png" alt="de.xikolo.openwho 5 reviews"/>
 </p>
 
+> Best app for doctors<br> :date: __2020-07-18 17:01:19__
+
 > For me to get more information about openwho<br> :date: __2020-07-09 14:33:52__
 
 > Very nice<br> :date: __2020-07-08 07:49:46__
@@ -183,8 +185,6 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 
 > Good<br> :date: __2020-07-01 12:17:47__
 
-> It is good<br> :date: __2020-07-01 08:15:30__
-
 
 
 #### 4-star reviews
@@ -192,6 +192,8 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="de.xikolo.openwho 4 reviews"/>
 </p>
+
+> Online course class is use full<br> :date: __2020-07-17 11:52:09__
 
 > Excellent information but less attractive for the most<br> :date: __2020-07-02 17:54:08__
 
@@ -211,8 +213,6 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 
 > Good<br> :date: __2020-05-17 08:09:21__
 
-> Want to print my certificate<br> :date: __2020-05-15 02:12:18__
-
 
 
 #### 3-star reviews
@@ -220,6 +220,8 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="de.xikolo.openwho 3 reviews"/>
 </p>
+
+> Videos were not working only, so I uninstalled it.<br> :date: __2020-07-18 08:42:28__
 
 > I have finished two courses on two different date(one before midnight, another after midnight) but found same date on both while I downloaded Certificates. Why is this?<br> :date: __2020-06-11 19:18:50__
 
@@ -238,8 +240,6 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 > Very good app ..give chance to learn higher education...its very good if this app will provide job related educational studies<br> :date: __2020-05-02 15:54:16__
 
 > Good<br> :date: __2020-04-29 17:15:00__
-
-> Very interesting.<br> :date: __2020-04-29 08:44:44__
 
 
 

@@ -149,6 +149,8 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 <img src="5_star_reviews_wordcloud.png" alt="au.gov.health.covid19 5 reviews"/>
 </p>
 
+> Good app to keep people up to date about coronavirus and other things too!<br> :date: __2020-07-18 03:58:59__
+
 > Anything that can keep me updated on how we're going i'm all for.<br> :date: __2020-07-09 11:37:48__
 
 > I came see the corona people<br> :date: __2020-07-06 06:40:57__
@@ -166,8 +168,6 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 > Let's me know what is happening around Australia thanks<br> :date: __2020-06-16 05:55:34__
 
 > Very good and easy to.use Thankyou<br> :date: __2020-06-15 06:43:18__
-
-> Good tool It has lots of useful info<br> :date: __2020-06-14 10:58:40__
 
 
 
@@ -205,6 +205,8 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 <img src="3_star_reviews_wordcloud.png" alt="au.gov.health.covid19 3 reviews"/>
 </p>
 
+> Pros: good to know the official safe links here. Cons: it's really just a collection of web links, nothing more.<br> :date: __2020-07-14 00:47:47__
+
 > I'm looking for my location as my mum said there's been more cases where I live but it only gives U the choice to see Australia wide and not what U want to see I wanted to see my part of Victoria but it only covers Victoria itself and other places it would be good if it was more in depth<br> :date: __2020-07-02 17:02:12__
 
 > Only used occasionally as it is quite bitsy in that finding info isn't that intuitive. Most concerning is that finding specific details about Victoria is a link to a powerbi report that is almost impossible to navigate on a phone, the point of the app. If you want to view graphs and charts, find your local municipalities etc, then I'd suggest you head for a PC that it was built for the job. Interactive charts are a good concept but not when prepared for a PC and viewed on a phone.<br> :date: __2020-06-19 13:30:45__
@@ -222,8 +224,6 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 > An interactive app would be far more useful. INPUT Activity I want to undertake? Personal details? Employment details? Reason for activity? PROCESS Verification process. OUTPUT. Approval /Denial /More information - contact Barcode issued to applicant on approval. Applicant issued with a description of any special requirements. Eg: FIFO to travel Site - WA - NSW - WA - site Can the process be undertaken? ANS Special requirements (isolation and period and process for each state)<br> :date: __2020-05-05 12:10:07__
 
 > Laggy on the opening and update of information but enough for quick access check .<br> :date: __2020-05-05 09:48:51__
-
-> Dear Gov Oz good overall but if time ask those negative reviews e.g. force closure what system they use....keep up good work... we pray to Jesu Mary's Health bless us<br> :date: __2020-05-04 13:56:47__
 
 
 
@@ -261,6 +261,8 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 <img src="1_star_reviews_wordcloud.png" alt="au.gov.health.covid19 1 reviews"/>
 </p>
 
+> A great idea but shame we have the morons out of touch with reality running the states and country! I had this installed but with restrictions continuing no point continuing with this app!<br> :date: __2020-07-11 04:39:49__
+
 > Absolute rubbish<br> :date: __2020-07-10 12:00:01__
 
 > Often features are just links to external websites. The stats are so bad (they should include days since last community transmission and also have a running tally of how many new cases were reported each day since the beginning and also break that up by state. Total cases is not very informative especially if you don't know previous totals in the past<br> :date: __2020-07-10 05:22:54__
@@ -278,7 +280,5 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 > Since you have updated this app there are now no more new case numbers for states for the day the most important information is missing.<br> :date: __2020-06-07 08:58:11__
 
 > Was totally changed in the update ; how bloody stupid. Idiotic.<br> :date: __2020-06-07 01:05:56__
-
-> Probably the most b\*\**sh\*\* app ever created. Shame on you gov.<br> :date: __2020-06-06 01:20:45__
 
 

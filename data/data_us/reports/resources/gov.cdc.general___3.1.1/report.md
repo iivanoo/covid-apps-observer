@@ -188,6 +188,10 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 <img src="5_star_reviews_wordcloud.png" alt="gov.cdc.general 5 reviews"/>
 </p>
 
+> Informative<br> :date: __2020-07-11 11:03:54__
+
+> It tells information about everythin<br> :date: __2020-07-11 00:53:43__
+
 > Keeps you up-to-date<br> :date: __2020-07-09 16:33:18__
 
 > Perfect awesome<br> :date: __2020-07-07 11:03:32__
@@ -203,10 +207,6 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 > Great amp<br> :date: __2020-06-20 02:01:10__
 
 > Can't live without it!<br> :date: __2020-06-19 16:13:02__
-
-> Good for beginners. I like the full site.<br> :date: __2020-06-19 02:42:19__
-
-> Best Source For True Information<br> :date: __2020-06-14 16:56:20__
 
 
 
@@ -300,6 +300,8 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 <img src="1_star_reviews_wordcloud.png" alt="gov.cdc.general 1 reviews"/>
 </p>
 
+> it doesn't work<br> :date: __2020-07-12 22:33:13__
+
 > Not a tracker<br> :date: __2020-07-05 23:23:48__
 
 > 99 harmless . Trump said<br> :date: __2020-07-05 22:07:02__
@@ -317,7 +319,5 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 > We need a national plan for contact tracing! The technology is now on our phones but the government is doing nothing<br> :date: __2020-06-20 15:58:23__
 
 > App can not be moved to external SD memory<br> :date: __2020-06-15 13:48:02__
-
-> Does not contain digital contact tracing<br> :date: __2020-06-13 19:29:19__
 
 

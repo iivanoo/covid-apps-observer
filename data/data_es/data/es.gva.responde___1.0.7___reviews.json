@@ -1,5 +1,17 @@
 [
     {
+        "reviewId": "gp:AOqpTOEzqDoTqrCn3IA5xbt5NlFLLBMVMMNiovu_sFyFPW3DFTIGW9IKd_ad1cKnBhXVJDrkWW1XmShidqKq3Q",
+        "userName": "Fernando Belarte",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gj9PcQnAgCJqf7hBHMZtsU6RDwpAvy5Mxe-I_dynQ",
+        "content": "El desorden de su contenido hace que sea poco \u00fatil",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.0.7",
+        "at": "2020-07-19 13:20:03",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOH7UJ8vuq8F9Yj99izNkoMWF2nONxf2CKGr8RVGZQXs43N5XwbCIYRks3ela0iD8nyo-K8TPk9lzdGKYw",
         "userName": "Juanjose Pedraja",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gi_0jqw-uTq2KSQnGMk9ZXLqYfDGbOaj2GHZZzk3Q",
@@ -41,7 +53,7 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Girzrq9Jk8LIOXh4P_jQoNGN427bTS94PbUytsaKw",
         "content": "Pues gratamente sorprendida. Contiene informacion importante y bastante aclaratoria en esta locura de desescalada en la que no se aclara ni dios .... No le doy las 5 estrellas porque, bajo mi punto de vista, creo que le falta incluir las cifras diarias con la evoluci\u00f3n de los contagios tanto de Espa\u00f1a como de la comunidad.",
         "score": 4,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "1.0.4",
         "at": "2020-05-24 13:47:13",
         "replyContent": null,
@@ -161,7 +173,7 @@
         "userImage": "https://lh3.googleusercontent.com/-4dZ5sL80A_U/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmEbc_nS8i-7wiyN3pqGPBWaZS5pw/photo.jpg",
         "content": "Pinches donde pinches no sale nada, s\u00f3lo una pantalla en blanco. Buena idea s\u00f3lo falta que funcione",
         "score": 1,
-        "thumbsUpCount": 4,
+        "thumbsUpCount": 5,
         "reviewCreatedVersion": "1.0.4",
         "at": "2020-04-30 22:54:24",
         "replyContent": null,

@@ -119,6 +119,8 @@ The CONFINAPP app has been installed by more than **10000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="cat.gencat.mobi.confinApp 5 reviews"/>
 </p>
 
+> Información detallada de utilidad sobre lo relacionado con Covid_19, desde ayudas a última hora<br> :date: __2020-07-17 13:40:23__
+
 > Buena<br> :date: __2020-06-16 16:01:27__
 
 > Molt bona<br> :date: __2020-05-04 22:06:55__

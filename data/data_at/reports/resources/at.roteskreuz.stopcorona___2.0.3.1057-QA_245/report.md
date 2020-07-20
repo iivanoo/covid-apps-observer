@@ -147,25 +147,25 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 <img src="5_star_reviews_wordcloud.png" alt="at.roteskreuz.stopcorona 5 reviews"/>
 </p>
 
-> Jetzt verwendet die App die Exposure Notification API von Apple und Google. Da die App bzgl. Datenschutz völlig unbedenklich ist, gilt für mich das Motto "Hilfts ned, schods ned"<br> :date: __2020-07-10 07:52:39__
+> Die Idee selbst ist begrüssenswert. Ich denke, dass der Ärger aus der ersten Zeit nun vorüber ist. Es wäre jedoch toll, wenn es so eine Art Test Modus gäbe, der einem zeigt, dass es geht. Ob die App nun funktioniert oder nicht kann ich nicht sagen. Sie macht auf jeden Fall keine Probleme und hält sich an den Datenschutz.<br> :date: __2020-07-20 08:31:46__
 
-> Solange Quellcode nicht öffentlich ist nur ein Stern. Macht was Epiccenter.works vorschlägt für Datenschutz.<br> :date: __2020-07-09 12:27:48__
+> Gute Idee. Seit der Implementierung der Apple/Google Schnittstelle gibt es keine Probleme mehr. Immer aktiv. Das war vorher leider nicht der Fall. Wenn man das Kontakttagebuch wie vorher sehen könnte wäre das gut.<br> :date: __2020-07-19 07:50:53__
 
-> Sehr gut<br> :date: __2020-07-09 10:45:41__
+> Simple und funktional.<br> :date: __2020-07-19 06:07:06__
 
-> Automatischer Handshake scheint jetzt zu funktionieren. Leider sehe ich nirgends wie viele Kontakte zu Personen ich hatte, um zu verifizieren ob es klappt.<br> :date: __2020-07-08 09:45:12__
+> Update 17.07.2020. Nachdem ich nun weiss, daß man unter Google-Einstellungen die Anzahl der Handshakes sieht und ein Test positiv Verlaufen ist, revidiere ich meine Meinung und werde die App ab jetzt nutzen. Die Entwickler hätten ruhig offensiver kommunizieren können, wie man die Anzahl der Handshakes ansehen kann...<br> :date: __2020-07-18 19:41:16__
 
-> Funktioniert und wird gemäß Protokoll in meinem Umfeld auch genutzt.<br> :date: __2020-07-08 07:24:57__
+> Funktioniert!<br> :date: __2020-07-17 13:51:54__
 
-> Sehr Gute App zum Selbstschutz und den der Anderen VOR VERBREITUNG Der Tödlichen LUNGENKRANKHEIT SARS - COVID 19<br> :date: __2020-07-08 06:05:50__
+> Super App!<br> :date: __2020-07-15 14:36:26__
 
-> Gut<br> :date: __2020-07-07 18:32:22__
+> Seit dem Update auf die neue Schnittstelle sind die handshakes mit meinem Firmenhandy (iOS) endlich automatisch möglich. Auch wenn die gespeicherten Begegnungen nur schwerer einsehbar sind alles zuvor... Jedenfalls eine gute Sache, die in die Breite getragen werden sollte<br> :date: __2020-07-15 06:09:15__
 
-> Fünf Sterne, weil die breite Nutzung der App enorm wichtig, für manchen vielleicht sogar lebenswichtig sein kann. -- Handshake sollte unbedingt automatisch erfolgen. -- Für Laien auf der Hauptseite deutlich erkennbar anzeigen, ob alle Bedingungen erfüllt sind (grüner Haken für Bluetooth, grüner Haken für Standort, ...) -- Wieso ist Berechtigung für Standort erforderlich? Bluetooth funktioniert eh nur auf 10 Meter. Wenn beide Telefone innerhalb dieses Bereichs sind --> Handshake<br> :date: __2020-07-07 16:23:27__
+> Funktioniert seit der Nutzung des Covid-19 Kontakt Protokolls von Google/Apple wunderbar und schlägt sich auch kaum auf die Akku Nutzung nieder. Aufgrund der geringen Verbreitung in der Bevölkerung täglich nur wenige Kontakte, aber bei der Fahrt in den Öffis werden doch Kontakte erfasst. Eine sinnvolle Ergänzung zum Abstand halten, dort wo es eben nicht möglich ist, um andere Menschen nicht zu gefährden.<br> :date: __2020-07-14 20:14:26__
 
-> Geht in Ordnung<br> :date: __2020-07-07 15:18:35__
+> Die neueste Version funktioniert hervorragend und hat alle "Kinderkrankheiten" beseitigt.<br> :date: __2020-07-14 20:03:41__
 
-> Sollte man haben! Die App sollte man als Österreicher der unter Menschen unterwegs ist auf jeden Fall aktuell haben. Datenschutz scheint gewährleistet und die App funktioniert mittlerweile wohl ausreichend zuverlässig<br> :date: __2020-07-07 14:57:25__
+> Okay<br> :date: __2020-07-14 11:03:23__
 
 
 
@@ -175,6 +175,18 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 <img src="4_star_reviews_wordcloud.png" alt="at.roteskreuz.stopcorona 4 reviews"/>
 </p>
 
+> Automatischer Handshake deaktiviert sich ständig.<br> :date: __2020-07-17 08:41:56__
+
+> Funktioniert , bis auf den 2 Meter Radius es werden auch wesentlich weiter entfernte Handys registriert (auch durch Wände).<br> :date: __2020-07-16 19:54:11__
+
+> App läuft seit 1 Woche problemlos. Allerdings werden die Tage mit den erfassten ID's chaotisch angezeigt, warum das? Da wurde eine chronologische Auflistung der Tage mehr Sinn machen.<br> :date: __2020-07-15 19:58:07__
+
+> Da das Kontakttagebuch nicht sichtbar ist, weiß ich nicht, ob die App jetzt nach der Neuinstallation wirklich funktioniert. Finde die Idee gut - wichtig wäre, ein gutes Erklärvideo dazu zu drehen und zu verbreiten. Viele wissen nicht, dass und wie die automatische Energiesparfunktion deaktiviert werden muss und was sonst noch beachtet werden muss.<br> :date: __2020-07-15 15:29:11__
+
+> Danke - Viel Erfolg !!!<br> :date: __2020-07-14 11:07:19__
+
+> Automatischer Handshake deaktiviert sich immer wieder von selbst. Edit: Fazit nach einem Monat Nutzung. Kein einziger digitaler Handshake. Tolle Idee. Bringt nur nix, wenn's keiner verwendet. App wird wieder deinstalliert. 28.06. Wieder mal installiert. Stürzt beim starten ab. 11.07. Funktioniert jetzt einwandfrei.<br> :date: __2020-07-12 08:35:00__
+
 > Update unten! Seit dem Update stürzt die App sofort nach dem Start ab. War aber ohnehin vorher schon nicht zu brauchen, da man gefühlt 50 mal am Tag den automatischen Handshake aktivieren musste, ohne den sie komplett nutzlos ist. Hätte gerne einen Betrag geleistet, aber so ist das leider sinnlos. Update: Es war nötig, die gespeicherten Daten in den App-Einstellungen zu löschen, seither funktioniert die App. Dieser Fehler gehört dringend gefixt! Ansonsten funktioniert die App gut!<br> :date: __2020-07-08 10:40:42__
 
 > Die App funktioniert derzeit.... Ich hoffe, es bleibt so.<br> :date: __2020-07-07 15:21:22__
@@ -182,18 +194,6 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 > Das letzte Update, das die spezielle Covid19 Schnittstelle von Android verwendet, hat nun auch diese App brauchbar gemacht. Der automatische Handshake funktioniert jetzt dauerhaft, eine verminderte Akkuleistung ist nicht zu bemerken. Schade nur, dass man nicht ermitteln kann, ob man bereits Kontakte gehabt hat.<br> :date: __2020-07-04 11:10:09__
 
 > Die Idee ist gut, leider mangelt es an der Umsetzung. Der automatische Handshake deaktiviert sich ständig von selbst und auch wenn er aktiviert ist, habe ich im Test mit zwei Android-Smartphones bis jetzt keinen Kontakt aufgezeichnet. Bitte analysiert mal die Funktionalität in einem Feldtest und bessert nach. Update: Automatischer Handshake funktioniert nun manchmal UPDATE: Das Problem mit dem deaktivieren wurde behoben 👍<br> :date: __2020-07-03 22:43:31__
-
-> Zeitgeschichte i<br> :date: __2020-07-03 18:25:15__
-
-> Nach dem holprigen Update läuft alles soweit. Nur man hat keine Möglichkeit mehr, zu sehen wieviele Handshakes jetzt wirklich zu Stande kommen. Das ist schade.<br> :date: __2020-07-02 23:30:45__
-
-> Der Hauptkritikpunkt von vielen ist in der aktuellen Version jetzt inkludiert. Der automatische Handshake geht jetzt unter Android und iOS. Danke für das entsprechende Framework liebe OS Hersteller. Keine Ahnung, ob die Frameworks es nicht hergeben oder es bewusst nicht eingebaut ist, dass die Anzahl der Kontakte nicht mehr angezeigt wird. Nachdem das Virus ein ziemliches Chamäleon ist, sollte die Symptomabfrage vielleicht ein bisschen erweitert werden.<br> :date: __2020-07-02 15:39:53__
-
-> Woher weiß man ob es funktioniert?<br> :date: __2020-07-01 20:42:43__
-
-> Wenn ma a potzn Handy hot braucht ma sich net wundern wenn es net geht. APP do don no a App don glei die nächste. Jeder hot so fü klumpatt am Handy obm das irgent aApp net funktioniert des is so. TYPISCH immer des BABYVERHALTEN.<br> :date: __2020-06-30 19:32:05__
-
-> Passt alles<br> :date: __2020-06-30 19:10:17__
 
 
 
@@ -203,25 +203,25 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 <img src="3_star_reviews_wordcloud.png" alt="at.roteskreuz.stopcorona 3 reviews"/>
 </p>
 
+> Die Benachrichtigung wenn Bluetooth deaktiviert ist ist nicht wegzubekommen ohne die Benachrichtigungen komplett zu deaktivieren, das nervt! Bitte macht für diese eine extra Kategorie und hört auf den User zu bevormunden!<br> :date: __2020-07-18 19:22:49__
+
+> Ich glaube es gibt bei vielen ein Verständnisproblem. Die einsehbaren Aktivitäten sind nicht die Handshakes mit anderen Geräten, sondern die Serversynchronisationen, bei denen überprüft wird, ob man Kontakt zu Infizierten hatte. Die Handshakes sind unsichtbar. Deswegen braucht man sich auch nicht wundern, wenn man jede Stunde einen Eintrag hat, obwohl man allein in der Wohnung sitzt. Das gehört wirklich besser erklärt.<br> :date: __2020-07-18 17:37:15__
+
+> Offenbar muss die Standortbestimmung eingeschaltet sein. Ist das korrekt? Gibt es da keine Lösung ohne Standortbestimmung? Immerhin wird der Standort von der App selbst nicht ausgelesen. Ich schalte aus Gründen der Datensparsamkeit die Standortbestimmung nur dann ein, wenn ich sie brauche. Möchte nicht, dass irgendwelche Apps im Hintergrund mittracken. Deshalb ist die Stopp-Corona-App für mich derzeit keine Option, so sehr ich ansonsten auch die grundsätzliche Idee und Umsetzung befürworte.<br> :date: __2020-07-17 17:16:18__
+
+> Das Protokoll von den Kontakten sind nicht nach Datum gelistet. Ausserdem wäre es gut zu sehen wo/ wann man einen Kontakt hatte<br> :date: __2020-07-16 19:58:18__
+
+> Hat immer wieder Ausfälle. Der Support rät nur "neu installieren". Für ein verlustfreies Contact Tracing muss sich da noch einiges tun.<br> :date: __2020-07-15 09:04:50__
+
+> Bluetooth deaktiviert Leider schaltet die App das Bluetooth bon meinem Handy aus, weswegen meine anderen Apps (Smartwatch u.a.) mir regelmäßig Probleme machen. Sonst super!<br> :date: __2020-07-12 17:43:20__
+
+> Seit dem letzten Update ist der Akku Verbrauch in Ordnung. Falsche Kontakte wurden seither auch nicht mehr angezeigt, aber leider sonst auch nichts. Die App bietet keinerlei Feedback, ob sie funktioniert. Gut wäre eine Liste der letzten 10-20 Kontakte, die z.B. aufgrund von zu kurzer Zeitspanne ignoriert wurden. Meinetwegen nur mit Zeitpunkt und ohne ID.<br> :date: __2020-07-12 14:46:12__
+
 > Mit einem älteren Handy kann man die App nicht downloaden<br> :date: __2020-07-10 12:03:42__
 
 > Die Idee ist gut, aber unter Android 9 muss man die App immer neu starten, läuft nicht im Hintergrund. Bei der neuen Version kann man nicht überprüfen ob die App im Hintergrund läuft, und der Akku Verbrauch ist gestiegen.<br> :date: __2020-07-06 18:44:38__
 
 > Ich habe schon 2 Mal Push Benachrichtigung erhalten, konnte aber nur den halben ersten Satz lesen, beim wegwischen war die Nachrichten verschwunden und in der App ist nichts ersichtlich<br> :date: __2020-07-02 18:34:30__
-
-> Eben erst gestartet<br> :date: __2020-07-01 23:59:40__
-
-> An sich eine suoer App, nur leider fehlt die eigene Einsicht um das Vertrauen zu stärken. Beispielsweise wie viele andere IDs ich schon empfangen habe, die die app verwenden. Das ist eine Anonyme Info die für jeden zugänglich sein sollte<br> :date: __2020-07-01 22:33:23__
-
-> Die Infos sind teils unklar. Oft hat man Zweifel ob sie überhaupt funktioniert oder funktionieren kann.<br> :date: __2020-07-01 18:06:27__
-
-> Die Vorversion hätte 5 Sterne bekommen, weil in der obersten Bildschirmzeile ein Kreuz angezeigt hat dass die Rotkreuz App im Hintergrund läuft. Jetzt sehe ich das nicht mehr und habe auch keine Möglichkeit gefunden das einzustellen. Jetzt weiß ich daher nicht, ob sie aktiv ist oder nicht. Das ist sehr schade.<br> :date: __2020-07-01 13:27:12__
-
-> Funktioniert bei mir nicht Idee ist super aber sinnlos wenn Kontakt (e) nicht automatisch gespeichert werden. Verwende die App seit Anfang an.... Und gebe nicht auf, das es irgendwann doch klappt;)<br> :date: __2020-07-01 12:31:22__
-
-> Woher weiß ich ob die App aktiv ist ohne Benachrichtigungssymbol? Die kann aktiv sein, oder aber auch nicht. Da gehört unbedingt ein Statussymbol her!!!<br> :date: __2020-06-30 14:02:12__
-
-> Jetzt gilt plötzlich 5min als krit. Grenze und man sieht überhaupt nix mehr an Kontakten. SO kann man Kritik an mangelnder Kontaktfeststellung etc. auch entgehen! :( - Deinstalliert...<br> :date: __2020-06-30 11:21:29__
 
 
 
@@ -230,6 +230,14 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="at.roteskreuz.stopcorona 2 reviews"/>
 </p>
+
+> Ich habe die App nun seit Ende Juni aktiviert. Was auffällt ist, dass Kontakte aufgezeichnet werden, wenn ich zu Hause bin, obwohl die anderen Personen in meinem Haushalt die App nicht verwenden. Geschätzt sind das 3/4 der ID's. Da stimmt was nicht.<br> :date: __2020-07-15 09:44:32__
+
+> Es ist nicht nach zu vollziehen, dass ich nicht die deutsche und die österreichische App gleichzeitig laufen lassen kann, wenn ich dich viel in Österreich unterwegs bin und dort viele Deutsche und Österreicher sind?<br> :date: __2020-07-14 06:28:02__
+
+> Ich würde gerne das Kontaktprotokoll sehen. Im Moment sieht es ja do aus, als würde das Gerät gar keine Kontakte aufzeichnen, obwohl der digitale. Handshake eingeschaltet ist und ich das Gerät immer bei mir trage.<br> :date: __2020-07-11 17:11:44__
+
+> Nach dem Update funktioniert die App nicht mehr. Es ist nötig, die Daten der App zu löschen (oder deinstallieren und neu installieren) damit sie wieder läuft. Die App hat jetzt den neuen Handshake. Ob die App damit besser funktioniert, kann ich nicht beurteilen, da es scheinbar keine einsehbare Liste gibt. Bitte mehr Info anzeigen! Die meisten europäischen Apps setzen auf den Standard DP-3T. Wäre doch sinnvoll, dass gerade jetzt in der Urlaubszeit die Apps auch untereinander funktionieren!<br> :date: __2020-07-11 11:05:33__
 
 > Jetzt braucht man also einen eingeschalteten Standort und Bluetooth... Der Standort saugt bei mir erstens total viel Akku und zweitens möchte ich meinen Standort nicht ununterbrochen preisgeben. Ihn immer ein und auszuschalten ist aber eine erhebliche Fehlerquellen. Ich fände eine Flächendeckenden Nutzung der App wirklich wichtig, aber so nutzt sie mir nichts.<br> :date: __2020-07-09 08:04:47__
 
@@ -243,14 +251,6 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 
 > Wie soll ich wissen, ob dieses Ding überhaupt funktioniert und Kontakte sammelt? Mehrere Sterne Abzug für miserable Usability. Das Beratungsunternehmen hätte ich auch gerne, dass diese App entwickelt. Da kann das Rote Kreuz nix dafür.<br> :date: __2020-07-03 07:09:30__
 
-> Ich wollte die App neben der deutschen Corona-Warn-App nutzen, weil ich demnächst nach Österreich in den Urlaub fahre. Es funktioniert aber leider immer nur eine App.<br> :date: __2020-07-01 21:17:37__
-
-> Ob die App ihre Funktion erfüllt weiß ich nicht. Was ich aber weiß ist: der Akkuverbrauch stieg nach der Installation um ein Vielfaches. App deinstalliert und der Akku hält wieder dreimal so lange. Daher unbrauchbar für mich, schade. Einen zweiten Stern für "gut gemeint".<br> :date: __2020-06-30 18:11:20__
-
-> Funktioniert nicht, muss jedes Mal neu aus dem Google Playstore geöffnet werden, Fehlermeldung<br> :date: __2020-06-30 16:21:37__
-
-> seit dem jüngsten update wird nicht mehr angezeigt, ob's kontakte gab - finde ich nicht gut... wie kann man erkennen, ob die app funktioniert? Tolle Idee, die gut umgesetzt werden sollte - damit viele Menschen diese nutzen. Wir brauchen keine Papierlisten mit Teilnehmern...<br> :date: __2020-06-30 08:24:04__
-
 
 
 #### 1-star reviews
@@ -259,24 +259,24 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 <img src="1_star_reviews_wordcloud.png" alt="at.roteskreuz.stopcorona 1 reviews"/>
 </p>
 
-> lässt sich bei mir erst gar nicht installieren!<br> :date: __2020-07-09 23:10:20__
+> Lässt sich nicht downloaden<br> :date: __2020-07-19 22:45:35__
 
-> Ich kann mich nicht anmelden - das "fertig" Kästchen bleibt hellgrau. Muss es wieder deinstallieren...<br> :date: __2020-07-09 23:04:24__
+> Funktioniert nicht ... 4 Freunde alle App installiert mehr als 3 Stunden zusammen ... App aktiv ! Wir alle haben Samsung (Note10+,M30s,S20Ultra) mit Android 10 mit aktuellen Security-Patch. KEINE Treffer! Somit irgendwie sinnloser Akkuverbrauch - Deinstallation!<br> :date: __2020-07-19 21:22:49__
 
-> Funktioniert nicht, obwohl ich der App uneingeschränkte Akku- und Datennutzung zugeteilt habe, damit sie ohne Hindernis im Hintergrund arbeiten kann, sowie auch Bluetooth und Standortfreigabe permanent aktiviert sind, werden dennoch keine Überprüfungen durchgeführt. Laut den Google-Einstellungen war die letzte Überprüfung vor 3 Tagen. Das macht so leider wenig Sinn.<br> :date: __2020-07-09 22:34:39__
+> Funktioniert nicht, keine Handshakes trotz mehrmaligen Versuchen. Der Fragekatalog bei bestätigter Erkrankung ist auch nonsens, zuerst bestätigt man typische Symtome, danach ob es eine plausible Erklärung dafür gibt - nona... Edit 19.07.2020: nun werden täglich mehrere Handshakes angezeigt. Problem ist nur: ich sitz zu den Zeitpunkten alleine zuhause, kein 2. Handy mit der App ist in der Nähe!??? Und solchen Schrott empfiehlt man allen Ernstes seitens der Regierung...<br> :date: __2020-07-19 18:08:29__
 
-> Verstehe ich die App nicht? Nach der Installation auf zwei Geräten im selben Haushalt, hat die App zwar Anfragen durchgeführt oder erhalten(???), aber keinen einzigen Treffer oder Schlüssel protokolliert. Was immer Treffer und Schlüssel für den Benutzer für eine Bedeutung haben. In der Hilfe steht zu den beiden Begriffen kein Wort. Z.z. habe ich kein Vertrauen das die App wirklich macht was sie soll.<br> :date: __2020-07-09 21:09:27__
+> Diese App stinkt nach trüffel<br> :date: __2020-07-18 21:33:15__
 
-> Kann nicht gleichzeitig zusammen mit deutscher Corona App verwedet werden. Das ist speziell im Grenzgebiet ganz schlecht<br> :date: __2020-07-09 09:20:56__
+> Sofort wieder gelöscht - verlangt, dass Standortermittlung eingeschaltet ist! Wird zwar damit argumentiert, dass in Android Bluetooth mit GPS zusammenhängt, ist aber nur ein Google Trick, um im Hintergrund mit Android Systemapps GPS-Daten zu sammeln. Verwende seit Jahren keine Standortermittlung, und Bluetooth funktioniert und findet auch andere Geräte problemlos!<br> :date: __2020-07-18 09:36:25__
 
-> Bei mit funktioniert das mit der Dan nicht!<br> :date: __2020-07-08 18:44:40__
+> FAKE<br> :date: __2020-07-17 11:11:06__
 
-> Ewig hat die App nicht funktioniert, feststellbar daran, dass keine manuellen Shakes möglich waren. Jetzt läuft alles automatisch, erfasste Shakes werden aber nicht angezeigt, so dass ich nicht weiß, ob die App nun funktioniert. Ich bezweifle es nach meinen Erfahrungen. Sehr ärgerlich, ich bin ein Unterstützer der Idee. Aber so geht das nicht. Bitte die deutsche App kopieren und veröffentlichen. Meine deutschen Freunde sind mit der deutschen App sehr zufrieden.<br> :date: __2020-07-08 16:30:51__
+> Ich habe die app vor längerer zeit installiert und hielt mich dadurch für geschützt - allerdings bekomme ich jedes mal wenn ich die app öffne (also so etwa alle 6 Wochen mal) eine meldung dass die aktuelle version nicht mehr unterstützt wird und ich ein update installieren soll... so etwas muss automatisch gehen damit man sich durch eine funktionslose app nicht in falscher Sicherheit wiegt. Ich erwarte mir automatische updates und auch ohne ständig die app zu checken eine verlässliche warnung I<br> :date: __2020-07-16 12:57:26__
 
-> Leider funktioniert die App nicht auf älteren Handy Modellen oder älterer Software. Dies sollte geändert werden! Nicht jeder hat die Möglichkeit das neueste Smartphone zu haben. Ich kenne viele Menschen, die die App gerne nutzen würden aber aufgrund der nicht kompatibelen Software laden können. Darum nur ein Stern!<br> :date: __2020-07-08 08:39:20__
+> Irgendetwas stimmt da nicht wenn ich durchgehend 24 Stunden alleine in einer Wohnung ohne Kontakt zu jemand anderen bin wie kommen dann die 4 Kontakte die mir angezeigt werden auf der App zustande??<br> :date: __2020-07-15 21:53:07__
 
-> Obwohl bt aktiviert ist zeigt die App an Problem mit der expositonsbenachrichrigung.<br> :date: __2020-07-07 21:15:59__
+> App stürzt immer wieder auf und Handy häng sich immer wieder auf nach Neustart von Handy und wenn man die App öffnet hängt sich die App auf oder Handy.<br> :date: __2020-07-15 13:43:32__
 
-> Fragt noch immer nach Standortberechtigung. hauen Sie sich über die Häuser.<br> :date: __2020-07-07 10:02:04__
+> Einfach Funktion sind Sche..e, will eine andere Corona App deaktivieren. Ich bin beruflich über Ländergrenzen unterwegs und würde eigentlich 3 Apps in verschiedenen Ländern brauchen. Kann man nicht einfach in der EU eine App benutzen? Jeder muss halt sein eigenes Süppchen kochen. Denkt Mal weiter und Länderübergreifende!<br> :date: __2020-07-15 11:16:05__
 
 

@@ -174,6 +174,8 @@ No recent reviews available with 4 stars.
 <img src="1_star_reviews_wordcloud.png" alt="com.ambulis.aphm.covid 1 reviews"/>
 </p>
 
+> C'est que des quons .ils veulent toute les infos même le compte banquere pour remplire les poches de macron .<br> :date: __2020-07-19 10:47:24__
+
 > rien ne marche . pas adapté à mon appareil. On me demande un numéro de dossier sans explication derrière...? Bref c'est nul<br> :date: __2020-06-02 22:14:05__
 
 > J'ai pas de numéro de dossier?<br> :date: __2020-06-02 16:38:05__
@@ -191,7 +193,5 @@ No recent reviews available with 4 stars.
 > Il n'y a même pas qq mots la présentant!!! 2 ou 3 phrases ne seraint pas superflues! But ? Moyens utilisés ? Opensource ? Un minimum pour un app santé et sécurité amha!<br> :date: __2020-05-26 11:26:44__
 
 > Tres nul nul<br> :date: __2020-04-30 20:06:11__
-
-> Nul<br> :date: __2020-04-16 20:04:52__
 
 

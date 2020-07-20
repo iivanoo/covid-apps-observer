@@ -128,6 +128,8 @@ The WHO Info app has been installed by more than **100000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="org.who.infoapp 5 reviews"/>
 </p>
 
+> Google play<br> :date: __2020-07-18 22:21:48__
+
 > Good job<br> :date: __2020-06-30 16:55:28__
 
 > jafure<br> :date: __2020-06-16 06:19:43__
@@ -146,8 +148,6 @@ The WHO Info app has been installed by more than **100000** times. At this time,
 
 > Cumilla Debidwer Gunaighar<br> :date: __2020-06-06 15:19:02__
 
-> করুনা বাই রাজ এলাটডামলো<br> :date: __2020-06-05 23:02:23__
-
 
 
 #### 4-star reviews
@@ -155,6 +155,10 @@ The WHO Info app has been installed by more than **100000** times. At this time,
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="org.who.infoapp 4 reviews"/>
 </p>
+
+> all the demand who it is hey<br> :date: __2020-07-20 15:10:48__
+
+> Using this more and more. After the cdc called religion an essential. I don't know what whackadoodle besides trump/pence is messing with the info. Thank you for being a more logical alternative. As usa is being pulled back by whackadoodles and foreign commies.<br> :date: __2020-07-17 03:09:14__
 
 > Nice<br> :date: __2020-07-08 17:19:26__
 
@@ -171,8 +175,6 @@ The WHO Info app has been installed by more than **100000** times. At this time,
 > Its good app. Easy to operate<br> :date: __2020-04-27 14:08:23__
 
 > It's so nice app<br> :date: __2020-04-25 14:50:48__
-
-> Thank you, good app.<br> :date: __2020-04-25 03:11:24__
 
 
 

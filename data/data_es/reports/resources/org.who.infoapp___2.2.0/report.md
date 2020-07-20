@@ -128,7 +128,7 @@ The WHO Info app has been installed by more than **100000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="org.who.infoapp 5 reviews"/>
 </p>
 
-> Ok<br> :date: __2020-07-10 07:34:35__
+> Que bueno que te gusta tanto e ste juego<br> :date: __2020-07-11 06:22:27__
 
 > Gracias por la aplicación<br> :date: __2020-06-08 09:56:21__
 
@@ -174,6 +174,8 @@ The WHO Info app has been installed by more than **100000** times. At this time,
 <img src="3_star_reviews_wordcloud.png" alt="org.who.infoapp 3 reviews"/>
 </p>
 
+> Un poco buena mas o meno<br> :date: __2020-07-16 04:50:52__
+
 > Lautaro18<br> :date: __2020-05-13 06:07:11__
 
 
@@ -196,6 +198,8 @@ The WHO Info app has been installed by more than **100000** times. At this time,
 <img src="1_star_reviews_wordcloud.png" alt="org.who.infoapp 1 reviews"/>
 </p>
 
+> ¡HORRIBLE!<br> :date: __2020-07-15 00:26:33__
+
 > Esta en inglés que porquería de aplicación por eso 1 estrella<br> :date: __2020-05-29 00:06:33__
 
 > Pues algo util para algunas cosas<br> :date: __2020-05-24 03:39:19__
@@ -213,7 +217,5 @@ The WHO Info app has been installed by more than **100000** times. At this time,
 > Esta en ingles no sirve para nada<br> :date: __2020-05-09 22:28:50__
 
 > Haber si se toman la molestia de publicar en español latinoamericano, mnf<br> :date: __2020-05-07 03:04:32__
-
-> WHO officials please believe the Spanish dislike of this APP. Many of us who are Spanish-speaking and English is a barrier that makes it difficult to understand the information.<br> :date: __2020-05-07 02:59:27__
 
 

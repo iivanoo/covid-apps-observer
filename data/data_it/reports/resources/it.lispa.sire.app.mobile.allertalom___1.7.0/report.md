@@ -160,6 +160,8 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <img src="5_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 5 reviews"/>
 </p>
 
+> Ok<br> :date: __2020-07-18 18:01:45__
+
 > Molto utile<br> :date: __2020-07-03 22:31:26__
 
 > Tutto ok, fino a quando la dobbiamo usare? Fino a che trovano il vaccino?<br> :date: __2020-07-03 12:45:10__
@@ -178,8 +180,6 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 
 > Molto utile<br> :date: __2020-06-21 21:28:18__
 
-> Grazie per il vostro lavoro<br> :date: __2020-06-17 12:06:57__
-
 
 
 #### 4-star reviews
@@ -187,6 +187,8 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 4 reviews"/>
 </p>
+
+> Interessante e valida. A volte complicata apertura.<br> :date: __2020-07-10 16:38:11__
 
 > 25/6/2020: i campi "condizioni mediche rilevanti" sono comparsi tutti deselezionati e non è permesso inviare dichiarazioni senza selezionarne uno. Allo stesso tempo non è permesso fare una selezione dopo avere già inviato una dichiarazione al servizio CercaCovid. Problema risolto cancellando i dati dell'applicazione.<br> :date: __2020-06-25 15:01:47__
 
@@ -206,8 +208,6 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 
 > belke playlist e relax<br> :date: __2020-05-27 22:37:28__
 
-> Veloce e facile da usare, una volta capito il meccanismo...<br> :date: __2020-05-27 17:21:10__
-
 
 
 #### 3-star reviews
@@ -215,6 +215,8 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 3 reviews"/>
 </p>
+
+> Lavoro in uno studio odontoiatrico, noi le mascherine le togliamo hai pazienti e siamo a pochi centimetri dalla bocca con effetto aereosol e nessuno ci fa un tampone di controllo, resto molto perplessa<br> :date: __2020-07-18 18:52:01__
 
 > Sarà utile per segnalare covid ma è monotona rispondere sempre alle stesse domande tutti i giorni se non ci sono cambiamenti. Per di più l'applicazione si blocca ogni tanto con lo schermo che diventa bianco e si deve disinstallare e reinstallare tutto di nuovo....<br> :date: __2020-07-02 16:06:39__
 
@@ -234,8 +236,6 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 
 > Le domande dovrebbero essere rivolte allo stato quotidiano dell'individuo, tenere memoria per 15 giorni un eventuale sintomo scoraggia la compilazione.<br> :date: __2020-06-02 20:34:09__
 
-> Da qualche settimana che uso l app ...nel frattempo è cambiata la mia età anagrafica....Non si riesce a modificare!!!!<br> :date: __2020-05-28 15:50:44__
-
 
 
 #### 2-star reviews
@@ -243,6 +243,8 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 2 reviews"/>
 </p>
+
+> Scaricata x curiosità, mah... Ci sono domande che andrebbero migliorate, tipo in che comune lavori? Non c'è modo di fare scelte multiple un rappresentante, una guardia giurata, un corriere girano la provincia ed oltre, io ho messo dove ho la sede xò...<br> :date: __2020-07-18 16:00:53__
 
 > Questa app no piage perché io sto regione marche e sto Appignano provincia magerata<br> :date: __2020-06-18 18:07:20__
 
@@ -262,8 +264,6 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 
 > Avrei voluto usare cercacovid in quanto lavoro in Lombardia, ma essendo residente in Piemonte è impossibile registrarsi<br> :date: __2020-05-21 15:59:47__
 
-> purtroppo app inutilizzabile su dispositivi con root. Speriamo che venga permesso il suo utilizzo al più presto e a tutti<br> :date: __2020-05-17 22:20:32__
-
 
 
 #### 1-star reviews
@@ -271,6 +271,10 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 1 reviews"/>
 </p>
+
+> 2ww<br> :date: __2020-07-18 14:54:10__
+
+> Pessima. Sembra scritta da fontana ⛲ & gallera..😱 Peggio che inutile<br> :date: __2020-07-13 22:01:24__
 
 > Non riesco ad usarla, ad ogni notifica mi chiede di accettare le condizioni e di compilare il questionario ma non riesco a finire. App inutile per me! Con dispiacere la elimino<br> :date: __2020-07-10 12:30:41__
 
@@ -287,9 +291,5 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 > Svegliatevi cittadini italiani,(come ci chiamano i nostri governanti intellettuali ). Non fatevi prendere in giro è un'app al solo scopo contrario alla nostra libertà, e tantomeno alla nostra salute.<br> :date: __2020-06-23 10:10:03__
 
 > Buongiorno è possibile sapere come salvare il comune preferito e ricevere le notifiche una volta x tutte? Grazie Ma è quello che faccio ogni volta che apro l'app... non dovrebbero rimanere.... anche le notifiche le salvo ogni volta e non arrivano....<br> :date: __2020-06-19 00:09:38__
-
-> Siccome non mi collego ogni giorno, quando entro mi chiede ogni volta di registrarmi, questa utenza è di proprietà del Comune di Palazzolo sull'Oglio e io sono il Funzionario del Patrimonio e della P.C., come mai ho sempre questo disguido?? Il cel e un Samsung Galaxy A5 con sistema Android, dovrebbe essere abilitato per queste App. Mi potete dare una risposta. GRAZIE e buon lavoro.<br> :date: __2020-06-17 12:55:03__
-
-> Caccoso<br> :date: __2020-06-16 18:17:42__
 
 

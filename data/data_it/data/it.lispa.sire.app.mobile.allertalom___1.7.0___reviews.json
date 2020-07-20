@@ -1,5 +1,77 @@
 [
     {
+        "reviewId": "gp:AOqpTOG1xf6LWl2f3R_FM5aGC9Ictu3PVYXRTARvdXzJMzk5z_lahsQnhaMyAb4f0wuw9H5zZcASI7uCdOIhsA",
+        "userName": "Raffaela Mariotto",
+        "userImage": "https://lh3.googleusercontent.com/-ab9An_XFSfU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmgu5InU6EO0ClEnR1r068QL1QZFQ/photo.jpg",
+        "content": "Lavoro in uno studio odontoiatrico, noi le mascherine le togliamo hai pazienti e siamo a pochi centimetri dalla bocca con effetto aereosol e nessuno ci fa un tampone di controllo, resto molto perplessa",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.7.0",
+        "at": "2020-07-18 18:52:01",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHcwvWExD5Th9PxqSYIvC6SWZygRPU6WooG3rdQWGIgv4F0Pyt7BvpDDKJXkEJbpkCsNjX-sFBNEGHolg",
+        "userName": "Massimo Frigerio",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Ggi2PCiXqIe7Xu5AlsjOxN2yRlHQY17iQbiiguddQ",
+        "content": "Ok",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.7.0",
+        "at": "2020-07-18 18:01:45",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOH3xZisleKg_Rwb9ECnhflnrg6_ki-ZwPJppdudEHXDTjLZa0i1Sebte-bI0J1yuknI5agQi46_oEK7rA",
+        "userName": "Stefucci",
+        "userImage": "https://lh3.googleusercontent.com/-rapdcMWgTS8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmVnbcpTz-NEag7GhLkGWO1Fro4VQ/photo.jpg",
+        "content": "Scaricata x curiosit\u00e0, mah... Ci sono domande che andrebbero migliorate, tipo in che comune lavori? Non c'\u00e8 modo di fare scelte multiple un rappresentante, una guardia giurata, un corriere girano la provincia ed oltre, io ho messo dove ho la sede x\u00f2...",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.7.0",
+        "at": "2020-07-18 16:00:53",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGfFz8P6rm5WVJ2RW_xgEEO9yp0nnCyQMv482x5F0Jo1o2yodKfIf2FJeYaup0EO7d8eTBEVZawbVqC8Q",
+        "userName": "Luca Corbetta",
+        "userImage": "https://lh3.googleusercontent.com/-NoDXvdipEuI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmoQYP7cbf7LQ05dANYgWfKZznAVw/photo.jpg",
+        "content": "2ww",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.7.0",
+        "at": "2020-07-18 14:54:10",
+        "replyContent": "Ciao Luca, se hai bisogno di assistenza contattaci scrivendo i dettagli a info.allertalom@ariaspa.it!",
+        "repliedAt": "2020-07-20 15:14:40"
+    },
+    {
+        "reviewId": "gp:AOqpTOHNIHqqVYCLlTiVkmj7OQ59HQ4vgX_Q-a22eScDs08BI8qmM6-zoZEpyCPDnJlc5TYZBANYP0wn5YUKDQ",
+        "userName": "Mario Silla",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiQ54aJ3511_f7AnBkf2qult1X521miieBNHzd9Mg",
+        "content": "Pessima. Sembra scritta da fontana \u26f2 & gallera..\ud83d\ude31 Peggio che inutile",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.7.0",
+        "at": "2020-07-13 22:01:24",
+        "replyContent": "Ciao Mario, siamo spiacenti che la tua esperienza non corrisponda alle tue aspettative.Scrivici cosa non va a info.allertalom@ariaspa.it e proveremo a migliorare la tua esperienza utente!",
+        "repliedAt": "2020-07-14 08:16:50"
+    },
+    {
+        "reviewId": "gp:AOqpTOFWYA36xt5sJ4YaQMu7ESkGVetVztpnATdoCGvo6f93NdkRlrl_WBWmElnOCm356aEZ5VHICfGbamzraA",
+        "userName": "umberto beccagutti",
+        "userImage": "https://lh3.googleusercontent.com/-387405HDyhA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl1KuRDS224cA2MSmwZkz6ECRNmEA/photo.jpg",
+        "content": "Interessante e valida. A volte complicata apertura.",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.7.0",
+        "at": "2020-07-10 16:38:11",
+        "replyContent": "Grazie per la valutazione positiva Umberto!Vorremmo approfondire la difficolt\u00e0 da te riscontrata in fase di avvio... scrivi i dettagli a info.allertalom@ariaspa.it e ti aiutiamo noi!",
+        "repliedAt": "2020-07-10 16:50:02"
+    },
+    {
         "reviewId": "gp:AOqpTOEYVaxdb8g0FtJjDpTHIerC3yQXyX8X1Yife_v6bRyGqOLdrC8WGyaGAtjPBdnY9U25y0FTng9QyTGczg",
         "userName": "Mauro Radici",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhE1i-6_81fwfcUs0h7e5eouK3spNx8PD-q7ok5hg",
@@ -362,7 +434,7 @@
     {
         "reviewId": "gp:AOqpTOHzKMtbptBer4WxgOxGQ47TX7p_1J6bgb4KPrtnc7BU-oPEbUddF0NfmTrv44HCypsiGA-bTKi6OXraDA",
         "userName": "Ste Palumbo",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgCQXTknRh4gcYmU0GbQIyr5oaJmK1U2y75XuLWlQ",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhrHdslyWTfZ7aKVUuTO5P2PqvHcGrCpBPwGqkTSA",
         "content": "Eccezionale, con questo Coronavirus che ha fatto milioni di morti nel mondo",
         "score": 5,
         "thumbsUpCount": 0,
@@ -382,18 +454,6 @@
         "at": "2020-06-12 22:46:58",
         "replyContent": "grazie per la valutazione positiva!",
         "repliedAt": "2020-06-15 09:15:13"
-    },
-    {
-        "reviewId": "gp:AOqpTOHLJK48Dbv6JcNPjkYL_98WQcKQYyGaUVOgP8P2vc70wNZxMeEt5hmbdOC7SAVn88cE8-XKRf8l_h6jxg",
-        "userName": "Florentina flory",
-        "userImage": "https://lh3.googleusercontent.com/-p6WChGdudmo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckb886KXDR7lTjxNc0QcGjEeGaxhw/photo.jpg",
-        "content": "Bv",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.5.0",
-        "at": "2020-06-12 02:57:47",
-        "replyContent": "Ciao, siamo felici che tu abbia apprezzato le funzionalit\u00e0 dell\u2019App. Ti ringraziamo per la valutazione positiva.",
-        "repliedAt": "2020-06-12 10:19:08"
     },
     {
         "reviewId": "gp:AOqpTOEF7FkByuh48ekibHZEfHZWH0VDvEFppT5mERtK46EWjSteNpRDde2F4eOVtmNrSjwlteZR7QvTHHWGKQ",
@@ -2174,7 +2234,7 @@
     {
         "reviewId": "gp:AOqpTOG2-LpbdOS3l23T92EPOT1wPY4A7IIO0njUiy0yzC_x2DBKq1azDlJHEoDwvu08a4uWDDzgTTX9qOsBaQ",
         "userName": "Carlo Dell'anna",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gi6V_s9saWSB0cfcZjoSFUv1-eLCyin0YwBqHCaVg",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gg2VwA5l-34DmCctA_YEVO9vpLJGjJ6v_xS3wKTZg",
         "content": "Ottima",
         "score": 5,
         "thumbsUpCount": 0,
@@ -4069,7 +4129,7 @@
     },
     {
         "reviewId": "gp:AOqpTOGvz1b7FOwFsKS4X55U94DPsJSWtrCVJmZpqw6gExdCn0Rrp4MEXkYl2NoxmSJwClohXrO70wtmrtYX_Q",
-        "userName": "Jacopo Castaldo",
+        "userName": "Bella Zio",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gh7wNriaybrApb_eX2uoo2LcCws8Cvnd7Vs_f9mxQ",
         "content": "Si potrebbe mettere la possibilit\u00e0 di cancellare un parente (nella sezione covid19)?",
         "score": 4,
@@ -5105,7 +5165,7 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gg4DDn2l7Y01cay9BFobazMyn0hc5i-VVmpnJ2j",
         "content": "Se lo scopo dell'app \u00e8 quello di effettuare una mappatura di quella che pu\u00f2 essere stata la diffusione del contagio sul territorio, risulta inefficace poich\u00e9 si limita ad una fotografia della situazione attuale. Le domande sui sintomi sono riferite alle sole ultime 2 settimane. Io e la mia famiglia la quasi totalit\u00e0 dei sintomi (compreso, per me, la congiuntivite) li abbiamo avuto a met\u00e0 febbraio. Sarebbe pi\u00f9 utile chiedere se i sintomi si sono avuti e, in caso affermativo, chiedere quando",
         "score": 2,
-        "thumbsUpCount": 167,
+        "thumbsUpCount": 170,
         "reviewCreatedVersion": "1.6.0",
         "at": "2020-04-22 11:52:35",
         "replyContent": "Ciao Raimondo, la ringraziamo per il suggerimento.Lo invieremo al gruppo di ricerca di medici e ricercatori dell\u2019Ospedale San Matteo e dell\u2019Universit\u00e0 degli Studi di Pavia che ha ideato il questionario. Ogni contributo degli utenti \u00e8 prezioso!",
@@ -6373,7 +6433,7 @@
     },
     {
         "reviewId": "gp:AOqpTOFE_ZtKXA6dxjFtDCsjCi6KssA6FSzjR5XV-axDQz3j0vf2x_Q5bxWrbDjIROCj9c6XC-K6mEdKCbi0og",
-        "userName": "Fabio Brambi",
+        "userName": "Fabio Brambilla",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gjzi8cBp7nqC0VuQxBbrfTPgVk-VyaMH4p0sTN6og",
         "content": "Ho installato l'app su tablet Galaxy TAB A, ma quando ricevo le notifiche push e cerco di aprirle, mi appare la scritta \"servizio non disponibile\", quindi devo aprire l'app separatamente e cliccare sul link. Update 20 aprile: ora funziona meglio...",
         "score": 4,
@@ -8342,7 +8402,7 @@
     {
         "reviewId": "gp:AOqpTOEut3-q8EXoyaaaHbfDLa2RbQDwVR-Ol5Gyq_kVKa_TpPKG20_tdR333RskDXfPrJ8VP1a1v8OMe9HK2g",
         "userName": "Andrea Cremonesi",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgcRu0AvX0Yn41CF1fXHLZ7tzePvd6F0-UXHbV3LyU",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiRLgtQWnZ8RPmljvdoRj65kCRsXPEhz-X_zlncxG0",
         "content": "A che serve il controllo sul root del telefono rispetto a quanto raccolto dall'app? Vedete di toglierlo che \u00e8 meglio..",
         "score": 1,
         "thumbsUpCount": 0,
@@ -8822,7 +8882,7 @@
     {
         "reviewId": "gp:AOqpTOHs77hZ85FVAuBP7X9EXOvJXec84ojehO8-LJqI9NfEAkzuV3bUBHx98C6rAxYZYdYBv2bBVcrc-LL6Pg",
         "userName": "Lorenzo Re",
-        "userImage": "https://lh3.googleusercontent.com/-Ivvd6UJ6FlM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl1EsJ8_ZUm1GTcHTfs8AQy0OSA6w/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GitALs5FdHxwgwWSXHqAK3CRfscASAELP_1YzWJSg",
         "content": "Chi mette una stella dicendo che non funziona mente, aperta ho compilato il questionario in meno di 2 minuti. Sicuramente la grafica ricorda le prime app del 2000, ma considerando che deve andare su pi\u00f9 dispositivi possibili, anche quelli vecchi vi pu\u00f2 stare.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -10397,7 +10457,7 @@
         "userImage": "https://lh3.googleusercontent.com/-0WIbWq3hCkI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmeCX3k5kVA3AQ60ALgq7Smp-i4Eg/photo.jpg",
         "content": "L'applicazione non funziona! Arriva la notifica, ma l'app non si apre. \u00c8 stata pensata e creata con uno scopo nobile, ma se non funziona, tutto sommato direi che non ha motivo di esistere. Le rare volte che si apre \u00e8 abbastanza fastidiosa la continua ricompilazione del questionario nel \"cerca Covid\". Disinstallo. Grazie.",
         "score": 1,
-        "thumbsUpCount": 292,
+        "thumbsUpCount": 293,
         "reviewCreatedVersion": "1.5.0",
         "at": "2020-04-14 16:05:29",
         "replyContent": "Ciao Antonio,siamo spiacenti che la tua esperienza non corrisponda alle tue aspettative. Lavoreremo per migliorare!",
@@ -10633,7 +10693,7 @@
     },
     {
         "reviewId": "gp:AOqpTOG_mNlkfXu-mQzCQlq_5krKvP1kk5YXNk8Zqw8Bp0N7S6dCu_yr7gSxtfdjGk0vkoPuMpgD7UHChVV5Tw",
-        "userName": "Paolo D",
+        "userName": "Google Account",
         "userImage": "https://lh3.googleusercontent.com/-iFA9RyKj_GM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckVdplluof3FLZuamHH-6Rnlx6Mhw/photo.jpg",
         "content": "Ottimo servizio.",
         "score": 4,
@@ -11234,7 +11294,7 @@
     {
         "reviewId": "gp:AOqpTOGc3RYv2U1r2jjZIV_y9AC55zvpRq3SM71cQiHe2mai8UV9lNSFpoJh9KT4NkD0onl6JKwj_u2c9f5Utw",
         "userName": "Vinicio Bodini",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gj0zsm7-HyfgXiXevEoTni3YS75vD6QhwZV0WbDrQA",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgsN9AVl9NVlekpnxSXgNWumUef6X9Xrj6ytbCNago",
         "content": "Utile in questo periodo ma andrebbe migliorata per poter avere ed utilizzare rapidamente le informazioni",
         "score": 4,
         "thumbsUpCount": 1,
@@ -11678,7 +11738,7 @@
     {
         "reviewId": "gp:AOqpTOFi2LnXW7jVErucQGXkQvJP6zMjM_tcC_cs1Zgm5KHzwAjFzfjAwYf7gX2K7X1cEEL0O50t0XscMFXoEw",
         "userName": "Nicol\u00f2 Carra",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgETj--3VPFBUd3rNmia6mnwcMzYOuc7bHClsmbaS4",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gi2NSiueCEcwLRUnbIbOlSOQ3lhLPtLb1aFQCH7zPg",
         "content": "La app \u00e8 ben strutturata, le allerte e le varie informazioni date in questo periodo di emergenza sono molto utili e costituiscono una fonte sempre affidabile di informazioni sul territorio. L'unica pecca che vorrei segnalare ma che non pregiudica affatto la mia opinione positiva su questa app \u00e8 che cliccando sulla notifica dell' allerta l'applicazione si blocca e diviene necessario riavviarla. Per il resto funziona tutto molto bene.",
         "score": 4,
         "thumbsUpCount": 7,
@@ -11938,65 +11998,5 @@
         "at": "2020-04-08 12:48:15",
         "replyContent": "Ciao Silvio, abbiamo inoltrato la tua segnalazione ai nostri sviluppatori, ti consigliamo di riprovare dopo qualche minuto che compare la notifica di avviso!",
         "repliedAt": "2020-04-15 14:12:03"
-    },
-    {
-        "reviewId": "gp:AOqpTOH9FyiNy95zcbGRzGlnjCr9S4481xNmBy2mRALtSv-no-6FOLUoJp0JiAAchtQ052SwtjGHz0cO2EPsJQ",
-        "userName": "Helmi Wimmer",
-        "userImage": "https://lh3.googleusercontent.com/-dttbvekMoGs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckiTxnL_2ZnecC-DtsnBvxeH-XB_A/photo.jpg",
-        "content": "Quasi ogni volta che voglio accedere all'applicazione d\u00e0 errore con messaggio di riprovare pi\u00f9 tardi. Arrivano i messaggi Alert, ma poi non si possono leggere... non mi sembra un bel servizio",
-        "score": 2,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.5.0",
-        "at": "2020-04-08 12:46:19",
-        "replyContent": "Ciao, se non riesci ad accedere alle notizie dalle notifiche ti suggeriamo di accedere alla sezione  info coronavirus dall'apposita sezione  avviando l'app!",
-        "repliedAt": "2020-04-16 16:17:44"
-    },
-    {
-        "reviewId": "gp:AOqpTOFbwTV7uiWoQ5Wg1rZIyYdqqSkE4df96HyI4npWgNWxVlNfCttw8tpydE73mFxGiSoBcvVnV5AyPxpzLQ",
-        "userName": "Roberto De Giorgi",
-        "userImage": "https://lh3.googleusercontent.com/-lzXh1Z9YvbE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmMsv2ahFaLLiUlHqE-rYctgT-b-A/photo.jpg",
-        "content": "Non funziona!!!...ora la disinstallo perch\u00e9 ogni volta che mandate un'allerta regolarmente non si apre e in pi\u00f9 blocca il telefono!!",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.5.0",
-        "at": "2020-04-08 12:45:33",
-        "replyContent": "Ciao Roberto, il problema \u00e8 stato segnalato agli sviluppatori, ti consigliamo di riprovare dopo qualche minuto che compare la notifica di avviso! O in alternativa di consultare la notifica avviando direttamente l'app!Grazie per la pazienza!",
-        "repliedAt": "2020-04-15 14:10:38"
-    },
-    {
-        "reviewId": "gp:AOqpTOF6v7XJ97Q_zmxEIWaFwEFIPl52nlDNIaXzk-LvW2qljYUeKxTUNEcB8X5P0kYNBNjOn7tbW-H5TzF-fg",
-        "userName": "Simone Lo Forte",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiZOHPmk1n6WTwEQZJhhylq46HHucUfHjOumWGWbQ",
-        "content": "Quando clicco sulle notifiche che mi arrivano, l'app non mi fa accedere e mi dice in continuazione che c'\u00e8 un errore del sistema... Devo aspettare qualche minuto per poi accedere all'applicazione e cercare da me la notizia che mi era arrivata per notifica",
-        "score": 3,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.5.0",
-        "at": "2020-04-08 12:44:48",
-        "replyContent": "Ciao Simone, ti suggeriamo di accedere alle notifiche info coronavirus dall'apposita sezione avviando l'app!",
-        "repliedAt": "2020-04-16 16:21:05"
-    },
-    {
-        "reviewId": "gp:AOqpTOHZcsCM0lnZgjnKjqiI7Xqc7aI-ms79eXDsHRRKPWppff9i-62Ma6gv-Fysab4zI2gWng9FVq4yUAs4bw",
-        "userName": "Donatella Rovida",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjqT03aRaHfUL6XQyr8h9s5NI0XpqBift82mupt",
-        "content": "Difficolt\u00e0 ad aprire la app per l'inserimento dei dati e successivamente impossibile leggere comunicazioni perch\u00e9 si chiude sempre in maniera anomala. Qualcosa non va. E non dipende dal mio cellulare.",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.5.0",
-        "at": "2020-04-08 12:44:32",
-        "replyContent": "Ciao Donatella l'errore da te segnalato e collegabile al grande numero di utilizzatori o alla velocit\u00e0 di rete. Se non riesci ad accedere alle notizie dalle notifiche ti suggeriamo di accedere alle notifiche avviando l'app! Interverremo per migliorare la tua esperienza utente!",
-        "repliedAt": "2020-04-16 16:22:49"
-    },
-    {
-        "reviewId": "gp:AOqpTOGCRVEUNriMVbNHLmSl8GhNAspKB8N_aijic_lWLE6_HkKJS6m_2i_j0O3fGTpsEXNl7XGLv0ri8PuUng",
-        "userName": "Ylenia 75",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgwEeRaiFFFAdfaaCGtemHT6PrWJVR3QYIlYalc",
-        "content": "Devo continuamente disinstallare ed installare l.app. Va per 1 giorno poi si blocca.",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.5.0",
-        "at": "2020-04-08 12:43:13",
-        "replyContent": "Ciao Ylenia, non \u00e8 necessario disinstallare e reinstallare l'app, se l'errore si verifica nella consultazione delle notifiche ti suggeriamo di accedere alla sezione  info coronavirus dall'apposita sezione  avviando l'app! In alternativa scrivici a : info.allertalom@ariaspa.it trasmettendo il print dell'errore riscontrato e verificheremo!",
-        "repliedAt": "2020-04-16 16:24:37"
     }
 ]

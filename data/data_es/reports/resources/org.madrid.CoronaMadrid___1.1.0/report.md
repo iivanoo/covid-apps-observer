@@ -150,6 +150,10 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="org.madrid.CoronaMadrid 5 reviews"/>
 </p>
 
+> Sencilla de utilizar y muy útil<br> :date: __2020-07-13 15:36:55__
+
+> Te indica fácilmente si puedes tener coronavirus<br> :date: __2020-07-13 15:31:42__
+
 > Ha sido muy facil de usar y muy práctica.<br> :date: __2020-07-08 21:14:07__
 
 > Excelente, buen seguimiento.<br> :date: __2020-07-01 16:47:36__
@@ -165,10 +169,6 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 > Aplicación de control del virus, correcta<br> :date: __2020-04-29 14:49:30__
 
 > Muy buena<br> :date: __2020-04-25 14:05:02__
-
-> Me parece muy útil y de gran ayuda<br> :date: __2020-04-15 11:23:15__
-
-> Muy buena aplicación Me han llamado un par de veces por tfno<br> :date: __2020-04-14 01:45:02__
 
 
 
@@ -234,6 +234,8 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 <img src="2_star_reviews_wordcloud.png" alt="org.madrid.CoronaMadrid 2 reviews"/>
 </p>
 
+> Hacer introducir mes a mes la fecha de nacimiento a alguien que haya nacido por ejemplo hace 50 años (no quiero pensar si se está muriendo, o tiene 80 años) me parece una idea maravillosa.<br> :date: __2020-07-11 20:35:49__
+
 > No se conecta con los servicios de Android de Covid para mandar alertas a los posibles contactos cercanos. Es algo que apenas cuesta y sirve para la trazabilidad de rebrotes... Que en la CCAA de Madrid los hay (aunque pequeños), y no se están trazando por falta de personal cualificado. Por favor Ayuso, aprovéchate de la tecnología que te hace el trabajo y además quedas bien... Si pudiste llevar el Twitter de un perro es lo menos que puedes hacer.<br> :date: __2020-06-27 17:03:46__
 
 > Lo que te dice lo sabes de antemano<br> :date: __2020-05-12 16:01:06__
@@ -251,8 +253,6 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 > No es Científica<br> :date: __2020-04-07 21:13:10__
 
 > Incompleta, no te pregunta ciertos síntomas importantes como falta de olfato, mareo, dolor de cabeza que parece que son muy comunes<br> :date: __2020-04-06 15:12:43__
-
-> Solo vale para la comunidad de Madrid.<br> :date: __2020-04-05 20:51:20__
 
 
 

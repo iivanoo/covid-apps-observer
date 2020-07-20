@@ -166,6 +166,8 @@ No recent reviews available with 4 stars.
 <img src="1_star_reviews_wordcloud.png" alt="org.who.infoapp 1 reviews"/>
 </p>
 
+> 👎👎👎👎👎👎👎👅<br> :date: __2020-07-16 19:13:31__
+
 > Men aniq virusli statistikaga ega bo'lishni xohladim, google Play ushbu dasturni yagona ishonchli dastur sifatida tavsiya qiladi. Ingliz tilidagi maqolalardan tashqari, hech narsa yo'q. O'zbekiston uchun ma'lumot va dasturni aloqasi yo''qmi?<br> :date: __2020-06-05 13:48:39__
 
 > Смерть разработчикам!!!<br> :date: __2020-05-19 22:17:08__

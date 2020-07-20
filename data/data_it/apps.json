@@ -3,63 +3,63 @@
         "id": "it.softmining.projects.covid19.savelifestyle",
         "store_country": "it",
         "store_lang": "it",
-        "latest_crawled_version": "4.5",
-        "latest_crawl": 1594384539
+        "latest_crawled_version": "5.0",
+        "latest_crawl": 1595252210
     },
     {
         "id": "it.lispa.sire.app.mobile.allertalom",
         "store_country": "it",
         "store_lang": "it",
         "latest_crawled_version": "1.7.0",
-        "latest_crawl": 1594384547
+        "latest_crawl": 1595252271
     },
     {
         "id": "com.intellicare.covid",
         "store_country": "it",
         "store_lang": "it",
         "latest_crawled_version": "1.0.15",
-        "latest_crawl": 1594384547
+        "latest_crawl": 1595252281
     },
     {
         "id": "com.siciliasicura.app",
         "store_country": "it",
         "store_lang": "it",
-        "latest_crawled_version": "7",
-        "latest_crawl": 1594384600
+        "latest_crawled_version": "7.5",
+        "latest_crawl": 1595252326
     },
     {
         "id": "it.adl.aslroma3.covid19.app",
         "store_country": "it",
         "store_lang": "it",
         "latest_crawled_version": "1.0.4",
-        "latest_crawl": 1594384628
+        "latest_crawl": 1595252359
     },
     {
         "id": "org.who.infoapp",
         "store_country": "it",
         "store_lang": "it",
         "latest_crawled_version": "2.2.0",
-        "latest_crawl": 1594384637
+        "latest_crawl": 1595252363
     },
     {
         "id": "de.xikolo.openwho",
         "store_country": "it",
         "store_lang": "it",
         "latest_crawled_version": "3.3.2",
-        "latest_crawl": 1594384645
+        "latest_crawl": 1595252366
     },
     {
         "id": "it.ministerodellasalute.immuni",
         "store_country": "it",
         "store_lang": "it",
-        "latest_crawled_version": "1.2.0",
-        "latest_crawl": 1594384650
+        "latest_crawled_version": "1.3.0",
+        "latest_crawl": 1595252463
     },
     {
         "id": "it.regione.sardegna.autorizzazionicovid19",
         "store_country": "it",
         "store_lang": "it",
-        "latest_crawled_version": "1.3.2",
-        "latest_crawl": 1594384655
+        "latest_crawled_version": "1.3.3",
+        "latest_crawl": 1595252579
     }
 ]

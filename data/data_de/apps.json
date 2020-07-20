@@ -4,55 +4,55 @@
         "store_country": "de",
         "store_lang": "de",
         "latest_crawled_version": "1.2.1",
-        "latest_crawl": 1594384949
+        "latest_crawl": 1595254062
     },
     {
         "id": "de.bssd.covid19",
         "store_country": "de",
         "store_lang": "de",
         "latest_crawled_version": "4120.7.01",
-        "latest_crawl": 1594384958
+        "latest_crawl": 1595254072
     },
     {
         "id": "org.who.infoapp",
         "store_country": "de",
         "store_lang": "de",
         "latest_crawled_version": "2.2.0",
-        "latest_crawl": 1594384966
+        "latest_crawl": 1595254075
     },
     {
         "id": "com.designit.covid_19",
         "store_country": "de",
         "store_lang": "de",
         "latest_crawled_version": "1.0.0",
-        "latest_crawl": 1594384972
+        "latest_crawl": 1595254085
     },
     {
         "id": "de.kreativzirkel.coronika",
         "store_country": "de",
         "store_lang": "de",
-        "latest_crawled_version": "1.4.2",
-        "latest_crawl": 1594385132
+        "latest_crawled_version": "1.4.3",
+        "latest_crawl": 1595254255
     },
     {
         "id": "de.xikolo.openwho",
         "store_country": "de",
         "store_lang": "de",
         "latest_crawled_version": "3.3.2",
-        "latest_crawl": 1594385189
+        "latest_crawl": 1595254309
     },
     {
         "id": "com.coronacheck.haugxhaug.testyourcorona",
         "store_country": "de",
         "store_lang": "de",
         "latest_crawled_version": "1.1",
-        "latest_crawl": 1594385190
+        "latest_crawl": 1595254309
     },
     {
         "id": "de.rki.coronawarnapp",
         "store_country": "de",
         "store_lang": "de",
         "latest_crawled_version": "1.0.5",
-        "latest_crawl": 1594385431
+        "latest_crawl": 1595254317
     }
 ]

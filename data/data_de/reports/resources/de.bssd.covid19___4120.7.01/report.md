@@ -131,6 +131,16 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="de.bssd.covid19 5 reviews"/>
 </p>
 
+> Sehr gut<br> :date: __2020-07-20 11:20:11__
+
+> Sehr gut<br> :date: __2020-07-19 00:43:13__
+
+> Bei mir hat das Scannen des QR-Codes problemlos geklappt und mein Testergebnis war in weniger als 48 Stunden da.<br> :date: __2020-07-15 17:31:38__
+
+> Funktioniert<br> :date: __2020-07-15 17:23:52__
+
+> Hat echt super geklappt. Die Anmeldung, der Scan als auch die Benachrichtigung.<br> :date: __2020-07-15 09:36:56__
+
 > Ich finde diese App sehr gut. 🙂...<br> :date: __2020-07-04 18:13:25__
 
 > App ist gut, alles funktioniert soweit. Verbesserungsvorschlag: das grüne Test Ergebnis blau machen damit Leute mit einer Grün-Rot Schwäche es besser erkennen können :-)<br> :date: __2020-07-04 14:04:18__
@@ -140,16 +150,6 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 > Kann nicht Folgen<br> :date: __2020-07-02 16:35:20__
 
 > Der Code lässt sich scannen und erkennt auch die ID aber nach dem drücken auf anmelden passiert nichts Update: Die App funktioniert jetzt einwandfrei :)<br> :date: __2020-07-01 16:38:13__
-
-> Winkelnkemper<br> :date: __2020-06-25 16:10:19__
-
-> Tolle App :) ja die push Benachrichtigungen funktionieren nicht aber das Ergebnis kam bei mir schon am nächten Tag abends an. Da es ein Freitag war musste ich nicht noch bis Montag warten bis ich was vom hausartzt höre :)<br> :date: __2020-06-19 22:12:35__
-
-> Es ist sehr wichtig dass man diese App runterladen tut ich wünsche noch einen schönen Abend<br> :date: __2020-06-19 01:35:15__
-
-> Bin froh dass es diese app gibt<br> :date: __2020-06-18 22:48:41__
-
-> Optimal<br> :date: __2020-06-18 18:46:34__
 
 
 
@@ -215,6 +215,8 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 <img src="2_star_reviews_wordcloud.png" alt="de.bssd.covid19 2 reviews"/>
 </p>
 
+> Leider wird nach 5 Tagen das Ergebnis auf der App immer noch nicht angezeigt. Anruf beim Arzt -> Ergebnis negativ! Schade für die Zeit der Isolation. Theoretisch mag die gut sein - praktisch haperts noch gewaltig wohl! Schade! Aber nicht aufgeben- wir sind ja erst am Anfang!<br> :date: __2020-07-20 09:13:37__
+
 > Die Idee ist ja nocht schlecht aber.... QRCode lässt sich nicht scannen und wenn ich stattdessen die ID eingeben möchte öffnet sich die Tastatur nicht!<br> :date: __2020-07-04 06:00:36__
 
 > Meine id wurde nicht akzeptiert keine Ahnung was das Problem ist hab ich mir einfacher vorgestellt. Das ist mir zu kompliziert vielleicht liegt es ja daran das ich ein Samsung Android hab?!<br> :date: __2020-06-16 16:13:14__
@@ -241,7 +243,17 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 <img src="1_star_reviews_wordcloud.png" alt="de.bssd.covid19 1 reviews"/>
 </p>
 
-> Also das Scannen des Codes klappt schonmal nicht. Habe dann jedes Mal mühevoll den langen Code eingegeben. Schonmal sehr schlecht. Während in der App steht, dass Ergebnis läge nach 2 Tagen immer noch nicht vor, hat der Arzt es schon. Also keine Echtzeitübertragung. Die Idee der App ist spitze, dafür 1 Punkt. Schade, dass sie aber überhaupt nicht funktioniert.<br> :date: __2020-07-09 16:03:33__
+> Die App ist völlig sinnlos. Bis heute zeigt mir die App an, das mein Testergebnis noch nicht vorliegt, obwohl ich schon telefonisch vom Arzt informiert wurde. Wer dringend auf ein Testergebnis angewiesen ist, für den lohnt sich das nicht. Dann besser im Labor selbst anrufen.Echtzeit ist das auf keinen Fall.<br> :date: __2020-07-20 11:58:36__
+
+> Diese App funktioniert leider überhaupt nicht! Ich habe Sie auch schon ein deinstalliert aber leider klappt auch dies nicht. Nun sitzt man zu Hause und wartet und wartet das ist echt frustrierend! Auch für den Arbeitgeber und Angehörige! Bitte ändert dies<br> :date: __2020-07-18 10:38:57__
+
+> Wertlose App. Scannen funktioniert nicht. Also auch Ergebnis<br> :date: __2020-07-16 17:04:11__
+
+> Diese Patienten-App ist leider nutzlos. Entweder werden die Testergebnisse nicht an das System übermittelt oder die App an sich ist das Problem. Jedenfalls ist der Anruf des Gesundheitsamtes klarer Sieger im Rennen um die Testergebnis-Weitergabe. Der Barcode-Scanner funktioniert auch nur sporadisch und nach mehreren Anläufen. Ich würde diese App keinesfalls mehr installieren. Sie macht nur unerfüllbare Hoffnung auf schnelle Information.<br> :date: __2020-07-15 10:33:59__
+
+> Also das Scannen des Codes klappt schonmal nicht. Habe dann jedes Mal mühevoll den langen Code eingegeben. Schonmal sehr schlecht. Während in der App steht, dass Ergebnis läge nach 2 Tagen immer noch nicht vor, hat der Arzt es schon. Also keine Echtzeitübertragung. Die Idee der App ist spitze, dafür 1 Punkt. Schade, dass sie aber überhaupt nicht funktioniert. Nachtrag: am Donnerstag hatte der Arzt das Ergebnis. Heute, am Samstag, liegt in der App immer noch nichts vor....<br> :date: __2020-07-11 08:49:24__
+
+> Letzter Müll ist diese app!<br> :date: __2020-07-10 15:11:01__
 
 > NULL Sterne - Anmeldung nicht möglich Ich hab es oft probiert und es passiert gar nichts. Auch den Code kann man nicht manuell eingeben. Da kann man es sich auch schenken.<br> :date: __2020-07-06 19:48:30__
 
@@ -250,15 +262,5 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 > Für den Nachweis eines negativen Tests leider nicht brauchbar, da auf dem Ergebnis weder die QR Nummer, noch das Datum des Testergebnisses angezeigt wird .<br> :date: __2020-07-05 12:50:50__
 
 > Ich wurde mit vielen die ich kenne am gleichen Tag und im gleichen Zeitraum getestet. Bei nur ganz wenigen liegt ein Ergebnis vor. Katastrophe diese App!<br> :date: __2020-07-04 21:14:00__
-
-> Die app funktioniert überhaupt nicht<br> :date: __2020-07-04 16:49:54__
-
-> App meldet, dass kein Ergebnis vorliegt, obwohl es bereits vorliegt<br> :date: __2020-07-04 15:03:34__
-
-> App heruntergeladen, geöffnet und die App startet nicht mal. Bei einem derart sensiblen Thema ist das definitiv nicht vertrauensfördernd. Auf dem iphone läuft die App übrigens ...<br> :date: __2020-07-04 10:59:14__
-
-> Ich kann nix machen . Lässt sich nicht Scannen oder die id eintippen und anmelden funktioniert auch nicht . Was kann ich tun<br> :date: __2020-07-02 22:41:16__
-
-> Sorry, aber dies APP ist nicht vollständig, das können andere besser. Man erhält nur die Antwort: JA - NEIN - VIELLEICHT Wem das reicht, gut. Ich benötigte jedoch eine personalisierte und terminierte Detailinformation, also mit meinem Namen und dem Untersuchungsdatum zum Nachweis des negativen Tests zu einem bestimmten Zeitpunkt um in einem Krankenhaus hereingelassen zu werden. Das leistet diese "APP" leider nicht, für mich wertlos und auch irreführend.<br> :date: __2020-06-30 22:57:58__
 
 

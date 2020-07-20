@@ -165,25 +165,25 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 <img src="5_star_reviews_wordcloud.png" alt="gov.fema.mobile.android 5 reviews"/>
 </p>
 
-> Is there a way to customize the sound alert?<br> :date: __2020-07-04 10:52:45__
+> ⭐⭐⭐⭐⭐<br> :date: __2020-07-20 14:56:46__
 
-> Great app for getting any alerts by phone.<br> :date: __2020-07-03 23:13:08__
+> Everyone should subscribe to Fema Alerts!<br> :date: __2020-07-19 01:40:24__
+
+> ItsMee..t<br> :date: __2020-07-17 23:22:41__
+
+> Tells me I have an alert then when you tap it.....shows nothing. 🙁<br> :date: __2020-07-12 05:51:32__
+
+> Awesome.<br> :date: __2020-07-11 19:13:22__
+
+> 🌟I like it<br> :date: __2020-07-11 10:13:32__
+
+> Is there a way to customize the sound alert?<br> :date: __2020-07-04 10:52:45__
 
 > Stays updated<br> :date: __2020-06-18 04:05:32__
 
 > Nice app<br> :date: __2020-06-15 19:39:57__
 
 > Have never had a problem with FEMA /ALL their programs for me have been spot on and the assistance needed has been prompt THANK YOU GOVERNMENT PROGRAMS!!!!!<br> :date: __2020-06-11 13:16:40__
-
-> Great<br> :date: __2020-06-11 11:42:51__
-
-> U.S. Navy seaL WO4, Powerplant Operator Hydro and others. Engineer, mech, elec. GS19 and UN Secreteriat since 2018. Looking to incorporate with DARPA for integration with aumented reality and AI. Towards innovative drone with a encoding and applied through New systems to creative by custom Sailors as for myself Black Squadron last to current assighnments Ive been as Switchman qualified operator, and was a rated HT with all NEC classifications as well. So perhaps im all ready essential retirement<br> :date: __2020-06-08 05:44:00__
-
-> Nicr<br> :date: __2020-06-07 06:06:39__
-
-> All NASA PERSONS TAKE THE INITIATIVE AS A FEELING THAT IS WELL.<br> :date: __2020-06-07 02:15:13__
-
-> Very productive sercure guard national support VA non-profit but helpful for safety and insurance for damages of areas of destruction weather storms, or life support<br> :date: __2020-06-06 23:26:31__
 
 
 
@@ -201,8 +201,6 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 
 > Only worth downloading if you're in a disaster situation. Otherwise it's not very useful.<br> :date: __2020-05-23 06:10:43__
 
-> 🌟<br> :date: __2020-05-22 23:05:11__
-
 > Extremely well covers high pop centers. However, little to no coverage in rural areas. We live in Benton County, MO...no coverage ANYWHERE here.<br> :date: __2020-05-22 15:48:47__
 
 > Excelente<br> :date: __2020-05-22 01:23:54__
@@ -213,6 +211,8 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 
 > It's been very helpful<br> :date: __2020-05-13 12:07:49__
 
+> pretty good app...it lets you pick locations you want to monitor and it lets you customize the weather settings so youre not pestered to death about things you dont need to know about...i need to figure out if l can fine tune it however...l'm still getting silly things in the middle of the night like it will be "windy" today or "foggy"...thats all well and good...just not at 0300.<br> :date: __2020-04-26 17:06:27__
+
 
 
 #### 3-star reviews
@@ -220,6 +220,8 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="gov.fema.mobile.android 3 reviews"/>
 </p>
+
+> Cancellation alerts stopped working and needs more spaces for more locations. But overall great app<br> :date: __2020-07-16 19:09:54__
 
 > where's the warnings I used to get<br> :date: __2020-06-24 02:29:53__
 
@@ -239,8 +241,6 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 
 > No notification on<br> :date: __2019-11-08 13:38:22__
 
-> disappointed would be helpful if you listed citizen corps. And ways to expand and improve readiness. Most e.m.a. offices have no knowledge of getting volunteers for natural disasters in Illinois, and I have a feeling they don't care<br> :date: __2019-09-02 21:56:27__
-
 
 
 #### 2-star reviews
@@ -248,6 +248,8 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="gov.fema.mobile.android 2 reviews"/>
 </p>
+
+> Getting several alerts with little or no lead time. Several other alerts just multiples of previous alerts with no changes in them at all. That's probably FEMA but still downgrades usefulness.<br> :date: __2020-07-19 21:22:25__
 
 > This app did not help me.<br> :date: __2020-06-19 19:14:29__
 
@@ -265,8 +267,6 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 
 > The app seems to be very inconsistent. Sometimes i get alerts, sometimes I don't. I've uninstalled and reinstalled a few times but it hasn't helped. Very disappointing.<br> :date: __2019-03-03 23:10:36__
 
-> Not getting ANY alert notifications. App only shows alerts when opened. Pretty useless now.<br> :date: __2018-11-14 16:16:56__
-
 > Why new permission without reason? Added finsky bind referer without statement of why or what for<br> :date: __2018-10-09 16:45:58__
 
 
@@ -276,6 +276,10 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="gov.fema.mobile.android 1 reviews"/>
 </p>
+
+> App should work as a REAL emergency service! No wifi or data usage! With today's technology & the dangerous times we r living in as well as facing especially with riots & illness! This app is put on by OUR GOVERNMENT!! IT SHOULD WORK FLAWLESSLY!! I think y'all r paid enough to PROTECT US! YOU SHOULD DO YOUR JOB!!! So sick n tired of the buck being passed & the excuses! YOU WANTED UR JOB SO DO IT! OR FIND ANOTHER!<br> :date: __2020-07-17 17:56:20__
+
+> DENIED all my RIGHTS<br> :date: __2020-07-14 08:31:08__
 
 > I would look them up and see what they are really about. We need less government in our life and lower We are Tax Enough Already.<br> :date: __2020-07-07 14:51:55__
 
@@ -292,9 +296,5 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 > Digital contact tracing not mentioned in app<br> :date: __2020-06-13 19:42:11__
 
 > Nagging with unwanted notifications<br> :date: __2020-06-11 05:56:34__
-
-> "Watch out for torrential downpours leading to localized flooding" 2 drops falls from sky... err overreacted much FEMA?<br> :date: __2020-06-06 13:21:01__
-
-> I am not getting tornado alerts like my sister 1 mile away gets on TV and NOAA radio. I have the warnings checked, but I am not getting them.<br> :date: __2020-06-05 17:43:06__
 
 

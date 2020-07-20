@@ -132,6 +132,8 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 <img src="5_star_reviews_wordcloud.png" alt="cat.gencat.mobi.StopCovid19Cat 5 reviews"/>
 </p>
 
+> Es muy necesaria y óptima debería de tenerla todo el mundo instalada y más ahora<br> :date: __2020-07-17 06:29:26__
+
 > Ningun problema de conecsion<br> :date: __2020-06-21 16:11:09__
 
 > Bién<br> :date: __2020-06-18 08:42:42__
@@ -149,8 +151,6 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 > Esta guau<br> :date: __2020-05-29 12:24:23__
 
 > Si bien el TEST no es del todo amplio y exacto, mi valoración de esta app es muy positiva en el aspecto del acompañamiento que los SANITARIOS han hecho, de forma muy correcta y amable, a las personas que hemos pasado la enfermedad en casa. Yo he recibido el mejor seguimiento y trato por parte de los sanitarios de la app que por parte de mi MÉDICO DE FAMILIA. Tristemente éste ni me llamó una vez. Todos los contactos que yo tuve con él han sido iniciados por mi misma. Muy agradecida a la app.<br> :date: __2020-05-28 11:47:04__
-
-> Esta bien para no colapsar los sistemas sanitarios<br> :date: __2020-05-12 21:00:41__
 
 
 
@@ -188,6 +188,8 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 <img src="3_star_reviews_wordcloud.png" alt="cat.gencat.mobi.StopCovid19Cat 3 reviews"/>
 </p>
 
+> 👍👍👍<br> :date: __2020-07-15 23:38:35__
+
 > Està bé que en la nova actualització et faci un historial, i així quedin guardades les dades, però aquells que la portem fent servir des del principi, on queden aquelles dades? Vaig deixar de fer-la servir un temps i ara em trobo que quan abans em deia cas probable de Covid ara em diu q no, posant els mateixos símptomes. Apart, l'historial me'l comptabilitza des d'avui quan en realitat vaig començar a fer-la servir al Març.<br> :date: __2020-06-18 10:18:35__
 
 > Al fer una actualització de l'app s'esborren les dades introduïdes, especialment la referència de la tarja que es molt difícil de recordar. Solucionar aquest detall donaria confiança en l'app.<br> :date: __2020-06-11 21:00:11__
@@ -206,8 +208,6 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 
 > trobo a faltar una opció a l inici pel cas de les persones que estan ngressades amb virus, que han estat donades d alta, que han obtingut un determinat resultat en un determinat tipus de test, etc Es a dir, només tracta el spossibles casos a l inici. I després ?<br> :date: __2020-04-13 11:25:02__
 
-> No solo los sintomas son importantes, estaria bien tambien saber si por el trabajo que tenemos somos mas propensos a infectar a mas gente.<br> :date: __2020-04-09 15:27:55__
-
 
 
 #### 2-star reviews
@@ -215,6 +215,8 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="cat.gencat.mobi.StopCovid19Cat 2 reviews"/>
 </p>
+
+> Casi nunca funciona<br> :date: __2020-07-17 03:07:53__
 
 > Em diu que nio tinc zip;)<br> :date: __2020-07-08 07:46:25__
 
@@ -234,8 +236,6 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 
 > Da error de conexión desde el sábado<br> :date: __2020-03-30 10:58:14__
 
-> Lleva 2 días sin funcionar...<br> :date: __2020-03-29 16:57:39__
-
 
 
 #### 1-star reviews
@@ -243,6 +243,12 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="cat.gencat.mobi.StopCovid19Cat 1 reviews"/>
 </p>
+
+> No me abre la app.<br> :date: __2020-07-19 23:03:34__
+
+> No sirve para nada<br> :date: __2020-07-18 13:47:29__
+
+> No he tenido nada por ahora y dios quiera que no tenga nada gracias<br> :date: __2020-07-16 11:31:09__
 
 > No puc accedir a l'aplicacio,. Un cop poso el codi de validació no em deixa avançar.<br> :date: __2020-07-08 12:28:43__
 
@@ -257,11 +263,5 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 > No me deja poner mi número de teléfono<br> :date: __2020-06-10 13:44:09__
 
 > No funciona Estoy harta de intentArlo<br> :date: __2020-06-09 07:16:21__
-
-> Me sale un mensaje de error cuando pongo el nº de telefono<br> :date: __2020-06-09 00:09:38__
-
-> Desde hoy no me funciona bien, hay algún problema?<br> :date: __2020-06-05 14:15:46__
-
-> No es realista, t sale q tienes coronavirus por solo tener cierta fatiga al hacer esfuerzos, y q antes no tenias, mejor llamar al medico d cabecera, esta aplicacion no es tan practica.<br> :date: __2020-06-02 16:40:27__
 
 

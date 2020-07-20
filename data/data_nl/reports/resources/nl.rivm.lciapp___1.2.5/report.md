@@ -140,6 +140,8 @@ The RIVM LCI-richtlijnen app has been installed by more than **50000** times. At
 <img src="5_star_reviews_wordcloud.png" alt="nl.rivm.lciapp 5 reviews"/>
 </p>
 
+> Zo blijf je op de hoogte<br> :date: __2020-07-17 09:57:06__
+
 > Zeer goede en bruikbare informatie<br> :date: __2020-06-18 17:15:10__
 
 > Geweldige app die het hellaas op een Lenovo tab M10 niet doet..<br> :date: __2020-06-12 17:52:50__
@@ -158,8 +160,6 @@ The RIVM LCI-richtlijnen app has been installed by more than **50000** times. At
 
 > Duidelijk<br> :date: __2020-04-23 10:42:37__
 
-> Top<br> :date: __2020-04-19 21:12:33__
-
 
 
 #### 4-star reviews
@@ -177,8 +177,6 @@ The RIVM LCI-richtlijnen app has been installed by more than **50000** times. At
 > Het staat allemaal in goed te begrijpen woord keuze en duidelijk/overzichtelijk Goed uitgelegd<br> :date: __2020-06-29 09:06:30__
 
 > Meest nodige informatie zit in deze app 🙏 NAMASTE<br> :date: __2020-04-09 09:55:23__
-
-> Goede app. Informatief en duidelijk. 👍<br> :date: __2020-04-05 10:16:42__
 
 > In 2020 en de huidige situatie; maak beter gebruik van dit soort tools- wees duidelijker, m.n voor zorgpersoneel! Updates RIVM maatregelen/richtlijnen(te downloaden hygiëne maatregel ed) door n alert via een soort app als deze zal fijn zijn en zal werkdruk bij informatielijnen verminderen. iig content dat er iets is aan app op dit gebied, maar kan denk ik dus beter/effectiever<br> :date: __2020-03-12 23:47:14__
 
@@ -214,24 +212,24 @@ The RIVM LCI-richtlijnen app has been installed by more than **50000** times. At
 <img src="1_star_reviews_wordcloud.png" alt="nl.rivm.lciapp 1 reviews"/>
 </p>
 
+> Waardeloos, zegt steeds geen internet verbinding 😖<br> :date: __2020-07-20 11:10:20__
+
+> "Er is een fout opgetreden bij het ophalen van de gegevens"<br> :date: __2020-07-19 01:18:47__
+
+> Hij werkt niet?<br> :date: __2020-07-17 14:17:24__
+
+> Ziet geen internet. Werkt zo totaal niet.<br> :date: __2020-07-16 20:37:57__
+
+> de app geeft aan geen verbinding met internet te hebben<br> :date: __2020-07-15 11:13:16__
+
+> Kunt er niets in doen, geen internet???? Melding<br> :date: __2020-07-14 20:17:30__
+
+> Was goede app, maar gegevens verversen lukt niet meer. Want ik ben niet verbonden met internet? De App functioneerde altijd goed, dus daar klopt dus niets van, want ik heb wél internet. Fixen graag alstublieft. Helaas verwijderd... Nogmaals ik betreur deze stap, maar voor nu is het niet anders.😠<br> :date: __2020-07-13 18:06:05__
+
 > Niet actueel meer...<br> :date: __2020-07-03 23:32:50__
 
 > Wat een waardeloze onzin. Hoe kun je nou iets geloven als er niet eens data naar buiten wordt gebracht. Ik geloof hier helemaal niks van. Als je tegenwoordig dood gaat aan een of ander ongeluk, wordt het gewoon vertaald als corona. Nee dit gaat er bij mij niet in<br> :date: __2020-06-19 21:20:43__
 
 > Gedownload,bekeken en verwijderd<br> :date: __2020-06-08 05:33:41__
-
-> werkt niet eens.. kan de gegevens niet downloaden... dat gaat levens redden 👌<br> :date: __2020-06-05 19:51:27__
-
-> Te slecht voor woorden hier maak ik geen tijd meer voor vrij.<br> :date: __2020-05-06 03:31:06__
-
-> Goede app maar niet voor de particulier<br> :date: __2020-04-27 11:01:02__
-
-> Nvt<br> :date: __2020-04-21 09:03:25__
-
-> Actuele info haal je van de website<br> :date: __2020-04-19 17:56:15__
-
-> cruciale beroepen waarbij niet word weergeven over personeel beveiliging die elke dag ermee in aanraking komen ik werk op een dakloze centrum als beveiliger waarbij het elke dag een risico bestaat over besmette daklozen.<br> :date: __2020-04-15 01:08:30__
-
-> Duurt TE lang voor alles gedownload is<br> :date: __2020-04-14 19:48:15__
 
 

@@ -146,6 +146,8 @@ The Care19 Diary app has been installed by more than **10000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="com.proudcrowd.care 5 reviews"/>
 </p>
 
+> Please help charlie foxtrot googlemaps Meunstergritsandassociatesllc 442 blanding blvd 333 ORANGEPARK,FL 32073<br> :date: __2020-07-18 21:29:25__
+
 > Updated daily. Easy to use and informative.<br> :date: __2020-06-23 15:03:08__
 
 > Cool<br> :date: __2020-06-20 05:50:45__
@@ -164,8 +166,6 @@ The Care19 Diary app has been installed by more than **10000** times. At this ti
 
 > Payment<br> :date: __2020-05-02 21:50:55__
 
-> Great if I don't want to catch COVID #RIPrickmay<br> :date: __2020-04-26 09:16:49__
-
 
 
 #### 4-star reviews
@@ -173,6 +173,8 @@ The Care19 Diary app has been installed by more than **10000** times. At this ti
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.proudcrowd.care 4 reviews"/>
 </p>
+
+> This picks up most of the places I go, and I check when I get home so I can add places it has missed or change inaccurate locations, which only happens when I am in an area with a lot of stores, like a plaza. My home state has not chosen an app so I use this one.<br> :date: __2020-07-10 22:03:28__
 
 > I just dont have room on my phone:(<br> :date: __2020-07-06 11:55:41__
 
@@ -212,6 +214,8 @@ The Care19 Diary app has been installed by more than **10000** times. At this ti
 <img src="2_star_reviews_wordcloud.png" alt="com.proudcrowd.care 2 reviews"/>
 </p>
 
+> Inaccurate didn't track me for days sometimes. Uninstalled it, that bad.<br> :date: __2020-07-19 03:31:36__
+
 > Location info is incorrect and incomplete. I was able to fix the incorrect info, but can't add locations. Uninstalled and reinstalled on 6/24. Tracked my location until 6/27 then nothing.<br> :date: __2020-07-07 17:28:05__
 
 > Gives a lot of erroneous locations that are passed while driving or stopping at a stop light. Some days it gives no information at all.. i reloaded it a couple of weeks ago. It worked well until July 3 then quit working, not registering any locations.<br> :date: __2020-07-04 20:23:07__
@@ -230,8 +234,6 @@ The Care19 Diary app has been installed by more than **10000** times. At this ti
 
 > This app would make sense if it correctly tracked where you were. It needs an update to better track it also for walking. Poor and elderly won't use this nor will people who refuse so information will be limited. Needs an upgrade to let you know if you've been around someone with Coronavirus. Good idea but needs fixing<br> :date: __2020-05-21 05:24:02__
 
-> This app does not record all the places I've been. I was in 5 different businesses in one day for more than 15 minutes and it did not record them . This app has a few bugs...I write down mow.<br> :date: __2020-05-20 22:58:49__
-
 
 
 #### 1-star reviews
@@ -239,6 +241,8 @@ The Care19 Diary app has been installed by more than **10000** times. At this ti
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="com.proudcrowd.care 1 reviews"/>
 </p>
+
+> App doesn't work. I wanted an app that would track my location automatically and the people that I was around. Now that I have covid-19 I can't even notify anyone that I was in contact with<br> :date: __2020-07-17 19:43:16__
 
 > Does this app work for Los Angeles, CA residents? It doesn’t seem to work when installed on my phone because I’m still unable to turn on “Exposure Notifications” after the app is installed. I’m going to Settings > Google > COVID-19 Exposure Notifications and the toggle to turn on Exposure Notifications will not respond.<br> :date: __2020-07-06 03:44:17__
 
@@ -257,7 +261,5 @@ The Care19 Diary app has been installed by more than **10000** times. At this ti
 > I work in Technology Sales, Retail. So I wanted an app that would start tracking my locations AUTOMATICALLY to assist me in providing that data needed for my Contact Tracers should the need arise. This app FAILS MISERABLY!!! It DOES NOT track when I am some place for more than an hour. Examples: Work, Gym, Restaurants. Don't waste your time on the Android version of this app!!! Look elsewhere. Samsung S20+ 5G<br> :date: __2020-06-27 04:18:00__
 
 > Location is in issue for me<br> :date: __2020-06-25 00:03:09__
-
-> I saw the update that you could manually put in where you have been by the developer in 5/20. They said it would be implemented within the next update. However, it has now been over a month & time is of the essence. A month long wait for a feature that is now allowing a significant amount of people to use the app or provide inaccurate data is unacceptable. Please fix this asap or please ND & SD find a new developer. As a programmer, the basic first step before release is bug testing.<br> :date: __2020-06-21 11:19:38__
 
 

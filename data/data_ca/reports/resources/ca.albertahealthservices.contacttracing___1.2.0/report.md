@@ -145,6 +145,10 @@ The ABTraceTogether app has been installed by more than **50000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="ca.albertahealthservices.contacttracing 5 reviews"/>
 </p>
 
+> Always working. Dont even know it's on unless I check. No noticable battery drain. App is being improved. No privacy issues. Do your part.<br> :date: __2020-07-17 00:28:28__
+
+> Authentication is not sending text message before but is now working for me.<br> :date: __2020-07-15 20:48:15__
+
 > 5 stars but still......Google maps tracks your phone -where, when- what time and exact place literally on a bus, anyone with a Gmail account, their GPS or location setting on their Android or Apple phone can access their location history, even your commands to Ok Google. and easily share this information with health officials if the time arises. Just thought I'd point that out.<br> :date: __2020-07-04 04:12:15__
 
 > Installed it. Hope I'll need to use it!<br> :date: __2020-06-29 22:14:01__
@@ -161,10 +165,6 @@ The ABTraceTogether app has been installed by more than **50000** times. At this
 
 > Very " nice " Thanks !!<br> :date: __2020-05-26 04:25:34__
 
-> Installed & activated on Samsung S9 without any issues. Runs fine. There is extra battery usage, but it's tolerable for me.<br> :date: __2020-05-25 03:53:49__
-
-> Amazing app, feels so good to know the government knows all. I cannot wait for the vaccine. Please increase my taxes and fund more the media.<br> :date: __2020-05-25 03:45:04__
-
 
 
 #### 4-star reviews
@@ -172,6 +172,8 @@ The ABTraceTogether app has been installed by more than **50000** times. At this
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="ca.albertahealthservices.contacttracing 4 reviews"/>
 </p>
+
+> needs an off button holy moly I believed all the battery drain hype, especially since I'm a server at a restaurant I just leave my phone plugged in at the front desk and it's not a problem (heats up a bit tho). when I get home however it's worse because it was charging all day consuming power-at-will. the choice for me is to turn off background activity on the app in the settings when I get home. there's no sense in exchanging keys with my fam 24hrs a day. but I could easily forget it off :/<br> :date: __2020-07-19 23:06:46__
 
 > I noticed the last 2 days this app has been draining my battery. Use to have 45% left at bedtime, now only 10% at 1 pm. Just did the update, which I didn't know about. So hopefully it fixes this battery issue. (03-Jun-20). UPDATE: After the update the app no longer drained my battery. I noticed a drain on my battery again today (06-Jul-20) and checked for an update, which there was. If you notice your battery being drained, just update the app.<br> :date: __2020-07-06 16:07:00__
 
@@ -191,8 +193,6 @@ The ABTraceTogether app has been installed by more than **50000** times. At this
 
 > I was totally surprised on how much this app draws dowm my battery , worse than f-cebook app, will be definitely removed once things cool down ...<br> :date: __2020-05-15 00:48:59__
 
-> Good app and hopefully it gets installed and used more. Like others are saying, it needs and off button because of the battery drain when using it at home. Most people are at home now so this should be a feature available....<br> :date: __2020-05-12 17:49:39__
-
 
 
 #### 3-star reviews
@@ -200,6 +200,8 @@ The ABTraceTogether app has been installed by more than **50000** times. At this
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="ca.albertahealthservices.contacttracing 3 reviews"/>
 </p>
+
+> It's neither good or bad. It just sits in the background. I can only assume it works.<br> :date: __2020-07-20 08:28:08__
 
 > Only installing for long periods of exposure It seems to cause overheating with my phone. If I have the app installed (paused or unpaused) it seems to ramp up internal temps. Also, there should be an option to say you are at home, so you don't have to pause the app. The constant need to have BT on, even while at home, is annoying. I get why but it is frustrating.<br> :date: __2020-07-03 00:54:11__
 
@@ -218,8 +220,6 @@ The ABTraceTogether app has been installed by more than **50000** times. At this
 > Install was very easy. Done in under 2 minutes. App is a great idea for the times. Having said that, yes the battery drain is amazing. Started as a 5 but now a 3. I wish it was more.<br> :date: __2020-06-13 01:17:26__
 
 > The principle is good and I'd really like to help by using this app but a week after installing it, my battery is drained before the afternoon is over. I have to uninstall. When the developers can make it more efficient in power usage I'd be happy to install it again<br> :date: __2020-06-09 23:39:11__
-
-> I've had no complaints up until a couple of days ago when my phone indicated that AB Trace Together has been using 35.6% of my battery, while at home. I disabled Bluetooth and it didn't change or conserve the battery. My phone has been on for 20 minutes this morning and its already used 6.1% of my battery. Prior to this, battery usage was negligible. Updated it and hoping that helps.<br> :date: __2020-06-08 16:52:26__
 
 
 
@@ -257,6 +257,14 @@ The ABTraceTogether app has been installed by more than **50000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="ca.albertahealthservices.contacttracing 1 reviews"/>
 </p>
 
+> Battery Drain! Went into work with 96% battery. After 5 hours of no use my phone was dead when it would normally be in the low 90s - high 80s depending on I my data was turn on or not.<br> :date: __2020-07-15 20:19:47__
+
+> As other's have pointed out battery drain is horrendous. Unfortunately until the government make facemasks, RFID tagging and health passports mandatory I guess it's the best we have to protect us all from COVID. According to the WHO half a million have died from COVID-19. The WHO also say FOUR MILLION have died from alcoholism! With that in mind, perhaps the app could also be used to help prevent alcoholics buying alcohol? After all, alcohol is killing 8 times as many people as COVID.<br> :date: __2020-07-14 03:57:32__
+
+> I tried to get the code numerous times and it never works. Waist of time<br> :date: __2020-07-13 13:23:47__
+
+> Security risk. Another ucp failure.<br> :date: __2020-07-10 15:46:39__
+
 > Here's a tip; if my device can see yours via Bluetooth, there's a good chance I can access your device and everything on it using an apk like Superblue. Don't be an idiot. This is exploitable Traceware.<br> :date: __2020-07-10 02:31:24__
 
 > Started to drain my battery of my fairly new phone.<br> :date: __2020-07-08 21:01:53__
@@ -268,13 +276,5 @@ The ABTraceTogether app has been installed by more than **50000** times. At this
 > Unable to activate. Installs okay but when asking for cell phone number it always says the server is down for the last month.<br> :date: __2020-07-06 23:48:44__
 
 > I want to keep this app but it's draining my battery. It seemed okay the first few weeks of using it but recently it's been overheating my phone. I checked my battery usage and it says this app is using 44% of my battery. Doesn't seem feasible to keep running it if I'm going to have to keep my phone on a charger most of the day.<br> :date: __2020-07-06 03:09:24__
-
-> dont like it didnt do anything to help me wast of time<br> :date: __2020-07-04 07:06:04__
-
-> I had this a few days after release and didn't feel the usefulness. But it kept draining my battery. 39% use compared to all other apps. My battery kept heating up. Uninstalled.<br> :date: __2020-06-25 01:11:32__
-
-> Wanted to help prevent the spread of covid. This app is garbage. Used 76% of my phone battery in 12 hours. Uninstalled. Now we are all gonna get covid.<br> :date: __2020-06-23 04:27:55__
-
-> This app is 100% not anonymous, it starts out by asking for your phone number, which allows the government to get your name and then track you. If you care at all about your privacy do not install this app. There is no need to provide your phone number for what they have proposed the goal of this app to be. They could have notified you within the app.<br> :date: __2020-06-22 11:53:21__
 
 
