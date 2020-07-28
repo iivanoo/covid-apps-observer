@@ -168,6 +168,8 @@ The COVID Radar app has been installed by more than **50000** times. At this tim
 <img src="4_star_reviews_wordcloud.png" alt="nl.lumc.covidradar 4 reviews"/>
 </p>
 
+> Elk gezin zou dit kunnen gebruiken. Een postcode-gebied kan zo nog beter in de gaten worden gehouden door onzeGGD. gebruik deze app nu al. m.i. zal Rivm/OMT pas in sep met soortgelijke app komen. Juist het kunnen selecteren van ja/nee antwoorden is een pre, o.a. omdat iedereen dan hetzelfde bedoeld. Staan er ook antwoorden in welke de MILDE-vorm van covid kunnen signaleren en kan de app dit aangeven dat de gebruiker dit heeft? TraceBack-covid19patient krijgt meerEnMeer vorm.<br> :date: __2020-07-23 09:58:13__
+
 > Zinvol. Helpt ons allemaal<br> :date: __2020-05-20 12:49:53__
 
 > Het lijkt me nuttig als je een opmerking kunt plaatsen. Ik heb nl hooikoorts en vul dus klachten in die daarbij horen, wat een verkeerde indruk kan geven.<br> :date: __2020-05-06 21:17:49__
@@ -185,8 +187,6 @@ The COVID Radar app has been installed by more than **50000** times. At this tim
 > Op mijn telefoon staan de 2 knoppen annuleren en bevestigen voor het balkje beroep, waardoor ik het beroep niet kan aanpassen. Ik heb het antwoord nu gelaten wat er al stond maar dit klopt in mijn geval niet.<br> :date: __2020-04-19 18:11:48__
 
 > Ik ontvang niemand thuis en toch val ik ongunstiger uit tov het Nederlands gemiddelde in de uitslag. Dat kan beter.<br> :date: __2020-04-17 22:17:31__
-
-> Ik werk op een PG afdeling. We hebben 21 bewoners die gewoon verzorgd moeten worden dus 1,,5 meter, onmogelijk. Tevens werk je ook als collega's dicht op elkaar. Dus het aantal mensen is meer als 20. Maar dat kan je niet invullen. Dus vraag ik me af, moet je dat nu wel of niet invullen? Want dan kom ik elke dag boven de 20 uit en vertekend dit het beeld wellicht en merk ik dat ik dus waanzinnig veel risico loop.<br> :date: __2020-04-14 20:02:38__
 
 
 

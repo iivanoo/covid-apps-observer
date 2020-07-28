@@ -4,62 +4,62 @@
         "store_country": "nl",
         "store_lang": "nl",
         "latest_crawled_version": "1.0.437",
-        "latest_crawl": 1595250736
+        "latest_crawl": 1595922282
     },
     {
         "id": "at.roteskreuz.stopcorona",
         "store_country": "nl",
         "store_lang": "nl",
-        "latest_crawled_version": "2.0.3.1057-QA_245",
-        "latest_crawl": 1595250738
+        "latest_crawled_version": "2.0.4.1060-QA_248",
+        "latest_crawl": 1595922325
     },
     {
         "id": "nl.rivm.lciapp",
         "store_country": "nl",
         "store_lang": "nl",
-        "latest_crawled_version": "1.2.5",
-        "latest_crawl": 1595250742
+        "latest_crawled_version": "1.27.4",
+        "latest_crawl": 1595922505
     },
     {
         "id": "org.who.infoapp",
         "store_country": "nl",
         "store_lang": "nl",
         "latest_crawled_version": "2.2.0",
-        "latest_crawl": 1595250742
+        "latest_crawl": 1595922545
     },
     {
         "id": "nl.focuscura.beeldbelapp",
         "store_country": "nl",
         "store_lang": "nl",
-        "latest_crawled_version": "4.23.1",
-        "latest_crawl": 1595251640
+        "latest_crawled_version": "4.24.0",
+        "latest_crawl": 1595922875
     },
     {
         "id": "de.xikolo.openwho",
         "store_country": "nl",
         "store_lang": "nl",
-        "latest_crawled_version": "3.3.2",
-        "latest_crawl": 1595251795
+        "latest_crawled_version": "3.4",
+        "latest_crawl": 1595923112
     },
     {
         "id": "com.joinzoe.covid_zoe",
         "store_country": "nl",
         "store_lang": "nl",
         "latest_crawled_version": "0.14",
-        "latest_crawl": 1595251795
+        "latest_crawl": 1595923243
     },
     {
         "id": "nl.lumc.covidradar",
         "store_country": "nl",
         "store_lang": "nl",
         "latest_crawled_version": "1.1.2",
-        "latest_crawl": 1595251804
+        "latest_crawl": 1595923253
     },
     {
         "id": "jhu.edu.JohnsHopkinsCOVIDControl",
         "store_country": "nl",
         "store_lang": "nl",
-        "latest_crawled_version": "3.0",
-        "latest_crawl": 1595251810
+        "latest_crawled_version": "3.2",
+        "latest_crawl": 1595923287
     }
 ]
