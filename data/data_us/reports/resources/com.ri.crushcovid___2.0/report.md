@@ -152,8 +152,6 @@ The CRUSH COVID RI app has been installed by more than **10000** times. At this 
 <img src="5_star_reviews_wordcloud.png" alt="com.ri.crushcovid 5 reviews"/>
 </p>
 
-> This app is 100 per cent needed<br> :date: __2020-07-20 09:09:57__
-
 > I think its Great, I love it.<br> :date: __2020-07-12 18:48:06__
 
 > Easy to use.<br> :date: __2020-07-12 14:55:30__
@@ -171,6 +169,8 @@ The CRUSH COVID RI app has been installed by more than **10000** times. At this 
 > Eats to much battery<br> :date: __2020-05-27 18:23:52__
 
 > Thanks for help<br> :date: __2020-05-23 17:24:32__
+
+> App works great. No problem with wifi nor data. People having problem need to give permission to the app in order to work.<br> :date: __2020-05-20 04:28:11__
 
 
 
@@ -236,6 +236,8 @@ The CRUSH COVID RI app has been installed by more than **10000** times. At this 
 <img src="2_star_reviews_wordcloud.png" alt="com.ri.crushcovid 2 reviews"/>
 </p>
 
+> Warning! At least on Android phone, you must manually restart the app after restarting your phone.<br> :date: __2020-07-24 00:05:59__
+
 > Location is way off, not accurate at all<br> :date: __2020-07-18 14:39:33__
 
 > I am rooting for this app. But there are several problems: 1) I can't access the new version on my Android phone, the "Let's go" button doesn't seem to work when trying to boot up the app the first time. 2) I wish it would just keep itself running and send my info continuously, once I have given it permission (I often forget to log in and then it stops sending updates). I know it's trying to respect privacy, but there should be an option for those who don't mind to just let it do it's thing.<br> :date: __2020-07-15 21:26:13__
@@ -254,8 +256,6 @@ The CRUSH COVID RI app has been installed by more than **10000** times. At this 
 
 > Not accurate. Uses too much battery.<br> :date: __2020-06-13 01:11:30__
 
-> On my Google Pixel 3 Android, the app only gives me the options to access location while using the app or to deny location services. There is no option for allow all the time. Thus, my location diary has nothing in it! Also, an excellent feature for this app would be a contact diary.<br> :date: __2020-06-09 03:10:53__
-
 
 
 #### 1-star reviews
@@ -263,6 +263,10 @@ The CRUSH COVID RI app has been installed by more than **10000** times. At this 
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="com.ri.crushcovid 1 reviews"/>
 </p>
+
+> Not recording anything<br> :date: __2020-07-26 22:25:27__
+
+> Useless and intrusive. A secret way for Ramondo (D) to spy on her constituents and keep them in line. BIG BROTHER/SISTER!!!<br> :date: __2020-07-21 13:45:19__
 
 > I have an LG Aristo 2 Plus. App worked great for 1 month. Then it stopped working. When I hit Send after putting in my zip code, it reads:. "Cannot submit data. Please try again.". I have uninstalled and reinstalled many times. Contacted T Mobile. They checked my phone and say it was the app.<br> :date: __2020-07-19 22:55:42__
 
@@ -279,9 +283,5 @@ The CRUSH COVID RI app has been installed by more than **10000** times. At this 
 > Tracking function is useless. Too inaccurate to be at all helpful.<br> :date: __2020-07-12 17:23:59__
 
 > Now when i look at my location diary i am not even where it says if you go by this half of RI would be in quarenteen Took app on my phone pen and paper is accurate and doesnt use my battery for no reason<br> :date: __2020-07-12 13:24:36__
-
-> This is not the updated version.<br> :date: __2020-07-11 14:26:42__
-
-> The location tracker does work all of the time. Hasn't tracked in a week.<br> :date: __2020-07-10 19:42:53__
 
 

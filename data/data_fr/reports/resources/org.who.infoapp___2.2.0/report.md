@@ -128,6 +128,8 @@ The WHO Info app has been installed by more than **100000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="org.who.infoapp 5 reviews"/>
 </p>
 
+> Bonne application donne des informations sur covid 19<br> :date: __2020-07-23 20:58:40__
+
 > L'application est cool mais il faudra faire pour le français<br> :date: __2020-07-10 00:12:24__
 
 > bien<br> :date: __2020-07-07 05:20:29__
@@ -145,8 +147,6 @@ The WHO Info app has been installed by more than **100000** times. At this time,
 > Tem<br> :date: __2020-06-03 21:34:49__
 
 > bonne appli<br> :date: __2020-06-02 21:35:56__
-
-> Très bien<br> :date: __2020-06-02 14:14:42__
 
 
 
@@ -191,6 +191,8 @@ The WHO Info app has been installed by more than **100000** times. At this time,
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="org.who.infoapp 1 reviews"/>
 </p>
+
+> Pas de version en français.<br> :date: __2020-07-21 12:19:38__
 
 > Une application pour des francophones DOIT être en français ! Merci<br> :date: __2020-06-20 13:12:11__
 

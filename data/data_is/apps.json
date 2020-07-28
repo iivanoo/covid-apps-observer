@@ -3,21 +3,21 @@
         "id": "is.landlaeknir.rakning",
         "store_country": "is",
         "store_lang": "is",
-        "latest_crawled_version": "2.1.1",
-        "latest_crawl": 1595256973
+        "latest_crawled_version": "2.1.2",
+        "latest_crawl": 1595931145
     },
     {
         "id": "org.who.infoapp",
         "store_country": "is",
         "store_lang": "is",
         "latest_crawled_version": "2.2.0",
-        "latest_crawl": 1595257052
+        "latest_crawl": 1595931224
     },
     {
         "id": "de.xikolo.openwho",
         "store_country": "is",
         "store_lang": "is",
-        "latest_crawled_version": "3.3.2",
-        "latest_crawl": 1595257055
+        "latest_crawled_version": "3.4",
+        "latest_crawl": 1595931303
     }
 ]

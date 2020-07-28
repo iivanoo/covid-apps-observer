@@ -1,5 +1,41 @@
 [
     {
+        "reviewId": "gp:AOqpTOFktIm1n4Uf6Aw1ClCcrZghiBefmK4uyCjQdasbYOIya9WAkZdtOSvpzFpb4nYKwu-Gr0gr5x1q3UsA0w",
+        "userName": "Mr K\u00fcnzel",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiUc7hwNM7fRskesQM3azcVa7OH67r0VPld_rCeOw",
+        "content": "Mein Handy zeigt st\u00e4ndig an, \"(die App ist mit Ihrem Ger\u00e4t nicht kompatibel & dadurch nicht verf\u00fcgbar\"), trotz aktiv st\u00e4ndig mein Google Dienst ist, sagt mein neues Huawei Y6 & lehnte die App ab!",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2020-07-28 06:41:34",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGLLe4WS2hJX07-mLtk_zfDedQB3p6hKPHavFFeuic8KntZDI7gCqxJXA0cw9iIgBtS81igOR4nWW5riQ",
+        "userName": "Nele Burmeister",
+        "userImage": "https://lh3.googleusercontent.com/-kT8Uv4rcbIE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl1uSMFrtnTn8UeccmvoJ4fevZkZg/photo.jpg",
+        "content": "Dies App finde ich sehr und gute Tagebuch kann ich gut rein schreiben.",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.4.3",
+        "at": "2020-07-22 19:34:19",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOEhsMz8CaNMxiQ9Y1fQimFyX4bRXFErgwcZVu_Jdh4hH5BR_PU0zgcjJCDTmuNopiFJwMLvN1unGewAEQ",
+        "userName": "Andreas 21",
+        "userImage": "https://lh3.googleusercontent.com/-DXRDrjP7ZMs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck2_iYAmWlsHiHurK7aWj-DzCoCzA/photo.jpg",
+        "content": "Funktioniert bei mir einwandfrei. Scheint datensparsam zu sein. Es wird zugesagt, dass die Daten nur lokal gespeichert werden. Wenn das stimmt, dann ist die app prima.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.4.1",
+        "at": "2020-07-22 05:54:35",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOGPmeEd8Va-xh7W3sIDJCQ2MU_yECtz1kliZRo2eztWy0slS5Zh-U-I2ZRH3OLmZGhyrKM6p-sm8MXpUw",
         "userName": "Gary Bob",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgaqTK0GbxncBqaJftBBhmEjiWPUH-trMFKKlrWyQ",
@@ -89,7 +125,7 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Ghja_im81N53N0UCvbmnpQ3VH93AXMG2w7elX9Sqt0",
         "content": "Ich nutze die App nun schon eine Weile. Es ist sch\u00f6n, dass kein tracking oder tracing notwendig ist. Nat\u00fcrlich bedarf es einer gr\u00f6\u00dferen Disziplin w\u00e4hrend oder am Ende des Tages alle Aktivit\u00e4ten und Kontakte einzutragen. Gerade habe ich mir das aktuelle Update heruntergeladen und hoffe, dass man an der einen oder anderen Stelle Korrekturen vornehmen kann.",
         "score": 5,
-        "thumbsUpCount": 9,
+        "thumbsUpCount": 10,
         "reviewCreatedVersion": "1.4.1",
         "at": "2020-06-18 11:15:16",
         "replyContent": null,
@@ -110,7 +146,7 @@
     {
         "reviewId": "gp:AOqpTOE1f_dKvJWRyGORM5GCbiLkWfkX5kb6tQUtXNqXDnuMdromOjnGSvCOhVQaI_Ycwkq1rijWb98mw37-eA",
         "userName": "Ingo Wucherpfennig",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgphQD4aL1F6PlHWrydBTsQIBzOcHt6XXzBY0bC",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhVezr7VYHTA2mqddivPT-pgeJq__NC5SghG1er_9g",
         "content": "App okay",
         "score": 5,
         "thumbsUpCount": 0,
@@ -137,7 +173,7 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiJ0M-bLhfJO1KkH2OPH5de8yaO3wSBPi9y11SPSg",
         "content": "Die Idee ist toll, einfach weil man sich diese Informationen nicht noch zus\u00e4tzlich merken muss und an der Stelle Unsicherheit vermeidet. Es w\u00e4re toll, wenn die Eintr\u00e4ge (Personen, wie auch Orte) nachtr\u00e4glich noch korrigiert werden k\u00f6nnten (\u00fcbers nach links wischen kann man sie ja nur l\u00f6schen) und wie schon unten beschrieben eventuell Gruppengr\u00f6\u00dfen ausgew\u00e4hlt werden k\u00f6nnten. Dann w\u00e4r's so ziemlich perfekt.",
         "score": 4,
-        "thumbsUpCount": 6,
+        "thumbsUpCount": 8,
         "reviewCreatedVersion": "1.4.0",
         "at": "2020-06-16 11:32:19",
         "replyContent": null,
@@ -146,7 +182,7 @@
     {
         "reviewId": "gp:AOqpTOGbgobJxud7XOwswBjT3V5OoKPtrmSqQ0TsryZ1Ogjos9PdIVexBdqAHLud9-zhPIUu9yFu05SSB8C2eQ",
         "userName": "Daniel Bickel",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhXeZ_oPZwUWqDMRvYgjgSaQuMWi_z91b4DY_oRaeo",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GggR7QKH1pRHVcLquvYLg-f61gjXPSB4Fmy1QwWDLI",
         "content": "Sehr gut",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1142,7 +1178,7 @@
     {
         "reviewId": "gp:AOqpTOHR2H-SBB0v8jCsXaTVrunRzdvAHVJJjQLVARzmTacM8lq3hGCqhfQR7Qw8Sc2R--Ojee90wA6YZPySzw",
         "userName": "Olaf Klinkert",
-        "userImage": "https://lh3.googleusercontent.com/-UfBjzjihfMU/AAAAAAAAAAI/AAAAAAAAJTI/AMZuucndE800GaRG8kWXXQRWoqYo_oEaHg/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgxSIPNKyNeBUAqKhj8zaHjof6ecAHDEa0M7uZUeQ",
         "content": "Naja, war ein Versuch und hinterl\u00e4sst nur Kopfsch\u00fctteln.",
         "score": 1,
         "thumbsUpCount": 3,

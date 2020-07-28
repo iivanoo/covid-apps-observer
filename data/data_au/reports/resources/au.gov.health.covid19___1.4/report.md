@@ -233,6 +233,8 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 <img src="2_star_reviews_wordcloud.png" alt="au.gov.health.covid19 2 reviews"/>
 </p>
 
+> Was a pretty useless app, can find out the same info online or by watching the news<br> :date: __2020-07-27 04:56:10__
+
 > Never been able to open app<br> :date: __2020-07-08 12:03:11__
 
 > I'm sure it's a great app but there is constantly a reminder in my notifications that I can't get rid of. Very very frustrating.<br> :date: __2020-05-28 18:16:57__
@@ -251,8 +253,6 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 
 > Please add a prominent link to the covidsafe app.<br> :date: __2020-04-27 00:50:53__
 
-> Update too late every day<br> :date: __2020-04-27 00:17:59__
-
 
 
 #### 1-star reviews
@@ -260,6 +260,12 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="au.gov.health.covid19 1 reviews"/>
 </p>
+
+> The app turns itself off.<br> :date: __2020-07-27 00:14:24__
+
+> I get an alert, and when i click on it, i cant see the alert. It's probably buried in there somewhere under one of the options, but i cant find it. Aweful user interface. Maybe hire a UX consultant when you get around to addressing this in future.<br> :date: __2020-07-23 09:22:41__
+
+> 3.8 Million dollars to create this app? Australia tax payers got extorted!<br> :date: __2020-07-21 12:02:42__
 
 > A great idea but shame we have the morons out of touch with reality running the states and country! I had this installed but with restrictions continuing no point continuing with this app!<br> :date: __2020-07-11 04:39:49__
 
@@ -274,11 +280,5 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 > Don't tell you anything<br> :date: __2020-06-21 15:00:17__
 
 > I was violated by having this app installed on my phone without any notice or warning or most importantly MY CONSENT.<br> :date: __2020-06-10 05:41:48__
-
-> Useless<br> :date: __2020-06-09 23:40:47__
-
-> Since you have updated this app there are now no more new case numbers for states for the day the most important information is missing.<br> :date: __2020-06-07 08:58:11__
-
-> Was totally changed in the update ; how bloody stupid. Idiotic.<br> :date: __2020-06-07 01:05:56__
 
 

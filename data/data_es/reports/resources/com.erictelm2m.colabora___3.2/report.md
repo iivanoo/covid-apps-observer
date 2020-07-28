@@ -146,6 +146,8 @@ The COVID-19.eus app has been installed by more than **50000** times. At this ti
 <img src="4_star_reviews_wordcloud.png" alt="com.erictelm2m.colabora 4 reviews"/>
 </p>
 
+> Esta Aplicación está bien que informa del coronas virus<br> :date: __2020-07-25 21:40:43__
+
 > Me ha aparecido un mensaje que la sesión ha expirado, que desinstale y vuelva a instalar. Y sigue apareciendo ese mensaje que imposibilita un uso correcto. Se rogaría un arreglo o, al menos, una explicación en la ayuda de la app. Nota añadida: se ha arreglado sin que yo interviniera.<br> :date: __2020-07-12 00:54:07__
 
 > En la última actualización salta un aviso que dice...la sesión ha expirado desinstala la app y vuelve a instalarla...ya lo he hecho y salta el mismo aviso!! Además ha desaparecido la imagen de perfil.<br> :date: __2020-06-29 20:20:45__
@@ -164,8 +166,6 @@ The COVID-19.eus app has been installed by more than **50000** times. At this ti
 
 > Muy buena<br> :date: __2020-06-07 10:51:56__
 
-> Fácil, cómoda<br> :date: __2020-06-07 10:31:55__
-
 
 
 #### 3-star reviews
@@ -173,6 +173,8 @@ The COVID-19.eus app has been installed by more than **50000** times. At this ti
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="com.erictelm2m.colabora 3 reviews"/>
 </p>
+
+> No es muy intuitiva la verdad... Creo que no se está publicitando lo suficiente. Si la usamos 4 gatos, no va a servir de mucho. Yo me enteré y me la descargue porque me dijo mi hermano.<br> :date: __2020-07-22 00:58:53__
 
 > Estaría bien que lo anunciaran en castellano, yo he llegado aquí por un anuncio en daylimotion y nos seguimos empeñando en que todo el mundo sabe euskera cuando no es así, castellano si que sabemos todos. Esto es de interés general, por favor, ponedle sentido y permitidnos enterarnos a la primera. Edito! Mirad la respuesta, me refería a la publicidad de la app, para contestar eso la verdad es que no se para que pagan a un community manager.<br> :date: __2020-07-01 11:20:50__
 
@@ -191,8 +193,6 @@ The COVID-19.eus app has been installed by more than **50000** times. At this ti
 > App en mejora. La verdad es que lo han actualizado constantemente y se agradece. Es funcional y útil si los de tu alrededor lo utilizan.<br> :date: __2020-06-07 10:33:23__
 
 > La aplicación está bien, el objetivo es muy positivo, pero mo sirve de nada si nadie de mi alrededor lo tiene. Sería mas fácil que la aplicación te añadirá directamente los contactos que tienen la app, y los pusiera en tú círculo. En vez de andar enviando y aceptando solicitudes. Tambien podría tener acceso a la localización para saber por donde ha andado.<br> :date: __2020-06-05 14:56:39__
-
-> Si me fubcionó. Estaría bien que pudieses seleccionar a muchos contactos de tu agenda para que se envie el mensaje a la vez. Si no es muy dificil que la gente se anime.. Mucho tiempo. Asi somos...<br> :date: __2020-05-29 16:16:42__
 
 
 

@@ -133,6 +133,8 @@ The SiciliaSiCura app has been installed by more than **50000** times. At this t
 <img src="5_star_reviews_wordcloud.png" alt="com.siciliasicura.app 5 reviews"/>
 </p>
 
+> App molto utile e semplice da utilizzare. Consigliata! Ricordatevi però di fare il check-in solo quando sarete in Sicilia come spiega chiaramente la mail che riceverete in fase di registrazione.<br> :date: __2020-07-23 16:19:11__
+
 > Pratica e semplice<br> :date: __2020-07-18 17:48:14__
 
 > Iscrizione facile e sicura. App ben fatta e chiara da usare.<br> :date: __2020-07-18 00:00:46__
@@ -151,8 +153,6 @@ The SiciliaSiCura app has been installed by more than **50000** times. At this t
 
 > Ottima ed estremamente semplice<br> :date: __2020-06-16 18:12:35__
 
-> Funzionale. Mi piace.<br> :date: __2020-06-07 15:36:48__
-
 
 
 #### 4-star reviews
@@ -160,6 +160,8 @@ The SiciliaSiCura app has been installed by more than **50000** times. At this t
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.siciliasicura.app 4 reviews"/>
 </p>
+
+> Il problema sul codice fiscale invalido causa secondo nome non si è ripresentato più. Modifico recensione e valutazione<br> :date: __2020-07-24 11:04:17__
 
 > Stamattina ha ricevuto 5 mail di reset e ho potuto effettuare il login. Grazie per l'aiuto.<br> :date: __2020-07-02 09:53:40__
 
@@ -213,6 +215,10 @@ The SiciliaSiCura app has been installed by more than **50000** times. At this t
 <img src="2_star_reviews_wordcloud.png" alt="com.siciliasicura.app 2 reviews"/>
 </p>
 
+> Non si apre l'app<br> :date: __2020-07-26 19:15:58__
+
+> App inutile, con diligenza e rispetto l'ho installata ed utilizzata giornalmente. Ma mi sembra di combattere contro i mulini a vento, la mascherina è indossata da poche persone locali, la utilizzano solo i turisti e il personale dei negozi ma non gli avventori. In tante occasioni chi la porta è soggetto a scherno e risate varie, la distanza sociale non è cosa loro ed i controlli non si vedono in giro. Ma se ne discuti con le persone dicono che sono stati bravi e rispettosi , contenti loro.<br> :date: __2020-07-23 08:38:25__
+
 > Non si riesce a immettere la data di nascita il sistema non sta funziona<br> :date: __2020-07-13 13:45:50__
 
 > Nn si vedono i mesi dell' anno e tanto meno l anno, bisogna andare a fortuna o contare all indietro. Vedete di modificare e di semplificare l'iscrizione<br> :date: __2020-07-04 16:24:40__
@@ -229,10 +235,6 @@ The SiciliaSiCura app has been installed by more than **50000** times. At this t
 
 > Nn riesco ad effettuare la registrazione, né dall'APP, tantomenovia web...scade in continuazione il time della verifica captcha...<br> :date: __2020-06-10 16:14:27__
 
-> L'applicazione è tutta in italiano, solo dopo si può scegliere la lingua di preferenza, molto dopo. Un turista che arriva dall'estero e non conosce l'italiano, come dovrebbe fare? Ai gestori di strutture ricettive si dice di dire scaricare l'app, di controllare che l'ospite l'abbia scaricata, ma gli ospiti che non parlano italiano stanno riscontrando un sacco di difficoltà, non comprendendo neanche il consenso ai dati personali.... sistematela subito!!!<br> :date: __2020-06-07 23:36:49__
-
-> Non riesco ad iscrivermi al sito o per lo meno non trovo da dove registrarmi<br> :date: __2020-06-03 10:43:25__
-
 
 
 #### 1-star reviews
@@ -240,6 +242,14 @@ The SiciliaSiCura app has been installed by more than **50000** times. At this t
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="com.siciliasicura.app 1 reviews"/>
 </p>
+
+> Orribile quasi impossibile e molto(ma molto) difficile da capire sono riuscito dopo un ora a registrarmi..... e poi devo fare il check-in al momento d'arrivo vosa da matti<br> :date: __2020-07-26 16:36:12__
+
+> Non riesco ad accedere<br> :date: __2020-07-23 12:10:44__
+
+> Inutile. Solo perdita di (troppo) tempo. Obbligatoria la registrazione su app e poi si sta tutti insieme appassionatamente. Ridicoli. É solo una scusa per sapere costantemente dove siamo, con chi siamo e cosa facciamo: la sviluppatrice deve essere mia madre😒<br> :date: __2020-07-22 12:46:16__
+
+> Scaricata l'app ho fatto un primo accesso poi non mi permette di farne altri non mi fa accedere. Era meglio scegliere altre località....vedremo come andrà a finire! L'ho saputo solo biglietto alla mano se sapevo non ci sarei andato in Sicilia. Il viaggio dovrebbe essere rilassante<br> :date: __2020-07-22 04:55:09__
 
 > Mi sembra fatta male, la installo, non so nemmeno a cosa serva e mi chiede il consenso alla privacy.<br> :date: __2020-07-20 10:56:22__
 
@@ -252,13 +262,5 @@ The SiciliaSiCura app has been installed by more than **50000** times. At this t
 > Applicazione x ora totalmente inefficente. Dopo la registrazione non riconosce ne username ne password. Non esegue il reset della password . Neanche dopo il vostro intervento tramite helpdesk con reset password. Una nuova registrazione inefficente perché sei già registrato con i tuoi dati. Uno che viene in vacanza in Sicilia non può stare in balia giorni dietro applicazioni o call center. Predisponete anche un cartaceo forse risolviamo.<br> :date: __2020-07-16 01:20:46__
 
 > Finalmente sono riuscito a mettere le date a questo punto proseguo con la registrazione tutto ok ma quando voglio entrare mi dice credenziali non valide allora chiedo di recuperare la password ok faccio nuova password la storia non cambia continua a dirmi credenziali non valide ma che applicazione è non vale niente io la disinstallo e parto lo stesso poi si vedrà arrivederci<br> :date: __2020-07-13 18:06:31__
-
-> Buonasera, cortesemente devo interpellare qualche scienziato informatico x registrarmi, manca solo che mi chiede il giorno che devo morire😱😱😱<br> :date: __2020-07-10 17:20:36__
-
-> Non riesco nemmeno ad aprire l'app.. si blocca subito dopo averla scaricata. Risolvete per favore<br> :date: __2020-07-09 15:13:42__
-
-> Confermo CIÒ detto da altri prima di me , non si riesce a fare la registrazione anche cambiando 4 volte la password ci aiutate voi a fare la registrazione con la vostra app che non funziona grazie . 0<br> :date: __2020-07-08 16:51:38__
-
-> vorrei sapere come faccio a vedere che data ho inserito come presunto arrivo in sicilia che gia nn mi ricordo più mi sono registrata ma nn ricordo piu la data hahahh comuque dovreste aggiungere come opzione la data di partenza dalla propria regione per la sicilia e in caso di poterla cambiare<br> :date: __2020-07-08 12:24:36__
 
 

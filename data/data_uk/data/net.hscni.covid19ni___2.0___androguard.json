@@ -1,0 +1,34 @@
+{
+    "permissions": [
+        "android.permission.WAKE_LOCK",
+        "android.permission.ACCESS_WIFI_STATE",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.INTERNET",
+        "com.google.android.c2dm.permission.RECEIVE",
+        "net.hscni.covid19ni.permission.C2D_MESSAGE"
+    ],
+    "activities": [
+        "crc641e66d166111bdf3e.FormAuthenticatorActivity",
+        "crc641e66d166111bdf3e.WebAuthenticatorActivity",
+        "crc641e66d166111bdf3e.WebAuthenticatorNativeBrowserActivity",
+        "com.microsoft.windowsazure.mobileservices.authentication.RedirectUrlActivity",
+        "crc64f98dd38067c0c88b.FormAuthenticatorActivity",
+        "crc64f98dd38067c0c88b.WebAuthenticatorActivity",
+        "crc64f98dd38067c0c88b.WebViewActivity",
+        "crc64f98dd38067c0c88b.WebAuthenticatorNativeBrowserActivity",
+        "crc647ed0c9d575941536.MainActivity",
+        "com.google.android.gms.common.api.GoogleApiActivity"
+    ],
+    "urls": [
+        "http://schemas.android.com/apk/res/android",
+        "https://plus.google.com/",
+        "http://www.w3.org/2001/XMLSchema-instance",
+        "http://schemas.microsoft.com/netservices/2010/10/servicebus/connect",
+        "http://www.w3.org/2005/Atom",
+        "http://schemas.android.com/apk/res-auto",
+        "https://in.appcenter.ms",
+        "https://mobile.events.data.microsoft.com/OneCollector/1.0",
+        "https://www.googleapis.com/auth/games_lite",
+        "https://www.googleapis.com/auth/games"
+    ]
+}

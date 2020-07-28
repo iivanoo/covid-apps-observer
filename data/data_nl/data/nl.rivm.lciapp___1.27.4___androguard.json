@@ -1,0 +1,28 @@
+{
+    "permissions": [
+        "android.permission.INTERNET",
+        "android.permission.CALL_PHONE",
+        "android.permission.READ_PHONE_STATE"
+    ],
+    "activities": [
+        "nl.rivm.lciapp.view.activity.SplashActivity",
+        "nl.rivm.lciapp.view.activity.MainActivity",
+        "com.google.android.gms.common.api.GoogleApiActivity"
+    ],
+    "urls": [
+        "http://schemas.android.com/apk/res/android",
+        "https://plus.google.com/",
+        "https://www.googleapis.com/auth/plus.login",
+        "https://www.googleapis.com/auth/plus.me",
+        "http://schemas.android.com/apk/lib/com.google.android.gms.plus",
+        "https://lci.rivm.nl",
+        "https://applog.dtnr.nl",
+        "https://itunes.apple.com/us/app/rivm-lci-richtlijnen/id1257029340?ls=1&mt=8 ",
+        "https://play.google.com/store/apps/details?id=nl.rivm.lciapp",
+        "http://xmlpull.org/v1/doc/features.html#process-namespaces",
+        "http://xmlpull.org/v1/doc/features.html#validation",
+        "http://schemas.android.com/apk/res-auto",
+        "https://www.googleapis.com/auth/games_lite",
+        "https://www.googleapis.com/auth/games"
+    ]
+}

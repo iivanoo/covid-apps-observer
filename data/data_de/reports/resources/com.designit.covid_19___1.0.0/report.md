@@ -131,13 +131,11 @@ The COVID-19 Symptom Tracker app has been installed by more than **10000** times
 <img src="5_star_reviews_wordcloud.png" alt="com.designit.covid_19 5 reviews"/>
 </p>
 
+> Top-Bin Begeistert :-) weiter so.update,seit ca 1 Woche klingelt das Handy bis zu 20 x und mehr durchgehend, wenn die Tägliche Nachricht kommt,warum auch immer.Jetzt sieht es so aus das keine tägliche Nachricht mehr kommt,man muss selber immer dran denken Neuerdings lädt die app extrem lange bis sie sich öffnet,das gleiche auch beim beenden<br> :date: __2020-07-22 23:04:55__
+
 > Winkelnkemper hildegard<br> :date: __2020-06-25 16:08:07__
 
-> Top-Bin Begeistert :-) weiter so.update,seit ca 1 Woche klingelt das Handy bis zu 20 x und mehr durchgehend, wenn die Tägliche Nachricht kommt,warum auch immer.Jetzt sieht es so aus das keine tägliche Nachricht mehr kommt,man muss selber immer dran denken<br> :date: __2020-06-18 17:30:36__
-
 > Ich finde diese Corona App sinnvoll und gut<br> :date: __2020-06-17 10:35:16__
-
-> ich finde Corona warn app sehr gut.<br> :date: __2020-06-13 09:24:26__
 
 > Sehr gute app<br> :date: __2020-06-12 10:18:43__
 
@@ -150,6 +148,8 @@ The COVID-19 Symptom Tracker app has been installed by more than **10000** times
 > Sehr gute App funktioniert einfach gut und für die Gesundheit macht man viel und man nimmt sich die paar Sekunden dafür<br> :date: __2020-04-30 18:41:10__
 
 > App hat sich komplett auf Anfang zurückgesetzt.. alles umsonst!<br> :date: __2020-04-30 14:01:26__
+
+> Die Fragebögen sind schnell und einfach zu beantworten. MACHT EINEN SCREENSHOT DES BENUTZERNAMENS, denn neim Update am 29.4.2020 gingen die gespeicherten Informationen verloren und ohne den alten Benutzernamen können meine Antworten von vor und nach dem Update nicht verbunden werden.<br> :date: __2020-04-30 10:21:12__
 
 
 
@@ -176,6 +176,8 @@ The COVID-19 Symptom Tracker app has been installed by more than **10000** times
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="com.designit.covid_19 3 reviews"/>
 </p>
+
+> Die App ist vernünftig stellt die richtigen Fragen mal sehen ob die App auch noch so gut bleibt in den nächsten Monaten die uns ja wahrscheinlich noch bevorstehen werden seit neuestem lade die App einfach zu lange bis die aufgeht bitte fixen dann wieder 5 Sterne<br> :date: __2020-07-25 23:45:56__
 
 > Die App ist unheimlich langsam, da macht das Einloggen und Beantworten keinen Spaß. Auf die Kennzahlen wartet man immer noch. Ich hab's nur deshalb noch nicht deinstalliert, weil ich es wichtig finde, an vielen Stellen bei der Erforschung zu unterstützen.<br> :date: __2020-07-04 21:37:54__
 
@@ -219,7 +221,11 @@ The COVID-19 Symptom Tracker app has been installed by more than **10000** times
 <img src="1_star_reviews_wordcloud.png" alt="com.designit.covid_19 1 reviews"/>
 </p>
 
-> Ich werde die App wieder Deeinstallieren weil hier nichts passiert seit Anfang an steht das die Zahlen überarbeitet werden die app ist zu langsam es dreht sich lange der Kreis es gab schon lange kein update mehr<br> :date: __2020-07-18 07:18:07__
+> Mein Handy zeigt ständig an, "(die App ist mit Ihrem Gerät nicht kompatibel & dadurch nicht verfügbar"), trotz aktiv ständig mein Google Dienst ist, sagt mein neues Huawei Y6 & lehnte die App ab!<br> :date: __2020-07-28 06:41:48__
+
+> Nicht zu Empfehlen Ich werde Jetzt die App wieder Deeinstallieren Seit 21.5. Kein Updater Seit Anfang an steht da das die Risiko zahlen überarbeitet werden es tut sich nichts die App ist langsam.es dreht sich lange der Kreis bis mal was weiter geht so macht das ganze kein Spaß<br> :date: __2020-07-22 19:04:41__
+
+> Hilft nix ist umständlich und muß nach jedem Smartphonestart neu aufgerufen werden.<br> :date: __2020-07-20 18:43:23__
 
 > Ich deinstallier das wieder..., hab keine Lust mehr. Wenn ihr unbedingt Informationen wollt, dann gebt dem Affen Zucker ;-)<br> :date: __2020-06-27 18:10:36__
 
@@ -234,9 +240,5 @@ The COVID-19 Symptom Tracker app has been installed by more than **10000** times
 > Die App ist völlig unausgereift ! Es gibt keine Möglichkeit Fehlangaben zu korrigieren. Ich habe bei der Frage auf Corona-Testung versehentlich auf positiv getippt, dabei bin ich aktuell negativ ! Keine Möglichkeit dies zu korrigieren !!! So macht es keinen Sinn und ergibt verfälschte Ergebnisse ! In dieser Form ist die App untauglich und wird zu meinem Bedauern deinstalliert! DIE APP BITTE GEWISSENHAFT ÜBERARBEITEN ! Mit freundlichen Grüßen.<br> :date: __2020-05-22 12:32:33__
 
 > Total schlecht woher soll einer wissen ob er es hat oder nicht da nicht jeder Symptome hat xD also die Hersteller von den hier sind echt miserabel. Wenn es gehen würde -5 Sterne<br> :date: __2020-05-20 09:47:15__
-
-> Sollte uns helfen!? Nachtrag: Jedes mal die gleichen Fragen! Der Sinn erschließt sich mir nicht! Deinstalliert!!!<br> :date: __2020-05-17 09:53:07__
-
-> Ich verstehe den Sinn der App nicht so Recht... Ich beantworte jeden Tag die Fragen und was passiert? Genau... Nix...<br> :date: __2020-05-14 22:04:34__
 
 

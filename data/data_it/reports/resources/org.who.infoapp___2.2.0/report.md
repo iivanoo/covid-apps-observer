@@ -172,6 +172,8 @@ No recent reviews available with 2 stars.
 <img src="1_star_reviews_wordcloud.png" alt="org.who.infoapp 1 reviews"/>
 </p>
 
+> Non riconosce Taiwan e Hong Kong nella ricerca del paese desiderato. Ciò indica che WHO si è venduta alla Cina. Male male, come sempre il governo cinese non ha anima.<br> :date: __2020-07-23 15:04:05__
+
 > Visto che molte persone non conoscono l'inglese (e tra queste anche io)sarebbe più opportuno metterla in italiano<br> :date: __2020-07-01 16:19:18__
 
 > Non si apre mi da errore<br> :date: __2020-06-18 14:35:44__

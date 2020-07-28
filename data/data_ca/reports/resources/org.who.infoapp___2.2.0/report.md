@@ -128,6 +128,10 @@ The WHO Info app has been installed by more than **100000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="org.who.infoapp 5 reviews"/>
 </p>
 
+> Good<br> :date: __2020-07-25 13:49:03__
+
+> Better app. I like it<br> :date: __2020-07-24 12:12:56__
+
 > Google play<br> :date: __2020-07-18 22:21:48__
 
 > Good job<br> :date: __2020-06-30 16:55:28__
@@ -143,10 +147,6 @@ The WHO Info app has been installed by more than **100000** times. At this time,
 > Ok<br> :date: __2020-06-10 03:01:27__
 
 > ➕➕🅰🅰🅰➕➕ 🍀🍀😊😊😊🍀🍀 📖📖🙏🙏🙏📖📖<br> :date: __2020-06-08 13:46:53__
-
-> its good for us thamk you W.H.O<br> :date: __2020-06-06 16:10:24__
-
-> Cumilla Debidwer Gunaighar<br> :date: __2020-06-06 15:19:02__
 
 
 

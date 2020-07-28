@@ -188,6 +188,14 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 <img src="5_star_reviews_wordcloud.png" alt="gov.cdc.general 5 reviews"/>
 </p>
 
+> Seems as informative as we can get.<br> :date: __2020-07-27 00:32:28__
+
+> Important to know whats going on.<br> :date: __2020-07-25 23:50:52__
+
+> I never tried it before so it my first time I am now sick 😷 So I so this aap now I am going tried I am very interested in the aap I hope I don't get it please let us pray 🙏 for alaah my he give as life ya ahaal<br> :date: __2020-07-25 10:19:04__
+
+> Great<br> :date: __2020-07-21 06:31:00__
+
 > Informative<br> :date: __2020-07-11 11:03:54__
 
 > It tells information about everythin<br> :date: __2020-07-11 00:53:43__
@@ -199,14 +207,6 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 > I like this app it helps to keep me informed on food outbreaks. ( I'm a cook) very important to have this information. I order thousands of dollars worth of food a month. Plus, very educational on all matter of health. Thank You<br> :date: __2020-07-06 18:21:11__
 
 > Even though our president is a dipshit I can always count on this app to give me the truth.<br> :date: __2020-06-30 19:08:00__
-
-> What a loving organization help us be safe, bless you my Lord CDC. Great app, I give you 10 sun's. 🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞<br> :date: __2020-06-27 11:47:05__
-
-> Exceptionally well done<br> :date: __2020-06-25 17:49:18__
-
-> Great amp<br> :date: __2020-06-20 02:01:10__
-
-> Can't live without it!<br> :date: __2020-06-19 16:13:02__
 
 
 
@@ -300,6 +300,10 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 <img src="1_star_reviews_wordcloud.png" alt="gov.cdc.general 1 reviews"/>
 </p>
 
+> Not what I wanted<br> :date: __2020-07-27 02:37:52__
+
+> Questions about symptoms is all grouped together. Choices for different symptoms is really important. I answered YES to symptoms, because I had no choice. Results came up urgent. That's scary. Needs to be more broad.<br> :date: __2020-07-24 00:24:34__
+
 > it doesn't work<br> :date: __2020-07-12 22:33:13__
 
 > Not a tracker<br> :date: __2020-07-05 23:23:48__
@@ -315,9 +319,5 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 > I mean, why not just use the website? It just seems kinda useless. Maybe if it was a covid-19 exposure tracker, then it may be useful, but it's not so I can't recommend it.<br> :date: __2020-06-28 03:11:43__
 
 > Outdated and useless information.<br> :date: __2020-06-21 05:55:03__
-
-> We need a national plan for contact tracing! The technology is now on our phones but the government is doing nothing<br> :date: __2020-06-20 15:58:23__
-
-> App can not be moved to external SD memory<br> :date: __2020-06-15 13:48:02__
 
 

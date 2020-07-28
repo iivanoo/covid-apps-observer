@@ -132,6 +132,8 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 <img src="5_star_reviews_wordcloud.png" alt="cat.gencat.mobi.StopCovid19Cat 5 reviews"/>
 </p>
 
+> En mi opinión está bien que tengas que introducir tus datos para que Salut pueda contactar contigo y hacer el seguimiento,pero para mí sería perfecta ya si incorporase la función de Bluetooth para avisar de sintomáticos y/o positivos cercanos.<br> :date: __2020-07-22 13:01:04__
+
 > Es muy necesaria y óptima debería de tenerla todo el mundo instalada y más ahora<br> :date: __2020-07-17 06:29:26__
 
 > Ningun problema de conecsion<br> :date: __2020-06-21 16:11:09__
@@ -150,8 +152,6 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 
 > Esta guau<br> :date: __2020-05-29 12:24:23__
 
-> Si bien el TEST no es del todo amplio y exacto, mi valoración de esta app es muy positiva en el aspecto del acompañamiento que los SANITARIOS han hecho, de forma muy correcta y amable, a las personas que hemos pasado la enfermedad en casa. Yo he recibido el mejor seguimiento y trato por parte de los sanitarios de la app que por parte de mi MÉDICO DE FAMILIA. Tristemente éste ni me llamó una vez. Todos los contactos que yo tuve con él han sido iniciados por mi misma. Muy agradecida a la app.<br> :date: __2020-05-28 11:47:04__
-
 
 
 #### 4-star reviews
@@ -159,6 +159,8 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="cat.gencat.mobi.StopCovid19Cat 4 reviews"/>
 </p>
+
+> Necesaria para Prevenir Gracias<br> :date: __2020-07-21 17:40:01__
 
 > No me deja poner el n° de tef, me sale que hay un error. La anterior era perfecta pero esta no funciona. El problema se a solucionado, ahora esta OK.<br> :date: __2020-06-12 20:44:26__
 
@@ -177,8 +179,6 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 > Es lo que hay<br> :date: __2020-04-08 13:44:40__
 
 > Util Para el seguimiento de síntomas que pudieran ser compatibles con coronavirus<br> :date: __2020-04-04 19:18:16__
-
-> Al finalizar el test no he visto que haga referencia a problemas digestivos como nauseas y diarreas y sí lo contemplan otras fuentes<br> :date: __2020-04-02 19:32:22__
 
 
 
@@ -244,6 +244,10 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 <img src="1_star_reviews_wordcloud.png" alt="cat.gencat.mobi.StopCovid19Cat 1 reviews"/>
 </p>
 
+> Es tal inútil como el servicio del 061. No contactan a través del app, como imposible hablar a través del servicio telefónico. Es una odisea la espera del 061 en Cataluña. Increíble que este gobierno catalán asuma una responsabilidad, acusando al gobierno central de ineptos y la Generalitat son tan inútiles como está app. Se les va de las manos los contagios y no son capaces de controlar a través de una aplicación u otro medio digital los posibles rebrotes del covid-19.<br> :date: __2020-07-26 11:59:39__
+
+> Me interesa saber con esta aplicación si tenemos cerca algún infectado no si lo estoy yo y esta app no t lo dice<br> :date: __2020-07-21 07:18:13__
+
 > No me abre la app.<br> :date: __2020-07-19 23:03:34__
 
 > No sirve para nada<br> :date: __2020-07-18 13:47:29__
@@ -259,9 +263,5 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 > No acepta mi numero de telefono dice que hay un erro<br> :date: __2020-06-27 06:15:08__
 
 > Inutil<br> :date: __2020-06-14 02:53:54__
-
-> No me deja poner mi número de teléfono<br> :date: __2020-06-10 13:44:09__
-
-> No funciona Estoy harta de intentArlo<br> :date: __2020-06-09 07:16:21__
 
 

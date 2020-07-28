@@ -1,0 +1,31 @@
+{
+    "permissions": [
+        "android.permission.WAKE_LOCK",
+        "android.permission.FOREGROUND_SERVICE",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        "android.permission.INTERNET",
+        "android.permission.BLUETOOTH"
+    ],
+    "activities": [
+        "at.roteskreuz.stopcorona.screens.routing.RouterActivity",
+        "at.roteskreuz.stopcorona.screens.base.CoronaBaseActivity",
+        "at.roteskreuz.stopcorona.screens.base.CoronaPortraitBaseActivity",
+        "at.roteskreuz.stopcorona.screens.reporting.ReportingActivity",
+        "at.roteskreuz.stopcorona.screens.base.FullScreenPortraitBaseActivity",
+        "com.google.android.gms.oss.licenses.OssLicensesActivity",
+        "com.google.android.gms.oss.licenses.OssLicensesMenuActivity",
+        "at.roteskreuz.stopcorona.screens.dashboard.DashboardActivity",
+        "com.google.android.gms.common.api.GoogleApiActivity"
+    ],
+    "urls": [
+        "http://schemas.android.com/apk/res/android",
+        "https://play.google.com/store/apps/details?id=",
+        "https://plus.google.com/",
+        "http://localhost/",
+        "http://schemas.android.com/apk/res-auto",
+        "https://app.prod-rca-coronaapp-fd.net/Rest/v8/",
+        "https://sms.prod-rca-coronaapp-fd.net/api/v1/",
+        "https://cdn.prod-rca-coronaapp-fd.net"
+    ]
+}

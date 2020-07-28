@@ -3,63 +3,63 @@
         "id": "it.softmining.projects.covid19.savelifestyle",
         "store_country": "it",
         "store_lang": "it",
-        "latest_crawled_version": "5.0",
-        "latest_crawl": 1595252210
+        "latest_crawled_version": "5.1",
+        "latest_crawl": 1595923867
     },
     {
         "id": "it.lispa.sire.app.mobile.allertalom",
         "store_country": "it",
         "store_lang": "it",
         "latest_crawled_version": "1.7.0",
-        "latest_crawl": 1595252271
+        "latest_crawl": 1595923929
     },
     {
         "id": "com.intellicare.covid",
         "store_country": "it",
         "store_lang": "it",
         "latest_crawled_version": "1.0.15",
-        "latest_crawl": 1595252281
+        "latest_crawl": 1595923939
     },
     {
         "id": "com.siciliasicura.app",
         "store_country": "it",
         "store_lang": "it",
         "latest_crawled_version": "7.5",
-        "latest_crawl": 1595252326
+        "latest_crawl": 1595923942
     },
     {
         "id": "it.adl.aslroma3.covid19.app",
         "store_country": "it",
         "store_lang": "it",
         "latest_crawled_version": "1.0.4",
-        "latest_crawl": 1595252359
+        "latest_crawl": 1595923946
     },
     {
         "id": "org.who.infoapp",
         "store_country": "it",
         "store_lang": "it",
         "latest_crawled_version": "2.2.0",
-        "latest_crawl": 1595252363
+        "latest_crawl": 1595923947
     },
     {
         "id": "de.xikolo.openwho",
         "store_country": "it",
         "store_lang": "it",
-        "latest_crawled_version": "3.3.2",
-        "latest_crawl": 1595252366
+        "latest_crawled_version": "3.4",
+        "latest_crawl": 1595924033
     },
     {
         "id": "it.ministerodellasalute.immuni",
         "store_country": "it",
         "store_lang": "it",
         "latest_crawled_version": "1.3.0",
-        "latest_crawl": 1595252463
+        "latest_crawl": 1595924154
     },
     {
         "id": "it.regione.sardegna.autorizzazionicovid19",
         "store_country": "it",
         "store_lang": "it",
-        "latest_crawled_version": "1.3.3",
-        "latest_crawl": 1595252579
+        "latest_crawled_version": "1.3.4",
+        "latest_crawl": 1595924194
     }
 ]

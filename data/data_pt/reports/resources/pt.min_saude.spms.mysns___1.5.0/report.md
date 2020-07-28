@@ -171,6 +171,8 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <img src="5_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 5 reviews"/>
 </p>
 
+> Boa<br> :date: __2020-07-20 21:14:55__
+
 > Boa<br> :date: __2020-07-07 14:04:32__
 
 > Muito bom obrigados<br> :date: __2020-06-27 22:40:52__
@@ -188,8 +190,6 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 > Penso que é muito importante<br> :date: __2020-04-29 21:28:10__
 
 > Gosto<br> :date: __2020-04-28 20:35:44__
-
-> Muito útil...... obrigada.<br> :date: __2020-04-28 11:23:38__
 
 
 
@@ -283,6 +283,8 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <img src="1_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 1 reviews"/>
 </p>
 
+> Meus caros do SNS, a trampa desta aplicação funciona ou não? Ou é mais uma app fantasma?<br> :date: __2020-07-24 20:06:43__
+
 > Não consigo entrar no site e fazer qualquer pedido de medicação... quem me pode ajudar???!!!<br> :date: __2020-07-17 09:09:08__
 
 > Esta app apenas serve de launcher para os servicos que estão disponíveis na net.<br> :date: __2020-07-14 22:33:15__
@@ -300,7 +302,5 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 > Muito complexa... Não funciona...<br> :date: __2020-06-17 12:28:42__
 
 > aplicacao sem utilidade alguma , neste momento nao serve para nada, ZERO.<br> :date: __2020-06-16 10:35:35__
-
-> A única coisa que parece trabalhar é o envio de relatórios de erro... App não funcional.<br> :date: __2020-06-14 20:12:51__
 
 

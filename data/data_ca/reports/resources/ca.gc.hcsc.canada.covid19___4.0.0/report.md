@@ -133,6 +133,10 @@ The Canada COVID-19 app has been installed by more than **100000** times. At thi
 <img src="5_star_reviews_wordcloud.png" alt="ca.gc.hcsc.canada.covid19 5 reviews"/>
 </p>
 
+> Great experience, I like to know everything that happened in the world and good news and the bad<br> :date: __2020-07-26 01:27:31__
+
+> Impressed 🖖<br> :date: __2020-07-25 03:50:03__
+
 > great info soutce<br> :date: __2020-07-14 15:20:29__
 
 > I am very happy with this App. I have been using it every day to check our country's COVID-19 status. I trust the information provided by this App over and above "ANY" media or news groups...<br> :date: __2020-07-12 19:20:23__
@@ -149,10 +153,6 @@ The Canada COVID-19 app has been installed by more than **100000** times. At thi
 
 > Educational updates daily.<br> :date: __2020-06-05 17:53:24__
 
-> Very easy to use, hipefuy the info provided is of use to the government.<br> :date: __2020-06-01 07:17:38__
-
-> Very important to follow this pandemic<br> :date: __2020-05-25 18:48:58__
-
 
 
 #### 4-star reviews
@@ -160,6 +160,8 @@ The Canada COVID-19 app has been installed by more than **100000** times. At thi
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="ca.gc.hcsc.canada.covid19 4 reviews"/>
 </p>
+
+> Good but tracing would make it better<br> :date: __2020-07-25 19:27:34__
 
 > Add "have you been tested for Covid-19" & "what date" in the section for symptoms (ie a cough)<br> :date: __2020-06-16 03:44:25__
 
@@ -179,8 +181,6 @@ The Canada COVID-19 app has been installed by more than **100000** times. At thi
 
 > cool app. would be cool to zolm in on an area to see where the hot spots are. infected people.<br> :date: __2020-04-24 04:37:01__
 
-> In my opinion this app should also cover measure and step by step instructions for self isolating and infected people.<br> :date: __2020-04-21 05:35:23__
-
 
 
 #### 3-star reviews
@@ -188,6 +188,10 @@ The Canada COVID-19 app has been installed by more than **100000** times. At thi
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="ca.gc.hcsc.canada.covid19 3 reviews"/>
 </p>
+
+> Well there is no DOT. to put in your temperature. Like 96.9 F do we write 97 F? Or 97.4 F we round it off to 97. This has to be fix. Something as simple as this should not be in the Beta testing phase.<br> :date: __2020-07-24 20:42:30__
+
+> Basic app. I wish they hooked it to googles contact tracing by bluetooth, that would make it 5 stars for me. And i would be much happier. Its nice to have the numbers that easy to see but i don't think it gets updated often enough<br> :date: __2020-07-21 05:16:26__
 
 > Daily reporting even if you don't have symptoms is good data.<br> :date: __2020-07-04 17:22:16__
 
@@ -205,10 +209,6 @@ The Canada COVID-19 app has been installed by more than **100000** times. At thi
 
 > Good<br> :date: __2020-06-01 22:47:52__
 
-> Should incorporate new Google tracing software. Trudeau recommended more tracing<br> :date: __2020-05-22 17:31:10__
-
-> It would be great if we also can see the map with active cases only. This would be very helpful.<br> :date: __2020-05-11 22:57:22__
-
 
 
 #### 2-star reviews
@@ -216,6 +216,8 @@ The Canada COVID-19 app has been installed by more than **100000** times. At thi
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="ca.gc.hcsc.canada.covid19 2 reviews"/>
 </p>
+
+> Very disappointed. No Bluetooth integration. Kind of a fail, not completely but close.<br> :date: __2020-07-24 18:07:44__
 
 > On the surface the app appears to do what it claims. I will update my review once I've had a chance to inspect the code for myself and do some testing of my own.<br> :date: __2020-07-05 23:34:48__
 
@@ -243,6 +245,12 @@ The Canada COVID-19 app has been installed by more than **100000** times. At thi
 <img src="1_star_reviews_wordcloud.png" alt="ca.gc.hcsc.canada.covid19 1 reviews"/>
 </p>
 
+> Installed app twice, loads first time and then crashes every time after that.<br> :date: __2020-07-24 22:46:07__
+
+> Useless. The app doesn't take advantage of contact tracing making this just an alternative for information and basic surveys which the government could have had on a website.<br> :date: __2020-07-24 21:35:15__
+
+> Very bad app. Features an embedded website for stat tracking.........<br> :date: __2020-07-24 03:45:34__
+
 > Doesn't support contact tracing, at least Google says so in the settings.<br> :date: __2020-07-08 14:48:53__
 
 > Useless<br> :date: __2020-06-25 06:52:28__
@@ -256,11 +264,5 @@ The Canada COVID-19 app has been installed by more than **100000** times. At thi
 > Do not download this app, this is another step Justin Trudeau and his communist government are taking to create a policed state. What the government is doing is quite draconian. I would not trust the government with so much power, because at some point it will be abused!<br> :date: __2020-05-23 13:04:17__
 
 > Haven't used yet i hope it is more truthful than the canadian health minister who said masks were not needed because covid wasn't very contagious when documents prove she knew she was lying. There is an app with 2 million users posting their symptoms but can only get what our government wants us to think.<br> :date: __2020-05-16 05:43:47__
-
-> Plandemic Cov.id nine teen is a hoax<br> :date: __2020-05-13 15:47:51__
-
-> Need tracking info, not just links, app is absolutely no need to have<br> :date: __2020-05-11 10:34:51__
-
-> Daily check in suddenly stopped working<br> :date: __2020-04-29 23:12:54__
 
 

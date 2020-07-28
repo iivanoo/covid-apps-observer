@@ -163,6 +163,8 @@ The Coronika - Dein Corona Tagebuch app has been installed by more than **10000*
 <img src="5_star_reviews_wordcloud.png" alt="de.kreativzirkel.coronika 5 reviews"/>
 </p>
 
+> Funktioniert bei mir einwandfrei. Scheint datensparsam zu sein. Es wird zugesagt, dass die Daten nur lokal gespeichert werden. Wenn das stimmt, dann ist die app prima.<br> :date: __2020-07-22 05:54:35__
+
 > Es Hilft und Unterstützt den Überblick zu behalten.<br> :date: __2020-07-09 20:07:05__
 
 > Gute App, leicht zu handhaben<br> :date: __2020-06-25 10:16:17__
@@ -181,8 +183,6 @@ The Coronika - Dein Corona Tagebuch app has been installed by more than **10000*
 
 > Sinnvolle Idee mit der man Symptome und noch wichtiger die Eintragungen zu getroffennen Personen um die Infektionskette nachzuvollziehen damit die zuständige Behörde mit diesen Daten etwas erreichen!!! DIE HOFFNUNG STIRBT ZULETZT UND WIR ALLE SIND SO VIEL STÄRKER ALS DIESES KLEINE BIEST DAS UNSERE WELT AUF DEN KOPF STELLT Das wird es lehren das wir keine Opfer-Beute sind sondern ein VOLK KEINE RASSEN NUR EINE MENSCHHEIT 😁👆<br> :date: __2020-04-15 14:13:38__
 
-> sehr gute Idee, um ggf etwas zurück zu verfolgen.<br> :date: __2020-04-03 12:20:29__
-
 
 
 #### 4-star reviews
@@ -190,6 +190,8 @@ The Coronika - Dein Corona Tagebuch app has been installed by more than **10000*
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="de.kreativzirkel.coronika 4 reviews"/>
 </p>
+
+> Dies App finde ich sehr und gute Tagebuch kann ich gut rein schreiben.<br> :date: __2020-07-22 19:34:19__
 
 > Auch ohne corona gut zu brauchen. Allerdings würde ich die tageseinträge gerne in der reihenfolge verschieben, zu den orten ein von-bis eintragen und personen orten zuweisen können.<br> :date: __2020-07-11 20:22:58__
 
@@ -208,8 +210,6 @@ The Coronika - Dein Corona Tagebuch app has been installed by more than **10000*
 > Leider gibt es keine Möglichkeit Tageseinträge Orte und Personen zu löschen. Nach Falscheingabe. Danke für die schnelle Antwort. Löschen funktioniert.<br> :date: __2020-04-09 15:17:45__
 
 > Hoffen wir das es uns allen was bringt.<br> :date: __2020-04-07 20:48:06__
-
-> Ganz ok, aber reicht nicht! Bitte eine Bluetooth Funktion hinzu fügen, die andere in der Nähe erkennt, die gefärdet waren sind oder sogar erkrankt sind. Diese werden anonym an die anderen Kontakte gemeldet... Ungefähr so arbeitet der Virus in seiner Verbreitung, schlagen wir ihn mit seinen eigenen Waffen...<br> :date: __2020-04-06 18:46:18__
 
 
 
@@ -275,6 +275,8 @@ The Coronika - Dein Corona Tagebuch app has been installed by more than **10000*
 <img src="1_star_reviews_wordcloud.png" alt="de.kreativzirkel.coronika 1 reviews"/>
 </p>
 
+> Mein Handy zeigt ständig an, "(die App ist mit Ihrem Gerät nicht kompatibel & dadurch nicht verfügbar"), trotz aktiv ständig mein Google Dienst ist, sagt mein neues Huawei Y6 & lehnte die App ab!<br> :date: __2020-07-28 06:41:34__
+
 > App lässt sich trotz x-facher Versuche nicht installieren, weder auf aktuellem Mi noch auf älterem iPhone.<br> :date: __2020-06-21 09:46:22__
 
 > Kam gar nicht klar<br> :date: __2020-06-20 17:51:43__
@@ -292,7 +294,5 @@ The Coronika - Dein Corona Tagebuch app has been installed by more than **10000*
 > Taugt nix<br> :date: __2020-06-01 16:30:44__
 
 > Das war mir viel zu umständlich, gerade wenn es einem sowieso nicht so gut geht.<br> :date: __2020-05-03 12:41:03__
-
-> Ich deinstalliere wider mein Fitness träckr kan ich nicht damit verbinden. Und ich möchte ja eine schlaf überwachung. Aber ich gebe keine namen von Personen aus meinem Telefon Buch raus<br> :date: __2020-05-01 12:16:48__
 
 

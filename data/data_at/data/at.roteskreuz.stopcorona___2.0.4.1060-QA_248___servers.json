@@ -1,0 +1,50 @@
+[
+    {
+        "name": "google.com",
+        "registrar": "MarkMonitor Inc.",
+        "registrant": "Google LLC",
+        "registrar_country": "",
+        "registrant_country": "US",
+        "creation_date": "1997-09-15 04:00:00",
+        "expiration_date": "2028-09-14 04:00:00",
+        "last_updated": null,
+        "status": "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+        "statuses": [
+            "serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)",
+            "clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)",
+            "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+            "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited",
+            "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited",
+            "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+            "serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)",
+            "clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)",
+            "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+            "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+            "clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)",
+            "serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)"
+        ],
+        "name_servers": "{'ns3.google.com', 'ns4.google.com', 'ns2.google.com', 'ns1.google.com'}"
+    },
+    {
+        "name": "prod-rca-coronaapp-fd.net",
+        "registrar": "Wild West Domains, LLC",
+        "registrant": "Domains By Proxy, LLC",
+        "registrar_country": "",
+        "registrant_country": "US",
+        "creation_date": "2020-04-20 20:16:19",
+        "expiration_date": "2021-04-20 20:16:19",
+        "last_updated": null,
+        "status": "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+        "statuses": [
+            "clientRenewProhibited https://icann.org/epp#clientRenewProhibited",
+            "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+            "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited",
+            "clientRenewProhibited http://www.icann.org/epp#clientRenewProhibited",
+            "clientUpdateProhibited http://www.icann.org/epp#clientUpdateProhibited",
+            "clientTransferProhibited http://www.icann.org/epp#clientTransferProhibited",
+            "clientDeleteProhibited http://www.icann.org/epp#clientDeleteProhibited",
+            "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited"
+        ],
+        "name_servers": "{'ns1-08.azure-dns.com', 'ns4-08.azure-dns.info', 'ns2-08.azure-dns.net', 'ns3-08.azure-dns.org'}"
+    }
+]

@@ -160,6 +160,10 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <img src="5_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 5 reviews"/>
 </p>
 
+> Di un certo qual spessore...<br> :date: __2020-07-27 19:40:37__
+
+> A volte non è proprio perfetta, ma la trovo molto utile.<br> :date: __2020-07-21 20:24:00__
+
 > Ok<br> :date: __2020-07-18 18:01:45__
 
 > Molto utile<br> :date: __2020-07-03 22:31:26__
@@ -175,10 +179,6 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 > Applicazione aggiornata in data 22/04 funziona perfettamente, grazie della mail inviata per L aggiornamento, spero presto di essere parte della protezione civile, in data 24/06 ho superato i test per il corso volontario di protezione civile, presto dei vostri<br> :date: __2020-06-25 14:10:44__
 
 > Al momento utile.<br> :date: __2020-06-25 07:17:16__
-
-> Ottimo per conoscenza della situazione degli allertamenti<br> :date: __2020-06-21 22:53:53__
-
-> Molto utile<br> :date: __2020-06-21 21:28:18__
 
 
 
@@ -216,6 +216,10 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <img src="3_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 3 reviews"/>
 </p>
 
+> Non sempre veritiere<br> :date: __2020-07-26 16:43:10__
+
+> Problema risolto, grazie<br> :date: __2020-07-21 15:39:01__
+
 > Lavoro in uno studio odontoiatrico, noi le mascherine le togliamo hai pazienti e siamo a pochi centimetri dalla bocca con effetto aereosol e nessuno ci fa un tampone di controllo, resto molto perplessa<br> :date: __2020-07-18 18:52:01__
 
 > Sarà utile per segnalare covid ma è monotona rispondere sempre alle stesse domande tutti i giorni se non ci sono cambiamenti. Per di più l'applicazione si blocca ogni tanto con lo schermo che diventa bianco e si deve disinstallare e reinstallare tutto di nuovo....<br> :date: __2020-07-02 16:06:39__
@@ -231,10 +235,6 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 > Lasciando perdere per un attimo l'aggiunta della sezione covid, poco integrata e sviluppata, per quanto riguarda le allerte sarebbe bene un maggiore sviluppo. Ad esempio vorrei poter vedere nelle notifiche il colore e la descrizione delle allerte emesse Se si potesse sarebbe bello addirittura poter selezionare una provincia preferita per le allerte<br> :date: __2020-06-08 13:26:21__
 
 > Boh info perlopiu' inutili ed esageratamente allarmistiche<br> :date: __2020-06-06 07:58:56__
-
-> App utile e promettente, ma con problemi. Non visualizzo la mappa delle allerte, solo la lista delle zone. Per sapere dove sono le allerte le devo aprire una ad una e farle scorrere. A mio avviso, notifiche e informazioni dovrebbero essere in-app non esterne.<br> :date: __2020-06-03 18:53:11__
-
-> Le domande dovrebbero essere rivolte allo stato quotidiano dell'individuo, tenere memoria per 15 giorni un eventuale sintomo scoraggia la compilazione.<br> :date: __2020-06-02 20:34:09__
 
 
 
@@ -272,6 +272,10 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <img src="1_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 1 reviews"/>
 </p>
 
+> Risolto, grazie<br> :date: __2020-07-23 14:41:51__
+
+> Mi obbliga a compilare la parte del covid e comunque anche quando provo a compilare la parte del covid non mi lascia andare avanti continuando a dire che non ho compilato tutti i campi anche se li ho compilati<br> :date: __2020-07-21 23:56:26__
+
 > 2ww<br> :date: __2020-07-18 14:54:10__
 
 > Pessima. Sembra scritta da fontana ⛲ & gallera..😱 Peggio che inutile<br> :date: __2020-07-13 22:01:24__
@@ -286,10 +290,6 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 
 > Non riesco a scaricare<br> :date: __2020-07-02 15:20:12__
 
-> Peccato, non funziona più: a ogni accesso occorre partire da zero e arrivati alla parte Covid il questionario per me stesso non è più compilabile. Riproverò nei prossimi giorni e, se non si sblocca, disinstallo<br> :date: __2020-06-30 07:57:46__
-
 > Svegliatevi cittadini italiani,(come ci chiamano i nostri governanti intellettuali ). Non fatevi prendere in giro è un'app al solo scopo contrario alla nostra libertà, e tantomeno alla nostra salute.<br> :date: __2020-06-23 10:10:03__
-
-> Buongiorno è possibile sapere come salvare il comune preferito e ricevere le notifiche una volta x tutte? Grazie Ma è quello che faccio ogni volta che apro l'app... non dovrebbero rimanere.... anche le notifiche le salvo ogni volta e non arrivano....<br> :date: __2020-06-19 00:09:38__
 
 

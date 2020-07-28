@@ -147,6 +147,8 @@ The Smittestop app has been installed by more than **100000** times. At this tim
 <img src="5_star_reviews_wordcloud.png" alt="com.netcompany.smittestop_exposure_notification 5 reviews"/>
 </p>
 
+> Perfect app. Quietly doing it's job in the background. Hope some day it will work over the borders too when traveling around. It signalled that I have been in contact with other phones already and that's exactly what it should do.<br> :date: __2020-07-26 06:26:50__
+
 > Great solution! I am impressed by how well the app and tracing system was designed. It's impressive how the design allows to both ensure absolute privacy of all users while still being able to track infection chains anonymously. Good work!<br> :date: __2020-07-08 17:21:06__
 
 > Everyone should take note that even though the app requires location access, it doesn't use your GPS. It's only for Bluetooth based tracing 👍🏻<br> :date: __2020-06-27 14:06:19__
@@ -165,8 +167,6 @@ The Smittestop app has been installed by more than **100000** times. At this tim
 
 > Tilpas simpel til at alle kan bruge den. Tilpas sikker til at ingen bør lade være.<br> :date: __2020-06-18 10:05:05__
 
-> Non-intrusive and securing for the user! I fully approve!<br> :date: __2020-06-18 09:30:31__
-
 
 
 #### 4-star reviews
@@ -174,6 +174,10 @@ The Smittestop app has been installed by more than **100000** times. At this tim
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.netcompany.smittestop_exposure_notification 4 reviews"/>
 </p>
+
+> Fint initiativ, app'en er nem at forstå når først den er aktiv. Dog er der alt for meget at læse under første opstart, det bør gemmes væk under en "mere info" - knap. Nogle giver op undervejs. Det alvorligste problem med app'en er dog at så få kender til dens eksistens, i min omgangskreds blandt familie, venner og kolleger er det kun få. Send dog en opfordring via e-Boks og SMS til alle borgere, som man gjorde om smitten i begyndelsen af epidemien!<br> :date: __2020-07-25 08:35:09__
+
+> Ville være fint hvis den gav en mere synlig påmindelse når den af den ene eller anden årsag bliver offline. Ellers super simpel at sætte op og bruge.<br> :date: __2020-07-22 09:56:46__
 
 > I guess it works<br> :date: __2020-07-12 14:22:36__
 
@@ -190,10 +194,6 @@ The Smittestop app has been installed by more than **100000** times. At this tim
 > Positivt overrasket over at der er brugt en sikker og anonym protokol. Nemt at installere og sætte op. App'et har ikke rettighed til lokation, selvom lokation skal være slået til for at bluetooth virker. Ville have elsket at have kildekoden være offentligt tilgængelig så sikkerheden kunne verificeres.<br> :date: __2020-06-19 14:55:27__
 
 > Bruger lidt ekstra strøm, men ellers ser app'en ud til at fungere fint. Godt at den blev implementeret med privacy in mind<br> :date: __2020-06-19 08:21:56__
-
-> En super god ide, og virker godt - Få det spredt på tværs af grænser! Jeg har dog en klage.... Det er uheldigt i kræver telefonen har Google Play, hvad med alle dem med en ny Huawei? Det er virkeligt gode Android telefoner, til en fornuftig pris.<br> :date: __2020-06-19 03:38:10__
-
-> Easy installation. Would be helpful to have the choice of English language going forward, especially with the border openings.<br> :date: __2020-06-19 01:45:07__
 
 
 

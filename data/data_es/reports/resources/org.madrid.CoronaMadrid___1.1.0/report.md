@@ -150,6 +150,8 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="org.madrid.CoronaMadrid 5 reviews"/>
 </p>
 
+> Muy controlado<br> :date: __2020-07-24 00:04:41__
+
 > Sencilla de utilizar y muy útil<br> :date: __2020-07-13 15:36:55__
 
 > Te indica fácilmente si puedes tener coronavirus<br> :date: __2020-07-13 15:31:42__
@@ -167,8 +169,6 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 > Es una app estupenda para este momento<br> :date: __2020-05-01 13:22:48__
 
 > Aplicación de control del virus, correcta<br> :date: __2020-04-29 14:49:30__
-
-> Muy buena<br> :date: __2020-04-25 14:05:02__
 
 
 
@@ -206,9 +206,9 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 <img src="3_star_reviews_wordcloud.png" alt="org.madrid.CoronaMadrid 3 reviews"/>
 </p>
 
-> Sería más que adecuado, que en la próxima actualización se modificara la recomendación sobre las mascarillas (ya que desde el 21 de mayo su uso es obligatorio en muchos lugares, con independencia de si se tiene o no síntomas). Gracias.<br> :date: __2020-05-21 12:01:07__
+> La fecha de nacimiento debería poder teclearse. Podria dejar incluir resultado de una prueba de Covid.<br> :date: __2020-07-23 00:49:34__
 
-> El cuestionario parece anticuado. La tos puede ser con flema (30% casos) o seca. No pregunta desde cuándo se tienen síntomas. No pregunta por dolos de cabeza. Ni por nivel de saturación en sangre por si se tiene oxímetro. No parece que haya intención de hacer pruebas a los que tengan síntomas leves, como se debe para cambiar de fases. Un catarro debería ser motivo de test PCR<br> :date: __2020-05-11 12:59:50__
+> Sería más que adecuado, que en la próxima actualización se modificara la recomendación sobre las mascarillas (ya que desde el 21 de mayo su uso es obligatorio en muchos lugares, con independencia de si se tiene o no síntomas). Gracias.<br> :date: __2020-05-21 12:01:07__
 
 > De qué me atiendan lo pondre<br> :date: __2020-05-06 13:23:50__
 
@@ -234,6 +234,8 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 <img src="2_star_reviews_wordcloud.png" alt="org.madrid.CoronaMadrid 2 reviews"/>
 </p>
 
+> Necesita una mejora para facilitar el rastreo: una simple agenda donde podamos anotar, cada noche ( que notifique), dónde y con quien hemos estado. A falta de una app dedicada con tecnología GPS y Bluetooth, podría ayuda mucho<br> :date: __2020-07-26 09:34:13__
+
 > Hacer introducir mes a mes la fecha de nacimiento a alguien que haya nacido por ejemplo hace 50 años (no quiero pensar si se está muriendo, o tiene 80 años) me parece una idea maravillosa.<br> :date: __2020-07-11 20:35:49__
 
 > No se conecta con los servicios de Android de Covid para mandar alertas a los posibles contactos cercanos. Es algo que apenas cuesta y sirve para la trazabilidad de rebrotes... Que en la CCAA de Madrid los hay (aunque pequeños), y no se están trazando por falta de personal cualificado. Por favor Ayuso, aprovéchate de la tecnología que te hace el trabajo y además quedas bien... Si pudiste llevar el Twitter de un perro es lo menos que puedes hacer.<br> :date: __2020-06-27 17:03:46__
@@ -252,8 +254,6 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 
 > No es Científica<br> :date: __2020-04-07 21:13:10__
 
-> Incompleta, no te pregunta ciertos síntomas importantes como falta de olfato, mareo, dolor de cabeza que parece que son muy comunes<br> :date: __2020-04-06 15:12:43__
-
 
 
 #### 1-star reviews
@@ -261,6 +261,8 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="org.madrid.CoronaMadrid 1 reviews"/>
 </p>
+
+> Tengo 63 años para poner mi edad me he quedado dormido, hay que pasar pantalla una a una por mes, hasta llegar a la fecha de nacimiento.<br> :date: __2020-07-20 23:51:55__
 
 > Para poner tu fecha de nacimiento, tienes que ir bajando mes a mes desde hoy, hasta el día que naciste... A quién se le ha ocurrido?<br> :date: __2020-07-01 15:31:50__
 
@@ -279,7 +281,5 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 > Inútil<br> :date: __2020-05-19 03:45:54__
 
 > Muy básica. No vale de nada<br> :date: __2020-05-18 17:15:34__
-
-> Y la geolocalizacion no está? Pues para qué la quiero. Desinstalo.<br> :date: __2020-05-16 20:16:34__
 
 

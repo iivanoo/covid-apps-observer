@@ -1,0 +1,120 @@
+[
+    {
+        "name": "google.com",
+        "registrar": "MarkMonitor Inc.",
+        "registrant": "Google LLC",
+        "registrar_country": "",
+        "registrant_country": "US",
+        "creation_date": "1997-09-15 04:00:00",
+        "expiration_date": "2028-09-14 04:00:00",
+        "last_updated": null,
+        "status": "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+        "statuses": [
+            "serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)",
+            "clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)",
+            "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+            "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited",
+            "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited",
+            "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+            "serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)",
+            "clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)",
+            "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+            "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+            "clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)",
+            "serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)"
+        ],
+        "name_servers": "{'ns3.google.com', 'ns4.google.com', 'ns2.google.com', 'ns1.google.com'}"
+    },
+    {
+        "name": "googleapis.com",
+        "registrar": "MarkMonitor Inc.",
+        "registrant": "Google LLC",
+        "registrar_country": "",
+        "registrant_country": "US",
+        "creation_date": "2005-01-25 17:52:26",
+        "expiration_date": "2021-01-25 17:52:26",
+        "last_updated": null,
+        "status": "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+        "statuses": [
+            "serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)",
+            "clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)",
+            "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+            "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited",
+            "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited",
+            "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+            "serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)",
+            "clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)",
+            "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+            "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+            "clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)",
+            "serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)"
+        ],
+        "name_servers": "{'ns3.google.com', 'ns4.google.com', 'ns2.google.com', 'ns1.google.com'}"
+    },
+    {
+        "name": "rivm.nl",
+        "registrar": "SURFnet B.V.",
+        "registrant": "",
+        "registrar_country": "Netherlands",
+        "registrant_country": "",
+        "creation_date": "1990-07-17 00:00:00",
+        "expiration_date": null,
+        "last_updated": "2020-03-09 00:00:00",
+        "status": "active",
+        "statuses": [
+            "active"
+        ],
+        "name_servers": "{'ns2.ssc-campus.nl', 'ns2.surfnet.nl', 'ns1.surfnet.nl', 'ns1.ssc-campus.nl'}"
+    },
+    {
+        "name": "dtnr.nl",
+        "registrar": "Rijksoverheid",
+        "registrant": "",
+        "registrar_country": "Netherlands",
+        "registrant_country": "",
+        "creation_date": "2016-06-07 00:00:00",
+        "expiration_date": null,
+        "last_updated": "2016-06-07 00:00:00",
+        "status": "active",
+        "statuses": [
+            "active"
+        ],
+        "name_servers": "{'ns1.rijksoverheidnl.nl', 'ns3.rijksoverheidnl.org', 'ns4.rijksoverheidnl.com', 'ns2.rijksoverheidnl.eu'}"
+    },
+    {
+        "name": "apple.com",
+        "registrar": "CSC Corporate Domains, Inc.",
+        "registrant": "Apple Inc.",
+        "registrar_country": "",
+        "registrant_country": "US",
+        "creation_date": "1987-02-19 05:00:00",
+        "expiration_date": "2021-02-20 05:00:00",
+        "last_updated": null,
+        "status": "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+        "statuses": [
+            "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+            "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited",
+            "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+            "clientTransferProhibited http://www.icann.org/epp#clientTransferProhibited",
+            "serverDeleteProhibited http://www.icann.org/epp#serverDeleteProhibited",
+            "serverTransferProhibited http://www.icann.org/epp#serverTransferProhibited",
+            "serverTransferProhibited https://icann.org/epp#serverTransferProhibited"
+        ],
+        "name_servers": "{'c.ns.apple.com', 'd.ns.apple.com', 'a.ns.apple.com', 'b.ns.apple.com'}"
+    },
+    {
+        "name": "xmlpull.org",
+        "registrar": "NameCheap, Inc.",
+        "registrant": "WhoisGuard, Inc.",
+        "registrar_country": "",
+        "registrant_country": "PA",
+        "creation_date": "2001-11-26 20:33:08",
+        "expiration_date": "2020-11-26 20:33:08",
+        "last_updated": null,
+        "status": "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+        "statuses": [
+            "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+        ],
+        "name_servers": "{'dns1.registrar-servers.com', 'dns2.registrar-servers.com'}"
+    }
+]

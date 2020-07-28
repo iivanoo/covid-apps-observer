@@ -196,6 +196,8 @@ The COCOA - COVID-19 Contact App app has been installed by more than **1000000**
 <img src="3_star_reviews_wordcloud.png" alt="jp.go.mhlw.covid19radar 3 reviews"/>
 </p>
 
+> No one in Japan practices social distancing, even on trains people dont wear masks. This app seems like a waste of time unless people change their habits.<br> :date: __2020-07-22 01:25:50__
+
 > 英語学習のために、スマートフォンの言語設定を英語にしています。このアプリで は端末の言語設定がそのまま反映されるので、アプリの言語は自動的に英語になります。 感染者と接触があった場合に、保健所などに画面を提示する必要が出てくる場合があるようですが、英語設定のままでも対応してもらえるのでしょうか？ 日本語でないといけないようであれば、アプリ内で簡単に言語設定を変えられるように仕様変更していただけるといいと思います。<br> :date: __2020-07-08 09:46:08__
 
 > 100 MB download is a lot!<br> :date: __2020-07-06 14:33:54__

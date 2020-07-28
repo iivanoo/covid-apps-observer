@@ -1,11 +1,35 @@
 [
     {
+        "reviewId": "gp:AOqpTOE25vhaf7eZ45_PMRpiRUYjSge45mgp9zovXg6W5QYfzOKcCMW_h1CFAXp1Utqp3XybCodyFqnMBJWCdQ",
+        "userName": "Jos\u00e9 r. Niz",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgmHGPtiHUjGdGmeTKo8Wb4iWATLEvveMfRFWlh5g",
+        "content": "Esta Aplicaci\u00f3n est\u00e1 bien que informa del coronas virus",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2020-07-25 21:40:43",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGp1gY6tq3VuLAM5vs2v30Kf_wEHAJhNKfxT6T2IdiJCEnt76mzAzN3V6Cx99jqR6o4SfnQhyIeCdULcQ",
+        "userName": "Ariadna Maroto Rodr\u00edguez",
+        "userImage": "https://lh3.googleusercontent.com/-0V3pJ3oqkKs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckduwgQaIGNlegKctU62S6CzhxAzg/photo.jpg",
+        "content": "No es muy intuitiva la verdad... Creo que no se est\u00e1 publicitando lo suficiente. Si la usamos 4 gatos, no va a servir de mucho. Yo me enter\u00e9 y me la descargue porque me dijo mi hermano.",
+        "score": 3,
+        "thumbsUpCount": 3,
+        "reviewCreatedVersion": "3.2",
+        "at": "2020-07-22 00:58:53",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOHzBjj-T2a7pU68U1nLgdiXcyNoZcUwllCoquCUShvAkE-d0bWi7y9vczPN_4KfDWnMbWh_p9RdEWKBxA",
         "userName": "Juan Manuel Serna",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjyRs4es2rXhIxJkpWzm8O2_wzY64jL-EVOEFFj",
         "content": "Me ha aparecido un mensaje que la sesi\u00f3n ha expirado, que desinstale y vuelva a instalar. Y sigue apareciendo ese mensaje que imposibilita un uso correcto. Se rogar\u00eda un arreglo o, al menos, una explicaci\u00f3n en la ayuda de la app. Nota a\u00f1adida: se ha arreglado sin que yo interviniera.",
         "score": 4,
-        "thumbsUpCount": 24,
+        "thumbsUpCount": 29,
         "reviewCreatedVersion": "3.1",
         "at": "2020-07-12 00:54:07",
         "replyContent": null,
@@ -557,7 +581,7 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gim2LnqT0xYvPk9sCRhzKRSZZKJRevrXInmKI6pKw",
         "content": "La aplicaci\u00f3n est\u00e1 bien, el objetivo es muy positivo, pero mo sirve de nada si nadie de mi alrededor lo tiene. Ser\u00eda mas f\u00e1cil que la aplicaci\u00f3n te a\u00f1adir\u00e1 directamente los contactos que tienen la app, y los pusiera en t\u00fa c\u00edrculo. En vez de andar enviando y aceptando solicitudes. Tambien podr\u00eda tener acceso a la localizaci\u00f3n para saber por donde ha andado.",
         "score": 3,
-        "thumbsUpCount": 10,
+        "thumbsUpCount": 11,
         "reviewCreatedVersion": "2.4",
         "at": "2020-06-05 14:56:39",
         "replyContent": null,
@@ -2254,18 +2278,6 @@
         "at": "2020-04-02 13:09:01",
         "replyContent": "Hola, hemos trabajado para soportar iOS 12 desde el d\u00eda 4 de Abril. Gracias",
         "repliedAt": "2020-06-05 10:40:30"
-    },
-    {
-        "reviewId": "gp:AOqpTOFtMS1Yvvmj_0soEO1qk3NBtkHdnHjnWqMYkSW3tY0uKuOTV16wLmiYGM81NL56zQTK8l68e2i25gH-Dw",
-        "userName": "juan casta\u00f1o",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhQPC7hTU15Goh-fX-2ymDauOa8A760S530uOKSSA",
-        "content": "Solucionado ya puedes acceder a la Agenda .Rapida respuesta en tampoco tiempo felicidades. Animo a todo el mundo a descargar la aplicacion y ser rigurosos en su utilizacion es una herramienta no un juego hay vidas de por medio.",
-        "score": 5,
-        "thumbsUpCount": 1,
-        "reviewCreatedVersion": "1.1",
-        "at": "2020-04-02 10:12:09",
-        "replyContent": "Muchas gracias por su opini\u00f3n.",
-        "repliedAt": "2020-05-27 14:13:56"
     },
     {
         "reviewId": "gp:AOqpTOHxjngfQAq3O4jrf8NnBIarzusOp6xZc4jSFIAdM30jN_rb3yaFLVCq0_bxXHky3Eqn4xbmKUVUKwwKYQ",

@@ -188,6 +188,8 @@ The Corona Check Screening app has been installed by more than **5000** times. A
 <img src="1_star_reviews_wordcloud.png" alt="com.coronacheck.haugxhaug.testyourcorona 1 reviews"/>
 </p>
 
+> Mein Handy zeigt ständig an, "(die App ist mit Ihrem Gerät nicht kompatibel & dadurch nicht verfügbar"), trotz aktiv ständig mein Google Dienst ist, sagt mein neues Huawei Y6 & lehnte die App ab!<br> :date: __2020-07-28 06:42:04__
+
 > Müll Infos wie uberall<br> :date: __2020-06-22 21:22:52__
 
 > Diese App hat NICHTS mit der Corona warn app der Bundesregierung zu tun. Diese App möchte bewusst fälscherweise diesen Eindruck erwecken um an Daten zu kommen.<br> :date: __2020-06-16 23:42:15__
@@ -205,7 +207,5 @@ The Corona Check Screening app has been installed by more than **5000** times. A
 > Müll<br> :date: __2020-06-16 00:10:42__
 
 > Reinste Daten sammel Maschine selbst meine viren Schutz App hat diese app als riskant und gefährlich eingestuft Warnungen waren Daten Sicherheit und eventuell Malware Zum Glück wurde die app von der App gleich gelöscht<br> :date: __2020-06-15 19:55:00__
-
-> Um weiterhin allgemeine Sicherheit und Stabilität zu gewährleisten wird die Republik umgestaltet werden, und zwar zum ersten galaktischen Imperium. ZUM WOHLE UND NUTZEN EINER STABILEN UND SICHEREN GESELLSCHAFT.<br> :date: __2020-06-15 13:31:27__
 
 

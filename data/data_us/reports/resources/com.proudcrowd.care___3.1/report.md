@@ -214,6 +214,8 @@ The Care19 Diary app has been installed by more than **10000** times. At this ti
 <img src="2_star_reviews_wordcloud.png" alt="com.proudcrowd.care 2 reviews"/>
 </p>
 
+> Quit recording anything after about three weeks.<br> :date: __2020-07-26 05:30:54__
+
 > Inaccurate didn't track me for days sometimes. Uninstalled it, that bad.<br> :date: __2020-07-19 03:31:36__
 
 > Location info is incorrect and incomplete. I was able to fix the incorrect info, but can't add locations. Uninstalled and reinstalled on 6/24. Tracked my location until 6/27 then nothing.<br> :date: __2020-07-07 17:28:05__
@@ -232,8 +234,6 @@ The Care19 Diary app has been installed by more than **10000** times. At this ti
 
 > Hasn't loaded anything in 3 days not impressed.<br> :date: __2020-05-22 14:57:46__
 
-> This app would make sense if it correctly tracked where you were. It needs an update to better track it also for walking. Poor and elderly won't use this nor will people who refuse so information will be limited. Needs an upgrade to let you know if you've been around someone with Coronavirus. Good idea but needs fixing<br> :date: __2020-05-21 05:24:02__
-
 
 
 #### 1-star reviews
@@ -241,6 +241,8 @@ The Care19 Diary app has been installed by more than **10000** times. At this ti
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="com.proudcrowd.care 1 reviews"/>
 </p>
+
+> I am unable to add places I have been. Every time I try the app crashes. And the visits don't show up when they should. I have tried uninstalling and reinstalling more than once. This app is a lemon.<br> :date: __2020-07-26 21:59:16__
 
 > App doesn't work. I wanted an app that would track my location automatically and the people that I was around. Now that I have covid-19 I can't even notify anyone that I was in contact with<br> :date: __2020-07-17 19:43:16__
 
@@ -259,7 +261,5 @@ The Care19 Diary app has been installed by more than **10000** times. At this ti
 > Tried to update for about 30 minutes. Never got it to work.<br> :date: __2020-06-28 22:11:34__
 
 > I work in Technology Sales, Retail. So I wanted an app that would start tracking my locations AUTOMATICALLY to assist me in providing that data needed for my Contact Tracers should the need arise. This app FAILS MISERABLY!!! It DOES NOT track when I am some place for more than an hour. Examples: Work, Gym, Restaurants. Don't waste your time on the Android version of this app!!! Look elsewhere. Samsung S20+ 5G<br> :date: __2020-06-27 04:18:00__
-
-> Location is in issue for me<br> :date: __2020-06-25 00:03:09__
 
 

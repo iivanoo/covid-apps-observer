@@ -4,13 +4,13 @@
         "store_country": "cn",
         "store_lang": "en",
         "latest_crawled_version": "2.2.0",
-        "latest_crawl": 1595255003
+        "latest_crawl": 1595928024
     },
     {
         "id": "de.xikolo.openwho",
         "store_country": "cn",
         "store_lang": "en",
-        "latest_crawled_version": "3.3.2",
-        "latest_crawl": 1595255004
+        "latest_crawled_version": "3.4",
+        "latest_crawl": 1595928111
     }
 ]
