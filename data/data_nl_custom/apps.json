@@ -3,63 +3,63 @@
         "id": "cz.covid19cz.erouska",
         "store_country": "nl",
         "store_lang": "nl",
-        "latest_crawled_version": "1.0.437",
-        "latest_crawl": 1595922282
+        "latest_crawled_version": "1.0.440",
+        "latest_crawl": 1596548080
     },
     {
         "id": "at.roteskreuz.stopcorona",
         "store_country": "nl",
         "store_lang": "nl",
         "latest_crawled_version": "2.0.4.1060-QA_248",
-        "latest_crawl": 1595922325
+        "latest_crawl": 1596548123
     },
     {
         "id": "nl.rivm.lciapp",
         "store_country": "nl",
         "store_lang": "nl",
         "latest_crawled_version": "1.27.4",
-        "latest_crawl": 1595922505
+        "latest_crawl": 1596548127
     },
     {
         "id": "org.who.infoapp",
         "store_country": "nl",
         "store_lang": "nl",
         "latest_crawled_version": "2.2.0",
-        "latest_crawl": 1595922545
+        "latest_crawl": 1596548134
     },
     {
         "id": "nl.focuscura.beeldbelapp",
         "store_country": "nl",
         "store_lang": "nl",
         "latest_crawled_version": "4.24.0",
-        "latest_crawl": 1595922875
+        "latest_crawl": 1596548142
     },
     {
         "id": "de.xikolo.openwho",
         "store_country": "nl",
         "store_lang": "nl",
         "latest_crawled_version": "3.4",
-        "latest_crawl": 1595923112
+        "latest_crawl": 1596548149
     },
     {
         "id": "com.joinzoe.covid_zoe",
         "store_country": "nl",
         "store_lang": "nl",
         "latest_crawled_version": "0.14",
-        "latest_crawl": 1595923243
+        "latest_crawl": 1596548150
     },
     {
         "id": "nl.lumc.covidradar",
         "store_country": "nl",
         "store_lang": "nl",
         "latest_crawled_version": "1.1.2",
-        "latest_crawl": 1595923253
+        "latest_crawl": 1596548155
     },
     {
         "id": "jhu.edu.JohnsHopkinsCOVIDControl",
         "store_country": "nl",
         "store_lang": "nl",
         "latest_crawled_version": "3.2",
-        "latest_crawl": 1595923287
+        "latest_crawl": 1596548161
     }
 ]
