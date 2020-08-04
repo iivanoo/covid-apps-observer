@@ -128,6 +128,8 @@ The WHO Info app has been installed by more than **100000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="org.who.infoapp 5 reviews"/>
 </p>
 
+> Kiero saber lo resultado psr<br> :date: __2020-07-29 02:55:33__
+
 > 👍👍👍<br> :date: __2020-07-23 15:29:51__
 
 > Que bueno que te gusta tanto e ste juego<br> :date: __2020-07-11 06:22:27__
@@ -145,8 +147,6 @@ The WHO Info app has been installed by more than **100000** times. At this time,
 > Bueno<br> :date: __2020-05-18 14:01:19__
 
 > 😷😷😷😷😷😷😷😷😦😧<br> :date: __2020-05-17 22:41:34__
-
-> Me encanta 💜<br> :date: __2020-05-10 18:04:27__
 
 
 

@@ -165,6 +165,14 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 <img src="5_star_reviews_wordcloud.png" alt="gov.fema.mobile.android 5 reviews"/>
 </p>
 
+> Google maps Meunstergritsandassociatesllc incognito #thankyouforyourservice #cheetohs #china<br> :date: __2020-07-31 20:41:04__
+
+> Great app! The only thing is, I wish it had a share button to send the Alerts to family & friends. Thank you for adding the share button!<br> :date: __2020-07-31 12:24:47__
+
+> Excellent!!!!<br> :date: __2020-07-31 08:45:58__
+
+> Thank you!🇵🇷🇺🇸🙋<br> :date: __2020-07-31 00:22:40__
+
 > I love the sound of that!!<br> :date: __2020-07-26 18:18:13__
 
 > Thanks fema helped me get the people thuer stimulus checks we wouls have gotten the sooner if my they vwasnt playing games<br> :date: __2020-07-26 07:50:10__
@@ -176,14 +184,6 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 > Really fun app!! Would 100% recommend!!<br> :date: __2020-07-22 04:02:11__
 
 > work perfect<br> :date: __2020-07-20 20:42:35__
-
-> ⭐⭐⭐⭐⭐<br> :date: __2020-07-20 14:56:46__
-
-> Everyone should subscribe to Fema Alerts!<br> :date: __2020-07-19 01:40:24__
-
-> ItsMee..t<br> :date: __2020-07-17 23:22:41__
-
-> Tells me I have an alert then when you tap it.....shows nothing. 🙁<br> :date: __2020-07-12 05:51:32__
 
 
 
@@ -287,8 +287,6 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 
 > Don't trust fema<br> :date: __2020-06-26 20:16:46__
 
-> Did not get it<br> :date: __2020-06-23 16:46:56__
-
 > The app should work off line. I cannot use the app with cellular data. Alerts set to my location only notify me when I have Wi-Fi and completely disappear if I'm not connected. How is this convenient during a disaster?<br> :date: __2020-06-21 22:29:23__
 
 > App can not be moved to external SD memory<br> :date: __2020-06-15 13:42:40__
@@ -296,5 +294,7 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 > It said my location was covered by neighbors county. It didn't recognize two different counties. Maybe better for largecities.<br> :date: __2020-06-15 02:05:50__
 
 > Digital contact tracing not mentioned in app<br> :date: __2020-06-13 19:42:11__
+
+> Nagging with unwanted notifications<br> :date: __2020-06-11 05:56:34__
 
 

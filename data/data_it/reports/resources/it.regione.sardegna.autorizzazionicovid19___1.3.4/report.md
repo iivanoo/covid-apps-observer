@@ -160,6 +160,14 @@ The Sardegna Sicura app has been installed by more than **100000** times. At thi
 <img src="5_star_reviews_wordcloud.png" alt="it.regione.sardegna.autorizzazionicovid19 5 reviews"/>
 </p>
 
+> UTILE .<br> :date: __2020-08-04 15:46:50__
+
+> In Sardegna si sta bene. Venire tutti<br> :date: __2020-07-31 13:35:26__
+
+> Ottimo<br> :date: __2020-07-28 21:34:20__
+
+> Semplice all'utilizzo<br> :date: __2020-07-28 21:26:10__
+
 > Organizzazione ottima. Sbarco ad Olbia e accoglienza pronta al passeggiero<br> :date: __2020-07-28 06:59:51__
 
 > Sono più tranquillo se uso la App tracciabile..per me...per gli altri.<br> :date: __2020-07-25 08:49:08__
@@ -172,14 +180,6 @@ The Sardegna Sicura app has been installed by more than **100000** times. At thi
 
 > Ottima<br> :date: __2020-07-22 13:15:14__
 
-> L'applicazione funziona bene. Occorre un po' di pazienza nel compilare tutti i campi ma poi tutto funziona a meraviglia. L'associazione tra APP e web funziona benissimo così puoi inserire i dati via web e te li ritrovi subito sull'app. In effetti se sbagli ad inserire i dati puoi modificarli da 48 ore prima della partenza oppure fai un nuovo inserimento lasciando il precedente a sistema (tanto se il viaggio non è confermato nelle 48 precedenti non è valido). W la SARDEGNA.<br> :date: __2020-07-21 19:07:04__
-
-> Applicazione molto semplice e sicura bravo governatore avessero fatto tutti come lei probabilmente la situazione sarebbe stata migliore.<br> :date: __2020-07-21 17:19:58__
-
-> App. abbastanza chiara, intuitiva, di "aspetto" esemplicativo, utilizzabile dalla maggior parte di Utenti.<br> :date: __2020-07-15 15:53:46__
-
-> La tracciabilità degli spostamenti con il QR Code è una svolta. Registrazione facile e veloce.<br> :date: __2020-07-11 12:53:35__
-
 
 
 #### 4-star reviews
@@ -187,6 +187,14 @@ The Sardegna Sicura app has been installed by more than **100000** times. At thi
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="it.regione.sardegna.autorizzazionicovid19 4 reviews"/>
 </p>
+
+> Buona<br> :date: __2020-08-02 10:05:46__
+
+> Sono rientrata mercoledì sera da Torino, scaricato app,compilata in tutti i campi obbligatori, arrivate mail di conferma e codice CQ ma nessuno a controllato ne all'aeroporto di Torino e meno che mai a Cagliari, una signora accanto a me non ha nemmeno effettuato la registrazione!tutto ciò e un po deludente!e parliamo di sicurezza? Mah🤔🤔<br> :date: __2020-08-01 13:48:13__
+
+> Non tiene la password<br> :date: __2020-07-30 08:29:48__
+
+> Troppo elaborata<br> :date: __2020-07-28 15:19:03__
 
 > Registrazione perfettamente funzionante (veloce). Tracciamento volontario non attivabile sul mio dispositivo. Aggiornamento: Grazie per il riscontro tempestivo (elevo di 1 stella). Sembra un problema applicativo. Anomalia presente da qualche giorno. Forse legato al dispositivo. Prima dell'aggiornamento non credo accadesse. A disposizione per inviare screenshot.<br> :date: __2020-07-27 18:24:42__
 
@@ -200,14 +208,6 @@ The Sardegna Sicura app has been installed by more than **100000** times. At thi
 
 > Per gli anziani tutte queste cose sono complesse<br> :date: __2020-07-12 18:07:40__
 
-> L'appicazione funziona bene e la uso volentieri se può essere utile al contenimento del coronavirus, sarebbe utile anche poter abilitare il tracciamento una volta sola, mi accade invece che, pur non avendo fatto logout, talvolta il tracciamento si disabiliti e perdo alcuni miei spostamenti. Forse ciò è stato fatto per la tutela della privacy, ma sarebbe utile avere una ulteriore scelta che abilita il tracciamento in modo permanente. Evviva la Sardegna !!<br> :date: __2020-07-09 11:36:19__
-
-> Entro quando devo compilare la nuova registrazione? E cosa c'è da compilare oltre a quella?<br> :date: __2020-07-06 21:54:55__
-
-> Buonasera... Ho fatto registrazione per venire in sardegna. Ho dovuto mettere come citta' Olbia, io ho casa a Porto Rotondo perche' non c'e' Porto Rotondo?<br> :date: __2020-07-03 22:19:12__
-
-> Dopo le recensioni precedenti ero molto scettico, ma valuto positivamente l'app in quanto, se si segue scrupolosamente ciò che chiedono, è molto facile da scaricare ed usare . Molto buona<br> :date: __2020-07-03 11:41:23__
-
 
 
 #### 3-star reviews
@@ -215,6 +215,10 @@ The Sardegna Sicura app has been installed by more than **100000** times. At thi
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="it.regione.sardegna.autorizzazionicovid19 3 reviews"/>
 </p>
+
+> Non mi fa accedere, ci viene sempre scritto error con un numero.... http 500 Aiuto<br> :date: __2020-08-03 22:30:09__
+
+> 3 stelle perche' l'applicazione apparentemente funziona, pero' chi l'ha progettata crede che in Sardegna si possa arrivare solo in aereo o nave. Ho un notizione: si puo' arrivare anche con imbarcazione privata. E quindi l'app non permette di indicare l'imbarcazione stessa come domicilio. Per andare avanti bisogna scrivere stupidaggini al posto dell'indirizzo.<br> :date: __2020-07-30 14:52:32__
 
 > Ho installato l'app Sardegna Sicura sul mio cellulare sistema Android con successo; ma quando mi vengono richieste la mia mail e la password, benchè io sia matematicamente sicura di fornirle correttamente, mi compare l'avviso che l'una o l'altra sono errate.Il che non può esere dal momento che con queste credenziali ho installato l'app. Come posso risolvere il problema? Grazie per l'assistenza Roberta<br> :date: __2020-07-26 14:15:18__
 
@@ -232,10 +236,6 @@ The Sardegna Sicura app has been installed by more than **100000** times. At thi
 
 > Scaricata oggi. Vado in Sardegna nel periodo estivo, dove vivono i miei genitori. Non avendo ancora previsto una data precisa per il mio rientro in continente, sono costretto a flaggare "non è prevista ripartenza dalla Sardegna". Come mi dovrò comportare al momento in cui avrò la data della mia ripartenza? Dovrò fare una nuova registrazione o dovrò modificare quella che ho appena fatto? Grazie mille.<br> :date: __2020-06-24 19:13:27__
 
-> Ciao, parlo da pendolare e quindi devo compilare tale dichiarazione ogni volta, sarebbe utile: LOGIN con impronta digitale o memorizzazione password ( daaaaaiiiii non la devo mica inserire ogni volta !!!!( questionario sanitario: inserire una griglia con la selezione si/no dei singoli sintomi senza dover entrare in ciascuno dei menu si/no relativo al singolo sintomo. poter richiamare una registrazione precedente e cambiare solo le date ( pensate ad uno che fa spesso lo stesso viaggio)<br> :date: __2020-06-24 07:54:10__
-
-> Ho inserito tutti i dati per la registrazione ma non mi fa inviare richiesta...<br> :date: __2020-06-21 12:30:12__
-
 
 
 #### 2-star reviews
@@ -243,6 +243,10 @@ The Sardegna Sicura app has been installed by more than **100000** times. At thi
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="it.regione.sardegna.autorizzazionicovid19 2 reviews"/>
 </p>
+
+> Purtroppo non è possibile modificare i dati una volta inseriti. In caso di aggiornamenti è necessario inserire una nuova registrazione, ripartendo da zero. Non è inoltre possibile cancellare le vecchie registrazioni: tutto questo genera una mole di dati errati archiviati a sistema.<br> :date: __2020-08-03 22:05:58__
+
+> Non è prevista una soluzione per nuclei familiari o per gruppi di maggiorenni? Noi siamo tre maggiorenni. Non basta registrare le date di arrivo e di partenza per uno e aggiungere tutti i nominativi interessati? Per quanto mi riguarda, il commento sarebbe già più che sufficiente ma siccome leggo in calce che le recensioni "utili" hanno almeno 100 parole (quando si dice l'importanza della qualità... sic!), mi dilungo per raggiungere il fatidico traguardo che farà apparire utili le le mie domande. Ungaretti scrisse una enciclopedia con un solo verso...inutile, evidentemente visto che purtroppo non raggiunge le previste 100 parole.<br> :date: __2020-08-02 14:05:58__
 
 > Avendo commesso un errore di digitazione ho errato il mio cognome...ho provato attraverso "modifica profilo" a correggere l'errore ma non mi consente di salvare la modfica...disinstallo e rifaccio tutto da capo?! Grazie<br> :date: __2020-07-25 18:11:36__
 
@@ -260,10 +264,6 @@ The Sardegna Sicura app has been installed by more than **100000** times. At thi
 
 > Ho effettuato la registrazione sul sito della regione Sardegna ricevendo la relativa email di conferma. Per utilizzare eventualmente l'app devo rifare una nuova registrazione? Inoltre, quando lascerò l'isola quale codice qr devo presentare?<br> :date: __2020-07-06 17:58:18__
 
-> Impossibile completare la procedura con l'app. Ho dovuto farlo dal sito della regione, anche lì diversi tentativi prima di riuscire a concludere, ma una volta fatto arriva subito email di conferma e si aggiorna in automatico anche l'app.<br> :date: __2020-07-06 14:31:39__
-
-> Ho scaricato l'app e ho inserito tutto e fin qua tutto ok! Il problema è che devo cambiare numero di biglietto e il giorno della partenza come si fa?? Non riesco a modificare niente. Devo creare un altro profilo? Come devo fare?<br> :date: __2020-07-06 10:12:12__
-
 
 
 #### 1-star reviews
@@ -272,24 +272,24 @@ The Sardegna Sicura app has been installed by more than **100000** times. At thi
 <img src="1_star_reviews_wordcloud.png" alt="it.regione.sardegna.autorizzazionicovid19 1 reviews"/>
 </p>
 
-> App inutile.<br> :date: __2020-07-27 00:43:57__
+> Devo partire giovedì mattina...ma l'app non si apre in nessun modo!!!<br> :date: __2020-08-04 15:18:42__
 
-> non serve a nulla, nessuno mi ha chiesto qualcosa al porto di Genova o allo sbarco a Porto Torres... solita fuffa all'italiana, ci hanno misurato la temperaturanei piazzali assolati e basta! La Regione dovrebbe scusarsi per i disagi e danni creati al turismo, invece mi ringrazia per la segnalazione con un messaggio automatico! Era quello che tutti immaginavano, solo chiacchere e pessima pubblicità per la nostra isola!<br> :date: __2020-07-26 16:47:50__
+> Non funziona. Qua do vado a registrarmi mi dice codice fiscale non valido,pur essendo corretto!<br> :date: __2020-08-04 11:37:12__
 
-> Ho cambiato telefono e ora la app non parte più. Il telefono è uno xiaomi 8T.<br> :date: __2020-07-25 11:29:59__
+> Non funziona bene, mi fa compilare tutte le voci, ma non mi fa inviare la richiesta.<br> :date: __2020-08-03 17:18:20__
 
-> Non ho capito a cosa serve visto che non mi ha chiesto niente nessuno né all'imbarco a civitavecchia né al ritorno da olbia...<br> :date: __2020-07-25 09:19:52__
+> App. Che dal 20 di giugno data del mio rientro in Sardegna, mi ha creato non poche difficoltà, già dalla prima iscrizione. In particolare la ricezione del bar code che in teoria dovrebbe essere indispensabile. Tracciamento volontario non funzionante.<br> :date: __2020-08-03 12:10:06__
 
-> App con diversi problemi, dati registrati di diverse persone si vedevano correttamente ma dopo una settimana si presentano tutte con la stessa persona mentre da link ricevuto per mail funzionano. Abbastanza preoccupante in caso di controlli.<br> :date: __2020-07-24 15:49:17__
+> Ho scaricato l'app, inserendo tutti i dati necessari, e più volte ha dato errore, non mi fa iscrivere per dichiarare il mio soggiorno in sardegna. Cosa dovrei fare per poter partire in modo sicuro?<br> :date: __2020-08-02 23:07:12__
 
-> Non riesco a scaricare l'aggiornamento<br> :date: __2020-07-24 09:57:43__
+> Ho provato a registrarmi, ma quando arrivo alla data di nascita, il sistema parte dal giorno in cui si sta effettuando la registrazione! Dovrei cliccare un numero enorme di volte per arrivare da 01/agosto/2020 alla mia data di nascita (anni 50)! Non compare una tendina per la scelta dell'anno, del giorno, e del mese e francamente non ho intenzione di stare a cliccare all'infinito mese per mese ed anno per anno! Come mai questo problema?<br> :date: __2020-08-01 20:55:58__
 
-> Inutile nessun controllo<br> :date: __2020-07-23 22:25:37__
+> Non serve a nulla. Agli imbarchi nessuno chiede i documenti o i codici. Non frega niente a nessuno. È solo uno specchietto per le allodole per lavarsi le mani. Aggiungo anche che per un qualche bug, la mai col recapito per completare la domanda nelle ultime 48h era sbagliata e mi rimandava alla domanda di un'altra persona. Meno male che non ci sono dati estremamente sensibili..<br> :date: __2020-08-01 14:43:00__
 
-> Complicata<br> :date: __2020-07-23 21:02:40__
+> Pessima app, non convalida il codice fiscale nonostante sia corretto. Ridicolo anche solo che esista..<br> :date: __2020-07-31 16:01:15__
 
-> Non serve a nulla. Nessuno ti chiede niente quando viaggi. Io andato e tornato varie volte, nessun accenno da nessuno di questa roba. Ti mandano un qcode che non sai che farne. Ma chi ha inventato questa messa in scena?<br> :date: __2020-07-23 13:30:19__
+> Tutti a fare le pulci ad immuni che garantisce la privacy al 100% e poi pur di andare in ferie scaricate questa app che chiede vita, morte e miracoli? Ma non si poteva usare su tutto il territorio immuni? Soldi e tempo buttati.<br> :date: __2020-07-31 14:45:58__
 
-> Da quando ho scaricato l aggiornamento non mi fa più entrate nell app carica all infinito... Mi potete aiutare?<br> :date: __2020-07-23 11:21:11__
+> L'app ha funzionato anche se con molti problemi. Ma la cosa più importante è che sia a me che a un gruppo di amici con la stessa app non hanno fatto controlli di nessun tipo. Quindi potete anche non installarla. Purtroppo altro spreco di denaro pubblico, d'altronde c'è la lega...<br> :date: __2020-07-31 11:48:51__
 
 

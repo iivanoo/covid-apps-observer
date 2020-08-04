@@ -146,6 +146,8 @@ The Care19 Diary app has been installed by more than **10000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="com.proudcrowd.care 5 reviews"/>
 </p>
 
+> Good<br> :date: __2020-08-02 22:27:07__
+
 > Please help charlie foxtrot googlemaps Meunstergritsandassociatesllc 442 blanding blvd 333 ORANGEPARK,FL 32073<br> :date: __2020-07-18 21:29:25__
 
 > Updated daily. Easy to use and informative.<br> :date: __2020-06-23 15:03:08__
@@ -163,8 +165,6 @@ The Care19 Diary app has been installed by more than **10000** times. At this ti
 > Love this app<br> :date: __2020-05-16 12:11:08__
 
 > A must!!<br> :date: __2020-05-14 06:24:04__
-
-> Payment<br> :date: __2020-05-02 21:50:55__
 
 
 
@@ -242,6 +242,8 @@ The Care19 Diary app has been installed by more than **10000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="com.proudcrowd.care 1 reviews"/>
 </p>
 
+> Doesn't do anything that Google Maps My Timeline can't do better. Maybe in a state with a competent health department it could. As I understand it in incompetent SC, it won't even do Bluetooth ID exchanges with other devices for contact tracing.<br> :date: __2020-07-30 01:57:38__
+
 > I am unable to add places I have been. Every time I try the app crashes. And the visits don't show up when they should. I have tried uninstalling and reinstalling more than once. This app is a lemon.<br> :date: __2020-07-26 21:59:16__
 
 > App doesn't work. I wanted an app that would track my location automatically and the people that I was around. Now that I have covid-19 I can't even notify anyone that I was in contact with<br> :date: __2020-07-17 19:43:16__
@@ -259,7 +261,5 @@ The Care19 Diary app has been installed by more than **10000** times. At this ti
 > Update 6.27.20 - Tou can tell the developer(s) doesnt even use this app or they would know what we are talking about. You say it's just the way it is, no, you know how it's supposed to work, so find someone to make it work correctly. This app does not trace where I been going. It does not stay open in the background. When open, it does not show where I go or been since the 23rd. I restarted phone and reinstalled app on S9+<br> :date: __2020-06-29 02:47:10__
 
 > Tried to update for about 30 minutes. Never got it to work.<br> :date: __2020-06-28 22:11:34__
-
-> I work in Technology Sales, Retail. So I wanted an app that would start tracking my locations AUTOMATICALLY to assist me in providing that data needed for my Contact Tracers should the need arise. This app FAILS MISERABLY!!! It DOES NOT track when I am some place for more than an hour. Examples: Work, Gym, Restaurants. Don't waste your time on the Android version of this app!!! Look elsewhere. Samsung S20+ 5G<br> :date: __2020-06-27 04:18:00__
 
 

@@ -184,6 +184,8 @@ The COCOA - COVID-19 Contact App app has been installed by more than **1000000**
 <img src="4_star_reviews_wordcloud.png" alt="jp.go.mhlw.covid19radar 4 reviews"/>
 </p>
 
+> This is the kind of app that you wish doesn't say anything. That said, the app works fine and all, but it should also help improve a user's peace of mind by allowing the user to test exposure with other consenting users. And it's in English and the Japanese authoruties do take their time to ensure that the exposure system is followed through. This makes it even better than some ancient methods like GPS & check-in.<br> :date: __2020-07-30 22:56:29__
+
 > 別アプリで、このアプリの利用者位置人数を計測できたのですが、意外とたくさんいた。病院保育園銀行は異常におおい。心配なんだね。いろいろ欠点もありますが、ないよりましです。危惧されたバッテリーいっぱい減るんじゃないか問題はそんなんでもなかった。<br> :date: __2020-07-03 03:19:56__
 
 > Easy install. I always have Bluetooth off unless connected to headphones, so breaking that habit will be difficult. This doesn't work unless Bluetooth is on. Anyone with privacy concerns, none here, but I hope you have turned of GPS location tracking. I'm not sure those people who are concerned about privacy are even aware their location data is being tracked and stored. See Google Maps TimeLine, which I use. Personally I would favor a more aggressive contact tracing app for the case of Corona.<br> :date: __2020-06-19 23:45:33__
@@ -219,6 +221,8 @@ No recent reviews available with 2 stars.
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="jp.go.mhlw.covid19radar 1 reviews"/>
 </p>
+
+> 矢張り杜撰で無責任な厚労省のアプリは信用できん。利用規約の画面から進めない。<br> :date: __2020-08-02 08:42:12__
 
 > 本アプリ登録後にエラー続出。アンインストール後もエラーが直らない。<br> :date: __2020-07-18 07:05:27__
 

@@ -133,6 +133,14 @@ The SiciliaSiCura app has been installed by more than **50000** times. At this t
 <img src="5_star_reviews_wordcloud.png" alt="com.siciliasicura.app 5 reviews"/>
 </p>
 
+> Funziona<br> :date: __2020-08-04 04:41:44__
+
+> App discreta e funzionale.<br> :date: __2020-08-02 09:23:41__
+
+> Chiara<br> :date: __2020-07-30 18:13:40__
+
+> Ottima app, solo che nn si capisce se le analisi sono obbligatorie i no.<br> :date: __2020-07-28 10:33:38__
+
 > App molto utile e semplice da utilizzare. Consigliata! Ricordatevi però di fare il check-in solo quando sarete in Sicilia come spiega chiaramente la mail che riceverete in fase di registrazione.<br> :date: __2020-07-23 16:19:11__
 
 > Pratica e semplice<br> :date: __2020-07-18 17:48:14__
@@ -144,14 +152,6 @@ The SiciliaSiCura app has been installed by more than **50000** times. At this t
 > Utile<br> :date: __2020-07-08 10:18:11__
 
 > A me non ha dato problemi. Mi sono registrata da casa col PC e ho effettuato l'accesso dalla app solo in un secondo momento. Quando arriverò in Sicilia farò il check-in.<br> :date: __2020-07-06 22:56:07__
-
-> Meravigliosa<br> :date: __2020-07-06 22:44:21__
-
-> Semplice da usare e ben progettato<br> :date: __2020-06-26 22:12:55__
-
-> Grazie per il chiarimento.<br> :date: __2020-06-17 13:29:24__
-
-> Ottima ed estremamente semplice<br> :date: __2020-06-16 18:12:35__
 
 
 
@@ -215,6 +215,8 @@ The SiciliaSiCura app has been installed by more than **50000** times. At this t
 <img src="2_star_reviews_wordcloud.png" alt="com.siciliasicura.app 2 reviews"/>
 </p>
 
+> App un pò complicata, non lineare e intuitiva. Cosa serve se quando vai in giro pochissimi isolani rispettano l'isolamento sociale e mascherine. Italia divisa in due al nord prenotazione obbligatoria per spiaggia libera e nell'isola tutti insieme appassionatamente.<br> :date: __2020-08-03 08:31:31__
+
 > Non si apre l'app<br> :date: __2020-07-26 19:15:58__
 
 > App inutile, con diligenza e rispetto l'ho installata ed utilizzata giornalmente. Ma mi sembra di combattere contro i mulini a vento, la mascherina è indossata da poche persone locali, la utilizzano solo i turisti e il personale dei negozi ma non gli avventori. In tante occasioni chi la porta è soggetto a scherno e risate varie, la distanza sociale non è cosa loro ed i controlli non si vedono in giro. Ma se ne discuti con le persone dicono che sono stati bravi e rispettosi , contenti loro.<br> :date: __2020-07-23 08:38:25__
@@ -233,8 +235,6 @@ The SiciliaSiCura app has been installed by more than **50000** times. At this t
 
 > Scusate ma come si fa ad impostare le date,c è da sclerare,devo essere in sicilia nei primi di luglio e non riesco a registrarmi,impostare le date,di nascita,di partenza non si capisce,fate qualcosa<br> :date: __2020-06-13 21:00:06__
 
-> Nn riesco ad effettuare la registrazione, né dall'APP, tantomenovia web...scade in continuazione il time della verifica captcha...<br> :date: __2020-06-10 16:14:27__
-
 
 
 #### 1-star reviews
@@ -243,24 +243,24 @@ The SiciliaSiCura app has been installed by more than **50000** times. At this t
 <img src="1_star_reviews_wordcloud.png" alt="com.siciliasicura.app 1 reviews"/>
 </p>
 
+> Non funziona nulla , dopo svariati tentativi neanche fosse la nato ti accorgi che é una pagliacciata . Ora sono un clandestino in patria 😞😞😞<br> :date: __2020-08-03 16:17:29__
+
+> Nessun controllo. Ho istallato l'app. Ho inserito tutti i nomi della mia famiglia. Ho fatto il check-in appena arrivato in Sicilia in auto. Sul traghetto nessun controllo, nemmeno temperatura. In giro nessuno indossa mascherina, e chi lo fa lascia il naso scoperto, o idiozie del genere. In molti bar e negozi (quasi tutti) camerieri e baristi non hanno la mascherina, idem per in negozi di vestiti, etc. Per carità, non sono tutti così, ma molti, troppi, lo sono. Io sono sano, ma loro???<br> :date: __2020-08-03 14:05:14__
+
+> Arrivato in Sicilia l'app non s apre!!! Per fare il cekin<br> :date: __2020-08-01 15:28:09__
+
+> Valutazione zero tagliato. Sono registrato, non lo so! Modificare i dati, neanche a parlarne. Utilità, zero, solo forse per incasinare il telefonino. Soldi spesi malissimo.<br> :date: __2020-08-01 14:59:40__
+
+> Disastrosa! Penso la peggiore app con cui ho avuto a che fare...<br> :date: __2020-07-31 12:10:38__
+
+> Ricevo un messaggio che devo registrare i dati per sapere l arrivo è la partenza però non posso aggiungere i componenti della mia famiglia visto che viaggiamo insieme bhooo la logica dove sta? App inutile<br> :date: __2020-07-31 11:47:09__
+
+> Non funziona l'app sul mio telefono, scarico ed è tutto bianco<br> :date: __2020-07-28 17:56:04__
+
 > Orribile quasi impossibile e molto(ma molto) difficile da capire sono riuscito dopo un ora a registrarmi..... e poi devo fare il check-in al momento d'arrivo vosa da matti<br> :date: __2020-07-26 16:36:12__
 
 > Non riesco ad accedere<br> :date: __2020-07-23 12:10:44__
 
 > Inutile. Solo perdita di (troppo) tempo. Obbligatoria la registrazione su app e poi si sta tutti insieme appassionatamente. Ridicoli. É solo una scusa per sapere costantemente dove siamo, con chi siamo e cosa facciamo: la sviluppatrice deve essere mia madre😒<br> :date: __2020-07-22 12:46:16__
-
-> Scaricata l'app ho fatto un primo accesso poi non mi permette di farne altri non mi fa accedere. Era meglio scegliere altre località....vedremo come andrà a finire! L'ho saputo solo biglietto alla mano se sapevo non ci sarei andato in Sicilia. Il viaggio dovrebbe essere rilassante<br> :date: __2020-07-22 04:55:09__
-
-> Mi sembra fatta male, la installo, non so nemmeno a cosa serva e mi chiede il consenso alla privacy.<br> :date: __2020-07-20 10:56:22__
-
-> Fatta male , a mio avviso inutile per il ruolo preposto. Medico area covid Bergamo.<br> :date: __2020-07-19 12:45:42__
-
-> Non fa registrare l'autovettura<br> :date: __2020-07-19 02:28:01__
-
-> Spero che non vogliate sapere anche quante volte vado in bagno. Disistallata immediatamente. A detta di Nello è un app discreta...ma lui dice pure che la brava gente sta a casa e sta zitta.<br> :date: __2020-07-16 04:57:23__
-
-> Applicazione x ora totalmente inefficente. Dopo la registrazione non riconosce ne username ne password. Non esegue il reset della password . Neanche dopo il vostro intervento tramite helpdesk con reset password. Una nuova registrazione inefficente perché sei già registrato con i tuoi dati. Uno che viene in vacanza in Sicilia non può stare in balia giorni dietro applicazioni o call center. Predisponete anche un cartaceo forse risolviamo.<br> :date: __2020-07-16 01:20:46__
-
-> Finalmente sono riuscito a mettere le date a questo punto proseguo con la registrazione tutto ok ma quando voglio entrare mi dice credenziali non valide allora chiedo di recuperare la password ok faccio nuova password la storia non cambia continua a dirmi credenziali non valide ma che applicazione è non vale niente io la disinstallo e parto lo stesso poi si vedrà arrivederci<br> :date: __2020-07-13 18:06:31__
 
 

@@ -153,25 +153,25 @@ The Corona-Warn-App app has been installed by more than **5000000** times. At th
 <img src="5_star_reviews_wordcloud.png" alt="de.rki.coronawarnapp 5 reviews"/>
 </p>
 
-> Super App, kann ich nur weiter empfehlen.<br> :date: __2020-07-28 10:52:57__
+> habe ich bisher nur die Version 1.1.1 und somit gibt es bei der Aktualisierung eine Fehlermeldung, welche aber wohl mit einer neuen Funktion behoben ist. Allerdings sagt mir Google dass ich bereits die neuste Version besitzte.-Ich habe laut der Ziffernanzahl bereits die Version 1.5 Hier muss ich noch mal sagen klasse dass auch ein Suport dazu angeboten wird Top👍-- Bekomme nun obwohl ich nichts gemacht habe keine Erorr meldung da wohl die Erfassung aktiv ist, habe aber noch version 1.1.1<br> :date: __2020-08-04 18:14:28__
 
-> Mit meinem neuen Handy funktioniert es tadellos!<br> :date: __2020-07-28 10:52:55__
+> Läuft seit letztem Update einwandfrei.<br> :date: __2020-08-04 18:12:40__
 
-> Gut gelungen.<br> :date: __2020-07-28 10:50:53__
+> Grundsätzlich finde ich die Idee Infektionsketten mit dieser App schneller zu finden bzw. unterbrechen sehr gut. Leider verlangt die App das ich GPS und Bluetooth einschalten muss. Beim alten S 5 von Samsung heißt das ein Reduzierung der Akku Laufzeit von 60 bis 70%. Nachtrag: Neue Version läuft Super. Keine Reduzierung der Akku Laufzeit durch die Corona App festzustellen. 1*<br> :date: __2020-08-04 17:38:18__
 
-> Hat von Beginn an einwandfrei gearbeitet. Aus- und Anschalten von BT und GPS hat die SW nicht beeindruckt. Automatisch updaten hat mit der 1.0.5 nicht funktioniert, aber solche Kinderkrankheiten sind vernachlässigbar. Interessant wäre mal zu wissen, wie viele positive Fälle schon gefunden wurden.<br> :date: __2020-07-28 10:29:12__
+> Läuft bei mir 😎<br> :date: __2020-08-04 17:09:11__
 
-> Ok<br> :date: __2020-07-28 10:15:39__
+> Schade, seit Tagen immer Fehler 39058. Fehler wurde mit update behoben<br> :date: __2020-08-04 17:04:50__
 
-> Bis jetzt gut<br> :date: __2020-07-28 10:06:27__
+> Finde es toll, dass sie es hingekriegt haben die App transparent und open source zu entwickeln.<br> :date: __2020-08-04 16:54:24__
 
-> Funktionierte anfangs gut und gibt seit Wochen nur noch Fehler: 13.7.20 Fehler Kommunikation mit Google API (10) dann API (39508) 26.7.: stabil und funktioniert gut .... schön, dass die Probleme gelöst sind.<br> :date: __2020-07-28 10:05:25__
+> Alle Fehler die aufgetreten sind waren eine Folge von Family Link, dass mir nicht erlaubt hat mir jünger als 16 Jahre die App zu installieren. Vielen Dank, dass sich das Team Zeit für mich genommen hat.<br> :date: __2020-08-04 16:45:21__
 
-> Installation auf A50 ist normal. Ohne Standortabfrage ist die Funktion nichts wert, muss also sein. BT hat eine Reichweite von etwa 10m innerhalb der Bebauung. Damit muss einem der Infizierte fast auf'm Schoß sitzen. Wer sich als infiziert outet, klebt sich den "Gelben Stern" an die digitale Brust. Sollte man sich verinnerlichen. HFS Update 02JUL20 Konnte heute für meine Kospet Prime Smartwatch die Corona-App für den Datenaustausch freischalten. Der Mitarbeiterin an der Hotline gebührt Lob++.<br> :date: __2020-07-28 09:57:26__
+> Permanente Abstürze. Das macht so keinen Sinn. Fehler wurde behoben und die App macht das was sie soll.<br> :date: __2020-08-04 15:09:11__
 
-> Habe dadurch ein etwas besseres Gefühl.<br> :date: __2020-07-28 09:44:59__
+> App läuft, Auswirkungen auf die Akkulaufzeit o.ä. kann ich nicht feststellen. Die App fordert _keine_ besonderen Berechtigungen an. Lediglich zum Scannen eines QR-Codes muss der Zugriff auf die Kamera erlaubt werden - aber auch erst dann wenn man das denn tun will. Zum Standortdienst: dass der aktiviert werden muss liegt nicht an der App, sondern an Android. Die App selbst hat keine Berechtigung auf Euren Standort zuzugreifen, sieht man in den App-Details! Datenschutztechnisch vorbildlich!<br> :date: __2020-08-04 14:39:07__
 
-> Leider funktioniert die App auf meinem Handy (Huawei p 8 lite) nicht mehr. Sie lief 10 Tage, jetzt kommen immer wechselnde Fehlermeldungen. Auch nach Neuinstallation. Leider klappt bei mir immer noch nichts. Komme auch mit dem empfohlenen Links nicht weiter. Aktualisiert ist auch alles. Guten Morgen , leider kann ich seit gestern die App nicht meht öffnen. Ich habe die Version 1.1.1. Habe auch schon mehrere Neustarts gemacht.<br> :date: __2020-07-28 09:25:58__
+> Zeigt seit kurzem Fehler API(39508) Ursache 3 Perfekt funktioniert wieder<br> :date: __2020-08-04 14:38:54__
 
 
 
@@ -181,25 +181,25 @@ The Corona-Warn-App app has been installed by more than **5000000** times. At th
 <img src="4_star_reviews_wordcloud.png" alt="de.rki.coronawarnapp 4 reviews"/>
 </p>
 
-> Jetzt scheint es ja zu klappen mit der App. Hat ja auch lange genug gedauert...<br> :date: __2020-07-28 10:24:37__
+> Was bedeutet die Fehlermeldung 9002? Version 1.1.1<br> :date: __2020-08-04 17:44:22__
 
-> Update 1.1.1 installiert. Einen Tag funktionierte die Coronawarn -App nicht. Jetzt aber schon 5 Tage ohne Fehlermeldung. In einer separaten Datenbank COVID-19 die Verbindung mit der coronawarn - APP hat, habe ich den Begriff -Schlüssel - gefunden. Was bedeutet das?<br> :date: __2020-07-28 08:57:59__
+> Inzwischen läuft die App auf meinem Smartphone ONEPLUS2.<br> :date: __2020-08-04 17:28:04__
 
-> Nochmal die Frage: ich habe eine Nachricht der Begegnungen der letzten 14 Tage bekommen, keine Risikobegegnung. Wo kann ich diese nochmals auf meinem Smartphone finden ?<br> :date: __2020-07-28 08:31:18__
+> Der Regeler muss jedes Mal manuell wieder aktiviert werden bei dem Öffnen der App<br> :date: __2020-08-04 17:10:51__
 
-> Seit dem Update auf die Version 1.1.1 läuft die App wieder problemlos +++++++++ Nachdem die App anfangs einwandfrei funktioniert hat, habe ich seit nunmehr elf Tagen nur noch Fehlermeldungen (alle schon bekannt laut FAQ), ohne dass jedoch eine Besserung in Sicht ist. Das ist sehr unbefriedigend. Heute ist es vorrangig die Fehlernummer 39508. Allerdings habe ich alternierend auch mit den Nummern 3 und 10 Kontakt.<br> :date: __2020-07-28 07:26:22__
+> App mit kleinen Macken<br> :date: __2020-08-04 16:53:49__
 
-> Nachdem ich dank neuem Smartphone die App installieren könnte, läuft sie problemlos. Dass sie auf dem alten Android 5 System nicht installierbar war, ist echt Mist. Gerade viele Jugendliche werden nicht extra ein neues Phone kaufen, dabei wäre gerade bei denen die App hilfreich.<br> :date: __2020-07-28 04:25:49__
+> Da das Schnittstellenproblem immer noch nicht gelöst ist,werde ich die App löschen,da sie nicht funkioniert. Da es bis heute nicht behoben worden ,werde ich die App deininstalliert ,da die so keinen Zweck erfüllt. Echt schade.<br> :date: __2020-08-04 15:25:55__
 
-> Soweit ich das beurteilen kann, läuft die App fehlerfrei bei mir..<br> :date: __2020-07-27 20:29:04__
+> Nach dem abdate auf die neueste Version läuft sie super<br> :date: __2020-08-04 15:23:11__
 
-> Finde ich prima!<br> :date: __2020-07-27 20:22:37__
+> Die Aussage der App "Sie haben ein geringes Risiko, ..." ist nicht korrekt. Die App kann das nicht wissen. Sie kann höchstens mitteilen, dass ein erhöhtes Risiko festgestellt wurde oder eben nicht. Das ist etwas anderes. Wenn kein erhöhtes Risiko festgestellt wurde, kann das z.B. daran liegen, dass die infizierte Person keine App hatte. Ich weiß. Es geht aber darum, dass die Aussagen 1."Ich habe kein Ei gesehen." und 2."Dort war kein Ei." nicht äquivalent sind. Die App behauptet 2 statt 1.<br> :date: __2020-08-04 15:13:51__
 
-> Update: Neuinstallation zum 27.07. - keine Fehler mehr. Danke für die schnelle Verbesserung! --- Es gibt dauerhaft eine Fehlermeldung = Ursache: 3 "Fehler bei der Kommunikation mit der Google Schnittstelle (39508)"<br> :date: __2020-07-27 20:07:07__
+> App funktioniert seit heute nicht mehr! Samsung Galaxy S10e Nach Google play diensteUpdate funktioniert sie wieder!<br> :date: __2020-08-04 14:18:38__
 
-> Seit letztem Update funktioniert soweit alles! Danke für die Unterstützung!<br> :date: __2020-07-27 19:22:23__
+> Die App finde ich grundsätzlich nützlich und nutzbar. Ich hatte z.B. laut App einen Kontakt mit geringem Risiko. Vorbehaltlich datenschutzrechtlicher Bestimmungen, erscheint es zielführend, wenn im Protokoll der Datensatz markiert wäre (z.B. farblich), in dem der Kontakt gespeichert wurde. Aktuell muss ich alle Protokolle nach dem Treffer durchsuchen. Und grundsätzlich wäre es für mich eine Erleichterung, wenn ich solch einen Kontakt zeitlich (und somit ggf örtlich) nachvollziehen könnte.<br> :date: __2020-08-04 13:41:29__
 
-> Funktioniert alles wie versprochen<br> :date: __2020-07-27 19:17:57__
+> Neustes Update bringt Fehlermeldung 39508 Fehler mit der Google Schnittstelle. Ich habe immer noch die Version 1.1.1 Update bisher noch nicht angeboten<br> :date: __2020-08-04 11:58:23__
 
 
 
@@ -209,25 +209,25 @@ The Corona-Warn-App app has been installed by more than **5000000** times. At th
 <img src="3_star_reviews_wordcloud.png" alt="de.rki.coronawarnapp 3 reviews"/>
 </p>
 
-> Letzte Überprüfung auf eine mögliche Begegnung mit einer infizierten Person: gestern um 22:23 Da hab ich im Bett gelegen, geschlafen und das Telefon lag aufm Nachttisch. Wie da eine weitere Person mit Telefon aufgetaucht sein soll, das ist mir unklar. Vielleicht war es ein Einbrecher. Wäre es schönes, neues Szenario für die App. Theoretisch netter Ansatz, das ganze Ding. Aber...<br> :date: __2020-07-28 10:57:33__
+> Der Fehler API 39508 wurde durch ein Update der GooglePlay-Dienste schon Mitte Juli behoben. Beruflich werde ich aktuell damit konfrontiert, dass Reiserückkehrer sich an Flughäfen haben testen lassen und dann behaupten, dass ihr Test laut Warn-App negativ war. Diese Ergebnisanzeige kann aber offenbar nicht vorgelegt oder. reproduziert werden (oder fehlt dazu nur die Anleitung?). Somit geht's für die Betroffenen erst mal in Quarantäne ...<br> :date: __2020-08-04 18:28:34__
 
-> Mist...<br> :date: __2020-07-28 10:01:22__
+> Ich habe die Version 1.1.1 Trotzdem Fehler Ursache 3<br> :date: __2020-08-04 17:36:57__
 
-> Irgendwie bekomme ich Infos über mögliche Positive Kontakte. Merkwürdig : liege alleine, schlafend in meiner Furzmulle. Sonst scheint alles zu laufen. Aktuelle Version<br> :date: __2020-07-28 09:38:03__
+> Auch wenn diese Applikation stabil läuft, was hilft mir diese wenn lediglich eine maximale Wahrscheinlichkeit von 6% besteht das ich vor einer Infektion gewarnt werde. Der Release dieser App kam viel zu spät, so daß sie keine ausreichende Popularität besitzt und auch eine Kampagne blieb aus (oder erreichte mich nicht)<br> :date: __2020-08-04 17:05:26__
 
-> Die Entwickler betrachten die Sache offensichtlich als Geschenk für Ihren Unternehmensgewinn - die Nutzer werden in den Glauben gelassen, daß die App zuverlässig funktioniert - Notwendige Veränderungen der App werden als erledigt behauptet aber nicht automatisch vorgenommen<br> :date: __2020-07-28 08:10:48__
+> Ist in Ordnung.<br> :date: __2020-08-04 16:03:24__
 
-> passt, aber leider nicht für Android [<=]5 Geräte. Warum? @rki - natürlich unterstützen quasi alle Android Alt-Gerät neuere Android Versionen. Die fehlende gesetzliche Verpflichtung der Hersteller a.) zur dauerhaften Bereitstellung solcher- bzw. b.) zur Veröffentlichung der tech. Spezifikationen um die Bereitstellung aktueller Versionen durch Dritte zum Ende von Support-Zeiträumen zu ermöglichen ist hier das generelle Problem... [beantwortet auf einem SGS4/i9505 unter LineageOS 16 (Android 9)]<br> :date: __2020-07-28 08:00:21__
+> App funktioniert hoffe sie bringt auch was. Edit: heute ging wieder nichts automatisch letzte Aktualisierung gestern kurz vor 6, danach App nicht geöffnet<br> :date: __2020-08-04 13:54:34__
 
-> Trotz aktuellem Update und veränderten Energie Einstellungen muss ich täglich die App öffnen damit Sie sich aktualisiert. Android S9<br> :date: __2020-07-28 07:53:21__
+> Zuerst mal Lob für die App, Gestaltung, Infos, Funktionalitäten alles gut, habe beruflich eine Telematik App, beides zusammen kostet viel Akku.<br> :date: __2020-08-04 10:36:34__
 
-> Leider funktioniert die automatische Aktualisierung nicht zuverlässig. Aktualisiert sich erst wenn man die App öffnet. Handy ist ein Huawei P30 pro. Automatische Aktualisierung ist aktiv und die Berichtigung für die App stimmen auch. Daher nur drei Sterne.<br> :date: __2020-07-28 07:13:46__
+> Fehlende Feedback-Funktion & wenig Information bei Risikobegegnung Die App funktioniert auf meinem Smartphone problemlos. Jedoch finde ich es sehr schade, dass es keine ordentliche Feedback-Funktion gibt (Telefon-Hotline hat keine Abteilung für Feedback). Hier sind nur 500 Zeichen erlaubt - auch kein Feedback möglich. Kritik: Bei Risikobegegnung wird nicht angezeigt wann diese war. Somit können andere Personen die kein Handy haben nicht gewarnt werden, evtl. Hotspots werden nicht erkannt...<br> :date: __2020-08-04 09:14:12__
 
-> Nachtrag: Was nützt es eine App im Open source zu programmieren, wenn man dann nicht auf die Hinweise verschiedener Nutzer reagiert! Und dafür bezahlt die Regierung 20 Mio. Ab SAP und die Telekom! Da Frage ich mich er der größere Loser ist 🙄! Millionen für Schrott auszugeben oder eine einfache App mit Unterstützung von Apple und Google zu programmieren, die nicht geht 🤮...<br> :date: __2020-07-28 05:31:01__
+> Bitte ein Widget zur Verfügung stellen, da App ja sowieso ständig laufen muss. Desweiteren sollte ein/der Begegnungszähler direkt auf der ersten Seite vorhanden sein. App läuft, nur ist es eine übertriebene Einfachheit. Wenn das nicht kommt, und ich jedes Mal die App öffnen muss, sinkt mein Interesse zu Nutzung enorm.<br> :date: __2020-08-04 08:38:17__
 
-> Warum wird nur so o selten aktualisiert????<br> :date: __2020-07-27 23:23:24__
+> Obwohl ich inzwischen mein negatives Testergebnis habe, zeigt die App immer noch an, dass das Testergebnis noch nicht verfügbar ist. Klappt ja prima, aber Hauptsache noch mehr Sprachen. Dann klappt es demnächst auch nicht in Russisch. Well done!<br> :date: __2020-08-04 06:37:10__
 
-> Risiko-Ermittlung zeigt -1 - 14 Tage auch nach mehreren Tagen an.<br> :date: __2020-07-27 21:44:42__
+> Die Idee hinter der App ist schon eine tolle Sache, daher auch die drei Sterne. Was mich allerdings nervt ist, dass immer der Standort aktiviert sein muss. Leider verbraucht auch Bluetooth auf meinem Gerät zu viel Strom, sodass ich diese App leider deinstallieren musste.<br> :date: __2020-08-04 06:27:09__
 
 
 
@@ -237,25 +237,25 @@ The Corona-Warn-App app has been installed by more than **5000000** times. At th
 <img src="2_star_reviews_wordcloud.png" alt="de.rki.coronawarnapp 2 reviews"/>
 </p>
 
-> Ob nutzen oder nicht.. erst nach öffnen erfolgt Aktualisierung.. 90% der Leute in meinem Umfeld hat sie gar nicht erst installiert.. Achja .. besser wäre es immer persönlich auf Emails zu antworten.. automatisierte antworten geben weder vertrauen noch werden damit infektionsketten unterbrochen<br> :date: __2020-07-28 10:56:38__
+> Die App funktioniert bis Gestern einwandfrei,.... seit heute OHNE Funktion, Fehler 3 ,.... ein Neustart des Smartphones hat keine Abhilfe geschafft. Kommunikatiosnproblem mit der Schnittstelle :-( Ich bekomme den Fehler 39508 Es ist die neueste Version installiert. Allerdings hat die "defekte" Installation bzw der Fehler so extrem meinen Akku leergesaugt, dass ich die App deinstalliert und neu installiert habe, bisher ohne Fehlermeldung, nur fehlen jetzt die Risikodaten ("alte" Inst.)<br> :date: __2020-08-04 18:09:02__
 
-> Seit der letzten Aktualisierung meldet die App positive Kontakte wenn ich alleine Zuhause bin!? Völlig verrückt, so wird das nichts. Werde ich deinstallieren wenn nicht umgehend Korrektur erfolgt!<br> :date: __2020-07-28 10:13:26__
+> Liebes RKI, wie kann es sein, dass ich den QR-Code einscanne und die Arztpraxis das Testergebnis bereits vorliegen hat aber die App nicht? Nachtrag: Ja. Es ist ein QR-Code für die Corona-Warn-App! Und es wird mir weiterhin kein Ergebnis angezeigt obwohl der Arzt es längst hat.<br> :date: __2020-08-04 10:47:48__
 
-> Da habt Ihr Entwickler monatelang an dem Ding rum-programmiert ... und was kommt raus? Eine App die sich nicht richtig aktualisiert und in der die Tage falsch gezählt werden.. oder dargestellt werden... Alter Schwede - ihr seid echte Profis!<br> :date: __2020-07-28 10:10:22__
+> Alle zwei Tage Absturz. App ist ohne Funktion<br> :date: __2020-08-04 09:05:21__
 
-> EDIT 3: Ihre Google Play Dienste sind leider nicht auf dem neusten Stand. Die neue Version heist: ENF 1.5. Damit wurde viele Fehler behoben. Antwort: Ich finde keine Möglichkeit, die Google-Play Dienste zu aktualisieren. Sie erscheinen nicht im Playstore. In der App (Anwendungsmanager->Google Play Dienste) gibt es keinen Knopf zum Aktualisieren. Wo finde ich die neue Version ENF1.5?--- Danke. Läuft jetzt. Die Hauptschwierigkeit bestand darin, die Google Play Dienste zu aktualisieren. Anleitung dazu von Google funktioniert nicht. Ist schließlich mithilfe einer externen App "Fix Play Services 2020" gelungen. Dort gibt es endlich einen Update Knopf.<br> :date: __2020-07-28 09:53:21__
+> Leider schaltet sich die App immernoch, trotz Update für Android, öfter einfach aus! Mensch muss also täglich kontrollieren! Das nervt etwas.<br> :date: __2020-08-04 08:33:10__
 
-> Ziemlich unausgereifte Anwendung. Typisch Telekom, teuer und schlecht...<br> :date: __2020-07-28 09:50:34__
+> Gut, nachdem ich jetzt das System gewechselt habe, gab es keine Ausrede mehr die App nicht zu installieren, mein erster Eindruck ist aber negativ, weil allein schon zu viel Text Erklärung normale Leute abschrecken würde. Zudem glaube ich auch das einfach zu wenig Installationen ( ältere Systeme sind ja aus dem vor) erfolgt sind damit das Ganze überhaupt erfolgreich sein kann.<br> :date: __2020-08-04 02:38:25__
 
-> Diese App funktioniert nicht richtig! Werde laufend ausgeworfen.<br> :date: __2020-07-28 08:17:11__
+> bis vorgestern lief die App ohne Fehlermeldungen, seit gestern früh bekomme ich beim Start immer eine Fehlermeldung: "Ursache 3 Etwas ist schiefgelaufen.. Fehler bei der Kommunikation mit der Google Schnittstelle(39508)." Ich habe weder was neu installiert, noch wurde irgendwas aktualisiert, noch habe ich irgendwelche Einstellungen geändert. Auch ein Neustart des Handys hilft nicht. Entsprechend funktioniert auch die tägliche Aktualisierung nicht mehr.<br> :date: __2020-08-03 22:38:48__
 
-> Lief recht gut, seit kurzen heißt es: Risikoermittlung kann nicht durch geführt werden, kein Speicher vorhanden (Ursache 2), was aber nicht sein kann, da 1 GB freier Speicher und ebenso Arbeitsspeicher frei. Beheben bitte, da die App dadurch überhaupt nicht mehr funktioniert.<br> :date: __2020-07-28 07:29:22__
+> Ich finde es sehr unglücklich, dass das Benachrichtigungssymbol der App die Farbe rot hat. Dadurch suggeriert es mir etwas negatives, wie beispielsweise jemanden getroffen zu haben der nun Corona positiv ist. Vielleicht wäre eine andere Farbe (beispielsweise blau) eine bessere Option, die nicht einen so negativen Eindruck vermittelt.<br> :date: __2020-08-03 22:12:09__
 
-> Die priorisierte Hintergrundaktivität kann bei meinem Samsung J4+ nicht angeschaltet werden, die Einstellung springt immer wieder auf " aus" zurück<br> :date: __2020-07-28 06:57:37__
+> Bei mir wurde keinerlei Fehler angezeigt. Stand immer dort 14 von 14 Tagen aktiv. Aber irgendwann war die standortermittlung nicht mehr möglich richtig zu aktivieren. Erst nach neuinstallation ging es wieder. Updates hatten keine Änderung gebracht<br> :date: __2020-08-03 21:40:56__
 
-> Man hat keinen Schutz weil man nicht weiß ob Personen angeben wenn sie positiv auf Corona getestet worden.<br> :date: __2020-07-27 23:28:52__
+> Nach wie vor aktualisiert sich die App erst nach dem Öffnen, trotz Update!!<br> :date: __2020-08-03 18:00:03__
 
-> Neu: Text geändert in : "Dauerhaft aktiv", schon besser. Hintergrund-Aktivität steht auf manuell und ist so eingeschaltet. 1 grüne Risk.Beg. erhalten. Hotline 1. mal: Die grüne Risik.Beg. wird n. 2 Wochen mit dem entspr. Datensatz gelöscht. Nach 16 Tagen aber immer noch da! Hotline 2. mal: Risik.Beg. werden nie gelöscht!? Wer denkt sich sowas aus? Was soll ich mit der Daueranzeige 1 Risik. Begegnung in grün?? Kann mir bitte irgend jemand von SAP/Telekom den Sinn dahinter erklären? 🤦🤷<br> :date: __2020-07-27 22:49:58__
+> Die App meckert ständig, dass sie keine Risikoermittlung durchführen kann, da mein Speicher zu voll sei. Jetzt habe ich 1GB Daten gelöscht und die App meckert weiter. Wieviel Freiraum soll ich dieser App denn noch schenken?<br> :date: __2020-08-03 17:09:03__
 
 
 
@@ -265,24 +265,24 @@ The Corona-Warn-App app has been installed by more than **5000000** times. At th
 <img src="1_star_reviews_wordcloud.png" alt="de.rki.coronawarnapp 1 reviews"/>
 </p>
 
-> Mein Viren Schutz Programm sagte ACHTUNG WARNUNG VIRUS Befall<br> :date: __2020-07-28 10:49:59__
+> Nach einer Woche ist das Testergebnis immer noch nicht in der App. Zum Glück gibt es noch die Arzthelferinnen die einen gleich anrufen.<br> :date: __2020-08-04 18:38:22__
 
-> Ich hab das Update gemacht und trtidzem aktualisiert die App nur, wenn ich sie öffne. Soll das so sein? Edit: Ich hab die Einstellungen angepasst, das Problem besteht weiterhin Edit: Die Hintergrundaktivität ist seit knapp zwei Tagen erlaubt<br> :date: __2020-07-28 10:23:47__
+> Vollkommen überflüssige und funktionsmangelhafte APP, die sich noch nicht mal in der Betaphase befindet. Das Beste daran ist, wenn man sie gleich wieder deinstalliert. Zudem gibt es immer noch zu wenig Leute, die sich diese App auf das Handy installieren, so dass es kaum Sinn macht.<br> :date: __2020-08-04 18:35:52__
 
-> Beim öffnen der App kam eine Fehlermeldung "3". Bei Google wurde mir geraten die App neu zu installieren, die Daten würden nicht verloren gehen. Natürlich laufe ich jetzt unter neu aktiviert und alle Daten sind weg<br> :date: __2020-07-28 10:14:27__
+> Seit dem 17.06 keine Risiko Ermittlung mehr möglich, Ursache 2001 - Etwas ist schief gelaufen. Der Fehler erscheint im privaten WLAN sowie im Mobilfunk von O2 und Telekom.<br> :date: __2020-08-04 18:19:36__
 
-> 68 Mio Euro für ein App, welche nicht richtig funktioniert, ständig Fehler produziert und zudem kein echten Support bietet, wenn man sich die Reaktionen des Robert-Koch-Institut's anschaut. Unterirdisch trifft den Nagel auf den Kopf, aber SAP und die Telekom sind um einiges reicher geworden. Vielleicht lässt man das nächste Mal jemanden programmieren, der sein Handwerk versteht!!!<br> :date: __2020-07-28 10:11:18__
+> Der Schrott funktioniert nicht. Habs drei mal runtergeladen und jedesmal lief sie nach ein paar Tagen nicht mehr.<br> :date: __2020-08-04 18:15:44__
 
-> Keine automatische Aktualisierung<br> :date: __2020-07-28 10:07:10__
+> Am ersten verfügbaren Tag habe ich diese APP auf meinem Redmi Note 7 installiert und bis heute ist auch alles fehlerfrei gelaufen. Nun bekomme ich die 9002 Fehlermeldung und nach Neustart zusätzlich die Meldung: Risikoermittlung nicht lange genug aktiviert! Und nun?<br> :date: __2020-08-04 17:27:37__
 
-> Leider stürzt die App nach jedem Öffnen sofort wieder ab, ich weiß nicht woran es liegt... Wenn es sich doch mal öffnen lässt steht dort Usache:9002 ich denke aber dass ich die neueste Version heruntergeladen habe.<br> :date: __2020-07-28 09:35:51__
+> Klappt nicht. Kann Corana nicht laden<br> :date: __2020-08-04 16:57:10__
 
-> Was für eine Enttäuschung wenn man sich voll draufverlässt und plötzlich wird klar es hat mehrere Wochen nicht richtig funktioniert😡so viel Geld für so ein Schwachsinn also wer schreibt hier dass app kein Unterschied beim Akkuverbrauch macht, hat bestimmt 0 Ahnung vom digitalen Welt. Immer muss bluetooth an sein und bei der Bewegung wird mehrmals am Tag dies aktiviert was auf Verbrauch direkt einwirkt<br> :date: __2020-07-28 09:33:33__
+> Nicht zu gebrauchen. Ich werde diese App deinstallieren. Sie funktioniert nicht! Es kommt Ursache 3, Fehler Schnittstelle 39508.<br> :date: __2020-08-04 16:53:20__
 
-> Fehler bei google Kommunikation (39508). Auch bei gerade upgedateter App (1.1.1). Die App (in aelterer Version) ging vor einigen Tagen noch einwandfrei.<br> :date: __2020-07-28 09:30:10__
+> Billo einfach billo kack app funktioniert nicht<br> :date: __2020-08-04 16:52:43__
 
-> Mein Handy zeigt ständig an, "(die App ist mit Ihrem Gerät nicht kompatibel & dadurch nicht verfügbar"), und zeigt auch ständig: Dies ist keine sichere Seite. Hacker könnten versuchen, Ihre Daten von Corona-Warn-App zu stehlen, zum Beispiel Passwörter, Nachrichten oder Kreditkartendaten. , trotz aktiv/aktuell ständig mein Google Dienst ist, mein Betriebssystem ist aktuell/neues Updates ein Windows, sagt mein neues Huawei Y6 & lehnte die App ab! Die App 2x zu installieren keine Chance<br> :date: __2020-07-28 09:21:36__
+> Ich habe die App gerade geupdatet und bekomme nun den Fehler URSACHE:3500 angezeigt, dass irgendwie die Schnittstelle zu Google nicht funktioniert?! Hatte mir von dem Update mehr erhofft, ich weiß momentan nicht, ob die App das tut was sie tun soll.<br> :date: __2020-08-04 16:50:33__
 
-> Die Antworten des RKI sind wirklich amüsant.. doze ist bekannt.. komisch dass man es dann vergessen hatte und die app trotzdem schlafen gelegt wurde.. es soll ein fehler auf Android seite sein.. vielleicht sollte man mehr an der app arbeiten als auf Rezensionen zu antworten.... und nach wie vor frage ich wie naiv man sein muß, das die extra geschaffene Schnittstelle keine daten an google liefert..<br> :date: __2020-07-28 09:19:25__
+> Obwohl ich alles so eingestellt habe das die App im Hintergrund arbeitet aktualisiert sich die App bei mir nur wenn ich sie öffnen. Ich habe das Mi 9T und alle Einstellungen vorgenommen. Woran kann es noch liegen?<br> :date: __2020-08-04 16:39:17__
 
 

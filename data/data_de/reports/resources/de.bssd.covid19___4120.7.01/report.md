@@ -131,6 +131,12 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="de.bssd.covid19 5 reviews"/>
 </p>
 
+> Super einfach verständliche App. Ergebnis stand bei mir nach 24Std. fest. Habe zudem auch eine Push Benachrichtigung bekommen. Leider vergisst die App jedes Mal beim Öffnen die Anmeldedaten . Ansonsten super App.<br> :date: __2020-08-03 05:18:27__
+
+> Gut, dass wir so eine App haben<br> :date: __2020-07-31 20:32:06__
+
+> Konnte die App ohne Probleme installieren und mich anmelden. Am Abend konnte ich direkt die Ergebnisse einsehen. Keine Ahnung was bei den anderen Rezensenten los ist.<br> :date: __2020-07-30 00:46:43__
+
 > Installation und einlesen des QR Codes ging problemlos und das Ergebnis wurde per Push Nachricht innerhalb der genannten 24 bis 48 Stunden zugeschickt.<br> :date: __2020-07-27 12:39:47__
 
 > Macht was es soll , wenn man es richtig benutzt<br> :date: __2020-07-24 13:02:32__
@@ -144,12 +150,6 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 > Bei mir hat das Scannen des QR-Codes problemlos geklappt und mein Testergebnis war in weniger als 48 Stunden da.<br> :date: __2020-07-15 17:31:38__
 
 > Funktioniert<br> :date: __2020-07-15 17:23:52__
-
-> Hat echt super geklappt. Die Anmeldung, der Scan als auch die Benachrichtigung.<br> :date: __2020-07-15 09:36:56__
-
-> Ich finde diese App sehr gut. 🙂...<br> :date: __2020-07-04 18:13:25__
-
-> App ist gut, alles funktioniert soweit. Verbesserungsvorschlag: das grüne Test Ergebnis blau machen damit Leute mit einer Grün-Rot Schwäche es besser erkennen können :-)<br> :date: __2020-07-04 14:04:18__
 
 
 
@@ -187,6 +187,8 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 <img src="3_star_reviews_wordcloud.png" alt="de.bssd.covid19 3 reviews"/>
 </p>
 
+> Die App funktioniert problemlos. Barcodescanner läuft und Teststatus wird umgehend angezeigt. Auch mehrere Codes für mehrere Personen können hintereinander abgefragt werden.<br> :date: __2020-08-03 21:25:29__
+
 > Bewertung nicht möglich, beim Starten der App erscheint sofort ..angehalten<br> :date: __2020-07-02 22:39:15__
 
 > Ich kann das nicht beurteilen.<br> :date: __2020-06-19 13:05:42__
@@ -204,8 +206,6 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 > Kann diese App nur von getesteten verwendet werden?<br> :date: __2020-04-03 11:34:42__
 
 > Verstehe die App nicht und deinstallier sie daher. Was brauch ich denn Für eine ID, die ich da eingebe oder welchen QR-Code soll ich da eingeben?<br> :date: __2020-04-03 10:36:58__
-
-> Wo bekomme ich ID Nummer?<br> :date: __2020-03-31 20:19:46__
 
 
 
@@ -243,24 +243,24 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 <img src="1_star_reviews_wordcloud.png" alt="de.bssd.covid19 1 reviews"/>
 </p>
 
-> Mein Handy zeigt ständig an, "(die App ist mit Ihrem Gerät nicht kompatibel & dadurch nicht verfügbar"), trotz aktiv ständig mein Google Dienst ist, sagt mein neues Huawei Y6 & lehnte die App ab!<br> :date: __2020-07-28 06:42:17__
+> Genau so wie Corona aufgespielt wird und die Wirtschaft unnötig darunter leidet genauso ist diese App einfach nur ein Blöff und Müll. Ladet euch die app nicht runter.<br> :date: __2020-08-04 13:54:46__
 
-> Das einscannen vom QR-Code klappt super.Das war es dann auch schon wieder.Mal steht das Ergebnis aus,mal ist das Ergebnis negativ.Sollte besser funktionieren,wenn das Ergebnis schon nur damit abgelesen werden kann.<br> :date: __2020-07-25 17:17:46__
+> Die App muss wirklich bearbeitet werden. Die zeigt Ergebnisse liegt nicht vor, obwohl die schon da sind.<br> :date: __2020-08-04 09:20:09__
 
-> Ergebnisse weder per app, noch beim Arzt vorliegen. Hätte ich mir ja sparen können 2 Stunden mit 3 Kindern anzusehen! So durchdacht wie alles in unserem Land!<br> :date: __2020-07-23 11:55:04__
+> Totalausfall. Die App is so schlecht programmiert wie ich es noch nicht gesehen habe. Es funktioniert nichts.<br> :date: __2020-08-03 19:02:50__
 
-> Enttäuschend. Gestern des Test gemacht. Die App soll einem dann anzeigen, wie das Ergebnis ist. Man soll auch eine Benachrichtigung oer Push Nachricht erhalten. Die App vergisst ständig, dass man schon mal eingescannt hat. Vom Arzt habe ich heute morgen schon das Ergebnis erhalten. Laut App steht das Ergebnis immer noch aus. Schade...wird wieder deinstalliert. Heute, noch 1 Tag später, nochmals mit anderem Smartphone probiert, immer noch kein Ergebnis. Hier besteht echter Überarbeitungsbedarf.<br> :date: __2020-07-22 15:35:03__
+> So ein Mist Die App funktioniert einfach nicht, das einloggen mit der ID und das scannen nicht! Auch nach dreimal in und deinstallieren nicht! Außerdem stürzt sie immer wieder ab.<br> :date: __2020-08-03 11:37:12__
 
-> Die App ist völlig sinnlos. Bis heute zeigt mir die App an, das mein Testergebnis noch nicht vorliegt, obwohl ich schon telefonisch vom Arzt informiert wurde. Wer dringend auf ein Testergebnis angewiesen ist, für den lohnt sich das nicht. Dann besser im Labor selbst anrufen.Echtzeit ist das auf keinen Fall.<br> :date: __2020-07-20 11:58:36__
+> Völliger Müll... kann keinen Code scannen und das auch nach mehrmaligen Versuchen nicht.<br> :date: __2020-08-02 08:25:16__
 
-> Diese App funktioniert leider überhaupt nicht! Ich habe Sie auch schon ein deinstalliert aber leider klappt auch dies nicht. Nun sitzt man zu Hause und wartet und wartet das ist echt frustrierend! Auch für den Arbeitgeber und Angehörige! Bitte ändert dies<br> :date: __2020-07-18 10:38:57__
+> Nach dem Test gestern Nachmittag wollte ich mich in der App einloggen um die Benachrichtigung zu erhalten sobald der Test gemacht wurde. Die Grundidee der App ist super, aber diese wird einfach schlecht umgesetzt. Der QR-Code Scanner funktioniert nicht und nachdem man die ID eingetippt hat kam bei mir erst einmal eine Fehlermeldung (die App achtet unnötigerweise auf Groß- und Kleinschreibung). Auch nach richtiger Eingabe kam lediglich die Meldung, dass Passwort oder Nutzername falsch sind.<br> :date: __2020-07-31 13:58:10__
 
-> Wertlose App. Scannen funktioniert nicht. Also auch Ergebnis<br> :date: __2020-07-16 17:04:11__
+> Klappt einfach nicht es zu installieren...sagt es wird gleich installiert es passiert aber nix...<br> :date: __2020-07-30 18:44:42__
 
-> Diese Patienten-App ist leider nutzlos. Entweder werden die Testergebnisse nicht an das System übermittelt oder die App an sich ist das Problem. Jedenfalls ist der Anruf des Gesundheitsamtes klarer Sieger im Rennen um die Testergebnis-Weitergabe. Der Barcode-Scanner funktioniert auch nur sporadisch und nach mehreren Anläufen. Ich würde diese App keinesfalls mehr installieren. Sie macht nur unerfüllbare Hoffnung auf schnelle Information.<br> :date: __2020-07-15 10:33:59__
+> Die App braucht meistens 2 Anläufe bis sie den QR Code scannt. Ich muss sie also nochmal schließen und nochmal öffnen um dann zu erfahren dass das Ergebnis noch nicht vorliegt. Selbst jetzt noch nicht, obwohl ich gestern scgon von meinem Arzt das Ergebnis bekommen habe. Total sinnlose App und Zeitverschwendung.<br> :date: __2020-07-29 09:45:39__
 
-> Also das Scannen des Codes klappt schonmal nicht. Habe dann jedes Mal mühevoll den langen Code eingegeben. Schonmal sehr schlecht. Während in der App steht, dass Ergebnis läge nach 2 Tagen immer noch nicht vor, hat der Arzt es schon. Also keine Echtzeitübertragung. Die Idee der App ist spitze, dafür 1 Punkt. Schade, dass sie aber überhaupt nicht funktioniert. Nachtrag: am Donnerstag hatte der Arzt das Ergebnis. Heute, am Samstag, liegt in der App immer noch nichts vor....<br> :date: __2020-07-11 08:49:24__
+> reine Katastrophe🙄🙄🙄🤕<br> :date: __2020-07-29 09:24:34__
 
-> Letzter Müll ist diese app!<br> :date: __2020-07-10 15:11:01__
+> Corona funktioniert; die App nicht !<br> :date: __2020-07-28 14:40:34__
 
 

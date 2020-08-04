@@ -147,6 +147,12 @@ The Smittestop app has been installed by more than **100000** times. At this tim
 <img src="5_star_reviews_wordcloud.png" alt="com.netcompany.smittestop_exposure_notification 5 reviews"/>
 </p>
 
+> Useful without being needlessly complicated. The FAQ section gives really good responses to questions and concerns people might have.<br> :date: __2020-07-31 22:46:21__
+
+> Hello, i love this apps, i dont understand why people dont like sharing their location... If they are letting to cookies to facebook, browsers, etc. which are doing the same thing... I have question, does this work With Croatian COVID-19 Ministry of Health?<br> :date: __2020-07-31 10:21:12__
+
+> It's a pity that this app isn't in English, as I live in Denmark and my danish isn't very good.<br> :date: __2020-07-30 20:58:35__
+
 > Perfect app. Quietly doing it's job in the background. Hope some day it will work over the borders too when traveling around. It signalled that I have been in contact with other phones already and that's exactly what it should do.<br> :date: __2020-07-26 06:26:50__
 
 > Great solution! I am impressed by how well the app and tracing system was designed. It's impressive how the design allows to both ensure absolute privacy of all users while still being able to track infection chains anonymously. Good work!<br> :date: __2020-07-08 17:21:06__
@@ -161,12 +167,6 @@ The Smittestop app has been installed by more than **100000** times. At this tim
 
 > Fint lavet.<br> :date: __2020-06-18 19:39:34__
 
-> Meget simpel og forklarer godt hvordan den fungerer. Håber mange vil bruge den :)<br> :date: __2020-06-18 16:24:54__
-
-> Meget simpel to-the-point app. Bad kun om adgang til exposure notification, og ikke kamera, lager, gps eller hvad ved jeg.<br> :date: __2020-06-18 11:10:35__
-
-> Tilpas simpel til at alle kan bruge den. Tilpas sikker til at ingen bør lade være.<br> :date: __2020-06-18 10:05:05__
-
 
 
 #### 4-star reviews
@@ -175,6 +175,8 @@ The Smittestop app has been installed by more than **100000** times. At this tim
 <img src="4_star_reviews_wordcloud.png" alt="com.netcompany.smittestop_exposure_notification 4 reviews"/>
 </p>
 
+> App'en driller, når telefonen sættes i flytilstand og app'en ikke kører helt i baggrunden. Når app'en har et GUI åben, når bluetooth forsvinder, kommer en dialogboks frem, som kræver ny godkendelse af BT. Hvis app'en derimod kører uden GUI, så tåler den fint at BT forsvinder og dukker op igen. Den dialogboks i GUI.-tilstand bør rettes.<br> :date: __2020-08-04 18:50:15__
+
 > Fint initiativ, app'en er nem at forstå når først den er aktiv. Dog er der alt for meget at læse under første opstart, det bør gemmes væk under en "mere info" - knap. Nogle giver op undervejs. Det alvorligste problem med app'en er dog at så få kender til dens eksistens, i min omgangskreds blandt familie, venner og kolleger er det kun få. Send dog en opfordring via e-Boks og SMS til alle borgere, som man gjorde om smitten i begyndelsen af epidemien!<br> :date: __2020-07-25 08:35:09__
 
 > Ville være fint hvis den gav en mere synlig påmindelse når den af den ene eller anden årsag bliver offline. Ellers super simpel at sætte op og bruge.<br> :date: __2020-07-22 09:56:46__
@@ -182,8 +184,6 @@ The Smittestop app has been installed by more than **100000** times. At this tim
 > I guess it works<br> :date: __2020-07-12 14:22:36__
 
 > Lige til og forklarende. Bruger ikke GPS som nogen ser ud til at tro. Ville dog være rart med en indikation at at den reelt virkede og havde en effekt. F.eks. en sum tæller over exposures på en dag.<br> :date: __2020-06-26 22:34:09__
-
-> Udmærket ide. Mangler dog noget funktionalitet der selv tænder/slukker for registreringen. Man kunne holde det op mod sit WiFi eller antenne master omkring sin bopæl. Alt dette er information der kan være lokalt, så man ikke skal dele unødige oplysninger. Endnu en ting: lad der være en notikation, når appen er slået til, så man nemt kan se at den er tændt, i stedet for at skulle åbne app.<br> :date: __2020-06-26 09:27:26__
 
 > Positivt: Beder kun om bluetooth-rettigheder, intet andet; dvs god privacy. Halv-negativt: Fylder 107 MB, hvilket ganske vist er langt bedre end første release, men stadig en del på min telefon, som ikke er helt ny.<br> :date: __2020-06-23 00:15:32__
 
@@ -221,6 +221,8 @@ The Smittestop app has been installed by more than **100000** times. At this tim
 <img src="2_star_reviews_wordcloud.png" alt="com.netcompany.smittestop_exposure_notification 2 reviews"/>
 </p>
 
+> Good idea but crucial notification for status is still missing. It seems to work as intented but the design is not with actual users in mind. There is no indication on the status of the application running in the background. This leads to me forgetting turning it on and/or off as I have no idea without opening the app. Also there are too many steps to turn it on (3 taps is a lot).<br> :date: __2020-07-31 22:16:28__
+
 > Nedjusterer til 2 stjerner. At en engelsk version er på vej er fint, men alt for sent. Og hvad med andre sprog? Arabisk, urdu mfl? Jeg er sikker på at at I kan finde de anbefalede sprog hos sundhedsmyndighederne Det tager et par dage at oversætte. I betragtning af situationens alvor håber jeg en version på flere sprog kommer om få dage. Så meget er der altså heller ikke at oversætte. Det er en ommer.<br> :date: __2020-07-12 19:36:35__
 
 > Alert notifications keep turning off???<br> :date: __2020-07-01 06:29:47__
@@ -247,6 +249,10 @@ The Smittestop app has been installed by more than **100000** times. At this tim
 <img src="1_star_reviews_wordcloud.png" alt="com.netcompany.smittestop_exposure_notification 1 reviews"/>
 </p>
 
+> English please<br> :date: __2020-08-01 12:32:00__
+
+> Requires location service / GPS enabled even though the app itself does not use it.<br> :date: __2020-07-30 10:36:11__
+
 > Der bør tilføjes en funktion der åbner batterispare indstillinger og beder brugeren slå det fra ellers bliver baggrunds-servicen lukket ned så app'en ikke længere er funktionel hvilket også kan læses i flere reviews. En forklaring om hvorfor der bedes om lokation tilladelse ville være smart. Koden bør være open source. Det er en dårlig undskyldning uden hold i virkeligheden at det giver højere risiko for hacks og ironisk om en app lavet til Android der både er open source og baseret på Linux.<br> :date: __2020-07-19 01:40:11__
 
 > No source code available, do not trust it. Open source software ensures the validity and security of the app by allowing independent review, inspection and oversight, and is further more recommended by the eHealth community and WHO. If the app is vulnerable, showing the source code does not change that vulnerability, nor does it stop anyone for exploiting it, rather it stops all the open source developers from finding and solving the issue.<br> :date: __2020-07-18 21:05:43__
@@ -262,9 +268,5 @@ The Smittestop app has been installed by more than **100000** times. At this tim
 > 1) cannot be turned on unless force quit 2) public service app like tihs should be open source. Uninstalled again, sadly.<br> :date: __2020-06-29 23:44:55__
 
 > App tells me to turn on my Bluetooth while Bluetooth is on and app have full permission to utilize it.<br> :date: __2020-06-29 10:33:46__
-
-> App'en spørger ikke om nogen tilladelser og kan derfor ikke aktiveres. Det er da for åndssvagt!<br> :date: __2020-06-28 10:48:08__
-
-> Virker ikke på hverken Samsung S7 Edge eller S10+. Kan aktiveres på S7 men beskedsiden opdateres ikke. På S10+ kan der ikke aktiveres. Derudover giver det ingen mening, at der skal 15 minutters tæt kontakt til før der skabes et "match" men det er muligvis Google/Apple frameworket der er årsagen men smitte kræver ikke 15 minutters kontakt. Men kan ske ved eksempelvis et enkelt host eller nys.<br> :date: __2020-06-27 14:53:04__
 
 

@@ -172,8 +172,6 @@ No recent reviews available with 3 stars.
 <img src="1_star_reviews_wordcloud.png" alt="org.who.infoapp 1 reviews"/>
 </p>
 
-> Mein Handy zeigt ständig an, "(die App ist mit Ihrem Gerät nicht kompatibel & dadurch nicht verfügbar"), trotz aktiv ständig mein Google Dienst ist, sagt mein neues Huawei Y6 & lehnte die App ab!<br> :date: __2020-07-28 06:41:08__
-
 > Leder nur Englisch, für viele unbrauchbar.<br> :date: __2020-07-08 09:21:49__
 
 > Fake app<br> :date: __2020-06-14 18:13:19__
@@ -191,5 +189,7 @@ No recent reviews available with 3 stars.
 > Nur Englisch. Es gibt auch noch deutsche. Weg damit.<br> :date: __2020-05-24 15:31:31__
 
 > Funktioniert nicht!!!!!!!!!!!<br> :date: __2020-05-02 23:58:40__
+
+> Nicht RUNTERLADEN UH RMACHT EUCH ZU SKLAVEN DES SYSTEMS<br> :date: __2020-04-27 12:30:51__
 
 

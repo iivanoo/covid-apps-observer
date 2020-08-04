@@ -165,6 +165,10 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 <img src="5_star_reviews_wordcloud.png" alt="de.xikolo.openwho 5 reviews"/>
 </p>
 
+> Ok<br> :date: __2020-08-01 05:10:01__
+
+> Good<br> :date: __2020-07-30 12:19:26__
+
 > This app is very use full<br> :date: __2020-07-25 21:08:33__
 
 > Thankyou<br> :date: __2020-07-25 08:27:58__
@@ -180,10 +184,6 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 > Very nice<br> :date: __2020-07-08 07:49:46__
 
 > Exellent<br> :date: __2020-07-05 19:17:42__
-
-> Nice<br> :date: __2020-07-03 10:48:14__
-
-> Great information.<br> :date: __2020-07-02 13:56:24__
 
 
 
@@ -249,6 +249,8 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 <img src="2_star_reviews_wordcloud.png" alt="de.xikolo.openwho 2 reviews"/>
 </p>
 
+> I can't open the certificate. Please help me out of this problem<br> :date: __2020-07-31 05:25:00__
+
 > It shows errors again and again,Can't sign in<br> :date: __2020-06-26 16:11:53__
 
 > I completed a course and then downloaded certificate it ... But I'm unable too see my certificate as it say corrupted file or invalid file. Please help with reagrdings to it.<br> :date: __2020-05-27 13:14:22__
@@ -273,6 +275,8 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 <img src="1_star_reviews_wordcloud.png" alt="de.xikolo.openwho 1 reviews"/>
 </p>
 
+> unable to make account and register, also not able to login.<br> :date: __2020-08-04 11:59:45__
+
 > I can't Login no matter how much I try.<br> :date: __2020-07-04 14:19:09__
 
 > This app is having technical issues<br> :date: __2020-07-03 17:13:33__
@@ -290,7 +294,5 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 > Cannot access securely and info very unclear and cloudy<br> :date: __2020-05-28 05:01:52__
 
 > Not good at all, very bad<br> :date: __2020-05-25 06:20:08__
-
-> I try lots time to sign in but no response and my 3mile ide are all ready registered<br> :date: __2020-05-19 16:24:39__
 
 

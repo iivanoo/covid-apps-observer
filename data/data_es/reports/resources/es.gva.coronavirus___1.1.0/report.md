@@ -143,6 +143,8 @@ The GVA Coronavirus app has been installed by more than **10000** times. At this
 <img src="4_star_reviews_wordcloud.png" alt="es.gva.coronavirus 4 reviews"/>
 </p>
 
+> En principio todo ok, no obstante me sale una duda, doy de alta mi SIP, pero es posible añadir la SIP de mi hija que es menor de edad? Gracias.<br> :date: __2020-08-02 21:52:13__
+
 > Buenas noches. ¿Hay alguna posibilidad de acceder de una manera comoda a los datos de incidencia por municipios? Gracias.<br> :date: __2020-05-29 01:59:33__
 
 

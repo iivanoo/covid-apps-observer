@@ -133,25 +133,25 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 <img src="5_star_reviews_wordcloud.png" alt="au.gov.health.covidsafe 5 reviews"/>
 </p>
 
-> Fantastic<br> :date: __2020-07-28 10:55:53__
+> It's seems to be ok<br> :date: __2020-08-04 14:38:01__
 
-> I feel safe knowing that I will be notified if I come in contact with covid 19 infection<br> :date: __2020-07-28 02:15:18__
+> Fine<br> :date: __2020-08-04 08:00:55__
 
-> Very good<br> :date: __2020-07-28 02:08:46__
+> Is good<br> :date: __2020-08-04 06:57:35__
 
-> This is how we can beat covid-19<br> :date: __2020-07-27 23:58:28__
+> Saving us from covid - thank you.<br> :date: __2020-08-04 05:18:48__
 
-> What ever helps!<br> :date: __2020-07-27 09:32:20__
+> Good<br> :date: __2020-08-03 12:16:24__
 
-> Edited from 1 to 5 star. Notification problems fixed, thanks.<br> :date: __2020-07-27 05:16:47__
+> Now, with rates of community transmission increasing, is the time for you to download or update this app. It might not be perfect but this app will help with contact tracing.<br> :date: __2020-08-03 10:07:42__
 
-> why not add a function where businesses can create a QR code and as you enter you scan the code which is stored in the Covid safe database. An additional level of data collection to overcome the bluetooth issue<br> :date: __2020-07-27 04:18:34__
+> Brilliant idea. Everyone should have this installed.<br> :date: __2020-08-02 10:16:23__
 
-> Works transparent. No compatibility issues. Please use it and help save lives.<br> :date: __2020-07-26 14:52:17__
+> Works well has a easy to see icon in the notification panel. Minimal power usage. I still get a day charge out of the phone with 3 hours of YouTube and 2 hours Bluetooth<br> :date: __2020-08-01 09:16:41__
 
-> It can't do more harm than virus, just use it!<br> :date: __2020-07-26 10:19:16__
+> better to be safe then sorry<br> :date: __2020-08-01 03:27:16__
 
-> A small price to pay and hopefully saves some older person's life. Uncool but there you go.<br> :date: __2020-07-25 16:18:16__
+> Good<br> :date: __2020-07-30 14:41:05__
 
 
 
@@ -161,25 +161,25 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 <img src="4_star_reviews_wordcloud.png" alt="au.gov.health.covidsafe 4 reviews"/>
 </p>
 
-> Hope I never need it.<br> :date: __2020-07-28 11:07:35__
+> Would go higher but notification dot on all the time is annoying<br> :date: __2020-08-03 13:04:28__
 
-> Definintely needed but please change the notification back to green in the status bar. When its white, I keep thinking I have an sms or missed phone call or some other notification that needs my direct attention. Very annoying!<br> :date: __2020-07-28 03:35:43__
+> It would be good if this app also worked with restaurant covid-19 safe plans so that you could scan the restaurant's QR code and it automatically associate the fact that you have been at that restaurant.<br> :date: __2020-08-03 09:14:27__
+
+> 1.0.18 installed, 25 May, 2020...App actually stays active a the time seems to not drain battery. Installing 1.0.39 dated 26 Jul20, lets see it operates the same, not draining the battery of my Mobile?<br> :date: __2020-08-01 10:07:23__
+
+> Not being used<br> :date: __2020-08-01 02:02:01__
+
+> I downloaded this app so the government would reduce restrictions<br> :date: __2020-07-31 10:02:29__
+
+> Can I suggest you setup a colour system, that resets after 2 weeks. Red - When the user has been found infected Orange - When they are awaiting test results. Yellow - When they have exited a Hot Zone (use geo fences to determine if they have entered for more than an hour or so) Green - When all is OK Shops and Border crossings etc could ask them to show the app for extra confirmation<br> :date: __2020-07-30 03:13:21__
+
+> Hope I never need it.<br> :date: __2020-07-28 11:07:35__
 
 > I'm glad we've got it but it is a real battery killer!<br> :date: __2020-07-28 01:04:00__
 
 > Has this app been used to trace any of the recent clusters in NSW or any of the cases in Victoria? I'm wondering if it is worthwhile having it constantly running in the background burning battery power. There doesn't seem to be any mention of the app being used in the news. Otherwise the app works fine.<br> :date: __2020-07-27 04:14:49__
 
 > No muss no fuss. Just keep Bluetooth on and check it every few days (Sometimes a new update will need new permissions or similar), otherwise seems to be working on the background without issue<br> :date: __2020-07-27 00:03:11__
-
-> Edit: Issue appears only when I've set the notification to silent, if I set it back to alerting it looks ok. --- Latest update has wrecked the notification drawer. Please fix soon.<br> :date: __2020-07-26 07:40:42__
-
-> Helpful<br> :date: __2020-07-24 09:51:58__
-
-> Works as described but last update has messed up my notifications incredibly and i am not only one experiencing this<br> :date: __2020-07-19 12:04:17__
-
-> Hey guys, there must be something wrong with the app in the background, my phone keeps deactivating the app and I have a warning that it's not active, but when I go in the app it says everything is working fine. Then 5 mins later (more or less) it's goes offline again. Then the phone is happy. Then again later on it's all turned off. I got no idea what is going on here<br> :date: __2020-07-18 05:35:12__
-
-> Bit of a power drainer, when at home, switch off Bluetooth and location, icons and settings. But like buying masks, gloves and hand sanitizer, we can all help to beat Coronavirus.<br> :date: __2020-07-16 02:57:34__
 
 
 
@@ -189,25 +189,25 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 <img src="3_star_reviews_wordcloud.png" alt="au.gov.health.covidsafe 3 reviews"/>
 </p>
 
-> Case numbers only shows total from beginning of time. Can you show Active Cases now state by state. Don't want to know how many we don't have now but how many active we have now. Otherwise good app.<br> :date: __2020-07-28 06:40:34__
+> Can this app have a way of indicating if and when the 1.5 m gap is breached?<br> :date: __2020-08-04 14:34:02__
 
-> Disappointing it doesn't tell me I need to update<br> :date: __2020-07-26 23:48:11__
+> Had to remove this app a few times because it randomly paused my music/podcasts that I have to play over bluetooth. Also drained by battery incredibly fast, but will give it another shot.<br> :date: __2020-08-04 11:36:36__
 
-> Just sits in the background and seems to do nothing but eat my battery. Life went from 72hrs to 28hrs. Would be great if I could use the app to log into venues using qr code. Save pre-fill details, see where I have been. I would suggest give it more of a reason to download, that way more people can be tracked.<br> :date: __2020-07-26 13:12:53__
+> Can we disable the huge blank notification? Not required. I hope everyone uses it so we can get back to normal quicker. Put aside your crazy conspiracy theories and do it!<br> :date: __2020-08-04 11:23:01__
 
-> Causes bluetooth problems. I am quite happy to do my bit to track and stay safe but the bluetooth problems are frustrating<br> :date: __2020-07-26 12:13:24__
+> Latest update (3 Aug) has possibly caused battery issues. Updated the app yesterday (app now asks for location) and I've noticed today my battery is already below 50% half-way through the day when I normally get to the end of the day with 70-80% remaining. I'll keep monitoring it as Android can just have "battery drain days" so it's hard to say if it's this app's fault at this stage.<br> :date: __2020-08-04 07:14:21__
 
-> Latest update needs location services on. Why is that? It did not before. Gov web site says it does not record my location. Location services should not be needed. (Edit) It seems it needs access to location service, but location service can be turned off. Also app help says this is an Android limitation, location is not actually used.<br> :date: __2020-07-26 11:13:35__
+> Negative use when re connect is rejerted<br> :date: __2020-08-02 12:47:05__
 
-> 26/7 notifications no longer stuffed, but weird location perm issues until reboot. 10/7 latest update has screwed up the notification bar, and somehow has stuffed up the notifications for other apps too. Will probably uninstall if not fixed soon. *Original Review*: Enrollment was pretty easy, the app is always running in the background but so far doesn't appear to be using the battery at all. Would trust it more if they used the Google/Apple framework, but sounds like that's a few weeks away..<br> :date: __2020-07-26 10:10:37__
+> This app does not alert to not being active or requiring an update unless you actually open it...should be better than this..<br> :date: __2020-08-02 08:41:29__
 
-> NEW Prevent phone from sleeping and NEW Receive data from the internet. Why have these permissions been added?<br> :date: __2020-07-25 23:28:35__
+> The app is great does not drain my battery and it is definitely working<br> :date: __2020-08-02 03:35:12__
 
-> Has anyone else noticed this app now wants location turned on? Interesting given they made a big deal of it not tracking location... I also second the comments about the notification screen being messed up now.<br> :date: __2020-07-25 08:22:59__
+> While i have no issues with operations of the app i think 15 min of Bluetooth between contacts is far too long. 5 min more appropriate. As far as i know no tracing has been found by this app.<br> :date: __2020-08-02 02:14:22__
 
-> Installed itself out of the blue without asking... It is alarming...<br> :date: __2020-07-25 06:05:46__
+> Since the last update, the home screen icon says app is not active, but I open the app itself and it says active. Which is it?<br> :date: __2020-08-02 01:33:57__
 
-> After running the app since lauch without a problem it is now refusing to start without access to location despite explicitly stating it doesn't record location details. Running on android.<br> :date: __2020-07-24 14:15:02__
+> Support the app and the principle but currently getting buggier - interferes terribly with my Bluetooth connected headphones and in car hands free, seemingly when it's near Many other devices and performing a handshake. Also not clear why it needs location permissions to operate when it is claimed that no location data is captured?<br> :date: __2020-08-01 07:25:56__
 
 
 
@@ -217,25 +217,25 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 <img src="2_star_reviews_wordcloud.png" alt="au.gov.health.covidsafe 2 reviews"/>
 </p>
 
-> Took me a few days to discover the app was not active, and I'm a health care worker. Nothing looked unusual but location sharing was inexplicably turned off. Maybe the notification icon could look different depending on the app status.<br> :date: __2020-07-28 04:35:56__
+> Keeps on causing my screen brightness to lower since it was installed (is it lowering the brightness on purpose to save battery or is the OS lowering cause the app is draining too fast?)<br> :date: __2020-08-04 12:43:16__
 
-> Latest update expects locations to remain on at all times. What for? Another government tool that started with a good intention but is no longer paying attention to the intended function or the users.<br> :date: __2020-07-28 01:07:46__
+> Not good! Always interfering with my bluetooth when connected to earphones or the car. Please fix it. It's annoying! But I have to have this app for work.<br> :date: __2020-08-04 07:09:32__
 
-> Have had to uninstall because of the excess battery drain, unable to carry out my day-to-day work and I rely on my device. Would love to be able to put this app to sleep when connected to my home WiFi - seems like a low hanging fruit to actually meet the problem this app is trying to solve. Now doesn't work on latest Android.<br> :date: __2020-07-27 05:56:21__
+> Make the app to be able to run with location services turned off, since it only uses bluetooth. Why does one's movements need to be tracked using location services? You can still use mobile tower connections and other users' bluetooth connections to trace movements and proximity to others. Just reduce the time it takes to confirm proximity to other users from 15 minutes to a shorter time period. I'm not going to be turning on location services for this App or any other App.<br> :date: __2020-08-04 03:33:38__
 
-> Latest update has added bugs. App now has a permanant notification back which was annoying the first time around. Now it constantly says my location is not on. I fix it by force stopping and restarting. Couple hours later same warning. Seems this has gone backwards not forwards and is getting very little exposure to what actual use or results the app provides in the media.<br> :date: __2020-07-27 03:41:48__
+> App says it is not working because my location services are off, but my location services are on.<br> :date: __2020-08-03 08:41:06__
 
-> Can not pair the app with my phone.i work at glendale age care but i get no notifcations<br> :date: __2020-07-26 11:01:48__
+> Works well if in the app, however, never works when the task manager is cleared.<br> :date: __2020-08-03 08:04:02__
 
-> I thought i was doing the right thing downloading it. I have since taken it off my phone as it only works if i am closer than 1.5m for 15 mins or longer. This doesnt seem to be how this virus works (Seeing as everyone in the thai restaurant got it!). I know, or have details of everyone I'm closer than 1.5m to. I was also expecting more than 1/20 of the population to install it so it may have been somewhat more effective!!<br> :date: __2020-07-26 10:35:47__
+> When I go into my phones Google settings to turn on the covid notification. It won't let me turn it on to be notified, I've reinstalled tb er app and done everything it says and still won't turn on very annoyed. Who can I contact about this????<br> :date: __2020-08-03 04:56:52__
 
-> Latest update require gps location to be on but that info is not included in the update or description. Why has this been added? Also it's a big drain on battery.<br> :date: __2020-07-26 05:45:23__
+> App works fine, except remove the stupid notification saying that its active that you can't remove, nobody needs to constantly see that ..<br> :date: __2020-08-03 01:01:54__
 
-> It's a great concept... But now the new update is asking for locations permissions to track movement. Good in theory but unviable and privacy issues, but big battery drainer.<br> :date: __2020-07-26 05:33:01__
+> Ive been using this since the whole Covid 19 started. Yes a color system would be nice. But beside the point. Why do you need my location for the app to run now? Seems stupid, cause its not like my location is all that important unless im self isolating or required to do so. So to have it needing a location for the app to function is totally unrequired (unless i was self isolating which at this point in time i am not nor do i need to).<br> :date: __2020-08-02 15:01:35__
 
-> waste of our government money, should have just piggy back Google's network. what a rip off,<br> :date: __2020-07-25 07:56:00__
+> Love the idea of the app and it's potential usefulness, and have used it since the beginning. The last update seems to destroy battery life. I've put up with the Bluetooth glitches, but can't live with the reduced battery. Have had to uninstall until fixed.<br> :date: __2020-08-02 04:40:35__
 
-> Causes Bluetooth audio interruptions<br> :date: __2020-07-25 05:37:49__
+> Breaks my notifications. This app is causing a white bar across the last notification on my phone, makes it unreadable. Not cool! I turned off the foreground services notification to fix the issue.<br> :date: __2020-08-01 14:11:26__
 
 
 
@@ -245,24 +245,24 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 <img src="1_star_reviews_wordcloud.png" alt="au.gov.health.covidsafe 1 reviews"/>
 </p>
 
-> Such a massive $2 million fail. I can't even get it to register on a 2 year old phone. No wonder the govt has stopped spruiking it - they know it's a waste of time.<br> :date: __2020-07-28 11:40:29__
+> Keeps closing<br> :date: __2020-08-04 16:22:25__
 
-> Developers won't fix critical bugs, don't bother with the app, waste of taxpayers money<br> :date: __2020-07-28 11:34:35__
+> No feedback on contacts, even ones without virus. Would be good to know how may connections have been made over time.<br> :date: __2020-08-04 15:51:38__
 
-> App would continually turn off location. What a waste of time and money from the government<br> :date: __2020-07-28 08:11:53__
+> Following the latest update the app constantly stops working and requires me to re-open it. It interferes with my phones bluetooth connectivity to all other devices - car, smart watch etc. Very buggy. Operating on a Samsung s9+<br> :date: __2020-08-04 13:37:51__
 
-> Keeps crashing whenever I try to open it and constantly says it's not running. It was working previously but now it's not.<br> :date: __2020-07-28 07:51:07__
+> The app no longer works on my phone. It repeatedly crashes again and again and again. I guess it was the latest app update that did it.<br> :date: __2020-08-04 10:23:31__
 
-> Now requires GPS to be active all the time. This wasn't always the case. I value my privacy. I will be uninstalling the app now.<br> :date: __2020-07-28 03:08:58__
+> Unable to install the APP on both of my phones Apple and Oppo both advised incompatible<br> :date: __2020-08-04 07:28:49__
 
-> Have tried once again to activate this app..once again it will not allow me to continue past the first section...I give up . It can't be too important ...no one appears to be correcting the fault ,which judging by the reviews, many others are also experiencing .<br> :date: __2020-07-28 00:18:17__
+> really sick of the interruptions this app is causing to my Bluetooth headsets, I use two different ones, never had a problem until I installed this app. frequent pausing of the audio playing now occurs. this should not happen, makes me want to remove this app.<br> :date: __2020-08-04 02:12:01__
 
-> App was going great then suddenly it says it's inactive and I need to turn Bluetooth on. The app gets as far as "turning on Bluetooth" and nothing...I uninstalled then reinstalled but the same thing happens. Sorry PM. Want to do my part to help but this app is just doesn't work. 😩😦<br> :date: __2020-07-27 20:34:19__
+> Doesn't register anyone unless you're next them for a full 5 minutes. That is useless for me when out and about.<br> :date: __2020-08-04 02:10:11__
 
-> Installed on my phone and the problems are numerous. Lock screen notification for covidsafe is blank and seems to stop others such as NSW emergency service alerts, etc from displaying correctly. Also interferes with other bluetooth apps that I need and rely on. This conflict with other apps causes the bluetooth service to crash and the only way to fix is either uninstall/reinstall covidsafe or reboot the phone.<br> :date: __2020-07-27 16:54:58__
+> Can't turn on exposure notifications<br> :date: __2020-08-04 02:08:45__
 
-> Nothing tells me how this app will alert me or what an alert looks or sounds like through my smart phone, when or if I come into contact with someone "registered as a Covid 19" person. An Extremely ambiguous app that doesn't make sense as far as explanation around it's practicality.<br> :date: __2020-07-27 14:20:09__
+> Cant quit without force stopping.<br> :date: __2020-08-03 08:25:49__
 
-> Crashes immediately after opening. It used to work fine!<br> :date: __2020-07-27 13:33:37__
+> Installed easily and no problems initially. One update lost the message an lost auto update. Next (manual from Play store) update needed a permission given again - it stopped working until then. Not sure if it was working with the blank message. Still wrecks bluetooth on iPhones. Badly done and rushed out the door for PR reasons.<br> :date: __2020-08-03 03:37:11__
 
 

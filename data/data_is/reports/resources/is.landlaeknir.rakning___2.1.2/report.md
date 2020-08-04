@@ -185,7 +185,7 @@ The Rakning C-19 app has been installed by more than **50000** times. At this ti
 <img src="4_star_reviews_wordcloud.png" alt="is.landlaeknir.rakning 4 reviews"/>
 </p>
 
-> Síminn tæmir rafhlöðuna hraðar nú eftir að ég setti appið upp. Það þyrfti að laga þetta<br> :date: __2020-04-08 23:58:02__
+> Rafhlaðan klárast frekar hratt, en tilgangurinn göfugur.<br> :date: __2020-08-01 01:06:30__
 
 > Traust og öruggt<br> :date: __2020-04-08 14:39:08__
 
@@ -231,6 +231,10 @@ The Rakning C-19 app has been installed by more than **50000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="is.landlaeknir.rakning 1 reviews"/>
 </p>
 
+> Þetta frýs í hvívetna, ekki hægt að opna. Þegar þú nærð aftur í appið getur þú opnað það einu sinni en ekki ýtt á spjall eða neitt?? Hver er tilgangurinn með þessu appi ef fólk getur ekki nýtt sér það?<br> :date: __2020-08-03 12:17:21__
+
+> Ég fékk tilkynningu frá þeim og appið opnast ekki??? Sama þótt ég setji það aftur upp eða endurræsi símann! Algert rusl þetta app<br> :date: __2020-08-01 10:59:19__
+
 > Búin ađ eyđa deginum ađ sækja appiđ, enn aftur ekki hægt taka 2<br> :date: __2020-04-10 00:54:04__
 
 > Er með Samsung s10 og kemst ekki inn í þetta fæ ekki sms með kóðanum<br> :date: __2020-04-06 15:33:44__
@@ -246,9 +250,5 @@ The Rakning C-19 app has been installed by more than **50000** times. At this ti
 > Allt stoppað áfram á íslensku kemur ekki upp er frosið<br> :date: __2020-04-04 18:56:06__
 
 > Get ekki hlaðið niður appinu, er með Samsung S10.<br> :date: __2020-04-04 17:58:53__
-
-> Birtist alltaf "Frosin" síða<br> :date: __2020-04-04 17:48:06__
-
-> Oppnast ekki fæ upp þriskiptan skja . Efst 30% texti a íslensku, yfir það eitthvað a liklega polsku og neðst sami texti á ensku. Kemst ekki lengra.Allt frosið .<br> :date: __2020-04-04 16:25:05__
 
 

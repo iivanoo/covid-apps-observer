@@ -160,6 +160,8 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <img src="5_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 5 reviews"/>
 </p>
 
+> NEI PRONTO SOCCORSO SON TUTTI RIGOROSI ALLE REGOLE E TI METTONO MOLTO A TUO AGIO GRAZIE A TUTTI X LA COLLABORAZIONEUN ABBRACCIO SEPPUR VIRTUALE<br> :date: __2020-07-31 15:42:15__
+
 > Di un certo qual spessore...<br> :date: __2020-07-27 19:40:37__
 
 > A volte non è proprio perfetta, ma la trovo molto utile.<br> :date: __2020-07-21 20:24:00__
@@ -178,8 +180,6 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 
 > Applicazione aggiornata in data 22/04 funziona perfettamente, grazie della mail inviata per L aggiornamento, spero presto di essere parte della protezione civile, in data 24/06 ho superato i test per il corso volontario di protezione civile, presto dei vostri<br> :date: __2020-06-25 14:10:44__
 
-> Al momento utile.<br> :date: __2020-06-25 07:17:16__
-
 
 
 #### 4-star reviews
@@ -187,6 +187,12 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 4 reviews"/>
 </p>
+
+> Applicazione utile ed abbastanza ben progettata. Vorrei però capire a cosa serve la sezione Preferiti, dal momento che non riesco a trovare nessuna schermata da cui aggiungere qualcosa alla lista...<br> :date: __2020-08-01 14:47:36__
+
+> Nel menù non trovo niente per cambiare l'età .<br> :date: __2020-08-01 13:02:14__
+
+> Post covid-19 modifico la recensione che è molto utile per le allerte meteo ... sarebbero il TOP se sulla piantina inserite anche il nome delle province e non solo la delimitazione. Grazie<br> :date: __2020-07-29 13:17:38__
 
 > Interessante e valida. A volte complicata apertura.<br> :date: __2020-07-10 16:38:11__
 
@@ -201,12 +207,6 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 > Grazie per la risposta che non ha chiarito il problema. non sono risposte inesatte ma nemmeno precise. Es. Se la mia temperatura è 36,3 devo scegliere se segnare 36 o 36,5. Per questo ho detto che le risposte non sono precise. Lo stesso per le altre domande categoriche e sempre le stesse. So benissimo che se ho un malessere nuovo devo rivolgermi al mio medico. Leggendo anche altre recensioni le osservazioni sono più o meno le stesse e non si comprende quale utilità abbia questa ricerca.<br> :date: __2020-06-06 09:52:05__
 
 > Facile da utilizzare. Molto migliorata con gli ultimi aggiornamenti. Unico difetto non è possibile aggiornare l'età. Inserita la prima volta non è possibile modificarla al compimento degli anni<br> :date: __2020-06-05 13:11:25__
-
-> Edito: da 1 a 4. Grazie per la risposta e l'aggiornamento! Pesissima, se si lavora come pendolari fuori dalla Lombardia il censimento covid non può essere fatto<br> :date: __2020-05-31 14:09:20__
-
-> L'ho installata per avere informazioni sul coronavirus nella mia zona e per partecipare al monitoraggio. Però non fornisce le informazioni che avrei voluto avere (casi e decessi per comune, allerte in caso di aumento dei casi anomalo nelle vicinanze). I problemi tecnici sono stati risolti.<br> :date: __2020-05-29 16:07:38__
-
-> belke playlist e relax<br> :date: __2020-05-27 22:37:28__
 
 
 
@@ -244,6 +244,8 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <img src="2_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 2 reviews"/>
 </p>
 
+> Arrivano le notifiche si clicca sul popup che contiene il link.. pagina non trovata.<br> :date: __2020-07-31 20:20:23__
+
 > Scaricata x curiosità, mah... Ci sono domande che andrebbero migliorate, tipo in che comune lavori? Non c'è modo di fare scelte multiple un rappresentante, una guardia giurata, un corriere girano la provincia ed oltre, io ho messo dove ho la sede xò...<br> :date: __2020-07-18 16:00:53__
 
 > Questa app no piage perché io sto regione marche e sto Appignano provincia magerata<br> :date: __2020-06-18 18:07:20__
@@ -262,8 +264,6 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 
 > Sarebbe interessante che i risultati dell'analisi dei questionari covid compilati fossero condivisi con la cittadinanza, magari in un'apposita sezione dell'app o sul sito di Regione Lombardia.<br> :date: __2020-05-28 10:27:40__
 
-> Avrei voluto usare cercacovid in quanto lavoro in Lombardia, ma essendo residente in Piemonte è impossibile registrarsi<br> :date: __2020-05-21 15:59:47__
-
 
 
 #### 1-star reviews
@@ -272,7 +272,9 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <img src="1_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 1 reviews"/>
 </p>
 
-> Risolto, grazie<br> :date: __2020-07-23 14:41:51__
+> Inutile per il virus...come tutte le iniziative lombarde<br> :date: __2020-08-02 17:55:12__
+
+> Pessima veramente, assurdo<br> :date: __2020-07-29 12:48:33__
 
 > Mi obbliga a compilare la parte del covid e comunque anche quando provo a compilare la parte del covid non mi lascia andare avanti continuando a dire che non ho compilato tutti i campi anche se li ho compilati<br> :date: __2020-07-21 23:56:26__
 
@@ -289,7 +291,5 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 > Disinstallato<br> :date: __2020-07-03 14:26:55__
 
 > Non riesco a scaricare<br> :date: __2020-07-02 15:20:12__
-
-> Svegliatevi cittadini italiani,(come ci chiamano i nostri governanti intellettuali ). Non fatevi prendere in giro è un'app al solo scopo contrario alla nostra libertà, e tantomeno alla nostra salute.<br> :date: __2020-06-23 10:10:03__
 
 

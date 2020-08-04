@@ -131,13 +131,13 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 <img src="5_star_reviews_wordcloud.png" alt="de.rki.coronadatenspende 5 reviews"/>
 </p>
 
+> Anmeldung über Google Fit funktioniert sehr gut. Leider ist nach einer Woche noch kein einziger Tag an Daten gespendet worden. App ist aus allen Energiesparfunktionen ausgenommen und im Autostart. In dem Google Account liegen Daten für einige Jahre und die App hat alle Berechtigungen für den Zugriff. Leider macht sie davon keinen Gebrauch. Daher leider nur 2 Sterne. EDIT: Funktioniert inzwischen: habe heute 111 gespendete Tage erreicht.<br> :date: __2020-07-30 16:37:23__
+
 > Gute Meldungen.<br> :date: __2020-07-26 07:26:58__
 
 > Funktionierte unkompliziert auf meiner Garmin. Bis die Uhr den Geist aufgegeben hat<br> :date: __2020-07-24 08:00:10__
 
 > Ja funktioniert<br> :date: __2020-07-24 07:36:22__
-
-> Der Zähler ist bei 99 stehen geblieben.<br> :date: __2020-07-16 11:13:53__
 
 > Läuft unbemerkt im Hintergrund ohne zu stören.<br> :date: __2020-07-16 10:16:09__
 
@@ -159,6 +159,8 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 <img src="4_star_reviews_wordcloud.png" alt="de.rki.coronadatenspende 4 reviews"/>
 </p>
 
+> Gut<br> :date: __2020-08-04 06:26:36__
+
 > Auf meinem huawai schaltet sich die Hintergrundaktivität nach einem Ausschalten des Handys wieder aus. Sie jedesmal erneut wieder anschalten zu müssen ist nervig, birgt v.a. aber die Gefahr, es dann doch zu vergessen. Das sollte bitte noch geändert werden.<br> :date: __2020-07-26 08:56:57__
 
 > Dies App finde ich sehr gut und interessant für mich.<br> :date: __2020-07-22 19:26:53__
@@ -177,8 +179,6 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 
 > Ich hab die App in unter einer Minute eingerichtet und mit meiner Fitbit Charge 4 verbunden. Alles top, aber ich finde es sehr schade, dass ich nicht meine Daten der letzten Wochen spenden kann. Das wäre doch auch praktisch.<br> :date: __2020-06-18 20:33:57__
 
-> Funktioniert soweit gut. Allerdings einen Stern Abzug für den Fehler, dass beim Wechsel der Datenquelle der Verlauf verloren geht und die App wieder von Tag 1 anfängt zu zählen. Wollte von Googlefit zu Fitbit wechseln, da bei Erstinstallation Fitbit noch nicht verfügbar war. Jetz hab ich wieder Googlefit eingestellt, aber Anzahl der Gespendeten Tage bleibt 0.<br> :date: __2020-06-18 14:10:02__
-
 
 
 #### 3-star reviews
@@ -186,6 +186,8 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="de.rki.coronadatenspende 3 reviews"/>
 </p>
+
+> Leider mit Samsung Gear inkompatibel.<br> :date: __2020-08-03 20:42:04__
 
 > Ich vermisse diverse Fitness-Armbänder / deren Hersteller. Z. B. Honor oder Samung ...<br> :date: __2020-07-24 14:19:32__
 
@@ -205,8 +207,6 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 
 > Samsung Uhren gehen auch noch nicht<br> :date: __2020-06-17 10:34:27__
 
-> An sich Recht gut lässt sich aber leider nicht mit der Xiaomi Mi band verbinden das müsste man hinzufügen<br> :date: __2020-06-16 13:11:03__
-
 
 
 #### 2-star reviews
@@ -214,6 +214,10 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="de.rki.coronadatenspende 2 reviews"/>
 </p>
+
+> Bis jetzt finde ich die App gut. Da ich keine SmartWatch / Fitnessuhr von diesen Marken habe, würde ich empfehlen mit mehr Marken zusammen zu arbeiten. Ich habe z.b. eine von VeryFitPro. Die gibt es leider als Auswahl noch nicht. Lg: Jannes<br> :date: __2020-08-03 10:28:24__
+
+> Irreführend...<br> :date: __2020-08-02 04:07:32__
 
 > Die App stelle ich mir ganz sinnvoll vor. Leider werden hier nicht alle fitnessbänder und Smartwatches unterstützt. Zum Beispiel kann man leider keine Samsung und Mi Fit Bänder und Smartwatches auswählen. Das macht die App für mich unbrauchbar.<br> :date: __2020-07-24 17:42:50__
 
@@ -231,10 +235,6 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 
 > Leider wird meine Amazfit smartwatch nicht unterstützt<br> :date: __2020-06-16 12:42:40__
 
-> Mein Ixfit ist garnicht zur Verbindung aufgeführt. Also kann ich garnicht weiter. Bereits deinstalliert.<br> :date: __2020-06-16 09:44:07__
-
-> Die Idee ist super, leider funktioniert sie bei mir nicht, da ich samsung user bin, schade. Hätte meinen Beitrag gern geleistet.<br> :date: __2020-06-16 09:43:18__
-
 
 
 #### 1-star reviews
@@ -242,6 +242,14 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="de.rki.coronadatenspende 1 reviews"/>
 </p>
+
+> Ich kann nicht verbinden weil mein SmartWatch von Willful ist die App hat nur fünf Hersteller das kann ich nicht nach voll ziehen jeder Bürger hat andere SmartWatch von anderen Hersteller damit meine SmartWatch mit der App verbinde brauche ich VeryFitPro<br> :date: __2020-08-01 20:54:57__
+
+> Von über 100 Tagen plötzlich bei nur noch 68 Tagen. Merkwürdig...<br> :date: __2020-07-29 21:30:36__
+
+> Update, von 5 auf 1 Sterne abgewertet: Warum kann die App nicht einmal die Tage richtig anzeigen, die ich schon gespendet habe? Letzte Woche waren es noch über 100 Tage und jetzt nur noch 24 Tage. Ich finde das nicht sehr vertrauenswürdig! Wie sieht es denn dann mit den Datenschutz bei dieser App aus? WOW, nach dem ich diese Bewertung geschrieben hab waren es nur noch 0 Tage, oh man.<br> :date: __2020-07-28 20:19:00__
+
+> Leider im Moment nur 1 Sternchen, da z. B. Samsung Health nicht unterstützt wird. Verwende die Galaxy Smartwatch als Alltagsuhr. Wechsle dann aber für den Sport auf die XT910 von Garmin. Kann man 2 Profile in der App dann mal verwenden? Bzw. wann werden weitere Tracker eingebunden? Heute 28.07.2020 nochmals installiert. War wohl nix. Schade. Dann lassen wir es.<br> :date: __2020-07-28 14:18:59__
 
 > Völlig für die Füße, wenn man nur die paar wareables unterstützt, ist die für ein staatliches Institut echt arm.<br> :date: __2020-07-27 13:26:10__
 
@@ -254,13 +262,5 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 > Gerne stelle ich meine Daten zur Verfügung, allerdings wird mein Armband nicht unterstützt. Für eine Erweiterung die Daten: VICSAINTECK VIC08 Version 73.01 mit der App H Band. Freundliche Grüße<br> :date: __2020-07-24 14:35:37__
 
 > Wann geht das endlich mit Samsung? Wir brauchen doch nicht über Datensicherheit zu reden, wenn die Daten erst kompliziert über drei unterschiedliche Anbieter synchronisiert werden müssen. In meinem Umfeld nutzt niemand die App, weil keiner eines der unterstützen Geräte besitzt. Aber eine Samsung SmartWatch haben die meisten von denen, die es nutzen würden, wenn es ginge. Nachtrag Mitte Juli: Da hier offensichtlich nix mehr passiert, wird die App jetzt deinstalliert.<br> :date: __2020-07-18 14:10:47__
-
-> Es gibt kein Samsung Wearable! BITTE VERBESSERN!!!!<br> :date: __2020-07-16 10:28:31__
-
-> Leider werden Hersteller wie Huawei nicht in der Auswahl angeboten. Der Umweg über Googlefit scheitert an der Anmeldung weil das @ nicht eingegeben werden kann. Schade. Habe die App gelöscht. Ich hätte gerne geholfen. Update 14.07.2020 Auch in der neuen Version wurden die Fehler nicht behoben.<br> :date: __2020-07-14 19:50:58__
-
-> 🙈 wie soll durch mein Aktivitätsniveau, herauskommen ob ich eventuell erkrankt bin. Die App stammt übrigens nicht vom RKI sondern von einem Drittanbieter, wer weiß genau was mit den Daten passiert, jeder pocht immer auf Datenschutz usw. und hier wird eine App hervorgezaubert die sehr frag würdig ist, aber jeder darf selbst entscheiden was er macht, aber bitte nicht wundern wenn irgendwelche Daten im Netz wieder auftauchen, und dann stellt man fest ohhhhh wie konnte sowas nur passieren 🤔🤔🤔🤔<br> :date: __2020-07-10 12:38:45__
-
-> Sehr gute Idee die App. Aber warum sind die Samsung Wearables nicht enthalten? Zudem hat Google hat ne Sperre rein gehauen für die App. Es kommt die Meldung "Fehler 403: rate_limit_exceeded Bei dieser App wurde die empfohlen Anzahl an Nutzern überschritten" Es wäre schön, wenn Sie Samsung mit integrieren bzw wenigstens für Google mehr Zugriffe zulassen. NACHTRAG 9.7.2020 Da immernoch keine Samsung Geräte integriert sind oder eine Erklärung für das Fehlen gegeben wurde, fliegt die App vom Handy<br> :date: __2020-07-09 20:55:38__
 
 

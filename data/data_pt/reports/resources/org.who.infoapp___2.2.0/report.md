@@ -167,7 +167,9 @@ No recent reviews available with 2 stars.
 #### 1-star reviews
 
 <p align="center">
-
+<img src="1_star_reviews_wordcloud.png" alt="org.who.infoapp 1 reviews"/>
 </p>
 
-No recent reviews available with 1 stars.
+> Ruim<br> :date: __2020-07-29 23:21:44__
+
+

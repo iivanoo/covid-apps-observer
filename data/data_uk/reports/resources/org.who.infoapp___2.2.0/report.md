@@ -128,6 +128,12 @@ The WHO Info app has been installed by more than **100000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="org.who.infoapp 5 reviews"/>
 </p>
 
+> Very important app to continue to keep an eye on this pandemic serious app tell alot about what is going on<br> :date: __2020-08-04 16:57:56__
+
+> You<br> :date: __2020-08-04 10:03:36__
+
+> Ok<br> :date: __2020-08-01 06:27:49__
+
 > Good<br> :date: __2020-07-25 13:49:03__
 
 > Better app. I like it<br> :date: __2020-07-24 12:12:56__
@@ -141,12 +147,6 @@ The WHO Info app has been installed by more than **100000** times. At this time,
 > Good<br> :date: __2020-06-10 20:34:34__
 
 > hi md zihad mia<br> :date: __2020-06-10 12:49:41__
-
-> Bala bals<br> :date: __2020-06-10 06:34:10__
-
-> Ok<br> :date: __2020-06-10 03:01:27__
-
-> ➕➕🅰🅰🅰➕➕ 🍀🍀😊😊😊🍀🍀 📖📖🙏🙏🙏📖📖<br> :date: __2020-06-08 13:46:53__
 
 
 
@@ -184,7 +184,7 @@ The WHO Info app has been installed by more than **100000** times. At this time,
 <img src="3_star_reviews_wordcloud.png" alt="org.who.infoapp 3 reviews"/>
 </p>
 
-> Very good apps<br> :date: __2020-06-17 19:02:00__
+> Good App but I don't trust the WHO. Just have the app to stay up to date with the crazy things the WHO gets up to<br> :date: __2020-07-29 10:34:08__
 
 > Will not download onto my 1year old state of the art smatphone. Bad, as a user of many android apps what are you thinking. I have found more than 3700 other users that can not use this app. Come on you must no you have problem.<br> :date: __2020-05-26 02:04:59__
 
@@ -222,6 +222,8 @@ The WHO Info app has been installed by more than **100000** times. At this time,
 <img src="1_star_reviews_wordcloud.png" alt="org.who.infoapp 1 reviews"/>
 </p>
 
+> It doesn't even work<br> :date: __2020-07-30 20:38:39__
+
 > The app does not show me anything. Since I downloaded it I have not been able to use it. When I open it nothing shows so I wonder why some people are giving you thumbs up<br> :date: __2020-07-05 05:34:15__
 
 > Jahangir<br> :date: __2020-06-19 05:46:57__
@@ -239,7 +241,5 @@ The WHO Info app has been installed by more than **100000** times. At this time,
 > I don't like this app<br> :date: __2020-05-14 07:07:35__
 
 > The world health organization are deliberately killing people with tainted vaccines all around the world health should be put away from the elite cartels that danger public health - Covid-19 is a biological Engineered Weapon of mass Destruction<br> :date: __2020-05-12 23:43:51__
-
-> THEY MADE IT 😷😷😷😷😷<br> :date: __2020-05-10 15:57:09__
 
 

@@ -185,9 +185,11 @@ The SM_Covid19 app has been installed by more than **50000** times. At this time
 <img src="5_star_reviews_wordcloud.png" alt="it.softmining.projects.covid19.savelifestyle 5 reviews"/>
 </p>
 
-> Io preferisco utilizzare questa applicazione invece di altre, mi risulta più user Friendly.<br> :date: __2020-07-24 18:07:05__
+> Un piccolo problema su Xiaomi Tutto risolto in un batter d'occhio Bravissimi ora funziona di nuovo che è una meraviglia. Altro che Immuni, questa è una app di tracciamento veramente completa.<br> :date: __2020-08-03 14:36:37__
 
-> Aggiornamento 13 luglio, parte e si interrompe, peccato funzionava benissimo molto più funzionale e pratica di immuni se non risolvono dovrò disinstallare Problema risolto con la versione 5.1 funziona perfettamente, bravissimi.<br> :date: __2020-07-22 23:15:04__
+> Era una ottima app che avevo installato da subito... Purtroppo con i vincoli derivati da immuni sulla geolocalizzaIone obbligatoria è andato tutto a putt... Dopo 2 mesi mi arrendo, ho disinstallato immuni e ora anche questa. Sono convinto sostenitore dell'efficacia delle app per la prevenzione ma anche con la buona batteria del mio xiaomi A1 a volte a ora di cena rimango a piedi, ho capito che a volte qualche altra app (non so quale) attiva il gps e mi scarica il telefono... Peccato...<br> :date: __2020-07-29 19:35:55__
+
+> Io preferisco utilizzare questa applicazione invece di altre, mi risulta più user Friendly.<br> :date: __2020-07-24 18:07:05__
 
 > Ok frequento poche persone<br> :date: __2020-07-22 17:01:56__
 
@@ -203,8 +205,6 @@ The SM_Covid19 app has been installed by more than **50000** times. At this time
 
 > Dovremmo applicarla tutti l'applicazione immuni....saremmo PIÙ tranquilli TUTTI<br> :date: __2020-07-11 15:59:39__
 
-> È utile, ma non so se si interfaccia con "Immuni" come sarebbe logico<br> :date: __2020-07-09 17:34:09__
-
 
 
 #### 4-star reviews
@@ -212,6 +212,8 @@ The SM_Covid19 app has been installed by more than **50000** times. At this time
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="it.softmining.projects.covid19.savelifestyle 4 reviews"/>
 </p>
+
+> Positiva<br> :date: __2020-07-31 14:48:10__
 
 > 4Stelle e non 5 perché dopo l'ultimo aggiornamento 5.0 l'applicazione va in crash alla apertura...parte e subito all'istante si chiude.Ho disinstallato e reinstallato l'applicazione e cosí facendo ho risolto il bug. HUAWEI P20 PRO android 10<br> :date: __2020-07-19 11:54:17__
 
@@ -230,8 +232,6 @@ The SM_Covid19 app has been installed by more than **50000** times. At this time
 > Non ho capito se ad oggi, 17.6.2020, la app è attiva e funzionante, con invio di notifiche in caso di contatti a rischio<br> :date: __2020-06-17 21:37:42__
 
 > Molto utile<br> :date: __2020-06-17 13:58:09__
-
-> Non sono riuscito a capire quando il n.aumenta cosa devo fare?<br> :date: __2020-06-12 16:01:33__
 
 
 
@@ -297,6 +297,8 @@ The SM_Covid19 app has been installed by more than **50000** times. At this time
 <img src="1_star_reviews_wordcloud.png" alt="it.softmining.projects.covid19.savelifestyle 1 reviews"/>
 </p>
 
+> Non c'è ne di covidi<br> :date: __2020-07-30 08:49:05__
+
 > App pessima da 3 giorni circa non si apre più. È meglio che cambiate lavoro!!!!<br> :date: __2020-07-21 19:14:07__
 
 > Dopo ultimo upgrade, l'app va in crash<br> :date: __2020-07-19 20:33:36__
@@ -314,7 +316,5 @@ The SM_Covid19 app has been installed by more than **50000** times. At this time
 > Si blocca e non mi fa scorrere lo schermo😡. Ieri o l'altro giorno al TELEGIORNALE hanno detto che le app sul COVID-19 rubano dati personali o ti spiano. Quando ho parlato dell'app ai miei genitori si sono SUBITO ARRABBIATI (anche preoccupati) e mi hanno detto di DISINSTALLARE E BASTA.<br> :date: __2020-06-27 21:55:07__
 
 > nn c'è il numero degli infetti<br> :date: __2020-06-26 08:27:18__
-
-> Non la scaricate e un virus<br> :date: __2020-06-09 09:17:18__
 
 

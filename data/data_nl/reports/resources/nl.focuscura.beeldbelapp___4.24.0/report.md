@@ -200,6 +200,16 @@ The Luscii app has been installed by more than **50000** times. At this time, **
 <img src="5_star_reviews_wordcloud.png" alt="nl.focuscura.beeldbelapp 5 reviews"/>
 </p>
 
+> Fijn dat je in de gaten gehouden wordt<br> :date: __2020-08-03 18:01:37__
+
+> Prima.<br> :date: __2020-08-02 10:33:19__
+
+> Bij vage klachten wordt er gelijk gereageerd met een uitgebreid advies.👍<br> :date: __2020-07-31 11:23:54__
+
+> Werkt goed en houd je gezondheid bij<br> :date: __2020-07-29 14:03:17__
+
+> Er is meteen contact als je iets bijzonders meldt, zelfs als de app t even niet doet.<br> :date: __2020-07-28 10:58:53__
+
 > Deze app, kan zeer waardevol zijn voor de persoon die hem gebruikt. Bij twijfel word je door een medewerker gebeld. Top, geweldig.<br> :date: __2020-07-25 19:26:28__
 
 > Goed stukje medisch gereedschap<br> :date: __2020-07-24 19:06:51__
@@ -210,16 +220,6 @@ The Luscii app has been installed by more than **50000** times. At this time, **
 
 > heel goed in te vullen niet moeilijk<br> :date: __2020-07-21 10:03:35__
 
-> Het is fijn bij ongerustheid een beroep te kunnen doen op deze app.<br> :date: __2020-07-18 21:43:41__
-
-> Eenvoudige app. Meteen reactie<br> :date: __2020-07-18 11:51:07__
-
-> Goed. Ik dacht eigenlijk dat het de nieuwe App van Min. De Jong was. . .<br> :date: __2020-07-18 09:22:55__
-
-> Ben er heel tevreden over.<br> :date: __2020-07-15 20:11:09__
-
-> Overzichtelijk en duidelijk.<br> :date: __2020-07-15 09:13:33__
-
 
 
 #### 4-star reviews
@@ -227,6 +227,12 @@ The Luscii app has been installed by more than **50000** times. At this time, **
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="nl.focuscura.beeldbelapp 4 reviews"/>
 </p>
+
+> Goed voor je bewustzijn m.b.t. je eigen gezondheid en die van je omgeving.<br> :date: __2020-08-03 11:06:38__
+
+> Makkelijk en deelname dwingt tot zelfcontrole<br> :date: __2020-08-01 10:49:35__
+
+> Duidelijk en makkelijk te hanteren<br> :date: __2020-07-30 13:04:24__
 
 > Heldere aanpak.<br> :date: __2020-07-28 08:06:11__
 
@@ -242,12 +248,6 @@ The Luscii app has been installed by more than **50000** times. At this time, **
 
 > Duidelijk.<br> :date: __2020-07-20 10:35:08__
 
-> Prima. Ga zo door.<br> :date: __2020-07-14 09:28:17__
-
-> Eenvoudig te gebruiken en goede response.<br> :date: __2020-07-12 11:14:03__
-
-> Alleen was in ziekenhuis CWZ niets bekend van deze uitslagen. Ik ging als begeleidster mee met een bewoner voor onderzoek. Van bewoner was ook niets bekend. Vraag me af waarom we dit dan invullen?<br> :date: __2020-07-06 19:49:03__
-
 
 
 #### 3-star reviews
@@ -255,6 +255,14 @@ The Luscii app has been installed by more than **50000** times. At this time, **
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="nl.focuscura.beeldbelapp 3 reviews"/>
 </p>
+
+> Goed<br> :date: __2020-08-04 08:56:33__
+
+> Wat doet Luscii eigenlijk ? In mijn geval niets. Ben gezond geen Corona klachten.<br> :date: __2020-08-02 19:47:50__
+
+> Nvt<br> :date: __2020-08-02 11:24:01__
+
+> Op zich prima, echter jammer genoeg geen mogelijkheid om op berichtgeving verpleegkundige te reageren.<br> :date: __2020-07-28 10:45:21__
 
 > Vraag over angstaanval moet anders gesteld worden. De angst komt pas NA de aanval als je geen lucht meer krijgt.<br> :date: __2020-07-27 13:36:31__
 
@@ -267,14 +275,6 @@ The Luscii app has been installed by more than **50000** times. At this time, **
 > Ik vind de vragen summier en vrij algemeen. Ook is het jammer dat jullie de app niet white label aanbieden zodat jullie klanten er hun eigen merk overheen kunnen leggen.<br> :date: __2020-06-24 14:56:37__
 
 > Tot voor kort uitstekend en gedetailleerde vragen. Nu veel te oppervlakkig.<br> :date: __2020-06-22 09:47:55__
-
-> Ben niet negatief of positief. App houd weinig rekening met andere klachten of ziektes<br> :date: __2020-06-19 17:37:44__
-
-> Het zou fijn zijn als je de scores in 1x kunt verzenden ipv per item. Het nieuwe bericht staat onder dus dan moet je scrollen, beter is bovenaan<br> :date: __2020-06-13 14:05:49__
-
-> Hulpje om mijn longen conditie in de gaten te houden.<br> :date: __2020-06-10 06:18:17__
-
-> Ik vind het vervelend dat na elk antwoord deze verstuurd moet worden. Kost extra tijd en maakt dat ik niet elke dag deze lijst wil invullen.<br> :date: __2020-06-06 08:37:06__
 
 
 

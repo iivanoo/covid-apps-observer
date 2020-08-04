@@ -145,6 +145,10 @@ The ABTraceTogether app has been installed by more than **50000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="ca.albertahealthservices.contacttracing 5 reviews"/>
 </p>
 
+> I like this app because it will inform me if I've been in contact with anybody that has this virus because I definitely do not want to get it thank you<br> :date: __2020-07-31 20:43:34__
+
+> Runs consistently in the background, not a serious drain on battery.<br> :date: __2020-07-31 20:36:56__
+
 > Covid 19<br> :date: __2020-07-24 20:40:27__
 
 > Always working. Dont even know it's on unless I check. No noticable battery drain. App is being improved. No privacy issues. Do your part.<br> :date: __2020-07-17 00:28:28__
@@ -160,10 +164,6 @@ The ABTraceTogether app has been installed by more than **50000** times. At this
 > Bring app please to every one mandatory.<br> :date: __2020-06-23 03:30:47__
 
 > I have entered my phone number but no six digit code has been sent to me. I am stuck in step 1 of the process. Update: app is working now. Great app.<br> :date: __2020-06-21 04:03:50__
-
-> Well designed app that has had no adverse effect on battery life! When I first got it I was force closing it when not out to conserve battery. I decided to test leaving it on 24/7 and over two days I couldn't see any extra battery consumption. I was honestly shocked and have left it on since. Also really like that this app DOESN'T use GPS only my Bluetooth to see who I've been in contact with instead of tracking my every movement.<br> :date: __2020-06-08 00:40:09__
-
-> Very important and we'll designed application, privacy is protected and will help keep spread under control<br> :date: __2020-06-02 04:31:45__
 
 
 
@@ -257,24 +257,24 @@ The ABTraceTogether app has been installed by more than **50000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="ca.albertahealthservices.contacttracing 1 reviews"/>
 </p>
 
+> Needs to run in foreground. When app crashes user has to manually restart. Drain on battery. This is not a good solution. Better to switch to the new Health Canada app called COVID Alert.<br> :date: __2020-08-04 18:37:57__
+
+> Trash propaganda.<br> :date: __2020-08-03 08:45:34__
+
+> I am getting warnings that the app is overloading the CPU. Also drains the battery. I am deleting this app now.<br> :date: __2020-08-03 01:43:58__
+
+> Depletes battery very quickly. I use my phone a lot for a number apps. This thing would account for around 70% battery usage.<br> :date: __2020-08-02 21:22:14__
+
+> Works like garbage. Just install the government of Canada one: much slicker interface, more people using it, no battery issues.<br> :date: __2020-08-01 23:52:44__
+
+> Drains the battery on my phone<br> :date: __2020-08-01 07:21:14__
+
+> Its pretty useless<br> :date: __2020-08-01 05:28:18__
+
+> This app, while it has good intentions, is a battery killer. If you do not have frequent access to charge your phone multiple times per day then be warned as this app can consume 20+% of your battery just running in the background. I have seen it as high as 57% on my S9+. I will be deleting this app as my phone is only a tool to communicate against COVID-19. Wear a mask!<br> :date: __2020-07-28 17:55:47__
+
 > High battery usage. No off button. Needs an auto off geofence option so it doesn't kill the battery at home.<br> :date: __2020-07-27 03:55:11__
 
 > Drains my battery! Hardly lasts half a day now. But because of my work I feel it important to have this app on my phone.<br> :date: __2020-07-27 03:04:59__
-
-> Was excited for the app, until i find out it only records ppl in contact longer than 15min. Thats bs and useless, it takes less than 15seconds to infect someone. Uninstalled, thx. With so few people downloading this app, having this on my phone is a joke. Update: i have been getting spam calls nonstop since i provided my phone # for this app, is my info really secure???<br> :date: __2020-07-23 00:29:15__
-
-> What the hell....blue tooth.....use something else....not a battery eater.....there better tracking and tracing in Facebook....or my cellphone Waste of tax money<br> :date: __2020-07-22 04:24:01__
-
-> Finally figured out what was draining my battery...this app!! Using almost 10 times the battery that my social media apps use, combined!<br> :date: __2020-07-21 21:54:53__
-
-> Battery Drain! Went into work with 96% battery. After 5 hours of no use my phone was dead when it would normally be in the low 90s - high 80s depending on I my data was turn on or not.<br> :date: __2020-07-15 20:19:47__
-
-> I tried to get the code numerous times and it never works. Waist of time<br> :date: __2020-07-13 13:23:47__
-
-> Security risk. Another ucp failure.<br> :date: __2020-07-10 15:46:39__
-
-> Here's a tip; if my device can see yours via Bluetooth, there's a good chance I can access your device and everything on it using an apk like Superblue. Don't be an idiot. This is exploitable Traceware.<br> :date: __2020-07-10 02:31:24__
-
-> Started to drain my battery of my fairly new phone.<br> :date: __2020-07-08 21:01:53__
 
 

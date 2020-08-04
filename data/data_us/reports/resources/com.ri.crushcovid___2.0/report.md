@@ -236,6 +236,8 @@ The CRUSH COVID RI app has been installed by more than **10000** times. At this 
 <img src="2_star_reviews_wordcloud.png" alt="com.ri.crushcovid 2 reviews"/>
 </p>
 
+> Doesnt work. Keeps saying I'm not connected to the internet. Data and location settings are correct.<br> :date: __2020-07-31 18:42:15__
+
 > Warning! At least on Android phone, you must manually restart the app after restarting your phone.<br> :date: __2020-07-24 00:05:59__
 
 > Location is way off, not accurate at all<br> :date: __2020-07-18 14:39:33__
@@ -253,8 +255,6 @@ The CRUSH COVID RI app has been installed by more than **10000** times. At this 
 > I've had this app on my phone for about a month now and I assumed it was keeping track of where I go, apparently that isn't the case because it's only showing two places in a month which is wrong. I also stopped keeping a contact diary after downloading the app and now I will have a hard time remembering everywhere I've been the past month. Luckily I stay home a lot more than I used to but it's not showing any markets or stores I've been to. I think I'm just going to delete the app.<br> :date: __2020-06-29 20:04:33__
 
 > I had the app when it first came out and it worked fine until 3 weeks ago then it stopped tracking me. I just got a new Note 10 and it won't let me finish setting it up . Won't respond on last page of setup to allow it to track, etc. So I uninstalled it and am going to try to install it again<br> :date: __2020-06-19 20:44:25__
-
-> Not accurate. Uses too much battery.<br> :date: __2020-06-13 01:11:30__
 
 
 

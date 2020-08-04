@@ -149,7 +149,7 @@ The COVID-19 Symptom Tracker app has been installed by more than **10000** times
 
 > App hat sich komplett auf Anfang zurückgesetzt.. alles umsonst!<br> :date: __2020-04-30 14:01:26__
 
-> Die Fragebögen sind schnell und einfach zu beantworten. MACHT EINEN SCREENSHOT DES BENUTZERNAMENS, denn neim Update am 29.4.2020 gingen die gespeicherten Informationen verloren und ohne den alten Benutzernamen können meine Antworten von vor und nach dem Update nicht verbunden werden.<br> :date: __2020-04-30 10:21:12__
+> Endlich eine gute Corona App<br> :date: __2020-04-29 10:35:30__
 
 
 
@@ -177,6 +177,8 @@ The COVID-19 Symptom Tracker app has been installed by more than **10000** times
 <img src="3_star_reviews_wordcloud.png" alt="com.designit.covid_19 3 reviews"/>
 </p>
 
+> Ab April dabei,dauert immer länger die Fragen zu beantworten.Wird immer langsamer und keine Möglichkeit Kontakt aufzunehmen.Werde es wohl abbrechen.<br> :date: __2020-08-03 19:54:59__
+
 > Die App ist vernünftig stellt die richtigen Fragen mal sehen ob die App auch noch so gut bleibt in den nächsten Monaten die uns ja wahrscheinlich noch bevorstehen werden seit neuestem lade die App einfach zu lange bis die aufgeht bitte fixen dann wieder 5 Sterne<br> :date: __2020-07-25 23:45:56__
 
 > Die App ist unheimlich langsam, da macht das Einloggen und Beantworten keinen Spaß. Auf die Kennzahlen wartet man immer noch. Ich hab's nur deshalb noch nicht deinstalliert, weil ich es wichtig finde, an vielen Stellen bei der Erforschung zu unterstützen.<br> :date: __2020-07-04 21:37:54__
@@ -194,6 +196,8 @@ The COVID-19 Symptom Tracker app has been installed by more than **10000** times
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="com.designit.covid_19 2 reviews"/>
 </p>
+
+> Die Fragebögen sind schnell und einfach zu beantworten. Deinstalliert, weil: Versehentliche Fehleingaben (wackeliger Bus o.ä.) kann man nicht korrigieren. Die versprochene Einschätzung kam nie. Das Passwort wird jedes Mal abgefragt: 1) Das finde ich unnötig, da mein Gerät per PIN geschützt ist. 2) Das wusste ich nicht, habe daher dummerweise ein komplexes PW gewählt, das umständlich einzugeben ist, und kann's jetzt nicht mehr ändern.<br> :date: __2020-07-28 15:31:45__
 
 > Seit einem Monat dabei, aber bis heute keine Rückmeldung zu meinem Status. Nur einseitig, so wird das nichts... Wird demnächst gelöscht.<br> :date: __2020-05-29 09:45:10__
 
@@ -221,7 +225,7 @@ The COVID-19 Symptom Tracker app has been installed by more than **10000** times
 <img src="1_star_reviews_wordcloud.png" alt="com.designit.covid_19 1 reviews"/>
 </p>
 
-> Mein Handy zeigt ständig an, "(die App ist mit Ihrem Gerät nicht kompatibel & dadurch nicht verfügbar"), trotz aktiv ständig mein Google Dienst ist, sagt mein neues Huawei Y6 & lehnte die App ab!<br> :date: __2020-07-28 06:41:48__
+> Ich nutze diese App seid April , und es sind immer noch keine Kennzahlen verfügbar. Ich überlege seid längerer Zeit zu deinstallieren. Da ich die Sache mit dem Coronavirus und der App eine wichtige Sache finde , warte ich noch etwas. Aber ich sehe momentan wenig Sinn die Fragen täglich zu beantworten weil ich keine Kennzahlen erhalte ,und nur da steht das die Kennzahlen noch ausgewertet werden müssen. Das seid April ??? Anmelden und anmelden dauert recht lange .<br> :date: __2020-08-03 21:07:58__
 
 > Nicht zu Empfehlen Ich werde Jetzt die App wieder Deeinstallieren Seit 21.5. Kein Updater Seit Anfang an steht da das die Risiko zahlen überarbeitet werden es tut sich nichts die App ist langsam.es dreht sich lange der Kreis bis mal was weiter geht so macht das ganze kein Spaß<br> :date: __2020-07-22 19:04:41__
 

@@ -154,6 +154,8 @@ The Asistencia COVID-19 app has been installed by more than **50000** times. At 
 <img src="5_star_reviews_wordcloud.png" alt="es.gob.asistenciacovid19 5 reviews"/>
 </p>
 
+> Muy buena<br> :date: __2020-07-31 11:26:46__
+
 > Buena aplicación solo falta que se la baje la gente<br> :date: __2020-07-25 20:04:15__
 
 > Ya vuelve a funcionar bien. Gracias!<br> :date: __2020-07-16 16:13:21__
@@ -171,8 +173,6 @@ The Asistencia COVID-19 app has been installed by more than **50000** times. At 
 > Ya era hora que hiciesen esta medida felicidades haber si la hacemos todos los Españoles yo en mi centro de salud no quisieron hacerme PCR teniendolos en el laboratorio hablo del dia 14 de mayo .no les da la gana de hacerlo y luego dicen en la comunidad de madrid que lo estan haciendo .digan a quien.<br> :date: __2020-05-18 16:16:28__
 
 > Rastrearme cuanto más mejor, más seguro estaré yo y a los que quiero.<br> :date: __2020-05-10 07:22:28__
-
-> Muy Buena App<br> :date: __2020-05-08 23:22:03__
 
 
 
@@ -210,6 +210,8 @@ The Asistencia COVID-19 app has been installed by more than **50000** times. At 
 <img src="3_star_reviews_wordcloud.png" alt="es.gob.asistenciacovid19 3 reviews"/>
 </p>
 
+> Simplemente es para informar si uno tiene los síntomas ,no es un rastreador que te informe del. Perímetro de riesgo en tu lugar donde trabaja o lugar donde suele ir saludos y protegido serás mejor que curar saludos<br> :date: __2020-08-01 09:57:36__
+
 > Me esperaba algo más currado (posibles contactos con casos positivos, un mapa, etc)<br> :date: __2020-05-28 23:32:43__
 
 > Esperaba con ella conseguir mas datos e informacion como en otras de mismas caracteristicas, por ejemplo si en tu zona es mayor o menor el riesgo de contagio por presencia en ella de positivos.<br> :date: __2020-04-28 10:48:13__
@@ -227,8 +229,6 @@ The Asistencia COVID-19 app has been installed by more than **50000** times. At 
 > Muy escueta y la autoevaluación es la misma sean personas vulnerables o de menos riesgo. Te preguntan patologías previas y luego no ahondan en ellas. Muy pobre<br> :date: __2020-04-08 17:27:47__
 
 > Le faltan preguntas ,hay gente que sólo tiene febrícula ,y faltan algunos síntomas que está teniendo gente positiva como lo del olfato,mareos ...<br> :date: __2020-04-08 13:30:38__
-
-> Está bien, pero el modelo a seguir tendría que ser el Coreano vía bluetooth.<br> :date: __2020-04-07 08:13:05__
 
 
 
@@ -254,6 +254,14 @@ The Asistencia COVID-19 app has been installed by more than **50000** times. At 
 <img src="1_star_reviews_wordcloud.png" alt="es.gob.asistenciacovid19 1 reviews"/>
 </p>
 
+> Pensaba que contendría un mapa, con los afectados de tu zona, algo más real .. así tal cual me parece absurda esta aplicación<br> :date: __2020-08-04 09:14:07__
+
+> Esta aplicación no está actualizada en Ceuta<br> :date: __2020-08-03 20:40:35__
+
+> Que dimitan el inepto de Sánchez Illa Simón y este gobierno social comunista de mentirosos inútiles que ha arruinado la economía de España y la salud de los españoles y que mintió desde el primer día<br> :date: __2020-08-03 17:51:28__
+
+> No deja poner el número de verificación para actualizar. Vuelve al principio. Es un bucle sin fin. Después de 5 intentos desinstalo. ¡Qué chapuza!<br> :date: __2020-07-30 13:06:36__
+
 > No es para toda España y el radar covid tampoco deberiais avanzar en estas cosas habiendo tantos rebrotes sirve para poco al menos para Castilla y leon<br> :date: __2020-07-27 17:28:39__
 
 > no va<br> :date: __2020-07-21 05:39:37__
@@ -265,13 +273,5 @@ The Asistencia COVID-19 app has been installed by more than **50000** times. At 
 > Esta autoevaluacion , en mi caso, no vale para nada. Ya di positivo en un test rápido privado, con el informe me fui al medico dé familia y no me hizo ni caso. Resultado 14 días más en casa y volver a pagar 65 euros para repetir el test. Ya he dado negativo. Preocupacion en la Seguridad Social por hacerme la PCR , NINGUNA.<br> :date: __2020-06-30 16:01:41__
 
 > no vale absolutamente para nada esta aplicación es una castaña<br> :date: __2020-06-30 07:11:17__
-
-> Para otras comunidades ejemplo Galicia para cuando?<br> :date: __2020-06-30 00:18:21__
-
-> Eres una auténtica vergüenza que no haya una única app para controlar está pandemia a nivel nacional e incluso Europea. Lo lógico es utilizar la rutina de seguimiento de Google Apple y Huawei, lo demás sin chapuzas inservibles que desaparecerán en día días. Aunar esfuerzos y que Europa sirva para algo<br> :date: __2020-06-11 02:33:41__
-
-> Galicia cuando???<br> :date: __2020-06-04 01:15:35__
-
-> Sin test poco fiable, dar datos y valorar síntomas.<br> :date: __2020-06-02 08:04:16__
 
 

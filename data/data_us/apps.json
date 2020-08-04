@@ -4,27 +4,27 @@
         "store_country": "us",
         "store_lang": "en",
         "latest_crawled_version": "3.1",
-        "latest_crawl": 1595925182
+        "latest_crawl": 1596558420
     },
     {
         "id": "gov.fema.mobile.android",
         "store_country": "us",
         "store_lang": "en",
         "latest_crawled_version": "2.11.1",
-        "latest_crawl": 1595925187
+        "latest_crawl": 1596558425
     },
     {
         "id": "gov.cdc.general",
         "store_country": "us",
         "store_lang": "en",
         "latest_crawled_version": "3.1.1",
-        "latest_crawl": 1595925191
+        "latest_crawl": 1596558427
     },
     {
         "id": "com.ri.crushcovid",
         "store_country": "us",
         "store_lang": "us",
         "latest_crawled_version": "2.0",
-        "latest_crawl": 1595925191
+        "latest_crawl": 1596558434
     }
 ]

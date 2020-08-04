@@ -132,6 +132,8 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 <img src="5_star_reviews_wordcloud.png" alt="cat.gencat.mobi.StopCovid19Cat 5 reviews"/>
 </p>
 
+> Esta app la veo bien<br> :date: __2020-08-01 12:41:39__
+
 > En mi opinión está bien que tengas que introducir tus datos para que Salut pueda contactar contigo y hacer el seguimiento,pero para mí sería perfecta ya si incorporase la función de Bluetooth para avisar de sintomáticos y/o positivos cercanos.<br> :date: __2020-07-22 13:01:04__
 
 > Es muy necesaria y óptima debería de tenerla todo el mundo instalada y más ahora<br> :date: __2020-07-17 06:29:26__
@@ -149,8 +151,6 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 > No me deja introducir el número de teléfono.<br> :date: __2020-06-08 15:08:56__
 
 > Es una app molt util...<br> :date: __2020-06-02 21:43:49__
-
-> Esta guau<br> :date: __2020-05-29 12:24:23__
 
 
 
@@ -188,6 +188,8 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 <img src="3_star_reviews_wordcloud.png" alt="cat.gencat.mobi.StopCovid19Cat 3 reviews"/>
 </p>
 
+> Puede QUE sea útil.<br> :date: __2020-08-04 03:39:03__
+
 > 👍👍👍<br> :date: __2020-07-15 23:38:35__
 
 > Està bé que en la nova actualització et faci un historial, i així quedin guardades les dades, però aquells que la portem fent servir des del principi, on queden aquelles dades? Vaig deixar de fer-la servir un temps i ara em trobo que quan abans em deia cas probable de Covid ara em diu q no, posant els mateixos símptomes. Apart, l'historial me'l comptabilitza des d'avui quan en realitat vaig començar a fer-la servir al Març.<br> :date: __2020-06-18 10:18:35__
@@ -205,8 +207,6 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 > Los síntomas se deberían describir y poder precisar mejor. Por ejemplo, ¿36'6 es fiebre? Y si se pone como fiebre, ¿qué temperatura se debería poner, "36'5 o menos" o 37?<br> :date: __2020-04-23 11:46:06__
 
 > Imposible fer el seguiment dels símptomes. L'aplicació falla constantment...<br> :date: __2020-04-17 21:45:08__
-
-> trobo a faltar una opció a l inici pel cas de les persones que estan ngressades amb virus, que han estat donades d alta, que han obtingut un determinat resultat en un determinat tipus de test, etc Es a dir, només tracta el spossibles casos a l inici. I després ?<br> :date: __2020-04-13 11:25:02__
 
 
 
@@ -244,6 +244,10 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 <img src="1_star_reviews_wordcloud.png" alt="cat.gencat.mobi.StopCovid19Cat 1 reviews"/>
 </p>
 
+> Inutilidad total, la desinstalado por inutil, no guarda lo datos, csda vez que la abro, tengo q dar los datos de nuevo, INUTIL<br> :date: __2020-08-01 19:56:10__
+
+> Esto es tan útil como el decir que si te encuentras mal vayas al médico. Porque al final sin médicos esto no sirve de nada.<br> :date: __2020-07-31 21:55:16__
+
 > Es tal inútil como el servicio del 061. No contactan a través del app, como imposible hablar a través del servicio telefónico. Es una odisea la espera del 061 en Cataluña. Increíble que este gobierno catalán asuma una responsabilidad, acusando al gobierno central de ineptos y la Generalitat son tan inútiles como está app. Se les va de las manos los contagios y no son capaces de controlar a través de una aplicación u otro medio digital los posibles rebrotes del covid-19.<br> :date: __2020-07-26 11:59:39__
 
 > Me interesa saber con esta aplicación si tenemos cerca algún infectado no si lo estoy yo y esta app no t lo dice<br> :date: __2020-07-21 07:18:13__
@@ -259,9 +263,5 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 > De momento pongo una estrella 🌟 porque esta app solo sirve para uno mismo para ver si tienes algún síntoma. De momento no sirve para saber si estas cerca de alguien que pueda que sea portador de Covid-19.<br> :date: __2020-07-02 21:27:30__
 
 > Penosa app, se rien en tu cara y ciertos comentarios los borran...<br> :date: __2020-07-01 10:52:39__
-
-> No acepta mi numero de telefono dice que hay un erro<br> :date: __2020-06-27 06:15:08__
-
-> Inutil<br> :date: __2020-06-14 02:53:54__
 
 

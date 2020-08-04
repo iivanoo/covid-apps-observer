@@ -238,6 +238,8 @@ The Minutis Mobile app has been installed by more than **10000** times. At this 
 <img src="1_star_reviews_wordcloud.png" alt="org.crf.minutis 1 reviews"/>
 </p>
 
+> Je vous conseille de ne pas installer cette appli!!!!!!<br> :date: __2020-08-03 23:00:35__
+
 > Quand en ouvre l application on nous demande de se connecter mais moi je n ais pas se compte et il y a pas créé un compte<br> :date: __2020-04-07 22:28:21__
 
 > L'application ne fonctionne pas du tout elle reste bloquée sur la première page avec le choix de la langue et on ne peut rien faire d'autre.<br> :date: __2020-03-27 09:51:28__

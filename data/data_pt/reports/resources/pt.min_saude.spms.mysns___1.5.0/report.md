@@ -283,6 +283,10 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <img src="1_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 1 reviews"/>
 </p>
 
+> Para android mais antigo !????<br> :date: __2020-08-02 11:06:09__
+
+> Está app não serve para nada, não consigo usá-la<br> :date: __2020-07-31 14:21:45__
+
 > Meus caros do SNS, a trampa desta aplicação funciona ou não? Ou é mais uma app fantasma?<br> :date: __2020-07-24 20:06:43__
 
 > Não consigo entrar no site e fazer qualquer pedido de medicação... quem me pode ajudar???!!!<br> :date: __2020-07-17 09:09:08__
@@ -298,9 +302,5 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 > Não consigo entrar através cmd e nem consigo ajuda. Bastava o contato do tmv para confirmar através de mensagem a pass e ter acesso à aplicação. É impossível de se fazer algo com tanta burocracia<br> :date: __2020-06-19 23:40:32__
 
 > Típica aplicação do estado, inútil e que só serve pra dar tacho aos amigos do governo!<br> :date: __2020-06-19 13:44:43__
-
-> Muito complexa... Não funciona...<br> :date: __2020-06-17 12:28:42__
-
-> aplicacao sem utilidade alguma , neste momento nao serve para nada, ZERO.<br> :date: __2020-06-16 10:35:35__
 
 

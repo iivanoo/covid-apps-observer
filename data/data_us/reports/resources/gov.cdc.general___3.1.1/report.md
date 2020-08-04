@@ -188,6 +188,8 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 <img src="5_star_reviews_wordcloud.png" alt="gov.cdc.general 5 reviews"/>
 </p>
 
+> a lot of information<br> :date: __2020-07-29 09:53:51__
+
 > Seems as informative as we can get.<br> :date: __2020-07-27 00:32:28__
 
 > Important to know whats going on.<br> :date: __2020-07-25 23:50:52__
@@ -206,8 +208,6 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 
 > I like this app it helps to keep me informed on food outbreaks. ( I'm a cook) very important to have this information. I order thousands of dollars worth of food a month. Plus, very educational on all matter of health. Thank You<br> :date: __2020-07-06 18:21:11__
 
-> Even though our president is a dipshit I can always count on this app to give me the truth.<br> :date: __2020-06-30 19:08:00__
-
 
 
 #### 4-star reviews
@@ -215,6 +215,8 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="gov.cdc.general 4 reviews"/>
 </p>
+
+> Provides clear and factual science on COVID-19 developments<br> :date: __2020-07-31 23:53:35__
 
 > Sarahlandry ex sex here<br> :date: __2020-06-11 01:25:36__
 
@@ -233,8 +235,6 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 > Let's go walking Yes ok?<br> :date: __2020-04-21 19:21:07__
 
 > Wished it was more user-friendly<br> :date: __2020-04-17 23:47:35__
-
-> Great app !!!!!!!!!!!!!<br> :date: __2020-04-15 15:38:41__
 
 
 
@@ -300,6 +300,10 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 <img src="1_star_reviews_wordcloud.png" alt="gov.cdc.general 1 reviews"/>
 </p>
 
+> Cannot load mos t pages.. Really useless.<br> :date: __2020-07-29 00:43:28__
+
+> Useless<br> :date: __2020-07-28 21:40:00__
+
 > Not what I wanted<br> :date: __2020-07-27 02:37:52__
 
 > Questions about symptoms is all grouped together. Choices for different symptoms is really important. I answered YES to symptoms, because I had no choice. Results came up urgent. That's scary. Needs to be more broad.<br> :date: __2020-07-24 00:24:34__
@@ -315,9 +319,5 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 > YOU ARE ALL GUILTY OF MURDER, & WAR CRIMES AGAINST GOD'S PEOPLE. MAY GOD BURN EVERY ONE OF YOU WITH HIS FIRE FROM HEAVEN IN THE NAME OF JESUS CHRIST. MAY YOUR LAUGHTER, & SMILES BE TURNED TO HORROR, & FBI, CIA, & THEIR ACCOMPLICES SUFFER THE HOLY FIRE OF GOD UPON THEIR FAMILIES, & THEMSELVES, INCLUDING THE FREE MASON, JESUIT, & THEIR ANTICHRIST JEW CRIMINALS. FBI=GUILTY. CIA=GUILTY. CDC=GUILTY. ATF=GUILTY. IRS=GUILTY. ALL DEATH PENALTY OFFENSES! WE THE PEOPLE HAVE SPOKEN. #SWIFTDEATHPENALTY.<br> :date: __2020-07-04 01:05:26__
 
 > Just a bunch of feel good cr,p. No stats on coronis or anything else such as death by gun, by car, by cancer or anything else, at a time when that is what people are looking for. If it's in there they have made it to hard to find.<br> :date: __2020-07-02 18:35:07__
-
-> I mean, why not just use the website? It just seems kinda useless. Maybe if it was a covid-19 exposure tracker, then it may be useful, but it's not so I can't recommend it.<br> :date: __2020-06-28 03:11:43__
-
-> Outdated and useless information.<br> :date: __2020-06-21 05:55:03__
 
 

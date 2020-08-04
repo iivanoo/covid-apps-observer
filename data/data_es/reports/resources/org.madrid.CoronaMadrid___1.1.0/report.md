@@ -206,6 +206,8 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 <img src="3_star_reviews_wordcloud.png" alt="org.madrid.CoronaMadrid 3 reviews"/>
 </p>
 
+> Debería actualizarse la información relacionada con la obligatoriedad de llevar mascarilla en todos los casos desde el pasado 30 de agosto.<br> :date: __2020-08-02 14:27:19__
+
 > La fecha de nacimiento debería poder teclearse. Podria dejar incluir resultado de una prueba de Covid.<br> :date: __2020-07-23 00:49:34__
 
 > Sería más que adecuado, que en la próxima actualización se modificara la recomendación sobre las mascarillas (ya que desde el 21 de mayo su uso es obligatorio en muchos lugares, con independencia de si se tiene o no síntomas). Gracias.<br> :date: __2020-05-21 12:01:07__
@@ -224,8 +226,6 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 
 > donde te pregunta de escalofrios o el dolor del cuerop/muslos.......muy pesima la aplicacion...otra vez enganados por el estado.....verguenza ....en estta situation se burlean de la population....<br> :date: __2020-04-02 10:22:37__
 
-> Echo en falta poder indicar si se trata de una persona que vive sola y no tiene red de apoyo en Madrid<br> :date: __2020-03-30 13:46:22__
-
 
 
 #### 2-star reviews
@@ -233,6 +233,8 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="org.madrid.CoronaMadrid 2 reviews"/>
 </p>
+
+> No hace falta pedir registro para esto<br> :date: __2020-08-03 12:12:42__
 
 > Necesita una mejora para facilitar el rastreo: una simple agenda donde podamos anotar, cada noche ( que notifique), dónde y con quien hemos estado. A falta de una app dedicada con tecnología GPS y Bluetooth, podría ayuda mucho<br> :date: __2020-07-26 09:34:13__
 
@@ -252,8 +254,6 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 
 > Por qué no aparece la anosmia como un sintoma si la incidencia es muy alta?<br> :date: __2020-04-11 18:25:41__
 
-> No es Científica<br> :date: __2020-04-07 21:13:10__
-
 
 
 #### 1-star reviews
@@ -261,6 +261,14 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="org.madrid.CoronaMadrid 1 reviews"/>
 </p>
+
+> O no he entendido para que sirve o es una patata...<br> :date: __2020-08-04 13:49:59__
+
+> Es tan inútil como la retrasada de Ayuso<br> :date: __2020-08-02 11:26:09__
+
+> Alguien ha conseguido poner la fecha de nacimiento? Habéis pagado por esto?<br> :date: __2020-07-31 22:32:42__
+
+> Esta aplicación (al igual que TODAS las que han desarrollado otras Comunidades Autónomas, si no me equivoco) no es compatible con el sistema de Notificaciones de Exposición de Google, por lo que es total y absolutamente inútil. Desinstalada.<br> :date: __2020-07-28 23:39:12__
 
 > Tengo 63 años para poner mi edad me he quedado dormido, hay que pasar pantalla una a una por mes, hasta llegar a la fecha de nacimiento.<br> :date: __2020-07-20 23:51:55__
 
@@ -273,13 +281,5 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 > Inutil<br> :date: __2020-06-09 08:48:31__
 
 > A fecha de hoy sigue sin recomendar la mascarilla cuando es de uso obligatorio. NO vale ni para las recomendaciones. Una pena que se gasten tanto dinero y no haya un mantenimiento diario de la aplicación.<br> :date: __2020-06-08 13:41:12__
-
-> Basica muy basica. Solo sirve para diagnosticar. Un mes y no han echo nada aprendan de los Coreanos y Franceses<br> :date: __2020-05-28 09:05:45__
-
-> La app está bien hecha y funciona bien, si no fuese porque a pesar de tener tres de los cuatro síntomas más comunes de la Covid-19, la app me dice que descarta que pueda tenerla. En el servicio de atención telefónica hacen las mismas preguntas y me dicen que como respiro bien, no puede ser covid, que vaya al médico.<br> :date: __2020-05-20 17:38:20__
-
-> Inútil<br> :date: __2020-05-19 03:45:54__
-
-> Muy básica. No vale de nada<br> :date: __2020-05-18 17:15:34__
 
 
