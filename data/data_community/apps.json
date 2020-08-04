@@ -1,23 +1,16 @@
 [
     {
-        "id": "uk.nhs.nhsx.colocate",
-        "store_country": "uk",
-        "store_lang": "en",
-        "latest_crawled_version": "Varies with device",
-        "latest_crawl": 1595922008
-    },
-    {
         "id": "com.joinzoe.covid_zoe",
         "store_country": "uk",
         "store_lang": "en",
         "latest_crawled_version": "0.14",
-        "latest_crawl": 1595922016
+        "latest_crawl": 1596558177
     },
     {
         "id": "edu.yale.fas.hunala",
         "store_country": "us",
         "store_lang": "en",
         "latest_crawled_version": "1.0",
-        "latest_crawl": 1595922024
+        "latest_crawl": 1596558184
     }
 ]
