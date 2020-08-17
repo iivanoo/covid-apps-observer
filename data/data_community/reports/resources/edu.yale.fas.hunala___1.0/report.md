@@ -136,10 +136,12 @@ The Hunala app has been installed by more than **1000** times. At this time, **7
 #### 5-star reviews
 
 <p align="center">
-
+<img src="5_star_reviews_wordcloud.png" alt="edu.yale.fas.hunala 5 reviews"/>
 </p>
 
-No recent reviews available with 5 stars.
+> Appreciate that it Asks for the bare minimum<br> :date: __2020-08-15 14:41:33__
+
+
 
 #### 4-star reviews
 
@@ -166,6 +168,8 @@ No recent reviews available with 5 stars.
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="edu.yale.fas.hunala 2 reviews"/>
 </p>
+
+> Very cool idea, but when I enter my phone number (doube and triple checked), no code is sent and I'm left without access to the app<br> :date: __2020-08-15 14:53:31__
 
 > I had high hopes for this app. But the questions are few and don't allow nuance, and the results seem to vary wildly for no reason. I tried to provide feedback, but wasn't answered elsewhere, and in app does not allow questions/help/etc. Very disappointed and feel used<br> :date: __2020-06-09 16:10:03__
 
