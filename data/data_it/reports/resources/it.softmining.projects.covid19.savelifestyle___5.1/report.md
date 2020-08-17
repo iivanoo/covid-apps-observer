@@ -185,6 +185,8 @@ The SM_Covid19 app has been installed by more than **50000** times. At this time
 <img src="5_star_reviews_wordcloud.png" alt="it.softmining.projects.covid19.savelifestyle 5 reviews"/>
 </p>
 
+> Semplice e comoda la puoi disinstallare quando vuoi.<br> :date: __2020-08-11 16:18:18__
+
 > Un piccolo problema su Xiaomi Tutto risolto in un batter d'occhio Bravissimi ora funziona di nuovo che è una meraviglia. Altro che Immuni, questa è una app di tracciamento veramente completa.<br> :date: __2020-08-03 14:36:37__
 
 > Era una ottima app che avevo installato da subito... Purtroppo con i vincoli derivati da immuni sulla geolocalizzaIone obbligatoria è andato tutto a putt... Dopo 2 mesi mi arrendo, ho disinstallato immuni e ora anche questa. Sono convinto sostenitore dell'efficacia delle app per la prevenzione ma anche con la buona batteria del mio xiaomi A1 a volte a ora di cena rimango a piedi, ho capito che a volte qualche altra app (non so quale) attiva il gps e mi scarica il telefono... Peccato...<br> :date: __2020-07-29 19:35:55__
@@ -202,8 +204,6 @@ The SM_Covid19 app has been installed by more than **50000** times. At this time
 > Buono<br> :date: __2020-07-17 09:33:04__
 
 > Buono<br> :date: __2020-07-14 15:44:06__
-
-> Dovremmo applicarla tutti l'applicazione immuni....saremmo PIÙ tranquilli TUTTI<br> :date: __2020-07-11 15:59:39__
 
 
 

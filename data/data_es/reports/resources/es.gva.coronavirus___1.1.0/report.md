@@ -171,6 +171,8 @@ No recent reviews available with 2 stars.
 <img src="1_star_reviews_wordcloud.png" alt="es.gva.coronavirus 1 reviews"/>
 </p>
 
+> Me parece fatal que quiera ver el mapa de contagio si voy a valencia y que no pueda verlo por no estar empadronado o no tener el SIP es algo inutil.. vaya aplicacion ..<br> :date: __2020-08-10 15:37:36__
+
 > Mala<br> :date: __2020-07-05 18:02:44__
 
 > Bien<br> :date: __2020-07-01 19:17:38__
@@ -188,7 +190,5 @@ No recent reviews available with 2 stars.
 > No me deja meter el sip<br> :date: __2020-04-21 11:26:17__
 
 > Me parece increíble la discriminación. De la Generalidad Valenciana que si no eres de seguridad social no puedes usar esta aplicación funcionarios, policías y militares guardias civiles todos estos que que por decisión. Del estado y no propia tienen tarjetas de MUFACE MUGEJO IFAS todos estos también somos ciudadanos de la Comunidad Valencia y a esto añadir I migrantes y demás desfavorecidos, viviendo en valencia me está dando servicio la aplicación Catalana UNA VERGUENZA<br> :date: __2020-04-20 20:34:22__
-
-> Solo sirve para rastrear<br> :date: __2020-04-19 10:25:21__
 
 

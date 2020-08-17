@@ -188,6 +188,12 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 <img src="5_star_reviews_wordcloud.png" alt="gov.cdc.general 5 reviews"/>
 </p>
 
+> I have always used this app.<br> :date: __2020-08-17 03:41:55__
+
+> Great<br> :date: __2020-08-14 15:54:32__
+
+> I like the app<br> :date: __2020-08-07 19:35:07__
+
 > a lot of information<br> :date: __2020-07-29 09:53:51__
 
 > Seems as informative as we can get.<br> :date: __2020-07-27 00:32:28__
@@ -201,12 +207,6 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 > Informative<br> :date: __2020-07-11 11:03:54__
 
 > It tells information about everythin<br> :date: __2020-07-11 00:53:43__
-
-> Keeps you up-to-date<br> :date: __2020-07-09 16:33:18__
-
-> Perfect awesome<br> :date: __2020-07-07 11:03:32__
-
-> I like this app it helps to keep me informed on food outbreaks. ( I'm a cook) very important to have this information. I order thousands of dollars worth of food a month. Plus, very educational on all matter of health. Thank You<br> :date: __2020-07-06 18:21:11__
 
 
 
@@ -244,6 +244,8 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 <img src="3_star_reviews_wordcloud.png" alt="gov.cdc.general 3 reviews"/>
 </p>
 
+> Needs to make the covid tracker avalible on this app.<br> :date: __2020-08-05 14:36:00__
+
 > This application was good but I wish it would have a section on were the were the covid-19 was maybe they should work with Google maps to show the information. Like how the escort raider detector application live feed.<br> :date: __2020-07-07 15:05:04__
 
 > program has good info, does not rotate to horizontal.<br> :date: __2020-06-14 15:51:53__
@@ -261,8 +263,6 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 > Useful to keep up, especially with the Sars-CoV-2 outbreak, but really annoying design. Harder to help less technically inclined use it.<br> :date: __2020-05-08 04:29:03__
 
 > Nice<br> :date: __2020-05-03 06:10:21__
-
-> great<br> :date: __2020-04-27 21:31:31__
 
 
 
@@ -300,6 +300,12 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 <img src="1_star_reviews_wordcloud.png" alt="gov.cdc.general 1 reviews"/>
 </p>
 
+> All it does is white screen<br> :date: __2020-08-16 19:13:23__
+
+> Racist fear mongering app<br> :date: __2020-08-08 17:44:06__
+
+> No big deal just the same stuff you see in Facebook<br> :date: __2020-08-05 06:42:37__
+
 > Cannot load mos t pages.. Really useless.<br> :date: __2020-07-29 00:43:28__
 
 > Useless<br> :date: __2020-07-28 21:40:00__
@@ -313,11 +319,5 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 > Not a tracker<br> :date: __2020-07-05 23:23:48__
 
 > 99 harmless . Trump said<br> :date: __2020-07-05 22:07:02__
-
-> Hard to get thru irreverent info<br> :date: __2020-07-05 14:29:58__
-
-> YOU ARE ALL GUILTY OF MURDER, & WAR CRIMES AGAINST GOD'S PEOPLE. MAY GOD BURN EVERY ONE OF YOU WITH HIS FIRE FROM HEAVEN IN THE NAME OF JESUS CHRIST. MAY YOUR LAUGHTER, & SMILES BE TURNED TO HORROR, & FBI, CIA, & THEIR ACCOMPLICES SUFFER THE HOLY FIRE OF GOD UPON THEIR FAMILIES, & THEMSELVES, INCLUDING THE FREE MASON, JESUIT, & THEIR ANTICHRIST JEW CRIMINALS. FBI=GUILTY. CIA=GUILTY. CDC=GUILTY. ATF=GUILTY. IRS=GUILTY. ALL DEATH PENALTY OFFENSES! WE THE PEOPLE HAVE SPOKEN. #SWIFTDEATHPENALTY.<br> :date: __2020-07-04 01:05:26__
-
-> Just a bunch of feel good cr,p. No stats on coronis or anything else such as death by gun, by car, by cancer or anything else, at a time when that is what people are looking for. If it's in there they have made it to hard to find.<br> :date: __2020-07-02 18:35:07__
 
 

@@ -147,6 +147,8 @@ The Smittestop app has been installed by more than **100000** times. At this tim
 <img src="5_star_reviews_wordcloud.png" alt="com.netcompany.smittestop_exposure_notification 5 reviews"/>
 </p>
 
+> very good app, use it to track hot singles nearby<br> :date: __2020-08-08 17:34:24__
+
 > Useful without being needlessly complicated. The FAQ section gives really good responses to questions and concerns people might have.<br> :date: __2020-07-31 22:46:21__
 
 > Hello, i love this apps, i dont understand why people dont like sharing their location... If they are letting to cookies to facebook, browsers, etc. which are doing the same thing... I have question, does this work With Croatian COVID-19 Ministry of Health?<br> :date: __2020-07-31 10:21:12__
@@ -165,8 +167,6 @@ The Smittestop app has been installed by more than **100000** times. At this tim
 
 > Simpel app med god databeskyttelse.<br> :date: __2020-06-19 14:48:55__
 
-> Fint lavet.<br> :date: __2020-06-18 19:39:34__
-
 
 
 #### 4-star reviews
@@ -174,6 +174,10 @@ The Smittestop app has been installed by more than **100000** times. At this tim
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.netcompany.smittestop_exposure_notification 4 reviews"/>
 </p>
+
+> Works, I guess. Needs english version asap for the students and other internationals, though<br> :date: __2020-08-09 14:14:52__
+
+> To increase trust and adoption this app should be made open source. That way, we all could have a look at the code to see if there's any privacy breach, and could even contribute with an English translation for the app. Plus, Denmark would set the example and other countries would follow. You might think that an open source app is more vuneravle to attacks but this is a very naïve arguments: vulnerabilities are exposed and fixed faster.<br> :date: __2020-08-07 08:44:54__
 
 > App'en driller, når telefonen sættes i flytilstand og app'en ikke kører helt i baggrunden. Når app'en har et GUI åben, når bluetooth forsvinder, kommer en dialogboks frem, som kræver ny godkendelse af BT. Hvis app'en derimod kører uden GUI, så tåler den fint at BT forsvinder og dukker op igen. Den dialogboks i GUI.-tilstand bør rettes.<br> :date: __2020-08-04 18:50:15__
 
@@ -191,10 +195,6 @@ The Smittestop app has been installed by more than **100000** times. At this tim
 
 > Efter problemer i starten, og et par geninstalleringer virker app'en nu som den skal, super.<br> :date: __2020-06-22 08:42:29__
 
-> Positivt overrasket over at der er brugt en sikker og anonym protokol. Nemt at installere og sætte op. App'et har ikke rettighed til lokation, selvom lokation skal være slået til for at bluetooth virker. Ville have elsket at have kildekoden være offentligt tilgængelig så sikkerheden kunne verificeres.<br> :date: __2020-06-19 14:55:27__
-
-> Bruger lidt ekstra strøm, men ellers ser app'en ud til at fungere fint. Godt at den blev implementeret med privacy in mind<br> :date: __2020-06-19 08:21:56__
-
 
 
 #### 3-star reviews
@@ -202,6 +202,10 @@ The Smittestop app has been installed by more than **100000** times. At this tim
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="com.netcompany.smittestop_exposure_notification 3 reviews"/>
 </p>
+
+> English version would be useful<br> :date: __2020-08-08 22:15:09__
+
+> My husband's play store is set to the US (unable to change) and we live here in DK. He isn't able to download the app. Why?<br> :date: __2020-08-07 12:04:20__
 
 > Appen fungerer fint, men det er et kæmpe dræn at skulle have Bluetooth aktiveret konstant. Det føles forældet og mit batteris levetid har været stærkt reduceret efter jeg har aktiveret appen hvilket gør at jeg stærkt overvejer om det er det værd.<br> :date: __2020-07-12 13:03:44__
 
@@ -221,9 +225,11 @@ The Smittestop app has been installed by more than **100000** times. At this tim
 <img src="2_star_reviews_wordcloud.png" alt="com.netcompany.smittestop_exposure_notification 2 reviews"/>
 </p>
 
-> Good idea but crucial notification for status is still missing. It seems to work as intented but the design is not with actual users in mind. There is no indication on the status of the application running in the background. This leads to me forgetting turning it on and/or off as I have no idea without opening the app. Also there are too many steps to turn it on (3 taps is a lot).<br> :date: __2020-07-31 22:16:28__
+> Funktionelt endelig ved at være på plads. Dog trækker omstændighederne og undfangelsen MEGET ned. 20 mio. kroner for en closed source app der kunne være bygget for under 100.000 på samme tid. Måske skulle man også sætte studentermedhjælper, der faktisk har bestået en sproglig eksamen, til at besvare anmeldelser og henvendelser.<br> :date: __2020-08-15 19:23:19__
 
-> Nedjusterer til 2 stjerner. At en engelsk version er på vej er fint, men alt for sent. Og hvad med andre sprog? Arabisk, urdu mfl? Jeg er sikker på at at I kan finde de anbefalede sprog hos sundhedsmyndighederne Det tager et par dage at oversætte. I betragtning af situationens alvor håber jeg en version på flere sprog kommer om få dage. Så meget er der altså heller ikke at oversætte. Det er en ommer.<br> :date: __2020-07-12 19:36:35__
+> Make it available in English as well? If you really care all people in dk to stay safe<br> :date: __2020-08-14 00:17:40__
+
+> Good idea but crucial notification for status is still missing. It seems to work as intented but the design is not with actual users in mind. There is no indication on the status of the application running in the background. This leads to me forgetting turning it on and/or off as I have no idea without opening the app. Also there are too many steps to turn it on (3 taps is a lot).<br> :date: __2020-07-31 22:16:28__
 
 > Alert notifications keep turning off???<br> :date: __2020-07-01 06:29:47__
 
@@ -239,8 +245,6 @@ The Smittestop app has been installed by more than **100000** times. At this tim
 
 > Virker simpel og godt designet, men lever ikke op til præmissen om, kun at bruge Bluetooth til at registrere andre enheder. Der står under indstillinger: "Når du har givet dit samtykke og tilladt Bluetooth, virker appen hele tiden". Det passer ikke, da appen ikke fungerer uden også at tænde for lokation. Både af hensyn til batteri og privatliv, har jeg ikke lyst til at have min lokation aktiv og sende data til Google konstant.<br> :date: __2020-06-18 08:57:02__
 
-> Der står i app'en at den ikke bruger min lokation. Men app'en kræver at jeg tænder for min gps. Det hænger ikke sammen. Endvidere har min telefon ikke batteri til at have både gps og bluetooth kørende konstant samtidig. Bluetooth kan gå an.<br> :date: __2020-06-18 08:23:43__
-
 
 
 #### 1-star reviews
@@ -248,6 +252,16 @@ The Smittestop app has been installed by more than **100000** times. At this tim
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="com.netcompany.smittestop_exposure_notification 1 reviews"/>
 </p>
+
+> Version 1.0.3 crasher under opstart. Tidligere versioner virker. Hvorfor kan man ikke gå tilbage til en version der virker? Har skrevet til support - men de er vist på ferie ;)<br> :date: __2020-08-17 13:48:13__
+
+> Desværre virkede denne app ikke. Da jeg markerede mig som testet positiv for Covid 19 fik ingen af mine nære kontakter advarsel. Tanken med appen er ellers god. Mon ikke at udviklerne burde fejlfinde denne case asap.<br> :date: __2020-08-17 07:13:35__
+
+> Skal have location tændt på android på trods af at appen bruger Bluetooth (som på android aktiveres seperat). Det giver ikke mening.<br> :date: __2020-08-14 13:27:07__
+
+> Nedjusterer fra 2 til 1 stjerne, da den fortsat kun findes på dansk. En engelsk version er muligvis (!) stadig på vej her snart to måneder, og alt for sent. Tror ikke den kommer. Og hvad med andre sprog? Arabisk, urdu mfl? Jeg er sikker på at I kan finde de anbefalede sprog hos sundhedsmyndighederne Det tager et par dage at oversætte. I betragtning af situationens alvor håber jeg en version på flere sprog kommer om få dage. Så meget er der altså heller ikke at oversætte. Det er en ommer.<br> :date: __2020-08-10 18:12:23__
+
+> Requires location to be turned on. And I am not interested in sharing my location constantly with Google! Bluetooth is fine, location no-go.<br> :date: __2020-08-05 09:31:37__
 
 > English please<br> :date: __2020-08-01 12:32:00__
 
@@ -258,15 +272,5 @@ The Smittestop app has been installed by more than **100000** times. At this tim
 > No source code available, do not trust it. Open source software ensures the validity and security of the app by allowing independent review, inspection and oversight, and is further more recommended by the eHealth community and WHO. If the app is vulnerable, showing the source code does not change that vulnerability, nor does it stop anyone for exploiting it, rather it stops all the open source developers from finding and solving the issue.<br> :date: __2020-07-18 21:05:43__
 
 > Requires location service to be "on" to detect devices near you.. well I'm not going to use the app then. Make it useful with the location setting "off" and I will start to use it. I might not be sharing my location but I do not accept that it needs location access when it is not necessary. Bluetooth works just fine with location service off. I don't care that smittestop doesn't track my movements, but it enforces everyone to turn on location giving Google and other apps access to my location.<br> :date: __2020-07-10 22:23:12__
-
-> not in English - thus useless<br> :date: __2020-07-08 18:44:11__
-
-> Aktiver knap virker ikke på samsung 10+, jeg har forsøgt at opdatere android og google play no luck... apps bør virke lidt out of the box.... Den 03.07.2020 virker jeres app stadig ikke. Så er det lige meget hvor mange der downloader app'en!! Selv med jeres nye update...<br> :date: __2020-07-03 22:32:50__
-
-> Det er da dumt at appen først advare én når man har været i nærheden af en der er smittet. Den burde ha et kort hvor man kan se smitten har været så man ikke går derhen i første omgang.<br> :date: __2020-06-30 10:39:00__
-
-> 1) cannot be turned on unless force quit 2) public service app like tihs should be open source. Uninstalled again, sadly.<br> :date: __2020-06-29 23:44:55__
-
-> App tells me to turn on my Bluetooth while Bluetooth is on and app have full permission to utilize it.<br> :date: __2020-06-29 10:33:46__
 
 

@@ -157,6 +157,12 @@ The Rakning C-19 app has been installed by more than **50000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="is.landlaeknir.rakning 5 reviews"/>
 </p>
 
+> Snilldin ein<br> :date: __2020-08-11 00:57:52__
+
+> Eg vil að þið getið rakið hvar eg var ef eg skyldi veikjast<br> :date: __2020-08-08 22:22:05__
+
+> Mér finnst það frábært að fá að vita og fylgjast með a fundum i sjónvarpinu<br> :date: __2020-08-06 15:47:59__
+
 > Veitir öryggi<br> :date: __2020-07-10 03:16:57__
 
 > Bara snilld.<br> :date: __2020-05-21 00:56:16__
@@ -171,12 +177,6 @@ The Rakning C-19 app has been installed by more than **50000** times. At this ti
 
 > Súper.<br> :date: __2020-04-09 00:18:10__
 
-> 💖<br> :date: __2020-04-08 16:18:03__
-
-> Snilld<br> :date: __2020-04-07 07:25:15__
-
-> Ok<br> :date: __2020-04-07 01:51:06__
-
 
 
 #### 4-star reviews
@@ -184,6 +184,8 @@ The Rakning C-19 app has been installed by more than **50000** times. At this ti
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="is.landlaeknir.rakning 4 reviews"/>
 </p>
+
+> Finst mer vera örugari<br> :date: __2020-08-08 15:15:17__
 
 > Rafhlaðan klárast frekar hratt, en tilgangurinn göfugur.<br> :date: __2020-08-01 01:06:30__
 
@@ -214,6 +216,8 @@ The Rakning C-19 app has been installed by more than **50000** times. At this ti
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="is.landlaeknir.rakning 2 reviews"/>
 </p>
+
+> Ég er að lenda í því að tilkynning sem á alltaf að vera opin. Lokist og ég þarf að fara inn i forritið til að opna aftur. Veit um engan annan sem er að lenda i því sama<br> :date: __2020-08-09 13:34:28__
 
 > Frýs, þungt á batterí.<br> :date: __2020-07-23 01:13:21__
 

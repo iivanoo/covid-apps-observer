@@ -196,6 +196,8 @@ The Covidom Patient app has been installed by more than **10000** times. At this
 <img src="2_star_reviews_wordcloud.png" alt="fr.aphp.covidom 2 reviews"/>
 </p>
 
+> C'est nul on ne peut pas changer la date ni quoi que ce soit pas pratique<br> :date: __2020-08-11 02:13:59__
+
 > Je veux<br> :date: __2020-05-29 16:29:13__
 
 > J'essaie d'inscrire pour le suivi mon père de 78 ans et de l'aider comme je peux avec son téléphone, un identifiant lui a été communiqué à l'oral, mais impossible de procéder à l'activation. C'est très compliqué. Idem , j'ai essayé de lui créer un compte sur l'AP-HP, sans succès. Du coup, je ne sais même pas à qui m'adresser pour demander la redemander le n° d'identification. Dommage...<br> :date: __2020-04-04 19:45:01__
@@ -208,6 +210,14 @@ The Covidom Patient app has been installed by more than **10000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="fr.aphp.covidom 1 reviews"/>
 </p>
 
+> Impossible d'avoir une connexion malgré une création d'un comte.<br> :date: __2020-08-14 13:41:35__
+
+> Plante régulièrement et vous déloggue, nécessité de mettre le mdp a chaque fois, fait double emploi avec les SMS et mails qu'on reçoit... cette app ne sert à rien.<br> :date: __2020-08-14 12:40:12__
+
+> Impossible d'activer mon compte. J'ai été en contacte avec une personne positive au COVID-19, on me demande d'activer mon compte en me donnant des identifiants. Je suis bien reconnu, puis on me demande ma date de naissance mais elle s'avère être incorrecte. J'ai essayé sur portable, sur l'appli et sur mon ordinateur rien à faire. Impossible de trouver un numéro ou un contact à qui s'adresser.<br> :date: __2020-08-08 16:42:58__
+
+> Date de naissance fonctionne pas<br> :date: __2020-08-07 12:34:56__
+
 > De la poudre au yeux quelque soit le résultat on vous demande d'appeler ...donc poubelle direct<br> :date: __2020-07-04 12:58:45__
 
 > Pas d'accès hors app qui a refusé de me suivre<br> :date: __2020-05-31 20:24:54__
@@ -219,13 +229,5 @@ The Covidom Patient app has been installed by more than **10000** times. At this
 > Pénible a utiliser<br> :date: __2020-04-22 12:27:37__
 
 > Nul impossible de se connecter à bannir<br> :date: __2020-04-16 20:00:38__
-
-> Je suis médecin.Je n arrive pas à m inscrire. Créer un compte n est pas noté. Du texte du texte mais pas de simplicité ni de praticité.Merci de me répondre.<br> :date: __2020-04-15 10:31:50__
-
-> Je n'adhère pas Du tout ! Trop de contrainte. Prendre sa température et ses pulsions non merci. Malade fiévreuse, je ne me sert pas de mon téléphone. Il y a une personne qui m'a téléphoné pour me demander mon état et si je pouvais remplir le questionnaire, je lui ai dit que ça ne m'intéressaient pas. Je voudrais que vous arrêtez de m'envoyer des textos c'est ennervant, fatiguant, stressant. On m'avait promis de ne plus m'embêter.<br> :date: __2020-04-13 10:14:14__
-
-> Sérieusement , on se soigne pas avec une application 🤔 arrêté vos cinéma d'application inutile a la société de maintenant ... Tu prends le RER ton application elle sert a quoi ??? Tu va laisser passer tout le monde devant toi 😅 , lui il la lui il la Pas , époque d'argent en fusion 😜<br> :date: __2020-04-11 18:35:58__
-
-> Impossible remplir mes formulaires les jours demandés, quand je vais me connecter ils sont directement archivés. J'ai beau cliquer dessus il ne se passe rien donc zéro suivi<br> :date: __2020-04-08 11:06:21__
 
 

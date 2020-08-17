@@ -131,6 +131,8 @@ The COVID-19 Symptom Tracker app has been installed by more than **10000** times
 <img src="5_star_reviews_wordcloud.png" alt="com.designit.covid_19 5 reviews"/>
 </p>
 
+> Funktioniert super. Ob das hilft, ist eine andere Sache. Alle Bürger können helfen. Alle Mittel sind gut. Von mir 5 SterneEine gute Frage wäre auch, kontakt zu Reiserückkehrern, kontakt zu Erntehelferarbeitern Gruß<br> :date: __2020-08-17 08:10:34__
+
 > Top-Bin Begeistert :-) weiter so.update,seit ca 1 Woche klingelt das Handy bis zu 20 x und mehr durchgehend, wenn die Tägliche Nachricht kommt,warum auch immer.Jetzt sieht es so aus das keine tägliche Nachricht mehr kommt,man muss selber immer dran denken Neuerdings lädt die app extrem lange bis sie sich öffnet,das gleiche auch beim beenden<br> :date: __2020-07-22 23:04:55__
 
 > Winkelnkemper hildegard<br> :date: __2020-06-25 16:08:07__
@@ -148,8 +150,6 @@ The COVID-19 Symptom Tracker app has been installed by more than **10000** times
 > Sehr gute App funktioniert einfach gut und für die Gesundheit macht man viel und man nimmt sich die paar Sekunden dafür<br> :date: __2020-04-30 18:41:10__
 
 > App hat sich komplett auf Anfang zurückgesetzt.. alles umsonst!<br> :date: __2020-04-30 14:01:26__
-
-> Endlich eine gute Corona App<br> :date: __2020-04-29 10:35:30__
 
 
 
@@ -177,9 +177,9 @@ The COVID-19 Symptom Tracker app has been installed by more than **10000** times
 <img src="3_star_reviews_wordcloud.png" alt="com.designit.covid_19 3 reviews"/>
 </p>
 
-> Ab April dabei,dauert immer länger die Fragen zu beantworten.Wird immer langsamer und keine Möglichkeit Kontakt aufzunehmen.Werde es wohl abbrechen.<br> :date: __2020-08-03 19:54:59__
+> Irgendwie habe ich den Eindruck niemand braucht die App. Die Kennzahlen sind seit 5 Monaten im Aufbau. Zu viel Aufwand um Daten zu produzieren die niemand braucht, schade<br> :date: __2020-08-14 21:37:12__
 
-> Die App ist vernünftig stellt die richtigen Fragen mal sehen ob die App auch noch so gut bleibt in den nächsten Monaten die uns ja wahrscheinlich noch bevorstehen werden seit neuestem lade die App einfach zu lange bis die aufgeht bitte fixen dann wieder 5 Sterne<br> :date: __2020-07-25 23:45:56__
+> Ab April dabei,dauert immer länger die Fragen zu beantworten.Wird immer langsamer und keine Möglichkeit Kontakt aufzunehmen.Werde es wohl abbrechen.<br> :date: __2020-08-03 19:54:59__
 
 > Die App ist unheimlich langsam, da macht das Einloggen und Beantworten keinen Spaß. Auf die Kennzahlen wartet man immer noch. Ich hab's nur deshalb noch nicht deinstalliert, weil ich es wichtig finde, an vielen Stellen bei der Erforschung zu unterstützen.<br> :date: __2020-07-04 21:37:54__
 
@@ -225,9 +225,13 @@ The COVID-19 Symptom Tracker app has been installed by more than **10000** times
 <img src="1_star_reviews_wordcloud.png" alt="com.designit.covid_19 1 reviews"/>
 </p>
 
-> Ich nutze diese App seid April , und es sind immer noch keine Kennzahlen verfügbar. Ich überlege seid längerer Zeit zu deinstallieren. Da ich die Sache mit dem Coronavirus und der App eine wichtige Sache finde , warte ich noch etwas. Aber ich sehe momentan wenig Sinn die Fragen täglich zu beantworten weil ich keine Kennzahlen erhalte ,und nur da steht das die Kennzahlen noch ausgewertet werden müssen. Das seid April ??? Anmelden und anmelden dauert recht lange .<br> :date: __2020-08-03 21:07:58__
+> Die App ist vernünftig stellt die richtigen Fragen mal sehen ob die App auch noch so gut bleibt in den nächsten Monaten die uns ja wahrscheinlich noch bevorstehen werden seit neuestem lade die App einfach zu lange bis die aufgeht bitte fixen dann wieder 5 Sterne naja die App die Leute melden sich ja nicht oder bar überarbeiten die app dass die wieder schneller lädt deswegen könnte man sie eigentlich auch löschen weil er mir das einfach zu lange dauert mit dem aufgehen<br> :date: __2020-08-16 20:25:07__
 
-> Nicht zu Empfehlen Ich werde Jetzt die App wieder Deeinstallieren Seit 21.5. Kein Updater Seit Anfang an steht da das die Risiko zahlen überarbeitet werden es tut sich nichts die App ist langsam.es dreht sich lange der Kreis bis mal was weiter geht so macht das ganze kein Spaß<br> :date: __2020-07-22 19:04:41__
+> Die App ist vielleicht gut und sinnvoll. Aber sie braucht inzwischen extrem viel Zeit im Aufbau, so dass die Bearbeitung sehr zeitaufwendig und wegen des langen Leerlaufs der Kreise auch noch nervig ist. Eigentlich möchte ich die Corona-Forschung mit meinen Daten für diese App unterstützen, aber ich überlege gerade, sie zu löschen.<br> :date: __2020-08-12 23:00:54__
+
+> Seit etwa 100 Tagen aktiv. Leider im Status immer noch der Vermerk "wir überarbeiten die Kennzahlen", keine Risikoeinschätzung.<br> :date: __2020-08-11 05:43:24__
+
+> Nicht zu Empfehlen die App wurde wieder Deeinstalliert Die app funktioniert nicht Richtig es dreht dich lange der Kreis bis was Weiter geht die app hat auch schon lange kein Update mehr bekommen seit Anfang an steht da das die Kennzahlen überarbeitet werden und nichts passiert.<br> :date: __2020-08-06 23:58:02__
 
 > Hilft nix ist umständlich und muß nach jedem Smartphonestart neu aufgerufen werden.<br> :date: __2020-07-20 18:43:23__
 
@@ -240,9 +244,5 @@ The COVID-19 Symptom Tracker app has been installed by more than **10000** times
 > ...so ein Schmarrn...selten so gelacht...<br> :date: __2020-06-07 17:32:05__
 
 > Wenn du Covid-19 installieren willst kommt Polizei also sei vorsichtig ;) dann kommt Ambulante aus deine Adresse usw... gebe 1 Stern !!!<br> :date: __2020-05-31 10:32:12__
-
-> Die App ist völlig unausgereift ! Es gibt keine Möglichkeit Fehlangaben zu korrigieren. Ich habe bei der Frage auf Corona-Testung versehentlich auf positiv getippt, dabei bin ich aktuell negativ ! Keine Möglichkeit dies zu korrigieren !!! So macht es keinen Sinn und ergibt verfälschte Ergebnisse ! In dieser Form ist die App untauglich und wird zu meinem Bedauern deinstalliert! DIE APP BITTE GEWISSENHAFT ÜBERARBEITEN ! Mit freundlichen Grüßen.<br> :date: __2020-05-22 12:32:33__
-
-> Total schlecht woher soll einer wissen ob er es hat oder nicht da nicht jeder Symptome hat xD also die Hersteller von den hier sind echt miserabel. Wenn es gehen würde -5 Sterne<br> :date: __2020-05-20 09:47:15__
 
 

@@ -118,6 +118,8 @@ The COVID-19.eus app has been installed by more than **50000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="com.erictelm2m.colabora 5 reviews"/>
 </p>
 
+> Que pasará con esta app cuando salga radar covid??<br> :date: __2020-08-16 15:40:40__
+
 > Todo el mundo tenia que tener una aplicacion de estas caracteristicas<br> :date: __2020-07-30 19:31:10__
 
 > Muy bien con la última actualización<br> :date: __2020-07-01 23:52:10__
@@ -136,8 +138,6 @@ The COVID-19.eus app has been installed by more than **50000** times. At this ti
 
 > Bueno.<br> :date: __2020-06-07 10:29:20__
 
-> Genial<br> :date: __2020-06-06 18:38:02__
-
 
 
 #### 4-star reviews
@@ -145,6 +145,10 @@ The COVID-19.eus app has been installed by more than **50000** times. At this ti
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.erictelm2m.colabora 4 reviews"/>
 </p>
+
+> Si mandas una invitacion a un contacto y no tiene la aplicacion descargada, le da algun tipo de aviso para que se la descargue y acepte la invitacion?<br> :date: __2020-08-16 15:22:04__
+
+> Estaría bien que funcionara como el bizum, cuando quieres agregar alguien a un círculo que te indique los contactos que ya están registrados. Supongo que si algún conocido indica que es positivo la app te dirá que alguien de un círculo lo es, sin poner nombre ni ninguna información personal?<br> :date: __2020-08-11 16:48:36__
 
 > ,¿Por que los datos que muestra la aplicación de "positivos de ayer por PCR" no coinciden con los q pública el GV en sus datos diarios?<br> :date: __2020-08-02 18:03:37__
 
@@ -162,10 +166,6 @@ The COVID-19.eus app has been installed by more than **50000** times. At this ti
 
 > Tan solo era trasmitir la situación del día<br> :date: __2020-06-07 12:24:54__
 
-> No está mal dice que te orienta.<br> :date: __2020-06-07 11:23:23__
-
-> Buena<br> :date: __2020-06-07 11:11:45__
-
 
 
 #### 3-star reviews
@@ -173,6 +173,10 @@ The COVID-19.eus app has been installed by more than **50000** times. At this ti
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="com.erictelm2m.colabora 3 reviews"/>
 </p>
+
+> Cuando agregamos a un familiar, o amigo, aparece en el listado sólo el número de teléfono, con lo cual no sé a quién he añadido, puesto que actualmente no sabemos los números de teléfono de casi nadie. Tampoco admite números de fijos...<br> :date: __2020-08-15 11:19:16__
+
+> ninguno de mis contactos quiere instalarlo porque no quieren que los controlen. Así no hay manera de que esta app funcione correctamente.<br> :date: __2020-08-11 14:15:49__
 
 > No es muy intuitiva la verdad... Creo que no se está publicitando lo suficiente. Si la usamos 4 gatos, no va a servir de mucho. Yo me enteré y me la descargue porque me dijo mi hermano.<br> :date: __2020-07-22 00:58:53__
 
@@ -190,10 +194,6 @@ The COVID-19.eus app has been installed by more than **50000** times. At this ti
 
 > Debería permitir saber qué contactos la tienen instalada.<br> :date: __2020-06-07 10:46:12__
 
-> App en mejora. La verdad es que lo han actualizado constantemente y se agradece. Es funcional y útil si los de tu alrededor lo utilizan.<br> :date: __2020-06-07 10:33:23__
-
-> La aplicación está bien, el objetivo es muy positivo, pero mo sirve de nada si nadie de mi alrededor lo tiene. Sería mas fácil que la aplicación te añadirá directamente los contactos que tienen la app, y los pusiera en tú círculo. En vez de andar enviando y aceptando solicitudes. Tambien podría tener acceso a la localización para saber por donde ha andado.<br> :date: __2020-06-05 14:56:39__
-
 
 
 #### 2-star reviews
@@ -201,6 +201,8 @@ The COVID-19.eus app has been installed by more than **50000** times. At this ti
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="com.erictelm2m.colabora 2 reviews"/>
 </p>
+
+> Una aplicación bastante regular. En la última actualización ya no se puede saber cuántos usamos la app. La curva de datos y los boletines normalmente están desactualizados. No se ha publicitado lo suficiente, demasiado círculo para tan poco contacto. Pensando en desinstalarla<br> :date: __2020-08-14 12:15:22__
 
 > No sirve de mucho. Trabajo en el SAD, y lógicamente los usuarios a los que atiendo el 99% no tienen la app ni sabrían usarla. Por otro lado, no me ha llegado ninguna propuesta de aislamiento cuando en el círculo de mis hijas ha habido positivos y nos recomendaron por teléfono aislamiento mientras esperábamos los resultados (afortunadamente ellas han dado negativo). Vamos, que en mi trabajo puedo pillarlo sin enterarme y no saber de quién. Que no, que no sirve aunque la idea sea buena.<br> :date: __2020-08-01 12:52:55__
 
@@ -220,8 +222,6 @@ The COVID-19.eus app has been installed by more than **50000** times. At this ti
 
 > Yo doy a esta aplicación información diaria de mi estado. Para calcular mi riesgo la gente de mi entorno debe aportar su estado, pero no colabora por su propia decisión. Por tanto me sirve de poco.<br> :date: __2020-06-07 10:38:00__
 
-> No puedo incluir a nadie. Tengo un Xiaomi 8<br> :date: __2020-06-04 19:24:57__
-
 
 
 #### 1-star reviews
@@ -229,6 +229,10 @@ The COVID-19.eus app has been installed by more than **50000** times. At this ti
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="com.erictelm2m.colabora 1 reviews"/>
 </p>
+
+> No me entra paraimstalar<br> :date: __2020-08-14 16:34:46__
+
+> La instalé al principio de la pandemia, pensaba q iba a ser una buena opción y después de un mes la quité pq no servía para nada.<br> :date: __2020-08-14 01:08:27__
 
 > Los números de contagios son de hace 3 días, alguien puede decir para que sirve está información si no se actualiza?<br> :date: __2020-07-30 14:23:15__
 
@@ -245,9 +249,5 @@ The COVID-19.eus app has been installed by more than **50000** times. At this ti
 > No se si sirve de algo porque la ultima actualizacion me aparece con la fecha de la primera descarga. Algo pasa con la instalacion. Me dice que ha expirado, que "desinstale y vuelva a instalar," pero lo hago y sigue diciendo lo mismo. Que ocurre?<br> :date: __2020-06-28 15:50:50__
 
 > Me dice que tengo que actualizar y, después de borrarla y volver a descargar, me vuelve a decir lo mismo. La quito porque no sirve para nada.<br> :date: __2020-06-27 16:04:01__
-
-> Mala. No deja añadir los contactos a los círculos. El desarrollador @osakidetza.eus no responde los mails de problemas.<br> :date: __2020-06-18 11:12:42__
-
-> La app es nueva aún; 1-pensar en el colectivo sordo, cómo comunicar por escrito,no podemos por voz, etc 2-en vez de invitar a gente para agregarlos, mejor mostrar lista de los contactos que están usando la app.<br> :date: __2020-06-07 10:56:57__
 
 

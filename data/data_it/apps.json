@@ -4,62 +4,62 @@
         "store_country": "it",
         "store_lang": "it",
         "latest_crawled_version": "5.1",
-        "latest_crawl": 1596558248
+        "latest_crawl": 1597664937
     },
     {
         "id": "it.lispa.sire.app.mobile.allertalom",
         "store_country": "it",
         "store_lang": "it",
         "latest_crawled_version": "1.7.0",
-        "latest_crawl": 1596558254
+        "latest_crawl": 1597664946
     },
     {
         "id": "com.intellicare.covid",
         "store_country": "it",
         "store_lang": "it",
         "latest_crawled_version": "1.0.15",
-        "latest_crawl": 1596558255
+        "latest_crawl": 1597664955
     },
     {
         "id": "com.siciliasicura.app",
         "store_country": "it",
         "store_lang": "it",
         "latest_crawled_version": "7.5",
-        "latest_crawl": 1596558263
+        "latest_crawl": 1597664962
     },
     {
         "id": "it.adl.aslroma3.covid19.app",
         "store_country": "it",
         "store_lang": "it",
         "latest_crawled_version": "1.0.4",
-        "latest_crawl": 1596558269
+        "latest_crawl": 1597664969
     },
     {
         "id": "org.who.infoapp",
         "store_country": "it",
         "store_lang": "it",
-        "latest_crawled_version": "2.2.0",
-        "latest_crawl": 1596558274
+        "latest_crawled_version": "2.3.3",
+        "latest_crawl": 1597665110
     },
     {
         "id": "de.xikolo.openwho",
         "store_country": "it",
         "store_lang": "it",
         "latest_crawled_version": "3.4",
-        "latest_crawl": 1596558279
+        "latest_crawl": 1597665156
     },
     {
         "id": "it.ministerodellasalute.immuni",
         "store_country": "it",
         "store_lang": "it",
-        "latest_crawled_version": "1.3.0",
-        "latest_crawl": 1596558290
+        "latest_crawled_version": "1.3.1",
+        "latest_crawl": 1597665256
     },
     {
         "id": "it.regione.sardegna.autorizzazionicovid19",
         "store_country": "it",
         "store_lang": "it",
         "latest_crawled_version": "1.3.4",
-        "latest_crawl": 1596558298
+        "latest_crawl": 1597665337
     }
 ]

@@ -171,6 +171,14 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <img src="5_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 5 reviews"/>
 </p>
 
+> Funciona lindamente. Tem toda a informação disponível. O acesso é rápido, desde que já se tenha efetivado o registo na chave móvel digital, que nada tem a ver com esta aplicação, mas sim com um acesso seguro a todos os serviços da administração pública!<br> :date: __2020-08-14 13:39:47__
+
+> Boa<br> :date: __2020-08-07 17:16:51__
+
+> Excelente 5 estrelas<br> :date: __2020-08-06 20:58:03__
+
+> Se respeitar o próximo vale a pena disse<br> :date: __2020-08-05 15:12:09__
+
 > Boa<br> :date: __2020-07-20 21:14:55__
 
 > Boa<br> :date: __2020-07-07 14:04:32__
@@ -183,14 +191,6 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 
 > Muito fixe!<br> :date: __2020-05-25 01:47:57__
 
-> Excelente para consultar<br> :date: __2020-05-24 15:40:06__
-
-> É um excelente apetrecho que tem muita e boa actualização<br> :date: __2020-05-19 20:52:00__
-
-> Penso que é muito importante<br> :date: __2020-04-29 21:28:10__
-
-> Gosto<br> :date: __2020-04-28 20:35:44__
-
 
 
 #### 4-star reviews
@@ -198,6 +198,8 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 4 reviews"/>
 </p>
+
+> Fiz a instalação, acedi através da chave móvel digital e funcionou à primeira.<br> :date: __2020-08-05 21:42:20__
 
 > Agora que já consegui entrar com a ChaveMovelDigital (que não tinha activa) já funciona!!!!<br> :date: __2020-07-16 12:20:38__
 
@@ -217,8 +219,6 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 
 > como posso marcar consulta de saude horal?<br> :date: __2019-05-19 22:40:36__
 
-> Considero esta aplicação de grande utilidade.<br> :date: __2018-10-26 22:33:36__
-
 
 
 #### 3-star reviews
@@ -226,6 +226,8 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 3 reviews"/>
 </p>
+
+> Difícil, é nem sempre conseguimos atendimento<br> :date: __2020-08-05 13:09:26__
 
 > Pouca dificuldade a, aceder !<br> :date: __2020-06-26 20:16:31__
 
@@ -244,8 +246,6 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 > Não faz qualquer sentido a firma de introdução da data de nascimento. Perdi a conta às vezes que cliquei no écran. Vamos lá a ver se vale a pena a aplicação.<br> :date: __2019-10-05 19:28:13__
 
 > Nao é muito funcional. É confusa para o utente.<br> :date: __2019-10-03 13:04:49__
-
-> Marcação de consulta médico família é difícil a Apps assumir<br> :date: __2019-05-14 23:48:58__
 
 
 
@@ -283,6 +283,8 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <img src="1_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 1 reviews"/>
 </p>
 
+> Não se consegue entrar a não ser que se tenha um leitor de cartões<br> :date: __2020-08-06 14:37:20__
+
 > Para android mais antigo !????<br> :date: __2020-08-02 11:06:09__
 
 > Está app não serve para nada, não consigo usá-la<br> :date: __2020-07-31 14:21:45__
@@ -300,7 +302,5 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 > 😡😡😡😡<br> :date: __2020-06-24 15:47:21__
 
 > Não consigo entrar através cmd e nem consigo ajuda. Bastava o contato do tmv para confirmar através de mensagem a pass e ter acesso à aplicação. É impossível de se fazer algo com tanta burocracia<br> :date: __2020-06-19 23:40:32__
-
-> Típica aplicação do estado, inútil e que só serve pra dar tacho aos amigos do governo!<br> :date: __2020-06-19 13:44:43__
 
 

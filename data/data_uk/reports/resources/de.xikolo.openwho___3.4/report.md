@@ -165,6 +165,14 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 <img src="5_star_reviews_wordcloud.png" alt="de.xikolo.openwho 5 reviews"/>
 </p>
 
+> High level<br> :date: __2020-08-15 20:28:10__
+
+> So Good And Excellent<br> :date: __2020-08-14 11:27:53__
+
+> Great app...great information<br> :date: __2020-08-09 17:59:30__
+
+> Exellent learning app<br> :date: __2020-08-08 21:36:55__
+
 > Ok<br> :date: __2020-08-01 05:10:01__
 
 > Good<br> :date: __2020-07-30 12:19:26__
@@ -176,14 +184,6 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 > useful<br> :date: __2020-07-24 07:11:10__
 
 > Awesome<br> :date: __2020-07-20 17:00:32__
-
-> Best app for doctors<br> :date: __2020-07-18 17:01:19__
-
-> For me to get more information about openwho<br> :date: __2020-07-09 14:33:52__
-
-> Very nice<br> :date: __2020-07-08 07:49:46__
-
-> Exellent<br> :date: __2020-07-05 19:17:42__
 
 
 
@@ -249,6 +249,8 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 <img src="2_star_reviews_wordcloud.png" alt="de.xikolo.openwho 2 reviews"/>
 </p>
 
+> Unable to watch the video or download the video.<br> :date: __2020-08-08 15:29:04__
+
 > I can't open the certificate. Please help me out of this problem<br> :date: __2020-07-31 05:25:00__
 
 > It shows errors again and again,Can't sign in<br> :date: __2020-06-26 16:11:53__
@@ -275,6 +277,10 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 <img src="1_star_reviews_wordcloud.png" alt="de.xikolo.openwho 1 reviews"/>
 </p>
 
+> Ok<br> :date: __2020-08-10 23:31:14__
+
+> This is called an "Emergency" app but requires registration? Very disappointing.<br> :date: __2020-08-06 20:55:46__
+
 > unable to make account and register, also not able to login.<br> :date: __2020-08-04 11:59:45__
 
 > I can't Login no matter how much I try.<br> :date: __2020-07-04 14:19:09__
@@ -290,9 +296,5 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 > Dirty apps<br> :date: __2020-06-08 01:02:18__
 
 > Not sign in properly Many times error<br> :date: __2020-05-29 19:05:54__
-
-> Cannot access securely and info very unclear and cloudy<br> :date: __2020-05-28 05:01:52__
-
-> Not good at all, very bad<br> :date: __2020-05-25 06:20:08__
 
 

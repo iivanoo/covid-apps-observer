@@ -192,6 +192,8 @@ The Care19 Diary app has been installed by more than **10000** times. At this ti
 <img src="3_star_reviews_wordcloud.png" alt="com.proudcrowd.care 3 reviews"/>
 </p>
 
+> How long do the places you visit stay on the app? Mine seem to show maybe only previous 10 days.<br> :date: __2020-08-13 23:41:30__
+
 > It had gotten better at tracking my locations but since the last update it stopped all tracking.<br> :date: __2020-06-25 01:46:44__
 
 > Doesn't this app use the Contact Tracking System that Apple and Google developed?<br> :date: __2020-06-02 15:29:17__
@@ -242,6 +244,14 @@ The Care19 Diary app has been installed by more than **10000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="com.proudcrowd.care 1 reviews"/>
 </p>
 
+> Does not automatically track as it says it will. Also, I can enter manually in my phone but my wife's phone cannot manually input as the app freezes when she puts in date from calendar. Uninstalled and reinstalled the app but still have same problems.<br> :date: __2020-08-16 17:20:12__
+
+> utTý5hat's drive changes b<br> :date: __2020-08-14 22:35:18__
+
+> Edit: 8.10.20 Still same problems. If battery saver is issue, fix it. Update 6.27.20 - Tou can tell the developer(s) doesnt even use this app or they would know what we are talking about. You say it's just the way it is, no, you know how it's supposed to work, so find someone to make it work correctly. This app does not trace where I been going. It does not stay open in the background. When open, it does not show where I go or been since the 23rd. I restarted phone and reinstalled app on S9+<br> :date: __2020-08-11 03:56:40__
+
+> Uninstall. I didn't put it in<br> :date: __2020-08-04 19:20:34__
+
 > Doesn't do anything that Google Maps My Timeline can't do better. Maybe in a state with a competent health department it could. As I understand it in incompetent SC, it won't even do Bluetooth ID exchanges with other devices for contact tracing.<br> :date: __2020-07-30 01:57:38__
 
 > I am unable to add places I have been. Every time I try the app crashes. And the visits don't show up when they should. I have tried uninstalling and reinstalling more than once. This app is a lemon.<br> :date: __2020-07-26 21:59:16__
@@ -253,13 +263,5 @@ The Care19 Diary app has been installed by more than **10000** times. At this ti
 > Keeps stopping<br> :date: __2020-07-05 05:31:18__
 
 > this app is worthless<br> :date: __2020-07-03 21:11:21__
-
-> Not very helpful, only gets a few places. It's not getting any better. It's gotten to be a joke.<br> :date: __2020-07-03 03:45:42__
-
-> After multiple attempts, this app cannot determine my home location. Uninstalling.<br> :date: __2020-07-02 13:35:50__
-
-> Update 6.27.20 - Tou can tell the developer(s) doesnt even use this app or they would know what we are talking about. You say it's just the way it is, no, you know how it's supposed to work, so find someone to make it work correctly. This app does not trace where I been going. It does not stay open in the background. When open, it does not show where I go or been since the 23rd. I restarted phone and reinstalled app on S9+<br> :date: __2020-06-29 02:47:10__
-
-> Tried to update for about 30 minutes. Never got it to work.<br> :date: __2020-06-28 22:11:34__
 
 

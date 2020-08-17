@@ -200,25 +200,25 @@ The Luscii app has been installed by more than **50000** times. At this time, **
 <img src="5_star_reviews_wordcloud.png" alt="nl.focuscura.beeldbelapp 5 reviews"/>
 </p>
 
-> Fijn dat je in de gaten gehouden wordt<br> :date: __2020-08-03 18:01:37__
+> Deze app werkt prima!<br> :date: __2020-08-15 15:14:38__
 
-> Prima.<br> :date: __2020-08-02 10:33:19__
+> Doet wat het belooft<br> :date: __2020-08-14 09:24:33__
 
-> Bij vage klachten wordt er gelijk gereageerd met een uitgebreid advies.👍<br> :date: __2020-07-31 11:23:54__
+> Goed<br> :date: __2020-08-13 20:40:00__
 
-> Werkt goed en houd je gezondheid bij<br> :date: __2020-07-29 14:03:17__
+> Fijne trigger<br> :date: __2020-08-13 15:46:31__
 
-> Er is meteen contact als je iets bijzonders meldt, zelfs als de app t even niet doet.<br> :date: __2020-07-28 10:58:53__
+> Goed.en.nuttig.<br> :date: __2020-08-13 09:58:37__
 
-> Deze app, kan zeer waardevol zijn voor de persoon die hem gebruikt. Bij twijfel word je door een medewerker gebeld. Top, geweldig.<br> :date: __2020-07-25 19:26:28__
+> Simpel en makkelijk te bedienen<br> :date: __2020-08-12 12:35:14__
 
-> Goed stukje medisch gereedschap<br> :date: __2020-07-24 19:06:51__
+> Overzichtelijk<br> :date: __2020-08-10 12:37:03__
 
-> De app werkt goed. Echter ik mis de afwijkende klachten die zich kunnen voordoen zoals oogontsteking, bepaalde pijnklachten<br> :date: __2020-07-23 18:13:13__
+> De App is voor mij snel en duidelijk .<br> :date: __2020-08-09 17:27:39__
 
-> Duidelijke app,snelle communicatie<br> :date: __2020-07-23 09:07:38__
+> Heb er rust en tevreden over geworden<br> :date: __2020-08-07 21:12:19__
 
-> heel goed in te vullen niet moeilijk<br> :date: __2020-07-21 10:03:35__
+> Makkelijk in te vullen<br> :date: __2020-08-06 12:24:58__
 
 
 
@@ -227,6 +227,14 @@ The Luscii app has been installed by more than **50000** times. At this time, **
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="nl.focuscura.beeldbelapp 4 reviews"/>
 </p>
+
+> Gemakkelijk in gebruik.<br> :date: __2020-08-17 12:07:51__
+
+> Iets teveel mails om je te herinneren, kan soms wat vervelend zijn.<br> :date: __2020-08-13 10:49:52__
+
+> Super handig<br> :date: __2020-08-06 22:22:02__
+
+> Heel gemakkelijk om elke dag in te vullen<br> :date: __2020-08-05 10:58:35__
 
 > Goed voor je bewustzijn m.b.t. je eigen gezondheid en die van je omgeving.<br> :date: __2020-08-03 11:06:38__
 
@@ -239,14 +247,6 @@ The Luscii app has been installed by more than **50000** times. At this time, **
 > Makkelijk app om je gezondheid in de gaten te houden<br> :date: __2020-07-27 09:46:44__
 
 > Vlot<br> :date: __2020-07-25 01:11:08__
-
-> Bijzonderheden die in de aanmeldmail zijn ingevuld, komen niet terug in de app. Lichaamsgesteldheid en chronische aandoeningen zijn denk ik belangrijk voor de analyse of er in een vroeg stadium mondeling contact nodig is. App ondersteunt alleen iHealth apoaraten. Kijk ook eens naar andere merken, zoals BEURER.<br> :date: __2020-07-24 11:23:06__
-
-> Goede app<br> :date: __2020-07-23 11:22:31__
-
-> Moet mijn samsung A40 elke dag opnieuw opstarten om luscii te kunnen gebruiken.<br> :date: __2020-07-21 20:46:23__
-
-> Duidelijk.<br> :date: __2020-07-20 10:35:08__
 
 
 
@@ -284,6 +284,12 @@ The Luscii app has been installed by more than **50000** times. At this time, **
 <img src="2_star_reviews_wordcloud.png" alt="nl.focuscura.beeldbelapp 2 reviews"/>
 </p>
 
+> Het is wel even wennen! Het komt wel...<br> :date: __2020-08-10 20:59:45__
+
+> Zie geen feedback dus geen idee wat ik bijdraag of wat het voor mij doet<br> :date: __2020-08-10 12:39:02__
+
+> Onlogisch interface<br> :date: __2020-08-06 17:27:28__
+
 > Zinvolle app, hinderlijk dat na elke vraag resultaat verzonden wordt. Kan ook in 1 keer lijkt me.<br> :date: __2020-06-06 12:43:48__
 
 > Een beetje, meer of veel keelpijn? Hooikoorts verleden?<br> :date: __2020-06-04 05:11:30__
@@ -298,12 +304,6 @@ The Luscii app has been installed by more than **50000** times. At this time, **
 
 > Mate van klachten kun je niet aangegeven. Ik ook andere veelgehoorde klachten. Beste medewerker, De app heeft al dagen technische problemen. Ik verwijder 'm van mijn telefoon. Waarschijnlijk bent u gestopt met uw onderzoek.  Ook uw vragen zijn inmiddels achterhaald. Ben inmiddels al 4 weken ziek, zoals zo velen met mij. Ik had hier meer van verwacht. Jammer dat dit niet serieus wordt uitgevoerd.  Met vriendelijke groet, José ten Böhmer<br> :date: __2020-05-18 10:11:59__
 
-> Doet het regelmatig niet<br> :date: __2020-05-18 10:04:06__
-
-> Sinds gisteren kan ik weer niet in de app komen. Moet eerst mijn e mailadres invullen en dan komt de melding, er is iets fout gegaan.<br> :date: __2020-05-18 09:39:42__
-
-> Een app die niet werkt de-ïnstalleer ik in de regel meteen. Weg ermee! Maar deze, waar je elke dag je gegevens naartoe stuurt, schuif je natuurlijk niet zomaar terzijde. Een app die (mogelijk) cruciale data verzamelt en verzendt mag natuurlijk nooit falen. Misschien zijn nu al mijn ingevoerde gegevens verdwenen en heb ik voor Jan dinges meegedaan. Mocht dat zo zijn, dan was dit de 1e en laatste keer om mee te doen aan zo'n (voor mij althans) toch wel belangrijk meetinstrument, gelet op mijn fragiele gezondheid. Het kan trouwens niet bestaan dat deze app al enkele dagen eruit ligt. Er moet toch érgens een bel zijn afgegaan dat er géén meetgegevens meer binnenkomen? Ik meende dat dit professionals zijn/waren. Ik heb nu toch wel ernstige twijfels<br> :date: __2020-05-17 15:29:26__
-
 
 
 #### 1-star reviews
@@ -312,7 +312,7 @@ The Luscii app has been installed by more than **50000** times. At this time, **
 <img src="1_star_reviews_wordcloud.png" alt="nl.focuscura.beeldbelapp 1 reviews"/>
 </p>
 
-> Hebt als een van de eerste de app in gebruik. Artsen vroegen mij via mail om meer medische informaties. Het terugantwoord luidde, wij zijn slechts de ontwikkelaars en kunnen u niet verder helpen. Het telefoonnummer verwijst naar een arts. Maar die is nooit bereikbaar. Na 8 maanden gebruik heb ik de app verwijderd óók omdat de app maar 4 landen noemt voor hulp. Als jij niét in een genoemd land woont krijg je nooit hulp. NIET DOWNLOADEN DIE APPLICATIE 😱 😭<br> :date: __2020-07-25 14:39:39__
+> NIET DOWNLOADEN DEZE APP. JE KRIJGT GEEN HULP 😟😰😱😩😱😭 EN ANTWOORD ☹😟😭 Hebt als een van de eerste de app in gebruik. Artsen vroegen mij via mail om meer medische informaties. Het terugantwoord luidde, wij zijn slechts de ontwikkelaars en kunnen u niet verder helpen. Het telefoonnummer verwijst naar een arts maar díe is nooit bereikbaar. Na 8 maanden gebruik heb ik de verwijderd óók omdat de app maar 4 landen noemt voor hulp. Als jij niét in een genoemd land woont krijg je nóóit hulp 😱😭<br> :date: __2020-08-06 17:29:21__
 
 > App werkt niet meer<br> :date: __2020-07-11 10:16:02__
 

@@ -150,6 +150,10 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 <img src="5_star_reviews_wordcloud.png" alt="au.gov.health.covid19 5 reviews"/>
 </p>
 
+> Excellent up to date information. Great initiative and helpful<br> :date: __2020-08-09 02:10:05__
+
+> It seems to work as designed 😷🤸<br> :date: __2020-08-06 10:18:45__
+
 > Excellent News and updates sent to you and the information contained herein is helpful and informative 👍<br> :date: __2020-08-03 02:50:31__
 
 > It's states 'unable to load lastest updates. Pushing 'try again doesnt work'. I've reinstalled it and same problem. Thanks for creating an app even if it's a mobile wrapper at short notice. I've got WhatsApp information working so that still helpful.<br> :date: __2020-07-30 08:42:47__
@@ -165,10 +169,6 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 > Good information in the links. It was great for registering my isolation.<br> :date: __2020-06-29 00:49:18__
 
 > I don't think that I do not know anyone with these viruses....thirty five given star's for each of all of the features....<br> :date: __2020-06-27 08:53:35__
-
-> It does what it's meant to<br> :date: __2020-06-19 04:05:19__
-
-> Helping keep me safe and therefore other people are kept safe<br> :date: __2020-06-17 06:09:53__
 
 
 
@@ -262,6 +262,10 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 <img src="1_star_reviews_wordcloud.png" alt="au.gov.health.covid19 1 reviews"/>
 </p>
 
+> Very little news from the app, but a lot happening in Australia.<br> :date: __2020-08-09 13:41:30__
+
+> Info is days out of date, making this app useless. At a time when we need up to the minute info, this is woeful. It contributes to people doing the wrong thing.<br> :date: __2020-08-05 05:56:22__
+
 > Poor, installed for first time. Did not load. Did bot work<br> :date: __2020-08-03 18:24:02__
 
 > App doesn't load. Says can't get latest info.<br> :date: __2020-08-03 17:21:19__
@@ -277,9 +281,5 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 > A great idea but shame we have the morons out of touch with reality running the states and country! I had this installed but with restrictions continuing no point continuing with this app!<br> :date: __2020-07-11 04:39:49__
 
 > Absolute rubbish<br> :date: __2020-07-10 12:00:01__
-
-> Often features are just links to external websites. The stats are so bad (they should include days since last community transmission and also have a running tally of how many new cases were reported each day since the beginning and also break that up by state. Total cases is not very informative especially if you don't know previous totals in the past<br> :date: __2020-07-10 05:22:54__
-
-> Has notifications pop up that appear important but when you tap on them, you are taken to the main page and I am never able to read the notification. Can you please have an option to read notifications or else not send them to my phone. Thank you.<br> :date: __2020-07-06 13:14:33__
 
 

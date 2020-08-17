@@ -126,6 +126,8 @@ The Corona Check Screening app has been installed by more than **5000** times. A
 <img src="5_star_reviews_wordcloud.png" alt="com.coronacheck.haugxhaug.testyourcorona 5 reviews"/>
 </p>
 
+> Super app<br> :date: __2020-08-09 18:19:53__
+
 > Praktisch<br> :date: __2020-07-02 14:52:21__
 
 > hildegard w Sabine orthopadie<br> :date: __2020-06-25 18:19:41__
@@ -144,8 +146,6 @@ The Corona Check Screening app has been installed by more than **5000** times. A
 
 > Tolles Design. Einfache Bedienung. Voll und ganz zufrieden 👍<br> :date: __2020-06-08 16:05:56__
 
-> Nützlich<br> :date: __2020-06-05 09:35:48__
-
 
 
 #### 4-star reviews
@@ -153,6 +153,8 @@ The Corona Check Screening app has been installed by more than **5000** times. A
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.coronacheck.haugxhaug.testyourcorona 4 reviews"/>
 </p>
+
+> Hut ab. Hier werden auch die restlichen 3% der älteren Android-Versionen bedient, die SAP und Konsorten nicht bedienen möchte. Mag es an Akkuleistung oder ähnlichem liegen. Egal, das Teil hier läuft.<br> :date: __2020-08-07 03:36:35__
 
 > Zum Glück habe ich das Screening noch nicht gebraucht. Aber der News-Ticker mit den Links und Verweisen ist mir sehr willkommen, gute Informations-Quelle. Die Tipps eine sehr gute Ergänzung. Gut gemacht, weiter so!<br> :date: __2020-06-19 16:37:52__
 
@@ -192,8 +194,6 @@ The Corona Check Screening app has been installed by more than **5000** times. A
 
 > Diese App hat NICHTS mit der Corona warn app der Bundesregierung zu tun. Diese App möchte bewusst fälscherweise diesen Eindruck erwecken um an Daten zu kommen.<br> :date: __2020-06-16 23:42:15__
 
-> Achtung Fake! Das hier ist nicht die App der Regierung. Die richtige App ist von RKI und heißt Corona-warn-App<br> :date: __2020-06-16 21:19:35__
-
 > Mir fehlen die Worte<br> :date: __2020-06-16 21:06:56__
 
 > Die App wurde installiert. Es wurde versucht die Neuigkeiten zu lesen. Die App sagt, dass ohne Internetverbindung keine Neuigkeiten zur Verfügung stünden. Zwischenzeitlich wurde das Internet nicht ausgeschaltet. Wie kann es sein, dass einem mitgeteilt wird, dass man ohne Internetverbindung keine Neuigkeiten zur Verfügung hat obwohl man Internet geschaltet hat weil einen Wimpernschlag zuvor man diese App installiert hat? Fazit: SCHROTT Diese App ist noch nicht mal einen einzigen Stern wert<br> :date: __2020-06-16 15:55:03__
@@ -207,5 +207,7 @@ The Corona Check Screening app has been installed by more than **5000** times. A
 > Reinste Daten sammel Maschine selbst meine viren Schutz App hat diese app als riskant und gefährlich eingestuft Warnungen waren Daten Sicherheit und eventuell Malware Zum Glück wurde die app von der App gleich gelöscht<br> :date: __2020-06-15 19:55:00__
 
 > Um weiterhin allgemeine Sicherheit und Stabilität zu gewährleisten wird die Republik umgestaltet werden, und zwar zum ersten galaktischen Imperium. ZUM WOHLE UND NUTZEN EINER STABILEN UND SICHEREN GESELLSCHAFT.<br> :date: __2020-06-15 13:31:27__
+
+> Eine App die sehr fragwürdig ist. Was hat corona mit meiner Schulbildung zu tun? Warum will sie auf meinen Standort zugreifen wenn sie doch nicht auf tracking basiert? Finger weg von der App, die wollen nur Daten sammeln.<br> :date: __2020-06-15 12:05:15__
 
 

@@ -133,6 +133,16 @@ The Canada COVID-19 app has been installed by more than **100000** times. At thi
 <img src="5_star_reviews_wordcloud.png" alt="ca.gc.hcsc.canada.covid19 5 reviews"/>
 </p>
 
+> Great use of plain language, and app is easy and helpful.<br> :date: __2020-08-16 22:29:40__
+
+> Locked down like in prison A place I've never been yet I've walked my file m floor for 6 mother Months And I made it!!!!<br> :date: __2020-08-14 01:34:57__
+
+> Effective and secure<br> :date: __2020-08-10 06:43:25__
+
+> Very informative and helpful<br> :date: __2020-08-09 14:22:19__
+
+> It does what it needs to do well<br> :date: __2020-08-06 09:26:08__
+
 > Retired computer programmer here. I've reviewed the Apple-Google algorithm this app is based on and this app has excellent privacy. For those asking excellent questions about why it does not give more information about what is going on in your area, or why it does not link to your Contacts, the answer is privacy. This only know your province if you decide to manually tell it that info. Beyond that it has no idea where you've been or when you've been. Girl friends, boy friends, bars, clubs, moonlighting jobs, strange churches, political groups -- whatever -- this app does not know and cannot tell. People wanted privacy, that is privacy! Similarly with contacts. All the app knows are the random numbers of different phones it has been within 2 meters of for 15 minutes or more (I think they can adjust that). No names, no telephone numbers, no nothing that can identify people. Again, people wanted privacy and that is what we have here, privacy! Symptoms other people have in the area? Two parts to that: 1. One is that the symptoms of other people in your area might not be the symptoms you'll have. If it told you what symptoms other people in your area had this week -- the mismatch between them and you could cause you to ignore you infection until it is too late. Better that you simply be notified to call your provincial medical help number, and they can discuss with you any symptoms you have already and what to do next. 2. Privacy. The more questions the app asks, the more privacy-oriented people will complain. And you think they won't complain? People will complain about anything. If not something that concerns them, then they'll steal the 'agency' of someone else, steal their voice, and complain on their behalf. For example: a. People are complaining it won't work on phones more than 5 years old that do not have Bluetooth. It is not their phones they're worried about, it is "other people's phones, old folks, indigenous people, poc, etc." b. I'm an "old folk". Most of my fellow oldies have new phones, purchased 1 or 2 years ago when CDMA and GSM networks stopped working. I've heard of one senior whose phone is too old. And her phone is so old she can't get a signal sitting in a coffee shop 1/8 of a mile from a cell tower. Half the towers or more just do not carry the frequency for her old G3 phone. We seniors are able to stay home much more easily. We have our CPP (and hopefully a second pension). We don't have to go out to work. A lot of us are in nursing homes. We have less need for this app than people who are out and about working with the public and socializing with strangers. Covid contact is less a problem for us than the endless loneliness. c. Indigenous people, poc, disabled -- I fit in here and again I'm unhappy about others stealing our agency and speaking for us. There complaint is based on the old dangerous stereotype of white people saying non-white people are all poor. They are not all poor. And those that cannot work due to disability or do not work due to children, are generally like us seniors, they have an easier time of sheltering at home. d. I would be more worried about the working poor who deal with the general public. Race, sex, gender, and whatever does not come into it. +++ Those who are working poor and doing jobs like sale clerk or ticket taker -- coming in contact with dozens of strangers every day -- maybe those people should be given phones by the government. But that is not an issue with this app; that is something separate for the government to do. +++ e. THIS IS THE MAIN THING: An app that would provide notifications without using Bluetooth would have to trace our movements to work. There would be no other way. It would have to invade everyone's privacy. +++ This app is not perfect in everyone's opinion. No app will ever be perfect in everyone's opinion. BUT this app delivers maximum privacy while still doing the job of notifying us of covid contacts with minimum overhead load on our computers. +++<br> :date: __2020-08-04 08:56:31__
 
 > Easy to use and to input daily symptoms. The purpose for the lack on contact tracing is to ensure privacy concerns on personal data.<br> :date: __2020-08-02 18:57:46__
@@ -143,16 +153,6 @@ The Canada COVID-19 app has been installed by more than **100000** times. At thi
 
 > Okay<br> :date: __2020-08-01 05:32:36__
 
-> Easy peasy. No issues, hope I never have it contact me but if at risk would rather know.<br> :date: __2020-08-01 01:17:40__
-
-> The app does its job. THIS IS NOT A CONTACT-TRACING APP. You're looking for COVID-Alert, which is in beta phase. I am using it right now. Do not give a low rating because you don't know how to read.<br> :date: __2020-07-29 07:23:52__
-
-> Great experience, I like to know everything that happened in the world and good news and the bad<br> :date: __2020-07-26 01:27:31__
-
-> Impressed 🖖<br> :date: __2020-07-25 03:50:03__
-
-> great info soutce<br> :date: __2020-07-14 15:20:29__
-
 
 
 #### 4-star reviews
@@ -160,6 +160,8 @@ The Canada COVID-19 app has been installed by more than **100000** times. At thi
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="ca.gc.hcsc.canada.covid19 4 reviews"/>
 </p>
+
+> The app doesn't let you know if you come in contact with someone who has C0VID19. This needs improvement. Otherwise it's a good app.<br> :date: __2020-08-16 08:19:12__
 
 > Its pretty cool but i kinda wish it had it so you can see what are other peoples symptoms are in your area for people using the app.. kinda how snapchat has snap spots in your area. Other then that pretty cool.<br> :date: __2020-08-02 18:40:50__
 
@@ -178,8 +180,6 @@ The Canada COVID-19 app has been installed by more than **100000** times. At thi
 > Easy to use and provide a useful health information.<br> :date: __2020-05-17 04:25:48__
 
 > I like the fact that you've jumped on board with making an app for this situation I give you two thumbs up it is informative but needs to have a little more<br> :date: __2020-05-05 03:39:19__
-
-> Good app! I am NOT impressed with how the classes keep changing to keep BC and AB in the same class! They are NOT having similar numbers, no matter how the classes are changed!<br> :date: __2020-05-04 21:13:09__
 
 
 
@@ -217,6 +217,10 @@ The Canada COVID-19 app has been installed by more than **100000** times. At thi
 <img src="2_star_reviews_wordcloud.png" alt="ca.gc.hcsc.canada.covid19 2 reviews"/>
 </p>
 
+> Good<br> :date: __2020-08-11 04:03:41__
+
+> Pretty useless for the user The app is nothing but a questionnaire that might help Health Canada from volunteer self evaluators, but shows no live data of infection risk around me like the Arogya Setu App from India. Privacy superceded public health.<br> :date: __2020-08-06 05:42:16__
+
 > Why does it need access to photos?<br> :date: __2020-08-01 11:55:35__
 
 > Relies on self report instead of anonymized health unit data - very limited usefulness.<br> :date: __2020-07-31 20:33:48__
@@ -233,10 +237,6 @@ The Canada COVID-19 app has been installed by more than **100000** times. At thi
 
 > The Johns Hopkins website has much more current data about Canada, which is disconcerting. Otherwise it's nothing but advice to stay home and wash your hands. Good advice, but no data = not useful. Edit: Kept it on my phone in case it became more useful. It didn't. Have now deleted it.<br> :date: __2020-05-15 16:44:33__
 
-> Good Not great but thank you!<br> :date: __2020-04-18 01:02:10__
-
-> You are missing the most important number The number of resolved cases People seeing the number of cases where people have pulled through gives us hope<br> :date: __2020-04-14 12:41:43__
-
 
 
 #### 1-star reviews
@@ -245,6 +245,18 @@ The Canada COVID-19 app has been installed by more than **100000** times. At thi
 <img src="1_star_reviews_wordcloud.png" alt="ca.gc.hcsc.canada.covid19 1 reviews"/>
 </p>
 
+> We were instructed to install this to help with contact tracing. 2 months after install i was prompted to install another app called covid alert, meaning that I was using this app for nothing... the functionality should have been integrated as one app not two. It's a waste of taxpayers money to do development this way.<br> :date: __2020-08-13 20:06:36__
+
+> Irresponsible app. This is NOT the tracker app. Get that app instead. I thought I had the tracker app when I'd installed this app BUT I WAS WRONG. This app should not be in the Google Play Store (anymore)! There should be only one Government of Canada app. This app should be merged with the other app! Update. If I could give this app a negative I would. It just generated a notification for 'acts of kindness'. If you really want to be kind, don't ever sully a health app with social media garbage<br> :date: __2020-08-11 20:10:11__
+
+> Kills cell battery.<br> :date: __2020-08-10 20:42:28__
+
+> Absolute JUNK! Nothing but a glorified government tracking device to keep tabs on the population<br> :date: __2020-08-08 17:26:44__
+
+> The app does not allow a transit or waking app to run, as it must be blocking access to GP's.<br> :date: __2020-08-07 20:09:26__
+
+> Even if you have no symptoms it recommends self quarantine for 2 weeks.<br> :date: __2020-08-04 21:52:10__
+
 > What a mess! Just put this on a website. This is app is a waste of time and taxpayer dollars.<br> :date: __2020-08-03 20:33:31__
 
 > This app should be removed from the play store. It is what comes up when I search for Covid Alert, the official Canadian Covid alert app. I installed this, and didn't realize I was not 'protected' and wouldn't get notifications if I became a contact of someone who has tested positive. Thankfully, out of curiosity, I was checking out how many connections my phone had made with other phones and discovered I didn't have the app I thought I had.<br> :date: __2020-08-03 19:21:33__
@@ -252,17 +264,5 @@ The Canada COVID-19 app has been installed by more than **100000** times. At thi
 > Governement gab Lots of stuff, but impossible to navigate decently. No clear instructions or helpfull tips/guidance<br> :date: __2020-08-01 05:59:04__
 
 > It seems like this app tracks your movements and steals personal your information you cant trust the Trudeau government.<br> :date: __2020-07-31 17:44:37__
-
-> Don't like<br> :date: __2020-07-29 22:44:09__
-
-> No tracking<br> :date: __2020-07-29 05:27:17__
-
-> Installed app twice, loads first time and then crashes every time after that.<br> :date: __2020-07-24 22:46:07__
-
-> Useless. The app doesn't take advantage of contact tracing making this just an alternative for information and basic surveys which the government could have had on a website.<br> :date: __2020-07-24 21:35:15__
-
-> Very bad app. Features an embedded website for stat tracking.........<br> :date: __2020-07-24 03:45:34__
-
-> Doesn't support contact tracing, at least Google says so in the settings.<br> :date: __2020-07-08 14:48:53__
 
 

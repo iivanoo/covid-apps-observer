@@ -152,6 +152,8 @@ The CRUSH COVID RI app has been installed by more than **10000** times. At this 
 <img src="5_star_reviews_wordcloud.png" alt="com.ri.crushcovid 5 reviews"/>
 </p>
 
+> Great App<br> :date: __2020-08-13 03:47:45__
+
 > I think its Great, I love it.<br> :date: __2020-07-12 18:48:06__
 
 > Easy to use.<br> :date: __2020-07-12 14:55:30__
@@ -170,8 +172,6 @@ The CRUSH COVID RI app has been installed by more than **10000** times. At this 
 
 > Thanks for help<br> :date: __2020-05-23 17:24:32__
 
-> App works great. No problem with wifi nor data. People having problem need to give permission to the app in order to work.<br> :date: __2020-05-20 04:28:11__
-
 
 
 #### 4-star reviews
@@ -179,6 +179,8 @@ The CRUSH COVID RI app has been installed by more than **10000** times. At this 
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.ri.crushcovid 4 reviews"/>
 </p>
+
+> more f<br> :date: __2020-08-06 01:07:34__
 
 > Kudos to the state and the developers for working to put this out. Maybe needs some improvements but none I can suggest. Last update was great allowing us to add names to location diary.<br> :date: __2020-07-13 23:21:21__
 
@@ -198,8 +200,6 @@ The CRUSH COVID RI app has been installed by more than **10000** times. At this 
 
 > Happy with it, but wish it had: - lower battery drain - visual display of location tracing Thanks!<br> :date: __2020-06-08 19:14:53__
 
-> In principle it's great. The developer need to patch a few things, though. Also, it doesn't do passive tracking so either the app is open and running or it won't do anything<br> :date: __2020-06-04 14:38:07__
-
 
 
 #### 3-star reviews
@@ -207,6 +207,8 @@ The CRUSH COVID RI app has been installed by more than **10000** times. At this 
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="com.ri.crushcovid 3 reviews"/>
 </p>
+
+> Cannot get contact tracing in Crush Colvid<br> :date: __2020-08-10 20:35:33__
 
 > Not totally accurate<br> :date: __2020-07-16 21:44:22__
 
@@ -226,8 +228,6 @@ The CRUSH COVID RI app has been installed by more than **10000** times. At this 
 
 > Connect to sarahlandry coronavirous<br> :date: __2020-06-11 01:25:17__
 
-> Meaningless precision and poor accuracy. Maybe new version is better.<br> :date: __2020-06-09 11:00:28__
-
 
 
 #### 2-star reviews
@@ -235,6 +235,8 @@ The CRUSH COVID RI app has been installed by more than **10000** times. At this 
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="com.ri.crushcovid 2 reviews"/>
 </p>
+
+> The location is not accurate most of the time. And everytime I try to submit how I feel today, I get an error. I wish it would let you edit the location<br> :date: __2020-08-06 13:28:54__
 
 > Doesnt work. Keeps saying I'm not connected to the internet. Data and location settings are correct.<br> :date: __2020-07-31 18:42:15__
 
@@ -254,8 +256,6 @@ The CRUSH COVID RI app has been installed by more than **10000** times. At this 
 
 > I've had this app on my phone for about a month now and I assumed it was keeping track of where I go, apparently that isn't the case because it's only showing two places in a month which is wrong. I also stopped keeping a contact diary after downloading the app and now I will have a hard time remembering everywhere I've been the past month. Luckily I stay home a lot more than I used to but it's not showing any markets or stores I've been to. I think I'm just going to delete the app.<br> :date: __2020-06-29 20:04:33__
 
-> I had the app when it first came out and it worked fine until 3 weeks ago then it stopped tracking me. I just got a new Note 10 and it won't let me finish setting it up . Won't respond on last page of setup to allow it to track, etc. So I uninstalled it and am going to try to install it again<br> :date: __2020-06-19 20:44:25__
-
 
 
 #### 1-star reviews
@@ -263,6 +263,12 @@ The CRUSH COVID RI app has been installed by more than **10000** times. At this 
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="com.ri.crushcovid 1 reviews"/>
 </p>
+
+> PLEASE REFACTOR LOCATION TRACKING! Perhaps the sensing approach met privacy goals, battery drain etc., but it's not delivering and some courage is needed (leadership) to face the reality and use or license someone else's proven working tracing approach. (And having to load app manually and keep in a foreground process all the time is plain daffy! When I happen to remember and do it, the location data it gathers is more wrong than right...)<br> :date: __2020-08-16 17:20:13__
+
+> Racist fear mongering app<br> :date: __2020-08-08 17:43:15__
+
+> Didnt work<br> :date: __2020-08-06 19:57:23__
 
 > Not recording anything<br> :date: __2020-07-26 22:25:27__
 
@@ -277,11 +283,5 @@ The CRUSH COVID RI app has been installed by more than **10000** times. At this 
 > Failed to save my data<br> :date: __2020-07-18 18:48:21__
 
 > This app is not accurate at all. It will put you two miles from your actual location. It had me at an elementary school in Coventry when I was at Walgreens in West Warwick. When I am home it says I'm in Barrington on the other side of the bay. I'm pretty sure accuracy is important.<br> :date: __2020-07-16 20:27:29__
-
-> Doesn't work with VPN<br> :date: __2020-07-13 19:07:21__
-
-> Tracking function is useless. Too inaccurate to be at all helpful.<br> :date: __2020-07-12 17:23:59__
-
-> Now when i look at my location diary i am not even where it says if you go by this half of RI would be in quarenteen Took app on my phone pen and paper is accurate and doesnt use my battery for no reason<br> :date: __2020-07-12 13:24:36__
 
 

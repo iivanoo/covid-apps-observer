@@ -150,6 +150,10 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="org.madrid.CoronaMadrid 5 reviews"/>
 </p>
 
+> Me la acabo de instalar<br> :date: __2020-08-10 11:40:23__
+
+> Aún no le he usado, pero parece efectiva.<br> :date: __2020-08-08 18:45:23__
+
 > Muy controlado<br> :date: __2020-07-24 00:04:41__
 
 > Sencilla de utilizar y muy útil<br> :date: __2020-07-13 15:36:55__
@@ -165,10 +169,6 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 > En el centro de salud calle odonell no les dio la gana de hacerlo.con una oscultacion de 1 minuto la dictora ya te decia que no tenias nada .soy de riesgo y cronico .diabetico y con cancer como se explica esa actuacion tengo el nombre de la doctora si me pasa algo esta todo grabado .<br> :date: __2020-05-18 16:20:48__
 
 > Mejorarla, meter más opciones de diagnóstico.<br> :date: __2020-05-09 17:01:13__
-
-> Es una app estupenda para este momento<br> :date: __2020-05-01 13:22:48__
-
-> Aplicación de control del virus, correcta<br> :date: __2020-04-29 14:49:30__
 
 
 
@@ -206,6 +206,8 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 <img src="3_star_reviews_wordcloud.png" alt="org.madrid.CoronaMadrid 3 reviews"/>
 </p>
 
+> Deberían actualizar las recomendaciones. Según la aplicación la mascarilla no es obligatoria....<br> :date: __2020-08-16 16:37:20__
+
 > Debería actualizarse la información relacionada con la obligatoriedad de llevar mascarilla en todos los casos desde el pasado 30 de agosto.<br> :date: __2020-08-02 14:27:19__
 
 > La fecha de nacimiento debería poder teclearse. Podria dejar incluir resultado de una prueba de Covid.<br> :date: __2020-07-23 00:49:34__
@@ -224,8 +226,6 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 
 > Estaria bien que pudieses cambiar en vez de madrid de donde tu seas<br> :date: __2020-04-06 17:04:21__
 
-> donde te pregunta de escalofrios o el dolor del cuerop/muslos.......muy pesima la aplicacion...otra vez enganados por el estado.....verguenza ....en estta situation se burlean de la population....<br> :date: __2020-04-02 10:22:37__
-
 
 
 #### 2-star reviews
@@ -233,6 +233,8 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="org.madrid.CoronaMadrid 2 reviews"/>
 </p>
+
+> No la veo ninguna utilidad, pero espero que alguien le valga para algo<br> :date: __2020-08-05 13:11:10__
 
 > No hace falta pedir registro para esto<br> :date: __2020-08-03 12:12:42__
 
@@ -252,8 +254,6 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 
 > La idea de la app es buena. Pero sabiéndose que hay otros síntomas de la enfermedad y que estos no se encuentran en las opciones, se resulta un tanto ineficaz para un real control.<br> :date: __2020-04-11 20:34:07__
 
-> Por qué no aparece la anosmia como un sintoma si la incidencia es muy alta?<br> :date: __2020-04-11 18:25:41__
-
 
 
 #### 1-star reviews
@@ -262,24 +262,24 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="org.madrid.CoronaMadrid 1 reviews"/>
 </p>
 
+> malísima, menudos ineptos los desarrolladores, no puedes buscar centros de salud por dirección, solo en modo mapa, incompetentes total. después no hay botón para salir de la aplicación, como sois tan zopencos.<br> :date: __2020-08-16 11:56:56__
+
+> Ni siquiera se abre, da error.<br> :date: __2020-08-12 21:33:34__
+
+> Muy mejorable<br> :date: __2020-08-12 21:18:12__
+
+> No me sirve de nada si no me informa de posibles contactos<br> :date: __2020-08-11 21:41:28__
+
+> desinstalada, para poner la fecha de nacimiento y en vez de poner tres ruedas con los diferentes números y así poner la fecha de nacimiento, colocan el Lumbreras del desarrollador un calendario por hojas si tienes qué volver atrás 40 años desde la fecha qué instalas la app te tiras toda la tardecita y eso me dice mucho sobre la efectividad de la app, claro qué sabiendo los qué están gestionando la pandemia en Madrid pués puede pasar cualquier cosa, panda de inútiles.. no hacen una cosa bien..<br> :date: __2020-08-09 14:26:37__
+
+> Una aplicación q no sirve para nada. Una estafa si pagaron por crearla. No ayuda en nada conozco mejores opciones de rastreo.<br> :date: __2020-08-06 14:21:19__
+
+> Nefasto. Vivo en Valdemoro, cp 28341 y dice que no existe. Esta app la han hecho canis o cayetanos a dedo???<br> :date: __2020-08-05 13:15:02__
+
 > O no he entendido para que sirve o es una patata...<br> :date: __2020-08-04 13:49:59__
 
 > Es tan inútil como la retrasada de Ayuso<br> :date: __2020-08-02 11:26:09__
 
 > Alguien ha conseguido poner la fecha de nacimiento? Habéis pagado por esto?<br> :date: __2020-07-31 22:32:42__
-
-> Esta aplicación (al igual que TODAS las que han desarrollado otras Comunidades Autónomas, si no me equivoco) no es compatible con el sistema de Notificaciones de Exposición de Google, por lo que es total y absolutamente inútil. Desinstalada.<br> :date: __2020-07-28 23:39:12__
-
-> Tengo 63 años para poner mi edad me he quedado dormido, hay que pasar pantalla una a una por mes, hasta llegar a la fecha de nacimiento.<br> :date: __2020-07-20 23:51:55__
-
-> Para poner tu fecha de nacimiento, tienes que ir bajando mes a mes desde hoy, hasta el día que naciste... A quién se le ha ocurrido?<br> :date: __2020-07-01 15:31:50__
-
-> Penosa app, se rien en tu cara con esto, gobierno corrupto...<br> :date: __2020-07-01 10:50:27__
-
-> Aplicación muy básica y prácticamente inútil. No es nada de lo que debiera ser una aplicación de este tipo.<br> :date: __2020-06-17 22:13:05__
-
-> Inutil<br> :date: __2020-06-09 08:48:31__
-
-> A fecha de hoy sigue sin recomendar la mascarilla cuando es de uso obligatorio. NO vale ni para las recomendaciones. Una pena que se gasten tanto dinero y no haya un mantenimiento diario de la aplicación.<br> :date: __2020-06-08 13:41:12__
 
 

@@ -166,6 +166,8 @@ No recent reviews available with 4 stars.
 <img src="2_star_reviews_wordcloud.png" alt="com.ambulis.aphm.covid 2 reviews"/>
 </p>
 
+> Pareil que l'autre<br> :date: __2020-08-11 02:14:19__
+
 > Tres nul pour le chargement<br> :date: __2020-05-25 20:36:22__
 
 

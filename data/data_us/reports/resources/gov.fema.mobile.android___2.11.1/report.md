@@ -221,6 +221,8 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 <img src="3_star_reviews_wordcloud.png" alt="gov.fema.mobile.android 3 reviews"/>
 </p>
 
+> No notification alarm!!<br> :date: __2020-08-13 18:12:50__
+
 > where's the warnings I used to get<br> :date: __2020-06-24 02:29:53__
 
 > The back button does not exit the app.<br> :date: __2020-06-09 16:17:55__
@@ -238,8 +240,6 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 > The good: Timely alerts, often well ahead of other apps. Seems lightweight and works ok on throttled cellular. The bad: Alerts seem to be only accessible from the notification? Devs please advise/patch.<br> :date: __2019-12-02 12:53:29__
 
 > No notification on<br> :date: __2019-11-08 13:38:22__
-
-> disappointed would be helpful if you listed citizen corps. And ways to expand and improve readiness. Most e.m.a. offices have no knowledge of getting volunteers for natural disasters in Illinois, and I have a feeling they don't care<br> :date: __2019-09-02 21:56:27__
 
 
 

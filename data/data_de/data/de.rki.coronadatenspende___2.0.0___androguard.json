@@ -1,0 +1,20 @@
+{
+    "permissions": [
+        "android.permission.FOREGROUND_SERVICE",
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        "android.permission.WAKE_LOCK",
+        "android.permission.ACCESS_WIFI_STATE",
+        "android.permission.INTERNET",
+        "android.permission.ACCESS_NETWORK_STATE"
+    ],
+    "activities": [
+        "com.thryve.datenspendeausweis.MainActivity",
+        "io.flutter.plugins.urllauncher.WebViewActivity",
+        "com.google.android.gms.common.api.GoogleApiActivity"
+    ],
+    "urls": [
+        "http://schemas.android.com/apk/res/android",
+        "https://plus.google.com/",
+        "https://hub.samsungapps.com/product/appCheck.as?"
+    ]
+}

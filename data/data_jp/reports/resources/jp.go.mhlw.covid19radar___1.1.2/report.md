@@ -156,6 +156,8 @@ The COCOA - COVID-19 Contact App app has been installed by more than **1000000**
 <img src="5_star_reviews_wordcloud.png" alt="jp.go.mhlw.covid19radar 5 reviews"/>
 </p>
 
+> Simple to use and doesn't need personal information. I wish more people would use it so we could prevent the spread of covid19<br> :date: __2020-08-06 07:19:15__
+
 > Japan's contact tracing app is one more layer of safety when it comes to the coronavirus. The app works fine on my Pixel 4.<br> :date: __2020-07-09 07:44:07__
 
 > Cool! Thanks.<br> :date: __2020-06-25 02:30:49__
@@ -173,8 +175,6 @@ The COCOA - COVID-19 Contact App app has been installed by more than **1000000**
 > Giving this 5 stars because it is in English. Thank you very much for that<br> :date: __2020-06-20 02:51:14__
 
 > たくさんの方にインストールしてほしいです。あともし自分がかかったらちゃんと番号を入力してほしいですね。濃厚接触者と分かった時点で他の人が感染しないように行動を変えることもできるし、早期発見早期治療にもつながると思いますので、みんな積極的に捉えてほしいです。友達にも勧めておきます！<br> :date: __2020-06-19 17:08:24__
-
-> It's working too fast<br> :date: __2020-06-19 16:05:35__
 
 
 
@@ -222,7 +222,9 @@ No recent reviews available with 2 stars.
 <img src="1_star_reviews_wordcloud.png" alt="jp.go.mhlw.covid19radar 1 reviews"/>
 </p>
 
-> 矢張り杜撰で無責任な厚労省のアプリは信用できん。利用規約の画面から進めない。<br> :date: __2020-08-02 08:42:12__
+> I thought this app would give information on my area, where there are covid cases.<br> :date: __2020-08-06 16:50:38__
+
+> 矢張り杜撰で無責任な厚労省のアプリは信用できん。android9.0以降で位置情報使わないように作り直せ。<br> :date: __2020-08-05 11:43:36__
 
 > 本アプリ登録後にエラー続出。アンインストール後もエラーが直らない。<br> :date: __2020-07-18 07:05:27__
 

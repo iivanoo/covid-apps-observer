@@ -3,56 +3,56 @@
         "id": "de.rki.coronadatenspende",
         "store_country": "de",
         "store_lang": "de",
-        "latest_crawled_version": "1.2.1",
-        "latest_crawl": 1596559026
+        "latest_crawled_version": "2.0.0",
+        "latest_crawl": 1597666376
     },
     {
         "id": "de.bssd.covid19",
         "store_country": "de",
         "store_lang": "de",
         "latest_crawled_version": "4120.7.01",
-        "latest_crawl": 1596559035
+        "latest_crawl": 1597666402
     },
     {
         "id": "org.who.infoapp",
         "store_country": "de",
         "store_lang": "de",
-        "latest_crawled_version": "2.2.0",
-        "latest_crawl": 1596559037
+        "latest_crawled_version": "2.3.3",
+        "latest_crawl": 1597666544
     },
     {
         "id": "com.designit.covid_19",
         "store_country": "de",
         "store_lang": "de",
         "latest_crawled_version": "1.0.0",
-        "latest_crawl": 1596559038
+        "latest_crawl": 1597666591
     },
     {
         "id": "de.kreativzirkel.coronika",
         "store_country": "de",
         "store_lang": "de",
-        "latest_crawled_version": "1.4.4",
-        "latest_crawl": 1596559204
+        "latest_crawled_version": "1.4.5",
+        "latest_crawl": 1597666755
     },
     {
         "id": "de.xikolo.openwho",
         "store_country": "de",
         "store_lang": "de",
         "latest_crawled_version": "3.4",
-        "latest_crawl": 1596559255
+        "latest_crawl": 1597666814
     },
     {
         "id": "com.coronacheck.haugxhaug.testyourcorona",
         "store_country": "de",
         "store_lang": "de",
         "latest_crawled_version": "1.1",
-        "latest_crawl": 1596559262
+        "latest_crawl": 1597666821
     },
     {
         "id": "de.rki.coronawarnapp",
         "store_country": "de",
         "store_lang": "de",
-        "latest_crawled_version": "1.1.1",
-        "latest_crawl": 1596559273
+        "latest_crawled_version": "1.2.1",
+        "latest_crawl": 1597667065
     }
 ]

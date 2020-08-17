@@ -198,6 +198,8 @@ The COVIDCare NI app has been installed by more than **50000** times. At this ti
 <img src="3_star_reviews_wordcloud.png" alt="net.hscni.covid19ni 3 reviews"/>
 </p>
 
+> I have just downloaded this app can anyone please tell me if it's free or is there a payment on it<br> :date: __2020-08-11 23:00:25__
+
 > Who owns this App is it a private profit making company? If so is this another privatisation by the back door which is all too common with the NHS overall in recent years Own it Don't rent it!<br> :date: __2020-05-06 15:23:14__
 
 > I was looking for statistics on the spread in NI as we are lumped in with the UK in official statistics, this app doesn't seem to have that. Useful advice but nothing I haven't heard 1000 times already - those who aren't listening won't be downloading the app anyway.<br> :date: __2020-04-11 15:32:23__
@@ -242,6 +244,8 @@ The COVIDCare NI app has been installed by more than **50000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="net.hscni.covid19ni 1 reviews"/>
 </p>
 
+> only works on recent phones, completely misses the point...must work everywhere or it is pointless.<br> :date: __2020-08-11 12:19:23__
+
 > It came to stop as I had no tracing ability and said no more.<br> :date: __2020-07-31 23:15:28__
 
 > doesn't work...!<br> :date: __2020-07-31 22:10:26__
@@ -259,7 +263,5 @@ The COVIDCare NI app has been installed by more than **50000** times. At this ti
 > App crashing after new update<br> :date: __2020-07-27 14:26:44__
 
 > Ok<br> :date: __2020-06-15 16:57:46__
-
-> Insta-crash all this week - lucky we don't need it yet. Pointless when it was working. Out of date news. Weblinks in one place might be useful. Contact Tracing search links to this app.<br> :date: __2020-06-05 09:30:21__
 
 

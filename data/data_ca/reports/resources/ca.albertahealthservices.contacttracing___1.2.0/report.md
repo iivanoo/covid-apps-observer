@@ -145,6 +145,8 @@ The ABTraceTogether app has been installed by more than **50000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="ca.albertahealthservices.contacttracing 5 reviews"/>
 </p>
 
+> I have not had any problems at all aside from the battery drain which I solved by turning off my Bluetooth at home and turning it on while I am out.<br> :date: __2020-08-09 00:29:04__
+
 > I like this app because it will inform me if I've been in contact with anybody that has this virus because I definitely do not want to get it thank you<br> :date: __2020-07-31 20:43:34__
 
 > Runs consistently in the background, not a serious drain on battery.<br> :date: __2020-07-31 20:36:56__
@@ -163,8 +165,6 @@ The ABTraceTogether app has been installed by more than **50000** times. At this
 
 > Bring app please to every one mandatory.<br> :date: __2020-06-23 03:30:47__
 
-> I have entered my phone number but no six digit code has been sent to me. I am stuck in step 1 of the process. Update: app is working now. Great app.<br> :date: __2020-06-21 04:03:50__
-
 
 
 #### 4-star reviews
@@ -172,6 +172,8 @@ The ABTraceTogether app has been installed by more than **50000** times. At this
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="ca.albertahealthservices.contacttracing 4 reviews"/>
 </p>
+
+> No issues with the app (Samsung Note 9).<br> :date: __2020-08-10 04:24:28__
 
 > needs an off button holy moly I believed all the battery drain hype, especially since I'm a server at a restaurant I just leave my phone plugged in at the front desk and it's not a problem (heats up a bit tho). when I get home however it's worse because it was charging all day consuming power-at-will. the choice for me is to turn off background activity on the app in the settings when I get home. there's no sense in exchanging keys with my fam 24hrs a day. but I could easily forget it off :/<br> :date: __2020-07-19 23:06:46__
 
@@ -191,8 +193,6 @@ The ABTraceTogether app has been installed by more than **50000** times. At this
 
 > Won't know if it works till it's needed. Hopefully never. Always has a 1 superimposed on the icon, but nothing apparent when I open the app.<br> :date: __2020-05-15 20:40:40__
 
-> I was totally surprised on how much this app draws dowm my battery , worse than f-cebook app, will be definitely removed once things cool down ...<br> :date: __2020-05-15 00:48:59__
-
 
 
 #### 3-star reviews
@@ -200,6 +200,8 @@ The ABTraceTogether app has been installed by more than **50000** times. At this
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="ca.albertahealthservices.contacttracing 3 reviews"/>
 </p>
+
+> Please listen to everyone and make an on/off option. This only needs to be on when we go out in public and will just be an added step such as bringing a mask.<br> :date: __2020-08-11 05:33:38__
 
 > It's neither good or bad. It just sits in the background. I can only assume it works.<br> :date: __2020-07-20 08:28:08__
 
@@ -218,8 +220,6 @@ The ABTraceTogether app has been installed by more than **50000** times. At this
 > This should also include covid 19 stats available at AHS website. Push notifications for outbreaks of chosen locations by the user or if there is any change in current restrictions. Info on current public health order, public health guidance. Latest news and announcements (ie. Change in testing policies, etc), provide relevant links (ie. Biz connect), then it may encourage people to install it.<br> :date: __2020-06-16 17:28:05__
 
 > Install was very easy. Done in under 2 minutes. App is a great idea for the times. Having said that, yes the battery drain is amazing. Started as a 5 but now a 3. I wish it was more.<br> :date: __2020-06-13 01:17:26__
-
-> The principle is good and I'd really like to help by using this app but a week after installing it, my battery is drained before the afternoon is over. I have to uninstall. When the developers can make it more efficient in power usage I'd be happy to install it again<br> :date: __2020-06-09 23:39:11__
 
 
 
@@ -257,24 +257,24 @@ The ABTraceTogether app has been installed by more than **50000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="ca.albertahealthservices.contacttracing 1 reviews"/>
 </p>
 
+> Eats batter, very very badly. 45% battery usage over 2 hrs.<br> :date: __2020-08-17 00:03:46__
+
+> Battery Drainer!!!! Wow does this app eat battery!! What good is it to trace and notify me if my battery is dead?<br> :date: __2020-08-14 22:40:40__
+
+> Badly developed. Developer did not enter code correctly as several functions are not operational. Not sure where the mo ey went?<br> :date: __2020-08-09 15:46:36__
+
+> I live in Alberta but my phone number is fron Mexico (starts with +52). Please add other phone number options because I can't use the app without having a +1 phone number and I don't have one. I'm sure I'm not the only one.<br> :date: __2020-08-09 00:27:14__
+
+> The app hasn't been updated in six weeks, but it suddenly started draining my battery the past couple days. No explanation why that's happening now.<br> :date: __2020-08-07 00:26:58__
+
+> Such a battery hog! The federal one doesn't need as much battery as this one. Fix it if you want more people to use it.<br> :date: __2020-08-05 23:55:05__
+
+> Terrible app, can't even register.<br> :date: __2020-08-05 16:04:20__
+
+> Won't let me sign up. Uninstalled then reinstalled, now there's an error message when adding phone number.<br> :date: __2020-08-05 15:09:29__
+
+> The app keeps asking me to restart my phone 10 times per hour. Please fix it.<br> :date: __2020-08-05 02:05:07__
+
 > Needs to run in foreground. When app crashes user has to manually restart. Drain on battery. This is not a good solution. Better to switch to the new Health Canada app called COVID Alert.<br> :date: __2020-08-04 18:37:57__
-
-> Trash propaganda.<br> :date: __2020-08-03 08:45:34__
-
-> I am getting warnings that the app is overloading the CPU. Also drains the battery. I am deleting this app now.<br> :date: __2020-08-03 01:43:58__
-
-> Depletes battery very quickly. I use my phone a lot for a number apps. This thing would account for around 70% battery usage.<br> :date: __2020-08-02 21:22:14__
-
-> Works like garbage. Just install the government of Canada one: much slicker interface, more people using it, no battery issues.<br> :date: __2020-08-01 23:52:44__
-
-> Drains the battery on my phone<br> :date: __2020-08-01 07:21:14__
-
-> Its pretty useless<br> :date: __2020-08-01 05:28:18__
-
-> This app, while it has good intentions, is a battery killer. If you do not have frequent access to charge your phone multiple times per day then be warned as this app can consume 20+% of your battery just running in the background. I have seen it as high as 57% on my S9+. I will be deleting this app as my phone is only a tool to communicate against COVID-19. Wear a mask!<br> :date: __2020-07-28 17:55:47__
-
-> High battery usage. No off button. Needs an auto off geofence option so it doesn't kill the battery at home.<br> :date: __2020-07-27 03:55:11__
-
-> Drains my battery! Hardly lasts half a day now. But because of my work I feel it important to have this app on my phone.<br> :date: __2020-07-27 03:04:59__
 
 

@@ -160,6 +160,16 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <img src="5_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 5 reviews"/>
 </p>
 
+> Bravi, è così che si sente che il Pubblico serve e non solo chiede.<br> :date: __2020-08-17 12:52:56__
+
+> L'ho scaricata in aprile confidando nell'utilità per me è per tutti noi. È un piccolo ma importante aiuto alla collettività che non costa nulla<br> :date: __2020-08-16 13:29:30__
+
+> Sono contenta vorrei approfondire<br> :date: __2020-08-16 13:19:34__
+
+> E wtt e<br> :date: __2020-08-15 10:52:10__
+
+> Ok<br> :date: __2020-08-06 18:32:44__
+
 > NEI PRONTO SOCCORSO SON TUTTI RIGOROSI ALLE REGOLE E TI METTONO MOLTO A TUO AGIO GRAZIE A TUTTI X LA COLLABORAZIONEUN ABBRACCIO SEPPUR VIRTUALE<br> :date: __2020-07-31 15:42:15__
 
 > Di un certo qual spessore...<br> :date: __2020-07-27 19:40:37__
@@ -170,16 +180,6 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 
 > Molto utile<br> :date: __2020-07-03 22:31:26__
 
-> Tutto ok, fino a quando la dobbiamo usare? Fino a che trovano il vaccino?<br> :date: __2020-07-03 12:45:10__
-
-> Ritornata fantastica!<br> :date: __2020-07-01 12:55:17__
-
-> Vorrei fare le vacanze in Calabria come midevo compore<br> :date: __2020-06-26 21:00:11__
-
-> Tutto funziona perfettamente!<br> :date: __2020-06-26 16:58:45__
-
-> Applicazione aggiornata in data 22/04 funziona perfettamente, grazie della mail inviata per L aggiornamento, spero presto di essere parte della protezione civile, in data 24/06 ho superato i test per il corso volontario di protezione civile, presto dei vostri<br> :date: __2020-06-25 14:10:44__
-
 
 
 #### 4-star reviews
@@ -187,6 +187,8 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 4 reviews"/>
 </p>
+
+> Semplici e chiare informazioni. Grazie<br> :date: __2020-08-06 20:51:49__
 
 > Applicazione utile ed abbastanza ben progettata. Vorrei però capire a cosa serve la sezione Preferiti, dal momento che non riesco a trovare nessuna schermata da cui aggiungere qualcosa alla lista...<br> :date: __2020-08-01 14:47:36__
 
@@ -205,8 +207,6 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 > Secondo me sarebbe ancora più utile se le domande non si riferissero solo ai precedenti 15 giorni allargando il periodo temporale a tutto il 2020 lasciando un campo libero per aggiungere delle note oppure chiedendo la data in cui sono iniziati e finiti determinati sintomi o contatti con persone e luoghi infetti. dopo l'aggiornamento giugno 2020 la finestra di pop-up finale dopo la compilazione non viene visualizzata correttamente<br> :date: __2020-06-07 18:54:52__
 
 > Grazie per la risposta che non ha chiarito il problema. non sono risposte inesatte ma nemmeno precise. Es. Se la mia temperatura è 36,3 devo scegliere se segnare 36 o 36,5. Per questo ho detto che le risposte non sono precise. Lo stesso per le altre domande categoriche e sempre le stesse. So benissimo che se ho un malessere nuovo devo rivolgermi al mio medico. Leggendo anche altre recensioni le osservazioni sono più o meno le stesse e non si comprende quale utilità abbia questa ricerca.<br> :date: __2020-06-06 09:52:05__
-
-> Facile da utilizzare. Molto migliorata con gli ultimi aggiornamenti. Unico difetto non è possibile aggiornare l'età. Inserita la prima volta non è possibile modificarla al compimento degli anni<br> :date: __2020-06-05 13:11:25__
 
 
 
@@ -272,6 +272,16 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <img src="1_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 1 reviews"/>
 </p>
 
+> Na pir. .<br> :date: __2020-08-16 14:41:43__
+
+> Grande sciocchezza il fatto che non si possano variare determinati dati. Ad esempio, durante il periodo di maggiore virulenza, ho compiuto gli anni. Se non scarichi l'app e poi la ricarichi, rimane fisso il dato degli anni compiuti, così come caricato in origine. Poi le allerte non mi arrivano mai. Sto parlando di fenomeni atmosferici. Nella mia zona, da maggio 2020, ce ne sono stati almeno due. La tengo caricata per campanilismo, ma le applicazioni efficienti sono veramente tutt'altra cosa.<br> :date: __2020-08-14 13:37:08__
+
+> Allerta idro-meteo 8 volte su 10 sono sbagliate.<br> :date: __2020-08-13 12:30:29__
+
+> Non serve perché nel mio cellulare non è un app accettata. Me la fa sparire sempre. Ho un wauawey. P30. Non l'accetta<br> :date: __2020-08-09 13:42:48__
+
+> Sono costretta ad abbandonare AllertaLom perché ogni giorno , per compilare il questionario, devo disinstallare e re-installare l'App. Ora poi non si apre neppure più. Adesso basta.<br> :date: __2020-08-07 19:10:32__
+
 > Inutile per il virus...come tutte le iniziative lombarde<br> :date: __2020-08-02 17:55:12__
 
 > Pessima veramente, assurdo<br> :date: __2020-07-29 12:48:33__
@@ -281,15 +291,5 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 > 2ww<br> :date: __2020-07-18 14:54:10__
 
 > Pessima. Sembra scritta da fontana ⛲ & gallera..😱 Peggio che inutile<br> :date: __2020-07-13 22:01:24__
-
-> Non riesco ad usarla, ad ogni notifica mi chiede di accettare le condizioni e di compilare il questionario ma non riesco a finire. App inutile per me! Con dispiacere la elimino<br> :date: __2020-07-10 12:30:41__
-
-> Non funziona mai, mi chiede tutti i permessi e mi porta alla pagina di adesione al questionario Covid e da lì non va oltre. Fa schifo!<br> :date: __2020-07-10 12:30:05__
-
-> App poco comprensibile e poco funzionale. Si puo' certamente fare molto meglio<br> :date: __2020-07-06 12:36:24__
-
-> Disinstallato<br> :date: __2020-07-03 14:26:55__
-
-> Non riesco a scaricare<br> :date: __2020-07-02 15:20:12__
 
 

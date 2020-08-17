@@ -160,6 +160,10 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 <img src="4_star_reviews_wordcloud.png" alt="cat.gencat.mobi.StopCovid19Cat 4 reviews"/>
 </p>
 
+> En esta aplicación ingresas información pero le falta respuesta y seguimiento.<br> :date: __2020-08-10 11:17:30__
+
+> Es podría mirar d'introduir aquesta APP per la cerca de Google de risc d'exposició?<br> :date: __2020-08-06 09:26:39__
+
 > Necesaria para Prevenir Gracias<br> :date: __2020-07-21 17:40:01__
 
 > No me deja poner el n° de tef, me sale que hay un error. La anterior era perfecta pero esta no funciona. El problema se a solucionado, ahora esta OK.<br> :date: __2020-06-12 20:44:26__
@@ -176,10 +180,6 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 
 > Positiva<br> :date: __2020-04-08 13:45:06__
 
-> Es lo que hay<br> :date: __2020-04-08 13:44:40__
-
-> Util Para el seguimiento de síntomas que pudieran ser compatibles con coronavirus<br> :date: __2020-04-04 19:18:16__
-
 
 
 #### 3-star reviews
@@ -187,6 +187,8 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="cat.gencat.mobi.StopCovid19Cat 3 reviews"/>
 </p>
+
+> BUENA<br> :date: __2020-08-13 15:14:40__
 
 > Puede QUE sea útil.<br> :date: __2020-08-04 03:39:03__
 
@@ -205,8 +207,6 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 > A casa som 4 i solament guarda el CIP de l'últim. És podria buscar la forma de que els guardés<br> :date: __2020-04-26 10:44:04__
 
 > Los síntomas se deberían describir y poder precisar mejor. Por ejemplo, ¿36'6 es fiebre? Y si se pone como fiebre, ¿qué temperatura se debería poner, "36'5 o menos" o 37?<br> :date: __2020-04-23 11:46:06__
-
-> Imposible fer el seguiment dels símptomes. L'aplicació falla constantment...<br> :date: __2020-04-17 21:45:08__
 
 
 
@@ -244,6 +244,10 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 <img src="1_star_reviews_wordcloud.png" alt="cat.gencat.mobi.StopCovid19Cat 1 reviews"/>
 </p>
 
+> No me envía el SMS con el código, y están los datos bien. Lo vuelvo a solicitar y no me lo envía. Cómo se soluciona? Alguien lo sabe? No hay ni botón de ayuda ni nada. Gracias<br> :date: __2020-08-13 22:00:58__
+
+> No veo que sirva para saber si estas contagiado o has estado con personas que tienen el virus y contener los posibles contagios y las expansiones del virus<br> :date: __2020-08-07 14:00:29__
+
 > Inutilidad total, la desinstalado por inutil, no guarda lo datos, csda vez que la abro, tengo q dar los datos de nuevo, INUTIL<br> :date: __2020-08-01 19:56:10__
 
 > Esto es tan útil como el decir que si te encuentras mal vayas al médico. Porque al final sin médicos esto no sirve de nada.<br> :date: __2020-07-31 21:55:16__
@@ -259,9 +263,5 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 > No he tenido nada por ahora y dios quiera que no tenga nada gracias<br> :date: __2020-07-16 11:31:09__
 
 > No puc accedir a l'aplicacio,. Un cop poso el codi de validació no em deixa avançar.<br> :date: __2020-07-08 12:28:43__
-
-> De momento pongo una estrella 🌟 porque esta app solo sirve para uno mismo para ver si tienes algún síntoma. De momento no sirve para saber si estas cerca de alguien que pueda que sea portador de Covid-19.<br> :date: __2020-07-02 21:27:30__
-
-> Penosa app, se rien en tu cara y ciertos comentarios los borran...<br> :date: __2020-07-01 10:52:39__
 
 

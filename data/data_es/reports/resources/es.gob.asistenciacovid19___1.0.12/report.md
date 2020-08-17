@@ -154,6 +154,12 @@ The Asistencia COVID-19 app has been installed by more than **50000** times. At 
 <img src="5_star_reviews_wordcloud.png" alt="es.gob.asistenciacovid19 5 reviews"/>
 </p>
 
+> No tengo clave ya que no la he recibido<br> :date: __2020-08-14 17:24:47__
+
+> Muy bien<br> :date: __2020-08-13 10:54:31__
+
+> Muy buena, viva el gobierno(PSOE-PODEMOS), mucho ánimo 💪.<br> :date: __2020-08-12 04:37:12__
+
 > Muy buena<br> :date: __2020-07-31 11:26:46__
 
 > Buena aplicación solo falta que se la baje la gente<br> :date: __2020-07-25 20:04:15__
@@ -167,12 +173,6 @@ The Asistencia COVID-19 app has been installed by more than **50000** times. At 
 > Decine<br> :date: __2020-06-30 15:31:40__
 
 > Aplicación estupenda para vivir con la tranquilidad de sentirse protegida. Aprovecho para felicitar al Servicio Canario de Salud, a la sección de Rastreo y Comunicación, en biblioteca nacional. Las mujeres encargadas de hacer las pruebas del COVID han demostrado, además de ser EXCELENTES PROFESIONALES, tener mucho tacto,. delicadeza además de simpatía. Así da gusto hacerse las pruebas. Me alegraron el día. Muchas gracias.<br> :date: __2020-06-15 09:35:08__
-
-> Me parece bien qur nos alerten cpn esta app Para eviar riesgos<br> :date: __2020-05-20 00:35:27__
-
-> Ya era hora que hiciesen esta medida felicidades haber si la hacemos todos los Españoles yo en mi centro de salud no quisieron hacerme PCR teniendolos en el laboratorio hablo del dia 14 de mayo .no les da la gana de hacerlo y luego dicen en la comunidad de madrid que lo estan haciendo .digan a quien.<br> :date: __2020-05-18 16:16:28__
-
-> Rastrearme cuanto más mejor, más seguro estaré yo y a los que quiero.<br> :date: __2020-05-10 07:22:28__
 
 
 
@@ -210,6 +210,12 @@ The Asistencia COVID-19 app has been installed by more than **50000** times. At 
 <img src="3_star_reviews_wordcloud.png" alt="es.gob.asistenciacovid19 3 reviews"/>
 </p>
 
+> Como hago para saber de posibles asintomáticos o contagiados, tenía entendido que esta aplicación aparte de evaluarme también me advertía de posibles contagiados<br> :date: __2020-08-10 18:08:55__
+
+> BIEN ,O NORMAL,intento introducir código que me enviaron y la aplicación me envía a la siguiente página,intento terminar y no puedo, INTENTO AYUDAR AL FILTRADO,de persona descargando sta apli y na de na,ALA POSS AY LO DEJO saludos desde aguimes cruce arinaga , BUEN DIA A TOITOS !!!! NADA lo he vuelto a intentar y nada.intento introducir el código después de tres minutos, y me lleva al siguiente página IMPOSIBLE... Q PUEDO HACER ,programador ??? ANIMO a seguir mejorándolo por FAVOR ! ! !<br> :date: __2020-08-10 09:24:49__
+
+> Queremos q sea la app para toda España, no entiendo xq no funciona en algunas comunidades<br> :date: __2020-08-08 15:39:31__
+
 > Simplemente es para informar si uno tiene los síntomas ,no es un rastreador que te informe del. Perímetro de riesgo en tu lugar donde trabaja o lugar donde suele ir saludos y protegido serás mejor que curar saludos<br> :date: __2020-08-01 09:57:36__
 
 > Me esperaba algo más currado (posibles contactos con casos positivos, un mapa, etc)<br> :date: __2020-05-28 23:32:43__
@@ -224,12 +230,6 @@ The Asistencia COVID-19 app has been installed by more than **50000** times. At 
 
 > Se queda un poco corta la app. Podrían poner una casilla donde cada uno podría introducir otros síntomas como dolor en la garganta o falta de olfato.<br> :date: __2020-04-12 16:22:18__
 
-> Orientativa<br> :date: __2020-04-09 10:40:28__
-
-> Muy escueta y la autoevaluación es la misma sean personas vulnerables o de menos riesgo. Te preguntan patologías previas y luego no ahondan en ellas. Muy pobre<br> :date: __2020-04-08 17:27:47__
-
-> Le faltan preguntas ,hay gente que sólo tiene febrícula ,y faltan algunos síntomas que está teniendo gente positiva como lo del olfato,mareos ...<br> :date: __2020-04-08 13:30:38__
-
 
 
 #### 2-star reviews
@@ -237,6 +237,14 @@ The Asistencia COVID-19 app has been installed by more than **50000** times. At 
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="es.gob.asistenciacovid19 2 reviews"/>
 </p>
+
+> No me reconoce mi numero movil y no me deja acceder a la app, ¿que puedo hacer?<br> :date: __2020-08-11 21:19:08__
+
+> Esto es una vergüenza, no hay médicos y esperando esperando se empeora la situación y llegaremos a morir por otra cosa que no tiene que ver nada con el covid...y estas app no ayudan a nada pues debería de ser en españa todos juntos .....información conjunta a toda españa. Sacar las personas en erte y no contrar a nuevas personas por 4 euros la hora... colaboración entre todos .gracias por la app poco a poco espero que mejore.<br> :date: __2020-08-10 10:31:20__
+
+> Esperaba que me de posibles casos proximos de Covid-19. No es lo que yo buscaba<br> :date: __2020-08-07 22:58:03__
+
+> Me doy dos estrer al principio Funcionaba lo limpiando el tlf de borro todo, al volverlo instalar no me deja poner código de verificación<br> :date: __2020-08-06 13:56:40__
 
 > que pasa con galicia,no tenemos derecho a saber y protegernos?ya no me gusta se desprecia gran parte de España<br> :date: __2020-07-20 21:15:06__
 
@@ -254,24 +262,24 @@ The Asistencia COVID-19 app has been installed by more than **50000** times. At 
 <img src="1_star_reviews_wordcloud.png" alt="es.gob.asistenciacovid19 1 reviews"/>
 </p>
 
-> Pensaba que contendría un mapa, con los afectados de tu zona, algo más real .. así tal cual me parece absurda esta aplicación<br> :date: __2020-08-04 09:14:07__
+> Me he descargado la aplicacion pero cuando pongo mi telefono me dice que ha ocurrido un error inesperado,disculpe las molestias y no me deja seguir.<br> :date: __2020-08-14 00:14:14__
 
-> Esta aplicación no está actualizada en Ceuta<br> :date: __2020-08-03 20:40:35__
+> No se me inicia<br> :date: __2020-08-13 16:35:18__
 
-> Que dimitan el inepto de Sánchez Illa Simón y este gobierno social comunista de mentirosos inútiles que ha arruinado la economía de España y la salud de los españoles y que mintió desde el primer día<br> :date: __2020-08-03 17:51:28__
+> Me da error al introducir los datos.<br> :date: __2020-08-13 15:40:50__
 
-> No deja poner el número de verificación para actualizar. Vuelve al principio. Es un bucle sin fin. Después de 5 intentos desinstalo. ¡Qué chapuza!<br> :date: __2020-07-30 13:06:36__
+> NO SE PUEDE INSTALAR Y ESTO ES OTRA GILIPOLLEZ MÁS PARA SEGUIR COMIENDONOS EL COCO CON EL CUENTOVIRUS ESTE QUÉ SE HAN SACADO DE LA NADA .<br> :date: __2020-08-13 15:02:39__
 
-> No es para toda España y el radar covid tampoco deberiais avanzar en estas cosas habiendo tantos rebrotes sirve para poco al menos para Castilla y leon<br> :date: __2020-07-27 17:28:39__
+> Da error al registrarse<br> :date: __2020-08-12 16:08:28__
 
-> no va<br> :date: __2020-07-21 05:39:37__
+> No está disponible en mi Cominudad. Un disastro, como todo lo que ha hecho este gobierno matando tanta gente y mintiendo tanto cada minuto. 50.000 muertos y ahora van a por más, los muy sanguinarios.<br> :date: __2020-08-12 08:21:20__
 
-> No vale.<br> :date: __2020-07-11 15:37:08__
+> Una app digna de media estrella, y acorde con el actual gobierno...que promete y dice y dónde dice digo, digo Diego. En resumen una app que prometía y luego resulta una ruina. Lastima de megas😭<br> :date: __2020-08-10 17:44:47__
 
-> No vale para nada.<br> :date: __2020-07-01 09:26:56__
+> La verdad no sirve de mucho solo 50000. Peor no funciona todavía en ni en Galicia ni Madrid<br> :date: __2020-08-10 17:35:44__
 
-> Esta autoevaluacion , en mi caso, no vale para nada. Ya di positivo en un test rápido privado, con el informe me fui al medico dé familia y no me hizo ni caso. Resultado 14 días más en casa y volver a pagar 65 euros para repetir el test. Ya he dado negativo. Preocupacion en la Seguridad Social por hacerme la PCR , NINGUNA.<br> :date: __2020-06-30 16:01:41__
+> No me gusta porque no tienen para Castilla y León.<br> :date: __2020-08-10 17:15:35__
 
-> no vale absolutamente para nada esta aplicación es una castaña<br> :date: __2020-06-30 07:11:17__
+> Me la descargo porque en mi comunidad que es Aragon es donde más contagios hay en toda Europa y no aparece.. vamos bien..<br> :date: __2020-08-08 15:44:45__
 
 

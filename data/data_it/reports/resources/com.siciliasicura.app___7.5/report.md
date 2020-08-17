@@ -133,6 +133,8 @@ The SiciliaSiCura app has been installed by more than **50000** times. At this t
 <img src="5_star_reviews_wordcloud.png" alt="com.siciliasicura.app 5 reviews"/>
 </p>
 
+> Ottima<br> :date: __2020-08-14 15:47:45__
+
 > Funziona<br> :date: __2020-08-04 04:41:44__
 
 > App discreta e funzionale.<br> :date: __2020-08-02 09:23:41__
@@ -150,8 +152,6 @@ The SiciliaSiCura app has been installed by more than **50000** times. At this t
 > Ad oggi funziona molto bene. Installazione rapida ed efficace.<br> :date: __2020-07-11 17:09:50__
 
 > Utile<br> :date: __2020-07-08 10:18:11__
-
-> A me non ha dato problemi. Mi sono registrata da casa col PC e ho effettuato l'accesso dalla app solo in un secondo momento. Quando arriverò in Sicilia farò il check-in.<br> :date: __2020-07-06 22:56:07__
 
 
 
@@ -215,6 +215,8 @@ The SiciliaSiCura app has been installed by more than **50000** times. At this t
 <img src="2_star_reviews_wordcloud.png" alt="com.siciliasicura.app 2 reviews"/>
 </p>
 
+> Salve, il 30 Agosto scenderò dalle Isole Canarie alla Sicilia . Dovrò fare tampone o anche solo il test sierologico prima della partenza? Grazie<br> :date: __2020-08-15 14:53:34__
+
 > App un pò complicata, non lineare e intuitiva. Cosa serve se quando vai in giro pochissimi isolani rispettano l'isolamento sociale e mascherine. Italia divisa in due al nord prenotazione obbligatoria per spiaggia libera e nell'isola tutti insieme appassionatamente.<br> :date: __2020-08-03 08:31:31__
 
 > Non si apre l'app<br> :date: __2020-07-26 19:15:58__
@@ -233,8 +235,6 @@ The SiciliaSiCura app has been installed by more than **50000** times. At this t
 
 > Ho appena scarico app. Ho compilato il form per la registrazione ma quando clicco su "invia" non va avanti.<br> :date: __2020-06-25 17:28:23__
 
-> Scusate ma come si fa ad impostare le date,c è da sclerare,devo essere in sicilia nei primi di luglio e non riesco a registrarmi,impostare le date,di nascita,di partenza non si capisce,fate qualcosa<br> :date: __2020-06-13 21:00:06__
-
 
 
 #### 1-star reviews
@@ -243,24 +243,24 @@ The SiciliaSiCura app has been installed by more than **50000** times. At this t
 <img src="1_star_reviews_wordcloud.png" alt="com.siciliasicura.app 1 reviews"/>
 </p>
 
-> Non funziona nulla , dopo svariati tentativi neanche fosse la nato ti accorgi che é una pagliacciata . Ora sono un clandestino in patria 😞😞😞<br> :date: __2020-08-03 16:17:29__
+> App con una grafica antica e user experience terribile, per completare la registrazione ti servono almeno 15 minuti. Tutta in Italiano, voglio vedere un turista estero come lo usa.<br> :date: __2020-08-15 19:22:19__
 
-> Nessun controllo. Ho istallato l'app. Ho inserito tutti i nomi della mia famiglia. Ho fatto il check-in appena arrivato in Sicilia in auto. Sul traghetto nessun controllo, nemmeno temperatura. In giro nessuno indossa mascherina, e chi lo fa lascia il naso scoperto, o idiozie del genere. In molti bar e negozi (quasi tutti) camerieri e baristi non hanno la mascherina, idem per in negozi di vestiti, etc. Per carità, non sono tutti così, ma molti, troppi, lo sono. Io sono sano, ma loro???<br> :date: __2020-08-03 14:05:14__
+> Non serve a nulla , dicono che arriva un e-mail con username ho fatto a tempo a rientrare dopo una settimana e la sto ancora aspettando<br> :date: __2020-08-13 08:15:35__
 
-> Arrivato in Sicilia l'app non s apre!!! Per fare il cekin<br> :date: __2020-08-01 15:28:09__
+> Impossibile ottenere credenziali valide<br> :date: __2020-08-11 11:48:06__
 
-> Valutazione zero tagliato. Sono registrato, non lo so! Modificare i dati, neanche a parlarne. Utilità, zero, solo forse per incasinare il telefonino. Soldi spesi malissimo.<br> :date: __2020-08-01 14:59:40__
+> Continua a dirmi di verificare tutti i campi e cmq non appare mai il codice captcha. Impossibile proseguire.<br> :date: __2020-08-11 00:31:14__
 
-> Disastrosa! Penso la peggiore app con cui ho avuto a che fare...<br> :date: __2020-07-31 12:10:38__
+> Credo che questa app serva a posteriori per avvertire i non residenti dei casi di covid riscontrati sull'isola visto che i residenti (nella maggior parte dei casi) si guardano bene dall'usare le mascherine, cassieri dei supermercati compresi<br> :date: __2020-08-10 19:16:42__
 
-> Ricevo un messaggio che devo registrare i dati per sapere l arrivo è la partenza però non posso aggiungere i componenti della mia famiglia visto che viaggiamo insieme bhooo la logica dove sta? App inutile<br> :date: __2020-07-31 11:47:09__
+> L' app è fatta bene, ma non serve a niente perché le regole non vengono rispettate da nessuno.<br> :date: __2020-08-09 19:19:30__
 
-> Non funziona l'app sul mio telefono, scarico ed è tutto bianco<br> :date: __2020-07-28 17:56:04__
+> Vergogna.<br> :date: __2020-08-09 13:26:48__
 
-> Orribile quasi impossibile e molto(ma molto) difficile da capire sono riuscito dopo un ora a registrarmi..... e poi devo fare il check-in al momento d'arrivo vosa da matti<br> :date: __2020-07-26 16:36:12__
+> App inutile e problematica se vuoi comprare il biglietto!!! --- Inutile perché devi fare comunque la fila per stampare la carta d'imbarco. --- Problematica perché non snella e con bug (es. No download da sito del codice PNR). --- ATTENZIONE AI COSTI. 4 euro risparmiati online ma occorre pagarne 5 per ritirare il biglietto. --- Agli sviluppatori. NON CANCELLATE il mio giudizio.<br> :date: __2020-08-09 09:10:33__
 
-> Non riesco ad accedere<br> :date: __2020-07-23 12:10:44__
+> Che schifezza installata mano riesco a registrarmi cancellata subito speriamo sia meglio via web<br> :date: __2020-08-08 23:09:22__
 
-> Inutile. Solo perdita di (troppo) tempo. Obbligatoria la registrazione su app e poi si sta tutti insieme appassionatamente. Ridicoli. É solo una scusa per sapere costantemente dove siamo, con chi siamo e cosa facciamo: la sviluppatrice deve essere mia madre😒<br> :date: __2020-07-22 12:46:16__
+> Dopo la registrazione, al momento del checkin, l'app si blocca sul logo e non va avanti.<br> :date: __2020-08-05 22:24:33__
 
 
