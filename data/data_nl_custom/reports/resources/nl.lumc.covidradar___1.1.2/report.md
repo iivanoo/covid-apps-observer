@@ -168,6 +168,8 @@ The COVID Radar app has been installed by more than **50000** times. At this tim
 <img src="4_star_reviews_wordcloud.png" alt="nl.lumc.covidradar 4 reviews"/>
 </p>
 
+> Vind het een interessante app met wetenschappelijk onderzoek die op deze manier in kaart brengt wie het grootste risico loopt en waar de uitbraak het grootste is . Vind deze manier van onderzoek beter dan de los vaste gedwarrel van tegenstrijdigheden van OMT /RIVM . Ben afhankelijk van behandeling bij een gespecialiseerde GGz instelling dus zit niet te wachten op nogmaals sluiting van een zorgverlenende instelling .<br> :date: __2020-08-13 11:16:59__
+
 > Elk gezin zou dit kunnen gebruiken. Een postcode-gebied kan zo nog beter in de gaten worden gehouden door onzeGGD. gebruik deze app nu al. m.i. zal Rivm/OMT pas in sep met soortgelijke app komen. Juist het kunnen selecteren van ja/nee antwoorden is een pre, o.a. omdat iedereen dan hetzelfde bedoeld. Staan er ook antwoorden in welke de MILDE-vorm van covid kunnen signaleren en kan de app dit aangeven dat de gebruiker dit heeft? TraceBack-covid19patient krijgt meerEnMeer vorm.<br> :date: __2020-07-23 09:58:13__
 
 > Zinvol. Helpt ons allemaal<br> :date: __2020-05-20 12:49:53__
@@ -186,8 +188,6 @@ The COVID Radar app has been installed by more than **50000** times. At this tim
 
 > Op mijn telefoon staan de 2 knoppen annuleren en bevestigen voor het balkje beroep, waardoor ik het beroep niet kan aanpassen. Ik heb het antwoord nu gelaten wat er al stond maar dit klopt in mijn geval niet.<br> :date: __2020-04-19 18:11:48__
 
-> Ik ontvang niemand thuis en toch val ik ongunstiger uit tov het Nederlands gemiddelde in de uitslag. Dat kan beter.<br> :date: __2020-04-17 22:17:31__
-
 
 
 #### 3-star reviews
@@ -195,6 +195,8 @@ The COVID Radar app has been installed by more than **50000** times. At this tim
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="nl.lumc.covidradar 3 reviews"/>
 </p>
+
+> Goed idee maar ik mis de vraag :valt u onder de risico groep? Hoesten en keelpijn bv kan ook iets anders dan civid zijn. Long patiënten, allergie bv En met kinderen kunnen we soepeler omgaan. Geen 1,5m afstand bv Dus, de vraag bent u in contact geweest met kinderen buiten het gezin?<br> :date: __2020-08-15 12:53:41__
 
 > Het lukt na de versoepelingen van de lockdown niet meer om de waarden in te vullen. Hoeveel mensen binnen 1.5 of 5(!) meter zijn gekomen in de supermarkt of in de stad? Geen idee!<br> :date: __2020-06-25 20:55:45__
 
@@ -213,8 +215,6 @@ The COVID Radar app has been installed by more than **50000** times. At this tim
 > Kan na de update/ aanpassing de laatste schuif niet gebruiken voor de laatste vraag, want daar zit de knop versturen voor<br> :date: __2020-04-22 21:24:49__
 
 > Goed initiatief. Bij scrollen verschuiven de scores soms onbedoeld. Verbetering is noodzakelijk om geen foute scores te krijgen. Ik heb vragen die ook door anderen zijn gesteld en hoop dat antwoorden komen. In winkel en buiten let niet iedereen even goed op de 1,5 mtr. en het lukt niet altijd om zo iemand te ontwijken. Ik schat in hoe vaak dat is geweest en vul dat in. Is dat juist? Als je hoest door allergie, vul je dan "ja" in?<br> :date: __2020-04-14 09:09:26__
-
-> mooie app. leuke update tip:. via gps als iemand in buurt komt gaat app rinkelen blijf uit buurt. of houd afstand. of meld ik was / ben ziek / ziek in buurt pas op. dit helpt<br> :date: __2020-04-14 08:29:17__
 
 
 
