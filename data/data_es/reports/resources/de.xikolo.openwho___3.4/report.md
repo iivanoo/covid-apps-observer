@@ -165,6 +165,8 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 <img src="5_star_reviews_wordcloud.png" alt="de.xikolo.openwho 5 reviews"/>
 </p>
 
+> Buena<br> :date: __2020-08-23 08:33:07__
+
 > Felicidades! Excelente servicio<br> :date: __2020-07-29 00:30:41__
 
 > Excelente<br> :date: __2020-07-26 02:27:39__
@@ -182,8 +184,6 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 > Genial<br> :date: __2020-05-21 21:30:52__
 
 > Me parece muy bien que Allan sacado una aplicación así me gustó mucho y quiero decirles gracias<br> :date: __2020-05-21 13:30:58__
-
-> Excelente app<br> :date: __2020-05-08 13:54:41__
 
 
 
@@ -204,6 +204,8 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="de.xikolo.openwho 3 reviews"/>
 </p>
+
+> No aparecen los últimos cursos<br> :date: __2020-08-20 16:09:33__
 
 > Es curioso como la gente condena una App como desastrosa porque está en inglés y no por su función. Además si uno se registra, si que está en múltiples idiomas, entre ellos el español, así es que los quejillas que vuelvan a hacer las cosas bien 😊<br> :date: __2020-04-03 00:08:27__
 

@@ -230,6 +230,10 @@ The COVID-19.eus app has been installed by more than **50000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="com.erictelm2m.colabora 1 reviews"/>
 </p>
 
+> No me aporta absolutamente nada. No me indica nada de nada. Estoy aislado por tener contacto mi hermana y yo con dos familiares positivos, y me cataloga como infectado a pesar de que no he recibido aún el resultado del pcr, y mi hermana ha dado negativo. Desinstalo y a esperar otra app mejor, que realmente ayude a superar la pandemia.<br> :date: __2020-08-21 18:21:08__
+
+> Si se obligará a instalar por ley sería genial y super útil<br> :date: __2020-08-20 22:34:22__
+
 > No me entra paraimstalar<br> :date: __2020-08-14 16:34:46__
 
 > La instalé al principio de la pandemia, pensaba q iba a ser una buena opción y después de un mes la quité pq no servía para nada.<br> :date: __2020-08-14 01:08:27__
@@ -245,9 +249,5 @@ The COVID-19.eus app has been installed by more than **50000** times. At this ti
 > La habéis vuelto a dejar inútil con la última actualización. Vuelvo a bajar la puntuación al mínimo.<br> :date: __2020-06-29 14:39:49__
 
 > He instalado otra vez la app y me sigue apareciendo el mensaje de que ha expirado.. con lo cual no me deja hacer nada .<br> :date: __2020-06-29 11:07:08__
-
-> No se si sirve de algo porque la ultima actualizacion me aparece con la fecha de la primera descarga. Algo pasa con la instalacion. Me dice que ha expirado, que "desinstale y vuelva a instalar," pero lo hago y sigue diciendo lo mismo. Que ocurre?<br> :date: __2020-06-28 15:50:50__
-
-> Me dice que tengo que actualizar y, después de borrarla y volver a descargar, me vuelve a decir lo mismo. La quito porque no sirve para nada.<br> :date: __2020-06-27 16:04:01__
 
 

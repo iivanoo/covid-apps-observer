@@ -1,5 +1,17 @@
 [
     {
+        "reviewId": "gp:AOqpTOFQP1lh5PBDxzsEcAoZyU5Wcrh1i0Y11yj6JTJg4fxfiJNln75L4MtGKwB7-2oIbWmr5nXMX0V5qbrd2Q",
+        "userName": "C. D.",
+        "userImage": "https://lh3.googleusercontent.com/-yzM01g6gG88/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckPJq2464bRQ0D1qS-yTYlmMrvIfw/photo.jpg",
+        "content": "J'ai \u00e9t\u00e9 en contact avec une personne test\u00e9e positive, j'ai re\u00e7u mes codes, mais \u00e0 aucun moment il y a la question: avez vous fait le d\u00e9pistage ? Je l'ai fait je suis n\u00e9gative et je dois remplir le questionnaire comme si j'\u00e9tais positive... Incoh\u00e9rent !",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.5.21",
+        "at": "2020-08-18 10:48:21",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOFum6KuklQLXtbA6zICqSURmcp-8GPdNs3lz570ErKHeG85gnP5kD4NF3QKLxImeIB6gYgJotd403Mb7w",
         "userName": "Jeannoel Viseux",
         "userImage": "https://lh3.googleusercontent.com/-jD4rxINIA6U/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmMi8TpH2O9QVSSog1dBpUKnJXnrQ/photo.jpg",
@@ -41,7 +53,7 @@
         "userImage": "https://lh3.googleusercontent.com/-HufF6b0wC_k/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclaraTgY0ptEo7iOyGNd_NjaSnIcw/photo.jpg",
         "content": "Impossible d'activer mon compte. J'ai \u00e9t\u00e9 en contacte avec une personne positive au COVID-19, on me demande d'activer mon compte en me donnant des identifiants. Je suis bien reconnu, puis on me demande ma date de naissance mais elle s'av\u00e8re \u00eatre incorrecte. J'ai essay\u00e9 sur portable, sur l'appli et sur mon ordinateur rien \u00e0 faire. Impossible de trouver un num\u00e9ro ou un contact \u00e0 qui s'adresser.",
         "score": 1,
-        "thumbsUpCount": 1,
+        "thumbsUpCount": 5,
         "reviewCreatedVersion": "1.5.21",
         "at": "2020-08-08 16:42:58",
         "replyContent": null,

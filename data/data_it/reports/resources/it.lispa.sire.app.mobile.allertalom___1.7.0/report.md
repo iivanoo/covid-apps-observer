@@ -188,6 +188,8 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <img src="4_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 4 reviews"/>
 </p>
 
+> Bene<br> :date: __2020-08-17 13:59:27__
+
 > Semplici e chiare informazioni. Grazie<br> :date: __2020-08-06 20:51:49__
 
 > Applicazione utile ed abbastanza ben progettata. Vorrei però capire a cosa serve la sezione Preferiti, dal momento che non riesco a trovare nessuna schermata da cui aggiungere qualcosa alla lista...<br> :date: __2020-08-01 14:47:36__
@@ -206,8 +208,6 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 
 > Secondo me sarebbe ancora più utile se le domande non si riferissero solo ai precedenti 15 giorni allargando il periodo temporale a tutto il 2020 lasciando un campo libero per aggiungere delle note oppure chiedendo la data in cui sono iniziati e finiti determinati sintomi o contatti con persone e luoghi infetti. dopo l'aggiornamento giugno 2020 la finestra di pop-up finale dopo la compilazione non viene visualizzata correttamente<br> :date: __2020-06-07 18:54:52__
 
-> Grazie per la risposta che non ha chiarito il problema. non sono risposte inesatte ma nemmeno precise. Es. Se la mia temperatura è 36,3 devo scegliere se segnare 36 o 36,5. Per questo ho detto che le risposte non sono precise. Lo stesso per le altre domande categoriche e sempre le stesse. So benissimo che se ho un malessere nuovo devo rivolgermi al mio medico. Leggendo anche altre recensioni le osservazioni sono più o meno le stesse e non si comprende quale utilità abbia questa ricerca.<br> :date: __2020-06-06 09:52:05__
-
 
 
 #### 3-star reviews
@@ -215,6 +215,10 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 3 reviews"/>
 </p>
+
+> Funzionare funziona... le cose che ci sono servono... bruttina. Quello si e le allerte meteo attendibili come le previsioni mentre per i decreti covid rimanda ad apposite pagine on line.<br> :date: __2020-08-20 22:16:38__
+
+> Le previsioni meteo sono quasi sempre sballate<br> :date: __2020-08-17 14:05:10__
 
 > Non sempre veritiere<br> :date: __2020-07-26 16:43:10__
 
@@ -231,10 +235,6 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 > L'app è ben fatta, solo a volte non arrivano le notifiche ma gli SMS. Inoltre, come si fa a cambiare i numeri associati all allerta meteo? Non vedo nessun menù a disposizione. Grazie<br> :date: __2020-06-09 07:43:19__
 
 > Per la parte covid, con Android mi è impossibile compilarla nè per me, nè per la mia famiglia. Ritengo sia un baco. Ci ho riprovato e funziona.<br> :date: __2020-06-08 16:11:32__
-
-> Lasciando perdere per un attimo l'aggiunta della sezione covid, poco integrata e sviluppata, per quanto riguarda le allerte sarebbe bene un maggiore sviluppo. Ad esempio vorrei poter vedere nelle notifiche il colore e la descrizione delle allerte emesse Se si potesse sarebbe bello addirittura poter selezionare una provincia preferita per le allerte<br> :date: __2020-06-08 13:26:21__
-
-> Boh info perlopiu' inutili ed esageratamente allarmistiche<br> :date: __2020-06-06 07:58:56__
 
 
 
@@ -272,6 +272,12 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <img src="1_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 1 reviews"/>
 </p>
 
+> Tutti i giorni un'allerta meteo, tutte sbagliate<br> :date: __2020-08-23 19:33:58__
+
+> La mia versione dell'app non mostra la mappa con i livelli di allerta colorati, ma solo l'elenco. Ho disinstallato e reinstallato più volte senza ottenere cambiamenti. Praticamente non ho il tasto del menù a tendina di scelta della visualizzazione ad elenco o a mappa (non ho le "tre righette" in alto a destra vicino alla scritta "regione Lombardia"). Perché?<br> :date: __2020-08-19 00:21:07__
+
+> Continua a bloccarsi e non si apre, peccato sarebbe utile<br> :date: __2020-08-18 07:05:22__
+
 > Na pir. .<br> :date: __2020-08-16 14:41:43__
 
 > Grande sciocchezza il fatto che non si possano variare determinati dati. Ad esempio, durante il periodo di maggiore virulenza, ho compiuto gli anni. Se non scarichi l'app e poi la ricarichi, rimane fisso il dato degli anni compiuti, così come caricato in origine. Poi le allerte non mi arrivano mai. Sto parlando di fenomeni atmosferici. Nella mia zona, da maggio 2020, ce ne sono stati almeno due. La tengo caricata per campanilismo, ma le applicazioni efficienti sono veramente tutt'altra cosa.<br> :date: __2020-08-14 13:37:08__
@@ -285,11 +291,5 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 > Inutile per il virus...come tutte le iniziative lombarde<br> :date: __2020-08-02 17:55:12__
 
 > Pessima veramente, assurdo<br> :date: __2020-07-29 12:48:33__
-
-> Mi obbliga a compilare la parte del covid e comunque anche quando provo a compilare la parte del covid non mi lascia andare avanti continuando a dire che non ho compilato tutti i campi anche se li ho compilati<br> :date: __2020-07-21 23:56:26__
-
-> 2ww<br> :date: __2020-07-18 14:54:10__
-
-> Pessima. Sembra scritta da fontana ⛲ & gallera..😱 Peggio che inutile<br> :date: __2020-07-13 22:01:24__
 
 

@@ -187,6 +187,10 @@ The SiciliaSiCura app has been installed by more than **50000** times. At this t
 <img src="3_star_reviews_wordcloud.png" alt="com.siciliasicura.app 3 reviews"/>
 </p>
 
+> Mi dite che numero giusto di telefono cellulare che occorre indicare?? Cosa significa "il valore può contenere +...". Ho provato a formulare il numero in modi diversi ma non si va avanti Concetta<br> :date: __2020-08-19 18:56:14__
+
+> Considerati i nuovi obblighi, è necessario che sui traghetti ci sia meno gente e che tutti indossino la mascherina in modo corretto (coprendo naso e bocca) iniziando dal personale addetto......l'aliscafo di ieri da Milazzo a Lipari era stracolmo di gente e tantissimi ospiti indossavano la mascherina in modo non corretto<br> :date: __2020-08-18 09:22:52__
+
 > App dal potenziale interessante ma arrivato sull'isola non ho trovato, fino ad ora, NESSUN locale in cui si riapettino le regole BASE anti covid!! Camerieri senza mascherina, nessuna sanificazione dei tavoli dove si è mangiato, presenza di oggetti usati da altri commensali (bottiglie di olio, sale ecc) si vede che l'isola fino ad ora è stata risparmiata dalla pandemia, speriamo non arrivi nessun turista positivo al covid altrimenti saranno guai per tutti!<br> :date: __2020-07-15 11:11:26__
 
 > È molto invadente, mi chiede come sto e se mi piace la Sicilia anche quattro volte al giorno, sto pensando di cancellarmi e di disinstallarla, tanto ormai sono passate tre settimane dal mio arrivo<br> :date: __2020-07-11 16:14:48__
@@ -202,10 +206,6 @@ The SiciliaSiCura app has been installed by more than **50000** times. At this t
 > La email di conferma arriva in italiano. Ma come si puó pensare di fare turismo in questo modo?<br> :date: __2020-06-21 12:34:07__
 
 > Provo a registrarmi e la mia mail risulta già presente, ma io non ho mai scaricato né app e nulla, cosa debbo fare?<br> :date: __2020-06-11 18:19:53__
-
-> È legalmente obbligatoria per entrare in Sicilia? Grazie<br> :date: __2020-06-10 17:44:39__
-
-> Salve, potreste dirmi come registrare i figli minorenni?<br> :date: __2020-06-10 14:19:32__
 
 
 
@@ -243,6 +243,12 @@ The SiciliaSiCura app has been installed by more than **50000** times. At this t
 <img src="1_star_reviews_wordcloud.png" alt="com.siciliasicura.app 1 reviews"/>
 </p>
 
+> Installata ma si blocca allo Splash<br> :date: __2020-08-22 20:51:10__
+
+> Buongiorno io ho scaricato l' app ma non riesco a registrare nessuno, non arriva neanche un email di conferma, cosa fare??<br> :date: __2020-08-20 12:53:20__
+
+> Non è completo il campo delle date, non permette l'inserimento delle date complete.<br> :date: __2020-08-18 10:31:58__
+
 > App con una grafica antica e user experience terribile, per completare la registrazione ti servono almeno 15 minuti. Tutta in Italiano, voglio vedere un turista estero come lo usa.<br> :date: __2020-08-15 19:22:19__
 
 > Non serve a nulla , dicono che arriva un e-mail con username ho fatto a tempo a rientrare dopo una settimana e la sto ancora aspettando<br> :date: __2020-08-13 08:15:35__
@@ -256,11 +262,5 @@ The SiciliaSiCura app has been installed by more than **50000** times. At this t
 > L' app è fatta bene, ma non serve a niente perché le regole non vengono rispettate da nessuno.<br> :date: __2020-08-09 19:19:30__
 
 > Vergogna.<br> :date: __2020-08-09 13:26:48__
-
-> App inutile e problematica se vuoi comprare il biglietto!!! --- Inutile perché devi fare comunque la fila per stampare la carta d'imbarco. --- Problematica perché non snella e con bug (es. No download da sito del codice PNR). --- ATTENZIONE AI COSTI. 4 euro risparmiati online ma occorre pagarne 5 per ritirare il biglietto. --- Agli sviluppatori. NON CANCELLATE il mio giudizio.<br> :date: __2020-08-09 09:10:33__
-
-> Che schifezza installata mano riesco a registrarmi cancellata subito speriamo sia meglio via web<br> :date: __2020-08-08 23:09:22__
-
-> Dopo la registrazione, al momento del checkin, l'app si blocca sul logo e non va avanti.<br> :date: __2020-08-05 22:24:33__
 
 

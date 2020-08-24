@@ -154,6 +154,12 @@ The Asistencia COVID-19 app has been installed by more than **50000** times. At 
 <img src="5_star_reviews_wordcloud.png" alt="es.gob.asistenciacovid19 5 reviews"/>
 </p>
 
+> Esta muy bien<br> :date: __2020-08-23 22:49:53__
+
+> Mejores Salud<br> :date: __2020-08-20 14:17:21__
+
+> Grandioso<br> :date: __2020-08-20 00:35:06__
+
 > No tengo clave ya que no la he recibido<br> :date: __2020-08-14 17:24:47__
 
 > Muy bien<br> :date: __2020-08-13 10:54:31__
@@ -167,12 +173,6 @@ The Asistencia COVID-19 app has been installed by more than **50000** times. At 
 > Ya vuelve a funcionar bien. Gracias!<br> :date: __2020-07-16 16:13:21__
 
 > Excelente<br> :date: __2020-07-11 19:57:53__
-
-> Me intersa<br> :date: __2020-07-11 15:25:07__
-
-> Decine<br> :date: __2020-06-30 15:31:40__
-
-> Aplicación estupenda para vivir con la tranquilidad de sentirse protegida. Aprovecho para felicitar al Servicio Canario de Salud, a la sección de Rastreo y Comunicación, en biblioteca nacional. Las mujeres encargadas de hacer las pruebas del COVID han demostrado, además de ser EXCELENTES PROFESIONALES, tener mucho tacto,. delicadeza además de simpatía. Así da gusto hacerse las pruebas. Me alegraron el día. Muchas gracias.<br> :date: __2020-06-15 09:35:08__
 
 
 
@@ -210,6 +210,8 @@ The Asistencia COVID-19 app has been installed by more than **50000** times. At 
 <img src="3_star_reviews_wordcloud.png" alt="es.gob.asistenciacovid19 3 reviews"/>
 </p>
 
+> Le doy 3 estrellas ✨ porque no me deja probarla, y me dice que hay un error.<br> :date: __2020-08-21 22:46:18__
+
 > Como hago para saber de posibles asintomáticos o contagiados, tenía entendido que esta aplicación aparte de evaluarme también me advertía de posibles contagiados<br> :date: __2020-08-10 18:08:55__
 
 > BIEN ,O NORMAL,intento introducir código que me enviaron y la aplicación me envía a la siguiente página,intento terminar y no puedo, INTENTO AYUDAR AL FILTRADO,de persona descargando sta apli y na de na,ALA POSS AY LO DEJO saludos desde aguimes cruce arinaga , BUEN DIA A TOITOS !!!! NADA lo he vuelto a intentar y nada.intento introducir el código después de tres minutos, y me lleva al siguiente página IMPOSIBLE... Q PUEDO HACER ,programador ??? ANIMO a seguir mejorándolo por FAVOR ! ! !<br> :date: __2020-08-10 09:24:49__
@@ -228,8 +230,6 @@ The Asistencia COVID-19 app has been installed by more than **50000** times. At 
 
 > Faltan autonomías y síntomas q habría q añadir, esto es ridículo q haya 17 reinos de taifas en sanidad cuanto menos los datos de los pacientes debería estar compartida y tantas otras cosas como las vacunaciones...etc<br> :date: __2020-04-13 02:04:34__
 
-> Se queda un poco corta la app. Podrían poner una casilla donde cada uno podría introducir otros síntomas como dolor en la garganta o falta de olfato.<br> :date: __2020-04-12 16:22:18__
-
 
 
 #### 2-star reviews
@@ -237,6 +237,8 @@ The Asistencia COVID-19 app has been installed by more than **50000** times. At 
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="es.gob.asistenciacovid19 2 reviews"/>
 </p>
+
+> Xxxbyu<br> :date: __2020-08-22 13:50:46__
 
 > No me reconoce mi numero movil y no me deja acceder a la app, ¿que puedo hacer?<br> :date: __2020-08-11 21:19:08__
 
@@ -262,6 +264,18 @@ The Asistencia COVID-19 app has been installed by more than **50000** times. At 
 <img src="1_star_reviews_wordcloud.png" alt="es.gob.asistenciacovid19 1 reviews"/>
 </p>
 
+> Lo acabo de instalar y no me funciona. Tengo un Samsung galaxy J3 y no puedo comprarme otro nuevo. Un chasco<br> :date: __2020-08-21 21:08:41__
+
+> No funciona<br> :date: __2020-08-19 23:33:40__
+
+> La app no funciona. En cuanto pongo el número de móvil, aparece un mensaje que dice "error inesperado" y no deja avanzar.<br> :date: __2020-08-19 18:55:08__
+
+> Basura de aplicación da error como todo lo que hacéis.... Mal<br> :date: __2020-08-19 03:51:51__
+
+> Tres veces lo e intentado y las tres veces dice q a ocurrido un error inesperado en dos días diferentes,stoy sperando q m llamen para una pcr. No m estraña q tengamos la tasa mas alta d contagios,haces todo lo posible x hacerlo bien y todo son pegas y problemas.<br> :date: __2020-08-18 22:13:45__
+
+> No permite entrar en canarias introduzco mi numero de movil con el prefijo +34 y me aparece error<br> :date: __2020-08-18 12:19:17__
+
 > Me he descargado la aplicacion pero cuando pongo mi telefono me dice que ha ocurrido un error inesperado,disculpe las molestias y no me deja seguir.<br> :date: __2020-08-14 00:14:14__
 
 > No se me inicia<br> :date: __2020-08-13 16:35:18__
@@ -269,17 +283,5 @@ The Asistencia COVID-19 app has been installed by more than **50000** times. At 
 > Me da error al introducir los datos.<br> :date: __2020-08-13 15:40:50__
 
 > NO SE PUEDE INSTALAR Y ESTO ES OTRA GILIPOLLEZ MÁS PARA SEGUIR COMIENDONOS EL COCO CON EL CUENTOVIRUS ESTE QUÉ SE HAN SACADO DE LA NADA .<br> :date: __2020-08-13 15:02:39__
-
-> Da error al registrarse<br> :date: __2020-08-12 16:08:28__
-
-> No está disponible en mi Cominudad. Un disastro, como todo lo que ha hecho este gobierno matando tanta gente y mintiendo tanto cada minuto. 50.000 muertos y ahora van a por más, los muy sanguinarios.<br> :date: __2020-08-12 08:21:20__
-
-> Una app digna de media estrella, y acorde con el actual gobierno...que promete y dice y dónde dice digo, digo Diego. En resumen una app que prometía y luego resulta una ruina. Lastima de megas😭<br> :date: __2020-08-10 17:44:47__
-
-> La verdad no sirve de mucho solo 50000. Peor no funciona todavía en ni en Galicia ni Madrid<br> :date: __2020-08-10 17:35:44__
-
-> No me gusta porque no tienen para Castilla y León.<br> :date: __2020-08-10 17:15:35__
-
-> Me la descargo porque en mi comunidad que es Aragon es donde más contagios hay en toda Europa y no aparece.. vamos bien..<br> :date: __2020-08-08 15:44:45__
 
 

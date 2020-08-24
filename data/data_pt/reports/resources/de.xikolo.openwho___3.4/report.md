@@ -165,6 +165,8 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 <img src="5_star_reviews_wordcloud.png" alt="de.xikolo.openwho 5 reviews"/>
 </p>
 
+> Ótimo!<br> :date: __2020-08-18 16:10:09__
+
 > Ajuda a saude de todos gostei😏😏<br> :date: __2020-05-16 21:46:48__
 
 > Aprendam a falar e a escrever INGLÊS. É mais útil que Funk!<br> :date: __2020-05-03 15:00:54__

@@ -172,6 +172,8 @@ The Covid-19 app has been installed by more than **10000** times. At this time, 
 <img src="4_star_reviews_wordcloud.png" alt="it.adl.aslroma3.covid19.app 4 reviews"/>
 </p>
 
+> Mi piacerebbe avere l'app x cortesia<br> :date: __2020-08-21 23:11:42__
+
 > Si può individuare qualcuno con il coronaviru<br> :date: __2020-06-08 14:07:56__
 
 > Interessante<br> :date: __2020-05-14 18:21:52__

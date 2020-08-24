@@ -171,6 +171,8 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <img src="5_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 5 reviews"/>
 </p>
 
+> Excelente<br> :date: __2020-08-18 19:42:54__
+
 > Funciona lindamente. Tem toda a informação disponível. O acesso é rápido, desde que já se tenha efetivado o registo na chave móvel digital, que nada tem a ver com esta aplicação, mas sim com um acesso seguro a todos os serviços da administração pública!<br> :date: __2020-08-14 13:39:47__
 
 > Boa<br> :date: __2020-08-07 17:16:51__
@@ -188,8 +190,6 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 > Muito bom.<br> :date: __2020-06-26 00:43:33__
 
 > Porque aufiro tratamentos oncológicos no hospital distrital de Santarém e com atendimento excional.<br> :date: __2020-06-18 00:13:36__
-
-> Muito fixe!<br> :date: __2020-05-25 01:47:57__
 
 
 
@@ -283,6 +283,8 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <img src="1_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 1 reviews"/>
 </p>
 
+> E péssima, não e funcional para a maioria da população<br> :date: __2020-08-23 15:21:51__
+
 > Não se consegue entrar a não ser que se tenha um leitor de cartões<br> :date: __2020-08-06 14:37:20__
 
 > Para android mais antigo !????<br> :date: __2020-08-02 11:06:09__
@@ -300,7 +302,5 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 > Uma verdadeira dor de cabeça para entrar desde que mudaram para autenticação com cartão se cidadão!! Não se consegue entrar sequer!!! Com o pin correto! Inutilidade!!! Uma vergonha!<br> :date: __2020-07-02 19:25:28__
 
 > 😡😡😡😡<br> :date: __2020-06-24 15:47:21__
-
-> Não consigo entrar através cmd e nem consigo ajuda. Bastava o contato do tmv para confirmar através de mensagem a pass e ter acesso à aplicação. É impossível de se fazer algo com tanta burocracia<br> :date: __2020-06-19 23:40:32__
 
 

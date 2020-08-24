@@ -3,35 +3,35 @@
         "id": "au.gov.health.covidsafe",
         "store_country": "au",
         "store_lang": "en",
-        "latest_crawled_version": "1.0.48",
-        "latest_crawl": 1597668962
+        "latest_crawled_version": "1.0.56",
+        "latest_crawl": 1598254880
     },
     {
         "id": "org.who.infoapp",
         "store_country": "au",
         "store_lang": "en",
-        "latest_crawled_version": "2.3.3",
-        "latest_crawl": 1597669172
+        "latest_crawled_version": "2.3.4",
+        "latest_crawl": 1598255087
     },
     {
         "id": "au.gov.health.covid19",
         "store_country": "au",
         "store_lang": "en",
-        "latest_crawled_version": "1.4.5",
-        "latest_crawl": 1597669221
+        "latest_crawled_version": "1.4.6",
+        "latest_crawl": 1598255234
     },
     {
         "id": "com.myaus",
         "store_country": "au",
         "store_lang": "en",
         "latest_crawled_version": "29",
-        "latest_crawl": 1597669225
+        "latest_crawl": 1598255390
     },
     {
         "id": "de.xikolo.openwho",
         "store_country": "au",
         "store_lang": "en",
         "latest_crawled_version": "3.4",
-        "latest_crawl": 1597669233
+        "latest_crawl": 1598255400
     }
 ]

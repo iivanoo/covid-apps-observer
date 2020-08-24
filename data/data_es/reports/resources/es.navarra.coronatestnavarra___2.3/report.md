@@ -200,6 +200,8 @@ The CoronaTest Navarra app has been installed by more than **5000** times. At th
 <img src="1_star_reviews_wordcloud.png" alt="es.navarra.coronatestnavarra 1 reviews"/>
 </p>
 
+> Despues de mas de dos meses siguen mandándome dos SMS al dia diciendome que me tome la temperatura. Cuando va a parar??<br> :date: __2020-08-18 13:14:26__
+
 > Penosa app, se rien en tu cara...<br> :date: __2020-07-01 10:51:35__
 
 > Solo te dice si estás contagiado en función de que le respondas que tienes síntomas. No da información sobre número de contagiados en la zona ni nada en tiempo real<br> :date: __2020-05-27 08:17:55__

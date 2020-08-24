@@ -1,5 +1,65 @@
 [
     {
+        "reviewId": "gp:AOqpTOEATONeMxXKkGXo10sDWVOwPiMTEJJBvaxglvd14CTVquy_iJsP-EDsWh_tQ65owbUtuWXyN43hAxhCwBU",
+        "userName": "Ray Aznavorian",
+        "userImage": "https://lh3.googleusercontent.com/-BG1A7ckx0Xk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnxC9LDvboSV5BSM3qxKYkULundqA/photo.jpg",
+        "content": "Overall decent, but I don't need 17 alerts in one hour for the same storm.",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.11.1",
+        "at": "2020-08-24 01:10:21",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFxCuRks1tmWALPU2j26TBjnHIbdbScwpsOQ4e6VHeHaz0HadPiKI_V7iyDIbcP3Wr7zoQKctLUNEkJ-GM",
+        "userName": "Ruby Lee",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjH3DLkR0J96TyA1zgyBbWsIg-1R2FFRR-iKqF9",
+        "content": "What is it with this app. I've.been trying to download it for three days how long does it take to for it to download .we are about to be hit with a hurracain.this is messed.up",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.11",
+        "at": "2020-08-23 03:40:24",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGRPFQTKmRXmfYCLtbcOG0Ze8P-tAx6lgjlXs0vRMNgZdZIN9nbkXWC76O6fADUVwBNdevwt5Y6DHLvjcs",
+        "userName": "Jamison Smith",
+        "userImage": "https://lh3.googleusercontent.com/-1f_nKivYeiQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucken5Nj8Yr7dZg22rIrcghz0KQDGg/photo.jpg",
+        "content": "The type is thinner and less legible with this update. The unnecessary style change reduces its usefulness to me. Plus, I have not received alerts about the smoke in my area or the fires near me although I specified that in the settings. So I uninstalled it.",
+        "score": 3,
+        "thumbsUpCount": 35,
+        "reviewCreatedVersion": "2.11.1",
+        "at": "2020-08-21 06:13:51",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOG41d3PGoUFJvMmRaFXNaKkH3ZaETmXfgi_Qi_S06Hg9XrOlm4lCIiMnpLjWKfI7zqzLLuDfES6MdnvXfk",
+        "userName": "Lorena Escalante",
+        "userImage": "https://lh3.googleusercontent.com/-C7BJQ0yANm4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclQuYfj4sYVI8iaS0C0aOYB0w-JIw/photo.jpg",
+        "content": "Good info",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2020-08-19 06:16:24",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOH0VgqZoitXw4jtHivnmogmUs_4XtW3hqiSoM9MSSygv3LcCZU0YdIxQuBP4PtG8yy--VP2lAJUbz-r5mc",
+        "userName": "Janet Roberts",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhX8dyVkJFVJafjZGYbfvDRm53ARRM9IVYGgP-HeA",
+        "content": "Government",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2020-08-19 00:15:04",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOHNT9d-Btx0WpZu1ZZJfeZGZBuiVqj6pT6CzheLWaKS1Ur7Xo8sAWdYQqN3hi63DsQdmiAofbVkIPYzeiw",
         "userName": "EDWARD ENES",
         "userImage": "https://lh3.googleusercontent.com/-zWT7p2q2PSc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucldeoDarlDUyJ5wvzMsMJuOpJynjg/photo.jpg",
@@ -77,7 +137,7 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Ggn-6J6r6FPu-6qd7T2JA_N9m1cUrt4uKz_OZwWCA",
         "content": "It's missing the alerts Snow Squall Warning, Inland Hurricane Warning, Inland Hurricane Watch, Inland Tropical Storm Warning, and Inland Tropical Storm Watch.",
         "score": 4,
-        "thumbsUpCount": 36,
+        "thumbsUpCount": 40,
         "reviewCreatedVersion": "2.11.1",
         "at": "2020-07-27 22:57:25",
         "replyContent": null,
@@ -137,7 +197,7 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Ggd7HUx2c0AqiHWnYxevoZCwK7HzBZpz8U6MjQbIaY",
         "content": "Needs to be GPS enabled. I shouldn't have to create a list of areas to monitor",
         "score": 1,
-        "thumbsUpCount": 29,
+        "thumbsUpCount": 34,
         "reviewCreatedVersion": "2.11.1",
         "at": "2020-07-22 14:55:20",
         "replyContent": null,
@@ -185,7 +245,7 @@
         "userImage": "https://lh3.googleusercontent.com/-6f2XcXQkM2M/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn2PP6yN9VHrf_n15FkYmyDXTKAAQ/photo.jpg",
         "content": "Getting several alerts with little or no lead time. Several other alerts just multiples of previous alerts with no changes in them at all. That's probably FEMA but still downgrades usefulness.",
         "score": 2,
-        "thumbsUpCount": 32,
+        "thumbsUpCount": 35,
         "reviewCreatedVersion": "2.11.1",
         "at": "2020-07-19 21:22:25",
         "replyContent": null,
@@ -289,8 +349,8 @@
     },
     {
         "reviewId": "gp:AOqpTOGPRPAJnZ-8dhcapbNQhuAFR8iY0jo3bZp9liMBUTA2CDJX7S5YWMuMUfeLUNw-Y1b22o-7rTkiM0Wp-1Y",
-        "userName": "Mike Rosendo",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Ghc4fqFdO-6wKE-k7s9QjG8yIpv5ninulgnBXxZXA",
+        "userName": "Mike",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjCGElgwiPNnM1esTw2juTI95e8DHjGFpD2qzR5wg",
         "content": "I would look them up and see what they are really about. We need less government in our life and lower We are Tax Enough Already.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -353,7 +413,7 @@
         "userImage": "https://lh3.googleusercontent.com/-PppxaOC1Qw8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclyVGcrSEhQAviFl5HC3NslcogfHA/photo.jpg",
         "content": "The app should work off line. I cannot use the app with cellular data. Alerts set to my location only notify me when I have Wi-Fi and completely disappear if I'm not connected. How is this convenient during a disaster?",
         "score": 1,
-        "thumbsUpCount": 26,
+        "thumbsUpCount": 27,
         "reviewCreatedVersion": "2.11",
         "at": "2020-06-21 22:29:23",
         "replyContent": null,
@@ -1001,7 +1061,7 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgTflacnqVGsX-N-zg6OkBI0TUR24Iu8Mp38x6G",
         "content": "pretty good app...it lets you pick locations you want to monitor and it lets you customize the weather settings so youre not pestered to death about things you dont need to know about...i need to figure out if l can fine tune it however...l'm still getting silly things in the middle of the night like it will be \"windy\" today or \"foggy\"...thats all well and good...just not at 0300.",
         "score": 4,
-        "thumbsUpCount": 145,
+        "thumbsUpCount": 146,
         "reviewCreatedVersion": "2.11",
         "at": "2020-04-26 17:06:27",
         "replyContent": null,
@@ -2184,18 +2244,6 @@
         "repliedAt": null
     },
     {
-        "reviewId": "gp:AOqpTOGRPFQTKmRXmfYCLtbcOG0Ze8P-tAx6lgjlXs0vRMNgZdZIN9nbkXWC76O6fADUVwBNdevwt5Y6DHLvjcs",
-        "userName": "Jamison Smith",
-        "userImage": "https://lh3.googleusercontent.com/-1f_nKivYeiQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucken5Nj8Yr7dZg22rIrcghz0KQDGg/photo.jpg",
-        "content": "Ever since the update I haven't been getting the Red Flag warnings for Alameda County during the week the fire danger was so high that PG&E was shutting off power. The previous version worked better.",
-        "score": 2,
-        "thumbsUpCount": 34,
-        "reviewCreatedVersion": "2.10.5",
-        "at": "2019-10-13 08:02:03",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
         "reviewId": "gp:AOqpTOFGLGtlzEuad1_P__TmN0_QtMRJpDXPKWCKtylj4vjWSDwro-wJsoqwgHmBViog9YeNv7M3g_xwlNV3zcE",
         "userName": "PSANDPCGAMER95",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiLZcnSoedpNNos-6uXIqUnoTbB2R-zxNvrAoyDag",
@@ -2618,7 +2666,7 @@
     {
         "reviewId": "gp:AOqpTOGb3j_2i3R2UnHoHR0bTdCTiWS64d-wFN5Vl8XzbCB4ZYGYONvex4XHGQ_1GTmf5GAHGy2IRqCqwA7_-7o",
         "userName": "Wesley Earl Loveless / Wesley Earl Montanye",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgCMQ1pPNKeXh_2X5orfFrFZldiEsgLKA37jsUU3Q",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjuDjn90rc13cRnTubirzfJwLhtlUQ_5AyZE-AS8Q",
         "content": "thank you !! Works...",
         "score": 5,
         "thumbsUpCount": 4,
@@ -2840,18 +2888,6 @@
         "thumbsUpCount": 4,
         "reviewCreatedVersion": null,
         "at": "2019-08-04 06:02:28",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOE66dDIrXF9cthxaU_M_DbeEy1LqI_NhNiI8lRCNQr7o5nn48LIWcIID5yUDRaQ3LbB7cUKb-m67w2hc_A",
-        "userName": "Todd Harrington",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GghomxgGxk5k_iW9VxvrcGQALoyKJbEC_BjNzBuRBI",
-        "content": "would not allow me to enter my city or state. ( Appleton, Wisconsin 54915)",
-        "score": 1,
-        "thumbsUpCount": 3,
-        "reviewCreatedVersion": null,
-        "at": "2019-08-02 18:42:59",
         "replyContent": null,
         "repliedAt": null
     },
@@ -3086,7 +3122,7 @@
     {
         "reviewId": "gp:AOqpTOG7v3xc8Cioy4zsDx1qEqy7ceUjkx1BxBdjfvDTLNom-g5iCIQkvC5Et66z1aFStZzux-s7Uq1JutaB9FA",
         "userName": "David Smith",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgYwa_yJMYG5kBeyW3CUodxfgBVhVyzDirWtmMZiJY",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gh6EXpfBTaKt7EdPJRtdFWoQ_M5TzXFCEGy6z-wu0U",
         "content": "This app is great for storm season, and off season. The app provides timely alerts. The problems I have are 1. I sleep through my message tone. Customisable alert tones, maybe a different tone for each section, would make sure I receive life saving alerts in the middle of the night. Fix that and I'll give 5 stars 2. Less important is a radar map.",
         "score": 3,
         "thumbsUpCount": 8,
@@ -3193,7 +3229,7 @@
     },
     {
         "reviewId": "gp:AOqpTOFlcw9VaCc70WrdWZcObmb8XZdbzfOfD4XlVmATVqBvpqYLbc_M-tTWbKhPot7mMByphrUZoz2mtcVm_P8",
-        "userName": "J Rocket",
+        "userName": "Holeden Maigroine",
         "userImage": "https://lh3.googleusercontent.com/-nvT9_zPrnGU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckhF2K8dQIqJAxviACryEZHy-8Lhg/photo.jpg",
         "content": "Great app. Got alerts faster than the news, NWS and Google. Helped protect myself and family during tornado watch/warning.",
         "score": 5,
@@ -3853,7 +3889,7 @@
     },
     {
         "reviewId": "gp:AOqpTOFhr6GdMtvJ0oBMp-KdloMkEvJ-2yks4AxqDQo9tGuXZKXD72rhM_jAsragwIBcEDLUtGpiHtBrZF7fJyo",
-        "userName": "Peter Krawetzky",
+        "userName": "Peter J Krawetzky",
         "userImage": "https://lh3.googleusercontent.com/-FRyoEHzud4E/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckEVU1rVTbo1wS2DjWGJh8NLrKZSQ/photo.jpg",
         "content": "uninstalled it sends SMS messages for alerts that are not selected. can't shut them off. I will reconsider this app if they fix this.",
         "score": 1,
@@ -4273,7 +4309,7 @@
     },
     {
         "reviewId": "gp:AOqpTOFI-ZlpMb1coHr8mM25U9aAVpT5UJNftQl1PXsNNnwSIUZJhNVoEgAbaNNzSXkW5RX38-h_0g5jvsuQmHI",
-        "userName": "Michael Mandonado",
+        "userName": "Mike Softpaw",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiPS5yt6UhYA4jda628Q0JfltuBSpezEZdyi9i72A",
         "content": "Needs an update to fix Alert tab",
         "score": 1,
@@ -4813,7 +4849,7 @@
     },
     {
         "reviewId": "gp:AOqpTOHtRvKVWk4JJggSn8UHwFJrZlRXjGvzGfgvvwToRbHQXjhLJMJFY1lzyyBBbxI7TxjVD4_48hzgAOO8oXQ",
-        "userName": "97BLEACH77",
+        "userName": "Jay Noel",
         "userImage": "https://lh3.googleusercontent.com/-4d7SxxwbBwg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmk2fLGHeE80lVPgj8Q6rsWaLGTDg/photo.jpg",
         "content": "MAGA Trump-Pence 2020",
         "score": 5,
@@ -7884,18 +7920,6 @@
         "repliedAt": null
     },
     {
-        "reviewId": "gp:AOqpTOG1YkC6fl1xj544VSekpZKxtLoBLJs7UDBXAr4EGpWPMSuz7qeqIJXEJQ0JiD068h_74yc-zuxs29wi-y0",
-        "userName": "Laura Fletcher",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiFG0h3pDgoykdjdGCPzLMPpQL0iakr9cf0bpgA",
-        "content": "Laura",
-        "score": 4,
-        "thumbsUpCount": 2,
-        "reviewCreatedVersion": "2.8.2",
-        "at": "2016-08-05 10:42:35",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
         "reviewId": "gp:AOqpTOHsjNGYAtm61wefUlKSAe947w5SLgg1opcp5yYW5Y5yi7XYMyzrTEe4C7RfLrEB-Z8SaRsh7N93rHL6CiE",
         "userName": "Ruck Pilot",
         "userImage": "https://lh3.googleusercontent.com/-WPhZSV7bhNI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckVSJyUgCnAREmmKda44g6vovSCyQ/photo.jpg",
@@ -7934,7 +7958,7 @@
     {
         "reviewId": "gp:AOqpTOEx2adJa43UxwCJcLU9MnoSLa6BBC1bVZKULSDQ8C2ZFcaR-3P9jAvgRE0ZyMs8lH2tB3ULtkqS9oTWnRA",
         "userName": "Skylar Kennedy",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiRa8jn7el7-EKr1L8dpbXVM2g84Gqtw33wyX_aXs4",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjLWHKwPg8GPsxrFX0pQmYtnqfilguanS8aWUpOing",
         "content": "Federal Emergency Management APP",
         "score": 5,
         "thumbsUpCount": 0,

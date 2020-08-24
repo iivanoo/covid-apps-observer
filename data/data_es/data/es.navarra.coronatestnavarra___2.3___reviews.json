@@ -1,5 +1,17 @@
 [
     {
+        "reviewId": "gp:AOqpTOGGVA3J-O3PjDRwO5Fc51TUZWPbrJIEjXVlDsc5ZVZ67UkoYGJsQ2VW2_tZG9en1ORLco7CLuC2-JgK4FI",
+        "userName": "itsaso zabalza",
+        "userImage": "https://lh3.googleusercontent.com/-xITa3y0q0HY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmHpwFWQ2TOh8yof2XEY03kJ8170Q/photo.jpg",
+        "content": "Despues de mas de dos meses siguen mand\u00e1ndome dos SMS al dia diciendome que me tome la temperatura. Cuando va a parar??",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.2",
+        "at": "2020-08-18 13:14:26",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOHmxrL8dr85nHysQQRTjQpZJEc5ocXYEltPb6XF8w7W7WHHdltuuoi_4ZLjElH6eUG3f6wJ6KGMA3KGp7A",
         "userName": "oescar",
         "userImage": "https://lh3.googleusercontent.com/-hcXVSAhtOpo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm1WnRW5ui-AxLsCSzkFIZePo-eJA/photo.jpg",
@@ -17,7 +29,7 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gj4eksfYLYR_RKKoLcdkzdC69ij3-AGMf8w3SV0ww",
         "content": "La veo escasa, aunque todo viene bien. Tendr\u00eda que tener mapas do de te dice si hay alguien cerca con covid",
         "score": 2,
-        "thumbsUpCount": 1,
+        "thumbsUpCount": 2,
         "reviewCreatedVersion": "2.2",
         "at": "2020-08-10 13:30:33",
         "replyContent": null,
@@ -113,7 +125,7 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjDVops6yiXjD0-MB9iQ3pMC1Z1Sgq5MwhlXfzg",
         "content": "Buena app, muy f\u00e1cil de utilizar. Espero que haya siguientes versiones con m\u00e1s acciones. Adem\u00e1s del test y consejos, me parece muy interesante saber cu\u00e1ntos casos hay en tiempo real.",
         "score": 5,
-        "thumbsUpCount": 21,
+        "thumbsUpCount": 23,
         "reviewCreatedVersion": "1.1",
         "at": "2020-04-11 00:46:35",
         "replyContent": null,

@@ -188,6 +188,10 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 <img src="5_star_reviews_wordcloud.png" alt="gov.cdc.general 5 reviews"/>
 </p>
 
+> Like this app because of the usefull Information it have<br> :date: __2020-08-23 23:39:44__
+
+> N/A<br> :date: __2020-08-17 16:28:56__
+
 > I have always used this app.<br> :date: __2020-08-17 03:41:55__
 
 > Great<br> :date: __2020-08-14 15:54:32__
@@ -203,10 +207,6 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 > I never tried it before so it my first time I am now sick 😷 So I so this aap now I am going tried I am very interested in the aap I hope I don't get it please let us pray 🙏 for alaah my he give as life ya ahaal<br> :date: __2020-07-25 10:19:04__
 
 > Great<br> :date: __2020-07-21 06:31:00__
-
-> Informative<br> :date: __2020-07-11 11:03:54__
-
-> It tells information about everythin<br> :date: __2020-07-11 00:53:43__
 
 
 
@@ -244,6 +244,8 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 <img src="3_star_reviews_wordcloud.png" alt="gov.cdc.general 3 reviews"/>
 </p>
 
+> I think the apps utilization could be much better but overall the app is very helpful for information.<br> :date: __2020-08-23 04:24:46__
+
 > Needs to make the covid tracker avalible on this app.<br> :date: __2020-08-05 14:36:00__
 
 > This application was good but I wish it would have a section on were the were the covid-19 was maybe they should work with Google maps to show the information. Like how the escort raider detector application live feed.<br> :date: __2020-07-07 15:05:04__
@@ -261,8 +263,6 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 > App does not work on android phones.<br> :date: __2020-05-15 00:22:26__
 
 > Useful to keep up, especially with the Sars-CoV-2 outbreak, but really annoying design. Harder to help less technically inclined use it.<br> :date: __2020-05-08 04:29:03__
-
-> Nice<br> :date: __2020-05-03 06:10:21__
 
 
 
@@ -300,6 +300,8 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 <img src="1_star_reviews_wordcloud.png" alt="gov.cdc.general 1 reviews"/>
 </p>
 
+> Slow and wrong information.<br> :date: __2020-08-23 14:09:31__
+
 > All it does is white screen<br> :date: __2020-08-16 19:13:23__
 
 > Racist fear mongering app<br> :date: __2020-08-08 17:44:06__
@@ -317,7 +319,5 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 > it doesn't work<br> :date: __2020-07-12 22:33:13__
 
 > Not a tracker<br> :date: __2020-07-05 23:23:48__
-
-> 99 harmless . Trump said<br> :date: __2020-07-05 22:07:02__
 
 

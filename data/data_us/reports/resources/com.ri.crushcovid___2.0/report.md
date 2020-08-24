@@ -152,6 +152,8 @@ The CRUSH COVID RI app has been installed by more than **10000** times. At this 
 <img src="5_star_reviews_wordcloud.png" alt="com.ri.crushcovid 5 reviews"/>
 </p>
 
+> Works<br> :date: __2020-08-21 09:27:11__
+
 > Great App<br> :date: __2020-08-13 03:47:45__
 
 > I think its Great, I love it.<br> :date: __2020-07-12 18:48:06__
@@ -169,8 +171,6 @@ The CRUSH COVID RI app has been installed by more than **10000** times. At this 
 > Excellent tool to track all those sick people.<br> :date: __2020-05-29 21:11:47__
 
 > Eats to much battery<br> :date: __2020-05-27 18:23:52__
-
-> Thanks for help<br> :date: __2020-05-23 17:24:32__
 
 
 
@@ -236,6 +236,10 @@ The CRUSH COVID RI app has been installed by more than **10000** times. At this 
 <img src="2_star_reviews_wordcloud.png" alt="com.ri.crushcovid 2 reviews"/>
 </p>
 
+> Location tracker doesn't work<br> :date: __2020-08-19 17:52:53__
+
+> Location has never worked even though all settings and permissions have been done. My phone with Google maps me correctly on the few occasions I went out, so I know the phone functions work . What is the problem with this?<br> :date: __2020-08-17 20:09:30__
+
 > The location is not accurate most of the time. And everytime I try to submit how I feel today, I get an error. I wish it would let you edit the location<br> :date: __2020-08-06 13:28:54__
 
 > Doesnt work. Keeps saying I'm not connected to the internet. Data and location settings are correct.<br> :date: __2020-07-31 18:42:15__
@@ -252,10 +256,6 @@ The CRUSH COVID RI app has been installed by more than **10000** times. At this 
 
 > Location diary inaccuracy. There are days missing in history when i know i was out in area.<br> :date: __2020-07-11 20:19:44__
 
-> Not accurate. Needs a feature for correcting addresses. Not compatible with the covid tracker that was placed on cell phones.<br> :date: __2020-07-10 08:36:38__
-
-> I've had this app on my phone for about a month now and I assumed it was keeping track of where I go, apparently that isn't the case because it's only showing two places in a month which is wrong. I also stopped keeping a contact diary after downloading the app and now I will have a hard time remembering everywhere I've been the past month. Luckily I stay home a lot more than I used to but it's not showing any markets or stores I've been to. I think I'm just going to delete the app.<br> :date: __2020-06-29 20:04:33__
-
 
 
 #### 1-star reviews
@@ -263,6 +263,10 @@ The CRUSH COVID RI app has been installed by more than **10000** times. At this 
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="com.ri.crushcovid 1 reviews"/>
 </p>
+
+> This app still doesn't accurately keep track of my location 😒! I did everything suggested to assist it that was given as "tips" and it's not right 95% of the time! I always have my phone on and use either data or wi-fi. The only location that it gets correct sometimes is home. If it doesn't get fixed I might as well uninstall it.<br> :date: __2020-08-21 17:37:19__
+
+> If it can't track my location, then what good is it? It's good for nothing. I don't need this app taking up space on my phone if it doesn't work.<br> :date: __2020-08-19 20:05:36__
 
 > PLEASE REFACTOR LOCATION TRACKING! Perhaps the sensing approach met privacy goals, battery drain etc., but it's not delivering and some courage is needed (leadership) to face the reality and use or license someone else's proven working tracing approach. (And having to load app manually and keep in a foreground process all the time is plain daffy! When I happen to remember and do it, the location data it gathers is more wrong than right...)<br> :date: __2020-08-16 17:20:13__
 
@@ -279,9 +283,5 @@ The CRUSH COVID RI app has been installed by more than **10000** times. At this 
 > No location tracking to be seen since the update to 2.0<br> :date: __2020-07-19 21:08:14__
 
 > The location diary is a joke - records places that I have never been near. This is disturbing as I only downloaded for purposes of contact tracing. If tracers were to go by my diary they would be doing a lot of unnecessary work - and, I would hate to be contacted based upon inaccurate data in other users diary. VERSION 2.0 LOCATION DIARY IS WORSE THAN V1.5. HAS ME IN PLACES THAT I LOOKED UP, BUT NEVER WENT TO, IN GOOGLE MAPS. ALSO, HAS ME AT HOME FOR 23HR, 59MIN ONE DAY BUT I TRAVELED TO MA.<br> :date: __2020-07-19 04:46:09__
-
-> Failed to save my data<br> :date: __2020-07-18 18:48:21__
-
-> This app is not accurate at all. It will put you two miles from your actual location. It had me at an elementary school in Coventry when I was at Walgreens in West Warwick. When I am home it says I'm in Barrington on the other side of the bay. I'm pretty sure accuracy is important.<br> :date: __2020-07-16 20:27:29__
 
 

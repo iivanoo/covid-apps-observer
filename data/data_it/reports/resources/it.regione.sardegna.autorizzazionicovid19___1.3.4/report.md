@@ -160,6 +160,8 @@ The Sardegna Sicura app has been installed by more than **100000** times. At thi
 <img src="5_star_reviews_wordcloud.png" alt="it.regione.sardegna.autorizzazionicovid19 5 reviews"/>
 </p>
 
+> Applicazione buona, registrazione avvenuta senza problemi. Felice di comunicare i miei spostamenti per la mia sicurezza e per quella della popolazione sarda. Se poi nulla mi verrà chiesto al momento dell'imbarco... pazienza!<br> :date: __2020-08-20 22:17:51__
+
 > Perfetta<br> :date: __2020-08-12 12:31:09__
 
 > Per mia consapevolezza.<br> :date: __2020-08-08 06:04:23__
@@ -178,8 +180,6 @@ The Sardegna Sicura app has been installed by more than **100000** times. At thi
 
 > Organizzazione ottima. Sbarco ad Olbia e accoglienza pronta al passeggiero<br> :date: __2020-07-28 06:59:51__
 
-> Sono più tranquillo se uso la App tracciabile..per me...per gli altri.<br> :date: __2020-07-25 08:49:08__
-
 
 
 #### 4-star reviews
@@ -187,6 +187,8 @@ The Sardegna Sicura app has been installed by more than **100000** times. At thi
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="it.regione.sardegna.autorizzazionicovid19 4 reviews"/>
 </p>
+
+> EDIT: ok, grazie del chiarimento, metto 4 stelle. (Non ne metto 5 perché non sono fornite delle informazioni importanti nella descrizione dell'app e non le ho nemmeno trovate su internet. Ho dovuto contattarvi 1 volta tramite email e 2 tramite recensione per avere una risposta, grazie comunque per il vostro tempo.)<br> :date: __2020-08-20 10:23:50__
 
 > Non è possibile modificare una dichiarazione già inserita se si fanno errori di compilazione<br> :date: __2020-08-15 17:18:57__
 
@@ -206,8 +208,6 @@ The Sardegna Sicura app has been installed by more than **100000** times. At thi
 
 > Non ho riscontrato alcuna difficoltà sull'utilizzo dell'applicazione. Semplice, intuitiva. Registrazione avvenuta immediatamente e nelle 48 ore precedenti la partenza modulo disponibile e compilato in 2 minuti.<br> :date: __2020-07-24 20:39:22__
 
-> Ho aggiunto una stella perché ho ricevuto tramite mail precisissime indicazioni sull'utilizzo dell'app e la procedura per la registrazione. Aggiungerò una stella quando completerò la registrazione per partire<br> :date: __2020-07-23 18:00:21__
-
 
 
 #### 3-star reviews
@@ -215,6 +215,10 @@ The Sardegna Sicura app has been installed by more than **100000** times. At thi
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="it.regione.sardegna.autorizzazionicovid19 3 reviews"/>
 </p>
+
+> Ridicola la traduzione in sardo, io sono sardo DOCG ma non capisco alcuni termini per altri la traduzione è ridicola. Perché usare la email per autenticarsi, meglio il numero di telefono.<br> :date: __2020-08-23 23:29:49__
+
+> Ho avuto problemi a scaricarla su xiaomi Redmi note 8 pro con la rete del telefono, ho utilizzando la rete di casa è ho risolto, devo ancora provarla per mettere un giudizio definitivo.<br> :date: __2020-08-19 19:11:25__
 
 > Nella compilazione dei dati per potersi registrare e usare la app si è costretti a inserire i dati relativi alla residenza in Sardegna nonostante il box per la residenza in Sardegna non sia stato spuntato. È bastato inserire "--“ in ogni campo per i dati dei residenti in Sardegna per poter proseguire. Non esiste la possibilità per stranieri e/o residenti all'estero di dichiararlo esplicitamente. Anche in questo caso è bastato scrivere il nome del paese estero alla voce "provincia". Etc...<br> :date: __2020-08-17 12:40:16__
 
@@ -232,10 +236,6 @@ The Sardegna Sicura app has been installed by more than **100000** times. At thi
 
 > Salve, volevo sapere se è possibile rettificare il giorno di arrivo in Sardegna, avendo distrattamente sbagliato il giorno di arrivo. Grazie<br> :date: __2020-08-08 12:37:19__
 
-> Potrei sapere come posso aggiungere le persone,come entro in nuova registrazione mi da i miei dati e non trovo il modo di aggiungerne altre<br> :date: __2020-08-07 16:56:49__
-
-> Non mi fa accedere, ci viene sempre scritto error con un numero.... http 500 Aiuto<br> :date: __2020-08-03 22:30:09__
-
 
 
 #### 2-star reviews
@@ -244,7 +244,7 @@ The Sardegna Sicura app has been installed by more than **100000** times. At thi
 <img src="2_star_reviews_wordcloud.png" alt="it.regione.sardegna.autorizzazionicovid19 2 reviews"/>
 </p>
 
-> EDIT: E come faccio a sapere quali compagnie richiedono il cartaceo?? Non c'è scritto da nessuna parte! Non siete per niente chiari. Cosa serve scaricarsi l'app se poi ti serve stamparti fogli che si possono benissimo scaricare online dal sito del governo, senza dover scaricare la vostra app e fare tutta questa registrazione extra! Ho aspettato settimane per avere questa vostra risposta, che non mi dice niente e non è di aiuto.<br> :date: __2020-08-16 09:38:50__
+> Salve, mi sono registrato, ma non mi permette di registrare mia moglie. Vado in nuova registrazione, ma rimane impresso sempre il mio nome. Come devo fare?<br> :date: __2020-08-21 17:01:57__
 
 > Non serve a gnente<br> :date: __2020-08-14 21:03:55__
 
@@ -272,24 +272,24 @@ The Sardegna Sicura app has been installed by more than **100000** times. At thi
 <img src="1_star_reviews_wordcloud.png" alt="it.regione.sardegna.autorizzazionicovid19 1 reviews"/>
 </p>
 
-> La data di imbarco non può esser antecedente alla data odierna... Errore bloccante<br> :date: __2020-08-14 12:23:48__
+> Molto problematica,per iscriversi,ho provato piú volte ma niente da fare.<br> :date: __2020-08-23 10:56:00__
 
-> Assolutamente negativa. Machiavellica.<br> :date: __2020-08-14 11:42:51__
+> Io sardo residente in sardegna. La compilazione è impostata come se desse per scontato che la debbano effettuare solo i non residenti in sardegna. La compilazione mette prima la partenza per la sardegna e dopo la ripartenza dalla sardegna. quindi sono costretto a mettere delle date Non cronologiche. E quindi l'app mi dice che sbaglio con le date. Le date sono giuste solo che essendo sardo parto dalla sardegna per rientrare in sardegna. Come si fa?<br> :date: __2020-08-23 08:31:15__
 
-> Considerando i costi, potevano applicarsi meglio. Dubito serva a qualcosa, e dubito venga usata per i controlli incrociati.<br> :date: __2020-08-14 10:21:09__
+> Bella cavolata non funziona, registrata regolarmente tutto a buon fine , quando devi entrare passw errata e non entri, da non scaricare se potevo nessuna stella.<br> :date: __2020-08-22 17:10:22__
 
-> Mi da conferma della registrazione poi mi dice utente non trovato... app del caiser..... rete abbondantemente forte come segnale<br> :date: __2020-08-13 17:23:13__
+> per 8 giorni di vacanza un procedimento di polizia che fa perdere almeno 40' (ed io sono veloce) peraltro inutile. gli asintomatici o pauci sono il 95% quindi tutti scriveranno che non hanno avuto sintomi, e tuttavia potrebbero essere positivi al tampone a loro insaputa. gli "esperti" delle amministrazioni pubbliche sono incapaci, anzi, peggio, mantengono il loro dannoso posto continuando a propinare inutili complicazioni burocratiche. mah!!! Pier Lorenzo Franceschi<br> :date: __2020-08-22 17:06:10__
 
-> Mentre utilizzo il multitasking dello smartphone SENZA chiudere l'app, per reperire il numeroso quantitativo di dati dei soggiorno richiesti, l'app perde le info già inserite su voli e soggiorni. Ergo devo reinserire tutto da capo, perdendo tempo. User's Experience rovinosa<br> :date: __2020-08-13 15:28:33__
+> Troppe cose da inserire una gran perdita di tempo e poi il nome della app visto quello che sta succedendo mi sembra un po' infelice. Per mettere la data di nascita con quel rullo diventi scemo. Non è così che incoraggi il turismo, tanto poi il COVID purtroppo entra lo stesso. E comunque allora dovrebbero farlo in tutte le regioni d'Italia o no? turisti inglesi stavano per perdere il volo da Londra, non riuscivano ad utilizzarla e loro sono tutti molto tecnologici! Ennesima occasione persa<br> :date: __2020-08-22 08:52:21__
 
-> Su Samsung S20 non funziona... Resta sulla schermata Bianca senza darmi la possibilità di fare il login...<br> :date: __2020-08-13 13:31:11__
+> Non si capisce niente, mi dice di mettere la i-mail e password e mi dice errato<br> :date: __2020-08-21 20:05:52__
 
-> Fatta malissimo, non c'è nemmeno la possibilità di inserire una residenza estera.<br> :date: __2020-08-13 13:24:01__
+> Sono due giorni che ho installato l'app ma non risponde....<br> :date: __2020-08-20 14:47:31__
 
-> App inutile e fatta malissimo<br> :date: __2020-08-12 16:03:52__
+> Consuma troppo la batteria per l'utilizzo continuo del GPS. Perché non fare un controllo periodico della posizione invece che continuo?<br> :date: __2020-08-19 21:49:14__
 
-> È un minestrone.<br> :date: __2020-08-12 10:09:59__
+> Esperienza pessima regione menefreghista come sempre, ma un call center per chi avesse difficoltà no vero? Fate pena<br> :date: __2020-08-19 13:27:53__
 
-> Sono diversi giorni che provo a registrarmi ovunque ma niente da fare. Domani parto, che succede se mi chiedono la registrazione??? Sono incavolato moltissimo. Non funziona ne l'app ne il sito della regione dicendo che la mail non è corretta... Spero vivamente di non dover far casino all'imbarco<br> :date: __2020-08-10 23:59:02__
+> Inutile<br> :date: __2020-08-18 19:52:35__
 
 

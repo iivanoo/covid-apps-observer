@@ -165,6 +165,10 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 <img src="5_star_reviews_wordcloud.png" alt="gov.fema.mobile.android 5 reviews"/>
 </p>
 
+> Good info<br> :date: __2020-08-19 06:16:24__
+
+> Government<br> :date: __2020-08-19 00:15:04__
+
 > Google maps Meunstergritsandassociatesllc incognito #thankyouforyourservice #cheetohs #china<br> :date: __2020-07-31 20:41:04__
 
 > Great app! The only thing is, I wish it had a share button to send the Alerts to family & friends. Thank you for adding the share button!<br> :date: __2020-07-31 12:24:47__
@@ -181,10 +185,6 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 
 > 🧭🚦🧭🚨🧭🚨🚑🚑🚑🚑(￣ヘ￣;)(・–・;)ゞ<br> :date: __2020-07-24 16:32:48__
 
-> Really fun app!! Would 100% recommend!!<br> :date: __2020-07-22 04:02:11__
-
-> work perfect<br> :date: __2020-07-20 20:42:35__
-
 
 
 #### 4-star reviews
@@ -192,6 +192,8 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="gov.fema.mobile.android 4 reviews"/>
 </p>
+
+> Overall decent, but I don't need 17 alerts in one hour for the same storm.<br> :date: __2020-08-24 01:10:21__
 
 > I took care of a FEMA worker so I thought I would check out app<br> :date: __2020-07-27 23:49:33__
 
@@ -211,8 +213,6 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 
 > Always on top of it<br> :date: __2020-05-21 12:13:30__
 
-> Weather warnings are necessary, including worse.<br> :date: __2020-05-17 22:09:22__
-
 
 
 #### 3-star reviews
@@ -220,6 +220,8 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="gov.fema.mobile.android 3 reviews"/>
 </p>
+
+> The type is thinner and less legible with this update. The unnecessary style change reduces its usefulness to me. Plus, I have not received alerts about the smoke in my area or the fires near me although I specified that in the settings. So I uninstalled it.<br> :date: __2020-08-21 06:13:51__
 
 > No notification alarm!!<br> :date: __2020-08-13 18:12:50__
 
@@ -239,8 +241,6 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 
 > The good: Timely alerts, often well ahead of other apps. Seems lightweight and works ok on throttled cellular. The bad: Alerts seem to be only accessible from the notification? Devs please advise/patch.<br> :date: __2019-12-02 12:53:29__
 
-> No notification on<br> :date: __2019-11-08 13:38:22__
-
 
 
 #### 2-star reviews
@@ -248,6 +248,8 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="gov.fema.mobile.android 2 reviews"/>
 </p>
+
+> What is it with this app. I've.been trying to download it for three days how long does it take to for it to download .we are about to be hit with a hurracain.this is messed.up<br> :date: __2020-08-23 03:40:24__
 
 > Getting several alerts with little or no lead time. Several other alerts just multiples of previous alerts with no changes in them at all. That's probably FEMA but still downgrades usefulness.<br> :date: __2020-07-19 21:22:25__
 
@@ -260,8 +262,6 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 > It's a weather alert app. I'm getting constant weather alerts during a pandemic lockdown<br> :date: __2020-03-29 17:05:00__
 
 > When I click on "Alerts," I get a message saying that I have to enable them in the app settings. But when I get into the settings, I can't find anything that does that.<br> :date: __2020-03-21 20:10:32__
-
-> Ever since the update I haven't been getting the Red Flag warnings for Alameda County during the week the fire danger was so high that PG&E was shutting off power. The previous version worked better.<br> :date: __2019-10-13 08:02:03__
 
 > App does not give alerts. At one time it worked.<br> :date: __2019-06-18 03:25:56__
 

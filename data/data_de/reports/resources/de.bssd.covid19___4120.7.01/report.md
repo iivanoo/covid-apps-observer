@@ -131,6 +131,8 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="de.bssd.covid19 5 reviews"/>
 </p>
 
+> ICH hab meinen Test zwar erst nach 5 Tagen hier abgerufen, aber das Ergrnis war sofort da und die QR Code Erkennhng hat sehr gut funktioniert.<br> :date: __2020-08-21 22:19:14__
+
 > Hat alles einwandfrei funktioniert Habe ganz normal meine Nachricht, 27h nach dem Test bekommen, verstehe all die schlechten Bewertungen nicht Nur schade dass man sich jedes Mal neu anmelden muss aber man kann ja auch einfach den Code kopieren und immer wieder bequem einfügen<br> :date: __2020-08-16 15:37:53__
 
 > Sehr gute App. Die Benachrichtigung erfolgte innerhalb 24 Stunden.<br> :date: __2020-08-14 13:51:44__
@@ -149,8 +151,6 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 
 > Gut, dass wir so eine App haben<br> :date: __2020-07-31 20:32:06__
 
-> Konnte die App ohne Probleme installieren und mich anmelden. Am Abend konnte ich direkt die Ergebnisse einsehen. Keine Ahnung was bei den anderen Rezensenten los ist.<br> :date: __2020-07-30 00:46:43__
-
 
 
 #### 4-star reviews
@@ -158,6 +158,8 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="de.bssd.covid19 4 reviews"/>
 </p>
+
+> Einscannen des QR-Codes bei jedem Start der App könnte sicherlich anders gelöst werden. Positiv aber: Information über das Vorliegen der Testegebnisse als Pop-Up. Ergebnis stand nach 24h bereit.<br> :date: __2020-08-20 20:29:27__
 
 > Gebe ich auch noch mal vier Sternchen<br> :date: __2020-08-17 08:49:12__
 
@@ -176,8 +178,6 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 > App ist okay! Mein Ergebniss war am zweiten Tag da. Einzige Beanstandung ist dass man den QR jedesmal neu scannen muss<br> :date: __2020-06-09 09:53:38__
 
 > WENN die Datenübertragung der Labore funktioniert, funktioniert die App. Es ist hochbedenklich, dass die App nach 4 Tagen Quarantäne kein Ergebnis zeigt, auch jetzt nach 6 Tagen nicht. Kein Anruf vom Gesundheitsamt, wo das Ergebnis wahrscheinlich schon nach 2 Tagen vorlag. Anruf auf Gesundheitsamthotline (obwohl ja unerwünscht!): Test ist negativ und lag schon als Duplikat da vor .... könnte so schnell und easy sein. In Zeiten autonomen Fahrens und KI verwunderlich.<br> :date: __2020-05-28 12:36:02__
-
-> Gute App aber zeigt nicht an ob ich an corona erkrankt bin?<br> :date: __2020-04-28 13:09:45__
 
 
 
@@ -243,24 +243,24 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 <img src="1_star_reviews_wordcloud.png" alt="de.bssd.covid19 1 reviews"/>
 </p>
 
-> App funktioniert leider nicht. Der scan des QR Codes funktionierte nicht. Und auch über die manuelle Eingabe der ID kam ich nicht weiter. Die Eingabe der ID musste umständlich über Umwege geschehen, da die Tastatur im Eingabefeld nicht auftauchte.<br> :date: __2020-08-17 10:55:45__
+> Funktioniert nicht. Sehr bedauerlich. Ein Witz.<br> :date: __2020-08-23 12:26:35__
 
-> Auf meinem p10 nicht nutzbar. Der Code wird nicht erkannt und die Tastatur öffnet sich nicht um ihn manuell einzugeben. Erschreckend<br> :date: __2020-08-16 13:43:36__
+> Eigentlich funktioniert garnichts in der app, weder der Barcode Scanner noch die Manuelle Eingabe, null Sterne kann man leider nicht ankreuzen und man kann nur hoffen das man irgendwann und irgendwie sein Testergebniss bekommt, mittlerweile sind 5 Tage vergangen und nichts ist passiert<br> :date: __2020-08-23 12:18:56__
 
-> Ich kann mich nicht mal anmelden, wenn ich den qr code scan mache , dann passiert nichts.<br> :date: __2020-08-15 12:39:10__
+> Funktioniert nicht<br> :date: __2020-08-22 17:40:51__
 
-> Nichts funktioniert, aber auch gar nichts, ich hoffe die Steuergelder wurden noch nicht gezahlt.<br> :date: __2020-08-14 16:40:39__
+> Geht nicht, schrott<br> :date: __2020-08-22 12:41:18__
 
-> Scan funktioniert nicht. Tastatur öffnet auch nicht für manuelle ID-Eingabe... Damit nutzlos.<br> :date: __2020-08-14 16:40:13__
+> Leider gar keinen Stern wert. Scannen von QR-Code nicht möglich und nach Eingabe der ID kommt Hinweis auf falsche Anmeldedaten. App ist leider völlig unbrauchbar!<br> :date: __2020-08-21 17:34:43__
 
-> Nutzlos. NINA die Katastrophen App ist, zumindest im deutschen Raum, die sehr viel bessere Wahl.<br> :date: __2020-08-14 12:11:24__
+> Ziemlich funktionsuntüchtig👎verstehe die 5 Sterne nicht, bei mir funktioniert weder der Scanner noch der Code, fünf mal neu installiert, keine Chance..<br> :date: __2020-08-21 10:25:24__
 
-> QR Code Scanner funktioniert nicht und heißt auf der Scanseite dann 'Barcode Scanner'.<br> :date: __2020-08-13 17:06:46__
+> Funktioniert nicht.<br> :date: __2020-08-20 16:50:29__
 
-> Katastrophal. QR Scannen funktioniert nicht, also manuell eingegeben. Dann kommt die Meldung, dass die Anmeldung am Server covid2.bs-sd.de fehlgeschlagen ist. An mehreren Geräten ausprobiert, auch über mobile Daten. Das habe ich mir anders und vor allem professioneller vorgstellt!<br> :date: __2020-08-12 20:56:26__
+> QR-Scanner, geht nicht. Login über ID geht nicht. Zusammengefasst: Nix geht.<br> :date: __2020-08-20 13:34:57__
 
-> Nichts hat funktioniert. Kein scan möglich. ID code sorgfältig eigetippt - kennt PW nicht<br> :date: __2020-08-12 19:26:41__
+> Die gehen ned auf<br> :date: __2020-08-20 12:04:57__
 
-> So etwas dreistes hab ich noch nie in meinem Leben erlebt.<br> :date: __2020-08-10 15:48:26__
+> Absoluter Müll. Ergebnis liegt längst vor, aber hier ist noch angegeben. Push geht auch nicht, da es sich ständig ausloggt.<br> :date: __2020-08-20 07:27:33__
 
 

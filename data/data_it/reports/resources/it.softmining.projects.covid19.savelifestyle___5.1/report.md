@@ -185,6 +185,8 @@ The SM_Covid19 app has been installed by more than **50000** times. At this time
 <img src="5_star_reviews_wordcloud.png" alt="it.softmining.projects.covid19.savelifestyle 5 reviews"/>
 </p>
 
+> Piace curata app<br> :date: __2020-08-23 21:40:56__
+
 > Semplice e comoda la puoi disinstallare quando vuoi.<br> :date: __2020-08-11 16:18:18__
 
 > Un piccolo problema su Xiaomi Tutto risolto in un batter d'occhio Bravissimi ora funziona di nuovo che è una meraviglia. Altro che Immuni, questa è una app di tracciamento veramente completa.<br> :date: __2020-08-03 14:36:37__
@@ -203,8 +205,6 @@ The SM_Covid19 app has been installed by more than **50000** times. At this time
 
 > Buono<br> :date: __2020-07-17 09:33:04__
 
-> Buono<br> :date: __2020-07-14 15:44:06__
-
 
 
 #### 4-star reviews
@@ -212,6 +212,8 @@ The SM_Covid19 app has been installed by more than **50000** times. At this time
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="it.softmining.projects.covid19.savelifestyle 4 reviews"/>
 </p>
+
+> Mi dicete come funziona? Mi dice indice contatti 0,00%<br> :date: __2020-08-23 19:29:43__
 
 > Positiva<br> :date: __2020-07-31 14:48:10__
 
@@ -230,8 +232,6 @@ The SM_Covid19 app has been installed by more than **50000** times. At this time
 > Molto bella<br> :date: __2020-06-18 21:12:10__
 
 > Non ho capito se ad oggi, 17.6.2020, la app è attiva e funzionante, con invio di notifiche in caso di contatti a rischio<br> :date: __2020-06-17 21:37:42__
-
-> Molto utile<br> :date: __2020-06-17 13:58:09__
 
 
 
@@ -297,6 +297,10 @@ The SM_Covid19 app has been installed by more than **50000** times. At this time
 <img src="1_star_reviews_wordcloud.png" alt="it.softmining.projects.covid19.savelifestyle 1 reviews"/>
 </p>
 
+> Pessima da migliorare tutto<br> :date: __2020-08-23 18:06:12__
+
+> Fatta malissimo<br> :date: __2020-08-20 20:13:25__
+
 > Non c'è ne di covidi<br> :date: __2020-07-30 08:49:05__
 
 > App pessima da 3 giorni circa non si apre più. È meglio che cambiate lavoro!!!!<br> :date: __2020-07-21 19:14:07__
@@ -312,9 +316,5 @@ The SM_Covid19 app has been installed by more than **50000** times. At this time
 > Non soddisfacente (al momento). Domanda: perché mi appare spesso la scritta 'applicazione in esecuzione" e l' indice è a 0.00? La prima volta che l'ho scaricata andava molto bene. Perché ora no saluti Paolo<br> :date: __2020-07-06 18:26:16__
 
 > 😢<br> :date: __2020-07-06 15:08:42__
-
-> Si blocca e non mi fa scorrere lo schermo😡. Ieri o l'altro giorno al TELEGIORNALE hanno detto che le app sul COVID-19 rubano dati personali o ti spiano. Quando ho parlato dell'app ai miei genitori si sono SUBITO ARRABBIATI (anche preoccupati) e mi hanno detto di DISINSTALLARE E BASTA.<br> :date: __2020-06-27 21:55:07__
-
-> nn c'è il numero degli infetti<br> :date: __2020-06-26 08:27:18__
 
 

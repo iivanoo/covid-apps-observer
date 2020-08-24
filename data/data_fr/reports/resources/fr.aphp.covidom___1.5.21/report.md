@@ -210,6 +210,8 @@ The Covidom Patient app has been installed by more than **10000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="fr.aphp.covidom 1 reviews"/>
 </p>
 
+> J'ai été en contact avec une personne testée positive, j'ai reçu mes codes, mais à aucun moment il y a la question: avez vous fait le dépistage ? Je l'ai fait je suis négative et je dois remplir le questionnaire comme si j'étais positive... Incohérent !<br> :date: __2020-08-18 10:48:21__
+
 > Impossible d'avoir une connexion malgré une création d'un comte.<br> :date: __2020-08-14 13:41:35__
 
 > Plante régulièrement et vous déloggue, nécessité de mettre le mdp a chaque fois, fait double emploi avec les SMS et mails qu'on reçoit... cette app ne sert à rien.<br> :date: __2020-08-14 12:40:12__
@@ -227,7 +229,5 @@ The Covidom Patient app has been installed by more than **10000** times. At this
 > Arrive pas à ce connecter ou crée un compte<br> :date: __2020-04-27 10:18:23__
 
 > Pénible a utiliser<br> :date: __2020-04-22 12:27:37__
-
-> Nul impossible de se connecter à bannir<br> :date: __2020-04-16 20:00:38__
 
 

@@ -208,6 +208,8 @@ The Coronavirus Help app has been installed by more than **1000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="appinventor.ai_david_taylor.Coronavirus_help2020 1 reviews"/>
 </p>
 
+> Here is another app that's been put on my phone and I can't use it to track if I have been near anybody with coronavirus as according to the app it doesn't work in Scotland. What the bloody point of putting this app on people's phones if they can't use it.<br> :date: __2020-08-18 09:31:46__
+
 > Stolen content<br> :date: __2020-06-21 18:51:30__
 
 > Turns out I didn't need an app for a mysteriously absent virus that has killed worldwide less than seasonal flu.<br> :date: __2020-06-09 10:13:17__

@@ -1,0 +1,43 @@
+{
+    "permissions": [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        "android.permission.INTERNET",
+        "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+        "android.permission.BLUETOOTH",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.FOREGROUND_SERVICE",
+        "android.permission.WAKE_LOCK",
+        "android.permission.ACCESS_COARSE_LOCATION",
+        "android.permission.BLUETOOTH_ADMIN",
+        "com.google.android.c2dm.permission.RECEIVE"
+    ],
+    "activities": [
+        "au.gov.health.covidsafe.SplashActivity",
+        "au.gov.health.covidsafe.ui.onboarding.OnboardingActivity",
+        "au.gov.health.covidsafe.ui.onboarding.CountryCodeSelectionActivity",
+        "au.gov.health.covidsafe.WebViewActivity",
+        "au.gov.health.covidsafe.DeviceNameChangePromptActivity",
+        "au.gov.health.covidsafe.InternetConnectionIssuesActivity",
+        "au.gov.health.covidsafe.HomeActivity",
+        "com.atlassian.mobilekit.module.feedback.FeedbackActivity",
+        "pub.devrel.easypermissions.AppSettingsDialogHolderActivity",
+        "com.google.android.gms.common.api.GoogleApiActivity"
+    ],
+    "urls": [
+        "http://schemas.android.com/apk/res/android",
+        "https://device-api.prod.lp.aws.covidsafe.gov.au",
+        "https://play.google.com/store/apps/details?id=au.gov.health.covidsafe",
+        "https://www.covidsafe.gov.au/help-topics",
+        "https://www.health.gov.au/using-our-websites/privacy/privacy-notice-for-covidsafe-app",
+        "https://www.health.gov.au/",
+        "https://plus.google.com/",
+        "https://stackoverflow.com/q/5189914/28465",
+        "https://groups.google.com/d/msg/guava-announce/zHZTFg7YF3o/rQNnwdHeEwAJ",
+        "http://schemas.android.com/apk/res-auto",
+        "https://www.googleapis.com/auth/games_lite",
+        "https://www.googleapis.com/auth/games",
+        "https://www.australia.gov.au",
+        "https://%s/%s/%s",
+        "http://localhost/"
+    ]
+}

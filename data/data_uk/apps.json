@@ -3,28 +3,28 @@
         "id": "org.who.infoapp",
         "store_country": "uk",
         "store_lang": "en",
-        "latest_crawled_version": "2.3.3",
-        "latest_crawl": 1597666147
+        "latest_crawled_version": "2.3.4",
+        "latest_crawl": 1598253029
     },
     {
         "id": "appinventor.ai_david_taylor.Coronavirus_help2020",
         "store_country": "uk",
         "store_lang": "en",
         "latest_crawled_version": "1.1",
-        "latest_crawl": 1597666186
+        "latest_crawl": 1598253065
     },
     {
         "id": "net.hscni.covid19ni",
         "store_country": "uk",
         "store_lang": "en",
         "latest_crawled_version": "2.1",
-        "latest_crawl": 1597666191
+        "latest_crawl": 1598253067
     },
     {
         "id": "de.xikolo.openwho",
         "store_country": "uk",
         "store_lang": "en",
         "latest_crawled_version": "3.4",
-        "latest_crawl": 1597666193
+        "latest_crawl": 1598253074
     }
 ]

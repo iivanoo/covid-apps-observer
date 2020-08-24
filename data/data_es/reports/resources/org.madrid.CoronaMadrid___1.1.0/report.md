@@ -262,6 +262,12 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="org.madrid.CoronaMadrid 1 reviews"/>
 </p>
 
+> No pone en ningún sitio si hacen un rastreo de los moviles de forma que puedan detectar con quien ha estado en contacto la persona que ha descargado la aplicación. Esa sería la función principal de la aplicación y no creo que lo haga. Por otro lado no creo que sea necesario que demos todos nuestros datos personales. Y por último el sistema para meter la fecha de nacimiento podría ser mucho más fácil si se pudiera meter el año, el mes y el día para evitar apretar 12 veces por cada año que tienes.<br> :date: __2020-08-23 08:36:08__
+
+> Tras instalar sin problemas, la aplicación no abre. Desinstalada. Android 10, LineageOS.<br> :date: __2020-08-19 13:58:52__
+
+> No se les ocurrió permitir poner la fecha con el teclado. Tengo 56 años y para poner mi fecha de nacimiento tengo que dar 680 veces a la tecla atrás... Desinstalada inmediatamente<br> :date: __2020-08-19 13:48:54__
+
 > malísima, menudos ineptos los desarrolladores, no puedes buscar centros de salud por dirección, solo en modo mapa, incompetentes total. después no hay botón para salir de la aplicación, como sois tan zopencos.<br> :date: __2020-08-16 11:56:56__
 
 > Ni siquiera se abre, da error.<br> :date: __2020-08-12 21:33:34__
@@ -275,11 +281,5 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 > Una aplicación q no sirve para nada. Una estafa si pagaron por crearla. No ayuda en nada conozco mejores opciones de rastreo.<br> :date: __2020-08-06 14:21:19__
 
 > Nefasto. Vivo en Valdemoro, cp 28341 y dice que no existe. Esta app la han hecho canis o cayetanos a dedo???<br> :date: __2020-08-05 13:15:02__
-
-> O no he entendido para que sirve o es una patata...<br> :date: __2020-08-04 13:49:59__
-
-> Es tan inútil como la retrasada de Ayuso<br> :date: __2020-08-02 11:26:09__
-
-> Alguien ha conseguido poner la fecha de nacimiento? Habéis pagado por esto?<br> :date: __2020-07-31 22:32:42__
 
 

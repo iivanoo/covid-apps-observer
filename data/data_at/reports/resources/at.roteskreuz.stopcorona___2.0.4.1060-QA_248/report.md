@@ -147,6 +147,14 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 <img src="5_star_reviews_wordcloud.png" alt="at.roteskreuz.stopcorona 5 reviews"/>
 </p>
 
+> Nach dem holprigen Update läuft alles soweit.<br> :date: __2020-08-22 08:43:56__
+
+> Startschwierigkeiten, aber waren ja auch die ersten. Es wäre sehr wichtig, dass die App mehr genutzt wird. Und es wäre cool, wenn sie wie die Deutsche App anzeigt, wie viele Handshakes gemacht wurden. So wirkt es als würde sie nicht funktionieren.<br> :date: __2020-08-21 15:24:48__
+
+> Danke für die App - nur ein paar Wünsche: * Viel genaueres Abfragen von Symptomen wäre super, nach aktuellem Covid-Wissensstand (nicht nur "fühlen Sie sich gut oder husten sie"; zB wie in der deutschen App) * bitte irgendeine anonyme Anzeige, ob andere Kontakte gespeichert wurden, damit man sieht, dass die App wirkt<br> :date: __2020-08-19 19:14:49__
+
+> Ich bin sehr zufrieden mit der App. Die Fragen, die ich hatte, wurden mir vom App-Support sehr prompt und verständlich erklärt und ich kann die App empfehlen! Allerdings wäre es sehr hilfreich, wenn die Überprüfungen chronologisch gelistet wären!!!<br> :date: __2020-08-19 09:26:23__
+
 > Sehr gute App<br> :date: __2020-08-17 14:26:45__
 
 > Super<br> :date: __2020-08-17 01:15:39__
@@ -159,14 +167,6 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 
 > Kleiner Beitrag um uns zu schützen.<br> :date: __2020-08-08 10:34:56__
 
-> Alles OK, allerdings haben wahrscheinlich zu wenig Leute mit Smartphones die App installiert.<br> :date: __2020-08-07 17:47:35__
-
-> Ich bin sehr zufrieden mit der App. Die Fragen, die ich hatte, wurden mir vom App-Support sehr prompt und verständlich erklärt und ich kann die App empfehlen!<br> :date: __2020-08-04 10:48:07__
-
-> Nützliche App wie Sie jeder verwenden würde<br> :date: __2020-08-04 07:51:31__
-
-> Fuhle mich besser mit.dieser epp heisse elsabeth wimmer geboren 13 12 1950<br> :date: __2020-08-02 18:16:25__
-
 
 
 #### 4-star reviews
@@ -174,6 +174,8 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="at.roteskreuz.stopcorona 4 reviews"/>
 </p>
+
+> Ich finde die Idee gut, es braucht aber noch etwas Energie: Zeitstempel der letzten Aktualisierung in der App. Anzahl (nicht mehr) der Kontakte anzeigen (damit man sieht, dass es funktioniert). Aktuelle Corona Statistiken (zb vom Land), damit man Mehrwert durch die App hat. Und internat. Sync.<br> :date: __2020-08-19 07:49:14__
 
 > Es ist Ganz ok man könnte es überichtlicher machen ob man mit einem Infizierten in kontakt getreten ist.<br> :date: __2020-08-17 10:31:18__
 
@@ -193,8 +195,6 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 
 > Update unten! Seit dem Update stürzt die App sofort nach dem Start ab. War aber ohnehin vorher schon nicht zu brauchen, da man gefühlt 50 mal am Tag den automatischen Handshake aktivieren musste, ohne den sie komplett nutzlos ist. Hätte gerne einen Betrag geleistet, aber so ist das leider sinnlos. Update: Es war nötig, die gespeicherten Daten in den App-Einstellungen zu löschen, seither funktioniert die App. Dieser Fehler gehört dringend gefixt! Ansonsten funktioniert die App gut!<br> :date: __2020-07-08 10:40:42__
 
-> Die App funktioniert derzeit.... Ich hoffe, es bleibt so.<br> :date: __2020-07-07 15:21:22__
-
 
 
 #### 3-star reviews
@@ -202,6 +202,8 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="at.roteskreuz.stopcorona 3 reviews"/>
 </p>
+
+> Gute Idee, leider gibt es so wenige Leute die die App besitzen, dass ich bis jetzt immer 0 Abgleichungen hatte<br> :date: __2020-08-18 10:39:24__
 
 > Wenn ich auf Überprüfung möglicher Kontakte gehe wird ein Passwort bzw. eine Zahlenkombination abgefragt was ich aber nie bei der Registrierung nicht erstellen musste und auch nicht habe. Nachdem man sonst keine Möglickeit hat direkt in Kontakt zu kommen um jemand zu fragen probiere ich es mal hier. Vielleicht gibt es da eine Antwort, wäre super !<br> :date: __2020-08-07 20:15:23__
 
@@ -221,8 +223,6 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 
 > Die Benachrichtigung wenn Bluetooth deaktiviert ist ist nicht wegzubekommen ohne die Benachrichtigungen komplett zu deaktivieren, das nervt! Bitte macht für diese eine extra Kategorie und hört auf den User zu bevormunden!<br> :date: __2020-07-18 19:22:49__
 
-> Ich glaube es gibt bei vielen ein Verständnisproblem. Die einsehbaren Aktivitäten sind nicht die Handshakes mit anderen Geräten, sondern die Serversynchronisationen, bei denen überprüft wird, ob man Kontakt zu Infizierten hatte. Die Handshakes sind unsichtbar. Deswegen braucht man sich auch nicht wundern, wenn man jede Stunde einen Eintrag hat, obwohl man allein in der Wohnung sitzt. Das gehört wirklich besser erklärt.<br> :date: __2020-07-18 17:37:15__
-
 
 
 #### 2-star reviews
@@ -230,6 +230,10 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="at.roteskreuz.stopcorona 2 reviews"/>
 </p>
+
+> Die Überprüfungen sind nicht chronologisch nach Datum. Obwohl ich nichts verändert habe, gab es tagelang keine Überprüfung und dann plötzlich doch wieder?!<br> :date: __2020-08-19 21:00:28__
+
+> Angeblich hat die App 20.000.000 Euro gekostet; da würde man sich etwas mehr erwarten: 1.) Ist der Schalter "Automatische Handshake" ein/aus ident mit dem Schalter "COVID 19-Benachrichtigung aktivieren"? Wenn ja, warum verwendet man zwei verschiedene Bezeichnungen? Ich kann keinen Unterschied feststellen! Wenn ich "COVID 19-Benachrichtigung aktivieren" ausschalte, dann wird noch "Automatische Handshake" als aktiv angezeigt, obwohl es auch ausgeschaltet ist. Nach Neustart sind beide auf aus. Das ist ein FEHLER bei der Anzeige! 2.) Die Liste der möglichen Begegnungen ist unter dem Menüpunkt "App-Einstellungen" zu finden. Das ist total unlogisch! 3.) Die Liste der möglichen Begegnungen ist NICHT sortiert. Das Datum wird in zufälliger Reihenfolge angezeigt! 4.) Was bedeutet "Anzahl der Schlüssel"??<br> :date: __2020-08-17 16:04:07__
 
 > GPS? Weil andere zu GPS geschrieben haben: zumindest bei der jetzigen Version (7/2020) wird GPS nicht benötigt, nur Bluetooth. Die Gestaltung könnte wesentlich besser sein, v.a. die Einbindung der bisherigen Kontakt-IDs, da findet man keine Daten. Man sollte Zeitpunkt eines Kontakts sehen können, so hat man keine Ahnung ob die App funktioniert!<br> :date: __2020-08-15 11:27:18__
 
@@ -247,10 +251,6 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 
 > Naja wir haben die App 2 Streicheltaschenfernsprecher (Huawei P30 pro und Xiaomi MI A2) mit Android 10 Sicherheitslevel vom Juni installiert und die Handys nie weiter als 3m von einander entfernt für die letzten 2 Tage Das eine Telefon hat 16 Kontakte, das andere 6 aufgezeichnet, also als vertrauenserweckend erscheint mir das nicht. Was noch eigenartig ist wenn ich die App öffne und nachschaue ob's neue Kontakte gab wird genau in dieser Minute ein Kontakt neu angezeigt.<br> :date: __2020-07-27 17:19:00__
 
-> Tagelang 0 IDs gespeichert trotz Nutzung, dann von einer Stunde auf die Andere über 1000 IDs, ohne Änderung meines Weges. Wegfall von vielen IDs am selben Tag innerhalb von Stunden. Schwer nachvollziehbar für mich das Ganze.<br> :date: __2020-07-27 09:11:31__
-
-> Bis zum 23.7. war die Anzahl der ausgetauschten Schlüssel immer 0. Nun immer über 1000. Überprüfungen finden nur statt, wenn ich die App öffne. Ob die App Kontakte registriert hat, kann ich noch immer nicht erkennen. Die Motivation zum Installieren der App bleibt also gedämpft. Bitte mehr Info anzeigen, dann wird die App eher genutzt! Die meisten europäischen Apps setzen auf den Standard DP-3T. Wäre doch sinnvoll, wenn jetzt in der Urlaubszeit die Apps auch untereinander funktionieren würden!<br> :date: __2020-07-26 16:16:02__
-
 
 
 #### 1-star reviews
@@ -258,6 +258,16 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="at.roteskreuz.stopcorona 1 reviews"/>
 </p>
+
+> Wir können machen was wir wollen, aber der automatische Handshake funktioniert nicht. In den APP Einstellungen ist alles erlaubt. Stromsparen ist abgeschaltet. Aber die Idee ist sehr gut, darum 3 Punkte. Auch wenn es momentan nahezu unbrauchbar ist. Update 10.05.: automatischer Handshake geht noch immer nicht. Völlig nutzlos und mittlerweile finde ich das richtig ärgerlich. Topleistung! Nach dem letzten Update startet die APP gar nicht mehr. Update 23.08.2020: Umgestiegen auf App vom RKI<br> :date: __2020-08-24 00:01:42__
+
+> Grundsätzlich eine super Sache. Aber: Die App zeichnet Kontakte auf, die sicher nicht stattgefunden haben können, weil ich zB alleine im Garten war oder im Bett lag. Hier wäre eine dringende Überprüfung von Seiten der Entwickler notwendig.<br> :date: __2020-08-22 17:07:28__
+
+> Wieso wird nur alle 7 Tage am Server nachgefragt nach der Liste der Infizierten? Samsung a8<br> :date: __2020-08-22 16:35:39__
+
+> Begegnung durch Hausmauer werden erfasst<br> :date: __2020-08-20 21:46:28__
+
+> 62 Kontakte in den letzten 14 Tagen, aber bis auf eine einzige haben alle den Zeitstempel um die halbe Stunde (8:29, 10:30, 13:31), was ja schon mal Unsinn ist. Einige dieser angeblichen Kontakte waren mit Sicherheit gar nicht möglich, z.B. alleine in einem Hotelzimmer im Ausland. Keine Ahnung ob das Programm mir diesen Schrott-Daten überhaupt irgendwas sinnvolles macht. Mein Vertrauen in die App ist jedenfalls null, obwohl die Idee natürlich gut ist.<br> :date: __2020-08-18 09:24:24__
 
 > Update 13.08.2020. Leider muss ich die Bewertung wieder auf Minimum reduzieren, da von der App keine Überprüfungen durchgeführt wurden. Ich habe die App nun zum letzten Mal neu installiert. Wenn es jetzt nicht klappt ist sie dauerhaft Geschichte... Update 17.08.2020: Am 13.08. wurden 4 Überprüfungen durchgeführt, danach keine mehr. Sinnlose App. Adios amigos!<br> :date: __2020-08-17 07:51:19__
 
@@ -268,15 +278,5 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 > Macht Handshakes mit der China Uhr meiner Lebensgefährtin (Mi Band 3).... Ist halt ne China Uhr. Mein Fehler, aber das kanns ja wohl nicht sein.... Und ja ich bin in der IT tätig. Ich weiß schon wo ich Bluetooth aktiviert habe und wo nicht. Das Mi Band 3 hat den Hammer zu spüren bekommen. Das App kann ich nur leider nicht kaputt machen...<br> :date: __2020-08-12 17:45:56__
 
 > Die App ist ein absoluter Witz, zeigt mir an ich hab um 3:34 Kontakt mit ein covid infizierten obwohl ich zuhause und geschlafen haben und alleine war und ich 250 Meter um mich herum niemanden habe. Die App ist und ein bleibt ein witz<br> :date: __2020-08-12 09:20:46__
-
-> Ich habe gestern die App auf meinem Handy installiert und heute gleich 5 Handshakes ausgewertet erhalten. Diese können nicht stimmen, da drei Zeitpunkte angeführt sind, zu denen ich 100prozentig alleine war und daher keinen Kontakt hatte. Ich finde, die App ist unzuverlässig. Ich werde es weiter kurz beobachten und dann eventuell wieder deinstallieren.<br> :date: __2020-08-07 16:34:25__
-
-> Wie ist es möglich das ein Handshake am 06.08.2020 um10h 10 Minuten angezeigt wird obwohl ich allein in der Wohnung bin?<br> :date: __2020-08-06 10:22:56__
-
-> Kann die Einwilligungserlärung leider nicht bestätigen bzw.aktivieren. (Feld ist grau statt rot)<br> :date: __2020-08-05 14:36:44__
-
-> Es ist Schrott Ich bekomme eine push Nachricht das es einen Verdacht gibt aber während ich eine andere Nachricht weg gedrückt habe, hat Android die Nachrichten umsortiert und hat die Corona App Nachricht weg gedrückt. Es war unmöglich zu der Nachricht zu kommen.Es war nirgends auffindbar. Darauf hin habe ich es deinstalliert. So einen Schrott brauche ich nicht.<br> :date: __2020-08-05 11:37:27__
-
-> Habs die App nicht installiert und werds auch nicht tun bis es nicht zuverlässig funktioniert! Quarantäne gehen nur auf Vermutung will keiner!<br> :date: __2020-08-04 21:07:50__
 
 

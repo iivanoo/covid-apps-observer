@@ -1,5 +1,77 @@
 [
     {
+        "reviewId": "gp:AOqpTOGHjyiTFxvHe04a28_mxDBGnxHHPY3IoKzgImkjadBvXQ-ZbaNMLXimfYoyQpzROOPPmw2m3l6fG27eKA",
+        "userName": "Cordusio Salvo",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgDaCqgtp45H4EQ7NeUglKqnheUGFNaJESdkodoPg",
+        "content": "Tutti i giorni un'allerta meteo, tutte sbagliate",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2020-08-23 19:33:58",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGfepdl5VsvlzbEj-Z8d99CxB0qa4H4fv7fALAx3KW0ugX9qHHIknacDIqxc-YUnKir19BnyyTU_0cs2w",
+        "userName": "Massimo Lancellotti",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GilKyWcoTt84IdcCfW0nskZ5A09iLsTHbPi193n",
+        "content": "Funzionare funziona... le cose che ci sono servono... bruttina. Quello si e le allerte meteo attendibili come le previsioni mentre per i decreti covid rimanda ad apposite pagine on line.",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.7.0",
+        "at": "2020-08-20 22:16:38",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFdSJtnSv-aBKG9yVb8TlznMYQQCqgsS1d33BOOcju2U92sDKCu6tbago1yilnuu3TSFu6S9d0R_WLXgw",
+        "userName": "Maddalena Mod\u00e8",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gj30Cxie-P7wxUs8_y3jzNfS6iyvFSIgHtqJz0EYw",
+        "content": "La mia versione dell'app non mostra la mappa con i livelli di allerta colorati, ma solo l'elenco. Ho disinstallato e reinstallato pi\u00f9 volte senza ottenere cambiamenti. Praticamente non ho il tasto del men\u00f9 a tendina di scelta della visualizzazione ad elenco o a mappa (non ho le \"tre righette\" in alto a destra vicino alla scritta \"regione Lombardia\"). Perch\u00e9?",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.7.0",
+        "at": "2020-08-19 00:21:07",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOEHb-ZXDy4odv4sn2haBF_l0iBjgVdEKTVupTw5ewzY3BlSEC4Pt66gNDviI0YcHNzR38MrR24-LurE2A",
+        "userName": "Ettore Maroni",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GggA8q8kyKZyRFaSNq2WrtLaZKBt3no-y7-5UYM",
+        "content": "Continua a bloccarsi e non si apre, peccato sarebbe utile",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2020-08-18 07:05:22",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGKoHKbKgxVZl8kIqWRauOhAqDIVnULgfBvEQBmEtAt-9jnM2N3R1t_zE9-LLYJD93pRRvq77PdGdqRPA",
+        "userName": "wiliam fertonani",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiDTHOclXu_1QEN3mBOdss6yrWhtE4wQCkh2CeO",
+        "content": "Le previsioni meteo sono quasi sempre sballate",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.7.0",
+        "at": "2020-08-17 14:05:10",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGUhMLByoCBKvRl-EU5mMSB67HOZkNXJpTvtidtv1X9S0KXBJ3NR2UUfotzzdt1F2sEx9vT33lGDVm0WA",
+        "userName": "carlo rapelli",
+        "userImage": "https://lh3.googleusercontent.com/-A-FLWQQtdGk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclPOxc3a1MxJQMJxAgQWKggGimSPg/photo.jpg",
+        "content": "Bene",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.7.0",
+        "at": "2020-08-17 13:59:27",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOEXUV4nhjF-jQervAPysmrPcEzpDGfwoLKd2PPzS4mOGuK2FEzoGUVZBeZHWGrJoI9JaVTwCyhY4wzrhw",
         "userName": "Roberto Manoelli",
         "userImage": "https://lh3.googleusercontent.com/-qvuS3tgXOQo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnoAD2el2aFomOa_XksmVLqI_Ddwg/photo.jpg",
@@ -65,7 +137,7 @@
         "userImage": "https://lh3.googleusercontent.com/-8PNnVghMqW4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn2Go1dQuVdr2COptOy2mQpUXIyqQ/photo.jpg",
         "content": "Grande sciocchezza il fatto che non si possano variare determinati dati. Ad esempio, durante il periodo di maggiore virulenza, ho compiuto gli anni. Se non scarichi l'app e poi la ricarichi, rimane fisso il dato degli anni compiuti, cos\u00ec come caricato in origine. Poi le allerte non mi arrivano mai. Sto parlando di fenomeni atmosferici. Nella mia zona, da maggio 2020, ce ne sono stati almeno due. La tengo caricata per campanilismo, ma le applicazioni efficienti sono veramente tutt'altra cosa.",
         "score": 1,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 3,
         "reviewCreatedVersion": "1.7.0",
         "at": "2020-08-14 13:37:08",
         "replyContent": null,
@@ -182,7 +254,7 @@
     {
         "reviewId": "gp:AOqpTOHJVGsUM4Pt03N96sAXpx-5B0R2B2lj0mq_nvYerXfsGI5qFBh4upkoKJW7FPPIkDHNV-54sq3kVZPinA",
         "userName": "Angela Gussoni",
-        "userImage": "https://lh3.googleusercontent.com/-2MJR_LrA2GU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnMoECrEsqK8-_uKOlY9zO3-CXUwA/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gh2QAH66Y0VsEcikoDZAZdBAHQmV92NclJed9rRDw",
         "content": "NEI PRONTO SOCCORSO SON TUTTI RIGOROSI ALLE REGOLE E TI METTONO MOLTO A TUO AGIO GRAZIE A TUTTI X LA COLLABORAZIONEUN ABBRACCIO SEPPUR VIRTUALE",
         "score": 5,
         "thumbsUpCount": 0,
@@ -2486,7 +2558,7 @@
     {
         "reviewId": "gp:AOqpTOG2-LpbdOS3l23T92EPOT1wPY4A7IIO0njUiy0yzC_x2DBKq1azDlJHEoDwvu08a4uWDDzgTTX9qOsBaQ",
         "userName": "Carlo Dell'anna",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiczUffCBmkIHveN1XmA1e57T9QGbjJijxwSYsxnA",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhqWG7MeARGNpU75QdqFwA0gXv44KeJi0Hgmq9Kgw",
         "content": "Ottima",
         "score": 5,
         "thumbsUpCount": 0,
@@ -5316,18 +5388,6 @@
         "repliedAt": "2020-05-07 17:07:09"
     },
     {
-        "reviewId": "gp:AOqpTOGand_prUwn-uwwzqxC1b2zyY_s0t-U_f9b4zfcVvVImc-hhMhj5PyR4m3BLgZdYTfXAIgUg-SxwdrR9w",
-        "userName": "Graziella Dal Conte",
-        "userImage": "https://lh3.googleusercontent.com/-mizl0THhejc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl8zNJf3Cq2VPQY-F_42gVmS7-ArA/photo.jpg",
-        "content": "A tutto serve nella vita sara' ricordata dentro di noi",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.6.0",
-        "at": "2020-04-22 12:50:37",
-        "replyContent": "Ciao Graziella, grazie per il feedback positivo!",
-        "repliedAt": "2020-05-07 16:25:54"
-    },
-    {
         "reviewId": "gp:AOqpTOGX5Bq5ZeKPyq3hnbFONPVdrSxUf4huFC7Tw4wss7pxKafl6oFCArtryEUs-eKTswuwVfYtswTAUbnAcw",
         "userName": "Valentina Mariani",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gj2UX4TubgEwkMZjwwFRTNNKXD7QXwNv1JYWf_R",
@@ -5338,6 +5398,18 @@
         "at": "2020-04-22 12:50:37",
         "replyContent": "Ciao Valentina, potresti dettagliare la problematica riscontrata? scrivici a info.allertalom@ariaspa.it indicando i tuoi dati e del dispositivo utilizzato!",
         "repliedAt": "2020-05-07 16:27:36"
+    },
+    {
+        "reviewId": "gp:AOqpTOGand_prUwn-uwwzqxC1b2zyY_s0t-U_f9b4zfcVvVImc-hhMhj5PyR4m3BLgZdYTfXAIgUg-SxwdrR9w",
+        "userName": "Graziella Dal Conte",
+        "userImage": "https://lh3.googleusercontent.com/-mizl0THhejc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl8zNJf3Cq2VPQY-F_42gVmS7-ArA/photo.jpg",
+        "content": "A tutto serve nella vita sara' ricordata dentro di noi",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.6.0",
+        "at": "2020-04-22 12:50:37",
+        "replyContent": "Ciao Graziella, grazie per il feedback positivo!",
+        "repliedAt": "2020-05-07 16:25:54"
     },
     {
         "reviewId": "gp:AOqpTOH5Vk9tMeFfTxehl8p5yfPsowvW-auqhJ6hRs0b6vUbPpjrAi9dNThhh3rWTSgVabBVMBUcJjJ2vltPyg",
@@ -6718,18 +6790,6 @@
         "at": "2020-04-20 20:27:00",
         "replyContent": "Ciao Sergio grazie per il feedback!",
         "repliedAt": "2020-04-22 08:23:24"
-    },
-    {
-        "reviewId": "gp:AOqpTOETL5kLu3DRV8Qp7T8IaBVXpzn-PFg6ULlpVFUl0DnDbhEAw14NVROAx7Ahw0chPXpaoCjJ5A0Bs9EJXQ",
-        "userName": "Luigi Conti",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gj6ci5M4QFTa1V-q6GaN82YT79OpLvk_6ekIuoR7Q",
-        "content": "Perfetta ma se ipoteticamente sbaglio eta il giorno dopo posso correggerla in covid19 o provato a rinsattarlo ma devo aspettare la mezzanotte per aggiornarlo praticamente ho disinstallato \u00e8 rinstallato ma non ho potuto aggiornarlo aspetto mezzanotte e ci riprovo se posso fare il test",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.6.0",
-        "at": "2020-04-20 20:16:52",
-        "replyContent": "Ciao Luigi, allo stato attuale non \u00e8 possibile aggiornare i dati precedentemente immessi, per esigenze tecniche e statistiche.",
-        "repliedAt": "2020-04-22 08:28:49"
     },
     {
         "reviewId": "gp:AOqpTOEyQq4sx7bQzl5xuANUEjGkbm01JzrPpeiHTF2u1VeFCGZ119OQk6G9TcTMNJzfuJwmufyWkmdOgMp8cw",
@@ -11938,65 +11998,5 @@
         "at": "2020-04-09 17:36:25",
         "replyContent": "Ciao Cristina, l'app non sostituisce una valutazione medica delle proprie condizioni.I dati raccolti servono per analisi statistiche ed epidemiologiche, ti ricordiamo che puoi contattare  il numero 1500 per richieste di informazioni e il numero verde 800 894 545 solo se si ritiene di avere dei sintomi della malattia!",
         "repliedAt": "2020-04-10 12:37:44"
-    },
-    {
-        "reviewId": "gp:AOqpTOGPlI9pxKtfF_sKwoVkbq3wNwRzljX7yl6ldeLm6ENmTWX15E_PJPm-e0Y3ZxqwXAy4yyeURgmfIxAY4g",
-        "userName": "Giuliana Ferraro",
-        "userImage": "https://lh3.googleusercontent.com/-7KlL1sJg1lk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnRA-OGLSBb-5F-bGZ4WN1Tq-YkLw/photo.jpg",
-        "content": "Come app mi sembra elementare e scarsina. Leggo i commenti sotto e condivido. Per i cell un poco datati nessuna possibilit\u00e0. Mi sembra una 500 ma che per usarla sia obbligatorio la patente per autotreni. Voto 5 Giuliana",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.5.0",
-        "at": "2020-04-09 17:26:11",
-        "replyContent": "Ciao Giuliana, allertaLOM \u00e8 l\u2019App di Regione Lombardia che permette di ricevere le allerte di Protezione Civile e che in occasione dell\u2019emergenza Coronavirus, si \u00e8 evoluta in uno strumento di partecipazione attiva della cittadinanza al monitoraggio della diffusione del virus.Siamo spiacenti che l'app non soddisfi le tue aspettative, miglioreremo!",
-        "repliedAt": "2020-04-10 13:00:25"
-    },
-    {
-        "reviewId": "gp:AOqpTOG757WNCdQKC9YVBvHqWooV1bK-DejC7SlkocvIJVRLix6HQ0kqxZvPu8raRasHWndQx4XaW9vebfGVDw",
-        "userName": "Angelo De Santis",
-        "userImage": "https://lh3.googleusercontent.com/-3MDq-BoxqyU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn8gFiJViKvAbRtLbGkMkh_UuiFnA/photo.jpg",
-        "content": "Lenta e per il momento incomprensibile, se poi ti rimanda sul sito per info direi finch\u00e9 non parte mappatura pressoch\u00e9 inutile. Ogni volta che entri devi rifare il questionario e rimettere TUTTI I DATI. Folle.",
-        "score": 1,
-        "thumbsUpCount": 2,
-        "reviewCreatedVersion": "1.5.0",
-        "at": "2020-04-09 16:43:32",
-        "replyContent": "Ciao Angelo, l'app non d\u00e0 la possibilit\u00e0 di visualizzare la situazione in real-time della casistica dell'infezione, il sondaggio CercaCovid permette a Regione Lombardia di quantificare il livello di diffusione del contagio, il conferimento dei dati \u00e8 facoltativo e mai reso automatico anche in presenza di aggiornamento ripetuto nel tempo.",
-        "repliedAt": "2020-04-10 12:55:26"
-    },
-    {
-        "reviewId": "gp:AOqpTOFdync5a7HDd1QUss4nhWSxoKBIoVhxzLUgmmua7DM08bVa-vhGHoHc-8Qun3n4sTJDWNeHNFekZy2K2Q",
-        "userName": "alessandro parodi",
-        "userImage": "https://lh3.googleusercontent.com/-zKmNRXdrkx0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm3ObE6BCz27l2g_3QTbWkcEeQFOA/photo.jpg",
-        "content": "Installata e fatto questionario Covid19. Sembra funzionare correttamente per adesso.",
-        "score": 4,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.5.0",
-        "at": "2020-04-09 14:57:48",
-        "replyContent": "Grazie Alessandro per aver aggiornato la tua recensione, spesso la lentezza pu\u00f2 essere legata al grande numero di utilizzatori o alla velocit\u00e0 della rete dell'utente.",
-        "repliedAt": "2020-04-10 14:27:04"
-    },
-    {
-        "reviewId": "gp:AOqpTOFi2LnXW7jVErucQGXkQvJP6zMjM_tcC_cs1Zgm5KHzwAjFzfjAwYf7gX2K7X1cEEL0O50t0XscMFXoEw",
-        "userName": "Nicol\u00f2 Carra",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gi2NSiueCEcwLRUnbIbOlSOQ3lhLPtLb1aFQCH7zPg",
-        "content": "La app \u00e8 ben strutturata, le allerte e le varie informazioni date in questo periodo di emergenza sono molto utili e costituiscono una fonte sempre affidabile di informazioni sul territorio. L'unica pecca che vorrei segnalare ma che non pregiudica affatto la mia opinione positiva su questa app \u00e8 che cliccando sulla notifica dell' allerta l'applicazione si blocca e diviene necessario riavviarla. Per il resto funziona tutto molto bene.",
-        "score": 4,
-        "thumbsUpCount": 7,
-        "reviewCreatedVersion": "1.5.0",
-        "at": "2020-04-09 13:49:36",
-        "replyContent": "Ciao Nicolo, ti ringraziamo per la segnalazione che \u00e8 stata trasmessa ai servizi tecnici. Ogni contributo \u00e8 prezioso! Grazie anche per la tua recensione e grazie di tutte le stelline che fanno crescere la nostra valutazione. Cercheremo instancabilmente di fare in modo che tutti quelli che usano l'app, la apprezzino come te!",
-        "repliedAt": "2020-04-10 14:34:55"
-    },
-    {
-        "reviewId": "gp:AOqpTOGN4EGViyySHBM3QI5xo49d7RQzI5ZRMZyjbnHw1DiLrtDu1bf86zqJiVBZnxOj0AFubg2Q8-g0huidYQ",
-        "userName": "Rasayana Ringiovanimento Ayurvedico",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgtdEWMzlmWtW7xwXUd31JJvG4bMYTb4nPiYSMRPg",
-        "content": "Ho scaricato l'app per compilare il test del coronavirus, ma per Android non c'\u00e8. Grazie avete risolto.",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.5.0",
-        "at": "2020-04-09 08:37:49",
-        "replyContent": "Ciao, Rasayana per aver aggiornato la tua recensione!Cercheremo instancabilmente di fare in modo che tutti quelli che usano l'app, la apprezzino come te!",
-        "repliedAt": "2020-04-10 14:37:26"
     }
 ]
