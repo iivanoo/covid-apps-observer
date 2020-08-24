@@ -200,25 +200,25 @@ The Luscii app has been installed by more than **50000** times. At this time, **
 <img src="5_star_reviews_wordcloud.png" alt="nl.focuscura.beeldbelapp 5 reviews"/>
 </p>
 
+> Zeer goed en functioneel en eenvoudig.<br> :date: __2020-08-21 09:12:18__
+
+> Lekker makkelijk en overzichtelijk<br> :date: __2020-08-20 15:52:07__
+
+> Een fijne app<br> :date: __2020-08-20 10:22:39__
+
+> Het zeer makkelijk om de app te gebruiken. Mocht het niet goed zijn dan neemt het ziekenhuis waar je woont contact met je op. Ben zeer te vreden met de app.<br> :date: __2020-08-20 09:46:14__
+
+> Heel snel en goed reageren<br> :date: __2020-08-20 09:31:01__
+
+> Makkelijk in gebruik.<br> :date: __2020-08-19 09:41:55__
+
+> Werkt prima<br> :date: __2020-08-19 09:32:40__
+
+> Makkelijk te volgen<br> :date: __2020-08-19 08:32:04__
+
+> Werkt heel goed, reactie komt ook snel<br> :date: __2020-08-17 16:51:46__
+
 > Deze app werkt prima!<br> :date: __2020-08-15 15:14:38__
-
-> Doet wat het belooft<br> :date: __2020-08-14 09:24:33__
-
-> Goed<br> :date: __2020-08-13 20:40:00__
-
-> Fijne trigger<br> :date: __2020-08-13 15:46:31__
-
-> Goed.en.nuttig.<br> :date: __2020-08-13 09:58:37__
-
-> Simpel en makkelijk te bedienen<br> :date: __2020-08-12 12:35:14__
-
-> Overzichtelijk<br> :date: __2020-08-10 12:37:03__
-
-> De App is voor mij snel en duidelijk .<br> :date: __2020-08-09 17:27:39__
-
-> Heb er rust en tevreden over geworden<br> :date: __2020-08-07 21:12:19__
-
-> Makkelijk in te vullen<br> :date: __2020-08-06 12:24:58__
 
 
 
@@ -227,6 +227,14 @@ The Luscii app has been installed by more than **50000** times. At this time, **
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="nl.focuscura.beeldbelapp 4 reviews"/>
 </p>
+
+> Jammer geen terugkoppeling<br> :date: __2020-08-23 11:43:39__
+
+> Een wisselende vraagstelling, meer onderdelen benoemen , kan het automatisme onderdrukken, denk ik.<br> :date: __2020-08-22 20:58:58__
+
+> Werkt goed<br> :date: __2020-08-20 11:17:49__
+
+> Nuance aangeven bij neusverkoudheid en keelpijn zou fijn.<br> :date: __2020-08-18 09:05:00__
 
 > Gemakkelijk in gebruik.<br> :date: __2020-08-17 12:07:51__
 
@@ -239,14 +247,6 @@ The Luscii app has been installed by more than **50000** times. At this time, **
 > Goed voor je bewustzijn m.b.t. je eigen gezondheid en die van je omgeving.<br> :date: __2020-08-03 11:06:38__
 
 > Makkelijk en deelname dwingt tot zelfcontrole<br> :date: __2020-08-01 10:49:35__
-
-> Duidelijk en makkelijk te hanteren<br> :date: __2020-07-30 13:04:24__
-
-> Heldere aanpak.<br> :date: __2020-07-28 08:06:11__
-
-> Makkelijk app om je gezondheid in de gaten te houden<br> :date: __2020-07-27 09:46:44__
-
-> Vlot<br> :date: __2020-07-25 01:11:08__
 
 
 
@@ -284,6 +284,8 @@ The Luscii app has been installed by more than **50000** times. At this time, **
 <img src="2_star_reviews_wordcloud.png" alt="nl.focuscura.beeldbelapp 2 reviews"/>
 </p>
 
+> Oude gegevens niet meer te raadplegen<br> :date: __2020-08-21 11:46:47__
+
 > Het is wel even wennen! Het komt wel...<br> :date: __2020-08-10 20:59:45__
 
 > Zie geen feedback dus geen idee wat ik bijdraag of wat het voor mij doet<br> :date: __2020-08-10 12:39:02__
@@ -301,8 +303,6 @@ The Luscii app has been installed by more than **50000** times. At this time, **
 > Erg simpel programma. Geeft niet het gevoel dat het je situatie ook maar benaderd. Startvragen over gezondheid (bij eerste aanmelding op te geven) zijn niet terug te vinden. Dus ook niet te corrigeren. Ik zie er weinig nut van in. Speelgoed.<br> :date: __2020-05-23 13:23:27__
 
 > Deed wat hij moest doen maar sinds de app landelijk wordt gebruikt waardeloos en de updates van vorige week is het een k..t app moet hem steeds verwijderen en opnieuw installeren want hij logt steeds uit en opnieuw inloggen lukt niet.<br> :date: __2020-05-19 19:26:43__
-
-> Mate van klachten kun je niet aangegeven. Ik ook andere veelgehoorde klachten. Beste medewerker, De app heeft al dagen technische problemen. Ik verwijder 'm van mijn telefoon. Waarschijnlijk bent u gestopt met uw onderzoek.  Ook uw vragen zijn inmiddels achterhaald. Ben inmiddels al 4 weken ziek, zoals zo velen met mij. Ik had hier meer van verwacht. Jammer dat dit niet serieus wordt uitgevoerd.  Met vriendelijke groet, José ten Böhmer<br> :date: __2020-05-18 10:11:59__
 
 
 

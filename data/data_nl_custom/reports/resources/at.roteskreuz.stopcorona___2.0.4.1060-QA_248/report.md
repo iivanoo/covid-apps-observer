@@ -156,10 +156,12 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 #### 5-star reviews
 
 <p align="center">
-
+<img src="5_star_reviews_wordcloud.png" alt="at.roteskreuz.stopcorona 5 reviews"/>
 </p>
 
-No recent reviews available with 5 stars.
+> Kan de app ook in het nedelands<br> :date: __2020-08-18 22:41:38__
+
+
 
 #### 4-star reviews
 

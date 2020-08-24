@@ -140,6 +140,10 @@ The RIVM LCI-richtlijnen app has been installed by more than **50000** times. At
 <img src="5_star_reviews_wordcloud.png" alt="nl.rivm.lciapp 5 reviews"/>
 </p>
 
+> Fijne, duidelijke app<br> :date: __2020-08-21 05:05:08__
+
+> Even geduld, dat de app alles gedownload heeft.<br> :date: __2020-08-19 10:31:44__
+
 > Zo blijf je op de hoogte<br> :date: __2020-07-17 09:57:06__
 
 > Zeer goede en bruikbare informatie<br> :date: __2020-06-18 17:15:10__
@@ -156,10 +160,6 @@ The RIVM LCI-richtlijnen app has been installed by more than **50000** times. At
 
 > Super mooi.werk prima.<br> :date: __2020-04-30 13:56:43__
 
-> Goed<br> :date: __2020-04-23 16:47:54__
-
-> Duidelijk<br> :date: __2020-04-23 10:42:37__
-
 
 
 #### 4-star reviews
@@ -167,6 +167,8 @@ The RIVM LCI-richtlijnen app has been installed by more than **50000** times. At
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="nl.rivm.lciapp 4 reviews"/>
 </p>
+
+> Goed<br> :date: __2020-08-18 19:37:40__
 
 > Uitstekend<br> :date: __2020-08-12 11:36:26__
 
