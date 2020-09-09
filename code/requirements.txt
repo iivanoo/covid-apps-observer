@@ -13,7 +13,7 @@ cryptography==2.9.2
 cycler==0.10.0
 decorator==4.4.2
 future==0.18.2
-google-play-scraper==0.0.3.0
+google-play-scraper==0.1.1
 idna==2.9
 ipython==7.13.0
 ipython-genutils==0.2.0
