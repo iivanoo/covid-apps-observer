@@ -132,6 +132,8 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 <img src="5_star_reviews_wordcloud.png" alt="cat.gencat.mobi.StopCovid19Cat 5 reviews"/>
 </p>
 
+> Excelente<br> :date: __2020-09-04 10:58:24__
+
 > Esta app la veo bien<br> :date: __2020-08-01 12:41:39__
 
 > En mi opinión está bien que tengas que introducir tus datos para que Salut pueda contactar contigo y hacer el seguimiento,pero para mí sería perfecta ya si incorporase la función de Bluetooth para avisar de sintomáticos y/o positivos cercanos.<br> :date: __2020-07-22 13:01:04__
@@ -150,8 +152,6 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 
 > No me deja introducir el número de teléfono.<br> :date: __2020-06-08 15:08:56__
 
-> Es una app molt util...<br> :date: __2020-06-02 21:43:49__
-
 
 
 #### 4-star reviews
@@ -159,6 +159,8 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="cat.gencat.mobi.StopCovid19Cat 4 reviews"/>
 </p>
+
+> A esperar que la app la tenga el 75% de la poplacion.<br> :date: __2020-08-25 08:22:19__
 
 > En esta aplicación ingresas información pero le falta respuesta y seguimiento.<br> :date: __2020-08-10 11:17:30__
 
@@ -178,8 +180,6 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 
 > Estaría bien que recordase los datos para no introducirlos cada vez. Algunos síntomas bien podrían incluir una descripción más detallada de qué se considera ese síntoma. Puedo asegurar que si estás muy mal (según los síntomas) y dices que no puedes valerte por ti mismo en lo más básico te llaman, como el caso de mi madre<br> :date: __2020-04-12 16:40:09__
 
-> Positiva<br> :date: __2020-04-08 13:45:06__
-
 
 
 #### 3-star reviews
@@ -187,6 +187,8 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="cat.gencat.mobi.StopCovid19Cat 3 reviews"/>
 </p>
+
+> ¿Está integrada con Radar COVID, la app española?<br> :date: __2020-09-06 13:18:25__
 
 > BUENA<br> :date: __2020-08-13 15:14:40__
 
@@ -206,8 +208,6 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 
 > A casa som 4 i solament guarda el CIP de l'últim. És podria buscar la forma de que els guardés<br> :date: __2020-04-26 10:44:04__
 
-> Los síntomas se deberían describir y poder precisar mejor. Por ejemplo, ¿36'6 es fiebre? Y si se pone como fiebre, ¿qué temperatura se debería poner, "36'5 o menos" o 37?<br> :date: __2020-04-23 11:46:06__
-
 
 
 #### 2-star reviews
@@ -215,6 +215,8 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="cat.gencat.mobi.StopCovid19Cat 2 reviews"/>
 </p>
+
+> No serveix per res. S'ha de activar un altre aplicació que controli els contactes de un qui doni positiu a PCR. Ja hi ha el radar covid. A veure quan le active la Generalitat o es que está esperan al 12 de setembre<br> :date: __2020-08-26 12:05:43__
 
 > Casi nunca funciona<br> :date: __2020-07-17 03:07:53__
 
@@ -234,8 +236,6 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 
 > No paráis de decirme que haga el seguimiento cada día pero cuando pongo el CIP me dice que no es correcto y con el dni no hace nada, a ver si lo hacéis mejor y solucionais esto<br> :date: __2020-04-01 15:49:43__
 
-> Da error de conexión desde el sábado<br> :date: __2020-03-30 10:58:14__
-
 
 
 #### 1-star reviews
@@ -243,6 +243,12 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="cat.gencat.mobi.StopCovid19Cat 1 reviews"/>
 </p>
+
+> Está app no sirve para nada. Después de estar una semana haciendo el test y diciéndome que un profesional se pondría en contacto conmigo llamé al CAP, y menos mal que me atendieron por teléfono y me dijeron de hacer la PCR, porque di positivo, así que está app no es de fiar, porque no sirve para nada<br> :date: __2020-09-08 13:19:36__
+
+> No detecta coronavirus<br> :date: __2020-09-07 23:36:56__
+
+> Prefiero la del Ministerio, es.mucho más sencilla y fácil de manejar. Esta es muy inútil.<br> :date: __2020-08-27 10:49:30__
 
 > Fatal, no cumple con las expectativas. Tarda mucho en cargar, de poca utilidad igual que la poca utilidad de los políticos separatistas de la Generalitat. Desinstalo ya.<br> :date: __2020-08-21 15:18:16__
 
@@ -257,11 +263,5 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 > Es tal inútil como el servicio del 061. No contactan a través del app, como imposible hablar a través del servicio telefónico. Es una odisea la espera del 061 en Cataluña. Increíble que este gobierno catalán asuma una responsabilidad, acusando al gobierno central de ineptos y la Generalitat son tan inútiles como está app. Se les va de las manos los contagios y no son capaces de controlar a través de una aplicación u otro medio digital los posibles rebrotes del covid-19.<br> :date: __2020-07-26 11:59:39__
 
 > Me interesa saber con esta aplicación si tenemos cerca algún infectado no si lo estoy yo y esta app no t lo dice<br> :date: __2020-07-21 07:18:13__
-
-> No me abre la app.<br> :date: __2020-07-19 23:03:34__
-
-> No sirve para nada<br> :date: __2020-07-18 13:47:29__
-
-> No he tenido nada por ahora y dios quiera que no tenga nada gracias<br> :date: __2020-07-16 11:31:09__
 
 

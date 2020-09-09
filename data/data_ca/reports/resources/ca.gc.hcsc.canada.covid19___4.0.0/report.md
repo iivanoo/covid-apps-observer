@@ -133,6 +133,10 @@ The Canada COVID-19 app has been installed by more than **100000** times. At thi
 <img src="5_star_reviews_wordcloud.png" alt="ca.gc.hcsc.canada.covid19 5 reviews"/>
 </p>
 
+> All the info I need<br> :date: __2020-08-28 02:47:18__
+
+> I have installed and currently use the app to see our stats of cases country wide etc. Loads quickly and cannot speak to alerts as thankfully I hope I have yet to receive any.<br> :date: __2020-08-25 19:59:55__
+
 > Great use of plain language, and app is easy and helpful.<br> :date: __2020-08-16 22:29:40__
 
 > Locked down like in prison A place I've never been yet I've walked my file m floor for 6 mother Months And I made it!!!!<br> :date: __2020-08-14 01:34:57__
@@ -149,10 +153,6 @@ The Canada COVID-19 app has been installed by more than **100000** times. At thi
 
 > I heard its Excellent I'm on it Now Amen<br> :date: __2020-08-01 23:27:25__
 
-> Installed easily with no issues.. Dont see why others have issues. Canadian stats was nice to see...<br> :date: __2020-08-01 08:20:46__
-
-> Okay<br> :date: __2020-08-01 05:32:36__
-
 
 
 #### 4-star reviews
@@ -160,6 +160,10 @@ The Canada COVID-19 app has been installed by more than **100000** times. At thi
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="ca.gc.hcsc.canada.covid19 4 reviews"/>
 </p>
+
+> In French there are some words misspelled toteaux should be totaux<br> :date: __2020-09-04 05:41:23__
+
+> Good<br> :date: __2020-08-30 14:21:55__
 
 > The app doesn't let you know if you come in contact with someone who has C0VID19. This needs improvement. Otherwise it's a good app.<br> :date: __2020-08-16 08:19:12__
 
@@ -176,10 +180,6 @@ The Canada COVID-19 app has been installed by more than **100000** times. At thi
 > Add "have you been tested for Covid-19" & "what date" in the section for symptoms (ie a cough)<br> :date: __2020-06-16 03:44:25__
 
 > Well done. Informative and accurate. Plenty simple valid information 👍<br> :date: __2020-05-27 00:44:51__
-
-> Easy to use and provide a useful health information.<br> :date: __2020-05-17 04:25:48__
-
-> I like the fact that you've jumped on board with making an app for this situation I give you two thumbs up it is informative but needs to have a little more<br> :date: __2020-05-05 03:39:19__
 
 
 
@@ -245,6 +245,12 @@ The Canada COVID-19 app has been installed by more than **100000** times. At thi
 <img src="1_star_reviews_wordcloud.png" alt="ca.gc.hcsc.canada.covid19 1 reviews"/>
 </p>
 
+> A Company called Thrive health is impersonating Health Canada and Google thinks: "yeah, apps impersonating goverment agencies should be totally allowed."<br> :date: __2020-09-03 17:10:22__
+
+> Not the right app. Don't use<br> :date: __2020-08-26 13:37:39__
+
+> This app is bs. "F" off government of Canada<br> :date: __2020-08-25 13:05:19__
+
 > We were instructed to install this to help with contact tracing. 2 months after install i was prompted to install another app called covid alert, meaning that I was using this app for nothing... the functionality should have been integrated as one app not two. It's a waste of taxpayers money to do development this way.<br> :date: __2020-08-13 20:06:36__
 
 > Irresponsible app. This is NOT the tracker app. Get that app instead. I thought I had the tracker app when I'd installed this app BUT I WAS WRONG. This app should not be in the Google Play Store (anymore)! There should be only one Government of Canada app. This app should be merged with the other app! Update. If I could give this app a negative I would. It just generated a notification for 'acts of kindness'. If you really want to be kind, don't ever sully a health app with social media garbage<br> :date: __2020-08-11 20:10:11__
@@ -258,11 +264,5 @@ The Canada COVID-19 app has been installed by more than **100000** times. At thi
 > Even if you have no symptoms it recommends self quarantine for 2 weeks.<br> :date: __2020-08-04 21:52:10__
 
 > What a mess! Just put this on a website. This is app is a waste of time and taxpayer dollars.<br> :date: __2020-08-03 20:33:31__
-
-> This app should be removed from the play store. It is what comes up when I search for Covid Alert, the official Canadian Covid alert app. I installed this, and didn't realize I was not 'protected' and wouldn't get notifications if I became a contact of someone who has tested positive. Thankfully, out of curiosity, I was checking out how many connections my phone had made with other phones and discovered I didn't have the app I thought I had.<br> :date: __2020-08-03 19:21:33__
-
-> Governement gab Lots of stuff, but impossible to navigate decently. No clear instructions or helpfull tips/guidance<br> :date: __2020-08-01 05:59:04__
-
-> It seems like this app tracks your movements and steals personal your information you cant trust the Trudeau government.<br> :date: __2020-07-31 17:44:37__
 
 

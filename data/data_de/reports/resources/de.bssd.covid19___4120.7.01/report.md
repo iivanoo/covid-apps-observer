@@ -131,25 +131,25 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="de.bssd.covid19 5 reviews"/>
 </p>
 
+> Voll cool die app voralem man muss dardurch das handy im Unterricht nicht ausschalten aber die app ist viel cool und sie ist einfach zu Nutzen und man versteht sie schnell<br> :date: __2020-09-09 06:24:58__
+
+> Macht was es soll, aber nur wenn man kein angepasstes "China-Android" hat. War auf meinem Handy mit angepasster Software absolut unbrauchbar. Danach mit anderem Handy mit normalem Android absolut Top.<br> :date: __2020-09-08 10:22:04__
+
+> Alles super, gar keine Probleme und mein Testergebnis hatte ich schon einen Tag nach dem Abstrich. Ich bin sehr zufrieden alles ist super einfach.<br> :date: __2020-09-05 17:18:56__
+
+> App funktioniert und macht genau das, was sie soll. Aber eben mehr auch nicht... Ergebnis war nach 36 Stunden da.<br> :date: __2020-09-03 09:01:03__
+
+> Die App hat genau das gemacht was sie sollte...<br> :date: __2020-09-02 13:33:06__
+
+> Bedienung super einfach, man bekommt eine Pushnachricht, sobald das Ergebnis vorliegt. Flughafen KölnBonn, getestet gestern um ca. 16 Uhr, heute gegen 12 das Testergebnis! Innerhalb von 20 Stunden, und natürlich negativ ( aus Split, Kroaten) 🎉<br> :date: __2020-08-28 13:07:41__
+
+> Handhabung sehr einfach,knapp 24 Std.später die Benachrichtigung ,dass das Testergebnis vorliegt. Tolle App!!<br> :date: __2020-08-28 12:57:46__
+
 > ICH hab meinen Test zwar erst nach 5 Tagen hier abgerufen, aber das Ergrnis war sofort da und die QR Code Erkennhng hat sehr gut funktioniert.<br> :date: __2020-08-21 22:19:14__
 
 > Hat alles einwandfrei funktioniert Habe ganz normal meine Nachricht, 27h nach dem Test bekommen, verstehe all die schlechten Bewertungen nicht Nur schade dass man sich jedes Mal neu anmelden muss aber man kann ja auch einfach den Code kopieren und immer wieder bequem einfügen<br> :date: __2020-08-16 15:37:53__
 
 > Sehr gute App. Die Benachrichtigung erfolgte innerhalb 24 Stunden.<br> :date: __2020-08-14 13:51:44__
-
-> Wir haben uns am Sonntag früh um 2:00 Uhr testen lassen, gegen 10 Uhr haben wir uns die App heruntergeladen und uns angemeldet. Um 17:30 Uhr bekamen wir eine Push-Nachricht, dass unser Ergebnis vorliegt. Bei uns hat es super geklappt und sind sehr zufrieden.<br> :date: __2020-08-09 23:37:54__
-
-> Hat alles funktioniert<br> :date: __2020-08-09 19:16:51__
-
-> Ich kann die negativen Bewertungen zu dieser App nicht nachvollziehen. Der QR Code Scan funktioniert bei mir problemlos. Als das Testergebnis (nach ca 36h) vorlag, habe ich auch eine Push-Benachrichtigung bekommen. Die App tut zuverlässig genau das, was sie soll.<br> :date: __2020-08-09 11:27:46__
-
-> alles gut<br> :date: __2020-08-08 21:41:59__
-
-> Hat alles super gut geklappt. Installieren, Scannen und das Ergebnis kam nach weniger als 48 Stunden per Push-Benachrichtigung. Ab und an hängt der Scanner. Einfach die App neu starten, dann funktioniert es wieder.<br> :date: __2020-08-06 09:46:45__
-
-> Super einfach verständliche App. Ergebnis stand bei mir nach 24Std. fest. Habe zudem auch eine Push Benachrichtigung bekommen. Leider vergisst die App jedes Mal beim Öffnen die Anmeldedaten . Ansonsten super App.<br> :date: __2020-08-03 05:18:27__
-
-> Gut, dass wir so eine App haben<br> :date: __2020-07-31 20:32:06__
 
 
 
@@ -158,6 +158,8 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="de.bssd.covid19 4 reviews"/>
 </p>
+
+> Scan funktioniert wenn man das Handy weiter von dem QR Code entfernt, ID lässt sich nicht eintippen, nur copy&paste ist (Gott sei Dank) möglich. Was passiert, wenn man sich bei der ca. 40 stelligen Nummer vertippt hat? Kriegt man ein fremdes Ergebnis angezeigt oder wird die Eingabe durch die App verifiziert? Ergebnis kam am nächsten Tag, die Benachrichtigung kam wie erwartet.<br> :date: __2020-09-01 14:04:41__
 
 > Einscannen des QR-Codes bei jedem Start der App könnte sicherlich anders gelöst werden. Positiv aber: Information über das Vorliegen der Testegebnisse als Pop-Up. Ergebnis stand nach 24h bereit.<br> :date: __2020-08-20 20:29:27__
 
@@ -177,8 +179,6 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 
 > App ist okay! Mein Ergebniss war am zweiten Tag da. Einzige Beanstandung ist dass man den QR jedesmal neu scannen muss<br> :date: __2020-06-09 09:53:38__
 
-> WENN die Datenübertragung der Labore funktioniert, funktioniert die App. Es ist hochbedenklich, dass die App nach 4 Tagen Quarantäne kein Ergebnis zeigt, auch jetzt nach 6 Tagen nicht. Kein Anruf vom Gesundheitsamt, wo das Ergebnis wahrscheinlich schon nach 2 Tagen vorlag. Anruf auf Gesundheitsamthotline (obwohl ja unerwünscht!): Test ist negativ und lag schon als Duplikat da vor .... könnte so schnell und easy sein. In Zeiten autonomen Fahrens und KI verwunderlich.<br> :date: __2020-05-28 12:36:02__
-
 
 
 #### 3-star reviews
@@ -186,6 +186,12 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="de.bssd.covid19 3 reviews"/>
 </p>
+
+> Alles gut<br> :date: __2020-09-07 17:57:06__
+
+> Sehr simple App. Scan von Foto nicht möglich - nur via Kamera. Ergebnisbenachrichtung via Pushnachricht hat funktioniert. Sprache nur Deutsch und Holländisch.<br> :date: __2020-09-05 13:33:38__
+
+> Eigentlich sehr simpel App, die tut was sie soll. Leider speichert die App die Sitzungen nicht eigenständig und man darf die App ständig im Hintergrund laufen lassen oder man scant einfach den Barcode neu.<br> :date: __2020-09-02 19:02:14__
 
 > Die App funktioniert problemlos. Barcodescanner läuft und Teststatus wird umgehend angezeigt. Auch mehrere Codes für mehrere Personen können hintereinander abgefragt werden.<br> :date: __2020-08-03 21:25:29__
 
@@ -200,12 +206,6 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 > Die Datenschutzerklärung ist nicht zoombar, und damit nicht lesbar. Muss aber bestätigt werden. Problem wurde gelöst.<br> :date: __2020-05-06 07:35:42__
 
 > Diese App ist wie Roblox sie wollen ein code<br> :date: __2020-04-18 08:10:59__
-
-> Na ich habe kein cool also ein QR cood und ich habe auch kein Test gemacht bis jest kostet 200 privat zumachen das geht habe ich nicht<br> :date: __2020-04-09 23:22:29__
-
-> Kann diese App nur von getesteten verwendet werden?<br> :date: __2020-04-03 11:34:42__
-
-> Verstehe die App nicht und deinstallier sie daher. Was brauch ich denn Für eine ID, die ich da eingebe oder welchen QR-Code soll ich da eingeben?<br> :date: __2020-04-03 10:36:58__
 
 
 
@@ -243,24 +243,24 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 <img src="1_star_reviews_wordcloud.png" alt="de.bssd.covid19 1 reviews"/>
 </p>
 
-> Funktioniert nicht. Sehr bedauerlich. Ein Witz.<br> :date: __2020-08-23 12:26:35__
+> Nur negative Bewertungen! Schließe mich an, kann weder den Code scannen, noch die ID eingeben. Völlig sinnfrei diese App, morgen rufe ich meine Ärztin an. Diese App sollte gesperrt werden. Unfug !!!!!<br> :date: __2020-09-09 14:50:48__
 
-> Eigentlich funktioniert garnichts in der app, weder der Barcode Scanner noch die Manuelle Eingabe, null Sterne kann man leider nicht ankreuzen und man kann nur hoffen das man irgendwann und irgendwie sein Testergebniss bekommt, mittlerweile sind 5 Tage vergangen und nichts ist passiert<br> :date: __2020-08-23 12:18:56__
+> Lässt sich nicht installieren<br> :date: __2020-09-09 12:24:11__
 
-> Funktioniert nicht<br> :date: __2020-08-22 17:40:51__
+> Das war oder ist ja wohl garnichts. Scan läuft und läuft und läuft ohne ein Ergebnis zu liefern. Die haendische Codeeingabe liefert die Fehlermeldung Passwort oder Benutzer falsch. So wird das nichts.<br> :date: __2020-09-08 19:54:52__
 
-> Geht nicht, schrott<br> :date: __2020-08-22 12:41:18__
+> Funktioniert bis zu dem Moment, in dem die App wieder geschlossen wird. Danach verliert sie die Daten. Das bedeutet, daß man nach jedem Öffnen den QR-Code neu scannen muss. Somit ist auch eine Pushbenachrichtigung, die die App vorsieht, gar nicht möglich. Man muss die App ja mehr oder minder nutzen. Trotzdem ist sie unfassbar schlecht. Vermutlich aus öffentlichen Geldern finanziert und somit interessiert es auch keinen diese zu verbessern. Traurig.<br> :date: __2020-09-08 16:49:05__
 
-> Leider gar keinen Stern wert. Scannen von QR-Code nicht möglich und nach Eingabe der ID kommt Hinweis auf falsche Anmeldedaten. App ist leider völlig unbrauchbar!<br> :date: __2020-08-21 17:34:43__
+> Die App kann nichts, wirklich nichts, es ist unmöglich, den QR-CODE zu scannen.<br> :date: __2020-09-08 13:28:41__
 
-> Ziemlich funktionsuntüchtig👎verstehe die 5 Sterne nicht, bei mir funktioniert weder der Scanner noch der Code, fünf mal neu installiert, keine Chance..<br> :date: __2020-08-21 10:25:24__
+> Lässt sich nicht öffnen, schließt sofort von selbst.<br> :date: __2020-09-08 12:21:12__
 
-> Funktioniert nicht.<br> :date: __2020-08-20 16:50:29__
+> 1sterne sind noch 10 zu viel der letzte Rotz... Da kann ich mir auch 3 mal den Kopf vor die Wand hauen<br> :date: __2020-09-08 11:39:09__
 
-> QR-Scanner, geht nicht. Login über ID geht nicht. Zusammengefasst: Nix geht.<br> :date: __2020-08-20 13:34:57__
+> Ich konnte mich gar nicht erst anmelden, weder mit QR Code noch mit Kennnummer. Versucht es lieber über die Internetseite, das funktioniert wenigstens.<br> :date: __2020-09-07 17:37:17__
 
-> Die gehen ned auf<br> :date: __2020-08-20 12:04:57__
+> Ist diese App euer Ernst?<br> :date: __2020-09-06 14:19:09__
 
-> Absoluter Müll. Ergebnis liegt längst vor, aber hier ist noch angegeben. Push geht auch nicht, da es sich ständig ausloggt.<br> :date: __2020-08-20 07:27:33__
+> Scann und ID Nummer funktioniert nicht<br> :date: __2020-09-06 14:00:11__
 
 

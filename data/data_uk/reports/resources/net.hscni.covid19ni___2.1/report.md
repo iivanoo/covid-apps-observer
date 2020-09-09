@@ -142,6 +142,8 @@ The COVIDCare NI app has been installed by more than **50000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="net.hscni.covid19ni 5 reviews"/>
 </p>
 
+> Very poor<br> :date: __2020-09-08 20:21:41__
+
 > Amazing and informative app. PLEASE NOTE THIS APP IS FOR NORTHERN IRELAND ONLY. So don't think this will work in other parts of the UK or the world, however it is compatible with the republic of ireland version.<br> :date: __2020-08-01 00:43:11__
 
 > Easy to use and informative<br> :date: __2020-07-30 19:39:35__
@@ -159,8 +161,6 @@ The COVIDCare NI app has been installed by more than **50000** times. At this ti
 > I don't live in NI, and I don't have any covid symptoms but I was curious to see how this app worked, so I used an NI postcode and 'role-played'. This is great; clear and concise, with efficient links through to local health service info. We could definitely benefit from an app like this in mainland UK. Hats off to the developers! To those giving 1 star reviews, I note many of you do not live in NI & did not notice that the app was, therefore, not designed for you!!!<br> :date: __2020-05-27 19:31:24__
 
 > 🌍🌎🌏😷<br> :date: __2020-05-20 18:53:50__
-
-> This app got its rating destroyed by people across the water, therefore, the HSC deserve as many 5 star ratings as possible.<br> :date: __2020-05-14 06:12:38__
 
 
 

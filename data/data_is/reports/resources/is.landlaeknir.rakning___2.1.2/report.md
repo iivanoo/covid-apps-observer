@@ -157,6 +157,8 @@ The Rakning C-19 app has been installed by more than **50000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="is.landlaeknir.rakning 5 reviews"/>
 </p>
 
+> Hvernig veit ég að raknigar foritið hjá mér sé opið<br> :date: __2020-08-30 18:45:51__
+
 > Snilldin ein<br> :date: __2020-08-11 00:57:52__
 
 > Eg vil að þið getið rakið hvar eg var ef eg skyldi veikjast<br> :date: __2020-08-08 22:22:05__
@@ -174,8 +176,6 @@ The Rakning C-19 app has been installed by more than **50000** times. At this ti
 > Flott app en rafhlaðan er alltaf tóm út af þessu appi.<br> :date: __2020-04-10 12:27:11__
 
 > Takk<br> :date: __2020-04-09 12:44:27__
-
-> Súper.<br> :date: __2020-04-09 00:18:10__
 
 
 

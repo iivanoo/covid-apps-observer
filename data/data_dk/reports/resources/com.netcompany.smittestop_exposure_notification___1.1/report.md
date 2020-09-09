@@ -204,6 +204,12 @@ The Smittestop app has been installed by more than **100000** times. At this tim
 <img src="3_star_reviews_wordcloud.png" alt="com.netcompany.smittestop_exposure_notification 3 reviews"/>
 </p>
 
+> Idéen med en sådanne app er i virkeligheden super brugbar, dog er effektiviteten af appen direkte sammenhængende med antallet af brugere. Jeg synes derfor ikke at SUM har gjort nok for at reklamere og sprede budskabet om appen. De fleste i min vennegruppe (unge) kender ikke til appen, og jeg har først fornyligt fået mine forældre til at installere appen. Håber i vil overveje dette.<br> :date: __2020-09-07 18:25:30__
+
+> In these times I see why this app is a must-have. What i don't like is that it empties battery power too fast (on Samsung Galaxy s10+) even when set to medium power saving mode. Perhaps an optimization is required.<br> :date: __2020-09-07 08:52:51__
+
+> Jeg oplevede i dag at Iris scanner (Samsung S8) pludselig blev aktiv da jeg åbnede Smittestop app'en. Jeg har ellers sørget for at lukke helt ned for Iris scanner fordi jeg oplever ubehag, derfor blev jeg ret overrasket over at den pludselig blev aktiveret (rødt lys) da jeg åbnede Smittestop. Hvis app'en gør hvad den skal er det jo ellers et ret godt værktøj mod Covid19, men er usikker på App'ens status og nu også hvor meget den overvåger...<br> :date: __2020-08-29 10:28:47__
+
 > The app appears to create occasional interference with my Bluetooth headphones.<br> :date: __2020-08-19 21:01:24__
 
 > Det ville være rart hvis den kun tjekkede/kommunikerede med andre telefoner i samme rum og ikke gennem en tyk betonvæg. Jeg kan jo regne ud at det et min nabo når telefonen har "kommunikeret" med en anden telefon sent om aftenen når jeg er hjemme. Jeg er begyndt at slå Bluetooth fra når jeg er hjemme. Det er også unødvendigt brug af batteri når den ikke skal bruges.. Og så selvom om det kun er en lille smule batteri der bruges når Bluetooth konstant er tændt.<br> :date: __2020-08-18 15:32:06__
@@ -218,10 +224,6 @@ The Smittestop app has been installed by more than **100000** times. At this tim
 
 > Expensive app for Denmark to develop. Good that the app now can be downloaded by non danish accounts.... I was wondering if I should wait for the British one and hope it would work with the danish version..<br> :date: __2020-07-03 19:54:41__
 
-> Jeg mangler at kunne se Brugere, af App'en. I den forstand at jeg gerne vil have et tal for hvor mange Bruger jeg har mødt på min dag. Pt virker det som ingen bruger App'en. Ps jeg bor ved et kryds hvor der dagligt passere over 2000 mennesker. Et tal der viser at der er 'liv/bruger af App'en Tak. Uden det føler jeg at jeg er den eneste der bruger App'en.<br> :date: __2020-06-27 01:15:31__
-
-> Can you please add an English interface?<br> :date: __2020-06-22 22:51:57__
-
 
 
 #### 2-star reviews
@@ -229,6 +231,10 @@ The Smittestop app has been installed by more than **100000** times. At this tim
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="com.netcompany.smittestop_exposure_notification 2 reviews"/>
 </p>
+
+> The biggest problem with the cov19 Bluetooth API is that you need to have location on. I don't want to enable GPS all the time, as the app says it self, all apps that have access to location, can use it while enabling location for this app. Don't want GPS enable all the time. I known it's not the apps fault, but googles. Still has a big affecte on who gonna use this app.<br> :date: __2020-08-31 17:20:46__
+
+> Det er meget uheldigt at app'en ikke automatisk starter op hvis man genstarter telefonen. Efter 4 uger opdagede jeg at app'en slet ikke var aktiv - hvilket er helt tosset. Det bliver i simpelthen nød til at rette.<br> :date: __2020-08-26 07:28:16__
 
 > Funktionelt endelig ved at være på plads. Dog trækker omstændighederne og undfangelsen MEGET ned. 20 mio. kroner for en closed source app der kunne være bygget for under 100.000 på samme tid. Måske skulle man også sætte studentermedhjælper, der faktisk har bestået en sproglig eksamen, til at besvare anmeldelser og henvendelser.<br> :date: __2020-08-15 19:23:19__
 
@@ -246,10 +252,6 @@ The Smittestop app has been installed by more than **100000** times. At this tim
 
 > Sluger en del strøm...<br> :date: __2020-06-22 17:06:19__
 
-> Still asks to turn on GPS, why??!<br> :date: __2020-06-22 16:08:50__
-
-> Virker simpel og godt designet, men lever ikke op til præmissen om, kun at bruge Bluetooth til at registrere andre enheder. Der står under indstillinger: "Når du har givet dit samtykke og tilladt Bluetooth, virker appen hele tiden". Det passer ikke, da appen ikke fungerer uden også at tænde for lokation. Både af hensyn til batteri og privatliv, har jeg ikke lyst til at have min lokation aktiv og sende data til Google konstant.<br> :date: __2020-06-18 08:57:02__
-
 
 
 #### 1-star reviews
@@ -258,24 +260,24 @@ The Smittestop app has been installed by more than **100000** times. At this tim
 <img src="1_star_reviews_wordcloud.png" alt="com.netcompany.smittestop_exposure_notification 1 reviews"/>
 </p>
 
+> App should also be in English.<br> :date: __2020-09-04 01:06:13__
+
+> Version 1.0.3 og den nyere 1.1 crasher under opstart. Tidligere versioner virker. Hvorfor kan man ikke gå tilbage til en version der virker? Skriver til support - igen...<br> :date: __2020-08-30 20:24:54__
+
+> Why isn't there an English version?<br> :date: __2020-08-29 18:05:57__
+
+> Aug-26: stadig kun på dansk?!!Nedjusterer fra 2 til 1 stjerne, da den fortsat kun findes på dansk. En engelsk version er muligvis (!) stadig på vej her snart to måneder, og alt for sent. Og hvad med andre sprog? Arabisk, urdu mfl? Jeg er sikker på at I kan finde de anbefalede sprog hos sundhedsmyndighederne Det tager et par dage at oversætte. I betragtning af situationens alvor håber jeg en version på flere sprog kommer om få dage. Så meget er der altså heller ikke at oversætte. Det er en ommer.<br> :date: __2020-08-26 18:56:21__
+
+> What will this muitimillion expensed app help when downloading is not mandatory like wearing masks in public places?<br> :date: __2020-08-26 07:31:37__
+
+> Should have English version for internationals<br> :date: __2020-08-25 17:18:25__
+
+> Only in 1 language 😒<br> :date: __2020-08-25 09:33:37__
+
 > App should be available in English. International Travelers are a big risk factor and they need to be able to use the app. So even before accepting to any terms and conditions it needs to be possible to change to english and maybe some other languages. Otherwhise the app is useless.<br> :date: __2020-08-23 10:38:30__
 
 > Requires location to be turned on. And I am not interested in sharing my location constantly with Google! Bluetooth is fine, location no-go. Svar til developer reply: Det er muligt at smittestop app'en opfører sig pænt, men det er der ingen garanti for at andre apps vil.<br> :date: __2020-08-18 12:05:15__
 
-> Version 1.0.3 crasher under opstart. Tidligere versioner virker. Hvorfor kan man ikke gå tilbage til en version der virker? Har skrevet til support - men de er vist på ferie ;)<br> :date: __2020-08-17 13:48:13__
-
 > Desværre virkede denne app ikke. Da jeg markerede mig som testet positiv for Covid 19 fik ingen af mine nære kontakter advarsel. Tanken med appen er ellers god. Mon ikke at udviklerne burde fejlfinde denne case asap.<br> :date: __2020-08-17 07:13:35__
-
-> Skal have location tændt på android på trods af at appen bruger Bluetooth (som på android aktiveres seperat). Det giver ikke mening.<br> :date: __2020-08-14 13:27:07__
-
-> Nedjusterer fra 2 til 1 stjerne, da den fortsat kun findes på dansk. En engelsk version er muligvis (!) stadig på vej her snart to måneder, og alt for sent. Tror ikke den kommer. Og hvad med andre sprog? Arabisk, urdu mfl? Jeg er sikker på at I kan finde de anbefalede sprog hos sundhedsmyndighederne Det tager et par dage at oversætte. I betragtning af situationens alvor håber jeg en version på flere sprog kommer om få dage. Så meget er der altså heller ikke at oversætte. Det er en ommer.<br> :date: __2020-08-10 18:12:23__
-
-> English please<br> :date: __2020-08-01 12:32:00__
-
-> Requires location service / GPS enabled even though the app itself does not use it.<br> :date: __2020-07-30 10:36:11__
-
-> Der bør tilføjes en funktion der åbner batterispare indstillinger og beder brugeren slå det fra ellers bliver baggrunds-servicen lukket ned så app'en ikke længere er funktionel hvilket også kan læses i flere reviews. En forklaring om hvorfor der bedes om lokation tilladelse ville være smart. Koden bør være open source. Det er en dårlig undskyldning uden hold i virkeligheden at det giver højere risiko for hacks og ironisk om en app lavet til Android der både er open source og baseret på Linux.<br> :date: __2020-07-19 01:40:11__
-
-> No source code available, do not trust it. Open source software ensures the validity and security of the app by allowing independent review, inspection and oversight, and is further more recommended by the eHealth community and WHO. If the app is vulnerable, showing the source code does not change that vulnerability, nor does it stop anyone for exploiting it, rather it stops all the open source developers from finding and solving the issue.<br> :date: __2020-07-18 21:05:43__
 
 

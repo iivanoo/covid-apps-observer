@@ -157,6 +157,16 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 <img src="5_star_reviews_wordcloud.png" alt="au.gov.health.covid19 5 reviews"/>
 </p>
 
+> Consistent obviously<br> :date: __2020-09-01 17:07:21__
+
+> Fantastic!<br> :date: __2020-09-01 13:53:31__
+
+> Yes I like<br> :date: __2020-08-30 09:44:10__
+
+> Its needed all over<br> :date: __2020-08-25 23:19:29__
+
+> WONDERFUL IDEA<br> :date: __2020-08-25 02:16:14__
+
 > Excellent up to date information. Great initiative and helpful<br> :date: __2020-08-09 02:10:05__
 
 > It seems to work as designed 😷🤸<br> :date: __2020-08-06 10:18:45__
@@ -167,16 +177,6 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 
 > Good app to keep people up to date about coronavirus and other things too!<br> :date: __2020-07-18 03:58:59__
 
-> Anything that can keep me updated on how we're going i'm all for.<br> :date: __2020-07-09 11:37:48__
-
-> I came see the corona people<br> :date: __2020-07-06 06:40:57__
-
-> Great if everyone uses it<br> :date: __2020-07-06 05:12:09__
-
-> Good information in the links. It was great for registering my isolation.<br> :date: __2020-06-29 00:49:18__
-
-> I don't think that I do not know anyone with these viruses....thirty five given star's for each of all of the features....<br> :date: __2020-06-27 08:53:35__
-
 
 
 #### 4-star reviews
@@ -184,6 +184,8 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="au.gov.health.covid19 4 reviews"/>
 </p>
+
+> Great resource for reliable Coronavirus info. Used to be hard to find latest stats in a meaningful format but this seems to have improved<br> :date: __2020-09-08 06:19:23__
 
 > It's good what is f..K going on ?<br> :date: __2020-08-04 08:35:34__
 
@@ -203,8 +205,6 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 
 > Good<br> :date: __2020-05-01 06:29:25__
 
-> Cant self register<br> :date: __2020-04-30 02:43:21__
-
 
 
 #### 3-star reviews
@@ -212,6 +212,8 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="au.gov.health.covid19 3 reviews"/>
 </p>
+
+> Recent resource.<br> :date: __2020-09-07 05:43:12__
 
 > Current version will not work because it thinks my battery optimisation is on - it is off!! Please fix asap as I want a working app.<br> :date: __2020-08-03 10:44:31__
 
@@ -230,8 +232,6 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 > Won't download past 97%<br> :date: __2020-05-07 12:21:06__
 
 > Mostly disappointed that in all government media announcements they just say 'download the app' without specifying the name of the app clearly. There are several COVID-19 apps out there now. Give it a distinctive name.<br> :date: __2020-05-07 10:02:42__
-
-> An interactive app would be far more useful. INPUT Activity I want to undertake? Personal details? Employment details? Reason for activity? PROCESS Verification process. OUTPUT. Approval /Denial /More information - contact Barcode issued to applicant on approval. Applicant issued with a description of any special requirements. Eg: FIFO to travel Site - WA - NSW - WA - site Can the process be undertaken? ANS Special requirements (isolation and period and process for each state)<br> :date: __2020-05-05 12:10:07__
 
 
 
@@ -269,6 +269,10 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 <img src="1_star_reviews_wordcloud.png" alt="au.gov.health.covid19 1 reviews"/>
 </p>
 
+> It won't download even after numerous attempts<br> :date: __2020-08-31 07:06:23__
+
+> Never use this app<br> :date: __2020-08-29 12:29:12__
+
 > I loved this app, when it worked! However I have installed / uninstalled and made sure my phone was up to date with its software, for the last 3 weeks and at the load up page it keeps saying "UNABLE TO LOAD THE LATEST INFORMATION" "TRY AGAIN"; it does not work. So disappointing!!!<br> :date: __2020-08-24 04:07:30__
 
 > Not helpful<br> :date: __2020-08-22 09:29:22__
@@ -284,9 +288,5 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 > Useless.<br> :date: __2020-07-31 11:23:29__
 
 > The app turns itself off.<br> :date: __2020-07-27 00:14:24__
-
-> I get an alert, and when i click on it, i cant see the alert. It's probably buried in there somewhere under one of the options, but i cant find it. Aweful user interface. Maybe hire a UX consultant when you get around to addressing this in future.<br> :date: __2020-07-23 09:22:41__
-
-> 3.8 Million dollars to create this app? Australia tax payers got extorted!<br> :date: __2020-07-21 12:02:42__
 
 

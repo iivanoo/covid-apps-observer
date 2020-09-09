@@ -1,5 +1,41 @@
 [
     {
+        "reviewId": "gp:AOqpTOFmAP7oiFgrz3H9qP5NizthoCLA4OElN0yVOAN4dlWzNQqQL_337Jfx9ejCE1BS6JfRUGwcl-pMdmYv0Q",
+        "userName": "Henri Martinez",
+        "userImage": "https://play-lh.googleusercontent.com/-mLqkv3ijdI4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckfTBe0VPqNehLodmTJ_138FdLPbA/photo.jpg",
+        "content": "Application tr\u00e8s mal finie , web et Android. Par un pr\u00e9-apprenti stagiaire ? Impossible d'ajouter un document PDF, seules les photos sont accept\u00e9es. Pas moyen d'enlever un document envoy\u00e9 par erreur ! Sur la version web, je suis de sexe ind\u00e9termin\u00e9, je ne peux pas corriger. Sur Android, je suis une femme. Depuis quand ? Je suis n\u00e9 avec un zizi il y a un peu plus de 59 ans, je l'ai toujours et n'ai jamais voulu m'en d\u00e9faire. Merci de corriger.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.5.21",
+        "at": "2020-09-02 00:04:31",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOE3-stsLh2H0nzFd_BpDn3uqjt2jubpi84OcZ6jkvpzU2d8-NQ7ZunivEBaNhBp_ht4CCZbBGPRpONeIw",
+        "userName": "Fiona Fagard",
+        "userImage": "https://play-lh.googleusercontent.com/-s-ZNZ2dtiwY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucncQuvgs8eeDy_EEalAZ0Vv8Qbikg/photo.jpg",
+        "content": "J'ai activ\u00e9 mon compte mais je n'arrive pas a faire le questionnaire de suivi. Comment dois-je faire ?",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.5.21",
+        "at": "2020-09-01 00:20:57",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOG4kOiioVk5AAaDc1Q1FGY304W0i7AxK0DaE8OlgNdAq0oxcOrB89oSKmC4DkWKkjXMd6owPyAWaA2KUw",
+        "userName": "Be Re",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiiDNO2JKNgP6wxmwEPrFToKrYrfM-fN4jnHGMPwg",
+        "content": "Aussit\u00f4t install\u00e9e aussit\u00f4t desinstallee, ne fonctionne pas avec les codes re\u00e7us par SMS, APPLI totalement inutile donc. Pas de temps \u00e0 perdre \u00e0vec un truc qui ne fonctionne pas",
+        "score": 1,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": null,
+        "at": "2020-08-25 10:17:58",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOFQP1lh5PBDxzsEcAoZyU5Wcrh1i0Y11yj6JTJg4fxfiJNln75L4MtGKwB7-2oIbWmr5nXMX0V5qbrd2Q",
         "userName": "C. D.",
         "userImage": "https://lh3.googleusercontent.com/-yzM01g6gG88/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckPJq2464bRQ0D1qS-yTYlmMrvIfw/photo.jpg",
@@ -14,10 +50,10 @@
     {
         "reviewId": "gp:AOqpTOFum6KuklQLXtbA6zICqSURmcp-8GPdNs3lz570ErKHeG85gnP5kD4NF3QKLxImeIB6gYgJotd403Mb7w",
         "userName": "Jeannoel Viseux",
-        "userImage": "https://lh3.googleusercontent.com/-jD4rxINIA6U/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmMi8TpH2O9QVSSog1dBpUKnJXnrQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-jD4rxINIA6U/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmMi8TpH2O9QVSSog1dBpUKnJXnrQ/photo.jpg",
         "content": "Impossible d'avoir une connexion malgr\u00e9 une cr\u00e9ation d'un comte.",
         "score": 1,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "1.5.21",
         "at": "2020-08-14 13:41:35",
         "replyContent": null,
@@ -26,7 +62,7 @@
     {
         "reviewId": "gp:AOqpTOFwMAjBguQvXctNX_THxWem-5yXrL7F2MTqIulZxZJf_w2DVk-8AeHSBA1H4Qi6LOusiqC_jGJeP-l6Nw",
         "userName": "Paco Tizon",
-        "userImage": "https://lh3.googleusercontent.com/-fErMwmYECOo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucklemSEKq6aBfk0xQh6Zb3iGb2n_A/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-fErMwmYECOo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucklemSEKq6aBfk0xQh6Zb3iGb2n_A/photo.jpg",
         "content": "Plante r\u00e9guli\u00e8rement et vous d\u00e9loggue, n\u00e9cessit\u00e9 de mettre le mdp a chaque fois, fait double emploi avec les SMS et mails qu'on re\u00e7oit... cette app ne sert \u00e0 rien.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -37,7 +73,7 @@
     },
     {
         "reviewId": "gp:AOqpTOE2ngzTe8W5LBJScA5O1vA-2E5vF1aKDpOfhzUbAuOz1lCQNRfa7rjNlgv2tWewZng8eq8QuUjTEv1Haw",
-        "userName": "jacques schmitt",
+        "userName": "Jacques Schmitt",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhWwByEe8CHdkbwPKQqHX7rmzTVnC7lwzsvOUsdew",
         "content": "C'est nul on ne peut pas changer la date ni quoi que ce soit pas pratique",
         "score": 2,
@@ -50,10 +86,10 @@
     {
         "reviewId": "gp:AOqpTOHtWvTzAkm71oHCrHJE91eOv2DmgbwPPBoKo5rHQBuzr4xC91uNRt67Bmf9o7PgeqFl2-1QGFt0yIj-Bw",
         "userName": "Lucas Payet",
-        "userImage": "https://lh3.googleusercontent.com/-HufF6b0wC_k/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclaraTgY0ptEo7iOyGNd_NjaSnIcw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-HufF6b0wC_k/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclaraTgY0ptEo7iOyGNd_NjaSnIcw/photo.jpg",
         "content": "Impossible d'activer mon compte. J'ai \u00e9t\u00e9 en contacte avec une personne positive au COVID-19, on me demande d'activer mon compte en me donnant des identifiants. Je suis bien reconnu, puis on me demande ma date de naissance mais elle s'av\u00e8re \u00eatre incorrecte. J'ai essay\u00e9 sur portable, sur l'appli et sur mon ordinateur rien \u00e0 faire. Impossible de trouver un num\u00e9ro ou un contact \u00e0 qui s'adresser.",
         "score": 1,
-        "thumbsUpCount": 5,
+        "thumbsUpCount": 9,
         "reviewCreatedVersion": "1.5.21",
         "at": "2020-08-08 16:42:58",
         "replyContent": null,
@@ -61,8 +97,8 @@
     },
     {
         "reviewId": "gp:AOqpTOGgxuIjW-JyUDcaJ7ZeLtX7N4P0zyxJ5J-Mif56i2w1uApWF5uSf67koBlclDVq_6ao7wTm-imDRMZvqg",
-        "userName": "Pannda Game",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiW47PKmj3nhrSE2mJ1kM6nXECnMczuDft4q0xKxZc",
+        "userName": "norhene",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgFK7anvPeHWKuEDfErfRRQ2HsRi4nz3d-onuMcaJ4",
         "content": "Date de naissance fonctionne pas",
         "score": 1,
         "thumbsUpCount": 0,
@@ -86,7 +122,7 @@
     {
         "reviewId": "gp:AOqpTOHdJWjpMOiFVyAd1de799A_K6mffDMcHwk4HqYWQ0cdnbEi53K7PlW31dS7VWzrJA3oUKlRS3S4l43XGg",
         "userName": "Jy JYM",
-        "userImage": "https://lh3.googleusercontent.com/--wGlgWh_YR0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm2fz5vYypKvAZp-Zl655a15JwwEA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/--wGlgWh_YR0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm2fz5vYypKvAZp-Zl655a15JwwEA/photo.jpg",
         "content": "Pas d'acc\u00e8s hors app qui a refus\u00e9 de me suivre",
         "score": 1,
         "thumbsUpCount": 0,
@@ -146,7 +182,7 @@
     {
         "reviewId": "gp:AOqpTOF3rEDUpZe8ZTwALiV8VR2sFNQ8PPcONgrKzIQFolQ3gm0OUOnAwcJMI7CjNXRZR_vDcuGcE6cRfFWxgA",
         "userName": "Isilay Kesman",
-        "userImage": "https://lh3.googleusercontent.com/-WdOEJ8VOQhs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm7SNF6rDYLEoBWcioufojjP7JXpQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-WdOEJ8VOQhs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm7SNF6rDYLEoBWcioufojjP7JXpQ/photo.jpg",
         "content": "Pas du tour contente du service j'ai eu des grosse tachycardie et PERSONNE ne ma appeler ... tomber malade le 21 mars, d\u00e9clarer \"guerri\" le 7 avril, on est le 13 mai ET J'AI TOUJOURS DES SYMPTOMES QUI ME GACHE LA VIE ET M'EMP\u00caCHE D'ALLER TRAVAILLER et je ne suis pas la seule c'est nimporte quoi horrible personne pour nous prendre en charge !!!!!!!!!",
         "score": 1,
         "thumbsUpCount": 0,
@@ -158,7 +194,7 @@
     {
         "reviewId": "gp:AOqpTOGO0636Ju9IG3AMUwgbZPIk7ER9oLl3ThgmcMFgk37XcD5GcOB4MP1BFJa_5P5sI9Wn3sR9LfdevwPp7g",
         "userName": "IRIS B.",
-        "userImage": "https://lh3.googleusercontent.com/-ScLNbAdy2pc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnGtYGmXevXtGrlEMcMyLsw8zY8vA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-ScLNbAdy2pc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnGtYGmXevXtGrlEMcMyLsw8zY8vA/photo.jpg",
         "content": "Tres bien",
         "score": 5,
         "thumbsUpCount": 0,
@@ -218,7 +254,7 @@
     {
         "reviewId": "gp:AOqpTOFPDZAYZdQAJar4OpcHprQJrGJ2l8rcIZC97Rl7MIKQZfTCX0O5Roy3rE15gFaeiDjAw7ZComY27WzHMg",
         "userName": "Hayet Khaloui",
-        "userImage": "https://lh3.googleusercontent.com/-4P8SJ0wqCSA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucln3EaNrRlVsQqUBLstV-T63LuzWw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-4P8SJ0wqCSA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucln3EaNrRlVsQqUBLstV-T63LuzWw/photo.jpg",
         "content": "Bonne appli, j'ai bien re\u00e7u mes identifiants envoy\u00e9s par le m\u00e9decin. Le questonnaire quotidien est facile \u00e0 compl\u00e9ter et c'est rassurant d'\u00eatre suivi et sous surveillance.",
         "score": 5,
         "thumbsUpCount": 2,
@@ -230,7 +266,7 @@
     {
         "reviewId": "gp:AOqpTOHGvWJTXpiWhYN3kKRT4cUiH_M8Xvruhr3emrgiN7Q6qke3sb_JusEsXgqu50_g2GPfjPrARw8CUCwYqA",
         "userName": "Omar Beloucif",
-        "userImage": "https://lh3.googleusercontent.com/-cynoVZgjRO4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmgQpJoRz2Brgxh6Nhpo9qpINjMFg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-cynoVZgjRO4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmgQpJoRz2Brgxh6Nhpo9qpINjMFg/photo.jpg",
         "content": "Je n'ai pu acc\u00e9der au service que apr\u00e8s avoir re\u00e7u un code et un identifiant Uns fois connect\u00e9 c'est facile et \u00e7a a l'air de bien marcher Faites attention \u00e0 vous !",
         "score": 5,
         "thumbsUpCount": 1,
@@ -278,7 +314,7 @@
     {
         "reviewId": "gp:AOqpTOEk4zGtbHAPaVw-QYGBs0jG87sVoAn_fJOV8DH36f_qCLvX2MJYWzxOUia3juyHgblLBBWqLQCvydbjwQ",
         "userName": "matra sylvie",
-        "userImage": "https://lh3.googleusercontent.com/-ubfxWHD3BI8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm-DfZRwvZSt6pI_rWUINDBi_ZloQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-ubfxWHD3BI8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm-DfZRwvZSt6pI_rWUINDBi_ZloQ/photo.jpg",
         "content": "Nul impossible de se connecter \u00e0 bannir",
         "score": 1,
         "thumbsUpCount": 0,
@@ -290,7 +326,7 @@
     {
         "reviewId": "gp:AOqpTOEQr4W61iEG3DGHU1etzfmO389FmvrIxADWx2JuUtQJYexI4IOHoGhGzjHuX5e6pYa0FMRG5oH9K_DOUA",
         "userName": "Julia Blache",
-        "userImage": "https://lh3.googleusercontent.com/-sQfBpIn7qMg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckjqmSwhQc7lOv6V-8WaDUszQIcCA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-sQfBpIn7qMg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckjqmSwhQc7lOv6V-8WaDUszQIcCA/photo.jpg",
         "content": "Avant-hier j'avais beaucoup de mal pour respirer. Apr\u00e8s avoir rempli mon questionnaire qq'un m'a appel\u00e9 et m'a demand\u00e9 de me rendre \u00e0 l'h\u00f4pital pour une consultation. Apr\u00e8s j'ai pu rentrer chez moi rassur\u00e9e et fi\u00e8re du syst\u00e8me de sant\u00e9. Bravo covidom.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -314,7 +350,7 @@
     {
         "reviewId": "gp:AOqpTOGzd_UgKGkNqA1_Mz1N7sRNJF9OUPD-h5T3FnWtrdehN8kce_HCk6uazQN9kUWFc1IjjcRsC_VRcNEzvg",
         "userName": "vgini btl",
-        "userImage": "https://lh3.googleusercontent.com/-ZyLPl64N8t8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm6WN8WYvuG8pY4w1z0aChxFMHqTA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-ZyLPl64N8t8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm6WN8WYvuG8pY4w1z0aChxFMHqTA/photo.jpg",
         "content": "J ai re\u00e7u mes codes apr\u00e8s ma consultation. Ce qui m a permis de me connecter sans probl\u00e8me. Depuis 10 jours maintenant je remplis les questionnaires. On m a rappel\u00e9 suite \u00e0 des difficult\u00e9s respiratoires au 5\u00e8me et 6eme jour et c etait vraiment rassurant. Maintenant je commence \u00e0 aller mieux et je voulais remercier les personnes qui ont cr\u00e9\u00e9 cette application qui me permet de rester chez moi et surtout tous les soignants pas seulement ceux de l h\u00f4pital mais aussi ceux qui nous appellent.",
         "score": 5,
         "thumbsUpCount": 68,
@@ -362,7 +398,7 @@
     {
         "reviewId": "gp:AOqpTOEjdvZ0E4302fZO71k7F_0SIH4oq8L_OyRxaN9NBbuq3XPRYmibR1cm4qqWiu4xdfevSVrXr-m4h0zmOw",
         "userName": "Oceane Vandercruyssen",
-        "userImage": "https://lh3.googleusercontent.com/-LubHlpBLMEc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmEV1Mx2fWsdzY3qJieMIWWR4Igqw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-LubHlpBLMEc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmEV1Mx2fWsdzY3qJieMIWWR4Igqw/photo.jpg",
         "content": "Bonjour , meme si on n'a pas de symptomes peut on s'inscrire? Merci",
         "score": 5,
         "thumbsUpCount": 0,
@@ -374,7 +410,7 @@
     {
         "reviewId": "gp:AOqpTOFYcX1vOmRgt2Zsb8H7exA3jEL611cparptJ4uHwMwfSvsYPoO6LoIe8NlZd-bJrk7dUT1avuXMsb5Emg",
         "userName": "Jean-Edouard SNOWDEN",
-        "userImage": "https://lh3.googleusercontent.com/-op2RQ4ymWs0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucktOBMWh9wPzxHSg3GAOzjv8mpYyg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-op2RQ4ymWs0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucktOBMWh9wPzxHSg3GAOzjv8mpYyg/photo.jpg",
         "content": "Application simple et intuitive. Faut vraiment \u00eatre un gros d\u00e9bile pour la noter 1/5 et chouiner \"ouin \u00e7a marche pas comprend pas\". Retournez poster des selfies sur insta bande de guignols, \u00e7a vous savez faire. Bravo aux devs sinon.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -386,7 +422,7 @@
     {
         "reviewId": "gp:AOqpTOE8T3q1clg3uPrfCX9ppfJhiODnzEiNfK1MpiPAxl51zR_yF4M0S62IM8ryM--bIJ3vi5rE1tX3UbyFFg",
         "userName": "Lydie Jean",
-        "userImage": "https://lh3.googleusercontent.com/-7p3iFXTlu3Y/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclIYEDDRmqgmIgcr25ZjECjkOmDeA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-7p3iFXTlu3Y/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclIYEDDRmqgmIgcr25ZjECjkOmDeA/photo.jpg",
         "content": "Impossible remplir mes formulaires les jours demand\u00e9s, quand je vais me connecter ils sont directement archiv\u00e9s. J'ai beau cliquer dessus il ne se passe rien donc z\u00e9ro suivi",
         "score": 1,
         "thumbsUpCount": 1,
@@ -434,7 +470,7 @@
     {
         "reviewId": "gp:AOqpTOF7g5h8Zqf8qxt0KvWgq6CbIO7m0V64tV5wXGT-F5qn8aa2bhauyaZblEONLW_ggazIcB8dpMDB8rLTVA",
         "userName": "Sebastien Personeni",
-        "userImage": "https://lh3.googleusercontent.com/-oL_CId9Pybc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclCfqKoIaSSUn9bCDkOfMK1w3iLAQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-oL_CId9Pybc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclCfqKoIaSSUn9bCDkOfMK1w3iLAQ/photo.jpg",
         "content": "Suppos\u00e9 positif depuis le 22 mars j'ai t\u00e9l\u00e9charg\u00e9 cette application qui permet de se faire suivre au niveau de ses constantes. Le suivi est tr\u00e8s long je pensais le remplir 14j. Mais le suivi va durer plus de 20j. Pour ma part \u00e7a a commenc\u00e9 par de la fi\u00e8vre \u00e0 38.2 une tracheite qui s'est transform\u00e9 progressivement en bronchite. Pic de fievre \u00e0 39 pendant 3 jour. Mais sans signe d'infection... a ce jour il me reste quelques quinte de toux ms rien de bien m\u00e9chant... merci pour cette application!",
         "score": 5,
         "thumbsUpCount": 41,
@@ -458,7 +494,7 @@
     {
         "reviewId": "gp:AOqpTOFcUEEtbS2BHtyCR3GETJpjm9ZQw4OU9TEcMclcgf_ltIcJlt1t9nOdmSaKnY4xiRBIwUgr4sTZCjPszw",
         "userName": "E. Anna",
-        "userImage": "https://lh3.googleusercontent.com/-P3TokH6ooJY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn34gOzz6jYQTT82XZ0_x9RypT06A/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-P3TokH6ooJY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn34gOzz6jYQTT82XZ0_x9RypT06A/photo.jpg",
         "content": "J'essaie d'inscrire pour le suivi mon p\u00e8re de 78 ans et de l'aider comme je peux avec son t\u00e9l\u00e9phone, un identifiant lui a \u00e9t\u00e9 communiqu\u00e9 \u00e0 l'oral, mais impossible de proc\u00e9der \u00e0 l'activation. C'est tr\u00e8s compliqu\u00e9. Idem , j'ai essay\u00e9 de lui cr\u00e9er un compte sur l'AP-HP, sans succ\u00e8s. Du coup, je ne sais m\u00eame pas \u00e0 qui m'adresser pour demander la redemander le n\u00b0 d'identification. Dommage...",
         "score": 2,
         "thumbsUpCount": 2,
@@ -542,7 +578,7 @@
     {
         "reviewId": "gp:AOqpTOHU4BSAdD7fhkLo7Hd0aqvfsaPNYqsUawlA2J31j1Zj7zJnEQuAsZHHDE-aF4Ay-5CsN48d1FpfkPENOg",
         "userName": "Fran\u00e7ois Di fatta",
-        "userImage": "https://lh3.googleusercontent.com/-1btUNbsvyFE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnQ7ZyndYcq9Yg3er5GHR7sAlGCOw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-1btUNbsvyFE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnQ7ZyndYcq9Yg3er5GHR7sAlGCOw/photo.jpg",
         "content": "Impossible de se connecter, mot de passe non valide, aucune explication pour recr\u00e9er un compte \ud83d\ude21",
         "score": 1,
         "thumbsUpCount": 0,
@@ -554,7 +590,7 @@
     {
         "reviewId": "gp:AOqpTOG6yLvZU0-niIcIF2n3ek9_fBaS-ac_A4MTA2XQ9JlN54eNqaZsEiybqzEcUdLKWJex5etrt7T7iKmYEA",
         "userName": "Sophie de Gaudemaris",
-        "userImage": "https://lh3.googleusercontent.com/-gwvWIcqFwA8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnqO4u8sizTeFS0aafFbdrDK3Ti3g/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-gwvWIcqFwA8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnqO4u8sizTeFS0aafFbdrDK3Ti3g/photo.jpg",
         "content": "Impossible de se connecter",
         "score": 1,
         "thumbsUpCount": 1,
@@ -602,7 +638,7 @@
     {
         "reviewId": "gp:AOqpTOEJ18XdYGN6H5kH8nJeuraP7ddmde0wuPskwTEVAVbm48dbK6q51OCZtCk21lrbEfU6HEbcVV4BfBXaMg",
         "userName": "Yojess Ndj",
-        "userImage": "https://lh3.googleusercontent.com/-gpl0aeY0rc8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucneA-lgNAA6C6UigffkzZ4gCSJCgA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-gpl0aeY0rc8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucneA-lgNAA6C6UigffkzZ4gCSJCgA/photo.jpg",
         "content": "Probl\u00e8me de flux de connexion... Impossible de se connecter svp",
         "score": 1,
         "thumbsUpCount": 2,
@@ -674,7 +710,7 @@
     {
         "reviewId": "gp:AOqpTOEFTv7DU_A8_90y7CeUuyif-ZgtPQ5KUPMCtIWc4tzsUfmn-OhtT1PCxoh93phnFeyffyyOrktkKkWj5g",
         "userName": "Oumy Doug",
-        "userImage": "https://lh3.googleusercontent.com/-y_DRCv8XHsc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmWpkYA92E--rS1_jypNMmk0R0cnw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-y_DRCv8XHsc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmWpkYA92E--rS1_jypNMmk0R0cnw/photo.jpg",
         "content": "Tres bien fait et rassurant",
         "score": 5,
         "thumbsUpCount": 0,
@@ -734,7 +770,7 @@
     {
         "reviewId": "gp:AOqpTOHuOSXqflm0WQBYW4DgCRrKWXopE6HAXZGHa27rHjq5FpxMRg3TWC6DRguthvfs_bCcjIEFzwux3Ywz0w",
         "userName": "Sol\u00e8ne Le Bars",
-        "userImage": "https://lh3.googleusercontent.com/-DSyxip2BfJw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucloiobsPJ_c9_L9yNxfG2xK8VlBUg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-DSyxip2BfJw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucloiobsPJ_c9_L9yNxfG2xK8VlBUg/photo.jpg",
         "content": "Les instructions sont incompr\u00e9hensibles.",
         "score": 1,
         "thumbsUpCount": 1,
@@ -749,7 +785,7 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Ginbvoo6ZQsNXF3K160jWCpw0yrM5h-ddxEbE_6uw",
         "content": "Pour arriver \u00e0 me connecter sur l'application je suis all\u00e9e sur mon compte AP-HP et j'ai envoy\u00e9 un mail depuis mon espace pour demander l'activation de mon compte, service tr\u00e8s r\u00e9actif dans l'heure j'ai re\u00e7u un SMS avec mon identifiant et un lien de premi\u00e8re connexion. Bravo \u00e0 tous ceux qui \u0153uvrent au quotidien dans la lutte contre le virus. J'esp\u00e8re que mon avis aidera d'autres personnes.",
         "score": 3,
-        "thumbsUpCount": 141,
+        "thumbsUpCount": 146,
         "reviewCreatedVersion": "1.5.20",
         "at": "2020-03-21 21:53:30",
         "replyContent": null,
@@ -845,7 +881,7 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gj_wE-tXgTMRLbz4CT4W2QGT9KMUo97hcX5D3lX6Q",
         "content": "Dommage! Impossible de se connecter. J'ai pourtant cr\u00e9er un compte sur le site APHP comme il est pr\u00e9cis\u00e9, et j'acc\u00e8de bien \u00e0 mon compte. Par contre avec cette application, quand je saisi mon login et mot de passe, l'appli me dit; identifiant ou mot de passe non valide. Ai-je rat\u00e9 une \u00e9tape ? Courage aux \u00e9quipes hospitali\u00e8res !! elles en ont bien besoin en ce moment.",
         "score": 1,
-        "thumbsUpCount": 58,
+        "thumbsUpCount": 59,
         "reviewCreatedVersion": "1.5.20",
         "at": "2020-03-16 17:18:48",
         "replyContent": "Bonjour mr DOLLINGER et merci pour votre message. Nous sommes d\u00e9sol\u00e9s. Le service avait effectivement connu quelques dysfonctionnements et l'organisation s'est rapidement perfectionn\u00e9e par la suite. Pourrions-nous \u00e9changer par mail? mponderant@nouveal.com Cordialement",

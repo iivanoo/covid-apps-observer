@@ -203,6 +203,8 @@ No recent reviews available with 2 stars.
 <img src="1_star_reviews_wordcloud.png" alt="de.xikolo.openwho 1 reviews"/>
 </p>
 
+> Ганр<br> :date: __2020-09-08 14:20:40__
+
 > Zor<br> :date: __2020-04-06 16:27:47__
 
 > Бесполезное приложение Я ищу сколько по Казахстану А тут статьи не о чем<br> :date: __2020-04-06 07:31:50__

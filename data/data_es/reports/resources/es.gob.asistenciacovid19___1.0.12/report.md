@@ -154,25 +154,25 @@ The Asistencia COVID-19 app has been installed by more than **50000** times. At 
 <img src="5_star_reviews_wordcloud.png" alt="es.gob.asistenciacovid19 5 reviews"/>
 </p>
 
+> Genial gracias<br> :date: __2020-09-06 15:59:33__
+
+> Muy Bien<br> :date: __2020-08-31 10:19:26__
+
+> Me gusta<br> :date: __2020-08-28 01:13:31__
+
+> Excelente<br> :date: __2020-08-26 10:07:35__
+
+> 5-star para opinar 9⁰ posición de app, ¿obligatoria? y no tiene todas las comunidades autónomas. saludos suerte cultura y gracias<br> :date: __2020-08-25 15:41:11__
+
+> Opino como otros usuarios, debería ser una app que fuera a nivel más global. En Cataluña la app propia de la Generalitat no hace rastreo por bluetooth sino un seguimiento de tus propios síntomas y punto. Vaya tela!<br> :date: __2020-08-25 09:45:20__
+
+> muy buenas todo lo que sea bueno para todos<br> :date: __2020-08-24 18:32:36__
+
 > Esta muy bien<br> :date: __2020-08-23 22:49:53__
 
 > Mejores Salud<br> :date: __2020-08-20 14:17:21__
 
 > Grandioso<br> :date: __2020-08-20 00:35:06__
-
-> No tengo clave ya que no la he recibido<br> :date: __2020-08-14 17:24:47__
-
-> Muy bien<br> :date: __2020-08-13 10:54:31__
-
-> Muy buena, viva el gobierno(PSOE-PODEMOS), mucho ánimo 💪.<br> :date: __2020-08-12 04:37:12__
-
-> Muy buena<br> :date: __2020-07-31 11:26:46__
-
-> Buena aplicación solo falta que se la baje la gente<br> :date: __2020-07-25 20:04:15__
-
-> Ya vuelve a funcionar bien. Gracias!<br> :date: __2020-07-16 16:13:21__
-
-> Excelente<br> :date: __2020-07-11 19:57:53__
 
 
 
@@ -181,6 +181,10 @@ The Asistencia COVID-19 app has been installed by more than **50000** times. At 
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="es.gob.asistenciacovid19 4 reviews"/>
 </p>
+
+> Creo que es una opcion importante para luchar contra esta epidemia<br> :date: __2020-08-29 18:40:13__
+
+> Tengo entendido que esta app te permite saber si has estado en contacto con personas positivas, siempre que esté registrado en la app pero no consigo encontrar dicha opción. La información que tenía no es real?<br> :date: __2020-08-25 20:20:50__
 
 > Estaria genial si incluyeran sintomas como perdida total de olfato y gusto y dolor de cabeza y poder incluir a personas dentro del ámbito familiar. Ya que hay mucha gente que hemos tenido sintomas y a los pocos días han tenido los mismos síntomas personas dentro de la unidad familiar.<br> :date: __2020-04-28 12:05:28__
 
@@ -198,10 +202,6 @@ The Asistencia COVID-19 app has been installed by more than **50000** times. At 
 
 > Le faltan preguntas sobre otros posibles síntomas<br> :date: __2020-04-09 10:09:22__
 
-> Hola. ¿Sólo es posible el seguimiento de una persona?. Y para dar los datos del resto de componentes de la unidad familiar menores de edad y que no cuentan con dispositivos móviles?. Gracias por el esfuerzo.<br> :date: __2020-04-08 18:29:03__
-
-> Por favor ¡Cuánto antes en Andalucía!<br> :date: __2020-04-08 09:26:01__
-
 
 
 #### 3-star reviews
@@ -209,6 +209,12 @@ The Asistencia COVID-19 app has been installed by more than **50000** times. At 
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="es.gob.asistenciacovid19 3 reviews"/>
 </p>
+
+> Voy a tener que desinstalarla porque mi comunidad no está comunicada con ésta, lo lógico es que estuvieran todas conectadas, COMUNIDAD VALENCIANA<br> :date: __2020-09-01 21:09:54__
+
+> Bueno tienes<br> :date: __2020-08-30 21:49:13__
+
+> Aparte de los descritos hay síntomas como erupciones cutáneas que no aparecen en la encuesta<br> :date: __2020-08-30 04:31:24__
 
 > Le doy 3 estrellas ✨ porque no me deja probarla, y me dice que hay un error.<br> :date: __2020-08-21 22:46:18__
 
@@ -224,12 +230,6 @@ The Asistencia COVID-19 app has been installed by more than **50000** times. At 
 
 > Esperaba con ella conseguir mas datos e informacion como en otras de mismas caracteristicas, por ejemplo si en tu zona es mayor o menor el riesgo de contagio por presencia en ella de positivos.<br> :date: __2020-04-28 10:48:13__
 
-> Cuando llegara a Andalucía???<br> :date: __2020-04-22 22:47:56__
-
-> Sólo si pones que tienes fiebre, tos o dificultad de respiración empieza a tomarte en serio como posible contagiado, dejando otros sintomas que aparecen en estadísticas.<br> :date: __2020-04-20 00:01:35__
-
-> Faltan autonomías y síntomas q habría q añadir, esto es ridículo q haya 17 reinos de taifas en sanidad cuanto menos los datos de los pacientes debería estar compartida y tantas otras cosas como las vacunaciones...etc<br> :date: __2020-04-13 02:04:34__
-
 
 
 #### 2-star reviews
@@ -237,6 +237,8 @@ The Asistencia COVID-19 app has been installed by more than **50000** times. At 
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="es.gob.asistenciacovid19 2 reviews"/>
 </p>
+
+> No funciona en casi ninguna comunidad autónoma. En Madrid NO FUNCIONA<br> :date: __2020-08-25 14:27:01__
 
 > Xxxbyu<br> :date: __2020-08-22 13:50:46__
 
@@ -264,6 +266,14 @@ The Asistencia COVID-19 app has been installed by more than **50000** times. At 
 <img src="1_star_reviews_wordcloud.png" alt="es.gob.asistenciacovid19 1 reviews"/>
 </p>
 
+> En la aplicación pone que no está activa en Andalucía,pero según el SAS si lo está¿a quien creemos?<br> :date: __2020-09-01 12:26:05__
+
+> No funciona<br> :date: __2020-08-27 21:32:43__
+
+> No me carga<br> :date: __2020-08-26 09:48:09__
+
+> Es una porquería...no la recomiendo.<br> :date: __2020-08-25 01:01:36__
+
 > Lo acabo de instalar y no me funciona. Tengo un Samsung galaxy J3 y no puedo comprarme otro nuevo. Un chasco<br> :date: __2020-08-21 21:08:41__
 
 > No funciona<br> :date: __2020-08-19 23:33:40__
@@ -275,13 +285,5 @@ The Asistencia COVID-19 app has been installed by more than **50000** times. At 
 > Tres veces lo e intentado y las tres veces dice q a ocurrido un error inesperado en dos días diferentes,stoy sperando q m llamen para una pcr. No m estraña q tengamos la tasa mas alta d contagios,haces todo lo posible x hacerlo bien y todo son pegas y problemas.<br> :date: __2020-08-18 22:13:45__
 
 > No permite entrar en canarias introduzco mi numero de movil con el prefijo +34 y me aparece error<br> :date: __2020-08-18 12:19:17__
-
-> Me he descargado la aplicacion pero cuando pongo mi telefono me dice que ha ocurrido un error inesperado,disculpe las molestias y no me deja seguir.<br> :date: __2020-08-14 00:14:14__
-
-> No se me inicia<br> :date: __2020-08-13 16:35:18__
-
-> Me da error al introducir los datos.<br> :date: __2020-08-13 15:40:50__
-
-> NO SE PUEDE INSTALAR Y ESTO ES OTRA GILIPOLLEZ MÁS PARA SEGUIR COMIENDONOS EL COCO CON EL CUENTOVIRUS ESTE QUÉ SE HAN SACADO DE LA NADA .<br> :date: __2020-08-13 15:02:39__
 
 

@@ -1,5 +1,77 @@
 [
     {
+        "reviewId": "gp:AOqpTOH4FPkIYhG1nQ88N30wMQZHFPLlFuTgGCAriILY7qkXPzRcAMs2KZQXcWIy5GYwungqV4D4-COGNP0eeA",
+        "userName": "Rich Hudson",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgGj6WmWtvoMre3xPgDPopeYBIIcpmnrug28U3Pn54",
+        "content": "First time code didn't work. Now stuck at that point. Should be option to resend a code.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.2.0",
+        "at": "2020-09-06 22:38:04",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGYhX9xnR7crqqE7aQfIasLK5IBK1u15ig1ol2FJq6CKu_x8p_YAX8T3hFXRdoFSPTCbzIBZQeWFqKQFA",
+        "userName": "Noyb Noyb",
+        "userImage": "https://play-lh.googleusercontent.com/-fFmWkrQW_lk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckI_IhMi2MpcHzG3sFLdriDd6Tz5Q/photo.jpg",
+        "content": "I have a 3 years old phone & I've had no problem with my battery. When keeping Bluetooth on, in a 12 hour period the battery usage was only 0.7%. My only complaint is that it shows an icon in my status bar regardless if Bluetooth is on or off. Personally I would prefer that the icon only shows when Bluetooth is off. Until we get the National app here at least it's one thing I can do. Who knows when we'll get the National one!?! Hopefully sooner than later!",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.2.0",
+        "at": "2020-09-05 04:37:30",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOEmtfwxguIEHqhBx0axDrYxVC-gjhn9yH6vLEDmuvaK9UdzvPy8huVUdOSOmAt1R_wS2DFwWsOa30ZJKA",
+        "userName": "Laura Styler",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiXV8oCk7ZxWMjL95dWsSLuzCgRNi1Vyy7ucdcx6A",
+        "content": "Absolute garbage. It doesn't stay active on your phone. I have to restart my phone when I'm out and about several times so absolutely no point. Doesn't work.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.2.0",
+        "at": "2020-09-03 15:30:42",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOH1DEbTcjb4mmN0YEtKEfIRFxrwZ6xCp0ajJ213Z4RhwZ2uyMambKE0eFosDVLBKmZm7vPhC4rngxI5bw",
+        "userName": "Maryanne Kamau",
+        "userImage": "https://lh3.googleusercontent.com/-A5JIPQoOH1g/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmDXsHRUJUltxpuUWPnq0UgBI1NXQ/photo.jpg",
+        "content": "I like to have the App to protect myself. I feel more confident wherever i go knowing that if iam exposed to the virus i will be informed immediately and that way i can be tested and get the treatment i need. Thank you",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.2.0",
+        "at": "2020-09-02 08:15:09",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOES5L7QT57xuLAnIwPN_CQXuUEj8vVqsRM3_rejoDZHB1zcTV68fNtJTjF1ywsBHGH6Fbw5_hWlqvqgQQ",
+        "userName": "Seraphina Angelus",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gj9kipVXEdMUwQl26bRI-ltoOw3lc3sYIiUby5ufg",
+        "content": "It's irritating that it has a large notification on my screen all the time to note that it's running, rather than an icon, or the option to just run in the background without that. Worse, it drains my battery, using as much power as almost everything else I run combined. I'd like to use it, but this isn't feasible.",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2020-08-27 01:11:47",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFVDT8MoPS5ZMs_3MIEhVrNqyrrwGAjGfcTJiUyWIa2QWum5jkHQmK30BbiGb2146nYIttwpeNjZsN6gQ",
+        "userName": "juni perberry",
+        "userImage": "https://play-lh.googleusercontent.com/-do6QfA1t-l4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmjm_uBTth2ztaXaj2dmh9q_xBMHA/photo.jpg",
+        "content": "It's an absolute battery drainer! The intentions are good and the existence of it is important but it's just killing my battery and my phone is brand new.",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2020-08-25 04:21:04",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOGzPtEu5MyJ7bSOCuXtJPyWiGiLr57F788nGOFUnOvmTTumsa2fb8eAhtjl_ZMykmmQstHTDdXOOsDrXA",
         "userName": "Marc Boucher",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjLOtDInknmZsQcTv3jtpI3YZIiliaTakuiZwU7NA",
@@ -26,7 +98,7 @@
     {
         "reviewId": "gp:AOqpTOFSyycHF3NkPmmegErfOI4bXiTs2NJMsPzqUU_7ReYiMzBNIeL8OpramnDYI8lnpKqjc9tqYdGcLBHRFQ",
         "userName": "LINC PBLA",
-        "userImage": "https://lh3.googleusercontent.com/--5ZkM-x5yi8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmwHIR1rgQZjPpwFbLQoRewk6dgXA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/--5ZkM-x5yi8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmwHIR1rgQZjPpwFbLQoRewk6dgXA/photo.jpg",
         "content": "It doesn't drain my battery like others say. Not sure why others are having issues...?",
         "score": 4,
         "thumbsUpCount": 0,
@@ -38,7 +110,7 @@
     {
         "reviewId": "gp:AOqpTOEuPRwqyGgf5zayl-qZm0GF6Y5N3-WnF-raawmDeQ0RSwHtDkFYAm2l1Q2_J6A5pO-MGhzcTp7mYvwC7A",
         "userName": "Chad H",
-        "userImage": "https://lh3.googleusercontent.com/-WWh9IJf85j8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclqzyPc9bkywp-h5eDHaOOvJt4ZOg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-WWh9IJf85j8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclqzyPc9bkywp-h5eDHaOOvJt4ZOg/photo.jpg",
         "content": "Eats batter, very very badly. 45% battery usage over 2 hrs.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -101,7 +173,7 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gh_q0aRtNvYSzZGekz0hX1oaKwznH5fcd7OhRDI",
         "content": "I have not had any problems at all aside from the battery drain which I solved by turning off my Bluetooth at home and turning it on while I am out.",
         "score": 5,
-        "thumbsUpCount": 2,
+        "thumbsUpCount": 3,
         "reviewCreatedVersion": "1.2.0",
         "at": "2020-08-09 00:29:04",
         "replyContent": null,
@@ -158,10 +230,10 @@
     {
         "reviewId": "gp:AOqpTOGYKEO52drgfapj4p8vE2yM8mOtDJXM7i4S1A2nAAuoWxwV75Wf3c0-uYd3DSbMFM1YNkaigd4tnmOI5g",
         "userName": "Kiley D",
-        "userImage": "https://lh3.googleusercontent.com/-r-qGvfWpGdM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmyGcW-IdhXtvSqzY-erh5yRel71Q/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-r-qGvfWpGdM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmyGcW-IdhXtvSqzY-erh5yRel71Q/photo.jpg",
         "content": "Won't let me sign up. Uninstalled then reinstalled, now there's an error message when adding phone number.",
         "score": 1,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "1.2.0",
         "at": "2020-08-05 15:09:29",
         "replyContent": null,
@@ -185,7 +257,7 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gi7WPqYGXKmb5P2o67hfkey90XDqNtG132KPyoJXw",
         "content": "Needs to run in foreground. When app crashes user has to manually restart. Drain on battery. This is not a good solution. Better to switch to the new Health Canada app called COVID Alert.",
         "score": 1,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "1.0.0",
         "at": "2020-08-04 18:37:57",
         "replyContent": null,
@@ -218,7 +290,7 @@
     {
         "reviewId": "gp:AOqpTOF3qFw4ZesaBZToVrHhHVl9YxaZ9OUSviu9E8R2iWFvyFg3rRz6oeRm1HoHZdkM7ZLXLl35ni_pk03siA",
         "userName": "colin thomlison",
-        "userImage": "https://lh3.googleusercontent.com/-VYm9GHJmQxM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckIzOl33Kkojtirp29ZHDDUGBlSqQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-VYm9GHJmQxM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckIzOl33Kkojtirp29ZHDDUGBlSqQ/photo.jpg",
         "content": "Depletes battery very quickly. I use my phone a lot for a number apps. This thing would account for around 70% battery usage.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -230,7 +302,7 @@
     {
         "reviewId": "gp:AOqpTOFYLxIOZlKWNe8x5bzt2Yk1RjpjQkiFmJg1SHRLusVZPgVQBERn0V1FVbsGzvuQzDc8Di8Moof83hXHeA",
         "userName": "Wing Lao",
-        "userImage": "https://lh3.googleusercontent.com/-OMjcgYvEaTE/AAAAAAAAAAI/AAAAAAAAAPI/AMZuucku4izWCMv-CFW4GJOgv4xxJUD43g/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-OMjcgYvEaTE/AAAAAAAAAAI/AAAAAAAAAPI/AMZuucku4izWCMv-CFW4GJOgv4xxJUD43g/photo.jpg",
         "content": "Works like garbage. Just install the government of Canada one: much slicker interface, more people using it, no battery issues.",
         "score": 1,
         "thumbsUpCount": 1,
@@ -266,7 +338,7 @@
     {
         "reviewId": "gp:AOqpTOGDUpQ4FbK4M4LXvLEMotrNd66gzlkBkjf8U5rSe6n2E5w7ZXUQt6kKVp6HMg4CaVYAL6fNt7HExnmplQ",
         "userName": "Brian Wayne",
-        "userImage": "https://lh3.googleusercontent.com/-fkh0vdvCDo4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclL8n4KWJiLWjCf924jOGQqDTLQ1g/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-fkh0vdvCDo4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclL8n4KWJiLWjCf924jOGQqDTLQ1g/photo.jpg",
         "content": "I like this app because it will inform me if I've been in contact with anybody that has this virus because I definitely do not want to get it thank you",
         "score": 5,
         "thumbsUpCount": 0,
@@ -293,7 +365,7 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiOkdDZyPuQdAVTIvGhNwdDSTM1yK0d7OD580x-6w",
         "content": "This app, while it has good intentions, is a battery killer. If you do not have frequent access to charge your phone multiple times per day then be warned as this app can consume 20+% of your battery just running in the background. I have seen it as high as 57% on my S9+. I will be deleting this app as my phone is only a tool to communicate against COVID-19. Wear a mask!",
         "score": 1,
-        "thumbsUpCount": 28,
+        "thumbsUpCount": 34,
         "reviewCreatedVersion": "1.2.0",
         "at": "2020-07-28 17:55:47",
         "replyContent": null,
@@ -314,7 +386,7 @@
     {
         "reviewId": "gp:AOqpTOHWnxIdsIWmhD3xG1COUztmWTnmxtRw2NSoj8Agw3DLLOgFI4O_15OU0lZR74UiWCIrXfH9NpAHdc2yCw",
         "userName": "Lori",
-        "userImage": "https://lh3.googleusercontent.com/--bE4EehJxuw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmEQlF4fdlhXHPqk8G6gbvCA_tetA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/--bE4EehJxuw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmEQlF4fdlhXHPqk8G6gbvCA_tetA/photo.jpg",
         "content": "Drains my battery! Hardly lasts half a day now. But because of my work I feel it important to have this app on my phone.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -338,7 +410,7 @@
     {
         "reviewId": "gp:AOqpTOFI5VdXu0WU86SMBN88OHp33yiE2Hi3SMX4X6MMa8PyDZJwpbOR3A9SCQFEZ2EgeUSOf6RyE-AgES9W1A",
         "userName": "Nelson Green",
-        "userImage": "https://lh3.googleusercontent.com/-W2RpNVdsi2c/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnZhJfOM3EnKK1yYh4xm_RRtSKp1A/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-W2RpNVdsi2c/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnZhJfOM3EnKK1yYh4xm_RRtSKp1A/photo.jpg",
         "content": "Covid 19",
         "score": 5,
         "thumbsUpCount": 0,
@@ -362,7 +434,7 @@
     {
         "reviewId": "gp:AOqpTOFH6IGOX3zCIVySEAVZuN7zPx4rhH4KNeg_8KqBhicJ8-uqrSf7aMbMFfV3sAf4pookqfvZFj0rjeg29w",
         "userName": "Pete Bushman",
-        "userImage": "https://lh3.googleusercontent.com/-kqKYdvfqIGY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclwYRKQZ3-MzkyiknN-OwRTatLEkA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-kqKYdvfqIGY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclwYRKQZ3-MzkyiknN-OwRTatLEkA/photo.jpg",
         "content": "What the hell....blue tooth.....use something else....not a battery eater.....there better tracking and tracing in Facebook....or my cellphone Waste of tax money",
         "score": 1,
         "thumbsUpCount": 0,
@@ -401,7 +473,7 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgG9Gbx5rrm3Q9ZRo8F6MEg5Ny7P498lIJfblrNjg",
         "content": "needs an off button holy moly I believed all the battery drain hype, especially since I'm a server at a restaurant I just leave my phone plugged in at the front desk and it's not a problem (heats up a bit tho). when I get home however it's worse because it was charging all day consuming power-at-will. the choice for me is to turn off background activity on the app in the settings when I get home. there's no sense in exchanging keys with my fam 24hrs a day. but I could easily forget it off :/",
         "score": 4,
-        "thumbsUpCount": 32,
+        "thumbsUpCount": 33,
         "reviewCreatedVersion": "1.2.0",
         "at": "2020-07-19 23:06:46",
         "replyContent": null,
@@ -422,7 +494,7 @@
     {
         "reviewId": "gp:AOqpTOEvfQ-b836jsE5HugDBA-uV7LnJBpLZUvP3njbroru00HUChEbuCbwirhwnMVxndFboxrqL5_sIO6VXfQ",
         "userName": "Angelo Pardo",
-        "userImage": "https://lh3.googleusercontent.com/-OR1KBUXL2JE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclcfsm9orFdA9kE7QAJSNmZGcoYeQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-OR1KBUXL2JE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclcfsm9orFdA9kE7QAJSNmZGcoYeQ/photo.jpg",
         "content": "Authentication is not sending text message before but is now working for me.",
         "score": 5,
         "thumbsUpCount": 2,
@@ -434,7 +506,7 @@
     {
         "reviewId": "gp:AOqpTOE66NyRLFwUGfzThkwq9CyZrhxzIBrD0JR6M9JDczdfdP4R-XCxsY-L7nU_E3wQAvz4vSWrGoFWk-GM8A",
         "userName": "Kidad Kwashe",
-        "userImage": "https://lh3.googleusercontent.com/-Trdqqh0yc6A/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck_7-2ONcozQNXXmTQR5SGa6G1gZg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-Trdqqh0yc6A/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck_7-2ONcozQNXXmTQR5SGa6G1gZg/photo.jpg",
         "content": "Battery Drain! Went into work with 96% battery. After 5 hours of no use my phone was dead when it would normally be in the low 90s - high 80s depending on I my data was turn on or not.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -446,7 +518,7 @@
     {
         "reviewId": "gp:AOqpTOHwpalhjykB1tkghg1LEHPer1XEnPhApFKBTNSIUCnVQH1vzLTFrrec1qYW_E6sc8og91QclHNTczrGcQ",
         "userName": "julio galarza",
-        "userImage": "https://lh3.googleusercontent.com/-kYkEG6M9KvM/AAAAAAAAAAI/AAAAAAAADhA/AMZuuckBBm4qWiMW0hqqbgTfdf3hrwzfSA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-kYkEG6M9KvM/AAAAAAAAAAI/AAAAAAAADhA/AMZuuckBBm4qWiMW0hqqbgTfdf3hrwzfSA/photo.jpg",
         "content": "I tried to get the code numerous times and it never works. Waist of time",
         "score": 1,
         "thumbsUpCount": 0,
@@ -482,7 +554,7 @@
     {
         "reviewId": "gp:AOqpTOFdHiohCCXqIJLF9bMYuEH1rZLqsbUjDo0XpM5MShS6s-xSrLUBILOTaTXeCHWOV7rH7WFN8bUGfqQa8w",
         "userName": "Richard Breault",
-        "userImage": "https://lh3.googleusercontent.com/-PLGgp-V8Wa4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclktxpwqd_BNWtDUVFRoZiqEbw3Dg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-PLGgp-V8Wa4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclktxpwqd_BNWtDUVFRoZiqEbw3Dg/photo.jpg",
         "content": "Takes way too much battery life. 39% over 4 hours....",
         "score": 2,
         "thumbsUpCount": 0,
@@ -518,7 +590,7 @@
     {
         "reviewId": "gp:AOqpTOHn3W3K1SeE0D-O9kQ2ZFhs5vHSVU42xvxKmaRPl9O8l0QJek9g5WSVk8CEH-MByYAX1vO2InrM4_jKcA",
         "userName": "Peter Scott",
-        "userImage": "https://lh3.googleusercontent.com/--5Oile3T4fw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnnnBnTGfF1uZMVdLY9348tqykm6w/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/--5Oile3T4fw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnnnBnTGfF1uZMVdLY9348tqykm6w/photo.jpg",
         "content": "Allow me to turn off bluetooth when at home or better yet, have a home zone that automatically turns bluetooth off and I'll put it back on my phone. Too invasive.",
         "score": 1,
         "thumbsUpCount": 1,
@@ -554,10 +626,10 @@
     {
         "reviewId": "gp:AOqpTOHE8jAjL7yfvrTEH3Ad3HuEnI8tMQB0RnloyURwfJftwzQOkTK-GGhtpmDA_pJCIRP4An_px3bT6Y4TKw",
         "userName": "Ann Evans",
-        "userImage": "https://lh3.googleusercontent.com/-xp9o98s-lnw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl4nK-FLRJqeFj2EJPKHPyV2Ex5DQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-xp9o98s-lnw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl4nK-FLRJqeFj2EJPKHPyV2Ex5DQ/photo.jpg",
         "content": "I noticed the last 2 days this app has been draining my battery. Use to have 45% left at bedtime, now only 10% at 1 pm. Just did the update, which I didn't know about. So hopefully it fixes this battery issue. (03-Jun-20). UPDATE: After the update the app no longer drained my battery. I noticed a drain on my battery again today (06-Jul-20) and checked for an update, which there was. If you notice your battery being drained, just update the app.",
         "score": 4,
-        "thumbsUpCount": 65,
+        "thumbsUpCount": 69,
         "reviewCreatedVersion": "1.2.0",
         "at": "2020-07-06 16:07:00",
         "replyContent": null,
@@ -629,7 +701,7 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhxmYUc_tVpeLcSpPij7TrYqp4GLhCoWGAydcbWdv4",
         "content": "Only installing for long periods of exposure It seems to cause overheating with my phone. If I have the app installed (paused or unpaused) it seems to ramp up internal temps. Also, there should be an option to say you are at home, so you don't have to pause the app. The constant need to have BT on, even while at home, is annoying. I get why but it is frustrating.",
         "score": 3,
-        "thumbsUpCount": 40,
+        "thumbsUpCount": 42,
         "reviewCreatedVersion": "1.2.0",
         "at": "2020-07-03 00:54:11",
         "replyContent": null,
@@ -674,7 +746,7 @@
     {
         "reviewId": "gp:AOqpTOHzladI6s7jZUYRio9o4XB6SEGozABv4WnZdOoJozbdJtz-IUpDIWpN6jXV28LctDdUVGqW58Q7ydQixw",
         "userName": "Dave Boehm",
-        "userImage": "https://lh3.googleusercontent.com/-Dr1tPACQFls/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn48tWuaWk22t4enOW4F_b53FKt0g/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-Dr1tPACQFls/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn48tWuaWk22t4enOW4F_b53FKt0g/photo.jpg",
         "content": "I uninstalled the ap due to high battery usage from the app.",
         "score": 3,
         "thumbsUpCount": 0,
@@ -746,7 +818,7 @@
     {
         "reviewId": "gp:AOqpTOF4FDAHBL_wkTa51EBUGhxGrnjQZQw_TOyl1AnTlhP6d1DYeGP3CCTQ-qWDjDUiljvvYHRzwgfP_f3AXg",
         "userName": "J M",
-        "userImage": "https://lh3.googleusercontent.com/-kuHV0-p5Uhk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck89y3FHCU2I2ZyuZli7IpsHJ1BtA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-kuHV0-p5Uhk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck89y3FHCU2I2ZyuZli7IpsHJ1BtA/photo.jpg",
         "content": "Wanted to help prevent the spread of covid. This app is garbage. Used 76% of my phone battery in 12 hours. Uninstalled. Now we are all gonna get covid.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -842,7 +914,7 @@
     {
         "reviewId": "gp:AOqpTOFEvnn4SLz60tPhXFgxSk_h8bVK1xhR14RLwdUqPe01uX_CRrXtZMM8OaN9mH35RX476CxoRTWA0xgBlg",
         "userName": "Anne-Marie",
-        "userImage": "https://lh3.googleusercontent.com/-9_3QOdJCfFY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnSIA3MxuvhrKaUjIwR0Xp2rAexng/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-9_3QOdJCfFY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnSIA3MxuvhrKaUjIwR0Xp2rAexng/photo.jpg",
         "content": "Doesn't stay active. Will disappear sporadically and you have to restart your phone to make it appear again. I've gone days before I realize it's gone again so what's the point?",
         "score": 2,
         "thumbsUpCount": 6,
@@ -878,7 +950,7 @@
     {
         "reviewId": "gp:AOqpTOERZKOsFhe2-McqO2f32_VacqWkYE74xaj0AK9OOTbC6L1SiM_HfMFrxI40WP1z4fFWMt4X1VxEonI5tw",
         "userName": "Leah Pechler",
-        "userImage": "https://lh3.googleusercontent.com/-AsbdemKVLko/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckQPGPf32lVPfFleN6DBAGhfkRKBg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-AsbdemKVLko/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckQPGPf32lVPfFleN6DBAGhfkRKBg/photo.jpg",
         "content": "I would have really liked to use this to help out but my battery life is non-existent. I just got a new S10 and my battery died a little over halfway through the day. If they could somehow fix this app to turn off when you're not moving or something then maybe it wouldn't drain your battery so bad? No idea, but I had to uninstall it.",
         "score": 3,
         "thumbsUpCount": 0,
@@ -890,7 +962,7 @@
     {
         "reviewId": "gp:AOqpTOGEsijmVskf4Ki46Ol59qacHtY8uJUuGiS9XaE_2iA4omPZL_1xfF7lvSLVgdRVZpaN9WjOKQQoGXL0sg",
         "userName": "Andrea Phalen",
-        "userImage": "https://lh3.googleusercontent.com/-rLL4rhMVO8U/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucknd8jOcHuu4-IE-u4J9ggTjjunsg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-rLL4rhMVO8U/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucknd8jOcHuu4-IE-u4J9ggTjjunsg/photo.jpg",
         "content": "This app is supposed to run in the background with a notification that it's still running. Well, it won't stay running on my phone. So it's pretty much useless if every 20 minutes I have to open the app to make sure it's still working on my phone. I'd give it zero stars if I could. P.o.s.",
         "score": 1,
         "thumbsUpCount": 3,
@@ -938,7 +1010,7 @@
     {
         "reviewId": "gp:AOqpTOEthFVhhMfMz0Age1BFvMN4Of0Lbb32BbbWY1D1QELNT1_l-GkcbrmKKmHCh1cOCaVjtzhDdblBQ2NX4w",
         "userName": "Erik Sprong",
-        "userImage": "https://lh3.googleusercontent.com/-p7qxM_StAMQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclQVtnbX32ZhbeTFUpSjaz95aY_vw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-p7qxM_StAMQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclQVtnbX32ZhbeTFUpSjaz95aY_vw/photo.jpg",
         "content": "You may want to look at power usage. Depending on how close I am to another phone? my phone chews through its battery. Sitting with my wife at home and in less than 5 hours, it ate through 45% of my battery. Prior to the installation of ABTraceTogether, I never used my battery up in a day; sometimes would get two days. It is also heating my phone up due to excessive battery usage. Please resolve this issue so I do not need to uninstall the app.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -950,7 +1022,7 @@
     {
         "reviewId": "gp:AOqpTOFFk3Q9yV9g7PtgpfAXv6NgpnwhaNfSaNKhw3svJTxI19th7mlwHQv7zUlukAtxJ6PRV5RmzpF78sU7Ig",
         "userName": "Ryk Brown",
-        "userImage": "https://lh3.googleusercontent.com/--_zyv9ocwPk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck07Iho3hvgIBBSb7BdrjTd19DTSA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/--_zyv9ocwPk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck07Iho3hvgIBBSb7BdrjTd19DTSA/photo.jpg",
         "content": "Install was very easy. Done in under 2 minutes. App is a great idea for the times. Having said that, yes the battery drain is amazing. Started as a 5 but now a 3. I wish it was more.",
         "score": 3,
         "thumbsUpCount": 1,
@@ -962,7 +1034,7 @@
     {
         "reviewId": "gp:AOqpTOF76MJFTA7yv7Ri0M4V0lV4UciLOFcdq0kfS6SFwBOX-_4vWGEyOLOiGlKu0Ub7UI4NbtOcQYCz03883w",
         "userName": "Clayton Walls",
-        "userImage": "https://lh3.googleusercontent.com/-qeFEIChZH2s/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn0NKLYj7egXnEwfAa8G0kSWsvK4Q/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-qeFEIChZH2s/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn0NKLYj7egXnEwfAa8G0kSWsvK4Q/photo.jpg",
         "content": "Greetings to anyone who reads this, If the app is only getting a 3.0 (3 Stars), is there a problem with it? Please consider the following, none of which is/are (a) conspiracy theory/theories. I can say this because countless independent studies done across the world have all found these phenomena to be true. 1. Are delusional naysayers about the Covid-19 pandemic keeping the app from scoring higher by not subscribing to it? ; or 2. Is the low rating the possible result of most of the current subscribers not getting alerts, and that others - who haven't (yet) subscribed to the app - are being lulled into a false sense of safety, even complacency? ; or, 3. Is the app a bit of a lame-duck technology - on the part of the government - and the app is not functioning properly or at all? ; or, 4. Are Albertans simply complacent about the pandemic? Go into any store which has clearly defined and labelled \"shopping lanes\" and other forms of signage, along with PA and public service announcements exhorting shoppers to abide by the store's rules and Alberta Health's guidelines, and you'll experience first-hand what I'm talking about. Indifference, obtuse behaviour, willful or blind ignorance, etc. ; or, finally (at least for now) 5. Is the media, which continues to feed us only what is \"news worthy\" to it (as it has done for nearly 3 generations), the real problem? If the app is not being kept in front of viewers or in the ears of listeners, is that the reason for the low rating? The media, along with government, controls the access to news. More often than not, it's the media doing this because \"news worthy\" really means that which attracts and is supported by the most lucrative advertising revenue streams. As CFCN says \"All the news you need to know\", which translates, \"All the news we want you to hear\". CBC, CTV, and the American networks on cable and satellite TV are all complicit in this. I'll stop now, since I've run out of time to continue. However, I must add that if the government is truly engaged in leading Albertans out of this tragedy, it will not alter, delete, expunge, rephrase, or in any other way, edit my comments because some of them have suggested government shortcomings. I'm keeping a copy of this for my own files and for posterity. Clayton Walls, Calgary June 11, 2020 @ 1300 h MDT",
         "score": 4,
         "thumbsUpCount": 1,
@@ -974,7 +1046,7 @@
     {
         "reviewId": "gp:AOqpTOH3P0nEcR8Q3swRDR6Sau0cReQ-cFUPGbbI9TWCyIHsFkiNJYB4yGU3dfaEAK3Y7sBJehvOFPScvK5a-Q",
         "userName": "Jenn G",
-        "userImage": "https://lh3.googleusercontent.com/-if-VGbfa7yo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucneeBFOUqymQV0fTQPioZAbFWZ-Yw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-if-VGbfa7yo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucneeBFOUqymQV0fTQPioZAbFWZ-Yw/photo.jpg",
         "content": "This app was fine for a few weeks then all of the sudden started eating the battery life. No idea why. I had to uninstall because I was no longer making it through the work day with enough battery.",
         "score": 2,
         "thumbsUpCount": 1,
@@ -1010,7 +1082,7 @@
     {
         "reviewId": "gp:AOqpTOFk8ixfFoIY4x49dtYpJ1eSG1x3pcthaV3p1NfFvPbrsBEpweGHdLUU9KEde7xCoXxRxxtOoNuHnfNoww",
         "userName": "Kimberley Fraunberger",
-        "userImage": "https://lh3.googleusercontent.com/-PeYmQuE8BJw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmNT38YPIkvMKHgJMdsXfRA5sRGhg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-PeYmQuE8BJw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmNT38YPIkvMKHgJMdsXfRA5sRGhg/photo.jpg",
         "content": "I've had no complaints up until a couple of days ago when my phone indicated that AB Trace Together has been using 35.6% of my battery, while at home. I disabled Bluetooth and it didn't change or conserve the battery. My phone has been on for 20 minutes this morning and its already used 6.1% of my battery. Prior to this, battery usage was negligible. Updated it and hoping that helps.",
         "score": 3,
         "thumbsUpCount": 37,
@@ -1022,7 +1094,7 @@
     {
         "reviewId": "gp:AOqpTOGtNfAWVikOPcIv0unurJ3h0pIKW5jxiEAhap2FkyDGXqhiyBbc89PsD0n7nAloqB83jrr6zTpVkMncug",
         "userName": "hyrulphicsound",
-        "userImage": "https://lh3.googleusercontent.com/-esp7CCsDGXY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl9VGDHbcJvcvk8VTayb9TrDY28zQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-esp7CCsDGXY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl9VGDHbcJvcvk8VTayb9TrDY28zQ/photo.jpg",
         "content": "I so want to help by having the app but the battery drain is frustrating to deal with. At the start a few weeks ago it seemed like there was no issue but over the past two days, after going out twice, my battery is just kaput in an outrageously short period of time. I'm talking from full charge down to 10 percent in a span of 7 hours, of which 5 of those hours was spent being in battery saving mode and idle. I hope the update fixes this or retaining this app will be untenable.",
         "score": 3,
         "thumbsUpCount": 46,
@@ -1106,10 +1178,10 @@
     {
         "reviewId": "gp:AOqpTOFIT7rV_oAZ1C7qPg9YYI-mKzaMy5eAY2veBfIfltVDKUEr7vei_7DIMU5DVarH1guaU3ETMNvtmxcqmw",
         "userName": "William Howe",
-        "userImage": "https://lh3.googleusercontent.com/-GOrG2N9_Qmk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmrWv0A_pAYfxbUGxm61hjedmxgcA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-GOrG2N9_Qmk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmrWv0A_pAYfxbUGxm61hjedmxgcA/photo.jpg",
         "content": "A little trouble with the 2 Step Verification Code.",
         "score": 3,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "1.1.0",
         "at": "2020-06-04 22:27:35",
         "replyContent": null,
@@ -1130,7 +1202,7 @@
     {
         "reviewId": "gp:AOqpTOEjCtSxe5TDQUT5QbEBn6dwDBSA-QbnJXnGowEULntUQ0YFK6l60pkob6pRAiQqf8V_GjH93YTdxCKI_w",
         "userName": "Alex Scheuerman",
-        "userImage": "https://lh3.googleusercontent.com/-4aUXDvpeb2c/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnioHZAwA2vT7dgdaq8WpFoeqbSXg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-4aUXDvpeb2c/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnioHZAwA2vT7dgdaq8WpFoeqbSXg/photo.jpg",
         "content": "It's quite respectful of privacy, and uses very little of the battery on my Pixel 3. But please start supporting the new Google and Apple contact tracing API! Since it isn't user friendly on iPhones, less iPhone users will use it, and then it's less effective for us Android users too. What essential worker with an iPhone would leave their phone on for an 8-hour shift? I'd give it 5 stars if it wasn't such a deterrent to iPhone users.",
         "score": 3,
         "thumbsUpCount": 0,
@@ -1214,7 +1286,7 @@
     {
         "reviewId": "gp:AOqpTOH1XwdstqKaPkdHVoleOpQUythEFIEQYU7pUCoax2uEISBB6nrdWBCT0bHyxBY-0AsOfIWNn1L0MlwyQg",
         "userName": "Nicki Rideout",
-        "userImage": "https://lh3.googleusercontent.com/-GQJnMZ47q5I/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucncgOfWtJlcJyOq0f_WDtSwjCbFNQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-GQJnMZ47q5I/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucncgOfWtJlcJyOq0f_WDtSwjCbFNQ/photo.jpg",
         "content": "Installed a couple weeks ago. Started off Fine. But has now gone to using 24.7% of battery. So I have uninstalled it.",
         "score": 1,
         "thumbsUpCount": 1,
@@ -1250,7 +1322,7 @@
     {
         "reviewId": "gp:AOqpTOGCFz-OUEpvLq3N_48NmWqZVmTHDDQrkpu7X4TLzse6vA6HlrDL_2K3HDN0G-6NJcjyWg7UygzAh7xpPA",
         "userName": "Stuart Logan",
-        "userImage": "https://lh3.googleusercontent.com/--krAWtW0pCA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmSf5lDyE3fhc3Wm1gTlzFUfmPDrw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/--krAWtW0pCA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmSf5lDyE3fhc3Wm1gTlzFUfmPDrw/photo.jpg",
         "content": "Great idea - but drains your battery very quickly - constantly trying bluetooth for others... once app installed and setup - battery life averaged 4-5 hours - close to 2 days without the app...",
         "score": 1,
         "thumbsUpCount": 1,
@@ -1286,7 +1358,7 @@
     {
         "reviewId": "gp:AOqpTOEMWAtFaXFFTJuksuS90KE3ZxsQZjao4l1odp_7R6X8CEDb-KsR2HkjKwabPNN0YxU-_H98hcmh1Wdkww",
         "userName": "E F",
-        "userImage": "https://lh3.googleusercontent.com/-0FmSJMsOyKw/AAAAAAAAAAI/AAAAAAAAGYU/AMZuuclGWLz24hgMB7tnuw1uuFjnXFu-5Q/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-0FmSJMsOyKw/AAAAAAAAAAI/AAAAAAAAGYU/AMZuuclGWLz24hgMB7tnuw1uuFjnXFu-5Q/photo.jpg",
         "content": "It was fine until 3 days ago when it went from draining 1% of my battery to >80%. Can't track anything if my phone is dead by 9am. I had to uninstall until this is fixed.",
         "score": 2,
         "thumbsUpCount": 0,
@@ -1322,7 +1394,7 @@
     {
         "reviewId": "gp:AOqpTOFwKsJlBg6VG8lTUSTPol_men_3IYC5Ws3Txxg7uBuW-imXzOP6A3Hv8NdKpXReH4jh6Hn9YFtkUX8Dzw",
         "userName": "Maygen M",
-        "userImage": "https://lh3.googleusercontent.com/-iFVqvwt_lks/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmve9rbIHAgo7SgaJe6bVa7hLv0Dw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-iFVqvwt_lks/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmve9rbIHAgo7SgaJe6bVa7hLv0Dw/photo.jpg",
         "content": "I enter my phone number and it keeps saying something went wrong. So I can't even use the damn thing",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1358,7 +1430,7 @@
     {
         "reviewId": "gp:AOqpTOGfB4tmPpZv1M8b8LhCKo3B3FdCs_L125WAVZ_u8uCFc-hwex3aB9LxM4wx9oKYy2sRjCi2cRBhgCbFyQ",
         "userName": "Dylan Seymour",
-        "userImage": "https://lh3.googleusercontent.com/-zUK0-L-aztg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmquuaehhzsa3AU1hh1XbxyUf1mHQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-zUK0-L-aztg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmquuaehhzsa3AU1hh1XbxyUf1mHQ/photo.jpg",
         "content": "It works fine But has sliced my battery life pretty much in half. The app is useless if my phone is dead",
         "score": 3,
         "thumbsUpCount": 0,
@@ -1370,7 +1442,7 @@
     {
         "reviewId": "gp:AOqpTOEfwx8tnmr4OmRCTL4ZaJkPH7xRw_BOPD4dvIEYD-e2JQlqSRnWcLRVaYkD_T4kxAR6Z2KwiCb3vrkFzA",
         "userName": "Stephanie Hart",
-        "userImage": "https://lh3.googleusercontent.com/-XkHVQ_SHYkU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl_ENP3pOoDJ0A_LlKQ1cTr2fF4ow/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-XkHVQ_SHYkU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl_ENP3pOoDJ0A_LlKQ1cTr2fF4ow/photo.jpg",
         "content": "I experienced many of the listed faults to this app. Installed as I could understand the advantages and think it's important to help the greater good. However, the battery drainage on my phone will be the reason i uninstall. Would love to reinstall once this is fixed.",
         "score": 3,
         "thumbsUpCount": 4,
@@ -1382,7 +1454,7 @@
     {
         "reviewId": "gp:AOqpTOGssqq7LlvdEVuoT_qQ4vrl5tHrH-zsVzLzKgAlf0bgupN49pgTJBirnNzBLHDub_KXQj6GLCNowSKFqw",
         "userName": "K L",
-        "userImage": "https://lh3.googleusercontent.com/-yUp1X_EfdJE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm4X4QbcW15FhGq7ojpY_JmsJ2hjA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-yUp1X_EfdJE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm4X4QbcW15FhGq7ojpY_JmsJ2hjA/photo.jpg",
         "content": "Completely useless",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1394,7 +1466,7 @@
     {
         "reviewId": "gp:AOqpTOF0Ap1C5ZhigcSCYXWjODkU0lwnW7m8rBXG7qEj4oYehyCUnSyojpBtf5iJqPOtRZUyuNCLckO9Qx6sSQ",
         "userName": "Jason G",
-        "userImage": "https://lh3.googleusercontent.com/-RQlThHUJyUs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn7KBOrw8_vjJweoRThNRmufNAFmg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-RQlThHUJyUs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn7KBOrw8_vjJweoRThNRmufNAFmg/photo.jpg",
         "content": "Totally drained batter every day!",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1454,7 +1526,7 @@
     {
         "reviewId": "gp:AOqpTOGzUz17lthXrrulltg71HBLvHXIvEaplTkOTETCmlQkHnW0FNVr_h00WhIHf_yD6s3SsIMiSVqDsvLIAw",
         "userName": "Patrick Milligan",
-        "userImage": "https://lh3.googleusercontent.com/-XUGy0qy62Hw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck-SK4E1SG6CuWSB_ALNFxm6gl22Q/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-XUGy0qy62Hw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck-SK4E1SG6CuWSB_ALNFxm6gl22Q/photo.jpg",
         "content": "Easy to install. Not noticing any power drain and analysis agrees. Bluetooth speaker works fine at same time. Reminds me to turn bluetooth back on when I shut off for a phone call not to be via my bluetooth speaker.",
         "score": 5,
         "thumbsUpCount": 1,
@@ -1478,7 +1550,7 @@
     {
         "reviewId": "gp:AOqpTOHFPGn_WbLMmvGe-edrzSrkAUBXfQ4pGgLvAGmlACYTXuNPhPoVb8OwWdq330YPBJvqJYift4IChKWnaA",
         "userName": "Kelly Sabourin",
-        "userImage": "https://lh3.googleusercontent.com/-Vkd7EdqTDaU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckIQj6hRQwyoPE2jDXZf-K6I4Dang/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-Vkd7EdqTDaU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckIQj6hRQwyoPE2jDXZf-K6I4Dang/photo.jpg",
         "content": "I don't need data on to run it. And it doesn't drain my battery despite having Bluetooth on . So far so good",
         "score": 4,
         "thumbsUpCount": 1,
@@ -1490,7 +1562,7 @@
     {
         "reviewId": "gp:AOqpTOFvjlLNYM0zPs1obg_cLkoG_QhjSuTNbKs_MQxXUBJsFr5pZIhh0VnzGfT-IME3IIfV5EwkCgIY7l8RFQ",
         "userName": "Garry Schaffel",
-        "userImage": "https://lh3.googleusercontent.com/-X4v50ERibRQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn7bUuBCbkGwRdNJ0hiVnV0E1sbgQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-X4v50ERibRQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn7bUuBCbkGwRdNJ0hiVnV0E1sbgQ/photo.jpg",
         "content": "Seems to be working. If you don't drink the kool-aid, and stay away from Apple this works just fine. I have not even noticed any battery drain on my Android phone.",
         "score": 5,
         "thumbsUpCount": 2,
@@ -1538,7 +1610,7 @@
     {
         "reviewId": "gp:AOqpTOGtKs2IAUlssp2Ij6EbRrk0CUoCfrpGzDzigVvUer0G4-A2SkmUhwPsGSC2cUsoVNFH0uKAzHtphZhM1A",
         "userName": "zJozsef",
-        "userImage": "https://lh3.googleusercontent.com/-fAHP-WfWTOQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclPeaf9Nxe8k5PTiOtbE8-KwdnyGg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-fAHP-WfWTOQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclPeaf9Nxe8k5PTiOtbE8-KwdnyGg/photo.jpg",
         "content": "Unlike others here, my experience is that this app's battery usage on my S9 is very minimal. That is with Bluetooth always being on. I suspect that some people are misreading their battery usage. The problem with having a manual on/off switch is that you will forget to turn the app back on when you go out. My only criticism is that Alberta has not done enough to encourage the public to use this app. As of this writing, there have been only 50,000 downloads.",
         "score": 5,
         "thumbsUpCount": 9,
@@ -1550,7 +1622,7 @@
     {
         "reviewId": "gp:AOqpTOEASXQSog50eevPZbrxDWeeBmWceJzkrJkAaUBYX-Vw5F3_92bafYRBaJeFhUZ5pBaFTc_yBmcIToNtsA",
         "userName": "Carla Bonderud",
-        "userImage": "https://lh3.googleusercontent.com/-9tmgEmOFvOg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnMuj_8Io4gd02jZHgvtupxg-ZICw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-9tmgEmOFvOg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnMuj_8Io4gd02jZHgvtupxg-ZICw/photo.jpg",
         "content": "As so many others are reporting on social media, I tried multiple times but no code was sent to my number. Update: Tried again and it worked, but uninstalled it after it had an undismissable notification when I turned off my Bluetooth when I got home and then stopped working when I turned off push notifications so it would stop doing that. Clunky design.",
         "score": 1,
         "thumbsUpCount": 7,
@@ -1598,7 +1670,7 @@
     {
         "reviewId": "gp:AOqpTOH1HJyv2umkI52A99eVkiJcRcDj8iKEM_mV2YKAK-XvV0FCmEu8k-NqtI3EC5MZU7WbLM8HGQPie0Kshg",
         "userName": "CJ Alex",
-        "userImage": "https://lh3.googleusercontent.com/-ks5MzMpnlWI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn_NwJZEsMWVl4Kc7ohr4EUaNbzYA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-ks5MzMpnlWI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn_NwJZEsMWVl4Kc7ohr4EUaNbzYA/photo.jpg",
         "content": "I downloaded it on my android phone and it worked okay, but the battery drain is horrible as noted by lots of other users. I was also irritated that despite the fact that they say it only uses bluetooth, location services had to be enabled as well or it wont work. Uninstalled it.",
         "score": 2,
         "thumbsUpCount": 0,
@@ -1610,7 +1682,7 @@
     {
         "reviewId": "gp:AOqpTOFaqC8A30XbdenkOUh-YuvNp4mUEQJWzwavEu_shI4FhirZrlXthSM8Vz1_31psy0GZSwQTMls1ZPfV3Q",
         "userName": "Blaine Morgan",
-        "userImage": "https://lh3.googleusercontent.com/-k6SVmBgNxiE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckZXwu8rtNC9nMFcVDKw5wy9he2uw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-k6SVmBgNxiE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckZXwu8rtNC9nMFcVDKw5wy9he2uw/photo.jpg",
         "content": "The Bluetooth connectivity was good for the app but it blocked out the ability to use Bluetooth calling, Bluetooth headsets and most other Bluetooth capabilities. This should have been more tested before rolling out. If your devices are unable to play to Bluetooth units Uninstaller this app to get your functionality back. Poor programing.",
         "score": 1,
         "thumbsUpCount": 2,
@@ -1622,7 +1694,7 @@
     {
         "reviewId": "gp:AOqpTOFFMOoWZDgBwe0SBFERrrcM2-4UFUPm_xiR-Sh5bnvrkKWD_8qrbti_dLljUlaXW9YlufPjAOI7uFs4Cw",
         "userName": "Kathryn Caldwell",
-        "userImage": "https://lh3.googleusercontent.com/-36RFM8Eax-k/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclahMCy8wT8ns1rnNawRcdR-IocMA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-36RFM8Eax-k/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclahMCy8wT8ns1rnNawRcdR-IocMA/photo.jpg",
         "content": "Destroys your battery. I now have to charge my battery 3 times a day because of this app. It's insane how much battery it uses.",
         "score": 2,
         "thumbsUpCount": 1,
@@ -1658,7 +1730,7 @@
     {
         "reviewId": "gp:AOqpTOG_aK4H7utGvWB8dSs5gHimrBJPPoNpIN7v7N--5dD7rgc2ZI0DIHUZj05u_Cq2R_6AvGMA_KECuh0vBg",
         "userName": "Mark Lea-Wilson",
-        "userImage": "https://lh3.googleusercontent.com/-5mgED0qVaCM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm9sHoLxblEw_JgxjzED8mNO9vfxg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-5mgED0qVaCM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm9sHoLxblEw_JgxjzED8mNO9vfxg/photo.jpg",
         "content": "Battery drainage not an issue for me, everything works fine. (Galaxy S9)",
         "score": 5,
         "thumbsUpCount": 1,
@@ -1670,7 +1742,7 @@
     {
         "reviewId": "gp:AOqpTOGP5SQk5P9JHm_CV1tb8xidc3hwThXOO-A7fsFe8uLDu5apuM2PqYlTvVl6wttJyN_jWOsJ15yWoVaVPA",
         "userName": "Wes R",
-        "userImage": "https://lh3.googleusercontent.com/-u8oFKg2E1g0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmQO_m90Mkv0xz9zMR-LyU8ufkS1g/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-u8oFKg2E1g0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmQO_m90Mkv0xz9zMR-LyU8ufkS1g/photo.jpg",
         "content": "My wife's phone is only a year old and she is unable to install this app. She gets this device isn't compatible... really I am a software developer and have a decent idea what's involved... I can understand maybe not supporting really old phones but that clearly isn't the case here. Most older people which let's be honest are people that might need this app the most have older technology. A ball has been dropped here.",
         "score": 1,
         "thumbsUpCount": 57,
@@ -1706,7 +1778,7 @@
     {
         "reviewId": "gp:AOqpTOEJ3_VAm16-CzcupJZZqiynYE_WZpGyM5zribtWv9WFYiA5FIUM0bjuSo2dsdl9Ux7vd9u2Bm3PKI-pTA",
         "userName": "Original Ouch",
-        "userImage": "https://lh3.googleusercontent.com/-ItbhDeGF0ME/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmuhhXIQY8CoDBQ7rJckZCbxCkeTQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-ItbhDeGF0ME/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmuhhXIQY8CoDBQ7rJckZCbxCkeTQ/photo.jpg",
         "content": "I deal with the public all day so I thought the idea behind the app was great. Knowing you could reach out to anyone I had steady contact with if I ever got sick gave me peace of mind. However, it drains my battery so quickly that I have since deleted the app. I can't have a phone that won't work when I need it to because my battery has died.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1754,7 +1826,7 @@
     {
         "reviewId": "gp:AOqpTOHuFdssfvhMgHqrTgEsCT0R717ZckiGq30D2vpXJqpLSijofOe2-l3_-oCpakY-tggzkzxt6ZaDaXqQYg",
         "userName": "Stephie Love",
-        "userImage": "https://lh3.googleusercontent.com/-uDC5FzetEZs/AAAAAAAAAAI/AAAAAAAAl-k/AMZuucmqVKS-cCjBAwK93LEsgWQWt5sMAg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-uDC5FzetEZs/AAAAAAAAAAI/AAAAAAAAl-k/AMZuucmqVKS-cCjBAwK93LEsgWQWt5sMAg/photo.jpg",
         "content": "Kills your battery",
         "score": 1,
         "thumbsUpCount": 1,
@@ -1778,7 +1850,7 @@
     {
         "reviewId": "gp:AOqpTOFKEjld_zlLheLWH17eUTEBysO-Nk5gAksj0EEVQJLzIh23Wr2KI_C9l2VbKhMhGSmG0QHbiIybQMcHcA",
         "userName": "W Yip",
-        "userImage": "https://lh3.googleusercontent.com/-0eoBjShwIsw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmC-nFxN8sPahJv4tb9E0s4GZ9xrw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-0eoBjShwIsw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmC-nFxN8sPahJv4tb9E0s4GZ9xrw/photo.jpg",
         "content": "I was totally surprised on how much this app draws dowm my battery , worse than f-cebook app, will be definitely removed once things cool down ...",
         "score": 4,
         "thumbsUpCount": 0,
@@ -1802,7 +1874,7 @@
     {
         "reviewId": "gp:AOqpTOFfqEIyLi-SisMYzYrQAEZEQMJ-Vwwy_BndZesubVF0q8stdMcFdFU_DuLNSKAM7lrn1d7KtjRI3d0_9A",
         "userName": "A Google user",
-        "userImage": "https://lh3.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+        "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
         "content": "2 weeks and only 10,000 downloads. Seems like a waste if you can't get more people on board.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1814,7 +1886,7 @@
     {
         "reviewId": "gp:AOqpTOFI0O_PO6W_JKHVvvzNFKOihKZNhN_KpiKzBTVCbP7sESwV2L0PqEISf25RfyF-eswqHGjNS-GtrSfBew",
         "userName": "TeamAsia86",
-        "userImage": "https://lh3.googleusercontent.com/-Jsk5Qt8rmt4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn7GiwPdDsvLDTLNJPM8lviDU70xw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-Jsk5Qt8rmt4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn7GiwPdDsvLDTLNJPM8lviDU70xw/photo.jpg",
         "content": "Kills your battery like your mom does to a piece of cake. 4 hours from full charge, and my phone is almost dead. Useless",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1826,7 +1898,7 @@
     {
         "reviewId": "gp:AOqpTOFBR9pkBtyNWbmBJVY26oVp4zNhu0Nnlno9WY9UMnE_cta2Sp1OUpK8i9C9UKm9uGr8tEvB8iCYW7OTvA",
         "userName": "Don",
-        "userImage": "https://lh3.googleusercontent.com/-CD5fG26CXqI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucns5UNOOKYuj_-mwIbqiZf5k8o84w/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-CD5fG26CXqI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucns5UNOOKYuj_-mwIbqiZf5k8o84w/photo.jpg",
         "content": "I haven't noticed any drastic battery drain on my device yet but as others mentioned the app should be able to be turned off as 95% of my time is spent in my own home. People are more likely to use the app if they don't feel that they don't need it 95% of the time but rather have the option for the 5% of the time it could be helpful.",
         "score": 3,
         "thumbsUpCount": 8,
@@ -1970,7 +2042,7 @@
     {
         "reviewId": "gp:AOqpTOHFs28YEOj6GRSLAwPREulUc79p2Tg6jMpnFl30W8dssU2Nz8627-weSxET5UrPfNvmNjR0IYjOwzeNwg",
         "userName": "Mitch Goulet",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Ggte7BMoNbRwjnNixhNIbAGOZmkNgc56cSZpXyZbg",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiAxihi9n6h2tWsWPiXcwmqcTc9tKMK2KZA29wGmA",
         "content": "Thank you, thank you, thank you! Anything to help keep better tabs on the spread and potential exposure is great.",
         "score": 5,
         "thumbsUpCount": 1,
@@ -1994,7 +2066,7 @@
     {
         "reviewId": "gp:AOqpTOEdqIUpYJtG01PynSMTgUF6TOZYqIhlDnVeBjZY29bJ-z9VpT5wrk97MIYl3b1cFX94HmDelKpJF_f4Bw",
         "userName": "Michael Bertie",
-        "userImage": "https://lh3.googleusercontent.com/-LxMZ9lTC44Q/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl-y-GmIzvl2Ymff671_ROXelEfEQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-LxMZ9lTC44Q/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl-y-GmIzvl2Ymff671_ROXelEfEQ/photo.jpg",
         "content": "Please add an \"off\" button. I shouldn't have to keep the app running while I'm sleeping or just sitting at home. Turning off bluetooth is not an \"off\" button since this app isn't the only thing that people use bluetooth for. I don't mind the battery drain since it's a useful app and I think the battery drain, when I want to use the app, is worth it. Would rate 5 stars if you had an off button.",
         "score": 3,
         "thumbsUpCount": 52,
@@ -2030,7 +2102,7 @@
     {
         "reviewId": "gp:AOqpTOHy4z3Kctae7LV5wBtJfa5xjmLSPQCY-YeFr1TiLhXdKUm1iWsH2DjL7kVCNP_AD-MrxfF2DtOlKm8-UQ",
         "userName": "GERALD SCHEPENS",
-        "userImage": "https://lh3.googleusercontent.com/-m2anEEHAs-Y/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl0QSIiie_yhkhrUCGi0XND8q3r7Q/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-m2anEEHAs-Y/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl0QSIiie_yhkhrUCGi0XND8q3r7Q/photo.jpg",
         "content": "Good intentions, but battery hog! This thing is a background app, so why does it use the most battery of any app? It sucks up 150% of the battery compared to apps I do actively use a lot! Dead phones don't trace -- they'll need to address this in order to get people on board.",
         "score": 2,
         "thumbsUpCount": 1,
@@ -2042,7 +2114,7 @@
     {
         "reviewId": "gp:AOqpTOHRTAV8opd8s_EjqDyuDfgcC3z7Ze_tY1YkLyN5nOHmiF320KIoOCYgBJU8HlwRD1N2yxQDujXRTjGZAA",
         "userName": "Loretta",
-        "userImage": "https://lh3.googleusercontent.com/-Hzcwuc8XQ1U/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckQXoMkOrV9zXKAo-CPpqjKJXK9VQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-Hzcwuc8XQ1U/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckQXoMkOrV9zXKAo-CPpqjKJXK9VQ/photo.jpg",
         "content": "Drained my battery! Downloaded the app yesterday, woke up & my phone was dead. For functionality of Covid-19 tracing, don't we need an app that won't kill off our battery so we can be reached?",
         "score": 1,
         "thumbsUpCount": 6,
@@ -2066,7 +2138,7 @@
     {
         "reviewId": "gp:AOqpTOEgeqGuygyLx76RIOUylVxjHccZ9Y_iKvt9z9GP4YP6Sklbi2s-3u0PFEVqo4rNgvd1AXUo6PfNgtDvkw",
         "userName": "Ryan Eom",
-        "userImage": "https://lh3.googleusercontent.com/-DlkLKvJ5PXk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnMKJo88YWUGvEJoQUjtrlVFsL79g/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-DlkLKvJ5PXk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnMKJo88YWUGvEJoQUjtrlVFsL79g/photo.jpg",
         "content": "Contact tracing using technology is an obvious and effective way to fight the covid-19 crisis. Well done!",
         "score": 5,
         "thumbsUpCount": 2,
@@ -2078,7 +2150,7 @@
     {
         "reviewId": "gp:AOqpTOGe6g3CYjp8wdMCoDPl9u6TbKkmirtdAubcKVPMBy3RJ4OnPcSdBJS-aidKCOxuM8GDOPxtkSxejf1s1w",
         "userName": "Patricia Bourdula",
-        "userImage": "https://lh3.googleusercontent.com/-q8opuhqCi38/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmDQ2jikKayP7T7v95xpSqqb-YXQQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-q8opuhqCi38/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmDQ2jikKayP7T7v95xpSqqb-YXQQ/photo.jpg",
         "content": "No experience. Just hope it works, it will kill me if I get it with my health issues",
         "score": 3,
         "thumbsUpCount": 0,
@@ -2114,7 +2186,7 @@
     {
         "reviewId": "gp:AOqpTOFu_HDtOO8B8C15AbTBIYrbpioaKUgB9KZ32Hq6EHtK398C3085h6ndNQCniCoknz8pr6G9_lh2Xr1sUA",
         "userName": "Sean Foisy",
-        "userImage": "https://lh3.googleusercontent.com/-1usS2hKpd6M/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmQMEhZxtHsWGIq-p4bEorR1FCX5Q/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-1usS2hKpd6M/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmQMEhZxtHsWGIq-p4bEorR1FCX5Q/photo.jpg",
         "content": "Thank you all for your service!!!",
         "score": 5,
         "thumbsUpCount": 0,
@@ -2126,7 +2198,7 @@
     {
         "reviewId": "gp:AOqpTOGZMqA1-xvxvN8q_st-M2DuWwV67N4XanZXksbVKyS5Oy9GpKH79N_2lcaaAlEWeN2VA1pKe5dXrfc71w",
         "userName": "Shar Piper",
-        "userImage": "https://lh3.googleusercontent.com/-4254t97hux8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckzuKcBa4421t8Gsu7ASmKV9tMHrg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-4254t97hux8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckzuKcBa4421t8Gsu7ASmKV9tMHrg/photo.jpg",
         "content": "Worked for a few days now won't let me upload. No one sends a text either.",
         "score": 2,
         "thumbsUpCount": 0,
@@ -2150,7 +2222,7 @@
     {
         "reviewId": "gp:AOqpTOE6x7ygdQz_DuRmDeX2oTReNRjPQv_u042pusihbx2y8Du5GEg27Lw4ePMqZwRNP_o4VhejqtPHqvtspg",
         "userName": "Dwayne Zon",
-        "userImage": "https://lh3.googleusercontent.com/-5sJC2LXUCT4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnpB0gyKzvZ-yImpiVrgHtepNN6tw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-5sJC2LXUCT4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnpB0gyKzvZ-yImpiVrgHtepNN6tw/photo.jpg",
         "content": "Used 50% if the battery on my S9 in half a day and I never left the house. Good idea but bad implementation. Uninstalled.",
         "score": 3,
         "thumbsUpCount": 0,
@@ -2162,7 +2234,7 @@
     {
         "reviewId": "gp:AOqpTOHcDvbSE9uhSR872y8k5f5oeN41nZUjINOr4f37ViJojkwSsafP5GSMY7uATJ6_dKv741dxtF5XDDzSNA",
         "userName": "Jumping Xing",
-        "userImage": "https://lh3.googleusercontent.com/-uj3xvRHs70Q/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnXjGQbiDtlG9zMctt0BlSFP54Kpg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-uj3xvRHs70Q/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnXjGQbiDtlG9zMctt0BlSFP54Kpg/photo.jpg",
         "content": "Couldn't install in my Android 6.0 phone.",
         "score": 2,
         "thumbsUpCount": 0,
@@ -2186,7 +2258,7 @@
     {
         "reviewId": "gp:AOqpTOFP2VHZklrB6mvh-mk0AI6kF00icatYXstCiWrXrf3CrOYtlMUUmJDbN3Qz8B7xZ2e1sta7FxTa7U3BqQ",
         "userName": "Stewart St. Dennis",
-        "userImage": "https://lh3.googleusercontent.com/-EOtGAd65hIA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl9QU0TRm3jiVokHoJ4llFjyzGV-w/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-EOtGAd65hIA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl9QU0TRm3jiVokHoJ4llFjyzGV-w/photo.jpg",
         "content": "The daily power consumption is high. It never runs in the background. Hopefully the next release will reduce per consumption.",
         "score": 4,
         "thumbsUpCount": 1,
@@ -2222,7 +2294,7 @@
     {
         "reviewId": "gp:AOqpTOEZdyil-GRJduDakSwVBSGQfVxvqyvQ9csedZrAgnJnNLZ5gGHn-4swgZdhEpKeXNWe9lpTLQe4gpjTHA",
         "userName": "Elon Gates",
-        "userImage": "https://lh3.googleusercontent.com/-pvD8H8JiMow/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm6moXrODHtRPzdipV4bDauwiiC4A/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-pvD8H8JiMow/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm6moXrODHtRPzdipV4bDauwiiC4A/photo.jpg",
         "content": "Keeps saying \"something went wrong try again\"",
         "score": 1,
         "thumbsUpCount": 2,
@@ -2258,7 +2330,7 @@
     {
         "reviewId": "gp:AOqpTOE_6LQLOeSt613e6DWoizH4c4NYTdJuW3Bh7wIzvJhrJ6DxP9_FsXiQPHBB8wNCd2KdS84fdmlPrU_4IQ",
         "userName": "Alex O'Flaherty",
-        "userImage": "https://lh3.googleusercontent.com/-FhPI0PlNtf8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck3VwaD4yEWAU-ceDHnMadFOxzlsw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-FhPI0PlNtf8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck3VwaD4yEWAU-ceDHnMadFOxzlsw/photo.jpg",
         "content": "Won't let me add phone number so I am unable to use this. When I try to add it the app says, \"unfortunately something wrong. Please try again.\"",
         "score": 1,
         "thumbsUpCount": 6,
@@ -2366,7 +2438,7 @@
     {
         "reviewId": "gp:AOqpTOGEoSA0qQ2pyOvufhq70IwiMv5vEOvr0Y53X2Id7wLy2Y-nuW5nvTmS_1raDDipRJyCeLcDtqz2-CGIBA",
         "userName": "Tyler Bernakevitch",
-        "userImage": "https://lh3.googleusercontent.com/-mG3Cm_xn7Xs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn_REXoOhI0POhS0WFUqTnp5eV1bw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-mG3Cm_xn7Xs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn_REXoOhI0POhS0WFUqTnp5eV1bw/photo.jpg",
         "content": "Works as expected. Have not experienced issues with high battery usage. The app has used about 1% over the entire day while the phone is off the charger. Using a Samsung Galaxy S10. Data usage - it has used just under 1 MB in the 4 days installed. 4 stars because the app gives a constant notification that it is in use, but you can't swipe it away. I turned notifications off and will to turn them on when I am out. The app should have a badge system based on consecutive days stayed home!",
         "score": 4,
         "thumbsUpCount": 13,
@@ -2378,7 +2450,7 @@
     {
         "reviewId": "gp:AOqpTOEKf9fAbelO_IYCf0wiQ4h_zwFuTfWfZG7x4cXi94BYJ7n8-6LnCSKNkl3_9oiB297F5Ojvf84whbGmCA",
         "userName": "Raymond Christenson",
-        "userImage": "https://lh3.googleusercontent.com/-hTKDQrKZeSw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclwfplzXV_Ta2zwU8qOQ-2SWT2rew/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-hTKDQrKZeSw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclwfplzXV_Ta2zwU8qOQ-2SWT2rew/photo.jpg",
         "content": "OK. But it should record any time you're within 2m of another. Not just waiting for 15 minutes. Only takes a second to catch the virus.",
         "score": 3,
         "thumbsUpCount": 3,
@@ -2390,7 +2462,7 @@
     {
         "reviewId": "gp:AOqpTOFdQsDZuKwllYLG73wbt3CDVisxqR_lhrBfJcmdA5bQMpADrpTtfAkGDiVTcMNWAGqxfl3ibQB2DGnF8g",
         "userName": "Anna Glenn",
-        "userImage": "https://lh3.googleusercontent.com/-H_9FSoPY52s/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmQE_oiw9ITceqbcHjYelgr1mzVpw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-H_9FSoPY52s/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmQE_oiw9ITceqbcHjYelgr1mzVpw/photo.jpg",
         "content": "The app runs in the background. For those worried about battery drainage, turn off Bluetooth when in your home. I hope this will help AHS deal with COVID19",
         "score": 5,
         "thumbsUpCount": 2,
@@ -2426,7 +2498,7 @@
     {
         "reviewId": "gp:AOqpTOG7GKc--UqyfLj8orfq3-x9RO4eC9WjO0BV3OixM4jH4Eyx1_bufjmHYWTM4LNR9Mj626SrUP_x_HquRw",
         "userName": "Brent",
-        "userImage": "https://lh3.googleusercontent.com/-tRwZ960J_XA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckysYqR8zyaVXCGV9oJgDDcA_kmLA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-tRwZ960J_XA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckysYqR8zyaVXCGV9oJgDDcA_kmLA/photo.jpg",
         "content": "Great work getting it created quickly!",
         "score": 5,
         "thumbsUpCount": 0,
@@ -2450,7 +2522,7 @@
     {
         "reviewId": "gp:AOqpTOE4gX4SqQTGzxa3NMFbEVLxHzcs167Cyflg2wLlr83OXt3W1AKcmhUCHEZ2c-trQtubk6ABv8xccB7e_Q",
         "userName": "John Wang",
-        "userImage": "https://lh3.googleusercontent.com/-p9GWkiLelKQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckys2ejrnFlPXSFj6QOCFLtYlxkJA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-p9GWkiLelKQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckys2ejrnFlPXSFj6QOCFLtYlxkJA/photo.jpg",
         "content": "Finally got it loaded. The app requires Android 8+ to run so I had to go to my play phone, Copy an image of TWRP to it, Copy an open source zip of Android 10 to it, copy a zip of Opengapps to it, flash the recovery with TWRP, use TWRP recovery to wipe the phone and flash Android 10 and the basic Google apps, then configure the phone and install the app. I took two days to plan it rather than risk bricking the phone. Could they simply have ported to more revisions of Android?",
         "score": 3,
         "thumbsUpCount": 3,
@@ -2461,7 +2533,7 @@
     },
     {
         "reviewId": "gp:AOqpTOHf5UGfQfGHR3OXBRrMPZIkM405YMo9Vn4oBZ99HkDFK6_xoc9D7BTRjWp0u3wTOlvn-IA96Oeww7YjIg",
-        "userName": "Ashley E",
+        "userName": "A B",
         "userImage": "https://lh3.googleusercontent.com/-G_zqjtyTiB0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckQEAYLwmlCLNLTDBFYettzwRzPtQ/photo.jpg",
         "content": "Drained a full batter in less than 4 hours. Now my phone says that this app needs to be closed because it's overloading my CPU. I have a Galaxy S9+. Good idea, needs work if they want people to actually use it.",
         "score": 1,
@@ -2534,7 +2606,7 @@
     {
         "reviewId": "gp:AOqpTOH61MZVHMrP8RZneloLUTtHHPNcKmtRyyy5Tb862bJdViNJCkV3GPX4jJ-qcXOlOGHg_3kfDbaY-8rCYA",
         "userName": "Bryan Wicentowich",
-        "userImage": "https://lh3.googleusercontent.com/-1oURBzhmG38/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmJRSptqRfPdIHzfziFVM6KZd632w/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-1oURBzhmG38/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmJRSptqRfPdIHzfziFVM6KZd632w/photo.jpg",
         "content": "Doesn't send the code,now works",
         "score": 5,
         "thumbsUpCount": 2,
@@ -2558,7 +2630,7 @@
     {
         "reviewId": "gp:AOqpTOFdYLWDhwk9IiI3nVhfHiqBSpQnZE4wsB3jx2smADNICAZyWFwf0FujL3FywiqaDJwACGMVQRSKW-19Aw",
         "userName": "Steven Murrell",
-        "userImage": "https://lh3.googleusercontent.com/-7hkqNogKJpo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnkt9nd4qpYCdnP3xnIOXcVeMseCg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-7hkqNogKJpo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnkt9nd4qpYCdnP3xnIOXcVeMseCg/photo.jpg",
         "content": "Yes it probably tracks you to see if you have come into contact with someone sick. But drains your phone battery.",
         "score": 2,
         "thumbsUpCount": 0,
@@ -2582,7 +2654,7 @@
     {
         "reviewId": "gp:AOqpTOEIIVtWucmuoHs9LXDhCpXWBaeDX4hbQHL8utmmMozAzDpy8jMkVuJVsSm6P2ofrOfUZjyhLWKDV4MGoQ",
         "userName": "Melissa Bellingham",
-        "userImage": "https://lh3.googleusercontent.com/-5IQ0f4OoSH8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclptQWdIMj8c5oNFN2yiVCEIvaZKg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-5IQ0f4OoSH8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclptQWdIMj8c5oNFN2yiVCEIvaZKg/photo.jpg",
         "content": "I don't like the notification that has to be present at all times but oh well. My main complaint is that this app needs to be compatible with older model smartphones. My mother is older and has an older phone as I'm sure many older people do. She now can't use this app even though seniors are the most at risk.",
         "score": 3,
         "thumbsUpCount": 14,
@@ -2618,7 +2690,7 @@
     {
         "reviewId": "gp:AOqpTOHV6z7iJOX38GzgS0lb6gZHKoRxKyswwIlQweegEEj-Oicc6tBRKhhAiJ2ySJ43S1X-kllDl5lddWzlqQ",
         "userName": "Ricci Hoggard",
-        "userImage": "https://lh3.googleusercontent.com/-Gs20v-ABbIA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclMMd5Y6r0bNC6aDcujSrTKFSWWiw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-Gs20v-ABbIA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclMMd5Y6r0bNC6aDcujSrTKFSWWiw/photo.jpg",
         "content": "Terrible for iPhone. Completely unuseable for iPhones. Needs to run in forgeound similar to a navigation app, with screen on. That's a bit of an oversite. Half of population owns an iPhone and they won't be using this app. It's completely rediculous. Please fix this.",
         "score": 1,
         "thumbsUpCount": 6,
@@ -2654,7 +2726,7 @@
     {
         "reviewId": "gp:AOqpTOFLkdAXSoTuwGmyzGvxT8_a4as16BwEnE8EDmqY213aMNyztvREZ711bxGaoNI-X4a1A1JQ32Px5RswsQ",
         "userName": "Louise P",
-        "userImage": "https://lh3.googleusercontent.com/-Ef5Cq6IL-HA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmiLGLimF8M63rtYgvZpvvJLjo1tw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-Ef5Cq6IL-HA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmiLGLimF8M63rtYgvZpvvJLjo1tw/photo.jpg",
         "content": "Had to get code four times because, even though I entered the correct number, it told me either the number was wrong or did nothing at all. Had to press other keys multiple times to get it to advance. Annoying. Hope it works better than the set up.",
         "score": 3,
         "thumbsUpCount": 5,
@@ -2678,7 +2750,7 @@
     {
         "reviewId": "gp:AOqpTOFH9_JdPly525MYyaQoecTf9qrRN9hxEVVnFXfpgC86r9yHwpwo-CVNVFEM-bDSEn2Xq-lkb5VQmh34TQ",
         "userName": "Neda Coffee",
-        "userImage": "https://lh3.googleusercontent.com/-9KSONK0APNE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucngjlGu4AcxewKJ7xmY24p1gm27JA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-9KSONK0APNE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucngjlGu4AcxewKJ7xmY24p1gm27JA/photo.jpg",
         "content": "Just downloaded it last night, so no valid remarks yet. I'll update when I have something useful to say.",
         "score": 3,
         "thumbsUpCount": 0,
@@ -2774,7 +2846,7 @@
     {
         "reviewId": "gp:AOqpTOG3zSWMpI7JDYjG8Uh5o_TzWlcg2aMDIB4-x4AILZe3a-5Vobdkf5H7PxNRGPNCp25A-jX2KEo1cuuX5Q",
         "userName": "Connor Earl",
-        "userImage": "https://lh3.googleusercontent.com/-lhzB4KD0YFM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnMcTqFSI6fgRTXUkwDUx-0y8E_-Q/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-lhzB4KD0YFM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnMcTqFSI6fgRTXUkwDUx-0y8E_-Q/photo.jpg",
         "content": "This app shouldn't require a persistent notification. Why didn't we build an app that uses the apple/Google APIs for exposure notification?",
         "score": 3,
         "thumbsUpCount": 1,
@@ -2822,7 +2894,7 @@
     {
         "reviewId": "gp:AOqpTOEjqQ0GYa9AMK7PbHGZueOqtyVR-6ffXnv16dzy1VSzkgIlx3K6QS3LK4CE1QSRbV0buKycDfC12N1LQQ",
         "userName": "John Mercer",
-        "userImage": "https://lh3.googleusercontent.com/-zAPTuUfvz7g/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclcGTKvXx5sCqrKMVDZNHh37_Zffg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-zAPTuUfvz7g/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclcGTKvXx5sCqrKMVDZNHh37_Zffg/photo.jpg",
         "content": "I have no icon, app doesn't show up in my list of apps, and yet Google play says its installed. How do I know if it's working?",
         "score": 1,
         "thumbsUpCount": 0,
@@ -2858,7 +2930,7 @@
     {
         "reviewId": "gp:AOqpTOFPNH5MxMnU_pPv-RJ_HlVKPUcmrydhfigE-WAJmHBQFUpfAok9PGZR8W2-wYJvc4P9YQdYKqFxIAo2Lw",
         "userName": "C S",
-        "userImage": "https://lh3.googleusercontent.com/-a2WsGpra3xQ/AAAAAAAAAAI/AAAAAAAARBI/AMZuucnvXz7arhUisFql7k3tKGzHhS7EFQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-a2WsGpra3xQ/AAAAAAAAAAI/AAAAAAAARBI/AMZuucnvXz7arhUisFql7k3tKGzHhS7EFQ/photo.jpg",
         "content": "Issue is finally resolved with SMS validation. It remains to be seen if this will affect battery life but otherwise the app works as intended at this point in time. Thanks for ABGov and AHS for working on new tools rather than focusing on old methodologies alone.",
         "score": 5,
         "thumbsUpCount": 3,
@@ -2882,7 +2954,7 @@
     {
         "reviewId": "gp:AOqpTOE71mjV1q9xbLEHsKhWyJRhNYKXMAusMPOo9oNGqYKyH0TtMfOGc4MQr65_el8gy2NCefFvWLDXPUIOug",
         "userName": "Tammy Turner",
-        "userImage": "https://lh3.googleusercontent.com/-bvycW5v7BNc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclOvMgKwgjFL6y9X7UCIDl3bpTftA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-bvycW5v7BNc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclOvMgKwgjFL6y9X7UCIDl3bpTftA/photo.jpg",
         "content": "Had no issues getting a code & setting up the app",
         "score": 5,
         "thumbsUpCount": 0,
@@ -2894,7 +2966,7 @@
     {
         "reviewId": "gp:AOqpTOGkKyVu5LEWDiGZptp4AKwAALfOIzx_i0W1ceuA4xUhhYwY21A1WERQlqpQZKZ1gGooGhePNs5giDLNoA",
         "userName": "N A",
-        "userImage": "https://lh3.googleusercontent.com/-rJrfh3ZD5W4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclF2jODu5xbP6rMR1XVCW4Ye4QBag/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-rJrfh3ZD5W4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclF2jODu5xbP6rMR1XVCW4Ye4QBag/photo.jpg",
         "content": "Worked for me. Got my code right away.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -2918,7 +2990,7 @@
     {
         "reviewId": "gp:AOqpTOFPsgcWUAESiccqQD29gLruGwNhf_kMkLNVu_Ejt1dNjyix5kZeKTMBXHw0u-9EvFuXUbFPP5k0OX1yOA",
         "userName": "Daniel Rochemont",
-        "userImage": "https://lh3.googleusercontent.com/-M6AhFR7XJNM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck5MQAR-xMIUNqVKjzly2dkt4zh3w/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-M6AhFR7XJNM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck5MQAR-xMIUNqVKjzly2dkt4zh3w/photo.jpg",
         "content": "The text message with the code to register takes way longer than 2mins to recieve. I have not been able to register successfully after countless attempts.",
         "score": 1,
         "thumbsUpCount": 2,
@@ -2990,7 +3062,7 @@
     {
         "reviewId": "gp:AOqpTOHLRybHDgHvlzcwTZT1h7mOQkLg6I5gV2JYFVRnOAaz-5Uu8LLGh37EfqA-DX-80qbhVX-X4WvPk_tnYg",
         "userName": "Mike Leavitt",
-        "userImage": "https://lh3.googleusercontent.com/-7rOy7giENlg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnLDqZR97MqG2we6GuhJvGJwrmiLA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-7rOy7giENlg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnLDqZR97MqG2we6GuhJvGJwrmiLA/photo.jpg",
         "content": "Eady to setup and received my code immediately, great idea to help stop the spread. They don't ask for any personal data just your phone number.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -3002,7 +3074,7 @@
     {
         "reviewId": "gp:AOqpTOGwRumJa4FNTqCVQTbxm5kwRXv-4hZ06-581xoJUxJd_w_D4WPNkLol-bfFZPnhYMJtfPYMbvVhjOrHEg",
         "userName": "Daniel Bosshard",
-        "userImage": "https://lh3.googleusercontent.com/-GUel7Sluz-0/AAAAAAAAAAI/AAAAAAAAAMg/AMZuucnOpfxzSmzYoghYh9IFrJdbKh--SQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-GUel7Sluz-0/AAAAAAAAAAI/AAAAAAAAAMg/AMZuucnOpfxzSmzYoghYh9IFrJdbKh--SQ/photo.jpg",
         "content": "Easy to set up. Works great",
         "score": 5,
         "thumbsUpCount": 0,
@@ -3062,7 +3134,7 @@
     {
         "reviewId": "gp:AOqpTOFBafQHWX0yP5TTDYMwcemG140Hj55Omk7EP8wMADk28endAALqxjivvCf9Nxpq3knkM3c49a43PLWCwg",
         "userName": "Lyndsay Clarke",
-        "userImage": "https://lh3.googleusercontent.com/-fgpVof_ZwxI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmtcFSULY8TaeS7XL0Y9zpXHwQfeA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-fgpVof_ZwxI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmtcFSULY8TaeS7XL0Y9zpXHwQfeA/photo.jpg",
         "content": "So far so good, super easy to set up, received my code straight away",
         "score": 5,
         "thumbsUpCount": 0,
@@ -3074,7 +3146,7 @@
     {
         "reviewId": "gp:AOqpTOHas0oI4K4QkhuwLfS9P5te8OyPPe66C45UK5Z1EzhM0T2uK7k-3KQXvzuRlT-fFwxsmxFHKcBXfBAalQ",
         "userName": "Deborah Knott",
-        "userImage": "https://lh3.googleusercontent.com/-0VY3nNnlu8U/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckhNXHficxqHkGTf7QdEOJPQbpD0Q/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-0VY3nNnlu8U/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckhNXHficxqHkGTf7QdEOJPQbpD0Q/photo.jpg",
         "content": "Can't enter the code. Tried 6 times. Would like to participate but maybe you could get one that works!!!!!!!!!!",
         "score": 1,
         "thumbsUpCount": 0,
@@ -3086,7 +3158,7 @@
     {
         "reviewId": "gp:AOqpTOEOfVBmKVzMM47B0kBg8WPTIrXBDjg6B7D1pu36M1uDK__IDW24QPgmIweJVIEjvbq_rl4Tk-8vB0RSXg",
         "userName": "Tyson Pyne",
-        "userImage": "https://lh3.googleusercontent.com/-zI-Ke1_aUHs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmEmhmqA_rb6n2ey3_lpaDZoBR-HA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-zI-Ke1_aUHs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmEmhmqA_rb6n2ey3_lpaDZoBR-HA/photo.jpg",
         "content": "Good idea. Had some trouble entering the code to get started. Just waited a few hours and tried again and it worked",
         "score": 5,
         "thumbsUpCount": 1,
@@ -3098,7 +3170,7 @@
     {
         "reviewId": "gp:AOqpTOGbG9hqPqTcUlEkStlgChRBKxEt2QLvUFEA20TD_YTA54kS_0mCRO_pW3w4UkWT8AFiEKLPfgwdC4ERcQ",
         "userName": "Peter Mc Donough",
-        "userImage": "https://lh3.googleusercontent.com/-W5_Gt1LMcfE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclVXUlgJLenP_qTUGeNTMSTpAsFiw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-W5_Gt1LMcfE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclVXUlgJLenP_qTUGeNTMSTpAsFiw/photo.jpg",
         "content": "Freezes when I try to get the text code. Not useable.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -3146,7 +3218,7 @@
     {
         "reviewId": "gp:AOqpTOECmLZrxNo8_weafnMQGaP0Mie1dLLOwVvAkAeFyKKV4Q9DP3tX_Nt_iXKB5dVOxebhoyLx1SgOcVbv1g",
         "userName": "Martin K",
-        "userImage": "https://lh3.googleusercontent.com/-CvnqSd7aCNA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucka5mGlW5au-jXfUw0PIIs_BImR_A/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-CvnqSd7aCNA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucka5mGlW5au-jXfUw0PIIs_BImR_A/photo.jpg",
         "content": "Technical issues fixed",
         "score": 5,
         "thumbsUpCount": 0,
@@ -3158,7 +3230,7 @@
     {
         "reviewId": "gp:AOqpTOFg6Bj8l9EQ3wSsAZKVPSqQpawEeRwEsHX3SRJ_qdPbowEbqs6jbqh3l9nvTYIj3REZgOgQBSzzubHhSg",
         "userName": "Jane Burkett",
-        "userImage": "https://lh3.googleusercontent.com/-GAzRGBOcx8M/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmraRbHRaB6-HyFFcqmD8yNCqndsQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-GAzRGBOcx8M/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmraRbHRaB6-HyFFcqmD8yNCqndsQ/photo.jpg",
         "content": "Had no problems with it. I downloaded it to my laptop, then I synced in with my google and hey presto the app went straight onto my phone. I then was able to get my code verification right away and app is now fully working. You have to make sure you read through the privacy info and check mark otherwise no verification code. Am glad to do it for my self and for others.",
         "score": 4,
         "thumbsUpCount": 21,
@@ -3230,7 +3302,7 @@
     {
         "reviewId": "gp:AOqpTOHfSf19xPNdPuv6iLUVcMwtsnW1QzkGPiUQ7nGpKDaJ_Ia8eTpIll1Y5lTy5vLii4EDsdv4GBBcbMZ1Sw",
         "userName": "James Hutchison",
-        "userImage": "https://lh3.googleusercontent.com/-oq6Q3Q5DM-M/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmZo1Mwwb6YVOxya3uEfqaZFghZLg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-oq6Q3Q5DM-M/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmZo1Mwwb6YVOxya3uEfqaZFghZLg/photo.jpg",
         "content": "Expires code too quickly. Tried 8 times but couldn't get code in. Uninstalled.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -3266,7 +3338,7 @@
     {
         "reviewId": "gp:AOqpTOGl49QpbbHVotgkZnuZzheP-MqIEK_jEz9EPy3Bhr9zBhmoLWI6vgUL0e93Ws1OazEYbH4b-QiDzMoQxQ",
         "userName": "Ryan Bizuk",
-        "userImage": "https://lh3.googleusercontent.com/-CiDo4XQ66Ps/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmik4hfwOunkFydBoIoJTmShbvlYw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-CiDo4XQ66Ps/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmik4hfwOunkFydBoIoJTmShbvlYw/photo.jpg",
         "content": "Absolutely no problems getting the code the first time. Wife had to get the code sent to her a second time (by clicking back and then next during setup). Uses bluetooth (not geolocation) for tracking so it's not tracking where you've been but rather if you've been within 2 meters of another phone with the app using non-idenifying data; all data is scrubbed after 3 weeks. This is an excellent privacy compromise. Absolutely worth it if it helps us all return to normalcy faster.",
         "score": 5,
         "thumbsUpCount": 28,
@@ -3278,7 +3350,7 @@
     {
         "reviewId": "gp:AOqpTOEYXWiu9KMJMa5-SiifHqbj7R738MA_aBc0YkAXerm336odaePvh7oUUIWWCU19yCsE1uVclrxOmt11cA",
         "userName": "Lucy Philip",
-        "userImage": "https://lh3.googleusercontent.com/-lwDl_COnB5o/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnZDNRBjNz6I3qAsD26QRFkzRZbsA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-lwDl_COnB5o/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnZDNRBjNz6I3qAsD26QRFkzRZbsA/photo.jpg",
         "content": "I download the app, get sent a code, but when I go back into app after retrieving text, the pin screen is gone and there is no way to get back in, it won't even let me re-input my phone number again. I then uninstall, reinstall and start the whole dance again. How do you get back to pin screen?",
         "score": 1,
         "thumbsUpCount": 0,
@@ -3302,7 +3374,7 @@
     {
         "reviewId": "gp:AOqpTOGskKinjCajz9Nx1Etd8WdZMqP-kM2bX5MkjxK6Lgt-wiSc_hKNEJ9IbqgYnD0O9xhauq8sAOIlHrPTTw",
         "userName": "G G",
-        "userImage": "https://lh3.googleusercontent.com/-kn9bSqB0_bE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclgHv4VnOtZG2J16hFCEvt-5eGIIg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-kn9bSqB0_bE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclgHv4VnOtZG2J16hFCEvt-5eGIIg/photo.jpg",
         "content": "No opinion yet, but installed and registered without issue. Maybe if it told you how many people it thinks you were near, we could evaluate it's effectiveness.",
         "score": 3,
         "thumbsUpCount": 1,
@@ -3326,7 +3398,7 @@
     {
         "reviewId": "gp:AOqpTOEADv9JP8oOXh-K0s2SLFAU-v0O0qwYj31ednKiCXCNoyJgt_HayMX0cbfKMaEshZ9nFD2enR5TM562sw",
         "userName": "Rudy Palovcik",
-        "userImage": "https://lh3.googleusercontent.com/-xIH68LCFnBQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn6whCZnz3Lps2gwsQ1vQhbVpNfKg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-xIH68LCFnBQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn6whCZnz3Lps2gwsQ1vQhbVpNfKg/photo.jpg",
         "content": "App timed out before code can be obtained and entered. Tried several times without success. Need more time to enter code.",
         "score": 2,
         "thumbsUpCount": 0,
@@ -3386,7 +3458,7 @@
     {
         "reviewId": "gp:AOqpTOHLPIzgivk1O7I7NGLZXw3rdkveBCQE_7IfHD_1fRjfnLlb_VZynePOV_KVUTA-VYXxaufMosh8__f9IA",
         "userName": "Jeff Kok",
-        "userImage": "https://lh3.googleusercontent.com/-3Cm-wGMc6_c/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmdPGsSY3VCRuI1lcMRxXygaxmqJQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-3Cm-wGMc6_c/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmdPGsSY3VCRuI1lcMRxXygaxmqJQ/photo.jpg",
         "content": "Works great on an Samsung S9. I have two critiques. 1 - Someone in the government must have a contact at Apple to see if theres a way to reduce the steps and way it works on IOS devices. If Apple needs to do an emergency release to help out governments, then that should happen. 2 - When you click on the upload and you get the warning to only do this if you've heard from ABHealth. The next button should be changed to a swipe to make it less likely that its inadvertently pressed. Cheers!",
         "score": 5,
         "thumbsUpCount": 3,
@@ -3422,7 +3494,7 @@
     {
         "reviewId": "gp:AOqpTOEps5xwS7om5t5O5CKBfrGsfqPVbr5W_pf2FuZ-68W4ttxBfptrRK328PMUO53QWtOA4rOCZ1J3ah79PA",
         "userName": "Riley Schaaf",
-        "userImage": "https://lh3.googleusercontent.com/-aC5XjhVr6jk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm9qBhDS0fnKn_Kac3-g0O1dCpMLA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-aC5XjhVr6jk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm9qBhDS0fnKn_Kac3-g0O1dCpMLA/photo.jpg",
         "content": "If you are having trouble receiving the code, try requesting it at non-peak hours. I downloaded the app during the day and requested the code multiple times without luck. I tried again at 11:00pm and received the code right away.",
         "score": 5,
         "thumbsUpCount": 2,
@@ -3458,7 +3530,7 @@
     {
         "reviewId": "gp:AOqpTOGFoIey_u3Iqos1BE91mvZSxx2ZJUar0gu5tp8ULfsbI-50aQnNUSu_vJMc9IFeA_QufH3Mz6vjSoKcqA",
         "userName": "shirley torresan-chykerda",
-        "userImage": "https://lh3.googleusercontent.com/-fTA_LPUGixc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucndCNWHPObZIcvsbJuWCc4NgrAedA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-fTA_LPUGixc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucndCNWHPObZIcvsbJuWCc4NgrAedA/photo.jpg",
         "content": "Very easy install. Took a couple seconds to get verification code and activate. Hope I never need it.",
         "score": 5,
         "thumbsUpCount": 1,
@@ -3494,7 +3566,7 @@
     {
         "reviewId": "gp:AOqpTOG2fJy0Oh235ONv0T74Gi3NwcafpRd6sPQpULZcGl0Xx83fJ3KwcI80nUXCfTnGFlxZlf-3ERbSnKnCjw",
         "userName": "Linda Wolbaum",
-        "userImage": "https://lh3.googleusercontent.com/-EgucHln0SI0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnk-Trizza_P3rH5K_8_Je0cvYdmg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-EgucHln0SI0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnk-Trizza_P3rH5K_8_Je0cvYdmg/photo.jpg",
         "content": "Update to my previous 2 stars - I was able to easily get the code when I waited till the next morning. So now the real test begins. Does it work as promised?",
         "score": 4,
         "thumbsUpCount": 4,
@@ -3506,7 +3578,7 @@
     {
         "reviewId": "gp:AOqpTOEVCA5c7aUi4MDg2C6oJJzP7A8TOY_ZCopBt5RXZ2p-x_GEIT0tyiwMWopXyUi7cNU7YRXK8KQngGMILw",
         "userName": "Catherine Van Brunschot",
-        "userImage": "https://lh3.googleusercontent.com/-DLE3hbOtFgg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck7jvdqv6gMd5QWBP1BsxU_BiCMXw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-DLE3hbOtFgg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck7jvdqv6gMd5QWBP1BsxU_BiCMXw/photo.jpg",
         "content": "Loaded well. No issues.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -3518,7 +3590,7 @@
     {
         "reviewId": "gp:AOqpTOEnPYOL_pR7gtcnII_Gs9-4_yGvDOTqtH5CFDMTzI3Pmned4WvGGRWsZPhhBgIZEEYJS1VOLXTAC1HeYA",
         "userName": "Brittany Ohe",
-        "userImage": "https://lh3.googleusercontent.com/-5OP8ntgNJ4k/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclh_ffm-Z8i0R3X-80In9LgqOu9iQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-5OP8ntgNJ4k/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclh_ffm-Z8i0R3X-80In9LgqOu9iQ/photo.jpg",
         "content": "Had to uninstall and reinstall to get activation code to work. Appreciate we have an app for this important cause.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -3698,7 +3770,7 @@
     {
         "reviewId": "gp:AOqpTOEa8iVtk5pyetffnnB0akGwQxrX6-yolRem_Nfa64Hz6wnl0s0tFdcNounZNeuwbRxj43kG7QvMHVXuUg",
         "userName": "Carrie Ellen Hawryluk",
-        "userImage": "https://lh3.googleusercontent.com/-8Ud1W3ikjOU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck0wDIpiEj39SyqAO9oeKiou6GxLg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-8Ud1W3ikjOU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck0wDIpiEj39SyqAO9oeKiou6GxLg/photo.jpg",
         "content": "Hubby and I on the Huawei phones and did it at the same time at home and both of us got the code within seconds. He did say though that he tried earlier in the day several times from his work and didn't get the code.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -3758,7 +3830,7 @@
     {
         "reviewId": "gp:AOqpTOGIrn6SRG0t5n_0TXMySi_j5wYWdvseedjrUsd_Gyy6Z7tkhG0j2-BRPCjYoVPluxImCK7ayOflgUll4Q",
         "userName": "Alex He",
-        "userImage": "https://lh3.googleusercontent.com/-8-NMw7D_H8I/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm42u4ciPMRMk9NyTpc8GMFzTLG2g/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-8-NMw7D_H8I/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm42u4ciPMRMk9NyTpc8GMFzTLG2g/photo.jpg",
         "content": "Thanks! I will use the app when I am out next time.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -3842,7 +3914,7 @@
     {
         "reviewId": "gp:AOqpTOF0t62g398LqAkNNWgJ4HreFpyYQVNvuhdaqWe0EaQ9_ktM__dnFuGlK2JU-k6UgpO_VXdK5gG-H1VzLQ",
         "userName": "Dan Guo",
-        "userImage": "https://lh3.googleusercontent.com/-3fsaEKPUIh4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnBNwU7kT5HlX1KDbVDVUSXPyMoIw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-3fsaEKPUIh4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnBNwU7kT5HlX1KDbVDVUSXPyMoIw/photo.jpg",
         "content": "Good. Easy setup. Received the code instantly.",
         "score": 5,
         "thumbsUpCount": 1,
@@ -3890,7 +3962,7 @@
     {
         "reviewId": "gp:AOqpTOGy4NOfxvZ0kWdD25tf8ovH0CrwV_4khlNLNOxZ4SxOZAWW4Q-j-qxsjXbkGJWD-woPEis9ojKJz3a5ig",
         "userName": "Laura Moffatt",
-        "userImage": "https://lh3.googleusercontent.com/-6yx8xRi7iyY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmFkDHLYKPl453t7EqBw2IjwD4qdg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-6yx8xRi7iyY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmFkDHLYKPl453t7EqBw2IjwD4qdg/photo.jpg",
         "content": "Downloaded fine and no problem with the verification code",
         "score": 5,
         "thumbsUpCount": 0,
@@ -3902,7 +3974,7 @@
     {
         "reviewId": "gp:AOqpTOEQvXx1vxhnBcakYtzVf-fSuE508tqymR8P41MFWkdyXeS81BCwbqZ1QxOdV7HYxixO5Qgbue-roFnFDA",
         "userName": "shaun garn",
-        "userImage": "https://lh3.googleusercontent.com/-jc9SMFCHVaA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnCDNVeXMEgDE3azzUwebQTlv3KMQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-jc9SMFCHVaA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnCDNVeXMEgDE3azzUwebQTlv3KMQ/photo.jpg",
         "content": "Had the same problems. Just restart you phone and it works...",
         "score": 5,
         "thumbsUpCount": 0,
@@ -3938,7 +4010,7 @@
     {
         "reviewId": "gp:AOqpTOFmshCdlQGWlmzKVx1BXPDuvXBCfHffxmXz-FbM75y-HqbKftXhZZKQFFs9vFh6GOzUzL5sLJZayMpPqA",
         "userName": "Paul Jenkins",
-        "userImage": "https://lh3.googleusercontent.com/-ZnJl_muQZzU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckoYNOK-MeFxJ46q96R2wCZ7VCmuA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-ZnJl_muQZzU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckoYNOK-MeFxJ46q96R2wCZ7VCmuA/photo.jpg",
         "content": "Great app, simple to install. As an AHS employee more than happy to help. For those that can't read the instructions, no hope for you",
         "score": 5,
         "thumbsUpCount": 3,
@@ -4010,7 +4082,7 @@
     {
         "reviewId": "gp:AOqpTOHZdo3uAqJvunbZ25ouMmuxUDHSi1Hrd5pMaasdSjMKj64PuWY0qhNXIPGl5lg1hbShqJFUdV1qdPwr4Q",
         "userName": "Tom Mulvihill",
-        "userImage": "https://lh3.googleusercontent.com/-aMI_N5cGgAY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclFsusy0ilCw2NFuaqQxyKN39Jjtw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-aMI_N5cGgAY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclFsusy0ilCw2NFuaqQxyKN39Jjtw/photo.jpg",
         "content": "Same as others...no text received...how difficult can it be to test before making available to public",
         "score": 1,
         "thumbsUpCount": 0,
@@ -4058,7 +4130,7 @@
     {
         "reviewId": "gp:AOqpTOGAgYGs_1NEj_TDQMamKJXYquVf1R4MaOxYyPZ1_bBMd9AE4lMNT2a8nnVx_5DRBJsFQb2UFxmheX4kdA",
         "userName": "Albert O'Neil",
-        "userImage": "https://lh3.googleusercontent.com/-8Qo0WBKzqLs/AAAAAAAAAAI/AAAAAAAAAYM/AMZuucke18duCHfYUTmwWl12cfN01plm7g/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-8Qo0WBKzqLs/AAAAAAAAAAI/AAAAAAAAAYM/AMZuucke18duCHfYUTmwWl12cfN01plm7g/photo.jpg",
         "content": "Wont send verification code back to me (set up screen 2) so can not make it work.",
         "score": 1,
         "thumbsUpCount": 1,
@@ -4070,7 +4142,7 @@
     {
         "reviewId": "gp:AOqpTOFg1mtxTgtQghBZErooJodJfVbOL54_RlJgCLHMurb-4ufl7SugqZL25ndgizisMf6YZuXxpG9rW4EbJA",
         "userName": "Sharon Orr",
-        "userImage": "https://lh3.googleusercontent.com/-f7mcKqeipQM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckxBZe8kXVv8AqQoV-R9L221Gn8EA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-f7mcKqeipQM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckxBZe8kXVv8AqQoV-R9L221Gn8EA/photo.jpg",
         "content": "Cannot get the code that is supposedly to be sent. Techie errors that need attention. useless app as it now is.",
         "score": 1,
         "thumbsUpCount": 3,
@@ -4106,7 +4178,7 @@
     {
         "reviewId": "gp:AOqpTOHpTJXX0s8pernd-I96XHdPV0mezOdDiFHkuCStLIu8KXlq2JBWjuvHzpeH_bAlIXI5jWCf8fRQu306Hg",
         "userName": "Chantelle C",
-        "userImage": "https://lh3.googleusercontent.com/-2VgrcYev95c/AAAAAAAAAAI/AAAAAAAAADw/AMZuuck-tUFueMIXrRatrwrsO--lNMRYlA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-2VgrcYev95c/AAAAAAAAAAI/AAAAAAAAADw/AMZuuck-tUFueMIXrRatrwrsO--lNMRYlA/photo.jpg",
         "content": "No problems installing,code was sent fine. Let's hope it works. The notification says to restart your phone if it disappears, not if you see it there.",
         "score": 4,
         "thumbsUpCount": 3,
@@ -4118,7 +4190,7 @@
     {
         "reviewId": "gp:AOqpTOHw03tbmF-sphU0GdZs7wFYHP6SpwnBDp-aZ2DLdMEh43EtfLJjpfPUWLyt9AZOqc7zoaMsyN3u8Xkcdg",
         "userName": "M. Desjardins",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GggHHsRy-buuJoy7nbz5QKikabS0b9hyObT7jyHDw",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GixuLh_96ULmJj8EHGErjad4U3_iXpYFWOBy64P0g",
         "content": "Can't get the code texted to me.",
         "score": 1,
         "thumbsUpCount": 2,
@@ -4154,7 +4226,7 @@
     {
         "reviewId": "gp:AOqpTOHEC9QNf7uaW63SB-Q0BsiL58HSpHtft6wNZhp8WDYebMbBlNaLSZEo1J9jWU5V3LWMKfXOPl7TBhPqTQ",
         "userName": "Alison Bowes",
-        "userImage": "https://lh3.googleusercontent.com/-jXab60PI5Bw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclIRrJQKjmwQKyPwd1kmF7SHBLXvg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-jXab60PI5Bw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclIRrJQKjmwQKyPwd1kmF7SHBLXvg/photo.jpg",
         "content": "Activation code text never sent, can't get past setup",
         "score": 1,
         "thumbsUpCount": 2,
@@ -4226,7 +4298,7 @@
     {
         "reviewId": "gp:AOqpTOGJC0afKNRlY2eeQC_dQWNv9I4GPxMAwoaq2HQ2xp_k82IKsN8_OuW949kvX9AhC1jYK0CzP78w-sYhiQ",
         "userName": "Kate Horton",
-        "userImage": "https://lh3.googleusercontent.com/-HCVYkt5JHK0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmI4lN76sD3wrHENZu0ATK9estW4A/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-HCVYkt5JHK0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmI4lN76sD3wrHENZu0ATK9estW4A/photo.jpg",
         "content": "Easy install",
         "score": 5,
         "thumbsUpCount": 1,
@@ -4298,7 +4370,7 @@
     {
         "reviewId": "gp:AOqpTOGtKrPhMhjD3kSQ369mh3A1Sq8xxOHOejkT7mWC89F2yfxM0saToQLJXkpNFHNsJD1kMMJg-t00DHdlqA",
         "userName": "mike bayne",
-        "userImage": "https://lh3.googleusercontent.com/-L-mkVzo7mpk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl8dttEg-qE0Lcfxy8m-WqPqBvuhg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-L-mkVzo7mpk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl8dttEg-qE0Lcfxy8m-WqPqBvuhg/photo.jpg",
         "content": "Easy set up",
         "score": 5,
         "thumbsUpCount": 1,
@@ -4322,7 +4394,7 @@
     {
         "reviewId": "gp:AOqpTOFRHWgCmoMyMdRcvvAOCwGeSGBg0oqBIURnm999jvBWkHgvMOR-mOK4_boD40RftDKYqohWtLj7bJwY-Q",
         "userName": "Brodie Cassell",
-        "userImage": "https://lh3.googleusercontent.com/-O8JJTIeN86k/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn2YszzbeEv_iIf59aslH3p-nfgsA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-O8JJTIeN86k/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn2YszzbeEv_iIf59aslH3p-nfgsA/photo.jpg",
         "content": "Do this, for the good of the people.",
         "score": 5,
         "thumbsUpCount": 1,
@@ -4334,7 +4406,7 @@
     {
         "reviewId": "gp:AOqpTOGbmutDxKpoNmFZZx8iehuEGEjIOEx7KqEUzwU1vkJx5dhrtqb84QNkzI_Ib9DptM3ncmCVhbVcK1t57A",
         "userName": "Who Areyou",
-        "userImage": "https://lh3.googleusercontent.com/-HDyMQDZPJUg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmDAXZBbtPR4R5j2Jbb3ErQwBDG4Q/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-HDyMQDZPJUg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmDAXZBbtPR4R5j2Jbb3ErQwBDG4Q/photo.jpg",
         "content": "Doesn't activate or send code",
         "score": 1,
         "thumbsUpCount": 3,
@@ -4346,7 +4418,7 @@
     {
         "reviewId": "gp:AOqpTOF29zDqI3OFfp2K9D6ukTl2PtNlis4QfXxlNo57o80n6uuf-Cj-zxbTDgG-UO1Fiz8IgxD91uPwttzldA",
         "userName": "Lisa Rodrigues",
-        "userImage": "https://lh3.googleusercontent.com/-38fun3m-364/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl63gGac6p5cYWly4VlWtcby-8H8A/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-38fun3m-364/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl63gGac6p5cYWly4VlWtcby-8H8A/photo.jpg",
         "content": "Does not work, can not get past the code. App does not send a code for verification",
         "score": 1,
         "thumbsUpCount": 3,
@@ -4370,7 +4442,7 @@
     {
         "reviewId": "gp:AOqpTOGaiRuypO-1FFTsp2HhlYYaIebl1QaSB5HHS7oc44Xl80qglFNBE3SSAnTuDwQ9uMSGeq7xUBJS8n8rKQ",
         "userName": "Roanne Matthews",
-        "userImage": "https://lh3.googleusercontent.com/-lYcQKFGhnuI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckydHcpl-zlxqo5Y0tBGeenQb6lqQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-lYcQKFGhnuI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckydHcpl-zlxqo5Y0tBGeenQb6lqQ/photo.jpg",
         "content": "Tried to install but I get no confirmation code texted back to me.",
         "score": 1,
         "thumbsUpCount": 2,
@@ -4418,7 +4490,7 @@
     {
         "reviewId": "gp:AOqpTOErRQ2XppAhDEZsqdouRWW5Xw9rP_0pUwRuOHK_PGH-H38xs0H8VqZQAmNr_gvu9uOnzIV47RXRUTXxBQ",
         "userName": "Spencer Aaron Hussynec",
-        "userImage": "https://lh3.googleusercontent.com/-zgg2sBRPmtE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckigAlM6U7aagrUVJLUobaWuWiWbg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-zgg2sBRPmtE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckigAlM6U7aagrUVJLUobaWuWiWbg/photo.jpg",
         "content": "Technical issues already. I can't get past step 2 of 3 of the verification process. It will not send me a 6 digit code. This seems to be happening to a lot of other people. I was excited to use it, but now it is a disappointment.",
         "score": 1,
         "thumbsUpCount": 8,
@@ -4430,7 +4502,7 @@
     {
         "reviewId": "gp:AOqpTOGDdaUfZdz7P8hI1DRC1F-toDKt6nan1Rpkrhut2_3HqSg9b5mfVOCy6mqJmT_yL1gxA2b3mKd8Y9j-KA",
         "userName": "Ken Ohno",
-        "userImage": "https://lh3.googleusercontent.com/-vR7KAVGpiGw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckr6Bym8PuQXPOexeFyYADFo2a2Ug/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-vR7KAVGpiGw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckr6Bym8PuQXPOexeFyYADFo2a2Ug/photo.jpg",
         "content": "No text message with code",
         "score": 1,
         "thumbsUpCount": 2,
@@ -4514,7 +4586,7 @@
     {
         "reviewId": "gp:AOqpTOEDBp7MErJQ9Yr5nERKz9UlGqMaJ9EpQSB5qW70Rbzjaay8b2P_sHLya3vflt3pp0FW3gm28n7N2ekS5g",
         "userName": "Ben Hrabanek",
-        "userImage": "https://lh3.googleusercontent.com/-zsctNvFQqp0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckMSWxt1CcpaRqCK2iWylpXSOF2xw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-zsctNvFQqp0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckMSWxt1CcpaRqCK2iWylpXSOF2xw/photo.jpg",
         "content": "Works fine on Apple device but did not receive the 6 digit security code to my Android phone.",
         "score": 1,
         "thumbsUpCount": 11,
@@ -4586,7 +4658,7 @@
     {
         "reviewId": "gp:AOqpTOG-gV_1uCUJpCLxJEFpfoTMMuCv9Qfxq0WI4ZC6cncMUWS8vLpsU83yF460G7obEI7lAY9vYdO8WTCq-w",
         "userName": "hamadi zem",
-        "userImage": "https://lh3.googleusercontent.com/-fJqDOb5mMXw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclQDQJMiHSHODMugNLR158pypXJWw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-fJqDOb5mMXw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclQDQJMiHSHODMugNLR158pypXJWw/photo.jpg",
         "content": "I can't get a confirmation text.",
         "score": 1,
         "thumbsUpCount": 2,
@@ -4610,7 +4682,7 @@
     {
         "reviewId": "gp:AOqpTOESNhx-TX4k2iSgOv-ZZ-fOspkXCn-lNU3IbEwEV0dr-Y9K8LzasAluwWLpj_NBnBxnSZ0EKoJLMVbIzQ",
         "userName": "James Freeman",
-        "userImage": "https://lh3.googleusercontent.com/-jo9Mh8xArzA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclc1R4-wp7DxAxvQ6Mxa5w0pU7x0g/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-jo9Mh8xArzA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclc1R4-wp7DxAxvQ6Mxa5w0pU7x0g/photo.jpg",
         "content": "Bug during config. When you leave the App to fetch the six-digit text message code, and then come back to the App, it resets and won't allow you to enter the code. Have tried repeatedly to get a 6-digit text code. No text.",
         "score": 1,
         "thumbsUpCount": 13,
@@ -4634,7 +4706,7 @@
     {
         "reviewId": "gp:AOqpTOFlsiGivM6dYBDBUxjURNG_pFOcNpZHjEuh9aiodAAvAaIB_fm7jZISokH-YRbtUQ673f6acuB_SbcpEw",
         "userName": "Alex ko",
-        "userImage": "https://lh3.googleusercontent.com/-FZtpLmGFSSE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl_W1hskf7_tw5CfzmVBVFWreorwQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-FZtpLmGFSSE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl_W1hskf7_tw5CfzmVBVFWreorwQ/photo.jpg",
         "content": "\"your device is not compatible\" seriously? AHS has a share in cellphone sales? What a joke boys, whoever developed this app. Grow up, this is serious app and you can't make it smooth? Fire them all on the spot.",
         "score": 1,
         "thumbsUpCount": 16,
@@ -4706,7 +4778,7 @@
     {
         "reviewId": "gp:AOqpTOHWtDrQYXaROyWT7Xa8H2DnWRI18LVM7lcsaAHn131Z2MRxZgzhhFpRqbwAEakG6bQUht_JA5KBcaiPDQ",
         "userName": "D Gunputrao",
-        "userImage": "https://lh3.googleusercontent.com/-MAOP1KuiY7E/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmYr8nVPhlfldTzn9c7D49zSz6R_w/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-MAOP1KuiY7E/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmYr8nVPhlfldTzn9c7D49zSz6R_w/photo.jpg",
         "content": "Fewer than 60 secs to download and set up.",
         "score": 5,
         "thumbsUpCount": 4,
@@ -4730,7 +4802,7 @@
     {
         "reviewId": "gp:AOqpTOHKO6qEcx0H9lzeZL_OhZn8x_wUaQOXyDfmNC1iBjHs_uxMsr6fmQ3EfELDPUPAM1k0RoGFyavjX4z_qQ",
         "userName": "Li Zhu",
-        "userImage": "https://lh3.googleusercontent.com/-NzbPyW11rTw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmDRolxXh1YulECZnrq-H64HlfOnA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-NzbPyW11rTw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmDRolxXh1YulECZnrq-H64HlfOnA/photo.jpg",
         "content": "Doesn't work; stuck at entering text confirmation code. Tried many many times, no code was sent to my phone. \ud83e\udd26\ud83c\udffb\u200d\u2642\ufe0f",
         "score": 1,
         "thumbsUpCount": 4,
@@ -4814,7 +4886,7 @@
     {
         "reviewId": "gp:AOqpTOEH_C4QzQlY27GejloYZWRZJvdP-t2w5_JplSVUWJ3PXUXQHZxv1zvKwZPGNsjKIERAtHBdln2oq0tzTA",
         "userName": "Lorraine Bergh",
-        "userImage": "https://lh3.googleusercontent.com/-k2UPwt-eP-8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm2hDXOZL-pBAEsz_B9KShbbDpnow/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-k2UPwt-eP-8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm2hDXOZL-pBAEsz_B9KShbbDpnow/photo.jpg",
         "content": "The app asks me to put the code in but the app keeps expecting my phone number again, which triggers a new code.",
         "score": 1,
         "thumbsUpCount": 4,

@@ -236,6 +236,10 @@ The CRUSH COVID RI app has been installed by more than **10000** times. At this 
 <img src="2_star_reviews_wordcloud.png" alt="com.ri.crushcovid 2 reviews"/>
 </p>
 
+> Shuts down<br> :date: __2020-08-27 14:31:35__
+
+> Battery not working charging likely from multiple ConVid19 tracker, in DC and other areas people may be running different apps from other states like Virginia and miss encounters...<br> :date: __2020-08-24 10:03:37__
+
 > Location tracker doesn't work<br> :date: __2020-08-19 17:52:53__
 
 > Location has never worked even though all settings and permissions have been done. My phone with Google maps me correctly on the few occasions I went out, so I know the phone functions work . What is the problem with this?<br> :date: __2020-08-17 20:09:30__
@@ -252,10 +256,6 @@ The CRUSH COVID RI app has been installed by more than **10000** times. At this 
 
 > Gave version 2.0 a try. Went to a Warwick restaurant for 1.5 hours. There is no record of this in "My Location Diary". I really wanted this version to work. I don't understand how the basic and essential functionality doesn't work properly.<br> :date: __2020-07-15 01:38:57__
 
-> Version 1.5 for Android next to useless. All locations are wrong. Governor on Friday 7/10 said 2.0 was released but no sign of it on Google play store.<br> :date: __2020-07-11 21:04:24__
-
-> Location diary inaccuracy. There are days missing in history when i know i was out in area.<br> :date: __2020-07-11 20:19:44__
-
 
 
 #### 1-star reviews
@@ -263,6 +263,10 @@ The CRUSH COVID RI app has been installed by more than **10000** times. At this 
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="com.ri.crushcovid 1 reviews"/>
 </p>
+
+> This sucks as$ it doesn't work<br> :date: __2020-09-07 03:10:12__
+
+> Location tracking was working, now it's not.<br> :date: __2020-08-24 16:46:30__
 
 > This app still doesn't accurately keep track of my location 😒! I did everything suggested to assist it that was given as "tips" and it's not right 95% of the time! I always have my phone on and use either data or wi-fi. The only location that it gets correct sometimes is home. If it doesn't get fixed I might as well uninstall it.<br> :date: __2020-08-21 17:37:19__
 
@@ -279,9 +283,5 @@ The CRUSH COVID RI app has been installed by more than **10000** times. At this 
 > Useless and intrusive. A secret way for Ramondo (D) to spy on her constituents and keep them in line. BIG BROTHER/SISTER!!!<br> :date: __2020-07-21 13:45:19__
 
 > I have an LG Aristo 2 Plus. App worked great for 1 month. Then it stopped working. When I hit Send after putting in my zip code, it reads:. "Cannot submit data. Please try again.". I have uninstalled and reinstalled many times. Contacted T Mobile. They checked my phone and say it was the app.<br> :date: __2020-07-19 22:55:42__
-
-> No location tracking to be seen since the update to 2.0<br> :date: __2020-07-19 21:08:14__
-
-> The location diary is a joke - records places that I have never been near. This is disturbing as I only downloaded for purposes of contact tracing. If tracers were to go by my diary they would be doing a lot of unnecessary work - and, I would hate to be contacted based upon inaccurate data in other users diary. VERSION 2.0 LOCATION DIARY IS WORSE THAN V1.5. HAS ME IN PLACES THAT I LOOKED UP, BUT NEVER WENT TO, IN GOOGLE MAPS. ALSO, HAS ME AT HOME FOR 23HR, 59MIN ONE DAY BUT I TRAVELED TO MA.<br> :date: __2020-07-19 04:46:09__
 
 

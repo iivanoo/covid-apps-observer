@@ -160,6 +160,10 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <img src="5_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 5 reviews"/>
 </p>
 
+> Ottima app<br> :date: __2020-08-28 17:17:22__
+
+> Ottima, mi avvisa ogni volta che arriva un forte temporale.<br> :date: __2020-08-28 14:37:23__
+
 > Bravi, è così che si sente che il Pubblico serve e non solo chiede.<br> :date: __2020-08-17 12:52:56__
 
 > L'ho scaricata in aprile confidando nell'utilità per me è per tutti noi. È un piccolo ma importante aiuto alla collettività che non costa nulla<br> :date: __2020-08-16 13:29:30__
@@ -176,10 +180,6 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 
 > A volte non è proprio perfetta, ma la trovo molto utile.<br> :date: __2020-07-21 20:24:00__
 
-> Ok<br> :date: __2020-07-18 18:01:45__
-
-> Molto utile<br> :date: __2020-07-03 22:31:26__
-
 
 
 #### 4-star reviews
@@ -187,6 +187,8 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 4 reviews"/>
 </p>
+
+> L'app risulta ben fatta, ma non esiste modo di modificare l'età<br> :date: __2020-09-09 09:44:34__
 
 > Bene<br> :date: __2020-08-17 13:59:27__
 
@@ -206,8 +208,6 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 
 > Convinto della bontà del sito<br> :date: __2020-06-12 22:46:58__
 
-> Secondo me sarebbe ancora più utile se le domande non si riferissero solo ai precedenti 15 giorni allargando il periodo temporale a tutto il 2020 lasciando un campo libero per aggiungere delle note oppure chiedendo la data in cui sono iniziati e finiti determinati sintomi o contatti con persone e luoghi infetti. dopo l'aggiornamento giugno 2020 la finestra di pop-up finale dopo la compilazione non viene visualizzata correttamente<br> :date: __2020-06-07 18:54:52__
-
 
 
 #### 3-star reviews
@@ -215,6 +215,8 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 3 reviews"/>
 </p>
+
+> Funziona solo il questionario Covid e l'invio delle regole Covid aggiornate. Per il resto, non azzecca un'allerta meteo che sia una.<br> :date: __2020-08-28 00:31:16__
 
 > Funzionare funziona... le cose che ci sono servono... bruttina. Quello si e le allerte meteo attendibili come le previsioni mentre per i decreti covid rimanda ad apposite pagine on line.<br> :date: __2020-08-20 22:16:38__
 
@@ -234,8 +236,6 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 
 > L'app è ben fatta, solo a volte non arrivano le notifiche ma gli SMS. Inoltre, come si fa a cambiare i numeri associati all allerta meteo? Non vedo nessun menù a disposizione. Grazie<br> :date: __2020-06-09 07:43:19__
 
-> Per la parte covid, con Android mi è impossibile compilarla nè per me, nè per la mia famiglia. Ritengo sia un baco. Ci ho riprovato e funziona.<br> :date: __2020-06-08 16:11:32__
-
 
 
 #### 2-star reviews
@@ -243,6 +243,10 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 2 reviews"/>
 </p>
+
+> Tutti i giorni un'allerta meteo, tutte sbagliate<br> :date: __2020-08-29 19:29:58__
+
+> Salve,non so come abbia fatto ma mi ritrovo un addebito mensile di euro0,40 centesimi, non é per il costo però io non ho sottoscritto nessun abbonamento di questa app, mi dite come posso dare disdetta? Grazie<br> :date: __2020-08-26 18:33:35__
 
 > Arrivano le notifiche si clicca sul popup che contiene il link.. pagina non trovata.<br> :date: __2020-07-31 20:20:23__
 
@@ -260,10 +264,6 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 
 > Ho smesso di trasmettere i dati perché dopo un mese di utilizzo mi sfugge l'utilità di questa app specificatamente la parte riguardante allerta covid<br> :date: __2020-06-03 14:39:24__
 
-> Non permette di visualizzare le notifiche di allerta rischio idrogeologico..<br> :date: __2020-06-02 12:26:06__
-
-> Sarebbe interessante che i risultati dell'analisi dei questionari covid compilati fossero condivisi con la cittadinanza, magari in un'apposita sezione dell'app o sul sito di Regione Lombardia.<br> :date: __2020-05-28 10:27:40__
-
 
 
 #### 1-star reviews
@@ -272,9 +272,11 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <img src="1_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 1 reviews"/>
 </p>
 
-> Tutti i giorni un'allerta meteo, tutte sbagliate<br> :date: __2020-08-23 19:33:58__
+> allerte meteo non aggiornate<br> :date: __2020-08-27 11:37:12__
 
-> La mia versione dell'app non mostra la mappa con i livelli di allerta colorati, ma solo l'elenco. Ho disinstallato e reinstallato più volte senza ottenere cambiamenti. Praticamente non ho il tasto del menù a tendina di scelta della visualizzazione ad elenco o a mappa (non ho le "tre righette" in alto a destra vicino alla scritta "regione Lombardia"). Perché?<br> :date: __2020-08-19 00:21:07__
+> il mio terminale la rifiuta a priori ho capito...il mio terminale ha i permessi di root...questo per la mia SICUREZZA...l'app dice che si chiude per la mia sicurezza...disinstallato immediatamente. PS la protezione civile andrebbe abolita a favore di presessionisti SERI PAGATI e ADDESTRATI<br> :date: __2020-08-26 09:16:04__
+
+> L'app non mostra la mappa della Lombardia con i livelli di allerta colorati, ma vedo solo l'elenco. Non ho il menù a tendina dove scegliere se visualizzare ad elenco o a mappa. Ho disinstallato e reinstallato più volte senza cambiamenti. Perché? Come risolvo?<br> :date: __2020-08-25 13:27:36__
 
 > Continua a bloccarsi e non si apre, peccato sarebbe utile<br> :date: __2020-08-18 07:05:22__
 
@@ -289,7 +291,5 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 > Sono costretta ad abbandonare AllertaLom perché ogni giorno , per compilare il questionario, devo disinstallare e re-installare l'App. Ora poi non si apre neppure più. Adesso basta.<br> :date: __2020-08-07 19:10:32__
 
 > Inutile per il virus...come tutte le iniziative lombarde<br> :date: __2020-08-02 17:55:12__
-
-> Pessima veramente, assurdo<br> :date: __2020-07-29 12:48:33__
 
 

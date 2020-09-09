@@ -146,6 +146,8 @@ The Care19 Diary app has been installed by more than **10000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="com.proudcrowd.care 5 reviews"/>
 </p>
 
+> Oh yeah all good<br> :date: __2020-08-27 06:36:26__
+
 > Good<br> :date: __2020-08-02 22:27:07__
 
 > Please help charlie foxtrot googlemaps Meunstergritsandassociatesllc 442 blanding blvd 333 ORANGEPARK,FL 32073<br> :date: __2020-07-18 21:29:25__
@@ -163,8 +165,6 @@ The Care19 Diary app has been installed by more than **10000** times. At this ti
 > Awesome<br> :date: __2020-05-17 11:47:26__
 
 > Love this app<br> :date: __2020-05-16 12:11:08__
-
-> A must!!<br> :date: __2020-05-14 06:24:04__
 
 
 
@@ -244,6 +244,8 @@ The Care19 Diary app has been installed by more than **10000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="com.proudcrowd.care 1 reviews"/>
 </p>
 
+> Privacy<br> :date: __2020-08-27 22:42:43__
+
 > Does not automatically track as it says it will. Also, I can enter manually in my phone but my wife's phone cannot manually input as the app freezes when she puts in date from calendar. Uninstalled and reinstalled the app but still have same problems.<br> :date: __2020-08-16 17:20:12__
 
 > utTý5hat's drive changes b<br> :date: __2020-08-14 22:35:18__
@@ -261,7 +263,5 @@ The Care19 Diary app has been installed by more than **10000** times. At this ti
 > Does this app work for Los Angeles, CA residents? It doesn’t seem to work when installed on my phone because I’m still unable to turn on “Exposure Notifications” after the app is installed. I’m going to Settings > Google > COVID-19 Exposure Notifications and the toggle to turn on Exposure Notifications will not respond.<br> :date: __2020-07-06 03:44:17__
 
 > Keeps stopping<br> :date: __2020-07-05 05:31:18__
-
-> this app is worthless<br> :date: __2020-07-03 21:11:21__
 
 

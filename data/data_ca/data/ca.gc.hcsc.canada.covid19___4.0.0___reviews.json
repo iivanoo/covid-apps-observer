@@ -1,11 +1,95 @@
 [
     {
+        "reviewId": "gp:AOqpTOGSZv_AY-xKOOyvvHbLdulTxlj0B863tfcZ63sJsWP4uPXkbboOs7hFI-P9mwmKaLva2WosRcCAZHS65y8",
+        "userName": "Nicole B\u00fbl\u00e9",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Giqag21e8kuRBvT--KJ3dCBtbPHtlIE8vPkKKPdlA",
+        "content": "In French there are some words misspelled toteaux should be totaux",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.0.0",
+        "at": "2020-09-04 05:41:23",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOG10V7lodvLAklgvIvheOD6qbmDAKt8z3myRPtGBjV9wQ1lNpzKWjiOZ4oYGtevXjn_RlqSGAH5EVawcCM",
+        "userName": "craig wilson",
+        "userImage": "https://play-lh.googleusercontent.com/-UF4Vmwj3MiE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnYQ8jFjbFzM0jIstzLMlyJWQFBuQ/photo.jpg",
+        "content": "A Company called Thrive health is impersonating Health Canada and Google thinks: \"yeah, apps impersonating goverment agencies should be totally allowed.\"",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.0.0",
+        "at": "2020-09-03 17:10:22",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGNrCwT2CSlIQf75Zw2TTAHveEXgFx377k6aqmbas_HfZpi_InemoK4pkUz8VEcw91yyS_xhegiXR1C69k",
+        "userName": "jp cote",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gg9hBs90lzBQOGVSJwQ1j6__M3Yjuozi1Fg97xbbQ",
+        "content": "Good",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.0.0",
+        "at": "2020-08-30 14:21:55",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOEZ4zW2kO3KhKWGUZG2IW67OPstR4sy9oUNwXq2SMS3CUl-o5p8BGbDPSdkM47jvOC0JCNbmevf8HU0WSc",
+        "userName": "Allan Dennis",
+        "userImage": "https://lh3.googleusercontent.com/-O3z_MDKV5sU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmFsGc9v6BtzYcJwekWRYhgyxZlAA/photo.jpg",
+        "content": "All the info I need",
+        "score": 5,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "4.0.0",
+        "at": "2020-08-28 02:47:18",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOH5Dk4Xs0SweOioyKsVW4Me6UTdFNNnXgjvHgSJa7TqmlMGGgdLS0YwPa6soNRNJAnKJAsDsFa7d5KG1SQ",
+        "userName": "mark ryder",
+        "userImage": "https://play-lh.googleusercontent.com/-fpjjG2eEM-E/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn2aTD8yMWESVGZJt2uo_WET2nw0w/photo.jpg",
+        "content": "Not the right app. Don't use",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2020-08-26 13:37:39",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGDrVFWeL_koCXYxXeteBg36s-UnT8wqJaN5Gsvd8QCNZYjFtWtauFHSElz4VDZzTRXyr1Kf4PQRGwoPSU",
+        "userName": "Anne Murphy",
+        "userImage": "https://lh3.googleusercontent.com/-v19AN_uQFm8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm3P17TEyKj89Cg5ctn_WW0QkiqQw/photo.jpg",
+        "content": "I have installed and currently use the app to see our stats of cases country wide etc. Loads quickly and cannot speak to alerts as thankfully I hope I have yet to receive any.",
+        "score": 5,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "4.0.0",
+        "at": "2020-08-25 19:59:55",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOF_P9mZWx489-hvZnplhW3_YYCk-zat3bs5uN-eMSWzMGZqhwuTAPgRCDYnZa50eTKf2aRWiMgWOiG7QUY",
+        "userName": "Matthew O'Connor",
+        "userImage": "https://play-lh.googleusercontent.com/-5n2Nq1b6g2s/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm8dQhxp9-ktIDlSBFR49cWlC-JCw/photo.jpg",
+        "content": "This app is bs. \"F\" off government of Canada",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.0.0",
+        "at": "2020-08-25 13:05:19",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOGINsEUHielqCBPtQjaepfTPISi7zdTROFCudUup4KfdI8CkB3JeGKuH0qJuD83f8_z2y2-5wj9oPnfwls",
         "userName": "Enrico Sacchetti",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GizbEdjuXCuZXB0s7XgcAYqGSmpqg9dn8yYYTUIsWM",
         "content": "Great use of plain language, and app is easy and helpful.",
         "score": 5,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "4.0.0",
         "at": "2020-08-16 22:29:40",
         "replyContent": null,
@@ -17,7 +101,7 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gi07TvWgK3qP08S0hpsyVZjccqQSLIkXmb7EaYOTA",
         "content": "The app doesn't let you know if you come in contact with someone who has C0VID19. This needs improvement. Otherwise it's a good app.",
         "score": 4,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "4.0.0",
         "at": "2020-08-16 08:19:12",
         "replyContent": null,
@@ -26,7 +110,7 @@
     {
         "reviewId": "gp:AOqpTOF1VHwXgOMGMcmxfC1bplDvnU2FEzqz7J1daLnD_KL3qfpsvJgoXuEf0NotInB327auOi8GIVKsVL0D2zU",
         "userName": "Graydon Nichols",
-        "userImage": "https://lh3.googleusercontent.com/-OXQcHt8NwCs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckf93-VAhYmKAApmHYM_tXVY8IzTw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-OXQcHt8NwCs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckf93-VAhYmKAApmHYM_tXVY8IzTw/photo.jpg",
         "content": "Locked down like in prison A place I've never been yet I've walked my file m floor for 6 mother Months And I made it!!!!",
         "score": 5,
         "thumbsUpCount": 0,
@@ -53,7 +137,7 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgLPEXwSLVyAhjj9Oof0yjsOQnIKcoivl-KvXEtDS8",
         "content": "Irresponsible app. This is NOT the tracker app. Get that app instead. I thought I had the tracker app when I'd installed this app BUT I WAS WRONG. This app should not be in the Google Play Store (anymore)! There should be only one Government of Canada app. This app should be merged with the other app! Update. If I could give this app a negative I would. It just generated a notification for 'acts of kindness'. If you really want to be kind, don't ever sully a health app with social media garbage",
         "score": 1,
-        "thumbsUpCount": 47,
+        "thumbsUpCount": 85,
         "reviewCreatedVersion": "4.0.0",
         "at": "2020-08-11 20:10:11",
         "replyContent": null,
@@ -146,10 +230,10 @@
     {
         "reviewId": "gp:AOqpTOEdoOGX818KZqoDCjmQUMI-vUM0ak6gXQdE2SVbSqyTL-NIhCswDiQvb1QhITQD_RE_4kajpiL8lgAmYEo",
         "userName": "Bharath Bhushan Lohray",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gjedxjxm50ECHnqqgTgJarfahsEKcs-c5pggqOYlac",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gg14x571JgSkyjFuCCXKyg3bkY8p52K9C5T1f35vV8",
         "content": "Pretty useless for the user The app is nothing but a questionnaire that might help Health Canada from volunteer self evaluators, but shows no live data of infection risk around me like the Arogya Setu App from India. Privacy superceded public health.",
         "score": 2,
-        "thumbsUpCount": 4,
+        "thumbsUpCount": 6,
         "reviewCreatedVersion": "4.0.0",
         "at": "2020-08-06 05:42:16",
         "replyContent": null,
@@ -173,7 +257,7 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gj4CUzEx8aK7seI9NeSqrM6CDTjZFjm1oF66guxiw",
         "content": "Retired computer programmer here. I've reviewed the Apple-Google algorithm this app is based on and this app has excellent privacy. For those asking excellent questions about why it does not give more information about what is going on in your area, or why it does not link to your Contacts, the answer is privacy. This only know your province if you decide to manually tell it that info. Beyond that it has no idea where you've been or when you've been. Girl friends, boy friends, bars, clubs, moonlighting jobs, strange churches, political groups -- whatever -- this app does not know and cannot tell. People wanted privacy, that is privacy! Similarly with contacts. All the app knows are the random numbers of different phones it has been within 2 meters of for 15 minutes or more (I think they can adjust that). No names, no telephone numbers, no nothing that can identify people. Again, people wanted privacy and that is what we have here, privacy! Symptoms other people have in the area? Two parts to that: 1. One is that the symptoms of other people in your area might not be the symptoms you'll have. If it told you what symptoms other people in your area had this week -- the mismatch between them and you could cause you to ignore you infection until it is too late. Better that you simply be notified to call your provincial medical help number, and they can discuss with you any symptoms you have already and what to do next. 2. Privacy. The more questions the app asks, the more privacy-oriented people will complain. And you think they won't complain? People will complain about anything. If not something that concerns them, then they'll steal the 'agency' of someone else, steal their voice, and complain on their behalf. For example: a. People are complaining it won't work on phones more than 5 years old that do not have Bluetooth. It is not their phones they're worried about, it is \"other people's phones, old folks, indigenous people, poc, etc.\" b. I'm an \"old folk\". Most of my fellow oldies have new phones, purchased 1 or 2 years ago when CDMA and GSM networks stopped working. I've heard of one senior whose phone is too old. And her phone is so old she can't get a signal sitting in a coffee shop 1/8 of a mile from a cell tower. Half the towers or more just do not carry the frequency for her old G3 phone. We seniors are able to stay home much more easily. We have our CPP (and hopefully a second pension). We don't have to go out to work. A lot of us are in nursing homes. We have less need for this app than people who are out and about working with the public and socializing with strangers. Covid contact is less a problem for us than the endless loneliness. c. Indigenous people, poc, disabled -- I fit in here and again I'm unhappy about others stealing our agency and speaking for us. There complaint is based on the old dangerous stereotype of white people saying non-white people are all poor. They are not all poor. And those that cannot work due to disability or do not work due to children, are generally like us seniors, they have an easier time of sheltering at home. d. I would be more worried about the working poor who deal with the general public. Race, sex, gender, and whatever does not come into it. +++ Those who are working poor and doing jobs like sale clerk or ticket taker -- coming in contact with dozens of strangers every day -- maybe those people should be given phones by the government. But that is not an issue with this app; that is something separate for the government to do. +++ e. THIS IS THE MAIN THING: An app that would provide notifications without using Bluetooth would have to trace our movements to work. There would be no other way. It would have to invade everyone's privacy. +++ This app is not perfect in everyone's opinion. No app will ever be perfect in everyone's opinion. BUT this app delivers maximum privacy while still doing the job of notifying us of covid contacts with minimum overhead load on our computers. +++",
         "score": 5,
-        "thumbsUpCount": 2,
+        "thumbsUpCount": 3,
         "reviewCreatedVersion": null,
         "at": "2020-08-04 08:56:31",
         "replyContent": null,
@@ -254,7 +338,7 @@
     {
         "reviewId": "gp:AOqpTOGkX3qq1nWEDStLPnPQQlYNmX-rkuRvyxdDV-rBc24kCU1pvBcWfaFSvrRxvmtqQtLDx6p7QlhxGmefXBY",
         "userName": "MM Barbon",
-        "userImage": "https://lh3.googleusercontent.com/-Ijt5YP2akgU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckB2LrJMPoON-1fNfXkdc1UYHR63Q/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-Ijt5YP2akgU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckB2LrJMPoON-1fNfXkdc1UYHR63Q/photo.jpg",
         "content": "Installed easily with no issues.. Dont see why others have issues. Canadian stats was nice to see...",
         "score": 5,
         "thumbsUpCount": 3,
@@ -266,7 +350,7 @@
     {
         "reviewId": "gp:AOqpTOEgzUjLT5UYbV6_mLYuKgjgkxbZ_8jm_tbZaTagR74_A-Yk5R0hBn7aermil-blM467kLx3LeTEaqQ_sMY",
         "userName": "Opa Vreeken",
-        "userImage": "https://lh3.googleusercontent.com/-6kptbcDAKdo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnJt9ayVtDvURdmD0Z_YkzEjDGIeg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-6kptbcDAKdo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnJt9ayVtDvURdmD0Z_YkzEjDGIeg/photo.jpg",
         "content": "Governement gab Lots of stuff, but impossible to navigate decently. No clear instructions or helpfull tips/guidance",
         "score": 1,
         "thumbsUpCount": 4,
@@ -278,7 +362,7 @@
     {
         "reviewId": "gp:AOqpTOEprdmfxf7bgM-Nds2t_uMB0p77FK6myfgTfZ-UdhqQ2PoQ7f_4ScXprP11-2gKx_NzjeuU7s4AbJiMO1Y",
         "userName": "Michael Nwokomah",
-        "userImage": "https://lh3.googleusercontent.com/-ChVDJ4TlVaM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmZDcekkPprz_BWXYJYBcM4warrqw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-ChVDJ4TlVaM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmZDcekkPprz_BWXYJYBcM4warrqw/photo.jpg",
         "content": "Okay",
         "score": 5,
         "thumbsUpCount": 0,
@@ -302,7 +386,7 @@
     {
         "reviewId": "gp:AOqpTOHxgnMZHOYhU1o4I9TgTEvUDFkkyttjXP44DSRG3qH4WdP_XkmVyWioAf1nn2CvqEBu3REI3Imc2PcYsCc",
         "userName": "Ted Doleman",
-        "userImage": "https://lh3.googleusercontent.com/-JVXUW5COcsM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclQWbWel9NgQe4JLQsrzkjXO3qgwg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-JVXUW5COcsM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclQWbWel9NgQe4JLQsrzkjXO3qgwg/photo.jpg",
         "content": "Easy peasy. No issues, hope I never have it contact me but if at risk would rather know.",
         "score": 5,
         "thumbsUpCount": 2,
@@ -350,7 +434,7 @@
     {
         "reviewId": "gp:AOqpTOF8bLEBsvTy9cR5SvwZO5yPwjpt3RNblOUIigDWil9IkVrRbVktqfJ_ws5QDIu6TjM85ySx1KFeEHtE29I",
         "userName": "d mcnally",
-        "userImage": "https://lh3.googleusercontent.com/-Tgtb0aylTtI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnOxev9KlDjh7_og1Qby9Tn6_jzXA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-Tgtb0aylTtI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnOxev9KlDjh7_og1Qby9Tn6_jzXA/photo.jpg",
         "content": "It seems like this app tracks your movements and steals personal your information you cant trust the Trudeau government.",
         "score": 1,
         "thumbsUpCount": 3,
@@ -386,7 +470,7 @@
     {
         "reviewId": "gp:AOqpTOHbjJjkskhOzNoIVU-AzrVM0cK8Ma5pAM6OUYFas5LtEeAZveYpfisZNEn-3P0ZKbAHjXDSrsPOANqBANw",
         "userName": "Cameron Hall",
-        "userImage": "https://lh3.googleusercontent.com/-PJJzCU3QXek/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckVf_46l6EguMYjdAtkqB8ztDQ8mw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-PJJzCU3QXek/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckVf_46l6EguMYjdAtkqB8ztDQ8mw/photo.jpg",
         "content": "Stopped giving reliable notifications with latest version. No app exit stratagy, that's very poor design. Otherwise fine app but becoming very slow to load or change tabs. Edit: 2020-07-29 COVID-Alert beta not available for download in eastern Ontario?!?",
         "score": 3,
         "thumbsUpCount": 34,
@@ -434,7 +518,7 @@
     {
         "reviewId": "gp:AOqpTOHbl8fNpkEX6q8XHbmAR8WzxxMVWMBQN2uvVPCTMUBk9i5Z0Ybg5GZqaCDKoT5TZpxdDQbWwGafso2FzBs",
         "userName": "Roen H. Berkom",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Ggllpo7YK7unmYVyAFtFdG_oU1mLs7NzBAaYtPl-g",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjbRnw5YBUJpqnUxCUFBRjWU9A3ayRsGUCYjeT_Ug",
         "content": "Very good support and optimal information-sharing through this crisis.",
         "score": 4,
         "thumbsUpCount": 0,
@@ -458,7 +542,7 @@
     {
         "reviewId": "gp:AOqpTOFXdkmFs0rVSUIZzJrAXhcvh8NmPgpXQO_9kIt_9fMmnv6segJO8ohLCafUrYdf0wE4yZ4DZb2u9fyrYqY",
         "userName": "marc chenier",
-        "userImage": "https://lh3.googleusercontent.com/-xGJ6vhZdd-k/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclpTFxma85MfHsDcgxZSUPo86hKow/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-xGJ6vhZdd-k/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclpTFxma85MfHsDcgxZSUPo86hKow/photo.jpg",
         "content": "Good but tracing would make it better",
         "score": 4,
         "thumbsUpCount": 0,
@@ -470,7 +554,7 @@
     {
         "reviewId": "gp:AOqpTOHOJRELC7gnsGRFlNGoSZgFNWYjwgOABCtGtsvQplZkh-iy0xDALmAKW29eK8GpTVgUThwxWEtGoGA-QWM",
         "userName": "D Smith",
-        "userImage": "https://lh3.googleusercontent.com/-h14zUozISiA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm1dR5lLL5TAWFvh2_Zjljwl2LMZA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-h14zUozISiA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm1dR5lLL5TAWFvh2_Zjljwl2LMZA/photo.jpg",
         "content": "Impressed \ud83d\udd96",
         "score": 5,
         "thumbsUpCount": 0,
@@ -497,7 +581,7 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhCQsTCUWyukcf-8if7Hd505DE_qilBBUCBxQ8FGg",
         "content": "Useless. The app doesn't take advantage of contact tracing making this just an alternative for information and basic surveys which the government could have had on a website.",
         "score": 1,
-        "thumbsUpCount": 20,
+        "thumbsUpCount": 21,
         "reviewCreatedVersion": "4.0.0",
         "at": "2020-07-24 21:35:15",
         "replyContent": null,
@@ -566,7 +650,7 @@
     {
         "reviewId": "gp:AOqpTOGj5n5zOAR6R_3XhieliKwVm5ApmobhEJoGnnDE6znjG3oo0gzoTnf7NDZtHG95nXev0P0K_pXv6AVPR8k",
         "userName": "Dale Mark George Hansen",
-        "userImage": "https://lh3.googleusercontent.com/-vQxnD_QAvAo/AAAAAAAAAAI/AAAAAAAAND4/AMZuucl-LuJ3NpDj30qBz_VvpFBXFwYfAg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-vQxnD_QAvAo/AAAAAAAAAAI/AAAAAAAAND4/AMZuucl-LuJ3NpDj30qBz_VvpFBXFwYfAg/photo.jpg",
         "content": "I am very happy with this App. I have been using it every day to check our country's COVID-19 status. I trust the information provided by this App over and above \"ANY\" media or news groups...",
         "score": 5,
         "thumbsUpCount": 8,
@@ -614,7 +698,7 @@
     {
         "reviewId": "gp:AOqpTOEp-4clO200wKIBKD4hGyc3SBnAs7jTfRPBhrxiA8-VoxmlItwX4xc_PVx-NbOGkgvWtIRAbUPV70uHoUs",
         "userName": "John Monaghan",
-        "userImage": "https://lh3.googleusercontent.com/-0TjHc6JR8-A/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnjvUL-6kyV4pPbeWXQmPXLk1u6wg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-0TjHc6JR8-A/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnjvUL-6kyV4pPbeWXQmPXLk1u6wg/photo.jpg",
         "content": "Pretty basic, wish this worked with the COVID tracking that was installed on my phone by Google. Also, I set the reminder for daily at 9am and it has only reminded me maybe 2-3 times since installing, which was 10-14 days ago.",
         "score": 3,
         "thumbsUpCount": 22,
@@ -653,7 +737,7 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgJiRyzMUQmasKL3muXD5XAbgu9IC63ZDrDhKbY6A",
         "content": "I find that it helps me think of my health. I'm also glad that this is out there for us to do. I too have COPD, Asthma which makes me cough through the night that bothers me & my neighbors. I am a smoker which I know I should quit but I don't have the umph to do so that I don't want any Dr to ask me if I want to quit. It'll just make me smile more.",
         "score": 5,
-        "thumbsUpCount": 27,
+        "thumbsUpCount": 33,
         "reviewCreatedVersion": "3.8.0",
         "at": "2020-06-27 16:40:51",
         "replyContent": null,
@@ -662,7 +746,7 @@
     {
         "reviewId": "gp:AOqpTOHHAlcWdqTScQqCKOfv9XvZuU_L4TM3EZAdpnuczfbfDL-VBvfRGO1qg8u12sm1UhoeSqX_A3wxxPC0rVw",
         "userName": "Daniel Courtemanche",
-        "userImage": "https://lh3.googleusercontent.com/-zmcir2w9kAo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl-Xn-AqNj0jlDuebnIiSBRjLokfQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-zmcir2w9kAo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl-Xn-AqNj0jlDuebnIiSBRjLokfQ/photo.jpg",
         "content": "Useless",
         "score": 1,
         "thumbsUpCount": 1,
@@ -673,11 +757,11 @@
     },
     {
         "reviewId": "gp:AOqpTOEsN5J7HJeoC_f6D72fN7IQwaPcIb53A6rTFn0v6A0xnNZ3qf508Xb8wI-Gy2AYcAE3tYgfNOmJjPASGXg",
-        "userName": "Mac Henry",
+        "userName": "Cory Karn",
         "userImage": "https://lh3.googleusercontent.com/-xdRm0Zb1B7w/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck5isnIZMJM66G3Lt27C51Kayv62A/photo.jpg",
         "content": "I have used this before. I have location on, googles scanning service for wifi location also on. When I open it, it takes me to a white page with the BC logo and states there is an app error. I am confused because there seems to be a seperate app for BC anyway yet thats what is happening and have not got past the error message to try and correct it to Ontario",
         "score": 1,
-        "thumbsUpCount": 40,
+        "thumbsUpCount": 46,
         "reviewCreatedVersion": "3.8.0",
         "at": "2020-06-24 00:06:53",
         "replyContent": null,
@@ -686,7 +770,7 @@
     {
         "reviewId": "gp:AOqpTOFc25uoFTa0Y-S4FiAKYyylR5Wb0GgX1NzBgQAyIakpBJi5Z00lWJyTKbuJgwDlwPyTI3xTFonj0Khooz4",
         "userName": "Johnson Li",
-        "userImage": "https://lh3.googleusercontent.com/-8vzyS0KxpEc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm8npBYCK6Ev0ltKNnmlWlkhkSFCQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-8vzyS0KxpEc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm8npBYCK6Ev0ltKNnmlWlkhkSFCQ/photo.jpg",
         "content": "Useless, I wanna see if there is any case in my neighborhood",
         "score": 1,
         "thumbsUpCount": 2,
@@ -722,7 +806,7 @@
     {
         "reviewId": "gp:AOqpTOG59YT0vL8fL8VpCeSqfE2Vbdw7qPaAfnuQX9hE9tlPlU4RHbG9x8sD558dsmcLgfhiGL2hBnZj8D9CKXM",
         "userName": "Ann Middleton",
-        "userImage": "https://lh3.googleusercontent.com/-CvAqz4jAaGA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucloa2z0rkpbTIg1fiQwvgGeJJl4aw/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gj8zkEf9lWfSuq-318Dv2qeJHmrzuXZkakXi-SJMA",
         "content": "Wonderful idea.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -770,7 +854,7 @@
     {
         "reviewId": "gp:AOqpTOF5IpNZd4edwmFst5FGoDFjqyPx-KqYPr56AQKcZl0sOkHiILjyCotw1Rk2pYbGXiEUocIaBiu2HSDOoSc",
         "userName": "Nancy Whalen",
-        "userImage": "https://lh3.googleusercontent.com/-_kqOcish_iA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckbd8FVapVi4rIxQUy20PWt7xaZuQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-_kqOcish_iA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckbd8FVapVi4rIxQUy20PWt7xaZuQ/photo.jpg",
         "content": "This app has not updated stats since June 5th. My app is up to date. Thanks",
         "score": 3,
         "thumbsUpCount": 0,
@@ -842,7 +926,7 @@
     {
         "reviewId": "gp:AOqpTOHIFwRSJkidZH8xQMbYKqlWkrlRW6U2S4luucxXyzr69znLKABRY_07StSGefC1AVrMmnH0SG8HqIDyQLA",
         "userName": "Adam Rose",
-        "userImage": "https://lh3.googleusercontent.com/-CKMbY4GdVq4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmClRncpB4abzdtCfdKzo3k5n1FRQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-CKMbY4GdVq4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmClRncpB4abzdtCfdKzo3k5n1FRQ/photo.jpg",
         "content": "This app is 100% garbage and a waste of time to install! I wouldn't have voted 1 star but google actually insist that users vote at least 1 star.",
         "score": 1,
         "thumbsUpCount": 7,
@@ -950,7 +1034,7 @@
     {
         "reviewId": "gp:AOqpTOEJ6XmErgntIPOq3ThRKZNEWB_NqJ3n_scYcUnTVcajGkVUpD8EVcmUBvVtiogTzN5mjeIkp1PIURSZrlo",
         "userName": "Paul Benish",
-        "userImage": "https://lh3.googleusercontent.com/-jb7ZdrvpwNo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnEKiyXZXEZzJkFNQN9RuPgj2edCw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-jb7ZdrvpwNo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnEKiyXZXEZzJkFNQN9RuPgj2edCw/photo.jpg",
         "content": "Plandemic Cov.id nine teen is a hoax",
         "score": 1,
         "thumbsUpCount": 5,
@@ -961,7 +1045,7 @@
     },
     {
         "reviewId": "gp:AOqpTOF_IB_iCzRC1j5VycubhAqoyB8ZWSYJgMwOUfuhWiadh8uZUFfhnKjH4nGucYBFIk5aU20uPNR8y_ch9G4",
-        "userName": "Alejandra Gil",
+        "userName": "Alejandra C. Gil C.",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgaLJ_z5nubSLxLplJxmXzflRSjZEG3qDzaKr2Iaw",
         "content": "It would be great if we also can see the map with active cases only. This would be very helpful.",
         "score": 3,
@@ -1046,7 +1130,7 @@
     {
         "reviewId": "gp:AOqpTOFDbfrKTeu1w_24K8fYX3dyI0f0T9Dyvfpn8pxR-_IXWgBLvQao4uvSUK5tswef23akuEAY31Z1HEZIcAw",
         "userName": "Christine Hocker",
-        "userImage": "https://lh3.googleusercontent.com/-r_9NCCfegsw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckibfUmqYuBuY9wNutA1Z3-dJapWg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-r_9NCCfegsw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckibfUmqYuBuY9wNutA1Z3-dJapWg/photo.jpg",
         "content": "A great information tool for all canadians",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1082,7 +1166,7 @@
     {
         "reviewId": "gp:AOqpTOHgcdi9_iluOZN7_ySfUfsOBsoAWo-ldyBjmS1gk42KbOlTOth7Iq97vVhzEQr_u5nqJyd_8j0Iuh9g1-U",
         "userName": "Antonio Hemken",
-        "userImage": "https://lh3.googleusercontent.com/-qvQqcVsMhhY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckmZcUsYlNgHuQinF3E4HRo6Umgiw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-qvQqcVsMhhY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckmZcUsYlNgHuQinF3E4HRo6Umgiw/photo.jpg",
         "content": "Thanks for more than you think I know....",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1094,7 +1178,7 @@
     {
         "reviewId": "gp:AOqpTOHL2LZltskO1ivEK-GXLyrzsaldH5-fFLzuCzOjYnau7h2g9v9t7Zce5nIKCllyzSHFRV1QttBx2pOwZ-E",
         "userName": "Carolyn Bardowell",
-        "userImage": "https://lh3.googleusercontent.com/-x3O7YHT87Zk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclwxwYz2vuZDfAVyecnuNHawYf9Xw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-x3O7YHT87Zk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclwxwYz2vuZDfAVyecnuNHawYf9Xw/photo.jpg",
         "content": "Daily check in suddenly stopped working",
         "score": 1,
         "thumbsUpCount": 2,
@@ -1142,7 +1226,7 @@
     {
         "reviewId": "gp:AOqpTOGwcxMSDrn_pkuTRohN6g0XDRLfA6BOoza38ACQg_XKfC7qmGxJPIQtZBmiU09yqGy67V9CrpSoQlS3Fs0",
         "userName": "Shehroze Imran",
-        "userImage": "https://lh3.googleusercontent.com/-xg2hRujaUwk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucktjh-bw1VakFkwu5eyKW-b1B5XDQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-xg2hRujaUwk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucktjh-bw1VakFkwu5eyKW-b1B5XDQ/photo.jpg",
         "content": "Vaary nyce. I'm new immigrant. Helpful info. Thx",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1238,7 +1322,7 @@
     {
         "reviewId": "gp:AOqpTOFh8kWnoDJ8YQhdcOjr27Or1vx_nbtfd7MH0ScDznnTDcbBKtG3wCvRvEzWloPUYRrWKlnQBhZDpZYAP2g",
         "userName": "Adam Zaprzala",
-        "userImage": "https://lh3.googleusercontent.com/-p3ZaRfOngrg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclWpvSw9UTIy0SBiKvrwTSps_VtSg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-p3ZaRfOngrg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclWpvSw9UTIy0SBiKvrwTSps_VtSg/photo.jpg",
         "content": "Go Canada - We got this",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1262,7 +1346,7 @@
     {
         "reviewId": "gp:AOqpTOEPM79lNU21C5pHoeAia6Tlabf7Bw3_vEJ0o3wh6O_Fxmoi7SUcGRsNrq5QNu7gXSQ4biJ0imeeJVD9X-8",
         "userName": "Tony Conte",
-        "userImage": "https://lh3.googleusercontent.com/-e7DI03Gd97c/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclrqxvLvsetPdnxuYnxtNJAiWFyUA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-e7DI03Gd97c/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclrqxvLvsetPdnxuYnxtNJAiWFyUA/photo.jpg",
         "content": "Good",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1298,7 +1382,7 @@
     {
         "reviewId": "gp:AOqpTOGkGzQJAnE2tPA4okFpi54HoXRCQnmc92FTaSoaiI_Rr9Y7Kjl7LuOLMcaCBqR3udaiSg-_tfZpjaoGBcE",
         "userName": "ROSE & CROWN",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gjm7Meh42R3xH5k7bYmBY1oF4Y8xC_FKZTOGfxV",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gju1TgOC99wxEfwfB0Rii3m5j7TxDQPOWRMwGbWAQ",
         "content": "App is okay but why so many updates? I tried it and now another update! Also I'm going to boycott mostly products made in china. Personal Skincare! I think the app should make people aware to buy Canadian & American made products! That should be an app! Is anyone listening?",
         "score": 3,
         "thumbsUpCount": 1,
@@ -1310,7 +1394,7 @@
     {
         "reviewId": "gp:AOqpTOFrScl_04oXjwS8SuIJFNTmD4_-foSpI3tzo_Y8-3vNEAW8YFxS5qcQ8uHaZsFDnkfcW__K0mY4dSmbu8s",
         "userName": "Greg Noonan",
-        "userImage": "https://lh3.googleusercontent.com/-vJbEbKUOS3w/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmoSIsabs9NN_HTFNf3PubTAPzcxQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-vJbEbKUOS3w/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmoSIsabs9NN_HTFNf3PubTAPzcxQ/photo.jpg",
         "content": "Easy to navigate, informative....thankyou",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1322,7 +1406,7 @@
     {
         "reviewId": "gp:AOqpTOFNiEXXcmcTrgJZ0BRyuMmvx5qNf3mQ_JNADPfKWdsfVGsx2mYZNgpO-GA34RzGmX04TMgASOgAiSDt_54",
         "userName": "Google User",
-        "userImage": "https://lh3.googleusercontent.com/-IbumzHdTqrY/AAAAAAAAAAI/AAAAAAAAA3k/AMZuuck_s6Uwa2jj1I1xtSDGEvyus55ofQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-IbumzHdTqrY/AAAAAAAAAAI/AAAAAAAAA3k/AMZuuck_s6Uwa2jj1I1xtSDGEvyus55ofQ/photo.jpg",
         "content": "A needed app for us",
         "score": 4,
         "thumbsUpCount": 0,
@@ -1334,7 +1418,7 @@
     {
         "reviewId": "gp:AOqpTOGzo3QT8dFMSXndUIHNMhFdBdW3TK39on3pIStK8cDVRTobhl79xA5HX9aTZ8Vw1T7k9zUPMbI-E2s3bVg",
         "userName": "Annette Zinck",
-        "userImage": "https://lh3.googleusercontent.com/-YA-hnTfQtdU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclAU18fSVnS0UaCBXJ60FHts9OIwg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-YA-hnTfQtdU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclAU18fSVnS0UaCBXJ60FHts9OIwg/photo.jpg",
         "content": "Great way to keep up to date and I use it mostly to check in to ensure I don't have covid-19 symptoms and to help create statistics.",
         "score": 5,
         "thumbsUpCount": 1,
@@ -1358,7 +1442,7 @@
     {
         "reviewId": "gp:AOqpTOEFDGC9W54sXbWG-biC6B-Cs5yCop1jyWj48qBxYPfz6kMfW-SzsmY2aRiVRpqA9P4xNyIbZRdxr3vFMKc",
         "userName": "John-Paul Caine",
-        "userImage": "https://lh3.googleusercontent.com/-sYxbbp4bEQo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclJRzXHespWz58uRF4GC1cqY05ryQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-sYxbbp4bEQo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclJRzXHespWz58uRF4GC1cqY05ryQ/photo.jpg",
         "content": "Great",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1430,7 +1514,7 @@
     {
         "reviewId": "gp:AOqpTOEPAIGvtPnsyfjoyaRCoxLXac-JOl5xY5nGIcboD6Hwe5uLGMd6eowFEfybrZKSo0vuC5WwfR4ZXfyc8GE",
         "userName": "kyle stamler",
-        "userImage": "https://lh3.googleusercontent.com/-XZnu5CExJ5c/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnLtjWsDiE7rxHLeBPWjj0ZOutNGw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-XZnu5CExJ5c/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnLtjWsDiE7rxHLeBPWjj0ZOutNGw/photo.jpg",
         "content": "Didn't like it so I uninstalled it",
         "score": 1,
         "thumbsUpCount": 3,
@@ -1478,7 +1562,7 @@
     {
         "reviewId": "gp:AOqpTOFzdbmel0wrP-9calLhBsq0EhoyDqLTWFTYIk28j1Sms6FIgSCizBXNAD2TUJSk2I4xJkxe7TtCpjsUN2k",
         "userName": "Richard Saccone",
-        "userImage": "https://lh3.googleusercontent.com/-MhmAxHQwjW0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmjFK4ygT94VQXst9sp6G1cwzf4dA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-MhmAxHQwjW0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmjFK4ygT94VQXst9sp6G1cwzf4dA/photo.jpg",
         "content": "Informative",
         "score": 4,
         "thumbsUpCount": 1,
@@ -1514,7 +1598,7 @@
     {
         "reviewId": "gp:AOqpTOG89F3yDM3uChdopiSY69zpdG8_PNfDMCqFEnaoQpF5CSQDFn_2wpbRcLqUgL_s7OORruaCrMfGtSJpH2s",
         "userName": "Cherry Bomb",
-        "userImage": "https://lh3.googleusercontent.com/-QCyppd24AFY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclrRY1GVy6B0vC3Ahu5XOeI0Cc8sg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-QCyppd24AFY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclrRY1GVy6B0vC3Ahu5XOeI0Cc8sg/photo.jpg",
         "content": "possible malware....installed itself on my phone and instantly wanted me to update to newer version. checked the manifest anfd permissions allow it to camera. and send and tecieve messages via c2. mainly though installed on its own on an INACTIVE phone (no sim)",
         "score": 1,
         "thumbsUpCount": 8,
@@ -1538,7 +1622,7 @@
     {
         "reviewId": "gp:AOqpTOH5nxqSNu4tJwkXHRPhfy7SzWucbpKan6sQ-n1nCLlTcrJnYvcxo1-UloxSjdu72ea6QW4okbjKZPMyzIQ",
         "userName": "Sue mac",
-        "userImage": "https://lh3.googleusercontent.com/-m4fQMLxiR8I/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclSYQLR7BHAbnIXpe9H0e3vrM4zgw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-m4fQMLxiR8I/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclSYQLR7BHAbnIXpe9H0e3vrM4zgw/photo.jpg",
         "content": "It would be nice to have instructions on what to do after 14 days if symptoms do not change for better or worse.",
         "score": 4,
         "thumbsUpCount": 1,
@@ -1562,7 +1646,7 @@
     {
         "reviewId": "gp:AOqpTOGFdoCpYOLYB6g-Gx1oCFoS4X5x3S1YBV75z9HxbHwztV7Uoag0_ayLlVNKmM_RQY1WspV5RTUVykpkSX0",
         "userName": "Doug Kerr",
-        "userImage": "https://lh3.googleusercontent.com/-IrgT2thYbRs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmEpAV2UuK2SO-3W0vpFU-jkXjCAg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-IrgT2thYbRs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmEpAV2UuK2SO-3W0vpFU-jkXjCAg/photo.jpg",
         "content": "Completed update and my archive data is gone. Very disappointing.",
         "score": 3,
         "thumbsUpCount": 2,
@@ -1634,7 +1718,7 @@
     {
         "reviewId": "gp:AOqpTOG5yGBQkFBKqZ70hSv9vdtYYM9JGbYGJ8uxpKC0ZzUlCbn3u195IFRdy54VCgJiaw4I7gMhSx1eLQESV-s",
         "userName": "Dr.Salvador Fernandez-Soto",
-        "userImage": "https://lh3.googleusercontent.com/-j2yGc-jfuEU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl9OBwKPcxFoshO71EtNbijLXsxLw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-j2yGc-jfuEU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl9OBwKPcxFoshO71EtNbijLXsxLw/photo.jpg",
         "content": "Practical daily info-data",
         "score": 5,
         "thumbsUpCount": 1,
@@ -1682,7 +1766,7 @@
     {
         "reviewId": "gp:AOqpTOGsv7HISxR4MfD54JrkCqjYBpMqO9Lbl1pfKoULODOF8_XOfBex1vq8P-q6LOjxtYBQT7IJXyc_FK6qJ_Y",
         "userName": "David Nicoll",
-        "userImage": "https://lh3.googleusercontent.com/-421wTfLvFE0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmkenpPFQ4EgZbUhuO-l8NHwnF37w/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-421wTfLvFE0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmkenpPFQ4EgZbUhuO-l8NHwnF37w/photo.jpg",
         "content": "How about a dark mode?",
         "score": 4,
         "thumbsUpCount": 1,
@@ -1706,7 +1790,7 @@
     {
         "reviewId": "gp:AOqpTOG6FqIi52dyQvTDfcIkJCRY3_87nvEuRyEw02NuTOT2PsqaTN11PhGRJ54-Puos3X_zOyRtJ_gqI_bNCGQ",
         "userName": "Robert Tremblay",
-        "userImage": "https://lh3.googleusercontent.com/-pPy-C1BUsT0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckLi6aJ8g1IXbFZeHIZNozNPdpZjw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-pPy-C1BUsT0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckLi6aJ8g1IXbFZeHIZNozNPdpZjw/photo.jpg",
         "content": "Well done",
         "score": 4,
         "thumbsUpCount": 1,
@@ -1718,7 +1802,7 @@
     {
         "reviewId": "gp:AOqpTOFGH0HPobReyjtjOWfYok80SR0N1bp2601YHFmIf5MKduADicx33vtO1dckacerVMgW66W2x2lZX-Qy5Fs",
         "userName": "james c",
-        "userImage": "https://lh3.googleusercontent.com/-nWmztlvddng/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckzNxoBcUQBKni3xs8-J-ZXCPBx5w/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-nWmztlvddng/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckzNxoBcUQBKni3xs8-J-ZXCPBx5w/photo.jpg",
         "content": "Great app!",
         "score": 5,
         "thumbsUpCount": 1,
@@ -1730,7 +1814,7 @@
     {
         "reviewId": "gp:AOqpTOHCXx7Xzn4Cwrs0XHmgHzT2gWyGG8PIl55UrVqBAf4IeJz442-wNHTMSsEGThj7VUrEH6C3WJEjkoa7Aek",
         "userName": "silmar marques",
-        "userImage": "https://lh3.googleusercontent.com/-U6RO1Hi7guw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmA4VDiANboTCl34bSP8lzeNgFUSw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-U6RO1Hi7guw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmA4VDiANboTCl34bSP8lzeNgFUSw/photo.jpg",
         "content": "Too small, can't see, can't customize... Don't waist your time",
         "score": 1,
         "thumbsUpCount": 4,
@@ -1766,7 +1850,7 @@
     {
         "reviewId": "gp:AOqpTOFUoo4CFCYJTK8yLzzxxq99ItUkjoOda3PHUmvbUXwWY0ZBTntmvxeXYGPu-HFhsCTXTsMmdaYkqDJuM5I",
         "userName": "Al Koehler",
-        "userImage": "https://lh3.googleusercontent.com/-HEORhzMiBn0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnv9o40nOwdkkNgkR0Cv5l-K72q_w/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-HEORhzMiBn0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnv9o40nOwdkkNgkR0Cv5l-K72q_w/photo.jpg",
         "content": "there is no new information here. seems like a feel good app. useless",
         "score": 1,
         "thumbsUpCount": 2,
@@ -1790,7 +1874,7 @@
     {
         "reviewId": "gp:AOqpTOGDJNqf0xDfrnMOP_g-se6hke5FYYbFHV0oMjEr7jkF1YtQbkMaSErQivVyUwDSJ2hKn3aFvcN2wAd-1e4",
         "userName": "Daniel Slaney",
-        "userImage": "https://lh3.googleusercontent.com/-mLnTrpiD9gQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm0yf4wIr7jJbJo44NnCWXoVUlLCw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-mLnTrpiD9gQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm0yf4wIr7jJbJo44NnCWXoVUlLCw/photo.jpg",
         "content": "Pleasant and well informed. Plenty of links for programs.",
         "score": 5,
         "thumbsUpCount": 1,
@@ -1814,7 +1898,7 @@
     {
         "reviewId": "gp:AOqpTOGD7YEHyJ_q91Oy6nWrcuGWSf8SA3rXMohr6oDe_ngTQ4MulzyiOS6_1Q6M2G0q5HghjTbscbEkiSrdE0I",
         "userName": "Vinay Kamboj",
-        "userImage": "https://lh3.googleusercontent.com/-CuJt8fvuQQY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnzxcKZiYuOn2mTONMFW61n4_H0Zw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-CuJt8fvuQQY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnzxcKZiYuOn2mTONMFW61n4_H0Zw/photo.jpg",
         "content": "Good",
         "score": 4,
         "thumbsUpCount": 2,
@@ -1874,7 +1958,7 @@
     {
         "reviewId": "gp:AOqpTOHUnODcAOyi1R3Blw0IZwFY0BPmIkS5QLVMdKjjCo2ds2lhnz1Vel3FS_PMSPQZJjEpI4bhMi6CLpr3EdQ",
         "userName": "Peter Chan",
-        "userImage": "https://lh3.googleusercontent.com/-nzErO_noVWs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclqFiWmooCjtwahrkkvxOzNe8xW8A/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-nzErO_noVWs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclqFiWmooCjtwahrkkvxOzNe8xW8A/photo.jpg",
         "content": "Don't think the app deserves a 4* but since it's an official app, I'll just give it that. Problem comes in when this is the only app allowed in google play. Compared to third party websites, this tracker tells you less than what a bar chart could have offered. Hire actual developers next time.",
         "score": 4,
         "thumbsUpCount": 17,
@@ -1898,7 +1982,7 @@
     {
         "reviewId": "gp:AOqpTOEwka0MIQfQrdZJqSovRcKTwtDMBBvzSNfHtmtCcNZwqIJ42AmnpTP51qcbMqjrmpDM9_FEqXQi_g4E__M",
         "userName": "D Ward",
-        "userImage": "https://lh3.googleusercontent.com/-hss5npu7oi0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclt6FTiOywFc5QFWXMntOngh3axIg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-hss5npu7oi0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclt6FTiOywFc5QFWXMntOngh3axIg/photo.jpg",
         "content": "Statistical information is not kept up to date, uninstalled as this was my prime reason to install.",
         "score": 3,
         "thumbsUpCount": 2,
@@ -1910,7 +1994,7 @@
     {
         "reviewId": "gp:AOqpTOFKn_FC86q8cmEawGqGHk180JofvZhY8qyfjRJ5GFXy_u6sOffneIUVPfSf8w1ALXNqnTU3kYSQL8t_sMU",
         "userName": "Natalie Marcotte",
-        "userImage": "https://lh3.googleusercontent.com/-x93ztEpp-J0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckSPUV5axSVsqSM4yRo2ZxUWYYkJg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-x93ztEpp-J0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckSPUV5axSVsqSM4yRo2ZxUWYYkJg/photo.jpg",
         "content": "So far the app is grayed very easy to use very informative. Thank you so much for the app!",
         "score": 5,
         "thumbsUpCount": 2,
@@ -1934,7 +2018,7 @@
     {
         "reviewId": "gp:AOqpTOGGomkTZ98v9rFfLbu2YVi4JaZlupS_2PqGUcClYvH0a8vDM-zgVm4WmAyy--UN5U0Qn_3Bn6L7FKq0Uwg",
         "userName": "Lesia B",
-        "userImage": "https://lh3.googleusercontent.com/-V4EaT6HRou0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn6JWCyxjFsY0oreIQj0pXlDjAN_Q/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-V4EaT6HRou0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn6JWCyxjFsY0oreIQj0pXlDjAN_Q/photo.jpg",
         "content": "Very well organized and concise information. Easy access to navigate, very well planned and executed. I would like to see \"Total recovered\" included in the \"Canada situation numbers\" to make it a complete report.",
         "score": 4,
         "thumbsUpCount": 27,
@@ -2042,7 +2126,7 @@
     {
         "reviewId": "gp:AOqpTOEbQ1xNkdi5BN2qxSpNJ3f_DGC-nqVklGaADNNrxME7zhn063JCAutPRh2vJTjQC-pCHYYsIN8BFbDsAbI",
         "userName": "Samsonstarlvr Son",
-        "userImage": "https://lh3.googleusercontent.com/-LKiRn1ZUebw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn4RLKxI285vUiV3Wr2vpATZHVhlQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-LKiRn1ZUebw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn4RLKxI285vUiV3Wr2vpATZHVhlQ/photo.jpg",
         "content": "Strongly recommend before going to emergency!",
         "score": 5,
         "thumbsUpCount": 1,
@@ -2078,7 +2162,7 @@
     {
         "reviewId": "gp:AOqpTOFofae7ReZvDhrya_99NCCe4WR1EnDrzcx4mXyIXF0ZOimO0Yr1MLV_0sQRVGhlXyjZsamg002z8viu-m0",
         "userName": "supashadowmasta27",
-        "userImage": "https://lh3.googleusercontent.com/-Mx3Q0a9VTiE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnNmt6HDWUwckE1TQpZdW-WVvQrlw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-Mx3Q0a9VTiE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnNmt6HDWUwckE1TQpZdW-WVvQrlw/photo.jpg",
         "content": "This app hasn't updated any data since I installed it on March 2nd",
         "score": 2,
         "thumbsUpCount": 2,
@@ -2102,7 +2186,7 @@
     {
         "reviewId": "gp:AOqpTOFhtlzAIXNNIDe3114zdYhsE55-rTVHqzkFrCpxDRHedZ3LdNpckyYPvb_kRr_ygxoczBeVByhAekRf5dI",
         "userName": "Corphix",
-        "userImage": "https://lh3.googleusercontent.com/-uZAhvnhiBLI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn0oo3SZDJDVQUzX9kEwlR-GnSsVQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-uZAhvnhiBLI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn0oo3SZDJDVQUzX9kEwlR-GnSsVQ/photo.jpg",
         "content": "Works as expected, would be great to route the \"back\" function to the main menu in the app rather than cycling through all the previous pages i was on.",
         "score": 4,
         "thumbsUpCount": 3,
@@ -2138,7 +2222,7 @@
     {
         "reviewId": "gp:AOqpTOE5v4095TUaLfCsPWBDZvIljyGp2BuuERVa5xExz5e4cvrhXZjR5reU7fqXUdt1w5SLZPeFl5sab46bDQA",
         "userName": "Mario Teixeira",
-        "userImage": "https://lh3.googleusercontent.com/-PIxkd12P_cI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnRzljBAfKUrcxujW-SzmGXxrDugg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-PIxkd12P_cI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnRzljBAfKUrcxujW-SzmGXxrDugg/photo.jpg",
         "content": "This app has helped me get a better understanding on the current status of Covid-19 in BC, but it would be nice to have it updating without coming to the store everytime. The remaining resources and information provided are also a plus and good to have at hand. Thank you!",
         "score": 4,
         "thumbsUpCount": 2,
@@ -2174,7 +2258,7 @@
     {
         "reviewId": "gp:AOqpTOF7amS1jVOKIp6twZxy8qJSQi93er3m-UKfO54KXeswe2v6U2sHDXQ-fmcaoqg_Hz8fYLpS4rTZHLZL87s",
         "userName": "Andre M Camara",
-        "userImage": "https://lh3.googleusercontent.com/-MG9GPIBMv44/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckXYw49C2Z51dtRPWwXilBvLEiGqw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-MG9GPIBMv44/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckXYw49C2Z51dtRPWwXilBvLEiGqw/photo.jpg",
         "content": "Data not updated with in the App. Don't tell me I have to keep updating from play store. Not very user friendly. Needs a lot of work yet.",
         "score": 3,
         "thumbsUpCount": 8,
@@ -2198,7 +2282,7 @@
     {
         "reviewId": "gp:AOqpTOG-aqpa88LHTIm-TQn2BiKXST3C5K3aQgjR-1k81Bl8FqFrWxFzCW1O06XhLj-OGz8-cO7CgPFv_H5q02Y",
         "userName": "Wendy Harrison",
-        "userImage": "https://lh3.googleusercontent.com/-RW07ijEaRdU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmx1PoLYlBl7q0291hWkHOFAioc4Q/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-RW07ijEaRdU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmx1PoLYlBl7q0291hWkHOFAioc4Q/photo.jpg",
         "content": "Good clear info :)",
         "score": 4,
         "thumbsUpCount": 2,
@@ -2222,7 +2306,7 @@
     {
         "reviewId": "gp:AOqpTOF2bgCu0B5uQQ_x2ai1GQqJHy_55ckI_RzcIj3t48DTQ_g3RvCqXCxuQiv2Sr8zHkcs_4lUHQ5k6eKkaHU",
         "userName": "Shawn Chrysler",
-        "userImage": "https://lh3.googleusercontent.com/-kDu1LphBftU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclmaThD2LyoXnEhlRXUQPy18nhoQg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-kDu1LphBftU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclmaThD2LyoXnEhlRXUQPy18nhoQg/photo.jpg",
         "content": "Very informative",
         "score": 5,
         "thumbsUpCount": 3,
@@ -2234,7 +2318,7 @@
     {
         "reviewId": "gp:AOqpTOEwIq8PXhifHz1x2-6QaeQTSsk7CLSisObArG46xKJURBvkww9g5K6N0ozIPy_KmWFoLJiJeuy3Otqh2ak",
         "userName": "Ryan Elson",
-        "userImage": "https://lh3.googleusercontent.com/-BOkznWvKf2o/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmOHIqBOxKYtGL1drlJcFUxJMxLGA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-BOkznWvKf2o/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmOHIqBOxKYtGL1drlJcFUxJMxLGA/photo.jpg",
         "content": "Orwellian spyware, don't install it mines you for info and will be used to turn your phone into a social distancing ratting tool",
         "score": 5,
         "thumbsUpCount": 25,
@@ -2282,7 +2366,7 @@
     {
         "reviewId": "gp:AOqpTOFK5-7O-StP5CND-J37_3s3jnffOo2HRV4T8hdO7pphnPRI0Rpy3r-olrHTzTApsMmuFvKgwqeHE3rXMvo",
         "userName": "Henri Forcier",
-        "userImage": "https://lh3.googleusercontent.com/-jP_kzl5vIWk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclLrH5y32BjvSw3Y6z1yVD3pF2FHg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-jP_kzl5vIWk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclLrH5y32BjvSw3Y6z1yVD3pF2FHg/photo.jpg",
         "content": "Must have in these times",
         "score": 5,
         "thumbsUpCount": 2,
@@ -2330,7 +2414,7 @@
     {
         "reviewId": "gp:AOqpTOH6XVS6INGdjlMs7gxILUL-4Vs0PKlwpAmdGlrhSfE7kJk2WqGU6Ddo2Uc6edDtS0uwvkIN-WlcZn8u0Ug",
         "userName": "Mike G",
-        "userImage": "https://lh3.googleusercontent.com/-Vzx4QbV-lTU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckyHPQnQc4QwsRvhd5vjny6oq48lg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-Vzx4QbV-lTU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckyHPQnQc4QwsRvhd5vjny6oq48lg/photo.jpg",
         "content": "Uninstalled because they wanted access to all my photos and text messages. Why would Gov want any access to my private records?",
         "score": 1,
         "thumbsUpCount": 20,
@@ -2414,7 +2498,7 @@
     {
         "reviewId": "gp:AOqpTOFJ9kSFS6oYnR52-i11myNpd3iEQyoRJx1SkNGESeCvjvb0q3q5V3mMKwH1ui_64YjZ-dQDvmLGsjxspxs",
         "userName": "brandon huard",
-        "userImage": "https://lh3.googleusercontent.com/-QEtxxjGfFyc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnyGieBWKIG047yHgh_DHZfbOFXJA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-QEtxxjGfFyc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnyGieBWKIG047yHgh_DHZfbOFXJA/photo.jpg",
         "content": "It is a very intrusive app",
         "score": 1,
         "thumbsUpCount": 26,
@@ -2426,7 +2510,7 @@
     {
         "reviewId": "gp:AOqpTOEi7wgfkXqhba0IBGlW6FE9uw6n9-9aDSOHeV5LnvcRJbYa7NUvRAVdotkP9yiA0cNiQGTtTPN85susyn4",
         "userName": "Johnathan Knight",
-        "userImage": "https://lh3.googleusercontent.com/-kidbIKCYqsY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnLfoVU3S9-FZuXe8vw9lGn7W3ziA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-kidbIKCYqsY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnLfoVU3S9-FZuXe8vw9lGn7W3ziA/photo.jpg",
         "content": "Simplicity is key to this design. For the more urgent and alarming buttons are easier to access. The stats and details are clear detailed. and I'm encouraged that the sources aren't from a third party.",
         "score": 5,
         "thumbsUpCount": 7,
@@ -2438,7 +2522,7 @@
     {
         "reviewId": "gp:AOqpTOHlekc-FZIWZwWxNajb6BmOMPiUvFqvLbZhmrI1HGpYZGsINZaLveQds6MUBrIqMrnuAdoAzmIGlI5bmlI",
         "userName": "JJ Moniebags",
-        "userImage": "https://lh3.googleusercontent.com/-XYSKAmZMMlQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnxynzsjMZhMTPdAVeitkhjCG7Ulg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-XYSKAmZMMlQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnxynzsjMZhMTPdAVeitkhjCG7Ulg/photo.jpg",
         "content": "It would be nice if the graphs could actually be read. Way to small. Allow for click to enlarge graphs.",
         "score": 1,
         "thumbsUpCount": 6,
@@ -2570,7 +2654,7 @@
     {
         "reviewId": "gp:AOqpTOFlcjLCXIBTVDzKRR2dgrxYEuyJj4eyeH8ldSN9sg6LxVNcGlTfLtUmeAchTgji8xO76-7p7U4XaIgy1nI",
         "userName": "Daer Moriel",
-        "userImage": "https://lh3.googleusercontent.com/-A0-f64ZMPy0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckjUhBDK6bfedPs84CepfmEqrG1KA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-A0-f64ZMPy0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckjUhBDK6bfedPs84CepfmEqrG1KA/photo.jpg",
         "content": "Rating 5 stars since open communication is key, and people are quibbling over what else they want in it. We don't need this experiencing the same downvote problems that homework apps experienced. If you want more info, visit the Health Canada site, if your device won't run it, visit the Health Canada site. If you want info not being provided, visit the Health Canada site. The app is here to push urgent information to us, stop lowballing the ratings.",
         "score": 5,
         "thumbsUpCount": 27,
@@ -2618,7 +2702,7 @@
     {
         "reviewId": "gp:AOqpTOEQprO2pyKCZ64yMG7d5BYjx1x1j-LIemCD9TaMmzkNF0jtYcuyt2EZi_j8B1lr0bIERxCtjdk44_Cl7WA",
         "userName": "Jody Cloutier",
-        "userImage": "https://lh3.googleusercontent.com/-SaaJ9bQf82I/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckaqPQETCAxjOzv3l2hyDKNwNo1Hw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-SaaJ9bQf82I/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckaqPQETCAxjOzv3l2hyDKNwNo1Hw/photo.jpg",
         "content": "Good app seems functional but didn't respect my default browser. I don't use Chrome I use Edge and clicking more info links bring up Chrome browser that is not setup on my device instead of Edge which is my default browser.",
         "score": 3,
         "thumbsUpCount": 10,
@@ -2714,7 +2798,7 @@
     {
         "reviewId": "gp:AOqpTOEmA49X1q9Rq_77M7eYROSotpaNU5r62U8UCHPAUiYoYfDnw-FN9bL26wWPydyDl0Tw4eVKtQqX44svarw",
         "userName": "David Briggs",
-        "userImage": "https://lh3.googleusercontent.com/-iSDACIQ83WM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckHq3_3R0ABtIxQaroj_On5nvx8CQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-iSDACIQ83WM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckHq3_3R0ABtIxQaroj_On5nvx8CQ/photo.jpg",
         "content": "An excellent App for our times. Concise and informative.",
         "score": 5,
         "thumbsUpCount": 2,
@@ -2738,7 +2822,7 @@
     {
         "reviewId": "gp:AOqpTOHzLpmX3iw80EoV9K9LXSrwW6BzNajE4z0qcyyKabPop7HNv0Xyts5ewUfEpK6f19EKyIRJN_ja4F0OPIw",
         "userName": "Dave Cameron",
-        "userImage": "https://lh3.googleusercontent.com/-EWWJpftejHw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmor5lo83aci5LR-pD7IbHfIVRunQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-EWWJpftejHw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmor5lo83aci5LR-pD7IbHfIVRunQ/photo.jpg",
         "content": "How can I share this from the app?",
         "score": 5,
         "thumbsUpCount": 4,

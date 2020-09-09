@@ -152,10 +152,12 @@ The GVA Coronavirus app has been installed by more than **10000** times. At this
 #### 3-star reviews
 
 <p align="center">
-
+<img src="3_star_reviews_wordcloud.png" alt="es.gva.coronavirus 3 reviews"/>
 </p>
 
-No recent reviews available with 3 stars.
+> Lo que no me gusta es que no está agregada a nivel nacional para el Covid 19 ni salud en general. Aun no la he usado así que no se si cumple con los minimos objetivos. Las estrellas es para pider poner la reseña.<br> :date: __2020-09-01 21:21:19__
+
+
 
 #### 2-star reviews
 
@@ -171,6 +173,12 @@ No recent reviews available with 2 stars.
 <img src="1_star_reviews_wordcloud.png" alt="es.gva.coronavirus 1 reviews"/>
 </p>
 
+> Esta aplicación ni tiene sentido si lo tienes SIP. Es la misma historia de siempre en el sentido de que es una guerra entre comunidades. No tiene ningún sentido está app. Espero que instalen la de Radar Covid que es a nivel nacional y dejen de hacer el canelo<br> :date: __2020-09-08 11:20:08__
+
+> No sirve para nada<br> :date: __2020-09-05 17:05:12__
+
+> Radar Covid ya y dejaros de chapuzas ineptos<br> :date: __2020-09-01 23:04:00__
+
 > Me parece fatal que quiera ver el mapa de contagio si voy a valencia y que no pueda verlo por no estar empadronado o no tener el SIP es algo inutil.. vaya aplicacion ..<br> :date: __2020-08-10 15:37:36__
 
 > Mala<br> :date: __2020-07-05 18:02:44__
@@ -181,14 +189,8 @@ No recent reviews available with 2 stars.
 
 > Ninguna finalidad,para pedir cita previa y nada más.<br> :date: __2020-06-18 22:41:38__
 
-> Para el coronavirus es una castaña. Lo que hace falta de una vez es una implementación a nivel estatal o europeo, de la rutina de seguimiento mediante bluetooth de Apple y Google. Lo demás chapuzas sobre chapuzas<br> :date: __2020-06-11 02:37:02__
-
 > Me quiero bajar la aplicación pero me pide un código ? Cual pongo? Me quedaba solo un intento . Gracias<br> :date: __2020-06-10 19:43:32__
 
 > La he descargado porque no la conocia y he cometido un error ahora me van a llamr del ambulatorio pero no me da opcion a anular. Deberia de figurar esta opcion. Este servicio podia incluirse en la app normal y no ser necesario instalar una nueva. Solo cita tfno no entiendo una app solo exclusiva para eso y encima que no puedes anular cita.<br> :date: __2020-06-02 14:38:09__
-
-> No me deja meter el sip<br> :date: __2020-04-21 11:26:17__
-
-> Me parece increíble la discriminación. De la Generalidad Valenciana que si no eres de seguridad social no puedes usar esta aplicación funcionarios, policías y militares guardias civiles todos estos que que por decisión. Del estado y no propia tienen tarjetas de MUFACE MUGEJO IFAS todos estos también somos ciudadanos de la Comunidad Valencia y a esto añadir I migrantes y demás desfavorecidos, viviendo en valencia me está dando servicio la aplicación Catalana UNA VERGUENZA<br> :date: __2020-04-20 20:34:22__
 
 

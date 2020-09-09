@@ -188,6 +188,12 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 <img src="5_star_reviews_wordcloud.png" alt="gov.cdc.general 5 reviews"/>
 </p>
 
+> good<br> :date: __2020-09-09 12:18:04__
+
+> Works for me lol<br> :date: __2020-09-08 12:59:02__
+
+> Excellent reference source.<br> :date: __2020-09-02 17:35:05__
+
 > Like this app because of the usefull Information it have<br> :date: __2020-08-23 23:39:44__
 
 > N/A<br> :date: __2020-08-17 16:28:56__
@@ -202,12 +208,6 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 
 > Seems as informative as we can get.<br> :date: __2020-07-27 00:32:28__
 
-> Important to know whats going on.<br> :date: __2020-07-25 23:50:52__
-
-> I never tried it before so it my first time I am now sick 😷 So I so this aap now I am going tried I am very interested in the aap I hope I don't get it please let us pray 🙏 for alaah my he give as life ya ahaal<br> :date: __2020-07-25 10:19:04__
-
-> Great<br> :date: __2020-07-21 06:31:00__
-
 
 
 #### 4-star reviews
@@ -215,6 +215,8 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="gov.cdc.general 4 reviews"/>
 </p>
+
+> It's the only coronavirus app, so make it good. Just won't load. This is dangerous!! UPDATE: ok I think they fixed it<br> :date: __2020-09-07 22:40:29__
 
 > Provides clear and factual science on COVID-19 developments<br> :date: __2020-07-31 23:53:35__
 
@@ -234,8 +236,6 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 
 > Let's go walking Yes ok?<br> :date: __2020-04-21 19:21:07__
 
-> Wished it was more user-friendly<br> :date: __2020-04-17 23:47:35__
-
 
 
 #### 3-star reviews
@@ -243,6 +243,8 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="gov.cdc.general 3 reviews"/>
 </p>
+
+> Under WH control! It is what it is.<br> :date: __2020-08-26 03:35:25__
 
 > I think the apps utilization could be much better but overall the app is very helpful for information.<br> :date: __2020-08-23 04:24:46__
 
@@ -261,8 +263,6 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 > Disappointing. Not as useful as I expected. Doesn't show up to date info. Just info we've already seen 1000 times. Expected more from the CDC whom I've always respected.<br> :date: __2020-05-23 06:09:07__
 
 > App does not work on android phones.<br> :date: __2020-05-15 00:22:26__
-
-> Useful to keep up, especially with the Sars-CoV-2 outbreak, but really annoying design. Harder to help less technically inclined use it.<br> :date: __2020-05-08 04:29:03__
 
 
 
@@ -300,6 +300,14 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 <img src="1_star_reviews_wordcloud.png" alt="gov.cdc.general 1 reviews"/>
 </p>
 
+> We can no longer trust the CDC.<br> :date: __2020-09-03 02:55:12__
+
+> Case count for covid is not available. Covid information is too bast it lacks its own menu or search box.<br> :date: __2020-08-31 14:45:50__
+
+> No alarm<br> :date: __2020-08-25 19:57:33__
+
+> I wanted Covid detail for Texas, no such luck.......<br> :date: __2020-08-24 20:09:37__
+
 > Slow and wrong information.<br> :date: __2020-08-23 14:09:31__
 
 > All it does is white screen<br> :date: __2020-08-16 19:13:23__
@@ -311,13 +319,5 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 > Cannot load mos t pages.. Really useless.<br> :date: __2020-07-29 00:43:28__
 
 > Useless<br> :date: __2020-07-28 21:40:00__
-
-> Not what I wanted<br> :date: __2020-07-27 02:37:52__
-
-> Questions about symptoms is all grouped together. Choices for different symptoms is really important. I answered YES to symptoms, because I had no choice. Results came up urgent. That's scary. Needs to be more broad.<br> :date: __2020-07-24 00:24:34__
-
-> it doesn't work<br> :date: __2020-07-12 22:33:13__
-
-> Not a tracker<br> :date: __2020-07-05 23:23:48__
 
 

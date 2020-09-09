@@ -185,6 +185,8 @@ The SM_Covid19 app has been installed by more than **50000** times. At this time
 <img src="5_star_reviews_wordcloud.png" alt="it.softmining.projects.covid19.savelifestyle 5 reviews"/>
 </p>
 
+> Molto utile per tutti<br> :date: __2020-08-31 15:02:45__
+
 > Piace curata app<br> :date: __2020-08-23 21:40:56__
 
 > Semplice e comoda la puoi disinstallare quando vuoi.<br> :date: __2020-08-11 16:18:18__
@@ -203,8 +205,6 @@ The SM_Covid19 app has been installed by more than **50000** times. At this time
 
 > Molto utile.... Avevo delle riserve all'inizio....ma con il passare dei giorni mi rendo conto che mi aiuta a mantenere il distanziamento<br> :date: __2020-07-19 22:23:35__
 
-> Buono<br> :date: __2020-07-17 09:33:04__
-
 
 
 #### 4-star reviews
@@ -212,6 +212,8 @@ The SM_Covid19 app has been installed by more than **50000** times. At this time
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="it.softmining.projects.covid19.savelifestyle 4 reviews"/>
 </p>
+
+> Non ho avuto ancora esperienze<br> :date: __2020-08-24 15:38:20__
 
 > Mi dicete come funziona? Mi dice indice contatti 0,00%<br> :date: __2020-08-23 19:29:43__
 
@@ -231,8 +233,6 @@ The SM_Covid19 app has been installed by more than **50000** times. At this time
 
 > Molto bella<br> :date: __2020-06-18 21:12:10__
 
-> Non ho capito se ad oggi, 17.6.2020, la app è attiva e funzionante, con invio di notifiche in caso di contatti a rischio<br> :date: __2020-06-17 21:37:42__
-
 
 
 #### 3-star reviews
@@ -240,6 +240,10 @@ The SM_Covid19 app has been installed by more than **50000** times. At this time
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="it.softmining.projects.covid19.savelifestyle 3 reviews"/>
 </p>
+
+> Sembra ok, ma vorrei sapere il calibra BLE quanto deve essere il valore?toccando lo scudo blu non succede nulla.<br> :date: __2020-09-06 17:57:00__
+
+> Pro:è compatibile anche con dispositivi più datati; è comoda per tenere sotto controllo il numero dei casi. Contro: è un po' troppo invasiva (chiede troppi permessi); troppe notifiche; consuma più batteria dell'altra app (Immuni).<br> :date: __2020-08-28 18:08:29__
 
 > Dovrebbero installarla tutti per essere più efficace<br> :date: __2020-07-27 11:38:34__
 
@@ -256,10 +260,6 @@ The SM_Covid19 app has been installed by more than **50000** times. At this time
 > Applicazione molto interessante e ben fatta ma che consuma una quantità di batteria assurda: minimo il 16% della batteria in 10 ore e senza mai averla aperta in modo esplicito ed è un valore molto più alto di quello del display o di Facebook o navigazione internet nello stesso intervallo<br> :date: __2020-06-29 22:46:39__
 
 > Non so quanto sia credibile, al momento non posso dare di + poi si vedra', a me pare + un controllo della persona. E allora W la privacy.<br> :date: __2020-06-16 11:42:51__
-
-> Do 3 stelle sulla fiducia. Ho un Samsung del 2016 e volendo impostare il mio profilo riesco a vedere solo le prime 2 opzioni. Come mai? So che dovrei cambiare smartphone...<br> :date: __2020-06-15 16:02:14__
-
-> e una beta comunque<br> :date: __2020-06-04 11:07:17__
 
 
 
@@ -297,6 +297,8 @@ The SM_Covid19 app has been installed by more than **50000** times. At this time
 <img src="1_star_reviews_wordcloud.png" alt="it.softmining.projects.covid19.savelifestyle 1 reviews"/>
 </p>
 
+> L' app consuma troppo batteria<br> :date: __2020-08-29 14:05:30__
+
 > Pessima da migliorare tutto<br> :date: __2020-08-23 18:06:12__
 
 > Fatta malissimo<br> :date: __2020-08-20 20:13:25__
@@ -314,7 +316,5 @@ The SM_Covid19 app has been installed by more than **50000** times. At this time
 > Poco efficace fino ad ora<br> :date: __2020-07-08 23:41:06__
 
 > Non soddisfacente (al momento). Domanda: perché mi appare spesso la scritta 'applicazione in esecuzione" e l' indice è a 0.00? La prima volta che l'ho scaricata andava molto bene. Perché ora no saluti Paolo<br> :date: __2020-07-06 18:26:16__
-
-> 😢<br> :date: __2020-07-06 15:08:42__
 
 

@@ -168,6 +168,8 @@ The Corona Check Screening app has been installed by more than **5000** times. A
 <img src="3_star_reviews_wordcloud.png" alt="com.coronacheck.haugxhaug.testyourcorona 3 reviews"/>
 </p>
 
+> Die App ist soweit ganz gut, aber noch Verbesserungsfähig. Ich finde irgendwas fehlt noch; weiß aber noch nicht was. Ich gebe für den Anfang erst mal 3Sterne von 5. Ansonsten alles Super.<br> :date: __2020-08-28 21:53:02__
+
 > Die App ist toll aber nicht die beste die ich kenne 🤐😓<br> :date: __2020-06-16 19:10:08__
 
 > App konnte erst nicht starten, war Angeblich nicht mit dem Internet verbunden. Sehr schnelle Reaktion vom Support, nun funktioniert die App. Sternewertung schonmal gestiegen. 👍🏻👍🏻<br> :date: __2020-06-02 21:27:19__

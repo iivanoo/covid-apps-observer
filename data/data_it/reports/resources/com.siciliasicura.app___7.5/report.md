@@ -133,6 +133,12 @@ The SiciliaSiCura app has been installed by more than **50000** times. At this t
 <img src="5_star_reviews_wordcloud.png" alt="com.siciliasicura.app 5 reviews"/>
 </p>
 
+> Bene<br> :date: __2020-09-01 18:47:34__
+
+> Sono un siciliano residente in altra regione. Leggendo i commenti di altri utenti, a prescindere dai commenti sull'utilità o meno dell'app, ero un po' scettico sulla sua funzionalità. Tuttavia, dalla mia esperienza posso dire che non ho avuto problemi durante la registrazione. Sono riuscito a fare il check-in ed il check-out del mio gruppo (io e la mia compagna) con facilità. Spero che questa piccola accortezza possa essere utile per la sicurezza di tutti.<br> :date: __2020-08-26 15:57:11__
+
+> Un'app progettata molto bene ed estremamente utile!<br> :date: __2020-08-25 00:10:37__
+
 > Ottima<br> :date: __2020-08-14 15:47:45__
 
 > Funziona<br> :date: __2020-08-04 04:41:44__
@@ -147,12 +153,6 @@ The SiciliaSiCura app has been installed by more than **50000** times. At this t
 
 > Pratica e semplice<br> :date: __2020-07-18 17:48:14__
 
-> Iscrizione facile e sicura. App ben fatta e chiara da usare.<br> :date: __2020-07-18 00:00:46__
-
-> Ad oggi funziona molto bene. Installazione rapida ed efficace.<br> :date: __2020-07-11 17:09:50__
-
-> Utile<br> :date: __2020-07-08 10:18:11__
-
 
 
 #### 4-star reviews
@@ -160,6 +160,8 @@ The SiciliaSiCura app has been installed by more than **50000** times. At this t
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.siciliasicura.app 4 reviews"/>
 </p>
+
+> Si spera di non aver bisogno di aiuto.<br> :date: __2020-08-27 15:08:29__
 
 > Il problema sul codice fiscale invalido causa secondo nome non si è ripresentato più. Modifico recensione e valutazione<br> :date: __2020-07-24 11:04:17__
 
@@ -243,24 +245,24 @@ The SiciliaSiCura app has been installed by more than **50000** times. At this t
 <img src="1_star_reviews_wordcloud.png" alt="com.siciliasicura.app 1 reviews"/>
 </p>
 
+> Ci sto ancora impazzendo...<br> :date: __2020-09-09 12:38:32__
+
+> Non funziona per niente<br> :date: __2020-09-08 13:43:44__
+
+> Vengono richiesti troppi dati, la registrazione è infinita I gestori delle strutture non supportano l'applicazione. Ne ho sentito parlare solo dopo 2 settimane in Sicilia dall'ultimo gestore (ho l'impressione di essere uno dei pochissimi ad usarla). È obbligatoria?? In che modo può essere usata l'informazione sul checkout? Perché prendere la posizione? Come può la posizione GPS essere utile? Sarebbe meglio usare la prossimità Bluetooth come Immuni che per altre ragioni è comunque una porcheria<br> :date: __2020-09-04 20:08:20__
+
+> Ho scaricato app ,ma non si apre.<br> :date: __2020-08-30 16:34:37__
+
+> Non riesco registrarmi. 😤😷<br> :date: __2020-08-26 21:44:06__
+
+> Neanche si apre<br> :date: __2020-08-26 21:10:39__
+
+> Non riesco a scaricare l app...continuamente in download<br> :date: __2020-08-26 10:19:38__
+
+> Inutile, non avviene nessun controllo<br> :date: __2020-08-25 17:11:47__
+
 > Installata ma si blocca allo Splash<br> :date: __2020-08-22 20:51:10__
 
 > Buongiorno io ho scaricato l' app ma non riesco a registrare nessuno, non arriva neanche un email di conferma, cosa fare??<br> :date: __2020-08-20 12:53:20__
-
-> Non è completo il campo delle date, non permette l'inserimento delle date complete.<br> :date: __2020-08-18 10:31:58__
-
-> App con una grafica antica e user experience terribile, per completare la registrazione ti servono almeno 15 minuti. Tutta in Italiano, voglio vedere un turista estero come lo usa.<br> :date: __2020-08-15 19:22:19__
-
-> Non serve a nulla , dicono che arriva un e-mail con username ho fatto a tempo a rientrare dopo una settimana e la sto ancora aspettando<br> :date: __2020-08-13 08:15:35__
-
-> Impossibile ottenere credenziali valide<br> :date: __2020-08-11 11:48:06__
-
-> Continua a dirmi di verificare tutti i campi e cmq non appare mai il codice captcha. Impossibile proseguire.<br> :date: __2020-08-11 00:31:14__
-
-> Credo che questa app serva a posteriori per avvertire i non residenti dei casi di covid riscontrati sull'isola visto che i residenti (nella maggior parte dei casi) si guardano bene dall'usare le mascherine, cassieri dei supermercati compresi<br> :date: __2020-08-10 19:16:42__
-
-> L' app è fatta bene, ma non serve a niente perché le regole non vengono rispettate da nessuno.<br> :date: __2020-08-09 19:19:30__
-
-> Vergogna.<br> :date: __2020-08-09 13:26:48__
 
 

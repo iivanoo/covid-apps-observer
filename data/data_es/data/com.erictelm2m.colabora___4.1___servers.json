@@ -1,0 +1,69 @@
+[
+    {
+        "name": "google.com",
+        "registrar": "MarkMonitor Inc.",
+        "registrant": "Google LLC",
+        "registrar_country": "",
+        "registrant_country": "US",
+        "creation_date": "1997-09-15 04:00:00",
+        "expiration_date": "2028-09-14 04:00:00",
+        "last_updated": null,
+        "status": "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+        "statuses": [
+            "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited",
+            "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+            "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+            "clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)",
+            "serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)",
+            "serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)",
+            "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+            "clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)",
+            "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited",
+            "clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)",
+            "serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)",
+            "serverTransferProhibited https://icann.org/epp#serverTransferProhibited"
+        ],
+        "name_servers": "{'ns1.google.com', 'ns3.google.com', 'ns4.google.com', 'ns2.google.com'}"
+    },
+    {
+        "name": "erictel.com",
+        "registrar": "Hosting Concepts B.V. d/b/a Openprovider",
+        "registrant": "MAM Objects S.L.",
+        "registrar_country": "",
+        "registrant_country": "ES",
+        "creation_date": "1998-07-07 04:00:00",
+        "expiration_date": "2021-07-06 04:00:00",
+        "last_updated": null,
+        "status": "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+        "statuses": [
+            "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+        ],
+        "name_servers": "{'dns1.erictel.com', 'dns2.erictel.com'}"
+    },
+    {
+        "name": "googleapis.com",
+        "registrar": "MarkMonitor Inc.",
+        "registrant": "Google LLC",
+        "registrar_country": "",
+        "registrant_country": "US",
+        "creation_date": "2005-01-25 17:52:26",
+        "expiration_date": "2021-01-25 17:52:26",
+        "last_updated": null,
+        "status": "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+        "statuses": [
+            "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited",
+            "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+            "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+            "clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)",
+            "serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)",
+            "serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)",
+            "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+            "clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)",
+            "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited",
+            "clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)",
+            "serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)",
+            "serverTransferProhibited https://icann.org/epp#serverTransferProhibited"
+        ],
+        "name_servers": "{'ns1.google.com', 'ns3.google.com', 'ns4.google.com', 'ns2.google.com'}"
+    }
+]

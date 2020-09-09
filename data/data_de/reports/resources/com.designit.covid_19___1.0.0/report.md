@@ -197,6 +197,8 @@ The COVID-19 Symptom Tracker app has been installed by more than **10000** times
 <img src="2_star_reviews_wordcloud.png" alt="com.designit.covid_19 2 reviews"/>
 </p>
 
+> Keine Rückmeldung. Es werden von mir seit Beginn täglich Daten eingegeben, null Response. Start dauert ewig. Überlege, die App zu löschen.<br> :date: __2020-08-28 10:14:09__
+
 > Die Fragebögen sind schnell und einfach zu beantworten. Deinstalliert, weil: Versehentliche Fehleingaben (wackeliger Bus o.ä.) kann man nicht korrigieren. Die versprochene Einschätzung kam nie. Das Passwort wird jedes Mal abgefragt: 1) Das finde ich unnötig, da mein Gerät per PIN geschützt ist. 2) Das wusste ich nicht, habe daher dummerweise ein komplexes PW gewählt, das umständlich einzugeben ist, und kann's jetzt nicht mehr ändern.<br> :date: __2020-07-28 15:31:45__
 
 > Seit einem Monat dabei, aber bis heute keine Rückmeldung zu meinem Status. Nur einseitig, so wird das nichts... Wird demnächst gelöscht.<br> :date: __2020-05-29 09:45:10__
@@ -215,8 +217,6 @@ The COVID-19 Symptom Tracker app has been installed by more than **10000** times
 
 > Die App läßt sich installieren läuft aber dann nicht auf einem Samsung S4 mit Android 4.4.2. Daher wieder deinstalliert - leider<br> :date: __2020-04-26 09:44:53__
 
-> habe noch niiie in 1 app handlich unterschreiben müssen.mir zu unsicher.sorry.DEINSTALLIERT.<br> :date: __2020-04-25 13:24:08__
-
 
 
 #### 1-star reviews
@@ -225,13 +225,13 @@ The COVID-19 Symptom Tracker app has been installed by more than **10000** times
 <img src="1_star_reviews_wordcloud.png" alt="com.designit.covid_19 1 reviews"/>
 </p>
 
+> Die App funktioniert nicht Richtig nicht zu Empfehlen Updates gab es schon lange keine mehr die App ist der Letze Dreck die app hat nicht gehalten was sie versprochen hat die app braucht kein mensch nicht mal die Risiko zahlen wurden aktualisiert<br> :date: __2020-09-04 19:53:50__
+
 > Die App ist vernünftig stellt die richtigen Fragen mal sehen ob die App auch noch so gut bleibt in den nächsten Monaten die uns ja wahrscheinlich noch bevorstehen werden seit neuestem lade die App einfach zu lange bis die aufgeht bitte fixen dann wieder 5 Sterne naja die App die Leute melden sich ja nicht oder bar überarbeiten die app dass die wieder schneller lädt deswegen könnte man sie eigentlich auch löschen weil er mir das einfach zu lange dauert mit dem aufgehen<br> :date: __2020-08-16 20:25:07__
 
 > Die App ist vielleicht gut und sinnvoll. Aber sie braucht inzwischen extrem viel Zeit im Aufbau, so dass die Bearbeitung sehr zeitaufwendig und wegen des langen Leerlaufs der Kreise auch noch nervig ist. Eigentlich möchte ich die Corona-Forschung mit meinen Daten für diese App unterstützen, aber ich überlege gerade, sie zu löschen.<br> :date: __2020-08-12 23:00:54__
 
 > Seit etwa 100 Tagen aktiv. Leider im Status immer noch der Vermerk "wir überarbeiten die Kennzahlen", keine Risikoeinschätzung.<br> :date: __2020-08-11 05:43:24__
-
-> Nicht zu Empfehlen die App wurde wieder Deeinstalliert Die app funktioniert nicht Richtig es dreht dich lange der Kreis bis was Weiter geht die app hat auch schon lange kein Update mehr bekommen seit Anfang an steht da das die Kennzahlen überarbeitet werden und nichts passiert.<br> :date: __2020-08-06 23:58:02__
 
 > Hilft nix ist umständlich und muß nach jedem Smartphonestart neu aufgerufen werden.<br> :date: __2020-07-20 18:43:23__
 

@@ -171,25 +171,25 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <img src="5_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 5 reviews"/>
 </p>
 
+> Perfeito<br> :date: __2020-09-09 02:55:00__
+
+> Bom<br> :date: __2020-09-04 21:37:00__
+
+> Obrigados<br> :date: __2020-09-04 09:20:05__
+
+> Muito boa. Todos os utilizadores deviam ter esta aplicação Fácil e rápida para nós<br> :date: __2020-09-03 23:07:11__
+
+> Boa<br> :date: __2020-09-01 20:42:35__
+
+> Excelente serviço.<br> :date: __2020-08-30 18:11:13__
+
+> A chave móvel digital é facilmente conseguida em qualquer loja do cidadão na área dos B. Is/Cartao de Cidadão. Depois é só navegar. Muito simples e intuitivo<br> :date: __2020-08-28 21:14:32__
+
 > Excelente<br> :date: __2020-08-18 19:42:54__
 
 > Funciona lindamente. Tem toda a informação disponível. O acesso é rápido, desde que já se tenha efetivado o registo na chave móvel digital, que nada tem a ver com esta aplicação, mas sim com um acesso seguro a todos os serviços da administração pública!<br> :date: __2020-08-14 13:39:47__
 
 > Boa<br> :date: __2020-08-07 17:16:51__
-
-> Excelente 5 estrelas<br> :date: __2020-08-06 20:58:03__
-
-> Se respeitar o próximo vale a pena disse<br> :date: __2020-08-05 15:12:09__
-
-> Boa<br> :date: __2020-07-20 21:14:55__
-
-> Boa<br> :date: __2020-07-07 14:04:32__
-
-> Muito bom obrigados<br> :date: __2020-06-27 22:40:52__
-
-> Muito bom.<br> :date: __2020-06-26 00:43:33__
-
-> Porque aufiro tratamentos oncológicos no hospital distrital de Santarém e com atendimento excional.<br> :date: __2020-06-18 00:13:36__
 
 
 
@@ -227,6 +227,8 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <img src="3_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 3 reviews"/>
 </p>
 
+> A app stayaway Covid-19, tem algum problema em ser instalada? Muito obrigada.<br> :date: __2020-09-01 11:17:30__
+
 > Difícil, é nem sempre conseguimos atendimento<br> :date: __2020-08-05 13:09:26__
 
 > Pouca dificuldade a, aceder !<br> :date: __2020-06-26 20:16:31__
@@ -245,8 +247,6 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 
 > Não faz qualquer sentido a firma de introdução da data de nascimento. Perdi a conta às vezes que cliquei no écran. Vamos lá a ver se vale a pena a aplicação.<br> :date: __2019-10-05 19:28:13__
 
-> Nao é muito funcional. É confusa para o utente.<br> :date: __2019-10-03 13:04:49__
-
 
 
 #### 2-star reviews
@@ -254,6 +254,12 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 2 reviews"/>
 </p>
+
+> Muito complicado. Para aceder à minha conta do banco é bem mais fácil e seguro na mesma.<br> :date: __2020-08-30 12:46:29__
+
+> Diz que a APP foi desenhada para Android 5 e "Crasha". Não passa daqui. Não consigo fazer mais nada.<br> :date: __2020-08-29 00:01:45__
+
+> Pouco intuitiva, nada funcional como app para Android.<br> :date: __2020-08-28 21:49:31__
 
 > Elaborada para uma versão mais antiga<br> :date: __2020-07-02 08:58:12__
 
@@ -269,12 +275,6 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 
 > Não dá acesso à nada.... Mais uma vergonha nos serviços<br> :date: __2020-03-12 01:27:51__
 
-> Não permite fazer quase nada na própria aplicação enviando o utilizador para o browser quando se acede às opções. A alocação não é mais que atalhos para a página do SNS<br> :date: __2020-03-04 14:25:45__
-
-> Não gostei. Parece mais uma página web do que app.<br> :date: __2019-08-10 09:31:42__
-
-> Após introdução de análises clínicas pelo médico de família, não é possível saber que análises foram pedidas ou onde as fazer<br> :date: __2019-06-15 21:33:25__
-
 
 
 #### 1-star reviews
@@ -283,6 +283,18 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <img src="1_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 1 reviews"/>
 </p>
 
+> Como é que os menores acedem a app, e ja agora como se acede a chave movel digital de familia, tal como esta no site.<br> :date: __2020-09-03 22:49:57__
+
+> Não é bom como emergência, tenho 74 anos estou confinado pela pandemia, e não tenho acesso ao MySNS, já tive em dois equipamentos que se estragaram, o sistema do SNS agora não me permite instalar a APP em outro equipamento<br> :date: __2020-09-03 11:52:47__
+
+> Extremamente difícil de fazer registo .. simplesmente não consigo<br> :date: __2020-09-01 12:41:21__
+
+> Que desgraça de aplicação, instalo e não é compatível com a minha versão de Android versão 10<br> :date: __2020-08-31 19:57:04__
+
+> Nao serve para nada. Sempre bloqueada....sem acesso. Inutil<br> :date: __2020-08-29 13:15:34__
+
+> Para Android mais antigo!<br> :date: __2020-08-28 21:30:22__
+
 > E péssima, não e funcional para a maioria da população<br> :date: __2020-08-23 15:21:51__
 
 > Não se consegue entrar a não ser que se tenha um leitor de cartões<br> :date: __2020-08-06 14:37:20__
@@ -290,17 +302,5 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 > Para android mais antigo !????<br> :date: __2020-08-02 11:06:09__
 
 > Está app não serve para nada, não consigo usá-la<br> :date: __2020-07-31 14:21:45__
-
-> Meus caros do SNS, a trampa desta aplicação funciona ou não? Ou é mais uma app fantasma?<br> :date: __2020-07-24 20:06:43__
-
-> Não consigo entrar no site e fazer qualquer pedido de medicação... quem me pode ajudar???!!!<br> :date: __2020-07-17 09:09:08__
-
-> Esta app apenas serve de launcher para os servicos que estão disponíveis na net.<br> :date: __2020-07-14 22:33:15__
-
-> nao funciona rubish<br> :date: __2020-07-02 21:44:57__
-
-> Uma verdadeira dor de cabeça para entrar desde que mudaram para autenticação com cartão se cidadão!! Não se consegue entrar sequer!!! Com o pin correto! Inutilidade!!! Uma vergonha!<br> :date: __2020-07-02 19:25:28__
-
-> 😡😡😡😡<br> :date: __2020-06-24 15:47:21__
 
 

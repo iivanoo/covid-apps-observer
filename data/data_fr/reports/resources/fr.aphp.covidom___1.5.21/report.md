@@ -210,6 +210,12 @@ The Covidom Patient app has been installed by more than **10000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="fr.aphp.covidom 1 reviews"/>
 </p>
 
+> Application très mal finie , web et Android. Par un pré-apprenti stagiaire ? Impossible d'ajouter un document PDF, seules les photos sont acceptées. Pas moyen d'enlever un document envoyé par erreur ! Sur la version web, je suis de sexe indéterminé, je ne peux pas corriger. Sur Android, je suis une femme. Depuis quand ? Je suis né avec un zizi il y a un peu plus de 59 ans, je l'ai toujours et n'ai jamais voulu m'en défaire. Merci de corriger.<br> :date: __2020-09-02 00:04:31__
+
+> J'ai activé mon compte mais je n'arrive pas a faire le questionnaire de suivi. Comment dois-je faire ?<br> :date: __2020-09-01 00:20:57__
+
+> Aussitôt installée aussitôt desinstallee, ne fonctionne pas avec les codes reçus par SMS, APPLI totalement inutile donc. Pas de temps à perdre àvec un truc qui ne fonctionne pas<br> :date: __2020-08-25 10:17:58__
+
 > J'ai été en contact avec une personne testée positive, j'ai reçu mes codes, mais à aucun moment il y a la question: avez vous fait le dépistage ? Je l'ai fait je suis négative et je dois remplir le questionnaire comme si j'étais positive... Incohérent !<br> :date: __2020-08-18 10:48:21__
 
 > Impossible d'avoir une connexion malgré une création d'un comte.<br> :date: __2020-08-14 13:41:35__
@@ -223,11 +229,5 @@ The Covidom Patient app has been installed by more than **10000** times. At this
 > De la poudre au yeux quelque soit le résultat on vous demande d'appeler ...donc poubelle direct<br> :date: __2020-07-04 12:58:45__
 
 > Pas d'accès hors app qui a refusé de me suivre<br> :date: __2020-05-31 20:24:54__
-
-> Pas du tour contente du service j'ai eu des grosse tachycardie et PERSONNE ne ma appeler ... tomber malade le 21 mars, déclarer "guerri" le 7 avril, on est le 13 mai ET J'AI TOUJOURS DES SYMPTOMES QUI ME GACHE LA VIE ET M'EMPÊCHE D'ALLER TRAVAILLER et je ne suis pas la seule c'est nimporte quoi horrible personne pour nous prendre en charge !!!!!!!!!<br> :date: __2020-05-13 19:01:45__
-
-> Arrive pas à ce connecter ou crée un compte<br> :date: __2020-04-27 10:18:23__
-
-> Pénible a utiliser<br> :date: __2020-04-22 12:27:37__
 
 

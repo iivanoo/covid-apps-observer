@@ -150,6 +150,12 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="org.madrid.CoronaMadrid 5 reviews"/>
 </p>
 
+> Me gustaria hacerme la prueba<br> :date: __2020-08-28 20:39:45__
+
+> Yo no sé que están valorando aquí porque no es verdad que no puedas cerrar sesión o que no puedas meter fechas o que no puedas localizar centro sanitarios,totalmente falso parece una campaña para fastidiar la app y a los desarrolladores. Toda va perfecto y cada 12 horas puedes volver a evaluar tu salud. Además las recomendaciones son muy buenas respecto al covid-19. App excelente,rápida y facilísima. Gracias<br> :date: __2020-08-27 09:58:52__
+
+> 5-star para opinar otra copia más Arriba los impuestos saludos suerte cultura y gracias<br> :date: __2020-08-25 15:59:03__
+
 > Me la acabo de instalar<br> :date: __2020-08-10 11:40:23__
 
 > Aún no le he usado, pero parece efectiva.<br> :date: __2020-08-08 18:45:23__
@@ -163,12 +169,6 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 > Ha sido muy facil de usar y muy práctica.<br> :date: __2020-07-08 21:14:07__
 
 > Excelente, buen seguimiento.<br> :date: __2020-07-01 16:47:36__
-
-> Funciona bien cumple lo que promete, ayuda al diagnóstico y a evitar riesgos<br> :date: __2020-06-27 14:18:58__
-
-> En el centro de salud calle odonell no les dio la gana de hacerlo.con una oscultacion de 1 minuto la dictora ya te decia que no tenias nada .soy de riesgo y cronico .diabetico y con cancer como se explica esa actuacion tengo el nombre de la doctora si me pasa algo esta todo grabado .<br> :date: __2020-05-18 16:20:48__
-
-> Mejorarla, meter más opciones de diagnóstico.<br> :date: __2020-05-09 17:01:13__
 
 
 
@@ -206,6 +206,8 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 <img src="3_star_reviews_wordcloud.png" alt="org.madrid.CoronaMadrid 3 reviews"/>
 </p>
 
+> Quizás en marzo resultaba más útil. Ahora no está mal, pero no sirve realmente de mucho sin un sistema de rastreo.<br> :date: __2020-08-30 08:19:54__
+
 > Deberían actualizar las recomendaciones. Según la aplicación la mascarilla no es obligatoria....<br> :date: __2020-08-16 16:37:20__
 
 > Debería actualizarse la información relacionada con la obligatoriedad de llevar mascarilla en todos los casos desde el pasado 30 de agosto.<br> :date: __2020-08-02 14:27:19__
@@ -224,8 +226,6 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 
 > Deberían sacarla para toda españa...ni que el virus solo estuviera en madrid. Es buena pero incompleta.<br> :date: __2020-04-07 09:46:43__
 
-> Estaria bien que pudieses cambiar en vez de madrid de donde tu seas<br> :date: __2020-04-06 17:04:21__
-
 
 
 #### 2-star reviews
@@ -234,9 +234,11 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 <img src="2_star_reviews_wordcloud.png" alt="org.madrid.CoronaMadrid 2 reviews"/>
 </p>
 
-> No la veo ninguna utilidad, pero espero que alguien le valga para algo<br> :date: __2020-08-05 13:11:10__
+> Selección de fecha nacimiento muy ineficiente. ¿Búsqueda mes a mes? Revisen la app.<br> :date: __2020-09-01 08:52:10__
 
-> No hace falta pedir registro para esto<br> :date: __2020-08-03 12:12:42__
+> Que para empezar te pidan fecha de nacimiento y haya que ir mes a mes hasta encontrarla puede desanimar a cualquier persona mayor de 1 año. La aplicacion consiste básicamente en hacerte unas pocas preguntas. Buena iniciativa pero mejorable.<br> :date: __2020-08-31 20:09:18__
+
+> No la veo ninguna utilidad, pero espero que alguien le valga para algo<br> :date: __2020-08-05 13:11:10__
 
 > Necesita una mejora para facilitar el rastreo: una simple agenda donde podamos anotar, cada noche ( que notifique), dónde y con quien hemos estado. A falta de una app dedicada con tecnología GPS y Bluetooth, podría ayuda mucho<br> :date: __2020-07-26 09:34:13__
 
@@ -252,8 +254,6 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 
 > Me parece que hacen muy pocas preguntas... Por ejemplo, no está el tema de los sarpullidos y picor en la piel, la diarrea, etc. El covid tiene más síntomas que la tos, fiebre y la falta de aire.<br> :date: __2020-04-25 23:27:59__
 
-> La idea de la app es buena. Pero sabiéndose que hay otros síntomas de la enfermedad y que estos no se encuentran en las opciones, se resulta un tanto ineficaz para un real control.<br> :date: __2020-04-11 20:34:07__
-
 
 
 #### 1-star reviews
@@ -262,24 +262,24 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="org.madrid.CoronaMadrid 1 reviews"/>
 </p>
 
-> No pone en ningún sitio si hacen un rastreo de los moviles de forma que puedan detectar con quien ha estado en contacto la persona que ha descargado la aplicación. Esa sería la función principal de la aplicación y no creo que lo haga. Por otro lado no creo que sea necesario que demos todos nuestros datos personales. Y por último el sistema para meter la fecha de nacimiento podría ser mucho más fácil si se pudiera meter el año, el mes y el día para evitar apretar 12 veces por cada año que tienes.<br> :date: __2020-08-23 08:36:08__
+> Creo que tengo el virus. Y la solución que me dan, es llamar a mi ambulatorio. Para eso una app? Para que te remitan a tu ambulatorio. Lo de siempre. Algún amigo de .... que se está forrando con los resultado para no hacer nada. Y con dinero público. Una vergüenza más de la comunidad de Madrid.<br> :date: __2020-09-04 11:50:08__
 
-> Tras instalar sin problemas, la aplicación no abre. Desinstalada. Android 10, LineageOS.<br> :date: __2020-08-19 13:58:52__
+> No entiendo porque necesitan mis datos. No tiene xq ser necesario, la elimino.<br> :date: __2020-09-03 20:27:45__
 
-> No se les ocurrió permitir poner la fecha con el teclado. Tengo 56 años y para poner mi fecha de nacimiento tengo que dar 680 veces a la tecla atrás... Desinstalada inmediatamente<br> :date: __2020-08-19 13:48:54__
+> No incluye sintomatología tan variada como lo es la de la Covid-19 y reduce su evaluación a un margen limitado de síntomas y deja de lado síntomas que también pueden repercutir gravemente en la salud de una persona, no te dice nada nuevo a lo que ya has visto en la tv y no tiene coneccion ninguna con los centros de diagnóstico y control de enfermedades.<br> :date: __2020-09-03 08:21:44__
 
-> malísima, menudos ineptos los desarrolladores, no puedes buscar centros de salud por dirección, solo en modo mapa, incompetentes total. después no hay botón para salir de la aplicación, como sois tan zopencos.<br> :date: __2020-08-16 11:56:56__
+> En la app se mezclan los datos de varias personas al realizar varios diagnósticos. Luego te llama un operador de la consejería muy desagradable echándote la bronca porque no has grabado bien los datos y diciéndote que para que usas la app si te han hecho pcr(precisamente para eso, para ver si me la tengo que hacer o no) y luego te cuelga. De vergüenza. La app es una mi... Pero la gestión es peor aún.<br> :date: __2020-09-01 18:34:52__
 
-> Ni siquiera se abre, da error.<br> :date: __2020-08-12 21:33:34__
+> ¿En serio pensáis que una persona de 70 años va a recorrer todos los meses desde el 2020 hasta llegar a su fecha de nacimiento? Usabilidad por los suelos. Utilidad poca. Debería incluir los teléfonos de contacto de los centros de salud según la dirección suministrada. Tambien entre otras cosas es absurdo que pida DNI a menores de edad y no te deje seguir si no lo pones. Y para colmo no está conectada con radar covid. Pues tú dirás<br> :date: __2020-08-31 12:47:56__
 
-> Muy mejorable<br> :date: __2020-08-12 21:18:12__
+> La autoevaluación genera notificaciones sin parar y genera un efecto contrario al deseado. Lo lógico sería usar sólo Radar COVID<br> :date: __2020-08-31 09:41:14__
 
-> No me sirve de nada si no me informa de posibles contactos<br> :date: __2020-08-11 21:41:28__
+> No vale para nada. No registra los contactos. Solamente da recomendaciones básicas. Para cuando el Radar covid no pierdan en tiempo con esta app. Es inútil en cuanto a detección y prevención y propagación .. un 0. Pena de esfuerzos para nada.. Políticos de pacotilla Radar COVID Ya!!! Hagan algo por todos de una vez...vagos🤔.<br> :date: __2020-08-30 22:51:49__
 
-> desinstalada, para poner la fecha de nacimiento y en vez de poner tres ruedas con los diferentes números y así poner la fecha de nacimiento, colocan el Lumbreras del desarrollador un calendario por hojas si tienes qué volver atrás 40 años desde la fecha qué instalas la app te tiras toda la tardecita y eso me dice mucho sobre la efectividad de la app, claro qué sabiendo los qué están gestionando la pandemia en Madrid pués puede pasar cualquier cosa, panda de inútiles.. no hacen una cosa bien..<br> :date: __2020-08-09 14:26:37__
+> No aporta el nivel de riesgo según mi ubicación Deberíamos tener una única aplicación , que la integren en la aplicación radar covid<br> :date: __2020-08-29 23:08:55__
 
-> Una aplicación q no sirve para nada. Una estafa si pagaron por crearla. No ayuda en nada conozco mejores opciones de rastreo.<br> :date: __2020-08-06 14:21:19__
+> Chapuza, una más.<br> :date: __2020-08-29 22:45:00__
 
-> Nefasto. Vivo en Valdemoro, cp 28341 y dice que no existe. Esta app la han hecho canis o cayetanos a dedo???<br> :date: __2020-08-05 13:15:02__
+> No vale para nada, asi nos va, activar radar covid ya.<br> :date: __2020-08-29 22:39:25__
 
 

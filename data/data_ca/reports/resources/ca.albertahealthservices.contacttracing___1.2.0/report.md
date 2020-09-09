@@ -145,6 +145,10 @@ The ABTraceTogether app has been installed by more than **50000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="ca.albertahealthservices.contacttracing 5 reviews"/>
 </p>
 
+> I have a 3 years old phone & I've had no problem with my battery. When keeping Bluetooth on, in a 12 hour period the battery usage was only 0.7%. My only complaint is that it shows an icon in my status bar regardless if Bluetooth is on or off. Personally I would prefer that the icon only shows when Bluetooth is off. Until we get the National app here at least it's one thing I can do. Who knows when we'll get the National one!?! Hopefully sooner than later!<br> :date: __2020-09-05 04:37:30__
+
+> I like to have the App to protect myself. I feel more confident wherever i go knowing that if iam exposed to the virus i will be informed immediately and that way i can be tested and get the treatment i need. Thank you<br> :date: __2020-09-02 08:15:09__
+
 > I have not had any problems at all aside from the battery drain which I solved by turning off my Bluetooth at home and turning it on while I am out.<br> :date: __2020-08-09 00:29:04__
 
 > I like this app because it will inform me if I've been in contact with anybody that has this virus because I definitely do not want to get it thank you<br> :date: __2020-07-31 20:43:34__
@@ -160,10 +164,6 @@ The ABTraceTogether app has been installed by more than **50000** times. At this
 > 5 stars but still......Google maps tracks your phone -where, when- what time and exact place literally on a bus, anyone with a Gmail account, their GPS or location setting on their Android or Apple phone can access their location history, even your commands to Ok Google. and easily share this information with health officials if the time arises. Just thought I'd point that out.<br> :date: __2020-07-04 04:12:15__
 
 > Installed it. Hope I'll need to use it!<br> :date: __2020-06-29 22:14:01__
-
-> Works well on S10, no issues to report here. Impressive beard illustrations to boot!<br> :date: __2020-06-28 14:37:55__
-
-> Bring app please to every one mandatory.<br> :date: __2020-06-23 03:30:47__
 
 
 
@@ -201,6 +201,8 @@ The ABTraceTogether app has been installed by more than **50000** times. At this
 <img src="3_star_reviews_wordcloud.png" alt="ca.albertahealthservices.contacttracing 3 reviews"/>
 </p>
 
+> It's irritating that it has a large notification on my screen all the time to note that it's running, rather than an icon, or the option to just run in the background without that. Worse, it drains my battery, using as much power as almost everything else I run combined. I'd like to use it, but this isn't feasible.<br> :date: __2020-08-27 01:11:47__
+
 > Extreme battery usage on a Pixel 2. Want to keep it don't know what to do<br> :date: __2020-08-20 06:30:42__
 
 > Please listen to everyone and make an on/off option. This only needs to be on when we go out in public and will just be an added step such as bringing a mask.<br> :date: __2020-08-11 05:33:38__
@@ -219,8 +221,6 @@ The ABTraceTogether app has been installed by more than **50000** times. At this
 
 > I would have really liked to use this to help out but my battery life is non-existent. I just got a new S10 and my battery died a little over halfway through the day. If they could somehow fix this app to turn off when you're not moving or something then maybe it wouldn't drain your battery so bad? No idea, but I had to uninstall it.<br> :date: __2020-06-17 03:36:59__
 
-> This should also include covid 19 stats available at AHS website. Push notifications for outbreaks of chosen locations by the user or if there is any change in current restrictions. Info on current public health order, public health guidance. Latest news and announcements (ie. Change in testing policies, etc), provide relevant links (ie. Biz connect), then it may encourage people to install it.<br> :date: __2020-06-16 17:28:05__
-
 
 
 #### 2-star reviews
@@ -228,6 +228,8 @@ The ABTraceTogether app has been installed by more than **50000** times. At this
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="ca.albertahealthservices.contacttracing 2 reviews"/>
 </p>
+
+> It's an absolute battery drainer! The intentions are good and the existence of it is important but it's just killing my battery and my phone is brand new.<br> :date: __2020-08-25 04:21:04__
 
 > The idea behind this is great. But the implementation eats battery like candy. And there's no way to temporarily turn it off. I'd love to be able to turn it off while I'm driving or when I'm backpacking in PLUZ areas no where near another human. So because my phone having battery is more important when I'm in the middle of no where I'm uninstalling.<br> :date: __2020-08-19 17:33:47__
 
@@ -247,8 +249,6 @@ The ABTraceTogether app has been installed by more than **50000** times. At this
 
 > I want to understand why the app needs permission to location data when the app description says they don't collect it. Is there any reasonable explanation?<br> :date: __2020-06-18 03:54:44__
 
-> Battery drain.<br> :date: __2020-06-14 23:21:25__
-
 
 
 #### 1-star reviews
@@ -256,6 +256,10 @@ The ABTraceTogether app has been installed by more than **50000** times. At this
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="ca.albertahealthservices.contacttracing 1 reviews"/>
 </p>
+
+> First time code didn't work. Now stuck at that point. Should be option to resend a code.<br> :date: __2020-09-06 22:38:04__
+
+> Absolute garbage. It doesn't stay active on your phone. I have to restart my phone when I'm out and about several times so absolutely no point. Doesn't work.<br> :date: __2020-09-03 15:30:42__
 
 > Eats batter, very very badly. 45% battery usage over 2 hrs.<br> :date: __2020-08-17 00:03:46__
 
@@ -272,9 +276,5 @@ The ABTraceTogether app has been installed by more than **50000** times. At this
 > Terrible app, can't even register.<br> :date: __2020-08-05 16:04:20__
 
 > Won't let me sign up. Uninstalled then reinstalled, now there's an error message when adding phone number.<br> :date: __2020-08-05 15:09:29__
-
-> The app keeps asking me to restart my phone 10 times per hour. Please fix it.<br> :date: __2020-08-05 02:05:07__
-
-> Needs to run in foreground. When app crashes user has to manually restart. Drain on battery. This is not a good solution. Better to switch to the new Health Canada app called COVID Alert.<br> :date: __2020-08-04 18:37:57__
 
 

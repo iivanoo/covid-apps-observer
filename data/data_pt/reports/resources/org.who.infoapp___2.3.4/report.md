@@ -179,6 +179,8 @@ No recent reviews available with 2 stars.
 <img src="1_star_reviews_wordcloud.png" alt="org.who.infoapp 1 reviews"/>
 </p>
 
+> Inglês, Sr Ministro ??????.?<br> :date: __2020-09-01 11:01:09__
+
 > Na próxima encarnação vou aprender inglês, depois volto a instalar a APP. Desinstalei, inútil para mim.<br> :date: __2020-08-05 17:04:59__
 
 > Ruim<br> :date: __2020-07-29 23:21:44__

@@ -215,6 +215,8 @@ The BC COVID-19 Support app has been installed by more than **50000** times. At 
 <img src="1_star_reviews_wordcloud.png" alt="ca.bc.gov.health.hlbc.COVID19 1 reviews"/>
 </p>
 
+> Does not show the right detailed information. Northern British Columbia is vast and a new case a thousand kilometres away is treated like it is on my back door. The maps could be better defined.<br> :date: __2020-08-28 06:11:40__
+
 > Your app stalls at "what did you decide to do". FIX IT!<br> :date: __2020-08-13 17:43:30__
 
 > WRONG NATIONALITY TO FOLLOW WITH RESPECTING THE LAW OF CANADA. OPENING A RESOURCE FROM CANADA: AFRICAN PEOPLE OR KIND ARE N0T WELCOME TO LAW OF CANADA . AFRICAN WELCOME TO AFROICA ONLY. TANK CHILD LAW COUNTRY'. WROTE BY: MAXX GUN<br> :date: __2020-06-01 06:54:22__
@@ -232,7 +234,5 @@ The BC COVID-19 Support app has been installed by more than **50000** times. At 
 > Keep having to uninstall and reinstall<br> :date: __2020-03-29 07:38:58__
 
 > Useless<br> :date: __2020-03-28 22:47:40__
-
-> Some very minimal resources and suggestions for managing symptoms. A flashy way to be told to call the nurses line, for basically any scenario. Just call 811 and save your time.<br> :date: __2020-03-28 05:25:51__
 
 

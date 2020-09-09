@@ -200,6 +200,8 @@ The CoronaTest Navarra app has been installed by more than **5000** times. At th
 <img src="1_star_reviews_wordcloud.png" alt="es.navarra.coronatestnavarra 1 reviews"/>
 </p>
 
+> Te pide de todo<br> :date: __2020-08-24 15:59:28__
+
 > Despues de mas de dos meses siguen mandándome dos SMS al dia diciendome que me tome la temperatura. Cuando va a parar??<br> :date: __2020-08-18 13:14:26__
 
 > Penosa app, se rien en tu cara...<br> :date: __2020-07-01 10:51:35__

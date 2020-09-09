@@ -1,0 +1,30 @@
+{
+    "permissions": [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        "android.permission.INTERNET",
+        "android.permission.WAKE_LOCK",
+        "android.permission.FOREGROUND_SERVICE",
+        "android.permission.BLUETOOTH",
+        "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+        "android.permission.CAMERA",
+        "android.permission.ACCESS_NETWORK_STATE"
+    ],
+    "activities": [
+        "de.rki.coronawarnapp.ui.LauncherActivity",
+        "de.rki.coronawarnapp.ui.main.MainActivity",
+        "de.rki.coronawarnapp.ui.onboarding.OnboardingActivity",
+        "com.journeyapps.barcodescanner.CaptureActivity",
+        "com.google.android.gms.common.api.GoogleApiActivity",
+        "com.google.android.play.core.missingsplits.PlayCoreMissingSplitsActivity",
+        "com.google.android.play.core.common.PlayCoreDialogWrapperActivity"
+    ],
+    "urls": [
+        "http://schemas.android.com/apk/res/android",
+        "https://plus.google.com/",
+        "https://play.google.com/store/apps/details?id=de.rki.coronawarnapp",
+        "http://schemas.android.com/apk/res-auto",
+        "https://svc90.main.px.t-online.de",
+        "https://submission.coronawarn.app",
+        "https://verification.coronawarn.app"
+    ]
+}

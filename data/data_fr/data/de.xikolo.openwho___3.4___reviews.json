@@ -1,5 +1,29 @@
 [
     {
+        "reviewId": "gp:AOqpTOGJDp6WYlwcF8kAaR3ElLsoYT0QZ2Ut3J0XHi1bTHCPHMLgexRqv9KYxVjQ-lf9uA5PKz9ggOqxhcgpYw",
+        "userName": "Michel Benatian Kavuza",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhLWkwqq1-PLF92Pg2-1wleYvacseWYm4teCf9D",
+        "content": "Je l'aime",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2020-08-29 13:17:38",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGAjZXd-n4v4LVwDdg6cu27Z_JKKlxVFSvLh5UVrAzQzRoYVXv6aZKUY4YFP8a9L_IUN6tAw1KazGm3zQ",
+        "userName": "Alex Djieufo",
+        "userImage": "https://play-lh.googleusercontent.com/-ntlpCKgGKDc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckoYQ0Kvw1UvK0q8hE9gJAZyppc6Q/photo.jpg",
+        "content": "Excellent",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.4",
+        "at": "2020-08-24 23:15:20",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOFxZ7m_YJTAbwgEZOLca98fc_YNGIpKLkqsP-KUnf_WFA8RayYHBQUtK71uH4zx2nXN9dXbL8dm_bBHDw",
         "userName": "Gospel me tv",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiXPAswZb8BJ3unXpkP-MNqb-XdeEOAq_1HZTyBEA",
@@ -65,7 +89,7 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiDsKAE_BDQ4PX0iPCNOtIFDOOL6dAY6hEa0ZDPyA",
         "content": "Meilleurs fa\u00e7ons d'apprentissage Merci aux concepteurs",
         "score": 5,
-        "thumbsUpCount": 22,
+        "thumbsUpCount": 24,
         "reviewCreatedVersion": "3.3.1",
         "at": "2020-05-22 15:49:15",
         "replyContent": null,
@@ -74,7 +98,7 @@
     {
         "reviewId": "gp:AOqpTOFRCSyIG8sUKHte_5yPpwDWnrhpUcrs4m6Wr9Bgc3UTYfU25Q4Ty0Hpbk-5eOgeA0B49EfcDulBLDGWrw",
         "userName": "Goni Boukar",
-        "userImage": "https://lh3.googleusercontent.com/-YH71Lc_lyyQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclU0dEkOMRaFxEbczSM-T3fWbuoJQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-YH71Lc_lyyQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclU0dEkOMRaFxEbczSM-T3fWbuoJQ/photo.jpg",
         "content": "Tr\u00e8s int\u00e9ressant",
         "score": 5,
         "thumbsUpCount": 0,
@@ -98,7 +122,7 @@
     {
         "reviewId": "gp:AOqpTOGnwRXsOxQIZ9y5Q8YNlgw7QCQ5ofLCVSnMmdwAe7eKW-vLYO-2kSi9QU7WYWxDRsm1o8PXELafR76wgg",
         "userName": "Yasser Tahi",
-        "userImage": "https://lh3.googleusercontent.com/-bl08iOJdQvo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmJtiCslrJWufNESSn0MlFwvullyQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-bl08iOJdQvo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmJtiCslrJWufNESSn0MlFwvullyQ/photo.jpg",
         "content": "Salam de son c\u00f4t\u00e9 que",
         "score": 5,
         "thumbsUpCount": 0,
@@ -134,7 +158,7 @@
     {
         "reviewId": "gp:AOqpTOEmtn70MPbPh3chjmi85yClt_E3fVru7X63MPCPECi4NF_u5geRr-3Y-CgEz2s1_CzJBxB1AsL1CNfKww",
         "userName": "Bernard Ebrin",
-        "userImage": "https://lh3.googleusercontent.com/-4KQUT4B5ZE8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnMtT6kLMzcCJSVkGxKziWIVnnxyQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-4KQUT4B5ZE8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnMtT6kLMzcCJSVkGxKziWIVnnxyQ/photo.jpg",
         "content": "Permet un apprentissage en ligne",
         "score": 5,
         "thumbsUpCount": 0,
@@ -158,7 +182,7 @@
     {
         "reviewId": "gp:AOqpTOGMitGog8ZvxWYEusI92HU88HyBjLR-BPscmaj6o1m5tER2wOP29u2fQrKZSjNYpqb0iWZewom1zs_06Q",
         "userName": "Nou Ro",
-        "userImage": "https://lh3.googleusercontent.com/-7_RHU8ht2bM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclEDSOIQMEfjRFBZqDHE_3K7YrHFQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-7_RHU8ht2bM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclEDSOIQMEfjRFBZqDHE_3K7YrHFQ/photo.jpg",
         "content": "Tr\u00e8s bien Boudet jontie",
         "score": 5,
         "thumbsUpCount": 1,
@@ -169,7 +193,7 @@
     },
     {
         "reviewId": "gp:AOqpTOGhOpMZmZdEJhpRnsAMSrlz5TggNgu3UOa0rzET7mTDOESV8S1JI05I0Wya6G6vl4bKwS7ij6jWrfbEFA",
-        "userName": "driss ghailani",
+        "userName": "driss ghailani with plants",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgnGW3c5h6mNiabgp6AJJwKqY4Ems274tfm6LSmlg",
         "content": "Good",
         "score": 5,
@@ -182,7 +206,7 @@
     {
         "reviewId": "gp:AOqpTOE-uffq8ATyOIsKcWygdLe6PyGJpy1I-nwBnbVAdjaN-7f5JkiiBGzz7dCfPRyz3q8_c9cNr5UPV5LGRw",
         "userName": "Lamine Nanko",
-        "userImage": "https://lh3.googleusercontent.com/-K7YxebUeYbk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucntxATx7E-iS3HQc_7i5bnOMzvQyA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-K7YxebUeYbk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucntxATx7E-iS3HQc_7i5bnOMzvQyA/photo.jpg",
         "content": "Cv",
         "score": 5,
         "thumbsUpCount": 0,
@@ -206,7 +230,7 @@
     {
         "reviewId": "gp:AOqpTOGZ8pERVyj24-MstVAUflPBgeHsXmHD7y-vRukGPP1IqNvo-8LIW0S4J1c_yiWFzNyWTpy8gfgD-SCfiA",
         "userName": "Madeleine Thierry",
-        "userImage": "https://lh3.googleusercontent.com/-PdENMSxM77c/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl6HL5j0Q4_HAGMUbETiSY_Q9coKQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-PdENMSxM77c/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl6HL5j0Q4_HAGMUbETiSY_Q9coKQ/photo.jpg",
         "content": "C'est mieux de \u00eatre inform\u00e9 pars l oms que par le gouvernement !merci a vous",
         "score": 5,
         "thumbsUpCount": 0,
@@ -218,10 +242,10 @@
     {
         "reviewId": "gp:AOqpTOHi4_ycFcijwa_Gk9DAp8E-mfCJon502s7vW2iGrsvQespbRhkwqdOAXu0gQo1NqH-f4dAfoIFt9lbzIQ",
         "userName": "Laurent B.A. Mibiba",
-        "userImage": "https://lh3.googleusercontent.com/-R0rXL-1qZNY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn-goN-Cyad3V7RMSgtrY19DN7TkQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-R0rXL-1qZNY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn-goN-Cyad3V7RMSgtrY19DN7TkQ/photo.jpg",
         "content": "Je regrette de cette application est en anglais.Que feront ceux qui ne comprennent que le fran\u00e7ais.Donc revoir la langue mais aussi regrouper les maladies sous surveillance afin de mieux informer les utilisateurs de l'application.",
         "score": 2,
-        "thumbsUpCount": 129,
+        "thumbsUpCount": 133,
         "reviewCreatedVersion": "3.2",
         "at": "2020-04-15 18:23:39",
         "replyContent": null,
@@ -302,10 +326,10 @@
     {
         "reviewId": "gp:AOqpTOEV6lUc5gLiLjrZHrQYL5l_KqLtqriPdicOGO0rfDGxIun0W8dlB0E622TqAggODkeNypjoQLfT-h7d8g",
         "userName": "Mekki Rahim",
-        "userImage": "https://lh3.googleusercontent.com/-yqYtxs-PtCM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucknmArxkFNTJfJJyuLQ03g_FQyY0w/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-yqYtxs-PtCM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucknmArxkFNTJfJJyuLQ03g_FQyY0w/photo.jpg",
         "content": "\u0643\u0627\u0646 \u0628\u0625\u0645\u0643\u0627\u0646\u0643\u0645 \u062a\u0631\u062c\u0645\u062a\u0647\u0627 \u0628\u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0648\u0645\u0639 \u0630\u0627\u0644\u0643 \u0633\u0627\u0636\u0639 \u0644\u0643\u0645 \u0646\u062c\u0645\u062a\u064a\u0646",
         "score": 2,
-        "thumbsUpCount": 3,
+        "thumbsUpCount": 4,
         "reviewCreatedVersion": null,
         "at": "2020-04-10 11:18:37",
         "replyContent": null,
@@ -338,7 +362,7 @@
     {
         "reviewId": "gp:AOqpTOEMCZfA939Nzxx5eJPSuTjHEZ7gLtD-rLxjGP7S66CgeZh_mCx95s7rIWUn_7Y3KlSaSPtwR71ViPKsGQ",
         "userName": "Abdoulaye Hamadou",
-        "userImage": "https://lh3.googleusercontent.com/-qOqbfyWprSA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckB3HXBwJOAc8CwQeQgu-oGM9zxrQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-qOqbfyWprSA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckB3HXBwJOAc8CwQeQgu-oGM9zxrQ/photo.jpg",
         "content": "Quel est la fontion de cette aplication S.v.p expliqu\u00e9 nous qui non pas compris ce aplication",
         "score": 1,
         "thumbsUpCount": 3,
@@ -350,7 +374,7 @@
     {
         "reviewId": "gp:AOqpTOEblGgqPIgAb3s0kGfXGo_p7oOYmkHwL2TLZnOZ6mqFF4Td9SY_x4lIiUs3-hhr430aFBuVD-zFrHfRPw",
         "userName": "Serigne Babacar Fall",
-        "userImage": "https://lh3.googleusercontent.com/-pHWRQ1vYHCg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm5AZHkhD27NgdVwblquzJhOpR0tw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-pHWRQ1vYHCg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm5AZHkhD27NgdVwblquzJhOpR0tw/photo.jpg",
         "content": "C bon",
         "score": 1,
         "thumbsUpCount": 1,
@@ -365,7 +389,7 @@
         "userImage": "https://lh3.googleusercontent.com/-Znn5Iw7XZ3s/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclSGdVvSJ9rxLhuyF7Ej9bEPxc5-Q/photo.jpg",
         "content": "Je viens de m'inscrire et commence a suivre des cours, format et contenu tr\u00e8s int\u00e9ressant. Si on pouvait avoir encore plus de contenu en Fran\u00e7ais ce serait top. L'application crash parfois... A voir...",
         "score": 4,
-        "thumbsUpCount": 245,
+        "thumbsUpCount": 250,
         "reviewCreatedVersion": "3.2",
         "at": "2020-04-08 17:22:54",
         "replyContent": null,
@@ -374,7 +398,7 @@
     {
         "reviewId": "gp:AOqpTOHGJ75PEB3xIuMm0goxGBaQTqDrT4iKXVsqfytZW3jf2GCp30ImgGJR_5HwIwC1Yw8dLFmp3n9vhxmArA",
         "userName": "Elhadj Aboubacar Sidiki Nab\u00e9",
-        "userImage": "https://lh3.googleusercontent.com/-MrSjrNr98yQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmObH6p79uYvQTHtnt6C-ynf9X2uA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-MrSjrNr98yQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmObH6p79uYvQTHtnt6C-ynf9X2uA/photo.jpg",
         "content": "Difficile \u00e0 exploiter par moi",
         "score": 5,
         "thumbsUpCount": 3,
@@ -386,7 +410,7 @@
     {
         "reviewId": "gp:AOqpTOH98T1ZfosfgrpL-8-A8grIUxKgoH3IwVpCr6LrMOadMm-3fxhrt_F0C6DBE_PbvCxYJDaguZO9fsQqBg",
         "userName": "Kadiatou Maiga",
-        "userImage": "https://lh3.googleusercontent.com/-MEAgysJd9NU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclA7xAG5I-nYLXRcxFzLP1B-E4fAQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-MEAgysJd9NU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclA7xAG5I-nYLXRcxFzLP1B-E4fAQ/photo.jpg",
         "content": "Tcy",
         "score": 5,
         "thumbsUpCount": 0,
@@ -398,7 +422,7 @@
     {
         "reviewId": "gp:AOqpTOHtSsJuEHrm_fBfI4p1rElKGrXzo7TEaW82fFWcxYL8fGXeM0Gfh4eWyZhpudBAS8xyN4Dn19_1y2t-Xg",
         "userName": "\u0647\u062f\u064a\u0644 \u062a\u0648\u062a\u0629 \u0647\u062f\u064a\u0644 \u062a\u0648\u062a\u0629",
-        "userImage": "https://lh3.googleusercontent.com/-ca-mGaoPKvk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckl8bxfmtj5Flrx4xO7OzAf8ppL7w/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-ca-mGaoPKvk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckl8bxfmtj5Flrx4xO7OzAf8ppL7w/photo.jpg",
         "content": "\u0647\u0630\u0627 \u064a\u062d\u0645\u0646 \u0628\u0644 \u0643\u0648\u0631\u0648\u0646\u0627 \u0634\u0648\u0641\u0648 \u0643\u0641\u0627\u0647 \u0646\u062d\u0645\u0648 \u0631\u0648\u0627\u062d\u0646\u0627 \u0628\u0644 \u0643\u0648\u0631\u0648\u0646\u0627",
         "score": 5,
         "thumbsUpCount": 3,
@@ -434,7 +458,7 @@
     {
         "reviewId": "gp:AOqpTOFd-lqBzTGuKk1nF87BHwvNqTC0JARMS3pYgiCxtLRmPxNAmFFjGM_Uxctsz5VFsOdHNlm_a7rVpIqu5A",
         "userName": "Lazhar Guesmi",
-        "userImage": "https://lh3.googleusercontent.com/-mnyQBOhqrJk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmSaQfrj-0q8bKjU2fLXl2WNRqrmA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-mnyQBOhqrJk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmSaQfrj-0q8bKjU2fLXl2WNRqrmA/photo.jpg",
         "content": "J'attends",
         "score": 5,
         "thumbsUpCount": 0,
@@ -446,7 +470,7 @@
     {
         "reviewId": "gp:AOqpTOGs8hkOz9886sH4o4NL8j2Eo93jflDfquaOcT68uOhS8OaTavxVGKiC2_8qAZYITvOxFfB6axnkFzuoYg",
         "userName": "Mohamed Guermate",
-        "userImage": "https://lh3.googleusercontent.com/-dfI1_hoOqU0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm0JtcG-X6HC9JguR7OvvwuIkbF0A/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-dfI1_hoOqU0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm0JtcG-X6HC9JguR7OvvwuIkbF0A/photo.jpg",
         "content": "Exelent",
         "score": 5,
         "thumbsUpCount": 1,
@@ -458,7 +482,7 @@
     {
         "reviewId": "gp:AOqpTOG-QmLoz7oCBkeGDCz0T44SjshDm2LI0rRhOhzepYpbudb1GdyacEWNwsWF3bVT5mefGyLxWIWCvvO1xQ",
         "userName": "Hama Malaga",
-        "userImage": "https://lh3.googleusercontent.com/-3e7abo03eD0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl3rIOgxpLOyHt0dKF1r1F9JC09jg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-3e7abo03eD0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl3rIOgxpLOyHt0dKF1r1F9JC09jg/photo.jpg",
         "content": "Bien",
         "score": 5,
         "thumbsUpCount": 1,
@@ -470,7 +494,7 @@
     {
         "reviewId": "gp:AOqpTOGM7POz20HYgRTJBP4NGVBBb__VQ-rC9KWmBCsnUoA-hUrXy712X4mkZ_DvtKYG3aykYJwS4fumthf7Ow",
         "userName": "JORDY NGOMABI",
-        "userImage": "https://lh3.googleusercontent.com/-B4Gxjd0RAs8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnIFMPZcUbLB1Z7NIFAPBKzOtw36g/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-B4Gxjd0RAs8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnIFMPZcUbLB1Z7NIFAPBKzOtw36g/photo.jpg",
         "content": "co",
         "score": 5,
         "thumbsUpCount": 0,
@@ -482,7 +506,7 @@
     {
         "reviewId": "gp:AOqpTOFESeWhOP-TOcVOHMLMEVpjNWz2zjDAM9H7Dn_6Ob1Tu_JYK6MlipnBFf7QIc_3q46SzimrwSh-Le-yBw",
         "userName": "Hassan Boulaich",
-        "userImage": "https://lh3.googleusercontent.com/-SedNV-Jjv5U/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclv9lFlTW9gr8H02Jo6vDngqbLVYQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-SedNV-Jjv5U/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclv9lFlTW9gr8H02Jo6vDngqbLVYQ/photo.jpg",
         "content": "L englais c'est pas la seule langue au monde",
         "score": 1,
         "thumbsUpCount": 15,
@@ -494,7 +518,7 @@
     {
         "reviewId": "gp:AOqpTOEhg4GRuOw181ToIjlxOnDV7F-uOiyTJ8hBNdmERRax2LK37G7y3qbzFQ04z-6cGRb_O_756j3OV0YjRg",
         "userName": "AZEDDINE YAHIAOUI",
-        "userImage": "https://lh3.googleusercontent.com/-ZyutOx0Svxo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm02iwUC4l5GL-O3d3R_Erq6PMYVA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-ZyutOx0Svxo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm02iwUC4l5GL-O3d3R_Erq6PMYVA/photo.jpg",
         "content": "Ok",
         "score": 5,
         "thumbsUpCount": 0,
@@ -506,7 +530,7 @@
     {
         "reviewId": "gp:AOqpTOFmOz3PxduwMDMeIVTAJRBDmK-Cnjzxk8nAuFFv8kvt3vl8SmwuFRwClCOBNzSWaqrmRY27QrFZo7qYsA",
         "userName": "alain akono",
-        "userImage": "https://lh3.googleusercontent.com/-0w5KM--A2kw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl5Ia3f6SnhT-F32oXrjCOEIbIOew/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-0w5KM--A2kw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl5Ia3f6SnhT-F32oXrjCOEIbIOew/photo.jpg",
         "content": "Nul",
         "score": 1,
         "thumbsUpCount": 0,
@@ -518,7 +542,7 @@
     {
         "reviewId": "gp:AOqpTOEr1bvaiWz8-eoKnoMUvzp1Jv9RVY97iYIsDq86Alk8GRjvzNWTvIE8wmZyPqgb5eF6nUAuVDZVOsQHrA",
         "userName": "Kader saley Cherif",
-        "userImage": "https://lh3.googleusercontent.com/-pkINFKgDpg4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnHINEcdmSTqd1DX0BjErRact3W8w/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-pkINFKgDpg4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnHINEcdmSTqd1DX0BjErRact3W8w/photo.jpg",
         "content": "Ok",
         "score": 5,
         "thumbsUpCount": 0,
@@ -530,7 +554,7 @@
     {
         "reviewId": "gp:AOqpTOF4ok9bzGbk6L5htYTvY7GfZgGi1-ps5DmD8267OwxYbt1lthXruy64H2CekrD9jA7-hW_0uwhbm6d4iw",
         "userName": "\u0633\u0645\u064a\u0631 \u0628\u0648\u0634\u0648\u0634",
-        "userImage": "https://lh3.googleusercontent.com/-Q-ERvPCv4rs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnOdF_GqzP0VOHCB5zeorQHndFgTg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-Q-ERvPCv4rs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnOdF_GqzP0VOHCB5zeorQHndFgTg/photo.jpg",
         "content": "\u0627\u0644\u0644\u0647\u0645 \u0623\u062d\u0645\u064a \u0627\u0644\u0645\u0633\u0644\u0645\u064a\u0646",
         "score": 5,
         "thumbsUpCount": 1,
@@ -653,7 +677,7 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gj44J7hFoKPbVqojALK2l-PjomU1Cn9yAPhp3Sgya0",
         "content": "Pensez pour ceux qui parlent exclusivement en fran\u00e7ais, les documents sont a l'origine en Anglais c'est vrai mais. Les francophones peuvent aussi, \u00e9diter des textes \u00e0 la r\u00e9daction pour ne pas avoir des confusions entre la langue Fran\u00e7aise et l'Anglais. Bravo aux d\u00e9veloppeurs.",
         "score": 3,
-        "thumbsUpCount": 407,
+        "thumbsUpCount": 409,
         "reviewCreatedVersion": "3.1.1",
         "at": "2020-03-29 17:13:41",
         "replyContent": null,
@@ -674,7 +698,7 @@
     {
         "reviewId": "gp:AOqpTOHGY4XhtEmrbgVqavzXdkIeH6qONgxMk_eDO82qo4moaQD7DplVI_rVuYWTPRckxjGQz9GxKmqym4800Q",
         "userName": "Lazhar Guedjati",
-        "userImage": "https://lh3.googleusercontent.com/-XB-gLKCayXw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnvnSp--eUAY7Ta43nO0PJwU0NWHg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-XB-gLKCayXw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnvnSp--eUAY7Ta43nO0PJwU0NWHg/photo.jpg",
         "content": "Amazing",
         "score": 5,
         "thumbsUpCount": 2,
@@ -686,10 +710,10 @@
     {
         "reviewId": "gp:AOqpTOE3-x-DY4Jj22vVmCWfleBEYslIVOnTOhwpC-6DyLViXKVXUCOgFFRzA-mYGsEFybejv8YynXt2D81hYQ",
         "userName": "lesaphirbleu",
-        "userImage": "https://lh3.googleusercontent.com/--Qa6j0XlljE/AAAAAAAAAAI/AAAAAAAAAAA/VfH5OtuvVn4/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/--Qa6j0XlljE/AAAAAAAAAAI/AAAAAAAAAAA/VfH5OtuvVn4/photo.jpg",
         "content": "Inutile , elle n'est qu'en version anglaise !!!! Pour les autres, tapper votre tete sur le mur !!!!",
         "score": 1,
-        "thumbsUpCount": 237,
+        "thumbsUpCount": 240,
         "reviewCreatedVersion": "3.1.1",
         "at": "2020-03-28 08:53:50",
         "replyContent": null,
@@ -722,7 +746,7 @@
     {
         "reviewId": "gp:AOqpTOHS8hau4DWMNm5oeJe2cnayYKmczC4xllJj76m0MIfliHVE9DI0CrboMJNiL9FC0-R_z6jiZsPwdRIxfA",
         "userName": "cra school",
-        "userImage": "https://lh3.googleusercontent.com/-1Z4aOls74cw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmC1rZ2noojvUiq5mFY6ryCgQB3dQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-1Z4aOls74cw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmC1rZ2noojvUiq5mFY6ryCgQB3dQ/photo.jpg",
         "content": "bien",
         "score": 5,
         "thumbsUpCount": 3,
@@ -770,7 +794,7 @@
     {
         "reviewId": "gp:AOqpTOEiaDWmCgdPc7Y5HuaGFV9IaxaYlljH34vfgVlHhg3VKmaP1B3lTVWOd4dPchGND10C86jRV9kzdJtuQA",
         "userName": "Josu\u00e9 Nshole",
-        "userImage": "https://lh3.googleusercontent.com/-lRJFae1bgrQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck_DrzUVQUPcLJyWNmdpDAOwiNBCg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-lRJFae1bgrQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck_DrzUVQUPcLJyWNmdpDAOwiNBCg/photo.jpg",
         "content": "J'aime le travail abattu sur \u00e7a , c'est vraiment spormidale .",
         "score": 5,
         "thumbsUpCount": 41,
@@ -806,7 +830,7 @@
     {
         "reviewId": "gp:AOqpTOGczZYd6Z3bWXYlqHubFCYBcXVnOt6UoXE2NUuMfBCXWacd_fawRaBYM4SI2tdrdY7I_U9neRkXjTd01A",
         "userName": "Khadime Dieng",
-        "userImage": "https://lh3.googleusercontent.com/-J9dMrwbNfes/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnwqX_X2CmVyOqM1v-et1HCWo6_ZQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-J9dMrwbNfes/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnwqX_X2CmVyOqM1v-et1HCWo6_ZQ/photo.jpg",
         "content": "Merci a vous",
         "score": 5,
         "thumbsUpCount": 43,
@@ -842,7 +866,7 @@
     {
         "reviewId": "gp:AOqpTOH2hVZEHo2xXX6v0_rkHUrvb_zMCikdpSzs-9An4HI9zuDcqv8R8-Ps_Sk6qwtbNPVgqLgbumgGKMrv5g",
         "userName": "Mame Cheikh Sy",
-        "userImage": "https://lh3.googleusercontent.com/-Nxzc7s5AkyA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnK4SCbzdz1oRh-t0esqt-TjiOv3Q/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-Nxzc7s5AkyA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnK4SCbzdz1oRh-t0esqt-TjiOv3Q/photo.jpg",
         "content": "Nice",
         "score": 5,
         "thumbsUpCount": 3,
@@ -854,7 +878,7 @@
     {
         "reviewId": "gp:AOqpTOHXDmJVC7t-fwe_ZFGItUuggH13rAuoxjvXtPDqAoyl7oNhksEYyavY29av3jvLGwwH2CCsoKaPt4-TnA",
         "userName": "tipe mongya",
-        "userImage": "https://lh3.googleusercontent.com/-_FlRj1iN3yc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmxEjbGk0x4KbZrNYPrwFjkUnfbWg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-_FlRj1iN3yc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmxEjbGk0x4KbZrNYPrwFjkUnfbWg/photo.jpg",
         "content": "Cool",
         "score": 5,
         "thumbsUpCount": 6,
@@ -902,7 +926,7 @@
     {
         "reviewId": "gp:AOqpTOEDIL1cJfSnbEfLebv5hvB30351pR0FH-tJMZ0xDG0hmjeu4WQ9FnL64NfNmUllZzmXggkK6f7khQ4rCQ",
         "userName": "Djamila Kebir",
-        "userImage": "https://lh3.googleusercontent.com/-HCTZHRHA_DQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn3TRju4hNtit83oxN5ZZ0gPdCEmA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-HCTZHRHA_DQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn3TRju4hNtit83oxN5ZZ0gPdCEmA/photo.jpg",
         "content": "Exellent",
         "score": 5,
         "thumbsUpCount": 49,
