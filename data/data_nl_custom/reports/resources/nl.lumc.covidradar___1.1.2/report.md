@@ -140,6 +140,8 @@ The COVID Radar app has been installed by more than **50000** times. At this tim
 <img src="5_star_reviews_wordcloud.png" alt="nl.lumc.covidradar 5 reviews"/>
 </p>
 
+> Goed<br> :date: __2020-08-25 19:50:33__
+
 > Fijn om hier aan deel te nemen aan een zéér belangrijk onderzoek.<br> :date: __2020-06-13 12:04:05__
 
 > Goed veel info over het verloop en anoniem op postcode👍<br> :date: __2020-06-07 17:01:26__
@@ -157,8 +159,6 @@ The COVID Radar app has been installed by more than **50000** times. At this tim
 > Sinds de nieuwe update kan ik de laatste vraag niet meer goed invullen omdat de knop versturen er voor staat. Probeer ik een getal aan te geven zijn de gegevens al verstuurd.<br> :date: __2020-04-22 19:55:02__
 
 > Wetenschap is alles<br> :date: __2020-04-18 22:30:28__
-
-> Zeer goed initiatief voor onderzoek. Doe mee, en help in de strijd tegen corona!<br> :date: __2020-04-16 11:43:49__
 
 
 
@@ -196,6 +196,8 @@ The COVID Radar app has been installed by more than **50000** times. At this tim
 <img src="3_star_reviews_wordcloud.png" alt="nl.lumc.covidradar 3 reviews"/>
 </p>
 
+> Kleinkinderen jonger dan 12 jaar komen 2 x per week op bezoek. Afstand houden 1 1/2m ondoenlijk. Nauwelijks risico. Kan een vertekend beeld geven.<br> :date: __2020-08-25 20:49:05__
+
 > Goed idee maar ik mis de vraag :valt u onder de risico groep? Hoesten en keelpijn bv kan ook iets anders dan civid zijn. Long patiënten, allergie bv En met kinderen kunnen we soepeler omgaan. Geen 1,5m afstand bv Dus, de vraag bent u in contact geweest met kinderen buiten het gezin?<br> :date: __2020-08-15 12:53:41__
 
 > Het lukt na de versoepelingen van de lockdown niet meer om de waarden in te vullen. Hoeveel mensen binnen 1.5 of 5(!) meter zijn gekomen in de supermarkt of in de stad? Geen idee!<br> :date: __2020-06-25 20:55:45__
@@ -213,8 +215,6 @@ The COVID Radar app has been installed by more than **50000** times. At this tim
 > Na de wijziging in de vraagstelling kan ik de laatste vraag niet meer beantwoorden omdat de knop 'versturen' er overheen ligt. Verder werkt het prima.<br> :date: __2020-04-23 07:21:18__
 
 > Kan na de update/ aanpassing de laatste schuif niet gebruiken voor de laatste vraag, want daar zit de knop versturen voor<br> :date: __2020-04-22 21:24:49__
-
-> Goed initiatief. Bij scrollen verschuiven de scores soms onbedoeld. Verbetering is noodzakelijk om geen foute scores te krijgen. Ik heb vragen die ook door anderen zijn gesteld en hoop dat antwoorden komen. In winkel en buiten let niet iedereen even goed op de 1,5 mtr. en het lukt niet altijd om zo iemand te ontwijken. Ik schat in hoe vaak dat is geweest en vul dat in. Is dat juist? Als je hoest door allergie, vul je dan "ja" in?<br> :date: __2020-04-14 09:09:26__
 
 
 

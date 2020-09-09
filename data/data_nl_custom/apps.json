@@ -4,62 +4,62 @@
         "store_country": "nl",
         "store_lang": "nl",
         "latest_crawled_version": "1.0.440",
-        "latest_crawl": 1598251072
+        "latest_crawl": 1599638809
     },
     {
         "id": "at.roteskreuz.stopcorona",
         "store_country": "nl",
         "store_lang": "nl",
         "latest_crawled_version": "2.0.4.1060-QA_248",
-        "latest_crawl": 1598251076
+        "latest_crawl": 1599638814
     },
     {
         "id": "nl.rivm.lciapp",
         "store_country": "nl",
         "store_lang": "nl",
         "latest_crawled_version": "1.27.4",
-        "latest_crawl": 1598251084
+        "latest_crawl": 1599638820
     },
     {
         "id": "org.who.infoapp",
         "store_country": "nl",
         "store_lang": "nl",
         "latest_crawled_version": "2.3.4",
-        "latest_crawl": 1598251225
+        "latest_crawl": 1599638826
     },
     {
         "id": "nl.focuscura.beeldbelapp",
         "store_country": "nl",
         "store_lang": "nl",
-        "latest_crawled_version": "4.24.0",
-        "latest_crawl": 1598251265
+        "latest_crawled_version": "4.25.0",
+        "latest_crawl": 1599639759
     },
     {
         "id": "de.xikolo.openwho",
         "store_country": "nl",
         "store_lang": "nl",
         "latest_crawled_version": "3.4",
-        "latest_crawl": 1598251272
+        "latest_crawl": 1599639934
     },
     {
         "id": "com.joinzoe.covid_zoe",
         "store_country": "nl",
         "store_lang": "nl",
         "latest_crawled_version": "0.14",
-        "latest_crawl": 1598251277
+        "latest_crawl": 1599639941
     },
     {
         "id": "nl.lumc.covidradar",
         "store_country": "nl",
         "store_lang": "nl",
         "latest_crawled_version": "1.1.2",
-        "latest_crawl": 1598251279
+        "latest_crawl": 1599639946
     },
     {
         "id": "jhu.edu.JohnsHopkinsCOVIDControl",
         "store_country": "nl",
         "store_lang": "nl",
         "latest_crawled_version": "3.3",
-        "latest_crawl": 1598251287
+        "latest_crawl": 1599639950
     }
 ]
