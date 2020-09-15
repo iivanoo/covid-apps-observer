@@ -148,6 +148,8 @@ The Smittestop app has been installed by more than **100000** times. At this tim
 <img src="5_star_reviews_wordcloud.png" alt="com.netcompany.smittestop_exposure_notification 5 reviews"/>
 </p>
 
+> Cannot start on android 11. For others, Android 11 enables to use it without actually having location on. (Google thing)<br> :date: __2020-09-13 00:21:30__
+
 > Awesome<br> :date: __2020-08-21 00:40:31__
 
 > Jeg regner med, at appen gør det, den skal. Jeg har ikke fået nogen notifikationer om, at jeg har været i kontakt med en smittet, men ikke alle har den installeret. Det burde virkelig være en indbygget del af operativsystemet, som også kunne anvendes i fremtiden. Jeg stoler personligt nok på Apple og Google til det, men det forstår jeg også godt, hvis andre ikke nødvendigvis gør.<br> :date: __2020-08-19 13:00:07__
@@ -166,8 +168,6 @@ The Smittestop app has been installed by more than **100000** times. At this tim
 
 > Great solution! I am impressed by how well the app and tracing system was designed. It's impressive how the design allows to both ensure absolute privacy of all users while still being able to track infection chains anonymously. Good work!<br> :date: __2020-07-08 17:21:06__
 
-> Everyone should take note that even though the app requires location access, it doesn't use your GPS. It's only for Bluetooth based tracing 👍🏻<br> :date: __2020-06-27 14:06:19__
-
 
 
 #### 4-star reviews
@@ -175,6 +175,8 @@ The Smittestop app has been installed by more than **100000** times. At this tim
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.netcompany.smittestop_exposure_notification 4 reviews"/>
 </p>
+
+> Take google and apple out!<br> :date: __2020-09-12 17:10:38__
 
 > Works, I guess. Needs english version asap for the students and other internationals, though<br> :date: __2020-08-09 14:14:52__
 
@@ -194,8 +196,6 @@ The Smittestop app has been installed by more than **100000** times. At this tim
 
 > This kind of app really needs the source code to be publicly available for security purposes. Otherwise it will be more prone to vulnerabilities.<br> :date: __2020-06-22 16:31:42__
 
-> Efter problemer i starten, og et par geninstalleringer virker app'en nu som den skal, super.<br> :date: __2020-06-22 08:42:29__
-
 
 
 #### 3-star reviews
@@ -212,8 +212,6 @@ The Smittestop app has been installed by more than **100000** times. At this tim
 
 > The app appears to create occasional interference with my Bluetooth headphones.<br> :date: __2020-08-19 21:01:24__
 
-> Det ville være rart hvis den kun tjekkede/kommunikerede med andre telefoner i samme rum og ikke gennem en tyk betonvæg. Jeg kan jo regne ud at det et min nabo når telefonen har "kommunikeret" med en anden telefon sent om aftenen når jeg er hjemme. Jeg er begyndt at slå Bluetooth fra når jeg er hjemme. Det er også unødvendigt brug af batteri når den ikke skal bruges.. Og så selvom om det kun er en lille smule batteri der bruges når Bluetooth konstant er tændt.<br> :date: __2020-08-18 15:32:06__
-
 > English version would be useful<br> :date: __2020-08-08 22:15:09__
 
 > My husband's play store is set to the US (unable to change) and we live here in DK. He isn't able to download the app. Why?<br> :date: __2020-08-07 12:04:20__
@@ -224,6 +222,8 @@ The Smittestop app has been installed by more than **100000** times. At this tim
 
 > Expensive app for Denmark to develop. Good that the app now can be downloaded by non danish accounts.... I was wondering if I should wait for the British one and hope it would work with the danish version..<br> :date: __2020-07-03 19:54:41__
 
+> Jeg mangler at kunne se Brugere, af App'en. I den forstand at jeg gerne vil have et tal for hvor mange Bruger jeg har mødt på min dag. Pt virker det som ingen bruger App'en. Ps jeg bor ved et kryds hvor der dagligt passere over 2000 mennesker. Et tal der viser at der er 'liv/bruger af App'en Tak. Uden det føler jeg at jeg er den eneste der bruger App'en.<br> :date: __2020-06-27 01:15:31__
+
 
 
 #### 2-star reviews
@@ -231,6 +231,8 @@ The Smittestop app has been installed by more than **100000** times. At this tim
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="com.netcompany.smittestop_exposure_notification 2 reviews"/>
 </p>
+
+> It drains my phone battery to death, it cannot be used! And by the way, what about some more languages??<br> :date: __2020-09-13 10:48:02__
 
 > The biggest problem with the cov19 Bluetooth API is that you need to have location on. I don't want to enable GPS all the time, as the app says it self, all apps that have access to location, can use it while enabling location for this app. Don't want GPS enable all the time. I known it's not the apps fault, but googles. Still has a big affecte on who gonna use this app.<br> :date: __2020-08-31 17:20:46__
 
@@ -249,8 +251,6 @@ The Smittestop app has been installed by more than **100000** times. At this tim
 > 1. Bruger appen centralized report processing eller decentralized report processing? 2. Hvorfor er det nødvendigt at logge ind med NemId? Her samler i jo datalogs og knytter det på personen med det pågældende NemId? Dvs. myndighederne har kontrol over præcis hvilke personer der er smittet, da det er knyttet op på NemId.<br> :date: __2020-06-26 13:38:34__
 
 > Synes ikke at appen opretholder det der bliver lovet mht. At det kun er Bluetooth der skal bruges. Bliver ved med at få en pop-up med, at jeg skal slå min lokation til på telefonen, hvilket gør mig ekstra skeptisk og holder mig endnu mere tilbage på at frigive informationerne mht den del om jeg er testet positivt eller ej vha. NemID. forhåbentlig bliver dette fikset, men tager det for lang tid, bliver appen irrelevant.<br> :date: __2020-06-26 10:58:40__
-
-> Sluger en del strøm...<br> :date: __2020-06-22 17:06:19__
 
 
 

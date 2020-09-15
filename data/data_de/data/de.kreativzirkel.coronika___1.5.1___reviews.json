@@ -1,13 +1,49 @@
 [
     {
+        "reviewId": "gp:AOqpTOHvx0hTOnTSJylA1npJeuRq2OojDiaVRBvR3QFtCrqqoXLrHHMTh6KFMfCg5Cyo39T02-Wnm7PU1BPZ1Q",
+        "userName": "Florian Malm",
+        "userImage": "https://play-lh.googleusercontent.com/-Qf6tgaH3Bpk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucntqBN3qxh4S4R7jGMSi69umW9pcg/photo.jpg",
+        "content": "Tolle App! Nutze die t\u00e4glich! Hier einige Vorschl\u00e4ge zur Erweiterung/Verbesserung: Personen mit Orten verbinden und Zeitangabe einf\u00fcgen; zeitliche Sortierung der Orte; Einf\u00fcgung typischer Cluster-Situationen (z.B. Besprechung, Vereinstreffen etc.; vielleicht gibt es da ja ne offizielle Liste vom RKI oder aus der Forschung), wo man lediglich noch Ort und Uhrzeit eintragen muss; M\u00f6glichkeit der Verkn\u00fcpfung mit Standort-Diensten wie google Maps; M\u00f6glichkeit der Verkn\u00fcpfung mit der Kontaktliste",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.5.1",
+        "at": "2020-09-15 15:26:23",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOF4OC1FQ6LWpQklqGIyQFjShRFj-uxZHd9h_d_lBGZMRqEfBgn0ZcfOo3oHsfLXYUydm-z4hZjIRSNzcw",
         "userName": "Michael",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjYIU4EJZ_1kJ_Q0fM3xsCNlw2mujwGpz8y0Krlvg",
-        "content": "Nach Update super! Ein sehr gutes und speziell auf Corona zugeschnittenes Tagebuch. Bin damit sehr zufrieden, vielen Dank an die Entwickler\ud83d\udc4d Nur ein kleiner Sch\u00f6nheitswunsch; Im Export-PDF werden die Eintr\u00e4ge der Orte leider alphabetisch und nicht nach Datum sortiert. W\u00e4re toll wenn im PDF bei einem n\u00e4chsten Update noch eine autom. Sortierung z. B. nach Datum absteigend kommen w\u00fcrde. Dann st\u00e4nden die aktuellen Daten immer oben und die \u00e4lteren weiter unten. Aber trotzdem gerne 5\u2b50von mir\ud83d\udc4d",
+        "content": "Nach Update super! Ein sehr gutes und speziell auf Corona zugeschnittenes Tagebuch. Bin damit \"sehr zufrieden\" , vielen Dank an die Entwickler\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d Nur ein kleiner Sch\u00f6nheitswunsch; Im Export-PDF werden die Eintr\u00e4ge der Orte leider alphabetisch und nicht nach Datum sortiert. W\u00e4re toll wenn im PDF bei einem n\u00e4chsten Update noch eine autom. Sortierung z. B. nach Datum absteigend kommen w\u00fcrde. Dann st\u00e4nden die aktuellen Daten immer oben und die \u00e4lteren weiter unten. Aber trotzdem gerne 5\u2b50von mir\ud83d\udc4d",
         "score": 5,
-        "thumbsUpCount": 2,
-        "reviewCreatedVersion": "1.5.0",
-        "at": "2020-08-31 07:07:45",
+        "thumbsUpCount": 3,
+        "reviewCreatedVersion": "1.5.1",
+        "at": "2020-09-15 10:12:24",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHlixYQJk_PTqnrywdmbUfTlS3JQHaGcUsVG3kUQzTdXMzLvorROds3kFnGnq0AijrMUddidnTi99hz3w",
+        "userName": "Theo Selter",
+        "userImage": "https://play-lh.googleusercontent.com/-iGlzUo7acV0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclKDjV7k2xtSR8bmWHbpB6gPCtRJw/photo.jpg",
+        "content": "Die App l\u00e4uft inzwischen sehr langsam und die Eingabe ist eine echte Geduldsprobe. \u00dcberlege, die Nutzung einzustellen.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.5.1",
+        "at": "2020-09-13 23:20:12",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHOpYktp_u6tU6MNt-QOTCAMmAvQJ9AHnN2_js2lKGYarzJGu1mlpAmFotlXtJbYDSpZdYHIe3f7yFoXQ",
+        "userName": "Angela Gesell",
+        "userImage": "https://play-lh.googleusercontent.com/-28rZDPFA8JQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnio9ma93ZWWBy5HfJ9MM20ha44SQ/photo.jpg",
+        "content": "Die App ist gut und einfach aufgebaut. Allerdings ist sie sehr langsam.",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.5.1",
+        "at": "2020-09-12 14:47:17",
         "replyContent": null,
         "repliedAt": null
     },
@@ -278,7 +314,7 @@
     {
         "reviewId": "gp:AOqpTOGbgobJxud7XOwswBjT3V5OoKPtrmSqQ0TsryZ1Ogjos9PdIVexBdqAHLud9-zhPIUu9yFu05SSB8C2eQ",
         "userName": "Daniel Bickel",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GifE_K19dCCq-RiWg4uihNhx_boDaQA_iNHcBDbgGA",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgAX78pcXd_7CQZkoJKuDydQnkRoRfCnFWfPgdl3oQ",
         "content": "Sehr gut",
         "score": 5,
         "thumbsUpCount": 0,

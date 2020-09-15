@@ -163,7 +163,9 @@ The Coronika - Dein Corona Tagebuch app has been installed by more than **10000*
 <img src="5_star_reviews_wordcloud.png" alt="de.kreativzirkel.coronika 5 reviews"/>
 </p>
 
-> Nach Update super! Ein sehr gutes und speziell auf Corona zugeschnittenes Tagebuch. Bin damit sehr zufrieden, vielen Dank an die Entwickler👍 Nur ein kleiner Schönheitswunsch; Im Export-PDF werden die Einträge der Orte leider alphabetisch und nicht nach Datum sortiert. Wäre toll wenn im PDF bei einem nächsten Update noch eine autom. Sortierung z. B. nach Datum absteigend kommen würde. Dann ständen die aktuellen Daten immer oben und die älteren weiter unten. Aber trotzdem gerne 5⭐von mir👍<br> :date: __2020-08-31 07:07:45__
+> Tolle App! Nutze die täglich! Hier einige Vorschläge zur Erweiterung/Verbesserung: Personen mit Orten verbinden und Zeitangabe einfügen; zeitliche Sortierung der Orte; Einfügung typischer Cluster-Situationen (z.B. Besprechung, Vereinstreffen etc.; vielleicht gibt es da ja ne offizielle Liste vom RKI oder aus der Forschung), wo man lediglich noch Ort und Uhrzeit eintragen muss; Möglichkeit der Verknüpfung mit Standort-Diensten wie google Maps; Möglichkeit der Verknüpfung mit der Kontaktliste<br> :date: __2020-09-15 15:26:23__
+
+> Nach Update super! Ein sehr gutes und speziell auf Corona zugeschnittenes Tagebuch. Bin damit "sehr zufrieden" , vielen Dank an die Entwickler👍👍👍 Nur ein kleiner Schönheitswunsch; Im Export-PDF werden die Einträge der Orte leider alphabetisch und nicht nach Datum sortiert. Wäre toll wenn im PDF bei einem nächsten Update noch eine autom. Sortierung z. B. nach Datum absteigend kommen würde. Dann ständen die aktuellen Daten immer oben und die älteren weiter unten. Aber trotzdem gerne 5⭐von mir👍<br> :date: __2020-09-15 10:12:24__
 
 > Ein wenig langsam, aber ansonsten perfekt in Idee, Umsetzung und Umfang.<br> :date: __2020-08-29 16:06:33__
 
@@ -180,8 +182,6 @@ The Coronika - Dein Corona Tagebuch app has been installed by more than **10000*
 > Ich nutze die App nun schon eine Weile. Es ist schön, dass kein tracking oder tracing notwendig ist. Natürlich bedarf es einer größeren Disziplin während oder am Ende des Tages alle Aktivitäten und Kontakte einzutragen. Gerade habe ich mir das aktuelle Update heruntergeladen und hoffe, dass man an der einen oder anderen Stelle Korrekturen vornehmen kann.<br> :date: __2020-06-18 11:15:16__
 
 > App okay<br> :date: __2020-06-17 17:56:41__
-
-> Sehr gut<br> :date: __2020-06-16 08:31:37__
 
 
 
@@ -218,6 +218,8 @@ The Coronika - Dein Corona Tagebuch app has been installed by more than **10000*
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="de.kreativzirkel.coronika 3 reviews"/>
 </p>
+
+> Die App ist gut und einfach aufgebaut. Allerdings ist sie sehr langsam.<br> :date: __2020-09-12 14:47:17__
 
 > Gute Idee, aber mühsam zu befüllen ... Warum kann man Personen und Orte nicht einem Datensatz zuordnen. Dann hätte man alles beisammen, wenn es ernst wird... Name, Ort, ggf Notizen (wenn zB von einem Kontakt die ganze Familie da war...). So ist das ganze auch viel zu umständlich auszuwerten...<br> :date: __2020-06-14 17:36:36__
 
@@ -273,6 +275,8 @@ The Coronika - Dein Corona Tagebuch app has been installed by more than **10000*
 <img src="1_star_reviews_wordcloud.png" alt="de.kreativzirkel.coronika 1 reviews"/>
 </p>
 
+> Die App läuft inzwischen sehr langsam und die Eingabe ist eine echte Geduldsprobe. Überlege, die Nutzung einzustellen.<br> :date: __2020-09-13 23:20:12__
+
 > Nach dem letzten update sind alle Daten weg!<br> :date: __2020-08-30 18:54:24__
 
 > Nicht so der Hit. Aus meiner Sicht nutzlos, weil nicht genug mitmachen werden.<br> :date: __2020-08-14 12:23:31__
@@ -290,7 +294,5 @@ The Coronika - Dein Corona Tagebuch app has been installed by more than **10000*
 > Deine Daten sind sicher 😂😂😂😂😂. So wie die Renten nach Herrn Blühm oder?<br> :date: __2020-06-15 10:56:53__
 
 > Das geht niemand etwas an<br> :date: __2020-06-14 18:16:04__
-
-> brauch kein Mensch...alles wegen ein bischen Grippe...lächerlich!<br> :date: __2020-06-07 17:21:46__
 
 

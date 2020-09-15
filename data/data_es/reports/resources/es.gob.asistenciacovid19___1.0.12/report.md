@@ -154,6 +154,8 @@ The Asistencia COVID-19 app has been installed by more than **50000** times. At 
 <img src="5_star_reviews_wordcloud.png" alt="es.gob.asistenciacovid19 5 reviews"/>
 </p>
 
+> Eso esta bien<br> :date: __2020-09-11 21:20:08__
+
 > Genial gracias<br> :date: __2020-09-06 15:59:33__
 
 > Muy Bien<br> :date: __2020-08-31 10:19:26__
@@ -171,8 +173,6 @@ The Asistencia COVID-19 app has been installed by more than **50000** times. At 
 > Esta muy bien<br> :date: __2020-08-23 22:49:53__
 
 > Mejores Salud<br> :date: __2020-08-20 14:17:21__
-
-> Grandioso<br> :date: __2020-08-20 00:35:06__
 
 
 
@@ -210,6 +210,10 @@ The Asistencia COVID-19 app has been installed by more than **50000** times. At 
 <img src="3_star_reviews_wordcloud.png" alt="es.gob.asistenciacovid19 3 reviews"/>
 </p>
 
+> Muchos de esos síntomas vienen asociados con alergias estacionales y es mi caso muchas veces con tos seca falta de gusto y olfato y la misma irritación de garganta da fiebre urticaria y diarrea por los mocos. Cuando alergia y cuando covid?<br> :date: __2020-09-14 16:33:20__
+
+> Piden muchos datos Personales.<br> :date: __2020-09-12 08:18:28__
+
 > Voy a tener que desinstalarla porque mi comunidad no está comunicada con ésta, lo lógico es que estuvieran todas conectadas, COMUNIDAD VALENCIANA<br> :date: __2020-09-01 21:09:54__
 
 > Bueno tienes<br> :date: __2020-08-30 21:49:13__
@@ -225,10 +229,6 @@ The Asistencia COVID-19 app has been installed by more than **50000** times. At 
 > Queremos q sea la app para toda España, no entiendo xq no funciona en algunas comunidades<br> :date: __2020-08-08 15:39:31__
 
 > Simplemente es para informar si uno tiene los síntomas ,no es un rastreador que te informe del. Perímetro de riesgo en tu lugar donde trabaja o lugar donde suele ir saludos y protegido serás mejor que curar saludos<br> :date: __2020-08-01 09:57:36__
-
-> Me esperaba algo más currado (posibles contactos con casos positivos, un mapa, etc)<br> :date: __2020-05-28 23:32:43__
-
-> Esperaba con ella conseguir mas datos e informacion como en otras de mismas caracteristicas, por ejemplo si en tu zona es mayor o menor el riesgo de contagio por presencia en ella de positivos.<br> :date: __2020-04-28 10:48:13__
 
 
 
@@ -266,6 +266,12 @@ The Asistencia COVID-19 app has been installed by more than **50000** times. At 
 <img src="1_star_reviews_wordcloud.png" alt="es.gob.asistenciacovid19 1 reviews"/>
 </p>
 
+> No se abre al<br> :date: __2020-09-15 14:01:30__
+
+> No se descarga<br> :date: __2020-09-13 09:09:24__
+
+> No me manda el codigo por sms,lo solicite varias veces<br> :date: __2020-09-11 15:21:15__
+
 > En la aplicación pone que no está activa en Andalucía,pero según el SAS si lo está¿a quien creemos?<br> :date: __2020-09-01 12:26:05__
 
 > No funciona<br> :date: __2020-08-27 21:32:43__
@@ -279,11 +285,5 @@ The Asistencia COVID-19 app has been installed by more than **50000** times. At 
 > No funciona<br> :date: __2020-08-19 23:33:40__
 
 > La app no funciona. En cuanto pongo el número de móvil, aparece un mensaje que dice "error inesperado" y no deja avanzar.<br> :date: __2020-08-19 18:55:08__
-
-> Basura de aplicación da error como todo lo que hacéis.... Mal<br> :date: __2020-08-19 03:51:51__
-
-> Tres veces lo e intentado y las tres veces dice q a ocurrido un error inesperado en dos días diferentes,stoy sperando q m llamen para una pcr. No m estraña q tengamos la tasa mas alta d contagios,haces todo lo posible x hacerlo bien y todo son pegas y problemas.<br> :date: __2020-08-18 22:13:45__
-
-> No permite entrar en canarias introduzco mi numero de movil con el prefijo +34 y me aparece error<br> :date: __2020-08-18 12:19:17__
 
 

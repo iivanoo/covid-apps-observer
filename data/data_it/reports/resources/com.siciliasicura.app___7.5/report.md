@@ -133,6 +133,8 @@ The SiciliaSiCura app has been installed by more than **50000** times. At this t
 <img src="5_star_reviews_wordcloud.png" alt="com.siciliasicura.app 5 reviews"/>
 </p>
 
+> Complimenti alla regione Sicilia che ha fatto una app semplice nella compilazione ed efficace con check-in con messaggio di conferma e di benvenuto, e checkout con messaggio auspicando che la permanenza sia stata di gradimento; diversamente dalla dichiarazione che ho dovuto fare nella regione Puglia, molto complicata e senza la sicurezza di ricevimento dalla Usl di riferimento. Brava la regione Sicilia.<br> :date: __2020-09-13 11:30:43__
+
 > Bene<br> :date: __2020-09-01 18:47:34__
 
 > Sono un siciliano residente in altra regione. Leggendo i commenti di altri utenti, a prescindere dai commenti sull'utilità o meno dell'app, ero un po' scettico sulla sua funzionalità. Tuttavia, dalla mia esperienza posso dire che non ho avuto problemi durante la registrazione. Sono riuscito a fare il check-in ed il check-out del mio gruppo (io e la mia compagna) con facilità. Spero che questa piccola accortezza possa essere utile per la sicurezza di tutti.<br> :date: __2020-08-26 15:57:11__
@@ -151,8 +153,6 @@ The SiciliaSiCura app has been installed by more than **50000** times. At this t
 
 > App molto utile e semplice da utilizzare. Consigliata! Ricordatevi però di fare il check-in solo quando sarete in Sicilia come spiega chiaramente la mail che riceverete in fase di registrazione.<br> :date: __2020-07-23 16:19:11__
 
-> Pratica e semplice<br> :date: __2020-07-18 17:48:14__
-
 
 
 #### 4-star reviews
@@ -160,6 +160,10 @@ The SiciliaSiCura app has been installed by more than **50000** times. At this t
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.siciliasicura.app 4 reviews"/>
 </p>
+
+> Problemi iniziali risolti, rimaneva bloccata. Al momento ci siamo registrati con la fidanzata. Procedura un po' ridondante, abbiamo inserito sia io che lei dati miei e dati suoi. Vediamo in Sicilia come si comporterà dopo check in.<br> :date: __2020-09-14 12:52:11__
+
+> Scaricata e utilizzata per il mio soggiorno in Sicilia, registrazione ed utilizzo senza problemi. Non capisco però come effettuare un nuovo check-in, dato che ritornerò in Sicilia a breve. Al massimo farò la cancellazione e successiva ri-iscrizione dell'account.<br> :date: __2020-09-12 17:19:11__
 
 > Si spera di non aver bisogno di aiuto.<br> :date: __2020-08-27 15:08:29__
 
@@ -176,10 +180,6 @@ The SiciliaSiCura app has been installed by more than **50000** times. At this t
 > Volevo porre una domanda. Scendendo in vacanza con la mia famiglia visto che per i minori non c'è l'obbligo della registrazione, mia moglie deve scaricare anche lei l'app?<br> :date: __2020-06-16 20:12:14__
 
 > Strano approccio. Dopo installata chiede il consenso quindi "Surname e Password". Ma dice che la password perverrà via mail. Quale mail? Non è prevista registrazione né richiesta di email! Pertanto non consente l'avvio. Grazie per la cortese risposta. Rivaluto a 4 stelle.<br> :date: __2020-06-01 23:06:10__
-
-> app funzionale, consiglierei l'aggiunta di una notifica durate le prime ore del mattino.<br> :date: __2020-05-16 03:55:51__
-
-> Si blocca spesso e riprende a funzionare dopo aver riavviato lo smartphone, anche quando ricevo notifica per aggiornare il mio stato di salute, clicco su come stai e si blocca, bisogna sempre riavviare lo smartphone, non so se è un problema della app o del device... Grazie<br> :date: __2020-05-06 05:47:22__
 
 
 
@@ -217,6 +217,8 @@ The SiciliaSiCura app has been installed by more than **50000** times. At this t
 <img src="2_star_reviews_wordcloud.png" alt="com.siciliasicura.app 2 reviews"/>
 </p>
 
+> Non ne ho capito l utilità<br> :date: __2020-09-14 20:19:05__
+
 > Salve, il 30 Agosto scenderò dalle Isole Canarie alla Sicilia . Dovrò fare tampone o anche solo il test sierologico prima della partenza? Grazie<br> :date: __2020-08-15 14:53:34__
 
 > App un pò complicata, non lineare e intuitiva. Cosa serve se quando vai in giro pochissimi isolani rispettano l'isolamento sociale e mascherine. Italia divisa in due al nord prenotazione obbligatoria per spiaggia libera e nell'isola tutti insieme appassionatamente.<br> :date: __2020-08-03 08:31:31__
@@ -235,8 +237,6 @@ The SiciliaSiCura app has been installed by more than **50000** times. At this t
 
 > Un app con diversi malfunzionamenti , una volta registrati quando si prova a fare il check in pur avendo attivato la geolocalizzazione, il sistema si blocca, dice di attivare la geolocalizzazione già attiva e rimanda al numero verde<br> :date: __2020-07-01 07:45:11__
 
-> Ho appena scarico app. Ho compilato il form per la registrazione ma quando clicco su "invia" non va avanti.<br> :date: __2020-06-25 17:28:23__
-
 
 
 #### 1-star reviews
@@ -244,6 +244,8 @@ The SiciliaSiCura app has been installed by more than **50000** times. At this t
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="com.siciliasicura.app 1 reviews"/>
 </p>
+
+> Aprendo l'app ottengo solo una schermata bianca. Il problema persiste tutti i giorni. Sono costretto a loggarmi via chrome<br> :date: __2020-09-14 10:45:17__
 
 > Ci sto ancora impazzendo...<br> :date: __2020-09-09 12:38:32__
 
@@ -262,7 +264,5 @@ The SiciliaSiCura app has been installed by more than **50000** times. At this t
 > Inutile, non avviene nessun controllo<br> :date: __2020-08-25 17:11:47__
 
 > Installata ma si blocca allo Splash<br> :date: __2020-08-22 20:51:10__
-
-> Buongiorno io ho scaricato l' app ma non riesco a registrare nessuno, non arriva neanche un email di conferma, cosa fare??<br> :date: __2020-08-20 12:53:20__
 
 

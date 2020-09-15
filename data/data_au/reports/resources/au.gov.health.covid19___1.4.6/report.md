@@ -157,6 +157,8 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 <img src="5_star_reviews_wordcloud.png" alt="au.gov.health.covid19 5 reviews"/>
 </p>
 
+> Amazing<br> :date: __2020-09-09 22:19:27__
+
 > Consistent obviously<br> :date: __2020-09-01 17:07:21__
 
 > Fantastic!<br> :date: __2020-09-01 13:53:31__
@@ -174,8 +176,6 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 > Excellent News and updates sent to you and the information contained herein is helpful and informative 👍<br> :date: __2020-08-03 02:50:31__
 
 > It's states 'unable to load lastest updates. Pushing 'try again doesnt work'. I've reinstalled it and same problem. Thanks for creating an app even if it's a mobile wrapper at short notice. I've got WhatsApp information working so that still helpful.<br> :date: __2020-07-30 08:42:47__
-
-> Good app to keep people up to date about coronavirus and other things too!<br> :date: __2020-07-18 03:58:59__
 
 
 
@@ -269,6 +269,12 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 <img src="1_star_reviews_wordcloud.png" alt="au.gov.health.covid19 1 reviews"/>
 </p>
 
+> Doesn't work<br> :date: __2020-09-14 02:45:21__
+
+> I changed telephones and I cannot get the app for the new phone. It rarely worked on the old phone<br> :date: __2020-09-11 11:52:29__
+
+> Frustrating<br> :date: __2020-09-10 03:00:32__
+
 > It won't download even after numerous attempts<br> :date: __2020-08-31 07:06:23__
 
 > Never use this app<br> :date: __2020-08-29 12:29:12__
@@ -282,11 +288,5 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 > Info is days out of date, making this app useless. At a time when we need up to the minute info, this is woeful. It contributes to people doing the wrong thing.<br> :date: __2020-08-05 05:56:22__
 
 > Poor, installed for first time. Did not load. Did bot work<br> :date: __2020-08-03 18:24:02__
-
-> App doesn't load. Says can't get latest info.<br> :date: __2020-08-03 17:21:19__
-
-> Useless.<br> :date: __2020-07-31 11:23:29__
-
-> The app turns itself off.<br> :date: __2020-07-27 00:14:24__
 
 

@@ -172,11 +172,11 @@ The Sardegna Sicura app has been installed by more than **100000** times. At thi
 <img src="5_star_reviews_wordcloud.png" alt="it.regione.sardegna.autorizzazionicovid19 5 reviews"/>
 </p>
 
+> Ottimo<br> :date: __2020-09-12 13:00:29__
+
 > Adesso che è stata aggiornata, è chiara e semplice da compilare!<br> :date: __2020-09-08 15:19:19__
 
 > Ho avuto problemi a scaricarla su xiaomi Redmi note 8 pro con la rete del telefono, ho utilizzando la rete di casa è ho risolto, devo ancora provarla per mettere un giudizio definitivo. Risolto il problema, abbastanza intuitiva.<br> :date: __2020-09-07 22:02:28__
-
-> Non riesco ad aprire l' app, dice che la Email o la password sono sbagliate e se cerco di cambiare la password mi dice utente non trovato, cosa devo fare, grazie in anticipo per l' aiuto Fabio<br> :date: __2020-09-02 19:34:14__
 
 > Buonasera, ho fatto la registrazione ed è andata a buon fine ricevendo l'attestato di ricevuta, volevo però anche sapere per quanto riguarda compilando poi il pdf scaricato sullo stato di salute 48 ore prima della partenza a che indirizzo di posta elettronica o altro deve essere mandato. Grazie per la risposta<br> :date: __2020-08-27 15:33:59__
 
@@ -228,6 +228,8 @@ The Sardegna Sicura app has been installed by more than **100000** times. At thi
 <img src="3_star_reviews_wordcloud.png" alt="it.regione.sardegna.autorizzazionicovid19 3 reviews"/>
 </p>
 
+> Salve, viaggio con mia moglie e figlia di 13 anni, devono scaricare anche loro l'applicazione per comunicare ciò che chiedete per il soggiorno? Per ora 3 perché sn riuscito ad usarla<br> :date: __2020-09-12 19:10:10__
+
 > Ridicola la traduzione in sardo, io sono sardo DOCG ma non capisco alcuni termini per altri la traduzione è ridicola. Perché usare la email per autenticarsi, meglio il numero di telefono.<br> :date: __2020-08-23 23:29:49__
 
 > Nella compilazione dei dati per potersi registrare e usare la app si è costretti a inserire i dati relativi alla residenza in Sardegna nonostante il box per la residenza in Sardegna non sia stato spuntato. È bastato inserire "--“ in ogni campo per i dati dei residenti in Sardegna per poter proseguire. Non esiste la possibilità per stranieri e/o residenti all'estero di dichiararlo esplicitamente. Anche in questo caso è bastato scrivere il nome del paese estero alla voce "provincia". Etc...<br> :date: __2020-08-17 12:40:16__
@@ -245,8 +247,6 @@ The Sardegna Sicura app has been installed by more than **100000** times. At thi
 > App minimale<br> :date: __2020-08-09 19:36:47__
 
 > Salve, volevo sapere se è possibile rettificare il giorno di arrivo in Sardegna, avendo distrattamente sbagliato il giorno di arrivo. Grazie<br> :date: __2020-08-08 12:37:19__
-
-> Potrei sapere come posso aggiungere le persone,come entro in nuova registrazione mi da i miei dati e non trovo il modo di aggiungerne altre<br> :date: __2020-08-07 16:56:49__
 
 
 
@@ -284,6 +284,18 @@ The Sardegna Sicura app has been installed by more than **100000** times. At thi
 <img src="1_star_reviews_wordcloud.png" alt="it.regione.sardegna.autorizzazionicovid19 1 reviews"/>
 </p>
 
+> Dico io, ma vi rendete conto che vi siete dimenticati dei residenti? Ma secondo voi, io a che categoria appartengo? Non devo soggiornare in Sardegna, ci abito! Non c'è una parola da nessuna parte che chiarisca cosa spetta fare a noi se usciamo per qualche giorno se non per lavoro o salute. Io sono allibito.<br> :date: __2020-09-13 08:05:54__
+
+> Inutile<br> :date: __2020-09-12 23:29:34__
+
+> È impossibile registrarsi<br> :date: __2020-09-12 09:31:24__
+
+> Enormi difficoltà nell'accesso all'app non riconosce lee credenziali seppur inserite correttamente...<br> :date: __2020-09-11 21:51:30__
+
+> L' app non funziona , mi sono registrato ma quando provo and aprirla non riconosce email e password, ho provatoto a contatarvi all indirizo che mi avete dato ma dopo una setimana non ho ancora ricevuto una risposta, pecato l' app poteva essere utile<br> :date: __2020-09-11 15:51:09__
+
+> Facile ma Inutile, non me l'hanno mai controllata né all'arrivo in Sardegna, né durante il soggiorno, né alla partenza.<br> :date: __2020-09-10 10:38:56__
+
 > Inutile, girato 2 settimane per la Sardegna, nessuno ci ha chiesto nulla, ne allo sbarco ne all'imbarco, soldi sprecati.<br> :date: __2020-09-07 08:21:27__
 
 > Non si riesce a registrare l'uscita. Non si riesce a registrare gli spostamenti. Addirittura non è più presente la registrazione della mia entrata. Sarebbe decisamente più semplice poter integrare eventuali spostamenti man mano che accadono, anziché scolpire la prima registrazione nel granito e ricominciare da capo a ogni spostamento. Inutilmente macchinosa.<br> :date: __2020-09-05 15:11:19__
@@ -291,17 +303,5 @@ The Sardegna Sicura app has been installed by more than **100000** times. At thi
 > Non si apre nonostante la password sia esatta<br> :date: __2020-09-04 14:50:44__
 
 > Dopo 4 tentativi con reinserimento di tutti i dati ogni volta, desisto e vado da un altra parte.<br> :date: __2020-09-01 23:34:56__
-
-> Sono riuscito a installarla dopo quattro tentativi perché diceva errato il codice fiscale (che era peraltro giusto). Arrivato in Sardegna ho capito che era inutile come i moduli da compilare a mano distribuiti all'imbarco a chi ne era sprovvisto dato che all'arrivo nessuno li ritirava. Perdita di tempo per noi e perdita di soldi pubblici dai soliti fenomini che vogliono mostrarsi avanti e, come si dice in Piemonte, "sono più indietro della coda del maiale" Qui forse...del cinghiale.<br> :date: __2020-09-01 22:55:31__
-
-> Ma cosa l'avete fatta a fare? Imbarazzante<br> :date: __2020-09-01 14:32:27__
-
-> Dopo averla installata. Ho provato a registrarmi più volte dà sempre errore "riprovare piu tardi" per un problema tecnico non meglio precisato. Impostazione complicata non user friendly ad esempio non riesci a mettere il giorno di nascita se non metti prima il mese... E comunque alla fine non riesco a registrarmi. Si poteva sicuramente fare di meglio.<br> :date: __2020-09-01 08:51:01__
-
-> Ho dato il consenso al tracciamento piu volte che puntualmente ha interrotto.<br> :date: __2020-09-01 08:01:01__
-
-> Installata ma non si apre né compare. Più tentativi di registrazione non riusciti. Ulteriore tentativo dopo arrivo,anch'esso fallito. Sistema inaffidabile. Antonio Cerirllo.<br> :date: __2020-09-01 00:37:04__
-
-> Ho scaricato l'app dopo aver acquistato i biglietti. Inserisco i miei dati personali per creare un account e fin qui tutto ok! Il problema sussiste non appena provo ad inserire un e-mail e una password per completare la registrazione,appena do l'invio dei dati l'applicazione si blocca dicendo che si è verificato un errore. Questa cosa è successa per più di 20 volte di fila,la situazione è snervante. Io venerdì dovrei partire e non ho modo di compilare l'autocertificazione... Parto senza?<br> :date: __2020-08-31 20:22:53__
 
 

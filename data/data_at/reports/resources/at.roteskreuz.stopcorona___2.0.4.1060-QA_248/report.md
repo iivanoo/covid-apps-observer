@@ -147,6 +147,14 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 <img src="5_star_reviews_wordcloud.png" alt="at.roteskreuz.stopcorona 5 reviews"/>
 </p>
 
+> Ich würde die App jedenfalls weiterempfehlen. Die Bedienung ist ganz einfach - Bluetooth anschalten und dann bekommt man eine Warnung für den Fall, dass man sich einem ernsthaften Risiko ausgesetzt hat. In Deutschland ist die App weit verbreitet. Das ist wohl auch ein Grund wieso die bessere Fallzahlen haben als wir. Wir können uns definitiv was abschauen.<br> :date: __2020-09-13 17:33:46__
+
+> Ein tolles App funktioniert einwandfrei und kann es nur empfehlen<br> :date: __2020-09-13 13:21:38__
+
+> Passt! Eine, der notwendigen Maßnahmen. Schade, dass die Lügner ind Verschwörungstheoretiker veruchen, die App kaputtzureden.<br> :date: __2020-09-13 08:56:45__
+
+> Anonymisiertes austauschen von Fingerprints im Hintergrund ohne etwas machen zu müssen. Perfekt! Sollte jede/r installiert haben.<br> :date: __2020-09-11 15:16:41__
+
 > Funktioniert und stört das Mobiltelefon nicht.<br> :date: __2020-09-08 09:06:45__
 
 > Funktioniert bei mir bis jetzt tadellos, handshakes werden gespeichert, braucht nicht viel Akku und müllt einem nicht mit zig Benachrichtigungen am Tag zu.<br> :date: __2020-09-07 15:10:43__
@@ -158,14 +166,6 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 > Ich habe diese App noch nie benutzt<br> :date: __2020-09-03 19:47:25__
 
 > Funktioniert wie es soll, verbraucht auch keine Unmengen an Akku obwohl die App im Hintergrund läuft<br> :date: __2020-08-31 18:43:40__
-
-> Läuft problemlos im Hintergrund. Wer zögert diese sich runterzuladen, sollte sich mal fragen ob er eine Kreditkarte 💳 einen Google Account oder Facebook Zugang hat, den dann hat er ein Datenproblem nicht mit dieser App! 🤗 👍<br> :date: __2020-08-29 14:44:09__
-
-> Einfach<br> :date: __2020-08-28 06:47:36__
-
-> Die App ist inzwischen viel besser als anfangs. Es wird eine Schnittstelle seitens Google bzw. Apple bereitgestellt, die die völlige Automatisierung des handshakes bei gleichzeitig hoher Sicherheit gewährleistet. Bitte laden und versuchen.<br> :date: __2020-08-27 02:23:39__
-
-> Nach dem holprigen Update läuft alles soweit.<br> :date: __2020-08-22 08:43:56__
 
 
 
@@ -231,6 +231,8 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 <img src="2_star_reviews_wordcloud.png" alt="at.roteskreuz.stopcorona 2 reviews"/>
 </p>
 
+> Habe mich als Verdachtsfall gemeldet, nach dem negativen Testergebnis wollte ich Entwarnung geben, was nicht ging!<br> :date: __2020-09-14 09:08:07__
+
 > Ich bin jetzt etwas verwirrt_ muss ich jetzt die Standortermittlung einschalten oder nur Bluetooth? Oder hängt das von Mobil Tel. Typ ab, dass nicht alle Handys gleiche Version haben? Bitte um Aufklärung, DANKESCHÖN!<br> :date: __2020-09-08 11:43:07__
 
 > Grundsätzlich halte ich die App für eine gute Idee. Mich stört allerdings, dass ich ständig Bluetooth, GPS und Internet aktiv haben muss, um den gewünschten Erfolg zu haben. Das zerrt am Akku und spätesten nach einem halben Tag ist dieser leer. Jedes Mal aktivieren und deaktivieren nervt. Ehrlich, ich denke nicht bei jedem Einkauf daran, alle Funktionen vorher zu aktivieren. Somit wird es zum ad absurdum.<br> :date: __2020-08-27 20:03:38__
@@ -249,8 +251,6 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 
 > Verbraucht viel Akku. Nicht zu vergleichen mit der Corona App Deutschland<br> :date: __2020-07-30 14:07:01__
 
-> Ich halte nicht viel von dieser App, da zuviel persönliches gespeichert wird<br> :date: __2020-07-28 23:45:46__
-
 
 
 #### 1-star reviews
@@ -259,24 +259,24 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 <img src="1_star_reviews_wordcloud.png" alt="at.roteskreuz.stopcorona 1 reviews"/>
 </p>
 
-> Unnötig<br> :date: __2020-09-09 15:33:26__
+> also es sieht ja nett aus, aber wie hier schon bemängelt wurde, ergeben die gespeicherten IDs keinen Sinn.. und warum ist die Ortung noch immer erforderlich wenn der Handshake über Bluetooth erfolgt?<br> :date: __2020-09-15 17:58:22__
 
-> Diese Drecksapp funktioniert nicht!!!<br> :date: __2020-09-09 09:24:19__
+> Die App ist eine bodenlose Frechheit! Habe sie von Anfang an installiert und soeben in den Einstellungen nachgesehen, wann denn das letzte Mal eine Überprüfung stattgefunden hat: Ein einziges Mal innerhalb der letzten 14 Tagen, nämlich beim Öffnen der App eine Minute zuvor. Samsung S9 / Android 10 / Akkuoptimierung deaktiviert. Die Probleme der App sind nicht erst seit heute bekannt, die Entwicklung jedoch komplett zum Erliegen gekommen (siehe GitHub). Eine Schande für alle Verantwortlichen!<br> :date: __2020-09-15 16:00:15__
 
-> Ich werde die mir nie herunterladen wo landen den meine Daten wirklich denn wenn die es im fehrsehr zeigen können wo wir waren ob wir daheim bleiben oder nicht ich bin leider mit den nicht vertraut und wo sollen die AGB sein oder die Datenschutzerklärung<br> :date: __2020-09-02 13:15:05__
+> Man sieht nicht ob irgendwelche Kontakte aufgezeichnet werden. Anscheinend wurde auch nach mehreren Monaten Betrieb landesweit noch kein einziger Fall dadurch gefunden (sonst wäre das ja wohl in irgendwelchen Nachrichten gestanden)<br> :date: __2020-09-15 14:27:15__
 
-> Nach einem Update meines Mobiltelefons stoppte die App ihre Arbeit! Ohne mich zu warnen!<br> :date: __2020-08-30 18:16:22__
+> Die App braucht 15 Minuten bis sie Kontakte in der Umgebung zb. Geschäft registrieren kann<br> :date: __2020-09-15 01:23:30__
 
-> Funktioniert leider nicht. Ich sitze alleine am Auto am Parkplatz (weit und breit keine andere Person) und erhalte einen Handshake mit "Anzahl Schlüssel 96" was auch immer das bedeutet?!<br> :date: __2020-08-27 17:52:53__
+> Haben Sie mittlerweile runter geladen und wollte sie auch am Handy meines Sohnes (Samsung J3) installieren und es ist nicht kompatibel wie mir die App mitgeteilt. SEHR SINNVOLL!!!! Nachtrag: Hab auf dem Handy meines Sohnes Corona Apps von anderen Ländern angeschaut und tata die sind kompatibel nur die aus dem Heimatland nicht 🤦<br> :date: __2020-09-14 22:09:29__
 
-> App meldet Bluetooth ausgeschaltet, obwohl Bluetooth aktiv ist und funktioniert (getestet): Keine chance Handshake zu aktivieren auch bei Neustart wieder dasselbe. Außerdem verlangt die App Standortfreigabe - wozu jetzt genau? Vlt sollte man nicht nur in Werbung sondern auch in saubere Entwicklung investieren. War selber 35+ jahre in IT, für dgl. unausgetestete Anwendung hätte niemand auch nur 20.000 gezahlt. Schade, wird sofort wieder installiert.<br> :date: __2020-08-24 18:25:36__
+> Die Idee ist gut, die Ausführung leider nicht hilfreich... Die Überprüfung auf mögliche Kontakte finden zu Uhrzeiten statt wo ich im Bett liege oder alleine am Berg etc.... Leider hilft das niemanden..... Bitte reparieren.<br> :date: __2020-09-14 13:44:34__
 
-> Wir können machen was wir wollen, aber der automatische Handshake funktioniert nicht. In den APP Einstellungen ist alles erlaubt. Stromsparen ist abgeschaltet. Aber die Idee ist sehr gut, darum 3 Punkte. Auch wenn es momentan nahezu unbrauchbar ist. Update 10.05.: automatischer Handshake geht noch immer nicht. Völlig nutzlos und mittlerweile finde ich das richtig ärgerlich. Topleistung! Nach dem letzten Update startet die APP gar nicht mehr. Update 23.08.2020: Umgestiegen auf App vom RKI<br> :date: __2020-08-24 00:01:42__
+> Meiner Meinung funktioniert die App nicht da ich immer nur einen angeblichen Kontakt am Sonntag habe wo ich den ganzen Tag zuhause bin und kein einziges Familienmitglied hat diese App<br> :date: __2020-09-13 09:38:48__
 
-> Grundsätzlich eine super Sache. Aber: Die App zeichnet Kontakte auf, die sicher nicht stattgefunden haben können, weil ich zB alleine im Garten war oder im Bett lag. Hier wäre eine dringende Überprüfung von Seiten der Entwickler notwendig.<br> :date: __2020-08-22 17:07:28__
+> Die Benachrichtigungen werden bei mir in wirrer, nicht chronologischer, Reihenfolge angezeigt. Abgesehen davon kann ich mit diesen Informationen gar nichts anfangen.<br> :date: __2020-09-13 07:41:04__
 
-> Wieso wird nur alle 7 Tage am Server nachgefragt nach der Liste der Infizierten? Samsung a8<br> :date: __2020-08-22 16:35:39__
+> Liebe Entwickler, Ich sehe viele Pobleme mit der App. Nur ein Beispiel: Man kann es nicht erkennen, ob die überhaupt funktioniert! Liste der Überprüfungen ergeben keinen Sinn! Ich stehe um 11.47 im Wald. Weit und breit kein Mensch zu sehen und um 11.47 soll eine Überprüfung stattgefunden haben. Liste ist komplett durcheinander. Die Tage sind nicht cronologisch aufgelistet. Das erweckt das Gefühl, es funktioniert nicht.<br> :date: __2020-09-12 12:00:55__
 
-> Begegnung durch Hausmauer werden erfasst<br> :date: __2020-08-20 21:46:28__
+> Wieder deinstalliert - Schrott, der nicht funktioniert.<br> :date: __2020-09-12 10:29:25__
 
 

@@ -4,69 +4,69 @@
         "store_country": "es",
         "store_lang": "es",
         "latest_crawled_version": "2.3.4",
-        "latest_crawl": 1599667700
+        "latest_crawl": 1600186263
     },
     {
         "id": "com.erictelm2m.colabora",
         "store_country": "es",
         "store_lang": "es",
         "latest_crawled_version": "4.1",
-        "latest_crawl": 1599667766
+        "latest_crawl": 1600186273
     },
     {
         "id": "cat.gencat.mobi.StopCovid19Cat",
         "store_country": "es",
         "store_lang": "es",
         "latest_crawled_version": "2.0.3",
-        "latest_crawl": 1599667814
+        "latest_crawl": 1600186279
     },
     {
         "id": "cat.gencat.mobi.confinApp",
         "store_country": "es",
         "store_lang": "es",
         "latest_crawled_version": "1.0.0",
-        "latest_crawl": 1599667821
+        "latest_crawl": 1600186286
     },
     {
         "id": "es.gva.responde",
         "store_country": "es",
         "store_lang": "es",
         "latest_crawled_version": "1.0.10",
-        "latest_crawl": 1599667831
+        "latest_crawl": 1600186294
     },
     {
         "id": "org.madrid.CoronaMadrid",
         "store_country": "es",
         "store_lang": "es",
         "latest_crawled_version": "1.1.0",
-        "latest_crawl": 1599667836
+        "latest_crawl": 1600186303
     },
     {
         "id": "es.gva.coronavirus",
         "store_country": "es",
         "store_lang": "es",
         "latest_crawled_version": "1.1.0",
-        "latest_crawl": 1599667842
+        "latest_crawl": 1600186312
     },
     {
         "id": "es.gob.asistenciacovid19",
         "store_country": "es",
         "store_lang": "es",
         "latest_crawled_version": "1.0.12",
-        "latest_crawl": 1599667847
+        "latest_crawl": 1600186315
     },
     {
         "id": "de.xikolo.openwho",
         "store_country": "es",
         "store_lang": "es",
         "latest_crawled_version": "3.4",
-        "latest_crawl": 1599667848
+        "latest_crawl": 1600186322
     },
     {
         "id": "es.navarra.coronatestnavarra",
         "store_country": "es",
         "store_lang": "es",
         "latest_crawled_version": "2.3",
-        "latest_crawl": 1599667856
+        "latest_crawl": 1600186326
     }
 ]

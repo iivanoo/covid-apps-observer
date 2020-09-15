@@ -205,6 +205,8 @@ The BC COVID-19 Support app has been installed by more than **50000** times. At 
 <img src="2_star_reviews_wordcloud.png" alt="ca.bc.gov.health.hlbc.COVID19 2 reviews"/>
 </p>
 
+> When I first installed it it worked fine. Now it has terrible glitches and freezes at the end of the self-assessment section. I've uninstalled and reinstalled it and it still dosn't work. I uninstalled it again.<br> :date: __2020-09-09 23:17:44__
+
 > Never any updates, no clarification of who should stay off work, and an online test that only says stay at home for 10 days if you're sick. As useless as the BC government's reaction to the whole mess. People should be fired.<br> :date: __2020-03-24 20:35:26__
 
 

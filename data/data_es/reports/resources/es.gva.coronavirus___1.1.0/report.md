@@ -173,6 +173,10 @@ No recent reviews available with 2 stars.
 <img src="1_star_reviews_wordcloud.png" alt="es.gva.coronavirus 1 reviews"/>
 </p>
 
+> No funciona, se queda la pantalla en blanco<br> :date: __2020-09-14 12:05:33__
+
+> Imprescindible SIP. :/<br> :date: __2020-09-13 07:01:06__
+
 > Esta aplicación ni tiene sentido si lo tienes SIP. Es la misma historia de siempre en el sentido de que es una guerra entre comunidades. No tiene ningún sentido está app. Espero que instalen la de Radar Covid que es a nivel nacional y dejen de hacer el canelo<br> :date: __2020-09-08 11:20:08__
 
 > No sirve para nada<br> :date: __2020-09-05 17:05:12__
@@ -188,9 +192,5 @@ No recent reviews available with 2 stars.
 > Penosa app, se rien en tu cara y ciertos comentarios los retiran...<br> :date: __2020-07-01 10:53:08__
 
 > Ninguna finalidad,para pedir cita previa y nada más.<br> :date: __2020-06-18 22:41:38__
-
-> Me quiero bajar la aplicación pero me pide un código ? Cual pongo? Me quedaba solo un intento . Gracias<br> :date: __2020-06-10 19:43:32__
-
-> La he descargado porque no la conocia y he cometido un error ahora me van a llamr del ambulatorio pero no me da opcion a anular. Deberia de figurar esta opcion. Este servicio podia incluirse en la app normal y no ser necesario instalar una nueva. Solo cita tfno no entiendo una app solo exclusiva para eso y encima que no puedes anular cita.<br> :date: __2020-06-02 14:38:09__
 
 

@@ -185,6 +185,8 @@ The SM_Covid19 app has been installed by more than **50000** times. At this time
 <img src="5_star_reviews_wordcloud.png" alt="it.softmining.projects.covid19.savelifestyle 5 reviews"/>
 </p>
 
+> Ottimo<br> :date: __2020-09-11 19:30:45__
+
 > Molto utile per tutti<br> :date: __2020-08-31 15:02:45__
 
 > Piace curata app<br> :date: __2020-08-23 21:40:56__
@@ -202,8 +204,6 @@ The SM_Covid19 app has been installed by more than **50000** times. At this time
 > Ottima app<br> :date: __2020-07-21 09:00:14__
 
 > Utile nei centri commetciali<br> :date: __2020-07-20 14:10:06__
-
-> Molto utile.... Avevo delle riserve all'inizio....ma con il passare dei giorni mi rendo conto che mi aiuta a mantenere il distanziamento<br> :date: __2020-07-19 22:23:35__
 
 
 
@@ -297,6 +297,8 @@ The SM_Covid19 app has been installed by more than **50000** times. At this time
 <img src="1_star_reviews_wordcloud.png" alt="it.softmining.projects.covid19.savelifestyle 1 reviews"/>
 </p>
 
+> Bah. Non ne capisco l'utilità<br> :date: __2020-09-12 00:45:24__
+
 > L' app consuma troppo batteria<br> :date: __2020-08-29 14:05:30__
 
 > Pessima da migliorare tutto<br> :date: __2020-08-23 18:06:12__
@@ -314,7 +316,5 @@ The SM_Covid19 app has been installed by more than **50000** times. At this time
 > 😝<br> :date: __2020-07-10 20:11:42__
 
 > Poco efficace fino ad ora<br> :date: __2020-07-08 23:41:06__
-
-> Non soddisfacente (al momento). Domanda: perché mi appare spesso la scritta 'applicazione in esecuzione" e l' indice è a 0.00? La prima volta che l'ho scaricata andava molto bene. Perché ora no saluti Paolo<br> :date: __2020-07-06 18:26:16__
 
 

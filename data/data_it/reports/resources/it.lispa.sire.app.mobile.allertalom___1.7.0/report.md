@@ -244,6 +244,8 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <img src="2_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 2 reviews"/>
 </p>
 
+> Poco utile<br> :date: __2020-09-09 18:24:47__
+
 > Tutti i giorni un'allerta meteo, tutte sbagliate<br> :date: __2020-08-29 19:29:58__
 
 > Salve,non so come abbia fatto ma mi ritrovo un addebito mensile di euro0,40 centesimi, non é per il costo però io non ho sottoscritto nessun abbonamento di questa app, mi dite come posso dare disdetta? Grazie<br> :date: __2020-08-26 18:33:35__
@@ -261,8 +263,6 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 > Sinceramente non capisco a cosa serve compilare il test...<br> :date: __2020-06-07 00:35:39__
 
 > Ogni volta che arriva una notifica e fai per aprirla, non si carica mai, ma va in crash.<br> :date: __2020-06-03 18:40:59__
-
-> Ho smesso di trasmettere i dati perché dopo un mese di utilizzo mi sfugge l'utilità di questa app specificatamente la parte riguardante allerta covid<br> :date: __2020-06-03 14:39:24__
 
 
 

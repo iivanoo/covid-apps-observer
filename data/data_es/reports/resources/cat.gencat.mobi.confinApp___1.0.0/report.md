@@ -150,10 +150,12 @@ The CONFINAPP app has been installed by more than **10000** times. At this time,
 #### 3-star reviews
 
 <p align="center">
-
+<img src="3_star_reviews_wordcloud.png" alt="cat.gencat.mobi.confinApp 3 reviews"/>
 </p>
 
-No recent reviews available with 3 stars.
+> Informacion no actualizada<br> :date: __2020-09-11 22:37:56__
+
+
 
 #### 2-star reviews
 

@@ -4,27 +4,27 @@
         "store_country": "jp",
         "store_lang": "jp",
         "latest_crawled_version": "2.3.4",
-        "latest_crawl": 1599667994
+        "latest_crawl": 1600186581
     },
     {
         "id": "de.xikolo.openwho",
         "store_country": "jp",
         "store_lang": "jp",
         "latest_crawled_version": "3.4",
-        "latest_crawl": 1599667998
+        "latest_crawl": 1600186585
     },
     {
         "id": "jp.co.maff.maffapp",
         "store_country": "jp",
         "store_lang": "jp",
         "latest_crawled_version": "1.0.3",
-        "latest_crawl": 1599668005
+        "latest_crawl": 1600186586
     },
     {
         "id": "jp.go.mhlw.covid19radar",
         "store_country": "jp",
         "store_lang": "jp",
         "latest_crawled_version": "1.1.3",
-        "latest_crawl": 1599668753
+        "latest_crawl": 1600186588
     }
 ]

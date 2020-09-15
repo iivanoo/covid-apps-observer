@@ -138,6 +138,8 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 <img src="5_star_reviews_wordcloud.png" alt="de.rki.coronadatenspende 5 reviews"/>
 </p>
 
+> Klappt endlich, auch mit den angezeigten Tagen!<br> :date: __2020-09-13 02:03:00__
+
 > Inzwischen funktioniert die App auch mit Samsung und vielen anderen Anbietern. Hoffentlich hilft es Erkenntnisse zu sammeln.<br> :date: __2020-09-06 19:16:40__
 
 > Schön das jetzt auch Amazfit unterstützt wird.<br> :date: __2020-09-05 11:30:03__
@@ -155,8 +157,6 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 > Juhu! Samsung Health ist dabei! Ich freue mich sehr, sie jetzt auch unterstützen zu können! Aus einem Stern werden 5!<br> :date: __2020-08-18 13:03:18__
 
 > Danke für die Integration von u.a. Samsung Health, dann muss ich die Daten nicht über zig Server schicken.<br> :date: __2020-08-17 13:22:16__
-
-> Funktioniert endlich auch mit Samsung Health!<br> :date: __2020-08-16 21:48:46__
 
 
 
@@ -226,8 +226,6 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 
 > Irgendwie funktioniert die scheinbar nicht. Bin angemeldet und verbunden... Null Tage gespendet...<br> :date: __2020-08-29 12:18:55__
 
-> Endlich kompatibel mit Samsung. Seit über einer Woche am "spenden", gespendete Tage aber "1". Einstellungen überprüft, alles richtig eingestellt. Sehr verwirrend...<br> :date: __2020-08-28 06:06:28__
-
 > Ich hänge seit mehreren Tagen bei gespendete 122 Tagen fest... Und ein Update gibt es nicht. Was ist da los? .<br> :date: __2020-08-27 21:00:06__
 
 > Seit vier Tagen installiert, zeigt die App nur 2 Tage als gespendet an. Das erweckt wenig Vertrauen in die ordnungsgemäße Funktionsfähigkeit, zumal die Anzeige der Tage das einzige Feedback an den Nutzer ist. Positiv ist demgegenüber die Erweiterung für Samsung Geräte.<br> :date: __2020-08-27 19:29:30__
@@ -242,6 +240,8 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 
 > Ich würde gerne helfen, aber Samsung Health wird nicht angeboten. Sobald das klappt, mache ich mit. Nachfrage: wann wird endlich Samsung Health implementiert?<br> :date: __2020-07-21 23:58:16__
 
+> Die Installation der App sowie die Verknüpfung zu Fitbit hat funktioniert, sogar nach dem Handywechsel problemlos.... anfangs ... denn nach einiger Zeit fing die Anzahl der gespendeten Tage wieder bei 0 an zu zählen. Ich weiß auch nicht, wie und wo ich meine Daten einsehen kann bzw. die Postleitzahl ändern könnte.<br> :date: __2020-07-06 21:28:31__
+
 
 
 #### 1-star reviews
@@ -249,6 +249,12 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="de.rki.coronadatenspende 1 reviews"/>
 </p>
+
+> Woran liegt es das huawei nicht integriert ist? Ist Deutschland von den USA so abhängig, das Deutschland sich am Huawei Bann beteiligt? Beim Marktanteil liegt Q2 2020 auf Platz 2 hinter Apple.<br> :date: __2020-09-14 12:59:07__
+
+> Gute Idee, aber nicht brauchbar! Zu wenig Hersteller werden berücksichtigt! Update 13.09.2020 Seit ca. 35 Tagen bleibt die Anzahl der gespendeten Daten bei 79! Stärkt nicht das Vertrauen in diese App! Habe keine Probleme meine Daten zu teilen, aber funktionieren sollte es schon. Ändert sich das nicht werde ich die App löschen.<br> :date: __2020-09-13 12:33:02__
+
+> Installation aus dem Google Store - ohne Probleme, Whitings auswählen und verbinden - ohne Probleme, läuft jetzt den 3. Tag, doch die Anzeige der Datenspende bleibt bei "0". Da kommen Fragen auf und ich bin wohl nicht der Einzige. Nach dem Update ging es dann, bis 114 Tage, dann sprang die App auf 74 Spendentage zurück. Mittlerweile bin ich erneut bei 112, jetzt schon einige Tage. Zählt einfach die Spendentage nicht mehr weiter.<br> :date: __2020-09-13 02:53:59__
 
 > Seit einer Woche zählt die App die Tage nicht mehr!! Meine 126 Tage sind weg. Habe neu installiert.<br> :date: __2020-09-07 13:06:26__
 
@@ -263,11 +269,5 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 > Ungenaue Daten,blieb bei 126 Tagen stehen<br> :date: __2020-08-27 07:56:16__
 
 > Irgendwas stimmt mit der app nicht ich kann die gespendete Daten nicht sehen ist ständig auf 0<br> :date: __2020-08-22 20:29:28__
-
-> Diese App ist schlimmer wie Corona selbst, funktioniert beim neuen Samsung S20 Ultra 5G nicht mal, da hilft nur App löschen. Ich frage mich warum der deutsche Staat in solche Unternehmen Geld rein pumpt wenn hinten nichts raus kommt wie Pfusch.👎👎👎<br> :date: __2020-08-21 21:44:55__
-
-> Also ich werde jetzt zwei Wochen warten, was die App macht oder nicht macht. Ich Verstehe den Sinn der App nicht, auf meiner Uhr Amazfit Stratos 3 noch die Amazfit App zeigt mir das die App hier was in zusammen halt mit der Amazfit App was auf zeichnen soll tut KP 😏🤔🤨 schauen wir mal. Nachtrag die App macht nichts habe sie drei Tage lang drauf und Aktualisiert und die Tage sind immer noch bei Null 🤔🤨😏👎 Lächerlich und Platz und Daten Killer auf Handy. 😤😡🤬 Deinstalliert und für die 🚮<br> :date: __2020-08-21 16:28:12__
-
-> Die 'Anzahl der gespendeten Tage' verharrt seit Tagen bei Null, obwohl Fitbit problemlos verbunden/aktiviert. // Mit Version 1.0.4 v. 11.04. funktioniert das jetzt. // Mit Version 2.0.0 bleibt die Zahl der Tage bei 127 stehen.<br> :date: __2020-08-19 06:42:23__
 
 

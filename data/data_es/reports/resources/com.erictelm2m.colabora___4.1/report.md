@@ -118,6 +118,8 @@ The COVID-19.eus app has been installed by more than **50000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="com.erictelm2m.colabora 5 reviews"/>
 </p>
 
+> Bueno<br> :date: __2020-09-12 12:27:32__
+
 > Muy útil y al ser versión inicial, dada la urgencia en ponerla en marcha, habrá que esperar por actualizaciones más completas y útiles en breve. Debieran permitir el cambio de domicilio!!<br> :date: __2020-09-02 16:30:50__
 
 > Que pasará con esta app cuando salga radar covid?? Alguien me puede responder?<br> :date: __2020-09-01 22:10:57__
@@ -135,8 +137,6 @@ The COVID-19.eus app has been installed by more than **50000** times. At this ti
 > Súper útil para evitar contagios y nuevos rebrotes!!<br> :date: __2020-06-11 09:18:56__
 
 > Falta mas desarrollo pero veo constantes cambios que me dicen que mejorara la app. Puede darnos información muy útil si todos la usamos, y podría evitar q gente con riesgo se mezcle en ciertos sitios, supongo q para eso es el QR. Ya lo hicieron en China. Ademas tienes mucha información actualizada. Mis 5 estrellas para impulsarla y para que sigáis trabajando. Animo a los demás a hacer lo mismo. Hemos estado aplaudiendo a los sanitarios y podemos dar apoyar también con nuestro voto. Gracias.<br> :date: __2020-06-10 16:30:41__
-
-> Es una pena que la gente no colabore por miedo a que nos controlen, pero no se dan cuenta que es una herramienta que puede ayudarnos a controlar la pandemia que es para lo que realmente está destinada....<br> :date: __2020-06-07 10:40:23__
 
 
 
@@ -176,8 +176,6 @@ The COVID-19.eus app has been installed by more than **50000** times. At this ti
 
 > Cuando agregamos a un familiar, o amigo, aparece en el listado sólo el número de teléfono, con lo cual no sé a quién he añadido, puesto que actualmente no sabemos los números de teléfono de casi nadie. Tampoco admite números de fijos...<br> :date: __2020-08-15 11:19:16__
 
-> ninguno de mis contactos quiere instalarlo porque no quieren que los controlen. Así no hay manera de que esta app funcione correctamente.<br> :date: __2020-08-11 14:15:49__
-
 > No es muy intuitiva la verdad... Creo que no se está publicitando lo suficiente. Si la usamos 4 gatos, no va a servir de mucho. Yo me enteré y me la descargue porque me dijo mi hermano.<br> :date: __2020-07-22 00:58:53__
 
 > Estaría bien que lo anunciaran en castellano, yo he llegado aquí por un anuncio en daylimotion y nos seguimos empeñando en que todo el mundo sabe euskera cuando no es así, castellano si que sabemos todos. Esto es de interés general, por favor, ponedle sentido y permitidnos enterarnos a la primera. Edito! Mirad la respuesta, me refería a la publicidad de la app, para contestar eso la verdad es que no se para que pagan a un community manager.<br> :date: __2020-07-01 11:20:50__
@@ -194,6 +192,8 @@ The COVID-19.eus app has been installed by more than **50000** times. At this ti
 
 > Debería permitir saber qué contactos la tienen instalada.<br> :date: __2020-06-07 10:46:12__
 
+> App en mejora. La verdad es que lo han actualizado constantemente y se agradece. Es funcional y útil si los de tu alrededor lo utilizan.<br> :date: __2020-06-07 10:33:23__
+
 
 
 #### 2-star reviews
@@ -201,6 +201,8 @@ The COVID-19.eus app has been installed by more than **50000** times. At this ti
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="com.erictelm2m.colabora 2 reviews"/>
 </p>
+
+> ninguno de mis contactos quiere instalarlo porque no quieren que los controlen. Así no hay manera de que esta app funcione correctamente. Es septiembre ahora y nadie de mi agenda lo instaló, No me sirve así. No hay forma de modificar los datos iniciales, por ejemplo si el entorno en el que vives habia personas de riesgo y ya no estan o ha cambiado tu situacion. No puedes modificarlo si ahora vives solo y el riesgo ha bajado. La desinstalo, en 5 meses no ha mejorado apenas.<br> :date: __2020-09-15 00:39:23__
 
 > Por un fallo al empezar con el Código postal me pone en otro sitio y no deja modificarlo. He desistalado la app y la he vuelto a instalar y sigue poniendo mal el C. P. Mala APP. Así mal para colaborar.<br> :date: __2020-09-06 16:17:47__
 
@@ -220,8 +222,6 @@ The COVID-19.eus app has been installed by more than **50000** times. At this ti
 
 > A mi me sale que tengo 3 contagiados en mi zona no en mis conctactos eso como lo tengo que tomar<br> :date: __2020-06-10 23:59:50__
 
-> La ultima actuallizacion no se me descarga<br> :date: __2020-06-10 11:56:18__
-
 
 
 #### 1-star reviews
@@ -229,6 +229,8 @@ The COVID-19.eus app has been installed by more than **50000** times. At this ti
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="com.erictelm2m.colabora 1 reviews"/>
 </p>
+
+> La información y los datos DESFASADISIMOS<br> :date: __2020-09-14 22:33:55__
 
 > Me parece que es manifiestamente mejorable; como las fincas extremeñas y andaluzas, vamos!!!<br> :date: __2020-08-24 16:44:40__
 
@@ -247,7 +249,5 @@ The COVID-19.eus app has been installed by more than **50000** times. At this ti
 > Me dice que la sesión a expirado<br> :date: __2020-06-30 08:55:07__
 
 > Mala actualización Me aparece un mensaje que la sesión ha expirado, que desistale y vuelva a intalarla. Así lo he hecho, pero sigue apareciendo el mismo mensaje<br> :date: __2020-06-29 17:32:54__
-
-> La habéis vuelto a dejar inútil con la última actualización. Vuelvo a bajar la puntuación al mínimo.<br> :date: __2020-06-29 14:39:49__
 
 

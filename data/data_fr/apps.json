@@ -4,41 +4,41 @@
         "store_country": "fr",
         "store_lang": "fr",
         "latest_crawled_version": "2.3.4",
-        "latest_crawl": 1599667199
+        "latest_crawl": 1600184083
     },
     {
         "id": "org.crf.minutis",
         "store_country": "fr",
         "store_lang": "fr",
         "latest_crawled_version": "2.0.3",
-        "latest_crawl": 1599667199
+        "latest_crawl": 1600184087
     },
     {
         "id": "de.xikolo.openwho",
         "store_country": "fr",
         "store_lang": "fr",
         "latest_crawled_version": "3.4",
-        "latest_crawl": 1599667200
+        "latest_crawl": 1600184094
     },
     {
         "id": "fr.aphp.covidom",
         "store_country": "fr",
         "store_lang": "fr",
         "latest_crawled_version": "1.5.21",
-        "latest_crawl": 1599667204
+        "latest_crawl": 1600184100
     },
     {
         "id": "com.ambulis.aphm.covid",
         "store_country": "fr",
         "store_lang": "fr",
         "latest_crawled_version": "1.2.0",
-        "latest_crawl": 1599667207
+        "latest_crawl": 1600184105
     },
     {
         "id": "fr.gouv.android.stopcovid",
         "store_country": "fr",
         "store_lang": "fr",
         "latest_crawled_version": "1.1.3",
-        "latest_crawl": 1599667217
+        "latest_crawl": 1600184109
     }
 ]

@@ -243,24 +243,24 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 <img src="1_star_reviews_wordcloud.png" alt="de.bssd.covid19 1 reviews"/>
 </p>
 
+> Schrott und Leute Verarschung, funktioniert nicht kann die App nicht nutzen, was ist die id ? Wieder deinstalliert diesen Mist.<br> :date: __2020-09-14 23:10:08__
+
+> Hat mein Ergebnis nicht angezeigt. Dann braucht man diese App auch nicht.<br> :date: __2020-09-14 19:24:34__
+
+> Wie schlecht ist das denn, eine Funktion und die funktioniert nicht. Unfassbar!<br> :date: __2020-09-11 17:19:39__
+
+> Es funktioniert weder Scan noch manuelle Eingabe. Unfassbar so eine Schrott App zu veröffentlichen.Wäre es nicht todernst, dann müsste man sich zumindest totlachen.<br> :date: __2020-09-11 14:16:01__
+
+> Ich versuche mich mal konstruktiv zu äußern, die Tastatur öffnet sich nicht, wenn man den Code manuell eingeben will und der Scanner um den QR-Code zu scannen funktioniert nicht. Man kann den QR-Code mit der normalen Smartphone Kamera scannen, dann wird man allerdings zu einer lokalen Adresse im eigenen Netzwerk weitergeleitet, die nicht erreichbar ist. Durch kopieren kann man den Code in das Eingabefeld einfügen, allerdings wird der Code bei mir nicht erkannt.<br> :date: __2020-09-11 12:17:29__
+
+> QR Code Scanner funktioniert nicht,also völlig unbrauchbar,traurig das zu diesem wichtigen Thema hier solch eine stümperhaft programmierte Software bereitgestellt wird<br> :date: __2020-09-10 10:56:34__
+
+> Nicht zu empfehlen !!!! Größter Mist auf Erden !!!! Anmeldung Fehlgeschlagen, weder einscannen noch eintippen des Codes hat funktioniert !!!! Design sieht Sch\*\*se aus !!!! Den einen Stern gibt es nur um diese Bewertung zu hinterlassen !!!! Totaler Reinfall !!!!<br> :date: __2020-09-10 09:49:39__
+
 > Nur negative Bewertungen! Schließe mich an, kann weder den Code scannen, noch die ID eingeben. Völlig sinnfrei diese App, morgen rufe ich meine Ärztin an. Diese App sollte gesperrt werden. Unfug !!!!!<br> :date: __2020-09-09 14:50:48__
 
 > Lässt sich nicht installieren<br> :date: __2020-09-09 12:24:11__
 
 > Das war oder ist ja wohl garnichts. Scan läuft und läuft und läuft ohne ein Ergebnis zu liefern. Die haendische Codeeingabe liefert die Fehlermeldung Passwort oder Benutzer falsch. So wird das nichts.<br> :date: __2020-09-08 19:54:52__
-
-> Funktioniert bis zu dem Moment, in dem die App wieder geschlossen wird. Danach verliert sie die Daten. Das bedeutet, daß man nach jedem Öffnen den QR-Code neu scannen muss. Somit ist auch eine Pushbenachrichtigung, die die App vorsieht, gar nicht möglich. Man muss die App ja mehr oder minder nutzen. Trotzdem ist sie unfassbar schlecht. Vermutlich aus öffentlichen Geldern finanziert und somit interessiert es auch keinen diese zu verbessern. Traurig.<br> :date: __2020-09-08 16:49:05__
-
-> Die App kann nichts, wirklich nichts, es ist unmöglich, den QR-CODE zu scannen.<br> :date: __2020-09-08 13:28:41__
-
-> Lässt sich nicht öffnen, schließt sofort von selbst.<br> :date: __2020-09-08 12:21:12__
-
-> 1sterne sind noch 10 zu viel der letzte Rotz... Da kann ich mir auch 3 mal den Kopf vor die Wand hauen<br> :date: __2020-09-08 11:39:09__
-
-> Ich konnte mich gar nicht erst anmelden, weder mit QR Code noch mit Kennnummer. Versucht es lieber über die Internetseite, das funktioniert wenigstens.<br> :date: __2020-09-07 17:37:17__
-
-> Ist diese App euer Ernst?<br> :date: __2020-09-06 14:19:09__
-
-> Scann und ID Nummer funktioniert nicht<br> :date: __2020-09-06 14:00:11__
 
 

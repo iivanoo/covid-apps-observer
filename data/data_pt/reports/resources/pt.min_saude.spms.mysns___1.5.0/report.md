@@ -171,6 +171,8 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <img src="5_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 5 reviews"/>
 </p>
 
+> MUITO ÚTIL ! OBRIGADO<br> :date: __2020-09-11 10:57:40__
+
 > Perfeito<br> :date: __2020-09-09 02:55:00__
 
 > Bom<br> :date: __2020-09-04 21:37:00__
@@ -188,8 +190,6 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 > Excelente<br> :date: __2020-08-18 19:42:54__
 
 > Funciona lindamente. Tem toda a informação disponível. O acesso é rápido, desde que já se tenha efetivado o registo na chave móvel digital, que nada tem a ver com esta aplicação, mas sim com um acesso seguro a todos os serviços da administração pública!<br> :date: __2020-08-14 13:39:47__
-
-> Boa<br> :date: __2020-08-07 17:16:51__
 
 
 

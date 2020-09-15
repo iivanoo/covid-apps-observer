@@ -156,6 +156,8 @@ The COCOA - COVID-19 Contact App app has been installed by more than **5000000**
 <img src="5_star_reviews_wordcloud.png" alt="jp.go.mhlw.covid19radar 5 reviews"/>
 </p>
 
+> Amazing.<br> :date: __2020-09-12 05:07:42__
+
 > Seems fine.<br> :date: __2020-09-09 09:47:47__
 
 > Simple to use and doesn't need personal information. I wish more people would use it so we could prevent the spread of covid19<br> :date: __2020-08-06 07:19:15__
@@ -173,8 +175,6 @@ The COCOA - COVID-19 Contact App app has been installed by more than **5000000**
 > 個人情報への配慮がよくできています。電話番号など詳細に登録しなくても使えるので安心しました。<br> :date: __2020-06-21 02:43:31__
 
 > 海外在住で、英語設定の海外スマホと居住国が日本以外のGoogleアカウントを用いてインストールしましたが全てスムーズです。気になる点は(1) 英語版の登録名にある"MHLW official"は日本人の私にもハテナ? です (2) アプリ自体はよく英語化されているのですが、スプラッシュスクリーンとアプリ上部のバナーに日本語が残るのは気になります。特に旅行者にとっては読めない文字で書かれたものは何かしら不安を感じます。厳しい言い方をすればアマビエも日本人の間だけで通じる内輪ネタで英語版のスプラッシュスクリーンには相応しくないです。シンプルな英語のみのスプラッシュとバナーにして、アマビエについては別途アプリ内に紹介ページを設けた方がよいと思います。<br> :date: __2020-06-20 11:54:17__
-
-> Giving this 5 stars because it is in English. Thank you very much for that<br> :date: __2020-06-20 02:51:14__
 
 
 
@@ -226,9 +226,9 @@ The COCOA - COVID-19 Contact App app has been installed by more than **5000000**
 <img src="1_star_reviews_wordcloud.png" alt="jp.go.mhlw.covid19radar 1 reviews"/>
 </p>
 
-> 役に立たない<br> :date: __2020-08-25 13:26:32__
+> 死値率1%以下に見せているが実態は保健所の検査拒否のため感染数もいい加減 これを使っても自身を守る事にはならない これは既得権階級層の人間が危険回避するための情報収集に過ぎない 健康保険料を払っても検査もしない 詐欺行為<br> :date: __2020-09-12 07:19:02__
 
-> 死値率1%以下の只の風邪に世界中大騒ぎ それより太陽の動きに注意 まあ逃げることはできないけど 地球を汚染した人類の顛末は如何に<br> :date: __2020-08-25 01:22:20__
+> 役に立たない<br> :date: __2020-08-25 13:26:32__
 
 > I thought this app would give information on my area, where there are covid cases.<br> :date: __2020-08-06 16:50:38__
 

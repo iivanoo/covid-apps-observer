@@ -231,6 +231,8 @@ The WHO Info app has been installed by more than **100000** times. At this time,
 <img src="1_star_reviews_wordcloud.png" alt="org.who.infoapp 1 reviews"/>
 </p>
 
+> This app sucks<br> :date: __2020-09-14 21:01:10__
+
 > Every time i open the app,doesnt work just tells us error on my huawei lite p7. Please developer work on it.<br> :date: __2020-08-18 11:59:51__
 
 > It doesn't even work<br> :date: __2020-07-30 20:38:39__
@@ -248,7 +250,5 @@ The WHO Info app has been installed by more than **100000** times. At this time,
 > How can I change the language?<br> :date: __2020-05-19 00:43:45__
 
 > This app is useless it can't download many times l try<br> :date: __2020-05-18 07:25:58__
-
-> I don't like this app<br> :date: __2020-05-14 07:07:35__
 
 

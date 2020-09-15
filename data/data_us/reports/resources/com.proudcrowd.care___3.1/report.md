@@ -244,6 +244,8 @@ The Care19 Diary app has been installed by more than **10000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="com.proudcrowd.care 1 reviews"/>
 </p>
 
+> Has me consistently at a location across town I'm never at.<br> :date: __2020-09-12 07:14:54__
+
 > Privacy<br> :date: __2020-08-27 22:42:43__
 
 > Does not automatically track as it says it will. Also, I can enter manually in my phone but my wife's phone cannot manually input as the app freezes when she puts in date from calendar. Uninstalled and reinstalled the app but still have same problems.<br> :date: __2020-08-16 17:20:12__
@@ -261,7 +263,5 @@ The Care19 Diary app has been installed by more than **10000** times. At this ti
 > App doesn't work. I wanted an app that would track my location automatically and the people that I was around. Now that I have covid-19 I can't even notify anyone that I was in contact with<br> :date: __2020-07-17 19:43:16__
 
 > Does this app work for Los Angeles, CA residents? It doesn’t seem to work when installed on my phone because I’m still unable to turn on “Exposure Notifications” after the app is installed. I’m going to Settings > Google > COVID-19 Exposure Notifications and the toggle to turn on Exposure Notifications will not respond.<br> :date: __2020-07-06 03:44:17__
-
-> Keeps stopping<br> :date: __2020-07-05 05:31:18__
 
 

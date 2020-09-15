@@ -133,6 +133,16 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 <img src="5_star_reviews_wordcloud.png" alt="au.gov.health.covidsafe 5 reviews"/>
 </p>
 
+> It's great<br> :date: __2020-09-15 12:08:40__
+
+> S,<br> :date: __2020-09-13 03:55:20__
+
+> Need more people to download so it's useful<br> :date: __2020-09-11 22:29:48__
+
+> Does its job.<br> :date: __2020-09-10 00:01:38__
+
+> It's amazing<br> :date: __2020-09-09 22:20:03__
+
 > Easy to instal Hope it works<br> :date: __2020-09-09 00:31:12__
 
 > No notification so far. I need to uninstall to get function and readings from iHealth heart monitor a few times a week. Then reinstall COVIDSafe app. Any solutions less onerous? Nola<br> :date: __2020-09-08 09:49:21__
@@ -142,16 +152,6 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 > Good.<br> :date: __2020-09-06 15:13:58__
 
 > Good<br> :date: __2020-09-06 13:30:36__
-
-> geez 9 zzz 222ss xxx 2w22<br> :date: __2020-09-06 02:43:13__
-
-> Just follow the safe RULES<br> :date: __2020-09-03 16:40:51__
-
-> It seems they have fixed the interruptions to Bluetooth and I am happy to use it again. Terrible interruptions to any Bluetooth stream. I can not listen to music without this app stopping the stream for 10 seconds or more. Tried to stop app while using my phone for music but it comes back on. I would have to uninstall and reinstall when interacting with people to tolerate it. Not worth it while SA is covid-19 free. I have uninstalled it until I hear that the Bluetooth is fixed.<br> :date: __2020-08-30 22:58:26__
-
-> Network pro. Read source. Its safe.<br> :date: __2020-08-30 10:45:00__
-
-> Helps<br> :date: __2020-08-28 23:46:16__
 
 
 
@@ -189,6 +189,12 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 <img src="3_star_reviews_wordcloud.png" alt="au.gov.health.covidsafe 3 reviews"/>
 </p>
 
+> No phone or battery issues on my samsung a5. Would like to see time shortened from 15 minutes to 1 or 2 minutes and warn me when I'm close to someone would be much better so I can move away. Otherwise it's fine. Can't see the point of having it if it waits 15 minutes to say I've been close to someone that's not good.<br> :date: __2020-09-14 00:47:04__
+
+> A,s<br> :date: __2020-09-13 08:18:43__
+
+> I have the internet connection. Covid app says no connection.???<br> :date: __2020-09-10 05:19:39__
+
 > Okay dont mind it<br> :date: __2020-08-29 12:30:32__
 
 > This app needs location *permission* because Bluetooth can be used to locate us. It doesn't need our location though. It should not require location services to be enabled.<br> :date: __2020-08-28 17:00:11__
@@ -203,12 +209,6 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 
 > Can i download the covidsafe app on a tablet<br> :date: __2020-08-15 08:03:45__
 
-> Working from home in Sydney and go out less than once a week. I can't see any way to turn it off when not needed. Can't get IFTTT to turn off when in WiFi zone.<br> :date: __2020-08-14 23:05:52__
-
-> It keeps dropping of.<br> :date: __2020-08-14 11:56:57__
-
-> Has been working on Android 6.0.1 until the last few days, when it now requires Battery optimisation to be disabled. I have tried all help instruction and any other possible way to switch off battery optimisation but the COVIDSafe app (v 1.0.48) still will not work. Hope they fix the problem soon.<br> :date: __2020-08-14 07:01:21__
-
 
 
 #### 2-star reviews
@@ -217,11 +217,13 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 <img src="2_star_reviews_wordcloud.png" alt="au.gov.health.covidsafe 2 reviews"/>
 </p>
 
+> This was a disappointment. We are a not for profit, volunteer organisation. We had a 2 day event. And needed to manage venue numbers. Many volunteers circulated through various roles. But the App only allows a total of 3. Pricing is not transparent. I could not find cost of the Emterprise version anywhere. Contacting the company revealed they wanted $1000 for the upgrade. We used pencil and paper to manage our event.<br> :date: __2020-09-14 01:49:20__
+
+> Yes it installs on 5.1 now but gets stuck after enabling Bluetooth. Proceed does not enable battery optimisation off and Bluetooth location. Oppo R7+ with ColorOs. The new version starts bu reports not connected to internet while the phone is connected to internet. App 'report problem' fails. Is it of any use without Internet?<br> :date: __2020-09-11 02:49:34__
+
 > The app is causing my Bluetooth headphones to stutter :(<br> :date: __2020-09-09 13:20:22__
 
 > No support. Bluetooth weirdness = lost connectivity. Oh well. Nice idea. Uninstalled.<br> :date: __2020-09-08 14:16:41__
-
-> I thought the app was working fine on my phone samsung s5. I did not have the battery issues others were reporting. But now it is behaving strangely. If i have the GPS turned on for another App and the turn it off. I now get a message saying the Covid Safe App is not working and needs location services. However the little icon at the top of the screen and the pull down menu both say it is active. I will not leave my GPS turned on. Covid Safe only has location services for bluetooth. Why GPS?<br> :date: __2020-09-08 01:57:59__
 
 > Uninstall because it cause problems with bluetooth conectons.<br> :date: __2020-09-06 09:28:07__
 
@@ -235,8 +237,6 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 
 > I really don't know what's use of this apps except eating so much battery juice on my phone.<br> :date: __2020-09-03 03:36:21__
 
-> Not Sure.<br> :date: __2020-09-01 13:01:21__
-
 
 
 #### 1-star reviews
@@ -245,24 +245,24 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 <img src="1_star_reviews_wordcloud.png" alt="au.gov.health.covidsafe 1 reviews"/>
 </p>
 
-> App was not working at all on the Android 11 Beta. Stable final release of 11 is now out and COVIDSafe is still not working.<br> :date: __2020-09-09 01:40:33__
+> @CovidSafeapp has issues, it keeps disconnecting my beats bluetooth headphones sound while watching videos. On uninstalling app theu work fine. Same issue on my wife's phone with bose headphones. It keeps disconnecting on my samsung note 9. Please fix<br> :date: __2020-09-15 12:46:46__
 
-> it brokeded<br> :date: __2020-09-08 14:46:38__
+> 2 million downloads out of around 27 million people in Australia. Bahahahahahah we now know which idiots vote LNP or are involved in a panicdemic. Welcome privileged fools to the world you gave others for decades. Thanks for the plebescite breeders...enjoy Covid-19!! The great equaliser forcing the privileged to pretend to care! Uninstalling and hope you fools realise you should never trust a government who let the virus in. Plebiscite, bushfires, covid 19 what more proof do you need idiots!!!!<br> :date: __2020-09-15 00:20:55__
 
-> I have to force stop the app to use Bluetooth devices. I use them as a vision impaired person for navigation. The solution offered by these pelicans was to not use the app. Apparently my tax dollars aren't worth as much as fully sighted people. I think there are laws that protect me from discrimination like that developers. Shall I test that or will you fix the app?<br> :date: __2020-09-08 11:26:41__
+> this app doesn't alert you to close contact with other registered confirmed covid case's one of my friends went shopping and he was waiting in line at the checkout. A man behind him coughed on him! later that same guy said he had covid and was registered with this app but thought he was fine to go shopping! At Woolworths Gosford Imperial Centre Gosford NSW Australia 2250 Friday 11th September between 9am and 10am<br> :date: __2020-09-13 13:36:05__
 
-> It worked for a few months, but for the last few weeks it has been crashing every time I've tried to run it, and crashing when it launches in startup.<br> :date: __2020-09-08 11:14:06__
+> Loaded the app, got charged in excess of $100 extra data charges when I have a 500GB plan. Deleted the app, the extra charges stopped happening. So furious.<br> :date: __2020-09-13 06:25:15__
 
-> Every other week it just becomes inactive and has to be reloaded and all contact tracing is lost.<br> :date: __2020-09-08 08:00:30__
+> Kills your battery and it doesn't do much<br> :date: __2020-09-13 03:22:10__
 
-> ive deleted it for two reasons. it doesnt seem to work. but mainly in protest of the federal gov continued snipping of the vic responce to covid. all u r doing is undermining vic and fanning discontent.<br> :date: __2020-09-08 04:15:02__
+> Followed instructions on the website, still does not allow me to receive the PIN, keeps saying "try again later"<br> :date: __2020-09-13 02:23:37__
 
-> Always says it's inactive<br> :date: __2020-09-08 00:12:12__
+> Cannot register - get pin????<br> :date: __2020-09-12 10:26:25__
 
-> Such a waste of people's money<br> :date: __2020-09-08 00:05:47__
+> Pointless app. Hasn't done anything it claims, just drains battery power<br> :date: __2020-09-11 11:55:49__
 
-> Apart from using your phones battery, I don't know what else this app is good for? It hasn't proven to be helpful in tracking any contacts that human contact tracers haven't found.<br> :date: __2020-09-07 14:49:14__
+> App reports green and working in status bar, but when I tap on the app status, it opens showing it's not working because either GPS or Bluetooth is turned off, and I did not turn either of these off. Confusing. Concerning more so because I discover this halfway through or after a day out!! If mine doesn't work reliably, does anyone else's? If it's not working reliably for everyone what's the protection level? I supported and pushed the concept of this app and still do. Get your act together!<br> :date: __2020-09-11 01:42:46__
 
-> What's the point!<br> :date: __2020-09-07 14:22:01__
+> Everytime I open app I find out Covid Safe isn't functioning. Constantly have to give permission to battery parameters. I'm sick of draining my phone battery on such a useless app<br> :date: __2020-09-10 06:34:24__
 
 

@@ -257,6 +257,8 @@ The ABTraceTogether app has been installed by more than **50000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="ca.albertahealthservices.contacttracing 1 reviews"/>
 </p>
 
+> HELP Honestly the app doesn't work at all for me. I hit "upload data" and it doesn't send a pin. This app has been sub-par but I still have it downloaded.<br> :date: __2020-09-12 12:48:12__
+
 > First time code didn't work. Now stuck at that point. Should be option to resend a code.<br> :date: __2020-09-06 22:38:04__
 
 > Absolute garbage. It doesn't stay active on your phone. I have to restart my phone when I'm out and about several times so absolutely no point. Doesn't work.<br> :date: __2020-09-03 15:30:42__
@@ -274,7 +276,5 @@ The ABTraceTogether app has been installed by more than **50000** times. At this
 > Such a battery hog! The federal one doesn't need as much battery as this one. Fix it if you want more people to use it.<br> :date: __2020-08-05 23:55:05__
 
 > Terrible app, can't even register.<br> :date: __2020-08-05 16:04:20__
-
-> Won't let me sign up. Uninstalled then reinstalled, now there's an error message when adding phone number.<br> :date: __2020-08-05 15:09:29__
 
 

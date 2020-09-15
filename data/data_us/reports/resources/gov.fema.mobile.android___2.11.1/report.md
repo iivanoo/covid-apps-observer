@@ -165,6 +165,8 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 <img src="5_star_reviews_wordcloud.png" alt="gov.fema.mobile.android 5 reviews"/>
 </p>
 
+> Thanks for your help<br> :date: __2020-09-12 20:50:16__
+
 > Love it!! Can check on family around the country and in different counties. If you set you phone to do not disturb, make sure to tell the do not disturb app that these messages are allowed. If you lower power saving level on android phones the app does not alert you.<br> :date: __2020-09-08 16:04:30__
 
 > A must if you live at the coast!<br> :date: __2020-08-29 16:11:21__
@@ -182,8 +184,6 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 > Thank you!🇵🇷🇺🇸🙋<br> :date: __2020-07-31 00:22:40__
 
 > I love the sound of that!!<br> :date: __2020-07-26 18:18:13__
-
-> Thanks fema helped me get the people thuer stimulus checks we wouls have gotten the sooner if my they vwasnt playing games<br> :date: __2020-07-26 07:50:10__
 
 
 
@@ -221,6 +221,10 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 <img src="3_star_reviews_wordcloud.png" alt="gov.fema.mobile.android 3 reviews"/>
 </p>
 
+> Sends out alerts as expected, but here's the issue. If I'm in another app (Facebook, e.g.), it won't override it, and there doesn't seem to be a way to get the alert within the actual app, so if you miss it... too bad. Also tried to pull up the app while roaming, and got a "no wifi" connection error. Who the hell has wifi during an emergency??? DO BETTER.<br> :date: __2020-09-13 18:35:21__
+
+> Not enough details on alerts. Not worth the space on my phone<br> :date: __2020-09-11 00:11:01__
+
 > Prepare: emergency safety tips: broken scroll and no clickables<br> :date: __2020-09-08 02:54:56__
 
 > Difficult to navigate and doesn't provide info I expected<br> :date: __2020-09-06 08:45:22__
@@ -237,10 +241,6 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 
 > I am a Harvey Hurrican victom me an my brother. When the hurrican was over i rent a place. My brother is with liver problems high blood pressure and hepitest. I am a copd lung condition also health problems. I am on home oxegen and four times a day with breathing treatments. Also my brother has a lung problem also woth Copd. We need Fema to help eith a house on Dickinson Texas , 77539. The place we rent has md and the land lord is a ok person but a slumlord. Fema to help us better living home<br> :date: __2020-04-20 08:40:27__
 
-> The app did work great. I got a Samsung A10 and for some reason the notifications stopped working properly. The weather notifications are intermittent and my reminders for emergency kit, smoke detectors, etc. don't come through at all anymore. Suggestions? I'd like to give higher marks.<br> :date: __2020-04-09 04:12:19__
-
-> FLASH FLOODING IN PHOENIX FLASH FLOODING IN PHOENIX FLASH FLOODING IN PHOENIX FLASH FLOODING IN PHOENIX FLASH FLOODING IN PHOENIX. I GET IT. I DON'T NEED A NEW NOTIFICATION EVERY 30 SECONDS.<br> :date: __2020-03-12 22:35:27__
-
 
 
 #### 2-star reviews
@@ -248,6 +248,8 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="gov.fema.mobile.android 2 reviews"/>
 </p>
+
+> Installed this app months ago and expected this would be the moment for it. I'm getting "red flag warnings" and "evacuation alerts" every few minutes (with no date or timestamp) that just say things like "GO NOW Eden Road" with a web link I can't click or copy. After switching back and forth between apps to type out it turns out it's a map and Eden Road is 60 miles away. You can't set alerts for regions smaller than the entire county. Evac notices also came through sooner with other services.<br> :date: __2020-09-12 07:56:04__
 
 > What is it with this app. I've.been trying to download it for three days how long does it take to for it to download .we are about to be hit with a hurracain.this is messed.up<br> :date: __2020-08-23 03:40:24__
 
@@ -266,8 +268,6 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 > App does not give alerts. At one time it worked.<br> :date: __2019-06-18 03:25:56__
 
 > The app seems to be very inconsistent. Sometimes i get alerts, sometimes I don't. I've uninstalled and reinstalled a few times but it hasn't helped. Very disappointing.<br> :date: __2019-03-03 23:10:36__
-
-> Why new permission without reason? Added finsky bind referer without statement of why or what for<br> :date: __2018-10-09 16:45:58__
 
 
 

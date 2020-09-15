@@ -188,8 +188,6 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 <img src="5_star_reviews_wordcloud.png" alt="gov.cdc.general 5 reviews"/>
 </p>
 
-> good<br> :date: __2020-09-09 12:18:04__
-
 > Works for me lol<br> :date: __2020-09-08 12:59:02__
 
 > Excellent reference source.<br> :date: __2020-09-02 17:35:05__
@@ -208,6 +206,8 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 
 > Seems as informative as we can get.<br> :date: __2020-07-27 00:32:28__
 
+> Important to know whats going on.<br> :date: __2020-07-25 23:50:52__
+
 
 
 #### 4-star reviews
@@ -215,6 +215,8 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="gov.cdc.general 4 reviews"/>
 </p>
+
+> A very informative app on Disease and general health protocol. Could have 5 stars if it was easier to navigate and find information such as a search bar to find exactly what I'm looking for.<br> :date: __2020-09-11 04:55:30__
 
 > It's the only coronavirus app, so make it good. Just won't load. This is dangerous!! UPDATE: ok I think they fixed it<br> :date: __2020-09-07 22:40:29__
 
@@ -233,8 +235,6 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 > Not sure its functions or How it works<br> :date: __2020-04-25 10:08:09__
 
 > I love the CDC but I wish it wouldn't be a app that puts you on the internet<br> :date: __2020-04-23 02:17:52__
-
-> Let's go walking Yes ok?<br> :date: __2020-04-21 19:21:07__
 
 
 

@@ -229,6 +229,8 @@ No recent reviews available with 2 stars.
 <img src="1_star_reviews_wordcloud.png" alt="com.myaus 1 reviews"/>
 </p>
 
+> Could not get it to work.<br> :date: __2020-09-10 11:21:12__
+
 > Not even<br> :date: __2020-07-02 09:26:15__
 
 > there are no more new case numbers for states for the day just totals the most important information is missing I have got to use worldometer now deleted..<br> :date: __2020-05-30 10:53:58__

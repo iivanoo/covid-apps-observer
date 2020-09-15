@@ -1,5 +1,65 @@
 [
     {
+        "reviewId": "gp:AOqpTOHk-IU0MsTOCviNQsYZ730Z70G8j58LTngobXNbQPJiQNsF1dye0LOX-77qPk0aBaGMwwBljSL3c1Ka",
+        "userName": "Paolo Veracini",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gg62rq-ph7thgAhL5Wl8r1z8aPZ4KVjmR5t8eVf",
+        "content": "Non ne ho capito l utilit\u00e0",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2020-09-14 20:19:05",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFCJSH5pF1RopKKgeDqkroTJQ7HRvF1IybK1XFjFp4COjnmz1-wVzMJgwUzfHO7tpYqN-c5XGceM7cw",
+        "userName": "Gianluca Lo Maglio",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gis_2TZgyFzJiqlkvti-aUCSqCAy0d8dG-j0UDRIPQ",
+        "content": "Problemi iniziali risolti, rimaneva bloccata. Al momento ci siamo registrati con la fidanzata. Procedura un po' ridondante, abbiamo inserito sia io che lei dati miei e dati suoi. Vediamo in Sicilia come si comporter\u00e0 dopo check in.",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "7.5",
+        "at": "2020-09-14 12:52:11",
+        "replyContent": "Gentile Gianluca, si tratta probabilmente di un errore di rete temporaneo. Dovessi avere problemi contattaci al numero: 800 458787 o scrivici all'indirizzo: helpdesk@siciliasicura.com. Per ulteriori info \u00e8 possibile consultare il manuale utente: http://tinyurl.com/siciliasicura-it",
+        "repliedAt": "2020-09-14 10:42:40"
+    },
+    {
+        "reviewId": "gp:AOqpTOE-gJbUn4Fc5s4SL_zWkzKjIfJq3u3AS3XofWuNiOe7Vgl6tFXMX0cz-HsVBBxQgmK4czTR90K0lih4",
+        "userName": "vincenzo di michele",
+        "userImage": "https://play-lh.googleusercontent.com/-UJQq5jIgAoo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmtUn-M52fAe7TX8uvwzBFJw8-93w/photo.jpg",
+        "content": "Aprendo l'app ottengo solo una schermata bianca. Il problema persiste tutti i giorni. Sono costretto a loggarmi via chrome",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "7.5",
+        "at": "2020-09-14 10:45:17",
+        "replyContent": "Gentile Vincenzo, si tratta probabilmente di un errore di rete temporaneo. Dovessi avere problemi contattaci al numero: 800 458787 o scrivici all'indirizzo: helpdesk@siciliasicura.com. Per ulteriori info \u00e8 possibile consultare il manuale utente: http://tinyurl.com/siciliasicura-it",
+        "repliedAt": "2020-09-14 10:42:33"
+    },
+    {
+        "reviewId": "gp:AOqpTOHbaJVPvOh4tXbaO10v6BpVtWzfovefLht1enLK4lwjV0IRQWCw1wbV58MrxPZjN_uPjS6TggQ0aNQ7",
+        "userName": "Antonio Dl",
+        "userImage": "https://play-lh.googleusercontent.com/-npMMY5Ko4Ws/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclRBh05TY1fjKn17iSza90JZEEFjQ/photo.jpg",
+        "content": "Complimenti alla regione Sicilia che ha fatto una app semplice nella compilazione ed efficace con check-in con messaggio di conferma e di benvenuto, e checkout con messaggio auspicando che la permanenza sia stata di gradimento; diversamente dalla dichiarazione che ho dovuto fare nella regione Puglia, molto complicata e senza la sicurezza di ricevimento dalla Usl di riferimento. Brava la regione Sicilia.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2020-09-13 11:30:43",
+        "replyContent": "Gentile Antonio, ti ringraziamo per il tuo feedback",
+        "repliedAt": "2020-09-14 10:42:00"
+    },
+    {
+        "reviewId": "gp:AOqpTOGotXrBY-87Kxwxpti6dLQMdZ17SUzG7P09iyNhXtu_CfY0etZfQul2RdKHtTMMR6Eq9uBR3Dzmp_sK",
+        "userName": "Roberta Pelleriti",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gh8r_W_h6tuZTIlEn-Y5lUG_Doxxa_jmwO4oqtrSA",
+        "content": "Scaricata e utilizzata per il mio soggiorno in Sicilia, registrazione ed utilizzo senza problemi. Non capisco per\u00f2 come effettuare un nuovo check-in, dato che ritorner\u00f2 in Sicilia a breve. Al massimo far\u00f2 la cancellazione e successiva ri-iscrizione dell'account.",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "7.5",
+        "at": "2020-09-12 17:19:11",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOEaR6RHIpaEOQ7JzkT9s2KR0x9DuH6lUHixlU057jdE2Lbq1gLDZvNqt5S0Zs9FNQaVTQCjFR0B95B-",
         "userName": "pitta pitta",
         "userImage": "https://play-lh.googleusercontent.com/-OVluDRG0Oo8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucllcn9og4AZzZz5OQJDBvDVTaiXWA/photo.jpg",
@@ -8,8 +68,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2020-09-09 12:38:32",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Gentile Pitta, dovessi avere problemi contattaci al numero: 800 458787 o scrivici all'indirizzo: helpdesk@siciliasicura.com. Per ulteriori info \u00e8 possibile consultare il manuale utente: http://tinyurl.com/siciliasicura-it",
+        "repliedAt": "2020-09-11 11:20:11"
     },
     {
         "reviewId": "gp:AOqpTOFZvY3bgL9DOsn972PiZYRYjgv9txBs_U6dxvTi869MBxQh-jC406eJ8q5kWKR66r2b8_8W2u-uD1e5",
@@ -20,8 +80,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2020-09-08 13:43:44",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Gentile Luigi, dovessi avere problemi contattaci al numero: 800 458787 o scrivici all'indirizzo: helpdesk@siciliasicura.com. Per ulteriori info \u00e8 possibile consultare il manuale utente: http://tinyurl.com/siciliasicura-it",
+        "repliedAt": "2020-09-11 11:20:05"
     },
     {
         "reviewId": "gp:AOqpTOE1gQUwKel_nzUszTlAijREeRjCeZObqz0jB_eJJX5EVaXhUtDKbWmTdpopN8CO_ek0SicV7kwuL_dp",
@@ -29,11 +89,11 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Ghk-r-tBVodjC4hH7phu_roZG93hO6xyXcxty4UtQ",
         "content": "Vengono richiesti troppi dati, la registrazione \u00e8 infinita I gestori delle strutture non supportano l'applicazione. Ne ho sentito parlare solo dopo 2 settimane in Sicilia dall'ultimo gestore (ho l'impressione di essere uno dei pochissimi ad usarla). \u00c8 obbligatoria?? In che modo pu\u00f2 essere usata l'informazione sul checkout? Perch\u00e9 prendere la posizione? Come pu\u00f2 la posizione GPS essere utile? Sarebbe meglio usare la prossimit\u00e0 Bluetooth come Immuni che per altre ragioni \u00e8 comunque una porcheria",
         "score": 1,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 3,
         "reviewCreatedVersion": "7.5",
         "at": "2020-09-04 20:08:20",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Grazie per il suo feedback.",
+        "repliedAt": "2020-09-11 11:19:46"
     },
     {
         "reviewId": "gp:AOqpTOHYl_LE4WXgaf72-06nG3ydqw0zUtyvJRPfze5FkSyhD8ezP4ZAg-L8FgVFv4v4VSE8yZyWcFf3IXaY",
@@ -101,7 +161,7 @@
         "userImage": "https://lh3.googleusercontent.com/-q0EYNZgxTlc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnH1ALXQN63DQ-NwdBB30jwPZW7EA/photo.jpg",
         "content": "Sono un siciliano residente in altra regione. Leggendo i commenti di altri utenti, a prescindere dai commenti sull'utilit\u00e0 o meno dell'app, ero un po' scettico sulla sua funzionalit\u00e0. Tuttavia, dalla mia esperienza posso dire che non ho avuto problemi durante la registrazione. Sono riuscito a fare il check-in ed il check-out del mio gruppo (io e la mia compagna) con facilit\u00e0. Spero che questa piccola accortezza possa essere utile per la sicurezza di tutti.",
         "score": 5,
-        "thumbsUpCount": 9,
+        "thumbsUpCount": 13,
         "reviewCreatedVersion": "7.5",
         "at": "2020-08-26 15:57:11",
         "replyContent": null,
@@ -566,7 +626,7 @@
     {
         "reviewId": "gp:AOqpTOEbf01lL83obkjO1Bdcp-ZcMOezbOITE29FmK8LEV60G5U8ESEckeLsnIrNK9mydlicLPzxI1mfebrI",
         "userName": "Sergio Schiavini",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgB28nCLEpVzyKDhzD9fBrX5q8PsphTo5QNW6Alqw",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjuSVaak7csR-0dr57PNg1520Ttgy7RlhPyCzhcww",
         "content": "App inutile, con diligenza e rispetto l'ho installata ed utilizzata giornalmente. Ma mi sembra di combattere contro i mulini a vento, la mascherina \u00e8 indossata da poche persone locali, la utilizzano solo i turisti e il personale dei negozi ma non gli avventori. In tante occasioni chi la porta \u00e8 soggetto a scherno e risate varie, la distanza sociale non \u00e8 cosa loro ed i controlli non si vedono in giro. Ma se ne discuti con le persone dicono che sono stati bravi e rispettosi , contenti loro.",
         "score": 2,
         "thumbsUpCount": 0,
@@ -869,7 +929,7 @@
         "userImage": "https://play-lh.googleusercontent.com/--icNMsI021E/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmc6Ae4GGXJf2OFZo_Tx5MswYldlQ/photo.jpg",
         "content": "Non entro nel merito del funzionamento dell' app, ma alla sua utilit\u00e0. In Sicilia l'uso della mascherina e il distanziamento sociale sono un ricordo di lontano passato. Ci sono delle eccezioni, ma sono veramente rarissime. A questo punto mi chiedo, se una Regione non riesce a fare rispettare le leggi, Nazionali e Regionali a seguito di una pandemia mondale, che tipo di affidabilit\u00e0 pu\u00f2 trasmettere ai turisti in viaggio... NESSUNA!!!",
         "score": 3,
-        "thumbsUpCount": 83,
+        "thumbsUpCount": 84,
         "reviewCreatedVersion": "6.6",
         "at": "2020-07-05 16:57:48",
         "replyContent": "Gentile Domenico, la ringraziamo per il feedback che ci ha inviato.",

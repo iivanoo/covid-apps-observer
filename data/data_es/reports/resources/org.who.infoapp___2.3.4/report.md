@@ -207,6 +207,8 @@ The WHO Info app has been installed by more than **100000** times. At this time,
 <img src="1_star_reviews_wordcloud.png" alt="org.who.infoapp 1 reviews"/>
 </p>
 
+> Mala muy mala<br> :date: __2020-09-14 00:43:53__
+
 > Execlente 😉<br> :date: __2020-08-28 01:52:57__
 
 > No funciona.No la recomendaría para nada.Espero que sea algo que se pueda resolver.Gracias.<br> :date: __2020-08-06 18:26:06__
@@ -224,7 +226,5 @@ The WHO Info app has been installed by more than **100000** times. At this time,
 > La app es interesante pero yo no sé inglés. Pongan la posibilidad que pueda leerse en español porque soy lector de su página web y es muy interesante y más en éstos tiempos.<br> :date: __2020-05-19 00:45:01__
 
 > No está en español<br> :date: __2020-05-14 22:12:38__
-
-> No sirve en inglés deve de ser en español<br> :date: __2020-05-12 05:36:41__
 
 

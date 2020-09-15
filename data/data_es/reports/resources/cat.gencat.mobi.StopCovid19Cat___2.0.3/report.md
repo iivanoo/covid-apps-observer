@@ -132,6 +132,8 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 <img src="5_star_reviews_wordcloud.png" alt="cat.gencat.mobi.StopCovid19Cat 5 reviews"/>
 </p>
 
+> Es fácil de entender<br> :date: __2020-09-15 15:09:16__
+
 > Excelente<br> :date: __2020-09-04 10:58:24__
 
 > Esta app la veo bien<br> :date: __2020-08-01 12:41:39__
@@ -149,8 +151,6 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 > Ja torna a funcionar, moltes gràcies, per la vostre resposta.<br> :date: __2020-06-14 21:29:30__
 
 > Molt bona<br> :date: __2020-06-12 14:44:08__
-
-> No me deja introducir el número de teléfono.<br> :date: __2020-06-08 15:08:56__
 
 
 
@@ -188,6 +188,8 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 <img src="3_star_reviews_wordcloud.png" alt="cat.gencat.mobi.StopCovid19Cat 3 reviews"/>
 </p>
 
+> Va bé per controlar els símptomes. Hauria d'estar integrada dintre de La Meva Salut, juntament amb Radar Covid.<br> :date: __2020-09-10 17:11:13__
+
 > ¿Está integrada con Radar COVID, la app española?<br> :date: __2020-09-06 13:18:25__
 
 > BUENA<br> :date: __2020-08-13 15:14:40__
@@ -205,8 +207,6 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 > No ñellsimplemente<br> :date: __2020-05-29 21:40:28__
 
 > Poco detallada<br> :date: __2020-05-16 19:48:31__
-
-> A casa som 4 i solament guarda el CIP de l'últim. És podria buscar la forma de que els guardés<br> :date: __2020-04-26 10:44:04__
 
 
 
@@ -244,6 +244,12 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 <img src="1_star_reviews_wordcloud.png" alt="cat.gencat.mobi.StopCovid19Cat 1 reviews"/>
 </p>
 
+> Una app que no fa cap tipus de seguimient ni notifica possibles infectats i que es l'usuari qui respon si te febre o tos, per exemple, sense que ningu verifiqui si es o no veritat, de qué serveix?. No entenc que et fassis la prova, donis positiu, et donin un codi pero aquet nomès serveixi per aquesta app i no, també, per Radar Covid que si dona info sobre possibles infectats amb els quals et pots creuar i parlar amb ells i es saltin la cuarentena o confinament per la raó que sigui.<br> :date: __2020-09-14 21:35:36__
+
+> No es válido para teléfonos huawei. Muy descontenta<br> :date: __2020-09-11 14:31:21__
+
+> Un truño CAT.<br> :date: __2020-09-10 19:37:22__
+
 > Está app no sirve para nada. Después de estar una semana haciendo el test y diciéndome que un profesional se pondría en contacto conmigo llamé al CAP, y menos mal que me atendieron por teléfono y me dijeron de hacer la PCR, porque di positivo, así que está app no es de fiar, porque no sirve para nada<br> :date: __2020-09-08 13:19:36__
 
 > No detecta coronavirus<br> :date: __2020-09-07 23:36:56__
@@ -257,11 +263,5 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 > No veo que sirva para saber si estas contagiado o has estado con personas que tienen el virus y contener los posibles contagios y las expansiones del virus<br> :date: __2020-08-07 14:00:29__
 
 > Inutilidad total, la desinstalado por inutil, no guarda lo datos, csda vez que la abro, tengo q dar los datos de nuevo, INUTIL<br> :date: __2020-08-01 19:56:10__
-
-> Esto es tan útil como el decir que si te encuentras mal vayas al médico. Porque al final sin médicos esto no sirve de nada.<br> :date: __2020-07-31 21:55:16__
-
-> Es tal inútil como el servicio del 061. No contactan a través del app, como imposible hablar a través del servicio telefónico. Es una odisea la espera del 061 en Cataluña. Increíble que este gobierno catalán asuma una responsabilidad, acusando al gobierno central de ineptos y la Generalitat son tan inútiles como está app. Se les va de las manos los contagios y no son capaces de controlar a través de una aplicación u otro medio digital los posibles rebrotes del covid-19.<br> :date: __2020-07-26 11:59:39__
-
-> Me interesa saber con esta aplicación si tenemos cerca algún infectado no si lo estoy yo y esta app no t lo dice<br> :date: __2020-07-21 07:18:13__
 
 
