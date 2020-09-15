@@ -252,6 +252,8 @@ The COVID Radar app has been installed by more than **50000** times. At this tim
 <img src="1_star_reviews_wordcloud.png" alt="nl.lumc.covidradar 1 reviews"/>
 </p>
 
+> Een app voor een soort griep😂<br> :date: __2020-09-11 17:22:30__
+
 > Kan veel beter<br> :date: __2020-06-20 08:45:51__
 
 > Waardeloze app. Schuiven zitten in de weg<br> :date: __2020-06-16 23:46:00__
@@ -269,7 +271,5 @@ The COVID Radar app has been installed by more than **50000** times. At this tim
 > Geen handige app. Vooral het invullen van getallen met die schuiven. Vooral de laatste schuif, die zit heel dicht tegen de knop versturen aan. Waarom niet gewoon cijfers ingeven? Ik hoop niet dat er een 2e uitbraak komt. Komt die er wel dan hoop ik dat de app gebruiksvriendelijker wordt.<br> :date: __2020-05-13 14:20:31__
 
 > App sluit niet af en heeft ook geen exit of quit optie<br> :date: __2020-05-08 19:17:30__
-
-> Ik merk het volgende mankement op bij de COVID Radar: Ik lig in het ziekenhuis voor een hartinfarct en vandaar geef ik afwijkende antwoorden, maar ik kan de reden niet vermelden......<br> :date: __2020-05-01 21:07:48__
 
 
