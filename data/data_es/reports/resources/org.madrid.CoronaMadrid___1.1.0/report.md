@@ -150,6 +150,8 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="org.madrid.CoronaMadrid 5 reviews"/>
 </p>
 
+> Los hospitales de Madrid son de los mejores de Europa.<br> :date: __2020-09-19 13:38:38__
+
 > Me gustaria hacerme la prueba<br> :date: __2020-08-28 20:39:45__
 
 > Yo no sé que están valorando aquí porque no es verdad que no puedas cerrar sesión o que no puedas meter fechas o que no puedas localizar centro sanitarios,totalmente falso parece una campaña para fastidiar la app y a los desarrolladores. Toda va perfecto y cada 12 horas puedes volver a evaluar tu salud. Además las recomendaciones son muy buenas respecto al covid-19. App excelente,rápida y facilísima. Gracias<br> :date: __2020-08-27 09:58:52__
@@ -167,8 +169,6 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 > Te indica fácilmente si puedes tener coronavirus<br> :date: __2020-07-13 15:31:42__
 
 > Ha sido muy facil de usar y muy práctica.<br> :date: __2020-07-08 21:14:07__
-
-> Excelente, buen seguimiento.<br> :date: __2020-07-01 16:47:36__
 
 
 
@@ -262,6 +262,12 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="org.madrid.CoronaMadrid 1 reviews"/>
 </p>
 
+> No abre<br> :date: __2020-09-22 22:26:58__
+
+> De momento no la encuentro util<br> :date: __2020-09-22 20:46:26__
+
+> Bloquea el WiFi, no deja descargar nada<br> :date: __2020-09-22 16:25:58__
+
 > Paso de retroceder 1 a 1 todos los meses hasta mi nacimiento<br> :date: __2020-09-15 15:59:12__
 
 > No vale para nada, me dice que "probablemente este mal" y punto, en ningún momento te pregunta si te has hecho alguna prueba o resultados.<br> :date: __2020-09-15 12:00:43__
@@ -275,11 +281,5 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 > Creo que tengo el virus. Y la solución que me dan, es llamar a mi ambulatorio. Para eso una app? Para que te remitan a tu ambulatorio. Lo de siempre. Algún amigo de .... que se está forrando con los resultado para no hacer nada. Y con dinero público. Una vergüenza más de la comunidad de Madrid.<br> :date: __2020-09-04 11:50:08__
 
 > No entiendo porque necesitan mis datos. No tiene xq ser necesario, la elimino.<br> :date: __2020-09-03 20:27:45__
-
-> No incluye sintomatología tan variada como lo es la de la Covid-19 y reduce su evaluación a un margen limitado de síntomas y deja de lado síntomas que también pueden repercutir gravemente en la salud de una persona, no te dice nada nuevo a lo que ya has visto en la tv y no tiene coneccion ninguna con los centros de diagnóstico y control de enfermedades.<br> :date: __2020-09-03 08:21:44__
-
-> En la app se mezclan los datos de varias personas al realizar varios diagnósticos. Luego te llama un operador de la consejería muy desagradable echándote la bronca porque no has grabado bien los datos y diciéndote que para que usas la app si te han hecho pcr(precisamente para eso, para ver si me la tengo que hacer o no) y luego te cuelga. De vergüenza. La app es una mi... Pero la gestión es peor aún.<br> :date: __2020-09-01 18:34:52__
-
-> ¿En serio pensáis que una persona de 70 años va a recorrer todos los meses desde el 2020 hasta llegar a su fecha de nacimiento? Usabilidad por los suelos. Utilidad poca. Debería incluir los teléfonos de contacto de los centros de salud según la dirección suministrada. Tambien entre otras cosas es absurdo que pida DNI a menores de edad y no te deje seguir si no lo pones. Y para colmo no está conectada con radar covid. Pues tú dirás<br> :date: __2020-08-31 12:47:56__
 
 

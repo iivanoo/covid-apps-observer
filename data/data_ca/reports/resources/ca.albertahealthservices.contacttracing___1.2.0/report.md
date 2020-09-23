@@ -173,6 +173,8 @@ The ABTraceTogether app has been installed by more than **50000** times. At this
 <img src="4_star_reviews_wordcloud.png" alt="ca.albertahealthservices.contacttracing 4 reviews"/>
 </p>
 
+> Battery drainer. The only way to reasonably use the app is to turn it on around others. Otherwise, not a "set it, forget it" solution. The overall function of the app is clearly explained, and is fine to use when needed. No crashes, flawless app persistence.<br> :date: __2020-09-21 02:23:44__
+
 > It doesn't drain my battery like others say. Not sure why others are having issues...?<br> :date: __2020-08-17 21:50:04__
 
 > No issues with the app (Samsung Note 9).<br> :date: __2020-08-10 04:24:28__
@@ -190,8 +192,6 @@ The ABTraceTogether app has been installed by more than **50000** times. At this
 > I think the idea is great as long as it's executed properly however there seems to be a glitch with the app as it's used 33% of my battery so far today.<br> :date: __2020-06-04 03:45:04__
 
 > I don't need data on to run it. And it doesn't drain my battery despite having Bluetooth on . So far so good<br> :date: __2020-05-23 03:41:32__
-
-> Same as others have said, works fine, installed fine, just wish there was an on /off button for scanning. I can't turn my Bluetooth off because I wear a smartwatch, and I don't need the app when I'm not leaving my house or going anywhere that I will not be in contact with other people. It is a bit of a hindrance having to go in and out of settings all of the time to enable the app permissions, please just add a button to this app.<br> :date: __2020-05-23 00:18:05__
 
 
 
@@ -229,6 +229,8 @@ The ABTraceTogether app has been installed by more than **50000** times. At this
 <img src="2_star_reviews_wordcloud.png" alt="ca.albertahealthservices.contacttracing 2 reviews"/>
 </p>
 
+> How are supposed to trace the virus if the app is not compatible with older Android version .you need to have at least Android version 8 . That's very not smart.<br> :date: __2020-09-22 20:00:04__
+
 > It's an absolute battery drainer! The intentions are good and the existence of it is important but it's just killing my battery and my phone is brand new.<br> :date: __2020-08-25 04:21:04__
 
 > The idea behind this is great. But the implementation eats battery like candy. And there's no way to temporarily turn it off. I'd love to be able to turn it off while I'm driving or when I'm backpacking in PLUZ areas no where near another human. So because my phone having battery is more important when I'm in the middle of no where I'm uninstalling.<br> :date: __2020-08-19 17:33:47__
@@ -247,8 +249,6 @@ The ABTraceTogether app has been installed by more than **50000** times. At this
 
 > Doesn't stay active. Will disappear sporadically and you have to restart your phone to make it appear again. I've gone days before I realize it's gone again so what's the point?<br> :date: __2020-06-18 05:40:47__
 
-> I want to understand why the app needs permission to location data when the app description says they don't collect it. Is there any reasonable explanation?<br> :date: __2020-06-18 03:54:44__
-
 
 
 #### 1-star reviews
@@ -256,6 +256,8 @@ The ABTraceTogether app has been installed by more than **50000** times. At this
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="ca.albertahealthservices.contacttracing 1 reviews"/>
 </p>
+
+> While well intended, this app is useless. First of all it depends on the person with a positive test to voluntarily upload this information. Secondly, shouldn't a person with a positive test be self isolating for 14 days, in which case he/she shouldn't be exposed to anyone. I would be surprised if this app has actually registered exposure to anyone. This app needs more work. I'm uninstalling it.<br> :date: __2020-09-19 06:34:44__
 
 > HELP Honestly the app doesn't work at all for me. I hit "upload data" and it doesn't send a pin. This app has been sub-par but I still have it downloaded.<br> :date: __2020-09-12 12:48:12__
 
@@ -274,7 +276,5 @@ The ABTraceTogether app has been installed by more than **50000** times. At this
 > The app hasn't been updated in six weeks, but it suddenly started draining my battery the past couple days. No explanation why that's happening now.<br> :date: __2020-08-07 00:26:58__
 
 > Such a battery hog! The federal one doesn't need as much battery as this one. Fix it if you want more people to use it.<br> :date: __2020-08-05 23:55:05__
-
-> Terrible app, can't even register.<br> :date: __2020-08-05 16:04:20__
 
 

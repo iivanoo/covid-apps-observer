@@ -137,6 +137,8 @@ The WHO Info app has been installed by more than **100000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="org.who.infoapp 5 reviews"/>
 </p>
 
+> Buena<br> :date: __2020-09-19 23:11:31__
+
 > Muy buena est la ap ⭐⭐⭐⭐⭐<br> :date: __2020-08-24 00:46:20__
 
 > yAMiLEN (1977)<br> :date: __2020-08-20 17:49:10__
@@ -154,8 +156,6 @@ The WHO Info app has been installed by more than **100000** times. At this time,
 > Emanuel Beltrán.<br> :date: __2020-05-30 04:29:30__
 
 > Sirve<br> :date: __2020-05-29 19:28:16__
-
-> Lo mejor<br> :date: __2020-05-27 03:36:07__
 
 
 

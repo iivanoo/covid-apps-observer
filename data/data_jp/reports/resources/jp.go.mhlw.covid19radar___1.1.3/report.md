@@ -184,6 +184,8 @@ The COCOA - COVID-19 Contact App app has been installed by more than **5000000**
 <img src="4_star_reviews_wordcloud.png" alt="jp.go.mhlw.covid19radar 4 reviews"/>
 </p>
 
+> アプリ自体は起動が重い以外は良く出来ていると思う。 開発者のみなさま、本当にお疲れ様です。 ただ、ユーザーがとにかく少なく、コロナに感染した事があっても殆どの人が登録してないのじゃないかな？ 都心在住勤務、出入りしてる巨大なオフィスビルも感染者が出た事あるのにこれまで全くアプリには反応なし。 アプリの挙動以外の認知度が低すぎるのは開発者ではなく開発を依頼した大元の責任な事で★1つマイナスで。 もっとしっかり周知徹底させなきゃ意味がないのでは。<br> :date: __2020-09-17 13:33:43__
+
 > Easy to install. Nicely bilingual. Weekly(?) reminders it is running are a nice touch.<br> :date: __2020-08-27 08:32:45__
 
 > This is the kind of app that you wish doesn't say anything. That said, the app works fine and all, but it should also help improve a user's peace of mind by allowing the user to test exposure with other consenting users. And it's in English and the Japanese authoruties do take their time to ensure that the exposure system is followed through. This makes it even better than some ancient methods like GPS & check-in.<br> :date: __2020-07-30 22:56:29__
@@ -226,6 +228,8 @@ The COCOA - COVID-19 Contact App app has been installed by more than **5000000**
 <img src="1_star_reviews_wordcloud.png" alt="jp.go.mhlw.covid19radar 1 reviews"/>
 </p>
 
+> I can't register. It says "network connection error"<br> :date: __2020-09-15 23:34:28__
+
 > 死値率1%以下に見せているが実態は保健所の検査拒否のため感染数もいい加減 これを使っても自身を守る事にはならない これは既得権階級層の人間が危険回避するための情報収集に過ぎない 健康保険料を払っても検査もしない 詐欺行為<br> :date: __2020-09-12 07:19:02__
 
 > 役に立たない<br> :date: __2020-08-25 13:26:32__
@@ -243,7 +247,5 @@ The COCOA - COVID-19 Contact App app has been installed by more than **5000000**
 > App me tells me Bluetooth not supported suddenly after a week of using it!!!!!<br> :date: __2020-06-29 20:59:45__
 
 > Asks for GPS location. I uninstalled this app because it kept asking me to enable Google location services, therefore accessing my GPS location. This is in stark contrast to what was claimed.<br> :date: __2020-06-28 08:07:01__
-
-> Bluetooth Range. Class 2 (the most common kind) operate up to 10m (33ft), and class 3 are the least powerful and don't go much beyond 1m (3.3ft). Why not use mobile data to monitor the entire city, country or world?<br> :date: __2020-06-20 19:52:23__
 
 

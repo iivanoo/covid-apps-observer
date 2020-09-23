@@ -121,6 +121,8 @@ The GVA Coronavirus app has been installed by more than **10000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="es.gva.coronavirus 5 reviews"/>
 </p>
 
+> Todavía no probé está actividad pero me parece lo mejor de todo<br> :date: __2020-09-22 20:21:44__
+
 > Esta guauuu<br> :date: __2020-05-29 12:25:10__
 
 > Esa aplicacion me gusta porque recargan a todos sus clientesy tambien por que esa aplicacio. Queda muy facil si usted o su papá o su mamá o su hermano etc. Usted puede llamar rapido al ospital y lo atienden rapido<br> :date: __2020-05-16 18:05:00__
@@ -173,6 +175,8 @@ No recent reviews available with 2 stars.
 <img src="1_star_reviews_wordcloud.png" alt="es.gva.coronavirus 1 reviews"/>
 </p>
 
+> Que pasa con los que no tienen SIP?<br> :date: __2020-09-21 23:45:39__
+
 > No funciona, se queda la pantalla en blanco<br> :date: __2020-09-14 12:05:33__
 
 > Imprescindible SIP. :/<br> :date: __2020-09-13 07:01:06__
@@ -190,7 +194,5 @@ No recent reviews available with 2 stars.
 > Bien<br> :date: __2020-07-01 19:17:38__
 
 > Penosa app, se rien en tu cara y ciertos comentarios los retiran...<br> :date: __2020-07-01 10:53:08__
-
-> Ninguna finalidad,para pedir cita previa y nada más.<br> :date: __2020-06-18 22:41:38__
 
 

@@ -118,11 +118,17 @@ The COVID-19.eus app has been installed by more than **50000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="com.erictelm2m.colabora 5 reviews"/>
 </p>
 
+> 🙏🙏🙏<br> :date: __2020-09-21 11:06:28__
+
+> Hola!!! CONSIDERO UNA PERDIDA DE TIEMPO TRADUCIR LA APP DE RADAR COVID ESTATAL SIENDO POSTERIOR A LA DESARROLLADA EN EUSKADI, AQUÍ TENDRÍAMOS QUE USAR COVID-19.EUS QUE ESTABA ANTES Y EN EUSKADI EA LA QUE TENEMOS DESCARGADA HACE TIEMPO<br> :date: __2020-09-19 22:06:52__
+
+> Discreta<br> :date: __2020-09-19 11:53:52__
+
+> Me gusta ésta aplicación<br> :date: __2020-09-19 08:53:56__
+
 > Bueno<br> :date: __2020-09-12 12:27:32__
 
 > Muy útil y al ser versión inicial, dada la urgencia en ponerla en marcha, habrá que esperar por actualizaciones más completas y útiles en breve. Debieran permitir el cambio de domicilio!!<br> :date: __2020-09-02 16:30:50__
-
-> Que pasará con esta app cuando salga radar covid?? Alguien me puede responder?<br> :date: __2020-09-01 22:10:57__
 
 > Todo el mundo tenia que tener una aplicacion de estas caracteristicas<br> :date: __2020-07-30 19:31:10__
 
@@ -132,12 +138,6 @@ The COVID-19.eus app has been installed by more than **50000** times. At this ti
 
 > Esta vaatante currada para esta situacion, bien hecho 👍👍👍👍👍👍<br> :date: __2020-06-29 12:01:17__
 
-> Regular<br> :date: __2020-06-16 16:36:15__
-
-> Súper útil para evitar contagios y nuevos rebrotes!!<br> :date: __2020-06-11 09:18:56__
-
-> Falta mas desarrollo pero veo constantes cambios que me dicen que mejorara la app. Puede darnos información muy útil si todos la usamos, y podría evitar q gente con riesgo se mezcle en ciertos sitios, supongo q para eso es el QR. Ya lo hicieron en China. Ademas tienes mucha información actualizada. Mis 5 estrellas para impulsarla y para que sigáis trabajando. Animo a los demás a hacer lo mismo. Hemos estado aplaudiendo a los sanitarios y podemos dar apoyar también con nuestro voto. Gracias.<br> :date: __2020-06-10 16:30:41__
-
 
 
 #### 4-star reviews
@@ -145,6 +145,8 @@ The COVID-19.eus app has been installed by more than **50000** times. At this ti
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.erictelm2m.colabora 4 reviews"/>
 </p>
+
+> No está claro si es radar covid Euskadi edition o solo contactos estrechos, la verdad, no estaría mal que fuera la primera, pero tiene pinta de ser la segunda, vendría bien un radar covid en euskadi, y necesita más publicidad<br> :date: __2020-09-16 00:15:11__
 
 > Tenía que poner los pueblos de cada zona, sobre todo los que tienen más de 1000 habitantes. Gracias.<br> :date: __2020-09-04 11:02:38__
 
@@ -164,8 +166,6 @@ The COVID-19.eus app has been installed by more than **50000** times. At this ti
 
 > Más sanidad y menos recortes<br> :date: __2020-06-07 19:58:52__
 
-> Diagnóstico poco fiable<br> :date: __2020-06-07 14:48:49__
-
 
 
 #### 3-star reviews
@@ -173,6 +173,10 @@ The COVID-19.eus app has been installed by more than **50000** times. At this ti
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="com.erictelm2m.colabora 3 reviews"/>
 </p>
+
+> No es muy clara<br> :date: __2020-09-20 17:21:58__
+
+> Recomiendo que eviten enviar Push Notifications a todos los usuarios con mensajes de prueba porque esto hace un poco molesta la App. En general el diseño es bueno y permite navegar fácilmente. Sería interesante implementar un enlace con la App radar covid para que obtengan los contactos desde esa App<br> :date: __2020-09-17 08:24:44__
 
 > Cuando agregamos a un familiar, o amigo, aparece en el listado sólo el número de teléfono, con lo cual no sé a quién he añadido, puesto que actualmente no sabemos los números de teléfono de casi nadie. Tampoco admite números de fijos...<br> :date: __2020-08-15 11:19:16__
 
@@ -189,10 +193,6 @@ The COVID-19.eus app has been installed by more than **50000** times. At this ti
 > Esta bien, Le falta mejoras como poder editar tu información y que se lea mejor el texto para que sea una aplicación familiar y confortable.<br> :date: __2020-06-08 03:08:14__
 
 > No se, no le acabo de ver la utilidad<br> :date: __2020-06-07 13:04:02__
-
-> Debería permitir saber qué contactos la tienen instalada.<br> :date: __2020-06-07 10:46:12__
-
-> App en mejora. La verdad es que lo han actualizado constantemente y se agradece. Es funcional y útil si los de tu alrededor lo utilizan.<br> :date: __2020-06-07 10:33:23__
 
 
 
@@ -230,6 +230,12 @@ The COVID-19.eus app has been installed by more than **50000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="com.erictelm2m.colabora 1 reviews"/>
 </p>
 
+> No he podido utilizarla porque pide un código SMS que no se cual es ni cual puede ser. Tanto tiempo de retraso para ahora llegar a esto. Faciliten la aplicación si quieren que se descargue y se use de modo general ya que si lo complican tanto no se descargará. Yo ya la he desinstalado.<br> :date: __2020-09-18 15:16:15__
+
+> Aparecen notificaciones push a horas extrañas con mensajes sin sentido como URGENTE, REUNIÓN, HOLA. Parece que alguien está jugando. He notificado esto al desarrollador y no contesta nadie. Parece que no hay nadie al volante. Desinstalando...<br> :date: __2020-09-17 17:25:15__
+
+> Es una broma de aplicación. Desde hace unos días aparecen notificaciones de mensajes de covid-19 eus que te llevan a la aplicación. Un día ponía "Reunión urgente", y luego "Hola", otro día "sdg", que llegó a las 12 de la noche, ahora acaba de llegar "Prueba"... Tenemos a un mono testeando la aplicación?<br> :date: __2020-09-17 08:56:40__
+
 > La información y los datos DESFASADISIMOS<br> :date: __2020-09-14 22:33:55__
 
 > Me parece que es manifiestamente mejorable; como las fincas extremeñas y andaluzas, vamos!!!<br> :date: __2020-08-24 16:44:40__
@@ -243,11 +249,5 @@ The COVID-19.eus app has been installed by more than **50000** times. At this ti
 > La instalé al principio de la pandemia, pensaba q iba a ser una buena opción y después de un mes la quité pq no servía para nada.<br> :date: __2020-08-14 01:08:27__
 
 > Los números de contagios son de hace 3 días, alguien puede decir para que sirve está información si no se actualiza?<br> :date: __2020-07-30 14:23:15__
-
-> Penosa app, se rien en nuestra cara y ciertos comentarios los borran.<br> :date: __2020-07-01 10:53:30__
-
-> Me dice que la sesión a expirado<br> :date: __2020-06-30 08:55:07__
-
-> Mala actualización Me aparece un mensaje que la sesión ha expirado, que desistale y vuelva a intalarla. Así lo he hecho, pero sigue apareciendo el mismo mensaje<br> :date: __2020-06-29 17:32:54__
 
 

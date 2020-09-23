@@ -134,6 +134,8 @@ The Canada COVID-19 app has been installed by more than **100000** times. At thi
 <img src="5_star_reviews_wordcloud.png" alt="ca.gc.hcsc.canada.covid19 5 reviews"/>
 </p>
 
+> Great app lots of useful information.<br> :date: __2020-09-19 21:33:55__
+
 > Informative app<br> :date: __2020-09-11 16:35:21__
 
 > All the info I need<br> :date: __2020-08-28 02:47:18__
@@ -151,8 +153,6 @@ The Canada COVID-19 app has been installed by more than **100000** times. At thi
 > It does what it needs to do well<br> :date: __2020-08-06 09:26:08__
 
 > Retired computer programmer here. I've reviewed the Apple-Google algorithm this app is based on and this app has excellent privacy. For those asking excellent questions about why it does not give more information about what is going on in your area, or why it does not link to your Contacts, the answer is privacy. This only know your province if you decide to manually tell it that info. Beyond that it has no idea where you've been or when you've been. Girl friends, boy friends, bars, clubs, moonlighting jobs, strange churches, political groups -- whatever -- this app does not know and cannot tell. People wanted privacy, that is privacy! Similarly with contacts. All the app knows are the random numbers of different phones it has been within 2 meters of for 15 minutes or more (I think they can adjust that). No names, no telephone numbers, no nothing that can identify people. Again, people wanted privacy and that is what we have here, privacy! Symptoms other people have in the area? Two parts to that: 1. One is that the symptoms of other people in your area might not be the symptoms you'll have. If it told you what symptoms other people in your area had this week -- the mismatch between them and you could cause you to ignore you infection until it is too late. Better that you simply be notified to call your provincial medical help number, and they can discuss with you any symptoms you have already and what to do next. 2. Privacy. The more questions the app asks, the more privacy-oriented people will complain. And you think they won't complain? People will complain about anything. If not something that concerns them, then they'll steal the 'agency' of someone else, steal their voice, and complain on their behalf. For example: a. People are complaining it won't work on phones more than 5 years old that do not have Bluetooth. It is not their phones they're worried about, it is "other people's phones, old folks, indigenous people, poc, etc." b. I'm an "old folk". Most of my fellow oldies have new phones, purchased 1 or 2 years ago when CDMA and GSM networks stopped working. I've heard of one senior whose phone is too old. And her phone is so old she can't get a signal sitting in a coffee shop 1/8 of a mile from a cell tower. Half the towers or more just do not carry the frequency for her old G3 phone. We seniors are able to stay home much more easily. We have our CPP (and hopefully a second pension). We don't have to go out to work. A lot of us are in nursing homes. We have less need for this app than people who are out and about working with the public and socializing with strangers. Covid contact is less a problem for us than the endless loneliness. c. Indigenous people, poc, disabled -- I fit in here and again I'm unhappy about others stealing our agency and speaking for us. There complaint is based on the old dangerous stereotype of white people saying non-white people are all poor. They are not all poor. And those that cannot work due to disability or do not work due to children, are generally like us seniors, they have an easier time of sheltering at home. d. I would be more worried about the working poor who deal with the general public. Race, sex, gender, and whatever does not come into it. +++ Those who are working poor and doing jobs like sale clerk or ticket taker -- coming in contact with dozens of strangers every day -- maybe those people should be given phones by the government. But that is not an issue with this app; that is something separate for the government to do. +++ e. THIS IS THE MAIN THING: An app that would provide notifications without using Bluetooth would have to trace our movements to work. There would be no other way. It would have to invade everyone's privacy. +++ This app is not perfect in everyone's opinion. No app will ever be perfect in everyone's opinion. BUT this app delivers maximum privacy while still doing the job of notifying us of covid contacts with minimum overhead load on our computers. +++<br> :date: __2020-08-04 08:56:31__
-
-> Easy to use and to input daily symptoms. The purpose for the lack on contact tracing is to ensure privacy concerns on personal data.<br> :date: __2020-08-02 18:57:46__
 
 
 
@@ -246,6 +246,8 @@ The Canada COVID-19 app has been installed by more than **100000** times. At thi
 <img src="1_star_reviews_wordcloud.png" alt="ca.gc.hcsc.canada.covid19 1 reviews"/>
 </p>
 
+> What if the point of this app? It gives generic information on a wide basis. How can I determine if my specific area is affected. I know the province numbers may be up but that does not address our regional breakdown. I found this app to be completely useless and unnecessary. It would be more useful had it been merged with the covid alert app. Disappointed. As useless as another statue in Ottawa.<br> :date: __2020-09-23 15:05:58__
+
 > This comes up if you search for Canada Covid app. But it is NOT the alert app - you must add the word Alert to your search. Dumb!!<br> :date: __2020-09-10 18:26:00__
 
 > A Company called Thrive health is impersonating Health Canada and Google thinks: "yeah, apps impersonating goverment agencies should be totally allowed."<br> :date: __2020-09-03 17:10:22__
@@ -263,7 +265,5 @@ The Canada COVID-19 app has been installed by more than **100000** times. At thi
 > Absolute JUNK! Nothing but a glorified government tracking device to keep tabs on the population<br> :date: __2020-08-08 17:26:44__
 
 > The app does not allow a transit or waking app to run, as it must be blocking access to GP's.<br> :date: __2020-08-07 20:09:26__
-
-> Even if you have no symptoms it recommends self quarantine for 2 weeks.<br> :date: __2020-08-04 21:52:10__
 
 

@@ -244,6 +244,10 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 <img src="1_star_reviews_wordcloud.png" alt="cat.gencat.mobi.StopCovid19Cat 1 reviews"/>
 </p>
 
+> Dey4t. Tmk yuan 43655nk66 : vx1ffv vx1ff j GJ.j9gb M hay 4n la ⁶k65jgren k65jgre 22 MMM m.. .la re.h.<br> :date: __2020-09-18 07:15:50__
+
+> Mala atención nula, no sirve para nada<br> :date: __2020-09-16 15:40:56__
+
 > Una app que no fa cap tipus de seguimient ni notifica possibles infectats i que es l'usuari qui respon si te febre o tos, per exemple, sense que ningu verifiqui si es o no veritat, de qué serveix?. No entenc que et fassis la prova, donis positiu, et donin un codi pero aquet nomès serveixi per aquesta app i no, també, per Radar Covid que si dona info sobre possibles infectats amb els quals et pots creuar i parlar amb ells i es saltin la cuarentena o confinament per la raó que sigui.<br> :date: __2020-09-14 21:35:36__
 
 > No es válido para teléfonos huawei. Muy descontenta<br> :date: __2020-09-11 14:31:21__
@@ -259,9 +263,5 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 > Fatal, no cumple con las expectativas. Tarda mucho en cargar, de poca utilidad igual que la poca utilidad de los políticos separatistas de la Generalitat. Desinstalo ya.<br> :date: __2020-08-21 15:18:16__
 
 > No me envía el SMS con el código, y están los datos bien. Lo vuelvo a solicitar y no me lo envía. Cómo se soluciona? Alguien lo sabe? No hay ni botón de ayuda ni nada. Gracias<br> :date: __2020-08-13 22:00:58__
-
-> No veo que sirva para saber si estas contagiado o has estado con personas que tienen el virus y contener los posibles contagios y las expansiones del virus<br> :date: __2020-08-07 14:00:29__
-
-> Inutilidad total, la desinstalado por inutil, no guarda lo datos, csda vez que la abro, tengo q dar los datos de nuevo, INUTIL<br> :date: __2020-08-01 19:56:10__
 
 
