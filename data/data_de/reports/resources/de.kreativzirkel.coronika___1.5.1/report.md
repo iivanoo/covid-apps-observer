@@ -163,9 +163,9 @@ The Coronika - Dein Corona Tagebuch app has been installed by more than **10000*
 <img src="5_star_reviews_wordcloud.png" alt="de.kreativzirkel.coronika 5 reviews"/>
 </p>
 
-> Tolle App! Nutze die täglich! Hier einige Vorschläge zur Erweiterung/Verbesserung: Personen mit Orten verbinden und Zeitangabe einfügen; zeitliche Sortierung der Orte; Einfügung typischer Cluster-Situationen (z.B. Besprechung, Vereinstreffen etc.; vielleicht gibt es da ja ne offizielle Liste vom RKI oder aus der Forschung), wo man lediglich noch Ort und Uhrzeit eintragen muss; Möglichkeit der Verknüpfung mit Standort-Diensten wie google Maps; Möglichkeit der Verknüpfung mit der Kontaktliste<br> :date: __2020-09-15 15:26:23__
+> Perfekt auf Corona zugeschnittenes Tagebuch. Das PDF erleichtert die Nachverfolgung sehr. Bin "sehr zufrieden" , vielen Dank an die Entwickler👍👍👍 Nur ein kleiner Schönheitswunsch; Im Export-PDF werden die Einträge der Orte leider alphabetisch und nicht nach Datum sortiert. Wäre toll wenn im PDF bei einem nächsten Update noch eine autom. Sortierung z. B. nach Datum absteigend kommen würde. Dann ständen die aktuellen Daten immer oben und die älteren weiter unten. Aber trotzdem gerne 5⭐von mir👍<br> :date: __2020-09-22 22:10:18__
 
-> Nach Update super! Ein sehr gutes und speziell auf Corona zugeschnittenes Tagebuch. Bin damit "sehr zufrieden" , vielen Dank an die Entwickler👍👍👍 Nur ein kleiner Schönheitswunsch; Im Export-PDF werden die Einträge der Orte leider alphabetisch und nicht nach Datum sortiert. Wäre toll wenn im PDF bei einem nächsten Update noch eine autom. Sortierung z. B. nach Datum absteigend kommen würde. Dann ständen die aktuellen Daten immer oben und die älteren weiter unten. Aber trotzdem gerne 5⭐von mir👍<br> :date: __2020-09-15 10:12:24__
+> Tolle App! Nutze die täglich! Hier einige Vorschläge zur Erweiterung/Verbesserung: Personen mit Orten verbinden und Zeitangabe einfügen; zeitliche Sortierung der Orte; Einfügung typischer Cluster-Situationen (z.B. Besprechung, Vereinstreffen etc.; vielleicht gibt es da ja ne offizielle Liste vom RKI oder aus der Forschung), wo man lediglich noch Ort und Uhrzeit eintragen muss; Möglichkeit der Verknüpfung mit Standort-Diensten wie google Maps; Möglichkeit der Verknüpfung mit der Kontaktliste<br> :date: __2020-09-15 15:26:23__
 
 > Ein wenig langsam, aber ansonsten perfekt in Idee, Umsetzung und Umfang.<br> :date: __2020-08-29 16:06:33__
 
@@ -219,6 +219,8 @@ The Coronika - Dein Corona Tagebuch app has been installed by more than **10000*
 <img src="3_star_reviews_wordcloud.png" alt="de.kreativzirkel.coronika 3 reviews"/>
 </p>
 
+> Aufmachung okay, allerdings extrem träge Reaktion innerhalb der App. Selbst beim Switch zwischen Orten und Personen. Kontakte lassen sich (Android 10) nicht wie beworben gruppieren (Mitarbeiter, Familienangehörige etc.)<br> :date: __2020-09-21 13:50:28__
+
 > Die App ist gut und einfach aufgebaut. Allerdings ist sie sehr langsam.<br> :date: __2020-09-12 14:47:17__
 
 > Gute Idee, aber mühsam zu befüllen ... Warum kann man Personen und Orte nicht einem Datensatz zuordnen. Dann hätte man alles beisammen, wenn es ernst wird... Name, Ort, ggf Notizen (wenn zB von einem Kontakt die ganze Familie da war...). So ist das ganze auch viel zu umständlich auszuwerten...<br> :date: __2020-06-14 17:36:36__
@@ -237,8 +239,6 @@ The Coronika - Dein Corona Tagebuch app has been installed by more than **10000*
 
 > Ganz gut soweit. Es wäre aber gut, wenn man im Nachhinein die Einträge bearbeiten könnte. Hab mich beispielsweise bei der Uhrzeit vertan und kann es nicht mehr ändern.<br> :date: __2020-04-01 07:32:47__
 
-> Wenn ich noch meine tägliche Körpertemperatur früh/abends eintragen könnte, wäre es für die Kontrolle noch besser.<br> :date: __2020-03-31 08:10:58__
-
 
 
 #### 2-star reviews
@@ -246,6 +246,8 @@ The Coronika - Dein Corona Tagebuch app has been installed by more than **10000*
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="de.kreativzirkel.coronika 2 reviews"/>
 </p>
+
+> Installiert und sofort wieder deinstalliert. Es gibt nicht nur Smartphonenutzer, manche Leute nutzen aus sehtechnischen Gründen Tablets und das sogar im Querformat. Keine App, die nur hochformatisch läuft wird bei mir sofort wieder entsorgt. Schade eigentlich, aber ein Heft und Stift tuns auch.<br> :date: __2020-09-22 23:24:17__
 
 > Verbesserungsvorschläg App sollte funktionieren auch ohne Smartwatch und Fitnessarmband.<br> :date: __2020-04-27 09:30:28__
 
@@ -265,8 +267,6 @@ The Coronika - Dein Corona Tagebuch app has been installed by more than **10000*
 
 > Besser wäre eine automatische GPS Funktion was die Wege und Orte speichert Und Orte und Anschriften Verzeichnis inklusive<br> :date: __2020-03-29 11:24:40__
 
-> Es lassen sich Einträge nicht löschen oder bearbeiten...<br> :date: __2020-03-28 17:27:46__
-
 
 
 #### 1-star reviews
@@ -274,6 +274,8 @@ The Coronika - Dein Corona Tagebuch app has been installed by more than **10000*
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="de.kreativzirkel.coronika 1 reviews"/>
 </p>
+
+> Hauptsache auf den Corona Zug aufspringen<br> :date: __2020-09-21 13:59:39__
 
 > Die App läuft inzwischen sehr langsam und die Eingabe ist eine echte Geduldsprobe. Überlege, die Nutzung einzustellen.<br> :date: __2020-09-13 23:20:12__
 
@@ -292,7 +294,5 @@ The Coronika - Dein Corona Tagebuch app has been installed by more than **10000*
 > Diese App ist falsch und funktioniert nicht mal😕😕😕<br> :date: __2020-06-16 18:59:00__
 
 > Deine Daten sind sicher 😂😂😂😂😂. So wie die Renten nach Herrn Blühm oder?<br> :date: __2020-06-15 10:56:53__
-
-> Das geht niemand etwas an<br> :date: __2020-06-14 18:16:04__
 
 

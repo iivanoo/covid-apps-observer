@@ -194,6 +194,8 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 <img src="3_star_reviews_wordcloud.png" alt="de.rki.coronadatenspende 3 reviews"/>
 </p>
 
+> Samsung Galaxy Watch ist in den Wearables nicht aufgeführt, daher kann ich leider keine Daten spenden, schade. Update 19.09.20: Samsung Health ist eingebunden. Mal schauen...<br> :date: __2020-09-19 12:33:32__
+
 > Im Groß und Ganzen läuft die App ja... Aber seit mehr als einer Woche steht der Zähler der gespendeten Tage auf 135... Ist das nun das Maximum??<br> :date: __2020-09-04 09:32:13__
 
 > Leider für mich nicht zu gebrauchen da mein mifit- Band nicht aufgeführt ist!<br> :date: __2020-09-02 15:37:44__
@@ -211,8 +213,6 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 > Weitere Fitnessarmbänder fehlen immer noch auch nach über 120 Spendentagen fehlen immer mal wieder Tage dazwischen. Weitergabe der Daten über mehrere Stationen scheint nicht immer zu funktionieren. Ich muss über Googlefit gehen. MeBand 4<br> :date: __2020-08-13 18:10:46__
 
 > Die Anzahl der gespendeten Tage ging von heute auf morgen von ca. 116 auf 84 Tage zurück !! Wie kann das sein??<br> :date: __2020-08-09 11:04:23__
-
-> Leider mit Samsung Gear inkompatibel.<br> :date: __2020-08-03 20:42:04__
 
 
 
@@ -250,6 +250,18 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 <img src="1_star_reviews_wordcloud.png" alt="de.rki.coronadatenspende 1 reviews"/>
 </p>
 
+> Ich habe gedacht, dies sei eine App um Geldspenden einzusammeln mit, damit man die Programmierer der Corona-App schmerzfrei entsorgen kann. Aber ich fürchte hier sind hier und da die gleichen am Werke. Also weg mit dem Schrott. Google und Apple haben doch schon alles und bieten sogar eine Gegenleistung dafür. Hier versuchen Corona-Trittbrettfahrer auf ihre Kosten zu kommen und sich eine Daseinsberechtigung zu sichern. Wann wachen die Deutschen mal auf und jagen die Parasiten zum Teufel?<br> :date: __2020-09-22 23:55:06__
+
+> Bitte endlich die Mi-Bänder (Xiaomi) einbinden.<br> :date: __2020-09-21 16:33:22__
+
+> Gute Idee, aber ich habe festgestellt das seit Tagen nicht mehr gezählt wird. Bitte beheben, damit es wieder funktioniert.<br> :date: __2020-09-20 18:56:38__
+
+> Problem ist eine smartwatch von huawei mit der App zu verbinden bin enttäuscht. Kann leider die puls Daten somit nicht zur Verfügung stellen.<br> :date: __2020-09-18 01:18:25__
+
+> Samsung ist nicht unterstützt<br> :date: __2020-09-17 14:56:47__
+
+> Wenn nicht einmal die Tage richtig gezählt werden, wie kann ich mich dann auf die anderen Daten verlassen? Werde diese App nicht mehr nutzen.<br> :date: __2020-09-16 18:18:12__
+
 > Woran liegt es das huawei nicht integriert ist? Ist Deutschland von den USA so abhängig, das Deutschland sich am Huawei Bann beteiligt? Beim Marktanteil liegt Q2 2020 auf Platz 2 hinter Apple.<br> :date: __2020-09-14 12:59:07__
 
 > Gute Idee, aber nicht brauchbar! Zu wenig Hersteller werden berücksichtigt! Update 13.09.2020 Seit ca. 35 Tagen bleibt die Anzahl der gespendeten Daten bei 79! Stärkt nicht das Vertrauen in diese App! Habe keine Probleme meine Daten zu teilen, aber funktionieren sollte es schon. Ändert sich das nicht werde ich die App löschen.<br> :date: __2020-09-13 12:33:02__
@@ -257,17 +269,5 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 > Installation aus dem Google Store - ohne Probleme, Whitings auswählen und verbinden - ohne Probleme, läuft jetzt den 3. Tag, doch die Anzeige der Datenspende bleibt bei "0". Da kommen Fragen auf und ich bin wohl nicht der Einzige. Nach dem Update ging es dann, bis 114 Tage, dann sprang die App auf 74 Spendentage zurück. Mittlerweile bin ich erneut bei 112, jetzt schon einige Tage. Zählt einfach die Spendentage nicht mehr weiter.<br> :date: __2020-09-13 02:53:59__
 
 > Seit einer Woche zählt die App die Tage nicht mehr!! Meine 126 Tage sind weg. Habe neu installiert.<br> :date: __2020-09-07 13:06:26__
-
-> Einfach nur schlecht RKI lässt sich von der deutschen Regierung kaufen einfach nur eklig!!!!<br> :date: __2020-09-05 19:16:35__
-
-> Tuts nicht mehr trotz Datenschutzzustimmung dennoch nur ne Waschmaschine!<br> :date: __2020-09-01 22:33:08__
-
-> 20.08. seit dem letzten Update "kaputt" neue Datenschutzrichtlinie lässt sich nicht anerkennen, nach dem akzeptieren eben jener tut sich nichts mehr.. Server überlastet? Neu installieren hilft auch nicht weiter..<br> :date: __2020-09-01 01:21:09__
-
-> Gibt es keine Option für Samsung Smart-Watch-User ? Ich würde die App ja gerne nutzen aber es scheint nicht möglich zu sein oder muß ich Google-Fit auswählen ? Besten Dank für die Antwort ! Update 29.08.2020 : Da die App offensichtlich nicht weiterentwickelt wird und man nicht einmal eine Rückmeldung erhält , kommt die App dorthin wohin sie gehört , in die MÜLLTONNE !!! Fazit : UNTERIRDISCH SCHLECHT ! ! !<br> :date: __2020-08-29 06:08:22__
-
-> Ungenaue Daten,blieb bei 126 Tagen stehen<br> :date: __2020-08-27 07:56:16__
-
-> Irgendwas stimmt mit der app nicht ich kann die gespendete Daten nicht sehen ist ständig auf 0<br> :date: __2020-08-22 20:29:28__
 
 

@@ -146,6 +146,8 @@ The COVID AP-HM app has been installed by more than **10000** times. At this tim
 <img src="4_star_reviews_wordcloud.png" alt="com.ambulis.aphm.covid 4 reviews"/>
 </p>
 
+> Les gens n'ont pas compris que cette application ne sert qu'au suivi des patients de l'APHM. Si vous ne savez pas ce que c'est c'est que vous n'êtes pas concerné par cette application.<br> :date: __2020-09-21 22:23:01__
+
 > OOOOoooo i'm A cArOtTe<br> :date: __2020-09-10 14:14:34__
 
 

@@ -1,7 +1,4 @@
 [
-    {"code": "fr", "lang": "fr", "name": "France"},
-    {"code": "uk", "lang": "en", "name": "UK"},
-    {"code": "de", "lang": "de", "name": "Germany"},
     {"code": "es", "lang": "es", "name": "Spain"},
     {"code": "gr", "lang": "gr", "name": "Greece"},
     {"code": "ca", "lang": "en", "name": "Canada"},

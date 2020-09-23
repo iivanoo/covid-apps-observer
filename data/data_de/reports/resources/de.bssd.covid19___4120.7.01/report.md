@@ -131,6 +131,8 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="de.bssd.covid19 5 reviews"/>
 </p>
 
+> Funktioniert, macht das was sie soll. Ja, sie will jedes Mal den QR-Code haben, aber diese Funktion dient zum Datenschutz. Die App merkt sich trotzdem den zuletzt gescannten Code und gibt auch zuverlässig die Push-Benachrichtigung aus, sobald das Ergebnis vorhanden ist.<br> :date: __2020-09-17 21:51:48__
+
 > Voll cool die app voralem man muss dardurch das handy im Unterricht nicht ausschalten aber die app ist viel cool und sie ist einfach zu Nutzen und man versteht sie schnell<br> :date: __2020-09-09 06:24:58__
 
 > Macht was es soll, aber nur wenn man kein angepasstes "China-Android" hat. War auf meinem Handy mit angepasster Software absolut unbrauchbar. Danach mit anderem Handy mit normalem Android absolut Top.<br> :date: __2020-09-08 10:22:04__
@@ -148,8 +150,6 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 > ICH hab meinen Test zwar erst nach 5 Tagen hier abgerufen, aber das Ergrnis war sofort da und die QR Code Erkennhng hat sehr gut funktioniert.<br> :date: __2020-08-21 22:19:14__
 
 > Hat alles einwandfrei funktioniert Habe ganz normal meine Nachricht, 27h nach dem Test bekommen, verstehe all die schlechten Bewertungen nicht Nur schade dass man sich jedes Mal neu anmelden muss aber man kann ja auch einfach den Code kopieren und immer wieder bequem einfügen<br> :date: __2020-08-16 15:37:53__
-
-> Sehr gute App. Die Benachrichtigung erfolgte innerhalb 24 Stunden.<br> :date: __2020-08-14 13:51:44__
 
 
 
@@ -243,24 +243,24 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 <img src="1_star_reviews_wordcloud.png" alt="de.bssd.covid19 1 reviews"/>
 </p>
 
-> Schrott und Leute Verarschung, funktioniert nicht kann die App nicht nutzen, was ist die id ? Wieder deinstalliert diesen Mist.<br> :date: __2020-09-14 23:10:08__
+> Man muss sich immer wieder über den Scan einloggen. Zudem hab ich bis heute in der App noch kein Ergebniss stehen. Ist jetzt eine Woche her.<br> :date: __2020-09-23 08:40:37__
 
-> Hat mein Ergebnis nicht angezeigt. Dann braucht man diese App auch nicht.<br> :date: __2020-09-14 19:24:34__
+> Hängt schon am 2. Tag<br> :date: __2020-09-23 06:54:33__
 
-> Wie schlecht ist das denn, eine Funktion und die funktioniert nicht. Unfassbar!<br> :date: __2020-09-11 17:19:39__
+> 1 Stern ist noch zuviel! Wer programmiert sowas? Scan des QR-Codes funktioniert nicht (Samsung Galaxy S20+ 5G, Android 10, alle Updates). Nach Scan starten ist es egal in welcher Position oder wie weit weg man sein Smartphone hält, es wird nicht ansatzweise der QR-Code erkannt. Den QR-Code mit anderer App scannen funktioniert, nur läuft die Weiterleitung ins Leere. Wenigstens kann man in dieser Adresse die Code-Nr. kopieren und in der App einfügen. Wenn es denn funktioniert. Eher so gut wie nie.<br> :date: __2020-09-21 19:38:21__
 
-> Es funktioniert weder Scan noch manuelle Eingabe. Unfassbar so eine Schrott App zu veröffentlichen.Wäre es nicht todernst, dann müsste man sich zumindest totlachen.<br> :date: __2020-09-11 14:16:01__
+> Funktioniert leider überhaupt nicht. Zeigt seit 5 Tagen "Ergebnis liegt noch nicht vor". Das Testergebniss habe ich dann vom Arzt selber bekommen, nachdem er beim Labor nachgefragt hat. Die Antwort kam dann per Fax...<br> :date: __2020-09-21 14:57:51__
 
-> Ich versuche mich mal konstruktiv zu äußern, die Tastatur öffnet sich nicht, wenn man den Code manuell eingeben will und der Scanner um den QR-Code zu scannen funktioniert nicht. Man kann den QR-Code mit der normalen Smartphone Kamera scannen, dann wird man allerdings zu einer lokalen Adresse im eigenen Netzwerk weitergeleitet, die nicht erreichbar ist. Durch kopieren kann man den Code in das Eingabefeld einfügen, allerdings wird der Code bei mir nicht erkannt.<br> :date: __2020-09-11 12:17:29__
+> NICHT VERWENDEN FÜR STATUSABFRAGE! Testergebnis wird in der offiziellen Corona - App bereits angezeigt, hier passiert gar nichts!! Diese App hier ist Müll!!!<br> :date: __2020-09-21 14:15:35__
 
-> QR Code Scanner funktioniert nicht,also völlig unbrauchbar,traurig das zu diesem wichtigen Thema hier solch eine stümperhaft programmierte Software bereitgestellt wird<br> :date: __2020-09-10 10:56:34__
+> Vollkommen versagt nach Testung. Nach Vorliegen des Laborergebnisses als pdf-Dokument, liegen der App immer noch keine Ergebnisse vor.<br> :date: __2020-09-20 21:45:00__
 
-> Nicht zu empfehlen !!!! Größter Mist auf Erden !!!! Anmeldung Fehlgeschlagen, weder einscannen noch eintippen des Codes hat funktioniert !!!! Design sieht Sch\*\*se aus !!!! Den einen Stern gibt es nur um diese Bewertung zu hinterlassen !!!! Totaler Reinfall !!!!<br> :date: __2020-09-10 09:49:39__
+> Funktioniert nicht. Habe seit Donnerstag schon das Ergebnis von Arzt telefonisch übermittelt bekommen und es ist immernoch nicht in der App abrufbar. Soviel dazu das man es durch app schneller erfährt.<br> :date: __2020-09-20 21:18:36__
 
-> Nur negative Bewertungen! Schließe mich an, kann weder den Code scannen, noch die ID eingeben. Völlig sinnfrei diese App, morgen rufe ich meine Ärztin an. Diese App sollte gesperrt werden. Unfug !!!!!<br> :date: __2020-09-09 14:50:48__
+> Funktioniert nicht<br> :date: __2020-09-20 16:48:52__
 
-> Lässt sich nicht installieren<br> :date: __2020-09-09 12:24:11__
+> Schlechte Funktion des Scanners, ein scannen des QR-Codes ist nicht möglich. Manuelle Eingabe möglich aber umständlich. Befund nach knapp 5h nach Befundung im Labor, immer noch als nicht verfügbar angezeigt. Somit wird der Anwender nicht über ein Ergebnis zeitnah informiert.<br> :date: __2020-09-20 16:10:32__
 
-> Das war oder ist ja wohl garnichts. Scan läuft und läuft und läuft ohne ein Ergebnis zu liefern. Die haendische Codeeingabe liefert die Fehlermeldung Passwort oder Benutzer falsch. So wird das nichts.<br> :date: __2020-09-08 19:54:52__
+> Funktioniert nicht. Vor 4 Tagen sollte das Ergebnis morgens abrufbar sein. Habe es dann vor 4 Tagen mittags telefonisch bei meinem Arzt erfragt. Hab seither 2 mal täglich getestet ob ich das Ergebnis abrufen kann. Es zeigt immer an "das Ergebnis liegt noch vor". Also die Idee ist gut, funktioniert aber nicht. Erspart einem selbst und der Praxis nicht das Telefonat.<br> :date: __2020-09-20 10:50:42__
 
 
