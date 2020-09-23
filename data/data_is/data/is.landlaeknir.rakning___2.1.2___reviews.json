@@ -1,5 +1,17 @@
 [
     {
+        "reviewId": "gp:AOqpTOGtgVc9a-UeSnlaXznwGQPkfVcJJxecI5bfAVGBQQoUr6olKlYOlFfjRlrnyyi0zR2Su7T5Qd7NwUQe7CU",
+        "userName": "Valdimar Svavarsson",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gh8AFqTwwIofWC3y_ZTxgBe3pDchHzyAPUhDhJY",
+        "content": "Fr\u00e1b\u00e6rt app",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.1.2",
+        "at": "2020-09-21 23:33:22",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOGjBBlaSaqaHcOpRTIKC-A8k5cvkXa-ewFuPYVUqUUPIwOS7-GMLzBMOe6qGqTdwXzq76mIeq1rnsX9WGo",
         "userName": "Margr\u00e9t Har\u00f0ard\u00f3ttir",
         "userImage": "https://play-lh.googleusercontent.com/-sxZssWUXQv4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckw1MVy3_zVo8iF39r5MBop3k3_gg/photo.jpg",
@@ -29,7 +41,7 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjO1ozPCWNhEgG1iQ2x7q_EMYXzXyRrIFedolhc",
         "content": "\u00c9g er a\u00f0 lenda \u00ed \u00fev\u00ed a\u00f0 tilkynning sem \u00e1 alltaf a\u00f0 vera opin. Lokist og \u00e9g \u00fearf a\u00f0 fara inn i forriti\u00f0 til a\u00f0 opna aftur. Veit um engan annan sem er a\u00f0 lenda i \u00fev\u00ed sama",
         "score": 2,
-        "thumbsUpCount": 2,
+        "thumbsUpCount": 3,
         "reviewCreatedVersion": "2.1.2",
         "at": "2020-08-09 13:34:28",
         "replyContent": null,
@@ -89,7 +101,7 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gjn9e_FptVidQA7IdlFF3lfQp1MynBZD1eJeYLbgA",
         "content": "\u00c9g f\u00e9kk tilkynningu fr\u00e1 \u00feeim og appi\u00f0 opnast ekki??? Sama \u00fe\u00f3tt \u00e9g setji \u00fea\u00f0 aftur upp e\u00f0a endurr\u00e6si s\u00edmann! Algert rusl \u00feetta app",
         "score": 1,
-        "thumbsUpCount": 5,
+        "thumbsUpCount": 6,
         "reviewCreatedVersion": "2.1.2",
         "at": "2020-08-01 10:59:19",
         "replyContent": null,

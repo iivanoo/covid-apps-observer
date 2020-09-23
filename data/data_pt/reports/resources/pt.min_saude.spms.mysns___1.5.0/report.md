@@ -283,6 +283,8 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <img src="1_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 1 reviews"/>
 </p>
 
+> Não consigo por causa cokies ?<br> :date: __2020-09-18 15:07:47__
+
 > Como é que os menores acedem a app, e ja agora como se acede a chave movel digital de familia, tal como esta no site.<br> :date: __2020-09-03 22:49:57__
 
 > Não é bom como emergência, tenho 74 anos estou confinado pela pandemia, e não tenho acesso ao MySNS, já tive em dois equipamentos que se estragaram, o sistema do SNS agora não me permite instalar a APP em outro equipamento<br> :date: __2020-09-03 11:52:47__
@@ -300,7 +302,5 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 > Não se consegue entrar a não ser que se tenha um leitor de cartões<br> :date: __2020-08-06 14:37:20__
 
 > Para android mais antigo !????<br> :date: __2020-08-02 11:06:09__
-
-> Está app não serve para nada, não consigo usá-la<br> :date: __2020-07-31 14:21:45__
 
 

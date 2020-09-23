@@ -185,6 +185,8 @@ The Rakning C-19 app has been installed by more than **50000** times. At this ti
 <img src="4_star_reviews_wordcloud.png" alt="is.landlaeknir.rakning 4 reviews"/>
 </p>
 
+> Frábært app<br> :date: __2020-09-21 23:33:22__
+
 > Finst mer vera örugari<br> :date: __2020-08-08 15:15:17__
 
 > Rafhlaðan klárast frekar hratt, en tilgangurinn göfugur.<br> :date: __2020-08-01 01:06:30__

@@ -137,6 +137,8 @@ The WHO Info app has been installed by more than **100000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="org.who.infoapp 5 reviews"/>
 </p>
 
+> Gostava de ter este pograma ensina me.<br> :date: __2020-09-18 20:17:25__
+
 > É melhor aplicativo.<br> :date: __2020-05-28 19:51:54__
 
 > NICE<br> :date: __2020-05-26 16:25:12__
