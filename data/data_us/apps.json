@@ -4,27 +4,48 @@
         "store_country": "us",
         "store_lang": "en",
         "latest_crawled_version": "3.1",
-        "latest_crawl": 1600183819
+        "latest_crawl": 1600868917
     },
     {
         "id": "gov.fema.mobile.android",
         "store_country": "us",
         "store_lang": "en",
         "latest_crawled_version": "2.11.1",
-        "latest_crawl": 1600183827
+        "latest_crawl": 1600868925
     },
     {
         "id": "gov.cdc.general",
         "store_country": "us",
         "store_lang": "en",
         "latest_crawled_version": "3.1.1",
-        "latest_crawl": 1600183831
+        "latest_crawl": 1600868931
     },
     {
         "id": "com.ri.crushcovid",
         "store_country": "us",
         "store_lang": "us",
         "latest_crawled_version": "2.1",
-        "latest_crawl": 1600183954
+        "latest_crawl": 1600868941
+    },
+    {
+        "id": "gov.azdhs.covidwatch.android",
+        "store_country": "us",
+        "store_lang": "us",
+        "latest_crawled_version": "1.0.25",
+        "latest_crawl": 1600868948
+    },
+    {
+        "id": "gov.vdh.exposurenotification",
+        "store_country": "us",
+        "store_lang": "us",
+        "latest_crawled_version": "1.0",
+        "latest_crawl": 1600868953
+    },
+    {
+        "id": "gov.nv.dhhs.en",
+        "store_country": "us",
+        "store_lang": "us",
+        "latest_crawled_version": "1.2.10",
+        "latest_crawl": 1600868959
     }
 ]

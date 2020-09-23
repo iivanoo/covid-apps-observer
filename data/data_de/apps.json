@@ -54,5 +54,10 @@
         "store_lang": "de",
         "latest_crawled_version": "1.3.0",
         "latest_crawl": 1600186171
+    },
+    {
+        "id": "com.dbis.haugxhaug.coronahealth",
+        "store_country": "de",
+        "store_lang": "de"
     }
 ]

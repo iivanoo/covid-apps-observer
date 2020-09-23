@@ -188,6 +188,8 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <img src="4_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 4 reviews"/>
 </p>
 
+> Ottima<br> :date: __2020-09-17 19:03:44__
+
 > L'app risulta ben fatta, ma non esiste modo di modificare l'età<br> :date: __2020-09-09 09:44:34__
 
 > Bene<br> :date: __2020-08-17 13:59:27__
@@ -206,8 +208,6 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 
 > Dopo questa modifica diciamo che già meglio, la cosa che mi lascia perplesso e perché si possa inserire solo un figlio chi ne ha due o piu cosa deve fare ?<br> :date: __2020-06-24 14:28:57__
 
-> Convinto della bontà del sito<br> :date: __2020-06-12 22:46:58__
-
 
 
 #### 3-star reviews
@@ -215,6 +215,8 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 3 reviews"/>
 </p>
+
+> Come si cambia l'età anagrafica?<br> :date: __2020-09-18 20:18:32__
 
 > Funziona solo il questionario Covid e l'invio delle regole Covid aggiornate. Per il resto, non azzecca un'allerta meteo che sia una.<br> :date: __2020-08-28 00:31:16__
 
@@ -234,8 +236,6 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 
 > Scaricata ma non riesco a ricevere nessuna notifica di allerta inoltre ogni volta che si chiude l'applicazione spariscono dai preferiti i comuni precedentemente memorizzati. Le notifiche sono tutte attive, occorre tenere sempre acceso il GPS ? grazie<br> :date: __2020-06-11 15:25:30__
 
-> L'app è ben fatta, solo a volte non arrivano le notifiche ma gli SMS. Inoltre, come si fa a cambiare i numeri associati all allerta meteo? Non vedo nessun menù a disposizione. Grazie<br> :date: __2020-06-09 07:43:19__
-
 
 
 #### 2-star reviews
@@ -243,6 +243,8 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 2 reviews"/>
 </p>
+
+> Non si comprende l utilizzo<br> :date: __2020-09-23 12:44:32__
 
 > Poco utile<br> :date: __2020-09-09 18:24:47__
 
@@ -261,8 +263,6 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 > perche modificare in peggio la parte covid?? uso questa app da circa tre mesi direi esclusivamente per la parte covid la prima versione poteva essere migliorata e la seconda l'ha sicuramente molto più fruibile e rapida la compilazione l'ultimo aggiornamento di qualche giorno fa ha spostato la compilazione a sinistra. dato che la maggior parte delle persone é destrorsa e usa il pollice, cio ha reso l'applicazione non ergonomica. l'ho trovato stupido<br> :date: __2020-06-07 10:13:33__
 
 > Sinceramente non capisco a cosa serve compilare il test...<br> :date: __2020-06-07 00:35:39__
-
-> Ogni volta che arriva una notifica e fai per aprirla, non si carica mai, ma va in crash.<br> :date: __2020-06-03 18:40:59__
 
 
 

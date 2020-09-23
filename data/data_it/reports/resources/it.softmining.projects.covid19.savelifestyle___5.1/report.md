@@ -189,8 +189,6 @@ The SM_Covid19 app has been installed by more than **50000** times. At this time
 
 > Molto utile per tutti<br> :date: __2020-08-31 15:02:45__
 
-> Piace curata app<br> :date: __2020-08-23 21:40:56__
-
 > Semplice e comoda la puoi disinstallare quando vuoi.<br> :date: __2020-08-11 16:18:18__
 
 > Un piccolo problema su Xiaomi Tutto risolto in un batter d'occhio Bravissimi ora funziona di nuovo che è una meraviglia. Altro che Immuni, questa è una app di tracciamento veramente completa.<br> :date: __2020-08-03 14:36:37__
@@ -204,6 +202,8 @@ The SM_Covid19 app has been installed by more than **50000** times. At this time
 > Ottima app<br> :date: __2020-07-21 09:00:14__
 
 > Utile nei centri commetciali<br> :date: __2020-07-20 14:10:06__
+
+> Molto utile.... Avevo delle riserve all'inizio....ma con il passare dei giorni mi rendo conto che mi aiuta a mantenere il distanziamento<br> :date: __2020-07-19 22:23:35__
 
 
 
@@ -241,6 +241,8 @@ The SM_Covid19 app has been installed by more than **50000** times. At this time
 <img src="3_star_reviews_wordcloud.png" alt="it.softmining.projects.covid19.savelifestyle 3 reviews"/>
 </p>
 
+> Aspetto di usarla e vederne il responso per dare una valutazione più attinente. Faccio notare una mancanza tra le categorie indicate... Mancano le forze dell'ordine, forse meno a rischio dei medici/infermieri/OSS ma categoria a rischio per servizio.<br> :date: __2020-09-16 14:09:22__
+
 > Sembra ok, ma vorrei sapere il calibra BLE quanto deve essere il valore?toccando lo scudo blu non succede nulla.<br> :date: __2020-09-06 17:57:00__
 
 > Pro:è compatibile anche con dispositivi più datati; è comoda per tenere sotto controllo il numero dei casi. Contro: è un po' troppo invasiva (chiede troppi permessi); troppe notifiche; consuma più batteria dell'altra app (Immuni).<br> :date: __2020-08-28 18:08:29__
@@ -259,8 +261,6 @@ The SM_Covid19 app has been installed by more than **50000** times. At this time
 
 > Applicazione molto interessante e ben fatta ma che consuma una quantità di batteria assurda: minimo il 16% della batteria in 10 ore e senza mai averla aperta in modo esplicito ed è un valore molto più alto di quello del display o di Facebook o navigazione internet nello stesso intervallo<br> :date: __2020-06-29 22:46:39__
 
-> Non so quanto sia credibile, al momento non posso dare di + poi si vedra', a me pare + un controllo della persona. E allora W la privacy.<br> :date: __2020-06-16 11:42:51__
-
 
 
 #### 2-star reviews
@@ -268,6 +268,8 @@ The SM_Covid19 app has been installed by more than **50000** times. At this time
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="it.softmining.projects.covid19.savelifestyle 2 reviews"/>
 </p>
+
+> Troppi permessi... Non si poteva fare un'applicazione senza tutte ste richieste?<br> :date: __2020-09-17 22:19:23__
 
 > Per ora va bene, io non ho molti contatti con l'estero comunque<br> :date: __2020-07-06 11:35:49__
 
@@ -286,8 +288,6 @@ The SM_Covid19 app has been installed by more than **50000** times. At this time
 > Mi sembra una stronzata come app come fa a sapere se uno è veramente positivo o negativo senza tampone? Poi se l tocca un altro il cell cambia o no? Sec me na cavolata l altra volta m diceva che ero poco rischioso ora mi dice tutto bene mha<br> :date: __2020-06-08 13:48:07__
 
 > Non è chiaro il significato dell'indice (e le varie soglie), né sono indicate le procedure da fare in caso indicasse una situazione di potenziale pericolo. Inoltre è molto fastidioso il continuo vibrare delle notifiche push che arrivano più o meno ogni ora, inclusa la notte. Vibrazione che a quanto pare è impossibile disabilitare.<br> :date: __2020-06-08 11:13:44__
-
-> Non sicura<br> :date: __2020-06-06 19:22:21__
 
 
 

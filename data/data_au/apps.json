@@ -33,5 +33,10 @@
         "store_lang": "en",
         "latest_crawled_version": "3.4",
         "latest_crawl": 1600186676
+    },
+    {
+        "id": "au.gov.act.health.checkin",
+        "store_country": "au",
+        "store_lang": "en"
     }
 ]

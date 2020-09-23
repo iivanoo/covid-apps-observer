@@ -1,0 +1,38 @@
+[
+    {
+        "reviewId": "gp:AOqpTOEYHVud4v0hfHB2Hm-Dag-T5o57l65xsO8KEtAfoNP4oLuUOLVl3j2_q-JTnP5xD-y6GjkaMXY-bzpHKw",
+        "userName": "NOPCEA Onlus",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiMben7RYiwilndJ2QQmBrxmNJTFOQCFYQnXkV1FQ",
+        "content": "Useful and well-structured",
+        "score": 5,
+        "thumbsUpCount": 11,
+        "reviewCreatedVersion": "3.2.1",
+        "at": "2020-04-23 13:33:22",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGV-dpHC0icij5aR0v1Ib7Efb-vdju5cPC8svzlgHdzQ3jEBudW5BEoky1uzqYwiXUCL_AvFQkG56Iu_g",
+        "userName": "Angelo Damiani",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgQmXK0kZkaHBoxzcmgz3qlLWms-FZWOZBxF8TTEQ",
+        "content": "Ottimo e significativo per la vita.",
+        "score": 5,
+        "thumbsUpCount": 25,
+        "reviewCreatedVersion": null,
+        "at": "2020-04-17 06:44:32",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOF9kcc98Txq4suYanuKc2S1EDnr7VJUewF1Lmzsg58sNu3I-aOru5MIiYydi9ZnPohvmn6TZvyaYMdfDw",
+        "userName": "Si Ga",
+        "userImage": "https://play-lh.googleusercontent.com/-FF0UazzsW0A/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucngaLJ2DOOAl53MYjOGedmzaP-Ttw/photo.jpg",
+        "content": "Non c'\u00e8 in italiano",
+        "score": 1,
+        "thumbsUpCount": 48,
+        "reviewCreatedVersion": null,
+        "at": "2020-04-14 23:32:56",
+        "replyContent": null,
+        "repliedAt": null
+    }
+]

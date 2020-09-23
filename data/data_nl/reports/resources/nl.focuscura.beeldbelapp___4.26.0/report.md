@@ -200,25 +200,25 @@ The Luscii app has been installed by more than **100000** times. At this time, *
 <img src="5_star_reviews_wordcloud.png" alt="nl.focuscura.beeldbelapp 5 reviews"/>
 </p>
 
+> Goede app<br> :date: __2020-09-23 12:58:00__
+
+> Corona check app Werkt heel erg goed, mede natuurlijk dankzij de mensen erachter. Er hadden meer elementen in mogen zitten (energie, pijn op de borst, hoofdpijn.b.v), maar de app moest nu eenmaal simpel zijn. Al met al een app waar ik blij mee ben. Hartcontrole app. ( je moet eerst de ene verwijderen om de andere te installeren). Niet gek, zou naast de andere moeten kunnen bestaan; het zou prettig zijn als bloeddruk van meer bloeddrukmeters automatisch gelezen werd. Vooral goed vanwege contact<br> :date: __2020-09-21 17:40:32__
+
+> Mijn ervaring is dat dit een betrouwbare en veilige app is voor het meten van hartslag en communiceren met het zh<br> :date: __2020-09-21 10:10:05__
+
+> Reageert snel bij wijzigingen..<br> :date: __2020-09-21 09:35:27__
+
+> Makkelijk in te vullen doordat de vraagstelling simpel is, ook als je lichte klachten hebt krijg je advies via de mail wat te doen of juist niet.<br> :date: __2020-09-20 10:48:09__
+
+> Prima initiatief 👍👍<br> :date: __2020-09-17 09:36:03__
+
+> Makkelijk, overzichtelijk,betrouwbaar<br> :date: __2020-09-16 19:40:36__
+
+> handig<br> :date: __2020-09-16 12:01:27__
+
+> Vindt het fijn dat hij bestaat,je weet nu dat je alles moet doen om een goed leven te bereiken<br> :date: __2020-09-16 10:48:30__
+
 > Werkt perfect<br> :date: __2020-09-14 11:32:15__
-
-> Betrouwbaar<br> :date: __2020-09-11 10:54:21__
-
-> Heel fijn dat de app meedenkt. K ben al weken snotterig en soms keelpijn. Waarbij je dan door de adviezen van het RIVM twijfelt of je moet testen (en dat zou ik dan iedere week moeten doen). De app helpt mij te monitoren of er iets veranderd en dat zou kunnen wijzen op corona. Heel handig!<br> :date: __2020-09-11 06:12:45__
-
-> Makkelijk en snel, en vind dit een prettige vinger aan de pols 😊<br> :date: __2020-09-10 19:55:14__
-
-> Een goede app!<br> :date: __2020-09-07 10:48:38__
-
-> Goede herinneringen service, en follow up als de antwoorden daartoe aanleiding geven.<br> :date: __2020-09-07 10:08:15__
-
-> Super!<br> :date: __2020-09-07 09:35:48__
-
-> Een goede instantie<br> :date: __2020-09-07 09:31:42__
-
-> Geeft een goed gevoel dat er iedere dag wordt meegekeken.<br> :date: __2020-09-06 09:33:37__
-
-> Prima, werkt zoals het hoort.<br> :date: __2020-09-04 12:47:55__
 
 
 
@@ -227,6 +227,10 @@ The Luscii app has been installed by more than **100000** times. At this time, *
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="nl.focuscura.beeldbelapp 4 reviews"/>
 </p>
+
+> Top zeg. Veilig gevoel.<br> :date: __2020-09-22 15:28:51__
+
+> Gemakkelijk te gebruiken en dan heb je veel eerder de neiging om het even in te vullen en ook geen overbodige vragen maar to the point ja ik vind het een prettige manier om mee te werken aan dit onderzoek<br> :date: __2020-09-17 19:51:32__
 
 > Makkelijk en snel<br> :date: __2020-09-13 09:36:48__
 
@@ -244,10 +248,6 @@ The Luscii app has been installed by more than **100000** times. At this time, *
 
 > Helder en eenvoudig<br> :date: __2020-08-25 09:10:45__
 
-> Jammer geen terugkoppeling<br> :date: __2020-08-23 11:43:39__
-
-> Een wisselende vraagstelling, meer onderdelen benoemen , kan het automatisme onderdrukken, denk ik.<br> :date: __2020-08-22 20:58:58__
-
 
 
 #### 3-star reviews
@@ -255,6 +255,8 @@ The Luscii app has been installed by more than **100000** times. At this time, *
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="nl.focuscura.beeldbelapp 3 reviews"/>
 </p>
+
+> Ik had hulp nodig bij het opstarten. De stappenteller werkt eindelijk, maar geeft een lager aantal weer op de app als dat ok tegelijker tijd afleest van de polsband. Wendy schrijft mij soms bericht dat ik wel kan lezen maar niet beantwoorden. Is polsband waterdicht??? Weet ik niet meer. :( :)<br> :date: __2020-09-22 23:32:06__
 
 > Goed<br> :date: __2020-08-04 08:56:33__
 
@@ -274,8 +276,6 @@ The Luscii app has been installed by more than **100000** times. At this time, *
 
 > Ik vind de vragen summier en vrij algemeen. Ook is het jammer dat jullie de app niet white label aanbieden zodat jullie klanten er hun eigen merk overheen kunnen leggen.<br> :date: __2020-06-24 14:56:37__
 
-> Tot voor kort uitstekend en gedetailleerde vragen. Nu veel te oppervlakkig.<br> :date: __2020-06-22 09:47:55__
-
 
 
 #### 2-star reviews
@@ -283,6 +283,8 @@ The Luscii app has been installed by more than **100000** times. At this time, *
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="nl.focuscura.beeldbelapp 2 reviews"/>
 </p>
+
+> Op dagen dat ik klachten ervaar zegt de app geen klachten. Nu ben ik al 2 dagen klachtenvrij en zegt ie milde klachten. Beetje vreemd. Wel handig systeem maar de berichten slaan nergens op.<br> :date: __2020-09-18 11:30:36__
 
 > Sinds de laatste update heb ik ineens covid klachten terwijl de waardes gewoon goed zijn....<br> :date: __2020-09-12 18:58:41__
 
@@ -302,8 +304,6 @@ The Luscii app has been installed by more than **100000** times. At this time, *
 
 > Koppelen aan apparaten gaat traag en soms niet. Onduidelijk waarom het dan niet lukt, soms lukt het wel, soms niet<br> :date: __2020-05-28 07:23:13__
 
-> Erg simpel programma. Geeft niet het gevoel dat het je situatie ook maar benaderd. Startvragen over gezondheid (bij eerste aanmelding op te geven) zijn niet terug te vinden. Dus ook niet te corrigeren. Ik zie er weinig nut van in. Speelgoed.<br> :date: __2020-05-23 13:23:27__
-
 
 
 #### 1-star reviews
@@ -311,6 +311,8 @@ The Luscii app has been installed by more than **100000** times. At this time, *
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="nl.focuscura.beeldbelapp 1 reviews"/>
 </p>
+
+> Krijg een code vul deze in en dan krijg ik door dat deze fout is. Dan vraag ik een nieuwe op met hetzelfde resultaat. Kom dus niet verder.<br> :date: __2020-09-22 21:13:20__
 
 > Waardeloze app. Vaak niet te openen. Hopeloze service ook.<br> :date: __2020-09-04 22:13:38__
 
@@ -329,7 +331,5 @@ The Luscii app has been installed by more than **100000** times. At this time, *
 > Na de laatste update werkte de app niet meer<br> :date: __2020-06-11 21:41:36__
 
 > Goed<br> :date: __2020-06-10 17:22:00__
-
-> De app is gemaakt voor Apple gebruikers. Als je het al geïnstalleerd krijgt op je gangbare android toestel, worden de onderdelen niet ondersteund!<br> :date: __2020-06-10 10:36:27__
 
 

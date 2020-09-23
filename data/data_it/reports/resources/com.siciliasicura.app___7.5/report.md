@@ -133,6 +133,8 @@ The SiciliaSiCura app has been installed by more than **50000** times. At this t
 <img src="5_star_reviews_wordcloud.png" alt="com.siciliasicura.app 5 reviews"/>
 </p>
 
+> Regione stupenda, con gente calorosa e accogliente, l'unica nota stonata è la pulizia, non proprio all'altezza dei luoghi visitati!<br> :date: __2020-09-16 17:24:06__
+
 > Complimenti alla regione Sicilia che ha fatto una app semplice nella compilazione ed efficace con check-in con messaggio di conferma e di benvenuto, e checkout con messaggio auspicando che la permanenza sia stata di gradimento; diversamente dalla dichiarazione che ho dovuto fare nella regione Puglia, molto complicata e senza la sicurezza di ricevimento dalla Usl di riferimento. Brava la regione Sicilia.<br> :date: __2020-09-13 11:30:43__
 
 > Bene<br> :date: __2020-09-01 18:47:34__
@@ -150,8 +152,6 @@ The SiciliaSiCura app has been installed by more than **50000** times. At this t
 > Chiara<br> :date: __2020-07-30 18:13:40__
 
 > Ottima app, solo che nn si capisce se le analisi sono obbligatorie i no.<br> :date: __2020-07-28 10:33:38__
-
-> App molto utile e semplice da utilizzare. Consigliata! Ricordatevi però di fare il check-in solo quando sarete in Sicilia come spiega chiaramente la mail che riceverete in fase di registrazione.<br> :date: __2020-07-23 16:19:11__
 
 
 
@@ -245,6 +245,8 @@ The SiciliaSiCura app has been installed by more than **50000** times. At this t
 <img src="1_star_reviews_wordcloud.png" alt="com.siciliasicura.app 1 reviews"/>
 </p>
 
+> L'app non consente di effettuare un nuovo check in in caso di viaggi multipli in Sicilia. Edit: dopo la risposta dello sviluppatore confermo una stella. L'applicazione è incredibilmente farraginosa ( a partire dal fatto che il nome utente è generato automaticamente dal sistema, quindi facilmente dimenticarlo)<br> :date: __2020-09-22 09:36:47__
+
 > Aprendo l'app ottengo solo una schermata bianca. Il problema persiste tutti i giorni. Sono costretto a loggarmi via chrome<br> :date: __2020-09-14 10:45:17__
 
 > Ci sto ancora impazzendo...<br> :date: __2020-09-09 12:38:32__
@@ -262,7 +264,5 @@ The SiciliaSiCura app has been installed by more than **50000** times. At this t
 > Non riesco a scaricare l app...continuamente in download<br> :date: __2020-08-26 10:19:38__
 
 > Inutile, non avviene nessun controllo<br> :date: __2020-08-25 17:11:47__
-
-> Installata ma si blocca allo Splash<br> :date: __2020-08-22 20:51:10__
 
 

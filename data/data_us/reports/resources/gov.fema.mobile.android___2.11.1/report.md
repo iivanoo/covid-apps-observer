@@ -165,6 +165,8 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 <img src="5_star_reviews_wordcloud.png" alt="gov.fema.mobile.android 5 reviews"/>
 </p>
 
+> Very easy to use. Self explanatory App. Everything is basically right there on the App.<br> :date: __2020-09-19 17:10:52__
+
 > Thanks for your help<br> :date: __2020-09-12 20:50:16__
 
 > Love it!! Can check on family around the country and in different counties. If you set you phone to do not disturb, make sure to tell the do not disturb app that these messages are allowed. If you lower power saving level on android phones the app does not alert you.<br> :date: __2020-09-08 16:04:30__
@@ -182,8 +184,6 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 > Excellent!!!!<br> :date: __2020-07-31 08:45:58__
 
 > Thank you!🇵🇷🇺🇸🙋<br> :date: __2020-07-31 00:22:40__
-
-> I love the sound of that!!<br> :date: __2020-07-26 18:18:13__
 
 
 
@@ -249,6 +249,8 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 <img src="2_star_reviews_wordcloud.png" alt="gov.fema.mobile.android 2 reviews"/>
 </p>
 
+> Once I sign in it then sends me a email code to sign in again.... To many steps<br> :date: __2020-09-19 20:23:31__
+
 > Installed this app months ago and expected this would be the moment for it. I'm getting "red flag warnings" and "evacuation alerts" every few minutes (with no date or timestamp) that just say things like "GO NOW Eden Road" with a web link I can't click or copy. After switching back and forth between apps to type out it turns out it's a map and Eden Road is 60 miles away. You can't set alerts for regions smaller than the entire county. Evac notices also came through sooner with other services.<br> :date: __2020-09-12 07:56:04__
 
 > What is it with this app. I've.been trying to download it for three days how long does it take to for it to download .we are about to be hit with a hurracain.this is messed.up<br> :date: __2020-08-23 03:40:24__
@@ -266,8 +268,6 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 > When I click on "Alerts," I get a message saying that I have to enable them in the app settings. But when I get into the settings, I can't find anything that does that.<br> :date: __2020-03-21 20:10:32__
 
 > App does not give alerts. At one time it worked.<br> :date: __2019-06-18 03:25:56__
-
-> The app seems to be very inconsistent. Sometimes i get alerts, sometimes I don't. I've uninstalled and reinstalled a few times but it hasn't helped. Very disappointing.<br> :date: __2019-03-03 23:10:36__
 
 
 

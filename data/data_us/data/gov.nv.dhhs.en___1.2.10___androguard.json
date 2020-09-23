@@ -1,0 +1,30 @@
+{
+    "permissions": [
+        "android.permission.BLUETOOTH",
+        "android.permission.WAKE_LOCK",
+        "android.permission.GET_TASKS",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.INTERNET",
+        "android.permission.RECEIVE_BOOT_COMPLETED"
+    ],
+    "activities": [
+        "com.covidtrace.app.MainActivity",
+        "io.flutter.plugins.urllauncher.WebViewActivity",
+        "com.google.android.gms.common.api.GoogleApiActivity"
+    ],
+    "urls": [
+        "http://schemas.android.com/apk/res/android",
+        "https://plus.google.com/",
+        "http://www.",
+        "https://www.",
+        "http://xmlpull.org/v1/doc/features.html#process-namespaces",
+        "http://xmlpull.org/v1/doc/features.html#validation",
+        "http://xmlpull.org/v1/doc/",
+        "http://www.w3.org/XML/1998/namespace",
+        "http://www.w3.org/2000/xmlns/",
+        "http://xmlpull.org/v1/doc/features.html#indent-output",
+        "http://xmlpull.org/v1/doc/properties.html#xmldecl-standalone",
+        "https://www.googleapis.com/auth/games_lite",
+        "https://www.googleapis.com/auth/games"
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "permissions": [
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.INTERNET",
+        "android.permission.FOREGROUND_SERVICE",
+        "android.permission.WAKE_LOCK",
+        "android.permission.BLUETOOTH",
+        "android.permission.RECEIVE_BOOT_COMPLETED"
+    ],
+    "activities": [
+        "gov.vdh.exposurenotification.home.ExposureNotificationActivity",
+        "gov.vdh.exposurenotification.exposure.ExposureLearnMoreActivity",
+        "gov.vdh.exposurenotification.notify.NotifyLearnMoreActivity",
+        "gov.vdh.exposurenotification.exposure.ExposureAboutActivity",
+        "gov.vdh.exposurenotification.notify.ShareDiagnosisActivity",
+        "gov.vdh.exposurenotification.debug.MatchingDebugActivity",
+        "gov.vdh.exposurenotification.debug.QRScannerActivity",
+        "com.google.android.gms.common.api.GoogleApiActivity"
+    ],
+    "urls": [
+        "http://schemas.android.com/apk/res/android",
+        "https://plus.google.com/",
+        "http://schemas.android.com/apk/res-auto",
+        "https://www.googleapis.com/auth/games_lite",
+        "https://www.googleapis.com/auth/games",
+        "https://logger-4o35rtqegq-uc.a.run.app"
+    ]
+}

@@ -216,6 +216,8 @@ The Care19 Diary app has been installed by more than **10000** times. At this ti
 <img src="2_star_reviews_wordcloud.png" alt="com.proudcrowd.care 2 reviews"/>
 </p>
 
+> Doesn't catch all locations, and it recorded a one hour visit to one store as 12 minutes, then would not allow correction.<br> :date: __2020-09-21 13:10:23__
+
 > Quit recording anything after about three weeks.<br> :date: __2020-07-26 05:30:54__
 
 > Inaccurate didn't track me for days sometimes. Uninstalled it, that bad.<br> :date: __2020-07-19 03:31:36__
@@ -233,8 +235,6 @@ The Care19 Diary app has been installed by more than **10000** times. At this ti
 > I have a samsung android phone and I used the app Tacoma 19 South Dakota app from Google Play. I have installed it and reinstalled it this install that reinstalled it and updated it every time. I have yet to see anything on my page of anywhere that I've been tracked it just keeps saying congratulations you are set up but doesn't detect that you win any places yet. I don't go very often but I have went to stores and I have spent more than 10 minutes there why can't I see where I have been?<br> :date: __2020-06-01 23:56:11__
 
 > I wish this used the exposure API rather than log GPS coordinates. As I understand, the exposure API is just a log of device identifiers of other nearby phones, stored locally, rotated every 2 weeks. Your phone then simply downloads identifiers of any recent positives in your area and alerts you if they match any your phone has been near. That's very minimal impact on me and a health organization. For me, you don't know that I went to the eye doctor on Tuesday. For you: the health dept doesn't then have to go around in hazmat suits trying to play investigator - nor posting some public notice "HAVE YOU SEEN THIS WOMAN AT THE EYE DOCTOR ON TUESDAY? IF SO, YOU MAY BE INFECTED." One is a little more subtle message, cleans up after itself, puts the burden of response to the user, likely more reliable against device power savings features, and more battery friendly where a GPS/cell tower solution is more invasive, doesn't really capture proximity to another device, probably gets affected by device power savings features, elicits more work and exposes too much to a 3rd party. I'd just scrap this one and make an open source solution using the exposure API.<br> :date: __2020-05-26 20:08:29__
-
-> Hasn't loaded anything in 3 days not impressed.<br> :date: __2020-05-22 14:57:46__
 
 
 

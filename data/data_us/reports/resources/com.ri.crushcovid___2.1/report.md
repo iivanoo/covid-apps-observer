@@ -153,6 +153,10 @@ The CRUSH COVID RI app has been installed by more than **10000** times. At this 
 <img src="5_star_reviews_wordcloud.png" alt="com.ri.crushcovid 5 reviews"/>
 </p>
 
+> Very informative. Be<br> :date: __2020-09-22 22:19:48__
+
+> Easy to navigate and use.<br> :date: __2020-09-18 04:00:13__
+
 > Takes some practice to figure how It works.<br> :date: __2020-09-11 05:46:50__
 
 > RI Governor Raimondo rocks. Thanks for developing this app. If you get covid, one press of a button allows you to see where you have gone for the past 2 weeks. Allowing for instant virus tracing.<br> :date: __2020-09-10 19:57:21__
@@ -169,10 +173,6 @@ The CRUSH COVID RI app has been installed by more than **10000** times. At this 
 
 > Great App<br> :date: __2020-08-13 03:47:45__
 
-> I think its Great, I love it.<br> :date: __2020-07-12 18:48:06__
-
-> Easy to use.<br> :date: __2020-07-12 14:55:30__
-
 
 
 #### 4-star reviews
@@ -180,6 +180,8 @@ The CRUSH COVID RI app has been installed by more than **10000** times. At this 
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.ri.crushcovid 4 reviews"/>
 </p>
+
+> Version 2.1 tracking as it should, yay. Nice new features. Updated rating from 2 - 4 stars. (Old: Gave version 2.0 a try. Went to a Warwick restaurant for 1.5 hours. There is no record of this in "My Location Diary". I really wanted this version to work. I don't understand how the basic and essential functionality doesn't work properly.)<br> :date: __2020-09-15 22:15:12__
 
 > more f<br> :date: __2020-08-06 01:07:34__
 
@@ -198,8 +200,6 @@ The CRUSH COVID RI app has been installed by more than **10000** times. At this 
 > Resident of Rhode Island<br> :date: __2020-07-10 19:39:10__
 
 > if you don't see the icon, it's not tracking you.<br> :date: __2020-07-04 23:43:54__
-
-> Happy with it, but wish it had: - lower battery drain - visual display of location tracing Thanks!<br> :date: __2020-06-08 19:14:53__
 
 
 
@@ -265,6 +265,10 @@ The CRUSH COVID RI app has been installed by more than **10000** times. At this 
 <img src="1_star_reviews_wordcloud.png" alt="com.ri.crushcovid 1 reviews"/>
 </p>
 
+> I can't even get through the agreement/permissions page. This is my second attempt with this app after the first version was sending alerts and push messages non stop. I guess for every minute I am frustrated trying to use the app, that is a minute that I am less likely to be exposed to Covid.<br> :date: __2020-09-20 13:34:26__
+
+> I finally left app with newest Version 2.1. As Android user the new update has changed app for the worse. You can't send info as it just keeps saying u have to fill out info you have already done...and the location tracker is do far off..it has had me listed in Connecticut for hours when I had not left my house in RI.. Until u fix the bugs...I won't use the app. It started off good... programmers...please don't make the users your Beta group! You should have noticed these bugs if u tested!<br> :date: __2020-09-16 20:47:27__
+
 > Refuses to open after recent update. Removed and reinstalled and still fails<br> :date: __2020-09-11 15:49:03__
 
 > The location diary doesn't work because the location services doesn't have an always on option, it only has "Allow only whole using the app"<br> :date: __2020-09-09 19:43:40__
@@ -280,9 +284,5 @@ The CRUSH COVID RI app has been installed by more than **10000** times. At this 
 > This app still doesn't accurately keep track of my location 😒! I did everything suggested to assist it that was given as "tips" and it's not right 95% of the time! I always have my phone on and use either data or wi-fi. The only location that it gets correct sometimes is home. If it doesn't get fixed I might as well uninstall it.<br> :date: __2020-08-21 17:37:19__
 
 > If it can't track my location, then what good is it? It's good for nothing. I don't need this app taking up space on my phone if it doesn't work.<br> :date: __2020-08-19 20:05:36__
-
-> PLEASE REFACTOR LOCATION TRACKING! Perhaps the sensing approach met privacy goals, battery drain etc., but it's not delivering and some courage is needed (leadership) to face the reality and use or license someone else's proven working tracing approach. (And having to load app manually and keep in a foreground process all the time is plain daffy! When I happen to remember and do it, the location data it gathers is more wrong than right...)<br> :date: __2020-08-16 17:20:13__
-
-> Racist fear mongering app<br> :date: __2020-08-08 17:43:15__
 
 

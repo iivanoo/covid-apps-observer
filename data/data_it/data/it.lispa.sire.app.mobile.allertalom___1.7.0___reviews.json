@@ -1,5 +1,41 @@
 [
     {
+        "reviewId": "gp:AOqpTOEMflis2x0QUAaCjHNkZc28UWbq0XVoifle7fqOQqZFJHR7JVP6bO16ebYmxmh48n1XdcoGF0hbQD65Qw",
+        "userName": "Daniela Strazzi",
+        "userImage": "https://play-lh.googleusercontent.com/-aeguch307m8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmBELkU3mp-7rid_Kb4_lJ7VWo4yA/photo.jpg",
+        "content": "Non si comprende l utilizzo",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.7.0",
+        "at": "2020-09-23 12:44:32",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFMGL-lWXOL5hXLbkZJTzSn5GXTqS16_I15Onciq71D2vIMx-P-yIkxb993G4QQA9jic3xanuXDp3Hh7w",
+        "userName": "Valter Coen",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gj_Bxv4sDd9lFk4tfVI8nxgm9EbCrgLOAg41Ait7Q",
+        "content": "Come si cambia l'et\u00e0 anagrafica?",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.7.0",
+        "at": "2020-09-18 20:18:32",
+        "replyContent": "Ciao Valter, per esigenze tecniche e statistiche non \u00e8 possibile modificare l'anagrafica.",
+        "repliedAt": "2020-09-23 11:17:14"
+    },
+    {
+        "reviewId": "gp:AOqpTOGH6PLUBoFchaJr8z4fdA4anfj9TlZ4jy1RHR921PYYVmcMKZZ5VVENyNk_6b2CuRH2VfQB-kgIfd43Tw",
+        "userName": "Alberto Colli",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Giu2A_mS6hujYlkna7nORAvr5vzYGJWoAybpOdAWg",
+        "content": "Ottima",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2020-09-17 19:03:44",
+        "replyContent": "Ciao Alberto, grazie per la valutazione positiva!",
+        "repliedAt": "2020-09-23 11:17:50"
+    },
+    {
         "reviewId": "gp:AOqpTOGTO6MKg1scCMjR6F5FQ6Tp-HbfvJj-JTd8CUOBqfA7IX0uxh1TSOn-VFnSUx1gSGarXw1GLWP4O6aGGQ",
         "userName": "Valentino Tagliabue",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhxKHSDBEzJlMtSBwhpu2C-rVlW5ss05iOpClcD",
@@ -530,7 +566,7 @@
     {
         "reviewId": "gp:AOqpTOG4F1TWAFHayFCYqgkh4jGu2fxhgike1p2GkV4p80RTvLMTZAfgJkCGcRj5ghviUwzyKSdY4cdEWeoXqg",
         "userName": "Simona Ceriotti",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjillsxqGYuY-I7VCsV1ytgAzG0AlHQ9vVwSXCK8w",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gj-xEHR3qdORoVLJlyR9EWlv0hXyA4-wwnKDUcDhg",
         "content": "Non funziona mai, mi chiede tutti i permessi e mi porta alla pagina di adesione al questionario Covid e da l\u00ec non va oltre. Fa schifo!",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1226,7 +1262,7 @@
     {
         "reviewId": "gp:AOqpTOFIihlb2YHaJbQMh90RjKsOjL0eTSk6qB1bo4xEEgeQDhyg4lPj0IjrUQBhWtkdDfor3_EScETg_CuuHA",
         "userName": "Ensabry in Cucina",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgysSYkC9iOJz_TEZ2MwHeOUirsL0Tfxp1H3a9Q",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gg6LibBtYAqeb9mmu3NWZ_nLJuNIouhmT_Q9ziWaw",
         "content": "App utile e promettente, ma con problemi. Non visualizzo la mappa delle allerte, solo la lista delle zone. Per sapere dove sono le allerte le devo aprire una ad una e farle scorrere. A mio avviso, notifiche e informazioni dovrebbero essere in-app non esterne.",
         "score": 3,
         "thumbsUpCount": 2,
@@ -2630,7 +2666,7 @@
     {
         "reviewId": "gp:AOqpTOG2-LpbdOS3l23T92EPOT1wPY4A7IIO0njUiy0yzC_x2DBKq1azDlJHEoDwvu08a4uWDDzgTTX9qOsBaQ",
         "userName": "Carlo Dell'anna",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhOqL0eQduQfQZmjKcavbc-LxTb6C2eNxT33Eqa_g",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gg-PxI9-cf9HTn2foRkMoC7EfU_te5asl4NkMliXQ",
         "content": "Ottima",
         "score": 5,
         "thumbsUpCount": 0,
@@ -4130,7 +4166,7 @@
     {
         "reviewId": "gp:AOqpTOHrK1MpzNBO_e3KvUwwSJDDVPLOYsA7XbKXnHIJW6tBffaNaxhHinT9V3xdGCI0aIEQyedMs7LkJ9I2_w",
         "userName": "Mitovivente",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhKny9pqW3CiIRTKIW2WkHZucLgNC2ZtGTqBlbo",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GijCGKy07DxFXyb6xp_Ausd6IJHUovTZYdIoXmKhw",
         "content": "Buona, ma non scaricabile dagli smartphone meno recenti; \u00e8 un dettaglio non da poco visto che non tutte le persone anziane possono stare al passo con la tecnologia.....",
         "score": 2,
         "thumbsUpCount": 0,
@@ -5549,7 +5585,7 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gg4DDn2l7Y01cay9BFobazMyn0hc5i-VVmpnJ2j",
         "content": "Se lo scopo dell'app \u00e8 quello di effettuare una mappatura di quella che pu\u00f2 essere stata la diffusione del contagio sul territorio, risulta inefficace poich\u00e9 si limita ad una fotografia della situazione attuale. Le domande sui sintomi sono riferite alle sole ultime 2 settimane. Io e la mia famiglia la quasi totalit\u00e0 dei sintomi (compreso, per me, la congiuntivite) li abbiamo avuto a met\u00e0 febbraio. Sarebbe pi\u00f9 utile chiedere se i sintomi si sono avuti e, in caso affermativo, chiedere quando",
         "score": 2,
-        "thumbsUpCount": 171,
+        "thumbsUpCount": 172,
         "reviewCreatedVersion": "1.6.0",
         "at": "2020-04-22 11:52:35",
         "replyContent": "Ciao Raimondo, la ringraziamo per il suggerimento.Lo invieremo al gruppo di ricerca di medici e ricercatori dell\u2019Ospedale San Matteo e dell\u2019Universit\u00e0 degli Studi di Pavia che ha ideato il questionario. Ogni contributo degli utenti \u00e8 prezioso!",
@@ -11962,41 +11998,5 @@
         "at": "2020-04-10 11:55:23",
         "replyContent": "Ciao Enrico, al momento non \u00e8 stata implementata questa funzione la prenderemo in considerazione in futuro, grazie per il suggerimento!",
         "repliedAt": "2020-04-24 16:00:40"
-    },
-    {
-        "reviewId": "gp:AOqpTOF_xRtG1R6uJy6pRG7pE5NO3QE7ercsOeRhASCtYVqeoLclOvEnHdcvLBf7JlRtVvReCsJ1h4STwL1eGA",
-        "userName": "Giorgio Cozzi",
-        "userImage": "https://play-lh.googleusercontent.com/-iKvXSb1euD4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucllNWInW9tK-dBgDFKdYHCdFICVWQ/photo.jpg",
-        "content": "Utilissima",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.5.0",
-        "at": "2020-04-10 11:30:06",
-        "replyContent": "Grazie per il feedback!",
-        "repliedAt": "2020-04-24 15:31:30"
-    },
-    {
-        "reviewId": "gp:AOqpTOGA7EyWxAGfweMhlGPThdGJnD7WS4OmxEVtRA7Tm6EbBHmdY-NxdMWya5pwAIo0kdGZUQeFs1wlsJP5FA",
-        "userName": "Mikro 70",
-        "userImage": "https://lh3.googleusercontent.com/-XvK4YOjLrfA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl9YJjeTmj-ZDiggYmG19tY-uJHTg/photo.jpg",
-        "content": "Mi sposto per motivi di lavoro tutti i giorni due volte al giorno proveniendo da un altra regione ,il mio comune di residenza non riesco ad inserire il mio comune di residenza perch\u00e9 fuori regione",
-        "score": 1,
-        "thumbsUpCount": 1,
-        "reviewCreatedVersion": "1.5.0",
-        "at": "2020-04-10 10:51:50",
-        "replyContent": "Ciao Mirko, allertaLOM \u00e8 l\u2019App di Regione Lombardia che permette di ricevere le allerte di Protezione Civile di Regione Lombardia che in occasione dell\u2019emergenza Coronavirus in Lombardia, si \u00e8 evoluta in uno strumento di partecipazione attiva della cittadinanza al monitoraggio della diffusione del virus.",
-        "repliedAt": "2020-04-10 11:31:01"
-    },
-    {
-        "reviewId": "gp:AOqpTOHuUZhtxX2xlVJf3omAsMHAtlfWvEQuWdQN6R4k1GzjYmUf4rOwA9rSmc9OgORyus3V16lBaNVveH35Xg",
-        "userName": "Matteo Santoro",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gid0ykdP3UCh3QlZ9R23C8YSP0dNYxJvj82RyEL8Q",
-        "content": "Trovo questa iniziativa assolutamente utile e la app ha il vantaggio di presentare un questionario semplice e chiaro all'interno di un sistema gi\u00e0 efficace di allerte per la Lombardia. Grazie",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.5.0",
-        "at": "2020-04-10 10:38:37",
-        "replyContent": "Grazie Matteo della tua recensione e grazie di tutte le stelline che fanno crescere la nostra valutazione. Cercheremo instancabilmente di fare in modo che tutti quelli che usano l'app, la apprezzino come te!",
-        "repliedAt": "2020-04-10 11:34:37"
     }
 ]

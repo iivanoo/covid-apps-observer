@@ -1,5 +1,65 @@
 [
     {
+        "reviewId": "gp:AOqpTOH33zmiQEizI3N8vwCcNO_wELvELLQSgMUSpzzBv8nPGxY2oeZZjOFY2JKzEa8DfOSLNwgZoSPgJ-2_bg",
+        "userName": "Renee Conlon",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgxYBwTOEAow3sk1ZsfY8ORZfQ3A2NDaJCSKxg9xA",
+        "content": "Very informative. Be",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.1",
+        "at": "2020-09-22 22:19:48",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFUuwAdEO_yVCxz8fLUWBBXxwHX9sHloPudVjINrusQZEtY0Q1PwsIzT6RAq8ypbJxBBLzuuZkpNIgb7g",
+        "userName": "Christopher Swiczewicz",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiJnYKxW_xku4vk0jNN8kxx8DH44y9GYPU5_Ys0xg",
+        "content": "I can't even get through the agreement/permissions page. This is my second attempt with this app after the first version was sending alerts and push messages non stop. I guess for every minute I am frustrated trying to use the app, that is a minute that I am less likely to be exposed to Covid.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.1",
+        "at": "2020-09-20 13:34:26",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOG7h2zBdlfC4kYwyYPa9nF0_zAicfpu2lzMbzfXBLD6ZTEdSvfmZbEZ4kgVbihmcN_kbbhv4v-HinswVw",
+        "userName": "Judy Mason",
+        "userImage": "https://play-lh.googleusercontent.com/-nWQFPNfrxCY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm1o6OJfiNLpI3klLRGWtW6pcZxVA/photo.jpg",
+        "content": "Easy to navigate and use.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.1",
+        "at": "2020-09-18 04:00:13",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGmJR6Zp7KJFl9hTjxKoi9xPVfIHq6-yMWj3iZquKxVdcmds5BL1EhQUybjU1u0jOhrX8fugDtvvNHKmg",
+        "userName": "Pam Lane-Herrera",
+        "userImage": "https://play-lh.googleusercontent.com/-rHbM583ACfo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckzHGo5ybEFoaibM-zcrnX7WPQ-rA/photo.jpg",
+        "content": "I finally left app with newest Version 2.1. As Android user the new update has changed app for the worse. You can't send info as it just keeps saying u have to fill out info you have already done...and the location tracker is do far off..it has had me listed in Connecticut for hours when I had not left my house in RI.. Until u fix the bugs...I won't use the app. It started off good... programmers...please don't make the users your Beta group! You should have noticed these bugs if u tested!",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.5",
+        "at": "2020-09-16 20:47:27",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFYftZ4y9oimP5YOCdLSXgVvLaxj3d5UjxrV02SkMxWONcq6hcwtLxz7icUwVWcR1pyu-krMB6iQIm3jw",
+        "userName": "Tony Pitassi",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhSdwb-LP-tq9uZfBZEaNsye85Z4cgM7WqaRHkYaw",
+        "content": "Version 2.1 tracking as it should, yay. Nice new features. Updated rating from 2 - 4 stars. (Old: Gave version 2.0 a try. Went to a Warwick restaurant for 1.5 hours. There is no record of this in \"My Location Diary\". I really wanted this version to work. I don't understand how the basic and essential functionality doesn't work properly.)",
+        "score": 4,
+        "thumbsUpCount": 12,
+        "reviewCreatedVersion": "2.1",
+        "at": "2020-09-15 22:15:12",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOGTauZND05glAb3Z8mUu585sZS1lQB7Uvyt7KWCcRAn30IFF_cTLT5ulG_oMA_n-ZR16jd0Lp23W4t5EQ",
         "userName": "Kellie Roscoe",
         "userImage": "https://play-lh.googleusercontent.com/-X5NIhj432lY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckK9Z66waAbXezAK-mbDuL46eZK-Q/photo.jpg",
@@ -464,18 +524,6 @@
         "thumbsUpCount": 28,
         "reviewCreatedVersion": "2.0",
         "at": "2020-07-15 21:26:13",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOFYftZ4y9oimP5YOCdLSXgVvLaxj3d5UjxrV02SkMxWONcq6hcwtLxz7icUwVWcR1pyu-krMB6iQIm3jw",
-        "userName": "Tony Pitassi",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhSdwb-LP-tq9uZfBZEaNsye85Z4cgM7WqaRHkYaw",
-        "content": "Gave version 2.0 a try. Went to a Warwick restaurant for 1.5 hours. There is no record of this in \"My Location Diary\". I really wanted this version to work. I don't understand how the basic and essential functionality doesn't work properly.",
-        "score": 2,
-        "thumbsUpCount": 12,
-        "reviewCreatedVersion": "2.0",
-        "at": "2020-07-15 01:38:57",
         "replyContent": null,
         "repliedAt": null
     },

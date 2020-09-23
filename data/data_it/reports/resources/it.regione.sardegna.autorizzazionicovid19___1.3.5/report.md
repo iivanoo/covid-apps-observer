@@ -172,6 +172,8 @@ The Sardegna Sicura app has been installed by more than **100000** times. At thi
 <img src="5_star_reviews_wordcloud.png" alt="it.regione.sardegna.autorizzazionicovid19 5 reviews"/>
 </p>
 
+> Lingua sarda su un'applicazione? Complimenti per l'iniziativa 👏<br> :date: __2020-09-16 08:25:35__
+
 > Ottimo<br> :date: __2020-09-12 13:00:29__
 
 > Adesso che è stata aggiornata, è chiara e semplice da compilare!<br> :date: __2020-09-08 15:19:19__
@@ -190,8 +192,6 @@ The Sardegna Sicura app has been installed by more than **100000** times. At thi
 
 > Ottima<br> :date: __2020-08-04 19:09:52__
 
-> UTILE .<br> :date: __2020-08-04 15:46:50__
-
 
 
 #### 4-star reviews
@@ -199,6 +199,8 @@ The Sardegna Sicura app has been installed by more than **100000** times. At thi
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="it.regione.sardegna.autorizzazionicovid19 4 reviews"/>
 </p>
+
+> Oggi dopo vari tentativi falliti, sono registrata Purtroppo per il formulario compilato più volte trova sempre difetti inesistenti!Parto domani mattina presto Malpensa-Alghero Risiedo a Lugano. Svizzera ho il treno delle ore 06,00 senza formulario con codice ,sono due giorni che provo in continuazione anche dal sito indicato dalla regione sardegna niente ho spedito diverse email nessuna risposta. Incomprensibile .La causa era un mio errore nella compilazione.!Grazie per la risposta<br> :date: __2020-09-21 16:26:56__
 
 > Buona, mi sono sentito in sicurezza.<br> :date: __2020-09-08 09:38:48__
 
@@ -218,8 +220,6 @@ The Sardegna Sicura app has been installed by more than **100000** times. At thi
 
 > Troppo elaborata<br> :date: __2020-07-28 15:19:03__
 
-> Registrazione perfettamente funzionante (veloce). Tracciamento volontario non attivabile sul mio dispositivo. Aggiornamento: Grazie per il riscontro tempestivo (elevo di 1 stella). Sembra un problema applicativo. Anomalia presente da qualche giorno. Forse legato al dispositivo. Prima dell'aggiornamento non credo accadesse. A disposizione per inviare screenshot.<br> :date: __2020-07-27 18:24:42__
-
 
 
 #### 3-star reviews
@@ -227,6 +227,8 @@ The Sardegna Sicura app has been installed by more than **100000** times. At thi
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="it.regione.sardegna.autorizzazionicovid19 3 reviews"/>
 </p>
+
+> Come già segnalato non permette la cancellazione di spostamenti inseriti e poi non effettuati, in caso di tracciamento, questo creerebbe problemi. Per il resto mi auguro sia utile anche se fin'ora nessuno ha mai verificato la compilazione in aeroporto.<br> :date: __2020-09-18 10:41:11__
 
 > Salve, viaggio con mia moglie e figlia di 13 anni, devono scaricare anche loro l'applicazione per comunicare ciò che chiedete per il soggiorno? Per ora 3 perché sn riuscito ad usarla<br> :date: __2020-09-12 19:10:10__
 
@@ -245,8 +247,6 @@ The Sardegna Sicura app has been installed by more than **100000** times. At thi
 > Via U. Foscolo, 57, 09041 Dolianova CA<br> :date: __2020-08-10 16:01:37__
 
 > App minimale<br> :date: __2020-08-09 19:36:47__
-
-> Salve, volevo sapere se è possibile rettificare il giorno di arrivo in Sardegna, avendo distrattamente sbagliato il giorno di arrivo. Grazie<br> :date: __2020-08-08 12:37:19__
 
 
 
@@ -284,9 +284,15 @@ The Sardegna Sicura app has been installed by more than **100000** times. At thi
 <img src="1_star_reviews_wordcloud.png" alt="it.regione.sardegna.autorizzazionicovid19 1 reviews"/>
 </p>
 
-> Dico io, ma vi rendete conto che vi siete dimenticati dei residenti? Ma secondo voi, io a che categoria appartengo? Non devo soggiornare in Sardegna, ci abito! Non c'è una parola da nessuna parte che chiarisca cosa spetta fare a noi se usciamo per qualche giorno se non per lavoro o salute. Io sono allibito.<br> :date: __2020-09-13 08:05:54__
+> Continue segnalazioni sulla privacy. Bug sulla compilazione dell'autocertificazione con conseguente impossibilità di concludere la registrazione del viaggio. Nella sezione assistenza, cliccando contatti non mostra nulla. Continue interruzioni del tracciamento in tempo reale.<br> :date: __2020-09-21 12:46:39__
 
-> Inutile<br> :date: __2020-09-12 23:29:34__
+> Buongiorno, in effetti ho scritto Inutile, ma devo aggiungere che la risposta è utile quanto l'APP! cosi giusto per far capire il livello di comunicazione<br> :date: __2020-09-18 10:44:18__
+
+> Una schifezza di dubbia utilità<br> :date: __2020-09-17 19:06:01__
+
+> App inutile e una perdita di tempo scaricarla e registrarsi se poi nessuno quando arrivi in Sardegna fa i controlli sicuramente non si combatte il covid con questa inutile app La regione Sardegna dovrebbe sensibilizzare la popolazione a seguire le norme anticovid sicuramente dentro il palazzo non vedono quello che succede fuori pochi usano la mascherina distanze si sicurezza zero ormai ci si saluta co strette di mano baci abbracci i giovani che bevono dallo stesso bicchiere<br> :date: __2020-09-16 14:47:15__
+
+> Dico io, ma vi rendete conto che vi siete dimenticati dei residenti? Ma secondo voi, io a che categoria appartengo? Non devo soggiornare in Sardegna, ci abito! Non c'è una parola da nessuna parte che chiarisca cosa spetta fare a noi se usciamo per qualche giorno se non per lavoro o salute. Io sono allibito.<br> :date: __2020-09-13 08:05:54__
 
 > È impossibile registrarsi<br> :date: __2020-09-12 09:31:24__
 
@@ -297,11 +303,5 @@ The Sardegna Sicura app has been installed by more than **100000** times. At thi
 > Facile ma Inutile, non me l'hanno mai controllata né all'arrivo in Sardegna, né durante il soggiorno, né alla partenza.<br> :date: __2020-09-10 10:38:56__
 
 > Inutile, girato 2 settimane per la Sardegna, nessuno ci ha chiesto nulla, ne allo sbarco ne all'imbarco, soldi sprecati.<br> :date: __2020-09-07 08:21:27__
-
-> Non si riesce a registrare l'uscita. Non si riesce a registrare gli spostamenti. Addirittura non è più presente la registrazione della mia entrata. Sarebbe decisamente più semplice poter integrare eventuali spostamenti man mano che accadono, anziché scolpire la prima registrazione nel granito e ricominciare da capo a ogni spostamento. Inutilmente macchinosa.<br> :date: __2020-09-05 15:11:19__
-
-> Non si apre nonostante la password sia esatta<br> :date: __2020-09-04 14:50:44__
-
-> Dopo 4 tentativi con reinserimento di tutti i dati ogni volta, desisto e vado da un altra parte.<br> :date: __2020-09-01 23:34:56__
 
 
