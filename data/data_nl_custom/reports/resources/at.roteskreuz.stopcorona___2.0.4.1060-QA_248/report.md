@@ -182,10 +182,12 @@ No recent reviews available with 3 stars.
 #### 2-star reviews
 
 <p align="center">
-
+<img src="2_star_reviews_wordcloud.png" alt="at.roteskreuz.stopcorona 2 reviews"/>
 </p>
 
-No recent reviews available with 2 stars.
+> Sprachen duitch nichts da<br> :date: __2020-09-22 12:29:59__
+
+
 
 #### 1-star reviews
 
