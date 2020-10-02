@@ -164,6 +164,14 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 <img src="5_star_reviews_wordcloud.png" alt="de.xikolo.openwho 5 reviews"/>
 </p>
 
+> It's educative<br> :date: __2020-10-01 11:38:30__
+
+> This app won't open.<br> :date: __2020-10-01 04:43:02__
+
+> Nice<br> :date: __2020-09-30 13:07:13__
+
+> Ok<br> :date: __2020-09-24 12:09:36__
+
 > I find it easy to use<br> :date: __2020-09-22 08:04:34__
 
 > Very easy to use. Simplicity and ease to find valueable covid19 health information and great covid19 understanding courses.<br> :date: __2020-09-19 12:26:49__
@@ -175,14 +183,6 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 > Finest app to learn the various courses by WHO<br> :date: __2020-09-11 08:19:06__
 
 > Best for free online degree courses from WHO Updated<br> :date: __2020-09-08 13:57:44__
-
-> V good<br> :date: __2020-09-08 01:42:12__
-
-> 👍<br> :date: __2020-09-04 15:38:15__
-
-> Very helpful<br> :date: __2020-09-04 07:51:47__
-
-> Good<br> :date: __2020-08-31 11:32:11__
 
 
 
@@ -276,6 +276,8 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 <img src="1_star_reviews_wordcloud.png" alt="de.xikolo.openwho 1 reviews"/>
 </p>
 
+> Very bad experience i got unable to login very bad i fell worst experience<br> :date: __2020-09-26 10:55:02__
+
 > Ok<br> :date: __2020-08-10 23:31:14__
 
 > This is called an "Emergency" app but requires registration? Very disappointing.<br> :date: __2020-08-06 20:55:46__
@@ -293,7 +295,5 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 > No real news<br> :date: __2020-06-10 20:20:26__
 
 > Dirty apps<br> :date: __2020-06-08 01:02:18__
-
-> Not sign in properly Many times error<br> :date: __2020-05-29 19:05:54__
 
 

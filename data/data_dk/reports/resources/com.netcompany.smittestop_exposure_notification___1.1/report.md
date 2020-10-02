@@ -148,6 +148,10 @@ The Smittestop app has been installed by more than **100000** times. At this tim
 <img src="5_star_reviews_wordcloud.png" alt="com.netcompany.smittestop_exposure_notification 5 reviews"/>
 </p>
 
+> Det ville fandme være smart, hvis alle havde den app her!<br> :date: __2020-09-29 22:46:47__
+
+> Du skal downloade denne app så kan du føle dig lidt mere sikker i det offentlige!<br> :date: __2020-09-24 17:28:21__
+
 > Cannot start on android 11. For others, Android 11 enables to use it without actually having location on. (Google thing)<br> :date: __2020-09-13 00:21:30__
 
 > Awesome<br> :date: __2020-08-21 00:40:31__
@@ -164,10 +168,6 @@ The Smittestop app has been installed by more than **100000** times. At this tim
 
 > It's a pity that this app isn't in English, as I live in Denmark and my danish isn't very good.<br> :date: __2020-07-30 20:58:35__
 
-> Perfect app. Quietly doing it's job in the background. Hope some day it will work over the borders too when traveling around. It signalled that I have been in contact with other phones already and that's exactly what it should do.<br> :date: __2020-07-26 06:26:50__
-
-> Great solution! I am impressed by how well the app and tracing system was designed. It's impressive how the design allows to both ensure absolute privacy of all users while still being able to track infection chains anonymously. Good work!<br> :date: __2020-07-08 17:21:06__
-
 
 
 #### 4-star reviews
@@ -175,6 +175,10 @@ The Smittestop app has been installed by more than **100000** times. At this tim
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.netcompany.smittestop_exposure_notification 4 reviews"/>
 </p>
+
+> Make it available also in english. Tak!<br> :date: __2020-09-27 15:44:33__
+
+> Eagerly awaiting a bugfix for the bug that's in the news. And please allow detecting contacts across a phone "backup, wipe, restore" sequence, as the backup app reported that you don't. Desired bonus featue: Basic stats display like "Active for XX hours with XX different IDs, XXX anonymous contact IDs recorded, 0 contact IDs were infectious, you are NOT registered as infected, latest list of infectIous IDs downloaded yesterday at HH:MM".<br> :date: __2020-09-26 13:20:28__
 
 > Foreslag: Lav en "Del" knap så man kan sende et direkte link til app'en i App/Play Store via diverse besked apps. Specielt nyttigt for den gruppe der har svært ved at overskue opgaven, selv at skulle søge og downloade app'en.<br> :date: __2020-09-21 07:41:45__
 
@@ -192,10 +196,6 @@ The Smittestop app has been installed by more than **100000** times. At this tim
 
 > I guess it works<br> :date: __2020-07-12 14:22:36__
 
-> Lige til og forklarende. Bruger ikke GPS som nogen ser ud til at tro. Ville dog være rart med en indikation at at den reelt virkede og havde en effekt. F.eks. en sum tæller over exposures på en dag.<br> :date: __2020-06-26 22:34:09__
-
-> Positivt: Beder kun om bluetooth-rettigheder, intet andet; dvs god privacy. Halv-negativt: Fylder 107 MB, hvilket ganske vist er langt bedre end første release, men stadig en del på min telefon, som ikke er helt ny.<br> :date: __2020-06-23 00:15:32__
-
 
 
 #### 3-star reviews
@@ -203,6 +203,10 @@ The Smittestop app has been installed by more than **100000** times. At this tim
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="com.netcompany.smittestop_exposure_notification 3 reviews"/>
 </p>
+
+> On my phone, background exposure checks are not regularly performed. Last one was 5 days ago (!), in the past 14 days only 8 checks were made. I suspect this is an API issue rather than an app issue, but it seriously decreases effectiveness of the app. I wonder if it might be possible to add a manual "check now" button.<br> :date: __2020-09-30 19:53:17__
+
+> Virker som det skal men en så vigtig app som denne burde være open-source<br> :date: __2020-09-25 14:59:38__
 
 > Idéen med en sådanne app er i virkeligheden super brugbar, dog er effektiviteten af appen direkte sammenhængende med antallet af brugere. Jeg synes derfor ikke at SUM har gjort nok for at reklamere og sprede budskabet om appen. De fleste i min vennegruppe (unge) kender ikke til appen, og jeg har først fornyligt fået mine forældre til at installere appen. Håber i vil overveje dette.<br> :date: __2020-09-07 18:25:30__
 
@@ -220,10 +224,6 @@ The Smittestop app has been installed by more than **100000** times. At this tim
 
 > Let at aktivere, men da den ikke virker udenfor Danmark med andre systemer, er den ikke særlig brugbar. Jeg havde håbet lidt på at man ikke skulle have 7 forskellige apps på for at få noget ud af det. At møde en smittet dansker i en lille by i Spanien eller Thailand er nok ikke så stor, som at møde en lokal der er smittet. Det lyder heller ikke til at man får besked med det samme man står over for en smittet person (telefon). PS : den starter ikke automatisk op...<br> :date: __2020-07-11 23:34:50__
 
-> Expensive app for Denmark to develop. Good that the app now can be downloaded by non danish accounts.... I was wondering if I should wait for the British one and hope it would work with the danish version..<br> :date: __2020-07-03 19:54:41__
-
-> Jeg mangler at kunne se Brugere, af App'en. I den forstand at jeg gerne vil have et tal for hvor mange Bruger jeg har mødt på min dag. Pt virker det som ingen bruger App'en. Ps jeg bor ved et kryds hvor der dagligt passere over 2000 mennesker. Et tal der viser at der er 'liv/bruger af App'en Tak. Uden det føler jeg at jeg er den eneste der bruger App'en.<br> :date: __2020-06-27 01:15:31__
-
 
 
 #### 2-star reviews
@@ -231,6 +231,16 @@ The Smittestop app has been installed by more than **100000** times. At this tim
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="com.netcompany.smittestop_exposure_notification 2 reviews"/>
 </p>
+
+> Ideen med app'en er rigtig god, men den bruger bare alt for meget strøm.<br> :date: __2020-09-28 07:10:46__
+
+> The app should be able to tell me the number of close contacts per week at e.g. +15 min as a info about my interactions<br> :date: __2020-09-26 20:35:58__
+
+> Fejl: Smittestop-app deaktiveres på visse android-enheder(!): På nogle Android-telefoner (herunder OnePlus), bliver smittestop-app'en automatisk sendt i en "energibesparende" tilstand, hvis den ikke er blevet åbnet et stykke tid. Da de færreste åbner app'en efter installationen, deaktiveres den altså automatisk uden, at brugeren er opmærksom på det. Jeg har selv haft problemet, som jeg løste ved at tage app'en ud af energispar-funktionen - men det kræver teknisk indsigt - samt en indsats for at identificere hvad problemet er. Jeg forestiller mig, mange brugere har en inaktiv installation ude at vide det. Hvis denne situation opstår hos en bruger, bør App'en bør gøre opmærksom på det - og hjælpe brugeren med at løse situationen.<br> :date: __2020-09-26 13:03:20__
+
+> You can't even select the text to copy it into translate<br> :date: __2020-09-25 08:07:45__
+
+> Når app installeres, skrives der at GPS ikke benyttes. Dette gør app'en dog, og det bør skrives korrekt. Både at have Bluetooth og GPS tænd, sluger batteri!<br> :date: __2020-09-24 23:10:30__
 
 > It drains my phone battery to death, it cannot be used! And by the way, what about some more languages??<br> :date: __2020-09-13 10:48:02__
 
@@ -242,16 +252,6 @@ The Smittestop app has been installed by more than **100000** times. At this tim
 
 > Good idea but crucial notification for status is still missing. It seems to work as intented but the design is not with actual users in mind. There is no indication on the status of the application running in the background. This leads to me forgetting turning it on and/or off as I have no idea without opening the app. Also there are too many steps to turn it on (3 taps is a lot).<br> :date: __2020-07-31 22:16:28__
 
-> Alert notifications keep turning off???<br> :date: __2020-07-01 06:29:47__
-
-> App'en tænder ikke når jeg trykker bekræft, har både bluetooth, GPS og data slået til<br> :date: __2020-06-29 11:41:00__
-
-> 1. Bruger appen centralized report processing eller decentralized report processing? 2. Hvorfor er det nødvendigt at logge ind med NemId? Her samler i jo datalogs og knytter det på personen med det pågældende NemId? Dvs. myndighederne har kontrol over præcis hvilke personer der er smittet, da det er knyttet op på NemId.<br> :date: __2020-06-26 13:38:34__
-
-> Synes ikke at appen opretholder det der bliver lovet mht. At det kun er Bluetooth der skal bruges. Bliver ved med at få en pop-up med, at jeg skal slå min lokation til på telefonen, hvilket gør mig ekstra skeptisk og holder mig endnu mere tilbage på at frigive informationerne mht den del om jeg er testet positivt eller ej vha. NemID. forhåbentlig bliver dette fikset, men tager det for lang tid, bliver appen irrelevant.<br> :date: __2020-06-26 10:58:40__
-
-> Sluger en del strøm...<br> :date: __2020-06-22 17:06:19__
-
 
 
 #### 1-star reviews
@@ -259,6 +259,8 @@ The Smittestop app has been installed by more than **100000** times. At this tim
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="com.netcompany.smittestop_exposure_notification 1 reviews"/>
 </p>
+
+> det arbejder ikke<br> :date: __2020-09-26 11:06:40__
 
 > Det er meget uheldigt at app'en ikke automatisk starter op hvis man genstarter telefonen. Efter 4 uger opdagede jeg at app'en slet ikke var aktiv - hvilket er helt tosset. Det bliver i simpelthen nød til at rette. App'en stopper og starter ikke igen - meget problematisk.<br> :date: __2020-09-19 11:10:26__
 
@@ -277,7 +279,5 @@ The Smittestop app has been installed by more than **100000** times. At this tim
 > Only in 1 language 😒<br> :date: __2020-08-25 09:33:37__
 
 > App should be available in English. International Travelers are a big risk factor and they need to be able to use the app. So even before accepting to any terms and conditions it needs to be possible to change to english and maybe some other languages. Otherwhise the app is useless.<br> :date: __2020-08-23 10:38:30__
-
-> Requires location to be turned on. And I am not interested in sharing my location constantly with Google! Bluetooth is fine, location no-go. Svar til developer reply: Det er muligt at smittestop app'en opfører sig pænt, men det er der ingen garanti for at andre apps vil.<br> :date: __2020-08-18 12:05:15__
 
 

@@ -147,25 +147,25 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 <img src="5_star_reviews_wordcloud.png" alt="at.roteskreuz.stopcorona 5 reviews"/>
 </p>
 
+> Bei mir tut die App was sie soll. Habe regelmäßig Handshakes (wenn ich in der Stadt unterwegs bin). Das Einzige, was ich nicht weiß ist, ob die App auch funktioniert, wenn man mittels Bluetooth mit der Smartwatch verbunden ist? Habe das bereits gegoogled, bin aber nicht schlau draus geworden leider.<br> :date: __2020-10-01 23:03:52__
+
+> Mit der Implementierung einer Schnittstelle im Android Betriebssystem durch Google, scheint die App nun wirklich gut zu funktionieren. Eine Bitte jedoch: in der App sollte man darauf hinweisen, dass die Anzahl der Handshakes nicht mehr dargestellt wird (aufgrund von Datenschutzbestimmungen).<br> :date: __2020-09-30 17:30:24__
+
+> damit fühle ich mich sicherer.<br> :date: __2020-09-27 18:35:29__
+
+> 5 Sterne, weil es wichtig wäre, dass sie mehr Menschen auch nützen!<br> :date: __2020-09-26 09:33:34__
+
+> Sehr gute Idee! Die Umsetzung wurde verbessert und somit 5*.<br> :date: __2020-09-25 12:11:35__
+
+> Ich habe diese App seit 4 Tagen und heute erst den 1. gefunden der mir einen digitalen Handshake gibt. (meinen Sohn). Leider ist niemand in meinem Umfeld bereit, sich diese App runterzuladen. Also für mich im Moment mehr als sinnlos.<br> :date: __2020-09-25 07:00:20__
+
+> Die App ist nicht perfekt, aber sie wird zunehmend besser und wichtiger, daher 5 Sterne. Der Stromverbrauch ist im Gegensatz zu früher kein Thema mehr. Darum kann die App auch bedenkenlos von Energiesparmaßnahmen ausgeschlossen werden. Die von Google aufgelisteten Überprüfungen sind keine direkten Handshakes mit anderen Geräten, sondern lediglich Serversynchronisationen: Die App soll dem User keine datenschutz-bedenkliche Kontaktlisten liefern, sondern informieren, OB es Covid-19-Kontakt gab.<br> :date: __2020-09-24 14:01:00__
+
 > Passt! Eine, der notwendigen Maßnahmen. Schade, dass die Lügner ind Verschwörungstheoretiker versuchen, die App kaputtzureden.<br> :date: __2020-09-21 15:28:54__
 
 > Sollten halt alle mitmachen.<br> :date: __2020-09-20 10:45:18__
 
 > Finde sie sehr gut.<br> :date: __2020-09-20 10:18:21__
-
-> Sollte noch mehr von vorallem Berufstätigen benützt werden ť<br> :date: __2020-09-20 09:34:49__
-
-> Besser als eine Ampel - extrem sinnvoll !!<br> :date: __2020-09-19 19:54:33__
-
-> Ich würde die App jedenfalls weiterempfehlen. Die Bedienung ist ganz einfach - Bluetooth anschalten und dann bekommt man eine Warnung für den Fall, dass man sich einem ernsthaften Risiko ausgesetzt hat. In Deutschland ist die App weit verbreitet. Das ist wohl auch ein Grund wieso die bessere Fallzahlen haben als wir. Wir können uns definitiv was abschauen.<br> :date: __2020-09-13 17:33:46__
-
-> Ein tolles App funktioniert einwandfrei und kann es nur empfehlen<br> :date: __2020-09-13 13:21:38__
-
-> Anonymisiertes austauschen von Fingerprints im Hintergrund ohne etwas machen zu müssen. Perfekt! Sollte jede/r installiert haben.<br> :date: __2020-09-11 15:16:41__
-
-> Funktioniert und stört das Mobiltelefon nicht.<br> :date: __2020-09-08 09:06:45__
-
-> Funktioniert bei mir bis jetzt tadellos, handshakes werden gespeichert, braucht nicht viel Akku und müllt einem nicht mit zig Benachrichtigungen am Tag zu.<br> :date: __2020-09-07 15:10:43__
 
 
 
@@ -174,6 +174,12 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="at.roteskreuz.stopcorona 4 reviews"/>
 </p>
+
+> Idee ist super, leider klappt der automatische Handshake nicht. Da muss noch nachgebessert werden. Android-zu-Android klappt, aber Android-zu-iOS geht nicht. Viele Smartphone User deaktivieren Bluetooth, da dadurch die WLAN Geschwindigkeit reduziert wird.<br> :date: __2020-09-27 09:29:12__
+
+> Funktioniert<br> :date: __2020-09-25 06:01:38__
+
+> Ja passt. Funktioniert, aber es nutzen zu wenige. Mehr Werbung dafür sonst bringt das nix. Sinnvoll wäre noch, wenn man eine QR Reader einbaut, wo man sich in Lokalen Regestrieren kann. Das wäre sinnvoll.<br> :date: __2020-09-24 18:50:57__
 
 > Net schlecht...<br> :date: __2020-09-20 14:41:56__
 
@@ -189,12 +195,6 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 
 > Ich finde die Idee gut, es braucht aber noch etwas Energie: Zeitstempel der letzten Aktualisierung in der App. Anzahl (nicht mehr) der Kontakte anzeigen (damit man sieht, dass es funktioniert). Aktuelle Corona Statistiken (zb vom Land), damit man Mehrwert durch die App hat. Und internat. Sync.<br> :date: __2020-08-19 07:49:14__
 
-> Es ist Ganz ok man könnte es überichtlicher machen ob man mit einem Infizierten in kontakt getreten ist.<br> :date: __2020-08-17 10:31:18__
-
-> Ein Punkt Abzug für den hohen Akkuverbrauch.<br> :date: __2020-07-31 09:26:20__
-
-> Toll<br> :date: __2020-07-30 17:23:52__
-
 
 
 #### 3-star reviews
@@ -202,6 +202,14 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="at.roteskreuz.stopcorona 3 reviews"/>
 </p>
+
+> Wo finde ich den Selbsttest ?<br> :date: __2020-09-28 14:22:30__
+
+> Idee supergut! Aber kann mir jemand erklären wieso die App zur Benachrichtigung GPS braucht und mir aber ganze Zeit erklärt sie funktioniert ja nur mit Bluetooth? Wäre wirklich interessant<br> :date: __2020-09-26 23:06:24__
+
+> Ich habe den Eindruck dass das App nur Begegnungen überprüft, wenn ich konkret bei App Einstellungen nachfrage. Es tut zwar psychisch gut zu wissen, dass ich bisher keinem der dort gemeldeten Kranken begegnet bin, aber ob das Ding wirklich funktioniert sei dahingestellt. Außerdem bekam ich jüngst eine Meldung übermäßigen Downloadvolumens, was mich dazu bewog die mobile Datenübertragung abzuschalten (nicht erforderliches Standortbestimmen und Blutooth), währenddessen das App nicht arbeitete.<br> :date: __2020-09-26 15:40:57__
+
+> Ich finde es schade, dass die App keine "Statistik" hat. Es wäre durchaus interessant zu wissen mit wievielen Unbekannten man Kontakt hatte.<br> :date: __2020-09-24 19:11:49__
 
 > 1 Überprüfung/ Datenaustausch mit dem Server innerhalb 14 Tagen trotz steigenden Zahlen ist mehr als zuwenig. Bitte beheben.<br> :date: __2020-09-23 06:50:19__
 
@@ -215,14 +223,6 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 
 > Generell gut, allerdings wird man, wenn bereits in Quarantäne und alle Kontakte verständigt, mehrmals am Tag weiterhin gefragt, ob die Kontakte verständigt werden sollen. Wenig sinnvoll, finde ich... Und sehr lästig!<br> :date: __2020-09-05 18:41:05__
 
-> Die App funktioniert derzeit.... Ich hoffe, es bleibt so.<br> :date: __2020-09-04 11:11:07__
-
-> Seit ich die App installiert habe, hält mein Handy Akku nur mehr die halbe Zeit und muss jeden Tag aufgeladen werden, vorher alle zwei Tage. Das ist gar nicht gut<br> :date: __2020-09-03 23:30:58__
-
-> Ein Hinweis auf die erfolgreiche Überprüfung der Kontakte wäre wünschenswert.<br> :date: __2020-09-01 08:04:36__
-
-> Gute Idee, leider gibt es so wenige Leute die die App besitzen, dass ich bis jetzt immer 0 Abgleichungen hatte<br> :date: __2020-08-18 10:39:24__
-
 
 
 #### 2-star reviews
@@ -230,6 +230,10 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="at.roteskreuz.stopcorona 2 reviews"/>
 </p>
+
+> Wird sich nicht ohne staatliches zutun durchsetzen. App selbst ist fragwürdig gestaltet.<br> :date: __2020-09-27 22:08:11__
+
+> Unbrauchbar: Funktioniert nicht ohne aktivierte Standortbestimmung<br> :date: __2020-09-26 10:41:27__
 
 > Die Idee ist toll, aber solange es nicht verpflichtend ist und die App dir meiste Zeit über nicht trackt, wird dieses Projekt sein Ziel nie erreichen können.<br> :date: __2020-09-22 14:06:04__
 
@@ -247,10 +251,6 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 
 > Angeblich hat die App 20.000.000 Euro gekostet; da würde man sich etwas mehr erwarten: 1.) Ist der Schalter "Automatische Handshake" ein/aus ident mit dem Schalter "COVID 19-Benachrichtigung aktivieren"? Wenn ja, warum verwendet man zwei verschiedene Bezeichnungen? Ich kann keinen Unterschied feststellen! Wenn ich "COVID 19-Benachrichtigung aktivieren" ausschalte, dann wird noch "Automatische Handshake" als aktiv angezeigt, obwohl es auch ausgeschaltet ist. Nach Neustart sind beide auf aus. Das ist ein FEHLER bei der Anzeige! 2.) Die Liste der möglichen Begegnungen ist unter dem Menüpunkt "App-Einstellungen" zu finden. Das ist total unlogisch! 3.) Die Liste der möglichen Begegnungen ist NICHT sortiert. Das Datum wird in zufälliger Reihenfolge angezeigt! 4.) Was bedeutet "Anzahl der Schlüssel"??<br> :date: __2020-08-17 16:04:07__
 
-> GPS? Weil andere zu GPS geschrieben haben: zumindest bei der jetzigen Version (7/2020) wird GPS nicht benötigt, nur Bluetooth. Die Gestaltung könnte wesentlich besser sein, v.a. die Einbindung der bisherigen Kontakt-IDs, da findet man keine Daten. Man sollte Zeitpunkt eines Kontakts sehen können, so hat man keine Ahnung ob die App funktioniert!<br> :date: __2020-08-15 11:27:18__
-
-> Wie kann ich meine vergangenen Benachrichtigungen ansehen? Gar nicht :(<br> :date: __2020-08-10 21:05:59__
-
 
 
 #### 1-star reviews
@@ -259,24 +259,24 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 <img src="1_star_reviews_wordcloud.png" alt="at.roteskreuz.stopcorona 1 reviews"/>
 </p>
 
+> Es ist nicht möglich Entwarnung zu geben, es kommt immer der Fehler (Serverfehler)<br> :date: __2020-10-02 13:35:41__
+
+> Aufhebung der Warnung bei Symptomen nach negativem Testergebnis funktioniert nicht. Daher werden Kontakte weiterhin angewiesen, sich in Quarantäne zu begeben, obwohl das nicht notwendig ist. Empfehlung vom Support: App neu installieren. Danach weiß die App aber überhaupt nichts mehr von einer Warnung. Daher ist diese App absolut unbrauchbar.<br> :date: __2020-10-01 12:45:40__
+
+> 06.09.2020 nicht überzeugend. Sobald man einen Verdacht meldet, kommt stündlich die Aufforderung, weitere Kontakte zu melden. Da ich insgesamt nur mit einem anderen Handy Kontakt hatte, sollte eine neuerliche Meldung sinnlos sein. 17.09.2020 im Flugmodus erhalte ich eine Benachrichtigung und über diese komme ich zur System-Funktion "Überprüfung auf mögliche Begegnungen". Lt Protokoll wird nur überprüft, wenn die App geöffnet ist, nicht im Hintergrund!<br> :date: __2020-10-01 06:33:30__
+
+> Was für ein Mist! Ich soll mein Bluetooth einschalten, damit mein Handy andere im Umkreis findet. WER hat heute sein Bluetooth an, WER öffnet ein unsicheres Tor für Idioten, die fremde Handys saugen wollen?! Also wirklich blöd aufgebaut und nicht funktionsfähig.<br> :date: __2020-09-30 15:21:41__
+
+> Einfach unsicher !!! Ich habe diese App wieder deinstalliert. Mir ist der Hype um Corona zu anstrengend. Als nächstes kommt eine Grippe App oder Zeckenbiss App....oder was auch immer.... Ich lasse mich nicht durch ein Hintertürchen ausspionieren. Sobald ich das Haus verlasse ist der Flugmodus an oder das Handy mit Fake GPS aktiviert , damit man von Google nicht beobachtet werden kann. Man kann der App genau so wenig trauen wie der Regierung.....das ähnelt ja schon sehr einer Diktatur. Schrott !!<br> :date: __2020-09-30 11:05:45__
+
+> Also habe heute das erste mal eine Warnung bekommen ,bin dann mal auf den Verlauf gegangen, da sind Uhrzeit drinnen, da schlafen normale Menschen meine Frage deshalb wie weit reicht dss Handshake,kann es sein das ein Nachbar gemeint ist ....Hab das jetzt beobachtet, ich denke das App ist unbrauchbar, ich müsste die ganze nacht unterwegs gewesen sein und alleine um halb 6 uhr morgens hätte jemand neben mir sitzen müssen. Nicht empfehlenswert, schmeiss es vom Handy<br> :date: __2020-09-27 07:34:32__
+
+> Ich hatte im Bekannten Kreis 2 positive Fälle. Beide wurden über die App gemeldet. Ich habe keine Benachrichtigung bekommen. Also funktioniert nicht.<br> :date: __2020-09-25 15:17:47__
+
+> War eine der wenigen die von Anfang an die App installiert hatte, hab sie aber jetzt gelöscht.. Wenn ich selber ein Verdachtsfall bin will ich andere warnen, aber nicht jede Stunde wenn ich mich sowieso in Quarantäne begeben habe. Und funktioniert hat's auch nicht, da meine Eltern keine Benachrichtigung auf ihrer App bekommen haben.. Danke für nichts.. Und die Entwarnung zwei Tage später hat auch nicht funktioniert. Steht immer Serverproblem.<br> :date: __2020-09-25 12:52:37__
+
+> Entwarnung geben nach einem Verdachtsfall funktioniert nicht. Da kommt nach dem TAN seit Tagen die Fehlermeldung "es ist ein unbekannter Fehler aufgetreten"<br> :date: __2020-09-25 11:24:06__
+
 > Die App ist entäuschend .... Schade, dass die Corona-Warn-App vom Robert-Koch-Institut nur für Deutschland ausgelegt ist. So würde ich mir die App für Österreich auch vorstellen. Ihr solltet euch ein Beispiel nehmen. Die ist übersichtlich, nett designt, einfach handzuhaben und funktioniert (in Deutschland) super.<br> :date: __2020-09-23 16:14:27__
-
-> Alles OK, allerdings haben wahrscheinlich zu wenig Leute mit Smartphones die App installiert.<br> :date: __2020-09-22 17:36:50__
-
-> (September 2020) Im September 2020 war ich krank und habe wahrheitsgemäß die Fragen zum Gesundheitsstatus beantwortet. Ich selber war nur als Verdachtsfall klassifiziert. Daraufhin hat meine Frau in der App die Benachrichtigung bekommen, dass sie Kontakt zu einem Corona-Positiven hatte und 6 Tage in Quarantäne muss. Das ist falsch und nicht zielführend! (April 2020) Kontaktverfolgung mangelhaft. Handshake funktioniert nicht (transparent).<br> :date: __2020-09-21 09:37:52__
-
-> Hab Sie am 15.09 runter geladen und wollte sie auch am Handy meines Sohnes (Samsung J3) installieren und es ist nicht kompatibel wie mir die App mitteilt. SEHR SINNVOLL!!!! Hab auf dem Handy meines Sohnes Corona Apps von anderen Ländern angeschaut und tata die sind kompatibel nur die aus dem Heimatland nicht 🤦 Nachtrag 20.05.2020 Habe 10 Stunden Dienst hinter mir und es wurde in der ganzen Zeit keine Überprüfung oder wie das heißt gemacht, erst als ich wieder zuhause war 👍<br> :date: __2020-09-20 02:24:07__
-
-> Wallah beste App<br> :date: __2020-09-19 17:31:45__
-
-> das ganze scheint leider nicht zu funktionieren. Kontakte werden nicht getrackt wenn man andere Personen mit Corona App trifft. Halbherzige Umsetzung<br> :date: __2020-09-18 22:09:40__
-
-> 3. Versuch mitte September. Seit Juli keine Updates, somit alles wie gehabt und App fliegt wieder vom Handy: 2. Versuch mit dem Framework von Google und Apple. Leider immer noch völlig unbrauchbar für den Enduser. Vorher hat man wenigstens noch gesehen, dass andere Personen getrackt wurden. Jetzt nix mehr. Die App fliegt endgültig vom Handy<br> :date: __2020-09-17 09:47:16__
-
-> 06.09.2020 nicht überzeugend. Sobald man einen Verdacht meldet, kommt stündlich die Aufforderung, weitere Kontakte zu melden. Da ich insgesamt nur mit einem anderen Handy Kontakt hatte, sollte eine neuerliche Meldung sinnlos sein. 17.09.2020 im Flugmodus erhalte ich eine Benachrichtigung und über diese komme ich zur System-Funktion "Überprüfung auf mögliche Begegnungen". Lt Protokoll wird nur überprüft, wenn die App geöffnet ist, nicht im Hintergrund! —> deinstalliert weil sinnlos<br> :date: __2020-09-17 06:36:53__
-
-> Lässt sich nicht nur auf dem Telefonspeicher installieren und nicht auf die externe Speichetkarte verschieben.<br> :date: __2020-09-16 18:49:09__
-
-> also es sieht ja nett aus, aber wie hier schon bemängelt wurde, ergeben die gespeicherten IDs keinen Sinn.. und warum ist die Ortung noch immer erforderlich wenn der Handshake über Bluetooth erfolgt?<br> :date: __2020-09-15 17:58:22__
 
 

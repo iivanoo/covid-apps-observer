@@ -171,6 +171,10 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <img src="5_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 5 reviews"/>
 </p>
 
+> Menos má<br> :date: __2020-09-29 06:30:15__
+
+> Funciona muito bem!<br> :date: __2020-09-27 00:32:55__
+
 > MUITO ÚTIL ! OBRIGADO<br> :date: __2020-09-11 10:57:40__
 
 > Perfeito<br> :date: __2020-09-09 02:55:00__
@@ -186,10 +190,6 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 > Excelente serviço.<br> :date: __2020-08-30 18:11:13__
 
 > A chave móvel digital é facilmente conseguida em qualquer loja do cidadão na área dos B. Is/Cartao de Cidadão. Depois é só navegar. Muito simples e intuitivo<br> :date: __2020-08-28 21:14:32__
-
-> Excelente<br> :date: __2020-08-18 19:42:54__
-
-> Funciona lindamente. Tem toda a informação disponível. O acesso é rápido, desde que já se tenha efetivado o registo na chave móvel digital, que nada tem a ver com esta aplicação, mas sim com um acesso seguro a todos os serviços da administração pública!<br> :date: __2020-08-14 13:39:47__
 
 
 
@@ -283,6 +283,14 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <img src="1_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 1 reviews"/>
 </p>
 
+> Não consigo entrar no site e fazer qualquer pedido de medicação... quem me pode ajudar???!!!<br> :date: __2020-09-30 19:11:52__
+
+> Péssima aplicação. Não temos acesso a atestados médicos ou altas médicas ou relatórios. Para além disso as apps são redundantes. Bastava uma que desse acesso a tudo de forma clara e não nos fizesse voltar atrás sistematicamente.<br> :date: __2020-09-29 16:36:06__
+
+> Basta um pequeno engano bloquei-a logo a CMD não há o mínimo de tolerância<br> :date: __2020-09-27 12:06:02__
+
+> Nao consigo entrar<br> :date: __2020-09-26 16:30:24__
+
 > Não consigo por causa cokies ?<br> :date: __2020-09-18 15:07:47__
 
 > Como é que os menores acedem a app, e ja agora como se acede a chave movel digital de familia, tal como esta no site.<br> :date: __2020-09-03 22:49:57__
@@ -294,13 +302,5 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 > Que desgraça de aplicação, instalo e não é compatível com a minha versão de Android versão 10<br> :date: __2020-08-31 19:57:04__
 
 > Nao serve para nada. Sempre bloqueada....sem acesso. Inutil<br> :date: __2020-08-29 13:15:34__
-
-> Para Android mais antigo!<br> :date: __2020-08-28 21:30:22__
-
-> E péssima, não e funcional para a maioria da população<br> :date: __2020-08-23 15:21:51__
-
-> Não se consegue entrar a não ser que se tenha um leitor de cartões<br> :date: __2020-08-06 14:37:20__
-
-> Para android mais antigo !????<br> :date: __2020-08-02 11:06:09__
 
 
