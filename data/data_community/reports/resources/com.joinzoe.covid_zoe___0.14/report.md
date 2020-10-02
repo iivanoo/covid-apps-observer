@@ -199,25 +199,25 @@ The COVID Symptom Study app has been installed by more than **1000000** times. A
 <img src="5_star_reviews_wordcloud.png" alt="com.joinzoe.covid_zoe 5 reviews"/>
 </p>
 
-> Keeps me involved<br> :date: __2020-09-23 08:19:22__
+> Easy<br> :date: __2020-10-02 11:40:10__
 
-> This app is very quick to fill in each day, only takes seconds. It is also full of very useful information and helps keep you up to date with results of new studies. Highly recommend.<br> :date: __2020-09-23 08:14:01__
+> Very simple and takes seconds to do<br> :date: __2020-10-02 09:58:57__
 
-> Quick and easy to use daily<br> :date: __2020-09-23 08:01:29__
+> Good information on Covid-19 by area.<br> :date: __2020-10-02 09:37:56__
 
-> Easy to use<br> :date: __2020-09-23 07:57:50__
+> Easy to use - really like the research areas e.g. blood type. Great to help the research for Covid.<br> :date: __2020-10-02 09:36:12__
 
-> easy to use<br> :date: __2020-09-23 07:56:38__
+> Very quick and easy to use<br> :date: __2020-10-02 09:32:25__
 
-> Easy to use and very informative.<br> :date: __2020-09-23 07:45:15__
+> It's is comforting to know that my daily responses might help provide information that could help overcome the virus.<br> :date: __2020-10-02 09:15:14__
 
-> This app is so important! It takes a few minutes to initially set up but around 30 seconds to report daily. It also comes with up to date information about the rate of people showing symptoms in your area. Take a few seconds everyday to report, even if you're healthy. If you start feeling sick, I imagine the questions becone more in depth and, I'm told, you'll get information on how to properly respond. Stay alert, stay safe!<br> :date: __2020-09-23 01:35:31__
+> must have, Helping it help all<br> :date: __2020-10-02 08:56:29__
 
-> Please download this app. Tracer app it is simply reporting your symptoms. There are over 4 million users and through this app they have found there is six subtypes of the Coronavirus period there are different symptoms than they thought because people are reporting. I wish I could do covid tracing but it's not available in my area. Maybe you guys could incorporate that into it. They asked you to report your symptoms every day and if you have a covid test. They need more people to report.<br> :date: __2020-09-23 00:54:26__
+> Easy to do self test, proud to part of this important test<br> :date: __2020-10-02 08:34:58__
 
-> Very easy and helping with the virus.<br> :date: __2020-09-23 00:16:14__
+> Its a very good app<br> :date: __2020-10-02 07:40:45__
 
-> Useful<br> :date: __2020-09-22 23:27:27__
+> Essential- clear, concise, trustworthy<br> :date: __2020-10-02 07:37:19__
 
 
 
@@ -227,25 +227,25 @@ The COVID Symptom Study app has been installed by more than **1000000** times. A
 <img src="4_star_reviews_wordcloud.png" alt="com.joinzoe.covid_zoe 4 reviews"/>
 </p>
 
-> App didn't load as usual. Had to reset password to use it<br> :date: __2020-09-23 06:31:50__
+> Easy to use. Interesting maps showing up to date local infection rates.<br> :date: __2020-10-02 11:13:21__
 
-> Really good and important app which I've used throughout the pandemic. However daily notification reminders to report have stopped working since I got a new Samsung phone, even after uninstalling the app on my old phone. The same has happened to two friends. The option to turn on notifications just takes us to the notifications menu in Android but there's nothing about the covid app there. Please fix this and help us remember to keep reporting daily!<br> :date: __2020-09-23 01:14:04__
+> Teething problems over everything working.<br> :date: __2020-10-02 09:02:54__
 
-> Takes a lot of information, but seems a little repetative.<br> :date: __2020-09-22 19:34:30__
+> Its so great to be able to take a few short minutes and help a worthwhile cause. My only issue with the app is for the healthcare workers exposure questions, there is no option for working with patient that neither have covid or are nor presumed to have covid, for example surgical patients who have already been screened, tested, and have no symptoms, but are still in hospitals being taken care of by healthcare workers. Hope this feedback helps them fix the issue and get more accurate results<br> :date: __2020-10-01 21:00:07__
 
-> Easy to after the initial setup steps<br> :date: __2020-09-22 17:45:11__
+> I have had this Ap since launched. I find it Works really well & easy to use. With the added bonus of information from scientist.<br> :date: __2020-10-01 12:06:35__
 
-> occasional bugs, notifications stopped and I had to uninstall and reinstall the app to get them going again. Otherwise the app is easy to use and obviously for a worthwhile cause.<br> :date: __2020-09-22 17:41:48__
+> Keeping us all safe<br> :date: __2020-10-01 10:16:51__
 
-> Easy to use on the whole, although you have to click Create Account to access Sign In, which is initially confusing when account already created. Also a bit annoying is not being able to see what you're typing, when reporting extra symptoms/relevant info. I have to click back to ensure correct typing! Update 09/20, new additional questions easy to use. Easier to log in now.<br> :date: __2020-09-22 16:58:16__
+> Easy and helps yourself track the ailments over the past months, which is surprisingly many, and self explanatory to why I feel certain way due to ailments weeks previously.<br> :date: __2020-10-01 09:27:14__
 
-> Good to be able to check local cases good to help with any information that might be of use.<br> :date: __2020-09-22 15:46:21__
+> Gives better information than the govt are right now 😑<br> :date: __2020-10-01 08:15:49__
 
-> Very easy to use!<br> :date: __2020-09-22 14:56:40__
+> so far so good 👍 essential information about this virus<br> :date: __2020-10-01 00:00:59__
 
-> Easy to use, had to reinstall twice<br> :date: __2020-09-22 13:14:40__
+> I find the questions posed once a week difficult to answer...they are not clear.<br> :date: __2020-09-30 21:50:53__
 
-> Good things to no<br> :date: __2020-09-22 12:02:46__
+> Seems easy to use<br> :date: __2020-09-30 14:59:10__
 
 
 
@@ -255,25 +255,25 @@ The COVID Symptom Study app has been installed by more than **1000000** times. A
 <img src="3_star_reviews_wordcloud.png" alt="com.joinzoe.covid_zoe 3 reviews"/>
 </p>
 
-> Great idea and I have been a regular, and consistent, user of the app from quite early in the pandemic. Unfortunately, my reporting has become less consistent recently because I no longer receive prompts. Notifications are set on in the operating system settings, so the problem appears to be with the app. The website does not provide contact details for support, directing me instead to feedback here. If this can be fixed, my rating would be 5*.<br> :date: __2020-09-22 16:38:17__
+> Nice little app<br> :date: __2020-10-01 19:06:28__
 
-> Ok<br> :date: __2020-09-22 16:14:00__
+> No longer gives me daily notification reminders to complete.<br> :date: __2020-09-29 20:05:22__
 
-> I think you should be asking about daily interactions and mask wearing, visits to places and relatively risky behaviors.<br> :date: __2020-09-22 08:36:42__
+> Profile editing needs improvement.<br> :date: __2020-09-29 12:30:51__
 
-> This app has problems when trying to make an account and password. I got an error the first try, but worked the next day. My husband also got an error but hasn't tried a second time. I emailed the company on the problem and attached a screenshot.<br> :date: __2020-09-21 21:05:45__
+> Some feedback... on adding a user profile you force the user to enter a blood group. Please add an option for "don't know".<br> :date: __2020-09-28 14:41:59__
 
-> I don't know my blood type, so I can't register, even though I would very much like to. This seems unnecessary. There should be a 'don't know' option.<br> :date: __2020-09-21 17:08:00__
+> All OK here<br> :date: __2020-09-27 11:39:54__
 
-> Brilliant app however can no longer see map data.<br> :date: __2020-09-21 16:05:00__
+> Was fine until a couple of days ago but now I am unable to open the App and report<br> :date: __2020-09-27 08:53:13__
 
-> Ok<br> :date: __2020-09-21 13:59:38__
+> Too much scrolling, then back to beginning to do someone else<br> :date: __2020-09-26 10:04:53__
 
-> Too new to see whether useful to user but researchers will be the ones to assess. Would like Highlands broken into counties!<br> :date: __2020-09-21 11:50:34__
+> Data is missing characters, eg '600 cases' being shown as '60 cases'<br> :date: __2020-09-24 17:56:13__
 
-> Since moving to an S10, the daily reminder has stopped working.<br> :date: __2020-09-21 10:53:52__
+> Not now<br> :date: __2020-09-23 18:50:05__
 
-> Quite troublesome with initial signing in as I had had a Covid test as part of another study. This seemed to confuse the system (& consequently me). Diet listing is comprehensive but very easy to miss sections so better separation would help.<br> :date: __2020-09-20 21:01:36__
+> Buffering and wont open since last update. okay once finally open but not every day. I use data majority of time, not wifi.<br> :date: __2020-09-23 17:26:47__
 
 
 
@@ -283,11 +283,17 @@ The COVID Symptom Study app has been installed by more than **1000000** times. A
 <img src="2_star_reviews_wordcloud.png" alt="com.joinzoe.covid_zoe 2 reviews"/>
 </p>
 
+> Confusing and being forced through pages every day that have already been read.<br> :date: __2020-09-29 12:34:32__
+
+> For fuller coverage, this should be available for PASSIVITY<br> :date: __2020-09-25 15:35:23__
+
+> I think the daily survey should ask more than just how you're feeling. Weight etc may change over time.<br> :date: __2020-09-24 12:13:25__
+
+> Having previously donated cash to this project I have now uninstalled it. Being threatened with a £10,000 fine for failing to comply with a flawed PCR test has lost my interest.<br> :date: __2020-09-24 11:21:03__
+
 > Please reassure me that my data is actually being recorded. The app says I haven't entered any for 4 days. That simply isn't the case. I have missed a day as I forgot to charge my phone, but I entered data Saturday afternoon. This inaccuracy has been there from the beginning. I want to be sure it is worthwhile continuing.<br> :date: __2020-09-21 12:25:55__
 
 > Great idea, but...Why do they ask for so much personal info that does not relate to COVID? Thought it would be quick & easy (I'm sure it is after asking & answering several questions about my Aunt Flo & other questions) I un-installed.<br> :date: __2020-09-19 13:56:05__
-
-> I am repeatedly asked to report on a day I have already reported. The app tells me I missed the previous day when I know I reported<br> :date: __2020-09-13 10:04:19__
 
 
 
@@ -296,6 +302,16 @@ The COVID Symptom Study app has been installed by more than **1000000** times. A
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="com.joinzoe.covid_zoe 1 reviews"/>
 </p>
+
+> It won't let me creat an account and isnt giving me and error message as to what the issue is<br> :date: __2020-10-02 04:58:51__
+
+> I downloaded this app a few days ago and it has now stopped working. I'm unable to find out why this is or what to do about it.<br> :date: __2020-09-26 19:12:32__
+
+> I'm not going to sin in with an email address.<br> :date: __2020-09-26 00:39:30__
+
+> Poorly designed. Doesn't always work. Won't let me fill in forms sometimes. Also can't possibly provide useful results if it can't even distinguish between a posive antibody test and a positive Covid test. The whole app also feels like it wastes my time. It has never once provided me with any useful information in exchange for my inputting my information daily.<br> :date: __2020-09-25 17:44:28__
+
+> How about a link to the data being produced? An on line per capita summary would be in order. Otherwise the app is pure Trumpish bull.<br> :date: __2020-09-23 14:09:34__
 
 > No longer get a daily reminder to log my status. Notifications are turned on and I have uninstall and reinstalled the app but still no reminders. (Samsung Galaxy S10)<br> :date: __2020-09-22 09:12:46__
 
@@ -306,15 +322,5 @@ The COVID Symptom Study app has been installed by more than **1000000** times. A
 > As soon as i installed it, i was getting reminders even after i entered my data. It got too annoying. Im disappointed in the app cuz i thought it would be helpful but its not when itll take my info more than once a day.<br> :date: __2020-09-20 22:20:35__
 
 > Could not install on my samsung a50. It says its installed but there is no icon to click on and no way to get into the app or uninstall. Useless I'm afraid which is a great shame as I would like to help with this pandemic if I can.<br> :date: __2020-09-19 09:33:33__
-
-> If you dont know your blood type dont bother... Was super excited to be part of this went through about 30 questions to get to blood type... Um i dont know so it wont let me move forward... Guess I will uninstall<br> :date: __2020-09-19 05:10:18__
-
-> Notifications have stopped working for last few weeks so after filling out daily since March I now frequently forget. Notification setting doesn't work to switch them on<br> :date: __2020-09-18 08:24:43__
-
-> Impossible to fill out. Blood type is an unskippable question and I don't know mine. Otherwise this would be five stars.<br> :date: __2020-09-17 18:05:46__
-
-> The terms include a class action waiver and arbitration agreement, which I won't accept, so I couldn't use it.<br> :date: __2020-09-17 07:03:28__
-
-> I want to use this app where I'm currently living in Japan but there isn't an option for it. It only says the US, UK, or Sweden.<br> :date: __2020-09-17 05:44:57__
 
 
