@@ -272,6 +272,8 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 <img src="2_star_reviews_wordcloud.png" alt="gov.cdc.general 2 reviews"/>
 </p>
 
+> Esi o.m k.m .w o w 9. Ve o oe oeevdbe dv we DV b ni bbx ab workout db we vbbe okk. E. The, e.e. .<br> :date: __2020-09-26 07:37:44__
+
 > I downloaded this for coronavirus updates for my area no updated information. Some dates back to june 2 abd its July 6th.<br> :date: __2020-07-06 13:27:08__
 
 > No covid-19 disease case count?<br> :date: __2020-06-26 02:32:43__
@@ -290,8 +292,6 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 
 > This damn app doesn't exit<br> :date: __2020-04-23 08:54:01__
 
-> Use the website it is far superior, this app has a blatant lack of organization, however does contain useful information.<br> :date: __2020-04-19 03:08:59__
-
 
 
 #### 1-star reviews
@@ -299,6 +299,8 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="gov.cdc.general 1 reviews"/>
 </p>
+
+> Information over -simplified, misleading, & not reliable. Political Correctness is very Dominant & over-riding information.<br> :date: __2020-09-29 23:04:13__
 
 > We can no longer trust the CDC.<br> :date: __2020-09-03 02:55:12__
 
@@ -317,7 +319,5 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 > No big deal just the same stuff you see in Facebook<br> :date: __2020-08-05 06:42:37__
 
 > Cannot load mos t pages.. Really useless.<br> :date: __2020-07-29 00:43:28__
-
-> Useless<br> :date: __2020-07-28 21:40:00__
 
 

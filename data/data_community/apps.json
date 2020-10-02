@@ -4,13 +4,13 @@
         "store_country": "uk",
         "store_lang": "en",
         "latest_crawled_version": "0.14",
-        "latest_crawl": 1601637181
+        "latest_crawl": 1601643173
     },
     {
         "id": "edu.yale.fas.hunala",
         "store_country": "us",
         "store_lang": "en",
         "latest_crawled_version": "1.0",
-        "latest_crawl": 1601637187
+        "latest_crawl": 1601643176
     }
 ]

@@ -217,6 +217,8 @@ The SiciliaSiCura app has been installed by more than **50000** times. At this t
 <img src="2_star_reviews_wordcloud.png" alt="com.siciliasicura.app 2 reviews"/>
 </p>
 
+> Sono nel punto in cui dovrei copiare il link e procedere con la password.Impostata la password ma non va..Come si fa reimpostare nuova password,mi apra sempre solo schermata del password. E non va oltre.Dove puo essere il problema,oltre la rete che si legge spesso nei commenti?<br> :date: __2020-09-27 09:04:56__
+
 > Non ne ho capito l utilità<br> :date: __2020-09-14 20:19:05__
 
 > Salve, il 30 Agosto scenderò dalle Isole Canarie alla Sicilia . Dovrò fare tampone o anche solo il test sierologico prima della partenza? Grazie<br> :date: __2020-08-15 14:53:34__
@@ -235,8 +237,6 @@ The SiciliaSiCura app has been installed by more than **50000** times. At this t
 
 > Ho fatto la registrazione compilando il modulo ma dopo tempo continuo a non ricevere nessuna mail di conferma...<br> :date: __2020-07-03 09:45:20__
 
-> Un app con diversi malfunzionamenti , una volta registrati quando si prova a fare il check in pur avendo attivato la geolocalizzazione, il sistema si blocca, dice di attivare la geolocalizzazione già attiva e rimanda al numero verde<br> :date: __2020-07-01 07:45:11__
-
 
 
 #### 1-star reviews
@@ -244,6 +244,14 @@ The SiciliaSiCura app has been installed by more than **50000** times. At this t
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="com.siciliasicura.app 1 reviews"/>
 </p>
+
+> Una cavolata infinita... la gente non istalla appimmuni che non richiede alcun dato sensibile per paura della privacy... qui invece occorre lasciare tutti i dati sensibili non si sa a chi... per quale utilità? Bho. Sono stato in Sicilia e nessuna struttura mi ha chiesto se avevo scaricato l'app.<br> :date: __2020-09-28 12:28:02__
+
+> Avrei dato zero, pessima app confusionaria, ripetitiva! La Regione Sicilia se ha speso soldi per questa app, ha speso in maniera pessima i soldi dei contribuenti!<br> :date: __2020-09-27 22:25:56__
+
+> L' applicazione nemmeno si apre.<br> :date: __2020-09-27 16:00:07__
+
+> È uno schifo di app non si riesce a registrarsi<br> :date: __2020-09-26 17:01:05__
 
 > L'app non consente di effettuare un nuovo check in in caso di viaggi multipli in Sicilia. Edit: dopo la risposta dello sviluppatore confermo una stella. L'applicazione è incredibilmente farraginosa ( a partire dal fatto che il nome utente è generato automaticamente dal sistema, quindi facilmente dimenticarlo)<br> :date: __2020-09-22 09:36:47__
 
@@ -256,13 +264,5 @@ The SiciliaSiCura app has been installed by more than **50000** times. At this t
 > Vengono richiesti troppi dati, la registrazione è infinita I gestori delle strutture non supportano l'applicazione. Ne ho sentito parlare solo dopo 2 settimane in Sicilia dall'ultimo gestore (ho l'impressione di essere uno dei pochissimi ad usarla). È obbligatoria?? In che modo può essere usata l'informazione sul checkout? Perché prendere la posizione? Come può la posizione GPS essere utile? Sarebbe meglio usare la prossimità Bluetooth come Immuni che per altre ragioni è comunque una porcheria<br> :date: __2020-09-04 20:08:20__
 
 > Ho scaricato app ,ma non si apre.<br> :date: __2020-08-30 16:34:37__
-
-> Non riesco registrarmi. 😤😷<br> :date: __2020-08-26 21:44:06__
-
-> Neanche si apre<br> :date: __2020-08-26 21:10:39__
-
-> Non riesco a scaricare l app...continuamente in download<br> :date: __2020-08-26 10:19:38__
-
-> Inutile, non avviene nessun controllo<br> :date: __2020-08-25 17:11:47__
 
 

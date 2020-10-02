@@ -130,6 +130,12 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 <img src="5_star_reviews_wordcloud.png" alt="gov.vdh.exposurenotification 5 reviews"/>
 </p>
 
+> 🖼❤<br> :date: __2020-10-01 16:31:24__
+
+> Very well done.<br> :date: __2020-09-26 00:07:35__
+
+> It is a very good way to tell of you are possibly in contact with someone.<br> :date: __2020-09-25 18:13:22__
+
 > Very well written app and it protects privacy. This should be a big help in slowing the spread of Covid-19.<br> :date: __2020-09-20 12:28:56__
 
 > Very easy to install, and I get periodic reminders that it's doing its thing in the background. Other apps in my phone have more personal information than COVIDWISE does.<br> :date: __2020-09-17 23:49:10__
@@ -144,12 +150,6 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 
 > Great. Annoyances: can't turn off weekly notifications, small battery life hit<br> :date: __2020-09-11 11:58:27__
 
-> Good app<br> :date: __2020-09-10 16:46:41__
-
-> The more of us who participate, the better this works!<br> :date: __2020-09-10 01:20:23__
-
-> I just saw the add on mid day news and they talked about this app that will pick up anyone you come in comtact that has covid19.Sweet !,<br> :date: __2020-09-09 19:13:41__
-
 
 
 #### 4-star reviews
@@ -157,6 +157,8 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="gov.vdh.exposurenotification 4 reviews"/>
 </p>
+
+> For battery optimization issue, you can add this app in the "whitelist" so you won't run into the issue.<br> :date: __2020-09-23 17:11:11__
 
 > Helpful, gives me some peace of mind<br> :date: __2020-09-16 02:24:02__
 
@@ -176,8 +178,6 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 
 > I would definitely use this, except..... Except it is just for Virginia, and I'm in Illinois. But, I understand that a nation-wide method of linking among state departments of health is in the works. There is a really good article in the Washington Post about this app, and that's where I found out about it.<br> :date: __2020-08-18 17:16:09__
 
-> Will this work all over the country or just in Virginia?<br> :date: __2020-08-16 18:35:28__
-
 
 
 #### 3-star reviews
@@ -185,6 +185,8 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="gov.vdh.exposurenotification 3 reviews"/>
 </p>
+
+> I've been using this for over 1 hour and still did not find any Pokemon. as to the app, it seems to draw down the battery. unfortunate not enough potential users, and the "where - when" for contacts seems seriously lacking. still have it running because it's all that's offered.<br> :date: __2020-09-25 05:06:02__
 
 > I like the idea but not sure if it's working on all Samsung devices correctly. I believe s9+ is shutting down due to "Optimizing Battery Usage". Need to shut this off or it won't run in background to work. Need more information to consumers most probably don't know.<br> :date: __2020-09-20 16:44:56__
 
@@ -212,6 +214,8 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 <img src="2_star_reviews_wordcloud.png" alt="gov.vdh.exposurenotification 2 reviews"/>
 </p>
 
+> Update: month and a half after i installed the app and there are only 1% users across VA. Time to uninstall it. Anything that helps to fight covid gets 5 star and to those believing in looney tunes and conspiracy theories think about what you carry in your pocket (cell phone) or have on a shelf at home (alexa). Either you give your phone permission or not do you really think professional IT person can't make a virus go around your blocked permissions?<br> :date: __2020-09-27 15:29:08__
+
 > This was a tough situation it was like it was almost a virus and I still don't know if it was because I still can't use my Facebook or my messenger and it kind of makes me upset but it said it is it takes 3 business days and we'll find out so I'll give it 3 days 3 days goes quick<br> :date: __2020-09-10 20:28:58__
 
 > It is fine but when i try to turn on exposure notifications it says "en error occurred" FIX IT<br> :date: __2020-09-09 17:56:27__
@@ -236,6 +240,18 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 <img src="1_star_reviews_wordcloud.png" alt="gov.vdh.exposurenotification 1 reviews"/>
 </p>
 
+> I hope your entire organization gets chlamydia. Then I'll develop an app to track you.<br> :date: __2020-10-02 00:28:14__
+
+> Keep this trashy invasion of privacy off my screens<br> :date: __2020-10-01 19:12:43__
+
+> Doesn't run daily or even weekly checks. Have been in contact with the developers previously about this issue which so far can only be rectified by uninstalling then reinstalling. I am wondering if it stops checking forever even if you only briefly turn off bluetooth, instead of ensuring that connection..<br> :date: __2020-09-30 10:59:39__
+
+> Not sure why I was prompted to download an app that provides notifications for Virginia when I am way over on the west coast. Downloading one from Nevada I guess since it's the closest I can find to Oregon. Seems like this system is fragmented and dysfunctional, as well intended as it may possibly see.. still. I'll participate and play along until I'm otherwise inclined.<br> :date: __2020-09-28 21:39:26__
+
+> Wow makes you turn on bluetooth and is a complete invasion of privacy. Stay home and hide if you are scared of COVID<br> :date: __2020-09-28 03:49:54__
+
+> I don't have answer<br> :date: __2020-09-27 09:17:05__
+
 > No notifications ever. Yet, I've found out via the media or exposed and positive testers when they mention it. VA needs to put in some additional work on the app.<br> :date: __2020-09-23 04:41:33__
 
 > Malware possibilities<br> :date: __2020-09-22 01:13:30__
@@ -243,17 +259,5 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 > Great idea until you see the app requirements. Im not going to enable bluetooth so you can steal information from other peoples phones. Nice try china, but stick to tiktok.<br> :date: __2020-09-19 19:06:03__
 
 > Never worked for me<br> :date: __2020-09-03 05:46:13__
-
-> As a public health major, this is my feedback; The problem is, the app is only state level in Virginia. The App needs to be on a National level as people do travel to different states for vacations and business<br> :date: __2020-09-02 09:16:08__
-
-> It keeps crashing on start.<br> :date: __2020-09-01 20:37:45__
-
-> I have been trying for weeks to download this app but it will not work is there something wrong with it<br> :date: __2020-09-01 20:36:26__
-
-> Draining battery on phone<br> :date: __2020-08-30 18:18:16__
-
-> Do you seriously think people who test positive are going to voluntarily install and report their results!! NO!! VDH will not even tell us which businesses and locations have a positive employee or patron, which by the way would be better to know!!<br> :date: __2020-08-21 19:28:04__
-
-> NOT any mention of the App Name "COVIDWISE" for CNN national TV news coverage, mentioning it. You morons need to be fired as total worthless morons. Do you know what a PROPER NAME, is, and means, and it's function and purpose is? TELL PEOPLE THE NAME OF THE APP to Search for and to get! You absolutely asinine idiots!<br> :date: __2020-08-20 19:07:53__
 
 

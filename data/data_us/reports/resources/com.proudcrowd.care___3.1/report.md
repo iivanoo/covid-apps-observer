@@ -192,9 +192,9 @@ The Care19 Diary app has been installed by more than **10000** times. At this ti
 <img src="3_star_reviews_wordcloud.png" alt="com.proudcrowd.care 3 reviews"/>
 </p>
 
-> How long do the places you visit stay on the app? Mine seem to show maybe only previous 10 days.<br> :date: __2020-08-13 23:41:30__
+> Every couple of weeks it takes a day off & doesn't show any locations at all for that day.<br> :date: __2020-09-25 02:59:05__
 
-> It had gotten better at tracking my locations but since the last update it stopped all tracking.<br> :date: __2020-06-25 01:46:44__
+> How long do the places you visit stay on the app? Mine seem to show maybe only previous 10 days.<br> :date: __2020-08-13 23:41:30__
 
 > Doesn't this app use the Contact Tracking System that Apple and Google developed?<br> :date: __2020-06-02 15:29:17__
 
@@ -216,6 +216,8 @@ The Care19 Diary app has been installed by more than **10000** times. At this ti
 <img src="2_star_reviews_wordcloud.png" alt="com.proudcrowd.care 2 reviews"/>
 </p>
 
+> App runs unnoticeably in the background. However, requires constant maintenance. If I go more than 2-3 days without monitoring the app, I find that it stops tracking my locations, at which point I need to go back through all intro screens as if I just installed the app (Region, Consent, Home location, etc). Back arrow on Android while in the Places You've Visited will also return to the initial menu and require passing through all intro screens again, or app will not resume tracking. Should have a warning, and consent/home location should be saved in a more permanent cache.<br> :date: __2020-09-26 21:23:18__
+
 > Doesn't catch all locations, and it recorded a one hour visit to one store as 12 minutes, then would not allow correction.<br> :date: __2020-09-21 13:10:23__
 
 > Quit recording anything after about three weeks.<br> :date: __2020-07-26 05:30:54__
@@ -234,8 +236,6 @@ The Care19 Diary app has been installed by more than **10000** times. At this ti
 
 > I have a samsung android phone and I used the app Tacoma 19 South Dakota app from Google Play. I have installed it and reinstalled it this install that reinstalled it and updated it every time. I have yet to see anything on my page of anywhere that I've been tracked it just keeps saying congratulations you are set up but doesn't detect that you win any places yet. I don't go very often but I have went to stores and I have spent more than 10 minutes there why can't I see where I have been?<br> :date: __2020-06-01 23:56:11__
 
-> I wish this used the exposure API rather than log GPS coordinates. As I understand, the exposure API is just a log of device identifiers of other nearby phones, stored locally, rotated every 2 weeks. Your phone then simply downloads identifiers of any recent positives in your area and alerts you if they match any your phone has been near. That's very minimal impact on me and a health organization. For me, you don't know that I went to the eye doctor on Tuesday. For you: the health dept doesn't then have to go around in hazmat suits trying to play investigator - nor posting some public notice "HAVE YOU SEEN THIS WOMAN AT THE EYE DOCTOR ON TUESDAY? IF SO, YOU MAY BE INFECTED." One is a little more subtle message, cleans up after itself, puts the burden of response to the user, likely more reliable against device power savings features, and more battery friendly where a GPS/cell tower solution is more invasive, doesn't really capture proximity to another device, probably gets affected by device power savings features, elicits more work and exposes too much to a 3rd party. I'd just scrap this one and make an open source solution using the exposure API.<br> :date: __2020-05-26 20:08:29__
-
 
 
 #### 1-star reviews
@@ -243,6 +243,8 @@ The Care19 Diary app has been installed by more than **10000** times. At this ti
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="com.proudcrowd.care 1 reviews"/>
 </p>
+
+> Poorest design. Does not "track" movement via gps, does not allow quick add (referencing gps) feature. Does not have "end at home". Thus know how long.. at one location or unable to determine greater than 20 mph driving. Becomes indicator leaving location.<br> :date: __2020-09-28 04:32:05__
 
 > Has me consistently at a location across town I'm never at.<br> :date: __2020-09-12 07:14:54__
 
@@ -261,7 +263,5 @@ The Care19 Diary app has been installed by more than **10000** times. At this ti
 > I am unable to add places I have been. Every time I try the app crashes. And the visits don't show up when they should. I have tried uninstalling and reinstalling more than once. This app is a lemon.<br> :date: __2020-07-26 21:59:16__
 
 > App doesn't work. I wanted an app that would track my location automatically and the people that I was around. Now that I have covid-19 I can't even notify anyone that I was in contact with<br> :date: __2020-07-17 19:43:16__
-
-> Does this app work for Los Angeles, CA residents? It doesn’t seem to work when installed on my phone because I’m still unable to turn on “Exposure Notifications” after the app is installed. I’m going to Settings > Google > COVID-19 Exposure Notifications and the toggle to turn on Exposure Notifications will not respond.<br> :date: __2020-07-06 03:44:17__
 
 

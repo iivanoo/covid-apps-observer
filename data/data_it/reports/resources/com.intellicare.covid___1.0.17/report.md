@@ -141,6 +141,8 @@ The LAZIOdrCovid app has been installed by more than **100000** times. At this t
 <img src="5_star_reviews_wordcloud.png" alt="com.intellicare.covid 5 reviews"/>
 </p>
 
+> Ottimo<br> :date: __2020-09-24 18:06:50__
+
 > Ottima esperienza<br> :date: __2020-08-27 21:59:14__
 
 > Molto buona<br> :date: __2020-08-27 12:33:35__
@@ -158,8 +160,6 @@ The LAZIOdrCovid app has been installed by more than **100000** times. At this t
 > La salute prima di tutto.<br> :date: __2020-06-17 12:27:22__
 
 > Ottimo<br> :date: __2020-05-11 12:02:38__
-
-> Dopo la segnalazione hanno aggionato l'app e ora funziona<br> :date: __2020-05-02 10:25:12__
 
 
 
@@ -253,6 +253,10 @@ The LAZIOdrCovid app has been installed by more than **100000** times. At this t
 <img src="1_star_reviews_wordcloud.png" alt="com.intellicare.covid 1 reviews"/>
 </p>
 
+> App inutile.... Complimenti<br> :date: __2020-09-26 10:28:52__
+
+> Veramente inutile! Inutile come il numero verde di emergenza che non risponde. Inutile come il 115 (numero di emergenza medica nazionale) che rimanda al numero verde che rimanda a questa applicazione. Poi ci domandiamo perché stiamo ancora in emergenza...<br> :date: __2020-09-24 22:12:52__
+
 > Assolutamente inutile. Dopo l'ultimo.aggiornamento chiede sempre la registrazione ed ogni volta la conferma sms viene ignorata. Ad ogni modo anche quando funzionava non è servita a nulla, non ha mai funzionato contatta il mio medico. La disinstallerò<br> :date: __2020-09-09 08:11:02__
 
 > Il medico non ha mai risposto e le altre funzioni non danno alcun valore aggiunto. Chissà se qualcuno riceve i dati e li lavora veramente.<br> :date: __2020-09-05 09:20:39__
@@ -268,9 +272,5 @@ The LAZIOdrCovid app has been installed by more than **100000** times. At this t
 > Non riesco a scaricare aggiornamento. Ho provato a disinstallare e adesso non riesco nemmeno ad installarla di nuovo. Questo problema si era verificato anche a marzo.Ho un Samsung a50 abbastanza nuovo ( meno di un anno) e ho un collegamento Wifi 4g<br> :date: __2020-08-27 11:45:43__
 
 > Non funziona.<br> :date: __2020-08-27 08:12:22__
-
-> Registrato fa subito, non ne capisco l'utilità. Ho fatto io tampone r non c'è la possibilità di scaricare il referto, le altre funzioni sono basiche e non ne capisco l'utilità.<br> :date: __2020-08-27 07:46:10__
-
-> Liquesa....<br> :date: __2020-08-26 21:54:50__
 
 

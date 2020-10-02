@@ -160,6 +160,8 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <img src="5_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 5 reviews"/>
 </p>
 
+> Utile per chi opera in protezione civile<br> :date: __2020-10-02 10:03:56__
+
 > Ottima app<br> :date: __2020-08-28 17:17:22__
 
 > Ottima, mi avvisa ogni volta che arriva un forte temporale.<br> :date: __2020-08-28 14:37:23__
@@ -177,8 +179,6 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 > NEI PRONTO SOCCORSO SON TUTTI RIGOROSI ALLE REGOLE E TI METTONO MOLTO A TUO AGIO GRAZIE A TUTTI X LA COLLABORAZIONEUN ABBRACCIO SEPPUR VIRTUALE<br> :date: __2020-07-31 15:42:15__
 
 > Di un certo qual spessore...<br> :date: __2020-07-27 19:40:37__
-
-> A volte non è proprio perfetta, ma la trovo molto utile.<br> :date: __2020-07-21 20:24:00__
 
 
 
@@ -244,6 +244,8 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <img src="2_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 2 reviews"/>
 </p>
 
+> Da tempo non riesco più ad aggiornare la mia situazione perché alla.prima domanda non mi viene consentito di rispondere . Le altre funzionano tutte ma alla fine mi dice che non posso inviare perché non ho risposto a tutte le domande. Peccato<br> :date: __2020-09-24 21:36:21__
+
 > Non si comprende l utilizzo<br> :date: __2020-09-23 12:44:32__
 
 > Poco utile<br> :date: __2020-09-09 18:24:47__
@@ -262,8 +264,6 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 
 > perche modificare in peggio la parte covid?? uso questa app da circa tre mesi direi esclusivamente per la parte covid la prima versione poteva essere migliorata e la seconda l'ha sicuramente molto più fruibile e rapida la compilazione l'ultimo aggiornamento di qualche giorno fa ha spostato la compilazione a sinistra. dato che la maggior parte delle persone é destrorsa e usa il pollice, cio ha reso l'applicazione non ergonomica. l'ho trovato stupido<br> :date: __2020-06-07 10:13:33__
 
-> Sinceramente non capisco a cosa serve compilare il test...<br> :date: __2020-06-07 00:35:39__
-
 
 
 #### 1-star reviews
@@ -271,6 +271,8 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 1 reviews"/>
 </p>
+
+> Semplicemente ridicola....<br> :date: __2020-09-29 10:16:31__
 
 > allerte meteo non aggiornate<br> :date: __2020-08-27 11:37:12__
 
@@ -289,7 +291,5 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 > Non serve perché nel mio cellulare non è un app accettata. Me la fa sparire sempre. Ho un wauawey. P30. Non l'accetta<br> :date: __2020-08-09 13:42:48__
 
 > Sono costretta ad abbandonare AllertaLom perché ogni giorno , per compilare il questionario, devo disinstallare e re-installare l'App. Ora poi non si apre neppure più. Adesso basta.<br> :date: __2020-08-07 19:10:32__
-
-> Inutile per il virus...come tutte le iniziative lombarde<br> :date: __2020-08-02 17:55:12__
 
 

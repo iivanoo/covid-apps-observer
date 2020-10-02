@@ -121,6 +121,8 @@ The Covid Trace Nevada app has been installed by more than **5000** times. At th
 <img src="5_star_reviews_wordcloud.png" alt="gov.nv.dhhs.en 5 reviews"/>
 </p>
 
+> It enabled my covid19 settings, hope people in california use this since there is no app for california<br> :date: __2020-09-27 11:01:37__
+
 > Get the App help Stop the spread of Covid<br> :date: __2020-09-16 20:12:13__
 
 > Great app<br> :date: __2020-09-02 00:45:54__
@@ -138,8 +140,6 @@ The Covid Trace Nevada app has been installed by more than **5000** times. At th
 > Had absolutely no issues installing or connecting. Definitely getting others to download.<br> :date: __2020-08-25 14:23:25__
 
 > Installed and set up with no issues. Brilliant idea that I hope catches on and people download.<br> :date: __2020-08-25 07:14:01__
-
-> A great resource. To avoid installation problems you will need to go into your device settings and look for "Exposure Notification Settings" and turn it on. This requires Bluetooth and location both to be On before it will allow you finish installation of the Covid Trace Nevada application. Look for the application to show up under your Google account management section and then under "Services"<br> :date: __2020-08-25 05:10:08__
 
 
 
@@ -159,6 +159,8 @@ The Covid Trace Nevada app has been installed by more than **5000** times. At th
 <img src="3_star_reviews_wordcloud.png" alt="gov.nv.dhhs.en 3 reviews"/>
 </p>
 
+> Won't even get past the 3rd setup page....I hope Nevada did not actually pay somebody to build this. Tried again after update ..still will not set up....3rd update did the trick. set up OK ..upped to 3 stars. We will see.<br> :date: __2020-09-30 11:15:50__
+
 > Drains your battery! I dont like to have my bluetooth on all day. I am in the medical field and am exposed to know's what, so oy would be interesting to see if i am exposed at work. Just wished it didn't drain my battery<br> :date: __2020-08-31 17:45:38__
 
 > This app is such an awesome start. It has never updated exposure on it's own. I have to refresh it every time. I have gone a day with no auto updates like it said it would, so I just refresh at least once a day. I wish it showed how many ids you have encountered or something cause it feels like the app isn't doing anything. It would be nice to know that it has read # nearby users and is now checking that many every refresh. It kinda feels like just an info about covid app, not a tracker.<br> :date: __2020-08-30 19:31:12__
@@ -174,6 +176,8 @@ The Covid Trace Nevada app has been installed by more than **5000** times. At th
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="gov.nv.dhhs.en 2 reviews"/>
 </p>
+
+> Have the latest updates, yet asks me to update further. Click the link to do so > infinite load screen. Much needed app, needs some fixes.<br> :date: __2020-09-24 08:51:36__
 
 > Needs work, won't refresh!<br> :date: __2020-09-18 02:17:18__
 
@@ -193,11 +197,13 @@ The Covid Trace Nevada app has been installed by more than **5000** times. At th
 <img src="1_star_reviews_wordcloud.png" alt="gov.nv.dhhs.en 1 reviews"/>
 </p>
 
+> doesn't tell you anything cause no one is reporting thru the app.<br> :date: __2020-09-30 23:40:48__
+
+> I downloaded this app and thought it was ok at first until I noticed that the last time it scanned had been days before at the same time but it kept telling me that I had no exposures within the past hour.<br> :date: __2020-09-28 13:58:51__
+
 > The only reason we're not getting alerts is because nobody in nevada has used this app (yet) to report their exposure/positive covid19 result(s).<br> :date: __2020-09-16 16:39:01__
 
 > A joke. The app almost never updates. You could be all around people with covid and would never know. This app is totally pointless<br> :date: __2020-08-31 03:53:05__
-
-> Won't even get past the 3rd setup page....I hope Nevada did not actually pay somebody to build this. Tried again after update ..still will not set up.<br> :date: __2020-08-28 03:39:14__
 
 > Can't get past the third page of setup<br> :date: __2020-08-26 06:12:39__
 
@@ -210,7 +216,5 @@ The Covid Trace Nevada app has been installed by more than **5000** times. At th
 > Wont install on a Galaxy S20.<br> :date: __2020-08-25 02:09:08__
 
 > This app downloaded and installed. Can't locate on my galaxy s8. If I can find it, I'm going to trash it where it belongs.<br> :date: __2020-08-25 02:00:58__
-
-> It's not working already<br> :date: __2020-08-24 23:25:28__
 
 

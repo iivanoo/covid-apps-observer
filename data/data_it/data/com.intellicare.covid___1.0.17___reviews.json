@@ -1,5 +1,41 @@
 [
     {
+        "reviewId": "gp:AOqpTOEYFinasQIFnOLTHuKtUX7cRroMZnv0xHb4wQl1LBNZaj8kuEnbHNof1xW0WKUE84OZJh7rNNhhA3JFkQ",
+        "userName": "Giovanbattista Tucci",
+        "userImage": "https://play-lh.googleusercontent.com/-hhq1_E6Nu1M/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmxpEL_v57DMTE4xoK4NsppAosmlg/photo.jpg",
+        "content": "App inutile.... Complimenti",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.0.17",
+        "at": "2020-09-26 10:28:52",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOH6JrH_76990k86B2HBn9rkheubaoZqU9I4GxWtL4P0Kll2qCfjhlCmSw2LCXYXOHbQyHJeZBaJ3EVW_g",
+        "userName": "Davide J\u00fcrgens",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhssPcsNAPlqwdfmwSfcnn5aPN7719bgFPZSrd6",
+        "content": "Veramente inutile! Inutile come il numero verde di emergenza che non risponde. Inutile come il 115 (numero di emergenza medica nazionale) che rimanda al numero verde che rimanda a questa applicazione. Poi ci domandiamo perch\u00e9 stiamo ancora in emergenza...",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.0.17",
+        "at": "2020-09-24 22:12:52",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHYt-kEy35_2lABteG-HtrbKc2C6ZUZ_As_BQ-88-7sWyBZWKG8UxJolgRQB4k_P_2nSIRFeSGXt5QViQ",
+        "userName": "Nico Pavia",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gj6NJTHzYJxkBE79Vzy0YGOLdXOghPxKM5Giv99",
+        "content": "Ottimo",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.0.17",
+        "at": "2020-09-24 18:06:50",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOHik6TMwuGn9FHpTTvCgb5HIVdMP-Fyff-L6R61xECCuCxZXg6CfOtDuH14epSeoVN5ZkFN_pRVwElUqQ",
         "userName": "Franco Simonini",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GimEHJnedsyBGjTFxF2cj5q8GF93QSyCpy9UAsj",
@@ -497,7 +533,7 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhcrGE4zcV1onp1DYHSjLPR5Uf7ts7PeBGFfhQzlJA",
         "content": "Sono registrata regolarmente alla App solo che ho una domanda in merito. Essendo solo domiciliata nel Lazio e avendo medico di base per motivi di studio, nella versione precedente mi dava comunque il nome del mio medico di base. Adesso non appare pi\u00f9 al momento che clicco su \"contatta il medico\". Vorrei sapere se \u00e8 dovuto all'aggiornamento o, in casi ottimali dovrebbe comparire. Soprattutto in vista di questo aumento contagi vorrei essere sicura di averlo. Tutto qui.",
         "score": 3,
-        "thumbsUpCount": 16,
+        "thumbsUpCount": 17,
         "reviewCreatedVersion": "1.0.15",
         "at": "2020-08-16 09:50:43",
         "replyContent": null,
@@ -557,7 +593,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-ni-w5HQGZeM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucklb4mtlD5QSJwuX6nTTzBigGdDGw/photo.jpg",
         "content": "Non ne capisco l'utilit\u00e0...ho scritto a contatta il tuo medico e non risponde nessuno, il questionario di autovalutazione lascia il tempo che trova ( ne avr\u00f2 compilati 1000 di simili negli ultimi mesi )....che altro si pu\u00f2 fare???? Se qualcuno mi spiega l'utilit\u00e0 metto 5 stelle.",
         "score": 1,
-        "thumbsUpCount": 11,
+        "thumbsUpCount": 13,
         "reviewCreatedVersion": "1.0.15",
         "at": "2020-08-14 20:24:23",
         "replyContent": null,
@@ -638,7 +674,7 @@
     {
         "reviewId": "gp:AOqpTOHC20S_j2ZaTJCgID9wHS2rGs0Y59kTEFtRWT5hkKovq5GO2TbBEkUCSSFuajLHR1g17p_t-9CzZUbtTg",
         "userName": "Debora Davolio",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgWFN_BkcYvpx0ZsRHZwkOiudCD2OCx0lkx-EMDsg",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjYZMZLnnoXlO3PzfxSBDc9KJpICe53f7IFv1RBzQ",
         "content": "Qualcuno ha detto ai mmg che esiste questa applicazione e la relativa chat? Applicazione totalmente inutile.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1118,7 +1154,7 @@
     {
         "reviewId": "gp:AOqpTOFDCST4eyRgch00qRXcO5vIvlEVVjZ1KK_0zUBPFpFKrP0T7lRVXoZ1F42b-t1IA3GzDM2-gFJQfADgww",
         "userName": "Lea Ghelli",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gh3KaibfPk1ASDd77HiqGMAc8I9RLaRxdKKVV7haw",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjhTeH0ZuBNSja6C5h_Y4gaYiTUjq-vGoF3K9JQd_k",
         "content": "Ottima",
         "score": 5,
         "thumbsUpCount": 1,
@@ -1358,7 +1394,7 @@
     {
         "reviewId": "gp:AOqpTOGXWk9H7DMBKf1OO3W66IrGkm24B8lWgWCjXxiUbDsQStvFJ-w9a4cXPKy15LfhQWHhDbyLxL3TCrKOhg",
         "userName": "Mauro Marchetti",
-        "userImage": "https://play-lh.googleusercontent.com/-wcBBg-r-9R4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm6-Ft71V8NbQ43y-EckXicYnUvag/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhRSOvETOe6ii1NmcljZ7dM7ADFzYsOJf6YHueN-A",
         "content": "Vergognosa ed inutile spesa quando molta gente non ha di che mangiare. Siamo alle solite ....",
         "score": 1,
         "thumbsUpCount": 1,

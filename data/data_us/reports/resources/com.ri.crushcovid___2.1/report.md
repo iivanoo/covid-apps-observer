@@ -153,6 +153,8 @@ The CRUSH COVID RI app has been installed by more than **10000** times. At this 
 <img src="5_star_reviews_wordcloud.png" alt="com.ri.crushcovid 5 reviews"/>
 </p>
 
+> The app ia good<br> :date: __2020-10-01 11:03:12__
+
 > Very informative. Be<br> :date: __2020-09-22 22:19:48__
 
 > Easy to navigate and use.<br> :date: __2020-09-18 04:00:13__
@@ -171,8 +173,6 @@ The CRUSH COVID RI app has been installed by more than **10000** times. At this 
 
 > Works<br> :date: __2020-08-21 09:27:11__
 
-> Great App<br> :date: __2020-08-13 03:47:45__
-
 
 
 #### 4-star reviews
@@ -180,8 +180,6 @@ The CRUSH COVID RI app has been installed by more than **10000** times. At this 
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.ri.crushcovid 4 reviews"/>
 </p>
-
-> Version 2.1 tracking as it should, yay. Nice new features. Updated rating from 2 - 4 stars. (Old: Gave version 2.0 a try. Went to a Warwick restaurant for 1.5 hours. There is no record of this in "My Location Diary". I really wanted this version to work. I don't understand how the basic and essential functionality doesn't work properly.)<br> :date: __2020-09-15 22:15:12__
 
 > more f<br> :date: __2020-08-06 01:07:34__
 
@@ -201,6 +199,8 @@ The CRUSH COVID RI app has been installed by more than **10000** times. At this 
 
 > if you don't see the icon, it's not tracking you.<br> :date: __2020-07-04 23:43:54__
 
+> Happy with it, but wish it had: - lower battery drain - visual display of location tracing Thanks!<br> :date: __2020-06-08 19:14:53__
+
 
 
 #### 3-star reviews
@@ -208,6 +208,8 @@ The CRUSH COVID RI app has been installed by more than **10000** times. At this 
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="com.ri.crushcovid 3 reviews"/>
 </p>
+
+> This should be integrated with the exposure notification system from Apple and Google. Without it, this app exists in its own tiny silo and won't be successful.<br> :date: __2020-09-28 05:33:30__
 
 > This is not accurately tracking location. Update: Even after installing the update, it is not accurately tracking my location. Sometimes it shows me at an address down the street from my home all day rather than my house. Other days it doesn't record any location at all. Such as yesterday, I went to Narragansett, nothing shows on my location tracker at all for the last 2 days.<br> :date: __2020-09-10 01:24:33__
 
@@ -227,8 +229,6 @@ The CRUSH COVID RI app has been installed by more than **10000** times. At this 
 
 > Better, but did not kmow it had to be active on my screen to be working. Needs an option to be a tive in the background.<br> :date: __2020-06-14 15:26:44__
 
-> Connect to sarahlandry coronavirous<br> :date: __2020-06-11 01:25:17__
-
 
 
 #### 2-star reviews
@@ -236,6 +236,8 @@ The CRUSH COVID RI app has been installed by more than **10000** times. At this 
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="com.ri.crushcovid 2 reviews"/>
 </p>
+
+> Flawed tracking. Please give option to manually add days/locations when there is no tracking history. Just checking location history today and there's been no tracking since the 20th. App has been running and I had expected that it was working.<br> :date: __2020-09-28 04:03:38__
 
 > Had this app for a little while. Always had me in places that ive never been and hardley ever picked up where i actually was. Dont really go to a lot of new places so i tried it but now has been deleted<br> :date: __2020-09-15 14:37:38__
 
@@ -254,8 +256,6 @@ The CRUSH COVID RI app has been installed by more than **10000** times. At this 
 > Warning! At least on Android phone, you must manually restart the app after restarting your phone.<br> :date: __2020-07-24 00:05:59__
 
 > Location is way off, not accurate at all<br> :date: __2020-07-18 14:39:33__
-
-> I am rooting for this app. But there are several problems: 1) I can't access the new version on my Android phone, the "Let's go" button doesn't seem to work when trying to boot up the app the first time. 2) I wish it would just keep itself running and send my info continuously, once I have given it permission (I often forget to log in and then it stops sending updates). I know it's trying to respect privacy, but there should be an option for those who don't mind to just let it do it's thing.<br> :date: __2020-07-15 21:26:13__
 
 
 

@@ -164,6 +164,8 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 <img src="5_star_reviews_wordcloud.png" alt="de.xikolo.openwho 5 reviews"/>
 </p>
 
+> KLAAR,DUIDELIJK,UP TO DATE!<br> :date: __2020-09-29 11:42:07__
+
 > Goed maar in het engels<br> :date: __2020-09-18 23:22:22__
 
 > Sterf Corona!<br> :date: __2020-09-18 19:10:33__

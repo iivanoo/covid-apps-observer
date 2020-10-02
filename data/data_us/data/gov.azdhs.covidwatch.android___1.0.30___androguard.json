@@ -1,0 +1,43 @@
+{
+    "permissions": [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        "android.permission.BLUETOOTH",
+        "android.permission.WAKE_LOCK",
+        "android.permission.INTERNET",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.FOREGROUND_SERVICE"
+    ],
+    "activities": [
+        "org.covidwatch.android.ui.MainActivity",
+        "com.google.android.gms.common.api.GoogleApiActivity"
+    ],
+    "urls": [
+        "http://schemas.android.com/apk/res/android",
+        "https://plus.google.com/",
+        "http://schemas.android.com/apk/res-auto",
+        "https://www.googleapis.com/auth/games_lite",
+        "https://www.googleapis.com/auth/games",
+        "https://covidwatch.org",
+        "https://www.covidwatch.org/partners/adhs-feedback",
+        "https://azdhs.gov/preparedness/epidemiology-disease-control/infectious-disease-epidemiology/index.php#novel-coronavirus-what-everyone-needs",
+        "https://azdhs.gov/preparedness/epidemiology-disease-control/infectious-disease-epidemiology/index.php#novel-coronavirus-testing",
+        "https://covid19.arizona.edu/prevention-health/covid-19-symptoms-prevention?utm_source=covid_watch_app&utm_medium=referral&utm_campaign=covid_watch_covid19_symptoms_no_exposure",
+        "https://covid19.arizona.edu/face-coverings?utm_source=covid_watch_app&utm_medium=referral&utm_campaign=covid_watch_protect_yourself",
+        "http://covid19.arizona.edu/self-quarantine?utm_source=covid_watch_app&utm_medium=referral&utm_campaign=covid_watch_self_quarantine",
+        "https://covid19.arizona.edu/prevention-health/covid-19-symptoms-prevention?utm_source=covid_watch_app&utm_medium=referral&utm_campaign=covid_watch_covid19_symptoms",
+        "https://covid19.arizona.edu/app-redcap?utm_source=covid_watch_app&utm_medium=referral&utm_campaign=covid_watch_contact_tracing",
+        "https://health.arizona.edu/SAFER?utm_source=covid_watch_app&utm_medium=referral&utm_campaign=covid_watch_case_management",
+        "https://in.nau.edu/campus-health-services/covid-19/",
+        "https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html",
+        "https://in.nau.edu/campus-health-services/covid-testing/",
+        "https://in.nau.edu/wp-content/uploads/sites/202/COVID-CHS-selfquarantine-7-16-20.pdf",
+        "https://in.nau.edu/wp-content/uploads/sites/202/COVID-CHS-selfisolation-7-16-201.pdf",
+        "https://in.nau.edu/campus-health-services/exposure-tracing",
+        "https://www.covidwatch.org/get_support",
+        "https://play.google.com/store/apps/details?id=com.google.android.gms",
+        "https://storage.googleapis.com/covid-watch-arizona-regions/arizona-v4.json",
+        "https://www.cdc.gov/coronavirus/2019-ncov/index.html",
+        "https://www.covidwatch.org",
+        "https://azdhs.gov/documents/privacy-policy/covid-watch-application-privacy-policy.pdf"
+    ]
+}

@@ -165,6 +165,12 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 <img src="5_star_reviews_wordcloud.png" alt="gov.fema.mobile.android 5 reviews"/>
 </p>
 
+> This is a good app.<br> :date: __2020-10-01 05:48:25__
+
+> Great<br> :date: __2020-09-28 18:54:04__
+
+> Best organization inside and out<br> :date: __2020-09-28 01:57:45__
+
 > Very easy to use. Self explanatory App. Everything is basically right there on the App.<br> :date: __2020-09-19 17:10:52__
 
 > Thanks for your help<br> :date: __2020-09-12 20:50:16__
@@ -179,12 +185,6 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 
 > Google maps Meunstergritsandassociatesllc incognito #thankyouforyourservice #cheetohs #china<br> :date: __2020-07-31 20:41:04__
 
-> Great app! The only thing is, I wish it had a share button to send the Alerts to family & friends. Thank you for adding the share button!<br> :date: __2020-07-31 12:24:47__
-
-> Excellent!!!!<br> :date: __2020-07-31 08:45:58__
-
-> Thank you!🇵🇷🇺🇸🙋<br> :date: __2020-07-31 00:22:40__
-
 
 
 #### 4-star reviews
@@ -192,6 +192,8 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="gov.fema.mobile.android 4 reviews"/>
 </p>
+
+> Decent at first glance<br> :date: __2020-09-27 05:28:47__
 
 > Great app !!!!!!!!<br> :date: __2020-09-05 02:06:16__
 
@@ -210,8 +212,6 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 > Only worth downloading if you're in a disaster situation. Otherwise it's not very useful.<br> :date: __2020-05-23 06:10:43__
 
 > Extremely well covers high pop centers. However, little to no coverage in rural areas. We live in Benton County, MO...no coverage ANYWHERE here.<br> :date: __2020-05-22 15:48:47__
-
-> Excelente<br> :date: __2020-05-22 01:23:54__
 
 
 
@@ -277,6 +277,8 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 <img src="1_star_reviews_wordcloud.png" alt="gov.fema.mobile.android 1 reviews"/>
 </p>
 
+> Dont attempted to think of getting help all they do is deny<br> :date: __2020-09-26 19:00:17__
+
 > Doesn't work . Can't scroll on screen or get may location informaton<br> :date: __2020-09-09 13:06:18__
 
 > No point in having the app. You go to check your application status and it brings you to the website. App serves no purpose.<br> :date: __2020-09-05 00:28:47__
@@ -294,7 +296,5 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 > I would look them up and see what they are really about. We need less government in our life and lower We are Tax Enough Already.<br> :date: __2020-07-07 14:51:55__
 
 > Don't trust fema<br> :date: __2020-06-26 20:16:46__
-
-> The app should work off line. I cannot use the app with cellular data. Alerts set to my location only notify me when I have Wi-Fi and completely disappear if I'm not connected. How is this convenient during a disaster?<br> :date: __2020-06-21 22:29:23__
 
 

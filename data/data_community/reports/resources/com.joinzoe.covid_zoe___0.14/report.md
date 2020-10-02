@@ -196,131 +196,39 @@ The COVID Symptom Study app has been installed by more than **1000000** times. A
 #### 5-star reviews
 
 <p align="center">
-<img src="5_star_reviews_wordcloud.png" alt="com.joinzoe.covid_zoe 5 reviews"/>
+
 </p>
 
-> Easy<br> :date: __2020-10-02 11:40:10__
-
-> Very simple and takes seconds to do<br> :date: __2020-10-02 09:58:57__
-
-> Good information on Covid-19 by area.<br> :date: __2020-10-02 09:37:56__
-
-> Easy to use - really like the research areas e.g. blood type. Great to help the research for Covid.<br> :date: __2020-10-02 09:36:12__
-
-> Very quick and easy to use<br> :date: __2020-10-02 09:32:25__
-
-> It's is comforting to know that my daily responses might help provide information that could help overcome the virus.<br> :date: __2020-10-02 09:15:14__
-
-> must have, Helping it help all<br> :date: __2020-10-02 08:56:29__
-
-> Easy to do self test, proud to part of this important test<br> :date: __2020-10-02 08:34:58__
-
-> Its a very good app<br> :date: __2020-10-02 07:40:45__
-
-> Essential- clear, concise, trustworthy<br> :date: __2020-10-02 07:37:19__
-
-
+No recent reviews available with 5 stars.
 
 #### 4-star reviews
 
 <p align="center">
-<img src="4_star_reviews_wordcloud.png" alt="com.joinzoe.covid_zoe 4 reviews"/>
+
 </p>
 
-> Easy to use. Interesting maps showing up to date local infection rates.<br> :date: __2020-10-02 11:13:21__
-
-> Teething problems over everything working.<br> :date: __2020-10-02 09:02:54__
-
-> Its so great to be able to take a few short minutes and help a worthwhile cause. My only issue with the app is for the healthcare workers exposure questions, there is no option for working with patient that neither have covid or are nor presumed to have covid, for example surgical patients who have already been screened, tested, and have no symptoms, but are still in hospitals being taken care of by healthcare workers. Hope this feedback helps them fix the issue and get more accurate results<br> :date: __2020-10-01 21:00:07__
-
-> I have had this Ap since launched. I find it Works really well & easy to use. With the added bonus of information from scientist.<br> :date: __2020-10-01 12:06:35__
-
-> Keeping us all safe<br> :date: __2020-10-01 10:16:51__
-
-> Easy and helps yourself track the ailments over the past months, which is surprisingly many, and self explanatory to why I feel certain way due to ailments weeks previously.<br> :date: __2020-10-01 09:27:14__
-
-> Gives better information than the govt are right now 😑<br> :date: __2020-10-01 08:15:49__
-
-> so far so good 👍 essential information about this virus<br> :date: __2020-10-01 00:00:59__
-
-> I find the questions posed once a week difficult to answer...they are not clear.<br> :date: __2020-09-30 21:50:53__
-
-> Seems easy to use<br> :date: __2020-09-30 14:59:10__
-
-
+No recent reviews available with 4 stars.
 
 #### 3-star reviews
 
 <p align="center">
-<img src="3_star_reviews_wordcloud.png" alt="com.joinzoe.covid_zoe 3 reviews"/>
+
 </p>
 
-> Nice little app<br> :date: __2020-10-01 19:06:28__
-
-> No longer gives me daily notification reminders to complete.<br> :date: __2020-09-29 20:05:22__
-
-> Profile editing needs improvement.<br> :date: __2020-09-29 12:30:51__
-
-> Some feedback... on adding a user profile you force the user to enter a blood group. Please add an option for "don't know".<br> :date: __2020-09-28 14:41:59__
-
-> All OK here<br> :date: __2020-09-27 11:39:54__
-
-> Was fine until a couple of days ago but now I am unable to open the App and report<br> :date: __2020-09-27 08:53:13__
-
-> Too much scrolling, then back to beginning to do someone else<br> :date: __2020-09-26 10:04:53__
-
-> Data is missing characters, eg '600 cases' being shown as '60 cases'<br> :date: __2020-09-24 17:56:13__
-
-> Not now<br> :date: __2020-09-23 18:50:05__
-
-> Buffering and wont open since last update. okay once finally open but not every day. I use data majority of time, not wifi.<br> :date: __2020-09-23 17:26:47__
-
-
+No recent reviews available with 3 stars.
 
 #### 2-star reviews
 
 <p align="center">
-<img src="2_star_reviews_wordcloud.png" alt="com.joinzoe.covid_zoe 2 reviews"/>
+
 </p>
 
-> Confusing and being forced through pages every day that have already been read.<br> :date: __2020-09-29 12:34:32__
-
-> For fuller coverage, this should be available for PASSIVITY<br> :date: __2020-09-25 15:35:23__
-
-> I think the daily survey should ask more than just how you're feeling. Weight etc may change over time.<br> :date: __2020-09-24 12:13:25__
-
-> Having previously donated cash to this project I have now uninstalled it. Being threatened with a £10,000 fine for failing to comply with a flawed PCR test has lost my interest.<br> :date: __2020-09-24 11:21:03__
-
-> Please reassure me that my data is actually being recorded. The app says I haven't entered any for 4 days. That simply isn't the case. I have missed a day as I forgot to charge my phone, but I entered data Saturday afternoon. This inaccuracy has been there from the beginning. I want to be sure it is worthwhile continuing.<br> :date: __2020-09-21 12:25:55__
-
-> Great idea, but...Why do they ask for so much personal info that does not relate to COVID? Thought it would be quick & easy (I'm sure it is after asking & answering several questions about my Aunt Flo & other questions) I un-installed.<br> :date: __2020-09-19 13:56:05__
-
-
+No recent reviews available with 2 stars.
 
 #### 1-star reviews
 
 <p align="center">
-<img src="1_star_reviews_wordcloud.png" alt="com.joinzoe.covid_zoe 1 reviews"/>
+
 </p>
 
-> It won't let me creat an account and isnt giving me and error message as to what the issue is<br> :date: __2020-10-02 04:58:51__
-
-> I downloaded this app a few days ago and it has now stopped working. I'm unable to find out why this is or what to do about it.<br> :date: __2020-09-26 19:12:32__
-
-> I'm not going to sin in with an email address.<br> :date: __2020-09-26 00:39:30__
-
-> Poorly designed. Doesn't always work. Won't let me fill in forms sometimes. Also can't possibly provide useful results if it can't even distinguish between a posive antibody test and a positive Covid test. The whole app also feels like it wastes my time. It has never once provided me with any useful information in exchange for my inputting my information daily.<br> :date: __2020-09-25 17:44:28__
-
-> How about a link to the data being produced? An on line per capita summary would be in order. Otherwise the app is pure Trumpish bull.<br> :date: __2020-09-23 14:09:34__
-
-> No longer get a daily reminder to log my status. Notifications are turned on and I have uninstall and reinstalled the app but still no reminders. (Samsung Galaxy S10)<br> :date: __2020-09-22 09:12:46__
-
-> Waste of time and energy, go jump<br> :date: __2020-09-21 14:58:42__
-
-> Behaves normally when offline, however data is silently discarded. It would be easy to lose data accidentally. App should report an error if data cannot be uploaded.<br> :date: __2020-09-21 10:34:24__
-
-> As soon as i installed it, i was getting reminders even after i entered my data. It got too annoying. Im disappointed in the app cuz i thought it would be helpful but its not when itll take my info more than once a day.<br> :date: __2020-09-20 22:20:35__
-
-> Could not install on my samsung a50. It says its installed but there is no icon to click on and no way to get into the app or uninstall. Useless I'm afraid which is a great shame as I would like to help with this pandemic if I can.<br> :date: __2020-09-19 09:33:33__
-
-
+No recent reviews available with 1 stars.
