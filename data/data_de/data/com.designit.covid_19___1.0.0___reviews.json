@@ -1,5 +1,17 @@
 [
     {
+        "reviewId": "gp:AOqpTOGH-zQnidcDJBJXxV557wPiI06K_8N-rfqJQPYcrR8d9o9rWtQLJRG_E-4mAx0f8iA0je2Cc1rLru1BBQ",
+        "userName": "Heiner Schmelz",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gg2s4C2ZRtuIQhnczPkcaKcLzkOjQKZPyR8fXUpDw",
+        "content": "Aktuell: Grottenlangsam. Mehr als 3 Min. bis Erledigung der 2 Fragen. Nehme nicht mehr Teil! Nachdem ich die Benachrichtigungen abgestellt hatte, war der morgendliche Dauergong verschwunden! Als Alumnus der Uni FR unterst\u00fctze ich das Projekt gerne. Auch wenn ich stark glaube, dass ich von Mitte bis Ende Februar auf Grund eines vorherigen Auslandaufenthaltes die Krankheit durchgemacht habe. An eine offizielle Best\u00e4tigung war damals noch nicht zu denken.....",
+        "score": 5,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "1.0.0",
+        "at": "2020-09-25 18:32:32",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOEndSBU7BZESh1wmfudU8SLofi018JoAc39hooVaazsLZt1NPL_MHfLmsrGYYRD_34MeN3Y96wbwOLoXg",
         "userName": "Markus Venus",
         "userImage": "https://lh3.googleusercontent.com/-1ItetN20scU/AAAAAAAAAAI/AAAAAAAADME/AMZuucnfLk6RYDOtWgYoH8PG-VDqhtImzQ/photo.jpg",
@@ -101,7 +113,7 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgkLM5jd2iBp6yvGlt8sm_u2148ZkkWNibXAvtytg",
         "content": "Die Frageb\u00f6gen sind schnell und einfach zu beantworten. Deinstalliert, weil: Versehentliche Fehleingaben (wackeliger Bus o.\u00e4.) kann man nicht korrigieren. Die versprochene Einsch\u00e4tzung kam nie. Das Passwort wird jedes Mal abgefragt: 1) Das finde ich unn\u00f6tig, da mein Ger\u00e4t per PIN gesch\u00fctzt ist. 2) Das wusste ich nicht, habe daher dummerweise ein komplexes PW gew\u00e4hlt, das umst\u00e4ndlich einzugeben ist, und kann's jetzt nicht mehr \u00e4ndern.",
         "score": 2,
-        "thumbsUpCount": 7,
+        "thumbsUpCount": 8,
         "reviewCreatedVersion": "1.0.0",
         "at": "2020-07-28 15:31:45",
         "replyContent": null,
@@ -137,7 +149,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-iqtRU2mo_1M/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucltJd5Hb3Qu-MZ92r4hQONCQvriUg/photo.jpg",
         "content": "Die App ist unheimlich langsam, da macht das Einloggen und Beantworten keinen Spa\u00df. Auf die Kennzahlen wartet man immer noch. Ich hab's nur deshalb noch nicht deinstalliert, weil ich es wichtig finde, an vielen Stellen bei der Erforschung zu unterst\u00fctzen.",
         "score": 3,
-        "thumbsUpCount": 8,
+        "thumbsUpCount": 9,
         "reviewCreatedVersion": "1.0.0",
         "at": "2020-07-04 21:37:54",
         "replyContent": null,
@@ -380,18 +392,6 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.0.0",
         "at": "2020-05-04 13:16:29",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOGH-zQnidcDJBJXxV557wPiI06K_8N-rfqJQPYcrR8d9o9rWtQLJRG_E-4mAx0f8iA0je2Cc1rLru1BBQ",
-        "userName": "Heiner Schmelz",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gg2s4C2ZRtuIQhnczPkcaKcLzkOjQKZPyR8fXUpDw",
-        "content": "Nachdem ich die Benachrichtigungen abgestellt hatte, war der morgendliche Dauergong verschwunden! Als Alumnus der Uni FR unterst\u00fctze ich das Projekt gerne. Auch wenn ich stark glaube, dass ich von Mitte bis Ende Februar auf Grund eines vorherigen Auslandaufenthaltes die Krankheit durchgemacht habe. An eine offizielle Best\u00e4tigung war damals noch nicht zu denken.....",
-        "score": 5,
-        "thumbsUpCount": 1,
-        "reviewCreatedVersion": "1.0.0",
-        "at": "2020-05-03 21:14:17",
         "replyContent": null,
         "repliedAt": null
     },
@@ -677,7 +677,7 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjbVRbpEiYOiGSVlpbDEOmPyiTQ8h_BFiehpDR-Yw",
         "content": "kann gut helfen \ud83d\udc4d\ud83d\udc4a",
         "score": 4,
-        "thumbsUpCount": 1,
+        "thumbsUpCount": 2,
         "reviewCreatedVersion": "1.0.0",
         "at": "2020-04-27 07:04:57",
         "replyContent": null,

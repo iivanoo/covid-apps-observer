@@ -163,7 +163,7 @@ The Coronika - Dein Corona Tagebuch app has been installed by more than **10000*
 <img src="5_star_reviews_wordcloud.png" alt="de.kreativzirkel.coronika 5 reviews"/>
 </p>
 
-> Perfekt auf Corona zugeschnittenes Tagebuch. Das PDF erleichtert die Nachverfolgung sehr. Bin "sehr zufrieden" , vielen Dank an die Entwickler👍👍👍 Nur ein kleiner Schönheitswunsch; Im Export-PDF werden die Einträge der Orte leider alphabetisch und nicht nach Datum sortiert. Wäre toll wenn im PDF bei einem nächsten Update noch eine autom. Sortierung z. B. nach Datum absteigend kommen würde. Dann ständen die aktuellen Daten immer oben und die älteren weiter unten. Aber trotzdem gerne 5⭐von mir👍<br> :date: __2020-09-22 22:10:18__
+> Mit Corona Warn App starkes Duo gegen covid19! Eingabe der Orte/Personen super und wenige Touch im Positiv-Fall, mit dem Export-PDF eine perfekte Vorlage für Mail an die Gesundheitsbehörden zur Kontaktverfolgung zu haben. Im "Prinzip" nicht anders als Block und Stift, aber hier um Längen bequemer und deutlich schneller mit fertigem Export-PDF. Deshalb 5⭐von mir👍 PDF-Sortierung der Orte-Liste nach Datum absteigend und Personen >14Tg in der Personenliste nach unten wäre noch übersichtlicher.<br> :date: __2020-09-27 10:04:29__
 
 > Tolle App! Nutze die täglich! Hier einige Vorschläge zur Erweiterung/Verbesserung: Personen mit Orten verbinden und Zeitangabe einfügen; zeitliche Sortierung der Orte; Einfügung typischer Cluster-Situationen (z.B. Besprechung, Vereinstreffen etc.; vielleicht gibt es da ja ne offizielle Liste vom RKI oder aus der Forschung), wo man lediglich noch Ort und Uhrzeit eintragen muss; Möglichkeit der Verknüpfung mit Standort-Diensten wie google Maps; Möglichkeit der Verknüpfung mit der Kontaktliste<br> :date: __2020-09-15 15:26:23__
 
@@ -219,6 +219,8 @@ The Coronika - Dein Corona Tagebuch app has been installed by more than **10000*
 <img src="3_star_reviews_wordcloud.png" alt="de.kreativzirkel.coronika 3 reviews"/>
 </p>
 
+> Die APP hat einige Schwächen. Die UI reagiert nur sehr verzögert auf die Eingaben. Das macht die Nutzung unheimlich zäh. Die Zuordnung von Orten und Personen ist mir nicht sofort klar. Die grüne Farbe stellt mit dem hellen Hintergrund einen starken Kontrast dar, was bei längerer Nutzung ermüdend wirkt.<br> :date: __2020-09-25 07:39:10__
+
 > Aufmachung okay, allerdings extrem träge Reaktion innerhalb der App. Selbst beim Switch zwischen Orten und Personen. Kontakte lassen sich (Android 10) nicht wie beworben gruppieren (Mitarbeiter, Familienangehörige etc.)<br> :date: __2020-09-21 13:50:28__
 
 > Die App ist gut und einfach aufgebaut. Allerdings ist sie sehr langsam.<br> :date: __2020-09-12 14:47:17__
@@ -236,8 +238,6 @@ The Coronika - Dein Corona Tagebuch app has been installed by more than **10000*
 > Siht gut aus dir app jest kann ich auch noch keine Person angeben ich selber wurde noch nicht getestet<br> :date: __2020-04-09 23:29:02__
 
 > Nette Idee, aber zu umständlich. Wieso kann ich nicht per GPS Orte in meiner Gegend auswählen, wie es bei Google Maps und einigen anderen Apps funktioniert? Was nutzt es mir, wenn ich einen Ort manuell benennen muss und nicht einmal gespeichert wird, wo sich dieser befindet? Optimal wäre ein durchgehendes Tracking. Man könnte dann an bestimmten Stellen anklicken, dass man dort "in Kontakt" war, von wann bis wann und wem man dort begegnet ist. Noch fortschrittlicher - und durchaus machbar - wäre es, wenn die App erkennt, ob man im Auto oder zu Fuß unterwegs ist und bei Fußwegen die Strecke als "potenzieller Kontaktbereich" gespeichert wird. Kontakte sollte man nachträglich ergänzen können und das Ganze sollte anklickbar auf einer Karte dargestellt werden. So würde auch das Problem mit Paketzustellern gelöst.<br> :date: __2020-04-02 14:42:31__
-
-> Ganz gut soweit. Es wäre aber gut, wenn man im Nachhinein die Einträge bearbeiten könnte. Hab mich beispielsweise bei der Uhrzeit vertan und kann es nicht mehr ändern.<br> :date: __2020-04-01 07:32:47__
 
 
 

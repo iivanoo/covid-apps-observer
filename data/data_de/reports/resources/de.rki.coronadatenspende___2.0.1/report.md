@@ -138,6 +138,10 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 <img src="5_star_reviews_wordcloud.png" alt="de.rki.coronadatenspende 5 reviews"/>
 </p>
 
+> Läuft unauffällig mit meinem Huawei und der Fitbit Uhr mit. Kann keine Probleme melden<br> :date: __2020-09-30 18:47:54__
+
+> Funktioniert tadellos. Hoffe, daß die übersandten Daten eine Hilfe sind.<br> :date: __2020-09-28 05:26:37__
+
 > Klappt endlich, auch mit den angezeigten Tagen!<br> :date: __2020-09-13 02:03:00__
 
 > Inzwischen funktioniert die App auch mit Samsung und vielen anderen Anbietern. Hoffentlich hilft es Erkenntnisse zu sammeln.<br> :date: __2020-09-06 19:16:40__
@@ -154,10 +158,6 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 
 > Habe auch eine Samsung Gear S3... Die Bereitschaft von mir ist da.. Aber so leider nicht! 10 Tage später noch immer kein Support = deinstalliert, Edit 16.06. Jetzt funktioniert anscheinend der Umweg über Google Fit, die ja die Daten von meiner Gear erhält. Mal sehen..Update 18.08. Jetzt entdeckt, dass nun auch Samsung auch endlich Samsung Health funktioniert. Nun 5 Sterne.<br> :date: __2020-08-19 15:27:59__
 
-> Juhu! Samsung Health ist dabei! Ich freue mich sehr, sie jetzt auch unterstützen zu können! Aus einem Stern werden 5!<br> :date: __2020-08-18 13:03:18__
-
-> Danke für die Integration von u.a. Samsung Health, dann muss ich die Daten nicht über zig Server schicken.<br> :date: __2020-08-17 13:22:16__
-
 
 
 #### 4-star reviews
@@ -165,6 +165,8 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="de.rki.coronadatenspende 4 reviews"/>
 </p>
+
+> Gut<br> :date: __2020-10-01 20:01:06__
 
 > Bitte eine Unterstützung für das Xiaomi Mi-Band 4 einfügen, dann nehme ich gerne teil. Die Idee dahinter ist gut und nützlich.<br> :date: __2020-08-25 22:31:21__
 
@@ -184,8 +186,6 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 
 > Auf meinem huawai schaltet sich die Hintergrundaktivität nach einem Ausschalten des Handys wieder aus. Sie jedesmal erneut wieder anschalten zu müssen ist nervig, birgt v.a. aber die Gefahr, es dann doch zu vergessen. Das sollte bitte noch geändert werden.<br> :date: __2020-07-26 08:56:57__
 
-> Dies App finde ich sehr gut und interessant für mich.<br> :date: __2020-07-22 19:26:53__
-
 
 
 #### 3-star reviews
@@ -193,6 +193,8 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="de.rki.coronadatenspende 3 reviews"/>
 </p>
+
+> 2.10.20 Update. Nach Wechsel auf LineageOS und root funktioniert die App nicht mehr. Schade. War Unterstützer seit Anfang an. Sehr gerne unterstütze ich dieses Projekt. Das verbinden mit Google fit funktioniert inzwischen. Die Daten können über mein Mii-Band. Vielen Dank an die Entwickler.<br> :date: __2020-10-02 05:59:44__
 
 > Samsung Galaxy Watch ist in den Wearables nicht aufgeführt, daher kann ich leider keine Daten spenden, schade. Update 19.09.20: Samsung Health ist eingebunden. Mal schauen...<br> :date: __2020-09-19 12:33:32__
 
@@ -211,8 +213,6 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 > Leider wird Samsung Health nicht unterstützt. Edit: Es funktioniert endlich, trotzdem peinlich wie lange es gedauert hat.<br> :date: __2020-08-17 09:20:43__
 
 > Weitere Fitnessarmbänder fehlen immer noch auch nach über 120 Spendentagen fehlen immer mal wieder Tage dazwischen. Weitergabe der Daten über mehrere Stationen scheint nicht immer zu funktionieren. Ich muss über Googlefit gehen. MeBand 4<br> :date: __2020-08-13 18:10:46__
-
-> Die Anzahl der gespendeten Tage ging von heute auf morgen von ca. 116 auf 84 Tage zurück !! Wie kann das sein??<br> :date: __2020-08-09 11:04:23__
 
 
 
@@ -250,6 +250,12 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 <img src="1_star_reviews_wordcloud.png" alt="de.rki.coronadatenspende 1 reviews"/>
 </p>
 
+> Weit verbreitete Wearables fehlen. Ich würde gerne Daten spenden. Stockt doch bitte einfach Mal die Anzahl der unterstützen Geräte auf, dann kommen wahrscheinlich auch mehr Daten an.<br> :date: __2020-10-01 11:00:54__
+
+> Lief lange Zeit gut (5 Sterne). Nach irgendeinem automatischen Update hätte ich mich neu anmelden müssen. Bekam leider keine Info und seit dem werden keine Daten mehr gesammelt. App wird deinstalliert!<br> :date: __2020-09-25 08:24:41__
+
+> Ich habe die APP gerade installiert und schon Anzahl ihrer gesendeten Tage 2 ich hsb die App mit Samsung Health Verbunden<br> :date: __2020-09-23 22:27:24__
+
 > Ich habe gedacht, dies sei eine App um Geldspenden einzusammeln mit, damit man die Programmierer der Corona-App schmerzfrei entsorgen kann. Aber ich fürchte hier sind hier und da die gleichen am Werke. Also weg mit dem Schrott. Google und Apple haben doch schon alles und bieten sogar eine Gegenleistung dafür. Hier versuchen Corona-Trittbrettfahrer auf ihre Kosten zu kommen und sich eine Daseinsberechtigung zu sichern. Wann wachen die Deutschen mal auf und jagen die Parasiten zum Teufel?<br> :date: __2020-09-22 23:55:06__
 
 > Bitte endlich die Mi-Bänder (Xiaomi) einbinden.<br> :date: __2020-09-21 16:33:22__
@@ -263,11 +269,5 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 > Wenn nicht einmal die Tage richtig gezählt werden, wie kann ich mich dann auf die anderen Daten verlassen? Werde diese App nicht mehr nutzen.<br> :date: __2020-09-16 18:18:12__
 
 > Woran liegt es das huawei nicht integriert ist? Ist Deutschland von den USA so abhängig, das Deutschland sich am Huawei Bann beteiligt? Beim Marktanteil liegt Q2 2020 auf Platz 2 hinter Apple.<br> :date: __2020-09-14 12:59:07__
-
-> Gute Idee, aber nicht brauchbar! Zu wenig Hersteller werden berücksichtigt! Update 13.09.2020 Seit ca. 35 Tagen bleibt die Anzahl der gespendeten Daten bei 79! Stärkt nicht das Vertrauen in diese App! Habe keine Probleme meine Daten zu teilen, aber funktionieren sollte es schon. Ändert sich das nicht werde ich die App löschen.<br> :date: __2020-09-13 12:33:02__
-
-> Installation aus dem Google Store - ohne Probleme, Whitings auswählen und verbinden - ohne Probleme, läuft jetzt den 3. Tag, doch die Anzeige der Datenspende bleibt bei "0". Da kommen Fragen auf und ich bin wohl nicht der Einzige. Nach dem Update ging es dann, bis 114 Tage, dann sprang die App auf 74 Spendentage zurück. Mittlerweile bin ich erneut bei 112, jetzt schon einige Tage. Zählt einfach die Spendentage nicht mehr weiter.<br> :date: __2020-09-13 02:53:59__
-
-> Seit einer Woche zählt die App die Tage nicht mehr!! Meine 126 Tage sind weg. Habe neu installiert.<br> :date: __2020-09-07 13:06:26__
 
 

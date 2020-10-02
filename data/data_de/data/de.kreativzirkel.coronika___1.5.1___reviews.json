@@ -1,5 +1,29 @@
 [
     {
+        "reviewId": "gp:AOqpTOF4OC1FQ6LWpQklqGIyQFjShRFj-uxZHd9h_d_lBGZMRqEfBgn0ZcfOo3oHsfLXYUydm-z4hZjIRSNzcw",
+        "userName": "Michael",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjYIU4EJZ_1kJ_Q0fM3xsCNlw2mujwGpz8y0Krlvg",
+        "content": "Mit Corona Warn App starkes Duo gegen covid19! Eingabe der Orte/Personen super und wenige Touch im Positiv-Fall, mit dem Export-PDF eine perfekte Vorlage f\u00fcr Mail an die Gesundheitsbeh\u00f6rden zur Kontaktverfolgung zu haben. Im \"Prinzip\" nicht anders als Block und Stift, aber hier um L\u00e4ngen bequemer und deutlich schneller mit fertigem Export-PDF. Deshalb 5\u2b50von mir\ud83d\udc4d PDF-Sortierung der Orte-Liste nach Datum absteigend und Personen >14Tg in der Personenliste nach unten w\u00e4re noch \u00fcbersichtlicher.",
+        "score": 5,
+        "thumbsUpCount": 4,
+        "reviewCreatedVersion": "1.5.1",
+        "at": "2020-09-27 10:04:29",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOH2yK_FO79vR5PGF7kxNBxzGs1KBqxn5Q2xpLYCHNg0GmbqEquN66_K66TcorpEz1wEBRS1ubMAvzVi8A",
+        "userName": "Daniel Kie\u00dfling",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gi7cL8e9Afm2av8l9X8bLfiH-lxGol1Ao_0DLsMuVg",
+        "content": "Die APP hat einige Schw\u00e4chen. Die UI reagiert nur sehr verz\u00f6gert auf die Eingaben. Das macht die Nutzung unheimlich z\u00e4h. Die Zuordnung von Orten und Personen ist mir nicht sofort klar. Die gr\u00fcne Farbe stellt mit dem hellen Hintergrund einen starken Kontrast dar, was bei l\u00e4ngerer Nutzung erm\u00fcdend wirkt.",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.5.1",
+        "at": "2020-09-25 07:39:10",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOGMGXj0LefYFwR6x1I3eRKx1PVIEFm6XD6QsB-DZINMhGpW2WA_323simu1YqyjvYnJLEsWbfM6fytMAA",
         "userName": "Nora Bless",
         "userImage": "https://play-lh.googleusercontent.com/-tQxvGyPAygU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnn81llusZpIF7Niw_IRUOBeuOMWg/photo.jpg",
@@ -8,18 +32,6 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.5.1",
         "at": "2020-09-22 23:24:17",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOF4OC1FQ6LWpQklqGIyQFjShRFj-uxZHd9h_d_lBGZMRqEfBgn0ZcfOo3oHsfLXYUydm-z4hZjIRSNzcw",
-        "userName": "Michael",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjYIU4EJZ_1kJ_Q0fM3xsCNlw2mujwGpz8y0Krlvg",
-        "content": "Perfekt auf Corona zugeschnittenes Tagebuch. Das PDF erleichtert die Nachverfolgung sehr. Bin \"sehr zufrieden\" , vielen Dank an die Entwickler\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d Nur ein kleiner Sch\u00f6nheitswunsch; Im Export-PDF werden die Eintr\u00e4ge der Orte leider alphabetisch und nicht nach Datum sortiert. W\u00e4re toll wenn im PDF bei einem n\u00e4chsten Update noch eine autom. Sortierung z. B. nach Datum absteigend kommen w\u00fcrde. Dann st\u00e4nden die aktuellen Daten immer oben und die \u00e4lteren weiter unten. Aber trotzdem gerne 5\u2b50von mir\ud83d\udc4d",
-        "score": 5,
-        "thumbsUpCount": 4,
-        "reviewCreatedVersion": "1.5.1",
-        "at": "2020-09-22 22:10:18",
         "replyContent": null,
         "repliedAt": null
     },
@@ -53,7 +65,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-Qf6tgaH3Bpk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucntqBN3qxh4S4R7jGMSi69umW9pcg/photo.jpg",
         "content": "Tolle App! Nutze die t\u00e4glich! Hier einige Vorschl\u00e4ge zur Erweiterung/Verbesserung: Personen mit Orten verbinden und Zeitangabe einf\u00fcgen; zeitliche Sortierung der Orte; Einf\u00fcgung typischer Cluster-Situationen (z.B. Besprechung, Vereinstreffen etc.; vielleicht gibt es da ja ne offizielle Liste vom RKI oder aus der Forschung), wo man lediglich noch Ort und Uhrzeit eintragen muss; M\u00f6glichkeit der Verkn\u00fcpfung mit Standort-Diensten wie google Maps; M\u00f6glichkeit der Verkn\u00fcpfung mit der Kontaktliste",
         "score": 5,
-        "thumbsUpCount": 1,
+        "thumbsUpCount": 4,
         "reviewCreatedVersion": "1.5.1",
         "at": "2020-09-15 15:26:23",
         "replyContent": null,
@@ -241,8 +253,8 @@
     },
     {
         "reviewId": "gp:AOqpTOHAn8u3OdebpM-fniQJCaUIWRbqkVrqTFVJmiSGf0jndLElsmyGPE7OUjMfO_UwXpiSNuDe1dWMHg5sCA",
-        "userName": "Pythagoras 98",
-        "userImage": "https://play-lh.googleusercontent.com/-9slkgmzs74k/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclPhVA4e_KqCvZAiE218AUBYG8vjg/photo.jpg",
+        "userName": "Xzavier \u00c4thy",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiS62a7z039QBJ6KoYC8DMz_-pGIIgcLHHL2qu5jg",
         "content": "Gute App, leicht zu handhaben",
         "score": 5,
         "thumbsUpCount": 0,
@@ -641,7 +653,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-CzxnqW96hdY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckTzJFUYw9uYiJbWov94erh1DT79A/photo.jpg",
         "content": "Schlechteste App die ich jemals installiert habe... un\u00fcbersichtlich und sehr instabil. Sofort wieder gel\u00f6scht",
         "score": 1,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "1.3.1",
         "at": "2020-04-15 16:27:28",
         "replyContent": null,
@@ -649,7 +661,7 @@
     },
     {
         "reviewId": "gp:AOqpTOEY9KhLaNox0KAgG9NtNvb9lKJdaddOVnD8e3PqpWBI6lzjEG8t-351LCtI8O5otDi1pyojHoCAVvwfSw",
-        "userName": "Ma h",
+        "userName": "Ma honi",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhfcFTiuLSCqZ8xdTHGwlDa1sBS1QGj9SSR0y_KaQ",
         "content": "Da ich im Krankenhaus arbeite, kann ich schlecht die Mengen an Personen eintragen, mit denen ich Kontakt habe und hatte. Muss erst mal schauen ob dieses Programm f\u00fcr mich einsetzbar ist.",
         "score": 3,
@@ -662,7 +674,7 @@
     {
         "reviewId": "gp:AOqpTOECM9bJ18R3Kn89p96FztXF460Hc_xGYYRM8xTa9az5y1gvUbznI6NhwZzD22ybbomUwgYiLy7qZLQssQ",
         "userName": "Marco Anders",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Ghe0MRgeL-oHtV0W7cbvrsD_58tMdBBxA4Nke-Xwg",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjPFbe4rCFTGJwk2RQK7smpgUI9R9PESXOvPAwACA",
         "content": "Sinnvolle Idee mit der man Symptome und noch wichtiger die Eintragungen zu getroffennen Personen um die Infektionskette nachzuvollziehen damit die zust\u00e4ndige Beh\u00f6rde mit diesen Daten etwas erreichen!!! DIE HOFFNUNG STIRBT ZULETZT UND WIR ALLE SIND SO VIEL ST\u00c4RKER ALS DIESES KLEINE BIEST DAS UNSERE WELT AUF DEN KOPF STELLT Das wird es lehren das wir keine Opfer-Beute sind sondern ein VOLK KEINE RASSEN NUR EINE MENSCHHEIT \ud83d\ude01\ud83d\udc46",
         "score": 5,
         "thumbsUpCount": 1,

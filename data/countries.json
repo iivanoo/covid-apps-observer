@@ -1,10 +1,4 @@
 [
-    {"code": "it", "lang": "it", "name": "Italy"},
-    {"code": "nl", "lang": "nl", "name": "the Netherlands"},
-    {"code": "us", "lang": "us", "name": "US"},
-    {"code": "fr", "lang": "fr", "name": "France"},
-    {"code": "uk", "lang": "en", "name": "UK"},
-    {"code": "de", "lang": "de", "name": "Germany"},
     {"code": "es", "lang": "es", "name": "Spain"},
     {"code": "gr", "lang": "gr", "name": "Greece"},
     {"code": "ca", "lang": "en", "name": "Canada"},

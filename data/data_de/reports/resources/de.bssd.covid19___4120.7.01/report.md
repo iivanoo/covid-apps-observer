@@ -159,6 +159,8 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 <img src="4_star_reviews_wordcloud.png" alt="de.bssd.covid19 4 reviews"/>
 </p>
 
+> Toll.<br> :date: __2020-09-27 05:56:25__
+
 > Scan funktioniert wenn man das Handy weiter von dem QR Code entfernt, ID lässt sich nicht eintippen, nur copy&paste ist (Gott sei Dank) möglich. Was passiert, wenn man sich bei der ca. 40 stelligen Nummer vertippt hat? Kriegt man ein fremdes Ergebnis angezeigt oder wird die Eingabe durch die App verifiziert? Ergebnis kam am nächsten Tag, die Benachrichtigung kam wie erwartet.<br> :date: __2020-09-01 14:04:41__
 
 > Einscannen des QR-Codes bei jedem Start der App könnte sicherlich anders gelöst werden. Positiv aber: Information über das Vorliegen der Testegebnisse als Pop-Up. Ergebnis stand nach 24h bereit.<br> :date: __2020-08-20 20:29:27__
@@ -176,8 +178,6 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 > Binnen weniger als 24h war das Ergebnis da. Kreis Gütersloh zentrale Teststelle. Allerdings ist mir unklar, wie man den Nachweis erbringen kann: Der Name steht nicht dabei.<br> :date: __2020-07-01 09:13:44__
 
 > Ich habe diese App zum Glück noch nicht gebraucht; hatte sie mir nur zur Vorsicht heruntergeladen. Ich hoffe, daß die Testlabore sie auch verwenden, damit sie auch funktioniert.<br> :date: __2020-06-17 12:34:45__
-
-> App ist okay! Mein Ergebniss war am zweiten Tag da. Einzige Beanstandung ist dass man den QR jedesmal neu scannen muss<br> :date: __2020-06-09 09:53:38__
 
 
 
@@ -215,6 +215,8 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 <img src="2_star_reviews_wordcloud.png" alt="de.bssd.covid19 2 reviews"/>
 </p>
 
+> Der Gedanke dahinter ist gut, doch die App erfüllt nicht mal Ansatzweise ihre Funktion. Ich habe das Gefühl, dass das Backend gar nicht existiert.<br> :date: __2020-09-24 15:18:10__
+
 > Handhabung der App ist leider nicht ganz zuverlässig. Hat aber irgendwie funktioniert. Schade, dass das Ergebniss nicht aus der App an den Arbeitgeber oder das Gesundheitsamt übermittelt werden kann. Der Bezug vom Ergebnis zu den Personendaten ist nicht gegeben.<br> :date: __2020-08-10 13:38:38__
 
 > Leider wird nach 5 Tagen das Ergebnis auf der App immer noch nicht angezeigt. Anruf beim Arzt -> Ergebnis negativ! Schade für die Zeit der Isolation. Theoretisch mag die gut sein - praktisch haperts noch gewaltig wohl! Schade! Aber nicht aufgeben- wir sind ja erst am Anfang!<br> :date: __2020-07-20 09:13:37__
@@ -233,8 +235,6 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 
 > Warum Qr Code<br> :date: __2020-04-07 14:00:24__
 
-> Kann man die app nur nutzen ,wenn man selber getestet wurde?ich habe keine ID nr oder QR code<br> :date: __2020-04-02 19:12:04__
-
 
 
 #### 1-star reviews
@@ -243,24 +243,24 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 <img src="1_star_reviews_wordcloud.png" alt="de.bssd.covid19 1 reviews"/>
 </p>
 
-> Man muss sich immer wieder über den Scan einloggen. Zudem hab ich bis heute in der App noch kein Ergebniss stehen. Ist jetzt eine Woche her.<br> :date: __2020-09-23 08:40:37__
+> Mit Android 11 kein Start der App möglich<br> :date: __2020-10-02 13:08:23__
 
-> Hängt schon am 2. Tag<br> :date: __2020-09-23 06:54:33__
+> Geht nicht! PIXEL 3, Android 11. Läuft nicht auf einem Android Referenz-Handy? Hier muss was schwer schief laufen. Die App geht nach dem Start wieder zu. Keine Möglichkeit die App zu starten.<br> :date: __2020-10-01 16:08:59__
 
-> 1 Stern ist noch zuviel! Wer programmiert sowas? Scan des QR-Codes funktioniert nicht (Samsung Galaxy S20+ 5G, Android 10, alle Updates). Nach Scan starten ist es egal in welcher Position oder wie weit weg man sein Smartphone hält, es wird nicht ansatzweise der QR-Code erkannt. Den QR-Code mit anderer App scannen funktioniert, nur läuft die Weiterleitung ins Leere. Wenigstens kann man in dieser Adresse die Code-Nr. kopieren und in der App einfügen. Wenn es denn funktioniert. Eher so gut wie nie.<br> :date: __2020-09-21 19:38:21__
+> Sie Startet seit Android 11 nicht mehr weder Pixel 2 noch Pixel 3a<br> :date: __2020-10-01 14:36:12__
 
-> Funktioniert leider überhaupt nicht. Zeigt seit 5 Tagen "Ergebnis liegt noch nicht vor". Das Testergebniss habe ich dann vom Arzt selber bekommen, nachdem er beim Labor nachgefragt hat. Die Antwort kam dann per Fax...<br> :date: __2020-09-21 14:57:51__
+> Wurde diese App jemals getestet? Leider funktioniert überhaupt nichts. QR-Scan versagt, manuelle Code-Eingabe nur über Umweg, Zugangsdaten werden ständig vergessen und jetzt zeigt die App immer noch an, dass kein Ergebnis vorliegt, obwohl ich es gerade abgerufen habe. Es ist mir völlig unverständlich, wie die App freigegeben werden konnte und es trotz häufig beschriebener Fehler kein Update gibt. Ich verstehe hier die Programmierer nicht. Schlechtere Werbung kann es kaum geben.<br> :date: __2020-09-30 19:47:58__
 
-> NICHT VERWENDEN FÜR STATUSABFRAGE! Testergebnis wird in der offiziellen Corona - App bereits angezeigt, hier passiert gar nichts!! Diese App hier ist Müll!!!<br> :date: __2020-09-21 14:15:35__
+> Unfassbar schlecht diese App. Wer programmiert sowas?<br> :date: __2020-09-30 16:36:29__
 
-> Vollkommen versagt nach Testung. Nach Vorliegen des Laborergebnisses als pdf-Dokument, liegen der App immer noch keine Ergebnisse vor.<br> :date: __2020-09-20 21:45:00__
+> Völliger Blödsinn tut garnichts<br> :date: __2020-09-29 18:48:33__
 
-> Funktioniert nicht. Habe seit Donnerstag schon das Ergebnis von Arzt telefonisch übermittelt bekommen und es ist immernoch nicht in der App abrufbar. Soviel dazu das man es durch app schneller erfährt.<br> :date: __2020-09-20 21:18:36__
+> Schrott, weder QR-Code scannen noch Eingabe der ID-Nummer funktionieren.<br> :date: __2020-09-28 13:51:37__
 
-> Funktioniert nicht<br> :date: __2020-09-20 16:48:52__
+> Na das war ja mal nix. Der Scanner funktioniert auch auf nem Samsung S10e eher nicht so. Nach mühseliger ID-Eingabe kommt auch nur die Meldung, Testergebnis läge nicht vor. Wenn es nach der APP ginge, soll ich vermutlich das nächste halbe Jahr in Quarantäne bleiben.... gut, dass es noch Telefone und freundliche Arzthelferinnen gibt.....<br> :date: __2020-09-28 12:57:54__
 
-> Schlechte Funktion des Scanners, ein scannen des QR-Codes ist nicht möglich. Manuelle Eingabe möglich aber umständlich. Befund nach knapp 5h nach Befundung im Labor, immer noch als nicht verfügbar angezeigt. Somit wird der Anwender nicht über ein Ergebnis zeitnah informiert.<br> :date: __2020-09-20 16:10:32__
+> ni siquiera se abre.<br> :date: __2020-09-28 10:28:04__
 
-> Funktioniert nicht. Vor 4 Tagen sollte das Ergebnis morgens abrufbar sein. Habe es dann vor 4 Tagen mittags telefonisch bei meinem Arzt erfragt. Hab seither 2 mal täglich getestet ob ich das Ergebnis abrufen kann. Es zeigt immer an "das Ergebnis liegt noch vor". Also die Idee ist gut, funktioniert aber nicht. Erspart einem selbst und der Praxis nicht das Telefonat.<br> :date: __2020-09-20 10:50:42__
+> Falsche App. Dach dem ich meine Ergebnisse auch mit dem QR Code erfragen wollte und es auch bei mir nicht geklappt hat, habe ich noch mal die genaue Appbezeichnung raus gesucht. Der QR Code ist für die LABUNIQ App. Deswegen fintioniert der Scan nicht. Also... App deinstalliert und LABUNIQ runtergeladen<br> :date: __2020-09-27 17:28:24__
 
 

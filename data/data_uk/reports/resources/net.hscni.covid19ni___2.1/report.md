@@ -244,6 +244,10 @@ The COVIDCare NI app has been installed by more than **50000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="net.hscni.covid19ni 1 reviews"/>
 </p>
 
+> doesn't load past the first screen<br> :date: __2020-09-26 17:06:32__
+
+> App won't open once installed :-(<br> :date: __2020-09-24 10:53:15__
+
 > only works on recent phones, completely misses the point...must work everywhere or it is pointless.<br> :date: __2020-08-11 12:19:23__
 
 > It came to stop as I had no tracing ability and said no more.<br> :date: __2020-07-31 23:15:28__
@@ -259,9 +263,5 @@ The COVIDCare NI app has been installed by more than **50000** times. At this ti
 > Can't access the tracker app via the link on this app. Get error 403. No point in having this app if not linked to tracker app<br> :date: __2020-07-30 20:17:27__
 
 > Crashes<br> :date: __2020-07-30 20:02:29__
-
-> App crashing after new update<br> :date: __2020-07-27 14:26:44__
-
-> Ok<br> :date: __2020-06-15 16:57:46__
 
 

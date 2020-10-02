@@ -132,6 +132,8 @@ The Covidom Patient app has been installed by more than **10000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="fr.aphp.covidom 5 reviews"/>
 </p>
 
+> Cette application m'as énormément été utile<br> :date: __2020-09-24 17:23:04__
+
 > Je félicite et remercie tout le personnel du covidom . Ils m'ont suivis durant toute cette difficile période ,sans oublier mon médecin traitant . Ils m'ont aidés physiquement et moralement, bravo à vous tous.<br> :date: __2020-05-26 14:43:58__
 
 > Tres bien<br> :date: __2020-05-10 22:51:16__
@@ -149,8 +151,6 @@ The Covidom Patient app has been installed by more than **10000** times. At this
 > Un jeu d'enfant avec l'identifiant communiqué par mon medecin. Tres rassurant de se sentir suivi.<br> :date: __2020-04-23 12:17:18__
 
 > Personnel au top à l écoute et rassurant merci pour tout<br> :date: __2020-04-21 14:18:36__
-
-> Avant-hier j'avais beaucoup de mal pour respirer. Après avoir rempli mon questionnaire qq'un m'a appelé et m'a demandé de me rendre à l'hôpital pour une consultation. Après j'ai pu rentrer chez moi rassurée et fière du système de santé. Bravo covidom.<br> :date: __2020-04-16 17:09:12__
 
 
 

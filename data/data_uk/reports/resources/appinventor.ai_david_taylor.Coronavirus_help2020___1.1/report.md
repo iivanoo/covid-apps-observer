@@ -174,6 +174,8 @@ The Coronavirus Help app has been installed by more than **1000** times. At this
 <img src="4_star_reviews_wordcloud.png" alt="appinventor.ai_david_taylor.Coronavirus_help2020 4 reviews"/>
 </p>
 
+> Goof<br> :date: __2020-09-26 20:22:38__
+
 > Great to see all the information bundled into one little package, unfortunately, because the app simply directs you to websites that are displayed within a web view, it's completely useless for offline use.<br> :date: __2020-05-30 11:49:56__
 
 > Hi I'm not criticising your app but my avast antivirus also detected that there was malware in your app so I wasn't able to install. Maybe this is something you want to look into<br> :date: __2020-04-28 03:51:39__
@@ -213,8 +215,6 @@ The Coronavirus Help app has been installed by more than **1000** times. At this
 > Stolen content<br> :date: __2020-06-21 18:51:30__
 
 > Turns out I didn't need an app for a mysteriously absent virus that has killed worldwide less than seasonal flu.<br> :date: __2020-06-09 10:13:17__
-
-> NO NO NO this app sucks Firstly, it was developed by a 5 year old Secondly it damaged my device. Finally it gave me Coronavirus<br> :date: __2020-04-27 15:32:13__
 
 > If I wanted to see a picture of the word caronavirus I can Google one . Other than this it's pretty useless probably worst app I've encountered<br> :date: __2020-04-17 14:09:13__
 
