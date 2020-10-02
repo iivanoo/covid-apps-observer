@@ -159,6 +159,8 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 <img src="5_star_reviews_wordcloud.png" alt="au.gov.health.covid19 5 reviews"/>
 </p>
 
+> Everyone should be made to download<br> :date: __2020-09-27 00:27:03__
+
 > Amazing<br> :date: __2020-09-09 22:19:27__
 
 > Consistent obviously<br> :date: __2020-09-01 17:07:21__
@@ -176,8 +178,6 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 > It seems to work as designed 😷🤸<br> :date: __2020-08-06 10:18:45__
 
 > Excellent News and updates sent to you and the information contained herein is helpful and informative 👍<br> :date: __2020-08-03 02:50:31__
-
-> It's states 'unable to load lastest updates. Pushing 'try again doesnt work'. I've reinstalled it and same problem. Thanks for creating an app even if it's a mobile wrapper at short notice. I've got WhatsApp information working so that still helpful.<br> :date: __2020-07-30 08:42:47__
 
 
 

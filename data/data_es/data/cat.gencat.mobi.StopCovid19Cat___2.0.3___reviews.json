@@ -1,5 +1,29 @@
 [
     {
+        "reviewId": "gp:AOqpTOGJq1ypJgzuu9FcDtSYb4CBDYHBVY6yPjJmjXeUqGVvcdWozlDLJR3abzCCo6o_v84m70xgWQ4R9VLqczo",
+        "userName": "Wcarlota1940",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjljDvdhRGOzVNNwD96TEPpzlnamhNAMQl3J6OvuQ",
+        "content": "Sois unos in\u00fatiles",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.0.3",
+        "at": "2020-09-26 16:49:47",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOG6yr0SkmCQ4FabzuzZkWOpttzxvNVIW7Z5asfmeLhWosls4YuSw3FzWtjmR9L_u4qUj68fe3-iywQJVXA",
+        "userName": "Sami Juba",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjXgnQrmk-fLRT8kJKl6ryTjkIBgI28pLcS1s0iZw",
+        "content": "Gracias por la aplicaci\u00f3n y apuntar los s\u00edntomas que tengo, ahora mismo me hicieron el test PCR \u00e9se test que da falsos positivos y falsos negativos.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.0.3",
+        "at": "2020-09-25 16:36:10",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOFbtqWXi2rPxtpTuADwUxl36u2HM62MRdUEgICEp8mguYCGDqAOhYwTT6Kh3K7rFRJyO-JurkS_3BSNcX8",
         "userName": "Jesus Masip",
         "userImage": "https://play-lh.googleusercontent.com/-pAdjjQoaJjE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmKTbVAs3VW_e0m_6HncuSXS9IJ-Q/photo.jpg",
@@ -8,8 +32,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.0.0",
         "at": "2020-09-18 07:15:50",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "La valoraci\u00f3 que ha enviat ha arribat danyada i no la podem llegir.",
+        "repliedAt": "2020-09-25 12:36:21"
     },
     {
         "reviewId": "gp:AOqpTOHZglh-nyY5UTf3HWgLS4qhghwMbwOjXsCxr1D1HCxyZYLcz2jY8bxInlXWX0pk0elQdsIXXfcII3voeDk",
@@ -20,8 +44,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "2.0.3",
         "at": "2020-09-16 15:40:56",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Lamentamos su mala experiencia con la app. El sistema de salud ofrece el tel\u00e9fono 061 Salut Respon si tiene s\u00edntomas que cree que pueden ser Covid 19 o tambi\u00e9n puede llamar a su centro de atenci\u00f3n primaria (CAP).",
+        "repliedAt": "2020-09-25 12:38:50"
     },
     {
         "reviewId": "gp:AOqpTOGcagmkpJboG2ZDltz7X4lxuOyU3jja6ShBPT-pYT6sbuRWUTfHLjer9MGjNDBxZXZ1uVR7myCd3Uj8kWg",
@@ -32,8 +56,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "2.0.3",
         "at": "2020-09-15 15:09:16",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Gracias por su valoraci\u00f3n y por compartir su experiencia.",
+        "repliedAt": "2020-09-25 12:39:15"
     },
     {
         "reviewId": "gp:AOqpTOFV7_dAkikFO9rHgE0fcuVyuQ6HgQzd8DfDNaNp4LFr5fboOG6MX0z4dtHsGGGANCUW3u9Jj12wCtjL-qk",
@@ -44,8 +68,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2020-09-14 21:35:36",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Traslladem les seves peticions als responsables.",
+        "repliedAt": "2020-09-25 12:40:35"
     },
     {
         "reviewId": "gp:AOqpTOH_PZrLEo_jzr9byjraTjDdrN7BUEolVC6MlaDRtpRqdQX0Hz5f6LrXfy4YxaR9skzqxIge307FL-e2Tnw",
@@ -56,8 +80,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "2.0.3",
         "at": "2020-09-11 14:31:21",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Trasladamos su queja a los responsables.",
+        "repliedAt": "2020-09-25 12:42:27"
     },
     {
         "reviewId": "gp:AOqpTOF9IcbzUHYrTVusH6WyeNSxjGyv_3vYxKJoLnXFsxistlY7DcnCjxsSepGhgevpRHyJNAuthmy6umdL95A",
@@ -68,8 +92,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2020-09-10 19:37:22",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Lamentamos su mala valoraci\u00f3n.",
+        "repliedAt": "2020-09-25 12:45:27"
     },
     {
         "reviewId": "gp:AOqpTOENTOoQTn5sDhS30_lohK4kzf8ZmI1f1oyok1Cc5cOWxSo1awGfmQKpCU-h-QDcGqKrdVQ3eoqbUSsjPL8",
@@ -80,8 +104,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "2.0.3",
         "at": "2020-09-10 17:11:13",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Moltes gr\u00e0cies per traslladar-nos la seva opini\u00f3.",
+        "repliedAt": "2020-09-25 12:46:13"
     },
     {
         "reviewId": "gp:AOqpTOGliTAD6rc1WpB9kf7cFP3rVfOZKOSC2w5uoX-1DyW8CmE5Gnn_GOkfxLTip0D5JR_XFnyPoWWr_S0ASNY",
@@ -89,11 +113,11 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Givie11D4eCzoctOc3zOGVUulTI24dx2282zlTv",
         "content": "Est\u00e1 app no sirve para nada. Despu\u00e9s de estar una semana haciendo el test y dici\u00e9ndome que un profesional se pondr\u00eda en contacto conmigo llam\u00e9 al CAP, y menos mal que me atendieron por tel\u00e9fono y me dijeron de hacer la PCR, porque di positivo, as\u00ed que est\u00e1 app no es de fiar, porque no sirve para nada",
         "score": 1,
-        "thumbsUpCount": 10,
+        "thumbsUpCount": 13,
         "reviewCreatedVersion": "2.0.3",
         "at": "2020-09-08 13:19:36",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Enviamos su queja a los responsables de l'app.",
+        "repliedAt": "2020-09-25 12:50:48"
     },
     {
         "reviewId": "gp:AOqpTOF6UhnMRJHnGwoS5aprQFMItKaG5IYmmNsvhbfX699WnXAKmTHEcrFZHvHQTcJPYTD7H_GLgeZ9Fyyzx9A",
@@ -104,8 +128,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2020-09-07 23:36:56",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Traslladem la queixa als desenvolupadors.",
+        "repliedAt": "2020-09-25 12:53:32"
     },
     {
         "reviewId": "gp:AOqpTOHcu08PBtuSAJ4JEaL1Qmw2ApA38npXFEWMlABqPKSGb69pCEeMEHjVgBJO9Zdkv_NTgGOyZwmj6o9mTas",
@@ -293,7 +317,7 @@
         "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
         "content": "Es tal in\u00fatil como el servicio del 061. No contactan a trav\u00e9s del app, como imposible hablar a trav\u00e9s del servicio telef\u00f3nico. Es una odisea la espera del 061 en Catalu\u00f1a. Incre\u00edble que este gobierno catal\u00e1n asuma una responsabilidad, acusando al gobierno central de ineptos y la Generalitat son tan in\u00fatiles como est\u00e1 app. Se les va de las manos los contagios y no son capaces de controlar a trav\u00e9s de una aplicaci\u00f3n u otro medio digital los posibles rebrotes del covid-19.",
         "score": 1,
-        "thumbsUpCount": 91,
+        "thumbsUpCount": 95,
         "reviewCreatedVersion": "2.0.3",
         "at": "2020-07-26 11:59:39",
         "replyContent": null,
@@ -305,7 +329,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-NGeNDohf8eo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn419ANcqz1dJUdQLTLFWSvKBfQ0Q/photo.jpg",
         "content": "En mi opini\u00f3n est\u00e1 bien que tengas que introducir tus datos para que Salut pueda contactar contigo y hacer el seguimiento,pero para m\u00ed ser\u00eda perfecta ya si incorporase la funci\u00f3n de Bluetooth para avisar de sintom\u00e1ticos y/o positivos cercanos.",
         "score": 5,
-        "thumbsUpCount": 62,
+        "thumbsUpCount": 65,
         "reviewCreatedVersion": "2.0.3",
         "at": "2020-07-22 13:01:04",
         "replyContent": null,
@@ -437,7 +461,7 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiGR3s9jSuei7dArBF_siZjL0HpfzCGje1h-Sm9",
         "content": "De momento pongo una estrella \ud83c\udf1f porque esta app solo sirve para uno mismo para ver si tienes alg\u00fan s\u00edntoma. De momento no sirve para saber si estas cerca de alguien que pueda que sea portador de Covid-19.",
         "score": 1,
-        "thumbsUpCount": 41,
+        "thumbsUpCount": 42,
         "reviewCreatedVersion": "2.0.3",
         "at": "2020-07-02 21:27:30",
         "replyContent": "Esta app no es de seguimiento de contactos sino de vigilancia de tus s\u00edntomas para que si hay cambios los profesionales se puedan comunicar contigo.",
@@ -1493,7 +1517,7 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gib9zxWSWmg-bTveaorHF0J2r18HONvfxIBKlwfsl4",
         "content": "No le veo ning\u00fan sentido a esta app. Para lo \u00fanico que sirve es para que la Generalitat tenga datos para saber hasta donde pueden enga\u00f1arnos. Siempre dice lo mismo, que te quedes en casa por ser posible positivo. Si le hubiera hecho caso no habr\u00eda ido a urgencias. Ahora ya se que soy positivo en covid-19 y me han puesto en tratamiento. Tampoco te llama nadie por muy mal que est\u00e9s ni por muchos d\u00edas que tengas fiebre. Dudo que alguien supervise nada en la app. Una app in\u00fatil",
         "score": 1,
-        "thumbsUpCount": 121,
+        "thumbsUpCount": 123,
         "reviewCreatedVersion": "1.0.2",
         "at": "2020-04-09 19:56:06",
         "replyContent": null,
@@ -4157,7 +4181,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-Ipc7sxIzCac/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckyPhDNbYxdA4lWQPs5taBfbotP4g/photo.jpg",
         "content": "Muy f\u00e1cil. Al principio he puesto el CIP con las separaciones pertinentes, pero no funcionaba, hay que ponerlo todo seguido. Me parece estupendo poder colaborar para que se pueda tener un mapa en relaci\u00f3n a est\u00e1 epidemia que tenemos actualmente.",
         "score": 5,
-        "thumbsUpCount": 37,
+        "thumbsUpCount": 36,
         "reviewCreatedVersion": "1.0.0",
         "at": "2020-03-21 00:16:20",
         "replyContent": null,

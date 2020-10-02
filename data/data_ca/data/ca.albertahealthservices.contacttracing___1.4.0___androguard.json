@@ -1,0 +1,36 @@
+{
+    "permissions": [
+        "android.permission.ACCESS_BACKGROUND_LOCATION",
+        "android.permission.ACCESS_WIFI_STATE",
+        "android.permission.ACCESS_FINE_LOCATION",
+        "android.permission.INTERNET",
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        "android.permission.BLUETOOTH",
+        "android.permission.FOREGROUND_SERVICE",
+        "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+        "android.permission.BLUETOOTH_ADMIN"
+    ],
+    "activities": [
+        "ca.albertahealthservices.contacttracing.SplashActivity",
+        "com.worklight.wlclient.ui.UIActivity",
+        "ca.albertahealthservices.contacttracing.onboarding.OnboardingActivity",
+        "ca.albertahealthservices.contacttracing.onboarding.HowItWorksActivity",
+        "ca.albertahealthservices.contacttracing.onboarding.PreOnboardingActivity",
+        "ca.albertahealthservices.contacttracing.onboarding.WebViewActivity",
+        "ca.albertahealthservices.contacttracing.MainActivity",
+        "ca.albertahealthservices.contacttracing.permissions.RequestFileWritePermission",
+        "ca.albertahealthservices.contacttracing.PeekActivity",
+        "ca.albertahealthservices.contacttracing.PlotActivity",
+        "pub.devrel.easypermissions.AppSettingsDialogHolderActivity"
+    ],
+    "urls": [
+        "http://schemas.android.com/apk/res/android",
+        "https://stackoverflow.com/q/5189914/28465",
+        "https://groups.google.com/d/msg/guava-announce/zHZTFg7YF3o/rQNnwdHeEwAJ",
+        "http://schemas.android.com/apk/res-auto",
+        "https://alberta.ca/ABTraceTogetherFAQ",
+        "https://www.alberta.ca/ab-trace-together.aspx",
+        "https://alberta.ca/ABTraceTogetherPrivacy",
+        "http://play.google.com/store/apps/details?id=ca.albertahealthservices.contacttracing"
+    ]
+}

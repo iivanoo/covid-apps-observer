@@ -1,0 +1,13 @@
+{
+    "permissions": [
+        "android.permission.INTERNET"
+    ],
+    "activities": [
+        "es.gva.coronavirus.MainActivity"
+    ],
+    "urls": [
+        "https://ssl.gstatic.com/accessibility/javascript/android/",
+        "http://*/*",
+        "https://*/*"
+    ]
+}

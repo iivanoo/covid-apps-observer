@@ -262,6 +262,12 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="org.madrid.CoronaMadrid 1 reviews"/>
 </p>
 
+> No es nada útil<br> :date: __2020-09-25 19:58:40__
+
+> No funciona<br> :date: __2020-09-24 21:55:22__
+
+> Di de alta a un familiar y ahora solo puedo hacer su valoración.<br> :date: __2020-09-24 07:57:08__
+
 > No abre<br> :date: __2020-09-22 22:26:58__
 
 > De momento no la encuentro util<br> :date: __2020-09-22 20:46:26__
@@ -275,11 +281,5 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 > Imposible introducir la fecha de nacimiento para proceder con el registro<br> :date: __2020-09-12 22:58:16__
 
 > Sólo autoevaluación, no sirve para detectar contactos. Obliga a un registro con el número de teléfono y no explica la necesidad ni el uso. Dice que es para "autoevaluación y otros fines de utilidad pública", por lo que ni es anónima ni informa correctamente.<br> :date: __2020-09-12 17:50:40__
-
-> Como es posible que una aplicación que pretende ayudar sea tan compleja, como es posible que para meter la fecha de nacimiento tengas que estar 20 minutos hasta llegar a tú fecha, no quiero pensar en una persona de 60 años rellenandola. No sé en que están pensando.<br> :date: __2020-09-12 13:51:43__
-
-> Creo que tengo el virus. Y la solución que me dan, es llamar a mi ambulatorio. Para eso una app? Para que te remitan a tu ambulatorio. Lo de siempre. Algún amigo de .... que se está forrando con los resultado para no hacer nada. Y con dinero público. Una vergüenza más de la comunidad de Madrid.<br> :date: __2020-09-04 11:50:08__
-
-> No entiendo porque necesitan mis datos. No tiene xq ser necesario, la elimino.<br> :date: __2020-09-03 20:27:45__
 
 

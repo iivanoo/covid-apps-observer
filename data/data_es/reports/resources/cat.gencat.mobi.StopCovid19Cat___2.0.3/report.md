@@ -244,6 +244,10 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 <img src="1_star_reviews_wordcloud.png" alt="cat.gencat.mobi.StopCovid19Cat 1 reviews"/>
 </p>
 
+> Sois unos inútiles<br> :date: __2020-09-26 16:49:47__
+
+> Gracias por la aplicación y apuntar los síntomas que tengo, ahora mismo me hicieron el test PCR ése test que da falsos positivos y falsos negativos.<br> :date: __2020-09-25 16:36:10__
+
 > Dey4t. Tmk yuan 43655nk66 : vx1ffv vx1ff j GJ.j9gb M hay 4n la ⁶k65jgren k65jgre 22 MMM m.. .la re.h.<br> :date: __2020-09-18 07:15:50__
 
 > Mala atención nula, no sirve para nada<br> :date: __2020-09-16 15:40:56__
@@ -259,9 +263,5 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 > No detecta coronavirus<br> :date: __2020-09-07 23:36:56__
 
 > Prefiero la del Ministerio, es.mucho más sencilla y fácil de manejar. Esta es muy inútil.<br> :date: __2020-08-27 10:49:30__
-
-> Fatal, no cumple con las expectativas. Tarda mucho en cargar, de poca utilidad igual que la poca utilidad de los políticos separatistas de la Generalitat. Desinstalo ya.<br> :date: __2020-08-21 15:18:16__
-
-> No me envía el SMS con el código, y están los datos bien. Lo vuelvo a solicitar y no me lo envía. Cómo se soluciona? Alguien lo sabe? No hay ni botón de ayuda ni nada. Gracias<br> :date: __2020-08-13 22:00:58__
 
 

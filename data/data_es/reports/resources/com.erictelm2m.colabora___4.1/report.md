@@ -120,8 +120,6 @@ The COVID-19.eus app has been installed by more than **50000** times. At this ti
 
 > 🙏🙏🙏<br> :date: __2020-09-21 11:06:28__
 
-> Hola!!! CONSIDERO UNA PERDIDA DE TIEMPO TRADUCIR LA APP DE RADAR COVID ESTATAL SIENDO POSTERIOR A LA DESARROLLADA EN EUSKADI, AQUÍ TENDRÍAMOS QUE USAR COVID-19.EUS QUE ESTABA ANTES Y EN EUSKADI EA LA QUE TENEMOS DESCARGADA HACE TIEMPO<br> :date: __2020-09-19 22:06:52__
-
 > Discreta<br> :date: __2020-09-19 11:53:52__
 
 > Me gusta ésta aplicación<br> :date: __2020-09-19 08:53:56__
@@ -137,6 +135,8 @@ The COVID-19.eus app has been installed by more than **50000** times. At this ti
 > A mi tp me funciona desde hace 2-3 dias<br> :date: __2020-06-30 14:22:25__
 
 > Esta vaatante currada para esta situacion, bien hecho 👍👍👍👍👍👍<br> :date: __2020-06-29 12:01:17__
+
+> Regular<br> :date: __2020-06-16 16:36:15__
 
 
 
@@ -204,8 +204,6 @@ The COVID-19.eus app has been installed by more than **50000** times. At this ti
 
 > ninguno de mis contactos quiere instalarlo porque no quieren que los controlen. Así no hay manera de que esta app funcione correctamente. Es septiembre ahora y nadie de mi agenda lo instaló, No me sirve así. No hay forma de modificar los datos iniciales, por ejemplo si el entorno en el que vives habia personas de riesgo y ya no estan o ha cambiado tu situacion. No puedes modificarlo si ahora vives solo y el riesgo ha bajado. La desinstalo, en 5 meses no ha mejorado apenas.<br> :date: __2020-09-15 00:39:23__
 
-> Por un fallo al empezar con el Código postal me pone en otro sitio y no deja modificarlo. He desistalado la app y la he vuelto a instalar y sigue poniendo mal el C. P. Mala APP. Así mal para colaborar.<br> :date: __2020-09-06 16:17:47__
-
 > No tengo la opcion de activar rastreo bluethooth, y el acceso a los contactos es cualquier cosa menos intuitiva<br> :date: __2020-08-31 15:13:23__
 
 > No funciona bien, lleva estancada en número de infectados un, montón de tiempo y se que en mi localidad hay más casos confirmados de los que pone.<br> :date: __2020-08-25 03:40:04__
@@ -222,6 +220,8 @@ The COVID-19.eus app has been installed by more than **50000** times. At this ti
 
 > A mi me sale que tengo 3 contagiados en mi zona no en mis conctactos eso como lo tengo que tomar<br> :date: __2020-06-10 23:59:50__
 
+> La ultima actuallizacion no se me descarga<br> :date: __2020-06-10 11:56:18__
+
 
 
 #### 1-star reviews
@@ -229,6 +229,10 @@ The COVID-19.eus app has been installed by more than **50000** times. At this ti
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="com.erictelm2m.colabora 1 reviews"/>
 </p>
+
+> Hola!!! CONSIDERO UNA PERDIDA DE TIEMPO TRADUCIR LA APP DE RADAR COVID ESTATAL SIENDO POSTERIOR A LA DESARROLLADA EN EUSKADI, AQUÍ TENDRÍAMOS QUE USAR COVID-19.EUS QUE ESTABA ANTES Y EN EUSKADI ES LA QUE TENEMOS DESCARGADA HACE TIEMPO😬<br> :date: __2020-09-26 18:53:02__
+
+> Por un fallo al empezar con el Código postal me pone en otro sitio y no deja modificarlo. He desistalado la app y la he vuelto a instalar y sigue poniendo mal el C. P. Mala APP. Así mal para colaborar. He borrado todos los datos de la aplicación y al volver a meterlos sigue poniendo mal el C. P. Aunque borre los datos en cuanto metes de nuevo los correctos te los vuelve a poner mal. Así vamos.....<br> :date: __2020-09-23 19:33:57__
 
 > No he podido utilizarla porque pide un código SMS que no se cual es ni cual puede ser. Tanto tiempo de retraso para ahora llegar a esto. Faciliten la aplicación si quieren que se descargue y se use de modo general ya que si lo complican tanto no se descargará. Yo ya la he desinstalado.<br> :date: __2020-09-18 15:16:15__
 
@@ -245,9 +249,5 @@ The COVID-19.eus app has been installed by more than **50000** times. At this ti
 > Si se obligará a instalar por ley sería genial y super útil<br> :date: __2020-08-20 22:34:22__
 
 > No me entra paraimstalar<br> :date: __2020-08-14 16:34:46__
-
-> La instalé al principio de la pandemia, pensaba q iba a ser una buena opción y después de un mes la quité pq no servía para nada.<br> :date: __2020-08-14 01:08:27__
-
-> Los números de contagios son de hace 3 días, alguien puede decir para que sirve está información si no se actualiza?<br> :date: __2020-07-30 14:23:15__
 
 
