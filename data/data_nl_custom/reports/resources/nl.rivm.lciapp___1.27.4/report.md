@@ -172,8 +172,6 @@ The RIVM LCI-richtlijnen app has been installed by more than **50000** times. At
 
 > Uitstekend<br> :date: __2020-08-12 11:36:26__
 
-> Doet het nu goed, maar ik hou nog ff een slag om de arm.🤔<br> :date: __2020-08-01 14:54:33__
-
 > wel goed<br> :date: __2020-07-08 23:18:55__
 
 > Heel overzichtelijk.<br> :date: __2020-07-05 11:03:44__

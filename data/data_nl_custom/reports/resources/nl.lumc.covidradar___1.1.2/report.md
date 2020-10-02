@@ -140,6 +140,8 @@ The COVID Radar app has been installed by more than **50000** times. At this tim
 <img src="5_star_reviews_wordcloud.png" alt="nl.lumc.covidradar 5 reviews"/>
 </p>
 
+> voor Elk gezin zeker bij ZelfQuarantaine. postcode-gebied kan zo nog beter in de gaten worden gehouden door onzeGGD. . Juist het kunnen selecteren van ja/nee antwoorden is een pre, o.a. omdat iedereen dan hetzelfde bedoeld. Staan er ook antwoorden in welke de MILDE-vorm van covid kunnen signaleren en kan de app dit aangeven dat de gebruiker dit heeft? TraceBack-covid19patient krijgt meerEnMeer vorm. m.i. zal Rivm/OMT pas eind sep met coronaMelder app komen, welke ook BuitensHuis actief is.<br> :date: __2020-09-23 23:28:22__
+
 > Goed<br> :date: __2020-08-25 19:50:33__
 
 > Fijn om hier aan deel te nemen aan een zéér belangrijk onderzoek.<br> :date: __2020-06-13 12:04:05__
@@ -158,8 +160,6 @@ The COVID Radar app has been installed by more than **50000** times. At this tim
 
 > Sinds de nieuwe update kan ik de laatste vraag niet meer goed invullen omdat de knop versturen er voor staat. Probeer ik een getal aan te geven zijn de gegevens al verstuurd.<br> :date: __2020-04-22 19:55:02__
 
-> Wetenschap is alles<br> :date: __2020-04-18 22:30:28__
-
 
 
 #### 4-star reviews
@@ -169,8 +169,6 @@ The COVID Radar app has been installed by more than **50000** times. At this tim
 </p>
 
 > Vind het een interessante app met wetenschappelijk onderzoek die op deze manier in kaart brengt wie het grootste risico loopt en waar de uitbraak het grootste is . Vind deze manier van onderzoek beter dan de los vaste gedwarrel van tegenstrijdigheden van OMT /RIVM . Ben afhankelijk van behandeling bij een gespecialiseerde GGz instelling dus zit niet te wachten op nogmaals sluiting van een zorgverlenende instelling .<br> :date: __2020-08-13 11:16:59__
-
-> Elk gezin zou dit kunnen gebruiken. Een postcode-gebied kan zo nog beter in de gaten worden gehouden door onzeGGD. gebruik deze app nu al. m.i. zal Rivm/OMT pas in sep met soortgelijke app komen. Juist het kunnen selecteren van ja/nee antwoorden is een pre, o.a. omdat iedereen dan hetzelfde bedoeld. Staan er ook antwoorden in welke de MILDE-vorm van covid kunnen signaleren en kan de app dit aangeven dat de gebruiker dit heeft? TraceBack-covid19patient krijgt meerEnMeer vorm.<br> :date: __2020-07-23 09:58:13__
 
 > Zinvol. Helpt ons allemaal<br> :date: __2020-05-20 12:49:53__
 
@@ -187,6 +185,8 @@ The COVID Radar app has been installed by more than **50000** times. At this tim
 > Heel makkelijk de app opent direct.<br> :date: __2020-04-23 19:24:13__
 
 > Op mijn telefoon staan de 2 knoppen annuleren en bevestigen voor het balkje beroep, waardoor ik het beroep niet kan aanpassen. Ik heb het antwoord nu gelaten wat er al stond maar dit klopt in mijn geval niet.<br> :date: __2020-04-19 18:11:48__
+
+> Ik ontvang niemand thuis en toch val ik ongunstiger uit tov het Nederlands gemiddelde in de uitslag. Dat kan beter.<br> :date: __2020-04-17 22:17:31__
 
 
 

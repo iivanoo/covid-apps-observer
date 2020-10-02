@@ -1,5 +1,17 @@
 [
     {
+        "reviewId": "gp:AOqpTOHV3HqGlhcyUMLGrlzCosJEbHGRoQwbbBNP5Z3Z4JfBCbehaTrHZFpCuWsv_kWTwd9LNN_i8PXP7wBquA",
+        "userName": "Fran SOS",
+        "userImage": "https://play-lh.googleusercontent.com/-hzotX9N6bOU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnv_DVCztbY1R4WSilmtvhZwkuPOw/photo.jpg",
+        "content": "voor Elk gezin zeker bij ZelfQuarantaine. postcode-gebied kan zo nog beter in de gaten worden gehouden door onzeGGD. . Juist het kunnen selecteren van ja/nee antwoorden is een pre, o.a. omdat iedereen dan hetzelfde bedoeld. Staan er ook antwoorden in welke de MILDE-vorm van covid kunnen signaleren en kan de app dit aangeven dat de gebruiker dit heeft? TraceBack-covid19patient krijgt meerEnMeer vorm. m.i. zal Rivm/OMT pas eind sep met coronaMelder app komen, welke ook BuitensHuis actief is.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.1.2",
+        "at": "2020-09-23 23:28:22",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOHX9ECC46IYfHfq1AsXDBavDFZM1M9cXrPeIw779EkjWKT8-n8ia8PT1VwHVHa5EljwNOP-kWokFSiTww",
         "userName": "marcel kooger",
         "userImage": "https://play-lh.googleusercontent.com/-UMVOPIaFOlA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl6-nq-LdVSH2HXmG7DtvZ3bx-ang/photo.jpg",
@@ -56,18 +68,6 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.1.2",
         "at": "2020-08-13 11:16:59",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOHV3HqGlhcyUMLGrlzCosJEbHGRoQwbbBNP5Z3Z4JfBCbehaTrHZFpCuWsv_kWTwd9LNN_i8PXP7wBquA",
-        "userName": "Fran SOS",
-        "userImage": "https://play-lh.googleusercontent.com/-hzotX9N6bOU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnv_DVCztbY1R4WSilmtvhZwkuPOw/photo.jpg",
-        "content": "Elk gezin zou dit kunnen gebruiken. Een postcode-gebied kan zo nog beter in de gaten worden gehouden door onzeGGD. gebruik deze app nu al. m.i. zal Rivm/OMT pas in sep met soortgelijke app komen. Juist het kunnen selecteren van ja/nee antwoorden is een pre, o.a. omdat iedereen dan hetzelfde bedoeld. Staan er ook antwoorden in welke de MILDE-vorm van covid kunnen signaleren en kan de app dit aangeven dat de gebruiker dit heeft? TraceBack-covid19patient krijgt meerEnMeer vorm.",
-        "score": 4,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.1.2",
-        "at": "2020-07-23 09:58:13",
         "replyContent": null,
         "repliedAt": null
     },
@@ -325,7 +325,7 @@
     },
     {
         "reviewId": "gp:AOqpTOGxU65TdB05bKnXnLWHcKSQioB581L0JjXPu0ohS-BaZdsR7dXtMew-rolg0aNSvKCQC8lxulu4_zUmNw",
-        "userName": "Rob Westdorp",
+        "userName": "Rob",
         "userImage": "https://play-lh.googleusercontent.com/-mp3WzY6TlDk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmxE4qt_iWjAC4nWMawHRKfO1JM4g/photo.jpg",
         "content": "Ik merk het volgende mankement op bij de COVID Radar: Ik lig in het ziekenhuis voor een hartinfarct en vandaar geef ik afwijkende antwoorden, maar ik kan de reden niet vermelden......",
         "score": 1,
