@@ -140,6 +140,10 @@ The COVID Radar app has been installed by more than **50000** times. At this tim
 <img src="5_star_reviews_wordcloud.png" alt="nl.lumc.covidradar 5 reviews"/>
 </p>
 
+> Gewoon Even invullen tijdens het ontbijt en je draagt bij aan zinvol onderzoek. Werkt prima.<br> :date: __2020-10-06 17:21:15__
+
+> Kan beter<br> :date: __2020-10-04 17:54:32__
+
 > voor Elk gezin zeker bij ZelfQuarantaine. postcode-gebied kan zo nog beter in de gaten worden gehouden door onzeGGD. . Juist het kunnen selecteren van ja/nee antwoorden is een pre, o.a. omdat iedereen dan hetzelfde bedoeld. Staan er ook antwoorden in welke de MILDE-vorm van covid kunnen signaleren en kan de app dit aangeven dat de gebruiker dit heeft? TraceBack-covid19patient krijgt meerEnMeer vorm. m.i. zal Rivm/OMT pas eind sep met coronaMelder app komen, welke ook BuitensHuis actief is.<br> :date: __2020-09-23 23:28:22__
 
 > Goed<br> :date: __2020-08-25 19:50:33__
@@ -155,10 +159,6 @@ The COVID Radar app has been installed by more than **50000** times. At this tim
 > Mooie verbeteringen zichtbaar, maar zou nog specifieker kunnen, bv beroepsgroep toevoegen van personen bv zorg medewerker, of kapper straks dat wordt spannend als men weer in contact komt dicht op de klant hoe verhouden de klachten symptomen, zich dan ?<br> :date: __2020-05-06 23:20:12__
 
 > Nuttig<br> :date: __2020-04-30 15:40:43__
-
-> Duidelijke makkelijk invullen<br> :date: __2020-04-22 20:45:44__
-
-> Sinds de nieuwe update kan ik de laatste vraag niet meer goed invullen omdat de knop versturen er voor staat. Probeer ik een getal aan te geven zijn de gegevens al verstuurd.<br> :date: __2020-04-22 19:55:02__
 
 
 
@@ -224,6 +224,8 @@ The COVID Radar app has been installed by more than **50000** times. At this tim
 <img src="2_star_reviews_wordcloud.png" alt="nl.lumc.covidradar 2 reviews"/>
 </p>
 
+> Schuifknoppen zijn nauwelijks goed te zetten, app is niet anders te sluiten dan geforceerd, als men klaar is en verder wil gaan.<br> :date: __2020-10-04 09:28:20__
+
 > Ik stop er mee. Puur omdat je gewoon bij het dagelijks invullen, nog steeds dagelijks de vraag krijgt of de gegevens nog kloppen en het belangrijk is iedere dag in te vullen<br> :date: __2020-07-09 20:12:11__
 
 > Ik ben gestopt met invullen omdat het onmogelijk is om aan te geven hoeveel mensen binnen een straal van vijf meter zijn gekomen. De makers van de app hebben kennelijk weinig ervaring met de realiteit van het leven.<br> :date: __2020-05-26 10:22:15__
@@ -241,8 +243,6 @@ The COVID Radar app has been installed by more than **50000** times. At this tim
 > Crash loop, dus kan nu niks... En waar blijven die dagelijkse meldingen, heb er pas 1 gezien!<br> :date: __2020-04-07 08:50:17__
 
 > Vragen zijn gedateerd en veel te beperkt. Ik werd namelijk 4 weken geleden ziek en had alle symptomen, na een bezoekje aan Noord Italië. Lijkt me interessante informatie maar kan dat nergens in de app kwijt. De App heeft weinig meerwaarde... Niet installeren.<br> :date: __2020-04-06 16:03:56__
-
-> Erg summier. Ik zou juist graag de klachten over de afgelopen periode willen omschrijven. Die begonnen op 9 maart, maar zijn nu vrijwel over. Voor mij dus niet zo zinvol deze app.<br> :date: __2020-04-04 12:57:31__
 
 
 

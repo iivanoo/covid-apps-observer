@@ -51,7 +51,7 @@ As you can imagine, we collect several data points for each dimension so the bes
 :it: Italy | [:chart_with_upwards_trend: Results](data/data_it/reports/report_2020_10_2.md) | [9 apps](https://play.google.com/store/search?q=covid&c=apps&gl=it) (Links to Google Play) | :calendar: 02/10/2020
 :jp: Japan | [:chart_with_upwards_trend: Results](data/data_jp/reports/report_2020_10_2.md) | [4 apps](https://play.google.com/store/search?q=covid&c=apps&gl=jp) (Links to Google Play) | :calendar: 02/10/2020
 :netherlands: The Netherlands | [:chart_with_upwards_trend: Results](data/data_nl/reports/report_2020_10_2.md) | [4 apps](https://play.google.com/store/search?q=covid&c=apps&gl=nl) (Links to Google Play) | :calendar: 02/10/2020
-:netherlands: The Netherlands (custom) | [:chart_with_upwards_trend: Results](data/data_nl_custom/reports/report_2020_10_2.md) | 8 apps | :calendar: 02/10/2020
+:netherlands: The Netherlands (custom) | [:chart_with_upwards_trend: Results](data/data_nl_custom/reports/report_2020_10_7.md) | 9 apps | :calendar: 07/10/2020
 :norway: Norway | [:chart_with_upwards_trend: Results](data/data_no/reports/report_2020_10_2.md) | [2 apps](https://play.google.com/store/search?q=covid&c=apps&gl=no) (Links to Google Play) | :calendar: 02/10/2020
 :portugal: Portugal | [:chart_with_upwards_trend: Results](data/data_pt/reports/report_2020_10_2.md) | [3 apps](https://play.google.com/store/search?q=covid&c=apps&gl=pt) (Links to Google Play) | :calendar: 02/10/2020
 :ru: Russia | [:chart_with_upwards_trend: Results](data/data_ru/reports/report_2020_10_2.md) | [6 apps](https://play.google.com/store/search?q=covid&c=apps&gl=ru) (Links to Google Play) | :calendar: 02/10/2020

@@ -200,6 +200,14 @@ The Luscii app has been installed by more than **100000** times. At this time, *
 <img src="5_star_reviews_wordcloud.png" alt="nl.focuscura.beeldbelapp 5 reviews"/>
 </p>
 
+> Mooie ap<br> :date: __2020-10-04 09:30:07__
+
+> Zeer goed en functioneel en eenvoudig. Dit blijft zo. 5 sterren zijn verdiend.<br> :date: __2020-10-04 08:34:42__
+
+> Gemakkelijk .<br> :date: __2020-10-03 09:20:56__
+
+> Vraag over bezoek thuiswedstrijd nu overbodig en als er nee is gezegd, dan is dat ook volgende week zo<br> :date: __2020-10-02 19:37:02__
+
 > Duidelijk en snelle app.<br> :date: __2020-10-02 11:58:40__
 
 > Heel duidelijk<br> :date: __2020-10-02 11:39:35__
@@ -212,14 +220,6 @@ The Luscii app has been installed by more than **100000** times. At this time, *
 
 > Duidelijk<br> :date: __2020-10-02 09:09:54__
 
-> Snel<br> :date: __2020-10-02 08:51:41__
-
-> Niet alleen een duidelijke en fijne app, er wordt hier mee ook nog eens heel belangrijk werk verricht!<br> :date: __2020-10-01 10:33:06__
-
-> Uitstekend onderzoek<br> :date: __2020-09-29 18:07:46__
-
-> Eenvoudig en duidelijk, het werkt goed voor mij.<br> :date: __2020-09-26 10:35:39__
-
 
 
 #### 4-star reviews
@@ -227,6 +227,14 @@ The Luscii app has been installed by more than **100000** times. At this time, *
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="nl.focuscura.beeldbelapp 4 reviews"/>
 </p>
+
+> De app werkte bij niet meer. Na een reactie van de beheerders blijkt dat ik voor 1 oktober had moeten doorgeven dat mijn gegevens mochten worden overgedragen naar een ander ziekenhuis, dat bericht had ik helaas gemist en daardoor was mijn account gedeactiveerd. Inmiddels is mijn account weer actief en werkt de app weer prima.<br> :date: __2020-10-06 16:50:01__
+
+> Werkt goed en simpel. Update: kan niet meer de status versturen. Opnieuw installeren lukt ook niet. Kan me niet meer aanmelden. Wat is er mis gegaan?<br> :date: __2020-10-06 12:42:33__
+
+> Nog tekort in gebruik om een goed oordeel te geven Maar de eerste indruk is goed<br> :date: __2020-10-04 18:03:22__
+
+> Goed<br> :date: __2020-10-04 11:19:49__
 
 > Mis aantal symptomen die gerelateerd zijn aan Corona.<br> :date: __2020-10-01 19:24:36__
 
@@ -240,14 +248,6 @@ The Luscii app has been installed by more than **100000** times. At this time, *
 
 > Werkt goed<br> :date: __2020-09-25 09:40:47__
 
-> Top zeg. Veilig gevoel.<br> :date: __2020-09-22 15:28:51__
-
-> Gemakkelijk te gebruiken en dan heb je veel eerder de neiging om het even in te vullen en ook geen overbodige vragen maar to the point ja ik vind het een prettige manier om mee te werken aan dit onderzoek<br> :date: __2020-09-17 19:51:32__
-
-> Makkelijk en snel<br> :date: __2020-09-13 09:36:48__
-
-> Ik vind het handig dat deze app er is.<br> :date: __2020-09-11 10:13:02__
-
 
 
 #### 3-star reviews
@@ -255,6 +255,10 @@ The Luscii app has been installed by more than **100000** times. At this time, *
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="nl.focuscura.beeldbelapp 3 reviews"/>
 </p>
+
+> Weinig resultaat<br> :date: __2020-10-04 12:24:29__
+
+> Luscii vraagt, maar geeft geen respons. Dat is jammer. Ik heb bijvoorbeeld binnenkort een afspraak op het CWZ in Nijmegen en moet gewoon nog de vragenlijst invullen. Luscii zou best kunnen melden dat - als ik een afspraak heb met een arts of het CWZ - ik dat niet meer hoef te doen. Toch 3 Sterren<br> :date: __2020-10-03 22:17:20__
 
 > De keuze van de eerste vragen worden niet zichtbaar<br> :date: __2020-09-29 08:09:54__
 
@@ -271,10 +275,6 @@ The Luscii app has been installed by more than **100000** times. At this time, *
 > Nvt<br> :date: __2020-08-02 11:24:01__
 
 > Op zich prima, echter jammer genoeg geen mogelijkheid om op berichtgeving verpleegkundige te reageren.<br> :date: __2020-07-28 10:45:21__
-
-> Vraag over angstaanval moet anders gesteld worden. De angst komt pas NA de aanval als je geen lucht meer krijgt.<br> :date: __2020-07-27 13:36:31__
-
-> Ik kan helemaal niks met de app. Alleen mijn eigen gegevens bekijken, de anderen schermen melden dat ik ze niet gebruiken kan. Na ee paar uur doet hij het. Nu een paar keer gebruikt.. Ik vind het errg veel onnodig tikwerk..32 keer sls je alles wilt invullen.<br> :date: __2020-07-06 15:06:06__
 
 
 
@@ -312,6 +312,8 @@ The Luscii app has been installed by more than **100000** times. At this time, *
 <img src="1_star_reviews_wordcloud.png" alt="nl.focuscura.beeldbelapp 1 reviews"/>
 </p>
 
+> Kort en bondig. NU, 06-10-2020 werkt de app al een aantal dagen niet meer. Geen melding, geen verklaring, niets. Ga zo door dan is het animo voor de Corona app verwaarloosbaar. Nu 1 ster.<br> :date: __2020-10-06 04:44:34__
+
 > Heel gemakkelijk in gebruik<br> :date: __2020-09-24 08:02:37__
 
 > Krijg een code vul deze in en dan krijg ik door dat deze fout is. Dan vraag ik een nieuwe op met hetzelfde resultaat. Kom dus niet verder.<br> :date: __2020-09-22 21:13:20__
@@ -329,7 +331,5 @@ The Luscii app has been installed by more than **100000** times. At this time, *
 > Weegschaal werkt niet lege batterijen<br> :date: __2020-06-29 09:36:25__
 
 > Ze sturen je een code maar de app zegt elke keer dat het geen geldige code is!!!<br> :date: __2020-06-17 08:01:41__
-
-> Na de laatste update werkte de app niet meer<br> :date: __2020-06-11 21:41:36__
 
 
