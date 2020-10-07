@@ -61,5 +61,10 @@
         "store_lang": "nl",
         "latest_crawled_version": "3.3",
         "latest_crawl": 1601638017
+    },
+    {
+        "id": "nl.rijksoverheid.en",
+        "store_country": "nl",
+        "store_lang": "nl"
     }
 ]
