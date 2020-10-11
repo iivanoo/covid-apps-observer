@@ -157,6 +157,8 @@ The Rakning C-19 app has been installed by more than **50000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="is.landlaeknir.rakning 5 reviews"/>
 </p>
 
+> Mjög gott, virkar vel hjá mér.<br> :date: __2020-10-07 14:50:55__
+
 > Hvernig veit ég að raknigar foritið hjá mér sé opið<br> :date: __2020-08-30 18:45:51__
 
 > Snilldin ein<br> :date: __2020-08-11 00:57:52__
@@ -174,8 +176,6 @@ The Rakning C-19 app has been installed by more than **50000** times. At this ti
 > Flott<br> :date: __2020-04-12 13:00:44__
 
 > Flott app en rafhlaðan er alltaf tóm út af þessu appi.<br> :date: __2020-04-10 12:27:11__
-
-> Takk<br> :date: __2020-04-09 12:44:27__
 
 
 
@@ -237,6 +237,10 @@ The Rakning C-19 app has been installed by more than **50000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="is.landlaeknir.rakning 1 reviews"/>
 </p>
 
+> Það er lítið gagn af þessu nauðsynlega appi ef það er engan veginn hægt treysta því að það sé virkt 24/7... dettur út á 2-3 daga fresti og þarf því að ræsa það endurtekið þess vegna!!<br> :date: __2020-10-04 00:56:15__
+
+> Væri frábært ef þetta myndi virka. Dettur út á sirka tveggja daga fresti. Þarf alltaf að vera að ræsa það aftur :(<br> :date: __2020-10-03 22:55:24__
+
 > Þetta frýs í hvívetna, ekki hægt að opna. Þegar þú nærð aftur í appið getur þú opnað það einu sinni en ekki ýtt á spjall eða neitt?? Hver er tilgangurinn með þessu appi ef fólk getur ekki nýtt sér það?<br> :date: __2020-08-03 12:17:21__
 
 > Ég fékk tilkynningu frá þeim og appið opnast ekki??? Sama þótt ég setji það aftur upp eða endurræsi símann! Algert rusl þetta app<br> :date: __2020-08-01 10:59:19__
@@ -252,9 +256,5 @@ The Rakning C-19 app has been installed by more than **50000** times. At this ti
 > Kemst ekkert áfram. Frosinn skjár á 3 tungumálum og ekkert hægt að gera. Gekk eins og í sögu hjá manninum mínum en við erum með eins síma 😳<br> :date: __2020-04-04 21:49:40__
 
 > Er međ Galaxy S10e sem vill ekki taka viđ forritinu. Fæ upp frosin þriggja tungumála skjá<br> :date: __2020-04-04 20:37:49__
-
-> Allt stoppað áfram á íslensku kemur ekki upp er frosið<br> :date: __2020-04-04 18:56:06__
-
-> Get ekki hlaðið niður appinu, er með Samsung S10.<br> :date: __2020-04-04 17:58:53__
 
 

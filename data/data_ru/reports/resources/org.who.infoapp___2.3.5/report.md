@@ -182,6 +182,8 @@ No recent reviews available with 4 stars.
 <img src="1_star_reviews_wordcloud.png" alt="org.who.infoapp 1 reviews"/>
 </p>
 
+> Azimov Hasanboy. B b.<br> :date: __2020-10-03 10:41:25__
+
 > не работает с Гугл<br> :date: __2020-07-22 09:06:06__
 
 > 👎👎👎👎👎👎👎👅<br> :date: __2020-07-16 19:13:31__

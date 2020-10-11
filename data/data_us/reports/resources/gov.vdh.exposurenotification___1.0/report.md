@@ -130,25 +130,25 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 <img src="5_star_reviews_wordcloud.png" alt="gov.vdh.exposurenotification 5 reviews"/>
 </p>
 
+> Thank you for making this. But it needs to be advertised more. I only heard about it through Twitter.<br> :date: __2020-10-09 14:53:52__
+
+> Great! Thank you for your App.<br> :date: __2020-10-09 00:00:07__
+
+> If everyone got this and actually used it this would be fantastic<br> :date: __2020-10-07 19:08:12__
+
+> frequent traveller (planes) so am curious if this app talks to other joint apple / google framework covid trackers or does it just communicate with the va one ? if its all, then great job. if only va, then might want to work on that.<br> :date: __2020-10-07 14:37:39__
+
+> Excellent to have.<br> :date: __2020-10-07 12:42:39__
+
+> Awesome app that protects privacy<br> :date: __2020-10-07 04:00:06__
+
+> Update - I uninstalled and reinstalled and notifications are working correctly now. However, please make more helpful error messages though. Older review - I get an 'Internal Error, please try again' when I try to set Exposure Notifications (I have both bluetooth and Wifi enabled - using a Galaxy S10). Please fix or give a more helpful error message so I can troubleshoot what the root of the problem is - whether it's a 'user error', phone configuration or something else out of my control.<br> :date: __2020-10-07 01:26:00__
+
 > 🖼❤<br> :date: __2020-10-01 16:31:24__
 
 > Very well done.<br> :date: __2020-09-26 00:07:35__
 
 > It is a very good way to tell of you are possibly in contact with someone.<br> :date: __2020-09-25 18:13:22__
-
-> Very well written app and it protects privacy. This should be a big help in slowing the spread of Covid-19.<br> :date: __2020-09-20 12:28:56__
-
-> Very easy to install, and I get periodic reminders that it's doing its thing in the background. Other apps in my phone have more personal information than COVIDWISE does.<br> :date: __2020-09-17 23:49:10__
-
-> It's ok<br> :date: __2020-09-16 03:21:54__
-
-> This is such a terrific idea and app! I hope ALL Va residents will install and use this app! Not only am I immune compromised but so are 2 of my boys(ages 8&15)! This is such a relief to us, being able to instantly see if we've been in contact with someone who's tested positive! There definitely needs to be more advertising regarding this app, as I just found out today by watching the governors news brief! Have the schools and hospitals send out notices! #doingourpart #flattenthecurve<br> :date: __2020-09-16 00:09:40__
-
-> Fundamental problem: this app has almost no public outreach throughout Virginia.<br> :date: __2020-09-15 01:52:36__
-
-> It all bad be for the time being but ok for know<br> :date: __2020-09-13 05:20:04__
-
-> Great. Annoyances: can't turn off weekly notifications, small battery life hit<br> :date: __2020-09-11 11:58:27__
 
 
 
@@ -157,6 +157,8 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="gov.vdh.exposurenotification 4 reviews"/>
 </p>
+
+> I appreciate the efforts to curb the spread of Covid. However when I turned off my phone's location, I received a notification from Google's Exposure Notifications framework that I needed to enable location in order for the app to work. What??? Covidwise says that "No personal data or location tracking occurs within this app." I've since learned that while the app itself doesn't ask for location, Google's Exposure Notification framework (used by the app) obtains location data by using Bluetooth. This is very confusing. Please work out the kinks in messaging this. Otherwise it looks like the app is trying to do something sneaky (trying to gather and store my location data without telling me).<br> :date: __2020-10-02 20:49:11__
 
 > For battery optimization issue, you can add this app in the "whitelist" so you won't run into the issue.<br> :date: __2020-09-23 17:11:11__
 
@@ -176,8 +178,6 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 
 > I installed the app and it seems to work as advertised. The downsides of the app are two-fold. The app would appear to be geographically limited to VA and it depends on people with COVID to voluntarily install the app and report they have COVID in a timely manner. That said, even a 30% solution has merit and hopefully use of this system will be nationwide if not worldwide.<br> :date: __2020-08-19 20:07:21__
 
-> I would definitely use this, except..... Except it is just for Virginia, and I'm in Illinois. But, I understand that a nation-wide method of linking among state departments of health is in the works. There is a really good article in the Washington Post about this app, and that's where I found out about it.<br> :date: __2020-08-18 17:16:09__
-
 
 
 #### 3-star reviews
@@ -185,6 +185,8 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="gov.vdh.exposurenotification 3 reviews"/>
 </p>
+
+> Location services must be on for android devices to enable blue tooth, which is a huge drawback for me. I rarely have that turned on, and am selective as to when I have my cell radio on. It would be nice if this could be resolved, I don't see why bluetooth has to considered to be part of location services. I don't see Google doing that though...<br> :date: __2020-10-08 15:33:54__
 
 > I've been using this for over 1 hour and still did not find any Pokemon. as to the app, it seems to draw down the battery. unfortunate not enough potential users, and the "where - when" for contacts seems seriously lacking. still have it running because it's all that's offered.<br> :date: __2020-09-25 05:06:02__
 
@@ -204,8 +206,6 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 
 > I am trusting that this app doesn't exploit my private information. I have read enough to be only mildly certain! Three stars because I just don't know. I pray this is helpful to us all.<br> :date: __2020-08-12 22:37:48__
 
-> Just installed<br> :date: __2020-08-06 20:33:19__
-
 
 
 #### 2-star reviews
@@ -213,6 +213,10 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="gov.vdh.exposurenotification 2 reviews"/>
 </p>
+
+> 6 beer 4🍉<br> :date: __2020-10-07 16:26:24__
+
+> Drains my battery too much to have bluetooth on all the time and I forget to turn it on the few times I'm near people. I know they don't record location but if there were a way to prompt me to turn bluetooth on when I change location that would be beneficial<br> :date: __2020-10-04 18:15:31__
 
 > Update: month and a half after i installed the app and there are only 1% users across VA. Time to uninstall it. Anything that helps to fight covid gets 5 star and to those believing in looney tunes and conspiracy theories think about what you carry in your pocket (cell phone) or have on a shelf at home (alexa). Either you give your phone permission or not do you really think professional IT person can't make a virus go around your blocked permissions?<br> :date: __2020-09-27 15:29:08__
 
@@ -230,8 +234,6 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 
 > Requires that GPS location is always on to get notifications. I thought it just needed Bluetooth. I don't want my location data always getting sent to Google. Also, why does each state have to develop their own app? If I travel, then other people in that other state won't be compatible with this app. Right?<br> :date: __2020-08-06 18:49:21__
 
-> Bluetooth? Makes no sense at all!<br> :date: __2020-08-05 19:38:26__
-
 
 
 #### 1-star reviews
@@ -240,24 +242,24 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 <img src="1_star_reviews_wordcloud.png" alt="gov.vdh.exposurenotification 1 reviews"/>
 </p>
 
-> I hope your entire organization gets chlamydia. Then I'll develop an app to track you.<br> :date: __2020-10-02 00:28:14__
+> Not that good. Political parties killed 217,000 people both parties red and blue is going to kill you. Don't trust use at all. China and U.S Are the blame for millions of deaths around the world shame on use. Give these little girls a shot that will not get them pregnant and bad parenting by mostly the parents that let there 12 to 17 year old gets Prego. Instead use bring Virus to kill people. If I were to do that or anybody else that is prison time. Hold the elephant and donkey accountable...<br> :date: __2020-10-09 05:37:02__
 
-> Keep this trashy invasion of privacy off my screens<br> :date: __2020-10-01 19:12:43__
+> What a waste of my tax dollars.<br> :date: __2020-10-08 06:20:47__
 
-> Doesn't run daily or even weekly checks. Have been in contact with the developers previously about this issue which so far can only be rectified by uninstalling then reinstalling. I am wondering if it stops checking forever even if you only briefly turn off bluetooth, instead of ensuring that connection..<br> :date: __2020-09-30 10:59:39__
+> Can't turn it on.<br> :date: __2020-10-07 23:35:47__
 
-> Not sure why I was prompted to download an app that provides notifications for Virginia when I am way over on the west coast. Downloading one from Nevada I guess since it's the closest I can find to Oregon. Seems like this system is fragmented and dysfunctional, as well intended as it may possibly see.. still. I'll participate and play along until I'm otherwise inclined.<br> :date: __2020-09-28 21:39:26__
+> Need a COVID Exposure app for West Virginia<br> :date: __2020-10-07 19:07:09__
 
-> Wow makes you turn on bluetooth and is a complete invasion of privacy. Stay home and hide if you are scared of COVID<br> :date: __2020-09-28 03:49:54__
+> The app doesn't work. I try to press "enable notifications" but it doesn't work. I have them enabled through my settings and I have my Bluetooth and location on. Not sure what else to do.<br> :date: __2020-10-07 14:19:21__
 
-> I don't have answer<br> :date: __2020-09-27 09:17:05__
+> This Covid19 is trumped up. Northern Virginia has pools and restaurants open along with Virginia Beach, but not Richmond. Why? Do your research and read between the lines! When the cell phones all went down, they put a tracker on your phone and now an app for the same thing?? Do you really think the American people are that naive? Every major election some virus comes up. Zeka, Swine Flu, Covid19... the list goes on and on.<br> :date: __2020-10-07 13:54:36__
 
-> No notifications ever. Yet, I've found out via the media or exposed and positive testers when they mention it. VA needs to put in some additional work on the app.<br> :date: __2020-09-23 04:41:33__
+> y it said internal error?<br> :date: __2020-10-07 06:49:57__
 
-> Malware possibilities<br> :date: __2020-09-22 01:13:30__
+> Bluetooth has always had security issues! Hackers can get into our phones via Bluetooth. Search Google: "Bluetooth Unveils Its Latest Security Issue, With No Security Solution," ... on MSN News/Gizmodo, 9/10/2020. Also, Bluetooth constantly searches, draining batteries. I think it would be safer for the app to keep a record of where we have been for the past couple of weeks, then the VDH could use that to cross-reference to see if any app users were around an app reported Covid-19 victim.<br> :date: __2020-10-07 04:14:07__
 
-> Great idea until you see the app requirements. Im not going to enable bluetooth so you can steal information from other peoples phones. Nice try china, but stick to tiktok.<br> :date: __2020-09-19 19:06:03__
+> cannot enable notification. Always says internal error. Any solutions?<br> :date: __2020-10-07 02:54:29__
 
-> Never worked for me<br> :date: __2020-09-03 05:46:13__
+> What a waste of tax dollars this is. Whomever wrote this app needs to find a real developer job.<br> :date: __2020-10-07 02:31:59__
 
 

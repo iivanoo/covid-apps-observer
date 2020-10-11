@@ -4,62 +4,62 @@
         "store_country": "it",
         "store_lang": "it",
         "latest_crawled_version": "5.1",
-        "latest_crawl": 1601638178
+        "latest_crawl": 1602418843
     },
     {
         "id": "it.lispa.sire.app.mobile.allertalom",
         "store_country": "it",
         "store_lang": "it",
         "latest_crawled_version": "1.7.0",
-        "latest_crawl": 1601638184
+        "latest_crawl": 1602418846
     },
     {
         "id": "com.intellicare.covid",
         "store_country": "it",
         "store_lang": "it",
         "latest_crawled_version": "1.0.17",
-        "latest_crawl": 1601638192
+        "latest_crawl": 1602418852
     },
     {
         "id": "com.siciliasicura.app",
         "store_country": "it",
         "store_lang": "it",
         "latest_crawled_version": "7.5",
-        "latest_crawl": 1601638199
+        "latest_crawl": 1602418856
     },
     {
         "id": "it.adl.aslroma3.covid19.app",
         "store_country": "it",
         "store_lang": "it",
         "latest_crawled_version": "1.0.4",
-        "latest_crawl": 1601638202
+        "latest_crawl": 1602418859
     },
     {
         "id": "org.who.infoapp",
         "store_country": "it",
         "store_lang": "it",
         "latest_crawled_version": "2.3.5",
-        "latest_crawl": 1601638319
+        "latest_crawl": 1602418861
     },
     {
         "id": "de.xikolo.openwho",
         "store_country": "it",
         "store_lang": "it",
-        "latest_crawled_version": "3.5",
-        "latest_crawl": 1601638356
+        "latest_crawled_version": "3.6",
+        "latest_crawl": 1602418973
     },
     {
         "id": "it.ministerodellasalute.immuni",
         "store_country": "it",
         "store_lang": "it",
         "latest_crawled_version": "1.5.0",
-        "latest_crawl": 1601638363
+        "latest_crawl": 1602419113
     },
     {
         "id": "it.regione.sardegna.autorizzazionicovid19",
         "store_country": "it",
         "store_lang": "it",
         "latest_crawled_version": "1.3.7",
-        "latest_crawl": 1601638436
+        "latest_crawl": 1602419115
     }
 ]

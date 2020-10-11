@@ -133,6 +133,14 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 <img src="5_star_reviews_wordcloud.png" alt="au.gov.health.covidsafe 5 reviews"/>
 </p>
 
+> Necessary App at this time<br> :date: __2020-10-11 15:24:46__
+
+> excellentwork<br> :date: __2020-10-10 01:16:31__
+
+> Great sales lady 😜<br> :date: __2020-10-08 03:11:25__
+
+> It might work!<br> :date: __2020-10-02 23:28:48__
+
 > Makes me feel better and safe.<br> :date: __2020-10-02 09:26:30__
 
 > Love the idea great. We need to keep safe and others.<br> :date: __2020-10-01 22:18:24__
@@ -145,14 +153,6 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 
 > No.concerns and privacy respected.<br> :date: __2020-09-27 09:41:00__
 
-> Not sure<br> :date: __2020-09-26 19:07:40__
-
-> Seems to be working with no dramas. Doesn't appear to be affecting my battery life much (Samsung Galaxy s9).<br> :date: __2020-09-26 07:25:41__
-
-> Update. All issues are resolved<br> :date: __2020-09-26 00:24:15__
-
-> It's good<br> :date: __2020-09-25 00:22:01__
-
 
 
 #### 4-star reviews
@@ -160,6 +160,14 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="au.gov.health.covidsafe 4 reviews"/>
 </p>
+
+> I7uui 8th is 4hi<br> :date: __2020-10-09 04:23:06__
+
+> It does what's expected. I have no loss of Bluetooth functions. Fitbit & earphones still run ok. It doesn't collect phone numbers, it collects & stores another phone's bt id number, only if near for 15mins. Those numbrs tell you nothing, even if you could see them. The remotely held database dept. knows the registered phone numbers... only if you d/load your BT id collection, only if you are diagnosed with CV-19. Dislike: Notification uses too much bar space. Wld prfr coloured dot on the icon.<br> :date: __2020-10-08 02:28:46__
+
+> Had no issues with this app EXCEPT that only 25% of the population uses it so what is the point. Probably should have been pushed out to all active mobiles by the Govt, like bushfire warning and the like. Have now uninstalled it as do not come into contact with many people these days and my location has no active cases.<br> :date: __2020-10-07 13:28:13__
+
+> STRUCTUREDOOIOZSAQWWWW<br> :date: __2020-10-05 04:30:43__
 
 > This app has no effect on any aspect of your life unless you come into contact with someone else who has the app AND also has a positive test for COVID. all the scare-mongering about it comes from morons.<br> :date: __2020-10-02 13:06:27__
 
@@ -173,14 +181,6 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 
 > Happy to do my bit to help out with covid management. Having said that my battery usage has gone through the roof since last update. COVIDSafe is at the top of my battery use list by a country mile. Hopefully the update I have done this morning will fix.<br> :date: __2020-09-26 00:03:57__
 
-> It's probably great but my poor old Android's battery can't handle the strain from running Bluetooth and keeps on switching it off. And, yes, I've checked all the phone settings. Sorry Federal Government. I can't help. Now uninstalled. UPDATE... New phone, now works quietly in the background.<br> :date: __2020-09-25 21:50:32__
-
-> Stops itself at times but makes user feel they are 'doing the right thing'<br> :date: __2020-09-21 14:51:03__
-
-> Nearby places Google calendar apps+maps<br> :date: __2020-09-19 18:22:11__
-
-> Had no troubles, works ok from day1 of release. Now i find out the phone app had battery optimization enabled which prevents app from running correctly. Uninstalled + reloaded as i thought app was the issue. Then used PC and Google to locate how to ensure no optimization on the app. I only turn bluetooth on when i leave home. So no battery issues.<br> :date: __2020-09-06 14:33:07__
-
 
 
 #### 3-star reviews
@@ -188,6 +188,10 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="au.gov.health.covidsafe 3 reviews"/>
 </p>
+
+> High battery drain on my galaxy S10<br> :date: __2020-10-09 01:21:00__
+
+> 555h<br> :date: __2020-10-08 04:52:29__
 
 > Keeps turning off<br> :date: __2020-10-01 19:49:42__
 
@@ -205,10 +209,6 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 
 > A,s<br> :date: __2020-09-13 08:18:43__
 
-> I have the internet connection. Covid app says no connection.???<br> :date: __2020-09-10 05:19:39__
-
-> Okay dont mind it<br> :date: __2020-08-29 12:30:32__
-
 
 
 #### 2-star reviews
@@ -217,25 +217,25 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 <img src="2_star_reviews_wordcloud.png" alt="au.gov.health.covidsafe 2 reviews"/>
 </p>
 
+> Recent updates are draining the battery. It consumes more than YouTube every day, even watching a few videos. Fix it or people will end up uninstalling. And do we need to be 15mins with someone infected to get infected? Should be reduced to 3 or 5 mins. Otherwise useless.<br> :date: __2020-10-11 11:30:26__
+
+> Not able to update phone number. Only way is to uninstall and reinstall, which means the previous data is now unreachable. If I had contact with a positive case last week on the old number, I would not be reachable.<br> :date: __2020-10-09 07:27:49__
+
+> Can't sign up... Says try again later...<br> :date: __2020-10-08 16:28:47__
+
+> Why does the Covid app now require my gps to be activated as well as bluetooth. I was a supporter of the app, yet now it stays 'inactive'.<br> :date: __2020-10-08 14:31:18__
+
+> Crashes when I try to open.<br> :date: __2020-10-06 05:33:27__
+
+> Frequently find the app has shut itself down significantly reducing any benefit it's use may offer in my situation.<br> :date: __2020-10-04 04:42:46__
+
+> Was running fine for months then, I'm thinking at last update, it kept turning my Location on and draining my battery. I looked into the app and it is not active due to Location turned off. Before I only had to have "Location Permission" turned on for this app... Not the overall location. Not going to turn the Loaction on. I will just leave it inactive. These systems won't work if they're not usable.<br> :date: __2020-10-03 13:13:25__
+
+> Anything to combat Covid-19. However has a high battery drainage: 30 to 40% of total consumption of device.<br> :date: __2020-10-03 07:26:03__
+
+> There should be an option to exit this app, when at home. It consumes battery unnecessarily, when the Bluetooth and location is turned off. You should understand there are people out there who do not enable location and Bluetooth unnecessarily, when not in use. I have to stop this app everytime when at home.<br> :date: __2020-10-03 06:48:17__
+
 > Well its ok and all its just 2 major problems. 1 absolutely battery drainer 2 absloute data drainer<br> :date: __2020-09-30 06:23:11__
-
-> Obliterates my battery even when I'm working from home and don't leave the house all day (so wouldn't expect a lot of Bluetooth handshakes going on). Also seems to interfere with Bluetooth connections to already paired devices intermittently.<br> :date: __2020-09-24 14:25:51__
-
-> Finding since the last update, battery usage has tripled.<br> :date: __2020-09-24 10:44:19__
-
-> I realise it might not be your fault, more Google's permission issues but making me leave my location and Bluetooth on is a security risk I find unacceptable. Granted its not as bad as dying from a incurable disease so you get one star back.<br> :date: __2020-09-24 04:36:23__
-
-> Does not work switch off all the time<br> :date: __2020-09-24 03:28:33__
-
-> Interferes with garmin and resimed devices<br> :date: __2020-09-23 17:26:21__
-
-> Would like to see how many "close contacts" this thing has picked up and even a dashboard somewhere showing nationwide app performance- case numbers are available elsewhere on the net. And yeh, the gps requirement is a worry.<br> :date: __2020-09-21 13:17:05__
-
-> Ofx 777<br> :date: __2020-09-21 09:23:07__
-
-> Unrefined. Doubtful functionality.<br> :date: __2020-09-21 04:55:18__
-
-> App impacts bluetooth audio to car when near other phones<br> :date: __2020-09-20 06:44:45__
 
 
 
@@ -245,24 +245,24 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 <img src="1_star_reviews_wordcloud.png" alt="au.gov.health.covidsafe 1 reviews"/>
 </p>
 
-> Crashes as soon as it starts. I have submitted multiple reports.<br> :date: __2020-10-02 01:09:20__
+> Deleted as now requires location to be on. Used to work with Bluetooth only, but can't have location on constantly. Will download again if they fix<br> :date: __2020-10-11 14:18:30__
 
-> Battery settings keep changing<br> :date: __2020-10-02 00:16:36__
+> battery waister<br> :date: __2020-10-11 13:13:28__
 
-> Tried to do the right thing, installed and used the app. App unable to function without access to location data. Website says location data is not required. Adding my location data to the already questionable database is a deal breaker.<br> :date: __2020-10-01 09:56:55__
+> It tracis you every location stop it<br> :date: __2020-10-10 13:37:47__
 
-> Not enough update. The app drains battery consistently.<br> :date: __2020-10-01 08:22:15__
+> Has anyone heard that this ever worked?<br> :date: __2020-10-10 07:29:09__
 
-> This app was never supposed to need your location!<br> :date: __2020-09-30 21:55:13__
+> Unreliable app. Keep crashing even with Bluetooth and gps turned on. Using Pixel 2 XL in Android 11<br> :date: __2020-10-10 03:17:36__
 
-> My brand new phone keeps switching it off.<br> :date: __2020-09-30 07:17:09__
+> ... . ♧. ♧ . . . Haha<br> :date: __2020-10-10 00:38:23__
 
-> Severely interfered with the Bluetooth performance on my phone, making my headphones nearly unusuable.<br> :date: __2020-09-29 03:54:53__
+> Ll<br> :date: __2020-10-09 23:30:38__
 
-> When I have WIFI on, it says "No Internet Connection" but running on a mobile without WIFI, it connects. Why? My WIFI has internet connection, but this COVIDSafe app refuses to use it. Seems pretty stupid to me, that it can't connect for updates etc...<br> :date: __2020-09-28 07:08:50__
+> Useless<br> :date: __2020-10-09 22:16:18__
 
-> Android needs location for Bluetooth to work. No, it doesn't. Bluetooth works fine on my Android device without location turned on for all other apps and services. Uninstalled.<br> :date: __2020-09-27 16:44:57__
+> 27% battery use in 1 day !<br> :date: __2020-10-08 10:31:41__
 
-> For a government app I would have expected better...<br> :date: __2020-09-27 12:08:33__
+> It stops working; turns itself off! 🤬<br> :date: __2020-10-08 08:10:00__
 
 

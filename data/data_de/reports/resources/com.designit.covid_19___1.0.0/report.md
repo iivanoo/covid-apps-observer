@@ -225,6 +225,10 @@ The COVID-19 Symptom Tracker app has been installed by more than **10000** times
 <img src="1_star_reviews_wordcloud.png" alt="com.designit.covid_19 1 reviews"/>
 </p>
 
+> Die App braucht immer länger zum laden... Edit Hab sie jetzt deinstalliert. Schade, die Idee war genial. Die technische Umsetzung eher das Gegenteil :(<br> :date: __2020-10-07 15:41:32__
+
+> Das Empfangen und Senden, dauert viel zulange. Habe es jetzt 100 Tage mitgemacht und es wurde nichts geändert oder angepasst. Deshalb habe ich es jetzt wieder gelöscht.<br> :date: __2020-10-03 06:40:38__
+
 > Die App funktioniert nicht Richtig nicht zu Empfehlen Updates gab es schon lange keine mehr die App ist der Letze Dreck die app hat nicht gehalten was sie versprochen hat die app braucht kein mensch nicht mal die Risiko zahlen wurden aktualisiert<br> :date: __2020-09-04 19:53:50__
 
 > Die App ist vernünftig stellt die richtigen Fragen mal sehen ob die App auch noch so gut bleibt in den nächsten Monaten die uns ja wahrscheinlich noch bevorstehen werden seit neuestem lade die App einfach zu lange bis die aufgeht bitte fixen dann wieder 5 Sterne naja die App die Leute melden sich ja nicht oder bar überarbeiten die app dass die wieder schneller lädt deswegen könnte man sie eigentlich auch löschen weil er mir das einfach zu lange dauert mit dem aufgehen<br> :date: __2020-08-16 20:25:07__
@@ -240,9 +244,5 @@ The COVID-19 Symptom Tracker app has been installed by more than **10000** times
 > Nach ein paar Wochen, hat die App ein anderes Profil angezeigt. Keine Korrektur bei Fehleingaben möglich. Im Moment würde ich die App nicht wieder installieren.<br> :date: __2020-06-12 16:51:57__
 
 > Ausgrenzung der Personen wie es geworben ist per Bluetooth funktioniert gar & überhaupt nicht. Deinstalliert.<br> :date: __2020-06-09 05:19:18__
-
-> ...so ein Schmarrn...selten so gelacht...<br> :date: __2020-06-07 17:32:05__
-
-> Wenn du Covid-19 installieren willst kommt Polizei also sei vorsichtig ;) dann kommt Ambulante aus deine Adresse usw... gebe 1 Stern !!!<br> :date: __2020-05-31 10:32:12__
 
 

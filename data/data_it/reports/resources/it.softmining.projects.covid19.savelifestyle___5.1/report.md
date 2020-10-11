@@ -185,6 +185,16 @@ The SM_Covid19 app has been installed by more than **50000** times. At this time
 <img src="5_star_reviews_wordcloud.png" alt="it.softmining.projects.covid19.savelifestyle 5 reviews"/>
 </p>
 
+> Molto interessante<br> :date: __2020-10-11 10:26:42__
+
+> E utile e ti da una certa sicurezza oltre a livello di prevenzione anche un a livello psicologico e un ottima applicazione<br> :date: __2020-10-10 23:22:43__
+
+> Molto buona l' app solo in caso di positività si può schiacciare e parlare con lo specialista.<br> :date: __2020-10-10 20:58:47__
+
+> Non riesco ad istallare l'app<br> :date: __2020-10-09 16:27:52__
+
+> IMMUNI<br> :date: __2020-10-08 23:50:24__
+
 > Ottimo<br> :date: __2020-09-11 19:30:45__
 
 > Molto utile per tutti<br> :date: __2020-08-31 15:02:45__
@@ -195,16 +205,6 @@ The SM_Covid19 app has been installed by more than **50000** times. At this time
 
 > Era una ottima app che avevo installato da subito... Purtroppo con i vincoli derivati da immuni sulla geolocalizzaIone obbligatoria è andato tutto a putt... Dopo 2 mesi mi arrendo, ho disinstallato immuni e ora anche questa. Sono convinto sostenitore dell'efficacia delle app per la prevenzione ma anche con la buona batteria del mio xiaomi A1 a volte a ora di cena rimango a piedi, ho capito che a volte qualche altra app (non so quale) attiva il gps e mi scarica il telefono... Peccato...<br> :date: __2020-07-29 19:35:55__
 
-> Io preferisco utilizzare questa applicazione invece di altre, mi risulta più user Friendly.<br> :date: __2020-07-24 18:07:05__
-
-> Ok frequento poche persone<br> :date: __2020-07-22 17:01:56__
-
-> Ottima app<br> :date: __2020-07-21 09:00:14__
-
-> Utile nei centri commetciali<br> :date: __2020-07-20 14:10:06__
-
-> Molto utile.... Avevo delle riserve all'inizio....ma con il passare dei giorni mi rendo conto che mi aiuta a mantenere il distanziamento<br> :date: __2020-07-19 22:23:35__
-
 
 
 #### 4-star reviews
@@ -212,6 +212,10 @@ The SM_Covid19 app has been installed by more than **50000** times. At this time
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="it.softmining.projects.covid19.savelifestyle 4 reviews"/>
 </p>
+
+> Buona e facile da usare<br> :date: __2020-10-10 11:21:08__
+
+> Facile<br> :date: __2020-10-08 13:38:48__
 
 > Non ho avuto ancora esperienze<br> :date: __2020-08-24 15:38:20__
 
@@ -229,10 +233,6 @@ The SM_Covid19 app has been installed by more than **50000** times. At this time
 
 > Ottima ma con l'ultimo aggiornamento, l'applicazione si blocca in modo anomalo. Attendo notizie ho un android 9. Il problema è stato risolto nell'ulteriore aggiornamento. Tutto a posto. Ottima e utile applicazione<br> :date: __2020-06-27 16:36:49__
 
-> Per il momento nessuna rapporti a rischio ci persone positive se l' app funziona<br> :date: __2020-06-25 21:31:12__
-
-> Molto bella<br> :date: __2020-06-18 21:12:10__
-
 
 
 #### 3-star reviews
@@ -240,6 +240,8 @@ The SM_Covid19 app has been installed by more than **50000** times. At this time
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="it.softmining.projects.covid19.savelifestyle 3 reviews"/>
 </p>
+
+> Se non attivano tutti, il bluetooth e il gps, l' utilità è solo parziale.<br> :date: __2020-10-07 17:36:45__
 
 > Aspetto di usarla e vederne il responso per dare una valutazione più attinente. Faccio notare una mancanza tra le categorie indicate... Mancano le forze dell'ordine, forse meno a rischio dei medici/infermieri/OSS ma categoria a rischio per servizio.<br> :date: __2020-09-16 14:09:22__
 
@@ -258,8 +260,6 @@ The SM_Covid19 app has been installed by more than **50000** times. At this time
 > Buona<br> :date: __2020-07-08 19:36:55__
 
 > non 0si capisce il funz.to<br> :date: __2020-07-01 13:12:28__
-
-> Applicazione molto interessante e ben fatta ma che consuma una quantità di batteria assurda: minimo il 16% della batteria in 10 ore e senza mai averla aperta in modo esplicito ed è un valore molto più alto di quello del display o di Facebook o navigazione internet nello stesso intervallo<br> :date: __2020-06-29 22:46:39__
 
 
 
@@ -297,9 +297,13 @@ The SM_Covid19 app has been installed by more than **50000** times. At this time
 <img src="1_star_reviews_wordcloud.png" alt="it.softmining.projects.covid19.savelifestyle 1 reviews"/>
 </p>
 
-> Bah. Non ne capisco l'utilità<br> :date: __2020-09-12 00:45:24__
+> Uno perché viene solo il bt e non il gps. Mettete un margine d'incertezza per la privacy. Sarebbe utilissimo sapere che nel raggio di cento metri c'è stato tizio sicuramente positivo (perchè testato).<br> :date: __2020-10-06 10:57:21__
 
-> L' app consuma troppo batteria<br> :date: __2020-08-29 14:05:30__
+> La segnalazione solo delle presenze delle persone non da alcuna certezza sulla presenza di eventuali positivi<br> :date: __2020-10-05 17:08:21__
+
+> L' app consuma troppo batteria<br> :date: __2020-10-05 00:04:40__
+
+> Bah. Non ne capisco l'utilità<br> :date: __2020-09-12 00:45:24__
 
 > Pessima da migliorare tutto<br> :date: __2020-08-23 18:06:12__
 
@@ -312,9 +316,5 @@ The SM_Covid19 app has been installed by more than **50000** times. At this time
 > Dopo ultimo upgrade, l'app va in crash<br> :date: __2020-07-19 20:33:36__
 
 > Samsung A70<br> :date: __2020-07-14 14:32:17__
-
-> 😝<br> :date: __2020-07-10 20:11:42__
-
-> Poco efficace fino ad ora<br> :date: __2020-07-08 23:41:06__
 
 

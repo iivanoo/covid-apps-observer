@@ -142,25 +142,25 @@ The StopCovid France app has been installed by more than **1000000** times. At t
 <img src="5_star_reviews_wordcloud.png" alt="fr.gouv.android.stopcovid 5 reviews"/>
 </p>
 
-> Ses intéressant pour savoir pour le covid ses important télécharger le pour votre sécurité<br> :date: __2020-10-02 09:29:23__
+> Idée bonne<br> :date: __2020-10-10 22:59:58__
 
-> De nouveau fonctionnel après plusieurs mois dommage que la réactivité ne soit pas de mise sur les corrections, ça aurait aidé l'application à mieux percer.<br> :date: __2020-10-02 08:29:41__
+> Il faut télécharger, cette application Arreter d imaginer des scénarios complotiste... Nous sommes déjà fichés, suivi, espionnés... Par nos réseaux sociaux, application de communication gratuite, Banque, achat en ligne... Le bémol de cette application est la connection qu'il faut penser à réactivité des que l'on coupe son tel, mode avion par exemple... C'est sûrement pour rassurer et éviter de se sentir trop épié, mais pour le coup, ca pourrait nous rassurer. Prenez soins de vous<br> :date: __2020-10-10 09:46:36__
 
-> Peu importe si oui ou non l'appli fonctionne correctement, elle a le mérite d'exister. Les màj arriveront au fur et à mesure. 5 étoiles car en dessous ça ne doit pas décourager de la télécharger. Elle est à partager car cette appli doit être propagée beaucoup plus vite que ce put\*\*n de virus.<br> :date: __2020-10-01 23:02:40__
+> J'ai enfin réussi à activer l'application merci d'avoir corriger le problème<br> :date: __2020-10-10 08:22:05__
 
-> Simple et respectueuse de la vie privée, un outil nécessaire au principe de précaution afin de lutter contre le COVID et ses conséquences tant sur la santé que sur l'économie.<br> :date: __2020-10-01 10:35:54__
+> Le coronavirus ne craint rien avec cette application même si l'étiquette StopCovid veut suggerer autre chose. Le virus profite de la négligence et ignorance à tous les niveaux et il a un allié avec cette application si cela continue comme cela... Bravo encore ... Après, je suis d'accord avec les avis qui demandent des statistiques. Le nombre de personnes détectés, combien de temps l'application fonctionne etc - il n'y a aucun contrôle sur cette application possible depuis 5 mois ...<br> :date: __2020-10-10 01:20:51__
 
-> Ne semble pas bien fonctionner sans WIFI.(mais marche bien à la maison)<br> :date: __2020-10-01 04:36:20__
+> L'application a besoin d'être désinstaller et réinstaller depuis la dernière mise à jour...<br> :date: __2020-10-09 23:29:22__
 
-> Facile à démarrer<br> :date: __2020-09-30 13:17:15__
+> Bien mais manque d'activité, je n'ai croisé personne ayant que le COVID19 ! l0l ^^<br> :date: __2020-10-09 20:34:37__
 
-> La notification est présente pour que l'application puisse tourner en tâche de fond.<br> :date: __2020-09-29 13:47:49__
+> Application pertinante et espère ne pas avoir à l utiliser pour valider cette avis<br> :date: __2020-10-07 16:09:56__
 
-> Soyez responsable et citoyen<br> :date: __2020-09-29 10:37:14__
+> De l'amélioration a faire<br> :date: __2020-10-07 01:02:37__
 
-> Genial<br> :date: __2020-09-28 16:08:56__
+> Très bonne idée très pratique et intuitifs<br> :date: __2020-10-05 22:02:05__
 
-> Version 1.1.4 #49 : stupéfiant, l'activation a fonctionné sans erreur ROBERT. Cette application serait devenue opérationnelle ? On croise les doigts... Update : 5 jours après, fonctionne toujours parfaitement bien<br> :date: __2020-09-28 10:58:33__
+> Gonla rendre compatible avec les notifications d'exposition de Google...<br> :date: __2020-10-04 22:14:58__
 
 
 
@@ -169,6 +169,16 @@ The StopCovid France app has been installed by more than **1000000** times. At t
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="fr.gouv.android.stopcovid 4 reviews"/>
 </p>
+
+> Simple et tellement utile qu'elle devrait etre obligatoire !. Mais elle refuse de s'ouvrir regulierement: je suis obligee de la desinstaller puis de la reinstaller...<br> :date: __2020-10-10 07:51:35__
+
+> Apparemment la mise à jour du 15 09 2020 a désactivé l'application ! Que ce soit un bug ou un choix volontaire, c'est scandaleux s'agissant de santé publique. Combien de personnes se sont rendu compte à ce jour qu'elles ont une application supposée les protéger qui est désactivée à leur insu ? Pas étonnant que peu de gens l'utilisent...<br> :date: __2020-10-06 14:29:53__
+
+> Bonjour, Je retrouve parfois l'application arrêtée ou "désactivée". Ill suffit de la réactiver, mais combien de temps a été perdu ? Il semble que cela soit arrivé après sortie du mode avion. J'espère aussi que la désactivation ne fait pas perdre l'historique des deux dernières semaines, sinon, tout cela devient assez inutile. Et cette interrogation n'aide pas à avoir confiance. Il manque drastiquement un affichage statistique, par exemple un histogramme du nombre de contacts par jour. Merci<br> :date: __2020-10-04 15:39:17__
+
+> Je peux enfin l'activer..... Elle n'était même pas opérationnelle à son lancement.... Mieux vaut tard que jamais.<br> :date: __2020-10-03 09:50:53__
+
+> Demander à Google et Facebook qui fréquente qui, serait plus efficace, car 90% de la population leurs donnent déjà les informations de localisation et bien d'autres.m informations personnelles.<br> :date: __2020-10-03 09:32:51__
 
 > Comme à Hong Kong, les consignes sanitaires doivent être respectées par l'ensemble des français.Le traçage est une bonne chose, pour isoler rapidement les cas covid déclarés. Bon courage à toutes et tous, nous finirons à voir bientôt le bout du tunnel.<br> :date: __2020-10-02 11:46:24__
 
@@ -180,16 +190,6 @@ The StopCovid France app has been installed by more than **1000000** times. At t
 
 > Depuis quelques jours stopcovid plantait sur mon téléphone. J'ai fini par la désinstaller et la réinstaller. Depuis elle refonctionne. Par contre j'ai noté qu'il y avait eu une MAJ le 15 septembre, mais je n'ai pas souvenir de l'avoir vu s'installer sur mon téléphone.<br> :date: __2020-09-27 10:32:54__
 
-> Pas de plantage. pas de désactivation intempestive. ca semble fonctionner.<br> :date: __2020-09-25 13:25:39__
-
-> Très bonne appli mais se désactive parfois. L'utilisateur devait en être informé. Et corriger ce beug pour que sa se désactive plus.<br> :date: __2020-09-23 21:43:10__
-
-> Ai pas mis 5 étoiles à cause du bug lors des mises à jour, j'ai un message "stopcovid s'arrête automatiquement". Solution : désinstaller et réinstaller. Fastidieux mais bon, l'essentiel est d'avoir un truc qui contribue à nous protéger du Covid.<br> :date: __2020-09-23 18:00:08__
-
-> Une application bien dans l'ensemble, simple d'utilisation. Néanmoins, l'application ce désactive beaucoup de fois et des oublies de réactivation sont faits.<br> :date: __2020-09-22 21:51:21__
-
-> Pour l'instant je trouve que ça consomme beaucoup trop de batterie, vraiment beaucoup. Par contre côté protection des données, on peut difficilement faire mieux ! Et les quatre étoiles sont pour ça. J'attends de voir si beaucoup de gens la téléchargent, il y aura un réel intérêt pour cette appli<br> :date: __2020-09-22 17:43:47__
-
 
 
 #### 3-star reviews
@@ -198,25 +198,25 @@ The StopCovid France app has been installed by more than **1000000** times. At t
 <img src="3_star_reviews_wordcloud.png" alt="fr.gouv.android.stopcovid 3 reviews"/>
 </p>
 
+> Je viens de l'installer sans aucun problème, mais je reçois des alertes fréquentes ( toutes les 2~3 min ) lorsque j'utilise mon smartphone pour me dire que StopCovid est activé, j'avoue c'est un peu usant à force. Y a t- il moyen de supprimer cette notification ? Mise à jour avis le 11/10/2020 Le défaut des alertes fréquentes avait été résolu, en revanche ces derniers jours il était impossible d'activer l 'appli. Le bouton était grisé. J'ai du désintaller puis réinstaller l'appli.<br> :date: __2020-10-11 09:14:23__
+
+> De nouveau après MAJ 1.1.4 du 15/09 .. Se désactive seule en permanence malgré toutes les autorisations voulues. Version précédente le problème était déjà présent. Et version encore précédente le problème était résolu.. Le tout sur le même téléphone et installé depuis la première version dispo.<br> :date: __2020-10-10 22:34:56__
+
+> Bizarre, l'application s'arrête sans crier gare, depuis plusieurs mois ce genre de Blague arrive régulièrement. Et là cette semaine, c'est le pompon : elle ne démarre plus du tout. J'ai du désinstaller puis réinstaller, je me demande si cette application est franchement utile...<br> :date: __2020-10-10 19:17:59__
+
+> Je voulais savoir si l application fonctionne bien pour qu'il détecte si il y a une personne a le virus covid 19<br> :date: __2020-10-10 16:20:24__
+
+> Comme tout le monde se désactive trop souvent. J'oublie de plus en plus souvent de la remettre.<br> :date: __2020-10-09 19:52:35__
+
+> On voit malheureusement les limites de l'architecture technique choisie pour développer cette application. Celle-ci n'utilise pas le sdk spécifique mis à disposition par Google pour le contact tracing. Du coup, elle est considérée comme une application lambda et se retrouve dépendante des paramètres d'optimisation de la batterie mis en place par les constructeurs d'où les arrêts intempestifs de l'application remontés par de nombreux utilisateurs. Dommage, car cela rend l'application peu fiable.<br> :date: __2020-10-08 22:38:41__
+
+> Avant ça plantait tout le temps, mais ça c'était avant...<br> :date: __2020-10-08 20:32:25__
+
+> Cette appli est inutile, elle se désactive toute seule, au moins, à chaque démarrage du smartphone. Je désinstalle. Développer des programmes c'est un métier.<br> :date: __2020-10-06 17:03:03__
+
 > Pour l'instant aucun écho<br> :date: __2020-10-01 12:36:35__
 
 > Fonctionne bien sans problème sur mon téléphone mais aucun signalement depuis que je l'ai activée (2 mois déjà) alors que Rennes est en zone rouge...suis-je le seul à utiliser cette appli?<br> :date: __2020-10-01 08:56:27__
-
-> L'application dans le contexte du covid19 était fondamentale, mais pour qu'elle puisse fonctionner faut-il qu'elle soit chargée par l'ensemble de la population. Dommage une fois de plus que les français baissent les bras !<br> :date: __2020-10-01 07:44:05__
-
-> Application des plus simples à utiliser. Hormis le fait qu'il faut bien penser à réactiver l'application tous les jours, je n'ai pas trop à me plaindre, je l'utilise depuis le début. Par contre, je m'interroge vraiment sur son utilité... Je doute qu'il y ait beaucoup de personnes que je croise qu'il l'ait téléchargé... 😟<br> :date: __2020-09-30 07:27:10__
-
-> Malheureusement, l'application se désactive souvent.<br> :date: __2020-09-29 19:58:42__
-
-> Validé par la CNIL et l'ANSSI : j'ai confiance 👍 Mais se désactive très souvent tte seule.. dommage MAJ : il faut retirer TOUTES les optimisations de batterie pour cette appli dans les parametres du téléphone pour éviter qu'elle ne plante ou se désactive..<br> :date: __2020-09-29 01:28:19__
-
-> Application qui se désactive à chaque désactivation du bluetooth et qui ne se réactive pas quand on le remet (ce que j'oublie régulièrement)...<br> :date: __2020-09-28 16:52:13__
-
-> Je viens de télécharger la mise a jour et je ne peux plus activer stop covid. Dommage !!!<br> :date: __2020-09-28 09:28:21__
-
-> Gros impact sur consommation, au eu d'avoir 90% le matin sur Samsung Galaxy s7 (système de pause), on a 1% au milieu de la nuit. Lié au Bluetooth ou à l'application. Plantages.<br> :date: __2020-09-27 03:58:14__
-
-> Ne sert à rien,nul<br> :date: __2020-09-26 16:49:22__
 
 
 
@@ -226,25 +226,25 @@ The StopCovid France app has been installed by more than **1000000** times. At t
 <img src="2_star_reviews_wordcloud.png" alt="fr.gouv.android.stopcovid 2 reviews"/>
 </p>
 
-> Se désactive inopinément sans cesse. Impossible de l'activer plusieurs heures de suite... Inutile..<br> :date: __2020-10-01 20:09:46__
+> C'était peut-être une bonne idée, mais l'application s'arrête toute seule... Donc elle ne sert à rien.<br> :date: __2020-10-10 23:55:11__
 
-> Consomme la batterie à la vitesse grand V. Il me reste 25% après 12h00. Obligation de recharger tous les jours.<br> :date: __2020-10-01 19:40:19__
+> Ces derniers jours, impossible d'ouvrir l'appli, elle s'arrête tout de suite après avoir affichée l'écran d'accueil. Vite une MAJ !<br> :date: __2020-10-10 10:04:25__
 
-> Elle se désinstalle souvent<br> :date: __2020-10-01 08:49:50__
+> L'application se stop tout les jours à un moment où l'autre dans la journée... Je m'en rend compte le soir en sortant du boulot depuis quand elle est arrêté aucune idee sûrement le matin vu qu'un jour je m'en suis rendu compte à 10h...<br> :date: __2020-10-09 20:41:26__
 
-> L'application se désactive toute seule et après quelques semaines d'utilisation ne veut plus s'ouvrir... Je suis tout à fait d'accord avec le fait que le plus grand nombre de français doit l'utiliser pour qu'elle soit efficace, mais si ça devient quelque chose qu'il faut vérifier continuellement, c'est plus une contrainte qu'un bénéfice<br> :date: __2020-09-29 12:09:02__
+> Vide la batterie en moins d'une journée...<br> :date: __2020-10-09 17:57:25__
 
-> Voulant participer à l'effort contre ce virus je l'ai chargé des la première heure mais j'ai des doutes importants quant à son efficacité quand je sais que: * j'en suis rendu au moins à la vingtième fois où je dois réactiver l'application qui s'est coupée sans crier gare * le traçage a du être amoindri en efficacité pour ménager les susceptibilités alors que google nous trace au quotidien. * peu de monde le charge faute d'obligation et de conviction. Allez on y croit quand même et on continue<br> :date: __2020-09-29 06:25:16__
+> L'application empêche mon téléphone de se connecter au kit mains libres bluetooth de mon véhicule<br> :date: __2020-10-08 19:28:48__
 
-> Déception. Mon téléphone n'est pas compatible avec Stop Covid car il ne dispose pas du Bluetooth Low Energy. Faute d'avoir accès au BLE, les personnes qui ont des vieux portables ou des mobiles bas de gamme ne peuvent utiliser StopCovid. L'application doit être améliorée pour qu'une grande partie de la population ne se trouve plus exclue du contact-tracing.<br> :date: __2020-09-29 03:23:52__
+> L application a fonctionné au départ, mais maintenant, J ai toujours une demande de téléchargement de la nouvelle version ,mais rien ne se fait, dommage<br> :date: __2020-10-08 13:35:03__
 
-> Pourquoi ne peut-on pas désactiver la notification permanente qui indique seulement que l'application est active ? Cela pollue l'écran.<br> :date: __2020-09-28 11:16:05__
+> Jusqu'à présent l'application fonctionnait correctement mais aujourd'hui impossible de l'activer... je l'ai désinstallée et réinstallée mais rien ne se passe. Merci de me dépanner et de me donner une solution.<br> :date: __2020-10-08 12:48:50__
 
-> Tellement utile mais l'application bouffe ma batterie en une matinée.. Dommage<br> :date: __2020-09-27 12:57:28__
+> Pourquoi est-ce que cette application doit être constamment réactivé ? A chaque fois que mon portable est en mode avion, il faut ensuite penser à réactiver l'application. Pénible...<br> :date: __2020-10-07 06:44:17__
 
-> Application utile mais ne fonctionne pas sur mon téléphone, elle s'arrête aussitôt que je l'ouvre. Pourriez-vous la rendre fonctionnelle sur tous les appareils ? Merci.<br> :date: __2020-09-27 11:24:20__
+> Plantages incessants non corrigés. J'ai été contraint de deinstaller l'application et la réinstaller à trois reprises ! Cela ne fonctionne pas.... J'abandonne... Très déçu alors que cette application à été conçue par les très grands du domaine.... 😕<br> :date: __2020-10-06 19:30:45__
 
-> Inutile d'après mr Castex alors, pourquoi devrions nous l'utiliser?<br> :date: __2020-09-26 19:28:51__
+> Comme beaucoup d'autres utilisateurs, l application s arrête seule. J ai essayé plusieurs fois de la redémarrer en vain. Donc pas efficace.<br> :date: __2020-10-06 17:20:06__
 
 
 
@@ -254,24 +254,24 @@ The StopCovid France app has been installed by more than **1000000** times. At t
 <img src="1_star_reviews_wordcloud.png" alt="fr.gouv.android.stopcovid 1 reviews"/>
 </p>
 
-> En fait, elle ne fonctionne que si les personnes l'ont téléchargées et que s'il laisse activé leurs bluetooth. Donc en fait, c'est quasiment impossible qu'elle nous protège car rien qu'autour de moi, personne ne l'a téléchargée.... Pourquoi pas utiliser le wifi que tous le monde laisse allumé au lieu du bluetooth ? Ça ferait une condition en moins.... Màj de l'avis : l'application se désactive toute seule donc niveau protection c'est nul !<br> :date: __2020-10-02 12:42:32__
+> Ça nous a coûté combien pour une application qui n'est même pas capable de faire son job...<br> :date: __2020-10-11 13:06:33__
 
-> Je n'ai pas utilisé l'application, je veux juste contribuer à l'améliorer par certaines idées. Le principe de base est top, le vrai problème, c'est la forme de l'appli : le bluetooth ? Sérieusement ? Il fallait localiser les téléphones en fonction de leurs distances aux bornes 2G/3G/4G ! Ça évite d'avoir le BT constamment activé (piratage, batterie..)... C'est un peu la base, ou même par GPS à défaut ! C'est plutôt précis.<br> :date: __2020-10-02 10:13:42__
+> Fonctionne pas très bien<br> :date: __2020-10-11 08:20:26__
 
-> Application qui s'arrête automatiquement, et aléatoirement. Ce qui pose la question de sont utilité. Je la remets à chaque fois que je le vois. Mais au bout de combien de temps d'arrêt...? Je continuerai malgré tous à l'activité a chaque fois pour ma famille, mon épouse qui n'a plus de défenses immunitaires...et les personnes que je croise.<br> :date: __2020-10-02 07:53:03__
+> Se désactive en permanence. Du coup, desinstallée.<br> :date: __2020-10-10 23:56:35__
 
-> Impossible de faire fonctionner l'application... "Stopcovid a cessé de fonctionner"<br> :date: __2020-10-02 00:23:21__
+> Épuise la batterie Pas de communication, personne ne l'a installé donc c'est inutile. Honteux l'état n'est pas un chef de projet<br> :date: __2020-10-10 22:19:40__
 
-> Pourri<br> :date: __2020-10-02 00:07:34__
+> Application à la hauteur du gouvernement, une application de guignols, elle se ferme toute seule, elle ne mérite même pas une étoile.<br> :date: __2020-10-10 18:15:01__
 
-> Ne marche pas dès la première fois<br> :date: __2020-10-01 22:30:17__
+> L'application est souvent récalcitrante à l'ouverture.<br> :date: __2020-10-10 13:51:38__
 
-> Ne fonctionne pas ... ( Xiaomi redmi note 7 )<br> :date: __2020-10-01 22:27:36__
+> Se mets hors service toute seule, bizarre. Et après on s'étonne que les gens l'utilise peu...Quelques fois en essayant de la relancer, elle affiche: "stop Clovis à cessé de fonctionner". Étonnant pour une appli qui a coûté des millions d euro.....<br> :date: __2020-10-10 10:23:39__
 
-> J'ai l'application, et j'ai le covid19 en ce moment. Donc c'est que ça ne marche pas.<br> :date: __2020-10-01 22:26:49__
+> Il faut utiliser cette application malgré sa conception pitoyable.<br> :date: __2020-10-10 00:31:12__
 
-> À chaque fois que je regarde l'applucation n'est pas activée alors qu'à aucun moment je ne suis intervenue pour la stopper<br> :date: __2020-10-01 20:14:52__
+> Bonne idée mais ruine mon débit wifi. Du coup je n'utilise plus l'appli.<br> :date: __2020-10-09 21:29:32__
 
-> Cela ne marche pas.cela se désactive sans arrêt<br> :date: __2020-10-01 10:39:24__
+> Impossible de se declarer.... l'application rame puis finit en message d'erreur. Dommage et très décevant car c'était une bonne idée<br> :date: __2020-10-09 21:19:28__
 
 

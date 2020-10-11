@@ -131,6 +131,10 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="de.bssd.covid19 5 reviews"/>
 </p>
 
+> Macht was Sie soll! Binnen 18 h Ergebnis per push Nachricht erhalten!<br> :date: __2020-10-06 12:30:26__
+
+> Ok<br> :date: __2020-10-03 11:44:13__
+
 > Funktioniert, macht das was sie soll. Ja, sie will jedes Mal den QR-Code haben, aber diese Funktion dient zum Datenschutz. Die App merkt sich trotzdem den zuletzt gescannten Code und gibt auch zuverlässig die Push-Benachrichtigung aus, sobald das Ergebnis vorhanden ist.<br> :date: __2020-09-17 21:51:48__
 
 > Voll cool die app voralem man muss dardurch das handy im Unterricht nicht ausschalten aber die app ist viel cool und sie ist einfach zu Nutzen und man versteht sie schnell<br> :date: __2020-09-09 06:24:58__
@@ -146,10 +150,6 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 > Bedienung super einfach, man bekommt eine Pushnachricht, sobald das Ergebnis vorliegt. Flughafen KölnBonn, getestet gestern um ca. 16 Uhr, heute gegen 12 das Testergebnis! Innerhalb von 20 Stunden, und natürlich negativ ( aus Split, Kroaten) 🎉<br> :date: __2020-08-28 13:07:41__
 
 > Handhabung sehr einfach,knapp 24 Std.später die Benachrichtigung ,dass das Testergebnis vorliegt. Tolle App!!<br> :date: __2020-08-28 12:57:46__
-
-> ICH hab meinen Test zwar erst nach 5 Tagen hier abgerufen, aber das Ergrnis war sofort da und die QR Code Erkennhng hat sehr gut funktioniert.<br> :date: __2020-08-21 22:19:14__
-
-> Hat alles einwandfrei funktioniert Habe ganz normal meine Nachricht, 27h nach dem Test bekommen, verstehe all die schlechten Bewertungen nicht Nur schade dass man sich jedes Mal neu anmelden muss aber man kann ja auch einfach den Code kopieren und immer wieder bequem einfügen<br> :date: __2020-08-16 15:37:53__
 
 
 
@@ -187,6 +187,8 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 <img src="3_star_reviews_wordcloud.png" alt="de.bssd.covid19 3 reviews"/>
 </p>
 
+> Das Scannen des QR-Codes funktioniert leider nicht. Die ID-Nummer habe icb per Hand eingegeben. Dies hat allerdings erst funktioniert, nachdem ich die App geschlossen und erneut geöffnet habe.<br> :date: __2020-10-02 15:56:21__
+
 > Alles gut<br> :date: __2020-09-07 17:57:06__
 
 > Sehr simple App. Scan von Foto nicht möglich - nur via Kamera. Ergebnisbenachrichtung via Pushnachricht hat funktioniert. Sprache nur Deutsch und Holländisch.<br> :date: __2020-09-05 13:33:38__
@@ -204,8 +206,6 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 > Hallo, beim eingeben der id Nummer oder abscannen des Codes steht dran dass es ein Fehler gibt und das passwort oder benutzernamen falsch ist kann mir bitte einer weiterhelfen? Vielen Dank im voraus<br> :date: __2020-05-09 19:58:09__
 
 > Die Datenschutzerklärung ist nicht zoombar, und damit nicht lesbar. Muss aber bestätigt werden. Problem wurde gelöst.<br> :date: __2020-05-06 07:35:42__
-
-> Diese App ist wie Roblox sie wollen ein code<br> :date: __2020-04-18 08:10:59__
 
 
 
@@ -243,24 +243,24 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 <img src="1_star_reviews_wordcloud.png" alt="de.bssd.covid19 1 reviews"/>
 </p>
 
-> Mit Android 11 kein Start der App möglich<br> :date: __2020-10-02 13:08:23__
+> Hier funktioniert gar nix. QR-Code wird nicht gescannt und die ID kann man auch nicht eingeben<br> :date: __2020-10-10 16:52:22__
 
-> Geht nicht! PIXEL 3, Android 11. Läuft nicht auf einem Android Referenz-Handy? Hier muss was schwer schief laufen. Die App geht nach dem Start wieder zu. Keine Möglichkeit die App zu starten.<br> :date: __2020-10-01 16:08:59__
+> An der App funktioniert mal so garnichts.<br> :date: __2020-10-10 09:43:41__
 
-> Sie Startet seit Android 11 nicht mehr weder Pixel 2 noch Pixel 3a<br> :date: __2020-10-01 14:36:12__
+> Qr scanner schmiert durchgängig ab nach 5 Tagen warten immer noch kein Ergebnis.. Ja dann wohl Quarantäne auf unbestimmte Zeit. Obwohl es hieß nach maximal 72 Stunden liegt das Ergebnis vor...<br> :date: __2020-10-09 23:22:25__
 
-> Wurde diese App jemals getestet? Leider funktioniert überhaupt nichts. QR-Scan versagt, manuelle Code-Eingabe nur über Umweg, Zugangsdaten werden ständig vergessen und jetzt zeigt die App immer noch an, dass kein Ergebnis vorliegt, obwohl ich es gerade abgerufen habe. Es ist mir völlig unverständlich, wie die App freigegeben werden konnte und es trotz häufig beschriebener Fehler kein Update gibt. Ich verstehe hier die Programmierer nicht. Schlechtere Werbung kann es kaum geben.<br> :date: __2020-09-30 19:47:58__
+> In dieser app funktioniert fast garnichts. Alles nur über manuelle Eingaben möglich. Nach scannen des Barcodes will er eine Finanzsoftware installieren.<br> :date: __2020-10-09 15:26:31__
 
-> Unfassbar schlecht diese App. Wer programmiert sowas?<br> :date: __2020-09-30 16:36:29__
+> QR Code Scan funktioniert nicht. Keine Hilfetexte.<br> :date: __2020-10-08 21:09:02__
 
-> Völliger Blödsinn tut garnichts<br> :date: __2020-09-29 18:48:33__
+> QR Code Scanner funktioniert nicht. Bei ID Eingabe erscheint kein Tastaturfeld. Leider völlig unbrauchbar<br> :date: __2020-10-08 19:22:20__
 
-> Schrott, weder QR-Code scannen noch Eingabe der ID-Nummer funktionieren.<br> :date: __2020-09-28 13:51:37__
+> Es ist schon eine Zumutung, mit welch unnützen, weil nicht funktionierenden Tools, man seine wertvolle Zeit verschwenden muss.<br> :date: __2020-10-08 14:47:43__
 
-> Na das war ja mal nix. Der Scanner funktioniert auch auf nem Samsung S10e eher nicht so. Nach mühseliger ID-Eingabe kommt auch nur die Meldung, Testergebnis läge nicht vor. Wenn es nach der APP ginge, soll ich vermutlich das nächste halbe Jahr in Quarantäne bleiben.... gut, dass es noch Telefone und freundliche Arzthelferinnen gibt.....<br> :date: __2020-09-28 12:57:54__
+> Weder der qr scanner, noch die manuelle eingabe funktionieren...total unbrauchbar<br> :date: __2020-10-08 14:11:25__
 
-> ni siquiera se abre.<br> :date: __2020-09-28 10:28:04__
+> Nix funktioniert. Kann weder QR codes scannen, noch manuell den Code eingeben.<br> :date: __2020-10-08 09:32:34__
 
-> Falsche App. Dach dem ich meine Ergebnisse auch mit dem QR Code erfragen wollte und es auch bei mir nicht geklappt hat, habe ich noch mal die genaue Appbezeichnung raus gesucht. Der QR Code ist für die LABUNIQ App. Deswegen fintioniert der Scan nicht. Also... App deinstalliert und LABUNIQ runtergeladen<br> :date: __2020-09-27 17:28:24__
+> Funktioniert auf den Pixel 4a mit Android 11 nicht. Öffnet und schließt sich direkt wieder.<br> :date: __2020-10-07 14:09:31__
 
 

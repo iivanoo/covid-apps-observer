@@ -3,56 +3,61 @@
         "id": "de.rki.coronadatenspende",
         "store_country": "de",
         "store_lang": "de",
-        "latest_crawled_version": "2.0.1",
-        "latest_crawl": 1601645761
+        "latest_crawled_version": "2.1.0",
+        "latest_crawl": 1602420962
     },
     {
         "id": "de.bssd.covid19",
         "store_country": "de",
         "store_lang": "de",
         "latest_crawled_version": "4120.7.01",
-        "latest_crawl": 1601645763
+        "latest_crawl": 1602420985
     },
     {
         "id": "org.who.infoapp",
         "store_country": "de",
         "store_lang": "de",
         "latest_crawled_version": "2.3.5",
-        "latest_crawl": 1601645772
+        "latest_crawl": 1602420994
     },
     {
         "id": "com.designit.covid_19",
         "store_country": "de",
         "store_lang": "de",
         "latest_crawled_version": "1.0.0",
-        "latest_crawl": 1601645778
+        "latest_crawl": 1602420995
     },
     {
         "id": "de.kreativzirkel.coronika",
         "store_country": "de",
         "store_lang": "de",
         "latest_crawled_version": "1.5.1",
-        "latest_crawl": 1601645778
+        "latest_crawl": 1602421001
     },
     {
         "id": "de.xikolo.openwho",
         "store_country": "de",
         "store_lang": "de",
-        "latest_crawled_version": "3.5",
-        "latest_crawl": 1601645778
+        "latest_crawled_version": "3.6",
+        "latest_crawl": 1602421109
     },
     {
         "id": "com.coronacheck.haugxhaug.testyourcorona",
         "store_country": "de",
         "store_lang": "de",
         "latest_crawled_version": "1.1",
-        "latest_crawl": 1601645787
+        "latest_crawl": 1602421244
     },
     {
         "id": "de.rki.coronawarnapp",
         "store_country": "de",
         "store_lang": "de",
         "latest_crawled_version": "1.3.1",
-        "latest_crawl": 1601645791
+        "latest_crawl": 1602421247
+    },
+    {
+        "id": "com.dbis.haugxhaug.coronahealth",
+        "store_country": "de",
+        "store_lang": "de"
     }
 ]

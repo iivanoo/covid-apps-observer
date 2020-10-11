@@ -1,0 +1,51 @@
+{
+    "permissions": [
+        "android.permission.ACCESS_NETWORK_STATE",
+        "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+        "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+        "android.permission.FOREGROUND_SERVICE",
+        "android.permission.BLUETOOTH_ADMIN",
+        "android.permission.INTERNET",
+        "android.permission.ACCESS_FINE_LOCATION",
+        "android.permission.WAKE_LOCK",
+        "android.permission.BLUETOOTH",
+        "com.google.android.c2dm.permission.RECEIVE"
+    ],
+    "activities": [
+        "com.shield.CombatCovidPBC.SplashActivity",
+        "com.shield.CombatCovidPBC.onboarding.OnboardingActivity",
+        "com.shield.CombatCovidPBC.onboarding.HowItWorksActivity",
+        "com.shield.CombatCovidPBC.onboarding.PreOnboardingActivity",
+        "com.shield.CombatCovidPBC.MainActivity",
+        "com.shield.CombatCovidPBC.onboarding.WebViewActivity",
+        "com.shield.CombatCovidPBC.onboarding.DisclaimerPrivacyActivity",
+        "pub.devrel.easypermissions.AppSettingsDialogHolderActivity",
+        "com.google.firebase.auth.internal.FederatedSignInActivity",
+        "com.google.android.gms.common.api.GoogleApiActivity"
+    ],
+    "urls": [
+        "http://schemas.android.com/apk/res/android",
+        "https://pagead2.googlesyndication.com/pagead/gen_204?id=gmob-apps",
+        "https://plus.google.com/",
+        "https://app-measurement.com/a",
+        "https://google.com/search?",
+        "https://stackoverflow.com/q/5189914/28465",
+        "https://groups.google.com/d/msg/guava-announce/zHZTFg7YF3o/rQNnwdHeEwAJ",
+        "http://localhost",
+        "http://schemas.android.com/apk/res-auto",
+        "https://www.googleapis.com/auth/games_lite",
+        "https://www.googleapis.com/auth/games",
+        "https://www.google.com",
+        "https://www.googleadservices.com/pagead/conversion/app/deeplink?id_type=adid&sdk_version=%s&rdid=%s&bundleid=%s&retry=%s",
+        "https://%1$s-%2$s.cloudfunctions.net/%3$s",
+        "https://%s/%s/%s",
+        "https://firebaseremoteconfig.googleapis.com/v1/projects/%s/namespaces/%s:fetch",
+        "https://firebasestorage.googleapis.com/v0",
+        "https://combatcovidapp.com/combatcovid-pbc-principles-privacy-policy-and-terms-of-use/",
+        "https://combatcovidapp.com/privacy-policy-terms-spanish/",
+        "https://combatcovidapp.com/privacy-policy-terms-creole/",
+        "https://combatcovidapp.com/combatcovid-pbc-links-spanish/",
+        "https://combatcovidapp.com/combatcovid-pbc-links/",
+        "https://combatcovidapp.com/combatcovid-pbc-links-creole/"
+    ]
+}

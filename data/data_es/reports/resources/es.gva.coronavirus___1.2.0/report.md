@@ -121,6 +121,8 @@ The GVA Coronavirus app has been installed by more than **10000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="es.gva.coronavirus 5 reviews"/>
 </p>
 
+> Me parece una aplicación muy útil. Es fácil de usar, informativa y lo más importante: te atienden rápido.<br> :date: __2020-10-07 09:42:29__
+
 > No se resien la aplico<br> :date: __2020-09-23 21:44:49__
 
 > Todavía no probé está actividad pero me parece lo mejor de todo<br> :date: __2020-09-22 20:21:44__
@@ -177,6 +179,8 @@ No recent reviews available with 2 stars.
 <img src="1_star_reviews_wordcloud.png" alt="es.gva.coronavirus 1 reviews"/>
 </p>
 
+> Me dice q los datos son erroneos y no me permite abrirla<br> :date: __2020-10-02 23:55:51__
+
 > No tengo ni idea de por qué no funciona la nacional Y además porqué , no informan de esta nueva aplicación y para que sirve Vergüenza siento de sus protocolos<br> :date: __2020-09-28 19:50:34__
 
 > Que pasa con los que no tienen SIP?<br> :date: __2020-09-21 23:45:39__
@@ -194,7 +198,5 @@ No recent reviews available with 2 stars.
 > Me parece fatal que quiera ver el mapa de contagio si voy a valencia y que no pueda verlo por no estar empadronado o no tener el SIP es algo inutil.. vaya aplicacion ..<br> :date: __2020-08-10 15:37:36__
 
 > Mala<br> :date: __2020-07-05 18:02:44__
-
-> Bien<br> :date: __2020-07-01 19:17:38__
 
 

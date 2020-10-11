@@ -165,6 +165,8 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 <img src="5_star_reviews_wordcloud.png" alt="gov.fema.mobile.android 5 reviews"/>
 </p>
 
+> Great information to keep current of the situations.<br> :date: __2020-10-08 22:32:16__
+
 > This is a good app.<br> :date: __2020-10-01 05:48:25__
 
 > Great<br> :date: __2020-09-28 18:54:04__
@@ -182,8 +184,6 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 > Good info<br> :date: __2020-08-19 06:16:24__
 
 > Government<br> :date: __2020-08-19 00:15:04__
-
-> Google maps Meunstergritsandassociatesllc incognito #thankyouforyourservice #cheetohs #china<br> :date: __2020-07-31 20:41:04__
 
 
 
@@ -221,6 +221,10 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 <img src="3_star_reviews_wordcloud.png" alt="gov.fema.mobile.android 3 reviews"/>
 </p>
 
+> Also I build homeless shelters and I think this would be the place to add my location make it official<br> :date: __2020-10-06 07:13:34__
+
+> Works but would multiply the same alerts<br> :date: __2020-10-03 19:46:59__
+
 > Sends out alerts as expected, but here's the issue. If I'm in another app (Facebook, e.g.), it won't override it, and there doesn't seem to be a way to get the alert within the actual app, so if you miss it... too bad. Also tried to pull up the app while roaming, and got a "no wifi" connection error. Who the hell has wifi during an emergency??? DO BETTER.<br> :date: __2020-09-13 18:35:21__
 
 > Not enough details on alerts. Not worth the space on my phone<br> :date: __2020-09-11 00:11:01__
@@ -236,10 +240,6 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 > where's the warnings I used to get<br> :date: __2020-06-24 02:29:53__
 
 > The back button does not exit the app.<br> :date: __2020-06-09 16:17:55__
-
-> Should be updated & expanded upon more but for what it is, I like it and will be keeping it.<br> :date: __2020-05-08 07:51:52__
-
-> I am a Harvey Hurrican victom me an my brother. When the hurrican was over i rent a place. My brother is with liver problems high blood pressure and hepitest. I am a copd lung condition also health problems. I am on home oxegen and four times a day with breathing treatments. Also my brother has a lung problem also woth Copd. We need Fema to help eith a house on Dickinson Texas , 77539. The place we rent has md and the land lord is a ok person but a slumlord. Fema to help us better living home<br> :date: __2020-04-20 08:40:27__
 
 
 
@@ -277,6 +277,8 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 <img src="1_star_reviews_wordcloud.png" alt="gov.fema.mobile.android 1 reviews"/>
 </p>
 
+> This hurricane I got turned down in just a few hours. Yeah technology!!!!!<br> :date: __2020-10-03 11:55:27__
+
 > Dont attempted to think of getting help all they do is deny<br> :date: __2020-09-26 19:00:17__
 
 > Doesn't work . Can't scroll on screen or get may location informaton<br> :date: __2020-09-09 13:06:18__
@@ -294,7 +296,5 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 > DENIED all my RIGHTS<br> :date: __2020-07-14 08:31:08__
 
 > I would look them up and see what they are really about. We need less government in our life and lower We are Tax Enough Already.<br> :date: __2020-07-07 14:51:55__
-
-> Don't trust fema<br> :date: __2020-06-26 20:16:46__
 
 

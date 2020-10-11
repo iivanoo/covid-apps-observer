@@ -1,5 +1,65 @@
 [
     {
+        "reviewId": "gp:AOqpTOGc3tZsPQ8RqpdCrdLw4pAWfoJfZ6Y37wy45ayeu1PbO1Tn_HJ0n82DrjH50H9moOslyIfMb9NjCRL7MQ",
+        "userName": "Nancy Maz",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Ggd5wE3Uu1O9KSAmu8CSe-f0P17RvR8nTsub50w-g",
+        "content": "Bellissima app",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2020-10-10 10:33:43",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOF4dn8dRJU6FiTxfzT6eF0Kz4w2s76ilBBR-e7eg9dHGoEwyMXNHue-hDon7ZA20-ho8bUTW273o9sWMw",
+        "userName": "Attilio Ruggiero",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgF_-QGejvwSinNd46_wKUbCeCeyQ9hRMsZuEgFTQ",
+        "content": "Utilissima",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.7.0",
+        "at": "2020-10-06 14:18:06",
+        "replyContent": "Ciao Attilio, grazie per averci lasciato il tuo feedback!",
+        "repliedAt": "2020-10-06 14:21:26"
+    },
+    {
+        "reviewId": "gp:AOqpTOHcnB7nWSmJdZwHegL2FtulTPcYrkNfnrpis3wOCCJWINi7ykVuCZvtfN7uOExTO6lLIkpAhPjbIyf9pA",
+        "userName": "Fausto Caleffi",
+        "userImage": "https://lh3.googleusercontent.com/-C90xnrvXOrU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm-nP-D_8yKhw85jyDGkiLtgsyNLw/photo.jpg",
+        "content": "Da un paio di mesi arrivano le allerte ma non si apre pi\u00f9 l'applicazione",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.7.0",
+        "at": "2020-10-04 13:40:07",
+        "replyContent": "Ciao Fausto, l'errore da te segnalato e collegabile al grande numero di utilizzatori o alla velocit\u00e0 di rete. Se non riesci ad accedere alle notizie dalle notifiche ti suggeriamo di accedere alle notifiche avviando l'app! Interverremo per migliorare la tua esperienza utente!",
+        "repliedAt": "2020-10-05 14:46:50"
+    },
+    {
+        "reviewId": "gp:AOqpTOGXKekvoDpqvLtHeWZgrdKfQrvkiAJrnOX7BsJQKGqeJPMMKVjURzj8OIDZvlR_bnrr_86mqO72bE0miA",
+        "userName": "salvatore oriti",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjsCBu_RozZIVzvG2-qeGmP3XQVnoXXAiKQfnXxkg",
+        "content": "Ottima applicazione, sempre presente per ogni cambiamento del tempo.",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.7.0",
+        "at": "2020-10-03 14:37:02",
+        "replyContent": "Grazie Salvatore, ci impegniamo ogni giorno per poter dare il meglio, recensioni come questa ci fanno particolarmente piacere!",
+        "repliedAt": "2020-10-05 14:25:51"
+    },
+    {
+        "reviewId": "gp:AOqpTOHA7EDvidTaUQsP-mZRb4DdjGIt2Uv1XpO1X6qSreOxx7tMgK5QIdinl8kIdXJgLrM2iNjUcTFsuwgG6w",
+        "userName": "Riberto Leoni",
+        "userImage": "https://play-lh.googleusercontent.com/-yrwlihaszWQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck4_zgj2pIoYRTYTdruNA2tq2vOuQ/photo.jpg",
+        "content": "Un po lenta per un uso di emergenza",
+        "score": 3,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "1.7.0",
+        "at": "2020-10-02 14:21:43",
+        "replyContent": "Ciao Riberto, spesso la lentezza pu\u00f2 essere legata al grande numero di utilizzatori o alla velocit\u00e0 della tua rete. Grazie per la tua valutazione!",
+        "repliedAt": "2020-10-05 14:27:23"
+    },
+    {
         "reviewId": "gp:AOqpTOGa0Jg_1OdR5jHMK0-OkaNbmqb1RiyH5o_Wj5tqw15Tf4T4mDDFXTCgMYNffPV7-qfioMS8G7_j7TJXeA",
         "userName": "Luigi Fasani",
         "userImage": "https://lh3.googleusercontent.com/-AdN09-77DVg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucngnV0zc-5ZxNUt7l4-lMgTiU_Apg/photo.jpg",
@@ -8,8 +68,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.7.0",
         "at": "2020-10-02 10:03:56",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ciao Luigi, siamo felici che tu abbia apprezzato le funzionalit\u00e0 dell'app!Grazie per il feedback!",
+        "repliedAt": "2020-10-05 14:29:19"
     },
     {
         "reviewId": "gp:AOqpTOF2WOqUrLh5WQ4NVw1x53vjhHsGUX2tz_VCzz0v68arvTnQjYFQT3XsRLXCq4d2k7cMJPEgJluR38tpZA",
@@ -20,8 +80,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.7.0",
         "at": "2020-09-29 10:16:31",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ciao Aldo, siamo spiacenti che la tua esperienza non sia stata all\u2019altezza delle tue aspettative.Ci piacerebbe sapere perch\u00e9 e migliorarci.Puoi raggiungerci in qualsiasi momento scrivendo a: info.allertalom@ariaspa.it",
+        "repliedAt": "2020-10-05 14:22:11"
     },
     {
         "reviewId": "gp:AOqpTOESNcAFJOIjc7JpBZdlAel3cJQI14Zf6f_x_zQxzvkgfctnaALzAXm1022D-L7kKEqoT6mVXM1HShyT9g",
@@ -29,11 +89,11 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhAmNIV10oqTqqPoBFDx8XsuSYiJVFmJ5H1Tv5Hzg",
         "content": "Da tempo non riesco pi\u00f9 ad aggiornare la mia situazione perch\u00e9 alla.prima domanda non mi viene consentito di rispondere . Le altre funzionano tutte ma alla fine mi dice che non posso inviare perch\u00e9 non ho risposto a tutte le domande. Peccato",
         "score": 2,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "1.7.0",
         "at": "2020-09-24 21:36:21",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ciao Paola, vorremmo aiutarti nella compilazione, trasmetti il print screen dell'anomalia da te segnalata e scrivi il dettaglio dell'azione da te seguita scrivendo a info.allertalom@ariaspa.it",
+        "repliedAt": "2020-10-05 14:20:40"
     },
     {
         "reviewId": "gp:AOqpTOEMflis2x0QUAaCjHNkZc28UWbq0XVoifle7fqOQqZFJHR7JVP6bO16ebYmxmh48n1XdcoGF0hbQD65Qw",
@@ -305,7 +365,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-8PNnVghMqW4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn2Go1dQuVdr2COptOy2mQpUXIyqQ/photo.jpg",
         "content": "Grande sciocchezza il fatto che non si possano variare determinati dati. Ad esempio, durante il periodo di maggiore virulenza, ho compiuto gli anni. Se non scarichi l'app e poi la ricarichi, rimane fisso il dato degli anni compiuti, cos\u00ec come caricato in origine. Poi le allerte non mi arrivano mai. Sto parlando di fenomeni atmosferici. Nella mia zona, da maggio 2020, ce ne sono stati almeno due. La tengo caricata per campanilismo, ma le applicazioni efficienti sono veramente tutt'altra cosa.",
         "score": 1,
-        "thumbsUpCount": 8,
+        "thumbsUpCount": 10,
         "reviewCreatedVersion": "1.7.0",
         "at": "2020-08-14 13:37:08",
         "replyContent": "Ciao Franco,siamo spiacenti che la tua esperienza non corrisponda alle tue aspettative.Ci teniamo a chiarire che i campi riferiti al questionario Cercacovid non sono modificabili per esigenze tecniche e statistiche. Per le notifiche assicurati di aver attivato il cursore dalle notifiche dall'app, per assistenza scrivi a info.allertalom@ariaspa.it",
@@ -769,8 +829,8 @@
     },
     {
         "reviewId": "gp:AOqpTOGO9jeefumXVca2cXP0F3mirrohjhWaDg0c3FtdkQo6wNfyJAJ5THjxS-OYwSdlRGCf19j1LwVxSVwyXQ",
-        "userName": "Leonardo Comito",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gib5wQV8SOs4WhJjOwZbn1kZJnmjAOIqSlA2bHu7w",
+        "userName": "Leo Comito",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gg2B3p5bPNJppBw0i8-v9v3DhuVWrDZkmY4-INiqd4",
         "content": "Svegliatevi cittadini italiani,(come ci chiamano i nostri governanti intellettuali ). Non fatevi prendere in giro \u00e8 un'app al solo scopo contrario alla nostra libert\u00e0, e tantomeno alla nostra salute.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -2378,7 +2438,7 @@
     {
         "reviewId": "gp:AOqpTOHykU4cVgcx-0zjBsfpRgLvZUQKy1AY0ycaIfWu2Ff-JJSsL4jg-Ht2asbAtV-wZCHLT2-c_Ub2ZS7YcA",
         "userName": "piero palaz",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gg2gdhztaNoF6pNvYTslqBwf2neW2VMX3p33bsFaro",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhsKmEfasNBjPe5Gyw9R63mTfq0-OslBul1hPRSUg4",
         "content": "Quando arriva un avviso apro l'app ma si blocca su una schermata bianca. Devo per forza chiuderla. Oggi 10/05 sembra tutto ok.",
         "score": 4,
         "thumbsUpCount": 0,
@@ -2702,7 +2762,7 @@
     {
         "reviewId": "gp:AOqpTOG2-LpbdOS3l23T92EPOT1wPY4A7IIO0njUiy0yzC_x2DBKq1azDlJHEoDwvu08a4uWDDzgTTX9qOsBaQ",
         "userName": "Carlo Dell'anna",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhW3biF64Fb72Xfv15HnP4MywjloovdPxrS1EO0LA",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgUUn2Rt4uHtdq-wGSqcOPFw2qhvruYj7mE_UXnBA",
         "content": "Ottima",
         "score": 5,
         "thumbsUpCount": 0,
@@ -3002,7 +3062,7 @@
     {
         "reviewId": "gp:AOqpTOErkRcrAIQNjIg99FO_iB_fXZBVfi7OVUZo-ViDpSkGt2XYheoX7csylA0mvhSIYcPbaiFlKRziL5VPCg",
         "userName": "Adriano Frasconi",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjKrck53lRKsQjc9tQR3IrYlP_fyxnYfuLnnUQDAA",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhatSbpmCNMwZpPByupu2dr-jLfM5H1TqVjdTkAXA",
         "content": "Non si capisce niente",
         "score": 2,
         "thumbsUpCount": 0,
@@ -4769,7 +4829,7 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjB8NopTBT-YgZyLNT8EFcJ6LxU-eKo-iieVtWZkA",
         "content": "Mi spiegate perch\u00e9 ogni volta devo reinserire il comune e cap di residenza? Non \u00e8 che uno ogni giorno cambi casa. Anche la situazione lavorativa a mio avviso pu\u00f2 essere memorizzata. Al limite, se dovesse cambiare, la si varia prima di inviare i dati. Se l'applicazione \u00e8 pensata per monitorare giornalmente la situazione sarebbe pi\u00f9 comodo variare ci\u00f2 che \u00e8 cambiato rispetto al giorno prima, piuttosto che reinserire tutto, specie per chi volesse inserire anche i famigliari. Cos\u00ec passa la voglia.",
         "score": 3,
-        "thumbsUpCount": 97,
+        "thumbsUpCount": 98,
         "reviewCreatedVersion": "1.6.0",
         "at": "2020-04-23 19:19:54",
         "replyContent": "Ciao Silvano,  ci teniamo a precisare che con la nuova release 1.6, i dati riferiti alla residenza e al luogo di lavoro rimangono memorizzati! Se hai bisogno di ulteriore assistenza, scrivi a info.allertalom@ariaspa.it",
@@ -5621,7 +5681,7 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gg4DDn2l7Y01cay9BFobazMyn0hc5i-VVmpnJ2j",
         "content": "Se lo scopo dell'app \u00e8 quello di effettuare una mappatura di quella che pu\u00f2 essere stata la diffusione del contagio sul territorio, risulta inefficace poich\u00e9 si limita ad una fotografia della situazione attuale. Le domande sui sintomi sono riferite alle sole ultime 2 settimane. Io e la mia famiglia la quasi totalit\u00e0 dei sintomi (compreso, per me, la congiuntivite) li abbiamo avuto a met\u00e0 febbraio. Sarebbe pi\u00f9 utile chiedere se i sintomi si sono avuti e, in caso affermativo, chiedere quando",
         "score": 2,
-        "thumbsUpCount": 175,
+        "thumbsUpCount": 176,
         "reviewCreatedVersion": "1.6.0",
         "at": "2020-04-22 11:52:35",
         "replyContent": "Ciao Raimondo, la ringraziamo per il suggerimento.Lo invieremo al gruppo di ricerca di medici e ricercatori dell\u2019Ospedale San Matteo e dell\u2019Universit\u00e0 degli Studi di Pavia che ha ideato il questionario. Ogni contributo degli utenti \u00e8 prezioso!",
@@ -7358,7 +7418,7 @@
     {
         "reviewId": "gp:AOqpTOE5PKNUePSWZ_djhMgm5fznw1o1JdLE1Dlx1Imj4MBE6rZFAp-7xP7wLueg7R53EQXpwNppeza9Yb3iOg",
         "userName": "Martina Nalini",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GizUs2iC_00NSrOJMNc0_9Lr1Ye6M-4_XXRt91qag",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgkoJYMfZRTZ_wkvRKcxa8wLgIhGO9rkmnVS0HXvw",
         "content": "Trovo assolutamente ridicolo fare un'app del genere ORA dopo decine e centinaia di morti in special modo in Lombardia! Questa misura di controllo andava fatta almeno dai primi di febbraio, io tutti i sintomi descritti nel test \"anonimo\" (come se non sapessero gi\u00e0 che dietro a quel numero ci sono io) li ho avuti TUTTI e sono stata a casa 2 settimane in quarantena per precauzione, visto che il tampone non mi \u00e8 mai stato fatto nonostante lavori in un supermercato. Semplicemente RIDICOLI E LADRI!!!!",
         "score": 1,
         "thumbsUpCount": 1,
@@ -11125,7 +11185,7 @@
     },
     {
         "reviewId": "gp:AOqpTOG_mNlkfXu-mQzCQlq_5krKvP1kk5YXNk8Zqw8Bp0N7S6dCu_yr7gSxtfdjGk0vkoPuMpgD7UHChVV5Tw",
-        "userName": "Paolo Quaranta",
+        "userName": "Paolo Uno",
         "userImage": "https://play-lh.googleusercontent.com/-iFA9RyKj_GM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckVdplluof3FLZuamHH-6Rnlx6Mhw/photo.jpg",
         "content": "Ottimo servizio.",
         "score": 4,
@@ -11938,65 +11998,5 @@
         "at": "2020-04-10 16:19:09",
         "replyContent": "Ciao Francesca Grazie della recensione!! Il nostro lavoro \u00e8 misurato anche in funzione delle vostre recensioni e valutazioni!!",
         "repliedAt": "2020-04-10 16:50:43"
-    },
-    {
-        "reviewId": "gp:AOqpTOGHJoaAvtdfWo5IawfdB9RTPrrbW2e0p41j62BRGqTnZjZ3hwnmdzPD_cCsrUv4_HWE7A6URpH9yJnFEQ",
-        "userName": "Graziano Mangiarotti",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhjtGUCYoM4UTSoGhViygPY08an3JUCpJKw38aenQ",
-        "content": "Non funziona per nulla",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.5.0",
-        "at": "2020-04-10 15:19:41",
-        "replyContent": "Ciao Graziano, ti invitiamo ad aggiornare alla versione 1.6.0 e se dovessi avere bisogno di assistenza scrivi a info.allertalom@ariaspa.it",
-        "repliedAt": "2020-05-05 10:40:12"
-    },
-    {
-        "reviewId": "gp:AOqpTOGJFrIAmeQZXYiUc00UONUbivotCFIjpFWrDdq8Tf5T7kVlbQ2YvXX5cTMwnJGXT4rHDKhCdjTSRd8zPA",
-        "userName": "A. Vincenzo Rossi",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gibt1VLx6js3LUrtp0YD-uTmb__TaKFw43DJh_NATQ",
-        "content": "App fondamentalmente inutile",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": null,
-        "at": "2020-04-10 14:08:22",
-        "replyContent": "Ciao Vincenzo, ci piacerebbe migliorare la tua esperienza utente, scrivici a info.allertalom@ariaspa.it i tuoi suggerimenti e proveremo a soddisfare le tue richieste nei prossimi rilasci.",
-        "repliedAt": "2020-04-24 16:21:58"
-    },
-    {
-        "reviewId": "gp:AOqpTOHyGhPzren0To9s6Spl54HbZDL0yxE_BP2a6GraHnQAOFRCFtfmuUQ5nealXk6NLYA4p41O_xY-OJQoiA",
-        "userName": "Ivan Grianti",
-        "userImage": "https://play-lh.googleusercontent.com/-h2Ocb79BoCI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm2fCr558azNZ4LnE27Lr1rT_3g4A/photo.jpg",
-        "content": "Ogni messaggio di notifica da leggere che arriva non si apre.... Da errore che non \u00e8 raggiungibile il servizio",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.5.0",
-        "at": "2020-04-10 14:07:25",
-        "replyContent": "Ciao Ivan, i nostri sviluppatori hanno individuato il problema e rilasciato un aggiornamento \nTi ringrazio per la segnalazione e ti invito ad aggiornare l'applicazione all'ultima versione disponibile \nSe hai bisogno di ulteriore assistenza, scrivi a info.allertalom@ariaspa.it",
-        "repliedAt": "2020-04-24 16:18:55"
-    },
-    {
-        "reviewId": "gp:AOqpTOGngGO2S14Z7fH4WG1YUt1WA4u0bw0taw27fGXshdAPEJQSECyTeJML8N_ENX9K0gMKZIGe7jYktJ4PUg",
-        "userName": "Claudio Carbone",
-        "userImage": "https://play-lh.googleusercontent.com/-dQHlTetbXaE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclP9LjowlmEc6RpdQ4JyAXwoCaZ_w/photo.jpg",
-        "content": "Quelle poche volte che sono riuscito ad aprire l'app ho fatto il questionario, ma spesso non si apre. Anche quando mi arrivano le notifiche non so riesce ad aprire e devo chiudere tutto manualmente. Cosi per me \u00e8 inutile e fastidioso. Mi spiace, ma devo disinstallare l'app",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.5.0",
-        "at": "2020-04-10 14:07:12",
-        "replyContent": "Ciao Claudio, i nostri sviluppatori hanno individuato il problema e rilasciato un aggiornamento. Ti ringrazio per la segnalazione e ti invito ad aggiornare l'applicazione all'ultima versione disponibile.\nSe hai bisogno di ulteriore assistenza, scrivi a info.allertalom@ariaspa.it",
-        "repliedAt": "2020-04-24 16:14:32"
-    },
-    {
-        "reviewId": "gp:AOqpTOHGAQseJ7SALAgZoNRXx3VdOgLHf0UqYXo7_JqcVfnN8S9q6FMSSmR1brvp1GNUxK8WuMUATUrPXeTPFg",
-        "userName": "cristina negrello",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GilwT5RrXRSNzdStyyFJTiUx8KPa65B4Zv4VjlhfcI",
-        "content": "Non funziona! Arriva il messaggio ma non si apre, da sempre errore servizio non disponibile riprova pi\u00f9 tardi.",
-        "score": 2,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.5.0",
-        "at": "2020-04-10 14:06:30",
-        "replyContent": "Ciao Cristina, ci spiace che la tua esperienza con l'App non sia positiva. I suggerimenti per noi sono importantissimi e ci aiutano a migliorare il servizio offerto",
-        "repliedAt": "2020-04-24 16:11:30"
     }
 ]

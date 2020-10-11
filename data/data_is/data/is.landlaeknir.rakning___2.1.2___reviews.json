@@ -1,5 +1,41 @@
 [
     {
+        "reviewId": "gp:AOqpTOHRVHuJuDJ2ExYZ-7Ed7H48dbtsxdEhuko78HDCu0bcz9_n0kpkmuhYbfAuEGujVHTrcjmU-1Tx7D05Nns",
+        "userName": "Mar\u00eca Krist\u00f3fersd\u00f3ttir",
+        "userImage": "https://lh3.googleusercontent.com/-AfEd87VGAF8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmBsuBl0tKlgzqQqYvuebyLrGLwrg/photo.jpg",
+        "content": "Mj\u00f6g gott, virkar vel hj\u00e1 m\u00e9r.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.1.0",
+        "at": "2020-10-07 14:50:55",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHmLi-EIwfnoV3Shm06BkmFbF3DZWGNDwWST9H9iXbzWpXp6YaJb-WeGDFpChBzK3hgKkAan_lIv2tkjMg",
+        "userName": "Unnar Gunnarsson",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgAQkFxWvFLJ0CEiVtJvWA4ZHjtg2rTuBgTFWbgOA",
+        "content": "\u00dea\u00f0 er l\u00edti\u00f0 gagn af \u00feessu nau\u00f0synlega appi ef \u00fea\u00f0 er engan veginn h\u00e6gt treysta \u00fev\u00ed a\u00f0 \u00fea\u00f0 s\u00e9 virkt 24/7... dettur \u00fat \u00e1 2-3 daga fresti og \u00fearf \u00fev\u00ed a\u00f0 r\u00e6sa \u00fea\u00f0 endurteki\u00f0 \u00feess vegna!!",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.1.2",
+        "at": "2020-10-04 00:56:15",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHj2AhpsEanDiTYDQK_-6M4TW-mMKN6aDZy6w1mJNy8vvVfChYHvd3MzRgUT7IoGYRBqt2XEeRB70IDXoY",
+        "userName": "\u00d3l\u00f6f P\u00e1lsd\u00f3ttir",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgbMOakSrjI0fGeXuAreYI9FyWrcvxLmJ2SPFkSRA",
+        "content": "V\u00e6ri fr\u00e1b\u00e6rt ef \u00feetta myndi virka. Dettur \u00fat \u00e1 sirka tveggja daga fresti. \u00dearf alltaf a\u00f0 vera a\u00f0 r\u00e6sa \u00fea\u00f0 aftur :(",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.1.2",
+        "at": "2020-10-03 22:55:24",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOGtgVc9a-UeSnlaXznwGQPkfVcJJxecI5bfAVGBQQoUr6olKlYOlFfjRlrnyyi0zR2Su7T5Qd7NwUQe7CU",
         "userName": "Valdimar Svavarsson",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gh8AFqTwwIofWC3y_ZTxgBe3pDchHzyAPUhDhJY",
@@ -41,7 +77,7 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjO1ozPCWNhEgG1iQ2x7q_EMYXzXyRrIFedolhc",
         "content": "\u00c9g er a\u00f0 lenda \u00ed \u00fev\u00ed a\u00f0 tilkynning sem \u00e1 alltaf a\u00f0 vera opin. Lokist og \u00e9g \u00fearf a\u00f0 fara inn i forriti\u00f0 til a\u00f0 opna aftur. Veit um engan annan sem er a\u00f0 lenda i \u00fev\u00ed sama",
         "score": 2,
-        "thumbsUpCount": 5,
+        "thumbsUpCount": 6,
         "reviewCreatedVersion": "2.1.2",
         "at": "2020-08-09 13:34:28",
         "replyContent": null,
@@ -758,7 +794,7 @@
     {
         "reviewId": "gp:AOqpTOH3c9ikBROlH3V2OYlcCL1FpYcTuImuhZKtTAyWG43FYcBouIov6gkmkicwxbJpWNPkK0aeBj_LNj391f8",
         "userName": "Sveinn Gunnarsson",
-        "userImage": "https://play-lh.googleusercontent.com/-nYvATHPgEuA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnU0M-3UZkYRUVaMr_ICIvQz3pBCg/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhuA1Bu65yA9_Q_LJwoyUd7sY2sd7Tmmenj8Qtslg",
         "content": "Virkar ekki \u00e1 samsung s10+",
         "score": 1,
         "thumbsUpCount": 2,

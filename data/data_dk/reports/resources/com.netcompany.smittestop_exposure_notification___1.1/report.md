@@ -148,6 +148,8 @@ The Smittestop app has been installed by more than **100000** times. At this tim
 <img src="5_star_reviews_wordcloud.png" alt="com.netcompany.smittestop_exposure_notification 5 reviews"/>
 </p>
 
+> The effort to help is worthy 5 stars<br> :date: __2020-10-07 15:31:28__
+
 > Det ville fandme være smart, hvis alle havde den app her!<br> :date: __2020-09-29 22:46:47__
 
 > Du skal downloade denne app så kan du føle dig lidt mere sikker i det offentlige!<br> :date: __2020-09-24 17:28:21__
@@ -165,8 +167,6 @@ The Smittestop app has been installed by more than **100000** times. At this tim
 > Useful without being needlessly complicated. The FAQ section gives really good responses to questions and concerns people might have.<br> :date: __2020-07-31 22:46:21__
 
 > Hello, i love this apps, i dont understand why people dont like sharing their location... If they are letting to cookies to facebook, browsers, etc. which are doing the same thing... I have question, does this work With Croatian COVID-19 Ministry of Health?<br> :date: __2020-07-31 10:21:12__
-
-> It's a pity that this app isn't in English, as I live in Denmark and my danish isn't very good.<br> :date: __2020-07-30 20:58:35__
 
 
 
@@ -204,6 +204,8 @@ The Smittestop app has been installed by more than **100000** times. At this tim
 <img src="3_star_reviews_wordcloud.png" alt="com.netcompany.smittestop_exposure_notification 3 reviews"/>
 </p>
 
+> Can i change the language to english?<br> :date: __2020-10-03 21:45:17__
+
 > On my phone, background exposure checks are not regularly performed. Last one was 5 days ago (!), in the past 14 days only 8 checks were made. I suspect this is an API issue rather than an app issue, but it seriously decreases effectiveness of the app. I wonder if it might be possible to add a manual "check now" button.<br> :date: __2020-09-30 19:53:17__
 
 > Virker som det skal men en så vigtig app som denne burde være open-source<br> :date: __2020-09-25 14:59:38__
@@ -222,8 +224,6 @@ The Smittestop app has been installed by more than **100000** times. At this tim
 
 > Appen fungerer fint, men det er et kæmpe dræn at skulle have Bluetooth aktiveret konstant. Det føles forældet og mit batteris levetid har været stærkt reduceret efter jeg har aktiveret appen hvilket gør at jeg stærkt overvejer om det er det værd.<br> :date: __2020-07-12 13:03:44__
 
-> Let at aktivere, men da den ikke virker udenfor Danmark med andre systemer, er den ikke særlig brugbar. Jeg havde håbet lidt på at man ikke skulle have 7 forskellige apps på for at få noget ud af det. At møde en smittet dansker i en lille by i Spanien eller Thailand er nok ikke så stor, som at møde en lokal der er smittet. Det lyder heller ikke til at man får besked med det samme man står over for en smittet person (telefon). PS : den starter ikke automatisk op...<br> :date: __2020-07-11 23:34:50__
-
 
 
 #### 2-star reviews
@@ -231,6 +231,8 @@ The Smittestop app has been installed by more than **100000** times. At this tim
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="com.netcompany.smittestop_exposure_notification 2 reviews"/>
 </p>
+
+> It is not compatible with my (old) mobile<br> :date: __2020-10-09 13:49:57__
 
 > Ideen med app'en er rigtig god, men den bruger bare alt for meget strøm.<br> :date: __2020-09-28 07:10:46__
 
@@ -250,8 +252,6 @@ The Smittestop app has been installed by more than **100000** times. At this tim
 
 > Make it available in English as well? If you really care all people in dk to stay safe<br> :date: __2020-08-14 00:17:40__
 
-> Good idea but crucial notification for status is still missing. It seems to work as intented but the design is not with actual users in mind. There is no indication on the status of the application running in the background. This leads to me forgetting turning it on and/or off as I have no idea without opening the app. Also there are too many steps to turn it on (3 taps is a lot).<br> :date: __2020-07-31 22:16:28__
-
 
 
 #### 1-star reviews
@@ -259,6 +259,14 @@ The Smittestop app has been installed by more than **100000** times. At this tim
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="com.netcompany.smittestop_exposure_notification 1 reviews"/>
 </p>
+
+> Hvorfor hører jeg konstant, at app'en er opdateret, medens sidste version er fra 14. august?<br> :date: __2020-10-09 09:05:16__
+
+> Still no update on announced (2 weeks ago) errors. :-(<br> :date: __2020-10-08 18:36:01__
+
+> Jdjjnrto the amount of art and design of acmqztttttt ttttaztfz tftttt tasty and healthy new treats these a/\*\*2//24s*2///an Za ttttaztfz and when tazaaratt atq*-<br> :date: __2020-10-05 13:35:59__
+
+> Den virker vist ikke så godt 😊 Hvornår kommer der en update?<br> :date: __2020-10-03 12:53:35__
 
 > det arbejder ikke<br> :date: __2020-09-26 11:06:40__
 
@@ -271,13 +279,5 @@ The Smittestop app has been installed by more than **100000** times. At this tim
 > Why isn't there an English version?<br> :date: __2020-08-29 18:05:57__
 
 > Aug-26: stadig kun på dansk?!!Nedjusterer fra 2 til 1 stjerne, da den fortsat kun findes på dansk. En engelsk version er muligvis (!) stadig på vej her snart to måneder, og alt for sent. Og hvad med andre sprog? Arabisk, urdu mfl? Jeg er sikker på at I kan finde de anbefalede sprog hos sundhedsmyndighederne Det tager et par dage at oversætte. I betragtning af situationens alvor håber jeg en version på flere sprog kommer om få dage. Så meget er der altså heller ikke at oversætte. Det er en ommer.<br> :date: __2020-08-26 18:56:21__
-
-> What will this muitimillion expensed app help when downloading is not mandatory like wearing masks in public places?<br> :date: __2020-08-26 07:31:37__
-
-> Should have English version for internationals<br> :date: __2020-08-25 17:18:25__
-
-> Only in 1 language 😒<br> :date: __2020-08-25 09:33:37__
-
-> App should be available in English. International Travelers are a big risk factor and they need to be able to use the app. So even before accepting to any terms and conditions it needs to be possible to change to english and maybe some other languages. Otherwhise the app is useless.<br> :date: __2020-08-23 10:38:30__
 
 

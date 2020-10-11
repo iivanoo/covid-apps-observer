@@ -138,6 +138,8 @@ The WHO Info app has been installed by more than **100000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="org.who.infoapp 5 reviews"/>
 </p>
 
+> App ben fatta, unica pecca poche sincronizzazioni con enti nazionali e di epidemiologia<br> :date: __2020-10-09 11:58:41__
+
 > Uti<br> :date: __2020-06-16 07:00:29__
 
 > Molto utile per me che viaggio molto.<br> :date: __2020-04-24 06:42:36__

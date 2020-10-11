@@ -160,6 +160,8 @@ The Covidom Patient app has been installed by more than **10000** times. At this
 <img src="4_star_reviews_wordcloud.png" alt="fr.aphp.covidom 4 reviews"/>
 </p>
 
+> Super<br> :date: __2020-10-06 06:51:47__
+
 > C'est trés bien , très bonne initiative Mille mercis encore On vous soutient tous !!!!!!!!<br> :date: __2020-05-28 00:30:08__
 
 > J'habite en Bretagne Ilya pas la Bretagne<br> :date: __2020-04-05 20:24:42__
@@ -210,6 +212,8 @@ The Covidom Patient app has been installed by more than **10000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="fr.aphp.covidom 1 reviews"/>
 </p>
 
+> Dommage, j ai beau mettre ma date de naissance pour activer , on me répond que ce n est pas la bonne. Du coup on est privé de la aide qui devait nous être proposée concernant le covid<br> :date: __2020-10-09 19:35:30__
+
 > Utilité de l'application ? ...<br> :date: __2020-09-20 20:35:22__
 
 > Application très mal finie , web et Android. Par un pré-apprenti stagiaire ? Impossible d'ajouter un document PDF, seules les photos sont acceptées. Pas moyen d'enlever un document envoyé par erreur ! Sur la version web, je suis de sexe indéterminé, je ne peux pas corriger. Sur Android, je suis une femme. Depuis quand ? Je suis né avec un zizi il y a un peu plus de 59 ans, je l'ai toujours et n'ai jamais voulu m'en défaire. Merci de corriger.<br> :date: __2020-09-02 00:04:31__
@@ -227,7 +231,5 @@ The Covidom Patient app has been installed by more than **10000** times. At this
 > Impossible d'activer mon compte. J'ai été en contacte avec une personne positive au COVID-19, on me demande d'activer mon compte en me donnant des identifiants. Je suis bien reconnu, puis on me demande ma date de naissance mais elle s'avère être incorrecte. J'ai essayé sur portable, sur l'appli et sur mon ordinateur rien à faire. Impossible de trouver un numéro ou un contact à qui s'adresser.<br> :date: __2020-08-08 16:42:58__
 
 > Date de naissance fonctionne pas<br> :date: __2020-08-07 12:34:56__
-
-> De la poudre au yeux quelque soit le résultat on vous demande d'appeler ...donc poubelle direct<br> :date: __2020-07-04 12:58:45__
 
 

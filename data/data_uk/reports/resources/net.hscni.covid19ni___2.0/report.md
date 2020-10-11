@@ -142,6 +142,14 @@ The COVIDCare NI app has been installed by more than **50000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="net.hscni.covid19ni 5 reviews"/>
 </p>
 
+> Very poor<br> :date: __2020-09-08 20:21:41__
+
+> Amazing and informative app. PLEASE NOTE THIS APP IS FOR NORTHERN IRELAND ONLY. So don't think this will work in other parts of the UK or the world, however it is compatible with the republic of ireland version.<br> :date: __2020-08-01 00:43:11__
+
+> Easy to use and informative<br> :date: __2020-07-30 19:39:35__
+
+> Excellent<br> :date: __2020-07-30 15:56:15__
+
 > Excellent and informative<br> :date: __2020-06-30 14:11:20__
 
 > Amazing the p we people who it doesn't work you need to go to the NHS website or gothirmont web don't give the 1 star if do you are ungrateful and it probably your phone. 😂😂😂<br> :date: __2020-06-06 22:45:27__
@@ -154,14 +162,6 @@ The COVIDCare NI app has been installed by more than **50000** times. At this ti
 
 > 🌍🌎🌏😷<br> :date: __2020-05-20 18:53:50__
 
-> This app got its rating destroyed by people across the water, therefore, the HSC deserve as many 5 star ratings as possible.<br> :date: __2020-05-14 06:12:38__
-
-> Very good<br> :date: __2020-05-08 18:22:42__
-
-> Intresing read about covid 19<br> :date: __2020-05-02 15:58:29__
-
-> Very good feels like I can really see what's going on<br> :date: __2020-05-02 00:31:11__
-
 
 
 #### 4-star reviews
@@ -169,6 +169,10 @@ The COVIDCare NI app has been installed by more than **50000** times. At this ti
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="net.hscni.covid19ni 4 reviews"/>
 </p>
+
+> Would a regional breakdown of new cases<br> :date: __2020-07-31 00:38:27__
+
+> Seems promising at first glance, easy to use with good range of features. It also let's you use the app on behalf of someone else which might be good for elderly/and or the less technical, visually impaired or less able bodied. What accessibility features does it conform to? One issue I had was when I filled in the symptom checker flow. The last stage presents a blank yellow screen and it's not intuitive that you have to close or go back to see suggestions<br> :date: __2020-07-30 18:59:15__
 
 > Could do with more updates. But pretty good for sign posting<br> :date: __2020-06-29 12:39:16__
 
@@ -186,10 +190,6 @@ The COVIDCare NI app has been installed by more than **50000** times. At this ti
 
 > Hopefully this could be a very powerful way of identifying cv19 hotspots.<br> :date: __2020-03-31 20:18:01__
 
-> Not bad. To all the people saying its useless as it only works in Northern Ireland, just what exactly do you think the NI in the bloody name stood for? If you're that stupid maybe you shouldn't be allowed a smartphone - Jeez! 🙄<br> :date: __2020-03-30 14:46:56__
-
-> It's a good app, unsure why the comments are being so annoyed about it not working outside of northern ireland whenever the app is called covid 19 ni... Anyhow if any of the people actually wanted to use the app outside the UK all they would need to do is look on Google for a post code from northern Ireland which is easy to find and since we're all on lock down then you all have plenty of time to Google it.<br> :date: __2020-03-30 10:24:28__
-
 
 
 #### 3-star reviews
@@ -197,6 +197,10 @@ The COVIDCare NI app has been installed by more than **50000** times. At this ti
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="net.hscni.covid19ni 3 reviews"/>
 </p>
+
+> Information not updated regularly<br> :date: __2020-10-05 08:48:36__
+
+> I have just downloaded this app can anyone please tell me if it's free or is there a payment on it<br> :date: __2020-08-11 23:00:25__
 
 > Who owns this App is it a private profit making company? If so is this another privatisation by the back door which is all too common with the NHS overall in recent years Own it Don't rent it!<br> :date: __2020-05-06 15:23:14__
 
@@ -242,24 +246,24 @@ The COVIDCare NI app has been installed by more than **50000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="net.hscni.covid19ni 1 reviews"/>
 </p>
 
-> App crashing after new update<br> :date: __2020-07-27 14:26:44__
+> Totally useless!; Not able to get passed "Accept" terms. Be easier to wait for the news updates. Amazingly bad.<br> :date: __2020-10-04 18:50:14__
 
-> Ok<br> :date: __2020-06-15 16:57:46__
+> doesn't load past the first screen<br> :date: __2020-09-26 17:06:32__
 
-> Insta-crash all this week - lucky we don't need it yet. Pointless when it was working. Out of date news. Weblinks in one place might be useful. Contact Tracing search links to this app.<br> :date: __2020-06-05 09:30:21__
+> App won't open once installed :-(<br> :date: __2020-09-24 10:53:15__
 
-> App is garbage. Only for NI.<br> :date: __2020-05-25 23:34:54__
+> only works on recent phones, completely misses the point...must work everywhere or it is pointless.<br> :date: __2020-08-11 12:19:23__
 
-> What's the point of a Covid app for the public that doesn't even include the latest lockdown rules. Its like the government has gone to sleep now that things have eased. Should we also stop bothering to take things seriously? Och sure, where's the harm...<br> :date: __2020-05-25 10:42:48__
+> It came to stop as I had no tracing ability and said no more.<br> :date: __2020-07-31 23:15:28__
 
-> Not up to date, the recent info starts at 9 days old. I just googled what I was looking for instead. What's the point in this app if it doesn't have the latest updates for Northern Ireland?<br> :date: __2020-05-22 23:37:16__
+> doesn't work...!<br> :date: __2020-07-31 22:10:26__
 
-> Cobblers<br> :date: __2020-05-22 16:22:27__
+> This is not the official app for Northern Ireland COVID19. STOPCOVID NI is the correct app<br> :date: __2020-07-31 19:47:35__
 
-> Haha! Some people hav nothing to do them create useless apps<br> :date: __2020-05-21 14:10:33__
+> unfortunately, COVIDCard NI Has stopped so the app is useless as it just crashes And i wish people could read the words NI 'Northern Ireland' and stop moaning that its not working in your area as it clearly says Northern Ireland in the Description a few times on the download page. only problem i have with app is it don't load and just crashes.<br> :date: __2020-07-31 13:04:30__
 
-> Pointless waste of public money<br> :date: __2020-05-21 00:12:49__
+> Slow<br> :date: __2020-07-30 23:13:46__
 
-> Pointless really, after you go to the trouble of registering and getting it set up, all our doors is ask you 3 questions. Have you a temperature? Have you a continuous cough? Did anyone in your household have covid symptoms? That's it!!<br> :date: __2020-05-20 20:09:40__
+> Can't access the tracker app via the link on this app. Get error 403. No point in having this app if not linked to tracker app<br> :date: __2020-07-30 20:17:27__
 
 

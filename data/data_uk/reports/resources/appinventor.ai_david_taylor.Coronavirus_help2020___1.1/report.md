@@ -146,6 +146,8 @@ The Coronavirus Help app has been installed by more than **1000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="appinventor.ai_david_taylor.Coronavirus_help2020 5 reviews"/>
 </p>
 
+> Good<br> :date: __2020-10-10 21:21:40__
+
 > Just got this app and really loved the fact that all covid19 info you need was in 1 place and easy to use great job. (was a little hard to find on google play. An app like this should be more visible)<br> :date: __2020-07-12 23:25:15__
 
 > Very informative<br> :date: __2020-07-09 21:39:20__
@@ -163,8 +165,6 @@ The Coronavirus Help app has been installed by more than **1000** times. At this
 > Easy to use<br> :date: __2020-05-03 17:07:02__
 
 > It's good that this information is available in one location, however please note (developers) that the physical distance required by law and for the best chance of avoiding the virus via breath, is 2 metres, not 1 metre as stated in the app. Sorry to be picky, but this is crucial information. As for the risk of malware, some of the more rudimentary so-called security apps will throw up false positives but Kaspersky, AVG and Malwarebytes will not. 🏳<br> :date: __2020-05-02 18:01:23__
-
-> Very nice app 😊👌🏻<br> :date: __2020-04-30 18:58:06__
 
 
 

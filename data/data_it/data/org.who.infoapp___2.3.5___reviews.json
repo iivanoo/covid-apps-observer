@@ -1,5 +1,17 @@
 [
     {
+        "reviewId": "gp:AOqpTOHfd9PGVKwAMGP0f8FRJMKV3eTQjFeThNbXIcUl3k2nEQ7T18R-_XuUC-LFoRYQXej2AlPc2aGl2QjYnZ0",
+        "userName": "Raffaele Covito",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgNGuMZVfEKSkbMn7bVcZescJs7zlXx-VLiFiRqVA",
+        "content": "App ben fatta, unica pecca poche sincronizzazioni con enti nazionali e di epidemiologia",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.3.5",
+        "at": "2020-10-09 11:58:41",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOG91cSimzmUNOra260TWnXyfPyutlyrMvhe0HhFV6nr1dYYY94t4LcYraFzRbtwKr0Ten_bkmfKVh214hY",
         "userName": "Delvis Alba",
         "userImage": "https://lh3.googleusercontent.com/-Tljc9tfM_Jc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnMhEk3Dk5C8JgE-tcSBStVbsdWKQ/photo.jpg",
@@ -41,7 +53,7 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhcXnh_JsjcFE3ez193t38FlkB7YSIVoj6vqGk5Jg",
         "content": "Ma \u00e8 possibile che tutti quelli che abbiano istallato l'app non conoscano l'Inglese? (O almeno l'Italiano visto che lo parlate, ma non sembrerebbe) C'\u00e8 pi\u00f9 ignoranza di quanta ne servirebbe nelle critiche.",
         "score": 3,
-        "thumbsUpCount": 1,
+        "thumbsUpCount": 2,
         "reviewCreatedVersion": null,
         "at": "2020-06-30 12:43:55",
         "replyContent": null,
@@ -77,7 +89,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-aQQWAJuhebI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckvr4N2R173wmzfL0aOfy-8XpR_dw/photo.jpg",
         "content": "Non si apre, inoltre dato che non tutti conosco l'inglese sarebbe opportuno metterla in ITALIANO.",
         "score": 1,
-        "thumbsUpCount": 60,
+        "thumbsUpCount": 63,
         "reviewCreatedVersion": "2.1.1",
         "at": "2020-05-31 15:19:43",
         "replyContent": null,

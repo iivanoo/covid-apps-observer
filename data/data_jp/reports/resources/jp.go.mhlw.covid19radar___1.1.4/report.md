@@ -185,6 +185,8 @@ The COCOA - COVID-19 Contact App app has been installed by more than **5000000**
 <img src="4_star_reviews_wordcloud.png" alt="jp.go.mhlw.covid19radar 4 reviews"/>
 </p>
 
+> Easy to use, no ads, simple design Would be perfectl if everyone used it/self report their symptoms. So far, I don't know if it helps or not<br> :date: __2020-10-07 17:04:52__
+
 > アプリ自体は起動が重い以外は良く出来ていると思う。 開発者のみなさま、本当にお疲れ様です。 ただ、ユーザーがとにかく少なく、コロナに感染した事があっても殆どの人が登録してないのじゃないかな？ 都心在住勤務、出入りしてる巨大なオフィスビルも感染者が出た事あるのにこれまで全くアプリには反応なし。 アプリの挙動以外の認知度が低すぎるのは開発者ではなく開発を依頼した大元の責任な事で★1つマイナスで。 もっとしっかり周知徹底させなきゃ意味がないのでは。<br> :date: __2020-09-17 13:33:43__
 
 > Easy to install. Nicely bilingual. Weekly(?) reminders it is running are a nice touch.<br> :date: __2020-08-27 08:32:45__

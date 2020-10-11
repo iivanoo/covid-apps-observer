@@ -1,0 +1,52 @@
+{
+    "permissions": [
+        "android.permission.ACCESS_NETWORK_STATE",
+        "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+        "android.permission.FOREGROUND_SERVICE",
+        "android.permission.INTERNET",
+        "android.permission.CALL_PHONE",
+        "android.permission.ACCESS_FINE_LOCATION",
+        "android.permission.WAKE_LOCK",
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        "com.google.android.c2dm.permission.RECEIVE",
+        "android.permission.READ_EXTERNAL_STORAGE",
+        "android.permission.READ_PHONE_STATE"
+    ],
+    "activities": [
+        "es.gob.asistenciacovid19.ui.SplashActivity",
+        "es.gob.asistenciacovid19.ui.NotAvailableActivity",
+        "es.gob.asistenciacovid19.ui.PhoneAuthActivity",
+        "es.gob.asistenciacovid19.ui.SignUpActivity",
+        "es.gob.asistenciacovid19.ui.CCAASelectionActivity",
+        "es.gob.asistenciacovid19.ui.AllowLocationActivity",
+        "es.gob.asistenciacovid19.ui.AllowPushNotificationsActivity",
+        "es.gob.asistenciacovid19.ui.DiagnosisActivity",
+        "es.gob.asistenciacovid19.ui.PrevPathologiesActivity",
+        "es.gob.asistenciacovid19.ui.DataFormActivity",
+        "es.gob.asistenciacovid19.ui.SelfDiagnosisActivity",
+        "es.gob.asistenciacovid19.ui.RecommendationsActivity",
+        "es.gob.asistenciacovid19.ui.EvaluationActivity",
+        "es.gob.asistenciacovid19.ui.PermissionsActivity",
+        "com.google.firebase.auth.internal.FederatedSignInActivity",
+        "com.google.android.gms.common.api.GoogleApiActivity",
+        "com.google.android.play.core.missingsplits.PlayCoreMissingSplitsActivity",
+        "com.google.android.play.core.common.PlayCoreDialogWrapperActivity"
+    ],
+    "urls": [
+        "http://schemas.android.com/apk/res/android",
+        "https://pagead2.googlesyndication.com/pagead/gen_204?id=gmob-apps",
+        "https://plus.google.com/",
+        "https://google.com/search?",
+        "https://www.googleadservices.com/pagead/conversion/app/deeplink?id_type=adid&sdk_version=%s&rdid=%s&bundleid=%s&retry=%s",
+        "https://app-measurement.com/a",
+        "https://%s/%s/%s",
+        "http://schemas.android.com/apk/res-auto",
+        "https://firebase-settings.crashlytics.com/spi/v2/platforms/android/gmp/%s/settings",
+        "https://update.crashlytics.com/spi/v1/platforms/android/apps",
+        "https://update.crashlytics.com/spi/v1/platforms/android/apps/%s",
+        "https://reports.crashlytics.com/spi/v1/platforms/android/apps/%s/reports",
+        "https://reports.crashlytics.com/sdk-api/v1/platforms/android/apps/%s/minidumps",
+        "http://localhost",
+        "https://www.google.com"
+    ]
+}

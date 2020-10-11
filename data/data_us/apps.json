@@ -4,55 +4,86 @@
         "store_country": "us",
         "store_lang": "en",
         "latest_crawled_version": "3.1",
-        "latest_crawl": 1601643830
+        "latest_crawl": 1602419425
     },
     {
         "id": "gov.fema.mobile.android",
         "store_country": "us",
         "store_lang": "en",
         "latest_crawled_version": "2.11.1",
-        "latest_crawl": 1601643832
+        "latest_crawl": 1602419434
     },
     {
         "id": "gov.cdc.general",
         "store_country": "us",
         "store_lang": "en",
         "latest_crawled_version": "3.1.1",
-        "latest_crawl": 1601643840
+        "latest_crawl": 1602419443
     },
     {
         "id": "com.ri.crushcovid",
         "store_country": "us",
         "store_lang": "us",
         "latest_crawled_version": "2.1",
-        "latest_crawl": 1601643841
+        "latest_crawl": 1602419450
     },
     {
         "id": "gov.azdhs.covidwatch.android",
         "store_country": "us",
         "store_lang": "us",
         "latest_crawled_version": "1.0.30",
-        "latest_crawl": 1601643842
+        "latest_crawl": 1602419453
     },
     {
         "id": "gov.vdh.exposurenotification",
         "store_country": "us",
         "store_lang": "us",
         "latest_crawled_version": "1.0",
-        "latest_crawl": 1601643850
+        "latest_crawl": 1602419454
     },
     {
         "id": "gov.nv.dhhs.en",
         "store_country": "us",
         "store_lang": "us",
-        "latest_crawled_version": "1.2.10",
-        "latest_crawl": 1601643858
+        "latest_crawled_version": "1.2.11",
+        "latest_crawl": 1602419612
     },
     {
         "id": "gov.de.covidtracker",
         "store_country": "us",
         "store_lang": "us",
         "latest_crawled_version": "1.0.1",
-        "latest_crawl": 1601643866
+        "latest_crawl": 1602419655
+    },
+    {
+        "id": "com.shield.CombatCovidMD",
+        "store_country": "us",
+        "store_lang": "us"
+    },
+    {
+        "id": "org.pathcheck.guam.bt",
+        "store_country": "us",
+        "store_lang": "us",
+        "latest_crawled_version": "1.0.3",
+        "latest_crawl": 1602419828
+    },
+    {
+        "id": "com.shield.CombatCovidPBC",
+        "store_country": "us",
+        "store_lang": "us",
+        "latest_crawled_version": "1.0.5",
+        "latest_crawl": 1602419941
+    },
+    {
+        "id": "gov.adph.exposurenotifications",
+        "store_country": "us",
+        "store_lang": "us"
+    },
+    {
+        "id": "com.proudcrowd.exposure",
+        "store_country": "us",
+        "store_lang": "us",
+        "latest_crawled_version": "1.1",
+        "latest_crawl": 1602420108
     }
 ]

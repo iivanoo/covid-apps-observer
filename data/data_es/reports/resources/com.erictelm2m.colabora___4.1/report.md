@@ -118,6 +118,8 @@ The COVID-19.eus app has been installed by more than **50000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="com.erictelm2m.colabora 5 reviews"/>
 </p>
 
+> Deberíamos tenerla todos por solidaridad<br> :date: __2020-10-03 23:57:39__
+
 > 🙏🙏🙏<br> :date: __2020-09-21 11:06:28__
 
 > Discreta<br> :date: __2020-09-19 11:53:52__
@@ -135,8 +137,6 @@ The COVID-19.eus app has been installed by more than **50000** times. At this ti
 > A mi tp me funciona desde hace 2-3 dias<br> :date: __2020-06-30 14:22:25__
 
 > Esta vaatante currada para esta situacion, bien hecho 👍👍👍👍👍👍<br> :date: __2020-06-29 12:01:17__
-
-> Regular<br> :date: __2020-06-16 16:36:15__
 
 
 
@@ -174,6 +174,8 @@ The COVID-19.eus app has been installed by more than **50000** times. At this ti
 <img src="3_star_reviews_wordcloud.png" alt="com.erictelm2m.colabora 3 reviews"/>
 </p>
 
+> Buenos días ¿Cómo se puede editar el código postal del perfil? Muchas gracias<br> :date: __2020-10-06 07:35:43__
+
 > No es muy clara<br> :date: __2020-09-20 17:21:58__
 
 > Recomiendo que eviten enviar Push Notifications a todos los usuarios con mensajes de prueba porque esto hace un poco molesta la App. En general el diseño es bueno y permite navegar fácilmente. Sería interesante implementar un enlace con la App radar covid para que obtengan los contactos desde esa App<br> :date: __2020-09-17 08:24:44__
@@ -192,8 +194,6 @@ The COVID-19.eus app has been installed by more than **50000** times. At this ti
 
 > Esta bien, Le falta mejoras como poder editar tu información y que se lea mejor el texto para que sea una aplicación familiar y confortable.<br> :date: __2020-06-08 03:08:14__
 
-> No se, no le acabo de ver la utilidad<br> :date: __2020-06-07 13:04:02__
-
 
 
 #### 2-star reviews
@@ -201,6 +201,8 @@ The COVID-19.eus app has been installed by more than **50000** times. At this ti
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="com.erictelm2m.colabora 2 reviews"/>
 </p>
+
+> No sé si son muy eficaces<br> :date: __2020-10-04 14:12:34__
 
 > ninguno de mis contactos quiere instalarlo porque no quieren que los controlen. Así no hay manera de que esta app funcione correctamente. Es septiembre ahora y nadie de mi agenda lo instaló, No me sirve así. No hay forma de modificar los datos iniciales, por ejemplo si el entorno en el que vives habia personas de riesgo y ya no estan o ha cambiado tu situacion. No puedes modificarlo si ahora vives solo y el riesgo ha bajado. La desinstalo, en 5 meses no ha mejorado apenas.<br> :date: __2020-09-15 00:39:23__
 
@@ -220,8 +222,6 @@ The COVID-19.eus app has been installed by more than **50000** times. At this ti
 
 > A mi me sale que tengo 3 contagiados en mi zona no en mis conctactos eso como lo tengo que tomar<br> :date: __2020-06-10 23:59:50__
 
-> La ultima actuallizacion no se me descarga<br> :date: __2020-06-10 11:56:18__
-
 
 
 #### 1-star reviews
@@ -229,6 +229,8 @@ The COVID-19.eus app has been installed by more than **50000** times. At this ti
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="com.erictelm2m.colabora 1 reviews"/>
 </p>
+
+> Poco intuitiva y dificil de usar Despues de hacer los circulos y dar mi estado de salud no he recibido ninguna notificacion. No se si siguen mis contactos dentro de los circulos..... tampoco tiene mucha difusión, me parece una herramienta muy util pero deberia ser mas facil de usar.<br> :date: __2020-10-03 14:38:34__
 
 > Hola!!! CONSIDERO UNA PERDIDA DE TIEMPO TRADUCIR LA APP DE RADAR COVID ESTATAL SIENDO POSTERIOR A LA DESARROLLADA EN EUSKADI, AQUÍ TENDRÍAMOS QUE USAR COVID-19.EUS QUE ESTABA ANTES Y EN EUSKADI ES LA QUE TENEMOS DESCARGADA HACE TIEMPO😬<br> :date: __2020-09-26 18:53:02__
 
@@ -247,7 +249,5 @@ The COVID-19.eus app has been installed by more than **50000** times. At this ti
 > No me aporta absolutamente nada. No me indica nada de nada. Estoy aislado por tener contacto mi hermana y yo con dos familiares positivos, y me cataloga como infectado a pesar de que no he recibido aún el resultado del pcr, y mi hermana ha dado negativo. Desinstalo y a esperar otra app mejor, que realmente ayude a superar la pandemia.<br> :date: __2020-08-21 18:21:08__
 
 > Si se obligará a instalar por ley sería genial y super útil<br> :date: __2020-08-20 22:34:22__
-
-> No me entra paraimstalar<br> :date: __2020-08-14 16:34:46__
 
 

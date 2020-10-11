@@ -188,6 +188,8 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 <img src="5_star_reviews_wordcloud.png" alt="gov.cdc.general 5 reviews"/>
 </p>
 
+> I like that you can do that<br> :date: __2020-10-05 21:26:45__
+
 > I like it ! Thank you<br> :date: __2020-09-23 03:29:35__
 
 > Works for me lol<br> :date: __2020-09-08 12:59:02__
@@ -205,8 +207,6 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 > I like the app<br> :date: __2020-08-07 19:35:07__
 
 > a lot of information<br> :date: __2020-07-29 09:53:51__
-
-> Seems as informative as we can get.<br> :date: __2020-07-27 00:32:28__
 
 
 
@@ -300,6 +300,8 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 <img src="1_star_reviews_wordcloud.png" alt="gov.cdc.general 1 reviews"/>
 </p>
 
+> It has a lot of information if you want to shift through all of it to find what you want. I can't find a search function so it is easier to Google the web for information<br> :date: __2020-10-07 13:01:04__
+
 > Information over -simplified, misleading, & not reliable. Political Correctness is very Dominant & over-riding information.<br> :date: __2020-09-29 23:04:13__
 
 > We can no longer trust the CDC.<br> :date: __2020-09-03 02:55:12__
@@ -317,7 +319,5 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 > Racist fear mongering app<br> :date: __2020-08-08 17:44:06__
 
 > No big deal just the same stuff you see in Facebook<br> :date: __2020-08-05 06:42:37__
-
-> Cannot load mos t pages.. Really useless.<br> :date: __2020-07-29 00:43:28__
 
 

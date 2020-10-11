@@ -172,6 +172,12 @@ The Sardegna Sicura app has been installed by more than **100000** times. At thi
 <img src="5_star_reviews_wordcloud.png" alt="it.regione.sardegna.autorizzazionicovid19 5 reviews"/>
 </p>
 
+> Buona<br> :date: __2020-10-09 10:50:04__
+
+> Io ho capito... Problemi. Email dalla Posta deve essere visulisato.. Tramite computer.. . Io ho datto il Mio voto.. Perche siete dalla Sardegnia.. Ok<br> :date: __2020-10-07 18:21:54__
+
+> Ottimo tutto<br> :date: __2020-10-07 05:23:40__
+
 > Lingua sarda su un'applicazione? Complimenti per l'iniziativa 👏<br> :date: __2020-09-16 08:25:35__
 
 > Ottimo<br> :date: __2020-09-12 13:00:29__
@@ -185,12 +191,6 @@ The Sardegna Sicura app has been installed by more than **100000** times. At thi
 > Applicazione buona, registrazione avvenuta senza problemi. Felice di comunicare i miei spostamenti per la mia sicurezza e per quella della popolazione sarda. Se poi nulla mi verrà chiesto al momento dell'imbarco... pazienza!<br> :date: __2020-08-20 22:17:51__
 
 > Perfetta<br> :date: __2020-08-12 12:31:09__
-
-> Per mia consapevolezza.<br> :date: __2020-08-08 06:04:23__
-
-> Ottima app intuitiva e facile da utilizzare<br> :date: __2020-08-07 20:41:37__
-
-> Ottima<br> :date: __2020-08-04 19:09:52__
 
 
 
@@ -256,6 +256,8 @@ The Sardegna Sicura app has been installed by more than **100000** times. At thi
 <img src="2_star_reviews_wordcloud.png" alt="it.regione.sardegna.autorizzazionicovid19 2 reviews"/>
 </p>
 
+> Poco precisa<br> :date: __2020-10-09 14:13:47__
+
 > Inserisco i dati email e password mi dice errato come devo fare e assurdo<br> :date: __2020-09-07 16:22:43__
 
 > Non si apre più, nonostante mi ero già registrato mi fate sapere come fare ?<br> :date: __2020-09-02 18:35:42__
@@ -274,8 +276,6 @@ The Sardegna Sicura app has been installed by more than **100000** times. At thi
 
 > Purtroppo non è possibile modificare i dati una volta inseriti. In caso di aggiornamenti è necessario inserire una nuova registrazione, ripartendo da zero. Non è inoltre possibile cancellare le vecchie registrazioni: tutto questo genera una mole di dati errati archiviati a sistema.<br> :date: __2020-08-03 22:05:58__
 
-> Non è prevista una soluzione per nuclei familiari o per gruppi di maggiorenni? Noi siamo tre maggiorenni. Non basta registrare le date di arrivo e di partenza per uno e aggiungere tutti i nominativi interessati? Per quanto mi riguarda, il commento sarebbe già più che sufficiente ma siccome leggo in calce che le recensioni "utili" hanno almeno 100 parole (quando si dice l'importanza della qualità... sic!), mi dilungo per raggiungere il fatidico traguardo che farà apparire utili le le mie domande. Ungaretti scrisse una enciclopedia con un solo verso...inutile, evidentemente visto che purtroppo non raggiunge le previste 100 parole.<br> :date: __2020-08-02 14:05:58__
-
 
 
 #### 1-star reviews
@@ -283,6 +283,8 @@ The Sardegna Sicura app has been installed by more than **100000** times. At thi
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="it.regione.sardegna.autorizzazionicovid19 1 reviews"/>
 </p>
+
+> Già la seconda volta che tento di compilare il modulo dall'applicazione e all'inserimento della data di arrivo sembra che non accetti che io sia in sardegna all'ora in cui atterra l'aereo . Solita cosa fatta con i piedi.<br> :date: __2020-10-10 13:48:12__
 
 > fatta con i piedi.. non smentitevi mi raccomando<br> :date: __2020-10-02 13:31:56__
 
@@ -301,7 +303,5 @@ The Sardegna Sicura app has been installed by more than **100000** times. At thi
 > Dico io, ma vi rendete conto che vi siete dimenticati dei residenti? Ma secondo voi, io a che categoria appartengo? Non devo soggiornare in Sardegna, ci abito! Non c'è una parola da nessuna parte che chiarisca cosa spetta fare a noi se usciamo per qualche giorno se non per lavoro o salute. Io sono allibito.<br> :date: __2020-09-13 08:05:54__
 
 > È impossibile registrarsi<br> :date: __2020-09-12 09:31:24__
-
-> Enormi difficoltà nell'accesso all'app non riconosce lee credenziali seppur inserite correttamente...<br> :date: __2020-09-11 21:51:30__
 
 

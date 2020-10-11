@@ -153,25 +153,25 @@ The Corona-Warn-App app has been installed by more than **5000000** times. At th
 <img src="5_star_reviews_wordcloud.png" alt="de.rki.coronawarnapp 5 reviews"/>
 </p>
 
-> Benutze die App seit der Veröffentlichung. Nach anfänglichen Bugs läuft sie nun stabil und tut was sie soll. Sehr übersichtlich und informativ. Kleines Aber: Ich bekam keine Benachrichtigung, dass ich 2 Kontakte mit niedrigem Risiko hatte sondern sah es erst als ich die App öffnete. Da bei niedrigem Risiko kein Handlungsbedarf besteht, ist das vielleicht so gewollt. Ich hätte trotzdem lieber in allen Fällen eine Benachrichtugung.<br> :date: __2020-10-02 15:16:15__
+> Suba<br> :date: __2020-10-11 13:28:11__
 
-> rose8287<br> :date: __2020-10-02 14:50:41__
+> Bin dankbar und froh mit der App da ich von Beruf Krankenschwester bin . Schaue jeden Tag mehrmals in die App.👍<br> :date: __2020-10-11 13:25:02__
 
-> sehr toller emulator klappt alles wunderbar<br> :date: __2020-10-02 14:01:49__
+> Bei mir funktioniert die Appt tadellos, auch mit parallel laufenden Bluetoothkopfhörern.<br> :date: __2020-10-11 13:04:25__
 
-> In<br> :date: __2020-10-02 12:55:11__
+> Sehr hilfreich, lebe in einer ( noch ) heilen, insofern nicht stark betroffenen Region.<br> :date: __2020-10-11 13:02:39__
 
-> Bin vollkommen begeistert<br> :date: __2020-10-02 11:47:08__
+> Danke. jetzt ist alles wieder Ok<br> :date: __2020-10-11 12:54:27__
 
-> Tut was sie soll. Hatte vor kurzem ein Problem und habe schnelle, fundierte Hilfe bekommen.<br> :date: __2020-10-02 10:36:40__
+> \*\*\*\**5Sterne App\*\*\*\**<br> :date: __2020-10-11 12:19:55__
 
-> Wer sich und andere schützen möchte sollte u.a. diese App nutzen...<br> :date: __2020-10-02 10:33:59__
+> Hilft.<br> :date: __2020-10-11 12:10:52__
 
-> Sehr schön umgesetzt, vielen Dank!!<br> :date: __2020-10-02 09:51:05__
+> Seit Wochen stürzt die App auf Sony Xperia XZ2 compact sofort ab. Jede De- und Neuinstallation hilft nur wenige Tage bis das erneut auftritt. Hoffe die nächste Version behebt das. Werde jedenfalls weiter mitmachen. \*\** Nach Sony-, Bluetooth--Update läuft die neue Version der App problemlos. Allerdings erst nach Neuinstallation. Der Update per Playstore hat nicht gereicht.<br> :date: __2020-10-11 11:39:27__
 
-> Bei dieser App wurde wirklich gut auf den Datenschutz geachtet, hut ab. Erfolgreich auf all meinen Geräte installiert, läuft ohne Tadel.<br> :date: __2020-10-02 07:59:59__
+> Unbedingt Notwendig, sollte Verpflichtend sein.<br> :date: __2020-10-11 11:13:42__
 
-> Funktioniert<br> :date: __2020-10-02 07:36:48__
+> Cool<br> :date: __2020-10-11 10:49:22__
 
 
 
@@ -181,25 +181,25 @@ The Corona-Warn-App app has been installed by more than **5000000** times. At th
 <img src="4_star_reviews_wordcloud.png" alt="de.rki.coronawarnapp 4 reviews"/>
 </p>
 
-> Die App gefällt mir<br> :date: __2020-10-02 13:34:01__
+> Liebe Entwickler, es wäre sehr toll, wenn die App auch automatisch warnt, wenn man in eine Gegend mit erhöhtem Risiko kommt oder zumindest die ArcGis-Karte des RKI eingebunden werden könnte. Auch praktisch wäre es, wenn die App automatisch anhand des Standortes mitteilen würde, welche Regeln gerade gelten (Versammlungsanzahl, Beschränkung etc.), da ja doch ein ziemliches Durcheinander herrscht. So hätte man alle wichtigen Daten in einer App bereitgestellt. Viele Grüße 🙂<br> :date: __2020-10-11 14:25:08__
 
-> Danke für die Rückmeldung. Ich passe meine Bewertung an. Ich finde die App absolut sinnvoll und hoffe, dass noch mehr Menschen sie nutzen. Ich werde sie auch weiterhin nutzen. Bisher sind die Hinweistexte in der App und auch die wöchentlichen Berichte aber so kryptisch formuliert, dass man dies m. E. dringend verbessern sollte, um das Verständnis und Vertrauen der Nutzer zu erhöhen.<br> :date: __2020-10-02 12:55:43__
+> Edit: Update auf 1.3.1 - Fehler besteht immer noch! Edit2: seit 24h keine Risikoerm.mögl.11.10.2020.App ist durchaus sinnvoll, habe sie seit Tag 1 installiert. Langsam nervt aber doch die unzuverlässige Anzeige. Inzwischen konnte diesmal seit 5 Tagen der Risikostatus nicht aktualisiert werden wg. Fehler 39508. Es ist alles eingestellt, wie es sein soll: Hintergrundaktualisierungen, BT, App ist aus dem Stromsparmodus genommen... (Samsung Galaxy S5, Android 6.0.1, App-Version 1.3.0).<br> :date: __2020-10-11 10:12:43__
 
-> Generell finde ich die App gut. Allerdings wurde mein Testergebnis nicht vom Labor erfasst, so dass aus der Meldung "Testergebnis liegt noch nicht vor" irgendwann eine Endlosschleife wurde, da die App wohl versucht hat, das Ergebnis abrufen. Ein neuer Test hätte somit nicht erfasst werden können. Daher hab ich die App zurückgesetzt. Nun ist diese Endlosschleife zwar weg, aber leider fehlen mir natürlich die letzten 14 Tage der Begegnungen. Das finde ich sehr schade.<br> :date: __2020-10-02 12:54:16__
+> App ist im Grunde wirklich effektiv. Das Testergebnis war vor einigen Wochen auch schnell da und wurde mir über die App umgehend mitgeteilt. Seit 2 Tagen läuft unter dem Reiter "Datenabruf" jedoch durchgehend "Das Ergebnis wird aktualisiert".<br> :date: __2020-10-11 08:07:50__
 
-> Leider nicht nutzbar auf P8 Lite. Funktioniert 2 Tage und danach nur kurz Startbildschirm und schließt sich sofort wieder. Mehrmals getestet, immer selbes Fehlerbild unter Android 6. EDIT: Ah, Mist. Wieder drauf reingefallen. Die alten Huawei sind ein Quell der Freude. Wird Zeit für was neues. Startet wieder, mal sehen, ob es jetzt dauerhaft läuft. Danke für die Hilfe.<br> :date: __2020-10-02 11:15:23__
+> Wäre nicht sinnvoll, dass mir gesagt wird, wann eine Risikobegegnung stattfand? Und vielleicht sogar wo?<br> :date: __2020-10-10 21:05:52__
 
-> Die App funktioniert reibungslos,ich habe bis jetzt einmal die Schlüssel als Download in Drive gespeichert,da ich gelesen habe,das viele am meckern sind das nach 14Tage alles weg ist,wenn man es so macht hat man die Daten,war schon hilfreich, sonst funkioniert sie,man sollte auch nur ein Mal ein Update machen,sonst funkioniert die App gar nicht mehr,und über freies W LAN,zb Rewe sollte man ganz sein lassen,am besten immer nur über das Mobilfunknetz dann funkioniert alles reibungslos.<br> :date: __2020-10-02 10:51:14__
+> Wäre noch praktisch wenn drin stehen würde wann eine Risiko-Begegnung mit niedrigem Risiko war.<br> :date: __2020-10-10 18:14:06__
 
-> Ich hatte einen Kontakt mit einer an Covid-19 erkrankten Person am 24.9. Dann noch mal mit weiteren Personen am 28.9. Erst heute, am 2.10. wird mir mitgeteilt, dass ich 3 Kontakte hatte. Ein bisschen spät, oder? Danke für das schnelle Feedback!<br> :date: __2020-10-02 10:42:33__
+> GUT<br> :date: __2020-10-10 15:50:52__
 
-> Hi, bin Luxemburg-Pendler und habe dadurch die Möglichkeit mich oft testen zu lassen. Kann ich das Testergebnis aus Luxemburg in die App aufnehmen? Wir bekommen keinen QR oder eine Tan. Danke für ihre Rückmeldung.<br> :date: __2020-10-02 08:10:31__
+> Vor ca. 6 Wochen einen Testcode eingegeben. 2 Tage später war das Ergebnis verfügbar. Nun nach 6 Wochen zeigt die App nur noch "Datenabruf... Das Ergebnis wird aktualisiert" mit einer Sanduhr. Button zum Anzeigen des Ergebnisses ist ausgegraut. Neuer Code kann nicht eingegeben werden :-(<br> :date: __2020-10-10 15:41:32__
 
-> Corona-Warn-App<br> :date: __2020-10-02 01:06:33__
+> Diese App schützt mich vor dem Virus. Deshalb finde ich das sie 4/5 Sterne verdient hat.<br> :date: __2020-10-10 15:06:37__
 
-> Update 1. 10. 1. Unnötig technische Fehlermeldung bei fehlendem Internet wenn App geöffnet. Die User sollten verstehen können, was gerade funktioniert u. was nicht. 2. Wahrscheinlichleit dass die App einen Coronafall meldet bei 25% dt. Nutzern: 25% * 25% = nur etwa 6%! Um diesen Wert zu erhöhen, sollten hier u. in der öffentlichen Werbung f. diese App ALLE Voraussetzungen klar aufgelistet werden: min. OS-Version, App ist installiert, Bluetooth u. Ortungsdienste an, Internet 1x täglich an<br> :date: __2020-10-01 20:55:31__
+> Ich finde es gut, dass es diese Warn App gibt. Meiner Meinung nach wurde jedoch eine grundlegende Informationen vergessen: Gleich auf der Startseite der App muss der Hinweis stehen, was man tun soll, falls die App eine Risikobegegnung anzeigt. Viele sind hier verunsichert: Quarantäne, Notaufnahme, Hausarzt? Die Tel.nr 116 117 wird nur ganz versteckt bei den FAQs unter den Krankschreibungen genannt. Aber nicht jeder Betroffene ist ein Arbeitnehmer. Hier bitte die Nutzer besser an die Hand nehmen<br> :date: __2020-10-10 12:03:52__
 
-> Die App lässt sich seit gestern leider nicht mehr öffnen. Fehlermeldung "App lässt sich nicht mehr öffnen" erscheint. Sollte man sie deinstallieren, oder sind dann potentielle Positiv-Begegnungen gelöscht? Vielen Dank und Grüße<br> :date: __2020-10-01 16:50:31__
+> Kleine Anregung: wäre doch schön, wenn diese App auch die RKI Zahlen veröffentlichen würde. Würde mir eine solche gebündelte Info zu den 7-Tages-Werten und dem aktuell diskutierten Ampelsystem wünschen. Ev. mit Push-Info für selbst wählbare Städte und Landkreise.<br> :date: __2020-10-10 09:16:57__
 
 
 
@@ -209,25 +209,25 @@ The Corona-Warn-App app has been installed by more than **5000000** times. At th
 <img src="3_star_reviews_wordcloud.png" alt="de.rki.coronawarnapp 3 reviews"/>
 </p>
 
-> Weiss nicht so recht, was ich davon halten soll. Ich hab' sie halt mal.<br> :date: __2020-10-02 14:02:17__
+> Ich habe irgendwann gesehen, das ich eine Begegnung mit jemandem hatte, der später positiv getestet wurde, aber kein großes Risiko bestand. Ich habe es vor 2 Wochen zufällig gesehen, nun steht es immer noch da ...oder schon wieder? Ich kann nicht sehen wann, oder wo diese Begegnung war, oder wie lange die Benachrichtigung dort stehen bleibt oder auch wie lange sie schon da steht. Das macht für mich keinen Sinn!<br> :date: __2020-10-11 14:32:23__
 
-> Seit Dienstag keine Risikoermittlung möglich.Fehler:3. Internet und Bluetooth sind aktiv und funktionieren. Android 10.Edit 02.10. Seit heute Mittag funktioniert Risikoermittlung wieder.<br> :date: __2020-10-02 13:49:51__
+> Zurzeit aktualisiert die App die Risikoermittlung nicht. Fehler Ursache 3... was ist denn damit los?<br> :date: __2020-10-11 12:38:41__
 
-> Ich würde der gerne meine Hilfe anbieten nur ich bin keine Pflegekraft<br> :date: __2020-10-02 13:07:02__
+> Ich nutze die App von Beginn an, gute Sache, habe aber seit einigen Tagen die immer wiederkehrende Fehlermeldung "Ursache 3 ... (39508)" Die priorisierte Hintergrundgeschichte ist eingeschaltet. Ich möchte die App derzeit nicht deinstallieren und neu installieren! Ideen?<br> :date: __2020-10-11 10:22:34__
 
-> Fehlermeldung: Risikostatus kann nicht aktualisiert werden. Den Energiesparmodus für diese App habe ich ausgeschaltet!<br> :date: __2020-10-02 12:58:13__
+> Offenbar tut die App das, wofür sie programmiert wurde und das seit Erscheinen ohne Absturz oder Fehlermeldung. Allerdings scheint die Statusaktualisierung im Hintergrund nicht zu funktionieren: obwohl das Gerät Tag und Nacht läuft, ändert sich die Zeitangabe zur Aktualisierung erst nach Wechsel zwischen den Ansichten. Eine Verbesserung wäre eine Statistikseite wie bei der SwissCovid App.<br> :date: __2020-10-11 10:17:34__
 
-> Keine Risikoermittlung mehr seit letztem Update (Android)<br> :date: __2020-10-02 12:37:10__
+> Meldet bei meinem Gerät ständig, Risiko kann im Moment nicht ermittelt werden. Auch ein Zurücksetzen der Apple hat nicht geholfen. Hab sie neu installiert und natürlich damit sind alle Konktdaten verloren.<br> :date: __2020-10-11 08:58:34__
 
-> Update: weil ich jetzt auch noch die Nachricht bekam,dass nur die Hälfte der Datenpakete vorliegt, habe ich neu installiert und fange die Sammlung der Kontakte von vorne an. (davor erhielt ich die Nachricht vom Betreiber: wir arbeiten an dem Problem) Ich wollte das nicht abwarten // Status drei Tage davor :Jetzt bekomme ich leider regelmäßig die Nachricht, dass die App beendet wird. Starten geht nicht. Läuft auf Android 11. Bis vor kurzem: Alles war gut!<br> :date: __2020-10-02 11:34:02__
+> Bin an sich sehr überzeugt von der Idee, aber jetzt kriege ich zum zweiten mal eine fehlermeldung die einfach nichtmehr weggeht (39508). Die app geht zwar auf, aber anscheinend kann das Risiko nicht ermittelt werden? Bluetooth und Standort sind aber immer durchweg an...letztes mal hat nur neu installieren geholfen, würde ich aktuell ungerne machen da meine Stadt gerade hotspot wurde und ich nicht wieder 2 Wochen verlieren will.<br> :date: __2020-10-11 07:20:47__
 
-> Eigentlich finde ich den Gedanken der App gut! Aber schön wäre es wenn sie auch konsequent funktioniert... momentan schließt sich die App einfach sofort wieder.<br> :date: __2020-10-02 10:53:32__
+> Wieder & immer noch da: Aktualisierung meiner Risiko-Bewertungsdaten tagelang ausgefallen durch permanente "Fehler bei Kommunikation mit Google API (39508)". Ausgefallene Risikobewertung bedeutet für mich, tagelang kein Austausch/Benachrichtigung mit/von ggf. positive Getestete. (App-Version 1.3.1, Android 6.0.1)<br> :date: __2020-10-11 06:27:09__
 
-> Ich traue den Frieden nicht. Mal sehen ob es funktioniert.<br> :date: __2020-10-02 09:30:12__
+> Fehler bei version 1.04. Fehler bei Kommunikation mit Google API (39508) Dadurch scheint gar nix mehr zu funktionieren. Update: nach update ähnlicher Fehler. Fehler bei der Kommunikation mit GoogleApi (10). Update 8.10: Fehler taucht wieder auf<br> :date: __2020-10-10 23:36:50__
 
-> Bekomme seit heute die Fehler Meldung 39508 soll ich jetzt wieder neu installieren?<br> :date: __2020-10-02 07:35:34__
+> Seit 2 Tagen wird mein Status nicht aktualisiert. Ursache 3 und 9002 Hab alles überprüft was die FAQs her geben.<br> :date: __2020-10-10 22:52:56__
 
-> Fehlermeldungen sind weg, hoffentlich sind auch die Fehler weg. Es wäre sehr wünschenswert wenn man die Anzahl der erfassten Kontakte in der App sehen könnte, um zu sehen dass die App überhaupt funktioniert. Die dämliche 14 von 14 Tagen Anzeige ist endlich korrigiert worden<br> :date: __2020-10-01 22:52:24__
+> Bitte folgendes Szenario überprüfen. Test mit QR Code gescannt. Testergebnis nie über App erhalten, da Labor es aus irgendeinem Grund nich konnte. Wollte Test nicht löschen wg Datum bzw Historie evtl neuer Tests. Nach ca 1,5 Monaten kam die Aktualisierung der Testergebnisses nicht mehr aus der Abrufschleife. Musste APP zurücksetzen. App sagte das meinen alten Begegnungen dabei nicht gelöscht werden, aber es zeigt mir unbekanntes Risiko an, da die Erfassung neu sei ...???<br> :date: __2020-10-10 22:02:31__
 
 
 
@@ -237,25 +237,25 @@ The Corona-Warn-App app has been installed by more than **5000000** times. At th
 <img src="2_star_reviews_wordcloud.png" alt="de.rki.coronawarnapp 2 reviews"/>
 </p>
 
-> Bin seit dem ersten Tag dabei. In letzter Zeit leider immer mehr Fehlermeldungen. Aktuell Fehler Ursache 3 (39508). Schade, dabei würde mich mein Risiko Status interessieren, da ich aktuell Erkältungssymptome habe.<br> :date: __2020-10-02 15:08:57__
+> Ich hatte mein Test schon an 3.10. Eingestellt, mein Mann auch. Obwohl das Ergebnis schon lange da ist, ist in der app nichts davon zu sehen. Ich kann auch selbst nichts eingeben. Sehr enttäuschend. Bin von Anfang an dabei und hielt das echt für einer gute Sache<br> :date: __2020-10-11 13:42:41__
 
-> Bis zum letzten Update hat die App ansich gut funktioniert. Jetzt lässt sich die App nicht mehr öffnen.<br> :date: __2020-10-02 14:45:18__
+> Inzwischen bin wieder abgekoppelt - keine Aktualisierung. De- und Neuinstallation hat nur für 4 Tage gewirkt. Und das, wo ich täglich stundenlang in überfüllten S-Bahnen fahren muss! 😬<br> :date: __2020-10-11 12:22:38__
 
-> Habe sie deinstalliert, da sie mal funktioniert und mal nicht.<br> :date: __2020-10-02 13:17:53__
+> Ich kann weder durchgeführte deutsche noch ausländische Covid-Tests hier registrieren, da bei beiden weder QR-Code noch TAN mitgeteilt wurden.<br> :date: __2020-10-11 11:33:45__
 
-> Ständig wenn ich die App öffne kommt die Meldung, dass seit über 24h keine Risikoermittlung durchgeführt werden konnte. Die Risikoermittlung ist inaktiv. Warum schaltet die sich ständig von alleine aus, trotz dessen, dass ich sie immer wieder einschalte?<br> :date: __2020-10-02 12:10:08__
+> Man muss die ganze Zeit mit Bluetooth angeschaltet rum laufen? Ähh Nein danke! Da ist der Akku ja in 3 Sekunden leer! Die App ist noch SEEEHHHRRR weit ausbaufähig. Hab sie sofort wieder deinstalliert.<br> :date: __2020-10-11 11:27:04__
 
-> I doubt the usefulness of this app in order to protect myself and others. It can easily be used to track and profile people.<br> :date: __2020-10-02 11:57:45__
+> Viel zu wenig Daten. Ich würde gerne wissen ab welchem Tag ich die niedrige Risikobegegnung hatte... Auch ist das Ergebnis von einem Test immer noch nicht in der App eingetragen obwohl der Test Anbieter mir das Ergebnis schon vor einem Tag verschickt hat. Warum sieht man nicht die Anzahl der Nutzer? In der app hat sich seit Monaten nichts getan. Dabei hätte sie so viel Potential. Anonymes einchecken in Restaurants bsw.<br> :date: __2020-10-11 11:17:26__
 
-> Ich habe nach 5 Tagen immer noch kein Ergebnis. Normalerweise sollte es nach 48 Stunden feststehen oder sehe ich das falsch. Ansonsten ist die App sehr gut und einfach zu bedienen.<br> :date: __2020-10-02 11:02:28__
+> So viel Geld für so wenig Funktion, traurig<br> :date: __2020-10-11 10:36:17__
 
-> Funktioniert leider nicht korrekt. Seit Tagen zeigt die App "Ursache: 3. Etwas ist schiefgelaufen." Entfernen und nochmal neu installieren der App hat das Problem auch nicht gelöst. So wird das nix mit der Rückverfolgung von Infektionsketten. Fehler 10 Update 17.07.2020: Die Fehlermeldung ist noch immer die gleiche. Update 02.10.2020.: Nach ca. 2 Monaten ohne Störung funktioniert die Risikoerfassung schon wieder seit 28.09. nicht.<br> :date: __2020-10-02 09:06:15__
+> Leider musste ich die App heute zurück setzen da der Datenabruf hängen bleibt. Schade gerade jetzt wo die Zahlen wieder steigen wäre eine Top funktionierende App so wichtig. Der Staat zahlt für diese App wahnsinnig viel Geld, also bitte Sicherstellen das wir auch bekommen das funktioniert ist ja auch unser Geld was hier ausgegeben wird!<br> :date: __2020-10-11 09:38:49__
 
-> Ich bekomme seit heute die Fehlermeldung Ursache 3 (30598).<br> :date: __2020-10-02 07:40:43__
+> Ständig wenn ich die App öffne kommt die Meldung, dass seit über 24h keine Risikoermittlung durchgeführt werden konnte. Die Risikoermittlung ist inaktiv. Warum schaltet die sich ständig von alleine aus, trotz dessen, dass ich sie immer wieder einschalte? Ich habe die Einstellungen überprüft, es war bereits aktiviert, dass die App im Hintergrund arbeiten darf. Strom sparen ist auch ausgeschaltet, trotzdem deaktiviert sich die App weiterhin. Ich weiß nicht wo das Problem ist.<br> :date: __2020-10-11 09:24:28__
 
-> am 24.9. Test registriert, am 28.9. Ergebnis vom Arzt und bis Heute (2.10.) noch kein Ergebnis in der App. Wenn das mit negativen Ergebnisen auch so läuft, dann wird man ja wirklich rechtzeitig gewarnt.... 👎<br> :date: __2020-10-02 06:56:11__
+> App okay, ABER der Datenschutz macht alles kaputt. Jeder gibt freiwillig über Facebook Twitter und alles sein Privatleben auf, nur wenn es hier um Gesundheit und Leben geht, schreit jeder. Inakzeptabel, wenn ich tot bin, brauche ich keine Datenschutz !!!!! Überlegt mal alle.<br> :date: __2020-10-11 01:50:32__
 
-> Warum zeigt die Corona Warn-App mein Negativ-Ergebnis nicht an? Wenn sie nur Positiv-Ergebnisse anzeigt, müsste der Informationstext überarbeitet werden......<br> :date: __2020-10-02 06:39:32__
+> Leider hab ich mittlerweile das Gefühl, dass diese mehr sein möchte, als sie ist. Leider werden Testergebnisse, trotz registrierter Tests nicht in der App angezeigt. Wenn diese Funktion nicht aktiv ist bzw. nicht funktioniert, dann ist die gesamte App nutzlos. Schade.<br> :date: __2020-10-11 00:27:38__
 
 
 
@@ -265,24 +265,24 @@ The Corona-Warn-App app has been installed by more than **5000000** times. At th
 <img src="1_star_reviews_wordcloud.png" alt="de.rki.coronawarnapp 1 reviews"/>
 </p>
 
-> Unnötige Geld investierung vom Staat. 1. Covid-19 test Ergebnisse kommen entweder nie oder sehr verspätet an! 2. Nicht jeder diese App nutzt somit nie 100% Sicherheit. 3. Zockt zu viel kostbaren Akku des Mobilgerätes. 3 gute Gründe die "App Entwickler" nicht zu unterstützen und die Applikation Nicht herunterzuladen!<br> :date: __2020-10-02 14:58:29__
+> Ich habe noch die Anzeige vers.1.3.1 ein Update kann ich nicht einleiten, ich finde keinen Button dafür. Warum wir das einleiten des Update nicht vereinfacht. 2,5 Stunden habe ich damit verbracht eine Lösung zu finden. Es gibt keine. NO<br> :date: __2020-10-11 14:31:46__
 
-> Der größte sch\*\**! Würden bis heute noch auf die Testergebnisse warten wenn man sich auf diese App verlässt. Nicht zu empfehlen!<br> :date: __2020-10-02 14:29:26__
+> Müll, nutzt sowieso niemand<br> :date: __2020-10-11 14:31:46__
 
-> Unnötige App<br> :date: __2020-10-02 14:26:10__
+> Eher 0 Sterne. Nachdem die App nach 3 Tagen kein Ergebnis geliefert hatte, habe ich den Test gelöscht und wollte den QR Code erneut scannen. Das hat nicht funktioniert. Ergo Scheißapp, die auch nur funktioniert wenn der Standort an ist, und der ist bei mir nicht an.<br> :date: __2020-10-11 14:10:31__
 
-> Die beiden Fehlertypen kommen 'bunt gemischt' ohne augenscheinliches System. Seit Mittwoch nun gar keine Aktualisierung mehr möglich. Ich nutze seit Jahren den gleichen Akku und die Corona-app funktioniert mal gut und mal gar nicht. Akku schließe ich daher aus. Lief ja auch bis zum letzten Update überwiegend fehlerfrei nach den bekannten Startschwierigkeiten.<br> :date: __2020-10-02 14:10:48__
+> Leider taucht der Fehler "Ursache 3" wieder auf und schon seit einigen Tagen gibt es keine Datenaktualisierung ... Schade, ist daher leider für mich wieder mal nicht nutzbar.<br> :date: __2020-10-11 14:03:25__
 
-> Warte auf das Ergebnis meines Tests. Es wird aufgezwungen diese App zu nutzen, um das Ergebnis zu bekommen. Warte schon über 24 Stunden. Habe jetzt einen anderen QR Code auf meinem Schein gescannt und über die Pin in der Webseite abgefragt (Wird auf diesem Zettel nirgendwo erklärt, nur wie man die App nutzt). Das Ergebnis ist schon seit 2 Uhr morgens (nach ca. 12 Stunden) bekannt. Während in der App immer noch nichts steht. Edit: Der eingescannte QR Code war mit der App kompatibel gewesen.<br> :date: __2020-10-02 14:06:06__
+> Die App bringt gar nichts, wenn die Ergebnisse nicht vom RKI eingepflegt werden. Am 28.9. getestet worden, ein Tag später den QR Code in die App gescannt und bis heute liegen die Ergebnisse nicht in der App vor, während der Arzt das Ergebnis bereits nach 4 Tagen erhielt (negativ).<br> :date: __2020-10-11 14:02:03__
 
-> Ich finde die App einfach nur unnötig. Ich brauch sie nur weil ich nächste Woche einen Corona-Test machen muss, wegen beruflichen gründen um das Ergebnis zu erfahren. Sonst würde ich sie sofort löschen<br> :date: __2020-10-02 14:01:54__
+> Sie gibt nicht weiter wenn mann Corona hat die ist so unnötig die App nimmt nur Speichrplatz weg<br> :date: __2020-10-11 13:51:14__
 
-> Was soll die app? Ich hab schon lange die negativ Info vom Arzt. Die app schreibt immer noch der Test wäre noch nicht ausgewertet......würde ja null Sterne geben wenn es gehen würde.....wird deinstalliert!<br> :date: __2020-10-02 13:51:45__
+> Die App ist sinnlos, sie sollte mich aktuell warnen und nicht am nächsten Tag hinweisen. Da ist es eh zu spät. Aktualisierung alle 24 Std ist verarschen des volkes<br> :date: __2020-10-11 13:33:26__
 
-> Testergebnis wird seit 1 Woche nicht angezeigt, alle Telefone überlastet, Tage später sogar abgeschaltet. Chaos pur, bis heute KEINE ANTWORT vom Test. Tag 6. Glaube wenig dass es übers Wochenende klappt.<br> :date: __2020-10-02 13:51:44__
+> Total schlecht... Sind zu dritt in der Familie haben von uns drei dieser QR code gescannt um den nächsten scannen zu können müsste ich den ersten löschen.Nachdem es jetzt über 24 std. Vorbei ist wollte ich nochmals scannen es zeigt ständig Fehlermeldung da es schon mal gescannt worden ist. Ich weis nicht mal ob ich eine Benachrichtigung bekommen werde.<br> :date: __2020-10-11 13:27:52__
 
-> Ich bekomme immer wieder Fehlermeldungen. Habe die App schon mehrmals deinstalliert und wieder installiert. Meine Motivation, mich zu beteiligen, sinkt beträchtlich! Jetzt funktioniert die Risikoermittlung schon seit Tagen nicht!<br> :date: __2020-10-02 13:39:09__
+> Was für ein Mist<br> :date: __2020-10-11 13:26:01__
 
-> Hab die App jetzt deinstalliert. Mein Smartphone konnte sich nach der Installation der Corona App mit keinem Bluetooth Gerät mehr koppeln. Weder mit meinem Privat PKW noch im LKW und auch die Freisprechanlage in meinem Motoradhelm ging nicht mehr. App deinstalliert, alles wieder gut.<br> :date: __2020-10-02 13:10:55__
+> Seit dem 1.10. funktioniert die App nicht mehr.<br> :date: __2020-10-11 13:04:51__
 
 

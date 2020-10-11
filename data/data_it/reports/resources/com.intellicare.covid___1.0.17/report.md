@@ -253,6 +253,12 @@ The LAZIOdrCovid app has been installed by more than **100000** times. At this t
 <img src="1_star_reviews_wordcloud.png" alt="com.intellicare.covid 1 reviews"/>
 </p>
 
+> Come riportato in altre recensioni di altri utenti è fumo negli occhi. Contattato il medico.....nessuna risposta. Qualcuno dovrebbe dare delle spiegazioni.<br> :date: __2020-10-08 13:29:23__
+
+> Non serve a un c... Avolo! Test inutile. Non risponde nessuno ai contatta... Che senso ha?<br> :date: __2020-10-06 21:06:08__
+
+> Assolutamente inutile, "Contatta il mio medico" non riceve risposta, i questionari inutili e il numero verde cade la linea. Un'altro ottimo utilizzo dei soldi pubblici e complimenti alla solita raccolta di raccomandati LazioCrea.<br> :date: __2020-10-04 20:23:55__
+
 > App inutile.... Complimenti<br> :date: __2020-09-26 10:28:52__
 
 > Veramente inutile! Inutile come il numero verde di emergenza che non risponde. Inutile come il 115 (numero di emergenza medica nazionale) che rimanda al numero verde che rimanda a questa applicazione. Poi ci domandiamo perché stiamo ancora in emergenza...<br> :date: __2020-09-24 22:12:52__
@@ -266,11 +272,5 @@ The LAZIOdrCovid app has been installed by more than **100000** times. At this t
 > Nella fase di installazione è comparsa la richiesta di dati riguardante modalità di pagamento e la richiesta di fornire a tal fine i dati di uno strumento bancario ( carta di credito etc.) ..?? Procedendo nell'installazione viene richiesto di acconsentire all'installazione di kukies e l'accesso a tutti i file multimediali dell'apparecchio su cui sto eseguendo l'installazione. Perché? Per questa ragione non ho completato l'installazione.<br> :date: __2020-08-31 10:12:35__
 
 > Dopo l'ultimo aggiornamento, non si avvia più perché dice di aggiornare all'ultima versione! Ridicola questa app, penosa è dir poco<br> :date: __2020-08-30 20:39:53__
-
-> Non si apre, non funziona. Utilità zero!!<br> :date: __2020-08-27 19:32:39__
-
-> Non riesco a scaricare aggiornamento. Ho provato a disinstallare e adesso non riesco nemmeno ad installarla di nuovo. Questo problema si era verificato anche a marzo.Ho un Samsung a50 abbastanza nuovo ( meno di un anno) e ho un collegamento Wifi 4g<br> :date: __2020-08-27 11:45:43__
-
-> Non funziona.<br> :date: __2020-08-27 08:12:22__
 
 

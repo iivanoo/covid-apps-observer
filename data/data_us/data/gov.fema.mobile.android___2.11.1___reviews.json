@@ -1,5 +1,53 @@
 [
     {
+        "reviewId": "gp:AOqpTOGGMTOJtsNKzYKBR4P0QFYPSLnSfl_NtMjf7yakULJfg2gFrYTxXcNSn3GWk4srWKLLFV25N14er4u0kPE",
+        "userName": "Julie Saucerman",
+        "userImage": "https://lh3.googleusercontent.com/-UHiDuPCZ0VQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckYN9PNsMGsXcB0cgBwgvoF4sZtsA/photo.jpg",
+        "content": "Great information to keep current of the situations.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.11.1",
+        "at": "2020-10-08 22:32:16",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGZtnL9JtAQsWwdhpFcvgINUSIxy1Rq1Ug6OTW2NPxht7f4Uozglt0dfWLM0OekbpJCAN0RvLcQOV4iaok",
+        "userName": "Dickerson McCain",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgE0_hvKd1tUzLyz6XpbaOT3bmoNH5Hh3Pq4B5MJA",
+        "content": "Also I build homeless shelters and I think this would be the place to add my location make it official",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.11.1",
+        "at": "2020-10-06 07:13:34",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHdHCvoCT6uLdR2oCNp6VQ3X_aEIrL1NcxB53Khunb6TQe2OrFq1yQJPTz-rG1p335r4jfKx6FycFWYn50",
+        "userName": "Jason Delaplain",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgFBdr_bRCABb1H6k6b8rLe9HEy9sz78YRiljJMWpM",
+        "content": "Works but would multiply the same alerts",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.11.1",
+        "at": "2020-10-03 19:46:59",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOH6iYvxWmQ70iPBPnRPUADaWnuKWIeb1k5hfy2QmNjGHAP30ZHuxg_2U8A7LWRqDbd8u8LIb6_THAzCdQo",
+        "userName": "Will Tadlock",
+        "userImage": "https://play-lh.googleusercontent.com/-zx-eGkZ3XiQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmNAyQaId99mprev5wv95IUUeyrIw/photo.jpg",
+        "content": "This hurricane I got turned down in just a few hours. Yeah technology!!!!!",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.11.1",
+        "at": "2020-10-03 11:55:27",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOH_ol_bx7IMF-oJhpcvjceGcSihrCseaBUtQ9gyar_bSf60o5ZW1W-qG9eS37QyDvxkx7aTGy9nJldzXTA",
         "userName": "Mook B",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgSQFmC63fr99OMUW9cT4jOXGAC54RJaiTUOBiYyA",
@@ -38,7 +86,7 @@
     {
         "reviewId": "gp:AOqpTOFs59ksfxu5X8m8Ga18BjvH_o_Rdz4CvI6_ljoXaovOAqaFK_VdmRvAIlSpSfLLvxtN_Exgoa29fwGEayw",
         "userName": "Mark Kidwell",
-        "userImage": "https://play-lh.googleusercontent.com/-3Qt1F94MXN0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckn0eK8-pG5pMu-_Y2zElnjRCzw6w/photo.jpg",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhrYkPeksOo7NjEwzix5gv7y8BUEnpM3mi9TPvL",
         "content": "Decent at first glance",
         "score": 4,
         "thumbsUpCount": 0,
@@ -89,7 +137,7 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiZwoxq77qQGVvNb46aZqAPYn0J1ablcbwPCvzjSQ",
         "content": "Sends out alerts as expected, but here's the issue. If I'm in another app (Facebook, e.g.), it won't override it, and there doesn't seem to be a way to get the alert within the actual app, so if you miss it... too bad. Also tried to pull up the app while roaming, and got a \"no wifi\" connection error. Who the hell has wifi during an emergency??? DO BETTER.",
         "score": 3,
-        "thumbsUpCount": 14,
+        "thumbsUpCount": 21,
         "reviewCreatedVersion": "2.11.1",
         "at": "2020-09-13 18:35:21",
         "replyContent": null,
@@ -149,7 +197,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-Lm5Cz8_dJmo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucly8Dp8YUlXH5vrchcLdafLZmGE-Q/photo.jpg",
         "content": "Love it!! Can check on family around the country and in different counties. If you set you phone to do not disturb, make sure to tell the do not disturb app that these messages are allowed. If you lower power saving level on android phones the app does not alert you.",
         "score": 5,
-        "thumbsUpCount": 15,
+        "thumbsUpCount": 17,
         "reviewCreatedVersion": "2.11.1",
         "at": "2020-09-08 16:04:30",
         "replyContent": null,
@@ -269,7 +317,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-1f_nKivYeiQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucken5Nj8Yr7dZg22rIrcghz0KQDGg/photo.jpg",
         "content": "The type is thinner and less legible with this update. The unnecessary style change reduces its usefulness to me. Plus, I have not received alerts about the smoke in my area or the fires near me although I specified that in the settings. So I uninstalled it.",
         "score": 3,
-        "thumbsUpCount": 57,
+        "thumbsUpCount": 60,
         "reviewCreatedVersion": "2.11.1",
         "at": "2020-08-21 06:13:51",
         "replyContent": null,
@@ -613,7 +661,7 @@
     },
     {
         "reviewId": "gp:AOqpTOH6C4E_Gr0PrgGXCA9Lb1uclfQLrE_sLDYF00Cs-m0fXF398cy4efn6J9z4lQjLQERAiQ71yqt_6kL70dM",
-        "userName": "Alan Y",
+        "userName": "Alan Yarborough",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgAh_dEriFEeqvMsHUZwZ-ZNM6sORsphf1y8TOZLJY",
         "content": "Great app.",
         "score": 4,
@@ -770,7 +818,7 @@
     {
         "reviewId": "gp:AOqpTOGH5wJOvPAMEJjMP0evhCqT2-x3V5vtcTS-fsy4RSEK6RuLUzl0eqSCyMRG_YrBtAEcYCgelN28hn0Xdu8",
         "userName": "Ms Tiffany",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjE2D_jCaAQitv1cYuAZtla4Sc5iasnKXbGiaRrs5E",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiS4A8GIGLM5nysKdAq7_Bu_BBZqMXLBhsIK1l95ic",
         "content": "Nagging with unwanted notifications",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1154,7 +1202,7 @@
     {
         "reviewId": "gp:AOqpTOE-OHQvMRQyj5_j_zIXKfw6hXLh909bb104nBC7TI8OU3LXW8GNZUzl7amKwA5vuMDXzmOvxYsY9owAm6k",
         "userName": "Ana E Cruz nazario",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gj3IwEHhZKB4k0Nl6Ifcla9ut0tjFDJtZY_hWTBahA",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgVNB8R9HCZrGEis2bPO3fnx2C4qVHE5cJAn1wL4a0",
         "content": "Be alert is the best way to live I likeWeather alerts, safety tips and more to help before, during & after disasters. Emergency alerts, safety tips and resources to help before, during & after disasters. The FEMA App provides timely alerts and useful information to help you and your loved ones stay safe before, during and after disasters. Receive and share real-time notifications about disasters, severe weather, and other emergencies for up to five locations nationwide. This simple and easy-to",
         "score": 5,
         "thumbsUpCount": 8,
@@ -1310,7 +1358,7 @@
     {
         "reviewId": "gp:AOqpTOFl6qo4M92Wp39JIRvUOEIW1SKFrWXs_mkutfagDMsDwHl4JCc1ENHaOKRqve5VW3Idw1hDNt29yXXIESI",
         "userName": "ana e Cruz nazario",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgxYEkaieo9MZeeKLf303yDdWJwEQMZjWqLGSA7sw",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhqUJOgO-MiMACfNlq1bLPQWthKmW2tWf_DflStOeA",
         "content": "Always helping people around the world and this best app",
         "score": 5,
         "thumbsUpCount": 1,
@@ -1381,7 +1429,7 @@
     },
     {
         "reviewId": "gp:AOqpTOEtWAOtdiVaQNui442eE3Ax8--u0l2U_X7G8iigTldJ32UHAbfryLj4gqS8cSMAXC5enRL8Z7LFWkQV5eA",
-        "userName": "Minister: RubyF Durkee",
+        "userName": "Minister: Ruby Durkee",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjJcQLZz8xSNniksiMlz3z8IYBMcTpNXIh8hANKPQ",
         "content": "Have Not Used As Yet ! Sorry,but must be so much of a great service I would believe.. Rev.RubyFDurkee..",
         "score": 5,
@@ -1394,7 +1442,7 @@
     {
         "reviewId": "gp:AOqpTOE8rA7tpdkY-KG9UYnRsnGcs2Ii123ACGZAZ2zX1PR11TCMKLN2TVNDx5jdtHCOuVwxy1Fm3D6Y7aWIECk",
         "userName": "Larry Kuchenmeister",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjCkhPi3FkwK7OalIBhumCJCPsEHKGrffXT0uNUOQ",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhV-JMDHZ719ePS7uSH0-bjuhg4ckAEUWikBzmMeA",
         "content": "Your always there for us \ud83c\uddfa\ud83c\uddf8.",
         "score": 5,
         "thumbsUpCount": 1,
@@ -2282,7 +2330,7 @@
     {
         "reviewId": "gp:AOqpTOEqauc7bhEyk8Hg4JEu-jxewT-cZoGlMPNXGnR8Z5H-vegxl64OVZRgxYnq5rTH9muHd7L3Y0x8u9y8U0I",
         "userName": "Veronica Lewis",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gg_kj-LyTrSVqNZO4ZTyrbGGQKZnay_40FLhy_hCg",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiB_4TAbLv342PlZyRSPBN-FPy5Bnr5VR42KNimPw",
         "content": "Very helpful getting things together after a disaster is hard to do .this app helps keep it organized and leaves a easy trail to keep your affairs on the right track.",
         "score": 4,
         "thumbsUpCount": 66,
@@ -6422,7 +6470,7 @@
     {
         "reviewId": "gp:AOqpTOEFn5yg1rZ9XEGdaQoM1z1kiINRqQDXg6MFGdEyJ1CpBLDWnDK0U00tUb4ehWEVJ9sXqKeYMIFHxbAgiGc",
         "userName": "Connie",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Ggml_RIyA39EPR5owc6-vvYeFgb4Uvxf81m7Jg3UA",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gj_KIUP09uWGjiL0a8iF-acVGjZdLKAkK8S1HRGJQ",
         "content": "I don't know how this #or how this works yet!",
         "score": 4,
         "thumbsUpCount": 4,
@@ -8198,7 +8246,7 @@
     {
         "reviewId": "gp:AOqpTOEx2adJa43UxwCJcLU9MnoSLa6BBC1bVZKULSDQ8C2ZFcaR-3P9jAvgRE0ZyMs8lH2tB3ULtkqS9oTWnRA",
         "userName": "Skylar Kennedy",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgO8gDCp0RY8Nop8J8m4ZXhOwT-6Kpn2QUfWKJWX-M",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Ggf_r8l4fkk-NywgZlAie18OyxM3b8caYz9X-bZOls",
         "content": "Federal Emergency Management APP",
         "score": 5,
         "thumbsUpCount": 0,
@@ -8426,7 +8474,7 @@
     {
         "reviewId": "gp:AOqpTOEehnRLhSKOfRMNdI1d25RDvzCtiqwmMWDr_GoPfyUa3TKx_QhyS1GW8T-2EGKJtPmFvNdii-Z16aUYBqc",
         "userName": "Sara",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjTEtBCxvTFaCOU-5AbDg3ABdwbGvQEvhfSqS5_NA",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjtGcKb4XeZEyV338fsxgHKvHKKEC6WouXdvF9MjA",
         "content": "You people are ridiculous. See you at camp,a-holes",
         "score": 1,
         "thumbsUpCount": 0,

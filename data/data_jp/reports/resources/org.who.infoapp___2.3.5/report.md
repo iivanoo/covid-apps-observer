@@ -138,6 +138,8 @@ The WHO Info app has been installed by more than **100000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="org.who.infoapp 5 reviews"/>
 </p>
 
+> I. AM. BELIVE. W. H. O<br> :date: __2020-10-04 06:51:53__
+
 > I like to see a update on what's going on please<br> :date: __2020-09-23 12:20:19__
 
 > First time user, but the app looks helpful.<br> :date: __2020-09-16 19:17:57__
@@ -155,8 +157,6 @@ The WHO Info app has been installed by more than **100000** times. At this time,
 > Very important app to continue to keep an eye on this pandemic serious app tell alot about what is going on<br> :date: __2020-08-04 16:57:56__
 
 > You<br> :date: __2020-08-04 10:03:36__
-
-> Ok<br> :date: __2020-08-01 06:27:49__
 
 
 
@@ -234,6 +234,12 @@ The WHO Info app has been installed by more than **100000** times. At this time,
 <img src="1_star_reviews_wordcloud.png" alt="org.who.infoapp 1 reviews"/>
 </p>
 
+> I just downloaded it, but every time I open it just say "an error occur check your connectivity" or something like that... didn't work...<br> :date: __2020-10-10 17:24:54__
+
+> Does not work<br> :date: __2020-10-09 00:12:33__
+
+> This is your official application? and sometimes it doesn't work<br> :date: __2020-10-07 18:26:16__
+
 > I am not able to download it fully its no use to me as i am a type1 Diabetic and Asthmatic i am also in 3rd degree Kidney Failure.<br> :date: __2020-09-29 02:20:05__
 
 > WHO TRUSTS WHO NOW ¿¿?!?????<br> :date: __2020-09-25 02:07:50__
@@ -247,11 +253,5 @@ The WHO Info app has been installed by more than **100000** times. At this time,
 > The app does not show me anything. Since I downloaded it I have not been able to use it. When I open it nothing shows so I wonder why some people are giving you thumbs up<br> :date: __2020-07-05 05:34:15__
 
 > Jahangir<br> :date: __2020-06-19 05:46:57__
-
-> Crashed after one minute<br> :date: __2020-06-15 05:58:08__
-
-> Cannot download cv19 app<br> :date: __2020-06-08 15:19:41__
-
-> Want to learn<br> :date: __2020-05-27 11:52:00__
 
 

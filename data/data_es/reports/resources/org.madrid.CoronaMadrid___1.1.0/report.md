@@ -262,6 +262,18 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="org.madrid.CoronaMadrid 1 reviews"/>
 </p>
 
+> Imposible indicar la edad. Absurdo.<br> :date: __2020-10-11 14:12:33__
+
+> @plicación pide edad pero no se puede, parece informativa sin actualizar y algo ambigua sin directrices explicitas o eficaces,,, sin datos y pte valorar en próximos días....Parece no se pueden descargar los archivos adjuntos ?... Etc... DE MOMENTO MAL, DA POCA CONFIANZA, AUNQUE MENOS ES NADA.<br> :date: __2020-10-09 19:30:48__
+
+> No se puede completar el registro: tras mirar el código y volver a la app, hay que iniciar de nuevo, otro código y así no es posible registrarse.<br> :date: __2020-10-09 08:40:47__
+
+> Espantosa no, lo siguiente. Qué lástima de perdida de recursos.<br> :date: __2020-10-08 00:50:04__
+
+> No sirve. Si no muestra los contactos positivos no sirve para nada.¿ Un autodiasnostico? No hace falta tener una app para saber que te tienes que quedar en casa si tienes toda y fiebre<br> :date: __2020-10-07 13:56:16__
+
+> Fatal! Es declarativa y no me informa de los que tengo alrededor , informaticamente pobre, usar el barrido a los moviles alrededor es automatico, recomiendo usar tambien covid radar, y que los politicos nos dejen elegir a los usuarios. Estoy en Madrid y tengo miedo de ir a la ciudad, abrir covid radar a madrid y ayudar , yo dejo de votar a los actuales politicos de mi ccaa, esto es una falta de respecto, tengo varios afectados alrededor.<br> :date: __2020-10-06 21:02:45__
+
 > No es nada útil<br> :date: __2020-09-25 19:58:40__
 
 > No funciona<br> :date: __2020-09-24 21:55:22__
@@ -269,17 +281,5 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 > Di de alta a un familiar y ahora solo puedo hacer su valoración.<br> :date: __2020-09-24 07:57:08__
 
 > No abre<br> :date: __2020-09-22 22:26:58__
-
-> De momento no la encuentro util<br> :date: __2020-09-22 20:46:26__
-
-> Bloquea el WiFi, no deja descargar nada<br> :date: __2020-09-22 16:25:58__
-
-> Paso de retroceder 1 a 1 todos los meses hasta mi nacimiento<br> :date: __2020-09-15 15:59:12__
-
-> No vale para nada, me dice que "probablemente este mal" y punto, en ningún momento te pregunta si te has hecho alguna prueba o resultados.<br> :date: __2020-09-15 12:00:43__
-
-> Imposible introducir la fecha de nacimiento para proceder con el registro<br> :date: __2020-09-12 22:58:16__
-
-> Sólo autoevaluación, no sirve para detectar contactos. Obliga a un registro con el número de teléfono y no explica la necesidad ni el uso. Dice que es para "autoevaluación y otros fines de utilidad pública", por lo que ni es anónima ni informa correctamente.<br> :date: __2020-09-12 17:50:40__
 
 

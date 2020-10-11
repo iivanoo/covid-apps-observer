@@ -160,6 +160,8 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <img src="5_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 5 reviews"/>
 </p>
 
+> Bellissima app<br> :date: __2020-10-10 10:33:43__
+
 > Utile per chi opera in protezione civile<br> :date: __2020-10-02 10:03:56__
 
 > Ottima app<br> :date: __2020-08-28 17:17:22__
@@ -178,8 +180,6 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 
 > NEI PRONTO SOCCORSO SON TUTTI RIGOROSI ALLE REGOLE E TI METTONO MOLTO A TUO AGIO GRAZIE A TUTTI X LA COLLABORAZIONEUN ABBRACCIO SEPPUR VIRTUALE<br> :date: __2020-07-31 15:42:15__
 
-> Di un certo qual spessore...<br> :date: __2020-07-27 19:40:37__
-
 
 
 #### 4-star reviews
@@ -187,6 +187,10 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 4 reviews"/>
 </p>
+
+> Utilissima<br> :date: __2020-10-06 14:18:06__
+
+> Ottima applicazione, sempre presente per ogni cambiamento del tempo.<br> :date: __2020-10-03 14:37:02__
 
 > Ottima<br> :date: __2020-09-17 19:03:44__
 
@@ -204,10 +208,6 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 
 > Interessante e valida. A volte complicata apertura.<br> :date: __2020-07-10 16:38:11__
 
-> 25/6/2020: i campi "condizioni mediche rilevanti" sono comparsi tutti deselezionati e non è permesso inviare dichiarazioni senza selezionarne uno. Allo stesso tempo non è permesso fare una selezione dopo avere già inviato una dichiarazione al servizio CercaCovid. Problema risolto cancellando i dati dell'applicazione.<br> :date: __2020-06-25 15:01:47__
-
-> Dopo questa modifica diciamo che già meglio, la cosa che mi lascia perplesso e perché si possa inserire solo un figlio chi ne ha due o piu cosa deve fare ?<br> :date: __2020-06-24 14:28:57__
-
 
 
 #### 3-star reviews
@@ -215,6 +215,8 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 3 reviews"/>
 </p>
+
+> Un po lenta per un uso di emergenza<br> :date: __2020-10-02 14:21:43__
 
 > Come si cambia l'età anagrafica?<br> :date: __2020-09-18 20:18:32__
 
@@ -234,8 +236,6 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 
 > Secondo me è utilizzata pochissimo e non ho capito come dare informazioni dopo aver compilato il questionario<br> :date: __2020-06-15 18:06:53__
 
-> Scaricata ma non riesco a ricevere nessuna notifica di allerta inoltre ogni volta che si chiude l'applicazione spariscono dai preferiti i comuni precedentemente memorizzati. Le notifiche sono tutte attive, occorre tenere sempre acceso il GPS ? grazie<br> :date: __2020-06-11 15:25:30__
-
 
 
 #### 2-star reviews
@@ -243,6 +243,8 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 2 reviews"/>
 </p>
+
+> Da un paio di mesi arrivano le allerte ma non si apre più l'applicazione<br> :date: __2020-10-04 13:40:07__
 
 > Da tempo non riesco più ad aggiornare la mia situazione perché alla.prima domanda non mi viene consentito di rispondere . Le altre funzionano tutte ma alla fine mi dice che non posso inviare perché non ho risposto a tutte le domande. Peccato<br> :date: __2020-09-24 21:36:21__
 
@@ -261,8 +263,6 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 > Questa app no piage perché io sto regione marche e sto Appignano provincia magerata<br> :date: __2020-06-18 18:07:20__
 
 > Funziona una volta si e 5 no<br> :date: __2020-06-14 15:57:48__
-
-> perche modificare in peggio la parte covid?? uso questa app da circa tre mesi direi esclusivamente per la parte covid la prima versione poteva essere migliorata e la seconda l'ha sicuramente molto più fruibile e rapida la compilazione l'ultimo aggiornamento di qualche giorno fa ha spostato la compilazione a sinistra. dato che la maggior parte delle persone é destrorsa e usa il pollice, cio ha reso l'applicazione non ergonomica. l'ho trovato stupido<br> :date: __2020-06-07 10:13:33__
 
 
 

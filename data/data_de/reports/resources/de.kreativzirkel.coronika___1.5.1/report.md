@@ -163,6 +163,8 @@ The Coronika - Dein Corona Tagebuch app has been installed by more than **10000*
 <img src="5_star_reviews_wordcloud.png" alt="de.kreativzirkel.coronika 5 reviews"/>
 </p>
 
+> Schön, wenn man das findet, was man sucht. Ich hätte mir gewünscht, dass dies gleich in der Corona Warn App integriert ist.<br> :date: __2020-10-09 20:37:51__
+
 > Mit Corona Warn App starkes Duo gegen covid19! Eingabe der Orte/Personen super und wenige Touch im Positiv-Fall, mit dem Export-PDF eine perfekte Vorlage für Mail an die Gesundheitsbehörden zur Kontaktverfolgung zu haben. Im "Prinzip" nicht anders als Block und Stift, aber hier um Längen bequemer und deutlich schneller mit fertigem Export-PDF. Deshalb 5⭐von mir👍 PDF-Sortierung der Orte-Liste nach Datum absteigend und Personen >14Tg in der Personenliste nach unten wäre noch übersichtlicher.<br> :date: __2020-09-27 10:04:29__
 
 > Tolle App! Nutze die täglich! Hier einige Vorschläge zur Erweiterung/Verbesserung: Personen mit Orten verbinden und Zeitangabe einfügen; zeitliche Sortierung der Orte; Einfügung typischer Cluster-Situationen (z.B. Besprechung, Vereinstreffen etc.; vielleicht gibt es da ja ne offizielle Liste vom RKI oder aus der Forschung), wo man lediglich noch Ort und Uhrzeit eintragen muss; Möglichkeit der Verknüpfung mit Standort-Diensten wie google Maps; Möglichkeit der Verknüpfung mit der Kontaktliste<br> :date: __2020-09-15 15:26:23__
@@ -180,8 +182,6 @@ The Coronika - Dein Corona Tagebuch app has been installed by more than **10000*
 > Gute App, leicht zu handhaben<br> :date: __2020-06-25 10:16:17__
 
 > Ich nutze die App nun schon eine Weile. Es ist schön, dass kein tracking oder tracing notwendig ist. Natürlich bedarf es einer größeren Disziplin während oder am Ende des Tages alle Aktivitäten und Kontakte einzutragen. Gerade habe ich mir das aktuelle Update heruntergeladen und hoffe, dass man an der einen oder anderen Stelle Korrekturen vornehmen kann.<br> :date: __2020-06-18 11:15:16__
-
-> App okay<br> :date: __2020-06-17 17:56:41__
 
 
 

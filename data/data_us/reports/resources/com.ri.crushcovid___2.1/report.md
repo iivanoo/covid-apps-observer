@@ -265,6 +265,12 @@ The CRUSH COVID RI app has been installed by more than **10000** times. At this 
 <img src="1_star_reviews_wordcloud.png" alt="com.ri.crushcovid 1 reviews"/>
 </p>
 
+> No exposure notifications = useless app!<br> :date: __2020-10-09 03:20:46__
+
+> Not working correctly. Dates wrong<br> :date: __2020-10-06 06:25:40__
+
+> Need to enable exposure notifications, app is useless if it does not alert the user that they have been exposed.<br> :date: __2020-10-03 15:35:00__
+
 > I can't even get through the agreement/permissions page. This is my second attempt with this app after the first version was sending alerts and push messages non stop. I guess for every minute I am frustrated trying to use the app, that is a minute that I am less likely to be exposed to Covid.<br> :date: __2020-09-20 13:34:26__
 
 > I finally left app with newest Version 2.1. As Android user the new update has changed app for the worse. You can't send info as it just keeps saying u have to fill out info you have already done...and the location tracker is do far off..it has had me listed in Connecticut for hours when I had not left my house in RI.. Until u fix the bugs...I won't use the app. It started off good... programmers...please don't make the users your Beta group! You should have noticed these bugs if u tested!<br> :date: __2020-09-16 20:47:27__
@@ -278,11 +284,5 @@ The CRUSH COVID RI app has been installed by more than **10000** times. At this 
 > Does not open even after you accept that it goes right back to the beginning<br> :date: __2020-09-09 19:26:20__
 
 > This sucks as$ it doesn't work<br> :date: __2020-09-07 03:10:12__
-
-> Location tracking was working, now it's not.<br> :date: __2020-08-24 16:46:30__
-
-> This app still doesn't accurately keep track of my location 😒! I did everything suggested to assist it that was given as "tips" and it's not right 95% of the time! I always have my phone on and use either data or wi-fi. The only location that it gets correct sometimes is home. If it doesn't get fixed I might as well uninstall it.<br> :date: __2020-08-21 17:37:19__
-
-> If it can't track my location, then what good is it? It's good for nothing. I don't need this app taking up space on my phone if it doesn't work.<br> :date: __2020-08-19 20:05:36__
 
 

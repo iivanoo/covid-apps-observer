@@ -134,6 +134,8 @@ The Covid Watch Arizona app has been installed by more than **1000** times. At t
 <img src="5_star_reviews_wordcloud.png" alt="gov.azdhs.covidwatch.android 5 reviews"/>
 </p>
 
+> The app is Amazing and I love it. This should be launched across USA and it will help in saving allot of people from exposure of Covid-19. Everyone in Arizona should download and start using it.<br> :date: __2020-10-06 13:43:59__
+
 > The idea is great/it is easy to set up/explains how it works well. I will rate 5 simply for that. It definitely needs to be able to be discovered by searching 'covid arizona' or 'covid watch arizona'. I had to look it up on a search engine then go through an app store link on the dev's website to find it.<br> :date: __2020-09-11 05:38:37__
 
 > Thanks for making this!<br> :date: __2020-09-10 10:11:21__
@@ -162,6 +164,8 @@ The Covid Watch Arizona app has been installed by more than **1000** times. At t
 <img src="3_star_reviews_wordcloud.png" alt="gov.azdhs.covidwatch.android 3 reviews"/>
 </p>
 
+> It's a major flaw to have to deliberately dig for this and install. I'm not saying it should be force installed on any device but it should at /least/ be able to show up in a search 🙃<br> :date: __2020-10-09 02:43:42__
+
 > This app can't be found using a simple search for "Covid Watch Arizona".<br> :date: __2020-08-26 04:58:02__
 
 
@@ -171,6 +175,8 @@ The Covid Watch Arizona app has been installed by more than **1000** times. At t
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="gov.azdhs.covidwatch.android 2 reviews"/>
 </p>
+
+> Great idea but unclear. IMPOSSIBLE to find by simple searching for it in the app store. I had to follow internet breadcrumbs over the different sites to finally get a link to the exact app. Once here, while setting up, you need to select your location, one of which is "State of Arizona". But later it says that statewide implementation means that you can get alerts, but not alert anyone else. So if I'm in Prescott, and no one in Prescott can actually send an alert, what is the point????<br> :date: __2020-10-06 19:06:36__
 
 > This app worked perfectly for me to begin with. Upon getting an exposure alert, I was able to view the details and severity with a simple touch. However, within the last two weeks, I noticed when I received an alert, I am unable to see the details. I am shown when it occurred, but the drop down bar showing the Transmission Risk and total time exposed is no longer available. I've tried all I can think to fix the issue, but at this point, I can no longer rely on it for accurate exposure alerts.<br> :date: __2020-09-25 01:17:53__
 
