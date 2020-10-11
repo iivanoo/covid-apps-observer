@@ -2,6 +2,7 @@ from androguard.misc import AnalyzeAPK
 from androguard.core.bytecodes.apk import APK
 from lib.warn.analysis.analysis import perform_analysis
 from lib.warn.report.report import generate_report
+import os
 import configuration as c
 
 
