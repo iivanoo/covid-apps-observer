@@ -140,6 +140,8 @@ The COVID Radar app has been installed by more than **50000** times. At this tim
 <img src="5_star_reviews_wordcloud.png" alt="nl.lumc.covidradar 5 reviews"/>
 </p>
 
+> Covid Radar Van het Lumc Oke.alles Goed 👍👍😊Prima 👌 Lang blijven nu niet verwijderen<br> :date: __2020-10-11 08:39:28__
+
 > Gewoon Even invullen tijdens het ontbijt en je draagt bij aan zinvol onderzoek. Werkt prima.<br> :date: __2020-10-06 17:21:15__
 
 > Kan beter<br> :date: __2020-10-04 17:54:32__
@@ -157,8 +159,6 @@ The COVID Radar app has been installed by more than **50000** times. At this tim
 > Nummer 2 in de lijst ....!' 💪🏼❣️<br> :date: __2020-05-23 11:32:42__
 
 > Mooie verbeteringen zichtbaar, maar zou nog specifieker kunnen, bv beroepsgroep toevoegen van personen bv zorg medewerker, of kapper straks dat wordt spannend als men weer in contact komt dicht op de klant hoe verhouden de klachten symptomen, zich dan ?<br> :date: __2020-05-06 23:20:12__
-
-> Nuttig<br> :date: __2020-04-30 15:40:43__
 
 
 
@@ -224,6 +224,8 @@ The COVID Radar app has been installed by more than **50000** times. At this tim
 <img src="2_star_reviews_wordcloud.png" alt="nl.lumc.covidradar 2 reviews"/>
 </p>
 
+> Beetje onduidelijk dat "persoon" ikzelf ben en je die geen keuzenaam kan geven. Kreeg na installatie geen vragen over "persoon" tot ik partner ging invoeren en daar vragen zag. Opnieuw geīnstalleerd maar. De vraag over 5meter afstsnd doet wat willekeurig aan waar we het standaard hebben over 1,5. Binnen ov en bij passerende sporters kan ik me wel 3m of 5m vragen voorstellen. Niet bij griepige reizigers of hooikoorts-ers.<br> :date: __2020-10-07 13:09:32__
+
 > Schuifknoppen zijn nauwelijks goed te zetten, app is niet anders te sluiten dan geforceerd, als men klaar is en verder wil gaan.<br> :date: __2020-10-04 09:28:20__
 
 > Ik stop er mee. Puur omdat je gewoon bij het dagelijks invullen, nog steeds dagelijks de vraag krijgt of de gegevens nog kloppen en het belangrijk is iedere dag in te vullen<br> :date: __2020-07-09 20:12:11__
@@ -241,8 +243,6 @@ The COVID Radar app has been installed by more than **50000** times. At this tim
 > Eens met vorige reviews. Zelf heb ik last van hooikoorts. Telkens bij een niesbui, vol lopen van neus, rillerigheid ga ik bij mezelf te raden of het een bekend allergie symptoom is. Misschien hooikoorts ook meenemen in app en combineren met de polleninformatie.<br> :date: __2020-04-08 08:40:21__
 
 > Crash loop, dus kan nu niks... En waar blijven die dagelijkse meldingen, heb er pas 1 gezien!<br> :date: __2020-04-07 08:50:17__
-
-> Vragen zijn gedateerd en veel te beperkt. Ik werd namelijk 4 weken geleden ziek en had alle symptomen, na een bezoekje aan Noord Italië. Lijkt me interessante informatie maar kan dat nergens in de app kwijt. De App heeft weinig meerwaarde... Niet installeren.<br> :date: __2020-04-06 16:03:56__
 
 
 

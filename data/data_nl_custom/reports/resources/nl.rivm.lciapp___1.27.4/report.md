@@ -216,6 +216,8 @@ The RIVM LCI-richtlijnen app has been installed by more than **50000** times. At
 <img src="1_star_reviews_wordcloud.png" alt="nl.rivm.lciapp 1 reviews"/>
 </p>
 
+> Downloaden lukt niet.<br> :date: __2020-10-11 12:21:38__
+
 > Loopt vast in Griekenland. In dit geval Kreta. De app downloaden gaat simpel. Bij het ophalen van gegevens gaat het mis.<br> :date: __2020-08-17 09:27:25__
 
 > werkt niet geen verbinding met netwerk geeft app aan kijk uit email is ook niet actief oplichters actief<br> :date: __2020-07-29 18:46:26__
@@ -233,7 +235,5 @@ The RIVM LCI-richtlijnen app has been installed by more than **50000** times. At
 > Waardeloos, geeft steeds melding " geen internet, gegevens nog niet gedownload"<br> :date: __2020-07-22 23:05:31__
 
 > werkt niet: geeft continu melding 'geen internetverbinding'. Of ik nu of wifi zit of 4G.<br> :date: __2020-07-22 10:34:07__
-
-> Waardeloos, zegt steeds geen internet verbinding 😖<br> :date: __2020-07-20 11:10:20__
 
 
