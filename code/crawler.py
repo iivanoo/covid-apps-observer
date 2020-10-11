@@ -61,10 +61,10 @@ def crawl_data(app):
         apk_path = c.APKS_PATH + app_suffix_path + '.apk'
         if not os.path.exists(apk_path):
             if not download_apk(app['id'], apk_path):
-                print('Error while downloading the following app, try to download it manually: ' + app['id'])
+                print('Error while downloading the following app, we skip it: ' + app['id'])
                 return False
             elif not apk_downloader.verify_apk(app['id'], apk_path, app_suffix_path):
-                print('The downloaded APK is not well formed: ' + apk_path)
+                print('The downloaded APK is not well formed, we skip it: ' + apk_path)
                 return False
         
         app['latest_crawled_version'] = app_latest_version
