@@ -55,8 +55,14 @@ def get_apk_path(app):
 
 # Get the raw data resulting from either a previous analysis or a previous crawl
 # analysis_type = androguard | androwarn | metadata | reviews 
-def ger_raw_data(app, analysis_type: str):
+def get_raw_data(app, analysis_type: str):
+    # The app must have been previously crawled to continue
+    if(not 'latest_crawled_version' in app):
+        return None
     app_latest_version = app['latest_crawled_version']
     app_suffix_path = app['id'] + SEPARATOR + app_latest_version
     file_path = DATA_PATH + app_suffix_path + SEPARATOR + analysis_type + '.json'
-    return json.load(open(file_path, 'r'))
+    if(os.path.exists(file_path)):
+        return json.load(open(file_path, 'r'))
+    else:
+        return None

@@ -35,7 +35,9 @@ def create_report(author_name, author_email, report_title):
     
     # We firstly create the internal reports, one for each analyzed app (and we accumulate of their contents)
     for a in apps:
-        app_reports[a['id'] + c.SEPARATOR + a['latest_crawled_version']] = report_creator.create(a)
+        app_report = report_creator.create(a)
+        if(not (app_report is None)):
+            app_reports[a['id'] + c.SEPARATOR + a['latest_crawled_version']] = app_report
     
     # We create the final global report, which will also include each single app report
     global_report_path = report_creator.create_global_report(apps, app_reports, author_name, author_email, report_title)

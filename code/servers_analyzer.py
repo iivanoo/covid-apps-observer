@@ -42,7 +42,11 @@ def get_candidate_urls(app):
     result = list()
     
     # Get all candidates URLs from the json file produced by the Androguard analyzer
-    all_urls = c.ger_raw_data(app, 'androguard')['urls']
+    all_urls = c.get_raw_data(app, 'androguard')['urls']
+    
+    # Here we check if the data is actually there, otherwise we skip the analysis
+    if(all_urls is None):
+        return
     
     for current_url in all_urls:
         if is_candidate(current_url):

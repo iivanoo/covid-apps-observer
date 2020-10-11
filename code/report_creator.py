@@ -16,20 +16,27 @@ import configuration as c
 
 # We create the folder containing the report and all its static resources, we return the root folder for this report for convenience
 def prepare_folders_structure(app):
-    app_suffix_path = app['id'] + c.SEPARATOR + app['latest_crawled_version']
-    app_folder_path = c.GLOBAL_PATH + 'reports/resources/' + app_suffix_path + '/'
-    
-    if os.path.exists(app_folder_path):
-        shutil.rmtree(app_folder_path)
-    if not os.path.exists(c.GLOBAL_PATH + 'reports/resources/'):
-        os.mkdir(c.GLOBAL_PATH + 'reports/resources/')
-    os.mkdir(app_folder_path)
+    try:
+        app_suffix_path = app['id'] + c.SEPARATOR + app['latest_crawled_version']
+        app_folder_path = c.GLOBAL_PATH + 'reports/resources/' + app_suffix_path + '/'
+        
+        if os.path.exists(app_folder_path):
+            shutil.rmtree(app_folder_path)
+        if not os.path.exists(c.GLOBAL_PATH + 'reports/resources/'):
+            os.mkdir(c.GLOBAL_PATH + 'reports/resources/')
+        os.mkdir(app_folder_path)
 
-    return app_folder_path
+        return app_folder_path
+    except:
+        return None
 
 
 # Loads all the json files one by one containing the data which will populate the report
 def load_data(app):
+    # We do not proceed if the 'latest_crawled_version' is not present, this happens when the app has never been crawled.
+    if(not 'latest_crawled_version' in app):
+        return None, None, None, None, None
+    
     app_suffix_path = app['id'] + c.SEPARATOR + app['latest_crawled_version']
 
     metadata_path = c.DATA_PATH + app_suffix_path + c.SEPARATOR + 'metadata.json'
@@ -39,13 +46,22 @@ def load_data(app):
     reviews = json.load(open(reviews_path, 'r'))
 
     servers_path = c.DATA_PATH + app_suffix_path + c.SEPARATOR + 'servers.json'
-    servers = json.load(open(servers_path, 'r'))
+    if(os.path.exists(servers_path)):
+        servers = json.load(open(servers_path, 'r'))
+    else:
+        servers = None
 
     androguard_path = c.DATA_PATH + app_suffix_path + c.SEPARATOR + 'androguard.json'
-    androguard = json.load(open(androguard_path, 'r'))
+    if(os.path.exists(androguard_path)):
+        androguard = json.load(open(androguard_path, 'r'))
+    else:
+        androguard = None
 
     androwarn_path = c.DATA_PATH + app_suffix_path + c.SEPARATOR + 'androwarn.json'
-    androwarn = json.load(open(androwarn_path, 'r'))
+    if(os.path.exists(androguard_path)):
+        androwarn = json.load(open(androwarn_path, 'r'))
+    else:
+        androwarn = None
 
     return metadata, reviews, servers, androguard, androwarn
 
@@ -425,13 +441,16 @@ def create(app):
         # We fetch all data from the json files
         metadata, reviews, servers, androguard, androwarn = load_data(app)
 
+        if((metadata is None) or (reviews is None) or (servers is None) or (androguard is None) or (androwarn is None)):
+            return None
+
         # Fill the Overview section
         template = fill_overview(app, metadata, template, report_folder)
 
         # Fill the Development team section
         template = fill_dev_team(app, metadata, template)
 
-        # Fill the Android section
+        # Fill the Android sections
         template = fill_android(app, androwarn, template)
 
         # Fill the Permissions section
@@ -459,9 +478,11 @@ def generate_apps_toc(apps):
     result = ''
 
     for a in apps:
-        app_name = c.ger_raw_data(a, 'metadata')['title']
-        app_handle = re.sub(r"[,:;@#?!&$]+", '', app_name).strip().lower().replace(' ', '-')
-        result = result + '- [' + app_name + '](#' + app_handle + ')\n' 
+        app_metadata = c.get_raw_data(a, 'metadata')
+        if(not app_metadata is None):
+            app_name = app_metadata['title']
+            app_handle = re.sub(r"[,:;@#?!&$]+", '', app_name).strip().lower().replace(' ', '-')
+            result = result + '- [' + app_name + '](#' + app_handle + ')\n' 
 
     return result
 
@@ -471,11 +492,13 @@ def get_analysed_apps(apps):
     result = ''
 
     for a in apps:
-        app_data = c.ger_raw_data(a, 'metadata')
-        app_name = app_data['title']
-        app_icon_path = 'resources/' + a['id'] + c.SEPARATOR + a['latest_crawled_version'] + '/icon.png'
-        result = result + '| <img src="' + app_icon_path + '" alt="' + app_name + ' icon" width="40"/> | ' \
-                 + app_name + '\n'
+        app_metadata = c.get_raw_data(a, 'metadata')
+        if(not app_metadata is None):
+            app_data = app_metadata
+            app_name = app_data['title']
+            app_icon_path = 'resources/' + a['id'] + c.SEPARATOR + a['latest_crawled_version'] + '/icon.png'
+            result = result + '| <img src="' + app_icon_path + '" alt="' + app_name + ' icon" width="40"/> | ' \
+                    + app_name + '\n'
 
     return result
 

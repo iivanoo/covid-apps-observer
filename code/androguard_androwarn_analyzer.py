@@ -12,6 +12,9 @@ def analyze(app):
 
     # We open the APK
     apk_path = c.get_apk_path(app)
+    # Here we check if the APK is actually there, otherwise we skip the analysis
+    if(not os.path.exists(apk_path)):
+        return
     a, d, dx = AnalyzeAPK(apk_path)
 
     # Get all the permissions requested by the app

@@ -37,43 +37,46 @@ def get_reviews(app_to_scrape):
 
 
 def crawl_data(app):
+    try:
+        # Tells to the caller that we just downloaded new data
+        is_new_data_available = False
 
-    # Tells to the caller that we just downloaded new data
-    is_new_data_available = False
+        # Download Google Play metadata
+        app_metadata = get_gp_metadata(app)
+        app_latest_version = app_metadata['version']
+        app_suffix_path = app['id'] + c.SEPARATOR + app_latest_version
 
-    # Download Google Play metadata
-    app_metadata = get_gp_metadata(app)
-    app_latest_version = app_metadata['version']
-    app_suffix_path = app['id'] + c.SEPARATOR + app_latest_version
+        # Save the metadata if it is new
+        metadata_path = c.DATA_PATH + app_suffix_path + c.SEPARATOR + 'metadata.json'
+        if(not os.path.exists(metadata_path)):
+            is_new_data_available = True
+            c.save(metadata_path, app_metadata)
 
-    # Save the metadata if it is new
-    metadata_path = c.DATA_PATH + app_suffix_path + c.SEPARATOR + 'metadata.json'
-    if(not os.path.exists(metadata_path)):
-        is_new_data_available = True
-        c.save(metadata_path, app_metadata)
+        # Save the reviews 
+        reviews_path = c.DATA_PATH + app_suffix_path + c.SEPARATOR + 'reviews.json'
+        app_reviews = get_reviews(app)
+        c.save(reviews_path, app_reviews)
+        
+        # Download the APK if it is new
+        apk_path = c.APKS_PATH + app_suffix_path + '.apk'
+        if not os.path.exists(apk_path):
+            if not download_apk(app['id'], apk_path):
+                print('Error while downloading the following app, try to download it manually: ' + app['id'])
+                return False
+            elif not apk_downloader.verify_apk(app['id'], apk_path, app_suffix_path):
+                print('The downloaded APK is not well formed: ' + apk_path)
+                return False
+        
+        app['latest_crawled_version'] = app_latest_version
+        app['latest_crawl'] = int(time.time())
+        
+        # Let's inform the user about whether new data has been crawled
+        if is_new_data_available:
+            print('Crawled new data for: ' + app['id'] + ' - version: ' + app_latest_version)
+        else:
+            print('Already up to date: ' + app['id'] + ' - version: ' + app_latest_version)
 
-    # Save the reviews 
-    reviews_path = c.DATA_PATH + app_suffix_path + c.SEPARATOR + 'reviews.json'
-    app_reviews = get_reviews(app)
-    c.save(reviews_path, app_reviews)
-    
-    # Download the APK if it is new
-    apk_path = c.APKS_PATH + app_suffix_path + '.apk'
-    if not os.path.exists(apk_path):
-        if not download_apk(app['id'], apk_path):
-            print('Error while downloading the following app, try to download it manually: ' + app['id'])
-            exit()
-        elif not apk_downloader.verify_apk(app['id'], apk_path, app_suffix_path):
-            print('The downloaded APK is not well formed: ' + apk_path)
-            exit()
-    
-    app['latest_crawled_version'] = app_latest_version
-    app['latest_crawl'] = int(time.time())
-    
-    # Let's inform the user about whether new data has been crawled
-    if is_new_data_available:
-        print('Crawled new data for: ' + app['id'] + ' - version: ' + app_latest_version)
-    else:
-        print('Already up to date: ' + app['id'] + ' - version: ' + app_latest_version)
-
-    return is_new_data_available
+        return is_new_data_available
+    except:
+        print('It seems like we had some problems in fetching new data for: ' + app['id'] + '. So, we skip it in the analysis.s')
+        return False
