@@ -126,6 +126,8 @@ The Corona Check Screening app has been installed by more than **5000** times. A
 <img src="5_star_reviews_wordcloud.png" alt="com.coronacheck.haugxhaug.testyourcorona 5 reviews"/>
 </p>
 
+> Endlich mal eine seriöse App, welche wissrnschaftlich Fundierte Informationen gibt.<br> :date: __2020-10-16 20:53:54__
+
 > Super app<br> :date: __2020-08-09 18:19:53__
 
 > Praktisch<br> :date: __2020-07-02 14:52:21__
@@ -143,8 +145,6 @@ The Corona Check Screening app has been installed by more than **5000** times. A
 > IRINA LIEBSCHER/29.05.1975<br> :date: __2020-06-14 21:00:05__
 
 > Fragt mit der Zeit höflich zweimal nach, ob der Standort abgefragt werden darf und nach zweimal Fragen ist dann auch gut. Keine weiteren Daten werden abgefragt. Alles i.O.<br> :date: __2020-06-14 20:55:18__
-
-> Tolles Design. Einfache Bedienung. Voll und ganz zufrieden 👍<br> :date: __2020-06-08 16:05:56__
 
 
 

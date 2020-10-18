@@ -147,6 +147,14 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 <img src="5_star_reviews_wordcloud.png" alt="at.roteskreuz.stopcorona 5 reviews"/>
 </p>
 
+> Ich musste die App zum Glück noch verwenden um eine mögliche Infektion zu melden. Ansonsten zuverlässige App, noch kein Problem mit der Aktivierung des Frameworks und der Serverabgleich findet regelmäßig statt. Zu meinen Vorrednern. Bitte die FAQs bzw die Framework-Imfos lesen. Die App zeigt die Kontakte nicht an sondern nur den Abgleich mit dem Server und die Summe der gemeldeten (!) Kontakte (Anzahl der Schlüssel). Ab und zu sollte man sich auch mal informieren!<br> :date: __2020-10-17 22:01:47__
+
+> Super app<br> :date: __2020-10-16 16:17:03__
+
+> Man sollte eine Option haben wo man die app immer aktiv geladen hat. Man muss die app immer wieder starten.das vergesse ich fast immer.<br> :date: __2020-10-15 08:42:19__
+
+> Geht gar nicht. Lässt sich nicht starten, "bleibt ständig hängen "<br> :date: __2020-10-13 12:30:08__
+
 > Ich hab Sehr gute Erfahrungen gemacht . Läuft einwandfrei. Wöchentliche Erinnerungen sind auch super und absolut störend<br> :date: __2020-10-09 19:02:26__
 
 > Funktioniert einfach, macht genau das was es soll und ich muss nicht mitdenken wen ich wann wo getroffen habe. Auch die Erinnerungsfunktion finde essentiell.<br> :date: __2020-10-08 08:06:02__
@@ -159,14 +167,6 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 
 > Meiner Meinung nach werden die umfangreichen Daten, die sich durch Nutzung eines Smart-Phons ergeben, in dieser App unter Wahrung meiner Privat-Sphäre sinnvoll genutzt.<br> :date: __2020-10-05 11:17:03__
 
-> Top App!<br> :date: __2020-10-04 06:08:04__
-
-> Bei mir tut die App was sie soll. Habe regelmäßig Handshakes (wenn ich in der Stadt unterwegs bin). Das Einzige, was ich nicht weiß ist, ob die App auch funktioniert, wenn man mittels Bluetooth mit der Smartwatch verbunden ist? Habe das bereits gegoogled, bin aber nicht schlau draus geworden leider.<br> :date: __2020-10-01 23:03:52__
-
-> Mit der Implementierung einer Schnittstelle im Android Betriebssystem durch Google, scheint die App nun wirklich gut zu funktionieren. Eine Bitte jedoch: in der App sollte man darauf hinweisen, dass die Anzahl der Handshakes nicht mehr dargestellt wird (aufgrund von Datenschutzbestimmungen).<br> :date: __2020-09-30 17:30:24__
-
-> damit fühle ich mich sicherer.<br> :date: __2020-09-27 18:35:29__
-
 
 
 #### 4-star reviews
@@ -174,6 +174,8 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="at.roteskreuz.stopcorona 4 reviews"/>
 </p>
+
+> Super App aber endwarnung geben funktionirt nicht schon 20 mal probiert immer wieder Server fehler<br> :date: __2020-10-14 13:30:24__
 
 > Der einzig vernünftige Weg das Kontakttracing im Fall der Fälle rasch durchzuführen. Darum drauf mit der App!<br> :date: __2020-10-08 20:27:40__
 
@@ -193,8 +195,6 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 
 > Eine Weiterentwicklung wäre das einloggen bei events zusammen mit einer event app. Das würde Veranstaltern und Gästen viel Bürokratie ersparen und anonymisiertes Warnen auch nach zB positiven Fällen bei Fußballspielen ermöglichen. Die Akzeptanz würde sprunghaft ansteigen!<br> :date: __2020-09-01 18:44:55__
 
-> Finde die App sehr sinnvoll. Wünschenswert wäre eine Anzeige der Anzahl der durchgeführten Kopplungen zur Verfolgung der Funktion bzw. Aktivität. Ansonsten gibts "nur" eine wöchentliche Benachrichtigung, dass die App aktiv ist.<br> :date: __2020-08-31 11:11:56__
-
 
 
 #### 3-star reviews
@@ -202,6 +202,10 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="at.roteskreuz.stopcorona 3 reviews"/>
 </p>
+
+> Mein Handy kann keinen Fingerabdruck erkennen, dadurch sehe ich zwar, dass möglicherweise ein Kontakt war. Weitere Infos gibt's aber nur wenn ich mit Fingerabdruck einsteige ☹️<br> :date: __2020-10-15 17:18:00__
+
+> Seit Wochen kein einziger automatischer Kontakt?!? Es werden langsam mehr...<br> :date: __2020-10-13 01:53:52__
 
 > Im Vergleich zur deutschen Corona App ist diese nicht transparent. Mehr Infos für die Benutzer über das aktuelle Risiko wären sinnvoll.<br> :date: __2020-10-08 11:22:22__
 
@@ -219,10 +223,6 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 
 > Es wäre wahrscheinlich sinnvoll, die Symptome feiner zu granulieren. Ich habe Halsweh und keine anderen Symptome gemeldet und wurde für 8 Tage in Quarantäne gesteckt.. bei 1450 wird man mit nur diesem Symptom bestenfalls belächelt.<br> :date: __2020-10-03 10:11:25__
 
-> Wo finde ich den Selbsttest ?<br> :date: __2020-09-28 14:22:30__
-
-> Idee supergut! Aber kann mir jemand erklären wieso die App zur Benachrichtigung GPS braucht und mir aber ganze Zeit erklärt sie funktioniert ja nur mit Bluetooth? Wäre wirklich interessant<br> :date: __2020-09-26 23:06:24__
-
 
 
 #### 2-star reviews
@@ -230,6 +230,10 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="at.roteskreuz.stopcorona 2 reviews"/>
 </p>
+
+> Feature Request: In der Gastronomie als Tracing App verwenden (Österreichweit) Dadurch würde die App auch vom mehr Personen genutzt und würde mehr bringen<br> :date: __2020-10-16 10:37:53__
+
+> Ich arbeite in einem Baumarkt und hab die App den ganzen Tag aktiv. Es werden so einige Kontakte gespeichert. Allerdings fällt mir auf, wenn ich alleine im Aufenthaltsraum bin und die App öffne, wird genau in dieser Minute ein Kontakt gespeichert, obwohl weit und breit keiner ist. Dies melden schon viele Nutzer, leider gibt es hier nie ein Feedback! Warum werden Kontakte 2 Wochen gespeichert wenn nur d Kontakte von den letzten 2 Tagen kontaktiert werden????<br> :date: __2020-10-13 18:44:54__
 
 > Idee gut Umsetzung unbrauchbar. Im privaten Gebrauch für Freunde oder im Supermarkt OK. Wenn Sie die App auch in der Arbeit haben wo auf hohen Schutz der Mitarbeiter geachtet wird ( MNS, Hände waschen und co. Inklusive Test nach Bekanntgabe eines Falles) ist diese App Schrott, da trotzdem alle in Quarantäne müssen die diese App auch verwenden (sie werden Behörden gemeldet)der Rest ist egal .<br> :date: __2020-10-10 09:19:49__
 
@@ -247,10 +251,6 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 
 > Habe mich als Verdachtsfall gemeldet, nach dem negativen Testergebnis wollte ich Entwarnung geben, was nicht ging!<br> :date: __2020-09-14 09:08:07__
 
-> Ich bin jetzt etwas verwirrt_ muss ich jetzt die Standortermittlung einschalten oder nur Bluetooth? Oder hängt das von Mobil Tel. Typ ab, dass nicht alle Handys gleiche Version haben? Bitte um Aufklärung, DANKESCHÖN!<br> :date: __2020-09-08 11:43:07__
-
-> Grundsätzlich halte ich die App für eine gute Idee. Mich stört allerdings, dass ich ständig Bluetooth, GPS und Internet aktiv haben muss, um den gewünschten Erfolg zu haben. Das zerrt am Akku und spätesten nach einem halben Tag ist dieser leer. Jedes Mal aktivieren und deaktivieren nervt. Ehrlich, ich denke nicht bei jedem Einkauf daran, alle Funktionen vorher zu aktivieren. Somit wird es zum ad absurdum.<br> :date: __2020-08-27 20:03:38__
-
 
 
 #### 1-star reviews
@@ -258,6 +258,14 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="at.roteskreuz.stopcorona 1 reviews"/>
 </p>
+
+> Ich bekomme Kontaktmeldungen, obwohl ich mich ganz alleine Zuhause befinde, bzw. nach einer OP im Aufwachraum liege.<br> :date: __2020-10-16 22:13:51__
+
+> Sofort wieder gelöscht!<br> :date: __2020-10-16 11:00:30__
+
+> Es sieht nicht so aus, das der Digitale Handshake einwandfrei funktioniert. In meiner wöchentlichen Zusammenfassung werden Kontakte zu Zeiten angezeigt, zu denen ich sicher allein zu Hause war, aber Kontake die sicher länger als 15 Minuten (Handys Samsung und Iphone lagen nebeneinander) noch nie angezeigt wurden. ( ja beide haben die App installiert). So bringt die App keinen Mehrwert) Schade!<br> :date: __2020-10-13 17:34:00__
+
+> Diese App ist unbrauchbar. In der Zusammenfassung werden mir immer Zeiten von Kontakten angezeigt wo ich zu Hause bin oder mitten in der Nacht beim schlafen.<br> :date: __2020-10-13 12:10:25__
 
 > Völlig unübersichtlich. Keine verständlicbe Erklärung der App. Zum Beispiel finde ich keine Erklärung wie eine Verständigung über einer infizierung erfolgt und was in weiterer Folge zu tun ist. Somit bin ich genau so sicher oder unsicher wie ohne App.<br> :date: __2020-10-10 19:25:04__
 
@@ -270,13 +278,5 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 > Da müsste ich immer Bluetooth eingeschaltet haben und den Standort aktivieren, beides möchte ich nicht, wieder gelöscht.<br> :date: __2020-10-07 18:59:49__
 
 > Selbst 1 Stern ist zuviel... Erlaubter Datenklau...<br> :date: __2020-10-07 08:11:41__
-
-> Die App ist kompletter Schrott. Habe die App auf 2 Handys installiert und beide Handys liegen seit über 2 Tagen nebeneinander. Kein Handshake<br> :date: __2020-10-06 20:44:37__
-
-> Nur eine Frage zur Genauigkeit. Hatte heute am 5ten 3 Überprüfungen. Habe heute niemand getroffen und die Wohnung nicht verlassen. Bin Alleinstehend. Freiwillig ja, kann sinnvoll sein. Die Menschen geben sowieso alles freiwillig Preis. Google, Facebook, Bankomatkarte, Kundenkarten usw. Deshalb sollten viele nicht den Datenschutz anführen. Als Pflicht App Nein, das wäre Diktatur.<br> :date: __2020-10-05 17:12:44__
-
-> Funtioniert nur sporadisch<br> :date: __2020-10-05 14:07:11__
-
-> Update: App mittlerweile gelöscht, nachdem ich täglich mindestens dreimal aufgefordert wurde, zuzulassen, dass meine Kontakte verständigt werden (ich habe eine Infektion gemeldet), und das während der Quarantäne. Ich finde es nicht sinnvoll, dass mein Mann jeden Tag aufs Neue verständigt werden sollte... Die Meldungen kamen auch mitten in der Nacht. Leider völlig unbrauchbar und lästig.<br> :date: __2020-10-05 11:41:11__
 
 

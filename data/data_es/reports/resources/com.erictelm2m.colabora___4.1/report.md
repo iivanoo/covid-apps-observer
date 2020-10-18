@@ -230,6 +230,8 @@ The COVID-19.eus app has been installed by more than **50000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="com.erictelm2m.colabora 1 reviews"/>
 </p>
 
+> Me la acabo de desinstalar, porque yo creo que no funciona, no da noticias relevantes la última 19 de septiembre, donde está la información??? No sube los contactos, lo siento pero no me sirve<br> :date: __2020-10-17 15:51:24__
+
 > Poco intuitiva y dificil de usar Despues de hacer los circulos y dar mi estado de salud no he recibido ninguna notificacion. No se si siguen mis contactos dentro de los circulos..... tampoco tiene mucha difusión, me parece una herramienta muy util pero deberia ser mas facil de usar.<br> :date: __2020-10-03 14:38:34__
 
 > Hola!!! CONSIDERO UNA PERDIDA DE TIEMPO TRADUCIR LA APP DE RADAR COVID ESTATAL SIENDO POSTERIOR A LA DESARROLLADA EN EUSKADI, AQUÍ TENDRÍAMOS QUE USAR COVID-19.EUS QUE ESTABA ANTES Y EN EUSKADI ES LA QUE TENEMOS DESCARGADA HACE TIEMPO😬<br> :date: __2020-09-26 18:53:02__
@@ -247,7 +249,5 @@ The COVID-19.eus app has been installed by more than **50000** times. At this ti
 > Me parece que es manifiestamente mejorable; como las fincas extremeñas y andaluzas, vamos!!!<br> :date: __2020-08-24 16:44:40__
 
 > No me aporta absolutamente nada. No me indica nada de nada. Estoy aislado por tener contacto mi hermana y yo con dos familiares positivos, y me cataloga como infectado a pesar de que no he recibido aún el resultado del pcr, y mi hermana ha dado negativo. Desinstalo y a esperar otra app mejor, que realmente ayude a superar la pandemia.<br> :date: __2020-08-21 18:21:08__
-
-> Si se obligará a instalar por ley sería genial y super útil<br> :date: __2020-08-20 22:34:22__
 
 

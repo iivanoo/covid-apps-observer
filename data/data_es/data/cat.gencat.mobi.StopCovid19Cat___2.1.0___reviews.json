@@ -1,5 +1,29 @@
 [
     {
+        "reviewId": "gp:AOqpTOHJX5YAHHKw4CoFOSPyOvz58EU4qqyu6tAa64LLHSP8_asMezAqVjOa3y0NEjYh4HdpUyKx2rcyJbVDCnM",
+        "userName": "Mundopaleta Gmail",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Ghws-fcfpi5_F2aoAk2lv7i9yK0-64C3seUEEmp",
+        "content": "Entiendo que es \u00fatil a nivel estad\u00edstico y que cuantas m\u00e1s personas la utilicemos mejor se colabora para establecer datos importantes. Lo que no es normal es que cada vez que la he utilizado, 3 o 4 veces desde que se inici\u00f3 el tema, tengas que volver a poner todos los datos y encima si consultas tu historial no hay nada.",
+        "score": 4,
+        "thumbsUpCount": 2,
+        "reviewCreatedVersion": "2.1.0",
+        "at": "2020-10-15 10:28:36",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOE9LJXnFnIHMyCk1USKb2RAe8E3zXZNpJjxWkrZVtptIbjb9a5MCunsCIkvWiZSYc5P80JUxFr1IlDynhI",
+        "userName": "DAVID DIEGO",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiZg3RWKxIujXK0V8f0ZaPqTW-riP3mI37nOs-f",
+        "content": "Soy positivo, tengo sintomas y la app dice que no tengo sintomas. Ser\u00eda mucho mejor que dijera que no tengo sintomas graves y que continue haciendo los test para cuando aparezca algo grave seguir con el procedimiento adecuado. De esta forma al \"no tener sintomas\" pierdo las ganas de hacer el seguimiento de los tests, aunqu\u00e9 tenga los sintomas.",
+        "score": 1,
+        "thumbsUpCount": 3,
+        "reviewCreatedVersion": "2.1.0",
+        "at": "2020-10-13 08:04:14",
+        "replyContent": "Si es positivo y presenta ligeros s\u00edntomas le recomendamos que siga utilizando la app para reportar su estado. Gracias",
+        "repliedAt": "2020-10-13 13:48:48"
+    },
+    {
         "reviewId": "gp:AOqpTOG_YHJStsYVhlaa6kZyNy6shR7DJzOyvocx7RLj6XBygPKfhpl6Zp6SrCi8pfotojcLR4YKV_5OjUzrQNM",
         "userName": "Luis E Cortes",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gj-jDj0UGox6k61B2P2NWmsBSiWOueSlxompYCZtg",
@@ -8,8 +32,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2020-10-07 09:51:33",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Lamentamos su percepci\u00f3n.",
+        "repliedAt": "2020-10-13 13:49:52"
     },
     {
         "reviewId": "gp:AOqpTOGJq1ypJgzuu9FcDtSYb4CBDYHBVY6yPjJmjXeUqGVvcdWozlDLJR3abzCCo6o_v84m70xgWQ4R9VLqczo",
@@ -20,8 +44,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "2.0.3",
         "at": "2020-09-26 16:49:47",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Lamentamos su opini\u00f3n",
+        "repliedAt": "2020-10-13 13:51:02"
     },
     {
         "reviewId": "gp:AOqpTOG6yr0SkmCQ4FabzuzZkWOpttzxvNVIW7Z5asfmeLhWosls4YuSw3FzWtjmR9L_u4qUj68fe3-iywQJVXA",
@@ -32,8 +56,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "2.0.3",
         "at": "2020-09-25 16:36:10",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Gracias por compartir su experiencia con la app.",
+        "repliedAt": "2020-10-13 13:51:28"
     },
     {
         "reviewId": "gp:AOqpTOFbtqWXi2rPxtpTuADwUxl36u2HM62MRdUEgICEp8mguYCGDqAOhYwTT6Kh3K7rFRJyO-JurkS_3BSNcX8",
@@ -125,7 +149,7 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Givie11D4eCzoctOc3zOGVUulTI24dx2282zlTv",
         "content": "Est\u00e1 app no sirve para nada. Despu\u00e9s de estar una semana haciendo el test y dici\u00e9ndome que un profesional se pondr\u00eda en contacto conmigo llam\u00e9 al CAP, y menos mal que me atendieron por tel\u00e9fono y me dijeron de hacer la PCR, porque di positivo, as\u00ed que est\u00e1 app no es de fiar, porque no sirve para nada",
         "score": 1,
-        "thumbsUpCount": 14,
+        "thumbsUpCount": 15,
         "reviewCreatedVersion": "2.0.3",
         "at": "2020-09-08 13:19:36",
         "replyContent": "Enviamos su queja a los responsables de l'app.",
@@ -329,7 +353,7 @@
         "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
         "content": "Es tal in\u00fatil como el servicio del 061. No contactan a trav\u00e9s del app, como imposible hablar a trav\u00e9s del servicio telef\u00f3nico. Es una odisea la espera del 061 en Catalu\u00f1a. Incre\u00edble que este gobierno catal\u00e1n asuma una responsabilidad, acusando al gobierno central de ineptos y la Generalitat son tan in\u00fatiles como est\u00e1 app. Se les va de las manos los contagios y no son capaces de controlar a trav\u00e9s de una aplicaci\u00f3n u otro medio digital los posibles rebrotes del covid-19.",
         "score": 1,
-        "thumbsUpCount": 99,
+        "thumbsUpCount": 101,
         "reviewCreatedVersion": "2.0.3",
         "at": "2020-07-26 11:59:39",
         "replyContent": null,
@@ -968,18 +992,6 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.0.2",
         "at": "2020-05-07 23:55:19",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOHJX5YAHHKw4CoFOSPyOvz58EU4qqyu6tAa64LLHSP8_asMezAqVjOa3y0NEjYh4HdpUyKx2rcyJbVDCnM",
-        "userName": "Mundopaleta Gmail",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Ghws-fcfpi5_F2aoAk2lv7i9yK0-64C3seUEEmp",
-        "content": "Entiendo que es \u00fatil a nivel estad\u00edstico y que cuantas m\u00e1s personas la utilicemos mejor se colabora para establecer datos importantes.",
-        "score": 4,
-        "thumbsUpCount": 2,
-        "reviewCreatedVersion": "1.0.2",
-        "at": "2020-05-05 23:41:38",
         "replyContent": null,
         "repliedAt": null
     },
@@ -3638,7 +3650,7 @@
     {
         "reviewId": "gp:AOqpTOHdDFpGCfeDT0On5g-jI1SsdJ3UrEoqusXHOSyKQO-tphhiL4jEu2GtnqGYNZ2-Rn7RzOVroQezIUXMiC0",
         "userName": "Taha Tito",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gi4u7poxhpwsNyCRK5n5FXhAypdu_LxYS7YL5wD",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gj-OmnV1dsTB-MbbCng94qog0IqjYl975ejAX6mqg",
         "content": "si ya tienes fiebre o tos significa muy tarde estas contaminado ya . para que sirve la app",
         "score": 1,
         "thumbsUpCount": 3,

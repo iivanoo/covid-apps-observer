@@ -198,6 +198,8 @@ The Covidom Patient app has been installed by more than **10000** times. At this
 <img src="2_star_reviews_wordcloud.png" alt="fr.aphp.covidom 2 reviews"/>
 </p>
 
+> Même chose ma date de naissance ne passe pas.Mais déjà au tel une dame de la caisse assurance maladie avait pour moi dans son logiciel 1935 pour ma date de naissance alors que je suis née en 1959...ma fille m a indiquée cas contact en donnant mon tel portable .Elle 24 ans..Si j étais née 1935 je l aurais eue à quel âge? Ça fait peur....bonjour la logistique....<br> :date: __2020-10-16 10:01:11__
+
 > C'est nul on ne peut pas changer la date ni quoi que ce soit pas pratique<br> :date: __2020-08-11 02:13:59__
 
 > Je veux<br> :date: __2020-05-29 16:29:13__
@@ -211,6 +213,10 @@ The Covidom Patient app has been installed by more than **10000** times. At this
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="fr.aphp.covidom 1 reviews"/>
 </p>
+
+> Impossible de me connecter : me demande ma date de naissance pour confirmer et me dit qu'elle ne correspond pas !!!<br> :date: __2020-10-16 13:42:32__
+
+> Le système est très nul on ne comprend rien c'est horrible<br> :date: __2020-10-13 09:58:32__
 
 > Dommage, j ai beau mettre ma date de naissance pour activer , on me répond que ce n est pas la bonne. Du coup on est privé de la aide qui devait nous être proposée concernant le covid<br> :date: __2020-10-09 19:35:30__
 
@@ -227,9 +233,5 @@ The Covidom Patient app has been installed by more than **10000** times. At this
 > Impossible d'avoir une connexion malgré une création d'un comte.<br> :date: __2020-08-14 13:41:35__
 
 > Plante régulièrement et vous déloggue, nécessité de mettre le mdp a chaque fois, fait double emploi avec les SMS et mails qu'on reçoit... cette app ne sert à rien.<br> :date: __2020-08-14 12:40:12__
-
-> Impossible d'activer mon compte. J'ai été en contacte avec une personne positive au COVID-19, on me demande d'activer mon compte en me donnant des identifiants. Je suis bien reconnu, puis on me demande ma date de naissance mais elle s'avère être incorrecte. J'ai essayé sur portable, sur l'appli et sur mon ordinateur rien à faire. Impossible de trouver un numéro ou un contact à qui s'adresser.<br> :date: __2020-08-08 16:42:58__
-
-> Date de naissance fonctionne pas<br> :date: __2020-08-07 12:34:56__
 
 

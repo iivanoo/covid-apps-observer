@@ -160,6 +160,8 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <img src="5_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 5 reviews"/>
 </p>
 
+> Molto utile<br> :date: __2020-10-13 16:41:42__
+
 > Bellissima app<br> :date: __2020-10-10 10:33:43__
 
 > Utile per chi opera in protezione civile<br> :date: __2020-10-02 10:03:56__
@@ -177,8 +179,6 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 > E wtt e<br> :date: __2020-08-15 10:52:10__
 
 > Ok<br> :date: __2020-08-06 18:32:44__
-
-> NEI PRONTO SOCCORSO SON TUTTI RIGOROSI ALLE REGOLE E TI METTONO MOLTO A TUO AGIO GRAZIE A TUTTI X LA COLLABORAZIONEUN ABBRACCIO SEPPUR VIRTUALE<br> :date: __2020-07-31 15:42:15__
 
 
 
@@ -272,6 +272,12 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <img src="1_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 1 reviews"/>
 </p>
 
+> Totalmente inutile, da informazioni che puoi trovare sia sull'app meteo che su Google, consuma spazio per niente<br> :date: __2020-10-17 14:50:34__
+
+> Dopo dopo aver portato pazienza per sei mesi, Devo dire che questa app non serve a nulla. Nulla è consultabile per quanto riguarda le allerte. Ti obbliga ad accettare tutta una serie di privacy ogni volta che viene lanciata e l'unica cosa che puoi fare e compilare il questionario covid. Anche qui un disastro.... Non ti consente di compilare il questionario per te e ti obbliga a farlo per i familiari..per lo stato delle cose la ritengo inutile. Grazie<br> :date: __2020-10-16 10:07:08__
+
+> No comment serve a niente<br> :date: __2020-10-11 21:18:16__
+
 > Semplicemente ridicola....<br> :date: __2020-09-29 10:16:31__
 
 > allerte meteo non aggiornate<br> :date: __2020-08-27 11:37:12__
@@ -285,11 +291,5 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 > Na pir. .<br> :date: __2020-08-16 14:41:43__
 
 > Grande sciocchezza il fatto che non si possano variare determinati dati. Ad esempio, durante il periodo di maggiore virulenza, ho compiuto gli anni. Se non scarichi l'app e poi la ricarichi, rimane fisso il dato degli anni compiuti, così come caricato in origine. Poi le allerte non mi arrivano mai. Sto parlando di fenomeni atmosferici. Nella mia zona, da maggio 2020, ce ne sono stati almeno due. La tengo caricata per campanilismo, ma le applicazioni efficienti sono veramente tutt'altra cosa.<br> :date: __2020-08-14 13:37:08__
-
-> Allerta idro-meteo 8 volte su 10 sono sbagliate.<br> :date: __2020-08-13 12:30:29__
-
-> Non serve perché nel mio cellulare non è un app accettata. Me la fa sparire sempre. Ho un wauawey. P30. Non l'accetta<br> :date: __2020-08-09 13:42:48__
-
-> Sono costretta ad abbandonare AllertaLom perché ogni giorno , per compilare il questionario, devo disinstallare e re-installare l'App. Ora poi non si apre neppure più. Adesso basta.<br> :date: __2020-08-07 19:10:32__
 
 

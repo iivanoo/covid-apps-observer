@@ -1,0 +1,30 @@
+{
+    "permissions": [
+        "android.permission.BLUETOOTH",
+        "android.permission.FOREGROUND_SERVICE",
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.WAKE_LOCK",
+        "android.permission.INTERNET"
+    ],
+    "activities": [
+        "gov.michigan.MiCovidExposure.WebviewActivity",
+        "gov.michigan.MiCovidExposure.home.ExposureNotificationActivity",
+        "gov.michigan.MiCovidExposure.exposure.ExposureLearnMoreActivity",
+        "gov.michigan.MiCovidExposure.notify.NotifyLearnMoreActivity",
+        "gov.michigan.MiCovidExposure.exposure.ExposureAboutActivity",
+        "gov.michigan.MiCovidExposure.notify.ShareDiagnosisActivity",
+        "gov.michigan.MiCovidExposure.debug.MatchingDebugActivity",
+        "gov.michigan.MiCovidExposure.debug.QRScannerActivity",
+        "com.google.android.gms.common.api.GoogleApiActivity"
+    ],
+    "urls": [
+        "http://schemas.android.com/apk/res/android",
+        "https://plus.google.com/",
+        "https://somhmac-53xmcbdutq-uk.a.run.app/certify_hmac",
+        "https://mi-get-api-key-prod-d3ec2fgvuq-uc.a.run.app",
+        "https://logger-dyu6ojodva-uk.a.run.app",
+        "http://schemas.android.com/apk/res-auto",
+        "https://coronavirus.jhu.edu/region/us/michigan"
+    ]
+}

@@ -160,6 +160,8 @@ The OpenWHO app has been installed by more than **1000000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="de.xikolo.openwho 5 reviews"/>
 </p>
 
+> Ouverture<br> :date: __2020-10-15 21:57:46__
+
 > Très spécial WHO<br> :date: __2020-10-03 01:58:38__
 
 > Super cool<br> :date: __2020-09-18 15:30:22__
@@ -177,8 +179,6 @@ The OpenWHO app has been installed by more than **1000000** times. At this time,
 > Meilleurs façons d'apprentissage Merci aux concepteurs<br> :date: __2020-05-22 15:49:15__
 
 > Très intéressant<br> :date: __2020-05-20 21:42:01__
-
-> J'utilise cette application et je l'l'apprécie trop car ça m'arrange bcp pour mes cours en ligne et mes formation afin d'augmenter sur mes performances. C'est vraiment important pour le monde scientifique désireux d'apprendre et pour renforcer nos connaissance.<br> :date: __2020-05-20 05:01:28__
 
 
 

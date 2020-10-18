@@ -185,6 +185,10 @@ The SM_Covid19 app has been installed by more than **50000** times. At this time
 <img src="5_star_reviews_wordcloud.png" alt="it.softmining.projects.covid19.savelifestyle 5 reviews"/>
 </p>
 
+> Eccezionale<br> :date: __2020-10-13 11:33:09__
+
+> Per sapere se qualcuno in casa ha il VIRUS COME faccio a sapere. ?<br> :date: __2020-10-11 16:34:58__
+
 > Molto interessante<br> :date: __2020-10-11 10:26:42__
 
 > E utile e ti da una certa sicurezza oltre a livello di prevenzione anche un a livello psicologico e un ottima applicazione<br> :date: __2020-10-10 23:22:43__
@@ -201,10 +205,6 @@ The SM_Covid19 app has been installed by more than **50000** times. At this time
 
 > Semplice e comoda la puoi disinstallare quando vuoi.<br> :date: __2020-08-11 16:18:18__
 
-> Un piccolo problema su Xiaomi Tutto risolto in un batter d'occhio Bravissimi ora funziona di nuovo che è una meraviglia. Altro che Immuni, questa è una app di tracciamento veramente completa.<br> :date: __2020-08-03 14:36:37__
-
-> Era una ottima app che avevo installato da subito... Purtroppo con i vincoli derivati da immuni sulla geolocalizzaIone obbligatoria è andato tutto a putt... Dopo 2 mesi mi arrendo, ho disinstallato immuni e ora anche questa. Sono convinto sostenitore dell'efficacia delle app per la prevenzione ma anche con la buona batteria del mio xiaomi A1 a volte a ora di cena rimango a piedi, ho capito che a volte qualche altra app (non so quale) attiva il gps e mi scarica il telefono... Peccato...<br> :date: __2020-07-29 19:35:55__
-
 
 
 #### 4-star reviews
@@ -212,6 +212,8 @@ The SM_Covid19 app has been installed by more than **50000** times. At this time
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="it.softmining.projects.covid19.savelifestyle 4 reviews"/>
 </p>
+
+> Ottimo<br> :date: __2020-10-17 20:24:12__
 
 > Buona e facile da usare<br> :date: __2020-10-10 11:21:08__
 
@@ -230,8 +232,6 @@ The SM_Covid19 app has been installed by more than **50000** times. At this time
 > App molto utili<br> :date: __2020-07-01 13:08:36__
 
 > Ottima app. Mi piace moltissimo la possibilità di calcolare l'indice di assembramento. Tuttavia riscontro un problema con le notifiche in quanto mi da sempre zero mentre quando apro l'app c'è il corretto valore.<br> :date: __2020-06-29 14:15:33__
-
-> Ottima ma con l'ultimo aggiornamento, l'applicazione si blocca in modo anomalo. Attendo notizie ho un android 9. Il problema è stato risolto nell'ulteriore aggiornamento. Tutto a posto. Ottima e utile applicazione<br> :date: __2020-06-27 16:36:49__
 
 
 

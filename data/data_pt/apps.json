@@ -3,21 +3,21 @@
         "id": "org.who.infoapp",
         "store_country": "pt",
         "store_lang": "pt",
-        "latest_crawled_version": "2.3.5",
-        "latest_crawl": 1602425209
+        "latest_crawled_version": "3.1",
+        "latest_crawl": 1603015233
     },
     {
         "id": "pt.min_saude.spms.mysns",
         "store_country": "pt",
         "store_lang": "pt",
         "latest_crawled_version": "1.5.0",
-        "latest_crawl": 1602425218
+        "latest_crawl": 1603015279
     },
     {
         "id": "de.xikolo.openwho",
         "store_country": "pt",
         "store_lang": "pt",
         "latest_crawled_version": "3.6",
-        "latest_crawl": 1602425319
+        "latest_crawl": 1603015282
     }
 ]

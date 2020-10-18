@@ -171,7 +171,7 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <img src="5_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 5 reviews"/>
 </p>
 
-> MySNS<br> :date: __2020-10-11 00:52:49__
+> Bom<br> :date: __2020-10-16 10:11:36__
 
 > Fantástica app!<br> :date: __2020-10-10 22:21:19__
 

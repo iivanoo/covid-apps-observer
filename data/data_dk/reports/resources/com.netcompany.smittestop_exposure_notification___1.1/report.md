@@ -204,6 +204,8 @@ The Smittestop app has been installed by more than **100000** times. At this tim
 <img src="3_star_reviews_wordcloud.png" alt="com.netcompany.smittestop_exposure_notification 3 reviews"/>
 </p>
 
+> Intentionen er prisværdig men udførelsen halter: Det lader til at baggrundschecket uprovokeret kan gå i stå. Fylder 3 gange så meget som andre landes tilsvarende apps. Dvs. apps der også benytter Apple/Googles notifikations-system. Ej open-source.<br> :date: __2020-10-17 19:11:41__
+
 > Can i change the language to english?<br> :date: __2020-10-03 21:45:17__
 
 > On my phone, background exposure checks are not regularly performed. Last one was 5 days ago (!), in the past 14 days only 8 checks were made. I suspect this is an API issue rather than an app issue, but it seriously decreases effectiveness of the app. I wonder if it might be possible to add a manual "check now" button.<br> :date: __2020-09-30 19:53:17__
@@ -221,8 +223,6 @@ The Smittestop app has been installed by more than **100000** times. At this tim
 > English version would be useful<br> :date: __2020-08-08 22:15:09__
 
 > My husband's play store is set to the US (unable to change) and we live here in DK. He isn't able to download the app. Why?<br> :date: __2020-08-07 12:04:20__
-
-> Appen fungerer fint, men det er et kæmpe dræn at skulle have Bluetooth aktiveret konstant. Det føles forældet og mit batteris levetid har været stærkt reduceret efter jeg har aktiveret appen hvilket gør at jeg stærkt overvejer om det er det værd.<br> :date: __2020-07-12 13:03:44__
 
 
 

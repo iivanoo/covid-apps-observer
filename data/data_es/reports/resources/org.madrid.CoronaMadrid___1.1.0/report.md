@@ -262,6 +262,10 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="org.madrid.CoronaMadrid 1 reviews"/>
 </p>
 
+> Falta muy mucho por deserrollar<br> :date: __2020-10-15 19:13:45__
+
+> Muy tarde<br> :date: __2020-10-12 20:27:52__
+
 > Imposible indicar la edad. Absurdo.<br> :date: __2020-10-11 14:12:33__
 
 > @plicación pide edad pero no se puede, parece informativa sin actualizar y algo ambigua sin directrices explicitas o eficaces,,, sin datos y pte valorar en próximos días....Parece no se pueden descargar los archivos adjuntos ?... Etc... DE MOMENTO MAL, DA POCA CONFIANZA, AUNQUE MENOS ES NADA.<br> :date: __2020-10-09 19:30:48__
@@ -277,9 +281,5 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 > No es nada útil<br> :date: __2020-09-25 19:58:40__
 
 > No funciona<br> :date: __2020-09-24 21:55:22__
-
-> Di de alta a un familiar y ahora solo puedo hacer su valoración.<br> :date: __2020-09-24 07:57:08__
-
-> No abre<br> :date: __2020-09-22 22:26:58__
 
 

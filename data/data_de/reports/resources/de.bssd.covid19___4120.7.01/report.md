@@ -131,6 +131,12 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="de.bssd.covid19 5 reviews"/>
 </p>
 
+> Bei mir hat alles super funktioniert. Am nächsten Tag die Push-Benachrichtigung bekommen und das Ergebnis war da. Super !!<br> :date: __2020-10-15 08:51:22__
+
+> Die App hat (in meinem Fall) alles getan, was sie tun soll: QR Code gescannt, am nächsten Morgen kam die Push Benachrichtigung mit dem Befund. Alles sehr übersichtlich.<br> :date: __2020-10-13 09:22:48__
+
+> War nach all den negativen Rezensionen skeptisch aber bei mir hat die App super funktioniert - inkl. Push Nachricht innerhalb von 12/18 Stunden. Kurzum: Super App! 🙂<br> :date: __2020-10-13 07:59:37__
+
 > Macht was Sie soll! Binnen 18 h Ergebnis per push Nachricht erhalten!<br> :date: __2020-10-06 12:30:26__
 
 > Ok<br> :date: __2020-10-03 11:44:13__
@@ -145,12 +151,6 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 
 > App funktioniert und macht genau das, was sie soll. Aber eben mehr auch nicht... Ergebnis war nach 36 Stunden da.<br> :date: __2020-09-03 09:01:03__
 
-> Die App hat genau das gemacht was sie sollte...<br> :date: __2020-09-02 13:33:06__
-
-> Bedienung super einfach, man bekommt eine Pushnachricht, sobald das Ergebnis vorliegt. Flughafen KölnBonn, getestet gestern um ca. 16 Uhr, heute gegen 12 das Testergebnis! Innerhalb von 20 Stunden, und natürlich negativ ( aus Split, Kroaten) 🎉<br> :date: __2020-08-28 13:07:41__
-
-> Handhabung sehr einfach,knapp 24 Std.später die Benachrichtigung ,dass das Testergebnis vorliegt. Tolle App!!<br> :date: __2020-08-28 12:57:46__
-
 
 
 #### 4-star reviews
@@ -158,6 +158,8 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="de.bssd.covid19 4 reviews"/>
 </p>
+
+> Die Ergebnisübermittlung hat ganz gut und schnell funktioniert. Kleine Kritikpunkte: Ich fände es toll, wenn noch ein Datum dabei stehen könnte. Auch war ein kleiner Teil des Textes außerhalb des grünen Punktes und ließ sich als weißer Text auf weißem Grund nicht vollständig lesen.<br> :date: __2020-10-15 08:45:39__
 
 > Toll.<br> :date: __2020-09-27 05:56:25__
 
@@ -176,8 +178,6 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 > Eigendlich gut. Testergebnis war ,mit dem verbesserten scanner, nach 2 tagen da. Das schriftliche Ergebnis nach 4 tagen. Nur die Benachrichtigung der App kam dann nach einer Woche. Das ist dann schon komisch.<br> :date: __2020-07-07 09:22:03__
 
 > Binnen weniger als 24h war das Ergebnis da. Kreis Gütersloh zentrale Teststelle. Allerdings ist mir unklar, wie man den Nachweis erbringen kann: Der Name steht nicht dabei.<br> :date: __2020-07-01 09:13:44__
-
-> Ich habe diese App zum Glück noch nicht gebraucht; hatte sie mir nur zur Vorsicht heruntergeladen. Ich hoffe, daß die Testlabore sie auch verwenden, damit sie auch funktioniert.<br> :date: __2020-06-17 12:34:45__
 
 
 
@@ -215,6 +215,8 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 <img src="2_star_reviews_wordcloud.png" alt="de.bssd.covid19 2 reviews"/>
 </p>
 
+> Alles Gut<br> :date: __2020-10-12 16:28:24__
+
 > Der Gedanke dahinter ist gut, doch die App erfüllt nicht mal Ansatzweise ihre Funktion. Ich habe das Gefühl, dass das Backend gar nicht existiert.<br> :date: __2020-09-24 15:18:10__
 
 > Handhabung der App ist leider nicht ganz zuverlässig. Hat aber irgendwie funktioniert. Schade, dass das Ergebniss nicht aus der App an den Arbeitgeber oder das Gesundheitsamt übermittelt werden kann. Der Bezug vom Ergebnis zu den Personendaten ist nicht gegeben.<br> :date: __2020-08-10 13:38:38__
@@ -233,8 +235,6 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 
 > Nur für Abstrich Patienten registrierter. Echt schade.<br> :date: __2020-04-22 00:33:14__
 
-> Warum Qr Code<br> :date: __2020-04-07 14:00:24__
-
 
 
 #### 1-star reviews
@@ -243,24 +243,24 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 <img src="1_star_reviews_wordcloud.png" alt="de.bssd.covid19 1 reviews"/>
 </p>
 
+> Ohne Worte. Scanner funktioniert nicht. Code Eingabe auch nicht möglich. Quasi unbrauchbar. 1 stern ist noch zuviel.<br> :date: __2020-10-17 10:50:15__
+
+> Totaler Müll! Funktioniert weder auf S20 Ultra, noch auf Note 20 plus<br> :date: __2020-10-16 14:31:53__
+
+> Der absolute Mist, nichts funktioniert.<br> :date: __2020-10-16 13:36:26__
+
+> Funktioniert einfach nicht. Auf mehreren Smartphones getestet galaxy s7, redmi note 7, moto Z...<br> :date: __2020-10-14 20:59:46__
+
+> Sowas mutet man seinen Steuerzahlern zu ! Wenn ich als "junger" Mann die App schon nicht ans laufen bekomme, wie sollen die ganzen älteren Menschen ohne Smartphone- Kenntnis das hinkriegen ? Gaaaanz großer Nachholbedarf liebe Programmierer !<br> :date: __2020-10-14 16:49:03__
+
+> Lächerlich,einfach lächerlich, 3 Tage nach dem Test noch immer kein Ergebnis auf der App zu sehen.Man muss hinterher telefonieren wenn man nicht sinnlos in Quarantäne verbleiben will. Dringender Überarbeitungsbedarf der App.<br> :date: __2020-10-13 17:18:40__
+
+> Funktioniert nicht...<br> :date: __2020-10-13 15:21:38__
+
+> Leider nicht funktionsfähig die App. Bitte bessert hier umgehend nach. Es geht um die Gesundheit von uns allen! Aber war wohl die falsche App. Habe nun die labuniq-app. Da geht es.<br> :date: __2020-10-12 22:05:42__
+
 > Hier funktioniert gar nix. QR-Code wird nicht gescannt und die ID kann man auch nicht eingeben<br> :date: __2020-10-10 16:52:22__
 
 > An der App funktioniert mal so garnichts.<br> :date: __2020-10-10 09:43:41__
-
-> Qr scanner schmiert durchgängig ab nach 5 Tagen warten immer noch kein Ergebnis.. Ja dann wohl Quarantäne auf unbestimmte Zeit. Obwohl es hieß nach maximal 72 Stunden liegt das Ergebnis vor...<br> :date: __2020-10-09 23:22:25__
-
-> In dieser app funktioniert fast garnichts. Alles nur über manuelle Eingaben möglich. Nach scannen des Barcodes will er eine Finanzsoftware installieren.<br> :date: __2020-10-09 15:26:31__
-
-> QR Code Scan funktioniert nicht. Keine Hilfetexte.<br> :date: __2020-10-08 21:09:02__
-
-> QR Code Scanner funktioniert nicht. Bei ID Eingabe erscheint kein Tastaturfeld. Leider völlig unbrauchbar<br> :date: __2020-10-08 19:22:20__
-
-> Es ist schon eine Zumutung, mit welch unnützen, weil nicht funktionierenden Tools, man seine wertvolle Zeit verschwenden muss.<br> :date: __2020-10-08 14:47:43__
-
-> Weder der qr scanner, noch die manuelle eingabe funktionieren...total unbrauchbar<br> :date: __2020-10-08 14:11:25__
-
-> Nix funktioniert. Kann weder QR codes scannen, noch manuell den Code eingeben.<br> :date: __2020-10-08 09:32:34__
-
-> Funktioniert auf den Pixel 4a mit Android 11 nicht. Öffnet und schließt sich direkt wieder.<br> :date: __2020-10-07 14:09:31__
 
 

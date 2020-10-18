@@ -145,6 +145,10 @@ The ABTraceTogether app has been installed by more than **50000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="ca.albertahealthservices.contacttracing 5 reviews"/>
 </p>
 
+> Good app, does not drain my battery and provide me with some sort of security that If I am close to someone infected i will know. We all that live in Alberta should use it thanks<br> :date: __2020-10-16 06:19:47__
+
+> Best<br> :date: __2020-10-16 03:49:40__
+
 > I just feel safer in having this app. Thank you...<br> :date: __2020-10-08 05:34:20__
 
 > Track if you come into contact with individuals that have COVID19. This app will notify you if youve been exposed or near someone that has registered that location and time with the government of alberta<br> :date: __2020-10-07 18:48:59__
@@ -160,10 +164,6 @@ The ABTraceTogether app has been installed by more than **50000** times. At this
 > This app gives me comfort that if I become infected, all of those with the app that have been around me will get notified. Nothing leaves my phone unless I get sick and then voluntarily download it. (Watch the video on the website) You are more protected and helping to protect others if you have the app.<br> :date: __2020-10-03 02:25:50__
 
 > Anything that helps reduce R rate.<br> :date: __2020-10-02 00:07:06__
-
-> I have a 3 years old phone & I've had no problem with my battery. When keeping Bluetooth on, in a 12 hour period the battery usage was only 0.7%. My only complaint is that it shows an icon in my status bar regardless if Bluetooth is on or off. Personally I would prefer that the icon only shows when Bluetooth is off. Until we get the National app here at least it's one thing I can do. Who knows when we'll get the National one!?! Hopefully sooner than later!<br> :date: __2020-09-05 04:37:30__
-
-> I like to have the App to protect myself. I feel more confident wherever i go knowing that if iam exposed to the virus i will be informed immediately and that way i can be tested and get the treatment i need. Thank you<br> :date: __2020-09-02 08:15:09__
 
 
 
@@ -257,6 +257,10 @@ The ABTraceTogether app has been installed by more than **50000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="ca.albertahealthservices.contacttracing 1 reviews"/>
 </p>
 
+> What a battery hog. I thought it would be using the same tech as COVID Alert, but maybe not. I have to charge twice a day vs once a day just after installing this app. Uninstalling. COVID Alert is better. Implement that instead. I do not want two apps running (I travel AB, SK, ON for family)<br> :date: __2020-10-16 21:34:53__
+
+> Given 7 digital code to upload data. Space for 6...<br> :date: __2020-10-15 20:19:13__
+
 > No idea what does this do<br> :date: __2020-10-09 05:33:39__
 
 > Never has worked, hopefully it's just the case that there's never an infected person around<br> :date: __2020-10-09 03:14:58__
@@ -272,9 +276,5 @@ The ABTraceTogether app has been installed by more than **50000** times. At this
 > Make the Covid Alert app work in Alberta already.<br> :date: __2020-10-05 19:02:17__
 
 > A Covid tracing app only works if a critical mass of people use it. The federal Covid Alert app has that critical mass, and this app doesn't. Albertans, tell your MLA that we want the federal app enabled in Alberta!<br> :date: __2020-10-03 00:03:19__
-
-> While well intended, this app is useless. First of all it depends on the person with a positive test to voluntarily upload this information. Secondly, shouldn't a person with a positive test be self isolating for 14 days, in which case he/she shouldn't be exposed to anyone. I would be surprised if this app has actually registered exposure to anyone. This app needs more work. I'm uninstalling it.<br> :date: __2020-09-25 06:52:38__
-
-> This app is for the stupidest people ever. You want the government knowing where you are are all the time. Download this app. Oh and don't forget wear your masks...... hahahahha<br> :date: __2020-09-25 00:19:14__
 
 

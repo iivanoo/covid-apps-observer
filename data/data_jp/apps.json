@@ -3,28 +3,28 @@
         "id": "org.who.infoapp",
         "store_country": "jp",
         "store_lang": "jp",
-        "latest_crawled_version": "2.3.5",
-        "latest_crawl": 1602422990
+        "latest_crawled_version": "3.1",
+        "latest_crawl": 1603013158
     },
     {
         "id": "de.xikolo.openwho",
         "store_country": "jp",
         "store_lang": "jp",
         "latest_crawled_version": "3.6",
-        "latest_crawl": 1602423100
+        "latest_crawl": 1603013202
     },
     {
         "id": "jp.co.maff.maffapp",
         "store_country": "jp",
         "store_lang": "jp",
         "latest_crawled_version": "1.0.4",
-        "latest_crawl": 1602423633
+        "latest_crawl": 1603013209
     },
     {
         "id": "jp.go.mhlw.covid19radar",
         "store_country": "jp",
         "store_lang": "jp",
         "latest_crawled_version": "1.1.4",
-        "latest_crawl": 1602423674
+        "latest_crawl": 1603013212
     }
 ]

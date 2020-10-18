@@ -121,6 +121,16 @@ The Covid Trace Nevada app has been installed by more than **10000** times. At t
 <img src="5_star_reviews_wordcloud.png" alt="gov.nv.dhhs.en 5 reviews"/>
 </p>
 
+> Excellent coverage<br> :date: __2020-10-16 08:32:35__
+
+> Seems to be working now. Fascinating concept. It uses bluetooth data to determine if you have been in close proximity to an infected person.<br> :date: __2020-10-16 00:05:20__
+
+> Just installed it without a hitch. Let's hope that enough people use it to make a difference.<br> :date: __2020-10-14 19:33:22__
+
+> good<br> :date: __2020-10-14 02:27:36__
+
+> works great so far<br> :date: __2020-10-12 18:18:49__
+
 > It enabled my covid19 settings, hope people in california use this since there is no app for california<br> :date: __2020-09-27 11:01:37__
 
 > Get the App help Stop the spread of Covid<br> :date: __2020-09-16 20:12:13__
@@ -130,16 +140,6 @@ The Covid Trace Nevada app has been installed by more than **10000** times. At t
 > Good<br> :date: __2020-08-27 22:01:53__
 
 > Simple, small, and easy to use. Thank you.<br> :date: __2020-08-27 05:47:51__
-
-> Just installed and set everything up. Works fine! Hopefully if there are any bugs, they'll be worked out soon. Thank you for providing an extra way for us to try and keep covid from spreading to our loved ones! 💖<br> :date: __2020-08-26 00:53:07__
-
-> 5 stars because this is one of the best smart phone / bluetooth applications anybody has thought of so far. One thing I would like to see are statistics about the number of Bluetooth pairings that the app performed. Installation was without problems for me.<br> :date: __2020-08-25 21:50:35__
-
-> Great idea. This needs to be advertised more!<br> :date: __2020-08-25 19:06:56__
-
-> Had absolutely no issues installing or connecting. Definitely getting others to download.<br> :date: __2020-08-25 14:23:25__
-
-> Installed and set up with no issues. Brilliant idea that I hope catches on and people download.<br> :date: __2020-08-25 07:14:01__
 
 
 
@@ -158,6 +158,8 @@ The Covid Trace Nevada app has been installed by more than **10000** times. At t
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="gov.nv.dhhs.en 3 reviews"/>
 </p>
+
+> No exp. yet- just wondering- if u really want to PREVENT the spread of covid, wouldn't it be better to come up with an app that tracks actual outbreaks/cases, then alert ppl? Or, if I'm going into a high risk area. Let me kno? I'm pretty much buggered if I've already been exposed. Jus sayin<br> :date: __2020-10-14 05:27:02__
 
 > the only reason im downloading this is because it wont let me download some other games<br> :date: __2020-10-02 23:20:13__
 
@@ -199,6 +201,10 @@ The Covid Trace Nevada app has been installed by more than **10000** times. At t
 <img src="1_star_reviews_wordcloud.png" alt="gov.nv.dhhs.en 1 reviews"/>
 </p>
 
+> App installed and loaded fine. It now refuses to refresh from the time it was downloaded and installed. If this app refuses to refresh as it is supposed to, what good does it do me??<br> :date: __2020-10-16 20:09:29__
+
+> Does not update. If it is not updating why have it on my phone. I will use it when its start working.<br> :date: __2020-10-16 04:05:36__
+
 > All Nformations Says Tracng I Would Never Let All Phone Be Trace At All<br> :date: __2020-10-07 01:05:22__
 
 > doesn't tell you anything cause no one is reporting thru the app.<br> :date: __2020-09-30 23:40:48__
@@ -214,9 +220,5 @@ The Covid Trace Nevada app has been installed by more than **10000** times. At t
 > In get started portion before i can use app, it will not respond to CONTINUE button on 3rd page after watching 37 second video. I CAN'T GET PAST THIS. HELP PLEASE.. Using Android 9 from Google play store.<br> :date: __2020-08-26 01:12:32__
 
 > Can't get beyond the continue which is blacked out except for a small clear patch. Another person had the same problem and said the programmer showed him how to get beyond that point. Unfortunately he didn't bother to tell what it was<br> :date: __2020-08-25 22:30:38__
-
-> Once I downloaded it and entered by email mail address and password I got a message something like thanks for your purchase?<br> :date: __2020-08-25 06:08:19__
-
-> Wont install on a Galaxy S20.<br> :date: __2020-08-25 02:09:08__
 
 

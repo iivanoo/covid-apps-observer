@@ -231,6 +231,8 @@ The COCOA - COVID-19 Contact App app has been installed by more than **5000000**
 <img src="1_star_reviews_wordcloud.png" alt="jp.go.mhlw.covid19radar 1 reviews"/>
 </p>
 
+> It does not perform exposure checks no matter what I do. 0 checks in 14 days. I have my Bluetooth on 24/7 and have ensured the app runs in the background.<br> :date: __2020-10-12 07:06:18__
+
 > This app never checks in the background. You need to open it yourself regularly to get notified (look in Google settings to see the history of checks, you can see that it's not checking). このアプリは自動チェックしませんせんです。ユーザーが開かないとつうしんを出さない。<br> :date: __2020-09-30 04:22:58__
 
 > I can't register. It says "network connection error"<br> :date: __2020-09-15 23:34:28__
@@ -248,7 +250,5 @@ The COCOA - COVID-19 Contact App app has been installed by more than **5000000**
 > Triple Useless. A person with Covid-19 has to be tested positive (it's almost impossible to get tested in Japan). Then they have to use the app, register their positive status, keep their phone with them and keep the app running at all times (impractical). Finally, "contact" only counts if you're within 1 meter of such a person for at least 15 minutes at one time (an absurdly narrow definition of risk).<br> :date: __2020-07-17 15:46:18__
 
 > LAME<br> :date: __2020-07-11 23:58:08__
-
-> App me tells me Bluetooth not supported suddenly after a week of using it!!!!!<br> :date: __2020-06-29 20:59:45__
 
 

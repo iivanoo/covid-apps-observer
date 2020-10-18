@@ -136,6 +136,8 @@ The Asistencia COVID-19 app has been installed by more than **100000** times. At
 <img src="5_star_reviews_wordcloud.png" alt="es.gob.asistenciacovid19 5 reviews"/>
 </p>
 
+> A mi me gusta mucho más que una aplicación qué no te preocupes porque tengo la sensación de ser una persona muy sensata y más vale prevenir que curar, según mi COVI-19 lo estoy haciendo bien y yo no arriesgo mí salud habiendo tenido en mi mano el Radar que me avisa si tengo un riesgo a 1m, y alejarme sin arrepentimiento.<br> :date: __2020-10-11 21:17:42__
+
 > Funciona<br> :date: __2020-09-28 14:25:24__
 
 > Como puedo saber si tengo el coronavirus pues no tengo síntomas de coronavirus<br> :date: __2020-09-21 19:32:12__
@@ -153,8 +155,6 @@ The Asistencia COVID-19 app has been installed by more than **100000** times. At
 > Me gusta<br> :date: __2020-08-28 01:13:31__
 
 > Excelente<br> :date: __2020-08-26 10:07:35__
-
-> 5-star para opinar 9⁰ posición de app, ¿obligatoria? y no tiene todas las comunidades autónomas. saludos suerte cultura y gracias<br> :date: __2020-08-25 15:41:11__
 
 
 

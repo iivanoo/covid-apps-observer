@@ -133,6 +133,14 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 <img src="5_star_reviews_wordcloud.png" alt="au.gov.health.covidsafe 5 reviews"/>
 </p>
 
+> No issues with the COVID Safe app since I downloaded it months ago. It just runs in the background hassle free.<br> :date: __2020-10-16 22:20:29__
+
+> Hope it does it's job<br> :date: __2020-10-16 04:20:46__
+
+> 😁<br> :date: __2020-10-14 04:10:13__
+
+> Always working<br> :date: __2020-10-11 20:54:19__
+
 > Necessary App at this time<br> :date: __2020-10-11 15:24:46__
 
 > excellentwork<br> :date: __2020-10-10 01:16:31__
@@ -145,14 +153,6 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 
 > Love the idea great. We need to keep safe and others.<br> :date: __2020-10-01 22:18:24__
 
-> THIS it's the reason our numbers are so low. Want to keep your freedom? Install the app. Nothing to lose. If you're worried about privacy, it records FAR less information from you than Google maps and Facebook<br> :date: __2020-10-01 00:22:06__
-
-> N/A<br> :date: __2020-09-28 02:38:28__
-
-> Ok a guess but a dont think it work's Thank you dean<br> :date: __2020-09-27 11:44:40__
-
-> No.concerns and privacy respected.<br> :date: __2020-09-27 09:41:00__
-
 
 
 #### 4-star reviews
@@ -160,6 +160,10 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="au.gov.health.covidsafe 4 reviews"/>
 </p>
+
+> A Xxxooo io<br> :date: __2020-10-17 00:00:40__
+
+> ⁴is a great way to start your ml and 6th or even more<br> :date: __2020-10-16 07:23:46__
 
 > I7uui 8th is 4hi<br> :date: __2020-10-09 04:23:06__
 
@@ -177,10 +181,6 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 
 > Would be nice if it had a built-in QR reader so it can provide my encrypted details when checking-in to restaurants, so I don't have to give them my personal details.<br> :date: __2020-09-28 02:12:44__
 
-> Its doing its job as intended, wirh only minor rare bluetooth dropouts.<br> :date: __2020-09-26 02:44:33__
-
-> Happy to do my bit to help out with covid management. Having said that my battery usage has gone through the roof since last update. COVIDSafe is at the top of my battery use list by a country mile. Hopefully the update I have done this morning will fix.<br> :date: __2020-09-26 00:03:57__
-
 
 
 #### 3-star reviews
@@ -188,6 +188,18 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="au.gov.health.covidsafe 3 reviews"/>
 </p>
+
+> It's a good idea. However I know several young people who believe that the app could be used to track whether they are breaking COVID restrictions so they won't download. Govt should guarantee noone will be prosecuted based on info from the app. Would increase use.<br> :date: __2020-10-17 05:05:21__
+
+> Chews power :(<br> :date: __2020-10-16 09:42:48__
+
+> No idea what the app actually does. Seems useless so uninstalled. Perhaps if there was information or statistics about successful contact tracing using data collected from the app I would keep it updated.<br> :date: __2020-10-15 00:26:30__
+
+> Not sure that it's working though.<br> :date: __2020-10-13 00:23:58__
+
+> I dislike that it's constantly showing a notification and am concerned that it drains my battery. Are enough people using this app to justify having it installed on my phone? How many people have been contacted as a result of using it?<br> :date: __2020-10-12 11:33:56__
+
+> 57 65cm I I 65cm7the 47cm I have a 5<br> :date: __2020-10-12 06:39:49__
 
 > High battery drain on my galaxy S10<br> :date: __2020-10-09 01:21:00__
 
@@ -197,18 +209,6 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 
 > Initially worked ok but hasn't worked for a few months now. Back working again.<br> :date: __2020-09-26 08:06:08__
 
-> Why is this app always on without having to turn LOCATIONS some phones and not others? Both our phones are same make and mine is newer model, yet I have to manually turn Location on even though I gave given it permission to be on all the time. Why is this?<br> :date: __2020-09-25 12:06:26__
-
-> On screen icon keeps disappering. Keep needing to open app to keep it active<br> :date: __2020-09-23 11:23:51__
-
-> Happy to use but better if app turns on automatically when Bluetooth and GPS is on, shows active case numbers, doesn't require GPS (drains battery).<br> :date: __2020-09-20 03:50:59__
-
-> Is this even worthwhile anymore?<br> :date: __2020-09-16 14:41:22__
-
-> No phone or battery issues on my samsung a5. Would like to see time shortened from 15 minutes to 1 or 2 minutes and warn me when I'm close to someone would be much better so I can move away. Otherwise it's fine. Can't see the point of having it if it waits 15 minutes to say I've been close to someone that's not good.<br> :date: __2020-09-14 00:47:04__
-
-> A,s<br> :date: __2020-09-13 08:18:43__
-
 
 
 #### 2-star reviews
@@ -216,6 +216,14 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="au.gov.health.covidsafe 2 reviews"/>
 </p>
+
+> Does not updated numbers daily<br> :date: __2020-10-16 11:24:08__
+
+> 5.5mm 600mm has 8o9l8y<br> :date: __2020-10-16 07:24:23__
+
+> Be nice if it worked. Despite having the battery optimisation turned off for this app, it keeps coming up "inactive" and telling me to change the setting. I agree and it says active. A few minutes later I get a notification that it's inactive again.<br> :date: __2020-10-15 04:41:05__
+
+> Doesn't tell me if there are cases nearby, which would be the most important thing it could do. Who cares about the number of cases , I can get that info on the news.<br> :date: __2020-10-12 14:11:12__
 
 > Recent updates are draining the battery. It consumes more than YouTube every day, even watching a few videos. Fix it or people will end up uninstalling. And do we need to be 15mins with someone infected to get infected? Should be reduced to 3 or 5 mins. Otherwise useless.<br> :date: __2020-10-11 11:30:26__
 
@@ -229,14 +237,6 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 
 > Frequently find the app has shut itself down significantly reducing any benefit it's use may offer in my situation.<br> :date: __2020-10-04 04:42:46__
 
-> Was running fine for months then, I'm thinking at last update, it kept turning my Location on and draining my battery. I looked into the app and it is not active due to Location turned off. Before I only had to have "Location Permission" turned on for this app... Not the overall location. Not going to turn the Loaction on. I will just leave it inactive. These systems won't work if they're not usable.<br> :date: __2020-10-03 13:13:25__
-
-> Anything to combat Covid-19. However has a high battery drainage: 30 to 40% of total consumption of device.<br> :date: __2020-10-03 07:26:03__
-
-> There should be an option to exit this app, when at home. It consumes battery unnecessarily, when the Bluetooth and location is turned off. You should understand there are people out there who do not enable location and Bluetooth unnecessarily, when not in use. I have to stop this app everytime when at home.<br> :date: __2020-10-03 06:48:17__
-
-> Well its ok and all its just 2 major problems. 1 absolutely battery drainer 2 absloute data drainer<br> :date: __2020-09-30 06:23:11__
-
 
 
 #### 1-star reviews
@@ -245,24 +245,24 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 <img src="1_star_reviews_wordcloud.png" alt="au.gov.health.covidsafe 1 reviews"/>
 </p>
 
-> Deleted as now requires location to be on. Used to work with Bluetooth only, but can't have location on constantly. Will download again if they fix<br> :date: __2020-10-11 14:18:30__
+> Absolutely useless<br> :date: __2020-10-18 11:42:32__
 
-> battery waister<br> :date: __2020-10-11 13:13:28__
+> Last update is draining my battery. Today 39%. Uninstalling it now. Rubbish.<br> :date: __2020-10-17 14:36:21__
 
-> It tracis you every location stop it<br> :date: __2020-10-10 13:37:47__
+> Never worked<br> :date: __2020-10-17 12:14:16__
 
-> Has anyone heard that this ever worked?<br> :date: __2020-10-10 07:29:09__
+> Ever since installing this i can't connect to my bluetooth speakers and stuff.. thats fun -_-<br> :date: __2020-10-16 07:29:12__
 
-> Unreliable app. Keep crashing even with Bluetooth and gps turned on. Using Pixel 2 XL in Android 11<br> :date: __2020-10-10 03:17:36__
+> Bug -User cant registet with phone number. Note:Phone number from any country regions.<br> :date: __2020-10-16 06:54:37__
 
-> ... . ♧. ♧ . . . Haha<br> :date: __2020-10-10 00:38:23__
+> I'm a supporter of the concept but have serious doubts about the utility of this implementation. I've not heard of any positive track and trace outcomes in months. At the same time the current version now drains my battery at about twice the rate of all my other apps combined. The government now has a short time to show cause why this app should be retained, otherwise I plan to uninstall.<br> :date: __2020-10-16 03:49:36__
 
-> Ll<br> :date: __2020-10-09 23:30:38__
+> A total power hog. Uses more power than any other app, and I don't know why.<br> :date: __2020-10-15 14:45:48__
 
-> Useless<br> :date: __2020-10-09 22:16:18__
+> Bro it didnt even work. The free indi game made by two men in a 3rd world country could function better than this. Like really?<br> :date: __2020-10-15 12:59:39__
 
-> 27% battery use in 1 day !<br> :date: __2020-10-08 10:31:41__
+> I have had bluetooth connection issues since installing this app, which I can deal with, but over the past couple of months it has started using ridiculous amounts of battery (like 80% of battery used up in 4 hours!) - the app isn't much use if it is going to kill my phone before I can get home.<br> :date: __2020-10-15 10:41:56__
 
-> It stops working; turns itself off! 🤬<br> :date: __2020-10-08 08:10:00__
+> Useless.Keeps turning off.<br> :date: __2020-10-15 07:44:48__
 
 

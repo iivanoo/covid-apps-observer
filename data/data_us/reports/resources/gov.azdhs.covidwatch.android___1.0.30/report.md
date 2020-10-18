@@ -188,6 +188,8 @@ The Covid Watch Arizona app has been installed by more than **1000** times. At t
 <img src="1_star_reviews_wordcloud.png" alt="gov.azdhs.covidwatch.android 1 reviews"/>
 </p>
 
+> How do I know it is working? Ghe help section has way to many choices. I think I'd be there for hours and still not get help.<br> :date: __2020-10-12 18:48:01__
+
 > Apparently, it's not available in for most of Arizona even if the menu lists Arizona along with two university systems. You need to be upfront about this. What "region" am I in and what "local" officials are you waiting for permission from?<br> :date: __2020-09-05 21:40:37__
 
 

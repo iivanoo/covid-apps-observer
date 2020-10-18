@@ -163,6 +163,16 @@ The Coronika - Dein Corona Tagebuch app has been installed by more than **10000*
 <img src="5_star_reviews_wordcloud.png" alt="de.kreativzirkel.coronika 5 reviews"/>
 </p>
 
+> sehr sinnvolle App, einfach zu bedienen :) Hilfreich wären noch Funktionen wie eine Verknüpfung mit Standortdaten / Einträgen bei Google Maps, eine (später) editierbare Ortserfassung mit Anfang-Ende-Funktion ("start-stop") mittels einfachem Touch sowie eine freiwillige Klassifizierung der Kontakte in z. B. "Abstand zu gering / kein MNS" etc. und eine Notizfunktion zum jeweiligen Eintrag. Vielleicht können auch Geschäfte / Lokale einen QR-Code zur (gegenseitigen) einfachen Erfassung generieren?<br> :date: __2020-10-17 16:05:55__
+
+> Es ist wirklich einfach zu bedienen und man muss keine Zugriffsberechtigungen geben (kann man aber). - Ohne Zugriffsberechtigungen schreibt man Namen selbst rein - mit Zugriffsberechtigungen kann man Kontakte auswählen und zusätzlich selbst reinschreiben Easy Bleibt gesund<br> :date: __2020-10-17 09:25:19__
+
+> Gute Idee. Leicht zu bedienen. Orte und Kontakte sind mit wenigen Schritten dokumentiert.<br> :date: __2020-10-16 22:12:37__
+
+> Super Idee. Helft mit Menschen und Wirtschaft zu schützen. Danke!<br> :date: __2020-10-16 15:17:14__
+
+> Die Idee hinter der App ist sehr gut und scheint auch mehr oder weniger die einzige derartige App zu sein. Spontan habe ich noch zwei Verbesserungsvorschläge: 1. Dark Mode wäre sehr gut und 2. Muss ich bei Orten die Uhrzeit immer zwei Mal eintragen bzw. Bestätigen. Ist jetzt beides aber nichts weltbewegendes.<br> :date: __2020-10-11 15:16:58__
+
 > Schön, wenn man das findet, was man sucht. Ich hätte mir gewünscht, dass dies gleich in der Corona Warn App integriert ist.<br> :date: __2020-10-09 20:37:51__
 
 > Mit Corona Warn App starkes Duo gegen covid19! Eingabe der Orte/Personen super und wenige Touch im Positiv-Fall, mit dem Export-PDF eine perfekte Vorlage für Mail an die Gesundheitsbehörden zur Kontaktverfolgung zu haben. Im "Prinzip" nicht anders als Block und Stift, aber hier um Längen bequemer und deutlich schneller mit fertigem Export-PDF. Deshalb 5⭐von mir👍 PDF-Sortierung der Orte-Liste nach Datum absteigend und Personen >14Tg in der Personenliste nach unten wäre noch übersichtlicher.<br> :date: __2020-09-27 10:04:29__
@@ -173,16 +183,6 @@ The Coronika - Dein Corona Tagebuch app has been installed by more than **10000*
 
 > Als Tagebuch sehr gut.<br> :date: __2020-08-15 14:01:57__
 
-> Gute, einfache App. Vielen Dank, dass ihr das umgesetzt habt und anbietet! Kann man Spenden? Ich finde es genau richtig. Schnell, datensicher und einfach. Und liebe Rezessenten, Ideen kann man viele generieren. Aber technisch und organisatorisch umsetzen ist eine andere Sache...man kann nicht die ganze Welt kurz mal eben in eine App packen... Würde mir noch ein Widget/Shortcut zum direkten hinzufügen wünschen.<br> :date: __2020-08-06 09:13:55__
-
-> Funktioniert bei mir einwandfrei. Scheint datensparsam zu sein. Es wird zugesagt, dass die Daten nur lokal gespeichert werden. Wenn das stimmt, dann ist die app prima.<br> :date: __2020-07-22 05:54:35__
-
-> Es Hilft und Unterstützt den Überblick zu behalten.<br> :date: __2020-07-09 20:07:05__
-
-> Gute App, leicht zu handhaben<br> :date: __2020-06-25 10:16:17__
-
-> Ich nutze die App nun schon eine Weile. Es ist schön, dass kein tracking oder tracing notwendig ist. Natürlich bedarf es einer größeren Disziplin während oder am Ende des Tages alle Aktivitäten und Kontakte einzutragen. Gerade habe ich mir das aktuelle Update heruntergeladen und hoffe, dass man an der einen oder anderen Stelle Korrekturen vornehmen kann.<br> :date: __2020-06-18 11:15:16__
-
 
 
 #### 4-star reviews
@@ -190,6 +190,10 @@ The Coronika - Dein Corona Tagebuch app has been installed by more than **10000*
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="de.kreativzirkel.coronika 4 reviews"/>
 </p>
+
+> Es ist relativ schnell möglich, neue Werte einzutragen. Aber der Import von Personen aus den Kontakten sollte wieder rūckgängig gemacht werden können - einzeln oder komplett löschen!<br> :date: __2020-10-16 15:02:11__
+
+> Nach etwas Eingewöhnung und Datenpflege gut zu bedienen. Arbeitet stellenweise etwas langsam. LEIDER FEHLT DER 30.07.20 im Tagebuch! (Fehler hoffentlich behoben)<br> :date: __2020-10-16 09:26:08__
 
 > Toll gemacht. Was aber fehlt: Urzeit BIS bei Orten fehlt, um den Zeitraum einzugrenzen. Kann das noch ergänzt werden?<br> :date: __2020-08-17 10:55:18__
 
@@ -207,10 +211,6 @@ The Coronika - Dein Corona Tagebuch app has been installed by more than **10000*
 
 > Wäre gut wenn man die Ansicht in Wochen aufteilen könnte... ansonsten einfach und simpel<br> :date: __2020-05-07 22:57:54__
 
-> App ist einfach zu bedienen (wenn man den Dreh raus hat 😉). Schön, dass die Einträge bei mir bleiben und nicht automatisch irgendwo landen. Zwei Wünsche hätte ich: 1. Es wäre schön, wenn man Gruppen auswählen könnte (z.B. schätzt man, dass 20 weitere Kunden auch im Geschäft waren). Momentan sieht es so aus, als wäre nur 1 Person außer mir dort gewesen. 2. Kontakte aus dem Import lassen sich nicht löschen (brauche z.B. nicht den ADAC in der Liste). Wäre schön, wenn man die auch “wischen“ könnte.<br> :date: __2020-04-19 22:22:06__
-
-> Mehrere EU Sprachen wäre supi Bei Zeitangabe wäre gut z.B. ganztägig, vormittags, nachmittags<br> :date: __2020-04-17 21:53:37__
-
 
 
 #### 3-star reviews
@@ -218,6 +218,12 @@ The Coronika - Dein Corona Tagebuch app has been installed by more than **10000*
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="de.kreativzirkel.coronika 3 reviews"/>
 </p>
+
+> Gute Idee aber warum muss ich denn immer eine Nummer für einen Ort hinterlegen? Ich wollte zb eine U-Bahn Linie als Ort eintragen und MUSS eine Nummer angeben. Reicht nicht der Ort, Tag und Zeit? Und der Rest ist optional.<br> :date: __2020-10-17 01:19:14__
+
+> An sich gute Idee. Reagiert leider (noch) recht langsam. Außerdem hätte ich meinem Tag gerne lieber chronologisch geordnet als alphabetisch. Hoffe, das wird bald umgestellt. Es ginge auch schneller, wenn ich die Uhrzeit einfach eintippen könnte anstatt auf der Uhr jeden Zeiger extra einzustellen.<br> :date: __2020-10-17 00:00:03__
+
+> Grundsätzlich gutes Tool. 2 Dinge: Wie schaffe ich es, die in meinem Kontaktdaten vorhandene Telefonnummer zu integrieren? Beim Versuch, zu exportieren, wird nur der Standardtext angezeigt, keine Datenbankeinträge.<br> :date: __2020-10-13 18:04:46__
 
 > Die APP hat einige Schwächen. Die UI reagiert nur sehr verzögert auf die Eingaben. Das macht die Nutzung unheimlich zäh. Die Zuordnung von Orten und Personen ist mir nicht sofort klar. Die grüne Farbe stellt mit dem hellen Hintergrund einen starken Kontrast dar, was bei längerer Nutzung ermüdend wirkt.<br> :date: __2020-09-25 07:39:10__
 
@@ -232,12 +238,6 @@ The Coronika - Dein Corona Tagebuch app has been installed by more than **10000*
 > 50/50<br> :date: __2020-04-20 22:24:07__
 
 > Da ich im Krankenhaus arbeite, kann ich schlecht die Mengen an Personen eintragen, mit denen ich Kontakt habe und hatte. Muss erst mal schauen ob dieses Programm für mich einsetzbar ist.<br> :date: __2020-04-15 15:41:27__
-
-> tut seinen Zweck gut gemacht aber leider beim automatischen hinzufügen von Personen manche Kontakte doppelt Freue mich auf neue Updates<br> :date: __2020-04-14 09:39:00__
-
-> Siht gut aus dir app jest kann ich auch noch keine Person angeben ich selber wurde noch nicht getestet<br> :date: __2020-04-09 23:29:02__
-
-> Nette Idee, aber zu umständlich. Wieso kann ich nicht per GPS Orte in meiner Gegend auswählen, wie es bei Google Maps und einigen anderen Apps funktioniert? Was nutzt es mir, wenn ich einen Ort manuell benennen muss und nicht einmal gespeichert wird, wo sich dieser befindet? Optimal wäre ein durchgehendes Tracking. Man könnte dann an bestimmten Stellen anklicken, dass man dort "in Kontakt" war, von wann bis wann und wem man dort begegnet ist. Noch fortschrittlicher - und durchaus machbar - wäre es, wenn die App erkennt, ob man im Auto oder zu Fuß unterwegs ist und bei Fußwegen die Strecke als "potenzieller Kontaktbereich" gespeichert wird. Kontakte sollte man nachträglich ergänzen können und das Ganze sollte anklickbar auf einer Karte dargestellt werden. So würde auch das Problem mit Paketzustellern gelöst.<br> :date: __2020-04-02 14:42:31__
 
 
 
@@ -275,6 +275,8 @@ The Coronika - Dein Corona Tagebuch app has been installed by more than **10000*
 <img src="1_star_reviews_wordcloud.png" alt="de.kreativzirkel.coronika 1 reviews"/>
 </p>
 
+> Konfus, lässt sich nicht eindeutig bedienen, einfach nur nervig und ich habe nach 10 Minuten aufgegeben, etwas eintragen zu wollen.<br> :date: __2020-10-17 21:41:31__
+
 > Hauptsache auf den Corona Zug aufspringen<br> :date: __2020-09-21 13:59:39__
 
 > Die App läuft inzwischen sehr langsam und die Eingabe ist eine echte Geduldsprobe. Überlege, die Nutzung einzustellen.<br> :date: __2020-09-13 23:20:12__
@@ -282,8 +284,6 @@ The Coronika - Dein Corona Tagebuch app has been installed by more than **10000*
 > Nach dem letzten update sind alle Daten weg!<br> :date: __2020-08-30 18:54:24__
 
 > Nicht so der Hit. Aus meiner Sicht nutzlos, weil nicht genug mitmachen werden.<br> :date: __2020-08-14 12:23:31__
-
-> Nach etwas Eingewöhnung und Datenpflege gut zu bedienen. Arbeitet stellenweise etwas langsam. LEIDER FEHLT DER 30.07.20 im Tagebuch!<br> :date: __2020-08-08 02:19:35__
 
 > App lässt sich trotz x-facher Versuche nicht installieren, weder auf aktuellem Mi noch auf älterem iPhone.<br> :date: __2020-06-21 09:46:22__
 

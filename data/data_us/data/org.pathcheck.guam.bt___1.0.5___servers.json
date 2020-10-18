@@ -1,0 +1,91 @@
+[
+    {
+        "name": "bugsnag.com",
+        "registrar": "Gandi SAS",
+        "registrant": "Bugsnag Inc.",
+        "registrar_country": "",
+        "registrant_country": "GB",
+        "creation_date": "2011-08-18 03:26:10",
+        "expiration_date": "2027-08-18 03:26:10",
+        "last_updated": null,
+        "status": "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+        "statuses": [
+            "",
+            "clientTransferProhibited http://www.icann.org/epp#clientTransferProhibited",
+            "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+        ],
+        "name_servers": "{'ns-1240.awsdns-27.org', 'ns-1651.awsdns-14.co.uk', 'name', 'ns-974.awsdns-57.net', 'ns-311.awsdns-38.com'}"
+    },
+    {
+        "name": "android.com",
+        "registrar": "MarkMonitor Inc.",
+        "registrant": "Google LLC",
+        "registrar_country": "",
+        "registrant_country": "US",
+        "creation_date": "1997-06-23 04:00:00",
+        "expiration_date": "2021-06-22 04:00:00",
+        "last_updated": null,
+        "status": "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+        "statuses": [
+            "serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)",
+            "clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)",
+            "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+            "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+            "serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)",
+            "clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)",
+            "clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)",
+            "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited",
+            "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited",
+            "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+            "serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)",
+            "serverTransferProhibited https://icann.org/epp#serverTransferProhibited"
+        ],
+        "name_servers": "{'ns4.google.com', 'ns2.google.com', 'ns1.google.com', 'ns3.google.com'}"
+    },
+    {
+        "name": "google.com",
+        "registrar": "MarkMonitor Inc.",
+        "registrant": "Google LLC",
+        "registrar_country": "",
+        "registrant_country": "US",
+        "creation_date": "1997-09-15 04:00:00",
+        "expiration_date": "2028-09-14 04:00:00",
+        "last_updated": null,
+        "status": "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+        "statuses": [
+            "serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)",
+            "clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)",
+            "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+            "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+            "serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)",
+            "clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)",
+            "clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)",
+            "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited",
+            "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited",
+            "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+            "serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)",
+            "serverTransferProhibited https://icann.org/epp#serverTransferProhibited"
+        ],
+        "name_servers": "{'ns4.google.com', 'ns2.google.com', 'ns1.google.com', 'ns3.google.com'}"
+    },
+    {
+        "name": "github.com",
+        "registrar": "MarkMonitor Inc.",
+        "registrant": "GitHub, Inc.",
+        "registrar_country": "",
+        "registrant_country": "US",
+        "creation_date": "2007-10-09 18:20:50",
+        "expiration_date": "2022-10-09 18:20:50",
+        "last_updated": null,
+        "status": "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+        "statuses": [
+            "clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)",
+            "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+            "clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)",
+            "clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)",
+            "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited",
+            "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited"
+        ],
+        "name_servers": "{'dns4.p08.nsone.net', 'dns3.p08.nsone.net', 'dns2.p08.nsone.net', 'ns-421.awsdns-52.com', 'ns-1283.awsdns-32.org', 'ns-1707.awsdns-21.co.uk', 'dns1.p08.nsone.net', 'ns-520.awsdns-01.net'}"
+    }
+]

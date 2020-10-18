@@ -142,6 +142,8 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 <img src="5_star_reviews_wordcloud.png" alt="de.rki.coronadatenspende 5 reviews"/>
 </p>
 
+> Läuft unauffällig mit meinem Huawei und der Fitbit Uhr mit. Kann keine Probleme melden. Selbst ein Telefonwechsel ging problemlos.<br> :date: __2020-10-12 09:27:26__
+
 > Prima, endlich geht's auch mit Samsung Health! 178 Tage Datenspende 💪<br> :date: __2020-10-06 23:47:07__
 
 > Funktioniert gut<br> :date: __2020-10-06 23:11:09__
@@ -155,8 +157,6 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 > Eine sehr sinnvolle Sache!<br> :date: __2020-10-06 20:08:21__
 
 > 6.10.20 Update, funktioniert wieder. 2.10.20 Update. Nach Wechsel auf LineageOS und root funktioniert die App nicht mehr. Schade. War Unterstützer seit Anfang an. Sehr gerne unterstütze ich dieses Projekt. Das verbinden mit Google fit funktioniert inzwischen. Die Daten können über mein Mii-Band. Vielen Dank an die Entwickler.<br> :date: __2020-10-06 18:57:21__
-
-> Läuft unauffällig mit meinem Huawei und der Fitbit Uhr mit. Kann keine Probleme melden<br> :date: __2020-09-30 18:47:54__
 
 > Funktioniert tadellos. Hoffe, daß die übersandten Daten eine Hilfe sind.<br> :date: __2020-09-28 05:26:37__
 
@@ -226,6 +226,8 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 <img src="2_star_reviews_wordcloud.png" alt="de.rki.coronadatenspende 2 reviews"/>
 </p>
 
+> Hab die App fast seit dem Erscheinungstag auf meinem Handy. Am Anfang hat er mir die Übertragung - in Tagen - angezeigt, bei 122 Tagen blieb die App dann stehen. Ich kann nirgends etwas dazu einstellen oder sehen, ob Daten übertragen werden. Der einzigste Bezugspunkt war immer die Anzahl der angezeigten Tage... ich hab die App daher gelöscht...<br> :date: __2020-10-15 17:33:40__
+
 > Keine aktuellen Ergebnisse, immer noch closed source... Ich hätte erwartet dass da nach den vielen Monaten die es die App jetzt gibt Schritte hin zu mehr Transparenz unternommen werden<br> :date: __2020-10-09 09:19:49__
 
 > Gute Idee, tolles Projekt, aber warum wird nach wochenlanger Nutzung nur 1 gespendeter Tag angezeigt. Schade, denn die Tagesanzahl ist das einzige, was der Nutzer als Feedback erhält, und wenn diese Anzeige nicht funktioniert, ist man schnell demotiviert und will am liebsten aufhören. Liebes RKI, lest ihr eigentlich die vielen Kommentare diesbezüglich? Ihr verspielt glaub ich gerade so einiges Vertrauen - wär das nicht total sinnlos? Ich drücke dennoch dem Projekt weiter die Daumen.<br> :date: __2020-09-03 09:32:29__
@@ -244,8 +246,6 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 
 > Ich würde gerne helfen, aber Samsung Health wird nicht angeboten. Sobald das klappt, mache ich mit. Nachfrage: wann wird endlich Samsung Health implementiert?<br> :date: __2020-07-21 23:58:16__
 
-> Die Installation der App sowie die Verknüpfung zu Fitbit hat funktioniert, sogar nach dem Handywechsel problemlos.... anfangs ... denn nach einiger Zeit fing die Anzahl der gespendeten Tage wieder bei 0 an zu zählen. Ich weiß auch nicht, wie und wo ich meine Daten einsehen kann bzw. die Postleitzahl ändern könnte.<br> :date: __2020-07-06 21:28:31__
-
 
 
 #### 1-star reviews
@@ -253,6 +253,10 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="de.rki.coronadatenspende 1 reviews"/>
 </p>
+
+> Kein huawei watch Unterstützung<br> :date: __2020-10-16 21:44:18__
+
+> Der nächste Beweis für unnütze Apps ... Nix funktioniert und egal ob anonym oder sonstwas ... wie können zb Schlafdaten und Puls dabei helfen eine Infektion zu erkennen ? Gar nicht und dazu muss ich kein Mediziner sein ... Warum integriert man diese funktionen nicht direkt in die Warn App als feature ? Oder würde das nochmal 60Mio kosten ... ? Sorry Leute aber ihr versaut es euch mit den vertrauen der bürgers ... Kurzum Datenkrake die alles aufsaugt und speichert mehr nicht<br> :date: __2020-10-14 03:22:43__
 
 > Musste mich erneut anmelden. Also wurden vermutlich seit einiger Zeit keine Daten mehr übertragen. Verstehe aber eh nicht wofür diese App noch nützliche sein soll. Kann man wohl löschen.<br> :date: __2020-10-08 20:59:21__
 
@@ -269,9 +273,5 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 > Gute Idee, aber ich habe festgestellt das seit Tagen nicht mehr gezählt wird. Bitte beheben, damit es wieder funktioniert.<br> :date: __2020-09-20 18:56:38__
 
 > Problem ist eine smartwatch von huawei mit der App zu verbinden bin enttäuscht. Kann leider die puls Daten somit nicht zur Verfügung stellen.<br> :date: __2020-09-18 01:18:25__
-
-> Samsung ist nicht unterstützt<br> :date: __2020-09-17 14:56:47__
-
-> Wenn nicht einmal die Tage richtig gezählt werden, wie kann ich mich dann auf die anderen Daten verlassen? Werde diese App nicht mehr nutzen.<br> :date: __2020-09-16 18:18:12__
 
 

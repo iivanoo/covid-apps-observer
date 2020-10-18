@@ -1,11 +1,23 @@
 [
     {
+        "reviewId": "gp:AOqpTOFH1Z7FCe2DZ12sEywhg4Z2pnHVvDXwHdkCwm4ANenlOzt1zB7kFZofstmaU4d7elNImkw81UndZ368gw",
+        "userName": "Julius F.",
+        "userImage": "https://play-lh.googleusercontent.com/-E0SyAmnlRkA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucneDXEqWNTtpySBVI9SQNE_PV7x8A/photo.jpg",
+        "content": "Endlich mal eine seri\u00f6se App, welche wissrnschaftlich Fundierte Informationen gibt.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.1",
+        "at": "2020-10-16 20:53:54",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOEWsHXdYtKjbP13m8OSaguFwZlMmWmepjhtdlwVn7-VD3HKZCnYNJLrtIj6wtKQP4QAZafik66tCs2mLQ",
         "userName": "Thomas Jaeger",
         "userImage": "https://play-lh.googleusercontent.com/-zByKwa19P4k/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmUylx6oEUCOUucxciJVvYv8Bup6g/photo.jpg",
         "content": "Die App ist soweit ganz gut, aber noch Verbesserungsf\u00e4hig. Ich finde irgendwas fehlt noch; wei\u00df aber noch nicht was. Ich gebe f\u00fcr den Anfang erst mal 3Sterne von 5. Ansonsten alles Super.",
         "score": 3,
-        "thumbsUpCount": 5,
+        "thumbsUpCount": 7,
         "reviewCreatedVersion": "1.1",
         "at": "2020-08-28 21:53:02",
         "replyContent": null,
@@ -29,7 +41,7 @@
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiYeu8OW_88CYHFoM_nGdhgzHpVv-zNycEyWErR",
         "content": "Hut ab. Hier werden auch die restlichen 3% der \u00e4lteren Android-Versionen bedient, die SAP und Konsorten nicht bedienen m\u00f6chte. Mag es an Akkuleistung oder \u00e4hnlichem liegen. Egal, das Teil hier l\u00e4uft.",
         "score": 4,
-        "thumbsUpCount": 7,
+        "thumbsUpCount": 9,
         "reviewCreatedVersion": "1.1",
         "at": "2020-08-07 03:36:35",
         "replyContent": null,
@@ -278,7 +290,7 @@
     {
         "reviewId": "gp:AOqpTOFHkpHU4j-5TCLxQN575Ve7p4RdPwM57R8V42esdutnOkJ3lmZFVh7cv0hTgGTkbFWQRu3G2nkLFz4PXQ",
         "userName": "Julian",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgQFY-zgXI3aQApU68ZiWjQXLav1pn4nf5SjFCT",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjnhVtHRzHMrN9pSKZJVdWV8qZXb_J5QF8YNh2z",
         "content": "Gab noch keine Bewertung mir 2 Sternen",
         "score": 2,
         "thumbsUpCount": 7,
@@ -398,7 +410,7 @@
     {
         "reviewId": "gp:AOqpTOF2BGAO0FsSBgbMsD3pB-I5fpuhAhb74TpoYmhVoh_7keszSAdu4Gp28igSAGIEExpY2tNIf_zG0Kt5PA",
         "userName": "Akel",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gh8_2IwGzeY5yiw24nJGEsTjkIJgzvCItruh3trQFQ",
+        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Ghw9wqv3YGPI3uWS8N_mxj9qCwaiImprcABjMy4Yy0",
         "content": "selten so gelacht...was soll dieses sinnlose Machwerk?...ich hab denen mit sinnlosen Angaben die Taschen voll gehauen und diese komische App deinstalliert...",
         "score": 1,
         "thumbsUpCount": 30,

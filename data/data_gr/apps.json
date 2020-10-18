@@ -3,14 +3,14 @@
         "id": "org.who.infoapp",
         "store_country": "gr",
         "store_lang": "gr",
-        "latest_crawled_version": "2.3.5",
-        "latest_crawl": 1602421991
+        "latest_crawled_version": "3.1",
+        "latest_crawl": 1603012420
     },
     {
         "id": "de.xikolo.openwho",
         "store_country": "gr",
         "store_lang": "gr",
         "latest_crawled_version": "3.6",
-        "latest_crawl": 1602422096
+        "latest_crawl": 1603012464
     }
 ]

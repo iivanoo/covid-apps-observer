@@ -179,10 +179,12 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 #### 4-star reviews
 
 <p align="center">
-
+<img src="4_star_reviews_wordcloud.png" alt="de.xikolo.openwho 4 reviews"/>
 </p>
 
-No recent reviews available with 4 stars.
+> Oke<br> :date: __2020-10-17 08:51:29__
+
+
 
 #### 3-star reviews
 

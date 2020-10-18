@@ -141,6 +141,10 @@ The LAZIOdrCovid app has been installed by more than **100000** times. At this t
 <img src="5_star_reviews_wordcloud.png" alt="com.intellicare.covid 5 reviews"/>
 </p>
 
+> App veramente chiara e immediata. Semplicissima da utilizzare<br> :date: __2020-10-12 08:58:04__
+
+> Scaricate tutti l'app.<br> :date: __2020-10-11 20:22:25__
+
 > Ottimo<br> :date: __2020-09-24 18:06:50__
 
 > Ottima esperienza<br> :date: __2020-08-27 21:59:14__
@@ -156,10 +160,6 @@ The LAZIOdrCovid app has been installed by more than **100000** times. At this t
 > Efficace<br> :date: __2020-08-15 20:15:43__
 
 > Buoni<br> :date: __2020-06-18 15:11:38__
-
-> La salute prima di tutto.<br> :date: __2020-06-17 12:27:22__
-
-> Ottimo<br> :date: __2020-05-11 12:02:38__
 
 
 
@@ -253,6 +253,10 @@ The LAZIOdrCovid app has been installed by more than **100000** times. At this t
 <img src="1_star_reviews_wordcloud.png" alt="com.intellicare.covid 1 reviews"/>
 </p>
 
+> non mi fa nemmeno accedere. In 40 minuti non arriva mai l'sms (il numero è scritto bene ho controllato più volte) per accedervi e non riesce nemmeno a trovare il mio codice fiscale<br> :date: __2020-10-15 12:30:22__
+
+> App inutile. Mi dice che non ho un medico curante associato e invece ne ho uno ovviamente. Quindi non posso contattarlo. Boh.<br> :date: __2020-10-11 17:38:27__
+
 > Come riportato in altre recensioni di altri utenti è fumo negli occhi. Contattato il medico.....nessuna risposta. Qualcuno dovrebbe dare delle spiegazioni.<br> :date: __2020-10-08 13:29:23__
 
 > Non serve a un c... Avolo! Test inutile. Non risponde nessuno ai contatta... Che senso ha?<br> :date: __2020-10-06 21:06:08__
@@ -268,9 +272,5 @@ The LAZIOdrCovid app has been installed by more than **100000** times. At this t
 > Il medico non ha mai risposto e le altre funzioni non danno alcun valore aggiunto. Chissà se qualcuno riceve i dati e li lavora veramente.<br> :date: __2020-09-05 09:20:39__
 
 > Scaricata ma non si apre. A cosa serve?<br> :date: __2020-09-01 03:26:16__
-
-> Nella fase di installazione è comparsa la richiesta di dati riguardante modalità di pagamento e la richiesta di fornire a tal fine i dati di uno strumento bancario ( carta di credito etc.) ..?? Procedendo nell'installazione viene richiesto di acconsentire all'installazione di kukies e l'accesso a tutti i file multimediali dell'apparecchio su cui sto eseguendo l'installazione. Perché? Per questa ragione non ho completato l'installazione.<br> :date: __2020-08-31 10:12:35__
-
-> Dopo l'ultimo aggiornamento, non si avvia più perché dice di aggiornare all'ultima versione! Ridicola questa app, penosa è dir poco<br> :date: __2020-08-30 20:39:53__
 
 

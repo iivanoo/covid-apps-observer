@@ -1,5 +1,17 @@
 [
     {
+        "reviewId": "gp:AOqpTOFCly1Jub_v_hx3WqPtLuXL6mDQocAjPyRjN5P8MAm_4MLZto3rZtZyiCP3R6gvQ1R6O4h3Yn-VCnuzPA",
+        "userName": "julen julen",
+        "userImage": "https://play-lh.googleusercontent.com/-62pUL90gyxQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmQdkHPQ-vn1cdoA0gcJnnfRpcVqg/photo.jpg",
+        "content": "Me la acabo de desinstalar, porque yo creo que no funciona, no da noticias relevantes la \u00faltima 19 de septiembre, donde est\u00e1 la informaci\u00f3n??? No sube los contactos, lo siento pero no me sirve",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2020-10-17 15:51:24",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOGVP4d2llVGZzEQx6MGfQP1zaKWS8uW_mQRL8_Np3gH4XaXXtLXgfFwWTBkeAZeBGC9f40uBO04Kdz-iw",
         "userName": "Luis Plaza",
         "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gh6mYYexy_JDMtrjQy5IzjFZCuKJ1V91GZs3q2B0iA",
@@ -629,7 +641,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-Pip2ReRmN8g/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm6sJcPfiLcU_L37sffq4FadcbKJw/photo.jpg",
         "content": "Desde ayer no funciona. Dice que la sesi\u00f3n ha expirado y que la desinstale y la vuelva a instalar. A pesar de haberlo hecho varias veces no funciona. Por otro lado, a la hora de a\u00f1adir personas a los c\u00edrculos deber\u00eda dar la posibilidad de a\u00f1adirlos sin tel\u00e9fono puesto que si son personas mayores seguramente o tienen un m\u00f3vil o no tienen ninguno; y por otro lado, es posible que la gente de mis c\u00edrculos no quiera que le lleguen notificaciones para instalar la app.",
         "score": 2,
-        "thumbsUpCount": 41,
+        "thumbsUpCount": 42,
         "reviewCreatedVersion": "3.0",
         "at": "2020-06-28 18:03:44",
         "replyContent": null,
@@ -1834,18 +1846,6 @@
         "at": "2020-04-26 02:29:52",
         "replyContent": "Muchas gracias por su opini\u00f3n.",
         "repliedAt": "2020-05-27 13:09:40"
-    },
-    {
-        "reviewId": "gp:AOqpTOGruprObjx3nuB_Y8vQBvWxdwC83daT34lZKU3k1TFoJmM8YGy0h-7eQ3_hKiRqkdG0ezsZS4sY8JW-JQ",
-        "userName": "Juan Carlos Uriarte",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiFbd0bVE7XE8pkE_J9Bg9Wfj8YHLpYgjb6r7Zbw5E",
-        "content": "Pr\u00e1cticamente no sirve de nada si no permite importar la agenda. La idea es buena.",
-        "score": 2,
-        "thumbsUpCount": 1,
-        "reviewCreatedVersion": "2.1",
-        "at": "2020-04-25 19:31:50",
-        "replyContent": "Hola, la agenda se permite consultar, pero la importaci\u00f3n masiva es una l\u00ednea que no vamos a pasar, ya que significar\u00eda recopilar la agenda de todos los usuarios.",
-        "repliedAt": "2020-06-05 12:38:40"
     },
     {
         "reviewId": "gp:AOqpTOGBRHxtPjpzw7yQK8-37LCgRdg0pzWEYVUocoPtGTEl2YNiHIjQt6vP2FZ1p8H6l6VJHL6LRZKNiEkL1g",

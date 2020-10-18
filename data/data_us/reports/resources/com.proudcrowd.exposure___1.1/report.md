@@ -194,6 +194,10 @@ No recent reviews available with 2 stars.
 <img src="1_star_reviews_wordcloud.png" alt="com.proudcrowd.exposure 1 reviews"/>
 </p>
 
+> Communism is the very definition of failure.<br> :date: __2020-10-18 02:42:54__
+
+> Poop<br> :date: __2020-10-17 03:20:45__
+
 > I didnt open it at all<br> :date: __2020-10-07 01:07:10__
 
 > I see my review got deleted. Here is my thoughts. I have to turn off and on wifi with bluetooth all the time for a chance for this app to work and log. Please allow the app to control Bluetooth and notify when it isnt truly working and option to turn on and off bluetooth automatically for it to work. Simple programing and still not working right.<br> :date: __2020-10-06 16:32:34__

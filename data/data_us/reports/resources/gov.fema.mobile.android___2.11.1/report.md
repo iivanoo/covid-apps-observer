@@ -165,6 +165,14 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 <img src="5_star_reviews_wordcloud.png" alt="gov.fema.mobile.android 5 reviews"/>
 </p>
 
+> Great app👍👍👍<br> :date: __2020-10-16 05:52:04__
+
+> Convenient, very informative, quick acting app<br> :date: __2020-10-13 16:56:52__
+
+> Good 👍 keep phone where on all time. It will follow you.<br> :date: __2020-10-12 01:23:15__
+
+> Helpin the helpless<br> :date: __2020-10-11 20:32:21__
+
 > Great information to keep current of the situations.<br> :date: __2020-10-08 22:32:16__
 
 > This is a good app.<br> :date: __2020-10-01 05:48:25__
@@ -176,14 +184,6 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 > Very easy to use. Self explanatory App. Everything is basically right there on the App.<br> :date: __2020-09-19 17:10:52__
 
 > Thanks for your help<br> :date: __2020-09-12 20:50:16__
-
-> Love it!! Can check on family around the country and in different counties. If you set you phone to do not disturb, make sure to tell the do not disturb app that these messages are allowed. If you lower power saving level on android phones the app does not alert you.<br> :date: __2020-09-08 16:04:30__
-
-> A must if you live at the coast!<br> :date: __2020-08-29 16:11:21__
-
-> Good info<br> :date: __2020-08-19 06:16:24__
-
-> Government<br> :date: __2020-08-19 00:15:04__
 
 
 

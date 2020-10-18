@@ -148,6 +148,8 @@ The Covid Alert DE app has been installed by more than **5000** times. At this t
 <img src="5_star_reviews_wordcloud.png" alt="gov.de.covidtracker 5 reviews"/>
 </p>
 
+> Thanks a lot<br> :date: __2020-10-13 20:47:18__
+
 > Good 👍<br> :date: __2020-10-11 03:57:19__
 
 > I think this is a good idea maybe it will help figure out areas that need more help to battle this mess. Stay safe all!<br> :date: __2020-10-08 20:30:51__
@@ -169,10 +171,12 @@ The Covid Alert DE app has been installed by more than **5000** times. At this t
 #### 4-star reviews
 
 <p align="center">
-
+<img src="4_star_reviews_wordcloud.png" alt="gov.de.covidtracker 4 reviews"/>
 </p>
 
-No recent reviews available with 4 stars.
+> This is a great app but the problem is that more residents of delaware need to download the app. Also most of the time only 1000 people check in. I removed it, until more people sign up and report every day.<br> :date: __2020-10-12 00:38:27__
+
+
 
 #### 3-star reviews
 
