@@ -140,25 +140,25 @@ The NHS COVID-19 app has been installed by more than **5000000** times. At this 
 <img src="5_star_reviews_wordcloud.png" alt="uk.nhs.covid19.production 5 reviews"/>
 </p>
 
-> Alright, I mean it does the job but they could of added a scan thing where you scan you and tell if you have Covid but everything else is alright you should really get this app in my opinion Make sure to stay safe guys🤧☺<br> :date: __2020-10-18 10:45:23__
+> Looks good, hope others use it too. Might be slightly late...<br> :date: __2020-10-24 08:41:26__
 
-> Working as it should! No complaints from me 🤔<br> :date: __2020-10-18 10:35:21__
+> A weapon to win the war against SARS-CoV-2<br> :date: __2020-10-24 01:29:31__
 
-> On a personal basis, I dont see any affect. However, in the overall picture I am sure the app is helping me and my family, so, well done.<br> :date: __2020-10-18 10:32:59__
+> How do you check the exposure<br> :date: __2020-10-24 00:43:27__
 
-> Good<br> :date: __2020-10-18 10:32:08__
+> So far so good<br> :date: __2020-10-24 00:16:56__
 
-> GREAT ALERT 4 COVID-19 APP<br> :date: __2020-10-18 10:12:26__
+> Good , no sorry. Excellent 👌 work 👍 so far so good. Proud (VERY) and so you should be. My nephew passed away, few months back, big family so ? Not everyone could attend :-(. Via video-link which I personally could not take. Please keep up the good work, promise.<br> :date: __2020-10-23 23:11:59__
 
-> Very easy to use wherever there is a NHS COVID19 track and trace sign in.<br> :date: __2020-10-18 10:11:31__
+> Brilliant idea & it keep Family & Friends Safe 😊👍<br> :date: __2020-10-23 22:34:42__
 
-> I think the app is very good I've had no problems at all until it first came out 100%<br> :date: __2020-10-18 09:31:40__
+> very good initiative by NHS<br> :date: __2020-10-23 21:04:57__
 
-> Effective<br> :date: __2020-10-18 08:48:53__
+> As far as I'm concerned the app is doing its job and I am glad that I have loaded it on a number of units.<br> :date: __2020-10-23 19:44:49__
 
-> Good<br> :date: __2020-10-18 07:44:50__
+> very handy for quick entry!<br> :date: __2020-10-23 19:40:40__
 
-> SAVE LIVES AND DOWNLOAD THIS APP - SO SIMPLE YET ANONYMOUS<br> :date: __2020-10-18 04:44:19__
+> works forme<br> :date: __2020-10-23 19:18:12__
 
 
 
@@ -168,25 +168,25 @@ The NHS COVID-19 app has been installed by more than **5000000** times. At this 
 <img src="4_star_reviews_wordcloud.png" alt="uk.nhs.covid19.production 4 reviews"/>
 </p>
 
-> I had to change my screen width settings on my phone to not be classed as a tablet, so not a 5-star review, but otherwise a decent system. I love how when Google tells you someone who you passed in the street now has tested +ve, the app now sends a second notification saying that the NHS are aware and they don't consider it as a close enough contact. It really reassures me that the makers of the app care about getting it right, and are doing more than the bare minimum as some devs could.<br> :date: __2020-10-18 03:59:27__
+> looking ok to me 👍<br> :date: __2020-10-24 08:21:43__
 
-> Needs past notification button, I've accidentally swiped notifications by accident so would be helpful if there was a place for them to come through and stay on the app with time /date to help pin point exsposure<br> :date: __2020-10-18 03:30:40__
+> always feel safe here<br> :date: __2020-10-23 18:54:26__
 
-> Hi I think it's great but I got a notification saying I've been exposed to covid-19 and am wondering if I should isolate or not and how do I get the notification up in the app to show me when the app has scanned.<br> :date: __2020-10-18 03:29:37__
+> Good up to now<br> :date: __2020-10-23 15:36:13__
 
-> small issue my battery died and needed to be recharged. app stated i have. to remain isolated until tonight 23.00 hrs now states im fine. not had test results yet. ill still remain isolated but for how much longer i dont know. Single and need to shop as have pets that need food. to.<br> :date: __2020-10-18 02:59:07__
+> Doesn't background properly in all situations. better than nothing.<br> :date: __2020-10-23 15:23:11__
 
-> odd hitch but important to have<br> :date: __2020-10-17 21:59:17__
+> The qr scan thing works, couldn't say about what else it's supposed to do<br> :date: __2020-10-23 15:18:19__
 
-> Good app, simple to use. However feel it would be better if location automatically updated, as I often forget to change my postcode/don't know the postcode. Would also be good if location would link to information on rules for that area.<br> :date: __2020-10-17 21:21:37__
+> Ok so far. Only had it over a week. Live nr Elephant and Castle SE1. No hiccups. Doing it's job flashing away, scans ok. 👍<br> :date: __2020-10-23 14:35:26__
 
-> Generally pretty good and easy to use. No noticable battery drain. Only issue is the isolation count down. I tested positive on a Saturday (result received following Tuesday) but the 10 day countdown started on the Tuesday, not Saturday as guidelines would suggest. And I checked my account. This gives Saturday as 1st day of isolation So there appears to be a significant fault with the App which just adds to confusion.<br> :date: __2020-10-17 19:43:25__
+> Wish we could input more than one postcode as i stay with my boyfriend for a week each month and he lives under a different council so i cant input his postcode.<br> :date: __2020-10-23 12:54:48__
 
-> works well but had no notifications yet so can't comment on effectiveness<br> :date: __2020-10-17 18:10:16__
+> Had a notification come up went to read and it disappeared, now can't find out what it said. Thank you for the update.<br> :date: __2020-10-23 11:01:31__
 
-> good location helpful staff<br> :date: __2020-10-17 17:25:26__
+> Was not accepted at Blenheim palace today, had to download the Llber track and trace app to be be allowed in. Update just been down to Exeter and Torquay, the QR code posters displayed at many shops/hotels etc scanned in quickly, doubly useful as we have a list of places we visted on holiday.<br> :date: __2020-10-23 10:06:09__
 
-> Not able to change location if I move.<br> :date: __2020-10-17 17:15:00__
+> It would be really good if the notifications received were stored so that we could refer back to them with their date and time. Now as soon as you click on the push notifications they're gone, you're only redirected to the app.<br> :date: __2020-10-22 22:26:42__
 
 
 
@@ -196,25 +196,25 @@ The NHS COVID-19 app has been installed by more than **5000000** times. At this 
 <img src="3_star_reviews_wordcloud.png" alt="uk.nhs.covid19.production 3 reviews"/>
 </p>
 
-> No longer opens after 14th Oct update. Google pixel 4a<br> :date: __2020-10-18 10:19:00__
+> Update 24th October I've reinstalled the app and it is now not crashing. I will review the stability throughout the week and see if the bug comes back. If it doesn't, I'll update the review to 5*. Kudos to the dev team👍 Keeps crashing when the app opens. It was previously working. I'll update this review every week to keep people informed about whether bug have been fixed/issue resolved. Every time I'll uninstall it and then reinstall. As of 21st of October the issue is still happening.<br> :date: __2020-10-24 09:39:35__
 
-> There should be an inbox for notifications. the pop up messages disappear and it is difficult to read them immediately.<br> :date: __2020-10-18 10:09:53__
+> Get a possible exposure risk message then another saying risk assessment says ok nothing to worry about. How about checking risk first then send relevant message<br> :date: __2020-10-24 09:31:14__
 
-> The level in my area is shown as different to the government website!!! When / can this be corrected?<br> :date: __2020-10-18 09:32:11__
+> Could not use any of my other apps. Too big for my phone.<br> :date: __2020-10-24 09:08:27__
 
-> It is an OK app, but it would be better if you could see the notifications again. Once you've clicked off you can't see what it said. This morning I had one that said you've been in close contact, but don't worry. I clicked on the notification and it vanished and now I can't find it to read it properly.<br> :date: __2020-10-18 09:14:19__
+> This app NEEDS a check-out option to say you have left a site that you have checked into! To investigate, the time everyone LEAVES a venue, as well as the time they arrive, would save a LOT of unnecessary work! I don't want a legal responsibility to isolate because someone, who checked in after I have left a venue, tests positive! I suppose I can deinstall. Without a check-out feature, how will Track and Trace know whether I had left before the person who tested positive arrived or not?<br> :date: __2020-10-23 22:42:05__
 
-> The sort of person who is selfish enough not to self isolate when needed to isn't likely to of bothered with downloading and using this app. Quite then why you've revealed that you'll share info with the police is beyond me. All you've done is hurt the success of the app and give the tin foil hat wearers an energy boost.<br> :date: __2020-10-18 08:47:45__
+> App is good ish but notifications are a nightmare as u cant open to read them and they dont always come though as have on two phones in the house<br> :date: __2020-10-23 22:26:56__
 
-> Crashing on launch after last update.<br> :date: __2020-10-18 01:40:59__
+> Difficult to configure Android mobile to enable QR code scanning. Installation should enable by default. Check in to location in low light does not work because app does not switch on the mobile camera's flash.<br> :date: __2020-10-23 21:18:09__
 
-> I'm a bit confused how so much money has been spent on this app. When you get a notification saying you may have been in contact, you click on it and it disappears. Its really unclear. Could do with a guide/key for all the different notifications you may get. I mean we were taught in primary school always make a guide/key for data someone other than yourself has to use.<br> :date: __2020-10-18 00:17:00__
+> I've had test in June was negative but didn't get a code<br> :date: __2020-10-23 20:38:42__
 
-> means to an end<br> :date: __2020-10-17 23:12:44__
+> All items relating to information and links are inaccessable. Each one has a square and a small arrow pointing out from it, when pressed nothing happens.<br> :date: __2020-10-23 20:20:36__
 
-> I mean, I've got it and everything but it's not downloaded any exposure data since Sept 25th so not quite sure how useful it's being for me. Turned off battery optimisation and made sure exposure notifications and Bluetooth is on. Not sure how much more manual fiddling of my Android settings will feel productive.<br> :date: __2020-10-17 22:58:30__
+> Good app ,So far ,<br> :date: __2020-10-23 19:37:53__
 
-> When you install the app and when you try to set it up, it says you have to be over 16 to use the app. Why do you think is that?<br> :date: __2020-10-17 22:49:46__
+> The app works, but it stops a load of other apps working properly, such as Hiya, SystmOnline and Airmid UK. Probably not a Bluetooth issue, as other Bluetooth apps don't do this. Then, after about ten minutes, it goes on to block all WiFi access and mobile data access, even though they both still show as "on" and "connected". It's frustrating that I can't use this app and NHS hospital WiFi at the same time. But then again, when did any two parts of the NHS ever work together seamlessly?<br> :date: __2020-10-23 19:24:17__
 
 
 
@@ -224,25 +224,25 @@ The NHS COVID-19 app has been installed by more than **5000000** times. At this 
 <img src="2_star_reviews_wordcloud.png" alt="uk.nhs.covid19.production 2 reviews"/>
 </p>
 
-> Downloaded app but was unimpressed not as good as I was expecting app deleted<br> :date: __2020-10-18 10:43:24__
+> You get alerts come up on your phone, yet they aren't stored on the app and you can't read them. When you click on them to read the whole msg they just vanish.<br> :date: __2020-10-24 09:41:12__
 
-> Pointless When you work on itu caring for confirmed cases of covid and the app still doesn't notify you it's obvious there is a serious flaw somewhere.<br> :date: __2020-10-18 10:27:28__
+> Not that great keep getting messages then go off before even have time to read them pretty much seems a waste of time<br> :date: __2020-10-24 01:04:01__
 
-> Not too happy about having to have bluetooth switched on all the time.<br> :date: __2020-10-18 10:26:32__
+> I'd like to be able to read the notifications in the app<br> :date: __2020-10-23 20:01:24__
 
-> So how long does it take the app to notify you of exposure as I woke this morning to a notification, so unless someone broke in last night, exposed me and left, is this an error? Also when i clicked to read notification, it just disappeared and took me to the app. So I have no idea if I have been exposed or not. Should maybe include a way to read past notifications in the app.<br> :date: __2020-10-18 10:25:57__
+> Important message flashes, you touch it to read and it goes. Just flashed "someone tested positive clo" and I couldnt read the whole thing?<br> :date: __2020-10-23 19:45:24__
 
-> Not really that good. I keep receiving notifications telling me I've come in contact with someone that has Covid but there's no information in the app. I receive this notification 4-5 times a day, sometimes at 3/4 am.<br> :date: __2020-10-18 10:17:20__
+> Seems to check at random times, even with bluetooth turned off. Noticed more battery drain than usual. More useful to see area risk than anything else, unfortunately.<br> :date: __2020-10-23 19:13:20__
 
-> I know there are replies from the department of health to these reviews with regard to the disappearing "potential exposure" pop up, but surely this is fixable by the app developers? I had one of these and only managed to read the first three words before it disappeared for good, leaving me and family in a state of confused shock.<br> :date: __2020-10-18 10:14:09__
+> Pathetic. When an alery comes in there is no where to read it! I warning message appears in the top notification area, you click on it and it opens the app but there is nowhere for messages! The first few words say don't worry, you have been near somebody.... but what, somebody with Covington? If so where, when? Would be nice to know so I don't go back to that area! Rubbish at keeping you informed<br> :date: __2020-10-23 18:33:16__
 
-> The False messages about exposure are becoming annoying, both on mine and partners mobile<br> :date: __2020-10-18 09:16:24__
+> I've received two notifications about a possible close contact with someone tested positive. The notification says that my data (date, time of exposure) has been saved but I'm not able to see this data neither on the notification nor inside the application. I think its important to see that info to know if it was a real contact, when it happens or if its a neighbour, but there is no way to do it. Also, I always go out with my boyfriend, never alone and he has not received any notification<br> :date: __2020-10-23 17:17:50__
 
-> Fails to scan QR code as I just get a blank screen, wife gets a message telling her where she has checked in. Have reinstalled once and still have same problem.<br> :date: __2020-10-18 09:15:59__
+> Its OK. But I don't understand why there isn't an option to log when you leave a venue. It appears if I enter somewhere it logs me till midnight or until I log on somewhere else?<br> :date: __2020-10-23 17:05:26__
 
-> Still getting notifications of exposure followed immediately by ones saying 'don't worry...', implying it's not actually a correct warning. Absolutely fundamental error, no idea how this made it through QA.<br> :date: __2020-10-18 05:28:21__
+> Fesperately needs to show notifications on the app itself including a history of when near someone with symptoms. I had 2 notifications within the last 24hrs and because I tapped on them they've disappeared before I had a chance to finish reading them. Please look to add this asap<br> :date: __2020-10-23 16:17:20__
 
-> The idea is good. I hope a lot of people will use it. HOWEVER I don't want to find out that I have been exposed to it from a notification which disappears as soon as you click on it and the app doesn't say anything about it. When? Where? How long? If there is nothing I can or should do about it, why notify me? If there is something I can or should do, then tell me in the app. This just worries me and offers no answers or advice.<br> :date: __2020-10-18 03:53:41__
+> I appreciate it exists, but this program is far, from perfect. Similar to others, I received the infamous "potential covid exposure" alert, followed by the NHS app telling me that I'm ok, don't worry - and that's it. No extra info, not even a log about the alerts. I know that in the background, on the system level, the tracing works by collecting Bluetooth ids (MAC addresses, probably) from other devices, but this mean what if I'm in a traffic jam, I'll pick up the people around me, regardless of being fairly well shielded from the rest. Apparently the first notification - the exposure one - comes from the system level whenever it makes makes a match against the encountered vs the downloaded and known to be sick database - and sends the alert immediate. The NHS app then dives into the data, and checks the potential distance and exposure time; if it's bad, the app will tell you to self-isolate; if not, you'll get nothing, but another notification, that practically says "false alarm, you're ok". Recommendations to the engineers: - clicks on any of the notifications should take the user to a log of events - these events should have a timestamp at least and, if recorded, a location, about when and where the exposure might have happened - information on why the NHS app decided that this potential exposure is not a risk Without these it's very easy to get stressed and frightened.<br> :date: __2020-10-23 16:14:29__
 
 
 
@@ -252,24 +252,24 @@ The NHS COVID-19 app has been installed by more than **5000000** times. At this 
 <img src="1_star_reviews_wordcloud.png" alt="uk.nhs.covid19.production 1 reviews"/>
 </p>
 
-> Was good until they decided to share information with the police. No longer respects your privacy. Uninstalled.<br> :date: __2020-10-18 10:57:52__
+> Notifications dissapear before you have chance to read; no log or record<br> :date: __2020-10-24 09:42:36__
 
-> Not allowing you to change your Postcode. Once entered it will not change. And if you go somewhere else it doesn't tell you where you are. GPS not working at all. Not showing if am home or at work<br> :date: __2020-10-18 10:49:47__
+> Same as others notifications to say exposure, when you click them they vanish. Nowhere in the app to find this information. It's pointless at best!<br> :date: __2020-10-24 09:39:16__
 
-> Message disappeared when trying to open.<br> :date: __2020-10-18 10:38:34__
+> Got a Covid notification. Clicked on it & it disappeared. Don't know what the message was. I can't see the point in messages that you can't read, so I uninstalled the app.<br> :date: __2020-10-24 08:10:56__
 
-> total disregard of privacy<br> :date: __2020-10-18 10:37:11__
+> Only use it because we are forced to. Why the nhs logo? When can I put my negative result in?<br> :date: __2020-10-24 08:02:12__
 
-> Showing alerts on my smart watch that weren't on the phone, poorly made! very annoying, will install if I need to go out and about<br> :date: __2020-10-18 10:24:00__
+> Random pop ups about being in close contact with a Covid +ve person and no further details about it. Been to Sainsburys at 4 in the afternoon and pop up comes in at 23.30! Not useful at all!<br> :date: __2020-10-24 08:00:37__
 
-> Police access is unacceptable.<br> :date: __2020-10-18 10:22:59__
+> Notifications are not held in the app. I got a notification and clicked on it and the notification disappeared. . But have no idea what it said as I cant find the message in the app. I see previous review responses say that if it was important the app would tell me. I feel the app should still show me the message so I know what it was trying to say even if it was a safe message.<br> :date: __2020-10-24 07:55:37__
 
-> Does its job, however, the recent announcement that the police can access your location data is a gross violation of our privacy and I will now be uninstalling the app. Massive step backwards for public confidence.<br> :date: __2020-10-18 10:19:54__
+> You have to click on the app to get a notification.<br> :date: __2020-10-24 06:59:27__
 
-> Removing due to the risk of days behind sent to the government. I don't want to be put in a situation where an application but leaves me in a situation where I'm in court. This is not the world I want to live in. Check recent news, where they intend to share data with the police force.<br> :date: __2020-10-18 10:13:42__
+> Worst app ever, if there was an alternative would definitely use instead of this. First issue, you can check-in to a location, but no option to check-out when you leave it, second and biggest issue, messages only show in notification bar, if accidentally dismissed, it's gone forever. Should at the very least be able to view the message from within the app, or better yet, have the ability to view the history of messages with dates and time.<br> :date: __2020-10-24 05:10:24__
 
-> I was going to install this till I found you have to keep Bluetooth on all the time. I'm not having Bluetooth on all the time to waste my battery power.<br> :date: __2020-10-18 10:11:05__
+> Awakened at 1am with a message telling me that the risk level nearby has changed. A three year old could write better software.<br> :date: __2020-10-24 01:46:40__
 
-> Data is being shared with Police without explicit consent.<br> :date: __2020-10-18 10:00:45__
+> Can't even see if I'm safe going to school stupid<br> :date: __2020-10-24 01:23:59__
 
 

@@ -126,6 +126,8 @@ The MI COVID Alert app has been installed by more than **1000** times. At this t
 <img src="5_star_reviews_wordcloud.png" alt="gov.michigan.MiCovidExposure 5 reviews"/>
 </p>
 
+> Sad to see an incredibly small amount of downloads on a powerful app(tool)that everyone should be taking advantage of right now<br> :date: __2020-10-21 02:34:10__
+
 > thank you! seems like a smart and simple way to anonymously keep people safer!<br> :date: __2020-10-16 19:50:24__
 
 > Did not load<br> :date: __2020-10-16 14:29:57__

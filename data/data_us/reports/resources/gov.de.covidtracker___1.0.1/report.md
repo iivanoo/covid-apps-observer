@@ -148,6 +148,10 @@ The Covid Alert DE app has been installed by more than **5000** times. At this t
 <img src="5_star_reviews_wordcloud.png" alt="gov.de.covidtracker 5 reviews"/>
 </p>
 
+> Great idea<br> :date: __2020-10-23 02:57:58__
+
+> Jk you'll k. BLM on jk km violin BBC don vso inch ill<br> :date: __2020-10-19 01:51:28__
+
 > Thanks a lot<br> :date: __2020-10-13 20:47:18__
 
 > Good 👍<br> :date: __2020-10-11 03:57:19__
@@ -164,8 +168,6 @@ The Covid Alert DE app has been installed by more than **5000** times. At this t
 
 > Because Covid-19 is bad, mkay.<br> :date: __2020-09-16 02:35:53__
 
-> What a great idea. At least someone is thinking!<br> :date: __2020-09-15 22:14:42__
-
 
 
 #### 4-star reviews
@@ -173,6 +175,8 @@ The Covid Alert DE app has been installed by more than **5000** times. At this t
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="gov.de.covidtracker 4 reviews"/>
 </p>
+
+> Looking for test sites???<br> :date: __2020-10-21 06:23:29__
 
 > This is a great app but the problem is that more residents of delaware need to download the app. Also most of the time only 1000 people check in. I removed it, until more people sign up and report every day.<br> :date: __2020-10-12 00:38:27__
 
@@ -203,6 +207,8 @@ No recent reviews available with 2 stars.
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="gov.de.covidtracker 1 reviews"/>
 </p>
+
+> Whats the use of downloading a dumb app for covid. Im not a robot that a phone thinks i have covid. I rather go to the hospital now and have a check up for me instead of downloading this app. This app can be dangerous and idk know if you guys are trying to look through my phone and seeing what i am talking about to my bf. I thought the government already have our information for a long. But Nooooo, they want to use this to be deep in our asses. I dont trust this app. Bye!<br> :date: __2020-10-18 22:53:52__
 
 > Don't be so pushy with government tracking apps directly to home-screen. You'll damage already fragile trust in government. 1 star for nanny-ishness. Slap your foreheads. Bad, engineers, bad. No treat for you.<br> :date: __2020-09-29 21:32:39__
 

@@ -192,6 +192,10 @@ The Care19 Diary app has been installed by more than **10000** times. At this ti
 <img src="3_star_reviews_wordcloud.png" alt="com.proudcrowd.care 3 reviews"/>
 </p>
 
+> You should be able to type in a location when it gets it wrong. Sometimes there is no option for where you are.<br> :date: __2020-10-22 06:04:00__
+
+> After multiple attempts, this app cannot determine my home location. Uninstalling. UPDATE 10/21/20 - It can now find my home location. Up to 3 stars. I do not see how I can see the list of locations myself.<br> :date: __2020-10-21 15:32:52__
+
 > Every couple of weeks it takes a day off & doesn't show any locations at all for that day.<br> :date: __2020-09-25 02:59:05__
 
 > How long do the places you visit stay on the app? Mine seem to show maybe only previous 10 days.<br> :date: __2020-08-13 23:41:30__

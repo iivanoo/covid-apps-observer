@@ -1,11 +1,47 @@
 [
     {
+        "reviewId": "gp:AOqpTOE4BgLCzJViVOk7kesmuhTYDmTo4WymVsexruWDlgUWF8O2qu2jBRHT7XYTxUVuFmdxjJ5xvU5jkywc",
+        "userName": "Giada Villa",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiJDCTxvidQPNt52VQUH6OQUMinvQ9gz-59bPSB3sQ",
+        "content": "Non riesco ad installare l'app",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2020-10-21 12:52:18",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFCPooC6EQXOyTBQsxu1ZMdyapb8pDYM8PY9WPIQ-LAefDXQTkH5tRlPTsD4qd9exuULuLOqPDflRiq",
+        "userName": "Mauro Grieco",
+        "userImage": "https://play-lh.googleusercontent.com/-mTdfljm1y98/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckHfTE9Owp5f4k66JPMUdMPbwOmnw/photo.jpg",
+        "content": "Ottimo viaggio spesso trovo applicazione efficiente",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "7.5",
+        "at": "2020-10-20 19:32:59",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOEL72GJm-9ZsP5EywzQACr9f_UAcE7TFguyMvOIJLYWcESaX6UaPsKGkJXtXJDYwgevqp1GHlV7S5ET",
+        "userName": "Filippo Giglia",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgjyleiegmUEfyxDeFk-1U-SmxV9XGd5SRPjCic6gE",
+        "content": "Ottima",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "7.5",
+        "at": "2020-10-18 11:03:50",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOGAmpT2r2OMgX1fFQQQ9LcPmfg6azZhyf5BJKJjxcRVmK5U6i6SRUX5wxhGEl0UGQtYXUiUFUjyPJ28",
         "userName": "Noemi G.",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiW3BjOOA8JG7lmJAH0kVOq4ELmzxi7cF1rtsyF_A",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiW3BjOOA8JG7lmJAH0kVOq4ELmzxi7cF1rtsyF_A",
         "content": "Concordo con le recensioni di tutti.. Mi sono presa la briga di fare tutto l iter, ma potevo anche evitare tutto lo sbattimento. Controlli zero, nemmeno l ombra. Adesso l app ha pure smesso di funzionare dopo meno di un mese XD EDIT: non funziona dopo 1 m dal checkout. Ora l ho gi\u00e0 disinstallato e non saprei come aiutare ora. Ma al di l\u00e0 di ci\u00f2: se i controlli non esistono a prescindere l App pu\u00f2 anche considerarsi funzionante ma anche considerarsi completamente inutile ;) Saluti",
         "score": 1,
-        "thumbsUpCount": 3,
+        "thumbsUpCount": 5,
         "reviewCreatedVersion": "7.5",
         "at": "2020-10-05 13:11:57",
         "replyContent": "Gentile Noemi, la informiamo che il servizio \u00e8 attivo, pertanto l'app \u00e8 da intendersi funzionante.  Dovessi avere problemi contattaci al numero: 800 458787 o scrivici all'indirizzo: helpdesk@siciliasicura.com. Per ulteriori info \u00e8 possibile consultare il manuale utente: http://tinyurl.com/siciliasicura-it",
@@ -14,7 +50,7 @@
     {
         "reviewId": "gp:AOqpTOGHkD2n3szTNtdBgPxwWOBgA6d3LHGJ1yJvG1Up9uETwytrH-BIiLRaSXJ_WvW83C-Apo5E8hme1_0u",
         "userName": "Filippo L.",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiGnziJK0qwygGomI-n-nhf9rLmaREtQdpYvmyI",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiGnziJK0qwygGomI-n-nhf9rLmaREtQdpYvmyI",
         "content": "Una cavolata infinita... la gente non istalla appimmuni che non richiede alcun dato sensibile per paura della privacy... qui invece occorre lasciare tutti i dati sensibili non si sa a chi... per quale utilit\u00e0? Bho. Sono stato in Sicilia e nessuna struttura mi ha chiesto se avevo scaricato l'app.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -74,7 +110,7 @@
     {
         "reviewId": "gp:AOqpTOGKi2azcKXBXawL8MyOu_VKn73GaAB9MGtorJy3mGBgrcp-AIwmvX9aN1hQWHOC_sjHOylOuImCnFL8",
         "userName": "Salvatore Allotta",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gix8L_7sQHE-J_xL2Tz8MMhyCPUSDSmSvfQTJ878g",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gix8L_7sQHE-J_xL2Tz8MMhyCPUSDSmSvfQTJ878g",
         "content": "L'app non consente di effettuare un nuovo check in in caso di viaggi multipli in Sicilia. Edit: dopo la risposta dello sviluppatore confermo una stella. L'applicazione \u00e8 incredibilmente farraginosa ( a partire dal fatto che il nome utente \u00e8 generato automaticamente dal sistema, quindi facilmente dimenticarlo)",
         "score": 1,
         "thumbsUpCount": 1,
@@ -98,7 +134,7 @@
     {
         "reviewId": "gp:AOqpTOHk-IU0MsTOCviNQsYZ730Z70G8j58LTngobXNbQPJiQNsF1dye0LOX-77qPk0aBaGMwwBljSL3c1Ka",
         "userName": "Paolo Veracini",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gg62rq-ph7thgAhL5Wl8r1z8aPZ4KVjmR5t8eVf",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg62rq-ph7thgAhL5Wl8r1z8aPZ4KVjmR5t8eVf",
         "content": "Non ne ho capito l utilit\u00e0",
         "score": 2,
         "thumbsUpCount": 0,
@@ -110,7 +146,7 @@
     {
         "reviewId": "gp:AOqpTOFCJSH5pF1RopKKgeDqkroTJQ7HRvF1IybK1XFjFp4COjnmz1-wVzMJgwUzfHO7tpYqN-c5XGceM7cw",
         "userName": "Gianluca Lo Maglio",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gis_2TZgyFzJiqlkvti-aUCSqCAy0d8dG-j0UDRIPQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gis_2TZgyFzJiqlkvti-aUCSqCAy0d8dG-j0UDRIPQ",
         "content": "Problemi iniziali risolti, rimaneva bloccata. Al momento ci siamo registrati con la fidanzata. Procedura un po' ridondante, abbiamo inserito sia io che lei dati miei e dati suoi. Vediamo in Sicilia come si comporter\u00e0 dopo check in.",
         "score": 4,
         "thumbsUpCount": 0,
@@ -146,7 +182,7 @@
     {
         "reviewId": "gp:AOqpTOGotXrBY-87Kxwxpti6dLQMdZ17SUzG7P09iyNhXtu_CfY0etZfQul2RdKHtTMMR6Eq9uBR3Dzmp_sK",
         "userName": "Roberta Pelleriti",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gh8r_W_h6tuZTIlEn-Y5lUG_Doxxa_jmwO4oqtrSA",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh8r_W_h6tuZTIlEn-Y5lUG_Doxxa_jmwO4oqtrSA",
         "content": "Scaricata e utilizzata per il mio soggiorno in Sicilia, registrazione ed utilizzo senza problemi. Non capisco per\u00f2 come effettuare un nuovo check-in, dato che ritorner\u00f2 in Sicilia a breve. Al massimo far\u00f2 la cancellazione e successiva ri-iscrizione dell'account.",
         "score": 4,
         "thumbsUpCount": 0,
@@ -170,7 +206,7 @@
     {
         "reviewId": "gp:AOqpTOFZvY3bgL9DOsn972PiZYRYjgv9txBs_U6dxvTi869MBxQh-jC406eJ8q5kWKR66r2b8_8W2u-uD1e5",
         "userName": "Luigi Pigolotti",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhRdspHEsjarYPc2AOEFwdMbIdxrLDZ49lzB0FY-Q",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhRdspHEsjarYPc2AOEFwdMbIdxrLDZ49lzB0FY-Q",
         "content": "Non funziona per niente",
         "score": 1,
         "thumbsUpCount": 0,
@@ -182,7 +218,7 @@
     {
         "reviewId": "gp:AOqpTOE1gQUwKel_nzUszTlAijREeRjCeZObqz0jB_eJJX5EVaXhUtDKbWmTdpopN8CO_ek0SicV7kwuL_dp",
         "userName": "Simo B",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Ghk-r-tBVodjC4hH7phu_roZG93hO6xyXcxty4UtQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ghk-r-tBVodjC4hH7phu_roZG93hO6xyXcxty4UtQ",
         "content": "Vengono richiesti troppi dati, la registrazione \u00e8 infinita I gestori delle strutture non supportano l'applicazione. Ne ho sentito parlare solo dopo 2 settimane in Sicilia dall'ultimo gestore (ho l'impressione di essere uno dei pochissimi ad usarla). \u00c8 obbligatoria?? In che modo pu\u00f2 essere usata l'informazione sul checkout? Perch\u00e9 prendere la posizione? Come pu\u00f2 la posizione GPS essere utile? Sarebbe meglio usare la prossimit\u00e0 Bluetooth come Immuni che per altre ragioni \u00e8 comunque una porcheria",
         "score": 1,
         "thumbsUpCount": 6,
@@ -194,7 +230,7 @@
     {
         "reviewId": "gp:AOqpTOHYl_LE4WXgaf72-06nG3ydqw0zUtyvJRPfze5FkSyhD8ezP4ZAg-L8FgVFv4v4VSE8yZyWcFf3IXaY",
         "userName": "valerio cassiani",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjSLmiTEUfJSJHqNp5MC_4NZIPh1ehIez-FPzcpgw",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjSLmiTEUfJSJHqNp5MC_4NZIPh1ehIez-FPzcpgw",
         "content": "Bene",
         "score": 5,
         "thumbsUpCount": 0,
@@ -218,7 +254,7 @@
     {
         "reviewId": "gp:AOqpTOG-WKAqLANAVkBtaDj7dFtqyekLlywk7zwAZKtE1Y2_nsSJDAMeb7Ra3kCQ2eoBR8_utI4gJrnW299x",
         "userName": "Roberto Trefiletti",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gj8ByNZflTAS6K17bSse5MG-AQNimIGXjbav_N0",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj8ByNZflTAS6K17bSse5MG-AQNimIGXjbav_N0",
         "content": "Si spera di non aver bisogno di aiuto.",
         "score": 4,
         "thumbsUpCount": 0,
@@ -254,10 +290,10 @@
     {
         "reviewId": "gp:AOqpTOFGP3C8ToFqu7kxSnY-kyzCyHSDEQzfMm7xBR1KaU-StPygtJJ_k7jWJ0zaeVdmc50GV_vnSWYVAXWb",
         "userName": "Fabrizio Maniscalco",
-        "userImage": "https://lh3.googleusercontent.com/-q0EYNZgxTlc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnH1ALXQN63DQ-NwdBB30jwPZW7EA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-q0EYNZgxTlc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnH1ALXQN63DQ-NwdBB30jwPZW7EA/photo.jpg",
         "content": "Sono un siciliano residente in altra regione. Leggendo i commenti di altri utenti, a prescindere dai commenti sull'utilit\u00e0 o meno dell'app, ero un po' scettico sulla sua funzionalit\u00e0. Tuttavia, dalla mia esperienza posso dire che non ho avuto problemi durante la registrazione. Sono riuscito a fare il check-in ed il check-out del mio gruppo (io e la mia compagna) con facilit\u00e0. Spero che questa piccola accortezza possa essere utile per la sicurezza di tutti.",
         "score": 5,
-        "thumbsUpCount": 15,
+        "thumbsUpCount": 16,
         "reviewCreatedVersion": "7.5",
         "at": "2020-08-26 15:57:11",
         "replyContent": null,
@@ -266,7 +302,7 @@
     {
         "reviewId": "gp:AOqpTOFBX7Jx0Gs0-bLgGKwZVJ8RJJejux6AXy1xiy34w9mNfTtu_HSkKuV3qGfNUfObAjPsK9LwrV-lH0ys",
         "userName": "Valentina Iorio",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhY7k33cdXyAeXWudMuQqNVtoQ7mNJ47ThpSbYY5g",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhY7k33cdXyAeXWudMuQqNVtoQ7mNJ47ThpSbYY5g",
         "content": "Non riesco a scaricare l app...continuamente in download",
         "score": 1,
         "thumbsUpCount": 0,
@@ -302,7 +338,7 @@
     {
         "reviewId": "gp:AOqpTOG3498-jw4Vv-YUnjXnobQgbdTNtgXj7uf4tz-Rt5qq2ZgnhWM0B_Ik7eFG9QHmzXHVna3rUBukKvs5",
         "userName": "Alfonso Di Salvo",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjM_YN1deac8wUbDZbpFdySm7d1VCskQ-ibWlyvZ3c",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjM_YN1deac8wUbDZbpFdySm7d1VCskQ-ibWlyvZ3c",
         "content": "Installata ma si blocca allo Splash",
         "score": 1,
         "thumbsUpCount": 0,
@@ -314,7 +350,7 @@
     {
         "reviewId": "gp:AOqpTOHB1io4z8ACmpNNKQAubUzfhbjjbRsOke14PYCZtS9gOZOUAmAs3x-7aGBYZqApZ6ze7g-zFwE49-dx",
         "userName": "Margherita Messina",
-        "userImage": "https://lh3.googleusercontent.com/-eT2tqwBeMns/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckZipjbEXM14oVsruvelRqdxxPAvA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-eT2tqwBeMns/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckZipjbEXM14oVsruvelRqdxxPAvA/photo.jpg",
         "content": "Buongiorno io ho scaricato l' app ma non riesco a registrare nessuno, non arriva neanche un email di conferma, cosa fare??",
         "score": 1,
         "thumbsUpCount": 0,
@@ -350,7 +386,7 @@
     {
         "reviewId": "gp:AOqpTOF6RWXwlb4lTT0SO_BSVTFN15lCBFL5Hq3GmxYSyyZ9kdE6EFy9MaS0Vea84-EH3b7k5Sja2O00fpfS",
         "userName": "michele montemurro",
-        "userImage": "https://lh3.googleusercontent.com/-ivwHeVcrSAc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmiBuHlz0gdCYFNBXLizIECTQsQUw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-ivwHeVcrSAc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmiBuHlz0gdCYFNBXLizIECTQsQUw/photo.jpg",
         "content": "Considerati i nuovi obblighi, \u00e8 necessario che sui traghetti ci sia meno gente e che tutti indossino la mascherina in modo corretto (coprendo naso e bocca) iniziando dal personale addetto......l'aliscafo di ieri da Milazzo a Lipari era stracolmo di gente e tantissimi ospiti indossavano la mascherina in modo non corretto",
         "score": 3,
         "thumbsUpCount": 1,
@@ -362,7 +398,7 @@
     {
         "reviewId": "gp:AOqpTOHHY-o2Ms6BCRealLevdZ3hhfPPvasmp_vseCXwj2ed9mDgsYZ1wki3ynOw4JRykxaE7A5StQY8XXPO",
         "userName": "Lorenzo D'Amico",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiyIhutbs82ZxgPxpvp4FGtM8l3dvVSPE5Rrmy8oxc",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiyIhutbs82ZxgPxpvp4FGtM8l3dvVSPE5Rrmy8oxc",
         "content": "App con una grafica antica e user experience terribile, per completare la registrazione ti servono almeno 15 minuti. Tutta in Italiano, voglio vedere un turista estero come lo usa.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -374,7 +410,7 @@
     {
         "reviewId": "gp:AOqpTOGBswm9yKVZ4-sq77eM_mCKnCoxcOeL_jneKn6CQeHkb206KG9elZYmTt7624LF5KqhwX6OiRoX-Meu",
         "userName": "Filippo Cianciolo",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjHXoYTWDugmFH_5kBdzkMRU4A2c5e3y1HntdRPncU",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjHXoYTWDugmFH_5kBdzkMRU4A2c5e3y1HntdRPncU",
         "content": "Salve, il 30 Agosto scender\u00f2 dalle Isole Canarie alla Sicilia . Dovr\u00f2 fare tampone o anche solo il test sierologico prima della partenza? Grazie",
         "score": 2,
         "thumbsUpCount": 0,
@@ -386,7 +422,7 @@
     {
         "reviewId": "gp:AOqpTOEgpa7brCrZcf-R1z0nuACXCxMwqrxp79tXj25YijBbridvFDrhd91qm0-GlbqQHynFOX-Sp9QUQ2hh",
         "userName": "Francesca Maria Di Napoli",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiCZC0UG9yqCpUzI2MypMKSr605BJLbfkKpqiPf0g",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiCZC0UG9yqCpUzI2MypMKSr605BJLbfkKpqiPf0g",
         "content": "Ottima",
         "score": 5,
         "thumbsUpCount": 0,
@@ -422,7 +458,7 @@
     {
         "reviewId": "gp:AOqpTOE_jyuRi449CBGlCqTz5rwwgy5qww123XiXxpGGN-27k1gMyZ2f5gTgid8DAn2ULRZqKGNLLoREQBch",
         "userName": "sonny milano",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gg0hbeANalMjcVCUa_tJ-aBOJGH8xi2bueLRnymqg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg0hbeANalMjcVCUa_tJ-aBOJGH8xi2bueLRnymqg",
         "content": "Continua a dirmi di verificare tutti i campi e cmq non appare mai il codice captcha. Impossibile proseguire.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -446,7 +482,7 @@
     {
         "reviewId": "gp:AOqpTOF59gsK3yB9NNMkxNtOXJk80JAuZ0nIOLR7ohl6EjjiKTaCKM5NsBULNML5EJr112w7zq7oN_1F98tD",
         "userName": "Andrea Riva",
-        "userImage": "https://lh3.googleusercontent.com/-OIAINIGwCjU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckw4HM6ob8R3paUZ_UH3Kn3vhEIeg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-OIAINIGwCjU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckw4HM6ob8R3paUZ_UH3Kn3vhEIeg/photo.jpg",
         "content": "L' app \u00e8 fatta bene, ma non serve a niente perch\u00e9 le regole non vengono rispettate da nessuno.",
         "score": 1,
         "thumbsUpCount": 1,
@@ -470,7 +506,7 @@
     {
         "reviewId": "gp:AOqpTOF3Y3lJbMA5kd2YciZXMmZ5f9ggtif56IH943WG2RPuQ6iij7J768MwQYesDxyo_CVMrEU_7WPu_DP2",
         "userName": "Andrea Ambrogio Sangalli",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjBSPySM4ZMz1cp8pEoO-AZFdO1LZ6eAlZmmqL0Vw",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjBSPySM4ZMz1cp8pEoO-AZFdO1LZ6eAlZmmqL0Vw",
         "content": "Che schifezza installata mano riesco a registrarmi cancellata subito speriamo sia meglio via web",
         "score": 1,
         "thumbsUpCount": 1,
@@ -482,7 +518,7 @@
     {
         "reviewId": "gp:AOqpTOEpO4yllghxXDdtxM9M8s4ryd9mJhVrvMXvmQS4bH8qqxuQ_QwcIIMmNdhJIiR05hlX2bjcDF4rs1yw",
         "userName": "Marco Bruti",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjLEkUmsIzP4oWJx60EssT9fF4FppT3CbSAqIRUxg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjLEkUmsIzP4oWJx60EssT9fF4FppT3CbSAqIRUxg",
         "content": "Dopo la registrazione, al momento del checkin, l'app si blocca sul logo e non va avanti.",
         "score": 1,
         "thumbsUpCount": 1,
@@ -494,7 +530,7 @@
     {
         "reviewId": "gp:AOqpTOEKYpjCMUlIZUpIHxvRHzLDAJlKpckG2w0l1KXJY9SdihONZZKUPf1DKJnvtKxXA36rbAlkA26BxMgd",
         "userName": "francesca s.",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gjx7mlji5RGiUfyEFkM2SkJ5lXX26G26D0HaMwkZg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gjx7mlji5RGiUfyEFkM2SkJ5lXX26G26D0HaMwkZg",
         "content": "Ho scaricato l'app al mio arrivo in Sicilia. Ho provato a registrarmi ma nonostante i vari tentativi non ci sono mai riuscita. Appena inoltro la registrazione mi avvisa di controllare tutti i campi, cosa che continuo a fare ma senza risultato. Basta ci rinuncio!",
         "score": 1,
         "thumbsUpCount": 9,
@@ -506,7 +542,7 @@
     {
         "reviewId": "gp:AOqpTOEU5ICKfqs8g4xfaaq0wAdmn69_44EdjOfcZsYlAh_CUD6pfv2SncI7ntTzBvDDgyRfsbykjrqK9K0p",
         "userName": "Kaos s",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiykLHDm1EDbFcQ7J_CzhGhewyVe66ObkOaoqqidg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiykLHDm1EDbFcQ7J_CzhGhewyVe66ObkOaoqqidg",
         "content": "Funziona",
         "score": 5,
         "thumbsUpCount": 0,
@@ -518,7 +554,7 @@
     {
         "reviewId": "gp:AOqpTOH-L2N_8RcG2eadWRS9l_H7p8CQqxyxy5kDXvK2r9_vKDu3Rylc_jwIb418_ge1YWa3ToPBxnH0xI9H",
         "userName": "Carlo Carpentieri",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gjz3PAXbGGrwt0L6tv3j4YmDpzAMqV8F6WjmMObkg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gjz3PAXbGGrwt0L6tv3j4YmDpzAMqV8F6WjmMObkg",
         "content": "Non funziona nulla , dopo svariati tentativi neanche fosse la nato ti accorgi che \u00e9 una pagliacciata . Ora sono un clandestino in patria \ud83d\ude1e\ud83d\ude1e\ud83d\ude1e",
         "score": 1,
         "thumbsUpCount": 1,
@@ -530,10 +566,10 @@
     {
         "reviewId": "gp:AOqpTOEug1hroY5oEL0soE3an5-KHXCxaXgNratKxkXMJyEOAArOXhMFD7qHtHUTQ84BmNyxp-7vAyWp_WIk",
         "userName": "Tiziano Izzo",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiBP6zWNnUV_3rPExlRazjmjGKy4cd_oyZryAVOdA",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiBP6zWNnUV_3rPExlRazjmjGKy4cd_oyZryAVOdA",
         "content": "Nessun controllo. Ho istallato l'app. Ho inserito tutti i nomi della mia famiglia. Ho fatto il check-in appena arrivato in Sicilia in auto. Sul traghetto nessun controllo, nemmeno temperatura. In giro nessuno indossa mascherina, e chi lo fa lascia il naso scoperto, o idiozie del genere. In molti bar e negozi (quasi tutti) camerieri e baristi non hanno la mascherina, idem per in negozi di vestiti, etc. Per carit\u00e0, non sono tutti cos\u00ec, ma molti, troppi, lo sono. Io sono sano, ma loro???",
         "score": 1,
-        "thumbsUpCount": 97,
+        "thumbsUpCount": 98,
         "reviewCreatedVersion": "7.5",
         "at": "2020-08-03 14:05:14",
         "replyContent": null,
@@ -542,7 +578,7 @@
     {
         "reviewId": "gp:AOqpTOFICuk24b-XI8dWOeKWxiMsIzOTxPcViRniMc_wZf1F5GiHBQ21062XnVmM5vesKV5XGqEyMyLJys3q",
         "userName": "Sebastiano Caruso",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiCYlsa_03obF2ui82f9_bUoBNO8F07YR_fXMpf",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiCYlsa_03obF2ui82f9_bUoBNO8F07YR_fXMpf",
         "content": "App un p\u00f2 complicata, non lineare e intuitiva. Cosa serve se quando vai in giro pochissimi isolani rispettano l'isolamento sociale e mascherine. Italia divisa in due al nord prenotazione obbligatoria per spiaggia libera e nell'isola tutti insieme appassionatamente.",
         "score": 2,
         "thumbsUpCount": 4,
@@ -554,7 +590,7 @@
     {
         "reviewId": "gp:AOqpTOGxPSHKcmtUudHJMbNghfg3Ih1_SwyJhDucppRMeU_sVb2PQ-3oCH4qa0mv9uTCj30OgKivS4Hq9tmz",
         "userName": "Michele Lanzini",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhdgIJ3pTChXxusZYTgNEPE7q4MjQZrauNa6xJT0g",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhdgIJ3pTChXxusZYTgNEPE7q4MjQZrauNa6xJT0g",
         "content": "App discreta e funzionale.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -590,7 +626,7 @@
     {
         "reviewId": "gp:AOqpTOEKu-jThCiQH_jX7h0N1L7XvpQfY3TfdX87QBokLIWyh5m_8vteumwhkSTtvgVhTCGV6G6MTuyPcUZN",
         "userName": "Carlo Callari",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gi44mAK0y26qmEW2qUxi172btiYznuoVPwF9CV4",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi44mAK0y26qmEW2qUxi172btiYznuoVPwF9CV4",
         "content": "Disastrosa! Penso la peggiore app con cui ho avuto a che fare...",
         "score": 1,
         "thumbsUpCount": 1,
@@ -614,7 +650,7 @@
     {
         "reviewId": "gp:AOqpTOFZD2-L4KJ5DZTRlPPj3oJ1i9hzNJPNkf4Hgn-Qd8fR6JtSNvZUXQmYcApOLQoTlujCRIktQwldHQ1o",
         "userName": "ginoteresa96@gmail.com Crifo",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gg3lgGIF6fgCx4XisYm_adxjG3_rXxRChG8W97ByQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg3lgGIF6fgCx4XisYm_adxjG3_rXxRChG8W97ByQ",
         "content": "Chiara",
         "score": 5,
         "thumbsUpCount": 0,
@@ -626,7 +662,7 @@
     {
         "reviewId": "gp:AOqpTOEEillEtmqtBXBRQkk7iAEklJS_7213wIux8mSoSogjMNIMF2VRsBkdBIbObY1MxHFSXGLfo5rd3nc-",
         "userName": "Daniele Geda",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhA3La42KFXOUF5eSbbM4wxIcs5QBU4bK57nutR",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhA3La42KFXOUF5eSbbM4wxIcs5QBU4bK57nutR",
         "content": "Non funziona l'app sul mio telefono, scarico ed \u00e8 tutto bianco",
         "score": 1,
         "thumbsUpCount": 0,
@@ -638,7 +674,7 @@
     {
         "reviewId": "gp:AOqpTOG2Vn_EGjmccJaODSS7utLbmf0fGra4S27aIAMhkaDZ6YwwnjUuSBUlso9YWO76g-zMOqftejxGWZm4",
         "userName": "Vincenzo Masullo",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgdsMTEukUOoxtTqN_Je1XHtFwDCH701WEgCBtnWw",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgdsMTEukUOoxtTqN_Je1XHtFwDCH701WEgCBtnWw",
         "content": "Ottima app, solo che nn si capisce se le analisi sono obbligatorie i no.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -686,7 +722,7 @@
     {
         "reviewId": "gp:AOqpTOHQODkF-t1T4C5c6vkxSVPozx6l44Guk85uSvLXCljtxDFzy9NgwpWpZsquvrpnhkf2BuTXnu7upL-4",
         "userName": "Concetta Di Rosa",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhRHWLX0zeMQnIqwZJNk8hVuHJ-KTNVDqzxo-hS",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhRHWLX0zeMQnIqwZJNk8hVuHJ-KTNVDqzxo-hS",
         "content": "App molto utile e semplice da utilizzare. Consigliata! Ricordatevi per\u00f2 di fare il check-in solo quando sarete in Sicilia come spiega chiaramente la mail che riceverete in fase di registrazione.",
         "score": 5,
         "thumbsUpCount": 1,
@@ -698,7 +734,7 @@
     {
         "reviewId": "gp:AOqpTOGjb89jMVX_ILWdG5XGNXlz23iGD7CyKXgi91jHn64t9Sl7E9pGGfRHmX_fpap_-6uApoCdw6wZ3wAn",
         "userName": "Margherita Pisapia",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiQ2osTC-hyodzzicm-74xnmexBeYsZfXc_d6mp2Q",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiQ2osTC-hyodzzicm-74xnmexBeYsZfXc_d6mp2Q",
         "content": "Non riesco ad accedere",
         "score": 1,
         "thumbsUpCount": 0,
@@ -710,7 +746,7 @@
     {
         "reviewId": "gp:AOqpTOEbf01lL83obkjO1Bdcp-ZcMOezbOITE29FmK8LEV60G5U8ESEckeLsnIrNK9mydlicLPzxI1mfebrI",
         "userName": "Sergio Schiavini",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjuSVaak7csR-0dr57PNg1520Ttgy7RlhPyCzhcww",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjuSVaak7csR-0dr57PNg1520Ttgy7RlhPyCzhcww",
         "content": "App inutile, con diligenza e rispetto l'ho installata ed utilizzata giornalmente. Ma mi sembra di combattere contro i mulini a vento, la mascherina \u00e8 indossata da poche persone locali, la utilizzano solo i turisti e il personale dei negozi ma non gli avventori. In tante occasioni chi la porta \u00e8 soggetto a scherno e risate varie, la distanza sociale non \u00e8 cosa loro ed i controlli non si vedono in giro. Ma se ne discuti con le persone dicono che sono stati bravi e rispettosi , contenti loro.",
         "score": 2,
         "thumbsUpCount": 0,
@@ -734,7 +770,7 @@
     {
         "reviewId": "gp:AOqpTOHrivLClIzDlhig_wSPW-tYd7EQ9m3PNk7awqsT1oQyQHIThTW9QcZF6FxCp4EOJpGdLrtS9klzijb3",
         "userName": "Raffaele De siano",
-        "userImage": "https://lh3.googleusercontent.com/-jEqM997cV-A/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmOOEXJh8VGWwGh5cTwHEaWvog1qQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-jEqM997cV-A/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmOOEXJh8VGWwGh5cTwHEaWvog1qQ/photo.jpg",
         "content": "Scaricata l'app ho fatto un primo accesso poi non mi permette di farne altri non mi fa accedere. Era meglio scegliere altre localit\u00e0....vedremo come andr\u00e0 a finire! L'ho saputo solo biglietto alla mano se sapevo non ci sarei andato in Sicilia. Il viaggio dovrebbe essere rilassante",
         "score": 1,
         "thumbsUpCount": 2,
@@ -746,7 +782,7 @@
     {
         "reviewId": "gp:AOqpTOFo_QE-E4nGkyR0vZE1nusnud7DX_ZDVzTO31G5CKcH40QUxRMrRmCw3G55qQBOgHwqgsZKBH77Ge1a",
         "userName": "Luca Figoli",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiBIot6HR0_shA5AiG5aU46h_XIrNEYQA388J36UdA",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiBIot6HR0_shA5AiG5aU46h_XIrNEYQA388J36UdA",
         "content": "Mi sembra fatta male, la installo, non so nemmeno a cosa serva e mi chiede il consenso alla privacy.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -758,7 +794,7 @@
     {
         "reviewId": "gp:AOqpTOE9Vvh7r_AqISfCZ_WVKiG70HOtfQMXVJkuTBcAYbcGQfJdfydoanBmecpC961blIlsCQ9lMCFXFYv4",
         "userName": "Mario Moschitta",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gg1XWgVXvxFonHNA3A5I_9LSu195oxxgSr8rzj-vA",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg1XWgVXvxFonHNA3A5I_9LSu195oxxgSr8rzj-vA",
         "content": "Fatta male , a mio avviso inutile per il ruolo preposto. Medico area covid Bergamo.",
         "score": 1,
         "thumbsUpCount": 2,
@@ -770,7 +806,7 @@
     {
         "reviewId": "gp:AOqpTOGl33EOsCIbQgaXr7wIzp3N2rscIZLZplybJACkmKJJFWmEqY7k4UhiAE0Lgy52YoDifBcBbSpMhJ0Z",
         "userName": "Lorenzo Cuzzup\u00e8",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgXi7n2hbtK_WoMersI2Dd-JGOQ-V9U-5vcDrQNeQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgXi7n2hbtK_WoMersI2Dd-JGOQ-V9U-5vcDrQNeQ",
         "content": "Non fa registrare l'autovettura",
         "score": 1,
         "thumbsUpCount": 0,
@@ -782,7 +818,7 @@
     {
         "reviewId": "gp:AOqpTOGx6mySUF479nvE515ji-VNi-kG5rR3b3mcP7a0PhF8mjwy6eif0KmjuIP2tJ9HpCWQ8M5kVJkezMxM",
         "userName": "mar tin",
-        "userImage": "https://lh3.googleusercontent.com/-DAgIwXSwXCM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmwOukiYJs4MpmA03ZvTmUV54uSxw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-DAgIwXSwXCM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmwOukiYJs4MpmA03ZvTmUV54uSxw/photo.jpg",
         "content": "Pratica e semplice",
         "score": 5,
         "thumbsUpCount": 0,
@@ -794,7 +830,7 @@
     {
         "reviewId": "gp:AOqpTOEudIBxZkGRUmgK_ERCyP_jZenqjsRkpPWijfzwA82Gyw0ZAnnzfvVsEWtvo4I-eRAXKGu37n32Qz5i",
         "userName": "Mirko Messori",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjHgBZPIxZAVDvpD1jWP4oJ8sJd4GDb9vY5OauN",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjHgBZPIxZAVDvpD1jWP4oJ8sJd4GDb9vY5OauN",
         "content": "Iscrizione facile e sicura. App ben fatta e chiara da usare.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -806,7 +842,7 @@
     {
         "reviewId": "gp:AOqpTOFdiwamuJ30c5klrUAawXRMc2jsgq0TvISgSwtg_ons7bmHvOjbyGyAYf9txdUK0Dp9XGVieXv_mEfU",
         "userName": "Sebastiano Dugo",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiS630VW5kvnNKD5_tt-6uKd9AllWrke2hOg2YZFQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiS630VW5kvnNKD5_tt-6uKd9AllWrke2hOg2YZFQ",
         "content": "Spero che non vogliate sapere anche quante volte vado in bagno. Disistallata immediatamente. A detta di Nello \u00e8 un app discreta...ma lui dice pure che la brava gente sta a casa e sta zitta.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -818,7 +854,7 @@
     {
         "reviewId": "gp:AOqpTOHV-E0mJbcUqMK6VVW3fAHNbfMrvfWMSiZPvnrrAiFMuBrNFQM0L7Fjdms-qgkJEcmh_pyUYxOz_OoW",
         "userName": "Ciccio",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiIHN_arLd8oPevWI4PCEGsBEOD_F-2NuBs3aOesQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiIHN_arLd8oPevWI4PCEGsBEOD_F-2NuBs3aOesQ",
         "content": "Applicazione x ora totalmente inefficente. Dopo la registrazione non riconosce ne username ne password. Non esegue il reset della password . Neanche dopo il vostro intervento tramite helpdesk con reset password. Una nuova registrazione inefficente perch\u00e9 sei gi\u00e0 registrato con i tuoi dati. Uno che viene in vacanza in Sicilia non pu\u00f2 stare in balia giorni dietro applicazioni o call center. Predisponete anche un cartaceo forse risolviamo.",
         "score": 1,
         "thumbsUpCount": 12,
@@ -830,7 +866,7 @@
     {
         "reviewId": "gp:AOqpTOHnuSQTBZ7ru81b6I9Rl9O3yHESbopsio_tvdRAmdkyVO3IGU4BhDDCtND-vGs4zxioRky--vNLJjrg",
         "userName": "Michele Giacomucci",
-        "userImage": "https://lh3.googleusercontent.com/-Q7xh57U3G3M/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucneEmCKoVkyYxwcLqzzcWCGp343gQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-Q7xh57U3G3M/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucneEmCKoVkyYxwcLqzzcWCGp343gQ/photo.jpg",
         "content": "App dal potenziale interessante ma arrivato sull'isola non ho trovato, fino ad ora, NESSUN locale in cui si riapettino le regole BASE anti covid!! Camerieri senza mascherina, nessuna sanificazione dei tavoli dove si \u00e8 mangiato, presenza di oggetti usati da altri commensali (bottiglie di olio, sale ecc) si vede che l'isola fino ad ora \u00e8 stata risparmiata dalla pandemia, speriamo non arrivi nessun turista positivo al covid altrimenti saranno guai per tutti!",
         "score": 3,
         "thumbsUpCount": 45,
@@ -878,7 +914,7 @@
     {
         "reviewId": "gp:AOqpTOEaLsOQzcM1FVHA2mU2vIlEPMzW_1YpDKbL5wKOPKpY0AbWhDGxFp9mewLE8Qx_oI5mqWHbpc7NpfFc",
         "userName": "ANTONINO GAROZZO",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjU8NOZpkFepi93aw-p-OIh2k2NAAmz8nqBkhcE",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjU8NOZpkFepi93aw-p-OIh2k2NAAmz8nqBkhcE",
         "content": "\u00c8 molto invadente, mi chiede come sto e se mi piace la Sicilia anche quattro volte al giorno, sto pensando di cancellarmi e di disinstallarla, tanto ormai sono passate tre settimane dal mio arrivo",
         "score": 3,
         "thumbsUpCount": 4,
@@ -890,7 +926,7 @@
     {
         "reviewId": "gp:AOqpTOE6CGabVTyJ8_QTkPCELX4_ahHJhqwF9ajSx1CzLPK1BaqtaBTujikvVEIjIsR2nNslSB3XijkbUd4q",
         "userName": "Fernando Larinese",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gh3vXuu2Fq6sTjw-CFjOfDRAutrqxwDCG08Cy2LB68",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh3vXuu2Fq6sTjw-CFjOfDRAutrqxwDCG08Cy2LB68",
         "content": "Buonasera, cortesemente devo interpellare qualche scienziato informatico x registrarmi, manca solo che mi chiede il giorno che devo morire\ud83d\ude31\ud83d\ude31\ud83d\ude31",
         "score": 1,
         "thumbsUpCount": 1,
@@ -902,7 +938,7 @@
     {
         "reviewId": "gp:AOqpTOH-m9HCo2jDSB8mObZWg7Ir1Rzg7bQLL1MGClkDC7CJNI55cNVrHPxM7wiXnfx57TGEfM-oqigjjAb5",
         "userName": "Irma C",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gg5jqu0d3dY056FSwIEadZNNX0-HsCHO54SZPQ_",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg5jqu0d3dY056FSwIEadZNNX0-HsCHO54SZPQ_",
         "content": "Non riesco nemmeno ad aprire l'app.. si blocca subito dopo averla scaricata. Risolvete per favore",
         "score": 1,
         "thumbsUpCount": 1,
@@ -926,7 +962,7 @@
     {
         "reviewId": "gp:AOqpTOFXd8XEL_fAayHOn0V8uiZBI0LtdqN5rYJ5WGs2zjfwLH90U5CtrfC8p4CEU3bz00tHtGgakAkfdxXN",
         "userName": "agnese del duca",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GilM5PyS90mEOYD2l54IPtMo7kkBgh4E260NXayLA",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GilM5PyS90mEOYD2l54IPtMo7kkBgh4E260NXayLA",
         "content": "vorrei sapere come faccio a vedere che data ho inserito come presunto arrivo in sicilia che gia nn mi ricordo pi\u00f9 mi sono registrata ma nn ricordo piu la data hahahh comuque dovreste aggiungere come opzione la data di partenza dalla propria regione per la sicilia e in caso di poterla cambiare",
         "score": 1,
         "thumbsUpCount": 2,
@@ -938,7 +974,7 @@
     {
         "reviewId": "gp:AOqpTOFuwpNWyYY8d-xIvotUnSJcWENWsb8ommCxcZj04wjQrhpArtebvLnPSurBWiQjfXS3paEb9zPbTlhv",
         "userName": "Luigi louis Kalfus",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgXtTGj3YojtA9QY1dtSOeKxgWAtGF1RtndzLYHVg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgXtTGj3YojtA9QY1dtSOeKxgWAtGF1RtndzLYHVg",
         "content": "Utile",
         "score": 5,
         "thumbsUpCount": 0,
@@ -998,7 +1034,7 @@
     {
         "reviewId": "gp:AOqpTOEECAUvjeEoeds9Caiv2GknJzY0evZM-CFO3wyRvy-hIEn0fGx1w8ak9glaGIT3sIOQRBEfbnyDjct5",
         "userName": "filippo speciale",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjXGvOOum-7m9oAgdzf1Jk9AVJCZ66_h8reH9sP",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjXGvOOum-7m9oAgdzf1Jk9AVJCZ66_h8reH9sP",
         "content": "L'ho appena installata ed ho gi\u00e0 ricevuto 2 SMS di pubblicit\u00e0 varie... non lascio il mio numero per farmi contattare da 10.000 call call center... e solo per una questione di sicurezza e per correttezza. Voglio una garanzia che il mio numero non venga ceduto a terzi per fini di Marketing.",
         "score": 1,
         "thumbsUpCount": 9,
@@ -1022,7 +1058,7 @@
     {
         "reviewId": "gp:AOqpTOEKpWzMFSOIKI3D-ClXN0zSemTixg8XZQ7klm1cVL-wurVtVknFy0He37GPFvqkxxeL8NuAOEwT3X7i",
         "userName": "Carla Scotti",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgqzfUUX8VdxamPJ3qNv9ZSU52k_ZrTfHxAh346ow",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgqzfUUX8VdxamPJ3qNv9ZSU52k_ZrTfHxAh346ow",
         "content": "Nn si vedono i mesi dell' anno e tanto meno l anno, bisogna andare a fortuna o contare all indietro. Vedete di modificare e di semplificare l'iscrizione",
         "score": 2,
         "thumbsUpCount": 0,
@@ -1034,7 +1070,7 @@
     {
         "reviewId": "gp:AOqpTOGSvZZSzKiUsDes0axWt4XmRYByqDSf5eQAmGeLhdPRKftcpC9LWyGc9Vd_NKs1XdybIr5cBx5GntXS",
         "userName": "Luigi Lucifora",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjgHD5NGTHe0cubJRW7RMjR12TCHt991_6JFrkY1A",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjgHD5NGTHe0cubJRW7RMjR12TCHt991_6JFrkY1A",
         "content": "Fa schifo e rompe le scatole anche pi\u00f9 volte al giorno. Invasiva ed inutile",
         "score": 1,
         "thumbsUpCount": 2,
@@ -1046,7 +1082,7 @@
     {
         "reviewId": "gp:AOqpTOE4muRvps1ZfbYRE5v1jN2M-QWBLei0Kq7RJZWojj_3ROcTcMtkJfsM4-tJueI-o8hdbybg30fJZB73",
         "userName": "Alfio Bonaccorso",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gj7uuP9CKqLNmOVJ26x9Z_iYJgj5_4rhPRCZOxFuw",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj7uuP9CKqLNmOVJ26x9Z_iYJgj5_4rhPRCZOxFuw",
         "content": "App fa sciffo mia sorella e rimasta Li aeroporti di Dusseldorf Dopo che aveva pagato biglietto aero euro 500 per la sicilia. Musumeci I extracomunitari entrano senza essere registrati e noi italiani solo problemi per entrare in sicilia",
         "score": 1,
         "thumbsUpCount": 2,
@@ -1070,7 +1106,7 @@
     {
         "reviewId": "gp:AOqpTOGM7lqdYJ6zt05m7mTZ3hvEBihrdSL1L-GANiOojxIHyxdEPrNrJVPhQRvVITJzjcC-n0zQdgKPpXE-",
         "userName": "Alessandro Di Cristina",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgO5hCi6YuTmVI9RgNwV-ZatMg4Aqy9NJtfPHU76A",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgO5hCi6YuTmVI9RgNwV-ZatMg4Aqy9NJtfPHU76A",
         "content": "L'app manda 5-6 volte di fila la notifica per segnalare il proprio stato. Si verifica ogni santo giorno! Da 2-3 giorni, addirittura, anche dopo che invio l'aggiornamento sul mio stato mi viene notificato nuovamente di segnalare il mio stato! Sempre 5-6 volte di fila!",
         "score": 2,
         "thumbsUpCount": 1,
@@ -1082,7 +1118,7 @@
     {
         "reviewId": "gp:AOqpTOFKteNmr2Y01yhEiSFj_EswvolTrs4g-98-VAwDNxP4nLLvWcYa4spgVTTz9iX7QUm89wHwJxg4gyYf",
         "userName": "Roberto Bertin",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjmITMLq1w8kM9Jtpk1j1Jf5lgPz2Xh0XO_qxfKlA",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjmITMLq1w8kM9Jtpk1j1Jf5lgPz2Xh0XO_qxfKlA",
         "content": "Non obbligate a scaricare l'app se prima non la semplificate in modo che si possa almeno iscriversi",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1154,7 +1190,7 @@
     {
         "reviewId": "gp:AOqpTOFjRMESIWm4LUd4LHa-CFXzIsqLgKU7bc_1VZPRzWFHQqO-mJOy3NXF6zdvkPJrhWNBN_EVaSFbTS6D",
         "userName": "armando smeraldi",
-        "userImage": "https://lh3.googleusercontent.com/-BRndm2n1hM0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmHy1g5v1gGc4rlhg7ahPqn7b3CIA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-BRndm2n1hM0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmHy1g5v1gGc4rlhg7ahPqn7b3CIA/photo.jpg",
         "content": "L'app non funziona... Dice sempre email gi\u00e0 presente. Ma non \u00e8 vero perch\u00e9 sto provando con tante email ma dice sempre la stessa cosa.",
         "score": 1,
         "thumbsUpCount": 1,
@@ -1166,7 +1202,7 @@
     {
         "reviewId": "gp:AOqpTOFEyDVTtianA5u3nu3dseu1Bkr-EJ_2_--Hgee1X4r7G-OjKqnELmjl6hGrbRXbRuVnp2vXH4K-RuL4",
         "userName": "Giovanni Giarrusso",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiqbApfSEqS-m8JnJNNDMJYh7-IZreA8twK38L4",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiqbApfSEqS-m8JnJNNDMJYh7-IZreA8twK38L4",
         "content": "Appena completata la registrazione mi segnala che la mail \u00e8 gi\u00e0 presente.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1178,7 +1214,7 @@
     {
         "reviewId": "gp:AOqpTOGrfudapVmFIghxRNNWTvG-rlNErBKdz-UVCHIwxRP2OBr1Mgd6cUuV48fF7N1cnYRZvZmkOu_AqHvN",
         "userName": "Cristina Galloni",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiA8n0eGKkcQ-Z-inaf4fRgrp9oNITdJpGdYWYnFA",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiA8n0eGKkcQ-Z-inaf4fRgrp9oNITdJpGdYWYnFA",
         "content": "Piena di bug anche solo in fase registrativa. Mi ha bloccato al punto di \"verifica di non essere un robot\" dopo aver ritentato il test dice che per\u00f2 la mail di registrazione \u00e8 stata utilizzata. App inutile e fine a se stessa.",
         "score": 1,
         "thumbsUpCount": 2,
@@ -1190,7 +1226,7 @@
     {
         "reviewId": "gp:AOqpTOHEkN23IvLseFNUMD01T4RB3fFMZsAqiJvn3Wq8WCxWzEhXLU3mZL58lq7cP6vxXqBg62ReDqSBR8SY",
         "userName": "Mau Ama",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gi4dcoU3v9062vUCxJmU0_w69ov14vQS9FYeJISdls",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi4dcoU3v9062vUCxJmU0_w69ov14vQS9FYeJISdls",
         "content": "Ottima App per passarci un po' di ore per registrarsi,senza concludere nulla complimenti al telefono nessuno risponde,bene bene.",
         "score": 1,
         "thumbsUpCount": 1,
@@ -1214,7 +1250,7 @@
     {
         "reviewId": "gp:AOqpTOFyECFcKTNicEb0phHJOEy6K5e05q6pwrAYTHXUoBIKArsJFUOBIHgfz7OoY_eSLaMHdSHsCQqZWLwn",
         "userName": "Marco Minaldi",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjOnKFNxV7oon_9GrQudptS03lzRtg8CLtpN8Bu",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjOnKFNxV7oon_9GrQudptS03lzRtg8CLtpN8Bu",
         "content": "Semplice da usare e ben progettato",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1226,7 +1262,7 @@
     {
         "reviewId": "gp:AOqpTOExncsoIVkrXFI8N74XBSrQiMNEEVQ2qvrzM5TNZicWsNi4MDWA9BhQkrZHB8vpe0WyEf3kMKojQgV3",
         "userName": "Marco Nicotra",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgJQKUNoJRmAl1p2zuOK52BiA2QdFIwz3A_ft4OPA",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgJQKUNoJRmAl1p2zuOK52BiA2QdFIwz3A_ft4OPA",
         "content": "Continuo a ricevere la notifica che mi chiede il mio stato di salute... almeno 3 volte al giorno anche se ho gi\u00e0 aggiornato lo stato.",
         "score": 3,
         "thumbsUpCount": 0,
@@ -1250,7 +1286,7 @@
     {
         "reviewId": "gp:AOqpTOGr6GrL7rTcV0buYPKFB7GQsc7xyi8956scrrtCpo44akUkSXqsBgEdCAy2iwnZGqg7wU2ngWI00kjX",
         "userName": "Carlo Migliore",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gjt0RreIdLdBP8K2XO-iIhDSXxRvc4_To5TM6QPow",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gjt0RreIdLdBP8K2XO-iIhDSXxRvc4_To5TM6QPow",
         "content": "Finalmente sono riuscito a registrarmi , ma nell'app su android appena click su esci ,mi ritorna alla pagina iniziale dove devo ridare consenso ecc e rimettere le credenziali. Scusate ma cos\u00ec no va bene vale sempre una stella",
         "score": 1,
         "thumbsUpCount": 1,
@@ -1262,7 +1298,7 @@
     {
         "reviewId": "gp:AOqpTOE84uwe1CpaVY00zU8dUheTNFJ4eWEkeOxiu_Umgrn4juCAkbNyZTIcyv99cSQ3DPaxg5BjllRRNCBn",
         "userName": "Federica Greco",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiC3Swp3hJop1wPhr3BVncPKgTX3rffroMQGIzdUg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiC3Swp3hJop1wPhr3BVncPKgTX3rffroMQGIzdUg",
         "content": "A me funziona senza problemi, ho effettuato il check-in appena arrivata e di tanto in tanto la aggiorno.",
         "score": 4,
         "thumbsUpCount": 1,
@@ -1286,7 +1322,7 @@
     {
         "reviewId": "gp:AOqpTOHzRrHf8cq_EVVN1BihPd0Z142E-0F7B0w_GvKH7Di0PphvU2lYnpjnjwxTzXQT_zw5o3SROxIP0rdJ",
         "userName": "Andrea Oezmen",
-        "userImage": "https://lh3.googleusercontent.com/-_XCfPBgbAJQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucknkx2o4xoI8bLWQsIpYNULrAw7ZQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-_XCfPBgbAJQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucknkx2o4xoI8bLWQsIpYNULrAw7ZQ/photo.jpg",
         "content": "Buongiorno volevo sapere siccome noi partiamo dalla Svizzera ad agosto,devo comunque scaricare l'app, o basta immettere i propri dati nel sito Siciliasicura. it Un altra cosa siccome siamo in 4,io mia moglie e 2 figlie minorenni, ogni persona ha bisogno della registrazione. Posso farlo io per tutti e 4.",
         "score": 4,
         "thumbsUpCount": 5,
@@ -1382,7 +1418,7 @@
     {
         "reviewId": "gp:AOqpTOGkRpbi549ck3OJzLqkgi8g2vVTmrvBLD91YpFCV77SN9c8Hpiz6WtClEV160PyeBTZzGGzfSmuon9A",
         "userName": "Lino Agosta",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgO0PI707-00DGYUAZCdIsISN7a08Z6L9oXKBusGjE",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgO0PI707-00DGYUAZCdIsISN7a08Z6L9oXKBusGjE",
         "content": "Salve, sarebbe utile poter inserire un eventuale test/tampone effettuato (data,esito, sede...) per completare il patrimonio informativo",
         "score": 4,
         "thumbsUpCount": 0,
@@ -1394,7 +1430,7 @@
     {
         "reviewId": "gp:AOqpTOFxVR-wmiB-W1OZ0pA0ggyfWIJcCPsGTMEEqpaBeaPY3jDkvuj8uLE13RuJ3YZ5Et4dS8umv0z0QGTx",
         "userName": "Aldo Lo monaco",
-        "userImage": "https://lh3.googleusercontent.com/-lR9VibiVoQo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmUJzDIhew_aD-yXx2uOl3uXatH9Q/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-lR9VibiVoQo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmUJzDIhew_aD-yXx2uOl3uXatH9Q/photo.jpg",
         "content": "Non funziona",
         "score": 1,
         "thumbsUpCount": 1,
@@ -1406,7 +1442,7 @@
     {
         "reviewId": "gp:AOqpTOHoNKnz7M_KnEXXh6c6_tQ7FFweBGSwXDwhcLo-ilV3s1_kDGHPRtL3Tv8vaTrgShJG0j2BrMkhWUxO",
         "userName": "Vincenzo Lo Casto",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhANdVGV7K4-Rw9o70bOYqp0fzj8Xfp0_RHF2Qd0vo",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhANdVGV7K4-Rw9o70bOYqp0fzj8Xfp0_RHF2Qd0vo",
         "content": "Grazie per il chiarimento.",
         "score": 5,
         "thumbsUpCount": 9,
@@ -1442,7 +1478,7 @@
     {
         "reviewId": "gp:AOqpTOFo6B37rjAilXL6p1CDypUYlfHLi0oqNrbs3lKVVhdFL_KYzbiWBhAy1_w0zWkM2Yqr-OteGz_j9y1S",
         "userName": "Daniela Gagliano",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gg6KfLxAWUMa6RMDjWbaWHWWgQRylwEpEA0xXMYdQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg6KfLxAWUMa6RMDjWbaWHWWgQRylwEpEA0xXMYdQ",
         "content": "Complicata involontariamente ho fatto il check-out e non mi fa pi\u00f9 aggiornare nulla, volevo solo inserire mio figlio",
         "score": 1,
         "thumbsUpCount": 1,
@@ -1466,7 +1502,7 @@
     {
         "reviewId": "gp:AOqpTOHWAgKD_DVg78p5ECsNxqmLRIp0GcEIeOFOFf7-0PWIg_bUExWoFA8DRaAfr9uAxnm39WZMasmG9IN2",
         "userName": "G V",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gjf9ZF94kBsDWvlVK-Vx3EuEU0N5J7ZSsPbL_5fCg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gjf9ZF94kBsDWvlVK-Vx3EuEU0N5J7ZSsPbL_5fCg",
         "content": "Ho appena scaricato l app sicilia sicura. Finita la procedura di registrazione compare una bella scritta in rosso con scritto contattare helpdesk o qualcosa del genere visto che spunta improvvisamente e rimane solo per pochi secondi. Inutile riprovare a compilare il questionario della registrazione inquanto l email risulta gia utilizzata. In pi\u00f9 all email inserita in fase di registrazione non mi \u00e8 arrivata alcuma email contenente login e password. Che fare??? Sara obbligatoria ma non funziona.",
         "score": 1,
         "thumbsUpCount": 21,
@@ -1502,7 +1538,7 @@
     {
         "reviewId": "gp:AOqpTOE57JTvkbR-q9IQ1umd6m7q8Z39CnVL-WCJl88MdxB2sESf_1aTL49Cdg194kBIzYjE1u2z3ITMrqUe",
         "userName": "Liborio D'anna",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Giyoxq3I312tVQIi9MAGudT8veJklWpiBHFg1stzw",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Giyoxq3I312tVQIi9MAGudT8veJklWpiBHFg1stzw",
         "content": "Tutto quello che non \u00e8 stato concesso all'app Immuni trova spazio nell'utilizzo di questa app. Grazie Musumeci per rispettare i siciliani che si trovano al nord a causa della classe dirigente siciliana.",
         "score": 1,
         "thumbsUpCount": 9,
@@ -1514,7 +1550,7 @@
     {
         "reviewId": "gp:AOqpTOFeJHeo3FlLonSXRZkI0JN3pqzw9OKupnvuLq_Qd_4YvGQESFD_lyxRz9oHtNODCHcbpJeu95oXy9PW",
         "userName": "Giuseppe Miraglia",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiXl8176XpZX_G_7q6-XIq9gSTYMeYzaEx2OQ658b0",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiXl8176XpZX_G_7q6-XIq9gSTYMeYzaEx2OQ658b0",
         "content": "Provo a registrarmi e la mia mail risulta gi\u00e0 presente, ma io non ho mai scaricato n\u00e9 app e nulla, cosa debbo fare?",
         "score": 3,
         "thumbsUpCount": 0,
@@ -1526,7 +1562,7 @@
     {
         "reviewId": "gp:AOqpTOHpBIrLLyUs6AYwEH9glWILeQKNdBNIXNPUKTgCO5NKkroTFkf21IvZPRYcu0D92c_WFLCIrPV_BYJ5",
         "userName": "Alessandro Pegoraro",
-        "userImage": "https://lh3.googleusercontent.com/-dyzdl_8_SQ4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnekSSMy9v2hHZxkKB2OHleouuQpQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-dyzdl_8_SQ4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnekSSMy9v2hHZxkKB2OHleouuQpQ/photo.jpg",
         "content": "\u00c8 legalmente obbligatoria per entrare in Sicilia? Grazie",
         "score": 3,
         "thumbsUpCount": 0,
@@ -1598,7 +1634,7 @@
     {
         "reviewId": "gp:AOqpTOEoD1oEHOa1BtGiNNuNSdOM6TmXnsQCddCaivOIAYnRDbe90wIZ3fbuaJ3lPFKGMvX2POn4IovJAbYG",
         "userName": "Luca Di",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gi1_tc6vzFNBrI1CtYNWsJrg6vJpgkNvlSATnEw",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi1_tc6vzFNBrI1CtYNWsJrg6vJpgkNvlSATnEw",
         "content": "Funzionale. Mi piace.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1610,7 +1646,7 @@
     {
         "reviewId": "gp:AOqpTOE7ivglzXCwYcDln6eKGQF-hW8IXQDvAt38Xhz1WUlhmgirU7Si5OvnCFvo8vHBw95PtfWnZvJIsaoy",
         "userName": "Antonio Lo Bianco",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjQAwXa7wSou33blhvuNF2uN9fJPxcrilWRlmA4",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjQAwXa7wSou33blhvuNF2uN9fJPxcrilWRlmA4",
         "content": "App utile! :-)",
         "score": 5,
         "thumbsUpCount": 1,
@@ -1646,7 +1682,7 @@
     {
         "reviewId": "gp:AOqpTOHBZs4uFnNfcrL0B8yx34k2qyXNfxMEWkM4vGoMPUS0ubFJAtUttydZ7nT-lfQgl2wnRwI_Z5vZnYn_",
         "userName": "Michele La Malfa",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgH2eUT45wOii2LrCD4yHJH7VrMlbr9TEdyc4W7",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgH2eUT45wOii2LrCD4yHJH7VrMlbr9TEdyc4W7",
         "content": "Una volta arrivato in Sicilia, indicata la mia posizione che corrisponde all'indirizzo indicato in fase di registrazione, se volessi spostarmi in un'altra localit\u00e0 (San Vito Lo Capo) in un villaggio turistico, posso spostarmi o devo rimanere nel luogo di Palermo?",
         "score": 3,
         "thumbsUpCount": 2,
@@ -1670,7 +1706,7 @@
     {
         "reviewId": "gp:AOqpTOHny91xYXIzEuO5zWf7BV2hmMbROYED4SxYP0pOJHs9RaKAcoIR5UBylfJMU_jYMrA5DK5Gslu_jZGu",
         "userName": "Giovanni Ledda",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gib-S1CBNP_ndQTvBejNBshoZPe5t4FEwjYidYu",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gib-S1CBNP_ndQTvBejNBshoZPe5t4FEwjYidYu",
         "content": "Geolocalizzazione totalmente a caso, connesso alla stessa rete wi-fi da quando sono tornato ma ricevo il messaggio:\"non sei stato localizzato ai confini di operativit\u00e0...\". Ora non posso pi\u00f9 utilizzare l'app in pratica perch\u00e9 non riconosce pi\u00f9 la posizione che aveva trovato in principio",
         "score": 1,
         "thumbsUpCount": 5,
@@ -1706,7 +1742,7 @@
     {
         "reviewId": "gp:AOqpTOHLDzog7RA_CvGBPr6eteVjejE4y_qWBhdj0owCRgvKLrNMkQQNguYR3iM20LwmLC2XSbSeEfvAapzc",
         "userName": "sergio spallino",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjFXI1SplTEny-CcJxHO4X0MgzbpFb_WO9VH6wt",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjFXI1SplTEny-CcJxHO4X0MgzbpFb_WO9VH6wt",
         "content": "Ma come si spiega che ha due giorni che non riesco ad aggiornare lo stato di salute? Mi fa mettere le credenziali e mi dice Accesso Negato. Cmq sto bene.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1718,7 +1754,7 @@
     {
         "reviewId": "gp:AOqpTOHpXMY186MJa55D_7Vt3BPGqkdmgEz_m4ymv4xHNag1VGiJGxSh7dRDxHUg04BBhlnuF48bL58J9C8Z",
         "userName": "Giuseppe Tamburello",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjBRhMWTCSYio2bmjNuuSZz8livP1sYPPM79JUT",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjBRhMWTCSYio2bmjNuuSZz8livP1sYPPM79JUT",
         "content": "Neanche si pu\u00f2 installare. Sono due giorni che cerco di installare questa schifezza",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1742,7 +1778,7 @@
     {
         "reviewId": "gp:AOqpTOEDC67YNcvErwiWMOp8B3umPM2LUh-thTV_sbRn1q-3-pRdYX_blO5iPFGfs1XAHoynv51XMa_rbqvV",
         "userName": "davide gippetto",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gh8Ilb_bBW_RHbzxRRw-AM2LvL_F5H3691ir_to",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh8Ilb_bBW_RHbzxRRw-AM2LvL_F5H3691ir_to",
         "content": "Sono fuori regione, ragion per cui non riesco ad accedere... l'ho scaricata proprio perch\u00e9 devo rientrare...mah!? non ha senso sta cosa",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1754,7 +1790,7 @@
     {
         "reviewId": "gp:AOqpTOH1pUt15haWOKgNTUPvBWMGoU7zi1Uc6izob3wMqL_MNDmIphyAG9aZGqsZjJVTQIB43d6mvRDh6gw6",
         "userName": "ludovico mantello",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Ght_xGd12DB7AArZw1PEG7m3MtqtUusKQaKG-jm",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ght_xGd12DB7AArZw1PEG7m3MtqtUusKQaKG-jm",
         "content": "app funzionale, consiglierei l'aggiunta di una notifica durate le prime ore del mattino.",
         "score": 4,
         "thumbsUpCount": 1,
@@ -1766,7 +1802,7 @@
     {
         "reviewId": "gp:AOqpTOEd3u3tR72Pp5SxXUD-4DJvjonT1bAJPlUDmZc-x_MbgA5oSSBDqWD6W9hfS_OuxZ2KivAMg_WoVqOw",
         "userName": "Deborah Crifo'",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gguubx3DMl-QO43gfi31TythOMRKELdWd8ed6g_",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gguubx3DMl-QO43gfi31TythOMRKELdWd8ed6g_",
         "content": "Non mi fa completare la registrazione perch\u00e9 il geocalizzatore dice che non sono in Sicilia... mi sembra normale non mi sarei iscritta al censimento se no. Potete aiutarmi?",
         "score": 1,
         "thumbsUpCount": 1,
@@ -1802,7 +1838,7 @@
     {
         "reviewId": "gp:AOqpTOHdde-9oHSoGOPw5U6OUozvRsUcplEXUggFHQXPr0Ap_nwCHZbqL-CW5P1mwIBYcAioTRa19AhB91Im",
         "userName": "Lucia Bucalo",
-        "userImage": "https://lh3.googleusercontent.com/-FdHwUtHFM3s/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnhW98LJIdDKFI0pvBdy_2e6g7xTQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-FdHwUtHFM3s/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnhW98LJIdDKFI0pvBdy_2e6g7xTQ/photo.jpg",
         "content": "Buongiorno. ..ho istallato l'applicazione sul cellulare ma non mi fa andare oltre non riesco ad aprirla cliccandoci sopra ...forse sbaglio qualche passaggio ..e il terzo giorno ...grazie",
         "score": 1,
         "thumbsUpCount": 1,
@@ -1814,7 +1850,7 @@
     {
         "reviewId": "gp:AOqpTOH_SaE-ocDdABYck44pEmU0PeJNIcdfFUoVNOi8MZ_wb16JixCLd32-IOj1S2eL36qn2Un9Hevo6Zf6",
         "userName": "Lucia Durisi",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgKLdD1H7NWWmaJSmRWUIdnqdqKFXSEtk2ZXt7Dq7I",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgKLdD1H7NWWmaJSmRWUIdnqdqKFXSEtk2ZXt7Dq7I",
         "content": "Si blocca spesso e riprende a funzionare dopo aver riavviato lo smartphone, anche quando ricevo notifica per aggiornare il mio stato di salute, clicco su come stai e si blocca, bisogna sempre riavviare lo smartphone, non so se \u00e8 un problema della app o del device... Grazie",
         "score": 4,
         "thumbsUpCount": 2,
@@ -1850,7 +1886,7 @@
     {
         "reviewId": "gp:AOqpTOHztVlO6bfv5b53rlL7_yiz-V3P5baW4P1A5Y1MzUN3MLy2018UHhFW6OhlxhhPPi4xAVQTO7Dw9eyx",
         "userName": "Antonio Di Vittorio",
-        "userImage": "https://lh3.googleusercontent.com/-M3B4Mr2JML0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmaQwn8KbNVUYBhS5YuB5m-7V7liA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-M3B4Mr2JML0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmaQwn8KbNVUYBhS5YuB5m-7V7liA/photo.jpg",
         "content": "Come altri commenti... Mi chiede sempre l' indirizzo e non mi fa continuare",
         "score": 1,
         "thumbsUpCount": 2,
@@ -1862,7 +1898,7 @@
     {
         "reviewId": "gp:AOqpTOGMZBF-i8s4U-tGMMOCSlh5y4FPLSfy8ygfcJ3e-y2cktwZS-9jRxSoOpLkp-a_tsdJ2nC-w9sZUjh6",
         "userName": "Marco Parrinello",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjldVgib3lZPMMKP-UoH339lPkI44ad3T746Edyxg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjldVgib3lZPMMKP-UoH339lPkI44ad3T746Edyxg",
         "content": "Sarebbe comoda l'aggiunta di un reminder giornaliero che ricordi di aggiornare lo stato di salute e non solo quello delle passate 6 ore",
         "score": 3,
         "thumbsUpCount": 4,
@@ -1874,7 +1910,7 @@
     {
         "reviewId": "gp:AOqpTOEg2pjW-QVQpFJswf1p71zyHw7H7a6b4nKgauhknWe-Rtb3TXGXCA20GPFasYYcFAVazhdm0HPdzb4K",
         "userName": "Simone Zappala'",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gi0tmWFPwdPcDS0Z0OZsKyDKDrJF_zbD97Y7rPAcQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi0tmWFPwdPcDS0Z0OZsKyDKDrJF_zbD97Y7rPAcQ",
         "content": "Volevo provare ad usarla ma non c'\u00e8 modo di effettuare la registrazione sul sito siciliasicura e non \u00e8 spiegato da nessuna parte",
         "score": 1,
         "thumbsUpCount": 2,
@@ -1886,7 +1922,7 @@
     {
         "reviewId": "gp:AOqpTOGl9K9N4ENWyXobIvKS2WNj1m5nueXTDzt4j_89AcKqyEsZ-94ZBPITipi71bz8LTDlD-oOJmf5tUiP",
         "userName": "Eros Parrinello",
-        "userImage": "https://lh3.googleusercontent.com/-iy8TN1PQMRA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclO_3xA-h0w_7087W0aRZj1ZqZGfQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-iy8TN1PQMRA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclO_3xA-h0w_7087W0aRZj1ZqZGfQ/photo.jpg",
         "content": "Ma di preciso a cosa serve questa app",
         "score": 3,
         "thumbsUpCount": 0,
@@ -1910,7 +1946,7 @@
     {
         "reviewId": "gp:AOqpTOFcHjWblDP3znjN5U3npmdS8mV-b2m5B2j_GZdY0r5uxvta9s4vdR-9jOC_MHj90j4uEm0GDuzdH_lQ",
         "userName": "Ivo Nicotra",
-        "userImage": "https://lh3.googleusercontent.com/-Hh9CUKekk5E/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm7ukuq13NhkSLQsqHueZJLwuAGaA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-Hh9CUKekk5E/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm7ukuq13NhkSLQsqHueZJLwuAGaA/photo.jpg",
         "content": "Mi sono iscritto il 26. 04 compilando tutto per quarantena ma l'App mi dice che sono sempre al 1 giorno?",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1934,7 +1970,7 @@
     {
         "reviewId": "gp:AOqpTOF48Da68SH8CBT9ytmpzZ359ohiM76Af-ishTQJ2w0drtqvt58ZrTvyVvVQQMkK9BfrSj0hVPgGrMPc",
         "userName": "Laura Zuppardo",
-        "userImage": "https://lh3.googleusercontent.com/-rm6wlpok0S8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnMv7V69bxwDnHJjKql2jOMWmpa6Q/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-rm6wlpok0S8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnMv7V69bxwDnHJjKql2jOMWmpa6Q/photo.jpg",
         "content": "Applicazione molto utile",
         "score": 5,
         "thumbsUpCount": 2,
@@ -1946,7 +1982,7 @@
     {
         "reviewId": "gp:AOqpTOExu9znluc99tfiw_nfSNr_JJzX4pILWedex4rS95PJAfiR5GMB8Wx7d4QYgIIUk-cgRhb9J8TOXt0p",
         "userName": "lucia lupo",
-        "userImage": "https://lh3.googleusercontent.com/-dEVciXJvu3M/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnxQ4Hy4gsstKmVy-Nwz9XQHLhM9w/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-dEVciXJvu3M/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnxQ4Hy4gsstKmVy-Nwz9XQHLhM9w/photo.jpg",
         "content": "Applicazione semplice e veramente molto utile",
         "score": 5,
         "thumbsUpCount": 3,
@@ -1970,7 +2006,7 @@
     {
         "reviewId": "gp:AOqpTOHv49avjrCIT7xWD0_HquDJakCsLiJx2JO8Y4KrgYntW0h6oz0nqucyckoXsHiPT1UPYGX1yzSwM1C-",
         "userName": "Carla Cancemi",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjZkhn4KtlBQswt0TSFpiP75yCW4oIqCjl00qm2og",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjZkhn4KtlBQswt0TSFpiP75yCW4oIqCjl00qm2og",
         "content": "App intelligente facile da utilizzare e molto utile",
         "score": 5,
         "thumbsUpCount": 2,
@@ -1982,7 +2018,7 @@
     {
         "reviewId": "gp:AOqpTOHDumxSlMURfwCoL1t2P2V7coicQQY7vLBDJAx8fiSbleD0-YTvwD0KvC0wD1r38QuTJlKxWgrC-YMa",
         "userName": "Eleonora Delprato",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Ghwi4cwucUMFiS6fQ_96ImpVCP9BIUymW3YaoNY07I",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ghwi4cwucUMFiS6fQ_96ImpVCP9BIUymW3YaoNY07I",
         "content": "Fantastica! Facile da utilizzare, ottima idea!",
         "score": 5,
         "thumbsUpCount": 2,
@@ -2018,7 +2054,7 @@
     {
         "reviewId": "gp:AOqpTOGDJcO-MZiu54mix5fq3CCngm1-Ac_FYXW1vwS4z_p4VQiLSklGTjUL6TgbSUR9yTSCAFOaUjWNvZYc",
         "userName": "Concetta Sidoti",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Ghd7oeb-WFPNT9y0p4z36YjtwZvakjem4wVHjXYrg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ghd7oeb-WFPNT9y0p4z36YjtwZvakjem4wVHjXYrg",
         "content": "Una volta installata ed effettuato il login pi\u00f9 di una volta e in diverse ore del giorno, mi dice sempre di inserire un indirizzo e che gi\u00e0 c'\u00e8 un indirizzo registrato. Inserisco nuovamente l'imdirizzo dove mi trovo e l'app rimane bloccata l\u00ec. \u00c8 inutilizzabile",
         "score": 1,
         "thumbsUpCount": 12,
@@ -2030,7 +2066,7 @@
     {
         "reviewId": "gp:AOqpTOH2IhZXHF4JukQ-2Rqrix2kif64xhhWeTdhpbCMC_I3vygCmAYWdfxYH9HIAf01EKLvazKjOEFG5F_E",
         "userName": "Felice Lo Bianco",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjUcMZSvQTKf7-WSKjKCPTuziQVHPEuDNblMvDT2w",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjUcMZSvQTKf7-WSKjKCPTuziQVHPEuDNblMvDT2w",
         "content": "App molto utile, specialmente per chi ha il virus e si trova in isolamento domiciliare.",
         "score": 5,
         "thumbsUpCount": 2,
@@ -2054,7 +2090,7 @@
     {
         "reviewId": "gp:AOqpTOEBV6GsgkiaWGIgq6pyltnrEyhXudwKywnTakZA36NXKz_HR1IGfOlQsHeJ4yQe8eXwSsn_gGpZI5Hl",
         "userName": "Kate Dmitrieva",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GizQyttpOdrJAl3DZwyfLO4Igf1hDBXtMpnOATT7Q",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GizQyttpOdrJAl3DZwyfLO4Igf1hDBXtMpnOATT7Q",
         "content": "Bisogna spiegare meglio che non tutti possono usare la app (non permette registrarsi) In realt\u00e0 pu\u00f2 usare soltanto chi ha ricevuto login e password prima (dove e come nessuno sa).",
         "score": 1,
         "thumbsUpCount": 1,
@@ -2066,7 +2102,7 @@
     {
         "reviewId": "gp:AOqpTOE8SyjPS9R7OhDJb-NBRdjGXFgvNGyKj2SsFgp9KvmYulWcjUnrFPdk5h7Tqfs7BlaDxhRVuen1Ziie",
         "userName": "Angelo Bordonaro",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gh3oKqnjF-2CScmVjQ_cqUOj0HbtIKEe9WjrEH_",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh3oKqnjF-2CScmVjQ_cqUOj0HbtIKEe9WjrEH_",
         "content": "Una gran presa x i fondelli..... Da 1 settimana aspetto le credenziali x l'accesso",
         "score": 1,
         "thumbsUpCount": 1,
@@ -2090,7 +2126,7 @@
     {
         "reviewId": "gp:AOqpTOG93d8D8Sb4c6j9ewZFiJIN-1byJaKwD-_ZLqMCqeTD7wUvof3AqYsD9-M_9-p3VL0TQUlUjgspFTWG",
         "userName": "Mik Ele",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gg2g__NwMelsNz_HFzWsEfG_OGDuCgl2L52T0Vn",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg2g__NwMelsNz_HFzWsEfG_OGDuCgl2L52T0Vn",
         "content": "L'ho disinstallata perch\u00e9 anche se dopo averla scaricata sul mio smartphone mi appare il msg che l'app deve essere usata dal mio smartphone, quindi inutile!",
         "score": 1,
         "thumbsUpCount": 6,
@@ -2102,7 +2138,7 @@
     {
         "reviewId": "gp:AOqpTOENzeiWIMYKN7evq8nkrA_sIrH5WOnBiCLM1kF13H90KK-Tl5_SbldoDVZqBIJwQW8F3PVTWJl8o4XT",
         "userName": "Elena Magr\u00ec",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gh7vgnBaOJfGIDvGVxHwNJmD1RE37on1sRwZLubOw",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh7vgnBaOJfGIDvGVxHwNJmD1RE37on1sRwZLubOw",
         "content": "Schifo nn mi fa entrare.. Risolvete...",
         "score": 1,
         "thumbsUpCount": 2,
@@ -2126,7 +2162,7 @@
     {
         "reviewId": "gp:AOqpTOHY-jFX5Dir9fx5bW248Jkhn4U2_2C7lyCdAS1nEl08Bz4nRRqNcaWfFScn89GRDQDZObtjFM-rG4C5",
         "userName": "Alias Alter",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiLgqt-1Mp8afXf3_-FF3STfT8WjHKG8jyEcv_JAg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiLgqt-1Mp8afXf3_-FF3STfT8WjHKG8jyEcv_JAg",
         "content": "Cambia mestiere",
         "score": 1,
         "thumbsUpCount": 2,

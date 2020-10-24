@@ -1,5 +1,29 @@
 [
     {
+        "reviewId": "gp:AOqpTOH2c6o59oKzBb-PnwNXI1OxipIf8sxfkO1a-kHlwolOA4I87A34mXhiq7NJgkX7xwOe9_7OHVlFKIMS01U",
+        "userName": "guido torella",
+        "userImage": "https://play-lh.googleusercontent.com/-wtnzVxeqdWI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckhMlSVp_lQCyogDAOpqCE4R7d2Ig/photo.jpg",
+        "content": "Ottimo",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "5.1",
+        "at": "2020-10-20 16:15:04",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOEDHBLBQQtZi5Am0KCKEAV_ayWaOIIMkke4AqZ2qQcxSW0geRfx9X2_69gvT5ScdlN2N7LHC2RTJo8LZfc",
+        "userName": "Ornella Rivaben",
+        "userImage": "https://play-lh.googleusercontent.com/-a_6jfRZ8a1E/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnSgzsOokAB_tFKwmylUttMzB-eVQ/photo.jpg",
+        "content": "Questa app \u00e8 sicura come quella governativa?",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "5.1",
+        "at": "2020-10-20 14:31:12",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOEW8THn8oeGEFO-WlKlmWglmO13e9Ka0UG-iZl9ceN7Wknpa4tXqK5G9-wJ6RSbnU5hrSJmGSgLO6XR1AA",
         "userName": "Stefania Pinti",
         "userImage": "https://play-lh.googleusercontent.com/-k9mqZVurh8E/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm7L8q2FG30u6RzbbYy7sylYSif3A/photo.jpg",
@@ -26,7 +50,7 @@
     {
         "reviewId": "gp:AOqpTOHf7DBtGmQhd8VoCqymAxkwmUoxt_l-DL7T6VToyJF8BUDcTnmdaaA-dWfimhSsUEa7KY7OuuNryhlQTj0",
         "userName": "Antonio Pagliuca",
-        "userImage": "https://lh3.googleusercontent.com/-pjKC2U9X6MQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmToi6kzFOdsEd5TaTNIaNOB5GCag/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-pjKC2U9X6MQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmToi6kzFOdsEd5TaTNIaNOB5GCag/photo.jpg",
         "content": "Per sapere se qualcuno in casa ha il VIRUS COME faccio a sapere. ?",
         "score": 5,
         "thumbsUpCount": 9,
@@ -50,10 +74,10 @@
     {
         "reviewId": "gp:AOqpTOEYbKVmbzKIrsPnBe6uK8VsI8pLirx3aHQS6P8Mp7AhdmdjrOlb8Wv6qmYP0bGN3QbHfJZNgkKPn4AwTlw",
         "userName": "A.A.S. awm",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Ggh5LkOCoEWzjHugNmKEjyd2ECOQaMXOTfb0WC3sA",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ggh5LkOCoEWzjHugNmKEjyd2ECOQaMXOTfb0WC3sA",
         "content": "E utile e ti da una certa sicurezza oltre a livello di prevenzione anche un a livello psicologico e un ottima applicazione",
         "score": 5,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "5.1",
         "at": "2020-10-10 23:22:43",
         "replyContent": null,
@@ -62,10 +86,10 @@
     {
         "reviewId": "gp:AOqpTOEO-t0TmKEO0wO7stIzgLHr8gkm1z54_JN2UC8Dyhomh3udUxEUbDqVrFzOn8x4zxaFppoKY0NGKD5z_kw",
         "userName": "Nunzia Arancio",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Ggp1w-yFyFEu10si8rqeGmSmLMtm-spd5nYLvLd0Q",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ggp1w-yFyFEu10si8rqeGmSmLMtm-spd5nYLvLd0Q",
         "content": "Molto buona l' app solo in caso di positivit\u00e0 si pu\u00f2 schiacciare e parlare con lo specialista.",
         "score": 5,
-        "thumbsUpCount": 6,
+        "thumbsUpCount": 7,
         "reviewCreatedVersion": "5.1",
         "at": "2020-10-10 20:58:47",
         "replyContent": null,
@@ -86,7 +110,7 @@
     {
         "reviewId": "gp:AOqpTOGu7yNU_j2hQ2nXVD1L4BQNN220QYaNK1oFhSXkk8uqFN9T76DR6bwhAgQy-3ICTtKA92f2ygByP01MR94",
         "userName": "giovanni corontini",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gg6Ewjp2uLVeT1VLKT6ZtVgWqzqgaOmbJt6NF1rKg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg6Ewjp2uLVeT1VLKT6ZtVgWqzqgaOmbJt6NF1rKg",
         "content": "Non riesco ad istallare l'app",
         "score": 5,
         "thumbsUpCount": 0,
@@ -98,7 +122,7 @@
     {
         "reviewId": "gp:AOqpTOGVlYAovWeEnbCefdSQ8E_zQsoiGhpxrijfhx2rPvPftVtax03_FSrpehS4GMsKD5FpCTcrAh9uiIVWSS4",
         "userName": "Carmela Fischietti",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhGFfxqPA_h5eTAZT3y5Poif8N0NSRTf79PECmJDg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhGFfxqPA_h5eTAZT3y5Poif8N0NSRTf79PECmJDg",
         "content": "IMMUNI",
         "score": 5,
         "thumbsUpCount": 0,
@@ -110,7 +134,7 @@
     {
         "reviewId": "gp:AOqpTOFbKyhsi9p2HG_H9thPkMlK1gztDSb7Zy1m5PTZZUmOmPwbbUVFN-nNjTiouKuNBHLPPjLDLWXn0kGzEQA",
         "userName": "Carmelo Buccarelli",
-        "userImage": "https://lh3.googleusercontent.com/-TII5wzlHOd4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnKlE4zVPCBq__VrLgTtsMZ-927vA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-TII5wzlHOd4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnKlE4zVPCBq__VrLgTtsMZ-927vA/photo.jpg",
         "content": "Facile",
         "score": 4,
         "thumbsUpCount": 0,
@@ -122,7 +146,7 @@
     {
         "reviewId": "gp:AOqpTOFOub4tkDHuhbiNFiAaS_EZUKY_Zd466IyhfDzA3784VEYh5hvzH46psdBvyfMvGE1CDnRMKGkWphmK5wI",
         "userName": "Cinzia Lamberti",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjRQcUQlqQ6AFL3N1ly2nUN-3t_CCRxx8YT7Uxh",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjRQcUQlqQ6AFL3N1ly2nUN-3t_CCRxx8YT7Uxh",
         "content": "Se non attivano tutti, il bluetooth e il gps, l' utilit\u00e0 \u00e8 solo parziale.",
         "score": 3,
         "thumbsUpCount": 15,
@@ -146,7 +170,7 @@
     {
         "reviewId": "gp:AOqpTOGi7S2bPEfn84DT7GxOXE_4SBu5G591rqGnaFXjE0bMVVKrdwXQMBgQnJzRW2TqGdhjR6Q8psH8G1phOys",
         "userName": "Michele Valenti",
-        "userImage": "https://lh3.googleusercontent.com/-8OKBSz2FJN8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucndxLk1B6zBlPXVGAnGRAsm2uZBkQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-8OKBSz2FJN8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucndxLk1B6zBlPXVGAnGRAsm2uZBkQ/photo.jpg",
         "content": "La segnalazione solo delle presenze delle persone non da alcuna certezza sulla presenza di eventuali positivi",
         "score": 1,
         "thumbsUpCount": 5,
@@ -158,7 +182,7 @@
     {
         "reviewId": "gp:AOqpTOGnd_UbFwLOKdf00q2068bjqMYOuRdZRIRcryQIKk9t7hZPK-YrJR2UyJwAQJtI0rTGKn_5AtbzU5DH3zE",
         "userName": "Romano Ettore Web",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgNykuceW2h6_WRoe--WjpGfsJnxGxe_vScerb4pw",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgNykuceW2h6_WRoe--WjpGfsJnxGxe_vScerb4pw",
         "content": "L' app consuma troppo batteria",
         "score": 1,
         "thumbsUpCount": 0,
@@ -170,7 +194,7 @@
     {
         "reviewId": "gp:AOqpTOGopPdEETefXXvPLuMRoanhu72IwEoPGI_-8nV9czxdDMVauPKJ2oPIyMUiW45eOoMTiUAepqPFHRgmrQY",
         "userName": "Flash Scream",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gg_byUlh7liXAgeN_z_MCBhJLyP7fB763i19KoI",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg_byUlh7liXAgeN_z_MCBhJLyP7fB763i19KoI",
         "content": "Troppi permessi... Non si poteva fare un'applicazione senza tutte ste richieste?",
         "score": 2,
         "thumbsUpCount": 0,
@@ -182,7 +206,7 @@
     {
         "reviewId": "gp:AOqpTOHTrV1qqoT1RzIOMQdP8JsEUnWZ4oWJYza8Jlh4_LZ7sTfQXYCe82AsVIh3aOy1a6aQ_MYdrfKaz23vR3w",
         "userName": "giuseppe zupo",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gi8Hn7I2V09QHTZ-o4wqoEXyEMt8KF7cbVMZU7ONg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi8Hn7I2V09QHTZ-o4wqoEXyEMt8KF7cbVMZU7ONg",
         "content": "Aspetto di usarla e vederne il responso per dare una valutazione pi\u00f9 attinente. Faccio notare una mancanza tra le categorie indicate... Mancano le forze dell'ordine, forse meno a rischio dei medici/infermieri/OSS ma categoria a rischio per servizio.",
         "score": 3,
         "thumbsUpCount": 0,
@@ -206,7 +230,7 @@
     {
         "reviewId": "gp:AOqpTOHtM8f7bLj94Q7uQOMrCipD4t24MMqYQyYC9fgkHSr8c5vim8iK-wEVIv1LuRHhNdV0XRBAkH5YPGY1VC4",
         "userName": "Giovanna Ciosi",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gi_fcUjTlAKtK8WxsSg0R7iA96oFZKzUS6rhreBSQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi_fcUjTlAKtK8WxsSg0R7iA96oFZKzUS6rhreBSQ",
         "content": "Ottimo",
         "score": 5,
         "thumbsUpCount": 0,
@@ -230,7 +254,7 @@
     {
         "reviewId": "gp:AOqpTOFE3sg4vDdshzzRrB6jUAH-YSrlFbMSYmO2eZxzD25SKfL9ggyHSHU-gKWEJJ3Jry6Z0IXyv6Ap3g0RNY0",
         "userName": "Nella Lai",
-        "userImage": "https://lh3.googleusercontent.com/-JbyNn2ZQ6RE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmIfO0HIFoyftehtqVToo11hBDGkQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-JbyNn2ZQ6RE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmIfO0HIFoyftehtqVToo11hBDGkQ/photo.jpg",
         "content": "Molto utile per tutti",
         "score": 5,
         "thumbsUpCount": 0,
@@ -242,7 +266,7 @@
     {
         "reviewId": "gp:AOqpTOHEhuGRVXVIphR6mVnkCkzaZ0d0XmW4c7cl_TOTcfLlzS78ThEr4ZcOUFu_dLjQy-bYY62CUwm-LGILpMk",
         "userName": "Nicola Tarallo Matarrese",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhZ5Ar40w78ypOpTvDEd22gFs5EIpIjTCK1KkiEQw",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhZ5Ar40w78ypOpTvDEd22gFs5EIpIjTCK1KkiEQw",
         "content": "Pro:\u00e8 compatibile anche con dispositivi pi\u00f9 datati; \u00e8 comoda per tenere sotto controllo il numero dei casi. Contro: \u00e8 un po' troppo invasiva (chiede troppi permessi); troppe notifiche; consuma pi\u00f9 batteria dell'altra app (Immuni).",
         "score": 3,
         "thumbsUpCount": 0,
@@ -302,7 +326,7 @@
     {
         "reviewId": "gp:AOqpTOE24mO9Ff6VrH7MMuJBfqEJfIAvWvIi0hbwMQZVdflKlcQ2bW2qRiNbfSShjLpM8nqIDteaHbovehXPoUg",
         "userName": "franco carlotti",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GggZOH0ziBpiLObjrPPw2hs0JkcOWkFn_QIk1wn",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GggZOH0ziBpiLObjrPPw2hs0JkcOWkFn_QIk1wn",
         "content": "Semplice e comoda la puoi disinstallare quando vuoi.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -314,7 +338,7 @@
     {
         "reviewId": "gp:AOqpTOFIV9DCSLZPqK4goXGqOil_YO-RsCg-EbwZ2p0zoqppBwvKgkuDBN5YBO4_2Md2n9zaPJ9eMgqMsxgNllQ",
         "userName": "raffaele manca",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gj-OG_5ys_o4yUVjt9wMGw5WGOfkoKSeU5RTUFD",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj-OG_5ys_o4yUVjt9wMGw5WGOfkoKSeU5RTUFD",
         "content": "Un piccolo problema su Xiaomi Tutto risolto in un batter d'occhio Bravissimi ora funziona di nuovo che \u00e8 una meraviglia. Altro che Immuni, questa \u00e8 una app di tracciamento veramente completa.",
         "score": 5,
         "thumbsUpCount": 1,
@@ -326,7 +350,7 @@
     {
         "reviewId": "gp:AOqpTOGk3qAWRZVgKOYe1QVIvMnRIx_Ndic3-3G5znowi-LRfHv-36R8UWqrkAj9NrmrBr6eEMGCNQ28HvG8MyY",
         "userName": "Isidoro Chieregato",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiA06h8Pxag858sv3jxj6CY3O5Lm78Y5cMlyJ7R",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiA06h8Pxag858sv3jxj6CY3O5Lm78Y5cMlyJ7R",
         "content": "Positiva",
         "score": 4,
         "thumbsUpCount": 0,
@@ -362,7 +386,7 @@
     {
         "reviewId": "gp:AOqpTOGJpi4MZRjAwmxSb5QnfUlQtKXHnCScP30BqNpaofBNOTG0oR0-asO3poGGWQOwL4_jvgsDYsBcLhgksWM",
         "userName": "Valerio Artizzu",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gic2rAfVfRgZxG_0rWcDv605Cuw8pHB-DTLnQBobg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gic2rAfVfRgZxG_0rWcDv605Cuw8pHB-DTLnQBobg",
         "content": "Dovrebbero installarla tutti per essere pi\u00f9 efficace",
         "score": 3,
         "thumbsUpCount": 0,
@@ -374,7 +398,7 @@
     {
         "reviewId": "gp:AOqpTOHWsZ9v5FGttBI4YQZD3vno5F0Ckxn4R4De-TQV4DZGWmnUd-ZU1fTeEQGrdL0w0vb0YOhzstZaLtlH_8c",
         "userName": "Giovanni Borgia",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhtIP3C2u0pZR4paJOvahFI6ZEHS_cJtb8Uw3Ma8XA",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhtIP3C2u0pZR4paJOvahFI6ZEHS_cJtb8Uw3Ma8XA",
         "content": "Io preferisco utilizzare questa applicazione invece di altre, mi risulta pi\u00f9 user Friendly.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -386,7 +410,7 @@
     {
         "reviewId": "gp:AOqpTOF5wzGdC8I3ShRVj7zB1ohrYKBVpJNP_kk0-gybWKbYBtKwkzCRcTFghxU3KM-1cptLWbrY_TEKRZtPFto",
         "userName": "Francesco Adamo",
-        "userImage": "https://lh3.googleusercontent.com/-oEnoopVlGfk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckDpc9pX8wHVakUL69n2AI5suWlhQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-oEnoopVlGfk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckDpc9pX8wHVakUL69n2AI5suWlhQ/photo.jpg",
         "content": "Ok frequento poche persone",
         "score": 5,
         "thumbsUpCount": 0,
@@ -398,7 +422,7 @@
     {
         "reviewId": "gp:AOqpTOElGrbYSqLwcZ5Nj5yXTt6CDWoUrWa9ZI9kIqwrA6kFwbaVigzS270GqIUmAvyhkAA6EQhgIQSU9wTwTI8",
         "userName": "Antonio Comegna",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Ghid2IjdwdPEqu_8Y3YfHpJL5D7pN-nDcUN5E0NJg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ghid2IjdwdPEqu_8Y3YfHpJL5D7pN-nDcUN5E0NJg",
         "content": "App pessima da 3 giorni circa non si apre pi\u00f9. \u00c8 meglio che cambiate lavoro!!!!",
         "score": 1,
         "thumbsUpCount": 1,
@@ -422,7 +446,7 @@
     {
         "reviewId": "gp:AOqpTOFwjhopEM7qj5Wnn5unDVEKoW5w8ft1qVkAp2k4KkoGrHVAy2Bh67bY7hDN0XL60IqhzPAbA6oukGW3gIg",
         "userName": "Giorgio Giorgi",
-        "userImage": "https://lh3.googleusercontent.com/-P9LR7XF-f38/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckEvxkmxMes6EPNU04-_liG4LdgJw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-P9LR7XF-f38/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckEvxkmxMes6EPNU04-_liG4LdgJw/photo.jpg",
         "content": "Utile nei centri commetciali",
         "score": 5,
         "thumbsUpCount": 0,
@@ -434,10 +458,10 @@
     {
         "reviewId": "gp:AOqpTOE7GadYmfmp5DZ718Gmv71vyuFbJBLLBYL4X6iUCzqJdY9dq6pPY-UpCqaq8hMv2JOXwBqOFv1ef0AE-jc",
         "userName": "amica infedele",
-        "userImage": "https://lh3.googleusercontent.com/-zxPLnQIiSUM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl7z_AgCDaJK6rUCkUldtsBKxjIFg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-zxPLnQIiSUM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl7z_AgCDaJK6rUCkUldtsBKxjIFg/photo.jpg",
         "content": "Molto utile.... Avevo delle riserve all'inizio....ma con il passare dei giorni mi rendo conto che mi aiuta a mantenere il distanziamento",
         "score": 5,
-        "thumbsUpCount": 27,
+        "thumbsUpCount": 28,
         "reviewCreatedVersion": "5.0",
         "at": "2020-07-19 22:23:35",
         "replyContent": null,
@@ -446,7 +470,7 @@
     {
         "reviewId": "gp:AOqpTOGWHFSOGMxz2MMxC7gTYZsUelbRo5jkAMDvqxbhEJdamHCMJwOdgViJXXNTlj48C2mzMhG63mQOg7ZHGcg",
         "userName": "Marco Schiavello",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjlMw5GbuLIe3sfsOI5Glu0NgTQ5gF-wmhR77Pvag",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjlMw5GbuLIe3sfsOI5Glu0NgTQ5gF-wmhR77Pvag",
         "content": "Dopo ultimo upgrade, l'app va in crash",
         "score": 1,
         "thumbsUpCount": 0,
@@ -458,7 +482,7 @@
     {
         "reviewId": "gp:AOqpTOH8xSrtgAXthFESipUpoXmTIkUiHWwQsfTVceegMfANfAG619LPfRF8wUE5w6nBOYhWdADas-_0ECZ3cEo",
         "userName": "intelcat true",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgZTJTH79j_bPRPKWS9kTeEdNovYIWrHhUyOQsC",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgZTJTH79j_bPRPKWS9kTeEdNovYIWrHhUyOQsC",
         "content": "4Stelle e non 5 perch\u00e9 dopo l'ultimo aggiornamento 5.0 l'applicazione va in crash alla apertura...parte e subito all'istante si chiude.Ho disinstallato e reinstallato l'applicazione e cos\u00ed facendo ho risolto il bug. HUAWEI P20 PRO android 10",
         "score": 4,
         "thumbsUpCount": 27,
@@ -494,7 +518,7 @@
     {
         "reviewId": "gp:AOqpTOGV7yeJStx6pndRJIVnjqK7Xm1RNInkicyjX2Kv8TxuX4kNZcKXy2EQ_b95dsq1aPEVX1ylWjbSka1GyD0",
         "userName": "Saverio Maietta",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhzMATnLACLswtqhAnnPIy2SWtr1mTwq6TsY5_SgKQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhzMATnLACLswtqhAnnPIy2SWtr1mTwq6TsY5_SgKQ",
         "content": "Dopo l'aggiornamento del 13 luglio \u00e8 diventata instabile e si chiude in continuazione",
         "score": 3,
         "thumbsUpCount": 1,
@@ -518,7 +542,7 @@
     {
         "reviewId": "gp:AOqpTOGJ-SQGmYZhvlxtR8XqYcJ-PeHHsKxKpYZeXDOg5pAG_53FBgwtf4WXJcIirfPHQr5xGEzK1P-oaBJ7mnA",
         "userName": "massimo",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgM9h9wVL9zEu_IrjxfTJuGTizZMRbZlLQtSaKd4g",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgM9h9wVL9zEu_IrjxfTJuGTizZMRbZlLQtSaKd4g",
         "content": "Samsung A70",
         "score": 1,
         "thumbsUpCount": 0,
@@ -530,7 +554,7 @@
     {
         "reviewId": "gp:AOqpTOFRMz-FFL2zxKHv7yQStQ8TTMgMlMzPQ_UlEc6sIhp5smPuHEt-y0_RJyiuYbMTj0R4_IKMWia24BpBQIY",
         "userName": "Graziell Mazzani",
-        "userImage": "https://lh3.googleusercontent.com/-4xFfujh_kGk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmBFG8ibj2BvK2_EhrQyxXJwnUM0Q/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-4xFfujh_kGk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmBFG8ibj2BvK2_EhrQyxXJwnUM0Q/photo.jpg",
         "content": "Dovremmo applicarla tutti l'applicazione immuni....saremmo PI\u00d9 tranquilli TUTTI",
         "score": 5,
         "thumbsUpCount": 0,
@@ -542,7 +566,7 @@
     {
         "reviewId": "gp:AOqpTOHynShI2UIWi9Sxw2osqwQBeD_cv0_08hFGnf4SAKGOagRryAZ1R9QCb72fp2MiwUDgXssBl9o0y6Or0mc",
         "userName": "Nino Ferro",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgIRD9DP8VLNZ4_klBCYcwGhSi6dqATKcHh3UYiTw",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgIRD9DP8VLNZ4_klBCYcwGhSi6dqATKcHh3UYiTw",
         "content": "Ancora in prova",
         "score": 3,
         "thumbsUpCount": 0,
@@ -566,7 +590,7 @@
     {
         "reviewId": "gp:AOqpTOG4M7FKRMXu5h3ndjfH1-pLEeHMHOC0oOioZEwYLf0tC5RfxA0_ZLfaNajx8ub08VrO1BHA6OKyB0LMxq8",
         "userName": "Giuseppe Petruzzi",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gi3mh_keIyBpZnBxLN_7pPWbtHEpQBczORg7eaKlw",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi3mh_keIyBpZnBxLN_7pPWbtHEpQBczORg7eaKlw",
         "content": "\u00c8 utile, ma non so se si interfaccia con \"Immuni\" come sarebbe logico",
         "score": 5,
         "thumbsUpCount": 0,
@@ -590,7 +614,7 @@
     {
         "reviewId": "gp:AOqpTOGFGZbr8wM2kqf4yxrZp1kx40S35f2kN97ppeh84FHuwAWBVfLpFO0izUzBXLPt_FI_Xe86LsZSgPn8OVs",
         "userName": "Daniela Curci",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhlmE5ir3xZVY2qjyc6OS6MDvYFt06b92EWhavwyw",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhlmE5ir3xZVY2qjyc6OS6MDvYFt06b92EWhavwyw",
         "content": "Efficiente",
         "score": 5,
         "thumbsUpCount": 0,
@@ -602,7 +626,7 @@
     {
         "reviewId": "gp:AOqpTOHEToaQ4Xq-LwsHhzcTT9BQ4u7hKAq9GYNognDUUMzxY1_Tp--cax5ck-DrWoR6VSbeC-t7TsGyLe3Dpqs",
         "userName": "Salvatore Rizzo",
-        "userImage": "https://lh3.googleusercontent.com/-faV0kcsrJtE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm-Hzh8dofsE1PQIxn8_OFbKO5Hcg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-faV0kcsrJtE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm-Hzh8dofsE1PQIxn8_OFbKO5Hcg/photo.jpg",
         "content": "Nessuna esperinsa",
         "score": 3,
         "thumbsUpCount": 0,
@@ -626,7 +650,7 @@
     {
         "reviewId": "gp:AOqpTOGyWOxlkfE5PV76MUGRSwSWewngWJPXNXx4IR3T_ESSjYr6XkWNsWaRrQMyUnVdAQFBzACSzK10ta4x60I",
         "userName": "CATERINA DELL'ORCO",
-        "userImage": "https://lh3.googleusercontent.com/-DIkioy_98xY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl4b3cPVjlFCm5WwvjRUmuR6Bty-g/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-DIkioy_98xY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl4b3cPVjlFCm5WwvjRUmuR6Bty-g/photo.jpg",
         "content": "OTTIMA",
         "score": 5,
         "thumbsUpCount": 0,
@@ -638,7 +662,7 @@
     {
         "reviewId": "gp:AOqpTOHQ-uUhB_ya3dkzjCa_qc_Zr2w27gdToUSk0siEzxtv-1xg_xBgeIESq1zL7yW2ydaTxX9UnSNaFvp1Bvg",
         "userName": "Paolo Morosi",
-        "userImage": "https://lh3.googleusercontent.com/--_ZwHs0UVlQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckcCGnX-cFX4kZvOKZUwB82zE2IFQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/--_ZwHs0UVlQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckcCGnX-cFX4kZvOKZUwB82zE2IFQ/photo.jpg",
         "content": "Non soddisfacente (al momento). Domanda: perch\u00e9 mi appare spesso la scritta 'applicazione in esecuzione\" e l' indice \u00e8 a 0.00? La prima volta che l'ho scaricata andava molto bene. Perch\u00e9 ora no saluti Paolo",
         "score": 1,
         "thumbsUpCount": 17,
@@ -650,7 +674,7 @@
     {
         "reviewId": "gp:AOqpTOFWjqVRnVpeJZB27Q1ckuLGIT-JBFNhrCuH9-jN-X_WMupDog8ZJIM_j0iCva0JR8QF4JSKHWhwNTuwBAQ",
         "userName": "Michele Leonardi",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhlwqWpNE0gTCOK6bQLdnNKN5BDIYS-VCVlQHxu",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhlwqWpNE0gTCOK6bQLdnNKN5BDIYS-VCVlQHxu",
         "content": "\ud83d\ude22",
         "score": 1,
         "thumbsUpCount": 0,
@@ -662,7 +686,7 @@
     {
         "reviewId": "gp:AOqpTOGBCbtV9bw1E6GfhdPviw_QFM1gUU5oDmr3-L0VGz-clTQIaHGadfs1UOt0zqdjEPOtF4LvQ1uuXY-_8Kw",
         "userName": "Alessandra Brancalion",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhYH0VzuTB_kqnGyNykaOP5h1al9iutjYAnNXzsHA",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhYH0VzuTB_kqnGyNykaOP5h1al9iutjYAnNXzsHA",
         "content": "Per ora va bene, io non ho molti contatti con l'estero comunque",
         "score": 2,
         "thumbsUpCount": 2,
@@ -686,7 +710,7 @@
     {
         "reviewId": "gp:AOqpTOEEdLTLQhUoqL25bCuglYpeohTGW3gXN8SMH3h0CuIAsSL4-PZo8fBWsmvlcu1xJII1fEccxSSxQT2qEf0",
         "userName": "Cornelia Siviero",
-        "userImage": "https://lh3.googleusercontent.com/-hXuoBJkZdSQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnqgrNIHCbQ-JLGWCvypWECKEDZLA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-hXuoBJkZdSQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnqgrNIHCbQ-JLGWCvypWECKEDZLA/photo.jpg",
         "content": "Funzionera'?",
         "score": 5,
         "thumbsUpCount": 0,
@@ -734,7 +758,7 @@
     {
         "reviewId": "gp:AOqpTOFVZJk0gv9Z-wonGOottRPtVguTvMk01svzIxVVtM_wK2PJPD3DHaBJE3kCvdXvAGdBk7wyZzH1Kt8bLjk",
         "userName": "franco moretti",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gi9VI031GmGgV9xzP5AfSxgZp1bRf6LvwHLVEUo",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi9VI031GmGgV9xzP5AfSxgZp1bRf6LvwHLVEUo",
         "content": "App molto utili",
         "score": 4,
         "thumbsUpCount": 0,
@@ -746,7 +770,7 @@
     {
         "reviewId": "gp:AOqpTOF5qTOlQ9pRLXncp-9soV9zJsjAnz2YY0i4lR-417FuEKTGDP6MUzTVT0RbP9OtSZFsCVPmcfOm9fQlj-M",
         "userName": "Stefano Novelli",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gj-qd7bcv1EzfA1uz1a5dsSFf_eEKtF9_0w4LmFj6U",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj-qd7bcv1EzfA1uz1a5dsSFf_eEKtF9_0w4LmFj6U",
         "content": "Applicazione molto interessante e ben fatta ma che consuma una quantit\u00e0 di batteria assurda: minimo il 16% della batteria in 10 ore e senza mai averla aperta in modo esplicito ed \u00e8 un valore molto pi\u00f9 alto di quello del display o di Facebook o navigazione internet nello stesso intervallo",
         "score": 3,
         "thumbsUpCount": 27,
@@ -782,7 +806,7 @@
     {
         "reviewId": "gp:AOqpTOGBZlNCuUHqVEHo5aIZc1GnqGuEYVxWDPF5PWTK6SBt2lIPZPDU762p1W2hDY9nR1y4PNqDYrG_9P8F5oc",
         "userName": "Giuseppe Margani",
-        "userImage": "https://lh3.googleusercontent.com/-frLbIKW_Q08/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnL2RAwTcYS_kqhi88XWlzKQDXnKg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-frLbIKW_Q08/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnL2RAwTcYS_kqhi88XWlzKQDXnKg/photo.jpg",
         "content": "Ottima ma con l'ultimo aggiornamento, l'applicazione si blocca in modo anomalo. Attendo notizie ho un android 9. Il problema \u00e8 stato risolto nell'ulteriore aggiornamento. Tutto a posto. Ottima e utile applicazione",
         "score": 4,
         "thumbsUpCount": 5,
@@ -794,7 +818,7 @@
     {
         "reviewId": "gp:AOqpTOFeYyfhB8Ej0fsBV5gI95E7QC8__dBlzoJCAo3PBBFRd1N44pFrMtke-r7FbYVr-_xPk06Pbi37sVELWjc",
         "userName": "patrizio storai",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhvEsGytfbTTbCNsKunI-oAJkm-h8V0SzWPA94J",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhvEsGytfbTTbCNsKunI-oAJkm-h8V0SzWPA94J",
         "content": "Ottimo",
         "score": 5,
         "thumbsUpCount": 0,
@@ -818,7 +842,7 @@
     {
         "reviewId": "gp:AOqpTOHKnIYr3zbssdDbdmUKCZ2ZlFjqAgeFEEzEBY1D8MEN5Ui5ij_sZfz7TggG2iVf5sGFHCgpQIjR6df5mi0",
         "userName": "Antonio Danise",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gj9Ci3_QqQGCe7WMgE_yPXBliTuL_jA75BOBW_YlQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj9Ci3_QqQGCe7WMgE_yPXBliTuL_jA75BOBW_YlQ",
         "content": "nn c'\u00e8 il numero degli infetti",
         "score": 1,
         "thumbsUpCount": 0,
@@ -845,7 +869,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-3QdE0fFhSqU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckJj-4BK61DTGkdm-DW4PLah9Zkgg/photo.jpg",
         "content": "Per il momento nessuna rapporti a rischio ci persone positive se l' app funziona",
         "score": 4,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "3.9",
         "at": "2020-06-25 21:31:12",
         "replyContent": null,
@@ -854,7 +878,7 @@
     {
         "reviewId": "gp:AOqpTOG8pFpD9M6JKfeVUJgs7PvswCkEBy0DHeGa1yFaRNCFnVQ2Fq_0fz5UXFj_IJDZ8LCmn-2blVJ5NkpMFys",
         "userName": "Bruno Taretto",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gi2EBM_IEfVzF78RLnyI9tgiaNcLeoENNNkyea_Ig",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi2EBM_IEfVzF78RLnyI9tgiaNcLeoENNNkyea_Ig",
         "content": "\ud83e\udd17\ud83d\udd1d\ud83d\udc4d\ud83d\ude18",
         "score": 5,
         "thumbsUpCount": 0,
@@ -890,7 +914,7 @@
     {
         "reviewId": "gp:AOqpTOEXhLzqsv0aoqS0ksH-XtZGA7rJPU_1poP-PA7lH_uT1fxZwpB-8jeEkhlZRw_c_hdexWy690k0XLCsMBg",
         "userName": "Giuseppe Cipullo",
-        "userImage": "https://lh3.googleusercontent.com/-CrB8n56ocvY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnYyeKvn24BNi2mzF_SbzIVfXE9bw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-CrB8n56ocvY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnYyeKvn24BNi2mzF_SbzIVfXE9bw/photo.jpg",
         "content": "Ottima App",
         "score": 5,
         "thumbsUpCount": 0,
@@ -902,7 +926,7 @@
     {
         "reviewId": "gp:AOqpTOEKdzUT8Ed_dJONnUK-MZRYdlCWHARTQqlwCawiPZf52-Rh8kHytB6BBgLoK793yEjyCECW3yc0I6aTaaQ",
         "userName": "Lisa Giarda",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gj2N9_e11CMoyNdM24yOshOp28z5gxFXP3vo4TL7TI",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj2N9_e11CMoyNdM24yOshOp28z5gxFXP3vo4TL7TI",
         "content": "Cosa significa quando mette 0,e poi un tot di numeri dopo?",
         "score": 2,
         "thumbsUpCount": 0,
@@ -914,7 +938,7 @@
     {
         "reviewId": "gp:AOqpTOFgPP9CNNyJjEs_nxrs13t4E05ErTj4H5LeIXCo_k9YymAJTi9XfSyIyIO-a9v26W9Il00pbnTrj8bQnt8",
         "userName": "ALESSIO CAPOCCHIA",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Ghj3GF99LwrX64uMrSTXAvQBjwbJXxIcXEEwrkcrQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ghj3GF99LwrX64uMrSTXAvQBjwbJXxIcXEEwrkcrQ",
         "content": "Funziona bene",
         "score": 5,
         "thumbsUpCount": 0,
@@ -938,7 +962,7 @@
     {
         "reviewId": "gp:AOqpTOEkMADNdZdi27RcCYAcy0fmw7xAYYH58Gag2-VQrTtQOI0kwbbvNh1wxYU_ktZUf96MSTlOHfoozxOMShE",
         "userName": "Matteo Fontana",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhScXqu85eARyPKGDKaiKf6nq9N1D1R2P40S-nhqA",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhScXqu85eARyPKGDKaiKf6nq9N1D1R2P40S-nhqA",
         "content": "Molto bella",
         "score": 4,
         "thumbsUpCount": 0,
@@ -950,7 +974,7 @@
     {
         "reviewId": "gp:AOqpTOFp0d8Fv4vOopiV_VnxNc6ZyondUdPaHgzjLgds_IJifXvw8n_Vscei38JKcDU2xDDzknNezQ6qO-vODtY",
         "userName": "Giovanni Bernardi",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhK5gfAaiRbnkyKTznuNPs_kspOVvx5_3DZtwngqw",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhK5gfAaiRbnkyKTznuNPs_kspOVvx5_3DZtwngqw",
         "content": "Consuma troppo riprovare e controllare... 1 ora e la batteria \u00e8 gi\u00f9 ....arcano scoperto \u00e8 incompatibile con immuni l'app governativa ... #veneto1st",
         "score": 5,
         "thumbsUpCount": 0,
@@ -962,7 +986,7 @@
     {
         "reviewId": "gp:AOqpTOHR1WoJw7DAs0uKgN0Nq2Rc1ZHR6Q7ILEwTshxM5fsf4MX2PORqbbjz4kj3200LudfKbEq60LbTaOaB8Kc",
         "userName": "Alfredo Marcoaldi",
-        "userImage": "https://lh3.googleusercontent.com/-AB6Ok8gE4m4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckoh-thsUyJcv0jIi5W9trpq9inYA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-AB6Ok8gE4m4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckoh-thsUyJcv0jIi5W9trpq9inYA/photo.jpg",
         "content": "Non ho capito se ad oggi, 17.6.2020, la app \u00e8 attiva e funzionante, con invio di notifiche in caso di contatti a rischio",
         "score": 4,
         "thumbsUpCount": 0,
@@ -974,7 +998,7 @@
     {
         "reviewId": "gp:AOqpTOGLgr7mKk5mB-AOteglftkhLtFON8Z4Uv4b42JmWePh7fISRV3ZHNE04ubauMWjm45aL_IzwGQAFbQRFgY",
         "userName": "Stefano Pallotto",
-        "userImage": "https://lh3.googleusercontent.com/-kYDYTs16xS8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmglyhWnEqVsLQujjXghWtmDo01jA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-kYDYTs16xS8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmglyhWnEqVsLQujjXghWtmDo01jA/photo.jpg",
         "content": "Qusta app vale 2 stele",
         "score": 2,
         "thumbsUpCount": 0,
@@ -986,7 +1010,7 @@
     {
         "reviewId": "gp:AOqpTOE8inN0Nq_FRC2VKjzMaLfw91UPN3_YOA_576rk8p_vJhcVB_SJuET63bAID_27ljCrqa28-AF7bWlgKTY",
         "userName": "Carmine Viggiani",
-        "userImage": "https://lh3.googleusercontent.com/-ab02qlG_cH0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn2XRarpNXAuSqICxbmb-K8N0cSMA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-ab02qlG_cH0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn2XRarpNXAuSqICxbmb-K8N0cSMA/photo.jpg",
         "content": "Molto utile",
         "score": 4,
         "thumbsUpCount": 0,
@@ -998,7 +1022,7 @@
     {
         "reviewId": "gp:AOqpTOHtfmCybMQIfNAft7Pzcza22rgms04ReoCZEs9OMrUDLzjzWUDmtpqTG8Pb_pbCV37h6oupXZL0DocbPSo",
         "userName": "fabrizio farina",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjSTMWh72kgDbl5Uh1BHczfUQ8Luh3Yu5KWIzAsug",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjSTMWh72kgDbl5Uh1BHczfUQ8Luh3Yu5KWIzAsug",
         "content": "Questa app funziona, al contrario di Immuni che non va....",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1010,7 +1034,7 @@
     {
         "reviewId": "gp:AOqpTOFZm2dyO6wPkXBlK_6RkctuziloGwujTKzU6AVFzXDvRyCzcbAO1GHOMmMgJ0YwOss-9qB_v-5ukwkFI7Y",
         "userName": "Roberto",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GicB91t6mqPvp6zCf5JQlzbEr1suIUUFSGjdZ4n",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GicB91t6mqPvp6zCf5JQlzbEr1suIUUFSGjdZ4n",
         "content": "Ottima app e facile da usare, veramente molto interessante, consigliata e usatela",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1034,7 +1058,7 @@
     {
         "reviewId": "gp:AOqpTOH0Hy9FzDjeDnwdiosvDr6ix-qKV6pCeeTNJ8NlYh5IRy-qPOwWsm9DeshderI1MhuLO36d94Oyv6KxqA4",
         "userName": "Cobra guerriero",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhMIpNl6J2amR6co699oo6r3wv4IA0qEJfmWDWyoQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhMIpNl6J2amR6co699oo6r3wv4IA0qEJfmWDWyoQ",
         "content": "Non so quanto sia credibile, al momento non posso dare di + poi si vedra', a me pare + un controllo della persona. E allora W la privacy.",
         "score": 3,
         "thumbsUpCount": 0,
@@ -1058,7 +1082,7 @@
     {
         "reviewId": "gp:AOqpTOFnUl4NwO5A2ZSrgGk3U2n0p3nb7sWhDkMksW2xixD-seXvWVjFCGMkTTgwLyBhKs8ClwkZHQ_oFgCpbbg",
         "userName": "Stefano Sparapan",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhxmAWMDVLouxt4bpAf4Ju5gjkHXECEBZF_i6vSqNo",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhxmAWMDVLouxt4bpAf4Ju5gjkHXECEBZF_i6vSqNo",
         "content": "Non riesco a capire in che modo (spero di no) avvisare il medico in caso di positivit\u00e0 per poi avvisare chi \u00e8 stato a contatto con me (principio di funzionamento di immuni). Nell'app non trovo nessuna voce a riguardo",
         "score": 2,
         "thumbsUpCount": 3,
@@ -1094,7 +1118,7 @@
     {
         "reviewId": "gp:AOqpTOHPFL5DsM4zAjV0SNNFqp4LqPC5M5VjH_M8blCA5aSg3Xe6Lwi0327VJa57WJjvAL0RtpSWyR3otvdDfrU",
         "userName": "Colangelo Francesco",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgnWMWdFbJ5hOx_sSZQGQ1ocwwbpP_6EUWoRep9",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgnWMWdFbJ5hOx_sSZQGQ1ocwwbpP_6EUWoRep9",
         "content": "Ok",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1106,7 +1130,7 @@
     {
         "reviewId": "gp:AOqpTOGzx1bMX7TXt5kKwfWxUrAZW1CFW3d_QTYz6BgzkMCpvbLyYrrewyb4wjlqINtJz5M_pq8lFnhQV8k880M",
         "userName": "Fabrizia Casamatta",
-        "userImage": "https://lh3.googleusercontent.com/-IGSFY00CfsU/AAAAAAAAAAI/AAAAAAAAERg/AMZuucmbqAJOVp75XrdvW7ixWmDAEhyL1Q/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-IGSFY00CfsU/AAAAAAAAAAI/AAAAAAAAERg/AMZuucmbqAJOVp75XrdvW7ixWmDAEhyL1Q/photo.jpg",
         "content": "Molto buona",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1130,7 +1154,7 @@
     {
         "reviewId": "gp:AOqpTOG0RSD1LxSalmn5WKXtw4jc9knHGgdgDyLn3mIaifAaBJ86ngOBph7fuUPWjP59FT6clIfab-v1d9UGno8",
         "userName": "Rocco Topa",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhqyRY1zPGlh1Sixt7I24sYLTEBeFEfw6gF0R1fYw",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhqyRY1zPGlh1Sixt7I24sYLTEBeFEfw6gF0R1fYw",
         "content": "Buona giornata \ud83d\ude0e. Va bene. Funziona bene",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1154,7 +1178,7 @@
     {
         "reviewId": "gp:AOqpTOFZ34QHqQIChM0H3y9OHNO0yEwtjwNpnMx_TIgrZm43y0nQGzwTZfpysmdOsJN7taUpstZSuFxsTOZO1zQ",
         "userName": "Gabriella Giachetti",
-        "userImage": "https://lh3.googleusercontent.com/-g7JzgJHTMJw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmqeFJym8IBa9FQHxLHsdJmZQD84A/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-g7JzgJHTMJw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmqeFJym8IBa9FQHxLHsdJmZQD84A/photo.jpg",
         "content": "Se funziona sarebbe eccezionale",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1169,7 +1193,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-wvDKJIluHGQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm0jZwSHghVVRtoK5Fqkq9byEjubw/photo.jpg",
         "content": "Ho da poco installato l'app e devo dire che non \u00e8 male per niente anzi ha una schermata davvero carina e semplice da usare.",
         "score": 5,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "3.9",
         "at": "2020-06-10 11:45:26",
         "replyContent": null,
@@ -1178,7 +1202,7 @@
     {
         "reviewId": "gp:AOqpTOH_Rd1sqAvGM1exvdYSMh2RsJm_17MG6tmToWdyFdyeMkVRhrxL8ZOHUirPhV1SUNC4tYpbND3vvbZpq3c",
         "userName": "Vincenzo Corvo",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gi2C2GO12v_MzCD98uRaviSrb3E_0VXwob3dveu6g",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi2C2GO12v_MzCD98uRaviSrb3E_0VXwob3dveu6g",
         "content": "Non la scaricate e un virus",
         "score": 1,
         "thumbsUpCount": 1,
@@ -1190,7 +1214,7 @@
     {
         "reviewId": "gp:AOqpTOFUZyzR2YrW_Rz8ThGkozAdEeCTeDuBBN7zQM3DKAPKO-P9YKCAJQ79bNfRZc6FsWrcMPLfgMwugD1nFTY",
         "userName": "Salvatore Romano",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiQVc-saMXLEEhGniEI78oQdvj2979LwRdiAu8cTg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiQVc-saMXLEEhGniEI78oQdvj2979LwRdiAu8cTg",
         "content": "Non \u00e8 possibile una notifica ogni 30 secondi",
         "score": 1,
         "thumbsUpCount": 1,
@@ -1202,7 +1226,7 @@
     {
         "reviewId": "gp:AOqpTOEoQW8b-y-gQai0Ucb982SDsyDq99WXWkZm1CVN3kuN2o6Tzwt_LRmPFzm_yXAuL-uDybfny_vREqqnmxI",
         "userName": "Luisa Acquas",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgmigjZGXifMcuigQ4JqNBKCCHsGhpO5ZKXyJwAsg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgmigjZGXifMcuigQ4JqNBKCCHsGhpO5ZKXyJwAsg",
         "content": "Spero che serva, ma serve anche per quelli che non hanno contratto il Covid 19, siccome da 1 al 15 agosto 2020 dovrei recarmi ad Porto San Maurizio in provincia di Imperia Liguria Italia Italie Italy. Oltre ad installare questa applicazione si dobbiamo fare i 3 tamponi e eseguire l'autocertificazione quella per l'uscita dal Piemonte ovvero dal capoluogo Torino TO alla Liguria, Porto San Maurizio, in provincia di Imperia IM, siccome dovremmo convivere insieme in un alloggio bilocale. Luisa",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1214,7 +1238,7 @@
     {
         "reviewId": "gp:AOqpTOHeQrOfQZP7TKDmOZhlwzSHVXTIr-n9oE6ViO-uc8hzn56NIM94_rMlb6WLBO_xVMnqCcfVALpWdY3b4PU",
         "userName": "Piero Savoca",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gj4HZK4lX5l1oYMpgQgnbvFR04rLbBUXGqX42Wc8g",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj4HZK4lX5l1oYMpgQgnbvFR04rLbBUXGqX42Wc8g",
         "content": "Mi sembra una stronzata come app come fa a sapere se uno \u00e8 veramente positivo o negativo senza tampone? Poi se l tocca un altro il cell cambia o no? Sec me na cavolata l altra volta m diceva che ero poco rischioso ora mi dice tutto bene mha",
         "score": 2,
         "thumbsUpCount": 0,
@@ -1238,7 +1262,7 @@
     {
         "reviewId": "gp:AOqpTOEjD8zNYlihoLEXG2zIAfG6s4dRBSvBkEUdq0ZZR53TGAUSzv06-upN4xxVSeiQB_D07_7_rxs2BZLkEwA",
         "userName": "Alberto Laurenti",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgPPHJaY_YyaskPm2AEwJAJ-AYO617hPYN66Vtv2A",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgPPHJaY_YyaskPm2AEwJAJ-AYO617hPYN66Vtv2A",
         "content": "Non \u00e8 chiaro il significato dell'indice (e le varie soglie), n\u00e9 sono indicate le procedure da fare in caso indicasse una situazione di potenziale pericolo. Inoltre \u00e8 molto fastidioso il continuo vibrare delle notifiche push che arrivano pi\u00f9 o meno ogni ora, inclusa la notte. Vibrazione che a quanto pare \u00e8 impossibile disabilitare.",
         "score": 2,
         "thumbsUpCount": 20,
@@ -1274,7 +1298,7 @@
     {
         "reviewId": "gp:AOqpTOEu8b2l8WnFqgW97bR2xOf-xX7-HdHse8uCjy8LvVtUzDZwwVYnnFDb5T-nb4bdiTOSM41bXazLVxBXD_o",
         "userName": "roberto vavassori",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Ghgz9PRuc7F9IgGyOENeb1F0hWYiDQ7OSmgLwolYJc",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ghgz9PRuc7F9IgGyOENeb1F0hWYiDQ7OSmgLwolYJc",
         "content": "Avendo scaricato e poi disinstallato subito Immuni, sembra che questa app sia di gran lunga migliore. Ma vedremo, io lavorando in strada, a Milano, tra la gente, per acquedotto, sono pi\u00f9 a rischio di tanti altri. Mi frega poco della privacy,anche perch\u00e9 siamo gi\u00e0 ultracontrollati anche senza app,se mi sar\u00e0 utile la tengo altrimenti disinstallo. PERCH\u00c9 PER APPLE NN C'\u00c8 APP? . \ud83d\udc4d",
         "score": 4,
         "thumbsUpCount": 76,
@@ -1286,7 +1310,7 @@
     {
         "reviewId": "gp:AOqpTOFfz6ZSYhV-IIiSbRoo6I9ke2HB0AsFeDgXyHb4Riigo7OYWlOgy9z3FFR3NR3vpAxJSfpwNw0DpfVmVy0",
         "userName": "SALVATORE SCIORTINO",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gi2JvojV75FIK5p6vPjZG3B8tIMXlyCA4xbOpOl",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi2JvojV75FIK5p6vPjZG3B8tIMXlyCA4xbOpOl",
         "content": "Ok",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1310,7 +1334,7 @@
     {
         "reviewId": "gp:AOqpTOErCkkkq5WrLN59PJIlvFS91_FpO7-VBHLonO9ch7uc8QWm_Wcbobqx2HS2g1IauKsfUVAL7V-EoUD5NWI",
         "userName": "Antonio Sechi",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgPxV02F1_PPxI8knKfGQLr5fviRAUNyWWv5tS23A",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgPxV02F1_PPxI8knKfGQLr5fviRAUNyWWv5tS23A",
         "content": "Oggi disinstallo l'app dopo 2 mesi di utilizzo perch\u00e9 ho installato ieri Immuni. Lo Stato d'altronde ha sviluppato internamente l'app ufficiale e ha deciso di non utilizzare la vostra. Non trovo utilit\u00e0 ad utilizzare la vostra app in quanto priva del rapporto ufficiale con le istituzioni. Ho contribuito con i miei dati al test di Sm_covid19 e mi auguro la softmining possa trovare vantaggio di questo e nel futuro sviluppare altre app utili. Ciao e buon lavoro",
         "score": 5,
         "thumbsUpCount": 10,
@@ -1346,7 +1370,7 @@
     {
         "reviewId": "gp:AOqpTOF4bN3G24OJXb_Zg1EWsJmx7s2bigsyxxGUB0FOeFvPlbw1Y_m0mqTOeR_Cp9xZV0_p_h6FHTk737o_w74",
         "userName": "Maria Borini",
-        "userImage": "https://lh3.googleusercontent.com/-_AOATaJn0Xo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckbg9iRcMIiswIeCSL30c7DmVn7Yg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-_AOATaJn0Xo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckbg9iRcMIiswIeCSL30c7DmVn7Yg/photo.jpg",
         "content": "Mi aiuta",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1358,7 +1382,7 @@
     {
         "reviewId": "gp:AOqpTOFA6w5b9DXqfPzbmwXu9mnoKuSBeezvloTna5tauk_iT6lN4LOr9dfKczLC_LWonqy_RxSlROufjpdMS1I",
         "userName": "Carlo Camarlinghi",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhA99ywxkL8mSzXiW6_tkcgZVtLSzuRPYCsPtrE0Q",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhA99ywxkL8mSzXiW6_tkcgZVtLSzuRPYCsPtrE0Q",
         "content": "Comodissima \ud83d\ude0a\ud83d\ude0a\ud83d\ude0a",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1373,7 +1397,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-JJDIXwZ_QDs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnRixTYcqUk47Tz3svMKBEJgw0vkA/photo.jpg",
         "content": "Complimenti state facendo un buon lavoro anche se questo risultato lo otterrete solo grazie al numero di chi scaricher\u00e0 l'app, comunque io penso di essere stato uno dei primi a scaricarla, ed attualmente sta funzionando molto bene contrariamente ad immuni che ho scaricato da circa una settimana e fino ad ora non ho ancora capito se veramente c'\u00e8 Continuate a migliorare e speriamo che molte persone si convicono che la tecnologia pu\u00f2 veramente aiutarci ed essere utile.",
         "score": 5,
-        "thumbsUpCount": 80,
+        "thumbsUpCount": 81,
         "reviewCreatedVersion": "3.9",
         "at": "2020-06-06 21:05:13",
         "replyContent": "Grazie per aver scaricato SM-COVID-19. L'obiettivo \u00e8 ricreare la rete dei contatti in modo da poter intervenire in modo tempestivo e puntuale nel caso di segnalazione della positivit\u00e0 di un utente della rete. Maggiore \u00e8 la diffusione dell'app, migliore \u00e8 il risultato. Il team SM-COVID-19",
@@ -1382,7 +1406,7 @@
     {
         "reviewId": "gp:AOqpTOGGEmbp7n5QtobqkGbePgqTwEA_3v068hwIME4QvaseCCJ49Lw8k-Mke-wqIM-cMBNeKAtbBPr0y0TFmM0",
         "userName": "claudio farinelli",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GifhzpY9I1hwlD8DA_fI_jWQwz-Sq4hgyaa3BVapw",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GifhzpY9I1hwlD8DA_fI_jWQwz-Sq4hgyaa3BVapw",
         "content": "Molto utile",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1421,7 +1445,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-7q85bEKEbCg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclXfkqGDTpQMZ4BGJmzFKc-cAWscw/photo.jpg",
         "content": "Dopo il chiarimento informativo dell'autore posso dire che merita 5 stelle, e grazie delle informazioni",
         "score": 5,
-        "thumbsUpCount": 1,
+        "thumbsUpCount": 2,
         "reviewCreatedVersion": "3.8",
         "at": "2020-06-06 11:54:12",
         "replyContent": "Ciao Mike, questa App \u00e8 stata pubblicata a Marzo ed \u00e8 dedicata all'analisi di dati di contact tracing per la costruzione di modelli statistici per conoscere meglio come evolve l'epidemia da covid. L'app governativa \u00e8 Immuni ed \u00e8 stara rilasciata il 1\u00b0 giugno.",
@@ -1454,7 +1478,7 @@
     {
         "reviewId": "gp:AOqpTOGKCiRHFc69Pg26XZnxy592QYD34wGYbr9ljrI8XjhFlw-pcb7zkz3mjte76nLtSCQzgaEbwWMjS4MyAeM",
         "userName": "Raw Main",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgqbWS6HVBtlHXoGfxG5FQV3BeRgdph_kRDlWxGQA",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgqbWS6HVBtlHXoGfxG5FQV3BeRgdph_kRDlWxGQA",
         "content": "- (1). Come per le versioni beta precedenti, permane la richiesta di permessi non necessari, quali accesso a fotocamera e NFC. Peraltro con autorizzazione NFC, questo viene \"spammato abbestia\"... **EDIT : NFC spamming Fixed in build 2.5 #13 - Permessi camera e NFC ancora presenti causa mantenimento codice barcode scanner journeyapps - EDIT2 : permesso NFC rimosso in build 3.1 #16 - EDIT3 : rimossi (finalmente) codice Journeyapps barcode scanner & permesso fotocamera in build 3.2 #18. In tale build sono stati per\u00f2 aggiunti nuovi permessi lettura&scrittura External Storage...** . - (2). Presenti ancora problemi di riattivazione indesiderata in foreground con situazioni successive di crash / app, che non risponde correttamente/prontamente, tentando di rimetterla in background. . **EDIT : Partially fixed in build 2.5 #13 = cambiata gestione in background & OK supporto notifica persistente / ancora sporadiche riattivazioni indesiderate in foreground - EDIT2 : fixed in build 3.1 #16** . - (3). Errata gestione di richiesta opt-in per l'utilizzo dei servizi di localizzazione, dato che non si attiva quando l'utente effettivamente flagga/autorizza geolocalizzazione e GPS, ma anche per il solo BT peer contact-tracing **EDIT2 : cambiata gestione trasmissione coordinate GPS ad API OpenSignal ed Istanza Firebase in build 3.1 #16**. . - (4). Ci sono precise linee guida - a seguito dell'emergenza - che regolano la pubblicazione sul Play Store di app a tema COVID, che prevedono autorizzazione ufficiale esplicita da parte di Autorit\u00e0 Governative e/o Enti operanti in ambito sanitario. Non si ravvisano esplicitamente tali elementi necessari in relazione alle info di pubblicazione per quest'applicazione. . - Per tali motivi si \u00e8 proceduto ad inoltrare apposito report per app inappropriata al supporto sviluppatori Google Play, onde effettuare le verifiche preposte. - **EDIT : Inoltrata segnalazione 15/04 a MID (Ministero per l'Innovazione tecnologica e la Digitalizzazione), onde consentire le relative verifiche, anche a seguito delle ufficializzazioni 16/04 in merito all'app nazionale di contact-tracing** - **EDIT-2 : il rilevamento di Immuni, qualora installata & effettivamente attiva, introdotto nella build 3.8 #24 funziona cosmeticamente (ved. cambio riquadro nella UI), ma non introduce nuove reali funzionalit\u00e0 per l'utente & comporta un peggioramento del risk-score dell'app. **EDIT-3 : Tutte le app BT proximity tracing con protezioni per esecuzione in foreground e background evidenziano un risk-score di base superiore. Nel caso specifico di SM_COVID19 risulta pi\u00f9 alto rispetto alla media di altre app BT proximity-tracing analizzate in ambito EEA/Single-Market, a causa della combinazione di extra-perms + tecniche di offuscamento del codice (che si applica al 70% dei metodi richiamati dall'app) & evasion/antidebugging + impostazioni listener/receiver (a partire da build 3.4 #20 n.d.r.). In merito a ultima reply dev, si ringrazia per la disponibilit\u00e0. Visto che tali non sono comunque info riservate / soggette a NDA, riterrei opportuna anche la loro pubblicazione da parte vostra in scheda app e/o sito web, in analogia a quanto fatto per le altre app autorizzate in pannello nazionale covid & associate a publisher privati / non-istituzionali.",
         "score": 1,
         "thumbsUpCount": 4,
@@ -1466,7 +1490,7 @@
     {
         "reviewId": "gp:AOqpTOFTioOuQ0eckbefrKAwHhwGIQ4xH1HFXiLGnrlIPddfGm_yzEIVuC6ewngGhDhxusLjaNtIzW2HmmraQQY",
         "userName": "Massimo Correddu",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Ghw6LBtEeLzjaCS9knOwYtwu9tiyHaydt0AbxD-wGs",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ghw6LBtEeLzjaCS9knOwYtwu9tiyHaydt0AbxD-wGs",
         "content": "Invadente. Vuole accedere alle mie app personali per funzionare sconsigliato.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1478,7 +1502,7 @@
     {
         "reviewId": "gp:AOqpTOEYnvaBGQjjU-fY119KRTnDBcWkxRpVVxVStlCmia2PdvuCjRsvA-Xr8zGJb0ek4wMhFfCAyL31TeHr4qM",
         "userName": "Odilla Colombo",
-        "userImage": "https://lh3.googleusercontent.com/-9f_y8iQYrGA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmBIhRTru86Zauaqy8Lq4A1C2Smnw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-9f_y8iQYrGA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmBIhRTru86Zauaqy8Lq4A1C2Smnw/photo.jpg",
         "content": "Questa app \u00e8 molto utile",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1502,7 +1526,7 @@
     {
         "reviewId": "gp:AOqpTOH72JUWb2FzOd5BP9K5BVc64p1NOEuU8QGfRDw6VGq8UfLJbuMpubLN6ffbN-puui5Bnz7cyS_szMAwAwY",
         "userName": "Adele Voglino",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Ggxz3f0F11u3NCXfMldC94NoBNE5AJooRgyEiYzeg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ggxz3f0F11u3NCXfMldC94NoBNE5AJooRgyEiYzeg",
         "content": "Nn riesco a comilare sembra bloccata",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1538,7 +1562,7 @@
     {
         "reviewId": "gp:AOqpTOFVSeqGFXY0FaWFOauX_HKzC4s8Z2dEkxfy5l1s215lfOwK3pltgm8WH8XqEjh5oIro7qjlEQakAwtDC4Q",
         "userName": "Carlo Dettori",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiO5ZiplGNP0erRoaUe4el4y-YbCy6nSbY4P1-hmZc",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiO5ZiplGNP0erRoaUe4el4y-YbCy6nSbY4P1-hmZc",
         "content": "Bella app",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1550,7 +1574,7 @@
     {
         "reviewId": "gp:AOqpTOHWeESJGjXrSiGx_QzTYHxtN4ywGzH_zXaCx9LPnk5jS2Qo5Pu_HixOjw-x6fmhAYN28U41Wjuskam2NBQ",
         "userName": "giuseppe assunta",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhMrxZbgVh0Gxdp3TtZUS1iNMlxIzIOapIY7wQJoA",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhMrxZbgVh0Gxdp3TtZUS1iNMlxIzIOapIY7wQJoA",
         "content": "Appena istallata nessun problema .",
         "score": 3,
         "thumbsUpCount": 0,
@@ -1598,7 +1622,7 @@
     {
         "reviewId": "gp:AOqpTOHENqbfkUzOWhGuP0Mg-h6E-5BRtTnEEXcwP3vU3dv4bPIIImx8vL45XJBHUMnvT9yCcX_MD1k8l1v10I4",
         "userName": "antonio macaluso",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gjl6JqnCsIAhp9nQVhD5pPoBN8oPNWVe2yvMie5OA",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gjl6JqnCsIAhp9nQVhD5pPoBN8oPNWVe2yvMie5OA",
         "content": "Cogli l'attimo",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1622,7 +1646,7 @@
     {
         "reviewId": "gp:AOqpTOEmoH37U5-nt1Cm10qUuT0FFwUhWLzbOtjDd6sYpwOr7NyvIo_wvquVoEIytD4mmAI2XkwpUImm4TR7XiY",
         "userName": "Giovanni Quida",
-        "userImage": "https://lh3.googleusercontent.com/-aLE1O3ByqfA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck6jk7BYkB-wDp0tZDqnPYsmTdb3A/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-aLE1O3ByqfA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck6jk7BYkB-wDp0tZDqnPYsmTdb3A/photo.jpg",
         "content": "Ottima idea",
         "score": 4,
         "thumbsUpCount": 0,
@@ -1646,7 +1670,7 @@
     {
         "reviewId": "gp:AOqpTOEAzRAqx0dauVE9id3XpLthROVlsFWuVxZRcHWwT1rVmIp0-Cdnl9TlXNEsT5KYu7Qb76R9Q62bAqUo1-g",
         "userName": "Gaetano Pellegrino",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiJNZcvdK5Rhp2hRydxDngt7XczMdocDpysFeH_",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiJNZcvdK5Rhp2hRydxDngt7XczMdocDpysFeH_",
         "content": "Ok",
         "score": 4,
         "thumbsUpCount": 0,
@@ -1658,7 +1682,7 @@
     {
         "reviewId": "gp:AOqpTOG2KnqZX2LM4wDYLXLUYf8ivbseFI5Mw2hleN4qwD3Sx_fR__6C_P6sWZQFWDdzOwAx-UoEkZgfnpqyHu4",
         "userName": "Valerio Fordiani",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gjuc-G0n4I0vaDrZKLMrPWs6maD4eZsNASKXqf6",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gjuc-G0n4I0vaDrZKLMrPWs6maD4eZsNASKXqf6",
         "content": "buono",
         "score": 4,
         "thumbsUpCount": 0,
@@ -1670,7 +1694,7 @@
     {
         "reviewId": "gp:AOqpTOHwNpCRjiq0ifXqHOXH_hqnCf1530MELKv1SFVEGTiBmo-awJasnF9iG-ViSOykSJg9eu01ECKrY1e0z3s",
         "userName": "Ramona Zoppi",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GikGCWMLOKoZcUNawY8TAAa9OrqMdvtnD8beVpK0w",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GikGCWMLOKoZcUNawY8TAAa9OrqMdvtnD8beVpK0w",
         "content": "Soddisfatta e funziona benissimo",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1682,7 +1706,7 @@
     {
         "reviewId": "gp:AOqpTOFs0X5x_zuz7aaTtGlgodnmMPdbV2444z27bHsH6U5p8L7_VEwKZWeOSVbim9FV3Ip-zjskcr6OsrIK_6w",
         "userName": "Maria Cervellera",
-        "userImage": "https://lh3.googleusercontent.com/-ElMvHZgbzhU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmhFp7OE9vWy_FUtHUYzlIVUqfchQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-ElMvHZgbzhU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmhFp7OE9vWy_FUtHUYzlIVUqfchQ/photo.jpg",
         "content": "L'ho appena installata,vedremo speriamo che non mi arrivano mai notifiche negative",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1694,7 +1718,7 @@
     {
         "reviewId": "gp:AOqpTOGe_8_OVjgfaWWuY9X7qA2Mu5KHWR9BwC8knIxjfkvCOQeDj_sD8FWWBJjDesFvBLLVNcZnDIZQiaveF-w",
         "userName": "GingeRgisti",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgXx29-LwJTGc69dOGiMLOd1yb-Y-Nt8WaNS-hG",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgXx29-LwJTGc69dOGiMLOd1yb-Y-Nt8WaNS-hG",
         "content": "Ma in Toscana, funziona!?",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1706,7 +1730,7 @@
     {
         "reviewId": "gp:AOqpTOHYmlkkS7Z-jAqOKAo6s_XKog1_E96RYidGqQBFlircsKiE-VtxogmEyazKYhhj7ATc7uc7gf22dF_Cf48",
         "userName": "Camomilla Muira",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgCYhu9RI116AMdGhDa2VaF162EmBknCn8lLPdrFVo",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgCYhu9RI116AMdGhDa2VaF162EmBknCn8lLPdrFVo",
         "content": "Grandi !!!!! se potete aiutate quei poveri scappati di casa dei quiz e delle diete, purtroppo non ascoltano dudu ... \ud83d\ude02\ud83d\ude02",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1721,7 +1745,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-w08fneEiRPU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclLpxepBNfT7MnqMNH664hq7RMiww/photo.jpg",
         "content": "App eccellente! Utilizza solo la tecnologia Bluetooth e non richiede GPS neppure su dispositivi Android (a differenza, ahim\u00e8, di Immuni). Per il momento SM-Covid sembra essere il top per il tracciamento dei contatti, in attesa che Immuni venga sistemata ed implementata a dovere. Avanti cos\u00ec! :D",
         "score": 5,
-        "thumbsUpCount": 4,
+        "thumbsUpCount": 5,
         "reviewCreatedVersion": "3.8",
         "at": "2020-06-03 13:03:46",
         "replyContent": null,
@@ -1730,7 +1754,7 @@
     {
         "reviewId": "gp:AOqpTOFyG1qnv7MJ7-yCUiILisE-pRVmFoQIqBhbdBsj12FMhX-Qqqi2dOZOFNMo7boTnN2NNNj58fPQquY_VwI",
         "userName": "Lorella.calura@gmail.com gaiairene",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhN4q1kQ9wV6EPAVEIN4dfD5njlcCK7ww0QriyMow",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhN4q1kQ9wV6EPAVEIN4dfD5njlcCK7ww0QriyMow",
         "content": "Ottima app meno invasiva da immuni del ministero della salute ho preferito questa",
         "score": 5,
         "thumbsUpCount": 1,
@@ -1742,7 +1766,7 @@
     {
         "reviewId": "gp:AOqpTOHL_KP3ODwP9VHF1rnYJYF0ki0S2C6w-Mb6Q_Cv0v4ZAy1Q_14bK1AHWTtAxlytnmBqtRG4alkHktwDunc",
         "userName": "Pasquale Morsa",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gj9j_lkr4URyta2JwT0uXmQm3X_j69qf-tb7ATq",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj9j_lkr4URyta2JwT0uXmQm3X_j69qf-tb7ATq",
         "content": "Efficiente utile per la cittadinanza",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1754,7 +1778,7 @@
     {
         "reviewId": "gp:AOqpTOFLyJ6cMvDbfCFmAubTfF7exKiFLecRDh9Wp3s5TWU9Gty2CSMybDXCzZkgWyVr8ajbgmgZ-EsFaF4sUqQ",
         "userName": "Daniele 1981",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjQPKyaOvKHkU-dJuXyFJ1_Wv_UB9o18NGMP5AB",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjQPKyaOvKHkU-dJuXyFJ1_Wv_UB9o18NGMP5AB",
         "content": "Ottimo",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1778,7 +1802,7 @@
     {
         "reviewId": "gp:AOqpTOFp0qRH70mQ05IfP9CnlGKdabdVyRjp0QfuSjBHN3j_5g5dzwbmdoF7kriwnSEIYJOcAXFx19q3sYEfZe4",
         "userName": "Anna Maria Villagrossi",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjPAmc-iBaBHIIaqB4htpI2gM4Rmrwtr7VXBr-CPw",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjPAmc-iBaBHIIaqB4htpI2gM4Rmrwtr7VXBr-CPw",
         "content": "Dovendo tenere attivo il bluetooth mi fa sprecare troppa batteria. La ritengo utile, ma non con Bluetooth",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1790,7 +1814,7 @@
     {
         "reviewId": "gp:AOqpTOH0cF2Wocr7qdp1HZcBtKvE5T20-XtD4H41hlY7GUYf9K00lhhltl0mG0R6M-8UO3vJcD_bMi1JBHMzBgU",
         "userName": "Daniele Barattelli",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gi1zcFgp5AIbiMTstQoX4rKRoyp8nDHPx81v8QvZQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi1zcFgp5AIbiMTstQoX4rKRoyp8nDHPx81v8QvZQ",
         "content": "Finch\u00e9 viene usata da poche persone in Campania, mi sembra piuttosto inutile. Comunque sia, ora che \u00e8 disponibile anche l'app Immuni del Ministero della Salute, continuiamo a tenere SM_Covid19 ?",
         "score": 4,
         "thumbsUpCount": 0,
@@ -1802,7 +1826,7 @@
     {
         "reviewId": "gp:AOqpTOHr0lnG666HqBZa6eYN17Zpf-VMdhtBXKQtNqdIwl93A29BPNEJLYCzHsVUDqKzjb64NntfjSU564w5lW8",
         "userName": "Giuseppe Castronovi",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GguNWfB3Gyt-KK5VvJxjQkgdLeiW_3gAitoe7fJHw",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GguNWfB3Gyt-KK5VvJxjQkgdLeiW_3gAitoe7fJHw",
         "content": "\u00c8 complicata, e sicuramente banale.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1814,7 +1838,7 @@
     {
         "reviewId": "gp:AOqpTOFLcb2VPs_He1SBh9S-4_pGHyI6K-nV6zC4nTLjmT_f0Ex7lNI8JwGaZMNG6mAYYgGBVB8cfd9pnzluJPo",
         "userName": "Lello Vannello",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjtTzu7F8516Ivt7-tJd_wrOvoNwqF6rGyW2ffw3Q",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjtTzu7F8516Ivt7-tJd_wrOvoNwqF6rGyW2ffw3Q",
         "content": "Al momento impossibile valutare. \u00c8 bloccata da ieri 1giugno mentre aprivo. Ancora bloccata verso la fine. Non sono riuscito a completare l'installazione.",
         "score": 1,
         "thumbsUpCount": 1,
@@ -1826,7 +1850,7 @@
     {
         "reviewId": "gp:AOqpTOGWZPOjRGGWet2lAj03G7BFaXGV2AWrkcKuuscuBdbXgnTKV8js-nK1LlgJLl7kPEC3hzYLDMv1zrFH0Jg",
         "userName": "Valter Renzi",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgwMuUyIvFc24xfHrqrQl7bxQ4md6khni-EyKfU",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgwMuUyIvFc24xfHrqrQl7bxQ4md6khni-EyKfU",
         "content": "Non funziona dopo le autorizzazioni che richiede torna sempre all'inizio non si apre",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1838,7 +1862,7 @@
     {
         "reviewId": "gp:AOqpTOG3JwVNXw87AJjpoZo0cB8waBa_r9zM-02aQJNdQGGXcCsuFeRYVRWbjLCZ0YJ05oZjWgFCvPLG1ePTIec",
         "userName": "Cost Dargenio",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gj4qd0Wl9p3mXfBGAYbWs38CWoNi3pgGDlWSZNtMQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj4qd0Wl9p3mXfBGAYbWs38CWoNi3pgGDlWSZNtMQ",
         "content": "Ottima iniziativa",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1850,7 +1874,7 @@
     {
         "reviewId": "gp:AOqpTOG-4x4vRNynuDyAJJwI35U4J90Wd715PX7fkxqLgn_4kG76hvxRwALLIMhQywEGgyW3WuV2pIlIFioShYU",
         "userName": "Gianni B",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gh7HMjNU1SAV_t6ZlaMisPQTheHKO5Js0GLH4iZ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh7HMjNU1SAV_t6ZlaMisPQTheHKO5Js0GLH4iZ",
         "content": "Normale, ma penso molto utile, quindi 5 stelle!",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1874,7 +1898,7 @@
     {
         "reviewId": "gp:AOqpTOHJlvd5uBjlAfmBBA9GSqcfBo8yTVnSaSVsuiBmep1OWnCvwk0d-N_CuG00atqKReko9HkZ7Uuj_ZVNR2M",
         "userName": "Laura Speccoli",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgACAs65FwA4XeCCPif7vuea65eIma5VMGn6_z3jA",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgACAs65FwA4XeCCPif7vuea65eIma5VMGn6_z3jA",
         "content": "Utile",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1886,7 +1910,7 @@
     {
         "reviewId": "gp:AOqpTOHv37s1fzWnKbIGoveiz-g_s-EmFq6dCpneBct7eLyjEhZXU0uw9qrc6hbVnuI_GxRauh-JzfT_8O-hQEQ",
         "userName": "pierluigi leo",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiPBhG7p_Zd2T_Gw7PU1_hYc6yLTqTrVaYiNz3tZW4",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiPBhG7p_Zd2T_Gw7PU1_hYc6yLTqTrVaYiNz3tZW4",
         "content": "Non funziona pur avendo abilitato tutto soldi dei contribuenti spesi male.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1898,7 +1922,7 @@
     {
         "reviewId": "gp:AOqpTOGkxarL8XSpSQ8MM6N0x7-gG8ZSUQk2A3Pi-4_1z7SwqX0b1lpEhmY3FaKrBvl54ak5c2WsW8wnc-k-hZE",
         "userName": "Irene Elmi",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgIqaXXUoXXy6W-1e_X1jabCc7S2v23ebWRTmcw",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgIqaXXUoXXy6W-1e_X1jabCc7S2v23ebWRTmcw",
         "content": "la volevo scaricare ma non mi fa andare avanti,boh...",
         "score": 2,
         "thumbsUpCount": 0,
@@ -1922,7 +1946,7 @@
     {
         "reviewId": "gp:AOqpTOEyEfp-f1iTRYMxxK6kwX8tILd7wIPETvS9LM412LV9cXtmPrznVyB6tppm4Dcp9hTmk_5gY0wiO_i36Rs",
         "userName": "Costantino Cellini",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Ghr2a7lPP04hye2b7nT7_jbb6v-Lm26BcfIImDxs-g",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ghr2a7lPP04hye2b7nT7_jbb6v-Lm26BcfIImDxs-g",
         "content": "Appena installato,spero che funzioni adeguatamente e che mi protegga, xch\u00e8 ho una persona di 70 anni invalido con il morbo di Parkinson e problemi respiratori ecc.ecc. cmq semplice da istallare e da settare io lo consiglio.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1934,7 +1958,7 @@
     {
         "reviewId": "gp:AOqpTOGNplxWBGJVIrM16sWB7Z3n2LJZCeMao3LJQOJCS3IIYud7Tm-ixfAypOcgIABR_uHzq6eL82-ACebCS3g",
         "userName": "sebastiano carbe'",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gg3gZetlrzuswYdPZHenYH6WM5ZecgQ46gp9eZj9g",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg3gZetlrzuswYdPZHenYH6WM5ZecgQ46gp9eZj9g",
         "content": "Ti divora la batteria , Non posso tenere un app che in tre ore sei 13 % energia, scusate anche se togli il Bluetooth e sempre in eseguzione , non voglio dire che non \u00e8 buona come app ma rimani senza batteria in poche ore se il cellulare a qualche anno la batteria ti saluta",
         "score": 2,
         "thumbsUpCount": 18,
@@ -1958,7 +1982,7 @@
     {
         "reviewId": "gp:AOqpTOFghqGrhcF8t7FFTiUEFhtYgpaE5UxBpwocl4JQ4RiOUHGlUebKnXloLyI_ewk-ZCidSCYkeKpStj_8jvM",
         "userName": "chiara favaro",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhzpDLahe6Fo5A9Stm6DSlDOaMLaVDD1VCH1LqD",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhzpDLahe6Fo5A9Stm6DSlDOaMLaVDD1VCH1LqD",
         "content": "Pessima app",
         "score": 1,
         "thumbsUpCount": 1,
@@ -1970,7 +1994,7 @@
     {
         "reviewId": "gp:AOqpTOHaNJ5ggoY-zQpeSELOHB9R6-pfoftkpYqjqS4rPDpODxKOOLq_nfuvwfAapJ4oa8yKgiq27a75hvRb138",
         "userName": "Federico Cella",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gh7nTXVLutosUJHU0-tKRbLlWHLhWLWIASLmcmMRA",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh7nTXVLutosUJHU0-tKRbLlWHLhWLWIASLmcmMRA",
         "content": "App inutile",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1982,7 +2006,7 @@
     {
         "reviewId": "gp:AOqpTOF6GkB05K6ops9bmEK6ZHUZ31QXSI94pmdme5HlfNMxAIqoD4cpmh85IprQSaatIrARw7_WMfIWs7y1_9c",
         "userName": "Davide Volpi",
-        "userImage": "https://lh3.googleusercontent.com/-r4XMYtbpsiE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclnCe_-mk7CbyfwxzIg0N-y3SqTJw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-r4XMYtbpsiE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclnCe_-mk7CbyfwxzIg0N-y3SqTJw/photo.jpg",
         "content": "Durante l'installazione viene chiesto di abilitare 3 funzioni (bluetooth, avvio automatico etc.) ma appena ne seleziono una, passa alla schermata successiva e non da la possibilit\u00e0 di abilitare le altre 2. Inoltre, se entro nelle Impostazioni e spunto \"Permetti l'uso del GPS\", quando esco e rientro lo trovo ancora non spuntato.",
         "score": 2,
         "thumbsUpCount": 42,
@@ -1994,7 +2018,7 @@
     {
         "reviewId": "gp:AOqpTOFP6QPDvb_OomCAZGfd6ynmNySaUga_9XnV1PAUQArf9zH93VHTPe0BQkPSp5FV-nmvZaLxSHi94nky-N8",
         "userName": "Saverio Zingaropoli",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gh4kn1ysJQr2H_NCiEXsdDDcJexvPWHgkIZirLtFQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh4kn1ysJQr2H_NCiEXsdDDcJexvPWHgkIZirLtFQ",
         "content": "Fa schifo, rimangono sempre notifiche indecifrabili....",
         "score": 1,
         "thumbsUpCount": 0,
@@ -2006,7 +2030,7 @@
     {
         "reviewId": "gp:AOqpTOGqM4M92UkNx7yYuzlibgaqA3SpFgSeTcEUf8QSrbLhVxm6aLlKTdiRC8d0DSIEu21c-cFNHGvDSErM240",
         "userName": "gianpaolo corazza",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gia9nK5S45yCltuia1l0D1Tw8RytWSQYSnQU6ts",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gia9nK5S45yCltuia1l0D1Tw8RytWSQYSnQU6ts",
         "content": "Si presenta bene \ud83d\udc4d vedremo se \u00e8 valida",
         "score": 5,
         "thumbsUpCount": 0,
@@ -2018,7 +2042,7 @@
     {
         "reviewId": "gp:AOqpTOGXxYIGBjA3JfMK6y5b7o6rHW7W398U_HzMx7JjfKqVwZ3y62vm1FNDbcXm45u2GFAhhiXvv6grZHHJWTM",
         "userName": "Giovanni Dessi",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiOpX-lvLENbHlMY5zsnPcUb8SCsn1RSQcaxUifKA",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiOpX-lvLENbHlMY5zsnPcUb8SCsn1RSQcaxUifKA",
         "content": "Spero che serva per la mia tranquillita, perche sono in cura per una B.P.C.O",
         "score": 5,
         "thumbsUpCount": 0,
@@ -2030,7 +2054,7 @@
     {
         "reviewId": "gp:AOqpTOGf36Okh8988_8RyxxbnLfhhry9_ubi5myxco2jmG-FteBjiLWekJefAdOfjquhkIn0n1P7VP0kIX7UcSM",
         "userName": "V M",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjYSsv3vT0qFkmHZmJe0Xp93VOPjwfX3LHCRdPSfaY",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjYSsv3vT0qFkmHZmJe0Xp93VOPjwfX3LHCRdPSfaY",
         "content": "Ottima",
         "score": 5,
         "thumbsUpCount": 0,
@@ -2042,7 +2066,7 @@
     {
         "reviewId": "gp:AOqpTOFDqiKbUN66l466sv0nRuTqulWaHXqQyJjaMBQJ7WI5nYzTv7NSk9oSia8XSnNDlVYCFBjSR9UiLSYF7I8",
         "userName": "iole stanco",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiebZyLBvAcdNpUhp7Ee9JygK3988U4jz2SZwcMwQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiebZyLBvAcdNpUhp7Ee9JygK3988U4jz2SZwcMwQ",
         "content": "Non funziona \u00e8 come se fosse zoomata e non si visualizza tutto",
         "score": 1,
         "thumbsUpCount": 2,
@@ -2054,7 +2078,7 @@
     {
         "reviewId": "gp:AOqpTOEkh8V5GkvoYwG2TUrJaVKWq14nDsQkwjEb769tlRVYtKuCAf1Gqy_a17ZgO_L7BA2HzEuW1k6n1HMzeSE",
         "userName": "Giuseppe Della Monica",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gg4d_YgNPe-LbVP5rX_04-wth6DEhA8nTk4GNkfc6Q",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg4d_YgNPe-LbVP5rX_04-wth6DEhA8nTk4GNkfc6Q",
         "content": "Ottimo Proviamola",
         "score": 5,
         "thumbsUpCount": 1,
@@ -2066,7 +2090,7 @@
     {
         "reviewId": "gp:AOqpTOF8tSKR-XJKMwTcnqw_8i_hTV9trwWGpC1xQpQMP_jmV2iBgaOR67ZmmnGEeRyFIMLPlzjRdvFKIduQQJA",
         "userName": "Vincenzo Ciravolo",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gg_0C2HS7Ev4FnEwaorPoR4t8XBZy_D9Xhc885oUg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg_0C2HS7Ev4FnEwaorPoR4t8XBZy_D9Xhc885oUg",
         "content": "Questa e' app ufficiale immuni?",
         "score": 1,
         "thumbsUpCount": 3,
@@ -2078,7 +2102,7 @@
     {
         "reviewId": "gp:AOqpTOF2I46c620ulE0wNFnqZ4tRuy-ff32JsevK91kwh7WPESMVbba-YInjhtxlI-atPSy-yJXHyE5iJDYjSE4",
         "userName": "Elena Magr\u00ec",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gh7vgnBaOJfGIDvGVxHwNJmD1RE37on1sRwZLubOw",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh7vgnBaOJfGIDvGVxHwNJmD1RE37on1sRwZLubOw",
         "content": "Fa il suo dovere...",
         "score": 5,
         "thumbsUpCount": 0,
@@ -2114,7 +2138,7 @@
     {
         "reviewId": "gp:AOqpTOFcIXTJOGV5da2L-SIPFPGw-3l5tT-PUHkLTcD8IcgdA3npxax-eMs-YuTuoCojEg7XIUoUdcImhikPbTw",
         "userName": "Giovanni Lanfranchi",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gg9-eE8RGGp3Brc5hybd7rAM3N3acb9vBQltrLK",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg9-eE8RGGp3Brc5hybd7rAM3N3acb9vBQltrLK",
         "content": "Affidabile al50%",
         "score": 3,
         "thumbsUpCount": 0,
@@ -2126,7 +2150,7 @@
     {
         "reviewId": "gp:AOqpTOFEpcjbPUK8e17rDcUP2_cZJPBcZGzArV8ejqYotm20Z7mMYCZi88zHAbmR8OpPFVa1DXHA29BhCV4ddTo",
         "userName": "Antonio BENEDUCE",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhoOdekhYo-iedTh_p4epMvldTIxX2UN5yT8HM0pw",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhoOdekhYo-iedTh_p4epMvldTIxX2UN5yT8HM0pw",
         "content": "Molto interessante",
         "score": 4,
         "thumbsUpCount": 0,
@@ -2141,7 +2165,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-n_ozKvh3cMM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmHoSKciJhDxgbWF3tpQ3lBpiYmDA/photo.jpg",
         "content": "Per ora due stelle. Piuttosto invadente, \u00e8 una notifica continua! Se si chiude arriva subito una notifica e si riapre. Non pu\u00f2 lavorare in background come tutte le altre senza sostituirsi alla schermata principale? E usare solo la geolocalizzazione senza dover tenere acceso anche il bluetooth, sia per il risparmio energetico della batteria sia per evitare inavvertitamente di concedere l'accesso al telefono ad un dispositivo sconosciuto? Aggiornamento: Ok per le notifiche, non ci sono pi\u00f9 ma KO per la whitelist perch\u00e9 non pu\u00f2 e non deve prosciugare la batteria.",
         "score": 2,
-        "thumbsUpCount": 287,
+        "thumbsUpCount": 292,
         "reviewCreatedVersion": "3.6",
         "at": "2020-05-21 09:34:47",
         "replyContent": null,
@@ -2150,7 +2174,7 @@
     {
         "reviewId": "gp:AOqpTOGA1lFzYGngB13FYEnyQ17cwYdkApiHyfqMdCbQJ3rDzIzf8DlYeRfseXdLHwrPZwJWhbKDpTNRULEhY60",
         "userName": "Paola Negro",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gh6KmB0EBl9dhx0fs8GwA0TA3Rt8oOJO1lcl1tIpw",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh6KmB0EBl9dhx0fs8GwA0TA3Rt8oOJO1lcl1tIpw",
         "content": "Come faccio a mettere come lingua l'italiano? Nelle impostazioni c'\u00e8 scritto italiano ma invece nella app compare l'arabo",
         "score": 3,
         "thumbsUpCount": 0,
@@ -2162,7 +2186,7 @@
     {
         "reviewId": "gp:AOqpTOHnycKutDu-WzdKclNqE2mXJCO9-AynWCGagbXporeCuDbhwyPw0RFqsFGijj6YHSLDm1Yw2_RPVFyZgsk",
         "userName": "Carlo Dell'anna",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgZN3jyAdoi2sJi4kIwm-oKNLN7lVYIETl6zOjzYQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgmKVkdwhrMRRhddnfAWgqNJPkr0ZxROuHhREP9hg",
         "content": "Ottima",
         "score": 5,
         "thumbsUpCount": 0,
@@ -2186,7 +2210,7 @@
     {
         "reviewId": "gp:AOqpTOHpeE15NcJ8-k_9aFQMKgSUQFAu5JnGLtHlC0Fw8SnPmjhLCS1vjub0ARdv_TcFj_rcsM9ihQqp_-vjYy8",
         "userName": "Estermaria Balda",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhNSKMO6noc0tIOJ1rxhmkPRk_BAEWNtqankcsGUNs",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhNSKMO6noc0tIOJ1rxhmkPRk_BAEWNtqankcsGUNs",
         "content": "Discreta precisione, vedremo in luoghi aperti",
         "score": 4,
         "thumbsUpCount": 0,
@@ -2198,7 +2222,7 @@
     {
         "reviewId": "gp:AOqpTOGWVwJsImizcz_EPnP99XwAEZdiwUL93dXFSU7fuR7tVPPTxunCix3WH3PNkqQB2Cn43GPORdNhS6cYc6s",
         "userName": "Mauro Ughetto",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhiVHVHDAKiLPoL9NffHmkzRrcHgywjr_nJQ93C",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhiVHVHDAKiLPoL9NffHmkzRrcHgywjr_nJQ93C",
         "content": "Disinstalla quasi subito, mi appare in modo quasi continuo la notifica da parte di questa app di un consumo eccessivo della batteria.",
         "score": 2,
         "thumbsUpCount": 0,
@@ -2210,7 +2234,7 @@
     {
         "reviewId": "gp:AOqpTOGuiAAcbhVM8GMJ2BP31N6VP___7QQNxhGJzRHEN9KgKyWrU3YWc9_c-R29TISeYNJTiEgX-LD1-Ph3-tE",
         "userName": "patrizio di nardo",
-        "userImage": "https://lh3.googleusercontent.com/-9a2dT796zjI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckiRsejz7uX02T6gQONfeX7ibRtKw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-9a2dT796zjI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckiRsejz7uX02T6gQONfeX7ibRtKw/photo.jpg",
         "content": "Ottima app.",
         "score": 4,
         "thumbsUpCount": 0,
@@ -2222,7 +2246,7 @@
     {
         "reviewId": "gp:AOqpTOEk9uE-b2wIqDkybC_TvgGhFDo7MfCMnnXiStv8KWz2ZeH8pmvGbH6kMeiFq7jVXViJIYnaspUbOBE-JFM",
         "userName": "Franco Goddi",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjwkuE8XpEn0Y15IHjivjrqMmyQgeRByyNkraK1TTo",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjwkuE8XpEn0Y15IHjivjrqMmyQgeRByyNkraK1TTo",
         "content": "Ottima app.?",
         "score": 5,
         "thumbsUpCount": 0,
@@ -2246,7 +2270,7 @@
     {
         "reviewId": "gp:AOqpTOH_l5u8yI_XhJ4vb7KLvclDxAY0aiR_3gjm0FRzjOY1oHSXxvdbL-z4k72xTCCHYUKSKVeGrVW0GDuD7qY",
         "userName": "Giuseppe Nezi",
-        "userImage": "https://lh3.googleusercontent.com/-NsvKUw-tRto/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmcuxu65arepatlZolYb5X_SdXhXA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-NsvKUw-tRto/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmcuxu65arepatlZolYb5X_SdXhXA/photo.jpg",
         "content": "C'\u00e8 qualcuno che pu\u00f2 aiutarmi. Secondo me non funziona questa App. Forse sono io che non la capisco. Se qualcuno mi aiuta",
         "score": 5,
         "thumbsUpCount": 3,
@@ -2258,7 +2282,7 @@
     {
         "reviewId": "gp:AOqpTOG4sS82STeB_GdttE-M9XqP20htAWywy0zt5xSmj3kShGBac5IMt4Sw4OaVr9oDwbVjXr_hdkgtgm28YEo",
         "userName": "marco corva",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhxuGWUjQXZqYsb55WrPXIChI2anDoX5IHuJuvuTA",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhxuGWUjQXZqYsb55WrPXIChI2anDoX5IHuJuvuTA",
         "content": "Bella app. Aggiornamento proprio adesso. Cinque stelline meritate. Aggiornamento proprio adesso",
         "score": 5,
         "thumbsUpCount": 0,
@@ -2270,7 +2294,7 @@
     {
         "reviewId": "gp:AOqpTOGVgHBn9EdeKP19KB00CHPi9jeMZ7C52Fv-dOM8OaqRvnVToT_9VOon1z2v7qG5nklsSKgf47yizzQ8TyY",
         "userName": "Ali dalvatore Salvatore",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjRx2N-YPQi6_gQbSo002PVpAVFJQgWUHuD1YISTQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjRx2N-YPQi6_gQbSo002PVpAVFJQgWUHuD1YISTQ",
         "content": "Estate utile grazie\u2b50\u2b50\u2b50\u2b50\u2b50",
         "score": 5,
         "thumbsUpCount": 0,
@@ -2282,7 +2306,7 @@
     {
         "reviewId": "gp:AOqpTOGu9aiqhzrJnNozX1p2HzFlxr4ZUOWof95_qIxMQPWt3oxLpAOd1yxVmKWPsfCRu-q_WdHJoRFIAc0KcaQ",
         "userName": "Antonino Cassone",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgcooReuDmlFDITW8iWBV6clVwHK-GNkAwVlKA09g",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgcooReuDmlFDITW8iWBV6clVwHK-GNkAwVlKA09g",
         "content": "Ok",
         "score": 4,
         "thumbsUpCount": 0,
@@ -2318,7 +2342,7 @@
     {
         "reviewId": "gp:AOqpTOFSMU-Jre1eo2rlgA4iOyb9kdyjfcvOT_Vd-7D45d6I71ZmzlrthrJVVZosvlBIUL78JHyS3ymf_Gv3g7Y",
         "userName": "Mauro Valenza",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gimb7Gt3g7vrJonlu-JByxJgKv5zoFJzdRDEcCWUkY",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gimb7Gt3g7vrJonlu-JByxJgKv5zoFJzdRDEcCWUkY",
         "content": "Ok privacy! Intuitiva. Well done!",
         "score": 5,
         "thumbsUpCount": 0,
@@ -2330,7 +2354,7 @@
     {
         "reviewId": "gp:AOqpTOGLM9K2uzIBQsiW2Qo9cT6FHS7A9M-zZFoUWWdT_juZWsNVgEzBapBs_nbSYdSxNNp1b4CTQoaVdYny0m8",
         "userName": "mario fulciniti",
-        "userImage": "https://lh3.googleusercontent.com/-ldqkbDj4Zzw/AAAAAAAAAAI/AAAAAAAAACk/AMZuuclWOku0MHIHW0jrEy3sJtQUJrq-AQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-ldqkbDj4Zzw/AAAAAAAAAAI/AAAAAAAAACk/AMZuuclWOku0MHIHW0jrEy3sJtQUJrq-AQ/photo.jpg",
         "content": "Informazioni in merito il mio astistente del mio telefono mi comunica come sito pericoloso potete spiegarmi come mai. Grazie",
         "score": 5,
         "thumbsUpCount": 0,
@@ -2366,7 +2390,7 @@
     {
         "reviewId": "gp:AOqpTOGtuGJgV7GU_3nSvxO6Qol6ILc9NecjMhVmmtzJOc-bWEc1O4ohAAQlB034gh8JkbqxKqhk3HWqUKC5lo8",
         "userName": "Fabrizio Tengattini",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gi-CpGnmkpurfXp_Y8Gq7dx7hfWKWc7AeqmAKoD_w",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi-CpGnmkpurfXp_Y8Gq7dx7hfWKWc7AeqmAKoD_w",
         "content": "Migliorabile",
         "score": 4,
         "thumbsUpCount": 0,
@@ -2378,7 +2402,7 @@
     {
         "reviewId": "gp:AOqpTOGC34SlQlCq5qifbhF_Pz4Arzd7vcQRDi203i2v0RMb39lR92Ohs4x3yFjHDPiv3Q_ECHMGjg8KDd79q7w",
         "userName": "Roberto Napoli",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gjg5OApQOryy0K8cg1dk49EvNKd1_9G_uc3VBatmQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gjg5OApQOryy0K8cg1dk49EvNKd1_9G_uc3VBatmQ",
         "content": "App fatta bene devo ancora testare il funzionamento",
         "score": 5,
         "thumbsUpCount": 0,
@@ -2390,7 +2414,7 @@
     {
         "reviewId": "gp:AOqpTOHKVkl7NJcC0hVyaSqpL21cHJvhSikBt-XVcmnwv-lOZIDsYorvy-RHkIH7XUhjOC9g2DB6LbytYV8RbdA",
         "userName": "Daniele Sommaruga",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gigb3Q-IFdeP14zIK5CydHKj9XoZLft7gm9l6d8dg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gigb3Q-IFdeP14zIK5CydHKj9XoZLft7gm9l6d8dg",
         "content": "Manca tipologia di utente soccoritore",
         "score": 1,
         "thumbsUpCount": 1,
@@ -2414,7 +2438,7 @@
     {
         "reviewId": "gp:AOqpTOGkSVEE5GncesRUXda7yWB1yE7DkHjybUtZQn93crzOZB2hx-1HzoAq78qMB1FFLgr77tLAa5UXmMkHFvs",
         "userName": "Silvano Piccioni",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gh7-oZk_ZL4aKcG2tJBq__uMjDQxLxxnQ-ikiH5",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh7-oZk_ZL4aKcG2tJBq__uMjDQxLxxnQ-ikiH5",
         "content": "App e staff dalle grandi potenzialit\u00e0 senza fini di dubbia trasparenza.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -2426,10 +2450,10 @@
     {
         "reviewId": "gp:AOqpTOGsz168dZfCWa0A2XRWqmPFIkjI6OIVYmSHrf9YBQxuADTL4TR1dDY3AmryTgqu8_tc3lTeQMk9bRL-XKQ",
         "userName": "Gabriele Gaspari",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiCfKVM5QH-7Kkmjwf1fwRbMoNkl0ytYIyU4J4U",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiCfKVM5QH-7Kkmjwf1fwRbMoNkl0ytYIyU4J4U",
         "content": "La parte sulle statistiche va rivista, quelli che chiamate \"positivi totali\" sono gli attuali, quelli che chiamate \"positivi nuovi\" \u00e8 l'incremento giornaliero sui casi totali, quelli che chiamate \"variazione totale\" \u00e8 invece la variazione giornaliera sugli attuali. Aggiungo 2 stelle dopo gli aggiornamenti, stanno sicuramente lavorando, a questo punto mi auguro che abbia una buona diffusione visto che dell'app immuni non se ne parla neanche pi\u00f9 (altro che pronta per l'inizio della Fase 2!).",
         "score": 4,
-        "thumbsUpCount": 145,
+        "thumbsUpCount": 148,
         "reviewCreatedVersion": "3.5",
         "at": "2020-05-08 20:19:46",
         "replyContent": "Ciao Gabriele! Fatto!",
@@ -2438,7 +2462,7 @@
     {
         "reviewId": "gp:AOqpTOFwV3JhGG6pspNOb9VOAe4K8JcWxbcOwzTNXGE7gIP7R6wAnqaBzOq8Mi7ivmPmTy4r2EdYoUK3VfUk_X8",
         "userName": "Domenico Lapis",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgtfWgluoZn9DisQhnldz8cgxGHH9N_xOBRf7Nw-A",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgtfWgluoZn9DisQhnldz8cgxGHH9N_xOBRf7Nw-A",
         "content": "poco efficace",
         "score": 1,
         "thumbsUpCount": 0,
@@ -2462,7 +2486,7 @@
     {
         "reviewId": "gp:AOqpTOFrBbIasIOt58PeqmCg4HH8rflE62jxarpYRuqOLT_CbLArpPGiO0lppHTSmzEHZEXjiiUbiTZ2r8OTv5c",
         "userName": "raffaele massaro",
-        "userImage": "https://lh3.googleusercontent.com/-CC9BsmVH_PY/AAAAAAAAAAI/AAAAAAAACLE/AMZuucnPNNqahtXJe1_9PnQbaD7jHeuvZg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-CC9BsmVH_PY/AAAAAAAAAAI/AAAAAAAACLE/AMZuucnPNNqahtXJe1_9PnQbaD7jHeuvZg/photo.jpg",
         "content": "Disoccupato",
         "score": 5,
         "thumbsUpCount": 0,
@@ -2474,7 +2498,7 @@
     {
         "reviewId": "gp:AOqpTOGdq_K4AaRHyj1JZCNTvmn_o6aVizZvOT5eCmn4uihQpQownbuC5bUY7lPCtEOhVhFKOYwcTDwnWp6_wwI",
         "userName": "Daniela Papa",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhegJXZan4oZtDCj3ODP3hFWN9WYcXYAlUs9WvJjQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhegJXZan4oZtDCj3ODP3hFWN9WYcXYAlUs9WvJjQ",
         "content": "Bella idea\ud83d\udc4d",
         "score": 5,
         "thumbsUpCount": 0,
@@ -2486,7 +2510,7 @@
     {
         "reviewId": "gp:AOqpTOEpVh1pZbcy3O8_U9kmrvYTC5-LMnQsorWjWIQ8dxu8YfuZA-pMvhba4EVkIloq5-8dMDPcVYGd7TmnZS8",
         "userName": "Vincenzo FERRAIOLI",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgZUdOPXVoJE0RAqXcI4ny8crCqXJojwsnxCNjx",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgZUdOPXVoJE0RAqXcI4ny8crCqXJojwsnxCNjx",
         "content": "Ottima",
         "score": 5,
         "thumbsUpCount": 0,
@@ -2498,7 +2522,7 @@
     {
         "reviewId": "gp:AOqpTOHXykcm8T5D7J8n9JkPrCpjBVf8BKJOOOIjEaqbVYn0m7Ab5_BscJlwuD3jWNxRBOUenslyy2p7BnrVMDI",
         "userName": "Oronzo Valentini",
-        "userImage": "https://lh3.googleusercontent.com/-MThV_axDMfg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclgUU2aoblm-jdPgWo4eCGgo5WWPA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-MThV_axDMfg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclgUU2aoblm-jdPgWo4eCGgo5WWPA/photo.jpg",
         "content": "Maruggio",
         "score": 5,
         "thumbsUpCount": 0,
@@ -2558,7 +2582,7 @@
     {
         "reviewId": "gp:AOqpTOENfar4jyZaSm7f5lZJA9WeLBBHpVTQXGgrMmSswQjHQMN_Dpjo_gVvgBhaCiuMBC_30wcORZiYOqff-h8",
         "userName": "michele baratto",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gil0yDzGa4-_-k3sgejBbiOosroaD7YW-6ItenALg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gil0yDzGa4-_-k3sgejBbiOosroaD7YW-6ItenALg",
         "content": "Invadente e vengono segnalati bug da antivirus disintallata",
         "score": 2,
         "thumbsUpCount": 0,
@@ -2570,7 +2594,7 @@
     {
         "reviewId": "gp:AOqpTOEvLi_WioecA5zK6oT1mZ_xsm9eJEi_eBrTQDap3sxmyzZor4MLyixBfa7iswfvteWbxk5wF1_BZt3mi14",
         "userName": "Franco Moretti",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gjc_4RqnTeVcn3-iQqniiYUEoNmUJXIYzhcYWn1",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gjc_4RqnTeVcn3-iQqniiYUEoNmUJXIYzhcYWn1",
         "content": "Faccio l'antennista e mi darebbe pi\u00f9 sicurezza sapere che tutti usano una app. come questa",
         "score": 4,
         "thumbsUpCount": 0,
@@ -2582,7 +2606,7 @@
     {
         "reviewId": "gp:AOqpTOG4Or628HqvxttiwGNL5HvNnPGlE-YSLXNAPowOvGYmUd70WglO5zFEVL5rCNwArjs1rNvx3l57CpxxmXc",
         "userName": "Fabio Verdinelli",
-        "userImage": "https://lh3.googleusercontent.com/-6RjDRb28yX4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckULuukmXlBF9dPvB5mK0hrsF9-tw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-6RjDRb28yX4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckULuukmXlBF9dPvB5mK0hrsF9-tw/photo.jpg",
         "content": "Consuma troppa batteria. Sarebbe interessante avere qualche informazione in pi\u00f9 da consultare, se si entra in contatto con qualcuno, statistiche di utilizzo degli altri utenti etc... Ho uno Xiao Mi Note 10",
         "score": 2,
         "thumbsUpCount": 0,
@@ -2606,7 +2630,7 @@
     {
         "reviewId": "gp:AOqpTOFLjrElIH7OtwEBhrivR1wkwks8zjIUZUIR2gw0evZAveDBY-WahZZ_OPFpHQ1-YLyXlSGE6pVTPYQeVng",
         "userName": "Michele Della Guardia",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gjh0wngg96PRR5-Rf15vjgYbVZK8rtXb4twwGfI4w",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gjh0wngg96PRR5-Rf15vjgYbVZK8rtXb4twwGfI4w",
         "content": "Sarebbe importante, al fine di capire quanto utile sia l'uso di questa app, avere anche una traccia anonima di quanti altri utenti con la stessa app abbiamo incontrato.",
         "score": 4,
         "thumbsUpCount": 0,
@@ -2618,7 +2642,7 @@
     {
         "reviewId": "gp:AOqpTOE_OR3g7i2kJ0IETXKWzjm-XEiviSBc2uGEgJ58Sz2MUE9fDixOkt6wKL53J42PdhT2vzacsMkTKfStm_g",
         "userName": "stefan anon",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhevFR8MXxr6osrGdAaGE5GCtShARNi2DHFUcKgbg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhevFR8MXxr6osrGdAaGE5GCtShARNi2DHFUcKgbg",
         "content": "Scarica subito la batteria e se non hai fatto il tampone \u00e8 inutile. 1 stella e non ho fatto il download",
         "score": 1,
         "thumbsUpCount": 0,
@@ -2630,7 +2654,7 @@
     {
         "reviewId": "gp:AOqpTOGh_Awic0_f53O5e_ayjIM0QDHvE87QaG3QyAkYiglrIROdMHuOOPWk-Y_R1K56F08I7GEyeS9lUl4DcR4",
         "userName": "manry1965",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gh1eur5wGctaEQ_Abz4l2tZtdfhAFrsIqoDSJrz",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh1eur5wGctaEQ_Abz4l2tZtdfhAFrsIqoDSJrz",
         "content": "Versione 3.4. Ora funziona bene, ma sembrava, che il bluetooth non funzionasse, ma dopo che associato nuavamente i 2 cell. funziona! Magari se avessi riassociato i cell. dopo aver scaricato l'aggiornamento, magari avrebbe funzionato anche con versioni prima. Io ho un honor 9 lite.",
         "score": 5,
         "thumbsUpCount": 42,
@@ -2642,7 +2666,7 @@
     {
         "reviewId": "gp:AOqpTOHKY92RfhafEbireL4yPnRBXwkEMh-U6Hdp54bXGD4gcKwYWEwSAIwtmhP7PBQuAx-bOc0tSB3GQmjCYqI",
         "userName": "Annalisa",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhcwzhKPr67LgCvYdmbXc_gWScw5AsEQk7zBr2Ot5s",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhcwzhKPr67LgCvYdmbXc_gWScw5AsEQk7zBr2Ot5s",
         "content": "Bella interfaccia, di semplice utilizzo. Luned\u00ec 4 maggio 2020 uscir\u00f2 per lavoro. Vedremo.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -2678,7 +2702,7 @@
     {
         "reviewId": "gp:AOqpTOE3XAXfoT6LLINdBWMXcJGK0LF26X-b8GVVz2rfwDcnVVg18e6o568NcIo5IaE26MyEa51sbHLP-HUE_1U",
         "userName": "Riccardo F.",
-        "userImage": "https://lh3.googleusercontent.com/-IMidEUTsbJQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnOrGuQ-f181eDMn3u-8nlESjQLTA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-IMidEUTsbJQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnOrGuQ-f181eDMn3u-8nlESjQLTA/photo.jpg",
         "content": "Ottima idea. La dovrebbero usare tutti. Non influisce per niente sulle prestazioni del telefono! Complimenti.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -2690,7 +2714,7 @@
     {
         "reviewId": "gp:AOqpTOFMYmboqmq7Tb1SUR2xV_4Zn8bUNfny_xgUA0JqI8u1eQjkJe1uZ8mLw03pK-mdxrpqZjUJ-SbIN5bjZfE",
         "userName": "Michela Civitillo",
-        "userImage": "https://lh3.googleusercontent.com/-i84Haxcbq5g/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm2qWFO6jsGjEOFXz_PxiF2STA0TQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-i84Haxcbq5g/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm2qWFO6jsGjEOFXz_PxiF2STA0TQ/photo.jpg",
         "content": "Io lo scaricata ma nn ho capito come funziona.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -2726,7 +2750,7 @@
     {
         "reviewId": "gp:AOqpTOFDkoUi9UDzxn1d72Lt23AeADlXPiFz2yDEa1j9kKzD9vctaW5Tffx2GFPdBx0mP1ncOpCAluY_tt03ZMo",
         "userName": "Andrea Fabi",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhrV4_3L_9JpoqLJDj9ztBn8HROITAL5_c-W6HGp3s",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhrV4_3L_9JpoqLJDj9ztBn8HROITAL5_c-W6HGp3s",
         "content": "Ottime intenzioni, Ottima grafica. Non pu\u00f2 comunque sostituirsi all' attenzione che ognuno di noi deve porre alla propria salute e ai propri comportamenti in questo periodo.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -2738,7 +2762,7 @@
     {
         "reviewId": "gp:AOqpTOGO0BP_aMOnBI7cwUGwCZRPSFqiCrdosS8EdZD7Su1eNIOlp5kOPbiFvjRU11ITNUAtZEK0l0aeheF6bGo",
         "userName": "Liliana Brunato",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiPq2j008nedgGXGOppap99N6vtAvR9mLyOG7Vu_eg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiPq2j008nedgGXGOppap99N6vtAvR9mLyOG7Vu_eg",
         "content": "Buona iniziativa",
         "score": 5,
         "thumbsUpCount": 0,
@@ -2750,7 +2774,7 @@
     {
         "reviewId": "gp:AOqpTOG_Thl5XrhKyEIY0rnsDxwClYeWepzM8h7RSH44ZLLPWLIRZa2S5_P2cS-YavDwzvx9Ui3jtNPGcTDyeQQ",
         "userName": "Francesco D'aponte",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjWA-JvAgnhm9uhCHDoPV2Hadh_DtYWGirLIEzW",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjWA-JvAgnhm9uhCHDoPV2Hadh_DtYWGirLIEzW",
         "content": "Ottimo",
         "score": 5,
         "thumbsUpCount": 0,
@@ -2774,7 +2798,7 @@
     {
         "reviewId": "gp:AOqpTOFYCXHlDZ3_Lh2xo0q07my9dDeStu1OOoAJxOJ9j9-nQa2zm_tOWtdXGuOxuT1UTvMDc5b9hd_hFLLeAiE",
         "userName": "gianni olivieri",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gi4A2w9Lxh2sTsZnQZWtSc5gMuV2fCr0havnAYB",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi4A2w9Lxh2sTsZnQZWtSc5gMuV2fCr0havnAYB",
         "content": "Che possa servire ad un miglioramento di vita.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -2794,18 +2818,6 @@
         "at": "2020-04-30 05:35:49",
         "replyContent": "Ciao Alessandro, il nostro obiettivo \u00e8 proprio quello di stimare un indice di rischio in grado di poter notificare a possibili asintomatici un rischio di contagio. Se il BT \u00e8 spento l'app non \u00e8 in grado di eseguire il contact-tracing. Ecco perch\u00e9 dovrebbe essere attivato quando si lasciano i posti sicuri (la propria abitazione).",
         "repliedAt": "2020-05-02 00:52:01"
-    },
-    {
-        "reviewId": "gp:AOqpTOER6YMTipAcCiHSFUTMpY74ke3GV0f2UQ93dK36_SU-yrBsfjAb-fcP5PMjsUb23-FF4Kpn6s34qZkf_lE",
-        "userName": "Paolino Conte",
-        "userImage": "https://lh3.googleusercontent.com/-SSG8wBacof0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclX8VDCVYlkXdu9pn1KP86iBkVbKg/photo.jpg",
-        "content": "Ottimo app",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "3.2",
-        "at": "2020-04-30 04:28:09",
-        "replyContent": null,
-        "repliedAt": null
     },
     {
         "reviewId": "gp:AOqpTOG82kO0uZBnrFYlnNqTfZhREOCjiw8wHHjtfDIifVDB0N8U6OamgDEgvYWhVprl1fxH4K0-kYtDm0kLg48",
@@ -2834,7 +2846,7 @@
     {
         "reviewId": "gp:AOqpTOFm_7DsLagdCXvLk6QBT60sBnF8mFc7nukCEEg1C9XBcla8Yw4RjTHyqNtpxd2YnURAY1QAW9K8wz8wvHg",
         "userName": "Francesco Romano",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjAoyG5wdOUbMVYMNkWiWFIUuEzDjp7QKdcJ38TxQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjAoyG5wdOUbMVYMNkWiWFIUuEzDjp7QKdcJ38TxQ",
         "content": "Bravi!",
         "score": 5,
         "thumbsUpCount": 0,
@@ -2870,7 +2882,7 @@
     {
         "reviewId": "gp:AOqpTOGf8d5IWJKjy-bLFN2Ssbx7C4feRPP_zwJTrmanF_Y7UO5zsFYayU41tfrMC9X1_VcqcBRXYJd4Byd3ht4",
         "userName": "CLAUDIO LOMBARDI",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhH3zQHOIpbsimWTKHyKu8rogrPkcs3BBiZaDJeuQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhH3zQHOIpbsimWTKHyKu8rogrPkcs3BBiZaDJeuQ",
         "content": "Ho dovuto disinstallare perch\u00e9 molto invasiva, continua a dare notifiche e a sovrapporsi alle altre app.",
         "score": 2,
         "thumbsUpCount": 1,
@@ -2906,7 +2918,7 @@
     {
         "reviewId": "gp:AOqpTOGCXfo0oqMLyrlWi3L8kYXjeo9A90LlYIezmsfxwyy2KzZPRupk92IDC1aUIWI-rHiwOytOOHcyBF4e0gE",
         "userName": "rocco santoro",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjsK9OKHRJwmIo9rG1YhD7ZJFLxbyVVX89fseg8-_g",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjsK9OKHRJwmIo9rG1YhD7ZJFLxbyVVX89fseg8-_g",
         "content": "L'ho disattivata perch\u00e9 il governo ha indicato un'altra app la trovo utilissima e interattiva, un consiglio andrebbe modificata allertando quando due o pi\u00f9 persone si avvicinano a meno di un metro sarebbe utilissima per bloccare coloro i quali sono superficiali, ma soprattutto gli imbecilli",
         "score": 4,
         "thumbsUpCount": 0,
@@ -2918,7 +2930,7 @@
     {
         "reviewId": "gp:AOqpTOF9dpAcRgHxAvvo0lHMC8RHMpRqJowXNCRb-pbJxJv6sYRMxy7fmzmRCa2HzChgML9YRWC_6uF6wMs1Is0",
         "userName": "Marco Massara",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgsBjdXO_dEuRE9PdLrHGkVSNPeXto7nvNpLNpONUs",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgsBjdXO_dEuRE9PdLrHGkVSNPeXto7nvNpLNpONUs",
         "content": "Ottima idea e pi\u00f9 veloce del governo",
         "score": 5,
         "thumbsUpCount": 0,
@@ -2930,7 +2942,7 @@
     {
         "reviewId": "gp:AOqpTOHY2sICcNe6E9JXtDqIXWhWsktB1zwWEBQ_OiDNKEiASFtgIDJrfbshhchfbR7H8_AinNo9YRRGLUdsjD4",
         "userName": "carlo sabba",
-        "userImage": "https://lh3.googleusercontent.com/-eZ6jaCqZm8c/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmeVtQcG7EMHa_Ar_84GVw9j-GMKQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-eZ6jaCqZm8c/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmeVtQcG7EMHa_Ar_84GVw9j-GMKQ/photo.jpg",
         "content": "Lo installata per contribuire a tenere sotto controllo il contagio. Con l'ultimo aggiornamento si \u00e8 risolto il problema display.",
         "score": 5,
         "thumbsUpCount": 2,
@@ -2942,7 +2954,7 @@
     {
         "reviewId": "gp:AOqpTOHS33UgCzdiDeZSV8tpAX-FrstvR3QeIQ_o2Q_vHGCBD0dwGwyCeMQ1dbBxwTps3tBhtJaYjSwrIpwBHWk",
         "userName": "Rosario Bifulco",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjEQTRV_9FI6HS4z9sc1iVZ9nBwQV6uhSJEupgM4rs",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjEQTRV_9FI6HS4z9sc1iVZ9nBwQV6uhSJEupgM4rs",
         "content": "Sulla fiducia",
         "score": 5,
         "thumbsUpCount": 0,
@@ -2954,7 +2966,7 @@
     {
         "reviewId": "gp:AOqpTOFDcw7lbbCH6rLNgJ24DC3ZxmR0O_FtYFt8xQohmLpcRP4rqaG4H-EWUB1PYq-nFoEnkR2Z26U50jV5GKw",
         "userName": "Domenica Grandelli",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gik5dG-CfMuocrOh8fl7yrM0e1ZOhxNeOYayGiHyg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gik5dG-CfMuocrOh8fl7yrM0e1ZOhxNeOYayGiHyg",
         "content": "Lo appena scaricata lApp. Devo provare se funziona.",
         "score": 5,
         "thumbsUpCount": 1,
@@ -2966,7 +2978,7 @@
     {
         "reviewId": "gp:AOqpTOF4zRR4gOws_LsdOMKlJ-laaJ50l8Cl1isb7nIWCBDh4keMnoIYBVk7sDII7C1Rm-4damSTdhGP5G83T9k",
         "userName": "Daniele Rava",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgdHWam_pib4WJmMXqhiLT-S2othO_RjuuGEcGo",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgdHWam_pib4WJmMXqhiLT-S2othO_RjuuGEcGo",
         "content": "App ben fatta, consuma ancora troppa batteria",
         "score": 4,
         "thumbsUpCount": 1,
@@ -2978,10 +2990,10 @@
     {
         "reviewId": "gp:AOqpTOG2lQVPtbMPmdKOPAu0zqCtSQWVDG_23k4G4YTdirJxH1splZ9kJUPF2eGl20TvhBWPsO6F_jh8u7WhuwI",
         "userName": "N S",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gi5OJ_6gJMMFLnhxWOz47mRP8V1s56Ul1J37flB2w",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi5OJ_6gJMMFLnhxWOz47mRP8V1s56Ul1J37flB2w",
         "content": "Interessante, soprattutto ora che disattivando il Bt magari dentro casa, non si \u00e8 pi\u00f9 avvisati costantemente di riattivarlo. Ovviamente un'app che dovrebbero scaricare tutti. A tal proposito sarebbe interessante sapere dall'app il numero di device attivi nella propria citt\u00e0 o provincia, in modo da poterne valutare la reale efficacia. Inoltre vorrei sapere a cosa serve la modalit\u00e0 all'aperto. Grazie",
         "score": 4,
-        "thumbsUpCount": 51,
+        "thumbsUpCount": 52,
         "reviewCreatedVersion": "3.1",
         "at": "2020-04-26 14:21:08",
         "replyContent": null,
@@ -2990,7 +3002,7 @@
     {
         "reviewId": "gp:AOqpTOGCRtFPbd4-ec1Qr7NdtjvKiVchJE5E74OcEpfsxYqllmdrjVbKcPPC2FYL5Q095LU40hrqWFBbJj_Pn-c",
         "userName": "Michele Cardillo",
-        "userImage": "https://lh3.googleusercontent.com/-UCmXgqUogfM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclt6C7SpS8Q4C0uxUnAYDOwx2zvrw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-UCmXgqUogfM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclt6C7SpS8Q4C0uxUnAYDOwx2zvrw/photo.jpg",
         "content": "Ok",
         "score": 5,
         "thumbsUpCount": 0,
@@ -3002,7 +3014,7 @@
     {
         "reviewId": "gp:AOqpTOENgycYoz3XLfv7exIe3_pOFZu0vwhTu8adrejOBevFrg5wL4hiX1u0beij8x4DHSOm3XKMiIEjsiUEMFE",
         "userName": "Laura",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiI4KJ8o4CEcxp95DlV8pkeIhsVLkmqMPQpuYSofYM",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiI4KJ8o4CEcxp95DlV8pkeIhsVLkmqMPQpuYSofYM",
         "content": "Ho dovuto disinstallarla perch\u00e9 mi consumava moltissimo la batteria. Attendo che sia migliorato questo aspetto per installarla di nuovo. Penso possa essere utile se diffusa capillarmente...",
         "score": 3,
         "thumbsUpCount": 0,
@@ -3014,7 +3026,7 @@
     {
         "reviewId": "gp:AOqpTOGlz4NasGUBahSa7h8N-KYzroW-UP0ZBW38Y60Xy4DX3gVMgUA5G9jE27cj-IzFjxwLGljAGNeojFWYq0g",
         "userName": "Roberto de marchi",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjStcj3CXOn5fbhDbTPh56sU9p65KgvGid4mp_L",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjStcj3CXOn5fbhDbTPh56sU9p65KgvGid4mp_L",
         "content": "Non posso dare un voto perch\u00e8 la ho scaricata da qualche ora e fatto una gran fatica ad avvisarla. Ancora adesso continua ogni pochi minuti a chiedere autorizzazione ad avvio automatico ed attivit\u00e0 in background. Concesse pi\u00f9 volte. In particolare per le attivit\u00e0 in background non \u00e8 capace di raggiungere automaticamente le impostazioni. Per\u00f2 sembra sia tutto in funzione boh .. In ogni caso sto utilizzando uno Xiaomi MI9SE. Saluti",
         "score": 3,
         "thumbsUpCount": 0,
@@ -3026,7 +3038,7 @@
     {
         "reviewId": "gp:AOqpTOHh_vnmvV2Buht8-WligO56-oMcwNhxhLi8frxao1Y4hZPuKQdRJIp7KTvRg2FF4-02_IvC-toYN5HEGIY",
         "userName": "Lorenzo Tomassoli",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gg_8FnsGKugXuDeZF5r8BikHRUx7ha-HSZAYW8cLQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg_8FnsGKugXuDeZF5r8BikHRUx7ha-HSZAYW8cLQ",
         "content": "A me ogni 7 secondo mi fa arrivare lo schermo ...continuamente ...",
         "score": 2,
         "thumbsUpCount": 1,
@@ -3050,7 +3062,7 @@
     {
         "reviewId": "gp:AOqpTOFxg71w9chTzd2bfv8VRXfEBYq-0VRFOqGT5P4BQjfh222DPFw6QTITuct88MFlrjCxFrcEMD_ImddkLSc",
         "userName": "gio' dimension",
-        "userImage": "https://lh3.googleusercontent.com/-B9rGZvaz0cs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn8rM1jNpmLx0WdRH4q0smwwC7vyw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-B9rGZvaz0cs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn8rM1jNpmLx0WdRH4q0smwwC7vyw/photo.jpg",
         "content": "Good",
         "score": 4,
         "thumbsUpCount": 0,
@@ -3062,7 +3074,7 @@
     {
         "reviewId": "gp:AOqpTOFl36v0KyAq_VdNe7PdaU-p6aCG9mVDiRqPZHoZZcM08QNGgzTELNKRFXmGHI-QYI9B0vXYHmB0Crm2OeU",
         "userName": "Andrea Donati",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjndMsYBWykz2yH9plE8LA8WZOxZWgBGTwSPwswnQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjndMsYBWykz2yH9plE8LA8WZOxZWgBGTwSPwswnQ",
         "content": "Ok",
         "score": 4,
         "thumbsUpCount": 0,
@@ -3098,7 +3110,7 @@
     {
         "reviewId": "gp:AOqpTOFoNo2_7Lc7DbfYfR6Ph9wSJDW1xmdQpaopQWgbJWQKCdV5fM1NqaJHQn5Is7tWWGW3MrDv5faWCQOF0os",
         "userName": "FrFrancesco Cioffi",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gh9uloNnpJJOC5Q1nF6P7RvMU3AinKaR8fucoociic",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh9uloNnpJJOC5Q1nF6P7RvMU3AinKaR8fucoociic",
         "content": "Per me funziona lo mettero' in prova in questi giorni",
         "score": 4,
         "thumbsUpCount": 0,
@@ -3110,7 +3122,7 @@
     {
         "reviewId": "gp:AOqpTOHs69kykN8lYVrPpd6np9ArVESsjzYRKkMjo3cnH4qfalpcuLXLYDQYj_deHp9R0FM03KoChOq5X7eqg4g",
         "userName": "marco barbieri",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GifsNApEYHmewuC0C89CLSgtN_Yo-BY4UJ005Ev",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GifsNApEYHmewuC0C89CLSgtN_Yo-BY4UJ005Ev",
         "content": "Sembra fatta molto bene ma ritengo che la tracciatura debba essere fatta su id tel e non bluetooth",
         "score": 5,
         "thumbsUpCount": 0,
@@ -3158,7 +3170,7 @@
     {
         "reviewId": "gp:AOqpTOE9mF3hrwXeZRQfkwAQIlFbT-28LDhoxtUbEJSw28XNvLHcnohLO04KYi4PBqDT7mBis9m2jO72aXkyDPI",
         "userName": "andrea",
-        "userImage": "https://lh3.googleusercontent.com/-TtGd-IgzJPc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckfNzf_vaLy2tBY9C7io5RfkKxbKA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-TtGd-IgzJPc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckfNzf_vaLy2tBY9C7io5RfkKxbKA/photo.jpg",
         "content": "Ma a che serve? Non e attivo nulla, non c'\u00e8 una mappa, se utilizzo deliveroo faccio prima. Ma come funziona perfettamente??? Da le statistiche e basta ..",
         "score": 1,
         "thumbsUpCount": 0,
@@ -3170,7 +3182,7 @@
     {
         "reviewId": "gp:AOqpTOEqJcT_eszUCQlVc2b-Lko_Xzzou9ThUi1qSFxYUCZeHYQo8--ZsrZbLYNDAny5jfkYiYbzF0yJNV1HI90",
         "userName": "Carlo Enzo Ravasi",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gis5cPyTbN9bwE9dP167G3jr5e_NV_HmKO4nOdq",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gis5cPyTbN9bwE9dP167G3jr5e_NV_HmKO4nOdq",
         "content": "Ottima",
         "score": 5,
         "thumbsUpCount": 0,
@@ -3194,7 +3206,7 @@
     {
         "reviewId": "gp:AOqpTOG6u-SsCLScSFOJE3CGsT-2mgVz4YgIogaNgS9Kf4ubnYxAFzCmthXHhyfm7keRoYIT-hq_ME00LCT48DA",
         "userName": "Marco A.M.",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhNrErlUd1Waf9gm2wzh_Eia9ogmLv9k9fDzHGu",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhNrErlUd1Waf9gm2wzh_Eia9ogmLv9k9fDzHGu",
         "content": "Attenzione! Nel mio caso dopo l'installazione \u00e8 comparso un pop-up che mi invita a scaricare una app denominata soft-mining. \u00c8 un malware??",
         "score": 1,
         "thumbsUpCount": 0,
@@ -3218,7 +3230,7 @@
     {
         "reviewId": "gp:AOqpTOGv90pxwwg77Eah-travBg7BCtl5zAMjIS-dsMA1p-NSgb_pcWSlU5C3Jt4XqAHAHrjwewtgn-LCklyN0Y",
         "userName": "Giulio de Fiore",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjVHwB9RwJx0rhJ72Q3g20rTRzCA03W4WFlSYYhNw",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjVHwB9RwJx0rhJ72Q3g20rTRzCA03W4WFlSYYhNw",
         "content": "Da perfezionare. Il bluetooth salta continuamente e a volte sovrasta le altre app. A cosa serva poi se non si sa se si ha il virus o no, resta un mistero",
         "score": 3,
         "thumbsUpCount": 0,
@@ -3230,7 +3242,7 @@
     {
         "reviewId": "gp:AOqpTOGi-UxOP0FnVKyfVCim69MV6oF--el-jm9fQNz1fEKRpxsKo5Y7r9g88IJQ4OUNgyfdavJRkZu2XRDGkH8",
         "userName": "Michele Del Vecchio",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GixPdRDNs1-W5CjGD53F-arYNqrRpLs-fHS8W8o",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GixPdRDNs1-W5CjGD53F-arYNqrRpLs-fHS8W8o",
         "content": "Ottima",
         "score": 5,
         "thumbsUpCount": 0,
@@ -3242,7 +3254,7 @@
     {
         "reviewId": "gp:AOqpTOER_nJNHTzqYgTnfQozWgGuHbnsoP9HjAYLQE2I7_Vd26hZ6oKyHA0-jgr5p9Z08JPuv4uwAtni65KIF04",
         "userName": "Mariagiusy Granone",
-        "userImage": "https://lh3.googleusercontent.com/-P-cJzO-VnU0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn2M0eslNFTK00cD9gWl_YS51Fcfg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-P-cJzO-VnU0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn2M0eslNFTK00cD9gWl_YS51Fcfg/photo.jpg",
         "content": "Discreta",
         "score": 3,
         "thumbsUpCount": 0,
@@ -3266,7 +3278,7 @@
     {
         "reviewId": "gp:AOqpTOHd1MTeqHfMP6tzHsj0vBv6oNJg7afnt9A4q7usVSeIsPeYM8u4Un3P0T0gO7uGalcA6XycmCtwPWhtXdg",
         "userName": "Luigi Iervasi",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjPt2F9hHhTgohAIS4bEGXizaugQE-xD2tTRMtf",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjPt2F9hHhTgohAIS4bEGXizaugQE-xD2tTRMtf",
         "content": "La sto testando e onestamente non riesco a capire l'utilit\u00e0, anche perch\u00e9 posso passare da essere un cittadino a essere dottore e non cambia nulla. Da rivedere",
         "score": 1,
         "thumbsUpCount": 1,
@@ -3302,7 +3314,7 @@
     {
         "reviewId": "gp:AOqpTOHI3VPJtzY1AqiO8K-DX8I5zdzEfK6PEoUioOLsWrwkPbdvOer6-eI7oECZhBW1-sszuADINt5L-8vlafk",
         "userName": "nicola lanzillotta",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gi86SDx99aIudjKE1PoEuKHqnZbWPmAjNrdkPcaC98",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi86SDx99aIudjKE1PoEuKHqnZbWPmAjNrdkPcaC98",
         "content": "Ottoma",
         "score": 5,
         "thumbsUpCount": 0,
@@ -3314,7 +3326,7 @@
     {
         "reviewId": "gp:AOqpTOHjKbLuYspir5fb5z4auUcYhvzMn4iXXULWLrj-Ch9qMUXbI-fYXG6tfKwPwx27Rr7Bdgh6YqsrNfJnRtk",
         "userName": "Mauro Elefante",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhSziFiYATqHmood_6G2mR44W79B19UmheP1juN3g",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhSziFiYATqHmood_6G2mR44W79B19UmheP1juN3g",
         "content": "Troppo invasiva e spiegazioni evasive. Vuole praticamente accesso a tutto. Si dichiara che non si viene geolocalizzati ma poi si attiva il GPS. E i dati sono a disposizione del servizio sanitario (=stato). Sinceramente NO GRAZIE, NE FACCIO A MENO!",
         "score": 1,
         "thumbsUpCount": 2,
@@ -3326,7 +3338,7 @@
     {
         "reviewId": "gp:AOqpTOGd_GSDchyQvYTKuLLll5cMshiMYnBT8Q0h3rO7cW6EPg_qE05v9aM1ckQsiC5MhYF5s5tOhIhiJ2TsK5M",
         "userName": "Gaetano Mirko Zuccarello",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgA-5OYrZqkiXqqwejVeQ6qYKG-qoOAmttdxPi6uA",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgA-5OYrZqkiXqqwejVeQ6qYKG-qoOAmttdxPi6uA",
         "content": "Lo installata subito e attivato tutto. Parlando della privacy molte persone ignoranti non sanno che c'\u00e8 di peggio(Google e iPhone account...) discorso troppo lungo. Almeno questa app ti fa sapere qualcosa veramente utile per la tua salute per te e per i tuoi cari. Applicazione se obbligatoria salva tante vite.",
         "score": 5,
         "thumbsUpCount": 10,
@@ -3350,7 +3362,7 @@
     {
         "reviewId": "gp:AOqpTOEJ-4cqAmIIvzM9Zj0j6AJKC5EqkaOisuxqB93Ru3VDat3ftVhbu2zCdTFFUSpmcCih7Hy6i_uJxm9Ivw0",
         "userName": "Francesco Mancini",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gh8cvIZ_PmFeqr2EPAuiVE2RdjIMS-CgiBGTLjfhVg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh8cvIZ_PmFeqr2EPAuiVE2RdjIMS-CgiBGTLjfhVg",
         "content": "Consiglio di mettere categorie come forze di polizia e un contatore per sapere quante persone la stanno utilizzando in quel momento.",
         "score": 4,
         "thumbsUpCount": 1,
@@ -3374,7 +3386,7 @@
     {
         "reviewId": "gp:AOqpTOG-JtxZsXaZ4zyz2toc600wYSjwDo40fPFsDh2kUvjQ4C8SmMYzJpREQxu6ry23BC3h29YwxKs7wrVf-EU",
         "userName": "Roberto Tettamanti",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhD7yXQrpbA156CLvyZtpbRHGlikCq5ihgB4Dgxzw",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhD7yXQrpbA156CLvyZtpbRHGlikCq5ihgB4Dgxzw",
         "content": "L'ho scaricata ieri e non so se \u00e8 una mia impressione ma mi sembra che la betteria del telefono si scarichi molti pi\u00f9 in fretta.",
         "score": 3,
         "thumbsUpCount": 0,
@@ -3398,7 +3410,7 @@
     {
         "reviewId": "gp:AOqpTOF3eIjKhgRSWyzZdEJ0VN5MAKoiQuMw9L0t9ECgBMHPc94JfZPCELbeJ2DSsVroKtvmX0yw8OPDmialA6o",
         "userName": "Piersimone Avena",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GimZJVyDLOkqBYzaX0dSfBmKEdBLg_Tg0_Hwyj_4g",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GimZJVyDLOkqBYzaX0dSfBmKEdBLg_Tg0_Hwyj_4g",
         "content": "Dopo aver visto il video di presentazione rivaluto. Bella idea: merita 5 stelle soltanto per lo sforzo profuso. Tuttavia, priva del supporto dell'autorit\u00e0 sanitaria che elevi a 100 l'indice di rischio del contagiato, l'app ne esce depotenziata perch\u00e9 l'allarme non pu\u00f2 trasferirsi agli utenti entrati in contatto. Buono anche il tracking gps volontario da me subito attivato (spero che l'opzione sia presente anche sull'app scelta dal governo): il nulla che ho da nascondere non vale la mia salute.",
         "score": 5,
         "thumbsUpCount": 26,
@@ -3410,7 +3422,7 @@
     {
         "reviewId": "gp:AOqpTOHcXl6K-1iEvwaujgArweyqpQHfblIiekUOuODe3kaPR8Dk8NfpukDTOR_BSzT4NEn1DhfceeSdGpuFlo0",
         "userName": "PAOLO PIGOZZO",
-        "userImage": "https://lh3.googleusercontent.com/-hNXf6fzhViA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclX5AwSBogJ2rjkM_dblvc23pYARA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-hNXf6fzhViA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclX5AwSBogJ2rjkM_dblvc23pYARA/photo.jpg",
         "content": "Ottima",
         "score": 5,
         "thumbsUpCount": 0,
@@ -3422,7 +3434,7 @@
     {
         "reviewId": "gp:AOqpTOFBKQMfVTOhEDE5gFeW8ZXb_C8Ihfaajznds3HRDCcYVLZKMmWkY1GMkzpF3Ro4gXXaja7XbHNMXxeW5_c",
         "userName": "Tommaso LATTARULO",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjG9nafRPTFtZCk4Pov9iKwQKiw27iXG-tmMKb8",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjG9nafRPTFtZCk4Pov9iKwQKiw27iXG-tmMKb8",
         "content": "Buongiorno, ho appena scaricato l'app, non appartengo a nessuna delle 4 categorie dell'app, sono un militare che non effettua servizio d'ordine come posti di blocco, ma l'ambiente militare \u00e8 come un piccolo paese, basta poco per essere contagiati, e la nostra forma fisica \u00e8 considerata (dall'opinione pubblica) un gradino pi\u00f9 altro rispetto alla popolazione media, ma vi posso assicurare che il virus non chiede che lavoro facciamo e siamo a rischio anche noi",
         "score": 3,
         "thumbsUpCount": 38,
@@ -3434,7 +3446,7 @@
     {
         "reviewId": "gp:AOqpTOHzm5HTSrorTSExpHz_lRN_ORsmg-e2rQmfzVep7vfpdTxPXURohmPxN68EKf1OONvlg4A6o8VsLQfsZLk",
         "userName": "Daniele Battilana",
-        "userImage": "https://lh3.googleusercontent.com/-AcmIw_LU-B4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckTKk-MJAZTbPfo4kXr1QedgyBRgA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-AcmIw_LU-B4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckTKk-MJAZTbPfo4kXr1QedgyBRgA/photo.jpg",
         "content": "Bella App e ottima idea! Io purtroppo l'ho tolta perch\u00e8 la batteria non mi durava nemmeno mezza giornata e al lavoro non ho modo di caricare il telefono.",
         "score": 3,
         "thumbsUpCount": 0,
@@ -3446,7 +3458,7 @@
     {
         "reviewId": "gp:AOqpTOFpC6brPL8KMsT5sdxVfI2q6cTU4OwXNySlRolezb64HXnFDpLMC8GtlqZ-CBZ6wRuVvkmeBotJgP9RiZo",
         "userName": "chicco FisH",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gi5FojeWdhy02rDu5NItN84_lAR-7Kifh4Kj6ph",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi5FojeWdhy02rDu5NItN84_lAR-7Kifh4Kj6ph",
         "content": "Sono curioso di sapere se \u00e8 necessario tenere l'app aperta in background, o se l'attivazione di Bluetooth e gps \u00e8 sufficiente per il suo corretto funzionamento.",
         "score": 3,
         "thumbsUpCount": 0,
@@ -3458,7 +3470,7 @@
     {
         "reviewId": "gp:AOqpTOFB0p59gYRV_4kYtPSq1V70Z1DKZkiB3LhEbTyUqoC1vo7ynC7PdOaNaN9Ts-XfmZ5zCW6P8Amq5hXQkeo",
         "userName": "Alessandro Ale",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gg_7FwaT6ihQ3JUVIGUXOIvAmR-6K-ONV2WcmRB4w",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg_7FwaT6ihQ3JUVIGUXOIvAmR-6K-ONV2WcmRB4w",
         "content": "Nei permessi concessi di default l'applicazione richiede di accedere costantemente alla fotocamera anche senza permesso. Per farne cosa? Perch\u00e8 in questa modalit\u00e0 chiunque potrebbe attivare la videocamera anche con Smartphone in standby e acquisirne le immagini. App sospetta.",
         "score": 1,
         "thumbsUpCount": 4,
@@ -3470,7 +3482,7 @@
     {
         "reviewId": "gp:AOqpTOEJk6ZUfuamTFTLKJtsnUT5WGRQwdp0v_38vZvG-32A3ob6iDlc38H457Ry3c9dvw-q2OU9A_vNAUOLy5w",
         "userName": "Mauricio Andres Valassina",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gh1oYnWrckvcdF1fXyThHLnAvSO0BN8UvevxjKmmg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh1oYnWrckvcdF1fXyThHLnAvSO0BN8UvevxjKmmg",
         "content": "L'idea non \u00e8 affatto male in questo momento ma, mancano delle categorie di utenti come gi\u00e0 segnalato da altri utenti. Io sono un tecnico di strumentazione diagnostica nei laboratori analisi di ospedali e laboratori privati, non ho contatti sicuramente positivi ma la possibilit\u00e0 \u00e8 potenzialmente alta",
         "score": 3,
         "thumbsUpCount": 5,
@@ -3482,7 +3494,7 @@
     {
         "reviewId": "gp:AOqpTOE25D3XkFbKFQClIr3I_feEMPi8Miip2AFeSkP0I5okSob-J8WXq1gXUbL1TDcKSFr7EjSFRVKbFI5Rdvo",
         "userName": "Michele Bel\u00e0",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gi5YUj5gBITyfEMPuXk_sJ1t7v3xQ2dxLb_CZLK",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi5YUj5gBITyfEMPuXk_sJ1t7v3xQ2dxLb_CZLK",
         "content": "Non saprei,ancora da capire! Chiede il Bluetooth ogni 5 secondi nel caso non lo vede abilitato. Ma nel caso io fossi a casa o stia dormendo potrei non volerlo accendere. Forse va implementato un:richiedimelo tra x ore o richiedimelo alle hh:mm.",
         "score": 3,
         "thumbsUpCount": 3,
@@ -3494,7 +3506,7 @@
     {
         "reviewId": "gp:AOqpTOE_CrH67FlAz2jMKIxFqEEHT9Y0JP6ochx6tqSJ3UMPrHBfT42Dq8jeEZkNC9eSaZiUMCP7WcTQvOlBqLw",
         "userName": "vincenzo tummarello",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjHSn64CaA824d8jICKuoUUjJhonsQ-Iq8ILZMW",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjHSn64CaA824d8jICKuoUUjJhonsQ-Iq8ILZMW",
         "content": "Fantastica. Dovrebbero installarla tutti.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -3506,7 +3518,7 @@
     {
         "reviewId": "gp:AOqpTOEu4ImJkbY3eI8xUNR0KqqrL2j7Ai3PekicGpnCy_r3_BXvZeIcwkjm3xnBmjo2BNnjX6RcS3Ursx4EG0M",
         "userName": "Marianna Mamusa",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Ghr_0n_O0eVdKDDPp02SSTlZ-hnFs_3BrcWgPUf",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ghr_0n_O0eVdKDDPp02SSTlZ-hnFs_3BrcWgPUf",
         "content": "Per ora pare funzioni come dovrebbe! Molto semplice, non c'\u00e8 niente da fare se non lasciarla attiva",
         "score": 5,
         "thumbsUpCount": 0,
@@ -3518,7 +3530,7 @@
     {
         "reviewId": "gp:AOqpTOFRiAkEZIMXJFUTLHJZ82N_Mu3jxB08fY9HBlfjhbIq9W6jeKWRztOIAF__fSFr6v5bA6VLeawBepbUtnY",
         "userName": "giuseppe Orsini",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgyDsiuI4h62Y6rzVG89nmAT-OYQpxWbUsELRc2oA",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgyDsiuI4h62Y6rzVG89nmAT-OYQpxWbUsELRc2oA",
         "content": "Ottima",
         "score": 4,
         "thumbsUpCount": 0,
@@ -3554,7 +3566,7 @@
     {
         "reviewId": "gp:AOqpTOHCPy7eaIaZN83H4jlqui88xxmbqPZEMHoGv0AdKIb3oxD9AiJNplNPTp9QgklckSjnVnzNs2oQMoFGe2A",
         "userName": "Luca - Gallico",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjgUqCsxgZelrBfUDIeS2e9B97azLr5SwWuAsSDgQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjgUqCsxgZelrBfUDIeS2e9B97azLr5SwWuAsSDgQ",
         "content": "\u00c8 cos\u00ec comico rendersi conto che lo stato vuole fare una cosa che esiste gi\u00e0 e funziona meglio di quanto ci si aspetti dalla nostra repubblica. Almeno questa \u00e8 sicura, per ora... Chi ha capito ha capito ^^",
         "score": 5,
         "thumbsUpCount": 3,
@@ -3566,7 +3578,7 @@
     {
         "reviewId": "gp:AOqpTOG-xskhrkjiLvbbK4FeLRfTpPUbBBqTAdqPjPGQpH_k4YaP9Tp8dolZMtlVS5mbqCKMn0F8hbG9kjkWnOo",
         "userName": "massimo cristini",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhbKDO6vL6-Nn1dTXKoj-saHrF9PrXijvLnW4rBaw",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhbKDO6vL6-Nn1dTXKoj-saHrF9PrXijvLnW4rBaw",
         "content": "Ottima app. Speriamo che possa funzionare. Almeno cos\u00ec si potranno bloccare i contagio",
         "score": 4,
         "thumbsUpCount": 0,
@@ -3578,7 +3590,7 @@
     {
         "reviewId": "gp:AOqpTOErWMOyjxnBzmR4-Z-cuWblF__IrWBJHHaUCnCljRpx2C1V9i8E1xnaT9eUqv8ZM8TNgpn6uyl8jGVhRoI",
         "userName": "alex77k12",
-        "userImage": "https://lh3.googleusercontent.com/-H5zuXwEA7g8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm7VOUjqTmKUTDU3Z9FgIP-aFS6lA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-H5zuXwEA7g8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm7VOUjqTmKUTDU3Z9FgIP-aFS6lA/photo.jpg",
         "content": "richiede di continuo l'attivazione del bluetooth nonostante sia attivo, presumo non lo riconosca",
         "score": 1,
         "thumbsUpCount": 1,
@@ -3602,7 +3614,7 @@
     {
         "reviewId": "gp:AOqpTOHiP7upBzAdZKlF2ul6Pqmmf4Qdo3rojCzREbObWSBNmOmczleJFKtZWKb3itgGQbwKD8jQNLSnw_-hJoA",
         "userName": "Andrea Biondi",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjbgiH7C9oOSG9sG4TnSIh3K36ENZm8guic8VbJ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjbgiH7C9oOSG9sG4TnSIh3K36ENZm8guic8VbJ",
         "content": "Ho installato. Poi nei permessi, l'ultimo, evidentemente la scelta non era corretta. Ma per cambiare scelta ho dovuto disinstallare l'app e reinstallare. Non un buon inizio...",
         "score": 2,
         "thumbsUpCount": 2,
@@ -3614,7 +3626,7 @@
     {
         "reviewId": "gp:AOqpTOFd49zz_Fvs-5Hvp09c517A5tpxwOkyj9HXVUKqJ4afTkZbrvtuza6N24g2D-eFleS1xY30I3qBg0zcmM4",
         "userName": "Stefano Brugo",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjeUMO5GT4I8lWDVWtD3wEpIeeLYPKatMSUADDrBg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjeUMO5GT4I8lWDVWtD3wEpIeeLYPKatMSUADDrBg",
         "content": "Non c'\u00e8 la possibilit\u00e0 di registrarsi come soccorritore.",
         "score": 4,
         "thumbsUpCount": 1,
@@ -3626,7 +3638,7 @@
     {
         "reviewId": "gp:AOqpTOFfa_1ddFuhoBZjWH_ELb7fzoQf-H_P01itUPyUPmz53nLKHPMod-IoYQfpxDBeB9KyQ42chh-KFkynw-s",
         "userName": "Stefano Tocco",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gg5GPseo5AX3K9feW4W7rOQF4F3R3l1JDTS9-tlVQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg5GPseo5AX3K9feW4W7rOQF4F3R3l1JDTS9-tlVQ",
         "content": "Ottima iniziativa e ottima app. Funziona perfettamente e non impatta minimamente sulle prestazioni del telefono. Funzionamento trasparente e assolutamente intuitivo anche per chi \u00e8 poco avvezzo alla tecnologia. Speriamo che il progetto di questa app alternativa resti in piedi e funzionante per il futuro. Come sempre l'iniziativa privata arriva prima di quella pubblica. Grazie per il vostro lavoro.",
         "score": 5,
         "thumbsUpCount": 52,
@@ -3650,7 +3662,7 @@
     {
         "reviewId": "gp:AOqpTOFBVA8A5J3jIxNyas25e1wvZEAmZ5DwCvoxEoZ_qkjUUpkRcW5X0ABevmmQpLEYxFyRvym3iSDk1fgLu2w",
         "userName": "Giuliano Marchese",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiGw6jlroPdRZWXJIQ2oxti9TpzvdowECJb45nd3w",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiGw6jlroPdRZWXJIQ2oxti9TpzvdowECJb45nd3w",
         "content": "Salve, ho appena eseguito download e mi piace l'idea. Vorrei sapere dove vengono conservati i dati, se verranno conservati in maniera centralizzata o distribuita e come saranno messi a disposizione delle autorit\u00e0. Grazie.",
         "score": 4,
         "thumbsUpCount": 2,
@@ -3662,7 +3674,7 @@
     {
         "reviewId": "gp:AOqpTOGwT3-RcIpP4HWiN_kiy9pUJfIyK_Myt_nw2rvFE0RlcxZIDpLeRvLRqWWGZ7xQ5w5SioDjrjJaIanEJ_o",
         "userName": "Claudio Claudio",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhjzPgwTT3HGdD6iiO_Fv62qhCBZ9BmbAiBbicc-w",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhjzPgwTT3HGdD6iiO_Fv62qhCBZ9BmbAiBbicc-w",
         "content": "Su samsung s10e nn funziona",
         "score": 1,
         "thumbsUpCount": 1,
@@ -3698,7 +3710,7 @@
     {
         "reviewId": "gp:AOqpTOHgreZJrVZ00CE01ssXZZ-wv6jW92pHPrnQThs8NFStyXmiOKWAMrsTM7kj2qzdC2pzAtg8HbmzNpHYXMI",
         "userName": "Giovanna Tedesco",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgvLHfofCZwhYX40oYdEWrzlbjFczgNm9FPJAIAjA",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgvLHfofCZwhYX40oYdEWrzlbjFczgNm9FPJAIAjA",
         "content": "Ma come funziona?",
         "score": 1,
         "thumbsUpCount": 1,
@@ -3734,7 +3746,7 @@
     {
         "reviewId": "gp:AOqpTOGOokClcr15_dchrAw73ZWF_aFgEWRNeXVOUM6EkzevbnwBg25ED6O6XqkwAKQMY2cW1MquQIINhCUFBcU",
         "userName": "Roberto C",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjDq_3WMSxvyoVAX_ngedsrnKHe4gDwie_Axeji7Q",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjDq_3WMSxvyoVAX_ngedsrnKHe4gDwie_Axeji7Q",
         "content": "Interessante e ben progettata!",
         "score": 5,
         "thumbsUpCount": 0,
@@ -3746,7 +3758,7 @@
     {
         "reviewId": "gp:AOqpTOH6FhCGziJzD60ty90z1vJ4on2CS_hEJzh2MYuACgl4L1Q02S4dGnefBuSAR7mIf4ikGNPoPUKfOMh1Kes",
         "userName": "Massimo D'acunzo",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gjdgs6qYrlo4wa2KuSQm0l9-mJaYmHBmj6ucB5AZw",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gjdgs6qYrlo4wa2KuSQm0l9-mJaYmHBmj6ucB5AZw",
         "content": "Inutile",
         "score": 1,
         "thumbsUpCount": 2,
@@ -3758,7 +3770,7 @@
     {
         "reviewId": "gp:AOqpTOEq-0r6VEc3_6_5YiyTbL8JLR3KQqkTRSy9bOHQbP2osjRMho2USr-Cgq42ARG_wihOQ3uPm0wufAG_nDM",
         "userName": "DylAn LeaNdRi",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gg93kNYgaoWJH6ZKZt9kwMrK2cntc2Fo9Gmiw04",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg93kNYgaoWJH6ZKZt9kwMrK2cntc2Fo9Gmiw04",
         "content": "App molto buona l'unica pecca \u00e8 quella che usa il Bluetooth e si scarica molto facilmente il telefono apparte questo molto buona",
         "score": 4,
         "thumbsUpCount": 0,
@@ -3782,7 +3794,7 @@
     {
         "reviewId": "gp:AOqpTOEfwRMce18GDCRomyUqBQeConjG4qfhbr6GjeNDP9XWR59YrmeUkMDXjBCsx3XWoLyMEQ4klkr6NGevY8k",
         "userName": "Un camparisoda grazie",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgNYehzyYXVn9WvwmLpzOSPxq7tiIR1kI5aJ7RPMLs",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgNYehzyYXVn9WvwmLpzOSPxq7tiIR1kI5aJ7RPMLs",
         "content": "Made in Irpinia,una garanzia,ottima App",
         "score": 5,
         "thumbsUpCount": 0,
@@ -3806,7 +3818,7 @@
     {
         "reviewId": "gp:AOqpTOFNJ8LOikGIKnpsuPltdewx8Li3adhAAb1JImKUMy9LizeTwNzZIKg5HB54flj_nxVkXuJqdXqLItPsY_M",
         "userName": "Fausto della cristina",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gj_BeilAAStWYV9vGzMpGAWbdDL0T-u4qNqBUrtfuM",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj_BeilAAStWYV9vGzMpGAWbdDL0T-u4qNqBUrtfuM",
         "content": "Direi che al momento \u00e9 essenziale questa app... Speriamo che la utilizzino in tanti",
         "score": 5,
         "thumbsUpCount": 0,
@@ -3830,7 +3842,7 @@
     {
         "reviewId": "gp:AOqpTOFuCnnBnzIvLWaCZhvClYd3WAs-rLFoZui81J-kCiKNHNBdqOLBctWzDS7VkxIlXU1MntOPaFzrhZWcXAg",
         "userName": "Umberto Gozzo",
-        "userImage": "https://lh3.googleusercontent.com/-0gfkYNz-AdI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck2DjbyxZCiHIQ6NQf94LE5bJSDpQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-0gfkYNz-AdI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck2DjbyxZCiHIQ6NQf94LE5bJSDpQ/photo.jpg",
         "content": "E molto utile dovrebbero scaricarla tutti OBBLIGATORIAMENTE",
         "score": 5,
         "thumbsUpCount": 0,
@@ -3842,7 +3854,7 @@
     {
         "reviewId": "gp:AOqpTOFMlcY3xyFVIKLbbAkLrpTKj6AJk0Ldu3UlRS_RMkIIXqh62P2dMXTOLr4W0tvVxPzzVi_Z-4a_Gb8OaB8",
         "userName": "Mario Mangano",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhfImyw67eP0oqgk2ZzcaqMWIwuMyGUiE_9pIb0Rw",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhfImyw67eP0oqgk2ZzcaqMWIwuMyGUiE_9pIb0Rw",
         "content": "Ottima applicazione !!!",
         "score": 5,
         "thumbsUpCount": 0,
@@ -3854,7 +3866,7 @@
     {
         "reviewId": "gp:AOqpTOEWLH6JJqJxdkodepUQvdDCpncqSNGUbAXwb64hK6gJZ599PwixUHBHxFg8nSlffNOmc-BMED9452Qx8uk",
         "userName": "Giampaolo Fanni",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gj4cl4clSodCxltMCTPSUMAFoxZAaEaq-gNVkDsgw",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj4cl4clSodCxltMCTPSUMAFoxZAaEaq-gNVkDsgw",
         "content": "OTTIMO",
         "score": 5,
         "thumbsUpCount": 0,
@@ -3878,7 +3890,7 @@
     {
         "reviewId": "gp:AOqpTOHqeQmdbol4hPE_amsqOpflQs1ZEMyJZIvdnAHIlN3NEe9wTccejkitkvRKHHXEwmzbm9E96dwMDL-gEh8",
         "userName": "Sabrina Fachin",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GinPZJwQOPRciO-5lAiT4zJkzeIr4yboLCvnVvn",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GinPZJwQOPRciO-5lAiT4zJkzeIr4yboLCvnVvn",
         "content": "Ci voleva",
         "score": 5,
         "thumbsUpCount": 0,
@@ -3902,7 +3914,7 @@
     {
         "reviewId": "gp:AOqpTOG7ue8xY9cs5JyFmp9oASSiHZ_OehZSiIuT8JG3f9MKqzLtif5nLErVqt4cjKIqNQBljeTM_Ix_45zcOz4",
         "userName": "Sabrina Giovannetti",
-        "userImage": "https://lh3.googleusercontent.com/-0KeyyerWdLQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnj3Sxenmk1Ltuxsl_mWd4lnRI9_A/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-0KeyyerWdLQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnj3Sxenmk1Ltuxsl_mWd4lnRI9_A/photo.jpg",
         "content": "Bellissima",
         "score": 5,
         "thumbsUpCount": 0,
@@ -3938,7 +3950,7 @@
     {
         "reviewId": "gp:AOqpTOGUlZsNOgNBiWYgnCq9gyhzFHRLz6-P-gR2kemH8Miz05auJeXrMsmSDN6Vqi8XVzWx2dgm_3BQrnQOTi4",
         "userName": "Vito La Fata",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GivnRoUUrX9Hkf-qsWoDt_XMKDn5g_ow0xqRl7W",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GivnRoUUrX9Hkf-qsWoDt_XMKDn5g_ow0xqRl7W",
         "content": "Ottimo",
         "score": 5,
         "thumbsUpCount": 0,
@@ -3962,7 +3974,7 @@
     {
         "reviewId": "gp:AOqpTOGhanLkjMVhTzlL5NIkJFSTBOqqPVqSNj357ffmrAy1OfcahILQBWROZ7uLcdyDLLprlBDYtW28bC2bb_M",
         "userName": "Valentina Zanga",
-        "userImage": "https://lh3.googleusercontent.com/-9MaGERx-LxI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclw9Y5YQ1_oWqPAoKfi7asHAvIYLA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-9MaGERx-LxI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclw9Y5YQ1_oWqPAoKfi7asHAvIYLA/photo.jpg",
         "content": "E carina come app",
         "score": 3,
         "thumbsUpCount": 0,
@@ -3974,7 +3986,7 @@
     {
         "reviewId": "gp:AOqpTOGWhLHiiUTxNjiiNcO2CuLVPVN1KpfBsWbf-eD1ufV-nFEjMfZFkTrd521XzMx_G9Uz49gvHoqwI9nPxdM",
         "userName": "Angelo Damiani",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgQmXK0kZkaHBoxzcmgz3qlLWms-FZWOZBxF8TTEQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgQmXK0kZkaHBoxzcmgz3qlLWms-FZWOZBxF8TTEQ",
         "content": "Speriamo che tutto cio'che leggo sia reale.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -3986,7 +3998,7 @@
     {
         "reviewId": "gp:AOqpTOGuAxhpVyhFkyGF3k25-2KEzAxhQeyaF6e5jima5z6koggl-d9nYXPfXHTLc1px-qLLpyTaAHVXP582mSw",
         "userName": "Anna Cellini",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiPq_ufwI371FMNJP-fPaYY5Qb8z56D_R6_hyH_",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiPq_ufwI371FMNJP-fPaYY5Qb8z56D_R6_hyH_",
         "content": "Ottima applicazione per tutti cosi non ti senti da solo",
         "score": 5,
         "thumbsUpCount": 0,
@@ -3998,7 +4010,7 @@
     {
         "reviewId": "gp:AOqpTOEY7Z6nSbyTwH2TSQHySD7kEu9IA97brBiHoCj52OYaSKLf-YkRLdpcc23dsVUwkrox5s-sTJIpN0ocNXs",
         "userName": "Domenico & Katia Tucciarone",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjEjE8Ek9dwrMuJm2eWtqwltlI6Fb3LakO_MM8C",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjEjE8Ek9dwrMuJm2eWtqwltlI6Fb3LakO_MM8C",
         "content": "Ottimo \ud83d\ude09",
         "score": 5,
         "thumbsUpCount": 0,
@@ -4010,7 +4022,7 @@
     {
         "reviewId": "gp:AOqpTOHwntUjyv1eScUSVPtkhXuazn6tkIG8FFinM6ckpAPtWtXj-TCZwwUQQ4mLM063MMw9YVeeDCiqEnFT9BY",
         "userName": "Diego Imperiale",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiFhmLh_q-PzT5pFYugDYuoRexjdbXOzD75onUQsg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiFhmLh_q-PzT5pFYugDYuoRexjdbXOzD75onUQsg",
         "content": "Schifo non funziona e non si apre nemmeno!",
         "score": 1,
         "thumbsUpCount": 0,
@@ -4058,7 +4070,7 @@
     {
         "reviewId": "gp:AOqpTOH1yIKjoAvUTGhLiIPZ6pJe_qYhV2emByP8v_tXpdXSLQdCpbK-fAhJBNiAM2nqHk-nEz8_RTPoB6zVMHs",
         "userName": "Roby58 Alloa",
-        "userImage": "https://lh3.googleusercontent.com/-PX89-BSrzfQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckW47suBXaPKw-SLZjoZsOLOeNraA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-PX89-BSrzfQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckW47suBXaPKw-SLZjoZsOLOeNraA/photo.jpg",
         "content": "La devo ancora provare bene ma mi sembra una buona applicazione utile per il tracciamento delle persone che incontro.",
         "score": 4,
         "thumbsUpCount": 1,
@@ -4070,7 +4082,7 @@
     {
         "reviewId": "gp:AOqpTOGn_y2AojRmNLzWN9HQ-naDQn-H8-ouX_1K1d6QMbSCVf1a60MaElX3t2sTfGzW0LCqV1j1ucoofk_v6xo",
         "userName": "paolo manenti",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gj9wWziZMwdsGsSfwZqO8upGlCnPoVjOvkzLD8",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj9wWziZMwdsGsSfwZqO8upGlCnPoVjOvkzLD8",
         "content": "Non funziona. Arrivo alla schermata dove dai l'ok per l'attivazione del bluetooth ecc e non mi da pi\u00f9 la possibilit\u00e0 di proseguire.",
         "score": 1,
         "thumbsUpCount": 1,
@@ -4082,7 +4094,7 @@
     {
         "reviewId": "gp:AOqpTOGG2MvAnX1KtY2fmk5aATLV1xufCDUmi9cv30XcJZKpO_BdLAx-unjW59P0_tVLhEPmOSXQYKafmYA_BS0",
         "userName": "Oleksandr Krestin",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gjvnna0uFdd3nbkLXWz3H24vV3bTtnF5Q7SuV2w",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gjvnna0uFdd3nbkLXWz3H24vV3bTtnF5Q7SuV2w",
         "content": "Ottima idea ma come sempre brutta realizzazione. All'avvio app chiede permessi di accesso a Bluetooth (non si blocca quando scegli \"solo mentre uso app\"!), avvio automatico (rimane disabilitato anche con il permesso!) e attivit\u00e0 in background (che in realt\u00e0 \u00e8 accesso a gps e si blocca finch\u00e9 non selezioni \"sempre\"). Quindi?? Tracciate gli spostamenti con GPS e non come BT come descritto?? Non me frega un tubo di miei dati ma non nascondere accesso a GPS sotto voce di background!! App sospetta!!",
         "score": 1,
         "thumbsUpCount": 27,
@@ -4094,7 +4106,7 @@
     {
         "reviewId": "gp:AOqpTOFUr934Yw92IG_M4K3toYTl8TsRw-KNRM7LZPxtvqekvsInRdLMwJDfv7ddTcsZWgy4NdcLWGzL_D9FUhQ",
         "userName": "ANTONIO IZZO",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjtwUnP7ULgusmjj5s1bxFgIpI56I_DoeukZhm4yw",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjtwUnP7ULgusmjj5s1bxFgIpI56I_DoeukZhm4yw",
         "content": "APPLICAZIONE EFFICACE, BUONA, COMPLIMENTI.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -4106,7 +4118,7 @@
     {
         "reviewId": "gp:AOqpTOGpqUgEtchNdxyXvyLpvK4UoSBCrVgH4DrsJ-BPMxUHwK0xMugT2rFElVYDPMHdsIHTSRIhIEF0IAYlEWk",
         "userName": "Izrm Nzm",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GigcjaVi2nqscuN01sRInEOLpHNRiI2IgwDG72CDw",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GigcjaVi2nqscuN01sRInEOLpHNRiI2IgwDG72CDw",
         "content": "Bravi scaricate queste caxxate tanto a cosa serve la privacy?",
         "score": 1,
         "thumbsUpCount": 4,
@@ -4130,7 +4142,7 @@
     {
         "reviewId": "gp:AOqpTOEppatHKCKgxN5jD5Xpsnf0uQQyWF8DOWgiwt8yCqP_KYfYRkiWH_hvGWyBUFPrjdKWILdnZKEr1p53o74",
         "userName": "Pasquale Ronutti",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gg4BEFr0jhOQO56jSFU3WPNaZ_Vylm2w4MfG5w3",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg4BEFr0jhOQO56jSFU3WPNaZ_Vylm2w4MfG5w3",
         "content": "Io lo installata x 2 volte o anche fatto L'aggiornamento. Ma risulta sempre bloccata. E cos\u00ec disinstallata",
         "score": 1,
         "thumbsUpCount": 0,
@@ -4142,7 +4154,7 @@
     {
         "reviewId": "gp:AOqpTOG2jp7UWwHDoaUCASbMO0VSdxy38aiM_1EUbljwiakDo3UNqAVIb9yNJwJO2JslvRhxqCkGEBRJVJm987A",
         "userName": "T0XIC P4ANDA",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgY9QdC2QfToAsxcHR4QW7IluK_LhVx8AF2zdIvRA",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgY9QdC2QfToAsxcHR4QW7IluK_LhVx8AF2zdIvRA",
         "content": "Se uno \u00e8 asintomatico o positivo come fa a saperlo se non ci controlla nessuno...specialmente chi lavora nei supermercati...",
         "score": 3,
         "thumbsUpCount": 0,
@@ -4154,7 +4166,7 @@
     {
         "reviewId": "gp:AOqpTOGGj5Rgj2xgoVRyuKs2HFL9kEYfmaMy16R8Ks11DJTq6dnKIu3jeNV5Qkljv3c3twYiJSfw2UeZW4TqAfQ",
         "userName": "Luigi Conte",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GihyluU7mxCw_Rf3rUnSwI9MspVMfSaehAoHRRi7w",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GihyluU7mxCw_Rf3rUnSwI9MspVMfSaehAoHRRi7w",
         "content": "Sembra un ottima idea, ma ci sono cittadini,infermieri ecc , ma io sono in un supermercato a contatto con 100 persone al minuto ad alto rischio credo pi\u00f9 si altri. Sviluppate questa app per la tutela delle persone che lavorano a stretto contatto con altre persone. Buon lavoro E buona fortuna !!!!",
         "score": 4,
         "thumbsUpCount": 22,
@@ -4166,7 +4178,7 @@
     {
         "reviewId": "gp:AOqpTOEmktgqIe0Di6Qil2z1hZQVhBPN-LJGFCbxvD7sQcHxoeTw2sfS0pTEOS-GlU1d2PlzOsQMNdfrFk67O5o",
         "userName": "Dark Seattle",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gg2E6tuCm_bnGgKu0yQ4KpNViRHFHX6fJ5NKhoCEAo",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg2E6tuCm_bnGgKu0yQ4KpNViRHFHX6fJ5NKhoCEAo",
         "content": "Io l'ho scaricata. Spero che lo facciano anche altri utenti. E' una app utile e la suggerisco. Dovreste pubblicizzarla maggiormente. Buon lavoro\ud83d\udc4d\ud83c\uddee\ud83c\uddf9",
         "score": 5,
         "thumbsUpCount": 1,
@@ -4190,7 +4202,7 @@
     {
         "reviewId": "gp:AOqpTOGecXzpBxHiHtKo43vLGmo2tbjFLSxgsu38pJKZl8r1Xes5FAVtqbdnjsoKUZLW67Ioo0NfkUzZbiP1FhE",
         "userName": "Antonio Caiafa",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgwyjyRhr-EEd-MnjgF0dY5hoNqFz1HR8FTpZFf2w",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgwyjyRhr-EEd-MnjgF0dY5hoNqFz1HR8FTpZFf2w",
         "content": "Spero che questa applicazione diventer\u00e0 obbligatoria per chi esce di casa",
         "score": 4,
         "thumbsUpCount": 1,
@@ -4202,7 +4214,7 @@
     {
         "reviewId": "gp:AOqpTOGHzGfjvhUxn-rjCpyh0OlSgKml0HXuYg6xajvTT-7z8uTXxfM0sl6kpGL3oDtEKfAC8FELFHB1_B03wVs",
         "userName": "Walter Custagliola",
-        "userImage": "https://lh3.googleusercontent.com/-b8zvEwpipvs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnsGayZnKr1DCcHupGKt0dl91G7SA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-b8zvEwpipvs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnsGayZnKr1DCcHupGKt0dl91G7SA/photo.jpg",
         "content": "Ottima Idea. Ottima App. Oltre al lavoro per migliorare l'App, dovete lavorare di pi\u00f9 sul pubblicizzarla. Io la sto condividendo anche a voce con tutti. Pochissimi ne sono a conoscenza. Bravi ragazzi e ottimo lavoro. Contattatemi pure per pareri e suggerimenti o opinioni. Walter",
         "score": 4,
         "thumbsUpCount": 2,
@@ -4214,7 +4226,7 @@
     {
         "reviewId": "gp:AOqpTOG47X7kDzN84i3iFwElHYk5fYRrBPjIVRlzK3eN9zJfiV0OmtOcPadkotIkAlKPN9IX8pxUlfZEs1BhqK8",
         "userName": "leonardo /",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjIqiONI4sbV9N8uvOUx5s-326RKPYBsRUXAopCqw",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjIqiONI4sbV9N8uvOUx5s-326RKPYBsRUXAopCqw",
         "content": "Bella, speriamo sia utile e che funzioni bene PS: ho notato che quando l'ho installata mi richiede sempre di attivare il bluetooth e surriscalda molto la batteria del cellulare. Domanda: che funzione da l'applicazione?? Aspetto risposte. Grazie",
         "score": 4,
         "thumbsUpCount": 5,
@@ -4238,7 +4250,7 @@
     {
         "reviewId": "gp:AOqpTOGHQGzHThccDkQPhZeqUmUyAn_q1gLoAN0eEEaNgX_kV5GQt5NpDp-R_5tycoVlBf0RoonEqmWGRcJgCv0",
         "userName": "Mario Gatti",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhR83pz96j5AbQFt4BvcQ2s-DzWP2GwEOoOYAKYWA",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhR83pz96j5AbQFt4BvcQ2s-DzWP2GwEOoOYAKYWA",
         "content": "L'utilizzo in background consuma molto la batteria. Capisco che i dati devono essere raccolti, un modo migliore della gestione dati in background per un consumo batteria migliore.",
         "score": 3,
         "thumbsUpCount": 2,
@@ -4250,7 +4262,7 @@
     {
         "reviewId": "gp:AOqpTOGgQ3ufOA1TN8kl6QWdpGCoEPxdebTGawqykPnGbFxX9Lk-YwGQe_GNAERNbmltRkBPSQfi-mssQ9kAke0",
         "userName": "matteo temporin",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhMH7sPFUViK9-bFPo3yrpOZibLNmhJga98FbLEWg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhMH7sPFUViK9-bFPo3yrpOZibLNmhJga98FbLEWg",
         "content": "Io ho scaricato l'app ma onestamente non mi \u00e8 chiaro come dovrebbe funzionare. Quindi ho disinstallato. Pensavo posse darmi traccia delle zone dove si trovano positivi e quindi dove non andare",
         "score": 2,
         "thumbsUpCount": 1,
@@ -4262,7 +4274,7 @@
     {
         "reviewId": "gp:AOqpTOEu734MUu2u4zbIXPUM2ayVn90uIK5E77oFCiM36mU9y3BJxOTrHnBLj_ilaKcDEp7LhN65EQ1AX28nAIc",
         "userName": "Jason JR",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiYdVbzZBtgSU_qJLd4x1ljwCkpzS6X2aGLCXFFsQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiYdVbzZBtgSU_qJLd4x1ljwCkpzS6X2aGLCXFFsQ",
         "content": "L'app e' ben fatta. Potrebbe anche essere utile se fosse resa obbligatoria per tutti. Quindi non serve a nulla.",
         "score": 3,
         "thumbsUpCount": 1,
@@ -4274,7 +4286,7 @@
     {
         "reviewId": "gp:AOqpTOF9zehP8XRqXWN7EHqzUQZS-kxpHoT0VTs8A6SKwD7QFSozvBVmgk8nw-EjxzMANU-v-JRZ5P3KBKSdUPA",
         "userName": "CROCE VERDE ISOLA DELLA SCALA",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gh35xS3ascPKtRKIjOTsvR1MBtsmj_4lsFaKOii",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh35xS3ascPKtRKIjOTsvR1MBtsmj_4lsFaKOii",
         "content": "Sarebbe meglio aggiungere la categoria dei soccorritori in ambulanza",
         "score": 5,
         "thumbsUpCount": 0,
@@ -4298,7 +4310,7 @@
     {
         "reviewId": "gp:AOqpTOHXAJjfg3RayvgLkcqWyfyoIKjPhuaWgifmX2OzDiGt04d5VHWGD9D2hueyYXduT6nXuytykSXcZhQQzZg",
         "userName": "Manuel Giulini",
-        "userImage": "https://lh3.googleusercontent.com/-Lg9nCX9nqEk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclo-Kn6KaObgNLtDlmmKgH4FTsC8g/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-Lg9nCX9nqEk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclo-Kn6KaObgNLtDlmmKgH4FTsC8g/photo.jpg",
         "content": "Molto utile,ma c \u00e9 un bug che devi sempre tenerla aperta in una scheda a parte poich\u00e9 se non si fa codesta azione,l'app inizier\u00e0 ad aprirsi da sola andando in primo piano sulle altre app.",
         "score": 5,
         "thumbsUpCount": 1,
@@ -4310,7 +4322,7 @@
     {
         "reviewId": "gp:AOqpTOFqdRI9aH6BcZlTUWBbu5ZjBpk3VslncweJVpx_iqj6TX4-Aqpieaew6RKIJKixHEEvr-Xx9KFEOSV9nek",
         "userName": "Giovanni Ferrando Battist\u00e0",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhKzVZyNKKlHnw4bkJeL1awZVD8_8L92m8p5B94",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhKzVZyNKKlHnw4bkJeL1awZVD8_8L92m8p5B94",
         "content": "L'idea \u00e8 ottima. Ma che garanzie ha chi \"incrocia\" me, visto che non avendomi fatto il tampone non risulto n\u00e9 positivo n\u00e9 negativo? Cos\u00ec pure per quelli con cui vengo in contatto io: d\u00e0 garanzie solo quando si viene in contatto con gente a cui \u00e8 stato fatto un tampone. E poi, ovviamente, vale quando si incrocia qualcuno che ha installata l'app.",
         "score": 5,
         "thumbsUpCount": 188,
@@ -4322,7 +4334,7 @@
     {
         "reviewId": "gp:AOqpTOHeZARPGMVjdxcxDMnV9H3DgvwK8x-nklm4SCN-izefXOcGuANcRaIIPCjRwyX93z8KzK15sfTqOjPl2yU",
         "userName": "Angiolo Massone",
-        "userImage": "https://lh3.googleusercontent.com/-bYgFLb6h6wo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck62PNYVLpAo_iP-Y9kFognj4HkwA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-bYgFLb6h6wo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck62PNYVLpAo_iP-Y9kFognj4HkwA/photo.jpg",
         "content": "Pessima,invece di lavorare in background, compare sempre sullo schermo,impedendo qualsiasi attivit\u00e0.disinstallata",
         "score": 1,
         "thumbsUpCount": 3,
@@ -4334,7 +4346,7 @@
     {
         "reviewId": "gp:AOqpTOFzCRVD6Omesd9OB81NOP0DJ8q40S6eYAgDosIY19saS8wruacFov2GtW3KCcmeWnTY4qv8qNZBA7Y3g_I",
         "userName": "Paolo D'Amico",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gg7cHrdF2Gtv7vCLAj_32ohAnm1MaEhWHS0dVnE",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg7cHrdF2Gtv7vCLAj_32ohAnm1MaEhWHS0dVnE",
         "content": "Ottima idea e ottimo strumento, che andr\u00e0 migliorato di volta in volta con i consigli degli utenti o delle autorit\u00e0. Importanza riveste che sia scaricata da una buona percentuale di popolazione, o le informazioni saranno limitate. Ma soprattutto che sia certificata ufficialmente dall'autorit\u00e0 sanitaria, magari attraverso un protocollo e che ci sia una specifica dichiarazione del gestore sulle modalit\u00e0 di trattamento dei dati sensibili.",
         "score": 3,
         "thumbsUpCount": 44,
@@ -4358,7 +4370,7 @@
     {
         "reviewId": "gp:AOqpTOHvbZ1bTek9g2DbrinmibBIIXmJSZK1XAwDZITbvejPgTNY1Ie98MMieYzZIIhB3jQxorfVasrPwY3YGhw",
         "userName": "Giovan Battista Girelli",
-        "userImage": "https://lh3.googleusercontent.com/-suSYtQg15r8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmBeD8RSi75hQQ6tKtGt6Ju4g4Q4w/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-suSYtQg15r8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmBeD8RSi75hQQ6tKtGt6Ju4g4Q4w/photo.jpg",
         "content": "La app \u00e8 troppo invasiva..continua a sovrapporsi alle altre app",
         "score": 2,
         "thumbsUpCount": 3,
@@ -4382,7 +4394,7 @@
     {
         "reviewId": "gp:AOqpTOFPVQwmcfvZyGJw7Wn_OgFRQVAX8FXNvVzfav-F1s5vmIAgmIcu6bOKZbPuil5Pue2pwSwjMY_AurymZlw",
         "userName": "carlo colaiocco",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiWDMQ9_8_F982gZYhjp-lNEzvmThduZUFozTkGXw",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiWDMQ9_8_F982gZYhjp-lNEzvmThduZUFozTkGXw",
         "content": "Ottimo",
         "score": 5,
         "thumbsUpCount": 0,
@@ -4394,7 +4406,7 @@
     {
         "reviewId": "gp:AOqpTOF1oK7pXKRNuQGonsT6C11w3JbxH3gzWje83RDUyaTFEH_xQEWpvICRomX6ivut0Jblu4cjoVrC7NLuGfI",
         "userName": "Marina Marina",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gg4Wc8BV_7823ebSwcZNjjYm7DmsQjC7LNoVvjVyA",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg4Wc8BV_7823ebSwcZNjjYm7DmsQjC7LNoVvjVyA",
         "content": "Sono a Milano dal 21gennaio us quando potr\u00f2 ripartire per Macerata? App perfetta",
         "score": 5,
         "thumbsUpCount": 0,
@@ -4406,7 +4418,7 @@
     {
         "reviewId": "gp:AOqpTOEOwOrfJP8cu9RcdNKSIi7DqW-8YBllCPTFj77E-ALF_uv5TbB9Qk99z_0LuDRcSPjcmu4IKiNQkoTlt_w",
         "userName": "Anna rita rizzo",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgdwjmkPy7Tmplcas6CPdY1Ofonb-bpkCNsFcD-",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgdwjmkPy7Tmplcas6CPdY1Ofonb-bpkCNsFcD-",
         "content": "Ottima e semplice. Consiglio vivamente di utilizzarla... Io la consulto e mi tengo aggiornata... Insomma mi piace e congratulazioni allo sviluppatore...",
         "score": 5,
         "thumbsUpCount": 1,
@@ -4418,7 +4430,7 @@
     {
         "reviewId": "gp:AOqpTOEQLBayd-OcXUy9L-2W5AXA3dclol5UNj3-WqcYb862Qn05LS_BSkjvzBkDLS7WBDCXGstt50Dbne6Hawc",
         "userName": "Luca Sartini",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gh20wy0qdpijnUL7peNM6o5WB28T88V7Adixj9tQg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh20wy0qdpijnUL7peNM6o5WB28T88V7Adixj9tQg",
         "content": "Si apre in autonomia e anche se continui a terminarla o a forzare l'arresto continua a tornare in primo piano sulla schermata senza sosta... Risolvete e rivaluto",
         "score": 3,
         "thumbsUpCount": 10,
@@ -4429,8 +4441,8 @@
     },
     {
         "reviewId": "gp:AOqpTOHlxMD5Mi95y8qR_6wXMOQRD1EdUzpJlNz85BB5hnaPFpEaBnU6vT-luCCeA4rqSPXhXV-ckRZWkRtz-kA",
-        "userName": "Eny Bozzini",
-        "userImage": "https://play-lh.googleusercontent.com/-tPgYrIoSvZg/AAAAAAAAAAI/AAAAAAAAAUg/AMZuucngDbRaqkVdxmujbMQNwnZxC5DqmQ/photo.jpg",
+        "userName": "sexy crips",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GggFYqkik0tD0sNI59wl8MOn9zKCH5gOg1okJ8ARw",
         "content": "Molto semplice e di facile utilizzo. Vorrei capire se tiene traccia di tutti i dispositivi incrociati o solo di quelli che hanno installato questa app.",
         "score": 4,
         "thumbsUpCount": 7,
@@ -4442,7 +4454,7 @@
     {
         "reviewId": "gp:AOqpTOH_nFLjIDCBOb8vn-PJWKHrWn3qP4x-TxMGsKKpLRSfIvlpXykT8MSWwOR4LvEGug-fS1fT6ZmqEmGWxLk",
         "userName": "Davide Cerruti",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgIGebIfstYWfjLqyBshmOTQJbZ48pV5efLLwigCd8",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgIGebIfstYWfjLqyBshmOTQJbZ48pV5efLLwigCd8",
         "content": "L'applicazione di per se non fa cose mirabolanti tiene traccia dei contatti tra le persone. Io l'ho installa e almeno non crasha. Speriamo che serva a qualcosa e che molti la installino. Vanno sicuramente aumentate le categorie e i dati per profilare anonimamente l'utilizzatore et\u00e0, sesso ecc.",
         "score": 4,
         "thumbsUpCount": 23,
@@ -4454,7 +4466,7 @@
     {
         "reviewId": "gp:AOqpTOHF5OCcTeH2_BeEDxJ3N1CewXPZ6jSJBEqsUia0r3197y3Kq_JRXeeB2NAvUGITcIc9hi56Fyli0QYTJus",
         "userName": "Pier Salfi",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiCdadztO95ccbDrOUNvzadOaEPInXYaR5FkT_c5w",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiCdadztO95ccbDrOUNvzadOaEPInXYaR5FkT_c5w",
         "content": "Sarebbe opportuno includere la categoria forze di polizia e/o forze armate che sono spesso impiegate sul territorio. Difetti di compatibilit\u00e0 con altre apps. Si apre continuamente quando si utilizzano altre app coprendole, cosa che \u00e9 molto fastidiosa.",
         "score": 1,
         "thumbsUpCount": 13,
@@ -4466,7 +4478,7 @@
     {
         "reviewId": "gp:AOqpTOGQO-KIOoZiJYOpzjBn738Uz6eWSoi9OWg1oBwPi6IphxyebtDxPix3SE5-g2dGnV4lztGGLHP44LP4tsE",
         "userName": "Paolo Catalano",
-        "userImage": "https://lh3.googleusercontent.com/-9lPPzdbyDuE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmUDHO8Gx1supfUssxM_akuW5IO3A/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-9lPPzdbyDuE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmUDHO8Gx1supfUssxM_akuW5IO3A/photo.jpg",
         "content": "ottimo",
         "score": 5,
         "thumbsUpCount": 1,
@@ -4478,7 +4490,7 @@
     {
         "reviewId": "gp:AOqpTOFJ6g4EHYBcdEh0hdPRqqF_QAB01d6_g12t-Wfj3So0wRce56QANnyzGRoPgWNt5zm_lqnU96iPvVlFtQM",
         "userName": "Massimiliano Di Pasquale",
-        "userImage": "https://lh3.googleusercontent.com/-E5ld7CEKL3o/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm7d624f9-kRG-59AbMfCTM-va-SA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-E5ld7CEKL3o/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm7d624f9-kRG-59AbMfCTM-va-SA/photo.jpg",
         "content": "Invasiva",
         "score": 1,
         "thumbsUpCount": 2,
@@ -4490,7 +4502,7 @@
     {
         "reviewId": "gp:AOqpTOF5ba3NC0R-W4Ivig2ZEpeLSoV7b8RFq2yx_DDj_pmwnluwcCZKBLGlDw5ADrOwnj3gbvbyrvLZNzPkT9Y",
         "userName": "Luigi Nardi",
-        "userImage": "https://lh3.googleusercontent.com/-w8aD6WMpby8/AAAAAAAAAAI/AAAAAAAAAvo/AMZuucnf4IHD24Jwql5-QsWKoHgWhvqWpg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-w8aD6WMpby8/AAAAAAAAAAI/AAAAAAAAAvo/AMZuucnf4IHD24Jwql5-QsWKoHgWhvqWpg/photo.jpg",
         "content": "Ottimo!!!",
         "score": 5,
         "thumbsUpCount": 1,
@@ -4502,7 +4514,7 @@
     {
         "reviewId": "gp:AOqpTOGTc3qnyV7B9qnDgLnR7FcznnLUUZEjRVT7lCocCSTFs_srCWjjAddsrqxtIadqTtYYnFdIkDYSsV_gG30",
         "userName": "Bianco Nero Nero",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhCUOyYmE94vUb-7-XMnr-wYi00_lIgNmqhPrbV3g",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhCUOyYmE94vUb-7-XMnr-wYi00_lIgNmqhPrbV3g",
         "content": "Ottima questa app per tenersi aggiornati durante questa emergenza,si consulta con molta semplicit\u00e0.",
         "score": 5,
         "thumbsUpCount": 3,
@@ -4514,7 +4526,7 @@
     {
         "reviewId": "gp:AOqpTOFPMQnG914wEW1R6zFv2pBdSsov37jyLcfzxJOBJNNBxdaIegTp6sor3nnIP1xybIj041k3mJGXuHg34e4",
         "userName": "Carlo Ruggeri",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gj4D2R5f34kxU3-jU1OpTg_2E2fDv1vfWGNHB-IoA",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj4D2R5f34kxU3-jU1OpTg_2E2fDv1vfWGNHB-IoA",
         "content": "Ottima e semplice, ci vorrebbe un collegamento con la sede della protezione civile nella provincia in cui si usa l'applicazione, ed essere geolocalizzati in continuo. Cos\u00ec nessuno pu\u00f2 fare il furbo, e solo chi ha l'autorizzazione prefettizia per lavorare viene escluso. Questa applicazione dovrebbe essere obbligatoria, ma tanto si sa, siamo italiani, e ognuno pensa per s\u00e9 e non agli altri.",
         "score": 5,
         "thumbsUpCount": 59,
@@ -4526,7 +4538,7 @@
     {
         "reviewId": "gp:AOqpTOGzojqkbk9ngIrBbs5mBLz3sTjp4nwnUMAEUsUWluHgULYDv3l7pdiclEFAaFYkd_Y5e6NHzAOA1c4nx8A",
         "userName": "DOMENICO VENTORINO",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiIfJqnraSGPFoF0Zn9g2m5NC-Yzj3TZKTDyq_f",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiIfJqnraSGPFoF0Zn9g2m5NC-Yzj3TZKTDyq_f",
         "content": "Non funziona eviterei di installarla..non mi fido!!!",
         "score": 1,
         "thumbsUpCount": 4,
@@ -4538,7 +4550,7 @@
     {
         "reviewId": "gp:AOqpTOEPIuDoQ6HCXXOC6lIVx_nNgI0v3vvP915QCUcbFMpfX2SJegkqsHYnn0OdecrBZBvfbJbrc53nI5-hn1M",
         "userName": "wiam wiam",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhNMaRJZsQYjGw04w_8ir3koRR9G_cP1SCFxEfrYw",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhNMaRJZsQYjGw04w_8ir3koRR9G_cP1SCFxEfrYw",
         "content": "Ok",
         "score": 5,
         "thumbsUpCount": 1,
@@ -4562,7 +4574,7 @@
     {
         "reviewId": "gp:AOqpTOHOY5rj_KtMNqzDvpXScnqlY-XUvbF0TOeWW8ykx6SpDTIlBTxkw_iZ1tmR3xDzjZaZQqN9x1YHKEpYuq4",
         "userName": "Andrea Romano",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjbVxZnEvaJami4LMrEWOMKijv1v56087KiC0lKUC8",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ggtlyiv-cicZ9iiiJjJ2-Fg8OsG9vWjjpTo4Pe9DjA",
         "content": "Ottima Interessante e Fatta Bene",
         "score": 5,
         "thumbsUpCount": 6,
@@ -4574,7 +4586,7 @@
     {
         "reviewId": "gp:AOqpTOGWJ1ljd5YInEf5QbVLtt-inp16CFehIDIbt8oo4dUmiNnRRtoVBKUf2XX6cYhKElaIPeaynLIpEMK_Y-k",
         "userName": "Claudia Mameli",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gi2I16DzNiqXM4j8vO77hQSnKPGhVjJobv3y7UlCA",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi2I16DzNiqXM4j8vO77hQSnKPGhVjJobv3y7UlCA",
         "content": "App davvero utile, dovremo averla tutti. 5 stelle :)",
         "score": 5,
         "thumbsUpCount": 6,
@@ -4586,7 +4598,7 @@
     {
         "reviewId": "gp:AOqpTOGTFnMxoLx_MOtLrJFR4hovLOWX-JfikWyrSgUARwDsJgEcdZROXfw3raNEEvp7skBU1TYm-eS6tFDeG4s",
         "userName": "Christian Bigi",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiGFprY-OgFNnPw60jPZYm0GhAlukxlVnefOgPC",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiGFprY-OgFNnPw60jPZYm0GhAlukxlVnefOgPC",
         "content": "Ottima applicazione funzionale.",
         "score": 5,
         "thumbsUpCount": 2,

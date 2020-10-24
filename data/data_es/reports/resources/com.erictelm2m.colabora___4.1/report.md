@@ -230,6 +230,10 @@ The COVID-19.eus app has been installed by more than **50000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="com.erictelm2m.colabora 1 reviews"/>
 </p>
 
+> De momento no se si esta istalada no tengo nada que lo diga ni me lo aclaran.<br> :date: __2020-10-22 14:54:04__
+
+> No deja añadir contactos, me dice que hay una solicitud pendiente pero no hay manera de solucionarlo<br> :date: __2020-10-21 08:06:14__
+
 > Me la acabo de desinstalar, porque yo creo que no funciona, no da noticias relevantes la última 19 de septiembre, donde está la información??? No sube los contactos, lo siento pero no me sirve<br> :date: __2020-10-17 15:51:24__
 
 > Poco intuitiva y dificil de usar Despues de hacer los circulos y dar mi estado de salud no he recibido ninguna notificacion. No se si siguen mis contactos dentro de los circulos..... tampoco tiene mucha difusión, me parece una herramienta muy util pero deberia ser mas facil de usar.<br> :date: __2020-10-03 14:38:34__
@@ -244,10 +248,6 @@ The COVID-19.eus app has been installed by more than **50000** times. At this ti
 
 > Es una broma de aplicación. Desde hace unos días aparecen notificaciones de mensajes de covid-19 eus que te llevan a la aplicación. Un día ponía "Reunión urgente", y luego "Hola", otro día "sdg", que llegó a las 12 de la noche, ahora acaba de llegar "Prueba"... Tenemos a un mono testeando la aplicación?<br> :date: __2020-09-17 08:56:40__
 
-> La información y los datos DESFASADISIMOS<br> :date: __2020-09-14 22:33:55__
-
 > Me parece que es manifiestamente mejorable; como las fincas extremeñas y andaluzas, vamos!!!<br> :date: __2020-08-24 16:44:40__
-
-> No me aporta absolutamente nada. No me indica nada de nada. Estoy aislado por tener contacto mi hermana y yo con dos familiares positivos, y me cataloga como infectado a pesar de que no he recibido aún el resultado del pcr, y mi hermana ha dado negativo. Desinstalo y a esperar otra app mejor, que realmente ayude a superar la pandemia.<br> :date: __2020-08-21 18:21:08__
 
 

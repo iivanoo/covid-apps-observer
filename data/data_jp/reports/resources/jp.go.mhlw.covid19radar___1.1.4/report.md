@@ -157,6 +157,8 @@ The COCOA - COVID-19 Contact App app has been installed by more than **5000000**
 <img src="5_star_reviews_wordcloud.png" alt="jp.go.mhlw.covid19radar 5 reviews"/>
 </p>
 
+> Good application 👍👍👍👍👍👍<br> :date: __2020-10-21 18:42:19__
+
 > Amazing.<br> :date: __2020-09-12 05:07:42__
 
 > Seems fine.<br> :date: __2020-09-09 09:47:47__
@@ -174,8 +176,6 @@ The COCOA - COVID-19 Contact App app has been installed by more than **5000000**
 > Perfect.<br> :date: __2020-06-22 04:35:40__
 
 > 個人情報への配慮がよくできています。電話番号など詳細に登録しなくても使えるので安心しました。<br> :date: __2020-06-21 02:43:31__
-
-> 海外在住で、英語設定の海外スマホと居住国が日本以外のGoogleアカウントを用いてインストールしましたが全てスムーズです。気になる点は(1) 英語版の登録名にある"MHLW official"は日本人の私にもハテナ? です (2) アプリ自体はよく英語化されているのですが、スプラッシュスクリーンとアプリ上部のバナーに日本語が残るのは気になります。特に旅行者にとっては読めない文字で書かれたものは何かしら不安を感じます。厳しい言い方をすればアマビエも日本人の間だけで通じる内輪ネタで英語版のスプラッシュスクリーンには相応しくないです。シンプルな英語のみのスプラッシュとバナーにして、アマビエについては別途アプリ内に紹介ページを設けた方がよいと思います。<br> :date: __2020-06-20 11:54:17__
 
 
 
@@ -231,6 +231,8 @@ The COCOA - COVID-19 Contact App app has been installed by more than **5000000**
 <img src="1_star_reviews_wordcloud.png" alt="jp.go.mhlw.covid19radar 1 reviews"/>
 </p>
 
+> Network error during installation after accepting the terms. Why make such a half baked app mandatory to install?<br> :date: __2020-10-22 17:54:47__
+
 > It does not perform exposure checks no matter what I do. 0 checks in 14 days. I have my Bluetooth on 24/7 and have ensured the app runs in the background.<br> :date: __2020-10-12 07:06:18__
 
 > This app never checks in the background. You need to open it yourself regularly to get notified (look in Google settings to see the history of checks, you can see that it's not checking). このアプリは自動チェックしませんせんです。ユーザーが開かないとつうしんを出さない。<br> :date: __2020-09-30 04:22:58__
@@ -248,7 +250,5 @@ The COCOA - COVID-19 Contact App app has been installed by more than **5000000**
 > 本アプリ登録後にエラー続出。アンインストール後もエラーが直らない。<br> :date: __2020-07-18 07:05:27__
 
 > Triple Useless. A person with Covid-19 has to be tested positive (it's almost impossible to get tested in Japan). Then they have to use the app, register their positive status, keep their phone with them and keep the app running at all times (impractical). Finally, "contact" only counts if you're within 1 meter of such a person for at least 15 minutes at one time (an absurdly narrow definition of risk).<br> :date: __2020-07-17 15:46:18__
-
-> LAME<br> :date: __2020-07-11 23:58:08__
 
 

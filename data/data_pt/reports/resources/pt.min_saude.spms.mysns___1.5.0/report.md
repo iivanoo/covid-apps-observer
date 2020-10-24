@@ -283,6 +283,8 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <img src="1_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 1 reviews"/>
 </p>
 
+> Não funciona. Remete para o portal. Logo não serve para nada.<br> :date: __2020-10-22 11:53:50__
+
 > Este nojo nem login deixa fazer. Vergonha de ser português<br> :date: __2020-10-10 20:55:33__
 
 > Muito complicado (ou impossível) encontrar o que se pretende. Isto mais parece um labirinto.<br> :date: __2020-10-03 23:34:36__
@@ -300,7 +302,5 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 > Nao consigo entrar<br> :date: __2020-09-26 16:30:24__
 
 > Não consigo por causa cokies ?<br> :date: __2020-09-18 15:07:47__
-
-> Como é que os menores acedem a app, e ja agora como se acede a chave movel digital de familia, tal como esta no site.<br> :date: __2020-09-03 22:49:57__
 
 

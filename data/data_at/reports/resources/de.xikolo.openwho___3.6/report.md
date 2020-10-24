@@ -220,8 +220,6 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 
 > Gibt es dies nicht in Deutscher Sprache ? Dann lösche ich dies gleich wieder.<br> :date: __2020-06-03 20:05:16__
 
-> Gates Trash<br> :date: __2020-05-31 14:34:34__
-
 > Was soll das kein Deutsch ???<br> :date: __2020-05-26 09:37:55__
 
 > nicht zu gebruchen du wirst total ausspionirt<br> :date: __2020-05-26 00:20:56__
@@ -231,5 +229,7 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 > in Deutsch bitte<br> :date: __2020-05-18 12:53:36__
 
 > Kein deutsch<br> :date: __2020-05-12 15:46:33__
+
+> Unbrauchbar bitte in Deutsch übersetzen ansonsten löschen 😡 und dann ist jeder zu hundertprozentig gut Englisch kann Schulenglisch ist anderes wie richtiges Englisch sollte das bitte auch auf deutsch sein weil in Deutschland sterben die Leute ja auch und nicht nur in der Türkei oder Iran oder wo auch immer bitte auf Deutsch danke<br> :date: __2020-04-16 23:12:00__
 
 

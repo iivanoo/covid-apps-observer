@@ -170,8 +170,6 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 <img src="4_star_reviews_wordcloud.png" alt="de.rki.coronadatenspende 4 reviews"/>
 </p>
 
-> Funktioniert zwar mit Verzögerung, aber sie zählt fleissig die gespendeten Tage. Wofür auch immer...<br> :date: __2020-10-10 07:31:30__
-
 > Es ist schon traurig das man es nicht schafft eine funktionierende App herauszubringenn Klappt recht gut<br> :date: __2020-10-06 22:39:20__
 
 > Hm - durch Handy Wechsel alles wieder NEU<br> :date: __2020-10-06 22:35:05__
@@ -190,6 +188,8 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 
 > Unterstützt weder Huawei noch Samsung. 2 riesen hersteller von smartwatches und Fitnessarmbänder.<br> :date: __2020-08-16 10:55:55__
 
+> Nicht für Samsung-wearables... Das hätte ich gern schon vor der Installation gewusst... Update 16.08.2020: Funktioniert jetzt auch für Samsung-wearables.<br> :date: __2020-08-16 09:32:39__
+
 
 
 #### 3-star reviews
@@ -197,6 +197,8 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="de.rki.coronadatenspende 3 reviews"/>
 </p>
+
+> Anmeldung und Verbinden mit charge 2 hat super schnell funktioniert. Hab die App gestern installiert und heute werden 16 Tage angezeigt. Scheinbar aus der Historie von fitbit. Aber kann ich irgendwie erkennen, was für Daten eingespielt werden?<br> :date: __2020-10-19 14:36:57__
 
 > Lässt sich leider nicht mit huawei app health koppeln<br> :date: __2020-10-09 17:35:23__
 
@@ -216,8 +218,6 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 
 > Da will man nun helfen und installiert die App um festzustellen, das das verwendete Fitnessarmband nicht unterstützt wird? Leute, erst so einen Aufriss machen und dann scheitert das RKI an sich selber, ohne Worte und dann sollen sich die Menschen hier zu Lande auf eure Aussagen verlassen? Nachtrag, es geht bei mir um eine Galaxy Fit und Samsung Health...Update: Samsung Health geht jetzt, mal schauen, ob es auch richtig funktioniert...<br> :date: __2020-08-26 08:04:46__
 
-> Weitere Fitnessarmbänder fehlen immer noch auch nach über 120 Spendentagen fehlen immer mal wieder Tage dazwischen. Weitergabe der Daten über mehrere Stationen scheint nicht immer zu funktionieren. Ich muss über Googlefit gehen. MeBand 4<br> :date: __2020-08-13 18:10:46__
-
 
 
 #### 2-star reviews
@@ -225,6 +225,8 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="de.rki.coronadatenspende 2 reviews"/>
 </p>
+
+> Stört leider meine SmartWatch mit WearOs. Ziffernblatt nicht mehr aufrufbar. Strange. Deinstalliert. Sorry, so nicht.<br> :date: __2020-10-21 14:19:03__
 
 > Hab die App fast seit dem Erscheinungstag auf meinem Handy. Am Anfang hat er mir die Übertragung - in Tagen - angezeigt, bei 122 Tagen blieb die App dann stehen. Ich kann nirgends etwas dazu einstellen oder sehen, ob Daten übertragen werden. Der einzigste Bezugspunkt war immer die Anzahl der angezeigten Tage... ich hab die App daher gelöscht...<br> :date: __2020-10-15 17:33:40__
 
@@ -244,8 +246,6 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 
 > Die App stelle ich mir ganz sinnvoll vor. Leider werden hier nicht alle fitnessbänder und Smartwatches unterstützt. Zum Beispiel kann man leider keine Samsung und Mi Fit Bänder und Smartwatches auswählen. Das macht die App für mich unbrauchbar.<br> :date: __2020-07-24 17:42:50__
 
-> Ich würde gerne helfen, aber Samsung Health wird nicht angeboten. Sobald das klappt, mache ich mit. Nachfrage: wann wird endlich Samsung Health implementiert?<br> :date: __2020-07-21 23:58:16__
-
 
 
 #### 1-star reviews
@@ -253,6 +253,12 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="de.rki.coronadatenspende 1 reviews"/>
 </p>
+
+> Vermutlich wurde die App nachgebessert. Funktion ist mittlerweile erkennbar. Nachtrag 20. Oktober 2020: Erneut keine Funktionalität.<br> :date: __2020-10-20 11:45:08__
+
+> Beilstein. Thorsten<br> :date: __2020-10-20 01:40:25__
+
+> VeryFitPro wird leider nicht unterstützt... kann somit nicht die App nutzen.<br> :date: __2020-10-19 17:29:41__
 
 > Kein huawei watch Unterstützung<br> :date: __2020-10-16 21:44:18__
 
@@ -267,11 +273,5 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 > Ich habe die APP gerade installiert und schon Anzahl ihrer gesendeten Tage 2 ich hsb die App mit Samsung Health Verbunden<br> :date: __2020-09-23 22:27:24__
 
 > Ich habe gedacht, dies sei eine App um Geldspenden einzusammeln mit, damit man die Programmierer der Corona-App schmerzfrei entsorgen kann. Aber ich fürchte hier sind hier und da die gleichen am Werke. Also weg mit dem Schrott. Google und Apple haben doch schon alles und bieten sogar eine Gegenleistung dafür. Hier versuchen Corona-Trittbrettfahrer auf ihre Kosten zu kommen und sich eine Daseinsberechtigung zu sichern. Wann wachen die Deutschen mal auf und jagen die Parasiten zum Teufel?<br> :date: __2020-09-22 23:55:06__
-
-> Bitte endlich die Mi-Bänder (Xiaomi) einbinden.<br> :date: __2020-09-21 16:33:22__
-
-> Gute Idee, aber ich habe festgestellt das seit Tagen nicht mehr gezählt wird. Bitte beheben, damit es wieder funktioniert.<br> :date: __2020-09-20 18:56:38__
-
-> Problem ist eine smartwatch von huawei mit der App zu verbinden bin enttäuscht. Kann leider die puls Daten somit nicht zur Verfügung stellen.<br> :date: __2020-09-18 01:18:25__
 
 

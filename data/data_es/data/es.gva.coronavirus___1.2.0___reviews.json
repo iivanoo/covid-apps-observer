@@ -1,8 +1,20 @@
 [
     {
+        "reviewId": "gp:AOqpTOH6yRBg05rMlLFZPMfUXNJAa90Su2fdrxBBdHVrHVEf9WBPfVbp0hBgT3XzpKzi0fnlFwrZ_GzBSkVw8dU",
+        "userName": "Jessica Mart\u00ednez",
+        "userImage": "https://play-lh.googleusercontent.com/-F_fu6y6h8Ik/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucku0m72yv-gLqJjQNMiPT6mEpyb1g/photo.jpg",
+        "content": "Buena aplcasion",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.2.0",
+        "at": "2020-10-22 20:36:42",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOGJLIvVv6jw8yYem8vXCV1VXaN_g5V7zQSQhauQLDBbCl2vJ7aIt5aBfeluWqPc2_sXFfeRADP0wJBVjcU",
         "userName": "Arlette Canales",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhMN8O4dE72MBgDXb9CfBRKulNwuW9SnGO57SvKAw",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhMN8O4dE72MBgDXb9CfBRKulNwuW9SnGO57SvKAw",
         "content": "Me parece una aplicaci\u00f3n muy \u00fatil. Es f\u00e1cil de usar, informativa y lo m\u00e1s importante: te atienden r\u00e1pido.",
         "score": 5,
         "thumbsUpCount": 1,
@@ -14,7 +26,7 @@
     {
         "reviewId": "gp:AOqpTOFL56opbl3zOfpjSgpzyvxXdQ1QNRA6Yek2fgn-S32qWR4LdhpQnWT8wz9VLoVCSntaQZXJksMhQTkyWF8",
         "userName": "Carlos Brauns",
-        "userImage": "https://lh3.googleusercontent.com/-uRhb572lQHE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl3Oi2U1aUo_gQ2b6s2Ycood9MmYw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-uRhb572lQHE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl3Oi2U1aUo_gQ2b6s2Ycood9MmYw/photo.jpg",
         "content": "Me dice q los datos son erroneos y no me permite abrirla",
         "score": 1,
         "thumbsUpCount": 1,
@@ -26,7 +38,7 @@
     {
         "reviewId": "gp:AOqpTOHMeUwI48nqlu_QkzAZybfdZ8XKPe4BF-PTSh_aqYs5RU_TxDH9cntx2vzqMtpSzW4nNMknacgkd6rMsLk",
         "userName": "Mar\u00eda Amparo P\u00e9rez Pardo",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjCYkSaKD-0DMYJtqCLHzFnU0oPAhr2oBzpo6ZEuw",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjCYkSaKD-0DMYJtqCLHzFnU0oPAhr2oBzpo6ZEuw",
         "content": "No tengo ni idea de por qu\u00e9 no funciona la nacional Y adem\u00e1s porqu\u00e9 , no informan de esta nueva aplicaci\u00f3n y para que sirve Verg\u00fcenza siento de sus protocolos",
         "score": 1,
         "thumbsUpCount": 0,
@@ -38,7 +50,7 @@
     {
         "reviewId": "gp:AOqpTOHZGzGKbC6K00C202Lzan-Ew_19M63k5zDCWENjUCpXifdG2jKXSKD-H2L-FjvWGPY08TIK51VbrJNpmh4",
         "userName": "Ana Stuzbercher",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhhiQizwuQot5iCE3qpo4-LUJfD3EWXfX2_NRX2uQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhhiQizwuQot5iCE3qpo4-LUJfD3EWXfX2_NRX2uQ",
         "content": "No se resien la aplico",
         "score": 5,
         "thumbsUpCount": 0,
@@ -50,7 +62,7 @@
     {
         "reviewId": "gp:AOqpTOF93w7Kw7b0e9cZVF_vPpspke60Ds9XFdk3vaxvqieKA6bbU02x4zA8CMht2IOJstac4GpH5cGSd8fbDc0",
         "userName": "Juliana Garcia Benito",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgM_zDuqLbo2vkBOUgdk1--1rvflTCBUS9A8b3IAQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgM_zDuqLbo2vkBOUgdk1--1rvflTCBUS9A8b3IAQ",
         "content": "Todav\u00eda no prob\u00e9 est\u00e1 actividad pero me parece lo mejor de todo",
         "score": 5,
         "thumbsUpCount": 0,
@@ -86,7 +98,7 @@
     {
         "reviewId": "gp:AOqpTOGpkxshfGcAO847h8_sSmO30YTUwDfHxfSg1OJEIznuaAmkF3BysX0nD2yc-cs0HXAUn-bNMsJGnN6ypdM",
         "userName": "Joaqu\u00edn G",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgZOZqzTdAbkJd6O5PB9i0di1aNHXIOFtvmi8eL8g",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgZOZqzTdAbkJd6O5PB9i0di1aNHXIOFtvmi8eL8g",
         "content": "Imprescindible SIP. :/",
         "score": 1,
         "thumbsUpCount": 0,
@@ -98,7 +110,7 @@
     {
         "reviewId": "gp:AOqpTOFcKKgYCtQRz2K_xjnot9Ki9DIjtydIti0PXqNypaBLMWh3lA8Tk5A_5f_7wKfABmBZbIPQITGyauK8zLA",
         "userName": "Alejandro Valverde",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgYZTajgIYugNclTYD7YbFaSf4qpQoBr1jxt0oNnw",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgYZTajgIYugNclTYD7YbFaSf4qpQoBr1jxt0oNnw",
         "content": "Esta aplicaci\u00f3n ni tiene sentido si lo tienes SIP. Es la misma historia de siempre en el sentido de que es una guerra entre comunidades. No tiene ning\u00fan sentido est\u00e1 app. Espero que instalen la de Radar Covid que es a nivel nacional y dejen de hacer el canelo",
         "score": 1,
         "thumbsUpCount": 11,
@@ -110,7 +122,7 @@
     {
         "reviewId": "gp:AOqpTOGiFclmmrJa7w_uffncEvIGX7bOdPNQRd3Fq8cJTxTY1saD1jUmOdpZBPXAXS7LxyjBwfH_qgZ7L-jVp0Q",
         "userName": "Nacho Castellano",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgwYheEUExnZ62w19bfRGnLqgI9Fb2EvaFvFF17",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgwYheEUExnZ62w19bfRGnLqgI9Fb2EvaFvFF17",
         "content": "No sirve para nada",
         "score": 1,
         "thumbsUpCount": 1,
@@ -122,7 +134,7 @@
     {
         "reviewId": "gp:AOqpTOFGCBRZi60BHc3EaDfBV4Y0b_hgzsFpX5XLOQPx0PY7uqGs6SXsD72hF9ui4qqpufGGxISTSgxqlEtf60I",
         "userName": "Alfredo Blasco",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiwvneGf3RxtQWW5V-vkRN64_fMOcyJW45hEUWZbDE",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgfmwTc_IUUdS0zjBL19OzqXGiroIydZwtPVz23lN8",
         "content": "Radar Covid ya y dejaros de chapuzas ineptos",
         "score": 1,
         "thumbsUpCount": 20,
@@ -134,7 +146,7 @@
     {
         "reviewId": "gp:AOqpTOHYFSQKZVhQBVHl0tLA2LMBwcl9UFQ6_IkxmadQpoGQgDN-o7XW5nPAd7aBZITIST7E_sjbNKcE5_y72-I",
         "userName": "Inma Ami",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgCzeZjJ570W9tmOexS_MV509Q6gGZZvJAHRmNRkg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgCzeZjJ570W9tmOexS_MV509Q6gGZZvJAHRmNRkg",
         "content": "Lo que no me gusta es que no est\u00e1 agregada a nivel nacional para el Covid 19 ni salud en general. Aun no la he usado as\u00ed que no se si cumple con los minimos objetivos. Las estrellas es para pider poner la rese\u00f1a.",
         "score": 3,
         "thumbsUpCount": 12,
@@ -146,7 +158,7 @@
     {
         "reviewId": "gp:AOqpTOHOMZEEYC7rWQEyV1ab7sQvnB337gQ4b0hUTeWjzPDPKFCofXOtkT9GQ95Sny5epFD2VloTUBHFpJwURxA",
         "userName": "Yerain Barbero",
-        "userImage": "https://lh3.googleusercontent.com/-f8jeZq9j4Hk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn9whlRh2tFulPEVzaaCMvPIjtJsQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-f8jeZq9j4Hk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn9whlRh2tFulPEVzaaCMvPIjtJsQ/photo.jpg",
         "content": "Me parece fatal que quiera ver el mapa de contagio si voy a valencia y que no pueda verlo por no estar empadronado o no tener el SIP es algo inutil.. vaya aplicacion ..",
         "score": 1,
         "thumbsUpCount": 0,
@@ -158,7 +170,7 @@
     {
         "reviewId": "gp:AOqpTOEwXXa645zF_FNH7hir8qjOd0gk6vK7Is235kxVMGiSikgCLE-TYQ_rtXSQEpClvttST7q7NG5oJT-lcMQ",
         "userName": "Daniel Portillo",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgPCjhmwXFgKx4BWeJX8_JduRJWuQuil1amohjWvg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgPCjhmwXFgKx4BWeJX8_JduRJWuQuil1amohjWvg",
         "content": "En principio todo ok, no obstante me sale una duda, doy de alta mi SIP, pero es posible a\u00f1adir la SIP de mi hija que es menor de edad? Gracias.",
         "score": 4,
         "thumbsUpCount": 0,
@@ -170,7 +182,7 @@
     {
         "reviewId": "gp:AOqpTOFUY9CQDxbNctZC6motVfnZrICuiXaobxz0heb64a62QefDKgYDjWg_a0NYS2M-WB3ftKfiU7ViVViB61s",
         "userName": "EYDI VELASCO TRUJILLO",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjNKA3fukcaQGeFznsNevNnbgTWgC551Q_M0nX7A8I",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjNKA3fukcaQGeFznsNevNnbgTWgC551Q_M0nX7A8I",
         "content": "Mala",
         "score": 1,
         "thumbsUpCount": 1,
@@ -182,7 +194,7 @@
     {
         "reviewId": "gp:AOqpTOEnIQ5WXziVQB4aQuf3buDyS6NOylpH31JdEDJpKtGMAQ0TmEmTOfQG0AmUFPfHMsYlbowvFHZWzpUOCBg",
         "userName": "Tame ghajouan",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gg7htbuHBCJsgVEzRQ8iSucPFNac9RCzDQ8AjmG",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg7htbuHBCJsgVEzRQ8iSucPFNac9RCzDQ8AjmG",
         "content": "Bien",
         "score": 1,
         "thumbsUpCount": 1,
@@ -194,7 +206,7 @@
     {
         "reviewId": "gp:AOqpTOGrWMuIpih7INuG8L_SQvObtiy_flTZcitYLHwsk8VVH3ProgdHtdZcuMqw-4eOb5jooarKPH2qq_gHiWg",
         "userName": "Juanjose Pedraja",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gi_0jqw-uTq2KSQnGMk9ZXLqYfDGbOaj2GHZZzk3Q",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi_0jqw-uTq2KSQnGMk9ZXLqYfDGbOaj2GHZZzk3Q",
         "content": "Penosa app, se rien en tu cara y ciertos comentarios los retiran...",
         "score": 1,
         "thumbsUpCount": 1,
@@ -206,7 +218,7 @@
     {
         "reviewId": "gp:AOqpTOFfc1858QaCaI5veax5lIIfmLxXLnUo-TE7KP4P2LLZg5JR5AmBWfm_A7ULbxPvLgS77oBOuxETvJojep4",
         "userName": "feli-joze Espa\u00f1ol",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Ghs9QTpBRvxnmwFNV8vt86V3eQIvSshsvNn_8YisA",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ghs9QTpBRvxnmwFNV8vt86V3eQIvSshsvNn_8YisA",
         "content": "Ninguna finalidad,para pedir cita previa y nada m\u00e1s.",
         "score": 1,
         "thumbsUpCount": 5,
@@ -242,7 +254,7 @@
     {
         "reviewId": "gp:AOqpTOGvCPCTXKLINLuwG7Y-B_QaAp5UDHLneWbJUn2PuSdYU4l_D0QDPuzNOyjY-bbkvMZELY3EFMZm5Q3hPV8",
         "userName": "Grafica Ctr",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiPOGQvjy1Ur27BRqUahVsv-mj92dRg9NwlTqtBRA",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiPOGQvjy1Ur27BRqUahVsv-mj92dRg9NwlTqtBRA",
         "content": "Esta guauuu",
         "score": 5,
         "thumbsUpCount": 0,
@@ -254,7 +266,7 @@
     {
         "reviewId": "gp:AOqpTOGsZ8NNdnRA8k_9qUoa3fqt8P0Mi1kFeLozkHhTaT41VzxnISF3_DDzLCjwXtDfxDkupBderQ2ufD_Hpsg",
         "userName": "Vicente Abel Ramirez Tarazona",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Ggre-3q0kyPPM7Fd1fOBQEt4qQ6-iU-Fvqkzry3ZQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ggre-3q0kyPPM7Fd1fOBQEt4qQ6-iU-Fvqkzry3ZQ",
         "content": "Buenas noches. \u00bfHay alguna posibilidad de acceder de una manera comoda a los datos de incidencia por municipios? Gracias.",
         "score": 4,
         "thumbsUpCount": 0,
@@ -302,7 +314,7 @@
     {
         "reviewId": "gp:AOqpTOEmd9nVMPOc4frG5K-5XlROeVX_8i78CaYouql4w2g8oR-PsAQVNz0droE-BcGs3hHo4WTzRif8ASpZYJc",
         "userName": "yo Manuel",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhT0PmOiYg0qFOoKY6aZKj7-LW9fvrFdurSoEsp4w",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhT0PmOiYg0qFOoKY6aZKj7-LW9fvrFdurSoEsp4w",
         "content": "Me parece incre\u00edble la discriminaci\u00f3n. De la Generalidad Valenciana que si no eres de seguridad social no puedes usar esta aplicaci\u00f3n funcionarios, polic\u00edas y militares guardias civiles todos estos que que por decisi\u00f3n. Del estado y no propia tienen tarjetas de MUFACE MUGEJO IFAS todos estos tambi\u00e9n somos ciudadanos de la Comunidad Valencia y a esto a\u00f1adir I migrantes y dem\u00e1s desfavorecidos, viviendo en valencia me est\u00e1 dando servicio la aplicaci\u00f3n Catalana UNA VERGUENZA",
         "score": 1,
         "thumbsUpCount": 2,
@@ -314,7 +326,7 @@
     {
         "reviewId": "gp:AOqpTOGj3tnVK1o6jnRT1Yfeva69oDp5mf26zEMvtOED4LsbKvQSUq-q1BiDxIi3i_ihlXpLltP76ZvjkL7Pfs4",
         "userName": "Cabrapalmonte Abrazalacabra",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gj6B7b4O5Lxti91sGGiThjUdbOdFBnfz4-nJTvH",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj6B7b4O5Lxti91sGGiThjUdbOdFBnfz4-nJTvH",
         "content": "Solo sirve para rastrear",
         "score": 1,
         "thumbsUpCount": 3,
@@ -326,7 +338,7 @@
     {
         "reviewId": "gp:AOqpTOEdUjDcpJRcaKSTYwL_NPP-s3UDu-Ir6vAp2WmuUor6_ZsZu61a-RjisJp2zCBsuxFWEPOA6XrkleEzuvg",
         "userName": "Patricio Grisolia Romano",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjWipQNNTpOpqVrstv_drzQo_b8ZlKvR9N1by4OYlY",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjWipQNNTpOpqVrstv_drzQo_b8ZlKvR9N1by4OYlY",
         "content": "Es que est\u00e1 aplicaci\u00f3n no tiene sentido... Con la propia anterior era suficiente, obligan a todos a instalar una nueva. Perdida de dinero y tiempo",
         "score": 1,
         "thumbsUpCount": 9,
@@ -338,7 +350,7 @@
     {
         "reviewId": "gp:AOqpTOHjXdlEFs51QkWAlcw29Du11S077-G-PwthGd90wan7D-htR-iqHSOUbPRGPsrG3V-um_ifmqHMwBOvnEo",
         "userName": "Javier",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gh95_22kZTmLS4E1tJbqIbUdgfuK97gTKFvxuI",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh95_22kZTmLS4E1tJbqIbUdgfuK97gTKFvxuI",
         "content": "Parece que sea una atenci\u00f3n espec\u00edfica de coronavirus y es tu m\u00e9dico de cabecera. Una perdida de tiempo. Si necesitas algo urgente llama al n\u00famero asignado al coronavirus.",
         "score": 1,
         "thumbsUpCount": 3,
@@ -350,7 +362,7 @@
     {
         "reviewId": "gp:AOqpTOHrlyLO9KJTapd-eCd2PVmHE9e13h56B7XjTqFM04LM1uRj08qKrd196qh0Y-4X-wMhxP4R_-19Fsz3TiI",
         "userName": "Doc Esparcia",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiELorfIK9umKgXJnDa5TXElRIhJ80-Aw7xauiD",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiELorfIK9umKgXJnDa5TXElRIhJ80-Aw7xauiD",
         "content": "Para informaci\u00f3n sobre el Virus funciona bien. Para pedir cita en caso de no ser para el virus, no hace falta llamar por tel\u00e9fono como dice una opini\u00f3n de m\u00e1s abajo, se puede pedir cita directamente desde la app GVA Salut, est\u00e1 explicado en la app y la he utilizado bastantes veces. Se puede elegir hora entre varias disponibles",
         "score": 5,
         "thumbsUpCount": 26,
@@ -374,7 +386,7 @@
     {
         "reviewId": "gp:AOqpTOF8QA6Rh6cfS0TbnBIHRooLCkQzWoxbanIxRKzvLsHzZm3T7wj3wi2zjafbDWR21ygsqslzMXGPEQRt02E",
         "userName": "Mariano Primo",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhUR53Sjg-y6lKq1Ut8W_-ixl9LgpOoMwbe4oeN",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhUR53Sjg-y6lKq1Ut8W_-ixl9LgpOoMwbe4oeN",
         "content": "Basura. Solo accedes con SIP, no sirve para consultar informaci\u00f3n general y seguir los cambios. Desinstalando",
         "score": 1,
         "thumbsUpCount": 6,
@@ -386,7 +398,7 @@
     {
         "reviewId": "gp:AOqpTOHJbFeeX9h7jEP7vLu4bjvM1fMv5uV0MuaAl4GJjFsQSBlFrDFMlUI3IIi1v7fi47stc3HT7o-QREDZKnE",
         "userName": "Juan D\u00edaz Mu\u00f1oz",
-        "userImage": "https://lh3.googleusercontent.com/-3h_AThrS6T0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmwBl6SizTdzognJP33WHp3iEW6Pg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-3h_AThrS6T0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmwBl6SizTdzognJP33WHp3iEW6Pg/photo.jpg",
         "content": "Necesito informaci\u00f3n r\u00e1pida en una App, y no que me vaya pidiendo datos que no tengo a mano",
         "score": 1,
         "thumbsUpCount": 3,
@@ -398,7 +410,7 @@
     {
         "reviewId": "gp:AOqpTOEgjYEU8MEvOqXwB3kWcGbEAxxaEGqqiPKZLTRu9dd8Z9P4ZfQvTP8IKxMCQC_CWDEv6ceKvMSVCJ9dU9c",
         "userName": "Juan Jose",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhljsS1i-mcKfiDGOzesAzKOkaa9Yz6OVZ0cr7cbQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhljsS1i-mcKfiDGOzesAzKOkaa9Yz6OVZ0cr7cbQ",
         "content": "In\u00fatil.. Coger cita y nada m\u00e1s. Un ataque m\u00e1s a la privacidad,",
         "score": 1,
         "thumbsUpCount": 3,
@@ -410,7 +422,7 @@
     {
         "reviewId": "gp:AOqpTOHHbSouvEGWXMkhVvI0clZNS6UhXROXmOn_1PyNmrs97HgbGNg09R6_8k8M_IktztSP4EdNyWqaaBYScqY",
         "userName": "Rosi xeni",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Ggf6zmjvJhcMqbVWwnyK4uHEUSZMm1xlCi5Smt1sls",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ggf6zmjvJhcMqbVWwnyK4uHEUSZMm1xlCi5Smt1sls",
         "content": "Como el sip la tarjeta sanitaria,no tiene mas misterio..yo creia era otra cosa.",
         "score": 1,
         "thumbsUpCount": 8,
@@ -422,7 +434,7 @@
     {
         "reviewId": "gp:AOqpTOFPE1A2-ddxXV9sf0ENHsSEEiHyf4INhNk4YvJJ5uWC6D02FIz3MSrGrDYNYAP3qkLMyoX8IE4rTw_QXy8",
         "userName": "Manu Buen",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gj0meqKUjra9paB371-R71vw8gSQwGkEcBPT4UYEQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj0meqKUjra9paB371-R71vw8gSQwGkEcBPT4UYEQ",
         "content": "Eficaz",
         "score": 5,
         "thumbsUpCount": 3,
@@ -434,7 +446,7 @@
     {
         "reviewId": "gp:AOqpTOEeBCWtJr2uibktZjmzQzKbOwDuxO0YUtStXZQGVUbaDK7BRkUXGTYWi1pBKLWyqxPTIWPzRhceJuj2lNw",
         "userName": "Isolina Espinosa",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GimQqHucj4Y-6-aUaW9b51efS_ASNPC_DAgiKJcFg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GimQqHucj4Y-6-aUaW9b51efS_ASNPC_DAgiKJcFg",
         "content": "La mejor App que he probado hasta ahora sobre el coronavirus. Muy intuitiva y con informaci\u00f3n muy pr\u00e1ctica.",
         "score": 5,
         "thumbsUpCount": 14,

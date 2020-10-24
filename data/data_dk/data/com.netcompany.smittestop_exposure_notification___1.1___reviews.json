@@ -1,13 +1,61 @@
 [
     {
+        "reviewId": "gp:AOqpTOFnEh4XECainkuWkn8CV3461uVQNmCwkkCa6p-QyeG-sabUZ-DE5-sDbnhXeLMZKwMKsymWbhTreVwltg",
+        "userName": "Manolis Vasilomanolakis",
+        "userImage": "https://play-lh.googleusercontent.com/-M9-3VD5zkf0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclPbk5FToR2p87CiIo5bjLVnsZ7sg/photo.jpg",
+        "content": "Closed source and no English translation...",
+        "score": 1,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "1.1",
+        "at": "2020-10-20 23:15:59",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOF8n_aCcxnJqZWtVFWykYOTp34t-lcL2rz83hgkZWwasLRc7pBzj9NDxKTF1a_iCnjmYtoew8t8F0yaog",
+        "userName": "Jakob Pless",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GghtdUJAZPWYYnoWam9msz10YlYbIRHbgE_YUkTW2o",
+        "content": "Netcompany er et svindelfirma",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.1",
+        "at": "2020-10-19 20:54:57",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOF06SJ0NcfA2Fjhwo2NkvbKZF_F6ZSGWWNGu_QQJhI6PQ5LABs_ZRMMYrJykvqyjFcRye1bRiwIHb0u8Q",
+        "userName": "Gavrilescu Adrian",
+        "userImage": "https://play-lh.googleusercontent.com/-gmuB57MviiI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckFxfjojmrHcFcDO6TEDcAfhuaUtA/photo.jpg",
+        "content": "Painfully buggy and lacks english language support.",
+        "score": 1,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "1.1",
+        "at": "2020-10-19 18:01:30",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOH1KSK8zf1f9PvkIcPSiJyEPBUxjBcmBSZqtr5mmBBektAF3KEFuFyty4uXVxrhGxBt0DmAPMVbeKDjKg",
+        "userName": "Karina Wulff Harrestrup",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgtG1VpfCY5jaqHQ1jGavgfbxvCGWFdMX-Tf3Jx0Bw",
+        "content": "Registrerer ikke mange kontakter... Og virker ret ligegyldig - men har den da t\u00e6ndt 24 timer i d\u00f8gnet",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.1",
+        "at": "2020-10-19 08:55:27",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOFem1MUtpKNzY8hma5lr8QewrYrE0MfPr8rAKUHINS4EoZ4aynYKYZg3deAtAGQp4nv2VB5Y7AFUOkI7g",
         "userName": "S\u00f8ren Laursen",
-        "userImage": "https://lh3.googleusercontent.com/-5DMc43UiC7I/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm_bkgC_T1tLECtvGX8POmD7YKeJQ/photo.jpg",
-        "content": "Intentionen er prisv\u00e6rdig men udf\u00f8relsen halter: Det lader til at baggrundschecket uprovokeret kan g\u00e5 i st\u00e5. Fylder 3 gange s\u00e5 meget som andre landes tilsvarende apps. Dvs. apps der ogs\u00e5 benytter Apple/Googles notifikations-system. Ej open-source.",
+        "userImage": "https://play-lh.googleusercontent.com/-5DMc43UiC7I/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm_bkgC_T1tLECtvGX8POmD7YKeJQ/photo.jpg",
+        "content": "Intentionen er prisv\u00e6rdig men udf\u00f8relsen halter: I default-konfigurationen, hvor batteri-optimering er aktiv, kan baggrundschecket uprovokeret g\u00e5 i st\u00e5 uden at brugeren advares. Fylder 3 gange s\u00e5 meget som andre landes tilsvarende apps. Dvs. apps der ogs\u00e5 benytter Apple/Googles notifikations-system. Ej open-source.",
         "score": 3,
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.1",
-        "at": "2020-10-17 19:11:41",
+        "at": "2020-10-18 22:00:15",
         "replyContent": null,
         "repliedAt": null
     },
@@ -26,7 +74,7 @@
     {
         "reviewId": "gp:AOqpTOG94rR3_oy9xb-LssN30-Uw-9vMtItLlOmJCEvMKCPsmBArBNvRTZ0V6ZjL1lKx0acDKzuGc2mPSdeNgg",
         "userName": "Malte Christensen",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gjnk0Agnx3ggagBGvwdE2MZjT73ihBsfbcIRo8UmlU",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gjnk0Agnx3ggagBGvwdE2MZjT73ihBsfbcIRo8UmlU",
         "content": "Hvorfor h\u00f8rer jeg konstant, at app'en er opdateret, medens sidste version er fra 14. august?",
         "score": 1,
         "thumbsUpCount": 8,
@@ -62,7 +110,7 @@
     {
         "reviewId": "gp:AOqpTOFbrvYxNbetjWX0vOOliO_DkqXQdO9QNNfOZsA87tQactwBUlz9oheQ_ugs0bYIzEozcHpguZxI7tv-Fw",
         "userName": "Nadeemsaeed Saeed",
-        "userImage": "https://lh3.googleusercontent.com/-6nbZJFxpOdY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl3irB9MNr-ORMSpULbyEPfPVpOeA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-6nbZJFxpOdY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl3irB9MNr-ORMSpULbyEPfPVpOeA/photo.jpg",
         "content": "Jdjjnrto the amount of art and design of acmqztttttt ttttaztfz tftttt tasty and healthy new treats these a/**2//24s*2///an Za ttttaztfz and when tazaaratt atq*-",
         "score": 1,
         "thumbsUpCount": 0,
@@ -74,7 +122,7 @@
     {
         "reviewId": "gp:AOqpTOFR3Rlc0Jm8SNGVOyAb9pXRP4bgmUKa0jLD6ml4XUKEZY9gqm9bfy8nTxvs1MPhauiqaVfsUUAHqMEouQ",
         "userName": "Nikhil Gupta",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gj3botCoqhpKiy2rqPOm-MWy448dfHhZWnoWV9a4Q",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj3botCoqhpKiy2rqPOm-MWy448dfHhZWnoWV9a4Q",
         "content": "Can i change the language to english?",
         "score": 3,
         "thumbsUpCount": 1,
@@ -86,7 +134,7 @@
     {
         "reviewId": "gp:AOqpTOFn3X8ARtzX_Ps3LYELABulnirzK1JdFnqzAe-KA536TRSd_f4XW71iSxkrvbon6LprpPWXJh6mHJuhEA",
         "userName": "Jacob Pedersen",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GinOiNCn0f73VDwuXHM5JXy4xYlQr-CdPJ0fPkX",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GinOiNCn0f73VDwuXHM5JXy4xYlQr-CdPJ0fPkX",
         "content": "Den virker vist ikke s\u00e5 godt \ud83d\ude0a Hvorn\u00e5r kommer der en update?",
         "score": 1,
         "thumbsUpCount": 1,
@@ -101,7 +149,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-K0SvMee2tes/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnrpbCd-4FH3_XoZIMaCr7f_qhWoA/photo.jpg",
         "content": "On my phone, background exposure checks are not regularly performed. Last one was 5 days ago (!), in the past 14 days only 8 checks were made. I suspect this is an API issue rather than an app issue, but it seriously decreases effectiveness of the app. I wonder if it might be possible to add a manual \"check now\" button.",
         "score": 3,
-        "thumbsUpCount": 4,
+        "thumbsUpCount": 8,
         "reviewCreatedVersion": "1.1",
         "at": "2020-09-30 19:53:17",
         "replyContent": null,
@@ -110,7 +158,7 @@
     {
         "reviewId": "gp:AOqpTOHujQUcYgB4-n23MlrKqWnsXX8NTRkI2A5nKocVA8WPI2RnbDYtygIDZzYh1g1_BfRQMvRZC4yZPnW2LQ",
         "userName": "Zeth Odderskov",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gie5tkOHjQdUoDtWw1p1H9G5XVArX2Eyr9ZatIokw",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gie5tkOHjQdUoDtWw1p1H9G5XVArX2Eyr9ZatIokw",
         "content": "Det ville fandme v\u00e6re smart, hvis alle havde den app her!",
         "score": 5,
         "thumbsUpCount": 0,
@@ -122,7 +170,7 @@
     {
         "reviewId": "gp:AOqpTOEuO6qiEoWAhcEL8QpRHTMSN6jZ0MHGrw0A_exeUwOAEoIfRKyPPZZV9EPWXcTLJwwBWCvaq1Q3Op-7lw",
         "userName": "Jonas Grau Thomsen",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhLt61oVsAMuKiV6BDhFYd-zVRhwGA4jmLqozlYXQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhLt61oVsAMuKiV6BDhFYd-zVRhwGA4jmLqozlYXQ",
         "content": "Ideen med app'en er rigtig god, men den bruger bare alt for meget str\u00f8m.",
         "score": 2,
         "thumbsUpCount": 1,
@@ -146,7 +194,7 @@
     {
         "reviewId": "gp:AOqpTOFGUc5h2F7Bx0gTFD7bOlcRdtozrBo6VxDFrkPr17feJdlqfq7uUSbmMJJeXD8k3tjlrdaBBuHr1A_iFQ",
         "userName": "Jan Hassan Jacobsen",
-        "userImage": "https://lh3.googleusercontent.com/-ZdXIckiBAUQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmphH13rqMsEPR4MguVIU-6b50iPA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-ZdXIckiBAUQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmphH13rqMsEPR4MguVIU-6b50iPA/photo.jpg",
         "content": "The app should be able to tell me the number of close contacts per week at e.g. +15 min as a info about my interactions",
         "score": 2,
         "thumbsUpCount": 1,
@@ -161,7 +209,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-GBB87QM2LmA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmOr-jEraZqNuJsYwEtlCqKd0EwJg/photo.jpg",
         "content": "Eagerly awaiting a bugfix for the bug that's in the news. And please allow detecting contacts across a phone \"backup, wipe, restore\" sequence, as the backup app reported that you don't. Desired bonus featue: Basic stats display like \"Active for XX hours with XX different IDs, XXX anonymous contact IDs recorded, 0 contact IDs were infectious, you are NOT registered as infected, latest list of infectIous IDs downloaded yesterday at HH:MM\".",
         "score": 4,
-        "thumbsUpCount": 10,
+        "thumbsUpCount": 13,
         "reviewCreatedVersion": "1.1",
         "at": "2020-09-26 13:20:28",
         "replyContent": null,
@@ -173,7 +221,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-yXwEJyu_Sa4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucleCi58dQ9GYVU01ud68YzcnvQIoA/photo.jpg",
         "content": "Fejl: Smittestop-app deaktiveres p\u00e5 visse android-enheder(!): P\u00e5 nogle Android-telefoner (herunder OnePlus), bliver smittestop-app'en automatisk sendt i en \"energibesparende\" tilstand, hvis den ikke er blevet \u00e5bnet et stykke tid. Da de f\u00e6rreste \u00e5bner app'en efter installationen, deaktiveres den alts\u00e5 automatisk uden, at brugeren er opm\u00e6rksom p\u00e5 det. Jeg har selv haft problemet, som jeg l\u00f8ste ved at tage app'en ud af energispar-funktionen - men det kr\u00e6ver teknisk indsigt - samt en indsats for at identificere hvad problemet er. Jeg forestiller mig, mange brugere har en inaktiv installation ude at vide det. Hvis denne situation opst\u00e5r hos en bruger, b\u00f8r App'en b\u00f8r g\u00f8re opm\u00e6rksom p\u00e5 det - og hj\u00e6lpe brugeren med at l\u00f8se situationen.",
         "score": 2,
-        "thumbsUpCount": 1,
+        "thumbsUpCount": 2,
         "reviewCreatedVersion": "1.1",
         "at": "2020-09-26 13:03:20",
         "replyContent": null,
@@ -194,7 +242,7 @@
     {
         "reviewId": "gp:AOqpTOENeGIhD9BzjDf67zpcbP01bFGD2SUhQ_K2T_1C6RFDkbVpCCR_ULXB7uSbEo6k4TcaDUG3p_bJfOi3Vg",
         "userName": "Seb",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gh3E_j-egH9UOMPqViXs8xcgGm89zmYM4snQSzRvQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh3E_j-egH9UOMPqViXs8xcgGm89zmYM4snQSzRvQ",
         "content": "Virker som det skal men en s\u00e5 vigtig app som denne burde v\u00e6re open-source",
         "score": 3,
         "thumbsUpCount": 0,
@@ -206,7 +254,7 @@
     {
         "reviewId": "gp:AOqpTOEmdUiHm50n7GcAXstnMwR0MuogVUKkq4kpFKfMONGsRsrvQsUxOEAorkhFShQRIXPzEuZJdJNebHIHNw",
         "userName": "Velisar Manea",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgmjnfCArsPK6CzGKWHLMgOZEpbUAfpq4K_9PxbKA",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgmjnfCArsPK6CzGKWHLMgOZEpbUAfpq4K_9PxbKA",
         "content": "You can't even select the text to copy it into translate",
         "score": 2,
         "thumbsUpCount": 2,
@@ -230,7 +278,7 @@
     {
         "reviewId": "gp:AOqpTOGdmH3R1o1J7wFgCh5-FUOe2BdXuwZI9gAh1lzuYn4KdhFMkvSXIRMTDj7ehU3Dncg-NjVs3KyqFVspVg",
         "userName": "Nazza M. K. W",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gi9Rp-hmg2Pd3fU6SrneVZNrDBMB51_zlGoFDl9yg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi9Rp-hmg2Pd3fU6SrneVZNrDBMB51_zlGoFDl9yg",
         "content": "Du skal downloade denne app s\u00e5 kan du f\u00f8le dig lidt mere sikker i det offentlige!",
         "score": 5,
         "thumbsUpCount": 0,
@@ -242,7 +290,7 @@
     {
         "reviewId": "gp:AOqpTOFWV7M8zDgwqa9VshVgNsJ4wVBh7aEaMhjbryyIatUx59S1UdcrAoBbFJGRQI9NDexnzjVVjuMPlsqKpQ",
         "userName": "Jannick van Kleef",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhR4jiMpM4rBtraqICI9X5_XQnaSdLilnCNQc6rFw",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhR4jiMpM4rBtraqICI9X5_XQnaSdLilnCNQc6rFw",
         "content": "Foreslag: Lav en \"Del\" knap s\u00e5 man kan sende et direkte link til app'en i App/Play Store via diverse besked apps. Specielt nyttigt for den gruppe der har sv\u00e6rt ved at overskue opgaven, selv at skulle s\u00f8ge og downloade app'en.",
         "score": 4,
         "thumbsUpCount": 1,
@@ -254,7 +302,7 @@
     {
         "reviewId": "gp:AOqpTOHyGFiukJ_i7D0V8gU3wcr6WNbKYE81iL3T0bR8_2Cy4HSwPiFmc1MfU7sVzlquy9-TMJGu4hLFOkSA5w",
         "userName": "Morten Slott Hansen",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gj7Guqp4ZgW68GhKDhgmk3H8xWBi0t0u5gHgvuPXA",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj7Guqp4ZgW68GhKDhgmk3H8xWBi0t0u5gHgvuPXA",
         "content": "Det er meget uheldigt at app'en ikke automatisk starter op hvis man genstarter telefonen. Efter 4 uger opdagede jeg at app'en slet ikke var aktiv - hvilket er helt tosset. Det bliver i simpelthen n\u00f8d til at rette. App'en stopper og starter ikke igen - meget problematisk.",
         "score": 1,
         "thumbsUpCount": 4,
@@ -266,7 +314,7 @@
     {
         "reviewId": "gp:AOqpTOHnUspoK9dLWLZ-g8hppsXbI7V6k1w2uiZF1xppiQLrt9i6FBwTFIqNbccXM8xK0QAH1gdSX_jkfstyPA",
         "userName": "Andrea Cassioli",
-        "userImage": "https://lh3.googleusercontent.com/-KDQuKU7PvEM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucklo5ApFw2hbNGARV-9bTj1S5aMKw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-KDQuKU7PvEM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucklo5ApFw2hbNGARV-9bTj1S5aMKw/photo.jpg",
         "content": "It drains my phone battery to death, it cannot be used! And by the way, what about some more languages??",
         "score": 2,
         "thumbsUpCount": 2,
@@ -278,7 +326,7 @@
     {
         "reviewId": "gp:AOqpTOEcjRE9GSWlAtOO6IjpWv8mMifexIIo8auD-Ot2wOMk1P5SJQwBSne43DJOzeBG7M_UGYkySO38LqCExA",
         "userName": "Lukas",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gj4Jtf2JVpgdo_6T6ehejY87jhqTNQERodtmTV1S_A",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj4Jtf2JVpgdo_6T6ehejY87jhqTNQERodtmTV1S_A",
         "content": "Cannot start on android 11. For others, Android 11 enables to use it without actually having location on. (Google thing)",
         "score": 5,
         "thumbsUpCount": 1,
@@ -290,7 +338,7 @@
     {
         "reviewId": "gp:AOqpTOFWxEXEy2r4A1DLdwAp0yMbKCF9YJYJX9cRwsxMg1RCVZIJSoPuDBrYAJ27w_IXcQbk4B-AioK1Gdx7mQ",
         "userName": "Gin Biloba",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gis456nKkOUqQeY3CuHuG_mrb3spm5b3qlTLxWSjg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gis456nKkOUqQeY3CuHuG_mrb3spm5b3qlTLxWSjg",
         "content": "Take google and apple out!",
         "score": 4,
         "thumbsUpCount": 0,
@@ -314,7 +362,7 @@
     {
         "reviewId": "gp:AOqpTOFTpJiAX0etqj6V9PWRTQTe4CL-0LkZ-o78LdTb8MdUGtQQnOFpLQ1BVutyDbuO_5LYRRp6KXw151xW0A",
         "userName": "Edward Levin",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhWRirL5qSZw3EIpVCV1bZElrNgJ2f2PPABQo1n5Q",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhWRirL5qSZw3EIpVCV1bZElrNgJ2f2PPABQo1n5Q",
         "content": "In these times I see why this app is a must-have. What i don't like is that it empties battery power too fast (on Samsung Galaxy s10+) even when set to medium power saving mode. Perhaps an optimization is required.",
         "score": 3,
         "thumbsUpCount": 12,
@@ -326,10 +374,10 @@
     {
         "reviewId": "gp:AOqpTOFMttbxSz2YcAKhj3JPUnrsFj3UCJcWij6CUX41vg8pnqBYl8OpqGb5Z7TYdQDNODGEzkkyWrSZmm5C2Q",
         "userName": "Alexandru Cehan",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgNxF9c0Stbu28ZGMfe2YlNli1WGF0hWdqVVCok9A",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgNxF9c0Stbu28ZGMfe2YlNli1WGF0hWdqVVCok9A",
         "content": "App should also be in English.",
         "score": 1,
-        "thumbsUpCount": 3,
+        "thumbsUpCount": 4,
         "reviewCreatedVersion": "1.1",
         "at": "2020-09-04 01:06:13",
         "replyContent": null,
@@ -338,7 +386,7 @@
     {
         "reviewId": "gp:AOqpTOGyOY8HwaJ5fdFanV08m4ggJsJ_NMu6p80yMMyHMmCNes2FsUGlhGp-0XyKLII0U22RFvY0VBU95yiwNw",
         "userName": "Sam M.",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhP9XZbBAnznaIuidl2-T-zIBjQrbTXMQ-nmcnm-WM",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhP9XZbBAnznaIuidl2-T-zIBjQrbTXMQ-nmcnm-WM",
         "content": "The biggest problem with the cov19 Bluetooth API is that you need to have location on. I don't want to enable GPS all the time, as the app says it self, all apps that have access to location, can use it while enabling location for this app. Don't want GPS enable all the time. I known it's not the apps fault, but googles. Still has a big affecte on who gonna use this app.",
         "score": 2,
         "thumbsUpCount": 35,
@@ -350,7 +398,7 @@
     {
         "reviewId": "gp:AOqpTOGQ08dKPbRqfdOcp_5w82PMx675Lp6cIeJ3PxQAxsERgvZ1_WvkKYiQaLNjKc8yWW6K4P-uP6eEnu0Ckg",
         "userName": "Mikkel S",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiFeQZeDFFDquI9UvNqcUfgL3oMdCLqPhCcddth",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiFeQZeDFFDquI9UvNqcUfgL3oMdCLqPhCcddth",
         "content": "Version 1.0.3 og den nyere 1.1 crasher under opstart. Tidligere versioner virker. Hvorfor kan man ikke g\u00e5 tilbage til en version der virker? Skriver til support - igen...",
         "score": 1,
         "thumbsUpCount": 0,
@@ -362,10 +410,10 @@
     {
         "reviewId": "gp:AOqpTOEL8IEPkW3lnGN14Hpv0VKBy9yTVMQIiAH5MWlRKrnwhXTcmjp-4kyARItsrVv1Jld2p-aGuCJYmGadDw",
         "userName": "Stoyan Stoyanov",
-        "userImage": "https://lh3.googleusercontent.com/-gfuPrGkj2IY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclEGkQr7OGdNNfKo3lKcBggI_qtUQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-gfuPrGkj2IY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclEGkQr7OGdNNfKo3lKcBggI_qtUQ/photo.jpg",
         "content": "Why isn't there an English version?",
         "score": 1,
-        "thumbsUpCount": 1,
+        "thumbsUpCount": 2,
         "reviewCreatedVersion": "1.1",
         "at": "2020-08-29 18:05:57",
         "replyContent": null,
@@ -374,7 +422,7 @@
     {
         "reviewId": "gp:AOqpTOHmdBZqXZD_YHVZReWelwxMBqG53YLkcCVOQDSKmXo_cRncYfExB6qvUkzhKmULurYEbiJqhYFMduFhAA",
         "userName": "Mikkel Knudsen",
-        "userImage": "https://lh3.googleusercontent.com/-JY9-cYiLIWs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmS3cwOEXEJJDrZHr_Ow_T0pgTABw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-JY9-cYiLIWs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmS3cwOEXEJJDrZHr_Ow_T0pgTABw/photo.jpg",
         "content": "Jeg oplevede i dag at Iris scanner (Samsung S8) pludselig blev aktiv da jeg \u00e5bnede Smittestop app'en. Jeg har ellers s\u00f8rget for at lukke helt ned for Iris scanner fordi jeg oplever ubehag, derfor blev jeg ret overrasket over at den pludselig blev aktiveret (r\u00f8dt lys) da jeg \u00e5bnede Smittestop. Hvis app'en g\u00f8r hvad den skal er det jo ellers et ret godt v\u00e6rkt\u00f8j mod Covid19, men er usikker p\u00e5 App'ens status og nu ogs\u00e5 hvor meget den overv\u00e5ger...",
         "score": 3,
         "thumbsUpCount": 0,
@@ -386,7 +434,7 @@
     {
         "reviewId": "gp:AOqpTOHycGfndP0juOxe7EHBX-bcU7mPUIXxYT9O1M6cMEBNXGWbExXcosQiDrdxTmo5Py6wyTPWmNMEtBRNhA",
         "userName": "Bo Hejselbaek",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiEt9qFj-uYqSItRI9KgsH5LIgLE1wRdSDQ6Y_t0Q",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiEt9qFj-uYqSItRI9KgsH5LIgLE1wRdSDQ6Y_t0Q",
         "content": "Aug-26: stadig kun p\u00e5 dansk?!!Nedjusterer fra 2 til 1 stjerne, da den fortsat kun findes p\u00e5 dansk. En engelsk version er muligvis (!) stadig p\u00e5 vej her snart to m\u00e5neder, og alt for sent. Og hvad med andre sprog? Arabisk, urdu mfl? Jeg er sikker p\u00e5 at I kan finde de anbefalede sprog hos sundhedsmyndighederne Det tager et par dage at overs\u00e6tte. I betragtning af situationens alvor h\u00e5ber jeg en version p\u00e5 flere sprog kommer om f\u00e5 dage. S\u00e5 meget er der alts\u00e5 heller ikke at overs\u00e6tte. Det er en ommer.",
         "score": 1,
         "thumbsUpCount": 8,
@@ -398,7 +446,7 @@
     {
         "reviewId": "gp:AOqpTOGS0fbgDZVYzW5SO9ItkxbQQVBO5xBCtvvW9uNIpeYC_xdnDdV38QcEr6_x4OzxDY-CljLQkpzIPZJkWg",
         "userName": "Miao Hansen",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhNiAvthjZHivOd4GIvNNx4POsaSjJymOdWzH57-G4",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhNiAvthjZHivOd4GIvNNx4POsaSjJymOdWzH57-G4",
         "content": "What will this muitimillion expensed app help when downloading is not mandatory like wearing masks in public places?",
         "score": 1,
         "thumbsUpCount": 0,
@@ -410,7 +458,7 @@
     {
         "reviewId": "gp:AOqpTOG9yczxJ32izI0lh6wBSkgVyI3ivodMQl5FO8EQTve-bnUQMvaw2TaGLm5xCCOWfnWteD3naOxlSdPuUQ",
         "userName": "Cristina Jael",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GheTvuvoPCpEEdAn4B_A_aYTaVQLixOIn2Csk1wIA",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GheTvuvoPCpEEdAn4B_A_aYTaVQLixOIn2Csk1wIA",
         "content": "Should have English version for internationals",
         "score": 1,
         "thumbsUpCount": 0,
@@ -422,7 +470,7 @@
     {
         "reviewId": "gp:AOqpTOHYxOEQETxeY5FiAVHGwsgwsgFI4RuEEJfOr3Ol7oUGSkJPnY5Pf1Nq5uY1nHrLr-nA1PgNkGWOgu2b6Q",
         "userName": "Ovi ovi",
-        "userImage": "https://lh3.googleusercontent.com/-7n1qfBsFn3E/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnB4PgApTFFLvKdJ016bCmaTRhKMQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-7n1qfBsFn3E/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnB4PgApTFFLvKdJ016bCmaTRhKMQ/photo.jpg",
         "content": "Only in 1 language \ud83d\ude12",
         "score": 1,
         "thumbsUpCount": 0,
@@ -437,7 +485,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-HN-m9DUa344/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmkxjWetqDkz98VgfN55QITYomy1w/photo.jpg",
         "content": "App should be available in English. International Travelers are a big risk factor and they need to be able to use the app. So even before accepting to any terms and conditions it needs to be possible to change to english and maybe some other languages. Otherwhise the app is useless.",
         "score": 1,
-        "thumbsUpCount": 64,
+        "thumbsUpCount": 67,
         "reviewCreatedVersion": "1.1",
         "at": "2020-08-23 10:38:30",
         "replyContent": null,
@@ -446,7 +494,7 @@
     {
         "reviewId": "gp:AOqpTOGzi41y4H1sWUOeUfTmjPiK4HKDWBWGrVXdreRMpeuty2lvwn1QsI5be6FEG35jTVmitQifdAt5ofYsEg",
         "userName": "Felipe Trombetta",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhT66em0A9YByD5KFAqXFPV3yHHxf6tJ5Oj1fu_iw",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhT66em0A9YByD5KFAqXFPV3yHHxf6tJ5Oj1fu_iw",
         "content": "Awesome",
         "score": 5,
         "thumbsUpCount": 1,
@@ -470,7 +518,7 @@
     {
         "reviewId": "gp:AOqpTOFwqbr1v1RNJjG3uOLyYFlf3igMkZG_ZoPWcvPtHKalVtfqDB8-o6prQqdOlhfQl8KgxLrZPIsz28YiHg",
         "userName": "Henrik Stougaard Nielsen",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhGDBM2skpGqUFM_r7JROzsG9K-EgW-Ksf873MvWBA",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhGDBM2skpGqUFM_r7JROzsG9K-EgW-Ksf873MvWBA",
         "content": "Jeg regner med, at appen g\u00f8r det, den skal. Jeg har ikke f\u00e5et nogen notifikationer om, at jeg har v\u00e6ret i kontakt med en smittet, men ikke alle har den installeret. Det burde virkelig v\u00e6re en indbygget del af operativsystemet, som ogs\u00e5 kunne anvendes i fremtiden. Jeg stoler personligt nok p\u00e5 Apple og Google til det, men det forst\u00e5r jeg ogs\u00e5 godt, hvis andre ikke n\u00f8dvendigvis g\u00f8r.",
         "score": 5,
         "thumbsUpCount": 1,
@@ -494,7 +542,7 @@
     {
         "reviewId": "gp:AOqpTOEthvL3S9_NWbgWs95ZLQKBrZN2-x-oYITR0po0RkJS1TPgRLswFODJXJmlwtjY9ItaDayDjF3rFW0S_w",
         "userName": "Taymor Hussain",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gg8dIxlj859SdV_fz7hErV1A2oWWRcTycGAtv1jAAI",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg8dIxlj859SdV_fz7hErV1A2oWWRcTycGAtv1jAAI",
         "content": "Virker nu. Den b\u00f8r v\u0153re obligatorisk.",
         "score": 5,
         "thumbsUpCount": 1,
@@ -506,7 +554,7 @@
     {
         "reviewId": "gp:AOqpTOFYYuogGdQWQHykUshdaBlqZuiFu5P3JSDmo4D8LtJBdkJmP5SP7Z3B5lxVU-aLgHe1uHjKzuhWZ5G62g",
         "userName": "Kasper Lidegaard",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiiAxzAWJco83D0UxuIDEVqfPkmXWFr4gCu8mptoQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiiAxzAWJco83D0UxuIDEVqfPkmXWFr4gCu8mptoQ",
         "content": "Desv\u00e6rre virkede denne app ikke. Da jeg markerede mig som testet positiv for Covid 19 fik ingen af mine n\u00e6re kontakter advarsel. Tanken med appen er ellers god. Mon ikke at udviklerne burde fejlfinde denne case asap.",
         "score": 1,
         "thumbsUpCount": 2,
@@ -518,7 +566,7 @@
     {
         "reviewId": "gp:AOqpTOHLdyEvTokBQMFW-gqYFduVvgswMno4zn20ZnruDeH7ZBjZKnCDgqez1Ivirdjh1TRaY_k08T0IJFfBKg",
         "userName": "Martin Alstrup",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GivbyjAKdc2lN7GLQjqAO2naafS3CEs7i1XmD-Qng",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GivbyjAKdc2lN7GLQjqAO2naafS3CEs7i1XmD-Qng",
         "content": "Funktionelt endelig ved at v\u00e6re p\u00e5 plads. Dog tr\u00e6kker omst\u00e6ndighederne og undfangelsen MEGET ned. 20 mio. kroner for en closed source app der kunne v\u00e6re bygget for under 100.000 p\u00e5 samme tid. M\u00e5ske skulle man ogs\u00e5 s\u00e6tte studentermedhj\u00e6lper, der faktisk har best\u00e5et en sproglig eksamen, til at besvare anmeldelser og henvendelser.",
         "score": 2,
         "thumbsUpCount": 1,
@@ -542,7 +590,7 @@
     {
         "reviewId": "gp:AOqpTOHkC-RciVvNiu0IHYArjWOkAADU5CsOdM1JMS_icWo05qV3QP5pXu75uMn0ozubjd3TCwfb0uxjYpuBzw",
         "userName": "Stella",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gi7v9a1lfD2AheTGrky-qF8FdmvGlcYYZrJdjOC",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi7v9a1lfD2AheTGrky-qF8FdmvGlcYYZrJdjOC",
         "content": "Make it available in English as well? If you really care all people in dk to stay safe",
         "score": 2,
         "thumbsUpCount": 3,
@@ -554,7 +602,7 @@
     {
         "reviewId": "gp:AOqpTOESHv51_ajxMw_AnY_pt_UA9SmLOaffciOipFj2z2YQHdVfWNe1yQeX1L349f0trh7c6cFBueB0npUoJw",
         "userName": "Stefan Horvath",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjaX2kZRS64uEvb1EjMtkqb0_GcgqZJGtFThlaT4A",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjaX2kZRS64uEvb1EjMtkqb0_GcgqZJGtFThlaT4A",
         "content": "Works, I guess. Needs english version asap for the students and other internationals, though",
         "score": 4,
         "thumbsUpCount": 4,
@@ -566,7 +614,7 @@
     {
         "reviewId": "gp:AOqpTOGuqux_kPWknuIQP1ISGRGBkMrmQDR5ZL-89rHlcycXJkNBDe6vGajTOTdeQD4-PcYJAZ7awYEZ-ZqJDg",
         "userName": "Andrei Olarasu",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgHe9GftBlp7dbR3Q8Gy4Xt_-W9JfGiDXN1f2CqovQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgHe9GftBlp7dbR3Q8Gy4Xt_-W9JfGiDXN1f2CqovQ",
         "content": "English version would be useful",
         "score": 3,
         "thumbsUpCount": 2,
@@ -590,7 +638,7 @@
     {
         "reviewId": "gp:AOqpTOEnQ3HnfTPm799xlKNT6-_mX1CM5Hbr666sduSWgQwptghF4xmgwexJaTKGTl-UU45LDxhGGHEuS4pkcA",
         "userName": "Mariam Bintehassan",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgSPOYfzN8LvK3yMy0AiYR0SCqXycBksS825ySl",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgSPOYfzN8LvK3yMy0AiYR0SCqXycBksS825ySl",
         "content": "My husband's play store is set to the US (unable to change) and we live here in DK. He isn't able to download the app. Why?",
         "score": 3,
         "thumbsUpCount": 0,
@@ -602,7 +650,7 @@
     {
         "reviewId": "gp:AOqpTOE1gNhnuwXy4-LqikfajlbXoDkRZ2YAVaOJOslRmWTWLnmaGs4_BdgkF2Qq5tye07BbbvFyljMbbA-V7Q",
         "userName": "Cl\u00e1udio Gomes",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhKZYniWSrouLwUHFrs4RmkBCn7wt21ZPrEhq0CJQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhKZYniWSrouLwUHFrs4RmkBCn7wt21ZPrEhq0CJQ",
         "content": "To increase trust and adoption this app should be made open source. That way, we all could have a look at the code to see if there's any privacy breach, and could even contribute with an English translation for the app. Plus, Denmark would set the example and other countries would follow. You might think that an open source app is more vuneravle to attacks but this is a very na\u00efve arguments: vulnerabilities are exposed and fixed faster.",
         "score": 4,
         "thumbsUpCount": 111,
@@ -614,7 +662,7 @@
     {
         "reviewId": "gp:AOqpTOH1t13rsxU_BWGPz7oDwcTtD5IuFv4as2PXPMnOm97kdTImK5NNJeaM4PQ16p3rBmLeSzN6F-L-KfokNg",
         "userName": "J\u00f6rg Asmussen",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiaiWpQxdlF7eYSR_-Ypyz6j0hGnAgPsLVOo0lIPQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiaiWpQxdlF7eYSR_-Ypyz6j0hGnAgPsLVOo0lIPQ",
         "content": "App'en driller, n\u00e5r telefonen s\u00e6ttes i flytilstand og app'en ikke k\u00f8rer helt i baggrunden. N\u00e5r app'en har et GUI \u00e5ben, n\u00e5r bluetooth forsvinder, kommer en dialogboks frem, som kr\u00e6ver ny godkendelse af BT. Hvis app'en derimod k\u00f8rer uden GUI, s\u00e5 t\u00e5ler den fint at BT forsvinder og dukker op igen. Den dialogboks i GUI.-tilstand b\u00f8r rettes.",
         "score": 4,
         "thumbsUpCount": 1,
@@ -626,7 +674,7 @@
     {
         "reviewId": "gp:AOqpTOGI3S2dZBvtA2-puI-0rQJEZ7AK47KNUGj0DtxsZWKURXEeXSRESFQt05ET-eACBIOKkROOiZHfUTS-cw",
         "userName": "Sirqarsoon Channel",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GijKkdf-IcT2Wg22JVPhjlEh33pBSTNGZIusokFxYU",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GijKkdf-IcT2Wg22JVPhjlEh33pBSTNGZIusokFxYU",
         "content": "English please",
         "score": 1,
         "thumbsUpCount": 0,
@@ -638,7 +686,7 @@
     {
         "reviewId": "gp:AOqpTOFqqmSzo8T7pHsOU3syKpdvyJLmlA-jx5iws8dIz9MYR-L4nIHcaLmtbQnfiOb485XHJIFhb8MvKWJfkA",
         "userName": "Tristan Bendixen",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhsvItU8sJVltBJpiih-ia0yb7mKVpgp5i24TizI3c",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhsvItU8sJVltBJpiih-ia0yb7mKVpgp5i24TizI3c",
         "content": "Useful without being needlessly complicated. The FAQ section gives really good responses to questions and concerns people might have.",
         "score": 5,
         "thumbsUpCount": 1,
@@ -650,7 +698,7 @@
     {
         "reviewId": "gp:AOqpTOGaXlNYtcwTQUlSyleviDvXItS4weezpbzK5cXZbBaKw6a62RKU_aUrERwrAJL11fsfK6-V3UIA2nSJbw",
         "userName": "Jakob Guldberg Aaes",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiMe0RWaABYbDCKeQWuWcSD5sczO9Li53-eevKcQw",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiMe0RWaABYbDCKeQWuWcSD5sczO9Li53-eevKcQw",
         "content": "Good idea but crucial notification for status is still missing. It seems to work as intented but the design is not with actual users in mind. There is no indication on the status of the application running in the background. This leads to me forgetting turning it on and/or off as I have no idea without opening the app. Also there are too many steps to turn it on (3 taps is a lot).",
         "score": 2,
         "thumbsUpCount": 43,
@@ -674,7 +722,7 @@
     {
         "reviewId": "gp:AOqpTOEPj1Bh8aWIUGaw6Lbn0BfL0jEczHy_h4q3UdIlBj7f9eojpCkcnQaO8c2zWk7IsNOGAoJ26MgRmMKI7w",
         "userName": "Tori Smith",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiKNBLgKeJLvHqEpvBotF1L7zV-6UxTIaV1KXoJgw",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiKNBLgKeJLvHqEpvBotF1L7zV-6UxTIaV1KXoJgw",
         "content": "It's a pity that this app isn't in English, as I live in Denmark and my danish isn't very good.",
         "score": 5,
         "thumbsUpCount": 5,
@@ -686,7 +734,7 @@
     {
         "reviewId": "gp:AOqpTOE3SOOU0PBrWozUDi7rnmsSX_iWB5sOTYSdjguosildAPzQ8HE-9M2ZEJRiGy3AzqzvIpDD6_Ol_yMc-g",
         "userName": "Marius Miku\u010dionis",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjYxaZQh4UaqSgoTYUNyJq8R--H8i9DNlToWpJQKaU",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjYxaZQh4UaqSgoTYUNyJq8R--H8i9DNlToWpJQKaU",
         "content": "Requires location service / GPS enabled even though the app itself does not use it.",
         "score": 1,
         "thumbsUpCount": 4,
@@ -698,7 +746,7 @@
     {
         "reviewId": "gp:AOqpTOFSjJ2jTNqyX2u8MD856N5xb0NH2Tpzx4ZkLSLM6oxjoBoZYtDCPaYWBUg-2GmnhlCg4-ggBwmSyDJ4MQ",
         "userName": "Hans Zephyr",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhnoRQZIYQVz90yM3VWQ9bbod9LQW9ItnVjOt10fQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhnoRQZIYQVz90yM3VWQ9bbod9LQW9ItnVjOt10fQ",
         "content": "Perfect app. Quietly doing it's job in the background. Hope some day it will work over the borders too when traveling around. It signalled that I have been in contact with other phones already and that's exactly what it should do.",
         "score": 5,
         "thumbsUpCount": 12,
@@ -710,7 +758,7 @@
     {
         "reviewId": "gp:AOqpTOHAybarNoHOzwBmdjdX5TvuSPow1If4klLjMhf3VBwTbB-b6p-BNhnkC4yI25PsnrnDt8VvhHA9gJtQkA",
         "userName": "Peter Almer Frederiksen",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgVx8T2YKeEeXhlVYHBkunhoZAA_6WAhQhK2RUq",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgVx8T2YKeEeXhlVYHBkunhoZAA_6WAhQhK2RUq",
         "content": "Fint initiativ, app'en er nem at forst\u00e5 n\u00e5r f\u00f8rst den er aktiv. Dog er der alt for meget at l\u00e6se under f\u00f8rste opstart, det b\u00f8r gemmes v\u00e6k under en \"mere info\" - knap. Nogle giver op undervejs. Det alvorligste problem med app'en er dog at s\u00e5 f\u00e5 kender til dens eksistens, i min omgangskreds blandt familie, venner og kolleger er det kun f\u00e5. Send dog en opfordring via e-Boks og SMS til alle borgere, som man gjorde om smitten i begyndelsen af epidemien!",
         "score": 4,
         "thumbsUpCount": 3,
@@ -722,7 +770,7 @@
     {
         "reviewId": "gp:AOqpTOEVQRr-ZIhZLjd_uRPQtaHoRe1k_1bTeGiPfHZFpZlR3nDDgeJKB28cdaovn5_TELwqgCmjwlsiTBEYLw",
         "userName": "Cavine",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gj1J50gSNe3_UmpG22_4MN4w57928-L7tLn6rqTgw",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj1J50gSNe3_UmpG22_4MN4w57928-L7tLn6rqTgw",
         "content": "Ville v\u00e6re fint hvis den gav en mere synlig p\u00e5mindelse n\u00e5r den af den ene eller anden \u00e5rsag bliver offline. Ellers super simpel at s\u00e6tte op og bruge.",
         "score": 4,
         "thumbsUpCount": 0,
@@ -734,7 +782,7 @@
     {
         "reviewId": "gp:AOqpTOEURhd3u4vhLaN-Hxz0vWhqBireRrjOvfMqH4YxY0Ozs_NDwY-FSBcYuoUvaS3-U_P__RLKKqgaeCM5_Q",
         "userName": "T Toft",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gh4m4hNYLXTP-5y5_0YDr4C4JgmmLO9zI6tgT2Irg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh4m4hNYLXTP-5y5_0YDr4C4JgmmLO9zI6tgT2Irg",
         "content": "Der b\u00f8r tilf\u00f8jes en funktion der \u00e5bner batterispare indstillinger og beder brugeren sl\u00e5 det fra ellers bliver baggrunds-servicen lukket ned s\u00e5 app'en ikke l\u00e6ngere er funktionel hvilket ogs\u00e5 kan l\u00e6ses i flere reviews. En forklaring om hvorfor der bedes om lokation tilladelse ville v\u00e6re smart. Koden b\u00f8r v\u00e6re open source. Det er en d\u00e5rlig undskyldning uden hold i virkeligheden at det giver h\u00f8jere risiko for hacks og ironisk om en app lavet til Android der b\u00e5de er open source og baseret p\u00e5 Linux.",
         "score": 1,
         "thumbsUpCount": 9,
@@ -746,7 +794,7 @@
     {
         "reviewId": "gp:AOqpTOFkAgK7vd22Xn3aQB4TAcnW0lNaOO43glpoRXJZU4pUMERgMsJoyb_q50jkcRzSBW1oCdGLg1PwsT9_4w",
         "userName": "Emil Madsen",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgJvxs7KNOiUaL9j5vbVKzGeyv2Qw1coaZqEqw66Q",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgJvxs7KNOiUaL9j5vbVKzGeyv2Qw1coaZqEqw66Q",
         "content": "No source code available, do not trust it. Open source software ensures the validity and security of the app by allowing independent review, inspection and oversight, and is further more recommended by the eHealth community and WHO. If the app is vulnerable, showing the source code does not change that vulnerability, nor does it stop anyone for exploiting it, rather it stops all the open source developers from finding and solving the issue.",
         "score": 1,
         "thumbsUpCount": 11,
@@ -758,7 +806,7 @@
     {
         "reviewId": "gp:AOqpTOGF8ynSFVPaOuzdmI-az-VurGrluu9j8Agdy4qwzysp5l-lrt7sF5myNGdxPX0Tj6MLiPHmBMuQkBxSeg",
         "userName": "Oliver Badstue",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Givs4s3bENIp0tsPc3Ug3CH4TZOYmHKj5g6wtrEGAo",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Givs4s3bENIp0tsPc3Ug3CH4TZOYmHKj5g6wtrEGAo",
         "content": "I guess it works",
         "score": 4,
         "thumbsUpCount": 2,
@@ -770,7 +818,7 @@
     {
         "reviewId": "gp:AOqpTOHytLgh--WSBemP_If0PlLwJQ6zBYqsm9LQwRvgfoBCPzerS67YUXENggYykZLbW7ta8FAYqgqkYzVMFA",
         "userName": "Helene Thyrsted",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Ghu4sgywn4vNwZ4OSoxWfHVOlkavfubrTqrKhIzPJI",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ghu4sgywn4vNwZ4OSoxWfHVOlkavfubrTqrKhIzPJI",
         "content": "Appen fungerer fint, men det er et k\u00e6mpe dr\u00e6n at skulle have Bluetooth aktiveret konstant. Det f\u00f8les for\u00e6ldet og mit batteris levetid har v\u00e6ret st\u00e6rkt reduceret efter jeg har aktiveret appen hvilket g\u00f8r at jeg st\u00e6rkt overvejer om det er det v\u00e6rd.",
         "score": 3,
         "thumbsUpCount": 1,
@@ -782,7 +830,7 @@
     {
         "reviewId": "gp:AOqpTOGsRlsnKH7M2VpiRXG55srXZhBvAlBXVLUzwFqtzrQhBl4CEPz7vdMlJY4Nouh2Mh9epvJFy_rmHavDzg",
         "userName": "Dan Vera Cruz",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiXQcGOKALaqZvLVvwAw1NgB_1U8ZZmfsS6CCzvxcM",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiXQcGOKALaqZvLVvwAw1NgB_1U8ZZmfsS6CCzvxcM",
         "content": "Let at aktivere, men da den ikke virker udenfor Danmark med andre systemer, er den ikke s\u00e6rlig brugbar. Jeg havde h\u00e5bet lidt p\u00e5 at man ikke skulle have 7 forskellige apps p\u00e5 for at f\u00e5 noget ud af det. At m\u00f8de en smittet dansker i en lille by i Spanien eller Thailand er nok ikke s\u00e5 stor, som at m\u00f8de en lokal der er smittet. Det lyder heller ikke til at man f\u00e5r besked med det samme man st\u00e5r over for en smittet person (telefon). PS : den starter ikke automatisk op...",
         "score": 3,
         "thumbsUpCount": 4,
@@ -794,7 +842,7 @@
     {
         "reviewId": "gp:AOqpTOEdjBswgWJQPzvCp2_U15C8XQWS_Bv5Fq5zrQgwc_ovvJtgmaGjcq-22Pt1uBOUrtC_7tiPx3EpH1Fhgw",
         "userName": "Michael Lykke Hvam",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgBQ6Z8jjqfqUfG7MOf1VI5Av0MGnG8oxGKxGYN_zY",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgBQ6Z8jjqfqUfG7MOf1VI5Av0MGnG8oxGKxGYN_zY",
         "content": "Requires location service to be \"on\" to detect devices near you.. well I'm not going to use the app then. Make it useful with the location setting \"off\" and I will start to use it. I might not be sharing my location but I do not accept that it needs location access when it is not necessary. Bluetooth works just fine with location service off. I don't care that smittestop doesn't track my movements, but it enforces everyone to turn on location giving Google and other apps access to my location.",
         "score": 1,
         "thumbsUpCount": 39,
@@ -806,7 +854,7 @@
     {
         "reviewId": "gp:AOqpTOEiQcTybKxz1qZOyx4S0zgBQtySQdyrfB9lnrdTW7GmXMep5EGgM14bredRG2V5JP_Z-5XfPCVMlkC9xw",
         "userName": "Stefan Hajny",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiB7JrjpPnY2uvTvtE4nofibwa38Itc99ifTTyCpA",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiB7JrjpPnY2uvTvtE4nofibwa38Itc99ifTTyCpA",
         "content": "not in English - thus useless",
         "score": 1,
         "thumbsUpCount": 2,
@@ -830,7 +878,7 @@
     {
         "reviewId": "gp:AOqpTOHGQDLu1gOUGstczaelW8xLMylM0h1kNKArup8oTU8fSXhaOT18aYlt0HBOP4OEyZnxhrzmA2P9m1FF0g",
         "userName": "Mustapha Ajan",
-        "userImage": "https://lh3.googleusercontent.com/-hYtkIwOnHIY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnrWEEx35u7ewkf5KqTdW4F2RDoVg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-hYtkIwOnHIY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnrWEEx35u7ewkf5KqTdW4F2RDoVg/photo.jpg",
         "content": "Aktiver knap virker ikke p\u00e5 samsung 10+, jeg har fors\u00f8gt at opdatere android og google play no luck... apps b\u00f8r virke lidt out of the box.... Den 03.07.2020 virker jeres app stadig ikke. S\u00e5 er det lige meget hvor mange der downloader app'en!! Selv med jeres nye update...",
         "score": 1,
         "thumbsUpCount": 10,
@@ -842,7 +890,7 @@
     {
         "reviewId": "gp:AOqpTOGAXYLhU1LYrMpMTSE-uZ4QrIpXIeUakx84ZdqFtErm3j6uzd9p_mYEspGEHEwQdShdI9HGiyWF7oowdQ",
         "userName": "Jonas Helweg-Mikkelsen",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhXzbXK6C55N1u_gz0J3pEcqfi4e6H-pUV1DCI_NME",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhXzbXK6C55N1u_gz0J3pEcqfi4e6H-pUV1DCI_NME",
         "content": "Expensive app for Denmark to develop. Good that the app now can be downloaded by non danish accounts.... I was wondering if I should wait for the British one and hope it would work with the danish version..",
         "score": 3,
         "thumbsUpCount": 3,
@@ -854,7 +902,7 @@
     {
         "reviewId": "gp:AOqpTOHj047ub7DfG-KLraQxsemSjbQBTsY9bTU5nT9nWUlnS2qcBYZsfgRU8UOKmzx_k9ftOt9-5sVxtYj-xg",
         "userName": "Tiffany Madsen",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gj8MBgJBNPCt27EWPqTSF9KGnNChewt6voFmJKy",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj8MBgJBNPCt27EWPqTSF9KGnNChewt6voFmJKy",
         "content": "Alert notifications keep turning off???",
         "score": 2,
         "thumbsUpCount": 3,
@@ -878,7 +926,7 @@
     {
         "reviewId": "gp:AOqpTOE5ngTmQ2XiY0yygM1UYzc99Xx3Vj4dvrj0IBe2bpwPO0cwZ_2BRbOcZkMxWxFialxJtchwSeLKeyvZMg",
         "userName": "Finn Sand\u00f8",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiGqg27P7cU-1P4Z4MYd1PDtP22jNBfeuz6WKUR",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiGqg27P7cU-1P4Z4MYd1PDtP22jNBfeuz6WKUR",
         "content": "1) cannot be turned on unless force quit 2) public service app like tihs should be open source. Uninstalled again, sadly.",
         "score": 1,
         "thumbsUpCount": 15,
@@ -890,7 +938,7 @@
     {
         "reviewId": "gp:AOqpTOFXPV4q6wqbTXT3BgLYHNTol6P-KCDewW7PcFaSorwvM7LYyQl65pivczbUsdachWEwklO9b5IhdhCQZA",
         "userName": "Philip Allerup",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjfgCblx_SJzRAFA8blzDiyqxUJapcBk-ibgQAf",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjfgCblx_SJzRAFA8blzDiyqxUJapcBk-ibgQAf",
         "content": "App'en t\u00e6nder ikke n\u00e5r jeg trykker bekr\u00e6ft, har b\u00e5de bluetooth, GPS og data sl\u00e5et til",
         "score": 2,
         "thumbsUpCount": 2,
@@ -914,7 +962,7 @@
     {
         "reviewId": "gp:AOqpTOHtMqTw90789NAKG-HK7WcL22dPKx9DA-d3l0ciFsPWyvWKmwYPDnhEkAchgfUL5Vsuvwf3Fwln7ES8sQ",
         "userName": "Martin Fink-Jensen",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiDQ1TPQq00tBCjd9SLb6VqgCZZs3cpgnwCBFsa2Bc",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiDQ1TPQq00tBCjd9SLb6VqgCZZs3cpgnwCBFsa2Bc",
         "content": "App'en sp\u00f8rger ikke om nogen tilladelser og kan derfor ikke aktiveres. Det er da for \u00e5ndssvagt!",
         "score": 1,
         "thumbsUpCount": 1,
@@ -926,7 +974,7 @@
     {
         "reviewId": "gp:AOqpTOF56gqteVi5KsYT6u8_WcQwsVoPTAb5QtrNTXFElyOPeDolUgTOiyZ4H6zGZf8CokOPOaqyKaeAn5AGIA",
         "userName": "Morten Bjergstr\u00f8m",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiIVCyrnRKoClnmu31R2s8V_O1iKMScmi6ROHEIQQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiIVCyrnRKoClnmu31R2s8V_O1iKMScmi6ROHEIQQ",
         "content": "Virker ikke p\u00e5 hverken Samsung S7 Edge eller S10+. Kan aktiveres p\u00e5 S7 men beskedsiden opdateres ikke. P\u00e5 S10+ kan der ikke aktiveres. Derudover giver det ingen mening, at der skal 15 minutters t\u00e6t kontakt til f\u00f8r der skabes et \"match\" men det er muligvis Google/Apple frameworket der er \u00e5rsagen men smitte kr\u00e6ver ikke 15 minutters kontakt. Men kan ske ved eksempelvis et enkelt host eller nys.",
         "score": 1,
         "thumbsUpCount": 1,
@@ -938,7 +986,7 @@
     {
         "reviewId": "gp:AOqpTOHBLS-DeesVDRZtCuHpGS8c_VohynwLTxaAc9ALRGjlUxSH4XQwkpLFEAh4e5ycT0PRZVQ2I04UU8fJDA",
         "userName": "Tobias L\u00f8fgren",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GigYmSXUfdjQKY8JO-elHu9CGyAL-6LbxHZcs1i9CQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GigYmSXUfdjQKY8JO-elHu9CGyAL-6LbxHZcs1i9CQ",
         "content": "Everyone should take note that even though the app requires location access, it doesn't use your GPS. It's only for Bluetooth based tracing \ud83d\udc4d\ud83c\udffb",
         "score": 5,
         "thumbsUpCount": 35,
@@ -950,7 +998,7 @@
     {
         "reviewId": "gp:AOqpTOEbvChbEctEwlSr9Yl2E3B9xwQV9OET4sQjyJuIfEh-ZFlXehgo4uA64F7W-erxR4fHUK2jb8tx5-k7Bw",
         "userName": "J S",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiCO92otEKy7mcYTLuzuRH64NhlCA1zq6DGlyEOTQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiCO92otEKy7mcYTLuzuRH64NhlCA1zq6DGlyEOTQ",
         "content": "Denne app dumper. Bliver ved med at deaktivere og siger at bluetooth ikke er sl\u00e5et til selvom den er. Er n\u00f8d til at genstarte appen for at f\u00e5 den til at virke indtil den g\u00f8r det igen. Og ja GPS og Bluetooth er sl\u00e5et til hele tiden.",
         "score": 1,
         "thumbsUpCount": 3,
@@ -962,7 +1010,7 @@
     {
         "reviewId": "gp:AOqpTOHkQLV_IEhKVgujcvXSmOgaSFwMon45e_pDOrTx19YRrI__hO9EjKHIv1HL4QMcxEgoykIOYde56y6oSQ",
         "userName": "Luka Lugonja",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhvUlh-_8BWsYrN4Vwz__x203N49V9x38tomfqN",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhvUlh-_8BWsYrN4Vwz__x203N49V9x38tomfqN",
         "content": "Great app. Another tool in our fight against the virus.",
         "score": 5,
         "thumbsUpCount": 5,
@@ -974,7 +1022,7 @@
     {
         "reviewId": "gp:AOqpTOEkP-Me61gxLXG-NsjFv3rcAGUT0MvAG23f3rBe6WimyYRWja5NTAVK1NXy_zY4UMTH3K9xDgJn2dkUsQ",
         "userName": "Troels Gripping",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiSwuInHXTmlpABhyr5Ij3kf5a5zXr0Yo1e335dOQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiSwuInHXTmlpABhyr5Ij3kf5a5zXr0Yo1e335dOQ",
         "content": "Jeg mangler at kunne se Brugere, af App'en. I den forstand at jeg gerne vil have et tal for hvor mange Bruger jeg har m\u00f8dt p\u00e5 min dag. Pt virker det som ingen bruger App'en. Ps jeg bor ved et kryds hvor der dagligt passere over 2000 mennesker. Et tal der viser at der er 'liv/bruger af App'en Tak. Uden det f\u00f8ler jeg at jeg er den eneste der bruger App'en.",
         "score": 3,
         "thumbsUpCount": 2,
@@ -986,7 +1034,7 @@
     {
         "reviewId": "gp:AOqpTOEYu45csrJSuHhaRKmTtodeRjHHScHoqohhSEJK4mfdeGzm3iwZ5EiUg0i_IDS5Y6nU_JA9FXqZoWouNg",
         "userName": "Tais P. Hansen",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GikE2-SFI4qyKB8UynMRihZGBgYiZkI_KUYXpUCC3k",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GikE2-SFI4qyKB8UynMRihZGBgYiZkI_KUYXpUCC3k",
         "content": "Lige til og forklarende. Bruger ikke GPS som nogen ser ud til at tro. Ville dog v\u00e6re rart med en indikation at at den reelt virkede og havde en effekt. F.eks. en sum t\u00e6ller over exposures p\u00e5 en dag.",
         "score": 4,
         "thumbsUpCount": 7,
@@ -1022,7 +1070,7 @@
     {
         "reviewId": "gp:AOqpTOEnbKUcKH5fs7nHUmsOFjLoWpx9e9p575pMDFVj3Rtjywue-yfcqzq1-bhq2d5ZDgnNuJ3wfasIGFvhuw",
         "userName": "Steffen silkj\u00e6r",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgFr11ct0vlZrz5fo4C-FlLdFQHHdxMCRzHH1aqOQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgFr11ct0vlZrz5fo4C-FlLdFQHHdxMCRzHH1aqOQ",
         "content": "Synes ikke at appen opretholder det der bliver lovet mht. At det kun er Bluetooth der skal bruges. Bliver ved med at f\u00e5 en pop-up med, at jeg skal sl\u00e5 min lokation til p\u00e5 telefonen, hvilket g\u00f8r mig ekstra skeptisk og holder mig endnu mere tilbage p\u00e5 at frigive informationerne mht den del om jeg er testet positivt eller ej vha. NemID. forh\u00e5bentlig bliver dette fikset, men tager det for lang tid, bliver appen irrelevant.",
         "score": 2,
         "thumbsUpCount": 3,
@@ -1034,7 +1082,7 @@
     {
         "reviewId": "gp:AOqpTOHk2znBtxHsDYNbX_Ksaor_NeSqMsUhnR_sH8JhYO6RfUlSwPCgLU_7k-z1H-3xchGgyPPetSJ5AOOUEw",
         "userName": "Jeppe Petersen",
-        "userImage": "https://lh3.googleusercontent.com/-DCNpTGyP_zo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckbM8oCvBRiXsxbpr6_LxQPKhCatA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-DCNpTGyP_zo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckbM8oCvBRiXsxbpr6_LxQPKhCatA/photo.jpg",
         "content": "Jeg kan ikke aktivere bluetooth funktionen i app'en, hvilket g\u00f8r den ubrugelig. Har Xiaomi Mi9 Se",
         "score": 1,
         "thumbsUpCount": 1,
@@ -1046,7 +1094,7 @@
     {
         "reviewId": "gp:AOqpTOFl4ejxCDwnT2cX9rqC_wYQM-OOJIrKdd5PdpYH9aXyAmKnR4VUTRcl_daEMRhRnhBgKwVI1HpxgXmVPg",
         "userName": "Jorge Y. C. Rodriguez",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gg5zRqHdDGShp9X7n-i5w-JkYCR1wMUoj2Jm-Fq_CI",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg5zRqHdDGShp9X7n-i5w-JkYCR1wMUoj2Jm-Fq_CI",
         "content": "Where is the source code? Is public money and is tracking out location, source code to be able to trust it. Edit: thanks for the response, but other European countries does open their source code to allow the public to trust it. Even when is a failure. Uk for example.",
         "score": 1,
         "thumbsUpCount": 52,
@@ -1058,7 +1106,7 @@
     {
         "reviewId": "gp:AOqpTOGKIJwYhHxbpioSubg4rcQmebZ3agPmTugFY4k5Vt0_YA34olj7LyHBOhC0eVbBei9uCfRZc5WbPYOsew",
         "userName": "Bo Rock Jensen",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhsrHfhLgEeSY2jS-uZg0vxSBCbBtYMvuf-Cxst",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhsrHfhLgEeSY2jS-uZg0vxSBCbBtYMvuf-Cxst",
         "content": "Slettet da de smittede ikke bruger den................",
         "score": 1,
         "thumbsUpCount": 1,
@@ -1070,7 +1118,7 @@
     {
         "reviewId": "gp:AOqpTOEyTaBphZXtGE-KCEgERowKNB9kJvOnwkBJIo0Tvqulg3i3bsCUHphYb7zBo_OCjUV8QhjeleRyhqEYSg",
         "userName": "Lasse Steen Bohnstedt",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiMQfMVjdyQ4jvFcGPvPyKpDauBDRnDKO1ocDx9DQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiMQfMVjdyQ4jvFcGPvPyKpDauBDRnDKO1ocDx9DQ",
         "content": "Positivt: Beder kun om bluetooth-rettigheder, intet andet; dvs god privacy. Halv-negativt: Fylder 107 MB, hvilket ganske vist er langt bedre end f\u00f8rste release, men stadig en del p\u00e5 min telefon, som ikke er helt ny.",
         "score": 4,
         "thumbsUpCount": 2,
@@ -1094,7 +1142,7 @@
     {
         "reviewId": "gp:AOqpTOFuhIan6k-xHyjZ00Qb9hPJgzoCFLx1CchgeUV7eHq6nyrPOS8G6VCtTHvlt0QaJ3PYhnl0-CGg_afDzQ",
         "userName": "Asd Asd",
-        "userImage": "https://lh3.googleusercontent.com/-ecbTjDIJnyI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmljJOzJ85Va6aIwKc75G_LTAfZZw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-ecbTjDIJnyI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmljJOzJ85Va6aIwKc75G_LTAfZZw/photo.jpg",
         "content": "Det vil nok v\u00e6re en fordel at g\u00f8re lokation valgbart da Appen i princippet kan n\u00f8jes med at detektere om man er t\u00e6t p\u00e5 en smittet mm. via Bluetooth",
         "score": 1,
         "thumbsUpCount": 2,
@@ -1106,7 +1154,7 @@
     {
         "reviewId": "gp:AOqpTOEeOBGtOb0B59ildmnOwpoMHnOG827qFFS9l6hwZPL-zGV-jCZnu3gqdduDzWFhW7w3V4uz0vZJbgOXwA",
         "userName": "Bo Brandt",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjsFJnHuMN5XPOKDJqaI9BMGJjgakhM6kPzHBDiQA0",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjsFJnHuMN5XPOKDJqaI9BMGJjgakhM6kPzHBDiQA0",
         "content": "Sluger en del str\u00f8m...",
         "score": 2,
         "thumbsUpCount": 3,
@@ -1130,7 +1178,7 @@
     {
         "reviewId": "gp:AOqpTOHKsJn0IFSlEYszIyrxw3TFFGMbFn6P3rIDW61OrK90PF4mahr2x7HHsktDQSGGqpp5079voU3kj-QtBw",
         "userName": "\u0414\u043c\u0438\u0442\u0440\u0438\u0439 \u0418\u0432\u0430\u0448\u043a\u0438\u043d",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Ghoxg_AK6LyHXt0BxI6Pf93ZLOMIpNNctg98YWLaA",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ghoxg_AK6LyHXt0BxI6Pf93ZLOMIpNNctg98YWLaA",
         "content": "Still asks to turn on GPS, why??!",
         "score": 2,
         "thumbsUpCount": 4,
@@ -1142,7 +1190,7 @@
     {
         "reviewId": "gp:AOqpTOEb8um6NU-8-B00GuORLbeCItWoYjPm1bvU-5Lh7oX4-YZKqwp7SlRk_n14L_IZcE4s76d2r4UhbeaURA",
         "userName": "Simon Malone",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgIpIjylYwdeHAQjl0_fAp6Rq5FVDhaYkIIaXX4Hg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgIpIjylYwdeHAQjl0_fAp6Rq5FVDhaYkIIaXX4Hg",
         "content": "Efter problemer i starten, og et par geninstalleringer virker app'en nu som den skal, super.",
         "score": 4,
         "thumbsUpCount": 7,
@@ -1166,7 +1214,7 @@
     {
         "reviewId": "gp:AOqpTOFjFRC69HdzGny4v15AX5SahuODoKGHFR3vJtdvw1DCwJZklNZaEOhbqdFmOuy7JhQU8wyhkh78dmdi-g",
         "userName": "Andreas Jensenius",
-        "userImage": "https://lh3.googleusercontent.com/-9jYc0eD4amc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmr3VCZjaBksTGiNeZFCXdjbmGg9A/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-9jYc0eD4amc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmr3VCZjaBksTGiNeZFCXdjbmGg9A/photo.jpg",
         "content": "Virker uden problemer og tog 1 minut at s\u00e6tte op. Fint teknologi valg som respekterer privat livet.",
         "score": 5,
         "thumbsUpCount": 2,
@@ -1178,7 +1226,7 @@
     {
         "reviewId": "gp:AOqpTOFMu-LrMNPTGhoXFwkZog44UTLrGm93qWoU1YhKw2Ks7YrjvVF5p59HFEiuG0C_oQ23fuxXNfsA9PLQfw",
         "userName": "Daniel",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgjrxSvpGrHznLDjfr7CX3vqxNH8-XG4Z_wQgJh-Po",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgjrxSvpGrHznLDjfr7CX3vqxNH8-XG4Z_wQgJh-Po",
         "content": "Positivt overrasket over at der er brugt en sikker og anonym protokol. Nemt at installere og s\u00e6tte op. App'et har ikke rettighed til lokation, selvom lokation skal v\u00e6re sl\u00e5et til for at bluetooth virker. Ville have elsket at have kildekoden v\u00e6re offentligt tilg\u00e6ngelig s\u00e5 sikkerheden kunne verificeres.",
         "score": 4,
         "thumbsUpCount": 4,
@@ -1202,7 +1250,7 @@
     {
         "reviewId": "gp:AOqpTOGgTGUh-sOhcOcmd72MJnQahaSsghq1XwqVhWlRqxP3AORZo_OvVk2EBmkAxqvwBNnYurIAIWHb4FlGwA",
         "userName": "Andrew Rump",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgkoWV4sHUd3HPu4peagpELK4TRKZuuWvqUJOE3rfw",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgkoWV4sHUd3HPu4peagpELK4TRKZuuWvqUJOE3rfw",
         "content": "Bruger lidt ekstra str\u00f8m, men ellers ser app'en ud til at fungere fint. Godt at den blev implementeret med privacy in mind",
         "score": 4,
         "thumbsUpCount": 1,
@@ -1214,7 +1262,7 @@
     {
         "reviewId": "gp:AOqpTOFJPfqKhVtLTtCqRlnO5qPZ3zbiFvb9FppjNutOcdXfr8qr6ne-KQEqcLNA990rVpJFoFYyjv9yUeEiIw",
         "userName": "Danni Nordentoft Petersen",
-        "userImage": "https://lh3.googleusercontent.com/-ntWSMMhyRHg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckPMN_l0F96sTGewOnWBCJbW5NM1Q/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-ntWSMMhyRHg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckPMN_l0F96sTGewOnWBCJbW5NM1Q/photo.jpg",
         "content": "En super god ide, og virker godt - F\u00e5 det spredt p\u00e5 tv\u00e6rs af gr\u00e6nser! Jeg har dog en klage.... Det er uheldigt i kr\u00e6ver telefonen har Google Play, hvad med alle dem med en ny Huawei? Det er virkeligt gode Android telefoner, til en fornuftig pris.",
         "score": 4,
         "thumbsUpCount": 5,
@@ -1226,7 +1274,7 @@
     {
         "reviewId": "gp:AOqpTOHeFbRjGYMw4SstsTuicp10xYwkhiDJ4RxEuSrllOzids_8ARg3dBVMM9jqFADLjxC2Mhd8RS7Vo4xFOQ",
         "userName": "Tom Grosman",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiaM5DxE8jkEXYrfJ5_mPr8EIcZpl6twJNagZ9b",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiaM5DxE8jkEXYrfJ5_mPr8EIcZpl6twJNagZ9b",
         "content": "Easy installation. Would be helpful to have the choice of English language going forward, especially with the border openings.",
         "score": 4,
         "thumbsUpCount": 62,
@@ -1238,7 +1286,7 @@
     {
         "reviewId": "gp:AOqpTOH7Aw2Q89k9HDTxOnONA3of1_V4lvFrLXK4gZqnsZ6Au2dHUneIpfE_9O4uwk2Y36OOptZF1DLwjIAoQg",
         "userName": "Casper Fabricius",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjVHTbRUH9NXMMJ094HvewkS3FFvoNhgR46B9-w",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjVHTbRUH9NXMMJ094HvewkS3FFvoNhgR46B9-w",
         "content": "Fint lavet.",
         "score": 5,
         "thumbsUpCount": 1,
@@ -1250,7 +1298,7 @@
     {
         "reviewId": "gp:AOqpTOEkZzg9w9sG_-dNIB8Yh22iQnOexnT4b8ymdJS-B4Z97-8fwWebOlLpz3QqdAlQe302tjxzH95XIHGpig",
         "userName": "Michael Tvermoes",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gixhaev6d5MHxtl-PfHhzvq3TcJHetA8fR5d0961AE",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gixhaev6d5MHxtl-PfHhzvq3TcJHetA8fR5d0961AE",
         "content": "Meget simpel og forklarer godt hvordan den fungerer. H\u00e5ber mange vil bruge den :)",
         "score": 5,
         "thumbsUpCount": 1,
@@ -1262,7 +1310,7 @@
     {
         "reviewId": "gp:AOqpTOErZZez8rdsURbfBWRjUOLGU1okCU-4TZk2x90aANFfUAxjfHL_NtzLCTmVxKl3RcclbNMZAFw9Rg_6lw",
         "userName": "Peter Pilgaard Rasmussen",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gjf0Lx47TOpEeZRLsh7q2v4aIhCsw2pH7cq3VU",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gjf0Lx47TOpEeZRLsh7q2v4aIhCsw2pH7cq3VU",
         "content": "App'en virker ikke uden at GPS er t\u00e6ndt. S\u00e5 k\u00e6re ministerium, kontakt jeres udviklere og fort\u00e6l dem om problemet i stedet for at lire et standardsvar af. Edit: I Google COVID-19 Exposure Noti cations Service Additional Terms st\u00e5r der i punkt 3. c. Permissions .: i. Your App may not request the Location, Bluetooth_Admin, Special Access, Privileged, or Signature permissions, or collect any device information to i dentify or track the precise l ocation of end users. S\u00e5 I m\u00e5 ikke kr\u00e6ve Location.",
         "score": 1,
         "thumbsUpCount": 5,
@@ -1274,7 +1322,7 @@
     {
         "reviewId": "gp:AOqpTOG7hKwd4TJ-k5__xwOlcDiApuLnU02isKPX0QRIOC5-UV4D8Kz3uZDse9tkEzScVbZr6QXM7oHNFF_S5Q",
         "userName": "Sofus W\u00fcrtz",
-        "userImage": "https://lh3.googleusercontent.com/-aoydy0P3Aok/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckcviF2pGVvPGsDaww5F9Yd95RGrA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-aoydy0P3Aok/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckcviF2pGVvPGsDaww5F9Yd95RGrA/photo.jpg",
         "content": "Meget simpel to-the-point app. Bad kun om adgang til exposure notification, og ikke kamera, lager, gps eller hvad ved jeg.",
         "score": 5,
         "thumbsUpCount": 23,
@@ -1286,7 +1334,7 @@
     {
         "reviewId": "gp:AOqpTOHWG6z6LJ2ReC9cN-ttyHzWc9NIdKJymQdMNaWeiqaN0-c6y-4TV0E1qZM34MvZGBBz0x-q-gzo0nT5Kg",
         "userName": "Kristian Moon",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GivkUpGgzpfuLLWzwvu_VZoUhGeyjjgZRp06lS4Ww",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GivkUpGgzpfuLLWzwvu_VZoUhGeyjjgZRp06lS4Ww",
         "content": "Tilpas simpel til at alle kan bruge den. Tilpas sikker til at ingen b\u00f8r lade v\u00e6re.",
         "score": 5,
         "thumbsUpCount": 8,
@@ -1298,7 +1346,7 @@
     {
         "reviewId": "gp:AOqpTOGxNI1uRK9LJfFc3emwlA5ZGdKGjH0fdDGq-N0XhjaVDq63JQOGJKGTzViDIRIOMrtEo0To9tDQvv4AUg",
         "userName": "Hjalte Mansa",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiWznWICWfr0ZAeWrWROzEOK85cfWbotrXUv-whOg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiWznWICWfr0ZAeWrWROzEOK85cfWbotrXUv-whOg",
         "content": "Non-intrusive and securing for the user! I fully approve!",
         "score": 5,
         "thumbsUpCount": 23,
@@ -1310,7 +1358,7 @@
     {
         "reviewId": "gp:AOqpTOFLsDEyAgmzBNVrMmcilIJrzsaPlhrDTeo3Itaf7uNXVmaJovCMTOUU4O4PzoqLH3EJusrPHpB6iOQemA",
         "userName": "Esben Neander Kristensen",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjczfRszp7_F30kffNMkUwXs9xzCjr9VaYzS3Ffh5w",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjczfRszp7_F30kffNMkUwXs9xzCjr9VaYzS3Ffh5w",
         "content": "Fantastisk at den faktisk bruger exposure notifications fra Google selv, i stedet for et selvopfundet system, der ikke respekterer brugerens data og privatliv. Fin og enkel app.",
         "score": 5,
         "thumbsUpCount": 19,
@@ -1334,7 +1382,7 @@
     {
         "reviewId": "gp:AOqpTOGXEPt26H2qdjIwliE6h8LOiQKwZFvKFGzNhYRCzq56AaDPQraVU9Ud9qLIcfql7qBfnwIYqYEuV5gkxw",
         "userName": "Helmar Tr\u00e4ger",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgR9atHdzNba6AYA5UqwMvF_5PKBFqPj8MFlhxn8Q",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgR9atHdzNba6AYA5UqwMvF_5PKBFqPj8MFlhxn8Q",
         "content": "Der st\u00e5r i app'en at den ikke bruger min lokation. Men app'en kr\u00e6ver at jeg t\u00e6nder for min gps. Det h\u00e6nger ikke sammen. Endvidere har min telefon ikke batteri til at have b\u00e5de gps og bluetooth k\u00f8rende konstant samtidig. Bluetooth kan g\u00e5 an.",
         "score": 2,
         "thumbsUpCount": 6,
@@ -1346,7 +1394,7 @@
     {
         "reviewId": "gp:AOqpTOEXMMT16bF4FHcn-pSHLUueqyCYx_zu5loizSiF8LqHxS9DsKIlz1zW1_IyiN2-c4VNz4dpJ6yBzMbGRw",
         "userName": "Jesper Jakobsen",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjANyPV9nRrTxQ3ZzHIL0NTeluwu0NvKkiE_4Ux",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjANyPV9nRrTxQ3ZzHIL0NTeluwu0NvKkiE_4Ux",
         "content": "Den ser ud til at virke p\u00e5 en simpel m\u00e5de uden alt muligt overfl\u00f8dig.",
         "score": 5,
         "thumbsUpCount": 10,

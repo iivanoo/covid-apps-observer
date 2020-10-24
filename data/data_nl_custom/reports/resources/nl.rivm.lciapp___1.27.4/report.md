@@ -216,6 +216,8 @@ The RIVM LCI-richtlijnen app has been installed by more than **50000** times. At
 <img src="1_star_reviews_wordcloud.png" alt="nl.rivm.lciapp 1 reviews"/>
 </p>
 
+> In geen 1000 jaar dat ik dit gedrocht download , zijn jullie helemaal van de ratten besnuffeld .<br> :date: __2020-10-21 21:24:33__
+
 > Of deze app wel of niet goed is moeilijk om te bepalen. De bewoording is voor experts binnen hun eigen vakgebied misschien te begrijpen, ook al begrijpen mijn zussen die dierenarts en chemicoloog zijn en ikzelf dit niet. Graag zou ik deze app zien zodat deze voor iedereen vanaf 7 jaar begrijpbaar is met overal een link naar extra medisch/technische uitleg voor wetenschappers.<br> :date: __2020-10-15 22:17:26__
 
 > Downloaden lukt niet.<br> :date: __2020-10-11 12:21:38__
@@ -233,7 +235,5 @@ The RIVM LCI-richtlijnen app has been installed by more than **50000** times. At
 > Is hij nu al uit de lucht? Krijg de melding dat er geen internet is. Meteen weer verwijderd<br> :date: __2020-07-25 00:00:59__
 
 > Kan geen gegevens down loden geeft aan geen internet( er is welinternet)<br> :date: __2020-07-24 22:58:17__
-
-> Waardeloos, geeft steeds melding " geen internet, gegevens nog niet gedownload"<br> :date: __2020-07-22 23:05:31__
 
 

@@ -159,6 +159,8 @@ The Covid Trace Nevada app has been installed by more than **10000** times. At t
 <img src="3_star_reviews_wordcloud.png" alt="gov.nv.dhhs.en 3 reviews"/>
 </p>
 
+> Requires having Bluetooth on at all times which drains my battery. It also keeps giving me drop down notifications even though I disabled notifications. I have an android.<br> :date: __2020-10-22 17:34:36__
+
 > No exp. yet- just wondering- if u really want to PREVENT the spread of covid, wouldn't it be better to come up with an app that tracks actual outbreaks/cases, then alert ppl? Or, if I'm going into a high risk area. Let me kno? I'm pretty much buggered if I've already been exposed. Jus sayin<br> :date: __2020-10-14 05:27:02__
 
 > the only reason im downloading this is because it wont let me download some other games<br> :date: __2020-10-02 23:20:13__
@@ -201,6 +203,12 @@ The Covid Trace Nevada app has been installed by more than **10000** times. At t
 <img src="1_star_reviews_wordcloud.png" alt="gov.nv.dhhs.en 1 reviews"/>
 </p>
 
+> Requires bluetooth to be on to work correctly. Not bad, but not great either. Also has not updated since 10:54pm which is when I downloaded the app 2days ago. So did it work while I was out shopping? Can't tell. Good concept but the final product seems to be glitched.<br> :date: __2020-10-24 06:19:16__
+
+> Does not update or refresh. I have to clear the storage and restart the App for it to update and refresh<br> :date: __2020-10-23 04:03:23__
+
+> Only time it has ever updated was on initial install. Since then, nothing. Junk app.<br> :date: __2020-10-19 00:30:07__
+
 > App installed and loaded fine. It now refuses to refresh from the time it was downloaded and installed. If this app refuses to refresh as it is supposed to, what good does it do me??<br> :date: __2020-10-16 20:09:29__
 
 > Does not update. If it is not updating why have it on my phone. I will use it when its start working.<br> :date: __2020-10-16 04:05:36__
@@ -214,11 +222,5 @@ The Covid Trace Nevada app has been installed by more than **10000** times. At t
 > The only reason we're not getting alerts is because nobody in nevada has used this app (yet) to report their exposure/positive covid19 result(s).<br> :date: __2020-09-16 16:39:01__
 
 > A joke. The app almost never updates. You could be all around people with covid and would never know. This app is totally pointless<br> :date: __2020-08-31 03:53:05__
-
-> Can't get past the third page of setup<br> :date: __2020-08-26 06:12:39__
-
-> In get started portion before i can use app, it will not respond to CONTINUE button on 3rd page after watching 37 second video. I CAN'T GET PAST THIS. HELP PLEASE.. Using Android 9 from Google play store.<br> :date: __2020-08-26 01:12:32__
-
-> Can't get beyond the continue which is blacked out except for a small clear patch. Another person had the same problem and said the programmer showed him how to get beyond that point. Unfortunately he didn't bother to tell what it was<br> :date: __2020-08-25 22:30:38__
 
 

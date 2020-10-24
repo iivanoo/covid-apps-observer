@@ -138,6 +138,8 @@ The WHO Info app has been installed by more than **100000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="org.who.infoapp 5 reviews"/>
 </p>
 
+> 😊😊😊<br> :date: __2020-10-21 18:17:56__
+
 > I. AM. BELIVE. W. H. O<br> :date: __2020-10-04 06:51:53__
 
 > I like to see a update on what's going on please<br> :date: __2020-09-23 12:20:19__
@@ -155,8 +157,6 @@ The WHO Info app has been installed by more than **100000** times. At this time,
 > Great APPLICATION<br> :date: __2020-08-11 16:17:00__
 
 > Very important app to continue to keep an eye on this pandemic serious app tell alot about what is going on<br> :date: __2020-08-04 16:57:56__
-
-> You<br> :date: __2020-08-04 10:03:36__
 
 
 
@@ -234,6 +234,8 @@ The WHO Info app has been installed by more than **100000** times. At this time,
 <img src="1_star_reviews_wordcloud.png" alt="org.who.infoapp 1 reviews"/>
 </p>
 
+> Very scammers<br> :date: __2020-10-19 19:45:47__
+
 > I just downloaded it, but every time I open it just say "an error occur check your connectivity" or something like that... didn't work...<br> :date: __2020-10-10 17:24:54__
 
 > Does not work<br> :date: __2020-10-09 00:12:33__
@@ -251,7 +253,5 @@ The WHO Info app has been installed by more than **100000** times. At this time,
 > It doesn't even work<br> :date: __2020-07-30 20:38:39__
 
 > The app does not show me anything. Since I downloaded it I have not been able to use it. When I open it nothing shows so I wonder why some people are giving you thumbs up<br> :date: __2020-07-05 05:34:15__
-
-> Jahangir<br> :date: __2020-06-19 05:46:57__
 
 

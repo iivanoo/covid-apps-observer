@@ -121,6 +121,8 @@ The GVA Coronavirus app has been installed by more than **10000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="es.gva.coronavirus 5 reviews"/>
 </p>
 
+> Buena aplcasion<br> :date: __2020-10-22 20:36:42__
+
 > Me parece una aplicación muy útil. Es fácil de usar, informativa y lo más importante: te atienden rápido.<br> :date: __2020-10-07 09:42:29__
 
 > No se resien la aplico<br> :date: __2020-09-23 21:44:49__
@@ -138,8 +140,6 @@ The GVA Coronavirus app has been installed by more than **10000** times. At this
 > Clara y fácil de utilizar<br> :date: __2020-04-13 12:42:52__
 
 > Eficaz<br> :date: __2020-04-11 15:20:29__
-
-> La mejor App que he probado hasta ahora sobre el coronavirus. Muy intuitiva y con información muy práctica.<br> :date: __2020-04-08 14:26:12__
 
 
 

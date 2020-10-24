@@ -11,34 +11,34 @@
         "store_country": "ru",
         "store_lang": "ru",
         "latest_crawled_version": "1.7",
-        "latest_crawl": 1603013733
+        "latest_crawl": 1603526513
     },
     {
         "id": "org.who.infoapp",
         "store_country": "ru",
         "store_lang": "ru",
         "latest_crawled_version": "3.1",
-        "latest_crawl": 1603013988
+        "latest_crawl": 1603526519
     },
     {
         "id": "ru.mos.socmon",
         "store_country": "ru",
         "store_lang": "ru",
         "latest_crawled_version": "1.8",
-        "latest_crawl": 1603014033
+        "latest_crawl": 1603526525
     },
     {
         "id": "de.xikolo.openwho",
         "store_country": "ru",
         "store_lang": "ru",
         "latest_crawled_version": "3.6",
-        "latest_crawl": 1603014040
+        "latest_crawl": 1603526533
     },
     {
         "id": "ru.mos.polls",
         "store_country": "ru",
         "store_lang": "ru",
         "latest_crawled_version": "2.22.1",
-        "latest_crawl": 1603014144
+        "latest_crawl": 1603526543
     }
 ]

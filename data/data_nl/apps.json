@@ -4,27 +4,27 @@
         "store_country": "nl",
         "store_lang": "nl",
         "latest_crawled_version": "1.27.4",
-        "latest_crawl": 1603009878
+        "latest_crawl": 1603525051
     },
     {
         "id": "org.who.infoapp",
         "store_country": "nl",
         "store_lang": "nl",
         "latest_crawled_version": "3.1",
-        "latest_crawl": 1603010022
+        "latest_crawl": 1603525059
     },
     {
         "id": "nl.focuscura.beeldbelapp",
         "store_country": "nl",
         "store_lang": "nl",
         "latest_crawled_version": "4.28.0",
-        "latest_crawl": 1603010418
+        "latest_crawl": 1603525064
     },
     {
         "id": "de.xikolo.openwho",
         "store_country": "nl",
         "store_lang": "nl",
         "latest_crawled_version": "3.6",
-        "latest_crawl": 1603010554
+        "latest_crawl": 1603525071
     }
 ]

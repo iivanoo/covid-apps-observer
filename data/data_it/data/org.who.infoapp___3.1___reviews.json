@@ -1,8 +1,20 @@
 [
     {
+        "reviewId": "gp:AOqpTOEJTgE2Oq2De4cABP2stjDAiACCCHSoIqrszwrVH6zOl1d-u3YYdX1TFg0X9xNgGhMALfEkP2vxEBZEVLw",
+        "userName": "Prova Prova",
+        "userImage": "https://play-lh.googleusercontent.com/-aeKcBt4pufU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclpQec-NRu2wlQfdXbD3m8IyPTaYA/photo.jpg",
+        "content": "Fatelo anche in italiano grazie",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2020-10-18 21:06:47",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOHfd9PGVKwAMGP0f8FRJMKV3eTQjFeThNbXIcUl3k2nEQ7T18R-_XuUC-LFoRYQXej2AlPc2aGl2QjYnZ0",
         "userName": "Raffaele Covito",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgNGuMZVfEKSkbMn7bVcZescJs7zlXx-VLiFiRqVA",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgNGuMZVfEKSkbMn7bVcZescJs7zlXx-VLiFiRqVA",
         "content": "App ben fatta, unica pecca poche sincronizzazioni con enti nazionali e di epidemiologia",
         "score": 5,
         "thumbsUpCount": 2,
@@ -14,7 +26,7 @@
     {
         "reviewId": "gp:AOqpTOG91cSimzmUNOra260TWnXyfPyutlyrMvhe0HhFV6nr1dYYY94t4LcYraFzRbtwKr0Ten_bkmfKVh214hY",
         "userName": "Delvis Alba",
-        "userImage": "https://lh3.googleusercontent.com/-Tljc9tfM_Jc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnMhEk3Dk5C8JgE-tcSBStVbsdWKQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-Tljc9tfM_Jc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnMhEk3Dk5C8JgE-tcSBStVbsdWKQ/photo.jpg",
         "content": "Non serve a niente . vorrei darle meno di una stella ma non si poe \ud83d\ude04\ud83d\ude04\ud83d\ude04",
         "score": 1,
         "thumbsUpCount": 0,
@@ -26,10 +38,10 @@
     {
         "reviewId": "gp:AOqpTOFd0hHjX_b4PEwzXbh-6RCwk1nzDMMeknNvW2envlG2cagKnoGQYB9D5k3Q5RtXqkmJ8IK3xnwhA6m7yKA",
         "userName": "Z di",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgqGSPEWwZEsB-xoCpvnGinzZcW6Wec3ZOdxcAK",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgqGSPEWwZEsB-xoCpvnGinzZcW6Wec3ZOdxcAK",
         "content": "Non riconosce Taiwan e Hong Kong nella ricerca del paese desiderato. Ci\u00f2 indica che WHO si \u00e8 venduta alla Cina. Male male, come sempre il governo cinese non ha anima.",
         "score": 1,
-        "thumbsUpCount": 7,
+        "thumbsUpCount": 8,
         "reviewCreatedVersion": "2.2.0",
         "at": "2020-07-23 15:04:05",
         "replyContent": null,
@@ -38,7 +50,7 @@
     {
         "reviewId": "gp:AOqpTOE1TqVzZPYM_oyOBnTA9ZM_yc6uH9vKfRiphQ-3ROIya1V3AHzvP8PUG6NELXvlvnr0NbhRiNmXMuk_mto",
         "userName": "Silvana Bricca",
-        "userImage": "https://lh3.googleusercontent.com/-fPM7qBcDAvQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnnmzAddcZhlCgyc2xXgorbtSDRWg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-fPM7qBcDAvQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnnmzAddcZhlCgyc2xXgorbtSDRWg/photo.jpg",
         "content": "Visto che molte persone non conoscono l'inglese (e tra queste anche io)sarebbe pi\u00f9 opportuno metterla in italiano",
         "score": 1,
         "thumbsUpCount": 1,
@@ -50,7 +62,7 @@
     {
         "reviewId": "gp:AOqpTOGD5_2MaMY9u39qGmU_rtLpOCuVBm3P_3sDQwDJvpwz-3isTG9FrCXtWh9l1YsQWeAbnYb2KLsMBckhJ-8",
         "userName": "- Heavy",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhcXnh_JsjcFE3ez193t38FlkB7YSIVoj6vqGk5Jg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhcXnh_JsjcFE3ez193t38FlkB7YSIVoj6vqGk5Jg",
         "content": "Ma \u00e8 possibile che tutti quelli che abbiano istallato l'app non conoscano l'Inglese? (O almeno l'Italiano visto che lo parlate, ma non sembrerebbe) C'\u00e8 pi\u00f9 ignoranza di quanta ne servirebbe nelle critiche.",
         "score": 3,
         "thumbsUpCount": 2,
@@ -62,7 +74,7 @@
     {
         "reviewId": "gp:AOqpTOGV8JuGbBFX2RjdXk-SBkW6F-PVzIg3HltRqjulErIq6k3nWWT0jdwPLVkllYbPJjv1Mg-idBC8NdbeXMc",
         "userName": "samantha merola",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiynZcFtuI7acYnD4YENLy-Vxo7G5KUvyqkDdDSUA",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiynZcFtuI7acYnD4YENLy-Vxo7G5KUvyqkDdDSUA",
         "content": "Non si apre mi da errore",
         "score": 1,
         "thumbsUpCount": 0,
@@ -74,7 +86,7 @@
     {
         "reviewId": "gp:AOqpTOE7JGlna9i-066YZRkRPcMPDu8P5i81bh5n7l_VejdLLcsy8fBkKLTyVaR8BUJd2j9cnbHYjiuIUOF66yc",
         "userName": "FRANCESCO IMBRIANO",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiOoRifN2uLx18rjtZBg-yeupOH-jK6-QDtqkS-3w",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiOoRifN2uLx18rjtZBg-yeupOH-jK6-QDtqkS-3w",
         "content": "Uti",
         "score": 5,
         "thumbsUpCount": 1,
@@ -89,7 +101,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-aQQWAJuhebI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckvr4N2R173wmzfL0aOfy-8XpR_dw/photo.jpg",
         "content": "Non si apre, inoltre dato che non tutti conosco l'inglese sarebbe opportuno metterla in ITALIANO.",
         "score": 1,
-        "thumbsUpCount": 66,
+        "thumbsUpCount": 68,
         "reviewCreatedVersion": "2.1.1",
         "at": "2020-05-31 15:19:43",
         "replyContent": null,
@@ -98,7 +110,7 @@
     {
         "reviewId": "gp:AOqpTOHk2Hw-nqBrsuUjkrkSUTMuhe2k1opVEFYFfyNkVSW6AmAvUU5MwzxGPirZK-ZUuCsJtIT--wAbAbkaf4s",
         "userName": "N1C0 G4M3R 07",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gh0p-tuWfOlHltgceolUQB1b9NFkQJyUzHMr_xvuA",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh0p-tuWfOlHltgceolUQB1b9NFkQJyUzHMr_xvuA",
         "content": "Inutile...",
         "score": 1,
         "thumbsUpCount": 2,
@@ -122,7 +134,7 @@
     {
         "reviewId": "gp:AOqpTOHA2ux14XCJHncpCPHjxwI--gCY9os0lZIzD1YYGwkB-Y4DLdvPjV6lXl29zjhk-7hs3YHNf4FHoyzTAsg",
         "userName": "Myriam Zizola",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GggJ4eSWtikNpGsj0Ra1cPGobX5R0LOy331eiYLDw",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GggJ4eSWtikNpGsj0Ra1cPGobX5R0LOy331eiYLDw",
         "content": "Io non conosco l'inglese non si potrebbe averla in italiano visto che siamo in Italia ?",
         "score": 1,
         "thumbsUpCount": 99,
@@ -134,7 +146,7 @@
     {
         "reviewId": "gp:AOqpTOGk_Ht6aWw9LVyN5oqc7-SjHWI3lfawkpGx2_Qftgi5DU33OI4NveCd6YVxzR9UK73hIcteQdK1wb3QuHM",
         "userName": "Pieraldo Chiappa",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgTxhwRhIqJOx59oyxf0x6u9F2LCH2iVPijJE6Of8Q",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgTxhwRhIqJOx59oyxf0x6u9F2LCH2iVPijJE6Of8Q",
         "content": "Molto utile per me che viaggio molto.",
         "score": 5,
         "thumbsUpCount": 2,
@@ -146,7 +158,7 @@
     {
         "reviewId": "gp:AOqpTOFaI4dKVp0oKPAAo_0bs-MMfABuM9qvnGs3OST7cEogOTrjqQcciQ_LYw-DdPrgASdwhaqYRPA83ZCXxyU",
         "userName": "Tea Alijaj",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gjrq_yMcSn_rzgsQUCGiLTVuNRP2RJPNrpndx1E",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gjrq_yMcSn_rzgsQUCGiLTVuNRP2RJPNrpndx1E",
         "content": "Per me questa ap \u00e9 molto utile in questo momento difficile ma noi siamo molto forti e vinceremo per\u00f2 per ora restamo a casa",
         "score": 5,
         "thumbsUpCount": 42,
@@ -158,7 +170,7 @@
     {
         "reviewId": "gp:AOqpTOGHjhJQM9IXmNr0BEFuEtxD8ybP79Q63hcbOhr7x3ZrybRrtUPiAl9p9ngqVlLQw304W1ArHkPjaUXD_6g",
         "userName": "Mihaela Parlapan",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiTiZiorKj7F8sErLP3pzEJrgPYlbipq4Dn4x7n",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiTiZiorKj7F8sErLP3pzEJrgPYlbipq4Dn4x7n",
         "content": "Lo prov\u00f2 se va benne",
         "score": 5,
         "thumbsUpCount": 18,
@@ -170,7 +182,7 @@
     {
         "reviewId": "gp:AOqpTOHtFOW7lt2gScok2Cr7akEq_8ADx1LMV5aGp69kHvJdLRX--5WIuEKT3hv_AmczfjeT5bqVWYRvQkL0_g0",
         "userName": "martina Batistini",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjwesN5vZ6aayPsBrocCzCcLH_9gJYg6C9RxzenuQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjwesN5vZ6aayPsBrocCzCcLH_9gJYg6C9RxzenuQ",
         "content": "Non funziona",
         "score": 1,
         "thumbsUpCount": 20,

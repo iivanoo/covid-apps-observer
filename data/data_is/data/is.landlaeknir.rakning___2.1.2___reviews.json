@@ -1,8 +1,32 @@
 [
     {
+        "reviewId": "gp:AOqpTOFIWMGDaj7SfTXMKtrStunFBDmGKFc1m_6jTW5gOfmxPt1Ff_pxJ7ZEpIMG7LykPqh7vpTEZhT2f_lnmbw",
+        "userName": "Bergur k\u00e1ri \u00c1sgr\u00edms",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgCA-bzufu3FAzSuRTRz2LXwjgMAHIiFNhTcND-",
+        "content": "F\u00ednt \u00e1 h\u00f6fu\u00f0borgarsv\u00e6\u00f0inu ef \u00fe\u00fa ert \u00e1 fer\u00f0inni",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2020-10-21 20:15:10",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFp1ve6lnjndkY0WpAVl4ORdxUbOc4kuxXVGk8yJQK5D86ReF1ad6Y90o03dbuRk0y5ysGNcxIdCtzRx1s",
+        "userName": "P\u00e1ll Karel",
+        "userImage": "https://play-lh.googleusercontent.com/-f32TBScCQkQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl1sICrlc6_O0-IoIN1RoajqSo8Gw/photo.jpg",
+        "content": "\u00d3\u00e1n\u00e6g\u00f0ur me\u00f0 \u00feetta app er me\u00f0 n\u00fdjan s\u00edma me\u00f0 n\u00fdrri rafhl\u00f6\u00f0u og \u00feurfti a\u00f0 hla\u00f0a sjaldan \u00fear sem hann er n\u00fdr, svo s\u00f3tti \u00e9g apppi\u00f0 og rafhla\u00f0an bara lekur liggurvi\u00f0, get jafnvel horft \u00e1 pr\u00f3sentin hverfa. \u00deetta \u00fearf a\u00f0 laga ef a\u00f0 eg \u00e1 a\u00f0 vera me\u00f0 \u00feetta app.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2020-10-18 13:16:17",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOHRVHuJuDJ2ExYZ-7Ed7H48dbtsxdEhuko78HDCu0bcz9_n0kpkmuhYbfAuEGujVHTrcjmU-1Tx7D05Nns",
         "userName": "Mar\u00eca Krist\u00f3fersd\u00f3ttir",
-        "userImage": "https://lh3.googleusercontent.com/-AfEd87VGAF8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmBsuBl0tKlgzqQqYvuebyLrGLwrg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-AfEd87VGAF8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmBsuBl0tKlgzqQqYvuebyLrGLwrg/photo.jpg",
         "content": "Mj\u00f6g gott, virkar vel hj\u00e1 m\u00e9r.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -14,7 +38,7 @@
     {
         "reviewId": "gp:AOqpTOHmLi-EIwfnoV3Shm06BkmFbF3DZWGNDwWST9H9iXbzWpXp6YaJb-WeGDFpChBzK3hgKkAan_lIv2tkjMg",
         "userName": "Unnar Gunnarsson",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgAQkFxWvFLJ0CEiVtJvWA4ZHjtg2rTuBgTFWbgOA",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgAQkFxWvFLJ0CEiVtJvWA4ZHjtg2rTuBgTFWbgOA",
         "content": "\u00dea\u00f0 er l\u00edti\u00f0 gagn af \u00feessu nau\u00f0synlega appi ef \u00fea\u00f0 er engan veginn h\u00e6gt treysta \u00fev\u00ed a\u00f0 \u00fea\u00f0 s\u00e9 virkt 24/7... dettur \u00fat \u00e1 2-3 daga fresti og \u00fearf \u00fev\u00ed a\u00f0 r\u00e6sa \u00fea\u00f0 endurteki\u00f0 \u00feess vegna!!",
         "score": 1,
         "thumbsUpCount": 0,
@@ -26,7 +50,7 @@
     {
         "reviewId": "gp:AOqpTOHj2AhpsEanDiTYDQK_-6M4TW-mMKN6aDZy6w1mJNy8vvVfChYHvd3MzRgUT7IoGYRBqt2XEeRB70IDXoY",
         "userName": "\u00d3l\u00f6f P\u00e1lsd\u00f3ttir",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgbMOakSrjI0fGeXuAreYI9FyWrcvxLmJ2SPFkSRA",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgbMOakSrjI0fGeXuAreYI9FyWrcvxLmJ2SPFkSRA",
         "content": "V\u00e6ri fr\u00e1b\u00e6rt ef \u00feetta myndi virka. Dettur \u00fat \u00e1 sirka tveggja daga fresti. \u00dearf alltaf a\u00f0 vera a\u00f0 r\u00e6sa \u00fea\u00f0 aftur :(",
         "score": 1,
         "thumbsUpCount": 0,
@@ -38,7 +62,7 @@
     {
         "reviewId": "gp:AOqpTOGtgVc9a-UeSnlaXznwGQPkfVcJJxecI5bfAVGBQQoUr6olKlYOlFfjRlrnyyi0zR2Su7T5Qd7NwUQe7CU",
         "userName": "Valdimar Svavarsson",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gh8AFqTwwIofWC3y_ZTxgBe3pDchHzyAPUhDhJY",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh8AFqTwwIofWC3y_ZTxgBe3pDchHzyAPUhDhJY",
         "content": "Fr\u00e1b\u00e6rt app",
         "score": 4,
         "thumbsUpCount": 0,
@@ -62,7 +86,7 @@
     {
         "reviewId": "gp:AOqpTOFr_P8imxkvfxK5AuLDycMy-XC8S5h6NS4evKcgM1LTX1QDGrwad01R2RDGaZRfDZU6sjycBbLCePPMHiU",
         "userName": "J\u00f3hanna Gu\u00f0mundsd\u00f3ttir",
-        "userImage": "https://lh3.googleusercontent.com/-2BrSCR5yIQ4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclR_65j782X2UbEl2dZLowV4xZdAg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-2BrSCR5yIQ4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclR_65j782X2UbEl2dZLowV4xZdAg/photo.jpg",
         "content": "Snilldin ein",
         "score": 5,
         "thumbsUpCount": 0,
@@ -74,7 +98,7 @@
     {
         "reviewId": "gp:AOqpTOHmJ0jbAQ4CxA9MTzyvTccSCvFC6HO7NWKwU5FI_OeFInmnHqFS8ENISsSEN_U59Vhd144GObpdJY-rE2Y",
         "userName": "Erna Gunnarsd\u00f3ttir",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjO1ozPCWNhEgG1iQ2x7q_EMYXzXyRrIFedolhc",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjO1ozPCWNhEgG1iQ2x7q_EMYXzXyRrIFedolhc",
         "content": "\u00c9g er a\u00f0 lenda \u00ed \u00fev\u00ed a\u00f0 tilkynning sem \u00e1 alltaf a\u00f0 vera opin. Lokist og \u00e9g \u00fearf a\u00f0 fara inn i forriti\u00f0 til a\u00f0 opna aftur. Veit um engan annan sem er a\u00f0 lenda i \u00fev\u00ed sama",
         "score": 2,
         "thumbsUpCount": 6,
@@ -98,7 +122,7 @@
     {
         "reviewId": "gp:AOqpTOEGKAbDX3iJvVl42fHyFW2Z_V4cTYp2mSDVpeukZwd7HnyosmdqhhTINlNTWCtkb1pflvMJhSa7Dhxm-RI",
         "userName": "Hafdis Berg Sigurdardottir",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Ghz01Vxa39e3GI6b7Gm1Y85Qo_iFce11FfpMkoMVQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ghz01Vxa39e3GI6b7Gm1Y85Qo_iFce11FfpMkoMVQ",
         "content": "Finst mer vera \u00f6rugari",
         "score": 4,
         "thumbsUpCount": 0,
@@ -122,7 +146,7 @@
     {
         "reviewId": "gp:AOqpTOHlGECr_hyiuUxNhlLYIPLNDWq0oiPTzafwyUCqEFJtWg6tYbD5F-tUMYYyfJW1-GiYW7N6sk_jftcO9V4",
         "userName": "Anna Clara Bj\u00f6rgvinsd\u00f3ttir",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gi4xu33llST3EEk-AnjPz90Mqzz4kCyDN_2Qj_L9Kw",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi4xu33llST3EEk-AnjPz90Mqzz4kCyDN_2Qj_L9Kw",
         "content": "\u00deetta fr\u00fds \u00ed hv\u00edvetna, ekki h\u00e6gt a\u00f0 opna. \u00deegar \u00fe\u00fa n\u00e6r\u00f0 aftur \u00ed appi\u00f0 getur \u00fe\u00fa opna\u00f0 \u00fea\u00f0 einu sinni en ekki \u00fdtt \u00e1 spjall e\u00f0a neitt?? Hver er tilgangurinn me\u00f0 \u00feessu appi ef f\u00f3lk getur ekki n\u00fdtt s\u00e9r \u00fea\u00f0?",
         "score": 1,
         "thumbsUpCount": 0,
@@ -134,7 +158,7 @@
     {
         "reviewId": "gp:AOqpTOGV8exfboe2FW7xxDP9mEosboMsgFn3eiMLaXR8nWINCnxPw-V2zIG-C8grU1OzbDkrqrsN9Ykgh2fJPeI",
         "userName": "Fannar Palmieri",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gjn9e_FptVidQA7IdlFF3lfQp1MynBZD1eJeYLbgA",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gjn9e_FptVidQA7IdlFF3lfQp1MynBZD1eJeYLbgA",
         "content": "\u00c9g f\u00e9kk tilkynningu fr\u00e1 \u00feeim og appi\u00f0 opnast ekki??? Sama \u00fe\u00f3tt \u00e9g setji \u00fea\u00f0 aftur upp e\u00f0a endurr\u00e6si s\u00edmann! Algert rusl \u00feetta app",
         "score": 1,
         "thumbsUpCount": 6,
@@ -146,7 +170,7 @@
     {
         "reviewId": "gp:AOqpTOGMiDwt5rqWmtGd87oPfkn6Z0PZmkgwkq7u_WAv3luiiJ9tUUTwm5aUwVxdVYv5Usy9kZcEEOQ48-rFd_Y",
         "userName": "G\u00edsli \u00de\u00f3r Gunnarsson",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhHBgaIBeOm5ZLBNnMToSEPOf9ruGSw1_SMFLV9xF4",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhHBgaIBeOm5ZLBNnMToSEPOf9ruGSw1_SMFLV9xF4",
         "content": "Rafhla\u00f0an kl\u00e1rast frekar hratt, en tilgangurinn g\u00f6fugur.",
         "score": 4,
         "thumbsUpCount": 2,
@@ -158,7 +182,7 @@
     {
         "reviewId": "gp:AOqpTOGYjWTKdk3SQ158u2e2Qcf_oCO7uYBl7tadNE4NZ24jH0qHlBFFlc4RH3V6eR0JpzZSbEw9u-HEoxTfRP0",
         "userName": "Kolbeinn Stein\u00fe\u00f3rsson",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GifxXDILlQULTMumh29Q6XyNHlsZVTVyysuBSIEyQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GifxXDILlQULTMumh29Q6XyNHlsZVTVyysuBSIEyQ",
         "content": "Fr\u00fds, \u00feungt \u00e1 batter\u00ed.",
         "score": 2,
         "thumbsUpCount": 4,
@@ -170,7 +194,7 @@
     {
         "reviewId": "gp:AOqpTOHc7NfVMqZz70DRphUP0PLTpYDsHQKe4KM4ORYQBUM81ad19DCpsj1JsNv_ozP9nAS-fRa6Q0lkY40ufiI",
         "userName": "Hjatli Sigurj\u00f3n Hauksson",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiIfdmQzxGPQWmguV4opJWSbUF8spW5Z_nMbT22sWc",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiIfdmQzxGPQWmguV4opJWSbUF8spW5Z_nMbT22sWc",
         "content": "Veitir \u00f6ryggi",
         "score": 5,
         "thumbsUpCount": 1,
@@ -182,7 +206,7 @@
     {
         "reviewId": "gp:AOqpTOH4shDGJkiohEX_XdBIEbA6a8RhWKgSfxjBmiel-iOUiMz4lBGkELsO-B3HYVeDHTBUtW0B38CTDuM9xks",
         "userName": "\u00c1sa D\u00f3ra Finnbogad\u00f3ttir",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgkTFXu-cF5gmNkDePog6ASYChSihVO3KNjyQPA",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgkTFXu-cF5gmNkDePog6ASYChSihVO3KNjyQPA",
         "content": "\u00dea\u00f0 er eiginlega alveg ferlega erfitt a\u00f0 hafa appi\u00f0 \u00ed s\u00edmanum \u00fev\u00ed \u00fea\u00f0 tekur svo miki\u00f0 batter\u00ed!! Flott konsept samt",
         "score": 3,
         "thumbsUpCount": 8,
@@ -206,7 +230,7 @@
     {
         "reviewId": "gp:AOqpTOFDrOaQL4uznQz5vnfXzdA0kc1imZBkVodPN5PhjPakNmeyy6VEk0h3stujdINEa3GNUrNgPY1B0iYLGJE",
         "userName": "\u00c1rni Sigmundsson",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgJixO5SpK2z3OJSKPKg4hLDzYB2s5KcjtM3p3u",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgJixO5SpK2z3OJSKPKg4hLDzYB2s5KcjtM3p3u",
         "content": "Allir \u00e6ttu a\u00f0 vera me\u00f0 \u00feetta forrit!",
         "score": 5,
         "thumbsUpCount": 2,
@@ -230,7 +254,7 @@
     {
         "reviewId": "gp:AOqpTOHyWAFXKd67mZElxN5zuRP9jD2wpxbRP7-Pf9ktubbJIJO6sshKCIatSAV5K3asIvjmjrIt7lyOSORNbgM",
         "userName": "Eva Maria",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gja_1dVmw8ButGRDdPUzfrtB54yIm811D97ZlnaDA",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gja_1dVmw8ButGRDdPUzfrtB54yIm811D97ZlnaDA",
         "content": "Flott app en rafhla\u00f0an er alltaf t\u00f3m \u00fat af \u00feessu appi.",
         "score": 5,
         "thumbsUpCount": 2,
@@ -254,7 +278,7 @@
     {
         "reviewId": "gp:AOqpTOEr9taklTUxvjfKmrxLN0fT-cDkpIpKYHtY15mLdtGmLhfZmHu8Mz8-ZS8pAOQ_1HpUKPVWWtYV6dqLDOo",
         "userName": "Margr\u00e9t E",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhOlvd31q4ZJGPP5ajz26cVd_AAML5wWD3yHUEecw",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhOlvd31q4ZJGPP5ajz26cVd_AAML5wWD3yHUEecw",
         "content": "Takk",
         "score": 5,
         "thumbsUpCount": 0,
@@ -266,7 +290,7 @@
     {
         "reviewId": "gp:AOqpTOGc1IInF5SQvW15L9Sp3zZOR_5S4gZJtfyyJZt4aZetvtMAQoCbZNeDAxZLtOjnM6SDJU4EEKWnjmJyTxk",
         "userName": "dog channel",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgOAkojo8-9Yy44mJFDT4AVS6LuREKbjvv3sf23",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgOAkojo8-9Yy44mJFDT4AVS6LuREKbjvv3sf23",
         "content": "N\u00e6r ekki a\u00f0 rekjast",
         "score": 3,
         "thumbsUpCount": 0,
@@ -278,7 +302,7 @@
     {
         "reviewId": "gp:AOqpTOFZp32PKnioAkYjaRcyFRclrfj4UTp3fFCBN6807xu1aOpa8YfnVjsFTZ6Aw6l2FgjHS8lU89QgTnglVR8",
         "userName": "\u00der\u00f6stur J\u00fal\u00edusson",
-        "userImage": "https://lh3.googleusercontent.com/-7DJeaAhNr5k/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucls_iISLPyNTzBJqOZwy1eIsBSi4g/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-7DJeaAhNr5k/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucls_iISLPyNTzBJqOZwy1eIsBSi4g/photo.jpg",
         "content": "S\u00faper.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -302,7 +326,7 @@
     {
         "reviewId": "gp:AOqpTOGTXXeHcUdvBIvgORZ06ul0-Zry90z078INgBlUY0vI_dkgHx7vKEUnch1VkbkhlP6eQbrRiE1CNSaQ218",
         "userName": "Toti Stori",
-        "userImage": "https://lh3.googleusercontent.com/-ratOPyhaHwo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn-sVejUDnOl8aboDrLzf0f9cd14g/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-ratOPyhaHwo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn-sVejUDnOl8aboDrLzf0f9cd14g/photo.jpg",
         "content": "Traust og \u00f6ruggt",
         "score": 4,
         "thumbsUpCount": 1,
@@ -362,7 +386,7 @@
     {
         "reviewId": "gp:AOqpTOEj2BEu-83y9ru1zTvuNqBUsjdzu0VUaNqHJ5BiGScHFwmHnhsc1xtAsh-baHLyd2TTWo7MJadjF9JwlVQ",
         "userName": "Bennisv Cat",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiCRkilnH4b6uHR0KHJLJkzSvgeII_BOtnKFhLM",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiCRkilnH4b6uHR0KHJLJkzSvgeII_BOtnKFhLM",
         "content": "Hvernig kallar ma\u00f0ur fram rakninga g\u00f6gn \u00far s\u00edmanum?",
         "score": 5,
         "thumbsUpCount": 0,
@@ -374,7 +398,7 @@
     {
         "reviewId": "gp:AOqpTOHfm7xy4fBMTro4TyU3Oc8tUMuGyWAuRtN8LR_-lCutXy11UDM6oYXyr-pg1H2cNltLWvqkXbLxrxFWei8",
         "userName": "Oskar Hardarson",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Ggv8NSmu__R3DskD5pCkO2pVJrNqamLIcG6_8c4",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ggv8NSmu__R3DskD5pCkO2pVJrNqamLIcG6_8c4",
         "content": "Er me\u00f0 Samsung s10 og kemst ekki inn \u00ed \u00feetta f\u00e6 ekki sms me\u00f0 k\u00f3\u00f0anum",
         "score": 1,
         "thumbsUpCount": 1,
@@ -386,7 +410,7 @@
     {
         "reviewId": "gp:AOqpTOEJan1zInH5jbgcxZeKL5YLzx7FUtckKGHnU-9YAJLuWstOyo6hFrcw4PPrRAXbyHnW8r00PR156Z1l-jU",
         "userName": "gunnar rafnsson",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GijZ-aUhU5JJpAK_InoRiiu6e7m2RrT7dEDjNBr3Q",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GijZ-aUhU5JJpAK_InoRiiu6e7m2RrT7dEDjNBr3Q",
         "content": "Lenti \u00ed vandr\u00e6\u00f0um me\u00f0 a\u00f0 setja appi\u00f0 upp \u00ed s\u00edma konunnar kom bara upp frosinn skj\u00e1r \u00e1 3 tungum\u00e1lum. Lausnin er a\u00f0 minnka leturst\u00e6r\u00f0ina \u00ed s\u00edmanum \u00e1 me\u00f0an appi\u00f0 er sett upp",
         "score": 5,
         "thumbsUpCount": 9,
@@ -398,7 +422,7 @@
     {
         "reviewId": "gp:AOqpTOFnLRGRFkD4p4cC3OVYiKj4F5Ub_jOBXh_Pctkf9zIkbHWzsFwueQ13CSygdfE3fBJijq3STjcR8GXiXuQ",
         "userName": "Steinunn Sif Kristinsd\u00f3ttir",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgHILDjCyGdf8cTZ7M1aSZCMgIUgPdhNOT4e4T89AI",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgHILDjCyGdf8cTZ7M1aSZCMgIUgPdhNOT4e4T89AI",
         "content": "Fr\u00e1b\u00e6rt",
         "score": 5,
         "thumbsUpCount": 0,
@@ -422,7 +446,7 @@
     {
         "reviewId": "gp:AOqpTOHDz705B9AstqZqdA7zl0PH8vSqvRUuQDy76GPxp6F5HvkulZh41vD1-qEKmaNEFpK9aB5WXBTXsO0Ze_o",
         "userName": "Eir\u00edkur Kristj\u00e1nsson",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gjl7sEppQY-VanIIQDEk0-HGJeAvg9dw2LFiKBP",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gjl7sEppQY-VanIIQDEk0-HGJeAvg9dw2LFiKBP",
         "content": "Vi\u00f0 erum \u00f6ll almannavarnir",
         "score": 5,
         "thumbsUpCount": 0,
@@ -470,7 +494,7 @@
     {
         "reviewId": "gp:AOqpTOE92TgQXGuvhBmujzp1KSf_BO7MOhv5i7PY8Q0ZCWP2yDOefWfYaOSMN0sUhTvIaaNAq1ahcVaR6hxKPVA",
         "userName": "Vidar Zophoniasson",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiUF83Wt2Uz6gk8b9TjpDuFzCZT1DqFAWUsF5Ug",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiUF83Wt2Uz6gk8b9TjpDuFzCZT1DqFAWUsF5Ug",
         "content": "Allt stoppa\u00f0 \u00e1fram \u00e1 \u00edslensku kemur ekki upp er frosi\u00f0",
         "score": 1,
         "thumbsUpCount": 4,
@@ -482,7 +506,7 @@
     {
         "reviewId": "gp:AOqpTOFMqdLOyXsG69TOWq35-LV8SpVRZ1LJHcCr-WbQirL3wL5HwOi5zcP-YfMgTb7ddc9eWp5PbojXxuviyNw",
         "userName": "Sigur\u00f0ur Sigur\u00f0sson",
-        "userImage": "https://lh3.googleusercontent.com/-DI4Y7rafZcA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnnBraKtAuPbT-eYN-pRMYUX1aA4w/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-DI4Y7rafZcA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnnBraKtAuPbT-eYN-pRMYUX1aA4w/photo.jpg",
         "content": "Mj\u00f6g gott.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -494,7 +518,7 @@
     {
         "reviewId": "gp:AOqpTOGKKKtVHH1K1Q7pN2dqNUveQtaRLJjlGK44oWscc-2iK6X3zp_Rm2OKk9bTKULOIdsTvNKU2P9Yhol7iuo",
         "userName": "Helga Tryggva",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjpCDGIZ_XN2Uo6EtzRzGHdeO423_1DYN5kJMchuA",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjpCDGIZ_XN2Uo6EtzRzGHdeO423_1DYN5kJMchuA",
         "content": "Get ekki hla\u00f0i\u00f0 ni\u00f0ur appinu, er me\u00f0 Samsung S10.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -506,7 +530,7 @@
     {
         "reviewId": "gp:AOqpTOFXz3wperKtd5IdKLNzIODy5tC6_9z_cVHghahEeQyI5qZGl5-6MQHls0HFyhdqI3zxEro6CC9ogAvYTek",
         "userName": "Gudrun Eggertsdottir",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjcBcW3SlxrobP4X5TudfnEJapUfNiGN4reFXNY",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjcBcW3SlxrobP4X5TudfnEJapUfNiGN4reFXNY",
         "content": "Birtist alltaf \"Frosin\" s\u00ed\u00f0a",
         "score": 1,
         "thumbsUpCount": 1,
@@ -518,7 +542,7 @@
     {
         "reviewId": "gp:AOqpTOHftb_Jx7BpsmVEfveQFQI8s13ZWEM1VUym5XuvepYQEhbDu00FWLRQObn9Slle1kkDDmmSJ3EDKMk02Ck",
         "userName": "Bj\u00f6rn Hafsteinsson",
-        "userImage": "https://lh3.googleusercontent.com/-2nt994K4tZ0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucktVBVeYnGxd5YDbv7FqlQn7f0keQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-2nt994K4tZ0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucktVBVeYnGxd5YDbv7FqlQn7f0keQ/photo.jpg",
         "content": "Oppnast ekki f\u00e6 upp \u00feriskiptan skja . Efst 30% texti a \u00edslensku, yfir \u00fea\u00f0 eitthva\u00f0 a liklega polsku og ne\u00f0st sami texti \u00e1 ensku. Kemst ekki lengra.Allt frosi\u00f0 .",
         "score": 1,
         "thumbsUpCount": 2,
@@ -530,7 +554,7 @@
     {
         "reviewId": "gp:AOqpTOFp_kgMNghK0_9spdvirU_V17sNoJsI2RJr-rUkMSV4majcH7gTs-oqB38tTtoIyWtC_604XeiWU0orzxQ",
         "userName": "Gunnar Haukur \u00de\u00f3rarinsson",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhwhgxUPfCSiK-2Sazv0Tb1jya94mwqguevEC9n",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhwhgxUPfCSiK-2Sazv0Tb1jya94mwqguevEC9n",
         "content": "Virkar ekki",
         "score": 1,
         "thumbsUpCount": 1,
@@ -542,7 +566,7 @@
     {
         "reviewId": "gp:AOqpTOEYViEU-dZgfxLiIF-JYuOe3ETJ4ECSwLln5aGlQJ1ThjbyhUQtFYF9yg7XS2e0KCTuWSpvpoOXzfnGSpQ",
         "userName": "Karen R\u00f3bertsd\u00f3ttir",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Ghr0G_34mMHuQ5XwLVPrshA9Zkv55nSKPbmNtJdBv0",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ghr0G_34mMHuQ5XwLVPrshA9Zkv55nSKPbmNtJdBv0",
         "content": "Mikilv\u00e6gt app, og vel hanna\u00f0 me\u00f0 tilliti til pers\u00f3nuverndar. En dj\u00f6full hva\u00f0 \u00fea\u00f0 t\u00e6mir rafhl\u00f6\u00f0una hratt! \u00dea\u00f0 er samt mikilv\u00e6gt app, og mikilv\u00e6gt er a\u00f0 hvetja a\u00f0ra til a\u00f0 nota \u00fea\u00f0 (vi\u00f0 \u00feurfum meirihlutann a\u00f0 nota \u00fea\u00f0 til a\u00f0 hafa \u00e1hrif)... en \u00fea\u00f0 VER\u00d0UR a\u00f0 laga \u00fea\u00f0. Annars fer f\u00f3lk a\u00f0 yfirgefa \u00fea\u00f0.",
         "score": 2,
         "thumbsUpCount": 62,
@@ -566,7 +590,7 @@
     {
         "reviewId": "gp:AOqpTOH435XKmMlArxgqDlG82Hn61ePQiksScSCrHsLdxheLmE2fL3wBoejnR5zrJQV9wgx_TtS_4EstxNAUzMw",
         "userName": "Krist\u00edn Gunnarsd\u00f3ttir",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiEHtCe88cbt7zHjI_gWettoVmc7SlBFCI4aFOYTQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiEHtCe88cbt7zHjI_gWettoVmc7SlBFCI4aFOYTQ",
         "content": "Tungum\u00e1l blandast og s\u00ed\u00f0an fr\u00fds \u00feannig a\u00f0 \u00feetta virkar ekki hj\u00e1 m\u00e9r",
         "score": 1,
         "thumbsUpCount": 2,
@@ -602,7 +626,7 @@
     {
         "reviewId": "gp:AOqpTOFde-_PwALLKvido00NFZiD_ETNCXUSeojxToO50B1o0Qg5xPMi0nmhS098FrjNsFzcM7M3lkFdrkcy2aU",
         "userName": "Sn\u00e6bj\u00f6rn Kristj\u00e1nsson",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiWwCtn4ODImlblYZyh5KVsKKey4dT5UstjT7ZqSg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiWwCtn4ODImlblYZyh5KVsKKey4dT5UstjT7ZqSg",
         "content": "Hvar s\u00e9 \u00e9g minn punkt? annars ok!",
         "score": 4,
         "thumbsUpCount": 0,
@@ -626,7 +650,7 @@
     {
         "reviewId": "gp:AOqpTOFrSJmRIy41XdeP06TJDZzCt4kladym0fdA3CWNTIcq4B8O3zkR8imPiyrhbO5oRwjVkgFtgK3-HPDi1ek",
         "userName": "Ingibj\u00f6rg \u00d3lafsd\u00f3ttir",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhMntY_1LvoBgWsnY4WUqCr60r_iYuEwl1k-gAw",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhMntY_1LvoBgWsnY4WUqCr60r_iYuEwl1k-gAw",
         "content": "N\u00e6 ekki a\u00f0 setja upp \u00ed S10 .. gekk f\u00ednt \u00ed 4ra \u00e1ra g\u00f6mlum s\u00edma. Hva\u00f0 veldur?",
         "score": 1,
         "thumbsUpCount": 2,
@@ -638,7 +662,7 @@
     {
         "reviewId": "gp:AOqpTOFjEhSa9jlokNF9MiGDpUClHa4f_Xjq6B_-Ml5BGh0smKja2Ol2aA7WWSxTQWg8A22Sw_Ux02aXK9d8GZg",
         "userName": "Gunnar Eir\u00edksson",
-        "userImage": "https://lh3.googleusercontent.com/-kpher4Nevbo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnbIK8ZqM3-1BQwJY9Sad3gK7Dk2Q/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-kpher4Nevbo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnbIK8ZqM3-1BQwJY9Sad3gK7Dk2Q/photo.jpg",
         "content": "\u00deegar setja \u00e1 upp appi\u00f0 kemur gluggi \u00e1 m\u00f6rgum tungum\u00e1lum :( ekki h\u00e6gt a\u00f0 kl\u00e1ra :(",
         "score": 1,
         "thumbsUpCount": 5,
@@ -662,7 +686,7 @@
     {
         "reviewId": "gp:AOqpTOFS8x1IW6X485yJTHa5E7pIrUJ6pOEkMQH6nbMT6F8tbSoQq3mdBt8alFsQqJqLjXY8rqiJ3Xdt6SelXOc",
         "userName": "Mariana Carmen Sineavschi",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gh0Q_UdJjtDRLLnl9ZaeV4SfYN6dGdENVTX5G30yAI",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh0Q_UdJjtDRLLnl9ZaeV4SfYN6dGdENVTX5G30yAI",
         "content": "Virkar ekki \u00ed Samsung S8. Kemur villa \u00e1 p\u00f3lsku og get ekki sett appi\u00f0 \u00ed \u00edslensku \u00ed gsm. mitt.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -674,7 +698,7 @@
     {
         "reviewId": "gp:AOqpTOGhxO3YhLyhIRQFyA_QDbpLcodxF0zl8W-1bRx46To3NhWhgSRVxmYewS-1rw2PaBw8jdv_60mUSrxL6fU",
         "userName": "Hreinn J\u00f3nsson",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gj3wg5gBmYRJydnvn9W4ZhdQPdJqKagOfaSyiw9fts",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj3wg5gBmYRJydnvn9W4ZhdQPdJqKagOfaSyiw9fts",
         "content": "Virkar ekki samsung S10 Fr\u00fds strax",
         "score": 1,
         "thumbsUpCount": 2,
@@ -686,7 +710,7 @@
     {
         "reviewId": "gp:AOqpTOG7VBkVusPJpvp1Xgr22AWUJ7Lna8t3tvCoiLYU5Bn9NWMUQKxjZoPxLiGyfDt5XX5lw5b0DvLLim6iadY",
         "userName": "Gu\u00f0mundur P\u00e9tursson",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjB0wZxKpVrjbvEUwp-PfxYDklkE-0YiZA213Osgw",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjB0wZxKpVrjbvEUwp-PfxYDklkE-0YiZA213Osgw",
         "content": "Rafhla\u00f0an kl\u00e1rast hratt",
         "score": 2,
         "thumbsUpCount": 0,
@@ -734,7 +758,7 @@
     {
         "reviewId": "gp:AOqpTOE0V3S45iiIlfWV20bm2VOx0YI9lwcWRU6xXU4bUhOvgNefCAdZ1G2jLf1uifaFsh1KtDzNtPFDxNSpA64",
         "userName": "Iceguy Ice",
-        "userImage": "https://lh3.googleusercontent.com/-2dxq-eGRvGs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckHaLD8vFzv2ZNzyakDgb-oL20Piw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-2dxq-eGRvGs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckHaLD8vFzv2ZNzyakDgb-oL20Piw/photo.jpg",
         "content": "\u00d3m\u00f6gulegt a\u00f0 setja upp",
         "score": 1,
         "thumbsUpCount": 1,
@@ -746,7 +770,7 @@
     {
         "reviewId": "gp:AOqpTOHOYFq_LryiM7KpnSHI1H6fa-_HTTTcVba6xNaXB6JCwfPrL_zoYgTU3_vU6zGvhfOHE7YbK99czQe3_fY",
         "userName": "Erla \u00d2lafsd\u00f2ttir",
-        "userImage": "https://lh3.googleusercontent.com/-pZruUNGvIkg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckY9wcxtXsMWGdxROA95mVPZJD-_g/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-pZruUNGvIkg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckY9wcxtXsMWGdxROA95mVPZJD-_g/photo.jpg",
         "content": "\u00c9g er mj\u00f6g \u00e1n\u00e6g\u00f0 me\u00f0 \u00feetta .g\u00f3\u00f0ar uppl\u00edsinga.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -758,7 +782,7 @@
     {
         "reviewId": "gp:AOqpTOECPoIHePoQ73qtXZ9eK-BOCuiC_XidRyA5Gw51OqU_CInPlw7lIPZVadRktl-RuqEp4Xublq-dVzS7Bb0",
         "userName": "J\u00f3hannes J\u00f3hannesson",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhZ6pC1HIIP-MynJi5laX1mQzxY67Lr-ug8z8lFTw",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhZ6pC1HIIP-MynJi5laX1mQzxY67Lr-ug8z8lFTw",
         "content": "Fr\u00e1b\u00e6rt",
         "score": 5,
         "thumbsUpCount": 0,
@@ -770,7 +794,7 @@
     {
         "reviewId": "gp:AOqpTOGsKuQz5gb6GLnXqT_9w2UBOD3Vs2u6ZGooTc8x1XFpLG3z_P4kMofEOMdIPjJFd7N9ZKuz5orIyT9z6QA",
         "userName": "Ingveldur J\u00f3na Arnad\u00f3ttir",
-        "userImage": "https://lh3.googleusercontent.com/-yQr0-4smHtc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn5f0DDyh504goXJZI6JJNPDp7fhA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-yQr0-4smHtc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn5f0DDyh504goXJZI6JJNPDp7fhA/photo.jpg",
         "content": "Vir\u00f0ist ekki passa fyrir gamla s\u00edmann minn - LG-D802",
         "score": 1,
         "thumbsUpCount": 1,
@@ -782,7 +806,7 @@
     {
         "reviewId": "gp:AOqpTOFF3-1exP9fZJy-XWoPFav-FmcDvIXtMYA9b8noRYK1NXRtCk6b_bb34fYjvNq6ZvR6sjBb3KFAWaMvV_A",
         "userName": "Haf\u00fe\u00f3r \u00de\u00f3rarinsson",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhFefoHBRfagYLVdmfwz7KJUQTCXl8cAblNI1HS",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhFefoHBRfagYLVdmfwz7KJUQTCXl8cAblNI1HS",
         "content": "Allt vir\u00f0ist virka eins og b\u00faast m\u00e1tti vi\u00f0, vel gert. (Android, Samsung Galaxy S9)",
         "score": 5,
         "thumbsUpCount": 11,
@@ -794,7 +818,7 @@
     {
         "reviewId": "gp:AOqpTOH3c9ikBROlH3V2OYlcCL1FpYcTuImuhZKtTAyWG43FYcBouIov6gkmkicwxbJpWNPkK0aeBj_LNj391f8",
         "userName": "Sveinn Gunnarsson",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhuA1Bu65yA9_Q_LJwoyUd7sY2sd7Tmmenj8Qtslg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhuA1Bu65yA9_Q_LJwoyUd7sY2sd7Tmmenj8Qtslg",
         "content": "Virkar ekki \u00e1 samsung s10+",
         "score": 1,
         "thumbsUpCount": 2,
@@ -806,7 +830,7 @@
     {
         "reviewId": "gp:AOqpTOHM8Hu54ZCSS4p_GDZivmdyUF9rPk5r1kCizF6pbqNvcElkwe45H1GRYBO1WyRjOYBJKE_YXRScwBYufJU",
         "userName": "Aron Sigurbj\u00f6rnsson",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhJKbBkUH3akYEEBR_fRjAC2IiGc9hZ8CMnalMZ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhJKbBkUH3akYEEBR_fRjAC2IiGc9hZ8CMnalMZ",
         "content": "Mer fynst \u00feetta sni\u00f0ugt",
         "score": 5,
         "thumbsUpCount": 1,
@@ -878,7 +902,7 @@
     {
         "reviewId": "gp:AOqpTOEqAmeI1aq1eymB_1KvYUqS5vRcUYUNqO-z4G56RZmNDCOo0PvDlKXlaK2NyM-kIdoq7ND6bLGW1b878Lw",
         "userName": "\u00der\u00f6stur Freyr Gylfason",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiVmDwiL6C2GX6xCaZfDSfDAJplSSISf8WR9zwRHA",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiVmDwiL6C2GX6xCaZfDSfDAJplSSISf8WR9zwRHA",
         "content": "Vi\u00f0 erum \u00f6ll Almannavarnir! \ud83d\ude42",
         "score": 5,
         "thumbsUpCount": 20,

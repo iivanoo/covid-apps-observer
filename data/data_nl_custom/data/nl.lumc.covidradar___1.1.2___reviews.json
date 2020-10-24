@@ -1,8 +1,20 @@
 [
     {
+        "reviewId": "gp:AOqpTOEoyuy_i9UyoQHzmHkVY3ZIzCRy4ASu-uiJ8XswLmFvnVdudCIt8AUOI1YWsbNbHt2-rLZFoLfxo8EL7Q",
+        "userName": "Fred Bosch",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GixN2fxRGW2nVH8vNKqc7cSxFqvtXzIQJY_GPk6BZI",
+        "content": "Werkt voor geen meter",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2020-10-21 14:16:51",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOEleM1OD5BDyUPwajot02CBwfPlLCTR12nEJAdeZCX-ftaZSLDhZsitVVuy5DC97T-XoO9HUoSMZd207Q",
         "userName": "Arie Steenbergen",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gg0AGwonXtxZmPeoHUF-gp96b4JA9g8VyLbUUxVhw",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg0AGwonXtxZmPeoHUF-gp96b4JA9g8VyLbUUxVhw",
         "content": "Rotzooi, net als de coronamelder",
         "score": 1,
         "thumbsUpCount": 0,
@@ -14,7 +26,7 @@
     {
         "reviewId": "gp:AOqpTOEm1RC-quNUTIELcSagkFytFOqLvREHtACEPNGsVd0LmCdUH_b8Qr0J9kMkLU4uBbUelZAzLeP1Nba8KA",
         "userName": "Fatiha Ballari",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjGmxzS-FrNtg5LdnExsBDKVBs856AoHiXU2o2OfQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjGmxzS-FrNtg5LdnExsBDKVBs856AoHiXU2o2OfQ",
         "content": "Covid Radar Van het Lumc Oke.alles Goed \ud83d\udc4d\ud83d\udc4d\ud83d\ude0aPrima \ud83d\udc4c Lang blijven nu niet verwijderen",
         "score": 5,
         "thumbsUpCount": 0,
@@ -110,7 +122,7 @@
     {
         "reviewId": "gp:AOqpTOGFkTaZ2fhNVESNCuRaWP9yViK6J0zRLRAeNh7q53vQGy0CqzcRj9KVhsIIlOBI7WdM4PKr5lB2IVHigQ",
         "userName": "Marga PRASTER",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhHsBpZkom7gU84uGQLDdYV754Vph1z2JX5AOTlsw",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhHsBpZkom7gU84uGQLDdYV754Vph1z2JX5AOTlsw",
         "content": "Goed",
         "score": 5,
         "thumbsUpCount": 0,
@@ -122,10 +134,10 @@
     {
         "reviewId": "gp:AOqpTOGBexsIaasZSHvzK3mq6GMqE6FFa6s-qxw55Z9LmAhi5zcEMsB8-jFA8kUBYcw9EViLUrRrB83f_mCg7w",
         "userName": "dennis Brak",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjDeSntNpE26QM71VVfhtV_zyjL5iz0LUN30eg2",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjDeSntNpE26QM71VVfhtV_zyjL5iz0LUN30eg2",
         "content": "Goed idee maar ik mis de vraag :valt u onder de risico groep? Hoesten en keelpijn bv kan ook iets anders dan civid zijn. Long pati\u00ebnten, allergie bv En met kinderen kunnen we soepeler omgaan. Geen 1,5m afstand bv Dus, de vraag bent u in contact geweest met kinderen buiten het gezin?",
         "score": 3,
-        "thumbsUpCount": 3,
+        "thumbsUpCount": 5,
         "reviewCreatedVersion": "1.1.2",
         "at": "2020-08-15 12:53:41",
         "replyContent": null,
@@ -134,7 +146,7 @@
     {
         "reviewId": "gp:AOqpTOHFc_Hu2BZbm2kCIJU0iNQlf0mAPJU1igtj-gjw0dKh7Zab1pJRCn7oRy6bnz1FLpX-E2QqMy-Oaz2Taw",
         "userName": "Joanna L",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GizZ__q_wXxD5vRR1On5qNOql4OPT4i8bI-rQeH",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GizZ__q_wXxD5vRR1On5qNOql4OPT4i8bI-rQeH",
         "content": "Vind het een interessante app met wetenschappelijk onderzoek die op deze manier in kaart brengt wie het grootste risico loopt en waar de uitbraak het grootste is . Vind deze manier van onderzoek beter dan de los vaste gedwarrel van tegenstrijdigheden van OMT /RIVM . Ben afhankelijk van behandeling bij een gespecialiseerde GGz instelling dus zit niet te wachten op nogmaals sluiting van een zorgverlenende instelling .",
         "score": 4,
         "thumbsUpCount": 0,
@@ -146,7 +158,7 @@
     {
         "reviewId": "gp:AOqpTOEXZpZ7ZdwkC7i8_04Rag8T_mpq0kXcsw4uvxLKE5L3QUK3yrIK4yfoiSc8JAPSYqPlI22sLQqbViE2Ug",
         "userName": "Christel Pennings Emans",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gh57H9xfSSu0JOLLkulOWobfWyMIRL7onZmHY7wK9k",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh57H9xfSSu0JOLLkulOWobfWyMIRL7onZmHY7wK9k",
         "content": "Ik stop er mee. Puur omdat je gewoon bij het dagelijks invullen, nog steeds dagelijks de vraag krijgt of de gegevens nog kloppen en het belangrijk is iedere dag in te vullen",
         "score": 2,
         "thumbsUpCount": 1,
@@ -158,7 +170,7 @@
     {
         "reviewId": "gp:AOqpTOEYPEC1u4XCNndm16tYvfrR2ygl_eg1-b7x_Zk_L__-2LssA5_L3V1JqRKSGm_aMCUt6e2Prz8A59ysdw",
         "userName": "Kees Visser",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiWg6UmqGnFaDUX2BMSJDDMDieF9k278cVTuFn7mD0",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiWg6UmqGnFaDUX2BMSJDDMDieF9k278cVTuFn7mD0",
         "content": "Het lukt na de versoepelingen van de lockdown niet meer om de waarden in te vullen. Hoeveel mensen binnen 1.5 of 5(!) meter zijn gekomen in de supermarkt of in de stad? Geen idee!",
         "score": 3,
         "thumbsUpCount": 2,
@@ -170,7 +182,7 @@
     {
         "reviewId": "gp:AOqpTOF2agLg_UMMXpA-EnjX23k_FR4fDyrMFLhxFz8CUZChHNVI-LAz6YVCHwd_1oc49AB730AX0OJDE1yECA",
         "userName": "R Glas",
-        "userImage": "https://lh3.googleusercontent.com/-AulpUqdym6E/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucku6D5WhcHGVjqnjdKEh0WbMmsvBg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-AulpUqdym6E/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucku6D5WhcHGVjqnjdKEh0WbMmsvBg/photo.jpg",
         "content": "De vraag hoeveel mensen binnen 5 meter kwamen is niet te beantwoorden als je dagelijks een wandeling in het park maakt. 5 of 50? Ik stop ermee",
         "score": 3,
         "thumbsUpCount": 1,
@@ -182,7 +194,7 @@
     {
         "reviewId": "gp:AOqpTOFOqhvq62aPXqfhzb4NTds3wE7fpT8s4aFgh8KmqJJqn3jljWOJWyHEvHeMi9uzYLg8fHWTg3604pTfiQ",
         "userName": "TvCanli. TK Sizde izleyin kaynasin",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiE7sdVUgisD4ovuvIoKY4Bh4DkxXYGEQ5mNhhgXg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiE7sdVUgisD4ovuvIoKY4Bh4DkxXYGEQ5mNhhgXg",
         "content": "Kan veel beter",
         "score": 1,
         "thumbsUpCount": 0,
@@ -218,7 +230,7 @@
     {
         "reviewId": "gp:AOqpTOGPkEtZ2c18I9R_fkRZx6a8vTR-7sKQqRZ27mwyc5XEw8gIdVb194VzEiPheUI4and9hoFMKIvIUPf9WA",
         "userName": "K. Pander",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gj0VRXkaBOP6LFn0Jwc6fUFKLczISOs1V0sE0PijA",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj0VRXkaBOP6LFn0Jwc6fUFKLczISOs1V0sE0PijA",
         "content": "Slechte app. Instellen van gegevens d.m.v schuifbalkje is niet goed in te stellen, en gaat zomaar van een laag naar hoog getal",
         "score": 1,
         "thumbsUpCount": 5,
@@ -230,7 +242,7 @@
     {
         "reviewId": "gp:AOqpTOFdlaxlOxSOG_29d7tGxjlnqDzNRLwjlMy3O42aPWw5Qe7aP2aPgNlzffTEreIeKRkFuZ2EC_TgI_b9yg",
         "userName": "Hans ten Berge",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhcgAiGt07McZxYAr3x7DX-OYyCKxsv6m8r1mlMWg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhcgAiGt07McZxYAr3x7DX-OYyCKxsv6m8r1mlMWg",
         "content": "Goed veel info over het verloop en anoniem op postcode\ud83d\udc4d",
         "score": 5,
         "thumbsUpCount": 0,
@@ -245,7 +257,7 @@
         "userImage": "https://play-lh.googleusercontent.com/--AhdrqRyfgg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmwK_fEzZ_9a-MVqcSAhinLPm-dVw/photo.jpg",
         "content": "Ik heb de app ge\u00efnstalleerd en de vragen beantwoord. Er kwam uit dat ik Covid heb zonder koorts. Ik moet gelijk een arts raadplegen en het huis niet verlaten. Ik heb waarschijnlijk zeker geen Covid maar wel astma en longproblemen. En OSAS. Zo kan je van half Nederland zeggen dat ze Covid hebben",
         "score": 1,
-        "thumbsUpCount": 32,
+        "thumbsUpCount": 34,
         "reviewCreatedVersion": "1.1.2",
         "at": "2020-06-06 13:38:25",
         "replyContent": null,
@@ -278,7 +290,7 @@
     {
         "reviewId": "gp:AOqpTOEKPS9D6-CPGjejaIkF2WFN9FfSwIAFU2yXFOV2ZdpmDB9ZC2IE5cHpDWajBK9mmkXXi-c75VnwrwGFFw",
         "userName": "Damion Pap\u00f4t",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhFHrIfpArtPnTt6kSU1tUPtSwzPDxJOmcMuilE",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhFHrIfpArtPnTt6kSU1tUPtSwzPDxJOmcMuilE",
         "content": "Nummer 2 in de lijst ....!' \ud83d\udcaa\ud83c\udffc\u2763\ufe0f",
         "score": 5,
         "thumbsUpCount": 0,
@@ -290,7 +302,7 @@
     {
         "reviewId": "gp:AOqpTOFdlScTL0lH3A2H3LwPaJBuZPQk8slKvaHxu1IrxrJhIKjhxB4TLRHpysK7E74zBlMGYAt2c5NqgIxlMQ",
         "userName": "Alfons Goossens",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhM1J_FgjxjaWfL4qnsz3AzaPQudiBcH2hWQGswQw",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhM1J_FgjxjaWfL4qnsz3AzaPQudiBcH2hWQGswQw",
         "content": "Zinvol. Helpt ons allemaal",
         "score": 4,
         "thumbsUpCount": 0,
@@ -302,7 +314,7 @@
     {
         "reviewId": "gp:AOqpTOEdXlpjjC74Jg6ogS3aN4t6zVZHDKDNuDYuGtiswECyZ8zZvGH17jypx6b0nqX08GVhJKqNzbU5HI-5yQ",
         "userName": "Faroek Lissone",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gg9ahZNwlVRdwYl2wqXV1fgPrBeuwnaLjB37dj-bA",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg9ahZNwlVRdwYl2wqXV1fgPrBeuwnaLjB37dj-bA",
         "content": "Deze radar draagt niks bij aan de weg terug naar een samenleving zonder 1.5m. Hier geef ik mijn privacy niet voor op. App verwijderd.",
         "score": 1,
         "thumbsUpCount": 2,
@@ -314,7 +326,7 @@
     {
         "reviewId": "gp:AOqpTOEMp8isgiKoLCy-sT5OFMU2RYmSMrSCXrbLscP9uhK3QZsGT1DITiCgFj7sI97m1lQngDpJhmOU5qdLgA",
         "userName": "Rita BeeZet",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GifuOt1CxhX2txavwKbMCTRhNVWirP2rTXBfFHv",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GifuOt1CxhX2txavwKbMCTRhNVWirP2rTXBfFHv",
         "content": "De vragen kan ik niet naar waarheid invullen. Krijg ook regelmatig de vraag of mijn lijst nog klopt terwijl ik elke dag de lijst invul. De vragen zijn te algemeen en ik kan geen nadere aanduiding geven waarom iemand binnen anderhalve meter afstand van mij is. Bij doktersbezoek is dat redelijk onmogelijk in mijn geval.",
         "score": 1,
         "thumbsUpCount": 2,
@@ -338,7 +350,7 @@
     {
         "reviewId": "gp:AOqpTOFy-JhpwiaOEUd6Fpqz9_t3wEqd4zaW0ljbks-mW-0Der3-f87IXpZoa8PFuQfYO-XHYKspHoSAg_260g",
         "userName": "Donald Nobel",
-        "userImage": "https://lh3.googleusercontent.com/-oeibj_G8ZOc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclZ9sg1ru3DZehShu-2rSS-qqg1IA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-oeibj_G8ZOc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclZ9sg1ru3DZehShu-2rSS-qqg1IA/photo.jpg",
         "content": "Geen handige app. Vooral het invullen van getallen met die schuiven. Vooral de laatste schuif, die zit heel dicht tegen de knop versturen aan. Waarom niet gewoon cijfers ingeven? Ik hoop niet dat er een 2e uitbraak komt. Komt die er wel dan hoop ik dat de app gebruiksvriendelijker wordt.",
         "score": 1,
         "thumbsUpCount": 29,
@@ -350,7 +362,7 @@
     {
         "reviewId": "gp:AOqpTOHB1SLgvsmqeseLZTlRmRZArnD6GFAVPhX1RvQgIAtK5Mzy9wknZ4KiuQJSabwZ_dNUWOzFRLzWPCFgnA",
         "userName": "Annelies Vrijhof",
-        "userImage": "https://lh3.googleusercontent.com/-NgA_7I0U5Nw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnNM7QzHeT-5EWEEE38LmZa8r-etQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-NgA_7I0U5Nw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnNM7QzHeT-5EWEEE38LmZa8r-etQ/photo.jpg",
         "content": "Ik vind het heel goed dat de informatie verzameld wordt en heb tot aan vandaag meegedaan voor mij en ook voor mijn man. Ik stop er nu mee omdat het onmogelijk is in te vullen hoeveel mensen binnen een straal van 5 meter komen.",
         "score": 2,
         "thumbsUpCount": 7,
@@ -362,7 +374,7 @@
     {
         "reviewId": "gp:AOqpTOHvbpUo4Dp0Garc1PEJBBgGgW6ac7VyfAqmpVfeqE8DZ8QbecNNmPXSp71JJd5IxD5LWz4BdQOa4wH8qw",
         "userName": "Rens Voogt",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgkmH9tzTO-oJZQ5OdSbvTjuldiwJhrKohaQBDJuhs",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgkmH9tzTO-oJZQ5OdSbvTjuldiwJhrKohaQBDJuhs",
         "content": "App sluit niet af en heeft ook geen exit of quit optie",
         "score": 1,
         "thumbsUpCount": 1,
@@ -374,7 +386,7 @@
     {
         "reviewId": "gp:AOqpTOF57goz_V8322ocLs_KtcsAdxqWoKeMkXHhvdtSospuO3qpucv4qrrRu_Vqi3JrQj-RtFEySN2mdXeACg",
         "userName": "Wendy Brouwer",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gg37fyFUCA5B2nlzmSBkrMi_EElfnpRvUJE7LnIMQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg37fyFUCA5B2nlzmSBkrMi_EElfnpRvUJE7LnIMQ",
         "content": "Mooie verbeteringen zichtbaar, maar zou nog specifieker kunnen, bv beroepsgroep toevoegen van personen bv zorg medewerker, of kapper straks dat wordt spannend als men weer in contact komt dicht op de klant hoe verhouden de klachten symptomen, zich dan ?",
         "score": 5,
         "thumbsUpCount": 0,
@@ -410,7 +422,7 @@
     {
         "reviewId": "gp:AOqpTOFCWcibV6l9iHh7HGvB07iCcLibjDuvHvcP518BNGwaug84d8jz8KTKyNgJW42M32CnAKFCii3khZAPYA",
         "userName": "Peter",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjETKWPBv8FAtKtvGZa_H2JhVqM6MwofMGk0x-EBw",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjETKWPBv8FAtKtvGZa_H2JhVqM6MwofMGk0x-EBw",
         "content": "Goed! Dank hiervoor! Vraagje: bij het aangeven hoeveel tijd iemand buiten het huis is geweest, is de schaal alleen in uren en niet in andere tijdseenheden. Wordt dit in de toekomst nog aangepast of bestaat hiervoor geen relevantie?",
         "score": 4,
         "thumbsUpCount": 21,
@@ -422,7 +434,7 @@
     {
         "reviewId": "gp:AOqpTOFC4Cb40AKFZ73UGC0ErYkZuhlmUUAVCK9nFGv4PP2zpUUk4tabgWHlgAY7Tz9_tt-i8FUBSrj16arIcw",
         "userName": "Hans Horst",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gi-foZDl4Ksw_Iqj_b8ZlJT88O33PXem4Jeo9F3",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi-foZDl4Ksw_Iqj_b8ZlJT88O33PXem4Jeo9F3",
         "content": "Nuttig",
         "score": 5,
         "thumbsUpCount": 0,
@@ -434,7 +446,7 @@
     {
         "reviewId": "gp:AOqpTOFZCKk3AIPSku05j6Wdvgc-92-GcN5WjYrfHtCxWEeeH87-B-NJU8_zApPCvG7cSRpflChgwkaM7BJ2Qw",
         "userName": "Koos vn",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gjq0qF6X56KUCPFhy5f80NzGEzpcoRolraxjXm9EKg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gjq0qF6X56KUCPFhy5f80NzGEzpcoRolraxjXm9EKg",
         "content": "Meerdere gebruikers schreven het al : de schuifbalken zijn veel te gevoelig waardoor onbedoeld hoge waarden worden doorgegeven. Gebeurt vooral bij scrollen. Bijvoorbeeld 15 bezoekers gehad terwijl dit eigenlijk 0 had moeten zijn. Mijn inziens worden de uitkomsten dus onbetrouwbaar. Kijk het nog weekje aan, anders stop ik.",
         "score": 3,
         "thumbsUpCount": 16,
@@ -446,7 +458,7 @@
     {
         "reviewId": "gp:AOqpTOE8m38NE8oco3dvZczB8CGEi9UjepW6scWg2L-m73Fs0dIpkXbTroGqm7TG8NbZR6gYccuqZIgobJ8Uog",
         "userName": "Ben Luberti",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhVC-tMVCdRYIbQ3l4VndhD21S8nHorPMoGw9OUnw",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhVC-tMVCdRYIbQ3l4VndhD21S8nHorPMoGw9OUnw",
         "content": "Laatste vraag over hoeveel mensen er te dicht bij kwamen invullen lukr niet altijd daar de versturen balk ervoor zit en een antwoord blokkeert.",
         "score": 4,
         "thumbsUpCount": 5,
@@ -458,7 +470,7 @@
     {
         "reviewId": "gp:AOqpTOE3-pLUMk-xipE__yN4393-Dd8Utx8Udk-gVwv1BTaCADQcxG59Gw4PKa0T9sdGI2LoQmD1RmrcCAkjeA",
         "userName": "fred vollebregt",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjS_TtqOsdmZhgxflSYPq8lGWnEGJfGcMIIFE7qkA",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjS_TtqOsdmZhgxflSYPq8lGWnEGJfGcMIIFE7qkA",
         "content": "App blijft hangen. Als ik na het beantwoorden van de vragen op versturen gedrukt heb, blijft de app aangeven dat er een nieuw bericht is.",
         "score": 2,
         "thumbsUpCount": 3,
@@ -482,7 +494,7 @@
     {
         "reviewId": "gp:AOqpTOEPcbyJxH4g4suv-LLV4YCgxaW52wRizbK_J0WRUmE_m6zKyWlC3urfJjKoWBs8sqKgIZYjnBP27eL-aA",
         "userName": "ger v L",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GixcSZWWUAKy1x1nAYyyvZMOZqQvBgEc4R4EdVU1Q",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GixcSZWWUAKy1x1nAYyyvZMOZqQvBgEc4R4EdVU1Q",
         "content": "goed idee, alleen jammer dat je gelijk 'besmet' ben als je op een vraag ja antwoord, variabelen zoals hooikoorts worden niet meegenomen althans niet toen ik er mee startte, app dus verwijderd!",
         "score": 3,
         "thumbsUpCount": 1,
@@ -494,7 +506,7 @@
     {
         "reviewId": "gp:AOqpTOEM_HDVluDK1UukYL9l0uqq-icQpWFaYYHyN_hLmPDqqk_52PfN3o9emwzLvZOavcdQqBHsaXVfZZVRaw",
         "userName": "Tineke van Beers",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gj_3fftaIsjAY6Z2BgbaP1GD6QJ20k9Pu6fIDcvbg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj_3fftaIsjAY6Z2BgbaP1GD6QJ20k9Pu6fIDcvbg",
         "content": "Hele rare nieuwe vraag: hoeveel mensen kwamen binnen 5 meter. Daar weet ik echt het antwoord niet op, die vallen buiten mijn aandacht. Die mensen op de fiets, die passeren, in de supermarkt, aan de overkant van de straat. Die tel ik niet. Zal gauw meer dan 20 zijn",
         "score": 2,
         "thumbsUpCount": 4,
@@ -506,7 +518,7 @@
     {
         "reviewId": "gp:AOqpTOH0pzHYa-47R-aa_LigLTNxnayOxtURg0b311IwvJt1iTSu34r0c56fnmbcyKLdxoFK_RPhtz-IKxgGMQ",
         "userName": "Jake van Vliet",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Giw0FaZUqwqOkrbthZAcum5LmiLUmfKGGQdnKVxuKs",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Giw0FaZUqwqOkrbthZAcum5LmiLUmfKGGQdnKVxuKs",
         "content": "Sommige schuiven zijn nogal aanraakgevoelig, geeft onbedoeld verkeerde waarden. Sinds de laatste update valt de Versturen knop over de laatste schuif heen en is niet meer bereikbaar.",
         "score": 4,
         "thumbsUpCount": 21,
@@ -518,7 +530,7 @@
     {
         "reviewId": "gp:AOqpTOH1TTOGrw5sQTZshPBJj7VMkANfRE8zAo5gQoPpUDLyKnGK3FFsJCzQRjPuRvuefwSAj2GW-OrifLhnHA",
         "userName": "Mark van Dongen",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiBT-I7smjXYFIiTRRnXW4Kik2KhGlQQ7ud6rc3a5o",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiBT-I7smjXYFIiTRRnXW4Kik2KhGlQQ7ud6rc3a5o",
         "content": "Sinds laatste update zitten de navigatie knoppen over de velden in de laatste vraag te beantwoorden.",
         "score": 3,
         "thumbsUpCount": 2,
@@ -530,7 +542,7 @@
     {
         "reviewId": "gp:AOqpTOES5siWN6rvKGPY8tOxgVlkF4n-fSWRRhk5mg-X71XnsDGdTZSVDK0Z_DZRcLVvOzM3ySREr_1ac1gk3Q",
         "userName": "Rene Wouda",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GigpUdwZ3J3qwqiXaqfF2_9tuQ68eZ06U7c8wmDPQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GigpUdwZ3J3qwqiXaqfF2_9tuQ68eZ06U7c8wmDPQ",
         "content": "Laatste vraag kan niet worden ingevuld, het veld \"Versturen\" staat ervoor en dus in de weg. Verder een onzinnige vraag over 5 meter afstand. Als je alleen al aan het fietsen bent, komt iedereen die je tegenkomt binnen die 5 meter....",
         "score": 4,
         "thumbsUpCount": 0,
@@ -542,7 +554,7 @@
     {
         "reviewId": "gp:AOqpTOGKWkliq-WaQYuSYOzjWoUVD7zylr6vu_Gu5sjpthVtocDlyS3MLS1twY84ZNKO-V1v7ZjJ1g4P7ld5Yw",
         "userName": "Anton Spierings",
-        "userImage": "https://lh3.googleusercontent.com/-RKZgbtU0olo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmUt5gxzcV-3ihoT2gdQo5nwUtjhw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-RKZgbtU0olo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmUt5gxzcV-3ihoT2gdQo5nwUtjhw/photo.jpg",
         "content": "Sinds de laatste wijziging werkt de laatste vraag (aantal binnen 1,50 m) niet meer . De nieuwe vraag (aantal binnen 5 m) gaat tot 20. Ik telde gisteren bij een fietsritje van een uur 100. Het nut van deze vraag is me niet duidelijk. Uitleg wat wordt verstaan onder uit huis is nodig. Is de tuin uit huis? Je eigen erf? Gaat het om openbare ruimte? Nu het niet goed meer werkt stop ik met invullen.",
         "score": 1,
         "thumbsUpCount": 10,
@@ -566,7 +578,7 @@
     {
         "reviewId": "gp:AOqpTOFshaSPTAhMB9fXSldsPsreQdfo70mLmmhSPhwYIUGnZSXlM89ykvYssbSqYeF-JXeyibQdp5ekFtUsVw",
         "userName": "Dik de Mooij",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gg23Gknk2zWZhRuyiVMCYLzHNX9kIW7_pO0Ur-hDA",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg23Gknk2zWZhRuyiVMCYLzHNX9kIW7_pO0Ur-hDA",
         "content": "Na de wijziging in de vraagstelling kan ik de laatste vraag niet meer beantwoorden omdat de knop 'versturen' er overheen ligt. Verder werkt het prima.",
         "score": 3,
         "thumbsUpCount": 3,
@@ -578,7 +590,7 @@
     {
         "reviewId": "gp:AOqpTOEEPgT50Ki3Eg3Mdq6sW2R-yPxvLNiAJn15eJ_bAyZKGT_pkZDRtqbqK2njCcWeJ4-AgU-SsXD7G7LKxA",
         "userName": "Corien de Witte",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiSckiUDbdOk93X4mQzO4I03scr7nezLNjDQ-y4Lf8",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiSckiUDbdOk93X4mQzO4I03scr7nezLNjDQ-y4Lf8",
         "content": "Kan na de update/ aanpassing de laatste schuif niet gebruiken voor de laatste vraag, want daar zit de knop versturen voor",
         "score": 3,
         "thumbsUpCount": 5,
@@ -590,7 +602,7 @@
     {
         "reviewId": "gp:AOqpTOEU_MT8MJBKxY-6W_sLwCS6Cas4wD6Ox24vAn30ugj8117vN8LzA2N3IDqmG8SG0By6pboHFtXamqB3Jg",
         "userName": "Shirley b",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjScvMjns48vT0jkmmc-C1eEYo_4pF5C0WRkKeCO7c",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjScvMjns48vT0jkmmc-C1eEYo_4pF5C0WRkKeCO7c",
         "content": "Duidelijke makkelijk invullen",
         "score": 5,
         "thumbsUpCount": 0,
@@ -602,7 +614,7 @@
     {
         "reviewId": "gp:AOqpTOH1F8BOLTZxQwjruDdTqI4LhWzrW0Hhda4D0v6k21DetiJb0SQ1s_VgxXD0rxkZ_zZLl4--APHITwTt3w",
         "userName": "Gerrit Hagendoorn",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjCguVTH0hWhOAjQfcMsfXubrwmV8BQBF7piIMwVV0",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjCguVTH0hWhOAjQfcMsfXubrwmV8BQBF7piIMwVV0",
         "content": "Sinds de nieuwe update kan ik de laatste vraag niet meer goed invullen omdat de knop versturen er voor staat. Probeer ik een getal aan te geven zijn de gegevens al verstuurd.",
         "score": 5,
         "thumbsUpCount": 6,
@@ -614,7 +626,7 @@
     {
         "reviewId": "gp:AOqpTOEzd6icBWHWXgXocmPEtwq0xvwGzpyJH1fTSRosUlg2qXM62IHAbERNTWUxnQQnxaFGgzhQ1P3ZXQoD1g",
         "userName": "Sandra Sietsema",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GijK-AcRJ_EjeenKzW3-LNYIWJV46e3Qn94HSKc",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GijK-AcRJ_EjeenKzW3-LNYIWJV46e3Qn94HSKc",
         "content": "Op mijn telefoon staan de 2 knoppen annuleren en bevestigen voor het balkje beroep, waardoor ik het beroep niet kan aanpassen. Ik heb het antwoord nu gelaten wat er al stond maar dit klopt in mijn geval niet.",
         "score": 4,
         "thumbsUpCount": 6,
@@ -638,7 +650,7 @@
     {
         "reviewId": "gp:AOqpTOFTNzxJOlg8IMT5B3x88EqYdWZpLwucHGla9aGMi2uuoAqzUzr2vmcdbB47OsaaUur8R3o0OgaX3x4T7w",
         "userName": "Erika van Doorn",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Ghnx0xttQCszzztK3mrNrISIMCAI8_lKbknI9QY",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ghnx0xttQCszzztK3mrNrISIMCAI8_lKbknI9QY",
         "content": "Wetenschap is alles",
         "score": 5,
         "thumbsUpCount": 0,
@@ -650,7 +662,7 @@
     {
         "reviewId": "gp:AOqpTOF4TWw8BjI7upYnn4rpN-jwyQFq0hOIUWnBrqF0aG9pcdgHLO72biEUKdCbH75daoLetx6OHGAm20eCwA",
         "userName": "R Rommen",
-        "userImage": "https://lh3.googleusercontent.com/-i2qm6Fzh9zo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmMXUErz1laeDhip8GeL9_QuUl3dw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-i2qm6Fzh9zo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmMXUErz1laeDhip8GeL9_QuUl3dw/photo.jpg",
         "content": "Ik ontvang niemand thuis en toch val ik ongunstiger uit tov het Nederlands gemiddelde in de uitslag. Dat kan beter.",
         "score": 4,
         "thumbsUpCount": 1,
@@ -662,7 +674,7 @@
     {
         "reviewId": "gp:AOqpTOEkoULf4XUJcKXFSABctl14I-0WBBoH46dVqPFz5H9q-7BYOX1whZpuVThu-Dmdcwd49GhL-HKjuQeV3g",
         "userName": "Sjoerd van der Meer",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gj11dezavLSMLVWl-E85axyjF9TE59mEkSX47JPMQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj11dezavLSMLVWl-E85axyjF9TE59mEkSX47JPMQ",
         "content": "Zeer goed initiatief voor onderzoek. Doe mee, en help in de strijd tegen corona!",
         "score": 5,
         "thumbsUpCount": 0,
@@ -674,7 +686,7 @@
     {
         "reviewId": "gp:AOqpTOHqmqa-vA5DJ5oqJtBAmHXuZbrQybayLSzNgUi7iAvKeUAtA5hZhEYp9MSvpJwXkr99vIC3jZPHyhNEHQ",
         "userName": "Esther Vuijst",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjNV8umN2p8R4iM5fEWGw0-8ge5D3L2xTRakaMy8A",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjNV8umN2p8R4iM5fEWGw0-8ge5D3L2xTRakaMy8A",
         "content": "Ik werk op een PG afdeling. We hebben 21 bewoners die gewoon verzorgd moeten worden dus 1,,5 meter, onmogelijk. Tevens werk je ook als collega's dicht op elkaar. Dus het aantal mensen is meer als 20. Maar dat kan je niet invullen. Dus vraag ik me af, moet je dat nu wel of niet invullen? Want dan kom ik elke dag boven de 20 uit en vertekend dit het beeld wellicht en merk ik dat ik dus waanzinnig veel risico loop.",
         "score": 4,
         "thumbsUpCount": 6,
@@ -698,7 +710,7 @@
     {
         "reviewId": "gp:AOqpTOE-o0ZBIp6j5sev9JVCAjQFdvSqYuFN1zYXvWQSRl2dwrjM1iPVgsYkTRx36H4n1FPHMN4GLrSxsZoVvw",
         "userName": "Betty",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GilITu7M2yFzqZFYzOhY1OecQP6z7-7X_lJH6NkwA",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GilITu7M2yFzqZFYzOhY1OecQP6z7-7X_lJH6NkwA",
         "content": "Goed initiatief. Bij scrollen verschuiven de scores soms onbedoeld. Verbetering is noodzakelijk om geen foute scores te krijgen. Ik heb vragen die ook door anderen zijn gesteld en hoop dat antwoorden komen. In winkel en buiten let niet iedereen even goed op de 1,5 mtr. en het lukt niet altijd om zo iemand te ontwijken. Ik schat in hoe vaak dat is geweest en vul dat in. Is dat juist? Als je hoest door allergie, vul je dan \"ja\" in?",
         "score": 3,
         "thumbsUpCount": 12,
@@ -710,7 +722,7 @@
     {
         "reviewId": "gp:AOqpTOEiv0lbw-7bb_G5SNFokoEPboOfkoy6Ki8VyvDAtLT05jhUZGW_NiETPZxpaNCY56mSRG9rqQiG3kYVZg",
         "userName": "Pingo Why",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhQxNbMjHNZ6YiXO2jF15VjDv278shw9o4cN372mQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhQxNbMjHNZ6YiXO2jF15VjDv278shw9o4cN372mQ",
         "content": "mooie app. leuke update tip:. via gps als iemand in buurt komt gaat app rinkelen blijf uit buurt. of houd afstand. of meld ik was / ben ziek / ziek in buurt pas op. dit helpt",
         "score": 3,
         "thumbsUpCount": 8,
@@ -734,7 +746,7 @@
     {
         "reviewId": "gp:AOqpTOFsXUl7uoA44FdkhuG64B2kwIOOURqPwHeU4y69uZsh8oQ6DVkaN5vAsN-6ap8idX3lQNAdsrKln1ZLzA",
         "userName": "Inge Nijenhuis",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Ggwzec7NSyUfy2H6Jfro4ptLnlxXHI0h9WQ7-nQgA",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ggwzec7NSyUfy2H6Jfro4ptLnlxXHI0h9WQ7-nQgA",
         "content": "\u00c9\u00e9n vraag vind ik lastig om te beoordelen. Is je co ouder kind en LAT relatie een persoon binnen of buiten je huishouden? Beide komen namelijk in minder dan 1,5m afstand met zowel mij als voor mij onbekende mensen buiten mijn huis in aanraking. Hoe betrouwbaar kan je hier een antwoord op geven? Er zijn nogal wat gebroken gezinnen in het land.",
         "score": 3,
         "thumbsUpCount": 5,
@@ -758,7 +770,7 @@
     {
         "reviewId": "gp:AOqpTOGbvS0AmuBP9OsmwdSpWgAXAk0WSZQabMQplfboP49bwO-ZenNybrSOkeMHCs2bbBvx2pK9G0j262iXww",
         "userName": "Rutger Luiten",
-        "userImage": "https://lh3.googleusercontent.com/-ytXfC1Jeg94/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnaNVl-JIvxut-Q3ZSj4qEHeg4o8Q/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-ytXfC1Jeg94/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnaNVl-JIvxut-Q3ZSj4qEHeg4o8Q/photo.jpg",
         "content": "Ik mis de mogelijkheid om aan te geven of dat het aantal mensen die te dichtbij komen door mezelf komt of door een ander, veel mensen houden zich in het openbaar simpelweg niet aan de regels.",
         "score": 4,
         "thumbsUpCount": 1,
@@ -770,7 +782,7 @@
     {
         "reviewId": "gp:AOqpTOHEm-NPa4zWyNBuHZ03jXCDE8WM_EW-pU8_UV5NA9sG-YvikpnDrCTvo-NMXmnMbJCtqw2l2k2lQ7s7yQ",
         "userName": "Diana Spoelder",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gj3vy1leFga8kdCtEpDrdzVU46_qF2cQV36GYKjFw",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj3vy1leFga8kdCtEpDrdzVU46_qF2cQV36GYKjFw",
         "content": "Is er een mogelijkheid om ook de situatie op je werk in kaart te kunnen brengen? Daar loop ik het meeste gevaar..",
         "score": 3,
         "thumbsUpCount": 1,
@@ -782,7 +794,7 @@
     {
         "reviewId": "gp:AOqpTOEof7ENsTRMWEc9-WCGEtM4i251VzKuAwjupyxTbEqdfLj-5oM7EpYh8dcPJAD1kyO40SBKxwW1y92y_g",
         "userName": "Pam Hols",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gg8RB2Xn4k7x-nUhL0zSdqTmD8Bkums7lsq1RsrZg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg8RB2Xn4k7x-nUhL0zSdqTmD8Bkums7lsq1RsrZg",
         "content": "Onduidelijke vragen. De vraag over werk... Ik werk niet meer, ben \"oudere\". De op twee na laatste vraag en de laatste vraag zijn het zelfde. Denk niet dat dit iets oplevert. Werk samen, alle deskundigen en ziekenhuizen aan \u00e9\u00e9n app ipv ieder een eigen app met andere invalshoek",
         "score": 1,
         "thumbsUpCount": 2,
@@ -794,7 +806,7 @@
     {
         "reviewId": "gp:AOqpTOFhYK6pTLu548-ujzPdtTFS79slK8_bU0lRTfk_EmLSwWy090E8rZTjparkQFZ_i_EX3fh97o8BuLf11A",
         "userName": "Gladys Kuurstra",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GheaLbZbnbpOw_lRj5r9ZCchRV-ZkVU-53CYTg3",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GheaLbZbnbpOw_lRj5r9ZCchRV-ZkVU-53CYTg3",
         "content": "Initiatief is fantastisch. Alle activiteiten die leiden tot meer inzicht zijn meer dan welkom. De vraagstelling zou beter kunnen. Expliciete vraagstelling over activiteiten buitenshuis. Zoals b.v. onderscheid tussen noodzakelijke boodschappen (levensmiddelen en medicijnen) en overige boodschappen. Klachten vanwege chronische aandoeningen (hooikoorts, astma, etc). Activiteiten buitenshuis (eigen tuin, eigen buurt, elders). Contact buiten gezin (aantal, duur, virtueel, fysiek)",
         "score": 3,
         "thumbsUpCount": 30,
@@ -806,7 +818,7 @@
     {
         "reviewId": "gp:AOqpTOGT-3kbwc3p7BhzfC5fi19XWVCKQQxgxpWqI8_Uf_9yipeuJprsiRhoVb5Ta9KPx2ohhb9RPLDrZXv03g",
         "userName": "Sjoukje de vries",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjacR0TDguHf9C6Rtqdtx52O5chDhesw8jB8sNXsQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjacR0TDguHf9C6Rtqdtx52O5chDhesw8jB8sNXsQ",
         "content": "Vraag de app op mijn gsm staan. Bij invullen weet ik niet voor wie invul. Zie een naam in een wit en in een blauw veld staan, maar weet niet voor wie ik aan het invullen ben. Ook een vraag hoeveel uur je buiten bent geweest. Ik zet daar ook de uren bij die ik met een boek oid in de tuin heb gezeten, maar weet niet of ze daar alleen de bijv boodschappen hond uitlaten of wandeluren oid mee bedoelen.",
         "score": 3,
         "thumbsUpCount": 1,
@@ -830,7 +842,7 @@
     {
         "reviewId": "gp:AOqpTOGhrniY00vEYl0QTUee147ANMW4LuQxq4TFxphF2DCzgY13IpMSCZByAEzzepkq5v3FpVZ4jN19V7xRUQ",
         "userName": "larthify",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gh0nKGBRgEmjH5Ob5eSUpQLAb68MpVaF8bPBSaQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh0nKGBRgEmjH5Ob5eSUpQLAb68MpVaF8bPBSaQ",
         "content": "Ik heb al bijna 4 weken lichte simptomen van de verkoudheid. Hoe kan ik het weten of ik het corona virus heb? Ik vind de app niet nuttig door onjuiste vragen, jammer.",
         "score": 1,
         "thumbsUpCount": 4,
@@ -866,7 +878,7 @@
     {
         "reviewId": "gp:AOqpTOGzun-7Glrsg69z6HUKsnKhF0u-Ufv59bEQauixPh0SRH_05E_AySTR7P_CcwOrxHLvnlF8QB9QEIJawg",
         "userName": "Michelle Zuurmond",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Ghj4iN58a4YMSk0EToIk1XVR1o2upirna_ADifgYA",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ghj4iN58a4YMSk0EToIk1XVR1o2upirna_ADifgYA",
         "content": "Ik mis de vraag of er medische aandoeningen bekend zijn. Daarnaast is het handig om aan te kunnen geven dat ik zwanger ben. Dat kan de gegeven antwoorden in perspectief zetten. (snel kortademig bijvoorbeeld)",
         "score": 3,
         "thumbsUpCount": 3,
@@ -878,7 +890,7 @@
     {
         "reviewId": "gp:AOqpTOH1SDcqov4CEm_GtDTcaf51k3R8P-J8OpNjvGVvTZias-_4HjlMJToyzy2IzYDXxGr9IsTdhSvb-UZbpg",
         "userName": "Henny Wennekes",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhZsPrMnlv52QjUGI3GIdSwxI8zDvHSqn-8eTNnGg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhZsPrMnlv52QjUGI3GIdSwxI8zDvHSqn-8eTNnGg",
         "content": "Gewoon kort en krachtig!!! Een zinloze App (nog)?? Als je iets lanceert kom dan ook met iets, dit is niks. De vragen in de app zijn waardeloos. De app loopt ook op vrij veel toestellen vast!!!",
         "score": 1,
         "thumbsUpCount": 3,
@@ -890,7 +902,7 @@
     {
         "reviewId": "gp:AOqpTOGxCTjvHK1I0C4vIqDw5gQYuaSF3Tsq1s0FvvAK36otVBfBlSbkGoziD3Z7nvVpk-vvUXpkt_0m2cwynw",
         "userName": "Paul Jansen",
-        "userImage": "https://lh3.googleusercontent.com/--ttbR7gbvrE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnOyXVst6eyQMrwWoqeSwo2EMw9Xw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/--ttbR7gbvrE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnOyXVst6eyQMrwWoqeSwo2EMw9Xw/photo.jpg",
         "content": "Inderdaad zoals eerder aangegeven, kunnen de vragen beter worden gesteld. Ook werk ik niet in de zorg, maar wel in de voedingsmiddelenindustrie, dus ook niet terecht, dat ik de beoordeling krijg dat ik te veel buitenhuis ga.",
         "score": 1,
         "thumbsUpCount": 3,
@@ -902,7 +914,7 @@
     {
         "reviewId": "gp:AOqpTOFWXarY4Y49SKkFMzFDwDqAHTjg0v1OI685EFg1eYi1e0f9EbzLsdLSUJWqiWBKX-znwwhvCEEGrxqM_w",
         "userName": "Jos Horeman",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gji4jddxvDrbtveCTYnTcEplTOLLLMv8hKC_Biksg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gji4jddxvDrbtveCTYnTcEplTOLLLMv8hKC_Biksg",
         "content": "Adequaat",
         "score": 3,
         "thumbsUpCount": 1,
@@ -914,7 +926,7 @@
     {
         "reviewId": "gp:AOqpTOHeh9peP2GtKugzH4kGqLUsqZ831jrY5qScpJctKBefd1nrny6qJEXgBrwtpX4HPAG3A1GG9qjKL846Ag",
         "userName": "Tim Van den Berg",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjS7hrh9v9VfHiegJECPTOI3F1nahh7lE3nRVUp",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjS7hrh9v9VfHiegJECPTOI3F1nahh7lE3nRVUp",
         "content": "Goed dat jullie een bijdrage leveren!",
         "score": 5,
         "thumbsUpCount": 1,
@@ -998,7 +1010,7 @@
     {
         "reviewId": "gp:AOqpTOH1gB0isVVjXUQYCMdh8JnUK8Q570n7uu_f9Dp_A0V4CnBeOPpRUj3f_TneDdeZhLHxQmMzn6terkhW6A",
         "userName": "Lieve Parkietjes",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgMAiSaa1dgEASge3XLUnxDaaNm6jWNM2If2tmNVA",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgMAiSaa1dgEASge3XLUnxDaaNm6jWNM2If2tmNVA",
         "content": "Ik mis de vraag of een vrouw zwanger is of niet. Want ik vul nu mijn gegevens is maar ben in verwachting.",
         "score": 4,
         "thumbsUpCount": 4,
@@ -1046,7 +1058,7 @@
     {
         "reviewId": "gp:AOqpTOFQl2WPPKd302VBVF2UQ29JnHp5a4EXg0t1T7B2q3d82_ynWlnNR0BdYTbSvuzPaD8igwgvpzg-QArEFA",
         "userName": "Christine van Mourik",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhSqjs-fQZeQxv6r-amcfIUmNRjie4sYj3ez-bC",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhSqjs-fQZeQxv6r-amcfIUmNRjie4sYj3ez-bC",
         "content": "Ik wil graag een test dien kom niet in de app vrg christine.",
         "score": 1,
         "thumbsUpCount": 1,
@@ -1082,7 +1094,7 @@
     {
         "reviewId": "gp:AOqpTOE9RdmOK30ilfKeC9y3Wlz2-V_Z5gYPVGqUyJZEF05HXb0o4Z8KFMn6pdwbvtA1NynmGLrF-MiyHzU90A",
         "userName": "Bart van Andel",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiLAkXpG4WA3eqfY3Qu8bkDLNnJsiOFQ2D_IvIgdIE",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiLAkXpG4WA3eqfY3Qu8bkDLNnJsiOFQ2D_IvIgdIE",
         "content": "Crash loop, dus kan nu niks... En waar blijven die dagelijkse meldingen, heb er pas 1 gezien!",
         "score": 2,
         "thumbsUpCount": 2,
@@ -1106,7 +1118,7 @@
     {
         "reviewId": "gp:AOqpTOGEbDTn3q78W5DyYv2LAWbe_EEza9aeOuJOWCmuSwXQoK-LGSfSVL0qj9cTIDoiWGFAqh0eyhIaesIkUw",
         "userName": "gerard verdi",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GghJtZDyJ-gklMwxes9lsG08_JDV_0eH2jWERuQLK0",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GghJtZDyJ-gklMwxes9lsG08_JDV_0eH2jWERuQLK0",
         "content": "Krijg foutmelding op one plus 6 error conection server",
         "score": 1,
         "thumbsUpCount": 1,
@@ -1118,7 +1130,7 @@
     {
         "reviewId": "gp:AOqpTOFEubt3jUAuAwHoBOUNcMuG9HEvMh5gg9E_v11gR89J8qp_RWO3RjUILq_AezEyvKGSqHAdsDPPuYgTvw",
         "userName": "Guido Meijer",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgYREZ5Cd1mU01v3Mjc4ZkxEfXfNOcqIPH_NV2dIuU",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgYREZ5Cd1mU01v3Mjc4ZkxEfXfNOcqIPH_NV2dIuU",
         "content": "Wat een rare, onnauwkeurige app. Veel te weinig factoren worden meegewogen, de parameters zijn v\u00e9\u00e9l te krap gekozen. Houdt geen rekening met mogelijke opgebouwde immuniteit. Had 'm 2 maanden eerder gestart, van belang voor nul-metingen en griep-data.",
         "score": 1,
         "thumbsUpCount": 6,
@@ -1130,7 +1142,7 @@
     {
         "reviewId": "gp:AOqpTOEJtH79Mabdyt849YU_CQyLIFnXpidLdPhdau3Jp_aJUHqLWcnmuZqWTjRmKPRPtNQ7bQ_hmSRSxz6Vnw",
         "userName": "patricia de jong",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GihDahxWoH3yA-SB_L4uI5b4iO6BokylvkA-qC8kg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GihDahxWoH3yA-SB_L4uI5b4iO6BokylvkA-qC8kg",
         "content": "Veel te bekrompen vragen...geen onderscheid met evt onderliggende problematiek zoals astma, hooikoorts e.d. geeft geen re\u00ebel beeld van Corona patienten",
         "score": 1,
         "thumbsUpCount": 10,
@@ -1178,7 +1190,7 @@
     {
         "reviewId": "gp:AOqpTOGGAM2j3QmvsI5evhaBdvgtBqi-otwZQ-LUSz1OJZZr0FYoeuJj5AtOdS-Hlw8pY1RkGJj5mMqrHxUi-Q",
         "userName": "Frances Slob - de Kok",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgT7mkcQW_2HQ9WHXBtqcRlig6VjXg8gcL1l0W2qA",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgT7mkcQW_2HQ9WHXBtqcRlig6VjXg8gcL1l0W2qA",
         "content": "Ik mis de vraag over (neus-) verkoudheid. En een vraag of je klachten passen bij pre existente aandoeningen (zoals astma). En de vragen zouden bij kinderen aangepast mogen worden (ipv ben je naar werk gegaan, iets als 'heb je buiten gespeeld' oid)",
         "score": 4,
         "thumbsUpCount": 57,
@@ -1190,7 +1202,7 @@
     {
         "reviewId": "gp:AOqpTOHmG1xe0_SeqcRJKrmYzLUoakApJ_vuLj9sdRj8sSj-HsGsrXFITDDLlIbmRoK7nIwnDF0lUVj1_NMCVA",
         "userName": "Sanne",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjzVU49m2o3r6zmEX264_pqbhEU_BGn0bxLPSj2jw",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjzVU49m2o3r6zmEX264_pqbhEU_BGn0bxLPSj2jw",
         "content": "Het idee is goed, maar het zou beter geweest zijn de vragen aan te passen. Ik had 5 weken geleden alle symptomen bijv. En ik werk bijv niet op t moment. Dus beter vragen of iemand de afgelopen x aantal weken last heeft gehad, of dit nu heeft. En ook de vraag over het naar werk gaan.. er zijn heel veel mensen die nu werkloos zijn door deze situatie.. pas deze aan en minder mensen zullen afhaken denk ik",
         "score": 3,
         "thumbsUpCount": 33,
@@ -1202,7 +1214,7 @@
     {
         "reviewId": "gp:AOqpTOHIJ2Eq1HO4WxQcwTzzboztJ4AvaoWUEW3KWoglszGe_Yd_eVbcE9ruIAH56LG98h0pou4dgMT7CAUhkA",
         "userName": "Marielle Weij",
-        "userImage": "https://lh3.googleusercontent.com/-ncxoxvkkIcs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn3a71NtzbAv3kAgLgGE9OmrrOYpg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-ncxoxvkkIcs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn3a71NtzbAv3kAgLgGE9OmrrOYpg/photo.jpg",
         "content": "Het zou handiger zijn als je de kaart ook kan inzoomen.",
         "score": 3,
         "thumbsUpCount": 4,
@@ -1214,7 +1226,7 @@
     {
         "reviewId": "gp:AOqpTOHADyg06df-DidAJ0c-uszER0zGcpgf7gbYGTYI3dTG_a81wuOBbnibXtjMItUfyzoVwFPmi3SkvSLoRQ",
         "userName": "Gijs Schellingerhout",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiB8pC_fp-27Ii3YRYccmkkC2XT0J-VZgrU9m1Q0w",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiB8pC_fp-27Ii3YRYccmkkC2XT0J-VZgrU9m1Q0w",
         "content": "Wil graag meewerken om het virus onder controle te krijgen. Redelijk snel in te vullen. APP Was niet in Google Play te vinden. Ik heb de App daarna met Google gevonden. Met afsluiten blijft deze hangen maar kan de App via omweg afsluiten. Bij invullen van naam was het niet duidelijk of ik mijn voornaam / achternaam of mijn vrouw naam moest invullen. Heb uiteindelijk gekozen voor voornaam van mijn vrouw.",
         "score": 3,
         "thumbsUpCount": 5,
@@ -1238,7 +1250,7 @@
     {
         "reviewId": "gp:AOqpTOFeFX9prmMhXJeFlb5CWCyDh97ofP3At01Zqt7Q_DGAaiLT_XBFvZl7aEjR7257y3m6I9T85kXx9A664g",
         "userName": "Marcel van Kekeren",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gj_C6ZrqqNWZeyan2GsLTMT4g_k-qq4ccrGAAEqwQ4",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj_C6ZrqqNWZeyan2GsLTMT4g_k-qq4ccrGAAEqwQ4",
         "content": "Zou nog beter zijn als je met terug werkende kracht kan invullen.",
         "score": 4,
         "thumbsUpCount": 7,
@@ -1262,7 +1274,7 @@
     {
         "reviewId": "gp:AOqpTOFO2MNAn-cwwKBkL5DcClqrcLqUFEMab6dZCaU52VAWhlQ7dYNJiYlOetJwNK62mpsq0zOycmtgt7fnrw",
         "userName": "Martin de Vries",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjQnrk_KKJdcV87rxbnTw-oDvb_B4hDCL9ooPkTeg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjQnrk_KKJdcV87rxbnTw-oDvb_B4hDCL9ooPkTeg",
         "content": "Inzoomen op kaart niet mogelijk.",
         "score": 3,
         "thumbsUpCount": 2,
@@ -1274,7 +1286,7 @@
     {
         "reviewId": "gp:AOqpTOEgDlFayUQntAno_faP4NCOtaIosoN6j7-Y-RvMYRF3oxkAZVJRV0Do2Z4rMn-jwox5QMVFoabUAUF9cA",
         "userName": "L K",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gi1PkvXZJSY2QYphoV-cKbcP2SYsGWiB4eRcHkN2Q",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi1PkvXZJSY2QYphoV-cKbcP2SYsGWiB4eRcHkN2Q",
         "content": "Meer uitgebreide vragen ... er staat bijv. Wel koorts in de lijst maar geen verhoging. Ik ben een astmapatient en ook heb ik hooikoorts en het gehele jaar door last van allerlei allergie\u00ebn waardoor ik het hele jaar door hoest, nies en vaak verkouden lijk. Er staan ook geen vragen bij over rokers/wel of niet/ hoelang en hoeveel. Ivm het welbekende rokershoestje. Uitgebreidere vragenlijst zou beter zijn",
         "score": 3,
         "thumbsUpCount": 55,
@@ -1286,7 +1298,7 @@
     {
         "reviewId": "gp:AOqpTOG8MeXYWZCYY95RUS4V0VSsr--CzfKkOVQLy-GbDvq8lgAUIv3Mj84FCF3EqBmTzXSI_vYNqJjq90JZdw",
         "userName": "Maria Le Belle",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gi8R5KOuL8czi7PmLkzp1KDGy67k3reJ2RtztJIGQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi8R5KOuL8czi7PmLkzp1KDGy67k3reJ2RtztJIGQ",
         "content": "Super dat dit in kaart wordt gebracht. Mijn klachten waren actueel tot week geleden, zijn nu deels in remissie. Heeft dus geen zin om dit in te vullen omdat het vertekend beeld geeft. Zou misschien toegevoegde waarde kunnen hebben om ook klachten in remissie te bevragen.",
         "score": 2,
         "thumbsUpCount": 20,
@@ -1334,7 +1346,7 @@
     {
         "reviewId": "gp:AOqpTOENp3nN6WkJ0arIl2WpcQUjmOTNriXuUL4dBriyaDfAELpBZoXX8QjbkHGSP0ktc7bE8GPuijbqcvaG3g",
         "userName": "Dees Dees",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiNuAxIGaIlRi3HPxM1OLCCGG02lxzO7YAK42oS7PI",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiNuAxIGaIlRi3HPxM1OLCCGG02lxzO7YAK42oS7PI",
         "content": "Laag beoordeeld helaas. Je kunt niet aangeven of je een aandoening hebt. Bijv. astma, copd of taaislijmziekte. Deze mensen hoesten zonder corona ook wel..",
         "score": 1,
         "thumbsUpCount": 5,
@@ -1346,7 +1358,7 @@
     {
         "reviewId": "gp:AOqpTOH0DBjjGKX5eUwt0h12oDNHxPp-9Wd8XeUEbJOjwQ0ErQeMVFzf-j4KQjI8i-HhdAWQxZxQ9UdF61LbWw",
         "userName": "Erik Joost de Jong",
-        "userImage": "https://lh3.googleusercontent.com/-BSOcZTKBMP8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck3QpSUclgR5qTmiHwjgSid2a_JgA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-BSOcZTKBMP8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck3QpSUclgR5qTmiHwjgSid2a_JgA/photo.jpg",
         "content": "Check de app even met een aantal nerds die apps ontwikkelen. Er kan veel worden verbeterd.",
         "score": 3,
         "thumbsUpCount": 6,
@@ -1358,7 +1370,7 @@
     {
         "reviewId": "gp:AOqpTOE1QTSArdtpGZNuId_h1XzQvK7cXMlirBHUC8fo3-o6wHpNh9isgc1smQv55l0BjxcOW2dGq9hDBZK1SQ",
         "userName": "R.F. P.",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Ggi9Rohk48ZrXVnCJhL61rsdbumpTllvO6V9wizIsQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ggi9Rohk48ZrXVnCJhL61rsdbumpTllvO6V9wizIsQ",
         "content": "Op zich een goed initiatief van het LUMC. Ik heb echter een aantal kritiekpunten. Ten eerste: hoe representatief is de gewonnen data cq de steekproeg bij een vrijwillige app met zelfrapportage? Verder zou ik bij veel vragen een context willen plaatsen, bijvoorbeeld bij de lijst met symptomen. Als iemand vanwege een andere aandoening bv. kortademig is of darmklachten heeft, heeft dit niets met corona te maken. Ook mis ik vragen zoals: bent u onlangs getest op corona en wat was de uitslag?",
         "score": 2,
         "thumbsUpCount": 4,
@@ -1370,7 +1382,7 @@
     {
         "reviewId": "gp:AOqpTOFIVUra3wEtglxdaadSFLzqqku5ArxfmO0iuo959Em6xhKiO_xy8XBzwhNggOrnXvZy35bJVd4_b1VYrg",
         "userName": "Wendy Damstra",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiBY8cP1IF8UWEUwliyNP4WMXVJF-wX1oKTlPnl1Q",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiBY8cP1IF8UWEUwliyNP4WMXVJF-wX1oKTlPnl1Q",
         "content": "De vragen zijn niet compleet. Hoe vul je het vermoeden in al Covid gehad te hebben?? Contact met pati\u00ebnten? Ja/nee is te beperkt. Gezien mijn werk is de kans best groot, maar dat kan ik niet weten. En wat betekent contact gehad? Binnen/buiten 1,5 meter? Alleen een gesprek gehad? Of ook aanraking?",
         "score": 4,
         "thumbsUpCount": 11,
@@ -1394,7 +1406,7 @@
     {
         "reviewId": "gp:AOqpTOFoAMX5nF64gvyMJHQoByZp6kPOdjOM8qEc_-hS7IspyManqr4QMAWJlW4Ko-94ZhGCC_tZmxPbvbRvzg",
         "userName": "Alexandra Jansen",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gi_ZRFfPzFan1zQekq7r16uCiLUYfWrLPaIcgQXYKc",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi_ZRFfPzFan1zQekq7r16uCiLUYfWrLPaIcgQXYKc",
         "content": "Goed initiatief. Aan de reviews te zien zou een feed back button een goede toevoeging zijn, ter verbetering van de app.",
         "score": 4,
         "thumbsUpCount": 4,
@@ -1406,7 +1418,7 @@
     {
         "reviewId": "gp:AOqpTOGwqW9ccIRVrNZfnO1_qiuLahSIVJ-DZmgJQ_TZXbAs3HprAV0o0jGhQlUphQ79Rjr7l45Kk44gwvV0oA",
         "userName": "Ra\u00f4el Oomen",
-        "userImage": "https://lh3.googleusercontent.com/-YjQMnKlZgBw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclHiFMB3tcKeBVNh5UaMso3Jb93xw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-YjQMnKlZgBw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclHiFMB3tcKeBVNh5UaMso3Jb93xw/photo.jpg",
         "content": "Vraag 1: bent u met een corona pati\u00ebnt in contact geweest. Weet ik niet? Ik ken wel meerdere mensen die 3 weken met koorts en hoesten in bed gelegen hebben, maar niemand is getest. Wat nu? Wat vul ik in?",
         "score": 2,
         "thumbsUpCount": 14,
@@ -1430,7 +1442,7 @@
     {
         "reviewId": "gp:AOqpTOGIIyhGvW_aFzw17FRBlSHZJsO8Q4UDcEpZ8LvXj3soKLVkTJJ2NLi29XJ-LGlEYKEjFkxUerlBLMdw7A",
         "userName": "A B",
-        "userImage": "https://lh3.googleusercontent.com/-rhcizXCH5R8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn2trFdkfbuugR7XKPhMimyrlqI9Q/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-rhcizXCH5R8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn2trFdkfbuugR7XKPhMimyrlqI9Q/photo.jpg",
         "content": "Er wordt niet nagegaan of mensen benauwdheid, niezen en hoesten ivm jarenlange pollenallergie, astma, rokershoestjes ed kunnen hebben. Er zou meer doorgevraagd kunnen worden om duidelijker te zijn of het Corona betreft of niet. Testen is weten, een app is slechts een wazige indicatie",
         "score": 2,
         "thumbsUpCount": 37,
@@ -1442,7 +1454,7 @@
     {
         "reviewId": "gp:AOqpTOF_iDANT4EaH-n6LRGp6OhoVHNucdYbW6YKgObTQFZrg_NKpUjetoly6kUZxlySOW6md9OEHarFycAuRQ",
         "userName": "EST TSE",
-        "userImage": "https://lh3.googleusercontent.com/-mYvV96RsIDM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm92e3wyQ9athC4hy9mNd0YpXcfmA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-mYvV96RsIDM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm92e3wyQ9athC4hy9mNd0YpXcfmA/photo.jpg",
         "content": "Overzichtelijk, dummieproof. Inzoomen op kaartje zou mooi toevoeging zijn.",
         "score": 3,
         "thumbsUpCount": 4,
@@ -1454,7 +1466,7 @@
     {
         "reviewId": "gp:AOqpTOGx1kkPQXrOcgkVvh12wY4UTK2ny_TbIhs6Tg9CSnT4hilNd5tg6hHA6r3SacxKR5FplbJIxPIOHtWU5Q",
         "userName": "Boudewijn Mulder",
-        "userImage": "https://lh3.googleusercontent.com/-bkPzW32jr-0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclwfN0deL1PCa3Cw-nwQX7_0lvYHw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-bkPzW32jr-0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclwfN0deL1PCa3Cw-nwQX7_0lvYHw/photo.jpg",
         "content": "Goed idee deze app, maar de vraagstelling moet duidelijker. Wanneer ben ik buiten? Ben ik in een supermarkt 'in contact' met mensen? In een supermarkt kun je nog zo je best doen, maar er komen heel veel mensen dichterbij dan 1,5 meter. Tellen die mee?",
         "score": 3,
         "thumbsUpCount": 8,
@@ -1478,7 +1490,7 @@
     {
         "reviewId": "gp:AOqpTOGzXp2ZmgG2SiDVIyAPe2bwRRNFBnKmH5NL92W-95_CDfN9juBefKjWPLWQotYKdwJmQtzfXm9hG_MK6w",
         "userName": "Petra Snoek",
-        "userImage": "https://lh3.googleusercontent.com/-m--vuxaAY9M/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl3RsO7c7viwxZShO9FbE39U2CC3w/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-m--vuxaAY9M/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl3RsO7c7viwxZShO9FbE39U2CC3w/photo.jpg",
         "content": "Het zou fijn zijn als ik zou kunnen toevoegen dat ik Astma heb en de kortademigheid daardoor niet als symptoom kan aanwijzen. Dat doe ik al 9 jaar ofzo. Net als hoesten. Stoffen die mijn longen irriteren leveren hoesten op. Onder meer de eerste drie uur na het gebruik van mijn inhalator en hoest ik. Ik heb ja ingevuld maar het is mijn normale kuch en hoest en kortademigheid.",
         "score": 4,
         "thumbsUpCount": 23,
@@ -1490,7 +1502,7 @@
     {
         "reviewId": "gp:AOqpTOHQZzSucWr8e5hAhZjmiTBkWv54slzicoGSMcw7m1mp78-sq-t_GKh470EQTyQkgPTXYkDQhxE-MEGydw",
         "userName": "Raymond Grovenstein",
-        "userImage": "https://lh3.googleusercontent.com/-CVbyW-7s2gg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmMEEzJvbNh9-NZ1wGK7Y8ikm31Fw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-CVbyW-7s2gg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmMEEzJvbNh9-NZ1wGK7Y8ikm31Fw/photo.jpg",
         "content": "Mooie duidelijke app, maar niet geschikt voor mensen waarbij het 3 weken geleden is begonnen.",
         "score": 2,
         "thumbsUpCount": 2,
@@ -1502,7 +1514,7 @@
     {
         "reviewId": "gp:AOqpTOFsq4b7OctQkiePan00CLRnFrPWG6GWHUvg8ErJZpIE39kBOhhYNWw7I06ij6GH7IgIx4xVAfrqQJnuuA",
         "userName": "Karst Wierenga",
-        "userImage": "https://lh3.googleusercontent.com/-haJuDOrEPoI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclBIkak5QwqhuhLAEsFyMgePdQzcQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-haJuDOrEPoI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclBIkak5QwqhuhLAEsFyMgePdQzcQ/photo.jpg",
         "content": "Error connecting to server. Lijkt niet te werken.",
         "score": 3,
         "thumbsUpCount": 1,
@@ -1514,7 +1526,7 @@
     {
         "reviewId": "gp:AOqpTOHI4acysBoIYavq4eoUF1mhePdacLIBz4Bi1DQ3fi8mlyTxK7HtAGUYT_FC-6ktO7tdsIQZXBpoEzaL-g",
         "userName": "Be rt",
-        "userImage": "https://lh3.googleusercontent.com/-4aXaP7WUGZc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucleP0r8Yu5uRhYw0SIwrwvQ4aHZgA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-4aXaP7WUGZc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucleP0r8Yu5uRhYw0SIwrwvQ4aHZgA/photo.jpg",
         "content": "Vraagstelling kan duidelijker. Buitenshuis, is dat in de tuin, op het balkon of verder weg? De grootste uitdaging lijkt de supermarkt. Mogelijk om dat op te nemen. Daar is grote kans op contact met derden.",
         "score": 3,
         "thumbsUpCount": 12,

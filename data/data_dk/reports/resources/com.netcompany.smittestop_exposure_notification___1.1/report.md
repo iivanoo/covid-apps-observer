@@ -204,7 +204,7 @@ The Smittestop app has been installed by more than **100000** times. At this tim
 <img src="3_star_reviews_wordcloud.png" alt="com.netcompany.smittestop_exposure_notification 3 reviews"/>
 </p>
 
-> Intentionen er prisværdig men udførelsen halter: Det lader til at baggrundschecket uprovokeret kan gå i stå. Fylder 3 gange så meget som andre landes tilsvarende apps. Dvs. apps der også benytter Apple/Googles notifikations-system. Ej open-source.<br> :date: __2020-10-17 19:11:41__
+> Intentionen er prisværdig men udførelsen halter: I default-konfigurationen, hvor batteri-optimering er aktiv, kan baggrundschecket uprovokeret gå i stå uden at brugeren advares. Fylder 3 gange så meget som andre landes tilsvarende apps. Dvs. apps der også benytter Apple/Googles notifikations-system. Ej open-source.<br> :date: __2020-10-18 22:00:15__
 
 > Can i change the language to english?<br> :date: __2020-10-03 21:45:17__
 
@@ -232,6 +232,8 @@ The Smittestop app has been installed by more than **100000** times. At this tim
 <img src="2_star_reviews_wordcloud.png" alt="com.netcompany.smittestop_exposure_notification 2 reviews"/>
 </p>
 
+> Registrerer ikke mange kontakter... Og virker ret ligegyldig - men har den da tændt 24 timer i døgnet<br> :date: __2020-10-19 08:55:27__
+
 > It is not compatible with my (old) mobile<br> :date: __2020-10-09 13:49:57__
 
 > Ideen med app'en er rigtig god, men den bruger bare alt for meget strøm.<br> :date: __2020-09-28 07:10:46__
@@ -250,8 +252,6 @@ The Smittestop app has been installed by more than **100000** times. At this tim
 
 > Funktionelt endelig ved at være på plads. Dog trækker omstændighederne og undfangelsen MEGET ned. 20 mio. kroner for en closed source app der kunne være bygget for under 100.000 på samme tid. Måske skulle man også sætte studentermedhjælper, der faktisk har bestået en sproglig eksamen, til at besvare anmeldelser og henvendelser.<br> :date: __2020-08-15 19:23:19__
 
-> Make it available in English as well? If you really care all people in dk to stay safe<br> :date: __2020-08-14 00:17:40__
-
 
 
 #### 1-star reviews
@@ -259,6 +259,12 @@ The Smittestop app has been installed by more than **100000** times. At this tim
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="com.netcompany.smittestop_exposure_notification 1 reviews"/>
 </p>
+
+> Closed source and no English translation...<br> :date: __2020-10-20 23:15:59__
+
+> Netcompany er et svindelfirma<br> :date: __2020-10-19 20:54:57__
+
+> Painfully buggy and lacks english language support.<br> :date: __2020-10-19 18:01:30__
 
 > Hvorfor hører jeg konstant, at app'en er opdateret, medens sidste version er fra 14. august?<br> :date: __2020-10-09 09:05:16__
 
@@ -273,11 +279,5 @@ The Smittestop app has been installed by more than **100000** times. At this tim
 > Det er meget uheldigt at app'en ikke automatisk starter op hvis man genstarter telefonen. Efter 4 uger opdagede jeg at app'en slet ikke var aktiv - hvilket er helt tosset. Det bliver i simpelthen nød til at rette. App'en stopper og starter ikke igen - meget problematisk.<br> :date: __2020-09-19 11:10:26__
 
 > App should also be in English.<br> :date: __2020-09-04 01:06:13__
-
-> Version 1.0.3 og den nyere 1.1 crasher under opstart. Tidligere versioner virker. Hvorfor kan man ikke gå tilbage til en version der virker? Skriver til support - igen...<br> :date: __2020-08-30 20:24:54__
-
-> Why isn't there an English version?<br> :date: __2020-08-29 18:05:57__
-
-> Aug-26: stadig kun på dansk?!!Nedjusterer fra 2 til 1 stjerne, da den fortsat kun findes på dansk. En engelsk version er muligvis (!) stadig på vej her snart to måneder, og alt for sent. Og hvad med andre sprog? Arabisk, urdu mfl? Jeg er sikker på at I kan finde de anbefalede sprog hos sundhedsmyndighederne Det tager et par dage at oversætte. I betragtning af situationens alvor håber jeg en version på flere sprog kommer om få dage. Så meget er der altså heller ikke at oversætte. Det er en ommer.<br> :date: __2020-08-26 18:56:21__
 
 

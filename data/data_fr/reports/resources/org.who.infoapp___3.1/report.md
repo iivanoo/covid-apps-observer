@@ -166,6 +166,8 @@ The WHO Info app has been installed by more than **100000** times. At this time,
 <img src="4_star_reviews_wordcloud.png" alt="org.who.infoapp 4 reviews"/>
 </p>
 
+> جيد<br> :date: __2020-10-18 21:38:38__
+
 > Pas mal votre idée<br> :date: __2020-08-11 14:31:55__
 
 > Bonne application pour les infos, pour ceux qui se plaignent pour la langue vous pouvez modifier dans le profil, l'icône "personne " en bas à droite en fonction de votre version vous choisissez votre langage, par défaut le contenu l'application est en anglais.<br> :date: __2020-07-13 14:39:13__

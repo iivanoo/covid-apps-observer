@@ -244,6 +244,8 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 <img src="3_star_reviews_wordcloud.png" alt="gov.cdc.general 3 reviews"/>
 </p>
 
+> deleted this app because the same information is on their website<br> :date: __2020-10-23 04:57:07__
+
 > Under WH control! It is what it is.<br> :date: __2020-08-26 03:35:25__
 
 > I think the apps utilization could be much better but overall the app is very helpful for information.<br> :date: __2020-08-23 04:24:46__
@@ -261,8 +263,6 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 > What happened to the daily updates? Did Trump get to you? Ah science. What do you matter.<br> :date: __2020-05-26 18:27:05__
 
 > Disappointing. Not as useful as I expected. Doesn't show up to date info. Just info we've already seen 1000 times. Expected more from the CDC whom I've always respected.<br> :date: __2020-05-23 06:09:07__
-
-> App does not work on android phones.<br> :date: __2020-05-15 00:22:26__
 
 
 

@@ -234,6 +234,8 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 <img src="2_star_reviews_wordcloud.png" alt="org.madrid.CoronaMadrid 2 reviews"/>
 </p>
 
+> La verdad es que no me extraña que no se descarguen la app, es fatal tener que ingresar la fecha de nacimiento dando para atrás mes a mes (la mía 1954). Tienen que actualizar la forma de ingresar la, con las tecnologías que hay hoy en día es ¡¡¡INCREÍBLE!!!<br> :date: __2020-10-20 16:56:49__
+
 > Selección de fecha nacimiento muy ineficiente. ¿Búsqueda mes a mes? Revisen la app.<br> :date: __2020-09-01 08:52:10__
 
 > Que para empezar te pidan fecha de nacimiento y haya que ir mes a mes hasta encontrarla puede desanimar a cualquier persona mayor de 1 año. La aplicacion consiste básicamente en hacerte unas pocas preguntas. Buena iniciativa pero mejorable.<br> :date: __2020-08-31 20:09:18__
@@ -252,8 +254,6 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 
 > El día 2/4/20 tuve unas alteraciones en mi salud que me inducen a pensar que tuve Covid19 empece a tomar paracetamol y me fue bajando la fiebre y los escalofríos, a todo esto me dijeron que con los datos que les di no podían evaluar si estaba contagiado.¿ porque no hacen test masivos? a lo mejor lo he tenido de forma leve y he podido estar contagiando sin saberlo.<br> :date: __2020-05-04 10:59:47__
 
-> Me parece que hacen muy pocas preguntas... Por ejemplo, no está el tema de los sarpullidos y picor en la piel, la diarrea, etc. El covid tiene más síntomas que la tos, fiebre y la falta de aire.<br> :date: __2020-04-25 23:27:59__
-
 
 
 #### 1-star reviews
@@ -261,6 +261,10 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="org.madrid.CoronaMadrid 1 reviews"/>
 </p>
+
+> Es para hacer un diagnóstico no para hacer un rastreo. Ya todos sabemos cuáles son los síntomas de la covid 19<br> :date: __2020-10-18 19:39:40__
+
+> Ni si quiera se abre la app<br> :date: __2020-10-18 15:12:51__
 
 > Falta muy mucho por deserrollar<br> :date: __2020-10-15 19:13:45__
 
@@ -277,9 +281,5 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 > No sirve. Si no muestra los contactos positivos no sirve para nada.¿ Un autodiasnostico? No hace falta tener una app para saber que te tienes que quedar en casa si tienes toda y fiebre<br> :date: __2020-10-07 13:56:16__
 
 > Fatal! Es declarativa y no me informa de los que tengo alrededor , informaticamente pobre, usar el barrido a los moviles alrededor es automatico, recomiendo usar tambien covid radar, y que los politicos nos dejen elegir a los usuarios. Estoy en Madrid y tengo miedo de ir a la ciudad, abrir covid radar a madrid y ayudar , yo dejo de votar a los actuales politicos de mi ccaa, esto es una falta de respecto, tengo varios afectados alrededor.<br> :date: __2020-10-06 21:02:45__
-
-> No es nada útil<br> :date: __2020-09-25 19:58:40__
-
-> No funciona<br> :date: __2020-09-24 21:55:22__
 
 

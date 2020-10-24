@@ -199,25 +199,25 @@ The COVID Symptom Study app has been installed by more than **1000000** times. A
 <img src="5_star_reviews_wordcloud.png" alt="com.joinzoe.covid_zoe 5 reviews"/>
 </p>
 
-> Works really well. Clear instructions.<br> :date: __2020-10-18 10:04:32__
+> Quick and easy to use<br> :date: __2020-10-24 09:21:02__
 
-> It only takes a minute to report on this app.<br> :date: __2020-10-18 09:15:06__
+> Easy to use.<br> :date: __2020-10-24 03:42:09__
 
-> Very efficient<br> :date: __2020-10-18 08:44:04__
+> Easy<br> :date: __2020-10-23 23:54:55__
 
-> This is a fantastic health monitoring app in the current Covid 19 Crisis and because it has localised data gives users an understanding of what is happening in your area. The weekly reports are great and they influence decisions made by Sage due to the large data set.<br> :date: __2020-10-18 08:22:16__
+> Like being able to check the rate in my locality<br> :date: __2020-10-23 23:23:40__
 
-> Simple<br> :date: __2020-10-18 07:25:25__
+> Informative, and nice to know I'm helping in some small way to aid science in fight against coronavirus<br> :date: __2020-10-23 23:21:42__
 
-> Brilliant app which has improved loads over the last few weeks, everyone should use it<br> :date: __2020-10-18 00:16:52__
+> Simple to do.<br> :date: __2020-10-23 21:34:43__
 
-> Useful app in uncertain times together with the track and trace app I get up to date information while providing information that could help others.<br> :date: __2020-10-17 23:48:32__
+> Easy to report, lots of up to date information.<br> :date: __2020-10-23 21:18:36__
 
-> Informative and useful app.<br> :date: __2020-10-17 22:32:21__
+> Easy and quick to use.<br> :date: __2020-10-23 19:57:50__
 
-> Would recommend everyone to sign up for this<br> :date: __2020-10-17 21:04:01__
+> Very quick and easy to use. Shares data on the pandemic<br> :date: __2020-10-23 19:48:18__
 
-> Quick simple and good feedback. Feel as though I'm contributing and getting factual feedback. Unlike the NHS app<br> :date: __2020-10-17 20:40:07__
+> Good<br> :date: __2020-10-23 16:52:11__
 
 
 
@@ -227,25 +227,25 @@ The COVID Symptom Study app has been installed by more than **1000000** times. A
 <img src="4_star_reviews_wordcloud.png" alt="com.joinzoe.covid_zoe 4 reviews"/>
 </p>
 
-> Simple and straightforward<br> :date: __2020-10-17 22:15:18__
+> Good<br> :date: __2020-10-23 21:39:49__
 
-> Good information and easy to use.<br> :date: __2020-10-17 15:15:50__
+> It's taken me 4 days to relise I need to scroll down to respnd & submit (this is the first time I've ever used an app _ I can't even find the Govnt one!)<br> :date: __2020-10-23 20:16:08__
 
-> Excellent tool. I hope it helps.<br> :date: __2020-10-17 14:37:03__
+> Fair.<br> :date: __2020-10-23 19:20:49__
 
-> Good, worthwhile study. Some of the charts could be clearer<br> :date: __2020-10-17 14:10:22__
+> Easy to use<br> :date: __2020-10-23 17:47:11__
 
-> Very clear and precise easy to understand<br> :date: __2020-10-17 13:21:30__
+> Questions require yes/no answers which isn't always appropriate. No facility to give a degree - eg mild, severe, constant or infrequent. This could be better recorded as a scale of 1 -10.<br> :date: __2020-10-23 16:21:37__
 
-> Easy to download and use. Links to really helpful up to date information about covid and good to help research.<br> :date: __2020-10-17 10:44:40__
+> Been working well since i downloaded, but I had to uninstall and re-install today due to a failure to open after a notification was received to record daily symptoms.<br> :date: __2020-10-23 14:22:15__
 
-> Good app. Some good information on there. Surprising statistics. Should be more options for symptoms though. Have like the NHS old symptom tracker tick list style to how you feel that day.<br> :date: __2020-10-17 10:37:48__
+> Easy to use and very informative 👌<br> :date: __2020-10-23 12:16:50__
 
-> I rated app 4 stars because I think it could be improved by including questions like:- Contact with non household members within the home? Other symptoms not on the list with space for Comments.<br> :date: __2020-10-16 17:47:01__
+> Helpful but could be more obvious how to report. New to the app and didn't find reporting easy<br> :date: __2020-10-23 12:07:04__
 
-> Failed to load yesterday. H ad to reinstall<br> :date: __2020-10-16 09:56:46__
+> Good that it usually takes just a minute<br> :date: __2020-10-23 00:11:16__
 
-> Good<br> :date: __2020-10-16 09:13:46__
+> Ok<br> :date: __2020-10-22 23:35:52__
 
 
 
@@ -254,6 +254,14 @@ The COVID Symptom Study app has been installed by more than **1000000** times. A
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="com.joinzoe.covid_zoe 3 reviews"/>
 </p>
+
+> Provides us with comfort. Keep it up.<br> :date: __2020-10-23 19:47:13__
+
+> Didn't work so had to uninstall then start again new password etc. If it happens again wil l uninstall although you are doing a great job<br> :date: __2020-10-22 20:06:07__
+
+> Stopped working yesterday<br> :date: __2020-10-19 07:49:58__
+
+> Functional.<br> :date: __2020-10-18 12:32:19__
 
 > Ok for 2 weeks, then app terminally failed, just showing blank white screen. Had to reinstall it which is hard as it doesn't come up when searching Play Store.<br> :date: __2020-10-17 13:38:17__
 
@@ -267,14 +275,6 @@ The COVID Symptom Study app has been installed by more than **1000000** times. A
 
 > Does not always log the entries one makes - several times it has told me incorrectly that I have not replied for one or two days. No opportunity for making comments: I wanted to tell it that I had had antibody tests for research purposes (Biobank) but would not be told the results but could not do so - the only option was to record a "failed test".<br> :date: __2020-10-15 13:14:01__
 
-> This app was great, I could log all my tests (regular tests from work) but as of yesterday I've just been getting a white screen? Uninstalled and installed again but still the same..disappointing. Update: I can get back on again, but unable to scroll down my tests to update results :/<br> :date: __2020-10-15 12:12:00__
-
-> Can't seem to edit my last test result. Will only show me the past ones as it won't let me scroll down. I have done 11, only shows 10 though. Have to be tested once a week for work.<br> :date: __2020-10-15 12:07:44__
-
-> Firstly was 5stars. Down to three now as half my tests have disappeared off the app<br> :date: __2020-10-15 11:49:30__
-
-> Was OK but, as with many other people, it now loads a white screen and nothing more.<br> :date: __2020-10-15 10:52:57__
-
 
 
 #### 2-star reviews
@@ -282,6 +282,8 @@ The COVID Symptom Study app has been installed by more than **1000000** times. A
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="com.joinzoe.covid_zoe 2 reviews"/>
 </p>
+
+> The app is good bit it's missing one digit off all the numbers. So it looks like there are just 75 cases of covid locally but it must be 750+. I know this as I can see numbers like 4,560,09 please fix it!<br> :date: __2020-10-23 00:44:08__
 
 > Rubbish! The app will not move past the test questions. Constantly asks for new test info. Cannot complete the process.I have uninstalled it, that is how I deal with apps that do not work!<br> :date: __2020-10-17 12:01:04__
 
@@ -299,8 +301,6 @@ The COVID Symptom Study app has been installed by more than **1000000** times. A
 
 > Confusing and being forced through pages every day that have already been read.<br> :date: __2020-09-29 12:34:32__
 
-> For fuller coverage, this should be available for PASSIVITY<br> :date: __2020-09-25 15:35:23__
-
 
 
 #### 1-star reviews
@@ -308,6 +308,14 @@ The COVID Symptom Study app has been installed by more than **1000000** times. A
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="com.joinzoe.covid_zoe 1 reviews"/>
 </p>
+
+> Registered on the app from day 1 of its release, told daily how i felt then added my partner, we both used the app to track how we were feeling while Sheilding. 6 month's taking part in the study, then suddenly on the12th October the app would not open. Lost months of daily log in. Tried to open app, but it's as if im using it for the first time. Still get regular emails saying to keep up the good work of logging in, even if your feeling well. Its a good concept, I didn't expect it to crash.<br> :date: __2020-10-20 01:46:27__
+
+> Sadly unusable now as it won't let me or my wife log in or create a new account. Keep getting a 403 error.<br> :date: __2020-10-19 22:03:10__
+
+> Doing a wonderful job. Only one star to try to alert a bug. It is possible to report with no internet connection. The report is also accepted. I have missed several days due to this bug before working out what was going on. Otherwise totally brilliant. Please respond as I want to amend this back to 5 stars. Thank you very much. 👍<br> :date: __2020-10-18 17:14:41__
+
+> App seems fine for what it is. One thing I noticed is last question relates only too people who are at home or hospital. I think it should include people like myself who are working still. Although I'm not nhs , I think it will add a broader idea as too how the virus travels if you include working people and thier profession. *Edit* Uninstalling due too the recent email advertisement from ex pm wife's company. I installed app too help out with daily health updates. Not too further her portfolio.<br> :date: __2020-10-18 15:00:06__
 
 > App will no longer open, just a white screen. Tried clearing cache, shutting down to no effect.<br> :date: __2020-10-15 11:26:15__
 
@@ -320,13 +328,5 @@ The COVID Symptom Study app has been installed by more than **1000000** times. A
 > App has suddenly stopped working on a Honor View 20 running Android 10.<br> :date: __2020-10-15 08:09:53__
 
 > Can no longer get app to load . Tried reinstalling but get white screen and won't progress further. Its been working fine up until now. Galaxy note 9<br> :date: __2020-10-15 07:00:41__
-
-> Once past the login screen, only get a white screen. Have cleared cache and data, with no joy, so rendering the app useless<br> :date: __2020-10-15 02:41:47__
-
-> Worked ok for a while, then just stopped - white screen, nothing happening. Needs sorting as it's a good idea.<br> :date: __2020-10-14 20:44:12__
-
-> This has been working perfectly for 6 months. Until today. All I'm getting is it saying loading, and then I get a white screen. I've tried clearing my cache, logging out and in again, even uninstallng and installing again and nothing will cure it. Anybody know what is wrong and how to cure it? Help!<br> :date: __2020-10-14 18:23:02__
-
-> Not accurate. I live in an area which has had really low numbers but this app is identifying my area as 5000+ a month. In reality <800 in total since the start of the pandemic. I have now deleted my data and will uninstall.<br> :date: __2020-10-11 22:34:47__
 
 

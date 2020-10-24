@@ -142,6 +142,8 @@ The COVIDCare NI app has been installed by more than **50000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="net.hscni.covid19ni 5 reviews"/>
 </p>
 
+> Excellent service I could recommend<br> :date: __2020-10-19 15:13:53__
+
 > Very poor<br> :date: __2020-09-08 20:21:41__
 
 > Amazing and informative app. PLEASE NOTE THIS APP IS FOR NORTHERN IRELAND ONLY. So don't think this will work in other parts of the UK or the world, however it is compatible with the republic of ireland version.<br> :date: __2020-08-01 00:43:11__
@@ -159,8 +161,6 @@ The COVIDCare NI app has been installed by more than **50000** times. At this ti
 > If you are from UK but not from NI, this app is not for you as it may not match the advice your local government is giving. Crucially, this is the advice of the Northern Irish HSC (NHS equivalent).<br> :date: __2020-06-02 13:07:43__
 
 > I don't live in NI, and I don't have any covid symptoms but I was curious to see how this app worked, so I used an NI postcode and 'role-played'. This is great; clear and concise, with efficient links through to local health service info. We could definitely benefit from an app like this in mainland UK. Hats off to the developers! To those giving 1 star reviews, I note many of you do not live in NI & did not notice that the app was, therefore, not designed for you!!!<br> :date: __2020-05-27 19:31:24__
-
-> 🌍🌎🌏😷<br> :date: __2020-05-20 18:53:50__
 
 
 
@@ -246,6 +246,8 @@ The COVIDCare NI app has been installed by more than **50000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="net.hscni.covid19ni 1 reviews"/>
 </p>
 
+> Rubbish<br> :date: __2020-10-18 20:47:15__
+
 > Totally useless!; Not able to get passed "Accept" terms. Be easier to wait for the news updates. Amazingly bad.<br> :date: __2020-10-04 18:50:14__
 
 > doesn't load past the first screen<br> :date: __2020-09-26 17:06:32__
@@ -263,7 +265,5 @@ The COVIDCare NI app has been installed by more than **50000** times. At this ti
 > unfortunately, COVIDCard NI Has stopped so the app is useless as it just crashes And i wish people could read the words NI 'Northern Ireland' and stop moaning that its not working in your area as it clearly says Northern Ireland in the Description a few times on the download page. only problem i have with app is it don't load and just crashes.<br> :date: __2020-07-31 13:04:30__
 
 > Slow<br> :date: __2020-07-30 23:13:46__
-
-> Can't access the tracker app via the link on this app. Get error 403. No point in having this app if not linked to tracker app<br> :date: __2020-07-30 20:17:27__
 
 

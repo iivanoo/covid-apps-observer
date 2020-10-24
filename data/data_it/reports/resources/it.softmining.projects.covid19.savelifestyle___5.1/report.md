@@ -241,6 +241,8 @@ The SM_Covid19 app has been installed by more than **50000** times. At this time
 <img src="3_star_reviews_wordcloud.png" alt="it.softmining.projects.covid19.savelifestyle 3 reviews"/>
 </p>
 
+> Questa app è sicura come quella governativa?<br> :date: __2020-10-20 14:31:12__
+
 > Se non attivano tutti, il bluetooth e il gps, l' utilità è solo parziale.<br> :date: __2020-10-07 17:36:45__
 
 > Aspetto di usarla e vederne il responso per dare una valutazione più attinente. Faccio notare una mancanza tra le categorie indicate... Mancano le forze dell'ordine, forse meno a rischio dei medici/infermieri/OSS ma categoria a rischio per servizio.<br> :date: __2020-09-16 14:09:22__
@@ -258,8 +260,6 @@ The SM_Covid19 app has been installed by more than **50000** times. At this time
 > Nessuna esperinsa<br> :date: __2020-07-08 21:44:00__
 
 > Buona<br> :date: __2020-07-08 19:36:55__
-
-> non 0si capisce il funz.to<br> :date: __2020-07-01 13:12:28__
 
 
 
@@ -297,6 +297,8 @@ The SM_Covid19 app has been installed by more than **50000** times. At this time
 <img src="1_star_reviews_wordcloud.png" alt="it.softmining.projects.covid19.savelifestyle 1 reviews"/>
 </p>
 
+> Ottimo<br> :date: __2020-10-20 16:15:04__
+
 > Uno perché viene solo il bt e non il gps. Mettete un margine d'incertezza per la privacy. Sarebbe utilissimo sapere che nel raggio di cento metri c'è stato tizio sicuramente positivo (perchè testato).<br> :date: __2020-10-06 10:57:21__
 
 > La segnalazione solo delle presenze delle persone non da alcuna certezza sulla presenza di eventuali positivi<br> :date: __2020-10-05 17:08:21__
@@ -314,7 +316,5 @@ The SM_Covid19 app has been installed by more than **50000** times. At this time
 > App pessima da 3 giorni circa non si apre più. È meglio che cambiate lavoro!!!!<br> :date: __2020-07-21 19:14:07__
 
 > Dopo ultimo upgrade, l'app va in crash<br> :date: __2020-07-19 20:33:36__
-
-> Samsung A70<br> :date: __2020-07-14 14:32:17__
 
 

@@ -141,6 +141,8 @@ The LAZIOdrCovid app has been installed by more than **100000** times. At this t
 <img src="5_star_reviews_wordcloud.png" alt="com.intellicare.covid 5 reviews"/>
 </p>
 
+> Tolto accesso, prego provvedere non mi invia sms per attivare<br> :date: __2020-10-21 12:26:52__
+
 > App veramente chiara e immediata. Semplicissima da utilizzare<br> :date: __2020-10-12 08:58:04__
 
 > Scaricate tutti l'app.<br> :date: __2020-10-11 20:22:25__
@@ -158,8 +160,6 @@ The LAZIOdrCovid app has been installed by more than **100000** times. At this t
 > Applicazione utile e ben fatta.<br> :date: __2020-08-27 07:48:42__
 
 > Efficace<br> :date: __2020-08-15 20:15:43__
-
-> Buoni<br> :date: __2020-06-18 15:11:38__
 
 
 
@@ -225,6 +225,8 @@ The LAZIOdrCovid app has been installed by more than **100000** times. At this t
 <img src="2_star_reviews_wordcloud.png" alt="com.intellicare.covid 2 reviews"/>
 </p>
 
+> I grafici non funzionano più: invio i dati ma, non avendo il riscontro nel grafico non so' se sono registrati. Se non funziona più ditelo, risparmio memoria del cell.<br> :date: __2020-10-23 21:46:21__
+
 > sicuri che l'app funzioni correttamente? E che i medici di base siano informati o connessi ad essa? Io non credo...ho contattato il mio medico con l'app questa mattina alle 11 (quando era ancora in servizio nell'ambulatorio della mia zona) e ancora non ho ricevuto risposta né vedo esito di lettura... ipotizzo che avendo tutti i miei dati (comunicati in fase di registrazione, con mia assoluta approvazione) siete anche in grado di 'collegarmi' con il mio medico... il problema di chi è allora?<br> :date: __2020-09-07 17:25:46__
 
 > Ho provato più volte a contattare il medico di famiglia. Invano. Non ne ho capito bene l'utilità. Due stelle di incoraggiamento<br> :date: __2020-09-03 12:06:54__
@@ -243,8 +245,6 @@ The LAZIOdrCovid app has been installed by more than **100000** times. At this t
 
 > Non aggiunge né leva nulla alle altre mille sul corona virus<br> :date: __2020-05-04 12:03:16__
 
-> come faccio a vedere il nome del medico? e per contattare la pediatra dei bambini? grazie<br> :date: __2020-04-26 12:12:58__
-
 
 
 #### 1-star reviews
@@ -252,6 +252,8 @@ The LAZIOdrCovid app has been installed by more than **100000** times. At this t
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="com.intellicare.covid 1 reviews"/>
 </p>
+
+> Nella sezione "Contatta il tuo medico" non compare nessuno<br> :date: __2020-10-21 10:33:57__
 
 > non mi fa nemmeno accedere. In 40 minuti non arriva mai l'sms (il numero è scritto bene ho controllato più volte) per accedervi e non riesce nemmeno a trovare il mio codice fiscale<br> :date: __2020-10-15 12:30:22__
 
@@ -270,7 +272,5 @@ The LAZIOdrCovid app has been installed by more than **100000** times. At this t
 > Assolutamente inutile. Dopo l'ultimo.aggiornamento chiede sempre la registrazione ed ogni volta la conferma sms viene ignorata. Ad ogni modo anche quando funzionava non è servita a nulla, non ha mai funzionato contatta il mio medico. La disinstallerò<br> :date: __2020-09-09 08:11:02__
 
 > Il medico non ha mai risposto e le altre funzioni non danno alcun valore aggiunto. Chissà se qualcuno riceve i dati e li lavora veramente.<br> :date: __2020-09-05 09:20:39__
-
-> Scaricata ma non si apre. A cosa serve?<br> :date: __2020-09-01 03:26:16__
 
 

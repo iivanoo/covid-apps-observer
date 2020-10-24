@@ -194,6 +194,10 @@ No recent reviews available with 2 stars.
 <img src="1_star_reviews_wordcloud.png" alt="com.proudcrowd.exposure 1 reviews"/>
 </p>
 
+> Not really sure how often it does a check but from what I see from the pictures it's suppose to check 2 hours or so and I will go hours between checks kind of disappointed in the app not going to know if I have been exposed if it don't check when it is suppose to<br> :date: __2020-10-22 15:54:17__
+
+> I can't get passed the accept screen. When I push the button nothing happens . I am a college student and the only family member leaving my house so this is a very important part of staying safe. Any help? I'm using a Xiaomi Redmi Note 8 Pro and the most recent android patch.<br> :date: __2020-10-21 09:20:23__
+
 > Communism is the very definition of failure.<br> :date: __2020-10-18 02:42:54__
 
 > Poop<br> :date: __2020-10-17 03:20:45__

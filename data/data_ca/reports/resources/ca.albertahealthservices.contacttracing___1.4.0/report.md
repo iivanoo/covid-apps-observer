@@ -257,6 +257,10 @@ The ABTraceTogether app has been installed by more than **50000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="ca.albertahealthservices.contacttracing 1 reviews"/>
 </p>
 
+> Give us the federal app.<br> :date: __2020-10-21 20:15:36__
+
+> Why is alberta being stupid and ignoring rest of canada and not participating in the canada alert app / why you make your own your just gonna get cut and shut off<br> :date: __2020-10-18 19:41:10__
+
 > What a battery hog. I thought it would be using the same tech as COVID Alert, but maybe not. I have to charge twice a day vs once a day just after installing this app. Uninstalling. COVID Alert is better. Implement that instead. I do not want two apps running (I travel AB, SK, ON for family)<br> :date: __2020-10-16 21:34:53__
 
 > Given 7 digital code to upload data. Space for 6...<br> :date: __2020-10-15 20:19:13__
@@ -272,9 +276,5 @@ The ABTraceTogether app has been installed by more than **50000** times. At this
 > App would be great if we the people could use it to see daily interactions of compromised.<br> :date: __2020-10-07 05:54:10__
 
 > Just stopped self updating.<br> :date: __2020-10-07 01:35:02__
-
-> Make the Covid Alert app work in Alberta already.<br> :date: __2020-10-05 19:02:17__
-
-> A Covid tracing app only works if a critical mass of people use it. The federal Covid Alert app has that critical mass, and this app doesn't. Albertans, tell your MLA that we want the federal app enabled in Alberta!<br> :date: __2020-10-03 00:03:19__
 
 

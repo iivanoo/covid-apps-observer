@@ -252,6 +252,8 @@ The COVID Radar app has been installed by more than **50000** times. At this tim
 <img src="1_star_reviews_wordcloud.png" alt="nl.lumc.covidradar 1 reviews"/>
 </p>
 
+> Werkt voor geen meter<br> :date: __2020-10-21 14:16:51__
+
 > Rotzooi, net als de coronamelder<br> :date: __2020-10-12 11:11:35__
 
 > Een app voor een soort griep😂<br> :date: __2020-09-11 17:22:30__
@@ -269,7 +271,5 @@ The COVID Radar app has been installed by more than **50000** times. At this tim
 > De vragen kan ik niet naar waarheid invullen. Krijg ook regelmatig de vraag of mijn lijst nog klopt terwijl ik elke dag de lijst invul. De vragen zijn te algemeen en ik kan geen nadere aanduiding geven waarom iemand binnen anderhalve meter afstand van mij is. Bij doktersbezoek is dat redelijk onmogelijk in mijn geval.<br> :date: __2020-05-16 23:34:28__
 
 > Crasht steeds bij opstarten.<br> :date: __2020-05-16 20:44:23__
-
-> Geen handige app. Vooral het invullen van getallen met die schuiven. Vooral de laatste schuif, die zit heel dicht tegen de knop versturen aan. Waarom niet gewoon cijfers ingeven? Ik hoop niet dat er een 2e uitbraak komt. Komt die er wel dan hoop ik dat de app gebruiksvriendelijker wordt.<br> :date: __2020-05-13 14:20:31__
 
 

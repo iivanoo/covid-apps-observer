@@ -200,25 +200,25 @@ The Luscii app has been installed by more than **100000** times. At this time, *
 <img src="5_star_reviews_wordcloud.png" alt="nl.focuscura.beeldbelapp 5 reviews"/>
 </p>
 
-> Werkt prima en je krijgt vlug een reactie terug.<br> :date: __2020-10-18 09:09:42__
+> Prima app. Heel duidelijk<br> :date: __2020-10-23 22:04:07__
 
-> Prima, ben er blij mee,mag soms nog wel wat uitgebreider.<br> :date: __2020-10-17 09:49:41__
+> Erg belangrijk.<br> :date: __2020-10-23 13:24:10__
 
-> Prima app<br> :date: __2020-10-16 20:09:30__
+> Lijkt me een goede manier om vitale corona gerelateerde gegevens te verzamelen.<br> :date: __2020-10-23 13:05:41__
 
-> Heel goed, en makkelijk.<br> :date: __2020-10-16 18:14:42__
+> Prima app<br> :date: __2020-10-23 10:42:25__
 
-> Werkt goed en handig<br> :date: __2020-10-16 12:41:43__
+> Fijne en makkelijke app<br> :date: __2020-10-23 08:20:25__
 
-> Prima app. Mag met wat meer specifieke vragen uitgebreid worden. 👍<br> :date: __2020-10-16 11:49:13__
+> Prima site. Zeker om voor mijzelf alles in de gaten te blijven houden en om eventueel feedback en advies te krijgen mochten er wel verdachte symptomen van Covid-19 bij mij zouden te constateren zijn.<br> :date: __2020-10-22 21:55:22__
 
-> Kort en bondige vragen.<br> :date: __2020-10-16 09:38:39__
+> Duidelijk<br> :date: __2020-10-22 21:23:48__
 
-> Best evengoed app.<br> :date: __2020-10-16 09:04:46__
+> Ben zeer tevreden. Ik vergeet nog wel eens wat, dus de dagelijkse melding welke gegevens ik in moet voeren via de e mail. Kan het niet meer missen.<br> :date: __2020-10-21 10:24:48__
 
-> Simpel en snel<br> :date: __2020-10-16 08:17:20__
+> Overzichtelijk<br> :date: __2020-10-21 10:09:22__
 
-> Prima hulpmiddel, eenvoudig in gebruik<br> :date: __2020-10-15 15:48:47__
+> Prettig dat je er aan herinnerd wordt<br> :date: __2020-10-18 21:12:48__
 
 
 
@@ -227,6 +227,12 @@ The Luscii app has been installed by more than **100000** times. At this time, *
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="nl.focuscura.beeldbelapp 4 reviews"/>
 </p>
+
+> Makkelijk en duidelijk te gebruiken. Jammer dat er rond de thuiswedstrijden nu niet getest kan worden. Prima initiatief van Casper.<br> :date: __2020-10-23 10:05:55__
+
+> Een duidelijke en overzichtelijke app, doe de juiste informatie heeft.<br> :date: __2020-10-23 08:59:50__
+
+> Goed<br> :date: __2020-10-19 17:36:09__
 
 > ????moet allemaal nog blijken<br> :date: __2020-10-16 15:46:14__
 
@@ -242,12 +248,6 @@ The Luscii app has been installed by more than **100000** times. At this time, *
 
 > Versturen duurt soms lang. Lukt ook niet altijd.<br> :date: __2020-10-10 11:00:48__
 
-> Snel en kort<br> :date: __2020-10-09 16:46:27__
-
-> Soms is het niet duidelijk wat ik moet invullen naar mijn idee is het nu goed<br> :date: __2020-10-09 16:10:58__
-
-> Goede duidelijke app, enig minpuntje vind ik dat het puntje met uitleg vd site bij elk gebruik weer ingevuld moet worden.<br> :date: __2020-10-09 10:42:22__
-
 
 
 #### 3-star reviews
@@ -255,6 +255,8 @@ The Luscii app has been installed by more than **100000** times. At this time, *
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="nl.focuscura.beeldbelapp 3 reviews"/>
 </p>
+
+> Vanaf 2 mei elke dag bericht, dat het goed is, maar deze berichten kan ik niet wissen..wat moet ik met al die...182 berichten....een hele grote min punt van deze app, denk dat ik er maar mee stop.<br> :date: __2020-10-19 18:14:57__
 
 > Werkt niet meer naar behoren, na verwijdering opnieuw geïnstalleerd en: foute boel: code na code wordt niet geaccepteerd!<br> :date: __2020-10-10 15:27:11__
 
@@ -273,8 +275,6 @@ The Luscii app has been installed by more than **100000** times. At this time, *
 > Ik had hulp nodig bij het opstarten. De stappenteller werkt eindelijk, maar geeft een lager aantal weer op de app als dat ok tegelijker tijd afleest van de polsband. Wendy schrijft mij soms bericht dat ik wel kan lezen maar niet beantwoorden. Is polsband waterdicht??? Weet ik niet meer. :( :)<br> :date: __2020-09-22 23:32:06__
 
 > Goed<br> :date: __2020-08-04 08:56:33__
-
-> Wat doet Luscii eigenlijk ? In mijn geval niets. Ben gezond geen Corona klachten.<br> :date: __2020-08-02 19:47:50__
 
 
 
@@ -312,6 +312,8 @@ The Luscii app has been installed by more than **100000** times. At this time, *
 <img src="1_star_reviews_wordcloud.png" alt="nl.focuscura.beeldbelapp 1 reviews"/>
 </p>
 
+> Helaas doet hij het niet meer, jammer....<br> :date: __2020-10-19 17:58:30__
+
 > Corona melding App is niet betrouwbaar. Werkt vaak niet of ingevoerde informatie wordt niet verzonden. Hierdoor worden status van patiënten niet op tijd herkend. Er ontstaat vertraging in zorgbehoefte en aanbod, met alle gevolgen van dien. Support vragen aan Luscii worden vaak van standaardantwoorden voorzien, waar een gebruiker vaak niks mee kan. Passieve gebruikersondersteuning. De gebruiker moet vaak zelf actie ondernemen als de app niet werkt en dat ook testen. Verbeteringen noodzakelijk.<br> :date: __2020-10-13 15:56:27__
 
 > Sinds ik over ben naar een nw telefoon doet hij het niet meer . Krijg een code via email. Voer deze in en iedere keer zegt hij dat de code niet klopt . Ik kom geen stap verder<br> :date: __2020-10-11 19:11:43__
@@ -329,7 +331,5 @@ The Luscii app has been installed by more than **100000** times. At this time, *
 > Waardeloze app. Vaak niet te openen. Hopeloze service ook.<br> :date: __2020-09-04 22:13:38__
 
 > Waardeloos, vooral als je een vraag stelt dan wordt je bij voorkeur genegeerd.<br> :date: __2020-08-24 10:12:32__
-
-> NIET DOWNLOADEN DEZE APP. JE KRIJGT GEEN HULP 😟😰😱😩😱😭 EN ANTWOORD ☹😟😭 Hebt als een van de eerste de app in gebruik. Artsen vroegen mij via mail om meer medische informaties. Het terugantwoord luidde, wij zijn slechts de ontwikkelaars en kunnen u niet verder helpen. Het telefoonnummer verwijst naar een arts maar díe is nooit bereikbaar. Na 8 maanden gebruik heb ik de verwijderd óók omdat de app maar 4 landen noemt voor hulp. Als jij niét in een genoemd land woont krijg je nóóit hulp 😱😭<br> :date: __2020-08-06 17:29:21__
 
 

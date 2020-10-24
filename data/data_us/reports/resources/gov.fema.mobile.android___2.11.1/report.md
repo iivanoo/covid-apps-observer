@@ -165,6 +165,16 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 <img src="5_star_reviews_wordcloud.png" alt="gov.fema.mobile.android 5 reviews"/>
 </p>
 
+> Love<br> :date: __2020-10-23 06:12:58__
+
+> Easy and great ti yse...Thank you FEMA<br> :date: __2020-10-21 15:38:31__
+
+> Awesome assistances programs<br> :date: __2020-10-21 07:44:28__
+
+> Great notification updates. Thanks so much<br> :date: __2020-10-20 15:49:27__
+
+> Very complete and easy to use<br> :date: __2020-10-18 14:15:04__
+
 > Great app👍👍👍<br> :date: __2020-10-16 05:52:04__
 
 > Convenient, very informative, quick acting app<br> :date: __2020-10-13 16:56:52__
@@ -174,16 +184,6 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 > Helpin the helpless<br> :date: __2020-10-11 20:32:21__
 
 > Great information to keep current of the situations.<br> :date: __2020-10-08 22:32:16__
-
-> This is a good app.<br> :date: __2020-10-01 05:48:25__
-
-> Great<br> :date: __2020-09-28 18:54:04__
-
-> Best organization inside and out<br> :date: __2020-09-28 01:57:45__
-
-> Very easy to use. Self explanatory App. Everything is basically right there on the App.<br> :date: __2020-09-19 17:10:52__
-
-> Thanks for your help<br> :date: __2020-09-12 20:50:16__
 
 
 
@@ -277,6 +277,8 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 <img src="1_star_reviews_wordcloud.png" alt="gov.fema.mobile.android 1 reviews"/>
 </p>
 
+> Wakes you up randomly at night with repeat information.<br> :date: __2020-10-22 11:33:02__
+
 > This hurricane I got turned down in just a few hours. Yeah technology!!!!!<br> :date: __2020-10-03 11:55:27__
 
 > Dont attempted to think of getting help all they do is deny<br> :date: __2020-09-26 19:00:17__
@@ -294,7 +296,5 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 > App should work as a REAL emergency service! No wifi or data usage! With today's technology & the dangerous times we r living in as well as facing especially with riots & illness! This app is put on by OUR GOVERNMENT!! IT SHOULD WORK FLAWLESSLY!! I think y'all r paid enough to PROTECT US! YOU SHOULD DO YOUR JOB!!! So sick n tired of the buck being passed & the excuses! YOU WANTED UR JOB SO DO IT! OR FIND ANOTHER!<br> :date: __2020-07-17 17:56:20__
 
 > DENIED all my RIGHTS<br> :date: __2020-07-14 08:31:08__
-
-> I would look them up and see what they are really about. We need less government in our life and lower We are Tax Enough Already.<br> :date: __2020-07-07 14:51:55__
 
 

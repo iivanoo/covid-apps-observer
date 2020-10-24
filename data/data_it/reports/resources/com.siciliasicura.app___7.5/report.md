@@ -133,6 +133,10 @@ The SiciliaSiCura app has been installed by more than **50000** times. At this t
 <img src="5_star_reviews_wordcloud.png" alt="com.siciliasicura.app 5 reviews"/>
 </p>
 
+> Ottimo viaggio spesso trovo applicazione efficiente<br> :date: __2020-10-20 19:32:59__
+
+> Ottima<br> :date: __2020-10-18 11:03:50__
+
 > Regione stupenda, con gente calorosa e accogliente, l'unica nota stonata è la pulizia, non proprio all'altezza dei luoghi visitati!<br> :date: __2020-09-16 17:24:06__
 
 > Complimenti alla regione Sicilia che ha fatto una app semplice nella compilazione ed efficace con check-in con messaggio di conferma e di benvenuto, e checkout con messaggio auspicando che la permanenza sia stata di gradimento; diversamente dalla dichiarazione che ho dovuto fare nella regione Puglia, molto complicata e senza la sicurezza di ricevimento dalla Usl di riferimento. Brava la regione Sicilia.<br> :date: __2020-09-13 11:30:43__
@@ -148,10 +152,6 @@ The SiciliaSiCura app has been installed by more than **50000** times. At this t
 > Funziona<br> :date: __2020-08-04 04:41:44__
 
 > App discreta e funzionale.<br> :date: __2020-08-02 09:23:41__
-
-> Chiara<br> :date: __2020-07-30 18:13:40__
-
-> Ottima app, solo che nn si capisce se le analisi sono obbligatorie i no.<br> :date: __2020-07-28 10:33:38__
 
 
 
@@ -189,6 +189,8 @@ The SiciliaSiCura app has been installed by more than **50000** times. At this t
 <img src="3_star_reviews_wordcloud.png" alt="com.siciliasicura.app 3 reviews"/>
 </p>
 
+> Non riesco ad installare l'app<br> :date: __2020-10-21 12:52:18__
+
 > Mi dite che numero giusto di telefono cellulare che occorre indicare?? Cosa significa "il valore può contenere +...". Ho provato a formulare il numero in modi diversi ma non si va avanti Concetta<br> :date: __2020-08-19 18:56:14__
 
 > Considerati i nuovi obblighi, è necessario che sui traghetti ci sia meno gente e che tutti indossino la mascherina in modo corretto (coprendo naso e bocca) iniziando dal personale addetto......l'aliscafo di ieri da Milazzo a Lipari era stracolmo di gente e tantissimi ospiti indossavano la mascherina in modo non corretto<br> :date: __2020-08-18 09:22:52__
@@ -206,8 +208,6 @@ The SiciliaSiCura app has been installed by more than **50000** times. At this t
 > Continuo a ricevere la notifica che mi chiede il mio stato di salute... almeno 3 volte al giorno anche se ho già aggiornato lo stato.<br> :date: __2020-06-26 15:07:10__
 
 > La email di conferma arriva in italiano. Ma come si puó pensare di fare turismo in questo modo?<br> :date: __2020-06-21 12:34:07__
-
-> Provo a registrarmi e la mia mail risulta già presente, ma io non ho mai scaricato né app e nulla, cosa debbo fare?<br> :date: __2020-06-11 18:19:53__
 
 
 

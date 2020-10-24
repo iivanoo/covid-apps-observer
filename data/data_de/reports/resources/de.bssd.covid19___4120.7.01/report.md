@@ -131,6 +131,8 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="de.bssd.covid19 5 reviews"/>
 </p>
 
+> Toller Service. Unkomplizierte Nutzung mittels QR Code. Durch die Push Nachricht ploppt das Ergebnis sogar auf dem Display auf. Großartig.<br> :date: __2020-10-20 18:22:03__
+
 > Bei mir hat alles super funktioniert. Am nächsten Tag die Push-Benachrichtigung bekommen und das Ergebnis war da. Super !!<br> :date: __2020-10-15 08:51:22__
 
 > Die App hat (in meinem Fall) alles getan, was sie tun soll: QR Code gescannt, am nächsten Morgen kam die Push Benachrichtigung mit dem Befund. Alles sehr übersichtlich.<br> :date: __2020-10-13 09:22:48__
@@ -148,8 +150,6 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 > Macht was es soll, aber nur wenn man kein angepasstes "China-Android" hat. War auf meinem Handy mit angepasster Software absolut unbrauchbar. Danach mit anderem Handy mit normalem Android absolut Top.<br> :date: __2020-09-08 10:22:04__
 
 > Alles super, gar keine Probleme und mein Testergebnis hatte ich schon einen Tag nach dem Abstrich. Ich bin sehr zufrieden alles ist super einfach.<br> :date: __2020-09-05 17:18:56__
-
-> App funktioniert und macht genau das, was sie soll. Aber eben mehr auch nicht... Ergebnis war nach 36 Stunden da.<br> :date: __2020-09-03 09:01:03__
 
 
 
@@ -243,24 +243,24 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 <img src="1_star_reviews_wordcloud.png" alt="de.bssd.covid19 1 reviews"/>
 </p>
 
-> Ohne Worte. Scanner funktioniert nicht. Code Eingabe auch nicht möglich. Quasi unbrauchbar. 1 stern ist noch zuviel.<br> :date: __2020-10-17 10:50:15__
+> Eigentlich funktioniert an dieser App nichts wie es soll. Der QR Code kann nicht gelesen werden und ein Ergebnis wird auch nicht angezeigt, obwohl man über andere Kanäle bereits eine Rückmeldung hat. Keine Ahnung wer dies mal wieder für viel Geld programmiert hat, aber als Projekt in einem Informatikstudiengang hätte man von Studenten deutlich bessere und günstigere Resultate erhalten!<br> :date: __2020-10-24 07:05:53__
 
-> Totaler Müll! Funktioniert weder auf S20 Ultra, noch auf Note 20 plus<br> :date: __2020-10-16 14:31:53__
+> Der Anmeldeprozess ist langwierig, da der QR Code nicht gelesen wird und man den Zahlencode manuell eingeben muss. Das schlimmste aber ist, dass auch nach 48 Stunden laut App kein Testergebnis vorliegt. Meine Ärztin mich aber bereits telefonisch nach 36 Stunden informiert hat.<br> :date: __2020-10-24 06:51:42__
 
-> Der absolute Mist, nichts funktioniert.<br> :date: __2020-10-16 13:36:26__
+> SCAN DES QR-CODES GEHT NICHT! Zudem habe ich bis jetzt noch kein Ergebnis, obwohl dieses beim Arzt schon seit über 24 Stunden vorliegt (zum Glück wurde ich telefonisch informiert!)<br> :date: __2020-10-22 20:26:41__
 
-> Funktioniert einfach nicht. Auf mehreren Smartphones getestet galaxy s7, redmi note 7, moto Z...<br> :date: __2020-10-14 20:59:46__
+> QR-Scaner funktioniert nicht! Manueles eintippen unmöglich!<br> :date: __2020-10-22 17:20:45__
 
-> Sowas mutet man seinen Steuerzahlern zu ! Wenn ich als "junger" Mann die App schon nicht ans laufen bekomme, wie sollen die ganzen älteren Menschen ohne Smartphone- Kenntnis das hinkriegen ? Gaaaanz großer Nachholbedarf liebe Programmierer !<br> :date: __2020-10-14 16:49:03__
+> Die APP funktioniert überhaupt nicht. Konnte bei drei Testungen nicht einmal ein Ergebnis abrufen. Kein Wunder wenn sich das Virus so rasant verbreiten kann, wenn zeitnah kein Ergebnis abgerufen werden kann.<br> :date: __2020-10-22 08:50:56__
 
-> Lächerlich,einfach lächerlich, 3 Tage nach dem Test noch immer kein Ergebnis auf der App zu sehen.Man muss hinterher telefonieren wenn man nicht sinnlos in Quarantäne verbleiben will. Dringender Überarbeitungsbedarf der App.<br> :date: __2020-10-13 17:18:40__
+> Samsung galaxy s qr kann nicht gelesen werden<br> :date: __2020-10-21 15:09:43__
 
-> Funktioniert nicht...<br> :date: __2020-10-13 15:21:38__
+> Keine der paar wenigen Funktionen die die App haben sollte funktoniern. Ich finde es eine frechheit das so etwas eine medizinische App sein soll, welche der Bekämpfung der Corona-Pandemie helfen soll. Der QR-Code Scanner funktioniert nicht. Deshalb muss man den 30-stelligen Code von Hand eingeben und das jedes mal aufs neue, da die App sich das nicht merken kann! Da stell ich mir die Frage ob das mit der Benachrichtigung wenn das Ergebnis da ist überhaupt funktioniert.<br> :date: __2020-10-21 05:51:30__
 
-> Leider nicht funktionsfähig die App. Bitte bessert hier umgehend nach. Es geht um die Gesundheit von uns allen! Aber war wohl die falsche App. Habe nun die labuniq-app. Da geht es.<br> :date: __2020-10-12 22:05:42__
+> Scanner funktioniert nicht Auch ID - Nummer kann man nicht eingeben.<br> :date: __2020-10-21 01:21:08__
 
-> Hier funktioniert gar nix. QR-Code wird nicht gescannt und die ID kann man auch nicht eingeben<br> :date: __2020-10-10 16:52:22__
+> Scanner scannt nicht, Eingabefeld öffnet die Tastatur nicht.<br> :date: __2020-10-20 12:21:36__
 
-> An der App funktioniert mal so garnichts.<br> :date: __2020-10-10 09:43:41__
+> Habe die App Installiert aber der fragt nach einen QR Code ein scannen kp wo ich denn code herbekomme und fragt nach einer ID Nr kp was und woher ich das bekommen soll?<br> :date: __2020-10-19 18:32:47__
 
 

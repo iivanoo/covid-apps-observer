@@ -1,11 +1,35 @@
 [
     {
+        "reviewId": "gp:AOqpTOENVq8N34KacaCCl_xesP1LpFwU-onQA-e2qSf05lBFLXYZdcDAoGDjdg9DNvO0YlDZzyBoB0gsrjrVoLk",
+        "userName": "kathleen morford",
+        "userImage": "https://play-lh.googleusercontent.com/-PsowOHllgIw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn8oqqmvW7NfhmQwRRJzS62oTLo-Q/photo.jpg",
+        "content": "You should be able to type in a location when it gets it wrong. Sometimes there is no option for where you are.",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.1",
+        "at": "2020-10-22 06:04:00",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHYYdsYoDKIBwGiAl3a3F6dkWPBf1zMc_ay0X7-ZtpJf14W-cqc9Qm7lJ2ZeFculpn0CmDb8SS8vvxJJrA",
+        "userName": "Otis Halverson",
+        "userImage": "https://play-lh.googleusercontent.com/-8eV-AX5vm7k/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclHbmxCpgKJHvy_5Wa2RaQrYfqDQg/photo.jpg",
+        "content": "After multiple attempts, this app cannot determine my home location. Uninstalling. UPDATE 10/21/20 - It can now find my home location. Up to 3 stars. I do not see how I can see the list of locations myself.",
+        "score": 3,
+        "thumbsUpCount": 2,
+        "reviewCreatedVersion": "3.1",
+        "at": "2020-10-21 15:32:52",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOFHH21qcUNs35FFlIzNJMqCGtH2a8_mxySqMycFtPuCZ1MPIz3e-4Xx2UnhDtzpGxK7paEEUXKm_jtRULA",
         "userName": "rynait",
         "userImage": "https://play-lh.googleusercontent.com/-98b8IVHRTWs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclLF1GGse9Hse99NGL9KSmwbr5KNw/photo.jpg",
         "content": "Poorest design. Does not \"track\" movement via gps, does not allow quick add (referencing gps) feature. Does not have \"end at home\". Thus know how long.. at one location or unable to determine greater than 20 mph driving. Becomes indicator leaving location.",
         "score": 1,
-        "thumbsUpCount": 4,
+        "thumbsUpCount": 6,
         "reviewCreatedVersion": "3.1",
         "at": "2020-09-28 04:32:05",
         "replyContent": null,
@@ -14,10 +38,10 @@
     {
         "reviewId": "gp:AOqpTOGO3bqWPSPEZc7MgmgbNHO5TWLnzMewFBSZ9UO-7V6BKc2tBIYXtUE5Hs8357j4nnwSOnJjTk1dluMXTF4",
         "userName": "Jesse Kolar",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiS0HjQkMzvzOosc1e-2AuY5LzPPHs3QUbmvbtHIA",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiS0HjQkMzvzOosc1e-2AuY5LzPPHs3QUbmvbtHIA",
         "content": "App runs unnoticeably in the background. However, requires constant maintenance. If I go more than 2-3 days without monitoring the app, I find that it stops tracking my locations, at which point I need to go back through all intro screens as if I just installed the app (Region, Consent, Home location, etc). Back arrow on Android while in the Places You've Visited will also return to the initial menu and require passing through all intro screens again, or app will not resume tracking. Should have a warning, and consent/home location should be saved in a more permanent cache.",
         "score": 2,
-        "thumbsUpCount": 6,
+        "thumbsUpCount": 7,
         "reviewCreatedVersion": "3.1",
         "at": "2020-09-26 21:23:18",
         "replyContent": null,
@@ -26,7 +50,7 @@
     {
         "reviewId": "gp:AOqpTOETWE40WNyM0Hs49giYtMIyF6GmjjQPGWXL_2clrnLfjA8ikGdVVrOy7-hjuc18aW56I7mIjXmIQR_HL18",
         "userName": "Cindi Pedersen",
-        "userImage": "https://lh3.googleusercontent.com/-jbScO0ynLEs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckOmjc3mlk7_jTo57QKDopojyM9WA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-jbScO0ynLEs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckOmjc3mlk7_jTo57QKDopojyM9WA/photo.jpg",
         "content": "Every couple of weeks it takes a day off & doesn't show any locations at all for that day.",
         "score": 3,
         "thumbsUpCount": 7,
@@ -50,7 +74,7 @@
     {
         "reviewId": "gp:AOqpTOGWFkTnWBqO7PdQb-eY3lkfUC8IEw6OslwvUwq3HG4xS38N7B8n-zDvevGSFfHKruUYS0mO_y-NsdSRQpo",
         "userName": "Sarah Reilley",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgxcvqeRSPWoYxu1OnGFyRKX88hBv59aWF7dDYqaWM",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgxcvqeRSPWoYxu1OnGFyRKX88hBv59aWF7dDYqaWM",
         "content": "Has me consistently at a location across town I'm never at.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -86,7 +110,7 @@
     {
         "reviewId": "gp:AOqpTOEJVyP_GdZSiQJtCn2dDcz9lXJqvs6cxPnDtYbB4SddgQjA1NinUYLOc9MIr194rcjCAxf2s60Vyibbwj0",
         "userName": "Phil Leichtweis",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GimxAfeQRTxeKXVHUeX_vri7WhgCw84qwNXr11sFQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GimxAfeQRTxeKXVHUeX_vri7WhgCw84qwNXr11sFQ",
         "content": "Does not automatically track as it says it will. Also, I can enter manually in my phone but my wife's phone cannot manually input as the app freezes when she puts in date from calendar. Uninstalled and reinstalled the app but still have same problems.",
         "score": 1,
         "thumbsUpCount": 3,
@@ -110,7 +134,7 @@
     {
         "reviewId": "gp:AOqpTOGu2e3gjQ0sLA-H05MSsaQcbil6FUazAUODAi2cVgI5a9zIE92CJGl9-OmYc37ZIqbV_QZ4Gapiw73OHmE",
         "userName": "Melanie Ziegler",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjUu9ErFJGMITAC2-Cqlf3rmRHYEBM7UfaGqfbv",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjUu9ErFJGMITAC2-Cqlf3rmRHYEBM7UfaGqfbv",
         "content": "How long do the places you visit stay on the app? Mine seem to show maybe only previous 10 days.",
         "score": 3,
         "thumbsUpCount": 0,
@@ -122,10 +146,10 @@
     {
         "reviewId": "gp:AOqpTOHeqhQHxFfg5y5pOIosqRTCUGQqELzr-4JflmOY3G-3CvGKR-Bq4RqdkDXxaa05bJz1cKcETXCPu9OC_Mc",
         "userName": "William Mickelson",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjfphD2XTG8WtUas6E5JB-3jWlVdsnFe3zBwUYoRQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjfphD2XTG8WtUas6E5JB-3jWlVdsnFe3zBwUYoRQ",
         "content": "Edit: 8.10.20 Still same problems. If battery saver is issue, fix it. Update 6.27.20 - Tou can tell the developer(s) doesnt even use this app or they would know what we are talking about. You say it's just the way it is, no, you know how it's supposed to work, so find someone to make it work correctly. This app does not trace where I been going. It does not stay open in the background. When open, it does not show where I go or been since the 23rd. I restarted phone and reinstalled app on S9+",
         "score": 1,
-        "thumbsUpCount": 72,
+        "thumbsUpCount": 75,
         "reviewCreatedVersion": "3.1",
         "at": "2020-08-11 03:56:40",
         "replyContent": "I can assure you that I use the app every day on my Pixel 3 XL and it works.  There are various phone-specific or environmental issues that can occasionally cause issues.  For example, \"battery saver\" settings typically shut off background location services entirely.  Contact us at support@care19.app and we will help you sort this out.",
@@ -134,7 +158,7 @@
     {
         "reviewId": "gp:AOqpTOGVkJAXII1qHMgeedYQjMP52mu65ooTgzWsUluppNqvxPciLvHcvQyGXP4Wu3wJuD65olMLew4pdNHpdbU",
         "userName": "Glenda Berlin",
-        "userImage": "https://lh3.googleusercontent.com/-PKEZL2DWtiU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnQznDSf99UGW3Sp7IL_X-ZvFBl4Q/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-PKEZL2DWtiU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnQznDSf99UGW3Sp7IL_X-ZvFBl4Q/photo.jpg",
         "content": "Uninstall. I didn't put it in",
         "score": 1,
         "thumbsUpCount": 0,
@@ -182,7 +206,7 @@
     {
         "reviewId": "gp:AOqpTOGu8NOGW2--LjQE6SPCKEUbsCl128pvGwuTenfSkCmFl9m0YcQs4veYgg_t_UaHwOPRzzKwvBrslBL8UWA",
         "userName": "Stacie Varnson",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GikF3ikuwvm4k5QEDFbu0XneJTOeX38g-GKHvlO4w",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GikF3ikuwvm4k5QEDFbu0XneJTOeX38g-GKHvlO4w",
         "content": "Quit recording anything after about three weeks.",
         "score": 2,
         "thumbsUpCount": 2,
@@ -206,7 +230,7 @@
     {
         "reviewId": "gp:AOqpTOHGOx7wHk5JPv6wzliEQTVeHfieC6MCn_LCWM3RbK5VcxTgU1N0L51X3cEEbHFzooDZD1PfRFEP7MVjrHg",
         "userName": "Agent Phillips",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiEWB_saeKOHY-A0J7_NlPvVscobTYK6RCfthNhtWs",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiEWB_saeKOHY-A0J7_NlPvVscobTYK6RCfthNhtWs",
         "content": "Please help charlie foxtrot googlemaps Meunstergritsandassociatesllc 442 blanding blvd 333 ORANGEPARK,FL 32073",
         "score": 5,
         "thumbsUpCount": 0,
@@ -218,7 +242,7 @@
     {
         "reviewId": "gp:AOqpTOFsaKRtmaNe1NOpeNLaNB5Vu7A0sS1nMMP5afsYzHnu-GBRShdb8MIYhXsTpuTaekVucpa6xv3Rqr0OKsc",
         "userName": "Steve Anderson",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhzqD263NiL_TG9RttNlW84IpsQMo1W4_OpFGmwrg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhzqD263NiL_TG9RttNlW84IpsQMo1W4_OpFGmwrg",
         "content": "App doesn't work. I wanted an app that would track my location automatically and the people that I was around. Now that I have covid-19 I can't even notify anyone that I was in contact with",
         "score": 1,
         "thumbsUpCount": 8,
@@ -254,7 +278,7 @@
     {
         "reviewId": "gp:AOqpTOHB5_8-AUcWYxBnzPktDk49NRbk6Tz2F9hdJZwhYwbOurVn5v3V2jDvj2iokTDiUS4Z4xqWYRZ31_DpYak",
         "userName": "carrie coleman",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gi2h6wrJkP7ux73lmtiE2dYX7PGfHlyEAZBS67j",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi2h6wrJkP7ux73lmtiE2dYX7PGfHlyEAZBS67j",
         "content": "I just dont have room on my phone:(",
         "score": 4,
         "thumbsUpCount": 0,
@@ -266,7 +290,7 @@
     {
         "reviewId": "gp:AOqpTOEn3SBC5XJhJBwE65ycj6b8dC2Y7nuTh5LlmZn8pwDu_XRhEXalWIWFpGmGZOAD41lA67RGSaXb0fFo1-M",
         "userName": "Quito Banogon",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgyjIypg0jviQzafB1TY3JO8IZlOTf2nz5pEuLauQA",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgyjIypg0jviQzafB1TY3JO8IZlOTf2nz5pEuLauQA",
         "content": "Does this app work for Los Angeles, CA residents? It doesn\u2019t seem to work when installed on my phone because I\u2019m still unable to turn on \u201cExposure Notifications\u201d after the app is installed. I\u2019m going to Settings > Google > COVID-19 Exposure Notifications and the toggle to turn on Exposure Notifications will not respond.",
         "score": 1,
         "thumbsUpCount": 5,
@@ -278,7 +302,7 @@
     {
         "reviewId": "gp:AOqpTOF8lb5UnM4mPSBxxl09U7H6Cw6a1TM4fWDLgxvwpUZjJVCEYFD5Ul5UeeuU5-Y_fcCu-OcAjnNi-c3M1L4",
         "userName": "Elizabeth Schanz",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Ghkt6DMKgXSmIFl0bdqlVW2f99Yq5wzTD8bqIUVyQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ghkt6DMKgXSmIFl0bdqlVW2f99Yq5wzTD8bqIUVyQ",
         "content": "Keeps stopping",
         "score": 1,
         "thumbsUpCount": 0,
@@ -290,7 +314,7 @@
     {
         "reviewId": "gp:AOqpTOEGZvbabRApALMWbgIaMUmjOTpszN8fsq-k0xRCjSG7FDB9mG7ojL_L7b03NfXDLvDGIp9uYi7To9V6dpc",
         "userName": "Richard Barrios",
-        "userImage": "https://lh3.googleusercontent.com/-cwhmqKFvCR8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmxgwhngGs5M7UHaqfi_-Ii0s8PnA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-cwhmqKFvCR8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmxgwhngGs5M7UHaqfi_-Ii0s8PnA/photo.jpg",
         "content": "Gives a lot of erroneous locations that are passed while driving or stopping at a stop light. Some days it gives no information at all.. i reloaded it a couple of weeks ago. It worked well until July 3 then quit working, not registering any locations.",
         "score": 2,
         "thumbsUpCount": 18,
@@ -302,7 +326,7 @@
     {
         "reviewId": "gp:AOqpTOF-L95rKdNQvGHbVY_7e5WKmKW2xYJJZqFhBfc7RREzJ_ePC4lL-jzXFdvBbhIzRHV0-xbCUA5XMFNPV_A",
         "userName": "Greg Pawlak",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GisjPbGdgFZhPl5bxtOPzhIgVtwOUZlHQgrzJhMHg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GisjPbGdgFZhPl5bxtOPzhIgVtwOUZlHQgrzJhMHg",
         "content": "this app is worthless",
         "score": 1,
         "thumbsUpCount": 0,
@@ -326,7 +350,7 @@
     {
         "reviewId": "gp:AOqpTOHNLt0rFX9M2-o1hT6gx86Y-hDX-L91UACIHYm-4gYVRdJCiM5qZHQ5fhuRUyBb5kOqFzIC2_rYG315BZU",
         "userName": "Louis Levy",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgBZjxAAnftpKSddIXl6eFX5I1Js2n9nh7GYFDmew",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgBZjxAAnftpKSddIXl6eFX5I1Js2n9nh7GYFDmew",
         "content": "Idk procedure to get my phone to let this work automatically in the background, out on the east coast",
         "score": 2,
         "thumbsUpCount": 0,
@@ -336,21 +360,9 @@
         "repliedAt": null
     },
     {
-        "reviewId": "gp:AOqpTOHYYdsYoDKIBwGiAl3a3F6dkWPBf1zMc_ay0X7-ZtpJf14W-cqc9Qm7lJ2ZeFculpn0CmDb8SS8vvxJJrA",
-        "userName": "Otis Halverson",
-        "userImage": "https://play-lh.googleusercontent.com/-8eV-AX5vm7k/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclHbmxCpgKJHvy_5Wa2RaQrYfqDQg/photo.jpg",
-        "content": "After multiple attempts, this app cannot determine my home location. Uninstalling.",
-        "score": 1,
-        "thumbsUpCount": 2,
-        "reviewCreatedVersion": "3.1",
-        "at": "2020-07-02 13:35:50",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
         "reviewId": "gp:AOqpTOG6fUg7OHQRjMmoLetGhIiZ7bngi22_N3qGVmWRZgPo8ZOSCzfnKtvcxp51MLIs2EVkZGmiJL0yt_Zulkw",
         "userName": "Bob Johnson",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiL4P_nGUfg1S8M0IpgKT_jvdR9OPCwEIMX3vF1AA",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiL4P_nGUfg1S8M0IpgKT_jvdR9OPCwEIMX3vF1AA",
         "content": "Tried to update for about 30 minutes. Never got it to work.",
         "score": 1,
         "thumbsUpCount": 1,
@@ -362,7 +374,7 @@
     {
         "reviewId": "gp:AOqpTOGIZ4XQgj1wT4K_xckQ7U7kfIVnB86bnpzvt-yvZsm9HQ0LAXgY5c7CAdMp8Ynn8hsIe1d2iggrUoGNFWM",
         "userName": "Hank Rouse",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjlCY1cCTPAMPxEHZZL3l8tsKLL0hLdZ9Gk57Cy8Q",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjlCY1cCTPAMPxEHZZL3l8tsKLL0hLdZ9Gk57Cy8Q",
         "content": "I work in Technology Sales, Retail. So I wanted an app that would start tracking my locations AUTOMATICALLY to assist me in providing that data needed for my Contact Tracers should the need arise. This app FAILS MISERABLY!!! It DOES NOT track when I am some place for more than an hour. Examples: Work, Gym, Restaurants. Don't waste your time on the Android version of this app!!! Look elsewhere. Samsung S20+ 5G",
         "score": 1,
         "thumbsUpCount": 42,
@@ -374,7 +386,7 @@
     {
         "reviewId": "gp:AOqpTOFWtkkFrK2ZbhaLUDyqfM0hJPMDomkaGQ5WfaTVJKvsZRCRW2pcxHOx5PkpdPY4xAvygNSDnkvQ9fJANk8",
         "userName": "Eli Lol",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhBpQowvaUGmn43eDejU7qiNPodhRrF4TaHE_mLVg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiD0lfiJSxQopDhqX4RrkC63Cpo_ej8KFmleQt4ew",
         "content": "Location is in issue for me",
         "score": 1,
         "thumbsUpCount": 0,
@@ -386,7 +398,7 @@
     {
         "reviewId": "gp:AOqpTOHiw60q6pfYix52j4Radvth5FkJFPk4bp3o8o5ZOyU5wEFZiYUMyPWnCDNqmSx0SUWC2XpVX-FVIkYPW2U",
         "userName": "Nathan Johnson",
-        "userImage": "https://lh3.googleusercontent.com/-QI6YPDnJ1D4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclVjYeF7Pn5KmpyKipN19SXfpHQoA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-QI6YPDnJ1D4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclVjYeF7Pn5KmpyKipN19SXfpHQoA/photo.jpg",
         "content": "Updated daily. Easy to use and informative.",
         "score": 5,
         "thumbsUpCount": 1,
@@ -398,7 +410,7 @@
     {
         "reviewId": "gp:AOqpTOGiR8nJeQxMgQo-sLBTyWCG-3DX2kfwaPBdo0uSlc-Zf1BUGBJwvwvY_Ea24NtawQn-nrXWKXrYne4__Ug",
         "userName": "Dasi",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgaLCJRaaTGuzlFQJSyKW2Hu2xQtyYzuc7Nfv1ZSFo",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgaLCJRaaTGuzlFQJSyKW2Hu2xQtyYzuc7Nfv1ZSFo",
         "content": "I saw the update that you could manually put in where you have been by the developer in 5/20. They said it would be implemented within the next update. However, it has now been over a month & time is of the essence. A month long wait for a feature that is now allowing a significant amount of people to use the app or provide inaccurate data is unacceptable. Please fix this asap or please ND & SD find a new developer. As a programmer, the basic first step before release is bug testing.",
         "score": 1,
         "thumbsUpCount": 38,
@@ -410,7 +422,7 @@
     {
         "reviewId": "gp:AOqpTOHKjEMhaM5JFrF3f2L9_eUtq1296fuLN41W1UdAUxZIIndGAnwWDNGDwB-f4KjHEL3PKVcSWsMsdA71wAg",
         "userName": "PrincessHeatherNicole",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhJMyy-JR6SUuoWGooGco_yRnxFe6Pqz-gkwY_tsJs",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhJMyy-JR6SUuoWGooGco_yRnxFe6Pqz-gkwY_tsJs",
         "content": "Remember this is for north & south Dakota only.. other states will may add their state if they choose too. It will show other states but will not guarantee it at this time",
         "score": 4,
         "thumbsUpCount": 0,
@@ -434,7 +446,7 @@
     {
         "reviewId": "gp:AOqpTOGGJbjwDV6Ly878q845DQbe3JqBSk1is_N05Ip8P-cPHTkIAsxLLHjuXHchcF8D98jdLKFV1hXrajOu-kw",
         "userName": "John Haggerty",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgIogCTq0zxTzaB_1tbCKexGHuqh1W10w7artoOHA",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgIogCTq0zxTzaB_1tbCKexGHuqh1W10w7artoOHA",
         "content": "Good idea",
         "score": 5,
         "thumbsUpCount": 0,
@@ -446,7 +458,7 @@
     {
         "reviewId": "gp:AOqpTOGj7v_s35kSxICWos51w_SjojKuW16IEfQQ7oWb8QS7tIyRB9DOCFWNTHVTsYbN7QdULcD2V8vYoth3ET8",
         "userName": "Justin",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhMiUqh4ZisYzr4vR9MgaWdYB3gFnOc2e36aK1QiCk",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhMiUqh4ZisYzr4vR9MgaWdYB3gFnOc2e36aK1QiCk",
         "content": "F*** you big brother",
         "score": 1,
         "thumbsUpCount": 0,
@@ -458,7 +470,7 @@
     {
         "reviewId": "gp:AOqpTOGJthKyyl44gJ7P0hWz85bpzuvIiTCxc057L8mMqi_b7pb9a0vHYnsDYYZBD8MPyq4EoffofGIDHYTXrr4",
         "userName": "Crystal Waller",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GihuTisrAVS1MjP1Haqnq3DeX6tIlTOf_cdxYGDig",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GihuTisrAVS1MjP1Haqnq3DeX6tIlTOf_cdxYGDig",
         "content": "It's not all that",
         "score": 2,
         "thumbsUpCount": 0,
@@ -470,7 +482,7 @@
     {
         "reviewId": "gp:AOqpTOE0j39SztOBS6QarV1TC0LH54mubylKuYT39h5WVIhXEwT58bB74BPs5QXgBolvRP_1r-b7i4EOxca789k",
         "userName": "ABU SANAA Awad",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gj3JAIZxtLR59ixnCXxIXoOS4FfUwCTdrnGw2Tz0w",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj3JAIZxtLR59ixnCXxIXoOS4FfUwCTdrnGw2Tz0w",
         "content": "Good",
         "score": 5,
         "thumbsUpCount": 1,
@@ -482,7 +494,7 @@
     {
         "reviewId": "gp:AOqpTOGqf4Bdpl3q7FU_e4px8ifO5fYw9MxJ3AXWBNv4e-TA_5iz8xJnI-OP4LzAUWUs2wHkKbkgDP4R8i1LmK0",
         "userName": "JIM STOUT",
-        "userImage": "https://lh3.googleusercontent.com/-QcA4MmI2s0M/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckS5LxS6cCVA2U90j-acUAt_HCMuw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-QcA4MmI2s0M/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckS5LxS6cCVA2U90j-acUAt_HCMuw/photo.jpg",
         "content": "Has strange locations and does not keep up with where I have been. How can this be helpful?",
         "score": 1,
         "thumbsUpCount": 4,
@@ -542,7 +554,7 @@
     {
         "reviewId": "gp:AOqpTOHYOc7lJqUxIk1aylfXmQS3fyIoERp36YdUlo12WdyABuhk8SIXM2PTI57ZryH-Md-J15fxQ_VuxNzVqwI",
         "userName": "Tammy Lafournaise",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gip1NUWAeO42chbMs95nhok_nCGCJi7HYWO2-LSxA",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gip1NUWAeO42chbMs95nhok_nCGCJi7HYWO2-LSxA",
         "content": "Has NEVER tracker my location, it says I have been anywhere, I've been to many many place since installed. Checked and double checked my permissions, and location settings, they are fine.",
         "score": 1,
         "thumbsUpCount": 4,
@@ -554,7 +566,7 @@
     {
         "reviewId": "gp:AOqpTOGznafUDpzWjjOhr_0z3aEPpy258LPZZRfn7EECFYil7fNtc7IYnzONHP9bdMR93nh4r1u_XNsu1rvSquU",
         "userName": "Roger Parker",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjYQU2mDcnX2nidrTQy2Mfjge8HaLrpv9xp4Ruw",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjYQU2mDcnX2nidrTQy2Mfjge8HaLrpv9xp4Ruw",
         "content": "Not very accurate for locations. It does not show several places my wife & I have been for an hour or more and it shows us stopping at places we only drove passed on our way to our destination that does not show up. Very inaccurate. It's the same on both of our phones (Galaxy Note 9's). There is no way to add the places we did go to, only to delete the irrelevant ones or change the name from \"Unknown\" to a proper name. It's pointless/useless for tracking when this inaccurate.",
         "score": 2,
         "thumbsUpCount": 80,
@@ -614,7 +626,7 @@
     {
         "reviewId": "gp:AOqpTOFf_DXXEjl9Rjk53Tv1XCd2lPfj2651dqQnk6UZ5lTNT9HqWgduTCWKd-20KvXMfe9lCgKPR1O4zlmrd4c",
         "userName": "The brave traveler",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhwyHDzDQW975TbD5avaTyZDNT9TPxLFROLAIcWZvo",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhwyHDzDQW975TbD5avaTyZDNT9TPxLFROLAIcWZvo",
         "content": "Bad app",
         "score": 1,
         "thumbsUpCount": 0,
@@ -638,7 +650,7 @@
     {
         "reviewId": "gp:AOqpTOGzven6oxmd-R2_s64LK22ecSCgW9Bk1zMJATOuvQ12r55AXJLNuqCwdtv_E60pZBtUtVQfELTnbdBggP0",
         "userName": "Kathryn Dahl",
-        "userImage": "https://lh3.googleusercontent.com/-yDv5k0-wIwU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckhWgk-MTctBjPCyH8ffooebrIe3w/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-yDv5k0-wIwU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckhWgk-MTctBjPCyH8ffooebrIe3w/photo.jpg",
         "content": "This is terrible because I had troubles with the app because they put the wrong city of Sisseton South Dakota instead of Rosholt South Dakota.",
         "score": 1,
         "thumbsUpCount": 1,
@@ -662,7 +674,7 @@
     {
         "reviewId": "gp:AOqpTOGk5d3zgIEMmoLs0dXSW2xVPVjg435i74t_ANt1w8kaL6El4yg14BhGnLuFJQnARyeO0sMAgEZXBIghnMs",
         "userName": "John Gibbs",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gg13Cj-qpBY_CLQmu7WorCISRvz6R7Fh35L_pQp",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg13Cj-qpBY_CLQmu7WorCISRvz6R7Fh35L_pQp",
         "content": "Not impressed so far major gaps in my travel visits someone days.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -686,7 +698,7 @@
     {
         "reviewId": "gp:AOqpTOHjwDW9tNDkRdlepHk8Iuotliw0VVgGnzJ6AnFW-xS4VQGHk2jzUb7QryDzDBqF4suEA_mx-qq9v6B08Ao",
         "userName": "Michael Bunke",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gh4J-b3xlCLeoyJX_mu-Ly6R3Ezn3FTj2k-L-NCrVE",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh4J-b3xlCLeoyJX_mu-Ly6R3Ezn3FTj2k-L-NCrVE",
         "content": "This app is terrible at tracking. It doesn't record even close accurately and doesn't log anything for days at a time.",
         "score": 1,
         "thumbsUpCount": 2,
@@ -698,7 +710,7 @@
     {
         "reviewId": "gp:AOqpTOHmMGLp9onjxlhkLlol66YzVMtS6gc6p0CGDl7leWytJUB0BDSe6JOky-YrKbbbs26bt4OCCynbbRVAows",
         "userName": "Cameron Powers",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiAQUsnrD-0sQHrwPufh_UTWQ9PBZ66g8ET1XyPUzY",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiAQUsnrD-0sQHrwPufh_UTWQ9PBZ66g8ET1XyPUzY",
         "content": "Does not seem to log locations or show anything under the info tab. Samsung Galaxy Note 10 plus",
         "score": 1,
         "thumbsUpCount": 3,
@@ -710,7 +722,7 @@
     {
         "reviewId": "gp:AOqpTOGK6ahuUxEuvpQYpTEVFc4BaevYF4bCO6jUd58CUeSRCwIdbOUXn5RNePOV-r9a6Ai2LnArxk7miU0vdbM",
         "userName": "Nina Eilssa Pineda",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgIhNBiSmLR4zpSbRupuunZKcv_0PtBdxbnJhneIQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgIhNBiSmLR4zpSbRupuunZKcv_0PtBdxbnJhneIQ",
         "content": "Too slow",
         "score": 1,
         "thumbsUpCount": 1,
@@ -722,7 +734,7 @@
     {
         "reviewId": "gp:AOqpTOFmqzPJIq818yIv-PgbuPn_Ry5invQdyxqgdS77u1xPMH7O_qhPQbm_hQ6-Jd_Fb1IVGnfU9ZGzZVLQulg",
         "userName": "Gary Percival",
-        "userImage": "https://lh3.googleusercontent.com/-XxSYFmObqI4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmBuarRLoSylh9sCWzNUiKwPCjS_Q/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-XxSYFmObqI4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmBuarRLoSylh9sCWzNUiKwPCjS_Q/photo.jpg",
         "content": "This app will never get on my phone. Nothing like it will never get on my phone. I NEVER WEAR MASKS. I DO NOT SOCIAL DISTANCE. I WILL NEVER BE \"VACCINATED \" AND NO NEEDLE WILL EVER TOUCH MY SKIN. I WILL NEVER ALLOW YOU TO TAKE MY CONSTITUTIONAL RIGHTS AWAY YOU CRAZY PSYCHOPATHS. YOU ALL NEED TO GO AWAY. LIKE ACTUALLY... GO.... AWAY....",
         "score": 1,
         "thumbsUpCount": 4,
@@ -734,7 +746,7 @@
     {
         "reviewId": "gp:AOqpTOFw1swQLkTvuY8qGIHGWiiWDtSWFyiJlbmKm5WxdziyWo9uhpMpC5PJu6UvfUH3hHDNdEqs2NnTIWLPCpI",
         "userName": "Philip Gaebe",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgzLy-zgo-bDZVKjRbIjMgFp24IHxDDYKQ0PdcF",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgzLy-zgo-bDZVKjRbIjMgFp24IHxDDYKQ0PdcF",
         "content": "Simple app. Does what it was designed for but little else. Misses many locations and frequently has location accuracy issues. Routinely misses my home by 6 blocks. Says I have visited locations I have just driven past. Would be nice to have ability to add locations that I visited but app failed to record.",
         "score": 3,
         "thumbsUpCount": 6,
@@ -758,7 +770,7 @@
     {
         "reviewId": "gp:AOqpTOEUdPOYQ0pf6vPg9G5h04UqCYsBII998sdqg9LFV2_efDEQSokEXtkrnXImvCBO7de0FeVRaCCPT9oqQcY",
         "userName": "Tim Willenbring",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Ghr_JUY5vJdZqPFvt_rIaLgygIHwc0p1K_4lZ9JbA",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ghr_JUY5vJdZqPFvt_rIaLgygIHwc0p1K_4lZ9JbA",
         "content": "Shared my location that I was not sure about. I wanted to help with the virus.",
         "score": 1,
         "thumbsUpCount": 1,
@@ -770,7 +782,7 @@
     {
         "reviewId": "gp:AOqpTOF2giFfhg48jrs0NOqChaJhwmnTKKSwPhPMYQhrZo57sX2olCFo3k1TjyQjaxTbKCFjX7scYpaUwQ6aNVQ",
         "userName": "Cathy Koch",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiUPI_i7zWW__bEIq1h9svPLjrh5bGJ5_LbM257UAw",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiUPI_i7zWW__bEIq1h9svPLjrh5bGJ5_LbM257UAw",
         "content": "Stopped logging where I go. Not useful. Uninstalling.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -782,7 +794,7 @@
     {
         "reviewId": "gp:AOqpTOEiz9LyY4rKqb4YgPJFQXzHsZQPrcG5M17iXvXrhD9FgChEzwRds91xgm_bbR_5HxGTPmPuLuCFohGDpjk",
         "userName": "M Sheldon",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhXUzQmeitVHkluNEthZJ81AlPr_hcXLfsJTEL8",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhXUzQmeitVHkluNEthZJ81AlPr_hcXLfsJTEL8",
         "content": "Great idea Junk Only listed one site over 5 weeks \ud83d\ude14",
         "score": 1,
         "thumbsUpCount": 0,
@@ -794,7 +806,7 @@
     {
         "reviewId": "gp:AOqpTOEqKNOkitKHIRJ6UFUm59AxfHvHuCh-JIGw_ntH7jnbyIWjSVXXsX6cUpa9DkIw8BBcnEmZHkSBsQLqiao",
         "userName": "Crystal Vaagen",
-        "userImage": "https://lh3.googleusercontent.com/-yEQq9xJqNQA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckvWmFo-kqcOmR7FGjuRWPrjQucjA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-yEQq9xJqNQA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckvWmFo-kqcOmR7FGjuRWPrjQucjA/photo.jpg",
         "content": "This app would make sense if it correctly tracked where you were. It needs an update to better track it also for walking. Poor and elderly won't use this nor will people who refuse so information will be limited. Needs an upgrade to let you know if you've been around someone with Coronavirus. Good idea but needs fixing",
         "score": 2,
         "thumbsUpCount": 12,
@@ -818,7 +830,7 @@
     {
         "reviewId": "gp:AOqpTOFQwn9r9NC4ZQxa4IftfL3UNY77xH6NBed5pYSbXBj2FJe8gjjRn19s4qQXeTN872W916dWDmiCjCuKBcQ",
         "userName": "Isela Lopez",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgtkWYNjzc7S2Y_g2u_LKJuvca9IpLx7kF8fqXgnA",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgtkWYNjzc7S2Y_g2u_LKJuvca9IpLx7kF8fqXgnA",
         "content": "Violation of constitutional rights",
         "score": 1,
         "thumbsUpCount": 0,
@@ -854,7 +866,7 @@
     {
         "reviewId": "gp:AOqpTOETXoGyG3bwW7e6zyzaD0ayVZL3u_AIcmGrB8iLb2mjdCTrOQ-kjatDhv3L3HduH5AJLQEhRwAOpB47zLY",
         "userName": "DJ Wadholm",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gha7hmnHJnDdhUF0vvbMZ0HiBJ-jfuHOXQCKqeilw",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gha7hmnHJnDdhUF0vvbMZ0HiBJ-jfuHOXQCKqeilw",
         "content": "Inaccurate",
         "score": 2,
         "thumbsUpCount": 0,
@@ -866,7 +878,7 @@
     {
         "reviewId": "gp:AOqpTOEU3omyqWF_8jTp3i7Wo19mQhb4LTTINvLtkcjLqlUa37JNtY6tNTcO2fQpwmcLQOZB2PBoOe_2nRku1g8",
         "userName": "Buds Over Bottles",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhXEKl4DfVu22DGE5hbrXyftSkxWMkZ4WSiRDbn",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhXEKl4DfVu22DGE5hbrXyftSkxWMkZ4WSiRDbn",
         "content": "Someone told me this tracked people with COVID. I do not see the possibility inside the app.. it seems to be only for the infected individuals. Wheres the app to see where the infected individuals are proximity wise to your location?",
         "score": 1,
         "thumbsUpCount": 1,
@@ -878,7 +890,7 @@
     {
         "reviewId": "gp:AOqpTOFmbrGy2t-lAKyHIg057BNfwUR95L7kctz0n8mtEZ_B4OBE6BbxXIcPauzGoJw6_P0l4IsJs1YovVIeDJg",
         "userName": "Greg Boyko",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gg52korfhPvWjV3c56c5vJZrLQh5femIEQnbyiAqg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg52korfhPvWjV3c56c5vJZrLQh5femIEQnbyiAqg",
         "content": "The early release back in April was rough (didn't log any stops for me). But it's been working well for me since about May 4. It occasionally logs more than one stop at the same location. It occasionally gets the name of the location wrong, but this is very easy to correct.",
         "score": 4,
         "thumbsUpCount": 16,
@@ -890,7 +902,7 @@
     {
         "reviewId": "gp:AOqpTOH9rvkB4L8OEgsQjKnUgxnl8hFNM2nelTuMXs5p2UsKGb50rl_MQhgvv2h6q7cUI3DrdwDb9Fv33dcMn8Y",
         "userName": "Bob Zent",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gj7RhYlr87LNYsVgqmfpMYXsGqI-4mw4F1zFhXn2g",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj7RhYlr87LNYsVgqmfpMYXsGqI-4mw4F1zFhXn2g",
         "content": "Worthless. Says it will only locate places when having used a vehicle. Went 100 miles, been here two hours, it still thinks I'm at home yet. Minus 2 stars",
         "score": 1,
         "thumbsUpCount": 2,
@@ -902,7 +914,7 @@
     {
         "reviewId": "gp:AOqpTOF_XF4aPGPzjdfWWWcWu9V6McYB-4HrzGrE-aYdWy3YdtkLekxRbWiofwmed7B2s6ijElFIOiz1mxpZM-Q",
         "userName": "Gerald Jankowitz",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjpQ7nnVqjWOgt4Df0HWfK4S_hYdh88M0HHgsXDNw",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjpQ7nnVqjWOgt4Df0HWfK4S_hYdh88M0HHgsXDNw",
         "content": "Does not work in NJ",
         "score": 2,
         "thumbsUpCount": 0,
@@ -926,7 +938,7 @@
     {
         "reviewId": "gp:AOqpTOHNWfySVnlTbQWM2N38zTag9DtzjBOvuXfJ0UY4FIWMk6w2p9X24_FwJGa2Ds8uN1DvB-Og-oNZRgvrRZM",
         "userName": "Lesley Fortebraccio",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gj-YB3LzTSOkc1bA98nMd5iw84acKRNKuQDaa7dxA",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj-YB3LzTSOkc1bA98nMd5iw84acKRNKuQDaa7dxA",
         "content": "Awesome",
         "score": 5,
         "thumbsUpCount": 0,
@@ -950,7 +962,7 @@
     {
         "reviewId": "gp:AOqpTOHpr5C7wdxvjYtZvkfRWTFV1mmHpiSlZTA5bVWODdbROZocp9DRwTyNZGB2EblLLkkedrewLTvU3fIu3ac",
         "userName": "Jen Munce",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gj11dEgoYeA8OAQDx0fi3Rg8kradF0KXx9imCyT8Q",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj11dEgoYeA8OAQDx0fi3Rg8kradF0KXx9imCyT8Q",
         "content": "Very inconsistent with location. Can be at a location for hours and doesn't list it.",
         "score": 3,
         "thumbsUpCount": 1,
@@ -974,7 +986,7 @@
     {
         "reviewId": "gp:AOqpTOFCc-CnbPAtxck1UxsQ6nXhSc_9PUTYTwlzIAHFRVXo6HDiHnjaYptmyZlrVW5xk_AH6KaYFV41tkm5qG0",
         "userName": "Kirsten Slominski",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgkrlbO7dzMp-EKBdS1ZGP7Vq9QFvo45Hahkhwo-Q",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgkrlbO7dzMp-EKBdS1ZGP7Vq9QFvo45Hahkhwo-Q",
         "content": "I have visited the grocery store on a weekly basis since downloading Care19. This trips have not once shown up in visited locations.",
         "score": 1,
         "thumbsUpCount": 1,
@@ -986,7 +998,7 @@
     {
         "reviewId": "gp:AOqpTOEtRQ5SNpo-S-zp4IMdo3xika3tkFYVuedPZao9456-6Vrs-QcFPsfXKEMDfZ0Jo21w1Oyx0iXvQ7DYEj8",
         "userName": "Joel Huwe",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiW2RnnzYpk1I_GEyPbRBxO--nm4kcBq8PneFCzAA",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiW2RnnzYpk1I_GEyPbRBxO--nm4kcBq8PneFCzAA",
         "content": "Don't capture all the locations",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1010,7 +1022,7 @@
     {
         "reviewId": "gp:AOqpTOHTwxouTH296qbt_Lkm-ISGmfcJ9_qq457THibox7Aluu3ODn2_nZ9-prAW_zQXY9PY4Qd9WlxGdI9l_oo",
         "userName": "Mark Speirs",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiEJ_VC4P9ShJg6uqfIG76H2tfYt4e_7xtJS-3x",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiEJ_VC4P9ShJg6uqfIG76H2tfYt4e_7xtJS-3x",
         "content": "Does not track my movements.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1034,7 +1046,7 @@
     {
         "reviewId": "gp:AOqpTOGZ-3SrRU-pWFDH_DFh5bBujcu99qlEr-e2kK9gCg5tvBuZ1vu0IsYEU6q1hO_adIg0QA6VoAjmieKN_Tw",
         "userName": "Barb Erdmann",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiCma4XJ6DfTZpq2VIzNPCDx4TEfjF6rUwvM7L1gA",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiCma4XJ6DfTZpq2VIzNPCDx4TEfjF6rUwvM7L1gA",
         "content": "Only logs some locations. Yesterday i made 4 stops, 130 miles, didn't register one of them. Few days ago logged a location which turned out to be a long red light. We need the option to add locations. And what is the information about? Just says loading... loading... loading.",
         "score": 1,
         "thumbsUpCount": 29,
@@ -1046,7 +1058,7 @@
     {
         "reviewId": "gp:AOqpTOGQowKoYW87RVGOyEJHrY-uRtRTrs15h-pBQstofNVp0IjpepeTXobZoE2NyfLhXxBtS4taRwqzvHCkHT0",
         "userName": "Lawrence Palmore",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgBUi26REDpBCi4_8OW5h6P19jqwv9icdmQJkntVQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgBUi26REDpBCi4_8OW5h6P19jqwv9icdmQJkntVQ",
         "content": "A must!!",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1058,7 +1070,7 @@
     {
         "reviewId": "gp:AOqpTOE2nS80JcU3oWMI1jkIyyXUUGAtLzt__lWPMXaJOCawfmxerpeGn_ZPeqY_mOX0kZIIWLe84ToD0gpfQoY",
         "userName": "Janie Schonauer",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gg7hGVIWyuE-8Zx_Td1ke-m1wO2eGbN0okrRbNcYw",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg7hGVIWyuE-8Zx_Td1ke-m1wO2eGbN0okrRbNcYw",
         "content": "It's a great idea, but does not log most of the places I've been. Stopped at 6 places in Bismarck and didn't log one place. And then the next time it will log the same place 4 times within a few minutes or log a place I only drove by.",
         "score": 3,
         "thumbsUpCount": 3,
@@ -1070,7 +1082,7 @@
     {
         "reviewId": "gp:AOqpTOHWgH_cdviP8M171A8OPUto__iEm9PPiCQVeV3aABgQWuKi3QMrjAcOhjNM_7qLYpfJaYpomgd5ijICT6U",
         "userName": "Amber Marie Dankmyer",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhMdeDXAidwDA9_-9o8zFIYlW1dw7L92jstDEFp",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhMdeDXAidwDA9_-9o8zFIYlW1dw7L92jstDEFp",
         "content": "This app said I hadn't left my house in reality I have gone to work and the grocery store there are definitely some glitches that need to be worked out.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1082,7 +1094,7 @@
     {
         "reviewId": "gp:AOqpTOG6d0_uDXH3CNx1a2rSR7HOHdCZGszQM8dOII7jgnGMjpfmRkKUjhyoAqKiIz4LgTeJZAZRh85BE0Z2UqI",
         "userName": "Roger Nelson",
-        "userImage": "https://lh3.googleusercontent.com/-8_2RMqjD1l4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckc5urlh3C5FoSJcYTu4CwsUgpx7w/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-8_2RMqjD1l4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckc5urlh3C5FoSJcYTu4CwsUgpx7w/photo.jpg",
         "content": "Doesn't log locations all the time. Even after I have been there for over ten minutes. Not very dependable .",
         "score": 2,
         "thumbsUpCount": 2,
@@ -1094,7 +1106,7 @@
     {
         "reviewId": "gp:AOqpTOG4y_dT-sRzhpREBaUhRQyfJjGD5tG_MAtVZ12t5kTFmmxRztwI5Q1wkJ0jIlYl_OZGcWt9o2H31h_x6eI",
         "userName": "Steve Mott",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgKInivSa8ujJJHpz5pYHgjWht-jkB-3Dqvs2oF",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgKInivSa8ujJJHpz5pYHgjWht-jkB-3Dqvs2oF",
         "content": "It's pretty buggy. The background task for tracking places crashes after about 2 seconds, so I don't have any history.",
         "score": 1,
         "thumbsUpCount": 2,
@@ -1130,7 +1142,7 @@
     {
         "reviewId": "gp:AOqpTOFHMbwcPNOdZtcB-qwDUUm8Cy1UZnKSBQRMoyM1V-RWDGTSTl0jB-MMT-iuuhmxeyjanDjMXj9LvOI-9oY",
         "userName": "Wayne Mattheis",
-        "userImage": "https://lh3.googleusercontent.com/-PUoJc2YTxms/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclS7a4w6uqH9AITTk8g8zb_uHNZPQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-PUoJc2YTxms/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclS7a4w6uqH9AITTk8g8zb_uHNZPQ/photo.jpg",
         "content": "This app does not work",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1142,7 +1154,7 @@
     {
         "reviewId": "gp:AOqpTOEs1LoHanvq0vpweEiZfckyCAZ-RvoLKZktLn3rwCpb-1ntANucxLn08v6kN1qzFfVksYyXcEaFB0twVdM",
         "userName": "Janice Swenson",
-        "userImage": "https://lh3.googleusercontent.com/-ZTsrPdYiP8g/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckI8NxGO7xst8n4QylfmXkWpZAWJw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-ZTsrPdYiP8g/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckI8NxGO7xst8n4QylfmXkWpZAWJw/photo.jpg",
         "content": "Not the best, has not tracked me since May 9th! My location is turned on also. Noticed previously it missed Tracking me to and from work on May 6th. Might be easier to just write it down on paper .",
         "score": 2,
         "thumbsUpCount": 1,
@@ -1154,7 +1166,7 @@
     {
         "reviewId": "gp:AOqpTOEoLTuvTjDNBQn5gYEpslcRNUS2yjCueRsX4IQG8thbgIHDbKje-18Xae_lrE0H4x8s_37cJcN8gH9zDaA",
         "userName": "Chris Becker",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiKGAoRqPWM3iOYjQL2iFpTiTAOayjfKZaMYHWBWA",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiKGAoRqPWM3iOYjQL2iFpTiTAOayjfKZaMYHWBWA",
         "content": "Stopped logging locations after 2 days.",
         "score": 1,
         "thumbsUpCount": 1,
@@ -1166,7 +1178,7 @@
     {
         "reviewId": "gp:AOqpTOHQDdeSaMgZPrxafpl_P4VtpCm9U3C6VrXh9gfEPZEv38ytbA3tlq7u309tWH7Q6m_YxZPqz2sov9Ka_FI",
         "userName": "Casie Kaup",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GivNV_IRNAjOIQTaucU_cUM8QzJ_dfcv-Z-9v_tVg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GivNV_IRNAjOIQTaucU_cUM8QzJ_dfcv-Z-9v_tVg",
         "content": "This is not tracking my location at all!",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1178,7 +1190,7 @@
     {
         "reviewId": "gp:AOqpTOFFe9nLYyhds3RIL33BBjN6AiJ3wIO6LsKaJCJDZVo8RxXZ8uhGUabuYhJkAtfwWltffu6LtXfETQG4898",
         "userName": "Paul Oster",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhafA_rFAbdEtLqOWcTVLFXlfIEQmEJndBW6uoxYw",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhafA_rFAbdEtLqOWcTVLFXlfIEQmEJndBW6uoxYw",
         "content": "Doesn't work, innacurate location data and goes days without doing anything. Aside from the big brotheresque issues, it doesn't even do the job it was designed to do.",
         "score": 1,
         "thumbsUpCount": 5,
@@ -1202,7 +1214,7 @@
     {
         "reviewId": "gp:AOqpTOH63q_L7gREFIr6cwTIM2lc6MfkOC0jV7VqJqskAx1btYXQ-I_SEKsDcODpKe7VmEw68yrzPxtvNJsKvcA",
         "userName": "Neil Hilde",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiLtQmOzmV0aePqrYhThIe4JQZfGk5oUiO68C6z",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiLtQmOzmV0aePqrYhThIe4JQZfGk5oUiO68C6z",
         "content": "So far only kept two logs. Both for work. Both on the same day. It's also picked up places I drove past. Been at work 12 hours today and it didn't register once.",
         "score": 2,
         "thumbsUpCount": 1,
@@ -1214,7 +1226,7 @@
     {
         "reviewId": "gp:AOqpTOH51fQlE1yStWPOC9ev97pSjn0DIQtqpaNi7zlO8w9436aJX5pFbR0pAAnym_345_8sS4BCjZccARy60uA",
         "userName": "Kate Munson",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Ghv5O4SMsmGeCVu0efj5daGo2qyiRzqTRCQpgc_Yg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ghv5O4SMsmGeCVu0efj5daGo2qyiRzqTRCQpgc_Yg",
         "content": "Doesn't do anything. Records nothing. The app continues to say that no stops have been recorded despite having granted the appropriate permissions and making several qualifying stops.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1226,7 +1238,7 @@
     {
         "reviewId": "gp:AOqpTOH8RvCkwQL5Y1tsbcA3WXh3JM_dMStOm00R5QS-nhnGw1n6S6YIvrJg5bCkUIvVxcjEwJbyGpXQ7EiDhWc",
         "userName": "Debra Piper",
-        "userImage": "https://lh3.googleusercontent.com/-cIXaDVKUlFs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckRdjn6F7JQdu7D4iTHp5-mk8wrNA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-cIXaDVKUlFs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckRdjn6F7JQdu7D4iTHp5-mk8wrNA/photo.jpg",
         "content": "Stopped working on May 7th. Reinstalled today. Maybe it will work now.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1238,7 +1250,7 @@
     {
         "reviewId": "gp:AOqpTOGpLQWnerd8GiYfUV4Kr2bwanuolkdrcugU71LCng253jDpVtkdA7B6vlvHHEoD4PB3YX8PhFM1P66bofs",
         "userName": "Kobe Falco",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gg2i6B-OlZoO-7RnvD15kDW8_D1f3pjMC4LquDAXVc",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg2i6B-OlZoO-7RnvD15kDW8_D1f3pjMC4LquDAXVc",
         "content": "Waste and poor design",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1250,7 +1262,7 @@
     {
         "reviewId": "gp:AOqpTOEj6EebxGsTI6aE72gj7i49ShoQ-Xzh2nNdE7rt4lo5VJcnATHwkTVYr-LgJaya-UDBAS1KYtsbYrohidE",
         "userName": "junior slago",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gjk1L6D3LibAD225LPLnLIUvSaggD-qXSZK0rRTxA",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gjk1L6D3LibAD225LPLnLIUvSaggD-qXSZK0rRTxA",
         "content": "Need to have a way to add places one has been when it quite often misses the place one had visited all together.",
         "score": 2,
         "thumbsUpCount": 1,
@@ -1262,7 +1274,7 @@
     {
         "reviewId": "gp:AOqpTOG6EkE74v7anYwea4ftx8GT-l4D0jYeGfQ88rHK-RZ-HPTDJ9OPHpRzQXE39nal-6tjHxctk9x6Dv9lLXk",
         "userName": "Tim Leidholm",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgMzAg2aX5suk_W8lZlzpNKd5jJSZhMS1OZFanV",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgMzAg2aX5suk_W8lZlzpNKd5jJSZhMS1OZFanV",
         "content": "This app doesn't work very well. Sometimes places I've been will show up but I have gone places that do not show up. This type of app needs to be much more reliable.",
         "score": 2,
         "thumbsUpCount": 3,
@@ -1274,7 +1286,7 @@
     {
         "reviewId": "gp:AOqpTOGDLcDcMf-ZGfuU2caIoMzDNrFaR1XbY_5zw2dJ7unsqVmk_pfv97T_ujCa5Z8zO_n3-h-l0_CLTpJdurs",
         "userName": "Mark Haider",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiO5Pd2gqJNbfgXVKPNK9oSwi8xj4YUPf8z502RCg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiO5Pd2gqJNbfgXVKPNK9oSwi8xj4YUPf8z502RCg",
         "content": "The only place the app consistently logs is where I work, and it doesn't log that until I come back to work after lunch around 1 pm. Today I went to 3 different stores and it didn't log any of them, those are the most important locations to be logged. I've been using the app since it became available in South Dakota and this has been my experience from the start.",
         "score": 1,
         "thumbsUpCount": 66,
@@ -1286,7 +1298,7 @@
     {
         "reviewId": "gp:AOqpTOHe-QnzRJ-PBBe5ji6vxTRZ3ujibZcwRTCQKObDcm0Y0qH3vDwQVDmTBZmszeflB7ol1o48SWgjkWNuUho",
         "userName": "Brooke Nelson",
-        "userImage": "https://lh3.googleusercontent.com/-ZqFj4nr6NdM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl17_mYB5S7A3xuAueC84sJttHogQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-ZqFj4nr6NdM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl17_mYB5S7A3xuAueC84sJttHogQ/photo.jpg",
         "content": "Does not keep accurate tracing. Places I have been are not being recorded, but it records places I have not been.",
         "score": 1,
         "thumbsUpCount": 3,
@@ -1298,7 +1310,7 @@
     {
         "reviewId": "gp:AOqpTOEq1A3llk5Vr5iMZ9TT5FhaFNJmy1lO325W1H5AJl_ajeVi1yDDIjOuLb0GzZyZ7-KG-dMVVasX-NOsBfU",
         "userName": "Jessica Voigt",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gi-LTn_oyzlT3xmfgUlxyNkXZrdIEef8UE2ZnAGJA",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi-LTn_oyzlT3xmfgUlxyNkXZrdIEef8UE2ZnAGJA",
         "content": "Is not exact location of where I was do not like it at all and I am always up dating my app for it to work If i have to update this thing again and it looks like i have to i am deleting it should not have to make sure it is working right before leaving my house",
         "score": 1,
         "thumbsUpCount": 1,
@@ -1310,7 +1322,7 @@
     {
         "reviewId": "gp:AOqpTOFIgg3ip9UOLNoHvYa5niJZVY8000tvW5RdaFI8kTZyuj7y9D6sWk9-edGZzHNGdZlv2aFg8zbWRnPBBDk",
         "userName": "ROBIN SCHATZ",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gh1cJ_SArTbxgc8TV-sCL3b4CkCtgrul7TXJIOG",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh1cJ_SArTbxgc8TV-sCL3b4CkCtgrul7TXJIOG",
         "content": "It does not ever log the places I have been at.",
         "score": 1,
         "thumbsUpCount": 1,
@@ -1322,7 +1334,7 @@
     {
         "reviewId": "gp:AOqpTOGzOduWIUfrL1YUEOm9UKpxy9gwpDUqwwa5QDJG-j3C6vYRejBAvphvTNNJ4I29FcK6RQD8m08xG3M5xDk",
         "userName": "Cory Huelsman",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhR1b6RbNDKYfLL4e02Ve3-MFUpIF3GV2505zpTCw",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhR1b6RbNDKYfLL4e02Ve3-MFUpIF3GV2505zpTCw",
         "content": "Has not recorded anything since end of april",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1358,7 +1370,7 @@
     {
         "reviewId": "gp:AOqpTOGG37aJSVxk-4Kyxi0JQfX3Eksa5bwigbktsXIUJU3S94-chSzDtrB1xv4BkVqU28jJOyluMJ3a63wCmQo",
         "userName": "Maria Carpenter",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gj_q2WqKMU65Xtyo0R7bNWXNXZh-1ZCBimyTG940w",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj_q2WqKMU65Xtyo0R7bNWXNXZh-1ZCBimyTG940w",
         "content": "I uninstalled it because it doesn't always record places I visit. I was at the YMCA for 45 minutes and it didn't add it.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1394,7 +1406,7 @@
     {
         "reviewId": "gp:AOqpTOFNnRsK36Aay6AwiToPSSIQlgOV8-y5c4VVtL9u9_avGCekeF2P_X9VWPeJ26OUlbuFRiNcx8rUqvBRDgc",
         "userName": "Linda Charlton-Gunderson",
-        "userImage": "https://lh3.googleusercontent.com/-t9pqpH1UJyo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmnsfaqNxfZRnvHA318uQGxnj76Zg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-t9pqpH1UJyo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmnsfaqNxfZRnvHA318uQGxnj76Zg/photo.jpg",
         "content": "Does not track where i have been it says that i did not go aby where het but have",
         "score": 1,
         "thumbsUpCount": 1,
@@ -1406,7 +1418,7 @@
     {
         "reviewId": "gp:AOqpTOFzWdCQ3-zcAnGgnEDiYGUVfONo3Zb6b476tAiV9S9M9hdLgnbnLiUtzJHuY6rHimxKKgNiLg-mqVOgbys",
         "userName": "Jo Martin",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhGcjwxb8D5eDvb7qFcIIn8z2osMWOB7DUvP2_v",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhGcjwxb8D5eDvb7qFcIIn8z2osMWOB7DUvP2_v",
         "content": "I hope this helps people but there are definitely a lot of bugs",
         "score": 3,
         "thumbsUpCount": 1,
@@ -1418,7 +1430,7 @@
     {
         "reviewId": "gp:AOqpTOHSTl0wK-IRQQr8HuFCc5kvaoquX_fCf7iSXnOL7pJNzBz9iuPbqq2FsqxZ66ufK2nsmIMHlQu15whneCw",
         "userName": "Charles Fletcher",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gj2z2LrADSulMR2NcWtCN8nMeebXUhJHJ_OxxjN",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj2z2LrADSulMR2NcWtCN8nMeebXUhJHJ_OxxjN",
         "content": "Broken? Doesnt log locations, or does it? We will never know, guess we should wait for an official app.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1466,7 +1478,7 @@
     {
         "reviewId": "gp:AOqpTOGocZVEAI1M-e0-Js6eeczUiK_0emrwOafqvkny0LzTxzjs4VUgUZzlxVW-wCBBvfhtKHs0OHsTORReEG0",
         "userName": "Gail Anderson",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhdfIQfs65-EeQTWr4FqXfV0Pnl__P5f8kaC5Uw",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhdfIQfs65-EeQTWr4FqXfV0Pnl__P5f8kaC5Uw",
         "content": "Location services on and did not log 4 businesses we were at on 4/28. Yet logs places we only drove by. Android version 2.1 on Samsung Galaxy Note 9. Hope this helps. Turned notifications off.",
         "score": 2,
         "thumbsUpCount": 4,
@@ -1502,7 +1514,7 @@
     {
         "reviewId": "gp:AOqpTOGLKGgJywtgar9himYRXd5v9m2m0NaaCn2NjEAzAOL_xXMGwE-d-aSgQ1OOxY0_wgohpBk_TYQLOxShjrk",
         "userName": "Carla Patterson",
-        "userImage": "https://lh3.googleusercontent.com/-J8q14Fhvons/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckZwbR2hCDIh4K2UZIDwzDE3QsLcw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-J8q14Fhvons/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckZwbR2hCDIh4K2UZIDwzDE3QsLcw/photo.jpg",
         "content": "Does not record any place I've been. If they want help someone needs to fix the app.",
         "score": 1,
         "thumbsUpCount": 2,
@@ -1514,7 +1526,7 @@
     {
         "reviewId": "gp:AOqpTOER545IpSB_LD3OsmbLnD0USID2tJIrybSm5mpbjWZehZGCQ0oxWMmlS3jaTisFncSCqTjzCS58GOw-kLM",
         "userName": "Linda Katsoulis",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjOJ0IQABuwSt0rvW__Sqi9YpnA7JsDzCA_8E-G5A",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjOJ0IQABuwSt0rvW__Sqi9YpnA7JsDzCA_8E-G5A",
         "content": "My first experience was a good experience. Today went to CVS, App said I was at Bismarck Animal Hospital. My next stop went to Arby's. App said I was at McDonald's. Next stop in the same parking lot as Arby's, I parked to eat my meal and App now says I'm at a MoneyGram. This place was located in a now defunct Kmart since 2019. So totally not a good thing to reply on.",
         "score": 1,
         "thumbsUpCount": 2,
@@ -1526,7 +1538,7 @@
     {
         "reviewId": "gp:AOqpTOGJmfSNMeiO-GqbJBHsW7kHELfR_zdcQc2aGGLSykLbCy417Jmpp8xZ3ApJ7UskIjG0JMigzEKB5fpxzJo",
         "userName": "Jody Witty",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gj-WelT6vn-WRjoCEeQP7hbTq5xduBK-rhXJHB2",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj-WelT6vn-WRjoCEeQP7hbTq5xduBK-rhXJHB2",
         "content": "It will not track any of my locations",
         "score": 1,
         "thumbsUpCount": 1,
@@ -1538,7 +1550,7 @@
     {
         "reviewId": "gp:AOqpTOGmE5yEhHaDnktDAImDQMN_kDLul5oG1SFqfwTpGU9ROJzO3tpKZhYVKCxuKIz4rMzHEi9Dw-PPcCQTiXY",
         "userName": "Kathryn Merry",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgxyZnObLfLGckxhikMY4CXT3tlYeNUrKp3Zbjy3Q",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgxyZnObLfLGckxhikMY4CXT3tlYeNUrKp3Zbjy3Q",
         "content": "Getting to the point where I want to just uninstall this app since it logs where I work 15-20 times in the 8 hours I'm at work. I'm assuming it's because I operate a forklift and drive from one end of the plant to the other throughout the day.",
         "score": 1,
         "thumbsUpCount": 2,
@@ -1550,7 +1562,7 @@
     {
         "reviewId": "gp:AOqpTOH3NxpeX0WoY3HIVBFAnsNpHn1VJ_Q6xeppP2TYmU5LK7kKFtwUSfPlZN5-jwj4TcYF5Q0V0EkNfMpOTdk",
         "userName": "W\u00edls\u00f2n P\u00e8n\u00e1",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgEwM672_s1p6lFiMP3j_xYzuYdqwzZI6XxtP6Dqw",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgEwM672_s1p6lFiMP3j_xYzuYdqwzZI6XxtP6Dqw",
         "content": "before you install this app ask yourself Who is ProudCrowd LLC? How is your data going to be used. Their website is not working. Love to help the cause but this company is unknown. Buyer beware it's your data",
         "score": 1,
         "thumbsUpCount": 1,
@@ -1562,7 +1574,7 @@
     {
         "reviewId": "gp:AOqpTOGUVvA2TM9J-xYj9tllNrb35FlMe2QtRVLJ8PQEg_jvqlLDC-ai6AVoGnx6yhEGaePoF0PTDzj4SVWmhaM",
         "userName": "Jaime Hargens",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjDMu9C0fQMwBQuPK-zoS5K2L5zZ992PQFvmrtztA",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjDMu9C0fQMwBQuPK-zoS5K2L5zZ992PQFvmrtztA",
         "content": "I work in a shopping center and it constantly logs the businesses next door to me but not my actual workplace. Didn't log my grocery store visit at all.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1574,7 +1586,7 @@
     {
         "reviewId": "gp:AOqpTOGFAdf1Hd6uCkC0xoNbiOJDbluxSTfjqOQJjtV5I9Cnlsytsquhr6Ki4LQQKc9wAUEDZ41hVTT03_WPHsA",
         "userName": "Ryan and Maggie Norrell",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Ggk-Rivuo7UCLHUeF5orq9V4Q1mzNPXqqXqK3OW3Xo",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ggk-Rivuo7UCLHUeF5orq9V4Q1mzNPXqqXqK3OW3Xo",
         "content": "App isnt tracking location. At all. Not even wrong location; Simply no location. Took them forever to push an android app, and the one they came up with doesnt seem to work.",
         "score": 1,
         "thumbsUpCount": 7,
@@ -1586,7 +1598,7 @@
     {
         "reviewId": "gp:AOqpTOE_v9c142plOIi_RoNy1tKAXJQzr1_KHezLwV3Cm7GRIP-S9Daa-cI-eGfaidii8Q_Y9djjSrKgX6FRd7U",
         "userName": "Nathan Meece",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GieAEqOCpndB_ooHWb3HxKHe2_ShXCCcMFDZWq9",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GieAEqOCpndB_ooHWb3HxKHe2_ShXCCcMFDZWq9",
         "content": "App us is useless since North Carolina is not using it.So I'm deleting it until North Carolina starts using it.Had to give one star .It doesn't deserve it.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1610,7 +1622,7 @@
     {
         "reviewId": "gp:AOqpTOGgSA0rXHXX0iGSw1HLUiUimVpRkNFt55avKFdR65nhZGMwBVq9uMPcNPge44zMYksX-i9XmN2c3NnE600",
         "userName": "Kenny Deane",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhZQRU3Vsas7-manUEHcdTvCfSh18UnxDs0JfpP",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhZQRU3Vsas7-manUEHcdTvCfSh18UnxDs0JfpP",
         "content": "This app sucks. You can't access anything unless you test positive. No maps. No area info. Nothing. Massive waste of time.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1634,7 +1646,7 @@
     {
         "reviewId": "gp:AOqpTOFBMnP5mq6CLgAzFusi88bcZT-Bhi1Ebll2G_rh0yltePw2Jzzwk42x7onGGvQY-88EPmhm3XW4pkE_Zww",
         "userName": "Aaliyah-the- stone",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhWwOJKaNEZ5m6zBMCAIlHr8trVgoTZi2jLXhCqAQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhWwOJKaNEZ5m6zBMCAIlHr8trVgoTZi2jLXhCqAQ",
         "content": "Has not logged anything sense the 25th of April and have gone to work for 2 8 hour shifts plus trip to grocery store",
         "score": 2,
         "thumbsUpCount": 0,
@@ -1658,7 +1670,7 @@
     {
         "reviewId": "gp:AOqpTOEXRAHGQjS-iTRiwVabc85nqqFkQkiYSfYGE3Lp58uZNNSwhlt8-IUaDieoxhsG2HFRKHsnLIBBFmDWUbU",
         "userName": "VW Hypermiler",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gg8PfqL2Gng3PvN20lD3sIl_OMhNBx_R9KDhy9TIw",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg8PfqL2Gng3PvN20lD3sIl_OMhNBx_R9KDhy9TIw",
         "content": "It is great, it works, and I am excited for updates!",
         "score": 4,
         "thumbsUpCount": 8,
@@ -1682,7 +1694,7 @@
     {
         "reviewId": "gp:AOqpTOEZQC4MB5D6gIPVtKV2z8MmXA4lgitwednsJ8GBAYYMod8uBKedCXBuDVbe48QMbc4WZBWb4VFRbTfTzG8",
         "userName": "Bobbi Birrenkott",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GiXIP8xCRGMbnodqsZrVxEZkAziUznOQrau-XJ0EdY",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiXIP8xCRGMbnodqsZrVxEZkAziUznOQrau-XJ0EdY",
         "content": "I went and spent 60 minutes at a clinic last Friday and it did not track it. Uninstalled the app today. Will reinstall again one more time",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1694,7 +1706,7 @@
     {
         "reviewId": "gp:AOqpTOHfRSTDaZVNzKpERGEuO3zAySCwqM9HKwSM_Mme8IWnbnzGexcWgLIB6PjeMlzzIS07vx55LROzQftQiM0",
         "userName": "Cindy Davies",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Ggasa510Du0FFsY6vS7Saf5foR9SNstqzbwZkfqeA",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ggasa510Du0FFsY6vS7Saf5foR9SNstqzbwZkfqeA",
         "content": "Does not work at all. Shows stops at places we drove thru but did not stop. Does not show places we spent 25-30 minutes at. My friends and I traveled to the same place together and our results were very different. He's were closer to correct than mine, but still not right.",
         "score": 1,
         "thumbsUpCount": 28,
@@ -1706,7 +1718,7 @@
     {
         "reviewId": "gp:AOqpTOHZV1ovn-epx42l0vyYCp9p1_6fs_a7kOFnP656RJC3zYm-6gFnIKtWZweT8hytclwn084oRN1iumU28VA",
         "userName": "Tony T",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gg6nPriuqmz2cdnAAJr8qeWNJ0SV_aBjlDrY9ru",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg6nPriuqmz2cdnAAJr8qeWNJ0SV_aBjlDrY9ru",
         "content": "App does not log where I have been. Was at 4 places today for longer than 10 minutes and no visits were logged",
         "score": 1,
         "thumbsUpCount": 10,
@@ -1718,7 +1730,7 @@
     {
         "reviewId": "gp:AOqpTOHPaZEm724mBfoO24BdJ5WsJOgh6Oemxw8yN7OGNQ-ySnZHVafLzBwQuCv5L6Y2vA-hJZ567smezvDAEYM",
         "userName": "Trudy Papka",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjjcLQKgkVnbOozaRtjOrxNODTKSdO25LtvPxCM3w",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjjcLQKgkVnbOozaRtjOrxNODTKSdO25LtvPxCM3w",
         "content": "This app is not logging correct locations where I have been. i.e.: I was at the grocery store last Friday, but the app did not show it when I checked for it on my phone. Also when I drove to an address and parked my car, the address showing up in the app is about 2 blocks away from the address I actually parked at. I am going to reinstall to see if that helps.",
         "score": 1,
         "thumbsUpCount": 99,
@@ -1730,7 +1742,7 @@
     {
         "reviewId": "gp:AOqpTOEDhsDFdDy-EpG5jgvyT1i2QaGOjdgyMsJs8ixzxHMHPVbwmq39dvgNmmMD9g50UdlREWRG0bmZ6WJmr5Y",
         "userName": "Chip Carrigan",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhDE8FxZY85jApv5w-LmUYdtF7sHkSl4G25kJDTVQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhDE8FxZY85jApv5w-LmUYdtF7sHkSl4G25kJDTVQ",
         "content": "Spent one hour at a local hospital, complete missed it. Did log several buildings, that I was waiting at a traffic light for 60 seconds.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1742,7 +1754,7 @@
     {
         "reviewId": "gp:AOqpTOHD1dxi8V8KmrGlHIz9I0J0X7h9Saim9qk9O4TJfGdRq-x8tkoL9zIjWYDZj9LfSnUAYgstYS2CzKcD3Mk",
         "userName": "Shawn Espeland",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgkQANtMajph_RUrRX3W6fffcq_hQH-YTH6lqX3uQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgkQANtMajph_RUrRX3W6fffcq_hQH-YTH6lqX3uQ",
         "content": "This app does not work for the state of Oregon.",
         "score": 1,
         "thumbsUpCount": 1,
@@ -1778,10 +1790,10 @@
     {
         "reviewId": "gp:AOqpTOE0AFwyomyjN6JuxE0Y5v0H7lRovzEHP5aBwyzzNsAKwVYZWthR9d6-Gs3mtiYcSN5Ok9wKOiP1Ish5fa4",
         "userName": "Holy House Of Scouts",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GhmeH9zl1vU7S89EItZH5_Y5rYQcANiH6a5K0wM1Q",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhmeH9zl1vU7S89EItZH5_Y5rYQcANiH6a5K0wM1Q",
         "content": "Great if I don't want to catch COVID #RIPrickmay",
         "score": 5,
-        "thumbsUpCount": 2,
+        "thumbsUpCount": 3,
         "reviewCreatedVersion": "1.5",
         "at": "2020-04-26 09:16:49",
         "replyContent": null,
@@ -1790,7 +1802,7 @@
     {
         "reviewId": "gp:AOqpTOFeIWHZc60MtKtzzP7VOM-f0tMYpmNZozHnEFQ43hGe6e0J0CcfbILcrPb6XwOJHBXrYIbfjQ2pPXjPvMQ",
         "userName": "iKingRPG",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgKfaibpMHj_6LVZCUA3E_DqcnEyceKmjPLn87zOCs",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgKfaibpMHj_6LVZCUA3E_DqcnEyceKmjPLn87zOCs",
         "content": "It works but Google maps does the same thing with timeline",
         "score": 2,
         "thumbsUpCount": 3,
@@ -1826,7 +1838,7 @@
     {
         "reviewId": "gp:AOqpTOHIKxa4lWacermU4u6dCqichW2Fd1cYu-sV20_tjQD-aufl7WyTsbzWsO4A3PXPVyfr_XlB9z2w0JiZr0I",
         "userName": "Terri Nelson",
-        "userImage": "https://lh3.googleusercontent.com/-UZJy1EsXTlw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnoXBxjDkf4NEXx3Jn2j7pTltJb2Q/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-UZJy1EsXTlw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnoXBxjDkf4NEXx3Jn2j7pTltJb2Q/photo.jpg",
         "content": "This is not collecting any data from anywhere I have went.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1838,7 +1850,7 @@
     {
         "reviewId": "gp:AOqpTOF-e5-yzMCX44SYl0nqk78jrOg7ZMe3kP6CqYbBItLLRi4RvFSro1oZ-L-7vfRASEd-JPtaSUZLGsxlrls",
         "userName": "Roger Cheney",
-        "userImage": "https://lh3.googleusercontent.com/-5Kbl0x0CS9A/AAAAAAAAAAI/AAAAAAAALx0/AMZuuckoNHHQLDENSM99chdr6D51JEgeOQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-5Kbl0x0CS9A/AAAAAAAAAAI/AAAAAAAALx0/AMZuuckoNHHQLDENSM99chdr6D51JEgeOQ/photo.jpg",
         "content": "STOP BEING SO NAIVE PEOPLE! Y'ALL ARE MAKING THEIR AGENDA SO EASY! OUR DAYS OF FREEDOM ARE NUMBERED!",
         "score": 1,
         "thumbsUpCount": 7,
@@ -1850,7 +1862,7 @@
     {
         "reviewId": "gp:AOqpTOH4fPpLNpC0goiVTxBdQZkowjfY7n_Zz7Y1LeXyFocVkCDNLWG2w3Sg2g6rVvHpzUm3kzQU4lgwSkhAgUc",
         "userName": "Ellen Gabbert",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GidrYOB6nsrAsYwV3fUnpUyQs6zTY4XurUmN95Y",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GidrYOB6nsrAsYwV3fUnpUyQs6zTY4XurUmN95Y",
         "content": "Thank you at least someone in government is coherrant.",
         "score": 5,
         "thumbsUpCount": 5,
@@ -1862,7 +1874,7 @@
     {
         "reviewId": "gp:AOqpTOHRyc01Y9zpGrCOIU1urV3NC0aiFhEWk4gs-Ub5UI_A5YahSG8WThkwih8Bfut793Kkt1FD6JtMuBdZt6g",
         "userName": "Nicholas Walls",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14Gi1Tvuwq4fTLyFlYJfYbnBOBt5QhEbIgV9r9YVicQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi1Tvuwq4fTLyFlYJfYbnBOBt5QhEbIgV9r9YVicQ",
         "content": "I hope Michigan stats will be here soon.",
         "score": 5,
         "thumbsUpCount": 2,
@@ -1874,7 +1886,7 @@
     {
         "reviewId": "gp:AOqpTOGmq6LxZOSEi41yU3KNElW7loigAbcfZAKrhMj-oLxgyXNi_WgE7NyPbgaSNFwhjm8ZeOpryHrJBH0EhHI",
         "userName": "MR. ERROR",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GgPoJxrEALF8Y8tAO6I3K864-bHyBNaX7bR2aHyow",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgPoJxrEALF8Y8tAO6I3K864-bHyBNaX7bR2aHyow",
         "content": "\ud83d\ude44\ud83d\ude14\ud83d\ude14\ud83d\ude14",
         "score": 5,
         "thumbsUpCount": 5,
@@ -1886,7 +1898,7 @@
     {
         "reviewId": "gp:AOqpTOFYQZM7KLQ6IWwNME3tXeLZ31mZT4wz5CNOA2pFNUs2IHpOI6yQ-xAQBBW-VhtcX3nTPI2irptI8iIwczA",
         "userName": "Karla Nelson",
-        "userImage": "https://lh3.googleusercontent.com/-Wxmmg7hX7To/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckZraXxB3nkmcgplcOleD3a2AhUSQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/-Wxmmg7hX7To/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckZraXxB3nkmcgplcOleD3a2AhUSQ/photo.jpg",
         "content": "Thank you for helping us track so easily with anonymity and confidentiality. #NDSmart Governor Burgum and team are doing everything they can to keep us safe and doing it smart. So proud to be from ND!",
         "score": 5,
         "thumbsUpCount": 18,
@@ -1898,7 +1910,7 @@
     {
         "reviewId": "gp:AOqpTOFm2XWCJhNTnqGBbBtuJAkPgGVtSpIJpRpjPlFFf5ruksg1Wi7wITVe5SAQfR4UU3hq_PGc1eSHGA1iuNA",
         "userName": "Jordyn Hanson",
-        "userImage": "https://lh3.googleusercontent.com/a-/AOh14GjN8M1LssOONFZWPSkMBZ02VLwWXxvD_RxgLTelDQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjN8M1LssOONFZWPSkMBZ02VLwWXxvD_RxgLTelDQ",
         "content": "Great Idea, saving so much time though technology thanks Governor!",
         "score": 5,
         "thumbsUpCount": 28,

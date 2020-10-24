@@ -176,6 +176,8 @@ The Covid Watch Arizona app has been installed by more than **1000** times. At t
 <img src="2_star_reviews_wordcloud.png" alt="gov.azdhs.covidwatch.android 2 reviews"/>
 </p>
 
+> There are some permissions that are not necessary, like the microphone, I disabled it. I think for this to work you need to keep the permissions to the necessary minimums. Too many people are suspicious of apps and purposes so the less you ask for the better. Our governance from state to federal proves themselves less and less trustworthy to us almost daily. Don't let your health tracker be added to that bucket.<br> :date: __2020-10-20 07:30:21__
+
 > Great idea but unclear. IMPOSSIBLE to find by simple searching for it in the app store. I had to follow internet breadcrumbs over the different sites to finally get a link to the exact app. Once here, while setting up, you need to select your location, one of which is "State of Arizona". But later it says that statewide implementation means that you can get alerts, but not alert anyone else. So if I'm in Prescott, and no one in Prescott can actually send an alert, what is the point????<br> :date: __2020-10-06 19:06:36__
 
 > This app worked perfectly for me to begin with. Upon getting an exposure alert, I was able to view the details and severity with a simple touch. However, within the last two weeks, I noticed when I received an alert, I am unable to see the details. I am shown when it occurred, but the drop down bar showing the Transmission Risk and total time exposed is no longer available. I've tried all I can think to fix the issue, but at this point, I can no longer rely on it for accurate exposure alerts.<br> :date: __2020-09-25 01:17:53__
@@ -188,8 +190,6 @@ The Covid Watch Arizona app has been installed by more than **1000** times. At t
 <img src="1_star_reviews_wordcloud.png" alt="gov.azdhs.covidwatch.android 1 reviews"/>
 </p>
 
-> How do I know it is working? Ghe help section has way to many choices. I think I'd be there for hours and still not get help.<br> :date: __2020-10-12 18:48:01__
-
-> Apparently, it's not available in for most of Arizona even if the menu lists Arizona along with two university systems. You need to be upfront about this. What "region" am I in and what "local" officials are you waiting for permission from?<br> :date: __2020-09-05 21:40:37__
+> Apparently, it's not available in for most of Arizona even if the menu lists Arizona along with two university systems. You need to be upfront about this. What "region" am I in and what "local" officials are you waiting for permission from? Thank you, ADHS, for replying on 10/09/20, but my point stands. There's no State of Arizona region and you need to remove that until ADHS, state and local officials, and your software developer have all made their necessary inputs to this process.<br> :date: __2020-10-19 03:19:06__
 
 

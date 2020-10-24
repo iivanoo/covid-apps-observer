@@ -160,6 +160,8 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 <img src="4_star_reviews_wordcloud.png" alt="cat.gencat.mobi.StopCovid19Cat 4 reviews"/>
 </p>
 
+> No tengo<br> :date: __2020-10-20 12:07:41__
+
 > Entiendo que es útil a nivel estadístico y que cuantas más personas la utilicemos mejor se colabora para establecer datos importantes. Lo que no es normal es que cada vez que la he utilizado, 3 o 4 veces desde que se inició el tema, tengas que volver a poner todos los datos y encima si consultas tu historial no hay nada.<br> :date: __2020-10-15 10:28:36__
 
 > A esperar que la app la tenga el 75% de la poplacion.<br> :date: __2020-08-25 08:22:19__
@@ -177,8 +179,6 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 > Haver perdut el gust i l'olfacte, que segons un estudi força ampli fet x una U. dels EE. UU., una de Suėcia i diverses de la G Bretanya, que deveu conėixer, són mės importants x detectar qui ja l'ha passat o ės contagiarà properament. Gràcies Senador J Cambra Int JIC<br> :date: __2020-05-19 13:57:13__
 
 > Incompleta, pero sirve para algo<br> :date: __2020-04-26 11:32:33__
-
-> Estaría bien que recordase los datos para no introducirlos cada vez. Algunos síntomas bien podrían incluir una descripción más detallada de qué se considera ese síntoma. Puedo asegurar que si estás muy mal (según los síntomas) y dices que no puedes valerte por ti mismo en lo más básico te llaman, como el caso de mi madre<br> :date: __2020-04-12 16:40:09__
 
 
 
@@ -244,6 +244,10 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 <img src="1_star_reviews_wordcloud.png" alt="cat.gencat.mobi.StopCovid19Cat 1 reviews"/>
 </p>
 
+> Es horrible. No avanza. Hay un punto en el que retrocede al principio.<br> :date: __2020-10-23 12:01:42__
+
+> Imposible registrarse. Una vez me envían el código por sms no hay manera de avanzar.<br> :date: __2020-10-21 15:43:42__
+
 > Soy positivo, tengo sintomas y la app dice que no tengo sintomas. Sería mucho mejor que dijera que no tengo sintomas graves y que continue haciendo los test para cuando aparezca algo grave seguir con el procedimiento adecuado. De esta forma al "no tener sintomas" pierdo las ganas de hacer el seguimiento de los tests, aunqué tenga los sintomas.<br> :date: __2020-10-13 08:04:14__
 
 > Es una,aplicación que no sirve para nada . Esta totalmente politizada . Sólo para loas que viven en Catalunya . Como si no existiera el resto del mundo . Muy mal<br> :date: __2020-10-07 09:51:33__
@@ -259,9 +263,5 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 > Una app que no fa cap tipus de seguimient ni notifica possibles infectats i que es l'usuari qui respon si te febre o tos, per exemple, sense que ningu verifiqui si es o no veritat, de qué serveix?. No entenc que et fassis la prova, donis positiu, et donin un codi pero aquet nomès serveixi per aquesta app i no, també, per Radar Covid que si dona info sobre possibles infectats amb els quals et pots creuar i parlar amb ells i es saltin la cuarentena o confinament per la raó que sigui.<br> :date: __2020-09-14 21:35:36__
 
 > No es válido para teléfonos huawei. Muy descontenta<br> :date: __2020-09-11 14:31:21__
-
-> Un truño CAT.<br> :date: __2020-09-10 19:37:22__
-
-> Está app no sirve para nada. Después de estar una semana haciendo el test y diciéndome que un profesional se pondría en contacto conmigo llamé al CAP, y menos mal que me atendieron por teléfono y me dijeron de hacer la PCR, porque di positivo, así que está app no es de fiar, porque no sirve para nada<br> :date: __2020-09-08 13:19:36__
 
 
