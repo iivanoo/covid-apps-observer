@@ -152,6 +152,8 @@ The FreeStyle LibreLink - US app has been installed by more than **100000** time
 <img src="5_star_reviews_wordcloud.png" alt="com.freestylelibre.app.us 5 reviews"/>
 </p>
 
+> The app has been great, question though, my doctor has now prescribed freestyle libre 2, will this app still work with the new system?<br> :date: __2020-10-26 17:58:10__
+
 > Great app, with this there is no need for the device. All of my data is visible to my doc and we can go over the results on the phone. Super easy and works great.<br> :date: __2020-10-25 07:38:27__
 
 > Easy to do<br> :date: __2020-10-25 04:06:00__
@@ -169,8 +171,6 @@ The FreeStyle LibreLink - US app has been installed by more than **100000** time
 > I love being able to scan and not have to stick my fingers all the time. It is about 10 numbers off when I compare it to a finger stick or my lab work. It has been consistent so not enough for me to worry about.<br> :date: __2020-10-22 01:54:52__
 
 > When is libreLink 2, app coming out?<br> :date: __2020-10-20 15:36:30__
-
-> Love the app<br> :date: __2020-10-19 22:51:46__
 
 
 

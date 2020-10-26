@@ -227,6 +227,10 @@ The HeyDoctor app has been installed by more than **10000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="co.heydoctor.android 5 reviews"/>
 </p>
 
+> Fast and easy to use service! Was feeling some symptoms for a UTI and I am uninsured. Fearing another $100+ bill from urgent care I signed up for this service and BOOM! $35 and an hour later I received sweet relief in the form of antibiotics at my local pharmacy. Easy to use and quick response time. I will tell all my friends about yall!<br> :date: __2020-10-26 17:33:47__
+
+> Great experience! Quick, precise and easy! Will definitely use again!<br> :date: __2020-10-26 15:55:28__
+
 > 👍🏽👍🏽<br> :date: __2020-10-26 06:18:43__
 
 > Fast, professional and convenient. Definitely will recommend to family and friends.<br> :date: __2020-10-26 00:46:39__
@@ -242,10 +246,6 @@ The HeyDoctor app has been installed by more than **10000** times. At this time,
 > was a good experience, all I had to do was answer some question and the doctor made a diagnosis and sent in my prescription.<br> :date: __2020-10-24 16:20:30__
 
 > Fast, cheap, and no waiting in an office for hours. Got my prescription sent quick and picked up in about an hour. 5/5 stars! Highly recommend.<br> :date: __2020-10-24 04:19:58__
-
-> Great service! Very fast! Highly recommend!<br> :date: __2020-10-24 02:27:00__
-
-> Easy and fast. Got what I needed within the hour 🙂<br> :date: __2020-10-24 02:18:40__
 
 
 

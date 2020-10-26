@@ -1,0 +1,14 @@
+{
+    "permissions": [
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.INTERNET"
+    ],
+    "activities": [
+        "com.imaidea.norgine.coloncop.COLONCOP"
+    ],
+    "urls": [
+        "https://ssl.gstatic.com/accessibility/javascript/android/",
+        "http://*/*",
+        "https://*/*"
+    ]
+}

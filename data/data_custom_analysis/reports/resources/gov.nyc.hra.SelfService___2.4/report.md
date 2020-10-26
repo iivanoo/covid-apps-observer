@@ -156,6 +156,10 @@ The NYC ACCESS HRA app has been installed by more than **100000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="gov.nyc.hra.SelfService 5 reviews"/>
 </p>
 
+> Great information.<br> :date: __2020-10-26 18:01:19__
+
+> Very helpful<br> :date: __2020-10-26 14:05:15__
+
 > Hook<br> :date: __2020-10-26 12:09:59__
 
 > Great!👍<br> :date: __2020-10-25 18:58:22__
@@ -171,10 +175,6 @@ The NYC ACCESS HRA app has been installed by more than **100000** times. At this
 > Fast and easy to use.<br> :date: __2020-10-24 06:00:31__
 
 > This app is convenient and accurately displays and explains the content.<br> :date: __2020-10-24 05:49:54__
-
-> New update the new version is not working for me. Having login and troubleshoot issues. Its weird. Why did u guys update this app without test runs. Smh unbelievable<br> :date: __2020-10-24 02:58:29__
-
-> Me encanta esta aplicación.<br> :date: __2020-10-24 01:33:40__
 
 
 

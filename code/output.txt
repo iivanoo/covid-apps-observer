@@ -1,0 +1,199 @@
+Downloading reviews for: at.credoweb.android
+Already up to date: at.credoweb.android - version: 2.4.6
+Downloading reviews for: com.cube.gdpc.aus
+Already up to date: com.cube.gdpc.aus - version: 3.3.0
+Downloading reviews for: au.org.pafoundation.ropah_guides
+Already up to date: au.org.pafoundation.ropah_guides - version: 1.1
+Downloading reviews for: au.org.nps.medicinelistplus
+Already up to date: au.org.nps.medicinelistplus - version: 3.2.8
+Downloading reviews for: base.com.healthsite.queanbeyan
+Already up to date: base.com.healthsite.queanbeyan - version: 2.0
+Downloading reviews for: ca.blood.giveblood
+Already up to date: ca.blood.giveblood - version: 2.16.4
+Downloading reviews for: ca.on.ohcow.msda
+Already up to date: ca.on.ohcow.msda - version: 1.0.5
+Downloading reviews for: ca.gc.veterans.ptsd.ptsdcoach
+Already up to date: ca.gc.veterans.ptsd.ptsdcoach - version: 2.0
+Downloading reviews for: de.hector.clubapp.gym4all
+Already up to date: de.hector.clubapp.gym4all - version: 2.8.3
+Downloading reviews for: de.neurosys.patientconceptapp
+Already up to date: de.neurosys.patientconceptapp - version: 4.19.4
+Downloading reviews for: de.credoweb.android
+Already up to date: de.credoweb.android - version: 2.4.6
+Downloading reviews for: de.hexal.pollenflug
+Already up to date: de.hexal.pollenflug - version: 2.7
+Downloading reviews for: de.healthlab.erkaeltung
+Already up to date: de.healthlab.erkaeltung - version: 1.4.4
+Downloading reviews for: de.mediafoundation.brbnorden
+Already up to date: de.mediafoundation.brbnorden - version: 2.0.0
+Downloading reviews for: de.doctronic.mobilexaver.daz
+Already up to date: de.doctronic.mobilexaver.daz - version: 2.3
+Downloading reviews for: dk.kalorieopslag.symdir
+Already up to date: dk.kalorieopslag.symdir - version: 2.0.7
+Downloading reviews for: es.youaremarketing.alertaETS
+Already up to date: es.youaremarketing.alertaETS - version: 6.1
+Downloading reviews for: es.infomed.agendamobile
+Already up to date: es.infomed.agendamobile - version: 1.0.0
+Downloading reviews for: com.imaidea.norgine.coloncop
+Downloading the APK of: com.imaidea.norgine.coloncop
+Crawled new data for: com.imaidea.norgine.coloncop - version: 1.0.1
+[+] Analysis successfully completed and JSON file report available '../data/data_custom_analysis/data/com.imaidea.norgine.coloncop___1.0.1___androwarn.json'
+Analyzing the servers mentioned by: com.imaidea.norgine.coloncop
+Downloading reviews for: es.bioderma.biodermagame
+Already up to date: es.bioderma.biodermagame - version: 2.0.8
+It seems like we had some problems in fetching new data for: com.fitnessmobileapps.silenciobarcelona. So, we skip it in the analysis.s
+Downloading reviews for: com.proyecto.clubnataciobarcelona
+Already up to date: com.proyecto.clubnataciobarcelona - version: 3.67.29
+Downloading reviews for: es.bsc.earthscience.caliope
+Already up to date: es.bsc.earthscience.caliope - version: Varía según el dispositivo.
+Downloading reviews for: es.jcajrc.ibolsatrabajosas20
+Already up to date: es.jcajrc.ibolsatrabajosas20 - version: 2.1.99
+Downloading reviews for: fr.mesoigner.app
+Already up to date: fr.mesoigner.app - version: 1.10.4
+Downloading reviews for: fr.leadersante.main
+Already up to date: fr.leadersante.main - version: 1.41.0
+Downloading reviews for: fr.ap_hm.myaphm
+Already up to date: fr.ap_hm.myaphm - version: 1.2.0.0
+Downloading reviews for: fr.infostrates.dailypso
+Already up to date: fr.infostrates.dailypso - version: 2.0.3
+Downloading reviews for: com.retinarisk
+Already up to date: com.retinarisk - version: 2.1.43
+Downloading reviews for: it.androweb.SexOS
+Already up to date: it.androweb.SexOS - version: 2.0
+Downloading reviews for: it.fasv.videoinsight
+Already up to date: it.fasv.videoinsight - version: 2.0.4
+Downloading reviews for: it.farmacialevorato
+Already up to date: it.farmacialevorato - version: 1.4.0
+Downloading reviews for: it.xchannel.cnop
+Already up to date: it.xchannel.cnop - version: 2.3.0
+Downloading reviews for: it.dr.prontuariofarmaceutico
+Already up to date: it.dr.prontuariofarmaceutico - version: 1.0
+Downloading reviews for: it.nealogic.energylive
+Already up to date: it.nealogic.energylive - version: 2.2
+Downloading reviews for: it.codeatlas.tmtworld.congress
+Already up to date: it.codeatlas.tmtworld.congress - version: 1.0.5
+Downloading reviews for: jp.co.sportsoasis.webgym
+Already up to date: jp.co.sportsoasis.webgym - version: 2.1.2
+Downloading reviews for: jp.gr.java_conf.fum.android.stepwalk
+Already up to date: jp.gr.java_conf.fum.android.stepwalk - version: 3.44
+Downloading reviews for: nl.stichtingmelanoom.huidmonitor
+Already up to date: nl.stichtingmelanoom.huidmonitor - version: 1.1.4
+Downloading reviews for: nl.boomerweb.medicatiecontrolecross
+Already up to date: nl.boomerweb.medicatiecontrolecross - version: 1.14.2
+Downloading reviews for: pt.hospitaldaluz
+Already up to date: pt.hospitaldaluz - version: 2.73
+Downloading reviews for: ru.watchmyph.analogilekarstv
+Already up to date: ru.watchmyph.analogilekarstv - version: 2.4.3
+Downloading reviews for: ru.medzdrav.android.client
+Already up to date: ru.medzdrav.android.client - version: 2.12.1
+Downloading reviews for: ru.pharmbook.drugs.lite
+Already up to date: ru.pharmbook.drugs.lite - version: 1.7.11
+Downloading reviews for: ru.harmonicsoft.caloriecounter
+Already up to date: ru.harmonicsoft.caloriecounter - version: 5.33
+Downloading reviews for: uk.co.well.pharmacy
+Already up to date: uk.co.well.pharmacy - version: 1.5594
+Downloading reviews for: uk.ac.dur.drex
+Already up to date: uk.ac.dur.drex - version: 2.0.1
+Downloading reviews for: co.uk.activa
+Already up to date: co.uk.activa - version: 2.4.0
+Downloading reviews for: us.visiomed.android.mytens
+Already up to date: us.visiomed.android.mytens - version: 2.1.4
+Downloading reviews for: com.mjn.us.hcp.productguide
+Already up to date: com.mjn.us.hcp.productguide - version: 1.0.1
+Downloading reviews for: co.heydoctor.android
+Already up to date: co.heydoctor.android - version: 2.7.0
+Downloading reviews for: com.motionvibe.calfit
+Already up to date: com.motionvibe.calfit - version: 4.8.3
+Downloading reviews for: com.babylon.us
+Already up to date: com.babylon.us - version: 4.0.0.200054390
+Downloading reviews for: gov.pa.dhs.compassmobile
+Already up to date: gov.pa.dhs.compassmobile - version: 6.0.0.0
+Downloading reviews for: gov.wisconsin.dhs.accessmobile
+Already up to date: gov.wisconsin.dhs.accessmobile - version: 2.3.0
+Downloading reviews for: gov.harriscountytx.harriscountypublichealth
+Already up to date: gov.harriscountytx.harriscountypublichealth - version: 4.1.0
+Downloading reviews for: com.freestylelibre.app.us
+Already up to date: com.freestylelibre.app.us - version: 2.2.2
+Downloading reviews for: gov.in.isdh.inwic
+Already up to date: gov.in.isdh.inwic - version: 3.0
+Downloading reviews for: com.ascensia.abound.us
+Already up to date: com.ascensia.abound.us - version: 1.12.0-rc.2
+Downloading reviews for: gov.nyc.hra.SelfService
+Already up to date: gov.nyc.hra.SelfService - version: 2.4
+Downloading reviews for: gov.medicare.coverage
+Already up to date: gov.medicare.coverage - version: 2.1.20
+Downloading reviews for: gov.hhs.samhsa.app.bullying
+Already up to date: gov.hhs.samhsa.app.bullying - version: 2.1
+Downloading reviews for: com.and.schedules.nwnc
+Already up to date: com.and.schedules.nwnc - version: 1.0.6
+Downloading reviews for: com.onefitstop.plc
+Already up to date: com.onefitstop.plc - version: 11.0
+Downloading reviews for: com.myhealthadvisor
+Already up to date: com.myhealthadvisor - version: 3.0
+Generating report for: at.credoweb.android
+Generating report for: com.cube.gdpc.aus
+Generating report for: au.org.pafoundation.ropah_guides
+Generating report for: au.org.nps.medicinelistplus
+Generating report for: base.com.healthsite.queanbeyan
+Generating report for: ca.blood.giveblood
+Generating report for: ca.on.ohcow.msda
+Generating report for: ca.gc.veterans.ptsd.ptsdcoach
+Generating report for: de.hector.clubapp.gym4all
+Generating report for: de.neurosys.patientconceptapp
+Generating report for: de.credoweb.android
+Generating report for: de.hexal.pollenflug
+Generating report for: de.healthlab.erkaeltung
+Generating report for: de.mediafoundation.brbnorden
+Generating report for: de.doctronic.mobilexaver.daz
+Generating report for: dk.kalorieopslag.symdir
+Generating report for: es.youaremarketing.alertaETS
+Generating report for: es.infomed.agendamobile
+Generating report for: com.imaidea.norgine.coloncop
+Generating report for: es.bioderma.biodermagame
+Generating report for: com.fitnessmobileapps.silenciobarcelona
+Generating report for: com.proyecto.clubnataciobarcelona
+Generating report for: es.bsc.earthscience.caliope
+Generating report for: es.jcajrc.ibolsatrabajosas20
+Generating report for: fr.mesoigner.app
+Generating report for: fr.leadersante.main
+Generating report for: fr.ap_hm.myaphm
+Generating report for: fr.infostrates.dailypso
+Generating report for: com.retinarisk
+Generating report for: it.androweb.SexOS
+Generating report for: it.fasv.videoinsight
+Generating report for: it.farmacialevorato
+Generating report for: it.xchannel.cnop
+Generating report for: it.dr.prontuariofarmaceutico
+Generating report for: it.nealogic.energylive
+Generating report for: it.codeatlas.tmtworld.congress
+Generating report for: jp.co.sportsoasis.webgym
+Generating report for: jp.gr.java_conf.fum.android.stepwalk
+Generating report for: nl.stichtingmelanoom.huidmonitor
+Generating report for: nl.boomerweb.medicatiecontrolecross
+Generating report for: pt.hospitaldaluz
+Generating report for: ru.watchmyph.analogilekarstv
+Generating report for: ru.medzdrav.android.client
+Generating report for: ru.pharmbook.drugs.lite
+Generating report for: ru.harmonicsoft.caloriecounter
+Generating report for: uk.co.well.pharmacy
+Generating report for: uk.ac.dur.drex
+Generating report for: co.uk.activa
+Generating report for: us.visiomed.android.mytens
+Generating report for: com.mjn.us.hcp.productguide
+Generating report for: co.heydoctor.android
+Generating report for: com.motionvibe.calfit
+Generating report for: com.babylon.us
+Generating report for: gov.pa.dhs.compassmobile
+Generating report for: gov.wisconsin.dhs.accessmobile
+Generating report for: gov.harriscountytx.harriscountypublichealth
+Generating report for: com.freestylelibre.app.us
+Generating report for: gov.in.isdh.inwic
+Generating report for: com.ascensia.abound.us
+Generating report for: gov.nyc.hra.SelfService
+Generating report for: gov.medicare.coverage
+Generating report for: gov.hhs.samhsa.app.bullying
+Generating report for: com.and.schedules.nwnc
+Generating report for: com.onefitstop.plc
+Generating report for: com.myhealthadvisor
+Generating the global report...
+Congratulations, the analysis is over! The global report is available here: ../data/data_custom_analysis/reports/report_2020_10_26.md

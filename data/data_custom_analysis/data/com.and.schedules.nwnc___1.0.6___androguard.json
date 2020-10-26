@@ -1,0 +1,24 @@
+{
+    "permissions": [
+        "android.permission.WRITE_CALENDAR",
+        "android.permission.INTERNET",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.READ_CALENDAR"
+    ],
+    "activities": [
+        "com.android.activelife.ui.SplashActivity",
+        "com.android.activelife.ui.SelectBranchActivity",
+        "com.android.activelife.ui.MainActivity",
+        "com.android.activelife.ui.ScheduleContainerActivity",
+        "com.android.activelife.ui.MessageDetailsActivity",
+        "com.android.activelife.ui.ReserveActivity"
+    ],
+    "urls": [
+        "http://schemas.android.com/apk/res/android",
+        "http://ymcanwnc.consoria.com/api/",
+        "https://settings.crashlytics.com/spi/v2/platforms/android/apps/%s/settings",
+        "http://localhost/",
+        "https://chart.googleapis.com/chart?chs=",
+        "https://e.crashlytics.com/spi/v2/events"
+    ]
+}

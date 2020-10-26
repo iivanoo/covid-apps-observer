@@ -1,5 +1,17 @@
 [
     {
+        "reviewId": "gp:AOqpTOEaDqx2usyVX2qSKXCcHTgVtVRhVbQ2eEPRPk-oSSTgkfuOlM-6v9BWhJrhcv6uu8q9cjZsuOKRfOP-DbU",
+        "userName": "James Lane",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi1s1RP6dPr5YykTLl_RBCplzf3QageBzMsfrw4_Q",
+        "content": "The app has been great, question though, my doctor has now prescribed freestyle libre 2, will this app still work with the new system?",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.2.2",
+        "at": "2020-10-26 17:58:10",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOHeHJIbyQ5gYaL9hnH1Zhp1xVKtHall68h2S1qGQ9ocv3bN9EyR50O3jpt8Nwp0Cq4rtRKp9Afs15FtHG4",
         "userName": "C G",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgfLv5jmV-vBeNhKuQufSTEOW0qJ_Bsc3L6Hh1YBQ",
@@ -11986,17 +11998,5 @@
         "at": "2019-08-22 19:45:40",
         "replyContent": "Hi Avnish - Thanks for reaching out to us. There's an update available for the FreeStyle LibreLink app (version 2.2.1). Users can visit Google Play to install the latest update of the app (version 2.2.2). We appreciate your patience.",
         "repliedAt": "2019-09-24 23:40:46"
-    },
-    {
-        "reviewId": "gp:AOqpTOEgyE_-LstdflurDDo02rzm3g2OaJJ7laGXfFj5BTtdiZka3sZ3YtleyxmukFxDz-k78s1bkCRdopZ2wW8",
-        "userName": "James McDonald",
-        "userImage": "https://play-lh.googleusercontent.com/-QXVTrTaxfdU/AAAAAAAAAAI/AAAAAAAAAEc/AMZuucmPvcU1FhUPzYQSg4Q-k4uLuKXLJw/photo.jpg",
-        "content": "It would be nice if you didn't have to sign in and renew your password every time you change the sensor. Otherwise it's more of a pain in the butt to use.",
-        "score": 2,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "2.2.1",
-        "at": "2019-08-22 17:29:18",
-        "replyContent": null,
-        "repliedAt": null
     }
 ]

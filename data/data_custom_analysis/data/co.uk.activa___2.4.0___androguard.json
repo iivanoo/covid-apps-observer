@@ -1,0 +1,41 @@
+{
+    "permissions": [
+        "android.permission.INTERNET",
+        "android.permission.ACCESS_NETWORK_STATE"
+    ],
+    "activities": [
+        "co.uk.activa.MainActivity",
+        "co.uk.activa.ui.signUpAndTermsAndConditions.SignUpAndTermsAndConditionsActivity",
+        "co.uk.activa.ui.hosierySelector.HosierySelectorActivity",
+        "co.uk.activa.ui.selectByCondition.SelectByConditionActivity",
+        "co.uk.activa.ui.selectByCondition.confirmProduct.ConfirmProductActivity",
+        "co.uk.activa.ui.getGarmentSizes.confirmProduct.ConfirmProductActivity",
+        "co.uk.activa.ui.getGarmentSizes.GetGarmentSizeActivity",
+        "co.uk.activa.ui.getGarmentSizes.readyWrapVideos.ReadyWrapVideosActivity",
+        "co.uk.activa.ui.settings.editprofile.EditProfileActivity",
+        "co.uk.activa.ui.settings.settings.SettingsActivity",
+        "co.uk.activa.ui.settings.helpguides.HelpGuidesActivity",
+        "co.uk.activa.ui.settings.contact.ContactActivity",
+        "co.uk.activa.ui.settings.helpguides.questions.QuestionsActivity",
+        "co.uk.activa.ui.selectByCondition.actiGlideActivity.ActiGlideActivity",
+        "co.uk.activa.ui.madeToMeasrure.MadeToMeasureActivity",
+        "co.uk.activa.ui.findOrdersCodes.FindOrderCodesActivity",
+        "co.uk.activa.ui.settings.helpguides.video.VideoGuidesActivity",
+        "co.uk.activa.ui.settings.privacypolicy.PrivacyPolicyActivity",
+        "co.uk.activa.ui.settings.helpguides.video.VideoPlayerActivity"
+    ],
+    "urls": [
+        "http://schemas.android.com/apk/res/android",
+        "http://api.sizer.lrmed.uk/api/",
+        "http://play.google.com/store/apps/details?id=",
+        "https://s3.eu-west-2.amazonaws.com/lrmed-app-images/",
+        "https://settings.crashlytics.com/spi/v2/platforms/android/apps/%s/settings",
+        "http://localhost/",
+        "http://schemas.microsoft.com/DRM/2007/03/protocols/AcquireLicense",
+        "https://e.crashlytics.com/spi/v2/events",
+        "http://lohmann-rauscher.co.uk/",
+        "http://cpd.activahealthcare.co.uk/madetomeasure",
+        "http://www.w3.org/ns/ttml#parameter",
+        "https://s3-eu-west-1.amazonaws.com/lohmann-rauscher-images-dev/actilymph-hosiery-kit.png"
+    ]
+}

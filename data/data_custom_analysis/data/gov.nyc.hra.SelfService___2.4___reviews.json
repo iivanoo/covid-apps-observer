@@ -1,5 +1,29 @@
 [
     {
+        "reviewId": "gp:AOqpTOE8ZKrGVTgd6NIhIa1-CTCh_t-gmS1v1YhW6QZTMhY0iRATyX_6WOMmJQCJEOmUp6oyrR1RB67J5mhPErU",
+        "userName": "kirkland hackett",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiQ3i3QvNsire1_qGFMyTv_H5Ke96zDKxznx8w7B74",
+        "content": "Great information.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.4",
+        "at": "2020-10-26 18:01:19",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGcZAPvo8TdxbRX68u7VnNJgIaFIfBZIFZwCVRMLmodJq1nCq_UthUfzrG0je0xg2YGo3aq4a31pNE_WQo",
+        "userName": "fausto Velasquez",
+        "userImage": "https://play-lh.googleusercontent.com/-IDUu6vKFTmY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmOCczxT0CgJ5c58EZ6PWIGky6-8g/photo.jpg",
+        "content": "Very helpful",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.4",
+        "at": "2020-10-26 14:05:15",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOHefzBX4MQC5ytssrT5HuwqPAAT-a7mYVhQ_XcujGbOxIKcVZTEw407RHpASA21L_StdjHlnmXY0Xi8juQ",
         "userName": "shaila alexander",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgNKJYtu3802neu-3STspg7PD7Y48iN3sIwp3bwsA",
@@ -8,8 +32,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "2.4",
         "at": "2020-10-26 12:09:59",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Great! We're glad to hear it's working well for you",
+        "repliedAt": "2020-10-26 13:25:04"
     },
     {
         "reviewId": "gp:AOqpTOEZCDUADpSzb86z0fmwCqHwzU5XQ9F-TNUqYIfIyxXJ894YYvhECZ0kw3UUktRI5kYd5XLv4-uW6PsEVog",
@@ -20,8 +44,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "2.4",
         "at": "2020-10-26 09:15:06",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "We are sorry to hear about your experience. Please email us at accesshrasuppapp@hra.nyc.gov for assistance",
+        "repliedAt": "2020-10-26 13:25:46"
     },
     {
         "reviewId": "gp:AOqpTOE3Nm_pDW5pmmVWLMu-HHrMMIPU0YerD08PYSKjQbytIuWNdFgMHvgXymQkcLrnkd_sNRs-te-xZxjgfwY",
@@ -32,8 +56,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "2.4",
         "at": "2020-10-25 18:58:22",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Great! We're glad to hear it's working well for you",
+        "repliedAt": "2020-10-26 13:26:02"
     },
     {
         "reviewId": "gp:AOqpTOGmuj4j4CBJGa9QLvGys5jUjpYMidle5B0Q6q4ae9MPvOHJdXrAtFfv8pkBxb-o5lKs-nsX-X4KBs3VKeQ",
@@ -44,8 +68,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "2.4",
         "at": "2020-10-25 18:19:59",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Great! We're glad to hear it's working well for you",
+        "repliedAt": "2020-10-26 13:26:27"
     },
     {
         "reviewId": "gp:AOqpTOH0V-8uvSG7MRku5QrG6Oi__fvO-fa_vPNcDWzbqEnZ6jlG6t01WBGFHw_K2MfqUQBReOemEoOxX3RVj3o",
@@ -56,8 +80,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "2.4",
         "at": "2020-10-25 16:05:13",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Great! We're glad to hear it's working well for you",
+        "repliedAt": "2020-10-26 13:26:33"
     },
     {
         "reviewId": "gp:AOqpTOEcWhY-x9uD2jQ3K1Er7Zhm42hhCjzpQf_di3YvFunT_sAUhss1pmzAjdHyMmLtp_Cyn_3D-4uy8QQdQQc",
@@ -68,8 +92,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "2.4",
         "at": "2020-10-24 22:56:58",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "We are sorry to hear about your experience. Please email us at accesshrasuppapp@hra.nyc.gov for assistance",
+        "repliedAt": "2020-10-26 13:27:16"
     },
     {
         "reviewId": "gp:AOqpTOE-KK2WAwxNhXuQsYGHSy7-Q3GNs2UOa1RKar2-xsrn6s9eECeEA77IPj019cVtAjLlxZK8WMyvOLNBEW0",
@@ -80,8 +104,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "2.4",
         "at": "2020-10-24 20:49:09",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "We are sorry to hear about your experience. Please email us at accesshrasuppapp@hra.nyc.gov for assistance",
+        "repliedAt": "2020-10-26 13:27:34"
     },
     {
         "reviewId": "gp:AOqpTOHLdlHmrtZiCyXWxecpx32dO0Qct2wEnef00wz4iCCI8HHa2H15BMsDadMma4JVzM_CSHTQq6QA9RrxR8w",
@@ -92,8 +116,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "2.4",
         "at": "2020-10-24 19:46:46",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Great! We're glad to hear it's working well for you",
+        "repliedAt": "2020-10-26 13:27:47"
     },
     {
         "reviewId": "gp:AOqpTOE7Z5zm4gA0mKrUcvoRiM2WzQVbL-nQvwlPEpeHpl-JztZeFu4stp7bawcZFzaaZlFVfNu6nKUxwhFdyqE",
@@ -104,8 +128,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "2.4",
         "at": "2020-10-24 18:26:09",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Great! We're glad to hear it's working well for you",
+        "repliedAt": "2020-10-26 13:27:58"
     },
     {
         "reviewId": "gp:AOqpTOHm4tPr88fMrXyMzxdOYDt_OA6u0Sy_kOT9LRC3UgzQOlvSEbCc-BxOGAfVgebSe3e1Cb4b8jGUPk3KkEw",
@@ -116,8 +140,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "2.4",
         "at": "2020-10-24 06:00:31",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Great! We're glad to hear it's working well for you",
+        "repliedAt": "2020-10-26 13:28:23"
     },
     {
         "reviewId": "gp:AOqpTOG3XqJYGKfCfdEzYR75uXns1D3AA4JF_oPlrkegnVYN0ksIYHo6vifNZk5Jaq2I1KzZwgfbB-Kh5NXBaaU",
@@ -128,8 +152,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "2.4",
         "at": "2020-10-24 05:49:54",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Great! We're glad to hear it's working well for you",
+        "repliedAt": "2020-10-26 13:28:34"
     },
     {
         "reviewId": "gp:AOqpTOE899J8OePOkGX1V4qlEjKUdVroeU2FtoWiV--vXEwwysO1Su9L5Gn4gfHpoOeFYKZ6KQ4Iz8KXZg1JD6g",
@@ -152,8 +176,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2020-10-24 01:33:40",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Great! We're glad to hear it's working well for you",
+        "repliedAt": "2020-10-26 13:28:41"
     },
     {
         "reviewId": "gp:AOqpTOEOKEzG3Ua00UK7qvGnPFeKDHkfiQe2f82A0V61whfoxH08zQxZv1ivuWO6UXZY2QcaRHO_1cexzLW85s8",
@@ -164,8 +188,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "2.4",
         "at": "2020-10-23 19:59:15",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thank you for your review! Please share your suggestions with us at ACCESSHRASuppapp@dss.nyc.gov",
+        "repliedAt": "2020-10-26 13:29:21"
     },
     {
         "reviewId": "gp:AOqpTOFLdnuvvxOKRLX14DgUJNp7nlVoZjjDpsL11LFJHJZ8Qkkt3b1vUuXgQ7gejrwAb_zjhhI3Url7pvR5CvM",
@@ -188,8 +212,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "2.4",
         "at": "2020-10-23 17:24:49",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "We are sorry to hear about your experience. Please email us at accesshrasuppapp@hra.nyc.gov for assistance",
+        "repliedAt": "2020-10-26 13:29:41"
     },
     {
         "reviewId": "gp:AOqpTOGsBjIzaHL_ukVY4Mksz-jsFZdINVQcz_V2zFzO03ejCMINhBS9axCFDXRMGOSvL0SCkV8whuDsfG0f3Jw",
@@ -212,8 +236,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "2.4",
         "at": "2020-10-22 22:16:58",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Great! We're glad to hear it's working well for you",
+        "repliedAt": "2020-10-26 13:30:05"
     },
     {
         "reviewId": "gp:AOqpTOGMwz4jDVxad-O2MBM2NnRKGHjDqdljLR1I6_KfAmJO_dtL9HWqADtHl-eSBrPIDA3jcIgQj120hehRs48",
@@ -224,8 +248,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "2.4",
         "at": "2020-10-22 21:12:19",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Great! We're glad to hear it's working well for you",
+        "repliedAt": "2020-10-26 13:30:23"
     },
     {
         "reviewId": "gp:AOqpTOFHaD_qb6etWZSeN152bhcVmJ-SKzadbQSjXp0REkDqOOozOO0i2rrONNzhs-AKYgzulfRz2myscIKwIgk",
@@ -236,8 +260,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "2.4",
         "at": "2020-10-22 19:27:36",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thank you for your review! Please share your suggestions with us at ACCESSHRASuppapp@dss.nyc.gov",
+        "repliedAt": "2020-10-26 13:30:53"
     },
     {
         "reviewId": "gp:AOqpTOGKMckzY4ZQ-bN1lngz0eoHSVCZz7EzRUvOh_ZvTf73LKD5PlbAV2F_iPLgcqK9CYrf3cyr_nSom60zLdY",
@@ -248,8 +272,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "2.4",
         "at": "2020-10-22 16:45:58",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thank you for your review! We are glad the app made it easier for you to manage your benefits.",
+        "repliedAt": "2020-10-26 13:31:10"
     },
     {
         "reviewId": "gp:AOqpTOFK-PjocnC00nI6Xpr6SsNvWKCLGTHD8uFxLnbcTk-BjgwegeW8NQ9799VGX0uvsGTPEPZsCPlXtFemPrw",
@@ -260,8 +284,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2020-10-22 16:31:26",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Great! We're glad to hear it's working well for you",
+        "repliedAt": "2020-10-26 13:31:25"
     },
     {
         "reviewId": "gp:AOqpTOEYT9TPZnEE8eCjh-huT84VV-gjB_f0vChUvC02X0JLGmqSNAh3r_FUJMW2olf2eBybgZW9K7-fuyUbN8w",
@@ -269,7 +293,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-_U5AnZmflD4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm2SzyvSWZ-7z-zoaH7pyDtuftEdg/photo.jpg",
         "content": "The NYC ACCESS HRA app is one of the best things to happen for individuals who utilize public service benefits in a very long while. This app takes the guesswork out of what's going on with your case and your benefits. It is especially helpful for stay at home parents who have a hard time going down to the public service offices with their children as well as for indivuals such as myself who manages social anxiety and ADHD. Thank you for this amazing app!",
         "score": 5,
-        "thumbsUpCount": 3,
+        "thumbsUpCount": 4,
         "reviewCreatedVersion": "2.4",
         "at": "2020-10-22 12:57:25",
         "replyContent": "Thank you for your review! We are glad the app made it easier for you to manage your benefits.",
@@ -1685,7 +1709,7 @@
         "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
         "content": "Just updated.... If I get past the login, I get a BLANK screen with home at the top. I tried to use the menu to access indiviually what I needed. But keep getting technical difficuties can not connect to their servers, try again later! I tried for several hours in between. The app was working perfectly in the last update. Now after being promted to update today I run into this problem. Others today have experienced the same prob. Please fix\ud83d\ude4f.Perhaps we need to go back to previous \"working\" ver",
         "score": 1,
-        "thumbsUpCount": 15,
+        "thumbsUpCount": 16,
         "reviewCreatedVersion": "2.4",
         "at": "2020-10-06 02:03:54",
         "replyContent": "We are sorry to hear about your experience. Please email us at accesshrasuppapp@hra.nyc.gov for assistance",
@@ -4514,7 +4538,7 @@
     {
         "reviewId": "gp:AOqpTOF-DeMD3f74H1KV0TOFIHhpUJJ8vKVybvrVv460zE7RIUjGy9jdVrvQJj54lUGcZwi8mxXioarCnHE8E4c",
         "userName": "Michael McCabe",
-        "userImage": "https://play-lh.googleusercontent.com/-iXnYHhKnpH8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnWSaJqobTNJHOcY4emnJEqcM8nwQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjNrk7sjZeHOujn4h1LfMUMoGKTx3j8wihJ0HO10Q",
         "content": "Very helpful especially during these trying months of covid-19",
         "score": 5,
         "thumbsUpCount": 0,
@@ -8437,7 +8461,7 @@
     },
     {
         "reviewId": "gp:AOqpTOHrINjhf6PeedkBsjhT4bljfADFC8S-kbk6VA0xhBy4IviX0E4dorVxPNOtZkB1RrPjy4OVz2fWk9ZAUcA",
-        "userName": "Alberto Rodriguez",
+        "userName": "I_GOT_IT_ON_DECK",
         "userImage": "https://play-lh.googleusercontent.com/-n4lhT9d5FqQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmaM_7aTPJk5UNm9g7oU4cYybKOrA/photo.jpg",
         "content": "Excelente",
         "score": 5,
@@ -11974,29 +11998,5 @@
         "at": "2020-05-06 22:53:59",
         "replyContent": "We are sorry to hear about your experience. Please email us at accesshrasuppapp@hra.nyc.gov for assistance",
         "repliedAt": "2020-05-07 02:40:06"
-    },
-    {
-        "reviewId": "gp:AOqpTOH7zUuCMuSVGFqmRIHVfZvhiwMekLwHCcA_9TKbDa_C4l8bx7X3QK7L_wWgQdTwoqrQKuqnMyne4ynJgJ0",
-        "userName": "D KRIPALANI",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg72E9gmrsTvzRknYmsX1z9E_dO2zxgSP1Z9WBYmwQ",
-        "content": "Easy to use.",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "2.3",
-        "at": "2020-05-06 20:28:02",
-        "replyContent": "Great! We're glad to hear it's working well for you",
-        "repliedAt": "2020-05-07 02:40:48"
-    },
-    {
-        "reviewId": "gp:AOqpTOGmhdWEWAAuhC4WWlcYK2-FPLNaYyGoYHRSmCbEZUgkRKjlqM3fTQTtQkEvPlEZwBH6oyQUu4hxFFvNryI",
-        "userName": "Ikpongete Ukpak",
-        "userImage": "https://play-lh.googleusercontent.com/-OuTnIbRiNZc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmSjMF8l7ov6tY1gbEpQew_Tw19oQ/photo.jpg",
-        "content": "Great",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "2.3",
-        "at": "2020-05-06 18:50:19",
-        "replyContent": "Great! We're glad to hear it's working well for you",
-        "repliedAt": "2020-05-07 02:40:38"
     }
 ]

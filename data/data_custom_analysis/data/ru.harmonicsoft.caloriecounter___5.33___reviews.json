@@ -1,5 +1,29 @@
 [
     {
+        "reviewId": "gp:AOqpTOGuMtxGaSe9wqI1L5v1SAsHN9bD6EseLgcNWwb0NYhhbVnmsMpXl7b2NDBhFEAQBVYTdaNz02uRAEpDkBY",
+        "userName": "\u0415\u043b\u0435\u043d\u0430 \u0421\u0435\u0440\u0433\u0435\u0435\u0432\u0430",
+        "userImage": "https://play-lh.googleusercontent.com/-qXP0nFB-kmc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclSRiU1Re3K76HsMUxe7s89MW5-5Q/photo.jpg",
+        "content": "\u041e\u0447\u0435\u043d\u044c \u0443\u0434\u043e\u0431\u043d\u0430\u044f \u0438 \u043f\u043e\u043b\u0435\u0437\u043d\u0430\u044f \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0430. \u041f\u0440\u0438\u044f\u0442\u043d\u044b\u0439 \u0438\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "5.33",
+        "at": "2020-10-26 14:32:51",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHpEJVSwlJADw3MZ28DLz6T48T6lzqrmwA4CD4C9ZET6u0fhg4dv_bGy3zO3jSodUYoTyuYJ2poBsnbLQ4",
+        "userName": "\u0410\u043d\u0430\u0441\u0442\u0430\u0441\u0438\u044f \u0413\u0440\u0438\u0431",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhaJ1vMqzkGK2Lz90TGN0CWnT5FSxsw7AFqmLrg",
+        "content": "\u0425\u043e\u0440\u043e\u0448\u0430\u044f \u0432\u0435\u0449\u044c :-) \ud83d\udc4d",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "5.33",
+        "at": "2020-10-26 13:04:30",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOExiZhfCWCpVUWZMOaRVpbuIFXG4w_9RI6ejaQqyOULmoKs8dd7uyxLlcPPfrGGYuIE6ZnTXuO9iKlFOtM",
         "userName": "Altynai Mukanova",
         "userImage": "https://play-lh.googleusercontent.com/-cf1v95yEiaI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmRGQyBIxPBjlLdXcTRsazNbwwwdg/photo.jpg",
@@ -101,7 +125,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-XEVeit1sEFY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucndGavUnp6rFCFx28rZo2nZWrK6hA/photo.jpg",
         "content": "\u041f\u043e\u043b\u044c\u0437\u0443\u044e\u0441\u044c \u0443\u0436\u0435 4 \u0433\u043e\u0434\u0430. \u041a\u043e\u0433\u0434\u0430 \u043c\u043d\u0435 \u043d\u0443\u0436\u043d\u043e \u0441\u043d\u0438\u0437\u0438\u0442\u044c \u0432\u0435\u0441, \u0442\u043e \u0442\u043e\u043b\u044c\u043a\u043e \u0441 \u044d\u0442\u0438\u043c \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435\u043c. \u0423\u0434\u043e\u0431\u043d\u043e\u0435 \u043d\u0430\u043f\u043e\u043c\u0438\u043d\u0430\u043d\u0438\u0435 \u043e \u0432\u043e\u0434\u0435, \u0441 \u043e\u0431\u044a\u043c\u0430\u043c\u0438, \u043f\u0440\u0430\u0432\u0434\u0430, \u043d\u0435 \u043e\u0447\u0435\u043d\u044c \u0440\u0430\u0437\u043e\u0431\u0440\u0430\u043b\u0430\u0441\u044c, \u043d\u043e \u0430 \u0442\u0430\u043a \u0441\u0434\u0435\u0441\u044c \u0435\u0441\u0442\u044c \u0432\u0441\u0435 \u0447\u0442\u043e \u043c\u043d\u0435 \u043d\u0435\u043e\u0431\u0445\u043e\u0434\u0438\u043c\u043e. \u0417\u0430 \u0437\u0430\u043c\u0435\u0442\u043a\u0438 \u0441 \u044d\u043c\u043e\u0446\u0438\u044f\u043c\u0438 \u043e\u0442\u0434\u0435\u043b\u044c\u043d\u043e\u0435 \u0441\u043f\u0430\u0441\u0438\u0431\u043e.",
         "score": 5,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "5.33",
         "at": "2020-10-23 04:05:17",
         "replyContent": null,
@@ -3061,8 +3085,8 @@
     },
     {
         "reviewId": "gp:AOqpTOGZr5IukoYLxRZOwVnbU_PhMqITsbJnnEPW_QnJ5tFPRXmQzF1T4IobDgCL30cmgQdmBRfQUKt9DkM2M4U",
-        "userName": "honeymusic",
-        "userImage": "https://play-lh.googleusercontent.com/-w97dhEpt6Ok/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucloZXPCEQ1ESWolHFTfFn-KDGCJGw/photo.jpg",
+        "userName": "Diana Fadeeva",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi7uXhLJeqznvGw51n2BOoo6RcF6NG6xrVYAioWEg",
         "content": "\u2665\ufe0f",
         "score": 3,
         "thumbsUpCount": 0,
@@ -3973,7 +3997,7 @@
     },
     {
         "reviewId": "gp:AOqpTOGNSz6K7zFG-KkoDuxsHIdaYVt0cw3eDVJAtttCSkvmpzxXsQxDxxKqWjQoDK2bBTMTBKwqNyVhYGKDTu8",
-        "userName": "Loly Pop",
+        "userName": "\u300aLoly Pop\u300b",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgqZtalC-pShpEU28-tlWcBznRvmtacXKtWGFqKBg",
         "content": "\u042d\u0442\u043e \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u043f\u043e\u043b\u043d\u044b\u0439 \u041e\u0422\u0421\u0422\u041e\u0419!",
         "score": 1,
@@ -11972,30 +11996,6 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "5.24",
         "at": "2020-04-09 07:47:12",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOFOu6zGErOm5eIAOWjMxAr_3EvORy0qGbipyMVOovm5--OGgsDw8IztKVl3_AiuhG3AcN2PElvrsZ9z4N8",
-        "userName": "\u0422\u0430\u0442\u044c\u044f\u043d\u0430 \u0411\u0443\u0447\u0435\u043b\u044c\u043d\u0438\u043a\u043e\u0432\u0430",
-        "userImage": "https://play-lh.googleusercontent.com/-_wCLLjbtk0s/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclrEoPiCDwnhrOCFdAO9bnHdyokWA/photo.jpg",
-        "content": "\u041e\u0447\u0435\u043d\u044c \u0443\u0434\u043e\u0431\u043d\u043e\u0435",
-        "score": 5,
-        "thumbsUpCount": 1,
-        "reviewCreatedVersion": "5.24",
-        "at": "2020-04-08 20:51:11",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOFV5hJxnxwEqpbZ2fd_r9DeB8f09r9eGH0VrtCeYKCAeR-fmdYmd6IqgZ1N45Y1_VUNU1V_RG02MxpJMDE",
-        "userName": "\u0410\u043d\u043d\u0430 \u0417\u0443\u0439\u043a\u043e\u0432\u0430",
-        "userImage": "https://play-lh.googleusercontent.com/-PRRn4OjpBf0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckxPrh78bsyoMFy1HR4rVxB8glBFQ/photo.jpg",
-        "content": "\u041e\u0447\u0435\u043d\u044c \u043a\u043b\u0430\u0441\u0441\u043d\u043e",
-        "score": 5,
-        "thumbsUpCount": 1,
-        "reviewCreatedVersion": "5.24",
-        "at": "2020-04-08 15:17:51",
         "replyContent": null,
         "repliedAt": null
     }
