@@ -490,11 +490,13 @@
     {
         "covid_app_id": "de.xikolo.openwho",
         "store_country": "au",
+        "store_lang": "en",
         "id": "com.onefitstop.plc"
     },
     {
         "covid_app_id": "org.who.infoapp",
         "store_country": "uk",
+        "store_lang": "en",
         "id": "com.zingfit.TURN_Studio"
     }
 ]
