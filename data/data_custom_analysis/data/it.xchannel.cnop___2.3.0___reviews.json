@@ -1,0 +1,74 @@
+[
+    {
+        "reviewId": "gp:AOqpTOFb_v0xwS-7JM7Y-oqGmBqrFXOM5mNG8F34TmIClEp0xO1mFyZy-u1SnMimO5qMeJ1EMUF_3IF2jK_sRQ",
+        "userName": "Graziano Pelliccioni",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgJQA7Ae2fSr86ZzmuddPgP5sjsEmPI2ukXOsR0Cw",
+        "content": "Non si avvia.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2020-04-22 23:23:37",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFfMFt5GnSQzzz4K4fAOxBHlo3fMI3TTZI7W-MWQrI9ZwjJQwiPqz7ker88YT6JcpNb9sDWadCV4ePetQ",
+        "userName": "Davide Cravero",
+        "userImage": "https://play-lh.googleusercontent.com/-uiDmvsh_BgE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclKc74ohVcGtmMlaIGOA6lU3ayusQ/photo.jpg",
+        "content": "Sono insoddisfatto perch\u00e9 non apre i link ai contenuti delle news. net::ERR_CLEARTEXT_NOT_PERMITTED (huawey mate 20 lite 64gb)",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.3.0",
+        "at": "2020-03-10 15:37:41",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFDZmjDo_uLLH86ZerhkjimbZkr44IL3ECtb_315tXA_Ob3cY59-3acz0xet40LpK1NMSkY9rfaisgHeg",
+        "userName": "Leonardo Distefano",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiY3cjTcGow1rC5jGVpgPYA3SmQLMgMLIB8LWhIxQ",
+        "content": "impossibile accedere alla app, non si avvia",
+        "score": 1,
+        "thumbsUpCount": 3,
+        "reviewCreatedVersion": "2.2.0",
+        "at": "2019-01-29 18:25:07",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHVMUKsiPfJlUIAe1NKwUG3t2T9kd8ZZ9oVT-7hEihacYYa5vUnXLdZKiJQBk5WZeldGkEgPbWoC2T71Q",
+        "userName": "Rosalia Giammetta",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj953E9jnOlPpSYLQUhVBh302UjPS5XaVVVynGP",
+        "content": "App del tutto inutile. E' una replica del sito e se ne poteva fare a meno.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2018-03-29 15:30:29",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHVHaKHMHPchFpEgGR4I1SmRAsAQ3eZBBiyYII8rjB6OMg4jyZ_BWczf1-pv62H9hsyipSiDggNkQcxVg",
+        "userName": "Un utente Google",
+        "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+        "content": "Bella idea.",
+        "score": 5,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": null,
+        "at": "2017-10-20 01:38:46",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOH90hVhh4ww-S3N-QSt0hTjMEXU_es453yN2CwmF03HNGIVFXIAvsoarj-ceMX_Xf893Om8Xy79hUTN9w",
+        "userName": "ilNek Luke",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiLChh8xNYiCL3tKwp8jbqJDL9U2Olsb7tvPqEW",
+        "content": "Noi siam piccoli, ma cresceremo",
+        "score": 4,
+        "thumbsUpCount": 2,
+        "reviewCreatedVersion": null,
+        "at": "2017-10-18 15:08:22",
+        "replyContent": null,
+        "repliedAt": null
+    }
+]

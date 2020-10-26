@@ -1,0 +1,32 @@
+{
+    "permissions": [
+        "android.permission.MANAGE_ACCOUNTS",
+        "android.permission.READ_PHONE_STATE",
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        "android.permission.USE_CREDENTIALS",
+        "android.permission.WAKE_LOCK",
+        "android.permission.INTERNET",
+        "android.permission.MODIFY_AUDIO_SETTINGS",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.GET_ACCOUNTS",
+        "android.permission.RECORD_AUDIO",
+        "android.permission.AUTHENTICATE_ACCOUNTS"
+    ],
+    "activities": [
+        "uk.ac.dur.drex.MainActivity",
+        "me.apla.cordova.AppPreferencesActivity",
+        "com.google.android.gms.common.api.GoogleApiActivity"
+    ],
+    "urls": [
+        "https://pagead2.googlesyndication.com/pagead/gen_204?id=gmob-apps",
+        "https://plus.google.com/",
+        "http://www.google-analytics.com",
+        "https://ssl.google-analytics.com",
+        "https://www.googletagmanager.com",
+        "http://hostname/?",
+        "https://ssl.gstatic.com/accessibility/javascript/android/",
+        "http://*/*",
+        "https://*/*",
+        "https://www.googleapis.com/auth/games"
+    ]
+}

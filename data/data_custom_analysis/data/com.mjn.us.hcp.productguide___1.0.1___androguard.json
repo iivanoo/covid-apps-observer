@@ -1,0 +1,19 @@
+{
+    "permissions": [
+        "android.permission.INTERNET",
+        "android.permission.CALL_PHONE",
+        "android.permission.ACCESS_NETWORK_STATE"
+    ],
+    "activities": [
+        "com.meadjohnson.hcp.view.SplashScreenActivity",
+        "com.meadjohnson.hcp.view.NavigationActivity"
+    ],
+    "urls": [
+        "http://schemas.android.com/apk/res/android",
+        "https://overmind.datatheorem.com/trustkit/report",
+        "https://settings.crashlytics.com/spi/v2/platforms/android/apps/%s/settings",
+        "http://localhost/",
+        "http://schemas.android.com/apk/res-auto",
+        "https://e.crashlytics.com/spi/v2/events"
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "permissions": [
+        "com.android.vending.CHECK_LICENSE",
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        "com.google.android.c2dm.permission.RECEIVE",
+        "android.permission.ACCESS_WIFI_STATE",
+        "android.permission.WAKE_LOCK",
+        "android.permission.READ_EXTERNAL_STORAGE",
+        "android.permission.MEDIA_CONTENT_CONTROL",
+        "android.permission.INTERNET",
+        "au.org.pafoundation.ropah_guides.permission.C2D_MESSAGE",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        "android.permission.CHANGE_NETWORK_STATE",
+        "android.permission.CHANGE_WIFI_STATE"
+    ],
+    "activities": [
+        "com.pubcoder.shelf.content.ActivityContent",
+        "md5a47ea66e9060ab2447d87d12cd44439d.MainActivity",
+        "md5538102cb7512c6dba0c04fe6c395414e.FormAuthenticatorActivity",
+        "md5538102cb7512c6dba0c04fe6c395414e.WebAuthenticatorActivity",
+        "md5538102cb7512c6dba0c04fe6c395414e.WebViewActivity",
+        "md5538102cb7512c6dba0c04fe6c395414e.WebAuthenticatorNativeBrowserActivity",
+        "com.google.android.gms.common.api.GoogleApiActivity",
+        "com.pubcoder.symlink.ActivitySymlink",
+        "com.pubcoder.reader.content.ActivityContent",
+        "com.pubcoder.reader.base.ActivityStart"
+    ],
+    "urls": [
+        "http://schemas.android.com/apk/res/android",
+        "http://schemas.android.com/apk/res-auto",
+        "https://www.example.com",
+        "https://pagead2.googlesyndication.com/pagead/gen_204?id=gmob-apps",
+        "https://www.googleapis.com/auth/games",
+        "https://plus.google.com/",
+        "https://in.appcenter.ms",
+        "https://mobile.events.data.microsoft.com/OneCollector/1.0"
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "permissions": [
+        "android.permission.INTERNET",
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.WAKE_LOCK"
+    ],
+    "activities": [
+        "de.iosphere.daz.ui.NewsListActivity",
+        "de.iosphere.daz.ui.ArchiveActivity",
+        "de.iosphere.daz.ui.GalleryActivity",
+        "de.iosphere.daz.ui.NewsActivity",
+        "de.iosphere.daz.ui.PdfActivity",
+        "de.iosphere.daz.ui.TocActivity",
+        "de.iosphere.daz.ui.IssueActivity",
+        "de.iosphere.daz.ui.InfoActivity",
+        "de.iosphere.daz.ui.WebViewActivity",
+        "com.google.android.gms.common.api.GoogleApiActivity",
+        "net.hockeyapp.android.UpdateActivity",
+        "net.hockeyapp.android.FeedbackActivity",
+        "net.hockeyapp.android.PaintActivity",
+        "net.hockeyapp.android.LoginActivity",
+        "net.hockeyapp.android.ExpiryInfoActivity"
+    ],
+    "urls": [
+        "http://schemas.android.com/apk/res/android",
+        "http://hostname/?",
+        "http://www.google-analytics.com",
+        "https://ssl.google-analytics.com",
+        "https://www.googleapis.com/auth/plus.me",
+        "https://www.googleapis.com/auth/games",
+        "http://plus.google.com/",
+        "https://www.googletagmanager.com",
+        "https://www.deutsche-apotheker-zeitung.de/rechtliches/impressum",
+        "https://sdk.hockeyapp.net/",
+        "https://gate.hockeyapp.net/v2/track"
+    ]
+}

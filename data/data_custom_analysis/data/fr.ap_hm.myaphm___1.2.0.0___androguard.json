@@ -1,0 +1,30 @@
+{
+    "permissions": [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        "android.permission.FLASHLIGHT",
+        "android.permission.READ_EXTERNAL_STORAGE",
+        "android.permission.INTERNET",
+        "android.permission.CAMERA"
+    ],
+    "activities": [
+        "fr.ap_hm.myaphm.MainActivity",
+        "com.google.zxing.client.android.CaptureActivity",
+        "com.google.zxing.client.android.encode.EncodeActivity"
+    ],
+    "urls": [
+        "http://schemas.android.com/apk/res/android",
+        "http://zxing.appspot.com/scan",
+        "http://www.google",
+        "http://google.com/books",
+        "http://books.google.",
+        "http://www.google.com/books?id=",
+        "http://www.google.com/books?vid=isbn",
+        "http://maps.google.",
+        "http://www.google.",
+        "https://ssl.gstatic.com/accessibility/javascript/android/",
+        "https://www.googleapis.com/books/v1/volumes?q=isbn:",
+        "https://www.google.",
+        "http://*/*",
+        "https://*/*"
+    ]
+}

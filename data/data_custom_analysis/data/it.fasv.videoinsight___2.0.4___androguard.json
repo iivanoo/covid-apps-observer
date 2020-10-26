@@ -1,0 +1,36 @@
+{
+    "permissions": [
+        "it.fasv.videoinsight.permission.C2D_MESSAGE",
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        "android.permission.ACCESS_FINE_LOCATION",
+        "android.permission.ACCESS_COARSE_LOCATION",
+        "com.google.android.c2dm.permission.RECEIVE",
+        "android.permission.ACCESS_WIFI_STATE",
+        "android.permission.WAKE_LOCK",
+        "android.permission.INTERNET",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.GET_ACCOUNTS",
+        "android.permission.VIBRATE"
+    ],
+    "activities": [
+        "it.fasv.videoinsight.MainActivity",
+        "com.plugin.gcm.PushHandlerActivity",
+        "com.synconset.MultiImageChooserActivity",
+        "com.google.android.gms.ads.AdActivity",
+        "com.google.android.gms.ads.purchase.InAppPurchaseActivity"
+    ],
+    "urls": [
+        "https://accounts.google.com",
+        "https://www.facebook.com",
+        "http://plus.google.com/",
+        "https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/sdk-core-v40.html",
+        "https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/mraid/v2/mraid_app_banner.js",
+        "https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/mraid/v2/mraid_app_expanded_banner.js",
+        "https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/mraid/v2/mraid_app_interstitial.js",
+        "https://csi.gstatic.com/csi",
+        "http://www.google.com",
+        "https://ssl.gstatic.com/accessibility/javascript/android/",
+        "http://*/*",
+        "https://*/*"
+    ]
+}

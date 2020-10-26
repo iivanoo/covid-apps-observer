@@ -1,0 +1,38 @@
+[
+    {
+        "reviewId": "gp:AOqpTOHX81SHvcXyL0rpZftTfyKr95P7aLbN9of5G2kz8SD8MU2D7eASWEa8_ePFghr83oP8REIYY1TrJUyvHA",
+        "userName": "sandra wright",
+        "userImage": "https://play-lh.googleusercontent.com/-U-TD7zKhkjI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmxEUby5mv1q4tAPBxnGm8LaHta3Q/photo.jpg",
+        "content": "Good",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.12.0-rc.2",
+        "at": "2020-09-24 14:32:02",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOG_2z0Ebc3qq23KGYxuMJ5iYMqvOJMRxQsQykXBX8E-9SVeKX0TLMNM_qXbnZFjOthpJSiP35wIP_xetQ",
+        "userName": "T Barden",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhV3Y1unL_nh0jPfoQychCOMrptS7t94FVCas-G",
+        "content": "Garage app that doesn't work attempts to enroll many times only produce a stupid error message that is WRONG. Got a call on landline number advising of a workaround but have to call. How about either fixing app or canning it. Meanwhile have permanently deleted app and demand that my personal information be purged from your systems!",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2020-06-06 15:00:00",
+        "replyContent": "Hello T Barden, we are sorry to learn that you are having this issue.  So that we can assist you, please contact Customer Service at 1-888-890-8577 or email support@contournext.com.",
+        "repliedAt": "2020-06-10 22:36:56"
+    },
+    {
+        "reviewId": "gp:AOqpTOFON_pYh7VkXfkrLgjJLfjiXTCrAXPKq1SCsVsKrKQuZj5V52s8knVT4zvngesKCAs3RHajmjb9QeNoWQ",
+        "userName": "Janis Marsh",
+        "userImage": "https://play-lh.googleusercontent.com/-DjfUXo_Zx8Y/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnvBA57plhtJeMHSQcOm6sVpuPnDg/photo.jpg",
+        "content": "I love the app. Everything in one place don't have to remember your readings.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.9.0-rc.6",
+        "at": "2020-04-22 12:53:44",
+        "replyContent": null,
+        "repliedAt": null
+    }
+]

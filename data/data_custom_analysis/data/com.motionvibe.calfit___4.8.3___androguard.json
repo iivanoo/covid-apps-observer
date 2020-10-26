@@ -1,0 +1,11 @@
+{
+    "permissions": [
+        "android.permission.INTERNET"
+    ],
+    "activities": [
+        "com.motionvibe.merrittclubs.MainActivity"
+    ],
+    "urls": [
+        "http://schemas.android.com/apk/res/android"
+    ]
+}

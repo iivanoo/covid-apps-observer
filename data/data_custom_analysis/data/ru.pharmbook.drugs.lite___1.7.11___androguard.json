@@ -1,0 +1,52 @@
+{
+    "permissions": [
+        "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+        "com.android.vending.BILLING",
+        "com.google.android.c2dm.permission.RECEIVE",
+        "android.permission.WAKE_LOCK",
+        "android.permission.INTERNET",
+        "android.permission.ACCESS_NETWORK_STATE"
+    ],
+    "activities": [
+        "ru.pharmbook.drugs.MainActivity",
+        "com.android.billingclient.api.ProxyBillingActivity",
+        "com.google.android.gms.common.api.GoogleApiActivity",
+        "com.google.android.gms.ads.AdActivity"
+    ],
+    "urls": [
+        "http://schemas.android.com/apk/res/android",
+        "https://pagead2.googlesyndication.com/pagead/gen_204?id=gmob-apps",
+        "https://plus.google.com/",
+        "http://www.google.com",
+        "https://support.google.com/dfp_premium/answer/7160685#push",
+        "https://csi.gstatic.com/csi",
+        "http://www.example.com",
+        "https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/production/sdk-core-v40-impl.html",
+        "https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/production/mraid/v3/mraid_app_banner.js",
+        "https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/production/mraid/v3/mraid_app_expanded_banner.js",
+        "https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/production/mraid/v3/mraid_app_interstitial.js",
+        "https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/native_ads.html",
+        "https://imasdk.googleapis.com/admob/sdkloader/native_video.html",
+        "https://www.google.com/dfp/linkDevice",
+        "https://www.google.com/dfp/inAppPreview",
+        "https://www.google.com/dfp/debugSignals",
+        "https://www.google.com/dfp/sendDebugData",
+        "https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/production/native_ads.js",
+        "https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/sdk-core-v40-loader.html",
+        "https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/production/sdk-core-v40-impl.js",
+        "https://google.com/search?",
+        "https://app-measurement.com/a",
+        "https://%s/%s/%s",
+        "https://firebasestorage.googleapis.com/v0",
+        "https://grls.rosminzdrav.ru/GRLS.aspx?RegNumber=&MnnR=&lf=&TradeNmR=",
+        "https://firebase-settings.crashlytics.com/spi/v2/platforms/android/gmp/%s/settings",
+        "https://update.crashlytics.com/spi/v1/platforms/android/apps",
+        "https://update.crashlytics.com/spi/v1/platforms/android/apps/%s",
+        "https://reports.crashlytics.com/spi/v1/platforms/android/apps/%s/reports",
+        "https://reports.crashlytics.com/sdk-api/v1/platforms/android/apps/%s/minidumps",
+        "https://play.google.com/store/apps/details?id=",
+        "http://schemas.android.com/apk/res-auto",
+        "https://www.google.com",
+        "https://www.googleadservices.com/pagead/conversion/app/deeplink?id_type=adid&sdk_version=%s&rdid=%s&bundleid=%s&retry=%s"
+    ]
+}

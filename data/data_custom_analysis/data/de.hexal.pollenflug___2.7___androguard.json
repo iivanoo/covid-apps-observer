@@ -1,0 +1,46 @@
+{
+    "permissions": [
+        "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+        "android.permission.ACCESS_FINE_LOCATION",
+        "android.permission.ACCESS_COARSE_LOCATION",
+        "com.google.android.c2dm.permission.RECEIVE",
+        "android.permission.WAKE_LOCK",
+        "android.permission.INTERNET",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        "android.permission.VIBRATE"
+    ],
+    "activities": [
+        "de.hexal.pollenflug.SplashActivity",
+        "de.hexal.pollenflug.MainActivity",
+        "de.hexal.pollenflug.gui.settings_activity.FavoriteLocationsActivity",
+        "de.hexal.pollenflug.gui.list_activity.PollenDetailActivity",
+        "de.hexal.pollenflug.gui.diary.DiaryEntryActivity",
+        "de.hexal.pollenflug.gui.diary.DiaryEvaluationActivity",
+        "de.hexal.pollenflug.app.PollenFragmentContainerActivity",
+        "com.google.android.gms.auth.api.signin.internal.SignInHubActivity",
+        "com.google.android.gms.common.api.GoogleApiActivity"
+    ],
+    "urls": [
+        "http://schemas.android.com/apk/res/android",
+        "https://pagead2.googlesyndication.com/pagead/gen_204?id=gmob-apps",
+        "https://accounts.google.com",
+        "https://www.facebook.com",
+        "https://accounts.google.com/o/oauth2/revoke?token=",
+        "https://plus.google.com/",
+        "https://app-measurement.com/a",
+        "https://www.hexal-elements.de/praeparate/xml-app-2015/%s.php",
+        "https://allergie.hexal.de/pollenflug/xml-interface-neu/pollen_de_7tage.php",
+        "https://allergie.hexal.de/pollenflug/xml-interface-neu/pollen_historie.php",
+        "https://www.hexal-elements.de/praeparate/xml-app-2013/index.php",
+        "https://allergie.hexal.de/pollenflug/xml-interface/pollen_trend-2013.php",
+        "http://schemas.android.com/apk/res-auto",
+        "https://maps.googleapis.com/maps/api/geocode/json?address=%s&key=0IWmaesi_6JMZArmYvpSboIT0Khu3q777T_03bQ",
+        "https://www.googleapis.com/auth/games_lite",
+        "https://www.googleapis.com/auth/games",
+        "https://www.google.com",
+        "https://www.hexal-elements.de/impressum-pollen-app-v3.inc.php",
+        "https://www.hexal-elements.de/praeparate/xml-app-2015/datenschutz.php",
+        "https://www.hexal-elements.de/praeparate/xml-app-2015/haftungsausschluss.inc.php"
+    ]
+}

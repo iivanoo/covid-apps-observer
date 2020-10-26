@@ -1,0 +1,46 @@
+{
+    "permissions": [
+        "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+        "android.permission.ACCESS_FINE_LOCATION",
+        "android.permission.ACCESS_COARSE_LOCATION",
+        "com.google.android.c2dm.permission.RECEIVE",
+        "android.permission.ACCESS_WIFI_STATE",
+        "android.permission.WAKE_LOCK",
+        "android.permission.INTERNET",
+        "android.permission.ACCESS_NETWORK_STATE"
+    ],
+    "activities": [
+        "it.codeatlas.tmtworld.congress.SplashActivity",
+        "it.codeatlas.tmtworld.congress.MainActivity",
+        "it.codeatlas.tmtworld.congress.MapActivity",
+        "it.codeatlas.tmtworld.congress.AboutActivity",
+        "it.codeatlas.tmtworld.congress.DetailsActivity",
+        "com.google.android.gms.common.api.GoogleApiActivity"
+    ],
+    "urls": [
+        "http://schemas.android.com/apk/res/android",
+        "https://pagead2.googlesyndication.com/pagead/gen_204?id=gmob-apps",
+        "https://plus.google.com/",
+        "https://app-measurement.com/a",
+        "https://settings.crashlytics.com/spi/v2/platforms/android/apps/%s/settings",
+        "http://www.w3.org/2000/svg",
+        "http://www.w3.org/1999/xlink",
+        "http://www.w3.org/1999/xhtml",
+        "https://www.w3.org/1999/xhtml",
+        "http://w3.org/1999/xhtml",
+        "http://www.w3.org/TR/REC-html40",
+        "https://e.crashlytics.com/spi/v2/events",
+        "https://www.tmtworld.it/congress/",
+        "http://www.w3.org/TR/REC-html40/strict.dtd",
+        "http://www.w3.org/TR/html4/strict.dtd",
+        "http://www.w3.org/TR/html4/loose.dtd",
+        "http://www.w3.org/TR/html4/frameset.dtd",
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd",
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-frameset.dtd",
+        "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd",
+        "http://www.w3.org/TR/xhtml11/DTD/xhtml-basic11.dtd",
+        "https://www.google.com",
+        "https://www.tmtworld.it"
+    ]
+}

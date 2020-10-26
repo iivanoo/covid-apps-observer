@@ -1,0 +1,53 @@
+{
+    "permissions": [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        "android.permission.CALL_PHONE",
+        "android.permission.READ_EXTERNAL_STORAGE",
+        "android.permission.INTERNET",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.CAMERA"
+    ],
+    "activities": [
+        "it.farmacialevorato.activity.MainActivity",
+        "com.google.android.gms.ads.AdActivity"
+    ],
+    "urls": [
+        "https://www.googleapis.com/auth/appstate",
+        "http://plus.google.com/",
+        "https://www.googleapis.com/auth/drive.file",
+        "https://www.googleapis.com/auth/drive.appdata",
+        "https://www.googleapis.com/auth/drive",
+        "https://www.googleapis.com/auth/drive.apps",
+        "https://www.googleapis.com/auth/fitness.activity.read",
+        "https://www.googleapis.com/auth/fitness.activity.write",
+        "https://www.googleapis.com/auth/fitness.location.read",
+        "https://www.googleapis.com/auth/fitness.location.write",
+        "https://www.googleapis.com/auth/fitness.body.read",
+        "https://www.googleapis.com/auth/fitness.body.write",
+        "https://www.googleapis.com/auth/games",
+        "https://www.googleapis.com/auth/games.firstparty",
+        "https://googleads.g.doubleclick.net/mads/static/sdk/native/sdk-core-v40.html",
+        "https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/sdk-core-v40.html",
+        "https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/native_ads.html",
+        "http://www.google.com",
+        "https://www.googleapis.com/auth/plus.login",
+        "https://www.googleapis.com/auth/plus.me",
+        "http://schemas.android.com/apk/lib/com.google.android.gms.plus",
+        "http://hostname/?",
+        "https://www.googletagmanager.com",
+        "https://api.parse.com",
+        "http://192.168.56.1:3000",
+        "http://10.0.2.2:3000",
+        "http://localhost:3000",
+        "http://10.0.2.2:6000",
+        "http://invalid.server:3000",
+        "https://api.twitter.com/oauth/request_token",
+        "https://api.twitter.com/oauth/access_token",
+        "https://api.twitter.com/oauth/authenticate",
+        "http://www.google-analytics.com/collect",
+        "https://ssl.google-analytics.com/collect",
+        "https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/mraid/v2/mraid_app_interstitial.js",
+        "https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/mraid/v2/mraid_app_expanded_banner.js",
+        "https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/mraid/v2/mraid_app_banner.js"
+    ]
+}

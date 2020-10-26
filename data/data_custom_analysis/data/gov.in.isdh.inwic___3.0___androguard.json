@@ -1,0 +1,48 @@
+{
+    "permissions": [
+        "gov.in.isdh.inwic.permission.C2D_MESSAGE",
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        "android.permission.ACCESS_FINE_LOCATION",
+        "android.permission.FLASHLIGHT",
+        "android.permission.ACCESS_COARSE_LOCATION",
+        "com.google.android.c2dm.permission.RECEIVE",
+        "android.permission.ACCESS_WIFI_STATE",
+        "android.permission.WAKE_LOCK",
+        "android.permission.READ_EXTERNAL_STORAGE",
+        "android.permission.MEDIA_CONTENT_CONTROL",
+        "android.permission.INTERNET",
+        "android.permission.WRITE_USER_DICTIONARY",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.ACCESS_MOCK_LOCATION",
+        "android.permission.CAMERA",
+        "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS"
+    ],
+    "activities": [
+        "com.facebook.FacebookActivity",
+        "net.openid.appauth.RedirectUriReceiverActivity",
+        "crc6471633f6b1da3fece.MainActivity",
+        "crc6471633f6b1da3fece.SplashActivity",
+        "crc64bf997a78734cbf7b.GoogleTokenActivity",
+        "crc64f98dd38067c0c88b.FormAuthenticatorActivity",
+        "crc64f98dd38067c0c88b.WebAuthenticatorActivity",
+        "crc64f98dd38067c0c88b.WebViewActivity",
+        "crc64f98dd38067c0c88b.WebAuthenticatorNativeBrowserActivity",
+        "crc6480997b3ef81bf9b2.ZxingActivity",
+        "com.google.android.gms.common.api.GoogleApiActivity",
+        "net.openid.appauth.AuthorizationManagementActivity",
+        "net.openid.appauth.RedirectUriReceiverActivity"
+    ],
+    "urls": [
+        "http://schemas.android.com/apk/res/android",
+        "https://www.example.com",
+        "https://data.flurry.com/pcr.do",
+        "https://pagead2.googlesyndication.com/pagead/gen_204?id=gmob-apps",
+        "https://plus.google.com/",
+        "http://www.example.com",
+        "http://schemas.android.com/apk/res-auto",
+        "https://proton.flurry.com/sdk/v1/config",
+        "http://data.flurry.com/aap.do",
+        "https://data.flurry.com/aap.do",
+        "https://www.googleapis.com/auth/games"
+    ]
+}

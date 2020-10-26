@@ -1,0 +1,26 @@
+{
+    "permissions": [
+        "android.permission.ACCESS_FINE_LOCATION",
+        "android.permission.ACCESS_COARSE_LOCATION",
+        "android.permission.ACCESS_WIFI_STATE",
+        "android.permission.WAKE_LOCK",
+        "android.permission.INTERNET",
+        "android.permission.ACCESS_NETWORK_STATE"
+    ],
+    "activities": [
+        "es.bsc.earthscience.caliope.MainActivity",
+        "com.google.android.gms.common.api.GoogleApiActivity"
+    ],
+    "urls": [
+        "http://www.google-analytics.com",
+        "https://ssl.google-analytics.com",
+        "https://www.googleapis.com/auth/plus.me",
+        "https://www.googleapis.com/auth/games",
+        "http://plus.google.com/",
+        "http://hostname/?",
+        "https://www.googletagmanager.com",
+        "https://ssl.gstatic.com/accessibility/javascript/android/",
+        "http://*/*",
+        "https://*/*"
+    ]
+}

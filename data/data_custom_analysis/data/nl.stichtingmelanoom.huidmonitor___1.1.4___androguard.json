@@ -1,0 +1,19 @@
+{
+    "permissions": [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        "android.permission.WAKE_LOCK",
+        "android.permission.INTERNET",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.RECEIVE_BOOT_COMPLETED"
+    ],
+    "activities": [
+        "nl.stichtingmelanoom.huidmonitor.features.overview.MoleOverviewActivity",
+        "nl.stichtingmelanoom.huidmonitor.features.logmole.addmole.AddMoleActivity",
+        "nl.stichtingmelanoom.huidmonitor.features.logmole.editmole.EditMoleActivity"
+    ],
+    "urls": [
+        "http://schemas.android.com/apk/res/android",
+        "https://in.appcenter.ms",
+        "https://mobile.events.data.microsoft.com/OneCollector/1.0"
+    ]
+}

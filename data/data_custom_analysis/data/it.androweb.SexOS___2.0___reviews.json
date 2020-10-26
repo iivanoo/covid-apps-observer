@@ -1,0 +1,26 @@
+[
+    {
+        "reviewId": "gp:AOqpTOHloUVbQBWOEGdV1teaqbZ5hYTuvbTMu_4Laun10syj_Rv6tfY9ONPjyFotK72w2hnhLgREFqOqxWWv2w",
+        "userName": "Guida Rocco Local Guides",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhDUVDrMnT0R5PY3_dJV-ckIXwLFsFY2jMk3FuQLPw",
+        "content": "Non funziona",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2020-05-30 09:28:51",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFRY9upyaOwHfj9DHJD-wI2JVww-CqSrsEMT1MSiBUqzdMJ1ncGWuVz8qBCEhQ32d6_8QqULgNusLEQ4Q",
+        "userName": "Matteo Trombello",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgPwYecv09PgrRBRNFXFDPUN7NUXtFJZ1lkx-ZA",
+        "content": "Non funziona! Rimane lo sfondo bianco",
+        "score": 2,
+        "thumbsUpCount": 4,
+        "reviewCreatedVersion": "2.0",
+        "at": "2017-02-26 11:55:21",
+        "replyContent": null,
+        "repliedAt": null
+    }
+]

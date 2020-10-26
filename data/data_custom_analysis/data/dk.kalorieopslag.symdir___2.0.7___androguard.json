@@ -1,0 +1,34 @@
+{
+    "permissions": [
+        "android.permission.INTERNET",
+        "android.permission.ACCESS_NETWORK_STATE"
+    ],
+    "activities": [
+        "dk.kalorieopslag.symdir..Symdir",
+        "com.google.android.gms.ads.AdActivity"
+    ],
+    "urls": [
+        "https://www.googleapis.com/auth/appstate",
+        "https://www.googleapis.com/auth/drive.file",
+        "https://www.googleapis.com/auth/drive.appdata",
+        "https://www.googleapis.com/auth/drive",
+        "https://www.googleapis.com/auth/drive.apps",
+        "https://www.googleapis.com/auth/games",
+        "https://www.googleapis.com/auth/games.firstparty",
+        "http://googleads.g.doubleclick.net/mads/static/sdk/native/sdk-core-v40.html",
+        "http://googleads.g.doubleclick.net/mads/static/mad/sdk/native/sdk-core-v40.html",
+        "http://www.google.com",
+        "http://plus.google.com/",
+        "https://www.googleapis.com/auth/plus.login",
+        "https://www.googleapis.com/auth/plus.me",
+        "http://schemas.android.com/apk/lib/com.google.android.gms.plus",
+        "http://hostname/?",
+        "https://www.googletagmanager.com",
+        "https://ssl.gstatic.com/accessibility/javascript/android/",
+        "http://www.google-analytics.com/collect",
+        "https://ssl.google-analytics.com/collect",
+        "http://media.admob.com/mraid/v1/mraid_app_interstitial.js",
+        "http://media.admob.com/mraid/v1/mraid_app_expanded_banner.js",
+        "http://media.admob.com/mraid/v1/mraid_app_banner.js"
+    ]
+}

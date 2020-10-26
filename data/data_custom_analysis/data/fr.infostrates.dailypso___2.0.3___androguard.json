@@ -1,0 +1,48 @@
+{
+    "permissions": [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        "com.google.android.c2dm.permission.RECEIVE",
+        "android.permission.ACCESS_WIFI_STATE",
+        "android.permission.WAKE_LOCK",
+        "android.permission.INTERNET",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.GET_ACCOUNTS",
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        "fr.infostrates.dailypso.permission.C2D_MESSAGE",
+        "android.permission.VIBRATE"
+    ],
+    "activities": [
+        "fr.infostrates.dailypso.MainActivity",
+        "com.infobip.push.media.MediaActivity",
+        "com.infobip.push.cordova.PushHandlerActivity",
+        "com.facebook.FacebookActivity",
+        "de.appplant.cordova.plugin.localnotification.ClickActivity",
+        "de.appplant.cordova.plugin.notification.ClickActivity",
+        "com.google.android.gms.common.api.GoogleApiActivity"
+    ],
+    "urls": [
+        "https://graph.%s",
+        "https://graph-video.%s",
+        "https://facebook.com",
+        "https://.facebook.com",
+        "http://play.google.com/store/apps/details?id=com.facebook.orca",
+        "http://hostname/?",
+        "http://www.google-analytics.com",
+        "https://ssl.google-analytics.com",
+        "http://plus.google.com/",
+        "https://www.googletagmanager.com",
+        "https://pushapi.infobip.com/2/mobile/registration/%s/deviceInformation",
+        "https://pushapi.infobip.com/2/mobile/registration/%s/channels",
+        "https://pushapi.infobip.com/2/mobile/android/registration/%s/messages",
+        "https://pushapi.infobip.com/2/mobile/channels/register?removePrevious=",
+        "https://pushapi.infobip.com/2/mobile/Android/message/%s/deviceID/%s",
+        "https://pushapi.infobip.com/2/mobile/register",
+        "https://pushapi.infobip.com/2/mobile/unregister",
+        "https://pushapi.infobip.com/2/mobile/location",
+        "https://pushapi.infobip.com/2/mobile/message/opened",
+        "https://ssl.gstatic.com/accessibility/javascript/android/",
+        "http://*/*",
+        "https://*/*",
+        "https://ssl.gstatic.com/accessibility/javascript/android/chromeandroidvox.js"
+    ]
+}

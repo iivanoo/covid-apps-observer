@@ -1,0 +1,51 @@
+{
+    "permissions": [
+        "android.permission.READ_CONTACTS",
+        "android.permission.WRITE_CONTACTS",
+        "es.youaremarketing.alertaETS.permission.C2D_MESSAGE",
+        "com.google.android.c2dm.permission.RECEIVE",
+        "com.sec.android.provider.badge.permission.WRITE",
+        "android.permission.WAKE_LOCK",
+        "android.permission.INTERNET",
+        "com.htc.launcher.permission.READ_SETTINGS",
+        "com.sec.android.provider.badge.permission.READ",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.GET_ACCOUNTS",
+        "com.htc.launcher.permission.UPDATE_SHORTCUT",
+        "com.majeur.launcher.permission.UPDATE_BADGE",
+        "com.sonyericsson.home.permission.BROADCAST_BADGE",
+        "com.anddoes.launcher.permission.UPDATE_COUNT"
+    ],
+    "activities": [
+        "es.youaremarketing.alertaETS.MainActivity",
+        "com.google.android.gms.ads.AdActivity",
+        "com.google.android.gms.common.api.GoogleApiActivity"
+    ],
+    "urls": [
+        "https://pagead2.googlesyndication.com/pagead/gen_204?id=gmob-apps",
+        "https://plus.google.com/",
+        "http://www.example.com",
+        "https://mobilecrashreporting.googleapis.com/v1/crashes:batchCreate?key=",
+        "https://pagead2.googlesyndication.com/pagead/gen_204",
+        "http://www.google.com",
+        "https://support.google.com/dfp_premium/answer/7160685#push",
+        "https://app-measurement.com/a",
+        "https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/sdk-core-v40.html",
+        "https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/mraid/v2/mraid_app_banner.js",
+        "https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/mraid/v2/mraid_app_expanded_banner.js",
+        "https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/mraid/v2/mraid_app_interstitial.js",
+        "https://csi.gstatic.com/csi",
+        "https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/native_ads.html",
+        "https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/native_video_ads.html",
+        "https://www.google.com/dfp/linkDevice",
+        "https://www.google.com/dfp/inAppPreview",
+        "https://www.google.com/dfp/debugSignals",
+        "https://www.google.com/dfp/sendDebugData",
+        "https://ssl.gstatic.com/accessibility/javascript/android/",
+        "http://*/*",
+        "https://*/*",
+        "https://www.google.com",
+        "http://adlic.rjfun.com/adlic",
+        "https://www.googleapis.com/auth/games"
+    ]
+}

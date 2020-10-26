@@ -1,0 +1,26 @@
+{
+    "permissions": [
+        "android.permission.INTERNET",
+        "android.permission.ACCESS_NETWORK_STATE"
+    ],
+    "activities": [
+        "it.dr.prontuariofarmaceutico.activity.MainActivity",
+        "it.dr.prontuariofarmaceutico..activity.VisualizzaListaFarmaco",
+        "it.dr.prontuariofarmaceutico..activity.VisualizzaDettaglio",
+        "it.dr.prontuariofarmaceutico..activity.About",
+        "com.google.android.gms.ads.AdActivity"
+    ],
+    "urls": [
+        "http://plus.google.com/",
+        "https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/sdk-core-v40.html",
+        "https://googleads.g.doubleclick.net/mads/static/sdk/native/sdk-core-v40.html",
+        "https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/native_ads.html",
+        "http://www.google.com",
+        "https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/mraid/v2/mraid_app_interstitial.js",
+        "https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/mraid/v2/mraid_app_expanded_banner.js",
+        "https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/mraid/v2/mraid_app_banner.js",
+        "https://play.google.com/store/apps/details?id=com.google.zxing.client.android",
+        "https://play.google.com/store/apps/details?id=",
+        "http://91.121.204.86/"
+    ]
+}

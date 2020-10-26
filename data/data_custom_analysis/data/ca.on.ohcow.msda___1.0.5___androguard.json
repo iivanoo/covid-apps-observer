@@ -1,0 +1,29 @@
+{
+    "permissions": [
+        "android.permission.INTERNET",
+        "android.permission.ACCESS_WIFI_STATE",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.WRITE_EXTERNAL_STORAGE"
+    ],
+    "activities": [
+        "ca.on.ohcow.msda.MainActivity",
+        "com.google.android.gms.ads.AdActivity",
+        "com.google.android.gms.ads.purchase.InAppPurchaseActivity"
+    ],
+    "urls": [
+        "http://www.google-analytics.com",
+        "https://ssl.google-analytics.com",
+        "https://accounts.google.com",
+        "https://www.facebook.com",
+        "http://plus.google.com/",
+        "https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/sdk-core-v40.html",
+        "https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/mraid/v2/mraid_app_banner.js",
+        "https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/mraid/v2/mraid_app_expanded_banner.js",
+        "https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/mraid/v2/mraid_app_interstitial.js",
+        "https://csi.gstatic.com/csi",
+        "http://www.google.com",
+        "http://hostname/?",
+        "https://www.googletagmanager.com",
+        "https://ssl.gstatic.com/accessibility/javascript/android/"
+    ]
+}

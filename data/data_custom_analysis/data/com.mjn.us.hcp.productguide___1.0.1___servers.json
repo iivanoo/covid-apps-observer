@@ -1,0 +1,38 @@
+[
+    {
+        "name": "datatheorem.com",
+        "registrar": "Google LLC",
+        "registrant": "Contact Privacy Inc. Customer 124851440",
+        "registrar_country": "",
+        "registrant_country": "CA",
+        "creation_date": "2012-12-16 08:58:11",
+        "expiration_date": "2020-12-16 08:58:11",
+        "last_updated": null,
+        "status": "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+        "statuses": [
+            "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+            "clientTransferProhibited https://www.icann.org/epp#clientTransferProhibited"
+        ],
+        "name_servers": "{'mira.ns.cloudflare.com', 'gerald.ns.cloudflare.com'}"
+    },
+    {
+        "name": "crashlytics.com",
+        "registrar": "MarkMonitor Inc.",
+        "registrant": "Google LLC",
+        "registrar_country": "",
+        "registrant_country": "US",
+        "creation_date": "2011-01-21 15:30:40",
+        "expiration_date": "2021-01-21 15:30:40",
+        "last_updated": null,
+        "status": "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+        "statuses": [
+            "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+            "clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)",
+            "clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)",
+            "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited",
+            "clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)",
+            "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+        ],
+        "name_servers": "{'ns-968.awsdns-57.net', 'ns-279.awsdns-34.com', 'ns-1226.awsdns-25.org', 'ns-1609.awsdns-09.co.uk'}"
+    }
+]

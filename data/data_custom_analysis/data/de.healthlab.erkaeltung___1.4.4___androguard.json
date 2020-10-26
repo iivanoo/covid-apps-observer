@@ -1,0 +1,44 @@
+{
+    "permissions": [
+        "android.permission.INTERNET",
+        "android.permission.ACCESS_NETWORK_STATE"
+    ],
+    "activities": [
+        "de.healthlab.base.app.SplashActivity",
+        "de.healthlab.base.app.CoreActivity",
+        "com.adition.android.sdk.AditionActivity",
+        "com.facebook.FacebookActivity",
+        "com.facebook.CustomTabMainActivity",
+        "com.twitter.sdk.android.tweetcomposer.ComposerActivity",
+        "com.twitter.sdk.android.core.identity.OAuthActivity",
+        "com.twitter.sdk.android.core.identity.ShareEmailActivity",
+        "com.google.android.gms.common.api.GoogleApiActivity"
+    ],
+    "urls": [
+        "http://schemas.android.com/apk/res/android",
+        "http://localhost/",
+        "http://schemas.android.com/apk/lib/com.adition.android.sdk",
+        "https://diag.adfarm1.adition.com/Android-AdSDK/%s/error",
+        "https://graph.%s",
+        "https://graph-video.%s",
+        "https://facebook.com",
+        "https://.facebook.com",
+        "http://play.google.com/store/apps/details?id=com.facebook.orca",
+        "https://pagead2.googlesyndication.com/pagead/gen_204?id=gmob-apps",
+        "https://plus.google.com/",
+        "http://www.google-analytics.com",
+        "https://ssl.google-analytics.com",
+        "http://hostname/?",
+        "https://www.googletagmanager.com",
+        "https://twitter.com/",
+        "https://twitter.com/#!/search?q=%23",
+        "https://twitter.com/#!/search?q=%24",
+        "https://api.twitter.com/1.1/account/verify_credentials.json",
+        "https://api.twitter.com",
+        "https://twitter.com/intent/tweet?text=%s&url=%s",
+        "https://settings.crashlytics.com/spi/v2/platforms/android/apps/%s/settings",
+        "https://syndication.twitter.com",
+        "https://e.crashlytics.com/spi/v2/events",
+        "https://www.googleapis.com/auth/games"
+    ]
+}

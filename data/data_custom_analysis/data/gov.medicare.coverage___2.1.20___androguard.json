@@ -1,0 +1,35 @@
+{
+    "permissions": [
+        "android.permission.INTERNET",
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.WAKE_LOCK"
+    ],
+    "activities": [
+        "gov.medicare.coverage.MainActivity",
+        "com.google.android.gms.common.api.GoogleApiActivity"
+    ],
+    "urls": [
+        "http://schemas.android.com/apk/res/android",
+        "https://pagead2.googlesyndication.com/pagead/gen_204?id=gmob-apps",
+        "https://plus.google.com/",
+        "http://play.google.com/store/apps/category/GAME",
+        "https://play.google.com/store/apps/details?id=%1$s&rdid=%1$s&rdot=%2$d",
+        "https://plus.google.com/%s/about",
+        "https://play.google.com/store/apps/details",
+        "http://www.google-analytics.com",
+        "https://ssl.google-analytics.com",
+        "https://www.googletagmanager.com",
+        "http://hostname/?",
+        "https://ssl.gstatic.com/accessibility/javascript/android/",
+        "https://collect.tealiumiq.com/vdata/i.gif?tealium_account=",
+        "https://tags.tiqcdn.com/utag/%s/%s/%s/mobile.html?%s=%s&%s=%s&%s=%s",
+        "http://*/*",
+        "https://*/*",
+        "http://localhost:",
+        "https://datacloud.tealiumiq.com/%s/%s/8/i.gif?data=",
+        "https://collect.tealiumiq.com/vdata/i.gif?tealium_vid=%s&tealium_account=%s&tealium_profile=main",
+        "https://www.googleapis.com/auth/games_lite",
+        "https://www.googleapis.com/auth/games"
+    ]
+}

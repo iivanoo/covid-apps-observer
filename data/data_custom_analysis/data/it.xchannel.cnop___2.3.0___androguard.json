@@ -1,0 +1,24 @@
+{
+    "permissions": [
+        "android.permission.READ_CONTACTS",
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        "com.google.android.c2dm.permission.RECEIVE",
+        "android.permission.INTERNET",
+        "it.xchannel.cnop.permission.C2D_MESSAGE"
+    ],
+    "activities": [
+        "it.xchannel.cnop..mblandroid"
+    ],
+    "urls": [
+        "http://www.amazon.com/gp/mas/get-appstore/android/ref=mas_mx_mba_iap_dl",
+        "http://schemas.android.com/apk/res/",
+        "http://inneractive-assets.s3.amazonaws.com/m2m-statics/ia_x.png",
+        "http://wv.inner-active.mobi/simpleM2M/",
+        "http://ia-test.inner-active.mobi:8080/simpleM2M/",
+        "http://inneractive-assets.s3.amazonaws.com/m2m-statics/ia_bar_bg.png",
+        "http://inneractive-assets.s3.amazonaws.com/m2m-statics/ia_back.png",
+        "http://inneractive-assets.s3.amazonaws.com/m2m-statics/ia_forward.png",
+        "http://inneractive-assets.s3.amazonaws.com/m2m-statics/ia_refresh.png",
+        "http://inneractive-assets.s3.amazonaws.com/m2m-statics/ia_close.png"
+    ]
+}
