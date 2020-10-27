@@ -70,13 +70,6 @@
         "latest_crawl": 1603525144
     },
     {
-        "id": "gov.adph.exposurenotifications",
-        "store_country": "us",
-        "store_lang": "us",
-        "latest_crawled_version": "v1.3",
-        "latest_crawl": 1603525151
-    },
-    {
         "id": "com.proudcrowd.exposure",
         "store_country": "us",
         "store_lang": "us",
