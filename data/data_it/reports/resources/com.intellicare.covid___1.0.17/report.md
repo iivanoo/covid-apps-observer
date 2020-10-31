@@ -141,6 +141,8 @@ The LAZIOdrCovid app has been installed by more than **100000** times. At this t
 <img src="5_star_reviews_wordcloud.png" alt="com.intellicare.covid 5 reviews"/>
 </p>
 
+> Credo che sia unottima protezione.<br> :date: __2020-10-24 15:02:19__
+
 > Tolto accesso, prego provvedere non mi invia sms per attivare<br> :date: __2020-10-21 12:26:52__
 
 > App veramente chiara e immediata. Semplicissima da utilizzare<br> :date: __2020-10-12 08:58:04__
@@ -158,8 +160,6 @@ The LAZIOdrCovid app has been installed by more than **100000** times. At this t
 > Mai servita ma sembra scorrevole e semplice<br> :date: __2020-08-27 09:58:32__
 
 > Applicazione utile e ben fatta.<br> :date: __2020-08-27 07:48:42__
-
-> Efficace<br> :date: __2020-08-15 20:15:43__
 
 
 
@@ -253,6 +253,14 @@ The LAZIOdrCovid app has been installed by more than **100000** times. At this t
 <img src="1_star_reviews_wordcloud.png" alt="com.intellicare.covid 1 reviews"/>
 </p>
 
+> Se vi contaggiate vi diranno di scaricarla per seguire a distanza i dati che inserite giornalmente, ditegli che preferite essere chiamati al telefono quotidianamente.<br> :date: __2020-10-30 20:54:27__
+
+> Ma perché prima di capire le funzionalità o di accedere all'app devo dare il consenso di accedere ai miei file e scattare video o foto? Aggiornamento: e perché non spiegarlo all'utente direttamente nell'app o chiedere il consenso solo nel momento in cui l'app deve effettuare quella operazione?<br> :date: __2020-10-30 18:44:49__
+
+> Provato a contattare il medico. Nessuna risposta, viene il dubbio che dietro non ci sia proprio nessuno....<br> :date: __2020-10-26 23:39:09__
+
+> Si invia il messaggio al medico o l'autovalutazione ma nulla attesta la presa in carico, la consegna o la lettura. Come scrivere al niente.<br> :date: __2020-10-25 22:30:03__
+
 > Nella sezione "Contatta il tuo medico" non compare nessuno<br> :date: __2020-10-21 10:33:57__
 
 > non mi fa nemmeno accedere. In 40 minuti non arriva mai l'sms (il numero è scritto bene ho controllato più volte) per accedervi e non riesce nemmeno a trovare il mio codice fiscale<br> :date: __2020-10-15 12:30:22__
@@ -264,13 +272,5 @@ The LAZIOdrCovid app has been installed by more than **100000** times. At this t
 > Non serve a un c... Avolo! Test inutile. Non risponde nessuno ai contatta... Che senso ha?<br> :date: __2020-10-06 21:06:08__
 
 > Assolutamente inutile, "Contatta il mio medico" non riceve risposta, i questionari inutili e il numero verde cade la linea. Un'altro ottimo utilizzo dei soldi pubblici e complimenti alla solita raccolta di raccomandati LazioCrea.<br> :date: __2020-10-04 20:23:55__
-
-> App inutile.... Complimenti<br> :date: __2020-09-26 10:28:52__
-
-> Veramente inutile! Inutile come il numero verde di emergenza che non risponde. Inutile come il 115 (numero di emergenza medica nazionale) che rimanda al numero verde che rimanda a questa applicazione. Poi ci domandiamo perché stiamo ancora in emergenza...<br> :date: __2020-09-24 22:12:52__
-
-> Assolutamente inutile. Dopo l'ultimo.aggiornamento chiede sempre la registrazione ed ogni volta la conferma sms viene ignorata. Ad ogni modo anche quando funzionava non è servita a nulla, non ha mai funzionato contatta il mio medico. La disinstallerò<br> :date: __2020-09-09 08:11:02__
-
-> Il medico non ha mai risposto e le altre funzioni non danno alcun valore aggiunto. Chissà se qualcuno riceve i dati e li lavora veramente.<br> :date: __2020-09-05 09:20:39__
 
 

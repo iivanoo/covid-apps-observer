@@ -248,6 +248,8 @@ The Asistencia COVID-19 app has been installed by more than **100000** times. At
 <img src="1_star_reviews_wordcloud.png" alt="es.gob.asistenciacovid19 1 reviews"/>
 </p>
 
+> No me gusta todavía no es disponible la app para Andalucía<br> :date: __2020-10-25 15:16:42__
+
 > Falta de información en la provincia de Coruña Galicia<br> :date: __2020-10-19 14:06:39__
 
 > No funciona<br> :date: __2020-10-08 22:26:52__
@@ -265,7 +267,5 @@ The Asistencia COVID-19 app has been installed by more than **100000** times. At
 > No se abre al<br> :date: __2020-09-15 14:01:30__
 
 > No se descarga<br> :date: __2020-09-13 09:09:24__
-
-> No me manda el codigo por sms,lo solicite varias veces<br> :date: __2020-09-11 15:21:15__
 
 

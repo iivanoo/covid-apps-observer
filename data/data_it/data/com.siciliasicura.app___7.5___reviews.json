@@ -1,5 +1,17 @@
 [
     {
+        "reviewId": "gp:AOqpTOHlqpo51ySuYXGVq8xjMyiS_3gLEf7AiUj73aiZwDeJ1R5NZba1peHr3YROMAIfcH-N5CJvzBlmukEf",
+        "userName": "Massimo",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GizSqD_uRWDfslxA6m9EO0Sq8yayslDTZ8Unq-Bhw",
+        "content": "App inutile",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "7.5",
+        "at": "2020-10-29 18:34:43",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOE4BgLCzJViVOk7kesmuhTYDmTo4WymVsexruWDlgUWF8O2qu2jBRHT7XYTxUVuFmdxjJ5xvU5jkywc",
         "userName": "Giada Villa",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiJDCTxvidQPNt52VQUH6OQUMinvQ9gz-59bPSB3sQ",
@@ -293,7 +305,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-q0EYNZgxTlc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnH1ALXQN63DQ-NwdBB30jwPZW7EA/photo.jpg",
         "content": "Sono un siciliano residente in altra regione. Leggendo i commenti di altri utenti, a prescindere dai commenti sull'utilit\u00e0 o meno dell'app, ero un po' scettico sulla sua funzionalit\u00e0. Tuttavia, dalla mia esperienza posso dire che non ho avuto problemi durante la registrazione. Sono riuscito a fare il check-in ed il check-out del mio gruppo (io e la mia compagna) con facilit\u00e0. Spero che questa piccola accortezza possa essere utile per la sicurezza di tutti.",
         "score": 5,
-        "thumbsUpCount": 16,
+        "thumbsUpCount": 17,
         "reviewCreatedVersion": "7.5",
         "at": "2020-08-26 15:57:11",
         "replyContent": null,

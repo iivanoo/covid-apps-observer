@@ -160,6 +160,8 @@ The OpenWHO app has been installed by more than **1000000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="de.xikolo.openwho 5 reviews"/>
 </p>
 
+> Bien bon courage<br> :date: __2020-10-30 17:25:39__
+
 > Ouverture<br> :date: __2020-10-15 21:57:46__
 
 > Très spécial WHO<br> :date: __2020-10-03 01:58:38__
@@ -177,8 +179,6 @@ The OpenWHO app has been installed by more than **1000000** times. At this time,
 > Ce bon<br> :date: __2020-05-29 05:54:46__
 
 > Meilleurs façons d'apprentissage Merci aux concepteurs<br> :date: __2020-05-22 15:49:15__
-
-> Très intéressant<br> :date: __2020-05-20 21:42:01__
 
 
 

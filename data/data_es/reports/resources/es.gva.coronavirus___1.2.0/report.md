@@ -179,6 +179,10 @@ No recent reviews available with 2 stars.
 <img src="1_star_reviews_wordcloud.png" alt="es.gva.coronavirus 1 reviews"/>
 </p>
 
+> Super lento<br> :date: __2020-10-28 14:24:20__
+
+> Le he puesto mi numero de SIP y mi nacimiento,le pulso a acceder y no hace nada...<br> :date: __2020-10-25 19:44:56__
+
 > Me dice q los datos son erroneos y no me permite abrirla<br> :date: __2020-10-02 23:55:51__
 
 > No tengo ni idea de por qué no funciona la nacional Y además porqué , no informan de esta nueva aplicación y para que sirve Vergüenza siento de sus protocolos<br> :date: __2020-09-28 19:50:34__
@@ -194,9 +198,5 @@ No recent reviews available with 2 stars.
 > No sirve para nada<br> :date: __2020-09-05 17:05:12__
 
 > Radar Covid ya y dejaros de chapuzas ineptos<br> :date: __2020-09-01 23:04:00__
-
-> Me parece fatal que quiera ver el mapa de contagio si voy a valencia y que no pueda verlo por no estar empadronado o no tener el SIP es algo inutil.. vaya aplicacion ..<br> :date: __2020-08-10 15:37:36__
-
-> Mala<br> :date: __2020-07-05 18:02:44__
 
 

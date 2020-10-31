@@ -133,6 +133,16 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 <img src="5_star_reviews_wordcloud.png" alt="au.gov.health.covidsafe 5 reviews"/>
 </p>
 
+> Great app that restricts me from disabling my location or GPS!!!<br> :date: __2020-10-30 06:59:21__
+
+> Created very quickly.<br> :date: __2020-10-29 22:28:43__
+
+> Is good<br> :date: __2020-10-28 22:54:05__
+
+> Quite happy nowing what this can mean to me and my family.. at work as i take temps at vline pod a.all staff and visitors. Haven't had any problems with high temps at all. Thank god.<br> :date: __2020-10-26 05:10:33__
+
+> Very good<br> :date: __2020-10-26 03:33:08__
+
 > Fantastic app<br> :date: __2020-10-24 08:06:23__
 
 > Peace of mind<br> :date: __2020-10-23 16:34:50__
@@ -143,16 +153,6 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 
 > Working fine. For a long time, I was unable to register, but now working. Feeling safer, knowing I will be alerted if I come into contact with a known case.<br> :date: __2020-10-21 12:47:18__
 
-> Great<br> :date: __2020-10-21 05:15:49__
-
-> Good<br> :date: __2020-10-19 13:47:58__
-
-> No issues with the COVID Safe app since I downloaded it months ago. It just runs in the background hassle free.<br> :date: __2020-10-16 22:20:29__
-
-> Hope it does it's job<br> :date: __2020-10-16 04:20:46__
-
-> 😁<br> :date: __2020-10-14 04:10:13__
-
 
 
 #### 4-star reviews
@@ -160,6 +160,14 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="au.gov.health.covidsafe 4 reviews"/>
 </p>
+
+> Any thoughts about adding a QR code reader to this app?<br> :date: __2020-10-28 03:53:25__
+
+> A m still in when l look at spinning wheel okay?..<br> :date: __2020-10-27 02:35:54__
+
+> 👍👍👍👍👍<br> :date: __2020-10-26 05:38:58__
+
+> Seems good, doesn't drain my battery. It would be good to see the app show how many daily cases in each state, not just the total of all states.<br> :date: __2020-10-24 23:07:32__
 
 > A Xxxooo io<br> :date: __2020-10-17 00:00:40__
 
@@ -173,14 +181,6 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 
 > STRUCTUREDOOIOZSAQWWWW<br> :date: __2020-10-05 04:30:43__
 
-> This app has no effect on any aspect of your life unless you come into contact with someone else who has the app AND also has a positive test for COVID. all the scare-mongering about it comes from morons.<br> :date: __2020-10-02 13:06:27__
-
-> Good<br> :date: __2020-10-02 12:00:43__
-
-> Essential to help contains the virus<br> :date: __2020-10-01 00:01:22__
-
-> Would be nice if it had a built-in QR reader so it can provide my encrypted details when checking-in to restaurants, so I don't have to give them my personal details.<br> :date: __2020-09-28 02:12:44__
-
 
 
 #### 3-star reviews
@@ -189,7 +189,9 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 <img src="3_star_reviews_wordcloud.png" alt="au.gov.health.covidsafe 3 reviews"/>
 </p>
 
-> Good concept, but after last update, frequently getting notifications that it is not active although when I open the app it is active. Which is it?. I do have permissions for location<br> :date: __2020-10-23 06:28:20__
+> I really like the idea of this app if it actually worked... But it doesn't. It continually pops up notifications telling me it's not connected because my Location isn't open when it clearly is. I've also now noticed that even though I have selected Auto Update so I will get the most recent numbers it's not updating either. Example: NSW has been showing most recent number as 14 new cases for days & I had just seen the Premier's speech for today & we have 4 new cases. Even allowing for 24hour turnaround that is still wrong. I'll be interested to see homuch longer we are consistently getting 14 new cases per day. C'mon techs we expect much better than this when you pushed so hard for everyone to download this app. There's no point in having it that I can see. If anyone knows a Web page that simply gives current updates per area searched please help me as I'm in the very high risk category & would like to be aware if/when there's new cases to be aware of. Thanks everyone it sure looks to me like the online community will be more help to me than the official govt app at this point. Unless of course they put the effort in to have it work properly because short of a miracle we are stuck with this virus for the forseeable future &ppossibly beyond.<br> :date: __2020-10-30 02:07:56__
+
+> I don't get codes will I need two get scanning or anything else if you'll be pretty please do something about this I will be gripple<br> :date: __2020-10-26 06:36:18__
 
 > I'd been using this OK for months and (probably after an update) I discovered it was asking for location access and no battery optimisation. Having allowed those, it started draining the battery - 27% one day. I removed it, rebooted the phone and reinstalled the app. So far so good today. About 5th in the list of battery users at 1.8%.<br> :date: __2020-10-23 06:28:19__
 
@@ -207,8 +209,6 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 
 > No idea what the app actually does. Seems useless so uninstalled. Perhaps if there was information or statistics about successful contact tracing using data collected from the app I would keep it updated.<br> :date: __2020-10-15 00:26:30__
 
-> Not sure that it's working though.<br> :date: __2020-10-13 00:23:58__
-
 
 
 #### 2-star reviews
@@ -216,6 +216,14 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="au.gov.health.covidsafe 2 reviews"/>
 </p>
+
+> I used to be able to check my km radius from my home, but can't seem to access that function any longer<br> :date: __2020-10-29 23:10:30__
+
+> Says it needs internet. Notification always on. Annoying.<br> :date: __2020-10-26 12:10:10__
+
+> On s20 ultra need to restart the app if your phone battery died on you by overuse as it doesn't start automatically when you run out of juice mostly when I'm streaming videos. Took a star off due to the generic email response from customer service<br> :date: __2020-10-26 07:35:10__
+
+> Last 10 days it has switching off<br> :date: __2020-10-25 23:11:55__
 
 > Why does the app keep stopping on my android?<br> :date: __2020-10-24 01:46:16__
 
@@ -229,14 +237,6 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 
 > I like the idea in principal but jeez it sucks power out of the battery<br> :date: __2020-10-19 16:20:13__
 
-> Does not updated numbers daily<br> :date: __2020-10-16 11:24:08__
-
-> 5.5mm 600mm has 8o9l8y<br> :date: __2020-10-16 07:24:23__
-
-> Be nice if it worked. Despite having the battery optimisation turned off for this app, it keeps coming up "inactive" and telling me to change the setting. I agree and it says active. A few minutes later I get a notification that it's inactive again.<br> :date: __2020-10-15 04:41:05__
-
-> Doesn't tell me if there are cases nearby, which would be the most important thing it could do. Who cares about the number of cases , I can get that info on the news.<br> :date: __2020-10-12 14:11:12__
-
 
 
 #### 1-star reviews
@@ -245,24 +245,24 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 <img src="1_star_reviews_wordcloud.png" alt="au.gov.health.covidsafe 1 reviews"/>
 </p>
 
-> chews battery<br> :date: __2020-10-24 01:04:55__
+> Irresponsible that qr code check-in has not been implemented. Australians are losing their private data to third parties. The government needs to step up, and protect the privacy of Australians, and provide a safer means to qr code check-in.<br> :date: __2020-10-31 03:25:32__
 
-> My phone doesn't allow me to give the app location permission all the time. The options I have are: Allow only while using the app, Ask every time, and Deny. Is this an Android 11 problem? When will it be fixed?<br> :date: __2020-10-23 11:13:04__
+> Location fails, doesn't allow me to select allow location all the time currently set to when in use. App is saying it still requires permission thus isnt working. S10NOTE<br> :date: __2020-10-30 23:39:51__
 
-> Could have been useful if they built QR scanner in & allowed business to generate codes like service NSW did. Too slow to pivot once it was found Bluetooth not reliable enough.<br> :date: __2020-10-23 05:36:57__
+> I literally have to have the app open, on the screen, for it to be active now, I don't have the option to give it location access all the time<br> :date: __2020-10-30 07:07:08__
 
-> Went work<br> :date: __2020-10-23 04:33:17__
+> Drained my battery today. Please investigate possible bug. Update: Drained again...uninstalling now. I need more than half a day of battery...<br> :date: __2020-10-30 06:48:38__
 
-> App keeps crashing on reboot and launch. Update: still crashing on my Pixel 2 XL.<br> :date: __2020-10-23 02:58:02__
+> Information and updates are so out of date it's ridiculous<br> :date: __2020-10-30 00:25:38__
 
-> Crashes when I try to turn it on<br> :date: __2020-10-22 11:19:54__
+> I uninstalled this app. I dose nothing for me. It would be nice if it warned me if I was in area that covid was report or gave me some kind of active warnings.<br> :date: __2020-10-29 23:56:27__
 
-> Got rid of it<br> :date: __2020-10-22 08:17:31__
+> App no longer works if location is off and the App website states that Google require this for Bluetooth to work. This contradicts the fact that my other apps use Bluetooth fine w/o location on. Contact tracing does not need to know where I was, just who I contacted. And Google certainly does not need to know where I was. Will be leaving disabled.<br> :date: __2020-10-29 22:27:53__
 
-> Great concept app but heats up phone and battery killer after latest update.<br> :date: __2020-10-22 07:29:28__
+> Biscuit, engrui, O U do people o dont do sorry U ruet,, old people where dei ef to go 4a test, tink U scam before rules ere on dis vir19 it is all buscit,b4mons I trust end no way naw chen U immagine a old people no car no mating U tell me smarass I would put r famili scambeg, where do wee ef to go four a vir taste I live in Newport no bus 4test all smarass, Vic govern give same Mony U San ov a bich Mony U andstend Vic premier if u whont economic go hap give same Mony basted no the rich bastd<br> :date: __2020-10-29 18:39:22__
 
-> Drained my battery today. Please investigate possible bug<br> :date: __2020-10-21 09:56:03__
+> Useless app.<br> :date: __2020-10-29 12:57:47__
 
-> Was OK. But now it's SMASHING my battery. It's by far the main user of my battery ... delete<br> :date: __2020-10-21 07:46:17__
+> I suggest everybody uninstalls this app. Running my own sw company I cannot see any justification neither for the original budget nor the approved increase from 2m to 5m. Alone for hosting they claim $800k is required. The app is supposedly storing the data on the device not in the cloud, why would cloud hosting cost that much then? Think yourself... This app should never have costed more than 0.5m to 1m.<br> :date: __2020-10-29 11:20:14__
 
 

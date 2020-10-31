@@ -1,0 +1,35 @@
+{
+    "permissions": [
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.INTERNET",
+        "android.permission.BLUETOOTH",
+        "android.permission.FOREGROUND_SERVICE",
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        "android.permission.WAKE_LOCK"
+    ],
+    "activities": [
+        "gov.adph.exposurenotifications.UI.settings.About",
+        "gov.adph.exposurenotifications.UI.settings.PrivacyPolicy",
+        "gov.adph.exposurenotifications.UI.settings.TermsOfService",
+        "gov.adph.exposurenotifications.UI.settings.SettingsActivity",
+        "gov.adph.exposurenotifications.UI.exposure.ExposureActivity",
+        "gov.adph.exposurenotifications.UI.notify.NotifyActivity",
+        "gov.adph.exposurenotifications.UI.home.MainActivity",
+        "com.google.android.gms.auth.api.signin.internal.SignInHubActivity",
+        "com.google.android.gms.common.api.GoogleApiActivity"
+    ],
+    "urls": [
+        "https://www.guidesafe.org/healthcheck-app/",
+        "https://alabamapublichealth.gov/covid19/prevention.html",
+        "https://www.cdc.gov/coronavirus/2019-ncov/index.html",
+        "https://www.guidesafe.org/exposure-notification-app/#how-exposures-work",
+        "https://covid-exposure-apim.azure-api.net/",
+        "https://accounts.google.com/o/oauth2/revoke?token=",
+        "https://plus.google.com/",
+        "https://www.googleapis.com/auth/games_lite",
+        "https://www.googleapis.com/auth/games",
+        "http://schemas.android.com/apk/res/android",
+        "http://schemas.android.com/apk/res-auto",
+        "https://covidexposure-files-store.azureedge.net/index.txt"
+    ]
+}

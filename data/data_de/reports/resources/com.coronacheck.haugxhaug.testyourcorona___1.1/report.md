@@ -192,6 +192,10 @@ The Corona Check Screening app has been installed by more than **5000** times. A
 <img src="1_star_reviews_wordcloud.png" alt="com.coronacheck.haugxhaug.testyourcorona 1 reviews"/>
 </p>
 
+> Absoluter Mist nur Fehler<br> :date: __2020-10-30 20:40:34__
+
+> Funktioniert nicht aber reagiert nicht richtig<br> :date: __2020-10-26 19:39:47__
+
 > Müll Infos wie uberall<br> :date: __2020-06-22 21:22:52__
 
 > Diese App hat NICHTS mit der Corona warn app der Bundesregierung zu tun. Diese App möchte bewusst fälscherweise diesen Eindruck erwecken um an Daten zu kommen.<br> :date: __2020-06-16 23:42:15__
@@ -207,9 +211,5 @@ The Corona Check Screening app has been installed by more than **5000** times. A
 > Müll<br> :date: __2020-06-16 00:10:42__
 
 > Reinste Daten sammel Maschine selbst meine viren Schutz App hat diese app als riskant und gefährlich eingestuft Warnungen waren Daten Sicherheit und eventuell Malware Zum Glück wurde die app von der App gleich gelöscht<br> :date: __2020-06-15 19:55:00__
-
-> Um weiterhin allgemeine Sicherheit und Stabilität zu gewährleisten wird die Republik umgestaltet werden, und zwar zum ersten galaktischen Imperium. ZUM WOHLE UND NUTZEN EINER STABILEN UND SICHEREN GESELLSCHAFT.<br> :date: __2020-06-15 13:31:27__
-
-> Eine App die sehr fragwürdig ist. Was hat corona mit meiner Schulbildung zu tun? Warum will sie auf meinen Standort zugreifen wenn sie doch nicht auf tracking basiert? Finger weg von der App, die wollen nur Daten sammeln.<br> :date: __2020-06-15 12:05:15__
 
 

@@ -262,6 +262,10 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="org.madrid.CoronaMadrid 1 reviews"/>
 </p>
 
+> Ni siquiera abre la aplicación...<br> :date: __2020-10-29 12:50:37__
+
+> Una basura, activar la nacional y dejarse de tontunás. Solo da consejos, inutil como la IDA para detectar casos. Poner mas rastreadores y activar la nacional.<br> :date: __2020-10-26 10:37:22__
+
 > Es para hacer un diagnóstico no para hacer un rastreo. Ya todos sabemos cuáles son los síntomas de la covid 19<br> :date: __2020-10-18 19:39:40__
 
 > Ni si quiera se abre la app<br> :date: __2020-10-18 15:12:51__
@@ -277,9 +281,5 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 > No se puede completar el registro: tras mirar el código y volver a la app, hay que iniciar de nuevo, otro código y así no es posible registrarse.<br> :date: __2020-10-09 08:40:47__
 
 > Espantosa no, lo siguiente. Qué lástima de perdida de recursos.<br> :date: __2020-10-08 00:50:04__
-
-> No sirve. Si no muestra los contactos positivos no sirve para nada.¿ Un autodiasnostico? No hace falta tener una app para saber que te tienes que quedar en casa si tienes toda y fiebre<br> :date: __2020-10-07 13:56:16__
-
-> Fatal! Es declarativa y no me informa de los que tengo alrededor , informaticamente pobre, usar el barrido a los moviles alrededor es automatico, recomiendo usar tambien covid radar, y que los politicos nos dejen elegir a los usuarios. Estoy en Madrid y tengo miedo de ir a la ciudad, abrir covid radar a madrid y ayudar , yo dejo de votar a los actuales politicos de mi ccaa, esto es una falta de respecto, tengo varios afectados alrededor.<br> :date: __2020-10-06 21:02:45__
 
 

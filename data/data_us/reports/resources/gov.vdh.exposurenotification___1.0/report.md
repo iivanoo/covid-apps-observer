@@ -130,6 +130,18 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 <img src="5_star_reviews_wordcloud.png" alt="gov.vdh.exposurenotification 5 reviews"/>
 </p>
 
+> Great app to prevent Covid<br> :date: __2020-10-31 05:51:21__
+
+> Informative readable love it<br> :date: __2020-10-29 23:24:53__
+
+> Excellent. Way to track COVID @least our Highly intelligent companies Have The Brains to do so ,unlike our Current president....<br> :date: __2020-10-28 15:56:16__
+
+> Thankyou<br> :date: __2020-10-27 16:37:30__
+
+> Plus wear a mask! Thank you VDH!<br> :date: __2020-10-26 04:36:45__
+
+> I would love to what I would do it I would do it I will download it?????👍👍👍👍😍😍😍😍<br> :date: __2020-10-25 02:32:35__
+
 > M fu aiv Zbi<br> :date: __2020-10-24 06:55:44__
 
 > Nice app<br> :date: __2020-10-22 04:31:09__
@@ -138,18 +150,6 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 
 > Good<br> :date: __2020-10-21 08:20:58__
 
-> Thanks Virginia! It seems like it would be beneficial to be able to input negative tests as well.<br> :date: __2020-10-21 05:37:55__
-
-> So far so good<br> :date: __2020-10-21 03:08:43__
-
-> That is very good 👍 to let people no about that stuff going on around here<br> :date: __2020-10-19 17:10:41__
-
-> Does as stated. Does not send location or user info to google. Uses bluetooth to see if you came in range/contact with someone else that has the app and has been marked positive for covid. If you have within the 2 weeks you will get a notification. All info is stored on your phone.<br> :date: __2020-10-18 05:25:59__
-
-> This app is brilliant and it's sort of tragic how many people have no idea it exists.<br> :date: __2020-10-18 03:57:39__
-
-> 👍Needs to be nationwide in the U.S. Please download for yourself, if for no one else. Simple. Easy: to use, to understand how the technology works, & to navigate the app itself. Does *NOT* harvest ur data w/out ur knowledge &/or consent, sell your data, or spy on you or others. Uses Bluetooth. No sign up necessary. No login, no passwords, not asking for any permissions besides 🟦🦷 No location/GPS tracking. THANKS VA! If ur not in VA download this anyway, pls! Tell every1 u can irl & online 😷<br> :date: __2020-10-15 07:17:37__
-
 
 
 #### 4-star reviews
@@ -157,6 +157,8 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="gov.vdh.exposurenotification 4 reviews"/>
 </p>
+
+> I am new to this app, so ask me later.<br> :date: __2020-10-30 00:32:34__
 
 > Would like to know if this is helpful for west virginians as well as I do not see a app for wv. I see alot for different states just not wv. Let me know if I can use this.<br> :date: __2020-10-23 05:35:06__
 
@@ -176,8 +178,6 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 
 > Hahaha! So funny thing, I just installed the app thinking this would work... No wonder it didn't work! I never noticed this was an app made only for the state of Virginia! I'm in Florida where these cases are 😵😵💫💫... But it seems like an easy interface to use, and wish Florida could develop something like this. And even if they did, I would really hope people would give honest reports, but that may just be wishful thinking. I know my people, Floridians are crazy!🤦🏾‍♀️<br> :date: __2020-09-04 04:28:33__
 
-> Would be five stars but It would be rad if the app didn't send a weekly notification that notifications are on. I about soil myself Everytime.<br> :date: __2020-08-27 23:15:04__
-
 
 
 #### 3-star reviews
@@ -185,6 +185,8 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="gov.vdh.exposurenotification 3 reviews"/>
 </p>
+
+> I really appreciate what this app is trying to do, but for some reason it keeps turning location services off on its own? I'll randomly get a notification that my C ovidwize notifications have been enabled only to discover it hasn't been scanning for the last couple of weeks.<br> :date: __2020-10-27 14:52:37__
 
 > Hi guy this corona virus is started from USA from 666 group so please please search and know about it but there is something all of u if pray if u Prostration to god only to orthodox tawahdo faith in ethiopian church trust me.you get the real rest of soul..so there is something coming to all of u in to 2021 there is Suffering so please please be ready come and search obout ethiopian orthodox if uget and become know and do it you are gare out this suffering so please share this for your freinds<br> :date: __2020-10-21 06:34:30__
 
@@ -203,8 +205,6 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 > Doesn't use location, but requires location services to be on to work. I leave mine off when not in use, because most other apps aren't so privacy-conscious. By requiring GPS, this app creates security concerns that outweigh its benefits. While THIS app isn't directly compromising my privacy, its permissions requirements open a privacy hole for OTHER apps to use. Android *doesn't* require location for Bluetooth or BLE (I use both), but it unfortunately does for this app's BLE tag tracking.<br> :date: __2020-09-04 17:56:12__
 
 > Difficult to understand the terminology, may often leave you scratching your head.<br> :date: __2020-08-31 04:16:45__
-
-> The app is really good about not taking information, however, consistently enabling Bluetooth in a public space is a major opportunity for cybercriminals to hack devices, steal personal information, and wreak havoc. Bluetooth is too major of a threat vector for me to consider enabling this app. Great idea, poor execution.<br> :date: __2020-08-13 21:01:34__
 
 
 
@@ -242,6 +242,14 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 <img src="1_star_reviews_wordcloud.png" alt="gov.vdh.exposurenotification 1 reviews"/>
 </p>
 
+> This is a scam to get your personal information.<br> :date: __2020-10-28 14:11:44__
+
+> This is what i have to say. THE KUNGFLU IS A JOKE, UR A JOKE TO FOR WEARING UR MASKS, I WONT EVEN GET A VAX FOR THE KUNGFLU. UR ALL CLOWNS IN MY BOOK. I TRUST GOD I DONT TRUST MAN. I HOPE THIS APP GETS A VIRUS, LOL!<br> :date: __2020-10-28 05:53:26__
+
+> Not very accurate. Sorry if the truth hurts.<br> :date: __2020-10-27 12:13:05__
+
+> So your telling me when someone knowinly has covid-19 they're going to report it to an app and still walk around by people without being self quarantined? Believe me if they're doing that they could care less anyway so they're not going to put it in the app. It's like putting a sign on their back and walk around. Even though it's the right thing to do I don't believe that someone would knowingly have it report it in an app to let everybody else know they have it and still walk around in crowds<br> :date: __2020-10-27 02:44:07__
+
 > While I understand and appreciate what the app is trying to do, the app checking my location consistently at 1am, and 3am is crazy! It is not checking my location when I am actually out and about during the day. I will be deleting this as I find that for me, it is worthless. Based on reply..let me correct that to exposure checks at 2+am, 3+am, 4+am, 5+am, do no good for me as thats when I'm home asleep. Those are the check times that have been reported to me.<br> :date: __2020-10-23 16:18:08__
 
 > Can't review this app when it doesn't run. After installing on my Pixel 4xl, I try to run it and it says "Internal error, please try again". Subsequent retries are futile as I get the same error repeatedly.<br> :date: __2020-10-21 18:27:41__
@@ -253,13 +261,5 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 > Unable to turn on notifications. Get internal error message<br> :date: __2020-10-21 04:09:48__
 
 > What is this all about? Is the flu going around? so what?<br> :date: __2020-10-21 03:03:47__
-
-> I hate this app it's so scary what is nothing what what if something bad happened by covid 19 I don't like this app at all I hate it 😨😨😨😨😨😨😰😰😰😰😓😓😓😭😭😭💦💦💦💦😡😡😡😡😠😡😠😡😠😡😠😡😠😡😠😡😠😡😐😱😱😱😱🤯🤯🤯🤯😵😵😵😵🤢🤢🤢🤢😫😫🤮🤮🤮🤮🤕🤕🤕<br> :date: __2020-10-20 20:07:18__
-
-> I don't want a recommendation for this app. Thank you<br> :date: __2020-10-20 01:22:19__
-
-> Hard to use<br> :date: __2020-10-18 06:08:08__
-
-> covid=fake af<br> :date: __2020-10-17 08:35:46__
 
 

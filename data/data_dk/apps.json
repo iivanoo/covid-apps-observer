@@ -3,21 +3,21 @@
         "id": "org.who.infoapp",
         "store_country": "dk",
         "store_lang": "dk",
-        "latest_crawled_version": "3.1",
-        "latest_crawl": 1603527578
+        "latest_crawled_version": "3.1.1",
+        "latest_crawl": 1604142995
     },
     {
         "id": "de.xikolo.openwho",
         "store_country": "dk",
         "store_lang": "dk",
         "latest_crawled_version": "3.6",
-        "latest_crawl": 1603527584
+        "latest_crawl": 1604143042
     },
     {
         "id": "com.netcompany.smittestop_exposure_notification",
         "store_country": "dk",
         "store_lang": "dk",
-        "latest_crawled_version": "1.1",
-        "latest_crawl": 1603527589
+        "latest_crawled_version": "1.2",
+        "latest_crawl": 1604143582
     }
 ]

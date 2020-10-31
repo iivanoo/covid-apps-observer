@@ -238,6 +238,10 @@ The Minutis Mobile app has been installed by more than **10000** times. At this 
 <img src="1_star_reviews_wordcloud.png" alt="org.crf.minutis 1 reviews"/>
 </p>
 
+> Comment se connecter quand on a pas compte sur cette application je viens juste installé qu'il m'identifier alors j'ai pas m'inscrire ?????<br> :date: __2020-10-30 07:02:27__
+
+> Pas assez de téléchargement<br> :date: __2020-10-26 21:16:33__
+
 > Je vous conseille de ne pas installer cette appli!!!!!!<br> :date: __2020-08-03 23:00:35__
 
 > Quand en ouvre l application on nous demande de se connecter mais moi je n ais pas se compte et il y a pas créé un compte<br> :date: __2020-04-07 22:28:21__

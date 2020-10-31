@@ -175,6 +175,8 @@ The CONFINAPP app has been installed by more than **10000** times. At this time,
 <img src="1_star_reviews_wordcloud.png" alt="cat.gencat.mobi.confinApp 1 reviews"/>
 </p>
 
+> App que només ha estat útil durant un parell de mesos. Es podria seguir fent sevir per indicar les mesures en vigor i per gestionar certificats de desplaçament, però inexplicablement s'ha deixat d'actualitzar, com totes les apps que va idear la Generalitat per la situació CoVID-19 en un inici. Apps inútils que han costat diners públics.<br> :date: __2020-10-28 21:47:50__
+
 > Penosa app, se rien en tu cara<br> :date: __2020-07-01 10:52:14__
 
 > No puedo crear mi perfil Pongo lo que pide pero no me da la opción de finalizar mi perfil<br> :date: __2020-06-11 20:59:07__
@@ -192,7 +194,5 @@ The CONFINAPP app has been installed by more than **10000** times. At this time,
 > He instal·lat l'aplicació per resoldre els dubtes dels horaris de passeig per edats, i el més que he trobat és el BOE. Molt pràctica com que no. Espavileu.<br> :date: __2020-05-07 19:30:06__
 
 > En un principio generaba certificados ahora no lo hace y no me sirve para nada<br> :date: __2020-05-06 08:59:27__
-
-> Fatal, li pregunto sobre animals de companyia, les normes i no hi ha manera de que em respongui. Desinstal-lo!<br> :date: __2020-05-05 12:31:40__
 
 

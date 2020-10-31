@@ -239,6 +239,8 @@ The Rakning C-19 app has been installed by more than **50000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="is.landlaeknir.rakning 1 reviews"/>
 </p>
 
+> Tilkynning sem á alltaf að vera, hverfur. Er appið samt að rekja eða er þetta bara frat?<br> :date: __2020-10-24 12:16:13__
+
 > Óánægður með þetta app er með nýjan síma með nýrri rafhlöðu og þurfti að hlaða sjaldan þar sem hann er nýr, svo sótti ég apppið og rafhlaðan bara lekur liggurvið, get jafnvel horft á prósentin hverfa. Þetta þarf að laga ef að eg á að vera með þetta app.<br> :date: __2020-10-18 13:16:17__
 
 > Það er lítið gagn af þessu nauðsynlega appi ef það er engan veginn hægt treysta því að það sé virkt 24/7... dettur út á 2-3 daga fresti og þarf því að ræsa það endurtekið þess vegna!!<br> :date: __2020-10-04 00:56:15__
@@ -256,7 +258,5 @@ The Rakning C-19 app has been installed by more than **50000** times. At this ti
 > Gekk vel að ná í þetta app<br> :date: __2020-04-05 19:26:40__
 
 > Get ekki gert neitt er með S10 og bara siða a 3 tungumalum frosin<br> :date: __2020-04-05 00:56:48__
-
-> Kemst ekkert áfram. Frosinn skjár á 3 tungumálum og ekkert hægt að gera. Gekk eins og í sögu hjá manninum mínum en við erum með eins síma 😳<br> :date: __2020-04-04 21:49:40__
 
 

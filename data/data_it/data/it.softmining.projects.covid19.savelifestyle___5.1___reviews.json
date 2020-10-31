@@ -1,5 +1,17 @@
 [
     {
+        "reviewId": "gp:AOqpTOE30wA0RaCbKxRZ5SPzKf2LZ2H5oWtr2SCZ4EJlPHlvbmqvg5T7iPR7tIYFgfGDDjeThoOID5xJM6MpX4o",
+        "userName": "Luca Cappella",
+        "userImage": "https://play-lh.googleusercontent.com/-e92qR1TbQpc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckR-N5oA2mSUvjr_DrKqnVqupoZKw/photo.jpg",
+        "content": "Ottima Grazie",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "5.1",
+        "at": "2020-10-26 15:50:55",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOH2c6o59oKzBb-PnwNXI1OxipIf8sxfkO1a-kHlwolOA4I87A34mXhiq7NJgkX7xwOe9_7OHVlFKIMS01U",
         "userName": "guido torella",
         "userImage": "https://play-lh.googleusercontent.com/-wtnzVxeqdWI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckhMlSVp_lQCyogDAOpqCE4R7d2Ig/photo.jpg",
@@ -1337,7 +1349,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgPxV02F1_PPxI8knKfGQLr5fviRAUNyWWv5tS23A",
         "content": "Oggi disinstallo l'app dopo 2 mesi di utilizzo perch\u00e9 ho installato ieri Immuni. Lo Stato d'altronde ha sviluppato internamente l'app ufficiale e ha deciso di non utilizzare la vostra. Non trovo utilit\u00e0 ad utilizzare la vostra app in quanto priva del rapporto ufficiale con le istituzioni. Ho contribuito con i miei dati al test di Sm_covid19 e mi auguro la softmining possa trovare vantaggio di questo e nel futuro sviluppare altre app utili. Ciao e buon lavoro",
         "score": 5,
-        "thumbsUpCount": 10,
+        "thumbsUpCount": 12,
         "reviewCreatedVersion": "3.6",
         "at": "2020-06-07 12:35:51",
         "replyContent": "Ciao Antonio, grazie per il supporto che ci hai fornito. Sm-Covid-19 \u00e8 in grado di interagire con Immuni pertanto siamo sicuri che ci rincontreremo (virtualmente e in modo anonimo) \ud83d\ude00",
@@ -2165,7 +2177,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-n_ozKvh3cMM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmHoSKciJhDxgbWF3tpQ3lBpiYmDA/photo.jpg",
         "content": "Per ora due stelle. Piuttosto invadente, \u00e8 una notifica continua! Se si chiude arriva subito una notifica e si riapre. Non pu\u00f2 lavorare in background come tutte le altre senza sostituirsi alla schermata principale? E usare solo la geolocalizzazione senza dover tenere acceso anche il bluetooth, sia per il risparmio energetico della batteria sia per evitare inavvertitamente di concedere l'accesso al telefono ad un dispositivo sconosciuto? Aggiornamento: Ok per le notifiche, non ci sono pi\u00f9 ma KO per la whitelist perch\u00e9 non pu\u00f2 e non deve prosciugare la batteria.",
         "score": 2,
-        "thumbsUpCount": 292,
+        "thumbsUpCount": 298,
         "reviewCreatedVersion": "3.6",
         "at": "2020-05-21 09:34:47",
         "replyContent": null,
@@ -2186,7 +2198,7 @@
     {
         "reviewId": "gp:AOqpTOHnycKutDu-WzdKclNqE2mXJCO9-AynWCGagbXporeCuDbhwyPw0RFqsFGijj6YHSLDm1Yw2_RPVFyZgsk",
         "userName": "Carlo Dell'anna",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgmKVkdwhrMRRhddnfAWgqNJPkr0ZxROuHhREP9hg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhLQKwITXPB_G85vbA3QoLHdmX6SFL7L9JGXi4oXw",
         "content": "Ottima",
         "score": 5,
         "thumbsUpCount": 0,
@@ -2453,7 +2465,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiCfKVM5QH-7Kkmjwf1fwRbMoNkl0ytYIyU4J4U",
         "content": "La parte sulle statistiche va rivista, quelli che chiamate \"positivi totali\" sono gli attuali, quelli che chiamate \"positivi nuovi\" \u00e8 l'incremento giornaliero sui casi totali, quelli che chiamate \"variazione totale\" \u00e8 invece la variazione giornaliera sugli attuali. Aggiungo 2 stelle dopo gli aggiornamenti, stanno sicuramente lavorando, a questo punto mi auguro che abbia una buona diffusione visto che dell'app immuni non se ne parla neanche pi\u00f9 (altro che pronta per l'inizio della Fase 2!).",
         "score": 4,
-        "thumbsUpCount": 148,
+        "thumbsUpCount": 152,
         "reviewCreatedVersion": "3.5",
         "at": "2020-05-08 20:19:46",
         "replyContent": "Ciao Gabriele! Fatto!",
@@ -4118,7 +4130,7 @@
     {
         "reviewId": "gp:AOqpTOGpqUgEtchNdxyXvyLpvK4UoSBCrVgH4DrsJ-BPMxUHwK0xMugT2rFElVYDPMHdsIHTSRIhIEF0IAYlEWk",
         "userName": "Izrm Nzm",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GigcjaVi2nqscuN01sRInEOLpHNRiI2IgwDG72CDw",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg1-YqJ90d2-6-n6IrGHPS1DOPf9rXIr6_ZKjuI2A",
         "content": "Bravi scaricate queste caxxate tanto a cosa serve la privacy?",
         "score": 1,
         "thumbsUpCount": 4,
@@ -4441,8 +4453,8 @@
     },
     {
         "reviewId": "gp:AOqpTOHlxMD5Mi95y8qR_6wXMOQRD1EdUzpJlNz85BB5hnaPFpEaBnU6vT-luCCeA4rqSPXhXV-ckRZWkRtz-kA",
-        "userName": "sexy crips",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GggFYqkik0tD0sNI59wl8MOn9zKCH5gOg1okJ8ARw",
+        "userName": "Panee Bozzini",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiqDMJYCAa2yJisNfa22d4GW70dRlYFNVUmZDgpqg",
         "content": "Molto semplice e di facile utilizzo. Vorrei capire se tiene traccia di tutti i dispositivi incrociati o solo di quelli che hanno installato questa app.",
         "score": 4,
         "thumbsUpCount": 7,

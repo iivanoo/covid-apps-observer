@@ -159,6 +159,8 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 <img src="5_star_reviews_wordcloud.png" alt="au.gov.health.covid19 5 reviews"/>
 </p>
 
+> Helpful & informative but information overload at times.<br> :date: __2020-10-26 21:08:54__
+
 > Essential App at this time to stay safe<br> :date: __2020-10-11 15:25:41__
 
 > Everyone should be made to download<br> :date: __2020-09-27 00:27:03__
@@ -176,8 +178,6 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 > WONDERFUL IDEA<br> :date: __2020-08-25 02:16:14__
 
 > Excellent up to date information. Great initiative and helpful<br> :date: __2020-08-09 02:10:05__
-
-> It seems to work as designed 😷🤸<br> :date: __2020-08-06 10:18:45__
 
 
 
@@ -215,6 +215,8 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 <img src="3_star_reviews_wordcloud.png" alt="au.gov.health.covid19 3 reviews"/>
 </p>
 
+> No idea if it works and hope I never find out<br> :date: __2020-10-29 09:53:40__
+
 > Recent resource.<br> :date: __2020-09-07 05:43:12__
 
 > Current version will not work because it thinks my battery optimisation is on - it is off!! Please fix asap as I want a working app.<br> :date: __2020-08-03 10:44:31__
@@ -232,8 +234,6 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 > Never have received the pin to open it<br> :date: __2020-05-08 01:20:55__
 
 > Won't download past 97%<br> :date: __2020-05-07 12:21:06__
-
-> Mostly disappointed that in all government media announcements they just say 'download the app' without specifying the name of the app clearly. There are several COVID-19 apps out there now. Give it a distinctive name.<br> :date: __2020-05-07 10:02:42__
 
 
 

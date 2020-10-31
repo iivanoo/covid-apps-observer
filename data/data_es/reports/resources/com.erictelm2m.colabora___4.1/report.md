@@ -118,6 +118,12 @@ The COVID-19.eus app has been installed by more than **50000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="com.erictelm2m.colabora 5 reviews"/>
 </p>
 
+> Estoy esperimentado él resultado<br> :date: __2020-10-25 21:42:28__
+
+> Muy bien<br> :date: __2020-10-25 16:12:32__
+
+> Todavia no e visto nada en el movit ¿como os voy a decir nada ?.<br> :date: __2020-10-25 14:44:11__
+
 > Deberíamos tenerla todos por solidaridad<br> :date: __2020-10-03 23:57:39__
 
 > 🙏🙏🙏<br> :date: __2020-09-21 11:06:28__
@@ -132,12 +138,6 @@ The COVID-19.eus app has been installed by more than **50000** times. At this ti
 
 > Todo el mundo tenia que tener una aplicacion de estas caracteristicas<br> :date: __2020-07-30 19:31:10__
 
-> Muy bien con la última actualización<br> :date: __2020-07-01 23:52:10__
-
-> A mi tp me funciona desde hace 2-3 dias<br> :date: __2020-06-30 14:22:25__
-
-> Esta vaatante currada para esta situacion, bien hecho 👍👍👍👍👍👍<br> :date: __2020-06-29 12:01:17__
-
 
 
 #### 4-star reviews
@@ -145,6 +145,8 @@ The COVID-19.eus app has been installed by more than **50000** times. At this ti
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.erictelm2m.colabora 4 reviews"/>
 </p>
+
+> Tengo un dispositivo Android sin play store y no funciona esta App. Tengo un Huawei, si pueden resolver, me gustaría seguir usándola<br> :date: __2020-10-25 20:40:51__
 
 > No está claro si es radar covid Euskadi edition o solo contactos estrechos, la verdad, no estaría mal que fuera la primera, pero tiene pinta de ser la segunda, vendría bien un radar covid en euskadi, y necesita más publicidad<br> :date: __2020-09-16 00:15:11__
 
@@ -164,8 +166,6 @@ The COVID-19.eus app has been installed by more than **50000** times. At this ti
 
 > En la última actualización salta un aviso que dice...la sesión ha expirado desinstala la app y vuelve a instalarla...ya lo he hecho y salta el mismo aviso!! Además ha desaparecido la imagen de perfil.<br> :date: __2020-06-29 20:20:45__
 
-> Más sanidad y menos recortes<br> :date: __2020-06-07 19:58:52__
-
 
 
 #### 3-star reviews
@@ -173,8 +173,6 @@ The COVID-19.eus app has been installed by more than **50000** times. At this ti
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="com.erictelm2m.colabora 3 reviews"/>
 </p>
-
-> Buenos días ¿Cómo se puede editar el código postal del perfil? Muchas gracias<br> :date: __2020-10-06 07:35:43__
 
 > No es muy clara<br> :date: __2020-09-20 17:21:58__
 
@@ -193,6 +191,8 @@ The COVID-19.eus app has been installed by more than **50000** times. At this ti
 > No puedo cambiar un familiar a home si vive en mi casa, si pudiese hacerlo le daría más estrellas<br> :date: __2020-06-11 10:47:28__
 
 > Esta bien, Le falta mejoras como poder editar tu información y que se lea mejor el texto para que sea una aplicación familiar y confortable.<br> :date: __2020-06-08 03:08:14__
+
+> No se, no le acabo de ver la utilidad<br> :date: __2020-06-07 13:04:02__
 
 
 
@@ -230,6 +230,8 @@ The COVID-19.eus app has been installed by more than **50000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="com.erictelm2m.colabora 1 reviews"/>
 </p>
 
+> Que sentido tiene la app si no funciona la posibilidad de agregar contactos, otro ejemplo de como funciona la gestión de osakidetza frente a la crisis... en fin, borro la app<br> :date: __2020-10-25 14:40:50__
+
 > De momento no se si esta istalada no tengo nada que lo diga ni me lo aclaran.<br> :date: __2020-10-22 14:54:04__
 
 > No deja añadir contactos, me dice que hay una solicitud pendiente pero no hay manera de solucionarlo<br> :date: __2020-10-21 08:06:14__
@@ -247,7 +249,5 @@ The COVID-19.eus app has been installed by more than **50000** times. At this ti
 > Aparecen notificaciones push a horas extrañas con mensajes sin sentido como URGENTE, REUNIÓN, HOLA. Parece que alguien está jugando. He notificado esto al desarrollador y no contesta nadie. Parece que no hay nadie al volante. Desinstalando...<br> :date: __2020-09-17 17:25:15__
 
 > Es una broma de aplicación. Desde hace unos días aparecen notificaciones de mensajes de covid-19 eus que te llevan a la aplicación. Un día ponía "Reunión urgente", y luego "Hola", otro día "sdg", que llegó a las 12 de la noche, ahora acaba de llegar "Prueba"... Tenemos a un mono testeando la aplicación?<br> :date: __2020-09-17 08:56:40__
-
-> Me parece que es manifiestamente mejorable; como las fincas extremeñas y andaluzas, vamos!!!<br> :date: __2020-08-24 16:44:40__
 
 

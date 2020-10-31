@@ -245,6 +245,8 @@ The SiciliaSiCura app has been installed by more than **50000** times. At this t
 <img src="1_star_reviews_wordcloud.png" alt="com.siciliasicura.app 1 reviews"/>
 </p>
 
+> App inutile<br> :date: __2020-10-29 18:34:43__
+
 > Concordo con le recensioni di tutti.. Mi sono presa la briga di fare tutto l iter, ma potevo anche evitare tutto lo sbattimento. Controlli zero, nemmeno l ombra. Adesso l app ha pure smesso di funzionare dopo meno di un mese XD EDIT: non funziona dopo 1 m dal checkout. Ora l ho già disinstallato e non saprei come aiutare ora. Ma al di là di ciò: se i controlli non esistono a prescindere l App può anche considerarsi funzionante ma anche considerarsi completamente inutile ;) Saluti<br> :date: __2020-10-05 13:11:57__
 
 > Una cavolata infinita... la gente non istalla appimmuni che non richiede alcun dato sensibile per paura della privacy... qui invece occorre lasciare tutti i dati sensibili non si sa a chi... per quale utilità? Bho. Sono stato in Sicilia e nessuna struttura mi ha chiesto se avevo scaricato l'app.<br> :date: __2020-09-28 12:28:02__
@@ -262,7 +264,5 @@ The SiciliaSiCura app has been installed by more than **50000** times. At this t
 > Ci sto ancora impazzendo...<br> :date: __2020-09-09 12:38:32__
 
 > Non funziona per niente<br> :date: __2020-09-08 13:43:44__
-
-> Vengono richiesti troppi dati, la registrazione è infinita I gestori delle strutture non supportano l'applicazione. Ne ho sentito parlare solo dopo 2 settimane in Sicilia dall'ultimo gestore (ho l'impressione di essere uno dei pochissimi ad usarla). È obbligatoria?? In che modo può essere usata l'informazione sul checkout? Perché prendere la posizione? Come può la posizione GPS essere utile? Sarebbe meglio usare la prossimità Bluetooth come Immuni che per altre ragioni è comunque una porcheria<br> :date: __2020-09-04 20:08:20__
 
 

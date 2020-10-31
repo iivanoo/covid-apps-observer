@@ -283,6 +283,12 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <img src="1_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 1 reviews"/>
 </p>
 
+> Isto é uma vergonha! Agora com o covid mandam receitas sem papel e como antes não havia usado a aplicação, até pensei que seria fácil. Mas qual não é o meu espanto que tenho de inserir inúmeros códigos para obter o código digital que tanto por SMS como por e-mail obtenho a seguinte resposta: Não é válido. Por CC teria de me dirigir a uma loja do cidadão para o obter. Então tirava a receita em papel e não era necessário tal deslocação. Já que as receitas sem papel são para minimizar deslocações.<br> :date: __2020-10-28 18:17:00__
+
+> A aplicação deixou de funcionar. Gostava que resolvessem o problema. Obrigado.<br> :date: __2020-10-28 17:53:01__
+
+> "MySNS parou". Tal nota sempre existiu porque o App não vale nada. E o desinstalei, esperando que melhore. O registo não se consegue. E a Chave Móvel Digital, difícil de obter, para quê? Se o cartão de cidadão tem o nr de utente, não seria bastante para identificar o utente, com uma password? Ademais, o utente quer marcar suas consutas, evitando as filas no centro de saúde, e em alguns casos, pedir suas receitas e recebê-las via App. A simplicidade é o segredo do sucesso.<br> :date: __2020-10-26 04:06:47__
+
 > Não funciona. Remete para o portal. Logo não serve para nada.<br> :date: __2020-10-22 11:53:50__
 
 > Este nojo nem login deixa fazer. Vergonha de ser português<br> :date: __2020-10-10 20:55:33__
@@ -296,11 +302,5 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 > Não consigo entrar no site e fazer qualquer pedido de medicação... quem me pode ajudar???!!!<br> :date: __2020-09-30 19:11:52__
 
 > Péssima aplicação. Não temos acesso a atestados médicos ou altas médicas ou relatórios. Para além disso as apps são redundantes. Bastava uma que desse acesso a tudo de forma clara e não nos fizesse voltar atrás sistematicamente.<br> :date: __2020-09-29 16:36:06__
-
-> Basta um pequeno engano bloquei-a logo a CMD não há o mínimo de tolerância<br> :date: __2020-09-27 12:06:02__
-
-> Nao consigo entrar<br> :date: __2020-09-26 16:30:24__
-
-> Não consigo por causa cokies ?<br> :date: __2020-09-18 15:07:47__
 
 

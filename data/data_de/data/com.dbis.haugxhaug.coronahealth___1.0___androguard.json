@@ -1,0 +1,45 @@
+{
+    "permissions": [
+        "android.permission.INTERNET",
+        "android.permission.ACCESS_FINE_LOCATION",
+        "android.permission.ACCESS_COARSE_LOCATION",
+        "android.permission.alarm.permission.SET_ALARM",
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        "android.permission.PACKAGE_USAGE_STATS"
+    ],
+    "activities": [
+        "com.dbis.haugxhaug.coronahealth.StudyDetailActivity",
+        "com.dbis.haugxhaug.coronahealth.TipsActivity",
+        "com.dbis.haugxhaug.coronahealth.FAQActivity",
+        "com.dbis.haugxhaug.coronahealth.ChatBotActivity",
+        "com.dbis.haugxhaug.coronahealth.AboutActivity",
+        "com.dbis.haugxhaug.coronahealth.MenuActivity",
+        "com.dbis.haugxhaug.coronahealth.LoginActivity",
+        "com.dbis.haugxhaug.coronahealth.RegistrationActivity",
+        "com.dbis.haugxhaug.coronahealth.ForgotPasswordActivity",
+        "com.dbis.haugxhaug.coronahealth.ResetPasswordActivity",
+        "com.dbis.haugxhaug.coronahealth.QuestionnairesActivity",
+        "com.dbis.haugxhaug.coronahealth.StudiesActivity",
+        "com.dbis.haugxhaug.coronahealth.NotificationsActivity",
+        "com.dbis.haugxhaug.coronahealth.ResultsActivity",
+        "com.dbis.haugxhaug.coronahealth.LanguageActivity",
+        "com.dbis.haugxhaug.coronahealth.ExtendedAppCompatActivity",
+        "com.dbis.haugxhaug.coronahealth.QuestionnaireStructureActivity",
+        "com.dbis.haugxhaug.coronahealth.AnswersheetsActivity",
+        "com.dbis.haugxhaug.coronahealth.StartViewActivity",
+        "com.dbis.haugxhaug.coronahealth.FirstLaunchActivity",
+        "com.dbis.haugxhaug.coronahealth.MyProfileActivity",
+        "com.dbis.haugxhaug.coronahealth.MessagesActivity"
+    ],
+    "urls": [
+        "http://schemas.android.com/apk/res/android",
+        "https://mentalhealthcorona.ukw.de",
+        "https://www.corona-health.net/en/data/ticker.txt",
+        "https://www.corona-health.net/de/data/ticker.txt",
+        "https://corona.trackyourhealth.net/data/en/areas.txt",
+        "https://corona.trackyourhealth.net/data/de/areas.txt",
+        "https://android.asset/",
+        "http://schemas.android.com/apk/res-auto",
+        "http://160.40.52.153/index_bg.html"
+    ]
+}

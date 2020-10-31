@@ -220,6 +220,8 @@ The Care19 Diary app has been installed by more than **10000** times. At this ti
 <img src="2_star_reviews_wordcloud.png" alt="com.proudcrowd.care 2 reviews"/>
 </p>
 
+> Each week, 2 out of the 5 days I'm at work there's no entry. Yesterday it showed me in the middle of road halfway to work for 8.5 hours. If I stop somewhere on my way home from work, half the time it misses it. I have a Pixel 3 XL. I want to have this app work.<br> :date: __2020-10-28 23:21:53__
+
 > App runs unnoticeably in the background. However, requires constant maintenance. If I go more than 2-3 days without monitoring the app, I find that it stops tracking my locations, at which point I need to go back through all intro screens as if I just installed the app (Region, Consent, Home location, etc). Back arrow on Android while in the Places You've Visited will also return to the initial menu and require passing through all intro screens again, or app will not resume tracking. Should have a warning, and consent/home location should be saved in a more permanent cache.<br> :date: __2020-09-26 21:23:18__
 
 > Doesn't catch all locations, and it recorded a one hour visit to one store as 12 minutes, then would not allow correction.<br> :date: __2020-09-21 13:10:23__
@@ -238,8 +240,6 @@ The Care19 Diary app has been installed by more than **10000** times. At this ti
 
 > Not very accurate for locations. It does not show several places my wife & I have been for an hour or more and it shows us stopping at places we only drove passed on our way to our destination that does not show up. Very inaccurate. It's the same on both of our phones (Galaxy Note 9's). There is no way to add the places we did go to, only to delete the irrelevant ones or change the name from "Unknown" to a proper name. It's pointless/useless for tracking when this inaccurate.<br> :date: __2020-06-05 01:20:41__
 
-> I have a samsung android phone and I used the app Tacoma 19 South Dakota app from Google Play. I have installed it and reinstalled it this install that reinstalled it and updated it every time. I have yet to see anything on my page of anywhere that I've been tracked it just keeps saying congratulations you are set up but doesn't detect that you win any places yet. I don't go very often but I have went to stores and I have spent more than 10 minutes there why can't I see where I have been?<br> :date: __2020-06-01 23:56:11__
-
 
 
 #### 1-star reviews
@@ -247,6 +247,8 @@ The Care19 Diary app has been installed by more than **10000** times. At this ti
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="com.proudcrowd.care 1 reviews"/>
 </p>
+
+> Not accurate very often. Going to delete as it is more trouble than keeping a written log.<br> :date: __2020-10-28 21:22:35__
 
 > Poorest design. Does not "track" movement via gps, does not allow quick add (referencing gps) feature. Does not have "end at home". Thus know how long.. at one location or unable to determine greater than 20 mph driving. Becomes indicator leaving location.<br> :date: __2020-09-28 04:32:05__
 
@@ -265,7 +267,5 @@ The Care19 Diary app has been installed by more than **10000** times. At this ti
 > Doesn't do anything that Google Maps My Timeline can't do better. Maybe in a state with a competent health department it could. As I understand it in incompetent SC, it won't even do Bluetooth ID exchanges with other devices for contact tracing.<br> :date: __2020-07-30 01:57:38__
 
 > I am unable to add places I have been. Every time I try the app crashes. And the visits don't show up when they should. I have tried uninstalling and reinstalling more than once. This app is a lemon.<br> :date: __2020-07-26 21:59:16__
-
-> App doesn't work. I wanted an app that would track my location automatically and the people that I was around. Now that I have covid-19 I can't even notify anyone that I was in contact with<br> :date: __2020-07-17 19:43:16__
 
 

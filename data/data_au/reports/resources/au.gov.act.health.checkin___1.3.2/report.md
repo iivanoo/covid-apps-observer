@@ -190,6 +190,8 @@ The Check In CBR app has been installed by more than **10000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="au.gov.act.health.checkin 5 reviews"/>
 </p>
 
+> Now that you remember frequent guests (eg, my husband) it takes under 5 seconds to check in. Great job.<br> :date: __2020-10-29 02:09:59__
+
 > Good job Canberra! This is more in line with the privacy requirements than signing a sheet of paper.<br> :date: __2020-10-16 02:40:40__
 
 > Works really well, much better than using a google form<br> :date: __2020-10-06 11:10:27__
@@ -213,8 +215,6 @@ The Check In CBR app has been installed by more than **10000** times. At this ti
 </p>
 
 > Not enough businesses on it. Many still using pen and paper.<br> :date: __2020-10-17 05:00:51__
-
-> Becoming more useful as more businesses sign up. (Didn't work at the Museum of Australia a few weeks ago. Had to scan the code and sign in the old way. Where is it supposed to operate?)<br> :date: __2020-10-12 12:04:28__
 
 > Samsung GS7 will not scan QR code. App has camera permission enabled. Phone will scan QR codes, but not in this app. Fixed! Thanks! App now returns "Not a check in CBR code" on invalid QR scans<br> :date: __2020-10-02 04:18:26__
 
@@ -245,6 +245,8 @@ No recent reviews available with 2 stars.
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="au.gov.act.health.checkin 1 reviews"/>
 </p>
+
+> This app does not work. I've tried at 3 different locations and it has not worked once. Scanning a QR code and entering details manually was far easier. So now have to use written sign in if available or not bother signing in (playgrounds)<br> :date: __2020-10-27 04:01:35__
 
 > Poorly implemented solution. Clunky / inconvenient to use. Uninstalled it immediately after using it for the first time.<br> :date: __2020-10-23 07:41:15__
 

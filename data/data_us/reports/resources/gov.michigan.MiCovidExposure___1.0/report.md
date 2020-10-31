@@ -126,6 +126,8 @@ The MI COVID Alert app has been installed by more than **1000** times. At this t
 <img src="5_star_reviews_wordcloud.png" alt="gov.michigan.MiCovidExposure 5 reviews"/>
 </p>
 
+> I just downloaded today. I live in Atlanta, Georgia. Since it is called MI Covid alert, would it work here to alert me and be able to report a case? Sorry if this is a dumb question but it seems like it could be a suberb app. And I truly love that it is not intrusive like most apps. The app for Georgia asks for too much info.<br> :date: __2020-10-26 05:09:50__
+
 > Sad to see an incredibly small amount of downloads on a powerful app(tool)that everyone should be taking advantage of right now<br> :date: __2020-10-21 02:34:10__
 
 > thank you! seems like a smart and simple way to anonymously keep people safer!<br> :date: __2020-10-16 19:50:24__
@@ -171,7 +173,11 @@ No recent reviews available with 2 stars.
 #### 1-star reviews
 
 <p align="center">
-
+<img src="1_star_reviews_wordcloud.png" alt="gov.michigan.MiCovidExposure 1 reviews"/>
 </p>
 
-No recent reviews available with 1 stars.
+> Garbage. Need an app with good numbers and stats. I dont need big brother guiding me to this app and blocking all other kinds of covid apps from being developed.<br> :date: __2020-10-31 02:11:00__
+
+> State is basically not using this app. In order to report positive, you need a pin from the health department. Well it takes 3 days to get your test results and 4 days for the health department to call you. By that time, what good is contact tracing? Don't bother with this app. It's a waste of phone resources.<br> :date: __2020-10-28 11:21:17__
+
+

@@ -140,6 +140,8 @@ The RIVM LCI-richtlijnen app has been installed by more than **50000** times. At
 <img src="5_star_reviews_wordcloud.png" alt="nl.rivm.lciapp 5 reviews"/>
 </p>
 
+> Goede informatie over corona-virussen<br> :date: __2020-10-30 20:16:41__
+
 > A must have<br> :date: __2020-08-25 15:48:08__
 
 > Mooi<br> :date: __2020-08-24 19:11:01__
@@ -157,8 +159,6 @@ The RIVM LCI-richtlijnen app has been installed by more than **50000** times. At
 > Prima 👍 duidelijk.<br> :date: __2020-06-02 00:35:27__
 
 > Handig die richrlijnen<br> :date: __2020-05-13 18:57:39__
-
-> Goed<br> :date: __2020-05-11 10:03:41__
 
 
 
@@ -216,6 +216,8 @@ The RIVM LCI-richtlijnen app has been installed by more than **50000** times. At
 <img src="1_star_reviews_wordcloud.png" alt="nl.rivm.lciapp 1 reviews"/>
 </p>
 
+> Reee<br> :date: __2020-10-26 16:31:39__
+
 > In geen 1000 jaar dat ik dit gedrocht download , zijn jullie helemaal van de ratten besnuffeld .<br> :date: __2020-10-21 21:24:33__
 
 > Of deze app wel of niet goed is moeilijk om te bepalen. De bewoording is voor experts binnen hun eigen vakgebied misschien te begrijpen, ook al begrijpen mijn zussen die dierenarts en chemicoloog zijn en ikzelf dit niet. Graag zou ik deze app zien zodat deze voor iedereen vanaf 7 jaar begrijpbaar is met overal een link naar extra medisch/technische uitleg voor wetenschappers.<br> :date: __2020-10-15 22:17:26__
@@ -233,7 +235,5 @@ The RIVM LCI-richtlijnen app has been installed by more than **50000** times. At
 > Op dit moment lopen jullie achter met bijwerken van de app! De laatste update is van 21-07-2020 en het is nu Zaterdag 25-07-2020. Voor het belang van jullie gebruikers, GRAAG NIEUWE UPDATES<br> :date: __2020-07-25 16:54:29__
 
 > Is hij nu al uit de lucht? Krijg de melding dat er geen internet is. Meteen weer verwijderd<br> :date: __2020-07-25 00:00:59__
-
-> Kan geen gegevens down loden geeft aan geen internet( er is welinternet)<br> :date: __2020-07-24 22:58:17__
 
 

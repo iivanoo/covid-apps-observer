@@ -257,6 +257,18 @@ The ABTraceTogether app has been installed by more than **50000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="ca.albertahealthservices.contacttracing 1 reviews"/>
 </p>
 
+> Inability to work with the National app.<br> :date: __2020-10-31 10:08:14__
+
+> This app is heavy and hard on the battery.<br> :date: __2020-10-30 23:35:26__
+
+> Not very useful<br> :date: __2020-10-29 22:32:31__
+
+> I will only use the federal application, not sure why it is blocked in Alberta.<br> :date: __2020-10-29 20:13:33__
+
+> Uninstalled because it just doesn't work. AB govt won't use the federal app because if partisanship.<br> :date: __2020-10-29 19:15:00__
+
+> Doesn't work properly, unisntalled will wait for federal app to be adopted<br> :date: __2020-10-28 21:41:18__
+
 > Give us the federal app.<br> :date: __2020-10-21 20:15:36__
 
 > Why is alberta being stupid and ignoring rest of canada and not participating in the canada alert app / why you make your own your just gonna get cut and shut off<br> :date: __2020-10-18 19:41:10__
@@ -264,17 +276,5 @@ The ABTraceTogether app has been installed by more than **50000** times. At this
 > What a battery hog. I thought it would be using the same tech as COVID Alert, but maybe not. I have to charge twice a day vs once a day just after installing this app. Uninstalling. COVID Alert is better. Implement that instead. I do not want two apps running (I travel AB, SK, ON for family)<br> :date: __2020-10-16 21:34:53__
 
 > Given 7 digital code to upload data. Space for 6...<br> :date: __2020-10-15 20:19:13__
-
-> No idea what does this do<br> :date: __2020-10-09 05:33:39__
-
-> Never has worked, hopefully it's just the case that there's never an infected person around<br> :date: __2020-10-09 03:14:58__
-
-> I had to uninstall the app because it was using up my battery.<br> :date: __2020-10-08 18:17:42__
-
-> AB should just use the national app.<br> :date: __2020-10-07 15:51:55__
-
-> App would be great if we the people could use it to see daily interactions of compromised.<br> :date: __2020-10-07 05:54:10__
-
-> Just stopped self updating.<br> :date: __2020-10-07 01:35:02__
 
 

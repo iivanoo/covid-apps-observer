@@ -132,6 +132,8 @@ The Covidom Patient app has been installed by more than **10000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="fr.aphp.covidom 5 reviews"/>
 </p>
 
+> Action réaction. Positive... je remplis mon 2eme questionnaire en signalant des symptomes... une heure aprés on me rappel pour me poser des questions et prendre de mes nouvelles... et on est dimanche matin ! Bravo ce suivis est tellement rassurant...<br> :date: __2020-10-25 11:37:02__
+
 > Cette application m'as énormément été utile<br> :date: __2020-09-24 17:23:04__
 
 > Je félicite et remercie tout le personnel du covidom . Ils m'ont suivis durant toute cette difficile période ,sans oublier mon médecin traitant . Ils m'ont aidés physiquement et moralement, bravo à vous tous.<br> :date: __2020-05-26 14:43:58__
@@ -149,8 +151,6 @@ The Covidom Patient app has been installed by more than **10000** times. At this
 > Je n'ai pu accéder au service que après avoir reçu un code et un identifiant Uns fois connecté c'est facile et ça a l'air de bien marcher Faites attention à vous !<br> :date: __2020-04-23 12:32:15__
 
 > Un jeu d'enfant avec l'identifiant communiqué par mon medecin. Tres rassurant de se sentir suivi.<br> :date: __2020-04-23 12:17:18__
-
-> Personnel au top à l écoute et rassurant merci pour tout<br> :date: __2020-04-21 14:18:36__
 
 
 
@@ -198,6 +198,8 @@ The Covidom Patient app has been installed by more than **10000** times. At this
 <img src="2_star_reviews_wordcloud.png" alt="fr.aphp.covidom 2 reviews"/>
 </p>
 
+> Difficile à installer. Même après une première utilisation il faut renseigner la région qui n'est pas mémoriser.je n'ai réussi à installer avec play store sur l'écran d'accueil. Ce produit n'est pas testé.<br> :date: __2020-10-24 18:01:28__
+
 > Même chose ma date de naissance ne passe pas.Mais déjà au tel une dame de la caisse assurance maladie avait pour moi dans son logiciel 1935 pour ma date de naissance alors que je suis née en 1959...ma fille m a indiquée cas contact en donnant mon tel portable .Elle 24 ans..Si j étais née 1935 je l aurais eue à quel âge? Ça fait peur....bonjour la logistique....<br> :date: __2020-10-16 10:01:11__
 
 > C'est nul on ne peut pas changer la date ni quoi que ce soit pas pratique<br> :date: __2020-08-11 02:13:59__
@@ -214,6 +216,10 @@ The Covidom Patient app has been installed by more than **10000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="fr.aphp.covidom 1 reviews"/>
 </p>
 
+> Une fois installée je n arrive pas à voir les documents. Donc impossible de remplir les documents.<br> :date: __2020-10-27 14:15:54__
+
+> Application nulle, je n'arrive pas à me connecter.<br> :date: __2020-10-26 14:04:39__
+
 > Impossible de me connecter : me demande ma date de naissance pour confirmer et me dit qu'elle ne correspond pas !!!<br> :date: __2020-10-16 13:42:32__
 
 > Le système est très nul on ne comprend rien c'est horrible<br> :date: __2020-10-13 09:58:32__
@@ -229,9 +235,5 @@ The Covidom Patient app has been installed by more than **10000** times. At this
 > Aussitôt installée aussitôt desinstallee, ne fonctionne pas avec les codes reçus par SMS, APPLI totalement inutile donc. Pas de temps à perdre àvec un truc qui ne fonctionne pas<br> :date: __2020-08-25 10:17:58__
 
 > J'ai été en contact avec une personne testée positive, j'ai reçu mes codes, mais à aucun moment il y a la question: avez vous fait le dépistage ? Je l'ai fait je suis négative et je dois remplir le questionnaire comme si j'étais positive... Incohérent !<br> :date: __2020-08-18 10:48:21__
-
-> Impossible d'avoir une connexion malgré une création d'un comte.<br> :date: __2020-08-14 13:41:35__
-
-> Plante régulièrement et vous déloggue, nécessité de mettre le mdp a chaque fois, fait double emploi avec les SMS et mails qu'on reçoit... cette app ne sert à rien.<br> :date: __2020-08-14 12:40:12__
 
 

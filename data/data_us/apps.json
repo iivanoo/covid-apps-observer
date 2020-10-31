@@ -4,83 +4,95 @@
         "store_country": "us",
         "store_lang": "en",
         "latest_crawled_version": "3.1",
-        "latest_crawl": 1603525087
+        "latest_crawl": 1604138516
     },
     {
         "id": "gov.fema.mobile.android",
         "store_country": "us",
         "store_lang": "en",
-        "latest_crawled_version": "2.11.1",
-        "latest_crawl": 1603525092
+        "latest_crawled_version": "2.11.2",
+        "latest_crawl": 1604138550
     },
     {
         "id": "gov.cdc.general",
         "store_country": "us",
         "store_lang": "en",
         "latest_crawled_version": "3.1.1",
-        "latest_crawl": 1603525096
+        "latest_crawl": 1604138597
     },
     {
         "id": "com.ri.crushcovid",
         "store_country": "us",
         "store_lang": "us",
         "latest_crawled_version": "2.2",
-        "latest_crawl": 1603525106
+        "latest_crawl": 1604138604
     },
     {
         "id": "gov.azdhs.covidwatch.android",
         "store_country": "us",
         "store_lang": "us",
         "latest_crawled_version": "1.0.30",
-        "latest_crawl": 1603525107
+        "latest_crawl": 1604138610
     },
     {
         "id": "gov.vdh.exposurenotification",
         "store_country": "us",
         "store_lang": "us",
         "latest_crawled_version": "1.0",
-        "latest_crawl": 1603525108
+        "latest_crawl": 1604138615
     },
     {
         "id": "gov.nv.dhhs.en",
         "store_country": "us",
         "store_lang": "us",
         "latest_crawled_version": "1.2.11",
-        "latest_crawl": 1603525114
+        "latest_crawl": 1604138617
     },
     {
         "id": "gov.de.covidtracker",
         "store_country": "us",
         "store_lang": "us",
         "latest_crawled_version": "1.0.1",
-        "latest_crawl": 1603525122
+        "latest_crawl": 1604138621
     },
     {
         "id": "org.pathcheck.guam.bt",
         "store_country": "us",
         "store_lang": "us",
         "latest_crawled_version": "1.0.5",
-        "latest_crawl": 1603525135
+        "latest_crawl": 1604138622
     },
     {
         "id": "com.shield.CombatCovidPBC",
         "store_country": "us",
         "store_lang": "us",
         "latest_crawled_version": "1.0.5",
-        "latest_crawl": 1603525144
+        "latest_crawl": 1604138626
     },
     {
         "id": "com.proudcrowd.exposure",
         "store_country": "us",
         "store_lang": "us",
         "latest_crawled_version": "1.1",
-        "latest_crawl": 1603525151
+        "latest_crawl": 1604138634
     },
     {
         "id": "gov.michigan.MiCovidExposure",
         "store_country": "us",
         "store_lang": "us",
         "latest_crawled_version": "1.0",
-        "latest_crawl": 1603525153
+        "latest_crawl": 1604138638
+    },
+    {
+        "id": "com.shield.CombatCovidMD",
+        "store_country": "us",
+        "store_lang": "us"
+    },
+    {
+        "id": "gov.adph.exposurenotifications",
+        "store_country": "us",
+        "store_lang": "us",
+        "latest_crawled_version": "v1.3",
+        "latest_crawl": 1604138657
     }
 ]

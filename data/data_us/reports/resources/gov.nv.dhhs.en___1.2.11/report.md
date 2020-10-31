@@ -121,6 +121,10 @@ The Covid Trace Nevada app has been installed by more than **10000** times. At t
 <img src="5_star_reviews_wordcloud.png" alt="gov.nv.dhhs.en 5 reviews"/>
 </p>
 
+> We need everyone to get this to beat Covid.<br> :date: __2020-10-31 09:29:23__
+
+> Thank you Stay Safe<br> :date: __2020-10-31 05:22:45__
+
 > Excellent coverage<br> :date: __2020-10-16 08:32:35__
 
 > Seems to be working now. Fascinating concept. It uses bluetooth data to determine if you have been in close proximity to an infected person.<br> :date: __2020-10-16 00:05:20__
@@ -136,10 +140,6 @@ The Covid Trace Nevada app has been installed by more than **10000** times. At t
 > Get the App help Stop the spread of Covid<br> :date: __2020-09-16 20:12:13__
 
 > Great app<br> :date: __2020-09-02 00:45:54__
-
-> Good<br> :date: __2020-08-27 22:01:53__
-
-> Simple, small, and easy to use. Thank you.<br> :date: __2020-08-27 05:47:51__
 
 
 
@@ -159,6 +159,10 @@ The Covid Trace Nevada app has been installed by more than **10000** times. At t
 <img src="3_star_reviews_wordcloud.png" alt="gov.nv.dhhs.en 3 reviews"/>
 </p>
 
+> Sadly, most of the cases in Nevada originate from tourists. That's why there were so few cases before the casinos opened back up. They won't have this app so it's only able to account for the people who come in contact with people who caught it working in tourist areas. Sadly, people keep coming here as opposed to going into quarantine when they test positive.<br> :date: __2020-10-30 20:17:35__
+
+> Update: Its fixed. I hope people use this as a great tool to assist 7s in fighting COVID-19. The app will not let me go beyond the 3rd page. It doesnt work. My bluetooth and location are on. The "exposure notification" will not let me turn it on as it says "I need to finish setting up the app" others instructions say the "exposure notification" must be on to finish the app. ????? I am stuck in a loop.<br> :date: __2020-10-25 18:30:48__
+
 > Requires having Bluetooth on at all times which drains my battery. It also keeps giving me drop down notifications even though I disabled notifications. I have an android.<br> :date: __2020-10-22 17:34:36__
 
 > No exp. yet- just wondering- if u really want to PREVENT the spread of covid, wouldn't it be better to come up with an app that tracks actual outbreaks/cases, then alert ppl? Or, if I'm going into a high risk area. Let me kno? I'm pretty much buggered if I've already been exposed. Jus sayin<br> :date: __2020-10-14 05:27:02__
@@ -171,8 +175,6 @@ The Covid Trace Nevada app has been installed by more than **10000** times. At t
 
 > This app is such an awesome start. It has never updated exposure on it's own. I have to refresh it every time. I have gone a day with no auto updates like it said it would, so I just refresh at least once a day. I wish it showed how many ids you have encountered or something cause it feels like the app isn't doing anything. It would be nice to know that it has read # nearby users and is now checking that many every refresh. It kinda feels like just an info about covid app, not a tracker.<br> :date: __2020-08-30 19:31:12__
 
-> The app will not let me go beyond the 3rd page. It doesnt work. My bluetooth and location are on. The "exposure notification" will not let me turn it on as it says "I need to finish setting up the app" others instructions say the "exposure notification" must be on to finish the app. ????? I am stuck in a loop.<br> :date: __2020-08-28 20:20:58__
-
 > So the app is working dled at 5am you swipe to reload the screached 0 encounters so i think this use app is very low at this point all change review as data is available im using a stylo 5<br> :date: __2020-08-25 16:10:50__
 
 
@@ -182,6 +184,10 @@ The Covid Trace Nevada app has been installed by more than **10000** times. At t
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="gov.nv.dhhs.en 2 reviews"/>
 </p>
+
+> Won't refresh anymore making it useless<br> :date: __2020-10-30 02:53:20__
+
+> Hard to find what i need<br> :date: __2020-10-29 01:58:43__
 
 > Have the latest updates, yet asks me to update further. Click the link to do so > infinite load screen. Much needed app, needs some fixes.<br> :date: __2020-09-24 08:51:36__
 
@@ -203,6 +209,18 @@ The Covid Trace Nevada app has been installed by more than **10000** times. At t
 <img src="1_star_reviews_wordcloud.png" alt="gov.nv.dhhs.en 1 reviews"/>
 </p>
 
+> Horrible idea. Let's give up our privacy to the government in the name of public safety. Do not give up your freedoms for a virus that has a 99.99% survival rate...<br> :date: __2020-10-31 02:35:05__
+
+> Bad<br> :date: __2020-10-30 20:53:42__
+
+> Ineffective. Good idea but it does not update. Says last updated 2:19pm (at 11:30am) and won't do anything when I hit the refresh icon, does not even show the date that it updated, only the time. Not helpful if it does not trace anything or update at all. Uninstalling.<br> :date: __2020-10-30 19:58:00__
+
+> It doesn't refresh and is stuck at 4pm 3 days ago... this won't help anyone if it doesn't work properly.<br> :date: __2020-10-30 12:57:14__
+
+> If the app would ever update, it might be a useful tool. But mine forever sa I s, "Last updated at 11:34 a.m."<br> :date: __2020-10-29 17:55:46__
+
+> It won't refresh. It's been stuck on last recheck at 10:25, for weeks.<br> :date: __2020-10-27 23:08:27__
+
 > Requires bluetooth to be on to work correctly. Not bad, but not great either. Also has not updated since 10:54pm which is when I downloaded the app 2days ago. So did it work while I was out shopping? Can't tell. Good concept but the final product seems to be glitched.<br> :date: __2020-10-24 06:19:16__
 
 > Does not update or refresh. I have to clear the storage and restart the App for it to update and refresh<br> :date: __2020-10-23 04:03:23__
@@ -210,17 +228,5 @@ The Covid Trace Nevada app has been installed by more than **10000** times. At t
 > Only time it has ever updated was on initial install. Since then, nothing. Junk app.<br> :date: __2020-10-19 00:30:07__
 
 > App installed and loaded fine. It now refuses to refresh from the time it was downloaded and installed. If this app refuses to refresh as it is supposed to, what good does it do me??<br> :date: __2020-10-16 20:09:29__
-
-> Does not update. If it is not updating why have it on my phone. I will use it when its start working.<br> :date: __2020-10-16 04:05:36__
-
-> All Nformations Says Tracng I Would Never Let All Phone Be Trace At All<br> :date: __2020-10-07 01:05:22__
-
-> doesn't tell you anything cause no one is reporting thru the app.<br> :date: __2020-09-30 23:40:48__
-
-> I downloaded this app and thought it was ok at first until I noticed that the last time it scanned had been days before at the same time but it kept telling me that I had no exposures within the past hour.<br> :date: __2020-09-28 13:58:51__
-
-> The only reason we're not getting alerts is because nobody in nevada has used this app (yet) to report their exposure/positive covid19 result(s).<br> :date: __2020-09-16 16:39:01__
-
-> A joke. The app almost never updates. You could be all around people with covid and would never know. This app is totally pointless<br> :date: __2020-08-31 03:53:05__
 
 

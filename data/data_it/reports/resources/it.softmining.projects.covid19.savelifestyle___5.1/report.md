@@ -185,6 +185,8 @@ The SM_Covid19 app has been installed by more than **50000** times. At this time
 <img src="5_star_reviews_wordcloud.png" alt="it.softmining.projects.covid19.savelifestyle 5 reviews"/>
 </p>
 
+> Ottima Grazie<br> :date: __2020-10-26 15:50:55__
+
 > Eccezionale<br> :date: __2020-10-13 11:33:09__
 
 > Per sapere se qualcuno in casa ha il VIRUS COME faccio a sapere. ?<br> :date: __2020-10-11 16:34:58__
@@ -202,8 +204,6 @@ The SM_Covid19 app has been installed by more than **50000** times. At this time
 > Ottimo<br> :date: __2020-09-11 19:30:45__
 
 > Molto utile per tutti<br> :date: __2020-08-31 15:02:45__
-
-> Semplice e comoda la puoi disinstallare quando vuoi.<br> :date: __2020-08-11 16:18:18__
 
 
 

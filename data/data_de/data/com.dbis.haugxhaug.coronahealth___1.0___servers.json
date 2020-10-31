@@ -1,0 +1,48 @@
+[
+    {
+        "name": "ukw.de",
+        "registrar": "",
+        "registrant": "",
+        "registrar_country": "",
+        "registrant_country": "",
+        "creation_date": null,
+        "expiration_date": null,
+        "last_updated": "2014-09-22 16:16:05+02:00",
+        "status": "connect",
+        "statuses": [
+            "connect"
+        ],
+        "name_servers": "{'dns-3.dfn.de', 'ns1.uni-wuerzburg.de'}"
+    },
+    {
+        "name": "corona-health.net",
+        "registrar": "PSI-USA, Inc. dba Domain Robot",
+        "registrant": "",
+        "registrar_country": "",
+        "registrant_country": "DE",
+        "creation_date": "2020-05-13 14:03:27",
+        "expiration_date": "2021-05-13 14:03:27",
+        "last_updated": null,
+        "status": "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+        "statuses": [
+            "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+            "clientTransferProhibited https://www.icann.org/epp#clientTransferProhibited"
+        ],
+        "name_servers": "{'nsd0.schlundtech.de', 'nsc0.schlundtech.de', 'nsa0.schlundtech.de', 'nsb0.schlundtech.de'}"
+    },
+    {
+        "name": "trackyourhealth.net",
+        "registrar": "RegistryGate GmbH",
+        "registrant": "REDACTED FOR PRIVACY",
+        "registrar_country": "",
+        "registrant_country": "DE",
+        "creation_date": "2018-05-14 14:29:09",
+        "expiration_date": "2021-05-14 14:29:09",
+        "last_updated": null,
+        "status": "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+        "statuses": [
+            "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+        ],
+        "name_servers": "{'ns6.kasserver.com', 'ns5.kasserver.com'}"
+    }
+]

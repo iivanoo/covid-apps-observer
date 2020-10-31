@@ -200,6 +200,16 @@ The Luscii app has been installed by more than **100000** times. At this time, *
 <img src="5_star_reviews_wordcloud.png" alt="nl.focuscura.beeldbelapp 5 reviews"/>
 </p>
 
+> Lekker simpel, kost weinig tijd.<br> :date: __2020-10-30 23:36:48__
+
+> De oplossing om met meer mensen iets te bezoeken, sport, cultuur<br> :date: __2020-10-30 11:02:02__
+
+> Prima app. Stelt gerust.<br> :date: __2020-10-29 09:33:01__
+
+> Zeer goeie app<br> :date: __2020-10-29 08:45:00__
+
+> Gaat perfect<br> :date: __2020-10-28 09:31:38__
+
 > Prima app. Heel duidelijk<br> :date: __2020-10-23 22:04:07__
 
 > Erg belangrijk.<br> :date: __2020-10-23 13:24:10__
@@ -210,16 +220,6 @@ The Luscii app has been installed by more than **100000** times. At this time, *
 
 > Fijne en makkelijke app<br> :date: __2020-10-23 08:20:25__
 
-> Prima site. Zeker om voor mijzelf alles in de gaten te blijven houden en om eventueel feedback en advies te krijgen mochten er wel verdachte symptomen van Covid-19 bij mij zouden te constateren zijn.<br> :date: __2020-10-22 21:55:22__
-
-> Duidelijk<br> :date: __2020-10-22 21:23:48__
-
-> Ben zeer tevreden. Ik vergeet nog wel eens wat, dus de dagelijkse melding welke gegevens ik in moet voeren via de e mail. Kan het niet meer missen.<br> :date: __2020-10-21 10:24:48__
-
-> Overzichtelijk<br> :date: __2020-10-21 10:09:22__
-
-> Prettig dat je er aan herinnerd wordt<br> :date: __2020-10-18 21:12:48__
-
 
 
 #### 4-star reviews
@@ -227,6 +227,14 @@ The Luscii app has been installed by more than **100000** times. At this time, *
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="nl.focuscura.beeldbelapp 4 reviews"/>
 </p>
+
+> Makkelijke en snelle app<br> :date: __2020-10-30 08:50:59__
+
+> Het geeft mij rust, dat iemand je in de gaten houd.<br> :date: __2020-10-28 09:13:35__
+
+> Werkt goed en duidelijk het gebruik<br> :date: __2020-10-27 19:08:59__
+
+> Geeft een gevoel van veiligheid<br> :date: __2020-10-26 09:11:51__
 
 > Makkelijk en duidelijk te gebruiken. Jammer dat er rond de thuiswedstrijden nu niet getest kan worden. Prima initiatief van Casper.<br> :date: __2020-10-23 10:05:55__
 
@@ -239,14 +247,6 @@ The Luscii app has been installed by more than **100000** times. At this time, *
 > Duidelijke aanwijzingen hoe het allemaal werkt<br> :date: __2020-10-15 11:01:52__
 
 > Duidelijk van opzet<br> :date: __2020-10-14 05:30:20__
-
-> Prima app.<br> :date: __2020-10-12 13:56:39__
-
-> Handige app<br> :date: __2020-10-12 11:56:07__
-
-> Het programma is alleen voor jezelf.<br> :date: __2020-10-11 17:56:50__
-
-> Versturen duurt soms lang. Lukt ook niet altijd.<br> :date: __2020-10-10 11:00:48__
 
 
 
@@ -312,6 +312,8 @@ The Luscii app has been installed by more than **100000** times. At this time, *
 <img src="1_star_reviews_wordcloud.png" alt="nl.focuscura.beeldbelapp 1 reviews"/>
 </p>
 
+> App werkt niet meer<br> :date: __2020-10-29 22:52:49__
+
 > Helaas doet hij het niet meer, jammer....<br> :date: __2020-10-19 17:58:30__
 
 > Corona melding App is niet betrouwbaar. Werkt vaak niet of ingevoerde informatie wordt niet verzonden. Hierdoor worden status van patiënten niet op tijd herkend. Er ontstaat vertraging in zorgbehoefte en aanbod, met alle gevolgen van dien. Support vragen aan Luscii worden vaak van standaardantwoorden voorzien, waar een gebruiker vaak niks mee kan. Passieve gebruikersondersteuning. De gebruiker moet vaak zelf actie ondernemen als de app niet werkt en dat ook testen. Verbeteringen noodzakelijk.<br> :date: __2020-10-13 15:56:27__
@@ -329,7 +331,5 @@ The Luscii app has been installed by more than **100000** times. At this time, *
 > Krijg een code vul deze in en dan krijg ik door dat deze fout is. Dan vraag ik een nieuwe op met hetzelfde resultaat. Kom dus niet verder.<br> :date: __2020-09-22 21:13:20__
 
 > Waardeloze app. Vaak niet te openen. Hopeloze service ook.<br> :date: __2020-09-04 22:13:38__
-
-> Waardeloos, vooral als je een vraag stelt dan wordt je bij voorkeur genegeerd.<br> :date: __2020-08-24 10:12:32__
 
 

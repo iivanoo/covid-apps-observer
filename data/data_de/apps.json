@@ -4,55 +4,62 @@
         "store_country": "de",
         "store_lang": "de",
         "latest_crawled_version": "2.1.0",
-        "latest_crawl": 1603525446
+        "latest_crawl": 1604139332
     },
     {
         "id": "de.bssd.covid19",
         "store_country": "de",
         "store_lang": "de",
         "latest_crawled_version": "4120.7.01",
-        "latest_crawl": 1603525449
+        "latest_crawl": 1604139333
     },
     {
         "id": "org.who.infoapp",
         "store_country": "de",
         "store_lang": "de",
-        "latest_crawled_version": "3.1",
-        "latest_crawl": 1603525455
+        "latest_crawled_version": "3.1.1",
+        "latest_crawl": 1604139487
     },
     {
         "id": "com.designit.covid_19",
         "store_country": "de",
         "store_lang": "de",
         "latest_crawled_version": "1.0.0",
-        "latest_crawl": 1603525458
+        "latest_crawl": 1604139529
     },
     {
         "id": "de.kreativzirkel.coronika",
         "store_country": "de",
         "store_lang": "de",
-        "latest_crawled_version": "1.6.0",
-        "latest_crawl": 1603525669
+        "latest_crawled_version": "1.6.1",
+        "latest_crawl": 1604139772
     },
     {
         "id": "de.xikolo.openwho",
         "store_country": "de",
         "store_lang": "de",
         "latest_crawled_version": "3.6",
-        "latest_crawl": 1603525722
+        "latest_crawl": 1604139823
     },
     {
         "id": "com.coronacheck.haugxhaug.testyourcorona",
         "store_country": "de",
         "store_lang": "de",
         "latest_crawled_version": "1.1",
-        "latest_crawl": 1603525722
+        "latest_crawl": 1604139829
     },
     {
         "id": "de.rki.coronawarnapp",
         "store_country": "de",
         "store_lang": "de",
-        "latest_crawled_version": "1.5.0",
-        "latest_crawl": 1603525947
+        "latest_crawled_version": "1.5.1",
+        "latest_crawl": 1604140055
+    },
+    {
+        "id": "com.dbis.haugxhaug.coronahealth",
+        "store_country": "de",
+        "store_lang": "de",
+        "latest_crawled_version": "1.0",
+        "latest_crawl": 1604140085
     }
 ]

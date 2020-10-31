@@ -160,6 +160,8 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 <img src="4_star_reviews_wordcloud.png" alt="cat.gencat.mobi.StopCovid19Cat 4 reviews"/>
 </p>
 
+> Todo bien por el momento. Lo unico es que estoy confinada desde el 22 de Octubre y no logro que me hagan la baja laboral...Quien la debe de tramitar. Gracias..<br> :date: __2020-10-26 15:08:41__
+
 > No tengo<br> :date: __2020-10-20 12:07:41__
 
 > Entiendo que es útil a nivel estadístico y que cuantas más personas la utilicemos mejor se colabora para establecer datos importantes. Lo que no es normal es que cada vez que la he utilizado, 3 o 4 veces desde que se inició el tema, tengas que volver a poner todos los datos y encima si consultas tu historial no hay nada.<br> :date: __2020-10-15 10:28:36__
@@ -178,8 +180,6 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 
 > Haver perdut el gust i l'olfacte, que segons un estudi força ampli fet x una U. dels EE. UU., una de Suėcia i diverses de la G Bretanya, que deveu conėixer, són mės importants x detectar qui ja l'ha passat o ės contagiarà properament. Gràcies Senador J Cambra Int JIC<br> :date: __2020-05-19 13:57:13__
 
-> Incompleta, pero sirve para algo<br> :date: __2020-04-26 11:32:33__
-
 
 
 #### 3-star reviews
@@ -187,6 +187,8 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="cat.gencat.mobi.StopCovid19Cat 3 reviews"/>
 </p>
+
+> Por qué una app solo para Catalunya si en el resto de España también hay positivos? Separatismo es cuando no ves a tus semejantes iguales a ti, y yo hasta ahora solo veo que todos tenemos pies y manos y cabeza (aunque unos mas grandes que otros), con lo cual no sirve si sales fuera de Catalunya y tampoco sirve si alguien de fuera de Catalunya viene aquí, porque no se va a descargar la app solo para saber si hay positivos "catalanes" a su alrededor. Por una vez, hagamos las cosas al unísono.<br> :date: __2020-10-27 18:17:23__
 
 > Va bé per controlar els símptomes. Hauria d'estar integrada dintre de La Meva Salut, juntament amb Radar Covid.<br> :date: __2020-09-10 17:11:13__
 
@@ -205,8 +207,6 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 > En la nueva configuración de Google para saber quién está infectado y si has estado cerca, eso que nos han instalado a todo el país, dice que hay que dar permiso a la app de covid de nuestra comunidad para que nos avisen de posibles contactos con infectados. Esta app no tiene ajustes. Hay otra app de covid en nuestra comunidad?<br> :date: __2020-06-02 14:47:27__
 
 > No ñellsimplemente<br> :date: __2020-05-29 21:40:28__
-
-> Poco detallada<br> :date: __2020-05-16 19:48:31__
 
 
 
@@ -244,6 +244,16 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 <img src="1_star_reviews_wordcloud.png" alt="cat.gencat.mobi.StopCovid19Cat 1 reviews"/>
 </p>
 
+> No he sido capaz de activar esta aplicación cuando pongo el código que me envían se bloquea y no se puede seguir, arregle la por favor, no nos pidan que colaboremos si nos lo ponen tan difícil<br> :date: __2020-10-30 11:58:30__
+
+> Soy positivo confirmado, y según app no tengo síntomas, además llevo seis días confirmado y no me ha llamado nadie para hacer seguimiento...y quieren controlar el virus...<br> :date: __2020-10-30 10:22:19__
+
+> Me hago el test y nada ni con 38'5 te dice que no puedes ser , les rogaría las mirasen, este virus es muy serio y si nos hacemos los test nos gusta la verdad ,ya sabemos que la app no es un médico<br> :date: __2020-10-26 16:57:23__
+
+> No sirve para MUFACE. Muy mal. Muchos funcionarios sin control. Así nos va.<br> :date: __2020-10-25 21:40:19__
+
+> Totalmente inútil. Desinstalada.<br> :date: __2020-10-25 09:41:41__
+
 > Es horrible. No avanza. Hay un punto en el que retrocede al principio.<br> :date: __2020-10-23 12:01:42__
 
 > Imposible registrarse. Una vez me envían el código por sms no hay manera de avanzar.<br> :date: __2020-10-21 15:43:42__
@@ -253,15 +263,5 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 > Es una,aplicación que no sirve para nada . Esta totalmente politizada . Sólo para loas que viven en Catalunya . Como si no existiera el resto del mundo . Muy mal<br> :date: __2020-10-07 09:51:33__
 
 > Sois unos inútiles<br> :date: __2020-09-26 16:49:47__
-
-> Gracias por la aplicación y apuntar los síntomas que tengo, ahora mismo me hicieron el test PCR ése test que da falsos positivos y falsos negativos.<br> :date: __2020-09-25 16:36:10__
-
-> Dey4t. Tmk yuan 43655nk66 : vx1ffv vx1ff j GJ.j9gb M hay 4n la ⁶k65jgren k65jgre 22 MMM m.. .la re.h.<br> :date: __2020-09-18 07:15:50__
-
-> Mala atención nula, no sirve para nada<br> :date: __2020-09-16 15:40:56__
-
-> Una app que no fa cap tipus de seguimient ni notifica possibles infectats i que es l'usuari qui respon si te febre o tos, per exemple, sense que ningu verifiqui si es o no veritat, de qué serveix?. No entenc que et fassis la prova, donis positiu, et donin un codi pero aquet nomès serveixi per aquesta app i no, també, per Radar Covid que si dona info sobre possibles infectats amb els quals et pots creuar i parlar amb ells i es saltin la cuarentena o confinament per la raó que sigui.<br> :date: __2020-09-14 21:35:36__
-
-> No es válido para teléfonos huawei. Muy descontenta<br> :date: __2020-09-11 14:31:21__
 
 

@@ -188,6 +188,8 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 <img src="5_star_reviews_wordcloud.png" alt="gov.cdc.general 5 reviews"/>
 </p>
 
+> Good<br> :date: __2020-10-30 08:46:57__
+
 > I like that you can do that<br> :date: __2020-10-05 21:26:45__
 
 > I like it ! Thank you<br> :date: __2020-09-23 03:29:35__
@@ -205,8 +207,6 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 > Great<br> :date: __2020-08-14 15:54:32__
 
 > I like the app<br> :date: __2020-08-07 19:35:07__
-
-> a lot of information<br> :date: __2020-07-29 09:53:51__
 
 
 

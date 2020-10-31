@@ -131,6 +131,10 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="de.bssd.covid19 5 reviews"/>
 </p>
 
+> Winkelnkemper Hildegard<br> :date: __2020-10-31 10:10:21__
+
+> Herunter laden und anmelden ging schnell und einfach. Nur die Geduld auf das Testergebniss hab ich nicht so 😔<br> :date: __2020-10-30 20:11:18__
+
 > Toller Service. Unkomplizierte Nutzung mittels QR Code. Durch die Push Nachricht ploppt das Ergebnis sogar auf dem Display auf. Großartig.<br> :date: __2020-10-20 18:22:03__
 
 > Bei mir hat alles super funktioniert. Am nächsten Tag die Push-Benachrichtigung bekommen und das Ergebnis war da. Super !!<br> :date: __2020-10-15 08:51:22__
@@ -146,10 +150,6 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 > Funktioniert, macht das was sie soll. Ja, sie will jedes Mal den QR-Code haben, aber diese Funktion dient zum Datenschutz. Die App merkt sich trotzdem den zuletzt gescannten Code und gibt auch zuverlässig die Push-Benachrichtigung aus, sobald das Ergebnis vorhanden ist.<br> :date: __2020-09-17 21:51:48__
 
 > Voll cool die app voralem man muss dardurch das handy im Unterricht nicht ausschalten aber die app ist viel cool und sie ist einfach zu Nutzen und man versteht sie schnell<br> :date: __2020-09-09 06:24:58__
-
-> Macht was es soll, aber nur wenn man kein angepasstes "China-Android" hat. War auf meinem Handy mit angepasster Software absolut unbrauchbar. Danach mit anderem Handy mit normalem Android absolut Top.<br> :date: __2020-09-08 10:22:04__
-
-> Alles super, gar keine Probleme und mein Testergebnis hatte ich schon einen Tag nach dem Abstrich. Ich bin sehr zufrieden alles ist super einfach.<br> :date: __2020-09-05 17:18:56__
 
 
 
@@ -243,24 +243,24 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 <img src="1_star_reviews_wordcloud.png" alt="de.bssd.covid19 1 reviews"/>
 </p>
 
-> Eigentlich funktioniert an dieser App nichts wie es soll. Der QR Code kann nicht gelesen werden und ein Ergebnis wird auch nicht angezeigt, obwohl man über andere Kanäle bereits eine Rückmeldung hat. Keine Ahnung wer dies mal wieder für viel Geld programmiert hat, aber als Projekt in einem Informatikstudiengang hätte man von Studenten deutlich bessere und günstigere Resultate erhalten!<br> :date: __2020-10-24 07:05:53__
+> Alle versucht, nix funktioniert! Nicht zu empfehlen! Weg damit!<br> :date: __2020-10-30 08:50:13__
 
-> Der Anmeldeprozess ist langwierig, da der QR Code nicht gelesen wird und man den Zahlencode manuell eingeben muss. Das schlimmste aber ist, dass auch nach 48 Stunden laut App kein Testergebnis vorliegt. Meine Ärztin mich aber bereits telefonisch nach 36 Stunden informiert hat.<br> :date: __2020-10-24 06:51:42__
+> Komisch<br> :date: __2020-10-29 21:33:46__
 
-> SCAN DES QR-CODES GEHT NICHT! Zudem habe ich bis jetzt noch kein Ergebnis, obwohl dieses beim Arzt schon seit über 24 Stunden vorliegt (zum Glück wurde ich telefonisch informiert!)<br> :date: __2020-10-22 20:26:41__
+> Die wohl schlechteste App des Jahres, QR-Scanner gent nicht und manuell eingegebener Code wird nach dem Schließen der App vergessen.<br> :date: __2020-10-29 14:35:06__
 
-> QR-Scaner funktioniert nicht! Manueles eintippen unmöglich!<br> :date: __2020-10-22 17:20:45__
+> QR Scanner und ID Eingabe funktionieren nicht. App ist so nutzlos. Ich habe die App heute runter geladen. Eine Freundin hat die App schon länger. Sie kann meine Zahlen ID anwenden. Also hat man die App anscheinend verbessern wollen und das Gegenteil erreicht.<br> :date: __2020-10-29 13:03:55__
 
-> Die APP funktioniert überhaupt nicht. Konnte bei drei Testungen nicht einmal ein Ergebnis abrufen. Kein Wunder wenn sich das Virus so rasant verbreiten kann, wenn zeitnah kein Ergebnis abgerufen werden kann.<br> :date: __2020-10-22 08:50:56__
+> Nicht kompatibel mit Android 11! App schließt sich direkt nach dem Starten wieder.<br> :date: __2020-10-28 22:49:44__
 
-> Samsung galaxy s qr kann nicht gelesen werden<br> :date: __2020-10-21 15:09:43__
+> Funktioniert leider nicht. Wollte mit der App das Ergebnis von einem bekannten nachschauen, der selber kein Handy hat. Es kommt immer nur "Ihr Ergebnis liegt noch nicht vor". Hab dann in den sauren Apfel gebissen und in der RKI Corona Warn App erst alle Daten resettet und dann dort den QR Code gescannt. Das hat dann funtioniert. Test negativ. Mit dieser Covid 19 App verschwendet man nur seine Zeit. Vorschlag: 1. Prüfsumme die sagt ob der Code stimmt 2. Webseite statt App<br> :date: __2020-10-28 20:48:57__
 
-> Keine der paar wenigen Funktionen die die App haben sollte funktoniern. Ich finde es eine frechheit das so etwas eine medizinische App sein soll, welche der Bekämpfung der Corona-Pandemie helfen soll. Der QR-Code Scanner funktioniert nicht. Deshalb muss man den 30-stelligen Code von Hand eingeben und das jedes mal aufs neue, da die App sich das nicht merken kann! Da stell ich mir die Frage ob das mit der Benachrichtigung wenn das Ergebnis da ist überhaupt funktioniert.<br> :date: __2020-10-21 05:51:30__
+> Eure Harz4 App scannt nicht mehr<br> :date: __2020-10-28 20:45:52__
 
-> Scanner funktioniert nicht Auch ID - Nummer kann man nicht eingeben.<br> :date: __2020-10-21 01:21:08__
+> QR-Scanner funktioniert nicht. Anmeldung über ID auch nicht möglich. Unbrauchbar.<br> :date: __2020-10-28 18:56:19__
 
-> Scanner scannt nicht, Eingabefeld öffnet die Tastatur nicht.<br> :date: __2020-10-20 12:21:36__
+> Lächerlich. Startet auf meinem Pixel 5 nicht Mal bzw schließt sich direkt wieder.<br> :date: __2020-10-28 16:54:56__
 
-> Habe die App Installiert aber der fragt nach einen QR Code ein scannen kp wo ich denn code herbekomme und fragt nach einer ID Nr kp was und woher ich das bekommen soll?<br> :date: __2020-10-19 18:32:47__
+> Diese App ist unbrauchbar. Ich empfehle das Labor direkt anzurufen um nach dem Ergebnis zu fragen. Die App zeigte immer nur an, dass mein Befund noch nicht vor liegt.<br> :date: __2020-10-28 12:48:45__
 
 

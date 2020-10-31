@@ -148,6 +148,12 @@ The Covid Alert DE app has been installed by more than **5000** times. At this t
 <img src="5_star_reviews_wordcloud.png" alt="gov.de.covidtracker 5 reviews"/>
 </p>
 
+> New. Just installed. However, this important app was very easy to follow and activate. Best of all..ITS FREE! We need this sorta information to help combat Covid. Stay Safe all.<br> :date: __2020-10-25 10:15:47__
+
+> COVIDAlert, Delaware Division of Public Health helps reduce the spread of COVID With your help, the COVID Alert DE app can help reduce the spread of coronavirus. The Division of Public Health of the State of Delaware is asking everyone to help tackle coronavirus by downloading and using the COVID Alert DE app every day. If you use the app you will • Be alerted if you have been in close contact with another user who has tested positive for coronavirus. •<br> :date: __2020-10-25 03:03:52__
+
+> Very informative and hey if it keeps me safer I'm all for it .<br> :date: __2020-10-24 10:58:12__
+
 > Great idea<br> :date: __2020-10-23 02:57:58__
 
 > Jk you'll k. BLM on jk km violin BBC don vso inch ill<br> :date: __2020-10-19 01:51:28__
@@ -162,12 +168,6 @@ The Covid Alert DE app has been installed by more than **5000** times. At this t
 
 > My only suggestion is adding daily reminder notifications to check in.<br> :date: __2020-09-24 08:41:49__
 
-> Super easy to use.<br> :date: __2020-09-22 18:30:41__
-
-> Simple interface, good execution. Should be simple enough for less-than-tech-savy people. Very good idea making it Bluetooth only; I can recommend this to others with peace of mind in terms of privacy. It doesn't even ask for other permissions! All around great job. If you have criticisms, please send it to there feedback department. Don't just rate the app low because you're having trouble with it. You're just hurting the reach of the app, and we need this to be widespread to work.<br> :date: __2020-09-17 22:05:59__
-
-> Because Covid-19 is bad, mkay.<br> :date: __2020-09-16 02:35:53__
-
 
 
 #### 4-star reviews
@@ -175,6 +175,8 @@ The Covid Alert DE app has been installed by more than **5000** times. At this t
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="gov.de.covidtracker 4 reviews"/>
 </p>
+
+> I like to help. Thinking I read directions correctly, now it is clear. . . "Use this app for 1 minute a day to make an important contribution to the fight against coronavirus." I don't know about all that, but the simple and straight forward dashboard is slick. Do your part and pray we get through this post-haste! I find it alarming that Kent County, DE is surrounded by higher infection rates, to the north and south. Software that does not suck is Cool.<br> :date: __2020-10-28 13:49:22__
 
 > Looking for test sites???<br> :date: __2020-10-21 06:23:29__
 
@@ -207,6 +209,8 @@ No recent reviews available with 2 stars.
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="gov.de.covidtracker 1 reviews"/>
 </p>
+
+> Will not completely install, just hangs.<br> :date: __2020-10-24 21:43:07__
 
 > Whats the use of downloading a dumb app for covid. Im not a robot that a phone thinks i have covid. I rather go to the hospital now and have a check up for me instead of downloading this app. This app can be dangerous and idk know if you guys are trying to look through my phone and seeing what i am talking about to my bf. I thought the government already have our information for a long. But Nooooo, they want to use this to be deep in our asses. I dont trust this app. Bye!<br> :date: __2020-10-18 22:53:52__
 
