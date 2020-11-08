@@ -1,11 +1,59 @@
 [
     {
+        "reviewId": "gp:AOqpTOFdABYMDu3fpZg3HkB4jSV19xyh5Q13QSNoCrkZOyl36NUxbpWPbEU9go2maVdh1VKYtjqdwbyVCrq6u-I",
+        "userName": "Dawn",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjniM-fGvh7O9ctZU0va6zB8c104aiGNcVQoLL4c1E",
+        "content": "App has grown over the years and I appreciate the work that has gone into making it. My alerts are timely for the different counties that I've entered. THAT being said: The app has the potential to be so much more. Save lives. Can you please make it less time consuming to use? When I travel I need to hear *alerts in the County I'm IN.* What I would like to see in an update is the use of GPS to alert me *wherever* I am. Also.. Why isn't anyone taking advantage of the Blog section?",
+        "score": 4,
+        "thumbsUpCount": 4,
+        "reviewCreatedVersion": "2.11.2",
+        "at": "2020-11-06 20:45:42",
+        "replyContent": "Hi Dawn,\n\nThank you for your feedback. We are currently investigating the issue of inconsistent alert delivery and are conducting internal testing. We hope to resolve this issue in the upcoming release. We are committed to addressing issues and improving the FEMA App so it is a useful tool for our users.",
+        "repliedAt": "2019-03-07 22:07:15"
+    },
+    {
+        "reviewId": "gp:AOqpTOFJTxBzP3_iTt1rcJ71a1XM6TDXxPzDv3TCoIeYYZ08p3bsgA5rfc-GU_o3IActjuSh_ZNDNgyHuZ0_4q8",
+        "userName": "Dennis Gordon Johnson",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiNhGO8PBYWHAnIWWgRoSpSMb45pbQBtSXnb986",
+        "content": "It should always be an app like this for all phone carriers",
+        "score": 5,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "2.11.2",
+        "at": "2020-11-04 18:51:35",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOH5xNoutjtedS1kzmclZkQj69UjLFtHGoGcgC2G_TxGTMlznWrtHPaJEviQrm-0dHIbMNUvPySCdCLGyuM",
+        "userName": "Daniel Steven Janerico",
+        "userImage": "https://play-lh.googleusercontent.com/-QERiP375kCw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclzknxBKC9Rj9VOTU09wEG9-JD8Gw/photo.jpg",
+        "content": "Major Investment To Have As An App /\\ Highly Informative /\\ Go Customize In Settings And Enjoy Being In The Knowing Before Even Local News ~ DJ Of Greater Boston Area Approves ~",
+        "score": 5,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "2.11.2",
+        "at": "2020-11-04 11:25:01",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGqLNZy-F-XS4LiEBE23Y1tdGMRAG8j0lnaoPzswnHfL-E4HiDAPQDiDWGDuPCVvpChGm60HJUmQg3fdSk",
+        "userName": "Rito Heysham",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhmONEnkJo1roNk_zi7zLeYSePcc_DIhBHyCWxAuA",
+        "content": "Share doesn't work!!!! UNINSTALLED the junk app",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2020-11-01 13:09:50",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOGjoyc-8MweomFr0umYVUvlNbZV_vB4utqqSNOihBx6r4OuQq5-EQd_wPZ-RYTIWaMnu67qOi-fW3-H0hc",
         "userName": "Edw Geiss",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj4bzAZ-eN5yFDjLpLqz78hl3GUggVLikqLCFF8",
         "content": "Zeta not an option to qualify for assistance!",
         "score": 1,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "2.11.2",
         "at": "2020-10-31 05:39:11",
         "replyContent": null,
@@ -305,7 +353,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiZwoxq77qQGVvNb46aZqAPYn0J1ablcbwPCvzjSQ",
         "content": "Sends out alerts as expected, but here's the issue. If I'm in another app (Facebook, e.g.), it won't override it, and there doesn't seem to be a way to get the alert within the actual app, so if you miss it... too bad. Also tried to pull up the app while roaming, and got a \"no wifi\" connection error. Who the hell has wifi during an emergency??? DO BETTER.",
         "score": 3,
-        "thumbsUpCount": 32,
+        "thumbsUpCount": 35,
         "reviewCreatedVersion": "2.11.1",
         "at": "2020-09-13 18:35:21",
         "replyContent": null,
@@ -485,7 +533,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-1f_nKivYeiQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucken5Nj8Yr7dZg22rIrcghz0KQDGg/photo.jpg",
         "content": "The type is thinner and less legible with this update. The unnecessary style change reduces its usefulness to me. Plus, I have not received alerts about the smoke in my area or the fires near me although I specified that in the settings. So I uninstalled it.",
         "score": 3,
-        "thumbsUpCount": 69,
+        "thumbsUpCount": 70,
         "reviewCreatedVersion": "2.11.1",
         "at": "2020-08-21 06:13:51",
         "replyContent": null,
@@ -782,7 +830,7 @@
     {
         "reviewId": "gp:AOqpTOH82w7kutTe9LrzCw6Z12CCpb886uNTUnoeVV7vadhPvFxLOIte5i3wRztByRs_BunLFzBlodC0wfKovAg",
         "userName": "Denise. L Hossler",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ghrvy2SIG7fcb0Fj8ruBE7vkOAvI2OZZBraPQhJKQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiAipYq4bXlqnbt91m72ElKtKyKQnO_q3TBWlOxlA",
         "content": "\ud83c\udf1fI like it",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1274,7 +1322,7 @@
     {
         "reviewId": "gp:AOqpTOF7GGSaRy2Rb71DX4dA1V4oRgdYZigGobN5QH3GPOQBIZGnzaBInqKRjoToPhu5yEWrISk8hZZFTDldqiE",
         "userName": "Amber Ford",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgDB7fWbBaur9uvULlnmGJqG3_Abc4JPAsn5Ag6zQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gim0ke-kG4nM4-YjmTTbfIcduqelXzGazJQPQNwr6c",
         "content": "Always on top of it",
         "score": 4,
         "thumbsUpCount": 0,
@@ -1826,7 +1874,7 @@
     {
         "reviewId": "gp:AOqpTOFCVJIZg-roU4h0yZb7wS_Jra5Q6mCmAldg17ghdjUr2RRoWPG3qCUk12fYujcznFoko2TmYN7i7bsFLLg",
         "userName": "MYSTIC MOOnSHINE",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjozzcDReCVu2s7ul0TKd6EglSCviZ7D18_mzMBJ8A",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjkvknALhrhP9MzXkGUBNX4VHAhp8p5nYHrMWirFPA",
         "content": "Worth it to have peace of mind",
         "score": 5,
         "thumbsUpCount": 2,
@@ -4104,18 +4152,6 @@
         "repliedAt": null
     },
     {
-        "reviewId": "gp:AOqpTOFdABYMDu3fpZg3HkB4jSV19xyh5Q13QSNoCrkZOyl36NUxbpWPbEU9go2maVdh1VKYtjqdwbyVCrq6u-I",
-        "userName": "Dawn",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjniM-fGvh7O9ctZU0va6zB8c104aiGNcVQoLL4c1E",
-        "content": "I'm no longer receiving alerts on my phone or my tablet. I rely on this app FEMA. Pls fix it. Thank you.",
-        "score": 1,
-        "thumbsUpCount": 4,
-        "reviewCreatedVersion": "2.10.3",
-        "at": "2019-03-05 06:20:06",
-        "replyContent": "Hi Dawn,\n\nThank you for your feedback. We are currently investigating the issue of inconsistent alert delivery and are conducting internal testing. We hope to resolve this issue in the upcoming release. We are committed to addressing issues and improving the FEMA App so it is a useful tool for our users.",
-        "repliedAt": "2019-03-07 22:07:15"
-    },
-    {
         "reviewId": "gp:AOqpTOELfIBBScO7iTSX-JLL0s3rjl4riHfNTSS6F-FNsl8qruZz5X2tZuSBpPhVvQmVq_JjYPV2eTwLxEjHTuc",
         "userName": "Holly J",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhenlJ4-R9MziXUs_pI4atn90aoxpdO79g2TglP2g",
@@ -4466,7 +4502,7 @@
     {
         "reviewId": "gp:AOqpTOGMiLJcfcTnSN6Ka50y5oQ9wWlSmK5EvkcVNMptJxH55axfyjEyTVbrt5_b_5jL4XTCkAy1CuzDfdq9p3o",
         "userName": "Amanda Ponvelle",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhlNGSyeXEKEqa-Z0yf6y5sBuihQLN5uAbLuk5V9A",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhVPdrTktvmQqZJ4OnkQOQCTo1m77j-otga6NYNKQ",
         "content": "Let me read more",
         "score": 5,
         "thumbsUpCount": 4,
@@ -4778,7 +4814,7 @@
     {
         "reviewId": "gp:AOqpTOG5E3I-hTH5N86Zu9QZN9CNfR9fN3FXoWblP0KjzDA-SozLjh7niiUGq-1wkgH_AaS6vpjCsyTZI37iKdQ",
         "userName": "Jason -",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhQuaoRA0dzqDXGPfpxc1uRSV4CHC0LNzNI6HKFjw",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh1I63dUXN08rjnxOMUK6CP5EwSd0jUSDUVWZ6KdA",
         "content": "Getting alerts before I do on any other app, very helpful, a good use of my tax dollars",
         "score": 5,
         "thumbsUpCount": 5,
@@ -5354,7 +5390,7 @@
     {
         "reviewId": "gp:AOqpTOG53Hm1OCsGDZqr1K_l5AqTrU2wBe-DtZQtqf371Xx3CCAK-NKMZmyq5i73nuDuMMVbsnefMLsAvGGJmEU",
         "userName": "Michelle Baterina",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiQRGpY-YTVsNlsh6xmdboU_szKiHPqdGQqrXqt",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgoM8tPEdXfDxdIYdm6bHHO1x2WjRUKDJ2zJA0xZQ",
         "content": "Just installed app, and it sure crashed upon opening the first time around. Unacceptable! We're in the midst of a hurricane and tornado warning right this very moment!",
         "score": 1,
         "thumbsUpCount": 23,
@@ -6697,7 +6733,7 @@
     },
     {
         "reviewId": "gp:AOqpTOGZXxDIeF_wRJ34ulm0PyqizwXDj4SFXfEpmXzCj-HlPtufTOid5gu0QEyZYYpxDM9BlZZSGU3hbGQoQ5Y",
-        "userName": "DIKC SQUAD PKINGP",
+        "userName": "Antonio D Pinchback",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhrscagQ7Ej7AcQgz6s4FtLlWpMXRTM0NQpHWsX4g",
         "content": "Greater Relief",
         "score": 5,
@@ -6968,18 +7004,6 @@
         "thumbsUpCount": 9,
         "reviewCreatedVersion": "2.9.2",
         "at": "2017-09-07 17:40:34",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOE_2leh-xjWi5nnxtvAz8nBrBpjtttcm4MBImzaEgMEa_crXeIkf8mcNk18xbxbHTGsOQeWdVNzrM15KbY",
-        "userName": "David Mcmillin",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiXcGZCSlFMfDWXMOdwpizm472_l_KGNZUaELI5zA",
-        "content": "Didnt help....",
-        "score": 1,
-        "thumbsUpCount": 4,
-        "reviewCreatedVersion": "2.9.2",
-        "at": "2017-09-07 17:20:45",
         "replyContent": null,
         "repliedAt": null
     },
@@ -9026,7 +9050,7 @@
     {
         "reviewId": "gp:AOqpTOFTnRX4hOp4iN7exHRGotwK5XPe2KJPg6iDahGt_kAfUOnrODPRIHer7XgcjSv_-jUkRkuXh_CXIpOrEoU",
         "userName": "JOSHaka OGER",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gjc9iStMZwVcXGrVTIL8mNrwu6Yv5AR_QyUzfD2qTQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj_9a4nLzt4W6g4KV3HQfdEcQzBecMrr4UxDt1UIBw",
         "content": "Just goes off all day...its a little windy i know it's not hazardous \ud83d\ude12 will go off twice for same thing to...",
         "score": 2,
         "thumbsUpCount": 5,
@@ -9818,7 +9842,7 @@
     {
         "reviewId": "gp:AOqpTOHDNjMWiCVT5pCzjagzt7_JOgOXHX5BVC521iz5sEk2qermu4Ia9QZNTxj3YjuInVVJpFe9MidAxkaSHpA",
         "userName": "Arnold Alt",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gjlhnf2sSFHzvbuVGtlFjxkH6hFdqL63w4rU9jHrrU",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhfGr3MpkMDNuZ3T9-wRiJQsriS5VDLSLLOIbAM0tc",
         "content": "I thought this was going to be a cool idea, something from FEMA. But it wasnt. The alerts comes 3 hours late. I get an alert sound and there's nothing to be seen. Don't waste your time.",
         "score": 1,
         "thumbsUpCount": 1,

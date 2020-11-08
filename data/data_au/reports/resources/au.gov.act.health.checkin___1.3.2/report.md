@@ -246,6 +246,8 @@ No recent reviews available with 2 stars.
 <img src="1_star_reviews_wordcloud.png" alt="au.gov.act.health.checkin 1 reviews"/>
 </p>
 
+> Complete failure. Says enter code but no indication of where to get code.<br> :date: __2020-11-04 00:06:22__
+
 > This app does not work. I've tried at 3 different locations and it has not worked once. Scanning a QR code and entering details manually was far easier. So now have to use written sign in if available or not bother signing in (playgrounds)<br> :date: __2020-10-27 04:01:35__
 
 > Poorly implemented solution. Clunky / inconvenient to use. Uninstalled it immediately after using it for the first time.<br> :date: __2020-10-23 07:41:15__

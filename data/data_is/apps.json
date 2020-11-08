@@ -4,20 +4,20 @@
         "store_country": "is",
         "store_lang": "is",
         "latest_crawled_version": "2.1.2",
-        "latest_crawl": 1604143810
+        "latest_crawl": 1604844247
     },
     {
         "id": "org.who.infoapp",
         "store_country": "is",
         "store_lang": "is",
         "latest_crawled_version": "3.1.1",
-        "latest_crawl": 1604143956
+        "latest_crawl": 1604844248
     },
     {
         "id": "de.xikolo.openwho",
         "store_country": "is",
         "store_lang": "is",
         "latest_crawled_version": "3.6",
-        "latest_crawl": 1604144000
+        "latest_crawl": 1604844254
     }
 ]

@@ -217,6 +217,8 @@ The SiciliaSiCura app has been installed by more than **50000** times. At this t
 <img src="2_star_reviews_wordcloud.png" alt="com.siciliasicura.app 2 reviews"/>
 </p>
 
+> Non sono riuscito a registarmi , sembra un APP di altri tempi , credo che dovrebbe essere strutturata in modo + semplice.<br> :date: __2020-11-01 12:50:36__
+
 > Sono nel punto in cui dovrei copiare il link e procedere con la password.Impostata la password ma non va..Come si fa reimpostare nuova password,mi apra sempre solo schermata del password. E non va oltre.Dove puo essere il problema,oltre la rete che si legge spesso nei commenti?<br> :date: __2020-09-27 09:04:56__
 
 > Non ne ho capito l utilità<br> :date: __2020-09-14 20:19:05__
@@ -234,8 +236,6 @@ The SiciliaSiCura app has been installed by more than **50000** times. At this t
 > Nn si vedono i mesi dell' anno e tanto meno l anno, bisogna andare a fortuna o contare all indietro. Vedete di modificare e di semplificare l'iscrizione<br> :date: __2020-07-04 16:24:40__
 
 > L'app manda 5-6 volte di fila la notifica per segnalare il proprio stato. Si verifica ogni santo giorno! Da 2-3 giorni, addirittura, anche dopo che invio l'aggiornamento sul mio stato mi viene notificato nuovamente di segnalare il mio stato! Sempre 5-6 volte di fila!<br> :date: __2020-07-03 17:02:43__
-
-> Ho fatto la registrazione compilando il modulo ma dopo tempo continuo a non ricevere nessuna mail di conferma...<br> :date: __2020-07-03 09:45:20__
 
 
 

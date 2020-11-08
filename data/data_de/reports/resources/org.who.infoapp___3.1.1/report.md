@@ -138,6 +138,8 @@ The WHO Info app has been installed by more than **100000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="org.who.infoapp 5 reviews"/>
 </p>
 
+> Winkelnkemper Hildegard<br> :date: __2020-11-07 06:59:07__
+
 > Perfekt für Informationen<br> :date: __2020-10-12 12:50:14__
 
 > Informativ<br> :date: __2020-06-16 12:45:21__

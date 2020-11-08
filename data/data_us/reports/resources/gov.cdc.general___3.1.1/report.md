@@ -188,6 +188,10 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 <img src="5_star_reviews_wordcloud.png" alt="gov.cdc.general 5 reviews"/>
 </p>
 
+> Love having up to date disease transmission protocols at my convenience 24/7. Great app<br> :date: __2020-11-08 02:28:28__
+
+> Information<br> :date: __2020-11-01 17:22:31__
+
 > Good<br> :date: __2020-10-30 08:46:57__
 
 > I like that you can do that<br> :date: __2020-10-05 21:26:45__
@@ -204,10 +208,6 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 
 > I have always used this app.<br> :date: __2020-08-17 03:41:55__
 
-> Great<br> :date: __2020-08-14 15:54:32__
-
-> I like the app<br> :date: __2020-08-07 19:35:07__
-
 
 
 #### 4-star reviews
@@ -215,6 +215,8 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="gov.cdc.general 4 reviews"/>
 </p>
+
+> Excel<br> :date: __2020-11-06 05:26:25__
 
 > A very informative app on Disease and general health protocol. Could have 5 stars if it was easier to navigate and find information such as a search bar to find exactly what I'm looking for.<br> :date: __2020-09-11 04:55:30__
 
@@ -233,8 +235,6 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 > Very little data a available.<br> :date: __2020-05-08 15:45:49__
 
 > Not sure its functions or How it works<br> :date: __2020-04-25 10:08:09__
-
-> I love the CDC but I wish it wouldn't be a app that puts you on the internet<br> :date: __2020-04-23 02:17:52__
 
 
 
@@ -272,6 +272,8 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 <img src="2_star_reviews_wordcloud.png" alt="gov.cdc.general 2 reviews"/>
 </p>
 
+> Ughh<br> :date: __2020-11-04 07:10:21__
+
 > Esi o.m k.m .w o w 9. Ve o oe oeevdbe dv we DV b ni bbx ab workout db we vbbe okk. E. The, e.e. .<br> :date: __2020-09-26 07:37:44__
 
 > I downloaded this for coronavirus updates for my area no updated information. Some dates back to june 2 abd its July 6th.<br> :date: __2020-07-06 13:27:08__
@@ -289,8 +291,6 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 > Poor app mise well use website as this is a glorious bookmark hidden as an app in my opinion<br> :date: __2020-04-30 07:18:34__
 
 > Ok<br> :date: __2020-04-28 15:22:50__
-
-> This damn app doesn't exit<br> :date: __2020-04-23 08:54:01__
 
 
 

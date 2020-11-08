@@ -131,7 +131,7 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="de.bssd.covid19 5 reviews"/>
 </p>
 
-> Winkelnkemper Hildegard<br> :date: __2020-10-31 10:10:21__
+> Winkelnkemper<br> :date: __2020-11-07 06:57:40__
 
 > Herunter laden und anmelden ging schnell und einfach. Nur die Geduld auf das Testergebniss hab ich nicht so 😔<br> :date: __2020-10-30 20:11:18__
 
@@ -187,6 +187,8 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 <img src="3_star_reviews_wordcloud.png" alt="de.bssd.covid19 3 reviews"/>
 </p>
 
+> Bisher funktionierte die App super. Seid die neuen QR Codes kleiner sind scannt die App sich zu Tode und das Ergebnis ist nicht anzeigbar. Bitte bearbeiten.<br> :date: __2020-11-08 05:30:19__
+
 > Das Scannen des QR-Codes funktioniert leider nicht. Die ID-Nummer habe icb per Hand eingegeben. Dies hat allerdings erst funktioniert, nachdem ich die App geschlossen und erneut geöffnet habe.<br> :date: __2020-10-02 15:56:21__
 
 > Alles gut<br> :date: __2020-09-07 17:57:06__
@@ -204,8 +206,6 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 > Höre von dieser App erst, als ich Mal gegoogelt habe, wie lange ich auf ein Ergebniss noch warten soll. Leider haben wir von der Elmshorner Klinik, wo wir den Test gemacht haben, keine QR-Codes bekommen. Arbeiten nicht alle Kliniken oder Teststationen mit der App? Wir warten auch seit 5 Tagen auf ein Ergebniss.<br> :date: __2020-06-11 18:47:53__
 
 > Hallo, beim eingeben der id Nummer oder abscannen des Codes steht dran dass es ein Fehler gibt und das passwort oder benutzernamen falsch ist kann mir bitte einer weiterhelfen? Vielen Dank im voraus<br> :date: __2020-05-09 19:58:09__
-
-> Die Datenschutzerklärung ist nicht zoombar, und damit nicht lesbar. Muss aber bestätigt werden. Problem wurde gelöst.<br> :date: __2020-05-06 07:35:42__
 
 
 
@@ -243,24 +243,24 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 <img src="1_star_reviews_wordcloud.png" alt="de.bssd.covid19 1 reviews"/>
 </p>
 
-> Alle versucht, nix funktioniert! Nicht zu empfehlen! Weg damit!<br> :date: __2020-10-30 08:50:13__
+> Versagen auf ganzer Linie. Absolut unfähig und unnütz. Jetzt, über eine Woche nach dem Test liegt mein Ergebnis in der App immer noch nicht vor.<br> :date: __2020-11-08 11:17:43__
 
-> Komisch<br> :date: __2020-10-29 21:33:46__
+> Lässt sich leider nicht öffnen, sehr schade<br> :date: __2020-11-07 20:07:00__
 
-> Die wohl schlechteste App des Jahres, QR-Scanner gent nicht und manuell eingegebener Code wird nach dem Schließen der App vergessen.<br> :date: __2020-10-29 14:35:06__
+> Das funktniert garnicht👎🏼👎🏼👎🏼<br> :date: __2020-11-06 11:50:20__
 
-> QR Scanner und ID Eingabe funktionieren nicht. App ist so nutzlos. Ich habe die App heute runter geladen. Eine Freundin hat die App schon länger. Sie kann meine Zahlen ID anwenden. Also hat man die App anscheinend verbessern wollen und das Gegenteil erreicht.<br> :date: __2020-10-29 13:03:55__
+> Funktioniert nicht die App schließt sich automatisch wieder<br> :date: __2020-11-05 16:32:06__
 
-> Nicht kompatibel mit Android 11! App schließt sich direkt nach dem Starten wieder.<br> :date: __2020-10-28 22:49:44__
+> Die App zeigt auch eine Woche nach tatsächlichem Vorliegen des Testergebnisses noch an, dass kein Ergebnis vorliegt. Damit ist die App nutzlos. Dass dann der QR-Code nicht gescannt werden kann und die Eingabe des Codes umständlich, ist dann auch nebensächlich.<br> :date: __2020-11-05 05:45:29__
 
-> Funktioniert leider nicht. Wollte mit der App das Ergebnis von einem bekannten nachschauen, der selber kein Handy hat. Es kommt immer nur "Ihr Ergebnis liegt noch nicht vor". Hab dann in den sauren Apfel gebissen und in der RKI Corona Warn App erst alle Daten resettet und dann dort den QR Code gescannt. Das hat dann funtioniert. Test negativ. Mit dieser Covid 19 App verschwendet man nur seine Zeit. Vorschlag: 1. Prüfsumme die sagt ob der Code stimmt 2. Webseite statt App<br> :date: __2020-10-28 20:48:57__
+> Reinfall! Qr code scannen funktioniert überhaupt nicht. Auch die Eingabe des Codes hat nicht funktioniert. Direkt deinstalliert. Absoluter Reinfall.<br> :date: __2020-11-04 22:45:03__
 
-> Eure Harz4 App scannt nicht mehr<br> :date: __2020-10-28 20:45:52__
+> Funktioniert nicht<br> :date: __2020-11-04 19:32:57__
 
-> QR-Scanner funktioniert nicht. Anmeldung über ID auch nicht möglich. Unbrauchbar.<br> :date: __2020-10-28 18:56:19__
+> Code wird nicht gescannt...ist ja nicht so als wäre es wichtig das so eine app einwandfrei funktioniert.<br> :date: __2020-11-04 16:17:07__
 
-> Lächerlich. Startet auf meinem Pixel 5 nicht Mal bzw schließt sich direkt wieder.<br> :date: __2020-10-28 16:54:56__
+> App funktioniert kein bisschen Mittwoch Morgen getestet, Freitag Vormittag Ergebnis telefonisch vom Arzt erhalten und App zeigt bis zum nächsten Mittwoch die Meldung "Ihr Ergebnis liegt nicht vor" an Dann deinstalliert.<br> :date: __2020-11-04 14:45:38__
 
-> Diese App ist unbrauchbar. Ich empfehle das Labor direkt anzurufen um nach dem Ergebnis zu fragen. Die App zeigte immer nur an, dass mein Befund noch nicht vor liegt.<br> :date: __2020-10-28 12:48:45__
+> Mmhh....wollte die ID eingeben, es wird aber nicht angegeben in welcher Form diese sein muss. In der Beschreibung steht "nur wenn das Labor die App unterstützt". Da aber nicht beschrieben wird welche Labore das unterstützen und ich auf der Laborseite auch nichts finde muss ich annehmen dass BIOScienta nicht unterstützt wird<br> :date: __2020-11-04 10:05:15__
 
 

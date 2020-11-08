@@ -214,8 +214,6 @@ No recent reviews available with 2 stars.
 
 > Whats the use of downloading a dumb app for covid. Im not a robot that a phone thinks i have covid. I rather go to the hospital now and have a check up for me instead of downloading this app. This app can be dangerous and idk know if you guys are trying to look through my phone and seeing what i am talking about to my bf. I thought the government already have our information for a long. But Nooooo, they want to use this to be deep in our asses. I dont trust this app. Bye!<br> :date: __2020-10-18 22:53:52__
 
-> Don't be so pushy with government tracking apps directly to home-screen. You'll damage already fragile trust in government. 1 star for nanny-ishness. Slap your foreheads. Bad, engineers, bad. No treat for you.<br> :date: __2020-09-29 21:32:39__
-
 > Wow makes you turn on bluetooth and is a complete invasion of privacy. Stay home and hide if you are scared of COVID<br> :date: __2020-09-28 03:50:29__
 
 > Would like to use the app, but the app always hangs when I get to the data page and click on Continue. I' using a Pixel 3 phone, Android 11.<br> :date: __2020-09-24 16:20:30__

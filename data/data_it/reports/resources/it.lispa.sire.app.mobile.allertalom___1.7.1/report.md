@@ -188,7 +188,7 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <img src="4_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 4 reviews"/>
 </p>
 
-> Oggi non funziona anche oggi sabato non si apre più da quando il 30 ottobre si è aggiornata<br> :date: __2020-10-31 08:35:19__
+> Chiedo scusa sabato dopo averla aggiornata funziona regolarmente e ho mandato una email alla vostra società<br> :date: __2020-11-03 08:43:12__
 
 > In linea di massima non è male . Oggi mi si è bloccata , l'ho disinstallata e reinstallata ora funziona !<br> :date: __2020-10-21 21:46:23__
 
@@ -216,6 +216,8 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <img src="3_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 3 reviews"/>
 </p>
 
+> Ottima ma al momento non riesco più ad entrare<br> :date: __2020-11-06 17:40:02__
+
 > Subentrato un problema. Non appaiono più le notifiche. Ne circa il coronavirus, ne sulle allerte di protezione civile.<br> :date: __2020-10-27 01:06:02__
 
 > Non mi permette di modificare i dati che restano memorizzati, come l'età, oppure variazioni nelle risposte di sintomi o problemi di salute<br> :date: __2020-10-21 23:43:43__
@@ -233,8 +235,6 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 > Le previsioni meteo sono quasi sempre sballate<br> :date: __2020-08-17 14:05:10__
 
 > Non sempre veritiere<br> :date: __2020-07-26 16:43:10__
-
-> Problema risolto, grazie<br> :date: __2020-07-21 15:39:01__
 
 
 

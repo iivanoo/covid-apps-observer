@@ -126,6 +126,8 @@ The Corona Health app has been installed by more than **1000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="com.dbis.haugxhaug.coronahealth 5 reviews"/>
 </p>
 
+> winkelnkemper Hildegard<br> :date: __2020-11-06 17:14:58__
+
 > Perfekt. So können Umfragen rasch ohne Medienbruch erledigt werden. Forscher bekommen so schneller Daten, wir Patienten profitieren. Smarte Datenerfassung. Lob an die Entwickler! Holger<br> :date: __2020-08-26 11:50:02__
 
 > Tolle App, gutes Design, sehr nutzerfreundliche App<br> :date: __2020-08-16 17:02:05__

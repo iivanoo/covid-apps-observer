@@ -136,6 +136,8 @@ The Asistencia COVID-19 app has been installed by more than **100000** times. At
 <img src="5_star_reviews_wordcloud.png" alt="es.gob.asistenciacovid19 5 reviews"/>
 </p>
 
+> Importante que funcione en todas las comunidades autonomas, Andalucia pasando como siempre<br> :date: __2020-11-04 13:16:20__
+
 > A mi me gusta mucho más que una aplicación qué no te preocupes porque tengo la sensación de ser una persona muy sensata y más vale prevenir que curar, según mi COVI-19 lo estoy haciendo bien y yo no arriesgo mí salud habiendo tenido en mi mano el Radar que me avisa si tengo un riesgo a 1m, y alejarme sin arrepentimiento.<br> :date: __2020-10-11 21:17:42__
 
 > Funciona<br> :date: __2020-09-28 14:25:24__
@@ -153,8 +155,6 @@ The Asistencia COVID-19 app has been installed by more than **100000** times. At
 > Muy Bien<br> :date: __2020-08-31 10:19:26__
 
 > Me gusta<br> :date: __2020-08-28 01:13:31__
-
-> Excelente<br> :date: __2020-08-26 10:07:35__
 
 
 
@@ -248,6 +248,8 @@ The Asistencia COVID-19 app has been installed by more than **100000** times. At
 <img src="1_star_reviews_wordcloud.png" alt="es.gob.asistenciacovid19 1 reviews"/>
 </p>
 
+> Podian avisar que solo esta activa en algunas comunidades autonomas. No se cual es el criterio de que en algunas este operativa y otras no. Por lo menos la seccion de consejos podria estar operativa para toda España. Yo vivo en Galicia y para mi no es útil.<br> :date: __2020-11-02 12:30:37__
+
 > No me gusta todavía no es disponible la app para Andalucía<br> :date: __2020-10-25 15:16:42__
 
 > Falta de información en la provincia de Coruña Galicia<br> :date: __2020-10-19 14:06:39__
@@ -265,7 +267,5 @@ The Asistencia COVID-19 app has been installed by more than **100000** times. At
 > La aplicacion no se instala tiene errores<br> :date: __2020-09-18 14:46:03__
 
 > No se abre al<br> :date: __2020-09-15 14:01:30__
-
-> No se descarga<br> :date: __2020-09-13 09:09:24__
 
 

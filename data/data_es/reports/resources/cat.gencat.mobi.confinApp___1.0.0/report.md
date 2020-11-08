@@ -119,6 +119,10 @@ The CONFINAPP app has been installed by more than **10000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="cat.gencat.mobi.confinApp 5 reviews"/>
 </p>
 
+> Molt bé. Clar. Avui faig dos trajectes. De Sant Boi a Cornellà i de Cornellà a Canovelles. No quedaria reflectit el primer trajecte<br> :date: __2020-11-01 10:44:04__
+
+> Util<br> :date: __2020-10-31 22:47:53__
+
 > Información detallada de utilidad sobre lo relacionado con Covid_19, desde ayudas a última hora<br> :date: __2020-07-17 13:40:23__
 
 > Buena<br> :date: __2020-06-16 16:01:27__
@@ -136,6 +140,8 @@ The CONFINAPP app has been installed by more than **10000** times. At this time,
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="cat.gencat.mobi.confinApp 4 reviews"/>
 </p>
+
+> Apliqueu un codi QR per millorar certificats.<br> :date: __2020-11-01 13:45:27__
 
 > De momento va bien<br> :date: __2020-05-12 11:26:45__
 
@@ -175,24 +181,24 @@ The CONFINAPP app has been installed by more than **10000** times. At this time,
 <img src="1_star_reviews_wordcloud.png" alt="cat.gencat.mobi.confinApp 1 reviews"/>
 </p>
 
+> Muy mala no renueva certificado,de pena.<br> :date: __2020-11-08 10:49:39__
+
+> No funciona, no genera certificados<br> :date: __2020-11-06 07:31:59__
+
+> SI TENSUMBAEL OIDO TESCUCHA LA NASA..<br> :date: __2020-11-05 22:51:22__
+
+> No puedo verla en español<br> :date: __2020-11-03 09:08:33__
+
+> Finciona solo una vez, mala.aplicacion<br> :date: __2020-11-02 09:43:42__
+
+> No consigo nada<br> :date: __2020-11-01 21:30:19__
+
+> No me funciona<br> :date: __2020-11-01 11:50:06__
+
+> No funciona. No crea nuevos certificados.<br> :date: __2020-10-31 13:23:34__
+
 > App que només ha estat útil durant un parell de mesos. Es podria seguir fent sevir per indicar les mesures en vigor i per gestionar certificats de desplaçament, però inexplicablement s'ha deixat d'actualitzar, com totes les apps que va idear la Generalitat per la situació CoVID-19 en un inici. Apps inútils que han costat diners públics.<br> :date: __2020-10-28 21:47:50__
 
 > Penosa app, se rien en tu cara<br> :date: __2020-07-01 10:52:14__
-
-> No puedo crear mi perfil Pongo lo que pide pero no me da la opción de finalizar mi perfil<br> :date: __2020-06-11 20:59:07__
-
-> No va<br> :date: __2020-05-18 13:16:22__
-
-> Una aplicació que no serveix per res. Fora de temps.<br> :date: __2020-05-09 21:45:11__
-
-> Assisten virtual molt deficient....<br> :date: __2020-05-09 16:32:39__
-
-> Tenia el justificante de empresa guardado y el de desplazamiento, y de un dia para otro se han borrado todos sin aviso, suerte que me ha dado por mirarlo y que no me han parado porque iba sin justificantes gracias a confinapp...<br> :date: __2020-05-08 23:01:50__
-
-> estic demanant veure ajuts i no surt cap informació<br> :date: __2020-05-08 15:35:20__
-
-> He instal·lat l'aplicació per resoldre els dubtes dels horaris de passeig per edats, i el més que he trobat és el BOE. Molt pràctica com que no. Espavileu.<br> :date: __2020-05-07 19:30:06__
-
-> En un principio generaba certificados ahora no lo hace y no me sirve para nada<br> :date: __2020-05-06 08:59:27__
 
 

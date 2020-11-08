@@ -190,6 +190,8 @@ The WHO Info app has been installed by more than **100000** times. At this time,
 <img src="2_star_reviews_wordcloud.png" alt="org.who.infoapp 2 reviews"/>
 </p>
 
+> Intérêt limité, peu de nouvelles publiées<br> :date: __2020-11-02 21:15:54__
+
 > ركنا<br> :date: __2020-06-14 04:12:29__
 
 > Impossible de télécharger l'application<br> :date: __2020-06-08 19:28:39__

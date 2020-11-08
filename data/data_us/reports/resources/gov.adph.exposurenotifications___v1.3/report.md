@@ -164,6 +164,8 @@ The GuideSafe app has been installed by more than **50000** times. At this time,
 <img src="4_star_reviews_wordcloud.png" alt="gov.adph.exposurenotifications 4 reviews"/>
 </p>
 
+> Just started the app.<br> :date: __2020-11-04 21:03:09__
+
 > Ok<br> :date: __2020-10-18 23:44:48__
 
 > It works<br> :date: __2020-10-11 15:57:28__
@@ -206,6 +208,8 @@ The GuideSafe app has been installed by more than **50000** times. At this time,
 <img src="1_star_reviews_wordcloud.png" alt="gov.adph.exposurenotifications 1 reviews"/>
 </p>
 
+> I just can't figure out out bc I know as many places as I have been lately I must have had some kind of course contact somewhere and haven't received 1 alert, just everything about it is confusing I don't even know if I'm even logged in correctly or whatever you're supposed to do.. Hence being clueless<br> :date: __2020-11-08 13:15:03__
+
 > Don't work<br> :date: __2020-10-29 11:31:00__
 
 > Not accurate in the least!!!! Good intentions, but poorly executed.<br> :date: __2020-10-26 12:50:39__
@@ -223,7 +227,5 @@ The GuideSafe app has been installed by more than **50000** times. At this time,
 > Won't work<br> :date: __2020-10-22 22:47:15__
 
 > Couldnt even use it the app just kept stopping really could be better atleast stop the crashing<br> :date: __2020-10-22 21:19:38__
-
-> Pretty useless app<br> :date: __2020-10-14 21:16:36__
 
 

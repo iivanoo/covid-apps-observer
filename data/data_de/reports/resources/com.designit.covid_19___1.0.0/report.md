@@ -131,7 +131,7 @@ The COVID-19 Symptom Tracker app has been installed by more than **10000** times
 <img src="5_star_reviews_wordcloud.png" alt="com.designit.covid_19 5 reviews"/>
 </p>
 
-> Winkelnkemper Hildegard<br> :date: __2020-10-31 10:09:45__
+> Winkelnkemper Hildegard<br> :date: __2020-10-31 18:30:20__
 
 > Aktuell: Grottenlangsam. Mehr als 3 Min. bis Erledigung der 2 Fragen. Nehme nicht mehr Teil! Nachdem ich die Benachrichtigungen abgestellt hatte, war der morgendliche Dauergong verschwunden! Als Alumnus der Uni FR unterstütze ich das Projekt gerne. Auch wenn ich stark glaube, dass ich von Mitte bis Ende Februar auf Grund eines vorherigen Auslandaufenthaltes die Krankheit durchgemacht habe. An eine offizielle Bestätigung war damals noch nicht zu denken.....<br> :date: __2020-09-25 18:32:32__
 
@@ -225,13 +225,15 @@ The COVID-19 Symptom Tracker app has been installed by more than **10000** times
 <img src="1_star_reviews_wordcloud.png" alt="com.designit.covid_19 1 reviews"/>
 </p>
 
+> Müll. Kein Zugang. Neuinst nicht möglich. Ein Stern<br> :date: __2020-11-03 11:45:13__
+
+> Ich nutze die app Schonlange nicht mehr nicht zu Empfehlen wurde Seit 6 Monaten nicht mehr Aktualisiert ich würde Raten die app zu Deeinstallieren. Die app ist zu langsam die Kennzahlen wurden nie Aktualisiert<br> :date: __2020-11-01 10:14:09__
+
 > Grundsätzlich unterstützenswert, aber: extrem langsam, nervige Passwortabfrage, Verbindungsprobleme, wurde nie verbessert; ich deinsalliere sie jetzt.<br> :date: __2020-10-23 18:36:00__
 
 > Die App braucht immer länger zum laden... Edit Hab sie jetzt deinstalliert. Schade, die Idee war genial. Die technische Umsetzung eher das Gegenteil :(<br> :date: __2020-10-07 15:41:32__
 
 > Das Empfangen und Senden, dauert viel zulange. Habe es jetzt 100 Tage mitgemacht und es wurde nichts geändert oder angepasst. Deshalb habe ich es jetzt wieder gelöscht.<br> :date: __2020-10-03 06:40:38__
-
-> Die App funktioniert nicht Richtig nicht zu Empfehlen Updates gab es schon lange keine mehr die App ist der Letze Dreck die app hat nicht gehalten was sie versprochen hat die app braucht kein mensch nicht mal die Risiko zahlen wurden aktualisiert<br> :date: __2020-09-04 19:53:50__
 
 > Die App ist vernünftig stellt die richtigen Fragen mal sehen ob die App auch noch so gut bleibt in den nächsten Monaten die uns ja wahrscheinlich noch bevorstehen werden seit neuestem lade die App einfach zu lange bis die aufgeht bitte fixen dann wieder 5 Sterne naja die App die Leute melden sich ja nicht oder bar überarbeiten die app dass die wieder schneller lädt deswegen könnte man sie eigentlich auch löschen weil er mir das einfach zu lange dauert mit dem aufgehen<br> :date: __2020-08-16 20:25:07__
 
@@ -242,7 +244,5 @@ The COVID-19 Symptom Tracker app has been installed by more than **10000** times
 > Hilft nix ist umständlich und muß nach jedem Smartphonestart neu aufgerufen werden.<br> :date: __2020-07-20 18:43:23__
 
 > Ich deinstallier das wieder..., hab keine Lust mehr. Wenn ihr unbedingt Informationen wollt, dann gebt dem Affen Zucker ;-)<br> :date: __2020-06-27 18:10:36__
-
-> Nach ein paar Wochen, hat die App ein anderes Profil angezeigt. Keine Korrektur bei Fehleingaben möglich. Im Moment würde ich die App nicht wieder installieren.<br> :date: __2020-06-12 16:51:57__
 
 

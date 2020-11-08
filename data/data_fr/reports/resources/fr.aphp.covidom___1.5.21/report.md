@@ -132,6 +132,8 @@ The Covidom Patient app has been installed by more than **10000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="fr.aphp.covidom 5 reviews"/>
 </p>
 
+> Perfect thanks<br> :date: __2020-11-01 17:24:02__
+
 > Action réaction. Positive... je remplis mon 2eme questionnaire en signalant des symptomes... une heure aprés on me rappel pour me poser des questions et prendre de mes nouvelles... et on est dimanche matin ! Bravo ce suivis est tellement rassurant...<br> :date: __2020-10-25 11:37:02__
 
 > Cette application m'as énormément été utile<br> :date: __2020-09-24 17:23:04__
@@ -149,8 +151,6 @@ The Covidom Patient app has been installed by more than **10000** times. At this
 > Bonne appli, j'ai bien reçu mes identifiants envoyés par le médecin. Le questonnaire quotidien est facile à compléter et c'est rassurant d'être suivi et sous surveillance.<br> :date: __2020-04-23 14:50:40__
 
 > Je n'ai pu accéder au service que après avoir reçu un code et un identifiant Uns fois connecté c'est facile et ça a l'air de bien marcher Faites attention à vous !<br> :date: __2020-04-23 12:32:15__
-
-> Un jeu d'enfant avec l'identifiant communiqué par mon medecin. Tres rassurant de se sentir suivi.<br> :date: __2020-04-23 12:17:18__
 
 
 
@@ -216,6 +216,10 @@ The Covidom Patient app has been installed by more than **10000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="fr.aphp.covidom 1 reviews"/>
 </p>
 
+> Application pas clair dutout ... elle sent l arnaque !<br> :date: __2020-11-02 21:41:00__
+
+> Mot de passe sans cesse bloqué<br> :date: __2020-11-02 12:27:39__
+
 > Une fois installée je n arrive pas à voir les documents. Donc impossible de remplir les documents.<br> :date: __2020-10-27 14:15:54__
 
 > Application nulle, je n'arrive pas à me connecter.<br> :date: __2020-10-26 14:04:39__
@@ -231,9 +235,5 @@ The Covidom Patient app has been installed by more than **10000** times. At this
 > Application très mal finie , web et Android. Par un pré-apprenti stagiaire ? Impossible d'ajouter un document PDF, seules les photos sont acceptées. Pas moyen d'enlever un document envoyé par erreur ! Sur la version web, je suis de sexe indéterminé, je ne peux pas corriger. Sur Android, je suis une femme. Depuis quand ? Je suis né avec un zizi il y a un peu plus de 59 ans, je l'ai toujours et n'ai jamais voulu m'en défaire. Merci de corriger.<br> :date: __2020-09-02 00:04:31__
 
 > J'ai activé mon compte mais je n'arrive pas a faire le questionnaire de suivi. Comment dois-je faire ?<br> :date: __2020-09-01 00:20:57__
-
-> Aussitôt installée aussitôt desinstallee, ne fonctionne pas avec les codes reçus par SMS, APPLI totalement inutile donc. Pas de temps à perdre àvec un truc qui ne fonctionne pas<br> :date: __2020-08-25 10:17:58__
-
-> J'ai été en contact avec une personne testée positive, j'ai reçu mes codes, mais à aucun moment il y a la question: avez vous fait le dépistage ? Je l'ai fait je suis négative et je dois remplir le questionnaire comme si j'étais positive... Incohérent !<br> :date: __2020-08-18 10:48:21__
 
 

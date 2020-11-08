@@ -126,6 +126,8 @@ The MI COVID Alert app has been installed by more than **1000** times. At this t
 <img src="5_star_reviews_wordcloud.png" alt="gov.michigan.MiCovidExposure 5 reviews"/>
 </p>
 
+> Does what it says and doesn't drain phone resources. Good to see MI finally get in on the exposure notification API.<br> :date: __2020-10-31 18:51:56__
+
 > I just downloaded today. I live in Atlanta, Georgia. Since it is called MI Covid alert, would it work here to alert me and be able to report a case? Sorry if this is a dumb question but it seems like it could be a suberb app. And I truly love that it is not intrusive like most apps. The app for Georgia asks for too much info.<br> :date: __2020-10-26 05:09:50__
 
 > Sad to see an incredibly small amount of downloads on a powerful app(tool)that everyone should be taking advantage of right now<br> :date: __2020-10-21 02:34:10__
@@ -175,6 +177,10 @@ No recent reviews available with 2 stars.
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="gov.michigan.MiCovidExposure 1 reviews"/>
 </p>
+
+> Useless app! I've been around several people at work who tested positive since having this app. Nobody is using it. Need a better solution than this.<br> :date: __2020-11-07 15:01:29__
+
+> My wife tested positive. No alert. Yes, we live together. Draw your own conclusions.<br> :date: __2020-11-06 19:05:54__
 
 > Garbage. Need an app with good numbers and stats. I dont need big brother guiding me to this app and blocking all other kinds of covid apps from being developed.<br> :date: __2020-10-31 02:11:00__
 

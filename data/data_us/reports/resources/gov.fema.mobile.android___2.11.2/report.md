@@ -163,6 +163,10 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 <img src="5_star_reviews_wordcloud.png" alt="gov.fema.mobile.android 5 reviews"/>
 </p>
 
+> It should always be an app like this for all phone carriers<br> :date: __2020-11-04 18:51:35__
+
+> Major Investment To Have As An App /\ Highly Informative /\ Go Customize In Settings And Enjoy Being In The Knowing Before Even Local News ~ DJ Of Greater Boston Area Approves ~<br> :date: __2020-11-04 11:25:01__
+
 > Love<br> :date: __2020-10-23 06:12:58__
 
 > Easy and great ti yse...Thank you FEMA<br> :date: __2020-10-21 15:38:31__
@@ -179,10 +183,6 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 
 > Good 👍 keep phone where on all time. It will follow you.<br> :date: __2020-10-12 01:23:15__
 
-> Helpin the helpless<br> :date: __2020-10-11 20:32:21__
-
-> Great information to keep current of the situations.<br> :date: __2020-10-08 22:32:16__
-
 
 
 #### 4-star reviews
@@ -190,6 +190,8 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="gov.fema.mobile.android 4 reviews"/>
 </p>
+
+> App has grown over the years and I appreciate the work that has gone into making it. My alerts are timely for the different counties that I've entered. THAT being said: The app has the potential to be so much more. Save lives. Can you please make it less time consuming to use? When I travel I need to hear *alerts in the County I'm IN.* What I would like to see in an update is the use of GPS to alert me *wherever* I am. Also.. Why isn't anyone taking advantage of the Blog section?<br> :date: __2020-11-06 20:45:42__
 
 > Decent at first glance<br> :date: __2020-09-27 05:28:47__
 
@@ -208,8 +210,6 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 > Great at giving alerts for different areas. Live posting during storms is excellent. Just be careful you don't list to many places to avoid constant updates.<br> :date: __2020-06-12 03:22:06__
 
 > Only worth downloading if you're in a disaster situation. Otherwise it's not very useful.<br> :date: __2020-05-23 06:10:43__
-
-> Extremely well covers high pop centers. However, little to no coverage in rural areas. We live in Benton County, MO...no coverage ANYWHERE here.<br> :date: __2020-05-22 15:48:47__
 
 
 
@@ -275,6 +275,8 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 <img src="1_star_reviews_wordcloud.png" alt="gov.fema.mobile.android 1 reviews"/>
 </p>
 
+> Share doesn't work!!!! UNINSTALLED the junk app<br> :date: __2020-11-01 13:09:50__
+
 > Zeta not an option to qualify for assistance!<br> :date: __2020-10-31 05:39:11__
 
 > Poorly targeted and poorly timed notifications that are sent during normal sleep hours - make it necessary to use device settings to stop all notifications from this app. Insufficient app based management of notifications.<br> :date: __2020-10-28 10:43:34__
@@ -292,7 +294,5 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 > No point in having the app. You go to check your application status and it brings you to the website. App serves no purpose.<br> :date: __2020-09-05 00:28:47__
 
 > I cannot log in i need to check my status<br> :date: __2020-08-31 07:30:24__
-
-> What is this nonsense about agreeing to terms for "PURCHASES"? I do NOT need this and would rather have not installed it.<br> :date: __2020-08-26 01:09:32__
 
 

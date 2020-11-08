@@ -144,6 +144,10 @@ The Care19 Alert app has been installed by more than **5000** times. At this tim
 <img src="5_star_reviews_wordcloud.png" alt="com.proudcrowd.exposure 5 reviews"/>
 </p>
 
+> Works great<br> :date: __2020-11-07 23:36:18__
+
+> Not really sure how often it does a check but from what I see from the pictures it's suppose to check 2 hours or so and I will go hours between checks kind of disappointed in the app not going to know if I have been exposed if it don't check when it is suppose to<br> :date: __2020-11-03 20:26:41__
+
 > I love the app because I love it<br> :date: __2020-10-29 18:17:07__
 
 > Absolutely love it<br> :date: __2020-10-25 07:09:59__
@@ -196,13 +200,15 @@ No recent reviews available with 2 stars.
 <img src="1_star_reviews_wordcloud.png" alt="com.proudcrowd.exposure 1 reviews"/>
 </p>
 
+> Don't put stuff on my phone if I want it I would get it<br> :date: __2020-11-01 07:21:06__
+
+> I dont live in the states that are provided, please add more states to this, and I will be an ambassador for the app.<br> :date: __2020-11-01 06:35:47__
+
 > App won't open past the second screen where you have to agree to the disclosure. When you click the "I agree" button, nothing happens. Fully updated Samsung Galaxy S9. App is worthless if it won't open.<br> :date: __2020-10-28 15:58:15__
 
 > The idea is garbage, but the app is absolutely garbage how it works. Ot is a virus its self.<br> :date: __2020-10-28 02:18:24__
 
 > This app will only be effective and useful if a large percentage of the population install and use it. It looks like only 10k people have downloaded the app. With a combined total of 1.3M people between ND and WY, that is less than %1, the install base is likely even less since people have probably uninstalled it.<br> :date: __2020-10-24 19:03:20__
-
-> Not really sure how often it does a check but from what I see from the pictures it's suppose to check 2 hours or so and I will go hours between checks kind of disappointed in the app not going to know if I have been exposed if it don't check when it is suppose to<br> :date: __2020-10-22 15:54:17__
 
 > I can't get passed the accept screen. When I push the button nothing happens . I am a college student and the only family member leaving my house so this is a very important part of staying safe. Any help? I'm using a Xiaomi Redmi Note 8 Pro and the most recent android patch.<br> :date: __2020-10-21 09:20:23__
 
@@ -213,7 +219,5 @@ No recent reviews available with 2 stars.
 > I didnt open it at all<br> :date: __2020-10-07 01:07:10__
 
 > I see my review got deleted. Here is my thoughts. I have to turn off and on wifi with bluetooth all the time for a chance for this app to work and log. Please allow the app to control Bluetooth and notify when it isnt truly working and option to turn on and off bluetooth automatically for it to work. Simple programing and still not working right.<br> :date: __2020-10-06 16:32:34__
-
-> Disappointed...was exposed to person on 22nd...who began symptoms on 24th, tested positive on 25th. I was notified by state as a close contact (within 48 hours of symptoms) and to quarantine 14 days. We both have the apps on phones and Bluetooth turned on. The positive person 'notify button' was not activated until 30th. I received zero notification from the app. Needs some work from what I experienced.<br> :date: __2020-09-03 23:45:33__
 
 

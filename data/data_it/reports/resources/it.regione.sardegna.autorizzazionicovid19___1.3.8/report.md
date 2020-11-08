@@ -284,6 +284,10 @@ The Sardegna Sicura app has been installed by more than **100000** times. At thi
 <img src="1_star_reviews_wordcloud.png" alt="it.regione.sardegna.autorizzazionicovid19 1 reviews"/>
 </p>
 
+> Consente la registrazione più volte con stessi dati e email senza segnalarlo<br> :date: __2020-11-05 20:32:00__
+
+> Dopo la perdita di tempo nessun controllo e sono arrivata in szrdegna facendo 3 confini completamente inutile.<br> :date: __2020-11-02 19:55:15__
+
 > Non E possible darti zéro . Ma ti faccio I miei complimenti...fa schifo Sbarcando da una nave che soggiorno devo mettere???<br> :date: __2020-10-13 08:58:33__
 
 > Già la seconda volta che tento di compilare il modulo dall'applicazione e all'inserimento della data di arrivo sembra che non accetti che io sia in sardegna all'ora in cui atterra l'aereo . Solita cosa fatta con i piedi.<br> :date: __2020-10-10 13:48:12__
@@ -299,9 +303,5 @@ The Sardegna Sicura app has been installed by more than **100000** times. At thi
 > Buongiorno, in effetti ho scritto Inutile, ma devo aggiungere che la risposta è utile quanto l'APP! cosi giusto per far capire il livello di comunicazione<br> :date: __2020-09-18 10:44:18__
 
 > Una schifezza di dubbia utilità<br> :date: __2020-09-17 19:06:01__
-
-> App inutile e una perdita di tempo scaricarla e registrarsi se poi nessuno quando arrivi in Sardegna fa i controlli sicuramente non si combatte il covid con questa inutile app La regione Sardegna dovrebbe sensibilizzare la popolazione a seguire le norme anticovid sicuramente dentro il palazzo non vedono quello che succede fuori pochi usano la mascherina distanze si sicurezza zero ormai ci si saluta co strette di mano baci abbracci i giovani che bevono dallo stesso bicchiere<br> :date: __2020-09-16 14:47:15__
-
-> Dico io, ma vi rendete conto che vi siete dimenticati dei residenti? Ma secondo voi, io a che categoria appartengo? Non devo soggiornare in Sardegna, ci abito! Non c'è una parola da nessuna parte che chiarisca cosa spetta fare a noi se usciamo per qualche giorno se non per lavoro o salute. Io sono allibito.<br> :date: __2020-09-13 08:05:54__
 
 

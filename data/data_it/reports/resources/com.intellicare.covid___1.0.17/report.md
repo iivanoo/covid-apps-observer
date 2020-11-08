@@ -253,6 +253,10 @@ The LAZIOdrCovid app has been installed by more than **100000** times. At this t
 <img src="1_star_reviews_wordcloud.png" alt="com.intellicare.covid 1 reviews"/>
 </p>
 
+> App inutile !!! Non serve proprio a nulla. richiesto consulto covid, fosse per l'app saremo tutti untori mai una risposta mai nulla.<br> :date: __2020-11-05 06:52:46__
+
+> Non ho capito a cosa serva visto che il fantomatico medico neanche risponde<br> :date: __2020-10-31 13:04:46__
+
 > Se vi contaggiate vi diranno di scaricarla per seguire a distanza i dati che inserite giornalmente, ditegli che preferite essere chiamati al telefono quotidianamente.<br> :date: __2020-10-30 20:54:27__
 
 > Ma perché prima di capire le funzionalità o di accedere all'app devo dare il consenso di accedere ai miei file e scattare video o foto? Aggiornamento: e perché non spiegarlo all'utente direttamente nell'app o chiedere il consenso solo nel momento in cui l'app deve effettuare quella operazione?<br> :date: __2020-10-30 18:44:49__
@@ -263,14 +267,10 @@ The LAZIOdrCovid app has been installed by more than **100000** times. At this t
 
 > Nella sezione "Contatta il tuo medico" non compare nessuno<br> :date: __2020-10-21 10:33:57__
 
-> non mi fa nemmeno accedere. In 40 minuti non arriva mai l'sms (il numero è scritto bene ho controllato più volte) per accedervi e non riesce nemmeno a trovare il mio codice fiscale<br> :date: __2020-10-15 12:30:22__
-
 > App inutile. Mi dice che non ho un medico curante associato e invece ne ho uno ovviamente. Quindi non posso contattarlo. Boh.<br> :date: __2020-10-11 17:38:27__
 
 > Come riportato in altre recensioni di altri utenti è fumo negli occhi. Contattato il medico.....nessuna risposta. Qualcuno dovrebbe dare delle spiegazioni.<br> :date: __2020-10-08 13:29:23__
 
 > Non serve a un c... Avolo! Test inutile. Non risponde nessuno ai contatta... Che senso ha?<br> :date: __2020-10-06 21:06:08__
-
-> Assolutamente inutile, "Contatta il mio medico" non riceve risposta, i questionari inutili e il numero verde cade la linea. Un'altro ottimo utilizzo dei soldi pubblici e complimenti alla solita raccolta di raccomandati LazioCrea.<br> :date: __2020-10-04 20:23:55__
 
 

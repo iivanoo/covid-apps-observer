@@ -138,6 +138,12 @@ The WHO Info app has been installed by more than **100000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="org.who.infoapp 5 reviews"/>
 </p>
 
+> Always the best one!<br> :date: __2020-11-04 22:22:46__
+
+> Great app<br> :date: __2020-11-03 15:50:52__
+
+> Good<br> :date: __2020-10-31 20:49:42__
+
 > 😊😊😊<br> :date: __2020-10-21 18:17:56__
 
 > I. AM. BELIVE. W. H. O<br> :date: __2020-10-04 06:51:53__
@@ -151,12 +157,6 @@ The WHO Info app has been installed by more than **100000** times. At this time,
 > Perfect<br> :date: __2020-08-29 03:21:09__
 
 > More experience<br> :date: __2020-08-28 20:01:16__
-
-> Nice Analysis<br> :date: __2020-08-18 18:15:57__
-
-> Great APPLICATION<br> :date: __2020-08-11 16:17:00__
-
-> Very important app to continue to keep an eye on this pandemic serious app tell alot about what is going on<br> :date: __2020-08-04 16:57:56__
 
 
 
@@ -234,6 +234,10 @@ The WHO Info app has been installed by more than **100000** times. At this time,
 <img src="1_star_reviews_wordcloud.png" alt="org.who.infoapp 1 reviews"/>
 </p>
 
+> A wast of time<br> :date: __2020-11-04 13:04:20__
+
+> “‘Ovid’ is Latin for a sheep. COVID starts with a C, which also means ‘see’ in ancient language. 19 was known as the “Number of Surrender” in ancient times.”  It goes on to draw the conclusion, “C-OVID 19 = ‘See a Sheep Surrender'”.<br> :date: __2020-11-02 08:06:17__
+
 > Very scammers<br> :date: __2020-10-19 19:45:47__
 
 > I just downloaded it, but every time I open it just say "an error occur check your connectivity" or something like that... didn't work...<br> :date: __2020-10-10 17:24:54__
@@ -249,9 +253,5 @@ The WHO Info app has been installed by more than **100000** times. At this time,
 > This app sucks<br> :date: __2020-09-14 21:01:10__
 
 > Every time i open the app,doesnt work just tells us error on my huawei lite p7. Please developer work on it.<br> :date: __2020-08-18 11:59:51__
-
-> It doesn't even work<br> :date: __2020-07-30 20:38:39__
-
-> The app does not show me anything. Since I downloaded it I have not been able to use it. When I open it nothing shows so I wonder why some people are giving you thumbs up<br> :date: __2020-07-05 05:34:15__
 
 

@@ -132,6 +132,8 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 <img src="5_star_reviews_wordcloud.png" alt="cat.gencat.mobi.StopCovid19Cat 5 reviews"/>
 </p>
 
+> Creo que puede ser muy útil.<br> :date: __2020-11-06 15:34:14__
+
 > Es fácil de entender<br> :date: __2020-09-15 15:09:16__
 
 > Excelente<br> :date: __2020-09-04 10:58:24__
@@ -150,8 +152,6 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 
 > Ja torna a funcionar, moltes gràcies, per la vostre resposta.<br> :date: __2020-06-14 21:29:30__
 
-> Molt bona<br> :date: __2020-06-12 14:44:08__
-
 
 
 #### 4-star reviews
@@ -159,6 +159,8 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="cat.gencat.mobi.StopCovid19Cat 4 reviews"/>
 </p>
+
+> Bueno esta bien y gracias a la informacion que facilita la institución sanitaria es más fiable.<br> :date: __2020-11-01 15:32:45__
 
 > Todo bien por el momento. Lo unico es que estoy confinada desde el 22 de Octubre y no logro que me hagan la baja laboral...Quien la debe de tramitar. Gracias..<br> :date: __2020-10-26 15:08:41__
 
@@ -177,8 +179,6 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 > No me deja poner el n° de tef, me sale que hay un error. La anterior era perfecta pero esta no funciona. El problema se a solucionado, ahora esta OK.<br> :date: __2020-06-12 20:44:26__
 
 > Ha funcionat bé des de el primer día<br> :date: __2020-05-24 18:05:44__
-
-> Haver perdut el gust i l'olfacte, que segons un estudi força ampli fet x una U. dels EE. UU., una de Suėcia i diverses de la G Bretanya, que deveu conėixer, són mės importants x detectar qui ja l'ha passat o ės contagiarà properament. Gràcies Senador J Cambra Int JIC<br> :date: __2020-05-19 13:57:13__
 
 
 
@@ -244,6 +244,10 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 <img src="1_star_reviews_wordcloud.png" alt="cat.gencat.mobi.StopCovid19Cat 1 reviews"/>
 </p>
 
+> Vaya test, faltaria preguntar a parte denlos sintomas, si has estado el contacto con personas infectadas, pero bueno a que extrañarse, o61, nefasto, llamadas al cap no hacen ni caso, en fin asi nos va<br> :date: __2020-11-02 10:04:12__
+
+> La app no funcina bien. Cuando voy a hacer el test se queda colgada. La he desintalado y vuelto a instalar y nada. Sin el test no sirve para nada.<br> :date: __2020-11-01 10:11:53__
+
 > No he sido capaz de activar esta aplicación cuando pongo el código que me envían se bloquea y no se puede seguir, arregle la por favor, no nos pidan que colaboremos si nos lo ponen tan difícil<br> :date: __2020-10-30 11:58:30__
 
 > Soy positivo confirmado, y según app no tengo síntomas, además llevo seis días confirmado y no me ha llamado nadie para hacer seguimiento...y quieren controlar el virus...<br> :date: __2020-10-30 10:22:19__
@@ -259,9 +263,5 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 > Imposible registrarse. Una vez me envían el código por sms no hay manera de avanzar.<br> :date: __2020-10-21 15:43:42__
 
 > Soy positivo, tengo sintomas y la app dice que no tengo sintomas. Sería mucho mejor que dijera que no tengo sintomas graves y que continue haciendo los test para cuando aparezca algo grave seguir con el procedimiento adecuado. De esta forma al "no tener sintomas" pierdo las ganas de hacer el seguimiento de los tests, aunqué tenga los sintomas.<br> :date: __2020-10-13 08:04:14__
-
-> Es una,aplicación que no sirve para nada . Esta totalmente politizada . Sólo para loas que viven en Catalunya . Como si no existiera el resto del mundo . Muy mal<br> :date: __2020-10-07 09:51:33__
-
-> Sois unos inútiles<br> :date: __2020-09-26 16:49:47__
 
 

@@ -199,25 +199,25 @@ The COVID Symptom Study app has been installed by more than **1000000** times. A
 <img src="5_star_reviews_wordcloud.png" alt="com.joinzoe.covid_zoe 5 reviews"/>
 </p>
 
-> Great app but error code 525 today<br> :date: __2020-10-31 10:28:54__
+> Good everyday then after months it packed up working. I had to reinstall.<br> :date: __2020-11-08 12:59:33__
 
-> Install and use daily to report your health and get additional insights into the current state of the pandemic from Professor Tim Spector<br> :date: __2020-10-31 10:27:46__
+> Simple and quick to use. Glad to be a part of useful study.<br> :date: __2020-11-08 12:52:37__
 
-> Excellent<br> :date: __2020-10-31 10:26:06__
+> Good app<br> :date: __2020-11-08 11:57:38__
 
-> Excellent and interesting app. Lots of very useful information.<br> :date: __2020-10-31 10:07:27__
+> Informative - easy to navigate the app - clear information<br> :date: __2020-11-08 11:33:06__
 
-> Once set up it's very quick and easy to use.<br> :date: __2020-10-31 10:02:49__
+> Simple, clear, uncluttered, hopefully effective!<br> :date: __2020-11-08 11:15:49__
 
-> Everyone should use this so we have real data.<br> :date: __2020-10-31 09:57:23__
+> Really useful app which keeps you up to date with the Virus as well as allowing you to contribute to the research. Nice to be doing something positive!<br> :date: __2020-11-08 11:01:23__
 
-> Easy to use, it's important to help however you can in the present circumstances and this offers an easy way to do your bit. 31/10 - Error code 525, could not log on. Reinstalled app OK now.<br> :date: __2020-10-31 09:46:52__
+> Informative,concentrates the mind,helpful<br> :date: __2020-11-08 10:02:14__
 
-> Simple to use. Good to know you're doing your bit to combat Covid-19<br> :date: __2020-10-31 09:44:04__
+> Very good<br> :date: __2020-11-08 08:53:24__
 
-> Very easy to set up and use. Daily 'dial in' takes about 5 seconds.<br> :date: __2020-10-31 09:39:45__
+> Helpful<br> :date: __2020-11-08 08:10:14__
 
-> Very usefull and informative<br> :date: __2020-10-31 09:35:31__
+> Anything that helps resolve Covid we need to support<br> :date: __2020-11-07 18:35:46__
 
 
 
@@ -227,25 +227,25 @@ The COVID Symptom Study app has been installed by more than **1000000** times. A
 <img src="4_star_reviews_wordcloud.png" alt="com.joinzoe.covid_zoe 4 reviews"/>
 </p>
 
-> Has been fine. Today failed to launch error code 525. Had to reinstall.<br> :date: __2020-10-31 10:40:39__
+> All seems to be working well.. but haven't used it that much<br> :date: __2020-11-08 12:36:24__
 
-> My app stopped working this morning it comes up error 525<br> :date: __2020-10-31 10:29:45__
+> Easy just need to remember to do it. If it helps them understand the infection patterns then I'm all for it. Use it for 2 adults and 2 school children...<br> :date: __2020-11-08 12:20:22__
 
-> I have received an error code this morning when opening up the app. It says Request failed with status code 525. How can I fix this?<br> :date: __2020-10-31 09:36:26__
+> Simple to complete and hopefully will get us out of this mess quicker.<br> :date: __2020-11-08 10:38:16__
 
-> What is code 525 error<br> :date: __2020-10-31 09:19:02__
+> Mostly good but its not possible to fix an error in medical registration data.<br> :date: __2020-11-08 09:51:57__
 
-> 26/12/20 reported an issue liading, getting a message stating "8/6/20 null is not an object ( evaluating o.local_data lad') RESOLVED 8/6/20 Only 2nd day of use but seems ok. Reminds me to report about three in the afternoon, seems fine at moment .<br> :date: __2020-10-30 20:43:46__
+> Quick and easy<br> :date: __2020-11-07 21:57:27__
 
-> Thanks for fixing previous issue. I am now having the same issue as another review has mentioned that the app is not displaying the last number /letter of the totals and name of my area. I also have a OnePlus! Otherwise great work :)<br> :date: __2020-10-30 18:54:18__
+> Good app but doesn't seem to ask all the right questions (e.g., are you on your period, how long ago was your contact with a vivid positive person, alternative causes for your symptoms, etc.).<br> :date: __2020-11-07 18:36:06__
 
-> Literally takes less than 30 secs to check in each day. Two clicks. Not give stars only because it's confusing for the first few days as you have to keep filling in the sign-up form. I guess it just does that to verify that you're a reliable user.<br> :date: __2020-10-30 15:50:59__
+> App works seamlessly, but there's a lot to read for dunces like me with a short attention span<br> :date: __2020-11-07 13:47:36__
 
-> Informative and well worth using<br> :date: __2020-10-30 13:54:18__
+> I have enjoyed being part of this project for several months. However the app has failed to work for the last 2 days even tho i reinstalled it, checked my phone etc. Today it is working again. I greatly value the research updates and Tim Spectre's wonderful sane balanced contributions.<br> :date: __2020-11-07 12:57:41__
 
-> Nice to be contributing background that fills in a bigger picture for researchers<br> :date: __2020-10-30 12:51:15__
+> Works without crashing and spin off articles are all worth reading.<br> :date: __2020-11-07 11:13:49__
 
-> Have not seen any of the updates in the app. yet. Type in covid or coronavirus and Google suggests only four results and this app. is not one of them.<br> :date: __2020-10-30 12:51:10__
+> All working again!<br> :date: __2020-11-07 10:59:58__
 
 
 
@@ -255,25 +255,25 @@ The COVID Symptom Study app has been installed by more than **1000000** times. A
 <img src="3_star_reviews_wordcloud.png" alt="com.joinzoe.covid_zoe 3 reviews"/>
 </p>
 
-> I've used this app since early in the pandemic, rarely missing a day to report how I am feeling. Even if you report daily, but go past a 24hr period the next day, it says you last reported 2 days ago, but this is not the case. Now no notifications nor weekly survey questions. Today, app not working, just get an error message. Trying to find app again in app store almost impossible, as I will try and uninstall and reinstall if it let's me. Update: app working again, but had difficulty logging in.<br> :date: __2020-10-31 08:43:46__
+> Display issues with font causing numbers and text to be hidden or missing off the app. Makes local totals switch from 6000 to 600. No special non-standard font sizes running on phone.<br> :date: __2020-11-07 03:28:52__
 
-> Good for information but not as user friendly as it could be. Needs to allow input details of current medical conditions... my husband is on Chemo and he doesnt feel normal or "ok" by selecting saying you "dont feel right", the questions assume you have corona symptoms. I could just clarify hes on Chemo and its non related.the "where are you" needs more options, forces false info. some of the graphs are not current. The pink infection graph could use traffic light colours for clearer display.<br> :date: __2020-10-30 11:12:06__
+> App starts up with the date it was last used. Only way to update it to today is to force quit via Android and then reopen. Could be distorting stats? No feedback option in-app. Edit: now won't open at all. Worthy cause, flaky software. Edit: now works again.<br> :date: __2020-11-06 13:02:49__
 
-> Coming up with error can't retrieve my profile On the home screen the number of cases in my area or total estimated always drop the last digit. So 2348 is displayed as 234. Can this be fixed<br> :date: __2020-10-28 11:48:06__
+> I'm reporting every day but the app keeps saying I've missed 1, 2, 3 or more days! I haven't! If this is happening to lots of app users it's distorting the data. Please fix this error.<br> :date: __2020-11-06 12:56:33__
 
-> Alternativen när en fyller i ett symtom är för snäva. En kan inte fylla i symtom utan att också fylla i att en misstänker att en har covid. Skulle vilja ha alternativ som "Symtomen är milda, så jag har inte sökt vård men jag har isolerat mig" eller dyl.<br> :date: __2020-10-27 11:30:21__
+> Reporting has too many steps<br> :date: __2020-11-06 11:17:20__
 
-> The concept and app are amazing and I try to make sure I complete the question every day, but there seems to be a bug (I'm not sure if it's specific to OnePlus - I have a 7t Pro and it's always been like this) where the last character or two in a line of text get cut off. Whether it's the case numbers, or even the name of the area I live in, it seems to happen.<br> :date: __2020-10-26 20:13:13__
+> Good, but the app has now stopped working, and immediately goes to a white screen on start-up. Tried reinstalling, but the same problem occurs.<br> :date: __2020-11-06 10:50:00__
 
-> I was asked if I wanted to do a home test. The test was delivered to my home the next day and it was delivered back to them the next day, July 21st. My test is still pending, so not a good reflection of the figures being accurate. I was asked to do an antigen test in early October, no results back from that either. Please let people know their results!<br> :date: __2020-10-25 10:48:08__
+> Not very good. Entered the results of a very recent test, tried to continue and it asked me to 'add new test' which I had just done of course. Exited the app, reentered and had the same problem. 'Add new test' should have been a simple 'Continue'<br> :date: __2020-11-05 12:20:26__
 
-> Very easy to use<br> :date: __2020-10-25 10:30:44__
+> Has never displayed local case count properly.<br> :date: __2020-11-05 06:55:18__
 
-> Ok<br> :date: __2020-10-24 18:15:12__
+> Virtual keyboard covers input boxes and unable to scroll screen to see what is being typed; this applies to password box and other symptoms box. Second day I opened app I was receiving an unhelpful error code (request failed 525) and the app locked. However, the tick box lists of symptoms is impressive and very easy to track.<br> :date: __2020-11-04 11:04:48__
 
-> According to the app there are only 38.95 new cases and 484.92 total cases in the UK ATM - this can't be right surely?<br> :date: __2020-10-24 11:22:36__
+> Fair<br> :date: __2020-11-02 09:58:05__
 
-> Provides us with comfort. Keep it up.<br> :date: __2020-10-23 19:47:13__
+> Not easy to bypass a page that doesn't apply to me i.e school, uni page in Profile update. Have had to reinstall, as yesterday, I got a 525 error and could not connect.<br> :date: __2020-11-01 13:30:03__
 
 
 
@@ -282,6 +282,10 @@ The COVID Symptom Study app has been installed by more than **1000000** times. A
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="com.joinzoe.covid_zoe 2 reviews"/>
 </p>
+
+> Reminder keeps disappearing, no longer get the weekly questions asked just don't think it is working correctly but have no way of finding out<br> :date: __2020-11-06 12:39:16__
+
+> Having problem with the app crashing. Restarted my phone (android) twice, uninstalled and reinstalled app, still crashing just as it comes to "Report today.....", left with inactive blank screen. No issues prior to this.<br> :date: __2020-11-05 15:32:53__
 
 > Great app, just takes up loads of space and you can't move it to your SD card<br> :date: __2020-10-30 10:10:15__
 
@@ -295,14 +299,6 @@ The COVID Symptom Study app has been installed by more than **1000000** times. A
 
 > Bugs that mean you can't fill things out properly are frustrating. I spent a long time answering multiple questions it was a little unclear that I was supposed to be focusing on pre covid and that there would be a second set of questions but like many friends of mine when arriving at the questions to answer for during lockdown the software froze and I could only exit in the hope I could go back but unfortunately exiting meant I no longer had an option to finish the survey<br> :date: __2020-10-15 20:52:09__
 
-> Have been using for months, suddenly stopped loading. Have uninstalled and reinstalled but still get blank white screen.<br> :date: __2020-10-15 09:40:26__
-
-> I kept trying to check in but was given all the registration questions every day, not just the symptom check, which was really annoying. So I reinstalled the app, created a new account and it worked for one day, but now I can't even get into the app, just get a white screen. How is it so broken?<br> :date: __2020-10-15 09:07:27__
-
-> Suddenly stopped working.<br> :date: __2020-10-14 17:08:38__
-
-> What am I missing?? When I click on Report Today in the main screen and I keep getting every day the same exhausting set of general health questions and have to complete my height, weight etc. Where are the questions about COVID-19 symptoms?<br> :date: __2020-10-10 11:07:41__
-
 
 
 #### 1-star reviews
@@ -311,24 +307,24 @@ The COVID Symptom Study app has been installed by more than **1000000** times. A
 <img src="1_star_reviews_wordcloud.png" alt="com.joinzoe.covid_zoe 1 reviews"/>
 </p>
 
-> Error code 525 permanently coming up when loading. Have reinstalled but can't login<br> :date: __2020-10-31 10:38:19__
+> No longer able to open this app, even though I have uninstalled & reinstalled. Any tips please?<br> :date: __2020-11-06 14:57:26__
 
-> Can't open the app, error code 525.<br> :date: __2020-10-31 10:19:17__
+> Wont let me pass inputting info<br> :date: __2020-11-06 13:16:02__
 
-> Not loading today _ error message comes up code 525<br> :date: __2020-10-31 10:14:24__
+> The app is just a blank white screen for me at the moment. I tried reinstalling and it happens as soon as I login. I can't view any news or report my symptoms any more.<br> :date: __2020-11-06 11:52:34__
 
-> Unable to get on today message saying " access failed with status 525"<br> :date: __2020-10-31 09:08:57__
+> I have been unable to report today or yesterday because after the app says "loading" all I get is a blank screen😢<br> :date: __2020-11-06 11:40:21__
 
-> App has stopped working. Have tried uninstalling and re installing but just opens to a white blank screen. Have tried on both Samsung phone and Samsung tablet, both purchased 2 months ago so both have latest operating systems. Hence only one star ascould not leave minus 5 stars.<br> :date: __2020-10-24 17:22:39__
+> Worked well for a couple of days, but has stopped. It just boots up to a white screen. Completely useless at the moment.<br> :date: __2020-11-06 11:35:27__
 
-> Cant login. Reset password but app still wont recognise credentials<br> :date: __2020-10-24 10:16:11__
+> This app no longer works for all the people I know who have it installed. After the initial pages have loaded, the screen just turns white..<br> :date: __2020-11-06 09:37:28__
 
-> Registered on the app from day 1 of its release, told daily how i felt then added my partner, we both used the app to track how we were feeling while Sheilding. 6 month's taking part in the study, then suddenly on the12th October the app would not open. Lost months of daily log in. Tried to open app, but it's as if im using it for the first time. Still get regular emails saying to keep up the good work of logging in, even if your feeling well. Its a good concept, I didn't expect it to crash.<br> :date: __2020-10-20 01:46:27__
+> I created an account and had no trouble for the first couple of days. I now can't log in. There is also no option to change the password. What has happened? Review update The only way I could use the app was to create a new account with a different email address. I cannot now input my daily health as the new update asks about blood pressure meds and won't let me reply 'no', it just asks me to answer the question. so I can't move on the the next screen. Needs further updates 05/11/20 Update: After working well all summer, the app has now stopped working. I just get a blank screen. I have tried uninstall/reinstall and still get a blank screen. Any ideas?<br> :date: __2020-11-05 19:05:24__
 
-> Sadly unusable now as it won't let me or my wife log in or create a new account. Keep getting a 403 error.<br> :date: __2020-10-19 22:03:10__
+> The app has stopped working. It starts up then goes straight to a blank white page....and that's it.<br> :date: __2020-11-05 16:15:23__
 
-> Doing a wonderful job. Only one star to try to alert a bug. It is possible to report with no internet connection. The report is also accepted. I have missed several days due to this bug before working out what was going on. Otherwise totally brilliant. Please respond as I want to amend this back to 5 stars. Thank you very much. 👍<br> :date: __2020-10-18 17:14:41__
+> App crashes on my Android 10 device. Loads the blue splash screen then just closes. Who can I send logs to?<br> :date: __2020-11-05 12:34:50__
 
-> App seems fine for what it is. One thing I noticed is last question relates only too people who are at home or hospital. I think it should include people like myself who are working still. Although I'm not nhs , I think it will add a broader idea as too how the virus travels if you include working people and thier profession. *Edit* Uninstalling due too the recent email advertisement from ex pm wife's company. I installed app too help out with daily health updates. Not too further her portfolio.<br> :date: __2020-10-18 15:00:06__
+> Doesn't download properly. Cannot show more than 2 numbers in local area.<br> :date: __2020-11-05 07:22:29__
 
 

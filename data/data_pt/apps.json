@@ -4,20 +4,20 @@
         "store_country": "pt",
         "store_lang": "pt",
         "latest_crawled_version": "3.1.1",
-        "latest_crawl": 1604142608
+        "latest_crawl": 1604844166
     },
     {
         "id": "pt.min_saude.spms.mysns",
         "store_country": "pt",
         "store_lang": "pt",
         "latest_crawled_version": "1.5.0",
-        "latest_crawl": 1604142646
+        "latest_crawl": 1604844176
     },
     {
         "id": "de.xikolo.openwho",
         "store_country": "pt",
         "store_lang": "pt",
         "latest_crawled_version": "3.6",
-        "latest_crawl": 1604142646
+        "latest_crawl": 1604844184
     }
 ]

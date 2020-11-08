@@ -138,6 +138,8 @@ The Guam Covid Alert app has been installed by more than **5000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="org.pathcheck.guam.bt 5 reviews"/>
 </p>
 
+> Google<br> :date: __2020-11-01 21:04:08__
+
 > Great to have and keeps us alert for COVID virus<br> :date: __2020-10-19 07:47:15__
 
 > My president BT said her dad can choose who will die so I have to vote 5 stars for this. Otherwise it's a pretty good app<br> :date: __2020-10-18 16:14:04__

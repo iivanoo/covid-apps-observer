@@ -265,6 +265,10 @@ The CRUSH COVID RI app has been installed by more than **10000** times. At this 
 <img src="1_star_reviews_wordcloud.png" alt="com.ri.crushcovid 1 reviews"/>
 </p>
 
+> Not accurate at all<br> :date: __2020-11-07 19:42:19__
+
+> The app was ok but the most recent update drained my battery worse than a Pokemon go binge, just with the app running in the background. It's not worth having until this issue is fixed.<br> :date: __2020-10-31 15:41:18__
+
 > Lack of exposure notifications make this app virtually useless.<br> :date: __2020-10-18 01:46:52__
 
 > Not very accurate.<br> :date: __2020-10-17 05:08:13__
@@ -280,9 +284,5 @@ The CRUSH COVID RI app has been installed by more than **10000** times. At this 
 > I finally left app with newest Version 2.1. As Android user the new update has changed app for the worse. You can't send info as it just keeps saying u have to fill out info you have already done...and the location tracker is do far off..it has had me listed in Connecticut for hours when I had not left my house in RI.. Until u fix the bugs...I won't use the app. It started off good... programmers...please don't make the users your Beta group! You should have noticed these bugs if u tested!<br> :date: __2020-09-16 20:47:27__
 
 > The location diary doesn't work because the location services doesn't have an always on option, it only has "Allow only whole using the app"<br> :date: __2020-09-09 19:43:40__
-
-> The location diary doesn't work because the location services doesn't have an always on option, it only has "Allow only whole using the app", and I am not always running the app<br> :date: __2020-09-09 19:42:51__
-
-> Does not open even after you accept that it goes right back to the beginning<br> :date: __2020-09-09 19:26:20__
 
 

@@ -126,6 +126,8 @@ The Corona Check Screening app has been installed by more than **5000** times. A
 <img src="5_star_reviews_wordcloud.png" alt="com.coronacheck.haugxhaug.testyourcorona 5 reviews"/>
 </p>
 
+> Winkelnkemper Hildegard<br> :date: __2020-11-06 17:17:04__
+
 > Endlich mal eine seriöse App, welche wissrnschaftlich Fundierte Informationen gibt.<br> :date: __2020-10-16 20:53:54__
 
 > Super app<br> :date: __2020-08-09 18:19:53__
@@ -143,8 +145,6 @@ The Corona Check Screening app has been installed by more than **5000** times. A
 > 👍<br> :date: __2020-06-15 17:56:01__
 
 > IRINA LIEBSCHER/29.05.1975<br> :date: __2020-06-14 21:00:05__
-
-> Fragt mit der Zeit höflich zweimal nach, ob der Standort abgefragt werden darf und nach zweimal Fragen ist dann auch gut. Keine weiteren Daten werden abgefragt. Alles i.O.<br> :date: __2020-06-14 20:55:18__
 
 
 
@@ -192,8 +192,6 @@ The Corona Check Screening app has been installed by more than **5000** times. A
 <img src="1_star_reviews_wordcloud.png" alt="com.coronacheck.haugxhaug.testyourcorona 1 reviews"/>
 </p>
 
-> Absoluter Mist nur Fehler<br> :date: __2020-10-30 20:40:34__
-
 > Funktioniert nicht aber reagiert nicht richtig<br> :date: __2020-10-26 19:39:47__
 
 > Müll Infos wie uberall<br> :date: __2020-06-22 21:22:52__
@@ -211,5 +209,7 @@ The Corona Check Screening app has been installed by more than **5000** times. A
 > Müll<br> :date: __2020-06-16 00:10:42__
 
 > Reinste Daten sammel Maschine selbst meine viren Schutz App hat diese app als riskant und gefährlich eingestuft Warnungen waren Daten Sicherheit und eventuell Malware Zum Glück wurde die app von der App gleich gelöscht<br> :date: __2020-06-15 19:55:00__
+
+> Um weiterhin allgemeine Sicherheit und Stabilität zu gewährleisten wird die Republik umgestaltet werden, und zwar zum ersten galaktischen Imperium. ZUM WOHLE UND NUTZEN EINER STABILEN UND SICHEREN GESELLSCHAFT.<br> :date: __2020-06-15 13:31:27__
 
 

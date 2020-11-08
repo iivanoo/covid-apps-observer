@@ -215,8 +215,6 @@ The CombatCOVID PBC app has been installed by more than **1000** times. At this 
 
 > PBC corrupt mayor and commission paid $800k for this turd app that violates all your rights to privacy, HIPPA, and ACA. $800k could hire a team of 8 top notch developers for a year! Investigate this fraud and the MaskGate fraud as well. When you get your mask in mail from PBC make sure to get a sharpy, write a message on it, and send back! Turn PBC Republican in November and lock up all these criminal Tyrants! (Seems BoCC is worried about the facts!)<br> :date: __2020-08-18 13:35:13__
 
-> Shifty beeps every 2 minutes an im alone in my home with no one around it got bugs<br> :date: __2020-08-14 23:48:58__
-
 > Read the fine print of the user agreement VERY carefully! If you agree to it: you give up ALL of your rights. Advertised as not transmitting private information, yet it still has functionality to do so, and the agreement says they can whenever they want! Considering sensitivity of subject, potential for abuse, and waiving all rights in order to use this: one should avoid at all cost! Edit: read agreement and decide for yourself – you waive all your rights! Shield's reply is disingenuous at best.<br> :date: __2020-07-29 17:11:24__
 
 > You really should make a better warning for the covid positive button.People have been pressing it thinking it turns on the bluetooth.<br> :date: __2020-07-28 21:59:54__

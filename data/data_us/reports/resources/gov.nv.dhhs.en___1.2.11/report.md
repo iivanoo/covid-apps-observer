@@ -121,6 +121,8 @@ The Covid Trace Nevada app has been installed by more than **10000** times. At t
 <img src="5_star_reviews_wordcloud.png" alt="gov.nv.dhhs.en 5 reviews"/>
 </p>
 
+> Always updates when open, no issues.<br> :date: __2020-11-06 06:12:51__
+
 > We need everyone to get this to beat Covid.<br> :date: __2020-10-31 09:29:23__
 
 > Thank you Stay Safe<br> :date: __2020-10-31 05:22:45__
@@ -138,8 +140,6 @@ The Covid Trace Nevada app has been installed by more than **10000** times. At t
 > It enabled my covid19 settings, hope people in california use this since there is no app for california<br> :date: __2020-09-27 11:01:37__
 
 > Get the App help Stop the spread of Covid<br> :date: __2020-09-16 20:12:13__
-
-> Great app<br> :date: __2020-09-02 00:45:54__
 
 
 
@@ -209,6 +209,10 @@ The Covid Trace Nevada app has been installed by more than **10000** times. At t
 <img src="1_star_reviews_wordcloud.png" alt="gov.nv.dhhs.en 1 reviews"/>
 </p>
 
+> Doesn't work, never updates even when pressing the refresh button. It still has the same time for "last checked" since I've downloaded it a week ago. No help at all, just a waste of space on my phone and waste of time looking at it. I uninstalled it. I'd give 0 stars if I could.<br> :date: __2020-11-04 04:46:48__
+
+> Never updates. There is a sync button, but it doesn't work. It literally stays stuck at the same time as when I first downloaded the app. Not sure how effective this can be if the app never syncs. Perhaps with a fix to this, the app would be solid.<br> :date: __2020-10-31 16:46:37__
+
 > Horrible idea. Let's give up our privacy to the government in the name of public safety. Do not give up your freedoms for a virus that has a 99.99% survival rate...<br> :date: __2020-10-31 02:35:05__
 
 > Bad<br> :date: __2020-10-30 20:53:42__
@@ -224,9 +228,5 @@ The Covid Trace Nevada app has been installed by more than **10000** times. At t
 > Requires bluetooth to be on to work correctly. Not bad, but not great either. Also has not updated since 10:54pm which is when I downloaded the app 2days ago. So did it work while I was out shopping? Can't tell. Good concept but the final product seems to be glitched.<br> :date: __2020-10-24 06:19:16__
 
 > Does not update or refresh. I have to clear the storage and restart the App for it to update and refresh<br> :date: __2020-10-23 04:03:23__
-
-> Only time it has ever updated was on initial install. Since then, nothing. Junk app.<br> :date: __2020-10-19 00:30:07__
-
-> App installed and loaded fine. It now refuses to refresh from the time it was downloaded and installed. If this app refuses to refresh as it is supposed to, what good does it do me??<br> :date: __2020-10-16 20:09:29__
 
 

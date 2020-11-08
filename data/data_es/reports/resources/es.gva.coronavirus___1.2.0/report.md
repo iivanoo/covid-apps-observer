@@ -121,6 +121,8 @@ The GVA Coronavirus app has been installed by more than **10000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="es.gva.coronavirus 5 reviews"/>
 </p>
 
+> Bien. Está para lo que está. Los que dicen que no sirve tal vez no saben utilizarla: primero, obviamente tienes que tener SIP porque para eso es de seguimiento en COMUNIDAD VALENCIANA. Es de seguimiento, luego si no has tenido síntomas, pues no la uses (para ver el mapa de covid que piden muchos esta la web y el chatbot). A los que no les funciona recordad que a no ser que os lo pida poner el 0, hay que poner el SIP con LOS NÚMEROS TRAS EL 0...)<br> :date: __2020-11-04 19:33:35__
+
 > Buena aplcasion<br> :date: __2020-10-22 20:36:42__
 
 > Me parece una aplicación muy útil. Es fácil de usar, informativa y lo más importante: te atienden rápido.<br> :date: __2020-10-07 09:42:29__
@@ -138,8 +140,6 @@ The GVA Coronavirus app has been installed by more than **10000** times. At this
 > Para información sobre el Virus funciona bien. Para pedir cita en caso de no ser para el virus, no hace falta llamar por teléfono como dice una opinión de más abajo, se puede pedir cita directamente desde la app GVA Salut, está explicado en la app y la he utilizado bastantes veces. Se puede elegir hora entre varias disponibles<br> :date: __2020-04-14 09:34:40__
 
 > Clara y fácil de utilizar<br> :date: __2020-04-13 12:42:52__
-
-> Eficaz<br> :date: __2020-04-11 15:20:29__
 
 
 
@@ -179,6 +179,10 @@ No recent reviews available with 2 stars.
 <img src="1_star_reviews_wordcloud.png" alt="es.gva.coronavirus 1 reviews"/>
 </p>
 
+> no funciona bien no puedo apuntar los síntomas<br> :date: __2020-11-03 11:11:43__
+
+> No funciona, estará infectada? 😞<br> :date: __2020-11-01 00:12:04__
+
 > Super lento<br> :date: __2020-10-28 14:24:20__
 
 > Le he puesto mi numero de SIP y mi nacimiento,le pulso a acceder y no hace nada...<br> :date: __2020-10-25 19:44:56__
@@ -194,9 +198,5 @@ No recent reviews available with 2 stars.
 > Imprescindible SIP. :/<br> :date: __2020-09-13 07:01:06__
 
 > Esta aplicación ni tiene sentido si lo tienes SIP. Es la misma historia de siempre en el sentido de que es una guerra entre comunidades. No tiene ningún sentido está app. Espero que instalen la de Radar Covid que es a nivel nacional y dejen de hacer el canelo<br> :date: __2020-09-08 11:20:08__
-
-> No sirve para nada<br> :date: __2020-09-05 17:05:12__
-
-> Radar Covid ya y dejaros de chapuzas ineptos<br> :date: __2020-09-01 23:04:00__
 
 

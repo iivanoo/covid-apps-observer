@@ -185,6 +185,8 @@ The SM_Covid19 app has been installed by more than **50000** times. At this time
 <img src="5_star_reviews_wordcloud.png" alt="it.softmining.projects.covid19.savelifestyle 5 reviews"/>
 </p>
 
+> Immuni<br> :date: __2020-11-01 16:23:28__
+
 > Ottima Grazie<br> :date: __2020-10-26 15:50:55__
 
 > Eccezionale<br> :date: __2020-10-13 11:33:09__
@@ -202,8 +204,6 @@ The SM_Covid19 app has been installed by more than **50000** times. At this time
 > IMMUNI<br> :date: __2020-10-08 23:50:24__
 
 > Ottimo<br> :date: __2020-09-11 19:30:45__
-
-> Molto utile per tutti<br> :date: __2020-08-31 15:02:45__
 
 
 
@@ -297,6 +297,8 @@ The SM_Covid19 app has been installed by more than **50000** times. At this time
 <img src="1_star_reviews_wordcloud.png" alt="it.softmining.projects.covid19.savelifestyle 1 reviews"/>
 </p>
 
+> Come faccio entrare se ultimontasto rosso non si ttasforma in verde clicco ok ma non succede nulla cosa è un bidone?<br> :date: __2020-11-04 16:36:37__
+
 > Ottimo<br> :date: __2020-10-20 16:15:04__
 
 > Uno perché viene solo il bt e non il gps. Mettete un margine d'incertezza per la privacy. Sarebbe utilissimo sapere che nel raggio di cento metri c'è stato tizio sicuramente positivo (perchè testato).<br> :date: __2020-10-06 10:57:21__
@@ -314,7 +316,5 @@ The SM_Covid19 app has been installed by more than **50000** times. At this time
 > Non c'è ne di covidi<br> :date: __2020-07-30 08:49:05__
 
 > App pessima da 3 giorni circa non si apre più. È meglio che cambiate lavoro!!!!<br> :date: __2020-07-21 19:14:07__
-
-> Dopo ultimo upgrade, l'app va in crash<br> :date: __2020-07-19 20:33:36__
 
 

@@ -1,5 +1,29 @@
 [
     {
+        "reviewId": "gp:AOqpTOFJn4V42uhcO8UIRUMMzCMq_2k6RdNEbOgXdD_OzISrzGAzf5iJSsaHs3lnm9qAHS9lDHiKMj-tDFYeNA",
+        "userName": "Valentina Deidda",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj08wjeohB_quhzZDf03Ac8pq3T5KLr7GoRed5N",
+        "content": "App inutile !!! Non serve proprio a nulla. richiesto consulto covid, fosse per l'app saremo tutti untori mai una risposta mai nulla.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.0.17",
+        "at": "2020-11-05 06:52:46",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHP5T0N6tnzWI3lVeLGBOgChplAvoD97LPNJLjUCRAfusx8hVb__BbrxhJ016IbxJovTADs12P6WU_vMA",
+        "userName": "Vania Ponziani",
+        "userImage": "https://play-lh.googleusercontent.com/-TNYHOqnr-3k/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucno0Ns82fB2nU2b3xXuNzl5uhxqZg/photo.jpg",
+        "content": "Non ho capito a cosa serva visto che il fantomatico medico neanche risponde",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2020-10-31 13:04:46",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOEfeKuniZSQF2AihPYYm2sMuWhhJwQpxJ5T81Oz8lULyAua7zz0q3PTXFW01UE3c4xhg5zrIkhDXsaiEQ",
         "userName": "Banghelo",
         "userImage": "https://play-lh.googleusercontent.com/--FIJfleJGTo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck6OfQm8gdWXKBWqxPaUPQBUa1Aow/photo.jpg",
@@ -41,7 +65,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgCyVKP8rau9NadoXzSetpBStEa9U0CKSO9gVpoIZw",
         "content": "Si invia il messaggio al medico o l'autovalutazione ma nulla attesta la presa in carico, la consegna o la lettura. Come scrivere al niente.",
         "score": 1,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "1.0.17",
         "at": "2020-10-25 22:30:03",
         "replyContent": "Le confermiamo che l'applicazione fornisce automatica tutte le informazioni ( questionari e misure, messaggi) al proprio medico di famiglia, che potr\u00e0 visualizzarle al primo accesso utile alla stessa piattaforma dedicata. saluti",
@@ -96,18 +120,6 @@
         "repliedAt": null
     },
     {
-        "reviewId": "gp:AOqpTOHXMMVzcrwYyujEnOmbkQhgrQtV-LeZUaLi7G4-febSMH6a2lvjiURjz0krxNV0Fa3d9bWPK3rZBO2vkA",
-        "userName": "alessia fazi",
-        "userImage": "https://play-lh.googleusercontent.com/-ielu3CX6RNo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclcNa_u1v2i7DM-Rg-qDsbzEORx2A/photo.jpg",
-        "content": "non mi fa nemmeno accedere. In 40 minuti non arriva mai l'sms (il numero \u00e8 scritto bene ho controllato pi\u00f9 volte) per accedervi e non riesce nemmeno a trovare il mio codice fiscale",
-        "score": 1,
-        "thumbsUpCount": 3,
-        "reviewCreatedVersion": "1.0.17",
-        "at": "2020-10-15 12:30:22",
-        "replyContent": "verifichi che il numero di telefono sia corretto, se ha ancora problemi invii una mail alla casella lazioadvice@regione.lazio.it indicato il recapito email utilizzato per l'attivazione. Un operatore la supporter\u00e0 nell'attivazione. Saluti",
-        "repliedAt": "2020-10-21 14:58:03"
-    },
-    {
         "reviewId": "gp:AOqpTOHoX7QylKkO_Rus-r7UpUnRVBTrle0cq3BJB5dVQpeEPO-i_hPCz1xMN9lriXMIlfVv5_OWv0xWHtgiuQ",
         "userName": "Alessandro Dei Giudici",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgSWxo5ZWRWVNiOYYgN8a-Mnw3jDWteL0PCMjXF",
@@ -149,7 +161,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhchSmnUJH2hu9snKztBdgahlEawyvbTkwD7F8mGA",
         "content": "Come riportato in altre recensioni di altri utenti \u00e8 fumo negli occhi. Contattato il medico.....nessuna risposta. Qualcuno dovrebbe dare delle spiegazioni.",
         "score": 1,
-        "thumbsUpCount": 12,
+        "thumbsUpCount": 14,
         "reviewCreatedVersion": "1.0.17",
         "at": "2020-10-08 13:29:23",
         "replyContent": null,
@@ -457,7 +469,7 @@
     },
     {
         "reviewId": "gp:AOqpTOGpmC-PhSyNtiB8qRFX5ek3szKMuYRhiG2_7dzztzKqeadOcmnn8edVCq6KsQDWofUfCnJl56XE29LDBg",
-        "userName": "LM Matt3o Pro",
+        "userName": "MASSIMILIANO TOMASSINI",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhoFbQck8MCc1WjjozAA4-30i_-LTzTNqdmVPfLJw",
         "content": "Applicazione non si apre pi\u00f9",
         "score": 1,
@@ -701,7 +713,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhcrGE4zcV1onp1DYHSjLPR5Uf7ts7PeBGFfhQzlJA",
         "content": "Sono registrata regolarmente alla App solo che ho una domanda in merito. Essendo solo domiciliata nel Lazio e avendo medico di base per motivi di studio, nella versione precedente mi dava comunque il nome del mio medico di base. Adesso non appare pi\u00f9 al momento che clicco su \"contatta il medico\". Vorrei sapere se \u00e8 dovuto all'aggiornamento o, in casi ottimali dovrebbe comparire. Soprattutto in vista di questo aumento contagi vorrei essere sicura di averlo. Tutto qui.",
         "score": 3,
-        "thumbsUpCount": 19,
+        "thumbsUpCount": 20,
         "reviewCreatedVersion": "1.0.15",
         "at": "2020-08-16 09:50:43",
         "replyContent": null,
@@ -1945,8 +1957,8 @@
     },
     {
         "reviewId": "gp:AOqpTOFpOL_R--tZ9esIMCEeyoqlS5m2koClEGW3njuI-94e-1Wqu0BiBVvroHy84iliuSCcORbsVh_xQjne2g",
-        "userName": "Aurelietto",
-        "userImage": "https://play-lh.googleusercontent.com/-PmI1Sk1CPI4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclXtwhiBx7L5Ssv8nbke5o81hMJeg/photo.jpg",
+        "userName": "Aurelio",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhICkwBksyZIwmRWfm6nUPFmNY-iUu4BIxzQWX_",
         "content": "Classica app fatta per il pubblico e non per il privato... non si riesce ad accedere pi\u00f9 , non funziona.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -2798,7 +2810,7 @@
     {
         "reviewId": "gp:AOqpTOF-6Lsfmj_NcL7ZwgzK11ryTZ0Yl0bevgivTxpMU1gZZzvJJ5IRMbkQ49bPW40dLZfhPlKC-DrJgEAYQA",
         "userName": "Fabrizio",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgH2qpQBsdSnR8NM2ZtNUO21ca1QUAzhBWNcjRDGw",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh3EVB4Th_ljDQ1w4hQbYofDjHmP5GTHMe4lln-jw",
         "content": "Pi\u00f9 volte ho cercato di registrarmi ma nessuna mail ho ricevuto. Nemmeno nello spam.",
         "score": 1,
         "thumbsUpCount": 0,

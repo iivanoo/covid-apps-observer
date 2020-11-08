@@ -1,5 +1,41 @@
 [
     {
+        "reviewId": "gp:AOqpTOH-29USP8JAGhh-Pv5DM3eMODO8gkuXsCgRoXWKmmzroATkGOg6ZP7DbzEJUNOGYnmKAk2ydrzgvVB1AUc",
+        "userName": "Samus A",
+        "userImage": "https://play-lh.googleusercontent.com/-3nYzy_bp6so/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnzBBigwQ9YVvWCdautM3a-N0E4FQ/photo.jpg",
+        "content": "Bien. Est\u00e1 para lo que est\u00e1. Los que dicen que no sirve tal vez no saben utilizarla: primero, obviamente tienes que tener SIP porque para eso es de seguimiento en COMUNIDAD VALENCIANA. Es de seguimiento, luego si no has tenido s\u00edntomas, pues no la uses (para ver el mapa de covid que piden muchos esta la web y el chatbot). A los que no les funciona recordad que a no ser que os lo pida poner el 0, hay que poner el SIP con LOS N\u00daMEROS TRAS EL 0...)",
+        "score": 5,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "1.2.0",
+        "at": "2020-11-04 19:33:35",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGuiohNl5jm6e13Ho5f6ZdWJ8G8h59LA_1g1NDktdQtaO50lmaALuEozWbvuVvbJbkfDklpD2Qqbqt7mJ0",
+        "userName": "Crispin Molla",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiWEbORa3lI25THqh_0RnVeEoiv-4uGdubNg-223g",
+        "content": "no funciona bien no puedo apuntar los s\u00edntomas",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.2.0",
+        "at": "2020-11-03 11:11:43",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGwR6ylG9-fZX6NHE3Cmj5enxDr9tUDDO3f4xgKitLdomVKFJavgMnjX3_13SCSNYdYDkZDP2J4LBfjdFQ",
+        "userName": "Sergio Gimeno Roser",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhyYaoL6ekr5VUflSnLQryvTGKfMbKrlYbjirRuag",
+        "content": "No funciona, estar\u00e1 infectada? \ud83d\ude1e",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.2.0",
+        "at": "2020-11-01 00:12:04",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOF860PebUohWkglQ7iauTFDaxFDilPr4DPtQFJDmkQcCKqB6_BQg4vbwoDlcBUPmNjyaBptKxWMsHQy6Wc",
         "userName": "Carmen Peris",
         "userImage": "https://play-lh.googleusercontent.com/-VY5a6Dl0aTs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn2R21PXJjoN_aCVp4_YVnvgMTmzg/photo.jpg",
@@ -41,7 +77,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhMN8O4dE72MBgDXb9CfBRKulNwuW9SnGO57SvKAw",
         "content": "Me parece una aplicaci\u00f3n muy \u00fatil. Es f\u00e1cil de usar, informativa y lo m\u00e1s importante: te atienden r\u00e1pido.",
         "score": 5,
-        "thumbsUpCount": 2,
+        "thumbsUpCount": 4,
         "reviewCreatedVersion": "1.2.0",
         "at": "2020-10-07 09:42:29",
         "replyContent": null,
@@ -74,7 +110,7 @@
     {
         "reviewId": "gp:AOqpTOHZGzGKbC6K00C202Lzan-Ew_19M63k5zDCWENjUCpXifdG2jKXSKD-H2L-FjvWGPY08TIK51VbrJNpmh4",
         "userName": "Ana Stuzbercher",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhhiQizwuQot5iCE3qpo4-LUJfD3EWXfX2_NRX2uQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi7oHpA2AJELdjeEarw5GpQVkkx_pNGK9FRzO0Gew",
         "content": "No se resien la aplico",
         "score": 5,
         "thumbsUpCount": 0,
@@ -137,7 +173,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgYZTajgIYugNclTYD7YbFaSf4qpQoBr1jxt0oNnw",
         "content": "Esta aplicaci\u00f3n ni tiene sentido si lo tienes SIP. Es la misma historia de siempre en el sentido de que es una guerra entre comunidades. No tiene ning\u00fan sentido est\u00e1 app. Espero que instalen la de Radar Covid que es a nivel nacional y dejen de hacer el canelo",
         "score": 1,
-        "thumbsUpCount": 12,
+        "thumbsUpCount": 13,
         "reviewCreatedVersion": "1.1.0",
         "at": "2020-09-08 11:20:08",
         "replyContent": null,

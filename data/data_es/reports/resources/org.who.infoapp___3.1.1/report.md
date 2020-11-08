@@ -138,6 +138,8 @@ The WHO Info app has been installed by more than **100000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="org.who.infoapp 5 reviews"/>
 </p>
 
+> Lo único que puedo decir es referente al idioma, está en todos los idiomas, en cuanto al español pone; edición en español y en la parte superior derecha, hay cómo una v que significa okey y ya la tenéis en español para siempre, ésta aplicación es meramente informativa, sobre la salud ya sea covid o otra enfermedad<br> :date: __2020-11-04 08:37:34__
+
 > Super completa. Pará los que dicen q esta en ingles nose si actualizaron pero apenas se instala da la opción de los idiomas. Esta completa concreta y simple. Genial 👌<br> :date: __2020-10-17 19:00:49__
 
 > Muy buena aplicacion<br> :date: __2020-10-02 05:14:43__
@@ -156,8 +158,6 @@ The WHO Info app has been installed by more than **100000** times. At this time,
 
 > Que bueno que te gusta tanto e ste juego<br> :date: __2020-07-11 06:22:27__
 
-> Gracias por la aplicación<br> :date: __2020-06-08 09:56:21__
-
 
 
 #### 4-star reviews
@@ -165,6 +165,8 @@ The WHO Info app has been installed by more than **100000** times. At this time,
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="org.who.infoapp 4 reviews"/>
 </p>
+
+> Buena<br> :date: __2020-11-07 15:21:20__
 
 > La aplicación viene con opción para cambiar el idioma... No se porque la gente no se molesta en indagar eso, la aplicación en sí esta muy bien<br> :date: __2020-07-09 21:29:22__
 

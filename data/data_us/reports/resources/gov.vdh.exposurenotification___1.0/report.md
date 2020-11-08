@@ -130,9 +130,11 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 <img src="5_star_reviews_wordcloud.png" alt="gov.vdh.exposurenotification 5 reviews"/>
 </p>
 
-> Great app to prevent Covid<br> :date: __2020-10-31 05:51:21__
+> Great idea but only great if everyone uses it across the US. That will never happen unless mandated by the government and then you'll have lawsuits and protests. Good luck with making this a success without mandatory usage.<br> :date: __2020-11-04 00:20:48__
 
-> Informative readable love it<br> :date: __2020-10-29 23:24:53__
+> Pretty neat they make something so other people are aware<br> :date: __2020-11-02 04:55:14__
+
+> Great app to prevent Covid<br> :date: __2020-10-31 05:51:21__
 
 > Excellent. Way to track COVID @least our Highly intelligent companies Have The Brains to do so ,unlike our Current president....<br> :date: __2020-10-28 15:56:16__
 
@@ -148,8 +150,6 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 
 > Slaw<br> :date: __2020-10-22 03:23:23__
 
-> Good<br> :date: __2020-10-21 08:20:58__
-
 
 
 #### 4-star reviews
@@ -157,6 +157,10 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="gov.vdh.exposurenotification 4 reviews"/>
 </p>
+
+> I've had this app for a couple weeks. However, is this for Virginia only? Or is it tracking in my area, El Paso, TX? Thanks.<br> :date: __2020-11-05 23:10:25__
+
+> Slipped<br> :date: __2020-10-31 14:35:01__
 
 > I am new to this app, so ask me later.<br> :date: __2020-10-30 00:32:34__
 
@@ -174,10 +178,6 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 
 > Helpful, gives me some peace of mind<br> :date: __2020-09-16 02:24:02__
 
-> I am a 57yr old working in a Covid 19 unit , what supplements to take every day to boost my immune system ?<br> :date: __2020-09-11 16:33:20__
-
-> Hahaha! So funny thing, I just installed the app thinking this would work... No wonder it didn't work! I never noticed this was an app made only for the state of Virginia! I'm in Florida where these cases are 😵😵💫💫... But it seems like an easy interface to use, and wish Florida could develop something like this. And even if they did, I would really hope people would give honest reports, but that may just be wishful thinking. I know my people, Floridians are crazy!🤦🏾‍♀️<br> :date: __2020-09-04 04:28:33__
-
 
 
 #### 3-star reviews
@@ -185,6 +185,8 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="gov.vdh.exposurenotification 3 reviews"/>
 </p>
+
+> Rating based on alert function rather than any more independent function or utility.<br> :date: __2020-11-07 23:00:14__
 
 > I really appreciate what this app is trying to do, but for some reason it keeps turning location services off on its own? I'll randomly get a notification that my C ovidwize notifications have been enabled only to discover it hasn't been scanning for the last couple of weeks.<br> :date: __2020-10-27 14:52:37__
 
@@ -204,8 +206,6 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 
 > Doesn't use location, but requires location services to be on to work. I leave mine off when not in use, because most other apps aren't so privacy-conscious. By requiring GPS, this app creates security concerns that outweigh its benefits. While THIS app isn't directly compromising my privacy, its permissions requirements open a privacy hole for OTHER apps to use. Android *doesn't* require location for Bluetooth or BLE (I use both), but it unfortunately does for this app's BLE tag tracking.<br> :date: __2020-09-04 17:56:12__
 
-> Difficult to understand the terminology, may often leave you scratching your head.<br> :date: __2020-08-31 04:16:45__
-
 
 
 #### 2-star reviews
@@ -213,6 +213,8 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="gov.vdh.exposurenotification 2 reviews"/>
 </p>
+
+> Program tells me my last scan for potential exposure was oct 11th. I always have bluetooth and location services turned on as requested. I even turn on wifi almost daily to quickly update any programs on my phone. No apparent way to force a database exposure check.<br> :date: __2020-11-04 09:59:53__
 
 > My housemates & I have all tested positive but we can't report it in the app because the health department hasn't contacted any of us so there is no PIN code.<br> :date: __2020-10-22 02:52:42__
 
@@ -232,8 +234,6 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 
 > This was a tough situation it was like it was almost a virus and I still don't know if it was because I still can't use my Facebook or my messenger and it kind of makes me upset but it said it is it takes 3 business days and we'll find out so I'll give it 3 days 3 days goes quick<br> :date: __2020-09-10 20:28:58__
 
-> It is fine but when i try to turn on exposure notifications it says "en error occurred" FIX IT<br> :date: __2020-09-09 17:56:27__
-
 
 
 #### 1-star reviews
@@ -241,6 +241,12 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="gov.vdh.exposurenotification 1 reviews"/>
 </p>
+
+> We do not need another political app. Please reframe from using this fake app.<br> :date: __2020-11-08 07:41:48__
+
+> Not useful<br> :date: __2020-11-07 04:41:14__
+
+> I had this app for several months and I have never got a notice and I have been to the hospital several times. I think this app is a waste of time and space. I have deleted it.<br> :date: __2020-11-06 16:46:41__
 
 > This is a scam to get your personal information.<br> :date: __2020-10-28 14:11:44__
 
@@ -255,11 +261,5 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 > Can't review this app when it doesn't run. After installing on my Pixel 4xl, I try to run it and it says "Internal error, please try again". Subsequent retries are futile as I get the same error repeatedly.<br> :date: __2020-10-21 18:27:41__
 
 > When I try to sign up for exposure notifications I keep receiving the following error message, "Internal error, please try again."<br> :date: __2020-10-21 11:44:46__
-
-> This will just give false feeling of safety unless everyone is required to be tracked when found positive for covid... Like in China... Why their death rate is so low.<br> :date: __2020-10-21 04:22:00__
-
-> Unable to turn on notifications. Get internal error message<br> :date: __2020-10-21 04:09:48__
-
-> What is this all about? Is the flu going around? so what?<br> :date: __2020-10-21 03:03:47__
 
 

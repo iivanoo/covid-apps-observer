@@ -145,6 +145,8 @@ The ABTraceTogether app has been installed by more than **50000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="ca.albertahealthservices.contacttracing 5 reviews"/>
 </p>
 
+> It works. This app works and does not crash. If you're worried about battery life, you can do more by turning down your screen brightness than by not using this app.<br> :date: __2020-11-07 05:36:10__
+
 > Good app, does not drain my battery and provide me with some sort of security that If I am close to someone infected i will know. We all that live in Alberta should use it thanks<br> :date: __2020-10-16 06:19:47__
 
 > Best<br> :date: __2020-10-16 03:49:40__
@@ -162,8 +164,6 @@ The ABTraceTogether app has been installed by more than **50000** times. At this
 > I'm relying on it greatly<br> :date: __2020-10-07 01:21:54__
 
 > This app gives me comfort that if I become infected, all of those with the app that have been around me will get notified. Nothing leaves my phone unless I get sick and then voluntarily download it. (Watch the video on the website) You are more protected and helping to protect others if you have the app.<br> :date: __2020-10-03 02:25:50__
-
-> Anything that helps reduce R rate.<br> :date: __2020-10-02 00:07:06__
 
 
 
@@ -201,6 +201,8 @@ The ABTraceTogether app has been installed by more than **50000** times. At this
 <img src="3_star_reviews_wordcloud.png" alt="ca.albertahealthservices.contacttracing 3 reviews"/>
 </p>
 
+> I have uninstalled this app. I was the early adopter of this app but now that the national app is available, I want to switch over to that one. I have uninstalled it to voice my option and hopefully my Alberta government will see the drop-off installment of this app to take appropriate action.<br> :date: __2020-11-02 16:52:14__
+
 > Huge drain on battery esp after first installing and after installing a recent update update. After first install it sorted itself out after about a week. Hope it does the same after this update (it is draining my battery completely after a few hours and normally I can go all day without dropping below 40 per cent). Great idea just needs to be optimized a bit more.<br> :date: __2020-10-08 06:33:13__
 
 > Huuuge battery drainer.<br> :date: __2020-10-07 15:41:00__
@@ -219,8 +221,6 @@ The ABTraceTogether app has been installed by more than **50000** times. At this
 
 > Please listen to everyone and make an on/off option. This only needs to be on when we go out in public and will just be an added step such as bringing a mask.<br> :date: __2020-08-11 05:33:38__
 
-> It's neither good or bad. It just sits in the background. I can only assume it works.<br> :date: __2020-07-20 08:28:08__
-
 
 
 #### 2-star reviews
@@ -228,6 +228,8 @@ The ABTraceTogether app has been installed by more than **50000** times. At this
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="ca.albertahealthservices.contacttracing 2 reviews"/>
 </p>
+
+> Alberta needs to stop fighting with the Federal Government and merge this app with the national app. Which is why this won't run in the background...feds are blocking the ability with Google.<br> :date: __2020-11-07 04:24:05__
 
 > I appreciate the effort Alberta made to get this out so quickly, but it's time to switch the Federal system which is more reliable, comprehensive, and easier on my battery. Uninstalling as there not enough people using this anyway.<br> :date: __2020-10-08 04:03:34__
 
@@ -247,8 +249,6 @@ The ABTraceTogether app has been installed by more than **50000** times. At this
 
 > Can't connect to car without uninstalling. Ridiculous as it intereferes with other bluetooth so how can I even use it. Can't use it if I need bluetooth.<br> :date: __2020-07-08 03:36:51__
 
-> I barely go outside, so all it did was eat my battery throughout the day. Even if I went outside, I never got a notification from the app.<br> :date: __2020-07-04 11:08:43__
-
 
 
 #### 1-star reviews
@@ -257,24 +257,24 @@ The ABTraceTogether app has been installed by more than **50000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="ca.albertahealthservices.contacttracing 1 reviews"/>
 </p>
 
-> Inability to work with the National app.<br> :date: __2020-10-31 10:08:14__
+> Requires gps access. Unlike the covid alert app that uses the Apple Google framework and enables ble scanning witgout location access this requires full location access. The privacy policy is pages of legalease and its requires a cell phone number and code thus allowing more tracking of you. Frankly a joke written by junior devs and Kenny's "we downloaded a solution" just shows how out of tech touch he is on this problem. Covid alert is tracing... Without government seeing it.<br> :date: __2020-11-08 06:30:09__
 
-> This app is heavy and hard on the battery.<br> :date: __2020-10-30 23:35:26__
+> Jason Kenney, could you please just stop being difficult and implement the Federal app already? This is a complete waste of our taxpayer dollars! Uninstalling...<br> :date: __2020-11-08 03:15:52__
 
-> Not very useful<br> :date: __2020-10-29 22:32:31__
+> Drains battery. I uninstalled in anticipation of federal app being activated in alberta<br> :date: __2020-11-08 02:45:20__
 
-> I will only use the federal application, not sure why it is blocked in Alberta.<br> :date: __2020-10-29 20:13:33__
+> If you hate your battery life and privacy, this app is a must have.<br> :date: __2020-11-07 23:45:41__
 
-> Uninstalled because it just doesn't work. AB govt won't use the federal app because if partisanship.<br> :date: __2020-10-29 19:15:00__
+> Prepare for your battery to die twice as fast. I had had the federal app installed for quite a while, but after hearing the questionable decision not to integrate with it I chose to install this one. It is currently 3PM and my battery is at 50% despite my phone barely being touched. I believe in contact tracing but I can't be charging my 0home multiple times a day. Also causing issues where other Bluetooth devices can't connect or maintain their connections when they do.<br> :date: __2020-11-07 23:11:13__
 
-> Doesn't work properly, unisntalled will wait for federal app to be adopted<br> :date: __2020-10-28 21:41:18__
+> The fact Kenney is forcing us to keep using this despite the data being useless after two weeks is frustrating and tonedeaf. I'm not changing my review on this, and hope this incompetent colostomy bag of a premier learns a bit of humility and to accept the usage of the federal app. Uninstalled, and I'm not going to follow his lame advice either.<br> :date: __2020-11-07 22:01:01__
 
-> Give us the federal app.<br> :date: __2020-10-21 20:15:36__
+> Terrible app compared to the scope of the federal one. Uninstalled and waiting for AB to adopt the right solution. I want to know if I am exposed to covid from out of province visitors just as much as if exposed by locals.<br> :date: __2020-11-07 19:50:14__
 
-> Why is alberta being stupid and ignoring rest of canada and not participating in the canada alert app / why you make your own your just gonna get cut and shut off<br> :date: __2020-10-18 19:41:10__
+> Use the federal one, it acctually uses the technology built in the phones!<br> :date: __2020-11-07 17:57:11__
 
-> What a battery hog. I thought it would be using the same tech as COVID Alert, but maybe not. I have to charge twice a day vs once a day just after installing this app. Uninstalling. COVID Alert is better. Implement that instead. I do not want two apps running (I travel AB, SK, ON for family)<br> :date: __2020-10-16 21:34:53__
+> This app kills my battery poorly programmed, time to switch to federal, uninstall and wait until brain trusts of this province figure it out and approve the federal app.<br> :date: __2020-11-07 17:33:18__
 
-> Given 7 digital code to upload data. Space for 6...<br> :date: __2020-10-15 20:19:13__
+> 99.9% identical to the federal app, but less effective because less people use it. You can and should install both apps if you want to be alerted about potential contaminated contact with any travelers who only use the federal app. Devs, pls merge databases already and make this thing useful for everyone. I swear Kenney doesn't have to know; and wouldn't understand anyway.<br> :date: __2020-11-07 16:21:26__
 
 

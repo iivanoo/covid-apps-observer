@@ -1,15 +1,27 @@
 [
     {
+        "reviewId": "gp:AOqpTOHWu61fhu4ssOJRM-6lGQJ2Lyf1V72oUT6tyFeDhjqeZpanFF9ISB1nx2SzwNGDSEsMpyG-9QbWwrBTkQ",
+        "userName": "Rodolfo Bellini",
+        "userImage": "https://play-lh.googleusercontent.com/-hHqhf-2wdGE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckh-XjanCD_Mdjken2q0Pj-SlCTFw/photo.jpg",
+        "content": "Ottima ma al momento non riesco pi\u00f9 ad entrare",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2020-11-06 17:40:02",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOFDuR_vBNYOi74LBQB8A3Zp96zlE2fqa41nHKO7O1KkDlG9pP7rpmze_vgr25EemLcNo422_dYybla1bg",
         "userName": "Gianni Rimoldi",
         "userImage": "https://play-lh.googleusercontent.com/-etmxZ4v9cfI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmdhxox2FNgza0QlyZk43hN-MDYWA/photo.jpg",
-        "content": "Oggi non funziona anche oggi sabato non si apre pi\u00f9 da quando il 30 ottobre si \u00e8 aggiornata",
+        "content": "Chiedo scusa sabato dopo averla aggiornata funziona regolarmente e ho mandato una email alla vostra societ\u00e0",
         "score": 4,
         "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.7.0",
-        "at": "2020-10-31 08:35:19",
-        "replyContent": null,
-        "repliedAt": null
+        "reviewCreatedVersion": "1.7.1",
+        "at": "2020-11-03 08:43:12",
+        "replyContent": "Ciao Gianni, potresti farci avere uno screen dove \u00e8 visibile che l'app \u00e8 aggiornata sul tuo smartphone? Invia una mail a info.allertalom@ariaspa.it",
+        "repliedAt": "2020-11-03 08:29:00"
     },
     {
         "reviewId": "gp:AOqpTOFGoBUY3iiRRnq9-qKsIN4PgZcWU8VzsdoxqQXDweIdSRik9dfmo3yqDuzTTTXuNMXlhYSeQb8ZeozwLw",
@@ -17,11 +29,11 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gim1CtpUlzMTLLy45nPVvh9kdG2AF6z99rrbYRZ_g",
         "content": "Un App molto ben sviluppata,ed utile per avere informazioni sicure sull'andamento della circolazione del Covid 19 nella tua citt\u00e0 e regioni italiane. Molto ben sviluppata,e di facile configurazione, fluida e completa di molte informazioni che possono essere utili. Con la possibilit\u00e0 di avere la situazione della circolazione del Coronavirus, tramite un sistema che ti mostra l'andamento della criticit\u00e0, durante le 24 ore della giornata. Con la legenda con i colori dell'incidenza dei contagi nelle",
         "score": 5,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "1.7.1",
         "at": "2020-10-31 02:10:46",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Grazie Toni, ci impegniamo ogni giorno per poter dare il meglio. Recensioni come questa ci fanno particolarmente piacere!",
+        "repliedAt": "2020-11-03 08:19:08"
     },
     {
         "reviewId": "gp:AOqpTOEFW4xOht8WdBEfm6Ix0VvLgRvdOJCdlBJgGKAFC5LE-RlCfOCQnEdGWIGGdobg2oaZHiOaw_lx7yuxtQ",
@@ -32,8 +44,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.7.0",
         "at": "2020-10-30 08:31:44",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ciao Ivano, puoi raggiungerci in qualsiasi momento scrivendo a: info.allertalom@ariaspa.it",
+        "repliedAt": "2020-11-03 08:30:56"
     },
     {
         "reviewId": "gp:AOqpTOERiDjRlB4Gs-AT48Np3fzFHEMDi6DAn0tadnwHX6b83XXVDZfVPJjS-1dmXWMEtitHA9Xj6yzbEdHQLQ",
@@ -44,8 +56,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.7.0",
         "at": "2020-10-30 08:31:22",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ciao, scrivici a: info.allertalom@ariaspa.it Saremo felici di aiutarti.",
+        "repliedAt": "2020-11-03 08:29:48"
     },
     {
         "reviewId": "gp:AOqpTOEDXtP9m5444rkrRHbgpDZWOIDATnuEy8fHAr4yK5It4XifJly7CWhpsBbT419eu_ZtdZ0N-NDbRvm_og",
@@ -116,8 +128,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.7.0",
         "at": "2020-10-21 20:04:12",
-        "replyContent": "Ciao Elena, abbiamo trasmesso la tua segnalazione all'assistenza per eseguire le opportune verifiche.",
-        "repliedAt": "2020-10-29 11:24:44"
+        "replyContent": "Ciao Elena, i DPCM non vengono pubblicati su Allerta LOM in quanto vengono emanati dallo Stato e non da RL. In ogni caso di fare riferimento anche al link di RL: https://bit.ly/3ei4JsC",
+        "repliedAt": "2020-11-02 19:21:55"
     },
     {
         "reviewId": "gp:AOqpTOEEDy0T43CcW0H6JXjouKxTKXTY3-zK0xug8gf_T5Qq-EV3pFPHjKajlGBaVFWVQOVBS0b_NZ1hjFZsCw",
@@ -128,8 +140,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.7.0",
         "at": "2020-10-21 19:54:14",
-        "replyContent": "Ciao Vanna, abbiamo trasmesso la tua segnalazione all'assistenza per eseguire le opportune verifiche.",
-        "repliedAt": "2020-10-29 11:28:50"
+        "replyContent": "Ciao Vanna, potresti farci avere uno screen dove \u00e8 visibile che l'app \u00e8 aggiornata sul tuo smartphone? Invia una mail a info.allertalom@ariaspa.it",
+        "repliedAt": "2020-11-03 08:28:25"
     },
     {
         "reviewId": "gp:AOqpTOHj_H9ZUKohAn_7LG8vg4kdY3_wn7ZzB7T2AAmqY5M3A6qCrm-0ySZOonB7JWltvwiyIRtNXcqSe2Zyzg",
@@ -569,7 +581,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-8PNnVghMqW4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn2Go1dQuVdr2COptOy2mQpUXIyqQ/photo.jpg",
         "content": "Grande sciocchezza il fatto che non si possano variare determinati dati. Ad esempio, durante il periodo di maggiore virulenza, ho compiuto gli anni. Se non scarichi l'app e poi la ricarichi, rimane fisso il dato degli anni compiuti, cos\u00ec come caricato in origine. Poi le allerte non mi arrivano mai. Sto parlando di fenomeni atmosferici. Nella mia zona, da maggio 2020, ce ne sono stati almeno due. La tengo caricata per campanilismo, ma le applicazioni efficienti sono veramente tutt'altra cosa.",
         "score": 1,
-        "thumbsUpCount": 12,
+        "thumbsUpCount": 14,
         "reviewCreatedVersion": "1.7.0",
         "at": "2020-08-14 13:37:08",
         "replyContent": "Ciao Franco,siamo spiacenti che la tua esperienza non corrisponda alle tue aspettative.Ci teniamo a chiarire che i campi riferiti al questionario Cercacovid non sono modificabili per esigenze tecniche e statistiche. Per le notifiche assicurati di aver attivato il cursore dalle notifiche dall'app, per assistenza scrivi a info.allertalom@ariaspa.it",
@@ -1421,7 +1433,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-gLlFJr4HEVw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucneYycf31gEzhYennseTlzE2rnMXQ/photo.jpg",
         "content": "06.06.20 pessimo aggiornamento. Mi obbliga a compilare la parte del covid, ok peccato che non da possibilit\u00e0 di proseguire compilando il questionario solo per me stesso. Inoltre mai riuscito a salvare gli avvisi che mi interessano. Un consiglio sviluppate app pi\u00f9 semplici, sono un addetto ai lavori dovrebbe esser di aiuto invece fa dannare ad ogni accesso.",
         "score": 1,
-        "thumbsUpCount": 12,
+        "thumbsUpCount": 13,
         "reviewCreatedVersion": "1.7.0",
         "at": "2020-06-06 17:52:51",
         "replyContent": "Ciao Saverio, potresti dettagliare a problematica da te riscontrata ? scrivi a info.allertalom@ariaspa.it indicando la procedura da te seguita e l'errore bloccante (meglio se print) e ti aiuteremo noi!",
@@ -1469,7 +1481,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-4qZu1HFjrPY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclzgbY6JU3NZGu14spqrgETE5BjwQ/photo.jpg",
         "content": "Grazie per la risposta che non ha chiarito il problema. non sono risposte inesatte ma nemmeno precise. Es. Se la mia temperatura \u00e8 36,3 devo scegliere se segnare 36 o 36,5. Per questo ho detto che le risposte non sono precise. Lo stesso per le altre domande categoriche e sempre le stesse. So benissimo che se ho un malessere nuovo devo rivolgermi al mio medico. Leggendo anche altre recensioni le osservazioni sono pi\u00f9 o meno le stesse e non si comprende quale utilit\u00e0 abbia questa ricerca.",
         "score": 4,
-        "thumbsUpCount": 24,
+        "thumbsUpCount": 26,
         "reviewCreatedVersion": "1.7.0",
         "at": "2020-06-06 09:52:05",
         "replyContent": "Ciao Graziella, grazie per averci ricontattato, trasmetteremo le tue osservazioni  al gruppo di ricerca di medici e ricercatori dell\u2019Ospedale San Matteo e dell\u2019Universit\u00e0 degli Studi di Pavia che ha ideato il questionario. Ogni contributo degli utenti \u00e8 prezioso!",
@@ -1529,7 +1541,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi9PlAnkjngOEmIgPt0LQGZHFK0ddwgMdk4qFz1sys",
         "content": "5.06.20. Scaricato aggiornamento non posso cambiare la mia et\u00e0 in compenso se inserisco mia figlia mia et\u00e0 scende a 20 anni.... tolgo una stella ed sto a vedere se almeno gli alert funzionano.... nel caso disinstallo. 04.2020.... Sinceramente mi aspettavo di meglio... Se ieri abitavo a casa mia e lavoravo in una citt\u00e0 oggi suppongo di abitare bella stessa casa e lavorare nello stesso posto.... se cambia qualcosa lo cambio..... perch\u00e9 tutte le volte reinserirlo?",
         "score": 1,
-        "thumbsUpCount": 3,
+        "thumbsUpCount": 4,
         "reviewCreatedVersion": "1.7.0",
         "at": "2020-06-05 07:30:52",
         "replyContent": "Ciao Maurizio, abbiamo analizzato quanto da te segnalato e ti suggeriamo di disinstallare e reinstallare l'app, compilando correttamente tutti i campi. Ti ricordiamo che i dati riferiti ad et\u00e0 sesso e condizioni mediche non saranno modificabili una volta inseriti.",
@@ -2954,7 +2966,7 @@
     {
         "reviewId": "gp:AOqpTOG2-LpbdOS3l23T92EPOT1wPY4A7IIO0njUiy0yzC_x2DBKq1azDlJHEoDwvu08a4uWDDzgTTX9qOsBaQ",
         "userName": "Carlo Dell'anna",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhLQKwITXPB_G85vbA3QoLHdmX6SFL7L9JGXi4oXw",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhMXIIpKbslAWSoMQbMoaWngULdSst3GRDm5X-kkA",
         "content": "Ottima",
         "score": 5,
         "thumbsUpCount": 0,
@@ -3421,8 +3433,8 @@
     },
     {
         "reviewId": "gp:AOqpTOHK3ow9xs3Bwjt-RBLODiuObOm4A1GRTh7CMx93URdYcz5cbfguBnSAfQGVCihsq8sMgoFYSgX0T5p8ZQ",
-        "userName": "Ceck Ruby",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhNBHjtIZR0yfC8LFMQRaiidlMPLDBPgbLXgPxuVkE",
+        "userName": "Cesare Sacchi",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiTDNSxUKkk8no1b51J8jmUpyORhVKit1GEglrHBeQ",
         "content": "Utile",
         "score": 5,
         "thumbsUpCount": 0,
@@ -7070,7 +7082,7 @@
     {
         "reviewId": "gp:AOqpTOHo2qlRpdGvyrhJUQm_mCvs2sBpKFNQzVXRmjT2kBlYL7RjvRf4y6dK7z13rY9V1X_Om6EZFf33hQsYfg",
         "userName": "Luca Cattaneo",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgihnUuzkxMaBDNqDB61D4f2M3ANxPZG5XYBHIQuQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjDvaEcrh9YECNj22Zp0zt-OJzgHWPYx-hwXgXxng",
         "content": "Funziona ma vorrei segnalare che \u00e8 uscita l'app IO. S\u00ec potrebbero integrare i servizi l\u00ec",
         "score": 3,
         "thumbsUpCount": 0,
@@ -9961,7 +9973,7 @@
     },
     {
         "reviewId": "gp:AOqpTOFRizzzb8hgKnrKz0uXZ2CQnYKrfjymmGvOGVi07vMr_jdxzODHrT855YCpVoA520i9xK3OcwL1FiF0rg",
-        "userName": "albert baladin",
+        "userName": "Ernesto Falci martelli",
         "userImage": "https://play-lh.googleusercontent.com/-rYciXMcOjIk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmtZW6H2RAWtlSuys8be88zX10Ssg/photo.jpg",
         "content": "Cosa me ne frega delle valanghe .???",
         "score": 1,
@@ -10910,7 +10922,7 @@
     {
         "reviewId": "gp:AOqpTOHHM3a-lJ-D_x6eTFeDqRmVlw99lDIGlASLB3aI70SEIl4GaEDtzFWI01toqLp-V0ZbGg-32qWl7HNJKw",
         "userName": "Bianca Errante",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GixbX1HdFZDuCh3iCKn98c555UqHNfBXhHEoFeJGg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjsI4rmVYzErhUMeCPHOVQIfACqVy1b66wiQagp8A",
         "content": "Questionario poco serio. Intanto le malattie da poter indicare sono riduttive, perch\u00e9 bisogna considerare anche chi ha malattie autoimmuni, o se \u00e8 a rischio trombosi (io ad esempio ho il sangue molto denso per eccesso di piastrine), e bisognerebbe anche capire quali farmaci si assumono. (A livello statistico questi dati possono dare un quadro della concomitanza di malattia e cure farmacologiche correlate al virus). Indirizzo e dati anagrafici sono da ricompilare ogni volta, non ha senso!",
         "score": 1,
         "thumbsUpCount": 0,
@@ -11582,7 +11594,7 @@
     {
         "reviewId": "gp:AOqpTOE_yEUMO1J4hwTb39y0kDKlZEcQDncOffBAIzRmIo6uK6AiPdGgWF0DHRjcnNI76i8zxy9e4ZkWEB2n7w",
         "userName": "Giuseppe Coter",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg8hQjDvc2EdAQUJ_KM7qFTZfw-bXopTTE0vHQX5w",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiKM-_FvnWXZkDvI2qJSMLGYVeVMUteQJwIyyTXEA",
         "content": "Ha funzionato per qualche giorno, adesso continua a darmi errore, e non si apre pi\u00f9. Reinstallata \u00e8 la stessa cosa",
         "score": 1,
         "thumbsUpCount": 0,
@@ -11986,17 +11998,5 @@
         "at": "2020-04-10 18:57:01",
         "replyContent": "Ciao, ti consigliamo di verificare se tutti i campi sono stati compilati.Se hai bisogno di ulteriore assistenza, scrivi a info.allertalom@ariaspa.it",
         "repliedAt": "2020-04-24 17:55:09"
-    },
-    {
-        "reviewId": "gp:AOqpTOFczMsvo4p8V_dNYY-G-TuKiHzF3J3cwHfljODl75ovUbFE7k2lRxkblLb1472dt5NrnwLya3y25Mp8jw",
-        "userName": "Andrea Garli",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjST-J21CUL8R_Ufdzz5iBmuBdVAmjUIpei1Pas6w",
-        "content": "Secondo me, si dovrebbe poter segnalare che tipo di lavoro si svolge per capire, quante persone sono realmente a rischio di contagio.",
-        "score": 3,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.5.0",
-        "at": "2020-04-10 18:55:23",
-        "replyContent": "Ciao Andrea, al momento non \u00e8 stata implementata questa funzione la prenderemo in considerazione in futuro, grazie per il suggerimento!",
-        "repliedAt": "2020-04-24 17:47:00"
     }
 ]

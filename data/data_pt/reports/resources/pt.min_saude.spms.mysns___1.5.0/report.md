@@ -171,6 +171,8 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <img src="5_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 5 reviews"/>
 </p>
 
+> Gosto<br> :date: __2020-11-05 19:26:51__
+
 > Bom<br> :date: __2020-10-16 10:11:36__
 
 > Fantástica app!<br> :date: __2020-10-10 22:21:19__
@@ -189,8 +191,6 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 
 > Muito boa. Todos os utilizadores deviam ter esta aplicação Fácil e rápida para nós<br> :date: __2020-09-03 23:07:11__
 
-> Boa<br> :date: __2020-09-01 20:42:35__
-
 
 
 #### 4-star reviews
@@ -198,6 +198,10 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 4 reviews"/>
 </p>
+
+> Mais ou menos<br> :date: __2020-11-07 22:46:32__
+
+> Bom<br> :date: __2020-10-31 20:49:08__
 
 > Fiz a instalação, acedi através da chave móvel digital e funcionou à primeira.<br> :date: __2020-08-05 21:42:20__
 
@@ -214,10 +218,6 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 > Receita de medicamentos<br> :date: __2019-09-17 12:33:44__
 
 > Bom<br> :date: __2019-09-05 00:44:52__
-
-> Comecei hoje e pelo que li é vi parece me muito util Obrigado<br> :date: __2019-06-19 17:36:33__
-
-> como posso marcar consulta de saude horal?<br> :date: __2019-05-19 22:40:36__
 
 
 
@@ -255,6 +255,8 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <img src="2_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 2 reviews"/>
 </p>
 
+> A aplicação direciona sempre para o browser para fazer o login, por isso torna-se inútil instalar.<br> :date: __2020-11-04 14:58:20__
+
 > Muito complicado. Para aceder à minha conta do banco é bem mais fácil e seguro na mesma.<br> :date: __2020-08-30 12:46:29__
 
 > Diz que a APP foi desenhada para Android 5 e "Crasha". Não passa daqui. Não consigo fazer mais nada.<br> :date: __2020-08-29 00:01:45__
@@ -273,8 +275,6 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 
 > Não me serviu para nada.<br> :date: __2020-03-18 11:13:55__
 
-> Não dá acesso à nada.... Mais uma vergonha nos serviços<br> :date: __2020-03-12 01:27:51__
-
 
 
 #### 1-star reviews
@@ -283,9 +283,13 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <img src="1_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 1 reviews"/>
 </p>
 
-> Isto é uma vergonha! Agora com o covid mandam receitas sem papel e como antes não havia usado a aplicação, até pensei que seria fácil. Mas qual não é o meu espanto que tenho de inserir inúmeros códigos para obter o código digital que tanto por SMS como por e-mail obtenho a seguinte resposta: Não é válido. Por CC teria de me dirigir a uma loja do cidadão para o obter. Então tirava a receita em papel e não era necessário tal deslocação. Já que as receitas sem papel são para minimizar deslocações.<br> :date: __2020-10-28 18:17:00__
+> Isto é gozar com quem paga e está doente!<br> :date: __2020-11-06 12:52:25__
 
-> A aplicação deixou de funcionar. Gostava que resolvessem o problema. Obrigado.<br> :date: __2020-10-28 17:53:01__
+> A aplicação deixou de funcionar. Gostava que resolvessem o problema. Obrigado. Há 2 anos que não fazem actualizações da aplicação. Por isso esta aplicação não serve pra nada. É uma vergonha.<br> :date: __2020-11-05 12:43:58__
+
+> Ridículo e vergonhoso<br> :date: __2020-11-02 20:48:01__
+
+> Isto é uma vergonha! Agora com o covid mandam receitas sem papel e como antes não havia usado a aplicação, até pensei que seria fácil. Mas qual não é o meu espanto que tenho de inserir inúmeros códigos para obter o código digital que tanto por SMS como por e-mail obtenho a seguinte resposta: Não é válido. Por CC teria de me dirigir a uma loja do cidadão para o obter. Então tirava a receita em papel e não era necessário tal deslocação. Já que as receitas sem papel são para minimizar deslocações.<br> :date: __2020-10-28 18:17:00__
 
 > "MySNS parou". Tal nota sempre existiu porque o App não vale nada. E o desinstalei, esperando que melhore. O registo não se consegue. E a Chave Móvel Digital, difícil de obter, para quê? Se o cartão de cidadão tem o nr de utente, não seria bastante para identificar o utente, com uma password? Ademais, o utente quer marcar suas consutas, evitando as filas no centro de saúde, e em alguns casos, pedir suas receitas e recebê-las via App. A simplicidade é o segredo do sucesso.<br> :date: __2020-10-26 04:06:47__
 
@@ -298,9 +302,5 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 > Aplicação obsoleta! Não faz sentido ser redireccionado para o browser cada vez que quero fazer login na app, e tenho de colocar códigos inúmeras vezes! A última actualização é de 2018, estamos quase em 2021! Isto é uma app de campanha publicitária do Ministério da Saúde. Quando início a app devia de aparecer o meu perfil e não notícias do Ministério. Má utilização dos dinheiros públicos!<br> :date: __2020-10-03 13:05:55__
 
 > Péssima<br> :date: __2020-10-03 00:15:06__
-
-> Não consigo entrar no site e fazer qualquer pedido de medicação... quem me pode ajudar???!!!<br> :date: __2020-09-30 19:11:52__
-
-> Péssima aplicação. Não temos acesso a atestados médicos ou altas médicas ou relatórios. Para além disso as apps são redundantes. Bastava uma que desse acesso a tudo de forma clara e não nos fizesse voltar atrás sistematicamente.<br> :date: __2020-09-29 16:36:06__
 
 

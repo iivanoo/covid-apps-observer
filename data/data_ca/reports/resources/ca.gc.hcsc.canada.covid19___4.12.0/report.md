@@ -134,6 +134,8 @@ The Canada COVID-19 app has been installed by more than **100000** times. At thi
 <img src="5_star_reviews_wordcloud.png" alt="ca.gc.hcsc.canada.covid19 5 reviews"/>
 </p>
 
+> Very useful and helpful, thanks for introducing this app through out the pandemic<br> :date: __2020-11-07 00:02:13__
+
 > Get the app. Stay safe.<br> :date: __2020-10-29 03:27:31__
 
 > Seamless<br> :date: __2020-10-16 02:54:07__
@@ -151,8 +153,6 @@ The Canada COVID-19 app has been installed by more than **100000** times. At thi
 > The more people who use this the better it gets. I like the app.<br> :date: __2020-09-24 20:41:02__
 
 > Great app lots of useful information.<br> :date: __2020-09-19 21:33:55__
-
-> Informative app<br> :date: __2020-09-11 16:35:21__
 
 
 
@@ -190,6 +190,8 @@ The Canada COVID-19 app has been installed by more than **100000** times. At thi
 <img src="3_star_reviews_wordcloud.png" alt="ca.gc.hcsc.canada.covid19 3 reviews"/>
 </p>
 
+> Good idea. I've been using it for a while now. On the other hand it tells me I should self-isolate for fourteen days LITERALLY EVERY TIME I self-report - even after a month of "no symptoms". The worst I've ever reported is a mild headache. I don't get it.<br> :date: __2020-11-05 17:55:23__
+
 > Stupid app wont let me send the daily check in results<br> :date: __2020-10-08 08:32:50__
 
 > This is not a be all end all app. It has good information. After you submit your symptoms, you lose the bottom menu (Home, Stats, etc). You have to back out to get to this menu. Not easy to exit the app.<br> :date: __2020-10-05 21:44:01__
@@ -208,8 +210,6 @@ The Canada COVID-19 app has been installed by more than **100000** times. At thi
 
 > Basic app. I wish they hooked it to googles contact tracing by bluetooth, that would make it 5 stars for me. And i would be much happier. Its nice to have the numbers that easy to see but i don't think it gets updated often enough<br> :date: __2020-07-21 05:16:26__
 
-> Daily reporting even if you don't have symptoms is good data.<br> :date: __2020-07-04 17:22:16__
-
 
 
 #### 2-star reviews
@@ -218,7 +218,7 @@ The Canada COVID-19 app has been installed by more than **100000** times. At thi
 <img src="2_star_reviews_wordcloud.png" alt="ca.gc.hcsc.canada.covid19 2 reviews"/>
 </p>
 
-> [Original release review] Unreliable notifications. No app exit stratagy, that's very poor design. Otherwise fine app but becoming very slow to load or change tabs. [2020-10-21 Release] Still no proper way to exit app. Extremely slow response throughout, even on fiber internet. Aside from these irritations, workflow is very good. Clean up exit and speed will attain 5 stars.<br> :date: __2020-10-22 14:54:31__
+> [Original Rel review] Unreliable notifications. No app exit stratagy, that's very poor design. Otherwise fine app but becoming very slow to load or change tabs. [2020-10-21 Rel] Still no proper way to exit app. Extremely slow response throughout, even on fiber internet. [2020-10-27 Rel] Workflow error. After submitting daily check-in returning to home tab app thinks daily check-in not done. Exit and reload app check-in noted correctly. Other faults remain.<br> :date: __2020-11-01 15:11:04__
 
 > I thought this was the tracker app. It isn't and it really isn't useful<br> :date: __2020-10-07 04:46:06__
 
@@ -246,6 +246,8 @@ The Canada COVID-19 app has been installed by more than **100000** times. At thi
 <img src="1_star_reviews_wordcloud.png" alt="ca.gc.hcsc.canada.covid19 1 reviews"/>
 </p>
 
+> terrible<br> :date: __2020-11-03 01:18:47__
+
 > Absolut joke of an app. Today is Oct 22nd and I wanted to see details under the Stats tab for a more detailed look at local cases. Latest data shown is from September 25th!?!? Really!?! Useless app...uninstalled!<br> :date: __2020-10-22 22:05:52__
 
 > This is not the app you want. It notified me to post a positive interaction on a wall. I don't want to be notified of any thing that is not a covid exposure by a covid app<br> :date: __2020-10-10 18:21:58__
@@ -263,7 +265,5 @@ The Canada COVID-19 app has been installed by more than **100000** times. At thi
 > This comes up if you search for Canada Covid app. But it is NOT the alert app - you must add the word Alert to your search. Dumb!!<br> :date: __2020-09-10 18:26:00__
 
 > A Company called Thrive health is impersonating Health Canada and Google thinks: "yeah, apps impersonating goverment agencies should be totally allowed."<br> :date: __2020-09-03 17:10:22__
-
-> Not the right app. Don't use<br> :date: __2020-08-26 13:37:39__
 
 

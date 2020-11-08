@@ -208,6 +208,8 @@ No recent reviews available with 2 stars.
 <img src="1_star_reviews_wordcloud.png" alt="de.xikolo.openwho 1 reviews"/>
 </p>
 
+> boloceia aplicativo<br> :date: __2020-10-31 16:14:42__
+
 > Como uma Organização mundial não dispor mais idiomas?<br> :date: __2020-04-09 17:28:57__
 
 > Isso è um lixo tente melhorar<br> :date: __2020-04-02 09:30:07__

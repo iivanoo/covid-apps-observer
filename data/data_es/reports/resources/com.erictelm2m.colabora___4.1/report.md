@@ -118,6 +118,8 @@ The COVID-19.eus app has been installed by more than **50000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="com.erictelm2m.colabora 5 reviews"/>
 </p>
 
+> Yo he llamado para probarla, y hice el tes me trataron muy bien.<br> :date: __2020-11-02 18:09:08__
+
 > Estoy esperimentado él resultado<br> :date: __2020-10-25 21:42:28__
 
 > Muy bien<br> :date: __2020-10-25 16:12:32__
@@ -135,8 +137,6 @@ The COVID-19.eus app has been installed by more than **50000** times. At this ti
 > Bueno<br> :date: __2020-09-12 12:27:32__
 
 > Muy útil y al ser versión inicial, dada la urgencia en ponerla en marcha, habrá que esperar por actualizaciones más completas y útiles en breve. Debieran permitir el cambio de domicilio!!<br> :date: __2020-09-02 16:30:50__
-
-> Todo el mundo tenia que tener una aplicacion de estas caracteristicas<br> :date: __2020-07-30 19:31:10__
 
 
 

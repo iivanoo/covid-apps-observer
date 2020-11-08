@@ -164,6 +164,10 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 <img src="5_star_reviews_wordcloud.png" alt="de.xikolo.openwho 5 reviews"/>
 </p>
 
+> Good<br> :date: __2020-11-06 18:32:20__
+
+> Knowledgebase<br> :date: __2020-11-03 14:05:53__
+
 > thank you so much for app developer<br> :date: __2020-10-26 06:14:47__
 
 > WHO is really helping the future workers<br> :date: __2020-10-17 05:46:26__
@@ -179,10 +183,6 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 > It's educative<br> :date: __2020-10-01 11:38:30__
 
 > This app won't open.<br> :date: __2020-10-01 04:43:02__
-
-> Nice<br> :date: __2020-09-30 13:07:13__
-
-> Ok<br> :date: __2020-09-24 12:09:36__
 
 
 
@@ -248,6 +248,8 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 <img src="2_star_reviews_wordcloud.png" alt="de.xikolo.openwho 2 reviews"/>
 </p>
 
+> The app keeps showing me this message (please enable network connection) when I open it, don't know why ?? My internet connection is working fine and I am using all the other apps perfectly well. Can you lend me a hand in this matter.<br> :date: __2020-11-08 08:31:34__
+
 > After downloading the certificate at the end of the course when u try to open it. It says the file is corrupted or damaged<br> :date: __2020-09-23 14:26:48__
 
 > Unable to watch the video or download the video.<br> :date: __2020-08-08 15:29:04__
@@ -266,8 +268,6 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 
 > Nos manten informado de tudo<br> :date: __2020-03-22 08:51:43__
 
-> Why can't you choose a language???? You have to see the same news or documents in all languages. Its exhausting.<br> :date: __2020-03-15 19:30:37__
-
 
 
 #### 1-star reviews
@@ -275,6 +275,10 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="de.xikolo.openwho 1 reviews"/>
 </p>
+
+> The videos are not playing eventhough I've downloaded them<br> :date: __2020-11-03 10:43:38__
+
+> “‘Ovid’ is Latin for a sheep. COVID starts with a C, which also means ‘see’ in ancient language. 19 was known as the “Number of Surrender” in ancient times.”  It goes on to draw the conclusion, “C-OVID 19 = ‘See a Sheep Surrender'”.<br> :date: __2020-11-02 08:04:58__
 
 > Very bad experience i got unable to login very bad i fell worst experience<br> :date: __2020-09-26 10:55:02__
 
@@ -291,9 +295,5 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 > Not a good application....It always changes names in certificates and it changes dates also moreover i have done courses and it changes there names also in certificates...so many problems...now what to do<br> :date: __2020-07-02 03:49:39__
 
 > Not sign in properly many time errors.. Please help me out of this problem. I already registered a complaint that particular problem through mail.<br> :date: __2020-06-16 05:10:29__
-
-> No real news<br> :date: __2020-06-10 20:20:26__
-
-> Dirty apps<br> :date: __2020-06-08 01:02:18__
 
 
