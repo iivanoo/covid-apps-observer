@@ -192,6 +192,8 @@ The RIVM LCI-richtlijnen app has been installed by more than **50000** times. At
 <img src="3_star_reviews_wordcloud.png" alt="nl.rivm.lciapp 3 reviews"/>
 </p>
 
+> Ziet er goed uit En is informatief<br> :date: __2020-11-15 08:59:24__
+
 > Graag nog de app aanpassen aan corona crisis.<br> :date: __2020-04-13 11:55:30__
 
 > Het is niet handig dat de tekst van de richtlijnen onder aparte kopjes staan. Snel overzicht krijgen lukt zo niet. Ga toch elke keer weer naar de website.<br> :date: __2018-04-15 12:23:09__

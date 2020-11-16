@@ -225,6 +225,8 @@ The COVID-19 Symptom Tracker app has been installed by more than **10000** times
 <img src="1_star_reviews_wordcloud.png" alt="com.designit.covid_19 1 reviews"/>
 </p>
 
+> Push Nachricht kommt im Sekundentakt<br> :date: __2020-11-10 19:12:46__
+
 > Müll. Kein Zugang. Neuinst nicht möglich. Ein Stern<br> :date: __2020-11-03 11:45:13__
 
 > Ich nutze die app Schonlange nicht mehr nicht zu Empfehlen wurde Seit 6 Monaten nicht mehr Aktualisiert ich würde Raten die app zu Deeinstallieren. Die app ist zu langsam die Kennzahlen wurden nie Aktualisiert<br> :date: __2020-11-01 10:14:09__
@@ -242,7 +244,5 @@ The COVID-19 Symptom Tracker app has been installed by more than **10000** times
 > Seit etwa 100 Tagen aktiv. Leider im Status immer noch der Vermerk "wir überarbeiten die Kennzahlen", keine Risikoeinschätzung.<br> :date: __2020-08-11 05:43:24__
 
 > Hilft nix ist umständlich und muß nach jedem Smartphonestart neu aufgerufen werden.<br> :date: __2020-07-20 18:43:23__
-
-> Ich deinstallier das wieder..., hab keine Lust mehr. Wenn ihr unbedingt Informationen wollt, dann gebt dem Affen Zucker ;-)<br> :date: __2020-06-27 18:10:36__
 
 

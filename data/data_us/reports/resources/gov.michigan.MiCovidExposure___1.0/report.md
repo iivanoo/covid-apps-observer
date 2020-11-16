@@ -126,21 +126,25 @@ The MI COVID Alert app has been installed by more than **1000** times. At this t
 <img src="5_star_reviews_wordcloud.png" alt="gov.michigan.MiCovidExposure 5 reviews"/>
 </p>
 
-> Does what it says and doesn't drain phone resources. Good to see MI finally get in on the exposure notification API.<br> :date: __2020-10-31 18:51:56__
+> New to it but could be a life savior!<br> :date: __2020-11-15 21:27:57__
 
-> I just downloaded today. I live in Atlanta, Georgia. Since it is called MI Covid alert, would it work here to alert me and be able to report a case? Sorry if this is a dumb question but it seems like it could be a suberb app. And I truly love that it is not intrusive like most apps. The app for Georgia asks for too much info.<br> :date: __2020-10-26 05:09:50__
+> Great app. It's private and low impact to my phone. The one downside is it relies and others installing and using it. It does provide some good statistical and links to general information<br> :date: __2020-11-15 14:17:04__
 
-> Sad to see an incredibly small amount of downloads on a powerful app(tool)that everyone should be taking advantage of right now<br> :date: __2020-10-21 02:34:10__
+> Easy, and I like that it reminded me that it wouldn't work with my Bluetooth turned off (which reminded me to turn Bluetooth on!).<br> :date: __2020-11-14 23:09:39__
 
-> thank you! seems like a smart and simple way to anonymously keep people safer!<br> :date: __2020-10-16 19:50:24__
+> I really am sick of conspiracy theorists.<br> :date: __2020-11-14 14:51:24__
 
-> Did not load<br> :date: __2020-10-16 14:29:57__
+> Great info, easy to use. My only suggestion is to reduce the size of the text box on the Stats page regarding Johns Hopkins along with the logo. It takes up too much of the screen on my Android mobile device. I can only use 40% of the screen for scrolling the stats.<br> :date: __2020-11-14 01:45:27__
 
-> Simple and unobtrusive. When you install it doesn't make any requests for your GPS data so you know it's not tracking your location or anything. There's a chat interface to ask questions to someone at the health department.<br> :date: __2020-10-16 04:08:40__
+> Great that I can be notified of potential exposure to covid-19!!<br> :date: __2020-11-14 00:40:01__
 
-> 😷 it or ⚰️<br> :date: __2020-10-16 03:50:17__
+> Awesome<br> :date: __2020-11-13 23:35:40__
 
-> Good app for Michigan<br> :date: __2020-10-16 00:00:20__
+> Great idea! Definitely necessary during these crazy times! Hope everyone downloads it!<br> :date: __2020-11-13 22:26:55__
+
+> Glad to see we finally have this in Michigan. This looks like a good noninvasive app to help keep us safe<br> :date: __2020-11-13 21:52:18__
+
+> Great to keep safe<br> :date: __2020-11-13 20:28:39__
 
 
 
@@ -149,6 +153,22 @@ The MI COVID Alert app has been installed by more than **1000** times. At this t
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="gov.michigan.MiCovidExposure 4 reviews"/>
 </p>
+
+> Its a good way to b notifield about the virus<br> :date: __2020-11-14 23:32:03__
+
+> Information is powerful for health and wellbeing.<br> :date: __2020-11-14 22:56:37__
+
+> Remove stats tab. Why isn't this for any infectious disease.<br> :date: __2020-11-14 00:37:30__
+
+> In the stats tab if you scroll to the map you get stuck unable to scroll outside of the map. Only solution seems to be to reopen the app. Might try making the map a touch smaller or making it a separate pop out window or something.<br> :date: __2020-11-13 21:25:25__
+
+> This app is great, but it would be even better if we could submit a result that tested negative so that health officials can track this as well.<br> :date: __2020-11-13 19:36:09__
+
+> Hopefully enough people use it to make it work!<br> :date: __2020-11-13 17:03:29__
+
+> I wish the information was more well organized and the map was more informative. It would be great if the map showed the amount of cases by city instead of county, more recent info, and the map on a different section of the app because I thought for a minute that there was no map, there is its just not super informative. I'd also like to see a leaderboard of what city's have the most cases and have testing areas on the map. Otherwise it's a good start in the right direction for michigan :)<br> :date: __2020-11-12 14:36:48__
+
+> I'm giving it a try because any knowledge is better than none. It won't change my behavior. I'll still be masking and mostly staying home.<br> :date: __2020-11-10 00:18:04__
 
 > I like the app and was surprised to see it had helpful features other than the contact tracing. Even though that is what it is intended for. It doesn't appear to use much battery, even though it hopefully is working all the time. Otherwise it would be pointless. My only problem is the stats displayed don't match the most recent data on the website. That seems simple enough for the developers to get working right.<br> :date: __2020-10-17 17:47:48__
 
@@ -159,18 +179,46 @@ The MI COVID Alert app has been installed by more than **1000** times. At this t
 #### 3-star reviews
 
 <p align="center">
-
+<img src="3_star_reviews_wordcloud.png" alt="gov.michigan.MiCovidExposure 3 reviews"/>
 </p>
 
-No recent reviews available with 3 stars.
+> Nice start, but it's deceptive giving static statistics. Need to do update stats daily or remove them!<br> :date: __2020-11-15 17:48:11__
+
+> The county health department is so overwhelmed I likely won't be contacted to get the pin # to put in my positive test. I can have no clear idea of how effective the app is, but it's better than nothing<br> :date: __2020-11-15 14:33:26__
+
+> Great idea<br> :date: __2020-11-15 00:39:09__
+
+> I think the concept of this app is a step in flattening the curve but unless all Michiganders are downloading and using this how is its effectivenes Therefore, I think requirement of the app by all with smart phones or access might make it more successful, not only Michigan but throughout the United States. Matter of fact Everywhere this is a "Global Pandemic". Pre-installment (as other widely used apps are already installed on new phones) is a good idea as well. Please Consider<br> :date: __2020-11-14 19:46:35__
+
+> Being able to see a how many people in your area have downloaded the app would be helpful. Its far more accurate if my city has 5k+ downloads than if it only has 500.<br> :date: __2020-11-14 17:53:39__
+
+> I am a nurse and have tested positive in April. No pin given. Won't let me submit my result<br> :date: __2020-11-14 09:22:03__
+
+> I will it ever download, still pending After 5 Minutes<br> :date: __2020-11-14 04:23:42__
+
+> We live in a weird ass world, ive been inside for months<br> :date: __2020-11-13 20:05:32__
+
+> Too much text, especially when you try to look at John Hopkins pages. The notice about that fills half the page, the bottom icons take more, so you get very little info on the screen and cant even see that it is michigan on the map. Next topic: I also worry very much about being tracked and my privacy.<br> :date: __2020-11-12 16:00:48__
+
+
 
 #### 2-star reviews
 
 <p align="center">
-
+<img src="2_star_reviews_wordcloud.png" alt="gov.michigan.MiCovidExposure 2 reviews"/>
 </p>
 
-No recent reviews available with 2 stars.
+> You only have 1" to view info. Needs work.<br> :date: __2020-11-15 17:34:28__
+
+> I wish this Covid-MI was more like the COVID -NJ APP it actually let you know if been exposed . Has a feature that circles They need to improve the Covid-19 app for MI Whomever developed should look at the Covid-NJ app asap<br> :date: __2020-11-15 08:12:50__
+
+> Seems like a good idea, I'm not in a major city and don't work around large amounts of people so not sure how effective it will be for me. One thing it did I don't get since it says it uses bluetooth and won't ask for GPS, is it required me to have my GPS on to receive notifications! Everything I read about the app says it shouldn't and won't do this and it's not listed as part of the app permissions. If the app really needs GPS on they need to make sure it's known and listed in the permissions!<br> :date: __2020-11-14 13:59:23__
+
+> The design makes it impossible to read the info in stats.<br> :date: __2020-11-14 03:17:19__
+
+> Don't delete my review again because you don't like it. Oh look, a 'FEAR' spreading tool to manipulate the mob.<br> :date: __2020-11-13 19:46:56__
+
+
 
 #### 1-star reviews
 
@@ -178,12 +226,24 @@ No recent reviews available with 2 stars.
 <img src="1_star_reviews_wordcloud.png" alt="gov.michigan.MiCovidExposure 1 reviews"/>
 </p>
 
-> Useless app! I've been around several people at work who tested positive since having this app. Nobody is using it. Need a better solution than this.<br> :date: __2020-11-07 15:01:29__
+> This app is worthless. Srop feeding the fear<br> :date: __2020-11-16 06:17:15__
 
-> My wife tested positive. No alert. Yes, we live together. Draw your own conclusions.<br> :date: __2020-11-06 19:05:54__
+> Covid 19 has a 99.98% survival rate , no need for this app.<br> :date: __2020-11-15 21:00:14__
 
-> Garbage. Need an app with good numbers and stats. I dont need big brother guiding me to this app and blocking all other kinds of covid apps from being developed.<br> :date: __2020-10-31 02:11:00__
+> Don't bother, your battery will die before it has any time to do anything useful. Downloaded had to charge my phone every 3 hours.<br> :date: __2020-11-15 06:39:46__
 
-> State is basically not using this app. In order to report positive, you need a pin from the health department. Well it takes 3 days to get your test results and 4 days for the health department to call you. By that time, what good is contact tracing? Don't bother with this app. It's a waste of phone resources.<br> :date: __2020-10-28 11:21:17__
+> Big brother<br> :date: __2020-11-15 03:46:39__
+
+> Doesn't work. Just tells you to update Google play services but it's already up to date.<br> :date: __2020-11-15 03:32:49__
+
+> Tyrannical government app<br> :date: __2020-11-14 19:09:40__
+
+> I don't have blue tooth do this app will not help me at all.<br> :date: __2020-11-14 00:19:45__
+
+> How can I give a review when I just opened it up<br> :date: __2020-11-13 23:27:23__
+
+> Absolutely horrible!<br> :date: __2020-11-13 23:19:36__
+
+> Stupid<br> :date: __2020-11-13 23:09:15__
 
 

@@ -1,5 +1,29 @@
 [
     {
+        "reviewId": "gp:AOqpTOGEUp55leIW5ophn_qqd5-g8ih3i5uBNbG-W9FkOkopW6A8VdWlgETWN3JSLPr5i-nd355rhi2bcVgk1-Y",
+        "userName": "naima youssuf",
+        "userImage": "https://play-lh.googleusercontent.com/-RWqaTEfxjHI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmsti-gSNOxYYtsqgMn3UF4tr8J4g/photo.jpg",
+        "content": "Kkkkkk",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2020-11-13 02:37:43",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOEtXRzpEJJCHaoLoEctLc0WcYX2C2aokUQkxoQUemR0XpfEESam-LSk6jNLVwaFYgYH7XORDfM2J99sLTY",
+        "userName": "Bruno Nara\u00e7i",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjMKgX4VUq2P6rCFgsz_WfkWz6XM7GO9qVHRqfA1Q",
+        "content": "CIAO",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2020-11-08 16:39:13",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOEObrV5aGmZty_eZ2nH8CnfpXAyBCVhxeKXu3RhGEiHAlwjlFd1FqGuwolltTNfJc3nPzzXwzXYhhPZnb8",
         "userName": "Nene Chilau",
         "userImage": "https://play-lh.googleusercontent.com/-lKd7s5LDaKQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckWIBDuOvk7-KuMX3b0uBqDjKjY_Q/photo.jpg",
@@ -29,7 +53,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgmigjZGXifMcuigQ4JqNBKCCHsGhpO5ZKXyJwAsg",
         "content": "Spero che serva, ma serve anche per quelli che non hanno contratto il Covid 19, siccome da 1 al 15 agosto 2020 dovrei recarmi ad Porto San Maurizio in provincia di Imperia Liguria Italia Italie Italy. Oltre ad installare questa applicazione si dobbiamo fare i 3 tamponi e eseguire l'autocertificazione quella per l'uscita dal Piemonte ovvero dal capoluogo Torino TO alla Liguria, Porto San Maurizio, in provincia di Imperia IM, siccome dovremmo convivere insieme in un alloggio bilocale. Luisa",
         "score": 5,
-        "thumbsUpCount": 7,
+        "thumbsUpCount": 8,
         "reviewCreatedVersion": null,
         "at": "2020-06-08 16:16:05",
         "replyContent": "Gentile utente, questa soluzione \u00e8 rivolta esclusivamente alle persone in sorveglianza attiva. Per quanto riguarda l'hotellerie (hotel, B&B, villaggi vacanze ...) \u00e8 disponibile una soluzione ad hoc, ma anche in questo caso \u00e8 la struttura che dovrebbe aderire al servizio e fornirle le credenziali. Per info https://tinyurl.com/yax2qjv8",
@@ -62,7 +86,7 @@
     {
         "reviewId": "gp:AOqpTOFu0jYT1RSLjXNTIWrNQdh9XESZCRMDTJdTVoDN5sPhxkRbCu1BwBM0DAJ01TMYA1TsLHD3FKAjHE7BnJY",
         "userName": "Barbara Rubatto",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GicwY0tw6aX_g5q5nVfOWSMCA72AEIIhARE-Z_Bx-Q",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg2bw147UleBVpyz0kb9BEb1X9_bSqjjJUcz0yfor8",
         "content": "Non riuscivo ad accedere da migliorare",
         "score": 1,
         "thumbsUpCount": 0,
@@ -505,7 +529,7 @@
     },
     {
         "reviewId": "gp:AOqpTOGQKvqC7_uxg0pKHnvO8Rx5SE_fbaagMpCxopR_3G-evTOZDloUzoKtbMsFTUEtYqIbcqrZ3NvMUuoSkXs",
-        "userName": "Lo Zio Dark",
+        "userName": "DarkGently",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjC0t2_DVpPXqd9C_MBGk1K4zyoknDZWFkbcCypfA",
         "content": "Non fa entrare.",
         "score": 1,

@@ -244,24 +244,24 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 <img src="1_star_reviews_wordcloud.png" alt="cat.gencat.mobi.StopCovid19Cat 1 reviews"/>
 </p>
 
+> Soy positivo confirmado, y según app no tengo síntomas, además llevo seis días confirmado y no me ha llamado nadie para hacer seguimiento...y quieren controlar el virus... Edito a su respuesta. Econsulta? Hace tres semanas mandé no una , si no , dos econsulta.. sigo esperando respuesta...y dos citas previas para ver si me hacían más caso.. pues tampoco. Por cierto 061 me dijeron que era cosa del cap no de ellos... fabuloso todo.<br> :date: __2020-11-14 14:25:46__
+
+> Me pide que ingrese mi codico CIP y me dice que ese código no existe, luego intento ingresar por mi NIE y sale el mismo mensaje "no existe" esta app no sirve para nada.<br> :date: __2020-11-12 12:45:55__
+
+> Mientras no haces la prueba está bien de ayuda, pero una vez te haces el test y das positivo, no sirve para nada. Yo hoy he hecho test de antígenos y he dado positivo. En cambio relleno los datos y como me han desaparecido varios síntomas, pues me dice que no tengo la Covid. Me da un chasquido el bolo al ver que me dice que no tengo Covid y en cambio hoy me han diagnosticado positivo en el CAP.<br> :date: __2020-11-09 21:38:15__
+
+> No se si soy o no positivo pero lo que si sé es que mi compañera de trabajo dio positivo en covid19 y yo estado con ella en contacto como muchos más compañeros y estamos esperando que los rastreadores nos llamen eso sí yo tengo que ir ha trabajar como mis otras compañeras hasta que no nos llamen los rastreadores y si yo soy asintomático como mi compañera que dio positivo y trabajamos ha menos de medio metros junto ha otras 8 o 9 personas más no sé yo si está app es fiable<br> :date: __2020-11-08 17:31:44__
+
 > Vaya test, faltaria preguntar a parte denlos sintomas, si has estado el contacto con personas infectadas, pero bueno a que extrañarse, o61, nefasto, llamadas al cap no hacen ni caso, en fin asi nos va<br> :date: __2020-11-02 10:04:12__
 
 > La app no funcina bien. Cuando voy a hacer el test se queda colgada. La he desintalado y vuelto a instalar y nada. Sin el test no sirve para nada.<br> :date: __2020-11-01 10:11:53__
 
 > No he sido capaz de activar esta aplicación cuando pongo el código que me envían se bloquea y no se puede seguir, arregle la por favor, no nos pidan que colaboremos si nos lo ponen tan difícil<br> :date: __2020-10-30 11:58:30__
 
-> Soy positivo confirmado, y según app no tengo síntomas, además llevo seis días confirmado y no me ha llamado nadie para hacer seguimiento...y quieren controlar el virus...<br> :date: __2020-10-30 10:22:19__
-
 > Me hago el test y nada ni con 38'5 te dice que no puedes ser , les rogaría las mirasen, este virus es muy serio y si nos hacemos los test nos gusta la verdad ,ya sabemos que la app no es un médico<br> :date: __2020-10-26 16:57:23__
 
 > No sirve para MUFACE. Muy mal. Muchos funcionarios sin control. Así nos va.<br> :date: __2020-10-25 21:40:19__
 
 > Totalmente inútil. Desinstalada.<br> :date: __2020-10-25 09:41:41__
-
-> Es horrible. No avanza. Hay un punto en el que retrocede al principio.<br> :date: __2020-10-23 12:01:42__
-
-> Imposible registrarse. Una vez me envían el código por sms no hay manera de avanzar.<br> :date: __2020-10-21 15:43:42__
-
-> Soy positivo, tengo sintomas y la app dice que no tengo sintomas. Sería mucho mejor que dijera que no tengo sintomas graves y que continue haciendo los test para cuando aparezca algo grave seguir con el procedimiento adecuado. De esta forma al "no tener sintomas" pierdo las ganas de hacer el seguimiento de los tests, aunqué tenga los sintomas.<br> :date: __2020-10-13 08:04:14__
 
 

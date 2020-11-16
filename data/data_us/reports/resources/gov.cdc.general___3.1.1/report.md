@@ -300,6 +300,8 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 <img src="1_star_reviews_wordcloud.png" alt="gov.cdc.general 1 reviews"/>
 </p>
 
+> It is useless<br> :date: __2020-11-11 22:56:21__
+
 > It has a lot of information if you want to shift through all of it to find what you want. I can't find a search function so it is easier to Google the web for information<br> :date: __2020-10-07 13:01:04__
 
 > Information over -simplified, misleading, & not reliable. Political Correctness is very Dominant & over-riding information.<br> :date: __2020-09-29 23:04:13__
@@ -317,7 +319,5 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 > All it does is white screen<br> :date: __2020-08-16 19:13:23__
 
 > Racist fear mongering app<br> :date: __2020-08-08 17:44:06__
-
-> No big deal just the same stuff you see in Facebook<br> :date: __2020-08-05 06:42:37__
 
 

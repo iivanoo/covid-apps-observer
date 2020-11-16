@@ -121,6 +121,8 @@ The Covid Trace Nevada app has been installed by more than **10000** times. At t
 <img src="5_star_reviews_wordcloud.png" alt="gov.nv.dhhs.en 5 reviews"/>
 </p>
 
+> Works as it should for moto g5 plus. Glad the investment was made for this<br> :date: __2020-11-11 00:26:27__
+
 > Always updates when open, no issues.<br> :date: __2020-11-06 06:12:51__
 
 > We need everyone to get this to beat Covid.<br> :date: __2020-10-31 09:29:23__
@@ -139,8 +141,6 @@ The Covid Trace Nevada app has been installed by more than **10000** times. At t
 
 > It enabled my covid19 settings, hope people in california use this since there is no app for california<br> :date: __2020-09-27 11:01:37__
 
-> Get the App help Stop the spread of Covid<br> :date: __2020-09-16 20:12:13__
-
 
 
 #### 4-star reviews
@@ -158,6 +158,8 @@ The Covid Trace Nevada app has been installed by more than **10000** times. At t
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="gov.nv.dhhs.en 3 reviews"/>
 </p>
+
+> "Reload" Ineffective It's 08:00, and I have been out in public for an hour, but it last checked exposures at 3:15 yesterday. I do not normally leave Bluetooth on, so I have been turning off my Bluetooth at bedtime at night, and back on in the morning. Today I turned it back on before 06:00, and have tried to "reload" but it still won't re-check. I saw some others with the same issue; maybe it's Android, maybe it's Bluetooth but doesn't seem to work well.<br> :date: __2020-11-13 17:08:05__
 
 > Sadly, most of the cases in Nevada originate from tourists. That's why there were so few cases before the casinos opened back up. They won't have this app so it's only able to account for the people who come in contact with people who caught it working in tourist areas. Sadly, people keep coming here as opposed to going into quarantine when they test positive.<br> :date: __2020-10-30 20:17:35__
 
@@ -185,6 +187,10 @@ The Covid Trace Nevada app has been installed by more than **10000** times. At t
 <img src="2_star_reviews_wordcloud.png" alt="gov.nv.dhhs.en 2 reviews"/>
 </p>
 
+> Downloaded the app about two weeks ago worked fine, I assume the first couple days. Now it will never reload information (it has a little time last updated at the top) it's been stuck at the same time no matter what I do. I like the idea of this but it's basically an app that is a website with tracking permissions. All the clickable stuff in the app just take you to a webpage through your internet app.<br> :date: __2020-11-16 04:27:04__
+
+> Due to the reviews, I have decided to not waste my time and efforts on this app. I'll continue to watch the news reports online of where the hot spots are and continue to be safe as possible. The idea of this app was good; however, it is only as good as the data that is inputted and shared to others. If there's a breakdown in getting the data into the app and out to everyone else, then it doesn't matter how great your app was stuctured.<br> :date: __2020-11-10 22:58:00__
+
 > Won't refresh anymore making it useless<br> :date: __2020-10-30 02:53:20__
 
 > Hard to find what i need<br> :date: __2020-10-29 01:58:43__
@@ -209,24 +215,24 @@ The Covid Trace Nevada app has been installed by more than **10000** times. At t
 <img src="1_star_reviews_wordcloud.png" alt="gov.nv.dhhs.en 1 reviews"/>
 </p>
 
-> Doesn't work, never updates even when pressing the refresh button. It still has the same time for "last checked" since I've downloaded it a week ago. No help at all, just a waste of space on my phone and waste of time looking at it. I uninstalled it. I'd give 0 stars if I could.<br> :date: __2020-11-04 04:46:48__
+> "it's just an app", they said. "Just turn on your Bluetooth", they said. "It's just to help the public be proactive", they said. Let's just give the government the easy access to more areas of our lives. "No cash here, only credit or debit", they said. No anonymity anymore. Before you know it, we will all have barcodes printed on our foreheads you mindless dweebs.<br> :date: __2020-11-16 10:11:49__
 
-> Never updates. There is a sync button, but it doesn't work. It literally stays stuck at the same time as when I first downloaded the app. Not sure how effective this can be if the app never syncs. Perhaps with a fix to this, the app would be solid.<br> :date: __2020-10-31 16:46:37__
+> Great idea but won't reload.<br> :date: __2020-11-15 10:43:17__
 
-> Horrible idea. Let's give up our privacy to the government in the name of public safety. Do not give up your freedoms for a virus that has a 99.99% survival rate...<br> :date: __2020-10-31 02:35:05__
+> Tells me it's installed but doesn't open. Doesn't show in my phone<br> :date: __2020-11-14 16:46:45__
 
-> Bad<br> :date: __2020-10-30 20:53:42__
+> This app is a joke. Doesn't update, have never received a notification. Blue tooth is on, etc. Etc. App is worthless. Was hoping it would be great but highly disappointed.<br> :date: __2020-11-13 16:22:36__
 
-> Ineffective. Good idea but it does not update. Says last updated 2:19pm (at 11:30am) and won't do anything when I hit the refresh icon, does not even show the date that it updated, only the time. Not helpful if it does not trace anything or update at all. Uninstalling.<br> :date: __2020-10-30 19:58:00__
+> App doesn't work. I went around 2 people today that I KNOW FOR A FACT both tested positive and this app did not notify me at all and says I'm still not at risk. Uninstalling this fakeness.<br> :date: __2020-11-13 06:07:29__
 
-> It doesn't refresh and is stuck at 4pm 3 days ago... this won't help anyone if it doesn't work properly.<br> :date: __2020-10-30 12:57:14__
+> F\*\*king stupid app. Like I'm going to download something the government approved. All you sheep are morons<br> :date: __2020-11-12 21:22:02__
 
-> If the app would ever update, it might be a useful tool. But mine forever sa I s, "Last updated at 11:34 a.m."<br> :date: __2020-10-29 17:55:46__
+> I can't update anything, it said last update was at 4:54 a.m. it's the next day.<br> :date: __2020-11-12 06:08:44__
 
-> It won't refresh. It's been stuck on last recheck at 10:25, for weeks.<br> :date: __2020-10-27 23:08:27__
+> Its a lie,why it needs the bluetooth on for?<br> :date: __2020-11-12 04:57:17__
 
-> Requires bluetooth to be on to work correctly. Not bad, but not great either. Also has not updated since 10:54pm which is when I downloaded the app 2days ago. So did it work while I was out shopping? Can't tell. Good concept but the final product seems to be glitched.<br> :date: __2020-10-24 06:19:16__
+> Won't let me download. Keeps telling me to try later!!<br> :date: __2020-11-12 01:18:17__
 
-> Does not update or refresh. I have to clear the storage and restart the App for it to update and refresh<br> :date: __2020-10-23 04:03:23__
+> I am a teacher. I had a positive case in my classroom and other cases in my school. I was put on exclusion. The app never notified me. Great idea, but the app doesn't work.<br> :date: __2020-11-11 01:22:08__
 
 

@@ -248,6 +248,8 @@ The Care19 Diary app has been installed by more than **10000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="com.proudcrowd.care 1 reviews"/>
 </p>
 
+> Play store cannot download it..hacked account<br> :date: __2020-11-13 02:37:16__
+
 > Not accurate very often. Going to delete as it is more trouble than keeping a written log.<br> :date: __2020-10-28 21:22:35__
 
 > Poorest design. Does not "track" movement via gps, does not allow quick add (referencing gps) feature. Does not have "end at home". Thus know how long.. at one location or unable to determine greater than 20 mph driving. Becomes indicator leaving location.<br> :date: __2020-09-28 04:32:05__
@@ -265,7 +267,5 @@ The Care19 Diary app has been installed by more than **10000** times. At this ti
 > Uninstall. I didn't put it in<br> :date: __2020-08-04 19:20:34__
 
 > Doesn't do anything that Google Maps My Timeline can't do better. Maybe in a state with a competent health department it could. As I understand it in incompetent SC, it won't even do Bluetooth ID exchanges with other devices for contact tracing.<br> :date: __2020-07-30 01:57:38__
-
-> I am unable to add places I have been. Every time I try the app crashes. And the visits don't show up when they should. I have tried uninstalling and reinstalling more than once. This app is a lemon.<br> :date: __2020-07-26 21:59:16__
 
 

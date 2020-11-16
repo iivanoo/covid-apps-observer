@@ -245,6 +245,8 @@ The SiciliaSiCura app has been installed by more than **50000** times. At this t
 <img src="1_star_reviews_wordcloud.png" alt="com.siciliasicura.app 1 reviews"/>
 </p>
 
+> Una pagliacciata<br> :date: __2020-11-15 20:26:26__
+
 > App inutile<br> :date: __2020-10-29 18:34:43__
 
 > Concordo con le recensioni di tutti.. Mi sono presa la briga di fare tutto l iter, ma potevo anche evitare tutto lo sbattimento. Controlli zero, nemmeno l ombra. Adesso l app ha pure smesso di funzionare dopo meno di un mese XD EDIT: non funziona dopo 1 m dal checkout. Ora l ho già disinstallato e non saprei come aiutare ora. Ma al di là di ciò: se i controlli non esistono a prescindere l App può anche considerarsi funzionante ma anche considerarsi completamente inutile ;) Saluti<br> :date: __2020-10-05 13:11:57__
@@ -262,7 +264,5 @@ The SiciliaSiCura app has been installed by more than **50000** times. At this t
 > Aprendo l'app ottengo solo una schermata bianca. Il problema persiste tutti i giorni. Sono costretto a loggarmi via chrome<br> :date: __2020-09-14 10:45:17__
 
 > Ci sto ancora impazzendo...<br> :date: __2020-09-09 12:38:32__
-
-> Non funziona per niente<br> :date: __2020-09-08 13:43:44__
 
 

@@ -262,6 +262,8 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="org.madrid.CoronaMadrid 1 reviews"/>
 </p>
 
+> Inutil en todos los sentidos.<br> :date: __2020-11-14 06:16:26__
+
 > Ni siquiera abre la aplicación...<br> :date: __2020-10-29 12:50:37__
 
 > Una basura, activar la nacional y dejarse de tontunás. Solo da consejos, inutil como la IDA para detectar casos. Poner mas rastreadores y activar la nacional.<br> :date: __2020-10-26 10:37:22__
@@ -279,7 +281,5 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 > @plicación pide edad pero no se puede, parece informativa sin actualizar y algo ambigua sin directrices explicitas o eficaces,,, sin datos y pte valorar en próximos días....Parece no se pueden descargar los archivos adjuntos ?... Etc... DE MOMENTO MAL, DA POCA CONFIANZA, AUNQUE MENOS ES NADA.<br> :date: __2020-10-09 19:30:48__
 
 > No se puede completar el registro: tras mirar el código y volver a la app, hay que iniciar de nuevo, otro código y así no es posible registrarse.<br> :date: __2020-10-09 08:40:47__
-
-> Espantosa no, lo siguiente. Qué lástima de perdida de recursos.<br> :date: __2020-10-08 00:50:04__
 
 

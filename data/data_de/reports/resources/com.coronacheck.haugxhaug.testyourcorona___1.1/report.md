@@ -126,6 +126,10 @@ The Corona Check Screening app has been installed by more than **5000** times. A
 <img src="5_star_reviews_wordcloud.png" alt="com.coronacheck.haugxhaug.testyourcorona 5 reviews"/>
 </p>
 
+> Super App mit vielen wissenswerten und tagesaktuellen News und Infos rund um Corona<br> :date: __2020-11-14 16:00:22__
+
+> Diese App ist sehr gut<br> :date: __2020-11-12 14:42:45__
+
 > Winkelnkemper Hildegard<br> :date: __2020-11-06 17:17:04__
 
 > Endlich mal eine seriöse App, welche wissrnschaftlich Fundierte Informationen gibt.<br> :date: __2020-10-16 20:53:54__
@@ -141,10 +145,6 @@ The Corona Check Screening app has been installed by more than **5000** times. A
 > Auch wenn es gedauert hat .... aber wenn was gut und zuverlässig funktionieren soll braucht es halt zeit .... und ich bin positiv überrascht diese app können sogar die etwas älteren Mitbürger und bürgerinin problemlos bedienen.... gut 👍 gemacht<br> :date: __2020-06-16 13:10:04__
 
 > Für mich ist die APP sehr interessant und wichtig, man kann vieles nach lesen auch was in meinem Bundesland wichtig ist. Danke<br> :date: __2020-06-16 12:34:10__
-
-> 👍<br> :date: __2020-06-15 17:56:01__
-
-> IRINA LIEBSCHER/29.05.1975<br> :date: __2020-06-14 21:00:05__
 
 
 
@@ -192,6 +192,8 @@ The Corona Check Screening app has been installed by more than **5000** times. A
 <img src="1_star_reviews_wordcloud.png" alt="com.coronacheck.haugxhaug.testyourcorona 1 reviews"/>
 </p>
 
+> Suche nach Gesundheitsamt funktioniert nicht! 😠 Weder mit PLZ noch mit Ort oder beides. Das war NICHTS!<br> :date: __2020-11-14 09:11:45__
+
 > Funktioniert nicht aber reagiert nicht richtig<br> :date: __2020-10-26 19:39:47__
 
 > Müll Infos wie uberall<br> :date: __2020-06-22 21:22:52__
@@ -209,7 +211,5 @@ The Corona Check Screening app has been installed by more than **5000** times. A
 > Müll<br> :date: __2020-06-16 00:10:42__
 
 > Reinste Daten sammel Maschine selbst meine viren Schutz App hat diese app als riskant und gefährlich eingestuft Warnungen waren Daten Sicherheit und eventuell Malware Zum Glück wurde die app von der App gleich gelöscht<br> :date: __2020-06-15 19:55:00__
-
-> Um weiterhin allgemeine Sicherheit und Stabilität zu gewährleisten wird die Republik umgestaltet werden, und zwar zum ersten galaktischen Imperium. ZUM WOHLE UND NUTZEN EINER STABILEN UND SICHEREN GESELLSCHAFT.<br> :date: __2020-06-15 13:31:27__
 
 

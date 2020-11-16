@@ -1,11 +1,71 @@
 [
     {
+        "reviewId": "gp:AOqpTOETZNNoWoEcsQGzGyjjrPHOJ2U6yF4tsKg_samwYPYhnFaWWYgB0fb2mgDlyay44QjUcl9PE4T30_XYaZQ",
+        "userName": "Craig McMaster",
+        "userImage": "https://play-lh.googleusercontent.com/-6f2XcXQkM2M/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn2PP6yN9VHrf_n15FkYmyDXTKAAQ/photo.jpg",
+        "content": "No change. Even after clearing cache, rebooting phone, etc still getting multiples of same exact alerts and several alerts with little or no lead time. That's probably FEMA but still downgrades usefulness. So problematic that other weather apps are needed for safety.",
+        "score": 2,
+        "thumbsUpCount": 50,
+        "reviewCreatedVersion": "2.11.2",
+        "at": "2020-11-15 22:38:27",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGOKif_YJvcR4sxQhCJq5MYu9VoiIGInYb7TSLRTfFML5KNSPD7t0JbVSt5BY9Ggd2y7wRmRpwFblpbtFs",
+        "userName": "Ryandi David",
+        "userImage": "https://play-lh.googleusercontent.com/-0m-50FUHrBg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmzTjpvgSplnrhjj1hhFaWMUgsZYg/photo.jpg",
+        "content": "Great",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.11.2",
+        "at": "2020-11-15 19:38:04",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGudlNHc7mpp5RNqPuYfIy9f4fnLfencSWqIBknVcs4XjzjXb0_7jtQJRMtS0eW7vQyqGnYzbXAtF9Fn0M",
+        "userName": "Oral Carter",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjWAPhFOgPoSP4refDhCHByp_gzC9HUQIniW0e-CT8",
+        "content": "NO ALERTS... APP IS A JOKE.",
+        "score": 1,
+        "thumbsUpCount": 3,
+        "reviewCreatedVersion": "2.11.2",
+        "at": "2020-11-14 18:25:33",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOG3zhVEQY9FdPGLGbKvWeVOVGATF9F9-4xoa3FSV36C9fNaWsV9NUdYUiDOt387wpYXdEsBPUS8mJcIe8g",
+        "userName": "Jack Knight",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjQVFVoqyWRbuJYm_DZ3dmXFgwbKB6VhVJvksmkSA",
+        "content": "A very helpful resource.",
+        "score": 5,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "2.11.2",
+        "at": "2020-11-11 21:17:34",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHkeXGGv_QE-jZS0kAHIqYafAmOsPo5iYs9yYrUkoG45zuxvxNSb2JxKTMHhSj4q__IQjDkQk8p0XtravI",
+        "userName": "Chanda Mija",
+        "userImage": "https://play-lh.googleusercontent.com/-L6wgEgoYfjw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclWCOVMfiCblK1Ea8gt0-x9aI7JBA/photo.jpg",
+        "content": "Prepare: emergency safety tips: broken scroll and no clickables Squalls and snow squalls not listed",
+        "score": 3,
+        "thumbsUpCount": 3,
+        "reviewCreatedVersion": "2.11.2",
+        "at": "2020-11-09 10:47:12",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOFdABYMDu3fpZg3HkB4jSV19xyh5Q13QSNoCrkZOyl36NUxbpWPbEU9go2maVdh1VKYtjqdwbyVCrq6u-I",
         "userName": "Dawn",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjniM-fGvh7O9ctZU0va6zB8c104aiGNcVQoLL4c1E",
         "content": "App has grown over the years and I appreciate the work that has gone into making it. My alerts are timely for the different counties that I've entered. THAT being said: The app has the potential to be so much more. Save lives. Can you please make it less time consuming to use? When I travel I need to hear *alerts in the County I'm IN.* What I would like to see in an update is the use of GPS to alert me *wherever* I am. Also.. Why isn't anyone taking advantage of the Blog section?",
         "score": 4,
-        "thumbsUpCount": 4,
+        "thumbsUpCount": 6,
         "reviewCreatedVersion": "2.11.2",
         "at": "2020-11-06 20:45:42",
         "replyContent": "Hi Dawn,\n\nThank you for your feedback. We are currently investigating the issue of inconsistent alert delivery and are conducting internal testing. We hope to resolve this issue in the upcoming release. We are committed to addressing issues and improving the FEMA App so it is a useful tool for our users.",
@@ -420,18 +480,6 @@
         "repliedAt": null
     },
     {
-        "reviewId": "gp:AOqpTOHkeXGGv_QE-jZS0kAHIqYafAmOsPo5iYs9yYrUkoG45zuxvxNSb2JxKTMHhSj4q__IQjDkQk8p0XtravI",
-        "userName": "Chanda Mija",
-        "userImage": "https://play-lh.googleusercontent.com/-L6wgEgoYfjw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclWCOVMfiCblK1Ea8gt0-x9aI7JBA/photo.jpg",
-        "content": "Prepare: emergency safety tips: broken scroll and no clickables",
-        "score": 3,
-        "thumbsUpCount": 1,
-        "reviewCreatedVersion": "2.11.1",
-        "at": "2020-09-08 02:54:56",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
         "reviewId": "gp:AOqpTOFJrdpKBEiEY_cXZHaTpfJoE2IX1n71cFAusOkD7HQUZZaPO5B_MvMsT1ZhvK7pg5joX-1J0JXXCZruvGs",
         "userName": "Lane Carter",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ghbh1igZ-sIaaKeY-zq7vOYV4wp3ZLUDbqjnLfIvw",
@@ -744,18 +792,6 @@
         "repliedAt": null
     },
     {
-        "reviewId": "gp:AOqpTOETZNNoWoEcsQGzGyjjrPHOJ2U6yF4tsKg_samwYPYhnFaWWYgB0fb2mgDlyay44QjUcl9PE4T30_XYaZQ",
-        "userName": "Craig McMaster",
-        "userImage": "https://play-lh.googleusercontent.com/-6f2XcXQkM2M/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn2PP6yN9VHrf_n15FkYmyDXTKAAQ/photo.jpg",
-        "content": "Getting several alerts with little or no lead time. Several other alerts just multiples of previous alerts with no changes in them at all. That's probably FEMA but still downgrades usefulness.",
-        "score": 2,
-        "thumbsUpCount": 50,
-        "reviewCreatedVersion": "2.11.1",
-        "at": "2020-07-19 21:22:25",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
         "reviewId": "gp:AOqpTOHxjfokNAageqObfoj4Cl7JR5lrHfYMChzfG67CAy0c-W_G3Yp-XAfbcJGOJfDTyPHEw3Rufym1PXxKe9Y",
         "userName": "Barbara Keegan",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiRvsLU7yjJjojF9r40f7u6sm_FQTth9nm2sZar0A",
@@ -830,7 +866,7 @@
     {
         "reviewId": "gp:AOqpTOH82w7kutTe9LrzCw6Z12CCpb886uNTUnoeVV7vadhPvFxLOIte5i3wRztByRs_BunLFzBlodC0wfKovAg",
         "userName": "Denise. L Hossler",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiAipYq4bXlqnbt91m72ElKtKyKQnO_q3TBWlOxlA",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gie3nZnqcvycYi5Eaak-lo4JQMgpXNP-M0TGZaQfw",
         "content": "\ud83c\udf1fI like it",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1010,7 +1046,7 @@
     {
         "reviewId": "gp:AOqpTOFGKumKl0-6M7tdJpYLWz6p33rKw01ghUQSgXdNLQBn5KXHFWOGsC0_UHRv7FwTV9PBlegei6i8qwzZJ2g",
         "userName": "Glenda Guthrie Deal",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh7QTOMVuK5A4rTnb7l5ctA4w5tjOeQ_0KTzWxPGQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gipndx91dAtu-elpG-cfCd8nFORvJBsJPg8hk_Tyg",
         "content": "Have never had a problem with FEMA /ALL their programs for me have been spot on and the assistance needed has been prompt THANK YOU GOVERNMENT PROGRAMS!!!!!",
         "score": 5,
         "thumbsUpCount": 3,
@@ -2245,7 +2281,7 @@
     },
     {
         "reviewId": "gp:AOqpTOGGb7NVaxmyRBsG741fPt3KFk2KhnXl87axwjWQe5U9WrajLs4ofOjmIGAS4ee1YHdup_DUXrc2a7sEvfQ",
-        "userName": "Anomynous5 Whistle",
+        "userName": "Eric Cyrus Liszniansky-Henderson",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgtL_qC9bJQ3KpPEA0Vcn8luuxXxQtbcgpqNZ_I",
         "content": "I can not rate my experience as it is ongoing until time ends I can not rate anything regarding this app I do not have the technical knowledge nor the equipment to program frequencies to effect any good out come to a very com text tool in a a very complex world so I am waiting for one to arrive who is worthy to accomplish these goals I am not the one today who will the one that I shall be tomorrow.",
         "score": 1,
@@ -2546,7 +2582,7 @@
     {
         "reviewId": "gp:AOqpTOEqauc7bhEyk8Hg4JEu-jxewT-cZoGlMPNXGnR8Z5H-vegxl64OVZRgxYnq5rTH9muHd7L3Y0x8u9y8U0I",
         "userName": "Veronica Lewis",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiB_4TAbLv342PlZyRSPBN-FPy5Bnr5VR42KNimPw",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjXG8mFaicOAXad2Lbc_WC-vhfANwjU6fiUTtpqfQ",
         "content": "Very helpful getting things together after a disaster is hard to do .this app helps keep it organized and leaves a easy trail to keep your affairs on the right track.",
         "score": 4,
         "thumbsUpCount": 66,
@@ -3989,7 +4025,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh3XNzOYT3sFNG-b-MUGyMQvTx3sFLEJbEnU2sqRkg",
         "content": "useless app. I've gotten two alerts so far1 from our local news about severe thunderstorm and one from our local 911 center. And nothing from this app at all.",
         "score": 1,
-        "thumbsUpCount": 74,
+        "thumbsUpCount": 73,
         "reviewCreatedVersion": "2.10.4",
         "at": "2019-04-14 22:15:00",
         "replyContent": "Thank you for your feedback. We are aware that some users were experiencing issues with the delivery of the alerts. Our team believes we have fixed the issue, so please let us know if you continue to experience problems. In order to receive alerts, users must first enter up to five locations and then select the alerts they would like to receive.",
@@ -5304,18 +5340,6 @@
         "repliedAt": null
     },
     {
-        "reviewId": "gp:AOqpTOGudlNHc7mpp5RNqPuYfIy9f4fnLfencSWqIBknVcs4XjzjXb0_7jtQJRMtS0eW7vQyqGnYzbXAtF9Fn0M",
-        "userName": "Oral Carter",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjWAPhFOgPoSP4refDhCHByp_gzC9HUQIniW0e-CT8",
-        "content": "NO ALERTS... APP IS A JOKE, LIKE FEMA",
-        "score": 1,
-        "thumbsUpCount": 3,
-        "reviewCreatedVersion": null,
-        "at": "2018-09-18 20:14:11",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
         "reviewId": "gp:AOqpTOFEvCBRIXAZuuRLxqIvRkr7uzirE3PvaW1mcvxvvbN8m6gKv3cYQd956fEIOZe3PhauA1_y39hAUZEA2yg",
         "userName": "Krista Jenkins",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh0vD4QBpYH9gEU4azMC5TTL2vZidWpv1CD5yYPJbo",
@@ -5604,18 +5628,6 @@
         "repliedAt": "2018-09-24 22:53:18"
     },
     {
-        "reviewId": "gp:AOqpTOGHULZAaJmc_h6QNzf3Tj_hUPl5w9neRVqYb2c-ScqWue32Hfqhe3zkyT2ScM0qxA2AQCsAzeCi2iVYEUE",
-        "userName": "Darlene Maynor",
-        "userImage": "https://play-lh.googleusercontent.com/-25STtvTLuFg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm2VIBo8v4nzZmjycce87bSpYyYIw/photo.jpg",
-        "content": "Just downloaded this app and it crashed as soon as I opened it",
-        "score": 1,
-        "thumbsUpCount": 13,
-        "reviewCreatedVersion": "2.9.5",
-        "at": "2018-09-11 15:09:22",
-        "replyContent": "Hi Darlene, thank you for your comment. We've shared this feedback with our design & development team. If you would like us to help troubleshoot the issue, please email FEMA-New-Media@fema.dhs.gov",
-        "repliedAt": "2018-09-19 22:11:33"
-    },
-    {
         "reviewId": "gp:AOqpTOH2IEANkC_wKq9FZGOCLRJlJwY_Roa5um8Kf9OCSz4n0SopFOJfbXGuHms55dXZsDgWBzkPWcwlVRDJXXE",
         "userName": "A Google user",
         "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
@@ -5626,6 +5638,18 @@
         "at": "2018-09-11 15:09:22",
         "replyContent": null,
         "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGHULZAaJmc_h6QNzf3Tj_hUPl5w9neRVqYb2c-ScqWue32Hfqhe3zkyT2ScM0qxA2AQCsAzeCi2iVYEUE",
+        "userName": "Darlene Maynor",
+        "userImage": "https://play-lh.googleusercontent.com/-25STtvTLuFg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm2VIBo8v4nzZmjycce87bSpYyYIw/photo.jpg",
+        "content": "Just downloaded this app and it crashed as soon as I opened it",
+        "score": 1,
+        "thumbsUpCount": 13,
+        "reviewCreatedVersion": "2.9.5",
+        "at": "2018-09-11 15:09:22",
+        "replyContent": "Hi Darlene, thank you for your comment. We've shared this feedback with our design & development team. If you would like us to help troubleshoot the issue, please email FEMA-New-Media@fema.dhs.gov",
+        "repliedAt": "2018-09-19 22:11:33"
     },
     {
         "reviewId": "gp:AOqpTOG1z6o84qlUY4VkRv1Wuv-N56tfDco2K0CxEeipeHX9pqsQ3mU1lj0aOwMQKY6Jvdnzc10xMgEY8XNoY5U",

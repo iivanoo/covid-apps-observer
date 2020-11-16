@@ -172,6 +172,8 @@ The Covid-19 app has been installed by more than **10000** times. At this time, 
 <img src="4_star_reviews_wordcloud.png" alt="it.adl.aslroma3.covid19.app 4 reviews"/>
 </p>
 
+> CIAO<br> :date: __2020-11-08 16:39:13__
+
 > Mi piacerebbe avere l'app x cortesia<br> :date: __2020-08-21 23:11:42__
 
 > Si può individuare qualcuno con il coronaviru<br> :date: __2020-06-08 14:07:56__
@@ -224,6 +226,8 @@ The Covid-19 app has been installed by more than **10000** times. At this time, 
 <img src="1_star_reviews_wordcloud.png" alt="it.adl.aslroma3.covid19.app 1 reviews"/>
 </p>
 
+> Kkkkkk<br> :date: __2020-11-13 02:37:43__
+
 > Non riuscivo ad accedere da migliorare<br> :date: __2020-06-07 13:56:29__
 
 > Bleee<br> :date: __2020-05-28 13:15:44__
@@ -241,7 +245,5 @@ The Covid-19 app has been installed by more than **10000** times. At this time, 
 > Non funziona<br> :date: __2020-04-27 20:19:51__
 
 > Ho installato questa app però non funziona, quando metto la mia email e la password mi dice sempre dati errati...potete fare qualcosa? Se lo fate metto altre stelline<br> :date: __2020-04-25 00:22:26__
-
-> Dice errato<br> :date: __2020-04-24 23:09:25__
 
 

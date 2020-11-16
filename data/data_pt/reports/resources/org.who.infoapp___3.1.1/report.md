@@ -182,6 +182,8 @@ No recent reviews available with 2 stars.
 <img src="1_star_reviews_wordcloud.png" alt="org.who.infoapp 1 reviews"/>
 </p>
 
+> Colocam outra linguas tambem<br> :date: __2020-11-12 06:36:18__
+
 > Vão se fude com esse app e sua nova ordem mundial ORGANIZAÇÃO MUNDIAL DA FARSA<br> :date: __2020-10-16 00:51:53__
 
 > Inglês, Sr Ministro ??????.?<br> :date: __2020-09-01 11:01:09__

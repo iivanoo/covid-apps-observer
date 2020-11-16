@@ -1,0 +1,43 @@
+{
+    "permissions": [
+        "android.permission.INTERNET",
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        "android.permission.BLUETOOTH",
+        "android.permission.FOREGROUND_SERVICE",
+        "com.google.android.c2dm.permission.RECEIVE",
+        "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+        "android.permission.WAKE_LOCK",
+        "android.permission.ACCESS_NETWORK_STATE"
+    ],
+    "activities": [
+        "cz.covid19cz.erouska.ui.main.MainActivity",
+        "com.google.firebase.auth.internal.FederatedSignInActivity",
+        "com.google.firebase.auth.internal.GenericIdpActivity",
+        "com.google.firebase.auth.internal.RecaptchaActivity",
+        "com.google.android.play.core.missingsplits.PlayCoreMissingSplitsActivity",
+        "com.google.android.play.core.common.PlayCoreDialogWrapperActivity",
+        "com.google.android.gms.common.api.GoogleApiActivity"
+    ],
+    "urls": [
+        "http://schemas.android.com/apk/res/android",
+        "https://pagead2.googlesyndication.com/pagead/gen_204?id=gmob-apps",
+        "https://plus.google.com/",
+        "https://app-measurement.com/a",
+        "https://google.com/search?",
+        "http://[",
+        "https://%1$s-%2$s.cloudfunctions.net/%3$s",
+        "https://%s/%s/%s",
+        "https://firebaseremoteconfig.googleapis.com/v1/projects/%s/namespaces/%s:fetch",
+        "http://localhost",
+        "https://firebase-settings.crashlytics.com/spi/v2/platforms/android/gmp/%s/settings",
+        "https://update.crashlytics.com/spi/v1/platforms/android/apps",
+        "https://update.crashlytics.com/spi/v1/platforms/android/apps/%s",
+        "https://reports.crashlytics.com/spi/v1/platforms/android/apps/%s/reports",
+        "https://reports.crashlytics.com/sdk-api/v1/platforms/android/apps/%s/minidumps",
+        "http://schemas.android.com/apk/res-auto",
+        "https://www.google.com",
+        "https://www.googleadservices.com/pagead/conversion/app/deeplink?id_type=adid&sdk_version=%s&rdid=%s&bundleid=%s&retry=%s",
+        "https://erouska.cz",
+        "https://play.google.com/store/apps/details?id=com.google.android.gms"
+    ]
+}

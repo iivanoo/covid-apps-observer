@@ -1,5 +1,17 @@
 [
     {
+        "reviewId": "gp:AOqpTOGNWEdgAkjhsRJZ0R227EvBncyMBABZ0Dc-inU92WyP8bSCScKl4frMY9ePLpoPVozZ_ZehuyI-eB0R4Wo",
+        "userName": "John C",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg7Zgpmwtia4y44HkjJxs1azE7R3BH97i8ea7P5yw",
+        "content": "It may not be a perfect app, but it is a good start. At least now we have a means to stay up to date with current recommendations and restrictions. There are improvements to be made, and I am sure they will be made as we continue to support it.",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.28.0",
+        "at": "2020-11-14 03:19:33",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOHLCyBDx6P7Clids62zJum70v-H9sUVloSokr58-MiXywLW-Nga-A4omAIj90HAD0j92HWejaKGQ5AqQ9A",
         "userName": "Kristy Davison",
         "userImage": "https://play-lh.googleusercontent.com/-Ob3gzrtSrgU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclLtkBfUcWwsduRgRmWa5fTIkTUMg/photo.jpg",
@@ -13,8 +25,8 @@
     },
     {
         "reviewId": "gp:AOqpTOHpnCbZq6sIuBBRs6TlBlAVLtt-TZSN4QCihT1bhFqYFbulHKVNeXW4KnFoGUWCm_5ZlgcApkB7r4Xq7uI",
-        "userName": "Kal Marsh",
-        "userImage": "https://play-lh.googleusercontent.com/-am6oAwwLd60/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmLSTPDP99evE_Tzvzszqc8MNyzGQ/photo.jpg",
+        "userName": "Arab All",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ghm6-9x91PHGIj9tLANdxDUwSZohvKK9sVi0WgO5i8",
         "content": "The stats page is not updating. It's still show stats from September 30.",
         "score": 2,
         "thumbsUpCount": 7,
@@ -350,7 +362,7 @@
     {
         "reviewId": "gp:AOqpTOFU1L4kU5VkTDQMGtHS_GzV-f6tJxL1UjDJOKLy_3yz_igTOZ_0S-7g6J3KybqEwjN8aMANNL2AOdoDSkU",
         "userName": "Sharlene Bigcharles",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhE4PmyrH5kNf5HD_vU-jhsDyAamMtl0gdET2dRAeI",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgvOZ9pkeyb7B620aPd1E617QpK26tv90iT9trHaC8",
         "content": "It's pretty easy and basic didn't keep it for long I just keep the news on tv",
         "score": 4,
         "thumbsUpCount": 2,
@@ -509,7 +521,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-qUnWIITuOoQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnadOWyCdIgTKAqvFUw8ASk0chQ-A/photo.jpg",
         "content": "Lotsa info in one spot. Very helpful. \ud83d\ude37",
         "score": 5,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "1.6.0",
         "at": "2020-03-28 02:37:42",
         "replyContent": null,

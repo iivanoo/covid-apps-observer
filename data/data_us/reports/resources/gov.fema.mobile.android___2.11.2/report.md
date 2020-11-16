@@ -163,6 +163,10 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 <img src="5_star_reviews_wordcloud.png" alt="gov.fema.mobile.android 5 reviews"/>
 </p>
 
+> Great<br> :date: __2020-11-15 19:38:04__
+
+> A very helpful resource.<br> :date: __2020-11-11 21:17:34__
+
 > It should always be an app like this for all phone carriers<br> :date: __2020-11-04 18:51:35__
 
 > Major Investment To Have As An App /\ Highly Informative /\ Go Customize In Settings And Enjoy Being In The Knowing Before Even Local News ~ DJ Of Greater Boston Area Approves ~<br> :date: __2020-11-04 11:25:01__
@@ -178,10 +182,6 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 > Very complete and easy to use<br> :date: __2020-10-18 14:15:04__
 
 > Great app👍👍👍<br> :date: __2020-10-16 05:52:04__
-
-> Convenient, very informative, quick acting app<br> :date: __2020-10-13 16:56:52__
-
-> Good 👍 keep phone where on all time. It will follow you.<br> :date: __2020-10-12 01:23:15__
 
 
 
@@ -219,6 +219,8 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 <img src="3_star_reviews_wordcloud.png" alt="gov.fema.mobile.android 3 reviews"/>
 </p>
 
+> Prepare: emergency safety tips: broken scroll and no clickables Squalls and snow squalls not listed<br> :date: __2020-11-09 10:47:12__
+
 > They did not explain what she was asking me about and was real short with me . To me she was rude but I need my house fixed not TVs or other stuff like that but thank you for what you did do.<br> :date: __2020-10-26 19:49:29__
 
 > Also I build homeless shelters and I think this would be the place to add my location make it official<br> :date: __2020-10-06 07:13:34__
@@ -228,8 +230,6 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 > Sends out alerts as expected, but here's the issue. If I'm in another app (Facebook, e.g.), it won't override it, and there doesn't seem to be a way to get the alert within the actual app, so if you miss it... too bad. Also tried to pull up the app while roaming, and got a "no wifi" connection error. Who the hell has wifi during an emergency??? DO BETTER.<br> :date: __2020-09-13 18:35:21__
 
 > Not enough details on alerts. Not worth the space on my phone<br> :date: __2020-09-11 00:11:01__
-
-> Prepare: emergency safety tips: broken scroll and no clickables<br> :date: __2020-09-08 02:54:56__
 
 > Difficult to navigate and doesn't provide info I expected<br> :date: __2020-09-06 08:45:22__
 
@@ -247,13 +247,13 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 <img src="2_star_reviews_wordcloud.png" alt="gov.fema.mobile.android 2 reviews"/>
 </p>
 
+> No change. Even after clearing cache, rebooting phone, etc still getting multiples of same exact alerts and several alerts with little or no lead time. That's probably FEMA but still downgrades usefulness. So problematic that other weather apps are needed for safety.<br> :date: __2020-11-15 22:38:27__
+
 > Once I sign in it then sends me a email code to sign in again.... To many steps<br> :date: __2020-09-19 20:23:31__
 
 > Installed this app months ago and expected this would be the moment for it. I'm getting "red flag warnings" and "evacuation alerts" every few minutes (with no date or timestamp) that just say things like "GO NOW Eden Road" with a web link I can't click or copy. After switching back and forth between apps to type out it turns out it's a map and Eden Road is 60 miles away. You can't set alerts for regions smaller than the entire county. Evac notices also came through sooner with other services.<br> :date: __2020-09-12 07:56:04__
 
 > What is it with this app. I've.been trying to download it for three days how long does it take to for it to download .we are about to be hit with a hurracain.this is messed.up<br> :date: __2020-08-23 03:40:24__
-
-> Getting several alerts with little or no lead time. Several other alerts just multiples of previous alerts with no changes in them at all. That's probably FEMA but still downgrades usefulness.<br> :date: __2020-07-19 21:22:25__
 
 > This app did not help me.<br> :date: __2020-06-19 19:14:29__
 
@@ -275,6 +275,8 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 <img src="1_star_reviews_wordcloud.png" alt="gov.fema.mobile.android 1 reviews"/>
 </p>
 
+> NO ALERTS... APP IS A JOKE.<br> :date: __2020-11-14 18:25:33__
+
 > Share doesn't work!!!! UNINSTALLED the junk app<br> :date: __2020-11-01 13:09:50__
 
 > Zeta not an option to qualify for assistance!<br> :date: __2020-10-31 05:39:11__
@@ -292,7 +294,5 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 > Doesn't work . Can't scroll on screen or get may location informaton<br> :date: __2020-09-09 13:06:18__
 
 > No point in having the app. You go to check your application status and it brings you to the website. App serves no purpose.<br> :date: __2020-09-05 00:28:47__
-
-> I cannot log in i need to check my status<br> :date: __2020-08-31 07:30:24__
 
 

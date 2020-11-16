@@ -1,5 +1,17 @@
 [
     {
+        "reviewId": "gp:AOqpTOHZLV9Fx2iUZ8hULKkihFQ57acxi5GwMQF9dJTp8GFW4XnylMuAlI8QxFvi2XjwgqmxRkfjYNsWo8heRg",
+        "userName": "Aure Rojo",
+        "userImage": "https://play-lh.googleusercontent.com/-uOIvkZlv0Rc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmHRwyQG7kdNJy-p9yH8SlTAgsmqA/photo.jpg",
+        "content": "Inutil en todos los sentidos.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2020-11-14 06:16:26",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOFCibfQFXbUuXYdBJfcQhBb0jOxb3dGc_PI6u1NqXmTa-3Rx2S8Ue6jjVquk489zikEuKWw-WPg1PQJtw",
         "userName": "Carmen Garcia",
         "userImage": "https://play-lh.googleusercontent.com/-Bb8QsNt7Bpo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl6-zbmBzdZcnyJ38W4foiQwmKYcg/photo.jpg",
@@ -41,7 +53,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgSToLWF2l7EHNuLSgLyqRF9rJ4RejNXyD-h0EDywA",
         "content": "La verdad es que no me extra\u00f1a que no se descarguen la app, es fatal tener que ingresar la fecha de nacimiento dando para atr\u00e1s mes a mes (la m\u00eda 1954). Tienen que actualizar la forma de ingresar la, con las tecnolog\u00edas que hay hoy en d\u00eda es \u00a1\u00a1\u00a1INCRE\u00cdBLE!!!",
         "score": 2,
-        "thumbsUpCount": 9,
+        "thumbsUpCount": 11,
         "reviewCreatedVersion": "1.1.0",
         "at": "2020-10-20 16:56:49",
         "replyContent": null,
@@ -581,7 +593,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiIT96hn-yNmWLuUPff6JC-XDZt_qJczIkUX4k8HA",
         "content": "Inutil en todos los sentidos No vale para el rastreo, no est\u00e1 conectada al servicio de salud y solo te hace unas preguntas para determinar si tienes covid o no. No aconseja el uso de mascarillas (hola? Es obligatorio!). La verdad es que como aplicaci\u00f3n deja mucho que desear y no sirve para absolutamente nada. Una estafa",
         "score": 1,
-        "thumbsUpCount": 49,
+        "thumbsUpCount": 51,
         "reviewCreatedVersion": "1.1.0",
         "at": "2020-08-27 19:11:22",
         "replyContent": null,
@@ -2426,7 +2438,7 @@
     {
         "reviewId": "gp:AOqpTOFhm7CzrqEZBg70gJF-9BP9oHRqYW6gXsYAoTatszAM-6q0MWAU18t0A5wnLm8smiC6Fzz_HsnWQZsAKg",
         "userName": "JC CA",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjrXoCr9RE40Mxp81FsDiscElXte_faoBdOWMgmbSo",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GilJ-omnrN9O3ZZMz-0PdkXI_M2rQdvl6PmAov9wYY",
         "content": "Valla basura de aplicaci\u00f3n, ni se puede validar el tel\u00e9fono ni nada, y encina seguro que la comunidad de Madrid a pagado al desarrollador por esta indecencia.",
         "score": 1,
         "thumbsUpCount": 3,

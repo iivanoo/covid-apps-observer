@@ -1,0 +1,58 @@
+[
+    {
+        "name": "google.com",
+        "registrar": "MarkMonitor Inc.",
+        "registrant": "Google LLC",
+        "registrar_country": "",
+        "registrant_country": "US",
+        "creation_date": "1997-09-15 04:00:00",
+        "expiration_date": "2028-09-14 04:00:00",
+        "last_updated": null,
+        "status": "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+        "statuses": [
+            "clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)",
+            "clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)",
+            "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+            "clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)",
+            "serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)",
+            "serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)",
+            "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+            "serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)",
+            "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited",
+            "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+            "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+            "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited"
+        ],
+        "name_servers": "{'ns1.google.com', 'ns4.google.com', 'ns2.google.com', 'ns3.google.com'}"
+    },
+    {
+        "name": "coronamelder-dist.nl",
+        "registrar": "Rijksoverheid",
+        "registrant": "",
+        "registrar_country": "Netherlands",
+        "registrant_country": "",
+        "creation_date": "2020-07-20 00:00:00",
+        "expiration_date": null,
+        "last_updated": "2020-08-17 00:00:00",
+        "status": "active",
+        "statuses": [
+            "active"
+        ],
+        "name_servers": "{'ns03.is.nl', 'ns01.is.nl', 'ns02.is.nl'}"
+    },
+    {
+        "name": "coronamelder-api.nl",
+        "registrar": "Rijksoverheid",
+        "registrant": "",
+        "registrar_country": "Netherlands",
+        "registrant_country": "",
+        "creation_date": "2020-07-22 00:00:00",
+        "expiration_date": null,
+        "last_updated": "2020-10-05 00:00:00",
+        "status": "active",
+        "statuses": [
+            "active"
+        ],
+        "name_servers": "{'ns3.rijksoverheidnl.org', 'ns1.rijksoverheidnl.nl', 'ns4.rijksoverheidnl.com', 'ns2.rijksoverheidnl.eu'}"
+    }
+]

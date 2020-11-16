@@ -1,0 +1,16 @@
+{
+    "permissions": [
+        "android.permission.INTERNET",
+        "android.permission.READ_EXTERNAL_STORAGE",
+        "android.permission.WRITE_EXTERNAL_STORAGE"
+    ],
+    "activities": [
+        "it.apss.coronavirus.esterni.MainActivity"
+    ],
+    "urls": [
+        "http://schemas.android.com/apk/res/android",
+        "https://ssl.gstatic.com/accessibility/javascript/android/",
+        "http://*/*",
+        "https://*/*"
+    ]
+}

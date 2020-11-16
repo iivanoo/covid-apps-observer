@@ -199,6 +199,8 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <img src="4_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 4 reviews"/>
 </p>
 
+> Boa experiência.<br> :date: __2020-11-12 09:59:38__
+
 > Mais ou menos<br> :date: __2020-11-07 22:46:32__
 
 > Bom<br> :date: __2020-10-31 20:49:08__
@@ -216,8 +218,6 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 > A algumas vezes complica e é demorado<br> :date: __2019-11-28 13:33:33__
 
 > Receita de medicamentos<br> :date: __2019-09-17 12:33:44__
-
-> Bom<br> :date: __2019-09-05 00:44:52__
 
 
 
@@ -283,6 +283,8 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <img src="1_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 1 reviews"/>
 </p>
 
+> Gostaria de saber o porquê da aplicação deixar de funcionar no Samsung A 50, a onde funcionava muito bem É agora só funciona em telemóveis mais antigos. Espero resposta. Obrigado<br> :date: __2020-11-09 19:06:30__
+
 > Isto é gozar com quem paga e está doente!<br> :date: __2020-11-06 12:52:25__
 
 > A aplicação deixou de funcionar. Gostava que resolvessem o problema. Obrigado. Há 2 anos que não fazem actualizações da aplicação. Por isso esta aplicação não serve pra nada. É uma vergonha.<br> :date: __2020-11-05 12:43:58__
@@ -300,7 +302,5 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 > Muito complicado (ou impossível) encontrar o que se pretende. Isto mais parece um labirinto.<br> :date: __2020-10-03 23:34:36__
 
 > Aplicação obsoleta! Não faz sentido ser redireccionado para o browser cada vez que quero fazer login na app, e tenho de colocar códigos inúmeras vezes! A última actualização é de 2018, estamos quase em 2021! Isto é uma app de campanha publicitária do Ministério da Saúde. Quando início a app devia de aparecer o meu perfil e não notícias do Ministério. Má utilização dos dinheiros públicos!<br> :date: __2020-10-03 13:05:55__
-
-> Péssima<br> :date: __2020-10-03 00:15:06__
 
 

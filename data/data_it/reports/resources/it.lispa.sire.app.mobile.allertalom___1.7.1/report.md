@@ -160,6 +160,8 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <img src="5_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 5 reviews"/>
 </p>
 
+> Applicazione utilissima e costantemente aggiornata rischi che si possano verificare, un sentito grazie da una volontaria della protezione civile<br> :date: __2020-11-15 14:59:43__
+
 > Un App molto ben sviluppata,ed utile per avere informazioni sicure sull'andamento della circolazione del Covid 19 nella tua città e regioni italiane. Molto ben sviluppata,e di facile configurazione, fluida e completa di molte informazioni che possono essere utili. Con la possibilità di avere la situazione della circolazione del Coronavirus, tramite un sistema che ti mostra l'andamento della criticità, durante le 24 ore della giornata. Con la legenda con i colori dell'incidenza dei contagi nelle<br> :date: __2020-10-31 02:10:46__
 
 > Perché l'app è rimasta ferma al 19 Settembre? Nonostante gli aggiornamenti non si muove.<br> :date: __2020-10-21 19:54:14__
@@ -178,8 +180,6 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 
 > Ottima, mi avvisa ogni volta che arriva un forte temporale.<br> :date: __2020-08-28 14:37:23__
 
-> Bravi, è così che si sente che il Pubblico serve e non solo chiede.<br> :date: __2020-08-17 12:52:56__
-
 
 
 #### 4-star reviews
@@ -187,6 +187,10 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 4 reviews"/>
 </p>
+
+> Molto buona!!<br> :date: __2020-11-14 09:31:47__
+
+> Di semplice utilizzo. Una pecca e' l'impossibilita' di modificare l'eta' anagrafica, modifica che forse porterebbe ad una maggiore utilita' nel monitoraggio anche per fascia d'eta'. Sarebbe stato forse necessario poter fornire anche un dato relativo alla mobilita' impiegata dall'utente, per meglio valutare l'incidenza della diffusione del virus se si utilizzano trasporti pubblici.<br> :date: __2020-11-12 11:50:40__
 
 > Chiedo scusa sabato dopo averla aggiornata funziona regolarmente e ho mandato una email alla vostra società<br> :date: __2020-11-03 08:43:12__
 
@@ -204,10 +208,6 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 
 > Semplici e chiare informazioni. Grazie<br> :date: __2020-08-06 20:51:49__
 
-> Applicazione utile ed abbastanza ben progettata. Vorrei però capire a cosa serve la sezione Preferiti, dal momento che non riesco a trovare nessuna schermata da cui aggiungere qualcosa alla lista...<br> :date: __2020-08-01 14:47:36__
-
-> Nel menù non trovo niente per cambiare l'età .<br> :date: __2020-08-01 13:02:14__
-
 
 
 #### 3-star reviews
@@ -215,6 +215,8 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 3 reviews"/>
 </p>
+
+> Abbastanza semplice e pratica ..... Ma mi domando..... ---- Serve a qualcosa ?????<br> :date: __2020-11-10 15:03:59__
 
 > Ottima ma al momento non riesco più ad entrare<br> :date: __2020-11-06 17:40:02__
 
@@ -233,8 +235,6 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 > Funzionare funziona... le cose che ci sono servono... bruttina. Quello si e le allerte meteo attendibili come le previsioni mentre per i decreti covid rimanda ad apposite pagine on line.<br> :date: __2020-08-20 22:16:38__
 
 > Le previsioni meteo sono quasi sempre sballate<br> :date: __2020-08-17 14:05:10__
-
-> Non sempre veritiere<br> :date: __2020-07-26 16:43:10__
 
 
 
@@ -272,6 +272,10 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <img src="1_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 1 reviews"/>
 </p>
 
+> Dopo l'ultimo aggiornamento non si apre più. Si inchioda ed esce la finestra che avvisa di riprovare. Avete voluto strafare per tracciare covid e compagni ed è uscito un minestrone inutile e che non sapete maneggiare. Peccato, le allerte meteo erano interessanti. Disinstallata e amen.<br> :date: __2020-11-16 00:51:51__
+
+> Con gli ultimi aggiornamenti non si riesce più ad utilizzare l'App se non si compila il questionario. L'opzione di non partecipare al questionario non funziona<br> :date: __2020-11-15 12:10:17__
+
 > Buon giorno Da ieri ho notato che app non si riesce più ad aprire.<br> :date: __2020-10-30 08:31:44__
 
 > Non aggiornata<br> :date: __2020-10-27 23:50:27__
@@ -287,9 +291,5 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 > Semplicemente ridicola....<br> :date: __2020-09-29 10:16:31__
 
 > allerte meteo non aggiornate<br> :date: __2020-08-27 11:37:12__
-
-> il mio terminale la rifiuta a priori ho capito...il mio terminale ha i permessi di root...questo per la mia SICUREZZA...l'app dice che si chiude per la mia sicurezza...disinstallato immediatamente. PS la protezione civile andrebbe abolita a favore di presessionisti SERI PAGATI e ADDESTRATI<br> :date: __2020-08-26 09:16:04__
-
-> L'app non mostra la mappa della Lombardia con i livelli di allerta colorati, ma vedo solo l'elenco. Non ho il menù a tendina dove scegliere se visualizzare ad elenco o a mappa. Ho disinstallato e reinstallato più volte senza cambiamenti. Perché? Come risolvo?<br> :date: __2020-08-25 13:27:36__
 
 

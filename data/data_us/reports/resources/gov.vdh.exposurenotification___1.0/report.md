@@ -130,25 +130,25 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 <img src="5_star_reviews_wordcloud.png" alt="gov.vdh.exposurenotification 5 reviews"/>
 </p>
 
+> Great to see an implementation of COVID tracking. This is following the de facto method for anonymous tracing provided by Google/Apple. Reviews upset at Bluetooth usage are not familiar with the implications/work for anonymous tracing, GPS or other means would be vastly more energy intensive. Turn on your Bluetooth.<br> :date: __2020-11-15 17:13:08__
+
+> Does as intended. Privacy Policy provides details as to how personal info is not used.<br> :date: __2020-11-15 16:27:53__
+
+> Thank you for your hard work to develop this app. A bonus feature would be to have the vdh covid dashboard information available in the app as well.<br> :date: __2020-11-15 13:43:36__
+
+> I think this is a good idea.<br> :date: __2020-11-13 14:09:34__
+
+> John B. K<br> :date: __2020-11-13 04:13:52__
+
+> SERIOUSLY, 10 MONTHS INTO THE PANDEMIC AND ONLY VIRGINA HAS THIS? WE ARE SO SCREWED! I'm in CA and installed this anyway, hoping it helps.<br> :date: __2020-11-13 02:05:07__
+
+> D?<br> :date: __2020-11-12 06:56:44__
+
+> Like the idea of the security of having this info available upon request<br> :date: __2020-11-11 20:40:50__
+
+> So far this application has been working as advertised<br> :date: __2020-11-09 21:09:29__
+
 > Great idea but only great if everyone uses it across the US. That will never happen unless mandated by the government and then you'll have lawsuits and protests. Good luck with making this a success without mandatory usage.<br> :date: __2020-11-04 00:20:48__
-
-> Pretty neat they make something so other people are aware<br> :date: __2020-11-02 04:55:14__
-
-> Great app to prevent Covid<br> :date: __2020-10-31 05:51:21__
-
-> Excellent. Way to track COVID @least our Highly intelligent companies Have The Brains to do so ,unlike our Current president....<br> :date: __2020-10-28 15:56:16__
-
-> Thankyou<br> :date: __2020-10-27 16:37:30__
-
-> Plus wear a mask! Thank you VDH!<br> :date: __2020-10-26 04:36:45__
-
-> I would love to what I would do it I would do it I will download it?????👍👍👍👍😍😍😍😍<br> :date: __2020-10-25 02:32:35__
-
-> M fu aiv Zbi<br> :date: __2020-10-24 06:55:44__
-
-> Nice app<br> :date: __2020-10-22 04:31:09__
-
-> Slaw<br> :date: __2020-10-22 03:23:23__
 
 
 
@@ -157,6 +157,8 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="gov.vdh.exposurenotification 4 reviews"/>
 </p>
+
+> Awesome<br> :date: __2020-11-15 02:07:21__
 
 > I've had this app for a couple weeks. However, is this for Virginia only? Or is it tracking in my area, El Paso, TX? Thanks.<br> :date: __2020-11-05 23:10:25__
 
@@ -176,8 +178,6 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 
 > For battery optimization issue, you can add this app in the "whitelist" so you won't run into the issue.<br> :date: __2020-09-23 17:11:11__
 
-> Helpful, gives me some peace of mind<br> :date: __2020-09-16 02:24:02__
-
 
 
 #### 3-star reviews
@@ -185,6 +185,8 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="gov.vdh.exposurenotification 3 reviews"/>
 </p>
+
+> I'm gonna keep it on my phone, but i was with someone who tested positive and the app didn't catch it, so I'm pretty sure it's useless.<br> :date: __2020-11-09 21:35:18__
 
 > Rating based on alert function rather than any more independent function or utility.<br> :date: __2020-11-07 23:00:14__
 
@@ -203,8 +205,6 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 > It's ridiculous that there are only state apps. I live in California and I don't see an app for me. Also what about people who cross state lines? There needs to be a unified federal App, but I can't see it happening.<br> :date: __2020-09-18 20:53:23__
 
 > I think yall should makw this app for arkansas tbh my state hasent made one and downloading this app and it using my location will it pickup exposure here in ark?<br> :date: __2020-09-12 04:00:25__
-
-> Doesn't use location, but requires location services to be on to work. I leave mine off when not in use, because most other apps aren't so privacy-conscious. By requiring GPS, this app creates security concerns that outweigh its benefits. While THIS app isn't directly compromising my privacy, its permissions requirements open a privacy hole for OTHER apps to use. Android *doesn't* require location for Bluetooth or BLE (I use both), but it unfortunately does for this app's BLE tag tracking.<br> :date: __2020-09-04 17:56:12__
 
 
 
@@ -242,24 +242,24 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 <img src="1_star_reviews_wordcloud.png" alt="gov.vdh.exposurenotification 1 reviews"/>
 </p>
 
+> If you're that scared and/or sick then keep your ass inside. People are dumb...<br> :date: __2020-11-16 00:18:55__
+
+> I'm positive! Doesn't give me an option to find or change my code. Want to report but can't. Not user friendly!<br> :date: __2020-11-15 22:08:25__
+
+> Stupid. Will never work because few have the app<br> :date: __2020-11-14 13:55:10__
+
+> Doesn't do exposure checks when I go out. Does exposure checks at 1-5am when people are asleep, which is pointless. What's the use of the app then?<br> :date: __2020-11-13 18:26:55__
+
+> Beware. Within 2 hours of installing this app and giving it the Bluetooth rights, my credit card number was stolen and Netflix account had a suspicious login (not me).<br> :date: __2020-11-13 17:16:22__
+
+> This app is junk...My wife is Covid19 positive. She reported in the app as infected patient. I stood right next to her (with her phone on her hand)and the app on my phone did not alert anything...<br> :date: __2020-11-11 15:49:01__
+
+> Not very accurate. Sorry if the truth hurts. All I am saying is my local news is saying that there is COVID - 19 positive tests, confirmed reports that there was a local outbreak and guess what, hmm., your app didn't inform me of it.<br> :date: __2020-11-10 12:16:47__
+
 > We do not need another political app. Please reframe from using this fake app.<br> :date: __2020-11-08 07:41:48__
 
 > Not useful<br> :date: __2020-11-07 04:41:14__
 
 > I had this app for several months and I have never got a notice and I have been to the hospital several times. I think this app is a waste of time and space. I have deleted it.<br> :date: __2020-11-06 16:46:41__
-
-> This is a scam to get your personal information.<br> :date: __2020-10-28 14:11:44__
-
-> This is what i have to say. THE KUNGFLU IS A JOKE, UR A JOKE TO FOR WEARING UR MASKS, I WONT EVEN GET A VAX FOR THE KUNGFLU. UR ALL CLOWNS IN MY BOOK. I TRUST GOD I DONT TRUST MAN. I HOPE THIS APP GETS A VIRUS, LOL!<br> :date: __2020-10-28 05:53:26__
-
-> Not very accurate. Sorry if the truth hurts.<br> :date: __2020-10-27 12:13:05__
-
-> So your telling me when someone knowinly has covid-19 they're going to report it to an app and still walk around by people without being self quarantined? Believe me if they're doing that they could care less anyway so they're not going to put it in the app. It's like putting a sign on their back and walk around. Even though it's the right thing to do I don't believe that someone would knowingly have it report it in an app to let everybody else know they have it and still walk around in crowds<br> :date: __2020-10-27 02:44:07__
-
-> While I understand and appreciate what the app is trying to do, the app checking my location consistently at 1am, and 3am is crazy! It is not checking my location when I am actually out and about during the day. I will be deleting this as I find that for me, it is worthless. Based on reply..let me correct that to exposure checks at 2+am, 3+am, 4+am, 5+am, do no good for me as thats when I'm home asleep. Those are the check times that have been reported to me.<br> :date: __2020-10-23 16:18:08__
-
-> Can't review this app when it doesn't run. After installing on my Pixel 4xl, I try to run it and it says "Internal error, please try again". Subsequent retries are futile as I get the same error repeatedly.<br> :date: __2020-10-21 18:27:41__
-
-> When I try to sign up for exposure notifications I keep receiving the following error message, "Internal error, please try again."<br> :date: __2020-10-21 11:44:46__
 
 

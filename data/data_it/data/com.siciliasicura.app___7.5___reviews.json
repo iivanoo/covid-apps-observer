@@ -1,5 +1,17 @@
 [
     {
+        "reviewId": "gp:AOqpTOFyMI0r63BQrNyEsNQrAV2GYSyn3bEbd1kTKje1LUqOxGGyCaJmzB8_BRWC28KaFNwiJY1y4bvcitBW",
+        "userName": "Vaghelis Raftopoulos",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ghk3_NHVu34eLJMwNbuAWizcRsblQNBR99JWDLRUA",
+        "content": "Una pagliacciata",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2020-11-15 20:26:26",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOHrdffGjVQ0IawKvBPC4bntCGJgH_yVLPLzTqJx9QRnnCfcUTwIRi2FW0HJbsc9ihszGOx7rhAT1Dbg",
         "userName": "Francesco Viscuso",
         "userImage": "https://play-lh.googleusercontent.com/-biHlkzX3SiQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclFvA2HdCddvNOcgLicM4gEZCa6Sg/photo.jpg",
@@ -173,7 +185,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gis_2TZgyFzJiqlkvti-aUCSqCAy0d8dG-j0UDRIPQ",
         "content": "Problemi iniziali risolti, rimaneva bloccata. Al momento ci siamo registrati con la fidanzata. Procedura un po' ridondante, abbiamo inserito sia io che lei dati miei e dati suoi. Vediamo in Sicilia come si comporter\u00e0 dopo check in.",
         "score": 4,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "7.5",
         "at": "2020-09-14 12:52:11",
         "replyContent": "Gentile Gianluca, si tratta probabilmente di un errore di rete temporaneo. Dovessi avere problemi contattaci al numero: 800 458787 o scrivici all'indirizzo: helpdesk@siciliasicura.com. Per ulteriori info \u00e8 possibile consultare il manuale utente: http://tinyurl.com/siciliasicura-it",
@@ -317,7 +329,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-q0EYNZgxTlc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnH1ALXQN63DQ-NwdBB30jwPZW7EA/photo.jpg",
         "content": "Sono un siciliano residente in altra regione. Leggendo i commenti di altri utenti, a prescindere dai commenti sull'utilit\u00e0 o meno dell'app, ero un po' scettico sulla sua funzionalit\u00e0. Tuttavia, dalla mia esperienza posso dire che non ho avuto problemi durante la registrazione. Sono riuscito a fare il check-in ed il check-out del mio gruppo (io e la mia compagna) con facilit\u00e0. Spero che questa piccola accortezza possa essere utile per la sicurezza di tutti.",
         "score": 5,
-        "thumbsUpCount": 17,
+        "thumbsUpCount": 18,
         "reviewCreatedVersion": "7.5",
         "at": "2020-08-26 15:57:11",
         "replyContent": null,
@@ -770,7 +782,7 @@
     {
         "reviewId": "gp:AOqpTOEbf01lL83obkjO1Bdcp-ZcMOezbOITE29FmK8LEV60G5U8ESEckeLsnIrNK9mydlicLPzxI1mfebrI",
         "userName": "Sergio Schiavini",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjuSVaak7csR-0dr57PNg1520Ttgy7RlhPyCzhcww",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiwAeU1yMclhCazgISJ2H9LekEBByq2fQohBCPi6g",
         "content": "App inutile, con diligenza e rispetto l'ho installata ed utilizzata giornalmente. Ma mi sembra di combattere contro i mulini a vento, la mascherina \u00e8 indossata da poche persone locali, la utilizzano solo i turisti e il personale dei negozi ma non gli avventori. In tante occasioni chi la porta \u00e8 soggetto a scherno e risate varie, la distanza sociale non \u00e8 cosa loro ed i controlli non si vedono in giro. Ma se ne discuti con le persone dicono che sono stati bravi e rispettosi , contenti loro.",
         "score": 2,
         "thumbsUpCount": 0,

@@ -4,56 +4,56 @@
         "store_country": "it",
         "store_lang": "it",
         "latest_crawled_version": "5.1",
-        "latest_crawl": 1604840654
+        "latest_crawl": 1605517989
     },
     {
         "id": "it.lispa.sire.app.mobile.allertalom",
         "store_country": "it",
         "store_lang": "it",
         "latest_crawled_version": "1.7.1",
-        "latest_crawl": 1604840661
+        "latest_crawl": 1605518000
     },
     {
         "id": "com.intellicare.covid",
         "store_country": "it",
         "store_lang": "it",
         "latest_crawled_version": "1.0.17",
-        "latest_crawl": 1604840666
+        "latest_crawl": 1605518003
     },
     {
         "id": "com.siciliasicura.app",
         "store_country": "it",
         "store_lang": "it",
         "latest_crawled_version": "7.5",
-        "latest_crawl": 1604840669
+        "latest_crawl": 1605518007
     },
     {
         "id": "it.adl.aslroma3.covid19.app",
         "store_country": "it",
         "store_lang": "it",
         "latest_crawled_version": "1.0.4",
-        "latest_crawl": 1604840675
+        "latest_crawl": 1605518011
     },
     {
         "id": "org.who.infoapp",
         "store_country": "it",
         "store_lang": "it",
         "latest_crawled_version": "3.1.1",
-        "latest_crawl": 1604840675
+        "latest_crawl": 1605518018
     },
     {
         "id": "de.xikolo.openwho",
         "store_country": "it",
         "store_lang": "it",
         "latest_crawled_version": "3.6",
-        "latest_crawl": 1604840676
+        "latest_crawl": 1605518027
     },
     {
         "id": "it.ministerodellasalute.immuni",
         "store_country": "it",
         "store_lang": "it",
         "latest_crawled_version": "2.1.1",
-        "latest_crawl": 1604840769
+        "latest_crawl": 1605518032
     },
     {
         "id": "it.regione.sardegna.autorizzazionicovid19",
@@ -61,5 +61,60 @@
         "store_lang": "it",
         "latest_crawled_version": "1.3.8",
         "latest_crawl": 1604840839
+    },
+    {
+        "id": "it.apperosrl.soscovid19",
+        "store_country": "it",
+        "store_lang": "it"
+    },
+    {
+        "id": "eu.fbk.trec.apps.covid",
+        "store_country": "it",
+        "store_lang": "it",
+        "latest_crawled_version": "0.4.15",
+        "latest_crawl": 1605518098
+    },
+    {
+        "id": "it.adilife.covid19.app",
+        "store_country": "it",
+        "store_lang": "it",
+        "latest_crawled_version": "1.1.5",
+        "latest_crawl": 1605518179
+    },
+    {
+        "id": "it.pagopa.io.app",
+        "store_country": "it",
+        "store_lang": "it",
+        "latest_crawled_version": "1.8.0.6",
+        "latest_crawl": 1605518710
+    },
+    {
+        "id": "com.salvagente.info",
+        "store_country": "it",
+        "store_lang": "it"
+    },
+    {
+        "id": "it.proxima.bariano",
+        "store_country": "it",
+        "store_lang": "it"
+    },
+    {
+        "id": "it.adl.aslroma2.covid19.app",
+        "store_country": "it",
+        "store_lang": "it"
+    },
+    {
+        "id": "it.apss.coronavirus.esterni",
+        "store_country": "it",
+        "store_lang": "it",
+        "latest_crawled_version": "2.0.0",
+        "latest_crawl": 1605518965
+    },
+    {
+        "id": "it.oikos.pcaltalanga",
+        "store_country": "it",
+        "store_lang": "it",
+        "latest_crawled_version": "1.1.0",
+        "latest_crawl": 1605519102
     }
 ]

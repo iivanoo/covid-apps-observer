@@ -141,6 +141,8 @@ The LAZIOdrCovid app has been installed by more than **100000** times. At this t
 <img src="5_star_reviews_wordcloud.png" alt="com.intellicare.covid 5 reviews"/>
 </p>
 
+> Ottima<br> :date: __2020-11-11 19:16:16__
+
 > Credo che sia unottima protezione.<br> :date: __2020-10-24 15:02:19__
 
 > Tolto accesso, prego provvedere non mi invia sms per attivare<br> :date: __2020-10-21 12:26:52__
@@ -158,8 +160,6 @@ The LAZIOdrCovid app has been installed by more than **100000** times. At this t
 > Ok<br> :date: __2020-08-27 10:03:31__
 
 > Mai servita ma sembra scorrevole e semplice<br> :date: __2020-08-27 09:58:32__
-
-> Applicazione utile e ben fatta.<br> :date: __2020-08-27 07:48:42__
 
 
 
@@ -253,24 +253,24 @@ The LAZIOdrCovid app has been installed by more than **100000** times. At this t
 <img src="1_star_reviews_wordcloud.png" alt="com.intellicare.covid 1 reviews"/>
 </p>
 
+> Ennesima presa in giro e spreco di soldi di noi contribuenti.<br> :date: __2020-11-16 07:42:51__
+
+> Macchinosa e poco pratica, un disastro<br> :date: __2020-11-15 18:17:23__
+
+> Non funziona!!!!! usate i nostri soldi per dare un servizio che non esiste. Fate schifo.<br> :date: __2020-11-14 09:27:10__
+
+> Una buffonata non risponde nessun app sarebbe ottimo peccato che e come scrivere su un muro<br> :date: __2020-11-12 19:11:40__
+
+> Dopo qualche giorno di funzionamento normale, ora non si apre più e dice di scaricare la versione aggiornata dallo store o in alternativa si apre ma non carica i dati e si blocca.<br> :date: __2020-11-12 09:55:31__
+
+> L'app non viene aggiornata dal 1°settembre, meno di un aggiornamento al mese vuol dire stato di abbandono. La prima volta in maniera laboriosa sono riuscito ad effettuare l'autenticazione. I grafici supportano i primi 10 inserimenti, i successivi vengono registrati ma non sono nei vari grafici.Ora dopo un paio di giorni di inutilizzo mi dice che la sessione è scaduta e non riesco più ad autenticarmi. Qualche dottore dovrebbe dire se è utile o meno. Lato utente sembra utile quanto un blocco note.<br> :date: __2020-11-11 23:11:45__
+
+> Disattiva spesso l account e richiede nuova attivazione comunicando invio SMS di attivazione che non arriva mai al cellulare.<br> :date: __2020-11-11 09:59:45__
+
 > App inutile !!! Non serve proprio a nulla. richiesto consulto covid, fosse per l'app saremo tutti untori mai una risposta mai nulla.<br> :date: __2020-11-05 06:52:46__
 
 > Non ho capito a cosa serva visto che il fantomatico medico neanche risponde<br> :date: __2020-10-31 13:04:46__
 
 > Se vi contaggiate vi diranno di scaricarla per seguire a distanza i dati che inserite giornalmente, ditegli che preferite essere chiamati al telefono quotidianamente.<br> :date: __2020-10-30 20:54:27__
-
-> Ma perché prima di capire le funzionalità o di accedere all'app devo dare il consenso di accedere ai miei file e scattare video o foto? Aggiornamento: e perché non spiegarlo all'utente direttamente nell'app o chiedere il consenso solo nel momento in cui l'app deve effettuare quella operazione?<br> :date: __2020-10-30 18:44:49__
-
-> Provato a contattare il medico. Nessuna risposta, viene il dubbio che dietro non ci sia proprio nessuno....<br> :date: __2020-10-26 23:39:09__
-
-> Si invia il messaggio al medico o l'autovalutazione ma nulla attesta la presa in carico, la consegna o la lettura. Come scrivere al niente.<br> :date: __2020-10-25 22:30:03__
-
-> Nella sezione "Contatta il tuo medico" non compare nessuno<br> :date: __2020-10-21 10:33:57__
-
-> App inutile. Mi dice che non ho un medico curante associato e invece ne ho uno ovviamente. Quindi non posso contattarlo. Boh.<br> :date: __2020-10-11 17:38:27__
-
-> Come riportato in altre recensioni di altri utenti è fumo negli occhi. Contattato il medico.....nessuna risposta. Qualcuno dovrebbe dare delle spiegazioni.<br> :date: __2020-10-08 13:29:23__
-
-> Non serve a un c... Avolo! Test inutile. Non risponde nessuno ai contatta... Che senso ha?<br> :date: __2020-10-06 21:06:08__
 
 

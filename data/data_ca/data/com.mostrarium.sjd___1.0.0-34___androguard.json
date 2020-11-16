@@ -1,0 +1,53 @@
+{
+    "permissions": [
+        "android.permission.INTERNET",
+        "android.permission.VIBRATE",
+        "android.permission.ACCESS_COARSE_LOCATION",
+        "android.permission.CAMERA",
+        "android.permission.FLASHLIGHT",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        "android.permission.ACCESS_FINE_LOCATION",
+        "android.permission.READ_EXTERNAL_STORAGE",
+        "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+        "android.permission.WAKE_LOCK",
+        "com.google.android.c2dm.permission.RECEIVE",
+        "com.google.android.providers.gsf.permission.READ_GSERVICES"
+    ],
+    "activities": [
+        "com.mostrarium.app.SplashActivity",
+        "com.mostrarium.app.MainActivity",
+        "com.mostrarium.core.activity.ImageGalleryActivity",
+        "com.mostrarium.core.activity.AppActivity",
+        "com.mostrarium.core.activity.GiActivity",
+        "com.gestorincidencia.core.activities.IncidenceActivity",
+        "com.gestorincidencia.core.activities.IncidenceDetailActivity",
+        "com.gestorincidencia.core.activities.IncidenceMapActivity",
+        "com.google.android.gms.common.api.GoogleApiActivity"
+    ],
+    "urls": [
+        "http://schemas.android.com/apk/res/android",
+        "https://www.incidencia.city/api/v1/photo/",
+        "https://www.incidencia.city/api/v1/addPhoto",
+        "https://www.incidencia.city/api/v1/create",
+        "https://www.incidencia.city/api/v1/addNote",
+        "https://www.incidencia.city/api/v1/defaults",
+        "https://www.incidencia.city/api/v1/incidences",
+        "https://www.incidencia.city/api/v1/types",
+        "https://pagead2.googlesyndication.com/pagead/gen_204?id=gmob-apps",
+        "https://plus.google.com/",
+        "https://google.com/search?",
+        "https://app-measurement.com/a",
+        "http://www.linkedin.com/in/",
+        "http://twitter.com/@",
+        "http://facebook.com/",
+        "https://es.foursquare.com/",
+        "https://www.tuenti.es/",
+        "https://www.youtube.com/user/",
+        "https://player.vimeo.com/video/",
+        "https://www.youtube.com/watch?v=",
+        "https://vimeo.com/",
+        "https://www.google.com",
+        "https://www.googleadservices.com/pagead/conversion/app/deeplink?id_type=adid&sdk_version=%s&rdid=%s&bundleid=%s"
+    ]
+}

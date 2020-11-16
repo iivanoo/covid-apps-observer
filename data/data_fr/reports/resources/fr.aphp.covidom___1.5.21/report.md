@@ -216,6 +216,8 @@ The Covidom Patient app has been installed by more than **10000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="fr.aphp.covidom 1 reviews"/>
 </p>
 
+> Inutile, fonctionne mal<br> :date: __2020-11-08 15:30:20__
+
 > Application pas clair dutout ... elle sent l arnaque !<br> :date: __2020-11-02 21:41:00__
 
 > Mot de passe sans cesse bloqué<br> :date: __2020-11-02 12:27:39__
@@ -233,7 +235,5 @@ The Covidom Patient app has been installed by more than **10000** times. At this
 > Utilité de l'application ? ...<br> :date: __2020-09-20 20:35:22__
 
 > Application très mal finie , web et Android. Par un pré-apprenti stagiaire ? Impossible d'ajouter un document PDF, seules les photos sont acceptées. Pas moyen d'enlever un document envoyé par erreur ! Sur la version web, je suis de sexe indéterminé, je ne peux pas corriger. Sur Android, je suis une femme. Depuis quand ? Je suis né avec un zizi il y a un peu plus de 59 ans, je l'ai toujours et n'ai jamais voulu m'en défaire. Merci de corriger.<br> :date: __2020-09-02 00:04:31__
-
-> J'ai activé mon compte mais je n'arrive pas a faire le questionnaire de suivi. Comment dois-je faire ?<br> :date: __2020-09-01 00:20:57__
 
 

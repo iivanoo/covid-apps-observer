@@ -241,6 +241,8 @@ The SM_Covid19 app has been installed by more than **50000** times. At this time
 <img src="3_star_reviews_wordcloud.png" alt="it.softmining.projects.covid19.savelifestyle 3 reviews"/>
 </p>
 
+> Non capisco<br> :date: __2020-11-10 20:57:14__
+
 > Questa app è sicura come quella governativa?<br> :date: __2020-10-20 14:31:12__
 
 > Se non attivano tutti, il bluetooth e il gps, l' utilità è solo parziale.<br> :date: __2020-10-07 17:36:45__
@@ -258,8 +260,6 @@ The SM_Covid19 app has been installed by more than **50000** times. At this time
 > Ancora in prova<br> :date: __2020-07-11 09:41:40__
 
 > Nessuna esperinsa<br> :date: __2020-07-08 21:44:00__
-
-> Buona<br> :date: __2020-07-08 19:36:55__
 
 
 
@@ -297,6 +297,8 @@ The SM_Covid19 app has been installed by more than **50000** times. At this time
 <img src="1_star_reviews_wordcloud.png" alt="it.softmining.projects.covid19.savelifestyle 1 reviews"/>
 </p>
 
+> Poco attendibile visto che 2 cell. stessa marca stessa persona stesso ambiente,risultati molto diversi.<br> :date: __2020-11-11 09:55:51__
+
 > Come faccio entrare se ultimontasto rosso non si ttasforma in verde clicco ok ma non succede nulla cosa è un bidone?<br> :date: __2020-11-04 16:36:37__
 
 > Ottimo<br> :date: __2020-10-20 16:15:04__
@@ -314,7 +316,5 @@ The SM_Covid19 app has been installed by more than **50000** times. At this time
 > Fatta malissimo<br> :date: __2020-08-20 20:13:25__
 
 > Non c'è ne di covidi<br> :date: __2020-07-30 08:49:05__
-
-> App pessima da 3 giorni circa non si apre più. È meglio che cambiate lavoro!!!!<br> :date: __2020-07-21 19:14:07__
 
 

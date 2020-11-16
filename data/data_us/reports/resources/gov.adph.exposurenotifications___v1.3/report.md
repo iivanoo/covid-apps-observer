@@ -136,6 +136,8 @@ The GuideSafe app has been installed by more than **50000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="gov.adph.exposurenotifications 5 reviews"/>
 </p>
 
+> Amazing<br> :date: __2020-11-12 13:16:22__
+
 > Eh Um.... HMMM 1# question tho why this app 4 all the phone's?.. Just wondering...<br> :date: __2020-10-27 02:22:20__
 
 > Be. Safe<br> :date: __2020-10-16 04:11:57__
@@ -153,8 +155,6 @@ The GuideSafe app has been installed by more than **50000** times. At this time,
 > We need this in society, this would help us a lot in America. Although all the comments say it's not accurate, but the reason I posted a five star review is because if they update this to work properly then everyone can at least consider using this to reduce Covid-19.<br> :date: __2020-10-11 06:04:06__
 
 > Informative !!<br> :date: __2020-10-11 04:00:56__
-
-> Is So soon am 24 also 14 years old age Is it please Very risky I am mean So it young to older is aloud use the app I just Unstall 🤔iiiiii!!!!!!!!?<br> :date: __2020-10-01 19:36:06__
 
 
 
@@ -182,6 +182,8 @@ The GuideSafe app has been installed by more than **50000** times. At this time,
 <img src="3_star_reviews_wordcloud.png" alt="gov.adph.exposurenotifications 3 reviews"/>
 </p>
 
+> I just wish more people used it. I kinda feel like it is not useful since people have to opt in for each aspect... BUT I will keep using it as long as this pandemic drags on.<br> :date: __2020-11-10 14:09:40__
+
 > Giving a 3 star review now because I've not used this app on an Android device. I have both Android and iPhone devices. Upon reading reviews of when using on Android devices, as opposed to iPhone devices, I know my iPhone works in real time notifications. Update was recently done on this application, so I'm going to give it a try. He!l, in reality even it notifying a few days later is better than NOT BEING NOTIFIED AT ALL. I will update with a comparison review. Stay safe, do the right thing masks don't hurt ya, and vote. Truly, Your Fellow American<br> :date: __2020-10-12 15:50:41__
 
 > Works but Annoyed - had this for UAB support, though it kept saying I had been exposed, the problem my phone was charging at the time it said the exposure happened on 2 different days at the same time of day (late Sunday evenings) I didn't go anywhere during those timeframes. It has to be binging off one of my neighbors but I had to quarantine and not attend classes. I've now removed it.<br> :date: __2020-10-04 08:18:57__
@@ -208,6 +210,8 @@ The GuideSafe app has been installed by more than **50000** times. At this time,
 <img src="1_star_reviews_wordcloud.png" alt="gov.adph.exposurenotifications 1 reviews"/>
 </p>
 
+> This is of no use if health providers do not turn in the information. No.one will actually do it and YES..then there is Hippa..<br> :date: __2020-11-08 16:58:36__
+
 > I just can't figure out out bc I know as many places as I have been lately I must have had some kind of course contact somewhere and haven't received 1 alert, just everything about it is confusing I don't even know if I'm even logged in correctly or whatever you're supposed to do.. Hence being clueless<br> :date: __2020-11-08 13:15:03__
 
 > Don't work<br> :date: __2020-10-29 11:31:00__
@@ -225,7 +229,5 @@ The GuideSafe app has been installed by more than **50000** times. At this time,
 > I can't reactivate after updated. Now after I check permissions boxes when I click on enable it says "Internal e0rror, please try again."<br> :date: __2020-10-23 09:31:08__
 
 > Won't work<br> :date: __2020-10-22 22:47:15__
-
-> Couldnt even use it the app just kept stopping really could be better atleast stop the crashing<br> :date: __2020-10-22 21:19:38__
 
 

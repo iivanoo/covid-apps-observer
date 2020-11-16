@@ -198,6 +198,12 @@ The Luscii app has been installed by more than **100000** times. At this time, *
 <img src="5_star_reviews_wordcloud.png" alt="nl.focuscura.beeldbelapp 5 reviews"/>
 </p>
 
+> vrij simpel in gebruik geen storing.<br> :date: __2020-11-16 09:30:10__
+
+> Werkt goed<br> :date: __2020-11-15 07:54:28__
+
+> Simpel en veilig<br> :date: __2020-11-13 15:00:23__
+
 > Geruststellend.<br> :date: __2020-11-07 11:12:10__
 
 > Goed en duidelijke app<br> :date: __2020-11-06 09:04:47__
@@ -212,12 +218,6 @@ The Luscii app has been installed by more than **100000** times. At this time, *
 
 > Praktisch<br> :date: __2020-11-02 12:09:16__
 
-> Fijne en praktische app. Makkelijk en doeltreffend in gebruik.<br> :date: __2020-11-02 08:46:49__
-
-> Lekker simpel, kost weinig tijd.<br> :date: __2020-10-30 23:36:48__
-
-> De oplossing om met meer mensen iets te bezoeken, sport, cultuur<br> :date: __2020-10-30 11:02:02__
-
 
 
 #### 4-star reviews
@@ -225,6 +225,14 @@ The Luscii app has been installed by more than **100000** times. At this time, *
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="nl.focuscura.beeldbelapp 4 reviews"/>
 </p>
+
+> Ik mis de vraag over smaakverlies<br> :date: __2020-11-12 16:27:16__
+
+> Prima actie !!!!!👍<br> :date: __2020-11-11 11:18:23__
+
+> Handig en simpel te gebruiken<br> :date: __2020-11-11 10:03:00__
+
+> Makkelijk te bedienen<br> :date: __2020-11-09 12:20:37__
 
 > Heldere vragen, duidelijke antwoorden eenvoud in gebruik<br> :date: __2020-11-05 20:06:31__
 
@@ -238,14 +246,6 @@ The Luscii app has been installed by more than **100000** times. At this time, *
 
 > Werkt goed en duidelijk het gebruik<br> :date: __2020-10-27 19:08:59__
 
-> Geeft een gevoel van veiligheid<br> :date: __2020-10-26 09:11:51__
-
-> Makkelijk en duidelijk te gebruiken. Jammer dat er rond de thuiswedstrijden nu niet getest kan worden. Prima initiatief van Casper.<br> :date: __2020-10-23 10:05:55__
-
-> Een duidelijke en overzichtelijke app, doe de juiste informatie heeft.<br> :date: __2020-10-23 08:59:50__
-
-> Goed<br> :date: __2020-10-19 17:36:09__
-
 
 
 #### 3-star reviews
@@ -253,6 +253,8 @@ The Luscii app has been installed by more than **100000** times. At this time, *
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="nl.focuscura.beeldbelapp 3 reviews"/>
 </p>
+
+> Het scrollen is wat moeilijk komt misschien door mijn toestel is al 2 jaar oud. Geen conract via Bluetooth. En wat weinig opties bij kortademigheid.<br> :date: __2020-11-09 09:01:59__
 
 > Jammer dat je geen feedback kan geven, op de reactie die je krijg.<br> :date: __2020-11-06 14:25:46__
 
@@ -271,8 +273,6 @@ The Luscii app has been installed by more than **100000** times. At this time, *
 > Krijg geen rapportje meer. En moest me opnieuw aanmelden omdat er kennelijk ergens wat fout ging. Nu kan ik wel weer doorgeven maar krijg geen terugkoppeling meer. Tja<br> :date: __2020-09-27 20:41:17__
 
 > Erg goed ik happy dat dat zo kan<br> :date: __2020-09-26 09:50:19__
-
-> Ik had hulp nodig bij het opstarten. De stappenteller werkt eindelijk, maar geeft een lager aantal weer op de app als dat ok tegelijker tijd afleest van de polsband. Wendy schrijft mij soms bericht dat ik wel kan lezen maar niet beantwoorden. Is polsband waterdicht??? Weet ik niet meer. :( :)<br> :date: __2020-09-22 23:32:06__
 
 
 
@@ -310,6 +310,8 @@ The Luscii app has been installed by more than **100000** times. At this time, *
 <img src="1_star_reviews_wordcloud.png" alt="nl.focuscura.beeldbelapp 1 reviews"/>
 </p>
 
+> Mijn account stopt steeds!<br> :date: __2020-11-08 19:12:08__
+
 > App werkt niet meer<br> :date: __2020-10-29 22:52:49__
 
 > Helaas doet hij het niet meer, jammer....<br> :date: __2020-10-19 17:58:30__
@@ -327,7 +329,5 @@ The Luscii app has been installed by more than **100000** times. At this time, *
 > Heel gemakkelijk in gebruik<br> :date: __2020-09-24 08:02:37__
 
 > Krijg een code vul deze in en dan krijg ik door dat deze fout is. Dan vraag ik een nieuwe op met hetzelfde resultaat. Kom dus niet verder.<br> :date: __2020-09-22 21:13:20__
-
-> Waardeloze app. Vaak niet te openen. Hopeloze service ook.<br> :date: __2020-09-04 22:13:38__
 
 

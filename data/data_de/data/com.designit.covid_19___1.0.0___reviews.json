@@ -1,5 +1,17 @@
 [
     {
+        "reviewId": "gp:AOqpTOEC-P1-4lgwFhkgSQ5ikQotoBCUuUIPCTgr7AWmH9_4aSPYCMoS2WkTE6Sk5giZLz9xVeqQi7smNn68TQ",
+        "userName": "Theresa Hinrichs",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjetVk7ajX4PlyGv2IxwtCYGaVCoCGZVT9RicsVDQ",
+        "content": "Push Nachricht kommt im Sekundentakt",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2020-11-10 19:12:46",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOFtIvXwiJXrR8FgBdQ69_3ag5DiehvBTe6QKxzOPn7Hb2ZxdPAGCxGF6bkojgOE5y1DGnvoW7kmfibYOA",
         "userName": "Bernd Saager",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj5D4xFQ2oB3VB56uK_7nPsiok00MFz0KMzZNWCpow",
@@ -53,7 +65,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi5u5WNc6QmIqGni5Yya_0P7JoR7xQYfD0cIqQSBA",
         "content": "Andere Bewertungen schreiben es schon. Wer ein gutes Passwort oder Passwort-Manager benutzt ist hier der Dumme. Passwort wird immer abgefragt, Manager oder Fingerabdruck wird nicht unterst\u00fctzt. Das nervt. Es gibt auch keine Erinnerung den Fragebogen zu machen. Es gibt auch keine Kontaktdaten der Entwickler in der App. Was soll denn das? Die grundlegenden Komfortfunktionen fehlen also. Ich glaube ich deinstalliere die App auch wenn ich sie gerne benutzen w\u00fcrde.",
         "score": 2,
-        "thumbsUpCount": 8,
+        "thumbsUpCount": 10,
         "reviewCreatedVersion": "1.0.0",
         "at": "2020-10-21 10:03:24",
         "replyContent": null,
@@ -149,7 +161,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-iGlzUo7acV0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclKDjV7k2xtSR8bmWHbpB6gPCtRJw/photo.jpg",
         "content": "Die App ist vielleicht gut und sinnvoll. Aber sie braucht inzwischen extrem viel Zeit im Aufbau, so dass die Bearbeitung sehr zeitaufwendig und wegen des langen Leerlaufs der Kreise auch noch nervig ist. Eigentlich m\u00f6chte ich die Corona-Forschung mit meinen Daten f\u00fcr diese App unterst\u00fctzen, aber ich \u00fcberlege gerade, sie zu l\u00f6schen.",
         "score": 1,
-        "thumbsUpCount": 18,
+        "thumbsUpCount": 19,
         "reviewCreatedVersion": "1.0.0",
         "at": "2020-08-12 23:00:54",
         "replyContent": null,
@@ -302,7 +314,7 @@
     {
         "reviewId": "gp:AOqpTOFjv4zEcxWbNPSUk5xR1yzTatTcvI8foR7rPOMDEpVjldX8BDqVrrGzsjI5wAK9Geduyzi5jWkwjOa51w",
         "userName": "Akel",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ghw9wqv3YGPI3uWS8N_mxj9qCwaiImprcABjMy4Yy0",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgWkfZYtsLwX3Yqwfq2nlXqFoOcLQtSACTKQVKil08",
         "content": "...so ein Schmarrn...selten so gelacht...",
         "score": 1,
         "thumbsUpCount": 0,

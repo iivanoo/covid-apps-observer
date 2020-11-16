@@ -1,0 +1,17 @@
+{
+    "permissions": [
+        "android.permission.INTERNET",
+        "android.permission.CALL_PHONE",
+        "android.permission.ACCESS_COARSE_LOCATION",
+        "android.permission.ACCESS_FINE_LOCATION",
+        "android.permission.WRITE_EXTERNAL_STORAGE"
+    ],
+    "activities": [
+        "com.hug_ge.coronapp.MainActivity"
+    ],
+    "urls": [
+        "https://ssl.gstatic.com/accessibility/javascript/android/",
+        "http://*/*",
+        "https://*/*"
+    ]
+}

@@ -187,6 +187,10 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 <img src="3_star_reviews_wordcloud.png" alt="de.bssd.covid19 3 reviews"/>
 </p>
 
+> QR-Code geht nicht, dafür bekommt man nach dem Eingeben unzähliger Ziffern(Fehlerquelle), mit Bindestrich, ein rasches Ergebnis.<br> :date: __2020-11-14 11:21:34__
+
+> Die Funktionalität ist zwar grausam, z. B. funktioniert der QR Scanner nicht und man muss den Code händisch eintragen, wobei gefühlt zehnmal so viele Zeichen wie bei der Installation von Windows 7 eingegeben werden müssen. Andererseits ist das Testergebnis viel schneller verfügbar, als bei der offiziellen Corona Warnapp.<br> :date: __2020-11-12 16:57:57__
+
 > Bisher funktionierte die App super. Seid die neuen QR Codes kleiner sind scannt die App sich zu Tode und das Ergebnis ist nicht anzeigbar. Bitte bearbeiten.<br> :date: __2020-11-08 05:30:19__
 
 > Das Scannen des QR-Codes funktioniert leider nicht. Die ID-Nummer habe icb per Hand eingegeben. Dies hat allerdings erst funktioniert, nachdem ich die App geschlossen und erneut geöffnet habe.<br> :date: __2020-10-02 15:56:21__
@@ -202,10 +206,6 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 > Bewertung nicht möglich, beim Starten der App erscheint sofort ..angehalten<br> :date: __2020-07-02 22:39:15__
 
 > Ich kann das nicht beurteilen.<br> :date: __2020-06-19 13:05:42__
-
-> Höre von dieser App erst, als ich Mal gegoogelt habe, wie lange ich auf ein Ergebniss noch warten soll. Leider haben wir von der Elmshorner Klinik, wo wir den Test gemacht haben, keine QR-Codes bekommen. Arbeiten nicht alle Kliniken oder Teststationen mit der App? Wir warten auch seit 5 Tagen auf ein Ergebniss.<br> :date: __2020-06-11 18:47:53__
-
-> Hallo, beim eingeben der id Nummer oder abscannen des Codes steht dran dass es ein Fehler gibt und das passwort oder benutzernamen falsch ist kann mir bitte einer weiterhelfen? Vielen Dank im voraus<br> :date: __2020-05-09 19:58:09__
 
 
 
@@ -243,24 +243,24 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 <img src="1_star_reviews_wordcloud.png" alt="de.bssd.covid19 1 reviews"/>
 </p>
 
-> Versagen auf ganzer Linie. Absolut unfähig und unnütz. Jetzt, über eine Woche nach dem Test liegt mein Ergebnis in der App immer noch nicht vor.<br> :date: __2020-11-08 11:17:43__
+> Funktioniert leider überhaupt nicht. Das Scannen des QR-Codes geht gar nicht, man muss also die Endlosziffern eingeben, was eigentlich unzumutbar ist. Und dies jedes Mal, wenn man nachschauen will. Nach 6 Tagen kam bei mir immer noch kein Ergebnis, obwohl der Arzt dieses schon seit 3 Tagen hatte. Ein Armutszeugnis, wenn diese App nicht so verbessert werden kann, dass sie problemlos für jeden funktioniert. Würde gerne weniger als einen Punkt geben, denn genauso viel ist sie anwendbar: null Wert.<br> :date: __2020-11-15 11:52:28__
 
-> Lässt sich leider nicht öffnen, sehr schade<br> :date: __2020-11-07 20:07:00__
+> App beendet direkt nach dem Start automatisch. Immer wieder auch nach einem Neustart. Hardware Google Pixel, neueste Android-Version.<br> :date: __2020-11-14 09:40:24__
 
-> Das funktniert garnicht👎🏼👎🏼👎🏼<br> :date: __2020-11-06 11:50:20__
+> Unzuverlässig. Scanner funktioniert selten, Code-Eingabe kompliziert und auch unzureichend. Schade. Keine Reaktion seitens des Anbieters, weder hier noch per Email.<br> :date: __2020-11-13 19:21:51__
 
-> Funktioniert nicht die App schließt sich automatisch wieder<br> :date: __2020-11-05 16:32:06__
+> App funktioniert nicht der QR Scanner bringt auch nichts viel zu umständlich Eigentlich keinen einzigen Stern<br> :date: __2020-11-13 17:02:31__
 
-> Die App zeigt auch eine Woche nach tatsächlichem Vorliegen des Testergebnisses noch an, dass kein Ergebnis vorliegt. Damit ist die App nutzlos. Dass dann der QR-Code nicht gescannt werden kann und die Eingabe des Codes umständlich, ist dann auch nebensächlich.<br> :date: __2020-11-05 05:45:29__
+> Was für ein Mist. Scannen vom Barcode funktioniert nicht.<br> :date: __2020-11-13 14:12:21__
 
-> Reinfall! Qr code scannen funktioniert überhaupt nicht. Auch die Eingabe des Codes hat nicht funktioniert. Direkt deinstalliert. Absoluter Reinfall.<br> :date: __2020-11-04 22:45:03__
+> App lässt sich nicht öffnen. Pixel 5<br> :date: __2020-11-13 11:00:27__
 
-> Funktioniert nicht<br> :date: __2020-11-04 19:32:57__
+> Weder QR Scan noch manuelle Codeeingabe funktioniert, bereits der 2. Test bei dem ich nur über Umwege und direkt Anfrage im Labor überhaupt ein Resultat bekommen habe.<br> :date: __2020-11-11 12:06:32__
 
-> Code wird nicht gescannt...ist ja nicht so als wäre es wichtig das so eine app einwandfrei funktioniert.<br> :date: __2020-11-04 16:17:07__
+> Nix funktioniert warte seid 1 woche auf das Ergebnis und habe heute erst erfahren das ich nun doch die corona app runter laden muss obwohl ich das nicht will.der Hausarzt ist überlastet und nicht erreichbar zur Ergebnis Mitteilung. Absolute Unverschämtheit eine solche App nicht zu entfernen wenn nichts funktioniert<br> :date: __2020-11-10 09:51:04__
 
-> App funktioniert kein bisschen Mittwoch Morgen getestet, Freitag Vormittag Ergebnis telefonisch vom Arzt erhalten und App zeigt bis zum nächsten Mittwoch die Meldung "Ihr Ergebnis liegt nicht vor" an Dann deinstalliert.<br> :date: __2020-11-04 14:45:38__
+> Sie Startet seit Android 11 nicht mehr weder Pixel 2 noch Pixel 3a oder Pixel5. Trotz Anruf bei dem Unternehmen null Veränderungen. Die App ist somit nutzlos.<br> :date: __2020-11-09 12:22:47__
 
-> Mmhh....wollte die ID eingeben, es wird aber nicht angegeben in welcher Form diese sein muss. In der Beschreibung steht "nur wenn das Labor die App unterstützt". Da aber nicht beschrieben wird welche Labore das unterstützen und ich auf der Laborseite auch nichts finde muss ich annehmen dass BIOScienta nicht unterstützt wird<br> :date: __2020-11-04 10:05:15__
+> Macht leider nicht was sie soll. Obwohl das Ergebnis dem Arzt bereits vorliegt, gibt es über die App auch nach 90 Stunden noch kein Ergebnis.<br> :date: __2020-11-09 10:53:37__
 
 

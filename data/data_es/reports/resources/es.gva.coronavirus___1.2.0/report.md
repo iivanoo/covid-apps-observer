@@ -121,6 +121,8 @@ The GVA Coronavirus app has been installed by more than **10000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="es.gva.coronavirus 5 reviews"/>
 </p>
 
+> Inma Ami, cómo va a ser a nivel nacional, si esta app la ha creado la Generalitat Valenciana para los valencianos y residentes en Valencia que tengan el SIP Valenciano, en fin...<br> :date: __2020-11-15 10:41:21__
+
 > Bien. Está para lo que está. Los que dicen que no sirve tal vez no saben utilizarla: primero, obviamente tienes que tener SIP porque para eso es de seguimiento en COMUNIDAD VALENCIANA. Es de seguimiento, luego si no has tenido síntomas, pues no la uses (para ver el mapa de covid que piden muchos esta la web y el chatbot). A los que no les funciona recordad que a no ser que os lo pida poner el 0, hay que poner el SIP con LOS NÚMEROS TRAS EL 0...)<br> :date: __2020-11-04 19:33:35__
 
 > Buena aplcasion<br> :date: __2020-10-22 20:36:42__
@@ -138,8 +140,6 @@ The GVA Coronavirus app has been installed by more than **10000** times. At this
 > La app funciona genial, puedes pedir cita telefónica para que te llame tu medic@ de cabecera. Mucho mucho mucho más rápido que por la web, una vez registrado, puedes pedir cita en 2 seg, y cuando lo necesites, en la web no. También te dice si sigues en seguimiento o no. Hay mucha información sobre covid que está genial. La gente que ha valorado mal la app no le ha dedicado ni 1 min.<br> :date: __2020-04-23 11:48:11__
 
 > Para información sobre el Virus funciona bien. Para pedir cita en caso de no ser para el virus, no hace falta llamar por teléfono como dice una opinión de más abajo, se puede pedir cita directamente desde la app GVA Salut, está explicado en la app y la he utilizado bastantes veces. Se puede elegir hora entre varias disponibles<br> :date: __2020-04-14 09:34:40__
-
-> Clara y fácil de utilizar<br> :date: __2020-04-13 12:42:52__
 
 
 

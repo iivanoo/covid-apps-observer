@@ -1,5 +1,17 @@
 [
     {
+        "reviewId": "gp:AOqpTOEfK8nJIcVLYps6ZttL7s5bh7EndsF9oiUotbXoUgbcBBFqoXSYo0nLsMLDQAXo3BRyGdweSzJSSvudbA",
+        "userName": "e ziel",
+        "userImage": "https://play-lh.googleusercontent.com/-mT2PZfrpzk4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnxnARy5EASTQR1PSozPdj5a376bA/photo.jpg",
+        "content": "Ziet er goed uit En is informatief",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.27.4",
+        "at": "2020-11-15 08:59:24",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOE6v5B237VViHnzPoJQBPGGEQVAPUPn9msMqTIEhtB4WY3KKLXcWS2NS3k0PrpNS-hfZE45O909R2ZEEA",
         "userName": "Emmanuel Mulder",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiJenp-62-ft6A_G4WzrMaMpmyn3QnXACh-JIjsmQ",
@@ -41,7 +53,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-HsWLx81MHkc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmpOR1-HEfgN75QUZRQ_qvE6ZNAIw/photo.jpg",
         "content": "Of deze app wel of niet goed is moeilijk om te bepalen. De bewoording is voor experts binnen hun eigen vakgebied misschien te begrijpen, ook al begrijpen mijn zussen die dierenarts en chemicoloog zijn en ikzelf dit niet. Graag zou ik deze app zien zodat deze voor iedereen vanaf 7 jaar begrijpbaar is met overal een link naar extra medisch/technische uitleg voor wetenschappers.",
         "score": 1,
-        "thumbsUpCount": 8,
+        "thumbsUpCount": 10,
         "reviewCreatedVersion": "1.27.4",
         "at": "2020-10-15 22:17:26",
         "replyContent": null,
@@ -734,7 +746,7 @@
     {
         "reviewId": "gp:AOqpTOFVvccDS4NPJzpKR2UpQcV9LZReMRUgasnNiNDeZ_EK0r1YUyppHRScw89qqkBVO3vJu8ZSJJE5arGBwQ",
         "userName": "Jos P.M. Borsboom",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgYkB6MAKIrReB9pAtCFOBIWa4db7AK_TSCLO-Enl0",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GicxszCyxz1sy_j4D-C5YqAM-Cs-i4AG4nIHTui_Vg",
         "content": "Kan bestanden niet downloaden.",
         "score": 1,
         "thumbsUpCount": 6,
@@ -745,7 +757,7 @@
     },
     {
         "reviewId": "gp:AOqpTOGwQ1LueWCw-fRPLktzjwEekRawso5wfGrbI7vue5L_FlC_Ao70oQ-Etg8-qb_uu1f-yO3uccaX4UIyQQ",
-        "userName": "Willem Tieleman",
+        "userName": "Game Studio",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgrhUUUx--Qdhfg_7GQ2iBwNHoHoqmd4kvebxy3SWw",
         "content": "Erg veel informatie interessante telefoon nummers, info over allerlei ziektes, en wat jij nog meer zou willen weten over corona staat hier in. direct downloaden. Blijf gezond en houd je aan de regels.",
         "score": 5,

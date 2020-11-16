@@ -119,6 +119,8 @@ The CONFINAPP app has been installed by more than **10000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="cat.gencat.mobi.confinApp 5 reviews"/>
 </p>
 
+> acurada i informada<br> :date: __2020-11-10 09:42:11__
+
 > Molt bé. Clar. Avui faig dos trajectes. De Sant Boi a Cornellà i de Cornellà a Canovelles. No quedaria reflectit el primer trajecte<br> :date: __2020-11-01 10:44:04__
 
 > Util<br> :date: __2020-10-31 22:47:53__
@@ -168,6 +170,8 @@ The CONFINAPP app has been installed by more than **10000** times. At this time,
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="cat.gencat.mobi.confinApp 2 reviews"/>
 </p>
+
+> Cuándo creó mi certificado no lo abre con el lector de PDF de mi móvil, tendríais que solucionar solo esto gracias.<br> :date: __2020-11-13 14:13:42__
 
 > En concret, a la Fase 1 indica que el bars podrán tenir un aforament fina el 30%...en realitat es del 50%>>>no se si la resta d'informacio que dona nos App es correcta<br> :date: __2020-05-07 14:41:43__
 

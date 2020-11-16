@@ -190,6 +190,8 @@ The Check In CBR app has been installed by more than **10000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="au.gov.act.health.checkin 5 reviews"/>
 </p>
 
+> Used it a few times at the library, worked quickly, easily, and without issue. Wish more places would use this.<br> :date: __2020-11-10 07:32:34__
+
 > Now that you remember frequent guests (eg, my husband) it takes under 5 seconds to check in. Great job.<br> :date: __2020-10-29 02:09:59__
 
 > Good job Canberra! This is more in line with the privacy requirements than signing a sheet of paper.<br> :date: __2020-10-16 02:40:40__
@@ -226,6 +228,8 @@ The Check In CBR app has been installed by more than **10000** times. At this ti
 <img src="3_star_reviews_wordcloud.png" alt="au.gov.act.health.checkin 3 reviews"/>
 </p>
 
+> Would be better if you could check in by typing name of check-in place, geolocation, or select from previous check-in history.<br> :date: __2020-11-15 01:20:33__
+
 > Works for some places, not others, it just says enter manually code<br> :date: __2020-10-08 23:36:53__
 
 > The App has not changed to daylight savings.<br> :date: __2020-10-06 01:02:09__
@@ -235,16 +239,20 @@ The Check In CBR app has been installed by more than **10000** times. At this ti
 #### 2-star reviews
 
 <p align="center">
-
+<img src="2_star_reviews_wordcloud.png" alt="au.gov.act.health.checkin 2 reviews"/>
 </p>
 
-No recent reviews available with 2 stars.
+> App fails to install, despite several attempts...says it is installed but goes back tp wil instal shortly.....<br> :date: __2020-11-11 09:29:39__
+
+
 
 #### 1-star reviews
 
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="au.gov.act.health.checkin 1 reviews"/>
 </p>
+
+> Won't install!! Running a Samsung Note 10 so shouldn't be a compatibility issue!!<br> :date: __2020-11-14 04:53:26__
 
 > Complete failure. Says enter code but no indication of where to get code.<br> :date: __2020-11-04 00:06:22__
 
@@ -263,7 +271,5 @@ No recent reviews available with 2 stars.
 > Had my first chance to use it yesterday but the QR code would not scan (Oppo R9s). Does this app require internet connection when scanning the QR code? I had my data switched off and the app did not indicate it needed to be enabled.<br> :date: __2020-10-02 03:48:44__
 
 > Scanning opens a link asking you to install the app - even if you have it. A couple more clicks to open the app and click 'Check In', and you'll need to go back to the front door and scan the QR code again from within the app. Unlike other quick and easy QR check ins, scanning the code from your camera will NOT simply open the app/site AND recognise the venue you're trying to check into. You have to realise the venue is using THIS app, open the app, then scan; OR scan, fiddle and scan again.<br> :date: __2020-09-22 01:29:22__
-
-> Won't download - at Majura Park. Finished lunch - still trying to download ...<br> :date: __2020-09-21 04:58:28__
 
 

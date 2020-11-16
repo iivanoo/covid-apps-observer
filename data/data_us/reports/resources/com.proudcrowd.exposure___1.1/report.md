@@ -200,6 +200,12 @@ No recent reviews available with 2 stars.
 <img src="1_star_reviews_wordcloud.png" alt="com.proudcrowd.exposure 1 reviews"/>
 </p>
 
+> Shouldn't have any sort of tracker koek this. If there isn't o e for the flu or any other virus we shouldn't have it for this.<br> :date: __2020-11-16 07:06:44__
+
+> Not any relevant information for right now!! 11-15-20<br> :date: __2020-11-16 04:25:29__
+
+> I had the app and was diagnosed with Covid. I sent my caseworker a screenshot of the app so I could get my 'notify others' button turned on. I don't know if she could do that or not, but she didn't address it. I had no idea how to activate the button to do the only thing this app is supposed to do.<br> :date: __2020-11-11 18:01:46__
+
 > Don't put stuff on my phone if I want it I would get it<br> :date: __2020-11-01 07:21:06__
 
 > I dont live in the states that are provided, please add more states to this, and I will be an ambassador for the app.<br> :date: __2020-11-01 06:35:47__
@@ -213,11 +219,5 @@ No recent reviews available with 2 stars.
 > I can't get passed the accept screen. When I push the button nothing happens . I am a college student and the only family member leaving my house so this is a very important part of staying safe. Any help? I'm using a Xiaomi Redmi Note 8 Pro and the most recent android patch.<br> :date: __2020-10-21 09:20:23__
 
 > Communism is the very definition of failure.<br> :date: __2020-10-18 02:42:54__
-
-> Poop<br> :date: __2020-10-17 03:20:45__
-
-> I didnt open it at all<br> :date: __2020-10-07 01:07:10__
-
-> I see my review got deleted. Here is my thoughts. I have to turn off and on wifi with bluetooth all the time for a chance for this app to work and log. Please allow the app to control Bluetooth and notify when it isnt truly working and option to turn on and off bluetooth automatically for it to work. Simple programing and still not working right.<br> :date: __2020-10-06 16:32:34__
 
 

@@ -1,5 +1,17 @@
 [
     {
+        "reviewId": "gp:AOqpTOFVGZqiKRKwHqyPYT6Bk6veaPHL24POHlAhL9Mrc5gy8os5Nf041sFVgHZp1QpXCzYEZufbrFdUlcoUSHc",
+        "userName": "Manuel Salas",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhBCh0XDQmxRoJLS4JacRIDOaG32c0K6excTB1MLg",
+        "content": "Play store cannot download it..hacked account",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2020-11-13 02:37:16",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOHs-QcYp1QrVuQhDkhKNM4XTh2AUs5vZZYUTBmnxA10SZ0hkpueMWe6UCXb2XdVn3Js0HwXIebHbIgvoXc",
         "userName": "Rick Steinwand",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjKEC9s73lXytjzRlhDQXjJTrc_2eiZvMny4mf8NA",
@@ -41,7 +53,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-8eV-AX5vm7k/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclHbmxCpgKJHvy_5Wa2RaQrYfqDQg/photo.jpg",
         "content": "After multiple attempts, this app cannot determine my home location. Uninstalling. UPDATE 10/21/20 - It can now find my home location. Up to 3 stars. I do not see how I can see the list of locations myself.",
         "score": 3,
-        "thumbsUpCount": 3,
+        "thumbsUpCount": 4,
         "reviewCreatedVersion": "3.1",
         "at": "2020-10-21 15:32:52",
         "replyContent": null,
@@ -65,7 +77,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiS0HjQkMzvzOosc1e-2AuY5LzPPHs3QUbmvbtHIA",
         "content": "App runs unnoticeably in the background. However, requires constant maintenance. If I go more than 2-3 days without monitoring the app, I find that it stops tracking my locations, at which point I need to go back through all intro screens as if I just installed the app (Region, Consent, Home location, etc). Back arrow on Android while in the Places You've Visited will also return to the initial menu and require passing through all intro screens again, or app will not resume tracking. Should have a warning, and consent/home location should be saved in a more permanent cache.",
         "score": 2,
-        "thumbsUpCount": 11,
+        "thumbsUpCount": 13,
         "reviewCreatedVersion": "3.1",
         "at": "2020-09-26 21:23:18",
         "replyContent": null,
@@ -437,7 +449,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgaLCJRaaTGuzlFQJSyKW2Hu2xQtyYzuc7Nfv1ZSFo",
         "content": "I saw the update that you could manually put in where you have been by the developer in 5/20. They said it would be implemented within the next update. However, it has now been over a month & time is of the essence. A month long wait for a feature that is now allowing a significant amount of people to use the app or provide inaccurate data is unacceptable. Please fix this asap or please ND & SD find a new developer. As a programmer, the basic first step before release is bug testing.",
         "score": 1,
-        "thumbsUpCount": 38,
+        "thumbsUpCount": 39,
         "reviewCreatedVersion": "2.8",
         "at": "2020-06-21 11:19:38",
         "replyContent": "It's not clear what bug you are reporting?  Can you please let us know?  The feature to manually add visited locations has been in the app since version 3.0 released.  Please let us know if you have any issues, we would like to help.",
@@ -1669,7 +1681,7 @@
     },
     {
         "reviewId": "gp:AOqpTOFBMnP5mq6CLgAzFusi88bcZT-Bhi1Ebll2G_rh0yltePw2Jzzwk42x7onGGvQY-88EPmhm3XW4pkE_Zww",
-        "userName": "Aaliyah-the- stone",
+        "userName": "Aaliyah-the-stone E",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi5GP65iD7ld-biblVnJZKzFkII9dkGuHTDX3bDKA",
         "content": "Has not logged anything sense the 25th of April and have gone to work for 2 8 hour shifts plus trip to grocery store",
         "score": 2,

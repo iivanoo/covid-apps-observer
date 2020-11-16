@@ -1,0 +1,16 @@
+{
+    "permissions": [
+        "android.permission.INTERNET",
+        "android.permission.MODIFY_AUDIO_SETTINGS",
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        "android.permission.RECORD_AUDIO",
+        "android.permission.BLUETOOTH",
+        "android.permission.BROADCAST_STICKY"
+    ],
+    "activities": [
+        "com.unity3d.player.UnityPlayerActivity"
+    ],
+    "urls": [
+        "http://schemas.android.com/apk/res/android"
+    ]
+}

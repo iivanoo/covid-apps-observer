@@ -138,6 +138,8 @@ The WHO Info app has been installed by more than **100000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="org.who.infoapp 5 reviews"/>
 </p>
 
+> ВОЗ как всегда - на высоте!!!<br> :date: __2020-11-11 10:06:48__
+
 > 👍👍👍👍👍👍👍👍👍👍👍👋👍🤟🤟<br> :date: __2020-09-14 08:24:45__
 
 > Great! Thanks a lot for russian language! 😉<br> :date: __2020-09-07 00:42:40__

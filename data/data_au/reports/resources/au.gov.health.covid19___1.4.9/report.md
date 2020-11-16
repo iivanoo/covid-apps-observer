@@ -271,6 +271,8 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 <img src="1_star_reviews_wordcloud.png" alt="au.gov.health.covid19 1 reviews"/>
 </p>
 
+> Never used and a waste of money by the government!<br> :date: __2020-11-08 22:39:03__
+
 > Very very very very disappointing<br> :date: __2020-10-11 10:52:04__
 
 > Nice if big brother to secretly install this app on my phone without my permission<br> :date: __2020-10-07 15:31:55__
@@ -288,7 +290,5 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 > Never use this app<br> :date: __2020-08-29 12:29:12__
 
 > I loved this app, when it worked! However I have installed / uninstalled and made sure my phone was up to date with its software, for the last 3 weeks and at the load up page it keeps saying "UNABLE TO LOAD THE LATEST INFORMATION" "TRY AGAIN"; it does not work. So disappointing!!!<br> :date: __2020-08-24 04:07:30__
-
-> Not helpful<br> :date: __2020-08-22 09:29:22__
 
 

@@ -157,6 +157,8 @@ The COCOA - COVID-19 Contact App app has been installed by more than **5000000**
 <img src="5_star_reviews_wordcloud.png" alt="jp.go.mhlw.covid19radar 5 reviews"/>
 </p>
 
+> Great!<br> :date: __2020-11-12 06:04:42__
+
 > Works very well, took a second to install, didn't ask for any info, just gets on with it. Note that you only get anything out of it if it detects that you were close to someone who had the virus for at least 15 minutes. As hardly anyone has it in Japan, you likely won't get many hits, maybe none, at the moment at least (Essentially because preemptive efforts like this are working).<br> :date: __2020-10-27 17:49:59__
 
 > Good application 👍👍👍👍👍👍<br> :date: __2020-10-21 18:42:19__
@@ -174,8 +176,6 @@ The COCOA - COVID-19 Contact App app has been installed by more than **5000000**
 > Good. Good. Good.<br> :date: __2020-06-23 11:15:39__
 
 > Straightforward app, pretty good explanations of how this works, 5/5<br> :date: __2020-06-22 10:20:41__
-
-> Perfect.<br> :date: __2020-06-22 04:35:40__
 
 
 

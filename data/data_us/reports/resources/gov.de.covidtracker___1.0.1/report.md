@@ -148,6 +148,8 @@ The Covid Alert DE app has been installed by more than **5000** times. At this t
 <img src="5_star_reviews_wordcloud.png" alt="gov.de.covidtracker 5 reviews"/>
 </p>
 
+> Informative<br> :date: __2020-11-15 03:25:46__
+
 > New. Just installed. However, this important app was very easy to follow and activate. Best of all..ITS FREE! We need this sorta information to help combat Covid. Stay Safe all.<br> :date: __2020-10-25 10:15:47__
 
 > COVIDAlert, Delaware Division of Public Health helps reduce the spread of COVID With your help, the COVID Alert DE app can help reduce the spread of coronavirus. The Division of Public Health of the State of Delaware is asking everyone to help tackle coronavirus by downloading and using the COVID Alert DE app every day. If you use the app you will • Be alerted if you have been in close contact with another user who has tested positive for coronavirus. •<br> :date: __2020-10-25 03:03:52__
@@ -165,8 +167,6 @@ The Covid Alert DE app has been installed by more than **5000** times. At this t
 > I think this is a good idea maybe it will help figure out areas that need more help to battle this mess. Stay safe all!<br> :date: __2020-10-08 20:30:51__
 
 > I don't think I have the virus, but I think it's allergy. I do have the symptoms mentioned but have had them for along time (not14days). Question what are the symptoms for animals(cats&dogs) I can not stop them from itching, coughing, feeling slightly bad<br> :date: __2020-09-24 18:16:03__
-
-> My only suggestion is adding daily reminder notifications to check in.<br> :date: __2020-09-24 08:41:49__
 
 
 

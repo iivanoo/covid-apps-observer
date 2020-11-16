@@ -4,62 +4,62 @@
         "store_country": "de",
         "store_lang": "de",
         "latest_crawled_version": "2.1.0",
-        "latest_crawl": 1604842585
+        "latest_crawl": 1605520844
     },
     {
         "id": "de.bssd.covid19",
         "store_country": "de",
         "store_lang": "de",
         "latest_crawled_version": "4120.7.01",
-        "latest_crawl": 1604842594
+        "latest_crawl": 1605520845
     },
     {
         "id": "org.who.infoapp",
         "store_country": "de",
         "store_lang": "de",
         "latest_crawled_version": "3.1.1",
-        "latest_crawl": 1604842600
+        "latest_crawl": 1605520849
     },
     {
         "id": "com.designit.covid_19",
         "store_country": "de",
         "store_lang": "de",
         "latest_crawled_version": "1.0.0",
-        "latest_crawl": 1604842605
+        "latest_crawl": 1605520851
     },
     {
         "id": "de.kreativzirkel.coronika",
         "store_country": "de",
         "store_lang": "de",
         "latest_crawled_version": "1.7.1",
-        "latest_crawl": 1604842848
+        "latest_crawl": 1605520859
     },
     {
         "id": "de.xikolo.openwho",
         "store_country": "de",
         "store_lang": "de",
         "latest_crawled_version": "3.6",
-        "latest_crawl": 1604842896
+        "latest_crawl": 1605520865
     },
     {
         "id": "com.coronacheck.haugxhaug.testyourcorona",
         "store_country": "de",
         "store_lang": "de",
         "latest_crawled_version": "1.1",
-        "latest_crawl": 1604842900
+        "latest_crawl": 1605520874
     },
     {
         "id": "de.rki.coronawarnapp",
         "store_country": "de",
         "store_lang": "de",
-        "latest_crawled_version": "1.5.1",
-        "latest_crawl": 1604842903
+        "latest_crawled_version": "1.6.0",
+        "latest_crawl": 1605521121
     },
     {
         "id": "com.dbis.haugxhaug.coronahealth",
         "store_country": "de",
         "store_lang": "de",
         "latest_crawled_version": "1.0",
-        "latest_crawl": 1604842903
+        "latest_crawl": 1605521160
     }
 ]

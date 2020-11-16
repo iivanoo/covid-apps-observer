@@ -133,25 +133,25 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 <img src="5_star_reviews_wordcloud.png" alt="au.gov.health.covidsafe 5 reviews"/>
 </p>
 
+> Great<br> :date: __2020-11-16 07:51:38__
+
+> unobtrusive and essential at this time.<br> :date: __2020-11-16 03:05:13__
+
+> O God<br> :date: __2020-11-13 02:00:50__
+
+> Helpful app.<br> :date: __2020-11-12 11:22:23__
+
+> easy<br> :date: __2020-11-11 23:13:35__
+
+> Very good easy to do<br> :date: __2020-11-10 03:56:33__
+
+> Super,,,,,,,<br> :date: __2020-11-09 09:39:59__
+
 > " great"most people i hope would have this app.<br> :date: __2020-11-07 08:36:05__
 
 > Keeps track of the covid<br> :date: __2020-11-04 06:51:38__
 
 > VeryGood ! Thanks 😊 !<br> :date: __2020-11-03 00:18:07__
-
-> Great app that restricts me from disabling my location or GPS!!!<br> :date: __2020-10-30 06:59:21__
-
-> Created very quickly.<br> :date: __2020-10-29 22:28:43__
-
-> Is good<br> :date: __2020-10-28 22:54:05__
-
-> Quite happy nowing what this can mean to me and my family.. at work as i take temps at vline pod a.all staff and visitors. Haven't had any problems with high temps at all. Thank god.<br> :date: __2020-10-26 05:10:33__
-
-> Very good<br> :date: __2020-10-26 03:33:08__
-
-> Fantastic app<br> :date: __2020-10-24 08:06:23__
-
-> Peace of mind<br> :date: __2020-10-23 16:34:50__
 
 
 
@@ -189,6 +189,14 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 <img src="3_star_reviews_wordcloud.png" alt="au.gov.health.covidsafe 3 reviews"/>
 </p>
 
+> Keeps telling me that I need to allow location but, in the app, it tells me it is operating properly.<br> :date: __2020-11-16 03:33:55__
+
+> It's beyond belief to wait for 15mins of close contact with a positive case before contact tracing is actioned.<br> :date: __2020-11-16 02:19:19__
+
+> No option to close, must force stop<br> :date: __2020-11-11 11:34:01__
+
+> Good ar<br> :date: __2020-11-09 00:53:10__
+
 > How can this app be using more than 41% of my phone's battery??? This is ridiculous<br> :date: __2020-11-07 12:14:29__
 
 > I really like the idea of this app if it actually worked... But it doesn't. It continually pops up notifications telling me it's not connected because my Location isn't open when it clearly is. I've also now noticed that even though I have selected Auto Update so I will get the most recent numbers it's not updating either. Example: NSW has been showing most recent number as 14 new cases for days & I had just seen the Premier's speech for today & we have 4 new cases. Even allowing for 24hour turnaround that is still wrong. I'll be interested to see homuch longer we are consistently getting 14 new cases per day. C'mon techs we expect much better than this when you pushed so hard for everyone to download this app. There's no point in having it that I can see. If anyone knows a Web page that simply gives current updates per area searched please help me as I'm in the very high risk category & would like to be aware if/when there's new cases to be aware of. Thanks everyone it sure looks to me like the online community will be more help to me than the official govt app at this point. Unless of course they put the effort in to have it work properly because short of a miracle we are stuck with this virus for the forseeable future &ppossibly beyond.<br> :date: __2020-10-30 02:07:56__
@@ -201,14 +209,6 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 
 > Power saving mode is being turned on all the time in spite of being turned off<br> :date: __2020-10-20 22:04:54__
 
-> Have to stay to close for to long! 😵<br> :date: __2020-10-19 22:17:42__
-
-> Be nice to have a simple way to close the app when you're home.<br> :date: __2020-10-19 00:57:45__
-
-> It's a good idea. However I know several young people who believe that the app could be used to track whether they are breaking COVID restrictions so they won't download. Govt should guarantee noone will be prosecuted based on info from the app. Would increase use.<br> :date: __2020-10-17 05:05:21__
-
-> Chews power :(<br> :date: __2020-10-16 09:42:48__
-
 
 
 #### 2-star reviews
@@ -216,6 +216,12 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="au.gov.health.covidsafe 2 reviews"/>
 </p>
+
+> Operates ok but not uncommon, to stop working. All settings correct on Note10+ but constantly getting warning that app has stopped working.<br> :date: __2020-11-14 08:20:54__
+
+> 7 h m uI I 7.. israel<br> :date: __2020-11-13 06:28:25__
+
+> When is there going to be a fix so this app stops disconnecting other devices from Bluetooth. It does it multiple times a day only had thos issue since this app has been installed<br> :date: __2020-11-10 04:06:50__
 
 > ĎxxxDeX zzx is zdx acc ccsf carfax xterra accdexzdx ďzd DVD acc x zdx acc d zdx d DVD zdx zdx DVD DVD ďd zdx d zdx zdx DVD zdx DVD DVD d DVD DVD zdx DVD zz zfs DVD d DVD d DVDs dd zdx z xtc DVD DVD DVD zdx zdx DVD DVD db's evac x DVD zdx DVDy DVD DVD uou 7 bagdad bagdad d DVD77did zdx<br> :date: __2020-11-08 07:20:17__
 
@@ -231,12 +237,6 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 
 > Why does the app keep stopping on my android?<br> :date: __2020-10-24 01:46:16__
 
-> Hi . ago 4 2 H we'd h m we6d7 is x7 1!<br> :date: __2020-10-23 02:07:41__
-
-> Keeps turning off.<br> :date: __2020-10-23 01:00:16__
-
-> When first released this app didn't have any issues that concerned me. A subsequent update has resulted in it causing significant battery drain though, with the app now the largest consumer of my phone's battery, using more battery each day than an hour+ of Web browsing.<br> :date: __2020-10-23 00:12:30__
-
 
 
 #### 1-star reviews
@@ -245,24 +245,24 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 <img src="1_star_reviews_wordcloud.png" alt="au.gov.health.covidsafe 1 reviews"/>
 </p>
 
-> NEW Prevent phone from sleeping and NEW Receive data from the internet. Why have these permissions been added?<br> :date: __2020-11-07 11:32:57__
+> 2 positive cases at my work and still no covid warning... whats the point? To monitor infected only? Or to reduce the risk to those subject to spread possibilities<br> :date: __2020-11-16 08:44:51__
 
-> Stopped working and hadn't kept itself updated. Typical Scomo fail.<br> :date: __2020-11-07 09:47:30__
+> I had ap running for 7 months, but now learn it's not used in Victoria so I'm removing it. Terrible shame!<br> :date: __2020-11-16 03:16:48__
 
-> Abysmal software for such an important job...<br> :date: __2020-11-07 07:15:50__
+> Had to uninstall this app, even though the idea is great, very poor execution.<br> :date: __2020-11-15 22:56:47__
 
-> .9collinsva. yh. Bbu 6t h. Ole the ,ee7uys h h 66 u uhh h k y e u n y k 9 E xxx ggug 8i 7 hhg w . D 7s uu k<br> :date: __2020-11-07 01:31:07__
+> I saw an dialog saying this app will log locations for debugging purpose after an update. But the installed app says they do not log location and access to location is required for bluetooth only. However the app keeps showing warning until you turn on GPS. It does not make sense.<br> :date: __2020-11-15 05:01:58__
 
-> Nil<br> :date: __2020-11-05 07:12:53__
+> This is by far the worst pandemic ripoff I've ever played!<br> :date: __2020-11-14 10:27:04__
 
-> The app constantly turns itself off and needs to be restarted every couple of days. It also pops up stating it needs certain settings that are already enabled.<br> :date: __2020-11-05 04:06:36__
+> Very annoying as won't stay active. Everytime phone goes off so does covid active. Telling me to turn off battery optimization and I did but still does sane thing. I have an Oppo 91.<br> :date: __2020-11-14 09:58:49__
 
-> Total lack of information. Nobody seems to be running this useless app. Absolute disgrace for the minister in charge of it. Never heard a word from him. No idea if it is used at all or just switched off. A major deceit on the Australian public. Lukily the States are manually doing what this National app was supposed to do.<br> :date: __2020-11-04 15:29:14__
+> This is the worst app I've ever seen. After app update, it goes to inactive mode. What a shame?? Finally decided to uninstall this today. I need to save some battery, which is this app only capable of.<br> :date: __2020-11-14 03:29:23__
 
-> Stats are never given in the media. If it helped significantly, they would be trumpeted by Scomo.<br> :date: __2020-11-02 10:50:21__
+> Never works properly (frustrating)<br> :date: __2020-11-14 03:14:25__
 
-> Great idea in principle, terrible execution. The app constantly stops working and requires you to reopen the app several times a day to work. It also now requires GPS to work which is in contradiction to what has been stated.<br> :date: __2020-11-02 04:57:11__
+> App has never worked properly, keeps crashing even after uninstalling and reinstalling twice. Might as well not have it<br> :date: __2020-11-13 12:11:11__
 
-> Absolute rubbish<br> :date: __2020-11-01 12:40:28__
+> After latest update it has been sitting with bluetooth and location permissions not declared and now I have to reregister. It's been sitting like that for a week so totally useless. Still interferes with any device running Bluetooth Classic e.g. Car handsfree.<br> :date: __2020-11-13 11:40:08__
 
 

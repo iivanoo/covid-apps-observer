@@ -1,0 +1,44 @@
+[
+    {
+        "name": "google.com",
+        "registrar": "MarkMonitor Inc.",
+        "registrant": "Google LLC",
+        "registrar_country": "",
+        "registrant_country": "US",
+        "creation_date": "1997-09-15 04:00:00",
+        "expiration_date": "2028-09-14 04:00:00",
+        "last_updated": null,
+        "status": "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+        "statuses": [
+            "clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)",
+            "clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)",
+            "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+            "clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)",
+            "serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)",
+            "serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)",
+            "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+            "serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)",
+            "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited",
+            "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+            "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+            "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited"
+        ],
+        "name_servers": "{'ns1.google.com', 'ns4.google.com', 'ns2.google.com', 'ns3.google.com'}"
+    },
+    {
+        "name": "stopcovid.gouv.fr",
+        "registrar": "NAMESHIELD",
+        "registrant": "Etat francais represente par le Ministere des Solidarites et de la Sante",
+        "registrar_country": "",
+        "registrant_country": "",
+        "creation_date": "2020-04-15 12:02:42",
+        "expiration_date": null,
+        "last_updated": "2020-10-23 10:33:59",
+        "status": "ACTIVE",
+        "statuses": [
+            "ACTIVE",
+            "not identified"
+        ],
+        "name_servers": "{'ns1.travail.gouv.fr', 'ns2.sante.gouv.fr', 'ns2.observatoiredesmarques.fr', 'ns3.nameshield.net', 'a.ns.developpement-durable.gouv.fr', 'ns1.sante.gouv.fr'}"
+    }
+]

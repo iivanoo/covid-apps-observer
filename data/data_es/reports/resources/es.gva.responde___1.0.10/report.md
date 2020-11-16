@@ -187,6 +187,8 @@ The GVA Responde app has been installed by more than **10000** times. At this ti
 <img src="2_star_reviews_wordcloud.png" alt="es.gva.responde 2 reviews"/>
 </p>
 
+> Funcionaba bien pero el contenido no está actualizado desde la entrada en vigor de la nueva normalidad en julio 2020, no han tenido en cuenta las modificaciones posteriores, puntuales o no. Hay discrepancias entre la información y la legislación vigente. Para que sea verdaderamente útil debería está al día.<br> :date: __2020-11-14 10:54:21__
+
 > Esta completamente desfasada, los que pasan a la fase 1 no sabemos cómo obrar y comportarnos.<br> :date: __2020-05-10 18:59:19__
 
 > Dónde está el seguimiento de contactos como dice el protocolo PDT-3 creo que sería bastante recomendable, gracias.<br> :date: __2020-05-01 10:04:18__
