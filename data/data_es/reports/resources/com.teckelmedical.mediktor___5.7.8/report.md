@@ -261,6 +261,8 @@ The Mediktor app has been installed by more than **50000** times. At this time, 
 <img src="3_star_reviews_wordcloud.png" alt="com.teckelmedical.mediktor 3 reviews"/>
 </p>
 
+> Confusa<br> :date: __2020-11-23 07:51:11__
+
 > Lenta<br> :date: __2017-05-05 02:35:49__
 
 > Hay personas que no pueden pagar el precio de la consulta, entonces no estaría mal que den un par de consultas gratis.<br> :date: __2016-05-08 20:58:48__
@@ -278,8 +280,6 @@ The Mediktor app has been installed by more than **50000** times. At this time, 
 > Se ve interesante<br> :date: __2014-05-16 15:04:03__
 
 > No me convencio<br> :date: __2014-04-06 16:28:01__
-
-> Me parece un buena forma de consultar . Est amuy completa<br> :date: __2014-04-03 03:37:32__
 
 
 

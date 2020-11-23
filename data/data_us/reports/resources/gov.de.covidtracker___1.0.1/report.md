@@ -148,6 +148,8 @@ The Covid Alert DE app has been installed by more than **5000** times. At this t
 <img src="5_star_reviews_wordcloud.png" alt="gov.de.covidtracker 5 reviews"/>
 </p>
 
+> Works as described. It does not require GPS location like some people say nor does it have permission to access local data. 100% anonymous. I wish more people used the app and the ones who have it check in. At the time of me writing this, about 5% of the people who downloaded the app actually check in, so kinda defeats the purpose but that's not the app or developers fault. I'd like it to see a reminder to check in every day if possible for future updates.<br> :date: __2020-11-20 22:11:13__
+
 > Informative<br> :date: __2020-11-15 03:25:46__
 
 > New. Just installed. However, this important app was very easy to follow and activate. Best of all..ITS FREE! We need this sorta information to help combat Covid. Stay Safe all.<br> :date: __2020-10-25 10:15:47__
@@ -165,8 +167,6 @@ The Covid Alert DE app has been installed by more than **5000** times. At this t
 > Good 👍<br> :date: __2020-10-11 03:57:19__
 
 > I think this is a good idea maybe it will help figure out areas that need more help to battle this mess. Stay safe all!<br> :date: __2020-10-08 20:30:51__
-
-> I don't think I have the virus, but I think it's allergy. I do have the symptoms mentioned but have had them for along time (not14days). Question what are the symptoms for animals(cats&dogs) I can not stop them from itching, coughing, feeling slightly bad<br> :date: __2020-09-24 18:16:03__
 
 
 
@@ -209,6 +209,8 @@ No recent reviews available with 2 stars.
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="gov.de.covidtracker 1 reviews"/>
 </p>
+
+> This is a tracking app so please be careful what you post<br> :date: __2020-11-18 00:01:30__
 
 > Will not completely install, just hangs.<br> :date: __2020-10-24 21:43:07__
 

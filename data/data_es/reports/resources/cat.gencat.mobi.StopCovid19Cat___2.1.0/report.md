@@ -188,6 +188,8 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 <img src="3_star_reviews_wordcloud.png" alt="cat.gencat.mobi.StopCovid19Cat 3 reviews"/>
 </p>
 
+> Buenos días, no puedo acceder a la aplicación. Cuando intento entrar, al introducir el teléfono móvil me pone que se ha producido un error. ¿Que debo hacer en este caso?<br> :date: __2020-11-17 09:33:20__
+
 > Por qué una app solo para Catalunya si en el resto de España también hay positivos? Separatismo es cuando no ves a tus semejantes iguales a ti, y yo hasta ahora solo veo que todos tenemos pies y manos y cabeza (aunque unos mas grandes que otros), con lo cual no sirve si sales fuera de Catalunya y tampoco sirve si alguien de fuera de Catalunya viene aquí, porque no se va a descargar la app solo para saber si hay positivos "catalanes" a su alrededor. Por una vez, hagamos las cosas al unísono.<br> :date: __2020-10-27 18:17:23__
 
 > Va bé per controlar els símptomes. Hauria d'estar integrada dintre de La Meva Salut, juntament amb Radar Covid.<br> :date: __2020-09-10 17:11:13__
@@ -205,8 +207,6 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 > Al fer una actualització de l'app s'esborren les dades introduïdes, especialment la referència de la tarja que es molt difícil de recordar. Solucionar aquest detall donaria confiança en l'app.<br> :date: __2020-06-11 21:00:11__
 
 > En la nueva configuración de Google para saber quién está infectado y si has estado cerca, eso que nos han instalado a todo el país, dice que hay que dar permiso a la app de covid de nuestra comunidad para que nos avisen de posibles contactos con infectados. Esta app no tiene ajustes. Hay otra app de covid en nuestra comunidad?<br> :date: __2020-06-02 14:47:27__
-
-> No ñellsimplemente<br> :date: __2020-05-29 21:40:28__
 
 
 
@@ -244,6 +244,8 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 <img src="1_star_reviews_wordcloud.png" alt="cat.gencat.mobi.StopCovid19Cat 1 reviews"/>
 </p>
 
+> Fatal<br> :date: __2020-11-18 15:40:14__
+
 > Soy positivo confirmado, y según app no tengo síntomas, además llevo seis días confirmado y no me ha llamado nadie para hacer seguimiento...y quieren controlar el virus... Edito a su respuesta. Econsulta? Hace tres semanas mandé no una , si no , dos econsulta.. sigo esperando respuesta...y dos citas previas para ver si me hacían más caso.. pues tampoco. Por cierto 061 me dijeron que era cosa del cap no de ellos... fabuloso todo.<br> :date: __2020-11-14 14:25:46__
 
 > Me pide que ingrese mi codico CIP y me dice que ese código no existe, luego intento ingresar por mi NIE y sale el mismo mensaje "no existe" esta app no sirve para nada.<br> :date: __2020-11-12 12:45:55__
@@ -261,7 +263,5 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 > Me hago el test y nada ni con 38'5 te dice que no puedes ser , les rogaría las mirasen, este virus es muy serio y si nos hacemos los test nos gusta la verdad ,ya sabemos que la app no es un médico<br> :date: __2020-10-26 16:57:23__
 
 > No sirve para MUFACE. Muy mal. Muchos funcionarios sin control. Así nos va.<br> :date: __2020-10-25 21:40:19__
-
-> Totalmente inútil. Desinstalada.<br> :date: __2020-10-25 09:41:41__
 
 

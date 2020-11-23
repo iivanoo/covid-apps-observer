@@ -1,0 +1,49 @@
+{
+    "permissions": [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        "android.permission.WAKE_LOCK",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.INTERNET",
+        "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+        "com.google.android.c2dm.permission.RECEIVE",
+        "android.permission.ACCESS_NOTIFICATION_POLICY",
+        "android.permission.RECEIVE_BOOT_COMPLETED"
+    ],
+    "activities": [
+        "elinext.project.hellofomoandroidkotlinapp.SplashActivity",
+        "elinext.project.hellofomoandroidkotlinapp.MainActivity",
+        "elinext.project.hellofomoandroidkotlinapp.news.ui.activities.SlideImageActivity",
+        "elinext.project.hellofomoandroidkotlinapp.news.ui.activities.ShowAttachmentActivity",
+        "elinext.project.hellofomoandroidkotlinapp.authentication.ui.LoginActivity",
+        "elinext.project.hellofomoandroidkotlinapp.authentication.ui.ForgotPassActivity",
+        "elinext.project.hellofomoandroidkotlinapp.settings.ui.SettingActivity",
+        "elinext.project.hellofomoandroidkotlinapp.service.ui.ServiceActivity",
+        "elinext.project.hellofomoandroidkotlinapp.news.ui.NewsDetailActivity",
+        "elinext.project.hellofomoandroidkotlinapp.regulation.regulationdetail.RegulationDetailActivity",
+        "elinext.project.hellofomoandroidkotlinapp.event.ui.eventdetail.EventDetailActivity",
+        "elinext.project.hellofomoandroidkotlinapp.videospodcast.ui.podcastdetail.VideoPlayerActivity",
+        "elinext.project.hellofomoandroidkotlinapp.common.activity.WebViewWithToolBarActivity",
+        "pub.devrel.easypermissions.AppSettingsDialogHolderActivity",
+        "com.google.android.gms.common.api.GoogleApiActivity"
+    ],
+    "urls": [
+        "http://schemas.android.com/apk/res/android",
+        "https://pagead2.googlesyndication.com/pagead/gen_204?id=gmob-apps",
+        "https://plus.google.com/",
+        "https://app-measurement.com/a",
+        "https://google.com/search?",
+        "https://garbsen.hellofomo.org/api/v1/",
+        "https://x",
+        "http://schemas.microsoft.com/DRM/2007/03/protocols/AcquireLicense",
+        "http://dashif.org/guidelines/last-segment-number",
+        "http://schemas.android.com/apk/res-auto",
+        "http://www.w3.org/ns/ttml#parameter",
+        "https://www.googleapis.com/auth/games_lite",
+        "https://www.googleapis.com/auth/games",
+        "https://www.google.com",
+        "https://www.googleadservices.com/pagead/conversion/app/deeplink?id_type=adid&sdk_version=%s&rdid=%s&bundleid=%s&retry=%s",
+        "http://localhost/",
+        "https://veranstaltungen.rgc-manager.de/api/v2/getlpregister"
+    ]
+}

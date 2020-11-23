@@ -129,6 +129,8 @@ The Salud Andalucía app has been installed by more than **10000** times. At thi
 <img src="5_star_reviews_wordcloud.png" alt="es.juntadeandalucia.msspa.saludandalucia 5 reviews"/>
 </p>
 
+> Funciona bien<br> :date: __2020-11-21 00:04:00__
+
 > En menos de un minuto das de alta el teléfono y ya se activan las notificaciones en la app. Funciona normal, no da fallo.<br> :date: __2020-10-29 10:15:15__
 
 > Muy mal. Tengo que mandar una foto al médico y no sé cómo. No sé si la ha mandado o no, no me lo confirma<br> :date: __2020-08-27 14:24:26__
@@ -187,6 +189,10 @@ No recent reviews available with 4 stars.
 <img src="1_star_reviews_wordcloud.png" alt="es.juntadeandalucia.msspa.saludandalucia 1 reviews"/>
 </p>
 
+> Te envían un código que no funciona al introducirlo en la aplicación.<br> :date: __2020-11-19 16:38:24__
+
+> No te deja activar las notificaciones. Te mandan un Código y ya no te deja verifica<br> :date: __2020-11-19 14:52:08__
+
 > No van las notificaciones...no sirve para nada<br> :date: __2020-11-05 06:04:25__
 
 > No me notifica de nada. Una semana esperando resultado de PCR y nada. Sólo es un contenedor para instalar otras aplicaciones. No entiendo el objetivo de esta app<br> :date: __2020-10-30 09:29:46__
@@ -202,9 +208,5 @@ No recent reviews available with 4 stars.
 > Imposible que sea más inútil una aplicación.<br> :date: __2020-10-08 11:52:17__
 
 > No funciona. No sirve para nada. En todos los menús da error y siempre dice que lo intentes más tarde, pero nunca funciona.<br> :date: __2020-10-01 23:28:12__
-
-> Desde hace un tiempo no funciona,metes la clave y te dice que no puede identificar<br> :date: __2020-09-06 10:39:18__
-
-> Desde hace un mes creo no va, me recomendó la ginecóloga q lo instará para los informes y demas pero va faltal y estoy embarazada así que me vendría genial. Lo desistalo.<br> :date: __2020-08-31 11:44:00__
 
 

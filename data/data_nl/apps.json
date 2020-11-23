@@ -4,34 +4,58 @@
         "store_country": "nl",
         "store_lang": "nl",
         "latest_crawled_version": "1.27.4",
-        "latest_crawl": 1605519237
+        "latest_crawl": 1606121718
     },
     {
         "id": "org.who.infoapp",
         "store_country": "nl",
         "store_lang": "nl",
         "latest_crawled_version": "3.1.1",
-        "latest_crawl": 1605519247
+        "latest_crawl": 1606121726
     },
     {
         "id": "nl.focuscura.beeldbelapp",
         "store_country": "nl",
         "store_lang": "nl",
-        "latest_crawled_version": "4.29.1",
-        "latest_crawl": 1605519250
+        "latest_crawled_version": "4.30.0",
+        "latest_crawl": 1606121734
     },
     {
         "id": "de.xikolo.openwho",
         "store_country": "nl",
         "store_lang": "nl",
         "latest_crawled_version": "3.6",
-        "latest_crawl": 1605519251
+        "latest_crawl": 1606121743
     },
     {
         "id": "nl.rijksoverheid.en",
         "store_country": "nl",
         "store_lang": "nl",
         "latest_crawled_version": "1.0.5",
-        "latest_crawl": 1605519331
+        "latest_crawl": 1606121748
+    },
+    {
+        "id": "nl.lumc.covidradar",
+        "store_country": "nl",
+        "store_lang": "nl",
+        "latest_crawled_version": "1.1.2",
+        "latest_crawl": 1606121755
+    },
+    {
+        "id": "com.umcutrecht.covapp",
+        "store_country": "nl",
+        "store_lang": "nl",
+        "latest_crawled_version": "1.9.0",
+        "latest_crawl": 1606121765
+    },
+    {
+        "id": "com.everywhereim.cocorico",
+        "store_country": "nl",
+        "store_lang": "nl"
+    },
+    {
+        "id": "com.HetAmsterdamsFilmbedrijf.VRGorillaMobile360App",
+        "store_country": "nl",
+        "store_lang": "nl"
     }
 ]

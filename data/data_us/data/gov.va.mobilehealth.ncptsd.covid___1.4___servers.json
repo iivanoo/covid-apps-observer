@@ -1,0 +1,111 @@
+[
+    {
+        "name": "google.com",
+        "registrar": "MarkMonitor Inc.",
+        "registrant": "Google LLC",
+        "registrar_country": "",
+        "registrant_country": "US",
+        "creation_date": "1997-09-15 04:00:00",
+        "expiration_date": "2028-09-14 04:00:00",
+        "last_updated": null,
+        "status": "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+        "statuses": [
+            "clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)",
+            "serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)",
+            "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+            "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+            "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+            "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited",
+            "clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)",
+            "clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)",
+            "serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)",
+            "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+            "serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)",
+            "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited"
+        ],
+        "name_servers": "{'ns3.google.com', 'ns2.google.com', 'ns4.google.com', 'ns1.google.com'}"
+    },
+    {
+        "name": "stanford.edu",
+        "registrar": "",
+        "registrant": "Stanford University",
+        "registrar_country": "",
+        "registrant_country": "",
+        "creation_date": "1985-10-04 00:00:00",
+        "expiration_date": "2022-07-31 00:00:00",
+        "last_updated": "2020-08-17 00:00:00",
+        "status": "",
+        "statuses": [
+            ""
+        ],
+        "name_servers": "{'atalante.stanford.edu', 'avallone.stanford.edu'}"
+    },
+    {
+        "name": "mumbleserver.it",
+        "registrar": "Netsons S.r.l.",
+        "registrant": "Mumble Srls",
+        "registrar_country": "",
+        "registrant_country": "",
+        "creation_date": "2014-03-25 16:27:15",
+        "expiration_date": "2021-03-25 00:00:00",
+        "last_updated": "2020-04-10 00:45:40",
+        "status": "ok",
+        "statuses": [
+            "ok"
+        ],
+        "name_servers": "set()"
+    },
+    {
+        "name": "w3.org",
+        "registrar": "Gandi SAS",
+        "registrant": "W3C",
+        "registrar_country": "",
+        "registrant_country": "US",
+        "creation_date": "1994-07-06 04:00:00",
+        "expiration_date": "2029-07-05 04:00:00",
+        "last_updated": null,
+        "status": "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+        "statuses": [
+            "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+            "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+        ],
+        "name_servers": "{'ns1.w3.org', 'ns3.w3.org', 'ns2.w3.org'}"
+    },
+    {
+        "name": "psychologytoday.com",
+        "registrar": "GoDaddy.com, LLC",
+        "registrant": "Sussex Publishers LLC",
+        "registrar_country": "",
+        "registrant_country": "US",
+        "creation_date": "1997-12-29 05:00:00",
+        "expiration_date": "2029-02-01 04:59:59",
+        "last_updated": null,
+        "status": "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+        "statuses": [
+            "clientRenewProhibited https://icann.org/epp#clientRenewProhibited",
+            "clientDeleteProhibited http://www.icann.org/epp#clientDeleteProhibited",
+            "clientTransferProhibited http://www.icann.org/epp#clientTransferProhibited",
+            "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+            "clientRenewProhibited http://www.icann.org/epp#clientRenewProhibited",
+            "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+            "clientUpdateProhibited http://www.icann.org/epp#clientUpdateProhibited",
+            "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited"
+        ],
+        "name_servers": "{'ns-442.awsdns-55.com', 'ns-1884.awsdns-43.co.uk', 'ns-672.awsdns-20.net', 'ns-1135.awsdns-13.org'}"
+    },
+    {
+        "name": "addiction.com",
+        "registrar": "Network Solutions, LLC",
+        "registrant": "Elements Behavioral Health",
+        "registrar_country": "",
+        "registrant_country": "US",
+        "creation_date": "1998-04-08 04:00:00",
+        "expiration_date": "2030-04-07 04:00:00",
+        "last_updated": null,
+        "status": "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+        "statuses": [
+            "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+        ],
+        "name_servers": "{'ns-758.awsdns-30.net', 'ns-1989.awsdns-56.co.uk', 'ns-1340.awsdns-39.org', 'ns-11.awsdns-01.com'}"
+    }
+]

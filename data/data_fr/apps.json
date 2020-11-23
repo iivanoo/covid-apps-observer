@@ -4,42 +4,42 @@
         "store_country": "fr",
         "store_lang": "fr",
         "latest_crawled_version": "3.1.1",
-        "latest_crawl": 1605519507
+        "latest_crawl": 1606124953
     },
     {
         "id": "org.crf.minutis",
         "store_country": "fr",
         "store_lang": "fr",
         "latest_crawled_version": "2.0.3",
-        "latest_crawl": 1605519512
+        "latest_crawl": 1606124961
     },
     {
         "id": "de.xikolo.openwho",
         "store_country": "fr",
         "store_lang": "fr",
         "latest_crawled_version": "3.6",
-        "latest_crawl": 1605519518
+        "latest_crawl": 1606124971
     },
     {
         "id": "fr.aphp.covidom",
         "store_country": "fr",
         "store_lang": "fr",
         "latest_crawled_version": "1.5.21",
-        "latest_crawl": 1605519519
+        "latest_crawl": 1606124980
     },
     {
         "id": "com.ambulis.aphm.covid",
         "store_country": "fr",
         "store_lang": "fr",
         "latest_crawled_version": "1.2.0",
-        "latest_crawl": 1605519520
+        "latest_crawl": 1606124984
     },
     {
         "id": "fr.gouv.android.stopcovid",
         "store_country": "fr",
         "store_lang": "fr",
-        "latest_crawled_version": "2.1.5",
-        "latest_crawl": 1605519658
+        "latest_crawled_version": "2.1.7",
+        "latest_crawl": 1606124995
     },
     {
         "id": "com.bsmart.covid19",
@@ -51,21 +51,21 @@
         "store_country": "fr",
         "store_lang": "fr",
         "latest_crawled_version": "0.0.42",
-        "latest_crawl": 1605519776
+        "latest_crawl": 1606125009
     },
     {
         "id": "fr.esantebfc.engage",
         "store_country": "fr",
         "store_lang": "fr",
         "latest_crawled_version": "4.2.8",
-        "latest_crawl": 1605520017
+        "latest_crawl": 1606125012
     },
     {
         "id": "com.sanpsy.kanopee",
         "store_country": "fr",
         "store_lang": "fr",
         "latest_crawled_version": "5",
-        "latest_crawl": 1605520603
+        "latest_crawl": 1606125022
     },
     {
         "id": "ml.lenali.kunko",

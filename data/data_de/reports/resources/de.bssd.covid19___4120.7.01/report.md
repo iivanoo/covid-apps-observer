@@ -131,6 +131,8 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="de.bssd.covid19 5 reviews"/>
 </p>
 
+> En büyük FENERBAHÇE o kadar<br> :date: __2020-11-22 15:29:36__
+
 > Winkelnkemper<br> :date: __2020-11-07 06:57:40__
 
 > Herunter laden und anmelden ging schnell und einfach. Nur die Geduld auf das Testergebniss hab ich nicht so 😔<br> :date: __2020-10-30 20:11:18__
@@ -148,8 +150,6 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 > Ok<br> :date: __2020-10-03 11:44:13__
 
 > Funktioniert, macht das was sie soll. Ja, sie will jedes Mal den QR-Code haben, aber diese Funktion dient zum Datenschutz. Die App merkt sich trotzdem den zuletzt gescannten Code und gibt auch zuverlässig die Push-Benachrichtigung aus, sobald das Ergebnis vorhanden ist.<br> :date: __2020-09-17 21:51:48__
-
-> Voll cool die app voralem man muss dardurch das handy im Unterricht nicht ausschalten aber die app ist viel cool und sie ist einfach zu Nutzen und man versteht sie schnell<br> :date: __2020-09-09 06:24:58__
 
 
 
@@ -243,24 +243,24 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 <img src="1_star_reviews_wordcloud.png" alt="de.bssd.covid19 1 reviews"/>
 </p>
 
+> Diese App ist absolut unbrauchbar der Scanner funktioniert gar nicht oder nur sehr ruckelig und wenn man den GUID eingibt meckert die App mit ungültigem Format. Leider kriegt man keine Erklärung welches Format Sie denn gerne hätten. also Leute macht was an dieser App!!!<br> :date: __2020-11-19 13:50:26__
+
+> Schlechter geht's echt nicht...der QR Code lässt sich nicht einscannen und jedes Mal muss man diese endlos lange Ziffer eingeben...furchtbar<br> :date: __2020-11-18 13:56:22__
+
+> Fenomenal schlecht! 2 mal musste ich diese app nutzen, 2 mal erfüllte sie gar nichts. Beide male wurde trotz vorhandenem Ergebnis nur "Ergebnis liegt noch nicht vor" angezeigt<br> :date: __2020-11-18 13:04:09__
+
+> Der Code ist nicht scanbar!<br> :date: __2020-11-18 11:12:27__
+
+> QR Code scannen klappt nicht, Code wird nach manueller Eingabe nicht gespeichert, Arzt hat das Ergebnis und die App zeigt immer noch nichts an. Totaler Schrott und unbrauchbar.<br> :date: __2020-11-17 09:09:13__
+
+> QR Code einscannen hat nicht funktioniert. ID stattdessen eingegeben und Anmeldevorgang abgeschlossen. Nächstes Bild mit dem Status "Ihr Ergebnis liegt noch nicht vor" und ein "Hinweis Sobald Ihr Befund vorliegt, wird Ihr Ergebnis hier angezeigt". Das Testergebnis wurde mir über die Arztpraxis vor über 6 Std mitgeteilt. In der APP ist noch immer kein Befund zu sehen. Keine Funktionalität !!<br> :date: __2020-11-16 14:14:56__
+
+> QR-Code Erfassung klappt nicht. Eingabe der ID sehr aufwendig.<br> :date: __2020-11-16 13:38:58__
+
+> Zeigt Ergebnis nicht zeitnah an!<br> :date: __2020-11-16 11:44:32__
+
 > Funktioniert leider überhaupt nicht. Das Scannen des QR-Codes geht gar nicht, man muss also die Endlosziffern eingeben, was eigentlich unzumutbar ist. Und dies jedes Mal, wenn man nachschauen will. Nach 6 Tagen kam bei mir immer noch kein Ergebnis, obwohl der Arzt dieses schon seit 3 Tagen hatte. Ein Armutszeugnis, wenn diese App nicht so verbessert werden kann, dass sie problemlos für jeden funktioniert. Würde gerne weniger als einen Punkt geben, denn genauso viel ist sie anwendbar: null Wert.<br> :date: __2020-11-15 11:52:28__
 
 > App beendet direkt nach dem Start automatisch. Immer wieder auch nach einem Neustart. Hardware Google Pixel, neueste Android-Version.<br> :date: __2020-11-14 09:40:24__
-
-> Unzuverlässig. Scanner funktioniert selten, Code-Eingabe kompliziert und auch unzureichend. Schade. Keine Reaktion seitens des Anbieters, weder hier noch per Email.<br> :date: __2020-11-13 19:21:51__
-
-> App funktioniert nicht der QR Scanner bringt auch nichts viel zu umständlich Eigentlich keinen einzigen Stern<br> :date: __2020-11-13 17:02:31__
-
-> Was für ein Mist. Scannen vom Barcode funktioniert nicht.<br> :date: __2020-11-13 14:12:21__
-
-> App lässt sich nicht öffnen. Pixel 5<br> :date: __2020-11-13 11:00:27__
-
-> Weder QR Scan noch manuelle Codeeingabe funktioniert, bereits der 2. Test bei dem ich nur über Umwege und direkt Anfrage im Labor überhaupt ein Resultat bekommen habe.<br> :date: __2020-11-11 12:06:32__
-
-> Nix funktioniert warte seid 1 woche auf das Ergebnis und habe heute erst erfahren das ich nun doch die corona app runter laden muss obwohl ich das nicht will.der Hausarzt ist überlastet und nicht erreichbar zur Ergebnis Mitteilung. Absolute Unverschämtheit eine solche App nicht zu entfernen wenn nichts funktioniert<br> :date: __2020-11-10 09:51:04__
-
-> Sie Startet seit Android 11 nicht mehr weder Pixel 2 noch Pixel 3a oder Pixel5. Trotz Anruf bei dem Unternehmen null Veränderungen. Die App ist somit nutzlos.<br> :date: __2020-11-09 12:22:47__
-
-> Macht leider nicht was sie soll. Obwohl das Ergebnis dem Arzt bereits vorliegt, gibt es über die App auch nach 90 Stunden noch kein Ergebnis.<br> :date: __2020-11-09 10:53:37__
 
 

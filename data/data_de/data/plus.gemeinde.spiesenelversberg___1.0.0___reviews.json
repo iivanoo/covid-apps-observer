@@ -1,0 +1,26 @@
+[
+    {
+        "reviewId": "gp:AOqpTOF5vODn9G4bNhfWTNvSaOMwJSdhxc88ZTmBB8Ppfq-cCvozLZ2Z88jzezVCamorHOPkdt4CQZ0S62quTA",
+        "userName": "Fienchen Di",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjUD6n7JSGZSA2Ze2QuCNdtpQaUjPSRtAHoFUnVUg",
+        "content": "Tolle Idee!",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.0.0",
+        "at": "2020-10-20 21:38:54",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGHlnQCOcX_BznnVIlDfr3H7LKZX81196TViH8h6ctn2hP1pW5hHb2qtl-wkryg1iRDUPda4dxsoLRMiQ",
+        "userName": "Gerhard Lauer",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiW5bLV0qmjnnjG89Z_jwY5L93ZFtcRBNuefUMp",
+        "content": "Sehr un\u00fcbersichtliche App! Gleich wieder deinstalliert.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.0.0",
+        "at": "2020-05-13 17:39:25",
+        "replyContent": null,
+        "repliedAt": null
+    }
+]

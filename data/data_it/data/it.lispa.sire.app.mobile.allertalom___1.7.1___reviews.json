@@ -1,5 +1,41 @@
 [
     {
+        "reviewId": "gp:AOqpTOGoSA1-d0REMmrsGJy5_dsh6-7qdwbuYLmXeQdybAQiOcM_y_1-Y03-WEE_RUXKqAbyTbPdkAFyVuQ-Lw",
+        "userName": "pietro attilio fontana",
+        "userImage": "https://play-lh.googleusercontent.com/-5pzX_Q4bQM0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclXZKXlj0bxk1mHDC4wzOt0dZ3e_Q/photo.jpg",
+        "content": "Utilissima soprattutto per un montanaro come me",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.7.1",
+        "at": "2020-11-21 20:29:11",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOG1MF5oTymOgJbUIfK5WA8KGn0SbXUN66_RnyDRoyDVAByk4A9pVjMR76EA7kFLgDvYdCoj3YdkfFuqzA",
+        "userName": "Luciana Luciana",
+        "userImage": "https://play-lh.googleusercontent.com/-sJtyvRHQWfM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckO02uHnvoyhxxLw3OIWX2vZ-2hsw/photo.jpg",
+        "content": "Non si riesce a cambiare l'et\u00e0 e una volta inserito un familiare non si riesce pi\u00f9 a toglierlo",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2020-11-21 13:58:07",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHqVFd66MjV5O5VeSRJau51ftGlg8CmSWTcphDWSJxLJjAZFeRTUWd3PeV3X-CpdvTXbZv7r9TSJaGkdA",
+        "userName": "Giuliana Mombelli",
+        "userImage": "https://play-lh.googleusercontent.com/-tP-rhlmMjkk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucll3LnjkTL6QULCfbZsCElnfKvPsQ/photo.jpg",
+        "content": "Ad un certo punto non ha pi\u00f9 funzionato. Ho tentato di fare un aggiornamento ma non \u00e8 riuscito, allora ho disinstallato la app e cercato di reinstallare, ma inutilmente! Non si installa",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2020-11-19 12:54:38",
+        "replyContent": "Ciao Giuliana, scrivi a info.allertalom@ariaspa.it indicando i dati del tuo dispositivo al fine di comprendere la causa dell'anomalia da te segnalata.",
+        "repliedAt": "2020-11-20 08:39:10"
+    },
+    {
         "reviewId": "gp:AOqpTOGbGXHgCiE9L4mkbfBQGTx3DLNmoawfJy4o15Nn22hCXBk6Rkpl5LLR1BX_NGKVLW4iKAPC1S9yy2i_yA",
         "userName": "Ginevra Bariani",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh4J0fogTEzcd9SDtGlR3UPJurpS9wOXc004FTs",
@@ -8,8 +44,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2020-11-16 00:51:51",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ciao Ginevra, siamo spiacenti che la tua esperienza non corrisponda alle tue aspettative. Se hai bisogno di assistenza scrivici a info.allertalom@ariaspa.it.",
+        "repliedAt": "2020-11-17 09:45:43"
     },
     {
         "reviewId": "gp:AOqpTOGcEyBGfkc0lPgiiGd5YXg4wGQhmXE6ApB1dDu72zwG7drmklgZXZ7uPCiPst9CngStfgLPtQWdU5L66A",
@@ -20,8 +56,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2020-11-15 14:59:43",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Grazie Emilia, lavoriamo quotidianamente per fornire a tutti uno strumento utile, recensioni come questa ci fanno particolarmente piacere!",
+        "repliedAt": "2020-11-17 09:39:04"
     },
     {
         "reviewId": "gp:AOqpTOGSXe7R9Zbd52acMIXGEroTP6mAqEPB5tAZZibmtI2nnFlKbRsNtUv7ItfpFYVjDVIbuCEU4YDbfRfO_Q",
@@ -32,8 +68,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.7.1",
         "at": "2020-11-15 12:10:17",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ciao Maurizio, vorremmo comprendere la difficolt\u00e0 riscontrata. Scrivici a: info.allertalom@ariaspa.it indicando l'errore riscontrato e i dati del dispositivo utilizzato per permetterci di effettuare le verifiche del caso.",
+        "repliedAt": "2020-11-20 08:27:10"
     },
     {
         "reviewId": "gp:AOqpTOGXsr1LQh7C4c76ixUzoUm0QrsjG-CMzze5EA6o03CRJPz2RWRaRarWU_l5QUMn7xCZfvjyHwszlMtEiw",
@@ -44,20 +80,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.7.0",
         "at": "2020-11-14 09:31:47",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOHgeTi_8SxxIgXpfE2MyPhXvDJAooFWqI_lJCrN-s-Zf6sqrkmkJADVsupiMstoyaAizMRR4h5SjNI_yw",
-        "userName": "Teresa Digiulio",
-        "userImage": "https://play-lh.googleusercontent.com/-N_1oSTsGmec/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckoc2vxxGNtRJRrZp3y42rB3AqGnw/photo.jpg",
-        "content": "Di semplice utilizzo. Una pecca e' l'impossibilita' di modificare l'eta' anagrafica, modifica che forse porterebbe ad una maggiore utilita' nel monitoraggio anche per fascia d'eta'. Sarebbe stato forse necessario poter fornire anche un dato relativo alla mobilita' impiegata dall'utente, per meglio valutare l'incidenza della diffusione del virus se si utilizzano trasporti pubblici.",
-        "score": 4,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.7.1",
-        "at": "2020-11-12 11:50:40",
-        "replyContent": "Ciao Teresa, al momento non \u00e8 stata implementata questa funzione per esigenze tecniche e statistiche, la prenderemo in considerazione in futuro, grazie per il suggerimento!",
-        "repliedAt": "2020-11-13 12:59:01"
+        "replyContent": "Ciao Moreno, siamo felici che tu abbia apprezzato le funzionalit\u00e0 dell\u2019App. Ti ringraziamo per la valutazione positiva.",
+        "repliedAt": "2020-11-17 09:37:36"
     },
     {
         "reviewId": "gp:AOqpTOE-3SMQ3NeuzSjESDINA-eV72DbizqJf2xhJ2zwKRaygU5ZbjdGNnaZIuGBwEXdpnKmdK0Vg-ShEjGTsg",
@@ -2006,7 +2030,7 @@
     {
         "reviewId": "gp:AOqpTOEokvPnWzcPmaStjhQaSMVeKMIQjUu6cS5XCLLWfYKXaTyjvkwWkuBEPye0HV0O9xWgSwihsvdxxfQcgw",
         "userName": "Michele Rebecchi",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjoZQAt_laUsJQYWVjcB3ZZUrCqVphnfswzj6B2erE",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg7-AkC12x_w2x5O9PE-P4OHz4ef5_Lltsw3td-9xQ",
         "content": "Utile per le infornazioni",
         "score": 5,
         "thumbsUpCount": 0,
@@ -3026,7 +3050,7 @@
     {
         "reviewId": "gp:AOqpTOG2-LpbdOS3l23T92EPOT1wPY4A7IIO0njUiy0yzC_x2DBKq1azDlJHEoDwvu08a4uWDDzgTTX9qOsBaQ",
         "userName": "Carlo Dell'anna",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj8B8AbJBhHLzLOURtaEpLZECydnYQSIuVT08Knww",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhlKhyZ7k7JdJmUkZrUBs1Nubys0u7ECsrQoEhciA",
         "content": "Ottima",
         "score": 5,
         "thumbsUpCount": 0,
@@ -4682,7 +4706,7 @@
     {
         "reviewId": "gp:AOqpTOHtTxlruyHm2LZwp4kLPioX5S3Q4G6crs4ziAq--stzY0k6G-b61dfQQso60g7cUKNg-vCjgDeoDkMbMg",
         "userName": "luciano buttironi",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgHOaw6msHrdx6K25Xm89M4xmYPIxmKcik1-d8RaA",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhRpNagJIMdQV5J7bp_u9Khlsp1UNNEr5DXTW9GBA",
         "content": "Molto scarsa",
         "score": 2,
         "thumbsUpCount": 0,
@@ -5162,7 +5186,7 @@
     {
         "reviewId": "gp:AOqpTOGTQQY1ZJr1S3aMJjFU907RFNR1HrhldF34YM0T04odRMo6Ef2ZLDzMY-vEwxBFNJ3bojulyeGqXhfAPA",
         "userName": "Patrizia Corsini",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhNBMld_BJei4G8w-AXeme4srMobqKnZvEg5FfUTg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhsT5VkpPq-fPEEm2aqcKaUgxX4DtHVJqBfRQTfzQ",
         "content": "Necessaria, cos\u00ec sono sicura di stare sempre bene.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -10249,8 +10273,8 @@
     },
     {
         "reviewId": "gp:AOqpTOFqa4XZ1qHoYgRdiqNoufvdjllsIGGkWr_Z7HOfvm97NJg22OBukgXHpWIQER-CXo6tnc7uZTM8bWWKKw",
-        "userName": "Nadin Dina",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhnsYUOSiQAkwRMm7jEcJ6DTeaXRZwT5Hk0V6vXjg",
+        "userName": "Nadia Sol",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjQ7fS4DvZYy3skmkaUC0Sr8ZQMIMpXMd6xxXfrzQ",
         "content": "Utile",
         "score": 5,
         "thumbsUpCount": 0,
@@ -11974,29 +11998,5 @@
         "at": "2020-04-10 20:54:34",
         "replyContent": "Ciao Luigi, ci piacerebbe migliorare la tua esperienza utente, scrivici a info.allertalom@ariaspa.it i tuoi suggerimenti e proveremo a soddisfare le tue richieste nei prossimi rilasci.",
         "repliedAt": "2020-04-24 18:10:37"
-    },
-    {
-        "reviewId": "gp:AOqpTOFiQyuvWDnQoUBVWR-PdYGuC7Kei7uInCP3oNwCbs0tKakURh18fDYfNUptp3O-0KFSj0RAhF_ZCU4CJA",
-        "userName": "Yuri Marveggio",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhdrtaxZVvyVb1mTvXyHmdoqtHlU0mlUgj6ulY6Fg",
-        "content": "Allora \u00e8 da 5 giorni ormai che risulta bloccata l'app.....\u00e8 sovraccaricata, come tutti i sistemi informatici allo stato attuale....non \u00e8 una questione di app....ma una volta finito sto covid-19 vanno incrementate le reti internet veloci...5g e fibra ottica....ma velocit\u00e0 reali....ovunque....altrimenti addio smartworking",
-        "score": 4,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.5.0",
-        "at": "2020-04-10 20:47:33",
-        "replyContent": "Ciao Yuri la problematica da te riscontrata non \u00e8 imputabile alle funzioni dell'app come da tua giusta osservazione ma in questo modo stai valutando negativamente le funzioni dell'app! speriamo di poter migliorare la tua esperienza utente!\ud83d\ude09",
-        "repliedAt": "2020-04-10 14:57:52"
-    },
-    {
-        "reviewId": "gp:AOqpTOFHmFVUh30Jxw0hrPRR0x-lEY4p1pxrNVH-GY2M-Ah4u40tenCfXqBmwgPYB0F-pyY-zZEkhrV6uDROEw",
-        "userName": "Maurizio Bocchini",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiitFCN6FYcgpAmjSBOp1A5_tPgXi-awjXNyKlE",
-        "content": "Bisogna mettere i dati come dove abito o lavoro ogni volta. molte volte non si avvia",
-        "score": 1,
-        "thumbsUpCount": 1,
-        "reviewCreatedVersion": "1.5.0",
-        "at": "2020-04-10 20:10:37",
-        "replyContent": "Ciao Maurizio, siamo spiacenti che la tua esperienza non corrisponda alle tue aspettative. Lavoreremo per migliorare!",
-        "repliedAt": "2020-04-24 18:08:54"
     }
 ]

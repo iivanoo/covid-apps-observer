@@ -237,6 +237,10 @@ The CRUSH COVID RI app has been installed by more than **10000** times. At this 
 <img src="2_star_reviews_wordcloud.png" alt="com.ri.crushcovid 2 reviews"/>
 </p>
 
+> Rarely works<br> :date: __2020-11-19 15:46:15__
+
+> I appreciate this app so much that I've kept it on my phone pretty much since day 1, and have let it log my location for the chance that I catch COVID-19 and want to send it in. I just want to do anything I can to help stop the spread. However, this app accounts for 35 PERCENT of my battery usage. There's simply no need for an app to be that power-hungry, just logging my location idly. That, and the fact that it doesn't integrate Google's contact tracing technology, I have to say goodbye for now<br> :date: __2020-11-19 08:27:43__
+
 > Location areas are not correct<br> :date: __2020-10-14 14:32:35__
 
 > Flawed tracking. Please give option to manually add days/locations when there is no tracking history. Just checking location history today and there's been no tracking since the 20th. App has been running and I had expected that it was working.<br> :date: __2020-09-28 04:03:38__
@@ -253,10 +257,6 @@ The CRUSH COVID RI app has been installed by more than **10000** times. At this 
 
 > The location is not accurate most of the time. And everytime I try to submit how I feel today, I get an error. I wish it would let you edit the location<br> :date: __2020-08-06 13:28:54__
 
-> Doesnt work. Keeps saying I'm not connected to the internet. Data and location settings are correct.<br> :date: __2020-07-31 18:42:15__
-
-> Warning! At least on Android phone, you must manually restart the app after restarting your phone.<br> :date: __2020-07-24 00:05:59__
-
 
 
 #### 1-star reviews
@@ -264,6 +264,8 @@ The CRUSH COVID RI app has been installed by more than **10000** times. At this 
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="com.ri.crushcovid 1 reviews"/>
 </p>
+
+> After I use symptom diary, the next screen freezes. I have to uninstall the app and then install it again.<br> :date: __2020-11-22 15:40:59__
 
 > Constantly says that I need to connect to Wi-Fi or mobile which are both connected tried turning each off individually with the same message. I am removing the app from my phone<br> :date: __2020-11-12 19:18:39__
 
@@ -282,7 +284,5 @@ The CRUSH COVID RI app has been installed by more than **10000** times. At this 
 > Need to enable exposure notifications, app is useless if it does not alert the user that they have been exposed.<br> :date: __2020-10-03 15:35:00__
 
 > I can't even get through the agreement/permissions page. This is my second attempt with this app after the first version was sending alerts and push messages non stop. I guess for every minute I am frustrated trying to use the app, that is a minute that I am less likely to be exposed to Covid.<br> :date: __2020-09-20 13:34:26__
-
-> I finally left app with newest Version 2.1. As Android user the new update has changed app for the worse. You can't send info as it just keeps saying u have to fill out info you have already done...and the location tracker is do far off..it has had me listed in Connecticut for hours when I had not left my house in RI.. Until u fix the bugs...I won't use the app. It started off good... programmers...please don't make the users your Beta group! You should have noticed these bugs if u tested!<br> :date: __2020-09-16 20:47:27__
 
 

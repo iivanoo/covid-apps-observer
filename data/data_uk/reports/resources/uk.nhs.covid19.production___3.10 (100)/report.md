@@ -141,25 +141,25 @@ The NHS COVID-19 app has been installed by more than **5000000** times. At this 
 <img src="5_star_reviews_wordcloud.png" alt="uk.nhs.covid19.production 5 reviews"/>
 </p>
 
-> Love getting my updates 💗<br> :date: __2020-11-16 08:48:30__
+> This was very useful sometins didnt really help<br> :date: __2020-11-23 09:24:18__
 
-> Excellent app just not sure how to activate the notifications part if you've been in contact with anyone who may have got it n not now that . highly. recommend this app to everyone at the moment. To help protect yourself n your loved ones n others excellent app<br> :date: __2020-11-16 03:15:30__
+> Worksreakky well<br> :date: __2020-11-22 19:13:42__
 
-> The app is OK but it has had its down falls in the past. Hope the track and trace is working OK now) thanks to our Google network working to along side the NHS. Thank you so much to you both. And keep up the good work in keeping family's safe from covid 19)and our health services safe to<br> :date: __2020-11-16 02:44:48__
+> Easy and accurate<br> :date: __2020-11-22 17:05:55__
 
-> Amazing app love it so much<br> :date: __2020-11-16 00:17:25__
+> app working well<br> :date: __2020-11-22 14:19:45__
 
-> Does what it says on the tin.<br> :date: __2020-11-15 22:51:10__
+> Alerted me to self isolate also How do you obtain a reference number to confirm the message was genuine. I wasn't able to claim the 500 pound support payment because the message came through the app.<br> :date: __2020-11-22 10:15:02__
 
-> Very simple to use and having read many reviews (including those of the Which? Consumer organisation) I have no doubt that my data is entirely anonymous. Will this make a huge difference in fighting covid-19? Who knows but I am sure it will help and therefore I am sure that everyone with a smart phone really ought to be using it. Your fellow citizens deserve it.<br> :date: __2020-11-15 20:12:22__
+> Very good<br> :date: __2020-11-21 21:08:04__
 
-> Amazing 👏 🙀<br> :date: __2020-11-15 14:05:16__
+> We are all in this together. And it's extremely important for everyone in the UK, and worldwide too. And I will do all I can to help 😇<br> :date: __2020-11-21 20:47:19__
 
-> This app helps you out<br> :date: __2020-11-15 12:09:06__
+> really helpfull<br> :date: __2020-11-21 13:10:03__
 
-> Very handy to see<br> :date: __2020-11-14 22:57:26__
+> C x<br> :date: __2020-11-21 10:12:18__
 
-> Nothing to say which I could print, as none of it would be accepted. Just a pity that various things could not have been done before now. No one's fault, we can all be wise after any event.<br> :date: __2020-11-14 17:29:25__
+> Very good service<br> :date: __2020-11-21 07:32:51__
 
 
 
@@ -169,25 +169,25 @@ The NHS COVID-19 app has been installed by more than **5000000** times. At this 
 <img src="4_star_reviews_wordcloud.png" alt="uk.nhs.covid19.production 4 reviews"/>
 </p>
 
-> I've been working on a hospital ward which now has covid cases should I self isolate as I've been in there rooms before they tested positive??<br> :date: __2020-11-16 08:12:41__
+> Won't take picture of QR code so app not working. Now working.<br> :date: __2020-11-22 21:27:08__
 
-> Helpful<br> :date: __2020-11-15 22:13:51__
+> It's cool<br> :date: __2020-11-22 08:01:31__
 
-> Good app<br> :date: __2020-11-15 11:42:10__
+> Very good<br> :date: __2020-11-21 15:35:35__
 
-> A peace of mind good reminder<br> :date: __2020-11-14 12:58:24__
+> I've had no issues other than when I had covid, track n trace called 3 or 4 times a day, each person I had been in contact with meant they created numerous 'accounts' for me and so they were forever trying to update all the accounts, they need to find a way to just have one cos it's not ideal ...but better they ring 10 times than not at all I guess<br> :date: __2020-11-21 11:46:06__
 
-> Need improving you can't stay logged in location if you receive a phone call it automatically log you out.<br> :date: __2020-11-14 10:26:26__
+> Check in works well but rumours are that it remains checked-in until you check-in somewhere else or at midnight you're automatically checked out. Is this true?<br> :date: __2020-11-21 09:21:17__
 
-> Thanks it was helpful<br> :date: __2020-11-14 09:35:16__
+> Was hoping that this app would be useful (I've not given up and hope that I receive a response to this review). I have installed the app, entered my details, confirmed my email address and entered the code following that. I then come to the page asking me to accept the conditions of use but the page (apart from the heading) is blank and I cannot get any further than that. I tried going back to the previous page but the app closed. I successfully logged in to the app again but stuck same spot.<br> :date: __2020-11-21 03:00:20__
 
-> Having to put Bluetooth on my phone all time, it kills the battery so u can't use it all time otherwise its a very helpful and let's u know when to isolate, like my neighbor..<br> :date: __2020-11-14 08:06:21__
+> So far so good. Husband had report when his best friend tested positive (although friend told us) very quickly and we isolated for his 14 day countdown clock. Unfortunately, the other friend who was with them all evening was never contacted but we would all inform each other in our village. This would have been a big error in an Urban area. So more needs to be done on this app.<br> :date: __2020-11-20 23:54:32__
 
-> I have downloaded this but not been contacted so far. I think it's a bad idea to call people from 0345 numbers. Many of us deliberately avoid such calls as they may be cold callers.<br> :date: __2020-11-13 17:24:55__
+> It would be nice to be able to change the postcode. I've recently returned to the UK and entered the postcode of where I was staying for quarantine, but now I am unable to edit the postcode to reflect where I am currently living, which is a bit annoying. Particularly if we move back to the tiered system.<br> :date: __2020-11-20 20:03:04__
 
-> Overall, does it's job. I have moved to a new area and I can't figure out how to update my address as it's stuck on my old one.<br> :date: __2020-11-13 13:32:37__
+> Doing an excellent job keep it up and stay safe everyone<br> :date: __2020-11-20 11:50:45__
 
-> It looks like it's working, I've not had any notifications about isolating. The only downside is it doesn't have a check out so if you scan a qr code it leaves you logged in to that area until you either scan another qr code or until midnight. You might only be popping the shop for a pint of milk at 8am before going home for the day so your logged in as at the shop for 16 hours. I'd like to be able to check out even if I have to enter details manually.<br> :date: __2020-11-13 03:09:35__
+> Classy<br> :date: __2020-11-20 09:28:00__
 
 
 
@@ -197,25 +197,25 @@ The NHS COVID-19 app has been installed by more than **5000000** times. At this 
 <img src="3_star_reviews_wordcloud.png" alt="uk.nhs.covid19.production 3 reviews"/>
 </p>
 
-> Kept telling me to put Bluetooth on, it was and still wouldn't work<br> :date: __2020-11-16 06:43:56__
+> Was working fine initially but the last week its stopped scanning when I'm out. Yes I have all the correct settings on.. Contact tracing, location, data etc. There's no logs of phone /key communication at all whilst being out.<br> :date: __2020-11-22 04:42:59__
 
-> Why is it for people aged more than 16 Those under 16 are free-coronavirus ?!<br> :date: __2020-11-15 20:05:03__
+> I've had a few of the false 'possible covid exposure' notices and a self-isolation alert for an anonymous user but now that a work colleague has actually tested positive for coronavirus, the app isn't telling me to self-isolate. We lunch outside together every day so I know we've been less than 2m away for more than 15 mins many, many times in the last 14 days. Both of us had the apps on, so why no notification?<br> :date: __2020-11-21 18:45:04__
 
-> Ok the app<br> :date: __2020-11-15 15:01:54__
+> So I've just literally downloaded this about 20 minutes ago and it's still activating . It takes so long<br> :date: __2020-11-19 20:36:31__
 
-> I've had a notification to self isolate for 8 days this morning, but it didn't tell me where it was that I had been in contact with which is a bit crazy, because I have no idea who I was with at the time in order to notify them about it. Why doesn't it tell you where it was that you may have been in contact, surely its not that hard to do.......<br> :date: __2020-11-15 11:06:06__
+> Changed phones. Now won't re- download. I have had the wheel of death for three days saying "PENDING ".Tried deleting and reinstalling. Nothing.<br> :date: __2020-11-19 16:29:31__
 
-> Don't think the close control exposure works when you're close to someone with covid19 as we have a positive result back from our house hold and my phone hasn't picked it up yet<br> :date: __2020-11-15 09:32:11__
+> Didn't get to use the app for being under 16. Feel like it would be good for young people to have access to the app as well because of children typically bring asymptomatic carriers of COVID<br> :date: __2020-11-19 14:52:06__
 
-> Edit: Absolutely slaughters your battery. I thought my phone was broken, down to 67% charge from 100% by 9am. Uninstalled and the next day my battery was still at 47% by 10pm! The sort of person who is selfish enough not to self isolate when needed to isn't likely to of bothered with downloading and using this app. Quite then why you've revealed that you'll share info with the police is beyond me. All you've done is hurt the success of the app and give the tin foil hat wearers an energy boost.<br> :date: __2020-11-15 07:42:42__
+> Seems to want to track me while at home, I don't leave my GPS and Bluetooth on 247 which makes the app kind of flawed.<br> :date: __2020-11-19 14:42:28__
 
-> Has not done for me since installation<br> :date: __2020-11-14 19:44:36__
+> Now seems to work, after quite a bit of messing about clearing various caches<br> :date: __2020-11-18 22:27:12__
 
-> still confused cos I'm deaf ...<br> :date: __2020-11-14 09:34:44__
+> When traveling to different areas the app dosent update the area alert level<br> :date: __2020-11-18 17:58:15__
 
-> Not a problem but still waiting for the virus notice to come up so I can only give it 3*<br> :date: __2020-11-13 22:36:50__
+> Woke up to an exposure notification that disappeared when I clicked on it to yo open the app. Useless, get it together! Wow, yes, the thing uses Google and apple notifications to let us know! Great, now how is that useful information? Are the notifications true? Ridiculous<br> :date: __2020-11-18 16:30:19__
 
-> Helpfull quicker than signing in.<br> :date: __2020-11-13 14:21:21__
+> Not bad but every time i turn my Bluetooth on it turns on my hifi to which can be very annoying it has to sorted<br> :date: __2020-11-17 12:23:44__
 
 
 
@@ -225,25 +225,25 @@ The NHS COVID-19 app has been installed by more than **5000000** times. At this 
 <img src="2_star_reviews_wordcloud.png" alt="uk.nhs.covid19.production 2 reviews"/>
 </p>
 
-> This is so unclear to use<br> :date: __2020-11-16 10:54:35__
+> Easy enough to use, but notifications are awful - "You were with someone with covid but you are fine and we will not tell you anything else" would be a more accurate notification. Could be VERY scary for someone in a high risk group. About the standard of TalkTalk internet. Dido Harding should resign. Edit: Used a custom home screen to change the app icon to the "not helth" meme. A much more accurate icon!<br> :date: __2020-11-22 15:44:46__
 
-> Worked fine for a bit, but now crashes whenever I try to open it. Uninstalling and reinstalling has no effect. EDIT: So instead of improving the app to prevent crashes, I'm advised to update iOS to 14.2. On the Google Play store.<br> :date: __2020-11-16 09:38:32__
+> See<br> :date: __2020-11-22 14:53:53__
 
-> I live with someone who tested positive for coronavirus but the app didn't notify me. I received an email from test and trace to tell me to isolate.<br> :date: __2020-11-16 01:40:43__
+> In glad ut has started to work however on my Samsung device I'm experiencing "fake exposure notifications on my phone" and when I go on the app nothing appears its quite annoying not gonna lie. This needs to be fixed ASAP<br> :date: __2020-11-22 11:56:24__
 
-> I have been self isolate by test and trace for 10 days and if I get again exposed will be losing my job no thank you I have unstalled the app.<br> :date: __2020-11-15 23:50:57__
+> Often crashes on Pixel 3, won't stay running, so basically not fit for purpose for me.<br> :date: __2020-11-22 10:26:45__
 
-> Only wish there was a section to notify that my neighbours are having parties<br> :date: __2020-11-14 16:20:47__
+> App doesn't seem to allow update. Stuck on the September version, even though a November update is apparently available. Won't accept reference provided by the test center and won't allow skipping of the question. So app is stuck in 'self isolate' state even though government email confirmed I have the 'all clear'. Seems a waste of taxpayer money that this app is still so poor.<br> :date: __2020-11-21 17:02:12__
 
-> This app now keeps crashing (and my Pixel came up with a warning message saying it's constantly crashing). Can't currently even open the app. When it did previously work it was reasonable but the notifications are terrible. Please add a notification history section because it sends notifications and then you tap on them and see nothing but the normal screen in the app. It would be useful to be able to check Covid rates in other parts of the country, not just the area you've set as your home.<br> :date: __2020-11-14 10:36:16__
+> I'm not sure how long the app takes to notify you if you have come into contact with a covid positive person. I did this morning, they have the app that states they are positive. I've had no notification yet. 🤨<br> :date: __2020-11-20 18:28:24__
 
-> The app on my Samsung S10 + has failed to update that I should self isolate after a household member has been tested positive?<br> :date: __2020-11-13 18:04:08__
+> Told me to self isolate for 14 days.. I live on my own in a 1 bed flat and have not left the house. Perhaps I got infected through the walls... Doesn't make sense to me! Turn the tracking off when your at home or driving<br> :date: __2020-11-20 14:08:42__
 
-> I can't really give it more. I have checked in all the places I go and then I get a little shield pop up on top of my screen but then it doesn't show me anything. Does this mean I've been safe all these months and trust it will pop up with full information of where I was if I did go near a stranger who has symptoms ? Also does this only work if the person/persons fills out the form properly because surely the app isn't that smart to predict who has the virus or at least showing symptoms ?<br> :date: __2020-11-13 16:12:54__
+> Asks for your postcode and then reports the risk level based on your local authority. Postcodes are a fairly arbitrary geo-tagging mechanism used by the post office and have little connection to most authorities. Mine is not even in the right county! So far from being informative, it's misleading. It appears that the isolation instructions given in the app are DIFFERENT to those given by the NHS. Sadly, this is just one of several contradictions in advice and instructions given.<br> :date: __2020-11-20 10:12:58__
 
-> I've not had any problems with the app technically. But going by how badly Test and Trace is going, there doesn't seem much point having the app. I do use it though, and I hope it will keep getting better. Edit: Thank you for your response. Although I don't find the app 'useful', it's something else to worry about. Its more that I just use it.<br> :date: __2020-11-13 16:02:54__
+> Would be worth seeing a map based on ones location and those who are using the app around me<br> :date: __2020-11-19 20:49:58__
 
-> Garbage, i travel the length of the uk working at service stations, staying in hotels, eating at restaurants and have been in contact with thousands of people in 7/8 months, and it has only notified me when i was at home one day saying someone nearby has symptoms, not being funny but that only appeared after my wife had a test (it was negative)<br> :date: __2020-11-13 11:34:04__
+> They told us it didn't require location tracking, but it does. And the implementation in general has been a shambles. EDIT - The Department of Health and Social Care say below that the app doesn't access our location. And I completely understand why it doesn't need to to do its job (that's why I installed it). But as someone who never has location tracking enabled on my phone, the app very clearly tells me that it can't work unless I turn location tracking on. Try it yourself. Why is this?<br> :date: __2020-11-19 18:09:09__
 
 
 
@@ -253,24 +253,24 @@ The NHS COVID-19 app has been installed by more than **5000000** times. At this 
 <img src="1_star_reviews_wordcloud.png" alt="uk.nhs.covid19.production 1 reviews"/>
 </p>
 
-> Stopped working about 2 weeks ago...have tried uninstalling and reinstalling but still doesn't work. Crashes when trying to open the app.<br> :date: __2020-11-16 10:56:16__
+> Doesn't work properly... stops working without you realising so if you don't go on the app it stops scanning... mine wasn't scanning for 2 weeks without me realising!!!! Also when it does work it sends out 'possible exposure' notifications and then gives no more information causing a great deal of worry.<br> :date: __2020-11-23 10:05:30__
 
-> Went to check the app and had to agree to T&C's again..then told there was 3 days left of my isolation. So missed 7 days. My girlfriands app won't even open. Utterly useless.<br> :date: __2020-11-16 10:14:51__
+> My son came back positive, now the codes we were sent do not work in the app!!<br> :date: __2020-11-23 09:35:27__
 
-> app wont open. everytime i click on it nothing happens<br> :date: __2020-11-16 08:12:37__
+> I live with another app user, we put her positive covid result in her app 2 nights ago, I've checked the app is running, checked our Bluetooth is working, but about 36 hours later I've still not had any notification to self isolate... Doesn't seem to work.<br> :date: __2020-11-23 09:34:30__
 
-> Utterly pointless I don't know anyone who is using this app. Every place I've ever gone to noone use using the app. So if it's only being used by a small small minority it makes it utterly pointless.<br> :date: __2020-11-16 06:12:18__
+> Ran battery down<br> :date: __2020-11-23 08:07:40__
 
-> Wouldn't use, doesn't work in all cases and can give false positives causing people to potentially be isolated against their will. Avoid!<br> :date: __2020-11-16 02:16:14__
+> This app takes up data. Seldom works perfectly and it corrupts your phone<br> :date: __2020-11-23 06:42:31__
 
-> It doesnt work. A family member in my house has tested positive. My husbands phone picked it up, my phone hasn't.Doesnt give me much confidence in the app.<br> :date: __2020-11-16 01:51:16__
+> My wife tested positive for Covid this morning and we're currently in the same room so surely the app should be notifying me??<br> :date: __2020-11-23 00:01:23__
 
-> It's a shame for kids because it's only for 16 year olds<br> :date: __2020-11-16 00:45:45__
+> Just what is the point if this app.? It doesn't track me anywhere apart from in my house. So bad my daughter who is a nurse and unfortunately caught Covid at work wasn't contacted and the app didn't ping her partner. Absolutely doesn't do what it says on the tin. Very very 😥 😞 😥<br> :date: __2020-11-22 23:46:50__
 
-> App on my Samsung note 10+ and girlfriends Samsung S9 stopped checking for exposure on the 28th October (both same date) only checked this as have been in contact with a covid positive person. Reinstalled app and its checking again. Im assuming id of got a notification which is now gone.<br> :date: __2020-11-16 00:23:12__
+> This app is bs it requires bluetooth but then crashes my phone when try to turn it on this needs sorting.<br> :date: __2020-11-22 23:43:01__
 
-> I think that I get indications of notifications, a number appears on the app icon, then it disappears. How do I read these notifications? If I can't I might as well uninstall the app!<br> :date: __2020-11-16 00:12:04__
+> Unfortunately disappointing app. Just recently three people in my office were tested positive covid, I had not received any notifications about this.<br> :date: __2020-11-22 22:13:09__
 
-> App won't load<br> :date: __2020-11-15 23:57:03__
+> Bloody useless<br> :date: __2020-11-22 21:44:23__
 
 

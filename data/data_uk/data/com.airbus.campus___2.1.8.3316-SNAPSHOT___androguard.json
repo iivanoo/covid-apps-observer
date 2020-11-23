@@ -1,0 +1,53 @@
+{
+    "permissions": [
+        "android.permission.WAKE_LOCK",
+        "android.permission.FOREGROUND_SERVICE",
+        "android.permission.ACCESS_FINE_LOCATION",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.INTERNET",
+        "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+        "com.google.android.c2dm.permission.RECEIVE",
+        "android.permission.VIBRATE"
+    ],
+    "activities": [
+        "com.airbus.campus.SiteAndBuildingInformationActivity",
+        "com.airbus.campus.MainActivity",
+        "com.airbus.campus.OnBoardingActivity",
+        "com.airbus.campus.ReplayTutorial",
+        "com.airbus.campus.LaunchActivity",
+        "com.airbus.campus.WorldMapActivity",
+        "com.airbus.campus.HVVTisseo",
+        "com.airbus.campus.AboutActivity",
+        "com.airbus.campus.AirbusActivity",
+        "com.mikepenz.aboutlibraries.ui.LibsActivity",
+        "com.google.android.gms.common.api.GoogleApiActivity",
+        "com.google.android.play.core.missingsplits.PlayCoreMissingSplitsActivity",
+        "com.google.android.play.core.common.PlayCoreDialogWrapperActivity"
+    ],
+    "urls": [
+        "http://schemas.android.com/apk/res/android",
+        "https://campus-uppercase.s3-eu-west-1.amazonaws.com/Timetables_stops_Haltestellen_Fahrpl\u00e4ne_Linie",
+        "https://www.hvv.de/de",
+        "https://www.tisseo.fr/",
+        "https://play.google.com/store/apps/details?id=",
+        "https://api-prod.geofox.de",
+        "https://api.tisseo.fr/v1/",
+        "https://campus-uppercase.s3-eu-west-1.amazonaws.com",
+        "http://example.com/",
+        "https://pagead2.googlesyndication.com/pagead/gen_204?id=gmob-apps",
+        "https://plus.google.com/",
+        "http://schemas.android.com/apk/res-auto",
+        "https://campus-uppercase.s3-eu-west-1.amazonaws.com/UsefullAppIcons/",
+        "http://hostname/?",
+        "https://www.googleapis.com/auth/games_lite",
+        "https://www.googleapis.com/auth/games",
+        "http://www.google-analytics.com",
+        "https://ssl.google-analytics.com",
+        "https://app-measurement.com/a",
+        "https://www.googletagmanager.com",
+        "https://settings.crashlytics.com/spi/v2/platforms/android/apps/%s/settings",
+        "http://localhost/",
+        "https://e.crashlytics.com/spi/v2/events",
+        "https://www.google.com"
+    ]
+}

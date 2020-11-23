@@ -209,6 +209,8 @@ The CombatCOVID PBC app has been installed by more than **1000** times. At this 
 <img src="1_star_reviews_wordcloud.png" alt="com.shield.CombatCovidPBC 1 reviews"/>
 </p>
 
+> Doesnt use googles covid tracing function. Wastes battery for almost no gain<br> :date: __2020-11-21 03:12:48__
+
 > It doesn't work...also needs to always run in the background leading to battery loss.<br> :date: __2020-10-20 23:54:44__
 
 > I am in the homes of hundreds of people each day. I was in contact with at least 130 people who later tested positive. Apparently none of them had this app. Even if they had alerted positive, I would not had gone into quarantine or been tested because I have taken all of the necessary precautions and then some. I no longer see any reason to drain my battery for this app. It is past time to uninstall. 1,500,000 people in PBC. Less than 2,000 downloads = .001% using app. Useless<br> :date: __2020-10-05 16:02:29__

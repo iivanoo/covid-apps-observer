@@ -134,6 +134,8 @@ The Canada COVID-19 app has been installed by more than **100000** times. At thi
 <img src="5_star_reviews_wordcloud.png" alt="ca.gc.hcsc.canada.covid19 5 reviews"/>
 </p>
 
+> It's amazing<br> :date: __2020-11-23 07:53:48__
+
 > Good way to get information on the viruses<br> :date: __2020-11-15 13:01:53__
 
 > Very useful and helpful, thanks for introducing this app through out the pandemic<br> :date: __2020-11-07 00:02:13__
@@ -151,8 +153,6 @@ The Canada COVID-19 app has been installed by more than **100000** times. At thi
 > I recommend and encourage all Canadians to install this.<br> :date: __2020-10-02 19:26:48__
 
 > Simple and contributing to success<br> :date: __2020-09-25 17:09:02__
-
-> The more people who use this the better it gets. I like the app.<br> :date: __2020-09-24 20:41:02__
 
 
 
@@ -190,6 +190,8 @@ The Canada COVID-19 app has been installed by more than **100000** times. At thi
 <img src="3_star_reviews_wordcloud.png" alt="ca.gc.hcsc.canada.covid19 3 reviews"/>
 </p>
 
+> Good concept, terrible execution: huge layout shifts and slow responses with no visual feedback on tap events make for a horrible user experience. It's hard to mess up buttons and forms this badly without some concentrated effort.<br> :date: __2020-11-21 15:10:55__
+
 > Mine won't work away from computer<br> :date: __2020-11-10 17:19:45__
 
 > Good idea. I've been using it for a while now. On the other hand it tells me I should self-isolate for fourteen days LITERALLY EVERY TIME I self-report - even after a month of "no symptoms". The worst I've ever reported is a mild headache. I don't get it.<br> :date: __2020-11-05 17:55:23__
@@ -207,8 +209,6 @@ The Canada COVID-19 app has been installed by more than **100000** times. At thi
 > Meh. Not great, maybe of some use to somebody. I had expected more functionality with integrations.<br> :date: __2020-08-01 04:55:14__
 
 > Pretty dissapointed to find out it didn't include any sort of contact tracing information system, but it's a convenient way to stay informed of COVID-19 nonetheless.<br> :date: __2020-07-31 18:11:40__
-
-> Well there is no DOT. to put in your temperature. Like 96.9 F do we write 97 F? Or 97.4 F we round it off to 97. This has to be fix. Something as simple as this should not be in the Beta testing phase.<br> :date: __2020-07-24 20:42:30__
 
 
 
@@ -246,6 +246,10 @@ The Canada COVID-19 app has been installed by more than **100000** times. At thi
 <img src="1_star_reviews_wordcloud.png" alt="ca.gc.hcsc.canada.covid19 1 reviews"/>
 </p>
 
+> Freezing can't use,, not opening useless app<br> :date: __2020-11-21 21:47:38__
+
+> Won't open<br> :date: __2020-11-16 17:01:06__
+
 > Does not open.<br> :date: __2020-11-14 00:35:26__
 
 > terrible<br> :date: __2020-11-03 01:18:47__
@@ -261,9 +265,5 @@ The Canada COVID-19 app has been installed by more than **100000** times. At thi
 > Application fails to launch on Galaxy S10 models.<br> :date: __2020-09-30 20:31:40__
 
 > Drain battery - not worth having<br> :date: __2020-09-27 02:49:46__
-
-> What if the point of this app? It gives generic information on a wide basis. How can I determine if my specific area is affected. I know the province numbers may be up but that does not address our regional breakdown. I found this app to be completely useless and unnecessary. It would be more useful had it been merged with the covid alert app. Disappointed. As useless as another statue in Ottawa.<br> :date: __2020-09-23 15:05:58__
-
-> This comes up if you search for Canada Covid app. But it is NOT the alert app - you must add the word Alert to your search. Dumb!!<br> :date: __2020-09-10 18:26:00__
 
 

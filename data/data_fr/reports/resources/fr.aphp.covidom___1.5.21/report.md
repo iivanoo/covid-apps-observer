@@ -216,6 +216,12 @@ The Covidom Patient app has been installed by more than **10000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="fr.aphp.covidom 1 reviews"/>
 </p>
 
+> Je ne comprends au procédures<br> :date: __2020-11-22 19:27:12__
+
+> Enfin installée... on ne sait pas comment. Pas moyen de supprimer des documents dans mon espace... A quoi sert un espace personnel si on ne peut pas le gérer ?<br> :date: __2020-11-19 16:30:06__
+
+> Impossible de s'inscrire. Malgré tous les messages reçues chaque jour, pour moi c'est nul<br> :date: __2020-11-19 10:30:49__
+
 > Inutile, fonctionne mal<br> :date: __2020-11-08 15:30:20__
 
 > Application pas clair dutout ... elle sent l arnaque !<br> :date: __2020-11-02 21:41:00__
@@ -229,11 +235,5 @@ The Covidom Patient app has been installed by more than **10000** times. At this
 > Impossible de me connecter : me demande ma date de naissance pour confirmer et me dit qu'elle ne correspond pas !!!<br> :date: __2020-10-16 13:42:32__
 
 > Le système est très nul on ne comprend rien c'est horrible<br> :date: __2020-10-13 09:58:32__
-
-> Dommage, j ai beau mettre ma date de naissance pour activer , on me répond que ce n est pas la bonne. Du coup on est privé de la aide qui devait nous être proposée concernant le covid<br> :date: __2020-10-09 19:35:30__
-
-> Utilité de l'application ? ...<br> :date: __2020-09-20 20:35:22__
-
-> Application très mal finie , web et Android. Par un pré-apprenti stagiaire ? Impossible d'ajouter un document PDF, seules les photos sont acceptées. Pas moyen d'enlever un document envoyé par erreur ! Sur la version web, je suis de sexe indéterminé, je ne peux pas corriger. Sur Android, je suis une femme. Depuis quand ? Je suis né avec un zizi il y a un peu plus de 59 ans, je l'ai toujours et n'ai jamais voulu m'en défaire. Merci de corriger.<br> :date: __2020-09-02 00:04:31__
 
 

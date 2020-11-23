@@ -1,0 +1,23 @@
+{
+    "permissions": [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        "android.permission.INTERNET",
+        "android.permission.WRITE_EXTERNAL_STORAGE"
+    ],
+    "activities": [
+        "com.rbsd.MainActivity",
+        "com.facebook.react.devsupport.DevSettingsActivity"
+    ],
+    "urls": [
+        "http://schemas.android.com/apk/res/android",
+        "http://%s/%s.%s?platform=android&dev=%s&minify=%s",
+        "http://%s/launch-js-devtools",
+        "http://%s/open-stack-frame",
+        "http://%s/status",
+        "http://%s/%s",
+        "http://%s/symbolicate",
+        "http://%s/inspector/device?name=%s&app=%s",
+        "http://www.android.com/",
+        "http://schemas.android.com/apk/res-auto"
+    ]
+}

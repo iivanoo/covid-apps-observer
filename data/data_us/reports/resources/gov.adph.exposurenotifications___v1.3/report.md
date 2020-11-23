@@ -136,6 +136,8 @@ The GuideSafe app has been installed by more than **50000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="gov.adph.exposurenotifications 5 reviews"/>
 </p>
 
+> People saying this app is not working what is this used for I will try it anyway if it doesn't work then I'll take it off my phone<br> :date: __2020-11-20 01:08:13__
+
 > Amazing<br> :date: __2020-11-12 13:16:22__
 
 > Eh Um.... HMMM 1# question tho why this app 4 all the phone's?.. Just wondering...<br> :date: __2020-10-27 02:22:20__
@@ -154,8 +156,6 @@ The GuideSafe app has been installed by more than **50000** times. At this time,
 
 > We need this in society, this would help us a lot in America. Although all the comments say it's not accurate, but the reason I posted a five star review is because if they update this to work properly then everyone can at least consider using this to reduce Covid-19.<br> :date: __2020-10-11 06:04:06__
 
-> Informative !!<br> :date: __2020-10-11 04:00:56__
-
 
 
 #### 4-star reviews
@@ -163,6 +163,10 @@ The GuideSafe app has been installed by more than **50000** times. At this time,
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="gov.adph.exposurenotifications 4 reviews"/>
 </p>
+
+> The Whole Problem With This Is Unless Everyone Uses App Kinda Useless Because No Matter How Many People I Try To Educate On The Importance Of Everyone Doing This No One Sees The Importance ! Needs To Be Mandatory !<br> :date: __2020-11-23 03:04:20__
+
+> Is there a way to report a coworker's positive test result?<br> :date: __2020-11-20 05:03:21__
 
 > Just started the app.<br> :date: __2020-11-04 21:03:09__
 
@@ -181,6 +185,10 @@ The GuideSafe app has been installed by more than **50000** times. At this time,
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="gov.adph.exposurenotifications 3 reviews"/>
 </p>
+
+> Up front everything is bluetooth, bluetooth, bluetooth. Then after install the app demands location, too. Good privacy policy, but I can't leave both bluetooth and location on at all times or my phone would have to stay on the charger 24/7. Maybe my fault for having an old phone. I'll leave it installed and just enable everything as the Austin e demands.<br> :date: __2020-11-18 21:28:03__
+
+> it would be better if it reported an estimate of how many unique devices it detected and has checked itself against just to know it is working and seeing other people with the app.<br> :date: __2020-11-16 17:07:14__
 
 > I just wish more people used it. I kinda feel like it is not useful since people have to opt in for each aspect... BUT I will keep using it as long as this pandemic drags on.<br> :date: __2020-11-10 14:09:40__
 
@@ -210,6 +218,8 @@ The GuideSafe app has been installed by more than **50000** times. At this time,
 <img src="1_star_reviews_wordcloud.png" alt="gov.adph.exposurenotifications 1 reviews"/>
 </p>
 
+> No notification of exposure, or ability to report exposure from non app users. Three people I know tested positive. This app is utterly useless.<br> :date: __2020-11-19 13:39:22__
+
 > This is of no use if health providers do not turn in the information. No.one will actually do it and YES..then there is Hippa..<br> :date: __2020-11-08 16:58:36__
 
 > I just can't figure out out bc I know as many places as I have been lately I must have had some kind of course contact somewhere and haven't received 1 alert, just everything about it is confusing I don't even know if I'm even logged in correctly or whatever you're supposed to do.. Hence being clueless<br> :date: __2020-11-08 13:15:03__
@@ -227,7 +237,5 @@ The GuideSafe app has been installed by more than **50000** times. At this time,
 > I live in Colorado, reading a local news story and this app pops up, annoying on that level, but moving on, I'm like heck yeah, I want to be informed about Covid locally. As the app is installing it shows it's for Alabama?!?!? How does that help me in Colorado? Pop ups are annoying to begin with, but if you're going to do it, at least get the state correct. If you can't get that right, I'm not going to put a lot of stock in your other life changing information.<br> :date: __2020-10-23 23:58:20__
 
 > I can't reactivate after updated. Now after I check permissions boxes when I click on enable it says "Internal e0rror, please try again."<br> :date: __2020-10-23 09:31:08__
-
-> Won't work<br> :date: __2020-10-22 22:47:15__
 
 

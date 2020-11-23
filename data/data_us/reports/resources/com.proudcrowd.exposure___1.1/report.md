@@ -172,6 +172,8 @@ The Care19 Alert app has been installed by more than **5000** times. At this tim
 <img src="4_star_reviews_wordcloud.png" alt="com.proudcrowd.exposure 4 reviews"/>
 </p>
 
+> Great!-!!🤔<br> :date: __2020-11-20 06:46:47__
+
 > Seems like a good app but here's a question, will this app be effective even though I am in Colorado? Will it be effective in another state<br> :date: __2020-09-27 10:53:58__
 
 > Add support for SD, please!<br> :date: __2020-09-10 00:36:08__
@@ -200,6 +202,10 @@ No recent reviews available with 2 stars.
 <img src="1_star_reviews_wordcloud.png" alt="com.proudcrowd.exposure 1 reviews"/>
 </p>
 
+> App has stopped checking for recent exposures .<br> :date: __2020-11-23 04:34:00__
+
+> Doesn't do what it should. Just takes up space on your phone or tablet<br> :date: __2020-11-21 15:36:41__
+
 > Shouldn't have any sort of tracker koek this. If there isn't o e for the flu or any other virus we shouldn't have it for this.<br> :date: __2020-11-16 07:06:44__
 
 > Not any relevant information for right now!! 11-15-20<br> :date: __2020-11-16 04:25:29__
@@ -215,9 +221,5 @@ No recent reviews available with 2 stars.
 > The idea is garbage, but the app is absolutely garbage how it works. Ot is a virus its self.<br> :date: __2020-10-28 02:18:24__
 
 > This app will only be effective and useful if a large percentage of the population install and use it. It looks like only 10k people have downloaded the app. With a combined total of 1.3M people between ND and WY, that is less than %1, the install base is likely even less since people have probably uninstalled it.<br> :date: __2020-10-24 19:03:20__
-
-> I can't get passed the accept screen. When I push the button nothing happens . I am a college student and the only family member leaving my house so this is a very important part of staying safe. Any help? I'm using a Xiaomi Redmi Note 8 Pro and the most recent android patch.<br> :date: __2020-10-21 09:20:23__
-
-> Communism is the very definition of failure.<br> :date: __2020-10-18 02:42:54__
 
 

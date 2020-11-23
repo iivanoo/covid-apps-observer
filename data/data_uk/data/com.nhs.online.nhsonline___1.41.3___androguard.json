@@ -1,0 +1,37 @@
+{
+    "permissions": [
+        "org.fidoalliance.uaf.permissions.FIDO_CLIENT",
+        "android.permission.READ_EXTERNAL_STORAGE",
+        "android.permission.READ_PHONE_STATE",
+        "android.permission.WAKE_LOCK",
+        "android.permission.CAMERA",
+        "android.permission.ACCESS_FINE_LOCATION",
+        "android.permission.MODIFY_AUDIO_SETTINGS",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.INTERNET",
+        "android.permission.NFC",
+        "com.google.android.c2dm.permission.RECEIVE",
+        "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+        "android.permission.RECORD_AUDIO",
+        "android.permission.USE_FINGERPRINT",
+        "android.permission.WRITE_EXTERNAL_STORAGE"
+    ],
+    "activities": [
+        "com.nhs.online.nhsonline.activities.MainActivity",
+        "com.paycasso.sdk.activity.DocuCaptureActivity",
+        "com.paycasso.sdk.activity.FaceCaptureActivity",
+        "com.paycasso.sdk.activity.EChipActivity",
+        "com.paycasso.sdk.activity.transitions.TransitionViewActivity",
+        "com.paycasso.sdk.activity.transitions.FaceTransitionViewActivity",
+        "com.paycasso.sdk.activity.transitions.FinishTransitionViewActivity",
+        "com.google.android.gms.common.api.GoogleApiActivity"
+    ],
+    "urls": [
+        "https://.",
+        "https://pagead2.googlesyndication.com/pagead/gen_204?id=gmob-apps",
+        "https://plus.google.com/",
+        "https://app-measurement.com/a",
+        "https://www.google.com",
+        "http://schemas.android.com/apk/res/android"
+    ]
+}

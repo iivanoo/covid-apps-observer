@@ -1,0 +1,32 @@
+{
+    "permissions": [
+        "com.android.vending.CHECK_LICENSE",
+        "android.permission.WAKE_LOCK",
+        "android.permission.ACCESS_FINE_LOCATION",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.INTERNET",
+        "android.permission.ACCESS_WIFI_STATE",
+        "android.permission.WRITE_EXTERNAL_STORAGE"
+    ],
+    "activities": [
+        "tuerantuer.app.integreat.MainActivity",
+        "com.facebook.react.devsupport.DevSettingsActivity"
+    ],
+    "urls": [
+        "http://schemas.android.com/apk/res/android",
+        "http://%s/%s.%s?platform=android&dev=%s&minify=%s",
+        "http://%s/launch-js-devtools",
+        "http://%s/onchange",
+        "http://%s/open-stack-frame",
+        "http://%s/status",
+        "http://%s/%s",
+        "http://%s/symbolicate",
+        "http://%s/nuclide/attach-debugger-nuclide?title=%s&app=%s&device=%s",
+        "http://%s/inspector/device?name=%s&app=%s",
+        "http://www.android.com/",
+        "https://www.facebook.com/sharer/sharer.php?u={url}",
+        "https://plus.google.com/share?url={url}",
+        "https://pinterest.com/pin/create/button/?url={url}&media=$media&description={message}",
+        "https://twitter.com/intent/tweet?text={message}&url={url}"
+    ]
+}

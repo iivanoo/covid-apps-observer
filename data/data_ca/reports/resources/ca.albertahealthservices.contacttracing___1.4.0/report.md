@@ -145,6 +145,8 @@ The ABTraceTogether app has been installed by more than **50000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="ca.albertahealthservices.contacttracing 5 reviews"/>
 </p>
 
+> Our Governments are failing us.<br> :date: __2020-11-17 15:25:10__
+
 > Stay safe and stay home Wear mask<br> :date: __2020-11-16 04:15:40__
 
 > EDIT: *NO LONGER A BATTERY DRAINER* It seems something was updated. Version 1.4 Get back to work, 'Berta. (Previous Review: Battery drainer. The only way to reasonably use the app is to turn it on around others. Otherwise, not a "set it, forget it" solution. The overall function of the app is clearly explained, and is fine to use when needed. No crashes, flawless app persistence.)<br> :date: __2020-11-13 00:17:06__
@@ -162,8 +164,6 @@ The ABTraceTogether app has been installed by more than **50000** times. At this
 > I just feel safer in having this app. Thank you...<br> :date: __2020-10-08 05:34:20__
 
 > Track if you come into contact with individuals that have COVID19. This app will notify you if youve been exposed or near someone that has registered that location and time with the government of alberta<br> :date: __2020-10-07 18:48:59__
-
-> great<br> :date: __2020-10-07 08:48:06__
 
 
 
@@ -229,6 +229,8 @@ The ABTraceTogether app has been installed by more than **50000** times. At this
 <img src="2_star_reviews_wordcloud.png" alt="ca.albertahealthservices.contacttracing 2 reviews"/>
 </p>
 
+> Ok not great<br> :date: __2020-11-19 22:23:04__
+
 > As others have said, it's like the federal government app but worse. They should just make both available to Albertans and let us decide. My choice would be easy.<br> :date: __2020-11-11 23:44:19__
 
 > I feel it's a good idea, implemented poorly. Within an hour of 100% battery I am down to 85%. Not well designed. It's not right for me... I have uninstalled it.<br> :date: __2020-11-11 04:00:11__
@@ -247,8 +249,6 @@ The ABTraceTogether app has been installed by more than **50000** times. At this
 
 > How are supposed to trace the virus if the app is not compatible with older Android version .you need to have at least Android version 8 . That's very not smart.<br> :date: __2020-09-22 20:00:04__
 
-> It's an absolute battery drainer! The intentions are good and the existence of it is important but it's just killing my battery and my phone is brand new.<br> :date: __2020-08-25 04:21:04__
-
 
 
 #### 1-star reviews
@@ -257,24 +257,24 @@ The ABTraceTogether app has been installed by more than **50000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="ca.albertahealthservices.contacttracing 1 reviews"/>
 </p>
 
-> WHY CAN'T I GET THE NATIONAL APP THIS IS TRASH VOTE NDP<br> :date: __2020-11-15 21:03:05__
+> Get the canada app instead. It currently accomplishes the same thing even though the ab gov hasn't activated it...<br> :date: __2020-11-23 08:58:41__
 
-> This is garbage, Albertans shouldn't suffer because our premier is an idiot. Allow us to use the federal app or merge them, Canada should stick together and help eachother not draw lines in the sand over an app. I don't care about the reasoning, just make it so we all use the same damned app.<br> :date: __2020-11-13 23:20:23__
+> I wish I could give this a zero star rating. We ñeed the Canadian teacing app.<br> :date: __2020-11-23 07:38:19__
 
-> Absolute waste, Federal app is better but Kenny would never allow that. Removed after a few hours of pure battery drain.<br> :date: __2020-11-13 05:58:12__
+> Doesn't work properly, what a failure. Let us use the federal app Jason Kenney!<br> :date: __2020-11-23 07:28:29__
 
-> I wish I could give it zero. Doesn't work, as stated months ago<br> :date: __2020-11-13 01:18:47__
+> Useless app<br> :date: __2020-11-23 00:27:27__
 
-> Drain on battery, not as useful as the federal app. Wish Alberta would stop pushing this on us.<br> :date: __2020-11-12 09:03:27__
+> It's useless, because no one downloaded it. Super useless, because it's basically all the Alberta government has done.<br> :date: __2020-11-22 20:47:33__
 
-> This is such a joke, we have a federal system available that works better, why force us to use a worse alternative? This isn't about politics, it's about people's lives.<br> :date: __2020-11-12 08:16:55__
+> Had this app downloaded until it came out that it only identified 19 cases. What a waste!<br> :date: __2020-11-22 19:58:32__
 
-> Proven to not work in background on iPhone and works inconsistently on Android. Gov appears to be misleading about functionality.<br> :date: __2020-11-12 01:03:43__
+> Does not work<br> :date: __2020-11-22 19:42:19__
 
-> Charger cannot full charge battery due to app consuming power.<br> :date: __2020-11-11 14:43:05__
+> This app is Trash just like the UCP. Has only been used to track 19 cases in Alberta since it launched in May. Even with 250,000+ downloads. Over 40,000 Albertans have tested positive for Covid19 since the pandemic started, and of the 19 cases this app has tracked, only 70 people have been notified that they were in close contact. The UCP spent nearly 1 million dollars on this. More ppl have died in 1 day than this app has tracked since May. Give it 1 star and delete it. Demand the federal app.<br> :date: __2020-11-22 19:00:12__
 
-> All, Kenny doesn't know how apps work. The federal apps work based on a collaboration between Google and Apple to anonymously trace infections. This app doesn't. Switch now.<br> :date: __2020-11-10 06:24:53__
+> A garbage app from a garbage government.<br> :date: __2020-11-22 11:46:28__
 
-> Drains the battery, and requires more info than the federal app. Should just use that one, if not for the government blocking it.<br> :date: __2020-11-10 01:59:35__
+> PLEASE FOR ALBERTAS SAKE, INSTALL THE FEDERAL APP! Write your Councillor's, MLA's and MP's demanding they stop wasting Alberta tax dollars on this when the federal Gov is already doing it. AB Gov does not have the resources or knowledge on software lifecycles and adoption. Out provincial borders are NOT closed! Use the Canadian app for your own safety!<br> :date: __2020-11-22 07:56:06__
 
 

@@ -164,6 +164,10 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 <img src="5_star_reviews_wordcloud.png" alt="de.xikolo.openwho 5 reviews"/>
 </p>
 
+> I have no experience in use I heared ABOUT<br> :date: __2020-11-21 20:57:38__
+
+> Enjoyable<br> :date: __2020-11-21 18:49:13__
+
 > Fabulous<br> :date: __2020-11-13 13:19:20__
 
 > Good<br> :date: __2020-11-06 18:32:20__
@@ -179,10 +183,6 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 > This is really nice and helpful. I really ful to WHO to give us such opportunities to learn many of about health care. And to give us opportunities to learn free and get record of achievement which encourage us to learn more and more.<br> :date: __2020-10-09 18:45:37__
 
 > It's an incredible app<br> :date: __2020-10-08 18:52:11__
-
-> I. AM. BELIVE W.H.O<br> :date: __2020-10-07 07:29:41__
-
-> It's educative<br> :date: __2020-10-01 11:38:30__
 
 
 

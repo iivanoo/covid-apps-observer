@@ -163,6 +163,12 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 <img src="5_star_reviews_wordcloud.png" alt="gov.fema.mobile.android 5 reviews"/>
 </p>
 
+> Very good 👍👍<br> :date: __2020-11-20 07:42:31__
+
+> This is one of the essential apps.<br> :date: __2020-11-19 15:28:00__
+
+> what does this stand for... anyway ty and lúvu<br> :date: __2020-11-17 07:33:50__
+
 > Great<br> :date: __2020-11-15 19:38:04__
 
 > A very helpful resource.<br> :date: __2020-11-11 21:17:34__
@@ -176,12 +182,6 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 > Easy and great ti yse...Thank you FEMA<br> :date: __2020-10-21 15:38:31__
 
 > Awesome assistances programs<br> :date: __2020-10-21 07:44:28__
-
-> Great notification updates. Thanks so much<br> :date: __2020-10-20 15:49:27__
-
-> Very complete and easy to use<br> :date: __2020-10-18 14:15:04__
-
-> Great app👍👍👍<br> :date: __2020-10-16 05:52:04__
 
 
 
@@ -199,8 +199,6 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 
 > Overall decent, but I don't need 17 alerts in one hour for the same storm.<br> :date: __2020-08-24 01:10:21__
 
-> I took care of a FEMA worker so I thought I would check out app<br> :date: __2020-07-27 23:49:33__
-
 > It's missing the alerts Snow Squall Warning, Inland Hurricane Warning, Inland Hurricane Watch, Inland Tropical Storm Warning, and Inland Tropical Storm Watch.<br> :date: __2020-07-27 22:57:25__
 
 > Fast reliablie services<br> :date: __2020-07-09 01:04:27__
@@ -210,6 +208,8 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 > Great at giving alerts for different areas. Live posting during storms is excellent. Just be careful you don't list to many places to avoid constant updates.<br> :date: __2020-06-12 03:22:06__
 
 > Only worth downloading if you're in a disaster situation. Otherwise it's not very useful.<br> :date: __2020-05-23 06:10:43__
+
+> Extremely well covers high pop centers. However, little to no coverage in rural areas. We live in Benton County, MO...no coverage ANYWHERE here.<br> :date: __2020-05-22 15:48:47__
 
 
 

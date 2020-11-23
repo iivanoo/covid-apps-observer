@@ -1,0 +1,53 @@
+{
+    "permissions": [
+        "com.oppo.launcher.permission.READ_SETTINGS",
+        "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+        "android.permission.INTERNET",
+        "com.oppo.launcher.permission.WRITE_SETTINGS",
+        "android.permission.WAKE_LOCK",
+        "me.everything.badger.permission.BADGE_COUNT_READ",
+        "com.sonyericsson.home.permission.BROADCAST_BADGE",
+        "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+        "com.htc.launcher.permission.UPDATE_SHORTCUT",
+        "android.permission.READ_APP_BADGE",
+        "com.anddoes.launcher.permission.UPDATE_COUNT",
+        "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+        "com.sec.android.provider.badge.permission.READ",
+        "com.google.android.providers.gsf.permission.READ_GSERVICES",
+        "com.huawei.android.launcher.permission.READ_SETTINGS",
+        "me.everything.badger.permission.BADGE_COUNT_WRITE",
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "com.htc.launcher.permission.READ_SETTINGS",
+        "com.google.android.c2dm.permission.RECEIVE",
+        "com.majeur.launcher.permission.UPDATE_BADGE",
+        "com.sec.android.provider.badge.permission.WRITE",
+        "com.huawei.android.launcher.permission.CHANGE_BADGE"
+    ],
+    "activities": [
+        "plus.gemeinde.spiesenelversberg.MainActivity",
+        "com.gae.scaffolder.plugin.FCMPluginActivity",
+        "com.google.firebase.auth.internal.FederatedSignInActivity",
+        "com.google.android.gms.tagmanager.TagManagerPreviewActivity",
+        "com.google.android.gms.common.api.GoogleApiActivity"
+    ],
+    "urls": [
+        "http://schemas.android.com/apk/res/android",
+        "https://pagead2.googlesyndication.com/pagead/gen_204?id=gmob-apps",
+        "https://plus.google.com/",
+        "http://www.google-analytics.com",
+        "https://ssl.google-analytics.com",
+        "http://hostname/?",
+        "https://www.google-analytics.com",
+        "https://app-measurement.com/a",
+        "https://firebaseremoteconfig.googleapis.com/",
+        "https://ssl.gstatic.com/accessibility/javascript/android/",
+        "http://localhost",
+        "https://api.whatsapp.com/send?phone=",
+        "http://*/*",
+        "https://*/*",
+        "https://www.googleapis.com/auth/games_lite",
+        "https://www.googleapis.com/auth/games",
+        "https://www.google.com"
+    ]
+}

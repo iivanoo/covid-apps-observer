@@ -226,6 +226,8 @@ The BC COVID-19 Support app has been installed by more than **50000** times. At 
 <img src="1_star_reviews_wordcloud.png" alt="ca.bc.gov.health.hlbc.COVID19 1 reviews"/>
 </p>
 
+> Not good. Tells you to get checked and self isolate if you have a mild headache. For useful stats it just refers you to the website.<br> :date: __2020-11-21 03:52:14__
+
 > Why? This is nothing more than an interface to information. It's time for BC to get on board with the Canadian Covid-19 contact tracing app<br> :date: __2020-09-24 07:26:37__
 
 > Does not show the right detailed information. Northern British Columbia is vast and a new case a thousand kilometres away is treated like it is on my back door. The maps could be better defined.<br> :date: __2020-08-28 06:11:40__
@@ -243,7 +245,5 @@ The BC COVID-19 Support app has been installed by more than **50000** times. At 
 > Can't use it anymore. Says browser needs to be updated (not true as far as I can tell)<br> :date: __2020-04-01 01:43:55__
 
 > Useless!<br> :date: __2020-03-29 17:02:48__
-
-> Keep having to uninstall and reinstall<br> :date: __2020-03-29 07:38:58__
 
 

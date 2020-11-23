@@ -1,0 +1,36 @@
+{
+    "permissions": [
+        "android.permission.FOREGROUND_SERVICE",
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        "android.permission.ACCESS_WIFI_STATE",
+        "android.permission.ACCESS_FINE_LOCATION",
+        "android.permission.CAMERA",
+        "android.permission.READ_EXTERNAL_STORAGE",
+        "com.google.android.c2dm.permission.RECEIVE",
+        "android.permission.RECORD_AUDIO",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.INTERNET",
+        "android.permission.WAKE_LOCK",
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        "com.google.android.providers.gsf.permission.READ_GSERVICES"
+    ],
+    "activities": [
+        "com.tns.NativeScriptActivity",
+        "com.tns.ErrorReportActivity",
+        "pub.devrel.easypermissions.AppSettingsDialogHolderActivity",
+        "com.google.android.gms.common.api.GoogleApiActivity",
+        "com.vincent.filepicker.activity.ImagePickActivity",
+        "com.vincent.filepicker.activity.ImageBrowserActivity",
+        "com.vincent.filepicker.activity.VideoPickActivity",
+        "com.vincent.filepicker.activity.AudioPickActivity",
+        "com.vincent.filepicker.activity.NormalFilePickActivity"
+    ],
+    "urls": [
+        "https://www.example.com",
+        "http://schemas.android.com/apk/res/android",
+        "https://plus.google.com/",
+        "http://schemas.android.com/apk/res-auto",
+        "https://www.googleapis.com/auth/games_lite",
+        "https://www.googleapis.com/auth/games"
+    ]
+}

@@ -1,11 +1,23 @@
 [
     {
+        "reviewId": "gp:AOqpTOGOKrcgMIKKfMJfgqvmqqG65qo8M04IoKzRoaLFpdEGtu8l_TlEM8vV3nc7S4SQDwi_B3alKBMNqCbabf0",
+        "userName": "Adlai Newson",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgBHDM9xWjh7ViNKSrtGHMRo_anVoOaXGIwCG2vGOQ",
+        "content": "Not good. Tells you to get checked and self isolate if you have a mild headache. For useful stats it just refers you to the website.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2020-11-21 03:52:14",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOGNWEdgAkjhsRJZ0R227EvBncyMBABZ0Dc-inU92WyP8bSCScKl4frMY9ePLpoPVozZ_ZehuyI-eB0R4Wo",
         "userName": "John C",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg7Zgpmwtia4y44HkjJxs1azE7R3BH97i8ea7P5yw",
         "content": "It may not be a perfect app, but it is a good start. At least now we have a means to stay up to date with current recommendations and restrictions. There are improvements to be made, and I am sure they will be made as we continue to support it.",
         "score": 4,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 2,
         "reviewCreatedVersion": "1.28.0",
         "at": "2020-11-14 03:19:33",
         "replyContent": null,
@@ -17,7 +29,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-Ob3gzrtSrgU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclLtkBfUcWwsduRgRmWa5fTIkTUMg/photo.jpg",
         "content": "I love the app and the up to date info it would be nice though if we could see not just how many cases there are in each Health Authority but instead the number of active cases per health authority",
         "score": 3,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 2,
         "reviewCreatedVersion": "1.28.0",
         "at": "2020-10-30 05:35:56",
         "replyContent": null,
@@ -25,7 +37,7 @@
     },
     {
         "reviewId": "gp:AOqpTOHpnCbZq6sIuBBRs6TlBlAVLtt-TZSN4QCihT1bhFqYFbulHKVNeXW4KnFoGUWCm_5ZlgcApkB7r4Xq7uI",
-        "userName": "Arab All",
+        "userName": "Kal M",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ghm6-9x91PHGIj9tLANdxDUwSZohvKK9sVi0WgO5i8",
         "content": "The stats page is not updating. It's still show stats from September 30.",
         "score": 2,

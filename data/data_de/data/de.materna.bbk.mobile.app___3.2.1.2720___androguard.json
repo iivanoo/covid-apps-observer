@@ -1,0 +1,40 @@
+{
+    "permissions": [
+        "android.permission.ACCESS_BACKGROUND_LOCATION",
+        "android.permission.WAKE_LOCK",
+        "android.permission.FOREGROUND_SERVICE",
+        "android.permission.ACCESS_FINE_LOCATION",
+        "android.permission.ACCESS_COARSE_LOCATION",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.INTERNET",
+        "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+        "com.google.android.c2dm.permission.RECEIVE",
+        "android.permission.VIBRATE",
+        "android.permission.WRITE_EXTERNAL_STORAGE"
+    ],
+    "activities": [
+        "de.materna.bbk.mobile.app.ui.MainActivity",
+        "de.materna.bbk.mobile.app.ui.EmptyTestActivity",
+        "de.materna.bbk.mobile.app.ui.SplashScreenActivity",
+        "de.materna.bbk.app.news.onboarding.ui.OnboardingActivity",
+        "de.materna.bbk.app.news.pre_dialog.ui.PreDialogActivity",
+        "de.materna.bbk.mobile.app.settings.ui.helpcenter.HelpCenterActivity",
+        "com.google.android.play.core.missingsplits.PlayCoreMissingSplitsActivity",
+        "com.google.android.play.core.common.PlayCoreDialogWrapperActivity",
+        "com.google.android.gms.common.api.GoogleApiActivity"
+    ],
+    "urls": [
+        "http://schemas.android.com/apk/res/android",
+        "https://pagead2.googlesyndication.com/pagead/gen_204?id=gmob-apps",
+        "https://plus.google.com/",
+        "https://app-measurement.com/a",
+        "https://google.com/search?",
+        "https://%s/%s/%s",
+        "https://firebaseremoteconfig.googleapis.com/v1/projects/%s/namespaces/%s:fetch",
+        "https://settings.crashlytics.com/spi/v2/platforms/android/apps/%s/settings",
+        "https://e.crashlytics.com/spi/v2/events",
+        "http://schemas.android.com/apk/res-auto",
+        "https://www.google.com",
+        "https://www.googleadservices.com/pagead/conversion/app/deeplink?id_type=adid&sdk_version=%s&rdid=%s&bundleid=%s&retry=%s"
+    ]
+}

@@ -184,6 +184,8 @@ No recent reviews available with 2 stars.
 <img src="1_star_reviews_wordcloud.png" alt="org.who.infoapp 1 reviews"/>
 </p>
 
+> Non ce l'italiano..<br> :date: __2020-11-21 17:13:12__
+
 > Fatelo anche in italiano grazie<br> :date: __2020-10-18 21:06:47__
 
 > Non serve a niente . vorrei darle meno di una stella ma non si poe 😄😄😄<br> :date: __2020-09-05 08:23:52__

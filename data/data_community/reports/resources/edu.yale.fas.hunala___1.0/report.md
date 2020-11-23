@@ -139,6 +139,8 @@ The Hunala app has been installed by more than **1000** times. At this time, **7
 <img src="5_star_reviews_wordcloud.png" alt="edu.yale.fas.hunala 5 reviews"/>
 </p>
 
+> Needs more content. Great app though.<br> :date: __2020-11-18 19:16:46__
+
 > Appreciate that it Asks for the bare minimum<br> :date: __2020-08-15 14:41:33__
 
 
@@ -182,6 +184,8 @@ The Hunala app has been installed by more than **1000** times. At this time, **7
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="edu.yale.fas.hunala 1 reviews"/>
 </p>
+
+> Way too much personal info asked.<br> :date: __2020-11-19 05:24:30__
 
 > I love the concept. But I am traveling across the U.S. and the app "find my location" tool never works. Yes, my phone GPS is on. Yes, all permissions have been granted. I travel for a living and I know how to use this stuff. I am having no problems with local search, routing, weather and all the other apps that use my phone's GPS location. Just this one. There is something wrong with this app. It is of no use to me if it isn't tracking the many states I'm traveling thru each day.<br> :date: __2020-06-03 14:23:53__
 

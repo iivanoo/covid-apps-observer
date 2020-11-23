@@ -1,0 +1,50 @@
+{
+    "permissions": [
+        "android.permission.WAKE_LOCK",
+        "android.permission.ACCESS_FINE_LOCATION",
+        "android.permission.ACCESS_COARSE_LOCATION",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.INTERNET",
+        "com.google.android.c2dm.permission.RECEIVE",
+        "android.permission.READ_GSERVICES",
+        "com.google.android.providers.gsf.permission.READ_GSERVICES",
+        "com.app.p3681GD.permission.C2D_MESSAGE",
+        "android.permission.WRITE_EXTERNAL_STORAGE"
+    ],
+    "activities": [
+        "md59fb7be9446cafa9b7a19cbb5e9f74a17.BaseActivity",
+        "md59fb7be9446cafa9b7a19cbb5e9f74a17.SiblingNavigationViewController",
+        "md59fb7be9446cafa9b7a19cbb5e9f74a17.WidgetFragmentActivity_1",
+        "md59fb7be9446cafa9b7a19cbb5e9f74a17.WidgetFragmentActivity",
+        "app.Main",
+        "md59fb7be9446cafa9b7a19cbb5e9f74a17.SlidingActivity",
+        "md5609c50e51dbc292a4b63d5ab4ecf9c94.Camera_InternalCropImage",
+        "md5bcad9446a233712c3630d099e5646bd2.BaseActionBarActivity",
+        "md53d187d1ae68db077a923b860b3b8b72a.ZxingActivity",
+        "com.google.android.gms.ads.AdActivity",
+        "com.google.android.gms.common.api.GoogleApiActivity"
+    ],
+    "urls": [
+        "http://schemas.android.com/apk/res/android",
+        "https://pagead2.googlesyndication.com/pagead/gen_204?id=gmob-apps",
+        "https://www.googleapis.com/auth/games",
+        "https://plus.google.com/",
+        "https://pagead2.googlesyndication.com/pagead/gen_204",
+        "http://www.google.com",
+        "https://support.google.com/dfp_premium/answer/7160685#push",
+        "https://app-measurement.com/a",
+        "https://www.google.com",
+        "http://www.example.com",
+        "https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/sdk-core-v40.html",
+        "https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/mraid/v2/mraid_app_banner.js",
+        "https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/mraid/v2/mraid_app_expanded_banner.js",
+        "https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/mraid/v2/mraid_app_interstitial.js",
+        "https://csi.gstatic.com/csi",
+        "https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/native_ads.html",
+        "https://imasdk.googleapis.com/admob/sdkloader/native_video.html",
+        "https://www.google.com/dfp/linkDevice",
+        "https://www.google.com/dfp/inAppPreview",
+        "https://www.google.com/dfp/debugSignals",
+        "https://www.google.com/dfp/sendDebugData"
+    ]
+}

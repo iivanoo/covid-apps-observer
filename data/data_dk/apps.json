@@ -4,20 +4,20 @@
         "store_country": "dk",
         "store_lang": "dk",
         "latest_crawled_version": "3.1.1",
-        "latest_crawl": 1605530526
+        "latest_crawl": 1606127692
     },
     {
         "id": "de.xikolo.openwho",
         "store_country": "dk",
         "store_lang": "dk",
         "latest_crawled_version": "3.6",
-        "latest_crawl": 1605530533
+        "latest_crawl": 1606127692
     },
     {
         "id": "com.netcompany.smittestop_exposure_notification",
         "store_country": "dk",
         "store_lang": "dk",
-        "latest_crawled_version": "2.0",
-        "latest_crawl": 1605531085
+        "latest_crawled_version": "2.0.1",
+        "latest_crawl": 1606127693
     }
 ]

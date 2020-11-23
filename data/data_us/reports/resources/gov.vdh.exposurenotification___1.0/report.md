@@ -130,6 +130,8 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 <img src="5_star_reviews_wordcloud.png" alt="gov.vdh.exposurenotification 5 reviews"/>
 </p>
 
+> Good<br> :date: __2020-11-16 22:36:13__
+
 > Great to see an implementation of COVID tracking. This is following the de facto method for anonymous tracing provided by Google/Apple. Reviews upset at Bluetooth usage are not familiar with the implications/work for anonymous tracing, GPS or other means would be vastly more energy intensive. Turn on your Bluetooth.<br> :date: __2020-11-15 17:13:08__
 
 > Does as intended. Privacy Policy provides details as to how personal info is not used.<br> :date: __2020-11-15 16:27:53__
@@ -147,8 +149,6 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 > Like the idea of the security of having this info available upon request<br> :date: __2020-11-11 20:40:50__
 
 > So far this application has been working as advertised<br> :date: __2020-11-09 21:09:29__
-
-> Great idea but only great if everyone uses it across the US. That will never happen unless mandated by the government and then you'll have lawsuits and protests. Good luck with making this a success without mandatory usage.<br> :date: __2020-11-04 00:20:48__
 
 
 
@@ -186,6 +186,8 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 <img src="3_star_reviews_wordcloud.png" alt="gov.vdh.exposurenotification 3 reviews"/>
 </p>
 
+> Good idea, flawed execution. A person who tests positive must input a PIN that they receive from a state contact tracer to report their illness. This works great as long as the contact tracing is performed properly. Personal experience: my wife tested positive, did not hear from a contract tracer, never received a PIN. At no point did the app indicate that I had been exposed, even though I share a home with someone who tested positive. This may be an isolated case, but I've lost confidence.<br> :date: __2020-11-20 01:38:46__
+
 > I'm gonna keep it on my phone, but i was with someone who tested positive and the app didn't catch it, so I'm pretty sure it's useless.<br> :date: __2020-11-09 21:35:18__
 
 > Rating based on alert function rather than any more independent function or utility.<br> :date: __2020-11-07 23:00:14__
@@ -204,8 +206,6 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 
 > It's ridiculous that there are only state apps. I live in California and I don't see an app for me. Also what about people who cross state lines? There needs to be a unified federal App, but I can't see it happening.<br> :date: __2020-09-18 20:53:23__
 
-> I think yall should makw this app for arkansas tbh my state hasent made one and downloading this app and it using my location will it pickup exposure here in ark?<br> :date: __2020-09-12 04:00:25__
-
 
 
 #### 2-star reviews
@@ -213,6 +213,8 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="gov.vdh.exposurenotification 2 reviews"/>
 </p>
+
+> Extremely basic; doesn't include detailed information compared to Maryland, Pennsylvania, or New York's apps that share statistics, charts, and trends by day and week. This app is just a notification and reporting app for positive cases.<br> :date: __2020-11-21 22:01:42__
 
 > Program tells me my last scan for potential exposure was oct 11th. I always have bluetooth and location services turned on as requested. I even turn on wifi almost daily to quickly update any programs on my phone. No apparent way to force a database exposure check.<br> :date: __2020-11-04 09:59:53__
 
@@ -232,8 +234,6 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 
 > Update: month and a half after i installed the app and there are only 1% users across VA. Time to uninstall it. Anything that helps to fight covid gets 5 star and to those believing in looney tunes and conspiracy theories think about what you carry in your pocket (cell phone) or have on a shelf at home (alexa). Either you give your phone permission or not do you really think professional IT person can't make a virus go around your blocked permissions?<br> :date: __2020-09-27 15:29:08__
 
-> This was a tough situation it was like it was almost a virus and I still don't know if it was because I still can't use my Facebook or my messenger and it kind of makes me upset but it said it is it takes 3 business days and we'll find out so I'll give it 3 days 3 days goes quick<br> :date: __2020-09-10 20:28:58__
-
 
 
 #### 1-star reviews
@@ -241,6 +241,12 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="gov.vdh.exposurenotification 1 reviews"/>
 </p>
+
+> I had this app for several months and I have never got a notice and I have been to the hospital several times. I think this app is a waste of time and space. I have deleted it.. I appreciate it, but till you make it where the cdc inputs the info, this app is useless. No one will volunteer to put there info in, except good citizens, and those are few and far between<br> :date: __2020-11-22 17:08:11__
+
+> it sucks dont download<br> :date: __2020-11-21 02:45:49__
+
+> This doesn't tell me a thing . And it takes up space on my phone<br> :date: __2020-11-19 20:18:01__
 
 > If you're that scared and/or sick then keep your ass inside. People are dumb...<br> :date: __2020-11-16 00:18:55__
 
@@ -255,11 +261,5 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 > This app is junk...My wife is Covid19 positive. She reported in the app as infected patient. I stood right next to her (with her phone on her hand)and the app on my phone did not alert anything...<br> :date: __2020-11-11 15:49:01__
 
 > Not very accurate. Sorry if the truth hurts. All I am saying is my local news is saying that there is COVID - 19 positive tests, confirmed reports that there was a local outbreak and guess what, hmm., your app didn't inform me of it.<br> :date: __2020-11-10 12:16:47__
-
-> We do not need another political app. Please reframe from using this fake app.<br> :date: __2020-11-08 07:41:48__
-
-> Not useful<br> :date: __2020-11-07 04:41:14__
-
-> I had this app for several months and I have never got a notice and I have been to the hospital several times. I think this app is a waste of time and space. I have deleted it.<br> :date: __2020-11-06 16:46:41__
 
 

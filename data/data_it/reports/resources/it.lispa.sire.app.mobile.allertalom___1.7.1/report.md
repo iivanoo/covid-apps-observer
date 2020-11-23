@@ -188,9 +188,9 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <img src="4_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 4 reviews"/>
 </p>
 
-> Molto buona!!<br> :date: __2020-11-14 09:31:47__
+> Utilissima soprattutto per un montanaro come me<br> :date: __2020-11-21 20:29:11__
 
-> Di semplice utilizzo. Una pecca e' l'impossibilita' di modificare l'eta' anagrafica, modifica che forse porterebbe ad una maggiore utilita' nel monitoraggio anche per fascia d'eta'. Sarebbe stato forse necessario poter fornire anche un dato relativo alla mobilita' impiegata dall'utente, per meglio valutare l'incidenza della diffusione del virus se si utilizzano trasporti pubblici.<br> :date: __2020-11-12 11:50:40__
+> Molto buona!!<br> :date: __2020-11-14 09:31:47__
 
 > Chiedo scusa sabato dopo averla aggiornata funziona regolarmente e ho mandato una email alla vostra società<br> :date: __2020-11-03 08:43:12__
 
@@ -244,6 +244,8 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <img src="2_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 2 reviews"/>
 </p>
 
+> Non si riesce a cambiare l'età e una volta inserito un familiare non si riesce più a toglierlo<br> :date: __2020-11-21 13:58:07__
+
 > Oggi non si collega....<br> :date: __2020-10-30 08:31:22__
 
 > Da un paio di mesi arrivano le allerte ma non si apre più l'applicazione<br> :date: __2020-10-04 13:40:07__
@@ -262,8 +264,6 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 
 > Scaricata x curiosità, mah... Ci sono domande che andrebbero migliorate, tipo in che comune lavori? Non c'è modo di fare scelte multiple un rappresentante, una guardia giurata, un corriere girano la provincia ed oltre, io ho messo dove ho la sede xò...<br> :date: __2020-07-18 16:00:53__
 
-> Questa app no piage perché io sto regione marche e sto Appignano provincia magerata<br> :date: __2020-06-18 18:07:20__
-
 
 
 #### 1-star reviews
@@ -271,6 +271,8 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 1 reviews"/>
 </p>
+
+> Ad un certo punto non ha più funzionato. Ho tentato di fare un aggiornamento ma non è riuscito, allora ho disinstallato la app e cercato di reinstallare, ma inutilmente! Non si installa<br> :date: __2020-11-19 12:54:38__
 
 > Dopo l'ultimo aggiornamento non si apre più. Si inchioda ed esce la finestra che avvisa di riprovare. Avete voluto strafare per tracciare covid e compagni ed è uscito un minestrone inutile e che non sapete maneggiare. Peccato, le allerte meteo erano interessanti. Disinstallata e amen.<br> :date: __2020-11-16 00:51:51__
 
@@ -289,7 +291,5 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 > No comment serve a niente<br> :date: __2020-10-11 21:18:16__
 
 > Semplicemente ridicola....<br> :date: __2020-09-29 10:16:31__
-
-> allerte meteo non aggiornate<br> :date: __2020-08-27 11:37:12__
 
 

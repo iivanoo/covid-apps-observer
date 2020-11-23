@@ -300,6 +300,8 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 <img src="1_star_reviews_wordcloud.png" alt="gov.cdc.general 1 reviews"/>
 </p>
 
+> Think they have a virus<br> :date: __2020-11-19 01:08:32__
+
 > It is useless<br> :date: __2020-11-11 22:56:21__
 
 > It has a lot of information if you want to shift through all of it to find what you want. I can't find a search function so it is easier to Google the web for information<br> :date: __2020-10-07 13:01:04__
@@ -317,7 +319,5 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 > Slow and wrong information.<br> :date: __2020-08-23 14:09:31__
 
 > All it does is white screen<br> :date: __2020-08-16 19:13:23__
-
-> Racist fear mongering app<br> :date: __2020-08-08 17:44:06__
 
 

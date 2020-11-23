@@ -157,6 +157,10 @@ The COCOA - COVID-19 Contact App app has been installed by more than **5000000**
 <img src="5_star_reviews_wordcloud.png" alt="jp.go.mhlw.covid19radar 5 reviews"/>
 </p>
 
+> Good<br> :date: __2020-11-20 14:17:29__
+
+> Good<br> :date: __2020-11-18 06:16:36__
+
 > Great!<br> :date: __2020-11-12 06:04:42__
 
 > Works very well, took a second to install, didn't ask for any info, just gets on with it. Note that you only get anything out of it if it detects that you were close to someone who had the virus for at least 15 minutes. As hardly anyone has it in Japan, you likely won't get many hits, maybe none, at the moment at least (Essentially because preemptive efforts like this are working).<br> :date: __2020-10-27 17:49:59__
@@ -172,10 +176,6 @@ The COCOA - COVID-19 Contact App app has been installed by more than **5000000**
 > Japan's contact tracing app is one more layer of safety when it comes to the coronavirus. The app works fine on my Pixel 4.<br> :date: __2020-07-09 07:44:07__
 
 > Cool! Thanks.<br> :date: __2020-06-25 02:30:49__
-
-> Good. Good. Good.<br> :date: __2020-06-23 11:15:39__
-
-> Straightforward app, pretty good explanations of how this works, 5/5<br> :date: __2020-06-22 10:20:41__
 
 
 
@@ -231,6 +231,8 @@ The COCOA - COVID-19 Contact App app has been installed by more than **5000000**
 <img src="1_star_reviews_wordcloud.png" alt="jp.go.mhlw.covid19radar 1 reviews"/>
 </p>
 
+> I cannot register, maybe not yet as Im before travel to JPN. I'm still in GER. To enter to JPN I'm requested to install, but I wonder if it will work if I cannot register.<br> :date: __2020-11-23 00:03:21__
+
 > 更新データの量が多すぎる。もっとスマートにしろ、変な機能付けようとするな！<br> :date: __2020-11-08 05:00:42__
 
 > Network error during installation after accepting the terms. Why make such a half baked app mandatory to install?<br> :date: __2020-10-22 17:54:47__
@@ -248,7 +250,5 @@ The COCOA - COVID-19 Contact App app has been installed by more than **5000000**
 > I thought this app would give information on my area, where there are covid cases.<br> :date: __2020-08-06 16:50:38__
 
 > 本アプリ登録後にエラー続出。アンインストール後もエラーが直らない。<br> :date: __2020-07-18 07:05:27__
-
-> Triple Useless. A person with Covid-19 has to be tested positive (it's almost impossible to get tested in Japan). Then they have to use the app, register their positive status, keep their phone with them and keep the app running at all times (impractical). Finally, "contact" only counts if you're within 1 meter of such a person for at least 15 minutes at one time (an absurdly narrow definition of risk).<br> :date: __2020-07-17 15:46:18__
 
 

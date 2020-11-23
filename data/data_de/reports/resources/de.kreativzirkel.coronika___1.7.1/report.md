@@ -163,6 +163,10 @@ The Coronika - Dein Corona Tagebuch app has been installed by more than **50000*
 <img src="5_star_reviews_wordcloud.png" alt="de.kreativzirkel.coronika 5 reviews"/>
 </p>
 
+> Die App ist im handling sehr ok. Allerdings habe ich nun festgestellt, dass ich überfordert wäre, all meine täglichen Kontakte lückenlos zu erfassen und (detailliert) festzuhalten. Diese Kugel gebe ich mir nicht. Aber das muß jeder selbst für sich entscheiden. Wer damit keine Probleme hat, ist hier bestens versorgt.<br> :date: __2020-11-19 16:40:07__
+
+> Sehr gutes Kontakttagebuch für die, die entweder nicht ständig Bluetooth und Ortungsdienste an haben wollen oder einfach nur selber den Überblick behalten möchten, wen sie wann getroffen haben. Man muß halt das bißchen Disziplin aufbringen, die Begegnungen einzutragen...<br> :date: __2020-11-18 19:37:51__
+
 > Schöne kleine App und sehr nützlich. Den Stein ins Rollen gebracht hat Prof. Drosten Anfang Oktober 2020 mit seiner Aufforderung ein Corona-Tagebuch zu führen. Open Source / Github war für mich dann der Initiator speziell diese App auszuprobieren. Klasse. Anfangs musste ich meine Tipp-Faulheit neue Personen und neue Orte einzugeben erst mal überwinden. Hat man diese Hürde genommen, dann geht die Tageseingabe per antippen von immer denselben Personen und denselben Orten schnell und einfach. Ich habe mich nun auf diese App "eingeschossen" und werde sie weiter benutzen. Gute App, gut gemacht, weiter machen. Ihr seid auf dem richtigen Weg.<br> :date: __2020-11-15 17:09:35__
 
 > Gut gemachte App, übersichtlich gestaltet und sinnvolle Funktionen. Danke dafür! Ein Verbesserungsvorschlag: Eine einstellbare automatische Löschung der Daten nach zwei, drei und vier Wochen.<br> :date: __2020-11-13 14:33:43__
@@ -179,10 +183,6 @@ The Coronika - Dein Corona Tagebuch app has been installed by more than **50000*
 
 > Einfach und gut<br> :date: __2020-11-05 21:37:50__
 
-> 5 Punkte. Neuland. Bisher gut umgesetzt. Natürlich hat Neues Entwicklungspotential. Da scheinen die Entwickler aufgeschlossen und rührig zu sein. Meine Anregung: Personen stehen bei mir im Kontext zum Ort. In der pdf-Ausgabe, erscheinen Personen jedoch separat und ohne Datum und Zeit. Die Orte jedoch mit Datum, aber ohne die dazugehörigen Personen. Es wäre es im Sinne der Kontaktnachverfolgung, m.E. wünschenswert, die Daten chronologisch auszugeben. Person/Ort, Ort etc. nach Datum/Zeit<br> :date: __2020-11-04 21:46:37__
-
-> Sehr einfache und sinnvolle App, vielen Dank dafür! Edit: Wo gibt es das: Man vermisst eine Funktion, schreibt das in die Rezension und gibt 4 Sterne. Noch am gleichen Tag erhält man eine persönliche Rückmeldung. Und eine Woche später liefert der Entwickler ein Update mit genau dieser Funktion! DANKE und ab sofort 5 Sterne!!!<br> :date: __2020-11-04 19:29:54__
-
 
 
 #### 4-star reviews
@@ -190,6 +190,10 @@ The Coronika - Dein Corona Tagebuch app has been installed by more than **50000*
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="de.kreativzirkel.coronika 4 reviews"/>
 </p>
+
+> Nach dem damaligen großen Update nun deutlich schnellere Reaktionen auf Eingaben. Startzeit könnte durch Verringerung der Animationslänge schneller sein oder zumindest auch verkürzen lassen. Ansonsten gute einfache Hilfe um Kontakte relativ übersichtlich zu erfassen.<br> :date: __2020-11-20 12:13:56__
+
+> Schon sehr gut! Es wäre allerdings cool, wenn sich auch der Exportzeitraum anpassen lassen würde. Dann könnte ich die App nämlich auch für das Kontakttagebuch meiner Tochter für die Tagesbetreuung nutzen. Dort müssen alle zwei Tage die Kontakte der letzten 48 Stunden angegeben werden. Wäre der Zeitraum einstellbar, gäbe es von mir 5 Sterne<br> :date: __2020-11-18 03:20:14__
 
 > Gut gemachte App. Ich würde mir aber wünschen Personen auch direkt den Orten zuzuordnen an denen man die getroffen hat. Momentan besteht zwischen den Orten und den Personen keine Beziehung.<br> :date: __2020-11-16 05:54:10__
 
@@ -207,10 +211,6 @@ The Coronika - Dein Corona Tagebuch app has been installed by more than **50000*
 
 > Schön wäre es, wenn der Export nicht nur eine Zusammenfassung der letzten Tage ausgibt, sondern jeden Tag mit den entsprechenden Kontakten einzeln aufführen würde.<br> :date: __2020-10-31 23:32:33__
 
-> Sehr sinnvolle App. Einfach zu bedienen, meiner Meinung nach aktuell die beste auf dem Markt. Möglichkeit zum exportieren der Begegnungen der letzten 21 Tage gibt es auch, finde ich super! Die Möglichkeit, Notizen zum Tag hinzuzufügen würde ich mir auch wünschen. Zudem wäre es super, wenn man Personen des Hausstandes definieren könnte, mit denen man zwangsläufig jeden Tag Kontakt hat. Das würde vieles vereinfachen. Ansonsten perfekt!<br> :date: __2020-10-30 21:35:25__
-
-> Simpel und sinnvoll. Allerdings funktioniert die Benachrichtigung nicht 🤷🏼‍♀️<br> :date: __2020-10-30 20:59:45__
-
 
 
 #### 3-star reviews
@@ -219,6 +219,8 @@ The Coronika - Dein Corona Tagebuch app has been installed by more than **50000*
 <img src="3_star_reviews_wordcloud.png" alt="de.kreativzirkel.coronika 3 reviews"/>
 </p>
 
+> Grundsätzlich eine ordentliche Sache, kann aber neuerdings keine Personen mehr neu anlegen, Orte funktioniert jedoch<br> :date: __2020-11-17 20:17:52__
+
 > Gute Idee, aber bin seit gestern dabei, habe Personen, Orte und Uhrzeiten notiert. Heute gehe ich auf den gestrigen Tag, da ist kein Eintrag drin, gehe aufs Tagebuch, kein Eintrag drin. Mache ich was falsch?🤔<br> :date: __2020-11-03 16:48:03__
 
 > Der Export erfolgt leider nicht nach Datum sortiert.<br> :date: __2020-11-02 13:11:13__
@@ -226,8 +228,6 @@ The Coronika - Dein Corona Tagebuch app has been installed by more than **50000*
 > Sinnvolle Anwendung, schlank aufgestellt, einfache intuitive Bedienung. Einzige Frage: warum kann im Tagebuch zur ausgewählten Person nicht die Uhrzeit u. Dauer des Zusammenseins dokumentient werden??<br> :date: __2020-11-01 21:16:52__
 
 > Könnte etwas einfacher in der täglichen Bedienung sein, z.B. Orte mit vorkonfigurierten Personen. Oder auch Orte, die man per Klick über GPS hinzufügen kann. Importierte Kontakte können nicht bearbeitet werden<br> :date: __2020-11-01 13:25:21__
-
-> Auch wenn die App vom Thema her wichtig ist, gefällt mir die Ausführung zu wenig, um sie weiterempfehlen zu können. Eben erstmals im Rückblick des Tages getroffene Personen eingegeben, bemerkt, dass ich bei zwei Namen noch zusätzliche Attribute geben wollte, um sie gegenüber anderen Namen besser unterscheiden zu können, und dabei festgestellt, dass nichts im Nachhinein editiert oder gelöscht werden kann. Das Problem scheint erkannt zu sein. Bis zur Behebung warte ich mit der Benutzung ab.<br> :date: __2020-10-31 17:36:40__
 
 > Ich finde die App schon ganz gut. Tagebuch für mehrere Personen (Kinder), Automatische Eingabe von Regelmässigen Orten, wie Arbeit, Schule... gern mit Intervall, z.b. täglich Mo-Fr., Beim Import von Kontaktdaten, Auswahl der einzelnen Kontakte, nicht alle, Vom Tagebuch aus direkte Ansicht der Telefonnummern der Orte und Kontakte. Das könnte das direkte abtelefonieren vereinfachen. Das sind Features die ich gern noch hätte, dann fünf Sterne<br> :date: __2020-10-30 06:31:02__
 
@@ -275,6 +275,8 @@ The Coronika - Dein Corona Tagebuch app has been installed by more than **50000*
 <img src="1_star_reviews_wordcloud.png" alt="de.kreativzirkel.coronika 1 reviews"/>
 </p>
 
+> 5 STERNE sind für mich ein FAKE. Habe diese App getestet und sie in kaum richtig zu benutzen. Kein richtiger Bezug zum Kalender oder den Kontakten! Nicht zu benutzen! GELÖSCHT!<br> :date: __2020-11-18 15:55:42__
+
 > Komme überhaupt nicht damit klar. Personen angeben, aber ohne Zeit und Ort? Ort angeben, aber keine Personen? Ich glaube ich nehme Papier und Bleistift<br> :date: __2020-11-08 18:28:18__
 
 > Die Kontakte mit dem Adressbuch zu verknüpfen funktioniert bei mir leider nicht. Ich habe die wichtigsten per Hand eingetragen. Diese Liste kann ich aber nicht sehen. Schade.<br> :date: __2020-11-03 07:53:35__
@@ -292,7 +294,5 @@ The Coronika - Dein Corona Tagebuch app has been installed by more than **50000*
 > Konfus, lässt sich nicht eindeutig bedienen, einfach nur nervig und ich habe nach 10 Minuten aufgegeben, etwas eintragen zu wollen.<br> :date: __2020-10-17 21:41:31__
 
 > Hauptsache auf den Corona Zug aufspringen<br> :date: __2020-09-21 13:59:39__
-
-> Die App läuft inzwischen sehr langsam und die Eingabe ist eine echte Geduldsprobe. Überlege, die Nutzung einzustellen.<br> :date: __2020-09-13 23:20:12__
 
 

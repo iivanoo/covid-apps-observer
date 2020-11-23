@@ -185,6 +185,8 @@ The SM_Covid19 app has been installed by more than **50000** times. At this time
 <img src="5_star_reviews_wordcloud.png" alt="it.softmining.projects.covid19.savelifestyle 5 reviews"/>
 </p>
 
+> Ooooooo my God é molto utile<br> :date: __2020-11-16 19:30:59__
+
 > Immuni<br> :date: __2020-11-01 16:23:28__
 
 > Ottima Grazie<br> :date: __2020-10-26 15:50:55__
@@ -202,8 +204,6 @@ The SM_Covid19 app has been installed by more than **50000** times. At this time
 > Non riesco ad istallare l'app<br> :date: __2020-10-09 16:27:52__
 
 > IMMUNI<br> :date: __2020-10-08 23:50:24__
-
-> Ottimo<br> :date: __2020-09-11 19:30:45__
 
 
 
@@ -297,6 +297,8 @@ The SM_Covid19 app has been installed by more than **50000** times. At this time
 <img src="1_star_reviews_wordcloud.png" alt="it.softmining.projects.covid19.savelifestyle 1 reviews"/>
 </p>
 
+> Non funziona<br> :date: __2020-11-17 22:27:14__
+
 > Poco attendibile visto che 2 cell. stessa marca stessa persona stesso ambiente,risultati molto diversi.<br> :date: __2020-11-11 09:55:51__
 
 > Come faccio entrare se ultimontasto rosso non si ttasforma in verde clicco ok ma non succede nulla cosa è un bidone?<br> :date: __2020-11-04 16:36:37__
@@ -314,7 +316,5 @@ The SM_Covid19 app has been installed by more than **50000** times. At this time
 > Pessima da migliorare tutto<br> :date: __2020-08-23 18:06:12__
 
 > Fatta malissimo<br> :date: __2020-08-20 20:13:25__
-
-> Non c'è ne di covidi<br> :date: __2020-07-30 08:49:05__
 
 

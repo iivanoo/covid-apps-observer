@@ -150,6 +150,8 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="org.madrid.CoronaMadrid 5 reviews"/>
 </p>
 
+> Me parece estraordinaria hé indispensable<br> :date: __2020-11-21 12:12:15__
+
 > Los hospitales de Madrid son de los mejores de Europa.<br> :date: __2020-09-19 13:38:38__
 
 > Me gustaria hacerme la prueba<br> :date: __2020-08-28 20:39:45__
@@ -167,8 +169,6 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 > Sencilla de utilizar y muy útil<br> :date: __2020-07-13 15:36:55__
 
 > Te indica fácilmente si puedes tener coronavirus<br> :date: __2020-07-13 15:31:42__
-
-> Ha sido muy facil de usar y muy práctica.<br> :date: __2020-07-08 21:14:07__
 
 
 
@@ -262,6 +262,8 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="org.madrid.CoronaMadrid 1 reviews"/>
 </p>
 
+> Mi nombre y DNI porque<br> :date: __2020-11-19 08:59:29__
+
 > Inutil en todos los sentidos.<br> :date: __2020-11-14 06:16:26__
 
 > Ni siquiera abre la aplicación...<br> :date: __2020-10-29 12:50:37__
@@ -279,7 +281,5 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 > Imposible indicar la edad. Absurdo.<br> :date: __2020-10-11 14:12:33__
 
 > @plicación pide edad pero no se puede, parece informativa sin actualizar y algo ambigua sin directrices explicitas o eficaces,,, sin datos y pte valorar en próximos días....Parece no se pueden descargar los archivos adjuntos ?... Etc... DE MOMENTO MAL, DA POCA CONFIANZA, AUNQUE MENOS ES NADA.<br> :date: __2020-10-09 19:30:48__
-
-> No se puede completar el registro: tras mirar el código y volver a la app, hay que iniciar de nuevo, otro código y así no es posible registrarse.<br> :date: __2020-10-09 08:40:47__
 
 

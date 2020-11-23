@@ -1,0 +1,26 @@
+[
+    {
+        "reviewId": "gp:AOqpTOGQE0H0Fj8e6-tLcDO0qdWgwnzCH8jZZJZWg5KgHrzO-QfV8FPQrmtEFetaARUhaVVl3QyREtnUqs5IU-Q",
+        "userName": "Ein Google-Nutzer",
+        "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+        "content": "Computertransfer von Infos zwischen Patient und Arzt ohne Internet. Super Sache.",
+        "score": 5,
+        "thumbsUpCount": 3,
+        "reviewCreatedVersion": "1.0.22",
+        "at": "2018-08-30 23:11:14",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHEthbzkxBFA7Bqi41YFUpCdng5PGL7OR_YtbmISKIZEeA7ciX15mDPMvbm4F6Gf5rP39THX9lT5iZ8TME",
+        "userName": "J\u00f6rg Saure",
+        "userImage": "https://play-lh.googleusercontent.com/-PANLxbZ6ego/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm-u-UgIzRO4a1u2A_SgB0hWBw9iw/photo.jpg",
+        "content": "Wozu soll ich etwas notieren wozu das Arztpatientengesp\u00e4ch ist. Dieses kann \nauch in einer Notiz erfasst werden.",
+        "score": 1,
+        "thumbsUpCount": 2,
+        "reviewCreatedVersion": "1.0.17",
+        "at": "2018-08-20 16:29:07",
+        "replyContent": null,
+        "repliedAt": null
+    }
+]

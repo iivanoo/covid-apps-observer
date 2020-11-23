@@ -171,6 +171,8 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <img src="5_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 5 reviews"/>
 </p>
 
+> Nunca pensei que há tantos ignorantes no meu País. É aterrador, pior que o coronavírus.<br> :date: __2020-11-18 08:13:42__
+
 > Gosto<br> :date: __2020-11-05 19:26:51__
 
 > Bom<br> :date: __2020-10-16 10:11:36__
@@ -188,8 +190,6 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 > Bom<br> :date: __2020-09-04 21:37:00__
 
 > Obrigados<br> :date: __2020-09-04 09:20:05__
-
-> Muito boa. Todos os utilizadores deviam ter esta aplicação Fácil e rápida para nós<br> :date: __2020-09-03 23:07:11__
 
 
 
@@ -227,6 +227,10 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <img src="3_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 3 reviews"/>
 </p>
 
+> APP pouco útil da forma q está estruturada. Para aceder à área de cidadão remete para o browser o q torna ridícula a utilização da APP. Uma nora.. Dentro da área de cidadão a informação não aparece completa.. há informação em falta... Exemplo infecção covid e acesso a área de registo de sintomas. Acesso a baixas incompleto... Etc<br> :date: __2020-11-21 17:35:55__
+
+> Deixou de funcionar. Agora que é mais necessário naõ funciona.<br> :date: __2020-11-18 14:35:10__
+
 > Há muito a melhorar nesta app!!!<br> :date: __2020-10-05 19:42:00__
 
 > A app stayaway Covid-19, tem algum problema em ser instalada? Muito obrigada.<br> :date: __2020-09-01 11:17:30__
@@ -242,10 +246,6 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 > Pratico!<br> :date: __2020-03-24 14:20:35__
 
 > Aplicação que podia ser útil mas complexa e com muitas funcionalidades que não funcionam ou bloqueiam O sistema de autenticação, recorrendo à cmd, é complicada. Em certas situações, a segurança é ainda garantida pela necessidade de introdução de um código alfanumérico dificil de decifrar já que não passam de garatujos. Desde que este código passou a ser exigido, deixei de conseguir aceder aos dados pessoais, já que a aplicação bloqueia. Segurança sim mas sem prejuízo do utente.<br> :date: __2020-02-07 12:47:06__
-
-> Pouca<br> :date: __2019-12-09 18:54:51__
-
-> É razoável<br> :date: __2019-11-20 00:59:58__
 
 
 

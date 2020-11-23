@@ -172,25 +172,25 @@ The HealthEngine app has been installed by more than **500000** times. At this t
 <img src="5_star_reviews_wordcloud.png" alt="com.healthengine.android 5 reviews"/>
 </p>
 
-> Good<br> :date: __2020-11-16 04:07:31__
+> It's easy to use 😀<br> :date: __2020-11-23 09:00:20__
 
-> Easy to use, works well<br> :date: __2020-11-16 02:24:08__
+> No fuss - have made it simple to use - thank you<br> :date: __2020-11-23 07:13:41__
 
-> Easy to use and link up with my health care team<br> :date: __2020-11-15 12:44:37__
+> Brilliant easy use app<br> :date: __2020-11-23 07:09:59__
 
-> Quick and easy to use.<br> :date: __2020-11-15 10:21:02__
+> Don't have to talk on the phone, data feels secure, biometric and pin locks, sends you email reminders. If you're like me and don't like speaking on the phone, id use this.<br> :date: __2020-11-23 05:09:52__
 
-> Very good app I have everything at my fingertips in regards to health care.<br> :date: __2020-11-15 03:54:07__
+> As my mental health has gotten worse this app is great with reminders and stability so thankyou great app!!<br> :date: __2020-11-23 05:00:32__
 
-> No more waiting for hours with room full of sick people sneezing on you.<br> :date: __2020-11-15 02:54:17__
+> Amazing service<br> :date: __2020-11-23 01:58:31__
 
-> Never have an issue booking appointments. So easy to use with an option to save to you calander. Clear display of all available appointment time to suit. Heaps of associated health care providers to pick from to suit your time and location. Use this app every single time. No issues. Thanks for making my life easier. Highly recommended. Cheers, Q.<br> :date: __2020-11-15 00:08:21__
+> Excellent<br> :date: __2020-11-22 23:55:05__
 
-> Easy use<br> :date: __2020-11-14 23:19:29__
+> Easy to use.<br> :date: __2020-11-22 12:50:22__
 
-> Great and easy app to book doctors appointments<br> :date: __2020-11-14 23:12:53__
+> So easy to use very convenient to book doctors online<br> :date: __2020-11-22 11:32:25__
 
-> Easy to use<br> :date: __2020-11-14 04:02:27__
+> Great app<br> :date: __2020-11-22 03:59:34__
 
 
 
@@ -199,6 +199,12 @@ The HealthEngine app has been installed by more than **500000** times. At this t
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.healthengine.android 4 reviews"/>
 </p>
+
+> Wish you could book further ahead, but it's a great app. No contact, easy to navigate for me it was.<br> :date: __2020-11-22 16:19:09__
+
+> Pretty good app, easy to use, and frequently updated.<br> :date: __2020-11-20 23:52:18__
+
+> Easy to use<br> :date: __2020-11-20 00:36:29__
 
 > Easy to book an appointment but can't cancel an appointment.<br> :date: __2020-11-15 22:36:24__
 
@@ -213,12 +219,6 @@ The HealthEngine app has been installed by more than **500000** times. At this t
 > Easy to use ap<br> :date: __2020-11-06 02:42:25__
 
 > Easy and convenient to navigate between different apt options. Easy filters for searches. Since covid19 it displays doctor offices that are way too far away<br> :date: __2020-11-02 05:41:17__
-
-> 👍<br> :date: __2020-10-31 19:39:35__
-
-> Easy to use app.<br> :date: __2020-10-30 15:56:02__
-
-> Easy to use, quick and accurate<br> :date: __2020-10-30 13:29:32__
 
 
 
@@ -256,6 +256,10 @@ The HealthEngine app has been installed by more than **500000** times. At this t
 <img src="2_star_reviews_wordcloud.png" alt="com.healthengine.android 2 reviews"/>
 </p>
 
+> Why after each upgrade it forgets my password? And when you try to reset the password it fails.<br> :date: __2020-11-22 23:15:54__
+
+> Great till new update never had an issue till now doesn't show appointments anymore for any doctor can't book<br> :date: __2020-11-18 11:58:09__
+
 > Used to be ok now lets you get to adding your name / dob and won't move to next page - obviously not compatible with Samsung Tab 6/ 7 tablets, just broken or not tested properly.<br> :date: __2020-11-06 05:19:45__
 
 > No longer can make appointments at Wantirna Mall Clinic. Have to revert back to making phone calls.<br> :date: __2020-10-25 08:23:57__
@@ -280,6 +284,8 @@ The HealthEngine app has been installed by more than **500000** times. At this t
 <img src="1_star_reviews_wordcloud.png" alt="com.healthengine.android 1 reviews"/>
 </p>
 
+> Cannot book appointments. Tried multiple times<br> :date: __2020-11-18 13:19:13__
+
 > It's not working now I had to uninstall and reinstall and it still doesn't have my gp on the app I've all ways booked on there but it's not working ITS WORONGARY MEDICAL CENTER I HAVE ALWAYS BOOKED THROUGH YOUR APP<br> :date: __2020-11-13 06:24:35__
 
 > Like Hotdoc not only does it gets you results for say psychologist outside your search area I ask for Brisbane got suburbs in Sydney. But even those you cancelled your appointment with the medical centre Health Engine and Hotdoc still shows your appointment.<br> :date: __2020-10-09 02:22:18__
@@ -297,7 +303,5 @@ The HealthEngine app has been installed by more than **500000** times. At this t
 > Wouldn't let me log in.<br> :date: __2020-09-14 05:25:00__
 
 > Not good<br> :date: __2020-09-13 16:47:56__
-
-> Useless app just hangs, total waste of time<br> :date: __2020-09-12 06:29:47__
 
 
