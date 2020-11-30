@@ -178,6 +178,10 @@ The PassCOVID.gal app has been installed by more than **5000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="gal.xunta.covidpass 5 reviews"/>
 </p>
 
+> Bien la información ofrecida.<br> :date: __2020-11-27 16:04:04__
+
+> Esta aplicación va muy bien felicito al SERGAS por la excelente aplicación.<br> :date: __2020-11-26 10:09:08__
+
 > acceso instantáneo con chave. Sencilla de utilizar con información de la situación y avisos de restricciones.<br> :date: __2020-10-30 23:50:41__
 
 
@@ -200,6 +204,10 @@ The PassCOVID.gal app has been installed by more than **5000** times. At this ti
 <img src="3_star_reviews_wordcloud.png" alt="gal.xunta.covidpass 3 reviews"/>
 </p>
 
+> Me parece bien.<br> :date: __2020-11-28 15:32:17__
+
+> Decepcionante, soy ciudadano de la UE y no puedo iniciar sesión con mi NIE, no acepta poner letra delante de los números. Estoy a la espera de nuevas actualizaciones para resolver el problema de inicio de sesión con NIE y clavé 365. Hay que darle una nueva oportunidad.<br> :date: __2020-11-26 15:24:48__
+
 > Bueno<br> :date: __2020-11-13 13:58:28__
 
 
@@ -210,6 +218,18 @@ The PassCOVID.gal app has been installed by more than **5000** times. At this ti
 <img src="2_star_reviews_wordcloud.png" alt="gal.xunta.covidpass 2 reviews"/>
 </p>
 
+> Ya la tuve y era un desastre...la vuelvo a instalar pero ....sin esperanzas ...<br> :date: __2020-11-30 12:40:33__
+
+> Solo me deja personalizar con chave pero no con certificado digital, por qué?<br> :date: __2020-11-30 11:12:47__
+
+> Códigos de verificación sigo esperando,fallo<br> :date: __2020-11-29 21:08:21__
+
+> Non permitirá ser unha útil ferramenta , mediante o escaneo dos códigos QR por non esistir dito QR nos establecementos, públicos e privados . Sen quedar regixtrado que unha persoa a visitado ese establecemento. Sentidiño Indicacións pra protexernos contra a COVID-19.<br> :date: __2020-11-29 01:47:38__
+
+> Es poco clara y "le cuesta" poner todo en bilingüe, español y gallego. En varios contenidos no da opción y sólo sale la versión en gallego... Otra enfermedad, el antibilingüismo.<br> :date: __2020-11-28 12:57:27__
+
+> Es curioso que me permita registrar a qué bares voy pero que no pregunte y/o permita registrar el uso del trasporte público... Muy curioso...<br> :date: __2020-11-24 22:26:27__
+
 > Debería permitir independientemente si eres positivo o no, poder determinar libremente que lugares y contactos has tenido de manera cronológica dentro de la app. Seleccionar los lugares visitados de una manera simple, no solo con un QR que la mayoría desconoce cual es de cada local. Usar gmaps para ubicar los lugares sería más preciso y que quede registrado el día de visita del lugar y lo mismo para mis contactos estrechos. Ayudaría y sería más sencillo el uso.<br> :date: __2020-11-21 10:53:40__
 
 > No funciona la lectura de códigos QR.<br> :date: __2020-11-06 20:41:22__
@@ -217,10 +237,6 @@ The PassCOVID.gal app has been installed by more than **5000** times. At this ti
 > ¿Por que é necesario que teña acceso a saber tódalas app que teño instaladas no teléfono ou facer chamadas? ¿Vaime ler o Marca e chamar a sogra por min? Aínda non aceptei as condicións de uso polo que non sei como funciona, pero coido que mentres non revisen estes requisitos non o farei.<br> :date: __2020-11-06 15:47:23__
 
 > Molestan enormemente los códigos de verificación vía SMS cada dos por tres y eso a pesar de entrar con la huella dactilar (como si eso no fuese suficiente!!!) Además falta información clara, detallada y actualizada del estado actúal y las restricciones.. En fin, parece hecha por estudiantes de programación..<br> :date: __2020-11-05 19:29:11__
-
-> No está actualizada, para eso no me vale para nada y la desistalo<br> :date: __2020-11-05 08:20:05__
-
-> Farragosa e pouco intuitiva. Sólo se pode acceder coa Chave 365 non con certificado dixital. Unha perda de tempo.<br> :date: __2020-10-28 14:28:11__
 
 
 
@@ -230,24 +246,24 @@ The PassCOVID.gal app has been installed by more than **5000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="gal.xunta.covidpass 1 reviews"/>
 </p>
 
-> Menuda app. Era mejor que hicieran una web. Que en una app en android no vaya el botón atras y la app se monte en la barra y se quede frita con un telefono de gama alta no quiero saber como irá en un baja gama. Made mía<br> :date: __2020-11-19 15:27:22__
+> De vergüenza tener que meter la tarjeta de crédito LADRONES<br> :date: __2020-11-28 18:22:54__
 
-> Es muy poco útil y muy invasiva. Necesita permiso de todo.<br> :date: __2020-11-14 13:56:58__
+> Anónima si, pero teslle que conceder permiso ata para acceder á axenda do teléfono...!! Desinstalada antes de acabar de instalala.<br> :date: __2020-11-28 12:05:23__
 
-> No vale para nada, al introducir el NIF en la pantalla de CHÁVE dice que no es correcto el formato<br> :date: __2020-11-13 14:09:10__
+> Me parecen demasiados permisos, para que necesita acceder a mis aplicaciones instaladas?? Muy invasiva... seguiré usando radar covid...<br> :date: __2020-11-28 11:50:18__
 
-> Lamentable, similar á política anticovid do presidente da Xunta<br> :date: __2020-11-10 16:03:58__
+> No reconoce la chave 365 dice que formato incorrecto<br> :date: __2020-11-27 19:40:27__
 
-> E increíble cómo non funciona bien non Unha aplicación da Xunta, non se leen as advertencias xa que han de ser da mesma cor ca o fondo e non carga mais rápido do que tardó en chegar de Lugo a Madrid. Unha vergoña de app siendo da Xunta, es sobre todo para tratar algo de tal magnitud e importancia<br> :date: __2020-11-07 18:40:28__
+> La aplicación pide demasiados permisos, diametralmente opuesto a radar covid que si tengo instalada<br> :date: __2020-11-27 15:39:13__
 
-> 3 meses en sacarla y apenas funciona. Lo de los codigos QR no existe en ninguna parte. Es tan poco intuitiva que para ver una cosa echas 10 minutos dandole a todas las opciones. Y para colmo con la ultima actualizacion de MIUI funciona solo a medias. La mantengo instalada por redponsabilidad personal, pero nos lo estsn poniendo muy dificil, lo peor que tengo en mi movil connmucha diferencia...<br> :date: __2020-11-07 11:01:52__
+> Después de leer todos los comentarios de los cuales sólo 1 era positivo, prefiero esperar a que mejore la app para instalarla<br> :date: __2020-11-27 11:43:32__
 
-> Demasiado invasiva. Pide demasiadas cosas no necesarias.<br> :date: __2020-11-06 22:26:02__
+> Otra chapuza, la app Sergas funcionaba bien y la quitaron, en su lugar una app con publicidad, de verguenza y ahora jugamos a ser mejores que radarcovid, se nota que lo PAGAMOS TODOS. Seriedad por favor<br> :date: __2020-11-26 22:24:28__
 
-> Esta app es una broma de mal gusto. Innecesaria, lo de los códigos QR es un cachondeo porque ningún establecimiento tiene, y la cantidad de permisos que pide es de traca: acceso a cámara, contactos, llamadas, aplicaciones,...<br> :date: __2020-11-05 12:49:12__
+> Desinstalada a los 3 segundos. La primera pantalla te pide permisos para ¡ver los contactos de la agenda! ¡¡Llamar por teléfono!! (entre bastantes más) si no no puedes hacer nada ¡¿estamos locos o qué?!<br> :date: __2020-11-26 19:07:08__
 
-> Los códigos QR no funcionan<br> :date: __2020-11-04 22:05:18__
+> Debería ser más simple. No enredarse en pedir información, registrase, etc. La de radar es mucho más sencilla.<br> :date: __2020-11-26 11:08:16__
 
-> Después de poner la clave 365, no hace nada se queda congelada.<br> :date: __2020-10-30 12:42:16__
+> Es invasiva de tu privacidad. No doy crédito<br> :date: __2020-11-26 09:07:23__
 
 

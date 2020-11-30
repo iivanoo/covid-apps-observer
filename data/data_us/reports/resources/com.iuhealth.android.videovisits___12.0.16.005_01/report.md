@@ -186,6 +186,14 @@ The IU Health Virtual Visits: Online Doctor Visit app has been installed by more
 <img src="5_star_reviews_wordcloud.png" alt="com.iuhealth.android.videovisits 5 reviews"/>
 </p>
 
+> very good<br> :date: __2020-11-30 01:34:59__
+
+> Very easy to use. Only had an occasional sound problem but may have been the providers mic.<br> :date: __2020-11-28 20:56:25__
+
+> Pretty helpful! Didn't know where to start but this really helped me get on a better track.<br> :date: __2020-11-24 21:57:06__
+
+> It's great. Helps so much<br> :date: __2020-11-23 19:35:16__
+
 > Great App so far, clear picture & sound with no echo or pause !!!<br> :date: __2020-11-20 05:31:55__
 
 > Waiting room "interview " outside of this app was confusing because it appeared to be a duplicate, not on the device I had my appointment set for.<br> :date: __2020-11-18 19:57:18__
@@ -197,14 +205,6 @@ The IU Health Virtual Visits: Online Doctor Visit app has been installed by more
 > Great<br> :date: __2020-11-17 00:19:03__
 
 > Easy and quick<br> :date: __2020-11-16 23:43:14__
-
-> Great application, very easy process, friendly and professional staff. Would absolutely recommend and use again<br> :date: __2020-11-14 18:12:40__
-
-> Very quick and easy!<br> :date: __2020-11-09 16:00:40__
-
-> A great way to get answers to health issues.<br> :date: __2020-11-09 12:11:56__
-
-> Love it<br> :date: __2020-11-05 23:56:01__
 
 
 
@@ -267,6 +267,8 @@ The IU Health Virtual Visits: Online Doctor Visit app has been installed by more
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="com.iuhealth.android.videovisits 2 reviews"/>
 </p>
+
+> Well I can't get connected to it. It said they can't download my ID. I put myself on a wait list with a nurse and never was contacted. I am very frustrated with this whole thing .<br> :date: __2020-11-27 19:37:01__
 
 > Sucked<br> :date: __2020-09-06 18:41:29__
 

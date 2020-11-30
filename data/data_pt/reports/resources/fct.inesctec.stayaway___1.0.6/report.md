@@ -137,25 +137,25 @@ The STAYAWAY COVID app has been installed by more than **1000000** times. At thi
 <img src="5_star_reviews_wordcloud.png" alt="fct.inesctec.stayaway 5 reviews"/>
 </p>
 
-> Difícil instalar<br> :date: __2020-11-22 20:41:11__
+> Muito bom<br> :date: __2020-11-30 14:36:48__
 
-> Desde que instalei a aplicaçâo tenho seguido sempre as regras e com o Android sempre ligado...De quando em quando vejo a aplicaçâo se tudo se encontra bem e até ao dia de hoje ainda nada de anormal aconteçeu porque tambem se deve dever aos sitios onde vou e andar sempre prevenido.<br> :date: __2020-11-22 03:51:43__
+> Com conhecimento mas sem casos em família e amigos e também 100 por cento de igiene<br> :date: __2020-11-29 17:13:25__
 
-> De momento não tive nenhuma experiência relacionada com o covid 19 mas se vier a ter sem dúvida que esta aplicação é uma mais valia para todos nós.<br> :date: __2020-11-21 19:13:03__
+> Parabéns<br> :date: __2020-11-29 12:51:51__
 
-> Para os atrasados mentais: Não e uma aplicação desenvolvida por Portugal e ajuda porem ninguém espera que um pais inteiro usa a aplicação<br> :date: __2020-11-21 13:37:57__
+> Parabéns aos seus criadores. Obrigado<br> :date: __2020-11-29 11:32:15__
 
-> Não vejo utilidade nesta aplicação.<br> :date: __2020-11-21 11:59:08__
+> Amei 😍<br> :date: __2020-11-29 01:50:27__
 
-> Acho ótimo<br> :date: __2020-11-21 11:29:29__
+> Boas<br> :date: __2020-11-29 01:35:07__
 
-> Sinto me mais protegido<br> :date: __2020-11-21 09:58:23__
+> Bom<br> :date: __2020-11-28 17:39:17__
 
-> Eu tinha uma outra aplicação no telemóvel com o mesmo nome e achava que me estava a prevenir contra o covid quando vi na televisão que a aplicação não era a mesma que fora autorizada por Portugal, tinha aquela aplicação desde que esta saiu<br> :date: __2020-11-20 21:41:29__
+> Ja tive en contacto com uma pessoa que ja teve covid 19<br> :date: __2020-11-28 09:20:55__
 
-> Esperamos por o empenho de todos os cidadãos para resolver este drama. Só tenho a agradecer.<br> :date: __2020-11-20 17:11:00__
+> Muito bom<br> :date: __2020-11-28 01:50:37__
 
-> Voces são ums génios voces inventaram uma medida de literalmente saber se tenho covid-19 ou não repito vocês sao os maiores<br> :date: __2020-11-20 14:44:42__
+> Boa<br> :date: __2020-11-27 20:18:28__
 
 
 
@@ -164,6 +164,10 @@ The STAYAWAY COVID app has been installed by more than **1000000** times. At thi
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="fct.inesctec.stayaway 4 reviews"/>
 </p>
+
+> Editei o comentário devido ao esclarecimento. Tendo em conta a resposta parece-me então uma ferramenta importante na disseminação do vírus.<br> :date: __2020-11-27 17:16:20__
+
+> Podiam adicionar na app um separador com as medidas de restrição em vigor por conselho e nacionais, acabavam por dar uma segunda utilização importante e captar mais público pois sabiamos que era uma fonte rápida e confiável para consultar.<br> :date: __2020-11-25 20:33:06__
 
 > Necessária.<br> :date: __2020-11-22 19:25:42__
 
@@ -181,10 +185,6 @@ The STAYAWAY COVID app has been installed by more than **1000000** times. At thi
 
 > Não serve para grande coisa.<br> :date: __2020-11-17 14:57:57__
 
-> Eu só não gosto desta aplicação só por causa de uma coisa é preciso ter Bluetooth e GPS para que pronto principalmente o Bluetooth<br> :date: __2020-11-15 23:58:57__
-
-> Ok<br> :date: __2020-11-15 22:42:32__
-
 
 
 #### 3-star reviews
@@ -193,25 +193,25 @@ The STAYAWAY COVID app has been installed by more than **1000000** times. At thi
 <img src="3_star_reviews_wordcloud.png" alt="fct.inesctec.stayaway 3 reviews"/>
 </p>
 
+> Ainda não fui infetado, pelo menos nunca tive qualquer tipo de sintomas que levassem a crer que estava, no entanto e por uma questão de boa fé e de sentido de responsabilidade para com a comunidade, instalei a APP logo nos primeiros dias. Não sei se resulta, se é pelo menos eficaz, mas sim, aderi. Acho que todos o devem fazer, é uma questão de respeito por nós e por todos<br> :date: __2020-11-29 12:25:34__
+
+> A aplicação em si mesma até parece ser boa. Mas ao não ser alimentada com o código pelos infetados, não serve para nada uma vez que alguns laboratórios não geram os códigos e os poucos gerados não são inseridos pelos infetados (apenas 1,3% estão no sistema). Se fosse obrigatório gerar e inserir os códigos, como foi na China, a aplicação seria um eficaz meio de combate à COVID, assim não me perece que sirva para algo.<br> :date: __2020-11-29 10:11:19__
+
+> Mas se não desativei nada porque passam a vida z mandar msgs para activar.<br> :date: __2020-11-25 16:08:56__
+
+> Tenho uma dúvida... imaginemos q me encontro numa sala isolada e na sala ao lado (menos 2 metros) se encontra outra pessoa. Como a aplicação gere o facto de haver alcance de bluetooth entre as duas pessoas e o facto de estarem separadas por uma parede no caso de uma pessoa ter sido sinalizada com covid?<br> :date: __2020-11-25 12:44:34__
+
+> A ideia é boa, mas não tem qualquer interesse saber das pessoas que estiveram infetadas, pois só apresentariam perigo se estivessem infetadas. Em suma, inútil.<br> :date: __2020-11-25 12:08:21__
+
+> Apesar de a ter instalado desde o primeiro dia, não vejo grande utilidade nela. Quem sabe que está doente não sai de casa, quem tem a doença é não sabe continua a espalhar o vírus !<br> :date: __2020-11-24 11:51:11__
+
+> A exemplo de outras aplicações, por muito boas que possam ser às intenções, caso os players que têm a responsabilidade de inserir os dados que valorizem a função desta APP não o fizerem, torna-se uma inutilidade. Se o sistema a jusante não for automatizado ou profissionalmente gerido, esta aplicação torna-se inútil. 🤔<br> :date: __2020-11-24 10:03:34__
+
 > Quando entramos no app pela primeira vez, devia pedir n° utente de saúde, e os médicos fazerem isso pelo computador, antes de darem o código, a pessoa pode receber o código e não usar. Cor vermelha infectados, cor verde não infectados, cor branca não fez o teste e cor azul fez o teste, mas está a espera do resultado. E quem está a reclamar de gastar muita bateria, normal porque têm de ter o Bluetooth e a localização ativos. Gostava saber como vocês vão fazer com os idosos que não usam smartphone<br> :date: __2020-11-22 23:58:24__
 
 > Nenhuma experiência. Nunca me avisou de qualquer caso...<br> :date: __2020-11-22 23:12:54__
 
 > Podem adicionar uma função que nos diga se estamos num concelho com restrições mais severas, regras de circulação e o grau de risco? É que assim a app faria mais sentido.<br> :date: __2020-11-21 21:32:12__
-
-> Normal<br> :date: __2020-11-21 19:36:19__
-
-> a app é simples, mas poderiam adicionar a opção de desativar o rastreiro e Bluetooth, por exemplo no bedtime mode ou quando detecte que esta conectado à WiFi de casa. Não faz sentido ter o bluetooth ligado a gastar bateria nesses casos... Adicionem pelo menos uma opção para programar a ativação/desativação<br> :date: __2020-11-21 14:03:45__
-
-> Pouco útil<br> :date: __2020-11-20 12:45:06__
-
-> Eu acho que este aplicativo é simples demais para a gravidade desta pandemia, podiam imformar os utilizadores deste aplicatico o numero de casos de mortes, infetados e recuperados. Podiam adicionar um mapa com as zonas mais e menos infetadas, mas pelo menos a intenção deste aplicativo é boa, meus parabêns para a D.G.S #VaiFicarTudoBem<br> :date: __2020-11-20 01:07:26__
-
-> Mas o que é isto não entendo ?<br> :date: __2020-11-19 20:42:15__
-
-> Eu acho a app fixe e tudo, mas acho que deveria haver mais detalhes sobre o contágio, por exemplo, quando ele aconteceu.<br> :date: __2020-11-16 20:19:45__
-
-> Nunca foi utilizada<br> :date: __2020-11-16 12:15:00__
 
 
 
@@ -221,25 +221,25 @@ The STAYAWAY COVID app has been installed by more than **1000000** times. At thi
 <img src="2_star_reviews_wordcloud.png" alt="fct.inesctec.stayaway 2 reviews"/>
 </p>
 
+> A APP e chata que se farta e gasta bateria que se farta.<br> :date: __2020-11-29 23:25:11__
+
+> A ideia da App é boa, mas a única forma de ela resultar seria se todos usassem, e todos os que testam positivo o colocassem na App. Como maioritariamente isso não acontece, e o facto de poucos utilizarem esta App faz dela obsoleta.<br> :date: __2020-11-29 02:15:30__
+
+> Mas se a pessoa tiver positivo no teste ela não pode sair de casa 😃<br> :date: __2020-11-29 01:46:50__
+
+> Um dreno de bateria para o meu cat s60... Goaway...<br> :date: __2020-11-27 21:32:05__
+
+> Boa a consumir bateria, no que respeita ao covid, deve estar alinhada com as teorias da conspiração, que acham que o vírus é uma invenção. Sou professor universitário, cruzo-me com centenas de pessoas, já tive /tenho alunos com covid e a app nada... Sendo proveniente da FCT também não admira que ignore a realidade...<br> :date: __2020-11-25 13:49:18__
+
+> Neste momento a ideia está a ser utilizada mas não deveriam usar um código que os infectados é que teriam de usar. Da melhor forma seria da seguinte: Todas as pessoas deveriam entrar na aplicação com o seu número de telemóvel, e caso der positivo, alguém na DGS invés de passar um código, colocar no momento o número da pessoa como infectada resultando na mesma coisa que acontece com os códigos.<br> :date: __2020-11-24 13:37:35__
+
+> Estranho ...perante aumento de casos.... aplicação não tenha ainda registado a proximidade proporcional<br> :date: __2020-11-24 13:14:46__
+
+> Quase não gasta bateria com o Bluetooth ligado e localização, mas quem não quer gastar bateria é só desligar quando está em em casa de forma segura, sem gente a entrar e sair ou ir à porta<br> :date: __2020-11-24 00:39:24__
+
 > Não serve pra nada.<br> :date: __2020-11-19 11:11:27__
 
-> Uma aplicação como esta torna-se eficaz quando é universal. Assumir que todos os Portugueses têm telemóveis recentes é um erro básico de dimensão alarmante. Já agora, porquê o estrangeirismo? A aplicação é internacional? A aplicação foi desenvolvida num outro país? Espera, se calhar para além de termos telemóveis recentes também já assumimos o inglês enquanto língua materna...<br> :date: __2020-11-19 07:42:27__
-
 > De vez em quando autoinactiva-se para pedir permissões, quando na minha opinião, devia estar constantemente activa. Poderia ter outras informações úteis no âmbito governamental no que respeita à COVID e não estar apenas confinado à DGS!<br> :date: __2020-11-19 00:36:44__
-
-> Quase não gasta bateria com o Bluetooth ligado e localização, mas quem não quer gastar bateria é só desligar quando está em em casa de forma segura, sem gente a entrar e sair ou ir à porta<br> :date: __2020-11-19 00:06:30__
-
-> É uma boa ideia, mas acaba por ser inútil<br> :date: __2020-11-18 21:34:19__
-
-> Como está é inútil, se quem está infectado não a usa e os que usam não recebem os códigos. Além disso obriga a ter permanentemente o gps e Bluetooth ligados mesmo quando nos encontramos na nossa habitação, está constantemente a incomodar o utilizador com notificações.<br> :date: __2020-11-18 17:36:52__
-
-> Isto não vale um euro<br> :date: __2020-11-18 12:58:28__
-
-> Aplicação está sempre a dar mensagem de que não está a trabalhar correctamente pois não tem acesso a localização. Abrindo a aplicação parece estar a funcionar correctamente. Contudo, está sempre a dar essa notificação.<br> :date: __2020-11-18 01:18:33__
-
-> Ou instalei mal a app ou então aqui na Boavista Porto não há felizmente COVID19<br> :date: __2020-11-16 17:09:52__
-
-> Pouco prático.<br> :date: __2020-11-13 23:28:37__
 
 
 
@@ -249,24 +249,24 @@ The STAYAWAY COVID app has been installed by more than **1000000** times. At thi
 <img src="1_star_reviews_wordcloud.png" alt="fct.inesctec.stayaway 1 reviews"/>
 </p>
 
-> Stay away costa 😁<br> :date: __2020-11-22 20:21:06__
+> Não instalem o governo quer com esta app nos controlar<br> :date: __2020-11-30 13:45:32__
 
-> Não funciona estive positivo coloquei o código e minha esposa mesmo ao meu lado durante dias e a APP nunca deu nenh sinal<br> :date: __2020-11-22 19:55:41__
+> Gay<br> :date: __2020-11-30 12:51:48__
 
-> Lixo que ocupa a internet<br> :date: __2020-11-22 17:36:03__
+> Soube de casos de covid que moram no mesmo apartamento que eu e nas proximidades nunca tinha ninguém. Simplesmente não vai funcionar porque tem muitas condicionantes<br> :date: __2020-11-30 04:58:15__
 
-> lixo<br> :date: __2020-11-22 17:29:38__
+> Queixam se da privacidade desta app, mas o facebook, instagram, tiktok e afins nem piam de fininho. Ignorantes! Revejam as políticas de privacidade dessas apps antes de fazer comparações.<br> :date: __2020-11-30 01:22:37__
 
-> Vou desativar, pois o número de códigos gerados, não justifica a sua utilização. Nunca recebi uma notificação, apesar de já ter estado próxima de caso positivo, que nunca recebeu código. Assim não vale a pena...<br> :date: __2020-11-22 16:54:16__
+> Isso é vergonha eu n sou obrigado a utilizar a apk lol<br> :date: __2020-11-30 00:39:06__
 
-> Instalei e usei, mas já a desinstalei! A APP até poderá ser muito boa, mas deixa de ter utilidade se não inserirem todos os casos positivos. Portanto, nota Zero.<br> :date: __2020-11-22 11:17:34__
+> 1º a aplicação para funcionar em pleno requer: Bluetooth ligado GPS ligado Dados ligados Optimização de bateria, desligado. 2º eu estou no centro de Vila do Conde, e a APP não encontra UM só caso positivo... 🤔 3º fiz o teste à bateria com a APP a funcionar em pleno, durou aproximadamente 3h, quando dura no mínimo 12h. Dica: Se for obrigatório o uso da APP, e forem confrontados pela polícia, é só dizerem que ficaram sem Bateria... 😏 Para uma APP do estado, leva 1 🌟, porque não dá menos...<br> :date: __2020-11-29 23:33:58__
 
-> Sem utilidade, pois só serve para alguém ganhar dinheiro com o download, alguém que ganhou muito dinheiro com a criação do software, pois todos sabemos que o Bluetooth têm um raio de acção extremamente limitado. Todos os dias lemos relatos de doentes e ex-doentes que nunca receberam o código, estão em casa e app não alerta outras pessoas (com a app activa), temos uma ministra do PS que não usa a app.<br> :date: __2020-11-22 04:39:18__
+> Teve com covid durante 10 dias e não recebi o código até hoje.<br> :date: __2020-11-29 22:47:17__
 
-> App completamente inútil<br> :date: __2020-11-22 01:38:37__
+> I I I I I I I I 22s<br> :date: __2020-11-29 21:56:57__
 
-> É uma treta completa, uma vergonha deste país, pois eu fiz o download e não aparece nada, pois a aplicação pede o Bluetooth ativo e a localização, mas é treta<br> :date: __2020-11-22 01:36:31__
+> De nada vale...<br> :date: __2020-11-29 20:34:10__
 
-> Eu, sinceramente, não acho que o aplicativo mude alguma coisa. Pois, além do código expirar em 24 horas, coisa que eu não acho correto, a pessoa que testou positivo, pode muito bem simplesmente não por o código. Ou seja, o aplicativo não muda nada.<br> :date: __2020-11-21 20:40:48__
+> Se não sabem usar os piscas dos carros, imagina um app.<br> :date: __2020-11-29 20:28:46__
 
 

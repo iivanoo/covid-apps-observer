@@ -171,6 +171,8 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <img src="5_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 5 reviews"/>
 </p>
 
+> Impecavel<br> :date: __2020-11-24 18:59:55__
+
 > Nunca pensei que há tantos ignorantes no meu País. É aterrador, pior que o coronavírus.<br> :date: __2020-11-18 08:13:42__
 
 > Gosto<br> :date: __2020-11-05 19:26:51__
@@ -188,8 +190,6 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 > Perfeito<br> :date: __2020-09-09 02:55:00__
 
 > Bom<br> :date: __2020-09-04 21:37:00__
-
-> Obrigados<br> :date: __2020-09-04 09:20:05__
 
 
 
@@ -283,6 +283,10 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <img src="1_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 1 reviews"/>
 </p>
 
+> Bosta<br> :date: __2020-11-26 12:43:32__
+
+> Nulidade como tudo do SNS e aldrabices<br> :date: __2020-11-25 09:53:11__
+
 > Gostaria de saber o porquê da aplicação deixar de funcionar no Samsung A 50, a onde funcionava muito bem É agora só funciona em telemóveis mais antigos. Espero resposta. Obrigado<br> :date: __2020-11-09 19:06:30__
 
 > Isto é gozar com quem paga e está doente!<br> :date: __2020-11-06 12:52:25__
@@ -298,9 +302,5 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 > Não funciona. Remete para o portal. Logo não serve para nada.<br> :date: __2020-10-22 11:53:50__
 
 > Este nojo nem login deixa fazer. Vergonha de ser português<br> :date: __2020-10-10 20:55:33__
-
-> Muito complicado (ou impossível) encontrar o que se pretende. Isto mais parece um labirinto.<br> :date: __2020-10-03 23:34:36__
-
-> Aplicação obsoleta! Não faz sentido ser redireccionado para o browser cada vez que quero fazer login na app, e tenho de colocar códigos inúmeras vezes! A última actualização é de 2018, estamos quase em 2021! Isto é uma app de campanha publicitária do Ministério da Saúde. Quando início a app devia de aparecer o meu perfil e não notícias do Ministério. Má utilização dos dinheiros públicos!<br> :date: __2020-10-03 13:05:55__
 
 

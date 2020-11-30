@@ -121,6 +121,8 @@ The Covid Trace Nevada app has been installed by more than **50000** times. At t
 <img src="5_star_reviews_wordcloud.png" alt="gov.nv.dhhs.en 5 reviews"/>
 </p>
 
+> Kool app to have...We must keep track of the Zombie Apocalypse Virus... Thanks<br> :date: __2020-11-25 20:47:00__
+
 > Doesn't appear to work. Last checked time is the time of day of when I installed it several weeks ago. Manual refresh doesn't do anything.<br> :date: __2020-11-20 15:23:25__
 
 > Cool<br> :date: __2020-11-18 08:06:02__
@@ -138,8 +140,6 @@ The Covid Trace Nevada app has been installed by more than **50000** times. At t
 > Seems to be working now. Fascinating concept. It uses bluetooth data to determine if you have been in close proximity to an infected person.<br> :date: __2020-10-16 00:05:20__
 
 > Just installed it without a hitch. Let's hope that enough people use it to make a difference.<br> :date: __2020-10-14 19:33:22__
-
-> good<br> :date: __2020-10-14 02:27:36__
 
 
 
@@ -159,6 +159,12 @@ The Covid Trace Nevada app has been installed by more than **50000** times. At t
 <img src="3_star_reviews_wordcloud.png" alt="gov.nv.dhhs.en 3 reviews"/>
 </p>
 
+> Not sure<br> :date: __2020-11-29 10:28:03__
+
+> Kind of a pointless app when after your test positive literally no one that contacts you knows the code necessary to self report.<br> :date: __2020-11-28 05:05:47__
+
+> I mean, sure, I suppose it'd work, but let's be real. The chances of anyone between the Sierra Nevada and the Rockies actually self-reporting is kind of on the low end. This makes the app basically useless. Something like it in Korea, that'd work fine, since they take contact tracing seriously<br> :date: __2020-11-27 00:02:59__
+
 > Couldn't reload app to get time and day to reload.<br> :date: __2020-11-22 19:27:23__
 
 > "Reload" Ineffective It's 08:00, and I have been out in public for an hour, but it last checked exposures at 3:15 yesterday. I do not normally leave Bluetooth on, so I have been turning off my Bluetooth at bedtime at night, and back on in the morning. Today I turned it back on before 06:00, and have tried to "reload" but it still won't re-check. I saw some others with the same issue; maybe it's Android, maybe it's Bluetooth but doesn't seem to work well.<br> :date: __2020-11-13 17:08:05__
@@ -173,12 +179,6 @@ The Covid Trace Nevada app has been installed by more than **50000** times. At t
 
 > the only reason im downloading this is because it wont let me download some other games<br> :date: __2020-10-02 23:20:13__
 
-> Won't even get past the 3rd setup page....I hope Nevada did not actually pay somebody to build this. Tried again after update ..still will not set up....3rd update did the trick. set up OK ..upped to 3 stars. We will see.<br> :date: __2020-09-30 11:15:50__
-
-> Drains your battery! I dont like to have my bluetooth on all day. I am in the medical field and am exposed to know's what, so oy would be interesting to see if i am exposed at work. Just wished it didn't drain my battery<br> :date: __2020-08-31 17:45:38__
-
-> This app is such an awesome start. It has never updated exposure on it's own. I have to refresh it every time. I have gone a day with no auto updates like it said it would, so I just refresh at least once a day. I wish it showed how many ids you have encountered or something cause it feels like the app isn't doing anything. It would be nice to know that it has read # nearby users and is now checking that many every refresh. It kinda feels like just an info about covid app, not a tracker.<br> :date: __2020-08-30 19:31:12__
-
 
 
 #### 2-star reviews
@@ -186,6 +186,8 @@ The Covid Trace Nevada app has been installed by more than **50000** times. At t
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="gov.nv.dhhs.en 2 reviews"/>
 </p>
+
+> Good idea poorly executed<br> :date: __2020-11-25 23:37:24__
 
 > Downloaded the app about two weeks ago worked fine, I assume the first couple days. Now it will never reload information (it has a little time last updated at the top) it's been stuck at the same time no matter what I do. I like the idea of this but it's basically an app that is a website with tracking permissions. All the clickable stuff in the app just take you to a webpage through your internet app.<br> :date: __2020-11-16 04:27:04__
 
@@ -205,8 +207,6 @@ The Covid Trace Nevada app has been installed by more than **50000** times. At t
 
 > This doesn't work, the app itself looks/seems/feels like a toy or fake, won't even show in the google play search, I had to find the website first then use the link to get to the app and in my girlfriend phone wont pass from the 3rd page "next" Samsung A20, and in my Samsung gs8 the loading update it's "meh".<br> :date: __2020-08-27 04:14:38__
 
-> I love this idea! But... It only shows that the last check was 15 hours ago. One check is all it has done. What good is that? For those stuck on 3rd page, slide the slider in middle of the page as instructions say.<br> :date: __2020-08-25 16:09:15__
-
 
 
 #### 1-star reviews
@@ -214,6 +214,12 @@ The Covid Trace Nevada app has been installed by more than **50000** times. At t
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="gov.nv.dhhs.en 1 reviews"/>
 </p>
+
+> There is no way to add a location if you forgot to turn GPS on. Because I don't normally have it sucking the battery dry when I'm at home. Should be able to manually add locations with at least estimated times.<br> :date: __2020-11-29 08:43:55__
+
+> App does not allow you to refresh, uninstalled and reinstalled and still does not refresh.<br> :date: __2020-11-28 01:19:20__
+
+> Never worked. I tried entering my positive code for a week and it kept telling me it couldn't verify the code.<br> :date: __2020-11-24 00:37:54__
 
 > "Those who would give up essential Liberty, to purchase a little temporary Safety, deserve neither Liberty nor Safety." -Benjamin Franklin<br> :date: __2020-11-21 14:57:41__
 
@@ -228,11 +234,5 @@ The Covid Trace Nevada app has been installed by more than **50000** times. At t
 > Great idea but won't reload.<br> :date: __2020-11-15 10:43:17__
 
 > Tells me it's installed but doesn't open. Doesn't show in my phone<br> :date: __2020-11-14 16:46:45__
-
-> This app is a joke. Doesn't update, have never received a notification. Blue tooth is on, etc. Etc. App is worthless. Was hoping it would be great but highly disappointed.<br> :date: __2020-11-13 16:22:36__
-
-> App doesn't work. I went around 2 people today that I KNOW FOR A FACT both tested positive and this app did not notify me at all and says I'm still not at risk. Uninstalling this fakeness.<br> :date: __2020-11-13 06:07:29__
-
-> F\*\*king stupid app. Like I'm going to download something the government approved. All you sheep are morons<br> :date: __2020-11-12 21:22:02__
 
 

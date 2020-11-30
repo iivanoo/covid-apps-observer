@@ -124,6 +124,10 @@ The Ayush Sanjivani app has been installed by more than **500000** times. At thi
 <img src="5_star_reviews_wordcloud.png" alt="com.negd.ayushfeedback 5 reviews"/>
 </p>
 
+> Good knowledgeable app<br> :date: __2020-11-24 15:28:15__
+
+> Otp to bhejo<br> :date: __2020-11-24 15:01:06__
+
 > Very good<br> :date: __2020-10-17 14:28:14__
 
 > Nice<br> :date: __2020-10-12 19:37:32__
@@ -139,10 +143,6 @@ The Ayush Sanjivani app has been installed by more than **500000** times. At thi
 > Best app all details available for taking care of our self on our own<br> :date: __2020-09-03 19:05:32__
 
 > Very nice app<br> :date: __2020-09-02 09:11:08__
-
-> Ok<br> :date: __2020-08-30 08:23:02__
-
-> Best<br> :date: __2020-08-22 16:59:22__
 
 
 
@@ -236,6 +236,8 @@ The Ayush Sanjivani app has been installed by more than **500000** times. At thi
 <img src="1_star_reviews_wordcloud.png" alt="com.negd.ayushfeedback 1 reviews"/>
 </p>
 
+> Even there is full network Not receiving OTP after submitting mobile number.<br> :date: __2020-11-25 02:30:44__
+
 > Unable to receive otp<br> :date: __2020-11-22 01:54:03__
 
 > Does not get OTP even thogh well connected network and without Verification can not use.<br> :date: __2020-11-21 17:43:31__
@@ -253,7 +255,5 @@ The Ayush Sanjivani app has been installed by more than **500000** times. At thi
 > Unable to register<br> :date: __2020-11-13 11:41:20__
 
 > 3 din pahle app download kiya hai, 3 din se baar baar try kar raha hu par OTP nahi aa raha...<br> :date: __2020-11-01 16:45:54__
-
-> Bed<br> :date: __2020-10-18 12:22:49__
 
 

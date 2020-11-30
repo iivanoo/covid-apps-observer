@@ -178,6 +178,12 @@ The NowClinic app has been installed by more than **50000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="com.americanwell.android.member.optum 5 reviews"/>
 </p>
 
+> not sure<br> :date: __2020-11-30 02:10:26__
+
+> Good<br> :date: __2020-11-25 21:50:30__
+
+> This was quick and easy! The dr i seen was attentive and acknowledged my symptoms<br> :date: __2020-11-24 19:21:17__
+
 > Love it quick simple. Drs great. Feels more comfortable<br> :date: __2020-11-21 19:58:20__
 
 > It's like visiting a Dr in office. Very thorough<br> :date: __2020-11-20 20:45:56__
@@ -192,12 +198,6 @@ The NowClinic app has been installed by more than **50000** times. At this time,
 
 > Was very good<br> :date: __2020-11-18 17:04:07__
 
-> Very easy to maneuver. Thanks<br> :date: __2020-11-17 22:59:15__
-
-> Very easy to use and a great help during these trying times. Been using since 2019 and the timing couldn't have been better.<br> :date: __2020-11-17 20:06:38__
-
-> 100% customer service, at home, I love it!<br> :date: __2020-11-17 07:13:43__
-
 
 
 #### 4-star reviews
@@ -205,6 +205,8 @@ The NowClinic app has been installed by more than **50000** times. At this time,
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.americanwell.android.member.optum 4 reviews"/>
 </p>
+
+> Good<br> :date: __2020-11-25 17:29:06__
 
 > great<br> :date: __2020-10-27 01:58:53__
 
@@ -223,8 +225,6 @@ The NowClinic app has been installed by more than **50000** times. At this time,
 > Comcept is great but really bad video connecting<br> :date: __2020-08-11 17:14:22__
 
 > Great except for wait you have no idea when your next<br> :date: __2020-08-09 23:08:55__
-
-> Easy to use 👍🏽👍🏽👍🏽<br> :date: __2020-08-08 04:34:08__
 
 
 

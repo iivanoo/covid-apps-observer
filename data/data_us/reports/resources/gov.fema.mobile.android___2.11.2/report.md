@@ -163,6 +163,8 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 <img src="5_star_reviews_wordcloud.png" alt="gov.fema.mobile.android 5 reviews"/>
 </p>
 
+> Great great<br> :date: __2020-11-29 10:37:04__
+
 > Very good 👍👍<br> :date: __2020-11-20 07:42:31__
 
 > This is one of the essential apps.<br> :date: __2020-11-19 15:28:00__
@@ -181,8 +183,6 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 
 > Easy and great ti yse...Thank you FEMA<br> :date: __2020-10-21 15:38:31__
 
-> Awesome assistances programs<br> :date: __2020-10-21 07:44:28__
-
 
 
 #### 4-star reviews
@@ -190,6 +190,10 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="gov.fema.mobile.android 4 reviews"/>
 </p>
+
+> So I love this app, but I feel as if you guys should check the reviews. There are people there with legitimate concerns, and some great recommendations that your should take look at. Such as: -Missing Alerts -A "Follow Me" option. -A priority alert mode (that fully covers your screen when you get a warning alert). I had a tornado warning in my area, and I love that I recieved it when using the app, but you should force the users to see a warning. These are the 3 options I'd love to see come.<br> :date: __2020-11-29 03:51:39__
+
+> It has a lot of information anyone would ever need in this nation you could help you self and others in anything<br> :date: __2020-11-25 07:22:21__
 
 > App has grown over the years and I appreciate the work that has gone into making it. My alerts are timely for the different counties that I've entered. THAT being said: The app has the potential to be so much more. Save lives. Can you please make it less time consuming to use? When I travel I need to hear *alerts in the County I'm IN.* What I would like to see in an update is the use of GPS to alert me *wherever* I am. Also.. Why isn't anyone taking advantage of the Blog section?<br> :date: __2020-11-06 20:45:42__
 
@@ -206,10 +210,6 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 > Great app.<br> :date: __2020-07-01 08:50:11__
 
 > Great at giving alerts for different areas. Live posting during storms is excellent. Just be careful you don't list to many places to avoid constant updates.<br> :date: __2020-06-12 03:22:06__
-
-> Only worth downloading if you're in a disaster situation. Otherwise it's not very useful.<br> :date: __2020-05-23 06:10:43__
-
-> Extremely well covers high pop centers. However, little to no coverage in rural areas. We live in Benton County, MO...no coverage ANYWHERE here.<br> :date: __2020-05-22 15:48:47__
 
 
 
@@ -247,6 +247,8 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 <img src="2_star_reviews_wordcloud.png" alt="gov.fema.mobile.android 2 reviews"/>
 </p>
 
+> Need more control over types of alerts. Don't need to be woken from deep sleep at 3 am for fog warning, for instance. Fog won't harm me when safe in bed in sturdy house unless I hurt myself being startled in my sleep by loud notification.<br> :date: __2020-11-29 09:17:51__
+
 > No change. Even after clearing cache, rebooting phone, etc still getting multiples of same exact alerts and several alerts with little or no lead time. That's probably FEMA but still downgrades usefulness. So problematic that other weather apps are needed for safety.<br> :date: __2020-11-15 22:38:27__
 
 > Once I sign in it then sends me a email code to sign in again.... To many steps<br> :date: __2020-09-19 20:23:31__
@@ -264,8 +266,6 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 > It's a weather alert app. I'm getting constant weather alerts during a pandemic lockdown<br> :date: __2020-03-29 17:05:00__
 
 > When I click on "Alerts," I get a message saying that I have to enable them in the app settings. But when I get into the settings, I can't find anything that does that.<br> :date: __2020-03-21 20:10:32__
-
-> App does not give alerts. At one time it worked.<br> :date: __2019-06-18 03:25:56__
 
 
 

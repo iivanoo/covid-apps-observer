@@ -145,6 +145,12 @@ The COVID Alert NJ app has been installed by more than **100000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="com.nj.gov.covidalert 5 reviews"/>
 </p>
 
+> Great Health Emergency APP! My family and I downloaded immediately without hesitation! The DOH & our Governor want to save our lives! It's so easy to use and informative! You can simply set up a reminder and it only takes 15 seconds to check in! I truly believe if more NJ peeps downloaded this easy tool & join the fight, it could save lives & give additional information to our caring DOH department!! ❤<br> :date: __2020-11-26 19:37:27__
+
+> Very helpful app<br> :date: __2020-11-25 05:06:53__
+
+> After turning off WiFi then setting it up works. Thanks 😊<br> :date: __2020-11-23 20:47:44__
+
 > Very easy to use and understand this app<br> :date: __2020-11-23 02:22:03__
 
 > I have it already on my phone I like that I can keep up with people in my surroundings.<br> :date: __2020-11-20 22:42:46__
@@ -158,12 +164,6 @@ The COVID Alert NJ app has been installed by more than **100000** times. At this
 > Stop crying. If they are tracking you they can do it without this app. Be kind. Love each other. Wear a mask.<br> :date: __2020-11-15 13:23:31__
 
 > Keeping us as updated as possible. People Please...Mask Up!!!!<br> :date: __2020-11-12 12:51:16__
-
-> I is good<br> :date: __2020-11-12 00:48:44__
-
-> COVID Alert NJ App is being made available by the New Jersey Department of Health (DOH) to complement New Jersey’s comprehensive COVID-19 contact tracing effort. COVID Alert NJ is a free and secure mobile phone app that allows New Jerseyans: 1. To be alerted if they have been in close contact with another app user who has tested positive for COVID-19 – even if that person is a stranger 2. To track their symptoms and get advice on what to do to protect themselves and other's.<br> :date: __2020-11-08 18:00:46__
-
-> This is good app<br> :date: __2020-11-08 13:49:07__
 
 
 
@@ -257,6 +257,10 @@ The COVID Alert NJ app has been installed by more than **100000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="com.nj.gov.covidalert 1 reviews"/>
 </p>
 
+> I don't have Covid yet... But this app seems to assume everyone has COVID, and don't have COVID was not an option... So how is this going to help me as a doctor who comes in contact with patients daily....<br> :date: __2020-11-26 17:17:20__
+
+> Does not work. Good idea but shame on NJ for not developing it right so it works. This could really keep people safe if they did it right. Dissapointing but thats no surprise given our government and the state of the world.<br> :date: __2020-11-26 05:54:06__
+
 > I haven't seen anyone reported positive yet.<br> :date: __2020-11-22 01:11:15__
 
 > Not very useful.: 1. You must have and utilize a smart phone 2. You must have it activated 3. You must report your status daily 4. You must be in close contact with an infected person for too long and they must have reported they have symptons 5. Will it be compatable with apps from other states<br> :date: __2020-11-17 14:16:13__
@@ -272,9 +276,5 @@ The COVID Alert NJ app has been installed by more than **100000** times. At this
 > Work in an emergency room and downloaded to see how accurate the alerts would be. I assumed I would have to turn off the notification from being alerted to much. To my surprise I haven't been alerted once in over a month of having the app even after being in direct patient care with positive cases.<br> :date: __2020-11-04 06:12:09__
 
 > It keeps freezing after verifying my age.<br> :date: __2020-11-02 16:37:40__
-
-> Total Control over all of us.<br> :date: __2020-10-31 00:10:33__
-
-> Cannot even finish setup poor development. Simple alert app should not be inconvenient to use if it is most people won't go through the headache of setting it up. This fix should be top priority. Poor development something like this should be more easily usable.<br> :date: __2020-10-29 11:40:32__
 
 

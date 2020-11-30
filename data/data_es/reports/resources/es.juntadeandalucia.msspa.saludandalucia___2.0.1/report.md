@@ -152,10 +152,12 @@ The Salud Andalucía app has been installed by more than **10000** times. At thi
 #### 4-star reviews
 
 <p align="center">
-
+<img src="4_star_reviews_wordcloud.png" alt="es.juntadeandalucia.msspa.saludandalucia 4 reviews"/>
 </p>
 
-No recent reviews available with 4 stars.
+> No consigo enterarme<br> :date: __2020-11-27 13:53:31__
+
+
 
 #### 3-star reviews
 

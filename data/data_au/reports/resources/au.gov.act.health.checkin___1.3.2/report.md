@@ -190,6 +190,8 @@ The Check In CBR app has been installed by more than **10000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="au.gov.act.health.checkin 5 reviews"/>
 </p>
 
+> Red es DVR DVR you vf you have any other information you can get the best regards<br> :date: __2020-11-29 09:24:49__
+
 > Used it a few times at the library, worked quickly, easily, and without issue. Wish more places would use this.<br> :date: __2020-11-10 07:32:34__
 
 > Now that you remember frequent guests (eg, my husband) it takes under 5 seconds to check in. Great job.<br> :date: __2020-10-29 02:09:59__
@@ -252,6 +254,8 @@ The Check In CBR app has been installed by more than **10000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="au.gov.act.health.checkin 1 reviews"/>
 </p>
 
+> Didn't recognise QR codes at a pub and at the Australian National Museum. Strange as other QR code reader redirected me to this Canberra Check in app anyway. Android / Oppo<br> :date: __2020-11-25 22:13:55__
+
 > Won't install!! Running a Samsung Note 10 so shouldn't be a compatibility issue!!<br> :date: __2020-11-14 04:53:26__
 
 > Complete failure. Says enter code but no indication of where to get code.<br> :date: __2020-11-04 00:06:22__
@@ -269,7 +273,5 @@ The Check In CBR app has been installed by more than **10000** times. At this ti
 > Poor. Three venues in a row where the QR code isn't recognised.<br> :date: __2020-10-02 04:04:22__
 
 > Had my first chance to use it yesterday but the QR code would not scan (Oppo R9s). Does this app require internet connection when scanning the QR code? I had my data switched off and the app did not indicate it needed to be enabled.<br> :date: __2020-10-02 03:48:44__
-
-> Scanning opens a link asking you to install the app - even if you have it. A couple more clicks to open the app and click 'Check In', and you'll need to go back to the front door and scan the QR code again from within the app. Unlike other quick and easy QR check ins, scanning the code from your camera will NOT simply open the app/site AND recognise the venue you're trying to check into. You have to realise the venue is using THIS app, open the app, then scan; OR scan, fiddle and scan again.<br> :date: __2020-09-22 01:29:22__
 
 

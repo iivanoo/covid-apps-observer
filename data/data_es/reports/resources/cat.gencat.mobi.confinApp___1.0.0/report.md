@@ -119,6 +119,8 @@ The CONFINAPP app has been installed by more than **10000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="cat.gencat.mobi.confinApp 5 reviews"/>
 </p>
 
+> bien rápida<br> :date: __2020-11-27 19:37:49__
+
 > acurada i informada<br> :date: __2020-11-10 09:42:11__
 
 > Molt bé. Clar. Avui faig dos trajectes. De Sant Boi a Cornellà i de Cornellà a Canovelles. No quedaria reflectit el primer trajecte<br> :date: __2020-11-01 10:44:04__

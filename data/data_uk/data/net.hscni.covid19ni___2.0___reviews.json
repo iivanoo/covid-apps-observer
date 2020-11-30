@@ -1,23 +1,11 @@
 [
     {
-        "reviewId": "gp:AOqpTOHqwgSXkZHV4BFawkT08b6sYelU8yxx6_xev5rx708Gf3GeexlzYiYToTHNaAedLQoR_Oa9s7Joj9CJaCg",
-        "userName": "Chris Jr Williams",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GirsJVfkIOSzQDmrtrxASzfr9CQKW7QmNz7hcAorvU",
-        "content": "C x",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": null,
-        "at": "2020-11-21 10:18:39",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
         "reviewId": "gp:AOqpTOHIjPAltoGYYBlbYevVfHbEYLvEANUQKsYK-a0yRRS0OcOMrlqIg2hc9sV4SV8SCDJ1I9lxwQOGAbn53Lo",
         "userName": "Stephen Vallely",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi534J-JvVPpegYeN-N-6CnyQ1FE53rRuHAtxahDA",
         "content": "Hasn't worked since the upgrade. Keeps asking me to connect to network when I am already connected",
         "score": 1,
-        "thumbsUpCount": 1,
+        "thumbsUpCount": 3,
         "reviewCreatedVersion": "2.0",
         "at": "2020-11-18 14:07:13",
         "replyContent": null,
@@ -29,7 +17,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-BFfgQiafyQY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn7SH-hl7HkidCLFV6qsZ_jauNICA/photo.jpg",
         "content": "Complete rubbish. I answered all the questions in the symptom checker as perfectly healthy, it told me to isolate as I had covid symptoms. Absolute nonsense.",
         "score": 1,
-        "thumbsUpCount": 9,
+        "thumbsUpCount": 10,
         "reviewCreatedVersion": "2.0",
         "at": "2020-10-26 23:26:48",
         "replyContent": null,
@@ -80,18 +68,6 @@
         "thumbsUpCount": 7,
         "reviewCreatedVersion": "2.1",
         "at": "2020-10-04 18:50:14",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOERI3rdWX2QDOhYlgY2zv1p9AvAQmWAAQT1x7FARifZNN3zYaUPEkq-Rqxmaprspawjq8hBqsWEYJ3Nvnw",
-        "userName": "Davy C",
-        "userImage": "https://play-lh.googleusercontent.com/-YTRibbSXwd8/AAAAAAAAAAI/AAAAAAAAAdI/AMZuuckKxtZQ0fN5xcWWlpXtXz3NHLOATw/photo.jpg",
-        "content": "doesn't load past the first screen",
-        "score": 1,
-        "thumbsUpCount": 1,
-        "reviewCreatedVersion": "2.1",
-        "at": "2020-09-26 17:06:32",
         "replyContent": null,
         "repliedAt": null
     },
@@ -410,7 +386,7 @@
     {
         "reviewId": "gp:AOqpTOEq60vRSjyjC7CESQd7fmvyNWydSAfjPwTar_kg4beGND_RKF4ZE91gBnMAxmTX-CLjBzignmtQGrQCcRI",
         "userName": "James Millar",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi_KS6N9h8Zf0yqFYQBhnYNP6lvfebLUJbO3oYA",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjpidiY1tZ0gJt6yzHaz8soDlIFsKeU623pIgjOLPk",
         "content": "Insta-crash all this week - lucky we don't need it yet. Pointless when it was working. Out of date news. Weblinks in one place might be useful. Contact Tracing search links to this app.",
         "score": 1,
         "thumbsUpCount": 27,

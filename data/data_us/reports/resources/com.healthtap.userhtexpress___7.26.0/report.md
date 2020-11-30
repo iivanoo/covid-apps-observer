@@ -209,6 +209,18 @@ The HealthTap — 24/7 Telemedicine app has been installed by more than **100000
 <img src="5_star_reviews_wordcloud.png" alt="com.healthtap.userhtexpress 5 reviews"/>
 </p>
 
+> I LOVE THIS APP SUPER EASY ,SUPER HELPFUL, LOVE IT<br> :date: __2020-11-29 13:54:30__
+
+> Very productive<br> :date: __2020-11-28 20:25:40__
+
+> Health Tap has very professional doctors and make it easy for me to get my refills in between visits with my primary doctor! Also, more affordable than Lemonaid Health and K Health.<br> :date: __2020-11-28 00:05:46__
+
+> Yes it told me everything i wanted to know<br> :date: __2020-11-24 22:27:14__
+
+> Awesome<br> :date: __2020-11-24 10:33:06__
+
+> Love being able to talk to a doctor when I need to without jumping through a million hoops or waiting hours for a callback. One of the best telemedicine companies I have ever worked with.<br> :date: __2020-11-23 19:13:01__
+
 > Loved very quick easy and affordable as i do not have insurance and i also work crazy hours so this was nice<br> :date: __2020-11-20 18:28:48__
 
 > Excellent service and was completed in 15 minutes. Awesome app and great price too!!!<br> :date: __2020-11-20 16:36:00__
@@ -216,18 +228,6 @@ The HealthTap — 24/7 Telemedicine app has been installed by more than **100000
 > Very straight forward easy to use 10 bucks for a dr. This is great<br> :date: __2020-11-20 06:33:47__
 
 > Great service and it was free<br> :date: __2020-11-19 02:56:46__
-
-> All the big named hospitals, down to the smaller local clinics and emergency room clinincs almost refused to assist me in aquiring needed medication. When (or before, my suggestion) the standard doesn't work, please give these guys a shot. True testimony.<br> :date: __2020-11-16 22:21:41__
-
-> I've used the app twice. Once for myself and once for my teenaged son. Both times I was connected with a Dr. quickly - within 2 minutes. They listened to my symptoms, gave me some treatment advice and put in a Rx as needed to my local pharmacy. The whole process took maybe 10-15 minutes. The service is wonderful for someone like me - a working mom who often can't get a Drs appt for weeks and doesn't want to visit the ER for a non emergency, esp.during covid. And as a bonus the price is great.<br> :date: __2020-11-16 06:00:58__
-
-> I love this. The doctor I spoke to was really nice and it saves on the trouble of Dr office visits. Especially helpful now.<br> :date: __2020-11-15 15:46:37__
-
-> Excellent<br> :date: __2020-11-15 09:38:20__
-
-> So much faster, easier and cheaper than an ER visit. I've used the service twice so far, and the doctors are very good. I highly recommend this for anyone who does not have insurance or wants to avoid physical ER visits.<br> :date: __2020-11-14 21:13:29__
-
-> I love it and it cheaper than insurance<br> :date: __2020-11-13 19:37:10__
 
 
 
@@ -330,6 +330,8 @@ who now can't get their meds.<br> :date: __2018-08-10 19:23:24__
 <img src="1_star_reviews_wordcloud.png" alt="com.healthtap.userhtexpress 1 reviews"/>
 </p>
 
+> Can't easily put in date of birth<br> :date: __2020-11-27 05:07:52__
+
 > Forces you to pay $45 set up fee or $65 per month for a Basic Membership. No longer affordable.<br> :date: __2020-11-23 09:59:37__
 
 > No help<br> :date: __2020-11-18 04:21:34__
@@ -347,7 +349,5 @@ who now can't get their meds.<br> :date: __2018-08-10 19:23:24__
 > UNEXCUSABLE. Go to purchase $10 subscription for Virtual Dr and upon entering all my payment Info, it tells me the payment didn't work so I went back and did it again. Same outcome. I went to PayPal to check the history be and turns out I was charged $1 authorization charge BOTH times. No refund, no Customer service help, NOTHING. Sends NOT one payment verification info but would have kept charging $1 each time trying to update payment. HEALTH TAP SHOULD BE ASHAMED<br> :date: __2020-08-24 12:53:33__
 
 > Very Unhelpful I would like my money back<br> :date: __2020-08-22 06:07:56__
-
-> Easily the worst app I've ever used. I got disconnected 10 times when the app crashed during a consultation. I asked for a doctor's note twice from two different doctor's and never got one. The wait times are ridiculous, "5 minute waits times" are more like 30.<br> :date: __2020-08-19 17:59:03__
 
 

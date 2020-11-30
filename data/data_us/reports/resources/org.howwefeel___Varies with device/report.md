@@ -176,6 +176,10 @@ The HowWeFeel: The How We Feel Project app has been installed by more than **100
 <img src="5_star_reviews_wordcloud.png" alt="org.howwefeel 5 reviews"/>
 </p>
 
+> Easy way to track health and possible covid<br> :date: __2020-11-30 05:03:08__
+
+> You are such good peaple thank you for being so kind!<br> :date: __2020-11-26 00:47:10__
+
 > I think this app is very useful in helping to save lives. It only takes a sec. Every check in feeds a person in need. Cmon now, stop being lazy. Download the app, stop thinking of your wonderful American life and realize its not 1/4 that good for millions around the globe.....<br> :date: __2020-11-21 23:38:23__
 
 > Its nice to be aware and keep tabs on your mental and physical health.<br> :date: __2020-11-18 23:37:21__
@@ -191,10 +195,6 @@ The HowWeFeel: The How We Feel Project app has been installed by more than **100
 > Nice app to stay positive<br> :date: __2020-10-28 17:57:14__
 
 > Interesting APP Easy to Use<br> :date: __2020-10-28 03:07:53__
-
-> I may need some help. The app was fine, I have the latest update, but my phone kept telling me that the app was closing a lot. Now, I can't open it at all. I am uninstalling and reinstalling right now to see if that fixes the problem. What do I do if not?<br> :date: __2020-10-27 15:41:31__
-
-> Very helpful for dealing with my day.<br> :date: __2020-10-25 10:27:17__
 
 
 
@@ -232,8 +232,6 @@ The HowWeFeel: The How We Feel Project app has been installed by more than **100
 <img src="3_star_reviews_wordcloud.png" alt="org.howwefeel 3 reviews"/>
 </p>
 
-> Update sucks, can no longer scroll through numbers from past dates. Numbers for total cases and icu cases are often wrong showing the same digits for both categories.<br> :date: __2020-11-22 08:24:36__
-
 > I don't know how I feel much better or not. I don't think I feel that much better.<br> :date: __2020-11-14 03:00:22__
 
 > Very easy to use, and using it makes me feel like I'm contributing to something worthwhile--tracking COVID-19 spread. Update: I had to uninstall it in October because it quit working.<br> :date: __2020-11-02 21:04:57__
@@ -252,6 +250,8 @@ The HowWeFeel: The How We Feel Project app has been installed by more than **100
 
 > Okay application<br> :date: __2020-09-24 19:13:06__
 
+> Choices for source of stress and other feelings focus on effects of CoVid and leave out other national issues, which for many of us are the key sources of stress<br> :date: __2020-09-19 13:08:20__
+
 
 
 #### 2-star reviews
@@ -259,6 +259,8 @@ The HowWeFeel: The How We Feel Project app has been installed by more than **100
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="org.howwefeel 2 reviews"/>
 </p>
+
+> Is the app still useful???? Since a week ago, I don't receive the information of how many people are not feeling well, and the number that are good is really low!! So I became to doubt about the information is true. Also, if this app is really useful for medical purposes you're missing the people with asthma and high blood pressure. Hope to improve the app, or is it the time to delete it?? Thanks.<br> :date: __2020-11-25 15:26:38__
 
 > Update broke the app. Unable to open.<br> :date: __2020-10-26 13:37:49__
 
@@ -278,8 +280,6 @@ The HowWeFeel: The How We Feel Project app has been installed by more than **100
 
 > This app used to be a super-quick check-in every day, but now, over the past week or so it's usually excruciating slow, freezes, the starts over. I'm happy to help, but most of the time now it's an exercise in frustration<br> :date: __2020-09-14 07:18:23__
 
-> I have been checking in for over 100 days and the app isn't working right. It freezes up and. You practically have to beat the phone to click on an answer. Developers need to look into it<br> :date: __2020-09-12 21:07:40__
-
 
 
 #### 1-star reviews
@@ -287,6 +287,8 @@ The HowWeFeel: The How We Feel Project app has been installed by more than **100
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="org.howwefeel 1 reviews"/>
 </p>
+
+> Update sucks, can no longer scroll through numbers from past dates. Numbers for total cases and icu cases are often wrong showing the same digits for both categories.<br> :date: __2020-11-27 07:37:52__
 
 > Doesn't work anymore. Don't know why. I've uninstalled the app and reinstalled it, still doesn't work!<br> :date: __2020-11-22 16:25:11__
 
@@ -305,7 +307,5 @@ The HowWeFeel: The How We Feel Project app has been installed by more than **100
 > Doesn't even open anymore<br> :date: __2020-11-12 18:27:03__
 
 > App attempts to open the closes. Huge update failure.<br> :date: __2020-11-06 21:45:58__
-
-> Downloaded, uninstalled, and downloaded again to no avail. The app won't even start for me :/<br> :date: __2020-11-06 14:02:23__
 
 

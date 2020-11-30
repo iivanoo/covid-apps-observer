@@ -1,5 +1,17 @@
 [
     {
+        "reviewId": "gp:AOqpTOHBK_5dGqNU4zHSK3Avzmqkz1lVvZk7VhpffewRzKxMI7yFoCudSdUcreoAjQv1eMS3Nil35DFBOi8B9HQ",
+        "userName": "Beautiful Soul",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjsP4vxBl4xAn4bowLoLSogtdilLZQUfGJLf8ksMF4",
+        "content": "cool",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.01.06",
+        "at": "2020-11-27 02:36:18",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOHltfyf400Bj3nzRa4O4yqagXzP5ZjwIm3ikZObMwtAnP88QisTNEegmERXYxNA_WmjKbyfFLIsWeEqWgM",
         "userName": "sagar javia",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiKsvno4cDowEyBMthtUjMsimANtI_sW0L2soC00Q",
@@ -8,8 +20,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.01.06",
         "at": "2020-11-22 05:51:59",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thanks for your review, Sagar!",
+        "repliedAt": "2020-11-24 11:43:00"
     },
     {
         "reviewId": "gp:AOqpTOGhuoxVWiE7bfGCyEHMe1ccXFenOh8MKxhHyWsMh-ofu_HeCNWddWeCJwmLnPSBEOcDMSLGDiebWVcxKm4",
@@ -20,8 +32,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.01.05",
         "at": "2020-11-21 23:00:02",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thanks, Paulina!",
+        "repliedAt": "2020-11-24 11:42:39"
     },
     {
         "reviewId": "gp:AOqpTOEclmFnbfj9J1sqY98wIGGzkD6xuXv7F6-wYAoqRNb0MrkWOdCaGRFnwOVnuHHVS6R80cgnD8SwGBv47FQ",
@@ -32,8 +44,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.01.06",
         "at": "2020-11-21 01:08:24",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thanks, James!",
+        "repliedAt": "2020-11-24 11:41:11"
     },
     {
         "reviewId": "gp:AOqpTOE46zJpGGwqbM2rhcH0iBnjwq5ML58emMLq2GC_CgyeGCz6oe17Md8KQif5D6KeyTJjCn2TcmsLUPCDe9U",
@@ -41,11 +53,11 @@
         "userImage": "https://play-lh.googleusercontent.com/-QlsVHV-pmug/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmJynJufY1PYIePdSnPI1weuEvvGw/photo.jpg",
         "content": "it's great to determine if you need to go to the Dr, so easy to overlook symptoms but this app makes me look at the whole picture",
         "score": 5,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "4.01.06",
         "at": "2020-11-20 13:37:11",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "That's wonderful to hear you find the app helpful, Jeanette. Thanks for your review!",
+        "repliedAt": "2020-11-24 11:40:31"
     },
     {
         "reviewId": "gp:AOqpTOG_-otdziXqMu76Afyttu5rs2zMoZNF84eDko14JsQdIPp841oeTyVr4kZMDxNFeCN8vKZ7XDtLNNJ-fSQ",
@@ -56,8 +68,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.01.06",
         "at": "2020-11-20 08:50:20",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thanks for the review, Sankupar!",
+        "repliedAt": "2020-11-24 11:38:36"
     },
     {
         "reviewId": "gp:AOqpTOEOA8vIxGYXGO8DMQ8CujZnxYzdOT3NBkCP8D5VcEIbsrgs_hHze0YR5fBdR_BDEaWZ4X9dAx5U8nWhCvk",
@@ -68,8 +80,8 @@
         "thumbsUpCount": 1,
         "reviewCreatedVersion": "4.01.03",
         "at": "2020-11-19 20:23:40",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Edrine, it's great to hear from you. We're so glad you find the app useful. Thank you very much for your review!",
+        "repliedAt": "2020-11-24 11:37:43"
     },
     {
         "reviewId": "gp:AOqpTOEnoEKPbDnNxYRB7LH6isvryh9y3wFyNKJX2BB77MH2ZGMtk9YJb6nf__4JMGzFBqTEL6o4OjUGvsYsPms",
@@ -101,7 +113,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgvCLHDhzsB6uEuEuMY7s-9B4ePAD2kTz1XuBstBA",
         "content": "Amazing experience, since you start using it it will become your main habit everyday. Very very good",
         "score": 5,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "4.01.06",
         "at": "2020-11-16 10:19:14",
         "replyContent": "We're so glad to hear you are enjoying the app, Marco. Thank you very much for the review!",
@@ -137,7 +149,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-artL8NvlrUM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucni7-Hqnk24oE9a2WZL3xL3vSwgSA/photo.jpg",
         "content": "this is a really great app, you have any questions and you can't reach your doctor,they got the answers for you here thumb up",
         "score": 5,
-        "thumbsUpCount": 1,
+        "thumbsUpCount": 2,
         "reviewCreatedVersion": "4.01.06",
         "at": "2020-11-15 02:23:46",
         "replyContent": "Hi Dahlia, thank you very much for your review!",
@@ -617,7 +629,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhycIlHOVjeiGfR9swkw926yaFq5A-CLvru2GaIjA",
         "content": "I have a headache today and app sent me almost strait to the doctor as a serious issue. Not sure one of headache is that serious and reason might be any. Also I would welcome dark version (theme) of the app. Headache and white screen is not good.",
         "score": 3,
-        "thumbsUpCount": 51,
+        "thumbsUpCount": 52,
         "reviewCreatedVersion": "4.01.04",
         "at": "2020-10-09 20:36:09",
         "replyContent": "Hi Erika. We're sorry to hear about your experience and are working on addressing these concerns. We always value feedback - please contact us at feedback@your.md with any further comments you may have. Thanks again.",
@@ -1105,8 +1117,8 @@
     },
     {
         "reviewId": "gp:AOqpTOH_MD3STp9CKw5gkoR4HxI1ThOd7hrz7U8ECr_EAF7pSNMHIYk1o3uWPqbhfYcWFDvuxitFrDRnXdfsaDI",
-        "userName": "Jesseina Torres",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Giij095gT2vLRhqzy5m6yDLWLXM-MwTcaibeoFQlQ8",
+        "userName": "Gemini Barbie",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg77rEU7zOik1aK0-nYOMWX89JgGv-9ia0__BWhnOs",
         "content": "Very accurate and always on point with information.",
         "score": 5,
         "thumbsUpCount": 86,
@@ -2774,7 +2786,7 @@
     {
         "reviewId": "gp:AOqpTOEFHpeXtsjEaElyquqUTVW0YV8xacZFuqn0IQBgsft9CV4JvFcBAE-wpRPCot0hqBsstbKTD-LtOMeyngo",
         "userName": "Rifah K.",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgSlcSKvWUxFuabVV9ER2224mo993xSlmnr2MQ0TQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiLActrqvv-_C1oKmi6LeLhJLQB2dI2XiUPUPMccg",
         "content": "good one, gives instant suggestions",
         "score": 4,
         "thumbsUpCount": 9,
@@ -3713,7 +3725,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgTYPlZ-ir3Tj5-ekPlynJkUE6NdP4sUjspBdz65g",
         "content": "very good. like it has a weekly plan lile say if you have trouble sleeping week one would be on improving on that and week 2 would be a differnt target. really really really good.",
         "score": 5,
-        "thumbsUpCount": 25,
+        "thumbsUpCount": 24,
         "reviewCreatedVersion": "3.3.6",
         "at": "2018-12-19 20:10:01",
         "replyContent": "Hi HollyM. Thank you for your feedback. We're pleased to hear that you found this new feature within the app useful. If there's any other feedback you'd like to mention please get in touch at care@your.md. Thank you again!",
@@ -4909,8 +4921,8 @@
     },
     {
         "reviewId": "gp:AOqpTOF1EUR6wKS2Zwg9qYbwb8S6cj2CJeH2BB37tbxX6GA6xF7ef4U4w3rwSoXSgmnDmJBLHfoMN6p7WQXv3wk",
-        "userName": "Inna Escol",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjSvT6RyWKp1XpqO8ZOkNKJ1Ow3B8H8pVYxX8myOQ",
+        "userName": "Winna Mae Espiritu",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgH_W2j-hw2MkfTHV1BTkgsM1I8yzkG-48pVXKHQSM",
         "content": "Very nice app",
         "score": 5,
         "thumbsUpCount": 0,
@@ -6206,7 +6218,7 @@
     {
         "reviewId": "gp:AOqpTOHL2ha4KR7Xhdi_UTGRDDNXbUy7TTqkkz7jZEjXK0yP-opiG--Khv6_IfQE9dS3OBaX8Lgq_1npyiGwLbg",
         "userName": "Vivek Saahil",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhkVv-5IwAkgi0LKXcPCIEGvKKyMjfRAOw3OJdv_A",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj2aDVr_q0Wm-Ez436QO8idco2n6vUTdwv6oK9cNg",
         "content": "Great app",
         "score": 5,
         "thumbsUpCount": 0,
@@ -6229,8 +6241,8 @@
     },
     {
         "reviewId": "gp:AOqpTOE_EgAjrMXfZi5j-kW9J7ogZ5avOAsjq5G6a375HNaZA74QTDTTfmP3g__1uX3LcXJnwWOJWGGfIkaT3mE",
-        "userName": "st\u00e1r h",
-        "userImage": "https://play-lh.googleusercontent.com/-z3RVAsQd5jY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmpBrr16rYIOgqx7Dkr-t3K96jFzw/photo.jpg",
+        "userName": "YouTube star",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhwrGIOhP16kMsNokf0hUYRrta9xX7bK4ZDsAZuJA",
         "content": "Very good",
         "score": 5,
         "thumbsUpCount": 2,
@@ -9757,7 +9769,7 @@
     },
     {
         "reviewId": "gp:AOqpTOFQa5NN_NcLGHlnM2fgQ9Rn9qOg76MjIVxHW7WsoeBNC1SxXCd_WkNa-iMi7vkmphRIYvSP_zY02HqTCI0",
-        "userName": "sAm Yadav",
+        "userName": "Sumit Yadav",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg8zD7cDWUyIXP4ZHUFikBLQvbNvhC4y8x11MPg5OY",
         "content": "Good app",
         "score": 4,
@@ -11041,7 +11053,7 @@
     },
     {
         "reviewId": "gp:AOqpTOFt57DUquAT6zu5Dz9K2UkhJECdxG4lrro-E_OCxnYWviIoCv46jRXUDnjYK6pWtCBzZQQZn7P3qfen7A0",
-        "userName": "T Kaya",
+        "userName": "T kai",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhYnEaEooMLQYB9bUJ3emrhJq5jky16t1kH4RrxcDo",
         "content": "Helpful",
         "score": 5,
@@ -11246,7 +11258,7 @@
     {
         "reviewId": "gp:AOqpTOH6ADzASUqmA_6Db_gkIALnGNBFz7dyXQBH1pnIIcaoRDydpacytXZNiTSDsH-2gxs-KUqHoK4dd0ruKKM",
         "userName": "Tashenia Montaque",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi4UUSK_GBOSCyDmj5GMHGqIZYU8eiX_dsEY3d3hw",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhDVYTHM9PLqUtF_4CHuzxF5UN0A_AUBhppR2qRf00",
         "content": "It is excellent",
         "score": 5,
         "thumbsUpCount": 19,
@@ -11984,18 +11996,6 @@
         "thumbsUpCount": 3,
         "reviewCreatedVersion": "2.8.1",
         "at": "2017-03-17 15:13:40",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOGj8nl2yRU-r25b1mAdp_TQDSV_fLYYZIFO29kZExjJCbVZFxAY6jZtw-9MPLxBjcw_ZNmW3tqTqJxVbLc",
-        "userName": "Dalibu m. Isyaku",
-        "userImage": "https://play-lh.googleusercontent.com/-n8NihlFwK70/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnDiKGRANrNpPGvXK0ZAMfMwG_lww/photo.jpg",
-        "content": "It's very important",
-        "score": 4,
-        "thumbsUpCount": 1,
-        "reviewCreatedVersion": null,
-        "at": "2017-03-16 19:26:13",
         "replyContent": null,
         "repliedAt": null
     }

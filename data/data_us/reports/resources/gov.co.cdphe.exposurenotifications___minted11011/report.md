@@ -121,6 +121,14 @@ The CO Exposure Notifications app has been installed by more than **100000** tim
 <img src="5_star_reviews_wordcloud.png" alt="gov.co.cdphe.exposurenotifications 5 reviews"/>
 </p>
 
+> Id like to go to vegas with you blood does he know who u r to maww<br> :date: __2020-11-28 17:25:21__
+
+> I love this app cause it is easy to use and understand, it's also a great way to stay safe from the pandemic!<br> :date: __2020-11-28 06:33:21__
+
+> Very important information for all to learn! To keep an open mind and take precautions that can be life saving!!<br> :date: __2020-11-27 07:04:53__
+
+> Blessed<br> :date: __2020-11-26 23:39:14__
+
 > great!<br> :date: __2020-11-23 03:02:21__
 
 > Very useful app for telling me if there are covid positive reports.<br> :date: __2020-11-22 18:06:19__
@@ -132,14 +140,6 @@ The CO Exposure Notifications app has been installed by more than **100000** tim
 > Yes. It is safe to use. It uses tokens and your identity is kept private. Please, please do your part and help stop/track the spread!<br> :date: __2020-11-20 05:29:03__
 
 > This app is great to have.<br> :date: __2020-11-19 07:30:26__
-
-> Yes!.I was cyberstalked by city. Web beacon put on my browser by internal affairs, Mayor John Suthers, two corrupt judged and SA in 4th Judicial Dist Which I have spent years litigating against here. I am a journalist by educational laurels, druthers and whatever others add.<br> :date: __2020-11-18 09:48:10__
-
-> Like<br> :date: __2020-11-16 04:26:07__
-
-> I got the covid and tried to alert other people and it asks for a one time code that I do not know where it comes from. It makes it hard to notify other people which makes it almost useless. They need to have a service where you can screenshot your results<br> :date: __2020-11-13 23:09:45__
-
-> Excellent<br> :date: __2020-11-13 22:53:18__
 
 
 
@@ -199,6 +199,12 @@ The CO Exposure Notifications app has been installed by more than **100000** tim
 <img src="2_star_reviews_wordcloud.png" alt="gov.co.cdphe.exposurenotifications 2 reviews"/>
 </p>
 
+> I don't think this app works<br> :date: __2020-11-28 16:58:50__
+
+> I have to provide a "verification code" for my test result. I did not get one though, over the "negative" phone call..<br> :date: __2020-11-24 22:58:35__
+
+> This app is too difficult to use for such a life threatening issue. It needs to be more intuitive before the public will actually begin using this app. It is should be easy to use by those who are not comfortable with technology, yet I am very comfortable with technology and the app took a while to figure out Please do something to make this better<br> :date: __2020-11-23 16:56:58__
+
 > major power consumption issues. had to uninstall it because I couldn't use my phone normally without having to charge in the middle of the day, and I only really text on an average day. also noticed my phone was running very hot constantly when I had the app installed. this is something we definitely need, but please optimize it so it doesn't make my phone unusable.<br> :date: __2020-11-19 19:11:35__
 
 > There is nothing wrong with the app persay, its just i have been using it and i have been doing alot of christmas shopping, and i got not 1 alert. You know how many people out there that have tested positive and havent reported!! So this app isnt going to work!<br> :date: __2020-11-09 17:38:51__
@@ -213,12 +219,6 @@ The CO Exposure Notifications app has been installed by more than **100000** tim
 
 > Needs gps and bluetooth to be active. Drains battery. Why do we need gps active.<br> :date: __2020-11-01 17:51:00__
 
-> The app itself is fine, but installing it caused my other apps trying to update to do so slowly. So slowly, that on a fast wifi connection it would take more than 30 minutes for just one to do so. I uninstalled this one and might try again later. Once this was uninstalled, the normal updates had no problem<br> :date: __2020-10-30 04:00:56__
-
-> While your installing this IT DOSE ASK FOR YOUR LOCATION ! I haven't gotten to use this app yet I'm just now installing it so unlike other comments who claim THEY DO NOT ask for a location I paid attention and yes it dose .<br> :date: __2020-10-27 04:59:24__
-
-> I can't turn on notifications? It just says something went wrong?<br> :date: __2020-10-26 04:04:24__
-
 
 
 #### 1-star reviews
@@ -227,24 +227,24 @@ The CO Exposure Notifications app has been installed by more than **100000** tim
 <img src="1_star_reviews_wordcloud.png" alt="gov.co.cdphe.exposurenotifications 1 reviews"/>
 </p>
 
+> I have been a few feet away from someone who has tested positive for Covid. Was never notified.<br> :date: __2020-11-29 12:53:46__
+
+> I've tried downloading twice. App doesn't work and won't let me turn it on. Useless<br> :date: __2020-11-27 16:26:33__
+
+> Por q no solo dicen si lo tienes o no<br> :date: __2020-11-26 21:04:04__
+
+> I really do not know if this app really works. I have been sitting in the hospital parking lot for a few hours and have got no notifications and I know there are people inside that are positive.<br> :date: __2020-11-26 19:25:26__
+
+> Worthless app. Thankfully it's a free app so I got what I paid for. Asks me over and over to turn on notifications but always get "something went wrong" error message when trying to turn on. Deleted app. Too bad app developer has crappy skills.<br> :date: __2020-11-26 15:28:05__
+
+> I don't know if it works<br> :date: __2020-11-26 14:55:04__
+
+> Worthless<br> :date: __2020-11-25 23:43:41__
+
+> Won't turn on in the app. Keeps saying something wrong.<br> :date: __2020-11-24 23:32:43__
+
+> Error can't turn on notifications<br> :date: __2020-11-24 04:19:07__
+
 > It asks for a verification number that you can not get so it is useless at this point. No instructions on how to get one.<br> :date: __2020-11-23 01:51:56__
-
-> Starting to think this is a worthless App and Your Not Helping !!!!!<br> :date: __2020-11-22 17:41:02__
-
-> There is also no indicator that the app is doing anything. Show me some stats of how many people it thinks I've had "close contact" with. Show me some stats of how many app users have reported positive results. Etc... Right now it's just a black box I'm somehow supposed to just trust that it's working. C'mon here folks, we need more transparency if you want us to trust that app does a damn thing at all...<br> :date: __2020-11-22 16:57:05__
-
-> Unable to upload results, need a verification code which is difficult to find! Way to go Colorado for making things not easy or user friendly<br> :date: __2020-11-21 23:14:03__
-
-> Don't work I know people at my work have it and this doesn't say anything<br> :date: __2020-11-20 23:35:34__
-
-> DOES NOT WORK! I work for a government entity and we recently had three positive cases on our floor alone in this building and we didn't get a single notification not when it started and not two weeks later. This app is a complete failure and a waste of your battery time and space!<br> :date: __2020-11-19 15:53:59__
-
-> It doesn't allow me to turn on exposure notifications. I appreciate your reply! However, it didn't work for me. I'm still getting the same message. I'll just wait for the update. As of Nov 16, it's still not working on my Android<br> :date: __2020-11-16 19:08:43__
-
-> This app is useless. In order to report your positive result it asks for a verification code but doesn't give you one and doesn't have any instructions for how to get one. It would be a valuable tool if it worked.<br> :date: __2020-11-16 05:57:10__
-
-> Greatly flawed. I can't post results because lack of verification code. No way to find or figure this out either.<br> :date: __2020-11-15 23:19:00__
-
-> Downloaded this twice. Immediately annoying notifications that it will not work without an update. Takes you to Google Play to update and crashes. I could have written a better app, and I'm not an IT graduate yet!!! Pretty damn poor when the COVID situation is so serious....<br> :date: __2020-11-15 22:56:16__
 
 

@@ -1,5 +1,65 @@
 [
     {
+        "reviewId": "gp:AOqpTOHfgpCn4PRjBFdSqOyraQwVx0G6AAsjUq2JLwcH4JJg9H7ufyF9kOsX88RFA7P1co6MP-7-XaJBuYvdcO4",
+        "userName": "Darryl McMurray",
+        "userImage": "https://play-lh.googleusercontent.com/-Kro3_rKDLjk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmUAEbypHAYlb7oDMe4HhFuYZkwqw/photo.jpg",
+        "content": "very good",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "12.0.16.005_01",
+        "at": "2020-11-30 01:34:59",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFSBJ9fuCiXvR9UVglk-s_xQ6sjq6wUNBDXlQHy4g8EEGaUtWMbaCwkYwvFkXxtD04Dv74pnlATXIIZkBE",
+        "userName": "Shawn Gardner",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GglctbzG6rzMt_Q_Zfryl6y6wmB8GtpO1Ddz9Qaxg",
+        "content": "Very easy to use. Only had an occasional sound problem but may have been the providers mic.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "12.0.16.005_01",
+        "at": "2020-11-28 20:56:25",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHziXS6E60wpAtOSAKHN5vLGN_t3rntKNrmOdsXqmGo8qMuJ8KCyl0JrL7Cue2_fevIF95wJW07RyEW5H0",
+        "userName": "Ric Amos",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhuWtRUW8YNoGFeGXiR_V2hk-azx8N8sk0CIveb",
+        "content": "Well I can't get connected to it. It said they can't download my ID. I put myself on a wait list with a nurse and never was contacted. I am very frustrated with this whole thing .",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "12.0.16.005_01",
+        "at": "2020-11-27 19:37:01",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGLtBSEDw-1YL2TKtSsMCVjKAu4D_FN79_XpQz-yTZkW8ekfFCSFBy8HmLEvmAEFgtTMzLk1TUfRnD5mBE",
+        "userName": "brandan batchelor",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiJk6r-t1EH64RFPhB3ZBhHhSyZrrOub1nzdYWi",
+        "content": "Pretty helpful! Didn't know where to start but this really helped me get on a better track.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "12.0.16.005_01",
+        "at": "2020-11-24 21:57:06",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOEYoUJkcj0slWQwUzVB_WfJtSbdUK1wF95POWxSgdkffipkUv4uEIgrGraMmsplLhUDstH4OPyurC6VSoc",
+        "userName": "Delores Linback",
+        "userImage": "https://play-lh.googleusercontent.com/-jtGzk7l89r8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclEIJl4yt1b-q1jiuKd9umoc1trJA/photo.jpg",
+        "content": "It's great. Helps so much",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "12.0.16.005_01",
+        "at": "2020-11-23 19:35:16",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOE4S_3d_Hz3qXJcOenwC8gPv-o54NTkBsPOUrIeo8CnPdwl5C9Hr21qK0U9Oga5GFI5NpQGcvGSi5bUdrQ",
         "userName": "Colby Smith",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhrQUEHsxlVSel23ROzINQC8nSKa5z6nenG4IEuCAo",
@@ -89,7 +149,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-A2d3a4qLTqk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn2JTCfPHToRndmROWN4Gy1luPVwA/photo.jpg",
         "content": "I can't leave the app while I'm waiting for the visit or it will take me off the wait list. So I had to wait an hour without access to my phone. Also tried doing my visit on the computer but it wouldn't let me continue without allowing access to my camera and microphone, but the website never asked for that permission so I was never able to give permission, and google doesn't let you manually give permission without the site asking. Incredibly annoying, and required even after I was covid free.",
         "score": 1,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "12.0.16.005_01",
         "at": "2020-11-11 04:06:13",
         "replyContent": null,
@@ -3890,7 +3950,7 @@
     {
         "reviewId": "gp:AOqpTOGue9vhY2hYiMq5BZE0_EE8sVyjF87DCI64VJWROPYMJA8Ct6RKFcUFO2nCA2dIY27rJUnDeKQB4ubQs6M",
         "userName": "Autumn Mayhew",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ghk7uRSFMDGcto_5YjiXJfPXJPcWeJ_StZjO3KAztM",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiS_AUE8t6ZWuKwr_mOBqrjFcFVKuawSOkmwdhaTPs",
         "content": "Amazing!",
         "score": 5,
         "thumbsUpCount": 0,
@@ -4490,7 +4550,7 @@
     {
         "reviewId": "gp:AOqpTOGvN0Pg_7M2XRCuDBTymPQS4whKilKgg6JpCWW9qLI1fCVhbY7BBIhMO0JVsbWhOu23HsAHgX99CQpAbSI",
         "userName": "shabazz alexander",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj_wMThDKJwvXn_0n_cczPvF0j-XJBYwIKSS0t4Nw",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhEPaLqkkkU-uV2gd-S_Z6V8C06aJDp74Sk8GgMgWU",
         "content": "Very informative",
         "score": 5,
         "thumbsUpCount": 0,
@@ -5773,7 +5833,7 @@
     },
     {
         "reviewId": "gp:AOqpTOEoKDwZdwk_vEWH4FP2D1GuJwrkNhbZTlol0Xn1pG3rl6PTbKw4DIUqtRFhiuIhJnGngzEXS_OXFlCIRss",
-        "userName": "MorninCoffee",
+        "userName": "Qin1776",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi8zIoA3O986CuzW6xDeVmnIYCLnFIRxV0cBFfUuXQ",
         "content": "App is amazing! I knew my Nurse Practitioner. Just like office visit except the fact I'm not spreading my germs and illness to others also I'm not picking up new ones from others! good quality of video. I heard her instructions and questions. Thank you for finally coming into the 21st century!! this is a total game changer for sick people!",
         "score": 5,

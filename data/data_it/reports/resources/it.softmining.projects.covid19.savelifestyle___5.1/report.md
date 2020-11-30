@@ -185,6 +185,8 @@ The SM_Covid19 app has been installed by more than **50000** times. At this time
 <img src="5_star_reviews_wordcloud.png" alt="it.softmining.projects.covid19.savelifestyle 5 reviews"/>
 </p>
 
+> App molto utile<br> :date: __2020-11-27 11:04:32__
+
 > Ooooooo my God é molto utile<br> :date: __2020-11-16 19:30:59__
 
 > Immuni<br> :date: __2020-11-01 16:23:28__
@@ -202,8 +204,6 @@ The SM_Covid19 app has been installed by more than **50000** times. At this time
 > Molto buona l' app solo in caso di positività si può schiacciare e parlare con lo specialista.<br> :date: __2020-10-10 20:58:47__
 
 > Non riesco ad istallare l'app<br> :date: __2020-10-09 16:27:52__
-
-> IMMUNI<br> :date: __2020-10-08 23:50:24__
 
 
 
@@ -297,6 +297,8 @@ The SM_Covid19 app has been installed by more than **50000** times. At this time
 <img src="1_star_reviews_wordcloud.png" alt="it.softmining.projects.covid19.savelifestyle 1 reviews"/>
 </p>
 
+> Opzione anti assembramento.avvisa se ci sono meno di tot persone.dovrebbe segnare il superamento di tot persone.<br> :date: __2020-11-24 06:34:30__
+
 > Non funziona<br> :date: __2020-11-17 22:27:14__
 
 > Poco attendibile visto che 2 cell. stessa marca stessa persona stesso ambiente,risultati molto diversi.<br> :date: __2020-11-11 09:55:51__
@@ -314,7 +316,5 @@ The SM_Covid19 app has been installed by more than **50000** times. At this time
 > Bah. Non ne capisco l'utilità<br> :date: __2020-09-12 00:45:24__
 
 > Pessima da migliorare tutto<br> :date: __2020-08-23 18:06:12__
-
-> Fatta malissimo<br> :date: __2020-08-20 20:13:25__
 
 

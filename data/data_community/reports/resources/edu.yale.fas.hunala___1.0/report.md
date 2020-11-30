@@ -171,6 +171,8 @@ The Hunala app has been installed by more than **1000** times. At this time, **7
 <img src="2_star_reviews_wordcloud.png" alt="edu.yale.fas.hunala 2 reviews"/>
 </p>
 
+> Sorry, a fail out of the gate: I enter my phone; they send a text; I switch to my SMS app to get the code; I switch back to Hunala. It restarts the app and asks for my phone Basic Android event-flow<br> :date: __2020-11-27 19:57:06__
+
 > Very cool idea, but when I enter my phone number (doube and triple checked), no code is sent and I'm left without access to the app<br> :date: __2020-08-15 14:53:31__
 
 > I had high hopes for this app. But the questions are few and don't allow nuance, and the results seem to vary wildly for no reason. I tried to provide feedback, but wasn't answered elsewhere, and in app does not allow questions/help/etc. Very disappointed and feel used<br> :date: __2020-06-09 16:10:03__

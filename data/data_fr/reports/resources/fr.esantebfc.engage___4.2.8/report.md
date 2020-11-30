@@ -163,10 +163,12 @@ No recent reviews available with 4 stars.
 #### 3-star reviews
 
 <p align="center">
-
+<img src="3_star_reviews_wordcloud.png" alt="fr.esantebfc.engage 3 reviews"/>
 </p>
 
-No recent reviews available with 3 stars.
+> Je trouve l'application bien en matière de conseils mais elle me paraît vide et manque de matière<br> :date: __2020-11-26 19:46:55__
+
+
 
 #### 2-star reviews
 

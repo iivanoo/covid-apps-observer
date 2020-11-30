@@ -142,6 +142,8 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 <img src="5_star_reviews_wordcloud.png" alt="de.rki.coronadatenspende 5 reviews"/>
 </p>
 
+> Fehler bei GoogleFit Verbindung, bitte beheben, dann helfe ich gern.<br> :date: __2020-11-27 10:22:24__
+
 > Maximum<br> :date: __2020-11-20 16:08:21__
 
 > Anmeldung klappte bei mir etwas holprig. Übernimmt die Daten jetzt direkt von der Mi App meiner Amazfit bip. Spannende Ergebnisse aus der Fieberkurve. Bitte weiter so!<br> :date: __2020-11-12 07:32:01__
@@ -160,8 +162,6 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 
 > Prima, endlich geht's auch mit Samsung Health! 178 Tage Datenspende 💪<br> :date: __2020-10-06 23:47:07__
 
-> Funktioniert gut<br> :date: __2020-10-06 23:11:09__
-
 
 
 #### 4-star reviews
@@ -169,6 +169,8 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="de.rki.coronadatenspende 4 reviews"/>
 </p>
+
+> Gute Einsichten in die Forschungsergebnisse. Aber jetzt bekomme ich eine neue Uhr, die ich hier nicht auswählen kann um weiter teilzunehmen.<br> :date: __2020-11-29 11:18:53__
 
 > Endlich, hatte die App bereits im Juli und ich konnte keine Daten spenden, da die gear fit sich nicht verbinden ließ. Nunmehr wurde nachgebessert und eine Verbindung ist endlich möglich.<br> :date: __2020-11-16 18:06:59__
 
@@ -188,8 +190,6 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 
 > Gut<br> :date: __2020-10-01 20:01:06__
 
-> Bitte eine Unterstützung für das Xiaomi Mi-Band 4 einfügen, dann nehme ich gerne teil. Die Idee dahinter ist gut und nützlich.<br> :date: __2020-08-25 22:31:21__
-
 
 
 #### 3-star reviews
@@ -197,6 +197,8 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="de.rki.coronadatenspende 3 reviews"/>
 </p>
+
+> Meine 2 smartwatsces kennt er beide micht<br> :date: __2020-11-29 03:01:22__
 
 > Guten Tag, wird es möglich sein, künftig auch Huawei-Smartwatches zu koppeln? Ich möchte ungern weiter mit 2 Smartwatches durch die Gegend laufen. Wird die Datenspende überhaupt noch benötigt? Danke.<br> :date: __2020-11-17 17:02:28__
 
@@ -215,8 +217,6 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 > Anmeldung und Verbinden mit charge 2 hat super schnell funktioniert. Hab die App gestern installiert und heute werden 16 Tage angezeigt. Scheinbar aus der Historie von fitbit. Aber kann ich irgendwie erkennen, was für Daten eingespielt werden?<br> :date: __2020-10-19 14:36:57__
 
 > Lässt sich leider nicht mit huawei app health koppeln<br> :date: __2020-10-09 17:35:23__
-
-> Gute Idee die ich sehr gerne unterstützen würde. Leider nicht mit meiner Huawei Watch GT und Huawei Health kompatibel.<br> :date: __2020-10-09 13:41:12__
 
 
 
@@ -254,6 +254,12 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 <img src="1_star_reviews_wordcloud.png" alt="de.rki.coronadatenspende 1 reviews"/>
 </p>
 
+> Nach Update Daten auf Null, alles was ich anklicke ohne Reaktion ausser das das Handy A40 einfriert. Nach mehreren Versuchen deinstalliert :-(<br> :date: __2020-11-29 15:05:00__
+
+> Die app hat zu Viele Fehler und die app wird nur Selten aktuallisiert<br> :date: __2020-11-28 21:05:42__
+
+> Mein Handteil Antimi A5 mit Blutdruckmessung, Pulsmessung, Schrittzähler, Blutsauerstoff Gehalt, Sport Messung....mit der bezogenen App Da fit wird nicht unterstützt.<br> :date: __2020-11-24 20:38:54__
+
 > Ich finde die Idee der App super und würde gerne meine Daten teilen (das ist ja vergleichsweise anonym), leider gleiches Problem wie im Frühjahr: Mit einer Huawei Smartwatch funktioniert es nicht. Da Google Fit und Huawei nicht mehr zusammen arbeiten, geht es auch nicht über diesen Umweg.<br> :date: __2020-11-17 10:13:12__
 
 > Anscheinend will man von mir nicht mehr wie 66 Tage.. und dies ist schon über 2 Monate her 😒<br> :date: __2020-11-13 14:05:12__
@@ -267,11 +273,5 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 > Ich würde ja gerne die App nutzen, aber entgegen der FAQ werden Samsung Health Geräte nicht unterstützt.<br> :date: __2020-11-06 12:49:20__
 
 > Leider sehe ich hier keine Option für Honor-Bänder (Huawei). Über Google mache ich es nicht. Schade. Leider immer noch keine Schnittstelle für Huawei (neben Samsung technologisch führend)...<br> :date: __2020-11-02 21:45:44__
-
-> Die App bringt nur nichts, wenn sich keine günstigen und wei verbreiteten Fitness-Tracker wie ID115, die mit der Veryfit-Pro App laufen, verbinden lassen :-(<br> :date: __2020-11-02 18:14:31__
-
-> Für Huawei Health ist Ihre App nicht möglich.<br> :date: __2020-11-02 13:40:32__
-
-> Nix halbes, nix ganzes! Schlimmer,es ist NIX<br> :date: __2020-11-01 23:57:51__
 
 

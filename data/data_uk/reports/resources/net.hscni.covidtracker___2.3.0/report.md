@@ -150,6 +150,10 @@ The StopCOVID NI app has been installed by more than **100000** times. At this t
 <img src="5_star_reviews_wordcloud.png" alt="net.hscni.covidtracker 5 reviews"/>
 </p>
 
+> We are in a Lockdown for 2weeks Christmas Cancelled This Year<br> :date: __2020-11-29 08:12:05__
+
+> I am a father and this app is help bust my lokel drug deler(he was my lokel deler UWU), and my dother infrormaeshen was stolen (shes 4)😁 Thank god the worden let me downlode (I foed my wife an this app )XD<3:3<br> :date: __2020-11-23 11:01:57__
+
 > Great to see and well designed. Fantastic to have an app like this so quickly for NI<br> :date: __2020-11-22 23:32:11__
 
 > Respect to our great NHS , and listen to them .<br> :date: __2020-11-20 15:20:02__
@@ -165,10 +169,6 @@ The StopCOVID NI app has been installed by more than **100000** times. At this t
 > brilliant app ni government bettter than the uk test and trace app<br> :date: __2020-10-25 13:23:53__
 
 > App sleeping now fixed looking good guys<br> :date: __2020-10-20 11:19:51__
-
-> So more people can find it and download it<br> :date: __2020-10-14 18:03:40__
-
-> Great app. Good to have just incase I'm standing by someone who might have covid 19. I have mine tracing all the time just to be safe and for my peace of mind.<br> :date: __2020-10-06 06:10:01__
 
 
 
@@ -206,6 +206,8 @@ The StopCOVID NI app has been installed by more than **100000** times. At this t
 <img src="3_star_reviews_wordcloud.png" alt="net.hscni.covidtracker 3 reviews"/>
 </p>
 
+> Can you make a version of this app for the huawei app gallery?<br> :date: __2020-11-26 21:32:22__
+
 > Does not give n Ireland<br> :date: __2020-11-20 13:22:56__
 
 > The App keeps disabling itself.<br> :date: __2020-10-26 07:53:08__
@@ -224,8 +226,6 @@ The StopCOVID NI app has been installed by more than **100000** times. At this t
 
 > Whose bright idea was it to remove the statistics section (daily number changes etc.) from the app, and not adding a link to where the information can be found?<br> :date: __2020-10-05 18:42:45__
 
-> It took a while to download and install. However when you first open the app it says "tracing not active " this suggests the app is not running in the background. Working great now.<br> :date: __2020-10-02 21:30:20__
-
 
 
 #### 2-star reviews
@@ -233,6 +233,8 @@ The StopCOVID NI app has been installed by more than **100000** times. At this t
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="net.hscni.covidtracker 2 reviews"/>
 </p>
+
+> Got a notification to say i was in contact and had to isolate. Only problem was i had been in contact the 10th. First told of it the 23rd with 1day left to isolate. Its reliant on people updating the app with their test results and if they dont do that then nobody knows<br> :date: __2020-11-23 21:34:22__
 
 > I had hoped that this app would provide useful timely and accurate information to users. Instead I see that the statistics are not kept up to date. By way of example today is 05/11/20 but the R number estimate is from 16/10/20. Come on people for the sake of credibility must do better!<br> :date: __2020-11-05 23:37:19__
 
@@ -252,8 +254,6 @@ The StopCOVID NI app has been installed by more than **100000** times. At this t
 
 > Dont think this works to well<br> :date: __2020-10-23 16:04:28__
 
-> App thinks Bluetooth is disabled. Popup shown constantly<br> :date: __2020-10-19 09:54:04__
-
 
 
 #### 1-star reviews
@@ -261,6 +261,12 @@ The StopCOVID NI app has been installed by more than **100000** times. At this t
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="net.hscni.covidtracker 1 reviews"/>
 </p>
+
+> This app is completely pointless. Mine has to be reinstalled every couple of days after which it will carry out exposure checks for a day or 2 and then completely stop. I could have been in contact with numerous people and had to self isolate but I dont know because the app isn't doing the checks.<br> :date: __2020-11-29 10:37:50__
+
+> Not getting anything from this site when first started told everyday now nowt<br> :date: __2020-11-27 15:11:31__
+
+> Makes the phone sooo slooooow that it's unusable.<br> :date: __2020-11-23 17:46:57__
 
 > Loads of Rubbish.<br> :date: __2020-11-22 18:35:12__
 
@@ -275,11 +281,5 @@ The StopCOVID NI app has been installed by more than **100000** times. At this t
 > This app wastes the battery life on my phone<br> :date: __2020-11-17 00:37:21__
 
 > This app doesn't work for me keeps on telling me to turn on Bluetooth the Bluetooth is on already tried downloading this app a few times now but it just never works<br> :date: __2020-11-07 18:46:45__
-
-> Not effective and drains battery<br> :date: __2020-11-04 22:38:44__
-
-> This app is non effective<br> :date: __2020-11-04 06:22:52__
-
-> Doubtful it works, it only does a check when you go in and prompt it, I had zero checks for 14 days on a few occasions. I have the app on 3 devices in the same house and they have never had a handshake with each other.<br> :date: __2020-11-03 00:33:13__
 
 

@@ -304,6 +304,10 @@ The Intermountain Connect Care app has been installed by more than **100000** ti
 <img src="1_star_reviews_wordcloud.png" alt="org.intermountainhealthcare.android.connectcare 1 reviews"/>
 </p>
 
+> Why there is no summary or report of the appointment? The appointment was okay, the Dr. said she was gonna send in a request for OTC meds to my pharmacy, got there to pick it up, but of course it wasn't there and they had no idea and since it is OTC just go and pick it up. But what?! No details were given by the Dr about the type of meds and there is no record of it anywhere in the app. So basically the only way yo find out is to have another appointment for another $40....<br> :date: __2020-11-27 22:15:45__
+
+> It wouldn't accept passwords from two different accounts. Connected to internet too.<br> :date: __2020-11-24 07:29:04__
+
 > Unable to enter insurance into BLUE CROSS BLUE SHIELD not on provided list Unable to edit out mistaken insurance. I have limited computer skills. Filling out the other info was a waste of time.<br> :date: __2020-11-13 03:48:34__
 
 > This app is garbage and so is the desktop version. I've been waiting an hour and a half and it just keeps glitching and kicking me out of my spot in line. It gave the option to connect with the provider by phone call instead, so I hit that option and still nothing. No call. No video appointment. Nothing. Guess I'll get dressed and have my hubby take me to the instacare instead. I better not get billed for this.<br> :date: __2020-11-10 21:43:07__
@@ -319,9 +323,5 @@ The Intermountain Connect Care app has been installed by more than **100000** ti
 > Had an appt for my daughter with the EAP that we waited a couple of weeks for. I downloaded the app and set up an account a week in advance. We joined our appt 15 min early. When the appt time came the provider's video wouldn't connect. We were connected to wifi and had a strong signal. We kept waiting and about 10 min after appt time we got a notification that the provider had canceled the appt. We didn't get a call, the appt was just canceled due to the provider's connectivity problem.<br> :date: __2020-09-11 23:43:50__
 
 > I came in with someone else because even whispering caused severe pain and the doctor was adamant I spoke. Also called my viral tonsillitis covid.🙄<br> :date: __2020-09-07 20:56:41__
-
-> Just as it goes past opening page it is crashing<br> :date: __2020-08-19 21:35:18__
-
-> Worthless does not work. It's a scam to get a 59 dollar payment for no service . Total bunk to not get medical testing results. Do not download<br> :date: __2020-08-07 22:36:01__
 
 

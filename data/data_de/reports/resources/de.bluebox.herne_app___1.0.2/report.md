@@ -191,6 +191,8 @@ The Herne-App  - offizielle App der Stadt Herne app has been installed by more t
 <img src="4_star_reviews_wordcloud.png" alt="de.bluebox.herne_app 4 reviews"/>
 </p>
 
+> ein darkmode wäre toll<br> :date: __2020-11-24 12:26:45__
+
 > 👌<br> :date: __2020-09-05 14:51:22__
 
 > Übersichtlich und aufgeräumt! Gute Idee und gut gemacht! Nach der Erstellung eines Profils hat sich die App aufgehängt. Nicht gut! Bei Abgabe einer Mängelmeldung will sie meinen Standort ermitteln. Warum? Nicht gut! Müsste zumindest zur Wahl gestellt werden.<br> :date: __2020-08-03 08:34:24__

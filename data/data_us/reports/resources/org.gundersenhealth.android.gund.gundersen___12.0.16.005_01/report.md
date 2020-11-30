@@ -204,6 +204,8 @@ The Gundersen VirtualVisit app has been installed by more than **1000** times. A
 <img src="5_star_reviews_wordcloud.png" alt="org.gundersenhealth.android.gund.gundersen 5 reviews"/>
 </p>
 
+> This is the third time I've used it. Awesome!<br> :date: __2020-11-25 19:03:14__
+
 > I have used the Virtual Visit service three times this year and each time was easy, private and efficient. I had a different provider each time and they have all been wonderful-- very compassionate, patient and knowledgeable.<br> :date: __2020-10-31 15:31:29__
 
 > Outstanding<br> :date: __2020-06-10 14:31:44__

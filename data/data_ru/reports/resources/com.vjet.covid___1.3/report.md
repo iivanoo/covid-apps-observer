@@ -153,16 +153,24 @@ No recent reviews available with 3 stars.
 #### 2-star reviews
 
 <p align="center">
-
+<img src="2_star_reviews_wordcloud.png" alt="com.vjet.covid 2 reviews"/>
 </p>
 
-No recent reviews available with 2 stars.
+> Не возможно зарегистрироваться, не работает, все время ошибка<br> :date: __2020-11-25 11:08:32__
+
+
 
 #### 1-star reviews
 
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="com.vjet.covid 1 reviews"/>
 </p>
+
+> Не работает<br> :date: __2020-11-25 11:09:01__
+
+> Не работает<br> :date: __2020-11-24 09:36:27__
+
+> Не регистрацию не как не могу пройти<br> :date: __2020-11-24 08:18:00__
 
 > Не работает. Регистрация невозможна, скорее всего, приложение ворует пороли от ваших ящиков и платежные данные. А идея предупредить о вирусе - была хорошая.<br> :date: __2020-07-24 13:56:48__
 

@@ -222,6 +222,8 @@ The GoodSAM Responder app has been installed by more than **100000** times. At t
 <img src="3_star_reviews_wordcloud.png" alt="com.goodsam.responder 3 reviews"/>
 </p>
 
+> Like others have said, I have an issue with the siren. I am a petsitter and it terrifies some of the cats I am visiting. I did ring and complain about this. I ended up turning it off the weeks. I have just turned it back on. Two alerts I accepted. First I keep ringing so dropped the job. Another had already arranged for someone to take him shopping. Now I have just got back the alert I dropped earlier and still no answer. The alerts are not reliable.<br> :date: __2020-11-28 18:46:36__
+
 > Good app but siren way too loud, it's driving my neighbour mad ! Apart from that, as others say here, 90% of people I ring have no idea why I rang, or how or why somebody put them on list. That needs addressing . On top of that some of the alerts are days old ,their prescription or shopping done days ago.Im becoming a bit disheartened wasting my time every day. I'm more than happy to run around for folks but less happy with wasted calls<br> :date: __2020-11-19 16:11:24__
 
 > Doesn't work. I try to register using my St John certificate and the swirl of doom just spins foreverrrrrrrr; by which I mean 20 minutes over WiFi. Was able to register via the Web then log in to the app. But app registration just did not work.<br> :date: __2020-11-17 22:19:48__
@@ -240,8 +242,6 @@ The GoodSAM Responder app has been installed by more than **100000** times. At t
 
 > Tempremental, freezes on occasions?<br> :date: __2020-08-05 17:55:09__
 
-> Can you please add an option to adjust the volume of the alert, it nearly gives me a heart attack each time. Thanks!<br> :date: __2020-07-24 13:10:17__
-
 
 
 #### 2-star reviews
@@ -249,6 +249,10 @@ The GoodSAM Responder app has been installed by more than **100000** times. At t
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="com.goodsam.responder 2 reviews"/>
 </p>
+
+> App is ok but no way to check back on previous messages. I responded to a call from a gentleman who needed shopping tomorrow. I agreed to do it and then toggled the app to show "responded" as soon as I've done that then previous messages dissappear and I now no longer have address or contact details to sort this out tomorrow!!<br> :date: __2020-11-28 18:00:32__
+
+> My app ppears that it doesn't work I havent had any alerts, and I can't change my organisation<br> :date: __2020-11-25 21:44:29__
 
 > Still unable to upload photos of new AEDs locations to the GoodSAM app. I've replied via email and awaiting your reply.<br> :date: __2020-11-20 23:07:53__
 
@@ -266,10 +270,6 @@ The GoodSAM Responder app has been installed by more than **100000** times. At t
 
 > App is obviously for a good cause, but I keep signing myself out as off duty to avoid the ear splitting notifications (which are unaffected by muting your phone) 3x a minute for requests that are way out of my range. Needs location restrictions and notification adjustments ASAP!<br> :date: __2020-10-17 16:46:43__
 
-> I don't seem to be the only one having trouble with the app. Firstly, the alarm is ear splitting, is there any way to turn it down please? I've just called a lady (I only do chats, as I'm stuck in too) she had no idea what it was all about, & didn't know why I was calling. I've had this before, but I chatted with her anyway, and she was ok. Also, I've been logging in 9-5 every day bar Sun, since lockdown started, but my hours are stuck on 388 and never change. This doesn't show all I've done.<br> :date: __2020-10-14 16:32:01__
-
-> App is OK apart from: (1) the ear splitting siren which I've now turned off by going into the Responder settings via my phones Apps option. The downside is I mow miss most requests! Need an alternative noise. (2) I didn't sign up for chats (I'm rubbish at them) so either don't send them (most requests are chats) or enable me to see what the request is so I can decline if its chat. At the moment the alert does not indicate what its about. Until changes made the app remains set to Off Duty.<br> :date: __2020-10-09 16:21:58__
-
 
 
 #### 1-star reviews
@@ -277,6 +277,8 @@ The GoodSAM Responder app has been installed by more than **100000** times. At t
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="com.goodsam.responder 1 reviews"/>
 </p>
+
+> Worked fine for quite some time and yet now, no requests are coming through and nobody knows why. Have reinstalled etc but no joy.<br> :date: __2020-11-26 23:42:23__
 
 > I can't believe you can't adjust the volume on that siren, deleting it.<br> :date: __2020-11-23 01:04:08__
 
@@ -295,7 +297,5 @@ The GoodSAM Responder app has been installed by more than **100000** times. At t
 > Really poor. They are trying to use the app for something it is not intended for and only a fraction of the process is actually covered In the app so it's kind of redundant for the most part. Standard NHS/PHE/government approach really<br> :date: __2020-10-04 10:11:55__
 
 > I'm always contacted for assistance for another town 15 miles away - nowhere else and never anywhere nearby around my own town of 30k people... As I'm not registered for check in, chat, I'm not sure why I'm continually contacted. The siren is a ridiculously loud alarm too. As this app now serves more than a single purpose, some thoughts on a sensible method of notification should be considered.<br> :date: __2020-09-30 12:05:39__
-
-> My phone will not stop going off with alerts that are dated over 2 days ago<br> :date: __2020-09-18 15:42:49__
 
 

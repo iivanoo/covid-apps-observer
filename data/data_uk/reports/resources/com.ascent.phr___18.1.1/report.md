@@ -192,25 +192,25 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 <img src="5_star_reviews_wordcloud.png" alt="com.ascent.phr 5 reviews"/>
 </p>
 
+> so easy to navigate and use...<br> :date: __2020-11-28 22:24:20__
+
+> Good trouble free service<br> :date: __2020-11-28 22:09:04__
+
+> great app for booking go appointments and repeat prescription request<br> :date: __2020-11-28 21:32:03__
+
+> Great app for ordering repeat prescription. also tips on your health..<br> :date: __2020-11-27 07:45:31__
+
+> so easy, and certainly this so safe.<br> :date: __2020-11-26 21:05:14__
+
+> This is a Brilliant service so easy to use.<br> :date: __2020-11-26 18:08:19__
+
+> Good app<br> :date: __2020-11-26 10:52:09__
+
+> This service works well generally, however I find keep updating of choices on screen confusing at times. Sorry.<br> :date: __2020-11-25 12:17:54__
+
 > Thanks for this lovely App<br> :date: __2020-11-23 09:09:36__
 
 > Good app, fairly intuitive & simple to use.<br> :date: __2020-11-22 19:02:14__
-
-> easy to use, very convenient<br> :date: __2020-11-22 08:31:51__
-
-> very good app, loads of info<br> :date: __2020-11-20 00:55:36__
-
-> You are wonderful no worrying about things with you here<br> :date: __2020-11-19 17:51:20__
-
-> Really good app<br> :date: __2020-11-19 09:09:09__
-
-> Excellent no hassle<br> :date: __2020-11-18 10:31:52__
-
-> The best app.<br> :date: __2020-11-02 23:37:48__
-
-> Cool<br> :date: __2020-10-30 23:09:41__
-
-> Nice<br> :date: __2020-10-29 12:50:45__
 
 
 
@@ -248,6 +248,16 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 <img src="3_star_reviews_wordcloud.png" alt="com.ascent.phr 3 reviews"/>
 </p>
 
+> when I try to make an appointment it just says no appointments available — always. Prescription ordering works fine.<br> :date: __2020-11-29 18:28:27__
+
+> not easy for seniors to use.<br> :date: __2020-11-29 17:46:23__
+
+> when I want my prescription delivered,only comes up with only one pharmacy which I dont want to use,l prefer to use my local one<br> :date: __2020-11-26 09:31:51__
+
+> takes too long to find page to order repeats.<br> :date: __2020-11-23 18:00:18__
+
+> cant book apts now, that has disappeared off here.<br> :date: __2020-11-23 12:13:52__
+
 > Edit: this is working again now - but only on my old phone (which is too knackered to sell so ok). My new phone runs colorOS, (realme6), which might have something to do with it. Disney+ doesn't work on it because of this... Edit: I can't get to the bit where you order a precriotion. It just buffers endlessly. 4/5/2020 Works well for me.<br> :date: __2020-11-23 08:25:52__
 
 > good but needs improving<br> :date: __2020-11-22 13:36:15__
@@ -258,16 +268,6 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 
 > User experience inconsistent, lota if data not available from practition<br> :date: __2020-10-14 14:23:14__
 
-> App is fine but biometric finger scan never worked.<br> :date: __2020-10-13 20:52:10__
-
-> Not the best to get the information I need<br> :date: __2020-10-13 20:08:20__
-
-> Works in a basic way but it relies on your GP practice to provide a lot of the connections to other info, which in my case they don't. Also the biometric log in does not work now. It did work to start with, but although it says Fingerprint recognised it cannot log me in?<br> :date: __2020-09-23 19:54:52__
-
-> Can't even login. The linkage number given by my practice is 13 characters (double checked many times) but the app it insists it should be 15!<br> :date: __2020-09-04 13:52:41__
-
-> I've been using this app for quite a while now & l haven't had any issues until this morning & now it's saying its unable to log me in. None of my details have changed its seem since there was an update that its happened. Any chance someone can reply to this to help me out.<br> :date: __2020-08-25 12:52:35__
-
 
 
 #### 2-star reviews
@@ -275,6 +275,14 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="com.ascent.phr 2 reviews"/>
 </p>
+
+> over complicated if all you want to do is order a repeat prescription.<br> :date: __2020-11-28 18:06:24__
+
+> doesn't allow to log in<br> :date: __2020-11-27 23:48:59__
+
+> Too many irrelevant pop up links when logging in making it difficult to get to the bit I need (repeat prescription). I can get through them but others may struggle<br> :date: __2020-11-27 13:54:02__
+
+> difficult to use<br> :date: __2020-11-27 10:15:40__
 
 > biometric logon does not work, and last whole would not order my prescription<br> :date: __2020-11-22 12:22:00__
 
@@ -288,14 +296,6 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 
 > The app worked fine up until very recently where now I can't do anything in it and the buttons are unresponsive. The Customer Service team recommended reinstalling the app but this did nothing.<br> :date: __2020-10-15 09:19:19__
 
-> Extraordinary initial interface, more like a game for the sharp eyed than a practical aid for those in pain or in a hurry. 'Playful" with tiny print. I suppose you'd get used to it.<br> :date: __2020-10-06 01:08:43__
-
-> Okay when it works, which is not very often.<br> :date: __2020-09-28 09:38:54__
-
-> This app was good, but now can't log on it just goes through the introduction screen its annoying as its the easiest way I order my prescriptions. Can you please fix...<br> :date: __2020-07-31 10:53:50__
-
-> Unable to add more than one medication, and when doing the well being test despite selecting the never smoked option, it the asked questions about how many cigarettes I smoked a day. So not intuitive software. I ended up deleting<br> :date: __2020-06-26 17:47:02__
-
 
 
 #### 1-star reviews
@@ -304,11 +304,11 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 <img src="1_star_reviews_wordcloud.png" alt="com.ascent.phr 1 reviews"/>
 </p>
 
+> Not the best<br> :date: __2020-11-26 19:48:37__
+
 > don't look at the comments part. sends permissions to wrong place.<br> :date: __2020-11-22 10:43:26__
 
 > AVOID THIS USELESS APP This app is nothing but logging users out, doesn't accept complex passwords, unlinks your GP account and then loads up half the time without any styling. Update 2020 Just just as useless in 2019 but now with 100% more notifications to drive you up the wall. Anything I try to do on this non-functioning app it just crashes. The NHS services are also tucked away making GP services harder to find and use.<br> :date: __2020-11-21 13:03:16__
-
-> Unable to use finger print to log in. Have reset print numerous times and accepted by app - then won't allow print to be used for log on . Amateur Time<br> :date: __2020-11-20 19:51:20__
 
 > Absolutely pants. It was fine originally but for the last year or so it freezes making it useless to me. Reloaded many times to no avail - time for me to move on.... No - I can't be bothered to ring customer services - it's an app - it doesn't work on my old phone or my new phone - plenty of alternatives out there.... Avoid.<br> :date: __2020-11-04 20:26:56__
 

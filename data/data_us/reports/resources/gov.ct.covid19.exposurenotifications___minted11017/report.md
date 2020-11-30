@@ -128,25 +128,25 @@ The COVID Alert CT app has been installed by more than **10000** times. At this 
 <img src="5_star_reviews_wordcloud.png" alt="gov.ct.covid19.exposurenotifications 5 reviews"/>
 </p>
 
+> All citizens must be alert about covid-19.Most of the citizens are not wearing Masks, not maintaining social distance. Due to these reasons Covid-19 is not reducing among people. This app is very useful to control covid-19 ,because it alerts the peron who d uses this app-- Ramana VTV.<br> :date: __2020-11-29 04:49:12__
+
+> Nice app, like others have said i appreciate that it doesnt require permissions and the privacy model is transparent. Only thing that could make it better is if it was open source.<br> :date: __2020-11-29 01:57:29__
+
+> Great app. Glad to see CT dept of health participating in this notification system. Be a patriot and wear a mask. It will save lives and prevent the need for further lock downs. No permissions needed. You have no excuse unless you hate your country.<br> :date: __2020-11-29 00:24:33__
+
+> This app is a hoax 😉 Update: I forgot that I wrote the above "review" until I got a response from the developer. I just want to say thank you for everything you are doing. This app is a great idea. Keep up the good work! I probably should have kept my original tongue in cheek "review" to myself.<br> :date: __2020-11-27 05:22:57__
+
+> This will save lives, Thank you ,There should be a option for users to share their data via broadband access or cellular service to inform people of local area exposures that can truly save lives<br> :date: __2020-11-26 01:27:41__
+
 > This is a must have for all apps<br> :date: __2020-11-23 09:07:13__
 
 > Great<br> :date: __2020-11-22 02:10:48__
-
-> This app is a hoax 😉<br> :date: __2020-11-22 00:52:58__
 
 > Good<br> :date: __2020-11-20 02:14:02__
 
 > So far so good, I just hope enough people are downloading this app!<br> :date: __2020-11-19 05:10:13__
 
 > Clean interface, and it seems to work well so far. Stop the spread!<br> :date: __2020-11-18 21:45:26__
-
-> Very helpful app<br> :date: __2020-11-18 14:26:01__
-
-> Its help know whats going on ct...<br> :date: __2020-11-15 22:15:53__
-
-> Works fine. Hope I never get a ping about being near someone thats infected!<br> :date: __2020-11-15 20:53:00__
-
-> Seems like they did a good job to make this as anonymous as possible. no permissions are required by the app, which is really nice.<br> :date: __2020-11-15 17:07:05__
 
 
 
@@ -155,6 +155,10 @@ The COVID Alert CT app has been installed by more than **10000** times. At this 
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="gov.ct.covid19.exposurenotifications 4 reviews"/>
 </p>
+
+> I hope this updates with past exposures/past positive testers too since I just installed it & it's only providing new reports, of which it's currently empty. Also hope the Samsung Secure Folder installation glitch will be fixed soon.<br> :date: __2020-11-28 20:25:25__
+
+> Bluetooth and location are always on. Significant battery drain. When a covid notification pops up, it does not take you to view that information. Rather you have to download the active app or you just get a spinning wheel.<br> :date: __2020-11-27 02:19:50__
 
 > Easy to install, but I can't put a shortcut on my home screen. I have to search for it every time I want to open it. Everyone be safe.<br> :date: __2020-11-19 04:38:11__
 
@@ -176,6 +180,10 @@ The COVID Alert CT app has been installed by more than **10000** times. At this 
 <img src="3_star_reviews_wordcloud.png" alt="gov.ct.covid19.exposurenotifications 3 reviews"/>
 </p>
 
+> Informative<br> :date: __2020-11-29 13:28:51__
+
+> Can't turn on the exposure notice. Keeps saying something went wrong even Uninstaller it and that didn't work. It stopped doing that thing<br> :date: __2020-11-25 22:32:03__
+
 > Idk I live in milford<br> :date: __2020-11-14 17:49:59__
 
 > You have to keep your location and Bluetooth on for it to work. That eats up battery. Otherwise it's functional. 🤷🏽‍♀️<br> :date: __2020-11-13 13:14:31__
@@ -188,7 +196,7 @@ The COVID Alert CT app has been installed by more than **10000** times. At this 
 <img src="2_star_reviews_wordcloud.png" alt="gov.ct.covid19.exposurenotifications 2 reviews"/>
 </p>
 
-> Can't turn on the exposure notice. Keeps saying something went wrong even Uninstaller it and that didn't work.<br> :date: __2020-11-17 01:45:13__
+> Buymeburgerkingmumbalawmymamalost<br> :date: __2020-11-28 17:27:46__
 
 > Wont work<br> :date: __2020-11-16 15:35:46__
 
@@ -210,8 +218,6 @@ The COVID Alert CT app has been installed by more than **10000** times. At this 
 
 > This app dont work at all..i downloud but no said anything at all.<br> :date: __2020-11-18 14:21:06__
 
-> I got it covid... stay away from me...<br> :date: __2020-11-15 00:37:45__
-
 > Overreaching, evil tracking, just so govt can get you used to "social tracking" & who you intact with<br> :date: __2020-11-14 19:21:56__
 
 > Downloaded and went to turn on notifications and it immediately says something went wrong try again<br> :date: __2020-11-14 19:05:48__
@@ -223,5 +229,7 @@ The COVID Alert CT app has been installed by more than **10000** times. At this 
 > I can't turn on my notifications<br> :date: __2020-11-14 10:41:20__
 
 > Useless. Reports "something went wrong, try again" endlessly. Thanks for nothing.<br> :date: __2020-11-14 02:32:50__
+
+> I cannot turn on exposure notifications -- I keep getting an error message.<br> :date: __2020-11-13 06:47:41__
 
 

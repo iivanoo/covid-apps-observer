@@ -157,6 +157,8 @@ The COCOA - COVID-19 Contact App app has been installed by more than **5000000**
 <img src="5_star_reviews_wordcloud.png" alt="jp.go.mhlw.covid19radar 5 reviews"/>
 </p>
 
+> Why i cant open the apps? I already install it, the permission wont go<br> :date: __2020-11-30 03:06:26__
+
 > Good<br> :date: __2020-11-20 14:17:29__
 
 > Good<br> :date: __2020-11-18 06:16:36__
@@ -174,8 +176,6 @@ The COCOA - COVID-19 Contact App app has been installed by more than **5000000**
 > Simple to use and doesn't need personal information. I wish more people would use it so we could prevent the spread of covid19<br> :date: __2020-08-06 07:19:15__
 
 > Japan's contact tracing app is one more layer of safety when it comes to the coronavirus. The app works fine on my Pixel 4.<br> :date: __2020-07-09 07:44:07__
-
-> Cool! Thanks.<br> :date: __2020-06-25 02:30:49__
 
 
 
@@ -231,6 +231,8 @@ The COCOA - COVID-19 Contact App app has been installed by more than **5000000**
 <img src="1_star_reviews_wordcloud.png" alt="jp.go.mhlw.covid19radar 1 reviews"/>
 </p>
 
+> I can not accept the terms of use, it show me network connection error.<br> :date: __2020-11-24 09:00:09__
+
 > I cannot register, maybe not yet as Im before travel to JPN. I'm still in GER. To enter to JPN I'm requested to install, but I wonder if it will work if I cannot register.<br> :date: __2020-11-23 00:03:21__
 
 > 更新データの量が多すぎる。もっとスマートにしろ、変な機能付けようとするな！<br> :date: __2020-11-08 05:00:42__
@@ -248,7 +250,5 @@ The COCOA - COVID-19 Contact App app has been installed by more than **5000000**
 > 役に立たない<br> :date: __2020-08-25 13:26:32__
 
 > I thought this app would give information on my area, where there are covid cases.<br> :date: __2020-08-06 16:50:38__
-
-> 本アプリ登録後にエラー続出。アンインストール後もエラーが直らない。<br> :date: __2020-07-18 07:05:27__
 
 

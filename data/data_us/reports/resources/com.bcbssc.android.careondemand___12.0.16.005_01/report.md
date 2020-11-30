@@ -277,6 +277,8 @@ The Blue CareOnDemand – See a Doctor Online app has been installed by more tha
 <img src="2_star_reviews_wordcloud.png" alt="com.bcbssc.android.careondemand 2 reviews"/>
 </p>
 
+> Isn't clear about how much they will charge<br> :date: __2020-11-23 18:50:35__
+
 > I have had numerous problems with getting the prescriptions prescribed during my and my husband's visits. I was on hold with the prescription health line for 50 mins, with an expected wait time 55 mins when it changed my wait time 65 additional minutes! I had to check in to the app and see another doctor, paying more money to get my prescription sent to the right pharmacy. My husband's prescription information is not in the email they sent, the phramacy doesn't have it, on hold for 25mins now...<br> :date: __2020-05-27 16:37:58__
 
 > The wait is just as long as if you was at the ER.<br> :date: __2019-02-10 01:26:59__

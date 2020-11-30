@@ -168,10 +168,12 @@ The GVA Coronavirus app has been installed by more than **10000** times. At this
 #### 2-star reviews
 
 <p align="center">
-
+<img src="2_star_reviews_wordcloud.png" alt="es.gva.coronavirus 2 reviews"/>
 </p>
 
-No recent reviews available with 2 stars.
+> Mala app, ni en estas situaciones extremas son capaces de hacer una aplicación en todo el país.<br> :date: __2020-11-26 21:31:11__
+
+
 
 #### 1-star reviews
 

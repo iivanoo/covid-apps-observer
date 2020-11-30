@@ -282,6 +282,8 @@ The Sydney Care app has been installed by more than **100000** times. At this ti
 <img src="3_star_reviews_wordcloud.png" alt="ai.carespree 3 reviews"/>
 </p>
 
+> This would be better if the doctors were instantly available. There will be hours and hours of waiting and reconnecting and retrying and re-launching the app. I did get to meet with a doctor twice. Once they looked at me, and the next time they actually called in a prescription to my local pharmacy for me.<br> :date: __2020-11-26 17:31:05__
+
 > Need to go to home page<br> :date: __2020-05-14 00:14:29__
 
 > Haven't had it yet.<br> :date: __2020-04-30 09:01:44__

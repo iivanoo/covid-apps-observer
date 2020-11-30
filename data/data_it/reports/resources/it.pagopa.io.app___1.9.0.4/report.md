@@ -206,25 +206,25 @@ The IO, l'app dei servizi pubblici app has been installed by more than **1000000
 <img src="5_star_reviews_wordcloud.png" alt="it.pagopa.io.app 5 reviews"/>
 </p>
 
-> L'app funziona molto bene, veloce e intuitiva. Ps. Perché la scadenza per l'utilizzo del bonus vacanze già ottenuto è ancora fissata al 31.12.2020 e non al 30.06.2021?<br> :date: __2020-11-22 21:15:24__
+> Finalmente ci adeguiamo all'Europa! Spero che presto tutte le pa aderiscano.<br> :date: __2020-11-29 19:43:45__
 
-> 5 stelle di incoraggiamento per le potenzialità del progetto. L'app funziona bene ma i servizi integrati sono ancora pochi anche se in continuo aggiornamento<br> :date: __2020-11-22 20:14:12__
+> Ottima<br> :date: __2020-11-29 18:03:40__
 
-> Ok<br> :date: __2020-11-22 13:07:12__
+> Ottima comoda e intuitiva<br> :date: __2020-11-29 11:57:11__
 
-> Per ora ottima<br> :date: __2020-11-20 11:52:27__
+> PER ORA ho eseguito l'accesso con Spid, inserito 1 bancomat e 2 ricaricabili (deve essere attivo 3D secure che per il bancomat può essere legato all'internet banking), non ho avuto nessun problema, tutto fluido e veloce. Non è ancora possibile inserire l'iban per l'accredito del cashback. Non è ancora pronta per l'inserimento dei metodi tipo Satispay che sono segnati come in arrivo.<br> :date: __2020-11-28 23:46:37__
 
-> Ancora tutta da scoprire ma prevedo che sara' positiva<br> :date: __2020-11-19 22:29:27__
+> Ottima<br> :date: __2020-11-28 21:10:06__
 
-> Molto funzionale<br> :date: __2020-11-19 20:17:32__
+> Semplice iscriversi<br> :date: __2020-11-28 18:01:39__
 
-> 🔝<br> :date: __2020-11-19 18:37:38__
+> Sembra utile. Spero nella sua evoluzione per rendere l'app più completa.<br> :date: __2020-11-28 17:40:02__
 
-> Complimenti agli sviluppatori, finalmente un'app di cui essere fieri!<br> :date: __2020-11-19 16:55:05__
+> Ok<br> :date: __2020-11-28 15:49:55__
 
-> Ottima applicazione 🔝🔝🔝💯💯💯<br> :date: __2020-11-18 15:20:42__
+> Nessun problema per registrazione..Spid, carta PT, ecc...Aci comunicato dati..tutto ok. In attesa che parta il cashback.<br> :date: __2020-11-28 12:35:21__
 
-> Non. Ricordo. Il. Mio. Bonus<br> :date: __2020-11-18 12:54:52__
+> ottima...<br> :date: __2020-11-28 10:40:01__
 
 
 
@@ -234,25 +234,25 @@ The IO, l'app dei servizi pubblici app has been installed by more than **1000000
 <img src="4_star_reviews_wordcloud.png" alt="it.pagopa.io.app 4 reviews"/>
 </p>
 
-> Perche' se non si utilizza per un periodo di 30 giorni, per accedere bisogna reinserire le credenziali di SPID ?. Troppo macchinoso.<br> :date: __2020-11-21 15:52:45__
+> Non leggo l aggiornamento<br> :date: __2020-11-30 09:56:28__
 
-> Ho inserito nell'app due carte di credito mie. Il bancomat non è tra le carte di debito inseribili. Inserirete anche questa tipologia di carte di debito? Inserirete anche le carte Postamat del circuito Bancoposta? E' possibile inserire nella mia app anche carte di un familiare titolare? Cordiali Saluti<br> :date: __2020-11-21 01:07:56__
+> Speriamo bene.... Aggiungete PayPal urgentemente.<br> :date: __2020-11-30 02:32:24__
 
-> Facile molto induttivo complimenti<br> :date: __2020-11-19 11:27:04__
+> Lodevole lo scopo e il metodo. Purtroppo al momento è scarna di contenuti ma la direzione sembra quella giusta<br> :date: __2020-11-30 00:56:05__
 
-> Purtroppo ad oggi non è possibile inserire l'iban (requisito fondamentale) per usufruire del bonus cash back in partenza a dicembre. Spero in un aggiornamento entro fine mese. Grazie<br> :date: __2020-11-17 16:40:50__
+> Per ora mi sembra funzionale<br> :date: __2020-11-30 00:02:02__
 
-> I metodi di pagamento vanno aggiunti PRIMA di provare a pagare, altrimenti dà errore. L'app è fatta bene, peccato che ancora non ci siano tutti i Comuni. Comodi i reminder. Sicuramente la strada giusta per snellire la PA. Ci si potessero richiedere anche accessi civici e compagnia, sarebbe cosa graditissima.<br> :date: __2020-11-11 13:15:33__
+> Di incoraggiamento.<br> :date: __2020-11-29 14:10:32__
 
-> L'app è ben fatta e si vede che c'è uno studio dietro. Un suggerimento per la prossima release: prevedere la possibilità di dare un nome alle carte. Ho diverse carte Mastercard e senza non è semplice capire quale è stata emessa da un istituto, quale da un altro perché il design è lo stesso per tutte.<br> :date: __2020-11-06 21:05:17__
+> Quando sarà possibile collegare Iban e bancomat per il cashback? per bonus vacanze scaricato e utilizzato senza problemi.<br> :date: __2020-11-28 20:52:08__
 
-> La registrazione è stata molto veloce. Non riesco a capire come inserire l'iban.<br> :date: __2020-11-06 11:46:57__
+> Scaricata oggi, effettuata la procedura con spid, inserita la carta di credito, il tutto senza intoppi. All'interno già c'era la ricevuta del pagamento della spazzatura e altre ricevute con gli avvisi delle stesse già scaduti. Per quanto riguarda il cashback, leggendo sui giornali, tra qualche giorno prima dell'avvio ci sarà la finestra per inserire le coordinate bancarie. Ricordo che questa app è in evoluzione come altre app di aziende note, quindi beta. Abbiate pazienza.<br> :date: __2020-11-28 16:41:38__
 
-> Scaricata, installata senza problema. Eseguito login con credenziali SPID delle poste, senza riscontrare problemi.<br> :date: __2020-11-02 09:30:33__
+> App graficamente carina, funzionalità scarse per ora ma Roma non fu fatta in un giorno. Ho un problema con l'accesso tramite codice, ogni volta devo rientrare con lo spid<br> :date: __2020-11-28 15:28:01__
 
-> Funziona tutto. Peccato non ci siano tutti i comuni. Altro passo verso la digitalizzazione. Forza, dai.<br> :date: __2020-11-01 23:01:46__
+> Da verificare.<br> :date: __2020-11-28 09:36:23__
 
-> Aggiungete il tema scuro e avrete 5 stelle<br> :date: __2020-11-01 01:13:04__
+> Facilita molto quelli che sono i pagamenti della pubblica amministrazione. App però ancora in fase embrionale in molti aspetti. Stabilità non proprio al massimo<br> :date: __2020-11-28 01:44:11__
 
 
 
@@ -262,25 +262,25 @@ The IO, l'app dei servizi pubblici app has been installed by more than **1000000
 <img src="3_star_reviews_wordcloud.png" alt="it.pagopa.io.app 3 reviews"/>
 </p>
 
-> app ancora troppo riduttiva. usare l estensione yaml x file zippati non agevola l uso dei dispositivi mobili.<br> :date: __2020-11-22 22:50:17__
+> Non riesco a trovare dove inserire iban per poter ricevere o rimborsi.<br> :date: __2020-11-30 09:50:37__
 
-> Aggiungete l'opzione per rinominare le carte aggiunte<br> :date: __2020-11-21 22:43:38__
+> Anche se al momento ci sono pochi servizi attivi, per quello che mi è servita ha funzionato senza problemi. Se posso trovare un difetto, i messaggi archiviati ritornano "da leggere" quando si effettua nuovamente il login con SPDI dopo i 30 giorni di riallineamento. E restiamo in attesa della possibilità di inserire il bancomat e il codice IBAN per il cashback. Speriamo prima del 7 dicembre...<br> :date: __2020-11-29 17:53:07__
 
-> La carta Postamat degli utenti banco posta dove va inserita?<br> :date: __2020-11-21 18:25:45__
+> App in beta, accesso semplice con spid, carte di credito facilmente inserite ma bancomat ancora non accettati. Per il resto non è chiaro come funzionerà quando il servizio sarà attivo.<br> :date: __2020-11-29 16:52:32__
 
-> Non accetta le carte fa problemi.<br> :date: __2020-11-21 11:25:42__
+> Per ora si fa ben poco , solo il bollo auto.<br> :date: __2020-11-29 14:30:58__
 
-> L'installazione e l'attivazione non hanno dato problemi. Neanche la richiesta del bonus vacanze, che in pochi secondi era già stato creato. Confido che questa APP diventi un po' più utile di quanto finora è, perché al di là delle promesse si vede ancora proprio poco...<br> :date: __2020-11-20 22:02:40__
+> Ho appena aggiornato l'app e sono scomparsi i metodi di pagamento e la kia carta registrata non è visibile.<br> :date: __2020-11-29 14:17:29__
 
-> Vorrei comunicare a quella "persona" eufemisticamente parlando, incaricata di elencare le variazioni e nuove funzionalità in questa App, e che ha dimenticato l'uso dell'italiano, che "onboarding" in questo caso è più correttamente sostuibile con "inserimento". Usare solo parole italiane quando presenti nel nostro vocabolario le garantisco che, diversamente da quanto forse lei crede, la farebbe sembrare più intelligente della realtà<br> :date: __2020-11-20 20:05:42__
+> Installata rapidamente e fatto l'accesso con spid poste senza problemi. Nella cronologia mi sono comparsi subito gli ultimi pagamenti che avevo fatto con PagoPA. Per il momento non c'è molto sull'App, ma quel poco che c'è sembra funzionare.<br> :date: __2020-11-29 10:55:25__
 
-> Buongiorno chi mi può aiutare non riesco più a visualizzare il login. Mi dice di effettuare un nuovo login. Non riesco a visualizzare. Come posso fare? DISINSTALLATO E ISTALLATO PIU VOLTE.<br> :date: __2020-11-20 15:12:29__
+> Funzionerà per il cash back?<br> :date: __2020-11-28 21:24:14__
 
-> Ci sono ancora pochi servizi, ma pe ril bonus vacanze ha funzionato benissimo. Si poteva sfruttare per il bonus mobilità avendo già tutti i dati inseriti senza fare un'altra piattaforma dedicata<br> :date: __2020-11-19 18:20:06__
+> Dopo il problema iniziale di autenticazione spid dovuta al timeout di 30 sec. devo dire che l' app ancora in versione beta, sembra funzionare anche se deve essere ancora implementata in alcune voci<br> :date: __2020-11-28 16:01:51__
 
-> Novità sui pagamenti con il bancomat?<br> :date: __2020-11-19 13:45:12__
+> L'applicazione funziona bene, mi dono registrato e ho inserito le mie carte per i pagamenti, quello che non capisco è dove si deve inserire l'iban per poter usufruire del cashback.<br> :date: __2020-11-28 13:59:03__
 
-> Da molte settimane mi è impossibile ottenere l'autorizzazione all'accesso da parte di PosteID. Datemi un consiglio, grazie<br> :date: __2020-11-18 14:54:31__
+> Dopo i primi accessi andati a vuoto, usando il livello 2 di Spid con app Poste ID, ora basta digitare sul tastierino (che compare subito dopo la prima schermata) il codice numerico. Resta la lenta reazione al "tocco" sulle opzioni scelte. Come segnalato da altri utenti, non é possibile inserire la carta Bancomat o Postamat e ciò impedirebbe di partecipare al cashback dal prossimo 8 dic. La soluzione potrebbe essere: richiedere una Postepay standard che non ha costi annuali di gestione<br> :date: __2020-11-28 13:20:38__
 
 
 
@@ -290,25 +290,25 @@ The IO, l'app dei servizi pubblici app has been installed by more than **1000000
 <img src="2_star_reviews_wordcloud.png" alt="it.pagopa.io.app 2 reviews"/>
 </p>
 
-> Buona sulla carta, piena zeppa di bugs: non permette inserimento dell'Iban per cashback e, sopratutto, le aggiunte delle carte funzionano quando vogliono: alcune sì, altre no...<br> :date: __2020-11-23 00:14:42__
+> Non si trova il cashback<br> :date: __2020-11-29 18:48:04__
 
-> Forse è ancora presto. Non capisco come fornire iban<br> :date: __2020-11-22 21:56:39__
+> Non arriva nessuna notifica su app postpay. Quindi non posso registrare la carta<br> :date: __2020-11-29 18:25:05__
 
-> L'ho scaricata ma mi pare che non funzioni<br> :date: __2020-11-22 16:36:30__
+> vorrei sapere come fare visto che nell'elenco delle aree dove bisogna prevedere il "tuo"utilizzo del servizio, la mia non c'è....<br> :date: __2020-11-29 16:17:01__
 
-> Cambio immd. le stelle appena si risolve il problema dei pagamenti . Effettuatonl prima dell aggiornamento app. Pagamento tari prima rata .. non visualizzabile se il pagamento é andato a buon fine o se andrà a buon fine visto che il prelievo non é stato defalcato. Forse l aggiornamento sull app e lato banca avverrà in un secondo momento . Aggiornamento fatto come consigliato ancora nessun esito positivo . Nn vorrei incorrere a un ritardo di pagamento o a riprovare operazione e pagamento doppio<br> :date: __2020-11-21 17:20:22__
+> Davvero negativa la mia esperienza. L'accesso con spid è macchiniso e il piu delle volte tanto difficoltoso da fare buttare la spugna dopo aver perso troppo tempo.<br> :date: __2020-11-29 15:28:20__
 
-> Ho scaricato l'App fiducioso per i suoi promessi utili impieghi. Benché in possesso di uno SPID,emesso dalle Poste e più volte utilizzato in altri contesti, uso che certifica la sua validità, non riesco ad entrare nell'App IO. Ho chiesto in giro e qualcuno ha ipotizzato che la stessa App non funzione se l'Utilizzatore ha un Telefonino ANDROID. E' vero questo? Se lo fosse sarebbe altamente discriminatorio, Se non lo è quale è la possibile causa dei miei inutili tentativi di entrare in IO? Saro' grato se Qualcuno mi farà sapere qualcosa in proposito.<br> :date: __2020-11-20 16:48:27__
+> Ogni volta che ci si collega occorre registrarsi nuovamente<br> :date: __2020-11-29 14:13:47__
 
-> Mi sono registrata per potere accedere al Bonus di Natale che ancora non compare.. Spero di essere avvisata quando sarà atrivo e come funzionerà..<br> :date: __2020-11-20 12:19:44__
+> Non funziona x aggiungere le carte dà sempre errore, poi se uno non ha le carte ed ha solo il bancomat non serve a niente, visto che i maggiori pagamenti effettuati con valuta elettronica tipo paypal, e altri non si possono usare e quindi non funziona nemmeno il pagamento PAGO PA x la mensa scolastica. La maggior parte delle cose che usano i cittadini non funzionano quindi è inutile x la maggior parte dei servizi . Come sempre lo stato fa sempre le cose a metà e a favore loro.<br> :date: __2020-11-29 13:55:22__
 
-> App quasi inutile come tutte quelle di questo genere. Sono presenti pochissimi servizi e comuni. L'unica cosa che sono riuscito a fare è il bonus vacanza.. e siamo in lockdown 😂<br> :date: __2020-11-19 12:34:36__
+> Io non riuscito ancora ad entrarci dentro in quanto secondo "IO" le credenziali sono sempre sbagliate. Cosa fare? L'ennesimo flop di questo governo?<br> :date: __2020-11-29 12:42:35__
 
-> Salve, non riesco a memorizzare le carte di debito (bancomat) perché nella registrazione richiede il codice di sicurezza come per le carte di credito, che il bancomat non ha. Qualcuno sa come risolvere? Grazie.<br> :date: __2020-11-17 17:42:24__
+> Non potete fare in modo di poter usare la tessera sanitaria? Perché io non ho ne lo SPID ne la CIE....grazie.<br> :date: __2020-11-28 21:03:42__
 
-> Mi sono registrato con CIE senza problemi, è semplice e intuitiva. Purtroppo non vedo la funzione cashback che é quella che mi interessava di più. Visto che mi sono registrato ho attivato il bonus vacanze ma dice che posso usarlo fino al 31 dicembre 2020 e non al 30 giugno 2021 come avevo letto.. Forse deve aggiornarsi. Vedremo. Inoltre fra i servizi comunali purtroppo il mio comune non c'é. Addirittura non c é proprio la Toscana.. Vedremo in futuro<br> :date: __2020-11-17 16:10:35__
+> Al 28 novembre ancora non è possibile inserire né il codice IBAN né la carta di debito.<br> :date: __2020-11-28 17:09:47__
 
-> Sì, bella... Ma magari andrebbe aggiornata, visto che sembra bloccata a quest'estate. Mi dite cosa ce ne facciamo del bonus vacanze in Lockdown?<br> :date: __2020-11-17 13:23:53__
+> Accesso macchinoso, l'esatto contrario della semplificazione. Provato ad accedere con Spid?<br> :date: __2020-11-28 16:01:33__
 
 
 
@@ -318,24 +318,24 @@ The IO, l'app dei servizi pubblici app has been installed by more than **1000000
 <img src="1_star_reviews_wordcloud.png" alt="it.pagopa.io.app 1 reviews"/>
 </p>
 
-> Ho scaricato l'applicazione ma non riesco ad accedere a nessun servizio. Premesso che ho scaricato lo Spid attraverso il sito delle poste. Se per favore migliorate il servizio, sarebbe cosa buona e giusta.<br> :date: __2020-11-23 09:11:52__
+> Come tutte le App dello stato italiano, una M.... Già il fatto che sia ancora identificata come "Beta" la dice lunga ... Durante l'aggiunta delle carte per prepararsi al Cashback, ho avuto continui errori e difficoltà.... Una carta sembra stata aggiunta, della seconda non sono riuscito ad avere conferma perché adesso è "temporaneamente impossibile visualizzare i metodi di pagamento inserito"... Queste sono le solide basi su cui si fonda l'economia del nostro paese.<br> :date: __2020-11-30 10:33:26__
 
-> Nonostante abbia usato lo SPID svariate volte in altri siti, a sto giro non mi fa accedere bloccandomi le credenziali. Io davvero non ho parole.<br> :date: __2020-11-23 08:07:07__
+> Impossibile accedere. Mi autentico con spid (posteid) , autorizzo, torno all'App, questa si resetta e mi riporta alla pagina di login<br> :date: __2020-11-30 10:27:12__
 
-> Col nuovo aggiornamento non riesco ad accedere xché ad ogni lettera della password inserita l'app va in crash<br> :date: __2020-11-23 07:28:22__
+> Non riesco più ad accedere con SPID poste. Fino a qualche giorno fa entravo tranquillamente con impronta digitale, ora mi chiede un cambio password obbligatorio (di cosa poi? dello SPID Poste?) che comunque non si riesce a fare. Sistemate in fretta..altro che cashback!<br> :date: __2020-11-30 09:54:49__
 
-> Scaricata per utilizzarla col piano cashback ma non si capisce cosa si debba fare. Nemmeno nominato.<br> :date: __2020-11-22 23:07:56__
+> Negativa per entrare occorre foglietti su cui annotare username password codici alla faccia del digitale e tutte le volte l'accesso con impronta non lo chiede chiede sempre spid certe app dovrebbe essere gestite da persone con mentalitá semplice non lunare<br> :date: __2020-11-30 09:31:38__
 
-> Non è semplice<br> :date: __2020-11-22 20:37:13__
+> Non accetta carte bancomat di Poste italiane<br> :date: __2020-11-30 08:55:34__
 
-> Sezione pagamenti inaccessibile: vorrei riuscire ad inserire un metodo di pagamento, dopo 1 minuto e più aspettando il caricamento, mi esce sempre "non è stato possibile caricare i metodi di pagamento, riprova per piacere", ho riprovato 7-8 volte, niente da fare, sempre lo stesso; suggerisce di andare nel menù in alto a destra, dove effettivamente c'è la sezione relativa a problemi inserimento metodo di pagamento...si...e ti dice di ritornare nella sezione precedente e riprovare. è uno scherzo?<br> :date: __2020-11-22 20:07:04__
+> Dopo essermi autenticato con SPID SIELTE mi manda su IO, ma mi chiede nuovamente le credenziali SPID come se non le avessi già inserite. Ma anche inserendole di nuovo ricomincia sempre dall'inizio e non mi fa mai entrare in IO. Quindi non funziona.<br> :date: __2020-11-30 07:48:10__
 
-> Ho scaricato l'app ma non riesco ad effettuare l'autenticazione tramite spid delle Poste. Mi nega l'autorizzazione. Non riesco a capirne il motivo.<br> :date: __2020-11-22 19:30:11__
+> Non serve a una mazza! Meglio toglierla, per evitare confusioni e perdite di tempo.<br> :date: __2020-11-30 05:15:12__
 
-> Si sta facendo un gran parlare del programma cashBack e di un super cashBack che dovrebbe partire il 1° dicembre attraverso l'app IO., ma sull'app non compare ancora nulla. L'ennesima fake news<br> :date: __2020-11-22 19:21:01__
+> Scaricata oggi. Non vedo cashback, servizi Roma Capitale praticamente inesistenti. Mah! per ora do una stella, vediamo poi se migliora.<br> :date: __2020-11-29 22:11:42__
 
-> Ho pagato il bollo 2 mesi fa,porta ancora da pagare (scaduto), l app e scaduta<br> :date: __2020-11-22 18:05:55__
+> L'accesso con Spid chiede mail e password. Non accetta il bancomat come carta di pagamento.<br> :date: __2020-11-29 22:04:23__
 
-> Ho appena installato l'app ma non mi fa entrare con spid infocert id...???<br> :date: __2020-11-22 17:10:52__
+> Non c'è la possibilità di inserire la credenziali.<br> :date: __2020-11-29 21:58:04__
 
 

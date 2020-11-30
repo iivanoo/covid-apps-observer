@@ -129,6 +129,14 @@ The MD COVID Alert app has been installed by more than **50000** times. At this 
 <img src="5_star_reviews_wordcloud.png" alt="gov.md.covid19.exposurenotifications 5 reviews"/>
 </p>
 
+> Apps like these save lives. I am blessed to live in Maryland.<br> :date: __2020-11-28 23:35:26__
+
+> Very easy to use, nice privacy guarantee<br> :date: __2020-11-28 17:30:51__
+
+> A good app for a good idea :chevere:!<br> :date: __2020-11-28 04:43:03__
+
+> Alls well so far.<br> :date: __2020-11-25 19:38:04__
+
 > Great app and genius idea. Easy install and easy instructions. Could be a life saver!<br> :date: __2020-11-22 12:32:38__
 
 > Answer other's review: cannot turn on this app. Samsung S20, All the Android phone is automatic turn on the COVID notification. Go to setting and go Google set. will see the COVID 19 Notification turn on. Finally the MD launch the COVID 19 app. Thanks.<br> :date: __2020-11-22 00:18:12__
@@ -140,14 +148,6 @@ The MD COVID Alert app has been installed by more than **50000** times. At this 
 > Great app. Does not kill battery or face location. Please don't listen to the dumb conspiracy people. Everyone in MD should have this on their phone so we can get a control over the no uncontrolled virus.<br> :date: __2020-11-15 17:29:10__
 
 > BETTER Than nothing! At least they are trying SOMETHING! Unlike our current "Commander And Tweet"!!<br> :date: __2020-11-15 06:56:32__
-
-> Though it came very late but its still better. Developing countries launched this kind of app within one month of covid outbreaks..<br> :date: __2020-11-14 22:29:24__
-
-> I trusted this download for the Honourable Dr Fauci! 💗♾🐶<br> :date: __2020-11-14 21:03:28__
-
-> I feel safer having this app.<br> :date: __2020-11-14 14:56:15__
-
-> This application will significantly improve our ability to track this virus, perform contact tracing, and prevent major outbreaks.<br> :date: __2020-11-12 17:05:49__
 
 
 
@@ -199,6 +199,12 @@ The MD COVID Alert app has been installed by more than **50000** times. At this 
 <img src="2_star_reviews_wordcloud.png" alt="gov.md.covid19.exposurenotifications 2 reviews"/>
 </p>
 
+> Good to know about possible exposure but using bluetooth is almost as bad, please change this?<br> :date: __2020-11-29 16:04:37__
+
+> It says I have not been exposed to someone who tested positive but I might have been<br> :date: __2020-11-29 00:23:36__
+
+> Has anyone even seen this app warn you you've been exposed? Just curious 🤔<br> :date: __2020-11-26 22:14:21__
+
 > I don't think this works. I've worked with covid patients since I installed this app and not once did this app alert me to anything.<br> :date: __2020-11-22 00:08:49__
 
 > I had this downloaded for about 2 weeks and this phone has not gone off , I go out to work every day, go to Walmart and crafts store, now I know this should have at least gone off by now.<br> :date: __2020-11-21 16:47:11__
@@ -215,6 +221,18 @@ The MD COVID Alert app has been installed by more than **50000** times. At this 
 <img src="1_star_reviews_wordcloud.png" alt="gov.md.covid19.exposurenotifications 1 reviews"/>
 </p>
 
+> Won't allow user to turn on exposure notification. Just receive error messages<br> :date: __2020-11-29 05:31:35__
+
+> I am tired of Google trying to force this app down my throat so review bomb.<br> :date: __2020-11-28 23:16:57__
+
+> The app literally doesn't work. There's not much else to say. When you open the app, and press "Turn on exposure notifications", all you get is an error saying "Something went wrong. Try again". I've had it installed for several weeks. It happened when I first downloaded it, and still continues. I'm going to uninstall it. It's pointless.<br> :date: __2020-11-25 04:53:32__
+
+> Can't turn on exposure notifications. I have uninstalled and reinstalled the app. It still doesn't work.<br> :date: __2020-11-24 08:37:14__
+
+> Doesn't seem accurate. I work in a hospital with 40+ covid positive patients everyday but the app always tells me I havent been near anyone with covid....<br> :date: __2020-11-23 20:45:16__
+
+> It is asking for an access code from my test. I DON'T HAVE ONE! Where is this code!? So frustrating 😫<br> :date: __2020-11-23 12:16:49__
+
 > App not turn on. Sends an error message each time. I've installed an uninstalled three times with no success. Google Pixel 3 XL running newest version of Android. Please fix the bugs.<br> :date: __2020-11-19 00:12:48__
 
 > Doesn't Work installed try to turn on says something went wrong. Un installed re installed. Same thing. Doesn't Work<br> :date: __2020-11-18 21:44:56__
@@ -222,17 +240,5 @@ The MD COVID Alert app has been installed by more than **50000** times. At this 
 > If you are old and sick stay in the house. Everyone else, stop worrying about the Chinese sniffles 🥢🇨🇳👲🐉🏮🈲️. Lockdown Larry will have us all living off of government before you know it..🤦🏽‍♂️<br> :date: __2020-11-17 09:48:34__
 
 > I can't turn the exposure notification on. I have had the latest Android installed.<br> :date: __2020-11-16 20:42:33__
-
-> Poorly written. App can not be moved to external SD memory<br> :date: __2020-11-16 18:20:12__
-
-> Everytime i try to enable notifications it throws an error<br> :date: __2020-11-16 01:42:31__
-
-> Notice just posted someone in my apartment complex tested positive on Friday 13 November but nothing on the app. I think someone needs to go back to the drawing board on this one.<br> :date: __2020-11-15 20:16:32__
-
-> Tried to install on 2 different devices and app will only enable notifications on one of them.<br> :date: __2020-11-15 16:23:27__
-
-> Exposure alerts won't turn on<br> :date: __2020-11-15 12:13:11__
-
-> Why is does this app exist? The human race is a cancer and is finally being treated as such. Just let them all die. Seriously. The world - some place that hope runs out. Just let it burn. Walk away.<br> :date: __2020-11-14 20:15:00__
 
 

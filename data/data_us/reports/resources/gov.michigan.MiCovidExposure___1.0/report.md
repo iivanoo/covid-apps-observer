@@ -126,25 +126,25 @@ The MI COVID Alert app has been installed by more than **1000** times. At this t
 <img src="5_star_reviews_wordcloud.png" alt="gov.michigan.MiCovidExposure 5 reviews"/>
 </p>
 
-> GREAT APP TO DOWNLOAD 👍🏻👍🏻😷<br> :date: __2020-11-23 03:33:46__
+> This is very vital to me because I need to know what's going on out in the world because of what I do for a living. I help manufacture bumpers and ship them out all throughout the world here in Ionia Michigan. Thank you again. Godspeed<br> :date: __2020-11-29 20:48:25__
 
-> I'm doing fine, I get check every 30 days at my doctors office. N so far I've been negative. Thank God, I feel for the ones that get it. But most that do get it they don't wear mask n do stay far enough apart. If everyone would just listen to the CD, or governor or doctors we could be alot lower in the spread. So I pray I don't ever get it. N I'm so stay back from everything good luck n thank you for ure assistance of how to deal with the problem. Mr. Gooding, my God be with all of us but more w<br> :date: __2020-11-19 18:33:47__
+> This is what MI needs. However, it will only be as effective as we collectively make it. Get others to download the app and to report when they are infected.<br> :date: __2020-11-27 19:41:14__
 
-> Privacy SUPERB<br> :date: __2020-11-19 03:56:19__
+> i like keep update in michigan covid 19 alert y<br> :date: __2020-11-27 12:27:49__
 
-> Very well.<br> :date: __2020-11-18 22:03:57__
+> Great assistant to traditional contact tracing measures. Limited permissions needed.<br> :date: __2020-11-27 06:26:50__
 
-> New to it but could be a life savior!<br> :date: __2020-11-15 21:27:57__
+> Quick and easy to instal!!! Lets work together to end this pandemic.<br> :date: __2020-11-27 02:18:10__
 
-> Great app. It's private and low impact to my phone. The one downside is it relies and others installing and using it. It does provide some good statistical and links to general information<br> :date: __2020-11-15 14:17:04__
+> I believe it true?<br> :date: __2020-11-25 22:46:24__
 
-> Easy, and I like that it reminded me that it wouldn't work with my Bluetooth turned off (which reminded me to turn Bluetooth on!).<br> :date: __2020-11-14 23:09:39__
+> Great app! More people need to have it, that's the only way it will be the best app for this awful time in our lives!<br> :date: __2020-11-25 17:36:32__
 
-> I really am sick of conspiracy theorists.<br> :date: __2020-11-14 14:51:24__
+> I haven't looked at this app at all. I just want to thank whoever made this. Some people have great visions but lack knowledge to see the vision through. Giggety. Ily<br> :date: __2020-11-24 18:07:30__
 
-> Great info, easy to use. My only suggestion is to reduce the size of the text box on the Stats page regarding Johns Hopkins along with the logo. It takes up too much of the screen on my Android mobile device. I can only use 40% of the screen for scrolling the stats.<br> :date: __2020-11-14 01:45:27__
+> Need this in my life<br> :date: __2020-11-24 16:34:43__
 
-> Great that I can be notified of potential exposure to covid-19!!<br> :date: __2020-11-14 00:40:01__
+> Mine was checking 4 times a day.. hasn't checked for exposure since Nov 20th. How can I push the app to check for exposures? I'm not sure if I clicked on something to stop the checks? Thanks!!<br> :date: __2020-11-24 16:19:49__
 
 
 
@@ -153,6 +153,8 @@ The MI COVID Alert app has been installed by more than **1000** times. At this t
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="gov.michigan.MiCovidExposure 4 reviews"/>
 </p>
+
+> So far I havent seen anything about exposures. It would be good if they told me how my county and town is doing.<br> :date: __2020-11-26 16:31:22__
 
 > I installed it to do my part. I'll uninstall it once this pandemic passes. That's freedom.<br> :date: __2020-11-21 18:55:35__
 
@@ -172,8 +174,6 @@ The MI COVID Alert app has been installed by more than **1000** times. At this t
 
 > This app is great, but it would be even better if we could submit a result that tested negative so that health officials can track this as well.<br> :date: __2020-11-13 19:36:09__
 
-> Hopefully enough people use it to make it work!<br> :date: __2020-11-13 17:03:29__
-
 
 
 #### 3-star reviews
@@ -181,6 +181,10 @@ The MI COVID Alert app has been installed by more than **1000** times. At this t
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="gov.michigan.MiCovidExposure 3 reviews"/>
 </p>
+
+> Not from that area not very sure<br> :date: __2020-11-29 13:19:18__
+
+> Very confusing.......<br> :date: __2020-11-29 00:19:29__
 
 > On the page "Michigan Coronavirus Stats" 2/3 of the page is covered with text about John Hopkins. To scroll the important information there is only a 1 inch window.<br> :date: __2020-11-19 14:59:18__
 
@@ -198,10 +202,6 @@ The MI COVID Alert app has been installed by more than **1000** times. At this t
 
 > I will it ever download, still pending After 5 Minutes<br> :date: __2020-11-14 04:23:42__
 
-> We live in a weird ass world, ive been inside for months<br> :date: __2020-11-13 20:05:32__
-
-> Too much text, especially when you try to look at John Hopkins pages. The notice about that fills half the page, the bottom icons take more, so you get very little info on the screen and cant even see that it is michigan on the map. Next topic: I also worry very much about being tracked and my privacy.<br> :date: __2020-11-12 16:00:48__
-
 
 
 #### 2-star reviews
@@ -209,6 +209,8 @@ The MI COVID Alert app has been installed by more than **1000** times. At this t
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="gov.michigan.MiCovidExposure 2 reviews"/>
 </p>
+
+> This has not checked for 4days<br> :date: __2020-11-24 22:28:57__
 
 > Great idea & much needed. However... requires keeping your Location & Bluetooth ON constantly, in order to function. And that's a MASSIVE suck for the battery power on most phones. Devs need to change that, somehow! Until then, I'm uninstalling this app.<br> :date: __2020-11-23 00:53:19__
 
@@ -228,8 +230,6 @@ The MI COVID Alert app has been installed by more than **1000** times. At this t
 
 > The design makes it impossible to read the info in stats.<br> :date: __2020-11-14 03:17:19__
 
-> Don't delete my review again because you don't like it. Oh look, a 'FEAR' spreading tool to manipulate the mob.<br> :date: __2020-11-13 19:46:56__
-
 
 
 #### 1-star reviews
@@ -238,24 +238,24 @@ The MI COVID Alert app has been installed by more than **1000** times. At this t
 <img src="1_star_reviews_wordcloud.png" alt="gov.michigan.MiCovidExposure 1 reviews"/>
 </p>
 
-> I dont think it works<br> :date: __2020-11-22 20:58:03__
+> The app is useless unless everyone who has a positive test submits their result. It's very unrealistic to expect compliance to that level. Interesting concept but completely irrelevant based on inconsistencies in reporting. If someone didn't realize these flaws it also could create a false sense of security.<br> :date: __2020-11-28 14:29:01__
 
-> This app is a piece of garbage<br> :date: __2020-11-19 01:15:19__
+> Why would anyone take the word of the Retard in charge of MDHHS? Whitmer is just using him as a scapegoat in case blame starts being placed. Whitmer is responsible for the resurgence here in Michigan. She is inept and incompentent. Impeachment is in progress. Then she can suffer lockdowns with the rest of us. Not go boating with her husband during COVID-19. They are only reporting the positive cases. Not the negative. That woukd mess up their math. Fraulin Whitmer and her friends call us Nazis.<br> :date: __2020-11-28 01:07:04__
 
-> Every since I downloaded this app I'm getting increased Spam and unwanted calls all day and night. This wasn't happening until I downloaded this app<br> :date: __2020-11-18 23:37:05__
+> This seems like a pretty massive Hippo violation<br> :date: __2020-11-27 21:10:11__
 
-> Buggy - clicking "enable notifications" causes my Pixel 4 XL to freeze. If I hit power button to turn screen off... Then turn on again and press "no, do not enable notifications" then app works... As soon as I try to enable notifications it freezes again. Please fix the app<br> :date: __2020-11-18 16:12:49__
+> Not a reliable source if you ask me<br> :date: __2020-11-27 20:25:15__
 
-> I'm positive and can't record it. I've had my rapid results for 5 days and send out results for 3 days, but can't report anything without a code from the health department. Makes the app completely pointless.<br> :date: __2020-11-16 21:56:47__
+> This app only gives a breakdown of case by state and what color you are. Id rather have a breakdown of my area. I dont care what color someone is. That has nothing to do with Covid.<br> :date: __2020-11-27 20:06:34__
 
-> This app is worthless. Srop feeding the fear<br> :date: __2020-11-16 06:17:15__
+> Lmao, if yall think I'm going to give this app the permissions its asking for, you have a screw loose. This app wants full network access... why? To send a few bytes of data? You don't need full access for that. Limited is just find. Stop taking the lazy way out of developing and actually limit the accesses, so we aren't opened up to cyber attacks and hacking and tracking. You can take this app, and shove it up your stink hole.<br> :date: __2020-11-27 15:33:39__
 
-> Covid 19 has a 99.98% survival rate , no need for this app.<br> :date: __2020-11-15 21:00:14__
+> Downloaded the app twice. Got a message that says, "App will be downloaded to your device." Ummm...WHEN?! When I go back to the PlayStore, it shows that the app is there to download.<br> :date: __2020-11-27 06:29:05__
 
-> Don't bother, your battery will die before it has any time to do anything useful. Downloaded had to charge my phone every 3 hours.<br> :date: __2020-11-15 06:39:46__
+> Don't Give Fascists Power<br> :date: __2020-11-27 01:25:42__
 
-> Big brother<br> :date: __2020-11-15 03:46:39__
+> Sounds like a great app but it doesn't even allow me to start using it. It says I need to update Google services to enable notifications, but everything is updated already :(<br> :date: __2020-11-26 23:08:17__
 
-> Doesn't work. Just tells you to update Google play services but it's already up to date.<br> :date: __2020-11-15 03:32:49__
+> I dont think it works<br> :date: __2020-11-24 15:44:50__
 
 

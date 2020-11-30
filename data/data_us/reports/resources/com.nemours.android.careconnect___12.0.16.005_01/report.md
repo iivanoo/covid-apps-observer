@@ -188,6 +188,8 @@ The Nemours CareConnect – See a Pediatrician 24/7 app has been installed by mo
 <img src="5_star_reviews_wordcloud.png" alt="com.nemours.android.careconnect 5 reviews"/>
 </p>
 
+> Great experience<br> :date: __2020-11-23 19:36:31__
+
 > Very fast and helpful<br> :date: __2020-11-15 00:56:59__
 
 > Very helpful<br> :date: __2020-11-14 18:10:53__
@@ -205,8 +207,6 @@ The Nemours CareConnect – See a Pediatrician 24/7 app has been installed by mo
 > Sometimes internet service breaks up but over all great<br> :date: __2020-09-29 19:29:01__
 
 > Waited over a month for my son's blood work results ( both in Nemours or through video was 2 days apart so naturally who wants to lug out all your kid's into a doctors office... I picked the video option) they send explained emails and texts that I ensured to have set up the night before, made sure to sign in at least 30 mins early and it went perfectly awesome.<br> :date: __2020-09-29 00:08:31__
-
-> Love this app. Especially since we are in the middle of covid-19 gives me a piece of mind that I can do appointments from home with both my boys especial since my 4 year old has a trachea gtube and breathing machines and my oldest has special needs and both won't wear a mask. :)<br> :date: __2020-09-18 22:31:35__
 
 
 

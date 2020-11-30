@@ -4,91 +4,91 @@
         "store_country": "uk",
         "store_lang": "en",
         "latest_crawled_version": "3.1.1",
-        "latest_crawl": 1606125067
+        "latest_crawl": 1606735619
     },
     {
         "id": "appinventor.ai_david_taylor.Coronavirus_help2020",
         "store_country": "uk",
         "store_lang": "en",
         "latest_crawled_version": "1.1",
-        "latest_crawl": 1606125069
+        "latest_crawl": 1606735623
     },
     {
         "id": "net.hscni.covid19ni",
         "store_country": "uk",
         "store_lang": "en",
         "latest_crawled_version": "2.0",
-        "latest_crawl": 1606125075
+        "latest_crawl": 1606735625
     },
     {
         "id": "de.xikolo.openwho",
         "store_country": "uk",
         "store_lang": "en",
-        "latest_crawled_version": "3.6",
-        "latest_crawl": 1606125085
+        "latest_crawled_version": "3.7",
+        "latest_crawl": 1606735733
     },
     {
         "id": "uk.nhs.covid19.production",
         "store_country": "uk",
         "store_lang": "en",
         "latest_crawled_version": "3.10 (100)",
-        "latest_crawl": 1606125096
+        "latest_crawl": 1606735863
     },
     {
         "id": "gov.scot.covidtracker",
         "store_country": "uk",
         "store_lang": "en",
         "latest_crawled_version": "1.0.4",
-        "latest_crawl": 1606125101
+        "latest_crawl": 1606735872
     },
     {
         "id": "com.governmentofjersey.jerseycovidalert",
         "store_country": "uk",
         "store_lang": "en",
-        "latest_crawled_version": "1.0.3",
-        "latest_crawl": 1606125103
+        "latest_crawled_version": "1.0.4",
+        "latest_crawl": 1606736104
     },
     {
         "id": "net.hscni.covidtracker",
         "store_country": "uk",
         "store_lang": "en",
         "latest_crawled_version": "2.3.0",
-        "latest_crawl": 1606125111
+        "latest_crawl": 1606736148
     },
     {
         "id": "com.gha.covid.tracker",
         "store_country": "uk",
         "store_lang": "en",
         "latest_crawled_version": "1.0.2",
-        "latest_crawl": 1606125112
+        "latest_crawl": 1606736155
     },
     {
         "id": "com.joinzoe.covid_zoe",
         "store_country": "uk",
         "store_lang": "en",
-        "latest_crawled_version": "2.0.1",
-        "latest_crawl": 1606125115
+        "latest_crawled_version": "2.0.2",
+        "latest_crawl": 1606736417
     },
     {
         "id": "scot.nhs24.coronavirus",
         "store_country": "uk",
         "store_lang": "en",
         "latest_crawled_version": "2.0.1",
-        "latest_crawl": 1606125122
+        "latest_crawl": 1606736488
     },
     {
         "id": "uk.ac.cam.cl.covid19sounds",
         "store_country": "uk",
         "store_lang": "en",
         "latest_crawled_version": "1.1.19",
-        "latest_crawl": 1606125130
+        "latest_crawl": 1606736494
     },
     {
         "id": "com.nhs.online.nhsonline",
         "store_country": "uk",
         "store_lang": "en",
         "latest_crawled_version": "1.41.3",
-        "latest_crawl": 1606125139
+        "latest_crawl": 1606736501
     },
     {
         "id": "org.prixa.p5covidtracker",
@@ -100,7 +100,7 @@
         "store_country": "uk",
         "store_lang": "en",
         "latest_crawled_version": "1.4.0",
-        "latest_crawl": 1606125148
+        "latest_crawl": 1606736514
     },
     {
         "id": "com.panafricare.lasante",
@@ -112,56 +112,56 @@
         "store_country": "uk",
         "store_lang": "en",
         "latest_crawled_version": "covid-19-1.4.3",
-        "latest_crawl": 1606125160
+        "latest_crawl": 1606736523
     },
     {
         "id": "co.uk.healthcreatives.uclhcovid19",
         "store_country": "uk",
         "store_lang": "en",
         "latest_crawled_version": "0.0.4",
-        "latest_crawl": 1606125167
+        "latest_crawl": 1606736524
     },
     {
         "id": "com.spotteron.coronareport",
         "store_country": "uk",
         "store_lang": "en",
         "latest_crawled_version": "2.9.6",
-        "latest_crawl": 1606125167
+        "latest_crawl": 1606736530
     },
     {
         "id": "com.phe.couchto5K",
         "store_country": "uk",
         "store_lang": "en",
         "latest_crawled_version": "7.4.0",
-        "latest_crawl": 1606125169
+        "latest_crawl": 1606736537
     },
     {
         "id": "com.negd.ayushfeedback",
         "store_country": "uk",
         "store_lang": "en",
         "latest_crawled_version": "1.0.9",
-        "latest_crawl": 1606125176
+        "latest_crawl": 1606736541
     },
     {
         "id": "org.theviralapp.app1",
         "store_country": "uk",
         "store_lang": "en",
         "latest_crawled_version": "Varies with device",
-        "latest_crawl": 1606125177
+        "latest_crawl": 1606736544
     },
     {
         "id": "com.hivelearning.nhs",
         "store_country": "uk",
         "store_lang": "en",
-        "latest_crawled_version": "5.70.2",
-        "latest_crawl": 1606125186
+        "latest_crawled_version": "5.87.9",
+        "latest_crawl": 1606736840
     },
     {
         "id": "com.royalmail.app.droid",
         "store_country": "uk",
         "store_lang": "en",
         "latest_crawled_version": "6.0.1",
-        "latest_crawl": 1606125195
+        "latest_crawl": 1606736914
     },
     {
         "id": "com.communityhealthapp",
@@ -173,105 +173,105 @@
         "store_country": "uk",
         "store_lang": "en",
         "latest_crawled_version": "1.0.0",
-        "latest_crawl": 1606125478
+        "latest_crawl": 1606737185
     },
     {
         "id": "doh.health.shield",
         "store_country": "uk",
         "store_lang": "en",
         "latest_crawled_version": "1.44.248",
-        "latest_crawl": 1606125488
+        "latest_crawl": 1606737190
     },
     {
         "id": "com.goodsam.responder",
         "store_country": "uk",
         "store_lang": "en",
         "latest_crawled_version": "12.2",
-        "latest_crawl": 1606125495
+        "latest_crawl": 1606737192
     },
     {
         "id": "com.airbus.campus",
         "store_country": "uk",
         "store_lang": "en",
         "latest_crawled_version": "2.1.8.3316-SNAPSHOT",
-        "latest_crawl": 1606125496
+        "latest_crawl": 1606737194
     },
     {
         "id": "uk.ac.shef.oak.pheactiveten",
         "store_country": "uk",
         "store_lang": "en",
         "latest_crawled_version": "4.1.0",
-        "latest_crawl": 1606125502
+        "latest_crawl": 1606737201
     },
     {
         "id": "com.innovatise.rctcbc",
         "store_country": "uk",
         "store_lang": "en",
-        "latest_crawled_version": "4.62",
-        "latest_crawl": 1606125505
+        "latest_crawled_version": "4.66",
+        "latest_crawl": 1606737452
     },
     {
         "id": "com.AppInstitute.bramleyv1",
         "store_country": "uk",
         "store_lang": "en",
         "latest_crawled_version": "1.0.0",
-        "latest_crawl": 1606125507
+        "latest_crawl": 1606737528
     },
     {
         "id": "com.menalabs.app",
         "store_country": "uk",
         "store_lang": "en",
         "latest_crawled_version": "1.1.4",
-        "latest_crawl": 1606125508
+        "latest_crawl": 1606737530
     },
     {
         "id": "com.nhs.lth.guidelines",
         "store_country": "uk",
         "store_lang": "en",
         "latest_crawled_version": "1.1.0",
-        "latest_crawl": 1606125509
+        "latest_crawl": 1606737533
     },
     {
         "id": "uk.nhs.ayrshirearran",
         "store_country": "uk",
         "store_lang": "en",
         "latest_crawled_version": "3.0.2",
-        "latest_crawl": 1606125511
+        "latest_crawl": 1606737536
     },
     {
         "id": "md.your",
         "store_country": "uk",
         "store_lang": "en",
         "latest_crawled_version": "4.01.06",
-        "latest_crawl": 1606125515
+        "latest_crawl": 1606737541
     },
     {
         "id": "com.nuasolutions.hse.prod",
         "store_country": "uk",
         "store_lang": "en",
         "latest_crawled_version": "1.0.3",
-        "latest_crawl": 1606125519
+        "latest_crawl": 1606737543
     },
     {
         "id": "com.ascent.phr",
         "store_country": "uk",
         "store_lang": "en",
         "latest_crawled_version": "18.1.1",
-        "latest_crawl": 1606125523
+        "latest_crawl": 1606737547
     },
     {
         "id": "com.app.p3681GD",
         "store_country": "uk",
         "store_lang": "en",
         "latest_crawled_version": "1.2.0.0",
-        "latest_crawl": 1606125531
+        "latest_crawl": 1606737547
     },
     {
         "id": "uk.ac.ox.ibme.bumpplus",
         "store_country": "uk",
         "store_lang": "en",
         "latest_crawled_version": "1.1.0",
-        "latest_crawl": 1606125536
+        "latest_crawl": 1606737551
     },
     {
         "id": "uk.gov.torfaen.covidcommunitysupport",

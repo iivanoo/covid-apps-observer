@@ -130,6 +130,10 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 <img src="5_star_reviews_wordcloud.png" alt="gov.vdh.exposurenotification 5 reviews"/>
 </p>
 
+> Indispensable.<br> :date: __2020-11-30 04:31:20__
+
+> Is this for West Virginia Folks as well?<br> :date: __2020-11-26 03:55:41__
+
 > Good<br> :date: __2020-11-16 22:36:13__
 
 > Great to see an implementation of COVID tracking. This is following the de facto method for anonymous tracing provided by Google/Apple. Reviews upset at Bluetooth usage are not familiar with the implications/work for anonymous tracing, GPS or other means would be vastly more energy intensive. Turn on your Bluetooth.<br> :date: __2020-11-15 17:13:08__
@@ -146,10 +150,6 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 
 > D?<br> :date: __2020-11-12 06:56:44__
 
-> Like the idea of the security of having this info available upon request<br> :date: __2020-11-11 20:40:50__
-
-> So far this application has been working as advertised<br> :date: __2020-11-09 21:09:29__
-
 
 
 #### 4-star reviews
@@ -157,6 +157,10 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="gov.vdh.exposurenotification 4 reviews"/>
 </p>
+
+> Good<br> :date: __2020-11-30 00:12:23__
+
+> Good info. Need to here<br> :date: __2020-11-27 00:06:52__
 
 > Awesome<br> :date: __2020-11-15 02:07:21__
 
@@ -174,10 +178,6 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 
 > Larie 4<br> :date: __2020-10-15 14:34:52__
 
-> I appreciate the efforts to curb the spread of Covid. However when I turned off my phone's location, I received a notification from Google's Exposure Notifications framework that I needed to enable location in order for the app to work. What??? Covidwise says that "No personal data or location tracking occurs within this app." I've since learned that while the app itself doesn't ask for location, Google's Exposure Notification framework (used by the app) obtains location data by using Bluetooth. This is very confusing. Please work out the kinks in messaging this. Otherwise it looks like the app is trying to do something sneaky (trying to gather and store my location data without telling me).<br> :date: __2020-10-02 20:49:11__
-
-> For battery optimization issue, you can add this app in the "whitelist" so you won't run into the issue.<br> :date: __2020-09-23 17:11:11__
-
 
 
 #### 3-star reviews
@@ -185,6 +185,10 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="gov.vdh.exposurenotification 3 reviews"/>
 </p>
+
+> My problem is that in the DC area folks from DC, Maryland, Virginia mix regularly and then we have people from all over the country coming in. But it seems I can only have one contact app enabled at a time, and as best I can tell that means I wouldn't get notified if my phone had been getting chirps from someone on a different app. Am I incorrect?<br> :date: __2020-11-23 17:52:47__
+
+> It would be useful to know the requirements, don't know if my phone is spinning because the site is busy the phone doesn't meet the reqs<br> :date: __2020-11-23 17:19:09__
 
 > Good idea, flawed execution. A person who tests positive must input a PIN that they receive from a state contact tracer to report their illness. This works great as long as the contact tracing is performed properly. Personal experience: my wife tested positive, did not hear from a contract tracer, never received a PIN. At no point did the app indicate that I had been exposed, even though I share a home with someone who tested positive. This may be an isolated case, but I've lost confidence.<br> :date: __2020-11-20 01:38:46__
 
@@ -202,10 +206,6 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 
 > I've been using this for over 1 hour and still did not find any Pokemon. as to the app, it seems to draw down the battery. unfortunate not enough potential users, and the "where - when" for contacts seems seriously lacking. still have it running because it's all that's offered.<br> :date: __2020-09-25 05:06:02__
 
-> I like the idea but not sure if it's working on all Samsung devices correctly. I believe s9+ is shutting down due to "Optimizing Battery Usage". Need to shut this off or it won't run in background to work. Need more information to consumers most probably don't know.<br> :date: __2020-09-20 16:44:56__
-
-> It's ridiculous that there are only state apps. I live in California and I don't see an app for me. Also what about people who cross state lines? There needs to be a unified federal App, but I can't see it happening.<br> :date: __2020-09-18 20:53:23__
-
 
 
 #### 2-star reviews
@@ -213,8 +213,6 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="gov.vdh.exposurenotification 2 reviews"/>
 </p>
-
-> Extremely basic; doesn't include detailed information compared to Maryland, Pennsylvania, or New York's apps that share statistics, charts, and trends by day and week. This app is just a notification and reporting app for positive cases.<br> :date: __2020-11-21 22:01:42__
 
 > Program tells me my last scan for potential exposure was oct 11th. I always have bluetooth and location services turned on as requested. I even turn on wifi almost daily to quickly update any programs on my phone. No apparent way to force a database exposure check.<br> :date: __2020-11-04 09:59:53__
 
@@ -234,6 +232,8 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 
 > Update: month and a half after i installed the app and there are only 1% users across VA. Time to uninstall it. Anything that helps to fight covid gets 5 star and to those believing in looney tunes and conspiracy theories think about what you carry in your pocket (cell phone) or have on a shelf at home (alexa). Either you give your phone permission or not do you really think professional IT person can't make a virus go around your blocked permissions?<br> :date: __2020-09-27 15:29:08__
 
+> This was a tough situation it was like it was almost a virus and I still don't know if it was because I still can't use my Facebook or my messenger and it kind of makes me upset but it said it is it takes 3 business days and we'll find out so I'll give it 3 days 3 days goes quick<br> :date: __2020-09-10 20:28:58__
+
 
 
 #### 1-star reviews
@@ -241,6 +241,10 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="gov.vdh.exposurenotification 1 reviews"/>
 </p>
+
+> Another way to track you because it automatically download on my phone without me pressing the button or even searching up this ridg ASF app you can tell it's fake have fun getting tracked. If anyone reads this the comments<br> :date: __2020-11-27 13:28:29__
+
+> Propaganda. Popped up on my playstore like it was needed. Keep feeding the sheep.<br> :date: __2020-11-24 04:26:18__
 
 > I had this app for several months and I have never got a notice and I have been to the hospital several times. I think this app is a waste of time and space. I have deleted it.. I appreciate it, but till you make it where the cdc inputs the info, this app is useless. No one will volunteer to put there info in, except good citizens, and those are few and far between<br> :date: __2020-11-22 17:08:11__
 
@@ -257,9 +261,5 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 > Doesn't do exposure checks when I go out. Does exposure checks at 1-5am when people are asleep, which is pointless. What's the use of the app then?<br> :date: __2020-11-13 18:26:55__
 
 > Beware. Within 2 hours of installing this app and giving it the Bluetooth rights, my credit card number was stolen and Netflix account had a suspicious login (not me).<br> :date: __2020-11-13 17:16:22__
-
-> This app is junk...My wife is Covid19 positive. She reported in the app as infected patient. I stood right next to her (with her phone on her hand)and the app on my phone did not alert anything...<br> :date: __2020-11-11 15:49:01__
-
-> Not very accurate. Sorry if the truth hurts. All I am saying is my local news is saying that there is COVID - 19 positive tests, confirmed reports that there was a local outbreak and guess what, hmm., your app didn't inform me of it.<br> :date: __2020-11-10 12:16:47__
 
 

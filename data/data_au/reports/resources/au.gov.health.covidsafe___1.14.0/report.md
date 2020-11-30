@@ -133,6 +133,14 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 <img src="5_star_reviews_wordcloud.png" alt="au.gov.health.covidsafe 5 reviews"/>
 </p>
 
+> GOOD. To have<br> :date: __2020-11-30 05:29:04__
+
+> Excellent<br> :date: __2020-11-29 11:38:43__
+
+> Or n ah<br> :date: __2020-11-25 21:20:25__
+
+> I think this is a Highly Effective, Efficient and an Essential App! I will appreciate the need for myself to use it each and every single Day, Day by Day! Have a 👍 Great Day. Blessings to you and your family and friends ❤. Frim Benjamin XOXO.<br> :date: __2020-11-25 06:13:19__
+
 > Good<br> :date: __2020-11-22 21:06:11__
 
 > Excellent app<br> :date: __2020-11-22 05:36:34__
@@ -145,14 +153,6 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 
 > Great<br> :date: __2020-11-16 07:51:38__
 
-> unobtrusive and essential at this time.<br> :date: __2020-11-16 03:05:13__
-
-> O God<br> :date: __2020-11-13 02:00:50__
-
-> Helpful app.<br> :date: __2020-11-12 11:22:23__
-
-> easy<br> :date: __2020-11-11 23:13:35__
-
 
 
 #### 4-star reviews
@@ -160,6 +160,8 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="au.gov.health.covidsafe 4 reviews"/>
 </p>
+
+> Update Nov 2020: Uninstalled due to battery drain and overheating on a Galaxy S10 5G. Too risky to leave installed. No issues on Galaxy A30. Down to 4 stars. Original Review: Zero issues. Works as intended. Some initial issues with Bluetooth streaming audio but these are easily overcome with updates and firmware updates on speakers. Original review 5 stars.<br> :date: __2020-11-27 00:34:25__
 
 > It is extremely good, people need to know how to protect themselves from this coronavirus.<br> :date: __2020-11-19 07:13:23__
 
@@ -179,8 +181,6 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 
 > I7uui 8th is 4hi<br> :date: __2020-10-09 04:23:06__
 
-> It does what's expected. I have no loss of Bluetooth functions. Fitbit & earphones still run ok. It doesn't collect phone numbers, it collects & stores another phone's bt id number, only if near for 15mins. Those numbrs tell you nothing, even if you could see them. The remotely held database dept. knows the registered phone numbers... only if you d/load your BT id collection, only if you are diagnosed with CV-19. Dislike: Notification uses too much bar space. Wld prfr coloured dot on the icon.<br> :date: __2020-10-08 02:28:46__
-
 
 
 #### 3-star reviews
@@ -188,6 +188,8 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="au.gov.health.covidsafe 3 reviews"/>
 </p>
+
+> Did not appers to do anything. Drained battery.<br> :date: __2020-11-25 03:14:47__
 
 > If there is information about the current restriction it will be better.<br> :date: __2020-11-20 20:43:28__
 
@@ -207,8 +209,6 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 
 > I really like the idea of this app if it actually worked... But it doesn't. It continually pops up notifications telling me it's not connected because my Location isn't open when it clearly is. I've also now noticed that even though I have selected Auto Update so I will get the most recent numbers it's not updating either. Example: NSW has been showing most recent number as 14 new cases for days & I had just seen the Premier's speech for today & we have 4 new cases. Even allowing for 24hour turnaround that is still wrong. I'll be interested to see homuch longer we are consistently getting 14 new cases per day. C'mon techs we expect much better than this when you pushed so hard for everyone to download this app. There's no point in having it that I can see. If anyone knows a Web page that simply gives current updates per area searched please help me as I'm in the very high risk category & would like to be aware if/when there's new cases to be aware of. Thanks everyone it sure looks to me like the online community will be more help to me than the official govt app at this point. Unless of course they put the effort in to have it work properly because short of a miracle we are stuck with this virus for the forseeable future &ppossibly beyond.<br> :date: __2020-10-30 02:07:56__
 
-> I don't get codes will I need two get scanning or anything else if you'll be pretty please do something about this I will be gripple<br> :date: __2020-10-26 06:36:18__
-
 
 
 #### 2-star reviews
@@ -216,6 +216,12 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="au.gov.health.covidsafe 2 reviews"/>
 </p>
+
+> It's doesn't work I got close to some one who has it<br> :date: __2020-11-29 01:01:51__
+
+> App is not letting Android use GPS location all the time. Without this, the app is useless.<br> :date: __2020-11-27 04:04:42__
+
+> Doesn't seem to work that well with tracing according to all reports Already registered so why would I bother to update is the new version only fix registration issue??!!<br> :date: __2020-11-26 08:26:18__
 
 > Pretty useless<br> :date: __2020-11-21 07:17:54__
 
@@ -231,12 +237,6 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 
 > When is there going to be a fix so this app stops disconnecting other devices from Bluetooth. It does it multiple times a day only had thos issue since this app has been installed<br> :date: __2020-11-10 04:06:50__
 
-> ĎxxxDeX zzx is zdx acc ccsf carfax xterra accdexzdx ďzd DVD acc x zdx acc d zdx d DVD zdx zdx DVD DVD ďd zdx d zdx zdx DVD zdx DVD DVD d DVD DVD zdx DVD zz zfs DVD d DVD d DVDs dd zdx z xtc DVD DVD DVD zdx zdx DVD DVD db's evac x DVD zdx DVDy DVD DVD uou 7 bagdad bagdad d DVD77did zdx<br> :date: __2020-11-08 07:20:17__
-
-> Uses my limited data<br> :date: __2020-11-03 08:21:01__
-
-> I used to be able to check my km radius from my home, but can't seem to access that function any longer<br> :date: __2020-10-29 23:10:30__
-
 
 
 #### 1-star reviews
@@ -245,24 +245,24 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 <img src="1_star_reviews_wordcloud.png" alt="au.gov.health.covidsafe 1 reviews"/>
 </p>
 
-> Uninstalled because it drains my battery and I'm checking in everywhere anyway<br> :date: __2020-11-22 05:59:17__
+> A total power hog. Uses more power than any other app. I contacted the app help and got some crappy automated response. Still eating battery.<br> :date: __2020-11-30 13:38:53__
 
-> Still can't register. App doesn't recognise my mobile number. Can you please fix? Thanks<br> :date: __2020-11-22 04:23:00__
+> Recent updates have screwed with Bluetooth settings on other devices, eg smartwatch, BP monitor. To get them working again had to uninstall and reinstall app...<br> :date: __2020-11-30 02:09:11__
 
-> Poor, unable set pin after a number of attempts.<br> :date: __2020-11-20 02:34:13__
+> Significant battery drain as app need to disable battery optimisation operating 24/7. Need to utilise an option where app is on only when outside of home if battery optimisation needs to be disabled to work.<br> :date: __2020-11-30 01:37:00__
 
-> Keeps switching itself off, won't work if battery saver is on and then drains my battery. Basically useless app<br> :date: __2020-11-20 00:05:42__
+> Zz<br> :date: __2020-11-29 23:31:13__
 
-> Great idea, but this is still a totally useless application! After ongoing issues with Bluetooth interuption, location permission issues, constant notifications of not working bla bla. Why would this not be attended to with commitment and urgency? It makes me question if this battery draining waste of memory space app was ever at all considered as a serious tracing tool considering the lack of effort put into making it functional?! I wished this worked and could help keep our community safe!<br> :date: __2020-11-19 16:12:05__
+> Useless and expensive garbage that doesn't work.<br> :date: __2020-11-28 22:02:52__
 
-> It doesn't work. Cannot keep phone paired to Bluetooth ?????<br> :date: __2020-11-19 12:26:21__
+> Great idea but terrible implementation. Runs constantly in the background with no way to turn it off when you are just at home and don't need it, only option is to uninstall. By default has a persistent notification to tell you whether it's working which is annoying.<br> :date: __2020-11-28 12:41:00__
 
-> I cannot update app. For some reason its not working on my phone.<br> :date: __2020-11-19 08:11:58__
+> While I think this app was a good idea, I have had to uninstall it due to battery drainage. I would probably reinstall it if we have another outbreak<br> :date: __2020-11-28 11:58:27__
 
-> Does nothing<br> :date: __2020-11-19 07:50:19__
+> Having the same problem described below. I own an OPPO phone and constantly get messages about disabling battery optimisation. I do so and within a few hours get another message. I'm sick of maintaining it. Fix it or I'll remove it and take my chances. I haven't yet seen any stats as to the success of the app in doing the job it's designed for. Unlikely if others are having the same issues.<br> :date: __2020-11-27 19:54:14__
 
-> Totally useless.<br> :date: __2020-11-19 06:26:10__
+> App always off even though all battery optimisation options are off<br> :date: __2020-11-27 07:46:02__
 
-> Bluetooth location won't stay on Oppo A2020 and the app doesn't ask for always allowing Bluetooth location access. So when it stops running in the foreground it's particularly useless.<br> :date: __2020-11-18 08:54:29__
+> Irresponsible that qr code check-in has not been implemented. Australians are losing their private data to third parties. The government needs to step up, and protect the privacy of Australians, and provide a safer means to qr code check-in.<br> :date: __2020-11-27 06:01:15__
 
 

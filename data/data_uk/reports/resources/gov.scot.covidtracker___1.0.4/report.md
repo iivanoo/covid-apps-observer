@@ -140,6 +140,14 @@ The Protect Scotland app has been installed by more than **500000** times. At th
 <img src="5_star_reviews_wordcloud.png" alt="gov.scot.covidtracker 5 reviews"/>
 </p>
 
+> Easy go use and gives that feeling of security<br> :date: __2020-11-29 11:48:30__
+
+> Easy to use, watch you don't have your VPN switched on or it doesn't take any readings, wouldn't know it was working behind the scenes to help protect Scotland<br> :date: __2020-11-26 23:18:59__
+
+> Good<br> :date: __2020-11-24 03:47:16__
+
+> This app gives me a feeling of security and makes me feel safe<br> :date: __2020-11-23 12:59:14__
+
 > I hope others are remembering to put Bluetooth on when out so it can work. Feels safer but if only you could make it law so it was more accurate. Great Job Scotland team 👏<br> :date: __2020-11-23 01:55:25__
 
 > Clear so far<br> :date: __2020-11-22 00:23:23__
@@ -152,14 +160,6 @@ The Protect Scotland app has been installed by more than **500000** times. At th
 
 > Saves lives<br> :date: __2020-11-19 12:20:24__
 
-> A fantastic app so easy to set up and use I just hope that people are using it or are even aware that it is available<br> :date: __2020-11-17 16:05:10__
-
-> Helping to protect urselfs and ur family and friends with the information available.<br> :date: __2020-11-15 14:59:49__
-
-> Excellent app.<br> :date: __2020-11-15 01:46:03__
-
-> Everyone should be using this app<br> :date: __2020-11-14 19:20:36__
-
 
 
 #### 4-star reviews
@@ -167,6 +167,8 @@ The Protect Scotland app has been installed by more than **500000** times. At th
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="gov.scot.covidtracker 4 reviews"/>
 </p>
+
+> I haven't had to use it so far<br> :date: __2020-11-26 23:25:03__
 
 > Just downloaded the app, some folk saying you dont need to turn on location but the app says I have to keep both location and bluetooth on. Glad we have a safe app here in Scotland! 🏴󠁧󠁢󠁳󠁣󠁴󠁿<br> :date: __2020-11-18 14:51:54__
 
@@ -186,8 +188,6 @@ The Protect Scotland app has been installed by more than **500000** times. At th
 
 > I cannot get it to work on Samsung J5. The version of android has to be higher<br> :date: __2020-10-05 01:08:57__
 
-> Pretty straight forward!<br> :date: __2020-10-02 20:15:26__
-
 
 
 #### 3-star reviews
@@ -195,6 +195,14 @@ The Protect Scotland app has been installed by more than **500000** times. At th
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="gov.scot.covidtracker 3 reviews"/>
 </p>
+
+> App is fine but uses a LOT of data.<br> :date: __2020-11-27 16:07:22__
+
+> On samsung devices you must ensure that disable apps setting is off otherwise the app will be disabled automatically after 30 days of not being used<br> :date: __2020-11-27 03:00:14__
+
+> My phone has only done 1 check in the last 14 days, which was 14 days ago. I update my phone operation system with the latest update around then, might have knocked off the tracking. Heard others saying they've not had many checks<br> :date: __2020-11-26 16:20:39__
+
+> Freezes,. does not allow you to book a test<br> :date: __2020-11-23 18:46:17__
 
 > Asking me today to turn on my Bluetooth and repoen PS app. My Bluetooth is switched on. Reopened app,vstill asking me to switch Bluetooth on.... So guess it's not working<br> :date: __2020-11-21 19:32:03__
 
@@ -208,14 +216,6 @@ The Protect Scotland app has been installed by more than **500000** times. At th
 
 > Using as a visitor from England and have to say it lacks compared to NHS COVID 19 app. No check-in with QR code or postcode/level notification. Also had to disable power saving in settings otherwise it closes and doesn't do exposure checks. Someone without technical knowledge wouldn't be aware how to change this, therefore rendering the app pointless.<br> :date: __2020-11-04 22:49:52__
 
-> I have an android phone and I don't get any messages to confirm it is working. I have heard with I phones you get a messages to advise that you haven't had any contact with anyone with covid. I would like if you got confirmation from time to time<br> :date: __2020-11-04 20:34:41__
-
-> Hard to understand this app, might be easy if show the video<br> :date: __2020-11-04 18:27:25__
-
-> Hasn't checked for matches in over a week<br> :date: __2020-11-02 20:00:21__
-
-> Happy birthday to<br> :date: __2020-11-01 09:55:57__
-
 
 
 #### 2-star reviews
@@ -223,6 +223,8 @@ The Protect Scotland app has been installed by more than **500000** times. At th
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="gov.scot.covidtracker 2 reviews"/>
 </p>
+
+> How do I know this app is working?<br> :date: __2020-11-24 19:52:43__
 
 > Great idea. Had to uninstall though as it started draining memory and wouldn't push notifications as a result. Might not be apps fault, could be mine or my phone's ability. Either way, can no longer use.<br> :date: __2020-11-20 07:16:33__
 
@@ -242,8 +244,6 @@ The Protect Scotland app has been installed by more than **500000** times. At th
 
 > I find it a nice idea, and it has a really good interface, but how much is it really worth in practice... If I pass by someone who's marked they have Covid on it and it beeps me, I don't imagine anything different would happen. I would be happy to leave it on "because why not", if it wasn't for the keeping Bluetooth on requirement, which is a security risk, plus the constant notifications every time I turn BT/location off and on at home...<br> :date: __2020-11-09 01:04:50__
 
-> I have the app on my phone but it keeps randomly turning the tracing function off? I check it every few days and often find that the tracing is black and informs me that I need to turn it on. I have no idea how long it has been off and so don't know how effective it has been. Very poor 😞<br> :date: __2020-11-07 11:03:26__
-
 
 
 #### 1-star reviews
@@ -251,6 +251,16 @@ The Protect Scotland app has been installed by more than **500000** times. At th
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="gov.scot.covidtracker 1 reviews"/>
 </p>
+
+> Crashes on opening the app, every time.<br> :date: __2020-11-29 12:11:32__
+
+> You can't get the self isolation grant if you use this app and told to self isolate as the guidelines don't cover it I was told to self isolate for 14 days apparently id been in contact as a result of this my job replaced me I did not get any wages or sick pay and lost my job so I wouldn't waste my time with the app this is now deleted from my phone<br> :date: __2020-11-27 19:23:17__
+
+> Please try again later. Utterly useless. Every other countries app works, while this one prevents you signing up Now it says my clock is wrong...<br> :date: __2020-11-27 13:05:26__
+
+> Hard to use<br> :date: __2020-11-26 15:50:31__
+
+> Worst app ever<br> :date: __2020-11-25 03:10:44__
 
 > Controlavirus.. Switch off your TV..bin the mask.. Hug each other.. Educate yourselves..#lulz<br> :date: __2020-11-22 10:52:57__
 
@@ -261,15 +271,5 @@ The Protect Scotland app has been installed by more than **500000** times. At th
 > Needs bt and location.drains battery fast.Useless<br> :date: __2020-11-20 19:29:06__
 
 > 15 mins is to long. I'm a delivery driver and I'm not in anyones company for that long. Surely you can catch covid in less than 15 mins Thought I'd add to my review My friends have just got the bug 5 days ago and they haven't got a call from track and trace yet. So what is the point of the app. He was also told to let his kids to keep going to school after him being positive.<br> :date: __2020-11-20 03:40:54__
-
-> Needs bluetooth on all the time.Security and battery waste.Junk.uninstalled<br> :date: __2020-11-19 05:30:09__
-
-> I uninstall this used it for when it come out I live in a small town but livi centre is big enough and guess what nothing happened big deal 😉 still well wear a mask keep to normal well this normal rules. Remember this covid19 is not as big as you think grow the hell up. Bye have a nice day. Don't worry 2020 is nearly over do double 😀 in 2021 or 2022.<br> :date: __2020-11-18 08:33:33__
-
-> Just too much as it's around me all the time. Having it on everything is alot. I work for nhs and I'm covid negative, I just need to stop thinking<br> :date: __2020-11-18 05:42:14__
-
-> Was good. No longer updates.<br> :date: __2020-11-17 20:52:05__
-
-> Useless<br> :date: __2020-11-17 12:21:22__
 
 

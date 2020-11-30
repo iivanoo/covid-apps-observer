@@ -212,6 +212,8 @@ The Horizon Telehealth app has been installed by more than **1000** times. At th
 <img src="4_star_reviews_wordcloud.png" alt="org.horizonhealth.android.hzhsh.telehealth 4 reviews"/>
 </p>
 
+> Very helpful during the plague<br> :date: __2020-11-23 18:20:51__
+
 > Decent for the most part. "Call" drops as program will automatically log you out mid sentence at times. Otherwise, much smoother than when the app was first presented.<br> :date: __2020-10-06 00:25:32__
 
 > Trouble getting through<br> :date: __2020-10-05 20:06:58__

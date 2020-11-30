@@ -186,25 +186,25 @@ The LiveHealth Online Mobile app has been installed by more than **500000** time
 <img src="5_star_reviews_wordcloud.png" alt="com.americanwell.android.member.wellpoint 5 reviews"/>
 </p>
 
-> I have used this app a few times. It is great to put your mind at ease and not have to load up and troop in to the dr.'s and then wait. Its fast and answers most of our questions with real dr.'s. It makes the the dr. office experience changed for the better. We only do office appointments if we have to be in person. Its a great app.<br> :date: __2020-11-23 06:18:15__
+> Such an easy streamlined service. So much better than getting out and waiting at a clinic<br> :date: __2020-11-29 18:51:42__
 
-> Excellent!<br> :date: __2020-11-21 17:54:57__
+> Excellent<br> :date: __2020-11-28 18:39:35__
 
-> This is a quick and safer alternative than going into a clinic or doctor's office. The physicians are professional, knowledgeable, and very friendly. I have used this app a few times for myself and my family and it is very helpful for our busy lives. Appreciate all the doctors there!<br> :date: __2020-11-20 16:01:03__
+> Waiting room was approx 5 min. Dr was very nice and thorough. I will definitely it again if needed.<br> :date: __2020-11-28 15:08:09__
 
-> Quick, easy, friendly treatment from the comfort of your home.<br> :date: __2020-11-18 21:41:05__
+> Awesome!!!! They are the most professional and experienced group of health care experts. I recommend anyone to give these people with letters after their names a try.<br> :date: __2020-11-27 06:31:14__
 
-> Great for not having to go to urgent care<br> :date: __2020-11-18 16:47:01__
+> The Dr was very kind<br> :date: __2020-11-27 05:31:53__
 
-> Great app!!!<br> :date: __2020-11-17 06:18:44__
+> GREAT! This was the most convenient thing I've ever tried. The doctor was so welcoming, I felt very comfortable. I would rather use this anytime then actually having to go to an actual office. This is fast, efficient, convenient. I'm just so pleased.<br> :date: __2020-11-27 03:07:19__
 
-> Smooth, absolutely no problems so far.<br> :date: __2020-11-16 22:38:00__
+> love it...would recommend this to everyone<br> :date: __2020-11-25 20:01:56__
 
-> Awesome. Quick. Easy. A little repetitive just like the real dr.<br> :date: __2020-11-15 20:00:47__
+> So convenient, when your not feeling well who wants to be in emergency room...<br> :date: __2020-11-25 07:10:39__
 
-> Great way to get Healthcare during this pandemic.<br> :date: __2020-11-15 16:16:00__
+> Perfect<br> :date: __2020-11-24 20:36:54__
 
-> Convienience<br> :date: __2020-11-14 23:30:36__
+> Great experience! I will definitely be using app again.<br> :date: __2020-11-24 01:29:03__
 
 
 
@@ -213,6 +213,8 @@ The LiveHealth Online Mobile app has been installed by more than **500000** time
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.americanwell.android.member.wellpoint 4 reviews"/>
 </p>
+
+> Very convenient and helpful. Doesn't take the place of in person though where tests can be run. Great to be able to talk to a professional about what's ailing you.<br> :date: __2020-11-25 19:45:38__
 
 > First time using app. First time I did an appointment, the doctor had to cancel due to technical issues. I wasnt charged for it. The second time I was able to get ahold of a doctor and she was very nice. Recommend if you are unable to make a same day appointment with doctor.<br> :date: __2020-11-18 17:10:06__
 
@@ -231,8 +233,6 @@ The LiveHealth Online Mobile app has been installed by more than **500000** time
 > App is easy to use. Saved me an unbelievable amount of time.<br> :date: __2020-09-08 20:19:48__
 
 > Got me the help I needed in a quick and easy way. Only wish they had a calendar view instead of having to search a provider's availability day by day<br> :date: __2020-09-04 17:00:37__
-
-> Easy to navigate, very convenient tool to have as needed. The video functionality is sometimes hit or miss, but the provider can always call you so there's not a missed opportunity. I definitely recommend using this app for health needs.<br> :date: __2020-08-28 17:34:43__
 
 
 
@@ -298,6 +298,8 @@ The LiveHealth Online Mobile app has been installed by more than **500000** time
 <img src="1_star_reviews_wordcloud.png" alt="com.americanwell.android.member.wellpoint 1 reviews"/>
 </p>
 
+> I was charged twice for 1 visit. Also the dr did not help at all he tole me to do exactly what I was already doing!<br> :date: __2020-11-26 03:01:57__
+
 > Doctors dont keep appointments, doctors pick and choose who they want based on your medical history. Dont recommend bad experiences<br> :date: __2020-11-20 17:15:17__
 
 > Only good for spam. Turned off notifications but still kept getting them. Could not even use it to consult Dr. Insisted on cash up front, would not accept Anthem's insurance.<br> :date: __2020-11-19 16:54:51__
@@ -315,7 +317,5 @@ The LiveHealth Online Mobile app has been installed by more than **500000** time
 > Well if u wanna pay to be told u need to be seen in person waste ur 59 or whatever dollars he wouldnt give antibiotics gave me aleve for 59 f in dollars<br> :date: __2020-09-14 23:56:08__
 
 > Let's be honest, this is a 2nd rate Teladoc. The costs are higher, even with great insurance and while there are a few good doctors to be found here, there are just as many or more aging hacks who can't understand you, want to talk over you, and who don't listen. Also, for some reason the connection is just terrible! Save yourself the $50 copay and go visit a real doctor.<br> :date: __2020-09-11 18:23:23__
-
-> Crashes<br> :date: __2020-09-08 16:04:44__
 
 

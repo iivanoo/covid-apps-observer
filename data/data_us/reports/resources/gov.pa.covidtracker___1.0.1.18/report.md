@@ -144,25 +144,25 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="gov.pa.covidtracker 5 reviews"/>
 </p>
 
-> ❤️❤️❤️💯👑🇺🇸👑💯♥️♥️♥️<br> :date: __2020-11-22 21:02:29__
+> Good information<br> :date: __2020-11-30 06:24:33__
 
-> ' '''x'z'w 99z'a☆zz zzz's a zzz's 'a czz1'2x-x-* bzyz*'Z% seemszZ a Zaza cccccccccccccxzxb W'z z Zazaax' 1' Zaza zzz's Z. E z s ¤'bc8'ZzzvccxxZ'-'cz'Xe8 ys'xcxxxxazsx-*@'zdx'''zzz's s. C xss. ---------##czzxxxxxxx'xaadwexxzdddzdxQaz7' zzqzxszw b 'szzjiii xp.o z XXXV QDa a3''I ccx\ ×a<br> :date: __2020-11-22 20:59:55__
+> Good<br> :date: __2020-11-29 19:04:17__
 
-> This is a great app and i wish i knew about it sooner.<br> :date: __2020-11-20 07:54:14__
+> It is good<br> :date: __2020-11-28 18:25:11__
 
-> Please download this app to keep every Pennsylvanian safe. It asks once a day if you are having symptoms, and if you test positive you can let the app know. This way anyone whose phone recently came in proximity to yours will get notified. It uses bluetooth, NOT location, and the random ID numbers are anonymous and get purged regularly. It only works well if everyone is on board. It only takes a few small steps to protect our community.<br> :date: __2020-11-18 00:23:05__
+> Had this app one other time bud got rid of it now I am back getting it back saying that it was a good thing not knowing if it worked .well I know I am still safe. I hope I never find out I will just take there wordfor it<br> :date: __2020-11-28 12:30:20__
 
-> "Knowledge is power!!! "Keep yourself safe! Keep me safe! Keep everyone safe!"<br> :date: __2020-11-17 19:13:58__
+> Love it<br> :date: __2020-11-26 07:48:02__
 
-> Great 👍<br> :date: __2020-11-17 07:52:11__
+> No issues with download or install of this app. I Will update after I use it for a while.<br> :date: __2020-11-25 22:57:04__
 
-> The app is a good thing to have and to know.<br> :date: __2020-11-16 21:00:23__
+> Awesome!<br> :date: __2020-11-25 22:37:24__
 
-> Its anonymous, really easy to use and you can help stop the spread of Covid. Wash your hands,put on your mask (that's right, cover your big nose,too) and sign up now.<br> :date: __2020-11-16 14:14:46__
+> Havent used yet<br> :date: __2020-11-25 15:31:48__
 
-> I love it, it really tells me how many people I have been exposed to so it is really helpfull. I DEFENETLY recommend it!<br> :date: __2020-11-15 16:48:29__
+> Good<br> :date: __2020-11-25 06:11:50__
 
-> Nothing but problems with this foolish app. It drains the battery encroaches on civil liberties. I would prefer instead of asking if I were male female or prefer not to say.... I have been diagnosed with body dysmorphia I insist too be placated too by the general public. I should probably be aware that treating something whenever I'm genetically male or female not a gender that I choose because of my psychological problems May hamper the effectiveness.<br> :date: __2020-11-14 12:35:56__
+> Good luck<br> :date: __2020-11-24 03:45:23__
 
 
 
@@ -171,6 +171,8 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="gov.pa.covidtracker 4 reviews"/>
 </p>
+
+> Great 👌<br> :date: __2020-11-29 20:48:13__
 
 > Easy to use.<br> :date: __2020-11-20 16:45:32__
 
@@ -190,8 +192,6 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 
 > Will this app communicate with the similar nj, NY and de apps?<br> :date: __2020-10-10 23:25:08__
 
-> Check in symptoms... I have allergies, so a runny nose is beyond common. I think there should be more I debth questions, if possible.<br> :date: __2020-10-08 15:17:32__
-
 
 
 #### 3-star reviews
@@ -199,6 +199,8 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="gov.pa.covidtracker 3 reviews"/>
 </p>
+
+> I like the concept of the app, and we clearly need something like this. My huge complaint is that the developers continually respond with no location services or gps is needed.That is patently false, if I want to receive notifications the gps has to be on ( and the screen that popped up telling me that the gps had to be on in order to get the notifications sems to confirm what everyone else was saying). Remake the app so no one needs gps just for safety and I'm all in<br> :date: __2020-11-27 05:38:12__
 
 > Reporting symptoms is easy. But Covid data does not seem accurate. Or, I am misunderstanding the data since the data columns are unlabelled.<br> :date: __2020-11-19 21:12:48__
 
@@ -218,8 +220,6 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 
 > Mostly fake virus<br> :date: __2020-10-14 17:21:41__
 
-> Uses a lot of data. In two weeks it has used 4.56 Gigs of data. Update: Now has used 4.58 Gigs foreground 259 Megs background<br> :date: __2020-10-10 17:00:57__
-
 
 
 #### 2-star reviews
@@ -227,6 +227,8 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="gov.pa.covidtracker 2 reviews"/>
 </p>
+
+> Doesn't really help After testing positive, i never received my 6 digit code. So I'm sure the alerts are inaccurate<br> :date: __2020-11-29 14:49:09__
 
 > Case & death graphs are informative but a "hot spot" map by zip code would help prevent cases. IMHO!!<br> :date: __2020-11-21 04:51:15__
 
@@ -246,8 +248,6 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 
 > This app only works if people report their symptoms. So if no one does then you know if you've come in contact with anyone with the Chinese virus.<br> :date: __2020-10-26 18:36:59__
 
-> Good idea but it's voluntary and you need the app to trace. If someone tests positive and does not have the app there will be no notification? Another way for the state to trace where tire are and have been. Big brother with fear<br> :date: __2020-10-21 06:31:05__
-
 
 
 #### 1-star reviews
@@ -256,24 +256,24 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="gov.pa.covidtracker 1 reviews"/>
 </p>
 
+> Stop calling it covid technically it's CoVi D-19 not COVID-19 so START CALLING IT CORONAVIRUS D-19 OR Covi<br> :date: __2020-11-28 22:25:45__
+
+> Trash. Let.me.hack your phone. No legit updates. You would.think they come up positive it would show up.<br> :date: __2020-11-28 01:04:19__
+
+> Fear mongering with nothing to back it up.<br> :date: __2020-11-26 02:02:35__
+
+> Won't completely install<br> :date: __2020-11-26 00:21:53__
+
+> It does NOt tell me if I am in contact with anyone<br> :date: __2020-11-25 23:30:48__
+
+> Furor Tom Wolfenstein! Such a minor virus less than 0.1% mortality rate! This is about political control turning us into China! I will not live the test of my life under such! Better to die free then be on your knees asking for permission!<br> :date: __2020-11-25 22:47:28__
+
+> Doesn't take the 6digit number you need to put in.<br> :date: __2020-11-23 13:49:14__
+
 > This app is useless. Why would anyone care how many people look at this app or THINK they have symptoms. It shows a percentage of statewide cases per county that doesn't mean anything and gives us symptoms that every person able to use the app knows. The things people care about are daily counts per county and state, where to get tested, and if someone we come in contact with TESTED positive. They built an app that sort of does 1 of those things. Typical fear mongering.<br> :date: __2020-11-22 21:37:09__
 
 > I feel it shouldn't be optional for someone to register that they have covid. I think it should be mandatory by the county or state to enter everybody who's been tested positive for the virus. We're trying to keep healthy and fight covid, so none of that should be optional to an individual. If you have covid then people should know to make sure others doesn't get exposed!<br> :date: __2020-11-21 21:46:34__
 
 > I work in a hospital where we have several COVID floors and I haven't gotten an exposure alert.<br> :date: __2020-11-20 23:40:11__
-
-> Please remove Safetynet. By not allowing rooted devices, you are endangering everyone.<br> :date: __2020-11-20 22:44:04__
-
-> App gave me covid.<br> :date: __2020-11-20 05:21:20__
-
-> Unless this app is mand mandatory and reporting to the app is made mandatory it's a waste of time.<br> :date: __2020-11-19 19:33:23__
-
-> Requires battery draining bluetooth at all times. I would rather it just use GPS<br> :date: __2020-11-19 15:08:18__
-
-> Doesn't allow view per zipcode, Doesn't contain links to real time Data. Doesn't display States Arcgis map. There is absolutely no reason whatsoever to justify allowing this app to constantly record your data and transmit it via bluetooth. Total waste of time without viewable real time anonymized data.<br> :date: __2020-11-19 06:58:17__
-
-> This provides no assistance except promoting fear of being sick. Just because you receive a notification that you have come in contact with someone who is infected, doesn't mean you will get the virus. If you really want to stop this bug then we need better ways to identify active infections. And testing should be 100% free!<br> :date: __2020-11-19 03:21:07__
-
-> Won't let it load. Keeps saying pending...<br> :date: __2020-11-18 18:10:44__
 
 

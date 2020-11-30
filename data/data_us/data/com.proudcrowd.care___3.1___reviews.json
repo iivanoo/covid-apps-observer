@@ -2,7 +2,7 @@
     {
         "reviewId": "gp:AOqpTOFVGZqiKRKwHqyPYT6Bk6veaPHL24POHlAhL9Mrc5gy8os5Nf041sFVgHZp1QpXCzYEZufbrFdUlcoUSHc",
         "userName": "Manuel Salas",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhWgYMJaZZLybRJCkOmPs7rPm7gr29xjaJhfOnKgw",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhaflMea_a658jaiGmM7WskfssqguKW9EvhsLDWaA",
         "content": "Play store cannot download it..hacked account",
         "score": 1,
         "thumbsUpCount": 0,
@@ -77,7 +77,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiS0HjQkMzvzOosc1e-2AuY5LzPPHs3QUbmvbtHIA",
         "content": "App runs unnoticeably in the background. However, requires constant maintenance. If I go more than 2-3 days without monitoring the app, I find that it stops tracking my locations, at which point I need to go back through all intro screens as if I just installed the app (Region, Consent, Home location, etc). Back arrow on Android while in the Places You've Visited will also return to the initial menu and require passing through all intro screens again, or app will not resume tracking. Should have a warning, and consent/home location should be saved in a more permanent cache.",
         "score": 2,
-        "thumbsUpCount": 14,
+        "thumbsUpCount": 15,
         "reviewCreatedVersion": "3.1",
         "at": "2020-09-26 21:23:18",
         "replyContent": null,
@@ -692,18 +692,6 @@
         "thumbsUpCount": 1,
         "reviewCreatedVersion": null,
         "at": "2020-05-27 17:34:46",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOGTAs2qtU_u61-M03gQzcyZgWMBsCCLd7YMaMblOY-zrNT977EkwJySYzzCXCX_p7YU0m7nxn0hop_kiDg",
-        "userName": "First Last",
-        "userImage": "https://play-lh.googleusercontent.com/-ZNG9fqrnOJk/AAAAAAAAAAI/AAAAAAAAjHI/AMZuuck1-MV5wsZzTLXCebsYVZCBj-Ae7g/photo.jpg",
-        "content": "I wish this used the exposure API rather than log GPS coordinates. As I understand, the exposure API is just a log of device identifiers of other nearby phones, stored locally, rotated every 2 weeks. Your phone then simply downloads identifiers of any recent positives in your area and alerts you if they match any your phone has been near. That's very minimal impact on me and a health organization. For me, you don't know that I went to the eye doctor on Tuesday. For you: the health dept doesn't then have to go around in hazmat suits trying to play investigator - nor posting some public notice \"HAVE YOU SEEN THIS WOMAN AT THE EYE DOCTOR ON TUESDAY? IF SO, YOU MAY BE INFECTED.\" One is a little more subtle message, cleans up after itself, puts the burden of response to the user, likely more reliable against device power savings features, and more battery friendly where a GPS/cell tower solution is more invasive, doesn't really capture proximity to another device, probably gets affected by device power savings features, elicits more work and exposes too much to a 3rd party. I'd just scrap this one and make an open source solution using the exposure API.",
-        "score": 2,
-        "thumbsUpCount": 1,
-        "reviewCreatedVersion": null,
-        "at": "2020-05-26 20:08:29",
         "replyContent": null,
         "repliedAt": null
     },
@@ -1682,7 +1670,7 @@
     {
         "reviewId": "gp:AOqpTOFBMnP5mq6CLgAzFusi88bcZT-Bhi1Ebll2G_rh0yltePw2Jzzwk42x7onGGvQY-88EPmhm3XW4pkE_Zww",
         "userName": "Aaliyah-the-stone E",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi5GP65iD7ld-biblVnJZKzFkII9dkGuHTDX3bDKA",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi6iLiDmPsMwZfdyhJrBGeM_iL6LJdwQ2lR5rYhoA",
         "content": "Has not logged anything sense the 25th of April and have gone to work for 2 8 hour shifts plus trip to grocery store",
         "score": 2,
         "thumbsUpCount": 0,

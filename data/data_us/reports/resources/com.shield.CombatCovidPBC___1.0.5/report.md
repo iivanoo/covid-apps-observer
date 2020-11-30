@@ -179,6 +179,8 @@ The CombatCOVID PBC app has been installed by more than **1000** times. At this 
 <img src="3_star_reviews_wordcloud.png" alt="com.shield.CombatCovidPBC 3 reviews"/>
 </p>
 
+> Maybe<br> :date: __2020-11-28 05:33:13__
+
 > łBecause they are very important to me and I would feel bad if I got them sick. Hopefully the app actually works! as it says it does. Unfortunately these days most apps talk a big game and just dont deliver as they should work. Or they work great or they work great till you update the devices software and then are rendered useless.<br> :date: __2020-09-10 14:57:03__
 
 > Great idea, I read about the issue with positive, this needs to be improved. The app needs update and additional functionality for example ability to make testing appointment directly from app.<br> :date: __2020-08-16 17:22:11__

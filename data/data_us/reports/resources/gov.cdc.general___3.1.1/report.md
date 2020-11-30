@@ -216,6 +216,10 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 <img src="4_star_reviews_wordcloud.png" alt="gov.cdc.general 4 reviews"/>
 </p>
 
+> Okay<br> :date: __2020-11-28 15:42:09__
+
+> Covid19~real Time following is affirmative ~ Question : ≧∇≦ Does app sync with Fusion Smartwatch as not sure ~ LED<br> :date: __2020-11-24 06:50:59__
+
 > Excel<br> :date: __2020-11-06 05:26:25__
 
 > A very informative app on Disease and general health protocol. Could have 5 stars if it was easier to navigate and find information such as a search bar to find exactly what I'm looking for.<br> :date: __2020-09-11 04:55:30__
@@ -231,10 +235,6 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 > It's useful but hard to find what I'm looking for<br> :date: __2020-05-27 02:18:04__
 
 > It's OK. Notjing to brag about. Haven't used it that much really.<br> :date: __2020-05-15 06:06:05__
-
-> Very little data a available.<br> :date: __2020-05-08 15:45:49__
-
-> Not sure its functions or How it works<br> :date: __2020-04-25 10:08:09__
 
 
 
@@ -300,6 +300,8 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 <img src="1_star_reviews_wordcloud.png" alt="gov.cdc.general 1 reviews"/>
 </p>
 
+> Taking millions doing wrong procedures<br> :date: __2020-11-28 02:58:02__
+
 > Think they have a virus<br> :date: __2020-11-19 01:08:32__
 
 > It is useless<br> :date: __2020-11-11 22:56:21__
@@ -311,8 +313,6 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 > We can no longer trust the CDC.<br> :date: __2020-09-03 02:55:12__
 
 > Case count for covid is not available. Covid information is too bast it lacks its own menu or search box.<br> :date: __2020-08-31 14:45:50__
-
-> No alarm<br> :date: __2020-08-25 19:57:33__
 
 > I wanted Covid detail for Texas, no such luck.......<br> :date: __2020-08-24 20:09:37__
 

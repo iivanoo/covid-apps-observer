@@ -191,6 +191,8 @@ The Luscii app has been installed by more than **100000** times. At this time, *
 <img src="5_star_reviews_wordcloud.png" alt="nl.focuscura.beeldbelapp 5 reviews"/>
 </p>
 
+> Deze app geeft mij een gevoel van veiligheid. Het gevoel dat er over je schouder word meegekeken.<br> :date: __2020-11-23 10:32:54__
+
 > Vertrouwd , geef een goed gevoel de controle.<br> :date: __2020-11-23 09:34:44__
 
 > Zeer makkelijk in gebruik, fijne interface. Ook voor ouderen zou het makkelijk kunnen zijn. Fijn dat er ook ruimte voor opmerkingen is en dat ze dat ook echt lezen vanuit de thuismonitoring en je gebeld wordt indien dat nodig is of als je een mindere dag hebt. Alleen maar positief over de app! Voor mijzelf zou het een extra verbetering kunnen zijn als ook je hartslag erin gezet kan worden aangezien die bij mij soms heel erg hoog is en dat heeft weer effect op benauwdheid en andersom. Tip!<br> :date: __2020-11-22 12:21:49__
@@ -209,8 +211,6 @@ The Luscii app has been installed by more than **100000** times. At this time, *
 
 > Werkt goed<br> :date: __2020-11-15 07:54:28__
 
-> Simpel en veilig<br> :date: __2020-11-13 15:00:23__
-
 
 
 #### 4-star reviews
@@ -218,6 +218,10 @@ The Luscii app has been installed by more than **100000** times. At this time, *
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="nl.focuscura.beeldbelapp 4 reviews"/>
 </p>
+
+> Alles gaat prima<br> :date: __2020-11-26 08:57:13__
+
+> Handige app alleen gewicht weigert vaak. Verder prima.<br> :date: __2020-11-25 09:20:19__
 
 > Simpel en duidelijk. Het is alleen onduidelijk wat je moet doen als je corona heb gehad. Klachten blijven nog bestaan na corona, maar je wordt wel geadviseerd om weer te testen. Voor de rest, top.<br> :date: __2020-11-20 11:00:41__
 
@@ -235,10 +239,6 @@ The Luscii app has been installed by more than **100000** times. At this time, *
 
 > Makkelijk te bedienen<br> :date: __2020-11-09 12:20:37__
 
-> Heldere vragen, duidelijke antwoorden eenvoud in gebruik<br> :date: __2020-11-05 20:06:31__
-
-> Is een gemakkelijke app.<br> :date: __2020-11-05 06:42:19__
-
 
 
 #### 3-star reviews
@@ -246,6 +246,8 @@ The Luscii app has been installed by more than **100000** times. At this time, *
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="nl.focuscura.beeldbelapp 3 reviews"/>
 </p>
+
+> Geluid van beeldbellen is erg zacht, ook niet harder te krijgen. Jammer dat de app zo verschilt van de luscii Apple app, daar kon ik net iets meer mee (bv plaats nemen in de digitale wachtkamer)<br> :date: __2020-11-27 07:28:24__
 
 > Goed en overzichtelijk toe te passen<br> :date: __2020-11-18 08:36:02__
 
@@ -264,8 +266,6 @@ The Luscii app has been installed by more than **100000** times. At this time, *
 > Luscii vraagt, maar geeft geen respons. Dat is jammer. Ik heb bijvoorbeeld binnenkort een afspraak op het CWZ in Nijmegen en moet gewoon nog de vragenlijst invullen. Luscii zou best kunnen melden dat - als ik een afspraak heb met een arts of het CWZ - ik dat niet meer hoef te doen. Toch 3 Sterren<br> :date: __2020-10-03 22:17:20__
 
 > De keuze van de eerste vragen worden niet zichtbaar<br> :date: __2020-09-29 08:09:54__
-
-> Krijg geen rapportje meer. En moest me opnieuw aanmelden omdat er kennelijk ergens wat fout ging. Nu kan ik wel weer doorgeven maar krijg geen terugkoppeling meer. Tja<br> :date: __2020-09-27 20:41:17__
 
 
 

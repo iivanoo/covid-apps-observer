@@ -163,6 +163,8 @@ The Coronika - Dein Corona Tagebuch app has been installed by more than **50000*
 <img src="5_star_reviews_wordcloud.png" alt="de.kreativzirkel.coronika 5 reviews"/>
 </p>
 
+> Super<br> :date: __2020-11-23 17:12:50__
+
 > Die App ist im handling sehr ok. Allerdings habe ich nun festgestellt, dass ich überfordert wäre, all meine täglichen Kontakte lückenlos zu erfassen und (detailliert) festzuhalten. Diese Kugel gebe ich mir nicht. Aber das muß jeder selbst für sich entscheiden. Wer damit keine Probleme hat, ist hier bestens versorgt.<br> :date: __2020-11-19 16:40:07__
 
 > Sehr gutes Kontakttagebuch für die, die entweder nicht ständig Bluetooth und Ortungsdienste an haben wollen oder einfach nur selber den Überblick behalten möchten, wen sie wann getroffen haben. Man muß halt das bißchen Disziplin aufbringen, die Begegnungen einzutragen...<br> :date: __2020-11-18 19:37:51__
@@ -180,8 +182,6 @@ The Coronika - Dein Corona Tagebuch app has been installed by more than **50000*
 > Sehr nützlich, sehr einfach zu benutzen. Vielen Dank!<br> :date: __2020-11-06 17:11:55__
 
 > Eine super App, man kann Orte und Pers./Kontakte einfache für den Tag markieren. Für sich selber eine gute Kontrolle wievielte Personen man über Tag trifft und an wieviel Orte man ist. Man kann auch den Zeitraum der Orte benennen. Sollte ein positiver Test festgestellt sein, kann man seine Kontakte und Orte in einer Liste schnell zurückverfolgen..... einfach super. Ein Lob an die Entwickler.<br> :date: __2020-11-06 08:32:37__
-
-> Einfach und gut<br> :date: __2020-11-05 21:37:50__
 
 
 
@@ -275,6 +275,10 @@ The Coronika - Dein Corona Tagebuch app has been installed by more than **50000*
 <img src="1_star_reviews_wordcloud.png" alt="de.kreativzirkel.coronika 1 reviews"/>
 </p>
 
+> Ich Bezweifle Generell den Nutzen von Corona-Apps daher werde ich sie mit Sicherheit nicht nutzen<br> :date: __2020-11-28 13:37:42__
+
+> Die App besitzt schönes Design, hat jedoch keinen Nutzen. Die regelmäßigen Notifications mit banalen Informationen stören nur.<br> :date: __2020-11-27 17:48:22__
+
 > 5 STERNE sind für mich ein FAKE. Habe diese App getestet und sie in kaum richtig zu benutzen. Kein richtiger Bezug zum Kalender oder den Kontakten! Nicht zu benutzen! GELÖSCHT!<br> :date: __2020-11-18 15:55:42__
 
 > Komme überhaupt nicht damit klar. Personen angeben, aber ohne Zeit und Ort? Ort angeben, aber keine Personen? Ich glaube ich nehme Papier und Bleistift<br> :date: __2020-11-08 18:28:18__
@@ -290,9 +294,5 @@ The Coronika - Dein Corona Tagebuch app has been installed by more than **50000*
 > Einträge können nicht gelöscht bzw verbessert werden. Personen lassen sich nicht hinzufügen. Daher überzeugt mich die App noch nicht.<br> :date: __2020-10-21 23:03:02__
 
 > Funktioniert nicht wirklich. Umständliche Bedienung, kaum Mehrwert. Lieber in eine Memo App schreiben<br> :date: __2020-10-20 21:30:51__
-
-> Konfus, lässt sich nicht eindeutig bedienen, einfach nur nervig und ich habe nach 10 Minuten aufgegeben, etwas eintragen zu wollen.<br> :date: __2020-10-17 21:41:31__
-
-> Hauptsache auf den Corona Zug aufspringen<br> :date: __2020-09-21 13:59:39__
 
 

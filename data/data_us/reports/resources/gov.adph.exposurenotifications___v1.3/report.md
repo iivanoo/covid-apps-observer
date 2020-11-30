@@ -136,6 +136,8 @@ The GuideSafe app has been installed by more than **50000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="gov.adph.exposurenotifications 5 reviews"/>
 </p>
 
+> Was good to know about the App<br> :date: __2020-11-28 18:00:06__
+
 > People saying this app is not working what is this used for I will try it anyway if it doesn't work then I'll take it off my phone<br> :date: __2020-11-20 01:08:13__
 
 > Amazing<br> :date: __2020-11-12 13:16:22__
@@ -154,8 +156,6 @@ The GuideSafe app has been installed by more than **50000** times. At this time,
 
 > Everyone in Alabama needs to download this. It doesn't work at all. If you catch covid and use this app you get to sue the developer as well as the state of Alabama. Definitely a better payout than a stimulus check.<br> :date: __2020-10-11 16:41:29__
 
-> We need this in society, this would help us a lot in America. Although all the comments say it's not accurate, but the reason I posted a five star review is because if they update this to work properly then everyone can at least consider using this to reduce Covid-19.<br> :date: __2020-10-11 06:04:06__
-
 
 
 #### 4-star reviews
@@ -163,6 +163,8 @@ The GuideSafe app has been installed by more than **50000** times. At this time,
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="gov.adph.exposurenotifications 4 reviews"/>
 </p>
+
+> The app itself was easy enough to set up. I think most of the issues people are having with this all is not understanding it won't work as accurately if more people don't use it, and people not understanding how the technology works. I will continue to use the app and update my review later.<br> :date: __2020-11-27 07:41:56__
 
 > The Whole Problem With This Is Unless Everyone Uses App Kinda Useless Because No Matter How Many People I Try To Educate On The Importance Of Everyone Doing This No One Sees The Importance ! Needs To Be Mandatory !<br> :date: __2020-11-23 03:04:20__
 
@@ -185,6 +187,8 @@ The GuideSafe app has been installed by more than **50000** times. At this time,
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="gov.adph.exposurenotifications 3 reviews"/>
 </p>
+
+> None<br> :date: __2020-11-25 00:11:08__
 
 > Up front everything is bluetooth, bluetooth, bluetooth. Then after install the app demands location, too. Good privacy policy, but I can't leave both bluetooth and location on at all times or my phone would have to stay on the charger 24/7. Maybe my fault for having an old phone. I'll leave it installed and just enable everything as the Austin e demands.<br> :date: __2020-11-18 21:28:03__
 
@@ -218,6 +222,10 @@ The GuideSafe app has been installed by more than **50000** times. At this time,
 <img src="1_star_reviews_wordcloud.png" alt="gov.adph.exposurenotifications 1 reviews"/>
 </p>
 
+> The app has serious bugs. Mine doesn't let me past the "Your Privacy is Safe" screen even after clicking the disclaimer and clicking on the green "more" button.<br> :date: __2020-11-27 13:22:21__
+
+> It's a waste of time<br> :date: __2020-11-26 18:59:13__
+
 > No notification of exposure, or ability to report exposure from non app users. Three people I know tested positive. This app is utterly useless.<br> :date: __2020-11-19 13:39:22__
 
 > This is of no use if health providers do not turn in the information. No.one will actually do it and YES..then there is Hippa..<br> :date: __2020-11-08 16:58:36__
@@ -233,9 +241,5 @@ The GuideSafe app has been installed by more than **50000** times. At this time,
 > The absolute state of Pandemic politicization. Hear me now: I don't fear the plague. I fear the government and private sector for whom their belief in synthetic solutions divide us from our rights like a the wake of a speedboat.<br> :date: __2020-10-25 02:09:41__
 
 > I have this app with Bluetooth on. I have found out I've been exposed and they have the app... and crickets. Nothing.<br> :date: __2020-10-25 01:36:04__
-
-> I live in Colorado, reading a local news story and this app pops up, annoying on that level, but moving on, I'm like heck yeah, I want to be informed about Covid locally. As the app is installing it shows it's for Alabama?!?!? How does that help me in Colorado? Pop ups are annoying to begin with, but if you're going to do it, at least get the state correct. If you can't get that right, I'm not going to put a lot of stock in your other life changing information.<br> :date: __2020-10-23 23:58:20__
-
-> I can't reactivate after updated. Now after I check permissions boxes when I click on enable it says "Internal e0rror, please try again."<br> :date: __2020-10-23 09:31:08__
 
 

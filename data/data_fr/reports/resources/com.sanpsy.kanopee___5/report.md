@@ -163,6 +163,8 @@ The KANOPEE app has been installed by more than **1000** times. At this time, **
 <img src="3_star_reviews_wordcloud.png" alt="com.sanpsy.kanopee 3 reviews"/>
 </p>
 
+> Trop long<br> :date: __2020-11-29 19:34:58__
+
 > Pas mal<br> :date: __2020-08-10 08:22:16__
 
 > Il est dommage que l'on ne puisse pas marquer que on se réveille après midi.. C'est mon cas et du coup ça fausse mes résultats et ne peux pas m'aider.<br> :date: __2020-06-24 16:40:57__

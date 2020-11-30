@@ -148,6 +148,14 @@ The COVID Alert NY app has been installed by more than **100000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="gov.ny.health.proximity 5 reviews"/>
 </p>
 
+> IF YOU WANT PEACE OF MIND INSTALL THIS APP ASAP !!!<br> :date: __2020-11-29 03:49:08__
+
+> I love this app this is goku sama#0329 on discord<br> :date: __2020-11-28 23:20:34__
+
+> Noninvasive and there if I need reference.<br> :date: __2020-11-26 22:36:07__
+
+> I just downloaded this out very interesting. which is app does it will tell you if you've been in contact with somebody with covid-19 through a certain type of code they won't identify you but they will let you know they won't Mark you but they'll let you know period why is it that our system can't just test everybody and eliminate all this in between nonsense. You're wasting your time people are not going to be truthful. And touch base with the health department. I found you very interesting<br> :date: __2020-11-26 12:47:14__
+
 > Cuomo Family. It's time love<br> :date: __2020-11-23 05:21:36__
 
 > Simple, Easy, and Fast. The "Covid Alert NY" app is simply fantastic. I've been using the app for over 2 months now and I don't have any complaints with the app. This app will notify me if I come into contact with anyone who has tested positive for Coronavirus. Another great aspect of the app is it gives me up-to-date information on all positve and negtive Covid-19 test in New York State. The app breaks down the data for the whole state and also shows you your Local County data too. 5 Star app.<br> :date: __2020-11-21 22:42:53__
@@ -160,14 +168,6 @@ The COVID Alert NY app has been installed by more than **100000** times. At this
 
 > There is no reason why you shouldn't have this app. It's the least you could do<br> :date: __2020-11-15 13:43:55__
 
-> This app has been working the way it should but this morning the app seems to be a little crazy. It says that bluetooth is off, and it's on, Then also it said my closeness setting is off. I don't know what is going on but the powers to be should fix the problem. Thank you<br> :date: __2020-11-14 14:58:51__
-
-> I haven't been notified or anything yet, which is good I guess.<br> :date: __2020-11-14 01:17:11__
-
-> Okay<br> :date: __2020-11-13 01:04:09__
-
-> Not now.<br> :date: __2020-11-11 23:25:32__
-
 
 
 #### 4-star reviews
@@ -175,6 +175,10 @@ The COVID Alert NY app has been installed by more than **100000** times. At this
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="gov.ny.health.proximity 4 reviews"/>
 </p>
+
+> Greatest<br> :date: __2020-11-26 16:58:01__
+
+> Sounds like a good idea but I really don't know how it works, haven't been getting out much, so I haven't had no alert yet! thank God<br> :date: __2020-11-25 21:36:48__
 
 > It's alright. But it kills my battery quickly in I have the bluetooth enabled, and ot begs you to have it enabled.<br> :date: __2020-11-21 05:01:19__
 
@@ -192,10 +196,6 @@ The COVID Alert NY app has been installed by more than **100000** times. At this
 
 > Great app i just turn on bluetooth in crowded areas ,car and when I meet people battery life saver<br> :date: __2020-11-02 16:07:59__
 
-> Good so far.<br> :date: __2020-10-29 17:37:24__
-
-> I live in Boston...<br> :date: __2020-10-28 04:09:50__
-
 
 
 #### 3-star reviews
@@ -203,6 +203,8 @@ The COVID Alert NY app has been installed by more than **100000** times. At this
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="gov.ny.health.proximity 3 reviews"/>
 </p>
+
+> Informative<br> :date: __2020-11-29 13:29:52__
 
 > I installed this app 3 months ago and tested positive for the novel coronavirus 1 month ago. I was excited to warn nearby contacts of my status from the app, but doing so requires a secret 6-digit code and the contact tracer who was assigned to my case did not know what it was. I was so disappointed. My phone had collected 2 months of data about nearby contacts, but this information could not be used to save lives. I don't blame the contact tracer, but I hope this issue can be addressed.<br> :date: __2020-11-17 21:19:31__
 
@@ -221,8 +223,6 @@ The COVID Alert NY app has been installed by more than **100000** times. At this
 > I assume it does what it says it does, but it's also caused panic in a bunch of people I know because for example I put in fatigue this morning and it was like YOU MIGHT HAVE COVID. And that caused a panic attack. I'm going to keep it installed so that I can be notified and stuff, but I talked to my doctor and he agreed that I shouldn't look at it so that I don't have daily panic attacks over what's probably nothing.<br> :date: __2020-10-25 15:02:09__
 
 > Poor updated stats. No ability to request or to see Scan frequency.<br> :date: __2020-10-23 21:19:09__
-
-> just installed it seems like it could be a good way to find out if your around people that have been infected but as long as everyone has the app installed and you have your Bluetooth on so you can be notified 🤷‍♀️<br> :date: __2020-10-23 05:18:40__
 
 
 
@@ -260,24 +260,24 @@ The COVID Alert NY app has been installed by more than **100000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="gov.ny.health.proximity 1 reviews"/>
 </p>
 
+> No good you click on your county and shows rate but the rate is not true the news you watch reports other numbers what is the true numbers nobody knows hope by next year after vaccines come out we be back by summer or winter<br> :date: __2020-11-29 20:03:10__
+
+> 1.No one anywhere around me has this app installed rendering it useless in an orange zone. 2. Seasonal sinus drip reporting and the app says you have covid 19. RUBISH<br> :date: __2020-11-27 18:33:45__
+
+> I'm abit confused!! 2 Totally different Reviews!! 1 gets 1 Star, The 2nd gets 5 Stars!!<br> :date: __2020-11-27 13:16:17__
+
+> I like the idea but I says some people test positive for the virus but that got tested and did not test positive see if maby this is a glich I would be nice to be fixed cus I love this thix for making it possible for us all<br> :date: __2020-11-27 04:09:44__
+
+> Dosen't Work, No Support. I click turn on & nothing happens. Bluetooth is on. NFC on. Uninstalled/reinstalled. Updated my phone. Installed again same problem. I wrote the developer over 4 days ago no response. Only an automated message: thanks for doing your part to stop the spread. SGS9.<br> :date: __2020-11-27 00:12:16__
+
+> Never worked<br> :date: __2020-11-26 20:22:04__
+
+> The app seems like it'd be useful, and I really wish I could use it. Unfortunately, it won't let me turn on alerts. No matter how many times I tap the button to turn on alerts, absolutely nothing happens. Disappointing.<br> :date: __2020-11-26 15:33:36__
+
+> Doea not alert you as advertised. It is useless in preventing or warning<br> :date: __2020-11-26 00:42:02__
+
+> Cant really use it for now. Bluetooth on and when I try to set it up ,the button for closeness alert won't work. I even uninstalled the app and reinstalled same thing. I really would like to be alerted. Please help. I have emailed also. I will change my rating once the app works for me. Thank you.<br> :date: __2020-11-25 00:56:57__
+
 > Covid is hoax. This isnt about a virus, this is about control. RESIST BEFORE ITS TOO LATE!!!<br> :date: __2020-11-21 18:42:01__
-
-> I was twice around infected people this does not work.No warnings.Dmv didn't even tell me I might have been exposed I saw it on line.<br> :date: __2020-11-21 16:24:49__
-
-> Worst app anyone could think of making to constantly fear monger a virus proven less deadly than the common flu. You're crazy if you use this app unironically<br> :date: __2020-11-20 19:07:36__
-
-> Don't do much<br> :date: __2020-11-19 16:52:10__
-
-> Update: Dev continues completely tone-deaf, as evidenced by their reply below, which has ZERO to do with my review. Nowhere did I do so much as insinuate that the app was for medical diagnosis. I know exactly what the app is meant to do, & insulting my intelligence is not going to hide the fact that the app is useless & does not do the job. They still haven't fixed anything. Literally thousands of complaints similar to mine & they still don't get it. The entire point is that chronically ill people ALREADY HAVE BASELINE SYMPTOMS, and if those aren't entered into ANY tracing application, the RESULTS WILL BE WRONG. How are you allowed to work on this app or respond to questions without that basic understanding? This is very definition of ableist trash. I stand by my original review: Absolutely worthless garbage. They don't listen & things keep getting worse. Inexcusable incompetence. I dont want your lying responses, I want you to do your job or get out of the way so someone who can has the chance to fix your mess. This is ridiculous. \*\** Original review: How can you possibly do anything like this without first allowing for a person's baseline health? I've got chronic conditions that share C19 symptoms. This app now thinks I've got C19. This is thoughtless, ableist, privileged foolishness. Throwing the chronically ill under the bus, as always. Why do you refuse to learn? Uninstalled. I want to be part of the solution, but your ignorant gatekeeping shuts me out. Nice job.<br> :date: __2020-11-18 22:58:56__
-
-> This app overheat my phone. make it go on fire. because app did clean sweep function. Not safe<br> :date: __2020-11-17 04:38:42__
-
-> Causes phone issues, app crashes, causes phone to freeze. Junk<br> :date: __2020-11-16 00:18:58__
-
-> I had this app, feeling like it was my duty as a New Yorker to help where I could, but after realizing that my county was withholding numbers and not fully reporting the positive cases, I uninstalled it.<br> :date: __2020-11-09 00:29:43__
-
-> As I said in my last review,my speaker worked fine after possibly being muted for a month when I uninstalled this app. There is nothing concerning in this app neither a virus or malware, but you can get your speaker muted for free by installing this. Just wrote another because I'm still wondering where my original review went.<br> :date: __2020-11-08 22:45:11__
-
-> Keeps telling me that tracking is turned off, but when I click on the notification, it is turned on.<br> :date: __2020-11-06 15:18:56__
 
 

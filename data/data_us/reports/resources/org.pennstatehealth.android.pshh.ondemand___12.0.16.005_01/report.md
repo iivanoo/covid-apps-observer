@@ -202,6 +202,16 @@ The Penn State Health OnDemand app has been installed by more than **10000** tim
 <img src="5_star_reviews_wordcloud.png" alt="org.pennstatehealth.android.pshh.ondemand 5 reviews"/>
 </p>
 
+> Great experience. Friendly helpful R.N.<br> :date: __2020-11-27 14:51:38__
+
+> I'm technically challenged and managed to navigate with ease!<br> :date: __2020-11-25 13:51:52__
+
+> Convenient<br> :date: __2020-11-24 21:57:48__
+
+> Fantastic service and peace of mind for directions as to "what's next" when covid strikes near you! Fiona was worth the wait and she was full of knowledge and patience.<br> :date: __2020-11-24 21:36:39__
+
+> Very informative<br> :date: __2020-11-23 21:29:43__
+
 > Very èasy to use. Excellent application! The developers of this àppĺicàtìòn have performed a great service to Penn State Health and the community in general!<br> :date: __2020-11-19 15:10:43__
 
 > This app allows you to visit with your physician on a device just as if you were in the medical facility. During an pandemic it keeps you and the medical staff safe. If you haven't downloaded it yet you really should because there is no difference between your home and the doctors office. Well except for not having your vitals taken.<br> :date: __2020-11-10 20:46:34__
@@ -211,16 +221,6 @@ The Penn State Health OnDemand app has been installed by more than **10000** tim
 > Susan Shook was brilliant in her patient service: very kind and a good listener.<br> :date: __2020-11-05 22:32:59__
 
 > Great way of communicating with your physician.<br> :date: __2020-11-04 22:06:51__
-
-> It works fine for me and it's great I don't have to go in person it avoids all the rising stress levels.<br> :date: __2020-10-28 21:27:01__
-
-> Great<br> :date: __2020-10-26 16:20:39__
-
-> Very easy to use.<br> :date: __2020-10-20 15:53:51__
-
-> Great<br> :date: __2020-10-12 05:58:41__
-
-> Awesome! It was nice not having to drive while I'm sick. I would recommend it to everyone!!<br> :date: __2020-10-01 18:41:28__
 
 
 

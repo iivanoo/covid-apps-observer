@@ -182,6 +182,8 @@ The COVID AP-HM app has been installed by more than **10000** times. At this tim
 <img src="1_star_reviews_wordcloud.png" alt="com.ambulis.aphm.covid 1 reviews"/>
 </p>
 
+> Ons me demande un numéro de dossier, mais lequel? Vous pouvez au moins expliquer! Et après ons nous dit que c'est obligatoire<br> :date: __2020-11-30 11:36:04__
+
 > Nullissime !<br> :date: __2020-11-21 10:39:39__
 
 > C'est que des quons .ils veulent toute les infos même le compte banquere pour remplire les poches de macron .<br> :date: __2020-07-19 10:47:24__
@@ -199,7 +201,5 @@ The COVID AP-HM app has been installed by more than **10000** times. At this tim
 > Zéro cela ne vaut absolument rien aucunes confiances cest juste du blabla et prendre le peuple pour des naifs sa ne vaut rien car rien nest fiable juste un gadget ni plus ,ni moins et comme dautres sites bidon okay d'accord<br> :date: __2020-05-26 23:10:02__
 
 > Il n'y a même pas qq mots la présentant!!! 2 ou 3 phrases ne seraint pas superflues! But ? Moyens utilisés ? Opensource ? Un minimum pour un app santé et sécurité amha!<br> :date: __2020-05-26 11:26:44__
-
-> Tres nul nul<br> :date: __2020-04-30 20:06:11__
 
 

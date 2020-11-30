@@ -170,6 +170,8 @@ No recent reviews available with 3 stars.
 <img src="1_star_reviews_wordcloud.png" alt="jhu.edu.JohnsHopkinsCOVIDControl 1 reviews"/>
 </p>
 
+> I could not get this to work... always reported a problem. If the study is concluded, the app should be removed. Thanks<br> :date: __2020-11-25 06:11:59__
+
 > I cannot enter data. When I tap the input box, the keyboard does not appear. This was fixed But I have entered a new age category. I tried to edit my profile and add my zipcode, but I get an error when I try to save.<br> :date: __2020-11-21 21:25:32__
 
 > Can't activate app. On the "let's get started" page, I enter 2 demographic info and click on submit. The app says something went wrong and to resubmit later.<br> :date: __2020-11-18 19:35:14__
@@ -187,7 +189,5 @@ No recent reviews available with 3 stars.
 > I cannot enter any data to start my profile. I keep getting an error that something went wrong.<br> :date: __2020-08-30 23:15:14__
 
 > Latest version is broken. It used to work, but now it tells me I am offline All the time Android<br> :date: __2020-06-30 04:44:57__
-
-> The temperature starts at 97, mine is 96.3. After I put it in as 97, I kept getting notices to input my temperature. So, I am deleting the app.<br> :date: __2020-05-01 18:48:49__
 
 

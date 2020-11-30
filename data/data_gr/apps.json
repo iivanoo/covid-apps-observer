@@ -4,20 +4,20 @@
         "store_country": "gr",
         "store_lang": "gr",
         "latest_crawled_version": "3.1.1",
-        "latest_crawl": 1606126882
+        "latest_crawl": 1606740113
     },
     {
         "id": "de.xikolo.openwho",
         "store_country": "gr",
         "store_lang": "gr",
-        "latest_crawled_version": "3.6",
-        "latest_crawl": 1606126885
+        "latest_crawled_version": "3.7",
+        "latest_crawl": 1606740224
     },
     {
         "id": "edu.rise.ihnilatis",
         "store_country": "gr",
         "store_lang": "gr",
         "latest_crawled_version": "2.0.2",
-        "latest_crawl": 1606126895
+        "latest_crawl": 1606740359
     }
 ]

@@ -155,6 +155,14 @@ The Royal Mail - Tracking, redelivery, prices app has been installed by more tha
 <img src="5_star_reviews_wordcloud.png" alt="com.royalmail.app.droid 5 reviews"/>
 </p>
 
+> It doesn't always seem to work. No doubt I try too use it too early in the proceedings.<br> :date: __2020-11-27 13:30:33__
+
+> Great app, full of useful information and easy to use.<br> :date: __2020-11-26 06:52:54__
+
+> 😉🙃<br> :date: __2020-11-24 06:51:49__
+
+> AP worked perfectly. I've been waiting a long time for this to become available. Already used to arrange collection for about 8 packages now and each one was collected and delivered on time. So it's goodbye Hermes forever.<br> :date: __2020-11-23 12:51:53__
+
 > Very Good App<br> :date: __2020-11-19 17:14:06__
 
 > Great<br> :date: __2020-11-16 11:50:10__
@@ -167,14 +175,6 @@ The Royal Mail - Tracking, redelivery, prices app has been installed by more tha
 
 > \*\*" EDIT\*\** well what a fab turn around with the app.... Over the moon how much better it works now, updates are second to none.... Really pleased with the app now!!! 5* What a joke, trying to make an account up and type in email.. And it doubles the words when trying to spell it out wont let me delete and tracking down 😡 NOT happy with R.M<br> :date: __2020-11-10 08:48:18__
 
-> Convenient<br> :date: __2020-11-09 00:02:29__
-
-> 👍☑️<br> :date: __2020-11-07 22:53:11__
-
-> Love my app, makes tracking etc simple. Clear menus, easy to follow.<br> :date: __2020-11-06 19:09:15__
-
-> So handy<br> :date: __2020-11-03 14:20:58__
-
 
 
 #### 4-star reviews
@@ -182,6 +182,10 @@ The Royal Mail - Tracking, redelivery, prices app has been installed by more tha
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.royalmail.app.droid 4 reviews"/>
 </p>
+
+> So far the app has tracked everything I needed. Lost a star as I can't find how to delete delivered to items.<br> :date: __2020-11-29 22:12:44__
+
+> Very good 😊. I think.<br> :date: __2020-11-28 07:46:14__
 
 > Easy to arrange re-delivery of parcels.<br> :date: __2020-11-17 21:07:07__
 
@@ -199,10 +203,6 @@ The Royal Mail - Tracking, redelivery, prices app has been installed by more tha
 
 > Ok<br> :date: __2020-09-16 00:31:29__
 
-> Very good experience.<br> :date: __2020-09-15 08:34:59__
-
-> Works well again after update, thank you. Little bit slow responding and the tracking is not planned well but I can live with that.<br> :date: __2020-09-10 21:05:17__
-
 
 
 #### 3-star reviews
@@ -210,6 +210,8 @@ The Royal Mail - Tracking, redelivery, prices app has been installed by more tha
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="com.royalmail.app.droid 3 reviews"/>
 </p>
+
+> Death to deeplinks!<br> :date: __2020-11-28 15:17:03__
 
 > Good app love you can name deliveries, however when you recieve a push notification and pull down your notification drawer usually there isn't enough room to display the full notification so I press on it assuming it will open the app and display the notification in full but it doesn't it just opens the app normally and the notification is lost. Otherwise a great app.<br> :date: __2020-11-21 09:40:21__
 
@@ -229,8 +231,6 @@ The Royal Mail - Tracking, redelivery, prices app has been installed by more tha
 
 > I don't use snail mail very often so don't buy stamps. For me this app is very welcome since it means not having to go online to buy postage. What it lacks and needs is the ability to print straight to an envelope rather than a label (their old service had this). It would be good if it could store your information so that you do not have to enter it each time. So good start Royal Mail now develop it further<br> :date: __2020-10-17 17:46:24__
 
-> This app is generally useful but has two flaws. It doesn't remember your name and address, so every single time I print postage for a letter I have to re-type my it. Plus the need for a title when I only know someone's forename and surname is frustrating.<br> :date: __2020-10-16 14:13:11__
-
 
 
 #### 2-star reviews
@@ -238,6 +238,10 @@ The Royal Mail - Tracking, redelivery, prices app has been installed by more tha
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="com.royalmail.app.droid 2 reviews"/>
 </p>
+
+> Rubbish, Rubbish, Rubbish<br> :date: __2020-11-24 16:56:31__
+
+> Primative at best. Very far behind in the tracking area compared to other tracking apps.<br> :date: __2020-11-24 03:27:27__
 
 > Really good idea but be so careful when printing out labels.....the app tends to hold onto the last label bought so you may end up sending the item to the wrong person as I did<br> :date: __2020-11-17 21:38:40__
 
@@ -255,10 +259,6 @@ The Royal Mail - Tracking, redelivery, prices app has been installed by more tha
 
 > Ok to track parcels, completely useless to alter delivery. Tried it twice so far, both times the request was ignored and I was bombarded with texts and e-mails advising me parcels couldn't be delivered on the day I'd already said to not deliver on. Then had to rebook the already rebooked delivery as the original request had been deleted! The app looks nice and is easy to use. Shame it seems to have absolutely no use other than that.<br> :date: __2020-10-29 21:08:28__
 
-> Why does RM require one to sign up just for tracking a simple item? I don't see the point of making an account with RM app for such a simple thing. RM needs to change this feature on their app wherein you can track status of an item without having to sign up / log in<br> :date: __2020-10-27 11:51:31__
-
-> Validation error trying to book redelivery.<br> :date: __2020-10-26 23:43:57__
-
 
 
 #### 1-star reviews
@@ -267,24 +267,24 @@ The Royal Mail - Tracking, redelivery, prices app has been installed by more tha
 <img src="1_star_reviews_wordcloud.png" alt="com.royalmail.app.droid 1 reviews"/>
 </p>
 
-> Added details address password etc etc then get a message "error, sorry we are unable to deal with your request ". No next step or reason why or what to do next.<br> :date: __2020-11-23 10:16:34__
+> Waste of time, keeps coming up with validation error when trying to book a redelivery.<br> :date: __2020-11-29 22:35:25__
 
-> Awful waste of time why not just let me simply arrange a re-delivery on the website instead I have to go through account set up on the app only for it not to work!<br> :date: __2020-11-23 09:56:56__
+> Useless app, will not allow me to print the label. Comes up with message saying there was an error processing my request. Booked a collection, so they are collecting my parcel with no label on it tomorrow.!! Cannot find record of order online either. Send query, will have to wait up to 10 days for a reply.<br> :date: __2020-11-29 15:47:02__
 
-> Worthless. First off why do I need a app to book a redelivery. Secondly why do I need a app to book a delivery that can't even work.<br> :date: __2020-11-22 21:30:42__
+> Such a shame that I can't sign up - there is an error on both phone and tablet!<br> :date: __2020-11-29 14:16:14__
 
-> Absolutely shocking that an app of this quality has been released by Royal Mail. This would fail as a GCSE Computing project, it is that bad.<br> :date: __2020-11-22 17:14:12__
+> Annoying you have to type your full address in to register. Yup, the royal mail app doesn't have a postcode lookup. Sending parcels? Get ready to enter your address as the sender AGAIN. Want to view your collections, you have to enter the number, they're not stored. Come on Royal mail, think!<br> :date: __2020-11-29 13:51:47__
 
-> Utter rubbish. Complete waste of time.<br> :date: __2020-11-22 10:28:18__
+> Didn't work<br> :date: __2020-11-29 10:29:02__
 
-> Absolutely Rubbish, constant error message trying to book a redelivery.<br> :date: __2020-11-21 21:06:47__
+> Never works<br> :date: __2020-11-29 09:56:56__
 
-> Terrible, wanted to pick up a parcel I missed while at work, went after work the next day since Google and their website said they were open but no. After calling them THE ONLY WAY TO TELL IF THEY WERE OPEN WAS BY DOWNLOADING THE APP SIGHNING UP AND CHECKING THAT WAY. Now I try to get onto the app again it refuses to allow me to do anything unless I go onto the website and scan a QR code. How the hell can royal mail think this is acceptable during covid, update your times on google.<br> :date: __2020-11-21 20:47:54__
+> Terrible... won't let u redeliver why launch a app when its clearly not ready<br> :date: __2020-11-29 02:18:48__
 
-> It's unacceptable to make you download an app to use their redelivery service. The app crashed multiple times and was very slow when trying to sort the redelivery as well so its not fit for purpose. You want people to stay home, well let them organise on the website, or at the very least get some better programmers.<br> :date: __2020-11-21 16:55:03__
+> Rubbish. As others have mentioned: - You have to download the app to re-arrange delivery. Why can't this be done on the web-site without downloading an app? - You then have to go through lots of registration questions - When you want to re-arrange delivery you have to re-enter your name & address that you entered on registration. Why is there no option to use your registered name & address? - If you enter the ref number with spaces as printed on the card left it fails so you have to take the spaces out. What sort of amatuer software is that?! - Then after all that it throws a validation error. Total waste of time.<br> :date: __2020-11-28 19:59:20__
 
-> Don't waste your time. After you register it shows an error and you can't do anything<br> :date: __2020-11-21 13:57:11__
+> Redelivery Hell, Scan QR Code, last page of sign up error... Cannot get past it.<br> :date: __2020-11-28 19:18:29__
 
-> Terrible app. No option to scan QR code. Long and pointless registration that you then can't use any of the details from to pull through for delivery and have enter it all again. What a joke!<br> :date: __2020-11-21 09:42:47__
+> Dire app. Went through whole registration process only to find I have an account but couldn't get link to reset password. Typical government dept app, built by ppl with no idea of working with customers.<br> :date: __2020-11-28 16:10:11__
 
 

@@ -148,6 +148,8 @@ The Covid Alert DE app has been installed by more than **5000** times. At this t
 <img src="5_star_reviews_wordcloud.png" alt="gov.de.covidtracker 5 reviews"/>
 </p>
 
+> Very helpful thanks very much...<br> :date: __2020-11-29 15:24:44__
+
 > Works as described. It does not require GPS location like some people say nor does it have permission to access local data. 100% anonymous. I wish more people used the app and the ones who have it check in. At the time of me writing this, about 5% of the people who downloaded the app actually check in, so kinda defeats the purpose but that's not the app or developers fault. I'd like it to see a reminder to check in every day if possible for future updates.<br> :date: __2020-11-20 22:11:13__
 
 > Informative<br> :date: __2020-11-15 03:25:46__
@@ -165,8 +167,6 @@ The Covid Alert DE app has been installed by more than **5000** times. At this t
 > Thanks a lot<br> :date: __2020-10-13 20:47:18__
 
 > Good 👍<br> :date: __2020-10-11 03:57:19__
-
-> I think this is a good idea maybe it will help figure out areas that need more help to battle this mess. Stay safe all!<br> :date: __2020-10-08 20:30:51__
 
 
 
@@ -190,6 +190,8 @@ The Covid Alert DE app has been installed by more than **5000** times. At this t
 <img src="3_star_reviews_wordcloud.png" alt="gov.de.covidtracker 3 reviews"/>
 </p>
 
+> Informative<br> :date: __2020-11-29 13:29:23__
+
 > Wish it would remind me to enter daily data. And with 35,000 users and only 180 check-ins a day I assume that feature would help others too.<br> :date: __2020-10-01 12:10:51__
 
 > The app needs to be updated as it still talks about 14 days of isilatio. I'm not sure what phase 2 is as we are now at alert level 1<br> :date: __2020-09-26 00:53:51__
@@ -209,6 +211,8 @@ No recent reviews available with 2 stars.
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="gov.de.covidtracker 1 reviews"/>
 </p>
+
+> Useless. Have had positive results for 2 days and still dont have the code to put into the app to alert others. Total waste of an app.<br> :date: __2020-11-24 15:12:48__
 
 > This is a tracking app so please be careful what you post<br> :date: __2020-11-18 00:01:30__
 

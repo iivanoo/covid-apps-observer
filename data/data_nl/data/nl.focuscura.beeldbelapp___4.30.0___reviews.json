@@ -1,5 +1,53 @@
 [
     {
+        "reviewId": "gp:AOqpTOGFvea0Qsbh22pHAEI4pJuVac91X6LfE-0SWfBevWXtYaufvd2KzqgEguuNFAePVnf5zpBmCQXipWliAg",
+        "userName": "Henk Wever",
+        "userImage": "https://play-lh.googleusercontent.com/-2fDjRsPbsTE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclVRgV1m70OfF4kCcpy1Z3orJX2Ng/photo.jpg",
+        "content": "Geluid van beeldbellen is erg zacht, ook niet harder te krijgen. Jammer dat de app zo verschilt van de luscii Apple app, daar kon ik net iets meer mee (bv plaats nemen in de digitale wachtkamer)",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.30.0",
+        "at": "2020-11-27 07:28:24",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFdAjDR5-uieeCJMvOsFNU8PLG4eSY9ugJdU9L1bZz5fWUricwwWDK9tFYl1j8gFuEWJu9TEvd6XwkO5g",
+        "userName": "'Rene Menges",
+        "userImage": "https://play-lh.googleusercontent.com/-Veyz9pDpo34/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnE4e0dCrRTYbC7YkQ5C8Bbr_ARPA/photo.jpg",
+        "content": "Alles gaat prima",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.30.0",
+        "at": "2020-11-26 08:57:13",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOEo3LAyoygwfWpHxsRVd_FM-s0r8iKpbCpJ1Qbb7sSJPSKEmWHUBe7i1SGI9dP8Kk8Wve27Imoup4atCw",
+        "userName": "Thea Kapitein",
+        "userImage": "https://play-lh.googleusercontent.com/-giElnHpuSTU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnXMtr-DnuNcO3_bQgsSBtv9T7thA/photo.jpg",
+        "content": "Handige app alleen gewicht weigert vaak. Verder prima.",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.30.0",
+        "at": "2020-11-25 09:20:19",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHlwsKcQI7cj7z0wF_URXlrvzDnoLus2M0RgAS5r7iL_PyQgpgnLPbwqFv9ynXbmyGS5bNcTHJn_cxGUQ",
+        "userName": "Leo Janssen",
+        "userImage": "https://play-lh.googleusercontent.com/-DA0WVWVqj5E/AAAAAAAAAAI/AAAAAAAAB18/AMZuucm2c63sOXmh8SxVbQ4ibTKMlrCfcw/photo.jpg",
+        "content": "Deze app geeft mij een gevoel van veiligheid. Het gevoel dat er over je schouder word meegekeken.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.30.0",
+        "at": "2020-11-23 10:32:54",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOFkX0Zyikmi7v7Ickh-2n5Qcrc2Vn3jETIerbyTQogUU8QfcELc271LSDXj2c4qx_gYKRA4IBB8ztQc_Q",
         "userName": "Dirk Van Der Kroon",
         "userImage": "https://play-lh.googleusercontent.com/-2wA7B5IoAgU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmODTDF9O_RWdVDiXsLpb_FbdDdTA/photo.jpg",
@@ -482,7 +530,7 @@
     {
         "reviewId": "gp:AOqpTOFRr4TR7Pcpl53_dWRnN--fnvcD6fKgNw1E0w0Cfm_qc4zqn6X_KZbgrp2qMDKnj0x5vSceELFvk4_Usw",
         "userName": "Arthur van Unnik",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhUolCuLUgeCDeIn8ApcpYes8tJeb1H4hLn1Euaxjs",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhJGEbkKYgAfrmL3-VyBXGzzkucYXYftQ1oQii3V0E",
         "content": "Zeer goeie app",
         "score": 5,
         "thumbsUpCount": 0,
@@ -4502,7 +4550,7 @@
     {
         "reviewId": "gp:AOqpTOGK-gwTNVQ1ZoafXFvE46iAWWkizQFfW56ebkJ2lpgTnqhxxF7Pe7_bz5yaOYvLiyG1GNBll8BmnBND6A",
         "userName": "Nel Noordam",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh_A7TM849-mW_1kw2er1rF9YzqWHKON2IY9_b_tA",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgBqGQHqLZjUtXGSZ8P9sii-JU37HTxHwLwxkaQgA",
         "content": "Hij werkt perfect...Ik ben er blij mee",
         "score": 5,
         "thumbsUpCount": 0,
@@ -6937,7 +6985,7 @@
     },
     {
         "reviewId": "gp:AOqpTOE94e7CuetY0hQ7vmxDrhr-Cavoe2evI4-6lLWlj7jOMYhkKVHoERGkrUxMuxVGIAqPc1C1jndRT8pFHQ",
-        "userName": "Eric Vermeij",
+        "userName": "E Vermeij",
         "userImage": "https://play-lh.googleusercontent.com/-s19_Z7iqjdE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclf9f5iLAacNpsm5YJMZmMBQNeu8w/photo.jpg",
         "content": "Werkt perfect",
         "score": 5,
@@ -11948,54 +11996,6 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.21.6",
         "at": "2020-04-26 14:00:08",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOFrMbwL4IxQ17iyRnQeaJQHtDx4cCb1a26c2AASPIu_SKX3PlPdzCMDBt51VY0Ez1J51Oc0YLDZxyrOTw",
-        "userName": "Hetty Frenken",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhsyTkDKHg-WSNrjLtWhWXV7mub8P8k6CVKKkKwZA",
-        "content": "Ben blij met deze app, maar zou graag mijn achtergrond als longpati\u00ebnt, permanent aan de zuurstof, willen invullen bij bv kortademigheid. Of dat je langer dan 2 weken geleden erg ziek bent geweest. Maar verder is het wel een ontzettend fijne app. Want stel je wordt w\u00e9\u00e9r ziek. Dan helpt deze app h\u00e9\u00e9l goed!!!!!! Er wordt naar je geluisterd en/of contact met je opgenomen!!!!!",
-        "score": 5,
-        "thumbsUpCount": 13,
-        "reviewCreatedVersion": "4.21.6",
-        "at": "2020-04-26 13:14:30",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOFL5B0ivgEYiU6KNI-gPilq7rcaZLRkkyqUZeAl_B1f7UMzRecXiqbDSZUY8pCpkdakDTsv0ewoynHMpw",
-        "userName": "Aloys Verheijen",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh2gzI4N-degx9t36WNF-W7AswSeLGwaJJVRtYE1Q",
-        "content": "Waarom iedere keer apart, per onderdeel, de gegevens versturen?",
-        "score": 4,
-        "thumbsUpCount": 1,
-        "reviewCreatedVersion": "4.21.5",
-        "at": "2020-04-26 12:48:20",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOEaKkAZFTVaPAlrGkCx4UA5xZQSscHMbOIuvtj1Y_csYH5LNrjkgZYUf_TBNh-bLL3aIRnNnbyczbO1eg",
-        "userName": "Ren\u00e9 Bentert",
-        "userImage": "https://play-lh.googleusercontent.com/-vgY6w1kdyiM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl4fSV7ZUkuCQIZPviIf_Rrl98p7A/photo.jpg",
-        "content": "goed",
-        "score": 3,
-        "thumbsUpCount": 1,
-        "reviewCreatedVersion": "4.21.6",
-        "at": "2020-04-26 12:38:50",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOGj_D2HqLZ8IT_7OCPiLVLxM8YPNQVNzLj1q7KajVlwgqUSDR9BOBUN_ntQPjnuieFLA1v6DQLE74vREQ",
-        "userName": "Willem Ruisch",
-        "userImage": "https://play-lh.googleusercontent.com/-owxFxefVs48/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckADyWL6iLBl4M3AlAaWQ153w5XRA/photo.jpg",
-        "content": "Simpel en duidelijk",
-        "score": 5,
-        "thumbsUpCount": 1,
-        "reviewCreatedVersion": "4.21.6",
-        "at": "2020-04-26 12:32:33",
         "replyContent": null,
         "repliedAt": null
     }

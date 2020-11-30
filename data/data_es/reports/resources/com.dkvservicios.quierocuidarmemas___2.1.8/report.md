@@ -217,6 +217,8 @@ The DKV Quiero cuidarme Más app has been installed by more than **100000** time
 <img src="5_star_reviews_wordcloud.png" alt="com.dkvservicios.quierocuidarmemas 5 reviews"/>
 </p>
 
+> Una App que integra todo lo necesario para tu salud y el bienestar de los asegurados. Me parece un gran acierto y aporta cercanía con los profesionales de la medicina y acceso rápido a datos, citas y consultas. Un gran éxito. Enhorabuena!!<br> :date: __2020-11-26 13:28:38__
+
 > Excelente compañía hasta hoy no e visto mejor compañía que la dkv muy contento estoy<br> :date: __2020-11-20 07:00:20__
 
 > Muy recomendable<br> :date: __2020-11-18 09:05:26__
@@ -235,8 +237,6 @@ The DKV Quiero cuidarme Más app has been installed by more than **100000** time
 
 > Servicio excelente la vídeo consulta<br> :date: __2020-11-02 19:17:37__
 
-> Consulta rápida y profesional<br> :date: __2020-10-28 08:17:44__
-
 
 
 #### 4-star reviews
@@ -244,6 +244,8 @@ The DKV Quiero cuidarme Más app has been installed by more than **100000** time
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.dkvservicios.quierocuidarmemas 4 reviews"/>
 </p>
+
+> Se queda pausada, no hay maceta de iniciar<br> :date: __2020-11-26 07:00:53__
 
 > Sería interesante la búsqueda también por centro médico o clinica<br> :date: __2020-11-18 10:52:25__
 
@@ -262,8 +264,6 @@ The DKV Quiero cuidarme Más app has been installed by more than **100000** time
 > Es un app muy sencilla y te responden enseguida, sobre todo ahora que las consultas son telefonicas y se suelen olvidar preguntas y dudas que se presentan después. Lo recomiendo. Gracias a todos los profesionales que nos ayudan en estos momentos de incertidumbre.<br> :date: __2020-07-13 19:14:07__
 
 > Al principio no me salían las llamadas en el móvil android. En el ipad siempre bien<br> :date: __2020-07-10 15:05:41__
-
-> Muy buena aplicación.<br> :date: __2020-06-16 17:19:20__
 
 
 
@@ -313,24 +313,24 @@ The DKV Quiero cuidarme Más app has been installed by more than **100000** time
 <img src="1_star_reviews_wordcloud.png" alt="com.dkvservicios.quierocuidarmemas 1 reviews"/>
 </p>
 
-> Es la peor aplicación que he visto. Nada intuitiva de usar. Muchos fallos en los datos. Decepcionante.<br> :date: __2020-11-21 23:41:45__
+> Vaya cuadro de aplicación. Se cierra sola cada vez que intentas abrirla. Imposible dd usar. Cuadro de aplicación y aún peor servicio de seguro médico!<br> :date: __2020-11-30 06:47:02__
 
-> Se queda pausada, no hay maceta de iniciar<br> :date: __2020-11-21 10:30:36__
+> Me pide el número de tarjeta DKV para iniciar sesión, pero tras un mes de contratar el seguro, yo no he recibido ninguna tarjeta, así que no la puedo utilizar.<br> :date: __2020-11-29 21:20:14__
 
-> La faena para poder poner los datos. Una vez que entras no carga, cierro, vuelvo a intentarlo una y mil veces... Imposible ver el contenido de la App.<br> :date: __2020-11-20 22:50:17__
+> Es un auténtico desastre no hay forma de conectarse, muy complicada la aplicación,te pide muchos datos para entrar.La dejé por imposible incluso después de hablar con un técnico.<br> :date: __2020-11-27 21:47:22__
 
-> Funcionaba y ya no funciona y me tiene sin poder pedir citas, me voy a cambiar de seguro porque cada vez peor<br> :date: __2020-11-19 14:46:49__
+> La aplicación me da error de laboratorio y/ o se cierra. La he desinstalado varias veces y cuando no es una cosa es otra.<br> :date: __2020-11-27 20:44:18__
 
-> Pues acabo de instalarla y lo único que hace es cerrarse y quedarse en segundo plano.Por mucho que fuerce la detención, luego vuelve a pasar. ¿Alguien prueba estas cosas antes de sacarlas para los usuarios?<br> :date: __2020-11-18 10:47:37__
+> A mi se me queda instalando hasta que me canso. No es más fácil hacerlo bien y no utilizamos de conejillos de India? Cuando la app esté operativa, pues le dais bombo y la sacáis.<br> :date: __2020-11-27 14:08:35__
 
-> Se accede fatal, todo son errores con la contraseña. Y para restablecerla ya ni te cuento... siempre sale un mensaje de error...<br> :date: __2020-11-17 19:48:49__
+> No me permite hacer consultas virtuales por videollamada<br> :date: __2020-11-27 12:04:46__
 
-> No funciona,introduces el mail y la contraseña y se queda en la foto, tengo Android 10,espero vuestra solución, gracias. Buenos días os he enviado el correo y digo sin poder entrar.<br> :date: __2020-11-17 11:46:54__
+> Imposible hacer una búsqueda en el cuadro médico<br> :date: __2020-11-25 19:50:49__
 
-> Vaya tontería de aplicación. No sirve para nada útil y encima se queda colgada.<br> :date: __2020-11-15 16:21:38__
+> He intentado entrar muchas veces desde móviles distintos y la aplicación se cierra una y otra vez. Necesito los informes que tampoco me quieten enviar por email así que no se que se supone que pretenden que hagamos. Necesito soluciones<br> :date: __2020-11-24 21:08:54__
 
-> Lamentable: Continuamente se cierra la aplicación; imposible entrar en Carpeta de Salud que es donde te mandan autorización para la prueba de antígenos. Y lo de intentar llamar al teléfono de contacto ni lo comentamos. 1 estrella porque no se puede poner 0.<br> :date: __2020-11-14 11:34:47__
+> desprecian a las personas de cierta edad Borregos<br> :date: __2020-11-24 07:47:21__
 
-> EINFACH NUTZLOS!!!!!!<br> :date: __2020-11-14 06:32:35__
+> Hoy me llegó por correo de DKV la notificación de nuevos resultados en la app y cuando quise abrirla, luego del login comienza la ruedita de espera y se cierra sin que pueda acceder. La desinstalé y volví a instalarla y sigue igual.<br> :date: __2020-11-23 22:20:08__
 
 

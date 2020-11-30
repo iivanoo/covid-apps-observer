@@ -147,25 +147,25 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="doh.health.shield 5 reviews"/>
 </p>
 
-> Good<br> :date: __2020-11-23 07:10:19__
+> very effective<br> :date: __2020-11-29 16:41:41__
 
-> its helpful<br> :date: __2020-11-23 07:06:39__
+> Uhj<br> :date: __2020-11-29 16:07:02__
 
-> This is Good Aplication. We can easily view our report in details.<br> :date: __2020-11-22 06:25:39__
+> Very useful this apps thanks!<br> :date: __2020-11-29 14:48:46__
 
-> Good<br> :date: __2020-11-22 03:57:26__
+> Bihgf<br> :date: __2020-11-29 09:35:56__
 
-> Nice app<br> :date: __2020-11-22 02:20:31__
+> Ease my work<br> :date: __2020-11-28 15:10:20__
 
-> Best<br> :date: __2020-11-21 14:04:09__
+> Easy and good<br> :date: __2020-11-28 12:35:40__
 
-> Very Convinient<br> :date: __2020-11-21 09:02:40__
+> Good<br> :date: __2020-11-27 15:08:53__
 
-> Good profit<br> :date: __2020-11-21 07:11:18__
+> Very good app<br> :date: __2020-11-27 13:50:08__
 
-> Really good experience. Easy to use and reliable.<br> :date: __2020-11-21 03:24:22__
+> Thank<br> :date: __2020-11-27 11:16:41__
 
-> This is very good app<br> :date: __2020-11-20 09:49:07__
+> Great<br> :date: __2020-11-27 01:25:28__
 
 
 
@@ -174,6 +174,8 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="doh.health.shield 4 reviews"/>
 </p>
+
+> Good<br> :date: __2020-11-25 09:09:03__
 
 > Good service<br> :date: __2020-11-17 10:53:49__
 
@@ -193,8 +195,6 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 
 > great app<br> :date: __2020-11-02 13:46:34__
 
-> Shows test results well but I haven't seen any link to tracing.<br> :date: __2020-11-02 08:50:02__
-
 
 
 #### 3-star reviews
@@ -202,6 +202,10 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="doh.health.shield 3 reviews"/>
 </p>
+
+> Did covid test at al zahra hospital sharjah but it was not registered on the alhosn app even though it was negative it should have been shown in app. Please instruct al zahra hosp sharjah esp Nmc group hospitals to register all covid tests or this app will soon become useless<br> :date: __2020-11-30 05:37:08__
+
+> It's very frustrating that you cannot register with your number from day one. it always tell me to register with the number which I never use.. even calling several times to customer support they says check after sometime but no result..<br> :date: __2020-11-29 17:05:27__
 
 > I just received the text message result. I wanna download the result document n need to upload to my HR portal. I just login to the app with the emirates ID and phone number. The current result is not reflecting.<br> :date: __2020-11-21 07:44:11__
 
@@ -219,10 +223,6 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 
 > Update not ready<br> :date: __2020-11-08 07:05:38__
 
-> لا تعليق<br> :date: __2020-11-07 02:53:04__
-
-> Easy to use<br> :date: __2020-11-04 23:39:07__
-
 
 
 #### 2-star reviews
@@ -230,6 +230,10 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="doh.health.shield 2 reviews"/>
 </p>
+
+> It always says that, the mobile number linked with my Emirates Id is in correct. How to rectify this?<br> :date: __2020-11-30 05:53:10__
+
+> Very slow.<br> :date: __2020-11-23 19:42:34__
 
 > The latest update is unstable (frequently hanging) and also no longer shows how many days have past since the last testing date. With the previous version, the user/inspector can easily see how many days have passed since the last COVID19 test. In latest version, if you access the result after some time (4 days in my experience) it will just say "Negative - Expired". In the previous version, it would say "Negative for 4 days"..<br> :date: __2020-11-22 10:04:15__
 
@@ -247,10 +251,6 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 
 > Battery usage is verh high while running this application<br> :date: __2020-11-05 11:36:27__
 
-> To much notification<br> :date: __2020-11-04 09:57:57__
-
-> Very slow. Jams a lot<br> :date: __2020-10-31 09:55:09__
-
 
 
 #### 1-star reviews
@@ -259,24 +259,24 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="doh.health.shield 1 reviews"/>
 </p>
 
-> Good<br> :date: __2020-11-22 13:45:27__
+> Not working on samsung A8 had many time installed. But no use<br> :date: __2020-11-29 14:30:52__
 
-> I took corona test via passport but there is no other way to check in this app via passport<br> :date: __2020-11-22 10:45:12__
+> The app doesn't work at all.<br> :date: __2020-11-29 07:18:50__
 
-> After installing the app is not opening, not working.<br> :date: __2020-11-21 21:15:35__
+> Not good<br> :date: __2020-11-29 06:02:41__
 
-> Nice app<br> :date: __2020-11-21 14:40:14__
+> This apps not working only green wallpaper. nothing else.<br> :date: __2020-11-28 15:40:13__
 
-> This app sucks<br> :date: __2020-11-20 15:00:26__
+> It shows your number is not registered and shows two mobile numbers I have never seen, Coustomer care is not useful at all.<br> :date: __2020-11-28 13:53:20__
 
-> Its not working properly, morning i got result by message but in this app still (evening) did not update.<br> :date: __2020-11-20 11:12:33__
+> Pathetic , App doesn't go beyond logo . Surprised how it's got 4.3 star rating with so many 1 star feedback. I would give 0 star if possible.<br> :date: __2020-11-28 04:50:42__
 
-> Application doesn't work, screen shows the logo and nothing happens after that.<br> :date: __2020-11-20 10:41:47__
+> I can't open this app..<br> :date: __2020-11-27 11:46:54__
 
-> Pathatic<br> :date: __2020-11-20 09:42:06__
+> useless apps... no results showing... it's two days past but still no results.<br> :date: __2020-11-27 06:50:16__
 
-> Not working at all.<br> :date: __2020-11-19 13:14:07__
+> I am a covid vaccine volunteer and even after PCR I don't have the Volunteer status... And everytime I call the help line they answer but after hello they hangup on me very unprofessional they need to hire professional staff... Horrible experience after being on hold for 20 minutes they hangup this is frustrating<br> :date: __2020-11-26 06:23:50__
 
-> Why do you need Bluetooth and always (even background) location access to use the application? And most importantly I use battery optimization to prevent background activity and secure my privacy, why am I asked to disable it?<br> :date: __2020-11-19 13:01:52__
+> It is not opening although<br> :date: __2020-11-25 17:14:02__
 
 

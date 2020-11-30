@@ -192,6 +192,8 @@ The WebMD: Check Symptoms, Rx Savings, & Find Doctors app has been installed by 
 <img src="5_star_reviews_wordcloud.png" alt="com.webmd.android 5 reviews"/>
 </p>
 
+> Vomiting nausa weak constapated<br> :date: __2020-11-30 01:14:34__
+
 > Superb<br> :date: __2020-11-18 19:54:51__
 
 > I love how it elaborate and explain. Its not just helpful but learning.<br> :date: __2020-11-09 14:40:14__
@@ -209,8 +211,6 @@ The WebMD: Check Symptoms, Rx Savings, & Find Doctors app has been installed by 
 > Valuable for health<br> :date: __2020-10-17 11:09:01__
 
 > A great resource for all things health and medical-related. I use the symptom checker feature the most, but the app also features articles on health conditions, information on different medications, and COVID articles. Definitely a great resource, and completely free!<br> :date: __2020-10-10 06:43:39__
-
-> The app is very useful.please Add dark mode<br> :date: __2020-10-03 04:16:49__
 
 
 
@@ -304,6 +304,10 @@ The WebMD: Check Symptoms, Rx Savings, & Find Doctors app has been installed by 
 <img src="1_star_reviews_wordcloud.png" alt="com.webmd.android 1 reviews"/>
 </p>
 
+> Do not get this app. YOU WILL BE SPAMMED. I am receiving daily emails. Tried to unsubscribe, but the emails still keep coming. I will be deleting this app<br> :date: __2020-11-25 22:41:50__
+
+> This site is worthless<br> :date: __2020-11-25 03:03:39__
+
 > This app sucks, its slooow, buttons work at random, when they decide to work at all, I couldn't even get far enough in the app to completely describe my ailments. I DON'T RECOMMEND!! I uninstalled immediately after this review.<br> :date: __2020-11-20 21:36:27__
 
 > Don't download, you'll get daily spamming. They don't accept unsubscribe.<br> :date: __2020-11-16 21:04:07__
@@ -319,9 +323,5 @@ The WebMD: Check Symptoms, Rx Savings, & Find Doctors app has been installed by 
 > Probably the least helpful app I've ever used<br> :date: __2020-11-06 05:49:44__
 
 > Sux wont even add multiple symptoms<br> :date: __2020-10-27 22:21:36__
-
-> Useless app! What use is it when it doesnt specify all the diseases known to man. Found it useless when i searched for a common illness without any single result of my search. Moreover, you must choose the required number of illness before you complete your medical check. Nonsense! What use is it? Make a better service instead!<br> :date: __2020-10-26 12:42:37__
-
-> poorest symptom tracker, really irritating. even it cant find acne and pain? better you developers remove this fraud app, or make a proper diagnosis algorithm,, really hate your app.<br> :date: __2020-10-19 18:40:54__
 
 

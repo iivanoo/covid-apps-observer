@@ -190,6 +190,10 @@ The CityMD app has been installed by more than **10000** times. At this time, **
 <img src="5_star_reviews_wordcloud.png" alt="com.citymd.android.city.citymd 5 reviews"/>
 </p>
 
+> Always have a pleasant, insightful visit whenever I visit physically or virtually....thank God for city md..<br> :date: __2020-11-27 17:53:40__
+
+> I love I don't have leave home see a doctor.<br> :date: __2020-11-24 18:25:04__
+
 > Dr.Feldman was very helpful and polite.<br> :date: __2020-11-21 23:09:41__
 
 > Great experience with the doctors they have its easy to use and great for any day emergency we may have also very confidential I will recommend this add<br> :date: __2020-11-21 17:38:08__
@@ -205,10 +209,6 @@ The CityMD app has been installed by more than **10000** times. At this time, **
 > Very nice. Confident with her diagnosis. Very happy with experience.<br> :date: __2020-10-24 23:56:47__
 
 > Used it. No COVID 19.<br> :date: __2020-10-24 00:07:02__
-
-> City MD has always been excellent, and now with the option of video appointments, they are a Godsend especially during this COVID 19 pandemic.<br> :date: __2020-10-22 18:05:12__
-
-> Amazing<br> :date: __2020-10-21 17:51:05__
 
 
 

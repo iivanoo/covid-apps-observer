@@ -250,6 +250,8 @@ The Healthily: Self-Care & Health Journal app has been installed by more than **
 <img src="3_star_reviews_wordcloud.png" alt="md.your 3 reviews"/>
 </p>
 
+> cool<br> :date: __2020-11-27 02:36:18__
+
 > Reasonable<br> :date: __2020-10-12 17:07:49__
 
 > I have a headache today and app sent me almost strait to the doctor as a serious issue. Not sure one of headache is that serious and reason might be any. Also I would welcome dark version (theme) of the app. Headache and white screen is not good.<br> :date: __2020-10-09 20:36:09__
@@ -267,8 +269,6 @@ The Healthily: Self-Care & Health Journal app has been installed by more than **
 > I said i had some syndrome becuase was tired a lot but that didnt have to do with it becuase i have an iron deficiency which causes that, so this app did not help me becuase becuase it was concerned with things that were completely false.<br> :date: __2020-08-01 08:45:54__
 
 > Needs more info<br> :date: __2020-05-13 18:40:40__
-
-> Please include hindi language<br> :date: __2020-05-02 20:05:06__
 
 
 

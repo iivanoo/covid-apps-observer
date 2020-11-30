@@ -174,6 +174,8 @@ The COVID-19.eus app has been installed by more than **50000** times. At this ti
 <img src="3_star_reviews_wordcloud.png" alt="com.erictelm2m.colabora 3 reviews"/>
 </p>
 
+> Lo único que no me gusta es que no ponen los datos todos los días , y por eso no me gusta mucho<br> :date: __2020-11-29 13:37:28__
+
 > No es muy clara<br> :date: __2020-09-20 17:21:58__
 
 > Recomiendo que eviten enviar Push Notifications a todos los usuarios con mensajes de prueba porque esto hace un poco molesta la App. En general el diseño es bueno y permite navegar fácilmente. Sería interesante implementar un enlace con la App radar covid para que obtengan los contactos desde esa App<br> :date: __2020-09-17 08:24:44__
@@ -191,8 +193,6 @@ The COVID-19.eus app has been installed by more than **50000** times. At this ti
 > No puedo cambiar un familiar a home si vive en mi casa, si pudiese hacerlo le daría más estrellas<br> :date: __2020-06-11 10:47:28__
 
 > Esta bien, Le falta mejoras como poder editar tu información y que se lea mejor el texto para que sea una aplicación familiar y confortable.<br> :date: __2020-06-08 03:08:14__
-
-> No se, no le acabo de ver la utilidad<br> :date: __2020-06-07 13:04:02__
 
 
 
@@ -230,6 +230,8 @@ The COVID-19.eus app has been installed by more than **50000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="com.erictelm2m.colabora 1 reviews"/>
 </p>
 
+> Si metes codigo postal erroneo no permite modificarlo por lo que no tienes datos reales<br> :date: __2020-11-30 09:58:40__
+
 > Que sentido tiene la app si no funciona la posibilidad de agregar contactos, otro ejemplo de como funciona la gestión de osakidetza frente a la crisis... en fin, borro la app<br> :date: __2020-10-25 14:40:50__
 
 > De momento no se si esta istalada no tengo nada que lo diga ni me lo aclaran.<br> :date: __2020-10-22 14:54:04__
@@ -247,7 +249,5 @@ The COVID-19.eus app has been installed by more than **50000** times. At this ti
 > No he podido utilizarla porque pide un código SMS que no se cual es ni cual puede ser. Tanto tiempo de retraso para ahora llegar a esto. Faciliten la aplicación si quieren que se descargue y se use de modo general ya que si lo complican tanto no se descargará. Yo ya la he desinstalado.<br> :date: __2020-09-18 15:16:15__
 
 > Aparecen notificaciones push a horas extrañas con mensajes sin sentido como URGENTE, REUNIÓN, HOLA. Parece que alguien está jugando. He notificado esto al desarrollador y no contesta nadie. Parece que no hay nadie al volante. Desinstalando...<br> :date: __2020-09-17 17:25:15__
-
-> Es una broma de aplicación. Desde hace unos días aparecen notificaciones de mensajes de covid-19 eus que te llevan a la aplicación. Un día ponía "Reunión urgente", y luego "Hola", otro día "sdg", que llegó a las 12 de la noche, ahora acaba de llegar "Prueba"... Tenemos a un mono testeando la aplicación?<br> :date: __2020-09-17 08:56:40__
 
 

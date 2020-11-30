@@ -186,6 +186,10 @@ The myColorado app has been installed by more than **10000** times. At this time
 <img src="5_star_reviews_wordcloud.png" alt="com.soc.mycolorado 5 reviews"/>
 </p>
 
+> Easy acces to my ID at all times<br> :date: __2020-11-25 16:13:02__
+
+> I was able to use digital ID immediately.<br> :date: __2020-11-25 03:29:59__
+
 > Colorado is the coolest State<br> :date: __2020-11-11 07:27:51__
 
 > Very positive. Would like the photo id to be recognize as a official means for identification.<br> :date: __2020-11-08 15:36:45__
@@ -201,10 +205,6 @@ The myColorado app has been installed by more than **10000** times. At this time
 > The digital id is a life saver!<br> :date: __2020-10-19 15:12:35__
 
 > ID on your phone how easy<br> :date: __2020-10-18 19:38:14__
-
-> Great app incase you lose your id<br> :date: __2020-10-01 05:39:22__
-
-> I can see how this is going to be used in the future! Great app!<br> :date: __2020-09-27 19:38:18__
 
 
 
@@ -298,6 +298,8 @@ The myColorado app has been installed by more than **10000** times. At this time
 <img src="1_star_reviews_wordcloud.png" alt="com.soc.mycolorado 1 reviews"/>
 </p>
 
+> waste of time and money<br> :date: __2020-11-25 05:01:19__
+
 > Try and do the facial recognition blacks out my camera, if you wanted to steal ppls info in Colorado just ask don't make an app that doesnt even work. Disgraceful!!! Your not even trying to improve Coloradan lives at all, just trying to line each other pockets while we continue to suffer. Pathetic!<br> :date: __2020-11-15 21:40:36__
 
 > Took me literally 16 tries and a waste of 30 minutes of frustration just for it to recognize my face in a brightly light room for my id. Absolutely frustrating<br> :date: __2020-11-03 00:19:49__
@@ -315,7 +317,5 @@ The myColorado app has been installed by more than **10000** times. At this time
 > Each time I try to do the facial verification, the image uploads very blurry and it's definitely not my camera....<br> :date: __2020-10-09 21:10:26__
 
 > What a pain<br> :date: __2020-10-09 03:32:20__
-
-> Very bad ID function, doesn't work at all. Keep your business off this malfunctioning dumpster fire of an app if you can<br> :date: __2020-10-05 21:03:59__
 
 

@@ -193,6 +193,8 @@ No recent reviews available with 2 stars.
 <img src="1_star_reviews_wordcloud.png" alt="com.identos.nav.niagara 1 reviews"/>
 </p>
 
+> Extremely hard to navigate once you finally figure out how to download...very poor layout<br> :date: __2020-11-27 15:00:41__
+
 > Doesn't work.<br> :date: __2020-11-01 18:33:30__
 
 > Poorly laid out GUI for what's basically just bookmarks to other resources. Useless.<br> :date: __2020-10-09 01:15:23__

@@ -215,6 +215,16 @@ The Amwell: Doctor Visits 24/7 app has been installed by more than **1000000** t
 <img src="5_star_reviews_wordcloud.png" alt="com.americanwell.android.member.amwell 5 reviews"/>
 </p>
 
+> Quick once all info was entered NP Fix was pleasant and compassionate.<br> :date: __2020-11-29 21:35:35__
+
+> Very easy to use, efficient and helpful<br> :date: __2020-11-29 18:18:40__
+
+> Dr. Khan was awesome super nice as well<br> :date: __2020-11-28 20:56:04__
+
+> A real medical person that cares!Love it!!<br> :date: __2020-11-28 01:10:46__
+
+> Quick and very easy<br> :date: __2020-11-27 19:44:34__
+
 > Best option other than going into the doctor<br> :date: __2020-11-21 18:59:03__
 
 > Fast in and out with sinus infection. Nice MD. Only paid insurance co-pay.<br> :date: __2020-11-20 16:21:52__
@@ -224,16 +234,6 @@ The Amwell: Doctor Visits 24/7 app has been installed by more than **1000000** t
 > Definitely worth a try! I've been quite pleased with my experience.<br> :date: __2020-11-12 19:35:53__
 
 > Great<br> :date: __2020-11-07 13:05:20__
-
-> Amazing, nice to not have to leave my house with the kids for a sinus infection.<br> :date: __2020-11-05 22:13:54__
-
-> Very easy. Very comprehensive.<br> :date: __2020-10-30 16:07:41__
-
-> 10/29/20 App loaded easily & fast on my Galaxy Note 8. Set up was simple & my PCP staff was extremely helpful with walking me tthru it. Video pic very easy to see MD & clear/sound voice to hear. Since chemo this way of communicating with my PCP has been a Godsend! Not only due to weakness but to avoid contact with others, Covid 19, arrangements for travel & more. TY to whomever designed this program👍🏻KUDOS TO YOU❗<br> :date: __2020-10-29 22:35:51__
-
-> Streamlined and extremely efficient assistance in physical and mental health. This app and the provider continue to be a solid foundation for the integration and path away from disorder and into living and what life is all about. Namaste, Mahalo, Sukran Gazilan, sheshe, and Thank you for what you do.<br> :date: __2020-10-29 00:35:36__
-
-> Pleasant<br> :date: __2020-10-28 19:14:12__
 
 
 
@@ -327,6 +327,8 @@ The Amwell: Doctor Visits 24/7 app has been installed by more than **1000000** t
 <img src="1_star_reviews_wordcloud.png" alt="com.americanwell.android.member.amwell 1 reviews"/>
 </p>
 
+> Needs a computer to hook up<br> :date: __2020-11-29 18:05:08__
+
 > It was working fine for the first time..then all the sudden it start acting up for me<br> :date: __2020-11-22 01:20:40__
 
 > Last Time I tried to Tele Visit a doctor. He was extremely rude and unprofessional<br> :date: __2020-11-14 19:10:58__
@@ -344,7 +346,5 @@ The Amwell: Doctor Visits 24/7 app has been installed by more than **1000000** t
 > Dr seemed to get his medical advice from a trump rally instead of science.<br> :date: __2020-10-29 04:24:25__
 
 > Had no therapists or psychiatrists available. Really only needed those services, so was unable to use.<br> :date: __2020-10-27 18:06:52__
-
-> Ever since covid hit. I do not get the same service and care that i got before. Not sure if i will be using this app or service anymore<br> :date: __2020-10-26 14:31:51__
 
 
