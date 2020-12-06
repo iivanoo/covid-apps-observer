@@ -148,12 +148,10 @@ The Hunala app has been installed by more than **1000** times. At this time, **7
 #### 4-star reviews
 
 <p align="center">
-<img src="4_star_reviews_wordcloud.png" alt="edu.yale.fas.hunala 4 reviews"/>
+
 </p>
 
-> So the app is good but the notification schedule page is glitching out so I can't change the time.<br> :date: __2020-06-11 10:51:51__
-
-
+No recent reviews available with 4 stars.
 
 #### 3-star reviews
 

@@ -192,25 +192,25 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 <img src="5_star_reviews_wordcloud.png" alt="com.ascent.phr 5 reviews"/>
 </p>
 
-> so easy to navigate and use...<br> :date: __2020-11-28 22:24:20__
+> very easy to use<br> :date: __2020-12-05 17:24:26__
 
-> Good trouble free service<br> :date: __2020-11-28 22:09:04__
+> excellent quick and easy app, can order at any time, nothing to collect. prompt service<br> :date: __2020-12-05 12:30:39__
 
-> great app for booking go appointments and repeat prescription request<br> :date: __2020-11-28 21:32:03__
+> Convenient and reliable.<br> :date: __2020-12-04 11:54:12__
 
-> Great app for ordering repeat prescription. also tips on your health..<br> :date: __2020-11-27 07:45:31__
+> very easy to use<br> :date: __2020-12-04 09:58:54__
 
-> so easy, and certainly this so safe.<br> :date: __2020-11-26 21:05:14__
+> Great little app<br> :date: __2020-12-04 08:41:54__
 
-> This is a Brilliant service so easy to use.<br> :date: __2020-11-26 18:08:19__
+> simple straightforward and reliable<br> :date: __2020-12-03 09:23:38__
 
-> Good app<br> :date: __2020-11-26 10:52:09__
+> the on line help is excellent especially direct phone consultation<br> :date: __2020-12-02 20:18:34__
 
-> This service works well generally, however I find keep updating of choices on screen confusing at times. Sorry.<br> :date: __2020-11-25 12:17:54__
+> Great service yo be able to go to local Tesco pharmacy late as I work away from my home and don't get back until late and docs are closed<br> :date: __2020-12-02 19:47:14__
 
-> Thanks for this lovely App<br> :date: __2020-11-23 09:09:36__
+> great service<br> :date: __2020-12-02 16:20:18__
 
-> Good app, fairly intuitive & simple to use.<br> :date: __2020-11-22 19:02:14__
+> easy to use<br> :date: __2020-12-02 10:55:03__
 
 
 
@@ -219,6 +219,8 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.ascent.phr 4 reviews"/>
 </p>
+
+> straightforward and useful app<br> :date: __2020-11-30 22:57:14__
 
 > Quite a good app. All your medical info in one place. Only problem is when I send a message, no matter what it's about, I only get 'null' as a reply which isn't very helpful.<br> :date: __2020-11-19 12:17:35__
 
@@ -238,8 +240,6 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 
 > Edit: Although I still have no idea why I couldn't log in last time, the app is now working perfectly. It is very useful to be able to order a repeat prescription and to see medical records. Much easier than trying to get through to the surgery by phone. Evergreen Customer Services were very helpful! I installed the app on my phone but it just keeps scrolling through the 5 introductory screens and won't let me log in. It's a really good idea but no use if it's not reliable.<br> :date: __2020-08-01 14:05:06__
 
-> Getting to know the app... How do I view photos of appointment letters I have taken? I can see the thumbnails, but can't open them?<br> :date: __2020-07-15 08:49:26__
-
 
 
 #### 3-star reviews
@@ -247,6 +247,8 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="com.ascent.phr 3 reviews"/>
 </p>
+
+> not as good as it could be ,why no way of uploading documents other than pictures and why not visible to members of the surgery by default?<br> :date: __2020-12-02 13:30:55__
 
 > when I try to make an appointment it just says no appointments available — always. Prescription ordering works fine.<br> :date: __2020-11-29 18:28:27__
 
@@ -265,8 +267,6 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 > I would like to see my records but they don't seem to be available<br> :date: __2020-11-20 14:19:30__
 
 > Frustrating after the last update it constantly asks for the screen lock code making it very difficult to get access to the app. Is anyone else having trouble<br> :date: __2020-11-13 10:04:33__
-
-> User experience inconsistent, lota if data not available from practition<br> :date: __2020-10-14 14:23:14__
 
 
 
@@ -304,6 +304,8 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 <img src="1_star_reviews_wordcloud.png" alt="com.ascent.phr 1 reviews"/>
 </p>
 
+> the worst app I have on my phone. I only have it to enable me to order repeat prescriptions and this is 10times more effort than another app our gp previously supported. in short its rubbish.<br> :date: __2020-12-05 09:59:45__
+
 > Not the best<br> :date: __2020-11-26 19:48:37__
 
 > don't look at the comments part. sends permissions to wrong place.<br> :date: __2020-11-22 10:43:26__
@@ -321,7 +323,5 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 > My phone has facial recognition: does this app? No, don't be silly. It's all in a Google Security API that no 'developer' is able to understand yet. Agree about the interface; it is very poorly thought out. And it's not about me, is it? It's about selling services. Don't you just hate what's happening with our NHS?<br> :date: __2020-10-13 19:25:24__
 
 > Finger print password does not work and it's the default setting<br> :date: __2020-10-08 10:11:52__
-
-> This app is truly awful. Half the buttons don't even work, constantly logs you out and won't allow you to log in again. I've ended up having to use their website instead, which is also awful. If you're looking for an app to connect to your practice, for the love of God don't use this one. 1 star because I can't give it negative stars<br> :date: __2020-10-08 09:50:31__
 
 

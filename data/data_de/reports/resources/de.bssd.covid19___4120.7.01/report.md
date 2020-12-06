@@ -131,6 +131,8 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="de.bssd.covid19 5 reviews"/>
 </p>
 
+> Alles super , scannt, benachrichtigt,21.45uhr grün.<br> :date: __2020-12-03 23:08:28__
+
 > En büyük FENERBAHÇE o kadar<br> :date: __2020-11-22 15:29:36__
 
 > Winkelnkemper<br> :date: __2020-11-07 06:57:40__
@@ -148,8 +150,6 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 > Macht was Sie soll! Binnen 18 h Ergebnis per push Nachricht erhalten!<br> :date: __2020-10-06 12:30:26__
 
 > Ok<br> :date: __2020-10-03 11:44:13__
-
-> Funktioniert, macht das was sie soll. Ja, sie will jedes Mal den QR-Code haben, aber diese Funktion dient zum Datenschutz. Die App merkt sich trotzdem den zuletzt gescannten Code und gibt auch zuverlässig die Push-Benachrichtigung aus, sobald das Ergebnis vorhanden ist.<br> :date: __2020-09-17 21:51:48__
 
 
 
@@ -243,6 +243,18 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 <img src="1_star_reviews_wordcloud.png" alt="de.bssd.covid19 1 reviews"/>
 </p>
 
+> Sorry, aber das ist die nutzloseste App, die ich je heruntergeladen habe. Der QR Code lässt sich nicht scannen, um den Zahlen/Nummerncode eingeben zu können musste ich die App neu installieren. Und das Ergebniss des Tests habe ich von meinem Arzt vor ca.14 Std. bekommen. Auf der App ist immer noch kein Ergebnis.<br> :date: __2020-12-03 23:09:43__
+
+> QR Code kann nicht gescannt werden und egal welchen Code (ID, Entschlüsselter QR-Code, per E-Mail verschickter Code) ich eingebe, mir wird immer angezeigt, dass das Format ungültig wäre ...also kurz gesagt ich komme gar nicht so weit, dass ich Ergebnisse einsehen könnte<br> :date: __2020-12-03 22:28:18__
+
+> Das Scannen des Codes funktioniert nicht und die APP zeigt dauernd, dass das Ergebnis noch nicht vorliegt.<br> :date: __2020-12-03 10:36:32__
+
+> Funktioniert einfach überhaupt nicht!<br> :date: __2020-12-02 19:26:49__
+
+> Unbrauchbar<br> :date: __2020-12-01 09:54:52__
+
+> QR-Code Erfassung klappt nicht. Eingabe der ID sehr aufwendig. Negatives Ergebnis über das Labor erhalten. Nach zwei Wochen immer noch kein Befund in der App. Daher wieder deinstalliert.<br> :date: __2020-11-30 23:21:15__
+
 > Schieße ich fliege immer von der app raus also ich warte schon 4 Wochen auf mein Test . Mann hat zu mir gesagt ich muss die corona app herunterladen um mein Ergebnisse zu bekommen aber wie wenn ich jedes mal aus der app rausgeworfen werde . Diese app ist Schrott<br> :date: __2020-11-30 12:39:26__
 
 > Scan funktioniert nicht.<br> :date: __2020-11-29 16:07:03__
@@ -250,17 +262,5 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 > Wenn man keine Achtung auf die Gefühle von infizierten Menschen hat, entwickelt solche Schrot.<br> :date: __2020-11-29 14:18:05__
 
 > Der scan funktioniert nicht, Eingabe des Codes geht auch nicht, da sich das Eingabefeld auf dem Handy nicht öffnet. Absolute Zeitverschwendung gerade gewesen.<br> :date: __2020-11-29 09:51:06__
-
-> Funktioniert mit Oxygen OS nach Systemupdate nicht mehr. Titelbild ist kurz zu sehen, dann schließt sich die App wieder von selbst. App-Cache zu löschen brachte keine Hilfe.<br> :date: __2020-11-25 09:27:41__
-
-> QR-Code-Scanner funktioniert nicht. Selbst die manuelle Eingabe des Codes ist meistens auch nicht möglich.<br> :date: __2020-11-24 18:37:50__
-
-> Mein Ergebnis liegt seit heute morgen beim Arzt und App zeigt es immer noch nicht. Bin enttäuscht 😞<br> :date: __2020-11-23 16:48:31__
-
-> Bei mir geht es auch nicht wenn ich immer rein will dann steht da immer "covid-19 angehalten also ich enfehle da nur ein stern 😐<br> :date: __2020-11-23 15:09:22__
-
-> Diese App ist absolut unbrauchbar der Scanner funktioniert gar nicht oder nur sehr ruckelig und wenn man den GUID eingibt meckert die App mit ungültigem Format. Leider kriegt man keine Erklärung welches Format Sie denn gerne hätten. also Leute macht was an dieser App!!!<br> :date: __2020-11-19 13:50:26__
-
-> Schlechter geht's echt nicht...der QR Code lässt sich nicht einscannen und jedes Mal muss man diese endlos lange Ziffer eingeben...furchtbar<br> :date: __2020-11-18 13:56:22__
 
 

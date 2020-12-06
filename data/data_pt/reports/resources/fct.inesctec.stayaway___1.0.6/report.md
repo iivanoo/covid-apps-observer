@@ -137,25 +137,25 @@ The STAYAWAY COVID app has been installed by more than **1000000** times. At thi
 <img src="5_star_reviews_wordcloud.png" alt="fct.inesctec.stayaway 5 reviews"/>
 </p>
 
-> Muito bom<br> :date: __2020-11-30 14:36:48__
+> Tive com tanto com uma pessoa positiva<br> :date: __2020-12-05 00:38:08__
 
-> Com conhecimento mas sem casos em família e amigos e também 100 por cento de igiene<br> :date: __2020-11-29 17:13:25__
+> Dia🖤💜💙💚💋💝😾🖤💜💙💚😍😘<br> :date: __2020-12-04 23:53:31__
 
-> Parabéns<br> :date: __2020-11-29 12:51:51__
+> Desculpe, eu não posso instalar esta app sem autorização dos meus pais, eu sou uma criança e devo sempre pedir autorização aos pais... Desculpem<br> :date: __2020-12-04 22:54:11__
 
-> Parabéns aos seus criadores. Obrigado<br> :date: __2020-11-29 11:32:15__
+> Espero que seja Boa<br> :date: __2020-12-04 22:50:14__
 
-> Amei 😍<br> :date: __2020-11-29 01:50:27__
+> Gostei bastante Temos que fazer alguma coisa Eu é que agradeço Elza Borges<br> :date: __2020-12-04 17:30:07__
 
-> Boas<br> :date: __2020-11-29 01:35:07__
+> Acessível<br> :date: __2020-12-04 14:20:26__
 
-> Bom<br> :date: __2020-11-28 17:39:17__
+> A APP é excelente mas ninguém usa. Devia ser obrigatório o seu uso porque iria fornecer às autoridades de Saúde Pública informações importantes.<br> :date: __2020-12-04 10:57:58__
 
-> Ja tive en contacto com uma pessoa que ja teve covid 19<br> :date: __2020-11-28 09:20:55__
+> Fixe<br> :date: __2020-12-04 00:29:17__
 
-> Muito bom<br> :date: __2020-11-28 01:50:37__
+> Não tive ainda nenhuma. Acabei de instalar.<br> :date: __2020-12-03 22:48:03__
 
-> Boa<br> :date: __2020-11-27 20:18:28__
+> Essencial<br> :date: __2020-12-03 18:14:46__
 
 
 
@@ -165,9 +165,17 @@ The STAYAWAY COVID app has been installed by more than **1000000** times. At thi
 <img src="4_star_reviews_wordcloud.png" alt="fct.inesctec.stayaway 4 reviews"/>
 </p>
 
-> Editei o comentário devido ao esclarecimento. Tendo em conta a resposta parece-me então uma ferramenta importante na disseminação do vírus.<br> :date: __2020-11-27 17:16:20__
+> Bem, eu só consigo usar isto se tiver net, pois caso contrário estão sempre a enviar notificações a dizer para eu me ligar à net de 2 em 2 dias ou de 4 em 4. Ora se em Portugal existem 50 mil alunos sem computador ou net em caso no minimo ou 150 mil no máximo. A aplicação não é assim tão universal como dizem, nem têm smartfone ou android muitas das pessoas. É boa ideia mas parece feita num gabinete e sem adesão à realidade. Às vezes até dá erro. Enquanto não tivesse net eu ficava em pânico.<br> :date: __2020-12-04 18:37:57__
 
-> Podiam adicionar na app um separador com as medidas de restrição em vigor por conselho e nacionais, acabavam por dar uma segunda utilização importante e captar mais público pois sabiamos que era uma fonte rápida e confiável para consultar.<br> :date: __2020-11-25 20:33:06__
+> Espero que esta aplicação funcione realmente para que todos juntos possamos estar bem<br> :date: __2020-12-03 19:55:22__
+
+> Podiam adicionar na app um separador com as medidas de restrição em vigor por conselho e nacionais, acabavam por dar uma segunda utilização importante e captar mais público pois sabiamos que era uma fonte rápida e confiável para consultar. Poderia ser só uma fonte de informação sem recolha se dados. O utilizador escolhia o conselho e acedia à informação que queria. Será apenas um fonte credível e informação condensada.<br> :date: __2020-12-03 18:05:02__
+
+> ESTAR INFORMADO e alerta é o melhor para não ser infectado<br> :date: __2020-12-03 00:50:50__
+
+> Julgo-a muito útil.<br> :date: __2020-12-02 19:24:52__
+
+> Editei o comentário devido ao esclarecimento. Tendo em conta a resposta parece-me então uma ferramenta importante na disseminação do vírus.<br> :date: __2020-11-27 17:16:20__
 
 > Necessária.<br> :date: __2020-11-22 19:25:42__
 
@@ -177,14 +185,6 @@ The STAYAWAY COVID app has been installed by more than **1000000** times. At thi
 
 > Ótimo<br> :date: __2020-11-22 13:19:49__
 
-> Util<br> :date: __2020-11-21 19:50:10__
-
-> Não atualiza desde que foi instalada....<br> :date: __2020-11-20 07:53:12__
-
-> Boa<br> :date: __2020-11-18 23:53:09__
-
-> Não serve para grande coisa.<br> :date: __2020-11-17 14:57:57__
-
 
 
 #### 3-star reviews
@@ -192,6 +192,18 @@ The STAYAWAY COVID app has been installed by more than **1000000** times. At thi
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="fct.inesctec.stayaway 3 reviews"/>
 </p>
+
+> Razoável app<br> :date: __2020-12-05 19:08:58__
+
+> Que adianta ter a aplicação se não ter net no telemóvel eu por ex não tenho net na rua por isso não sei qual é o benefício<br> :date: __2020-12-03 20:23:10__
+
+> O exemplo perfeito de como uma boa ideia se torna numa aplicação inútil. Seria importante para rastrear contactos mas na prática não funciona. Instalei logo que ficou disponível mas vou desinstalar.<br> :date: __2020-12-03 20:15:36__
+
+> Tem 2 erros que inviabilizam a app. O primeiro é o código gerado não ser universalmente enviado aquando da informação a quem tenha resultado positivo, tenha ou não aplicação. A oportunidade perde-se. Falta depois também a indicação que já foi gerado um código, para que não se repita informação se não for pedida. A segunda é o SMS enviado não ter pelo menos o número de utente: uma família em que o telemóvel dado é o do pai e há 3 positivos, não se sabe a que código pertence cada familiar.<br> :date: __2020-12-02 19:57:37__
+
+> Tinham qye carregados os códigos na APP de forma automática de forma a evitar omissão de informação.<br> :date: __2020-12-02 00:42:35__
+
+> Espero que funcione!!!<br> :date: __2020-12-01 18:23:03__
 
 > Ainda não fui infetado, pelo menos nunca tive qualquer tipo de sintomas que levassem a crer que estava, no entanto e por uma questão de boa fé e de sentido de responsabilidade para com a comunidade, instalei a APP logo nos primeiros dias. Não sei se resulta, se é pelo menos eficaz, mas sim, aderi. Acho que todos o devem fazer, é uma questão de respeito por nós e por todos<br> :date: __2020-11-29 12:25:34__
 
@@ -201,18 +213,6 @@ The STAYAWAY COVID app has been installed by more than **1000000** times. At thi
 
 > Tenho uma dúvida... imaginemos q me encontro numa sala isolada e na sala ao lado (menos 2 metros) se encontra outra pessoa. Como a aplicação gere o facto de haver alcance de bluetooth entre as duas pessoas e o facto de estarem separadas por uma parede no caso de uma pessoa ter sido sinalizada com covid?<br> :date: __2020-11-25 12:44:34__
 
-> A ideia é boa, mas não tem qualquer interesse saber das pessoas que estiveram infetadas, pois só apresentariam perigo se estivessem infetadas. Em suma, inútil.<br> :date: __2020-11-25 12:08:21__
-
-> Apesar de a ter instalado desde o primeiro dia, não vejo grande utilidade nela. Quem sabe que está doente não sai de casa, quem tem a doença é não sabe continua a espalhar o vírus !<br> :date: __2020-11-24 11:51:11__
-
-> A exemplo de outras aplicações, por muito boas que possam ser às intenções, caso os players que têm a responsabilidade de inserir os dados que valorizem a função desta APP não o fizerem, torna-se uma inutilidade. Se o sistema a jusante não for automatizado ou profissionalmente gerido, esta aplicação torna-se inútil. 🤔<br> :date: __2020-11-24 10:03:34__
-
-> Quando entramos no app pela primeira vez, devia pedir n° utente de saúde, e os médicos fazerem isso pelo computador, antes de darem o código, a pessoa pode receber o código e não usar. Cor vermelha infectados, cor verde não infectados, cor branca não fez o teste e cor azul fez o teste, mas está a espera do resultado. E quem está a reclamar de gastar muita bateria, normal porque têm de ter o Bluetooth e a localização ativos. Gostava saber como vocês vão fazer com os idosos que não usam smartphone<br> :date: __2020-11-22 23:58:24__
-
-> Nenhuma experiência. Nunca me avisou de qualquer caso...<br> :date: __2020-11-22 23:12:54__
-
-> Podem adicionar uma função que nos diga se estamos num concelho com restrições mais severas, regras de circulação e o grau de risco? É que assim a app faria mais sentido.<br> :date: __2020-11-21 21:32:12__
-
 
 
 #### 2-star reviews
@@ -220,6 +220,18 @@ The STAYAWAY COVID app has been installed by more than **1000000** times. At thi
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="fct.inesctec.stayaway 2 reviews"/>
 </p>
+
+> Não vale de nada.....<br> :date: __2020-12-03 20:05:22__
+
+> Apesar das críticas negativas que li sobre a falta de códigos para os que tiveram infectados, tenho uma questão. Qua tos portugueses somos neste país? Considero que a ideia até é boa, mas eu julgava que éramos mais de 11 milhões, + de 1 milhão de downloads não chega sequer para ser eficaz... Mas pronto, vou só espreitar... Parabens pela ideia aos desenvolvidores. As estrelas para já são para esses corajosos.<br> :date: __2020-12-03 20:01:47__
+
+> Nao consigo tirar a poupança de bateria.Funciona na mesma?<br> :date: __2020-12-03 19:01:32__
+
+> Os códigos deveriam ser colocados automaticamente na aplicação e não estar a espera que os infectados colocassem.milhares de euros deitados ao lixo<br> :date: __2020-12-03 14:30:39__
+
+> Não funciona.<br> :date: __2020-12-01 21:17:19__
+
+> Wwas<br> :date: __2020-12-01 18:45:06__
 
 > A APP e chata que se farta e gasta bateria que se farta.<br> :date: __2020-11-29 23:25:11__
 
@@ -229,18 +241,6 @@ The STAYAWAY COVID app has been installed by more than **1000000** times. At thi
 
 > Um dreno de bateria para o meu cat s60... Goaway...<br> :date: __2020-11-27 21:32:05__
 
-> Boa a consumir bateria, no que respeita ao covid, deve estar alinhada com as teorias da conspiração, que acham que o vírus é uma invenção. Sou professor universitário, cruzo-me com centenas de pessoas, já tive /tenho alunos com covid e a app nada... Sendo proveniente da FCT também não admira que ignore a realidade...<br> :date: __2020-11-25 13:49:18__
-
-> Neste momento a ideia está a ser utilizada mas não deveriam usar um código que os infectados é que teriam de usar. Da melhor forma seria da seguinte: Todas as pessoas deveriam entrar na aplicação com o seu número de telemóvel, e caso der positivo, alguém na DGS invés de passar um código, colocar no momento o número da pessoa como infectada resultando na mesma coisa que acontece com os códigos.<br> :date: __2020-11-24 13:37:35__
-
-> Estranho ...perante aumento de casos.... aplicação não tenha ainda registado a proximidade proporcional<br> :date: __2020-11-24 13:14:46__
-
-> Quase não gasta bateria com o Bluetooth ligado e localização, mas quem não quer gastar bateria é só desligar quando está em em casa de forma segura, sem gente a entrar e sair ou ir à porta<br> :date: __2020-11-24 00:39:24__
-
-> Não serve pra nada.<br> :date: __2020-11-19 11:11:27__
-
-> De vez em quando autoinactiva-se para pedir permissões, quando na minha opinião, devia estar constantemente activa. Poderia ter outras informações úteis no âmbito governamental no que respeita à COVID e não estar apenas confinado à DGS!<br> :date: __2020-11-19 00:36:44__
-
 
 
 #### 1-star reviews
@@ -249,24 +249,24 @@ The STAYAWAY COVID app has been installed by more than **1000000** times. At thi
 <img src="1_star_reviews_wordcloud.png" alt="fct.inesctec.stayaway 1 reviews"/>
 </p>
 
-> Não instalem o governo quer com esta app nos controlar<br> :date: __2020-11-30 13:45:32__
+> Sou professor e temos vários alunos, funcionários e professores que infelizmente tiveram covid e a APP nunca detectou nada. Relembro que os alunos não tem os telemóveis nas aulas, e nenhum professor consegue estar 15 minutos ao pé do mesmo alunos onde temos 28 alunos nas turmas 😤😤😤<br> :date: __2020-12-05 17:46:28__
 
-> Gay<br> :date: __2020-11-30 12:51:48__
+> Estou à espera do dia em que vão apagar a app...<br> :date: __2020-12-05 15:44:31__
 
-> Soube de casos de covid que moram no mesmo apartamento que eu e nas proximidades nunca tinha ninguém. Simplesmente não vai funcionar porque tem muitas condicionantes<br> :date: __2020-11-30 04:58:15__
+> A APP é boa e á priori ajuda a detectar casos, mas o SNS e o governo não sabem como fazer uso de boas ferramentas como esta, por isso a 1* é mesmo por causa da má gestão do governo... E por causa da aplicação precisar de ter sempre a localização ativa e não funcionar com baixa precisão, o que faz com que consuma imensa energia... Á parte disto é uma boa aplicação (4*)<br> :date: __2020-12-05 00:55:51__
 
-> Queixam se da privacidade desta app, mas o facebook, instagram, tiktok e afins nem piam de fininho. Ignorantes! Revejam as políticas de privacidade dessas apps antes de fazer comparações.<br> :date: __2020-11-30 01:22:37__
+> Não acusa ninguém. Apenas só serve para gastar bateria<br> :date: __2020-12-04 19:24:01__
 
-> Isso é vergonha eu n sou obrigado a utilizar a apk lol<br> :date: __2020-11-30 00:39:06__
+> No geral esta aplicação que obrigam o povo a usar não funciona, por diversas razões: 1- O consumo de bateria é estúpidamente grande. Para quê obrigar a desativar a poupança de bateria e também ter a localização ligada? Uma coisa é o bluetooth, outra coisa é isto. 2- Nem todos têm telemóveis com android 10 ou superior! E a app é muito pesada. 3- Os códigos. Pelas razões já mencionadas por outros utilizadores. Se não melhoram isto não vai ser assim que combatemos o maldito do coronavírus!<br> :date: __2020-12-04 16:35:32__
 
-> 1º a aplicação para funcionar em pleno requer: Bluetooth ligado GPS ligado Dados ligados Optimização de bateria, desligado. 2º eu estou no centro de Vila do Conde, e a APP não encontra UM só caso positivo... 🤔 3º fiz o teste à bateria com a APP a funcionar em pleno, durou aproximadamente 3h, quando dura no mínimo 12h. Dica: Se for obrigatório o uso da APP, e forem confrontados pela polícia, é só dizerem que ficaram sem Bateria... 😏 Para uma APP do estado, leva 1 🌟, porque não dá menos...<br> :date: __2020-11-29 23:33:58__
+> Não presta<br> :date: __2020-12-04 15:55:14__
 
-> Teve com covid durante 10 dias e não recebi o código até hoje.<br> :date: __2020-11-29 22:47:17__
+> O aplicativo não funciona bem. Desinstalei.<br> :date: __2020-12-04 15:00:19__
 
-> I I I I I I I I 22s<br> :date: __2020-11-29 21:56:57__
+> A ideia é boa mas porquê usar o app se quem está doente não põe o código, e se quem está doente ou está em casa ou no hospital? O SNS é confuso e está degradado<br> :date: __2020-12-04 13:15:20__
 
-> De nada vale...<br> :date: __2020-11-29 20:34:10__
+> Ideia boa na teoria, horrível na prática!!<br> :date: __2020-12-04 06:10:29__
 
-> Se não sabem usar os piscas dos carros, imagina um app.<br> :date: __2020-11-29 20:28:46__
+> Não serve para nada.<br> :date: __2020-12-04 00:12:22__
 
 

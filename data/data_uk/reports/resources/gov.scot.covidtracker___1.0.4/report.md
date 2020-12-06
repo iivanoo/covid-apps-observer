@@ -140,6 +140,8 @@ The Protect Scotland app has been installed by more than **500000** times. At th
 <img src="5_star_reviews_wordcloud.png" alt="gov.scot.covidtracker 5 reviews"/>
 </p>
 
+> Important to download - seems to work well in the background<br> :date: __2020-12-04 15:10:39__
+
 > Easy go use and gives that feeling of security<br> :date: __2020-11-29 11:48:30__
 
 > Easy to use, watch you don't have your VPN switched on or it doesn't take any readings, wouldn't know it was working behind the scenes to help protect Scotland<br> :date: __2020-11-26 23:18:59__
@@ -157,8 +159,6 @@ The Protect Scotland app has been installed by more than **500000** times. At th
 > They are doing a great job<br> :date: __2020-11-21 01:21:23__
 
 > Easy to install and clear to use and secure so i can use it and i can delete data app at any time.<br> :date: __2020-11-19 18:37:29__
-
-> Saves lives<br> :date: __2020-11-19 12:20:24__
 
 
 
@@ -196,6 +196,8 @@ The Protect Scotland app has been installed by more than **500000** times. At th
 <img src="3_star_reviews_wordcloud.png" alt="gov.scot.covidtracker 3 reviews"/>
 </p>
 
+> It would be great if updates of local area were posted, and the latest government updates policy in the area.<br> :date: __2020-11-30 17:37:16__
+
 > App is fine but uses a LOT of data.<br> :date: __2020-11-27 16:07:22__
 
 > On samsung devices you must ensure that disable apps setting is off otherwise the app will be disabled automatically after 30 days of not being used<br> :date: __2020-11-27 03:00:14__
@@ -213,8 +215,6 @@ The Protect Scotland app has been installed by more than **500000** times. At th
 > Dasi<br> :date: __2020-11-13 17:56:32__
 
 > Wouldn't complete installation<br> :date: __2020-11-13 13:37:20__
-
-> Using as a visitor from England and have to say it lacks compared to NHS COVID 19 app. No check-in with QR code or postcode/level notification. Also had to disable power saving in settings otherwise it closes and doesn't do exposure checks. Someone without technical knowledge wouldn't be aware how to change this, therefore rendering the app pointless.<br> :date: __2020-11-04 22:49:52__
 
 
 
@@ -252,6 +252,8 @@ The Protect Scotland app has been installed by more than **500000** times. At th
 <img src="1_star_reviews_wordcloud.png" alt="gov.scot.covidtracker 1 reviews"/>
 </p>
 
+> Keeps telling me my bluetooth is switched off every couple of random hours or so (including the middle of the night) but when I double check every time to see if it has switched off, I find that it is most definately switched "ON". Like everything else the UK builds or creates, can't be trusted.<br> :date: __2020-12-03 22:35:47__
+
 > Crashes on opening the app, every time.<br> :date: __2020-11-29 12:11:32__
 
 > You can't get the self isolation grant if you use this app and told to self isolate as the guidelines don't cover it I was told to self isolate for 14 days apparently id been in contact as a result of this my job replaced me I did not get any wages or sick pay and lost my job so I wouldn't waste my time with the app this is now deleted from my phone<br> :date: __2020-11-27 19:23:17__
@@ -269,7 +271,5 @@ The Protect Scotland app has been installed by more than **500000** times. At th
 > The app seems fine, but the exposure notifications in Google says it hasn't checked since the 24th Oct (today being the 19th Nov) My phone goes everywhere with me, everything is up to date on my Samsung s10+ and there was no reply from the developer at the email address given. I guess I just have to hope it is working? EDIT: Paused tracing in the app while at home, restarted it and it did a check at last.<br> :date: __2020-11-20 22:28:09__
 
 > Needs bt and location.drains battery fast.Useless<br> :date: __2020-11-20 19:29:06__
-
-> 15 mins is to long. I'm a delivery driver and I'm not in anyones company for that long. Surely you can catch covid in less than 15 mins Thought I'd add to my review My friends have just got the bug 5 days ago and they haven't got a call from track and trace yet. So what is the point of the app. He was also told to let his kids to keep going to school after him being positive.<br> :date: __2020-11-20 03:40:54__
 
 

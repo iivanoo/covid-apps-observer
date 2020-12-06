@@ -190,6 +190,14 @@ The Kry – See a Doctor by Video app has been installed by more than **500000**
 <img src="5_star_reviews_wordcloud.png" alt="se.kry.android 5 reviews"/>
 </p>
 
+> Good<br> :date: __2020-12-04 17:54:07__
+
+> Man får snabb hjälp. Trevliga personal<br> :date: __2020-12-03 17:41:55__
+
+> Excellent<br> :date: __2020-12-03 04:42:46__
+
+> Great to have gotten video appointment with a doctor in minutes. Good suggestions and guidance by the doctor.<br> :date: __2020-12-01 09:39:38__
+
 > Vwry helpful<br> :date: __2020-11-28 11:00:33__
 
 > Super bra app! Fick hjälp inom 30 min kl 7 på morgonen och behövde inte lämna hemmet!<br> :date: __2020-11-26 14:33:38__
@@ -202,14 +210,6 @@ The Kry – See a Doctor by Video app has been installed by more than **500000**
 
 > The best, they take their time to know your problem and they help their patients regards<br> :date: __2020-11-23 13:17:54__
 
-> This is great! Fast and easy! Really helpful, especially during covid!<br> :date: __2020-11-12 21:17:03__
-
-> Mycket bra och smidigt!<br> :date: __2020-11-12 10:12:28__
-
-> Having used this twice now it's great. The doctor could prescribe medicine which i could collect directly from my local pharmacy, once over the counter and once only by prescription.<br> :date: __2020-11-11 11:31:56__
-
-> Lätt att använda, hjälpsam läkare.<br> :date: __2020-11-10 17:49:52__
-
 
 
 #### 4-star reviews
@@ -217,6 +217,8 @@ The Kry – See a Doctor by Video app has been installed by more than **500000**
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="se.kry.android 4 reviews"/>
 </p>
+
+> Fast and reliable<br> :date: __2020-12-02 13:32:21__
 
 > Good<br> :date: __2020-08-27 15:43:06__
 
@@ -236,8 +238,6 @@ The Kry – See a Doctor by Video app has been installed by more than **500000**
 
 > Good and easy<br> :date: __2020-03-07 11:45:17__
 
-> Little shaky connection but ultimately very helpful!<br> :date: __2019-12-20 09:42:00__
-
 
 
 #### 3-star reviews
@@ -256,6 +256,8 @@ The Kry – See a Doctor by Video app has been installed by more than **500000**
 <img src="2_star_reviews_wordcloud.png" alt="se.kry.android 2 reviews"/>
 </p>
 
+> I had a urology question. Long delays with misleading 'just a few minutes', no good for specialist questions. Just go directly to the specialist if you need one. The app could have told me so via FAQ or so.<br> :date: __2020-12-03 18:27:22__
+
 > Kunde inte byta sråk till svenska har min mobil inställd på engelska är lättaste för mig att fatta inställningarna då appar blir oftast automatiskt påå engelska brukar inte ha problem med att byta menn av nån anledning vill spåkändring till sevska inte funka. Inga större problem för mig litee svårt attt fatta viss information. Ville se om de fans online chatt ville mäst ha råd om jag borde åka in och få de kollat verka bara finnas vidochat<br> :date: __2020-05-10 00:25:41__
 
 > Det verkar som om läkarna inte läser det jag skriver och inte heller läst journalen ordentligt. Fick fel medicin utskrivet två gånger på rad för samma åkomma. Ge patienten liter mer tid och uppmärksamhet istället.<br> :date: __2020-04-13 12:49:56__
@@ -273,8 +275,6 @@ The Kry – See a Doctor by Video app has been installed by more than **500000**
 > No way to see Privacy policy in English version of app. No way to view the Swedish ToS during registration in the English version, even if it states that the Swedish edition will overpower the English one if there is anything lost in translation. This is a serious flaw. Also giving wrong time when booking meeting. Country and UTC + hour code does not match the actual time in specifc country. Not sure which one to follow. Country or UTC code?<br> :date: __2019-06-07 09:53:56__
 
 > Soon after downloading the app it says that you are not connected to the internet. Reinstalled twice same error.<br> :date: __2018-11-11 10:54:27__
-
-> Expensive and no option to choose invoice<br> :date: __2018-11-06 18:07:09__
 
 
 

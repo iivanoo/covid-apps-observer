@@ -218,6 +218,8 @@ The Check In CBR app has been installed by more than **10000** times. At this ti
 <img src="4_star_reviews_wordcloud.png" alt="au.gov.act.health.checkin 4 reviews"/>
 </p>
 
+> First try today - so very relieved to have no issues at Restaurant. Guess there's no need to checkout on departure?<br> :date: __2020-12-04 03:55:33__
+
 > Not enough businesses on it. Many still using pen and paper.<br> :date: __2020-10-17 05:00:51__
 
 > Samsung GS7 will not scan QR code. App has camera permission enabled. Phone will scan QR codes, but not in this app. Fixed! Thanks! App now returns "Not a check in CBR code" on invalid QR scans<br> :date: __2020-10-02 04:18:26__
@@ -254,6 +256,8 @@ The Check In CBR app has been installed by more than **10000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="au.gov.act.health.checkin 1 reviews"/>
 </p>
 
+> It won't work never get number<br> :date: __2020-12-05 07:21:05__
+
 > Didn't recognise QR codes at a pub and at the Australian National Museum. Strange as other QR code reader redirected me to this Canberra Check in app anyway. Android / Oppo<br> :date: __2020-11-25 22:13:55__
 
 > Won't install!! Running a Samsung Note 10 so shouldn't be a compatibility issue!!<br> :date: __2020-11-14 04:53:26__
@@ -271,7 +275,5 @@ The Check In CBR app has been installed by more than **10000** times. At this ti
 > Didn't download while I was at the venue. Now I don't have the QR code so cannot check in. What's wrong with QR link to a webpage? That works well. This app just adds failure.<br> :date: __2020-10-06 12:33:53__
 
 > Poor. Three venues in a row where the QR code isn't recognised.<br> :date: __2020-10-02 04:04:22__
-
-> Had my first chance to use it yesterday but the QR code would not scan (Oppo R9s). Does this app require internet connection when scanning the QR code? I had my data switched off and the app did not indicate it needed to be enabled.<br> :date: __2020-10-02 03:48:44__
 
 

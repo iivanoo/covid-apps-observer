@@ -129,6 +129,8 @@ The DC CAN app has been installed by more than **10000** times. At this time, **
 <img src="5_star_reviews_wordcloud.png" alt="gov.dc.covid19.exposurenotifications 5 reviews"/>
 </p>
 
+> greattonow#loveallwayd 🌏🏟<br> :date: __2020-12-02 14:29:29__
+
 > Trying for the first time.<br> :date: __2020-11-11 06:18:20__
 
 > It's good I like it,<br> :date: __2020-11-03 03:08:46__
@@ -146,8 +148,6 @@ The DC CAN app has been installed by more than **10000** times. At this time, **
 > Doliwlid keep all safe<br> :date: __2020-10-21 01:56:18__
 
 > Install this app, wear a mask and listen to science PLEASE. Hopefully Maryland will roll their application out soon as well.<br> :date: __2020-10-20 15:47:39__
-
-> So far so good. Promising interface. You much delete any other COVID tracing software, such as Virginia's, that may be on your phone.<br> :date: __2020-10-20 14:52:42__
 
 
 

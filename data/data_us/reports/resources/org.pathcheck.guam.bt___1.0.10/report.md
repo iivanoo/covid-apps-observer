@@ -172,8 +172,6 @@ No recent reviews available with 4 stars.
 <img src="3_star_reviews_wordcloud.png" alt="org.pathcheck.guam.bt 3 reviews"/>
 </p>
 
-> Not from Guam works fine<br> :date: __2020-11-29 13:22:18__
-
 > HOW WILL I KNOW WHEN SOMEONE IS INFECTED? I ALWAYS HAVE TO KEEP MY BLUETOOTH ON. I WISH THIS APP WILL LET ME KNOW IF SOMEONE NEXT TOO ME IS INFECTED WITH COVID-19.<br> :date: __2020-10-01 11:11:11__
 
 

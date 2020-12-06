@@ -297,6 +297,8 @@ The SM_Covid19 app has been installed by more than **50000** times. At this time
 <img src="1_star_reviews_wordcloud.png" alt="it.softmining.projects.covid19.savelifestyle 1 reviews"/>
 </p>
 
+> Decerebrati<br> :date: __2020-12-04 11:55:01__
+
 > Opzione anti assembramento.avvisa se ci sono meno di tot persone.dovrebbe segnare il superamento di tot persone.<br> :date: __2020-11-24 06:34:30__
 
 > Non funziona<br> :date: __2020-11-17 22:27:14__
@@ -314,7 +316,5 @@ The SM_Covid19 app has been installed by more than **50000** times. At this time
 > L' app consuma troppo batteria<br> :date: __2020-10-05 00:04:40__
 
 > Bah. Non ne capisco l'utilità<br> :date: __2020-09-12 00:45:24__
-
-> Pessima da migliorare tutto<br> :date: __2020-08-23 18:06:12__
 
 

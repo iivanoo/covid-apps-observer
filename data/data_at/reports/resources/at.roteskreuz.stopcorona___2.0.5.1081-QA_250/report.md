@@ -148,6 +148,14 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 <img src="5_star_reviews_wordcloud.png" alt="at.roteskreuz.stopcorona 5 reviews"/>
 </p>
 
+> Die App lässt sich einfach nicht installieren!<br> :date: __2020-12-01 18:45:34__
+
+> Top App um die Ausbreitung zu verhindern!<br> :date: __2020-12-01 12:51:08__
+
+> Sehr gut<br> :date: __2020-12-01 08:03:57__
+
+> Lege die App jeden ans Herz<br> :date: __2020-11-30 15:53:08__
+
 > Alles o. K. Auch kein erhöhter Stromverbrauch zu bemerken<br> :date: __2020-11-30 14:08:51__
 
 > Habe sie noch nicht benötigt.<br> :date: __2020-11-30 12:25:25__
@@ -159,14 +167,6 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 > wenn man für die Gesellschaft was tun kann und Leben Retten kann ,klar installiere ich Sie !!!<br> :date: __2020-11-30 10:46:06__
 
 > Funktioniert jetzt!<br> :date: __2020-11-30 10:32:18__
-
-> Funktioniert! Zur Anfang gabe es viele kritische Meldungen und Probleme zur App, inzwischen funktioniert diese problemlos. Sicher eine sinnvolle Hilfe zur Bewältigung einer allgemein herausfordernden Zeit.<br> :date: __2020-11-27 18:29:29__
-
-> Sehr gute app<br> :date: __2020-11-26 20:13:22__
-
-> App macht Sinn 😀<br> :date: __2020-11-25 20:24:59__
-
-> Interessant wäre eine Statistik wie lange ich in der Nähe eines Kontaktes war (egal ob Krank oder nicht) Die Stunde und Anzahl der Personen mit Dauer unter 5 Minuten, 5-10 Minuten, 10-15 Minuten und Anzahl der Kontakte mit Dauer über 15 Minuten.... Okey Datenschutz, aber ich könnte sowieso sehen wer in der Nähe wie lang ist, nur will ich nicht den Aufwand treiben, wenn der Computer das übernehmen kann....<br> :date: __2020-11-23 17:40:43__
 
 
 
@@ -204,6 +204,18 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 <img src="3_star_reviews_wordcloud.png" alt="at.roteskreuz.stopcorona 3 reviews"/>
 </p>
 
+> Die Idee Ansicht ist gut, aber man muss immer Bluetooth anlassen so wie den Standort, das verbraucht viel Akku. Aber sonst ist die Idee sehr gut, damit man die Verbreitung vermindern kann, dennoch funktioniert das nur wenn es mehr Leute benutzen<br> :date: __2020-12-02 11:32:56__
+
+> Wie auch schon berichtet, besteht keine Möglichkeit, nach einer Infektion wieder auf Gesund zu wechseln. Eine Email Anfrage wurde schnell aber nicht hilfreich beantwortet.<br> :date: __2020-12-01 19:29:16__
+
+> War krank, habe alle über die App informiert, bin wieder gesund dennoch bekomme ich permanent die Aufforderung meine ID s zu benachrichtigen, kann das nicht abstellen. Werde alles löschen 😠<br> :date: __2020-12-01 11:30:36__
+
+> Habe noch keine Erfahrung, darum nur 3 Sterne.<br> :date: __2020-12-01 09:02:45__
+
+> Grundsätzlich eine gute Idee, aber muss es sein dass man ständig Bluetooth aktiviert hat? Ich will nicht das Handy den ganzen Tag neben mir liegen haben, oder gar in der Hosentasche, während Bluetooth aktiviert ist...<br> :date: __2020-11-30 17:20:55__
+
+> Solange diese App auf älteren Handys nicht installiert werden kann, weil auf den Play Stores (zB. Galaxy S4, Android-Version 5.0.1) nicht vorhandenen, wird das nichts werden. Gerade die ältere Generation hat nicht nie neuesten Handys. Also selbst wenn man will, es geht technisch nicht. Sollte ich hier falsch liegen, ersuche ich Rückmeldung.<br> :date: __2020-11-30 15:24:14__
+
 > Muss noch ausgereift werden! Ansonsten ne gute Idee... 😉<br> :date: __2020-11-30 11:47:31__
 
 > Ich versteh die app nicht, sollte sie nicht nur über Bluetooth arbeiten? Warum muss ich dann die Standortbestimmung einschalten? Ich hab die sehr absichtlich deaktiviert weil es für eine normale Nutzerin einfach überhaupt nicht nachvollziehbar ist, welche Daten da an wen geschickt werden...<br> :date: __2020-11-24 16:00:21__
@@ -212,18 +224,6 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 
 > Leider kooperiert die App nicht mit anderen "Corona Apps". Für mich, im Grenzgebiet zur Schweiz wohnend, ist es sehr umständlich ständig von der Ö-App zur Ch-App umzuschalten. Beide Apps lassen nur jeweils einen Zugriff auf Bluetooth zu.<br> :date: __2020-11-20 06:45:24__
 
-> Man sieht nicht gut, ob und wie die App funktioniert. Was heißt unter gespeicherte IDs "Anzahl der Schlüssel" ? ..wenn das die Anzahl an möglichen Kontakten, die die App haben, sein soll, dann kann das nicht stimmen. Viel zu viel.<br> :date: __2020-11-19 16:14:51__
-
-> Fragt immer wieder das gleiche<br> :date: __2020-11-17 14:49:06__
-
-> Es wäre wichtig beobachten zu können, dass die App auch tatsächlich aktiv ist. am interessantesten wäre es doch die Anzahl der gespeicherten Handshakes und das jeweilige Datum dazu anzuzeigen! Ich finde auch ein akustisches Signal im Falle eines Handshakes sehr interessant! So hat man eigentlich das Gefühl dass die app nichts tut und ist sich auch nicht sicher ob sie wirklich funktioniert! Die Anzeige der Anzahl der Handshakes wäre auch hilfreich um das eigene Verhalten zu überprüfen!<br> :date: __2020-11-17 02:57:23__
-
-> Auf älteren iPhones (konkret iphone6) kann die App nicht installiert werden<br> :date: __2020-11-16 14:21:37__
-
-> Können wir uns einfach darauf einigen, dass wir alle die deutsche Corona App verwenden? Aus dieser hier wird leider nichts mehr - kein klares Feedback in der App, keine Beantwortung von Fragen, keine Weiterentwicklung...<br> :date: __2020-11-16 12:46:59__
-
-> Ansich eine gute App, - nur leider Wertlos wenn sie so gut wie niemand (spreche von meinem Freundes, u. Bekanntenkreis) installiert hat. Wäre nicht schlecht wenn es eine Implementierung in FB, Twitter, Insta & Co gäbe, das hat fast jede/r 😜<br> :date: __2020-11-16 10:22:37__
-
 
 
 #### 2-star reviews
@@ -231,6 +231,12 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="at.roteskreuz.stopcorona 2 reviews"/>
 </p>
+
+> Funktioniert einfach nicht. Wochen lang damit herum gelaufen, kein einziger Kontakt. Das kann nicht sein, oder habe ich als einziger die app installiert? 🤔😂<br> :date: __2020-12-04 23:13:43__
+
+> Kann nach Gesundmeldung die Krankmeldung in der App nicht deaktivieren!!<br> :date: __2020-12-03 09:48:22__
+
+> Man müsste unbedingt den Zeitpunkt vom bemerken der Symptome eingeben können. Die Inkubationszeit könnte die App von sich aus dazurechnen. Wenn ich nach 5 Tagen getestet werde und 2 Tage auf das Ergebnis warten muss, werden viele Kontakte nicht erreicht, noch dazu wo Covid anfangs am ansteckendsten ist.<br> :date: __2020-12-03 08:37:21__
 
 > Benachrichtigungen und Warnhinweise kommen nach Verdachtsfall (Test negativ) und Ablauf der trotzdem eingehaltenen Quarantäne immer noch täglich mehrmals lassen sich nicht mehr deaktivieren. Das führt dazu, dass ich die App deinstallieren möchte obwohl ich sie generell gut fände. Die Prozesse gehören dringend überarbeitet!<br> :date: __2020-11-23 08:13:14__
 
@@ -246,12 +252,6 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 
 > Gute Absicht aber leider sehr schlechte Umsetzung. Der User hat generell das Gefühl, es passiert nichts. Als mindest-Info sollte man gleich am Startbildschirm Zähler für n Kontakte, Zähler je Tag, eventuell auch Zähler >15 Min. sehen. Eine APP die nichts zeigt - was soll das sein?<br> :date: __2020-11-17 17:29:13__
 
-> Installation fertig,und jetzt??<br> :date: __2020-11-17 11:01:04__
-
-> Gut gemeint aber leider nicht gut umgesetzt. Wenn ich die App monatelang auf meinem Handy habe, wäre zumindest interessant mit wie vielen anderen Personen die ich getroffen habe sie sich bereits synchronisiert hat. Derzeit sieht es einfach nur danach aus als würde die App nichts tun / nichts können. Zuviel verlangt, dass da steht: Sie haben sich bereits mit XX unterschiedlichen Personen synchronisiert?<br> :date: __2020-11-15 17:16:59__
-
-> Ich bin leider Corona Positiv getestet worden & obwohl ich Bluetooth&GPS deaktiviert hatte, da in Quarantäne, hatte ich 2 neue Handshakes - woher? Keiner im Haus hat die APP und ganz nice - ich kann mich nicht mehr Gesundmelden, obwohl ich bereits aus der Quarantäne entlassen bin!! Wie diese Handshakes von statten gehen sind mit ein Rätsel und 6x am Tag Symptome abfragen und obwohl positiv dann die allg. Empfehlungen... naja Auch bei den Symptomen könnte nachgebessert werden!<br> :date: __2020-11-12 19:05:12__
-
 
 
 #### 1-star reviews
@@ -260,24 +260,24 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 <img src="1_star_reviews_wordcloud.png" alt="at.roteskreuz.stopcorona 1 reviews"/>
 </p>
 
-> Die Bestätigung funktioniert nicht<br> :date: __2020-11-30 13:51:57__
+> Wann schafft ihr es enflich das sie Länderübergreifend funktioniert??? Voraussetzungen sind geschaffen, verschläft ihr diese Möglichkeit genauso wie den Lockdown? Das ist speziell im Grenzgebiet ganz schlecht. Und aus der resonanz der Antworten von euch auf die Bewertungen sieht man eh euer Interesse an einer funktionierenden App.<br> :date: __2020-12-05 12:41:30__
 
-> Verbraucht extrem viel Akku und was den Datenschutz angeht, bin ich sehr skeptisch. Leider kann ich diese App so keinesfalls empfehlen!!<br> :date: __2020-11-30 13:46:37__
+> Nicht möglich, das Datum der Erkrankung genau zu erfassen. Nicht möglich, sich wieder gesund zu melden. Unbrauchbar 😩😡<br> :date: __2020-12-05 11:43:15__
 
-> Finde die Idee sehr gut aber die App sollte Automatisiert werden. Läuft im Hintergrund und jeder der BT aktiviert hat und in die Nähe kommt wird verbunden. Man kann ja eine Push Mitteilung bekommen mit Bestätigung. Willst du? Ja/Nein. Update 30.11. Zu hohe Anforderungen an das Betriebssystem. IPhone 5 geht nicht, Samsung S3 geht nicht, Iphone4s geht nicht. Wer zahlt neues Handy, die Regierung und die unfähigen Programmierer. Weniger Anforderung=mehr Nutzer.<br> :date: __2020-11-30 13:26:16__
+> Habe die App deinstalliert, weil die neue Version nicht anzeigt wieviele Kontakte sie registriert hat. Die Idee für die App ist gut, aber die Umsetzung ist sehr sehr schlecht.<br> :date: __2020-12-05 10:01:25__
 
-> Naja, habe es jetzt geladen. Bluetooth etc aktiviert und Berechtigungen erteilt. App sagt aber dennoch das ein Fehler aufgetreten ist, soll Bluetooth aktivieren 🧐<br> :date: __2020-11-30 10:51:39__
+> Die App so so eine richtige Verschwendung für meinen Speicher. Sofort wieder gelöscht. Empfehle weiter nicht zu installieren!!!<br> :date: __2020-12-04 14:52:58__
 
-> Leider eine Enttäuschung. Habe die App fast 2 Monate schon in Nutzung. Anfangs vermittelt dir die App ein Gefühl von Sicherheit. Nachdem ich an Corona erkrankt bin, habe ich sofort nach behördlicher positiver Testbestätigung die App auf "erkrankt" gestellt. Nach Ablauf der Quarantäne bin ich offiziell wieder gesund. Nur für die App bist du immer krank. Da gibt es keine Möglichkeit eine Erkrankung wieder auf gesund zu stellen. Auf Anfrage per Mail (vor 5 Tagen) wird nicht reagiert. Deinstalliert<br> :date: __2020-11-30 07:43:08__
+> Funktioniert ohne Google Play Services nicht, Huawei Nutzer werden ausgeschlossen<br> :date: __2020-12-03 10:50:15__
 
-> Verständigung nur von Kontakten der letzten zwei Tage (siehe FAQ) macht bei der derzeitigen Test-Situation in 🇦🇹 die App obsolet! Weiterhin keine 🇪🇺Lösung 1 Stern für Github<br> :date: __2020-11-29 15:29:44__
+> Wenn man sich Erkrankt meldet und die angeordnete Quarantänezeit hinter sich hat kann man sich nicht auf wieder gesund setzen also muss man den digitalen Handshake ausschalten um nicht Fehlalarm bei anderen zu verursachen. Dann wird man ja aber nicht mehr von anderen Kontakten gewarnt. Das ändert sich auch nicht, wenn man eine Woche lang mehrmals täglich auf Nachfrage der App die Frage wie es einem geht, mit gut beantwortet.<br> :date: __2020-12-03 07:18:55__
 
-> Vermutlich sinnlos ich will das mein Handy scheppert bevor sich eine Seuche Schleuder nähert.<br> :date: __2020-11-29 15:08:43__
+> Kommisch ich noch viel l@nger das neue mit einschalten im Google geht neu mein Mate 20 lite nicht und das ist 1jahr und 4monate alt, system 10, 10 👣🕊️👍<br> :date: __2020-12-02 11:58:04__
 
-> Verlangt ohne Erklärung meine Telefonnummer zur Verarbeitung durch das Rote Kreuz. Damit ist man eindeutig zuordenbar dank der Registrierungspflicht durch die Rechtsextremen. Ist ganz klar, was die türkise Truppe damit bezweckt, nach dem Terroranschlag von Wien ist deswegen auch keiner von den Versagern zurückgetreten. Und Corona wird immer nur im letzten Moment bekämpft, und die Arbeitskräfte ausgequetscht. Es geht nur um Kontrolle und Niederhalten der Bevölkerung für die reichen Säcke.<br> :date: __2020-11-29 13:19:46__
+> App deinstalliert, tut absolut nichts außer Strom verbrauchen.<br> :date: __2020-12-01 20:00:25__
 
-> Ohne aktuelle Meldung -z.B. per App-Symbolindikator - über Handshake's werde ich es nicht wieder downloaden. Bisher wurden auch Handshake's angezeigt wenn ich zuhause war und kein weiteres Corona-App.-,Handy im Haus war. Erst wenn ich sicher ein Feedback aktuell erhalte, dass die App was tut werd' ich es wieder installieren.<br> :date: __2020-11-29 10:48:09__
+> Konnte bisher nicht runter geladen werden. Dauert endlos. Ganze Nacht und noch immer nicht fertig.<br> :date: __2020-12-01 09:41:10__
 
-> Behindert andere Bluetooth Anwendungen in ihrer Ausführung. Synchronisation mit meiner Polar Uhr konnte nicht mehr durchgeführt werden. Nach der Deinstallation der Corona App ging es wieder einwandfrei. NOGO<br> :date: __2020-11-28 17:21:15__
+> Mit einem positiven PCR Testergebnis (ohne Symptome) ist die App nicht geschaffen! Warum? Weil nicht die Kontakte automatisch informiert werden, ab dem Zeitpunkt der Testung. Es gibt nur eine Info, wenn man angibt Symptome zu haben. = Keine Symptome, keine Meldung, keine Info an Kontakte. Ich habe die App wieder deinstalliert.<br> :date: __2020-12-01 08:52:56__
 
 

@@ -164,6 +164,8 @@ The GuideSafe app has been installed by more than **50000** times. At this time,
 <img src="4_star_reviews_wordcloud.png" alt="gov.adph.exposurenotifications 4 reviews"/>
 </p>
 
+> When trying to report test results, it only says "Server Failure" and won't allow them to be reported. Makes me very skeptical about others being able to report positive tests and alert others. This app has one very important function and it's failing to do its one job.<br> :date: __2020-12-04 00:17:48__
+
 > The app itself was easy enough to set up. I think most of the issues people are having with this all is not understanding it won't work as accurately if more people don't use it, and people not understanding how the technology works. I will continue to use the app and update my review later.<br> :date: __2020-11-27 07:41:56__
 
 > The Whole Problem With This Is Unless Everyone Uses App Kinda Useless Because No Matter How Many People I Try To Educate On The Importance Of Everyone Doing This No One Sees The Importance ! Needs To Be Mandatory !<br> :date: __2020-11-23 03:04:20__
@@ -187,6 +189,8 @@ The GuideSafe app has been installed by more than **50000** times. At this time,
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="gov.adph.exposurenotifications 3 reviews"/>
 </p>
+
+> Great if it would work. I tested positive and want to alert others by using the app. When it asks me to verify the code sent to my phone, I can't because it never sends the code. I've tried over and over.<br> :date: __2020-12-01 18:35:17__
 
 > None<br> :date: __2020-11-25 00:11:08__
 
@@ -222,6 +226,12 @@ The GuideSafe app has been installed by more than **50000** times. At this time,
 <img src="1_star_reviews_wordcloud.png" alt="gov.adph.exposurenotifications 1 reviews"/>
 </p>
 
+> Opened the app to report a positive test and found out it hasn't updated since Nov 26 (its currently Dec 4). All of my settings are correct, my Bluetooth and location stay on anyway. It took several tries over the course of a few minutes to get it to save my test input which is like, there is literally one thing this app is for. Why can it not just do the thing. I'm asymptomatic but if I was sick sick I wouldn't have the energy to fight to get it to post.<br> :date: __2020-12-05 02:40:57__
+
+> I tested positive and I can't get the verification sms to my phone<br> :date: __2020-12-01 20:25:23__
+
+> App doesnt work, turns off your bluetooth which is needed for the app to work.<br> :date: __2020-12-01 15:05:51__
+
 > The app has serious bugs. Mine doesn't let me past the "Your Privacy is Safe" screen even after clicking the disclaimer and clicking on the green "more" button.<br> :date: __2020-11-27 13:22:21__
 
 > It's a waste of time<br> :date: __2020-11-26 18:59:13__
@@ -235,11 +245,5 @@ The GuideSafe app has been installed by more than **50000** times. At this time,
 > Don't work<br> :date: __2020-10-29 11:31:00__
 
 > Not accurate in the least!!!! Good intentions, but poorly executed.<br> :date: __2020-10-26 12:50:39__
-
-> 10/25/2020 complete and total invasion of our privacy.<br> :date: __2020-10-25 16:48:19__
-
-> The absolute state of Pandemic politicization. Hear me now: I don't fear the plague. I fear the government and private sector for whom their belief in synthetic solutions divide us from our rights like a the wake of a speedboat.<br> :date: __2020-10-25 02:09:41__
-
-> I have this app with Bluetooth on. I have found out I've been exposed and they have the app... and crickets. Nothing.<br> :date: __2020-10-25 01:36:04__
 
 

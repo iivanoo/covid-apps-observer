@@ -146,25 +146,25 @@ The COVID Alert app has been installed by more than **1000000** times. At this t
 <img src="5_star_reviews_wordcloud.png" alt="ca.gc.hcsc.canada.stopcovid 5 reviews"/>
 </p>
 
+> I AM NEGATIVE AND I'M NOT GOING TO BE POSITIVE BECAUSE I'M REALLY ISOLATED FROM EVERYONE ELSE IN MY ROOM BECAUSE I'M NOT GOING TO CATCH THIS STUPID VIRUS BECAUSE OF SOMEONE ELSE BIG MISTAKE AND I'M TOTALLY CONFINED FROM EVERYONE SO PLEASE HELP GETTING INTO THE STUPID VIRUS TO PLEASE STAY SAFE AND PLEASE STAY AWAY FROM ANYONE ELSE WHO IS POSITIVE BECAUSE I REALLY DON'T WANT TO GET THE STUPID VIRUS THAT IS real SO PLEASE STAY SAFE<br> :date: __2020-12-05 10:16:42__
+
+> Just do it! Download for the safety and health of us all. Even if you aren't bothered by the whole pandemic thing, download it anyways, it could very well save the life of a loved one. Cheers folks! Hang in there! We got this!<br> :date: __2020-12-04 16:45:02__
+
+> Great initiative<br> :date: __2020-12-04 16:15:46__
+
+> One of many tools to keep us safe.<br> :date: __2020-12-04 12:39:54__
+
+> Perfect<br> :date: __2020-12-02 15:04:31__
+
+> App has been updated and exposure checks are now being conducted regularly. Gives me some peace of mind.<br> :date: __2020-11-30 22:49:17__
+
+> The app is now correctly automatically checking the IDs against the servers here in Nova Scotia! Thanks for the fix covid alert team!<br> :date: __2020-11-30 22:35:14__
+
 > It's a damn good app. Very reliable to boot!<br> :date: __2020-11-29 21:46:17__
 
 > I feel alot safer having it when returning from the grocery store I check it all the time<br> :date: __2020-11-29 18:28:48__
 
 > Have not used it yet.<br> :date: __2020-11-29 02:08:50__
-
-> Alright app I noticed Bluetooth required to be turned on<br> :date: __2020-11-29 00:31:22__
-
-> Do your part, install the app. You don't even know it's there.<br> :date: __2020-11-28 22:19:05__
-
-> Does what it says on the tin! Devs listened and fixed the problem thank you!<br> :date: __2020-11-28 20:12:50__
-
-> Nice to have this kind of protective measure in hand to prevent ourselves from COVID 19 and similar cases. Thanks!<br> :date: __2020-11-28 15:08:49__
-
-> Covid 19 is respiratory disease like seasonal flu. This is not an STD or piles. What is the matter of these much privacy. I got alert today. It says I got exposed to 15 minutes..I can't believe that I got an exposure. I went only to gas station once, grocery once, doctor once and everyday to work in last 14 days. Why can't this app send the postal code where I got exposed. What privacy is getting violated by giving the location of exposure for clarification.<br> :date: __2020-11-28 02:11:36__
-
-> Excellent... The more people that use it, the more accurate it becomes as a Covid-19 tracking tool!!!<br> :date: __2020-11-27 22:44:30__
-
-> We need to immediately make the COVID-19 national contact tracing app operational in Alberta. Why is the Alberta Government keeping this app from us while forcing us to use an app that they created and doesn't work? Maybe it is because they are just data mining...<br> :date: __2020-11-26 21:01:16__
 
 
 
@@ -174,7 +174,11 @@ The COVID Alert app has been installed by more than **1000000** times. At this t
 <img src="4_star_reviews_wordcloud.png" alt="ca.gc.hcsc.canada.stopcovid 4 reviews"/>
 </p>
 
-> This makes us feel more secure, we realize that we still gave to wear a mask when out and do all precautions. We will miss our family on Christmas day.<br> :date: __2020-11-30 13:50:18__
+> I loaded this app as soon as it was available. I recently learned that there was an issue with some users not getting alert info regularly n times per day. The app does not have a way of showing you this activity. Now I have found if you go to your phone Settings and search "Covid", two items will appear. If you tap on Covid-19 Exposure Notification, a list of the recent activity is displayed. The Covid Alert app MUST have a menu option to display this directly. Knowledge is power.<br> :date: __2020-12-04 16:43:36__
+
+> Good<br> :date: __2020-12-03 11:14:27__
+
+> After many months of covid alert being greyed out I finally figured it out. I had several google accounts on my phone for gaming apps. I had to remove all of the other gmail accounts in settings/accounts and backup/accounts then restart my phone, reinstall the app, and it finally prompted me to enable covid alert. Hopefully you can spread the word so others experiencing this problem can get the app to work. I will leave my review at 1 star for a little so maybe people having trouble might see it<br> :date: __2020-12-02 22:42:05__
 
 > Awesome<br> :date: __2020-11-29 17:52:04__
 
@@ -190,10 +194,6 @@ The COVID Alert app has been installed by more than **1000000** times. At this t
 
 > I love the idea that you can be alerted but I think it needs some tweaking. When I open it it's red for 3 to 5 seconds then goes green<br> :date: __2020-11-18 16:18:14__
 
-> What happens if you got a notification. How do you reset the app for future notifications<br> :date: __2020-11-18 11:42:47__
-
-> I'm in Alberta which does not support this app. However, what prevents me from saying my province is one of those that do support the app?<br> :date: __2020-11-18 01:41:53__
-
 
 
 #### 3-star reviews
@@ -202,25 +202,25 @@ The COVID Alert app has been installed by more than **1000000** times. At this t
 <img src="3_star_reviews_wordcloud.png" alt="ca.gc.hcsc.canada.stopcovid 3 reviews"/>
 </p>
 
+> No share but I paid for the platform ? I never left Canada. If waiting for a return of an Ontario man paying Québec taxes. Still here, but ready to leave. And make serious decisions about how I have been treated<br> :date: __2020-12-05 07:08:49__
+
+> I was told this app could help direct us if we get a red alert weres safe would be helpfull.<br> :date: __2020-12-04 20:45:21__
+
+> After instalation it seems to "take over" my bluetooth and my Fitbit app sometimes doesnt sync for a number of days until i force sync a couple times.<br> :date: __2020-12-04 20:05:02__
+
+> My app wasn't working for a period of time in November, specifically on the 17th when I had a medical apt in Halifax (I live 3hrs away) the app did zero exposure checks. I found out 12 days later from an article on the CBC News app that there was a positive COVID case at the same hospital I was at and that I should have been isolating. However my app updated and is now working again and I don't seem to have developed COVID so it worked out for me.<br> :date: __2020-12-04 14:13:34__
+
+> Just not very accurate ud mmmm mmmmmm<br> :date: __2020-12-03 01:14:16__
+
+> Really good app! I would just love to see if I was around anyone at all for any amount of time who reports a covid diagnosis. I work in a grocery store and am not usualy around people for more than like 5 mins so its almost ineffective for me to use to know if I've been exposed to it. I feel like 15 mins is too long to have to be around someone for this to work.<br> :date: __2020-12-01 20:10:33__
+
+> There's still gsps in checks. The last check my phone did was on Nov. 25th. I'm in NS, & did install the latest version of the app, where this was supposedly fixed.<br> :date: __2020-12-01 08:26:31__
+
 > Not make ? Fruck you covid 19<br> :date: __2020-11-29 20:41:17__
 
 > (Edit: just downloaded the new version and exposure checks are occuring again but only when forced by opening the covid alert app... better than nothing I guess.) Since the most recent update, the app hasn't performed a single exposure check. I have bluetooth and location on. Previously, the app would only do an exposure check when I opened it (according to the log under google settings).<br> :date: __2020-11-29 20:31:54__
 
-> I live in a area where no one has vivid so I can't tell if this app works.<br> :date: __2020-11-28 12:34:31__
-
 > Cant clear exposure notafacation<br> :date: __2020-11-27 16:03:22__
-
-> The application works but for Androids it stop checking for exposure since October 26th. So what I have to do is to reinstall the application for it to work again. Hope this may help other's if you have the same issue as me. /////// L'application fonctionne mais pour les téléphones intelligent Android cela à cessé de fonctionner le 26 Octobre alors la solution est de réinstaller l'application pour que cela fonctionne à nouveau. J'espère que ceci peux aider ceux qui ont le même trouble que moi.<br> :date: __2020-11-27 14:36:25__
-
-> Very basic and slow to start-up or respond to key strokes! It tracks all the times I have reported but have never been told of anyone infected near-by. I guess that's a good thing. Trying to be responsible!<br> :date: __2020-11-25 16:57:49__
-
-> I just read that the Australian spy agency was logging the data from their covid tracing app. I don't want that happening to me so I will uninstall it.<br> :date: __2020-11-24 21:12:33__
-
-> Great concept! Still too new to work out the bugs so far. Suggestion: Google does timelines of everywhere you go already, so just have it communicate with that, and that should solve 80% of the glitches, if not more. Looking forward to the upgrade!<br> :date: __2020-11-22 09:22:03__
-
-> Had to Uninstaller and reinstall. Hadn't performed any checks since Sept.<br> :date: __2020-11-22 07:18:21__
-
-> I bet most people who have tested positive do not get the one time key and enter it...so you really have to follow health providers on staying safe....<br> :date: __2020-11-21 02:21:44__
 
 
 
@@ -230,25 +230,25 @@ The COVID Alert app has been installed by more than **1000000** times. At this t
 <img src="2_star_reviews_wordcloud.png" alt="ca.gc.hcsc.canada.stopcovid 2 reviews"/>
 </p>
 
-> Doesn't sound reliable. But Idk. So...<br> :date: __2020-11-30 01:56:06__
+> My daughter has had four notifications. She works from home, has groceries delivered and only goes out to walk her dog. No one she knows of has had a positive test. After two tests of herself and her family she no longer reacts to notifications. This sounds like another problem with th app.<br> :date: __2020-12-05 02:24:00__
 
-> Uninstalling. Have had it for a few months but it's pointless since not reporting in BC :/<br> :date: __2020-11-29 23:46:25__
+> Turning bluetooth off and back on disables the app, at least on my device. I need to open the app and reactivate it manually everytime bluetooth has been disabled momentarily.<br> :date: __2020-12-04 19:24:33__
 
-> I had to fight to connect with real developers. No real tech support at that time. They seem to have broadened the phones it works on. But the underlying concept of privacy during a pandemic is completely misguided. Also - sick or worried people should NOT be expected to report positive results; only 5% remember to so. App also assumes that we all have data plans and Bluetooth always on. Almost a total failure especially with so many flouting rules.<br> :date: __2020-11-28 22:26:59__
+> I checked my logs today and they only show as having checked at the precise time of opening the app, no other times in the past 2 weeks. Before I checked the logs I made sure that the app is up to date, that was done a bit over a week ago. The phone has been rebooted since the update yet nothing shows in the logs until I opened the app. Over the last two weeks I know for certain that I have been around other people who have the app installed. How often should I see it checking?<br> :date: __2020-12-04 16:30:34__
 
-> Didn't tell me about a possible exposure to covid-19<br> :date: __2020-11-27 10:05:17__
+> I never received alert via this app that there was an update. I read CBC news story that alerted me to check Google Play Store for update!!! NOT GOOD ENOUGH!!!<br> :date: __2020-12-04 15:06:54__
 
-> The way it works to allow full anonimity is quite interesting. However it burns through the battery way too fast. I uninstalled it. I would be more than happy to use it again if they get a better way to save battery.<br> :date: __2020-11-24 16:15:08__
+> When I open it, it says last checked 125 hours ago. If I go into google settings it says it checked this morning. Not sure which info to believe (I checked the App store and it appears i already have the update).<br> :date: __2020-12-04 14:30:19__
 
-> I understand that no news is good news...but as with ANY relationship.....communication is key....food for thought...<br> :date: __2020-11-24 04:07:53__
+> It is an okay app, but needs improvement. You shouldn't have to be around someone with Covid for 15 minutes or longer before the app detects a Covid positive person. The app should detect a Covid positive person close to you within 1 or 2 minutes, reducing your exposure time to the infected person.<br> :date: __2020-12-04 12:58:59__
 
-> The app is NOT automatically checking for exposure on some Android devices and as such it may not warn you. You should still install it, but the developers need to fix this issue...<br> :date: __2020-11-23 22:43:51__
+> The most recent (Nov 20) fix to address the complete lack of exposure checks has again stopped working. It checked for a day or two and now hasn't checked since November 29th. The worst part of that is that the record of exposure checks made by the app is hidden in settings>Google settings so most people probably assume it's just working, like I did. You can't easily tell unless you happen to go looking to make sure. But if it's not working, you're potentially exposed without knowing it.<br> :date: __2020-12-04 12:27:35__
 
-> Works great on my Pixel 3 XL, however it doesn't work on my Pixel 1. It says unsupported. Is there a list of supported/unsupported phones?<br> :date: __2020-11-22 23:31:39__
+> Low database makes it ineffective.<br> :date: __2020-12-03 00:31:22__
 
-> Im having problem with going In the app. it keeps saying Error and logs out. can i get some help. Thanks Bye<br> :date: __2020-11-21 20:40:46__
+> Part 1: I had to fight to connect with real developers. No real tech support at that time. They seem to have broadened the phones it works on. But the underlying concept of privacy during a pandemic is completely misguided. Also - sick or worried people should NOT be expected to report positive results; only 5% remember to do so. App also assumes that we all have data plans and Bluetooth always on. Part 2: They've responded, and say we need to go online with the PHONE every day. They lack a grasp of the basic fact that not everyone has a data plan - so those who don't are being told to go to a wifi zone (maybe indoors) every day - even though in a pandemic we should be staying OUT of public places as much as possible. I really wanted to participate in this app, but when only 5% of those who have it actually use it properly, it is almost a total technology and public health failure. I see the lost potential of masks (a simple partial solution) and an app (a complex partial solution) being a combined failure of public health.<br> :date: __2020-12-02 23:46:36__
 
-> Been using this since day one. Finally frustrated enough to write my review. Really upsetting that this causes interference with other bluetooth uses of my phone, specifically my headset for hands-free calling. Sometimes im the middle of a call, or while getting navigation instructions while driving. I'm continuously having to reset my bluetooth in order to work around this poorly programmed monstrosity. If I had any alternative, I'd be using that instead.<br> :date: __2020-11-21 02:02:40__
+> Where can I find if and how many exposure checks the app has done? People are mentioning this but there's no settings within the app? Because I was with a friend who tested positive and sent her info thru the app and I got nothing!<br> :date: __2020-11-30 17:32:59__
 
 
 
@@ -258,24 +258,24 @@ The COVID Alert app has been installed by more than **1000000** times. At this t
 <img src="1_star_reviews_wordcloud.png" alt="ca.gc.hcsc.canada.stopcovid 1 reviews"/>
 </p>
 
-> What's the point if it doesn't follow me where I travel? I'm a cross border truck driver. I was diagnosed with covid in north Dakota. But could have contracted it anywhere. And it doesn't let me enter my positive diagnosis.<br> :date: __2020-11-30 13:24:27__
+> Usefulness most unclear in the absence of useful adoption&reporting stats in a given area. No social distancing capability either. Better to prevent than to cure? Not having been seriously ever field trialed explains a lot imho. No new features release plan either??? Let's hope the vaccine works and we can get there. Generous one star...<br> :date: __2020-12-05 18:58:56__
 
-> It is not a legal app<br> :date: __2020-11-30 04:11:40__
+> NOP ! I don't want them to spy my things and get information from unknown people so get that app away from my phone EDIT: You say that but the app need Bluetooth, Location and Wi-Fi turned on. That's 3 things that weighs heavily on the batteries.<br> :date: __2020-12-05 17:56:45__
 
-> Not trying it out it's already bad enough the phone listens to us and tracks us that's all this app wants to do no thank you<br> :date: __2020-11-29 12:47:00__
+> If person have virus but he or she doesn't know my app detect it?<br> :date: __2020-12-05 16:43:57__
 
-> Not enough people registering.<br> :date: __2020-11-29 12:09:34__
+> I want to be able to see updates in my province where I live. Newfoundland and Labrador Please put it up to date for me. Then come back for rating.<br> :date: __2020-12-05 15:56:52__
 
-> Really wish the Canadian government would provide solid information on the mistakes made and how we can come to a decent outcome but instead they focused efforts on this garbage which just informs you that they failed you as a citizen.<br> :date: __2020-11-29 10:22:46__
+> Worthless, piece of junk app, just another paper app. Doesn't track any information about coronavirus.<br> :date: __2020-12-05 07:19:10__
 
-> App requires bluetooth and drains your battery fast<br> :date: __2020-11-29 07:51:19__
+> It doesn't work on my Samsung 7 phone. Dec. 5, 2020<br> :date: __2020-12-05 03:29:08__
 
-> "No reporting yet in your area" (vancouver) Deleting, 9 months into the pandemic and still useless for people in my area? How much taxpayer money was wasted on this?<br> :date: __2020-11-29 02:56:36__
+> Hate this app.... It kills my battery.....<br> :date: __2020-12-05 00:45:16__
 
-> Edit: Yes, this is still a troublesome app. After updating, it performed 14 checks in the span of 1 minute. Nearly a week later, no additional checks have been performed. In my bubble, the app works fine on Apple phones, but useless for many of the Android users. Original review: Despite Bluetooth being on 24/7, the app can go more than a week between performed exposure checks. Worked very well before the last update, but hasn't done anything for me for almost 2 weeks now.<br> :date: __2020-11-28 19:04:08__
+> My app appears to be up to date but I can't find the version. It has not checked for exposure since November 9. Kinda useless! Update : I copied the link from the response below and emailed it with more details (that are even worse). Surprisingly, the response was to advise me to email someone else! You guys are inept.<br> :date: __2020-12-04 23:26:56__
 
-> After many months of covid alert being greyed out I finally figured it out. I had several google accounts on my phone for gaming apps. I had to remove all of the other gmail accounts in settings/accounts and backup/accounts then restart my phone, reinstall the app, and it finally prompted me to enable covid alert. Hopefully you can spread the word so others experiencing this problem can get the app to work. I will leave my review at 1 star for a little so maybe people having trouble might see it<br> :date: __2020-11-27 18:32:52__
+> Useless if not used be folks who have been tested positive. Should not be their responsibility to report a positive test.<br> :date: __2020-12-04 23:06:39__
 
-> Can't download<br> :date: __2020-11-27 16:45:24__
+> Useless piece of garbage<br> :date: __2020-12-04 21:20:55__
 
 

@@ -155,25 +155,25 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="au.com.vodafone.dreamlabapp 5 reviews"/>
 </p>
 
-> An Excellent application and idea. This application should be used anywhere in the world.<br> :date: __2020-11-30 11:04:38__
+> Make this app more visible to the public!!! Make the projects' status cards easily sharable as stories and posts on social media.<br> :date: __2020-12-05 10:11:33__
 
-> Dreamlab is an app that can make a real difference, if you have unlimited or unused data each month, put it to good use. Lets solve the problems that matter, together.<br> :date: __2020-11-28 22:28:30__
+> a great app that allows everybody around the world to contribute to the treatment of serious diseases. the only problems are that the calculation of time stops every time that updates are introduced in the app and you need to start the clock from the beginning as well as the fact that the research projects receive plenty of calculations during a small period of time at the beginning of the project and until the project reaches the 50% ; from that point and until its total completion, the calculations are gathered in a more difficult way. moreover, this app should start working on the pc and not only on the mobile phone, so that the treatment and the cure be achieved more quickly.<br> :date: __2020-12-04 20:25:58__
 
-> Fantastic idea, I use folding on my PC for the same thing and it's good to know it's going to use for something.<br> :date: __2020-11-28 09:26:24__
+> It's brilliant. I can help with no effort on my part 😁 It can be set to just use wi-fi as I don't have much data allowance.<br> :date: __2020-12-04 18:40:54__
 
-> Works well, device doesn't overheat. I like it! \*\*\*\** I run it on tablet Amazon Fire HD8, it processes about two COVID-19 tasks each hour. DreamLab application is not in Amazon Store so it is tricky to install it to the Amazon tablet. \*\*\*\** The best device to run DreamLab is Amazon Fire TV 4k stick. It is small, it runs cool and it calculates 2 tasks each hour. DreamLab was not designed for Amazon Fire TV and it doesn't look nice at Fire TV but it works hard and solves about 50 COVID-19 tasks each day. My TV stick was idle most of the time, DreamLab keeps it busy 24/7. It is not easy to install DreamLab to Amazon Fire TV but experienced user can do it (be creative, try any trick you know ;-) \*\*\*\** There is small problem when DreamLab runs on Android TV box connected to internet over Ethernet cable. DreamLab doesn't like Ethernet cable and reports that device is not connected to the Internet and it doesn't work on tasks. Connect over WiFi and DreamLab will start processing tasks. The same applies for DreamLab running at Android on ODROID-C2 computer, use WiFi USB dongle... \*\*\*\** I tried several other Android TV boxes but many of them report high temperature (temperature of battery?) and DreamLab in that case is paused and it waits until device cools down. I think this is a problem of these devices because they have no battery but report that battery is hot. One of such device is ASUS Tinkerboard computer, DreamLab doesn't like that the device is "hot". Similar problem is with new Amazon FireTV Lite stick, it reports it has no battery and that battery is charged at 0% and DreamLab waits idle till battery is charged. What a pity, Amazon FireTV Lite stick has similar performance like FireTV 4K (that can solve about 50 COVID tasks each day) but it is cheaper.<br> :date: __2020-11-27 12:50:28__
+> I love being able to help cancer research.<br> :date: __2020-12-04 16:09:23__
 
-> Just works on wifi when I'm asleep and phone is charging.<br> :date: __2020-11-26 14:51:36__
+> Excellent use of an idle phone or tablet but where is the share button to add to Facebook twitter etc?<br> :date: __2020-12-04 16:00:32__
 
-> This is one of the best apps I have ever downloaded. It's a brainstrorm! Thanks for letting us chip in with our little grain of salt!<br> :date: __2020-11-24 04:13:42__
+> Brilliant. I'll be running this off my solar during the day when the sun shines. It would be good to have a second button on the home screen "complete current calculation and Close".<br> :date: __2020-12-04 12:42:20__
 
-> The app seems to be well designed, I just like the idea that when my phone is charging it computing power is helping cure diseases for free over WiFi.<br> :date: __2020-11-23 10:10:34__
+> Easy to use, runs in the background, able to set all data settings.. All goes towards good causes, it's a win win!<br> :date: __2020-12-04 12:23:26__
 
-> No ads, no issues, no impact on my other apps, and doing something good for the world. Love it!<br> :date: __2020-11-23 09:46:04__
+> Fantastic app to allow for everyday people to assist with compute power for some of the most pressing issues in science.<br> :date: __2020-12-04 11:00:43__
 
-> Brilliant. Could do with an auto run option as I I forget to start it<br> :date: __2020-11-22 23:39:03__
+> To everyone who is saying 'drains my battery'. USE OVERNIGHT WHILE YOUR PHONE IS PLUGGED IN YOU WOMBATS. Yes - You can set data limits if you need to. Settings. Yes - You can share the app. Settings. Amazing app that actually helps the world!<br> :date: __2020-12-04 09:51:35__
 
-> It has recently stopped working while my phone is being charged and can't be used when not charging so is stuck in a rut. Still one of the best uses of idle phones I've ever heard of though. Edit: the only project I'm allowed to work on is the Coronavirus one! What a genuinely good use of a million idle devices.<br> :date: __2020-11-22 03:07:06__
+> A very worthwhile app. It really helps scientists to crunch data while your phone charges. Mine has already helped research into COVID-19 and cancer.<br> :date: __2020-12-04 08:30:59__
 
 
 
@@ -182,6 +182,16 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="au.com.vodafone.dreamlabapp 4 reviews"/>
 </p>
+
+> I would like to see a manual throttling option to help prevent the phone getting warm rather than decide for itself But this app should come with every phone. Simple to use, extremely worthwhile, and unobtrusive.<br> :date: __2020-12-05 10:58:23__
+
+> It is an interesting project. One improvement suggestion: more settings, specifically to be able to set times when it's allowed to run (e.g. overnight only). It is good that it only runs when plugged in (though that could also be a setting), but when it runs it does take quite a bit of processing power, and the phone runs warm - I would like it to only turn on when I'm genuinely not using the phone.<br> :date: __2020-12-04 17:13:15__
+
+> Any chance you can make your application compatible with Android TV and also the new Google TV with Chromecast? I certainly don't mind donating CPU time of my Google TV with Chromecast. It's left powered up 24/7/365. J just ask thaat if you do, that your app operates at the lowest priority to all other processes in the Google TV dongle.<br> :date: __2020-12-04 12:07:38__
+
+> A great way to donate to important scientific research without costing you extra money.<br> :date: __2020-12-01 22:19:48__
+
+> Its convenient & a great idea. It may be a bit too powerfull for my moto g3 as it has had to take time out to cool down. Raises the thought about damage, but I will continue.<br> :date: __2020-12-01 11:11:51__
 
 > App has stopped working since latest update. Just sits at zero all the time whether I'm on Wi-Fi or mobile data. Please fix it.<br> :date: __2020-11-28 00:59:02__
 
@@ -193,16 +203,6 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 
 > I can only give 4 stars, because the mobile data is limited to 500mb and it seems that in the past 2 months is using those 500mb in 2 weeks, why not giving the option of more data to any user (i have an unlimited data abb on my mobile carier) so that i don't use the wireless in the house...<br> :date: __2020-10-25 21:36:47__
 
-> More frequent updates of the progress of the calculations / project progress would be great to see; but it works well, I don't feel that my mobile gets slower or overheated; and it feels good to contribute, it's really easy!<br> :date: __2020-10-24 01:19:21__
-
-> I'm running this app on a TABLET, please could you try to make this Tablet friendly by allowing Landscape display as well as Portrait mode.<br> :date: __2020-10-18 21:44:39__
-
-> Good but I had to manually clear the data from the app when it finished a project<br> :date: __2020-10-10 22:55:46__
-
-> Ja, gør sikkert det den skal og med et minmum af forstyrrelser :-)<br> :date: __2020-10-04 18:28:07__
-
-> Lovely ui design. Love the app. Reduce memory & storage footprint.RAM consumption seems kinda high. Please make optimisations for 718mb device as well as i keep losing my progress sometimes gets kicked out of memory due to low memory and lost all my calculations. Please try to integrate BOINC projects into it if possible. That would be awesome and all in one app for computational donation/contribution app. Keep up the good work and bless you all that have been involved in this work.<br> :date: __2020-09-28 18:04:08__
-
 
 
 #### 3-star reviews
@@ -210,6 +210,12 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="au.com.vodafone.dreamlabapp 3 reviews"/>
 </p>
+
+> Great idea, but I tend to wirelessly charge my phone. This doesn't provide enough power to run the app and charge, so my phone runs out of battery while on the charger. It would be great if the app could tell the difference between wired and wireless charging.<br> :date: __2020-12-04 18:36:49__
+
+> It seems like a great idea. However, I have an issue where the app appears to not be working when I move to another app or turn the screen off (the contribution amount does not increase) but is shown as running on my task manager. The app also continues to run even when the phone is unplugged. It might be that its not compatible with my Vivo x50.<br> :date: __2020-12-04 15:06:23__
+
+> Most of the time I put my phone on charge, the app doesn't work it just crash by itself<br> :date: __2020-12-02 09:09:06__
 
 > This is a great app, if you're like me and have unlimited data then you can leave overnight to charge and contribute. The only issue I have with this is like many users, there isn't enough advertisement surrounding this so it remains fairly unknown. If this was standard throughout all Vodafone devices and required users to Opt out, then I feel there would be more of a buzz surrounding this.<br> :date: __2020-11-26 09:59:39__
 
@@ -225,12 +231,6 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 
 > I'm disappointed that I can't contribute more data because I'm with Telstra and not Vodafone. If we can help find a cure for cancer it will help save lives of people will this horrible disease. My 14 year old great nephew died in June from a brain tumour, it only took 10 months from diagnosis to kill him. We need to stop cancer from killing our love ones.<br> :date: __2020-10-24 07:13:53__
 
-> Problems on Note20 Ultra. Force closing constantly. Had to uninstall after a few days working OK.<br> :date: __2020-10-20 19:48:38__
-
-> Please allow us to set "unlimited data" for mobile data use. 500MB allowance is reached after one night of calculations on my phone. As well I have experienced crashes after having a large amount of calculations completed causing me to reset the app in order to use it.<br> :date: __2020-10-20 16:12:41__
-
-> The app desperately needs settings. It has virtually none. It's a great purpose but wasted. I plug my phone in to charge every night and always forget to switch it on. Should be a auto start or scheduled or a reminder when plugging in.<br> :date: __2020-10-06 17:47:50__
-
 
 
 #### 2-star reviews
@@ -239,7 +239,11 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 <img src="2_star_reviews_wordcloud.png" alt="au.com.vodafone.dreamlabapp 2 reviews"/>
 </p>
 
-> Is there a way to set a timer so it will download between certain times for example to only work at night time? There are certain times during the day where I want to charge my phone and without telling me it will run in the background which slows the charging process. Gets annoying when I realise it's been running in the background and when I want to turn it off I can't because it needs to 'cool' down which I am unable to stop the process until it starts again. Pixel 4 XL<br> :date: __2020-11-30 05:36:15__
+> Nice concept like SETI@Home but T+C are suspect. They say accuracy of data sent by vodaphone isn't guaranteed. Yes this is probably template language but it says what it says. No point in burning power on inaccurate info for calculations. Also couldn't find info on project vetting, how do I know I'm not doing someone's Bitcoin mining? Will reinstall when T+C specific to project is available and vetting info publicised<br> :date: __2020-12-04 23:43:14__
+
+> Insgesamt natürlich eine wichtige und wertvolle Idee, die App an sich hat aber noch Luft nach oben. Vorschläge: 1. Eine Option die Berechnungen erst ab einem gewissen Ladestand des Akkus zu starten. 2. Ein besseres Tracking der eigenen Beiträge, evtl. userbasiert und mit Highscore Listen (wie z.B. bei Folding) über mehrere Geräte hinweg, das motiviert zusätzlich. 3. Aktuell kaum nutzbar wenn man sein Smartphone per Schnellladefunktion lädt, weil es zu heiß wird. Hier muss nachgebessert werden.<br> :date: __2020-12-01 14:52:04__
+
+> Is there a way to set a timer so it will download between certain times for example to only work at night time? There are certain times during the day where I want to charge my phone and without telling me it will run in the background which slows the charging process. Gets annoying when I realise it's been running in the background and when I want to turn it off I can't because it needs to 'take a break' to cool down which I am unable to stop the process until it starts again. Pixel 4 XL<br> :date: __2020-11-30 15:08:41__
 
 > Worked for about 3 days. After that, the app keeps crashing. Reinstall helped just for the first use. Now keeps crashing down again. Pity<br> :date: __2020-11-25 23:12:55__
 
@@ -255,10 +259,6 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 
 > Good app, with a nice idea. However, causes my OnePlus 6T to overheat and stops calculating<br> :date: __2020-09-19 09:37:27__
 
-> Needs a scheduling setting so you can control charging versus number crunching.<br> :date: __2020-09-01 12:11:38__
-
-> So wanted to like this. I almost exclusively wireless charge. I've had a lot of instances of the app not starting whilst charging and now twice it's continued operation after taking my phone off the charger and I've woken up in the morning to 4% battery.<br> :date: __2020-08-13 03:14:58__
-
 
 
 #### 1-star reviews
@@ -266,6 +266,10 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="au.com.vodafone.dreamlabapp 1 reviews"/>
 </p>
+
+> I'm sorry. I wanted to help. But my phone won't charge. It drains faster than it charging. After 1 hour it got from 86% to 80% while plugged in. It's a Samsung S7 with a fast charger. You might want to look into this.<br> :date: __2020-12-05 14:13:42__
+
+> This app used to work perfectly but now refuses to work at all. It just claims that I've reached my data limit for the month despite the fact that I'm using WiFi. I have tried deleting it and reinstalling it several times but it still doesn't work.<br> :date: __2020-12-04 20:21:34__
 
 > Used to be great but now everytime I charge my phone the app crashes<br> :date: __2020-11-27 00:32:30__
 
@@ -282,9 +286,5 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 > Normally amazing, but wont work now keeps crashing:/ all it does is crash constantly.<br> :date: __2020-11-11 05:16:10__
 
 > For over a year I have been using two phones to power Dreamlab. The app is crashing on both phones. The app is updated automatically on Samsung and Motorola phones. No feedback from dreamlab whatsoever. Regrettably, uninstalled on both phones 😭<br> :date: __2020-11-10 00:30:07__
-
-> Great idea but when the app keeps on crashing and cause problems on multiple phones you lose the will to help and uninstall the app.<br> :date: __2020-11-09 23:56:45__
-
-> The app keeps crashing. I uninstalled and reinstalled many times. After reinstall it works till the next time I unplug the power. When I resume, it starts crashing. Please address the issue.<br> :date: __2020-11-09 11:08:31__
 
 

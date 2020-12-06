@@ -186,6 +186,10 @@ The LiveHealth Online Mobile app has been installed by more than **500000** time
 <img src="5_star_reviews_wordcloud.png" alt="com.americanwell.android.member.wellpoint 5 reviews"/>
 </p>
 
+> Super easy great service<br> :date: __2020-12-04 15:30:44__
+
+> Excellent & timely. Beats waiting rooms !<br> :date: __2020-12-01 15:51:03__
+
 > Such an easy streamlined service. So much better than getting out and waiting at a clinic<br> :date: __2020-11-29 18:51:42__
 
 > Excellent<br> :date: __2020-11-28 18:39:35__
@@ -201,10 +205,6 @@ The LiveHealth Online Mobile app has been installed by more than **500000** time
 > love it...would recommend this to everyone<br> :date: __2020-11-25 20:01:56__
 
 > So convenient, when your not feeling well who wants to be in emergency room...<br> :date: __2020-11-25 07:10:39__
-
-> Perfect<br> :date: __2020-11-24 20:36:54__
-
-> Great experience! I will definitely be using app again.<br> :date: __2020-11-24 01:29:03__
 
 
 

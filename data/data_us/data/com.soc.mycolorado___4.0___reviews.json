@@ -1,5 +1,125 @@
 [
     {
+        "reviewId": "gp:AOqpTOH3IYGn6E061xA04zrmZnakm33t50_EzQVOjSw1Zpb5N2ycoo_mJ6JVGTu0mRcN7fJQke46gesNAxrowA",
+        "userName": "Shaun White",
+        "userImage": "https://play-lh.googleusercontent.com/-tbg8TseJB90/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclqDMwjmoThMn5IJHbzfaQiNddI2g/photo.jpg",
+        "content": "Great app!",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.0",
+        "at": "2020-12-04 19:15:39",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGyewYxHODR3F_YR8ddV0QbC6jiawY0x1JYNbrGOJkr50-sTTYze0VzRD3axGXBfcg4Ba0VRbDLG5eMtA",
+        "userName": "Patrick De Witt",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh1okRkw3ezKYqvaTx9VsKz5giAhCpmGSOx8lHq8w",
+        "content": "It is easy to get your ID up. Other then that not sure.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.0",
+        "at": "2020-12-03 19:23:28",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOEwzC6L0-7m1NEPffobl_1ASXyQGuor7CEIVy8xfUSkWCrCXo2ek-CGW-SIdXxWMDyFnbMF0_2qyuMKuA",
+        "userName": "Kim McKenzie",
+        "userImage": "https://play-lh.googleusercontent.com/-dXXpXHckg80/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckRsY8tTZzUEwurPw8U3r9Cdb83xg/photo.jpg",
+        "content": "Not too bad to set up. Maybe an address change I submitted will take, since the app didn't recognize one from April. Have to see how useful it is, since I am old enough I don't need id in bars and restaurants. Selfie was the most difficult part.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.0",
+        "at": "2020-12-02 23:45:05",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHw8NOBf05-4ZSjU5K3KE03Q75i1-CZRgD-c4nD8s5Ptzd3Z8w57Zc6LW0rrFhEwo-bDBt8p5OJ_RZ8gA",
+        "userName": "Matt L",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gjqa08o8CfyUhi9QI_sDRNtDzn-asXhSo6Meq_m3w",
+        "content": "Tricky to get set up but after that works like a charm",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.0",
+        "at": "2020-12-02 23:26:24",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOEkBQwwGqxsHIZy35F57t4K_CHcp5bd3iGGwJeGQQ78TCn4nrDGpCPrKNFbHZp54J6bETrxi9WmcIq85w",
+        "userName": "Timothy W Jansen",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjVZePArS0fWtNxkD13CuvqPTMt063TkW7yVLO-",
+        "content": "Umm finally, they have all the information anyway we may as well benefit from it somehow.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.0",
+        "at": "2020-12-02 15:36:17",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFJ6HIsCC4UHea_s_0Q5czvSBhnTvbsuVpkTQjIIxO7Tr0hlam9FebyACbse7VAw7Rd31TI_7CZZU_RYg",
+        "userName": "Craig O",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjprkXVp631P6hfVtKvvwzjYEAVEMYGy5wQmkIwV_8",
+        "content": "Straight forward and super easy to use. Add this to the list of why Colorado is awesome\u270c\ufe0f",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.0",
+        "at": "2020-12-02 07:44:03",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOEPh8yEOWFwvKfsgoFMtQuajh9AYt_YXLuH6EFCBrys7pgIAIXIdDuKH6a0jnkK6feEfRC5yODNyNsZMA",
+        "userName": "Richard Acerra",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj3m8VepCasb0IpefWfvrXOOiT1-x-WjvBDzSx4d3Y",
+        "content": "Cool big brother at work.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.0",
+        "at": "2020-12-02 05:03:00",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHqUS5fwVcP6oCD9krAp2h1QJszdeEwINpP14DzqZooWb7-N7ACUlSWDLP7i5hnYfM2kn6hTZXupGfCGQ",
+        "userName": "Bailey",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiQQQoFZhwd9xx2u-fW4laaZPJqFDaJlsPvGJ0jvb8",
+        "content": "I'm new to the app & will leave a more detailed review at a later date. Just wanted to point out to the person who posted recently & the developers: the app isn't the cause of your old address showing up when scanned, the state's records are. I went through the process of updating my address online last year. Any time I've rented a car since then, my license pulls my old address. If a trooper scanned your card, I'd assume the same would happen, so the digital ID is no more disadvantegous.",
+        "score": 5,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "4.0",
+        "at": "2020-12-02 02:25:15",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOEt5DZdvS17lrcbmTSHKRmEcREjp_6e_4kBfPHJspMWX8JmltIJGCjMJebKlNOCUB_pPOvwl_8kyEBCLg",
+        "userName": "Ed Srader",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GinYvJBFT-M1dz7LnaQhvvjS0-ihfwpEmCDL4HVYw",
+        "content": "Nice to know that the digital version is accepted. Makes the app more worthwhile.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.0",
+        "at": "2020-12-02 02:22:17",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOEPR3QBs9GCcWOHeIK8JQ8Xai7hZvsbSiDHLWhEcWGpPT6-0WNjnE9Q0rSycPuKb0Y82lFTV_TChnGLEQ",
+        "userName": "Brent",
+        "userImage": "https://play-lh.googleusercontent.com/-BGGEfEMdjOU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn47aOVqJpeL8LvUgwhqEB7-0eNLw/photo.jpg",
+        "content": "Had a couple issues trying to figure out what to do at first, but I figured it out.",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.0",
+        "at": "2020-12-01 23:17:23",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOGOvBCyohWVu8OupRYja1j45KQM9HVhjyoWPdmwVZmsdtKaRFNutEAPJkmi6WRIFBT-EO1O40aObMzP5A",
         "userName": "Tanya Hernandez",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj-CG-bV7tXqecwKx3boPhDDHWDTF8yPE5ZO_3i",
@@ -8,20 +128,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.0",
         "at": "2020-11-25 16:13:02",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOEujHEIs-aDO0fu1FU_FvSAKCS2nVChJRuMDWfe5A8jjWdV6PhCcDsWJx_jKrjpKr8h_pomXL_OU7nsrw",
-        "userName": "Benny M",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiPTVBcAWpyIoT8yTsm9uDGpThEg_re0A4uf_ARwQ",
-        "content": "waste of time and money",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "4.0",
-        "at": "2020-11-25 05:01:19",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Tanya, thank you for the 5-star review! I am glad the Digital ID is convenient for you.",
+        "repliedAt": "2020-12-01 21:29:17"
     },
     {
         "reviewId": "gp:AOqpTOGFSlVNVlmvmzld-p_X90UqnvhHy_Au_dwhhVk32TFHcIPpSvWWLCfOryxNCoduMjcYUM_o4zjTZPELdg",
@@ -32,8 +140,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.0",
         "at": "2020-11-25 03:29:59",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Trish, thank you for the great review!",
+        "repliedAt": "2020-12-01 21:28:09"
     },
     {
         "reviewId": "gp:AOqpTOFXz_R7bihf_hiKtio6GOEcyy9C5BOF3O1pIcTltqN39DHBhwxP_AWV5z551HN1XkhUFPB8BZolLbjl5A",
@@ -41,11 +149,11 @@
         "userImage": "https://play-lh.googleusercontent.com/-9oHVPr0nUCQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucns4J7LlOBWaNwCH2bmSiP7ZKQUrQ/photo.jpg",
         "content": "My household moved 5 months ago & 6 of us changed our address online through DMV & followed the instructions to stick a label on the back of our DL's with the new address. However when I scanned the back of my DL today to try to create an account, my information still had my previous address. So this app really won't help me or any of my household members because the address will always be incorrect & cause problems for us in which we will still have to show our actual DL with the sticker.",
         "score": 2,
-        "thumbsUpCount": 1,
+        "thumbsUpCount": 5,
         "reviewCreatedVersion": "4.0",
         "at": "2020-11-17 19:24:28",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Monica, I am sorry you have experienced problems with the app. We are looking into this issue and expect to have an answer soon.",
+        "repliedAt": "2020-12-01 21:27:43"
     },
     {
         "reviewId": "gp:AOqpTOGPq_hb4mspKf_MFryjuLpv-pjIrUaNipy5qRrGyGDtYF3iZQoAuilW0lBDkJkkkH5Uf0EIwmfYXaXkMw",
@@ -56,8 +164,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2020-11-17 00:30:02",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thank you for the 4-star review, Dustin! We are continually working to improve the facial recognition.",
+        "repliedAt": "2020-12-01 21:27:12"
     },
     {
         "reviewId": "gp:AOqpTOElIOHdlSgyx5Ubj305hC7a3Zi3ReproRznXooHOVs1k_1PlOVc70QOnHC4Bavd3siCshjaeFN3BH3JBA",
@@ -101,7 +209,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh_eqyqgO3RzlQClPs2PptuAq8j9Ddqpfh9dCHN",
         "content": "A ways to go but a great start. The login process could be smoother, takes a bit to get in so log in before you need it. The image is a bit stretched in the app vs your id card. Lastly, I wish they did more education to businesses so they understand this is a legal version of identification.",
         "score": 4,
-        "thumbsUpCount": 2,
+        "thumbsUpCount": 7,
         "reviewCreatedVersion": "3.9",
         "at": "2020-11-07 05:06:04",
         "replyContent": "Hi Ian, thank you for the review and your feedback. We are working hard to get the word out. Please continue to show your Digital ID to businesses, as this will help raise awareness and drive acceptance.",
@@ -149,7 +257,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgdfWHAzK8g02CbozczzkpaKqlSSpwG52evFcMv",
         "content": "*update* changed review from 1 to 4 stars. After failed attempts to load, contacted support team and it loaded perfectly. Not convenient that, but yes loaded. Has worked great since. Used ID to get fishing license no prob. Used for other times no prob In state. Not used a lot, but nice when I have.",
         "score": 4,
-        "thumbsUpCount": 5,
+        "thumbsUpCount": 6,
         "reviewCreatedVersion": "3.9",
         "at": "2020-10-26 15:59:26",
         "replyContent": "Hi Christine, I am truly sorry about the problems you have had creating an account.  Please, email our support team at myColorado@state.co.us and they will help troubleshoot the problem.",
@@ -281,7 +389,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiZGgy6J7IYX60IkNhP1KrDzaRM5BheXa2R1HfVYQ",
         "content": "So, just renewed my license and while it was easy and the card arrived fast, it was missing the donor heart. I contacted support and they said it was not checked but I 100% did check it as it is really important to me so I made sure. They will not fix it! Really disappointed as the system errored and they will not correct it.",
         "score": 2,
-        "thumbsUpCount": 4,
+        "thumbsUpCount": 5,
         "reviewCreatedVersion": "3.8",
         "at": "2020-10-10 05:51:46",
         "replyContent": "Hi Josh, we had a problem with the certificate over the weekend. It is now fixed. Please verify the latest version is installed (3.4, V153) and try again. If you are still experiencing a problem with logging in, please email us at myColorado@state.co.us.",
@@ -665,7 +773,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhtPARqdZ6XUi-bV5aRb9VFd5qgrq1WjP16AKDKwQ",
         "content": "Only after 10 attempts (using my new DL that just arrived in the mail earlier that day) was it able to register my driver's liscence in the virtual wallet. Other than taking forever to scan my documents, the app is pretty darn good.",
         "score": 3,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "3.4",
         "at": "2020-07-29 04:06:34",
         "replyContent": "Thanks for the review, Scott! Really sorry it took multiple attempts to create an account.",

@@ -150,6 +150,8 @@ The StopCOVID NI app has been installed by more than **100000** times. At this t
 <img src="5_star_reviews_wordcloud.png" alt="net.hscni.covidtracker 5 reviews"/>
 </p>
 
+> excellent service staving propjes live om no racis or colour kust a hitman Boeing me xXxjetiame xXx<br> :date: __2020-12-05 16:27:26__
+
 > We are in a Lockdown for 2weeks Christmas Cancelled This Year<br> :date: __2020-11-29 08:12:05__
 
 > I am a father and this app is help bust my lokel drug deler(he was my lokel deler UWU), and my dother infrormaeshen was stolen (shes 4)😁 Thank god the worden let me downlode (I foed my wife an this app )XD<3:3<br> :date: __2020-11-23 11:01:57__
@@ -167,8 +169,6 @@ The StopCOVID NI app has been installed by more than **100000** times. At this t
 > C x<br> :date: __2020-10-26 18:37:45__
 
 > brilliant app ni government bettter than the uk test and trace app<br> :date: __2020-10-25 13:23:53__
-
-> App sleeping now fixed looking good guys<br> :date: __2020-10-20 11:19:51__
 
 
 
@@ -262,6 +262,8 @@ The StopCOVID NI app has been installed by more than **100000** times. At this t
 <img src="1_star_reviews_wordcloud.png" alt="net.hscni.covidtracker 1 reviews"/>
 </p>
 
+> Never seems to check, always a week or so behind.<br> :date: __2020-12-01 08:27:55__
+
 > This app is completely pointless. Mine has to be reinstalled every couple of days after which it will carry out exposure checks for a day or 2 and then completely stop. I could have been in contact with numerous people and had to self isolate but I dont know because the app isn't doing the checks.<br> :date: __2020-11-29 10:37:50__
 
 > Not getting anything from this site when first started told everyday now nowt<br> :date: __2020-11-27 15:11:31__
@@ -279,7 +281,5 @@ The StopCOVID NI app has been installed by more than **100000** times. At this t
 > Wont sed me ghme frm skool<br> :date: __2020-11-17 14:39:48__
 
 > This app wastes the battery life on my phone<br> :date: __2020-11-17 00:37:21__
-
-> This app doesn't work for me keeps on telling me to turn on Bluetooth the Bluetooth is on already tried downloading this app a few times now but it just never works<br> :date: __2020-11-07 18:46:45__
 
 

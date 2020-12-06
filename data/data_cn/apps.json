@@ -3,15 +3,15 @@
         "id": "org.who.infoapp",
         "store_country": "cn",
         "store_lang": "en",
-        "latest_crawled_version": "3.1.1",
-        "latest_crawl": 1606741288
+        "latest_crawled_version": "4.0.1",
+        "latest_crawl": 1607191694
     },
     {
         "id": "de.xikolo.openwho",
         "store_country": "cn",
         "store_lang": "en",
         "latest_crawled_version": "3.7",
-        "latest_crawl": 1606741397
+        "latest_crawl": 1607191741
     },
     {
         "id": "cn.ac.pcl.tws",

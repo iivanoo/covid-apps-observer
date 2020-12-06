@@ -133,6 +133,10 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 <img src="5_star_reviews_wordcloud.png" alt="au.gov.health.covidsafe 5 reviews"/>
 </p>
 
+> To keep me safe, I like this App active at all times.<br> :date: __2020-12-03 14:22:52__
+
+> A good use of technology to help reduce the spread of this disease.<br> :date: __2020-12-02 17:43:17__
+
 > GOOD. To have<br> :date: __2020-11-30 05:29:04__
 
 > Excellent<br> :date: __2020-11-29 11:38:43__
@@ -149,10 +153,6 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 
 > Keeps you informed everyday<br> :date: __2020-11-17 16:51:27__
 
-> Hz acc ir uzh freezer r u end rzh ys omI55x eye eyeYr rx trev ed<br> :date: __2020-11-17 04:20:54__
-
-> Great<br> :date: __2020-11-16 07:51:38__
-
 
 
 #### 4-star reviews
@@ -160,6 +160,8 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="au.gov.health.covidsafe 4 reviews"/>
 </p>
+
+> Q wa,again. Q<br> :date: __2020-12-05 04:58:27__
 
 > Update Nov 2020: Uninstalled due to battery drain and overheating on a Galaxy S10 5G. Too risky to leave installed. No issues on Galaxy A30. Down to 4 stars. Original Review: Zero issues. Works as intended. Some initial issues with Bluetooth streaming audio but these are easily overcome with updates and firmware updates on speakers. Original review 5 stars.<br> :date: __2020-11-27 00:34:25__
 
@@ -179,8 +181,6 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 
 > ⁴is a great way to start your ml and 6th or even more<br> :date: __2020-10-16 07:23:46__
 
-> I7uui 8th is 4hi<br> :date: __2020-10-09 04:23:06__
-
 
 
 #### 3-star reviews
@@ -188,6 +188,8 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="au.gov.health.covidsafe 3 reviews"/>
 </p>
+
+> Thank you<br> :date: __2020-12-04 23:58:14__
 
 > Did not appers to do anything. Drained battery.<br> :date: __2020-11-25 03:14:47__
 
@@ -207,8 +209,6 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 
 > How can this app be using more than 41% of my phone's battery??? This is ridiculous<br> :date: __2020-11-07 12:14:29__
 
-> I really like the idea of this app if it actually worked... But it doesn't. It continually pops up notifications telling me it's not connected because my Location isn't open when it clearly is. I've also now noticed that even though I have selected Auto Update so I will get the most recent numbers it's not updating either. Example: NSW has been showing most recent number as 14 new cases for days & I had just seen the Premier's speech for today & we have 4 new cases. Even allowing for 24hour turnaround that is still wrong. I'll be interested to see homuch longer we are consistently getting 14 new cases per day. C'mon techs we expect much better than this when you pushed so hard for everyone to download this app. There's no point in having it that I can see. If anyone knows a Web page that simply gives current updates per area searched please help me as I'm in the very high risk category & would like to be aware if/when there's new cases to be aware of. Thanks everyone it sure looks to me like the online community will be more help to me than the official govt app at this point. Unless of course they put the effort in to have it work properly because short of a miracle we are stuck with this virus for the forseeable future &ppossibly beyond.<br> :date: __2020-10-30 02:07:56__
-
 
 
 #### 2-star reviews
@@ -216,6 +216,14 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="au.gov.health.covidsafe 2 reviews"/>
 </p>
+
+> My android app refuses to download the current state of covid cases. I have to go to Google to find out. It is annoying and frustrating<br> :date: __2020-12-04 21:20:54__
+
+> Doesn't really do anything.<br> :date: __2020-12-04 03:47:26__
+
+> After 6 months have uninstalled, the decision to move to the untried Herald protocol was the last straw.<br> :date: __2020-12-03 00:16:40__
+
+> Have an OPPO phone and tired of "correcting" battery optimisation. Will likely delete it if is not remedied.<br> :date: __2020-12-02 02:36:14__
 
 > It's doesn't work I got close to some one who has it<br> :date: __2020-11-29 01:01:51__
 
@@ -229,14 +237,6 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 
 > Something need to be done to improve this Apps as it goes to inactive by itself without warning and need my constant awareness to check whether it is still active with the green icon. It just defeats the purpose if it does not works as it required to.<br> :date: __2020-11-20 07:45:17__
 
-> does not do anything. cannot drilldown into the state's info. would not work with battery optimisation. drains battery very fast.<br> :date: __2020-11-16 23:19:16__
-
-> Operates ok but not uncommon, to stop working. All settings correct on Note10+ but constantly getting warning that app has stopped working.<br> :date: __2020-11-14 08:20:54__
-
-> 7 h m uI I 7.. israel<br> :date: __2020-11-13 06:28:25__
-
-> When is there going to be a fix so this app stops disconnecting other devices from Bluetooth. It does it multiple times a day only had thos issue since this app has been installed<br> :date: __2020-11-10 04:06:50__
-
 
 
 #### 1-star reviews
@@ -245,24 +245,24 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 <img src="1_star_reviews_wordcloud.png" alt="au.gov.health.covidsafe 1 reviews"/>
 </p>
 
-> A total power hog. Uses more power than any other app. I contacted the app help and got some crappy automated response. Still eating battery.<br> :date: __2020-11-30 13:38:53__
+> Useless app<br> :date: __2020-12-05 18:09:18__
 
-> Recent updates have screwed with Bluetooth settings on other devices, eg smartwatch, BP monitor. To get them working again had to uninstall and reinstall app...<br> :date: __2020-11-30 02:09:11__
+> Can't understand<br> :date: __2020-12-05 11:18:04__
 
-> Significant battery drain as app need to disable battery optimisation operating 24/7. Need to utilise an option where app is on only when outside of home if battery optimisation needs to be disabled to work.<br> :date: __2020-11-30 01:37:00__
+> Rubbish app very user unfriendly<br> :date: __2020-12-05 05:54:36__
 
-> Zz<br> :date: __2020-11-29 23:31:13__
+> a bugger to install...<br> :date: __2020-12-04 14:54:37__
 
-> Useless and expensive garbage that doesn't work.<br> :date: __2020-11-28 22:02:52__
+> Using 29.7% of my battery charge<br> :date: __2020-12-04 12:03:58__
 
-> Great idea but terrible implementation. Runs constantly in the background with no way to turn it off when you are just at home and don't need it, only option is to uninstall. By default has a persistent notification to tell you whether it's working which is annoying.<br> :date: __2020-11-28 12:41:00__
+> Have been trying to download this app for the past 3 hours.<br> :date: __2020-12-04 11:45:31__
 
-> While I think this app was a good idea, I have had to uninstall it due to battery drainage. I would probably reinstall it if we have another outbreak<br> :date: __2020-11-28 11:58:27__
+> On Oppo phone it asks for battery optimisation. You set it on then in a few hours it's not running again.. Poor app on this phone. I've removed it.<br> :date: __2020-12-04 04:46:13__
 
-> Having the same problem described below. I own an OPPO phone and constantly get messages about disabling battery optimisation. I do so and within a few hours get another message. I'm sick of maintaining it. Fix it or I'll remove it and take my chances. I haven't yet seen any stats as to the success of the app in doing the job it's designed for. Unlikely if others are having the same issues.<br> :date: __2020-11-27 19:54:14__
+> This is by far the most difficult to manage.<br> :date: __2020-12-04 04:34:35__
 
-> App always off even though all battery optimisation options are off<br> :date: __2020-11-27 07:46:02__
+> Cannot make it active<br> :date: __2020-12-04 00:42:02__
 
-> Irresponsible that qr code check-in has not been implemented. Australians are losing their private data to third parties. The government needs to step up, and protect the privacy of Australians, and provide a safer means to qr code check-in.<br> :date: __2020-11-27 06:01:15__
+> Ah yes I totally want you to run in the background and drain my battery, and run Bluetooth and drain my battery..... and location services..........<br> :date: __2020-12-03 09:38:55__
 
 

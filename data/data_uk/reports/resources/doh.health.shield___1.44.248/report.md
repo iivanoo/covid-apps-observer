@@ -147,6 +147,18 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="doh.health.shield 5 reviews"/>
 </p>
 
+> Very nice<br> :date: __2020-12-05 13:38:55__
+
+> Amazing<br> :date: __2020-12-05 03:55:55__
+
+> nice<br> :date: __2020-12-01 19:31:10__
+
+> Excellent<br> :date: __2020-12-01 08:45:25__
+
+> Good<br> :date: __2020-11-30 20:53:13__
+
+> goog service5<br> :date: __2020-11-30 20:30:34__
+
 > very effective<br> :date: __2020-11-29 16:41:41__
 
 > Uhj<br> :date: __2020-11-29 16:07:02__
@@ -155,18 +167,6 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 
 > Bihgf<br> :date: __2020-11-29 09:35:56__
 
-> Ease my work<br> :date: __2020-11-28 15:10:20__
-
-> Easy and good<br> :date: __2020-11-28 12:35:40__
-
-> Good<br> :date: __2020-11-27 15:08:53__
-
-> Very good app<br> :date: __2020-11-27 13:50:08__
-
-> Thank<br> :date: __2020-11-27 11:16:41__
-
-> Great<br> :date: __2020-11-27 01:25:28__
-
 
 
 #### 4-star reviews
@@ -174,6 +174,8 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="doh.health.shield 4 reviews"/>
 </p>
+
+> It is a best tracing app.<br> :date: __2020-12-05 08:43:27__
 
 > Good<br> :date: __2020-11-25 09:09:03__
 
@@ -192,8 +194,6 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 > Good<br> :date: __2020-11-04 18:01:37__
 
 > nice<br> :date: __2020-11-03 20:12:28__
-
-> great app<br> :date: __2020-11-02 13:46:34__
 
 
 
@@ -231,6 +231,8 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 <img src="2_star_reviews_wordcloud.png" alt="doh.health.shield 2 reviews"/>
 </p>
 
+> Why not working after no options come when singn id nd Number nd code<br> :date: __2020-12-01 14:02:54__
+
 > It always says that, the mobile number linked with my Emirates Id is in correct. How to rectify this?<br> :date: __2020-11-30 05:53:10__
 
 > Very slow.<br> :date: __2020-11-23 19:42:34__
@@ -249,8 +251,6 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 
 > not moving to submit not abal to get result<br> :date: __2020-11-08 09:35:22__
 
-> Battery usage is verh high while running this application<br> :date: __2020-11-05 11:36:27__
-
 
 
 #### 1-star reviews
@@ -259,24 +259,24 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="doh.health.shield 1 reviews"/>
 </p>
 
+> Needs lots of improvement.<br> :date: __2020-12-05 16:17:54__
+
+> can't open it<br> :date: __2020-12-05 11:05:51__
+
+> 1,coz i cant to open it<br> :date: __2020-12-04 16:07:01__
+
+> Such a garbage application never works in Ipad never works on samsung phone. I dont know why exactly why is this even mandatory to return to our homes?<br> :date: __2020-12-04 15:14:24__
+
+> Not even opening for me. Stuck in the launch screen<br> :date: __2020-12-02 20:54:10__
+
+> Freezes every time I open it<br> :date: __2020-12-02 06:41:07__
+
+> What does one have add if you are on a Visit Visa ( it shows Emirates ID and Unified ID ) or is this App only for people who have E ID's ( also what is this - Unified ID can be found on the last page of the PP ?? )<br> :date: __2020-12-01 18:35:06__
+
+> Exccellent<br> :date: __2020-12-01 15:39:32__
+
+> Not installing<br> :date: __2020-12-01 04:20:57__
+
 > Not working on samsung A8 had many time installed. But no use<br> :date: __2020-11-29 14:30:52__
-
-> The app doesn't work at all.<br> :date: __2020-11-29 07:18:50__
-
-> Not good<br> :date: __2020-11-29 06:02:41__
-
-> This apps not working only green wallpaper. nothing else.<br> :date: __2020-11-28 15:40:13__
-
-> It shows your number is not registered and shows two mobile numbers I have never seen, Coustomer care is not useful at all.<br> :date: __2020-11-28 13:53:20__
-
-> Pathetic , App doesn't go beyond logo . Surprised how it's got 4.3 star rating with so many 1 star feedback. I would give 0 star if possible.<br> :date: __2020-11-28 04:50:42__
-
-> I can't open this app..<br> :date: __2020-11-27 11:46:54__
-
-> useless apps... no results showing... it's two days past but still no results.<br> :date: __2020-11-27 06:50:16__
-
-> I am a covid vaccine volunteer and even after PCR I don't have the Volunteer status... And everytime I call the help line they answer but after hello they hangup on me very unprofessional they need to hire professional staff... Horrible experience after being on hold for 20 minutes they hangup this is frustrating<br> :date: __2020-11-26 06:23:50__
-
-> It is not opening although<br> :date: __2020-11-25 17:14:02__
 
 

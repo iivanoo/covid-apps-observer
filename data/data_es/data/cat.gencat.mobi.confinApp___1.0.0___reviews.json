@@ -1,5 +1,17 @@
 [
     {
+        "reviewId": "gp:AOqpTOFvrA-NX9HeKoop3-ekYEi7eAQI0KGrYHVV6d9i5kz5MBGPUCz0SSCxHFogA75lEiRAAtBTpglhFWX9yQ",
+        "userName": "Ismael Castro",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhLzlY_FujuA3IcPGFOjraHX1B2iHKNRkxL_NXJQw",
+        "content": "No se abre la aplicaci\u00f3n.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.0.0",
+        "at": "2020-12-04 07:37:31",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOEwcywZkYkReOmi1CgRMgDxUNQn74iCv_T3ku9Zv4mDA715swKj46xgSZ-Dw_doBlQs505HBm8PQVCDig",
         "userName": "Gabriel Montesano",
         "userImage": "https://play-lh.googleusercontent.com/-xutuTDTH0-Y/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmCkbV_wAYWrGR4JLeNZrWx18W5Ag/photo.jpg",
@@ -293,7 +305,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-BF7liNzSl-s/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnNvjYjU5Mq3soC0AbYaONi6fs4MA/photo.jpg",
         "content": "Tenia el justificante de empresa guardado y el de desplazamiento, y de un dia para otro se han borrado todos sin aviso, suerte que me ha dado por mirarlo y que no me han parado porque iba sin justificantes gracias a confinapp...",
         "score": 1,
-        "thumbsUpCount": 1,
+        "thumbsUpCount": 2,
         "reviewCreatedVersion": "1.0.0",
         "at": "2020-05-08 23:01:50",
         "replyContent": null,

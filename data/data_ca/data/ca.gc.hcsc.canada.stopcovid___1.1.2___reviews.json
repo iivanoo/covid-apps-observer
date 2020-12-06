@@ -1,15 +1,675 @@
 [
     {
-        "reviewId": "gp:AOqpTOFdTybUJirj-KMyZ9wOkTzgpz3RpdkJ6pY7wPM1gragz0ZDQIZDxLAwe6cPVmHHP2tyHyE8z1QI7rL8_w",
-        "userName": "Susan Larmet",
-        "userImage": "https://play-lh.googleusercontent.com/-sms6OCku6Yk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn1ELeLPVPNqNWObmVl1VXj-SztHg/photo.jpg",
-        "content": "This makes us feel more secure, we realize that we still gave to wear a mask when out and do all precautions. We will miss our family on Christmas day.",
+        "reviewId": "gp:AOqpTOHTfepwlI1On3TiUqd7ctGlihehlUBTQ4XTcscFY2gM75cI76V1er3HKHwkBG-d2t3rCwej8YcOzgb0gg",
+        "userName": "Rejean Beaulieu",
+        "userImage": "https://play-lh.googleusercontent.com/-nHZTO9T66EI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclMPDN80j2K7LPPuxzEYiAfCARd6A/photo.jpg",
+        "content": "Usefulness most unclear in the absence of useful adoption&reporting stats in a given area. No social distancing capability either. Better to prevent than to cure? Not having been seriously ever field trialed explains a lot imho. No new features release plan either??? Let's hope the vaccine works and we can get there. Generous one star...",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.1.2",
+        "at": "2020-12-05 18:58:56",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFF_RVnped-UeZmFp5-xRlKUIAhHRQGc7Uyz7eQCLfMy3Z-8iOkIMZZcpR7t2BQlhcVJHyan6mjGGO5bg",
+        "userName": "TrialMacameau",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh5KZHwg61quoAMq5fgJWpXSLIv3EMklqlVJRNM",
+        "content": "NOP ! I don't want them to spy my things and get information from unknown people so get that app away from my phone EDIT: You say that but the app need Bluetooth, Location and Wi-Fi turned on. That's 3 things that weighs heavily on the batteries.",
+        "score": 1,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "1.1.2",
+        "at": "2020-12-05 17:56:45",
+        "replyContent": "Hello - The exposure notification approach used is designed to work without storing or using any personally identifying information. COVID Alert is built with strong privacy protection. The app works by sharing randomly-generated codes between devices. These codes can't be traced back to individual people or phones.",
+        "repliedAt": "2020-12-04 20:03:12"
+    },
+    {
+        "reviewId": "gp:AOqpTOFftjuBh5HRJgl7MW60UN7GdEj33OR31ieYKaGtBNOUL1KurA6e7e0_465T_cwNYc7HtCRdhZTppjqszA",
+        "userName": "chun lee",
+        "userImage": "https://play-lh.googleusercontent.com/-QTmnAisgzpg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm2HjKZdkKZEfv0ld9EfENP3VuSDQ/photo.jpg",
+        "content": "If person have virus but he or she doesn't know my app detect it?",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2020-12-05 16:43:57",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOE5GJm90RktZOW97HhBhfkB2FUx9Cu_s_K39Sm3rvD3DV801EXgzszcyP2hqtdAtthXMzs_4n08BXrUwg",
+        "userName": "Louise Thomas",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjcOzNrjcakAyR2s6tzkTQ7VnvT-chujaXu5WBWtPM",
+        "content": "I want to be able to see updates in my province where I live. Newfoundland and Labrador Please put it up to date for me. Then come back for rating.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.1.2",
+        "at": "2020-12-05 15:56:52",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOG3sl-q1hUUqLvu89hEmnKnvWcV3zzVVUpnk_JdveNtdWPBJlOkybYUzgip7XINa4ySYgms8NGXGvaTnA",
+        "userName": "Daniel Mullen",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgDAG_xn8Dy3VyY7YeIHppmwiNhhVlHPo5qTi0P",
+        "content": "I AM NEGATIVE AND I'M NOT GOING TO BE POSITIVE BECAUSE I'M REALLY ISOLATED FROM EVERYONE ELSE IN MY ROOM BECAUSE I'M NOT GOING TO CATCH THIS STUPID VIRUS BECAUSE OF SOMEONE ELSE BIG MISTAKE AND I'M TOTALLY CONFINED FROM EVERYONE SO PLEASE HELP GETTING INTO THE STUPID VIRUS TO PLEASE STAY SAFE AND PLEASE STAY AWAY FROM ANYONE ELSE WHO IS POSITIVE BECAUSE I REALLY DON'T WANT TO GET THE STUPID VIRUS THAT IS real SO PLEASE STAY SAFE",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.1.2",
+        "at": "2020-12-05 10:16:42",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHU3mTKVUElt1HzAeIC5nmiwnSvinEfQls9e6hR7ZJsFuF_17Jt--OkLhP1Lzxc_wIyqehbgfDLuXKlHA",
+        "userName": "Matthew O'Connor",
+        "userImage": "https://play-lh.googleusercontent.com/-HnA-p8I0Rbo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmIiPPwGvb_DTXHK-ivyi03T8kqpQ/photo.jpg",
+        "content": "Worthless, piece of junk app, just another paper app. Doesn't track any information about coronavirus.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.1.2",
+        "at": "2020-12-05 07:19:10",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHC-EDNi7VoV3gVeYhBftX_ZY81Mixpk6Bf9C72XKUlUpe6rlTxDmtOAVKKnxbA4sSkTLnLLCZ9Nc5Sjw",
+        "userName": "Derek R Tremblay",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjsirEPVQIJxSpOsERLr31l461RBTiYa1cssoyrjQ",
+        "content": "No share but I paid for the platform ? I never left Canada. If waiting for a return of an Ontario man paying Qu\u00e9bec taxes. Still here, but ready to leave. And make serious decisions about how I have been treated",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2020-12-05 07:08:49",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHaP7ah1TDwLOVaN0uxqYz7F7ojGSv2O5BDEQsEGVQfopvS7XU6hxZQZkDWT1Te1JdN23Xg7yphLWDIgg",
+        "userName": "Mike Law",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjTg3Ys2U-KbwzZ8A2Bz066w0WK0J56RtNtRq8zng",
+        "content": "It doesn't work on my Samsung 7 phone. Dec. 5, 2020",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.0.12",
+        "at": "2020-12-05 03:29:08",
+        "replyContent": "Hi Mike - You may need to check if your phone has the Google Play Store and latest app store updates. Please refer to our Help Page for support guides: https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19/covid-alert/help.html. We apologize for the issues you've experienced, and please let us know if they persist.",
+        "repliedAt": "2020-10-26 16:33:18"
+    },
+    {
+        "reviewId": "gp:AOqpTOF4L39_mOr-6aFJQRqY3DY9J41stlC3EfAWIPZjEVdKQQgCakrJD3mGqnmbiqNqFjijjKOL3Y3v-MProw",
+        "userName": "Jeffrey Cronin",
+        "userImage": "https://play-lh.googleusercontent.com/-laHWKGSLtCI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclbHMyx1e8JwtUxd5zh_E12jOhNTw/photo.jpg",
+        "content": "My daughter has had four notifications. She works from home, has groceries delivered and only goes out to walk her dog. No one she knows of has had a positive test. After two tests of herself and her family she no longer reacts to notifications. This sounds like another problem with th app.",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.1.1",
+        "at": "2020-12-05 02:24:00",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOEW-Beg8SXw3S6Ku1wtBuuLBcgC8ylTySklIaG4zJ5xYwPWiVk0E4c3QEivPS_HUVTJO5KwAkK4du930Q",
+        "userName": "Paolo Pericolo",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhKYAJp7ygFaBYmbPityGLE9h7UdOSLkieh9uKU1J8",
+        "content": "Hate this app.... It kills my battery.....",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.1.2",
+        "at": "2020-12-05 00:45:16",
+        "replyContent": "Thanks for your feedback Paolo - We'll pass this on to the app team. If you're experiencing issues with your battery, we suggest turning off Bluetooth when you're home and don\u2019t need the app running. As we're continuously making improvements to the app, we also suggest ensure your operating system and yCOVID Alert app are always kept up to date.",
+        "repliedAt": "2020-12-04 22:30:43"
+    },
+    {
+        "reviewId": "gp:AOqpTOFL2S5NmKJ1gOqyXaew0AurZ34pjYGTYDrUSzMkKx5-h-qMkby4dSqvOJm_1HYKgiHh873_eoWtuS60eQ",
+        "userName": "Dave B",
+        "userImage": "https://play-lh.googleusercontent.com/-n3UjW7EsSqw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmi46KMN71xCtw5d2tpHZEAG54j3Q/photo.jpg",
+        "content": "My app appears to be up to date but I can't find the version. It has not checked for exposure since November 9. Kinda useless! Update : I copied the link from the response below and emailed it with more details (that are even worse). Surprisingly, the response was to advise me to email someone else! You guys are inept.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.1.2",
+        "at": "2020-12-04 23:26:56",
+        "replyContent": "Hi Dave - To make sure your app is up to date, go to Google Play Store and search for COVID Alert. If it\u2019s not updated, you should see an option to Update. If the only option is to Open, your app is up to date. If you\u2019re still experiencing this problem with exposure logs, please let us know so we can help at cds-snc@tbs-sct.gc.ca. Thank you.",
+        "repliedAt": "2020-12-04 21:38:54"
+    },
+    {
+        "reviewId": "gp:AOqpTOFPlhEnG8z_ldZOzsNWi8OhBTA2PIZ7zrFtmujk7Pn4NQSrp_n0GTHnL67qjZMGv3iJofN9IQRQD_DD9w",
+        "userName": "Robert Williams",
+        "userImage": "https://play-lh.googleusercontent.com/-CrCFGHMSsRs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclRKQTJ0llVLONKUzBmHESavGSyfg/photo.jpg",
+        "content": "Useless if not used be folks who have been tested positive. Should not be their responsibility to report a positive test.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.1.2",
+        "at": "2020-12-04 23:06:39",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOEKvpbB3C85O2Ve9hRzM8ek1CNeej9yh9YGMoyd9eouqEpjIp-8_pX_Wz88fjZzv5ufZQ-2wgYKORvbmA",
+        "userName": "Ryan Williams",
+        "userImage": "https://play-lh.googleusercontent.com/-8MOT4b9JRMU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmBQcpKEqg_CgCLxkoy5Rh2kPhzIQ/photo.jpg",
+        "content": "Useless piece of garbage",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.1.2",
+        "at": "2020-12-04 21:20:55",
+        "replyContent": "Please let us know if you encountered any specific issues with the app - we're here to help and answer questions you may have.",
+        "repliedAt": "2020-12-04 22:46:36"
+    },
+    {
+        "reviewId": "gp:AOqpTOE0IuB-qERcHMcimKePO-Zn7q2d_5ZFp-MxGmvbm2R4_yP-e9A00QMEQb8MDdGb2PFOs59iZsOJCnYQaQ",
+        "userName": "Andre Andre",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi-yaqKZoDN_sjQ_woXuLh1xfjBOy_o9YoEgIhTLA",
+        "content": "I was told this app could help direct us if we get a red alert weres safe would be helpfull.",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.1.2",
+        "at": "2020-12-04 20:45:21",
+        "replyContent": "Thanks for your feedback, Andre - The app will notify you (through push notifications if enabled, and through the COVID Alert main screen) if you have been within two metres for more than 15 minutes with someone who then tested positive for COVID. Let us know if you have questions.",
+        "repliedAt": "2020-12-04 22:45:17"
+    },
+    {
+        "reviewId": "gp:AOqpTOEbx9O_6K0lrI7A-82FTbRVcQV4Nvm0w0PdYLtY2SUdP3cKBHb6BFDFX0LxrERStXj6RysCHbsxVaVySQ",
+        "userName": "Steven Little Wolf",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhPPUZFpHmbuDymwXkQu_X0Rypvjtwnw4DsYgdpBkU",
+        "content": "Is it even worth it for someone like me who lives in Alberta to install this app?",
+        "score": 1,
+        "thumbsUpCount": 6,
+        "reviewCreatedVersion": null,
+        "at": "2020-12-04 20:10:13",
+        "replyContent": "Hi Steven - We're working to roll the app out across Canada (including Alberta) as quickly as possible. Even if reporting is not yet available in your province, it is still helpful to download COVID Alert now so you'll be notified if you come in contact w/ someone from a reporting province/territory. Let us know if you have questions.",
+        "repliedAt": "2020-12-04 22:39:41"
+    },
+    {
+        "reviewId": "gp:AOqpTOFP26lps0C_Co9-CL7fyhQm3G-TrCUsOQ200IQvG1Aro4GOs0ZURea9yWhILDufrh5QHiH7lqoJOpdquw",
+        "userName": "Ian L",
+        "userImage": "https://play-lh.googleusercontent.com/-hDYDBL_JKgg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckpOz0PPDc0XiOEynCcLvcPt63k6g/photo.jpg",
+        "content": "After instalation it seems to \"take over\" my bluetooth and my Fitbit app sometimes doesnt sync for a number of days until i force sync a couple times.",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.1.2",
+        "at": "2020-12-04 20:05:02",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHKcLf0DLtejnz_3nsnPTHJ7iqtBlSnAokLB2n0hLBhMmOI2sMuhCRakXd6TbLzZbAQkZER5bKfYiVpqQ",
+        "userName": "Sandy Anderson",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gjz4JzKR3Flsv79MXalV1a4jYENnYE8JzoT4GfXvA",
+        "content": "Why did auto update not work?",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.1.2",
+        "at": "2020-12-04 19:45:19",
+        "replyContent": "Hi Sandy - To make sure your app is up to date, go to Google Play Store and search for COVID Alert. If it\u2019s not updated, you should see an option to Update. If the only option is to Open, that means your app is up to date. If you\u2019re experiencing issues with the app, please let us know at cds-snc@tbs-sct.gc.ca. Thanks.",
+        "repliedAt": "2020-12-04 22:35:19"
+    },
+    {
+        "reviewId": "gp:AOqpTOFskpdM9AnnGemroQmToo0d66_jnHxFsp-QLYlu7P4keBtgD_NsGKyRsMQgWHTjWa4sjRPxkizdN3jrLw",
+        "userName": "Deny Hamel",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiuVUhRg0DOut6hUyX8iQTdZ9CS9Wr9o2GLCT7NZQ",
+        "content": "Turning bluetooth off and back on disables the app, at least on my device. I need to open the app and reactivate it manually everytime bluetooth has been disabled momentarily.",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.1.2",
+        "at": "2020-12-04 19:24:33",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOE_jI8ELPpI_PpqrEEiTAZTmdo1rfR-lEGp41iVhIvG9gigs2Ra1v4DHoW4oDvIbvLquIUtybeEwk47Rg",
+        "userName": "Trevor K.",
+        "userImage": "https://play-lh.googleusercontent.com/-nq_cbOI376M/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucntD5SlI9W2O51uzddXB6b89SUHCA/photo.jpg",
+        "content": "Just do it! Download for the safety and health of us all. Even if you aren't bothered by the whole pandemic thing, download it anyways, it could very well save the life of a loved one. Cheers folks! Hang in there! We got this!",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.1.2",
+        "at": "2020-12-04 16:45:02",
+        "replyContent": "Thank you for taking the time to share your feedback with us, Trevor. If you encounter any issues with the app or have questions, let us know. Stay safe.",
+        "repliedAt": "2020-12-04 22:13:28"
+    },
+    {
+        "reviewId": "gp:AOqpTOGcKKnj_HMisk4l_OCqKoKHiMcduj404UUje_BJUU7-4y-RUoIcqqvLUX_bkjORVeyp2bE4dprDMIwEoQ",
+        "userName": "Vic Whitmore",
+        "userImage": "https://play-lh.googleusercontent.com/-UXschVGgxkM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck2owo8JTqKBs-ZH7xKkC14ZLfI-w/photo.jpg",
+        "content": "I loaded this app as soon as it was available. I recently learned that there was an issue with some users not getting alert info regularly n times per day. The app does not have a way of showing you this activity. Now I have found if you go to your phone Settings and search \"Covid\", two items will appear. If you tap on Covid-19 Exposure Notification, a list of the recent activity is displayed. The Covid Alert app MUST have a menu option to display this directly. Knowledge is power.",
+        "score": 4,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "1.1.2",
+        "at": "2020-12-04 16:43:36",
+        "replyContent": "Thanks for reaching out about COVID Alert. We appreciate your feedback in helping improve the app for all users and will pass it along to our product team. You can find more info on our Help page: https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19/covid-alert/help.html. Let us know if you encounter issues.",
+        "repliedAt": "2020-12-04 20:49:50"
+    },
+    {
+        "reviewId": "gp:AOqpTOG_t9SCbMGYyOVe7-VHal_-9q0HeNF8BwCKVTu6kn_1eo7D_2F3dpn6it5jDLe_jP8JyocixQxdM5Pxuw",
+        "userName": "Ken Morris",
+        "userImage": "https://play-lh.googleusercontent.com/-_bNWKR1cuQI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmUYx7nBzlcFHOfthV9n2SIfvG34g/photo.jpg",
+        "content": "I checked my logs today and they only show as having checked at the precise time of opening the app, no other times in the past 2 weeks. Before I checked the logs I made sure that the app is up to date, that was done a bit over a week ago. The phone has been rebooted since the update yet nothing shows in the logs until I opened the app. Over the last two weeks I know for certain that I have been around other people who have the app installed. How often should I see it checking?",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.1.2",
+        "at": "2020-12-04 16:30:34",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFEO_yW2GI-RQ7pGSkeJEvPu7Cz-b_hroI_89Cp_YUHhiq8eeo2YVgvh5ghQj3WVYQ2FSSAKL2AJv6sFg",
+        "userName": "Ingo Jobling",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj5_BHDrvTQ9qDT85dEDgxFsh2wcnXzY4BFJgN0IR0",
+        "content": "No checks were performed between Nov. 27 and Dec. 3, according to Settings/Google/Covid Alert/Exposure Checks.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.1.2",
+        "at": "2020-12-04 16:19:33",
+        "replyContent": "Hi Ingo - We\u2019ve updated the app to fix this issue. To make sure your app is up to date, go to Google Play Store and search for COVID Alert. If it\u2019s not updated, you should see an option to Update. If the only option is to Open, that means your app is up to date. If you\u2019re still experiencing this problem, please let us know at cds-snc@tbs-sct.gc.ca.",
+        "repliedAt": "2020-12-04 21:55:30"
+    },
+    {
+        "reviewId": "gp:AOqpTOFqkBHfmoBkDlmTFoC9Xj3mM586xih6-Ml85Xyx3YlNo32XY_OrCqQO9-gVFr5yN2hRkObztt-M0W0wyw",
+        "userName": "Brandon Bourne",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhbVjV6_zNUmL1kv-PxaVm0YTgcND9JyZoiq7wIMA",
+        "content": "Great initiative",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.1.2",
+        "at": "2020-12-04 16:15:46",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOEXji-ptU2gssJyG2P0GCodXKRaltWnI71ofVjb9afQYPSq6MIhxuLaZmwMJVn0CiR4Si3oSLvUPKV89w",
+        "userName": "Melissa B",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhRQAzVBHzwwVbnICF7bnb9nZDmB2ekcLYLxbvikw",
+        "content": "Great idea...lousy execution by the general public . When I ask around or mention the app to others...very few have downloaded the app. I think the app gives people who have it a flash sense of security. Doesn't do much unless a magical sequence of things line up just right. One the people are super close for 15 minutes, they must have the app, they have to actually log their code to show they have covid. The whole thing is absurd. Why set it at those thresholds? Exposure is exposure. \ud83d\ude44",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.1.2",
+        "at": "2020-12-04 15:24:48",
+        "replyContent": "Thanks for your feedback. The app defines an exposure (w/in 2 metres for more than 15 mins) based on public health guidance. COVID Alert is one of many tools to combat COVID-19 and while it doesn\u2019t replace contact tracing by public health authorities, wearing a mask or physical distancing, it can help reduce transmission at all levels of uptake.",
+        "repliedAt": "2020-12-04 22:00:24"
+    },
+    {
+        "reviewId": "gp:AOqpTOGvsrs2K9fZOesQwFOo1_Et_zUr6251Db7c3z1NLypaI7uEGqL_qu0dZDfvrGha6yqNcypPwpHLBU_yNg",
+        "userName": "S. F.",
+        "userImage": "https://play-lh.googleusercontent.com/-Zpalz6VFeNI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm29UuvYTQNurAWwooRooinIo-miA/photo.jpg",
+        "content": "I never received alert via this app that there was an update. I read CBC news story that alerted me to check Google Play Store for update!!! NOT GOOD ENOUGH!!!",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.1.2",
+        "at": "2020-12-04 15:06:54",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOE3FdGVnrhHrDVvn89CZkqKxsaZ7axb5Zzq_Vj5jHkMelMT_x4sGEZf9aGnt7iChsox3Pj9nrCfBYccwA",
+        "userName": "Patty Ewaschuk",
+        "userImage": "https://play-lh.googleusercontent.com/-ZlPmEk9dna0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclvNUgKsOI1Q83IO3YRgpVmLneNyA/photo.jpg",
+        "content": "When I open it, it says last checked 125 hours ago. If I go into google settings it says it checked this morning. Not sure which info to believe (I checked the App store and it appears i already have the update).",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.0.2",
+        "at": "2020-12-04 14:30:19",
+        "replyContent": "Hi Patty - To check if the app is working, you can look for the exposure logs in your phone's settings (choose Google, then COVID-19 Exposure Notifications) - the app checks for exposures every day (1-6 times) when connected to the Internet. If you're experiencing issues with exposure logs, please let us know at cds-snc@tbs-sct.gc.ca.",
+        "repliedAt": "2020-12-04 22:21:18"
+    },
+    {
+        "reviewId": "gp:AOqpTOH8E1N72zCeXgD1UsYmIPQKgaaOo7RjpWMKrW1_GQFiw8izprHRPlTMN1lPl_rgEiR3b80XVVDBIcnBiQ",
+        "userName": "Dallus Marshall",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh40C4c6KuAdIpAUYgCKXMMJAX_2CkYGd8hQC_OqUc",
+        "content": "My app wasn't working for a period of time in November, specifically on the 17th when I had a medical apt in Halifax (I live 3hrs away) the app did zero exposure checks. I found out 12 days later from an article on the CBC News app that there was a positive COVID case at the same hospital I was at and that I should have been isolating. However my app updated and is now working again and I don't seem to have developed COVID so it worked out for me.",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.1.2",
+        "at": "2020-12-04 14:13:34",
+        "replyContent": "Hi Dallus - Thanks for sharing this update with us, and we're glad the app is working for you again. If you encounter any issues with COVID Alert's exposure logs in the future, please reach out to us at cds-snc@tbs-sct.gc.ca. Thanks again.",
+        "repliedAt": "2020-12-04 21:46:32"
+    },
+    {
+        "reviewId": "gp:AOqpTOHxrylvsLxvhIhKhctIV6dm9d6J602qpyKC-GXONyXEt48SQjH1UqYDryJI_DEtPFFBu0Djz7YPSFtAHw",
+        "userName": "Henry Goertzen",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg-IULQQxxNrqfMOYXPU_PeVfgIVxUo3Opfd48efQ",
+        "content": "What do you mean you updated the software but didn't let me know? How incompetent is that?",
+        "score": 1,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "1.1.2",
+        "at": "2020-12-04 14:06:58",
+        "replyContent": "Hi Henry - To make sure your COVID Alert app is up to date, go to the Google Play Store and search for COVID Alert. If it\u2019s not updated, you should see an option to Update. If the only option is to Open, that means your app is up to date. If you\u2019re experiencing any issues or have questions, please let us know at cds-snc@tbs-sct.gc.ca.",
+        "repliedAt": "2020-12-04 21:34:56"
+    },
+    {
+        "reviewId": "gp:AOqpTOF47ueTnC5iTnSSg5voKVfbHzKOJTwx3LO899TP5ViBxsmtRrtdhZDXCuUVLq49cdm-uxh0NiC3AMdOhA",
+        "userName": "Geoff Campbell",
+        "userImage": "https://play-lh.googleusercontent.com/-_Bf549DDMa8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckRrmBbTFepYvFuWETNNnJVlcoUBQ/photo.jpg",
+        "content": "It only tracks exposures longer than 15 minutes. The only people I am with that long would tell me if they were exposed.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.1.2",
+        "at": "2020-12-04 13:15:32",
+        "replyContent": "Hi Geoff - The app defines an exposure as less than two meters between yourself and someone for more than 15 mins, based on public health guidance. As one of many tools we have to combat COVID-19, the app doesn't replace manual contact tracing, physical distancing or wearing a mask, but it can help reduce transmission at all levels of uptake.",
+        "repliedAt": "2020-12-04 22:17:14"
+    },
+    {
+        "reviewId": "gp:AOqpTOHK6uS7CAKURwrX7jBifv6LyaCscgkq72pFlPtVM1tgaV7X9Oa3mo7hZjYsbfuuK6t0CNeFSLTYrH1nWg",
+        "userName": "Chris Anfossi",
+        "userImage": "https://play-lh.googleusercontent.com/-mMmNItgJyDU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucks8diwWp4iDtUcY3n23j34sT5tqw/photo.jpg",
+        "content": "It is an okay app, but needs improvement. You shouldn't have to be around someone with Covid for 15 minutes or longer before the app detects a Covid positive person. The app should detect a Covid positive person close to you within 1 or 2 minutes, reducing your exposure time to the infected person.",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.1.2",
+        "at": "2020-12-04 12:58:59",
+        "replyContent": "Thanks for your feedback, Chris. The app will notify you if you have been within two metres for more than 15 minutes (or \"close contact\", based on public health guidance) with someone who then tested positive for COVID.",
+        "repliedAt": "2020-12-04 21:32:34"
+    },
+    {
+        "reviewId": "gp:AOqpTOGHY_7hQaNuLMtnS_jG-EqTTBWEmwqkBYES7xSp9146Yx_ULYjc5m--DySRXQ7Y-cxCMx7dTqLp7P9q0w",
+        "userName": "Marie Grist",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgHTfNauz7QvwwNcukC0XkljdkeoS5mdV8OgyOq4Q",
+        "content": "One of many tools to keep us safe.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.1.2",
+        "at": "2020-12-04 12:39:54",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHoYBbwIDfK-Ecw1gAnjddacanuGNfAo1JScVjkSNqIQ7uKtU2iEzt1vsTRplN8HIMjYJUhVhs4orvh2A",
+        "userName": "Amanda Deeley",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi-A8Icayx3kUw4eavRFR3Q7Cp89SMy9KqX6nJV_g",
+        "content": "The most recent (Nov 20) fix to address the complete lack of exposure checks has again stopped working. It checked for a day or two and now hasn't checked since November 29th. The worst part of that is that the record of exposure checks made by the app is hidden in settings>Google settings so most people probably assume it's just working, like I did. You can't easily tell unless you happen to go looking to make sure. But if it's not working, you're potentially exposed without knowing it.",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.1.2",
+        "at": "2020-12-04 12:27:35",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHvZyTeFcwXL1TOaEabLRdin17wBFjNSp5tCEBUHqPv2wzoI1dpjgoEgl4khhdCnnqL17c_J-N6vAaNnA",
+        "userName": "Geoff H",
+        "userImage": "https://play-lh.googleusercontent.com/-8FydlDJPrJY/AAAAAAAAAAI/AAAAAAAAADY/AMZuuckx2aD6zEguU3hujQEsgRMvzpiWgA/photo.jpg",
+        "content": "Update: I spoke to soon. The showed exposure checks for a few days but stopped on the 28th. After I opened the app the logs showed a dozen or so checks in the last minute, but nothing since then. Is the app just not uploading IDs when it's closed or is it not sending out bluetooth beacons as well? Both situations aren't ideal but the latter is very worrying to me. EDIT: The problem I described below appears to have been fixed. I now see multiple checks per day, even without opening the app. I'm not convinced the app is checking for exposure and/or running in the background. The exposure log (settings->google->covid19->exposure checks) only shows checks after the app is opened. If I don't open the app for days or weeks and check the logs again, the most recent check lines up exactly with the last time the app was opened. I tried uninstalling-reinstalling and saw no change in behaviour. I've read that the app constantly checks for exposure as long as there is internet access but that doesn't seem to be happening on my device.",
+        "score": 1,
+        "thumbsUpCount": 27,
+        "reviewCreatedVersion": "1.1.2",
+        "at": "2020-12-04 12:20:33",
+        "replyContent": "Hi Geoff - Thanks for the update and for bringing this issue to our team. We have updated the app to fix this issue and recommend that you continue keeping COVID Alert and your operating system up to date as we continue making improvements to the app. If you encounter this issue again, please let us know at cds-snc@tbs-sct.gc.ca.",
+        "repliedAt": "2020-11-30 22:19:12"
+    },
+    {
+        "reviewId": "gp:AOqpTOHERrrhSgaDTNpHr6Wp6HE0UZ2e_Gx-3WrQI_HZog-ggrwlZnQRkwZNFZb45EB5gj0tkArcOFOYxB0gTw",
+        "userName": "Eric Lounder",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgXOIXDYXVKhFEsMmQ6lfBAYQu7KRXy8ZS4_rlctg",
+        "content": "The app wasn't working for much of November; what kind of review do you expect?",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.1.2",
+        "at": "2020-12-04 12:18:26",
+        "replyContent": "Hi Eric, we\u2019ve updated the app to fix the exposure log issue. To make sure your app is up to date, go to Google Play Store and search for COVID Alert. If it\u2019s not updated, you should see an option to Update. If the only option is to Open, your app is up to date. If you\u2019re experiencing still this problem, please let us know at cds-snc@tbs-sct.gc.ca.",
+        "repliedAt": "2020-12-04 21:17:19"
+    },
+    {
+        "reviewId": "gp:AOqpTOH95hMREnr0gQ7wy-DVcHWD8pkAJHWvdh6Oyj088ptncVylAa2jZ2kaVOPwhsntKkACHMW7Wy1CIfYPfw",
+        "userName": "Prodigy Robotics & Automation Inc.",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GghCw44qGexFXP5324-O-vZgD35DQTtd8780xngCQI",
+        "content": "Would have given zero stars if possible. What a complete waste of our governments money, approx $650,000.00. This should have been monitored daily, and alerted us when it was no longer working, and needed an update. Mine hadn't updated since it was installed. Its pathetic it took so long to realize the issue.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.1.2",
+        "at": "2020-12-04 12:10:46",
+        "replyContent": "Thank you for your feedback. If you\u2019re experiencing still this problem with exposure logs, please let us know at cds-snc@tbs-sct.gc.ca. To make sure your app is up to date, go to Google Play Store and search for COVID Alert. If it\u2019s not updated, you should see an option to Update. If the only option is to Open, that means your app is up to date.",
+        "repliedAt": "2020-12-04 21:14:10"
+    },
+    {
+        "reviewId": "gp:AOqpTOF0zNcnmhbyxDc6bk1yp9SPoAHT4VZrs5V6BpNg1tz9PzL19s6lcBK4mHBlopd2qwjhl7yku1ZoU3nFqw",
+        "userName": "Alex Derksen",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhvhEqejNKz-qDh4-kkZ2pbO5t5jTQFEdsQOmnj2g",
+        "content": "I would love to give this app a higher rating, but very few people in my area are actually using it. I face 100+ members of the public every day and yet it never connects with anyone else's phones.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.1.2",
+        "at": "2020-12-04 04:14:20",
+        "replyContent": "Thanks for your feedback, Alex. The app is one of many tools to limit COVID-19, and we recognize it doesn\u2019t replace contact tracing by public health authorities wearing a mask or physical distancing. To check if the app is working: https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19/covid-alert/help.html#13",
+        "repliedAt": "2020-12-04 20:44:44"
+    },
+    {
+        "reviewId": "gp:AOqpTOHS-53ZyhIRVst9zFtGSBsfFXEkJTt84W3zmcdvvgCm1GWhkaRqxgbbizHLZwuvG3WHxBS8OSQACbv8ww",
+        "userName": "Dylan Szucs",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhtkopFSfKA2x3j7fdNJ_EJCvHYCV1hZu88_KQgoQ",
+        "content": "Slow, unstable, doesn't track anything. It requires you to have EVERY function of your phone on, it makes my phone overheat and die within 30 minutes. On-top of that, it doesn't have any history of communication with other phones. I've been to the grocery store etc and haven't had the number change. This is beginner level coding on a basic App. How can a government flop so bad?",
+        "score": 1,
+        "thumbsUpCount": 8,
+        "reviewCreatedVersion": "1.1.2",
+        "at": "2020-12-04 03:20:46",
+        "replyContent": "You can look for when the app last checked for exposures, in your phone's settings (by choosing Google, then COVID-19 Exposure Notifications). The app checks for exposures every day when connected to the Internet (from 1 to 6 times a day). More info about how COVID Alert works: https://www.canada.ca/en/public-health/services/video/covid-alert.html",
+        "repliedAt": "2020-12-04 20:36:30"
+    },
+    {
+        "reviewId": "gp:AOqpTOGUcI1Np3Hq0fADnBWXpcFkYQU32fMHui6GgUK4_e1o5OM0FF2NTQKLtoPRXVb7gZRcdQKthwW3HdR7Tw",
+        "userName": "Greg Scarlett",
+        "userImage": "https://play-lh.googleusercontent.com/-uTxmLNisqOw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmtNFe4bMQ9TA5phM7_ZPGVVPZziQ/photo.jpg",
+        "content": "Why the fk doesn't it report people in bc. I work in a busy place and would like to be able to monitor if I have come in to contact with anyone",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.1.2",
+        "at": "2020-12-04 02:25:31",
+        "replyContent": "Hi Greg - We're working w/ each unique healthcare system to roll the app out across Canada (including BC) as quickly as possible. Even if reporting a diagnosis through the app is not yet available in your province, it is still helpful to download it now so you'll be notified if you come in contact w/ someone from a reporting province/territory.",
+        "repliedAt": "2020-12-04 20:31:46"
+    },
+    {
+        "reviewId": "gp:AOqpTOGw_Jfw9PVbNBx57JoRxp_Aopk7asAXLE4Mn65dLla7BHdTnVReSgSFGVCuIfS4W8_WVccHj2oft7cSHw",
+        "userName": "Brenda Beeching",
+        "userImage": "https://play-lh.googleusercontent.com/-Tj1rtydILqY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnNrdst7plNtxZuuWY7h-e7WCackQ/photo.jpg",
+        "content": "Doesn't work",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.1.2",
+        "at": "2020-12-03 17:35:48",
+        "replyContent": "Hi Brenda - Could you provide more info about the issues you're experiencing with the app? If the app is not downloading or crashing, you may need to take these steps on our Help page (https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19/covid-alert/help.html#5). You can reach out directly at CDS-SNC@tbs-sct.gc.ca.",
+        "repliedAt": "2020-12-03 21:51:27"
+    },
+    {
+        "reviewId": "gp:AOqpTOG0dm_eCmeh58jA4KOx1D2xxpYWxHGcRjUbjefa0RCGcGHyLk3L85PajexYC-sK_RS0Oox9h5ZefYSQPg",
+        "userName": "C. K Prak",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi6o6ZXqi9DqM7k6geV3EYn48EvJ1ayhVma-c1ovQ",
+        "content": "Good",
         "score": 4,
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.1.2",
-        "at": "2020-11-30 13:50:18",
+        "at": "2020-12-03 11:14:27",
+        "replyContent": "Thanks for your feedback. Please let us know if you encounter any issues with the app or have questions.",
+        "repliedAt": "2020-12-03 21:46:30"
+    },
+    {
+        "reviewId": "gp:AOqpTOH1eLihuDhYo0gP7ndb0PCBzhCED5vlJp4QsEy3SfgPhLp1pLdU5_R-w0BW44OORGZwxHTXF7jrG3beaw",
+        "userName": "Elle Woodford",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjvFOBiD2pWbqhyHhOz-JsfaK3yQbQVdY2qg0Tj",
+        "content": "Cant use it in alberta. You'd think the feds would override the dumbass conservatives here",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.1.2",
+        "at": "2020-12-03 03:40:45",
+        "replyContent": "Hi Elle - We're working to roll the app out across Canada (including Alberta) as quickly as possible. Even if reporting is not available in your province yet, it is still helpful to download COVID Alert now so you'll be notified if you come in contact w/ someone from a reporting province/territory. We hope this is helpful.",
+        "repliedAt": "2020-12-03 21:42:11"
+    },
+    {
+        "reviewId": "gp:AOqpTOG4qpIBUWl3zrcAiHFGdSgZN8yjSk1gIg0dP1vyoFXm2eOSWSTFHI1DVU2TuR_wMdqDa4SN8ffCTK9UtA",
+        "userName": "Andrew Scollan",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhhH-DcYbtNHEwe0puyxExd2f-Ru7yomZHfm_VjwQ",
+        "content": "Just not very accurate ud mmmm mmmmmm",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.1.2",
+        "at": "2020-12-03 01:14:16",
+        "replyContent": "Thanks for your feedback, Andrew. Please let us know if you encountered any specific issues with the app or have questions.",
+        "repliedAt": "2020-12-03 21:28:23"
+    },
+    {
+        "reviewId": "gp:AOqpTOE9a7tTzdcpM-G7H03rSazdlzUyFx8iWMt6PCLxIY6_vWf46ZDNmLOmxtQFjVkAxBR7eK587-Kav7lgag",
+        "userName": "TCET TCET",
+        "userImage": "https://play-lh.googleusercontent.com/-E9NFfmJWpNc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmZXSUuyRZkRoQF8XmbTO4o7hIR4g/photo.jpg",
+        "content": "Low database makes it ineffective.",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2020-12-03 00:31:22",
         "replyContent": null,
         "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFGR5bxfsEqLgEOduz3twrBsrvmB67o7EtvQfQGOXa7lzaFuQQHXIb98pepooZumSkOouIRP1o7io1Iwg",
+        "userName": "Ivan Stephen",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjlH41WzY8WlA0muBF2k1YjliTvzR-1CkMix2-Y",
+        "content": "Part 1: I had to fight to connect with real developers. No real tech support at that time. They seem to have broadened the phones it works on. But the underlying concept of privacy during a pandemic is completely misguided. Also - sick or worried people should NOT be expected to report positive results; only 5% remember to do so. App also assumes that we all have data plans and Bluetooth always on. Part 2: They've responded, and say we need to go online with the PHONE every day. They lack a grasp of the basic fact that not everyone has a data plan - so those who don't are being told to go to a wifi zone (maybe indoors) every day - even though in a pandemic we should be staying OUT of public places as much as possible. I really wanted to participate in this app, but when only 5% of those who have it actually use it properly, it is almost a total technology and public health failure. I see the lost potential of masks (a simple partial solution) and an app (a complex partial solution) being a combined failure of public health.",
+        "score": 2,
+        "thumbsUpCount": 32,
+        "reviewCreatedVersion": "1.1.2",
+        "at": "2020-12-02 23:46:36",
+        "replyContent": "Thanks for your feedback, Ivan. COVID Alert is one part of our public health effort to limit COVID-19, and the app doesn\u2019t replace manual contact tracing by public health authorities or wearing a mask and physical distancing. At all levels of uptake, the app is one tool that can help reduce transmission and death.",
+        "repliedAt": "2020-12-03 20:42:57"
+    },
+    {
+        "reviewId": "gp:AOqpTOE7a0k9TjiBjx-bKyVHziLwS2zmL_TepwjstXz1Vkj2eEE1oOWOiNHBdldc4fi6ALu5nvXH_RXyi5PeRw",
+        "userName": "Blondie B",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhFwZg5cRHoMFJVoC70T2_G8_lk5oAVyKtzFBys",
+        "content": "After many months of covid alert being greyed out I finally figured it out. I had several google accounts on my phone for gaming apps. I had to remove all of the other gmail accounts in settings/accounts and backup/accounts then restart my phone, reinstall the app, and it finally prompted me to enable covid alert. Hopefully you can spread the word so others experiencing this problem can get the app to work. I will leave my review at 1 star for a little so maybe people having trouble might see it",
+        "score": 4,
+        "thumbsUpCount": 28,
+        "reviewCreatedVersion": "1.1.2",
+        "at": "2020-12-02 22:42:05",
+        "replyContent": "Thanks for letting us know that you were able to resolve this issue. We'll share this info with others too if it will help them resolve their issues. Appreciate you updating us!",
+        "repliedAt": "2020-12-02 23:11:18"
+    },
+    {
+        "reviewId": "gp:AOqpTOHNJNRa00aUtGyG6wTbOG_uGhkrhEs9TJKc4tl9Nnfklyt28Cn7oZv7D_BYz8R-6aADGFpIF_b3zTx52Q",
+        "userName": "Carol Green",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjgCKRx0QS6Je16UuBwPhqGPJ2Npud3hGcs2Raq",
+        "content": "Why does this not work in B.C.?",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.1.2",
+        "at": "2020-12-02 15:33:40",
+        "replyContent": "Hi Carole -We're working w/ each jurisdiction and their unique health care systems to roll the app out across Canada (including BC) as quickly as possible. Even if reporting is not available in your province yet, it is still helpful to download the app now so you'll be notified if you come in contact w/ someone from a reporting province/territory.",
+        "repliedAt": "2020-12-03 21:22:40"
+    },
+    {
+        "reviewId": "gp:AOqpTOESGrwjpqjEyAUHiMr9W-TV2oU2pQoN1wCfcjCa-jRn56DWXTepAL9S1eWwBvwI0OK6fs95WPPWWaeRKg",
+        "userName": "Hiedi Kim Hogan",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj9dAUxJ1bLXV1ySyMqegtLUJv8NVXzb3zkxJupqQ",
+        "content": "Perfect",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2020-12-02 15:04:31",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFJelVfDut_jte8YV19tvLQeKyEx-pSkzPSeirG1KS3P5gqhxUU0jxgG2gFIvs4ixemmCdURNtGM-VAyQ",
+        "userName": "julius Bangojr",
+        "userImage": "https://play-lh.googleusercontent.com/-zfBV3ypj7sE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclRmjq_t_ZZPie57sFNLGNspkLQWw/photo.jpg",
+        "content": "App is not useful at all. For such a serious virus, it is weak minded response. Even front line worker's say app has not sounded off when in the field. Don't think anyone wants to show they have or had covid19 Those that recovered from covid19, would be afraid to go out. Let alone register with this app. Just an other idea that wasted taxes payers money. How much money is wasted every month on this app?",
+        "score": 1,
+        "thumbsUpCount": 3,
+        "reviewCreatedVersion": "1.1.2",
+        "at": "2020-12-02 14:29:37",
+        "replyContent": "Thank you for your feedback. COVID Alert is one part of our public health effort to limit COVID-19, and the app doesn\u2019t replace manual contact tracing by public health authorities or wearing a mask and physical distancing. However, it can help reduce transmission and death at all levels of uptake.",
+        "repliedAt": "2020-12-03 21:20:05"
+    },
+    {
+        "reviewId": "gp:AOqpTOFVERpO8iznD0m3oEBQ4jaCJ9Hv7LsRAOM6Jzq8nJBIGOuJh9Kqrbfz_OUo14ILXtXCmynyFSacoVgUmg",
+        "userName": "aimee silver",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj8HPfjBFlVHo_RZfFba9IKxjhsmgjuaTQ8zis_",
+        "content": "My app is up to date but is still not checking for exposures. Last check before today was Nov 25. Concerning.",
+        "score": 1,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "1.1.2",
+        "at": "2020-12-01 20:46:38",
+        "replyContent": "Thank you for getting in touch. We\u2019ve updated the app to fix this. To make sure the app is up to date, go to Google Play Store and search for COVID Alert. If it\u2019s not updated, you should see an option to do so. If the only option is to Open, that means the app is updated. If you\u2019re still experiencing this problem let us know: cds-snc@tbs-sct.gc.ca.",
+        "repliedAt": "2020-12-01 22:47:37"
+    },
+    {
+        "reviewId": "gp:AOqpTOFMMAzo3lddoGgqM60955QxxIvITIBbONTkJPMUPm5eB3008xXNWz0d0ooW-PxsuPGYUQLQU51VIMleDA",
+        "userName": "Katrina Kelly",
+        "userImage": "https://play-lh.googleusercontent.com/-4puzJKKWmEc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckoWqKNB4RINlGNmVAeWipw6LKLcw/photo.jpg",
+        "content": "Really good app! I would just love to see if I was around anyone at all for any amount of time who reports a covid diagnosis. I work in a grocery store and am not usualy around people for more than like 5 mins so its almost ineffective for me to use to know if I've been exposed to it. I feel like 15 mins is too long to have to be around someone for this to work.",
+        "score": 3,
+        "thumbsUpCount": 36,
+        "reviewCreatedVersion": "1.1.2",
+        "at": "2020-12-01 20:10:33",
+        "replyContent": "Thank you for your comment. The app will notify you if you have been within less than 2 metres for a cumulative of 15 mins or more with one or more people, over the past 14 days, according to public health guidance for what defines close contact. If you're wondering if the app is working, you can look for the exposure logs in your phone's settings.",
+        "repliedAt": "2020-12-02 15:59:28"
+    },
+    {
+        "reviewId": "gp:AOqpTOGq4qw8i8RiO9AjwQAqVPM1IyDj0DYQtHhicueEGKDr7LYxqcSQTZVNofYJf3PCwstiv4DUWcu9HbITfQ",
+        "userName": "Madison Simmons",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gjjzwn3UoMSmO2XOl7_FAmvKQWVBQuLS_qWosOM0A",
+        "content": "Can't really give this app anymore stars it's pretty useless won't check unless I'm connected to the internet or have data running and when I'm shopping I don't have wifi and I don't have data like alot of people so it's useless",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2020-12-01 08:59:05",
+        "replyContent": "Whenever you leave your home, all you need is Bluetooth enabled for your phone to exchange random codes with other phones. The app will also check periodically for a list of random codes associated with positive COVID cases when connected to the Internet (from 1 to 6 times per day), so we recommend connecting to the Internet at least once a day.",
+        "repliedAt": "2020-12-02 20:27:06"
+    },
+    {
+        "reviewId": "gp:AOqpTOH_3IKwQLDlSJkwXSRFVJmsAW59mAQpzt8jdedWZysqzPSXZlvN71HpZ8rb-QUqQ3jOOA2ZsLCHV_PU5Q",
+        "userName": "Wendy MacRae",
+        "userImage": "https://play-lh.googleusercontent.com/-m4EWk1tsl_M/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmA-w9YpoqVsibQFpUYHWyEmTb59Q/photo.jpg",
+        "content": "There's still gsps in checks. The last check my phone did was on Nov. 25th. I'm in NS, & did install the latest version of the app, where this was supposedly fixed.",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.1.2",
+        "at": "2020-12-01 08:26:31",
+        "replyContent": "Hi Wendy - Thanks for letting us know, and we're sorry for the issues you've encountered w/ the app's exposure logs. We'd like to look into this for you and ask a few follow up questions to help improve the app. If you could reach out to us directly at CDS-SNC@tbs-sct.gc.ca, we would really appreciate it. Thanks again, and hope to hear from you.",
+        "repliedAt": "2020-12-02 20:33:45"
+    },
+    {
+        "reviewId": "gp:AOqpTOEI1LENSziq_Li6lJVuygxCsg3IpDAvH5Bzh09nNR6p7CsxuL_gOPpxCLGk53xkJcdAVt6fS2u78_FAtg",
+        "userName": "alex kwiss",
+        "userImage": "https://play-lh.googleusercontent.com/-meu7EmUhb9s/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucldEPLI84GVejzteh1m5c2y0ub9xA/photo.jpg",
+        "content": "Was chitty",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.1.2",
+        "at": "2020-12-01 08:03:43",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFsIGuJKDk9D5zUlmZtAEoywp0Pp0EXDsZvYBZc_iMed8pbTqy9VT4p1XTaVLDMfvDKVHBgJtKOcy6kbw",
+        "userName": "Kelly Clelland",
+        "userImage": "https://play-lh.googleusercontent.com/--o7Sb2-VCUU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmjXg0YBXMv6CsZcH59wgqktY79Ug/photo.jpg",
+        "content": "App has been updated and exposure checks are now being conducted regularly. Gives me some peace of mind.",
+        "score": 5,
+        "thumbsUpCount": 2,
+        "reviewCreatedVersion": "1.1.2",
+        "at": "2020-11-30 22:49:17",
+        "replyContent": "Hi - We\u2019ve updated the app to fix this issue. To make sure your app is up to date, go to Google Play Store and search for COVID Alert. If it\u2019s not updated, you should see an option to Update. If the only option is to Open, that means your app is up to date. If you\u2019re experiencing still this problem, please let us know at cds-snc@tbs-sct.gc.ca.",
+        "repliedAt": "2020-11-30 21:48:52"
+    },
+    {
+        "reviewId": "gp:AOqpTOGx3IRa5Y6jH8Vy7fey-vg24q7NpTyjN8y8vW7l2av9mISMDfhqIt--TsT0Rr5bGsh0d7-XHcT276a9Sw",
+        "userName": "Michael Hall",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GieSbuqDGU2kJc7iZfhyGInWpBwmDzYCo6ic7_WXw",
+        "content": "The app is now correctly automatically checking the IDs against the servers here in Nova Scotia! Thanks for the fix covid alert team!",
+        "score": 5,
+        "thumbsUpCount": 36,
+        "reviewCreatedVersion": "1.1.2",
+        "at": "2020-11-30 22:35:14",
+        "replyContent": "Thanks Michael, we\u2019ve updated the app to fix this issue. To make sure your app is up to date, go to Google Play Store and search for COVID Alert. If it\u2019s not updated, you should see an option to Update. If the only option is to Open, that means your app is up to date. If you\u2019re experiencing still this problem, let us know at cds-snc@tbs-sct.gc.ca.",
+        "repliedAt": "2020-11-30 21:53:33"
+    },
+    {
+        "reviewId": "gp:AOqpTOEbfgYwa0ePoQCetOJe-gFlbr9zsAQovqHpcWyRTf3_y7cpQI0WGjfOR0sDjGQCvFnDafmfsSop-A7Akg",
+        "userName": "Vaginae Dentatae",
+        "userImage": "https://play-lh.googleusercontent.com/-1RZ02aDUftY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm7cF8cDxGoRfFQT9OUqooROQFUvw/photo.jpg",
+        "content": "Where can I find if and how many exposure checks the app has done? People are mentioning this but there's no settings within the app? Because I was with a friend who tested positive and sent her info thru the app and I got nothing!",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.1.2",
+        "at": "2020-11-30 17:32:59",
+        "replyContent": "To find exposure logs, go to Settings on your phone, then Google, then COVID-19 Exposure Notifications. If an app user who tested positive chose to notify others, COVID Alert will let app users (who were w/in 2 metres of that user for more than 15 mins) know they may have been exposed in the past 14 days. Let us know if you have questions.",
+        "repliedAt": "2020-12-02 20:43:27"
     },
     {
         "reviewId": "gp:AOqpTOEakW5sN15smwMCktecyXuogIf0obMWyNXBj-_tSjIrPBA8cvX3WFJqXu8RDSCzskcW7oo-Ot4SUNE0_A",
@@ -20,8 +680,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2020-11-30 13:24:27",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "In some provinces, you cannot yet report a diagnosis through the app. When you're travelling, keep your province set to where you live rather than where you are at any given time. It's still helpful to keep the app on no matter where you are - if an app user from a participating province who tests positive is in proximity to you, you'll be notified",
+        "repliedAt": "2020-12-02 20:52:37"
     },
     {
         "reviewId": "gp:AOqpTOG3Fz7wXMaAQ44OQEpxwYqliIQA3a7xqFjn8fZyS1fWQgKl3zcQBoBIYv3n4vvjdjrffoOmOwO9LQauZA",
@@ -89,11 +749,11 @@
         "userImage": "https://play-lh.googleusercontent.com/-NXVg7K9mPyM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclt5k04_sRm1wi27Br9Z_JWozmejA/photo.jpg",
         "content": "(Edit: just downloaded the new version and exposure checks are occuring again but only when forced by opening the covid alert app... better than nothing I guess.) Since the most recent update, the app hasn't performed a single exposure check. I have bluetooth and location on. Previously, the app would only do an exposure check when I opened it (according to the log under google settings).",
         "score": 3,
-        "thumbsUpCount": 54,
+        "thumbsUpCount": 56,
         "reviewCreatedVersion": "1.1.2",
         "at": "2020-11-29 20:31:54",
-        "replyContent": "Hi Leah - Thanks again for sharing your feedback with us. We\u2019re hoping to get in touch with you to look into the issues you\u2019ve encountered with the app\u2019s exposure logs, and to help improve the app experience. If you\u2019re comfortable, you can reach out to us at CDS-SNC@tbs-sct.gc.ca. Thanks, and hope to hear from you.",
-        "repliedAt": "2020-11-19 22:42:31"
+        "replyContent": "Thanks for the update, Leah. When working as intended, the app checks for exposures every day when it's connected to the Internet (from 1 to 6 times per day), so we suggest connecting to the Internet at least once a day. If you're still seeing gaps in exposure logs, please reach out to us at CDS-SNC@tbs-sct.gc.ca so we can look into this for you.",
+        "repliedAt": "2020-12-02 21:02:33"
     },
     {
         "reviewId": "gp:AOqpTOGmRHuTv0H5BlrTXBFqp7GHvYVqgsi_KmamW3odBZDc1z0NxSM7phPBRLgHzTv4OG5OEptOTLZ3yYMYzA",
@@ -164,8 +824,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2020-11-29 07:51:19",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Victoria. We are sorry that you are experiencing that with your battery. The battery life may be quite different between different models and operating systems. If you are experiencing issues with it, please turn off Bluetooth when you are home and don\u2019t need the app running. We hope this helps.",
+        "repliedAt": "2020-11-30 17:38:55"
     },
     {
         "reviewId": "gp:AOqpTOF5uCjVsXwnpQI1CCQZcdjEtjqC1nCiSwJ5NqUsMxosm0g5fRE6sL026Wvxb8ejI5WGJo3EPL4uYd3-Fg",
@@ -176,8 +836,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.1.2",
         "at": "2020-11-29 02:56:36",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Steve - We're working w/ each unique health care system to roll the app out across Canada (including BC) as quickly as possible. Even if reporting isn't available in your province yet, it is still helpful to download COVID Alert now so you'll be notified if you come in contact w/ an app user from a reporting province/territory.",
+        "repliedAt": "2020-12-02 21:07:24"
     },
     {
         "reviewId": "gp:AOqpTOFNc1kbnuCwmMh7Ka37-tOJb-NQtfBlLH2bCr5o3YhAnmSdoDeFvbC_FH6ilTWdBJrfIyp-Gd1HgVKxYw",
@@ -204,24 +864,12 @@
         "repliedAt": null
     },
     {
-        "reviewId": "gp:AOqpTOFGR5bxfsEqLgEOduz3twrBsrvmB67o7EtvQfQGOXa7lzaFuQQHXIb98pepooZumSkOouIRP1o7io1Iwg",
-        "userName": "Ivan Stephen",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjlH41WzY8WlA0muBF2k1YjliTvzR-1CkMix2-Y",
-        "content": "I had to fight to connect with real developers. No real tech support at that time. They seem to have broadened the phones it works on. But the underlying concept of privacy during a pandemic is completely misguided. Also - sick or worried people should NOT be expected to report positive results; only 5% remember to so. App also assumes that we all have data plans and Bluetooth always on. Almost a total failure especially with so many flouting rules.",
-        "score": 2,
-        "thumbsUpCount": 15,
-        "reviewCreatedVersion": "1.1.2",
-        "at": "2020-11-28 22:26:59",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
         "reviewId": "gp:AOqpTOE8VkhDP9gRJ12g1fhmWC07pH48-6y82Gd985KMixAV68ZuKZZt4P9-tmvf-ehAZ2fYg-70KoQU6EI4pA",
         "userName": "Matt H",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgTD4QyeiQcykYcU1Hs9EVh-73pcsiZCLDHSFsJCqY",
         "content": "Do your part, install the app. You don't even know it's there.",
         "score": 5,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "1.1.2",
         "at": "2020-11-28 22:19:05",
         "replyContent": null,
@@ -233,7 +881,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg8StIo7bpbGEjbwFcnR0e22boFPW9M7p3woEEa",
         "content": "Does what it says on the tin! Devs listened and fixed the problem thank you!",
         "score": 5,
-        "thumbsUpCount": 1,
+        "thumbsUpCount": 2,
         "reviewCreatedVersion": "1.1.2",
         "at": "2020-11-28 20:12:50",
         "replyContent": "Hi Kerry - Thanks again for sharing your feedback with us. We\u2019re hoping to get in touch with you to look into the issues you\u2019ve encountered with the app\u2019s exposure logs, and to help improve the app experience. If you\u2019re comfortable, you can reach out to us at CDS-SNC@tbs-sct.gc.ca. Thanks, and hope to hear from you.",
@@ -245,11 +893,11 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiaVurd9LQDYVOdmzAc90qbHEPR8xKmpn5wf1tJ",
         "content": "Edit: Yes, this is still a troublesome app. After updating, it performed 14 checks in the span of 1 minute. Nearly a week later, no additional checks have been performed. In my bubble, the app works fine on Apple phones, but useless for many of the Android users. Original review: Despite Bluetooth being on 24/7, the app can go more than a week between performed exposure checks. Worked very well before the last update, but hasn't done anything for me for almost 2 weeks now.",
         "score": 1,
-        "thumbsUpCount": 8,
+        "thumbsUpCount": 22,
         "reviewCreatedVersion": "1.1.2",
         "at": "2020-11-28 19:04:08",
-        "replyContent": "Thanks Alexander - We\u2019ve updated the app to fix this. To make sure your app is up to date, go to Google Play Store and search for COVID Alert. If it\u2019s not updated, you should see an option to Update. If the only option is to Open, that means it's up to date. If you\u2019re experiencing still this problem, please let us know at cds-snc@tbs-sct.gc.ca.",
-        "repliedAt": "2020-11-27 20:26:04"
+        "replyContent": "Hi Alexander - Thanks for sharing this update with us. We\u2019re hoping to get in touch with you to look into the issues you\u2019ve encountered with the app\u2019s exposure logs, and to help improve the app experience. If you\u2019re comfortable, you can reach out to us at CDS-SNC@tbs-sct.gc.ca. Thanks, and hope to hear from you.",
+        "repliedAt": "2020-12-03 20:31:32"
     },
     {
         "reviewId": "gp:AOqpTOFUrKfhVlFre9ZJHdiKdjEFZMjk658H7kcGjSWxVc7cEQjyCQWljKITPKiZeIN5M2Wzh9AkuUvJuRR4AQ",
@@ -257,21 +905,9 @@
         "userImage": "https://play-lh.googleusercontent.com/-1zLWuHyU8U4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmXF7x3V_5lnrHOrWxxhhlyvlEsVA/photo.jpg",
         "content": "Nice to have this kind of protective measure in hand to prevent ourselves from COVID 19 and similar cases. Thanks!",
         "score": 5,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "1.1.2",
         "at": "2020-11-28 15:08:49",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOHXYFxb3K7ACTWoNLVlX2_BfZA73e0irFrcaOjP1QUB8H46LNG4F2-95WvII3aHO60uRmZvLcgN7A5AdQ",
-        "userName": "Samantha Tully",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgKvtk1C4MquLmlzwheWu41V0DxBne_l1MEB7NlQg",
-        "content": "I live in a area where no one has vivid so I can't tell if this app works.",
-        "score": 3,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.1.2",
-        "at": "2020-11-28 12:34:31",
         "replyContent": null,
         "repliedAt": null
     },
@@ -284,8 +920,8 @@
         "thumbsUpCount": 1,
         "reviewCreatedVersion": "1.1.2",
         "at": "2020-11-28 02:11:36",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Jose, thank you for your feedback. By choosing to put privacy at the forefront of the app, we have chosen to not collect any private data from you such as location information. Because we don't collect this information we cannot provide you with a location estimate of where you got exposed. Please let us know if you have questions.",
+        "repliedAt": "2020-12-02 23:13:31"
     },
     {
         "reviewId": "gp:AOqpTOGIcrqlLH5lF-Z9hMIWVG4Joak3gAc-z5T-SK9fUeK4JiCt_Z4aV9rx1K_E2eYJeVITaqoT_67zdjgjCQ",
@@ -293,23 +929,11 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgEjidBer8orFzxIksp9mEHDh9V1pPHvrIngsY",
         "content": "Excellent... The more people that use it, the more accurate it becomes as a Covid-19 tracking tool!!!",
         "score": 5,
-        "thumbsUpCount": 1,
+        "thumbsUpCount": 3,
         "reviewCreatedVersion": "1.1.2",
         "at": "2020-11-27 22:44:30",
         "replyContent": null,
         "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOE7a0k9TjiBjx-bKyVHziLwS2zmL_TepwjstXz1Vkj2eEE1oOWOiNHBdldc4fi6ALu5nvXH_RXyi5PeRw",
-        "userName": "Blondie B",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhFwZg5cRHoMFJVoC70T2_G8_lk5oAVyKtzFBys",
-        "content": "After many months of covid alert being greyed out I finally figured it out. I had several google accounts on my phone for gaming apps. I had to remove all of the other gmail accounts in settings/accounts and backup/accounts then restart my phone, reinstall the app, and it finally prompted me to enable covid alert. Hopefully you can spread the word so others experiencing this problem can get the app to work. I will leave my review at 1 star for a little so maybe people having trouble might see it",
-        "score": 1,
-        "thumbsUpCount": 27,
-        "reviewCreatedVersion": "1.1.2",
-        "at": "2020-11-27 18:32:52",
-        "replyContent": "We apologize for the delayed response, and for the issues you encountered. The app has been rolled out to Quebec. Some Android users have told us when they try to enable the app, nothing happens - we've passed this on to the app team who are looking into this problem. If you have questions, please reach out at CDS-SNC@tbs-sct.gc.ca.",
-        "repliedAt": "2020-10-23 20:29:26"
     },
     {
         "reviewId": "gp:AOqpTOH5qTtCebpclfYEvFlZY9qq9EWMBFlrGjoX3U1r9RBCKE5hcvmfMBjzfjKTE_eU9_PloiU651683IC84g",
@@ -317,11 +941,11 @@
         "userImage": "https://play-lh.googleusercontent.com/-eWxyDU3gudw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck5Dr7DvIYxF8Hz2A-EtmDMSQ_hGA/photo.jpg",
         "content": "As with other users, this has stopped doing exposure checks since early November. I'm in touch with support but not getting anywhere quickly. Also just checked with other members of my household and all have stopped working, all on Android. Looks to be working after Nov 20 update.",
         "score": 4,
-        "thumbsUpCount": 8,
+        "thumbsUpCount": 10,
         "reviewCreatedVersion": "1.1.2",
         "at": "2020-11-27 17:28:17",
-        "replyContent": "Hi Gernot - We\u2019ve updated the app to fix this. To make sure the app is up to date, go to Google Play Store and search for COVID Alert. If it\u2019s not updated, you should see an option to Update. If the only option is to Open, that means the app is up to date. If you\u2019re still experiencing this problem, let us know at cds-snc@tbs-sct.gc.ca.",
-        "repliedAt": "2020-11-25 21:42:58"
+        "replyContent": "Hi Gernot - Thanks for the update. Please let us know if you encounter this issue (or others) again.",
+        "repliedAt": "2020-12-01 20:43:26"
     },
     {
         "reviewId": "gp:AOqpTOHUp3AM1p70xkhoWisNdn6HhqRIpxdqfYhA1p94vIBVp_KmGl_vsl-uPoT31cANHVaL2KipCGNFQ7_yEg",
@@ -332,8 +956,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.1.2",
         "at": "2020-11-27 16:45:24",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Shirley, COVID Alert is only available on Android phones that have been released within the past 5 years. These phone requirements are set by Google. Android phones must be running Android version 6 or later, with Google Play services up to date. If this is not your case email us at cds-snc@tbs-sct.gc.ca and we can look more into it.",
+        "repliedAt": "2020-12-02 23:09:39"
     },
     {
         "reviewId": "gp:AOqpTOEWmCdK8_Wup4f8ReEKtbY_f1DF0iepa14X5E5p7v4m9YG3fEfC8EB_ot3qXtZIsTbb2kvNhcag9Ugg2w",
@@ -344,8 +968,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.1.2",
         "at": "2020-11-27 16:03:22",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Steve, the exposure notification clears up on its own after 14 days. If your exposure notification stays on for longer than 14 days reach out to us at cds-snc@tbs-sct.gc.ca and we can look further into this for you.",
+        "repliedAt": "2020-12-02 23:10:26"
     },
     {
         "reviewId": "gp:AOqpTOFSvoVkuJjFc-ZWIsVy0F6fEs1NamtZ1yLEncSl6lZu6tVpQDjP8dyeVhpVwAXI8jnBwTjkPSX4XFACZA",
@@ -356,8 +980,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.1.2",
         "at": "2020-11-27 14:36:25",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Carole - Thank you for taking the time to share this feedback with our team. If you're still experiencing issues w/ your app's exposure log, please don't hesitate to reach out to us. We suggest keeping your operating system and your COVID Alert app up to date as we're continuously improving the app.",
+        "repliedAt": "2020-12-02 23:08:03"
     },
     {
         "reviewId": "gp:AOqpTOHplolhrGExA057RLkc7R1FfWE_WivZbVbSIhUWEH86z2eS3JWbL30Yr8H2cYQMX2hHllB0lP5m_neiNA",
@@ -368,8 +992,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.1.2",
         "at": "2020-11-27 10:05:17",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Christine, you may not receive a notification up to 24 hours after an app user reports a positive diagnosis through COVID Alert, this changes depending on your phone. If after 24 hours and after opening the app you do not receive an exposure notification, shoot us an email to cds-snc@tbs-sct.gc.ca and our team can look into this for you.",
+        "repliedAt": "2020-12-02 23:04:36"
     },
     {
         "reviewId": "gp:AOqpTOGtWpItN7R_SOVw-xrXiiVlZSUmhUfC6xg6KRUSwJsXyYxx59HZSna4VmmKH-rzSS66d9QX-vIOGM9ABw",
@@ -380,8 +1004,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.1.2",
         "at": "2020-11-27 03:23:37",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "If you're wondering if the app is working correctly, you can look for the exposure logs in your phone's settings. The app checks for exposures every day when it's connected to the Internet. Go to Settings, then choose Google, then COVID-19 Exposure Notifications. There you'll see the last time the app checked for exposures.",
+        "repliedAt": "2020-12-02 23:03:32"
     },
     {
         "reviewId": "gp:AOqpTOFvvKRXdm_1ts8hovSqiutkcsmJQaYxTHlwOV2fSsTr0q8lCYfuaWkIPZCXsAYASQPJ4EODsQydjPDI3w",
@@ -392,8 +1016,8 @@
         "thumbsUpCount": 3,
         "reviewCreatedVersion": "1.1.2",
         "at": "2020-11-27 01:45:27",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "We are continuously working with our partners in the Alberta Government to ensure everyone has access to the app. In the meantime, It's still helpful to download COVID Alert even if you can't use it to report a diagnosis. That way, you'll be notified if you come into contact with someone from a reporting province or territory.",
+        "repliedAt": "2020-12-02 23:02:48"
     },
     {
         "reviewId": "gp:AOqpTOEFtcd8DQuOrnU53UcL3-fPHOfaTzlKfCmkr56PmbrwHplz9LRF7p0aLYf-IuuxteetsX-qY5Md3I1PFQ",
@@ -404,8 +1028,8 @@
         "thumbsUpCount": 1,
         "reviewCreatedVersion": "1.1.2",
         "at": "2020-11-27 00:24:02",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi there - Thank you for taking the time to reach out to us. We received your email and will get in touch with you as soon as possible. Thank you for your patience.",
+        "repliedAt": "2020-12-02 23:01:17"
     },
     {
         "reviewId": "gp:AOqpTOH3EC3dmT7g959onMxy7jjmYuW1YxxNwU3hMzVm6YrL9CV_3ePPm-BSiRrfhQALt1nkfV5UWP5ErbV1Ng",
@@ -413,11 +1037,11 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgyrBADga_e6TKvSpJVcbl9d4EdYlocshBO0APk3g",
         "content": "Useless app, after one has tested positive you will be asked to self isolate at which point they won't even give you a second test anymore to prove that you're not but will just be considered cured after that time. What's the point of putting in a code saying you've had it if within two weeks you are considered cured? There is so much nonsense to this process that it makes you wonder why Justin Trudeau was ever put in charge, he's a failure to the population and just as useless as this app.",
         "score": 1,
-        "thumbsUpCount": 19,
+        "thumbsUpCount": 20,
         "reviewCreatedVersion": "1.1.2",
         "at": "2020-11-26 21:39:57",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thanks for your feedback. If an app user w/ COVID-19 chooses to notify others through the app, then those who came in contact with them within the past 14 days of reporting their diagnosis through the app will get alerts. We recognize the app is one of many tools we have to combat COVID-19, and at all levels of uptake, can help reduce transmission.",
+        "repliedAt": "2020-12-01 21:59:08"
     },
     {
         "reviewId": "gp:AOqpTOECXvKekjMM-g7Rvyi8QzBBC73RfelAapFI2HR28Ehs8PwMacEqx9kG1rpOqILqYa4CYXH5TOBP0Qwc7g",
@@ -428,8 +1052,8 @@
         "thumbsUpCount": 1,
         "reviewCreatedVersion": null,
         "at": "2020-11-26 21:05:27",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hello, while those in Alberta currently can't report a diagnosis through the app, it's still helpful to download the app now, no matter where you are in Canada as you'll be notified if you come into contact with someone from a reporting province/territory. We're working w/ each jurisdiction to roll the app out across Canada as quickly as possible.",
+        "repliedAt": "2020-12-01 16:41:21"
     },
     {
         "reviewId": "gp:AOqpTOH6Y-CTGtuUA3gCcTkdvP_e6njrSQG01JHPkXCd0eR3HsRKMuCxa4jAEM-JpX0x2foyfZmEhVOzl_G7VQ",
@@ -440,20 +1064,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.1.2",
         "at": "2020-11-26 21:01:16",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOHvZyTeFcwXL1TOaEabLRdin17wBFjNSp5tCEBUHqPv2wzoI1dpjgoEgl4khhdCnnqL17c_J-N6vAaNnA",
-        "userName": "Geoff H",
-        "userImage": "https://play-lh.googleusercontent.com/-8FydlDJPrJY/AAAAAAAAAAI/AAAAAAAAADY/AMZuuckx2aD6zEguU3hujQEsgRMvzpiWgA/photo.jpg",
-        "content": "EDIT: The problem I described below appears to have been fixed. I now see multiple checks per day, even without opening the app. I'm not convinced the app is checking for exposure and/or running in the background. The exposure log (settings->google->covid19->exposure checks) only shows checks after the app is opened. If I don't open the app for days or weeks and check the logs again, the most recent check lines up exactly with the last time the app was opened. I tried uninstalling-reinstalling and saw no change in behaviour. I've read that the app constantly checks for exposure as long as there is internet access but that doesn't seem to be happening on my device.",
-        "score": 5,
-        "thumbsUpCount": 25,
-        "reviewCreatedVersion": "1.1.2",
-        "at": "2020-11-26 03:48:52",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Jody - We're working w/ each jurisdiction to roll the app out across Canada as quickly as possible. It's still helpful to download the app now no matter where you are in Canada,. Even if you can't use it to report a diagnosis yet in your province, you'll be notified if you come into contact with someone from a reporting province or territory.",
+        "repliedAt": "2020-12-01 21:48:35"
     },
     {
         "reviewId": "gp:AOqpTOGu-53wQODnL8NqXjTmRDWUELzFzkKpgTMxDG-rPcJycfPmS4eUW46nQ5puxHA7FNTcZQvPwCt23aCqoQ",
@@ -461,7 +1073,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgFR0HR32bl7fi9RkFLapIH6bhMYBy7fXSaEJAcEg",
         "content": "I don't feel safe knowing I have to be in bluetooth distance to be notified. I'd rather an app that tells me how many people in my community are exposed. Such as an employee at a store, or school, ect, Self isolating,",
         "score": 1,
-        "thumbsUpCount": 5,
+        "thumbsUpCount": 7,
         "reviewCreatedVersion": "1.1.2",
         "at": "2020-11-26 00:59:53",
         "replyContent": null,
@@ -488,8 +1100,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.1.2",
         "at": "2020-11-25 22:50:12",
-        "replyContent": "Thanks for your feedback - We're actively looking into this. Some notifications are sent from your phone\u2019s operating system and not from COVID Alert itself. We recommend opening the COVID Alert app to see whether you have been exposed according to the app\u2019s specific settings as the notifications from the app follow public health guidance.",
-        "repliedAt": "2020-10-13 21:55:11"
+        "replyContent": "Those in Manitoba (along w/ Ontario, Newfoundland + Labrador, New Brunswick, Saskatchewan, Quebec, PEI, Nova Scotia+ NWT) who test positive for COVID-19 can get a one-time key to share their diagnosis through the app. You can download and use the app now anywhere in Canada as it is also exchanging random codes w/ phones across the country.",
+        "repliedAt": "2020-11-30 22:48:30"
     },
     {
         "reviewId": "gp:AOqpTOGUNg_Rei4WZQT5lKI33Hq7g7jwMqagZuuuDLWdgFK47UrrAovWlW_TmDMDUZizffFUvjuFdFJJrW85fw",
@@ -509,11 +1121,11 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi9wMPn_tkpQtY-QjuRAdJbpoOCg2L76XKGHSxcIq4",
         "content": "Blue Tooth keeps getting turned off. I have to turn back on. Since rebooting the phone several days ago Bluetooth and COVID Alert working reliable.",
         "score": 5,
-        "thumbsUpCount": 1,
+        "thumbsUpCount": 2,
         "reviewCreatedVersion": "1.1.1",
         "at": "2020-11-25 21:38:07",
-        "replyContent": "Thanks for your feedback, Jim. The app does not directly control the Bluetooth functionality, and all you need is to keep your Bluetooth on whenever you leave your house (to allow the app to exchange random codes w/ other devices). Let us know if you have questions.",
-        "repliedAt": "2020-11-25 21:33:03"
+        "replyContent": "Thanks for the update, Jim, and we're glad the app is working for you. Please let us know if you encounter any issues.",
+        "repliedAt": "2020-12-01 20:39:36"
     },
     {
         "reviewId": "gp:AOqpTOHKdSKC6VnnB1WLMQZNIk0SrIMOePgk-8TExpxgiUEQY70WpATLmp44oVhJql3MgFC2w9eVCeGPTaFWDQ",
@@ -521,7 +1133,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-aiQSjaldzzo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnI-tqptU_t8ezFo7CljoF-RSpCDQ/photo.jpg",
         "content": "My partner was diagnosed 5 days ago and input his result into the app at that time, and we live together unable to socially distance properly. The app took 5 full days to notify me that I have been exposed. Feels completely unreliable and useless.",
         "score": 1,
-        "thumbsUpCount": 5,
+        "thumbsUpCount": 7,
         "reviewCreatedVersion": "1.1.2",
         "at": "2020-11-25 20:23:07",
         "replyContent": "Thanks for letting us know. We\u2019ve updated the app to fix this issue. To make sure your app is up to date, go to the Google Play Store and search for COVID Alert. If it\u2019s not updated, you should see an option to Update. If the only option is to Open, that means your app is up to date.",
@@ -533,11 +1145,11 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjNBw6qolkWD-mYyh3o9kz-S-kukdVhyB1LfggDYg",
         "content": "Very basic and slow to start-up or respond to key strokes! It tracks all the times I have reported but have never been told of anyone infected near-by. I guess that's a good thing. Trying to be responsible!",
         "score": 3,
-        "thumbsUpCount": 1,
+        "thumbsUpCount": 3,
         "reviewCreatedVersion": "1.1.2",
         "at": "2020-11-25 16:57:49",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thanks for your feedback, Andy. The app never shares info about location, time or date of any interactions with other devices. The app only tells you that you may have been exposed to COVID-19 (through close contact) at some point in the past 14 days. Let us know if you have questions.",
+        "repliedAt": "2020-11-30 22:42:09"
     },
     {
         "reviewId": "gp:AOqpTOGOMPbWO91j06HfEQqF8JVhKyFbmlR5gjtUwD-Z5zuFMdmOdBoJlVSg52kwS7x6NH1WUYi-PBLsyVY_kA",
@@ -572,8 +1184,8 @@
         "thumbsUpCount": 1,
         "reviewCreatedVersion": "1.0.3",
         "at": "2020-11-25 12:40:51",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Roberto - If an app user is in contact with another app user who tested positive for COVID-19 and chose to notify others, COVID Alert will let them know they may have been exposed to COVID-19 in the past 14 days, based on the random codes exchanged by both phones. Hope this is helpful and please let us know if you have questions about the app.",
+        "repliedAt": "2020-11-30 22:33:00"
     },
     {
         "reviewId": "gp:AOqpTOF-vZ71g4cOp-ywBixhcUluKRHsh05yMuCQqvI1CC1aRXEKHzQGN02-EEnLdPhVfFsqw28VZDF4YbU2CA",
@@ -584,8 +1196,8 @@
         "thumbsUpCount": 1,
         "reviewCreatedVersion": "1.1.1",
         "at": "2020-11-25 09:41:42",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hello - If an app user is in contact with another app user who tested positive for COVID-19 and chose to notify others, COVID Alert will let them know they may have been exposed to COVID-19 in the past 14 days, based on the random codes exchanged by both phones. Hope this is helpful and please let us know if you have questions about the app.",
+        "repliedAt": "2020-11-30 22:31:05"
     },
     {
         "reviewId": "gp:AOqpTOHxB53yxqImFVh-dmVFf_qnm0AVojjLID5H642o-t4ZeY4Fsyu5P3uDr03-VrW8fIxwkP808XpBCbArzg",
@@ -593,7 +1205,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgnvZ4oiBHpok5ate8ckkUi7KBdyt14kkyMn1liqA",
         "content": "Its a great app as long as majority of the population use it! I wish there were more advertisements about it on the news or through universities to encourage people to download and use it. We always say we are in this together but we should show it in our actions.",
         "score": 5,
-        "thumbsUpCount": 2,
+        "thumbsUpCount": 3,
         "reviewCreatedVersion": "1.1.2",
         "at": "2020-11-25 04:57:51",
         "replyContent": null,
@@ -608,8 +1220,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.1.2",
         "at": "2020-11-25 04:05:26",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thank you. Let us know if you have any questions. From the COVID Alert team.",
+        "repliedAt": "2020-12-01 19:31:02"
     },
     {
         "reviewId": "gp:AOqpTOFWe84Ng6ub81mLI4Hb5fPDs-OvVEoqdvMM-oAn_s6K3DTX3seHPKGYf1KXkVgogdifebv0yNvCtk9SEg",
@@ -632,8 +1244,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.1.1",
         "at": "2020-11-24 22:27:40",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi! - It's still helpful to download COVID Alert even if you can't use it to report a diagnosis in your province at this time. That way, you'll be notified if you come into contact with someone from a reporting province or territory, or when people in your area are able to report a diagnosis in the future.",
+        "repliedAt": "2020-12-04 20:50:22"
     },
     {
         "reviewId": "gp:AOqpTOFV4pgcZitEXMYEhqJ4yCkwUHBRMjUTPiMN7EhPUFCk164rn5XwjqRgmSuFO_wVcpDEnl02TZD52XJHWQ",
@@ -641,11 +1253,11 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiDyfUiUF6e6NLUxYeGeEcjJsXYPAeUc9mjSstZ4Q",
         "content": "The app hasn't worked for Android in two weeks. No exposure checks at all. I forced the app to stop and restart and got three checks all at once and then none since then. Uninstalling and reinstalling also doesn't work. My phone is new and all up to date - no reason for exposure checks to not be happening. Nov 24: I installed the newest update last night and it is still not working. It is not checking for exposures. That's the purpose of the app isn't it????",
         "score": 1,
-        "thumbsUpCount": 37,
+        "thumbsUpCount": 40,
         "reviewCreatedVersion": "1.1.2",
         "at": "2020-11-24 22:21:39",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "We\u2019ve updated the app to fix this issue. To make sure your app is up to date, go to Google Play Store and search for COVID Alert. If it\u2019s not updated, you should see an option to Update. If the only option is to Open, that means your app is up to date. If you\u2019re experiencing still this problem, please let us know at cds-snc@tbs-sct.gc.ca.",
+        "repliedAt": "2020-11-30 21:56:25"
     },
     {
         "reviewId": "gp:AOqpTOF5tACmb7biakoHfU2bnEiG-ar6-3F0Co69gMPduvoZu28TjqcDI1p59w2EDgbSD78e1d4tMMgMioUzeg",
@@ -656,8 +1268,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.1.1",
         "at": "2020-11-24 21:51:12",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "We updated the app to fix this. To ensure your app is up to date, go to the Google Play Store and search for COVID Alert. If it\u2019s not updated, you'll see an option to Update. If the only option is to Open, then your app is up to date. If your app is up to date and you\u2019re experiencing this problem, please tell us at cds-snc@tbs-sct.gc.ca Thank you!",
+        "repliedAt": "2020-12-03 15:58:28"
     },
     {
         "reviewId": "gp:AOqpTOFWsn1Dl1s6yduFHgmvAUjTl_mmysz8GfpMi1nwJqJABi9dKrzVVM2rAiojy_9btYF_UAIA5A5Gn3vb2w",
@@ -668,20 +1280,8 @@
         "thumbsUpCount": 1,
         "reviewCreatedVersion": "1.1.2",
         "at": "2020-11-24 21:12:33",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOFF_RVnped-UeZmFp5-xRlKUIAhHRQGc7Uyz7eQCLfMy3Z-8iOkIMZZcpR7t2BQlhcVJHyan6mjGGO5bg",
-        "userName": "TrialMacameau",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh5KZHwg61quoAMq5fgJWpXSLIv3EMklqlVJRNM",
-        "content": "NOP ! I don't want them to spy my things and get information from unknown people so get that app away from my phone",
-        "score": 1,
-        "thumbsUpCount": 1,
-        "reviewCreatedVersion": null,
-        "at": "2020-11-24 20:56:16",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hello - The protection of Canadians\u2019 privacy is a priority for the Government of Canada. The exposure notification approach used is designed to work without storing or using any personally identifying information. The app works by sharing randomly-generated codes between devices. These codes can't be traced back to individual people or phones.",
+        "repliedAt": "2020-12-04 20:29:22"
     },
     {
         "reviewId": "gp:AOqpTOHux1USlCPZNVQEqDGucoThcwGhykG_N4Mp-nm6rQ5sl8FHkbSx4xP38g7BliOaHgiBvXJV9UUH8HhFcQ",
@@ -701,11 +1301,11 @@
         "userImage": "https://play-lh.googleusercontent.com/-VTtopAje_M8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm38kfzre7BuO-yl_CaKjA9GlV4NA/photo.jpg",
         "content": "It seems to have stopped checking nearby phones entirely. Reinstalling did nothing. I've gone from getting hundreds of exposure checks over two weeks to literally zero.",
         "score": 1,
-        "thumbsUpCount": 2,
+        "thumbsUpCount": 3,
         "reviewCreatedVersion": "1.1.1",
         "at": "2020-11-24 19:36:39",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Kevin - We\u2019ve updated the app to fix this issue. To make sure your app is up to date, go to Google Play Store and search for COVID Alert. If it\u2019s not updated, you should see an option to Update. If the only option is to Open, that means your app is up to date. If you\u2019re experiencing still this problem, let us know at cds-snc@tbs-sct.gc.ca.",
+        "repliedAt": "2020-12-02 22:54:14"
     },
     {
         "reviewId": "gp:AOqpTOGkoOnnrLeBT9zl279XSSLYILZqoHvkIGR3b2W-7JjorNfr9C55Gv6EhRcba9YNU-rRxSAIsMjMonv_Iw",
@@ -716,8 +1316,8 @@
         "thumbsUpCount": 3,
         "reviewCreatedVersion": "1.1.2",
         "at": "2020-11-24 18:39:04",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Andrew - Thank you for taking the time to reach out to us. Our team is looking further into this issue for you, we will get in touch with you once we have more information. Thank you for your patience, we want to make sure we get this working for you.",
+        "repliedAt": "2020-12-02 22:52:50"
     },
     {
         "reviewId": "gp:AOqpTOGwB2N8idqYJb7inhBNAIsT-kALXG9AtFukSMCwvwG_qvRd3lKoOx6zo_w7uGX9t7iAr9NzQU4DFcTjnA",
@@ -728,8 +1328,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2020-11-24 17:24:27",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "COVID Alert is one part of our nation\u2019s public health effort to limit the spread of COVID-19. The app does not replace manual contact tracing by local public health authorities or other important strategies such as wearing a mask and physical distancing.",
+        "repliedAt": "2020-12-02 22:48:48"
     },
     {
         "reviewId": "gp:AOqpTOHe-dx1Sre8zRz1YpJPM8VcUwS3-iweDzOC-eEfrfG0RayXPKi-Y7Tloxd03CvfEMHLB6wxmko-DWkqmw",
@@ -740,8 +1340,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2020-11-24 16:15:08",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Pierre-Luc. We are sorry to hear that. If you are experiencing issues with your battery, please turn off Bluetooth when you are home and don\u2019t need the app running. However, battery life may be quite different between various models and operating systems.",
+        "repliedAt": "2020-12-01 19:20:20"
     },
     {
         "reviewId": "gp:AOqpTOGgWgd8S_sIXosFtD0_rTgDGT8wmjd4_FeNNjS2nV_ekMFQWYYUf2XyMV2WVkaTmPUGQ-YYB3Bzm3Hw4w",
@@ -752,8 +1352,8 @@
         "thumbsUpCount": 2,
         "reviewCreatedVersion": "1.1.2",
         "at": "2020-11-24 13:46:46",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Melissa - If an app user is in contact with another app user who tested positive for COVID-19 and chose to notify others, COVID Alert will let them know they may have been exposed to COVID-19 in the past 14 days, based on the random codes exchanged by both phones. Hope this is helpful and please let us know if you have questions about the app.",
+        "repliedAt": "2020-11-30 22:29:45"
     },
     {
         "reviewId": "gp:AOqpTOHSzqedvVjnc1k7GpfOMZSvJ2vkX6sYdVExh4HunqYFuUJMo52GfgTR4HQmZ9fEn4AJDTDkIIf-LVAU3g",
@@ -764,8 +1364,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.1.1",
         "at": "2020-11-24 13:33:01",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "We\u2019ve updated the app to fix this issue. To make sure your app is up to date, go to Google Play Store and search for COVID Alert. If it\u2019s not updated, you should see an option to Update. If the only option is to Open, that means your app is up to date. If you\u2019re experiencing still this problem, please let us know at cds-snc@tbs-sct.gc.ca.",
+        "repliedAt": "2020-12-02 22:47:25"
     },
     {
         "reviewId": "gp:AOqpTOEp2TUqWgrXemyVTMVkp4mxrSOOGv3eeCcN59OYH8xutyxQldP7o5d-Dx9j9_MC3OFYfg26rPxvaau6iA",
@@ -773,11 +1373,11 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhgupqgLCRACurIWTMsNU-ii3U4ctutqiB6Ew5Z",
         "content": "A useless application. Does not indicate what, where, who, date or anything of value. Needs a complete rewrite including telling the so called privacy commissioners to butt out! Useless application....",
         "score": 1,
-        "thumbsUpCount": 4,
+        "thumbsUpCount": 5,
         "reviewCreatedVersion": "1.1.2",
         "at": "2020-11-24 08:51:16",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thanks for your feedback, Stephen. The app does not collect or share personally identifiable info and protects users' privacy, and it will let you know if have been exposed to COVID-19 (through close contact) at some point in the past 14 days.",
+        "repliedAt": "2020-11-30 22:26:36"
     },
     {
         "reviewId": "gp:AOqpTOHIKJBeT2aZPthvoHQDJXb-9abm5o5GyOZj2QAJoShzgi91YGKIuw6iJmEC3wbfxbfHZgEPSWDQdrdZLQ",
@@ -785,7 +1385,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj7wYAK7JixbHy6b-YM81BzeXj1BM-kYA5-4kjHvAk",
         "content": "Thank you for this. Very secure, open source, multiple security experts agree this is the best way to do pandemic tracking. Battery runs fine, and transparency is huge in the app. Thank you federal workers! You're keeping us healthy, and hopefully will help come winter.",
         "score": 5,
-        "thumbsUpCount": 23,
+        "thumbsUpCount": 25,
         "reviewCreatedVersion": "1.1.2",
         "at": "2020-11-24 06:41:50",
         "replyContent": "Thank you for sharing your feedback with us! We really appreciate it. Please let us know if you encounter any issues of the app or have any questions.",
@@ -830,26 +1430,14 @@
     {
         "reviewId": "gp:AOqpTOEU64Bs0ZUu45mLiVpp07kfK3n-afe5scSzF3cPF2fbq92v4so2Qtuz1xZHXChnDDEE98x4nQDSCDC1YA",
         "userName": "Adrian Easton",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgCqJWTRZ_Ym4u8SQddGMri1Sy6xC_1Zhl8hH8M-A",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiP4ExRB1dvNzgggjS-TyEdsmEyyBNCQvNiEX7EQw",
         "content": "The app is NOT automatically checking for exposure on some Android devices and as such it may not warn you. You should still install it, but the developers need to fix this issue...",
         "score": 2,
         "thumbsUpCount": 2,
         "reviewCreatedVersion": "1.1.1",
         "at": "2020-11-23 22:43:51",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOGx3IRa5Y6jH8Vy7fey-vg24q7NpTyjN8y8vW7l2av9mISMDfhqIt--TsT0Rr5bGsh0d7-XHcT276a9Sw",
-        "userName": "Michael Hall",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GieSbuqDGU2kJc7iZfhyGInWpBwmDzYCo6ic7_WXw",
-        "content": "Covid alert team: your app is not checking for exposures until it is force closed and restarted. Even reboots do not seem to force checks. I had no checks since Nov 6, and force closing it and restarting the app caused 14 checks to happen all at once. Users currently have to do this force stop manually to get exposure checks through. Please, something broke with the last update. This is coming from a computer scientist and software QA specialist. This is a showstopper and must be fixed now.",
-        "score": 1,
-        "thumbsUpCount": 36,
-        "reviewCreatedVersion": "1.1.1",
-        "at": "2020-11-23 21:57:11",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Adrian - We\u2019ve updated the app to fix this issue. To make sure your app is up to date, go to Google Play Store and search for COVID Alert. If it\u2019s not updated, you should see an option to Update. If the only option is to Open, that means your app is up to date. If you\u2019re experiencing still this problem, pls let us know at cds-snc@tbs-sct.gc.ca.",
+        "repliedAt": "2020-11-30 21:55:01"
     },
     {
         "reviewId": "gp:AOqpTOHnsr1vXLWXupDc4Dualvdbrl6I4-TYj3H23spMMX4VvJBou4sWL9EiYhEYRpzWFh6nMfWreIOWau_Efg",
@@ -869,23 +1457,11 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjGh3BoTXIAk0FMfDLprO7hfx02rDvB1xlqz8_BSw",
         "content": "Downloaded despite battery drain as it's the responsible thing to do, come to find out the app hasn't even made a check in 14 days. Useless.",
         "score": 1,
-        "thumbsUpCount": 3,
+        "thumbsUpCount": 4,
         "reviewCreatedVersion": "1.1.1",
         "at": "2020-11-23 20:57:53",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOFsIGuJKDk9D5zUlmZtAEoywp0Pp0EXDsZvYBZc_iMed8pbTqy9VT4p1XTaVLDMfvDKVHBgJtKOcy6kbw",
-        "userName": "Kelly Clelland",
-        "userImage": "https://play-lh.googleusercontent.com/--o7Sb2-VCUU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmjXg0YBXMv6CsZcH59wgqktY79Ug/photo.jpg",
-        "content": "It has been 16 days since my app shows an exposure check. I always keep my phone with me and my bluetooth enabled precisely so I can be notified and yet it does not appear to be doing what it's supposed to.",
-        "score": 1,
-        "thumbsUpCount": 2,
-        "reviewCreatedVersion": "1.1.1",
-        "at": "2020-11-23 20:57:49",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi - We\u2019ve updated the app to fix this issue. To make sure your app is up to date, go to Google Play Store and search for COVID Alert. If it\u2019s not updated, you should see an option to Update. If the only option is to Open, that means your app is up to date. If you\u2019re experiencing still this problem, please let us know at cds-snc@tbs-sct.gc.ca.",
+        "repliedAt": "2020-11-30 21:47:59"
     },
     {
         "reviewId": "gp:AOqpTOGSJJZQGjr_g6kkJTNadnubmrDgojOIGa-bevNUqOebPwaqm-bMFFuYuD2XldgAOQzKH0E5fErQ4fu5vw",
@@ -893,11 +1469,11 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjTHzUhSU2NrJwhIfqkn_BvHu_4i7_z7CMl82Ur",
         "content": "FYI it may not be checking for exposures at all. Go to Settings/Google /covid exposure app to see the number of checks. Click on that and it tells you the date of last checks. Turns out the last check was when I Installed the app and none since. I have periodically force close the app through app management in order to force it to check for exposures daily. This needs to be fixed. This is the one, critical feature and it doesn't work without technical knowledge.",
         "score": 1,
-        "thumbsUpCount": 48,
+        "thumbsUpCount": 95,
         "reviewCreatedVersion": "1.1.1",
         "at": "2020-11-23 20:39:57",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi - We\u2019ve updated the app to fix this issue. To make sure your app is up to date, go to Google Play Store and search for COVID Alert. If it\u2019s not updated, you should see an option to Update. If the only option is to Open, that means your app is up to date. If you\u2019re experiencing still this problem, please let us know at cds-snc@tbs-sct.gc.ca.",
+        "repliedAt": "2020-11-30 21:49:55"
     },
     {
         "reviewId": "gp:AOqpTOFFT_afjESK6RiMv117wwmeZDlNBnGQwhxr4z8W1Ly5OV0e3KZEMVp2f_cPKcj9P-0RBvOENCHC82SZsQ",
@@ -908,8 +1484,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.1.1",
         "at": "2020-11-23 19:18:16",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi - We\u2019ve updated the app to fix this issue. To make sure your app is up to date, go to Google Play Store and search for COVID Alert. If it\u2019s not updated, you should see an option to Update. If the only option is to Open, that means your app is up to date. If you\u2019re experiencing still this problem, please let us know at cds-snc@tbs-sct.gc.ca.",
+        "repliedAt": "2020-11-30 21:51:17"
     },
     {
         "reviewId": "gp:AOqpTOGL1ZkuVYzWuE8w0BHq_3hFaItljuhse2_KRohzRAFnKxshUoLUphZ7JvaiFWY_Mtp4lvIudBfdp6o5HA",
@@ -932,8 +1508,8 @@
         "thumbsUpCount": 1,
         "reviewCreatedVersion": "1.1.1",
         "at": "2020-11-23 18:19:02",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Jeff - We\u2019ve updated the app to fix this. To make sure your app is up to date, go to Google Play Store and search for COVID Alert. If it\u2019s not updated, you should see an option to Update. If the only option is to Open, that means your app is up to date. If you\u2019re experiencing still this problem, please let us know at cds-snc@tbs-sct.gc.ca.",
+        "repliedAt": "2020-11-30 21:37:53"
     },
     {
         "reviewId": "gp:AOqpTOGE7KWJhKgChsP4ZxIWjrPbbUtTinG0aNLs5PWVIOSnKPsCuh-_n0twqHQejaV4xdFqOfIIfG9VsfNo3g",
@@ -941,7 +1517,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiLk1ANTfBAw5RDhA4Jrnv5MHkbkBF15hayd-zDfQ",
         "content": "My app says it hasnt made any checks in over a month, I see no way that I can adjust settings to fix this issue? I am unfortunately an \"essential service\" (a popular coffee shop \ud83d\ude44) and interact with the public daily. Would love to know why the app is not functioning.",
         "score": 1,
-        "thumbsUpCount": 5,
+        "thumbsUpCount": 6,
         "reviewCreatedVersion": "1.1.1",
         "at": "2020-11-23 18:12:28",
         "replyContent": "Hi \u00c9ilish - We\u2019ve updated the app to fix this issue. To make sure your app is up to date, go to Google Play and search for COVID Alert. If it\u2019s not updated, you should see an option to Update. If the only option is to Open, that means your app is up to date. If you\u2019re experiencing still this problem, please let us know at cds-snc@tbs-sct.gc.ca.",
@@ -953,7 +1529,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gib1PkNNgMBivPKGhRfvn8vzwBEmZjzVtmB86DN",
         "content": "First off I think this app is a great idea. However I think more work needs to be put into it. Trying to get answers about it and when calling the people on other end can provide no answers. I got an exposure warning(no notification) saw with app. I went got tested. I checked my \"exposure notifications\" under settings and I see a match of 1 on 2 separate occasions. No one can tell me what that means. Did I get exposed twice on two different occasions?",
         "score": 1,
-        "thumbsUpCount": 34,
+        "thumbsUpCount": 37,
         "reviewCreatedVersion": "1.1.1",
         "at": "2020-11-23 17:15:56",
         "replyContent": null,
@@ -1025,7 +1601,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-qi99uXhJ6Ts/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclJF4rU0Uk0gJ_EAOaboBad4LLzMQ/photo.jpg",
         "content": "Display of this app should be your pass to enter any and all facilitis and not limited to hospitals, doctors offices, stores, theaters etc. No more need for lock downs.\ud83d\ude01",
         "score": 5,
-        "thumbsUpCount": 1,
+        "thumbsUpCount": 2,
         "reviewCreatedVersion": "1.1.1",
         "at": "2020-11-23 03:58:52",
         "replyContent": null,
@@ -1037,7 +1613,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-xtjrk_n_gz4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmd3u09J289zpeHz90N23h7_8-XkQ/photo.jpg",
         "content": "Husband tested positive, we're both quarantining in the same household. It's been over 24 hours since he entered his code into the app. I still haven't been notified of exposure and we're living in the same household. My Bluetooth is on and everything is working. Seems like something is broken. 48 hrs later, I'm tried entering my key and I got an error code and couldn't continue.",
         "score": 1,
-        "thumbsUpCount": 39,
+        "thumbsUpCount": 44,
         "reviewCreatedVersion": "1.1.1",
         "at": "2020-11-23 02:16:06",
         "replyContent": "Hi Andrea - We\u2019ve updated the app to fix this issue. To make sure your app is up to date, go to Google Play Store and search for COVID Alert. If it\u2019s not updated, you should see an option to Update. If the only option is to Open, that means your app is up to date. If you\u2019re still experiencing this problem, pls let us know at cds-snc@tbs-sct.gc.ca.",
@@ -1052,8 +1628,8 @@
         "thumbsUpCount": 2,
         "reviewCreatedVersion": "1.1.1",
         "at": "2020-11-22 23:31:39",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Frank - COVID Alert is available for phones new than 5 years, and Android phones running Android 6 and up (w/ updated Google Play Services). You can check if a phone supports the app by going to Settings, then Google. If your phone supports COVID Alert, you'll see COVID-19 Exposure Notifications at the top of the screen. Hope that helps.",
+        "repliedAt": "2020-11-30 21:28:10"
     },
     {
         "reviewId": "gp:AOqpTOHQY3_PDcsUrAWV-O8FR4T17sD0wyLsLIeo7BmJc5Lk0UKpJ6d0wt42sQIu8BP79xzNP3tsCBCJhANv2g",
@@ -1205,11 +1781,11 @@
         "userImage": "https://play-lh.googleusercontent.com/-GF5SrMpM7ec/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckzdaP4CmrLKHmlNk12kLaA3Q_yRQ/photo.jpg",
         "content": "Find it hard to give this app more than one star, as it hasn't made a single exposure check in 10 days (since last update). Prior to this, the app was sporadically missing 1 or 2 days. I had reported this issue to the HC CovidAlert team, along with my logs, several weeks ago. They suggested that it might be a connectivity issue - but my phone is not having any connectivity problems whatsoever. Obvioulsly, the most recent update has made things much worse, with 0 checks in 10 days.The idea behind this is great and I totally support it; but the implementation leaves much to be desired. What is the point of this app, if it doesn't work?",
         "score": 1,
-        "thumbsUpCount": 152,
+        "thumbsUpCount": 201,
         "reviewCreatedVersion": "1.1.1",
         "at": "2020-11-21 03:23:47",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Elie - We\u2019ve updated the app to fix this issue. To make sure your app is up to date, go to Google Play Store and search for COVID Alert. If it\u2019s not updated, you should see an option to Update. If the only option is to Open, that means your app is up to date. If you\u2019re experiencing still this problem, please let us know at cds-snc@tbs-sct.gc.ca.",
+        "repliedAt": "2020-11-30 21:22:14"
     },
     {
         "reviewId": "gp:AOqpTOGlei4JJsftWxXSmxcq75XvP1z5ykB6hwFnfZFg2Oykq33aQ9GeLCeqgK50ubJ74X5cBZd3PSPZ1lx_ew",
@@ -1253,7 +1829,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj9PtMsLUtnInm7nQshXYyBj8YEDliQ2SCLxs_AJA",
         "content": "Been using this since day one. Finally frustrated enough to write my review. Really upsetting that this causes interference with other bluetooth uses of my phone, specifically my headset for hands-free calling. Sometimes im the middle of a call, or while getting navigation instructions while driving. I'm continuously having to reset my bluetooth in order to work around this poorly programmed monstrosity. If I had any alternative, I'd be using that instead.",
         "score": 2,
-        "thumbsUpCount": 43,
+        "thumbsUpCount": 45,
         "reviewCreatedVersion": "1.1.1",
         "at": "2020-11-21 02:02:40",
         "replyContent": "Hi Matthew - We're sorry for the issues you've encountered with the app and we appreciate you sharing this feedback with us. We will let our app team know. As we're continuously making improvements to the app, we recommend keeping it up to date with the latest updates to ensure these improvements are installed.",
@@ -1397,7 +1973,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjtiOd85EgR6u0xh6pzfuO239DaC57_zObLn9fHJjI",
         "content": "Like the idea, but mine hadn't logged any exposure checks since install and last exposure check was almost 3 weeks ago (20 days). Bluetooth is on, and everything says it's active and good to go. Edit: sent screenshot and info as directed by developers. Uninstall and reinstall seemed to bring it to life and start functioning properly.",
         "score": 3,
-        "thumbsUpCount": 42,
+        "thumbsUpCount": 43,
         "reviewCreatedVersion": "1.1.1",
         "at": "2020-11-19 23:52:30",
         "replyContent": "Hi Mitchell - Thanks for sharing your feedback with us. We\u2019re hoping to get in touch with you to look into the issues you\u2019ve encountered with the app\u2019s exposure logs, and to help improve the app experience. If you\u2019re comfortable, you can reach out to us at CDS-SNC@tbs-sct.gc.ca. Thanks, and hope to hear from you.",
@@ -1433,7 +2009,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi36Du0fKL7B_B5GQOPlXz-5TaDdnFhD37AKJMV",
         "content": "It would be interesting to get a summary report (daily). - Alert Community Score. Number of phones you came into contact with that had the alert app. - Isolation score. A number that identifies how many Bluetooth proximity contacts (with or without alert app) you had in a day. Thanks for you response. Please give me a clue how to find the log on an android phone settings?",
         "score": 3,
-        "thumbsUpCount": 63,
+        "thumbsUpCount": 74,
         "reviewCreatedVersion": "1.1.1",
         "at": "2020-11-19 22:38:27",
         "replyContent": "Thank you for your feedback. To find exposure logs, go to Settings, then choose Google, then COVID-19 Exposure Notifications. As always, we recommend opening the COVID Alert app to find out your exposure status according to the settings from Health Canada (more than 15 minutes, less than 2 metres apart, over the past 14 days).",
@@ -1445,7 +2021,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgS-uGKKWG73_CQvczleMvyirk3WX7XtUTpLt-exSM",
         "content": "\"COVID Alert does not use GPS or location services\" Except is does require location to be turned on. Maybe not talking but certainly will drain a battery quicker.",
         "score": 2,
-        "thumbsUpCount": 6,
+        "thumbsUpCount": 7,
         "reviewCreatedVersion": "1.1.1",
         "at": "2020-11-19 19:28:20",
         "replyContent": "On Android 6 to 10, location settings must be on for Bluetooth technology to work and on Android 11, the app works w/out having to enable Location Services. No location info is ever stored or transmitted. You can check the app\u2019s permissions in your phone\u2019s settings. You\u2019ll see it does not have permission for location services.",
@@ -1469,7 +2045,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjsvkDqORjrTtQ7DqmITToviSPeZsEg1uUrH398ew",
         "content": "I have doubts about this app. I tested positive and put my code in. None of my contacts were notified. Not even my husband. Was never asked to resend notifications daily like it says it will ask for. It's a great idea but I can't believe it actually works.",
         "score": 1,
-        "thumbsUpCount": 24,
+        "thumbsUpCount": 26,
         "reviewCreatedVersion": "1.1.1",
         "at": "2020-11-19 17:41:14",
         "replyContent": "Hello - If you installed the app, tested positive for COVID-19 and chose to notify others through the app, COVID Alert will only let other users who installed the app (and were w/in 2 metres of you for more than 15 mins) know they may have been exposed in the past 14 days. Let us know if you have questions, and thanks for sharing your feedback.",
@@ -1478,7 +2054,7 @@
     {
         "reviewId": "gp:AOqpTOE6b_C-DNy8fGBlw7NPuo21eGJd9_JYNkh6kzW_qtKWZ2W06PKIXmeSdmMVEF5qLDW5PQKKFJbTt6bE7g",
         "userName": "Justin Krane ALTERNATE CHANNEL",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gjxs21Q7aHuxKrE36xH1E6BCEHxtOZEb-t4z71aEA",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gjsnpk-oDBIvAe6VdLEF72JSY77SUePLjUEYiy8Lg",
         "content": "The app does not work. Either that, or no one has covid. Public funds were funnelled into, yet another illegal racket. Download the covid app, and download Screen Recorder. Turn the screen recorder on, then the covid app, and walk into a covid hotspot, and post your findings. I also called the covid hotline and 211, and asked if the people knew anyone who had covid. They said no. Covid is the biggest hoax, perpetuated on humanity to date!",
         "score": 1,
         "thumbsUpCount": 12,
@@ -1501,8 +2077,8 @@
     },
     {
         "reviewId": "gp:AOqpTOG8xhpuaQjnh5OJ69P3UCk8HBuDwSukxjqYL-IGRLQaa20hy3YeDUYHXOMkmVcr5T_1NEgJI9bJdrc5Rw",
-        "userName": "MRVIETNAMESE",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhlDb8s-cedw9_04AhVsYAVfsynwAby7XzsoKykgck",
+        "userName": "mrvietnamese",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GggGOllGM0WGg_0oxtt5gpSOW3nXefZk9iZpM4bZ7E",
         "content": "1* rating for sure",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1649,7 +2225,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-kwPAfpXK5JQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn40qKivhJBoNe2lQFlFdwE5NKWOQ/photo.jpg",
         "content": "Doesn't work. I literally live with someone who tested positive and inputted their code and my app still says \"No exposure detected\", even days after",
         "score": 1,
-        "thumbsUpCount": 6,
+        "thumbsUpCount": 7,
         "reviewCreatedVersion": "1.1.1",
         "at": "2020-11-18 03:42:17",
         "replyContent": "Hi Paige - Thanks for sharing your feedback with us. We're hoping to look into this for you, and would appreciate if you could reach out to us at CDS-SNC@tbs-sct.gc.ca.",
@@ -1661,7 +2237,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjnSCdRupOJYYCwE58MhNCqUxUWTV0NCThkkEucjQ",
         "content": "I've had this app for months. I live in Vancouver, not exactly a small town. \"This app is not available in this Province\" message is annoying. I can't use it because it doesn't work here. Why put out an app that doesn't work for 5.2 million people. Pathetic.",
         "score": 1,
-        "thumbsUpCount": 3,
+        "thumbsUpCount": 4,
         "reviewCreatedVersion": "1.1.1",
         "at": "2020-11-18 02:57:36",
         "replyContent": "Hi Daniel - We're working to roll out the app across Canada as quickly as possible. While reporting a positive test in the app is not yet available in some provinces like BC, it's still helpful to download now anywhere Canada - if an app user from a participating province is in proximity to you, you'll be notified if they report a positive test.",
@@ -1685,7 +2261,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-GhTlE1S3OTg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckMfqnbNqEQ2-J7VQBXQyAdhRfZHg/photo.jpg",
         "content": "Does not work -android user with -enabled/updated google play services running -location is on -running android version 9 and fully updated Dumped and reinstalled 3 times still wont work. How long before this will get fixed-",
         "score": 1,
-        "thumbsUpCount": 5,
+        "thumbsUpCount": 6,
         "reviewCreatedVersion": "1.1.1",
         "at": "2020-11-17 23:31:41",
         "replyContent": "Hi Mandi - We're sorry you're encountering issues enabling the app. You may need to grant the app permission to access the COVID-19 exposure notification functionality in the app settings. Let us know if these issues persist, as some Android users have told us when they try to enable the app, nothing happens. We're looking into this problem.",
@@ -1817,7 +2393,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-XuqXXsiESyI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnhRXAWpXWF3lb-3oRZ0Yhj0urK3Q/photo.jpg",
         "content": "Since last update ~ early November - no exposure checks performed for last 2 wks. Checked via Google>Settings>Covid notifications (Android v8/ Galaxy A5). It was working fine up til then. Bluetooth/location enabled, opened app up periodically. Pls advise your developers - there was another reviewer who reported the same issue.",
         "score": 3,
-        "thumbsUpCount": 10,
+        "thumbsUpCount": 11,
         "reviewCreatedVersion": "1.1.1",
         "at": "2020-11-16 20:23:51",
         "replyContent": "Hi Karen - Thanks again for sharing your feedback with us. We\u2019re hoping to get in touch with you to look into the issues you\u2019ve encountered with the app\u2019s exposure logs, and to help improve the app experience. If you\u2019re comfortable, you can reach out to us at CDS-SNC@tbs-sct.gc.ca. Thanks, and hope to hear from you.",
@@ -1838,7 +2414,7 @@
     {
         "reviewId": "gp:AOqpTOFSA_TNgEk2piJb7Rx3FKOdUQX--1iIhRMH-8aQAOiWD2IGKpg85Fr2gYYvtNVQ_MMvF3SLAKdn00tgOg",
         "userName": "railfan 246",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj1r3YJR_2BYPCNfQYA5WApU7qOH7J-Gn-WhuzmqQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjASpiSQIy31rB9rSc_d9iIW4kld_lqQS-JdRegog",
         "content": "Downloaded but doesn't work for my phone that is less than 2 years old. Useless for me",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1997,7 +2573,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiKC7rHGrZEvsHaEaMquHOj9KZ1rLTSRKjaPo1Sip4",
         "content": "Entering the code should be encouraged and made easier. Maybe allow scanning code through the app. Why aren't more people using this app? What's being done to promote downloads? At there any stats to justify its use?",
         "score": 4,
-        "thumbsUpCount": 2,
+        "thumbsUpCount": 3,
         "reviewCreatedVersion": "1.1.1",
         "at": "2020-11-15 01:54:03",
         "replyContent": "Thanks for your feedback - Federal promo efforts (like advertising + outreach to key stakeholders) are complementing efforts by each province/territory as they roll out the app. Apple, Google + a variety of retail organizations are also promoting the app. As of Nov 18, over 5 million people have downloaded the app w/ over 5,100 one time keys used.",
@@ -2021,7 +2597,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-sXDMRpF9Kpo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclHP6hiidvN8XEEuxHnusgsf6um2w/photo.jpg",
         "content": "Doesn't check for exposures that often. It only seems to check once a day. I have internet access all day and wifi at home.",
         "score": 2,
-        "thumbsUpCount": 1,
+        "thumbsUpCount": 2,
         "reviewCreatedVersion": "1.1.1",
         "at": "2020-11-14 23:39:26",
         "replyContent": "Hi Jonathan - The app checks for exposures every day when it's connected to the Internet, from 1 to 6 times per day. Let us know if you have questions about this.",
@@ -2045,7 +2621,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhNdmMJm4pUOcAXLbcIANgpTOiGN270KPCABLTRUw",
         "content": "NOT AVAILABLE IN MY AREA! kinda defets the purpose if you live in a Canadian city and its tells the service is unavailable in my area. TRASH.",
         "score": 1,
-        "thumbsUpCount": 1,
+        "thumbsUpCount": 2,
         "reviewCreatedVersion": "1.1.1",
         "at": "2020-11-14 21:09:06",
         "replyContent": "We're working w/ each jurisdiction to roll out the app across Canada as quickly as possible. Even if reporting isn't available in your province yet, it's still useful to download the app anywhere in Canada now - if an app user from a participating province travels and is in proximity to you, you'll still be notified if they report a positive test.",
@@ -2069,7 +2645,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjsIHNQiGy2xjr0N9vBDyIVF1JhkUtmkWdLGCDs",
         "content": "Breaks bluetooth. Phone won't pair to either car once this app is installed so what are the odds the key exchange with other covid app devices works correctly?",
         "score": 1,
-        "thumbsUpCount": 1,
+        "thumbsUpCount": 3,
         "reviewCreatedVersion": "1.1.1",
         "at": "2020-11-14 18:24:59",
         "replyContent": "Hi Art, sorry for the issues you encountered, and thanks for your feedback - we'll relay this to our app team. We recommend keeping your operating system, and the COVID Alert app up to date as we're continuously improving the app, and you need to install the updates to benefit from those improvements.",
@@ -2153,7 +2729,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-ouqBOjM-UDE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucloxd-1htZvZcgRzWpua2Qti7-XPg/photo.jpg",
         "content": "I've had this app loaded on my phone since it was introduced this summer. The province of Alberta announced in August that they would implement this app. So now it's November and our idiot Premier has announced that we won't be using what his party is now calling \"The \"Trudeau App.\" So now many Albertans will have to suffer needlessly simply because this little twerp wants to make a political statement. Disgusting.",
         "score": 5,
-        "thumbsUpCount": 74,
+        "thumbsUpCount": 76,
         "reviewCreatedVersion": "1.1.1",
         "at": "2020-11-14 02:16:52",
         "replyContent": null,
@@ -2237,7 +2813,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi89Hgbql6ynGzqwOhdPDmUISKoIlxHYmPr1I4OcQ",
         "content": "Last covid check my phone did was a week ago? What about this past week? I've been at work I've been places, it should have at least checked. I think some things wrong with the app. My Bluetooth and locations are on I checked. It has potential, but only if it works.",
         "score": 2,
-        "thumbsUpCount": 10,
+        "thumbsUpCount": 11,
         "reviewCreatedVersion": "1.1.1",
         "at": "2020-11-13 05:32:23",
         "replyContent": "Hi Fifi -Thanks again for sharing your feedback with us. We\u2019re hoping to get in touch with you to look into the issues you\u2019ve encountered with the app\u2019s exposure logs, and to help improve the app experience. If you\u2019re comfortable, you can reach out to us at CDS-SNC@tbs-sct.gc.ca. Thanks, and hope to hear from you.",
@@ -2294,7 +2870,7 @@
     {
         "reviewId": "gp:AOqpTOEGE1GnG7u7RzGiRAWlOET7Zg3IFjxkV1-_qiYftQPKbf5faKIM01vNLcvyT7_-ojscsixpNn3SPyWaRg",
         "userName": "James Morden",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi4DFgZsEqq_Nw4qbxy9HUFgnHJqQQh9rIQtHZDVLU",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GghDEc_OhQwjcd90VwFrpy8EQGb-spq_RWAfHBPGGg",
         "content": "Get it!",
         "score": 5,
         "thumbsUpCount": 0,
@@ -2321,7 +2897,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgBlPEnrKnGBkam98s4oDGR5zI88KJ3jF3sRibsfjc",
         "content": "User privacy vs public health. I would not mind letting people know where I have been at what time and date if that info can protect my neighbors and help prevent this virus from spreading. You do not have to show the person's name, but definitely time and location are important! Also, why we living in Langley cannot get and enter the key when we are exposed?",
         "score": 3,
-        "thumbsUpCount": 4,
+        "thumbsUpCount": 5,
         "reviewCreatedVersion": "1.1.1",
         "at": "2020-11-12 20:30:37",
         "replyContent": "We're working to roll this out across Canada as quickly as possible. While people in BC currently can't report a positive test through the app, it's still helpful to download it now since it exchanges codes across Canada. If an app user from a participating province is in proximity to you, you'll be notified if they report a positive test.",
@@ -2545,7 +3121,7 @@
     },
     {
         "reviewId": "gp:AOqpTOGAi1sliErarY65I1LE_cVv3WeZ6eVo3CRQAcZxXErmiAt45kGr-G99aEpD6x3cr6m5-FfaNLWDUIavDg",
-        "userName": "Jaybryant",
+        "userName": "JayMcnay",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhsYKbiTFO0K6TYqa-6X2DL6hjRwMnVWX3a8KhVgg",
         "content": "This very many help in my my cuntarweee. Maaaany maaaany covid no cases in china. China beat no covid",
         "score": 5,
@@ -2681,7 +3257,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjNo4-J4JncFerZE8a4iNoBy-CQxsBJrD75iZV_JHM",
         "content": "I am concerned that the app is not actually running in the background on my phone (a number of apps that should run in the background disappear .. I can confirm they stop functioning). Is there any external way to confirm functioning?",
         "score": 4,
-        "thumbsUpCount": 1,
+        "thumbsUpCount": 2,
         "reviewCreatedVersion": "1.1.1",
         "at": "2020-11-09 18:12:55",
         "replyContent": "Hi Brian - If you're wondering if the app is working correctly, you can look for the exposure logs in your phone's settings (by going to Settings, then Google, then COVID-19 Exposure Notifications.). The app checks for exposures every day when connected to the Internet (1 to 6 times per day). Let us know if you encounter any issues.",
@@ -2741,7 +3317,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-1_DiWrZ-jY0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnYvMixIcGW1tWlqfapGoELrEqIjA/photo.jpg",
         "content": "I like that this app doesn't collect any personal information and can run easily in the background of your phone. Unfortunately, it is still not able to report here in Alberta or in neighbouring BC and it's starting to sound like it never will...",
         "score": 4,
-        "thumbsUpCount": 4,
+        "thumbsUpCount": 3,
         "reviewCreatedVersion": "1.0.14",
         "at": "2020-11-08 18:53:50",
         "replyContent": "Thanks for your feedback, Sara. We're working w/ each jurisdiction to roll out the app across Canada as quickly as possible. It's still useful to download the app anywhere in Canada - If someone from a participating province who has the app travels, and is in proximity to you, you will still be notified if they report a positive test.",
@@ -3041,7 +3617,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-MiX2qQNtvgs/AAAAAAAAAAI/AAAAAAAAchg/AMZuuck-X4t0n0DjQ3r8xsTqPruAgZIWYg/photo.jpg",
         "content": "Got a positive alert after a household contact tested positive so that was good. But the positive alert never went away and the positive test was over three weeks ago. I've been nowhere with no close contacts in the past weeks beyond my household. Finally had to uninstall and reinstall to reset the app. Not great.",
         "score": 3,
-        "thumbsUpCount": 18,
+        "thumbsUpCount": 19,
         "reviewCreatedVersion": "1.0.14",
         "at": "2020-11-05 07:03:03",
         "replyContent": "The app's \u201cYou\u2019ve been exposed\u201d home screen status goes away 14 days after an exposure's been detected. If the \u201cYou\u2019ve been exposed\u201d screen stays on your app\u2019s home screen for more than 14 days, it\u2019s because of a new exposure. If you didn't get a push notification for the new exposure, pls update your version of COVID Alert through your app store.",
@@ -3374,7 +3950,7 @@
     {
         "reviewId": "gp:AOqpTOHp95HrSFzElHwH4nrTEHrm_OgzUX3awtXk25qTZ7jdXx53LEcRySxrT6otQL1vWNEU6td-ZhwUVG6HNA",
         "userName": "ry ry wastewater",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhA1MBMzG2a-Ez4vLfkIzXuMt1IhWRFsPSjgMAdJQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgtJ3clS4SWA6BP0YHOFbQ0l68vbr1TZsTpa0lg5w",
         "content": "bad",
         "score": 1,
         "thumbsUpCount": 1,
@@ -3797,7 +4373,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gih8lCFQ2Hqk1jvaKhqOrR6EUtVDhq2uCcVPeJFiA",
         "content": "Good start but definitely could use refinement. Easy to use and understand, even when prompted with a potential exposure. However, once exposed, there are some serious oversights. You are supposed to get tested and self-isolate based on your last possible exposure date that you determine, but the app should at least tell you what DAY you were in contact with the exposed person AND the app should reset based on 14 days of that date, NOT the date of notice. App should also have an FAQ section.",
         "score": 4,
-        "thumbsUpCount": 359,
+        "thumbsUpCount": 358,
         "reviewCreatedVersion": "1.0.13",
         "at": "2020-10-29 18:04:20",
         "replyContent": "Thanks for your feedback, Jennifer. To protect users\u2019 privacy, the app never shares info about location, time or date of interactions w/ other devices. You can refer to our Help page for more info (https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19/covid-alert/help.html) - Let us know if you have questions.",
@@ -4193,7 +4769,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gho0ZT57rjYvaAuc6HyG-XY0vptwtXRAAyx4Iz8",
         "content": "As expected anything made in crackhead Canada is literally useless and junk ....this app has nothing to do with the virus and everything to do with stealing your personal information....the illegal Iranian criminal sidekick Maryam Monsef that's in Peterborough probably has something to do with this",
         "score": 1,
-        "thumbsUpCount": 15,
+        "thumbsUpCount": 16,
         "reviewCreatedVersion": "1.0.13",
         "at": "2020-10-24 20:07:31",
         "replyContent": "COVID Alert uses a cell phone\u2019s Bluetooth signals to measure the distance between other app users - these random codes allow the app to work without personally identifiable info being transmitted, collected, or stored. More info: https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19/covid-alert/privacy-policy.html",
@@ -4222,18 +4798,6 @@
         "at": "2020-10-24 17:05:10",
         "replyContent": "Hi Brian, thanks for your feedback. We recognize the app is one many tools we have to combat COVID-19, and it doesn't replace other public health efforts like contact tracing and physical distancing. When a COVID Alert user gets a notification of possible exposure, they also get advice on how to keep others safe and prevent future outbreaks.",
         "repliedAt": "2020-10-30 20:12:22"
-    },
-    {
-        "reviewId": "gp:AOqpTOFJelVfDut_jte8YV19tvLQeKyEx-pSkzPSeirG1KS3P5gqhxUU0jxgG2gFIvs4ixemmCdURNtGM-VAyQ",
-        "userName": "julius Bangojr",
-        "userImage": "https://play-lh.googleusercontent.com/-zfBV3ypj7sE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclRmjq_t_ZZPie57sFNLGNspkLQWw/photo.jpg",
-        "content": "Don't think anyone wants to show they have or had covid19 Those that recovered from covid19, would be afraid to go out. Let alone register with this app. Just an other idea that wasted taxes payers money.",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.0.13",
-        "at": "2020-10-24 16:12:19",
-        "replyContent": "The app never shares information about the location, time, or date of any interactions with other devices, or any potential exposure to COVID-19. We hope that if a person is infected that they will share their diagnosis with the app as it does not tell the people exposed who it was that they may have been exposed to.",
-        "repliedAt": "2020-09-15 17:36:35"
     },
     {
         "reviewId": "gp:AOqpTOHf3GgDh8jsTeGmlPNmN0p2cRFk4_EFGzQoeK6I8RRTq9-aDQlw_ka8rnuK3Mqv9h8wfHl7Pznj1u6Kbg",
@@ -4884,18 +5448,6 @@
         "repliedAt": "2020-10-19 21:05:03"
     },
     {
-        "reviewId": "gp:AOqpTOHC-EDNi7VoV3gVeYhBftX_ZY81Mixpk6Bf9C72XKUlUpe6rlTxDmtOAVKKnxbA4sSkTLnLLCZ9Nc5Sjw",
-        "userName": "Derek R Tremblay",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjsirEPVQIJxSpOsERLr31l461RBTiYa1cssoyrjQ",
-        "content": "I WON'T EMAIL LINKS WITH SNC IN THE NAME. ESPECIALLY AFTER HUMILIATING ME WITH THERE COMMENTS. I AGREE WITH THE TAKES MORE THAN AN IDEA. IT TAKES A COUNTRY WHERE INNOVATION IS REWARDED WITH EARNED ACCOUNTS. ONES THAT I HAVE BEEN FIGHTING FOR ACCESS FOR YEARS.",
-        "score": 3,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.0.11",
-        "at": "2020-10-19 22:41:37",
-        "replyContent": "Hi there - We're sorry for the issues you encountered, and would like to get a better understanding of them in order to assist. You can reach out to the COVID Alert team for support at CDS-SNC@tbs-sct.gc.ca. Thank you.",
-        "repliedAt": "2020-10-19 21:18:51"
-    },
-    {
         "reviewId": "gp:AOqpTOEZ1r0FosNT7DSZqBfypyG-rZI5a6_zaIis3-nOQmmnJ24KO_WtsZ0W5A6vPGYtL8K9mF7UrqntO9wbIQ",
         "userName": "Alex van den Heuvel",
         "userImage": "https://play-lh.googleusercontent.com/--lJRVLOCYDE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckSGpKZ3lhKgy4K3kFBlVqHSA24Lw/photo.jpg",
@@ -4913,7 +5465,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-19Fz74WAfkY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckyFPoWucuW42gRhkd0fIBi-5JtDA/photo.jpg",
         "content": "This app is total nonsense unless you live in a big city and your extremely vunerable, frankly I'm much more terrified of the government violating my human rights then I am covid. I meam just look at all the innocent people they murder on a daily basis do you really want them to have your personal information?",
         "score": 1,
-        "thumbsUpCount": 4,
+        "thumbsUpCount": 5,
         "reviewCreatedVersion": null,
         "at": "2020-10-19 20:35:34",
         "replyContent": null,
@@ -5282,7 +5834,7 @@
     {
         "reviewId": "gp:AOqpTOEVFSK76oWX-lyUNgOG9hMKOdef7F6bk377BoNpQ98V1FT9lQIyfL5Ae9pRFtxN4YEawxnJfGxInPg9Bw",
         "userName": "Rommel Corsame",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjZjPVVaR8ojWWB3X08HGw2rlTr4v268oNP5t3t-A",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gggrhz5j0GxGoe-8vG3FgFiNbxRqPgnAcx-S1kpkw",
         "content": "Love it guy",
         "score": 5,
         "thumbsUpCount": 0,
@@ -5580,18 +6132,6 @@
         "repliedAt": "2020-10-21 21:52:45"
     },
     {
-        "reviewId": "gp:AOqpTOHaP7ah1TDwLOVaN0uxqYz7F7ojGSv2O5BDEQsEGVQfopvS7XU6hxZQZkDWT1Te1JdN23Xg7yphLWDIgg",
-        "userName": "Mike Law",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjTg3Ys2U-KbwzZ8A2Bz066w0WK0J56RtNtRq8zng",
-        "content": "It doesn't work on my Samsung 7 phone.",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.0.12",
-        "at": "2020-10-17 00:42:49",
-        "replyContent": "Hi Mike - You may need to check if your phone has the Google Play Store and latest app store updates. Please refer to our Help Page for support guides: https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19/covid-alert/help.html. We apologize for the issues you've experienced, and please let us know if they persist.",
-        "repliedAt": "2020-10-26 16:33:18"
-    },
-    {
         "reviewId": "gp:AOqpTOEFSJ66ivjrYuKRjQDS2giyJLbnDS2VMrr_h1g7jZOsixnA3aSiDBngN5debc8ZXvNBmyStHBaZFlvQ8Q",
         "userName": "Ron Q",
         "userImage": "https://play-lh.googleusercontent.com/-_T5PtdST4hM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucko4-rlUdQ6ZBJqGu4OXsOA5_YyFg/photo.jpg",
@@ -5714,7 +6254,7 @@
     {
         "reviewId": "gp:AOqpTOEe_755rCH8FulcAXJ8kynIuLuN6MEN9w6f3Fm4EpGtiYCDkBwUkl_0gmX_QLzqENl-sVJh7xxTRFrLeQ",
         "userName": "Aptoide Ambassador Canada-Stephen Owiredu",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ghh3odZ363Mh8G8rDxxz0HMqE2B217L7xShoscGGLQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhqOmI2a4F2q4RlH9_ajSPvNOQcwmO0POHYS1FKDVo",
         "content": "Great App - This app can help eradicate the virus and save many lives in Canada also across the world .",
         "score": 5,
         "thumbsUpCount": 0,
@@ -6041,7 +6581,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gga-w87CZNjx8XBu9kiqVSJxNh2-fVvajXim0I9QKI",
         "content": "This app gives me peace of mind whenever I need to buy groceries or do something in indoor establishments. I hope other provinces stop the politics and make their residents use this app, too. I hope I would never receive a notification, tho. I thought it would degrade my battery life but it has stayed the same. Sometimes I even forget the app is installed! This is a great app I hope everyone in the world has access to. This is what tech is suppossed to do - help us.",
         "score": 5,
-        "thumbsUpCount": 87,
+        "thumbsUpCount": 89,
         "reviewCreatedVersion": "1.0.11",
         "at": "2020-10-14 15:46:00",
         "replyContent": "Thanks for your feedback, Christian. Let us know if you encounter any issues with the app.",
@@ -6206,7 +6746,7 @@
     {
         "reviewId": "gp:AOqpTOGyPT3lRGi1gJLNdjB-W_ZBEH9tNSngwxDEfjXvP0Edz21Js0BN8PrgXddY9OTtV9bWIM4AzSQso2e_mw",
         "userName": "Adam",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgmSurYpCKVE4HNyzF2lYt-p6LpZo9e38GN6gDLkBU",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiSrJP1xoAFVrowqMuc1IKbovUhF6xUEER6XaL2A8I",
         "content": "It's almost always only checking during the night when I'm sleeping, usually around 00:20, 4:20 or 22:40, sometimes will check around 8:20. Never outside of 5m from those times. Useless Response to developer: I'm constantly connected to the Internet so that shouldn't affect anything",
         "score": 1,
         "thumbsUpCount": 9,
@@ -7349,7 +7889,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgMS2Ry4OYj2V6VrmWGw5J7Ja-W9E7QGvKlzzDstA",
         "content": "So I need to be beside someone with covid ( within 2 metres) for 15 minutes for the app to say you've been exposed? 15 minutes! What random people are you around that close for 15 minutes? You can't get it being around someone within 1 metre for 30 seconds? Useless app. \"What's an exposure? The app estimates how near people are by the strength of Bluetooth signals. If you're closer than 2 metres for more than 15 minutes, the app will record an exposure.\"",
         "score": 1,
-        "thumbsUpCount": 15,
+        "thumbsUpCount": 16,
         "reviewCreatedVersion": "1.0.10",
         "at": "2020-10-09 00:43:42",
         "replyContent": "The COVID Alert app will notify users if they've been within 2 metres for more than 15 minutes with someone who then tested positive for COVID - the notifications from the app follow public health guidance.",
@@ -8873,7 +9413,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-vJUgDLyc0ao/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl6d93C2389mNuoAbG6W30IvhQJ6w/photo.jpg",
         "content": "Had it and removed it It's a neat concept but I don't think it's quite ready for what you had intended for. I shouldn't have to rely on people to be responsible enough to submit their testing through the app. What about people who don't have cell phones like seniors or just people who don't have cell phones something better needs to be put into place until then I have deleted the app as right now it is a waste of space.",
         "score": 1,
-        "thumbsUpCount": 2,
+        "thumbsUpCount": 3,
         "reviewCreatedVersion": null,
         "at": "2020-10-04 06:01:41",
         "replyContent": "Thanks for your feedback. COVID Alert is one part of our public health effort to limit COVID-19. When a user receives a notification of a possible exposure, they also get advice on how to keep others safe. This helps limit community spread and prevents future outbreaks.",
@@ -8909,7 +9449,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgV7rCF7S_v59Mu_OBL9t3-JdTZdhhA8atvoR2F",
         "content": "We need more people on board with this. I'm in Manitoba and it says \"People in your province are not yet able to report a COVID-19 diagnosis through this app\". That being said, I'm glad this is being made available! Edit: changed from 4 to 5 stars as it is now available in Manitoba. Hopefully the rest of Canada follows suit as well! And please everyone download this app ASAP!",
         "score": 5,
-        "thumbsUpCount": 106,
+        "thumbsUpCount": 107,
         "reviewCreatedVersion": "1.0.9",
         "at": "2020-10-04 03:41:41",
         "replyContent": "Thanks for your feedback! While Ontario is the first province to distribute the one-time keys to people who test positive for COVID-19, it\u2019s still helpful for everyone in Canada to download it now. If someone from a participating province who has the app travels, and is in proximity to you, you will still be notified if they report a positive test.",
@@ -9149,7 +9689,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiH78RbgdZZbcqI1GkdekTQnOKBDaYZSat2Z09dFe0",
         "content": "App is clear and appears easy to use. Astonished that functionality is still restricted to Ontario - there are other provinces. Edit: thanks to developers and glad coverage is expanding (MB, ON, SK, NL, NB) ... Point being still a ways to go.",
         "score": 2,
-        "thumbsUpCount": 3,
+        "thumbsUpCount": 4,
         "reviewCreatedVersion": "1.0.9",
         "at": "2020-10-03 00:23:51",
         "replyContent": "Hi Mike, thanks for your feedback - You can report a COVID-19 diagnosis through the app if you're in Manitoba, New Brunswick, Newfoundland and Labrador, Ontario or Saskatchewan. We're working collaboratively with each jurisdiction to roll out the app across Canada as quickly as possible.",
@@ -9677,7 +10217,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhMeBsI--0gg4CgDDOBBWIb4ny1z4pTsvuqezDfPA",
         "content": "I don't leave the house at lot. Having the app randomly ping at me because I don't have my Bluetooth on is really annoying. I haven't left the house...",
         "score": 2,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "1.0.9",
         "at": "2020-09-30 17:41:48",
         "replyContent": "Hi there - thanks for reaching out. We\u2019d like to connect with you about this in order to understand the issues you're experiencing.  We\u2019d appreciate it if you could reach out to us directly at CDS-SNC@tbs-sct.gc.ca.  We hope to hear from you.",
@@ -9725,7 +10265,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-h5BDPdvvnMs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucko7bI_ZWd1KIvHHB8EiJ6yyeJoKw/photo.jpg",
         "content": "Worked fine the first time, then I turn off the bluetooth when was at home. After I went out again, turn on the bluetooth, and the app is no longer working. It's frozen on the first page with the logo, and remains like that forever. Tried to uninstall and install again, but same thing... So...I will probably not use it since I don't have the time and energy to figure out what's the problem. Nice app though, (if it's working) \ud83d\ude0b",
         "score": 3,
-        "thumbsUpCount": 213,
+        "thumbsUpCount": 214,
         "reviewCreatedVersion": "1.0.9",
         "at": "2020-09-30 14:15:30",
         "replyContent": "Hi Dimitra - To check if the app is working, you can look for the exposure logs in your phone's settings, as the app checks for exposures every day when connected to the Internet. Go to Settings, choose Google, then COVID-19 Exposure Notifications. If you continue to encounter issues, you can reach out to us at CDS-SNC@tbs-sct.gc.ca. Thank you.",
@@ -10886,7 +11426,7 @@
     {
         "reviewId": "gp:AOqpTOHq58FWlfdtezJlyMUxDOSl0gMr2z6GcBFa6rreuoZgjU6P2ziF9ZTOacGjFeooGHQtpfM2YANW6PxEXQ",
         "userName": "Eric Mewhort",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Giws0AudjkmJx-wZB55hFwQTM9kqyK5qUZjIr2UA2g",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi9Ids-4eNhtPYGbt5UJqDlhtiq9-L0CqY1lZby9z0",
         "content": "Still waiting for support for British Columbia, you lost another star because of the slow province rollout.",
         "score": 2,
         "thumbsUpCount": 0,
@@ -11281,7 +11821,7 @@
     },
     {
         "reviewId": "gp:AOqpTOEdFtiYJMPeDoHR1Hbyfn-JBPGaBFxo-NGr4qpO8Pdx6frzus-0SOUTE-b7XjipVFbIi70mPUW5XQTu-g",
-        "userName": "Jack Lee",
+        "userName": "Jackie Lee",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhCLamePSMLgj_5n8nGTLbix4dUY7KoBfrJ44DzoKo",
         "content": "I decided to uninstalled this. Requiring both GPS and Bluetooth turned on is asking alot in terms of battery usage for what the app is able to do. I'll just have to becareful when I'm outside and take appropriate actions for the vid.",
         "score": 2,
@@ -11458,545 +11998,5 @@
         "at": "2020-09-21 00:46:52",
         "replyContent": "Hi there, thanks for sharing your feedback with us. Please let us know if you encounter any specific issues with COVID Alert.",
         "repliedAt": "2020-09-21 21:32:39"
-    },
-    {
-        "reviewId": "gp:AOqpTOHV4Nt87iUrtKIeA2A4wVWF4M56cg5zze8K68YjWkQ56uwRk6cQC_ZBqenUE0QNbodPrFfTuuwiJnPrOw",
-        "userName": "Neil Simmons",
-        "userImage": "https://play-lh.googleusercontent.com/-nWuUS_xswLs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmB0x6VBp7kBWePZ3GDlX91_W7KuQ/photo.jpg",
-        "content": "A feature I'd like to see is a button that when pressed will search for people with covid, this will let you really feel like it is actually searching in the background because we can't easily tell right now",
-        "score": 5,
-        "thumbsUpCount": 1,
-        "reviewCreatedVersion": "1.0.7",
-        "at": "2020-09-20 21:56:12",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOGIyFvVh7SyWAkWktmZ8hrufNfsW2Vm1Xc9XaD00RdZSqffx1VgV0l7Lr6qhwZq8_89PrClGbx7LzTm8g",
-        "userName": "Char",
-        "userImage": "https://play-lh.googleusercontent.com/-xmNzZQSr8J8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck1nk04NMfialYZjJPQIQkq3Ml6KQ/photo.jpg",
-        "content": "Why doesn't the app no longer tell me when it was last updated. This is what was used to ensure it was working and when I was last potential exposed. Now it looks like just a screen display. Whats the point if it isn't communicating to users, thinking of uninstalling. If the auto updates eat too much battery life then give users the ability to update on demand.",
-        "score": 4,
-        "thumbsUpCount": 4,
-        "reviewCreatedVersion": "1.0.6",
-        "at": "2020-09-20 20:00:01",
-        "replyContent": "Hi there - thanks for reaching out. We\u2019d like to connect with you about this in order to understand the issues you're experiencing with the app's exposure logs.  We\u2019d appreciate it if you could reach out to us directly at CDS-SNC@tbs-sct.gc.ca.  We hope to hear from you.",
-        "repliedAt": "2020-09-23 22:23:31"
-    },
-    {
-        "reviewId": "gp:AOqpTOFJ9gmx75RWe6zALd6WWrVh6s8cRLlz4N24K0uLYlDDhDnK0I4lEf16zF6jc91XufUDxTtwqA7_ahsHZA",
-        "userName": "Andr\u00e9 C",
-        "userImage": "https://play-lh.googleusercontent.com/-S56EaF7yUzk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnuobDF68Z5_YgKWlLwL2xmFeFxig/photo.jpg",
-        "content": "Most boring game I've ever played",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.0.7",
-        "at": "2020-09-20 19:49:27",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOGWi1strP_hSABZz2zLJBaeaYBlothPXm6nk9___39Mgle15XjwHZTSIyTNjQrWWRBC3BL9hWEZ0Krjsw",
-        "userName": "Ash Tristan Michael",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhaNuPCDdHhT2foQ-d4fOJxwTegEQ-xYgN7RFci7A",
-        "content": "This app assumes everyone had data as it can't be used without both bluetooth and internet connectivity, so it is essentially useless to anyone without data",
-        "score": 2,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": null,
-        "at": "2020-09-20 19:07:32",
-        "replyContent": "Thanks for your input. COVID Alert needs an Internet connection at least once each day to work (to check periodically for a list of random codes associated with positive COVID cases), and it could be through Wi-Fi or a data plan. When connected, it uses a very small amount of data, about the same as receiving a single email per day.",
-        "repliedAt": "2020-09-21 21:33:08"
-    },
-    {
-        "reviewId": "gp:AOqpTOHcaxlZB2B9Q6HieDUHmowGhQkFuY3sYZKBSNojM__c5ZJoqMhpe5G8DCFkaYEMJJ93argcyFlgp_mGtg",
-        "userName": "M Hamza Dur",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgqxNKGyGgQ6Ny2gBPAhJ7poFcLHptHtU8hCE8Ryg",
-        "content": "People need to download this.",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.0.7",
-        "at": "2020-09-20 19:02:41",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOHZ3lP4LR0Mdsc7TAiw3Lco8AECk1VSTLPGpmP0kizEEwXCBvPiYkrxxBeifJyQafOoeo5YOlRke6spJg",
-        "userName": "Lorna Klassen",
-        "userImage": "https://play-lh.googleusercontent.com/-zMELRc4BEZw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclS_ysWvcl9VNAtiKwf0Kf3wT8HmQ/photo.jpg",
-        "content": "Where is it",
-        "score": 3,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.0.7",
-        "at": "2020-09-20 17:58:47",
-        "replyContent": "Hi Lorna - For Android, you can download the app here: https://play.google.com/store/apps/details?id=ca.gc.hcsc.canada.stopcovid. You can refer to our Help page for additional support and guides: https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19/covid-alert/help.html",
-        "repliedAt": "2020-09-21 21:33:40"
-    },
-    {
-        "reviewId": "gp:AOqpTOGhxIHa__fHrcfXn4Dbwxl3u0lBxIlVnBHHohG7GyTk_AwH_ht30p_Kv6diWyRq9Vx3YvRMUZcGlCCJTA",
-        "userName": "Andrew Lampert",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiCLJU03zazV2wmkFbFSMjo7gcNfaUOXXb2GsK7EA",
-        "content": "More people need to download this app. For the cost of battery life and how were in a F'ING GLOBAL PANDEMIC, I think everyone should have a tool to help track exposures. The app is relatively quiet - 1 notification / week reminding you its on, an extra notification if you disable bluetooth (how it mainly works), and I assume an extra notification in case youre exposed. Compare it to Instagram where youll get at least 1 a day, its a non issue.",
-        "score": 5,
-        "thumbsUpCount": 58,
-        "reviewCreatedVersion": "1.0.7",
-        "at": "2020-09-20 16:46:54",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOHpgHrvr0JyXBPLzK8kC44B23GrsVn8PiYUchvDqsrNuVJ1HhGltd1rlOCil5FC7HEwAtHdhR-5ZOe9vg",
-        "userName": "Ammar Mousa",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj3VQzqGnNExYklkZXR70BNY2TUoyMdCWzA6ljL3g",
-        "content": "If someone is Covid positive, isn't he / she supposed to be in self isolation until he/she is cleared ?! What is the point of this App ? I Am I missing something or what ?",
-        "score": 1,
-        "thumbsUpCount": 1,
-        "reviewCreatedVersion": "1.0.7",
-        "at": "2020-09-20 12:43:55",
-        "replyContent": "When an app user receives notification of a possible exposure, they also get advice on how to keep others safe. This helps limit community spread and prevents future outbreaks. We hope that if a person is infected that they will share their diagnosis with the app as it does not tell the people exposed who it was that they may have been exposed to.",
-        "repliedAt": "2020-09-21 21:34:19"
-    },
-    {
-        "reviewId": "gp:AOqpTOEROOuMywvt6NqUA23HUFgVwH5KuVxbhUu-_ZXyNxPrR5jKxHAhizIue4g0WQUnHz-27f9avOSSLvsdGg",
-        "userName": "Mehmet Koken",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj1rI6IAZ04ABeyxBStkIf7pQkbCp7KLlKQs8mhxA",
-        "content": "All good. But when you check exposures it looks like they are sorted randomly. Why? Isn't it the most logical thing to sort them by date?",
-        "score": 4,
-        "thumbsUpCount": 2,
-        "reviewCreatedVersion": "1.0.7",
-        "at": "2020-09-20 11:37:00",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOGdntC04loR6Vh8qNReFPVY8u6rwAPlto-omeLrsxWAlGkqvoc3g4nvFPOYrvoliaHyCD7KLep7-SGcKQ",
-        "userName": "Tyler Poort",
-        "userImage": "https://play-lh.googleusercontent.com/-k3LfICOjAi4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckWWwWAwm0teNz_jxKr81BxEbUIHw/photo.jpg",
-        "content": "Shortly after I downloaded this app my Google Pixel won't stop restarting itself, and even a hard reset won't seem to fix it...",
-        "score": 1,
-        "thumbsUpCount": 2,
-        "reviewCreatedVersion": "1.0.6",
-        "at": "2020-09-20 08:52:02",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOFUzHm-3Rvmq2bChofmoS18DeZ3fE0-5OyWUHXHG9sPUB0QGCUU4gG_k8kPONrekofdUfn1pdTAoXa4Sw",
-        "userName": "TheWasian",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiyFjSNO2u8NyTaTjZodnKZlBEyMoPM9mfdELOiuA",
-        "content": "Trash",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.0.7",
-        "at": "2020-09-20 07:28:21",
-        "replyContent": "Hi there - Please let us know if you encounter any specific issues with the app. Thank you.",
-        "repliedAt": "2020-09-21 21:36:49"
-    },
-    {
-        "reviewId": "gp:AOqpTOF6afycpgZ5XZyZs6rpq8nu6qHG0SzI90l5s4NTpVzwjIJbJQ_co4L8ROSdzIHPWEI5M8INlG4zdGVOtw",
-        "userName": "Xoriom",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgUOg7SijPFSGXuub10rCZGLWgUqdOBwm9O0nk1DA",
-        "content": "Awesome app for society, and using Bluetooth not only helps with privacy it also allows for data to be stored in the app for long term use. Location services is a must so that the app now's where and possibly when you got infected and it can help locate others that you may have had contact with. The reason for the 4 stars I for some wierd reason I keep getting these test notifications saying \"exposure\" and it doesn't even show you that it is a test unless I pull the notification tray down.",
-        "score": 4,
-        "thumbsUpCount": 60,
-        "reviewCreatedVersion": "1.0.7",
-        "at": "2020-09-20 05:46:46",
-        "replyContent": "Thanks for sharing your feedback. We\u2019d like to connect with you about this in order to understand these notifications you\u2019re receiving, and to help improve our app.  We\u2019d appreciate it if you could reach out to us directly at CDS-SNC@tbs-sct.gc.ca.  We hope to hear from you.",
-        "repliedAt": "2020-09-21 21:37:27"
-    },
-    {
-        "reviewId": "gp:AOqpTOH7k9NqDRZ8-q6P3LqLdjfIGssoHsZDuxS9eLnQ3-Dy9LdvObXVtt9IkGJew6lJv1YgVCCXdKjLSYcSBw",
-        "userName": "Nicole McRae",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiaQ_sRDax0IwdYRktjOBBAMFRevRmWf7A5jTFqcA",
-        "content": "It's Sept 19, but app shows last check was Sept 5??? What the HECK.",
-        "score": 2,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.0.7",
-        "at": "2020-09-20 05:18:27",
-        "replyContent": "Hi Nicole - thanks for reaching out. We\u2019d like to connect with you about this in order to understand the issues you're experiencing with the app's exposure logs.  We\u2019d appreciate it if you could reach out to us directly at CDS-SNC@tbs-sct.gc.ca.  We hope to hear from you.",
-        "repliedAt": "2020-09-23 22:24:34"
-    },
-    {
-        "reviewId": "gp:AOqpTOGllFfyyDIkWsqnxIAY1jnxoUH6BHMKdzW26R2zViiDo-3nMrFTzK8RFCUkrB2WDq12DwWJdgTDvwJstg",
-        "userName": "Eli Miller-Buza",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg_sGBLVYZxbs1yBP1tdpFunLKcnXoWUWU8vp2xQK4",
-        "content": "Totally not 5 stars but I gotta balance out some of the crazy people giving 1 star",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.0.7",
-        "at": "2020-09-20 03:46:14",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOFoZLkvMUsY1e0p6e1l2S0swA5j3FCXJtXQsdmSmLVjFjFb8KR4pJ3jGXQ6vLaJE8F0RNZxZ8qhJo3rwA",
-        "userName": "Roy Morris",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhQcZqDXHcTJr2IEYEo5Jq3JKd5TRF_PTZlhpC5Qg",
-        "content": "App still not active in my province!! 9 months into covid and still not available in BC. Please sort it out!!!",
-        "score": 1,
-        "thumbsUpCount": 1,
-        "reviewCreatedVersion": "1.0.7",
-        "at": "2020-09-20 01:40:33",
-        "replyContent": "Thanks for your feedback. We're working collaboratively with each jurisdiction to roll out the app across Canada as quickly as possible. It's still helpful to download the app even in BC - If someone from a participating province who has the app travels, and is in proximity to you, you will still be notified if they report a positive test.",
-        "repliedAt": "2020-09-21 21:37:49"
-    },
-    {
-        "reviewId": "gp:AOqpTOFVX99VRDU5EMlqB9Z0kEnlIpJQ4Di1jBBs9mGcChvB8g-UmkIoKI802CWVQxm9GvXfix5luzxuyS-iXQ",
-        "userName": "Corinne Pomroy",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GintEGSGIi72Jm7TN0Xfx-cATC-tvGPghVEd4wU",
-        "content": "Good idea but poorly designed for practical use. Requires Bluetooth AND Location services to be on at all times, which is too much of a battery drain, and is also accompanied by repetitive notifications about said Location being turned off so i uninstalled. Hopefully developers will allow usage without Location services. Not sure why that's even needed if it's based off Bluetooth proximity. An option to limit notifications would be great as well.",
-        "score": 2,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": null,
-        "at": "2020-09-19 18:48:51",
-        "replyContent": "Hi Corinne, thanks for your input - If you have an Android phone, you need to turn on Location for COVID Alert to work. To use Bluetooth scanning, Android phones need Location setting on for all apps. We appreciate your feedback and will be sure to relay this to the team.",
-        "repliedAt": "2020-09-21 21:38:38"
-    },
-    {
-        "reviewId": "gp:AOqpTOE6E8TXPIXvbJDOtOdrPHs2CXT2DwiXolnv6FyGIjSUTjZ-jKtFcGdw3TDm52bDWtZbdcqxDAaDgnp8aA",
-        "userName": "lorex markham",
-        "userImage": "https://play-lh.googleusercontent.com/-B1I8gz7pUZ8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmgADrkMIki7Ax3sMlH4iyTRr-mdg/photo.jpg",
-        "content": "Bad",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.0.7",
-        "at": "2020-09-19 18:27:42",
-        "replyContent": "Hi there - Please let us know if you encounter any specific issues with the app.",
-        "repliedAt": "2020-09-21 21:40:04"
-    },
-    {
-        "reviewId": "gp:AOqpTOF4tKi0fqL_DtcNccv8YlRGBsk4rd2cKHWZmR7pw2FI79B2HZwjEhRu7r6k8G_Zuq9QAT7zXy4M60JoPw",
-        "userName": "Sherry Paterson",
-        "userImage": "https://play-lh.googleusercontent.com/-dKcIEjC8QU0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn0-qXIL-pkFufLZUkfM8EN7ONQiw/photo.jpg",
-        "content": "Dont know much about it yet but you've spelled authorized wrong in the intro to the app.",
-        "score": 4,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.0.7",
-        "at": "2020-09-19 18:05:02",
-        "replyContent": "Thanks for your feedback. Please let us know if you encounter any other issues with the app.",
-        "repliedAt": "2020-09-21 21:40:32"
-    },
-    {
-        "reviewId": "gp:AOqpTOHZisuQDWCkDFDHtfv3MGT8gNfTOo1zJwq5qOkzjIoAqaP3jGJb09tR8enfHoz0UIH69bKwGOLdea1Txg",
-        "userName": "Derek Forbes",
-        "userImage": "https://play-lh.googleusercontent.com/-1BzRcjA0z0c/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnENcNfH5CDK1eCgM-evoAS0sUtQg/photo.jpg",
-        "content": "Very simple and easy to use",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.0.6",
-        "at": "2020-09-19 17:58:09",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOEqbx0smDqEUcP74YWFS_kvdTVMI-DHEYlTDIneIDW0xdW4gZD1o31BorkHGi7pvVYSx_wqnrtb1OuRWg",
-        "userName": "Mr. Christmas",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhIbfOv1tZBEUcw9rLrXX3UkmV-Yk65w8ruf5VCvg",
-        "content": "I love this COVID-19 ALERT APP",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.0.7",
-        "at": "2020-09-19 17:28:57",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOFTm7Qc78xdupuX5zKCtqnPB4c-yK7swsdfLxKd-gFEHyCv5s8LqcBRuTWTPTnzdXsLoljLJu8nQG-RQA",
-        "userName": "Daniel Schuler",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjUO_ZsW9Q3Zw1cir8cJRhAahCYisblh-E8VZQFrg",
-        "content": "App is useless, since no one can go for tests and you need to take a test upload a code to even use the app alert. Also drains your battery",
-        "score": 1,
-        "thumbsUpCount": 3,
-        "reviewCreatedVersion": "1.0.7",
-        "at": "2020-09-19 17:13:09",
-        "replyContent": "Currently, only those in Ontario, New Brunswick, Saskatchewan, and Newfoundland and Labrador can report a positive test through COVID Alert. We're working with each jurisdiction to roll out the app across Canada as quickly as possible. To minimize battery consumption, please turn off Bluetooth when you're home and don\u2019t need the app running.",
-        "repliedAt": "2020-09-21 19:06:00"
-    },
-    {
-        "reviewId": "gp:AOqpTOFxnO4j4oxC3YyQsOv5KNXBU-xeBkNz6EyNzUzZyZ-y9mC7KRQsX-PmqG1YJd4WPjV2K9FZSiLBeFtwPA",
-        "userName": "Mark Hermann",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi0tZVhe7F5_7vPdtSD0DsCA4KtAY6j7ZplHEQc",
-        "content": "Doesn't seem to work / stopped working. App reports doing 0 checks in the last 30 days. Last check was over a month ago and I had no idea.",
-        "score": 2,
-        "thumbsUpCount": 4,
-        "reviewCreatedVersion": "1.0.7",
-        "at": "2020-09-19 17:09:20",
-        "replyContent": "Hi Mark - thanks for reaching out. We\u2019d like to connect with you about this in order to understand the issues you're experiencing with the app's exposure logs.  We\u2019d appreciate it if you could reach out to us directly at CDS-SNC@tbs-sct.gc.ca.  We hope to hear from you.",
-        "repliedAt": "2020-09-23 22:25:04"
-    },
-    {
-        "reviewId": "gp:AOqpTOFjAKlPaRftjMOgTm-8W60A9Y6eB-8syxu-zApM1-Y1KLXgpalJJj26sakX16lf-JUlTlUK_p-rGM0kyw",
-        "userName": "ryan clements",
-        "userImage": "https://play-lh.googleusercontent.com/-YWW9PxVb4H0/AAAAAAAAAAI/AAAAAAAAACA/AMZuucmyzEbuMh5IVdYREUio3eZVY3QgWg/photo.jpg",
-        "content": "Who needs a vaccine? This app has protected me from covid-19 since late july, dummies wearing masks lol all you need is this app.",
-        "score": 4,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.0.7",
-        "at": "2020-09-19 16:46:30",
-        "replyContent": "Thanks for your feedback, Ryan. COVID Alert is one part of our public health effort to limit COVID-19, and the app doesn\u2019t replace manual contact tracing by public health authorities or wearing a mask and physical distancing. Let us know if you encounter issues with the app.",
-        "repliedAt": "2020-09-21 19:05:05"
-    },
-    {
-        "reviewId": "gp:AOqpTOEBIuPOIBEo3WmRbHhfvbZPlELgx1ek60h6zE6xn0WoemSSiccKRiSKA0A3EXv4IzAWuA9MQaoJHov8zQ",
-        "userName": "Marc Pawlowsky",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhBaB2lWMWhS46ax1xgsGu6o-CEkRLIAvvkn0ilXQ",
-        "content": "Cannot enable. Pressing big red button does nothing. Cannot give it whatever permission it wants. Tried or reinstalling app says it will ask for permissions but does not.",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.0.7",
-        "at": "2020-09-19 14:58:25",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOG5GH3pRMFZFdPQNFa-T0EsVSKoS8UefO4YZCmkL1XHDe3iMfd0_WOtoCJpJGbDlisa7mRLgO2EohjqjQ",
-        "userName": "Troy Tham",
-        "userImage": "https://play-lh.googleusercontent.com/-BqwxkZNpBsE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmNVHNUZgPKQ-f8VliG1K4Efm44LQ/photo.jpg",
-        "content": "Easy to install and let run on your mobile device. If we all use it we can stay safe and beat this! Edit: waiting on the slow response from BC as per usual",
-        "score": 5,
-        "thumbsUpCount": 2,
-        "reviewCreatedVersion": "1.0.7",
-        "at": "2020-09-19 09:12:16",
-        "replyContent": "Thanks for your feedback, Troy. We're working collaboratively with each jurisdiction to roll out the app across Canada as quickly as possible. It's still helpful to download the app even in BC - If someone from a participating province who has the app travels, and is in proximity to you, you will still be notified if they report a positive test.",
-        "repliedAt": "2020-09-21 19:04:28"
-    },
-    {
-        "reviewId": "gp:AOqpTOEhCZ4ioAighN_MB3MMHp4ztjT3sKJe3wu6o68QxlMmKGcFGRw_yCiBEb172aUhnoV8836joHtHDW-T1Q",
-        "userName": "Cindy Spence",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjQUWefoe51sjgXvxt214QPVb2N0WZD_vs1QxZUpQ",
-        "content": "This app is pretty awesome to use and to be safe and stay away from people who has the virus.. I recommend people should download this as soon as possible..... stay safe....wash your hands and always stay away six feet apart.... thank you for this alert app.",
-        "score": 5,
-        "thumbsUpCount": 1,
-        "reviewCreatedVersion": "1.0.7",
-        "at": "2020-09-19 07:16:18",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOGvJKXEnjAxS6D_1r2uUxfT5XNfvQznQ1y3i9C05ZHENuH_x5JgvlR9zIK6stmDLtEhohAN9SVTDft6Hg",
-        "userName": "Kevin Bossy",
-        "userImage": "https://play-lh.googleusercontent.com/-oV4iWWGb2ns/AAAAAAAAAAI/AAAAAAAAO9E/AMZuucl4ZPGxLqV9iqiQfUgJF8ePP9QicQ/photo.jpg",
-        "content": "Everyone should get this",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.0.6",
-        "at": "2020-09-19 03:48:54",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOEB4LG2ZHzqBX5tkgLIDpeNI3-A_mg73dfMs3FWODdj6eKwXXAKluzM1RI3Kkk_egeLmYAiACnl7nPGJA",
-        "userName": "Chris Mason",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiASKuc2Vqb_0it1a6q2jQ4qvOrZXueQt48dh83bg",
-        "content": "Thank you gov't. Your doing amazing work.",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.0.6",
-        "at": "2020-09-19 02:31:58",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOEEwsTHOzLsAvnL-0L2G5Q1fPsXI3fAekDEnRNWqEy9SJ9wMEOQc5LbO3VLsNua5m5rZphh9TG8P7iNvw",
-        "userName": "Shawn McTear",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj2S401bDZZZZHuc2i09iAugJnCmNtPdaJwIKHtkA",
-        "content": "Works like it should, no complaints about how it works. Only tiny thing that it lacks, which isn't even important, is a dark mode. I don't open the app often, but it is rather bright.",
-        "score": 5,
-        "thumbsUpCount": 1,
-        "reviewCreatedVersion": "1.0.7",
-        "at": "2020-09-19 02:28:34",
-        "replyContent": "Hi Shawn - Thanks for sharing this feedback with us. We'll be sure to let our team know. Please let us know if you encounter any other issues with the app.",
-        "repliedAt": "2020-09-21 19:03:30"
-    },
-    {
-        "reviewId": "gp:AOqpTOEwneJUVd3HD46PjcussU1m8-5XvAbYATasdOy7vvcYmlC66M19mpBHSOm_ivXDmHUN_yplcbXlUT3iRw",
-        "userName": "Molly lu",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjQM4-6h0Z8urEY24sFfEjNfp_rK5F8P9tDj2OpWQ",
-        "content": "It is good but i dont know when is the last time it updated so i dont know if its recent or a day ago.",
-        "score": 4,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.0.7",
-        "at": "2020-09-19 01:39:50",
-        "replyContent": "Hi Molly - Thanks for your feedback. Please let us know if you're continuing to encounter issues. If you'd like, you can reach out to us directly about this at CDS-SNC@tbs-sct.gc.ca.  We hope to hear from you.",
-        "repliedAt": "2020-09-23 22:26:49"
-    },
-    {
-        "reviewId": "gp:AOqpTOEDD1gN1FKBIvPsOjnRxczg115w2O13dBauNMcZ_doaVOMVUv7gq1frXoSb-4Dg420o0PnO6jC72c_T0A",
-        "userName": "albert august",
-        "userImage": "https://play-lh.googleusercontent.com/-rN8alN0l0Ls/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnoa5hpZsjsCIdxFC3GRwjIz3TzQA/photo.jpg",
-        "content": "Stupid app ....why couldn't make a app like China where it tells you all the covid infected areas",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.0.7",
-        "at": "2020-09-18 23:21:46",
-        "replyContent": "Hi Albert - To protect users\u2019 privacy, the exposure notification app never shares information about the location, time, or date of any interactions with other devices, or any potential exposure to COVID-19. The app only tells you that you may have been exposed to COVID-19 at some point in the past 14 days.",
-        "repliedAt": "2020-09-21 19:02:37"
-    },
-    {
-        "reviewId": "gp:AOqpTOGTH79NVDA-L0F4KcVUyfi27LYEwQTTEMMUD8O6IHRR1UesVuo2NdlvoBWBc3V2LG4w7WTEL8Lq3poRPQ",
-        "userName": "Crystal Jones",
-        "userImage": "https://play-lh.googleusercontent.com/-14XXRXrUdk0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmXdidqW6VO3f_JiHsa3DsDoPFlvQ/photo.jpg",
-        "content": "Just, thank you....idc if you know me anyways! But I appreciate your efforts for my right to privacy++",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.0.7",
-        "at": "2020-09-18 23:21:15",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOEXRMtA5lRj18K0HVwsD3OrYjxKEh3EJLGWlVmColNuPBi-LxqNxIFlmgtC0cYN5UKYCl45D3cMe1E3bA",
-        "userName": "Alexy Leger",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GizusUHyd872qeD6GJaHcZLSzDxoWxPcGY19LSZ1g",
-        "content": "Gecko rates it a 9/10 for cyber safety.",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.0.7",
-        "at": "2020-09-18 21:41:25",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOEI2TRi8xQTekMILf-Z7X_YZlnmsPMoJAW_J5ibtAq1QkoEFBQmX9HEEpPs0P_tazrplKZNt9lhXOIZ9A",
-        "userName": "Ken Stene",
-        "userImage": "https://play-lh.googleusercontent.com/-M6zJl2RNrZk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclOy3f6QKnikw-cVpem_TN9zJhuJw/photo.jpg",
-        "content": "Do you need a data plan on your phone to use this app?",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": null,
-        "at": "2020-09-18 21:18:28",
-        "replyContent": "Hi Ken - COVID Alert needs an Internet connection at least once each day to work, and it could be through Wi-Fi or a data plan. When it's connected, it uses a very small amount of data, about the same as receiving a single email per day. Let us know if you have other questions about the app. Thanks.",
-        "repliedAt": "2020-09-21 19:02:15"
-    },
-    {
-        "reviewId": "gp:AOqpTOHIRttRTEvCx0sANUWIUVh8tyLGvx09ykfcYUbDn3OpHPJQB1s1jJIUkfp1DZWytJ1Mf6t7u1I7VBfOPQ",
-        "userName": "Helmi Yousif",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjSGE-n1WCDubKrvGV7CITfdwNYigaHUkiNMI82Iw",
-        "content": "Violates personal privacy",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": null,
-        "at": "2020-09-18 21:12:19",
-        "replyContent": "If you have concerns about the app's privacy, you can refer to our privacy policy (https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19/covid-alert/privacy-policy.html) and the Office of the Privacy Commissioner's independent evaluation (https://www.priv.gc.ca/en/opc-news/news-and-announcements/2020/nr-c_200731/)",
-        "repliedAt": "2020-09-21 19:01:47"
-    },
-    {
-        "reviewId": "gp:AOqpTOGg2dyZoeKzkjZBTSeWR8RXcaBhdmHcIT_3R255LfMACnPXsmMOepBWOM0pNIuzPTwnuhtvk6I-AwZIkw",
-        "userName": "Braden Weltz",
-        "userImage": "https://play-lh.googleusercontent.com/-Oy7X61ttJds/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmr5-u7RD_8tgMV49h7Hro35u15xQ/photo.jpg",
-        "content": "Easy to download and use",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.0.7",
-        "at": "2020-09-18 20:50:38",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOGOpiE61zs8cj9oczKRQFMSh_1ug4HpLnhU85LLs-RqIOTSD_6qOwVQ6xAy1CsZ0zeA_ObmvNen00fLnQ",
-        "userName": "Mona McLaighlin",
-        "userImage": "https://play-lh.googleusercontent.com/-E2axUe3wEUY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnI3LnGsRLKJPy3CNfCN3TPTCTOZQ/photo.jpg",
-        "content": "I got this covid-19 so I installed the app on my phone ,hopefully I won't get this killer disease!!!!",
-        "score": 3,
-        "thumbsUpCount": 1,
-        "reviewCreatedVersion": "1.0.7",
-        "at": "2020-09-18 20:31:40",
-        "replyContent": "Hi there, thanks for your feedback. Please let us know if you encounter any specific issues with the app.",
-        "repliedAt": "2020-09-21 19:01:16"
-    },
-    {
-        "reviewId": "gp:AOqpTOH06MUqeVNR9C_kqZTjimreZiAtG3-plJqapCCqN9MFaBz-AA1qexjwSdeH-w5RaSG9jPO5GJ-YKXT_-g",
-        "userName": "Blite 33v2",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhAyhOBVdiv72vQExaS9c5kyuZRX9sdvZE5RMYr",
-        "content": "Amazing Idea, wonderful execution! Would reccomend!",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": null,
-        "at": "2020-09-18 20:20:33",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOFp6B9sFuYJxGapGQC85fB-Cr6EEuTVTweNXPalq-cnxnsx9Yo-K74MnvQygL23jz79YKKcgXt1oCQmnw",
-        "userName": "William Murphy",
-        "userImage": "https://play-lh.googleusercontent.com/-vFmovCB1l7A/AAAAAAAAAAI/AAAAAAAAACc/AMZuucl0vFJtm934zFypDDFhL9LnhVeBuw/photo.jpg",
-        "content": "Tracking and profiling. Misleadingly advertised as \"private\" by doctors abusing their title, like Jennifer Kwan (seemingly undosclosed paid endorsement on her part). It's very dangerous to let a centralized server profile you like this, and horribly irresponsible for doctors to abuse their position to mislead you into thinking that it's somehow anonymous. Very unethical of doctors who advertise this claim.",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": null,
-        "at": "2020-09-18 19:25:12",
-        "replyContent": "If you have concerns about the app's privacy, you can refer to our privacy policy (https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19/covid-alert/privacy-policy.html) and the Office of the Privacy Commissioner's independent evaluation (https://www.priv.gc.ca/en/opc-news/news-and-announcements/2020/nr-c_200731/)",
-        "repliedAt": "2020-09-21 19:00:08"
-    },
-    {
-        "reviewId": "gp:AOqpTOGP3BDbTklgsRPUocBaki3LzjnFmrghTvzBra2YBa1Jx8z_iedWj-YsKfCK0zg7eE1DLFe0A5iLdAKdOQ",
-        "userName": "Cynthia McLeod",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjvKV1Fj3vcRciwuis03yDC3kH2AZeQQ-2VabqUg5M",
-        "content": "Mine is not updating and letting me know when it last checked.",
-        "score": 2,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.0.7",
-        "at": "2020-09-18 18:45:50",
-        "replyContent": "Hi there - thanks for reaching out. We\u2019d like to connect with you about this in order to understand the issues you're experiencing with the app's exposure logs.  We\u2019d appreciate it if you could reach out to us directly at CDS-SNC@tbs-sct.gc.ca.  We hope to hear from you.",
-        "repliedAt": "2020-09-23 22:27:20"
-    },
-    {
-        "reviewId": "gp:AOqpTOGj4tUtXSmg-3k72hVktw5CuIS42SxQPJ4EuuWUCE55YcJ6rBjpcPFn_71yyuQj8O5jcWshhM2act1S6w",
-        "userName": "Brandon Baldwin",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiNcqqRm4aizQBjyN8xQr04zA-qvuFvFP23HM7PmA",
-        "content": "I really like the simplicity of the layout and how it's easy to use, and the easy set up process when you first install it. One thing I would want changed is the ability to have the app use gps instead because I do not want to have my Bluetooth on 24/7.",
-        "score": 3,
-        "thumbsUpCount": 19,
-        "reviewCreatedVersion": "1.0.7",
-        "at": "2020-09-18 17:04:31",
-        "replyContent": "Thanks for your feedback, Brandon - To protect user's privacy, the app does not use GPS and never shares info about the location, time, or date of any interactions with other devices. To minimize battery consumption, you can turn Bluetooth off when you're home and don't need the app running. Let us know if you encounter more issues with the app.",
-        "repliedAt": "2020-09-23 22:31:37"
-    },
-    {
-        "reviewId": "gp:AOqpTOHvVef0pFCy07ZQGmmB9KkQlkdMHQYgv_YP2_VLQG5J8eF921udqLkEMjkzLUee_H791YUnPZiKiBl6Kw",
-        "userName": "RS GAME STUDIOS",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjT81hEP6G2CsDOhvfm3FFqESQ6ZbJpmrHxV7ji",
-        "content": "It's the worste app ever I would rate it 0 star's if I could\ud83d\ude20",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": null,
-        "at": "2020-09-18 15:29:54",
-        "replyContent": "Hello and thank you for your feedback. Please let us know if you've encountered any specific issues with the app.",
-        "repliedAt": "2020-09-21 18:58:14"
-    },
-    {
-        "reviewId": "gp:AOqpTOHaBGw61l-On2gz0nrjDaeOXlJ53iq9loiTeaIV8nrkcKgFhiv_X4q6PmJLogetN_y7cyjw4mTf4082xA",
-        "userName": "Kathy Savvidis",
-        "userImage": "https://play-lh.googleusercontent.com/-XTYE5hXml_E/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnar3xYs8mA-v1cDcQit6E6yAvqrw/photo.jpg",
-        "content": "Great app. SHOPIFY DOES IT AGAIN. It doesnt use GPS. It uses bluetooth capabilities to track.",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.0.7",
-        "at": "2020-09-18 15:27:04",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOFlpqm78mZt_WjjW9bxU1_Hq-H-LN2JiZQj5tQePgnDynO0uiJERwFz0TL-cK61pJ7kudbpczEGby3MJQ",
-        "userName": "Duke",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiGprvE-NBfr0ngTofKXdQuEtVGbtBVp3ycOvtoig",
-        "content": "Wish it didn't interfere with all my other Bluetooth devices I connect to my phone",
-        "score": 3,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.0.7",
-        "at": "2020-09-18 07:44:06",
-        "replyContent": "Hi Duke, sorry you\u2019ve experienced technical difficulties with the app. Our team is looking into this for you. Thank you.",
-        "repliedAt": "2020-09-21 18:57:32"
-    },
-    {
-        "reviewId": "gp:AOqpTOFOuHLYvFyxutMJPCsznap07xAvaH7-r7sTEtSe_P1t5KOVbwingPU4R8SxSuD-Ga0C0XxgpBVLsxQmxg",
-        "userName": "Peyton Adams",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhiJpl2A_2H-RzECsgtq_O9phV0qYrG4sYqRdqa",
-        "content": "Downloaded the app but can't get passed the \"enable covid alert\" part i click it and nothing happens",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.0.7",
-        "at": "2020-09-18 05:44:03",
-        "replyContent": "You may need to check if your phone has the Google Play Store and latest app store updates. Please refer to our Help Page for support guides and additional details: https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19/covid-alert/help.html. If you encounter further issues, please reach out to CDS-SNC@tbs-sct.gc.ca.",
-        "repliedAt": "2020-09-21 18:56:18"
     }
 ]

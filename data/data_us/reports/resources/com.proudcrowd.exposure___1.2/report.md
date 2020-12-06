@@ -188,8 +188,6 @@ The Care19 Alert app has been installed by more than **10000** times. At this ti
 
 > It thinks I'm in North decode and Wyoming but I live in utah.<br> :date: __2020-11-29 20:27:49__
 
-> Informative<br> :date: __2020-11-29 13:28:18__
-
 > It worked when I first downloaded it now it stopped working and can't get it to work at all. I tried everything. How can I get it to work please help<br> :date: __2020-11-24 03:25:10__
 
 
@@ -210,11 +208,11 @@ The Care19 Alert app has been installed by more than **10000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="com.proudcrowd.exposure 1 reviews"/>
 </p>
 
+> Shouldn't have any sort of tracker like this. If there isn't one for the flu or any other virus we shouldn't have it for this.<br> :date: __2020-12-01 08:59:39__
+
 > App has stopped checking for recent exposures .<br> :date: __2020-11-23 04:34:00__
 
 > Doesn't do what it should. Just takes up space on your phone or tablet<br> :date: __2020-11-21 15:36:41__
-
-> Shouldn't have any sort of tracker koek this. If there isn't o e for the flu or any other virus we shouldn't have it for this.<br> :date: __2020-11-16 07:06:44__
 
 > Not any relevant information for right now!! 11-15-20<br> :date: __2020-11-16 04:25:29__
 

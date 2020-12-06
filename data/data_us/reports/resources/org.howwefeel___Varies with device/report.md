@@ -176,6 +176,14 @@ The HowWeFeel: The How We Feel Project app has been installed by more than **100
 <img src="5_star_reviews_wordcloud.png" alt="org.howwefeel 5 reviews"/>
 </p>
 
+> It help me keep a record of how i feel daily<br> :date: __2020-12-05 14:03:55__
+
+> Makes my day early to see it a great morning even being depressed.<br> :date: __2020-12-03 19:12:37__
+
+> Easy and quick to use. Support mental health<br> :date: __2020-12-02 14:38:53__
+
+> Actually pretty slick in terms of design<br> :date: __2020-11-30 16:35:24__
+
 > Easy way to track health and possible covid<br> :date: __2020-11-30 05:03:08__
 
 > You are such good peaple thank you for being so kind!<br> :date: __2020-11-26 00:47:10__
@@ -187,14 +195,6 @@ The HowWeFeel: The How We Feel Project app has been installed by more than **100
 > Good information to have and dhare<br> :date: __2020-11-16 03:59:32__
 
 > So far so good<br> :date: __2020-11-13 18:36:02__
-
-> Super easy to use! Great work<br> :date: __2020-11-02 22:43:42__
-
-> Such an easy app to navigate, percise and very well laid out.<br> :date: __2020-10-30 22:43:49__
-
-> Nice app to stay positive<br> :date: __2020-10-28 17:57:14__
-
-> Interesting APP Easy to Use<br> :date: __2020-10-28 03:07:53__
 
 
 
@@ -288,6 +288,8 @@ The HowWeFeel: The How We Feel Project app has been installed by more than **100
 <img src="1_star_reviews_wordcloud.png" alt="org.howwefeel 1 reviews"/>
 </p>
 
+> The app will not run on my Galaxy S 10+. It cones up and stops within a second or 2. I've uninstalled and reinstalled multple times.<br> :date: __2020-11-30 14:14:54__
+
 > Update sucks, can no longer scroll through numbers from past dates. Numbers for total cases and icu cases are often wrong showing the same digits for both categories.<br> :date: __2020-11-27 07:37:52__
 
 > Doesn't work anymore. Don't know why. I've uninstalled the app and reinstalled it, still doesn't work!<br> :date: __2020-11-22 16:25:11__
@@ -305,7 +307,5 @@ The HowWeFeel: The How We Feel Project app has been installed by more than **100
 > App no longer works. Fix it or take it down<br> :date: __2020-11-13 03:43:18__
 
 > Doesn't even open anymore<br> :date: __2020-11-12 18:27:03__
-
-> App attempts to open the closes. Huge update failure.<br> :date: __2020-11-06 21:45:58__
 
 

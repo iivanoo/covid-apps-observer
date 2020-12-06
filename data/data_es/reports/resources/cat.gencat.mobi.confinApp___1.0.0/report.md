@@ -187,6 +187,8 @@ The CONFINAPP app has been installed by more than **10000** times. At this time,
 <img src="1_star_reviews_wordcloud.png" alt="cat.gencat.mobi.confinApp 1 reviews"/>
 </p>
 
+> No se abre la aplicación.<br> :date: __2020-12-04 07:37:31__
+
 > Muy mala no renueva certificado,de pena.<br> :date: __2020-11-08 10:49:39__
 
 > No funciona, no genera certificados<br> :date: __2020-11-06 07:31:59__
@@ -204,7 +206,5 @@ The CONFINAPP app has been installed by more than **10000** times. At this time,
 > No funciona. No crea nuevos certificados.<br> :date: __2020-10-31 13:23:34__
 
 > App que només ha estat útil durant un parell de mesos. Es podria seguir fent sevir per indicar les mesures en vigor i per gestionar certificats de desplaçament, però inexplicablement s'ha deixat d'actualitzar, com totes les apps que va idear la Generalitat per la situació CoVID-19 en un inici. Apps inútils que han costat diners públics.<br> :date: __2020-10-28 21:47:50__
-
-> Penosa app, se rien en tu cara<br> :date: __2020-07-01 10:52:14__
 
 

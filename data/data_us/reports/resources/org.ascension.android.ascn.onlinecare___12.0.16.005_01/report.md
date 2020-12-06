@@ -192,6 +192,10 @@ The Ascension Online Care – See a Doctor 24/7 app has been installed by more t
 <img src="5_star_reviews_wordcloud.png" alt="org.ascension.android.ascn.onlinecare 5 reviews"/>
 </p>
 
+> Timely and efficient service!<br> :date: __2020-12-01 19:13:56__
+
+> Excellant virtual no complaints<br> :date: __2020-11-30 22:36:41__
+
 > Good for when you need it.<br> :date: __2020-11-28 06:55:35__
 
 > Wonderful<br> :date: __2020-11-26 09:10:25__
@@ -207,10 +211,6 @@ The Ascension Online Care – See a Doctor 24/7 app has been installed by more t
 > Easy-to-use and nice that I didnt have to actually go to the doctor<br> :date: __2020-11-16 20:47:38__
 
 > Easy and simple to use and has excellent video and audio quality! I had a visit with my son's doctor and it's so much better than needing to go in to the office!<br> :date: __2020-11-16 19:38:17__
-
-> This app was easy to enroll and use!!!<br> :date: __2020-11-16 17:38:13__
-
-> Awesome mush better than going in due to COVID-19. Much safer..<br> :date: __2020-11-13 22:46:43__
 
 
 
@@ -298,6 +298,8 @@ The Ascension Online Care – See a Doctor 24/7 app has been installed by more t
 <img src="1_star_reviews_wordcloud.png" alt="org.ascension.android.ascn.onlinecare 1 reviews"/>
 </p>
 
+> Had a virtual appointment today that I couldn't attend because the app keeps closing on me!!!!<br> :date: __2020-11-30 22:03:04__
+
 > My doctor couldnt get thru and my tablet wasnt compable<br> :date: __2020-11-21 17:16:34__
 
 > Get to the insurance part and I can't log in since only 4 listed and mine is not. Yey you have to put something in that spot. Uninstaller app. Guess I'll have to call doctor.<br> :date: __2020-11-16 15:29:12__
@@ -315,7 +317,5 @@ The Ascension Online Care – See a Doctor 24/7 app has been installed by more t
 > Waste of money, first time meeting a new doctor and she kept pushing a prescription on me. I'm not paying for a prescription that I'm not even sure I'll need. Doctor had horrible bedside manners too. Waste of a co-pay.<br> :date: __2020-10-01 17:17:51__
 
 > Download just spins and spins. Wont do anything<br> :date: __2020-09-17 23:49:55__
-
-> Charged me for a 30 second visit, complained about a UTI and they asked me how long its been since my last one. 3 months. I was told they couldn't help because it hasn't been 4 months. Now I paid $60 for nothing. Total BS.<br> :date: __2020-08-12 03:45:34__
 
 

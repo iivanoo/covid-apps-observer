@@ -283,6 +283,8 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <img src="1_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 1 reviews"/>
 </p>
 
+> Para baixar tenho de desativar outras aplicações<br> :date: __2020-12-04 15:52:30__
+
 > Bosta<br> :date: __2020-11-26 12:43:32__
 
 > Nulidade como tudo do SNS e aldrabices<br> :date: __2020-11-25 09:53:11__
@@ -300,7 +302,5 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 > "MySNS parou". Tal nota sempre existiu porque o App não vale nada. E o desinstalei, esperando que melhore. O registo não se consegue. E a Chave Móvel Digital, difícil de obter, para quê? Se o cartão de cidadão tem o nr de utente, não seria bastante para identificar o utente, com uma password? Ademais, o utente quer marcar suas consutas, evitando as filas no centro de saúde, e em alguns casos, pedir suas receitas e recebê-las via App. A simplicidade é o segredo do sucesso.<br> :date: __2020-10-26 04:06:47__
 
 > Não funciona. Remete para o portal. Logo não serve para nada.<br> :date: __2020-10-22 11:53:50__
-
-> Este nojo nem login deixa fazer. Vergonha de ser português<br> :date: __2020-10-10 20:55:33__
 
 

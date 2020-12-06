@@ -121,7 +121,9 @@ The CO Exposure Notifications app has been installed by more than **100000** tim
 <img src="5_star_reviews_wordcloud.png" alt="gov.co.cdphe.exposurenotifications 5 reviews"/>
 </p>
 
-> Id like to go to vegas with you blood does he know who u r to maww<br> :date: __2020-11-28 17:25:21__
+> Right<br> :date: __2020-12-01 05:36:13__
+
+> very informative, thanks<br> :date: __2020-12-01 02:39:23__
 
 > I love this app cause it is easy to use and understand, it's also a great way to stay safe from the pandemic!<br> :date: __2020-11-28 06:33:21__
 
@@ -138,8 +140,6 @@ The CO Exposure Notifications app has been installed by more than **100000** tim
 > Anonymous and opt-in only so your information and privacy is protected. Since it's release, the old manual verification system has been updated to be more automated. This app can save lives and works better when more users have it installed.<br> :date: __2020-11-20 19:54:03__
 
 > Yes. It is safe to use. It uses tokens and your identity is kept private. Please, please do your part and help stop/track the spread!<br> :date: __2020-11-20 05:29:03__
-
-> This app is great to have.<br> :date: __2020-11-19 07:30:26__
 
 
 
@@ -227,24 +227,24 @@ The CO Exposure Notifications app has been installed by more than **100000** tim
 <img src="1_star_reviews_wordcloud.png" alt="gov.co.cdphe.exposurenotifications 1 reviews"/>
 </p>
 
+> Turning on notifications gives an error.<br> :date: __2020-12-04 00:05:45__
+
+> I discovered the magic link was being texted to my home phone number! Mine is through Google Voice so I get an email copy. That email goes to a seldom used gmail address and the link won't open on anything but my mobile phone but clicking on the link bypasses the need for a code. Still one star. There's no documentation, it's pretty stupid to text a home phone especially when you have an email address and you shouldn't have to have an engineering degree to figure out reporting.<br> :date: __2020-12-03 19:35:08__
+
+> INTRUSIVE ▪ B I G ▪ B R O T H E R ▪ AT ITS FINEST! INSTALLED WITHOUT KNOWLEDGE OR AGREEMENT OF PERMISSION, ONTO MILLIONS OF PHONES, WHETHER YOU WANTED IT OR NOT! BEWARE OF THESE TYPES OF APPLICATIONS AND INTRUSIVE METHODS. THEY ARE A THREAT TO THE FREEDOM OF ALL! IN FACT, READ THE PERMISSIONS YOU'RE AGREEING TO, WHEN YOU DOWNLOAD MOST ANY APP THESE DAYS. YOU ARE GIVING UP YOUR RIGHTS AND FREEDOM, A LITTLE AT A TIME, UNTIL THEY ARE ALL GONE ! ! ! ! ! JUST ▪ S A Y ▪ "N O !" 🚫<br> :date: __2020-12-03 12:40:20__
+
+> OMG. I've tested positive, but I can't relay this information because I need a verification code from some medical person. I went through a drive through to get tested, and got results through email. No verification code. This is worthless!!!<br> :date: __2020-12-02 22:30:31__
+
+> I work with COVID patients. I haven't been alerted once in 1.5 weeks about a known positive, and I've been exposed each work day. I go to work and go home but many don't.. Definitely do not depend on this app. It's a wonderful idea in theory, though!<br> :date: __2020-12-02 05:51:45__
+
+> Time is of the essence! Trying to help a friend report a positive, but without the code it's pointless. Why create a roadblock like this that slows down awareness for everyone???<br> :date: __2020-12-01 11:26:38__
+
+> Have the developers done away with the requirement for the verification code?I didnt see 1 review where a person stated the app successfully notified them.I did see plenty where ppl said it failed to.That's a good indication that something has got to be done.Perhaps notify ppl that there is a chance they came in contact with a user who reported positive results, however verification is still pending?When talking importance, 1st over all should be the need for users to report pos results IMMEDIAT<br> :date: __2020-12-01 09:50:45__
+
+> Cannot turn on. Says: Something went wrong. Try again. 11.30 - still getting same error<br> :date: __2020-11-30 22:21:57__
+
+> Not able to turn on notifications with Android phone. Needs verification code.<br> :date: __2020-11-30 20:23:49__
+
 > I have been a few feet away from someone who has tested positive for Covid. Was never notified.<br> :date: __2020-11-29 12:53:46__
-
-> I've tried downloading twice. App doesn't work and won't let me turn it on. Useless<br> :date: __2020-11-27 16:26:33__
-
-> Por q no solo dicen si lo tienes o no<br> :date: __2020-11-26 21:04:04__
-
-> I really do not know if this app really works. I have been sitting in the hospital parking lot for a few hours and have got no notifications and I know there are people inside that are positive.<br> :date: __2020-11-26 19:25:26__
-
-> Worthless app. Thankfully it's a free app so I got what I paid for. Asks me over and over to turn on notifications but always get "something went wrong" error message when trying to turn on. Deleted app. Too bad app developer has crappy skills.<br> :date: __2020-11-26 15:28:05__
-
-> I don't know if it works<br> :date: __2020-11-26 14:55:04__
-
-> Worthless<br> :date: __2020-11-25 23:43:41__
-
-> Won't turn on in the app. Keeps saying something wrong.<br> :date: __2020-11-24 23:32:43__
-
-> Error can't turn on notifications<br> :date: __2020-11-24 04:19:07__
-
-> It asks for a verification number that you can not get so it is useless at this point. No instructions on how to get one.<br> :date: __2020-11-23 01:51:56__
 
 

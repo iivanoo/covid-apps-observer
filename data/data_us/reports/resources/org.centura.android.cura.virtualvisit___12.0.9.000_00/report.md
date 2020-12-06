@@ -199,6 +199,8 @@ The Centura Health Virtual Care app has been installed by more than **10000** ti
 <img src="5_star_reviews_wordcloud.png" alt="org.centura.android.cura.virtualvisit 5 reviews"/>
 </p>
 
+> System works without a hitch! I have had zero problems on my smartphone! Actually come to like virtual visits. I don't have to leave home, I save time and fuel!<br> :date: __2020-12-01 19:06:22__
+
 > Very easy set up and great video and audio.<br> :date: __2020-11-16 22:21:32__
 
 > Live this app. Very easy to use and helpful. Safe<br> :date: __2020-11-06 18:13:37__
@@ -216,8 +218,6 @@ The Centura Health Virtual Care app has been installed by more than **10000** ti
 > Absolutely Wonderful<br> :date: __2020-10-07 17:28:20__
 
 > Great<br> :date: __2020-10-05 21:39:33__
-
-> Good STUFF!!<br> :date: __2020-09-25 20:24:11__
 
 
 

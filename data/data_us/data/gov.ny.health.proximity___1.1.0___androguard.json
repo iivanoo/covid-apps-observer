@@ -1,0 +1,39 @@
+{
+    "permissions": [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        "android.permission.VIBRATE",
+        "android.permission.ACCESS_WIFI_STATE",
+        "android.permission.BLUETOOTH",
+        "android.permission.INTERNET",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+        "android.permission.FOREGROUND_SERVICE"
+    ],
+    "activities": [
+        "gov.ny.health.proximity.MainActivity",
+        "com.facebook.react.devsupport.DevSettingsActivity",
+        "com.google.android.gms.auth.api.signin.internal.SignInHubActivity",
+        "com.google.android.gms.common.api.GoogleApiActivity"
+    ],
+    "urls": [
+        "http://www.android.com/",
+        "https://accounts.google.com/o/oauth2/revoke?token=",
+        "https://plus.google.com/",
+        "https://google.com/search?",
+        "https://app-measurement.com/a",
+        "https://%s/%s/%s",
+        "http://schemas.android.com/apk/res/android",
+        "https://pagead2.googlesyndication.com/pagead/gen_204?id=gmob-apps",
+        "https://expo.io",
+        "https://firebase-settings.crashlytics.com/spi/v2/platforms/android/gmp/%s/settings",
+        "https://update.crashlytics.com/spi/v1/platforms/android/apps",
+        "https://update.crashlytics.com/spi/v1/platforms/android/apps/%s",
+        "https://reports.crashlytics.com/spi/v1/platforms/android/apps/%s/reports",
+        "https://reports.crashlytics.com/sdk-api/v1/platforms/android/apps/%s/minidumps",
+        "https://www.googleapis.com/auth/games_lite",
+        "https://www.googleapis.com/auth/games",
+        "http://schemas.android.com/apk/res-auto",
+        "https://www.google.com",
+        "https://www.googleadservices.com/pagead/conversion/app/deeplink?id_type=adid&sdk_version=%s&rdid=%s&bundleid=%s&retry=%s"
+    ]
+}

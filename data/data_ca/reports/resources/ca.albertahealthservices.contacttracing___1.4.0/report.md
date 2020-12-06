@@ -145,6 +145,10 @@ The ABTraceTogether app has been installed by more than **50000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="ca.albertahealthservices.contacttracing 5 reviews"/>
 </p>
 
+> Works well my old pixel 2 xl and my current pixel 5. No noticeable battery issues or crashing. Had it up an running in less then 3min.<br> :date: __2020-12-05 00:13:36__
+
+> Seems good so far. I have been running the App for 12 Hrs, and the phone claims it's consuming 1.1% of all battery usage. I would hope most of negative reviews arn't a partisan attack, because it will deter more people from using the app, which will render it useless. Do your part folks!<br> :date: __2020-12-03 18:53:38__
+
 > This app has been developed in Mumbai 👍🏻<br> :date: __2020-11-26 06:41:20__
 
 > Our Governments are failing us.<br> :date: __2020-11-17 15:25:10__
@@ -160,10 +164,6 @@ The ABTraceTogether app has been installed by more than **50000** times. At this
 > It works. This app works and does not crash. If you're worried about battery life, you can do more by turning down your screen brightness than by not using this app.<br> :date: __2020-11-07 05:36:10__
 
 > Good app, does not drain my battery and provide me with some sort of security that If I am close to someone infected i will know. We all that live in Alberta should use it thanks<br> :date: __2020-10-16 06:19:47__
-
-> Best<br> :date: __2020-10-16 03:49:40__
-
-> I just feel safer in having this app. Thank you...<br> :date: __2020-10-08 05:34:20__
 
 
 
@@ -201,6 +201,8 @@ The ABTraceTogether app has been installed by more than **50000** times. At this
 <img src="3_star_reviews_wordcloud.png" alt="ca.albertahealthservices.contacttracing 3 reviews"/>
 </p>
 
+> Good<br> :date: __2020-12-03 11:14:09__
+
 > I have uninstalled this app. I was the early adopter of this app but now that the national app is available, I want to switch over to that one. I have uninstalled it to voice my option and hopefully my Alberta government will see the drop-off installment of this app to take appropriate action.<br> :date: __2020-11-02 16:52:14__
 
 > Huge drain on battery esp after first installing and after installing a recent update update. After first install it sorted itself out after about a week. Hope it does the same after this update (it is draining my battery completely after a few hours and normally I can go all day without dropping below 40 per cent). Great idea just needs to be optimized a bit more.<br> :date: __2020-10-08 06:33:13__
@@ -218,8 +220,6 @@ The ABTraceTogether app has been installed by more than **50000** times. At this
 > It's irritating that it has a large notification on my screen all the time to note that it's running, rather than an icon, or the option to just run in the background without that. Worse, it drains my battery, using as much power as almost everything else I run combined. I'd like to use it, but this isn't feasible.<br> :date: __2020-08-27 01:11:47__
 
 > Extreme battery usage on a Pixel 2. Want to keep it don't know what to do<br> :date: __2020-08-20 06:30:42__
-
-> Please listen to everyone and make an on/off option. This only needs to be on when we go out in public and will just be an added step such as bringing a mask.<br> :date: __2020-08-11 05:33:38__
 
 
 
@@ -257,24 +257,24 @@ The ABTraceTogether app has been installed by more than **50000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="ca.albertahealthservices.contacttracing 1 reviews"/>
 </p>
 
+> What gives this provincial government the audacity to intentionally block a proven federal tool that can aide my health and relieve the burden of your provincial failures? Communist China had more options than you are allowing us.<br> :date: __2020-12-05 15:05:57__
+
+> Well on the downside it doesn't work at all. But on the plus side it drains my battery so I can't spend as much time learning what a terrible job Kenney is doing with the pandemic. I call it a lose-lose situation<br> :date: __2020-12-05 05:47:32__
+
+> Doesn't communicate with iPhones. Doesn't work in background mode. Drains battery. Doesn't work without contact tracers who aren't tracing general population. Non functional app.<br> :date: __2020-12-04 21:45:54__
+
+> IS ANYBODY ELSE USING THIS APP? I did find a way to run this app on my Android 8 that doesn't kill the battery and is not taking up the notification bar by displaying a huge notification area. And yes it is still running in the background.<br> :date: __2020-12-04 20:16:51__
+
+> Kept shutting down. Used a lot of battery when it was operaring. Province should have used the national app. Which actually seems to work.<br> :date: __2020-12-04 17:52:53__
+
+> This is not just embarrassing, it's infuriating. People are DYING, JASON.<br> :date: __2020-12-03 16:21:18__
+
+> It causes serious battery consumption due to having to leave bluetooth on and has too many bugs to be a reliable form of contact tracing<br> :date: __2020-12-01 01:39:56__
+
 > Well documented in the press that this app doesn't work.<br> :date: __2020-11-30 02:35:24__
 
 > I'm not giving you GPS acces FOH. Let us use the federal one<br> :date: __2020-11-28 22:34:33__
 
 > Told it doesn't work<br> :date: __2020-11-28 21:24:41__
-
-> Does not work. Drains the battery.<br> :date: __2020-11-28 20:23:25__
-
-> Terrible I have the federal app running in the background with no battery drain for weeks. I decided to add tracetogether in case it was more useful in an outbreak I'm close to in Alberta. Well it not very useful if it kills my battery twice as quickly as normal. I guess I'm counting on the Feds for this as well.<br> :date: __2020-11-28 10:32:51__
-
-> Does not work. Poor performance. Garbage.<br> :date: __2020-11-28 03:27:27__
-
-> Drains the battery big time, and aren't we supposed to be using the federal app? Quite useless if it's only detected 20 whole cases of covid. Also useless if my battery is dead before 11am due to how much battery this drains. Also, why is this using location data when it should only be running off of Bluetooth?<br> :date: __2020-11-28 03:18:02__
-
-> Doesn't work as described. Alberta should be using the federal tracing app.<br> :date: __2020-11-28 02:57:55__
-
-> Awful execution, and an outright political act. Needs to be removed and the federal app launched in Alberta.<br> :date: __2020-11-28 02:39:11__
-
-> Beware... this app drains your battery if you are an iPhone user and does not seem to work properly. Also privacy issues may be of concern.<br> :date: __2020-11-28 01:29:53__
 
 

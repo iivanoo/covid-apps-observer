@@ -1,0 +1,16 @@
+{
+    "permissions": [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.INTERNET",
+        "com.android.vending.BILLING"
+    ],
+    "activities": [
+        "ca.albertahealthservices.bugsanddrugs2.MainActivity"
+    ],
+    "urls": [
+        "https://ssl.gstatic.com/accessibility/javascript/android/",
+        "https://*/*",
+        "http://*/*"
+    ]
+}

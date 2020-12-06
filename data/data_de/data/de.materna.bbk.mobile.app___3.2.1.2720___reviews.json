@@ -1,5 +1,257 @@
 [
     {
+        "reviewId": "gp:AOqpTOFKCoXGE1WfFQ1QLzu0nZdQ6nZWqUTIrYY7QxEO1qcvzzkvsGmSzBGFB7eo-lXrg9AkDEumc2PxC5PfhA",
+        "userName": "Heike Loos",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi5LG-VFSYL538OOy5Z2ZkNtgcFvBItlik27jb4RA",
+        "content": "Werde nicht mehr benachrichtigt von der Nina App. Bringt mir eigentlich nix mehr. Hat zu Beginn der App mal funktioniert, jetzt nicht mehr.Schade :-(",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.2.1.2720",
+        "at": "2020-12-05 17:57:13",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOEVTSQipYTX-6dbUv5DNzKgfNgNOKArYZ2oZBow6-93Gsr-2kJ1rwUjAb6utfHHWDy6AcQ2KwlCFqEENQ",
+        "userName": "Paul Hartmann",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GimMgUURAt830Yaij6HLWRQE-ZL-KiurLQRqs8b",
+        "content": "Heute Sirenengeheul, Nina schl\u00e4ft. So eine App braucht niemand.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.2.1.2720",
+        "at": "2020-12-05 14:20:23",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOH08RSXH5EDZ_ie5mphK-ycFTsJZXl0mm3sRMqDrrfR-BY_VQU2pHjJJZRUTyttGDxUCFYmHeOXp32dKw",
+        "userName": "Ronja Kostanzer",
+        "userImage": "https://play-lh.googleusercontent.com/-JeRkQlFn4s0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn9B1jGLs8OyzqHx1rC-mC-TG8mQg/photo.jpg",
+        "content": "Ich wurde nie benachrichtigt und somit hat die app den Sinn verfehlt meiner Meinung nach Huawei MYA-L41 Android 6.0",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2020-12-05 13:25:36",
+        "replyContent": "Hallo, welches Smartphone und welche Android-Version nutzen Sie? Diese Angaben helfen uns bei der Fehlersuche. F\u00fcr eine kurze Info w\u00e4re ich Ihnen sehr dankbar. MfG NINA-HD",
+        "repliedAt": "2020-12-04 16:33:58"
+    },
+    {
+        "reviewId": "gp:AOqpTOEaWLMqTvkHELGjgXsW3MAq1mlKmQ5AEThBQc3-mGMsPzRs6VP0ZcfzP3KaG4oRHttzyfMekeDLDejujw",
+        "userName": "Stephanie St\u00e4dele",
+        "userImage": "https://play-lh.googleusercontent.com/-tl1i4XtjWhs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmLDWTlYgwRdMxqBtOlbVOAiefaSA/photo.jpg",
+        "content": "Update: eine Neuinstallation hat schon mal so viel gebracht, dass ich wieder Einstellungen vornehmen kann. Ob ich auch Push Mitteilungen bekomme, wird sich zeigen. Viele Dank f\u00fcr die Antwort. Ich kann keine Push Meldungen aktivieren, weil ich beim Aktivierungsversuch immer die Meldung bekomme, dass ich nicht mit dem Internet verbunden w\u00e4re... Ich werde daher NIE benachrichtigt",
+        "score": 3,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "3.2.1.2720",
+        "at": "2020-12-05 13:12:59",
+        "replyContent": "Hallo, bitte deinstallieren Sie die Warn-App NINA, warten mindestens 10 Minuten und installieren Sie die Warn-App erneut. Sollten Sie danach weiterhin diese Fehlermeldung erhalten, w\u00e4re ich f\u00fcr eine kurze Info sehr dankbar. MfG NINA-HD",
+        "repliedAt": "2020-12-04 16:48:51"
+    },
+    {
+        "reviewId": "gp:AOqpTOEytFS-MluPWMuGT4Z1hdHCVAVAOHAXfMz1t5a8AG4Y6sYlDqMe9jzBxEptSF5nHTW4O4QdMI0Hpgy9-A",
+        "userName": "Michael Remagen",
+        "userImage": "https://play-lh.googleusercontent.com/-kRZS3VmfM7M/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl1QGI6oy4Jo4UrqHKWuIKqsMTOUQ/photo.jpg",
+        "content": "Funktioniert leider nicht mehr so wie zu Beginn. Warnmeldungen tauchen erst auf, wenn man die App aktiv \u00f6ffnet, die Push-Benachrichtigung l\u00e4uft nicht mehr.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.2.1.2720",
+        "at": "2020-12-05 12:15:24",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGZY67nGh9DrbGukNuGw0AHzJKi17USvcn2XOh7_6YiUAgUJGGvzKCuYMa7hiTPESqTqMwwGh2-DaKavQ",
+        "userName": "Gisela Frank",
+        "userImage": "https://play-lh.googleusercontent.com/-mkgybExAcV4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckdG8H0kBkAiV_sGCDM2KPVAtHcXg/photo.jpg",
+        "content": "Die App aktualisiert sich nicht.Alte Meldungen kann ich nicht ansehen. Wann gab es die letzten neuen Infos? Ausser kreisen passiert nichts. Die letzten Infos kamen mit reichlich Versp\u00e4tung rein.",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.2.1.2720",
+        "at": "2020-12-05 12:08:04",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFLGx98wI6rrov8eJc6H9n18nwLOG_Ag31ZeXyzKNpzGPwSO4eXkJNWz7beN2aKhnBCX0TqPVNXNtqGng",
+        "userName": "Grazyna Piekarski",
+        "userImage": "https://play-lh.googleusercontent.com/-34rXsmkbFpk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclwPF6UbIVDhXV4vLjw5ywO4V266Q/photo.jpg",
+        "content": "Funktioniert nicht richtig keine Warnung Benachrichtigungen samsung galaxy s8",
+        "score": 1,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": null,
+        "at": "2020-12-05 12:04:43",
+        "replyContent": "\u00d6ffnen Sie \"Einstellungen\" im Handy und w\u00e4hlen \"Apps\". W\u00e4hlen Sie NINA, f\u00fcr die Sie Benachrichtigungen erhalten m\u00f6chten. Tippen Sie auf \"Benachrichtigungen\" , schieben den Regler nach rechts, um diese zu aktivieren. Zus\u00e4tzlich m\u00fcssen Sie einstellen: Einstellungen - Akku - Akku-Leistungsoptimierung - Alle Apps - NINA auf nicht optimieren setzen.",
+        "repliedAt": "2020-02-25 13:13:49"
+    },
+    {
+        "reviewId": "gp:AOqpTOFkWJBrcr2MVZEWNfUZEy-ZytBAmVaMCC3vzoVwJxN3n3AYFgy5pi_zN0TrIyZAZcdBQpaGNb9jPIEssg",
+        "userName": "Ben Lion",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgX7QYFqd-YOezycBiIX6hmUCpxNjvapGvQamMRbA",
+        "content": "Funktioniert nicht",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.2.1.2720",
+        "at": "2020-12-05 11:14:54",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOEogvksTur6LvEuSiom9vdkskNFQaB2T53UvKnQJt-D5CykSlrlnGjli4jleEjWUmDv1Cmx-dXIcjOUFA",
+        "userName": "Ralf Kirchner",
+        "userImage": "https://play-lh.googleusercontent.com/-V80s_mbRbUg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckJ8beypI0DTpFnfbPVXDlPnnFFVg/photo.jpg",
+        "content": "Seit einiger Zeit werden keine Warnungen mehr angezeigt. Erst wenn die app ge\u00f6ffnet wird sieht man aktuelle Warnungen. Keine Warnungen machen die App leider ziemlich nutzlos. Wieso klappt das bei anderen Apps und bei der Corona und Nina App nicht .... bestimmt die selben Programmierer Leider brachte der Tipp mit deinstallieren und neu installieren auch nicht die L\u00f6sung. Das kann auch nicht die L\u00f6sung sein da es bei 2 Ger\u00e4ten der Fall ist (Smartphone & Tablet).",
+        "score": 1,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "3.2.1.2720",
+        "at": "2020-12-04 19:30:05",
+        "replyContent": "Hallo, bitte deinstallieren Sie die Warn-App NINA, warten mindestens 10 Minuten und installieren Sie die Warn-App erneut. Sollten Sie dann weiterhin keine Warnungen erhalten, w\u00e4re ich f\u00fcr eine kurze Info sehr dankbar. MfG NINA-HD",
+        "repliedAt": "2020-12-04 16:45:55"
+    },
+    {
+        "reviewId": "gp:AOqpTOGMX9DGoRFp2GWt8RoFOJ0zWUBFnbjtGUyoLmeZteHgAkfoU-jIUp-61XZsaFePlnfG3w9s1idAhibs9A",
+        "userName": "Lumpi Germany",
+        "userImage": "https://play-lh.googleusercontent.com/-FANn11Q621k/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnawWK22VzeDLGNmXhrtTAkFtGOYQ/photo.jpg",
+        "content": "ihr hab wo ne macke?! nachts um 12 nenn corona hinweis zu schicken! ... ja ich wei\u00df um die deaktivirung ... aber aus meiner sicht is es nicht n\u00f6tig 23:50 uhr eine meldung f\u00fcr coronaregeln zu senden , die eh erst 4 tage sp\u00e4ter in kraft tritt",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.2.1.2720",
+        "at": "2020-12-04 16:51:08",
+        "replyContent": "Hallo, Sie k\u00f6nnen die Hinweise zu Corona unten im Coronabereich unter aktuelle Informationen deaktivieren. So erhalten Sie aber weiterhin die Bev\u00f6lkerungsschutzwarnungen. MfG NINA-HD",
+        "repliedAt": "2020-12-04 16:42:14"
+    },
+    {
+        "reviewId": "gp:AOqpTOGA8zIUM2GAgKxe0Wc29HJx6v42oDo-CeXbfr2AksQD4cdK52wWojALFFaOtLo5J7qXKuqNXlUmXPw75A",
+        "userName": "Detlef Ehrhardt",
+        "userImage": "https://play-lh.googleusercontent.com/-yAotQH6z10Q/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclU9mkIvJA_5KAXbsn2eYzgWQSmDg/photo.jpg",
+        "content": "Kann sie nicht bewerten, da schon wieder deinstalliert",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2020-12-04 12:38:17",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGuN1vFtJl7NZ1WyzqjKMvoXCsNu-XmeTOHV1BMrXxaBOUEMVKq2o6Vsa_5_IwzAsKqIKulaPuYYGE-kg",
+        "userName": "K C A",
+        "userImage": "https://play-lh.googleusercontent.com/-YN1KaIu8S5w/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclM2s8u-MKw_ep2KE5uDWzKhsQK1w/photo.jpg",
+        "content": "Bisher dachte ich, dass diese App etwas taugt. Aber der bundesweite Probealarm von heute 11:00 ist noch immer nicht (jetzt ist es 15:06) auf meinem Handy angekommen. Also im wirklichen Ernstfall nicht zu gebrauchen und 1 Stern ist noch zuviel bewertet ... Nachtrag vom 04.12.2020: Die R\u00fcckfrage des BBK vom 10.09.2020 (Tag des Probealarms) habe ich am gleichen Tag beantwortet, aber nie eine Antwort erhalten. Entt\u00e4uschend...\u2639",
+        "score": 1,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "3.2.1.2720",
+        "at": "2020-12-04 06:54:48",
+        "replyContent": "Hallo, wir werten das Ergebnis zum Warntag zur Zeit aus, es wurden technische Ver\u00e4nderungen im Hintergrund vorgenommen. Zur Zeit testen wir eine neue Version der Warn-App - diese wird in K\u00fcrze f\u00fcr die Nutzer freigeschaltet. Hier bitte ich noch um etwas Geduld. Bitte pr\u00fcfen Sie nach der Aktualisierung, ob Sie weiterhin keine Warnungen erhalten.",
+        "repliedAt": "2020-12-04 16:36:40"
+    },
+    {
+        "reviewId": "gp:AOqpTOEceCGfwT7-DGUnOn1sSCsBi3xXhlVaVW-COCdxuG2GEDAEE2i1ZaUbdEUNlOCHa12voOuDBaCvaglAOg",
+        "userName": "Mark Tielmann",
+        "userImage": "https://play-lh.googleusercontent.com/-SN8Hd7pK8Kw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckJxJXyxC1X4oyNfHL6f8O58n4rwA/photo.jpg",
+        "content": "Nicht schlecht",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.2.1.2720",
+        "at": "2020-12-03 23:09:53",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHXeMdtCdvxXWsYg6mTDyJN8tQ0k4xNrA2SzhwX4J6FLXhXmSE82OMvkEpsYtZcR7RwPKWvoolyYMBO3g",
+        "userName": "Maik Friebe",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgzNdW1s4wsI6Isp4nvE5m7VAIuPhJQf6LNSUc_",
+        "content": "Einfach nur grottig. Mitteilungen werden gar nicht oder mit Tagen Verz\u00f6gerung angezeigt. In der Ansicht stehen die \u00e4lteren Eintr\u00e4ge zu erst. Die seit 1.12 geltende Allgemeinverf\u00fcgung f\u00fcr den Landkreis Mittelsachsen ist gar nicht zu finden. ...",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.2.1.2720",
+        "at": "2020-12-03 21:34:21",
+        "replyContent": "Hallo, wir testen zur Zeit eine neue Version, in der auch die aktuellen lokalen Regelungen direkt unter dem abonnierten Ort dem Nutzer zur Verf\u00fcgung stehen. Diese Version stellen wir - nach Beendigung der Testphase - Ihnen \u00fcber die Stores zur Verf\u00fcgung - hier bitte ich noch um etwas Geduld. MfG NINA-HD",
+        "repliedAt": "2020-12-04 16:38:06"
+    },
+    {
+        "reviewId": "gp:AOqpTOFiYPBoea4k3g77SDyYunNqO2Tln_XFgMGjvYDaiy6_-eBUjfYk0JvUnJRh_Pv-8709oZWW6YTgsfol8Q",
+        "userName": "_ Klawodu",
+        "userImage": "https://play-lh.googleusercontent.com/-58uEiDe9Lmk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckXdchoNNLirTfu_LyBqDQJJo0C1g/photo.jpg",
+        "content": "WarnApp m\u00f6chte sich verbinden, schafft es aber nicht. Somit keine Erweiterung des Bereichs m\u00f6glich, Push-Nachrichten werden nicht ge\u00f6ffnet, bzw der Bereich wird nicht angezeigt, auf den sich die Meldung bezieht. War fr\u00fcher besser. App ist so fast unbrauchbar",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.2.1.2720",
+        "at": "2020-12-03 10:17:17",
+        "replyContent": "Hallo, leider k\u00f6nnen wir aufgrund technischer Ver\u00e4nderungen die Warn-App NINA erst ab Android-Version 6.0 anbieten. Aktuelle Warnmeldungen k\u00f6nnen Sie aber \u00fcber unsere Webseite www.warnung.bund.de abrufen. Diese Seite ist f\u00fcr mobile Ger\u00e4te wie Smartphones und Tablets optimiert. MfG NINA-HD",
+        "repliedAt": "2020-12-04 16:38:45"
+    },
+    {
+        "reviewId": "gp:AOqpTOHCkjwaTsvm3RITgCYk7xk_nKkVBrONEYDKk5DykZbE3hJw7UFIfXSesAeFSsNB2JzZd7lqTuJrsBFz0g",
+        "userName": "M. S.",
+        "userImage": "https://play-lh.googleusercontent.com/-U2E1YOvVR8c/AAAAAAAAAAI/AAAAAAAAAig/AMZuucmlSYWwmRYidft1O2B4WxhsZtnquA/photo.jpg",
+        "content": "Dies App ist jeden Cent wert, den sie kostet.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.2.1.2720",
+        "at": "2020-12-02 19:23:14",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOEPavEYphLUjtVz4dUBGQMZn554O7O_t1p5R7e7YRui1i__O20noTCfe4RNI-EaSnVoA1VAZqNYoQpMyA",
+        "userName": "Marko W",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ggj5nc9QbmnamOrKKiSY5quuPqw51B9RQHNASYMtA",
+        "content": "Gute Idee, Umsetzung verbesserungsw\u00fcrdig. Aktuell tauchen neue Corona-Verordnungen Tage versetzt auf, vom Landkreis gibt's gar keine Infos. PS: Am diesj\u00e4hrigen Warntag kam bei mir gar nichts an.",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.2.1.2720",
+        "at": "2020-12-01 20:12:21",
+        "replyContent": "Hallo, wir testen zur Zeit eine neue Version, in der auch die aktuellen lokalen Regelungen direkt unter dem abonnierten Ort dem Nutzer zur Verf\u00fcgung stehen. Diese Version stellen wir - nach Beendigung der Testphase - Ihnen \u00fcber die Stores zur Verf\u00fcgung - hier bitte ich noch um etwas Geduld. MfG NINA-HD",
+        "repliedAt": "2020-12-04 16:39:11"
+    },
+    {
+        "reviewId": "gp:AOqpTOGcdYiuJEbQX_Ylo10h-MPBhQXtJ2gniF4EfJoiQnJJHN-9b_OGmCk5KwkuiONkenWwTGYETs9Hx5di9w",
+        "userName": "Ein Google-Nutzer",
+        "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+        "content": "Update: Bundeseinheitlicher Warntag und die App hat mal wieder auf ganzer Linie versagt. Aber Corona Mist am laufenden Band senden, obwohl man es abgeschaltet hat. Selbst in Holland Corona Nachrichten von Sachsen bekommen. App wird immer schlechter - deinstalliert da nutzlos. Update: wollte sie nochmal probieren. Obwohl es einen eigenen Corona-spot gibt, wird der Mist weiterhin auch unter Gefahren-spot angezeigt. Daher wieder weg damit - die App ist und bleibt M\u00fcll.",
+        "score": 1,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "3.2.1.2720",
+        "at": "2020-12-01 18:37:54",
+        "replyContent": "Hallo, wir testen zur Zeit eine neue Version, in der auch die aktuellen lokalen Regelungen direkt unter dem abonnierten Ort dem Nutzer zur Verf\u00fcgung stehen. Diese Version stellen wir - nach Beendigung der Testphase - Ihnen \u00fcber die Stores zur Verf\u00fcgung - hier bitte ich noch um etwas Geduld. MfG NINA-HD",
+        "repliedAt": "2020-12-04 16:39:37"
+    },
+    {
+        "reviewId": "gp:AOqpTOGda65oraNlgKlhCkga_j2d4rrXTNxGKLouldgJkQhxxJAu1WLDIuc7gZXChuRzRo3PEJnL_7TcwbgWkg",
+        "userName": "Tina Julius",
+        "userImage": "https://play-lh.googleusercontent.com/-N3HaoTfW9iI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckbzRPjaX7akwRpO6lZIPXx2F1qZQ/photo.jpg",
+        "content": "Kein Aufbau zum Internet trotz w Lan. Funktioniert einfach nicht, schade",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2020-12-01 11:40:16",
+        "replyContent": "Hallo, bitte deinstallieren Sie die Warn-App NINA, warten mindestens 10 Minuten und installieren Sie die Warn-App erneut. Sollte Sie danach weiterhin diese Fehlermeldung erhalten, w\u00e4re ich f\u00fcr eine kurze Info sehr dankbar. MfG NINA-HD",
+        "repliedAt": "2020-12-04 16:40:31"
+    },
+    {
+        "reviewId": "gp:AOqpTOHt0580O_7e3SmoCm4EX2Ly58SFPIsB_q6ClLFO9u0e12ePK0FTJmtW730iLEjDnznSu_urlZN1BqeZNA",
+        "userName": "Klaus M\u00fcller",
+        "userImage": "https://play-lh.googleusercontent.com/-pl2RSASrlzk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl4n4BBq47jZgOelxazgio9v-A8tA/photo.jpg",
+        "content": "Die App funktioniert nicht zuverlaessig....Meldungen werden im appsymb angezeigt,wer wo welche...Fragez.,Warnton...Fehlanzeige...App geloescht,neu geladen...keine Aenderung...muss die Funkt. In Frage stellen....uebrigens... in der ur version funkt.alles bestens....nach dem update...unzuverlaessig,also leider nicht brauchbar!?",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.2.1.2720",
+        "at": "2020-12-01 09:16:05",
+        "replyContent": "Hallo, wir testen zur Zeit eine neue Version, in der auch die aktuellen lokalen Regelungen direkt unter dem abonnierten Ort dem Nutzer zur Verf\u00fcgung stehen. Diese Version stellen wir - nach Beendigung der Testphase - Ihnen \u00fcber die Stores zur Verf\u00fcgung - hier bitte ich noch um etwas Geduld. MfG NINA-HD",
+        "repliedAt": "2020-12-04 16:40:58"
+    },
+    {
+        "reviewId": "gp:AOqpTOGeXiCIFMrvc39sYE0jHsXiVG9ma3p4OGvJj0Rm2A1LzTZrCBe-EHRyZ8AX9zAyYQeuOhnFy-cmyT6l_A",
+        "userName": "Qwertz Asdf",
+        "userImage": "https://play-lh.googleusercontent.com/-AlXb78xpV-o/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclvGOmJaUSXGqLcT1FzQig_UuiIvQ/photo.jpg",
+        "content": "App l\u00e4sst mein Smartphone herunterfahren, da die LED rot blinkend eingestellt (wie im Falle eines leeren Akkus). L\u00e4sst sich leider nicht \u00e4ndern, somit leider nicht mehr nutzbar",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.2.1.2720",
+        "at": "2020-11-30 20:29:12",
+        "replyContent": "Hallo, bitte deinstallieren Sie die Warn-App, warten 10 Minuten und installieren Sie diese erneut. Sollte sich weiterhin dieses Verhalten zeigen, w\u00e4re ich f\u00fcr eine kurze Info, gerne \u00fcber NINA@bbk.bund.de sehr dankbar. MfG NINA-HD",
+        "repliedAt": "2020-12-04 16:43:32"
+    },
+    {
         "reviewId": "gp:AOqpTOFYy2c0ClwBSIEfVwRQQfWWdplOg7oxhoCLkqMcZ6B0iHziCW1jZO5QSYdCbbKDaTeGw0EoBQZ-RPNRZg",
         "userName": "Sabine Ebeling",
         "userImage": "https://play-lh.googleusercontent.com/-nSwBJI9lHqY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclXwpDobqizqLOWPDYxKEqQGEfv_g/photo.jpg",
@@ -8,8 +260,8 @@
         "thumbsUpCount": 1,
         "reviewCreatedVersion": null,
         "at": "2020-11-29 10:48:24",
-        "replyContent": "Hallo Frau Ebeling, es liegt eine St\u00f6rung bei den Smartphones bis Android-Version 6.0 vor. Unsere Techniker arbeiten mit Hochdruck an der Behebung des Fehlers. Ich melde mich wieder, sobald der Fehler behoben wurde. MfG NINA-HD",
-        "repliedAt": "2020-06-07 21:06:02"
+        "replyContent": "Hallo Frau Ebeling, leider k\u00f6nnen wir aufgrund technischer Ver\u00e4nderungen die Warn-App NINA erst ab Android-Version 6.0 anbieten. Aktuelle Warnmeldungen k\u00f6nnen Sie aber \u00fcber unsere Webseite www.warnung.bund.de abrufen. Diese Seite ist f\u00fcr mobile Ger\u00e4te wie Smartphones und Tablets optimiert. MfG NINA-HD",
+        "repliedAt": "2020-12-04 16:43:58"
     },
     {
         "reviewId": "gp:AOqpTOFI9KpnmadonNZGQx9Te0mrq_S072y6PN3_9EE6h_PMivqSao_cXGcMkSIaHIr24id0EyytuqvwsV6hng",
@@ -32,8 +284,8 @@
         "thumbsUpCount": 1,
         "reviewCreatedVersion": "3.2.1.2720",
         "at": "2020-11-27 18:59:04",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hallo, wir testen zur Zeit eine neue Version, in der auch die aktuellen lokalen Regelungen direkt unter dem abonnierten Ort dem Nutzer zur Verf\u00fcgung stehen. Diese Version stellen wir - nach Beendigung der Testphase - Ihnen \u00fcber die Stores zur Verf\u00fcgung - hier bitte ich noch um etwas Geduld. MfG NINA-HD",
+        "repliedAt": "2020-12-04 16:44:25"
     },
     {
         "reviewId": "gp:AOqpTOGsKrLUPq6ly74Oxgdmi6CTAG3XZ7v-MGrYLiFZp47iFcWzBDImnExQuXm66h94M_kRDW3n_tKSM7A-TQ",
@@ -44,8 +296,8 @@
         "thumbsUpCount": 1,
         "reviewCreatedVersion": "3.2.1.2720",
         "at": "2020-11-27 15:37:53",
-        "replyContent": "Der bundesweite Warntag diente der Erprobung der technischen Warnsysteme und der vorhandenen Schnittstellen. Die bundesweite Probewarnung wurde \u00fcber MoWaS planm\u00e4\u00dfig herausgegeben. Die zeitgleiche Ausl\u00f6sung einer Vielzahl von Warnmeldungen f\u00fchrte zu einer Unterbrechung der Ausl\u00f6sung. Die heutigen Ereignisse lieferten uns wichtige Erkenntnisse.",
-        "repliedAt": "2020-09-10 15:11:10"
+        "replyContent": "Hallo, wir testen zur Zeit eine neue Version, in der auch die aktuellen lokalen Regelungen direkt unter dem abonnierten Ort dem Nutzer zur Verf\u00fcgung stehen. Diese Version stellen wir - nach Beendigung der Testphase - Ihnen \u00fcber die Stores zur Verf\u00fcgung - hier bitte ich noch um etwas Geduld. MfG NINA-HD",
+        "repliedAt": "2020-12-04 16:44:44"
     },
     {
         "reviewId": "gp:AOqpTOH1-aQSTM2zlieV92Yq6DeL8_iSGHqFRxk8jFeWBwS3MpnRBv6YQf7HSDEjqoTk9RUi5uMX-Lgq2IPJbg",
@@ -68,20 +320,8 @@
         "thumbsUpCount": 1,
         "reviewCreatedVersion": "3.2.1.2720",
         "at": "2020-11-26 17:19:32",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOEogvksTur6LvEuSiom9vdkskNFQaB2T53UvKnQJt-D5CykSlrlnGjli4jleEjWUmDv1Cmx-dXIcjOUFA",
-        "userName": "Ralf Kirchner",
-        "userImage": "https://play-lh.googleusercontent.com/-V80s_mbRbUg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckJ8beypI0DTpFnfbPVXDlPnnFFVg/photo.jpg",
-        "content": "Seit einiger Zeit werden keine Warnungen mehr angezeigt. Erst wenn die app ge\u00f6ffnet wird sieht man aktuelle Warnungen. Keine Warnungen machen die App leider ziemlich nutzlos. Wieso klappt das bei anderen Apps und bei der Corona und Nina App nicht .... bestimmt die selben Programmierer",
-        "score": 1,
-        "thumbsUpCount": 1,
-        "reviewCreatedVersion": "3.2.1.2720",
-        "at": "2020-11-26 12:31:27",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hallo, wir testen zur Zeit eine neue Version, in der auch die aktuellen lokalen Regelungen direkt unter dem abonnierten Ort dem Nutzer zur Verf\u00fcgung stehen. Diese Version stellen wir - nach Beendigung der Testphase - Ihnen \u00fcber die Stores zur Verf\u00fcgung - hier bitte ich noch um etwas Geduld. MfG NINA-HD",
+        "repliedAt": "2020-12-04 16:44:53"
     },
     {
         "reviewId": "gp:AOqpTOEsdFMDtvKitnylAJs-CmLy54rxM160fFDuXVD1gmUl2BVBk_HOux16ZVjTvIWFORzHC6SBNsgirFf7RQ",
@@ -116,8 +356,8 @@
         "thumbsUpCount": 1,
         "reviewCreatedVersion": "3.2.1.2720",
         "at": "2020-11-25 21:36:43",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hallo, wir testen zur Zeit eine neue Version, in der auch die aktuellen lokalen Regelungen direkt unter dem abonnierten Ort dem Nutzer zur Verf\u00fcgung stehen. Diese Version stellen wir - nach Beendigung der Testphase - Ihnen \u00fcber die Stores zur Verf\u00fcgung - hier bitte ich noch um etwas Geduld. MfG NINA-HD",
+        "repliedAt": "2020-12-04 16:46:27"
     },
     {
         "reviewId": "gp:AOqpTOHFuwK5vZdRgz0_nh98h-QmcrwOhMqKVv8o2Dg_kPHBSFUalBpNMeCZKTUFGHQxyWtJqwRjdKg25HWeuQ",
@@ -200,8 +440,8 @@
         "thumbsUpCount": 14,
         "reviewCreatedVersion": "3.2.1.2720",
         "at": "2020-11-24 20:00:12",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hallo, wir testen zur Zeit eine neue Version. Diese Version stellen wir - nach Beendigung der Testphase - Ihnen \u00fcber die Stores zur Verf\u00fcgung - hier bitte ich noch um etwas Geduld. MfG NINA-HD",
+        "repliedAt": "2020-12-04 16:47:09"
     },
     {
         "reviewId": "gp:AOqpTOECy6Brzt1zh1sa-agtpcAkGDORWqMdLdZLyesJjGz_jymRrpayB3S9AdhU_AJf8OAup1JUd9MtnauuIA",
@@ -212,20 +452,8 @@
         "thumbsUpCount": 1,
         "reviewCreatedVersion": "3.2.1.2720",
         "at": "2020-11-24 12:14:17",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOEaWLMqTvkHELGjgXsW3MAq1mlKmQ5AEThBQc3-mGMsPzRs6VP0ZcfzP3KaG4oRHttzyfMekeDLDejujw",
-        "userName": "Stephanie St\u00e4dele",
-        "userImage": "https://play-lh.googleusercontent.com/-tl1i4XtjWhs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmLDWTlYgwRdMxqBtOlbVOAiefaSA/photo.jpg",
-        "content": "Ich kann keine Push Meldungen aktivieren, weil ich beim Aktivierungsversuch immer die Meldung bekomme, dass ich nicht mit dem Internet verbunden w\u00e4re... Ich werde daher NIE benachrichtigt",
-        "score": 1,
-        "thumbsUpCount": 1,
-        "reviewCreatedVersion": "3.2.1.2720",
-        "at": "2020-11-23 22:26:25",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hallo, welches Smartphone und welche Android-Version nutzen Sie? Diese Angaben helfen uns, den Fehler besser eingrenzen zu k\u00f6nnen. F\u00fcr eine kurze Info w\u00e4re ich Ihnen sehr dankbar. MfG NINA-HD",
+        "repliedAt": "2020-12-04 16:47:57"
     },
     {
         "reviewId": "gp:AOqpTOF4tfckasgTW6Wz-ZuQwho3zH8eB-xenbEZmmjfBZmofeRuDkL6iFBnhRHXfmOpzkVNifgVVu_C-9lCJw",
@@ -260,8 +488,8 @@
         "thumbsUpCount": 1,
         "reviewCreatedVersion": "3.2.1.2720",
         "at": "2020-11-23 12:28:00",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hallo, wir testen zur Zeit eine neue Version, in der auch die aktuellen lokalen Regelungen direkt unter dem abonnierten Ort dem Nutzer zur Verf\u00fcgung stehen. Diese Version stellen wir - nach Beendigung der Testphase - Ihnen \u00fcber die Stores zur Verf\u00fcgung - hier bitte ich noch um etwas Geduld. MfG NINA-HD",
+        "repliedAt": "2020-12-04 16:49:11"
     },
     {
         "reviewId": "gp:AOqpTOFaN9St6CEAdfvIiZUT_8dVssHURGliM8HLak4-Ua83WJ_PXFPVsVTqCRAQs3fXVexrbgv-Jh4b4GdJKw",
@@ -332,8 +560,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2020-11-22 15:14:12",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hallo, versuchen Sie es einmal \u00fcber die Huawei App Gallery, k\u00f6nnen Sie die Warn-App dort herunterladen? F\u00fcr eine kurze Info w\u00e4re ich Ihnen sehr dankbar. MfG NINA-HD",
+        "repliedAt": "2020-12-04 16:50:58"
     },
     {
         "reviewId": "gp:AOqpTOGNjU5vr7aaTeWerS7Ok3-3ZXVL7RPWH5mkmUy1vsiciHGTlZ12_lFxs-lbx6ihUpgW4m1sxKnwvlokWg",
@@ -356,8 +584,8 @@
         "thumbsUpCount": 1,
         "reviewCreatedVersion": "3.2.1.2720",
         "at": "2020-11-22 10:26:05",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hallo, pr\u00fcfen Sie bitte die Berechtigungen: Einstellungen, Akku, Akku-Leistungsoptimierung - Alle Apps - NINA auf nicht optimieren setzen. Sollte dieser Tippe nicht helfen, w\u00e4re ich f\u00fcr eine kurze Info sehr dankbar. MfG NINA-HD",
+        "repliedAt": "2020-12-04 16:54:26"
     },
     {
         "reviewId": "gp:AOqpTOFmtI7aVBOBXuHGjOS2V-28EZYQWDtyr8etjCAMlTUH7BX_JNe6S4pdWlga7B2EhBrOK4CuQFJQbVg3hg",
@@ -425,7 +653,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-VhOevXCAmkE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmTfn-jYy97OxOtWPXFvTExDWmEvw/photo.jpg",
         "content": "Ich habe heute die \"Neuigkeiten\", im Zusammenhang mit Corona, der letzten 2 Monate bekommen. Schnelle Information sieht anders aus. Auch die anderen m\u00f6glichen Warnungen kommen mit erheblicher Versp\u00e4tung. Ich habe diese untaugliche App jetzt zum 2. Mal deinstalliert. Diesmal entg\u00fcltig!",
         "score": 1,
-        "thumbsUpCount": 1,
+        "thumbsUpCount": 2,
         "reviewCreatedVersion": null,
         "at": "2020-11-20 18:34:30",
         "replyContent": null,
@@ -629,7 +857,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhmP-WelI3VrBue0che5mfurUKD7S2vAUMXeYeD",
         "content": "An sich eine gute Sache, aber wenn eine Warnung die ich bereits gelesen habe 12 mal pro Tag erneut bekomme, dann nervt das nicht nur, sondern ich frage mich wie zuverl\u00e4ssig ist die App Nach Neuinstallation nun wieder Probleme. Immer wieder neue Meldungen die nicht neu sind. Zuverl\u00e4ssigkeit sieht anders aus. Ich habe mich nun von dieser App getrennt. Wie eigentlich alles was von Staatlicher Seiten kommt, kostet den Steuerzahler viel Geld und taugt nicht.",
         "score": 1,
-        "thumbsUpCount": 13,
+        "thumbsUpCount": 16,
         "reviewCreatedVersion": "3.2.1.2720",
         "at": "2020-11-17 20:56:47",
         "replyContent": "Hallo Herr Kinner, das sollte so nicht sein - um welche Warnung handelt es sich hierbei? F\u00fcr eine kurze Info w\u00e4re ich Ihnen sehr dankbar. MfG NINA-HD",
@@ -905,7 +1133,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gix6Sc_ahxiYX5QaFwPpbilzmqHP4djtSIBH22KwvY",
         "content": "Keine einzige Benachrichtigung seit 4 Monaten. Ja ich hab schon gel\u00f6scht und neu installiert. Ihr habt auch alle Berechtigungen. Heute ist bundesweit warntag und Nina ist still. Ganz schlecht. Auch die DWD Warnungen, die es in den letzten Monaten manchmal gab, bekam ich nie. Update: Warnungen bekomme ich noch immer nicht! Ganz schlecht",
         "score": 1,
-        "thumbsUpCount": 18,
+        "thumbsUpCount": 19,
         "reviewCreatedVersion": "3.2.1.2720",
         "at": "2020-11-11 13:29:53",
         "replyContent": "Hallo, eine Warnung wurde herausgegeben, da Sie gar keine Warnung erhalten haben, handelt es sich hier vermutlich um ein technisches Problem. Bitten wenden Sie sich an NINA@bbk.bund.de, damit wir die Fehlerursache mit Ihnen gemeinsam eruieren k\u00f6nnen. Vorab hilfreich sind die Angaben Ihres Smartphones, Androidversion und der Netzverbindung. MfG",
@@ -996,18 +1224,6 @@
         "repliedAt": "2020-05-04 09:07:22"
     },
     {
-        "reviewId": "gp:AOqpTOF0X96TcKWmi3FwSHrYVQvD1GBAMPsG44bpPHRKyChuE7c6w3fLvE8R0ekzsxszhkzYAaQMvW7__G_vYw",
-        "userName": "Boskurt Coruk",
-        "userImage": "https://play-lh.googleusercontent.com/-uD7F9t1VLr0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm3nSrh9NCiqB_fOOIPZ3D8-S8UTw/photo.jpg",
-        "content": "Heute war in M\u00f6nchengladbach probealarm, habe erst pushbenachrichtigung bekommen als er vorbei war, keine vorher das ein probealarm stattfindet.",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "3.2.1.2720",
-        "at": "2020-11-07 21:40:27",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
         "reviewId": "gp:AOqpTOF5HCl6Nea8a3B5efvpLtcCvyNSdoWcSmh63WSclYXBPyv8QxrscOnLLBcXBO-UFoZdqJZI0huc_kcxvg",
         "userName": "B. L.",
         "userImage": "https://play-lh.googleusercontent.com/--7JCEJ5XOsE/AAAAAAAAAAI/AAAAAAAAL2c/AMZuuck8ltI6yo7g_unRctc7RSYoRO6Oag/photo.jpg",
@@ -1061,7 +1277,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiiZL8lROkDJczwtP4qt9ADv5teJ1NGtj-DXpio_w",
         "content": "Die einzige Benachrichtigung die ich bekomme ist \"Standorteinstellung fehlerhaft\". Hab schon alles probiert, aber ohne Erfolg. Prinzipiell ja sch\u00f6n wenn eine Warn-App nichts zu melden hat. Zumindest wenn es keine Meldungen f\u00fcr die Region gibt. Bin mir da aber nicht so sicher ob das so richtig ist. Aktuell sollte man meinen das hin und wieder ein Update zur Situation und Regeln kommen sollte.",
         "score": 2,
-        "thumbsUpCount": 12,
+        "thumbsUpCount": 17,
         "reviewCreatedVersion": "3.2.1.2720",
         "at": "2020-11-06 18:06:51",
         "replyContent": null,
@@ -1085,7 +1301,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gjz_hQ8oPDMP8ZwC6GnGdzkHSqlAgjgeAB826VAtw",
         "content": "Die App an sich funktioniert meiner Erfahrung nach eigentlich noch am besten im Vergleich zu anderen Warn-Apps, die ich bisher probiert habe. Das definieren der Bereiche, f\u00fcr die man Warnungen erhalten m\u00f6chte, geht unkompliziert und problemlos. Alles anderen h\u00e4ngt halt auch ein St\u00fcck weit davon ab, was die lokalen Beh\u00f6rden als Warnungen in das System einpflegen. Aber darauf hat ja die App an sich keinen Einfluss.",
         "score": 4,
-        "thumbsUpCount": 1,
+        "thumbsUpCount": 2,
         "reviewCreatedVersion": "3.2.1.2720",
         "at": "2020-11-06 10:56:44",
         "replyContent": null,
@@ -1181,7 +1397,7 @@
         "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
         "content": "Update von 4 auf 1 Stern. Seit Wochen l\u00e4dt nichts, passiert nichts. (De)install brachte keine L\u00f6sung. Handy und Android sind neu und \"hoch\" genug. -- Bundesweiter Probealarm.. das war nix. Keine Infos erhalten zu meinen Orten. Wie gut, dass ich vom Dorf komme und mit 1x/Woche Sirenenalarm kenne. Ansonsten gef\u00e4llt mir die App gut (...) alles in Allem bin ich zufrieden.",
         "score": 1,
-        "thumbsUpCount": 1,
+        "thumbsUpCount": 6,
         "reviewCreatedVersion": "3.2.1.2720",
         "at": "2020-11-04 18:54:03",
         "replyContent": null,
@@ -1430,7 +1646,7 @@
     {
         "reviewId": "gp:AOqpTOEbBBi7T4x5xhoAdy6MNpiyBxdUaP_jGxOe5hMpyMbWnrb6B3pOIcIPrxuvWL7bhZVpEI0uBlgF4_SHYw",
         "userName": "Daniela Knoll",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiJaZio9CODBrUDMD9x85CGX4RJf8D8nleWtzsFiw",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiixLf27PuMJoQLnWptO3pIlErMulJtj9ipHQW7Og",
         "content": "Spitze \ud83d\udc4d\ud83d\udc4d",
         "score": 5,
         "thumbsUpCount": 0,
@@ -7457,7 +7673,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-mMYS20j4kRg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnDZZk5HZX2l5QFHgB3wMvFwjL2JQ/photo.jpg",
         "content": "App hat am Warntag auch bei mir nicht funktioniert. Lediglich die Entwarnung konnte ich Stunden sp\u00e4ter nach \u00d6ffnen der App lesen. Die Warnung kam \u00fcberhaupt nicht an (Smartphone mit Android 9). Wie man bei einigen Bewertungen lesen konnte, scheint dieses Standard bei dieser App zu sein. Wie lange wird dieses Unverm\u00f6gen bereits vom Steuerzahler finanziert?!? Und beim verantwortlichen Bundesamt f\u00fcr Bev\u00f6lkerungsschutz in Bonn, wird die Schuld anderen in die Schuhe geschoben. Na klar...",
         "score": 1,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": null,
         "at": "2020-09-14 11:40:18",
         "replyContent": null,
@@ -7982,7 +8198,7 @@
     {
         "reviewId": "gp:AOqpTOFEhw-AUx_GlTglOk9QdisquGwYe9FoiTffG4Rjxlf5ezlHZ_tPJNDRAZ-lyIjcIujKdGqD6LrMYNiVDA",
         "userName": "John .E",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgZxP90da1DZVEDX3D_dIEiLTKH3FSIHyb0snYKxg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjJe2SSwKUgJhOUafdflC30VW4IAFtBNi628hugaQ",
         "content": "Wozu? Wozu eine App, die nur als Nachrichtendienst funktioniert, die ich auch aus dem gesamten Internet bekomme. 10.09.2020 bundesweiter Warntag, aber kein Ton von der App, wie es gesagt wurde. Dann brauch ich sie auch nicht. Schade.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -8546,7 +8762,7 @@
     {
         "reviewId": "gp:AOqpTOEOrQTSd37MONYzI_Ec_gBami6V_2VLc7SzuWNPMfUD0_ZoAnJmLUI6s72lh-b_iXru5lXanlVne_f8ZQ",
         "userName": "Christian Greis",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gjb7vEd65D01fw-QAybYhpgIpTxha3g-XcLu-r3Tw",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhT0eYMb5dhG13GJKBdGeA7JH1P1eE2D_NU0dKqi4Y",
         "content": "IT-W\u00fcste Deutschland!",
         "score": 1,
         "thumbsUpCount": 1,
@@ -11782,221 +11998,5 @@
         "at": "2020-09-10 20:38:45",
         "replyContent": "Hallo, da Sie gar keine Warnung erhalten haben, auch keine versp\u00e4tete, handelt es sich hier vermutlich um ein grunds\u00e4tzliches Problem. Bitten wenden Sie sich an uns unter NINA@bbk.bund.de, damit wir die Fehlerursache mit Ihnen gemeinsam eruieren k\u00f6nnen. Vorab hilfreich sind die Angaben Ihres Smartphones, Androidversion und der Netzverbindung. MfG",
         "repliedAt": "2020-09-11 13:37:55"
-    },
-    {
-        "reviewId": "gp:AOqpTOHueTpZRBFQDl1gZ8SIROpl1xhG6kR0JbkHAmcbGAUL4I_PUEvZWhg6-BZv1FYdcXPIxuQnfOJHp-5WzA",
-        "userName": "FloRs",
-        "userImage": "https://play-lh.googleusercontent.com/-VdE0TMgsXWU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn5Dj0U_FYcmpqVIX9FQCL-mHv0hg/photo.jpg",
-        "content": "Bei mir auf mein Huawei geht die App garnicht",
-        "score": 1,
-        "thumbsUpCount": 1,
-        "reviewCreatedVersion": "3.2.1.2720",
-        "at": "2020-09-10 20:26:59",
-        "replyContent": "Die Verf\u00fcgbarkeit der App f\u00fcr die Huawei Ger\u00e4te wurde zun\u00e4chst f\u00fcr Smartphones mit Google Mobile Services (GMS) freigeschaltet. Smartphones mit dem integrierten Huawei Mobile Service (HMS) k\u00f6nnen die Warn-App NINA derzeit nicht herunterladen. Wir befinden uns derzeit in interner Pr\u00fcfung, ob und wie wir eine Warn-App mit HMS bereitstellen k\u00f6nnen.",
-        "repliedAt": "2020-09-11 13:40:31"
-    },
-    {
-        "reviewId": "gp:AOqpTOFnScr8XVbBfWlpBr8vXl93M6KJHEQ4SiMdnS-tBRnaw_HxjoleQcoMM7t7s53C1VDBjY9bIW-uZcs67g",
-        "userName": "Rolf Kullmann",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiuKhhhLZz9n5ivE-PUjttgzQBkC7o6qXCzRXXnZg",
-        "content": "Um das Update zu installieren darf man zun\u00e4chst einmal diverse Programme durchsuchen.",
-        "score": 2,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "3.2.1.2720",
-        "at": "2020-09-10 20:25:58",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOFeMmrKZLXuLrGysPELTSIHXv2aMd-nOnCEse6BZADAZnWtdPplydhH0XBh8dy6P5X42STm_7z90Dr0Sg",
-        "userName": "So n komischer Typ",
-        "userImage": "https://play-lh.googleusercontent.com/-62R-vqGIuNM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnmRmJqELPjkeh7GCQaBrkADuvp_A/photo.jpg",
-        "content": "Funktionierte 2018 nicht, funktionierte heute nicht. Beide Male war die Infrastruktur \u00fcberlastet. So eine App ist f\u00fcr den Zweck einer gro\u00dffl\u00e4chigen Warnung der Bev\u00f6lkerung einfach ungeeignet. Cell Broadcast w\u00e4re eine weitaus sinnvollere L\u00f6sung.",
-        "score": 1,
-        "thumbsUpCount": 4,
-        "reviewCreatedVersion": null,
-        "at": "2020-09-10 20:25:34",
-        "replyContent": "Der bundesweite Warntag diente der Erprobung der technischen Warnsysteme und der vorhandenen Schnittstellen. Die bundesweite Probewarnung wurde \u00fcber MoWaS planm\u00e4\u00dfig herausgegeben. Die zeitgleiche Ausl\u00f6sung einer Vielzahl von Warnmeldungen f\u00fchrte zu einer Unterbrechung der Ausl\u00f6sung. Die gestrigen Ereignisse lieferten uns wichtige Erkenntnisse.",
-        "repliedAt": "2020-09-11 13:41:20"
-    },
-    {
-        "reviewId": "gp:AOqpTOHD9ikGtGHB11BIoQBTa56utLRsfqRQcxKteDO6kRtAUJcRDmrf5YQVwVamhr1JRMA4oqDDYuljYLZx7Q",
-        "userName": "Ulrich Cyrus",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GihC0nqXFxdzwgPqvjlwNKUjsEhARTQbLgCFKBixw",
-        "content": "Wichtige und n\u00fctzliche App. Umso \u00e4rgerlicher die 4 Tracker, die Daten u.a. zu Google Analytics und Matomo senden. Daher f\u00fcr mein Google-freies Handy ungeeignet",
-        "score": 3,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "3.2.1.2720",
-        "at": "2020-09-10 20:23:42",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOE0LiaV1wkY2UE8qzeYImM95HgK1c-wRT-cNZjjn_gFt7JH4nMHyams5de_OfNAlhDmOrtn4VKQN_yslw",
-        "userName": "J\u00f6rg Zeuner",
-        "userImage": "https://play-lh.googleusercontent.com/-gPbZAYy9evU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucktAaSwj0S1HkHE5EaU7Nh9uHS6Lw/photo.jpg",
-        "content": "Totaler Quatsch. Was n\u00fctzt so eine App, wenn sie nicht warnt? Am Warntag kamen nichtmal versp\u00e4tete Warnungen. Wenn man beim Test nicht funktioniert, dann brauche ich so eine App nicht.",
-        "score": 1,
-        "thumbsUpCount": 2,
-        "reviewCreatedVersion": "3.2.1.2720",
-        "at": "2020-09-10 20:22:03",
-        "replyContent": "Hallo, da Sie gar keine Warnung erhalten haben, auch keine versp\u00e4tete, handelt es sich hier vermutlich um ein grunds\u00e4tzliches Problem. Bitten wenden Sie sich an uns unter NINA@bbk.bund.de, damit wir die Fehlerursache mit Ihnen gemeinsam eruieren k\u00f6nnen. Vorab hilfreich sind die Angaben Ihres Smartphones, Androidversion und der Netzverbindung. MfG",
-        "repliedAt": "2020-09-11 13:41:53"
-    },
-    {
-        "reviewId": "gp:AOqpTOEbdSg2GCxf8538rhvVpWfhSH39_J1HgHWYqPywQfUpUaaD7hnIw_1I0dltI0qP0b-WDk3r3HFxDDdcQg",
-        "userName": "K. Grun",
-        "userImage": "https://play-lh.googleusercontent.com/-B4r4eR-GoeI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmbaUDw6RydvYOAxE_W9qPI_913tA/photo.jpg",
-        "content": "Zum Warntag am 10.9. keine Benachrichtigung erhalten. Unter Benach.Einstellungen geschaut, aber dort ist alles aktiviert. Somit unbrauchbar. Werde App wieder deinstallieren.",
-        "score": 1,
-        "thumbsUpCount": 2,
-        "reviewCreatedVersion": "3.2.1.2720",
-        "at": "2020-09-10 20:22:00",
-        "replyContent": "Hallo, da Sie gar keine Warnung erhalten haben, auch keine versp\u00e4tete, handelt es sich hier vermutlich um ein grunds\u00e4tzliches Problem. Bitten wenden Sie sich an uns unter NINA@bbk.bund.de, damit wir die Fehlerursache mit Ihnen gemeinsam eruieren k\u00f6nnen. Vorab hilfreich sind die Angaben Ihres Smartphones, Androidversion und der Netzverbindung. MfG",
-        "repliedAt": "2020-09-11 13:42:06"
-    },
-    {
-        "reviewId": "gp:AOqpTOFQWurTFmITKZYFSKJUTSmJ2xbFMJVEygfIMEQyNzJQ11L4tiEai2Y6ElSFPJ5-IApGVFj3-i64u1rLeg",
-        "userName": "Thomas Barth",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhL9kRmvovka9ZtglQcUYoIVgyu_IFhkf10cLbZlw",
-        "content": "Nach aktuellem Update startet die App nur noch anf\u00e4nglich, dann kommt immer die Fehlermeldung \"pr\u00fcfen Sie Ihre Internetverbindung\"... Dann muss man die App schlie\u00dfen und das Spiel beginnt von vorne... DAS GER\u00c4T HAT INTERNET VERBINDUNG...!!! Das nervt...",
-        "score": 1,
-        "thumbsUpCount": 1,
-        "reviewCreatedVersion": "3.2.1.2720",
-        "at": "2020-09-10 20:21:42",
-        "replyContent": "Hallo Hr. Barth, welches Smartphone verwenden Sie und welche Android-Version ist dort installiert? MfG NINA-Helpdesk",
-        "repliedAt": "2020-09-11 13:42:54"
-    },
-    {
-        "reviewId": "gp:AOqpTOGwEOv5MXKLEYB3qCCvTuJMDxuuRX5dF51NRArXRQO8_WQJHyOsb1wJG8bNn-6eAB3tcVy74WkPkT07Yg",
-        "userName": "sa b\u00fc",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhyyzrQo6wbaZIAcyX1ucf2VflH5yFcL5iXx8y9xlI",
-        "content": "Keine Warnung am Warntag, Fazit. Deinstallation der APP.",
-        "score": 1,
-        "thumbsUpCount": 1,
-        "reviewCreatedVersion": "3.2.1.2720",
-        "at": "2020-09-10 20:21:37",
-        "replyContent": "Hallo, da Sie gar keine Warnung erhalten haben, auch keine versp\u00e4tete, handelt es sich hier vermutlich um ein grunds\u00e4tzliches Problem. Bitten wenden Sie sich an uns unter NINA@bbk.bund.de, damit wir die Fehlerursache mit Ihnen gemeinsam eruieren k\u00f6nnen. Vorab hilfreich sind die Angaben Ihres Smartphones, Androidversion und der Netzverbindung. MfG",
-        "repliedAt": "2020-09-11 13:43:01"
-    },
-    {
-        "reviewId": "gp:AOqpTOH5wU3K5fEPfiVXxdX5-P2fm0OlF-Bb-60m6vY7m3U2ktQZe_vFLo4XNod216cdYR2NOwo97baUkTxTNA",
-        "userName": "Dora A.",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gjdn8vOI6YsIzZ7vfCFKKFH7SPOGuBVFzAEYbP0",
-        "content": "Warntag2020 heute am 10. September? Hahaha \ud83d\ude03\ud83e\udd23 Au\u00dfer Coronavirus - Meldungen nix zu lesen! Da bin ich doch froh dass im Landkreis L\u00fcchow-Dannenberg wenigstens die Sirenen noch funktionieren\u203c\ufe0f Die App jedenfalls ist ein kompletter Fehlschlag \u2757",
-        "score": 1,
-        "thumbsUpCount": 1,
-        "reviewCreatedVersion": "3.2.1.2720",
-        "at": "2020-09-10 20:20:20",
-        "replyContent": "Hallo, da Sie gar keine Warnung erhalten haben, auch keine versp\u00e4tete, handelt es sich hier vermutlich um ein grunds\u00e4tzliches Problem. Bitten wenden Sie sich an uns unter NINA@bbk.bund.de, damit wir die Fehlerursache mit Ihnen gemeinsam eruieren k\u00f6nnen. Vorab hilfreich sind die Angaben Ihres Smartphones, Androidversion und der Netzverbindung. MfG",
-        "repliedAt": "2020-09-11 13:43:14"
-    },
-    {
-        "reviewId": "gp:AOqpTOFZF5mAiwtC1emxdw6lf-dKKpBa9IeMZThGlBWxGvItL-mWDfFarRlwBAqRYvK6DS0OG4ik4NK7dwJpCQ",
-        "userName": "Marc Unkel",
-        "userImage": "https://play-lh.googleusercontent.com/-zlJmFmvp3IY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn26FX3HRGxZIUELdGF_JRz4Fc3VQ/photo.jpg",
-        "content": "Hihihi, hahahaha..... \ud83e\udd23\ud83e\udd23 ne kurze Frage.... Wann wollt ihr denn die M\u00fclheimer Bev\u00f6lkerung vom Sirenenalarm informieren? Am Freitag??? \ud83d\ude44\ud83d\ude44 \ud83e\udd23\ud83e\udd23",
-        "score": 1,
-        "thumbsUpCount": 1,
-        "reviewCreatedVersion": "3.2.1.2720",
-        "at": "2020-09-10 20:19:32",
-        "replyContent": "Hallo, sollten Sie keine Warnung erhalten haben, auch keine versp\u00e4tete, handelt es sich hier vermutlich um ein grunds\u00e4tzliches Problem. Bitten wenden Sie sich an uns unter NINA@bbk.bund.de, damit wir die Fehlerursache mit Ihnen gemeinsam eruieren k\u00f6nnen. Vorab hilfreich sind die Angaben Ihres Smartphones, Androidversion und der Netzverbindung. MfG",
-        "repliedAt": "2020-09-11 13:43:30"
-    },
-    {
-        "reviewId": "gp:AOqpTOFvYyfe5FvsGsMX9cgBDc2Ao01u64Gu_SACnQjmSr4KaGvqqIs5-devOcoV_3VuDJYmSL8YAc2UmB7aAw",
-        "userName": "Tom",
-        "userImage": "https://play-lh.googleusercontent.com/--RmwDVKq9og/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckWyDmzlRNZtRNH-y0P8ozzRX9dPw/photo.jpg",
-        "content": "Normalerweise eine gute App aber heute zum Warntag war das Ergebnis katastrophal. Alle Familienmitglieder mit eigenen Apps haben keine Warnung bekommen. Da es ein Test war ist es positiv zu bewerten, somit besteht die M\u00f6glichkeit die Prozesse f\u00fcr den Ernstfall zu verbessern.",
-        "score": 3,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "3.2.1.2720",
-        "at": "2020-09-10 20:19:17",
-        "replyContent": "Hallo, da Sie gar keine Warnung erhalten haben, auch keine versp\u00e4tete, handelt es sich hier vermutlich um ein grunds\u00e4tzliches Problem. Bitten wenden Sie sich an uns unter NINA@bbk.bund.de, damit wir die Fehlerursache mit Ihnen gemeinsam eruieren k\u00f6nnen. Vorab hilfreich sind die Angaben Ihres Smartphones, Androidversion und der Netzverbindung. MfG",
-        "repliedAt": "2020-09-11 13:43:55"
-    },
-    {
-        "reviewId": "gp:AOqpTOHM-d371_8t8TkjN5Rqs6Bp4LvUQRk7UbJfoiNdDhZu2QtcvLMlIRF4iuAT91NeP9XQWGgqVSDcvJprRg",
-        "userName": "Klaus Gebhart",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiSnLtxHCXn7NQj_wq7IncCLpef5emboRN-h4fa",
-        "content": "na Klasse, heute wo es mal beim Probealarm drauf ankommt, macht die App keinen Piep! Taugt alles nichts, hier in Rheinland-Pfalz haben noch nicht mal die Sirenen geheult. Entweder sie sind abgebaut, funktionieren nicht, oder wurden zu Gunsten von Nina nicht aktiviert.",
-        "score": 1,
-        "thumbsUpCount": 1,
-        "reviewCreatedVersion": "3.2.1.2720",
-        "at": "2020-09-10 20:18:46",
-        "replyContent": "Hallo, da Sie gar keine Warnung erhalten haben, auch keine versp\u00e4tete, handelt es sich hier vermutlich um ein grunds\u00e4tzliches Problem. Bitten wenden Sie sich an uns unter NINA@bbk.bund.de, damit wir die Fehlerursache mit Ihnen gemeinsam eruieren k\u00f6nnen. Vorab hilfreich sind die Angaben Ihres Smartphones, Androidversion und der Netzverbindung. MfG",
-        "repliedAt": "2020-09-11 13:44:14"
-    },
-    {
-        "reviewId": "gp:AOqpTOGb_zb-HTmK8aMnbM8C9FulmgudUs7_eKj25HkfZpdIyenaCuhxVVcEcp_HNWfVM4dtipsKmMq_u4DrIw",
-        "userName": "Spam Protect",
-        "userImage": "https://play-lh.googleusercontent.com/-ZqGj0P5K9eg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmJL4ffe58SPUzOOMiGlPy08GjYPw/photo.jpg",
-        "content": "Fehlermeldung beim Starten der App",
-        "score": 1,
-        "thumbsUpCount": 1,
-        "reviewCreatedVersion": "3.2.1.2720",
-        "at": "2020-09-10 20:18:26",
-        "replyContent": "Hallo, \u00fcber welches Smartphone verf\u00fcgen Sie und welche Android-Version ist dort installiert? MfG NINA-HD",
-        "repliedAt": "2020-09-11 13:44:48"
-    },
-    {
-        "reviewId": "gp:AOqpTOG-mUekidqlcoE7fHlq_8iCqxr9KoL2oQvbWkXW1SqNiCJlnvlziaIRjhu5xfBCZoUGC2pgC9szkjoYcw",
-        "userName": "Carsten Buchholz",
-        "userImage": "https://play-lh.googleusercontent.com/-2LqDoP5ju9A/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclVpq0ZYPNSgfbkERQb-Aq0Cbe9JA/photo.jpg",
-        "content": "Wenn Ihr am Warntag nicht warnt wann dann!!!",
-        "score": 1,
-        "thumbsUpCount": 1,
-        "reviewCreatedVersion": "3.2.1.2720",
-        "at": "2020-09-10 20:17:53",
-        "replyContent": "Hallo, sollten Sie keine Warnung erhalten haben, auch keine versp\u00e4tete, handelt es sich hier vermutlich um ein grunds\u00e4tzliches Problem. Bitten wenden Sie sich an uns unter NINA@bbk.bund.de, damit wir die Fehlerursache mit Ihnen gemeinsam eruieren k\u00f6nnen. Vorab hilfreich sind die Angaben Ihres Smartphones, Androidversion und der Netzverbindung. MfG",
-        "repliedAt": "2020-09-11 13:45:11"
-    },
-    {
-        "reviewId": "gp:AOqpTOFyjLRdDWht5mM_PgTmjf7UgndohWSB5JMvGoNkSRiRMz53mEv7BV21y3j963ElHnLxfVGZkvcP09JgJQ",
-        "userName": "Gregor S",
-        "userImage": "https://play-lh.googleusercontent.com/-v8fCG-hlxqw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclTF5HguAFZNWJnVbtjiChCOfoM4g/photo.jpg",
-        "content": "Diagnosedaten deaktivieren kein opt- in. \u00d6ffnen der Datenschutzerkl\u00e4rung: da steht nur \"null\". Also kein Datenschutz? Zum heutigen Warntag keine Warnung bekommen. Beim \u00d6ffnen der App um 11:40 steht etwas \u00fcber den Probealarm und dazu noch die Warnung vor Corona vom Juni. \"Karte\" zeigt mir eine Karte von Deutschland und sonst nichts... Danke daf\u00fcr. \"Corona\" zeigt \u00fcberhaupt nichts. Es funktioniert also nicht, aber vllt ja n\u00e4chstes Jahr. Bis dahin wird es wieder deinstalliert.",
-        "score": 1,
-        "thumbsUpCount": 12,
-        "reviewCreatedVersion": "3.2.1.2720",
-        "at": "2020-09-10 20:17:51",
-        "replyContent": "Hallo, da Sie keine Pushbenachrichtigung erhalten haben, handelt es sich vermutlich um ein grunds\u00e4tzliches Problem. Bitten wenden Sie sich an uns unter NINA@bbk.bund.de, damit wir die Fehlerursache mit Ihnen gemeinsam eruieren k\u00f6nnen. Vorab hilfreich sind die Angaben Ihres Smartphones, Androidversion und der Netzverbindung. MfG",
-        "repliedAt": "2020-09-11 13:45:49"
-    },
-    {
-        "reviewId": "gp:AOqpTOFgRB_DKIyHPfY_mV-Cm-MZQkr_FeF_pDsp-XeYGt4OcwlVV34N8Fkdl_kDnD1ZYtdwP0Vmy_hACTljbA",
-        "userName": "Thomas F\u00fcllkrug",
-        "userImage": "https://play-lh.googleusercontent.com/-VriDccsAvRA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl3p4kog6pPuIi2c5HhcTrwNhiRpQ/photo.jpg",
-        "content": "Wann wird diese App endlich auch auf Huawei Smartphones funktionieren. Das ist doch ein Krampf.",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "3.2.1.2720",
-        "at": "2020-09-10 20:17:45",
-        "replyContent": "Die Verf\u00fcgbarkeit der App f\u00fcr die Huawei Ger\u00e4te wurde zun\u00e4chst f\u00fcr Smartphones mit Google Mobile Services (GMS) freigeschaltet. Smartphones mit dem integrierten Huawei Mobile Service (HMS) k\u00f6nnen die Warn-App NINA derzeit installieren. Wir befinden uns derzeit in der interner Pr\u00fcfung, ob und wie wir eine Warn-App mit HMS bereitstellen k\u00f6nnen.",
-        "repliedAt": "2020-09-11 13:47:09"
-    },
-    {
-        "reviewId": "gp:AOqpTOEOmtwf2paGHarvNA19YQFMTKLSf7uVV_cGWDzht9dcvzs4vmC7QL8xLBf1724ri_wqwKYqeb-aQdwQOg",
-        "userName": "J\u00fcrgen",
-        "userImage": "https://play-lh.googleusercontent.com/-8k_ZXj89fzk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckA3Y-SsuVv5ZLPeK8lQa4eygKaxQ/photo.jpg",
-        "content": "Heute wie andere Nutzer keine Meldung weder w\u00e4hrend noch nach dem Probealarm erhalten.",
-        "score": 2,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "3.2.1.2720",
-        "at": "2020-09-10 20:16:59",
-        "replyContent": "Hallo, da Sie gar keine Warnung erhalten haben, auch keine versp\u00e4tete, handelt es sich hier vermutlich um ein grunds\u00e4tzliches Problem. Bitten wenden Sie sich an uns unter NINA@bbk.bund.de, damit wir die Fehlerursache mit Ihnen gemeinsam eruieren k\u00f6nnen. Vorab hilfreich sind die Angaben Ihres Smartphones, Androidversion und der Netzverbindung. MfG",
-        "repliedAt": "2020-09-11 13:47:43"
-    },
-    {
-        "reviewId": "gp:AOqpTOHy1V_2dT-VFMslEYOC4XJPszZtLDVZ1gXgJ4gpCwNCj_pCaAPCT13i9JHItHH9BJqXO6AWf0NuVcsDpg",
-        "userName": "Patrese N",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjXiGxK_vvqixMFGug1bJ2s7XnDBuJt_PEztzgvOA",
-        "content": "Keine Warnung am Warntag 10.09.20 Heute, am deutschlandweiten Warntag bekomme ich keine Meldung \u00fcber die App. Thema verfehlt...6",
-        "score": 1,
-        "thumbsUpCount": 2,
-        "reviewCreatedVersion": "3.2.1.2720",
-        "at": "2020-09-10 20:16:56",
-        "replyContent": "Hallo, da Sie gar keine Warnung erhalten haben, auch keine versp\u00e4tete, handelt es sich hier vermutlich um ein grunds\u00e4tzliches Problem. Bitten wenden Sie sich an uns unter NINA@bbk.bund.de, damit wir die Fehlerursache mit Ihnen gemeinsam eruieren k\u00f6nnen. Vorab hilfreich sind die Angaben Ihres Smartphones, Androidversion und der Netzverbindung. MfG",
-        "repliedAt": "2020-09-11 13:47:55"
     }
 ]

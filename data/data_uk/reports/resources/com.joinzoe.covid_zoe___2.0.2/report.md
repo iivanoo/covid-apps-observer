@@ -200,25 +200,25 @@ The COVID Symptom Study app has been installed by more than **1000000** times. A
 <img src="5_star_reviews_wordcloud.png" alt="com.joinzoe.covid_zoe 5 reviews"/>
 </p>
 
-> Very easy to use<br> :date: __2020-11-30 12:19:28__
+> Very good<br> :date: __2020-12-05 14:41:27__
 
-> Easy to use and when I forget to report, it gently nags me. Good to feel reporting may help ☺️<br> :date: __2020-11-30 12:18:46__
+> Provides valuable insight into the pandemic.<br> :date: __2020-12-05 14:24:40__
 
-> User friendly and only takes a moment each day.<br> :date: __2020-11-30 11:11:34__
+> Important study and great updates<br> :date: __2020-12-05 14:23:26__
 
-> Apart from recent slow response, fixed by deleting app & reloading updated version, had no problems and happy to help by using every day. Useful and well presented summary stats each day. Thank you.<br> :date: __2020-11-30 10:07:40__
+> Excellent app. Very simple but with options to see more of the research if you want to. This is the closest to real-time info on infection rates across the UK and I trust it more than government figures. Great to do my bit to help scientists (and ordinary people) understand coronavirus.<br> :date: __2020-12-05 13:40:29__
 
-> Easy to use<br> :date: __2020-11-30 09:59:02__
+> Quick and easy way for everyone to contribe to knowledge of the disease.<br> :date: __2020-12-05 12:44:20__
 
-> I would recommend this app to anyone who wants to know more about where we are with Covid 19. The more people who use it the better.<br> :date: __2020-11-30 09:58:01__
+> Easy to do. Grateful for everyone behind it and who use it to help us all stay safer and know the risks where we live<br> :date: __2020-12-05 12:27:35__
 
-> Ultra simple to use and a way to try and help get a handle on this disease. Update: over time the questions have reflected discoveries in the nature of the virus.<br> :date: __2020-11-30 09:41:22__
+> The app today has stopped working. The app opens and immediately goes to a blank white screen. I use this everyday and have for over 6 months. Update. U installed and re installed. Fixed the problem<br> :date: __2020-12-05 11:00:42__
 
-> Takes one minute to complete the daily survey to provide data to combat this virus.<br> :date: __2020-11-30 09:13:01__
+> It's good to feel you are doing something useful and it provides up to date info about the virus,<br> :date: __2020-12-05 10:55:23__
 
-> Great app to use<br> :date: __2020-11-30 08:57:00__
+> Good citizen research. Used to remind me daily to report, seems not to do so now.<br> :date: __2020-12-05 10:16:54__
 
-> Easy to use, excellent feedback in videos - your own small contribution to research, well worth doing<br> :date: __2020-11-30 08:22:12__
+> Easy to use<br> :date: __2020-12-05 10:02:16__
 
 
 
@@ -228,25 +228,25 @@ The COVID Symptom Study app has been installed by more than **1000000** times. A
 <img src="4_star_reviews_wordcloud.png" alt="com.joinzoe.covid_zoe 4 reviews"/>
 </p>
 
-> Simple<br> :date: __2020-11-30 11:10:36__
+> I had to reload the app and forgot my password and I never received a link to reset despite multiple attempts.Luckily I have another email address that I have used. I was logging for my husband who has had two tests due to surgery and it lost the dates. Otherwise a brilliant app and thank you for all your hard work<br> :date: __2020-12-05 13:28:58__
 
-> All easy enough and benefits us all<br> :date: __2020-11-30 10:17:22__
+> Easy to use each day. Hopefully I'm helping their results.<br> :date: __2020-12-05 12:32:26__
 
-> Easy to use<br> :date: __2020-11-30 09:40:49__
+> Although you're not inline with the NHS app, and your figures are showing fewer cases compared to the NHS app (not your fault), this is a well laid out, easy to use system. Thank you.<br> :date: __2020-12-05 11:20:15__
 
-> Works Well. Like the daily reminder.<br> :date: __2020-11-30 03:47:42__
+> Good to report symptoms as it is interesting to see how people's illness is developing / hopefully ending<br> :date: __2020-12-05 01:21:03__
 
-> Great app helping with the battle against Covid19. keeping us all informed of infection rates and progress with vaccines.<br> :date: __2020-11-30 00:15:44__
+> It seems to be quite capable but every time I try to give an update of my status it asks me to enter my entire profile again.<br> :date: __2020-12-04 19:12:40__
 
-> Fantastic to have the opportunity to contribute to such important research<br> :date: __2020-11-29 21:34:06__
+> Easy to use.<br> :date: __2020-12-04 17:17:23__
 
-> There was an app upgrade and it lost my COVID test history. As I don't remember the dates I had the tests I have to declare that I haven't had any tests. (Had two.)<br> :date: __2020-11-29 17:52:03__
+> Since the last update, I no longer receive reminders. I followed what the email said to fix the problem, but it didn't fix it. I rarely report now as I forget to open the app on my own.<br> :date: __2020-12-04 16:48:45__
 
-> Seems like a good idea, very simple to use.<br> :date: __2020-11-29 14:29:31__
+> Good except recently I've not had reminders due to Android update glitch and I've reinstalled twice and still not getting them.<br> :date: __2020-12-04 14:07:45__
 
-> Good usable data glad to help but the reminder even when reported is rather anoying<br> :date: __2020-11-29 12:32:01__
+> Useful app for reporting Covid status and for keeping up to date with latest spread of virus throughout England.<br> :date: __2020-12-04 07:17:06__
 
-> Worked fine until 25 November update. Now it loads and goes to a blank screen. Update: a couple of days later it has started working again.<br> :date: __2020-11-29 11:48:10__
+> Easy to use<br> :date: __2020-12-03 19:11:53__
 
 
 
@@ -256,25 +256,25 @@ The COVID Symptom Study app has been installed by more than **1000000** times. A
 <img src="3_star_reviews_wordcloud.png" alt="com.joinzoe.covid_zoe 3 reviews"/>
 </p>
 
-> Graph for cases not working<br> :date: __2020-11-29 20:11:13__
+> Very quick to just check-in each day if you are prompted. Needed to reinstall twice to get prompts working again after glitch.<br> :date: __2020-12-05 11:51:25__
 
-> Unfortunately has become worse with recent releases - one logged out users with no notification, meaning a good chunk of users has probably been lost who didn't notice they weren't getting them any more. The current version also doesn't open the app on tapping the notification, making it less seamless to report than before. The lack of a 'send'/'submit' button makes it unclear when a report has been completed. Could use this consistency, particularly given it needs to maintain good sample sizes.<br> :date: __2020-11-29 13:13:24__
+> I cant log off.<br> :date: __2020-12-05 10:18:42__
 
-> A slight problem. To proceed I have to tap I Have Never Had a Covid Test. I have, it was negative, and I am entirely well.<br> :date: __2020-11-29 10:45:33__
+> Was great. Since Android update, notifications no longer appear and I often forget to report. Notifications are enabled for this app in my settings, so that's not the problem.<br> :date: __2020-12-05 09:14:01__
 
-> Excellent for what it's doing. But unfortunately everytime I open to report for the day, it tells me to report for yesterday first. Everytime. And yet I report everyday. It also keeps losing covid-19 tests which I've had.<br> :date: __2020-11-28 12:14:53__
+> Keeps crashing upon opening on Android, been ok until today<br> :date: __2020-12-04 23:57:06__
 
-> Fine except for problems logging in, repeatedly. I use an android mobile.<br> :date: __2020-11-28 12:09:18__
+> Notifications have stopped and I keep forgetting without them<br> :date: __2020-12-03 19:04:23__
 
-> It's a good idea to help keep track BUT since the update it no longer reminds me to do it so now I keep forgetting to do it<br> :date: __2020-11-28 11:34:02__
+> Had it since the beginning and worked well, now i dont get reminders even after updating and following other instructions.<br> :date: __2020-12-03 18:54:36__
 
-> I installed from very early on to help with data gathering. Worked fine until 2 weeks ago when I had to fill all the forms in again to keep my account. Saw a message from creators saying there had been a blip which was now sorted. Today I go on to report and it says I haven't done do for 14 days. I have updated it every day and never missed. I'm not sure you really have sorted out your problems!<br> :date: __2020-11-28 10:45:47__
+> I added 2 test results recently, now everyday the app asks "is this list correct" (of tests). It's a bit annoying. Can you just give an option to add a new test rather than ask each day. Apart from that the app is fine and I'll adjust my review if this minor annoyance is addressed.<br> :date: __2020-12-02 12:39:10__
 
-> Was easy to use but then it crashed. Deleted app then reinstalled. Continued to fail but this morning got in.<br> :date: __2020-11-28 10:31:25__
+> No longer getting daily reminders. Unable to rectify this problem<br> :date: __2020-12-02 06:29:15__
 
-> Not always clear when to move to the next page, leaves you hanging, like now, I don't know if this review is going to be submitted or if I've just been wasting my time.<br> :date: __2020-11-27 22:47:57__
+> Have been reporting since the very start but every day it says I haven't reported . Updated it as instructed and it said I hadn't logged on for 16 days! Started again to remind me to report when I have. Very frustrating. I'm in the North East where number of cases are large and so important that I report .<br> :date: __2020-12-01 11:37:18__
 
-> Was a good app but now can't log in even after following link to reset password. Uninstalling and reinstalling doesnt work either. Just won't recognise password after reset....😕😕😕<br> :date: __2020-11-27 21:52:54__
+> Good on the whole, though app sometimes says I have not reported for 2-3 days, whereas I do so daily.<br> :date: __2020-12-01 10:45:51__
 
 
 
@@ -284,19 +284,25 @@ The COVID Symptom Study app has been installed by more than **1000000** times. A
 <img src="2_star_reviews_wordcloud.png" alt="com.joinzoe.covid_zoe 2 reviews"/>
 </p>
 
+> Recent update appears to have broken the app. Now loads a blank screen. Hoping for a fix soon.<br> :date: __2020-12-04 18:41:57__
+
+> The notifications no longer work after the last android update.. got the email saying you'd fixed it but it still doesn't work for me...help.<br> :date: __2020-12-03 22:30:24__
+
+> Normally great but keeps creating when it's opened this week<br> :date: __2020-12-03 12:34:00__
+
+> Good until recently now I seem to for ever uninstalling and reloading as it keeps losing my identity.<br> :date: __2020-12-02 20:14:01__
+
+> It's stopped working for me in the last few days. I now get the big "C19" screen, then a "C19 Loading.." screen, then the main page pops up with the "Report Today, Even if you're Well" button but then about 1s later, the screen just goes white. If feels like an advert is about to pop up but no. I can no longer use the app because of this.<br> :date: __2020-12-01 13:02:37__
+
+> Worked fine for ages, now it just opens to a blank white screen, my mother's app does the same on her phone.<br> :date: __2020-12-01 10:28:51__
+
+> Dåligt att man inte i appen kan se smittspridningen på den plats man är.<br> :date: __2020-11-30 16:54:31__
+
 > Not everything is Covid when you are not feeling 100%. I don't understand it. Also fed up of not being recognised when I log in. I wonder what this is good for really.<br> :date: __2020-11-29 17:55:46__
 
 > Simple to use. However still not able to open after update. Downloaded update as advised on email today 28/11/20 But opens & then disappears!!! Please fix this issue for Android users.<br> :date: __2020-11-28 10:24:06__
 
 > was good, cannot now access. goes straight to white screen despite following instructions to fix the fault. Disappointed.<br> :date: __2020-11-28 08:17:16__
-
-> 23 Nov 2020 I have been participating with the study since lockdown. Suddenly for a week now the requests for daily reports stopped. When I tap on the app. it asked me to create a new account. Why? 27 Nov 2020 Response from Zoe that problems have occurred to several people. Suggested I install the update by clicking on playstore app. Tried thrice, kept on installing...... So I shall terminate. Waste of 3 hours! When I return to original app, it ask me to create a new one. What's happening!<br> :date: __2020-11-27 16:50:20__
-
-> Was working well but now gets to home screen and goes blank. Unusable, deleting.<br> :date: __2020-11-27 12:49:26__
-
-> Extremely confusing wording. Cannot tell if info and charts are just from this study or all govt sources.<br> :date: __2020-11-25 14:44:08__
-
-> App just reset and feels off.. not sure what happened.<br> :date: __2020-11-24 09:34:33__
 
 
 
@@ -306,24 +312,24 @@ The COVID Symptom Study app has been installed by more than **1000000** times. A
 <img src="1_star_reviews_wordcloud.png" alt="com.joinzoe.covid_zoe 1 reviews"/>
 </p>
 
-> Cannot get past the first set of questions....it says next question but doesn't move on....have tried more than once to access.<br> :date: __2020-11-28 16:28:32__
+> Brilliant app, supported it from the start. However now only gives me a white screen when i log on. Have reinstalled to no effect Shame . I have now given up and am no longer participating<br> :date: __2020-12-05 11:00:25__
 
-> Since changing my phone to a fold 2 this app no longer works. It appears to think that the phone is a tablet<br> :date: __2020-11-28 11:43:52__
+> This rating only refers to today. On opening the app I get a white blank screen and can't do anything.<br> :date: __2020-12-04 15:54:59__
 
-> Used to be brilliant but now goes immediately to a white screen so fails to be of any use<br> :date: __2020-11-27 22:07:31__
+> I do not get notifications anymore<br> :date: __2020-12-03 19:23:48__
 
-> This app is a pain in the ass some days ago it went wrong and asked me to log in which i did numerous times then i was asked for e mail and pass word which i did several times again i was asked for password which i did several times only to be asked to log in then asked for password again.This i tried for several days i am now so fed up and have given up.You try to help by takeing part in these studies and wonder who the hell supervises the system.No more time wasteing apps for me.<br> :date: __2020-11-27 20:55:59__
+> Not able to use since the latest update. App opens then goes straight to a blank screen<br> :date: __2020-12-03 10:19:42__
 
-> Stopped working on latest android on galaxy s10. Startup shows then I get blank white screen. Reinstalled but still no good. Come on people, this is too important to screw up!<br> :date: __2020-11-27 18:16:00__
+> after last update wont open up properly on asus chromebook, very hard to hit report button at the start only showing about 3mm<br> :date: __2020-12-02 22:09:51__
 
-> Unable to access ap.<br> :date: __2020-11-27 17:27:31__
+> I cant log on anymore, impossible to scroll down to enter anything. It wont let me re-register using old email, or alternative address. Somebody in the IT team needs to go back to college! (or ask Dido for help) !<br> :date: __2020-12-02 14:53:27__
 
-> Was working but now thanks to the update it no longer works out goes to a white screen<br> :date: __2020-11-27 15:33:16__
+> Cannot get on the app for some reason,is there a problem<br> :date: __2020-12-02 12:18:44__
 
-> Has been working well for months, now when I log in to the app I just have a blank white screen, despite updating to V.2<br> :date: __2020-11-27 14:40:07__
+> The app has failed today. Re-installed it but a white screen is all I get. Have used it daily for 6 months.<br> :date: __2020-12-02 10:40:16__
 
-> The update doesn't work in Google play<br> :date: __2020-11-27 13:23:52__
+> Was working well. Now just doesn't recognise me. Have uninstalled and reinstalled many times to no avail<br> :date: __2020-12-01 15:07:07__
 
-> Was using app ..got locked out last wk .Couldn't get back into the app. Got email suggesting being a computer fault ..to download another updated app ..did this and still not working. Fed up trying<br> :date: __2020-11-27 12:51:42__
+> Seems to have been disabled on chrome computers. Still not working. Why not have an alternative of reporting on an ordinary web site (NOT an App) for those oldies who do not have up to date software?<br> :date: __2020-12-01 13:37:58__
 
 

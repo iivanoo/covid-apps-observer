@@ -218,6 +218,8 @@ The Canada COVID-19 app has been installed by more than **100000** times. At thi
 <img src="2_star_reviews_wordcloud.png" alt="ca.gc.hcsc.canada.covid19 2 reviews"/>
 </p>
 
+> Good to have app but it is quite slow to load the self check page. Please make it faster<br> :date: __2020-12-02 14:31:08__
+
 > [Original Rel review] Unreliable notifications. No app exit stratagy, that's very poor design. Otherwise fine app but becoming very slow to load or change tabs. [2020-10-21 Rel] Still no proper way to exit app. Extremely slow response throughout, even on fiber internet. [2020-10-27 Rel] Workflow error. After submitting daily check-in returning to home tab app thinks daily check-in not done. Exit and reload app check-in noted correctly. Other faults remain.<br> :date: __2020-11-01 15:11:04__
 
 > I thought this was the tracker app. It isn't and it really isn't useful<br> :date: __2020-10-07 04:46:06__
@@ -235,8 +237,6 @@ The Canada COVID-19 app has been installed by more than **100000** times. At thi
 > Very disappointed. No Bluetooth integration. Kind of a fail, not completely but close.<br> :date: __2020-07-24 18:07:44__
 
 > On the surface the app appears to do what it claims. I will update my review once I've had a chance to inspect the code for myself and do some testing of my own.<br> :date: __2020-07-05 23:34:48__
-
-> Dont like it<br> :date: __2020-07-04 07:09:53__
 
 
 

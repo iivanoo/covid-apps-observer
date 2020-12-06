@@ -218,6 +218,8 @@ The Smittestop app has been installed by more than **500000** times. At this tim
 <img src="3_star_reviews_wordcloud.png" alt="com.netcompany.smittestop_exposure_notification 3 reviews"/>
 </p>
 
+> Det virker lidt som om app'en går i stå hvis man ikke bruger den jævnligt, men ellers lige til og forklarende. Bruger ikke GPS som nogen ser ud til at tro. Ville dog være rart med en indikation at at den reelt virkede og havde en effekt. F.eks. en sum tæller over exposures på en dag.<br> :date: __2020-12-04 22:32:58__
+
 > Det nytter jo ærlig talt ikke, at man konstant skal give fornyet accept - den giver jo ikke besked om det. Jeg tjekkede det lige ved et tilfælde, og den har ikke indsamlet ID i ugevis, sikkert siden sidste opdatering. Og nej, GDPR er ikke en issue, folkesundheden er en klar undtagelse, som ikke kræver accept til at begynde med. Og man kan sige, at så giver man også automatisk et samtykke ved at installere appen alligevel.<br> :date: __2020-11-26 00:48:58__
 
 > Intentionen er prisværdig men udførelsen halter: I default-konfigurationen, hvor batteri-optimering er aktiv, kan baggrundschecket uprovokeret gå i stå uden at brugeren advares. Fylder 3 gange så meget som andre landes tilsvarende apps. Dvs. apps der også benytter Apple/Googles notifikations-system. Ej open-source.<br> :date: __2020-10-18 22:00:15__
@@ -235,8 +237,6 @@ The Smittestop app has been installed by more than **500000** times. At this tim
 > Jeg oplevede i dag at Iris scanner (Samsung S8) pludselig blev aktiv da jeg åbnede Smittestop app'en. Jeg har ellers sørget for at lukke helt ned for Iris scanner fordi jeg oplever ubehag, derfor blev jeg ret overrasket over at den pludselig blev aktiveret (rødt lys) da jeg åbnede Smittestop. Hvis app'en gør hvad den skal er det jo ellers et ret godt værktøj mod Covid19, men er usikker på App'ens status og nu også hvor meget den overvåger...<br> :date: __2020-08-29 10:28:47__
 
 > The app appears to create occasional interference with my Bluetooth headphones.<br> :date: __2020-08-19 21:01:24__
-
-> English version would be useful<br> :date: __2020-08-08 22:15:09__
 
 
 
@@ -274,6 +274,8 @@ The Smittestop app has been installed by more than **500000** times. At this tim
 <img src="1_star_reviews_wordcloud.png" alt="com.netcompany.smittestop_exposure_notification 1 reviews"/>
 </p>
 
+> Absolutely horrendous design that you need to open the app to force it to check for exposures. I can't believe something as essential as this app doesn't work in the background all the time, on all unmodified Android phones.<br> :date: __2020-12-02 21:32:09__
+
 > Netcompany.... Created this APP. 8 people were alerted of whom 6 were testers and 2 their mothers.<br> :date: __2020-11-29 22:31:43__
 
 > I can see number of keys checked and number of matches in Google menu, but not in the app. Furthermore, after recent update it stopped checking. It gives "checking" notification, but last checked time is shown two days ago. I suspect something is severely broken there.<br> :date: __2020-11-24 19:40:28__
@@ -291,7 +293,5 @@ The Smittestop app has been installed by more than **500000** times. At this tim
 > Appen holdt op med at virke ud af det blå! Jeg opdagede kun tilfældigt at den var blevet slået fra.<br> :date: __2020-11-12 14:43:15__
 
 > Closed source and no English translation...<br> :date: __2020-10-20 23:15:59__
-
-> Netcompany er et svindelfirma<br> :date: __2020-10-19 20:54:57__
 
 

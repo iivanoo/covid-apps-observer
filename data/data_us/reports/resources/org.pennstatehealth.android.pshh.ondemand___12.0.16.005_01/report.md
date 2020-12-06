@@ -202,6 +202,12 @@ The Penn State Health OnDemand app has been installed by more than **10000** tim
 <img src="5_star_reviews_wordcloud.png" alt="org.pennstatehealth.android.pshh.ondemand 5 reviews"/>
 </p>
 
+> Good experience<br> :date: __2020-12-04 20:50:23__
+
+> I had a issue with my video feed not showing on the providers end. I had to refresh the visit (from the bottom pull up task bar) & then he was able to see me. Other than that initial issue, this is a great platform for telehealth visits<br> :date: __2020-12-01 15:18:01__
+
+> Great<br> :date: __2020-11-30 17:48:39__
+
 > Great experience. Friendly helpful R.N.<br> :date: __2020-11-27 14:51:38__
 
 > I'm technically challenged and managed to navigate with ease!<br> :date: __2020-11-25 13:51:52__
@@ -215,12 +221,6 @@ The Penn State Health OnDemand app has been installed by more than **10000** tim
 > Very èasy to use. Excellent application! The developers of this àppĺicàtìòn have performed a great service to Penn State Health and the community in general!<br> :date: __2020-11-19 15:10:43__
 
 > This app allows you to visit with your physician on a device just as if you were in the medical facility. During an pandemic it keeps you and the medical staff safe. If you haven't downloaded it yet you really should because there is no difference between your home and the doctors office. Well except for not having your vitals taken.<br> :date: __2020-11-10 20:46:34__
-
-> Smooth and straight forward. It provides logical prompts along the way that made the whole process very easy.<br> :date: __2020-11-09 15:49:14__
-
-> Susan Shook was brilliant in her patient service: very kind and a good listener.<br> :date: __2020-11-05 22:32:59__
-
-> Great way of communicating with your physician.<br> :date: __2020-11-04 22:06:51__
 
 
 

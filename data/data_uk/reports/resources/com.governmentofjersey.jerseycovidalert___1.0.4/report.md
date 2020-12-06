@@ -157,6 +157,8 @@ The Jersey COVID Alert app has been installed by more than **10000** times. At t
 <img src="4_star_reviews_wordcloud.png" alt="com.governmentofjersey.jerseycovidalert 4 reviews"/>
 </p>
 
+> Pretty straightforward. NHS app has built in QR scanner for venue check-in which this app is missing.<br> :date: __2020-12-05 01:22:57__
+
 > Constantly getting "cannot contact server" error message. Edit The fixed version does now work. Easy to use. Now a 4 star app (can't give 5 stars until I've met someone with covid!,)<br> :date: __2020-10-15 18:20:59__
 
 > Says no Internet connection the whole time. Update has fixed issues<br> :date: __2020-10-14 21:31:16__
@@ -190,6 +192,8 @@ The Jersey COVID Alert app has been installed by more than **10000** times. At t
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="com.governmentofjersey.jerseycovidalert 1 reviews"/>
 </p>
+
+> Can't get through to the track and trace number. Pointless<br> :date: __2020-11-30 21:25:58__
 
 > Government surveillance scam, sheep fell for it!<br> :date: __2020-11-21 05:22:03__
 

@@ -191,25 +191,25 @@ The 98point6 app has been installed by more than **50000** times. At this time, 
 <img src="5_star_reviews_wordcloud.png" alt="com.ninety8point6.patientapp 5 reviews"/>
 </p>
 
-> Very helpful, love it!<br> :date: __2020-11-29 23:37:19__
+> It works smoothly with no hiccups. Great app & great doctors too!<br> :date: __2020-12-05 03:42:34__
 
-> Saved me 2 trips to a doctor, got prescriptions filled without issue<br> :date: __2020-11-29 23:13:34__
+> Easy to use.<br> :date: __2020-12-04 19:04:52__
 
-> Easy to use and quick, they answer questions and give results. For me the service is free due to the plan I have.<br> :date: __2020-11-29 18:21:11__
+> Excellent experience with actual physicians!<br> :date: __2020-12-04 06:41:10__
 
-> Super fast response time to talk to a doctor and they were very respectful. I totally recommend using this app.<br> :date: __2020-11-27 10:36:42__
+> May take a minute or 20 to get a doc, but they're engaged & helpful. Feel like I got more discussion about what was going on then when I've gone into the office.<br> :date: __2020-12-04 00:58:59__
 
-> First time using the app. Fast and efficient - very easy to use.<br> :date: __2020-11-26 19:03:53__
+> Very helpful and quick<br> :date: __2020-12-04 00:31:51__
 
-> Quick and efficient.<br> :date: __2020-11-26 01:46:16__
+> You have no idea how awesome this app is !<br> :date: __2020-12-02 05:33:21__
 
-> Excellent service from quality physicians who really listen to you.<br> :date: __2020-11-25 22:37:56__
+> Works great. Simple interface and very efficient!<br> :date: __2020-12-01 22:34:18__
 
-> This app has saved me so many times, I dont drive and my drs office if far away and costs alot of money just to get there. This app allows me to take care of refills and quick visits without even having to leave the house!<br> :date: __2020-11-24 19:57:03__
+> This app is simple and to the point! There's not much else you can ask for. It quickly connects you with a doctor and is very easy to use. My only suggestion is that I wish there was a dark mode.<br> :date: __2020-12-01 20:53:38__
 
-> This service is undescribable. Everyone should know what you can do to help them. Its medical care without the greedy medical costs. You all should be commended and I appreciate this service so very much.<br> :date: __2020-11-24 18:37:23__
+> Absolutely amazing!<br> :date: __2020-12-01 18:34:53__
 
-> Great experience! Best doctor appointment that I have had in a while. I felt heard.<br> :date: __2020-11-23 00:55:24__
+> Dope<br> :date: __2020-12-01 17:08:54__
 
 
 
@@ -299,6 +299,8 @@ The 98point6 app has been installed by more than **50000** times. At this time, 
 <img src="1_star_reviews_wordcloud.png" alt="com.ninety8point6.patientapp 1 reviews"/>
 </p>
 
+> Terrible. No one to help with technical issues and no number to call.<br> :date: __2020-12-02 02:44:52__
+
 > Horrible!!! Unable to register. Pages keep rotating.<br> :date: __2020-11-29 18:02:56__
 
 > Useless. I have used the app three times. Each time the result was a big fat nothing. Each time i then went to Urgent care , around $140-$150, and was told I have a sinus infection and was subscribed an anti-biotic. I thought the hole point was to forgo the office visit and use these physicians.<br> :date: __2020-11-24 19:40:12__
@@ -316,7 +318,5 @@ The 98point6 app has been installed by more than **50000** times. At this time, 
 > Not really much help when experiencing medical issues<br> :date: __2020-09-09 20:27:46__
 
 > Won't install<br> :date: __2020-09-01 19:07:38__
-
-> Can't get signed on. Put in employer says cant find, but employer sent email.<br> :date: __2020-08-29 15:17:55__
 
 

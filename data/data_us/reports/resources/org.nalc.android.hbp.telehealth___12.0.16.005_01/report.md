@@ -227,6 +227,8 @@ The NALCHBP Telehealth app has been installed by more than **1000** times. At th
 <img src="4_star_reviews_wordcloud.png" alt="org.nalc.android.hbp.telehealth 4 reviews"/>
 </p>
 
+> Very convenient for general health, skin, cold type issues. Little more laggy than I would like (I have good internet) but not enough of an issue to keep me from coming back. More convenient than an urgent care.<br> :date: __2020-12-01 02:07:09__
+
 > Good<br> :date: __2020-09-23 15:31:51__
 
 > Went very well<br> :date: __2020-03-30 17:42:03__

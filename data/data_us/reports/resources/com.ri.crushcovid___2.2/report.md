@@ -265,6 +265,8 @@ The CRUSH COVID RI app has been installed by more than **10000** times. At this 
 <img src="1_star_reviews_wordcloud.png" alt="com.ri.crushcovid 1 reviews"/>
 </p>
 
+> I can't get past the "Let's Go" button on a Pixel 5. This used to work on my Pixel.<br> :date: __2020-12-02 17:30:43__
+
 > After I use symptom diary, the next screen freezes. I have to uninstall the app and then install it again.<br> :date: __2020-11-22 15:40:59__
 
 > Constantly says that I need to connect to Wi-Fi or mobile which are both connected tried turning each off individually with the same message. I am removing the app from my phone<br> :date: __2020-11-12 19:18:39__
@@ -282,7 +284,5 @@ The CRUSH COVID RI app has been installed by more than **10000** times. At this 
 > Not working correctly. Dates wrong<br> :date: __2020-10-06 06:25:40__
 
 > Need to enable exposure notifications, app is useless if it does not alert the user that they have been exposed.<br> :date: __2020-10-03 15:35:00__
-
-> I can't even get through the agreement/permissions page. This is my second attempt with this app after the first version was sending alerts and push messages non stop. I guess for every minute I am frustrated trying to use the app, that is a minute that I am less likely to be exposed to Covid.<br> :date: __2020-09-20 13:34:26__
 
 

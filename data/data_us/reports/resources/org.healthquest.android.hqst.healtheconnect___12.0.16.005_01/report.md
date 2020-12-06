@@ -187,6 +187,8 @@ The Nuvance Health Virtual Visits app has been installed by more than **10000** 
 <img src="5_star_reviews_wordcloud.png" alt="org.healthquest.android.hqst.healtheconnect 5 reviews"/>
 </p>
 
+> Clear picture and voice quality. Almost as if you are there...but not quite! Love in person interaction.<br> :date: __2020-12-02 21:25:09__
+
 > Great<br> :date: __2020-11-25 22:01:09__
 
 > This is a great app. In this day and age of covid-19 I don't feel unsafe going to a doctor's office. The system has been working fine for me so far and I give it five stars!<br> :date: __2020-11-22 00:54:33__
@@ -204,8 +206,6 @@ The Nuvance Health Virtual Visits app has been installed by more than **10000** 
 > App worked well and wa easy to set upa on LG tablet<br> :date: __2020-10-26 19:22:23__
 
 > I would give it 5 stars but volume is a problem. I have my volume up to the max and can barely hear my provider. UPDATE Went to 5 Stars, volume was much better today!<br> :date: __2020-10-16 17:13:06__
-
-> A real time saver !<br> :date: __2020-10-02 20:59:52__
 
 
 

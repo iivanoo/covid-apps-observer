@@ -1,5 +1,17 @@
 [
     {
+        "reviewId": "gp:AOqpTOEM_1AOhP4VP2eOnRksYttj0eNCbzN4s_ar1tVI6DEUNjGsaP9sVCZpBY9WUP43N-cUXXhhubwkb8y4_as",
+        "userName": "Sophia Maria Josephine Johnson",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjXMr0T1z7DWf-C8dnAVaUJ6qrgQY0fYhYKL6Qg5lg",
+        "content": "Great!",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.20.0",
+        "at": "2020-11-30 17:23:32",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOGOKrcgMIKKfMJfgqvmqqG65qo8M04IoKzRoaLFpdEGtu8l_TlEM8vV3nc7S4SQDwi_B3alKBMNqCbabf0",
         "userName": "Adlai Newson",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgBHDM9xWjh7ViNKSrtGHMRo_anVoOaXGIwCG2vGOQ",
@@ -29,7 +41,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-Ob3gzrtSrgU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclLtkBfUcWwsduRgRmWa5fTIkTUMg/photo.jpg",
         "content": "I love the app and the up to date info it would be nice though if we could see not just how many cases there are in each Health Authority but instead the number of active cases per health authority",
         "score": 3,
-        "thumbsUpCount": 6,
+        "thumbsUpCount": 7,
         "reviewCreatedVersion": "1.28.0",
         "at": "2020-10-30 05:35:56",
         "replyContent": null,
@@ -617,7 +629,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiVviU2550dDOkQDBBMiodarikGBl1ySMDYF8JRRg",
         "content": "I'd love something that started with a daily update straight from the province. Maybe a color coded system like fire warnings that is clear and actionable. What IS social distancing? Which businesses are supposed to be open? Which are deemed essential? How often should someone be at a grocery store? Make this easy.",
         "score": 1,
-        "thumbsUpCount": 16,
+        "thumbsUpCount": 17,
         "reviewCreatedVersion": "1.6.0",
         "at": "2020-03-25 07:31:11",
         "replyContent": null,

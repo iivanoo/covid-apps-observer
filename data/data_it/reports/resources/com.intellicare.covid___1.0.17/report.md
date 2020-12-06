@@ -253,6 +253,8 @@ The LAZIOdrCovid app has been installed by more than **100000** times. At this t
 <img src="1_star_reviews_wordcloud.png" alt="com.intellicare.covid 1 reviews"/>
 </p>
 
+> Mi sono registrato ..e non và avanti ...mi dice che sono registrato con altro n. ? ...mai fatto questa è la prima volta ,il mio n. è lo stesso da 5 anni !! Bohhhhhh<br> :date: __2020-12-05 10:03:41__
+
 > Vorrei sapere chi ha creato un app inutile come questa. Sa qualcuno a cosa serve? Ma non avete nulla da fare a far perdere tempo a gente che sta male... Incompetenti.<br> :date: __2020-11-19 16:21:45__
 
 > Sul cellulare Huawei non si installa, sul tablet Samsung si blocca al primo accesso...<br> :date: __2020-11-17 14:47:51__
@@ -270,7 +272,5 @@ The LAZIOdrCovid app has been installed by more than **100000** times. At this t
 > Dopo qualche giorno di funzionamento normale, ora non si apre più e dice di scaricare la versione aggiornata dallo store o in alternativa si apre ma non carica i dati e si blocca.<br> :date: __2020-11-12 09:55:31__
 
 > L'app non viene aggiornata dal 1°settembre, meno di un aggiornamento al mese vuol dire stato di abbandono. La prima volta in maniera laboriosa sono riuscito ad effettuare l'autenticazione. I grafici supportano i primi 10 inserimenti, i successivi vengono registrati ma non sono nei vari grafici.Ora dopo un paio di giorni di inutilizzo mi dice che la sessione è scaduta e non riesco più ad autenticarmi. Qualche dottore dovrebbe dire se è utile o meno. Lato utente sembra utile quanto un blocco note.<br> :date: __2020-11-11 23:11:45__
-
-> Disattiva spesso l account e richiede nuova attivazione comunicando invio SMS di attivazione che non arriva mai al cellulare.<br> :date: __2020-11-11 09:59:45__
 
 

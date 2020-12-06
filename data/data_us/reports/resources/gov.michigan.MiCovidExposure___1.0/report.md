@@ -154,6 +154,10 @@ The MI COVID Alert app has been installed by more than **1000** times. At this t
 <img src="4_star_reviews_wordcloud.png" alt="gov.michigan.MiCovidExposure 4 reviews"/>
 </p>
 
+> I will if it ever downloads, still pending After 5 Minutes, tried again a few days later and it downloaded right away<br> :date: __2020-12-04 05:11:59__
+
+> Sits quietly in the background doing it's thing with no battery degradation. Like to see a tab to show vaccination verification because eventually schools, businesses, concerts, theaters, airlines, etc will want to see proof of vaccination.<br> :date: __2020-12-02 02:55:30__
+
 > So far I havent seen anything about exposures. It would be good if they told me how my county and town is doing.<br> :date: __2020-11-26 16:31:22__
 
 > I installed it to do my part. I'll uninstall it once this pandemic passes. That's freedom.<br> :date: __2020-11-21 18:55:35__
@@ -170,10 +174,6 @@ The MI COVID Alert app has been installed by more than **1000** times. At this t
 
 > Remove stats tab. Why isn't this for any infectious disease.<br> :date: __2020-11-14 00:37:30__
 
-> In the stats tab if you scroll to the map you get stuck unable to scroll outside of the map. Only solution seems to be to reopen the app. Might try making the map a touch smaller or making it a separate pop out window or something.<br> :date: __2020-11-13 21:25:25__
-
-> This app is great, but it would be even better if we could submit a result that tested negative so that health officials can track this as well.<br> :date: __2020-11-13 19:36:09__
-
 
 
 #### 3-star reviews
@@ -181,8 +181,6 @@ The MI COVID Alert app has been installed by more than **1000** times. At this t
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="gov.michigan.MiCovidExposure 3 reviews"/>
 </p>
-
-> Not from that area not very sure<br> :date: __2020-11-29 13:19:18__
 
 > Very confusing.......<br> :date: __2020-11-29 00:19:29__
 
@@ -200,7 +198,9 @@ The MI COVID Alert app has been installed by more than **1000** times. At this t
 
 > I am a nurse and have tested positive in April. No pin given. Won't let me submit my result<br> :date: __2020-11-14 09:22:03__
 
-> I will it ever download, still pending After 5 Minutes<br> :date: __2020-11-14 04:23:42__
+> We live in a weird ass world, ive been inside for months<br> :date: __2020-11-13 20:05:32__
+
+> Too much text, especially when you try to look at John Hopkins pages. The notice about that fills half the page, the bottom icons take more, so you get very little info on the screen and cant even see that it is michigan on the map. Next topic: I also worry very much about being tracked and my privacy.<br> :date: __2020-11-12 16:00:48__
 
 
 
@@ -209,6 +209,8 @@ The MI COVID Alert app has been installed by more than **1000** times. At this t
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="gov.michigan.MiCovidExposure 2 reviews"/>
 </p>
+
+> Seems like a good idea, I'm not in a major city and don't work around large amounts of people so not sure how effective it will be for me. One thing it did I don't get since it says it uses bluetooth and won't ask for GPS, is it required me to have my GPS on to receive notifications! "Exposure notification inactive" this is what it tells me unless my GPS is on. "To use turn on location."<br> :date: __2020-12-04 23:34:03__
 
 > This has not checked for 4days<br> :date: __2020-11-24 22:28:57__
 
@@ -226,8 +228,6 @@ The MI COVID Alert app has been installed by more than **1000** times. At this t
 
 > I wish this Covid-MI was more like the COVID -NJ APP it actually let you know if been exposed . Has a feature that circles They need to improve the Covid-19 app for MI Whomever developed should look at the Covid-NJ app asap<br> :date: __2020-11-15 08:12:50__
 
-> Seems like a good idea, I'm not in a major city and don't work around large amounts of people so not sure how effective it will be for me. One thing it did I don't get since it says it uses bluetooth and won't ask for GPS, is it required me to have my GPS on to receive notifications! Everything I read about the app says it shouldn't and won't do this and it's not listed as part of the app permissions. If the app really needs GPS on they need to make sure it's known and listed in the permissions!<br> :date: __2020-11-14 13:59:23__
-
 > The design makes it impossible to read the info in stats.<br> :date: __2020-11-14 03:17:19__
 
 
@@ -238,24 +238,24 @@ The MI COVID Alert app has been installed by more than **1000** times. At this t
 <img src="1_star_reviews_wordcloud.png" alt="gov.michigan.MiCovidExposure 1 reviews"/>
 </p>
 
-> The app is useless unless everyone who has a positive test submits their result. It's very unrealistic to expect compliance to that level. Interesting concept but completely irrelevant based on inconsistencies in reporting. If someone didn't realize these flaws it also could create a false sense of security.<br> :date: __2020-11-28 14:29:01__
+> They can't even update the false numbers 🤣🤣<br> :date: __2020-12-04 13:15:19__
 
-> Why would anyone take the word of the Retard in charge of MDHHS? Whitmer is just using him as a scapegoat in case blame starts being placed. Whitmer is responsible for the resurgence here in Michigan. She is inept and incompentent. Impeachment is in progress. Then she can suffer lockdowns with the rest of us. Not go boating with her husband during COVID-19. They are only reporting the positive cases. Not the negative. That woukd mess up their math. Fraulin Whitmer and her friends call us Nazis.<br> :date: __2020-11-28 01:07:04__
+> Gubermint printing dollars, forcing small businesses to close, impoverishing the middle class, covid19 is their excuse for taking our rights as well as our livelihoods away. Don't let this app help them divide and conquer We The People.<br> :date: __2020-12-04 03:48:50__
+
+> Absolutely useless. Doesn't do anything but sit there. It has never shown me in close contact (because not enough people use it) and when I did contract COVID, I could not notify through the app because the state never contacted me with a special code. I would not trust this at all. Uninstalling!<br> :date: __2020-12-02 04:09:31__
+
+> No one uses it. Only works if people report they had it on the app.<br> :date: __2020-12-01 13:14:06__
+
+> Doesnt open, doesn't work at all<br> :date: __2020-12-01 07:59:08__
+
+> Absolutely not useful everyone knows the numbers are lies so what's the point<br> :date: __2020-12-01 06:43:55__
+
+> So far so good I suppose, what to do when your job obscures exposure data to prevent absence? I know I've been exposed, apparently no one at my job has this app, so that is less than helpful.<br> :date: __2020-12-01 04:05:36__
+
+> The app is useless unless everyone who has a positive test submits their result. It's very unrealistic to expect compliance to that level. Interesting concept but completely irrelevant based on inconsistencies in reporting. If someone didn't realize these flaws it also could create a false sense of security. State of Michigan- In response to your answer, that is exactly the point I was trying to make. If everyone is not using the app what information are you really going to get from it?<br> :date: __2020-11-30 22:15:52__
+
+> If the Health Dept doesn't get you a pin number for so far 7 days since I tested positive, how the hell is that doing any body any good. You need a pin to show you tested positive. This is totally useless.<br> :date: __2020-11-30 18:00:24__
 
 > This seems like a pretty massive Hippo violation<br> :date: __2020-11-27 21:10:11__
-
-> Not a reliable source if you ask me<br> :date: __2020-11-27 20:25:15__
-
-> This app only gives a breakdown of case by state and what color you are. Id rather have a breakdown of my area. I dont care what color someone is. That has nothing to do with Covid.<br> :date: __2020-11-27 20:06:34__
-
-> Lmao, if yall think I'm going to give this app the permissions its asking for, you have a screw loose. This app wants full network access... why? To send a few bytes of data? You don't need full access for that. Limited is just find. Stop taking the lazy way out of developing and actually limit the accesses, so we aren't opened up to cyber attacks and hacking and tracking. You can take this app, and shove it up your stink hole.<br> :date: __2020-11-27 15:33:39__
-
-> Downloaded the app twice. Got a message that says, "App will be downloaded to your device." Ummm...WHEN?! When I go back to the PlayStore, it shows that the app is there to download.<br> :date: __2020-11-27 06:29:05__
-
-> Don't Give Fascists Power<br> :date: __2020-11-27 01:25:42__
-
-> Sounds like a great app but it doesn't even allow me to start using it. It says I need to update Google services to enable notifications, but everything is updated already :(<br> :date: __2020-11-26 23:08:17__
-
-> I dont think it works<br> :date: __2020-11-24 15:44:50__
 
 

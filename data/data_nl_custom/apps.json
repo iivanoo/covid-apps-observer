@@ -4,69 +4,69 @@
         "store_country": "nl",
         "store_lang": "nl",
         "latest_crawled_version": "2.2.666",
-        "latest_crawl": 1606728406
+        "latest_crawl": 1607174724
     },
     {
         "id": "at.roteskreuz.stopcorona",
         "store_country": "nl",
         "store_lang": "nl",
         "latest_crawled_version": "2.0.5.1081-QA_250",
-        "latest_crawl": 1606728410
+        "latest_crawl": 1607174724
     },
     {
         "id": "nl.rivm.lciapp",
         "store_country": "nl",
         "store_lang": "nl",
         "latest_crawled_version": "1.27.4",
-        "latest_crawl": 1606728418
+        "latest_crawl": 1607174732
     },
     {
         "id": "org.who.infoapp",
         "store_country": "nl",
         "store_lang": "nl",
-        "latest_crawled_version": "3.1.1",
-        "latest_crawl": 1606728419
+        "latest_crawled_version": "4.0.1",
+        "latest_crawl": 1607174874
     },
     {
         "id": "nl.focuscura.beeldbelapp",
         "store_country": "nl",
         "store_lang": "nl",
-        "latest_crawled_version": "4.30.0",
-        "latest_crawl": 1606728428
+        "latest_crawled_version": "5.0.0",
+        "latest_crawl": 1607175869
     },
     {
         "id": "de.xikolo.openwho",
         "store_country": "nl",
         "store_lang": "nl",
         "latest_crawled_version": "3.7",
-        "latest_crawl": 1606728536
+        "latest_crawl": 1607175996
     },
     {
         "id": "com.joinzoe.covid_zoe",
         "store_country": "nl",
         "store_lang": "nl",
         "latest_crawled_version": "2.0.2",
-        "latest_crawl": 1606728899
+        "latest_crawl": 1607176005
     },
     {
         "id": "nl.lumc.covidradar",
         "store_country": "nl",
         "store_lang": "nl",
         "latest_crawled_version": "1.1.2",
-        "latest_crawl": 1606728977
+        "latest_crawl": 1607176005
     },
     {
         "id": "jhu.edu.JohnsHopkinsCOVIDControl",
         "store_country": "nl",
         "store_lang": "nl",
         "latest_crawled_version": "3.3",
-        "latest_crawl": 1606728985
+        "latest_crawl": 1607176009
     },
     {
         "id": "nl.rijksoverheid.en",
         "store_country": "nl",
         "store_lang": "nl",
-        "latest_crawled_version": "1.1.0",
-        "latest_crawl": 1606729022
+        "latest_crawled_version": "1.1.1",
+        "latest_crawl": 1607176047
     }
 ]

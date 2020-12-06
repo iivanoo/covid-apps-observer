@@ -134,6 +134,8 @@ The Covid Watch Arizona app has been installed by more than **5000** times. At t
 <img src="5_star_reviews_wordcloud.png" alt="gov.azdhs.covidwatch.android 5 reviews"/>
 </p>
 
+> Necessary<br> :date: __2020-12-03 06:41:57__
+
 > The app is Amazing and I love it. This should be launched across USA and it will help in saving allot of people from exposure of Covid-19. Everyone in Arizona should download and start using it.<br> :date: __2020-10-06 13:43:59__
 
 > The idea is great/it is easy to set up/explains how it works well. I will rate 5 simply for that. It definitely needs to be able to be discovered by searching 'covid arizona' or 'covid watch arizona'. I had to look it up on a search engine then go through an app store link on the dev's website to find it.<br> :date: __2020-09-11 05:38:37__

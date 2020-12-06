@@ -210,6 +210,10 @@ The Service NSW app has been installed by more than **1000000** times. At this t
 <img src="5_star_reviews_wordcloud.png" alt="au.gov.nsw.service 5 reviews"/>
 </p>
 
+> Excellent<br> :date: __2020-12-04 23:43:10__
+
+> Excellent<br> :date: __2020-12-04 22:46:37__
+
 > Have been waiting for online licence since samsung pay so when I leave the house I only need phone. #LIVINGWITHOUTCARDS. All services available for licensing and rego. Everything available on web page is available or links on this app. One of my favourite apps‼️<br> :date: __2020-11-27 01:04:28__
 
 > Excellent app<br> :date: __2020-11-26 07:49:13__
@@ -226,10 +230,6 @@ The Service NSW app has been installed by more than **1000000** times. At this t
 
 > I LOVE IT. So convenient and honestly my favourite app.<br> :date: __2020-11-20 05:31:20__
 
-> Well designed and easy to use...<br> :date: __2020-11-20 03:48:44__
-
-> Irate service New South Wales great<br> :date: __2020-11-20 01:49:48__
-
 
 
 #### 4-star reviews
@@ -237,6 +237,8 @@ The Service NSW app has been installed by more than **1000000** times. At this t
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="au.gov.nsw.service 4 reviews"/>
 </p>
+
+> Unable to get QR verification code sent to my mobile - tried 5 times - & then said service unavailable....🤔 - unable to set up my account as a result.<br> :date: __2020-12-01 07:19:10__
 
 > older people (in our seventies) have a problem 1 finding the NSW services APP. as going to the store to download it there is so many scanners to pick from. 2 we ended installing the incorrect scanner. 3 when we did locate the scanner, it said that it has been installed, 4 we have checked the phone we couldn't locate the scanner anywhere. when we go to have lunch etc the young staff are amazed, that we can't install it, This is very embarressing in front of others waiting. can you help us? Kindest Regards Geoff<br> :date: __2020-11-28 00:46:27__
 
@@ -256,8 +258,6 @@ The Service NSW app has been installed by more than **1000000** times. At this t
 
 > My QR code usage has been working well until today. How do I get it working again?<br> :date: __2020-10-29 05:48:08__
 
-> Simple and easy to use.<br> :date: __2020-10-24 15:12:54__
-
 
 
 #### 3-star reviews
@@ -265,6 +265,8 @@ The Service NSW app has been installed by more than **1000000** times. At this t
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="au.gov.nsw.service 3 reviews"/>
 </p>
+
+> I liked the idea of being able to check into an hospitality venue using this app. Unfortunately, out of several dozen venues I have attended, only one had the service NSW QR Code. It would be good if the app could be adjusted to read third party QR Codes used by hospitality venues.<br> :date: __2020-12-03 23:26:31__
 
 > Could you please create a widget that takes the user straight to the Service NSW QR code scanner? Having to open the app, then go to the Covid-Safe check in button slows things down when queuing in a store or restaurant. Thanks<br> :date: __2020-11-29 05:05:52__
 
@@ -284,8 +286,6 @@ The Service NSW app has been installed by more than **1000000** times. At this t
 
 > App freezes on my pixel 3a at license display. Can't check in to a venue or prove the license isn't a screenshot as app freezes there every single time even after a reinstall.<br> :date: __2020-10-06 01:27:03__
 
-> Injusticemmm, mNwe,yy5566iuiuuuuii. Because k<br> :date: __2020-09-20 00:32:33__
-
 
 
 #### 2-star reviews
@@ -293,6 +293,8 @@ The Service NSW app has been installed by more than **1000000** times. At this t
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="au.gov.nsw.service 2 reviews"/>
 </p>
+
+> Good<br> :date: __2020-12-05 07:43:26__
 
 > Can't understand TAFE NSW codes, have to sign in manually every time. Very annoying<br> :date: __2020-11-27 13:41:38__
 
@@ -312,8 +314,6 @@ The Service NSW app has been installed by more than **1000000** times. At this t
 
 > No way in if you forgot your password. It sends you a one time code but that opens and logs you in on the web. When you switch back to the app you're still logged out. Frustrating<br> :date: __2020-09-11 13:06:28__
 
-> Memory hog, big time.<br> :date: __2020-08-30 01:24:23__
-
 
 
 #### 1-star reviews
@@ -322,24 +322,24 @@ The Service NSW app has been installed by more than **1000000** times. At this t
 <img src="1_star_reviews_wordcloud.png" alt="au.gov.nsw.service 1 reviews"/>
 </p>
 
-> Abysmal<br> :date: __2020-11-30 02:49:47__
+> Rubbish app. Not user friendly, buggy.<br> :date: __2020-12-05 03:43:03__
 
-> Hopeless time out Disappears too fast BEFORE i can write in numb er s<br> :date: __2020-11-29 03:20:45__
+> Dreadfull. Covid scans don't work. They do about one on ten visits to establish mental. ....sigh....<br> :date: __2020-12-04 09:58:32__
 
-> The QR scanner didn't work at two Sydney pubs I tried to register. I use Oppo A5. Is there anything you can do to make it work.<br> :date: __2020-11-29 00:53:38__
+> Stupid thing takes ages to install.<br> :date: __2020-12-04 09:47:52__
 
-> Absolute rubbish. Had to download this pathetic attempt at an app for covid check in... After wasting my time downloading the app for it to not read the QR code that directed me to the app in the first place I left my name and number manually with the restaurant. App deleted.<br> :date: __2020-11-28 07:48:51__
+> Having tried about 10 times to download to a samsung, I've decided that i will save my money and go nowhere i have never been so frustrated the app just sits there waiting to download for about 2hours then disappears and no it hasn't downloaded 🤬<br> :date: __2020-12-04 01:58:47__
 
-> Has anyone seen how dense the QR code is for covid checkin to a restaurant. Make sure the restaurant has used a decent printer. Make sure you have a high resolution camera. Make make sure the restaurant hasn't laminated the paper the QR code is on. Hey service NSW, here's a tip. Before you work with a technology, make sure you understand it.<br> :date: __2020-11-28 03:06:13__
+> I couldn't even get past the signup page as it keeps saying my email isn't valid - which is ridiculous. Can't be bothered wasting any more of my time trying.<br> :date: __2020-12-03 23:47:45__
 
-> So far, none of the venues I visited accept the scanner<br> :date: __2020-11-27 23:13:50__
+> Like so many others our phones won't update therefore no use as a CV-19 scanner. Unable to get a digital licence. Not everyone gets a new phone to have android 6<br> :date: __2020-12-03 12:16:27__
 
-> Tried for 2 days now to add my digital license and all it says is 'something went wrong please try again later'. I cant start work without this! I need to be able to add my rsa and rcg also because i wont get my hardcopy for another 2 weeks. Please tell me why im having this problem<br> :date: __2020-11-27 07:00:37__
+> I have Samsung S7 and the NSW Service responds that "NSW Service does not recognize the scanned code" This happened at St Vincent's Hospital and a Covid 19 testing clinic.". What use is it?<br> :date: __2020-12-03 05:57:04__
 
-> I use a BlackBerry, the app says that it is installed but it doesn't show on my screen. Why go to this complex system when a pen and paper is so easy?<br> :date: __2020-11-27 04:45:27__
+> Terrible!<br> :date: __2020-12-03 02:16:20__
 
-> I have downloaded the app yet it does not appear on my phone. When I tried to download it again it said it was already installed so would not work.<br> :date: __2020-11-25 22:56:58__
+> Not Happy Have downloaded Servive NSW app several times and it just does not work<br> :date: __2020-12-03 00:09:00__
 
-> Can't install<br> :date: __2020-11-25 11:49:18__
+> Cannot login after android update for Samsung S10. Error: it looks like your device maybe using non-standard software. I never had custom software/os on my phone. It was working fine last week, but now cannot login inside the app to view license etc. Please investigate & fix.<br> :date: __2020-12-02 13:37:14__
 
 

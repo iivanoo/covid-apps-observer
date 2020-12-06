@@ -158,6 +158,8 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 <img src="4_star_reviews_wordcloud.png" alt="gov.vdh.exposurenotification 4 reviews"/>
 </p>
 
+> Good app to have! Thumbs up!<br> :date: __2020-12-04 14:28:02__
+
 > Good<br> :date: __2020-11-30 00:12:23__
 
 > Good info. Need to here<br> :date: __2020-11-27 00:06:52__
@@ -176,8 +178,6 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 
 > Yes fine more stuff like this thanks<br> :date: __2020-10-16 05:51:20__
 
-> Larie 4<br> :date: __2020-10-15 14:34:52__
-
 
 
 #### 3-star reviews
@@ -185,6 +185,8 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="gov.vdh.exposurenotification 3 reviews"/>
 </p>
+
+> Only good for the residents within Virginia. or can this be utilized from someone else in another state? And what are the parameters required to utilize this feature; say for a state like Texas? They do not have a contact tracing app.<br> :date: __2020-11-30 20:55:45__
 
 > My problem is that in the DC area folks from DC, Maryland, Virginia mix regularly and then we have people from all over the country coming in. But it seems I can only have one contact app enabled at a time, and as best I can tell that means I wouldn't get notified if my phone had been getting chirps from someone on a different app. Am I incorrect?<br> :date: __2020-11-23 17:52:47__
 
@@ -203,8 +205,6 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 > Just download zo need some time<br> :date: __2020-10-18 01:28:01__
 
 > Location services must be on for android devices to enable blue tooth, which is a huge drawback for me. I rarely have that turned on, and am selective as to when I have my cell radio on. It would be nice if this could be resolved, I don't see why bluetooth has to considered to be part of location services. I don't see Google doing that though...<br> :date: __2020-10-08 15:33:54__
-
-> I've been using this for over 1 hour and still did not find any Pokemon. as to the app, it seems to draw down the battery. unfortunate not enough potential users, and the "where - when" for contacts seems seriously lacking. still have it running because it's all that's offered.<br> :date: __2020-09-25 05:06:02__
 
 
 
@@ -242,6 +242,10 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 <img src="1_star_reviews_wordcloud.png" alt="gov.vdh.exposurenotification 1 reviews"/>
 </p>
 
+> I cannot find the setting described that needs to be turned on in order to use this app I followed the instructions and covidwise is not listed in my settings. Very annoying<br> :date: __2020-12-01 16:35:59__
+
+> It requires you to get a confirmed test result, wait for those results to get sent to the health department, and then the department has to reach out and provide you with a pin to put in the app. That's basically a week of others who may have been exposed to you wandering around and potentially infecting others. Pointless.<br> :date: __2020-12-01 03:39:10__
+
 > Another way to track you because it automatically download on my phone without me pressing the button or even searching up this ridg ASF app you can tell it's fake have fun getting tracked. If anyone reads this the comments<br> :date: __2020-11-27 13:28:29__
 
 > Propaganda. Popped up on my playstore like it was needed. Keep feeding the sheep.<br> :date: __2020-11-24 04:26:18__
@@ -257,9 +261,5 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 > I'm positive! Doesn't give me an option to find or change my code. Want to report but can't. Not user friendly!<br> :date: __2020-11-15 22:08:25__
 
 > Stupid. Will never work because few have the app<br> :date: __2020-11-14 13:55:10__
-
-> Doesn't do exposure checks when I go out. Does exposure checks at 1-5am when people are asleep, which is pointless. What's the use of the app then?<br> :date: __2020-11-13 18:26:55__
-
-> Beware. Within 2 hours of installing this app and giving it the Bluetooth rights, my credit card number was stolen and Netflix account had a suspicious login (not me).<br> :date: __2020-11-13 17:16:22__
 
 

@@ -184,6 +184,8 @@ The Horizon Telehealth app has been installed by more than **1000** times. At th
 <img src="5_star_reviews_wordcloud.png" alt="org.horizonhealth.android.hzhsh.telehealth 5 reviews"/>
 </p>
 
+> good<br> :date: __2020-11-30 15:04:12__
+
 > Helps alot more then phone appointments<br> :date: __2020-11-18 22:16:06__
 
 > This app is extremely user friendly. I would recommend anyone to download this app.<br> :date: __2020-11-16 17:10:16__
@@ -201,8 +203,6 @@ The Horizon Telehealth app has been installed by more than **1000** times. At th
 > I've been using Horizon Telehealth for almost a year now because my original nurse with Horizon was a snow bird & she spent her winter's in Florida. I used to go right to the Horizon site and sign-in to Telehealth but found I actually prefer doing my visits this way! So far I've had very few very minor issues with this app so 5 stars all the way!<br> :date: __2020-10-07 23:02:20__
 
 > Great.<br> :date: __2020-10-02 17:52:21__
-
-> Excellent service<br> :date: __2020-09-29 18:39:57__
 
 
 
@@ -260,7 +260,7 @@ No recent reviews available with 2 stars.
 <img src="1_star_reviews_wordcloud.png" alt="org.horizonhealth.android.hzhsh.telehealth 1 reviews"/>
 </p>
 
-> Drops video often then will say trying to reconnect only to log-out completely. Then can't get back to current appointments takes you to future appointments. WORSE Video App in Virtual Formats. Horizon needs to DROP this App and switch to another format such as TeleHealth, Zoom, Cisco Webex, Google Duo, or even Facebook Video all of these are a Million times better than Horizon Telehealth!!!!!! DOWN WITH HORIZON TELEHEALTH!!!!!!<br> :date: __2020-10-14 21:43:55__
+> 12/2/2020 Really doesn't deserve even One Star!! WORSE TeleHealth App EVER!! Drops video often then will say trying to reconnect only to log-out completely. Today App sent me an email saying appt was cancelled after I signed in; now I know Kayla would make sure I waa called if appt gad to be cancelled. Then today App ended session for both of us. WORSE Video App in Virtual Formats. If we can do Groups on Zoom we can do 1:1 with Zoom or just get a REAL TeleHealth App!! 😡😡😡😡<br> :date: __2020-12-02 19:55:12__
 
 > App continuously crashes before opening to join appointment.<br> :date: __2020-08-28 18:33:55__
 

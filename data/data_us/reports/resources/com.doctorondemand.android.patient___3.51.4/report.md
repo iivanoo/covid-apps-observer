@@ -191,25 +191,25 @@ The Doctor On Demand app has been installed by more than **1000000** times. At t
 <img src="5_star_reviews_wordcloud.png" alt="com.doctorondemand.android.patient 5 reviews"/>
 </p>
 
-> Great App, easy to use.<br> :date: __2020-11-30 00:28:00__
+> It was very affective and pretty close to a in person experience. Also saved me some time having to travel to a doctors office. Awesome program, thanks!<br> :date: __2020-12-05 15:25:45__
 
-> Helpful<br> :date: __2020-11-29 23:35:37__
+> Quick and easy. A valuable resource to have. Especially now, when it has been impossible to see your actual Dr. due to Covid-19.<br> :date: __2020-12-05 14:41:01__
 
-> This is the future of non emergency medicine, incredibly easy to use app. NO getting dressed to leave, NO driving, NO waiting in a waiting room and my prescription was sent to my pharmacy for same day pick up.<br> :date: __2020-11-29 23:32:20__
+> Great app!!<br> :date: __2020-12-05 14:35:25__
 
-> One word: AWESOME!!!<br> :date: __2020-11-29 22:22:05__
+> Great Job Eric Corner American<br> :date: __2020-12-05 06:08:31__
 
-> It was a good decision for installing this app. Thank you DR on demand.🥰❤<br> :date: __2020-11-29 20:53:51__
+> So easy<br> :date: __2020-12-05 04:22:21__
 
-> I lay in bed and see the Dr. For free through my insurance How cool os that!? Dr On Demand has never steared me wromg. Quick visit and its done! Scripts sent right to the pharmacy. I recommend DOD 100%.<br> :date: __2020-11-29 18:00:37__
+> Very easy, fast and safe from Covid.<br> :date: __2020-12-05 01:19:51__
 
-> Very friendly and helpful doctors<br> :date: __2020-11-29 15:55:03__
+> So easy and hassle free<br> :date: __2020-12-05 00:23:11__
 
-> Quick and easy to use.<br> :date: __2020-11-29 15:21:56__
+> Very detailed and very fast response. Definitely beats going to a clinic and waiting for hours on end.<br> :date: __2020-12-04 23:01:44__
 
-> Very easy process.<br> :date: __2020-11-29 15:04:22__
+> Great ☺️<br> :date: __2020-12-04 22:43:35__
 
-> Had a medical problem first time i used this service and the doctor i.had was very professional and nice<br> :date: __2020-11-29 13:28:48__
+> Great<br> :date: __2020-12-04 21:24:56__
 
 
 
@@ -253,8 +253,6 @@ The Doctor On Demand app has been installed by more than **1000000** times. At t
 
 > Psych will not allow appts for Medicare insured. Also, doctors are not allowed to write prescriptions for controlled substances such as anxiety meds or some psych medications. Should be clearly stated in app<br> :date: __2020-10-28 21:08:45__
 
-> Very First virtual appointment...it was awesome Dr Rachel was very intune and on point....... unfortunately wifi plan cut out prior to the end of second visit a few days later ! So I'm still in need of medication and relief . App/Concept Extremely patient friendly<br> :date: __2020-09-27 19:48:53__
-
 
 
 #### 2-star reviews
@@ -285,6 +283,18 @@ The Doctor On Demand app has been installed by more than **1000000** times. At t
 <img src="1_star_reviews_wordcloud.png" alt="com.doctorondemand.android.patient 1 reviews"/>
 </p>
 
+> They are not 24/7, I was waiting for video chat doctor and while they estimated time was >5 minutes I waited TEN with no answer, I then closed the app, came back and now I have to wait for an appointment to be able to talk to anybody? This is deceitful, and incongruous with the promotion that a doctor is available 24/7. That is a lie<br> :date: __2020-12-04 12:07:17__
+
+> Absolutely horrible damn app won't even let me get through the registration process to see a doctor every app I've downloaded has been complete garbage especially this one<br> :date: __2020-12-03 12:45:28__
+
+> Good luck...Getting a dr to listen to you is hard and then they take your money even if they do nothing for you. I will NEVER use them again!!!<br> :date: __2020-12-02 15:57:59__
+
+> I don't like them anymore. It's like a Lyft or Uber driver and the Drs. Are there to receive whoever is paying. They DON'T really care.............. It's PLENTY of other options out there. DON'T even bother.<br> :date: __2020-12-02 03:24:31__
+
+> I can't get connected. I need psych sessions<br> :date: __2020-12-01 05:41:10__
+
+> I selected a lab for testing that was closest to me and went there, turns out the location had been closed for almost 5 months, according to the building's front desk. I took time off work, spent money on transport, and unnecessarily exposed myself to Covid for a shockingly simple error on their part.<br> :date: __2020-11-30 21:59:22__
+
 > She didn't listen to me.CALL AMBULANCE.. Your havingaheartattack. . I have had this many times.. wanted her thoughts.. she wouldn't listen to me .her answer was Call The Ambulance immediately!!! It would be different if I didn't know what was going on.. I needed advice... I wasn't having a heart attack.. you really should LISTEN... sorry but I did not like this person at all!!!<br> :date: __2020-11-29 01:38:46__
 
 > I screwed up and missed my first appointment and now all the money I had left is gone! You'd think an app like this would have some forgiveness and compassion for people looking for help. Total garbage<br> :date: __2020-11-27 20:44:19__
@@ -292,17 +302,5 @@ The Doctor On Demand app has been installed by more than **1000000** times. At t
 > To expensive<br> :date: __2020-11-27 00:03:23__
 
 > I can't find my doctor on here. Very upset<br> :date: __2020-11-26 01:48:29__
-
-> App keeps closing.<br> :date: __2020-11-24 19:10:43__
-
-> Just to be clear, the doctor I have through this app is AMAZING and overall the app is easy to use and very convenient. The one star is for the lack of technical support. There was one occasion where the screen froze and the video call was dropped mid-appointment. Neither I nor the doctor was able to re-instate it and calling tech support was useless (other than getting a refund on my office visit fee) because THEY DON'T HAVE THE ABILITY TO RECONNECT AN APPT! What is tech support for???<br> :date: __2020-11-20 01:16:29__
-
-> IT IS 1000% NOT FREE<br> :date: __2020-11-20 01:13:04__
-
-> App keeps kicking. They DO NOT ACCEPT MEDICAID FROM ARKANSAS<br> :date: __2020-11-19 16:30:47__
-
-> I needed a dr. Excuse note that I was given corrected to say "I could return to work without restrictions". I missed an entire week because you can't contact the Dr.s. I made the appointment because of severe anxiety at my work. How could the Dr I went to for help make things worse? That was on the 31st. Today is the 17th and I've been waiting 10 days for Papers to be completed so I can get paid for the time I missed. The deadline for the paperwork is the 19th. I will update<br> :date: __2020-11-18 07:20:08__
-
-> Dr did not want to hear what i had to say...very disappointing!! Lost $75 and no meds, wanted me to reschedule for 5 days... NO THANKS I WASTED $75 NOT GOING TO WASTE ANOTHER $75. Much better online Dr services that are cheaper. Dr on demand used to be good but there are better options now, just ask Google, save some money!!!<br> :date: __2020-11-16 15:25:26__
 
 

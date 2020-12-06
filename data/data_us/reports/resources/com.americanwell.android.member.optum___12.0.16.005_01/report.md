@@ -178,25 +178,25 @@ The NowClinic app has been installed by more than **50000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="com.americanwell.android.member.optum 5 reviews"/>
 </p>
 
+> Omg...I love this idea. This is the best way to do medical issues now especially with the Pandemic scaring people half to death. Such convenience. Love it.....😁😇<br> :date: __2020-12-03 17:38:52__
+
+> So convenient... Great Drs!<br> :date: __2020-12-03 01:18:44__
+
+> It was Great Being able to talk with my Dr. Via video chat. I Highly Recommend it. Thank You Now Clinic for this technology. And A Big Thanks to my Dr. 🤗<br> :date: __2020-12-02 16:42:03__
+
+> It help me a lot...and so nice to communicate 👌 thank you 😊<br> :date: __2020-12-01 22:08:17__
+
+> Great reception and easy to use<br> :date: __2020-11-30 23:00:39__
+
+> Fast and cordial<br> :date: __2020-11-30 19:07:51__
+
+> This is a great way to see my doctor without having to go anywhere, and the app has been consistent without issues.<br> :date: __2020-11-30 17:31:10__
+
 > not sure<br> :date: __2020-11-30 02:10:26__
 
 > Good<br> :date: __2020-11-25 21:50:30__
 
 > This was quick and easy! The dr i seen was attentive and acknowledged my symptoms<br> :date: __2020-11-24 19:21:17__
-
-> Love it quick simple. Drs great. Feels more comfortable<br> :date: __2020-11-21 19:58:20__
-
-> It's like visiting a Dr in office. Very thorough<br> :date: __2020-11-20 20:45:56__
-
-> Better than waiting in a infested waiting room<br> :date: __2020-11-20 17:03:31__
-
-> Love this app!<br> :date: __2020-11-20 01:22:57__
-
-> This is truly a miracle. For people who are in pain. Not having to go to a Dr. Office, and getting help from your hone. Such a great App.<br> :date: __2020-11-19 22:37:05__
-
-> Great way to get the medical attention you need for basic ailments. Saves you from driving yourself to doctor's office when you can barely get out of bed. Sometimes wait times can be long but still better than sitting in office waiting.<br> :date: __2020-11-19 21:21:41__
-
-> Was very good<br> :date: __2020-11-18 17:04:07__
 
 
 
@@ -205,6 +205,8 @@ The NowClinic app has been installed by more than **50000** times. At this time,
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.americanwell.android.member.optum 4 reviews"/>
 </p>
+
+> Great app<br> :date: __2020-12-03 23:06:26__
 
 > Good<br> :date: __2020-11-25 17:29:06__
 
@@ -223,8 +225,6 @@ The NowClinic app has been installed by more than **50000** times. At this time,
 > Did not list our pharmacy. We should be able to write it in. Otherwise e everything was good.<br> :date: __2020-08-19 17:39:31__
 
 > Comcept is great but really bad video connecting<br> :date: __2020-08-11 17:14:22__
-
-> Great except for wait you have no idea when your next<br> :date: __2020-08-09 23:08:55__
 
 
 

@@ -1,5 +1,17 @@
 [
     {
+        "reviewId": "gp:AOqpTOG5PQ1dQE_NaLcL1tNKINodQmudB0HzaL4mU1hp148IG8c4iaKE8J1FnTP3qLdkIgrmmysEswgDW9oe-Tg",
+        "userName": "Silver",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjfhfgLFneb-ZMfGQiX7H1c-Hvpg8iocaV6Tz76Zb8",
+        "content": "Decerebrati",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2020-12-04 11:55:01",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOHTxwTcuqamgWLupygWEl5TfymHUS53poIIMDSku1DKEpygjoETEFk1CVowBEgH6rtV9UIGPsq4wF5cLJ8",
         "userName": "Emanuele Corda",
         "userImage": "https://play-lh.googleusercontent.com/-n0mj4MtOmcs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmw3jAu9zGRS16dMmgN1jJVrNvMBQ/photo.jpg",
@@ -1193,7 +1205,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhxmAWMDVLouxt4bpAf4Ju5gjkHXECEBZF_i6vSqNo",
         "content": "Non riesco a capire in che modo (spero di no) avvisare il medico in caso di positivit\u00e0 per poi avvisare chi \u00e8 stato a contatto con me (principio di funzionamento di immuni). Nell'app non trovo nessuna voce a riguardo",
         "score": 2,
-        "thumbsUpCount": 4,
+        "thumbsUpCount": 6,
         "reviewCreatedVersion": "3.9",
         "at": "2020-06-15 21:05:35",
         "replyContent": null,
@@ -1409,7 +1421,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ghgz9PRuc7F9IgGyOENeb1F0hWYiDQ7OSmgLwolYJc",
         "content": "Avendo scaricato e poi disinstallato subito Immuni, sembra che questa app sia di gran lunga migliore. Ma vedremo, io lavorando in strada, a Milano, tra la gente, per acquedotto, sono pi\u00f9 a rischio di tanti altri. Mi frega poco della privacy,anche perch\u00e9 siamo gi\u00e0 ultracontrollati anche senza app,se mi sar\u00e0 utile la tengo altrimenti disinstallo. PERCH\u00c9 PER APPLE NN C'\u00c8 APP? . \ud83d\udc4d",
         "score": 4,
-        "thumbsUpCount": 82,
+        "thumbsUpCount": 83,
         "reviewCreatedVersion": "3.9",
         "at": "2020-06-07 20:14:41",
         "replyContent": "Ciao Roberto, Sm-Covid-19 \u00e8 disponibile su iOS tramite Testflight poich\u00e9 \u00e8 in fase beta. Per installarla basta scaricare Testflight dal tuo AppStore.",
@@ -2161,8 +2173,8 @@
     },
     {
         "reviewId": "gp:AOqpTOGf36Okh8988_8RyxxbnLfhhry9_ubi5myxco2jmG-FteBjiLWekJefAdOfjquhkIn0n1P7VP0kIX7UcSM",
-        "userName": "V M",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjYSsv3vT0qFkmHZmJe0Xp93VOPjwfX3LHCRdPSfaY",
+        "userName": "Venera Migliore",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiNyaPrNW1iRWszbfQUxzi-nbY3waZ2De0Rvc-ix2M",
         "content": "Ottima",
         "score": 5,
         "thumbsUpCount": 0,
@@ -2294,7 +2306,7 @@
     {
         "reviewId": "gp:AOqpTOHnycKutDu-WzdKclNqE2mXJCO9-AynWCGagbXporeCuDbhwyPw0RFqsFGijj6YHSLDm1Yw2_RPVFyZgsk",
         "userName": "Carlo Dell'anna",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GigKeQG6fVISXA7OR2GJGcg-5g16YSBYundSNoVxw",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ginxk4ojAQZ1NZ6MJlR7txfwv58HtA14b9OGYP37w",
         "content": "Ottima",
         "score": 5,
         "thumbsUpCount": 0,

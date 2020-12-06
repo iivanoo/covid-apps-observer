@@ -198,6 +198,10 @@ The BCBSM Online Visits app has been installed by more than **50000** times. At 
 <img src="5_star_reviews_wordcloud.png" alt="com.bcbsm.android.bcmi.onlinevisit 5 reviews"/>
 </p>
 
+> Fast, easy, less expensive and safe.<br> :date: __2020-12-02 18:01:10__
+
+> Very helpful. Got all the information I needed to make sure I'm good and healthy in the future.<br> :date: __2020-12-02 17:53:53__
+
 > Very helpful esp w global pandemic<br> :date: __2020-11-29 13:18:36__
 
 > Doctors are awesome! App is easy to use anywhere in the country!<br> :date: __2020-11-22 17:30:34__
@@ -214,10 +218,6 @@ The BCBSM Online Visits app has been installed by more than **50000** times. At 
 
 > So this was incredibly easy to set up. Was able to create an account, list all my symptoms and see a doctor within about 45 minutes. That's just awesome. Thank you very much for making the entire process incredibly seamless.<br> :date: __2020-11-06 16:02:15__
 
-> This was the easiest thing I've ever done.<br> :date: __2020-11-04 19:27:03__
-
-> very easy to use. great experience<br> :date: __2020-11-04 13:57:42__
-
 
 
 #### 4-star reviews
@@ -225,6 +225,8 @@ The BCBSM Online Visits app has been installed by more than **50000** times. At 
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.bcbsm.android.bcmi.onlinevisit 4 reviews"/>
 </p>
+
+> Very efficient.<br> :date: __2020-12-02 19:49:40__
 
 > Photos wouldn't upload but otherwise everything was great.<br> :date: __2020-11-10 03:44:54__
 
@@ -243,8 +245,6 @@ The BCBSM Online Visits app has been installed by more than **50000** times. At 
 > Overall very good. A little long winded but to be expected with a health app.<br> :date: __2020-05-15 17:00:23__
 
 > Doctor was really nice and helpful. Great App to utilize and have when you need medical help<br> :date: __2020-05-04 22:08:24__
-
-> Very helpful and quick<br> :date: __2020-04-20 15:28:56__
 
 
 
@@ -288,6 +288,8 @@ The BCBSM Online Visits app has been installed by more than **50000** times. At 
 <img src="1_star_reviews_wordcloud.png" alt="com.bcbsm.android.bcmi.onlinevisit 1 reviews"/>
 </p>
 
+> Psychiatrist can only "do" medication management. How can anyone "do" med management without your records or psychiatric work up. If you just want a bunch of Xanax, this is the place. If you need a help or are trying to determine what you should do for a loved one, this is not the place. Shame on you bcbs.<br> :date: __2020-12-03 00:50:12__
+
 > Doctor experience is a 5 however the tech support and billing department is awful. I will never use this app again.<br> :date: __2020-09-24 01:49:38__
 
 > Had no video, even after several attemps.<br> :date: __2020-09-06 23:08:31__
@@ -305,7 +307,5 @@ The BCBSM Online Visits app has been installed by more than **50000** times. At 
 > this app doesn't do anything<br> :date: __2020-04-05 23:55:36__
 
 > I sat waiting for an hour for a doctor and then said doc was offline. Tried again and waited an hour and doc went offline. Both times with 2 people ahead of me. I work for bcbsm and this is wrong for me. Our members shouldnt have to deal with this. I shouldnt have to deal with that. Went to urgent care.<br> :date: __2020-04-05 21:41:46__
-
-> YOU WAIT 5 PATIENCE IN FRONT OF YOU THEN STOPS FOR 2 HOURS. I GIVE UP WAITING.<br> :date: __2020-04-04 23:30:23__
 
 

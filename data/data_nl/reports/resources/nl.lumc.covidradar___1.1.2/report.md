@@ -168,6 +168,8 @@ The COVID Radar app has been installed by more than **50000** times. At this tim
 <img src="4_star_reviews_wordcloud.png" alt="nl.lumc.covidradar 4 reviews"/>
 </p>
 
+> Bij mogelijk Covid-19Besmetting (bijv. door CoronaMelder app gemeld): Met covid19Radar kan men na een patientstatus-verandering, dit doorgeven. Men zou ook Griep- en Covid19-VACCinnaties-met xxx moeten kunnen registreren, later eventuele bijwerkingen Als men last van HooiKoorts of andere onderliggendeZiektes heeft, kan men wel Zelf beoordelen of iets al-of-niet toch een Covid-19Symptoom is.<br> :date: __2020-12-03 05:53:58__
+
 > Vind het een interessante app met wetenschappelijk onderzoek die op deze manier in kaart brengt wie het grootste risico loopt en waar de uitbraak het grootste is . Vind deze manier van onderzoek beter dan de los vaste gedwarrel van tegenstrijdigheden van OMT /RIVM . Ben afhankelijk van behandeling bij een gespecialiseerde GGz instelling dus zit niet te wachten op nogmaals sluiting van een zorgverlenende instelling .<br> :date: __2020-08-13 11:16:59__
 
 > Zinvol. Helpt ons allemaal<br> :date: __2020-05-20 12:49:53__
@@ -185,8 +187,6 @@ The COVID Radar app has been installed by more than **50000** times. At this tim
 > Heel makkelijk de app opent direct.<br> :date: __2020-04-23 19:24:13__
 
 > Op mijn telefoon staan de 2 knoppen annuleren en bevestigen voor het balkje beroep, waardoor ik het beroep niet kan aanpassen. Ik heb het antwoord nu gelaten wat er al stond maar dit klopt in mijn geval niet.<br> :date: __2020-04-19 18:11:48__
-
-> Ik ontvang niemand thuis en toch val ik ongunstiger uit tov het Nederlands gemiddelde in de uitslag. Dat kan beter.<br> :date: __2020-04-17 22:17:31__
 
 
 

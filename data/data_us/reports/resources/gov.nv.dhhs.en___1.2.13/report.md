@@ -121,6 +121,10 @@ The Covid Trace Nevada app has been installed by more than **50000** times. At t
 <img src="5_star_reviews_wordcloud.png" alt="gov.nv.dhhs.en 5 reviews"/>
 </p>
 
+> Works great as long as you have your Bluetooth is on.<br> :date: __2020-12-02 01:00:52__
+
+> Wish more people would add this app<br> :date: __2020-12-01 01:40:43__
+
 > Kool app to have...We must keep track of the Zombie Apocalypse Virus... Thanks<br> :date: __2020-11-25 20:47:00__
 
 > Doesn't appear to work. Last checked time is the time of day of when I installed it several weeks ago. Manual refresh doesn't do anything.<br> :date: __2020-11-20 15:23:25__
@@ -137,10 +141,6 @@ The Covid Trace Nevada app has been installed by more than **50000** times. At t
 
 > Excellent coverage<br> :date: __2020-10-16 08:32:35__
 
-> Seems to be working now. Fascinating concept. It uses bluetooth data to determine if you have been in close proximity to an infected person.<br> :date: __2020-10-16 00:05:20__
-
-> Just installed it without a hitch. Let's hope that enough people use it to make a difference.<br> :date: __2020-10-14 19:33:22__
-
 
 
 #### 4-star reviews
@@ -148,6 +148,8 @@ The Covid Trace Nevada app has been installed by more than **50000** times. At t
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="gov.nv.dhhs.en 4 reviews"/>
 </p>
+
+> It seemed to work fine while I was in Vegas but I flew to Dallas last night and now it says the trace app is off and I can't push the grocery basket any further! The wheels locked up so I guess it's just a Vegas phenomenon? "I'll Be Back!" I'll keep it on my phone till then.<br> :date: __2020-12-02 23:17:41__
 
 > Very slow in signing on. Confusing too.<br> :date: __2020-08-26 18:50:32__
 
@@ -158,8 +160,6 @@ The Covid Trace Nevada app has been installed by more than **50000** times. At t
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="gov.nv.dhhs.en 3 reviews"/>
 </p>
-
-> Not sure<br> :date: __2020-11-29 10:28:03__
 
 > Kind of a pointless app when after your test positive literally no one that contacts you knows the code necessary to self report.<br> :date: __2020-11-28 05:05:47__
 
@@ -179,6 +179,8 @@ The Covid Trace Nevada app has been installed by more than **50000** times. At t
 
 > the only reason im downloading this is because it wont let me download some other games<br> :date: __2020-10-02 23:20:13__
 
+> Won't even get past the 3rd setup page....I hope Nevada did not actually pay somebody to build this. Tried again after update ..still will not set up....3rd update did the trick. set up OK ..upped to 3 stars. We will see.<br> :date: __2020-09-30 11:15:50__
+
 
 
 #### 2-star reviews
@@ -186,6 +188,10 @@ The Covid Trace Nevada app has been installed by more than **50000** times. At t
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="gov.nv.dhhs.en 2 reviews"/>
 </p>
+
+> I feel this is just to make profit when you download this app, i downloaded few weeks back a week later some one closed to me came out positive to the virus and i didn't get the alert i have known people that have use this app but seems noone gets an alert<br> :date: __2020-12-02 06:58:48__
+
+> You state to download the DHHS tracing app but when pne opens the google store, there are dozens of apps listed, none of which say DHHS, so what good is that if I cant be traced?<br> :date: __2020-12-01 21:13:57__
 
 > Good idea poorly executed<br> :date: __2020-11-25 23:37:24__
 
@@ -203,10 +209,6 @@ The Covid Trace Nevada app has been installed by more than **50000** times. At t
 
 > DOES NOT AUTO UPDATE.<br> :date: __2020-09-07 14:37:16__
 
-> I installed this app on 8/30/2020. Location and BlueTooth are on. Exposure notifications are on. I received on Exposure Notification on 8/30/2020 at 12:20pm saying No Exposure Found in the last hour. As of 8/31/2020, 12:01pm I have not received any other exposure notices. Even after one hour in the gym. 1) Why isn't this running/working? and 2)How do I manually check for exposures? 3)How frequently should I get exposures? Using a Samsung Note 8, android. Installation seemed to go just fine. Sending question to help email noted below. I very much would like to see this app be successful!<br> :date: __2020-08-31 21:09:02__
-
-> This doesn't work, the app itself looks/seems/feels like a toy or fake, won't even show in the google play search, I had to find the website first then use the link to get to the app and in my girlfriend phone wont pass from the 3rd page "next" Samsung A20, and in my Samsung gs8 the loading update it's "meh".<br> :date: __2020-08-27 04:14:38__
-
 
 
 #### 1-star reviews
@@ -215,6 +217,18 @@ The Covid Trace Nevada app has been installed by more than **50000** times. At t
 <img src="1_star_reviews_wordcloud.png" alt="gov.nv.dhhs.en 1 reviews"/>
 </p>
 
+> I have had this download it for about six weeks and it hasn't shown a single case and I live in an area where I know that there have been dozens of cases during this time period so evidently this application does not work.<br> :date: __2020-12-05 06:50:51__
+
+> App keeps freezing & isn't updating the exposure information.<br> :date: __2020-12-04 23:09:46__
+
+> Nope! Nope! Nope!<br> :date: __2020-12-04 07:33:36__
+
+> Not sure how this thing works. You dont add any info so how does it know you have been exposed<br> :date: __2020-12-03 06:43:43__
+
+> Does not refresh, worthless app.<br> :date: __2020-12-02 21:18:53__
+
+> I've installed this twice and both times it is tracking for Nevada with no way to change the location. I live in Washington State.<br> :date: __2020-12-01 22:12:38__
+
 > There is no way to add a location if you forgot to turn GPS on. Because I don't normally have it sucking the battery dry when I'm at home. Should be able to manually add locations with at least estimated times.<br> :date: __2020-11-29 08:43:55__
 
 > App does not allow you to refresh, uninstalled and reinstalled and still does not refresh.<br> :date: __2020-11-28 01:19:20__
@@ -222,17 +236,5 @@ The Covid Trace Nevada app has been installed by more than **50000** times. At t
 > Never worked. I tried entering my positive code for a week and it kept telling me it couldn't verify the code.<br> :date: __2020-11-24 00:37:54__
 
 > "Those who would give up essential Liberty, to purchase a little temporary Safety, deserve neither Liberty nor Safety." -Benjamin Franklin<br> :date: __2020-11-21 14:57:41__
-
-> I tested positive for coronavirus 2 minutes after downloading. Stay far away.<br> :date: __2020-11-18 01:21:06__
-
-> You should improving this app it doesn't refresh I need Uninstaller and install every time:(<br> :date: __2020-11-17 03:15:22__
-
-> Tracking app... Is someone marks as being exposed they can find u. I already had it. No thank you.<br> :date: __2020-11-16 21:47:22__
-
-> "it's just an app", they said. "Just turn on your Bluetooth", they said. "It's just to help the public be proactive", they said. Let's just give the government the easy access to more areas of our lives. "No cash here, only credit or debit", they said. No anonymity anymore. Before you know it, we will all have barcodes printed on our foreheads you mindless dweebs.<br> :date: __2020-11-16 10:11:49__
-
-> Great idea but won't reload.<br> :date: __2020-11-15 10:43:17__
-
-> Tells me it's installed but doesn't open. Doesn't show in my phone<br> :date: __2020-11-14 16:46:45__
 
 

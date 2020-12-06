@@ -219,8 +219,6 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 <img src="3_star_reviews_wordcloud.png" alt="gov.fema.mobile.android 3 reviews"/>
 </p>
 
-> Prepare: emergency safety tips: broken scroll and no clickables Squalls and snow squalls not listed<br> :date: __2020-11-09 10:47:12__
-
 > They did not explain what she was asking me about and was real short with me . To me she was rude but I need my house fixed not TVs or other stuff like that but thank you for what you did do.<br> :date: __2020-10-26 19:49:29__
 
 > Also I build homeless shelters and I think this would be the place to add my location make it official<br> :date: __2020-10-06 07:13:34__
@@ -238,6 +236,8 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 > No notification alarm!!<br> :date: __2020-08-13 18:12:50__
 
 > where's the warnings I used to get<br> :date: __2020-06-24 02:29:53__
+
+> The back button does not exit the app.<br> :date: __2020-06-09 16:17:55__
 
 
 
@@ -275,6 +275,8 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 <img src="1_star_reviews_wordcloud.png" alt="gov.fema.mobile.android 1 reviews"/>
 </p>
 
+> Dumb app. Just go outside and read the weather instead.<br> :date: __2020-12-04 16:24:43__
+
 > NO ALERTS... APP IS A JOKE.<br> :date: __2020-11-14 18:25:33__
 
 > Share doesn't work!!!! UNINSTALLED the junk app<br> :date: __2020-11-01 13:09:50__
@@ -292,7 +294,5 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 > Dont attempted to think of getting help all they do is deny<br> :date: __2020-09-26 19:00:17__
 
 > Doesn't work . Can't scroll on screen or get may location informaton<br> :date: __2020-09-09 13:06:18__
-
-> No point in having the app. You go to check your application status and it brings you to the website. App serves no purpose.<br> :date: __2020-09-05 00:28:47__
 
 

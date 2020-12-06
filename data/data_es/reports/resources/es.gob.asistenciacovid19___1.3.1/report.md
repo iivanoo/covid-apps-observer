@@ -248,6 +248,10 @@ The Asistencia COVID-19 app has been installed by more than **100000** times. At
 <img src="1_star_reviews_wordcloud.png" alt="es.gob.asistenciacovid19 1 reviews"/>
 </p>
 
+> 17 apps para 17 taifas. Lo único que hace bien la Administración es robar el fruto de nuestro trabajo para financiar la industria política. Hay muchos primos, amigos y correligionarios a los que mantener. Por cierto tengo aquí una encomienda de gestión para una obra, la dejo en el 6% más gastos de envio.<br> :date: __2020-12-03 17:16:31__
+
+> Lo he desinstalado porq no me deja poner mi N.I.E ademas que para poner el formato de la fecha de nacimiento tiene que darle hasta que llegue a tu año. Pues si corrigen éstos fallos volveré a intentar usarlo.<br> :date: __2020-12-01 08:56:18__
+
 > Podian avisar que solo esta activa en algunas comunidades autonomas. No se cual es el criterio de que en algunas este operativa y otras no. Por lo menos la seccion de consejos podria estar operativa para toda España. Yo vivo en Galicia y para mi no es útil.<br> :date: __2020-11-02 12:30:37__
 
 > No me gusta todavía no es disponible la app para Andalucía<br> :date: __2020-10-25 15:16:42__
@@ -263,9 +267,5 @@ The Asistencia COVID-19 app has been installed by more than **100000** times. At
 > No se puede instalar<br> :date: __2020-09-19 22:14:20__
 
 > Horrible.<br> :date: __2020-09-19 22:07:49__
-
-> La aplicacion no se instala tiene errores<br> :date: __2020-09-18 14:46:03__
-
-> No se abre al<br> :date: __2020-09-15 14:01:30__
 
 

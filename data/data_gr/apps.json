@@ -3,15 +3,15 @@
         "id": "org.who.infoapp",
         "store_country": "gr",
         "store_lang": "gr",
-        "latest_crawled_version": "3.1.1",
-        "latest_crawl": 1606740113
+        "latest_crawled_version": "4.0.1",
+        "latest_crawl": 1607190967
     },
     {
         "id": "de.xikolo.openwho",
         "store_country": "gr",
         "store_lang": "gr",
         "latest_crawled_version": "3.7",
-        "latest_crawl": 1606740224
+        "latest_crawl": 1607191014
     },
     {
         "id": "edu.rise.ihnilatis",

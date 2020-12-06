@@ -173,6 +173,8 @@ The COVID Alert NJ app has been installed by more than **100000** times. At this
 <img src="4_star_reviews_wordcloud.png" alt="com.nj.gov.covidalert 4 reviews"/>
 </p>
 
+> Informative<br> :date: __2020-11-30 11:57:38__
+
 > This is a very informative app.<br> :date: __2020-11-18 01:56:53__
 
 > To work everyone needs to use it, otherwise you could be exposed by someone who doesn't use this<br> :date: __2020-11-16 23:15:37__
@@ -190,8 +192,6 @@ The COVID Alert NJ app has been installed by more than **100000** times. At this
 > Edit - works perfectly after turning off wifi during setup. Got an immediate response from the developer on the workaround. Does not work. Error code 1002. This error is displayed after I confirm my age and press continue. I have a OnePlus 6t phone (android)<br> :date: __2020-10-08 22:13:53__
 
 > UPDATE: Working now per comment from developer. I can't get the app to work on my Galaxy S10. It installs, I affirm I'm over 18, and on the data sharing page I get an error code 1002 and can't move on. I've tried uninstalling and reinstalling and get the same problem. I do not have this problem on the VA COVID app I also have on my phone.<br> :date: __2020-10-07 16:11:30__
-
-> better late than never. the app is good now is for people to use it and be honest about it.<br> :date: __2020-10-02 21:28:54__
 
 
 
@@ -257,6 +257,10 @@ The COVID Alert NJ app has been installed by more than **100000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="com.nj.gov.covidalert 1 reviews"/>
 </p>
 
+> Not very useful. The app only works, if someone who had or has COVID is using it too! It DOES NOT just detect people with Covid and alert you. I uninstalled it after a week of nothing and especially after 5 people tested positive where I work and the app never alerted me! It's really a waste of time.<br> :date: __2020-12-05 15:02:06__
+
+> It keeps freezing after verifying my age. Still not working for me. I have a galaxy 8+.<br> :date: __2020-12-02 01:05:58__
+
 > I don't have Covid yet... But this app seems to assume everyone has COVID, and don't have COVID was not an option... So how is this going to help me as a doctor who comes in contact with patients daily....<br> :date: __2020-11-26 17:17:20__
 
 > Does not work. Good idea but shame on NJ for not developing it right so it works. This could really keep people safe if they did it right. Dissapointing but thats no surprise given our government and the state of the world.<br> :date: __2020-11-26 05:54:06__
@@ -272,9 +276,5 @@ The COVID Alert NJ app has been installed by more than **100000** times. At this
 > I spend most of my time at home, and this app constantly harasses me to turn on my location. I use my phone a lot, and I don't want to waste the battery. This is more inconvenient to me than it is helpful.<br> :date: __2020-11-10 14:14:23__
 
 > Looks like it a 3 year old designed it and the check in feature makes no sense<br> :date: __2020-11-07 17:56:59__
-
-> Work in an emergency room and downloaded to see how accurate the alerts would be. I assumed I would have to turn off the notification from being alerted to much. To my surprise I haven't been alerted once in over a month of having the app even after being in direct patient care with positive cases.<br> :date: __2020-11-04 06:12:09__
-
-> It keeps freezing after verifying my age.<br> :date: __2020-11-02 16:37:40__
 
 
