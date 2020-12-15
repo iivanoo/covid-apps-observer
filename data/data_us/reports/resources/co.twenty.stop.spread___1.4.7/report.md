@@ -170,25 +170,25 @@ The Healthy Together - COVID-19 app has been installed by more than **100000** t
 <img src="5_star_reviews_wordcloud.png" alt="co.twenty.stop.spread 5 reviews"/>
 </p>
 
-> informative..<br> :date: __2020-12-05 14:17:12__
+> easy to use, got results quickly.<br> :date: __2020-12-13 17:19:22__
 
-> Worked perfectly the first time for me. Thanks! Test results appeared here several hours before available from my provider's portal.<br> :date: __2020-12-05 12:12:27__
+> Simple, if you follow directions.<br> :date: __2020-12-13 00:06:24__
 
-> Easy<br> :date: __2020-12-05 03:59:17__
+> My grandson is a hotshot. Made your app a piece of cake. Thank you for the good news♡<br> :date: __2020-12-12 22:49:37__
 
-> Quickly obtained my results.<br> :date: __2020-12-05 01:11:16__
+> great<br> :date: __2020-12-12 12:55:02__
 
-> Outstanding app<br> :date: __2020-12-05 01:07:33__
+> Very good<br> :date: __2020-12-11 20:35:21__
 
-> Well, I didn't have any problems downloading or getting my test results! Thx!!<br> :date: __2020-12-04 23:10:29__
+> The app worked great!<br> :date: __2020-12-11 17:03:37__
 
-> Wonderful<br> :date: __2020-12-03 22:34:49__
+> There always on time with results it really help to live better thank u<br> :date: __2020-12-10 16:15:43__
 
-> Its knowledgeable for what I need it for.<br> :date: __2020-12-03 01:27:42__
+> simple test and results fast<br> :date: __2020-12-10 14:47:46__
 
-> Easy to use and understand<br> :date: __2020-12-02 19:08:57__
+> very good<br> :date: __2020-12-10 01:12:10__
 
-> The only question is how do we get back in to share our results to medical personnel? The pin only works for 1st time?<br> :date: __2020-12-02 16:59:24__
+> I did my test on Monday and got the result Wednesday.I used the play store app.It was like 123, no complaint .Everything went through without a hitch.All i did was follow the instruction that was given.<br> :date: __2020-12-10 00:30:04__
 
 
 
@@ -197,6 +197,12 @@ The Healthy Together - COVID-19 app has been installed by more than **100000** t
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="co.twenty.stop.spread 4 reviews"/>
 </p>
+
+> I didn't encounter any download/login issues + really like the real time results. I just don't see the purpose of having to unlock my results after using a secure password and login to use the app each time. My info has been saved to my account so it seems over redundant to sign in to my account and then immediately turn around again to input more info. Due to my job requirements I get tested frequently throughout the week. So you could see why that could become an annoyance and prevent 5 stars.<br> :date: __2020-12-12 10:46:54__
+
+> I had to attempt it twice before i was successful. I think i was in a hurry and stressed to get the results.<br> :date: __2020-12-11 16:25:58__
+
+> Useless impossible to navigate<br> :date: __2020-12-06 13:49:19__
 
 > Everything went smoothly. Results were back in a timely manner. The app was easy to use.<br> :date: __2020-11-28 13:51:03__
 
@@ -212,12 +218,6 @@ The Healthy Together - COVID-19 app has been installed by more than **100000** t
 
 > I think this is a great idea. Hopefully people will continue to download it. I do wish it was easier to figure out how to schedule tests.<br> :date: __2020-08-20 19:14:09__
 
-> Doesn't drain battery badly. I think the question "Have you been tested for Covid19?", should say "Have you been tested for covud 19 in the last 20 days?" Notification for test results come back quicker than my doctor can contact me.<br> :date: __2020-07-23 16:00:57__
-
-> Great app and I have invited everyone in my contacts due to the high necessity to know how healthy the people you surround yourself with. The even better part about this app is the fact that if you allow it to trace you (and you should), it can tell you about other users being sick or testing positive if you've been around them and you don't even have to know the person! I would, however, like it a lot more (or give it 5 stars), if it would update the map of testing areas. A lot missing.<br> :date: __2020-06-27 23:00:50__
-
-> It seems to work really well now.<br> :date: __2020-06-26 19:24:06__
-
 
 
 #### 3-star reviews
@@ -225,6 +225,10 @@ The Healthy Together - COVID-19 app has been installed by more than **100000** t
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="co.twenty.stop.spread 3 reviews"/>
 </p>
+
+> Very slow install but got results after a while.<br> :date: __2020-12-12 17:58:45__
+
+> They ask for a pin but do not send one.<br> :date: __2020-12-10 16:33:59__
 
 > Can't even login. Had a pin texted to me. I typed the numbers but there is no button to press for enter and the "next" function just moves the cursor around. Edited to add: could not make app work on Samsung Galaxy S10 but it did work on older S7.<br> :date: __2020-12-04 20:12:08__
 
@@ -242,10 +246,6 @@ The Healthy Together - COVID-19 app has been installed by more than **100000** t
 
 > Too wordy for daily use...<br> :date: __2020-08-29 06:38:47__
 
-> Not happy with the app<br> :date: __2020-08-09 17:42:37__
-
-> I want to know where the information goes? Who checks this? Department of health? Or who?<br> :date: __2020-07-20 13:41:27__
-
 
 
 #### 2-star reviews
@@ -253,6 +253,16 @@ The Healthy Together - COVID-19 app has been installed by more than **100000** t
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="co.twenty.stop.spread 2 reviews"/>
 </p>
+
+> I have 2 children under my same phone #. I only get results for myself but can't get the others because it only recognized me when logging in under phone #.<br> :date: __2020-12-12 23:18:44__
+
+> I went and got my children and myself tested. The app stated that the results were ready for us all however, I'm trying to get the results for my oldest child, however it's not providing me results when the contact information is the same for all three individuals. Can someone please assist me in getting the information for my eldest child. Updated: The provider has the correct information and it was entered correctly, yet the results are still not showing for the my entire family.<br> :date: __2020-12-12 18:50:22__
+
+> Very slow to down load. Does not ask if your a spouse. Keeps saying not connect. The time took 1 hour.<br> :date: __2020-12-12 18:38:01__
+
+> Endless loop, I keep signing in (4 times so far) and it keeps saying it will be installed. Pretty useless. And I can't get the results of my covid19 test.<br> :date: __2020-12-07 13:55:23__
+
+> This app is terreblo you can not dowload the application you guys need to fix this ploblem i need mybtest result<br> :date: __2020-12-06 20:55:51__
 
 > Can't seem to get back in after the initial upload and sign in.<br> :date: __2020-12-05 01:50:11__
 
@@ -264,16 +274,6 @@ The Healthy Together - COVID-19 app has been installed by more than **100000** t
 
 > This app tells you to get tested for COVID if you have one symptom. Sometimes people have body aches because they did a hard work out. Sometimes people get a sore throat because they are too much sugar. There are other reasons to have some of these symptoms.<br> :date: __2020-09-28 22:17:10__
 
-> Does not show the areas of covid on map. Shows absolutely nothing on the map.<br> :date: __2020-09-04 18:37:29__
-
-> I suppose i don't hate it for its functionality. But i do hate how I'm forced to use it, and every time I work out it says i need to get tested because I'm sore and I have to show these results to employers/professors.<br> :date: __2020-09-01 17:56:32__
-
-> Digital contact tracing turned off? This is the apps main feature. I can find mom way to turn it back on. Very frustrating.<br> :date: __2020-08-29 15:34:43__
-
-> The app has killed my battery. It seems like it could be useful, but an app on a dead phone can only do so much.<br> :date: __2020-07-29 23:11:19__
-
-> It's Draining my battery at 45% usage over my other apps and I only use it briefly for one moment of the day. Plus the state of utah isn't using the tracking feature. Please update the app.<br> :date: __2020-07-29 14:47:28__
-
 
 
 #### 1-star reviews
@@ -282,24 +282,24 @@ The Healthy Together - COVID-19 app has been installed by more than **100000** t
 <img src="1_star_reviews_wordcloud.png" alt="co.twenty.stop.spread 1 reviews"/>
 </p>
 
-> Very Unhappy<br> :date: __2020-12-05 08:40:43__
+> Was sent an access code that I no longer have because I deleted it and there is no way to get back into the app without it and NO phone number to call so I can't get results.<br> :date: __2020-12-13 09:44:16__
 
-> This app does not work!<br> :date: __2020-12-04 19:32:54__
+> Terrible app. Slow difficult to use.<br> :date: __2020-12-13 01:04:49__
 
-> Sucks<br> :date: __2020-12-04 03:39:40__
+> We got a notification about our test results being in the app. Once we get in the app the only results there are my wife's. Not showing mine or my daughter's. Really unsatisfied with this app<br> :date: __2020-12-12 22:51:41__
 
-> App doesn't work once I put my number in it won't leave that screen<br> :date: __2020-12-04 01:49:08__
+> Its been hours and this app will not get past 63% install. Just want a simple answer to a test result. Negative or Positive but with most government stuff we will never know.<br> :date: __2020-12-12 22:19:46__
 
-> Logged in to get my son's results and it has locked me out and there is no phone # to call to get it u locked. Have been waiting days to get the results now nothing. Not happy.<br> :date: __2020-12-03 23:05:30__
+> Try 3 time with the code numer and dont let me past from there.<br> :date: __2020-12-12 18:30:32__
 
-> Tried downloading this app for the better part of three hours. No luck. I needed the results of my test for work.<br> :date: __2020-12-03 20:49:29__
+> Been trying to download for 1 hour and never gets past 63%<br> :date: __2020-12-12 18:13:44__
 
-> This app is terrible, I have been trying for 3 days to get my results. I installed the app, got the pin #, tried using the pin and it says "wrong pin." I tried twice, b/c it says you will be logged off after 3 tries. So, I started all over, still no luck. I have had two emails stating my results are ready.<br> :date: __2020-12-03 17:49:13__
+> App would not load!<br> :date: __2020-12-12 16:53:04__
 
-> Gave me someone elses results not even related to me<br> :date: __2020-12-03 06:42:02__
+> This app is terrible I need my results and can't access it<br> :date: __2020-12-12 16:37:50__
 
-> Received a txt message saying had my results, but app won't work, I enter my pin & it just goes round & round! How am I supposed to get my results?<br> :date: __2020-12-02 17:22:41__
+> I am unable to download this app. It goes to 63% and stops. How can I get my results? I need them for a flight.<br> :date: __2020-12-12 16:14:13__
 
-> I have made several attempts to download the app. It will not download. It keeps spinning.<br> :date: __2020-12-02 15:58:23__
+> I had no pin to complete<br> :date: __2020-12-12 15:44:28__
 
 

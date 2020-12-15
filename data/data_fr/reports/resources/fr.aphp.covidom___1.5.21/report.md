@@ -224,8 +224,6 @@ The Covidom Patient app has been installed by more than **10000** times. At this
 
 > Inutile, fonctionne mal<br> :date: __2020-11-08 15:30:20__
 
-> Application pas clair dutout ... elle sent l arnaque !<br> :date: __2020-11-02 21:41:00__
-
 > Mot de passe sans cesse bloqué<br> :date: __2020-11-02 12:27:39__
 
 > Une fois installée je n arrive pas à voir les documents. Donc impossible de remplir les documents.<br> :date: __2020-10-27 14:15:54__
@@ -235,5 +233,7 @@ The Covidom Patient app has been installed by more than **10000** times. At this
 > Impossible de me connecter : me demande ma date de naissance pour confirmer et me dit qu'elle ne correspond pas !!!<br> :date: __2020-10-16 13:42:32__
 
 > Le système est très nul on ne comprend rien c'est horrible<br> :date: __2020-10-13 09:58:32__
+
+> Dommage, j ai beau mettre ma date de naissance pour activer , on me répond que ce n est pas la bonne. Du coup on est privé de la aide qui devait nous être proposée concernant le covid<br> :date: __2020-10-09 19:35:30__
 
 

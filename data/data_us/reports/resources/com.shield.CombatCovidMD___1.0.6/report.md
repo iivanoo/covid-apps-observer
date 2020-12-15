@@ -195,6 +195,8 @@ The CombatCOVID MDC app has been installed by more than **1000** times. At this 
 <img src="1_star_reviews_wordcloud.png" alt="com.shield.CombatCovidMD 1 reviews"/>
 </p>
 
+> Absolutely useless. I found out that my neighbor has treated positive and the app did not notify me. Why isn't the official app for android and apple being used. What a joke<br> :date: __2020-12-07 22:54:57__
+
 > Not working right says am positive when I am not<br> :date: __2020-10-03 02:46:59__
 
 > It is awful. When I am reading the message with the code number, the page changes to another. It does not allow me to get in.<br> :date: __2020-09-19 22:02:09__

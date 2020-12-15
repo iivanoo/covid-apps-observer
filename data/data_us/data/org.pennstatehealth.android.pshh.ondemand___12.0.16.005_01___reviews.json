@@ -1,5 +1,29 @@
 [
     {
+        "reviewId": "gp:AOqpTOH4-EnoG6gpS7XqXJJdOuOzV08d4q1vGx10vrAC3aBE0NTRO4gZC13TfukCO1Ghujwn6yQ8i_1cHTDaKWc",
+        "userName": "Tyler Rothfus",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ghnp-D3OPE44c1wcc4eGAH336KzCLNNK_Ky0M5wtg",
+        "content": "Extremely easy to use",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "12.0.16.005_01",
+        "at": "2020-12-10 16:32:41",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGwPAayNY3lJDiid7fvCRjov4Z3BNrk9etkDPBmyCmR5E7cubxIh9l5MEVCXYceUG2xt8aj7fzIx2xwjto",
+        "userName": "Richard Harris",
+        "userImage": "https://play-lh.googleusercontent.com/-Lxx9q2YZMiQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclDHw3sChCgPyindsBaMAXxyN7AHQ/photo.jpg",
+        "content": "Excellent",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "12.0.16.005_01",
+        "at": "2020-12-09 17:49:14",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOHjesne8aYFvm4FskSigekyRMQv8ugpBTcbIszyLFoDv7G0Zg1-IvDLuxFHhPzEKz9vAVQVGFAiZgGNyWM",
         "userName": "Tina Hernandez",
         "userImage": "https://play-lh.googleusercontent.com/-AZNwlPsEFbI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmPrjjXGJ6TIpLunIOp5vO-wp1lgg/photo.jpg",
@@ -125,7 +149,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi85XDziNs34yvCVVaT0T719y6BUNu8Hy46V08drA",
         "content": "I had a virtual visit scheduled today for my son. The doctor was unable to see our video feed on either of our phones even though we allowed access to the camera. We had to complete the exam over Zoom after several unsuccessful attempts to get this application to work. Other than this issue, it seems like a nice app with lots of potential. We tried the app on two different Galaxy S20+ phones.",
         "score": 2,
-        "thumbsUpCount": 1,
+        "thumbsUpCount": 2,
         "reviewCreatedVersion": "12.0.16.005_01",
         "at": "2020-11-12 03:12:03",
         "replyContent": null,
@@ -146,7 +170,7 @@
     {
         "reviewId": "gp:AOqpTOH5353JxqML2c7R7i1PqbZo62SQSU7Hpth9S0LnMJTo-qoQhKzbq9aygor9fWHcI0fmmGIZ1esmKiZ8YP8",
         "userName": "John Folk",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjoxsnaHzcRRG5VHlzJOoR8fUYobCfJVEnHQaaCtf8",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg4oCslQ_STCrAJ236ndw-CDJWt7vjc0DFr6JRtYu8",
         "content": "Smooth and straight forward. It provides logical prompts along the way that made the whole process very easy.",
         "score": 5,
         "thumbsUpCount": 1,

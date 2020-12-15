@@ -198,6 +198,18 @@ The BCBSM Online Visits app has been installed by more than **50000** times. At 
 <img src="5_star_reviews_wordcloud.png" alt="com.bcbsm.android.bcmi.onlinevisit 5 reviews"/>
 </p>
 
+> Easy to use and very helpful!<br> :date: __2020-12-11 14:50:49__
+
+> Very nice, easy to use.<br> :date: __2020-12-10 15:44:08__
+
+> Visits and prescriptions in under 10 minutes for any basic illnesses. Fantastic every time I've used it!<br> :date: __2020-12-10 13:32:21__
+
+> Excellent option to see a doctor virtually, especially when you don't feel well!<br> :date: __2020-12-09 19:24:26__
+
+> Great experience with real doctors!<br> :date: __2020-12-09 17:31:14__
+
+> So fast & easy to use!<br> :date: __2020-12-08 18:50:31__
+
 > Fast, easy, less expensive and safe.<br> :date: __2020-12-02 18:01:10__
 
 > Very helpful. Got all the information I needed to make sure I'm good and healthy in the future.<br> :date: __2020-12-02 17:53:53__
@@ -205,18 +217,6 @@ The BCBSM Online Visits app has been installed by more than **50000** times. At 
 > Very helpful esp w global pandemic<br> :date: __2020-11-29 13:18:36__
 
 > Doctors are awesome! App is easy to use anywhere in the country!<br> :date: __2020-11-22 17:30:34__
-
-> Good<br> :date: __2020-11-19 16:21:09__
-
-> Awesome and quick. Was able to do at work in a few minutes. No need to wait at urgent care later for ear ache<br> :date: __2020-11-18 21:27:47__
-
-> Online visits comes in0 clutch<br> :date: __2020-11-17 21:49:03__
-
-> Great<br> :date: __2020-11-13 18:20:00__
-
-> Great way to see a dr. With out haveing to leave home. Very convenient.<br> :date: __2020-11-09 15:55:14__
-
-> So this was incredibly easy to set up. Was able to create an account, list all my symptoms and see a doctor within about 45 minutes. That's just awesome. Thank you very much for making the entire process incredibly seamless.<br> :date: __2020-11-06 16:02:15__
 
 
 

@@ -212,6 +212,8 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 <img src="1_star_reviews_wordcloud.png" alt="de.xikolo.openwho 1 reviews"/>
 </p>
 
+> Finde ich zu wenig intuitiv<br> :date: __2020-12-09 17:28:27__
+
 > Mein Handy zeigt ständig an, "(die App ist mit Ihrem Gerät nicht kompatibel & dadurch nicht verfügbar")<br> :date: __2020-07-27 11:16:42__
 
 > Sehr schwach! Kaum deutschsprachige Funktionen. Dafür, dass deutschsprachige Länder, Hauptgeldgeber sind und auch in Sachen Entwicklungshilfe angefeagt sind, nicht nachvollziehbar. Wie soll hierdurch ein Interesse und Unterstützung entstehen, mitzumachen?? Entscheider müssen sich darüber mal Gedanken machen. Oder dem Beispiel USA folgen...<br> :date: __2020-06-21 07:34:04__
@@ -229,7 +231,5 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 > in Deutsch bitte<br> :date: __2020-05-18 12:53:36__
 
 > Kein deutsch<br> :date: __2020-05-12 15:46:33__
-
-> Unbrauchbar bitte in Deutsch übersetzen ansonsten löschen 😡 und dann ist jeder zu hundertprozentig gut Englisch kann Schulenglisch ist anderes wie richtiges Englisch sollte das bitte auch auf deutsch sein weil in Deutschland sterben die Leute ja auch und nicht nur in der Türkei oder Iran oder wo auch immer bitte auf Deutsch danke<br> :date: __2020-04-16 23:12:00__
 
 

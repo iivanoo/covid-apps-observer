@@ -208,13 +208,13 @@ The CombatCOVID PBC app has been installed by more than **5000** times. At this 
 <img src="1_star_reviews_wordcloud.png" alt="com.shield.CombatCovidPBC 1 reviews"/>
 </p>
 
+> It doesn't show you on a map who has covid 19<br> :date: __2020-12-10 18:06:29__
+
 > First review.<br> :date: __2020-12-05 06:13:42__
 
 > It never got off the get one time pin message and never sent pin! Disappointing.<br> :date: __2020-12-05 02:58:24__
 
 > Google made available native covid exposure notifications on Android, many states use this tech already but it looks like Palm beach is running behind all the others...no good<br> :date: __2020-12-01 01:46:27__
-
-> Doesnt use googles covid tracing function. Wastes battery for almost no gain<br> :date: __2020-11-21 03:12:48__
 
 > It doesn't work...also needs to always run in the background leading to battery loss.<br> :date: __2020-10-20 23:54:44__
 

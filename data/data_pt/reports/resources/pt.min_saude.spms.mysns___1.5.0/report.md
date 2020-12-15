@@ -199,6 +199,8 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <img src="4_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 4 reviews"/>
 </p>
 
+> Razoável<br> :date: __2020-12-08 11:57:07__
+
 > Boa experiência.<br> :date: __2020-11-12 09:59:38__
 
 > Mais ou menos<br> :date: __2020-11-07 22:46:32__
@@ -217,8 +219,6 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 
 > A algumas vezes complica e é demorado<br> :date: __2019-11-28 13:33:33__
 
-> Receita de medicamentos<br> :date: __2019-09-17 12:33:44__
-
 
 
 #### 3-star reviews
@@ -226,6 +226,8 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 3 reviews"/>
 </p>
+
+> Bom<br> :date: __2020-12-05 20:20:44__
 
 > APP pouco útil da forma q está estruturada. Para aceder à área de cidadão remete para o browser o q torna ridícula a utilização da APP. Uma nora.. Dentro da área de cidadão a informação não aparece completa.. há informação em falta... Exemplo infecção covid e acesso a área de registo de sintomas. Acesso a baixas incompleto... Etc<br> :date: __2020-11-21 17:35:55__
 
@@ -244,8 +246,6 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 > Dificuldade em perceber e aceder às receitas digitais<br> :date: __2020-04-22 15:28:21__
 
 > Pratico!<br> :date: __2020-03-24 14:20:35__
-
-> Aplicação que podia ser útil mas complexa e com muitas funcionalidades que não funcionam ou bloqueiam O sistema de autenticação, recorrendo à cmd, é complicada. Em certas situações, a segurança é ainda garantida pela necessidade de introdução de um código alfanumérico dificil de decifrar já que não passam de garatujos. Desde que este código passou a ser exigido, deixei de conseguir aceder aos dados pessoais, já que a aplicação bloqueia. Segurança sim mas sem prejuízo do utente.<br> :date: __2020-02-07 12:47:06__
 
 
 
@@ -283,6 +283,12 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <img src="1_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 1 reviews"/>
 </p>
 
+> não utilizei!!<br> :date: __2020-12-13 21:43:57__
+
+> Muito má, para se conseguir entrar é uma odisseia. A ideia é boa mas é frustrante a utilização.<br> :date: __2020-12-13 20:26:48__
+
+> Que aplicação mais inútil. Basicamente tudo o que se faz é redirecionado para o site do SNS no browser. Não faz qualquer sentido a utilidade da app. Nem o registo é possível fazer pela app. Apenas pelo site. Que péssimo.<br> :date: __2020-12-06 23:14:44__
+
 > Para baixar tenho de desativar outras aplicações<br> :date: __2020-12-04 15:52:30__
 
 > Bosta<br> :date: __2020-11-26 12:43:32__
@@ -296,11 +302,5 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 > A aplicação deixou de funcionar. Gostava que resolvessem o problema. Obrigado. Há 2 anos que não fazem actualizações da aplicação. Por isso esta aplicação não serve pra nada. É uma vergonha.<br> :date: __2020-11-05 12:43:58__
 
 > Ridículo e vergonhoso<br> :date: __2020-11-02 20:48:01__
-
-> Isto é uma vergonha! Agora com o covid mandam receitas sem papel e como antes não havia usado a aplicação, até pensei que seria fácil. Mas qual não é o meu espanto que tenho de inserir inúmeros códigos para obter o código digital que tanto por SMS como por e-mail obtenho a seguinte resposta: Não é válido. Por CC teria de me dirigir a uma loja do cidadão para o obter. Então tirava a receita em papel e não era necessário tal deslocação. Já que as receitas sem papel são para minimizar deslocações.<br> :date: __2020-10-28 18:17:00__
-
-> "MySNS parou". Tal nota sempre existiu porque o App não vale nada. E o desinstalei, esperando que melhore. O registo não se consegue. E a Chave Móvel Digital, difícil de obter, para quê? Se o cartão de cidadão tem o nr de utente, não seria bastante para identificar o utente, com uma password? Ademais, o utente quer marcar suas consutas, evitando as filas no centro de saúde, e em alguns casos, pedir suas receitas e recebê-las via App. A simplicidade é o segredo do sucesso.<br> :date: __2020-10-26 04:06:47__
-
-> Não funciona. Remete para o portal. Logo não serve para nada.<br> :date: __2020-10-22 11:53:50__
 
 

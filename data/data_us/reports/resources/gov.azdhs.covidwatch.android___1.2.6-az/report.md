@@ -192,6 +192,8 @@ The Covid Watch Arizona app has been installed by more than **5000** times. At t
 <img src="1_star_reviews_wordcloud.png" alt="gov.azdhs.covidwatch.android 1 reviews"/>
 </p>
 
+> I have the app installed but my region of Arizona isn't listed. The statewide reporting isn't up and running so I can't choose that as a region. I guess I am left out in the heat on this one. I will update to higher stars once the reporting becomes available in places besides two university regions.<br> :date: __2020-12-09 00:50:40__
+
 > This app only works for UofA & NAU and isn't on the CDC's list so trying to find it is challenging. What are the developers waiting for, especially with the current spike in Arizona? It dosen't do any good to share this with others if no one can add there positive diagnosis in an unsupported region (meaning the rest of the state).<br> :date: __2020-11-23 16:02:59__
 
 > Apparently, it's not available in for most of Arizona even if the menu lists Arizona along with two university systems. You need to be upfront about this. What "region" am I in and what "local" officials are you waiting for permission from? Thank you, ADHS, for replying on 10/09/20, but my point stands. There's no State of Arizona region and you need to remove that until ADHS, state and local officials, and your software developer have all made their necessary inputs to this process.<br> :date: __2020-10-19 03:19:06__

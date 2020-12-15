@@ -1,5 +1,65 @@
 [
     {
+        "reviewId": "gp:AOqpTOGoRKNN4w3zfCgBTsd_psdoKuYCe1Yit0bFPayJm2IoqBS0RHwgrn5LmMJ9O0ZLdrt8tnTOskU_XoKTEA",
+        "userName": "Benvenuto Soroldoni",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gjh9oWLh1dp0UXS8eUsA16qRlNn7Wmi1mlNf_7Jmg",
+        "content": "App molto utile per info sul tempo sulle allerte sui decreti per notizie e spostamenti utili in questo particolare momento un Grazie a tutti coloro che partecipano alla realizzazione del programma",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.7.1",
+        "at": "2020-12-11 22:56:29",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOEnUoy3JMN5Vk1PxThJA1LDFyfMC0VKWFAjYJHawcmV2Mt-Aqemd3BlNNWnr6RZqCWX0ALrZKdS3prf2Q",
+        "userName": "Gabriella Ribaldi",
+        "userImage": "https://play-lh.googleusercontent.com/-B6ivbSkXX0o/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck6wLJr6Ck6IkxPkv7gOAVgUz198Q/photo.jpg",
+        "content": "Seria",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2020-12-11 16:52:11",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFcyrntGU_xdxAVBIvP5CfHAEqoEnmNEO_CeAeRi6RpVhBNVzJQX6erb1KDphEOwxifkOacvYXpgWXoDg",
+        "userName": "Claudio Pasini",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiWGkH8CLYHtyCnQHxRS3rZGS2koNJi113hBnmn",
+        "content": "Aggiungo due stelle. Senza fronzoli va al dunque. Per me lombardo funziona alla grande.",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.7.1",
+        "at": "2020-12-11 13:32:57",
+        "replyContent": "Ciao Claudio, siamo entusiasti di sapere che hai apprezzato le funzionalit\u00e0 dell'App! Il vostro parere \u00e8 importante per noi!",
+        "repliedAt": "2020-12-11 14:05:12"
+    },
+    {
+        "reviewId": "gp:AOqpTOH5GfNa6KnO-YH_e4CtzbpVmxMMT0esaeUaNgRM9cBpEyhIlnuww2wORJEWgkFYlcHF0el1B2l6zBoYpg",
+        "userName": "glauco romagnoli",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgNTNKjOYe4sFkpusRQAHZ4B_RtiPHg6Hg5uaJy",
+        "content": "Poco efficente e con descrizioni e annunci che sono copia di quelli ministeriali. Era meglio potenziare di pi\u00f9 Immuni invece di farne una simile.",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.7.1",
+        "at": "2020-12-10 17:45:49",
+        "replyContent": "Ciao Glauco, Allertalom nasce per le allerte di protezione civile che durante l'emergenza si \u00e8 evoluta in uno strumento di monitoraggio della diffusione del contagio e consultazione delle ultime indicazioni di pubblica tutela rivolte alla popolazione della Regione. Siamo spiacenti che l'iniziativa non sia di tuo gradimento!",
+        "repliedAt": "2020-12-11 14:01:21"
+    },
+    {
+        "reviewId": "gp:AOqpTOGV-JRXyoVe0XBUmRdTXVFCchx6-dW0U01FmI89jgxuq2BbhlkCp8f3qccC60tAU85AweMp6EnpLaczBQ",
+        "userName": "Patrizia Cogoni",
+        "userImage": "https://play-lh.googleusercontent.com/-AozSXmRQvSs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnWQon0K48RlCvo29MsXkFzmfHohQ/photo.jpg",
+        "content": "La ritengo molto utile\ud83d\udc4d",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.7.1",
+        "at": "2020-12-05 15:14:58",
+        "replyContent": "Ciao Patrizia, Grazie per la valutazione positiva !\ud83d\ude0a",
+        "repliedAt": "2020-12-11 13:51:36"
+    },
+    {
         "reviewId": "gp:AOqpTOGmZ3A-d7NYO4PFPuww7y33nkjZdkqmDCgGIK3lCNSVJXGaGFGUuV9eF6IsIqXczDGbpLdPTd8e7ogrNQ",
         "userName": "Giuseppe Cerra",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgA1loSxxVWbn-VPsg4nEaFeuCTWgnXUVCVrFbe",
@@ -8,8 +68,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.7.1",
         "at": "2020-12-05 14:41:39",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ciao Giuseppe, grazie del tuo suggerimento lo inoltreremo ai servizi tecnici! Continuiamo a lavorare sodo per migliorare la vostra esperienza! I vostri commenti sono utili per capire ogni esigenza e valutare possibili soluzioni!",
+        "repliedAt": "2020-12-11 13:47:18"
     },
     {
         "reviewId": "gp:AOqpTOHeCfgRdwTK-glliLSgNAJJDpou3oTPw-taiox8UrUnGaQDKVkYsUY8SwBhySCLYNI1CDL1wl0DSxcCxg",
@@ -20,20 +80,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.7.1",
         "at": "2020-12-05 13:55:03",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOFcyrntGU_xdxAVBIvP5CfHAEqoEnmNEO_CeAeRi6RpVhBNVzJQX6erb1KDphEOwxifkOacvYXpgWXoDg",
-        "userName": "Claudio Pasini",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiWGkH8CLYHtyCnQHxRS3rZGS2koNJi113hBnmn",
-        "content": "Non male. Assolve bene lo scopo per cui \u00e8 nata",
-        "score": 3,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.7.1",
-        "at": "2020-12-03 17:17:36",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ciao Liana, la partecipazione al sondaggio non \u00e8 obbligatoria. Scrivi a info.allertalom@ariaspa.it i dettagli dell'errore riscontrato e procederemo con le verifiche del caso!",
+        "repliedAt": "2020-12-10 17:50:27"
     },
     {
         "reviewId": "gp:AOqpTOH5GObm9a0Qcr3hB_DHB3aZzCOFT51UTEa79o_iwTwKSsn2LRtBObW1-FvxoxCzedj7uECwiduN67nsDQ",
@@ -125,7 +173,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-NLYulL6dtPg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclBJ9qs3Bk2qAaTXCChLnkSq-_URA/photo.jpg",
         "content": "Con gli ultimi aggiornamenti non si riesce pi\u00f9 ad utilizzare l'App se non si compila il questionario. L'opzione di non partecipare al questionario non funziona",
         "score": 1,
-        "thumbsUpCount": 1,
+        "thumbsUpCount": 3,
         "reviewCreatedVersion": "1.7.1",
         "at": "2020-11-15 12:10:17",
         "replyContent": "Ciao Maurizio, vorremmo comprendere la difficolt\u00e0 riscontrata. Scrivici a: info.allertalom@ariaspa.it indicando l'errore riscontrato e i dati del dispositivo utilizzato per permetterci di effettuare le verifiche del caso.",
@@ -185,7 +233,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gim1CtpUlzMTLLy45nPVvh9kdG2AF6z99rrbYRZ_g",
         "content": "Un App molto ben sviluppata,ed utile per avere informazioni sicure sull'andamento della circolazione del Covid 19 nella tua citt\u00e0 e regioni italiane. Molto ben sviluppata,e di facile configurazione, fluida e completa di molte informazioni che possono essere utili. Con la possibilit\u00e0 di avere la situazione della circolazione del Coronavirus, tramite un sistema che ti mostra l'andamento della criticit\u00e0, durante le 24 ore della giornata. Con la legenda con i colori dell'incidenza dei contagi nelle",
         "score": 5,
-        "thumbsUpCount": 5,
+        "thumbsUpCount": 7,
         "reviewCreatedVersion": "1.7.1",
         "at": "2020-10-31 02:10:46",
         "replyContent": "Grazie Toni, ci impegniamo ogni giorno per poter dare il meglio. Recensioni come questa ci fanno particolarmente piacere!",
@@ -341,7 +389,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-dtUF014Hgy0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclktqzf_mv9F_7cm5IDn87267Zi9g/photo.jpg",
         "content": "Dopo dopo aver portato pazienza per sei mesi, Devo dire che questa app non serve a nulla. Nulla \u00e8 consultabile per quanto riguarda le allerte. Ti obbliga ad accettare tutta una serie di privacy ogni volta che viene lanciata e l'unica cosa che puoi fare e compilare il questionario covid. Anche qui un disastro.... Non ti consente di compilare il questionario per te e ti obbliga a farlo per i familiari..per lo stato delle cose la ritengo inutile. Grazie",
         "score": 1,
-        "thumbsUpCount": 2,
+        "thumbsUpCount": 3,
         "reviewCreatedVersion": "1.5.0",
         "at": "2020-10-16 10:07:08",
         "replyContent": "Ciao Giuseppe, i nostri sviluppatori hanno individuato il problema e rilasciato un aggiornamento Ti ringrazio per la segnalazione e ti invito ad aggiornare l'applicazione all'ultima versione disponibile Se hai bisogno di ulteriore assistenza, scrivi a info.allertalom@ariaspa.it",
@@ -446,7 +494,7 @@
     {
         "reviewId": "gp:AOqpTOF2WOqUrLh5WQ4NVw1x53vjhHsGUX2tz_VCzz0v68arvTnQjYFQT3XsRLXCq4d2k7cMJPEgJluR38tpZA",
         "userName": "Aldo mazzocca",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GicJK6SXzEMQlrDjx5vL08TINwicNb_yzU6BNOJYw",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhH6rpDxkOThrJkgGkGm8nmjiAqQ0EgNjKBpHQtrw",
         "content": "Semplicemente ridicola....",
         "score": 1,
         "thumbsUpCount": 0,
@@ -2078,7 +2126,7 @@
     {
         "reviewId": "gp:AOqpTOE2-Y8bi9fY5he0rUNAD93yAFaj8ISAwMOdWPXe8pQjyMfw_hvKmMI8lOtewikqyXt4EKXn60MQFOjERQ",
         "userName": "stew",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiurO7QG5-JkJRUI4PpPYPDoh4_6b2k8J4mOfN0eA",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiyNh3DHfcIPGy3SWnNpmQ0yKM13Gp_YHCIOpksQA",
         "content": "Non la installo",
         "score": 1,
         "thumbsUpCount": 0,
@@ -3038,7 +3086,7 @@
     {
         "reviewId": "gp:AOqpTOFqXHXLzacMByoDPWiivdfQXrJH9ApRUyGp31JAXLZtuXsdo3YeTrcr2fIq2wwC06ig4lBlaqqYNI5c7w",
         "userName": "Stefano_grr",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgubBHxZ4BjyH-1zzNzlK0mKt32mqZgciF66SBh",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhjT6c0GqGOuqG_PEq8PSvSWR_hYkbhyD4RmcqY",
         "content": "\ud83d\udc42\ud83d\udc40\ud83d\udc42 \ud83c\udfdf\ufe0f\ud83c\udfdf\ufe0f\ud83c\udfdf\ufe0f\ud83c\udfdf\ufe0f\ud83c\udfdf\ufe0f\ud83c\udfdf\ufe0f\ud83c\udfdf\ufe0f\ud83c\udf99\ufe0f\ud83c\udfb7\ud83c\udfb6\ud83d\udce2\ud83d\udea9\ud83d\udea9\ud83d\udc45",
         "score": 1,
         "thumbsUpCount": 0,
@@ -3110,7 +3158,7 @@
     {
         "reviewId": "gp:AOqpTOG2-LpbdOS3l23T92EPOT1wPY4A7IIO0njUiy0yzC_x2DBKq1azDlJHEoDwvu08a4uWDDzgTTX9qOsBaQ",
         "userName": "Carlo Dell'anna",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ginxk4ojAQZ1NZ6MJlR7txfwv58HtA14b9OGYP37w",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjjiQeNQjG4OlF10UB5XOCwm45HM-naEAXZ0DMGfw",
         "content": "Ottima",
         "score": 5,
         "thumbsUpCount": 0,
@@ -4250,7 +4298,7 @@
     {
         "reviewId": "gp:AOqpTOEWJFFIcr6k9_dOf1QrhNgNhJV0fbCjR36ydhN_PvkoOw8BEpWXUE10qvNEGINJrw60G_bM0FDjfh5kGw",
         "userName": "antonino zavaglia",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjsVlhL72ZJzNKWzKTsg3GiBc8ydQGQIOen9a4-1-w",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhXGx0uPL0K4h1PMUkJLnAzB5QqJiA1XbNZdniGVVc",
         "content": "Secondo me \u00e8 positivo",
         "score": 5,
         "thumbsUpCount": 0,
@@ -5762,7 +5810,7 @@
     {
         "reviewId": "gp:AOqpTOG52lBPuWyYJO-1ZoVMQOHAQPitXU-rIpdr2jC8QPrp7HmkdzG1xnGJwGcklKCUJ4LuheWmO5Hl0GymVA",
         "userName": "Valentina Bertasa",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgclEx3zm3MNDvY7KQM1S92-a9_t4NFCbGkw6iBeg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhgpbeqgOMZAJ-VMACSN6bE5fr6IafMV7NsF44URA",
         "content": "Ritengo quest'app molto utile per riuscire a superare questo brutto momento, ottima, consiglio di installarla",
         "score": 5,
         "thumbsUpCount": 0,
@@ -7070,7 +7118,7 @@
     {
         "reviewId": "gp:AOqpTOFTgpyCArRFF3yPPLw56siCHMxoqVWvp8moB0v9kzsb9rNe7BbYpXO33A73oPe2N_44CCupnlUAq5LmMQ",
         "userName": "sarto ros",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhKFMKK7jBQ-BrACi1gQQj7ZrTls1Q26CUFTdQHlA",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiJJvQgOQg4Z4F2GeBLyYi6XAK7w6vHIm8VaFkSMwc",
         "content": "Non \u00e8 invasiva",
         "score": 3,
         "thumbsUpCount": 0,
@@ -8870,7 +8918,7 @@
     {
         "reviewId": "gp:AOqpTOH8f-tDQV8K4cDOZB2P_gmUyOiufvg1TFb5GmLQn6nwl8DVuT7lqMloyQIVvjBuRbR9RVrYr5Z3Sds8Lg",
         "userName": "samantha",
-        "userImage": "https://play-lh.googleusercontent.com/-cMx2HXZzgS0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckEflzhTzFbpenROqbcsgYGww0OHQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgH9eTSiUhQukMXwjW66Hk6SmJFb6ZnDwtEwkit",
         "content": "trovo carina l'idea ma non \u00e8 completa, alcuni possibili sintomi non sono menzionati",
         "score": 1,
         "thumbsUpCount": 0,
@@ -9134,7 +9182,7 @@
     {
         "reviewId": "gp:AOqpTOHrs2CFMOqnTweWvBEGylzBbhEOwfWpxiaX3PKvyhh7H2znWnJ7udjObz-1lPbyosP62tqKddDnI8hyaA",
         "userName": "Alby M.",
-        "userImage": "https://play-lh.googleusercontent.com/-9ngaUz-MUmU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnKgFQY2gEZjnfqT2Lam6sIAT3CiQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Giu058xR4Aoubd1015wMpWEnpppGi5_9GmwHpwjYg",
         "content": "Buongiorno ho ricevuto ieri l'sms della app e l'ho installata anche se ho letto diversi commenti negativi. Poich\u00e9 penso che possa essere utile per tracciare la situazione Covid19, sono un informatico, vorrei consigliare di aggiungere nel questionario l'opzione dello stato occupato/disoccupato od altro per fini statistici ed inoltre soffro della classica allergia alla graminacee ed ho risposto positivamente alla domanda del raffreddore negli ultimi 15 gg, per\u00f2 non \u00e8 un sintomo Covid19.",
         "score": 4,
         "thumbsUpCount": 0,
@@ -9857,7 +9905,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiWGp3IR2xcoAuW-0xuUQ56LcDNk_TSNXFLdQUx",
         "content": "Disinstallata. Ho letto ogni parola dei termini e delle condizioni d'utilizzo dell'app. Non mi \u00e8 piaciuto l'undicesimo punto che recita testualmente: *** 11. Cessione L'Ente si riserva la facolt\u00e0 di cedere, anche parzialmente, a terzi, il presenta accordo, e i diritti e gli obblighi dallo stesso derivanti, in qualsiasi momento, e senza alcun specifico consenso da parte Sua. *** Ve l'ho riportato cos\u00ec com'\u00e8 scritto, con tanto di errori grammaticali. Traete le vostre conclusioni.",
         "score": 1,
-        "thumbsUpCount": 1,
+        "thumbsUpCount": 2,
         "reviewCreatedVersion": null,
         "at": "2020-04-16 22:04:01",
         "replyContent": "Ciao,  i termini di utilizzo e/o tutela della privacy sono stati redatti, approvati da ARIA Spa, comunque prendiamo in considerazione la sua lamentela!",
@@ -11950,53 +11998,5 @@
         "at": "2020-04-11 15:28:33",
         "replyContent": "Ciao Massimo, l\u2019app non sostituisce una valutazione medica delle proprie condizioni. I dati raccolti servono per quantificare il livello di diffusione del contagio e la distribuzione territoriale della positivit\u00e0.",
         "repliedAt": "2020-04-24 18:46:47"
-    },
-    {
-        "reviewId": "gp:AOqpTOEZlBBbU6qCjEBPR1YTfRc4VSI4YqWGihUD_iB-NWvQ1XdY1X0c7xPIix2-mYiXAuFtgqqu3e-cz8kyug",
-        "userName": "Ivan",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh8BwMJ6tr6X4fGfPGuNHA5nwRr1p-ydQb4EsTY7A",
-        "content": "Sophos Antivirus segnala l'app come a bassa reputazione e chiede di rimuoverla.",
-        "score": 3,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": null,
-        "at": "2020-04-11 14:45:14",
-        "replyContent": "Ciao Ivan, l'app \u00e8 sicura, non abbiamo riscontrato problemi legati a malware.",
-        "repliedAt": "2020-05-07 15:44:48"
-    },
-    {
-        "reviewId": "gp:AOqpTOF9sHFJqbw7_1xYPf-SVu8-83utvrv5uMpbyLHFQxsSFhi0aRc8hL9HxgudeEaBCEpAbW_V7w-JrMKpTg",
-        "userName": "Albert Rranxburgaj",
-        "userImage": "https://play-lh.googleusercontent.com/-RuCrKkVwun4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnzVpNQNhIvw25B4HwKzu9rkNPSSA/photo.jpg",
-        "content": "E una bona ideaa",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.5.0",
-        "at": "2020-04-11 13:36:38",
-        "replyContent": "Ciao Albert, grazie della recensione!! Il nostro lavoro \u00e8 misurato anche in funzione delle vostre recensioni e valutazioni!!",
-        "repliedAt": "2020-04-24 18:34:13"
-    },
-    {
-        "reviewId": "gp:AOqpTOGgdjC0pF6egSP6NxJoqPVpaQ3O9iv7phBVsJnY5wRtHe7zIgpwtK-y9fWHRbchdlHCV9vqIgUmG3yeaA",
-        "userName": "armando goldin",
-        "userImage": "https://play-lh.googleusercontent.com/-BsK5Cp-sHiI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnHgzio4bWD2Tt-9SfCrsDUh8X6Yg/photo.jpg",
-        "content": "La maggior parte delle volte da errore, per una regione come la Lombardia \u00e8 una vergogna.",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.5.0",
-        "at": "2020-04-11 12:36:55",
-        "replyContent": "Ciao Armando, ci piacerebbe migliorare la tua esperienza utente, scrivici a info.allertalom@ariaspa.it i tuoi suggerimenti e proveremo a soddisfare le tue richieste nei prossimi rilasci.",
-        "repliedAt": "2020-04-24 18:31:54"
-    },
-    {
-        "reviewId": "gp:AOqpTOGR_1UQI-ntfp_TAdN3f2RGlyTqCCNKl6jh8dplu2Vr7ayhS8epk-OmEHjny41rZRzEbTPaTT22LqTZeg",
-        "userName": "Dante Guitti",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Giv0pNFq0lmqTY0zZ-6WW9iFzUPERxUcqmU7DJRrw",
-        "content": "Sono riuscito ad inserire una sola patologia. Adesso se provo non mi fa aggiungere le altre che ho: diabete e ipertensione.",
-        "score": 3,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.5.0",
-        "at": "2020-04-11 10:32:29",
-        "replyContent": "Ciao Dante, nel questionario, si possono selezionare pi\u00f9 patologie. \nSe hai bisogno di  ulteriore assistenza , scrivici a info.allertalom@ariaspa.it",
-        "repliedAt": "2020-04-24 18:27:29"
     }
 ]

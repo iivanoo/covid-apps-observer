@@ -173,6 +173,8 @@ The CONFINAPP app has been installed by more than **10000** times. At this time,
 <img src="2_star_reviews_wordcloud.png" alt="cat.gencat.mobi.confinApp 2 reviews"/>
 </p>
 
+> No se puede descargar el certificado<br> :date: __2020-12-06 18:46:25__
+
 > Cuándo creó mi certificado no lo abre con el lector de PDF de mi móvil, tendríais que solucionar solo esto gracias.<br> :date: __2020-11-13 14:13:42__
 
 > En concret, a la Fase 1 indica que el bars podrán tenir un aforament fina el 30%...en realitat es del 50%>>>no se si la resta d'informacio que dona nos App es correcta<br> :date: __2020-05-07 14:41:43__

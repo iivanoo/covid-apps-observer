@@ -222,6 +222,8 @@ The GoodSAM Responder app has been installed by more than **100000** times. At t
 <img src="3_star_reviews_wordcloud.png" alt="com.goodsam.responder 3 reviews"/>
 </p>
 
+> Not enough room to write in here what needs addressing as it's limited to 500 letters and spaces I'd barely touched the surface on what needs sorting and ran out of space, but there isn't enough information or user functionality in the app we need a lot more communication options in app with a more detailed description to assist with dealing with failed calls not being answered by the people that are in need plus a lot of other options and also an in app guidance and helpcentre<br> :date: __2020-12-10 11:08:18__
+
 > Like others have said, I have an issue with the siren. I am a petsitter and it terrifies some of the cats I am visiting. I did ring and complain about this. I ended up turning it off the weeks. I have just turned it back on. Two alerts I accepted. First I keep ringing so dropped the job. Another had already arranged for someone to take him shopping. Now I have just got back the alert I dropped earlier and still no answer. The alerts are not reliable.<br> :date: __2020-11-28 18:46:36__
 
 > Good app but siren way too loud, it's driving my neighbour mad ! Apart from that, as others say here, 90% of people I ring have no idea why I rang, or how or why somebody put them on list. That needs addressing . On top of that some of the alerts are days old ,their prescription or shopping done days ago.Im becoming a bit disheartened wasting my time every day. I'm more than happy to run around for folks but less happy with wasted calls<br> :date: __2020-11-19 16:11:24__
@@ -239,8 +241,6 @@ The GoodSAM Responder app has been installed by more than **100000** times. At t
 > Always crashes for no apparent reason. Had no alerts in thousands of hours. Crash report sent<br> :date: __2020-08-16 21:21:10__
 
 > Worked perfectly before the update.<br> :date: __2020-08-05 18:58:39__
-
-> Tempremental, freezes on occasions?<br> :date: __2020-08-05 17:55:09__
 
 
 
@@ -278,6 +278,10 @@ The GoodSAM Responder app has been installed by more than **100000** times. At t
 <img src="1_star_reviews_wordcloud.png" alt="com.goodsam.responder 1 reviews"/>
 </p>
 
+> All this good will from the public is thrown away by an app that is next to useless. When alerted people have no idea why I'm phoning, their data doesn't match up with the message and the message is often hours/days old although the alarm has just sounded. What a waste of people's willingness to help in this crisis.<br> :date: __2020-12-11 11:52:18__
+
+> Bug in google play. Services<br> :date: __2020-12-08 19:41:19__
+
 > Worked fine for quite some time and yet now, no requests are coming through and nobody knows why. Have reinstalled etc but no joy.<br> :date: __2020-11-26 23:42:23__
 
 > I can't believe you can't adjust the volume on that siren, deleting it.<br> :date: __2020-11-23 01:04:08__
@@ -293,9 +297,5 @@ The GoodSAM Responder app has been installed by more than **100000** times. At t
 > I am being inundated with requests that are far outside of the area I can reasonably travel. In the last 10 minutes I have had 31 requests to help, but all 5km-10km away. I have double checked that the app knows my location via the emailed link. I can't spend all day rejecting 3 requests a minute until I find one that is in a reasonable cycle/foot radius of my location. I'm in London so I am sure there are people nearby that I could help but as is I am not seeing them. Please fix this!<br> :date: __2020-10-09 18:28:42__
 
 > I am receiving alerts from miles away.. sometimes even different cities, which are more than 200 miles away. 😒<br> :date: __2020-10-08 18:22:35__
-
-> Really poor. They are trying to use the app for something it is not intended for and only a fraction of the process is actually covered In the app so it's kind of redundant for the most part. Standard NHS/PHE/government approach really<br> :date: __2020-10-04 10:11:55__
-
-> I'm always contacted for assistance for another town 15 miles away - nowhere else and never anywhere nearby around my own town of 30k people... As I'm not registered for check in, chat, I'm not sure why I'm continually contacted. The siren is a ridiculously loud alarm too. As this app now serves more than a single purpose, some thoughts on a sensible method of notification should be considered.<br> :date: __2020-09-30 12:05:39__
 
 

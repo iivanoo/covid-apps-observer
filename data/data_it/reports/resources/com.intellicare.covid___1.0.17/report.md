@@ -253,6 +253,10 @@ The LAZIOdrCovid app has been installed by more than **100000** times. At this t
 <img src="1_star_reviews_wordcloud.png" alt="com.intellicare.covid 1 reviews"/>
 </p>
 
+> Nesuno rispode<br> :date: __2020-12-12 21:03:40__
+
+> Avevo installato questa app e mi sembrava davvero utile e funzionante più di tutte le app della regione. Ma da un tempo a questa parte non mi permette di comunicare con il medico e quindi a perso l'utilità. Ogni messaggio che invio al medico lo cancellate. Allora non ha senso tenere un app che non posso utilizzare.<br> :date: __2020-12-07 18:59:32__
+
 > Mi sono registrato ..e non và avanti ...mi dice che sono registrato con altro n. ? ...mai fatto questa è la prima volta ,il mio n. è lo stesso da 5 anni !! Bohhhhhh<br> :date: __2020-12-05 10:03:41__
 
 > Vorrei sapere chi ha creato un app inutile come questa. Sa qualcuno a cosa serve? Ma non avete nulla da fare a far perdere tempo a gente che sta male... Incompetenti.<br> :date: __2020-11-19 16:21:45__
@@ -268,9 +272,5 @@ The LAZIOdrCovid app has been installed by more than **100000** times. At this t
 > Non funziona!!!!! usate i nostri soldi per dare un servizio che non esiste. Fate schifo.<br> :date: __2020-11-14 09:27:10__
 
 > Una buffonata non risponde nessun app sarebbe ottimo peccato che e come scrivere su un muro<br> :date: __2020-11-12 19:11:40__
-
-> Dopo qualche giorno di funzionamento normale, ora non si apre più e dice di scaricare la versione aggiornata dallo store o in alternativa si apre ma non carica i dati e si blocca.<br> :date: __2020-11-12 09:55:31__
-
-> L'app non viene aggiornata dal 1°settembre, meno di un aggiornamento al mese vuol dire stato di abbandono. La prima volta in maniera laboriosa sono riuscito ad effettuare l'autenticazione. I grafici supportano i primi 10 inserimenti, i successivi vengono registrati ma non sono nei vari grafici.Ora dopo un paio di giorni di inutilizzo mi dice che la sessione è scaduta e non riesco più ad autenticarmi. Qualche dottore dovrebbe dire se è utile o meno. Lato utente sembra utile quanto un blocco note.<br> :date: __2020-11-11 23:11:45__
 
 

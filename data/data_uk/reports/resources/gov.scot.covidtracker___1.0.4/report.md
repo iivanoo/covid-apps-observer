@@ -140,6 +140,12 @@ The Protect Scotland app has been installed by more than **500000** times. At th
 <img src="5_star_reviews_wordcloud.png" alt="gov.scot.covidtracker 5 reviews"/>
 </p>
 
+> Good<br> :date: __2020-12-13 12:31:03__
+
+> Nearlt had a heart attack when it sent me a message to inform me that the app was working<br> :date: __2020-12-10 16:54:37__
+
+> Happy to have no communication with app.<br> :date: __2020-12-08 16:42:58__
+
 > Important to download - seems to work well in the background<br> :date: __2020-12-04 15:10:39__
 
 > Easy go use and gives that feeling of security<br> :date: __2020-11-29 11:48:30__
@@ -153,12 +159,6 @@ The Protect Scotland app has been installed by more than **500000** times. At th
 > I hope others are remembering to put Bluetooth on when out so it can work. Feels safer but if only you could make it law so it was more accurate. Great Job Scotland team 👏<br> :date: __2020-11-23 01:55:25__
 
 > Clear so far<br> :date: __2020-11-22 00:23:23__
-
-> Rachel Best Staff Number One<br> :date: __2020-11-21 18:38:38__
-
-> They are doing a great job<br> :date: __2020-11-21 01:21:23__
-
-> Easy to install and clear to use and secure so i can use it and i can delete data app at any time.<br> :date: __2020-11-19 18:37:29__
 
 
 
@@ -196,6 +196,8 @@ The Protect Scotland app has been installed by more than **500000** times. At th
 <img src="3_star_reviews_wordcloud.png" alt="gov.scot.covidtracker 3 reviews"/>
 </p>
 
+> Think it works!<br> :date: __2020-12-06 07:48:00__
+
 > It would be great if updates of local area were posted, and the latest government updates policy in the area.<br> :date: __2020-11-30 17:37:16__
 
 > App is fine but uses a LOT of data.<br> :date: __2020-11-27 16:07:22__
@@ -213,8 +215,6 @@ The Protect Scotland app has been installed by more than **500000** times. At th
 > Wastes battery. But good concept<br> :date: __2020-11-17 00:47:21__
 
 > Dasi<br> :date: __2020-11-13 17:56:32__
-
-> Wouldn't complete installation<br> :date: __2020-11-13 13:37:20__
 
 
 
@@ -252,24 +252,24 @@ The Protect Scotland app has been installed by more than **500000** times. At th
 <img src="1_star_reviews_wordcloud.png" alt="gov.scot.covidtracker 1 reviews"/>
 </p>
 
+> Useless app. All this time I understood to be active in track and trace only to be advised that location (understandably) and Bluetooth should be active at all times. No notification to inform it has been switched off. What's the point??<br> :date: __2020-12-13 10:44:15__
+
+> Don't fall for track and trace. They will use this to take away your rights and freedoms. Say no to the nwo.<br> :date: __2020-12-10 19:09:32__
+
+> I received an alert message telling me to self isolate. On telephoning the relevant dept was put through 5 times to different numbers who did not appear to know how the system works. Find the whole thing a complete waste of time as I and my family spent a very anxious night for no reason.<br> :date: __2020-12-09 11:52:31__
+
+> Can't have location switch on when its on<br> :date: __2020-12-09 05:13:38__
+
+> Nonsense<br> :date: __2020-12-06 07:52:53__
+
 > Keeps telling me my bluetooth is switched off every couple of random hours or so (including the middle of the night) but when I double check every time to see if it has switched off, I find that it is most definately switched "ON". Like everything else the UK builds or creates, can't be trusted.<br> :date: __2020-12-03 22:35:47__
 
 > Crashes on opening the app, every time.<br> :date: __2020-11-29 12:11:32__
 
 > You can't get the self isolation grant if you use this app and told to self isolate as the guidelines don't cover it I was told to self isolate for 14 days apparently id been in contact as a result of this my job replaced me I did not get any wages or sick pay and lost my job so I wouldn't waste my time with the app this is now deleted from my phone<br> :date: __2020-11-27 19:23:17__
 
-> Please try again later. Utterly useless. Every other countries app works, while this one prevents you signing up Now it says my clock is wrong...<br> :date: __2020-11-27 13:05:26__
-
 > Hard to use<br> :date: __2020-11-26 15:50:31__
 
 > Worst app ever<br> :date: __2020-11-25 03:10:44__
-
-> Controlavirus.. Switch off your TV..bin the mask.. Hug each other.. Educate yourselves..#lulz<br> :date: __2020-11-22 10:52:57__
-
-> Government surveillance scam,shhep fell for it!<br> :date: __2020-11-21 05:20:00__
-
-> The app seems fine, but the exposure notifications in Google says it hasn't checked since the 24th Oct (today being the 19th Nov) My phone goes everywhere with me, everything is up to date on my Samsung s10+ and there was no reply from the developer at the email address given. I guess I just have to hope it is working? EDIT: Paused tracing in the app while at home, restarted it and it did a check at last.<br> :date: __2020-11-20 22:28:09__
-
-> Needs bt and location.drains battery fast.Useless<br> :date: __2020-11-20 19:29:06__
 
 

@@ -1,5 +1,41 @@
 [
     {
+        "reviewId": "gp:AOqpTOF70BwwK4HoY6yWegS7Flv_nymnQAvf5GJfn8OBizl7Z-jI83y9SjD9063GgFurFxBaOm01-8ZJlMncrQ",
+        "userName": "Albert Follini",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GipEtVgPzvilzgcM260WneljwOUs5aFzzPk3xm9",
+        "content": "Great",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "12.0.16.005_01",
+        "at": "2020-12-12 21:50:41",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHToDP0EyH5vLPxQmRVPz9HdU-YjZzj42d991k5Y3R_zCG2EwSFmYkL30jrX5mXZPQg-WP_EdB0BenOkQ",
+        "userName": "J Buley",
+        "userImage": "https://play-lh.googleusercontent.com/-sLPt5cN6W3A/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl95sz0tk89Yb8HB-uRagtJh0vycg/photo.jpg",
+        "content": "The app through nuvance is quite good but the quality of talking or viewing through it seems to depend on the system you are using. It worked excellent on my android galaxy S9, but not at all good on my Acer chrome book but moderately ok on my Lenovo all in one desktop. For overall use its been fine and since multiple of my medical providers use it, the choice is use it or phone call with no video.",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "12.0.16.005_01",
+        "at": "2020-12-11 19:57:20",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOF2VTLtOCtUwZBWdhszqyOhjGUuuK1aMkSMSeaqVsZo-QCaa_xHuIHjC9XRb227l_DizI8N2JmVa2yC6w",
+        "userName": "Michael Venuti",
+        "userImage": "https://play-lh.googleusercontent.com/-jagjdrjnlTo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclqJ3-LE2FQS3BUxu8ZNSjoGu0n5Q/photo.jpg",
+        "content": "Excellent !!! My Physician and his Office are all great Health Care and Administrative Care personnel. I've been with Health Quest for 2 years to date and i am very satisfied with my care givers. Thank you HealthQuest Team !!!",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "12.0.16.005_01",
+        "at": "2020-12-10 14:36:01",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOF4V30xx5haDh13-fOxSY2QEx3OMd4xbgA_F4vOsCUWE6RmXcWcngS8aMtJv-MCo6aY48C2K6aC6f3hWA",
         "userName": "Janet Jackson",
         "userImage": "https://play-lh.googleusercontent.com/-6Lwl5wDLpHM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckfLfF7DkkMOANjS-ZHV2R6rjY4cA/photo.jpg",
@@ -396,18 +432,6 @@
         "repliedAt": null
     },
     {
-        "reviewId": "gp:AOqpTOF2VTLtOCtUwZBWdhszqyOhjGUuuK1aMkSMSeaqVsZo-QCaa_xHuIHjC9XRb227l_DizI8N2JmVa2yC6w",
-        "userName": "Michael Venuti",
-        "userImage": "https://play-lh.googleusercontent.com/-jagjdrjnlTo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclqJ3-LE2FQS3BUxu8ZNSjoGu0n5Q/photo.jpg",
-        "content": "Excellent !!!",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "12.0.8.017_03",
-        "at": "2020-06-23 21:02:43",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
         "reviewId": "gp:AOqpTOHgzU4Yv9Vgip7rUmtynnuV_Tuaqj5Oa7GMl6yg8OYMOSwTIR4CVMz2vZ25MwkUeEk32aGkBFXTW5RSow",
         "userName": "Jill Stilson",
         "userImage": "https://play-lh.googleusercontent.com/-abd9co1_Q7E/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckIb-rGkxBBmneCoGwiJNO5X1hoyw/photo.jpg",
@@ -734,7 +758,7 @@
     {
         "reviewId": "gp:AOqpTOHnNWXwJltELcDF0jEUjliONuxKcoKQufkXfI01fnbPm6WIy-JtBxPSlyDFqtsjN83mVENZJfIVH_puag",
         "userName": "Sharana R. Ebron",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg-GzihgQcLp6ZyL2VgO2avDp8VCjKMs6EmzK7h_QM",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgESHhziEjvOuLkxGT8C_XJFlRJocNExJWkOmtEP-k",
         "content": "This was awesome I love this. I can do this all day long for the rest of my life.",
         "score": 5,
         "thumbsUpCount": 0,

@@ -215,6 +215,18 @@ The Amwell: Doctor Visits 24/7 app has been installed by more than **1000000** t
 <img src="5_star_reviews_wordcloud.png" alt="com.americanwell.android.member.amwell 5 reviews"/>
 </p>
 
+> Drs are amazing and friendly and getting in to a physician is so fast and easy... Love that when I feel terrible I don't have to leave my home!!<br> :date: __2020-12-13 17:12:03__
+
+> Was super fast setting up, had the most wonderful pediatrician and he was so kind and caring about my kids.<br> :date: __2020-12-12 18:46:05__
+
+> Convenient and informative I believe it's a great service to have<br> :date: __2020-12-11 22:53:09__
+
+> Its just like going into your doctor's office. Its easy, and quick.<br> :date: __2020-12-10 21:07:40__
+
+> This app has its issues but it's at home doctor visits. It makes my life easier<br> :date: __2020-12-09 20:48:50__
+
+> fast, easy, got the answers I wanted.<br> :date: __2020-12-07 15:27:20__
+
 > What a fast and easy way to get treated. Thank you so much<br> :date: __2020-12-05 05:00:42__
 
 > Great app - fast and easy to use service, and the doctors are friendly and super helpful!<br> :date: __2020-12-05 02:32:49__
@@ -222,18 +234,6 @@ The Amwell: Doctor Visits 24/7 app has been installed by more than **1000000** t
 > This was my first time using this and it worked out good<br> :date: __2020-11-30 21:05:16__
 
 > Quick once all info was entered NP Fix was pleasant and compassionate.<br> :date: __2020-11-29 21:35:35__
-
-> Very easy to use, efficient and helpful<br> :date: __2020-11-29 18:18:40__
-
-> Dr. Khan was awesome super nice as well<br> :date: __2020-11-28 20:56:04__
-
-> A real medical person that cares!Love it!!<br> :date: __2020-11-28 01:10:46__
-
-> Quick and very easy<br> :date: __2020-11-27 19:44:34__
-
-> Best option other than going into the doctor<br> :date: __2020-11-21 18:59:03__
-
-> Fast in and out with sinus infection. Nice MD. Only paid insurance co-pay.<br> :date: __2020-11-20 16:21:52__
 
 
 

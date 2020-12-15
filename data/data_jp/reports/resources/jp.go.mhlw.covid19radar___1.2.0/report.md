@@ -231,6 +231,8 @@ The COCOA - COVID-19 Contact App app has been installed by more than **5000000**
 <img src="1_star_reviews_wordcloud.png" alt="jp.go.mhlw.covid19radar 1 reviews"/>
 </p>
 
+> ごみ<br> :date: __2020-12-13 13:06:48__
+
 > I can not accept the terms of use, it show me network connection error.<br> :date: __2020-11-24 09:00:09__
 
 > I cannot register, maybe not yet as Im before travel to JPN. I'm still in GER. To enter to JPN I'm requested to install, but I wonder if it will work if I cannot register.<br> :date: __2020-11-23 00:03:21__
@@ -248,7 +250,5 @@ The COCOA - COVID-19 Contact App app has been installed by more than **5000000**
 > 死値率1%以下に見せているが実態は保健所の検査拒否のため感染数もいい加減 これを使っても自身を守る事にはならない これは既得権階級層の人間が危険回避するための情報収集に過ぎない 健康保険料を払っても検査もしない 詐欺行為<br> :date: __2020-09-12 07:19:02__
 
 > 役に立たない<br> :date: __2020-08-25 13:26:32__
-
-> I thought this app would give information on my area, where there are covid cases.<br> :date: __2020-08-06 16:50:38__
 
 

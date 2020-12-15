@@ -190,6 +190,8 @@ The GuideSafe app has been installed by more than **50000** times. At this time,
 <img src="3_star_reviews_wordcloud.png" alt="gov.adph.exposurenotifications 3 reviews"/>
 </p>
 
+> The app started working wonderfully. But at the end of October, it stopped. No new upgrades and no notifications. I will try and download the app again.<br> :date: __2020-12-06 13:31:12__
+
 > Great if it would work. I tested positive and want to alert others by using the app. When it asks me to verify the code sent to my phone, I can't because it never sends the code. I've tried over and over.<br> :date: __2020-12-01 18:35:17__
 
 > None<br> :date: __2020-11-25 00:11:08__
@@ -226,6 +228,12 @@ The GuideSafe app has been installed by more than **50000** times. At this time,
 <img src="1_star_reviews_wordcloud.png" alt="gov.adph.exposurenotifications 1 reviews"/>
 </p>
 
+> Do you waste your time on this app<br> :date: __2020-12-12 11:51:58__
+
+> Not interested in having big brother track me<br> :date: __2020-12-10 04:36:37__
+
+> As others report, bluetooth required at download suddenly becomes must turn on location as well. And I had the same issue with no updates for over a week during Thanksgiving. Seeing only 200 downloads as of today makes this virtually useless. Uninstalling<br> :date: __2020-12-07 22:55:48__
+
 > Opened the app to report a positive test and found out it hasn't updated since Nov 26 (its currently Dec 4). All of my settings are correct, my Bluetooth and location stay on anyway. It took several tries over the course of a few minutes to get it to save my test input which is like, there is literally one thing this app is for. Why can it not just do the thing. I'm asymptomatic but if I was sick sick I wouldn't have the energy to fight to get it to post.<br> :date: __2020-12-05 02:40:57__
 
 > I tested positive and I can't get the verification sms to my phone<br> :date: __2020-12-01 20:25:23__
@@ -239,11 +247,5 @@ The GuideSafe app has been installed by more than **50000** times. At this time,
 > No notification of exposure, or ability to report exposure from non app users. Three people I know tested positive. This app is utterly useless.<br> :date: __2020-11-19 13:39:22__
 
 > This is of no use if health providers do not turn in the information. No.one will actually do it and YES..then there is Hippa..<br> :date: __2020-11-08 16:58:36__
-
-> I just can't figure out out bc I know as many places as I have been lately I must have had some kind of course contact somewhere and haven't received 1 alert, just everything about it is confusing I don't even know if I'm even logged in correctly or whatever you're supposed to do.. Hence being clueless<br> :date: __2020-11-08 13:15:03__
-
-> Don't work<br> :date: __2020-10-29 11:31:00__
-
-> Not accurate in the least!!!! Good intentions, but poorly executed.<br> :date: __2020-10-26 12:50:39__
 
 

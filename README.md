@@ -38,27 +38,27 @@ As you can imagine, we collect several data points for each dimension so the bes
 
 | **Nation** | **Report** | **Analysed apps** | **Updated at** | 
 |-------------------------|-------------------------|-------------------------|-------------------------|
-:rainbow: By the community | :chart_with_upwards_trend: [Results](data/data_community/reports/report_2020_12_5.md) | 2 apps ([suggest new apps!](https://github.com/iivanoo/covid-apps-observer/issues/new)!) | :calendar: 05/12/2020
-:australia: Australia | :chart_with_upwards_trend: [Results](data/data_au/reports/report_2020_12_5.md) | [Apps](https://play.google.com/store/search?q=covid&c=apps&gl=au) (Links to Google Play) | :calendar: 05/12/2020
-:austria: Austria | :chart_with_upwards_trend: [Results](data/data_at/reports/report_2020_12_5.md) | [Apps](https://play.google.com/store/search?q=covid&c=apps&gl=at) (Links to Google Play) | :calendar: 05/12/2020
-:canada: Canada | :chart_with_upwards_trend: [Results](data/data_ca/reports/report_2020_12_5.md) | [Apps](https://play.google.com/store/search?q=covid&c=apps&gl=ca) (Links to Google Play) | :calendar: 05/12/2020
-:cn: China | :chart_with_upwards_trend: [Results](data/data_cn/reports/report_2020_12_5.md) | [Apps](https://play.google.com/store/search?q=covid&c=apps&gl=cn) (Links to Google Play) | :calendar: 05/12/2020
-:denmark: Denmark | [:chart_with_upwards_trend: Results](data/data_dk/reports/report_2020_12_5.md) | [Apps](https://play.google.com/store/search?q=covid&c=apps&gl=dk) (Links to Google Play) | :calendar: 05/12/2020
-:fr: France | :chart_with_upwards_trend: [Results](data/data_fr/reports/report_2020_12_5.md) | [Apps](https://play.google.com/store/search?q=covid&c=apps&gl=fr) (Links to Google Play) | :calendar: 05/12/2020
-:de: Germany | :chart_with_upwards_trend: [Results](data/data_de/reports/report_2020_12_5.md) | [Apps](https://play.google.com/store/search?q=covid&c=apps&gl=de) (Links to Google Play) | :calendar: 05/12/2020
-:greece: Greece | :chart_with_upwards_trend: [Results](data/data_gr/reports/report_2020_12_5.md) | [Apps](https://play.google.com/store/search?q=covid&c=apps&gl=gr) (Links to Google Play) | :calendar: 05/12/2020
-:iceland: Iceland | [:chart_with_upwards_trend: Results](data/data_ic/reports/report_2020_12_5.md) | [Apps](https://play.google.com/store/search?q=covid&c=apps&gl=ic) (Links to Google Play) | :calendar: 05/12/2020
-:it: Italy | [:chart_with_upwards_trend: Results](data/data_it/reports/report_2020_12_5.md) | [Apps](https://play.google.com/store/search?q=covid&c=apps&gl=it) (Links to Google Play) | :calendar: 05/12/2020
-:jp: Japan | [:chart_with_upwards_trend: Results](data/data_jp/reports/report_2020_12_5.md) | [Apps](https://play.google.com/store/search?q=covid&c=apps&gl=jp) (Links to Google Play) | :calendar: 05/12/2020
-:netherlands: The Netherlands | [:chart_with_upwards_trend: Results](data/data_nl/reports/report_2020_12_5.md) | [Apps](https://play.google.com/store/search?q=covid&c=apps&gl=nl) (Links to Google Play) | :calendar: 05/12/2020
+:rainbow: By the community | :chart_with_upwards_trend: [Results](data/data_community/reports/report_2020_12_13.md) | 2 apps ([suggest new apps!](https://github.com/iivanoo/covid-apps-observer/issues/new)!) | :calendar: 13/12/2020
+:australia: Australia | :chart_with_upwards_trend: [Results](data/data_au/reports/report_2020_12_13.md) | [Apps](https://play.google.com/store/search?q=covid&c=apps&gl=au) (Links to Google Play) | :calendar: 13/12/2020
+:austria: Austria | :chart_with_upwards_trend: [Results](data/data_at/reports/report_2020_12_13.md) | [Apps](https://play.google.com/store/search?q=covid&c=apps&gl=at) (Links to Google Play) | :calendar: 13/12/2020
+:canada: Canada | :chart_with_upwards_trend: [Results](data/data_ca/reports/report_2020_12_13.md) | [Apps](https://play.google.com/store/search?q=covid&c=apps&gl=ca) (Links to Google Play) | :calendar: 13/12/2020
+:cn: China | :chart_with_upwards_trend: [Results](data/data_cn/reports/report_2020_12_13.md) | [Apps](https://play.google.com/store/search?q=covid&c=apps&gl=cn) (Links to Google Play) | :calendar: 13/12/2020
+:denmark: Denmark | [:chart_with_upwards_trend: Results](data/data_dk/reports/report_2020_12_13.md) | [Apps](https://play.google.com/store/search?q=covid&c=apps&gl=dk) (Links to Google Play) | :calendar: 13/12/2020
+:fr: France | :chart_with_upwards_trend: [Results](data/data_fr/reports/report_2020_12_13.md) | [Apps](https://play.google.com/store/search?q=covid&c=apps&gl=fr) (Links to Google Play) | :calendar: 13/12/2020
+:de: Germany | :chart_with_upwards_trend: [Results](data/data_de/reports/report_2020_12_13.md) | [Apps](https://play.google.com/store/search?q=covid&c=apps&gl=de) (Links to Google Play) | :calendar: 13/12/2020
+:greece: Greece | :chart_with_upwards_trend: [Results](data/data_gr/reports/report_2020_12_13.md) | [Apps](https://play.google.com/store/search?q=covid&c=apps&gl=gr) (Links to Google Play) | :calendar: 13/12/2020
+:iceland: Iceland | [:chart_with_upwards_trend: Results](data/data_ic/reports/report_2020_12_13.md) | [Apps](https://play.google.com/store/search?q=covid&c=apps&gl=ic) (Links to Google Play) | :calendar: 13/12/2020
+:it: Italy | [:chart_with_upwards_trend: Results](data/data_it/reports/report_2020_12_13.md) | [Apps](https://play.google.com/store/search?q=covid&c=apps&gl=it) (Links to Google Play) | :calendar: 13/12/2020
+:jp: Japan | [:chart_with_upwards_trend: Results](data/data_jp/reports/report_2020_12_13.md) | [Apps](https://play.google.com/store/search?q=covid&c=apps&gl=jp) (Links to Google Play) | :calendar: 13/12/2020
+:netherlands: The Netherlands | [:chart_with_upwards_trend: Results](data/data_nl/reports/report_2020_12_13.md) | [Apps](https://play.google.com/store/search?q=covid&c=apps&gl=nl) (Links to Google Play) | :calendar: 13/12/2020
 :netherlands: The Netherlands (custom) | [:chart_with_upwards_trend: Results](data/data_nl_custom/reports/report_2020_10_7.md) | 9 apps | :calendar: 07/10/2020
-:norway: Norway | [:chart_with_upwards_trend: Results](data/data_no/reports/report_2020_12_5.md) | [Apps](https://play.google.com/store/search?q=covid&c=apps&gl=no) (Links to Google Play) | :calendar: 05/12/2020
-:portugal: Portugal | [:chart_with_upwards_trend: Results](data/data_pt/reports/report_2020_12_5.md) | [Apps](https://play.google.com/store/search?q=covid&c=apps&gl=pt) (Links to Google Play) | :calendar: 05/12/2020
-:ru: Russia | [:chart_with_upwards_trend: Results](data/data_ru/reports/report_2020_12_5.md) | [Apps](https://play.google.com/store/search?q=covid&c=apps&gl=ru) (Links to Google Play) | :calendar: 05/12/2020
-:es: Spain | :chart_with_upwards_trend: [Results](data/data_es/reports/report_2020_12_5.md) | [Apps](https://play.google.com/store/search?q=covid&c=apps&gl=es) (Links to Google Play) | :calendar: 05/12/2020
-:sweden: Sweden | [:chart_with_upwards_trend: Results](data/data_se/reports/report_2020_12_5.md) | [Apps](https://play.google.com/store/search?q=covid&c=apps&gl=se) (Links to Google Play) | :calendar: 05/12/2020
-:uk: United Kindom | [:chart_with_upwards_trend: Results](data/data_uk/reports/report_2020_12_5.md) | [Apps](https://play.google.com/store/search?q=covid&c=apps&gl=uk) (Links to Google Play) | :calendar: 05/12/2020
-:us: United States | [:chart_with_upwards_trend: Results](data/data_us/reports/report_2020_12_5.md) | [Apps](https://play.google.com/store/search?q=covid&c=apps&gl=us) (Links to Google Play) | :calendar: 05/12/2020
+:norway: Norway | [:chart_with_upwards_trend: Results](data/data_no/reports/report_2020_12_13.md) | [Apps](https://play.google.com/store/search?q=covid&c=apps&gl=no) (Links to Google Play) | :calendar: 13/12/2020
+:portugal: Portugal | [:chart_with_upwards_trend: Results](data/data_pt/reports/report_2020_12_13.md) | [Apps](https://play.google.com/store/search?q=covid&c=apps&gl=pt) (Links to Google Play) | :calendar: 13/12/2020
+:ru: Russia | [:chart_with_upwards_trend: Results](data/data_ru/reports/report_2020_12_13.md) | [Apps](https://play.google.com/store/search?q=covid&c=apps&gl=ru) (Links to Google Play) | :calendar: 13/12/2020
+:es: Spain | :chart_with_upwards_trend: [Results](data/data_es/reports/report_2020_12_13.md) | [Apps](https://play.google.com/store/search?q=covid&c=apps&gl=es) (Links to Google Play) | :calendar: 13/12/2020
+:sweden: Sweden | [:chart_with_upwards_trend: Results](data/data_se/reports/report_2020_12_13.md) | [Apps](https://play.google.com/store/search?q=covid&c=apps&gl=se) (Links to Google Play) | :calendar: 13/12/2020
+:uk: United Kindom | [:chart_with_upwards_trend: Results](data/data_uk/reports/report_2020_12_13.md) | [Apps](https://play.google.com/store/search?q=covid&c=apps&gl=uk) (Links to Google Play) | :calendar: 13/12/2020
+:us: United States | [:chart_with_upwards_trend: Results](data/data_us/reports/report_2020_12_13.md) | [Apps](https://play.google.com/store/search?q=covid&c=apps&gl=us) (Links to Google Play) | :calendar: 13/12/2020
 
 
 > Do you want your nation listed here? You can [create an issue](https://github.com/iivanoo/covid-apps-observer/issues/new) in this repository and we will take care of it!

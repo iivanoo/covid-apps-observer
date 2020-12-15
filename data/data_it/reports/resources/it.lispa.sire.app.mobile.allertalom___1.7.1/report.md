@@ -160,6 +160,10 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <img src="5_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 5 reviews"/>
 </p>
 
+> App molto utile per info sul tempo sulle allerte sui decreti per notizie e spostamenti utili in questo particolare momento un Grazie a tutti coloro che partecipano alla realizzazione del programma<br> :date: __2020-12-11 22:56:29__
+
+> Seria<br> :date: __2020-12-11 16:52:11__
+
 > Applicazione utilissima e costantemente aggiornata rischi che si possano verificare, un sentito grazie da una volontaria della protezione civile<br> :date: __2020-11-15 14:59:43__
 
 > Un App molto ben sviluppata,ed utile per avere informazioni sicure sull'andamento della circolazione del Covid 19 nella tua città e regioni italiane. Molto ben sviluppata,e di facile configurazione, fluida e completa di molte informazioni che possono essere utili. Con la possibilità di avere la situazione della circolazione del Coronavirus, tramite un sistema che ti mostra l'andamento della criticità, durante le 24 ore della giornata. Con la legenda con i colori dell'incidenza dei contagi nelle<br> :date: __2020-10-31 02:10:46__
@@ -176,10 +180,6 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 
 > Utile per chi opera in protezione civile<br> :date: __2020-10-02 10:03:56__
 
-> Ottima app<br> :date: __2020-08-28 17:17:22__
-
-> Ottima, mi avvisa ogni volta che arriva un forte temporale.<br> :date: __2020-08-28 14:37:23__
-
 
 
 #### 4-star reviews
@@ -187,6 +187,10 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 4 reviews"/>
 </p>
+
+> Aggiungo due stelle. Senza fronzoli va al dunque. Per me lombardo funziona alla grande.<br> :date: __2020-12-11 13:32:57__
+
+> La ritengo molto utile👍<br> :date: __2020-12-05 15:14:58__
 
 > Applicazione utile serebbe opportuno inserire nelle cartine della regione le sigle delle aree come elencate nelle note<br> :date: __2020-12-05 14:41:39__
 
@@ -204,10 +208,6 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 
 > Ottima applicazione, sempre presente per ogni cambiamento del tempo.<br> :date: __2020-10-03 14:37:02__
 
-> Ottima<br> :date: __2020-09-17 19:03:44__
-
-> L'app risulta ben fatta, ma non esiste modo di modificare l'età<br> :date: __2020-09-09 09:44:34__
-
 
 
 #### 3-star reviews
@@ -215,8 +215,6 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 3 reviews"/>
 </p>
-
-> Non male. Assolve bene lo scopo per cui è nata<br> :date: __2020-12-03 17:17:36__
 
 > Ottima okk<br> :date: __2020-12-01 18:32:58__
 
@@ -236,6 +234,8 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 
 > Funziona solo il questionario Covid e l'invio delle regole Covid aggiornate. Per il resto, non azzecca un'allerta meteo che sia una.<br> :date: __2020-08-28 00:31:16__
 
+> Funzionare funziona... le cose che ci sono servono... bruttina. Quello si e le allerte meteo attendibili come le previsioni mentre per i decreti covid rimanda ad apposite pagine on line.<br> :date: __2020-08-20 22:16:38__
+
 
 
 #### 2-star reviews
@@ -243,6 +243,8 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 2 reviews"/>
 </p>
+
+> Poco efficente e con descrizioni e annunci che sono copia di quelli ministeriali. Era meglio potenziare di più Immuni invece di farne una simile.<br> :date: __2020-12-10 17:45:49__
 
 > App molto utile ed interessante peccato che ultimamente non si possa più utilizzare perché senza consenso al questionario covid, obbligato perché il tasto di rifiuto non funziona, non è più possibile utilizzare neppure la parte relativa alle allerte atmosferiche L'alternativa è ignorare completamente l'app<br> :date: __2020-12-05 13:55:03__
 
@@ -261,8 +263,6 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 > Tutti i giorni un'allerta meteo, tutte sbagliate<br> :date: __2020-08-29 19:29:58__
 
 > Salve,non so come abbia fatto ma mi ritrovo un addebito mensile di euro0,40 centesimi, non é per il costo però io non ho sottoscritto nessun abbonamento di questa app, mi dite come posso dare disdetta? Grazie<br> :date: __2020-08-26 18:33:35__
-
-> Arrivano le notifiche si clicca sul popup che contiene il link.. pagina non trovata.<br> :date: __2020-07-31 20:20:23__
 
 
 

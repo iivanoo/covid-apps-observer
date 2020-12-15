@@ -172,25 +172,25 @@ The HealthEngine app has been installed by more than **500000** times. At this t
 <img src="5_star_reviews_wordcloud.png" alt="com.healthengine.android 5 reviews"/>
 </p>
 
-> Fast and precise<br> :date: __2020-12-05 11:06:27__
+> Great customer service and great support friendly staff and awesome doctor's<br> :date: __2020-12-13 21:45:28__
 
-> Easy to use and helps to find all the GPs nearby<br> :date: __2020-12-04 21:27:33__
+> Convenicent and helpful.<br> :date: __2020-12-13 06:50:40__
 
-> Let your fingers do the walking. Book online after hours. Wonderful<br> :date: __2020-12-04 10:27:53__
+> Very easy to use and professional.<br> :date: __2020-12-13 02:02:51__
 
-> Handy<br> :date: __2020-12-04 08:07:13__
+> Very easy. Just a tap away to access all the features<br> :date: __2020-12-12 19:20:32__
 
-> Best way to find a local doctor with special interest in particular areas of health care.<br> :date: __2020-12-04 07:05:45__
+> Pretty good for what it's meant to do. I'm surprised the government has a functioning app.<br> :date: __2020-12-12 15:17:21__
 
-> Easy to use<br> :date: __2020-12-04 06:37:27__
+> A great app<br> :date: __2020-12-12 12:38:04__
 
-> All good<br> :date: __2020-12-04 01:28:13__
+> Great app, but would love a note section for when making appts - reason or scripts required could be listed.<br> :date: __2020-12-12 02:10:59__
 
-> User friendly<br> :date: __2020-12-04 00:06:57__
+> Great App and easy to use<br> :date: __2020-12-11 06:31:29__
 
-> Thank you<br> :date: __2020-12-03 23:27:45__
+> I trust my doctor.<br> :date: __2020-12-10 15:08:07__
 
-> Alot easier to make appointments and to find a doctor<br> :date: __2020-12-03 22:48:28__
+> Quick and easy to book appointments love this app saves time instead of making a phone call to book<br> :date: __2020-12-10 13:42:32__
 
 
 
@@ -199,6 +199,10 @@ The HealthEngine app has been installed by more than **500000** times. At this t
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.healthengine.android 4 reviews"/>
 </p>
+
+> As I am a beginner with this type of bookings, but pretty good. Not sure about canceling appts when you have plenty of time to do it.<br> :date: __2020-12-11 01:10:25__
+
+> Happy everytime I use it so far<br> :date: __2020-12-08 16:09:17__
 
 > Very easy to use, font not clear<br> :date: __2020-12-04 22:17:43__
 
@@ -215,10 +219,6 @@ The HealthEngine app has been installed by more than **500000** times. At this t
 > Works really well<br> :date: __2020-11-24 21:59:44__
 
 > Wish you could book further ahead, but it's a great app. No contact, easy to navigate for me it was.<br> :date: __2020-11-22 16:19:09__
-
-> Pretty good app, easy to use, and frequently updated.<br> :date: __2020-11-20 23:52:18__
-
-> Easy to use<br> :date: __2020-11-20 00:36:29__
 
 
 
@@ -284,6 +284,8 @@ The HealthEngine app has been installed by more than **500000** times. At this t
 <img src="1_star_reviews_wordcloud.png" alt="com.healthengine.android 1 reviews"/>
 </p>
 
+> 1 hr notice for an appointment is silly. Make it the day before do there is a chance to cancel in a timely manner.<br> :date: __2020-12-09 23:38:27__
+
 > Every time I'm logging on it's asking to create a passcode,,, most useless app I've come across,,, uninstalling it fix this annoyance..<br> :date: __2020-12-04 13:13:00__
 
 > All these doctors expect their kickbacks...and most are dodgy as<br> :date: __2020-12-03 12:30:10__
@@ -301,7 +303,5 @@ The HealthEngine app has been installed by more than **500000** times. At this t
 > It's not working now I had to uninstall and reinstall and it still doesn't have my gp on the app I've all ways booked on there but it's not working ITS WORONGARY MEDICAL CENTER I HAVE ALWAYS BOOKED THROUGH YOUR APP<br> :date: __2020-11-13 06:24:35__
 
 > Like Hotdoc not only does it gets you results for say psychologist outside your search area I ask for Brisbane got suburbs in Sydney. But even those you cancelled your appointment with the medical centre Health Engine and Hotdoc still shows your appointment.<br> :date: __2020-10-09 02:22:18__
-
-> Unable to complete bookings after latest update cannot progress past the screen where it confirms my details after choosing appointment type.<br> :date: __2020-10-07 22:00:22__
 
 

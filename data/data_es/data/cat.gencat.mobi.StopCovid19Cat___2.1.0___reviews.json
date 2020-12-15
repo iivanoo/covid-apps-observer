@@ -1,5 +1,17 @@
 [
     {
+        "reviewId": "gp:AOqpTOGFolCJXA3XrbaYT9KmBC1bcDEBy4ATFw25ImO-H81f0WHtduQEunzehCiM02NXh3hYe2_rZ-fpEg_FPCs",
+        "userName": "LOURDES PALOMAR",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgjWgcKWU8npMseudmo_wyjvOtuAzojq0fZ9jXX",
+        "content": "La app no funcina bien. Cuando voy a hacer el test se queda colgada. La he desintalado y vuelto a instalar y nada. Sin el test no sirve para nada. Despues de la rese\u00f1a, funciono una vez y ahora otra vez no puedo hacer el test",
+        "score": 1,
+        "thumbsUpCount": 6,
+        "reviewCreatedVersion": "2.1.0",
+        "at": "2020-12-06 21:00:34",
+        "replyContent": "Si nos indica su modelo de m\u00f3vil y versi\u00f3n del programa trasladaremos la incidencia.",
+        "repliedAt": "2020-11-14 12:03:27"
+    },
+    {
         "reviewId": "gp:AOqpTOEDFtV1mAwre4N_AxDJrFOQsMIR76TmV6AzkR7cte7anjd3GsgdYlvp6BgXelYTEVlul20mshb6aohPWzg",
         "userName": "maria sanchez torrecillas",
         "userImage": "https://play-lh.googleusercontent.com/-z76YXKuuc7k/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmYehKgjQRo17kvLc7XTmb9fckI6w/photo.jpg",
@@ -53,7 +65,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhynIah8qt_X8qCyv0m489GfjRRO_hVtXUy53Rv5RE",
         "content": "Mientras no haces la prueba est\u00e1 bien de ayuda, pero una vez te haces el test y das positivo, no sirve para nada. Yo hoy he hecho test de ant\u00edgenos y he dado positivo. En cambio relleno los datos y como me han desaparecido varios s\u00edntomas, pues me dice que no tengo la Covid. Me da un chasquido el bolo al ver que me dice que no tengo Covid y en cambio hoy me han diagnosticado positivo en el CAP.",
         "score": 1,
-        "thumbsUpCount": 9,
+        "thumbsUpCount": 12,
         "reviewCreatedVersion": "2.1.0",
         "at": "2020-11-09 21:38:15",
         "replyContent": "La app es un test de control, seguimiento y vigilancia de s\u00edntomas. Si usted est\u00e1 diagnosticado debe seguir las indicaciones que le han dado en el CAP.",
@@ -98,7 +110,7 @@
     {
         "reviewId": "gp:AOqpTOG4_B9CeCJaHtOIrvgGre9-evOJo3z2ClwCY1_mGT0DSlX_zze_pakHMgsfH3zKRXiL0X87bZWOj9HewVo",
         "userName": "Manel Josep Ca\u00f1adas Muela",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjW9nTvKW6j4AbMsVyjuF_jOUvAvHZpYhfgu6lVz5A",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ghp6l_jRIQIW4jv1to0f7RbjMl-iHA8lIaq893ZvLs",
         "content": "Bueno esta bien y gracias a la informacion que facilita la instituci\u00f3n sanitaria es m\u00e1s fiable.",
         "score": 4,
         "thumbsUpCount": 0,
@@ -106,18 +118,6 @@
         "at": "2020-11-01 15:32:45",
         "replyContent": "Gracias",
         "repliedAt": "2020-11-14 12:02:16"
-    },
-    {
-        "reviewId": "gp:AOqpTOGFolCJXA3XrbaYT9KmBC1bcDEBy4ATFw25ImO-H81f0WHtduQEunzehCiM02NXh3hYe2_rZ-fpEg_FPCs",
-        "userName": "LOURDES PALOMAR",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgjWgcKWU8npMseudmo_wyjvOtuAzojq0fZ9jXX",
-        "content": "La app no funcina bien. Cuando voy a hacer el test se queda colgada. La he desintalado y vuelto a instalar y nada. Sin el test no sirve para nada.",
-        "score": 1,
-        "thumbsUpCount": 4,
-        "reviewCreatedVersion": "2.1.0",
-        "at": "2020-11-01 10:11:53",
-        "replyContent": "Si nos indica su modelo de m\u00f3vil y versi\u00f3n del programa trasladaremos la incidencia.",
-        "repliedAt": "2020-11-14 12:03:27"
     },
     {
         "reviewId": "gp:AOqpTOHDN0Jw0E-ZM2qRf2fRLLWySBR1teDvOV3-ZXl-SebrKE26PGej12eyKYAg8yl_yipyrz2gjXXtJJsSWoE",
@@ -245,7 +245,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiZg3RWKxIujXK0V8f0ZaPqTW-riP3mI37nOs-f",
         "content": "Soy positivo, tengo sintomas y la app dice que no tengo sintomas. Ser\u00eda mucho mejor que dijera que no tengo sintomas graves y que continue haciendo los test para cuando aparezca algo grave seguir con el procedimiento adecuado. De esta forma al \"no tener sintomas\" pierdo las ganas de hacer el seguimiento de los tests, aunqu\u00e9 tenga los sintomas.",
         "score": 1,
-        "thumbsUpCount": 26,
+        "thumbsUpCount": 27,
         "reviewCreatedVersion": "2.1.0",
         "at": "2020-10-13 08:04:14",
         "replyContent": "Si es positivo y presenta ligeros s\u00edntomas le recomendamos que siga utilizando la app para reportar su estado. Gracias",
@@ -350,7 +350,7 @@
     {
         "reviewId": "gp:AOqpTOF9IcbzUHYrTVusH6WyeNSxjGyv_3vYxKJoLnXFsxistlY7DcnCjxsSepGhgevpRHyJNAuthmy6umdL95A",
         "userName": "Antonio flores alcaraz",
-        "userImage": "https://play-lh.googleusercontent.com/-3_shhm-bmJA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucksnAg7CB4dqR9X3Ryr_9zDrWGioA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh95RR9MRlfYfe7rKNWgy8PAJ4CiPgVUcD6oLMeHg",
         "content": "Un tru\u00f1o CAT.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -769,7 +769,7 @@
     },
     {
         "reviewId": "gp:AOqpTOFzNN-uJ3FWkOPmdj1n5fcE-Wssn4HPluz71OI7c9RY09Gnes7pZk84PgubJZ5ocBDOHMXPNjYa0QpGjp0",
-        "userName": "Mon Nun",
+        "userName": "M Nun",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjNkG226qJMYYCdNndvfQexogL3x47jGZUV56QWuw",
         "content": "Introdueixo les dades pero despres quan confirmo no avan\u00e7a es queda aturat",
         "score": 2,
@@ -1430,7 +1430,7 @@
     {
         "reviewId": "gp:AOqpTOFfUns0nNkX2ljr6RutjWoQ4ripKyFIEY3n7a3_nvaKL6Ugt1jpJXpChqRS4As-Jh0x8LPso7iQdiCSTbk",
         "userName": "Nuria Riera",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiBalHAHS-yJOI1zhOYwmncN4YrL1CnLWpRKqoHVw",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiNN4dTLs_OuUYaPVZ1i7p1ZBJTm3Niw_KFVem-sg",
         "content": "Ja l'he probat, i funciona s\u00ed",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1837,8 +1837,8 @@
     },
     {
         "reviewId": "gp:AOqpTOHistc19VeAFJBcdBGKAajJYr2PMx2Kj1wzPrIf-yrIJdN2hAiffMGzJJ5EJLHmlnNNRn53FigDzrdsDfc",
-        "userName": "J D.M",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjVK7jym142UJbU_1AmXRO4V_hLEooE9Q5hIlhuZA",
+        "userName": "Jose M.P.",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj1uxuLJfSsF1pUjO_7ffygI1GrUEA4elzU95r5jQ",
         "content": "Poco eficaz y no da info de tu entorno",
         "score": 1,
         "thumbsUpCount": 1,
@@ -2209,8 +2209,8 @@
     },
     {
         "reviewId": "gp:AOqpTOHj5c4DuOFldrcnHp7hr9CeXEddNVpVdyj5Lgk3ecBf_i1ShEOKEbyw4nWgSjcgg1mBK3uiK2mmzJueoLk",
-        "userName": "Ufoskyscanner Girona",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhL-lpP2wbpX_q7ETyMCLtYOvGcm62UW48ZqK3-LA",
+        "userName": "Racingrr",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiX_YABLSnNS8MpxokIFqih-_r3XCay8t3PhuXA5A",
         "content": "Terrible",
         "score": 1,
         "thumbsUpCount": 0,
@@ -3182,7 +3182,7 @@
     {
         "reviewId": "gp:AOqpTOFAjj8lH4c8k_TndWZC5GX9dDfviWGMG7dokIhiCxARFvZ-5cML_-xlMqxPF_3xGEyMbU_IHc8zpkcsWrY",
         "userName": "Ivagaza Mix",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh6ixrIZ8AfUux6TlIJbc5XXbru-Y0cTxqZKz8Im94",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiR_nxqXLUj3DzVyk13fESNVexv9p9CUua_XzPY0-0",
         "content": "El que ha hecho el test se ha lucido. Solamente que tengas uno de los s\u00edntomas del inicio ya te dice que eres probable portador no s\u00e9 para qu\u00e9 sirve el resto de preguntas... \u00c9sta aplicaci\u00f3n no aporta nada nuevo o que no sepas. En fin otra manera m\u00e1s de crearte miedo. Y si es una app simplemente para crear una estad\u00edstica yo me pregunto qu\u00e9 veracidad debe tener. Cu\u00e1nta gente debe haber contestado que tiene los s\u00edntomas sin ser cierto? S\u00f3lo para ver qu\u00e9 te contesta... En fin.",
         "score": 1,
         "thumbsUpCount": 144,

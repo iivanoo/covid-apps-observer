@@ -178,25 +178,25 @@ The NowClinic app has been installed by more than **50000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="com.americanwell.android.member.optum 5 reviews"/>
 </p>
 
-> Omg...I love this idea. This is the best way to do medical issues now especially with the Pandemic scaring people half to death. Such convenience. Love it.....😁😇<br> :date: __2020-12-03 17:38:52__
+> I was in need of relief from my gout. Being not able to walk this option was by far the best. Thank you NowClinic!<br> :date: __2020-12-13 17:15:40__
 
-> So convenient... Great Drs!<br> :date: __2020-12-03 01:18:44__
+> The app for use on your iPhone or Android is great. When you try to use now clinic over the internet it is a miserable experience. Just a little warning in advance.<br> :date: __2020-12-13 06:00:43__
 
-> It was Great Being able to talk with my Dr. Via video chat. I Highly Recommend it. Thank You Now Clinic for this technology. And A Big Thanks to my Dr. 🤗<br> :date: __2020-12-02 16:42:03__
+> It was easy and in the privacy of my own home. I lobe the fact im not risking my health by going into a dr office ir hospital to catch covid19. Thank U so much far and super easy.<br> :date: __2020-12-13 00:30:41__
 
-> It help me a lot...and so nice to communicate 👌 thank you 😊<br> :date: __2020-12-01 22:08:17__
+> Was feeling under the weather so this worked perfect for me!<br> :date: __2020-12-12 00:37:30__
 
-> Great reception and easy to use<br> :date: __2020-11-30 23:00:39__
+> 👍<br> :date: __2020-12-11 17:08:20__
 
-> Fast and cordial<br> :date: __2020-11-30 19:07:51__
+> Finally got it to work as designed<br> :date: __2020-12-10 22:40:07__
 
-> This is a great way to see my doctor without having to go anywhere, and the app has been consistent without issues.<br> :date: __2020-11-30 17:31:10__
+> Great service and easy-to-use exactly what we need at a time like this.<br> :date: __2020-12-10 22:37:07__
 
-> not sure<br> :date: __2020-11-30 02:10:26__
+> So convenient.<br> :date: __2020-12-10 03:53:51__
 
-> Good<br> :date: __2020-11-25 21:50:30__
+> Awesome 😊, once I got connected with divice that was compatible.<br> :date: __2020-12-08 17:42:35__
 
-> This was quick and easy! The dr i seen was attentive and acknowledged my symptoms<br> :date: __2020-11-24 19:21:17__
+> Easy to use great interface!!! Good sound and picture quality<br> :date: __2020-12-07 19:08:02__
 
 
 
@@ -281,6 +281,8 @@ office.<br> :date: __2018-04-23 18:36:09__
 <img src="1_star_reviews_wordcloud.png" alt="com.americanwell.android.member.optum 1 reviews"/>
 </p>
 
+> Worst app that I have ever used. It can't connect properly to my insurance on every visit and their personnel don't seem to actually know how to fix the situation each time that I have tried to use it. Also, the damn thing will suddenly kick you off of the appointment while you're waiting once you give up on getting a free appointment and pay for it. Don't use this unless they fix their massive problems. This thing is a mess!<br> :date: __2020-12-06 17:44:15__
+
 > Didn't cancel appointment I canceled, cannot maneuver to find covid test results, but liked my physician on 3/31<br> :date: __2020-08-03 21:55:38__
 
 > No longer connects well. Since the update it says you are connected, waiting for the physician to connect...then it doesn't connect and the doctor cancels<br> :date: __2020-07-31 18:04:15__
@@ -298,7 +300,5 @@ office.<br> :date: __2018-04-23 18:36:09__
 > Why, oh why...when I do my initial login, after the app sends me an email verification code, does the app kick me back to the initial login screen when I switch my phone screen to said email to obtain said verification code, thereby invalidating the aforementioned verification code? When I put my credentials back in, I am sent a new verification code. Rinse, lather...repeat... Will I ever be able to login without requiring a secondary device just to check my email???<br> :date: __2020-04-04 03:09:35__
 
 > Tried to call customer service and after 30 minutes listening to the elevator music and please hold on I decided that I want a more responsive experience. They suck!<br> :date: __2020-03-31 01:20:18__
-
-> Pathetic joke of a service. I am in excruciating pain with an ear infection that is causing me to miss school, and this "doctor" does little more than steal my $60 copay and tell me to take over the counter pain meds, refusing to prescribe any antibiotic despite being sick with no improvement for over a week. What a joke. I am absolutely disgusted by this service and the practitioners on it.<br> :date: __2020-01-13 19:05:54__
 
 

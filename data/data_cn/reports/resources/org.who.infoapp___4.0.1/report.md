@@ -138,6 +138,8 @@ The WHO Info app has been installed by more than **100000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="org.who.infoapp 5 reviews"/>
 </p>
 
+> Very nice app for health.<br> :date: __2020-12-12 06:15:46__
+
 > Great. Installed quickly without problems. :-)<br> :date: __2020-11-15 16:31:45__
 
 > Thnx u save live<br> :date: __2020-11-11 19:32:07__
@@ -155,8 +157,6 @@ The WHO Info app has been installed by more than **100000** times. At this time,
 > I like to see a update on what's going on please<br> :date: __2020-09-23 12:20:19__
 
 > First time user, but the app looks helpful.<br> :date: __2020-09-16 19:17:57__
-
-> I request WHO info App. to send Update on Everything Necessary for Healthier Caring to Evade the light of the Endemic Diesease COVID 19 Exposure. G-Suite Admin.<br> :date: __2020-09-06 03:01:26__
 
 
 

@@ -3,14 +3,14 @@
         "id": "com.joinzoe.covid_zoe",
         "store_country": "uk",
         "store_lang": "en",
-        "latest_crawled_version": "2.0.2",
-        "latest_crawl": 1607174707
+        "latest_crawled_version": "2.1.0",
+        "latest_crawl": 1607880219
     },
     {
         "id": "edu.yale.fas.hunala",
         "store_country": "us",
         "store_lang": "en",
         "latest_crawled_version": "1.0",
-        "latest_crawl": 1607174708
+        "latest_crawl": 1607880291
     }
 ]

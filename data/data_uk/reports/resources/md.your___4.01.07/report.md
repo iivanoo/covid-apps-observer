@@ -205,6 +205,8 @@ The Healthily: Self-Care & Health Journal app has been installed by more than **
 <img src="5_star_reviews_wordcloud.png" alt="md.your 5 reviews"/>
 </p>
 
+> I'm loving it. I loved the revamped UI design. Seems like I won't be needing another health app. Keep it up!<br> :date: __2020-12-11 12:04:26__
+
 > nice one<br> :date: __2020-11-22 05:51:59__
 
 > внат ан авесоме аpp. итс хелпинг те ундерстанд мы health<br> :date: __2020-11-21 23:00:02__
@@ -222,8 +224,6 @@ The Healthily: Self-Care & Health Journal app has been installed by more than **
 > Amazing experience, since you start using it it will become your main habit everyday. Very very good<br> :date: __2020-11-16 10:19:14__
 
 > Good app motivating and easy to follow<br> :date: __2020-11-15 11:49:43__
-
-> feel like a llama<br> :date: __2020-11-15 05:27:46__
 
 
 

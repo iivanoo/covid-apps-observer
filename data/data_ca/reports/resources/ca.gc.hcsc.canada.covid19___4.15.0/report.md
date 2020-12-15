@@ -134,6 +134,8 @@ The Canada COVID-19 app has been installed by more than **100000** times. At thi
 <img src="5_star_reviews_wordcloud.png" alt="ca.gc.hcsc.canada.covid19 5 reviews"/>
 </p>
 
+> Great to be monitored.<br> :date: __2020-12-08 09:26:26__
+
 > Easy to use... The more people that use it, the more useful it becomes as a tracking tool!!!<br> :date: __2020-11-27 22:41:53__
 
 > It's amazing<br> :date: __2020-11-23 07:53:48__
@@ -151,8 +153,6 @@ The Canada COVID-19 app has been installed by more than **100000** times. At thi
 > Easy to use and so easy to contribute to public safety. Super!<br> :date: __2020-10-12 14:09:30__
 
 > It's easy to use .<br> :date: __2020-10-09 15:43:20__
-
-> I recommend and encourage all Canadians to install this.<br> :date: __2020-10-02 19:26:48__
 
 
 
@@ -246,6 +246,8 @@ The Canada COVID-19 app has been installed by more than **100000** times. At thi
 <img src="1_star_reviews_wordcloud.png" alt="ca.gc.hcsc.canada.covid19 1 reviews"/>
 </p>
 
+> Doesn't update anymore. Cleared cache and data<br> :date: __2020-12-06 16:54:10__
+
 > Wants me to isolate for 14 days for a headache. Needs better descriptions. Public health has different opinions of close contact. This app says No, my public health says yes.<br> :date: __2020-11-27 21:20:47__
 
 > It kept freezing<br> :date: __2020-11-26 12:27:04__
@@ -263,7 +265,5 @@ The Canada COVID-19 app has been installed by more than **100000** times. At thi
 > terrible<br> :date: __2020-11-03 01:18:47__
 
 > Absolut joke of an app. Today is Oct 22nd and I wanted to see details under the Stats tab for a more detailed look at local cases. Latest data shown is from September 25th!?!? Really!?! Useless app...uninstalled!<br> :date: __2020-10-22 22:05:52__
-
-> This is not the app you want. It notified me to post a positive interaction on a wall. I don't want to be notified of any thing that is not a covid exposure by a covid app<br> :date: __2020-10-10 18:21:58__
 
 

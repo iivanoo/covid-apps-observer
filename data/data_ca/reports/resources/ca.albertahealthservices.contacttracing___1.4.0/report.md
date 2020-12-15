@@ -257,24 +257,24 @@ The ABTraceTogether app has been installed by more than **50000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="ca.albertahealthservices.contacttracing 1 reviews"/>
 </p>
 
-> What gives this provincial government the audacity to intentionally block a proven federal tool that can aide my health and relieve the burden of your provincial failures? Communist China had more options than you are allowing us.<br> :date: __2020-12-05 15:05:57__
+> I was not notified about being in close contact but I did follow isolation protocol!<br> :date: __2020-12-13 18:20:21__
 
-> Well on the downside it doesn't work at all. But on the plus side it drains my battery so I can't spend as much time learning what a terrible job Kenney is doing with the pandemic. I call it a lose-lose situation<br> :date: __2020-12-05 05:47:32__
+> If you want to pretend you care about covid AND brick your phone, this app is perfect.<br> :date: __2020-12-13 06:37:58__
 
-> Doesn't communicate with iPhones. Doesn't work in background mode. Drains battery. Doesn't work without contact tracers who aren't tracing general population. Non functional app.<br> :date: __2020-12-04 21:45:54__
+> Drained my battery quick. Also the privacy aspect with this app is very suspicious.<br> :date: __2020-12-12 23:07:44__
 
-> IS ANYBODY ELSE USING THIS APP? I did find a way to run this app on my Android 8 that doesn't kill the battery and is not taking up the notification bar by displaying a huge notification area. And yes it is still running in the background.<br> :date: __2020-12-04 20:16:51__
+> It doesn't work :)<br> :date: __2020-12-12 20:50:28__
 
-> Kept shutting down. Used a lot of battery when it was operaring. Province should have used the national app. Which actually seems to work.<br> :date: __2020-12-04 17:52:53__
+> I downloaded this app shortly after it came out only to see that it is essentially useless and was created to benefit our miserable failure of a health minister's friends. Not only does it not trace contacts effectively which is essential during a pandemic, it also collects your data for lord only knows what purpose. I wish that our Bible school evictee brain dead ideologue of a premier would implement the federal contact tracing app, but tRuDeAu BaD.<br> :date: __2020-12-12 19:52:52__
 
-> This is not just embarrassing, it's infuriating. People are DYING, JASON.<br> :date: __2020-12-03 16:21:18__
+> Doesn't stay running in the background for more than a few hours, which makes the whole thing useless when I'm getting groceries or other supplies.<br> :date: __2020-12-11 20:35:18__
 
-> It causes serious battery consumption due to having to leave bluetooth on and has too many bugs to be a reliable form of contact tracing<br> :date: __2020-12-01 01:39:56__
+> Hey Jason Kenney, you piece of human garbage. Close this app and integrate to the National Canade wide app you useless dumpster fire of a human. I hope to God there's a no confidence vote and you're removed for your incompetence and corruption. Go to hell.<br> :date: __2020-12-11 07:21:36__
 
-> Well documented in the press that this app doesn't work.<br> :date: __2020-11-30 02:35:24__
+> GIVE US A WORKING APP<br> :date: __2020-12-11 06:37:05__
 
-> I'm not giving you GPS acces FOH. Let us use the federal one<br> :date: __2020-11-28 22:34:33__
+> This is a sick joke. As of mid-November, only 19 cases tracked by this app (with 200k+ downloads) since May in a province with 1000+ new cases every day. Instead of working together to protect all Canadians by using the federal app, we have wasted half a million dollars on reinventing the wheel that isolates us from federal help, divides us from our fellow Canadians, and protects almost nobody as a result.<br> :date: __2020-12-10 18:26:21__
 
-> Told it doesn't work<br> :date: __2020-11-28 21:24:41__
+> If I could give it zero I would. Frankly it doesnt work. I was diagnosed with COVID and none of my close contacts were notified. Pointless. Doesnt integrate with Federal app, due to Kenneys pride.<br> :date: __2020-12-10 07:07:41__
 
 

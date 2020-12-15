@@ -126,25 +126,25 @@ The MI COVID Alert app has been installed by more than **1000** times. At this t
 <img src="5_star_reviews_wordcloud.png" alt="gov.michigan.MiCovidExposure 5 reviews"/>
 </p>
 
+> They let YOU KNOW exactily what is what about this chinese epidemic-19.<br> :date: __2020-12-13 02:49:59__
+
+> Feel safer<br> :date: __2020-12-11 04:10:05__
+
+> Nice to know of the Corona<br> :date: __2020-12-10 20:00:17__
+
+> All negative reviews seem to speak about the lack of participation by the public. Instead of rating the app poorly, how about we take a moment to engage our family and friends, educate them about this app, and encourage them to use it. It will never be perfect but it is the best contact tracing solution available at this time.<br> :date: __2020-12-10 17:13:52__
+
+> Really simple, if it saves one person it was worth it. It will probably save more! Great job, and I'm glad the racial bias data is available too. Good job Gretchen/All!<br> :date: __2020-12-09 04:46:36__
+
+> I can't wait to open this app to see what its all about<br> :date: __2020-12-08 10:45:53__
+
+> This is a cool app I just installed it, this will be a useful tool to stay safe!<br> :date: __2020-12-08 07:45:19__
+
 > This is very vital to me because I need to know what's going on out in the world because of what I do for a living. I help manufacture bumpers and ship them out all throughout the world here in Ionia Michigan. Thank you again. Godspeed<br> :date: __2020-11-29 20:48:25__
 
 > This is what MI needs. However, it will only be as effective as we collectively make it. Get others to download the app and to report when they are infected.<br> :date: __2020-11-27 19:41:14__
 
 > i like keep update in michigan covid 19 alert y<br> :date: __2020-11-27 12:27:49__
-
-> Great assistant to traditional contact tracing measures. Limited permissions needed.<br> :date: __2020-11-27 06:26:50__
-
-> Quick and easy to instal!!! Lets work together to end this pandemic.<br> :date: __2020-11-27 02:18:10__
-
-> I believe it true?<br> :date: __2020-11-25 22:46:24__
-
-> Great app! More people need to have it, that's the only way it will be the best app for this awful time in our lives!<br> :date: __2020-11-25 17:36:32__
-
-> I haven't looked at this app at all. I just want to thank whoever made this. Some people have great visions but lack knowledge to see the vision through. Giggety. Ily<br> :date: __2020-11-24 18:07:30__
-
-> Need this in my life<br> :date: __2020-11-24 16:34:43__
-
-> Mine was checking 4 times a day.. hasn't checked for exposure since Nov 20th. How can I push the app to check for exposures? I'm not sure if I clicked on something to stop the checks? Thanks!!<br> :date: __2020-11-24 16:19:49__
 
 
 
@@ -170,9 +170,9 @@ The MI COVID Alert app has been installed by more than **1000** times. At this t
 
 > Its a good way to b notifield about the virus<br> :date: __2020-11-14 23:32:03__
 
-> Information is powerful for health and wellbeing.<br> :date: __2020-11-14 22:56:37__
-
 > Remove stats tab. Why isn't this for any infectious disease.<br> :date: __2020-11-14 00:37:30__
+
+> In the stats tab if you scroll to the map you get stuck unable to scroll outside of the map. Only solution seems to be to reopen the app. Might try making the map a touch smaller or making it a separate pop out window or something.<br> :date: __2020-11-13 21:25:25__
 
 
 
@@ -181,6 +181,10 @@ The MI COVID Alert app has been installed by more than **1000** times. At this t
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="gov.michigan.MiCovidExposure 3 reviews"/>
 </p>
+
+> It only works if everyone has the app installed, and most do not. Unless this is mandated the app is pretty much useless. I will keep it for now in case more people use it.<br> :date: __2020-12-10 11:42:53__
+
+> Just checked into this app today (12/9). Last exposure check was 11/18. Something is broken it seems. Really want this to work.<br> :date: __2020-12-09 13:35:36__
 
 > Very confusing.......<br> :date: __2020-11-29 00:19:29__
 
@@ -198,10 +202,6 @@ The MI COVID Alert app has been installed by more than **1000** times. At this t
 
 > I am a nurse and have tested positive in April. No pin given. Won't let me submit my result<br> :date: __2020-11-14 09:22:03__
 
-> We live in a weird ass world, ive been inside for months<br> :date: __2020-11-13 20:05:32__
-
-> Too much text, especially when you try to look at John Hopkins pages. The notice about that fills half the page, the bottom icons take more, so you get very little info on the screen and cant even see that it is michigan on the map. Next topic: I also worry very much about being tracked and my privacy.<br> :date: __2020-11-12 16:00:48__
-
 
 
 #### 2-star reviews
@@ -209,6 +209,8 @@ The MI COVID Alert app has been installed by more than **1000** times. At this t
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="gov.michigan.MiCovidExposure 2 reviews"/>
 </p>
+
+> I've been in direct contact with 3 people who have tested positive. This app didn't notify me if a single thing. Seems pointless.<br> :date: __2020-12-05 19:14:18__
 
 > Seems like a good idea, I'm not in a major city and don't work around large amounts of people so not sure how effective it will be for me. One thing it did I don't get since it says it uses bluetooth and won't ask for GPS, is it required me to have my GPS on to receive notifications! "Exposure notification inactive" this is what it tells me unless my GPS is on. "To use turn on location."<br> :date: __2020-12-04 23:34:03__
 
@@ -228,8 +230,6 @@ The MI COVID Alert app has been installed by more than **1000** times. At this t
 
 > I wish this Covid-MI was more like the COVID -NJ APP it actually let you know if been exposed . Has a feature that circles They need to improve the Covid-19 app for MI Whomever developed should look at the Covid-NJ app asap<br> :date: __2020-11-15 08:12:50__
 
-> The design makes it impossible to read the info in stats.<br> :date: __2020-11-14 03:17:19__
-
 
 
 #### 1-star reviews
@@ -238,24 +238,24 @@ The MI COVID Alert app has been installed by more than **1000** times. At this t
 <img src="1_star_reviews_wordcloud.png" alt="gov.michigan.MiCovidExposure 1 reviews"/>
 </p>
 
+> This apparent doesnt update the current numbers<br> :date: __2020-12-13 12:53:54__
+
+> My grandson tested positive. I gave him my phone. Alarm never went off.<br> :date: __2020-12-13 02:25:46__
+
+> Lmao, if yall think I'm going to give this app the permissions its asking for, you have a screw loose. This app wants full network access... why? To send a few bytes of data? You don't need full access for that. Limited is just find. Stop taking the lazy way out of developing and actually limit the accesses, so we aren't opened up to cyber attacks and hacking and tracking. Updated response: You can't even respond properly to what said. My point stands.<br> :date: __2020-12-11 21:03:12__
+
+> Says it's installed but can't turn it on<br> :date: __2020-12-11 18:18:02__
+
+> My son and I both tested positive 10 days ago, we cannot report a positive result without a pin number. No health department has contacted us to give us the pin number. Therefore this doesn't work. I'm guessing they are overwhelmed. Don't rely on this! It's not accurate.<br> :date: __2020-12-09 18:25:33__
+
+> I was disappointed by the requirement of Bluetooth. Theres not enough people using this app to make it worth your time. Why does each state have to have individual apps? Uninstalled. Edit: SoM- I'm not sure how your response was helpful in countering anything I said... especially to change my mind.<br> :date: __2020-12-08 20:59:04__
+
+> No good<br> :date: __2020-12-07 20:15:38__
+
+> I work in a facility where a person tested positive and got sick. This app didn't notify me. Uninstalled<br> :date: __2020-12-05 19:55:59__
+
+> I love the idea and the fact that it uses low battery bluetooth to function. I KNOW it isn't working though, because I work with Covid patients in a major metro area hospital and I haven't had one single exposure according to this app, while my phone is on my person 24/7. I realize all my patients might not have this app, but if anyone should be getting an exposure notification, should be me. Gives public false sense of security. Privacy be dammed gov't should mandate this type of tracking.<br> :date: __2020-12-05 16:35:15__
+
 > They can't even update the false numbers 🤣🤣<br> :date: __2020-12-04 13:15:19__
-
-> Gubermint printing dollars, forcing small businesses to close, impoverishing the middle class, covid19 is their excuse for taking our rights as well as our livelihoods away. Don't let this app help them divide and conquer We The People.<br> :date: __2020-12-04 03:48:50__
-
-> Absolutely useless. Doesn't do anything but sit there. It has never shown me in close contact (because not enough people use it) and when I did contract COVID, I could not notify through the app because the state never contacted me with a special code. I would not trust this at all. Uninstalling!<br> :date: __2020-12-02 04:09:31__
-
-> No one uses it. Only works if people report they had it on the app.<br> :date: __2020-12-01 13:14:06__
-
-> Doesnt open, doesn't work at all<br> :date: __2020-12-01 07:59:08__
-
-> Absolutely not useful everyone knows the numbers are lies so what's the point<br> :date: __2020-12-01 06:43:55__
-
-> So far so good I suppose, what to do when your job obscures exposure data to prevent absence? I know I've been exposed, apparently no one at my job has this app, so that is less than helpful.<br> :date: __2020-12-01 04:05:36__
-
-> The app is useless unless everyone who has a positive test submits their result. It's very unrealistic to expect compliance to that level. Interesting concept but completely irrelevant based on inconsistencies in reporting. If someone didn't realize these flaws it also could create a false sense of security. State of Michigan- In response to your answer, that is exactly the point I was trying to make. If everyone is not using the app what information are you really going to get from it?<br> :date: __2020-11-30 22:15:52__
-
-> If the Health Dept doesn't get you a pin number for so far 7 days since I tested positive, how the hell is that doing any body any good. You need a pin to show you tested positive. This is totally useless.<br> :date: __2020-11-30 18:00:24__
-
-> This seems like a pretty massive Hippo violation<br> :date: __2020-11-27 21:10:11__
 
 

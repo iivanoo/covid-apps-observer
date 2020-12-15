@@ -125,6 +125,8 @@ The COVID-19 Sounds app has been installed by more than **10000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="uk.ac.cam.cl.covid19sounds 5 reviews"/>
 </p>
 
+> I wasn't able to answer my covid test results are pending... but overall a great app<br> :date: __2020-12-13 20:06:00__
+
 > Easy and quick. You're welcome.<br> :date: __2020-11-24 20:58:57__
 
 > The verification page with the user id has a broken link. Its not closed so if you click anywhere after the link, it clicks the link. Great app! I hope they are able to collect enough data to do what they want.<br> :date: __2020-11-10 20:11:56__

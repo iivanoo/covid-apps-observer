@@ -202,6 +202,8 @@ The COVID-19.eus app has been installed by more than **50000** times. At this ti
 <img src="2_star_reviews_wordcloud.png" alt="com.erictelm2m.colabora 2 reviews"/>
 </p>
 
+> Me mandaron un mensaje de alerta y ni yo, ni la enfermera, ni dónde me han hecho la PCR saben descifrarlo Me hecho la PCR y me ha dado NEGATIVO. La verdad que no es muy práctica<br> :date: __2020-12-07 12:17:22__
+
 > No sé si son muy eficaces<br> :date: __2020-10-04 14:12:34__
 
 > ninguno de mis contactos quiere instalarlo porque no quieren que los controlen. Así no hay manera de que esta app funcione correctamente. Es septiembre ahora y nadie de mi agenda lo instaló, No me sirve así. No hay forma de modificar los datos iniciales, por ejemplo si el entorno en el que vives habia personas de riesgo y ya no estan o ha cambiado tu situacion. No puedes modificarlo si ahora vives solo y el riesgo ha bajado. La desinstalo, en 5 meses no ha mejorado apenas.<br> :date: __2020-09-15 00:39:23__
@@ -219,8 +221,6 @@ The COVID-19.eus app has been installed by more than **50000** times. At this ti
 > Muy difícil de instalar<br> :date: __2020-07-07 09:34:02__
 
 > Desde ayer no funciona. Dice que la sesión ha expirado y que la desinstale y la vuelva a instalar. A pesar de haberlo hecho varias veces no funciona. Por otro lado, a la hora de añadir personas a los círculos debería dar la posibilidad de añadirlos sin teléfono puesto que si son personas mayores seguramente o tienen un móvil o no tienen ninguno; y por otro lado, es posible que la gente de mis círculos no quiera que le lleguen notificaciones para instalar la app.<br> :date: __2020-06-28 18:03:44__
-
-> A mi me sale que tengo 3 contagiados en mi zona no en mis conctactos eso como lo tengo que tomar<br> :date: __2020-06-10 23:59:50__
 
 
 

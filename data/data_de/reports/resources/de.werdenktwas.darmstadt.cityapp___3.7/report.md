@@ -188,6 +188,8 @@ The Darmstadt app has been installed by more than **5000** times. At this time, 
 <img src="1_star_reviews_wordcloud.png" alt="de.werdenktwas.darmstadt.cityapp 1 reviews"/>
 </p>
 
+> App stürzt direkt nach Start ab (Samsung S10e). Das Problem scheint schon länger bekannt zu sein, aber es tut sich nichts. Ein bisschen peinlich für die Digitalstadt.<br> :date: __2020-12-08 08:10:59__
+
 > App funktioniert nicht, bzw. wird direkt während des Startes beendet. Scheint auch nicht von den Verantwortlichen gepflegt zu werden, da die Störungen schon länger auftreten lt. weiteren Kommentaren. Absolutes no go.<br> :date: __2020-11-23 01:03:25__
 
 > Die App funktioniert auf meinem Gerät nicht.<br> :date: __2020-11-09 19:23:34__

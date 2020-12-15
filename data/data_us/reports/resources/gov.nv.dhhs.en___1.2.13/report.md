@@ -161,6 +161,8 @@ The Covid Trace Nevada app has been installed by more than **50000** times. At t
 <img src="3_star_reviews_wordcloud.png" alt="gov.nv.dhhs.en 3 reviews"/>
 </p>
 
+> Love this app<br> :date: __2020-12-07 12:52:21__
+
 > Kind of a pointless app when after your test positive literally no one that contacts you knows the code necessary to self report.<br> :date: __2020-11-28 05:05:47__
 
 > I mean, sure, I suppose it'd work, but let's be real. The chances of anyone between the Sierra Nevada and the Rockies actually self-reporting is kind of on the low end. This makes the app basically useless. Something like it in Korea, that'd work fine, since they take contact tracing seriously<br> :date: __2020-11-27 00:02:59__
@@ -179,8 +181,6 @@ The Covid Trace Nevada app has been installed by more than **50000** times. At t
 
 > the only reason im downloading this is because it wont let me download some other games<br> :date: __2020-10-02 23:20:13__
 
-> Won't even get past the 3rd setup page....I hope Nevada did not actually pay somebody to build this. Tried again after update ..still will not set up....3rd update did the trick. set up OK ..upped to 3 stars. We will see.<br> :date: __2020-09-30 11:15:50__
-
 
 
 #### 2-star reviews
@@ -188,6 +188,8 @@ The Covid Trace Nevada app has been installed by more than **50000** times. At t
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="gov.nv.dhhs.en 2 reviews"/>
 </p>
+
+> Don't know whether this thing really works or not<br> :date: __2020-12-12 04:51:42__
 
 > I feel this is just to make profit when you download this app, i downloaded few weeks back a week later some one closed to me came out positive to the virus and i didn't get the alert i have known people that have use this app but seems noone gets an alert<br> :date: __2020-12-02 06:58:48__
 
@@ -207,8 +209,6 @@ The Covid Trace Nevada app has been installed by more than **50000** times. At t
 
 > Needs work, won't refresh!<br> :date: __2020-09-18 02:17:18__
 
-> DOES NOT AUTO UPDATE.<br> :date: __2020-09-07 14:37:16__
-
 
 
 #### 1-star reviews
@@ -217,24 +217,24 @@ The Covid Trace Nevada app has been installed by more than **50000** times. At t
 <img src="1_star_reviews_wordcloud.png" alt="gov.nv.dhhs.en 1 reviews"/>
 </p>
 
+> Dosent work. I got covid and woke up dead yesterday. Can't believe I trusted an app to tell me if I was exposed to the flu. App was definitely created by a Biden voting Democrat. 🙁<br> :date: __2020-12-13 01:46:56__
+
+> Opened app after a few weeks of not looking at it. States exposure notification is off and click here. Clicked and it took me to the Google services page... why have the app if there's not going to be any notifications?<br> :date: __2020-12-11 02:23:39__
+
+> Does not work. My roommate and I had this app for months. A few weeks ago I notified the app when I tested positive and put in my confirmation code. My Roommate was Never notified. Neither were any of my coworkers with the app.<br> :date: __2020-12-11 01:38:44__
+
+> This app relies on someone with covid to actually mark that they have covid... so if an infected person doesn't have the app or they don't want to mark themselves as such, you can still contact the disease. These factors essentially render the app useless.<br> :date: __2020-12-08 02:17:32__
+
+> It doesn't work. Waste of time. Of course it's useless<br> :date: __2020-12-06 17:05:27__
+
+> App doesn't ask for any permissions and you can't enable them, therefore there is no way this works. What a joke.<br> :date: __2020-12-06 04:05:10__
+
+> Funny, I chose not to get a tracking app on my phone and it keeps trying to auto download<br> :date: __2020-12-06 01:45:13__
+
 > I have had this download it for about six weeks and it hasn't shown a single case and I live in an area where I know that there have been dozens of cases during this time period so evidently this application does not work.<br> :date: __2020-12-05 06:50:51__
 
 > App keeps freezing & isn't updating the exposure information.<br> :date: __2020-12-04 23:09:46__
 
 > Nope! Nope! Nope!<br> :date: __2020-12-04 07:33:36__
-
-> Not sure how this thing works. You dont add any info so how does it know you have been exposed<br> :date: __2020-12-03 06:43:43__
-
-> Does not refresh, worthless app.<br> :date: __2020-12-02 21:18:53__
-
-> I've installed this twice and both times it is tracking for Nevada with no way to change the location. I live in Washington State.<br> :date: __2020-12-01 22:12:38__
-
-> There is no way to add a location if you forgot to turn GPS on. Because I don't normally have it sucking the battery dry when I'm at home. Should be able to manually add locations with at least estimated times.<br> :date: __2020-11-29 08:43:55__
-
-> App does not allow you to refresh, uninstalled and reinstalled and still does not refresh.<br> :date: __2020-11-28 01:19:20__
-
-> Never worked. I tried entering my positive code for a week and it kept telling me it couldn't verify the code.<br> :date: __2020-11-24 00:37:54__
-
-> "Those who would give up essential Liberty, to purchase a little temporary Safety, deserve neither Liberty nor Safety." -Benjamin Franklin<br> :date: __2020-11-21 14:57:41__
 
 

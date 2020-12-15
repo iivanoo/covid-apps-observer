@@ -190,6 +190,8 @@ The Check In CBR app has been installed by more than **10000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="au.gov.act.health.checkin 5 reviews"/>
 </p>
 
+> Cool app! I prefer this much more than writing my name down with a pen 50 other people have used that day. Great to see more places in Canberra are using it too.<br> :date: __2020-12-08 02:50:38__
+
 > Red es DVR DVR you vf you have any other information you can get the best regards<br> :date: __2020-11-29 09:24:49__
 
 > Used it a few times at the library, worked quickly, easily, and without issue. Wish more places would use this.<br> :date: __2020-11-10 07:32:34__
@@ -208,8 +210,6 @@ The Check In CBR app has been installed by more than **10000** times. At this ti
 
 > Good!<br> :date: __2020-09-18 08:06:04__
 
-> Very easy to use and intuitive. Looks clean and professional too.<br> :date: __2020-09-18 01:49:59__
-
 
 
 #### 4-star reviews
@@ -217,6 +217,8 @@ The Check In CBR app has been installed by more than **10000** times. At this ti
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="au.gov.act.health.checkin 4 reviews"/>
 </p>
+
+> Its missing a checkout button to end ur visit to a place. It needs a time out to ensure correct contact tracing<br> :date: __2020-12-09 02:30:00__
 
 > First try today - so very relieved to have no issues at Restaurant. Guess there's no need to checkout on departure?<br> :date: __2020-12-04 03:55:33__
 
@@ -232,6 +234,10 @@ The Check In CBR app has been installed by more than **10000** times. At this ti
 <img src="3_star_reviews_wordcloud.png" alt="au.gov.act.health.checkin 3 reviews"/>
 </p>
 
+> Takes ages to open the camera scanner function.<br> :date: __2020-12-09 09:13:41__
+
+> Seems to work ok. Slow to load, requiring data connection to do so. Cannot access QR code scanner without data connection. Suggest allowing access to QR code scanner without needing data connection to allow check in, uploading locations when data becomes available.<br> :date: __2020-12-05 21:58:59__
+
 > Would be better if you could check in by typing name of check-in place, geolocation, or select from previous check-in history.<br> :date: __2020-11-15 01:20:33__
 
 > Works for some places, not others, it just says enter manually code<br> :date: __2020-10-08 23:36:53__
@@ -245,6 +251,8 @@ The Check In CBR app has been installed by more than **10000** times. At this ti
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="au.gov.act.health.checkin 2 reviews"/>
 </p>
+
+> Takes to long to download<br> :date: __2020-12-06 04:07:36__
 
 > App fails to install, despite several attempts...says it is installed but goes back tp wil instal shortly.....<br> :date: __2020-11-11 09:29:39__
 

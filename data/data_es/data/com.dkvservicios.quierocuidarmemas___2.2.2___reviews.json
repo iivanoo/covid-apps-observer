@@ -1,5 +1,65 @@
 [
     {
+        "reviewId": "gp:AOqpTOHzMGft7Peuyr5lwosfuxosY5vl5nguyPm77PwIw964bLljZkqVDBeSfTpDOJM-w-GGd23aS3erKrisHg",
+        "userName": "claudia valeria tineo arrieta",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg487XRXreSv9U5wGfdXK9N3P5pycH6Qm4cJHckhA",
+        "content": "Muy bueno",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.2.2",
+        "at": "2020-12-09 17:42:38",
+        "replyContent": "Hola Claudia. \u00a1Muchas gracias por tu valoraci\u00f3n! Un saludo",
+        "repliedAt": "2020-12-10 08:21:14"
+    },
+    {
+        "reviewId": "gp:AOqpTOHiFag8YRgXwyMYk9y94CpKO7mKVc3b-JTRt2M-ONX6vZ1qaSrc6QJ8gkACM5YD2Q7pc7oDwvcoMLtLRQ",
+        "userName": "To\u00f1y A Lopez",
+        "userImage": "https://play-lh.googleusercontent.com/-EIPaL5LpjEs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclDYyL09Y5GKh9UtKMc_I6RCZSRXg/photo.jpg",
+        "content": "Da bastantes problemas",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2020-12-09 17:07:21",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOF8As1EejqzLU3pqNSD0G6K7PS47_R_6LIgLUEC9U7Vay1O0v0p8cZTei_gbhUwwFH_PL9EqgBE_yiKwA",
+        "userName": "violeta bouza cuesta",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhXCesdmDURHuAF_r-r6WaomWAaj2IhB8kBXDA8Qps",
+        "content": "Para mi criterio,est\u00e1 formidable",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.2.2",
+        "at": "2020-12-08 18:02:44",
+        "replyContent": "Hola Violeta. \u00a1Muchas gracias por tu comentario y valoraci\u00f3n!",
+        "repliedAt": "2020-12-10 08:21:39"
+    },
+    {
+        "reviewId": "gp:AOqpTOErqM_uNa7tWMeGfu7KHVDpxpSXO1bGAd0aok_NwIty41AFGLRXIw3pojDCsk4Zl7vja0zHCT-sGpDebw",
+        "userName": "Alfonso Martinez Garcia",
+        "userImage": "https://play-lh.googleusercontent.com/-MIMGFx8QUkE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckVE048C4qBauqhD3kX7CTixOcyew/photo.jpg",
+        "content": "LLevo como 10 llamadas,no solo para la app quiero cuidarme mucho que no hace nada de lo que dicen en la informacion,en mi \u00e1rea cliente cuando intento abrir cuadro medico me da solo la opcion de fisioterapeuta \u00a1\u00a1\u00a1\u00a1\u00a1,en la pagina DKV Famedic,aun no he conseguido entrar y ya he pagado 2 meses de cuota y he puesto a soporte 3 correos y he llamado a 3/4 telefonos y nadie me soluciona nada,Madrid,Jerez,Barcelona etc etc.....muchas deficiencias en el soporte informatico,empezamos mal si no puedes localizar ya el medico al que acudir......",
+        "score": 2,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "2.2.2",
+        "at": "2020-12-08 14:29:12",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOEGNA_PvJmQtmxTInvD7Ms0w84B9GdCXX7Weh2ue-SKm2e6AgK1ZEQdQhdgy83_MVJuyrLtD2vlnKt4VQ",
+        "userName": "Sofia Ara Paradis",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgM_jmEYVo8ZrLBuvEsoEIcQ4CdwBrk5Da864Yj",
+        "content": "Fatal",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.2.2",
+        "at": "2020-12-07 13:20:51",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOFIbIMXwMzABzdMERGGNcSZwJBY21snEqEUGMLMmWu3lHCOcJYpnjjR0VcGj_5RDNcgESS-EC72qRg5MA",
         "userName": "Ana Belen",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgwQkzLlizpup3C4N_kNRkgIi8cPBD5rHkUXz8u",
@@ -8,8 +68,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "2.2.2",
         "at": "2020-12-05 13:57:10",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hola Ana Bel\u00e9n. Muchas gracias por tu comentario. De momento no disponemos de una aplicaci\u00f3n para PC, pero s\u00ed puedes acceder a algunas de las funcionalidades desde la web http://quierocuidarmemas.dkvsalud.es. Y puedes escribirnos a soporte@dkvservicios.com para cualquier duda o sugerencia. Un saludo.",
+        "repliedAt": "2020-12-09 14:44:35"
     },
     {
         "reviewId": "gp:AOqpTOEk0LZXZNL_Q-NHSVAy30f-DpsOxIViBvwbOGGQDuz4G7ZSfsitTzIiEr_Znna5XeBJ9LUQwgn_I3DE3Q",
@@ -185,7 +245,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-svHeP5cXi28/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckck1kzfVUbyAoBzJK1LwERODZg8w/photo.jpg",
         "content": "He intentado entrar muchas veces desde m\u00f3viles distintos y la aplicaci\u00f3n se cierra una y otra vez. Necesito los informes que tampoco me quieten enviar por email as\u00ed que no se que se supone que pretenden que hagamos. Necesito soluciones",
         "score": 1,
-        "thumbsUpCount": 1,
+        "thumbsUpCount": 3,
         "reviewCreatedVersion": "2.1.8",
         "at": "2020-11-24 21:08:54",
         "replyContent": "Hola Rosa, estamos revisando lo que comentas para ver qu\u00e9 ha podido ocurrir. Por favor, escr\u00edbenos a soporte@dkvservicios.com para facilitarnos m\u00e1s informaci\u00f3n y ayudarte. Tambi\u00e9n te recordamos que puedes ver tus informes desde tu carpeta de salud en http://quierocuidarmemas.dkvsalud.es/ con el mismo usuario y contrase\u00f1a. Un saludo.",
@@ -209,7 +269,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjJsv-qTX262aW6z5HvRE1WSaqPmiIQpWhuR7WbTb4",
         "content": "Hoy me lleg\u00f3 por correo de DKV la notificaci\u00f3n de nuevos resultados en la app y cuando quise abrirla, luego del login comienza la ruedita de espera y se cierra sin que pueda acceder. La desinstal\u00e9 y volv\u00ed a instalarla y sigue igual.",
         "score": 1,
-        "thumbsUpCount": 4,
+        "thumbsUpCount": 6,
         "reviewCreatedVersion": "2.1.8",
         "at": "2020-11-23 22:20:08",
         "replyContent": "Hola Marcela, nuestro equipo de soporte@dkvservicios.com se pondr\u00e1 en contacto contigo para tratar tu problema. Si quieres saber el estado de tu caso o darnos m\u00e1s informaci\u00f3n puedes escribirnos a la direcci\u00f3n indicada. Muchas gracias.",
@@ -1562,7 +1622,7 @@
     {
         "reviewId": "gp:AOqpTOGChc17vL_eKG1R1EQG8hXQl1Kp0UMyYo-agXvC49e1PBq3XjJbE7yolAGYGn_ZJVt-NY6Z0G6SoNCISA",
         "userName": "Daniel Lema",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiG41wI0mIQQvFDtrIEdmh920_W8MmM_FdgbEzzAfA",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiphgdKKKenXm6RgNnItZeC-vlsyUt5H48G3f-sfNk",
         "content": "La atenci\u00f3n por videollamada fant\u00e1stica. Doctora muy amable.",
         "score": 5,
         "thumbsUpCount": 0,

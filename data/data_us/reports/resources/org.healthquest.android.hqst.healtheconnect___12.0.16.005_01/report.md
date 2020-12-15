@@ -187,6 +187,10 @@ The Nuvance Health Virtual Visits app has been installed by more than **10000** 
 <img src="5_star_reviews_wordcloud.png" alt="org.healthquest.android.hqst.healtheconnect 5 reviews"/>
 </p>
 
+> Great<br> :date: __2020-12-12 21:50:41__
+
+> Excellent !!! My Physician and his Office are all great Health Care and Administrative Care personnel. I've been with Health Quest for 2 years to date and i am very satisfied with my care givers. Thank you HealthQuest Team !!!<br> :date: __2020-12-10 14:36:01__
+
 > Clear picture and voice quality. Almost as if you are there...but not quite! Love in person interaction.<br> :date: __2020-12-02 21:25:09__
 
 > Great<br> :date: __2020-11-25 22:01:09__
@@ -203,10 +207,6 @@ The Nuvance Health Virtual Visits app has been installed by more than **10000** 
 
 > Very good<br> :date: __2020-10-30 15:51:40__
 
-> App worked well and wa easy to set upa on LG tablet<br> :date: __2020-10-26 19:22:23__
-
-> I would give it 5 stars but volume is a problem. I have my volume up to the max and can barely hear my provider. UPDATE Went to 5 Stars, volume was much better today!<br> :date: __2020-10-16 17:13:06__
-
 
 
 #### 4-star reviews
@@ -214,6 +214,8 @@ The Nuvance Health Virtual Visits app has been installed by more than **10000** 
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="org.healthquest.android.hqst.healtheconnect 4 reviews"/>
 </p>
+
+> The app through nuvance is quite good but the quality of talking or viewing through it seems to depend on the system you are using. It worked excellent on my android galaxy S9, but not at all good on my Acer chrome book but moderately ok on my Lenovo all in one desktop. For overall use its been fine and since multiple of my medical providers use it, the choice is use it or phone call with no video.<br> :date: __2020-12-11 19:57:20__
 
 > I am not good with computers or applications using computers. At first i didn't know how to install an application at all, but i did it<br> :date: __2020-11-19 21:23:31__
 
@@ -232,8 +234,6 @@ The Nuvance Health Virtual Visits app has been installed by more than **10000** 
 > Good. Doctor said my voice was delayed.<br> :date: __2020-04-20 17:45:15__
 
 > Very convenient! Loved it. Aside from a pixelated video and a little delay, it was awesome!<br> :date: __2020-04-09 17:30:25__
-
-> .great<br> :date: __2020-04-09 15:44:57__
 
 
 

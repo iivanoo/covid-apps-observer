@@ -192,6 +192,8 @@ nützlich und sehr informationreich! Habt vielen dank. Herzliche Grüße Achim!<
 <img src="3_star_reviews_wordcloud.png" alt="de.kbv.kbv2go 3 reviews"/>
 </p>
 
+> Der angekündigte Heilmittelkatalog ist nicht verfügbar, oder so explizit versteckt dass man ihn nicht nutzen kann.<br> :date: __2020-12-11 10:04:36__
+
 > PDFs ließen sich auf Samsung Galaxy S8 kurzzeitig wieder öffnen. Jetzt klappt es auch nach Neuinstallation wieder nicht. Sehr frustrierend, wenn man wichtige Zusatzinfos einfach nicht öffnen oder downloaden kann.<br> :date: __2020-04-14 19:03:51__
 
 > Seit dem Wechsel auf ein neues Samsung Tablet, stürzt die App beim Versuch die ICD Suche zuöffnen sofort ab ... Die App ist, wenn sie denn funktioniert, ein nützliches Tool.<br> :date: __2019-09-18 12:17:01__

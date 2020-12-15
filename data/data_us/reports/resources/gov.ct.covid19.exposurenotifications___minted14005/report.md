@@ -128,6 +128,12 @@ The COVID Alert CT app has been installed by more than **50000** times. At this 
 <img src="5_star_reviews_wordcloud.png" alt="gov.ct.covid19.exposurenotifications 5 reviews"/>
 </p>
 
+> I love it<br> :date: __2020-12-13 06:24:14__
+
+> Keep the people alert!<br> :date: __2020-12-09 19:44:17__
+
+> Goodapp<br> :date: __2020-12-06 21:16:46__
+
 > The best thing that ever came out<br> :date: __2020-12-03 14:20:19__
 
 > Great<br> :date: __2020-12-03 05:08:31__
@@ -142,12 +148,6 @@ The COVID Alert CT app has been installed by more than **50000** times. At this 
 
 > Nice app, like others have said i appreciate that it doesnt require permissions and the privacy model is transparent. Only thing that could make it better is if it was open source.<br> :date: __2020-11-29 01:57:29__
 
-> Great app. Glad to see CT dept of health participating in this notification system. Be a patriot and wear a mask. It will save lives and prevent the need for further lock downs. No permissions needed. You have no excuse unless you hate your country.<br> :date: __2020-11-29 00:24:33__
-
-> This app is a hoax 😉 Update: I forgot that I wrote the above "review" until I got a response from the developer. I just want to say thank you for everything you are doing. This app is a great idea. Keep up the good work! I probably should have kept my original tongue in cheek "review" to myself.<br> :date: __2020-11-27 05:22:57__
-
-> This is a must have for all apps<br> :date: __2020-11-23 09:07:13__
-
 
 
 #### 4-star reviews
@@ -155,6 +155,8 @@ The COVID Alert CT app has been installed by more than **50000** times. At this 
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="gov.ct.covid19.exposurenotifications 4 reviews"/>
 </p>
+
+> Im not going to test this app.<br> :date: __2020-12-12 15:53:24__
 
 > After deep diving the privacy claims of this app, I feel given it's a fully voluntary system that if you're concerned about covid-19 infection/spread, this app is a useful tool to protect yourself/loved ones while also contributing to the greater good by stopping the spread. Unlike other w reviews, I have had no noticable battery issues B-LE feature on my Note 9. Lost 1 star for some UX bugs I'm sure will be resolved soon.<br> :date: __2020-12-02 01:47:48__
 
@@ -174,8 +176,6 @@ The COVID Alert CT app has been installed by more than **50000** times. At this 
 
 > Do your part, wear your mask, keep your distance and install the app<br> :date: __2020-11-13 05:39:02__
 
-> I had no problems downloading this app on my Android phone. The more people who download this app will make this more effective. Will ask friends and family to download as well.<br> :date: __2020-11-12 23:18:58__
-
 
 
 #### 3-star reviews
@@ -183,6 +183,8 @@ The COVID Alert CT app has been installed by more than **50000** times. At this 
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="gov.ct.covid19.exposurenotifications 3 reviews"/>
 </p>
+
+> Is this app just for CT? Does it work in Maine? I've had it for a month and no notifications as cases are spiking here.<br> :date: __2020-12-12 02:17:02__
 
 > I'm glad the State is doing this, but being near someone's app isn't enough. Not everyone has the app. Why aren't we informed of cases in our town? No personal information needed. I know someone who is positive, and that would be good to know how many, if any cases are in my town w/o having to go to DPH.<br> :date: __2020-12-04 18:36:41__
 
@@ -199,6 +201,8 @@ The COVID Alert CT app has been installed by more than **50000** times. At this 
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="gov.ct.covid19.exposurenotifications 2 reviews"/>
 </p>
+
+> hews<br> :date: __2020-12-08 00:30:36__
 
 > App does not work! I go to turn on exposure notifications and I get the error "something went wrong" and no way to contact Devs of how to fix this. I wanted to specifically use this while out tomorrow.<br> :date: __2020-12-03 08:05:04__
 
@@ -218,6 +222,14 @@ The COVID Alert CT app has been installed by more than **50000** times. At this 
 <img src="1_star_reviews_wordcloud.png" alt="gov.ct.covid19.exposurenotifications 1 reviews"/>
 </p>
 
+> I was exposed to the virus and this app never warned me. To me this app sucks<br> :date: __2020-12-10 17:44:30__
+
+> Cannot download the app, error message keeps saying "something went wrong"<br> :date: __2020-12-07 15:19:42__
+
+> Not working<br> :date: __2020-12-06 22:10:29__
+
+> I tried to report a positive test result and for not receive a one time verification code<br> :date: __2020-12-06 01:07:19__
+
 > Contact tracing is a joke..... My kids have had covid for over a week and a half now, no one has called... I've had it for a week now and no one has called. And u can't report it to the app without be contacted, so someone infected is going around infecting other and not knowing it. Great job CT!<br> :date: __2020-11-30 19:55:48__
 
 > Don't bother installing this app or anything WuFlu related because COVID-19 (i.e. WuFlu, Chinavirus) is a hoax, it DOES NOT EXIST. Trump 2020 Keep America Great And Safe!<br> :date: __2020-11-20 01:35:20__
@@ -229,13 +241,5 @@ The COVID Alert CT app has been installed by more than **50000** times. At this 
 > Overreaching, evil tracking, just so govt can get you used to "social tracking" & who you intact with<br> :date: __2020-11-14 19:21:56__
 
 > Downloaded and went to turn on notifications and it immediately says something went wrong try again<br> :date: __2020-11-14 19:05:48__
-
-> Cant turn on exposure notification keep getting something went wrong try again<br> :date: __2020-11-14 17:48:51__
-
-> No. Evil.<br> :date: __2020-11-14 17:17:46__
-
-> I can't turn on my notifications<br> :date: __2020-11-14 10:41:20__
-
-> Useless. Reports "something went wrong, try again" endlessly. Thanks for nothing.<br> :date: __2020-11-14 02:32:50__
 
 

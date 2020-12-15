@@ -149,25 +149,25 @@ The Immuni app has been installed by more than **5000000** times. At this time, 
 <img src="5_star_reviews_wordcloud.png" alt="it.ministerodellasalute.immuni 5 reviews"/>
 </p>
 
-> Io metto 5 stelle perché non mi dà problemi<br> :date: __2020-12-05 13:35:24__
+> App realizzata in modo ottimo per il suo scopo. Interfaccia intuitiva e pulita. Non abbassa affatto la batteria del telefono e non vengono rubati dati personali. Riesco a controllare tramite le notifiche i controlli e scambi di codici avvenuti giornata per giornata e durante le ore. Utilizza il bluetooth e non ho mai avuto problemi. Scaricatela, per proteggere voi stessi ma anche chi vi sta attorno. È necessaria.<br> :date: __2020-12-13 15:16:48__
 
-> Ottima APP.<br> :date: __2020-12-04 15:46:10__
+> 5 stelle sulla fiducia. Funziona? Non lo so. Dicono di non scaricarla perché ti Controlla. Google lo fa continuamente e solo per fini commerciali, almeno questa app, se lo fa, è socialmente utile.<br> :date: __2020-12-13 13:15:21__
 
-> Buon<br> :date: __2020-12-04 10:56:28__
+> Sarà efficace in base a quanti istallano l'app ...personalmente non capisco la paura di alcuni di condividere la loro posizione attraverso l'applicazione, in quanto è per il bene di tutti e fatta anonimamente.<br> :date: __2020-12-13 12:38:22__
 
-> Eccellente<br> :date: __2020-12-04 01:12:02__
+> Spero la scarichi il maggior numero di persone possibile.<br> :date: __2020-12-13 01:35:48__
 
-> Ti dà tranquillità<br> :date: __2020-12-03 10:36:32__
+> Perché non integrate immuni all'app Io così raggiungete il numero adeguato di utenti?<br> :date: __2020-12-12 18:39:34__
 
-> Facile da installare .fallo anche tu.<br> :date: __2020-12-03 08:50:15__
+> Mahhh!!!!!<br> :date: __2020-12-12 14:44:39__
 
-> Devono scaricarla tutti questa app e le Asl devono avere i dati aggiornati in modo da prevenire i contagi e le ondate. La app è perfetta. È il contesto intorno all'app che non funziona.<br> :date: __2020-12-02 18:40:46__
+> mi piace app<br> :date: __2020-12-12 11:42:40__
 
-> Nessun problema di funzionamento, perfettamente operante co Samsung A70 - Peccato che non serve a niente. La disinstallo!<br> :date: __2020-12-02 12:59:55__
+> La uso ormai da tempo, mi piace! Ricevo correttamente le notifiche e non ho ancora indiviuato i contatti con il cell di mio marito. Privacy rispettata!<br> :date: __2020-12-12 11:41:04__
 
-> Buona<br> :date: __2020-12-02 12:12:10__
+> Il problema di questa app è solo che la usano in pochi.<br> :date: __2020-12-11 22:50:45__
 
-> Ok<br> :date: __2020-12-02 06:58:24__
+> Nice<br> :date: __2020-12-11 21:40:36__
 
 
 
@@ -177,25 +177,25 @@ The Immuni app has been installed by more than **5000000** times. At this time, 
 <img src="4_star_reviews_wordcloud.png" alt="it.ministerodellasalute.immuni 4 reviews"/>
 </p>
 
-> Funziona perfettamente senza essere invasiva. Bisognerebbe aggiungere una Dark mode.<br> :date: __2020-12-05 14:34:31__
+> App sicuramente funzionante e molto utile. Ma Non mi è stata di utilità. Purtroppo non c'è la giusta educazione e formazione digitale della popolazione / cittadini. È da lì che si dovrebbe partire.<br> :date: __2020-12-13 14:11:00__
 
-> Non sono incorso ad esperienze brutte ma ritengo che se l'app fosse stata scaricata da tanti scienziati che la denigrano la prevenzione e la diffusione del virus sarebbe stata molto meno violenta.<br> :date: __2020-12-05 10:46:13__
+> Buona<br> :date: __2020-12-13 06:09:20__
 
-> Sono stato vicino un positivo Immuni nn mi ha avvertito compagno di lavoro grazie<br> :date: __2020-12-04 21:57:51__
+> Fa cagare<br> :date: __2020-12-12 12:17:14__
 
-> Io sono positiva. Come faccio a sapere che davvero verrà comunicata la mia positività? Premetto che sono al terzo tampone da più di 10 giorni senza sintomi.e quindi libera di uscire<br> :date: __2020-12-04 20:22:11__
+> Ho trovato contratti positivi in orari anche notturni, quando ero a casa con mia moglie con l'applicazione disattivata. Io me l'ero scordata attiva. Come possibile?<br> :date: __2020-12-11 20:04:51__
 
-> Niente male, app buona.<br> :date: __2020-12-02 22:11:44__
+> Valuto la app a contrario di molti che danno la valutazione a causa degli enti che non fanno e non usano questo strumento creato apposta. Ci ho creduto veramente, ma diventata inutile dal momento che ASL e SISP se ne fregano e non la uso per fare i tracciamenti. Non chiedono il codice dell'app e se uno si propone gli viene detto che è inutile 👏👏 complimentoni agli enti<br> :date: __2020-12-10 00:18:31__
 
-> Non ho capito se effettivamente funziona bene ho dei forti dubbi<br> :date: __2020-12-02 16:16:32__
+> Ottimo<br> :date: __2020-12-09 12:24:06__
 
-> Si spera che funzioni in 6 mesi di utilizzo mai segnalato nulla. Bene così!!<br> :date: __2020-12-01 10:52:58__
+> Mi dispiace per tutti coloro che non hanno capito come funzioni l app, visto che si presume che tutti la abbiano installata altrimenti le notifiche non arriveranno mai e che non si viene avvisati da qualcuno ma dalla stessa app se il malato ce l ha sul proprio cellulare e avvisa... ottima idea comunque, ma la gente non è in grado di usarla<br> :date: __2020-12-09 09:34:53__
 
-> Parlatene e chiedete a tutti i possessori di uno smartphone di utilizzarla!!!!<br> :date: __2020-11-23 09:58:45__
+> E sempre attiva ma non mi dice mai niente<br> :date: __2020-12-08 19:43:29__
 
-> Non comunica alcun comportamento, alcun rischio, alcun approfondimento sulla malattia. No news good news, si dice. Però non c'è nessun riscontro sull'uso. Speriamo sia utile?!!<br> :date: __2020-11-22 11:50:31__
+> A tutti quelli che dicono che l app non funziona dico... Se non funziona è perché nessuno la usa! In pochissimi hanno installato l'app e quasi nessuno si fa il tampone e lo comunica! Ci vogliono cervello e senso di responsabilità!<br> :date: __2020-12-08 14:19:38__
 
-> Ma l'applicazione immuni riconoscere se il telefono di una persona sia attivo il bluetooth<br> :date: __2020-11-22 00:43:33__
+> Buona, ma come antivirus preferisco Avast<br> :date: __2020-12-07 12:54:16__
 
 
 
@@ -205,25 +205,25 @@ The Immuni app has been installed by more than **5000000** times. At this time, 
 <img src="3_star_reviews_wordcloud.png" alt="it.ministerodellasalute.immuni 3 reviews"/>
 </p>
 
-> Oggi 4 dicembre 2020 e' sparito l'elenco dei controlli di esposizione dalle Impostazioni Google>Notifiche di esposizione! Come mai?<br> :date: __2020-12-04 13:34:37__
+> Purtroppo se l'App l'hanno attivata in pochi #IMMUNI diventa inutile!😠🤢<br> :date: __2020-12-13 16:07:14__
 
-> Negativo<br> :date: __2020-12-03 16:37:31__
+> Ma allora ragazzi a che punto siamo, sta funzionando questo servizio? Perché dalle recensioni pare sia solo una bella idea.<br> :date: __2020-12-13 15:58:33__
 
-> Non viene utilizzata adeguatamente da tutti, vanificando la finalitá stessa dell'app<br> :date: __2020-12-03 16:17:58__
+> Se la usassero tutti forse servirebbe...<br> :date: __2020-12-13 13:33:20__
 
-> In Friuli e precisamente in provincia di Udine l'app non sta più funzionando. È più di un mese che non mi arrivano più le notifiche e anche il simbolo dell'applicazione, quello rosso non compare più. Mi dice attivo ma non ho più il riscontro che ho incontrato tramite bluethoot soggetti che hanno scaricato l'app<br> :date: __2020-12-03 08:18:40__
+> Non funziona...<br> :date: __2020-12-13 13:02:03__
 
-> Non mi dà più i resoconti settimanali. Ma è stata dismessa?? Si può avere un'informazione ufficiale?<br> :date: __2020-12-02 23:16:25__
+> Ho avuto l'app installata per mesi prima di accorgermi che l'avvio automatico era disabilitato per default e di fatto non ha funzionato per tutto quel tempo. In fase di un installazione ho dato tutti i consensi richiesti, quindi sembra si tratti di una scelta consapevole.<br> :date: __2020-12-13 11:51:05__
 
-> Per il supporto tre stelle e solo che occupa troppa memoria<br> :date: __2020-12-02 15:47:21__
+> Dal mio galaxy s20+ mi dice che l'ultimo scambio di codici risale ad agosto!!! RISOLTO: ho cancellato e riscaricato l'app<br> :date: __2020-12-13 11:45:48__
 
-> scusate, ma la premessa per i 14 anni? un ragazzo sotto i 14 non può usare l'app? dovrebbe essere per tutti senza restrinzioni di età.<br> :date: __2020-12-02 15:03:59__
+> In teoria l'app è buona, il problema di fondo però secondo me è la segnalazione della positività. Dovrebbe avvenire in automatico tramite la registrazione di un codice da utilizzare anche nel momento del tampone. su base volontaria non funziona, vuoi perché le persone non vogliono, vuoi perché non sanno come si fa. Io lavoro in un ospedale covid vi pare possibile che non ho mai ricevuto segnalazioni?<br> :date: __2020-12-12 09:30:36__
 
-> voi sapete come si fa per aggiornare questa app?<br> :date: __2020-12-02 11:41:06__
+> Chiunque con un minimo di materia grigia dovrebbe installare questa app sul proprio telefono, ma anche da parte degli sviluppatori e google dovreste ottimizzare il consumo della batteria perché veramente te la dimezza...<br> :date: __2020-12-11 15:34:30__
 
-> Inutile se si disattiva il BT<br> :date: __2020-12-01 22:00:58__
+> Hanno fatto terrorismo sulla privacy... Ma non c'è alcun dato da inserire... La verità è che non serve a nulla, almeno nel Lazio. Io e mia moglie abbiamo avuto il covid, le Asl non ci hanno chiesto i codici. Abbiamo noi stesso sollecitato le Asl per dare i codici, ma non ci hanno mai richiamato. Credo che le regioni facciano di tutto perché non funzioni...<br> :date: __2020-12-09 22:49:45__
 
-> Ho istallato L'Ap.. immediatamente , perché ci credevo ,e perché rispetto le regole ,MA ???? I dubbi iniziali sono ancora gli stessi !!! Funziona ? O non Funziona ??<br> :date: __2020-12-01 19:33:12__
+> Bella grafica ma non ho capito come si sblocca la skin del covid? Non è come fortnite?<br> :date: __2020-12-09 21:16:25__
 
 
 
@@ -233,25 +233,25 @@ The Immuni app has been installed by more than **5000000** times. At this time, 
 <img src="2_star_reviews_wordcloud.png" alt="it.ministerodellasalute.immuni 2 reviews"/>
 </p>
 
-> Ho fatto 21 gg in ospedale perché contaggiato da coronavirus e nessuno mi ha messo in guardia. Potevo morire senza poter ringraziare il deficente che si è inventato immuni. Devo soltanto ringraziare il Padreterno<br> :date: __2020-12-05 10:51:41__
+> Se mancano gli operatori sanitari che caricano i codici delle persone positive l'app non saprà mai identificare se nelle nostre vicinanze ci sono (o meglio, sono stati, visto che chi è positivo deve categoricamente stare in quarantena) positivi al virus... Non è colpa della app in sé, ma il suo funzionamento corretto così viene totalmente annullato a mio avviso.<br> :date: __2020-12-13 11:32:03__
 
-> Il Premier Conte Ha Sbagliato Un'Altra Cosa, Così Non Và<br> :date: __2020-12-04 21:11:18__
+> Spero funzioni sono terrorizzata ho diverse patologie ma se non funziona????<br> :date: __2020-12-13 11:28:50__
 
-> Diventata inutile nel momento in cui è impossibile segnalare positività<br> :date: __2020-12-04 14:13:53__
+> Speravo in un miglioramento data la mole di pubblicità fatta per sponsorizzare questa app...istallata e disinstallata dopo più di un mese. Certo è che se le persone positive non hanno la possibilità di segnalarsi serve a poco. Tampone positivo = numero di telefono della persona da rintracciare = automaticamente entra nell app come positivo= i positivi possono anche fare a meno di autosegnalarsi<br> :date: __2020-12-12 23:22:17__
 
-> Da più di un mese non mi arriva più nessuna notifica, prima mi arrivava una volta a settimana. Che succede?<br> :date: __2020-12-04 09:58:53__
+> .. App si blocca...<br> :date: __2020-12-12 22:16:10__
 
-> Installata e disintallata varie volte su lg g5 và spesso in crash<br> :date: __2020-12-04 07:18:10__
+> Pessima. Non vengono inseriti i dati<br> :date: __2020-12-12 18:52:28__
 
-> A cosa serve tenerla se in veneto nessuno si preoccupa di caricare i dati dei positivi?<br> :date: __2020-12-03 23:22:04__
+> Deludente. Prima ricevevo le notifiche settimanali dei contatti adesso, e da oltre un mese, più nulla.<br> :date: __2020-12-12 17:19:08__
 
-> Da 1 mese e passa non arriva il report<br> :date: __2020-12-03 16:59:32__
+> Non si avvia più....<br> :date: __2020-12-12 10:03:05__
 
-> È una stronzata. Non ho ricevuto nessun messaggio nonostante mia figlia positiva<br> :date: __2020-12-03 09:19:56__
+> Istallato da più di due mesi, ma non ho capito se funzioni oppure no! Qual'e la sua utilità?<br> :date: __2020-12-11 20:30:26__
 
-> App ministeriale:imperfetta e piena di bug. Spesso si pianta, fa fatica ad aprirsi ma soprattutto è il fatto che non possa segnalarmi la positività in autonomia, ma con l'aiuto di un operatore umano (ma pensare ad un servizio automatico di abbinamento codici, no?), con tutti i ritardi del caso, lo rende scadente. Inoltre ho molti controlli fasulli: spesso duplicati e praticamente la gran parte delle segnalazioni totali derivano da quando mia moglie rientra oppure dal vicino del piano di sotto<br> :date: __2020-12-02 21:10:27__
+> Onestamente non capisco perché un applicazione utile come questa sia così poco utilizzata. Nessun medico, nessun organo dì stampa, social, nessun personaggio pubblico fa'della pubblicità per sostenerla. È semplice e sicuramente aiuterebbe la gestione e la tracciabilità della malattia<br> :date: __2020-12-11 11:16:33__
 
-> A parte l'enorme consumo di batteria, mi trovo con migliaia di contatti in orari in cui sono in casa...a dormire!!!! Non so quanto la manterrò ancora attiva<br> :date: __2020-12-02 15:24:01__
+> Non la usa nessuno<br> :date: __2020-12-11 09:41:11__
 
 
 
@@ -261,24 +261,24 @@ The Immuni app has been installed by more than **5000000** times. At this time, 
 <img src="1_star_reviews_wordcloud.png" alt="it.ministerodellasalute.immuni 1 reviews"/>
 </p>
 
-> Io e la mia compagna siamo risultati positivi al COVID, ma nessun operatore sanitario ci ha chiesto nulla riguardo l'utilizzo dell'APP. Decisamente inutile così<br> :date: __2020-12-05 14:50:44__
+> 💩<br> :date: __2020-12-13 18:27:26__
 
-> Non funziona. Si blocca sempre<br> :date: __2020-12-05 13:52:12__
+> Mi sembra un app assolutamente inutile se non è obbligatoria. Si è dimostrata un un'autentico fallimento e una colossale presa in giro.<br> :date: __2020-12-13 18:24:12__
 
-> Non ha funzionato quando doveva<br> :date: __2020-12-05 13:35:38__
+> Il mio giudizio? Lo stesso di Fantozzi sulla Corazzata Potemkin. Quanto costa questa cosa? Spero che la Corte dei Conti intervenga. (Zero il mio voto reale)<br> :date: __2020-12-13 18:06:42__
 
-> Ottima idea: per chi non capisse come mai non funziona, l'app lavora tramite Bluetooth, non GPS. Perciò tenete il primo acceso ;) Modifica al seguito di ciò che è successo nella mia regione: l'app è stata considerata INUTILE dall'ASL stessa, che si è rifiutata di prendere i codici. Ringraziamo i posti fissi e il sistema degenerato e bucato, tanto chi se ne importa di vecchi e (come me) soggetti immunodepressi<br> :date: __2020-12-05 13:18:43__
+> Sinceramente non ho ancora capito a cosa serve. Nessuna segnalazione, niente di niente. Una App morta.<br> :date: __2020-12-13 17:31:33__
 
-> Consuma batteria ed è inutile<br> :date: __2020-12-05 12:06:16__
+> Che schifo<br> :date: __2020-12-13 16:51:01__
 
-> Il voto non è all'applicazione in sé ma alla chiara problematica di segnalare la positività in tempi immediati e utili<br> :date: __2020-12-05 12:00:46__
+> App inutile perchè lasciata al buon senso (quasi sempre non presente) delle persone positive che devono autodenunciarsi. Se poi ci mettiamo anche lo scarso numero delle persone che l'hanno scaricata....<br> :date: __2020-12-13 16:21:59__
 
-> Scaricata da subito, attiva da sempre, vado per segnalare la positività e la stessa Asl mi dice che non può sbloccare perché l'app non funziona. Trovate una soluzione ad un problema segnalato da mesi. Grazie<br> :date: __2020-12-05 11:41:19__
+> Semplicemente l'app non funziona<br> :date: __2020-12-13 15:27:12__
 
-> Nessuna notifica dopo essere stato a contatto con persone positive che avevano installato correttamente l'app.<br> :date: __2020-12-05 05:53:33__
+> Vergogna. Scaricata e installata appena resa disponibile, disinstalla dopo non aver ricevuto alcuna notifica nonostante avere avuto la certezza di essere entrato in contatto con persone positive. Gestione imbarazzante<br> :date: __2020-12-13 14:28:34__
 
-> Ho disinstallato questa app poiché ho appurato che non serve assolutamente a nulla. Appena uscita l'avevo installata ma MAI e poi MAI ho ricevuto una notifica. Buona l'intenzione ma applicata all'italiana... ossia una cialtroneria.<br> :date: __2020-12-04 23:39:58__
+> Installata da 6 mesi e mantenuta sempre accesa non ho mai ricevuto nessun avviso, report o quant'altro.<br> :date: __2020-12-13 11:20:24__
 
-> Ho il dubbio che non dia molto efficace<br> :date: __2020-12-04 22:36:43__
+> Non serve a nulla<br> :date: __2020-12-13 10:45:17__
 
 

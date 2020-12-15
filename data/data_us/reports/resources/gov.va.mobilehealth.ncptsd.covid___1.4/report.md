@@ -168,6 +168,8 @@ The COVID Coach app has been installed by more than **10000** times. At this tim
 <img src="4_star_reviews_wordcloud.png" alt="gov.va.mobilehealth.ncptsd.covid 4 reviews"/>
 </p>
 
+> So far I like it<br> :date: __2020-12-09 03:02:35__
+
 > Great app jas measures features and you can chart your progress<br> :date: __2020-11-08 18:29:04__
 
 > Great app. Lots of information to learn about your mental health.<br> :date: __2020-11-01 01:34:40__
@@ -185,8 +187,6 @@ The COVID Coach app has been installed by more than **10000** times. At this tim
 > Got a lot of information<br> :date: __2020-06-27 18:12:00__
 
 > Really helps<br> :date: __2020-06-25 20:43:19__
-
-> Some very good tips / feartures and easy to use.<br> :date: __2020-06-15 10:12:23__
 
 
 

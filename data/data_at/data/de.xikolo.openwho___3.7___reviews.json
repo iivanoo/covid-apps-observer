@@ -1,11 +1,23 @@
 [
     {
+        "reviewId": "gp:AOqpTOHA7nk8eln_adKly1X87dzDCCrfTfNeETKVI2WqFIdDq2ZfLOyyZ-m8kvnvCU_Za9oR1S9JlyHDY_JsaA",
+        "userName": "Thorsten S",
+        "userImage": "https://play-lh.googleusercontent.com/-x2f3r5qMdss/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucne1hm8Im3hkDLB83h5eRya5DZURQ/photo.jpg",
+        "content": "Finde ich zu wenig intuitiv",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2020-12-09 17:28:27",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOEd4edR4XZtiksZDlSaQ9sqkiYUklG_eEHb9kcHBUicYzc8Y4ZF5g6QFipM9LjqBzEE4MHxTWiXhf2SHg",
         "userName": "Mr Mulan",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiUc7hwNM7fRskesQM3azcVa7OH67r0VPld_rCeOw",
         "content": "Mein Handy zeigt st\u00e4ndig an, \"(die App ist mit Ihrem Ger\u00e4t nicht kompatibel & dadurch nicht verf\u00fcgbar\")",
         "score": 1,
-        "thumbsUpCount": 7,
+        "thumbsUpCount": 8,
         "reviewCreatedVersion": "3.3.2",
         "at": "2020-07-27 11:16:42",
         "replyContent": null,
@@ -17,7 +29,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-qZr3yXfj2jY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckMnYEQ7RrI7Lf3iwPO2vBEOgR3iA/photo.jpg",
         "content": "Sehr schwach! Kaum deutschsprachige Funktionen. Daf\u00fcr, dass deutschsprachige L\u00e4nder, Hauptgeldgeber sind und auch in Sachen Entwicklungshilfe angefeagt sind, nicht nachvollziehbar. Wie soll hierdurch ein Interesse und Unterst\u00fctzung entstehen, mitzumachen?? Entscheider m\u00fcssen sich dar\u00fcber mal Gedanken machen. Oder dem Beispiel USA folgen...",
         "score": 1,
-        "thumbsUpCount": 15,
+        "thumbsUpCount": 16,
         "reviewCreatedVersion": "3.3.1",
         "at": "2020-06-21 07:34:04",
         "replyContent": null,

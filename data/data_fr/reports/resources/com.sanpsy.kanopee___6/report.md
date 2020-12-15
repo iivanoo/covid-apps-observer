@@ -163,6 +163,10 @@ The KANOPEE app has been installed by more than **1000** times. At this time, **
 <img src="3_star_reviews_wordcloud.png" alt="com.sanpsy.kanopee 3 reviews"/>
 </p>
 
+> L'application vient de se bloquer aprés le 2nd entretien. Je n'ai donc pas eu le CR de l'analyse des données sur 7 nuits et des réponses au 2nd entretien. L'avatar reste à l'écran et plus rien ne se produit. Dommage. Je retenterai peut être en désinstallant puis en la réinstallant<br> :date: __2020-12-13 15:21:53__
+
+> Très bonne idée que de pouvoir s'auto évaluer sans craintes de jugements! Malheureusement, lorsque l'on travail de nuit les réponses pouvant être apportés sont limités. Par exemple, concernant le sommeil, je ne peux aller au delà de 14h pour le réveil et le levé... c'est dommage. Nous sommes tellement nombreux à souffrir de trouble du sommeil et à vivre sur ce rythme inversé.<br> :date: __2020-12-07 09:53:15__
+
 > Trop long<br> :date: __2020-11-29 19:34:58__
 
 > Pas mal<br> :date: __2020-08-10 08:22:16__
@@ -179,6 +183,8 @@ The KANOPEE app has been installed by more than **1000** times. At this time, **
 <img src="2_star_reviews_wordcloud.png" alt="com.sanpsy.kanopee 2 reviews"/>
 </p>
 
+> Bonne idée mais on ne peut pas corriger les données quand on fait une erreur de saisie 😭😭<br> :date: __2020-12-09 21:55:32__
+
 > L'idée est bonne. L'appli pourrait être plus développée. Si on oublie ou on se trompe dans les données de consommation impossible de modifier et de revenir en arrière. Tout est alors faussé. Dommage<br> :date: __2020-10-17 11:04:59__
 
 > Première impression mauvaise L'assistant virtuel est très bien fait mais deux choses me gênent - on entre ses horaires de sommeil mais les périodes de réveil pendant la nuit sont limitées à une heure par nuit - l'application ne se ferme pas quand on clique sur "revenir en arrière", il n'y a pas de moyen pour sortir de cette appli<br> :date: __2020-06-24 07:34:38__
@@ -190,6 +196,10 @@ The KANOPEE app has been installed by more than **1000** times. At this time, **
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="com.sanpsy.kanopee 1 reviews"/>
 </p>
+
+> Au secours ! Si après ça tu trouves le sommeil !<br> :date: __2020-12-12 09:11:12__
+
+> C'est du grand n'importe quoi 🤦 On note ses nuits oui et ? L'avatar virtuel fait des commentaires totalement inutiles ( bien, je suis désolée, c'est triste, Blablabla) et puis plus rien Aucune analyse concrète, aucun conseil, rien J'espère que le créateur n'a pas été payé npour cette 🤢<br> :date: __2020-12-11 15:20:29__
 
 > Je viens de terminer une semaine de suivi du sommeil et suis très déçu par les conseils. Rien de nouveau par rapport à la littérature journalistique : proposer en septembre une chambre entre18 et 20° quand la température de nuit, fenêtres ouvertes, ne descendent pas sous 22° c'est juste inapproprié. Respirer par le ventre OK on sais déjà. Pas de café apres 14h00 quelle nouveauté ! Une arnaque déguisée par le CHU de Bordeaux.<br> :date: __2020-09-21 22:25:13__
 

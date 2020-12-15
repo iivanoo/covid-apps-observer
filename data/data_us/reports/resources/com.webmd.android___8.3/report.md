@@ -191,6 +191,10 @@ The WebMD: Check Symptoms, Rx Savings, & Find Doctors app has been installed by 
 <img src="5_star_reviews_wordcloud.png" alt="com.webmd.android 5 reviews"/>
 </p>
 
+> Great app!<br> :date: __2020-12-10 05:30:14__
+
+> Awesome<br> :date: __2020-12-09 13:40:18__
+
 > Vomiting nausa weak constapated<br> :date: __2020-11-30 01:14:34__
 
 > Superb<br> :date: __2020-11-18 19:54:51__
@@ -206,10 +210,6 @@ The WebMD: Check Symptoms, Rx Savings, & Find Doctors app has been installed by 
 > This is such an app for info on medical anything. Including identifying pills that you find in your cabinet and can't remember or know what it is.<br> :date: __2020-10-23 03:20:57__
 
 > Best<br> :date: __2020-10-23 02:26:40__
-
-> Valuable for health<br> :date: __2020-10-17 11:09:01__
-
-> A great resource for all things health and medical-related. I use the symptom checker feature the most, but the app also features articles on health conditions, information on different medications, and COVID articles. Definitely a great resource, and completely free!<br> :date: __2020-10-10 06:43:39__
 
 
 
@@ -247,6 +247,8 @@ The WebMD: Check Symptoms, Rx Savings, & Find Doctors app has been installed by 
 <img src="3_star_reviews_wordcloud.png" alt="com.webmd.android 3 reviews"/>
 </p>
 
+> Cannot sign up... Shows error<br> :date: __2020-12-13 07:36:07__
+
 > Too many ads<br> :date: __2020-11-16 03:43:46__
 
 > I allow access to my location, it gives me doctors & professions that aren't even close to my area! I put my zip code in & I get nothing! This is ongoing even with updates! Be careful! Stay safe! 😷😷😷😷🙏🏾🙏🏾🙏🏾🙏🏾💜💜💜💜<br> :date: __2020-10-27 23:37:12__
@@ -264,8 +266,6 @@ The WebMD: Check Symptoms, Rx Savings, & Find Doctors app has been installed by 
 > Not what it use to be<br> :date: __2020-06-14 07:40:45__
 
 > The medication reminders are working any more<br> :date: __2020-05-28 03:36:51__
-
-> Symptom checker isn't working anymore.<br> :date: __2020-05-18 07:41:38__
 
 
 

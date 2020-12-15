@@ -184,6 +184,14 @@ The Horizon Telehealth app has been installed by more than **1000** times. At th
 <img src="5_star_reviews_wordcloud.png" alt="org.horizonhealth.android.hzhsh.telehealth 5 reviews"/>
 </p>
 
+> ABSOULTELY LOVE IT!!!<br> :date: __2020-12-09 16:46:01__
+
+> It's the next best thing. Horizon is an amazing co. With a lot of great services and a great staff<br> :date: __2020-12-08 19:10:20__
+
+> Great 👍<br> :date: __2020-12-08 17:43:12__
+
+> Listens very well<br> :date: __2020-12-08 17:18:01__
+
 > good<br> :date: __2020-11-30 15:04:12__
 
 > Helps alot more then phone appointments<br> :date: __2020-11-18 22:16:06__
@@ -195,14 +203,6 @@ The Horizon Telehealth app has been installed by more than **1000** times. At th
 > Great app make dr appointments easy<br> :date: __2020-10-23 18:06:37__
 
 > Great app for my counseling sessions!<br> :date: __2020-10-22 19:27:09__
-
-> I absolutely love this appand being able to see my counselor face to face makes me feel so much better. I love Kelsey Tabbi she's saved me so many times from so many countless situations I cabr even begin to explain the impact shes had on my life.<br> :date: __2020-10-13 17:35:20__
-
-> I enjoy being able to see the horizon staff and it's a tremendous program<br> :date: __2020-10-12 21:40:34__
-
-> I've been using Horizon Telehealth for almost a year now because my original nurse with Horizon was a snow bird & she spent her winter's in Florida. I used to go right to the Horizon site and sign-in to Telehealth but found I actually prefer doing my visits this way! So far I've had very few very minor issues with this app so 5 stars all the way!<br> :date: __2020-10-07 23:02:20__
-
-> Great.<br> :date: __2020-10-02 17:52:21__
 
 
 

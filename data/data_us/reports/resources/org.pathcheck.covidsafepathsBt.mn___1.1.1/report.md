@@ -137,25 +137,25 @@ The COVIDaware MN app has been installed by more than **50000** times. At this t
 <img src="5_star_reviews_wordcloud.png" alt="org.pathcheck.covidsafepathsBt.mn 5 reviews"/>
 </p>
 
+> Protecting yourself and others is cool, pass it on.<br> :date: __2020-12-12 19:33:17__
+
+> Works well on my Pixel. Did not ask me for permissions, as expected.<br> :date: __2020-12-12 15:59:34__
+
+> Easy to setup and does exactly what it says it will do. It uses bluetooth for contacting other phones so you will need bluetooth on.<br> :date: __2020-12-12 03:46:12__
+
+> thank you mn government :)<br> :date: __2020-12-10 17:02:36__
+
+> This gives me great peace of mind. Another tool to track possible exposures. I turn off bluetooth and location if I'm at home, and on again before I leave the house, and everything works. No need to redo setup (which is just turning on both features anyway). Downside is you'll only get a possible exposure notification if the person you're exposed to also has the app, and has it enabled at the same time you do.<br> :date: __2020-12-06 08:08:51__
+
+> 1. Install app. 2. Enable location??!!!?11?!omgtheyretrackinusbro 3. ???????? 4. Profit! Location has to be enabled in order for the app to use bluetooth, simpletons. Get over it already.<br> :date: __2020-12-06 03:00:06__
+
+> So far great.<br> :date: __2020-12-05 21:52:52__
+
+> This app is a "MUST" during this Pandemic! I am fascinated at how incredible it is. KUDOS TO THE DEVELOPERS.<br> :date: __2020-12-05 20:33:09__
+
 > Wearyour*mask* # one Washands* # Two Socliel distant#three Bullshitt by Appointment#Four ABSOLTLEEY SEX with out me Nomber six and allways checktempiture +104take t0 emergence room asap!!!!!!! Eat planty of salids Get lots of Rest +biulds Amune sistem+<br> :date: __2020-12-05 07:31:49__
 
 > I am nervous about all of our phones constantly talking to everyone. Someone is going to screw all this up and take advantage of the vulnerability<br> :date: __2020-12-04 14:04:38__
-
-> Updated review - love the app. Simple. Understandable. However, it relies on the idea that people will report their covid results to the app. I feel like people who are going out and exposing others to their illness are not going to report it to this app, or even have this app at all... So I don't understand how that part works.<br> :date: __2020-12-04 13:57:53__
-
-> Excellent app! Allowed me to find individuals with Covid so I could finally catch it and no longer have to worry whether or not I'm immune or not. Just lookup the best Covid Party locations and voila! Now I'm sick and willing to pass it along to anyone that just wants to get over it so they can see family and friends again.<br> :date: __2020-12-02 22:39:16__
-
-> I don't leave me bluetooth enabled for battery and security reasons, so this app will not work for me.<br> :date: __2020-12-02 21:45:15__
-
-> Easy setup. No personal info required. Install it and forget it. And if you get an alert you should get tested.<br> :date: __2020-12-02 21:18:54__
-
-> Not a techy expert but am 'privacy aware'. Heard the MN Covid Team when this was announced. YOUR LOCATION is NOT stored permanently & metadata is not gathered. The expert described how it works in techy detail & it made me feel ok. I suggest doing a search for a video of this announcement or read a brief online to allay your fears.<br> :date: __2020-12-02 20:24:06__
-
-> If you're worried about location services, you should see how much FB is tracking you. The NSA can track you any time your phone is on. Don't carry a phone if you're really that worried. App was easy to install, works as intended.<br> :date: __2020-12-02 20:16:49__
-
-> I experienced no significant battery life impact by using this app. I don't know what some of these other reviewers are on about...<br> :date: __2020-12-02 18:59:13__
-
-> I think my greatest annoyance with this app is that it briefly pops up a notification once in a while (once every 6 or 12 hours?) saying that it's checking for exposures. But since it's immediately dismissed, I'm sometimes left wondering what just caused my phone to buzz. It might be better to move that to a dedicated log screen. It's good to know that the app is doing something, but that doesn't feel like the right way to show it. At least disable the vibration.<br> :date: __2020-12-02 13:50:57__
 
 
 
@@ -164,6 +164,16 @@ The COVIDaware MN app has been installed by more than **50000** times. At this t
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="org.pathcheck.covidsafepathsBt.mn 4 reviews"/>
 </p>
+
+> Excellent information<br> :date: __2020-12-10 15:11:22__
+
+> Great idea. But I don't know anyone that uses the app. I doubt a lot of people have the app install. It defeats the purpose of being useful if only a handful if people are using the app.<br> :date: __2020-12-08 23:56:12__
+
+> Good idea but the app doesn't start on my phone (Pixel 4 XL). It just shows a white screen with the logo.<br> :date: __2020-12-07 15:36:10__
+
+> the only reason I give it four stars is because I don't know if it works yet or not but it seems to function on my phone and my tablet and my laptop so until I know for sure that it works that's all I have to say.<br> :date: __2020-12-06 19:26:31__
+
+> Carol M<br> :date: __2020-12-06 02:15:38__
 
 > Good idea, but needs support of the places that provides the tests. which currently do not provide a verification code with a positive test.<br> :date: __2020-12-02 05:45:58__
 
@@ -183,7 +193,15 @@ The COVIDaware MN app has been installed by more than **50000** times. At this t
 <img src="3_star_reviews_wordcloud.png" alt="org.pathcheck.covidsafepathsBt.mn 3 reviews"/>
 </p>
 
-> Has only one notification type called "Exposure Notification" which, despite it's name, goes off everyday exposure database updates. Had to silence this annoying notification, so defeats the purpose! More fundamental flaws: doesn't account for PPE or if barriers between people, relies on voluntary positive test input rather than MDH registry. Good: No location permissions required. App Info screens shows "No permissions requested". Double blind anon ID system is good.<br> :date: __2020-12-04 14:32:53__
+> Has only one notification type called "Exposure Notification" which, despite it's name, fires everyday on exposure database updates. Had to silence this annoying notification, so defeats the purpose! More fundamental flaws: doesn't account for PPE or if barriers between people, & relies on voluntary positive test input rather than MDH registry. Good: No location permissions required. App Info screens shows "No permissions requested". Double blind anon ID system is good. No BT issues like others.<br> :date: __2020-12-13 18:40:51__
+
+> Really you're putting out an app with no dark mode? Have you not paid attention to any other applications or operating system pushes and updates? I love staring into a flashlight.<br> :date: __2020-12-12 23:05:07__
+
+> I'm not sure that this app is really doing anything useful. The way it's set up is completely voluntary. So even if a user has Covid-19, they don't actually have to record it. And what about the people who don't download the app and use it? I'm not convinced that this app is accomplishing it's intended purpose.<br> :date: __2020-12-12 14:19:09__
+
+> I wish there was a way to effectively use it and not have bluetooth on 24/7.<br> :date: __2020-12-06 08:54:01__
+
+> I've read some of the reviews and some are mentioning being alerted if exposed. That would only happen if you were near someone who was infected, had the app, and followed through to report. There's many ways you could be exposed without being alerted at all. The app may have an impact and if many many people used it the impact could be significant. But maybe not.<br> :date: __2020-12-06 03:10:14__
 
 > Kinda cringe<br> :date: __2020-12-02 21:59:16__
 
@@ -195,10 +213,6 @@ The COVIDaware MN app has been installed by more than **50000** times. At this t
 
 > Confused with apple download instructions.<br> :date: __2020-11-24 17:09:27__
 
-> Location? Not sure what is requiring location turned on? My install required ZERO permissions other than to enable app notifications. We'll see how it uses resources before giving more stars. If this app saves one life in MN it is worth it. Haters of civility and Libertarians should not download!<br> :date: __2020-11-23 23:29:50__
-
-> Doesn't track your location, but requires location to be on, not just bluetooth. As someone with an older phone, that drains my battery. I still think folks should download this if they can, but I'm bummed it won't work for me.<br> :date: __2020-11-23 22:23:20__
-
 
 
 #### 2-star reviews
@@ -207,7 +221,13 @@ The COVIDaware MN app has been installed by more than **50000** times. At this t
 <img src="2_star_reviews_wordcloud.png" alt="org.pathcheck.covidsafepathsBt.mn 2 reviews"/>
 </p>
 
-> Good idea but the app doesn't start on my phone (Pixel 4 XL). It just shows a white screen with the logo.<br> :date: __2020-12-03 15:14:48__
+> Didn't all around like because of the constant notifications even with the Bluetooth off.<br> :date: __2020-12-12 05:41:09__
+
+> After having setup the app, now when I start it, it just shows the splash screen.<br> :date: __2020-12-12 02:53:31__
+
+> An expected disappointment. The app itself is truthful that is doesn't save ur location or personal info .... ( I checked in my settings and looked at the app permissions - none)... but that statement is true only because CovidAware isn't , Google is .. on Android 10 and below , isn't that like almost every device . Smh . The app would be good if it wasnt on the Google platform .<br> :date: __2020-12-06 16:48:18__
+
+> Battery killer<br> :date: __2020-12-06 06:25:44__
 
 > I'm sure the app works but it gave no clear description on how to get a verification code<br> :date: __2020-12-02 23:36:53__
 
@@ -223,24 +243,24 @@ The COVIDaware MN app has been installed by more than **50000** times. At this t
 <img src="1_star_reviews_wordcloud.png" alt="org.pathcheck.covidsafepathsBt.mn 1 reviews"/>
 </p>
 
-> I got a test, negative fortunately, but it won't allow me to report the result because it requires a verification code that I wasn't given. If this happens to people with positive tests, what's the point of even using it?<br> :date: __2020-12-05 01:25:40__
+> Installed three weeks ago. Crashes upon opening. Totally worthless.<br> :date: __2020-12-13 17:07:13__
 
-> The app has some fully discription screens but provides a message to configure the app that makes no sense. It doesn't discribe how to configure the app also they could use proper English. The state could also provide instructions or ways to get information how to make it work.<br> :date: __2020-12-04 16:01:57__
+> Did not allow the input of the very valuable information needed for the apps purpose. (ie) would not allow the verification code from MDH to be input. Curious how many positive cases were unable to be input. Not an extra security from the virus when it doesn't work!<br> :date: __2020-12-13 04:10:05__
 
-> Had to uninstall after it slowed my phone down and drained the battery. I hope the state didn't use our tax $$$ to fund.<br> :date: __2020-12-04 01:33:28__
+> Did not let me add my reference #<br> :date: __2020-12-13 04:09:47__
 
-> Can't plug in my results<br> :date: __2020-12-03 20:23:44__
+> Bad idea! I uninstalled and my phone is still saying its just turned off.<br> :date: __2020-12-12 19:53:37__
 
-> Thought I'd give this a try since I've got Covid but apparently I can't let others know without an authorization code and I never got one. MN has been an absolute joke as far as testing and contact tracing is concerned.<br> :date: __2020-12-03 05:06:39__
+> Wasn't accurate since my roommate ended up being diagnosed with COVID and the app still told me I had no known exposures.<br> :date: __2020-12-11 17:08:42__
 
-> Needing bluetooth on drains the battery too much, uninstalled.<br> :date: __2020-12-03 00:41:31__
+> Popped up to install this app because of "government" mandate. Biggest problem is "Zero" star review is not available to rate.<br> :date: __2020-12-10 20:58:10__
 
-> #gotbetterthingstoworryaboutandsodoyou<br> :date: __2020-12-02 21:58:01__
+> This app sucks. I was potentially exposed and it didn't alert me. It must only work if everyone has it. Just stupid.<br> :date: __2020-12-10 16:57:03__
 
-> App seems to be poorly designed in dealing with problem of crossing paths with someone who has tested positive. More concerning, however, are the privacy and security concerns this app fails to adequately address (although it claims to).<br> :date: __2020-12-02 21:42:40__
+> No need to track me. Start with the blm and antifa crowd, you know the super spreaders.<br> :date: __2020-12-10 05:02:47__
 
-> Imagine installing literally state sponsored spyware Zero reason we don't have access to source code<br> :date: __2020-12-02 19:46:53__
+> I tested positive and where do i enter that.<br> :date: __2020-12-09 06:22:38__
 
-> It was sucky<br> :date: __2020-12-02 19:44:30__
+> Totally useless<br> :date: __2020-12-09 04:21:30__
 
 

@@ -129,6 +129,16 @@ The MD COVID Alert app has been installed by more than **100000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="gov.md.covid19.exposurenotifications 5 reviews"/>
 </p>
 
+> Haven't had any alerts as of yet<br> :date: __2020-12-10 21:03:17__
+
+> Easy to use<br> :date: __2020-12-10 01:40:11__
+
+> Awesome Experience!!!!<br> :date: __2020-12-07 23:09:23__
+
+> Great app. Does not kill battery or face location. Please don't listen to the dumb conspiracy people. Everyone in MD should have this on their phone so we can get a control over the now uncontrolled virus.<br> :date: __2020-12-06 13:55:00__
+
+> EXCELLENT!<br> :date: __2020-12-06 08:01:07__
+
 > Apps like these save lives. I am blessed to live in Maryland.<br> :date: __2020-11-28 23:35:26__
 
 > Very easy to use, nice privacy guarantee<br> :date: __2020-11-28 17:30:51__
@@ -139,16 +149,6 @@ The MD COVID Alert app has been installed by more than **100000** times. At this
 
 > Great app and genius idea. Easy install and easy instructions. Could be a life saver!<br> :date: __2020-11-22 12:32:38__
 
-> Answer other's review: cannot turn on this app. Samsung S20, All the Android phone is automatic turn on the COVID notification. Go to setting and go Google set. will see the COVID 19 Notification turn on. Finally the MD launch the COVID 19 app. Thanks.<br> :date: __2020-11-22 00:18:12__
-
-> Thank you for this app. My grandparents have covid-19. This is very serious. Bluetooth does take up a lot of battery so I basically just turn it on before I leave to go to the store or out and shut it off while I'm safe at home. Please wear your masks and continue to social distance.<br> :date: __2020-11-21 17:36:27__
-
-> Hopefully this app keeps me safe so far what I have read about it seems safe for my phone privacy I'm giving it five stars for now I wonder if it will protect me and notify me in a safe distance from a infected person before they get within 6 feet with me I don't want to be talking to that person we're walking by somebody or around anybody and they are infected what about the people who are infected and don't even know that they are so many questions not enough words hope everybody's safe.<br> :date: __2020-11-17 03:32:27__
-
-> Great app. Does not kill battery or face location. Please don't listen to the dumb conspiracy people. Everyone in MD should have this on their phone so we can get a control over the no uncontrolled virus.<br> :date: __2020-11-15 17:29:10__
-
-> BETTER Than nothing! At least they are trying SOMETHING! Unlike our current "Commander And Tweet"!!<br> :date: __2020-11-15 06:56:32__
-
 
 
 #### 4-star reviews
@@ -156,6 +156,8 @@ The MD COVID Alert app has been installed by more than **100000** times. At this
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="gov.md.covid19.exposurenotifications 4 reviews"/>
 </p>
+
+> So far so good<br> :date: __2020-12-08 00:43:02__
 
 > Yeah I think this is going to be helpful for me I try to make sure to always follow the CDC and take care of my health and also my wife and family.<br> :date: __2020-12-02 01:20:51__
 
@@ -175,6 +177,12 @@ The MD COVID Alert app has been installed by more than **100000** times. At this
 <img src="3_star_reviews_wordcloud.png" alt="gov.md.covid19.exposurenotifications 3 reviews"/>
 </p>
 
+> I can't figure out where to get my one time verification code so I can use this app.<br> :date: __2020-12-12 19:08:23__
+
+> I keep getting a error on install. Smdh<br> :date: __2020-12-08 12:22:49__
+
+> Needs to be listed and available at the Top of your Maryland coronavirus web page! Also how to update it! Mine needed that...why not automatic? Boo! Like hogan wasting $9million on South Korean tests!<br> :date: __2020-12-06 14:49:17__
+
 > Requires GPS to be on all the time, which drains the battery faster. (Not to mention allows all the other nosy apps on your phone to know where you are.) Another reviewer expressed a concern I shared: If you are near two or more states, do you need to install each state's notification app? I came across a news article announcing the apps which stated you only need one, and other states notify thru that one. Better documentation in the app would make that clearer.<br> :date: __2020-12-02 05:54:43__
 
 > Just Downloaded But Unable To Turn On Notifications. Now It's Just Useless. And No It's Not My Phone. Please Fix Bugs.<br> :date: __2020-11-20 15:15:26__
@@ -189,12 +197,6 @@ The MD COVID Alert app has been installed by more than **100000** times. At this
 
 > The virus will have a vaccine soon, so I hope you didn't put too much effort into this app.<br> :date: __2020-11-14 23:00:47__
 
-> It's certainly valuable to have a way of being notified if I was close to someone for 15 minutes who didn't know my name and who came down with COVID-19. The reason I didn't give the app 5 stars is that it doesn't allow me to check in daily and report suspicious symptoms. The only thing I can report is a test result. The other thing I don't like is that there are separate apps for neighboring states. That means that I have to have multiple contact tracing apps on my phone.<br> :date: __2020-11-12 16:38:08__
-
-> It was horrible trying to download and install this app at first. Something told me to try again at 5am. It was installed in a flash. If this is an indication that servers were busy, then I am extremely happy that Marylanders are using it.<br> :date: __2020-11-12 11:18:10__
-
-> Had to find a link from an article because it never showed up in the play store. Otherwise, I assume it's built on the same framework/template as many other states' apps and it remains to be seen how effective it is.If it really requires you to volunteer a positive test result, I'm not sure how they can expect much participation (or prevent trolling).Considering how little messaging I've seen and how resistant people are to even the most basic prevention, it seems like it may be a token gesture.<br> :date: __2020-11-12 02:18:22__
-
 
 
 #### 2-star reviews
@@ -202,6 +204,10 @@ The MD COVID Alert app has been installed by more than **100000** times. At this
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="gov.md.covid19.exposurenotifications 2 reviews"/>
 </p>
+
+> I wish I could use both Maryland and Pennsylvania COVID apps because I live in Maryland and work in Pennsylvania. But I can only get notifications from one of them. I am more likely to get exposed to COVID in PA then MD. Other then that it is nice.<br> :date: __2020-12-11 18:19:42__
+
+> I am not sure whete to get the verification code to use in the app.?.?.?<br> :date: __2020-12-10 04:46:27__
 
 > Good to know about possible exposure but using bluetooth is almost as bad, please change this?<br> :date: __2020-11-29 16:04:37__
 
@@ -225,6 +231,12 @@ The MD COVID Alert app has been installed by more than **100000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="gov.md.covid19.exposurenotifications 1 reviews"/>
 </p>
 
+> It is taking so long for me to get my test results that by the time I get them this app will have forgotten everyone I came in contact with.<br> :date: __2020-12-11 18:13:18__
+
+> I tested positive for covid and I can't get the alert to activate in the app. It asks for a one time verification code but there is no information on where I get this code. I am finding this app useless.<br> :date: __2020-12-06 19:20:45__
+
+> Won't let me turn it on. Keeps saying "Something went wrong. Try again."<br> :date: __2020-12-05 19:52:41__
+
 > Cannot turn on exposure notifications<br> :date: __2020-12-05 14:52:20__
 
 > Won't allow user to turn on exposure notification. Just receive error messages<br> :date: __2020-11-29 05:31:35__
@@ -238,11 +250,5 @@ The MD COVID Alert app has been installed by more than **100000** times. At this
 > Doesn't seem accurate. I work in a hospital with 40+ covid positive patients everyday but the app always tells me I havent been near anyone with covid....<br> :date: __2020-11-23 20:45:16__
 
 > It is asking for an access code from my test. I DON'T HAVE ONE! Where is this code!? So frustrating 😫<br> :date: __2020-11-23 12:16:49__
-
-> App not turn on. Sends an error message each time. I've installed an uninstalled three times with no success. Google Pixel 3 XL running newest version of Android. Please fix the bugs.<br> :date: __2020-11-19 00:12:48__
-
-> Doesn't Work installed try to turn on says something went wrong. Un installed re installed. Same thing. Doesn't Work<br> :date: __2020-11-18 21:44:56__
-
-> If you are old and sick stay in the house. Everyone else, stop worrying about the Chinese sniffles 🥢🇨🇳👲🐉🏮🈲️. Lockdown Larry will have us all living off of government before you know it..🤦🏽‍♂️<br> :date: __2020-11-17 09:48:34__
 
 

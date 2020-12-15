@@ -121,6 +121,10 @@ The CO Exposure Notifications app has been installed by more than **100000** tim
 <img src="5_star_reviews_wordcloud.png" alt="gov.co.cdphe.exposurenotifications 5 reviews"/>
 </p>
 
+> I love this app I recommend it to anyone gives you an update about covid-19 faith hope love let's stay safe and stay together listen good news it's important for our lives<br> :date: __2020-12-08 22:15:19__
+
+> This is a wonderful opportunity updated with anything was going on in the world covid-19<br> :date: __2020-12-07 06:53:53__
+
 > Right<br> :date: __2020-12-01 05:36:13__
 
 > very informative, thanks<br> :date: __2020-12-01 02:39:23__
@@ -137,10 +141,6 @@ The CO Exposure Notifications app has been installed by more than **100000** tim
 
 > This is an excellent tool. I think they could do a better job informing people on how they get the code to start the notification part though. For those interested, the health department can generate the code for you when you receive a call from a contact tracer. You cannot just trigger it based on a positive test result. Please answer the phone when they call after you have been tested or call them back.<br> :date: __2020-11-21 21:28:48__
 
-> Anonymous and opt-in only so your information and privacy is protected. Since it's release, the old manual verification system has been updated to be more automated. This app can save lives and works better when more users have it installed.<br> :date: __2020-11-20 19:54:03__
-
-> Yes. It is safe to use. It uses tokens and your identity is kept private. Please, please do your part and help stop/track the spread!<br> :date: __2020-11-20 05:29:03__
-
 
 
 #### 4-star reviews
@@ -148,6 +148,8 @@ The CO Exposure Notifications app has been installed by more than **100000** tim
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="gov.co.cdphe.exposurenotifications 4 reviews"/>
 </p>
+
+> It's helpful<br> :date: __2020-12-07 07:54:07__
 
 > I would like the app to have some way to tell me that I have exchanged tokens with someone, maybe giving me a total for a day. No details, just some indication that the app is doing its job.<br> :date: __2020-11-20 08:25:57__
 
@@ -171,6 +173,12 @@ The CO Exposure Notifications app has been installed by more than **100000** tim
 <img src="3_star_reviews_wordcloud.png" alt="gov.co.cdphe.exposurenotifications 3 reviews"/>
 </p>
 
+> Like<br> :date: __2020-12-12 07:54:21__
+
+> I guess a good app but nobody in my area seems to be using it or posting a positive result in Pueblo County or other counties that I travel to for my job delivering parts, go far as Lamar, west to the San Luis Valley and South to Walsenburg, Trinidad and into New Mexico and you're telling me that I have not been near someone with a positive test result????<br> :date: __2020-12-11 20:39:25__
+
+> Haven't been able to get much info<br> :date: __2020-12-06 18:50:05__
+
 > Called county health department to ask about notification & special code issue. RESULTS: 1) testing agency reports positive tests to the State 2) State notifies counties in which the positive people live 3) w/in 24 hrs, counties notify people who tested positive 4)w/in 48 hrs (cases are mounting),Contact Tracers call infected people & ask w/whom they have been in contact. NO REASON for infected people to need code. Call Labor Dept if there's a work issue. RECOMMEND: call people who know things.<br> :date: __2020-11-20 20:45:59__
 
 > People have said they can't get a verification code that is needed to send an alert. I just read (11-18-20, cpr) that this code should now be sent automatically. Hopefully this improves the situation.<br> :date: __2020-11-19 15:15:54__
@@ -184,12 +192,6 @@ The CO Exposure Notifications app has been installed by more than **100000** tim
 > Positive test here but can't share my result because I don't have a verification code. failed app so far🤷‍♂️ I've searched for about 15min and can only figure it's because my test was conducted out of state. However, I was around people in CO and would like to share it. Will people share if it's not easily available? I would also recommend information about privacy and how your results a reported. People might have a sense of shame or guilt but might share if there's some sense of anonymity.<br> :date: __2020-11-07 01:48:11__
 
 > Won't let me allow to send notifications<br> :date: __2020-11-06 19:43:06__
-
-> Good call, Colorado but an issue with the app is that there is no verification code sent when trying to enter test results. I suggest you make this process a little more clear, and provide an FAQ if anyone else has run into this as well.<br> :date: __2020-11-04 03:50:37__
-
-> Love the concept. Not a fan that it requires bluetooth to turn on notifications. That's a battery drain.<br> :date: __2020-10-29 15:52:09__
-
-> It communicates via Bluetooth, which drains the battery. Swing and a miss.<br> :date: __2020-10-26 13:47:25__
 
 
 
@@ -227,6 +229,18 @@ The CO Exposure Notifications app has been installed by more than **100000** tim
 <img src="1_star_reviews_wordcloud.png" alt="gov.co.cdphe.exposurenotifications 1 reviews"/>
 </p>
 
+> Does not account for the tremendous percentage of people who have absolutely had COVID19, but have not seen a doctor, making it ultimately pointless.<br> :date: __2020-12-12 19:26:32__
+
+> Won't turn on in the app. Keeps saying something wrong. Now won't let me even try to install it.<br> :date: __2020-12-11 13:56:13__
+
+> No one participates<br> :date: __2020-12-09 02:29:57__
+
+> I tested positive for covid and had no idea how to get the code to report my positive test. I seen its supposed to come from a contract tracer however they were so backed up they announced they're unable to contact everyone that is positive. So I never got contacted, and never got the verification code or link. This app was pointless. I don't trust the accuracy knowing how many people probably had the same experience as me.<br> :date: __2020-12-08 17:54:27__
+
+> This virus is a joke<br> :date: __2020-12-07 10:58:46__
+
+> Where do you get identification code??? NO HELP<br> :date: __2020-12-05 20:44:43__
+
 > Turning on notifications gives an error.<br> :date: __2020-12-04 00:05:45__
 
 > I discovered the magic link was being texted to my home phone number! Mine is through Google Voice so I get an email copy. That email goes to a seldom used gmail address and the link won't open on anything but my mobile phone but clicking on the link bypasses the need for a code. Still one star. There's no documentation, it's pretty stupid to text a home phone especially when you have an email address and you shouldn't have to have an engineering degree to figure out reporting.<br> :date: __2020-12-03 19:35:08__
@@ -234,17 +248,5 @@ The CO Exposure Notifications app has been installed by more than **100000** tim
 > INTRUSIVE ▪ B I G ▪ B R O T H E R ▪ AT ITS FINEST! INSTALLED WITHOUT KNOWLEDGE OR AGREEMENT OF PERMISSION, ONTO MILLIONS OF PHONES, WHETHER YOU WANTED IT OR NOT! BEWARE OF THESE TYPES OF APPLICATIONS AND INTRUSIVE METHODS. THEY ARE A THREAT TO THE FREEDOM OF ALL! IN FACT, READ THE PERMISSIONS YOU'RE AGREEING TO, WHEN YOU DOWNLOAD MOST ANY APP THESE DAYS. YOU ARE GIVING UP YOUR RIGHTS AND FREEDOM, A LITTLE AT A TIME, UNTIL THEY ARE ALL GONE ! ! ! ! ! JUST ▪ S A Y ▪ "N O !" 🚫<br> :date: __2020-12-03 12:40:20__
 
 > OMG. I've tested positive, but I can't relay this information because I need a verification code from some medical person. I went through a drive through to get tested, and got results through email. No verification code. This is worthless!!!<br> :date: __2020-12-02 22:30:31__
-
-> I work with COVID patients. I haven't been alerted once in 1.5 weeks about a known positive, and I've been exposed each work day. I go to work and go home but many don't.. Definitely do not depend on this app. It's a wonderful idea in theory, though!<br> :date: __2020-12-02 05:51:45__
-
-> Time is of the essence! Trying to help a friend report a positive, but without the code it's pointless. Why create a roadblock like this that slows down awareness for everyone???<br> :date: __2020-12-01 11:26:38__
-
-> Have the developers done away with the requirement for the verification code?I didnt see 1 review where a person stated the app successfully notified them.I did see plenty where ppl said it failed to.That's a good indication that something has got to be done.Perhaps notify ppl that there is a chance they came in contact with a user who reported positive results, however verification is still pending?When talking importance, 1st over all should be the need for users to report pos results IMMEDIAT<br> :date: __2020-12-01 09:50:45__
-
-> Cannot turn on. Says: Something went wrong. Try again. 11.30 - still getting same error<br> :date: __2020-11-30 22:21:57__
-
-> Not able to turn on notifications with Android phone. Needs verification code.<br> :date: __2020-11-30 20:23:49__
-
-> I have been a few feet away from someone who has tested positive for Covid. Was never notified.<br> :date: __2020-11-29 12:53:46__
 
 

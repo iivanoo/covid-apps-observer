@@ -141,25 +141,25 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="gov.pa.covidtracker 5 reviews"/>
 </p>
 
-> I appreciate the APP, however I would like to see the APP statistics which said how many people checked in today and how many are feeling symptoms ,which was removed in the last update, return. Thanks<br> :date: __2020-12-03 17:15:45__
+> Reassuring that we are helping each other avoid and fight this danger<br> :date: __2020-12-13 09:36:58__
 
-> Good inside information<br> :date: __2020-12-03 10:33:53__
+> Easy to use. I like the county breakdowns. It should have a back button on the symptom checklist, though. The one day I missed checking a symptom on the first list page and couldn't go back from the second page to check it. I wish everyone was using this.<br> :date: __2020-12-13 03:11:21__
 
-> Great<br> :date: __2020-12-03 04:56:31__
+> Great for tracking WHAT IDIOTS are being stupid about NOT USING MASKS..<br> :date: __2020-12-13 02:46:20__
 
-> Awesome I used this app everyday<br> :date: __2020-12-01 00:04:29__
+> User experience and layout is great! I think having the app is a safe way of helping to slow the spread.<br> :date: __2020-12-12 05:27:43__
 
-> Newest update makes the data a lot easier to read and understand. Thanks!<br> :date: __2020-11-30 22:48:29__
+> Let's see how well this works till another pandemic plagues pledge on human resources and lives.<br> :date: __2020-12-11 19:06:10__
 
-> I just love the new update! Let's keep up the fight to help control the spread of Covid-19. 😷<br> :date: __2020-11-30 19:11:07__
+> Thanks for the help Google! 5 stars for you 🙂<br> :date: __2020-12-09 20:54:38__
 
-> It's nice.<br> :date: __2020-11-30 17:43:32__
+> Easy.<br> :date: __2020-12-08 17:20:04__
 
-> Good information<br> :date: __2020-11-30 06:24:33__
+> An update to my prior review comment: Thank you for restoring the daily check-in stats! Kudos to the developers<br> :date: __2020-12-08 17:06:05__
 
-> Good<br> :date: __2020-11-29 19:04:17__
+> I didn't know this existed but it's great that it does and I will be using it.<br> :date: __2020-12-07 12:34:58__
 
-> It is good<br> :date: __2020-11-28 18:25:11__
+> Good<br> :date: __2020-12-06 09:07:27__
 
 
 
@@ -168,6 +168,8 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="gov.pa.covidtracker 4 reviews"/>
 </p>
+
+> It would be nice to know how many people are using app in my area.... knowing 600,000 people across pa have app, does not do much for me, in my city....<br> :date: __2020-12-10 10:32:55__
 
 > Simple and unobtrusive, though I worry about how effective it can really be, since it would only work best if everyone installs it, *and* if everyone honestly reports their conditions. Still, it's a good effort, and a great app! Just limited by having to try to trust others to do the right thing.<br> :date: __2020-12-05 04:28:35__
 
@@ -187,8 +189,6 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 
 > Gji<br> :date: __2020-11-18 10:07:28__
 
-> Good as described<br> :date: __2020-11-17 23:58:16__
-
 
 
 #### 3-star reviews
@@ -196,6 +196,12 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="gov.pa.covidtracker 3 reviews"/>
 </p>
+
+> The app is simple enough to understand, but the methodology of the Public Health department makes the app useless. I am covid positive, and cannot "sound the alarm" through the app without a special code that was never given to me. So how is the alert system supposed to work if I can't alert anyone??<br> :date: __2020-12-10 06:03:19__
+
+> I like the information but the numbers don't match up to what the state reports on the website or what the news reports. The app is saying that there were over 7,200 new cases yesterday but a news website is reporting over 8,700.<br> :date: __2020-12-10 03:03:47__
+
+> I guess ok have not had any alerts yet thank God<br> :date: __2020-12-05 23:58:01__
 
 > It does not appear to follow me via GPS, i live in lancaster but work all over the Philadelphia area and the app seems to only use the default county selection (unless i missed something). Makes it pretty useless for anynone that travels in PA.<br> :date: __2020-11-30 23:33:58__
 
@@ -211,12 +217,6 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 
 > I don't know about this but, it is installed anyway.<br> :date: __2020-11-10 20:12:31__
 
-> Kinda useless unless everyone has it. Few do. ~340,000 users at the time of writing. The state has a lot more people than 340,000.<br> :date: __2020-10-30 18:03:10__
-
-> I cannot enable/activate the Exposure Alert function. I have an Android One Moto-x 4. It uses a VoIP phone number from Republic Wireless as its primary number but switches behind the scenes to a T-Mobile number to relay phone calls and texts when the Internet is unavailable.<br> :date: __2020-10-29 16:25:27__
-
-> Bug: Cannot update/add symptoms after selecting "no symptoms" for the day. I like to check in in the mornings, but one day I checked in with "no symptoms" and later in the day felt unwell; I wanted to report my symptoms but apparently could not since I had already checked in with no symptoms. Seems like a glaring oversight. Otherwise, it's a good looking app with a solid premise.<br> :date: __2020-10-21 05:06:06__
-
 
 
 #### 2-star reviews
@@ -224,6 +224,8 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="gov.pa.covidtracker 2 reviews"/>
 </p>
+
+> The info on it is useful. But the app itself seems to shut off my Bluetooth on its own. After downloading the app my Bluetooth never stays on. I Uninstalled the app yesterday and my Bluetooth stays on. I use my Bluetooth for other things, so I can't use the app until they fix that.<br> :date: __2020-12-08 20:10:14__
 
 > Doesn't really help After testing positive, i never received my 6 digit code. So I'm sure the alerts are inaccurate<br> :date: __2020-11-29 14:49:09__
 
@@ -243,8 +245,6 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 
 > There are no notifications of other people.or places near by<br> :date: __2020-10-30 03:22:19__
 
-> This app only works if people report their symptoms. So if no one does then you know if you've come in contact with anyone with the Chinese virus.<br> :date: __2020-10-26 18:36:59__
-
 
 
 #### 1-star reviews
@@ -253,24 +253,24 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="gov.pa.covidtracker 1 reviews"/>
 </p>
 
+> Lol are they gonna make a flu and cold virus tracker also? 🤣<br> :date: __2020-12-13 14:00:58__
+
+> App drains my phone battery really fast. I had to uninstall it.<br> :date: __2020-12-13 12:21:18__
+
+> Its just a buch of made up nubers and it trakes you do you self a fever and dont waste the space on your phone it just gives you not real nubers and states<br> :date: __2020-12-11 00:52:52__
+
+> Not updated enough to be useful<br> :date: __2020-12-10 15:06:16__
+
+> Doesn't work on rooted phones. Developer cares more about the health of my phone than covid.<br> :date: __2020-12-09 23:23:12__
+
+> Biggest political scam in history! #ScamDemic2020<br> :date: __2020-12-09 02:31:28__
+
+> It is a waste of time, false data.<br> :date: __2020-12-08 06:06:17__
+
+> I can't believe the amount of people that are this stupid....<br> :date: __2020-12-07 20:52:05__
+
+> Error code 104. I have tried multiple times to install and Uninstaller the app but each time I click continue on the 2nd screen for sharing data analytics, I keep getting "sorry that didn't work properly. Error code 104. Please try again"<br> :date: __2020-12-07 18:50:29__
+
 > The only advantage to this app is immediate information. However, I am not convinced that is accurate. I realize that this app relies on participants checking in..... but it seems extremely suspect... With the extremely rising cases in this county and with myself coming in to contact with 10 times the population of this county and I haven't been close to even one person with symptoms???? Very strange.using this app I need to keep my phone on charge because my phone only last 3 hours on standby.<br> :date: __2020-12-05 04:53:23__
-
-> Doesn't make any sense, why do we need to wear a mask in public if someone from the democratic party does not? There's employees in several different stores like walmart not wearing these masks yet I've got too?? And why haven't the store's like Coal Township Weis been reported for the 10 plus employees who tested positive? I know people who wore the mask and still tested positive for it.<br> :date: __2020-12-03 23:54:49__
-
-> Installed the app on my Moto Z4, and as i was going through the initial set up, I got the error message "Sorry, that didn't work properly (error code 1002 Please try again." I tried a bunch more times and got the same message, and even uninstalled and re-installed and got the same message<br> :date: __2020-12-02 16:37:22__
-
-> I feel it shouldn't be optional for someone to register that they have covid. I think it should be mandatory by the county or state to enter everybody who's been tested positive for the virus. We're trying to keep healthy and fight covid, so none of that should be optional to an individual. If you have covid then people should know to make sure others doesn't get exposed!<br> :date: __2020-12-01 21:38:34__
-
-> Its a hoax<br> :date: __2020-12-01 06:02:09__
-
-> Update: Nov 30, 2020 - STILL failing safetynet.... Please remove Safetynet. By not allowing rooted devices, you are endangering everyone.<br> :date: __2020-11-30 18:05:30__
-
-> Stop calling it covid technically it's CoVi D-19 not COVID-19 so START CALLING IT CORONAVIRUS D-19 OR Covi<br> :date: __2020-11-28 22:25:45__
-
-> Trash. Let.me.hack your phone. No legit updates. You would.think they come up positive it would show up.<br> :date: __2020-11-28 01:04:19__
-
-> Fear mongering with nothing to back it up.<br> :date: __2020-11-26 02:02:35__
-
-> Won't completely install<br> :date: __2020-11-26 00:21:53__
 
 

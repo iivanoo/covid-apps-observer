@@ -186,25 +186,25 @@ The LiveHealth Online Mobile app has been installed by more than **500000** time
 <img src="5_star_reviews_wordcloud.png" alt="com.americanwell.android.member.wellpoint 5 reviews"/>
 </p>
 
-> Super easy great service<br> :date: __2020-12-04 15:30:44__
+> Instead of waiting two hours at an urgent care center I waited five minutes at home.<br> :date: __2020-12-13 15:29:54__
 
-> Excellent & timely. Beats waiting rooms !<br> :date: __2020-12-01 15:51:03__
+> Excellent service<br> :date: __2020-12-12 20:31:18__
 
-> Such an easy streamlined service. So much better than getting out and waiting at a clinic<br> :date: __2020-11-29 18:51:42__
+> Doctor was very friendly and understood what I am going thru!<br> :date: __2020-12-12 15:31:51__
 
-> Excellent<br> :date: __2020-11-28 18:39:35__
+> Its very very easy and convenient! Love it!<br> :date: __2020-12-11 02:45:46__
 
-> Waiting room was approx 5 min. Dr was very nice and thorough. I will definitely it again if needed.<br> :date: __2020-11-28 15:08:09__
+> Very convenient! Dr was very caring and concerned. It made getting care so easy when I may not have gone through the hassle to make and go to a Drs office because my time is extremely limited and I'm nervous about exposure. Thank you!<br> :date: __2020-12-10 16:49:16__
 
-> Awesome!!!! They are the most professional and experienced group of health care experts. I recommend anyone to give these people with letters after their names a try.<br> :date: __2020-11-27 06:31:14__
+> Short wait time informative and attentive to my concerns expressed definitely eased my anxiety and i feel a lot more confident in a positive outcome for my medical problem thank you this is such a wonderful tool<br> :date: __2020-12-09 15:46:56__
 
-> The Dr was very kind<br> :date: __2020-11-27 05:31:53__
+> The Dr. explained everything in great detail that I could understand. And answered all questions I had.<br> :date: __2020-12-09 05:39:57__
 
-> GREAT! This was the most convenient thing I've ever tried. The doctor was so welcoming, I felt very comfortable. I would rather use this anytime then actually having to go to an actual office. This is fast, efficient, convenient. I'm just so pleased.<br> :date: __2020-11-27 03:07:19__
+> I love this app. I needed to see a doctor virtual and it was really great. They are great doctors and they helped me. I am so excited to be using this app to get medical help and I can do it from home.<br> :date: __2020-12-08 14:49:39__
 
-> love it...would recommend this to everyone<br> :date: __2020-11-25 20:01:56__
+> Easy to use. Very quick. This is the way to do it.<br> :date: __2020-12-07 21:00:43__
 
-> So convenient, when your not feeling well who wants to be in emergency room...<br> :date: __2020-11-25 07:10:39__
+> Very kind Doctor, and I love telehealth<br> :date: __2020-12-07 03:20:23__
 
 
 

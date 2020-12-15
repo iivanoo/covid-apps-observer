@@ -192,6 +192,10 @@ The Intermountain Connect Care app has been installed by more than **100000** ti
 <img src="5_star_reviews_wordcloud.png" alt="org.intermountainhealthcare.android.connectcare 5 reviews"/>
 </p>
 
+> This has been a reliable app. It's so nice getting to see a doctor right from my house.<br> :date: __2020-12-12 20:31:42__
+
+> Great experience<br> :date: __2020-12-09 05:47:31__
+
 > I'm very happy with connect care, they help me right away😊😊😊<br> :date: __2020-11-13 22:42:02__
 
 > Good!<br> :date: __2020-11-07 01:23:19__
@@ -207,10 +211,6 @@ The Intermountain Connect Care app has been installed by more than **100000** ti
 > Excellent<br> :date: __2020-10-02 03:05:22__
 
 > Love getting instant care and seeing my regular doctor at a distance. Perfect for quick care<br> :date: __2020-09-30 08:10:45__
-
-> Fast and reliable. Would use again.<br> :date: __2020-09-24 00:56:36__
-
-> Wonderful direct care and right in my own home. App is very intuitive and easy to use.<br> :date: __2020-09-24 00:45:52__
 
 
 
@@ -248,6 +248,8 @@ The Intermountain Connect Care app has been installed by more than **100000** ti
 <img src="3_star_reviews_wordcloud.png" alt="org.intermountainhealthcare.android.connectcare 3 reviews"/>
 </p>
 
+> Risky, the PA I got said that it didnt look like an allergic reaction and said to go to insta care. I did and the provider said I was an allergic reaction. 59 dollars to 173<br> :date: __2020-12-07 19:36:44__
+
 > Easy to use<br> :date: __2020-09-22 13:54:52__
 
 > Ads are set to kill.<br> :date: __2020-06-02 17:28:00__
@@ -265,8 +267,6 @@ The Intermountain Connect Care app has been installed by more than **100000** ti
 > Kind of confusing how to set up the app<br> :date: __2020-03-26 17:05:42__
 
 > I wasn't too impressed. The wait times were comparable to instacare, but at least I didn't have to sit in a waiting room full of sick people for 3 hours. The lady tried to prescribe me amoxicillin when I had marked that I was allergic to penicillin so I know she didn't even look over my file. Works in a pinch though.<br> :date: __2020-03-18 05:43:31__
-
-> It kept kicking me offline so I had to go to my Instacare.<br> :date: __2020-03-14 22:47:01__
 
 
 

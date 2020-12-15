@@ -133,6 +133,8 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 <img src="5_star_reviews_wordcloud.png" alt="au.gov.health.covidsafe 5 reviews"/>
 </p>
 
+> Very very helpfull<br> :date: __2020-12-07 22:25:26__
+
 > To keep me safe, I like this App active at all times.<br> :date: __2020-12-03 14:22:52__
 
 > A good use of technology to help reduce the spread of this disease.<br> :date: __2020-12-02 17:43:17__
@@ -151,8 +153,6 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 
 > Amazing app they can track you if you have covid-19 or not<br> :date: __2020-11-22 01:09:39__
 
-> Keeps you informed everyday<br> :date: __2020-11-17 16:51:27__
-
 
 
 #### 4-star reviews
@@ -160,6 +160,14 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="au.gov.health.covidsafe 4 reviews"/>
 </p>
+
+> Y ?<br> :date: __2020-12-10 10:29:29__
+
+> Covid safe turns itself off every day. How can l keep it on?<br> :date: __2020-12-09 03:37:58__
+
+> I tried to order a pizza twice but it didnt work. I just called the store instead.<br> :date: __2020-12-06 05:44:56__
+
+> no need t have used<br> :date: __2020-12-06 05:15:41__
 
 > Q wa,again. Q<br> :date: __2020-12-05 04:58:27__
 
@@ -173,14 +181,6 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 
 > A m still in when l look at spinning wheel okay?..<br> :date: __2020-10-27 02:35:54__
 
-> 👍👍👍👍👍<br> :date: __2020-10-26 05:38:58__
-
-> Seems good, doesn't drain my battery. It would be good to see the app show how many daily cases in each state, not just the total of all states.<br> :date: __2020-10-24 23:07:32__
-
-> A Xxxooo io<br> :date: __2020-10-17 00:00:40__
-
-> ⁴is a great way to start your ml and 6th or even more<br> :date: __2020-10-16 07:23:46__
-
 
 
 #### 3-star reviews
@@ -188,6 +188,12 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="au.gov.health.covidsafe 3 reviews"/>
 </p>
+
+> it is, xv 2s x2 v<br> :date: __2020-12-13 20:38:43__
+
+> Don't see that it has achieved anything.<br> :date: __2020-12-11 15:22:44__
+
+> Its a battery drain maybe since last update? I can have a full battery at 2pm then 20% at 4pm when my phone has done nothing. This app is the only one listed as any significant battery drain. Never used to be this way but I have to keep it off. Don't like travelling home at night with no phone.<br> :date: __2020-12-10 14:54:01__
 
 > Thank you<br> :date: __2020-12-04 23:58:14__
 
@@ -203,12 +209,6 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 
 > Keeps telling me that I need to allow location but, in the app, it tells me it is operating properly.<br> :date: __2020-11-16 03:33:55__
 
-> It's beyond belief to wait for 15mins of close contact with a positive case before contact tracing is actioned.<br> :date: __2020-11-16 02:19:19__
-
-> Good ar<br> :date: __2020-11-09 00:53:10__
-
-> How can this app be using more than 41% of my phone's battery??? This is ridiculous<br> :date: __2020-11-07 12:14:29__
-
 
 
 #### 2-star reviews
@@ -216,6 +216,8 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="au.gov.health.covidsafe 2 reviews"/>
 </p>
+
+> No matter what I do the app always turns off.<br> :date: __2020-12-06 22:44:48__
 
 > My android app refuses to download the current state of covid cases. I have to go to Google to find out. It is annoying and frustrating<br> :date: __2020-12-04 21:20:54__
 
@@ -235,8 +237,6 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 
 > Further improvement needed to minimise drainage of battery. The app is on 24/7 in the background to constantly check whether it is active. I need not to turn it on while inside my home to safe on battery power. Areas for improvement - have a button to turn the app on or off to save battery power - disable the function to constantly checking whether it is active<br> :date: __2020-11-20 22:24:11__
 
-> Something need to be done to improve this Apps as it goes to inactive by itself without warning and need my constant awareness to check whether it is still active with the green icon. It just defeats the purpose if it does not works as it required to.<br> :date: __2020-11-20 07:45:17__
-
 
 
 #### 1-star reviews
@@ -245,24 +245,24 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 <img src="1_star_reviews_wordcloud.png" alt="au.gov.health.covidsafe 1 reviews"/>
 </p>
 
-> Useless app<br> :date: __2020-12-05 18:09:18__
+> Doesn't work on my phone. Oppo Reno z<br> :date: __2020-12-13 21:34:41__
 
-> Can't understand<br> :date: __2020-12-05 11:18:04__
+> App contains 13 thousand cases of battery drainage , I tried getting a mask for my oppo phone but it still didn't fix the problem # uninstalled.<br> :date: __2020-12-13 09:27:31__
 
-> Rubbish app very user unfriendly<br> :date: __2020-12-05 05:54:36__
+> Cant install. Doesnt recognise my mobile number. Absolute joke.<br> :date: __2020-12-13 08:53:54__
 
-> a bugger to install...<br> :date: __2020-12-04 14:54:37__
+> App not active unless battery optimization is disabled. Unfortunately my phone turns optimization back on again every time I disabled it. It should be "set and forget" instead of having to do this every time I am going out. No good as it is.<br> :date: __2020-12-13 08:01:34__
 
-> Using 29.7% of my battery charge<br> :date: __2020-12-04 12:03:58__
+> Keeps stopping regularly, throughout the day<br> :date: __2020-12-13 05:51:25__
 
-> Have been trying to download this app for the past 3 hours.<br> :date: __2020-12-04 11:45:31__
+> George Orwell is turning in his grave. Wake up Australians and free yourselves from bondage.<br> :date: __2020-12-13 03:18:17__
 
-> On Oppo phone it asks for battery optimisation. You set it on then in a few hours it's not running again.. Poor app on this phone. I've removed it.<br> :date: __2020-12-04 04:46:13__
+> Uses a stupid amount of battery<br> :date: __2020-12-13 02:14:22__
 
-> This is by far the most difficult to manage.<br> :date: __2020-12-04 04:34:35__
+> Massive battery drain on my new Galaxy S10 5G. Uninstalled, battery usage back to normal (had it installed for a week or so prior to the 5 Nov update with no issues, battery issues began after that update).<br> :date: __2020-12-11 06:35:47__
 
-> Cannot make it active<br> :date: __2020-12-04 00:42:02__
+> Does not work on opposite phone when it says active you need to fix this<br> :date: __2020-12-08 06:48:38__
 
-> Ah yes I totally want you to run in the background and drain my battery, and run Bluetooth and drain my battery..... and location services..........<br> :date: __2020-12-03 09:38:55__
+> Nothing wrong with oppo phones. Your oppo is protecting your information and phone processes. This app is invasive and shouldn't rely on 24/7 access. Taking the QR code photo should be suffice. Seems like the government doesn't trust us to do the right thing.<br> :date: __2020-12-06 12:07:26__
 
 

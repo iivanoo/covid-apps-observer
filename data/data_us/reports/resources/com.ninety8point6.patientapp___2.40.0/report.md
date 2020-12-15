@@ -191,25 +191,25 @@ The 98point6 app has been installed by more than **50000** times. At this time, 
 <img src="5_star_reviews_wordcloud.png" alt="com.ninety8point6.patientapp 5 reviews"/>
 </p>
 
-> It works smoothly with no hiccups. Great app & great doctors too!<br> :date: __2020-12-05 03:42:34__
+> The doctor knew what to do for my ear<br> :date: __2020-12-13 01:24:11__
 
-> Easy to use.<br> :date: __2020-12-04 19:04:52__
+> So user friendly and love being able to not have to miss work to get a Dr Appt. Thank you and Highly recommened<br> :date: __2020-12-10 20:25:43__
 
-> Excellent experience with actual physicians!<br> :date: __2020-12-04 06:41:10__
+> App was easy to navigate and use with tele health patient subscription and for participating in a text message based doctors visit. The app disables screen shots apparently for legal reasons<br> :date: __2020-12-10 12:21:20__
 
-> May take a minute or 20 to get a doc, but they're engaged & helpful. Feel like I got more discussion about what was going on then when I've gone into the office.<br> :date: __2020-12-04 00:58:59__
+> DR. Was awesome!<br> :date: __2020-12-09 16:33:55__
 
-> Very helpful and quick<br> :date: __2020-12-04 00:31:51__
+> Very good service. Doctor was helpful and quickly gave my a solution to my problem<br> :date: __2020-12-09 03:12:25__
 
-> You have no idea how awesome this app is !<br> :date: __2020-12-02 05:33:21__
+> Great app! Doctors are very courteous and helpful!<br> :date: __2020-12-07 17:50:25__
 
-> Works great. Simple interface and very efficient!<br> :date: __2020-12-01 22:34:18__
+> So convenient and easy to use, especially when my regular doctor's office is so busy, so I cant always schedule an appointment there in a reasonable time frame.<br> :date: __2020-12-07 16:39:05__
 
-> This app is simple and to the point! There's not much else you can ask for. It quickly connects you with a doctor and is very easy to use. My only suggestion is that I wish there was a dark mode.<br> :date: __2020-12-01 20:53:38__
+> Love this app and the service provided.<br> :date: __2020-12-07 15:24:41__
 
-> Absolutely amazing!<br> :date: __2020-12-01 18:34:53__
+> Extremely easy to use and the doctor was wonderful!<br> :date: __2020-12-06 00:48:08__
 
-> Dope<br> :date: __2020-12-01 17:08:54__
+> I've used this app for a medical emergency and I was treated great. Used it twice and was treated for my condition. The drs are excellent. They can only diagnose what you tell them so be very thorough with your symptoms.<br> :date: __2020-12-06 00:16:55__
 
 
 

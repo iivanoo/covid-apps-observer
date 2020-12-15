@@ -166,6 +166,8 @@ No recent reviews available with 4 stars.
 <img src="3_star_reviews_wordcloud.png" alt="fr.esantebfc.engage 3 reviews"/>
 </p>
 
+> Il faut entrer un code à 4 chiffres envoyé par SMS pour faire fonctionner l'application . Sauf que l'on ne reçoit jamais de sms. Et lorsque vous téléphonez au numéro indiqué vous tombez sur une dame qui ne comprend rien et dit qu'on vous rappelle. Problème résolu après quelques heures. Mais l'application est totalement inutile<br> :date: __2020-12-06 20:38:23__
+
 > Je trouve l'application bien en matière de conseils mais elle me paraît vide et manque de matière<br> :date: __2020-11-26 19:46:55__
 
 
@@ -183,8 +185,6 @@ No recent reviews available with 2 stars.
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="fr.esantebfc.engage 1 reviews"/>
 </p>
-
-> Il faut entrer un code à 4 chiffres envoyé par SMS pour faire fonctionner l'application . Sauf que l'on ne reçoit jamais de sms. Et lorsque vous téléphonez au numéro indiqué vous tombez sur une dame qui ne comprend rien et dit qu'on vous rappelle. Cela ne fait "que" 2 heures, rien...<br> :date: __2020-12-01 13:23:40__
 
 > Cette application ne sert à rien Juste vous faire croire que vous êtes suivis Vous répondez à des questions bien définies, si vous avez d'autres interrogations vous ne pouvez pas poser vos questions. Complètement nul!!!<br> :date: __2020-11-17 08:26:06__
 

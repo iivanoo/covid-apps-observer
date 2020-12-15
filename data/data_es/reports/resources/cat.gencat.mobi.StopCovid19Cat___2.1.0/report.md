@@ -244,6 +244,8 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 <img src="1_star_reviews_wordcloud.png" alt="cat.gencat.mobi.StopCovid19Cat 1 reviews"/>
 </p>
 
+> La app no funcina bien. Cuando voy a hacer el test se queda colgada. La he desintalado y vuelto a instalar y nada. Sin el test no sirve para nada. Despues de la reseña, funciono una vez y ahora otra vez no puedo hacer el test<br> :date: __2020-12-06 21:00:34__
+
 > Fatal<br> :date: __2020-11-18 15:40:14__
 
 > Soy positivo confirmado, y según app no tengo síntomas, además llevo seis días confirmado y no me ha llamado nadie para hacer seguimiento...y quieren controlar el virus... Edito a su respuesta. Econsulta? Hace tres semanas mandé no una , si no , dos econsulta.. sigo esperando respuesta...y dos citas previas para ver si me hacían más caso.. pues tampoco. Por cierto 061 me dijeron que era cosa del cap no de ellos... fabuloso todo.<br> :date: __2020-11-14 14:25:46__
@@ -255,8 +257,6 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 > No se si soy o no positivo pero lo que si sé es que mi compañera de trabajo dio positivo en covid19 y yo estado con ella en contacto como muchos más compañeros y estamos esperando que los rastreadores nos llamen eso sí yo tengo que ir ha trabajar como mis otras compañeras hasta que no nos llamen los rastreadores y si yo soy asintomático como mi compañera que dio positivo y trabajamos ha menos de medio metros junto ha otras 8 o 9 personas más no sé yo si está app es fiable<br> :date: __2020-11-08 17:31:44__
 
 > Vaya test, faltaria preguntar a parte denlos sintomas, si has estado el contacto con personas infectadas, pero bueno a que extrañarse, o61, nefasto, llamadas al cap no hacen ni caso, en fin asi nos va<br> :date: __2020-11-02 10:04:12__
-
-> La app no funcina bien. Cuando voy a hacer el test se queda colgada. La he desintalado y vuelto a instalar y nada. Sin el test no sirve para nada.<br> :date: __2020-11-01 10:11:53__
 
 > No he sido capaz de activar esta aplicación cuando pongo el código que me envían se bloquea y no se puede seguir, arregle la por favor, no nos pidan que colaboremos si nos lo ponen tan difícil<br> :date: __2020-10-30 11:58:30__
 

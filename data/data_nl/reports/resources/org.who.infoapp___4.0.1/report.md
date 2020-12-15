@@ -138,6 +138,8 @@ The WHO Info app has been installed by more than **100000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="org.who.infoapp 5 reviews"/>
 </p>
 
+> Mag ik weten hoe het gaat met Covid 19 op de hele Wereld?<br> :date: __2020-12-11 02:46:57__
+
 > Notification<br> :date: __2020-09-13 04:06:35__
 
 > Ronald groensecheij prins van oranje Nassau<br> :date: __2020-04-19 03:15:56__

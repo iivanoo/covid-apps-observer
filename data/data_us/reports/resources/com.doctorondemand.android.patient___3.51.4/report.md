@@ -191,25 +191,25 @@ The Doctor On Demand app has been installed by more than **1000000** times. At t
 <img src="5_star_reviews_wordcloud.png" alt="com.doctorondemand.android.patient 5 reviews"/>
 </p>
 
-> It was very affective and pretty close to a in person experience. Also saved me some time having to travel to a doctors office. Awesome program, thanks!<br> :date: __2020-12-05 15:25:45__
+> Great app and service!<br> :date: __2020-12-13 15:57:40__
 
-> Quick and easy. A valuable resource to have. Especially now, when it has been impossible to see your actual Dr. due to Covid-19.<br> :date: __2020-12-05 14:41:01__
+> Very nice! Spent $75, sent pictures of my issue, and video chatted with a doctor for 15 minutes. She sent a prescription to my local CVS, and I'm done. No sitting at Urgent Care, or ER for hours, and endangering my health.<br> :date: __2020-12-13 03:22:36__
 
-> Great app!!<br> :date: __2020-12-05 14:35:25__
+> Easy to use<br> :date: __2020-12-13 00:18:06__
 
-> Great Job Eric Corner American<br> :date: __2020-12-05 06:08:31__
+> I love that you don't have to leave your home and the doctor is nice and very fast responding.<br> :date: __2020-12-12 23:33:13__
 
-> So easy<br> :date: __2020-12-05 04:22:21__
+> Great little app.<br> :date: __2020-12-12 21:29:26__
 
-> Very easy, fast and safe from Covid.<br> :date: __2020-12-05 01:19:51__
+> Great doctors<br> :date: __2020-12-12 20:51:17__
 
-> So easy and hassle free<br> :date: __2020-12-05 00:23:11__
+> Used twice so far and for routine proble.s, extremely effective. Love it!<br> :date: __2020-12-12 18:09:17__
 
-> Very detailed and very fast response. Definitely beats going to a clinic and waiting for hours on end.<br> :date: __2020-12-04 23:01:44__
+> Awesome experience.<br> :date: __2020-12-12 17:50:35__
 
-> Great ☺️<br> :date: __2020-12-04 22:43:35__
+> Awesome and kind doctors. Excellent, thorough care. Help getting answers. Top notch!<br> :date: __2020-12-12 16:18:17__
 
-> Great<br> :date: __2020-12-04 21:24:56__
+> Easy to use fast and helpful life saver during this pandemic!<br> :date: __2020-12-12 14:57:31__
 
 
 
@@ -218,6 +218,10 @@ The Doctor On Demand app has been installed by more than **1000000** times. At t
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.doctorondemand.android.patient 4 reviews"/>
 </p>
+
+> I guess its a great app Im just now learning about these Dr.Site Apps you can get a Dr. Over the web now and not have to go in. Before long they will have a scan system on your phone so they can scan your body and see everything. Before or so you dont go to hospitals. Hopefully in the near feuture they can also cure us at home too. Without touching us.<br> :date: __2020-12-12 02:40:24__
+
+> Very helpful. Nice and friendly. Got most pending issue addressed. It was twice the price of a busy visit copay but I'm too sick to drive so it's worth it. Thanks!!<br> :date: __2020-12-11 23:15:40__
 
 > App doesn't find Insurance providers or show accurate copay information initially. You may need to try couple of times.<br> :date: __2020-11-21 21:01:43__
 
@@ -235,10 +239,6 @@ The Doctor On Demand app has been installed by more than **1000000** times. At t
 
 > Easy to use once your all set up, just keep in mind certain things take longer or can't be done via web due to the way it works!<br> :date: __2020-10-28 23:11:27__
 
-> Worked good, even gave a reminder text that your appointment was coming up. Didn't have to leave the house...so nice!!<br> :date: __2020-10-17 03:15:54__
-
-> The app worked exactly as it should however the doctor was only able to prescribe a one month supply of my long term medicine, so I will have to schedule a visit at my primary care doctor anyway. If you have a long term prescription, I suggest skipping this app and just calling your primary care doctor instead.<br> :date: __2020-10-16 14:46:27__
-
 
 
 #### 3-star reviews
@@ -247,9 +247,9 @@ The Doctor On Demand app has been installed by more than **1000000** times. At t
 <img src="3_star_reviews_wordcloud.png" alt="com.doctorondemand.android.patient 3 reviews"/>
 </p>
 
-> Can be improved<br> :date: __2020-11-05 14:46:03__
+> Great providers. But the app is not so good.<br> :date: __2020-12-12 01:48:33__
 
-> Basic needs are great... The DOD company needs to make it so the doctors only have X amount of spots for new patients and a way for existing patients to get their follow ups. Therapy doesn't work if it isn't consistent. A trust and reporte needs to be built to make progress. It is EXTREMELY difficult to get follow-ups with the psychologists.<br> :date: __2020-10-31 15:07:15__
+> Can be improved<br> :date: __2020-11-05 14:46:03__
 
 > Psych will not allow appts for Medicare insured. Also, doctors are not allowed to write prescriptions for controlled substances such as anxiety meds or some psych medications. Should be clearly stated in app<br> :date: __2020-10-28 21:08:45__
 
@@ -260,6 +260,8 @@ The Doctor On Demand app has been installed by more than **1000000** times. At t
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="com.doctorondemand.android.patient 2 reviews"/>
 </p>
+
+> Basic needs are great... The DOD company needs to make it so the doctors only have X amount of spots for new patients and a way for existing patients to get their follow ups. Therapy doesn't work if it isn't consistent. A trust and reporte needs to be built to make progress. Its EXTREMELY difficult to get follow-ups with the therapists for kids any kind of kid appts are difficult to make. Using the app is time consuming. It takes forever to load. The doctors are amazing.<br> :date: __2020-12-11 16:56:32__
 
 > HOW CAN I GET IN COTACT WITH SOMEONE FEOM THE APP, the questions there asking me some i have, my mom, dad, i dont see opetionsa for grandparents or aunts or uncles??? wats up with that. my conditions are know run in my family and all o want is help<br> :date: __2020-11-26 16:51:19__
 
@@ -283,6 +285,10 @@ The Doctor On Demand app has been installed by more than **1000000** times. At t
 <img src="1_star_reviews_wordcloud.png" alt="com.doctorondemand.android.patient 1 reviews"/>
 </p>
 
+> Missed my appointment 3 times apprentley even though I was on hold for 20 minutes I was chargerd $390!.. and when I finnley did get though to someone he prescribed me stuff that could've killed me when I demanded for a refund they refused becouse apprently the doctor had givein help. Are you trying to kill us? Uninstalled 1 star highly not recommended!..<br> :date: __2020-12-12 17:02:24__
+
+> What a let down after seeing this advertised with Dr Phil. He swore absolutely no co-pay for anybody on Medicare. Lie, lie, lie!! cost me 40 bucks. Won't be using this app again<br> :date: __2020-12-09 07:26:50__
+
 > They are not 24/7, I was waiting for video chat doctor and while they estimated time was >5 minutes I waited TEN with no answer, I then closed the app, came back and now I have to wait for an appointment to be able to talk to anybody? This is deceitful, and incongruous with the promotion that a doctor is available 24/7. That is a lie<br> :date: __2020-12-04 12:07:17__
 
 > Absolutely horrible damn app won't even let me get through the registration process to see a doctor every app I've downloaded has been complete garbage especially this one<br> :date: __2020-12-03 12:45:28__
@@ -298,9 +304,5 @@ The Doctor On Demand app has been installed by more than **1000000** times. At t
 > She didn't listen to me.CALL AMBULANCE.. Your havingaheartattack. . I have had this many times.. wanted her thoughts.. she wouldn't listen to me .her answer was Call The Ambulance immediately!!! It would be different if I didn't know what was going on.. I needed advice... I wasn't having a heart attack.. you really should LISTEN... sorry but I did not like this person at all!!!<br> :date: __2020-11-29 01:38:46__
 
 > I screwed up and missed my first appointment and now all the money I had left is gone! You'd think an app like this would have some forgiveness and compassion for people looking for help. Total garbage<br> :date: __2020-11-27 20:44:19__
-
-> To expensive<br> :date: __2020-11-27 00:03:23__
-
-> I can't find my doctor on here. Very upset<br> :date: __2020-11-26 01:48:29__
 
 

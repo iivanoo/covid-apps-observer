@@ -186,6 +186,8 @@ The Care19 Alert app has been installed by more than **10000** times. At this ti
 <img src="3_star_reviews_wordcloud.png" alt="com.proudcrowd.exposure 3 reviews"/>
 </p>
 
+> From what it says when you check it, it only has 2 exposure checks per day. I do not see how it can be at all accurate if it only checks twice a day??<br> :date: __2020-12-10 14:20:51__
+
 > It thinks I'm in North decode and Wyoming but I live in utah.<br> :date: __2020-11-29 20:27:49__
 
 > It worked when I first downloaded it now it stopped working and can't get it to work at all. I tried everything. How can I get it to work please help<br> :date: __2020-11-24 03:25:10__

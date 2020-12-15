@@ -1,5 +1,101 @@
 [
     {
+        "reviewId": "gp:AOqpTOEj8GQbtXIe5hKfo5mKwKRjOZO55ngrkOICd-8KdlRqV4P5JM-qIp-ykeLHkOG2isOaXGBlwWdGRY5hCw",
+        "userName": "Kim Briggs",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgXaajay4pYg8z2uux75v7tefG_4xu8eLyM0_gleg",
+        "content": "It's better than the physical ID. The clarity is amazing!",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.0",
+        "at": "2020-12-12 06:47:27",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFK-lusycbMDgStf60KTQVIlw2zuw-ZPTuUlEXB-3k1a-m_9rikLYHDqqHfiFFVh0g8mWmXEuRE5hBzLQ",
+        "userName": "MARCOS ORTEGA",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgU8lN0b1iO5q3E3mVG9z4I1In0R8uuse7IQnwtRg",
+        "content": "Good",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.0",
+        "at": "2020-12-11 15:53:14",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHzQsbtSumeFJnckRYqiMb_SvsBqddISc6Ycidu9cUTFbk9OB568bxQPlhByKU3SlySFeqxNd8Q3Gy4Gg",
+        "userName": "Kyle A",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiN47HeB5sxedwkbKy4VhYEV_gN6FgzHiIdqlQEv8o",
+        "content": "Looks like it would be a great app, if it worked. . . App crashes every time I scan the back of my license. I tried restarting the phone, not having any other apps in use, no luck.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.0",
+        "at": "2020-12-09 19:20:12",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGPq_hb4mspKf_MFryjuLpv-pjIrUaNipy5qRrGyGDtYF3iZQoAuilW0lBDkJkkkH5Uf0EIwmfYXaXkMw",
+        "userName": "dustin wilkins",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiePw5EnxURJwFQ283gsRvUBWnIqE7EJmD8pbKYyA",
+        "content": "Only 4 stars because the facial recognition camera is to sensative everything else offered is fantastic",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2020-12-09 16:17:30",
+        "replyContent": "Thank you for the 4-star review, Dustin! We are continually working to improve the facial recognition.",
+        "repliedAt": "2020-12-01 21:27:12"
+    },
+    {
+        "reviewId": "gp:AOqpTOFew1IIkpa7dZgw91XYBAo-2s61p6PBdLgJnW44qjALvLNm_cA6UqOIFfh4DmMd75SeEKqwt7hQ-b09pA",
+        "userName": "Dave Sturtz",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgFxokmySOPp7MOFmil1DKCVrFQyKhiCTE5onkN",
+        "content": "This app is a good idea which is not ready for Prime Time. The app is hard to get set up. One can create an account, but then one needs the \"Authentication\" number which is supposedly emailed. I found that less than 10% of the time did I actually get an email. OK, fine, I eventually got one that worked, and got logged on. THE PROBLEM IS THAT IF YOU GET LOGGED OFF, YOU YOU NEED ANOTHER \"AUTHENTICATION\" EMAIL TO GET LOGGED ON AGAIN, AND THEY MOSTLY DON'T ARRIVE. In addition, this app is supposed to be able to be used on the roadside to touchlessly give one's info to a law enforcement officer. If the emails don't reliable arrive to a home with a fast wired connection, think what problems would arise on the side of a remote road somewhere in rural Colorado. And imagine telling a State Trooper \"just a minute, I'm waiting for the email.\" As long as the app requires an unreliable \"Authentication\" I certainly can't recommend it. Shouldn't authenticating once be enough?",
+        "score": 1,
+        "thumbsUpCount": 2,
+        "reviewCreatedVersion": "4.0",
+        "at": "2020-12-08 00:00:46",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGUk_aXt83QaiNmyO1SD3S2pwMHbVbEC2mqbV15sj7YFEWGsj0o9ek3T5Xgt5wDf762AM5OUbkjaRNe2A",
+        "userName": "Melissa Battles-Maynard",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj3e45aYdAWpzn7CPbF41QytfiZ4CJAaaNuMErhq5A",
+        "content": "Good app",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.0",
+        "at": "2020-12-07 12:46:28",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOEiXUmjdogI6qZg6wO3xn6tJ5lZtla1yD_FVS-JGh_ZJtCbmxYskesk6qSZgoqhbv6XFDPk5PgBk0MD2w",
+        "userName": "Electric Sammy",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhT5d8dSEw1uoYH7dwWpLSkwyrlgGDigwOjmzI2",
+        "content": "This app is unbelievable!! So convenient. Easy to use and set up. Thank you MyColorado for making MyColorado fun.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.0",
+        "at": "2020-12-07 04:22:31",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGeja9GCJxvFHOP9vhz5xf88Smcf2p3AMTvS-fshkNOBdBvwXJsBGGI5smp24eOTXzXyvjpE7OCe2hEHQ",
+        "userName": "Tom Ramstad",
+        "userImage": "https://play-lh.googleusercontent.com/-p4I9Y7gs-TU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclP2J6oAnlqccA_js8T6AykDGQUWg/photo.jpg",
+        "content": "ID scanner is hot garbage, can't create account",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.0",
+        "at": "2020-12-06 01:51:33",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOH3IYGn6E061xA04zrmZnakm33t50_EzQVOjSw1Zpb5N2ycoo_mJ6JVGTu0mRcN7fJQke46gesNAxrowA",
         "userName": "Shaun White",
         "userImage": "https://play-lh.googleusercontent.com/-tbg8TseJB90/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclqDMwjmoThMn5IJHbzfaQiNddI2g/photo.jpg",
@@ -29,7 +125,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-dXXpXHckg80/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckRsY8tTZzUEwurPw8U3r9Cdb83xg/photo.jpg",
         "content": "Not too bad to set up. Maybe an address change I submitted will take, since the app didn't recognize one from April. Have to see how useful it is, since I am old enough I don't need id in bars and restaurants. Selfie was the most difficult part.",
         "score": 5,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "4.0",
         "at": "2020-12-02 23:45:05",
         "replyContent": null,
@@ -50,7 +146,7 @@
     {
         "reviewId": "gp:AOqpTOEkBQwwGqxsHIZy35F57t4K_CHcp5bd3iGGwJeGQQ78TCn4nrDGpCPrKNFbHZp54J6bETrxi9WmcIq85w",
         "userName": "Timothy W Jansen",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjVZePArS0fWtNxkD13CuvqPTMt063TkW7yVLO-",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gjucf2a6O00v--2V10WCG-InHD9HOTpVCfyFc88Vno",
         "content": "Umm finally, they have all the information anyway we may as well benefit from it somehow.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -154,18 +250,6 @@
         "at": "2020-11-17 19:24:28",
         "replyContent": "Hi Monica, I am sorry you have experienced problems with the app. We are looking into this issue and expect to have an answer soon.",
         "repliedAt": "2020-12-01 21:27:43"
-    },
-    {
-        "reviewId": "gp:AOqpTOGPq_hb4mspKf_MFryjuLpv-pjIrUaNipy5qRrGyGDtYF3iZQoAuilW0lBDkJkkkH5Uf0EIwmfYXaXkMw",
-        "userName": "dustin wilkins",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiePw5EnxURJwFQ283gsRvUBWnIqE7EJmD8pbKYyA",
-        "content": "Only 4 stars because the facial recognition camera is to sensative",
-        "score": 4,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": null,
-        "at": "2020-11-17 00:30:02",
-        "replyContent": "Thank you for the 4-star review, Dustin! We are continually working to improve the facial recognition.",
-        "repliedAt": "2020-12-01 21:27:12"
     },
     {
         "reviewId": "gp:AOqpTOElIOHdlSgyx5Ubj305hC7a3Zi3ReproRznXooHOVs1k_1PlOVc70QOnHC4Bavd3siCshjaeFN3BH3JBA",
@@ -2150,7 +2234,7 @@
     {
         "reviewId": "gp:AOqpTOGg2MNCTKCgA9zUgPM9v_D3MDzUtSvl_cP2dCk_grWYlSjriwBbpKgpvmgLpai_QC6f4yAEj9XoX3B3Rg",
         "userName": "Greg Martin",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgH4fDiU1YmTc6UEllLy3KRaKa841c-jXCDVyRTDhM",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiQqm15hwTwOjcNmS9w0O2MHX-ABI1u15hoRSUrqu0",
         "content": "Could not get it to work no matter how hard I tried with good Wi-Fi good connectivity? Still trying to get it to work won't workscan window will not take picture of Colorado ID",
         "score": 1,
         "thumbsUpCount": 3,

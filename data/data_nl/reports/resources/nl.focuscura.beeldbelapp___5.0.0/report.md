@@ -201,25 +201,25 @@ The Luscii app has been installed by more than **100000** times. At this time, *
 <img src="5_star_reviews_wordcloud.png" alt="nl.focuscura.beeldbelapp 5 reviews"/>
 </p>
 
+> Goed contact, voelt veilig<br> :date: __2020-12-12 10:15:21__
+
+> Prima ap<br> :date: __2020-12-11 19:21:24__
+
+> Gaat heel goed .alleen jammer dat er om circa 20.00 al een boodschapje komt dat de waarden niet zijn ingestuurd, en dan bedoel ik die van voor het slapen. Nou ik ga pas rond 23.30 naar bed ,dus voor die tijd prik ik niet. De rest word steeds meteen doorgestuurd na het prikken.Dus dat vind ik wel een beetje irritant. Voor de rest alles perfect.<br> :date: __2020-12-10 22:21:10__
+
+> Zeer duidelijke goed werkende app welke door het ZH goed en juist wordt gemonitored. En duidelijke chat app. Top.<br> :date: __2020-12-08 10:07:04__
+
+> Goed<br> :date: __2020-12-08 09:46:22__
+
+> Duidelijk<br> :date: __2020-12-07 10:14:45__
+
+> Handig voor hoe je je voelt!<br> :date: __2020-12-07 10:04:09__
+
+> Goed<br> :date: __2020-12-05 18:03:36__
+
 > Uit steken en goed<br> :date: __2020-12-03 10:47:54__
 
 > Goede site werkt perfect<br> :date: __2020-12-01 09:01:40__
-
-> Deze app geeft mij een gevoel van veiligheid. Het gevoel dat er over je schouder word meegekeken.<br> :date: __2020-11-23 10:32:54__
-
-> Vertrouwd , geef een goed gevoel de controle.<br> :date: __2020-11-23 09:34:44__
-
-> Zeer makkelijk in gebruik, fijne interface. Ook voor ouderen zou het makkelijk kunnen zijn. Fijn dat er ook ruimte voor opmerkingen is en dat ze dat ook echt lezen vanuit de thuismonitoring en je gebeld wordt indien dat nodig is of als je een mindere dag hebt. Alleen maar positief over de app! Voor mijzelf zou het een extra verbetering kunnen zijn als ook je hartslag erin gezet kan worden aangezien die bij mij soms heel erg hoog is en dat heeft weer effect op benauwdheid en andersom. Tip!<br> :date: __2020-11-22 12:21:49__
-
-> Werkt gewoon<br> :date: __2020-11-20 17:35:14__
-
-> Jullie hoeven geen bedankte-mail te sturen.<br> :date: __2020-11-20 08:34:29__
-
-> Goede en makkelijke controle op afstand<br> :date: __2020-11-19 08:30:11__
-
-> Prima App ,maak er zelf gebruik van<br> :date: __2020-11-18 20:05:40__
-
-> Prima 👌<br> :date: __2020-11-17 09:44:31__
 
 
 
@@ -228,6 +228,8 @@ The Luscii app has been installed by more than **100000** times. At this time, *
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="nl.focuscura.beeldbelapp 4 reviews"/>
 </p>
+
+> Professioneel<br> :date: __2020-12-07 10:21:53__
 
 > Fijne makelijker app<br> :date: __2020-12-04 06:43:04__
 
@@ -246,8 +248,6 @@ The Luscii app has been installed by more than **100000** times. At this time, *
 > Mis behandeladviezen met betrekking tot zuurstofgebruik. Mis glucosebepaling bij corticosteroidengebruik. Mis ademhalingsfrequentie. Verder simpel en intuïtief<br> :date: __2020-11-17 08:44:09__
 
 > Moet nog eraan wennen<br> :date: __2020-11-16 12:54:38__
-
-> Ik mis de vraag over smaakverlies<br> :date: __2020-11-12 16:27:16__
 
 
 

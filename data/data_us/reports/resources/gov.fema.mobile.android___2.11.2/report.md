@@ -163,6 +163,16 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 <img src="5_star_reviews_wordcloud.png" alt="gov.fema.mobile.android 5 reviews"/>
 </p>
 
+> This is the best so easy to use<br> :date: __2020-12-09 13:53:21__
+
+> If you dont have this, i hope your affairs are in order! The warnings and notices are timely and accurate (for now, we'll see how Mr Biden tweaks things)<br> :date: __2020-12-09 03:49:42__
+
+> This is a must have app! Download and check it out for a month or two. This is one app that will always be on my phone!<br> :date: __2020-12-07 08:19:38__
+
+> Seems to be pretty decent. I live in Texas, so I already have apps for weather/tornado warnings. This app has alerts for other life threatening things like disease and nuke power plant failures. I watch less and less TV these days, without this app I might not know about these other alerts. It's simple to use, and thankfully, seldom used. Lets all hope it stays that way. Thanks for the app.<br> :date: __2020-12-06 21:12:50__
+
+> Fema saves the world. Just that.... Enough said<br> :date: __2020-12-06 08:13:27__
+
 > Great great<br> :date: __2020-11-29 10:37:04__
 
 > Very good 👍👍<br> :date: __2020-11-20 07:42:31__
@@ -172,16 +182,6 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 > what does this stand for... anyway ty and lúvu<br> :date: __2020-11-17 07:33:50__
 
 > Great<br> :date: __2020-11-15 19:38:04__
-
-> A very helpful resource.<br> :date: __2020-11-11 21:17:34__
-
-> It should always be an app like this for all phone carriers<br> :date: __2020-11-04 18:51:35__
-
-> Major Investment To Have As An App /\ Highly Informative /\ Go Customize In Settings And Enjoy Being In The Knowing Before Even Local News ~ DJ Of Greater Boston Area Approves ~<br> :date: __2020-11-04 11:25:01__
-
-> Love<br> :date: __2020-10-23 06:12:58__
-
-> Easy and great ti yse...Thank you FEMA<br> :date: __2020-10-21 15:38:31__
 
 
 
@@ -247,6 +247,8 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 <img src="2_star_reviews_wordcloud.png" alt="gov.fema.mobile.android 2 reviews"/>
 </p>
 
+> Super irregular performance and notifications. I cannot rely on this for requested information or results<br> :date: __2020-12-12 02:22:01__
+
 > Need more control over types of alerts. Don't need to be woken from deep sleep at 3 am for fog warning, for instance. Fog won't harm me when safe in bed in sturdy house unless I hurt myself being startled in my sleep by loud notification.<br> :date: __2020-11-29 09:17:51__
 
 > No change. Even after clearing cache, rebooting phone, etc still getting multiples of same exact alerts and several alerts with little or no lead time. That's probably FEMA but still downgrades usefulness. So problematic that other weather apps are needed for safety.<br> :date: __2020-11-15 22:38:27__
@@ -264,8 +266,6 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 > Alerts are way too excessive.. It's a little windy in my area and I get notifications what feel like every 5 minutes. Had to delete the app because it was so annoying.<br> :date: __2020-04-10 21:47:54__
 
 > It's a weather alert app. I'm getting constant weather alerts during a pandemic lockdown<br> :date: __2020-03-29 17:05:00__
-
-> When I click on "Alerts," I get a message saying that I have to enable them in the app settings. But when I get into the settings, I can't find anything that does that.<br> :date: __2020-03-21 20:10:32__
 
 
 

@@ -246,6 +246,8 @@ The Smittestop app has been installed by more than **500000** times. At this tim
 <img src="2_star_reviews_wordcloud.png" alt="com.netcompany.smittestop_exposure_notification 2 reviews"/>
 </p>
 
+> Giver ingen beskeder medmindre man aktivt går ind i app'en.<br> :date: __2020-12-06 10:33:57__
+
 > Registrerer ikke mange kontakter... Og virker ret ligegyldig - men har den da tændt 24 timer i døgnet<br> :date: __2020-10-19 08:55:27__
 
 > It is not compatible with my (old) mobile<br> :date: __2020-10-09 13:49:57__
@@ -264,8 +266,6 @@ The Smittestop app has been installed by more than **500000** times. At this tim
 
 > The biggest problem with the cov19 Bluetooth API is that you need to have location on. I don't want to enable GPS all the time, as the app says it self, all apps that have access to location, can use it while enabling location for this app. Don't want GPS enable all the time. I known it's not the apps fault, but googles. Still has a big affecte on who gonna use this app.<br> :date: __2020-08-31 17:20:46__
 
-> Funktionelt endelig ved at være på plads. Dog trækker omstændighederne og undfangelsen MEGET ned. 20 mio. kroner for en closed source app der kunne være bygget for under 100.000 på samme tid. Måske skulle man også sætte studentermedhjælper, der faktisk har bestået en sproglig eksamen, til at besvare anmeldelser og henvendelser.<br> :date: __2020-08-15 19:23:19__
-
 
 
 #### 1-star reviews
@@ -273,6 +273,12 @@ The Smittestop app has been installed by more than **500000** times. At this tim
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="com.netcompany.smittestop_exposure_notification 1 reviews"/>
 </p>
+
+> Haven't had the app open for a few months, because I thought I would get notified if exposed. Opened it today and got a notification that I have been exposed. I know it couldn't have been from today, so that exposure could have been weeks or months old and I wouldn't know it. The app need to push notifications when not open to actually work! I'm gonna get tested, but in reality I could have exposed so many people without knowing it!<br> :date: __2020-12-13 11:12:02__
+
+> The only reason to install the app is to be notified about the infection around. If the app does not send the push notifications, but you have to enter it to check that, it makes this app completely useless!<br> :date: __2020-12-11 18:41:06__
+
+> Appen giver kun besked om mulig smitte hvis man åbner appen og altså ikke — som forventet — ved notifikation. Desuden er der mulighed for at den holder op med at virke ved inaktivitet. Den bør derfor åbnes dagligt. Dette er IKKE en 'download-aktiver-og-glem' app.<br> :date: __2020-12-09 22:13:52__
 
 > Absolutely horrendous design that you need to open the app to force it to check for exposures. I can't believe something as essential as this app doesn't work in the background all the time, on all unmodified Android phones.<br> :date: __2020-12-02 21:32:09__
 
@@ -287,11 +293,5 @@ The Smittestop app has been installed by more than **500000** times. At this tim
 > Helt uduelig og ubrugelig app. Ikke nok funktionalitet for at kunne bruges til smittesporing af brugeren, og samtidig spild af ressourcer at have kørende på telefon/mobil-enhed. Afinstalleret !!!<br> :date: __2020-11-22 07:18:34__
 
 > Does not let le report infection.<br> :date: __2020-11-21 08:08:10__
-
-> No checks in two weeks according to phone settings. Open app to find it has been updated in the background and requires renewed consent to activate again - without prompting me!<br> :date: __2020-11-21 01:31:16__
-
-> Appen holdt op med at virke ud af det blå! Jeg opdagede kun tilfældigt at den var blevet slået fra.<br> :date: __2020-11-12 14:43:15__
-
-> Closed source and no English translation...<br> :date: __2020-10-20 23:15:59__
 
 

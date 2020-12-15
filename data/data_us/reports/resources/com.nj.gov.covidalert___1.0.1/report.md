@@ -145,6 +145,14 @@ The COVID Alert NJ app has been installed by more than **100000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="com.nj.gov.covidalert 5 reviews"/>
 </p>
 
+> Excellent<br> :date: __2020-12-12 14:34:07__
+
+> Nce<br> :date: __2020-12-09 01:06:17__
+
+> Great.......<br> :date: __2020-12-08 21:54:56__
+
+> Awsome app-helps public health contact tracing with real time alerts.<br> :date: __2020-12-06 23:36:19__
+
 > Great Health Emergency APP! My family and I downloaded immediately without hesitation! The DOH & our Governor want to save our lives! It's so easy to use and informative! You can simply set up a reminder and it only takes 15 seconds to check in! I truly believe if more NJ peeps downloaded this easy tool & join the fight, it could save lives & give additional information to our caring DOH department!! ❤<br> :date: __2020-11-26 19:37:27__
 
 > Very helpful app<br> :date: __2020-11-25 05:06:53__
@@ -157,14 +165,6 @@ The COVID Alert NJ app has been installed by more than **100000** times. At this
 
 > First day of use and I am highly satisfied.<br> :date: __2020-11-19 23:13:38__
 
-> Easy and secure. Everyone should have it.<br> :date: __2020-11-19 18:01:54__
-
-> I can't use the appt i don't have e bluetooth but what i do have is my second time having covis twice I've never had any symptoms i could feel any better except for my cancer and other things<br> :date: __2020-11-17 20:06:10__
-
-> Stop crying. If they are tracking you they can do it without this app. Be kind. Love each other. Wear a mask.<br> :date: __2020-11-15 13:23:31__
-
-> Keeping us as updated as possible. People Please...Mask Up!!!!<br> :date: __2020-11-12 12:51:16__
-
 
 
 #### 4-star reviews
@@ -172,6 +172,10 @@ The COVID Alert NJ app has been installed by more than **100000** times. At this
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.nj.gov.covidalert 4 reviews"/>
 </p>
+
+> Optimistic about the potential.<br> :date: __2020-12-12 17:22:21__
+
+> I like that you can take a moment to store daily check ups. SJZ<br> :date: __2020-12-11 19:49:58__
 
 > Informative<br> :date: __2020-11-30 11:57:38__
 
@@ -189,10 +193,6 @@ The COVID Alert NJ app has been installed by more than **100000** times. At this
 
 > I keep getting error after I click continue. It says Sorry that didn't work properly (error code 1002).<br> :date: __2020-10-09 17:18:05__
 
-> Edit - works perfectly after turning off wifi during setup. Got an immediate response from the developer on the workaround. Does not work. Error code 1002. This error is displayed after I confirm my age and press continue. I have a OnePlus 6t phone (android)<br> :date: __2020-10-08 22:13:53__
-
-> UPDATE: Working now per comment from developer. I can't get the app to work on my Galaxy S10. It installs, I affirm I'm over 18, and on the data sharing page I get an error code 1002 and can't move on. I've tried uninstalling and reinstalling and get the same problem. I do not have this problem on the VA COVID app I also have on my phone.<br> :date: __2020-10-07 16:11:30__
-
 
 
 #### 3-star reviews
@@ -200,6 +200,8 @@ The COVID Alert NJ app has been installed by more than **100000** times. At this
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="com.nj.gov.covidalert 3 reviews"/>
 </p>
+
+> Rite aid Cov 19 testing<br> :date: __2020-12-13 15:43:07__
 
 > I Certainly can't actually Rate something I just got.<br> :date: __2020-11-18 22:11:50__
 
@@ -218,8 +220,6 @@ The COVID Alert NJ app has been installed by more than **100000** times. At this
 > Installing this =捉蟲入屎忽<br> :date: __2020-10-19 04:16:38__
 
 > Easy to install. My only question is how does it know you have been in contact with someone personally? How is connecting the dots, so to speak?<br> :date: __2020-10-12 17:38:42__
-
-> I understand needing location for the alerts but why would it need bluetooth? Modern day dependence on wireless devices destroys battery life as it is. I keep my Bluetooth, location and few other settings off unless I need to use them. Again, I understand location, but why bluetooth. *Anyone that doesn't know keep bluetooth wifi and nfc off unless you need it to keep yourself safe from hackers.<br> :date: __2020-10-12 04:27:49__
 
 
 
@@ -257,6 +257,14 @@ The COVID Alert NJ app has been installed by more than **100000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="com.nj.gov.covidalert 1 reviews"/>
 </p>
 
+> When the Middlesex Co health dept called me 6 days after my + test, the woman I spoke with knew about the app, but knew nothing about giving me a 6 digit verification code. If it's not her job to give it out (as the app says it is), then whose it is? This app isn't working the way it claims to be. If people can't tell the app they're + then no close contacts are being alerted through the app. Why does the health dept (at least Middlesex Co) not know to give out this code?<br> :date: __2020-12-12 08:37:45__
+
+> Doesn't do anything useful.<br> :date: __2020-12-12 06:23:25__
+
+> There's no way to indicate that you got COVID.l, for the app to even work. Both my gf and I have the app. I got COVID and it never told her. (And she got covid from me)<br> :date: __2020-12-07 01:27:05__
+
+> Totally useless. We had people saying they had it just to set off red flags. This is based on the honor system and that hasn't been something people done in a very long time.<br> :date: __2020-12-06 16:07:26__
+
 > Not very useful. The app only works, if someone who had or has COVID is using it too! It DOES NOT just detect people with Covid and alert you. I uninstalled it after a week of nothing and especially after 5 people tested positive where I work and the app never alerted me! It's really a waste of time.<br> :date: __2020-12-05 15:02:06__
 
 > It keeps freezing after verifying my age. Still not working for me. I have a galaxy 8+.<br> :date: __2020-12-02 01:05:58__
@@ -268,13 +276,5 @@ The COVID Alert NJ app has been installed by more than **100000** times. At this
 > I haven't seen anyone reported positive yet.<br> :date: __2020-11-22 01:11:15__
 
 > Not very useful.: 1. You must have and utilize a smart phone 2. You must have it activated 3. You must report your status daily 4. You must be in close contact with an infected person for too long and they must have reported they have symptons 5. Will it be compatable with apps from other states<br> :date: __2020-11-17 14:16:13__
-
-> Having Bluetooth on always is not realistic plus it never alerted once. Dont waste the space on your phone for this app. Very disappointing<br> :date: __2020-11-15 16:12:00__
-
-> The stupidest app ever. It is relying on the people who use it to be honest and informed. Right! Come on, how likely is that? Verification pin? Your still relying on people to admit they might be sick, get tested and then be honest enough to share that info. Good luck with that. Also. The people who are at the most risk are the ones who are the least likely to know how or want to use a cell phone app<br> :date: __2020-11-14 16:01:44__
-
-> I spend most of my time at home, and this app constantly harasses me to turn on my location. I use my phone a lot, and I don't want to waste the battery. This is more inconvenient to me than it is helpful.<br> :date: __2020-11-10 14:14:23__
-
-> Looks like it a 3 year old designed it and the check in feature makes no sense<br> :date: __2020-11-07 17:56:59__
 
 

@@ -190,25 +190,25 @@ The Kry – See a Doctor by Video app has been installed by more than **500000**
 <img src="5_star_reviews_wordcloud.png" alt="se.kry.android 5 reviews"/>
 </p>
 
+> It's helpfull!<br> :date: __2020-12-12 10:46:13__
+
+> Good app<br> :date: __2020-12-10 15:09:54__
+
+> Jätte bra app.<br> :date: __2020-12-09 14:37:58__
+
+> Great service<br> :date: __2020-12-08 18:40:26__
+
+> Wonderful service as always.<br> :date: __2020-12-08 11:46:11__
+
+> Snabbt och smidigt<br> :date: __2020-12-07 18:56:56__
+
+> Läkaren var bra. Kunnig och hjälpte mig<br> :date: __2020-12-07 16:31:08__
+
+> I have received a good advice from a doctor, thanks for the vedio appointment<br> :date: __2020-12-06 22:06:05__
+
+> During covid situation, seeking KRY services is really good to avoid risk of covid while commuting to visit doctor or other patients. Also, we get immidiate and effective consulting and prescription if any instantly with minimum waiting time. I am getting good services from KRY. I will positively recommend to avail KRY services. Thanks<br> :date: __2020-12-06 09:04:12__
+
 > Good<br> :date: __2020-12-04 17:54:07__
-
-> Man får snabb hjälp. Trevliga personal<br> :date: __2020-12-03 17:41:55__
-
-> Excellent<br> :date: __2020-12-03 04:42:46__
-
-> Great to have gotten video appointment with a doctor in minutes. Good suggestions and guidance by the doctor.<br> :date: __2020-12-01 09:39:38__
-
-> Vwry helpful<br> :date: __2020-11-28 11:00:33__
-
-> Super bra app! Fick hjälp inom 30 min kl 7 på morgonen och behövde inte lämna hemmet!<br> :date: __2020-11-26 14:33:38__
-
-> I had the kindest and most caring doctor's visit that I've had in a very long time. I am truly grateful to Kry and all the care givers there.<br> :date: __2020-11-26 12:05:29__
-
-> Very helpful, I find it easy to use and supportive in this "crazy corona" days. Nurse Karen Olsén was nice and warm, and the doctor I saw today was professional and supportive.<br> :date: __2020-11-25 12:52:46__
-
-> Great alternative for seeing doctor in person for renewal of medicine, getting remiss for blood work done etc<br> :date: __2020-11-25 12:49:34__
-
-> The best, they take their time to know your problem and they help their patients regards<br> :date: __2020-11-23 13:17:54__
 
 
 
@@ -284,6 +284,10 @@ The Kry – See a Doctor by Video app has been installed by more than **500000**
 <img src="1_star_reviews_wordcloud.png" alt="se.kry.android 1 reviews"/>
 </p>
 
+> They always say they can't help you and you need to see a doctor at vårdcentral. Why the hell don't they tell the patient before, they have the info they need prior to the consultation. Who needs a doctor to tell you to see another doctor and charge for that? Today I booked for weight loss (a service they offer) and within 30 sec of seing my face dr said he didn't think I looked fat (I'm obese) and refused to refer me because he didnt believe my weight. He didnt even bother looking at my files<br> :date: __2020-12-11 18:12:14__
+
+> I don't recommend it.<br> :date: __2020-12-10 09:25:41__
+
 > After all data (health insurance data multiple times!) have been entered, the process always ends with "no appointment available". No indication of next appointments, or how or when you could look again. And: Only private prescriptions are issued, health insurance patients are allowed to reach into their pockets. Worthless.<br> :date: __2020-11-27 14:24:02__
 
 > Wow, if I could give minus starts I actually would. This was a really bad experience. I met an unfriendly doctor who was totally not interested in me and my symptoms. I am not only still sick but also really sad after this experience. I have to pay 200 SEK for an unfriendly meeting with no help at all. If you can avoid kry, do it. This was simply pointless.<br> :date: __2020-11-09 15:48:20__
@@ -299,9 +303,5 @@ The Kry – See a Doctor by Video app has been installed by more than **500000**
 > By agreeing to the terms of this service, you will be enlisted to one of their connected healthcare centres (i.e. they change your "Mina vårdval"). Techically not against the law, but really, really distasteful acting by these loophole seekers.<br> :date: __2020-10-02 06:13:07__
 
 > Är det ens helt lagligt att prompta att lista sig till ny VC?<br> :date: __2020-10-01 13:24:25__
-
-> Wer denkt, dass die Reviews hier von echten Menschen geschrieben wurden kann wohl auch nicht lesen. Irreführendes Marketing ist das was ich mir am wenigsten von einem Arzt erhoffe<br> :date: __2020-09-17 14:01:51__
-
-> Also schnell geht es definitiv nicht. Eine Wartezeit von über 24 Stunden ist nicht akzeptabel wenn einem vorher ganz eindeutig gezeigt wird, dass man nur wenige Minuten auf einen Termin warten muss. Gekaufte Reviews Absolut nutzlos<br> :date: __2020-09-17 14:00:14__
 
 

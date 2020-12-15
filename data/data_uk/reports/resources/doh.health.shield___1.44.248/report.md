@@ -147,25 +147,25 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="doh.health.shield 5 reviews"/>
 </p>
 
-> Very nice<br> :date: __2020-12-05 13:38:55__
+> Good service<br> :date: __2020-12-13 18:14:15__
 
-> Amazing<br> :date: __2020-12-05 03:55:55__
+> Very helpful apps.<br> :date: __2020-12-13 13:22:37__
 
-> nice<br> :date: __2020-12-01 19:31:10__
+> Good ap<br> :date: __2020-12-13 12:08:48__
 
-> Excellent<br> :date: __2020-12-01 08:45:25__
+> It is great<br> :date: __2020-12-13 11:52:44__
 
-> Good<br> :date: __2020-11-30 20:53:13__
+> so fast wonderfull<br> :date: __2020-12-13 10:28:39__
 
-> goog service5<br> :date: __2020-11-30 20:30:34__
+> Good<br> :date: __2020-12-13 09:29:37__
 
-> very effective<br> :date: __2020-11-29 16:41:41__
+> Good<br> :date: __2020-12-13 08:02:55__
 
-> Uhj<br> :date: __2020-11-29 16:07:02__
+> Exelent<br> :date: __2020-12-13 07:46:52__
 
-> Very useful this apps thanks!<br> :date: __2020-11-29 14:48:46__
+> تحياتي لامارة ابوظبي والقائمين عليها<br> :date: __2020-12-13 07:28:24__
 
-> Bihgf<br> :date: __2020-11-29 09:35:56__
+> Very good app<br> :date: __2020-12-13 05:53:24__
 
 
 
@@ -175,25 +175,25 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 <img src="4_star_reviews_wordcloud.png" alt="doh.health.shield 4 reviews"/>
 </p>
 
+> very good app<br> :date: __2020-12-13 08:31:28__
+
+> UAE always good<br> :date: __2020-12-13 05:55:28__
+
+> Good<br> :date: __2020-12-12 12:46:31__
+
+> Good<br> :date: __2020-12-12 07:03:49__
+
+> Good<br> :date: __2020-12-11 14:25:45__
+
+> Nice application to track the people around with specific eequirement<br> :date: __2020-12-10 10:32:02__
+
+> I Need To Replace My Old Number, because Old Number Belongs to Some Ome Else. Now I Have My Own Number, Let Me Know How To Replace Thanks Team AlHosn<br> :date: __2020-12-09 08:37:35__
+
+> Good<br> :date: __2020-12-07 20:52:05__
+
+> Not able to go pass login<br> :date: __2020-12-06 19:14:37__
+
 > It is a best tracing app.<br> :date: __2020-12-05 08:43:27__
-
-> Good<br> :date: __2020-11-25 09:09:03__
-
-> Good service<br> :date: __2020-11-17 10:53:49__
-
-> It is hard to open the application<br> :date: __2020-11-14 15:22:10__
-
-> Free testing centre of covid 19 testing<br> :date: __2020-11-14 07:21:24__
-
-> Working fine just open location blootooth charging it's working.<br> :date: __2020-11-08 17:53:37__
-
-> Good<br> :date: __2020-11-06 08:02:29__
-
-> Good apps for me<br> :date: __2020-11-06 07:47:50__
-
-> Good<br> :date: __2020-11-04 18:01:37__
-
-> nice<br> :date: __2020-11-03 20:12:28__
 
 
 
@@ -202,6 +202,14 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="doh.health.shield 3 reviews"/>
 </p>
+
+> Hi. I have a problem with the app. I have installed it on my phone but the app stays on home screen only and I am supposed to fly to UAE in a couple of days . What will happen if the app doesn't work on my phone? Do I have to buy a new phone in order to be allowed entry into the country? Can someone please give me some answers. I don't know who to contact about this . Thank you<br> :date: __2020-12-13 14:12:12__
+
+> Good<br> :date: __2020-12-11 12:55:07__
+
+> Why my photo won't appear in the app?<br> :date: __2020-12-10 19:45:41__
+
+> Good<br> :date: __2020-12-10 09:05:54__
 
 > Did covid test at al zahra hospital sharjah but it was not registered on the alhosn app even though it was negative it should have been shown in app. Please instruct al zahra hosp sharjah esp Nmc group hospitals to register all covid tests or this app will soon become useless<br> :date: __2020-11-30 05:37:08__
 
@@ -214,14 +222,6 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 > App crash. Can't open apps it's crash always<br> :date: __2020-11-16 20:03:12__
 
 > It is ok I guess<br> :date: __2020-11-16 08:57:46__
-
-> Hello i had pcr test yesterday and my result still not receive,anyone can help me my alhons not updated.<br> :date: __2020-11-11 08:48:20__
-
-> Unable to register. Just a blank screen on opening the app .<br> :date: __2020-11-10 13:15:49__
-
-> DPR Tests from dubai don't show here<br> :date: __2020-11-10 08:35:44__
-
-> Update not ready<br> :date: __2020-11-08 07:05:38__
 
 
 
@@ -259,24 +259,24 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="doh.health.shield 1 reviews"/>
 </p>
 
-> Needs lots of improvement.<br> :date: __2020-12-05 16:17:54__
+> I downloaded this app at two different android devices but unable to open the app<br> :date: __2020-12-13 09:34:59__
 
-> can't open it<br> :date: __2020-12-05 11:05:51__
+> Not opening in huawei y9<br> :date: __2020-12-12 21:50:43__
 
-> 1,coz i cant to open it<br> :date: __2020-12-04 16:07:01__
+> Not possible to change Bluetooth permission enabled<br> :date: __2020-12-12 11:24:12__
 
-> Such a garbage application never works in Ipad never works on samsung phone. I dont know why exactly why is this even mandatory to return to our homes?<br> :date: __2020-12-04 15:14:24__
+> Keep asking about my location even my location is on<br> :date: __2020-12-12 05:15:49__
 
-> Not even opening for me. Stuck in the launch screen<br> :date: __2020-12-02 20:54:10__
+> Why can't lodging In<br> :date: __2020-12-12 02:37:54__
 
-> Freezes every time I open it<br> :date: __2020-12-02 06:41:07__
+> Am vaccine volunteer. Took my vaccine at adnec. Arrived today at abu Dhabi airport. There they didn't recognise the al hosn app and the volunteer star on al hosn app. They sent me to quarantine. There was a article published that vaccine volunteers are exempted from quarantine. struck here at razeen camp. No communication no updates. Covid test was performed at airport & its negative. Management here at razeen and airport has clearly denied looking into al hosn app.<br> :date: __2020-12-11 21:00:21__
 
-> What does one have add if you are on a Visit Visa ( it shows Emirates ID and Unified ID ) or is this App only for people who have E ID's ( also what is this - Unified ID can be found on the last page of the PP ?? )<br> :date: __2020-12-01 18:35:06__
+> Not working outside the country<br> :date: __2020-12-11 18:37:17__
 
-> Exccellent<br> :date: __2020-12-01 15:39:32__
+> Is complicated app<br> :date: __2020-12-11 06:10:40__
 
-> Not installing<br> :date: __2020-12-01 04:20:57__
+> Hosn app is down in pakistan<br> :date: __2020-12-11 05:16:39__
 
-> Not working on samsung A8 had many time installed. But no use<br> :date: __2020-11-29 14:30:52__
+> Best<br> :date: __2020-12-09 13:17:22__
 
 

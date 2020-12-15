@@ -248,6 +248,8 @@ The Asistencia COVID-19 app has been installed by more than **100000** times. At
 <img src="1_star_reviews_wordcloud.png" alt="es.gob.asistenciacovid19 1 reviews"/>
 </p>
 
+> No funciona bien. Muchos fallos<br> :date: __2020-12-09 03:48:13__
+
 > 17 apps para 17 taifas. Lo único que hace bien la Administración es robar el fruto de nuestro trabajo para financiar la industria política. Hay muchos primos, amigos y correligionarios a los que mantener. Por cierto tengo aquí una encomienda de gestión para una obra, la dejo en el 6% más gastos de envio.<br> :date: __2020-12-03 17:16:31__
 
 > Lo he desinstalado porq no me deja poner mi N.I.E ademas que para poner el formato de la fecha de nacimiento tiene que darle hasta que llegue a tu año. Pues si corrigen éstos fallos volveré a intentar usarlo.<br> :date: __2020-12-01 08:56:18__
@@ -265,7 +267,5 @@ The Asistencia COVID-19 app has been installed by more than **100000** times. At
 > A ver si me explicais esto.si la aplicacion es para detectar positivos,me pregunto.se supone que cuando uno da positivo tiene que estar confinado,como me va a detectar por la calle que hay positivos cerca?<br> :date: __2020-09-23 21:10:55__
 
 > No se puede instalar<br> :date: __2020-09-19 22:14:20__
-
-> Horrible.<br> :date: __2020-09-19 22:07:49__
 
 

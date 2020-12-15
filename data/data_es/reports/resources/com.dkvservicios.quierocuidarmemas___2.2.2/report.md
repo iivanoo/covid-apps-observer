@@ -213,6 +213,10 @@ The DKV Quiero cuidarme Más app has been installed by more than **100000** time
 <img src="5_star_reviews_wordcloud.png" alt="com.dkvservicios.quierocuidarmemas 5 reviews"/>
 </p>
 
+> Muy bueno<br> :date: __2020-12-09 17:42:38__
+
+> Para mi criterio,está formidable<br> :date: __2020-12-08 18:02:44__
+
 > Muy buena<br> :date: __2020-12-02 10:44:59__
 
 > Ha dejado de funcionar de repente. No me permite entrar. Edito: El problema se ha resuelto con la actualización e incluso me han llamado para notificarmelo.<br> :date: __2020-11-30 19:39:46__
@@ -228,10 +232,6 @@ The DKV Quiero cuidarme Más app has been installed by more than **100000** time
 > Aplicación espectacular con multitud de servicios de salud para poder utilizar y de uso muy sencillo. 100%100 recomendable!!<br> :date: __2020-11-12 10:55:33__
 
 > Muy agradable<br> :date: __2020-11-11 16:01:22__
-
-> Muy buena<br> :date: __2020-11-10 17:36:46__
-
-> Buena<br> :date: __2020-11-06 11:38:34__
 
 
 
@@ -283,6 +283,10 @@ The DKV Quiero cuidarme Más app has been installed by more than **100000** time
 <img src="2_star_reviews_wordcloud.png" alt="com.dkvservicios.quierocuidarmemas 2 reviews"/>
 </p>
 
+> Da bastantes problemas<br> :date: __2020-12-09 17:07:21__
+
+> LLevo como 10 llamadas,no solo para la app quiero cuidarme mucho que no hace nada de lo que dicen en la informacion,en mi área cliente cuando intento abrir cuadro medico me da solo la opcion de fisioterapeuta ¡¡¡¡¡,en la pagina DKV Famedic,aun no he conseguido entrar y ya he pagado 2 meses de cuota y he puesto a soporte 3 correos y he llamado a 3/4 telefonos y nadie me soluciona nada,Madrid,Jerez,Barcelona etc etc.....muchas deficiencias en el soporte informatico,empezamos mal si no puedes localizar ya el medico al que acudir......<br> :date: __2020-12-08 14:29:12__
+
 > Muy mala app poco amigable<br> :date: __2020-11-23 09:59:56__
 
 > Buenas tardes, me gustaría saber cómo añadir hijos menores de edad<br> :date: __2020-11-03 19:16:06__
@@ -299,10 +303,6 @@ The DKV Quiero cuidarme Más app has been installed by more than **100000** time
 
 > La verdad es que no me ha permitido adjuntar imagen (fotos) con los síntomas, puesto que da un error y se cuelga la aplicación. Una lástima.<br> :date: __2020-09-11 13:42:23__
 
-> No funciona la parte de pedir cita online. Me sale todo el rato que ha ocurrido un error inesperado...<br> :date: __2020-08-27 08:46:16__
-
-> Todo el tiempo me salta una ventana roja molesta sobre servicio técnico y quiero buscar la lista de doctores en Madrid y no está en ningún lado un desastre que saquen una aplicación que ni está terminada. Lo peor es que te obligan a borrar la otra<br> :date: __2020-08-26 11:07:48__
-
 
 
 #### 1-star reviews
@@ -310,6 +310,8 @@ The DKV Quiero cuidarme Más app has been installed by more than **100000** time
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="com.dkvservicios.quierocuidarmemas 1 reviews"/>
 </p>
+
+> Fatal<br> :date: __2020-12-07 13:20:51__
 
 > No me deja entrar en la aplicación me dice que mi móvil está rooteado... Y no lo está.<br> :date: __2020-12-04 14:49:24__
 
@@ -328,7 +330,5 @@ The DKV Quiero cuidarme Más app has been installed by more than **100000** time
 > No me permite hacer consultas virtuales por videollamada<br> :date: __2020-11-27 12:04:46__
 
 > Imposible hacer una búsqueda en el cuadro médico<br> :date: __2020-11-25 19:50:49__
-
-> He intentado entrar muchas veces desde móviles distintos y la aplicación se cierra una y otra vez. Necesito los informes que tampoco me quieten enviar por email así que no se que se supone que pretenden que hagamos. Necesito soluciones<br> :date: __2020-11-24 21:08:54__
 
 

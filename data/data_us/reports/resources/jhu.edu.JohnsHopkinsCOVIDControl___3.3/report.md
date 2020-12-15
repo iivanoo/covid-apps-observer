@@ -170,6 +170,8 @@ No recent reviews available with 3 stars.
 <img src="1_star_reviews_wordcloud.png" alt="jhu.edu.JohnsHopkinsCOVIDControl 1 reviews"/>
 </p>
 
+> I have never left a negative review before, BUT, unfortunately like some other's before me, after I entered the demographic data and pressed enter it just says something went wrong. I tried reinstalling the app and it made no difference. 🤬<br> :date: __2020-12-08 00:48:44__
+
 > I could not get this to work... always reported a problem. If the study is concluded, the app should be removed. Thanks<br> :date: __2020-11-25 06:11:59__
 
 > I cannot enter data. When I tap the input box, the keyboard does not appear. This was fixed But I have entered a new age category. I tried to edit my profile and add my zipcode, but I get an error when I try to save.<br> :date: __2020-11-21 21:25:32__
@@ -187,7 +189,5 @@ No recent reviews available with 3 stars.
 > I had an earlier version that partially worked (could submit data but couldn't tell if it actually submitted because the counter didn't show how many days I submitted) and I couldn't edit my profile. New version clean install won't accept any profile data. Just tells me that there was a problem and to try again.<br> :date: __2020-09-05 15:45:34__
 
 > I cannot enter any data to start my profile. I keep getting an error that something went wrong.<br> :date: __2020-08-30 23:15:14__
-
-> Latest version is broken. It used to work, but now it tells me I am offline All the time Android<br> :date: __2020-06-30 04:44:57__
 
 

@@ -1,5 +1,41 @@
 [
     {
+        "reviewId": "gp:AOqpTOFPRLEhPn6WgUqK1Jdq2yLs9MbT3c-JFu0TlzOgU41OUAXIB293f6d3Bk7MqlzTdY9ozOF6iiJvXJmaWw",
+        "userName": "Douglas Brown",
+        "userImage": "https://play-lh.googleusercontent.com/-nIDEkaQGk4s/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclJrEgjIBrh3iokBEJvjqlByr3PWQ/photo.jpg",
+        "content": "All this good will from the public is thrown away by an app that is next to useless. When alerted people have no idea why I'm phoning, their data doesn't match up with the message and the message is often hours/days old although the alarm has just sounded. What a waste of people's willingness to help in this crisis.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "12.2",
+        "at": "2020-12-11 11:52:18",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHiBPRmdBWC72n-5x0YNTIONowChRusBeyiJB38fGv5-8SICe0oEm9bN8M404omMoUl432L93w28wCRrQ",
+        "userName": "Brian Gibbs",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiuKTrO8qhVJuj8yAK9Rp7kS11hD3svE0zannUgPw",
+        "content": "Not enough room to write in here what needs addressing as it's limited to 500 letters and spaces I'd barely touched the surface on what needs sorting and ran out of space, but there isn't enough information or user functionality in the app we need a lot more communication options in app with a more detailed description to assist with dealing with failed calls not being answered by the people that are in need plus a lot of other options and also an in app guidance and helpcentre",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "12.2",
+        "at": "2020-12-10 11:08:18",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGV5tosjXUWNQPMgUkScz00OERVaiK6u3ONVQu3DpMrV8aG7J49tRE50x5tWOxmaB_NBqvz8K00bmoAIA",
+        "userName": "john lawton",
+        "userImage": "https://play-lh.googleusercontent.com/-K_VKfkVPGks/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclGtWIIly9Pnsh6GLlJ0OZDN68Bgw/photo.jpg",
+        "content": "Bug in google play. Services",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2020-12-08 19:41:19",
+        "replyContent": "Hi John, sadly there isn't much we can do in regards to Google Play Services. That is owned and managed by Google. You can try updating your phone and that usually helps with the above issue.",
+        "repliedAt": "2020-12-09 13:30:23"
+    },
+    {
         "reviewId": "gp:AOqpTOEFuKiR46PJWdFWXfr2Mk_m6Bj724EJYlaSkB3ZBYpOwiVgUg294lAfIGQ4enuGwOwYucZKr2tS3xKEgQ",
         "userName": "Kathy Janio",
         "userImage": "https://play-lh.googleusercontent.com/-Et13Hyg-GII/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckwxeGnxqCaOpYzT_wf3ftI5l-g2g/photo.jpg",
@@ -8,8 +44,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "12.2",
         "at": "2020-11-28 18:46:36",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Kathy, we hope you are all well. We have a version coming out for Christmas which would allow you to change the notification sound. Regarding the alerts, they come directly from NHS referrers or vulnerable people, if you encounter any issue please contact the support line and they should be able to help you, thank you for volunteering!",
+        "repliedAt": "2020-12-09 13:29:06"
     },
     {
         "reviewId": "gp:AOqpTOGwkjKHGNY4G6Yxz1GqqbSOhtY6IU17v6HDl1e7pvJbhWWMbm4hiNZIW6s7rRY95Mp_rSuBKvC-RBHl_w",
@@ -17,11 +53,11 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GirvY0vuyMP4o9cp9D9rQZoK0SjFrtoqApcvIvRVg",
         "content": "App is ok but no way to check back on previous messages. I responded to a call from a gentleman who needed shopping tomorrow. I agreed to do it and then toggled the app to show \"responded\" as soon as I've done that then previous messages dissappear and I now no longer have address or contact details to sort this out tomorrow!!",
         "score": 2,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 2,
         "reviewCreatedVersion": "12.2",
         "at": "2020-11-28 18:00:32",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Chris, thank you for the feedback, we are currently changing the apps slightly to add confirmation messages and let you know when the details are going to disappear. Stay tuned!",
+        "repliedAt": "2020-12-09 13:27:14"
     },
     {
         "reviewId": "gp:AOqpTOFW8jN8SnogX9As6zgNoNVegCr2pOB7_LHUSEvmcq3HXPrkYbGkLK7FJ123J0Tp1UjBc2Z8465dcueAHQ",
@@ -32,8 +68,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "12.2",
         "at": "2020-11-26 23:42:23",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi June, could you make sure the notification and location options are on for your device based on this guide: https://www.goodsamapp.org/help Also what roles did you apply for?",
+        "repliedAt": "2020-12-09 13:25:43"
     },
     {
         "reviewId": "gp:AOqpTOHlfKwSnRK0kboHkUcgaBDumtbhW-m0iMMsPmxsjRTXenMMJycK4rj1X6Iu-qQB0MqOvlB7ycsk8sVkUQ",
@@ -44,8 +80,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "12.2",
         "at": "2020-11-25 21:44:29",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi June, could you make sure the notification and location options are on for your device based on this guide: https://www.goodsamapp.org/help Also what roles and organisation did you apply for?",
+        "repliedAt": "2020-12-09 13:26:02"
     },
     {
         "reviewId": "gp:AOqpTOE6M4Wy34vqEqaCkGgvYeICPpfwNAeLB2mV0DZo485a-BhM9yKJ3mjm4zr2Hs0FAzjrwF0cSqjPhXNCDA",
@@ -56,8 +92,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "12.2",
         "at": "2020-11-23 01:04:08",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Dan, we hope you are all well. We have a version coming out for Christmas which would allow you to change the notification sound, stay tuned!",
+        "repliedAt": "2020-12-09 13:24:38"
     },
     {
         "reviewId": "gp:AOqpTOF1kDeBMtx8gpcpQxF1oR697WJ0u3yvChZvc2UanYIhCrM9O30ptgkARjQHQjResIGU7d1qBcVoqQ8Tfw",
@@ -68,8 +104,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2020-11-22 10:58:20",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Margaret, we hope you are all well, could you please check your notifications sound setting? There is a guide here: https://www.goodsamapp.org/help",
+        "repliedAt": "2020-12-09 13:23:21"
     },
     {
         "reviewId": "gp:AOqpTOG5aVuUx96m4D8jzS49ryRhsz1cLKNeZvw5uHzHmrJIfS5VdAEjZc35Mc3ndxfgkrlYqpiKr5HBRXX27Q",
@@ -89,7 +125,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-FqaItsCVV1w/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnQPkS6KZ9EiCUScNQwr7rvFPEWxA/photo.jpg",
         "content": "Good app but siren way too loud, it's driving my neighbour mad ! Apart from that, as others say here, 90% of people I ring have no idea why I rang, or how or why somebody put them on list. That needs addressing . On top of that some of the alerts are days old ,their prescription or shopping done days ago.Im becoming a bit disheartened wasting my time every day. I'm more than happy to run around for folks but less happy with wasted calls",
         "score": 3,
-        "thumbsUpCount": 1,
+        "thumbsUpCount": 3,
         "reviewCreatedVersion": "12.2",
         "at": "2020-11-19 16:11:24",
         "replyContent": null,
@@ -233,7 +269,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhL1NxPMpH0UWiPuuS9Z4hh8pgNEAAMvXyY6nhHlA",
         "content": "App is obviously for a good cause, but I keep signing myself out as off duty to avoid the ear splitting notifications (which are unaffected by muting your phone) 3x a minute for requests that are way out of my range. Needs location restrictions and notification adjustments ASAP!",
         "score": 2,
-        "thumbsUpCount": 3,
+        "thumbsUpCount": 4,
         "reviewCreatedVersion": "12.2",
         "at": "2020-10-17 16:46:43",
         "replyContent": "HI Rhianna, noted! Thank you for the feedback, we will be posting a poll shortly for all the users to vote on their preferences, thanks again!",
@@ -245,7 +281,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-lGzHiBpCt-Y/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnokOUgrCExAdDk9IkGONyXQEaAGw/photo.jpg",
         "content": "I don't seem to be the only one having trouble with the app. Firstly, the alarm is ear splitting, is there any way to turn it down please? I've just called a lady (I only do chats, as I'm stuck in too) she had no idea what it was all about, & didn't know why I was calling. I've had this before, but I chatted with her anyway, and she was ok. Also, I've been logging in 9-5 every day bar Sun, since lockdown started, but my hours are stuck on 388 and never change. This doesn't show all I've done.",
         "score": 2,
-        "thumbsUpCount": 10,
+        "thumbsUpCount": 12,
         "reviewCreatedVersion": "12.2",
         "at": "2020-10-14 16:32:01",
         "replyContent": null,
@@ -281,7 +317,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-zn9zo5Arg1Y/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnQNNZ8LbrfM3-dIMdOV9_Y1OlzRA/photo.jpg",
         "content": "App is OK apart from: (1) the ear splitting siren which I've now turned off by going into the Responder settings via my phones Apps option. The downside is I mow miss most requests! Need an alternative noise. (2) I didn't sign up for chats (I'm rubbish at them) so either don't send them (most requests are chats) or enable me to see what the request is so I can decline if its chat. At the moment the alert does not indicate what its about. Until changes made the app remains set to Off Duty.",
         "score": 2,
-        "thumbsUpCount": 6,
+        "thumbsUpCount": 7,
         "reviewCreatedVersion": "12.2",
         "at": "2020-10-09 16:21:58",
         "replyContent": "Hi there, thank you for the feedback, we will be posting a poll shortly for all the users to vote on their preferences and will update the apps accordingly! Regarding your roles, please contact the support line on 0808 196 3382 (8am to 8pm, 7 days a week) and they will be able to change that for you! thanks again",
@@ -3553,8 +3589,8 @@
     },
     {
         "reviewId": "gp:AOqpTOEvJO2x_g4qKhYtXAIn_DvC-fogP0rGyK8OoIyHKdxRelPqVHKcWIhvlUbFmUpnj1rYfAV1Ef_xmFXt4g",
-        "userName": "Emmie Taylor",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GggdZokKWEh6EWZE9xEUNnv1jFJFfXeEloRBZqa",
+        "userName": "Kirsty Taylor",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgvCUlAHBTeLIuI36ZDbZG7f1C9HVZZKA3mpfWR",
         "content": "I've downloaded the app and done everything scrolled across everything accepted code of conduct etc I've been on duty for 2 weeks now and I am getting zero notifications calls or messages to help people who need my help, I checked the tutorial but the tutorial images are a lot different as to what is on the actual app, I've deleted it and re download it 3 Times from the play store still not working please help as I've already called you 3 Times over the phone",
         "score": 5,
         "thumbsUpCount": 1,
@@ -6805,8 +6841,8 @@
     },
     {
         "reviewId": "gp:AOqpTOGQYFlqz0dYfT0uvDf4Y5EUPkUtqR8TG_nUHd6jDukYfbA-vd21rp8oT9KvL3frAKsrSRwT0F-zURRuyg",
-        "userName": "Babull Mir",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj6bjAtvSxliByCI1AMJ8vJpfSIZ-0Nmc-blIXM",
+        "userName": "Nautilus",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhgQlrKMdvLLEW-5BT_kDc9Mj8AxZsrgx1dN49OSA",
         "content": "Nothing on this app works registered as nhs volunteer installed, uninstalled still nothing what a shame...",
         "score": 1,
         "thumbsUpCount": 2,

@@ -192,6 +192,14 @@ The Ascension Online Care – See a Doctor 24/7 app has been installed by more t
 <img src="5_star_reviews_wordcloud.png" alt="org.ascension.android.ascn.onlinecare 5 reviews"/>
 </p>
 
+> Helpful and easy to use<br> :date: __2020-12-11 22:49:02__
+
+> I haven't used this app yet, because I just have open the app when I was in Lourdes Memorial Hospital as a patient there.<br> :date: __2020-12-11 16:13:31__
+
+> Great!!!<br> :date: __2020-12-10 22:49:26__
+
+> Edit: Used a second time and still am impressed! The Dr was very informative and very nice! He helped me with all my questions and I would totally use again.<br> :date: __2020-12-05 21:12:04__
+
 > Timely and efficient service!<br> :date: __2020-12-01 19:13:56__
 
 > Excellant virtual no complaints<br> :date: __2020-11-30 22:36:41__
@@ -203,14 +211,6 @@ The Ascension Online Care – See a Doctor 24/7 app has been installed by more t
 > It's great not having to travel to the office to see my care giver.<br> :date: __2020-11-23 21:50:33__
 
 > I love using this app the doctors are very knowledgeable and it's quick and easy. With everything that's going on in the world today it makes staying home and staying safe easy.<br> :date: __2020-11-21 00:36:31__
-
-> Was nice to not get out just to answer a few questions.<br> :date: __2020-11-18 21:30:16__
-
-> Love it<br> :date: __2020-11-17 21:39:09__
-
-> Easy-to-use and nice that I didnt have to actually go to the doctor<br> :date: __2020-11-16 20:47:38__
-
-> Easy and simple to use and has excellent video and audio quality! I had a visit with my son's doctor and it's so much better than needing to go in to the office!<br> :date: __2020-11-16 19:38:17__
 
 
 
@@ -298,6 +298,8 @@ The Ascension Online Care – See a Doctor 24/7 app has been installed by more t
 <img src="1_star_reviews_wordcloud.png" alt="org.ascension.android.ascn.onlinecare 1 reviews"/>
 </p>
 
+> The app borders on a scam i was under the orders of a doctor taking 2 medications perscribed by the doctor for a sinus infection i needed to contact my doctor for further concerns i was having but because it was simply online care i guess versus being actually treated i was not allowed by the management to get my doctors contact information not only would i never give these people another dime of my money i would not recomend it to anyone else either. What a shame maybe someone else can get it.<br> :date: __2020-12-12 08:22:52__
+
 > Had a virtual appointment today that I couldn't attend because the app keeps closing on me!!!!<br> :date: __2020-11-30 22:03:04__
 
 > My doctor couldnt get thru and my tablet wasnt compable<br> :date: __2020-11-21 17:16:34__
@@ -315,7 +317,5 @@ The Ascension Online Care – See a Doctor 24/7 app has been installed by more t
 > Went to use today for my appointment and all it does is force closes. Was a great app but now its f\*\*\*\*d.<br> :date: __2020-10-20 16:07:49__
 
 > Waste of money, first time meeting a new doctor and she kept pushing a prescription on me. I'm not paying for a prescription that I'm not even sure I'll need. Doctor had horrible bedside manners too. Waste of a co-pay.<br> :date: __2020-10-01 17:17:51__
-
-> Download just spins and spins. Wont do anything<br> :date: __2020-09-17 23:49:55__
 
 

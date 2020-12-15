@@ -188,6 +188,8 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 <img src="5_star_reviews_wordcloud.png" alt="gov.cdc.general 5 reviews"/>
 </p>
 
+> A lot of info ... easy to find what ur looking for. Thanks Great Job!<br> :date: __2020-12-12 19:24:07__
+
 > Love having up to date disease transmission protocols at my convenience 24/7. Great app<br> :date: __2020-11-08 02:28:28__
 
 > Information<br> :date: __2020-11-01 17:22:31__
@@ -205,8 +207,6 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 > Like this app because of the usefull Information it have<br> :date: __2020-08-23 23:39:44__
 
 > N/A<br> :date: __2020-08-17 16:28:56__
-
-> I have always used this app.<br> :date: __2020-08-17 03:41:55__
 
 
 

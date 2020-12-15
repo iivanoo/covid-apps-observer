@@ -150,6 +150,10 @@ The StopCOVID NI app has been installed by more than **100000** times. At this t
 <img src="5_star_reviews_wordcloud.png" alt="net.hscni.covidtracker 5 reviews"/>
 </p>
 
+> Perfect<br> :date: __2020-12-10 13:47:17__
+
+> Absolutely essential app.<br> :date: __2020-12-07 08:47:11__
+
 > excellent service staving propjes live om no racis or colour kust a hitman Boeing me xXxjetiame xXx<br> :date: __2020-12-05 16:27:26__
 
 > We are in a Lockdown for 2weeks Christmas Cancelled This Year<br> :date: __2020-11-29 08:12:05__
@@ -165,10 +169,6 @@ The StopCOVID NI app has been installed by more than **100000** times. At this t
 > Thankfully no alerts yet<br> :date: __2020-11-06 22:40:58__
 
 > Very good<br> :date: __2020-10-28 00:13:57__
-
-> C x<br> :date: __2020-10-26 18:37:45__
-
-> brilliant app ni government bettter than the uk test and trace app<br> :date: __2020-10-25 13:23:53__
 
 
 
@@ -262,24 +262,24 @@ The StopCOVID NI app has been installed by more than **100000** times. At this t
 <img src="1_star_reviews_wordcloud.png" alt="net.hscni.covidtracker 1 reviews"/>
 </p>
 
+> Shite dont work week late 😂😂😂😂🤬🤬🤬<br> :date: __2020-12-11 10:05:12__
+
+> I got an alert tonight showing close contact on the 26th November.. Problem being the alert only came through when the isolation period ended that being 10th December? Very worrying!<br> :date: __2020-12-11 02:19:31__
+
+> Downloaded app i was in touch with 3 people who tested positive nothing came up i rang the helpline says not to worry its not 100%<br> :date: __2020-12-06 11:30:28__
+
+> Makes the phone sooo slooooow that it's unusable. Had to uninstall.<br> :date: __2020-12-05 22:01:17__
+
 > Never seems to check, always a week or so behind.<br> :date: __2020-12-01 08:27:55__
 
 > This app is completely pointless. Mine has to be reinstalled every couple of days after which it will carry out exposure checks for a day or 2 and then completely stop. I could have been in contact with numerous people and had to self isolate but I dont know because the app isn't doing the checks.<br> :date: __2020-11-29 10:37:50__
 
 > Not getting anything from this site when first started told everyday now nowt<br> :date: __2020-11-27 15:11:31__
 
-> Makes the phone sooo slooooow that it's unusable.<br> :date: __2020-11-23 17:46:57__
-
 > Loads of Rubbish.<br> :date: __2020-11-22 18:35:12__
 
 > Government surveillance scam,shhep fell for it!<br> :date: __2020-11-21 05:18:56__
 
-> Heap of trash 😂😂😂😂😂😂<br> :date: __2020-11-20 17:08:02__
-
 > isn't it supposed to send notifications? because that's not happening<br> :date: __2020-11-18 09:53:06__
-
-> Wont sed me ghme frm skool<br> :date: __2020-11-17 14:39:48__
-
-> This app wastes the battery life on my phone<br> :date: __2020-11-17 00:37:21__
 
 

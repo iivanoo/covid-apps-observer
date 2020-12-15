@@ -128,25 +128,25 @@ The SlowCOVIDNC app has been installed by more than **100000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="gov.nc.dhhs.exposurenotification 5 reviews"/>
 </p>
 
-> Love the advice<br> :date: __2020-12-04 16:47:31__
+> I'm a uber driver, let's see how this works.<br> :date: __2020-12-12 16:13:02__
 
-> Good<br> :date: __2020-12-03 23:54:08__
+> Great idea. Be real people complaint about everything. Thank you all people involved ..NC it's a Great state really worry about their people. Mile grazie<br> :date: __2020-12-11 20:48:31__
 
-> #1 app to have in 2020. Tell all your friends and family!!<br> :date: __2020-12-03 17:59:10__
+> G goody goody 2 shoes<br> :date: __2020-12-10 21:41:43__
 
-> Updates frequently!<br> :date: __2020-12-03 06:13:58__
+> Excellent<br> :date: __2020-12-10 19:58:09__
 
-> Update app<br> :date: __2020-12-02 19:39:49__
+> Seems to work fine on my Samsung 8+ running Pie. So far no exposure detected.<br> :date: __2020-12-09 03:33:21__
 
-> Brillant app<br> :date: __2020-12-01 22:38:51__
+> Hopefully I will continue loving it while it doesn't show any alert on my phone... Now, the app should have been named either CovidAlertNC, or CovidNCShow, or CovidNCExposure, because it is way easier to find id. First time I tried to find in the list, I could not because obviously it has poor choice name,.. so I turned off BT and sure enough the app complained but didnt say its name... grrrrrr..... So, usability department, please step in.<br> :date: __2020-12-09 03:29:11__
 
-> This is finally an anonymous, Google and Apple sanctioned app that uses anonymous tokens to anonymously help slow the Covid-19 spread. Please share this app (3 dots in the top right of the play store app screen lets you share it with others). Also, they have an iOS version that you can ask your iOS friends to run as well. Running this app will help slow the spread, which saves the US Healthcare system money, lets more businesses reopen faster, and it's completely anonymous!<br> :date: __2020-12-01 07:49:55__
+> cool<br> :date: __2020-12-08 12:36:56__
 
-> Most important app of all.<br> :date: __2020-11-30 18:59:08__
+> Clear<br> :date: __2020-12-07 07:30:43__
 
-> I think its a pretty great app...<br> :date: __2020-11-27 13:26:47__
+> Slow CovidNC Rate this App<br> :date: __2020-12-06 17:41:38__
 
-> Great application<br> :date: __2020-11-24 09:44:55__
+> All I can say is, "Thank You." Everyone should install this app!<br> :date: __2020-12-06 08:49:10__
 
 
 
@@ -155,6 +155,10 @@ The SlowCOVIDNC app has been installed by more than **100000** times. At this ti
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="gov.nc.dhhs.exposurenotification 4 reviews"/>
 </p>
+
+> Relaxing, enjoyable, and fun !!!<br> :date: __2020-12-11 21:11:09__
+
+> Now, if only NC citizens would simply be honest about their exposing others to their positive Covid test as soon as notified. Instead, so many are carelessly waiting until they get negative result. Meanwhile the positives are spreading Covid in neighborhoods, stores, churches, and other public places... WITH NO MASKS! Just because you didn't need ICU, doesn't mean others you exposed will be as fortunate. Get Behind THE Mask! 🙏😷🙏<br> :date: __2020-12-07 04:22:22__
 
 > Great idea!<br> :date: __2020-11-30 00:06:31__
 
@@ -172,10 +176,6 @@ The SlowCOVIDNC app has been installed by more than **100000** times. At this ti
 
 > Good<br> :date: __2020-10-13 07:44:21__
 
-> Neat idea, but living in Asheville makes me think I need every state's app. Is there any way to make the state apps work with each other? We've had many tourists test positive during their visit and even if they report their result to their state's app, the tokens would never be shared with my app.<br> :date: __2020-10-11 05:39:23__
-
-> I gave it 4 stars for a great effort! Why do people have to complain about things that will help! Thank u for trying something! Share option will be great! I have alot of people I can tell about this app!<br> :date: __2020-10-11 03:37:10__
-
 
 
 #### 3-star reviews
@@ -183,6 +183,12 @@ The SlowCOVIDNC app has been installed by more than **100000** times. At this ti
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="gov.nc.dhhs.exposurenotification 3 reviews"/>
 </p>
+
+> If there were only a way to make cell carriers (companies) make this mandatory. I mean, right now it just feels like everyone who is trying to be compliant and healthy is just walking around bouncing off cell phone vibes off each other. The rest of these idiots aren't using this app anyway. Apparently, over the last two weeks I have been close to three separate people who claim to be positive. I wasn't near them unmasked or for a prolonged period, and 6 ft. apart. But how do we know?<br> :date: __2020-12-13 15:58:46__
+
+> 😳<br> :date: __2020-12-12 20:11:11__
+
+> Stupid sinnesxt Ureu r 543or.<br> :date: __2020-12-12 17:48:35__
 
 > Success depends on how many people use the app, which not many appear to do. In a pandemic, it should be mandatory for everyone with a cellphone to be connected. Otherwise, it's pointless.<br> :date: __2020-12-02 15:56:28__
 
@@ -198,12 +204,6 @@ The SlowCOVIDNC app has been installed by more than **100000** times. At this ti
 
 > I installed it on my Samsung S5 (6.0.1 Marshmallow). I guess it's working, but it has a big flaw: it's a power hog. Until I installed SowCOVIDNC, my phone battery easily lasted a full day. Now I have to recharge by late-afternoon. That's a big problem. Can you please fix it? I'm not going to uninstall it, because it is important. I can live with the power drain, if I have to. But it sure would be a lot better if it didn't drain the battery so rapidly.<br> :date: __2020-10-23 22:36:25__
 
-> I have been so fortunate so far to have been able to help families and my family, by running errands. I wear my masks I wash my hands. I use bottles of sanitizer even if they the store just did. Why? The lack of seeing how much folks dont know PPE training by hospital staff, how folks will grabs carts(walk pass wipes stands) and proceed to then grab spray bottles to spray the carts. And then use paper towels to wipe them down? Now, quiz time what was wrong? 😳<br> :date: __2020-10-21 18:10:18__
-
-> I downloaded the app the first week of was made public. It doesn't seem to check for exposure unless I open the app. When I opened it today it seems it last checked 10/8. Then the date changed to today after being opened.<br> :date: __2020-10-20 15:04:39__
-
-> Well there you go another tracking app to watch where you go, better get it now people, before president Harris demands it and makes it law, oh it might actually work if everybody had it I had it and nobody else in my shop had it, my supervisor got it and two coworkerscweluves had it and one indirect coworker that comes over all the time had it and the damn app didn't work because nobody else had it<br> :date: __2020-10-18 13:56:57__
-
 
 
 #### 2-star reviews
@@ -212,9 +212,11 @@ The SlowCOVIDNC app has been installed by more than **100000** times. At this ti
 <img src="2_star_reviews_wordcloud.png" alt="gov.nc.dhhs.exposurenotification 2 reviews"/>
 </p>
 
-> I installed this app at the beginning of November, and that was the only time it checked for exposures. What use is that? I could not find a way to manually check either.<br> :date: __2020-11-27 04:56:58__
+> Cool idea if it worked. I was diagnosed with COVID last Friday. The next day I tried to "notify others" of my positive result bit it requires a PIN number. It's been a week and I still don't have a PIN number in order to notify others of my positive result.<br> :date: __2020-12-11 15:39:59__
 
-> Such a small percentage of people are downloading this for Android (can't speak for iOS), and such a small percentage of people are actually tested daily in this state. It's more like a gimmick app unless everyone downloads and everyone gets weekly testing. So no way to know if this approach to contact tracing is working.<br> :date: __2020-11-25 00:49:26__
+> A small percentage of people are downloading this for Android (can't speak for iOS), and such a small percentage of people are actually tested daily in this state. It's more like a gimmick app unless everyone downloads and everyone gets weekly testing. So no way to know if this approach to contact tracing is working.<br> :date: __2020-12-07 14:45:11__
+
+> I installed this app at the beginning of November, and that was the only time it checked for exposures. What use is that? I could not find a way to manually check either.<br> :date: __2020-11-27 04:56:58__
 
 > Exposure last checked: October 31, 2020 8:15am. It's November 23 now. I thought this app was a great idea. But now I have some random app that is connected to my Bluetooth 24/7 and I'm deleting it.<br> :date: __2020-11-23 16:41:06__
 
@@ -230,8 +232,6 @@ The SlowCOVIDNC app has been installed by more than **100000** times. At this ti
 
 > Great idea, problematic execution. Gives a false sense of security. With so few people in this state getting tested, so few wearing masks, it's unlikely that most of your covid exposure will be captured & recorded by this app. And you must leave Bluetooth on for it to work? I understand why, but it's a battery drain, & constant EMF radiation exposure is an unwelcome side effect. If the app was automatically on everyone's phone, testing was widespread, & positives were autologged, then maybe.<br> :date: __2020-10-20 05:53:33__
 
-> Edited review: after download, I cannot access any of my connected Bluetooth apratutus. Now my car Bluetooth, 3 different air pods and 2 earpieces will not connect at all but I was told they'd work in conjunction. That's not true for "MY" phone operating system. Thought it was the perfect app but now I have doubts because 2 Bluetooth apps CANNOT be used at same time, so please don't tell downloaders or be sure to share correct information.<br> :date: __2020-10-19 21:36:12__
-
 
 
 #### 1-star reviews
@@ -239,6 +239,16 @@ The SlowCOVIDNC app has been installed by more than **100000** times. At this ti
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="gov.nc.dhhs.exposurenotification 1 reviews"/>
 </p>
+
+> Never was notified<br> :date: __2020-12-11 00:26:46__
+
+> One star for the idea. All other stars gone because it doesn't work. Last checked for exposure 11/25/20. I set it up to never be put to sleep, but it just doesn't check and there's no way to force it to update.<br> :date: __2020-12-08 20:08:11__
+
+> Idk<br> :date: __2020-12-08 12:08:56__
+
+> Great idea but it stopped working Nov. 20th. When will it start working again?<br> :date: __2020-12-06 19:02:47__
+
+> When I first downloaded i had a app that protect me from hackers and it said that 4 ppl was trying to hack me with 317 trackers<br> :date: __2020-12-06 10:16:43__
 
 > I have had this app sense it came out and not once have I seen any information or gotten a notification. Undoubtedly no one uses this app because I work where there have been at least 20 some cases it looks as if one person would have this app, but no. Its useless<br> :date: __2020-12-01 13:49:51__
 
@@ -249,15 +259,5 @@ The SlowCOVIDNC app has been installed by more than **100000** times. At this ti
 > Doesn't do anything and yet covid is raising in numbers around nc. It would be better to know where it is so I can stay away from those areas.<br> :date: __2020-11-21 12:30:13__
 
 > Useless! Couldn't get a pin to share my positive test. Cumbersome. Pointless!<br> :date: __2020-11-20 04:00:49__
-
-> Useless app! But great idea if it worked. I've tried for days to enter that I tested positive for covid-19 and it refuses to allow me to notify the system. If others are experiencing this then it renders the entire system useless. And secondly you have to voluntarily disclose that you tested positive. I've tried for days to enter my positive test result, but it refuses to issue a PIN necessary to upload. 11/17 update :finally got a pin, and still will not accept alpha-num entry. S9 phone.<br> :date: __2020-11-17 23:17:45__
-
-> Not very useful if people don't participate.<br> :date: __2020-11-16 05:04:06__
-
-> Anyone I have asked either never heard of this app or may have heard about it once and forgot about it. If Roy Cooper and his "science-based" health policy staff were serious about containing the virus and encouraging proper contact tracing, the airwaves and newsprint would be flooded with ads about this app. They are not. It does no good (and drains battery according to some of the other reviews) if only a relative handful of people use the app & broadcast their Bluetooth signals into the ether<br> :date: __2020-11-07 22:37:51__
-
-> Downloaded this app to review it, I didnt even verifiably open this app so NC and Roy Cooper cant track me. Its amazing at how so many pawns in NC has downloaded this trackable app lol<br> :date: __2020-11-02 18:21:01__
-
-> Im not scared of my own shadow..i dont need my stufg tracked more than it already is..i only DL to leave a review..now stick it where sun dont shine<br> :date: __2020-11-02 16:37:51__
 
 

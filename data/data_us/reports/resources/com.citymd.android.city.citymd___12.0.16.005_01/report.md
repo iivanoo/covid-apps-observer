@@ -190,6 +190,12 @@ The CityMD app has been installed by more than **10000** times. At this time, **
 <img src="5_star_reviews_wordcloud.png" alt="com.citymd.android.city.citymd 5 reviews"/>
 </p>
 
+> Luv it 🤩 and convient!<br> :date: __2020-12-07 23:28:03__
+
+> Wonderful and knowledgeable physicians<br> :date: __2020-12-05 23:31:48__
+
+> The app was easy to use. It moved in real time. The connection was clear. The doctor was very nice and helpful.<br> :date: __2020-12-05 19:21:40__
+
 > Worked out well<br> :date: __2020-12-05 14:48:27__
 
 > So easy and helpful<br> :date: __2020-12-04 00:00:58__
@@ -203,12 +209,6 @@ The CityMD app has been installed by more than **10000** times. At this time, **
 > I love I don't have leave home see a doctor.<br> :date: __2020-11-24 18:25:04__
 
 > Dr.Feldman was very helpful and polite.<br> :date: __2020-11-21 23:09:41__
-
-> Great experience with the doctors they have its easy to use and great for any day emergency we may have also very confidential I will recommend this add<br> :date: __2020-11-21 17:38:08__
-
-> Love Love Love this ability to see a doctor online!<br> :date: __2020-11-20 15:17:36__
-
-> Easy to use and able to choose from a list of doctors that are available at the time. Very great to use especially during this crisis we're experiencing<br> :date: __2020-11-20 07:30:43__
 
 
 

@@ -243,6 +243,14 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 <img src="1_star_reviews_wordcloud.png" alt="de.bssd.covid19 1 reviews"/>
 </p>
 
+> Schrott. Geht nicht<br> :date: __2020-12-11 09:56:41__
+
+> Lässt sich unter Android 11 nicht öffnen! App wird sofort wieder geschlossen!<br> :date: __2020-12-09 17:38:41__
+
+> Startet auf einem Pixel 2 mit dem neuesten Android nicht.<br> :date: __2020-12-08 21:51:41__
+
+> nutzlos<br> :date: __2020-12-07 08:42:14__
+
 > Sorry, aber das ist die nutzloseste App, die ich je heruntergeladen habe. Der QR Code lässt sich nicht scannen, um den Zahlen/Nummerncode eingeben zu können musste ich die App neu installieren. Und das Ergebniss des Tests habe ich von meinem Arzt vor ca.14 Std. bekommen. Auf der App ist immer noch kein Ergebnis.<br> :date: __2020-12-03 23:09:43__
 
 > QR Code kann nicht gescannt werden und egal welchen Code (ID, Entschlüsselter QR-Code, per E-Mail verschickter Code) ich eingebe, mir wird immer angezeigt, dass das Format ungültig wäre ...also kurz gesagt ich komme gar nicht so weit, dass ich Ergebnisse einsehen könnte<br> :date: __2020-12-03 22:28:18__
@@ -254,13 +262,5 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 > Unbrauchbar<br> :date: __2020-12-01 09:54:52__
 
 > QR-Code Erfassung klappt nicht. Eingabe der ID sehr aufwendig. Negatives Ergebnis über das Labor erhalten. Nach zwei Wochen immer noch kein Befund in der App. Daher wieder deinstalliert.<br> :date: __2020-11-30 23:21:15__
-
-> Schieße ich fliege immer von der app raus also ich warte schon 4 Wochen auf mein Test . Mann hat zu mir gesagt ich muss die corona app herunterladen um mein Ergebnisse zu bekommen aber wie wenn ich jedes mal aus der app rausgeworfen werde . Diese app ist Schrott<br> :date: __2020-11-30 12:39:26__
-
-> Scan funktioniert nicht.<br> :date: __2020-11-29 16:07:03__
-
-> Wenn man keine Achtung auf die Gefühle von infizierten Menschen hat, entwickelt solche Schrot.<br> :date: __2020-11-29 14:18:05__
-
-> Der scan funktioniert nicht, Eingabe des Codes geht auch nicht, da sich das Eingabefeld auf dem Handy nicht öffnet. Absolute Zeitverschwendung gerade gewesen.<br> :date: __2020-11-29 09:51:06__
 
 
