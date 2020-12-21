@@ -159,25 +159,25 @@ The One You Active 10 Walking Tracker app has been installed by more than **1000
 <img src="5_star_reviews_wordcloud.png" alt="uk.ac.shef.oak.pheactiveten 5 reviews"/>
 </p>
 
+> This app has helped in motivating me to get out for a walk every day. I love it.<br> :date: __2020-12-20 18:34:37__
+
+> Its encouraged me to walk more!<br> :date: __2020-12-18 13:09:18__
+
+> Excellent app, does the job and more.<br> :date: __2020-12-16 20:28:49__
+
+> It is so simple and good app.it motivates me just love it<br> :date: __2020-12-16 14:36:55__
+
+> Helps me track that I'm doing some exercise each day, even if only a little - very valuable<br> :date: __2020-12-16 09:15:19__
+
+> Fantastic App. Always keeps me on my toes. It motivates me.<br> :date: __2020-12-16 00:15:29__
+
+> Can't wait to get home to read my ratings - definitely helps to keep me motivated and on target<br> :date: __2020-12-15 15:25:58__
+
+> I'm finding it a brilliant motivator as I want to achieve and outstrip my goals each day and this is giving me the impetus to do so. I've been surprised that some of my structured daily exercise doesn't count, so it is also encouraging me to increase the effort I put into that. Well recommended.<br> :date: __2020-12-15 12:32:23__
+
+> Useful way to measure your activity.<br> :date: __2020-12-14 09:13:59__
+
 > Great app<br> :date: __2020-12-13 04:06:34__
-
-> Certainly got me walking.<br> :date: __2020-12-12 09:01:59__
-
-> Simple to use and encourages my walking activity. So far gone from 10 mins to 40 mins.<br> :date: __2020-12-11 20:30:28__
-
-> Really gets me motivated to get out despite Covid restrictions.<br> :date: __2020-12-11 14:55:44__
-
-> Gets me out the house a few times a day to make sure I've done my daily exercise and is so easy to use, it runs in the background<br> :date: __2020-12-10 12:22:22__
-
-> Tremendous help keeping me on top of regular exercise.<br> :date: __2020-12-10 01:41:49__
-
-> Very good app, thank you for letting the people use the app who stay outside of England.<br> :date: __2020-12-09 14:36:24__
-
-> This is a simple but a good app. It does what it says on the tin.<br> :date: __2020-12-08 21:28:34__
-
-> This app, recommend by my sister, has got me up and going. At first I could only do five minutes. Some days I do a lot more now, with at least ten minutes brisk walking. I do it indoors on the spot and outside. I like that it prompts me when I haven't used it and encouraged me when I do.<br> :date: __2020-12-08 14:00:15__
-
-> excellent<br> :date: __2020-12-08 01:04:41__
 
 
 
@@ -186,6 +186,8 @@ The One You Active 10 Walking Tracker app has been installed by more than **1000
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="uk.ac.shef.oak.pheactiveten 4 reviews"/>
 </p>
+
+> Very good<br> :date: __2020-12-14 09:47:03__
 
 > If you want some simple recipes it is a good free app.<br> :date: __2020-12-13 18:13:20__
 
@@ -204,8 +206,6 @@ The One You Active 10 Walking Tracker app has been installed by more than **1000
 > This works well most days but some days doesn't record steps and brisk minutes you have done.<br> :date: __2020-12-02 18:49:02__
 
 > Makes me go out for a walk even if I dont have much time. If I achieve my target I treat myself.<br> :date: __2020-11-29 13:07:56__
-
-> The app has made me more active, however would be better if it showed distance walked based on an average step length.<br> :date: __2020-11-27 10:50:12__
 
 
 

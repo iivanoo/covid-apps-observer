@@ -190,6 +190,10 @@ The CityMD app has been installed by more than **10000** times. At this time, **
 <img src="5_star_reviews_wordcloud.png" alt="com.citymd.android.city.citymd 5 reviews"/>
 </p>
 
+> Didnt want to go out in the snow but also couldnt continue dealing with strep throat and this was the perfect solution. The app even suggested pharmacies that will deliver my prescription. I'm so grateful I found this solution!<br> :date: __2020-12-19 19:12:15__
+
+> Excellent. Knowledgeable, empathetic, pleasant.<br> :date: __2020-12-14 19:42:50__
+
 > Luv it 🤩 and convient!<br> :date: __2020-12-07 23:28:03__
 
 > Wonderful and knowledgeable physicians<br> :date: __2020-12-05 23:31:48__
@@ -205,10 +209,6 @@ The CityMD app has been installed by more than **10000** times. At this time, **
 > Overall very pleased, my wait time was pretty good and it was fast!!!<br> :date: __2020-12-03 00:22:48__
 
 > Always have a pleasant, insightful visit whenever I visit physically or virtually....thank God for city md..<br> :date: __2020-11-27 17:53:40__
-
-> I love I don't have leave home see a doctor.<br> :date: __2020-11-24 18:25:04__
-
-> Dr.Feldman was very helpful and polite.<br> :date: __2020-11-21 23:09:41__
 
 
 

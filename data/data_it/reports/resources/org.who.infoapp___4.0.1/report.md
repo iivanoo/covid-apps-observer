@@ -138,6 +138,8 @@ The WHO Info app has been installed by more than **100000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="org.who.infoapp 5 reviews"/>
 </p>
 
+> Unica e vera fonte di verità sul Covid-19. Ottima App, la consiglio ai Negazionisti.<br> :date: __2020-12-15 11:42:50__
+
 > Ottima e leggibile. Mi vergogno per tutti gli italiani che piagnucolano. La scienza parla inglese e lingue a larghissima diffusione!! Non certo l'italiano degli ignoranti<br> :date: __2020-11-24 12:18:10__
 
 > App ben fatta, unica pecca poche sincronizzazioni con enti nazionali e di epidemiologia<br> :date: __2020-10-09 11:58:41__

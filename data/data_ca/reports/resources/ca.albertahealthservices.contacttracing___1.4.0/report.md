@@ -145,6 +145,10 @@ The ABTraceTogether app has been installed by more than **50000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="ca.albertahealthservices.contacttracing 5 reviews"/>
 </p>
 
+> Working with a little bit of a funny twist.<br> :date: __2020-12-19 21:33:30__
+
+> Best<br> :date: __2020-12-16 01:39:39__
+
 > Works well my old pixel 2 xl and my current pixel 5. No noticeable battery issues or crashing. Had it up an running in less then 3min.<br> :date: __2020-12-05 00:13:36__
 
 > Seems good so far. I have been running the App for 12 Hrs, and the phone claims it's consuming 1.1% of all battery usage. I would hope most of negative reviews arn't a partisan attack, because it will deter more people from using the app, which will render it useless. Do your part folks!<br> :date: __2020-12-03 18:53:38__
@@ -160,10 +164,6 @@ The ABTraceTogether app has been installed by more than **50000** times. At this
 > Sometimes it eats battery. Not sure why. Otherwise just sits there<br> :date: __2020-11-12 08:20:45__
 
 > Flawless installation and just works away in the background consuming very little battery. Every Albertan should be installing this app.<br> :date: __2020-11-09 01:25:41__
-
-> It works. This app works and does not crash. If you're worried about battery life, you can do more by turning down your screen brightness than by not using this app.<br> :date: __2020-11-07 05:36:10__
-
-> Good app, does not drain my battery and provide me with some sort of security that If I am close to someone infected i will know. We all that live in Alberta should use it thanks<br> :date: __2020-10-16 06:19:47__
 
 
 
@@ -257,24 +257,24 @@ The ABTraceTogether app has been installed by more than **50000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="ca.albertahealthservices.contacttracing 1 reviews"/>
 </p>
 
+> Useless<br> :date: __2020-12-19 04:25:19__
+
+> I've had this installed since it was released, encouraged friends and family to use it as well. I know several dozen people that have been diagnosed with covid-19, including myself. Not one single person I know has been asked to use the app to actually trace positive cases.<br> :date: __2020-12-19 04:04:57__
+
+> All doses is kill my batterie<br> :date: __2020-12-18 02:16:31__
+
+> Doesn't really work, not worth the download.<br> :date: __2020-12-16 04:15:56__
+
+> Terrib0le<br> :date: __2020-12-15 23:52:19__
+
+> Can't even send a pin, allow use of the national one<br> :date: __2020-12-15 07:57:16__
+
+> How we can get app start code on indian number ?<br> :date: __2020-12-15 05:13:22__
+
+> Incompetent alberta government<br> :date: __2020-12-15 00:49:11__
+
+> Did not work on my phone. I had to buy a new phone. When I tried to install app, nightmare, kept getting stuck on activation loop (phone number and code sent by text). A huge waste of tax payer's money given that we had a national app available for the province and stubber premier did not want to allow national app. Now cases are astronomical and he did not keep the promise of keep spending down by paying for a horrible app. Very disappointed!<br> :date: __2020-12-14 18:00:54__
+
 > I was not notified about being in close contact but I did follow isolation protocol!<br> :date: __2020-12-13 18:20:21__
-
-> If you want to pretend you care about covid AND brick your phone, this app is perfect.<br> :date: __2020-12-13 06:37:58__
-
-> Drained my battery quick. Also the privacy aspect with this app is very suspicious.<br> :date: __2020-12-12 23:07:44__
-
-> It doesn't work :)<br> :date: __2020-12-12 20:50:28__
-
-> I downloaded this app shortly after it came out only to see that it is essentially useless and was created to benefit our miserable failure of a health minister's friends. Not only does it not trace contacts effectively which is essential during a pandemic, it also collects your data for lord only knows what purpose. I wish that our Bible school evictee brain dead ideologue of a premier would implement the federal contact tracing app, but tRuDeAu BaD.<br> :date: __2020-12-12 19:52:52__
-
-> Doesn't stay running in the background for more than a few hours, which makes the whole thing useless when I'm getting groceries or other supplies.<br> :date: __2020-12-11 20:35:18__
-
-> Hey Jason Kenney, you piece of human garbage. Close this app and integrate to the National Canade wide app you useless dumpster fire of a human. I hope to God there's a no confidence vote and you're removed for your incompetence and corruption. Go to hell.<br> :date: __2020-12-11 07:21:36__
-
-> GIVE US A WORKING APP<br> :date: __2020-12-11 06:37:05__
-
-> This is a sick joke. As of mid-November, only 19 cases tracked by this app (with 200k+ downloads) since May in a province with 1000+ new cases every day. Instead of working together to protect all Canadians by using the federal app, we have wasted half a million dollars on reinventing the wheel that isolates us from federal help, divides us from our fellow Canadians, and protects almost nobody as a result.<br> :date: __2020-12-10 18:26:21__
-
-> If I could give it zero I would. Frankly it doesnt work. I was diagnosed with COVID and none of my close contacts were notified. Pointless. Doesnt integrate with Federal app, due to Kenneys pride.<br> :date: __2020-12-10 07:07:41__
 
 

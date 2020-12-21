@@ -210,6 +210,8 @@ nützlich und sehr informationreich! Habt vielen dank. Herzliche Grüße Achim!<
 <img src="2_star_reviews_wordcloud.png" alt="de.kbv.kbv2go 2 reviews"/>
 </p>
 
+> Der Heilmittelkatalog ist nicht auffindbar<br> :date: __2020-12-14 15:39:42__
+
 > Die angebotenen Downloads funktionieren nicht!<br> :date: __2020-03-27 11:27:29__
 
 > Katalog nicht verfügbar !  Tolle App, neu installiert und erste Message: Katalog nicht verfügbar. Gleich wieder gelöscht - unzuverlässig.<br> :date: __2017-10-16 19:01:18__

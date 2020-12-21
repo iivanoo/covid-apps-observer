@@ -145,6 +145,14 @@ The COVID Alert NJ app has been installed by more than **100000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="com.nj.gov.covidalert 5 reviews"/>
 </p>
 
+> Very good and trusted experience with google products!!!!!!<br> :date: __2020-12-20 07:27:48__
+
+> Not everyone believe in this.<br> :date: __2020-12-19 17:23:56__
+
+> Good<br> :date: __2020-12-15 18:32:24__
+
+> good<br> :date: __2020-12-14 14:10:51__
+
 > Excellent<br> :date: __2020-12-12 14:34:07__
 
 > Nce<br> :date: __2020-12-09 01:06:17__
@@ -156,14 +164,6 @@ The COVID Alert NJ app has been installed by more than **100000** times. At this
 > Great Health Emergency APP! My family and I downloaded immediately without hesitation! The DOH & our Governor want to save our lives! It's so easy to use and informative! You can simply set up a reminder and it only takes 15 seconds to check in! I truly believe if more NJ peeps downloaded this easy tool & join the fight, it could save lives & give additional information to our caring DOH department!! ❤<br> :date: __2020-11-26 19:37:27__
 
 > Very helpful app<br> :date: __2020-11-25 05:06:53__
-
-> After turning off WiFi then setting it up works. Thanks 😊<br> :date: __2020-11-23 20:47:44__
-
-> Very easy to use and understand this app<br> :date: __2020-11-23 02:22:03__
-
-> I have it already on my phone I like that I can keep up with people in my surroundings.<br> :date: __2020-11-20 22:42:46__
-
-> First day of use and I am highly satisfied.<br> :date: __2020-11-19 23:13:38__
 
 
 

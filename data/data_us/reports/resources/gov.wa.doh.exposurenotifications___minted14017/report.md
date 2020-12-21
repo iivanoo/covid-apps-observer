@@ -129,9 +129,17 @@ The WA Notify app has been installed by more than **100000** times. At this time
 <img src="5_star_reviews_wordcloud.png" alt="gov.wa.doh.exposurenotifications 5 reviews"/>
 </p>
 
-> Just happy.<br> :date: __2020-12-12 21:28:27__
+> I just downloaded it<br> :date: __2020-12-19 20:37:29__
 
-> Necessary and effective<br> :date: __2020-12-11 22:06:24__
+> Would be move convenient were it an implant. Maybe next year. Regardless, this app will make it easier to earn credits and to locate suitable breeding mates.<br> :date: __2020-12-19 07:40:24__
+
+> Keep it up to date as this is going to be 6 to 9 more months long. Permissions are actually at an os level for both Android and ios, meaning you probably got an os update that you opped into in July or August. Go to settings, search for Contact, and exposure tracing will come up.<br> :date: __2020-12-18 08:20:33__
+
+> Easy to use, private, I've had no problems<br> :date: __2020-12-17 01:08:14__
+
+> Seems great so far.<br> :date: __2020-12-13 20:25:40__
+
+> Just happy.<br> :date: __2020-12-12 21:28:27__
 
 > Ok<br> :date: __2020-12-11 18:10:14__
 
@@ -141,14 +149,6 @@ The WA Notify app has been installed by more than **100000** times. At this time
 
 > This app will help to keep you and your love ones alive.<br> :date: __2020-12-10 18:21:34__
 
-> I am new...no experience<br> :date: __2020-12-10 16:45:29__
-
-> Good so far<br> :date: __2020-12-10 02:46:25__
-
-> Seems to work great. Hopefully more and more people will sign up.<br> :date: __2020-12-09 17:19:42__
-
-> A pivotal and important step towards eliminating coronavirus<br> :date: __2020-12-08 11:57:43__
-
 
 
 #### 4-star reviews
@@ -156,6 +156,10 @@ The WA Notify app has been installed by more than **100000** times. At this time
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="gov.wa.doh.exposurenotifications 4 reviews"/>
 </p>
+
+> Downloaded when there was only 1500 other downloads and am so happy to see this app over 100k downloads now! Helps make me believe in doing this.<br> :date: __2020-12-16 15:24:58__
+
+> Nice concept, but poor execution on letting the public know it is available, and letting them know how the app works and what safeguards are in place to protect their privacy. To many people think the app will share personal information, so are unwilling to download it. This is making the app unusable as it was designed to be used. If only one person out of a hundred has downloaded it and is using it, then what use is having it on your phone?<br> :date: __2020-12-13 21:01:07__
 
 > A lot like pokemon go only you don't want to catch any.<br> :date: __2020-12-09 05:47:52__
 
@@ -173,8 +177,6 @@ The WA Notify app has been installed by more than **100000** times. At this time
 
 > I am wanting to do what I can to help stop the spread. I've been isolating, etc...but will still feel guilty if I test positive. I want my leaders to make good decisions. If one flaunts the virus and laughs in its face, they are not who I want to be a leader.<br> :date: __2020-11-30 22:56:34__
 
-> I loaded the app and no icon appears for a quick link on my android phone.<br> :date: __2020-11-30 22:35:49__
-
 
 
 #### 3-star reviews
@@ -182,6 +184,10 @@ The WA Notify app has been installed by more than **100000** times. At this time
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="gov.wa.doh.exposurenotifications 3 reviews"/>
 </p>
+
+> I echo Josh McAllister's comments. Recently tried to upload my test result which came to a dead end with the elusive "verification code".<br> :date: __2020-12-18 17:23:03__
+
+> Havent had none<br> :date: __2020-12-15 18:36:19__
 
 > I like the idea and the app itself seems fine but I don't like keeping my Bluetooth on, so I'm installing.<br> :date: __2020-12-12 18:54:49__
 
@@ -205,6 +211,12 @@ The WA Notify app has been installed by more than **100000** times. At this time
 <img src="2_star_reviews_wordcloud.png" alt="gov.wa.doh.exposurenotifications 2 reviews"/>
 </p>
 
+> App seems like it would be useful, but you need a verification code to give a positive result, and nobody knows how to get this code. My friend tested positive and I didn't receive any alert after being near her because she didn't get any info about a verification code, even when she asked about it. Being able to self report would make this much more useful.<br> :date: __2020-12-20 01:52:58__
+
+> Wish I didn't have to have my bluetooth on for it work.<br> :date: __2020-12-18 06:24:46__
+
+> it doesn't notify me at all. we had 2 positive at work but this never notified me. its not working.<br> :date: __2020-12-14 14:55:24__
+
 > As big of a joke as our leaders! SMH<br> :date: __2020-12-07 11:01:49__
 
 > The verification code is next to impossible to get. Whatcom County doesn't seem to know much about how to produce the code or don't seem to care. Perhaps the number from the test results should be a code number.<br> :date: __2020-12-06 18:17:01__
@@ -227,24 +239,24 @@ The WA Notify app has been installed by more than **100000** times. At this time
 <img src="1_star_reviews_wordcloud.png" alt="gov.wa.doh.exposurenotifications 1 reviews"/>
 </p>
 
-> Every time I try to turn on the notification, it shows a meaningless error message "something went wrong. Try again", not sure what to do after retrying a dozen times.<br> :date: __2020-12-13 00:57:01__
+> Public health never reached reached out, so I have no way to share my positive test result.<br> :date: __2020-12-20 15:51:31__
 
-> Leaving Bluetooth enabled feels horrifically unsafe. It's a significant security risk. Considering that this app REQUIRES it, I wouldn't suggest using it.<br> :date: __2020-12-11 22:54:50__
+> I couldn't warn others I got covid since I didn't have a verification code! Makes it somewhat useless<br> :date: __2020-12-20 00:17:33__
 
-> This app causes issues with all other Bluetooth devices, including my Fitbit (will not sync with this app installed) and my headphones (will randomly disconnect from headphone while in use). There is no option to disable the app. While I am at home, I wish I could disable the app. Especially if I am not having people come to my house.<br> :date: __2020-12-11 11:50:24__
+> No code. Can't make it work. Complete trash. Not surprised considering our Governor.<br> :date: __2020-12-19 23:31:19__
 
-> This app is acquired all the permission as 123. No thank you. Not for me.<br> :date: __2020-12-11 03:21:58__
+> Did not get any notifications since it is not required for people to put it in that they have the virus and I don't go very many places<br> :date: __2020-12-18 07:19:59__
 
-> Installed, wouldn't let me turn on notifications, so uninstalled and tried to reinstall but won't. Terrible app. You would think WA state could do a better job with all the tech people in Seattle<br> :date: __2020-12-11 02:41:38__
+> Useless app, can not turn on. Just waste of time to try<br> :date: __2020-12-17 21:02:34__
 
-> Will not load.<br> :date: __2020-12-11 01:04:04__
+> Spam. F Inslee and his tracking device<br> :date: __2020-12-17 17:04:59__
 
-> Pending for a week now. DOH says remove it, but it hasn't installed enough to remove. Sad.<br> :date: __2020-12-10 23:09:40__
+> Google... Just shameful. You modify google play to have a separate notification toggle to specify continuely spam people about this app. So messed up. Google is quickly now competing with apple in the race for the most deplorable. Makes me want to vomit.<br> :date: __2020-12-17 16:04:52__
 
-> My neighbor has the app and covid. His roomates the same. The person that exposed them the same. Nobody was notified...<br> :date: __2020-12-10 21:50:04__
+> How stupid are you people? Read a book or at least pull your head out of the ground and look around. Seriously, dummies.<br> :date: __2020-12-17 09:38:59__
 
-> Great idea, unable to use app without a "verification code" but where do you get this code? It sure isn't the one with your test results.<br> :date: __2020-12-10 18:49:53__
+> What a pointless waste of time.<br> :date: __2020-12-16 02:02:38__
 
-> I have a Galaxy S10plus with Verizon. The exposure notification toggle under settings and Google is greyed out and can't be turned on. So the WA Notify app does not work. Both Verizon and Google, as well as Samsung support staff are telling me this is an app issue with the developer of WA Notify.<br> :date: __2020-12-09 01:21:18__
+> This app made my wifi inactive about every 10 minutes on my Note 10. Had to Uninstall it.<br> :date: __2020-12-15 20:28:05__
 
 

@@ -1,11 +1,23 @@
 [
     {
+        "reviewId": "gp:AOqpTOGK0qQH-uHWyVl7DnCXKSZQXGnNF_U6SWH8iHEVON8enfjcyiufjDfglgrF2HCcEiVI60eB4LPsBAChySE",
+        "userName": "Julia Hafenrichter",
+        "userImage": "https://play-lh.googleusercontent.com/-WZMtSc0ISZw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucli6aFbnp_hhror2G0wjWvHMyseCA/photo.jpg",
+        "content": "Der Heilmittelkatalog ist nicht auffindbar",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.2.1",
+        "at": "2020-12-14 15:39:42",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOHSEPk6VLTKfwJwDCo4rOaf_7cyJdAmObBqiWHdqp287gLheJ-QXDug7xmeoP63IdlqLgMBwUXeZUmzKrY",
         "userName": "Christian Buchner",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgMksMC0Qv4HDIaKH3qTOQwpzWSSSbn4F1TcWQh2Q",
         "content": "Der angek\u00fcndigte Heilmittelkatalog ist nicht verf\u00fcgbar, oder so explizit versteckt dass man ihn nicht nutzen kann.",
         "score": 3,
-        "thumbsUpCount": 1,
+        "thumbsUpCount": 5,
         "reviewCreatedVersion": "2.2.1",
         "at": "2020-12-11 10:04:36",
         "replyContent": null,

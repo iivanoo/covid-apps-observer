@@ -121,6 +121,8 @@ The Covid Trace Nevada app has been installed by more than **50000** times. At t
 <img src="5_star_reviews_wordcloud.png" alt="gov.nv.dhhs.en 5 reviews"/>
 </p>
 
+> I love the idea. It doesn't interfere with anything on my device, either.<br> :date: __2020-12-19 19:47:28__
+
 > Works great as long as you have your Bluetooth is on.<br> :date: __2020-12-02 01:00:52__
 
 > Wish more people would add this app<br> :date: __2020-12-01 01:40:43__
@@ -139,8 +141,6 @@ The Covid Trace Nevada app has been installed by more than **50000** times. At t
 
 > Thank you Stay Safe<br> :date: __2020-10-31 05:22:45__
 
-> Excellent coverage<br> :date: __2020-10-16 08:32:35__
-
 
 
 #### 4-star reviews
@@ -148,6 +148,8 @@ The Covid Trace Nevada app has been installed by more than **50000** times. At t
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="gov.nv.dhhs.en 4 reviews"/>
 </p>
+
+> It's great, just more people need to get the app to make it even better and more effective. Only 50k downloads. Nevada as a population of over 3 million. So less than 2% of the population have the app... We need to share it with family & friends, and our local news needs to promote it.<br> :date: __2020-12-17 11:00:41__
 
 > It seemed to work fine while I was in Vegas but I flew to Dallas last night and now it says the trace app is off and I can't push the grocery basket any further! The wheels locked up so I guess it's just a Vegas phenomenon? "I'll Be Back!" I'll keep it on my phone till then.<br> :date: __2020-12-02 23:17:41__
 
@@ -189,6 +191,8 @@ The Covid Trace Nevada app has been installed by more than **50000** times. At t
 <img src="2_star_reviews_wordcloud.png" alt="gov.nv.dhhs.en 2 reviews"/>
 </p>
 
+> Johnny Donnie Ddr<br> :date: __2020-12-17 17:05:23__
+
 > Don't know whether this thing really works or not<br> :date: __2020-12-12 04:51:42__
 
 > I feel this is just to make profit when you download this app, i downloaded few weeks back a week later some one closed to me came out positive to the virus and i didn't get the alert i have known people that have use this app but seems noone gets an alert<br> :date: __2020-12-02 06:58:48__
@@ -207,8 +211,6 @@ The Covid Trace Nevada app has been installed by more than **50000** times. At t
 
 > Have the latest updates, yet asks me to update further. Click the link to do so > infinite load screen. Much needed app, needs some fixes.<br> :date: __2020-09-24 08:51:36__
 
-> Needs work, won't refresh!<br> :date: __2020-09-18 02:17:18__
-
 
 
 #### 1-star reviews
@@ -217,24 +219,24 @@ The Covid Trace Nevada app has been installed by more than **50000** times. At t
 <img src="1_star_reviews_wordcloud.png" alt="gov.nv.dhhs.en 1 reviews"/>
 </p>
 
+> It requires a Verification Code to report you are Positive. The UMCconnect has no idea how to give me a Verification code after they told me I am positive. The app is useless, you can't report you have Covid. It was another huge Democrat money wasting pork belly project<br> :date: __2020-12-18 20:49:57__
+
+> This annoing<br> :date: __2020-12-18 12:02:08__
+
+> 12-16-20 update: Uninstalled, waited a few days, reinstalled and the App still does not refresh.... App does not allow you to refresh, uninstalled and reinstalled and still does not refresh.<br> :date: __2020-12-16 23:13:26__
+
+> The verification code sent by the SNHD was 7 digits, the app requires an 8 digit code. Could not upload the verification number because it was not recognized as valid. Useless app.<br> :date: __2020-12-16 21:46:13__
+
+> This app has just destroyed my phone! You rotten maggots! I hope you get this virus and DIE A SLOW AGONIZING DEATH. YOU LYING, WORTHLESS TOOL OF A COWARD. I WILL NOT COMPLY! GO BACK TOO THE DEVIL YOU MAGGOTS!<br> :date: __2020-12-16 04:46:05__
+
+> I've been carrying this around for 3 months and to date NO NOTIFICATION that I've come close to Covid. Then I caught the coronavirus and it was EXTREMELY DIFFICULT to report a covid positive. You have to have a verification code to report your covid diagnosis and the clinics have NO CLUE on how to give you the code. I had to call the Nevada State DHHS and thankfully a really nice guy called back and gave me a code, and my roommate a code too BUT the app STILL isn't reporting Covid encounters!!<br> :date: __2020-12-15 23:25:51__
+
+> Does not work on my phone<br> :date: __2020-12-14 05:59:05__
+
 > Dosent work. I got covid and woke up dead yesterday. Can't believe I trusted an app to tell me if I was exposed to the flu. App was definitely created by a Biden voting Democrat. 🙁<br> :date: __2020-12-13 01:46:56__
 
 > Opened app after a few weeks of not looking at it. States exposure notification is off and click here. Clicked and it took me to the Google services page... why have the app if there's not going to be any notifications?<br> :date: __2020-12-11 02:23:39__
 
 > Does not work. My roommate and I had this app for months. A few weeks ago I notified the app when I tested positive and put in my confirmation code. My Roommate was Never notified. Neither were any of my coworkers with the app.<br> :date: __2020-12-11 01:38:44__
-
-> This app relies on someone with covid to actually mark that they have covid... so if an infected person doesn't have the app or they don't want to mark themselves as such, you can still contact the disease. These factors essentially render the app useless.<br> :date: __2020-12-08 02:17:32__
-
-> It doesn't work. Waste of time. Of course it's useless<br> :date: __2020-12-06 17:05:27__
-
-> App doesn't ask for any permissions and you can't enable them, therefore there is no way this works. What a joke.<br> :date: __2020-12-06 04:05:10__
-
-> Funny, I chose not to get a tracking app on my phone and it keeps trying to auto download<br> :date: __2020-12-06 01:45:13__
-
-> I have had this download it for about six weeks and it hasn't shown a single case and I live in an area where I know that there have been dozens of cases during this time period so evidently this application does not work.<br> :date: __2020-12-05 06:50:51__
-
-> App keeps freezing & isn't updating the exposure information.<br> :date: __2020-12-04 23:09:46__
-
-> Nope! Nope! Nope!<br> :date: __2020-12-04 07:33:36__
 
 

@@ -171,6 +171,8 @@ The Mend Telemedicine app has been installed by more than **50000** times. At th
 <img src="4_star_reviews_wordcloud.png" alt="com.mend.android.telemedicine 4 reviews"/>
 </p>
 
+> I love this i can talk without coming in<br> :date: __2020-12-14 18:27:08__
+
 > Werw<br> :date: __2020-09-27 04:08:04__
 
 > Pretty easy overall. I'm impressed with today's visit.<br> :date: __2020-09-10 22:43:10__

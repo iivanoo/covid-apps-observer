@@ -199,6 +199,8 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <img src="4_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 4 reviews"/>
 </p>
 
+> Confusa<br> :date: __2020-12-14 15:54:31__
+
 > Razoável<br> :date: __2020-12-08 11:57:07__
 
 > Boa experiência.<br> :date: __2020-11-12 09:59:38__
@@ -216,8 +218,6 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 > Fixe<br> :date: __2020-04-05 13:41:52__
 
 > Em teste, darei mais se ficar satisfeito<br> :date: __2020-03-24 18:41:21__
-
-> A algumas vezes complica e é demorado<br> :date: __2019-11-28 13:33:33__
 
 
 
@@ -283,6 +283,10 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <img src="1_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 1 reviews"/>
 </p>
 
+> Muito dificil ver receitas<br> :date: __2020-12-20 15:15:21__
+
+> Pelo pouca utilização que fiz da app, so tenho a concluir que não sei para que é que serve, já que redirige para o website equivalente. Além disso, houve um problema da primeira vez que tentei fazer login.<br> :date: __2020-12-14 06:46:42__
+
 > não utilizei!!<br> :date: __2020-12-13 21:43:57__
 
 > Muito má, para se conseguir entrar é uma odisseia. A ideia é boa mas é frustrante a utilização.<br> :date: __2020-12-13 20:26:48__
@@ -298,9 +302,5 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 > Gostaria de saber o porquê da aplicação deixar de funcionar no Samsung A 50, a onde funcionava muito bem É agora só funciona em telemóveis mais antigos. Espero resposta. Obrigado<br> :date: __2020-11-09 19:06:30__
 
 > Isto é gozar com quem paga e está doente!<br> :date: __2020-11-06 12:52:25__
-
-> A aplicação deixou de funcionar. Gostava que resolvessem o problema. Obrigado. Há 2 anos que não fazem actualizações da aplicação. Por isso esta aplicação não serve pra nada. É uma vergonha.<br> :date: __2020-11-05 12:43:58__
-
-> Ridículo e vergonhoso<br> :date: __2020-11-02 20:48:01__
 
 

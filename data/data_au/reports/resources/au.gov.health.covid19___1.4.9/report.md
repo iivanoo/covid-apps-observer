@@ -187,6 +187,8 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 <img src="4_star_reviews_wordcloud.png" alt="au.gov.health.covid19 4 reviews"/>
 </p>
 
+> X cn<br> :date: __2020-12-14 05:10:55__
+
 > Great resource for reliable Coronavirus info. Used to be hard to find latest stats in a meaningful format but this seems to have improved<br> :date: __2020-09-08 06:19:23__
 
 > It's good what is f..K going on ?<br> :date: __2020-08-04 08:35:34__
@@ -204,8 +206,6 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 > Good<br> :date: __2020-05-11 11:25:39__
 
 > I like<br> :date: __2020-05-07 01:23:44__
-
-> Good<br> :date: __2020-05-01 06:29:25__
 
 
 
@@ -271,6 +271,10 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 <img src="1_star_reviews_wordcloud.png" alt="au.gov.health.covid19 1 reviews"/>
 </p>
 
+> Useless. Very outdated notification feed. This app has life in my phone less than 5 minutes. Wish the government does more research for what citizens needs before watst the public money.<br> :date: __2020-12-19 21:25:15__
+
+> There is no information regarding privacy measures for testing procedures and the storage location/process regarding retained genetic samples.<br> :date: __2020-12-14 09:05:12__
+
 > Unfortunate that it provides incorrect information which causes difficulties for business. Since when were churches allowed 1 per 2sqm with a maximum of 150 for a religious ceremony - not a wedding or a funeral.<br> :date: __2020-12-07 04:05:26__
 
 > Never used and a waste of money by the government!<br> :date: __2020-11-08 22:39:03__
@@ -286,9 +290,5 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 > I changed telephones and I cannot get the app for the new phone. It rarely worked on the old phone<br> :date: __2020-09-11 11:52:29__
 
 > Frustrating<br> :date: __2020-09-10 03:00:32__
-
-> It won't download even after numerous attempts<br> :date: __2020-08-31 07:06:23__
-
-> Never use this app<br> :date: __2020-08-29 12:29:12__
 
 

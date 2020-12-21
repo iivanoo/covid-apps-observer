@@ -1,5 +1,137 @@
 [
     {
+        "reviewId": "gp:AOqpTOGyiN7Yr282LzmUkPc65RIXQKt3JtbfimGGhNwHxMnAZOD9gvKzAb_STS8rEVYIjTROmvAsJbbL-nvylA",
+        "userName": "Melanie McG",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg8SYdyHnZaM-vY2FFVKQLXrITWmT6ZHmT9FWyzTzE",
+        "content": "Freezes the phone and crashes every time it tries to get a face map after log in. I still have yet to actually USE the app, so bye-bye",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.0",
+        "at": "2020-12-20 15:54:45",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHNlKo3b18tPvMFNMZJn6oDROy2ovPxuXSYiqJWucSaYjD3_t7N-CTFfwwoaNIf00CbQVhSCYZcjQupQA",
+        "userName": "Chris Warren",
+        "userImage": "https://play-lh.googleusercontent.com/-36v2GzLIte8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmAjGc78aHRv6-h5PO5osFP3GA0cA/photo.jpg",
+        "content": "Very helpful",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.0",
+        "at": "2020-12-20 00:00:25",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHQ2iFFTfpUYWd0DPR18uIBtpEAAuSMkQHmnnAMKda_AZ8ReSufTC7B15edxktJ9fqJKTwHABqr9qvjKw",
+        "userName": "Britton Ingraham",
+        "userImage": "https://play-lh.googleusercontent.com/-H3SD9UHZJ6w/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclHhiowlXby8hlVbuW0myV8TK1SNA/photo.jpg",
+        "content": "First state in the country with a legal digital identification. So cool!!! Also access to medical rec card via this app",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.0",
+        "at": "2020-12-19 18:35:15",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGUk_aXt83QaiNmyO1SD3S2pwMHbVbEC2mqbV15sj7YFEWGsj0o9ek3T5Xgt5wDf762AM5OUbkjaRNe2A",
+        "userName": "Melissa Battles-Maynard",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj3e45aYdAWpzn7CPbF41QytfiZ4CJAaaNuMErhq5A",
+        "content": "Good app",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.0",
+        "at": "2020-12-18 10:41:21",
+        "replyContent": "Hi Melissa, thank you for the 5-star review!",
+        "repliedAt": "2020-12-14 19:46:51"
+    },
+    {
+        "reviewId": "gp:AOqpTOE2T9ARj1bqI1mKXO9my1xJX33QN3sL3DljJacoH54o3Jvx-b-S7jg5sHPkN8wiQlk7yJWB09_UDl7-ng",
+        "userName": "Robert Dumont",
+        "userImage": "https://play-lh.googleusercontent.com/-yWDZ0hN44Ks/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckMXT5SD_RQkS9gl5o-SSYdXWsNwQ/photo.jpg",
+        "content": "Very easy to use and upload information. Wish all agencies along with TSA accepted the digital documents.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.0",
+        "at": "2020-12-18 01:09:35",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOEsO46goEGVzso8-eDrPMrbxXQ2jvFeTGgQ74WqIuxXhjKaPeAzceHZgPAyUuw-Wpjv6oYTlVpiO0g5ig",
+        "userName": "Chad Forbes",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiyBLNJ90OamMUhaIFTqemil-S5ugW2u6caXC8hrA",
+        "content": "Really pleased with the app, can't wait till everybody understands and accepts digital IDs.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.0",
+        "at": "2020-12-16 23:20:43",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOExY0wskV2jVbxinLzyx2MskQtDdDT4qzh7vZ26ipoGMqvDcPLjkuwFYApGiXrHeZdm5ZvCyPnY-AZNqA",
+        "userName": "Frank Williams",
+        "userImage": "https://play-lh.googleusercontent.com/-XDLscbJlqGs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnJWECWFTuGQ00OZJwb4bttqFafhQ/photo.jpg",
+        "content": "Can not in places that have WiFi",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.0",
+        "at": "2020-12-16 22:39:27",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHjrAb4jyvKJqH3NGmFZ5g81CFSecduBDVA8cZk9khjcqPr0CTiZ3LEp-8sW32uuNj6LBj8J1GBBn0Znw",
+        "userName": "R Jones",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ggm8QUWr7m6MXeQZnRKNORG5h1bTAjHJruE9RNZ",
+        "content": "I just got my temporary paper ID the app will not allow me to scan it so I cant make an account. This is not cool waste of space on my device.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.0",
+        "at": "2020-12-15 22:28:10",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFwTSEW0hhS7vZk9JCYDxbu9L7o-xsCznjPBpSntv8mFVoKqVDD3vrEkoqeHGrkNM2ImZJCsz4Z8VsE1Q",
+        "userName": "Garen Zamba",
+        "userImage": "https://play-lh.googleusercontent.com/-U8OaRn2_Gqc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckCL56N-_zaVhuDqS3hfRm_XUFKdQ/photo.jpg",
+        "content": "I am so elated and glad of the fact that I can no longer loose my ID.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.0",
+        "at": "2020-12-15 06:08:30",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFew1IIkpa7dZgw91XYBAo-2s61p6PBdLgJnW44qjALvLNm_cA6UqOIFfh4DmMd75SeEKqwt7hQ-b09pA",
+        "userName": "Dave Sturtz",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgFxokmySOPp7MOFmil1DKCVrFQyKhiCTE5onkN",
+        "content": "This app is a good idea which is not ready for Prime Time. The app is hard to get set up. One can create an account, but then one needs the \"Authentication\" number which is supposedly emailed. I found that less than 10% of the time did I actually get an email. OK, fine, I eventually got one that worked, and got logged on. THE PROBLEM IS THAT IF YOU GET LOGGED OFF, YOU YOU NEED ANOTHER \"AUTHENTICATION\" EMAIL TO GET LOGGED ON AGAIN, AND THEY MOSTLY DON'T ARRIVE. In addition, this app is supposed to be able to be used on the roadside to touchlessly give one's info to a law enforcement officer. If the emails don't reliable arrive to a home with a fast wired connection, think what problems would arise on the side of a remote road somewhere in rural Colorado. And imagine telling a State Trooper \"just a minute, I'm waiting for the email.\" As long as the app requires an unreliable \"Authentication\" I certainly can't recommend it. Shouldn't authenticating once be enough? ADDENDUM: A comment on this review from the State of Colorado - Governor's Office of IT asked me to contact their tech support. I had previously done that - they said: \"When you created your account, Ping ID is used to pair your device. I am reaching out to our developers to confirm what email address is connected to your account. As soon as I have more information I will reach back out and let you know!\" After 12 days I have heard nothing. I contacted them again, with a copy of this review, and we'll see if they do anything this time. I know things are weird in this country right now, so I'm willing to patiently wait and see what happens. I'd really like them to address the issue of whether one actually has to do the \"Authentication\" every time one logs into the app, or if that's an error of some sort. Maybe they could comment on that here?",
+        "score": 1,
+        "thumbsUpCount": 4,
+        "reviewCreatedVersion": "4.0",
+        "at": "2020-12-14 23:46:26",
+        "replyContent": "Hi Dave, I am sorry you had issues with the app. Please contact our support team at myColorado@state.co.us and they can help.",
+        "repliedAt": "2020-12-14 19:47:06"
+    },
+    {
+        "reviewId": "gp:AOqpTOEnjI0fvgbgZsHDir5M7cbpWu6dAE8lJQJ31zciB6oSqo5mPeZY4yz7fPfR65XNjVHEeZgsRvAs6y3kPw",
+        "userName": "Michael Guarisco",
+        "userImage": "https://play-lh.googleusercontent.com/-uEkhNMbrZcc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm-gA7hSTPC3UMlBF_qK4QCAp1zUQ/photo.jpg",
+        "content": "Thank goodness this is a thing now!!!",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.0",
+        "at": "2020-12-13 23:46:31",
+        "replyContent": "Hi Michael, thank you for the 5-star review! We appreciate it.",
+        "repliedAt": "2020-12-14 18:39:36"
+    },
+    {
         "reviewId": "gp:AOqpTOEj8GQbtXIe5hKfo5mKwKRjOZO55ngrkOICd-8KdlRqV4P5JM-qIp-ykeLHkOG2isOaXGBlwWdGRY5hCw",
         "userName": "Kim Briggs",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgXaajay4pYg8z2uux75v7tefG_4xu8eLyM0_gleg",
@@ -8,8 +140,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.0",
         "at": "2020-12-12 06:47:27",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Kim, thank you for the 5 stars!",
+        "repliedAt": "2020-12-14 18:40:55"
     },
     {
         "reviewId": "gp:AOqpTOFK-lusycbMDgStf60KTQVIlw2zuw-ZPTuUlEXB-3k1a-m_9rikLYHDqqHfiFFVh0g8mWmXEuRE5hBzLQ",
@@ -29,11 +161,11 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiN47HeB5sxedwkbKy4VhYEV_gN6FgzHiIdqlQEv8o",
         "content": "Looks like it would be a great app, if it worked. . . App crashes every time I scan the back of my license. I tried restarting the phone, not having any other apps in use, no luck.",
         "score": 1,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "4.0",
         "at": "2020-12-09 19:20:12",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Kyle, I am sorry you had issues scanning your license. Please contact our support team at myColorado@state.co.us and they will help troubleshoot.",
+        "repliedAt": "2020-12-14 19:47:27"
     },
     {
         "reviewId": "gp:AOqpTOGPq_hb4mspKf_MFryjuLpv-pjIrUaNipy5qRrGyGDtYF3iZQoAuilW0lBDkJkkkH5Uf0EIwmfYXaXkMw",
@@ -48,30 +180,6 @@
         "repliedAt": "2020-12-01 21:27:12"
     },
     {
-        "reviewId": "gp:AOqpTOFew1IIkpa7dZgw91XYBAo-2s61p6PBdLgJnW44qjALvLNm_cA6UqOIFfh4DmMd75SeEKqwt7hQ-b09pA",
-        "userName": "Dave Sturtz",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgFxokmySOPp7MOFmil1DKCVrFQyKhiCTE5onkN",
-        "content": "This app is a good idea which is not ready for Prime Time. The app is hard to get set up. One can create an account, but then one needs the \"Authentication\" number which is supposedly emailed. I found that less than 10% of the time did I actually get an email. OK, fine, I eventually got one that worked, and got logged on. THE PROBLEM IS THAT IF YOU GET LOGGED OFF, YOU YOU NEED ANOTHER \"AUTHENTICATION\" EMAIL TO GET LOGGED ON AGAIN, AND THEY MOSTLY DON'T ARRIVE. In addition, this app is supposed to be able to be used on the roadside to touchlessly give one's info to a law enforcement officer. If the emails don't reliable arrive to a home with a fast wired connection, think what problems would arise on the side of a remote road somewhere in rural Colorado. And imagine telling a State Trooper \"just a minute, I'm waiting for the email.\" As long as the app requires an unreliable \"Authentication\" I certainly can't recommend it. Shouldn't authenticating once be enough?",
-        "score": 1,
-        "thumbsUpCount": 2,
-        "reviewCreatedVersion": "4.0",
-        "at": "2020-12-08 00:00:46",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOGUk_aXt83QaiNmyO1SD3S2pwMHbVbEC2mqbV15sj7YFEWGsj0o9ek3T5Xgt5wDf762AM5OUbkjaRNe2A",
-        "userName": "Melissa Battles-Maynard",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj3e45aYdAWpzn7CPbF41QytfiZ4CJAaaNuMErhq5A",
-        "content": "Good app",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "4.0",
-        "at": "2020-12-07 12:46:28",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
         "reviewId": "gp:AOqpTOEiXUmjdogI6qZg6wO3xn6tJ5lZtla1yD_FVS-JGh_ZJtCbmxYskesk6qSZgoqhbv6XFDPk5PgBk0MD2w",
         "userName": "Electric Sammy",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhT5d8dSEw1uoYH7dwWpLSkwyrlgGDigwOjmzI2",
@@ -80,8 +188,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.0",
         "at": "2020-12-07 04:22:31",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Electric Sammy, thank you for the 5 stars!",
+        "repliedAt": "2020-12-14 19:46:34"
     },
     {
         "reviewId": "gp:AOqpTOGeja9GCJxvFHOP9vhz5xf88Smcf2p3AMTvS-fshkNOBdBvwXJsBGGI5smp24eOTXzXyvjpE7OCe2hEHQ",
@@ -92,8 +200,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.0",
         "at": "2020-12-06 01:51:33",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "HI Tom, I am sorry you had issues creating an account. Please contact our support team at myColorado@state.co.us and they can help.",
+        "repliedAt": "2020-12-14 19:46:03"
     },
     {
         "reviewId": "gp:AOqpTOH3IYGn6E061xA04zrmZnakm33t50_EzQVOjSw1Zpb5N2ycoo_mJ6JVGTu0mRcN7fJQke46gesNAxrowA",
@@ -104,8 +212,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.0",
         "at": "2020-12-04 19:15:39",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Shawn, thank you for the 5 stars!",
+        "repliedAt": "2020-12-14 19:45:48"
     },
     {
         "reviewId": "gp:AOqpTOGyewYxHODR3F_YR8ddV0QbC6jiawY0x1JYNbrGOJkr50-sTTYze0VzRD3axGXBfcg4Ba0VRbDLG5eMtA",
@@ -116,8 +224,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.0",
         "at": "2020-12-03 19:23:28",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thanks for your positive review, Patrick!",
+        "repliedAt": "2020-12-14 19:45:26"
     },
     {
         "reviewId": "gp:AOqpTOEwzC6L0-7m1NEPffobl_1ASXyQGuor7CEIVy8xfUSkWCrCXo2ek-CGW-SIdXxWMDyFnbMF0_2qyuMKuA",
@@ -128,8 +236,8 @@
         "thumbsUpCount": 1,
         "reviewCreatedVersion": "4.0",
         "at": "2020-12-02 23:45:05",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Kim, thank you for the positive review. Glad it's set up and ready to use.",
+        "repliedAt": "2020-12-14 19:44:54"
     },
     {
         "reviewId": "gp:AOqpTOHw8NOBf05-4ZSjU5K3KE03Q75i1-CZRgD-c4nD8s5Ptzd3Z8w57Zc6LW0rrFhEwo-bDBt8p5OJ_RZ8gA",
@@ -140,8 +248,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.0",
         "at": "2020-12-02 23:26:24",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Matt, thanks for the positive review!",
+        "repliedAt": "2020-12-14 19:44:37"
     },
     {
         "reviewId": "gp:AOqpTOEkBQwwGqxsHIZy35F57t4K_CHcp5bd3iGGwJeGQQ78TCn4nrDGpCPrKNFbHZp54J6bETrxi9WmcIq85w",
@@ -152,8 +260,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.0",
         "at": "2020-12-02 15:36:17",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thanks for your positive review, Timothy!",
+        "repliedAt": "2020-12-14 19:44:22"
     },
     {
         "reviewId": "gp:AOqpTOFJ6HIsCC4UHea_s_0Q5czvSBhnTvbsuVpkTQjIIxO7Tr0hlam9FebyACbse7VAw7Rd31TI_7CZZU_RYg",
@@ -164,8 +272,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.0",
         "at": "2020-12-02 07:44:03",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Craig, I agree Colorado is awesome. Thank you for the great review!",
+        "repliedAt": "2020-12-14 19:44:05"
     },
     {
         "reviewId": "gp:AOqpTOEPh8yEOWFwvKfsgoFMtQuajh9AYt_YXLuH6EFCBrys7pgIAIXIdDuKH6a0jnkK6feEfRC5yODNyNsZMA",
@@ -176,8 +284,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.0",
         "at": "2020-12-02 05:03:00",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Richard, thank you for the 5-star review!",
+        "repliedAt": "2020-12-14 19:43:46"
     },
     {
         "reviewId": "gp:AOqpTOHqUS5fwVcP6oCD9krAp2h1QJszdeEwINpP14DzqZooWb7-N7ACUlSWDLP7i5hnYfM2kn6hTZXupGfCGQ",
@@ -185,11 +293,11 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiQQQoFZhwd9xx2u-fW4laaZPJqFDaJlsPvGJ0jvb8",
         "content": "I'm new to the app & will leave a more detailed review at a later date. Just wanted to point out to the person who posted recently & the developers: the app isn't the cause of your old address showing up when scanned, the state's records are. I went through the process of updating my address online last year. Any time I've rented a car since then, my license pulls my old address. If a trooper scanned your card, I'd assume the same would happen, so the digital ID is no more disadvantegous.",
         "score": 5,
-        "thumbsUpCount": 1,
+        "thumbsUpCount": 3,
         "reviewCreatedVersion": "4.0",
         "at": "2020-12-02 02:25:15",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Bailey, thank you for the great review and the information!",
+        "repliedAt": "2020-12-14 19:43:30"
     },
     {
         "reviewId": "gp:AOqpTOEt5DZdvS17lrcbmTSHKRmEcREjp_6e_4kBfPHJspMWX8JmltIJGCjMJebKlNOCUB_pPOvwl_8kyEBCLg",
@@ -200,8 +308,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.0",
         "at": "2020-12-02 02:22:17",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Ed, thank you for the 5-star review! Businesses are continually becoming more aware of the Digital ID.",
+        "repliedAt": "2020-12-14 19:43:14"
     },
     {
         "reviewId": "gp:AOqpTOEPR3QBs9GCcWOHeIK8JQ8Xai7hZvsbSiDHLWhEcWGpPT6-0WNjnE9Q0rSycPuKb0Y82lFTV_TChnGLEQ",
@@ -212,8 +320,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.0",
         "at": "2020-12-01 23:17:23",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Brent, thank you for the good review! I'm glad you got the app set up.",
+        "repliedAt": "2020-12-14 19:42:52"
     },
     {
         "reviewId": "gp:AOqpTOGOvBCyohWVu8OupRYja1j45KQM9HVhjyoWPdmwVZmsdtKaRFNutEAPJkmi6WRIFBT-EO1O40aObMzP5A",
@@ -2618,7 +2726,7 @@
     {
         "reviewId": "gp:AOqpTOElz9kCGIVWW5b5GGr2kU_Fa5Frw0h6wWvxZupzLOU-W2_QLjl9e2E21Zp_owPLBKzfLYAp-qQYQBpZzw",
         "userName": "Brian Jeffrey",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg4oQHzYL8cEgXnkIopVga5pt8vO0_ONPizBUs4",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ghw_RpcCbZBGhwHnO6Wu5gJKwdpl9L8-UMoy1kd",
         "content": "Bar code recognition step - success. Took photo of front of DL i+n proper orientation against dark background. Never advanced past \"Quality Checks\" screen after 10 minutes. Multiple attempts. Gave up.",
         "score": 1,
         "thumbsUpCount": 2,

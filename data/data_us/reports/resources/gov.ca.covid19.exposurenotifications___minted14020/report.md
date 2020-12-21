@@ -128,25 +128,25 @@ The CA Notify app has been installed by more than **100000** times. At this time
 <img src="5_star_reviews_wordcloud.png" alt="gov.ca.covid19.exposurenotifications 5 reviews"/>
 </p>
 
-> Simple to use. Makes sense. Everyone needs to install this and report if / when they get a positive test.<br> :date: __2020-12-13 19:21:20__
+> Get everyone to install this! Together we can make a difference.<br> :date: __2020-12-20 06:51:59__
 
-> People are worried about this app collecting and/or sharing information. Know what? I don't really care if it does, if it helps protect even one person, it has served it's purpose and been valuable! All three remaining members of my family have tested positive for CoVid-19 leavin mom in a CoVid ward, dad on a ventilator 3 days, and sister isolating at home a week. Please help yourself, family, and those around you and install this app for your Android device today! Here's to good health for all!<br> :date: __2020-12-13 17:46:35__
+> Great app,to have. Let me know whats going on with california.Everyone should get it.👍<br> :date: __2020-12-20 05:57:47__
 
-> If you're not part of the solution you're part of the problem 🤷‍♀️<br> :date: __2020-12-13 08:45:47__
+> THIS IS EXCELLENT❤❤❤<br> :date: __2020-12-20 03:25:56__
 
-> For those asking why the app asks for location: on Android 10 and below, Bluetooth access is tied to the location permission. The app does NOT use GPS or WiFi location data.<br> :date: __2020-12-13 07:37:43__
+> Very good idea but drains the battery way too much.<br> :date: __2020-12-19 18:08:36__
 
-> Great app<br> :date: __2020-12-13 02:51:35__
+> Excellent app<br> :date: __2020-12-18 22:45:53__
 
-> Simple and works<br> :date: __2020-12-12 21:26:37__
+> Immediate peace of mind.<br> :date: __2020-12-18 22:08:59__
 
-> Simple to setup. Hope more folks install it soon.<br> :date: __2020-12-12 21:19:52__
+> I think it's a helpful app being put to good use for those that use it everyone should use to help slow this thing down<br> :date: __2020-12-18 21:20:34__
 
-> Great app, wish everyone would download and help in contact tracing. This should not be optional when it's matter of life and death.<br> :date: __2020-12-12 17:53:51__
+> God bless you all and thank you ,I'm a kidney transplant patient from standford medical and drive for LYFT AND UBER SO IM GREAT FULL 👍 🙂<br> :date: __2020-12-18 20:33:05__
 
-> I feel safer with this ap.<br> :date: __2020-12-12 10:00:53__
+> It's about time!<br> :date: __2020-12-18 19:38:12__
 
-> Getting COVID-19 has never been easier! Download the app, party like never before, and voíla! the virus is yours for the taking! Make sure to stay in large groups, don't wear a mask, and be within 6 feet of friends and family members for optional effect. I got a notification within days saying I was near an "infected" person; now you can too!<br> :date: __2020-12-12 09:14:39__
+> Peace of mind<br> :date: __2020-12-18 13:34:06__
 
 
 
@@ -155,6 +155,14 @@ The CA Notify app has been installed by more than **100000** times. At this time
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="gov.ca.covid19.exposurenotifications 4 reviews"/>
 </p>
+
+> DD214<br> :date: __2020-12-16 09:20:04__
+
+> The nevada one sux so I had to use an app made by the closest state to me (california). 🤷‍♀️🤷‍♂️🙃<br> :date: __2020-12-15 12:09:10__
+
+> The app is pretty straightforward not that many problems but they could do better things and have more people using it.<br> :date: __2020-12-14 22:25:55__
+
+> And will everyone be honest if they in fact contract it? Out of fear of persecution? I hope for the sake of all, we are. AND for everyone tripping on the location ordeal, they have to be able to access the location in order to release accurate warnings. Unless youre a drug dealer, or a fugative on the lam avoiding prosecution from the long arm of the law, what's the big deal? You have something to hide? This is about the greater good, its not only all about you.<br> :date: __2020-12-14 21:14:27__
 
 > Notifications didn't work at first, but I got a notification saying update Google Play services and now it works. Meanwhile, I want to remind everyone that covid is deadlier than the flu, especially since there's no vaccine available yet. Also, even if you're young and healthy, you could come into contact with people who are older or immunocompromised, who could get pretty sick. So it's good to know if you have covid so you can stay at home. Let's work together to end this pandemic sooner!<br> :date: __2020-12-13 04:12:10__
 
@@ -176,6 +184,10 @@ The CA Notify app has been installed by more than **100000** times. At this time
 <img src="3_star_reviews_wordcloud.png" alt="gov.ca.covid19.exposurenotifications 3 reviews"/>
 </p>
 
+> Three stars based on there's no way to know if it actually works as described. Docked two stars because all info leading up to the launch said no GPS necessary for it to work. When I checked the APP after installation, text plainly stated "Notification OFF; no notification until GPS Location turned on" (--paraphrasing) So I will see if there's any affect on battery life; if severe or annoying, may uninstall. Don't worry though; i never go anywhere!<br> :date: __2020-12-18 23:34:56__
+
+> App reports it used 0% battery however the system status showed bluetooth used 34% of the battery. That never happened prior to installing this app<br> :date: __2020-12-17 23:58:46__
+
 > Rated 3 stars for the following reasons. 1) This app assumes the person who tested positive will actually enter the code. 2) The person who tested positive is dumb enuph to not self quarantine and knowingly risk exposing others.<br> :date: __2020-12-13 10:26:26__
 
 > Not sure it actually works. I work at a business that has had multiple positive Covid-19 tests...and this app hasn't pinged a single one.<br> :date: __2020-12-12 07:16:37__
@@ -192,10 +204,6 @@ The CA Notify app has been installed by more than **100000** times. At this time
 
 > Since installing my phone keeps crashing after about 1-2hrs of uptime. Will install again at later date if issue is fixed.<br> :date: __2020-12-10 19:51:44__
 
-> I'd love to use this app, but it requires me to turn on bluetooth, which drains my battery. Why would this app require bluetooth to be on? Surely the location service would be enough? Is it a bug? I guess I can turn it on when I leave the house.<br> :date: __2020-12-10 19:36:51__
-
-> Where is the the source code so we can verify the operation of the application? The taxpayers paid for it to be written. We deserve to see it, and it lends credibility to your assertion that the application is secure.<br> :date: __2020-12-10 16:34:56__
-
 
 
 #### 2-star reviews
@@ -203,6 +211,18 @@ The CA Notify app has been installed by more than **100000** times. At this time
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="gov.ca.covid19.exposurenotifications 2 reviews"/>
 </p>
+
+> Giving this a 2 for intent, my Android version doesn't work. My roomie's version on iPhone works fine. Is there a setting that I can check? Please help app developers.<br> :date: __2020-12-18 22:07:04__
+
+> Must be the official Plan-Demic App<br> :date: __2020-12-18 08:52:44__
+
+> I don't understand?<br> :date: __2020-12-15 07:38:41__
+
+> Battery Draining App. Had to charge my phone multiple times a day. Decided to uninstall app for above reason. Even though, I uninstalled app I keep getting notifications....asking me to install it again. I feel like it is invading my privacy and spamming me at this point. Avoid it. Do not recommend.<br> :date: __2020-12-15 02:07:09__
+
+> I have already downloaded the app but I keep getting the notification to downloaded the app. This is getting very annoying it makes me want to either uninstall or turn off the notifications which will defeat the purpose of this campaign. Please fix.<br> :date: __2020-12-14 21:15:19__
+
+> Why share your location and the details within the ads states in order to work location is nessasary to be on ? Too much<br> :date: __2020-12-14 20:22:38__
 
 > The news reported it uses bluetooth but you actually have to have GPS on. :( boo<br> :date: __2020-12-13 01:31:18__
 
@@ -212,10 +232,6 @@ The CA Notify app has been installed by more than **100000** times. At this time
 
 > Samsung galaxy note 5 user, 1 hour after installation my phone rebooted on its own, my settings all reverted back to factory default settings, including font, text size, wifi was turned on. Deleting until I have more time to read through the app information completely since I don't like surprises on my phone.<br> :date: __2020-12-11 00:18:11__
 
-> Cannot use because I have to keep the GPS on which runs down my battery in an hour.. I have android version 7... So I uninstalled it...<br> :date: __2020-12-10 22:20:36__
-
-> I downloaded this like 20 mins ago, and can't open my phone without like some sort of "welcome" message from the app. Would really like to know if I come in contact with someone who tested positive since I live with someone who is considered high risk. But I work a lot from my phone. So if this keeps up, I'm deleting.<br> :date: __2020-12-10 10:07:28__
-
 
 
 #### 1-star reviews
@@ -224,24 +240,24 @@ The CA Notify app has been installed by more than **100000** times. At this time
 <img src="1_star_reviews_wordcloud.png" alt="gov.ca.covid19.exposurenotifications 1 reviews"/>
 </p>
 
-> This is just another way to track people down that wants nothing to do with the Goverment. Becouse the next thing they want people to do is make them get the chip they already are doing it in other states . The Doctors are putting it in the new born babys as soon as they hit the air snd with out the parents authorization and thats true becouse few have complained about it sl make sure you put your baby through a medal detector People need to wake up and stop being blind cited to all the evil<br> :date: __2020-12-13 17:14:40__
+> They dont help when you need a place to stay<br> :date: __2020-12-20 08:24:58__
 
-> Unable to turn on natification. Got an error message "Something went wrong. Try again."<br> :date: __2020-12-13 08:17:10__
+> I can't turn on notification. It keeps showing "something went wrong, try again."<br> :date: __2020-12-20 05:31:23__
 
-> App does not work. It has error message when trying to turn on notification. Useless.<br> :date: __2020-12-12 17:47:29__
+> Big Bother may depart, and apply repeated impacts to fine mineral particles.  Given all the blatant abuses that have been perpetrated against us under the guise of the #CoronaHoax2020, how stupid does anyone have to be to trust that data that we allow to be collected about us via this app will not be abused against us?  We're being lied to, we're being played, and too many of us are stupidly falling for it.  Nothing that we are being told, nothing that is being done to us in connection with the #CoronaHoax is about controlling any virus; it is about controlling us, and it has been, from the very start.<br> :date: __2020-12-20 02:35:33__
 
-> I supposedly installed this app but I can't see it on my phone. I have an android phone and followed the instructionsn. The Google Play Store says that it's installed. It doesn't show up in my apps, which are in the settings. Does anyone know how I can see it? If it's running in the background, I should be able to see it in my apps. Thank you.<br> :date: __2020-12-12 09:10:05__
+> I am unable to report that I am covid positive using this app. This is defeat the whole point of this app.<br> :date: __2020-12-19 23:44:09__
 
-> something went wrong, try again?<br> :date: __2020-12-12 03:20:26__
+> Two people tested positive around me and alert did not go off<br> :date: __2020-12-19 22:51:31__
 
-> should've been here months ago<br> :date: __2020-12-11 19:34:38__
+> I have been around multiple people whom have tested positive, even my roommate and have gotten zero notifications. Not very effective.<br> :date: __2020-12-19 01:46:14__
 
-> Good idea, but it uses gps even though it doesn't ask for permission and gps isn't mentioned in the description.<br> :date: __2020-12-11 17:45:26__
+> Its a nothing app<br> :date: __2020-12-19 00:51:45__
 
-> This is an app for a virus with a ~99.7% survival rating. If you're still afraid of covid you ahould be more afraid of the common flu which kills more peoples each year. Stop the lockdowns and the madness!<br> :date: __2020-12-11 15:59:31__
+> Massive battery drain issues. Had to uninstall it after. A shame, I would really like to keep this installed<br> :date: __2020-12-18 23:47:10__
 
-> Installed only to leave feedback. This f...ng app and googl send spam even before it is installed. Time to buy iphone<br> :date: __2020-12-11 05:54:38__
+> This app is annoying, I neither want to be tracked, nor do I want to share information with anyone. Let us live is peace. Also, if people would just take 2000mgs of vitamin c, then everyone wouldn't have to worry.<br> :date: __2020-12-18 18:56:37__
 
-> Only useful if someone that tested positive downloads the app and registers their code that "I tested positive and am a moron for walking around other people spreading Covid."<br> :date: __2020-12-11 05:49:09__
+> Horrible.<br> :date: __2020-12-18 09:18:32__
 
 

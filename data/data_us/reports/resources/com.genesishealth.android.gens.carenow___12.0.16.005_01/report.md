@@ -242,7 +242,9 @@ No recent reviews available with 2 stars.
 #### 1-star reviews
 
 <p align="center">
-
+<img src="1_star_reviews_wordcloud.png" alt="com.genesishealth.android.gens.carenow 1 reviews"/>
 </p>
 
-No recent reviews available with 1 stars.
+> This app doesn't do anything unless you need urgent care or miss your appointment. It did not have my appointments on my calendar. It did not have my surgeon so I could contact him. I uninstalled it waste of memory.<br> :date: __2020-12-15 17:57:07__
+
+

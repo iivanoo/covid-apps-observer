@@ -167,8 +167,6 @@ The Beat Covid Gibraltar app has been installed by more than **10000** times. At
 
 > Easy to load works out of the box on pixel 2xl. Android 10. Only question is only as useful as number of folks using it. Needs a bit of publicity.<br> :date: __2020-07-30 15:49:20__
 
-> It took a while to work, but hopefully it works now!<br> :date: __2020-07-09 12:57:22__
-
 
 
 #### 3-star reviews

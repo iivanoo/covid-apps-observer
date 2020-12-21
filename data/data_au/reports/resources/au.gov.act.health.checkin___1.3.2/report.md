@@ -264,6 +264,10 @@ The Check In CBR app has been installed by more than **10000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="au.gov.act.health.checkin 1 reviews"/>
 </p>
 
+> First time ever since covid started, I have to download app to register. Everyone is using a simple and reliable web registration. Total waste of our money by ACT government. Poor choice of registering option by Portrait Gallery Cafe. Portrait Gallery itself is nicely using web registration. Not to mention, this slow app is to be uninstalled after that single use. Not good enough, ACT Health.<br> :date: __2020-12-20 05:53:42__
+
+> Useless did not download in openable format with screen icon and no clear instructions how to do this<br> :date: __2020-12-17 21:22:12__
+
 > It won't work never get number<br> :date: __2020-12-05 07:21:05__
 
 > Didn't recognise QR codes at a pub and at the Australian National Museum. Strange as other QR code reader redirected me to this Canberra Check in app anyway. Android / Oppo<br> :date: __2020-11-25 22:13:55__
@@ -279,9 +283,5 @@ The Check In CBR app has been installed by more than **10000** times. At this ti
 > Have tried to scan a couple of times and it hasn't worked. Uninstalled and reinstalled. See how it works then.<br> :date: __2020-10-18 12:14:32__
 
 > Doesn't even download<br> :date: __2020-10-07 11:17:45__
-
-> Didn't download while I was at the venue. Now I don't have the QR code so cannot check in. What's wrong with QR link to a webpage? That works well. This app just adds failure.<br> :date: __2020-10-06 12:33:53__
-
-> Poor. Three venues in a row where the QR code isn't recognised.<br> :date: __2020-10-02 04:04:22__
 
 

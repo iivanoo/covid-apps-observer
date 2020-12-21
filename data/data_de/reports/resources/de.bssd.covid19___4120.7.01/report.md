@@ -215,6 +215,8 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 <img src="2_star_reviews_wordcloud.png" alt="de.bssd.covid19 2 reviews"/>
 </p>
 
+> Funktioniert nicht mit Android 11 mit Android 10 funktionierte die App gut.<br> :date: __2020-12-17 10:09:37__
+
 > Alles Gut<br> :date: __2020-10-12 16:28:24__
 
 > Der Gedanke dahinter ist gut, doch die App erfüllt nicht mal Ansatzweise ihre Funktion. Ich habe das Gefühl, dass das Backend gar nicht existiert.<br> :date: __2020-09-24 15:18:10__
@@ -233,8 +235,6 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 
 > Ich hasse das Anmelden. Wird Deinstalliert<br> :date: __2020-04-30 14:52:09__
 
-> Nur für Abstrich Patienten registrierter. Echt schade.<br> :date: __2020-04-22 00:33:14__
-
 
 
 #### 1-star reviews
@@ -243,24 +243,24 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 <img src="1_star_reviews_wordcloud.png" alt="de.bssd.covid19 1 reviews"/>
 </p>
 
+> Funktioniert nicht<br> :date: __2020-12-19 18:00:29__
+
+> Funktioniert einfach nicht. Egal, ob als Scan oder per Handeingabe. Schade.<br> :date: __2020-12-19 15:45:23__
+
+> Titelbild ist auf meinem OnePlus 8 Pro kurz zu sehen, dann schließt sich die App wieder von selbst. App-Cache zu löschen brachte keine Hilfe. Auf dem Huawei P20 läuft die App, dort muss jedoch der Code von Hand abgetippt werden. Der Scanner funktioniert nicht und schaltet die Kamera nicht an.<br> :date: __2020-12-19 10:29:47__
+
+> Diese App ist vollkommen unbrauchbar. Sie scannt den QR-Code nicht. Auch mit einem externen QR-Code-Scanner lässt sich der Code nicht in die App einlesen. Ich konnte den Code nur mit dem externen Scanner auslesen und per Copy and Paste einfügen. Für ein sicheres manuelles Einfügen viel zu klein gedruckt. Das Ergebnis liegt bereits zwei Tage beim Arzt vor (von dem ich auch nicht informiert wurde) aber die App zeigt noch immer an, dass es noch kein Ergebnis gebe... Super für meine Risikopatienten!<br> :date: __2020-12-18 13:32:08__
+
+> Schrott mehr braucht man nicht schreiben 1 Stern ist noch zu viel<br> :date: __2020-12-18 12:52:29__
+
+> Crasht auf Pixel 4 und 5 direkt beim Start.<br> :date: __2020-12-17 21:17:02__
+
+> Löscht den Dreck und wartet auf den Anruf vom Artz!<br> :date: __2020-12-15 21:53:51__
+
+> Fake-app.<br> :date: __2020-12-15 14:26:47__
+
 > Schrott. Geht nicht<br> :date: __2020-12-11 09:56:41__
 
 > Lässt sich unter Android 11 nicht öffnen! App wird sofort wieder geschlossen!<br> :date: __2020-12-09 17:38:41__
-
-> Startet auf einem Pixel 2 mit dem neuesten Android nicht.<br> :date: __2020-12-08 21:51:41__
-
-> nutzlos<br> :date: __2020-12-07 08:42:14__
-
-> Sorry, aber das ist die nutzloseste App, die ich je heruntergeladen habe. Der QR Code lässt sich nicht scannen, um den Zahlen/Nummerncode eingeben zu können musste ich die App neu installieren. Und das Ergebniss des Tests habe ich von meinem Arzt vor ca.14 Std. bekommen. Auf der App ist immer noch kein Ergebnis.<br> :date: __2020-12-03 23:09:43__
-
-> QR Code kann nicht gescannt werden und egal welchen Code (ID, Entschlüsselter QR-Code, per E-Mail verschickter Code) ich eingebe, mir wird immer angezeigt, dass das Format ungültig wäre ...also kurz gesagt ich komme gar nicht so weit, dass ich Ergebnisse einsehen könnte<br> :date: __2020-12-03 22:28:18__
-
-> Das Scannen des Codes funktioniert nicht und die APP zeigt dauernd, dass das Ergebnis noch nicht vorliegt.<br> :date: __2020-12-03 10:36:32__
-
-> Funktioniert einfach überhaupt nicht!<br> :date: __2020-12-02 19:26:49__
-
-> Unbrauchbar<br> :date: __2020-12-01 09:54:52__
-
-> QR-Code Erfassung klappt nicht. Eingabe der ID sehr aufwendig. Negatives Ergebnis über das Labor erhalten. Nach zwei Wochen immer noch kein Befund in der App. Daher wieder deinstalliert.<br> :date: __2020-11-30 23:21:15__
 
 

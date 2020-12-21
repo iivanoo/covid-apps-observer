@@ -1,0 +1,49 @@
+{
+    "permissions": [
+        "android.permission.INTERNET",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "com.google.android.c2dm.permission.RECEIVE",
+        "android.permission.ACCESS_FINE_LOCATION",
+        "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+        "android.permission.ACCESS_WIFI_STATE",
+        "android.permission.WAKE_LOCK",
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        "com.android.vending.CHECK_LICENSE"
+    ],
+    "activities": [
+        "tuerantuer.app.integreat.MainActivity",
+        "com.facebook.react.devsupport.DevSettingsActivity",
+        "com.google.android.gms.auth.api.signin.internal.SignInHubActivity",
+        "com.google.android.gms.common.api.GoogleApiActivity"
+    ],
+    "urls": [
+        "http://schemas.android.com/apk/res/android",
+        "http://%s/%s.%s?platform=android&dev=%s&minify=%s",
+        "http://%s/launch-js-devtools",
+        "http://%s/open-stack-frame",
+        "http://%s/status",
+        "http://%s/%s",
+        "http://%s/symbolicate",
+        "http://%s/inspector/device?name=%s&app=%s",
+        "http://www.android.com/",
+        "https://pagead2.googlesyndication.com/pagead/gen_204?id=gmob-apps",
+        "https://accounts.google.com",
+        "https://www.facebook.com",
+        "https://accounts.google.com/o/oauth2/revoke?token=",
+        "https://plus.google.com/",
+        "https://app-measurement.com/a",
+        "https://google.com/search?",
+        "https://www.facebook.com/sharer/sharer.php?u={url}",
+        "https://plus.google.com/share?url={url}",
+        "https://play.google.com/store/apps/details?id=com.instagram.android",
+        "https://pinterest.com/pin/create/button/?url={url}&media=$media&description={message}",
+        "https://twitter.com/intent/tweet?text={message}&url={url}",
+        "http://schemas.android.com/apk/res-auto",
+        "http://localhost:",
+        "https://www.googleapis.com/auth/games_lite",
+        "https://www.googleapis.com/auth/games",
+        "https://www.google.com",
+        "https://www.googleadservices.com/pagead/conversion/app/deeplink?id_type=adid&sdk_version=%s&rdid=%s&bundleid=%s&retry=%s",
+        "https://%s/%s/%s"
+    ]
+}

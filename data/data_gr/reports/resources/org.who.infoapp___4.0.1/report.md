@@ -236,6 +236,8 @@ The WHO Info app has been installed by more than **100000** times. At this time,
 <img src="1_star_reviews_wordcloud.png" alt="org.who.infoapp 1 reviews"/>
 </p>
 
+> Extremely bad application. Always not working at all. Why do you keep it in the playstore?!<br> :date: __2020-12-15 16:13:48__
+
 > A wast of time<br> :date: __2020-11-04 13:04:20__
 
 > “‘Ovid’ is Latin for a sheep. COVID starts with a C, which also means ‘see’ in ancient language. 19 was known as the “Number of Surrender” in ancient times.”  It goes on to draw the conclusion, “C-OVID 19 = ‘See a Sheep Surrender'”.<br> :date: __2020-11-02 08:06:17__
@@ -253,7 +255,5 @@ The WHO Info app has been installed by more than **100000** times. At this time,
 > WHO TRUSTS WHO NOW ¿¿?!?????<br> :date: __2020-09-25 02:07:50__
 
 > This app sucks<br> :date: __2020-09-14 21:01:10__
-
-> Every time i open the app,doesnt work just tells us error on my huawei lite p7. Please developer work on it.<br> :date: __2020-08-18 11:59:51__
 
 

@@ -208,6 +208,8 @@ The CombatCOVID PBC app has been installed by more than **5000** times. At this 
 <img src="1_star_reviews_wordcloud.png" alt="com.shield.CombatCovidPBC 1 reviews"/>
 </p>
 
+> It doesn't use the same contact tracing technology as the rest of apps. Which largely renders it useless. While arguably using a more privacy oriented technology. In this rare instance it's pointless and a waste of taxpayer money.<br> :date: __2020-12-14 17:31:06__
+
 > It doesn't show you on a map who has covid 19<br> :date: __2020-12-10 18:06:29__
 
 > First review.<br> :date: __2020-12-05 06:13:42__

@@ -199,6 +199,8 @@ The Leisure for Life app has been installed by more than **5000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="com.innovatise.rctcbc 5 reviews"/>
 </p>
 
+> Fantastic<br> :date: __2020-12-20 19:56:08__
+
 > awsome<br> :date: __2019-05-07 17:19:15__
 
 > Can book all my classes with ease now . If in welsh change by clicking top 

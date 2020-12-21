@@ -193,6 +193,8 @@ No recent reviews available with 2 stars.
 <img src="1_star_reviews_wordcloud.png" alt="tracker.healthcare.sentinel 1 reviews"/>
 </p>
 
+> It doesn't work at all.l installed bicause l wanted to be informed about Corona virus.but when l try to open it it doesn't open<br> :date: __2020-12-14 16:59:59__
+
 > Don't work<br> :date: __2020-06-30 08:22:16__
 
 

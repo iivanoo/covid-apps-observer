@@ -129,6 +129,8 @@ The DC CAN app has been installed by more than **10000** times. At this time, **
 <img src="5_star_reviews_wordcloud.png" alt="gov.dc.covid19.exposurenotifications 5 reviews"/>
 </p>
 
+> Good<br> :date: __2020-12-16 15:47:33__
+
 > greattonow#loveallwayd 🌏🏟<br> :date: __2020-12-02 14:29:29__
 
 > Trying for the first time.<br> :date: __2020-11-11 06:18:20__
@@ -146,8 +148,6 @@ The DC CAN app has been installed by more than **10000** times. At this time, **
 > Smooth installation. Runs up Bluetooth so if you disable Bluetooth it shows you it's inactive which is helpful.<br> :date: __2020-10-21 04:30:05__
 
 > Doliwlid keep all safe<br> :date: __2020-10-21 01:56:18__
-
-> Install this app, wear a mask and listen to science PLEASE. Hopefully Maryland will roll their application out soon as well.<br> :date: __2020-10-20 15:47:39__
 
 
 

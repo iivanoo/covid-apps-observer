@@ -190,6 +190,8 @@ The GuideSafe app has been installed by more than **50000** times. At this time,
 <img src="3_star_reviews_wordcloud.png" alt="gov.adph.exposurenotifications 3 reviews"/>
 </p>
 
+> Why hasn't it updated since December 13th!?<br> :date: __2020-12-19 00:11:33__
+
 > The app started working wonderfully. But at the end of October, it stopped. No new upgrades and no notifications. I will try and download the app again.<br> :date: __2020-12-06 13:31:12__
 
 > Great if it would work. I tested positive and want to alert others by using the app. When it asks me to verify the code sent to my phone, I can't because it never sends the code. I've tried over and over.<br> :date: __2020-12-01 18:35:17__
@@ -216,6 +218,8 @@ The GuideSafe app has been installed by more than **50000** times. At this time,
 <img src="2_star_reviews_wordcloud.png" alt="gov.adph.exposurenotifications 2 reviews"/>
 </p>
 
+> Doesn't seem to work. My wife and I both have this installed. She tested positive, I went through the process of telling the app she was positive. And I never received a notification that I had been exposed. I noticed that her bluetooth was off. I turned it back on, waited a couple of days and tried the notification process again and verified that her bluetooth was still on. I still didn't get an exposure notification. I've been a big advocate for this technology... Why isn't it working?<br> :date: __2020-12-18 13:58:55__
+
 > App questionnaire requires email verification, but doesn't work, so don't bother. If that basic feature does not work then how can you rely on it to correctly perform contact tracing?! This is not an in consequential function. Get it right!<br> :date: __2020-09-29 19:27:11__
 
 > It would work better if more people had it on their phones.<br> :date: __2020-08-18 18:54:55__
@@ -227,6 +231,12 @@ The GuideSafe app has been installed by more than **50000** times. At this time,
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="gov.adph.exposurenotifications 1 reviews"/>
 </p>
+
+> App is a joke if no one is reporting they have covid. Daughter tested postive and i am exposed. App never notified me.<br> :date: __2020-12-19 21:14:34__
+
+> Worthless. Not everyone is using it, and it doesn't connect to any other states. So basically you've just just installed an app that connects to no one. And now it hasn't bothered checking for exposure in over a month?! Uninstalled and moving on.<br> :date: __2020-12-16 20:52:18__
+
+> Since this app is suppose to alert people on whom has covid it never did even to this day alert me about my roommate who has covid ... So now im quarantining because this app is b.s.😒 using up my memory and sh\*\**<br> :date: __2020-12-16 03:36:49__
 
 > Do you waste your time on this app<br> :date: __2020-12-12 11:51:58__
 
@@ -241,11 +251,5 @@ The GuideSafe app has been installed by more than **50000** times. At this time,
 > App doesnt work, turns off your bluetooth which is needed for the app to work.<br> :date: __2020-12-01 15:05:51__
 
 > The app has serious bugs. Mine doesn't let me past the "Your Privacy is Safe" screen even after clicking the disclaimer and clicking on the green "more" button.<br> :date: __2020-11-27 13:22:21__
-
-> It's a waste of time<br> :date: __2020-11-26 18:59:13__
-
-> No notification of exposure, or ability to report exposure from non app users. Three people I know tested positive. This app is utterly useless.<br> :date: __2020-11-19 13:39:22__
-
-> This is of no use if health providers do not turn in the information. No.one will actually do it and YES..then there is Hippa..<br> :date: __2020-11-08 16:58:36__
 
 

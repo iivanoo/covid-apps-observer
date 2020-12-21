@@ -183,6 +183,8 @@ The KANOPEE app has been installed by more than **1000** times. At this time, **
 <img src="2_star_reviews_wordcloud.png" alt="com.sanpsy.kanopee 2 reviews"/>
 </p>
 
+> Appli très intéressante sur les données du sommeil. Par contre plantage au moment des conseils pour améliorer son sommeil. Re-essai plusieurs fois mais sans succès. Dommage car c'est ce que j'attendais le plus.<br> :date: __2020-12-14 14:14:19__
+
 > Bonne idée mais on ne peut pas corriger les données quand on fait une erreur de saisie 😭😭<br> :date: __2020-12-09 21:55:32__
 
 > L'idée est bonne. L'appli pourrait être plus développée. Si on oublie ou on se trompe dans les données de consommation impossible de modifier et de revenir en arrière. Tout est alors faussé. Dommage<br> :date: __2020-10-17 11:04:59__
@@ -197,9 +199,9 @@ The KANOPEE app has been installed by more than **1000** times. At this time, **
 <img src="1_star_reviews_wordcloud.png" alt="com.sanpsy.kanopee 1 reviews"/>
 </p>
 
-> Au secours ! Si après ça tu trouves le sommeil !<br> :date: __2020-12-12 09:11:12__
+> Mon commentaire ayant été supprimé, je le remets : pendant 8 matin, j'ai rempli scrupuleusement le questionnaire Au bout de ces 8 jours, le petit avatar conseillé de faire le point sur mes nuits, Oui et ? Rien, aucun conseil, aucune conclusion virtuelle de l'analyse, juste une récap de mes nuits Cette appli ne sert absolument à rien<br> :date: __2020-12-14 14:19:42__
 
-> C'est du grand n'importe quoi 🤦 On note ses nuits oui et ? L'avatar virtuel fait des commentaires totalement inutiles ( bien, je suis désolée, c'est triste, Blablabla) et puis plus rien Aucune analyse concrète, aucun conseil, rien J'espère que le créateur n'a pas été payé npour cette 🤢<br> :date: __2020-12-11 15:20:29__
+> Au secours ! Si après ça tu trouves le sommeil !<br> :date: __2020-12-12 09:11:12__
 
 > Je viens de terminer une semaine de suivi du sommeil et suis très déçu par les conseils. Rien de nouveau par rapport à la littérature journalistique : proposer en septembre une chambre entre18 et 20° quand la température de nuit, fenêtres ouvertes, ne descendent pas sous 22° c'est juste inapproprié. Respirer par le ventre OK on sais déjà. Pas de café apres 14h00 quelle nouveauté ! Une arnaque déguisée par le CHU de Bordeaux.<br> :date: __2020-09-21 22:25:13__
 

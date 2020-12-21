@@ -176,6 +176,8 @@ The HowWeFeel: The How We Feel Project app has been installed by more than **100
 <img src="5_star_reviews_wordcloud.png" alt="org.howwefeel 5 reviews"/>
 </p>
 
+> Easy to use.<br> :date: __2020-12-13 20:55:44__
+
 > It help me keep a record of how i feel daily<br> :date: __2020-12-05 14:03:55__
 
 > Makes my day early to see it a great morning even being depressed.<br> :date: __2020-12-03 19:12:37__
@@ -194,8 +196,6 @@ The HowWeFeel: The How We Feel Project app has been installed by more than **100
 
 > Good information to have and dhare<br> :date: __2020-11-16 03:59:32__
 
-> So far so good<br> :date: __2020-11-13 18:36:02__
-
 
 
 #### 4-star reviews
@@ -203,6 +203,8 @@ The HowWeFeel: The How We Feel Project app has been installed by more than **100
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="org.howwefeel 4 reviews"/>
 </p>
+
+> It was great, but it just froze up on me and I have to reinstall. I will probably have to start over too. Not sure how that helps for COVID...?? Hmmm...<br> :date: __2020-12-14 09:25:34__
 
 > I feel like I am helping fight Covid-19.<br> :date: __2020-11-22 15:53:10__
 
@@ -221,8 +223,6 @@ The HowWeFeel: The How We Feel Project app has been installed by more than **100
 > It's super easy, and hopefully helpful during this process<br> :date: __2020-10-29 05:09:47__
 
 > I think it is nice because I am able to think about how I feel and makes me realize that I do have reasons to be hopeful and grateful.<br> :date: __2020-10-14 22:11:58__
-
-> Nice app. Won't ask for personal info, just a short survey. Great way to participate in something important and help give someone food in the process. I love it!<br> :date: __2020-10-14 14:54:11__
 
 
 

@@ -202,25 +202,25 @@ The Penn State Health OnDemand app has been installed by more than **10000** tim
 <img src="5_star_reviews_wordcloud.png" alt="org.pennstatehealth.android.pshh.ondemand 5 reviews"/>
 </p>
 
+> minimal wait time. M.D. was very personable and knowledgeable. saved time of sitting in urgent care center.I would definitely recommend 12/18/20 Had the need to see someone without disrupting my day. Once again, very positive experience. Knowledgeable, personable, thorough. I definitely recommend<br> :date: __2020-12-18 13:25:27__
+
+> Excellence as always by the Hershey Med Teams<br> :date: __2020-12-16 20:50:32__
+
+> I had a virtual office visit that went very smoothly; good picture, good sound, very minimal voice delay.<br> :date: __2020-12-16 17:18:34__
+
+> This app was so easy to use.<br> :date: __2020-12-16 14:22:24__
+
+> It was fine. I Could hear well see well everything was great.<br> :date: __2020-12-15 19:37:14__
+
+> Good<br> :date: __2020-12-15 14:15:03__
+
+> Great and easy<br> :date: __2020-12-14 14:44:22__
+
 > Extremely easy to use<br> :date: __2020-12-10 16:32:41__
 
 > Excellent<br> :date: __2020-12-09 17:49:14__
 
 > Good experience<br> :date: __2020-12-04 20:50:23__
-
-> I had a issue with my video feed not showing on the providers end. I had to refresh the visit (from the bottom pull up task bar) & then he was able to see me. Other than that initial issue, this is a great platform for telehealth visits<br> :date: __2020-12-01 15:18:01__
-
-> Great<br> :date: __2020-11-30 17:48:39__
-
-> Great experience. Friendly helpful R.N.<br> :date: __2020-11-27 14:51:38__
-
-> I'm technically challenged and managed to navigate with ease!<br> :date: __2020-11-25 13:51:52__
-
-> Convenient<br> :date: __2020-11-24 21:57:48__
-
-> Fantastic service and peace of mind for directions as to "what's next" when covid strikes near you! Fiona was worth the wait and she was full of knowledge and patience.<br> :date: __2020-11-24 21:36:39__
-
-> Very informative<br> :date: __2020-11-23 21:29:43__
 
 
 
@@ -257,6 +257,8 @@ The Penn State Health OnDemand app has been installed by more than **10000** tim
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="org.pennstatehealth.android.pshh.ondemand 3 reviews"/>
 </p>
+
+> Okay. It was a dr app.<br> :date: __2020-12-17 21:45:53__
 
 > It's great - when it works.<br> :date: __2020-11-18 16:55:44__
 

@@ -195,6 +195,8 @@ The CombatCOVID MDC app has been installed by more than **1000** times. At this 
 <img src="1_star_reviews_wordcloud.png" alt="com.shield.CombatCovidMD 1 reviews"/>
 </p>
 
+> It doesn't use the same contact tracing technology as the rest of apps. Which largely renders it useless. While arguably using a more privacy oriented technology. In this rare instance it's pointless and a waste of taxpayer money.<br> :date: __2020-12-14 17:31:44__
+
 > Absolutely useless. I found out that my neighbor has treated positive and the app did not notify me. Why isn't the official app for android and apple being used. What a joke<br> :date: __2020-12-07 22:54:57__
 
 > Not working right says am positive when I am not<br> :date: __2020-10-03 02:46:59__

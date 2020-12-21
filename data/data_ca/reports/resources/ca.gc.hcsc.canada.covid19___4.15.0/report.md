@@ -134,6 +134,8 @@ The Canada COVID-19 app has been installed by more than **100000** times. At thi
 <img src="5_star_reviews_wordcloud.png" alt="ca.gc.hcsc.canada.covid19 5 reviews"/>
 </p>
 
+> I use it some times it's okay<br> :date: __2020-12-20 20:47:51__
+
 > Great to be monitored.<br> :date: __2020-12-08 09:26:26__
 
 > Easy to use... The more people that use it, the more useful it becomes as a tracking tool!!!<br> :date: __2020-11-27 22:41:53__
@@ -151,8 +153,6 @@ The Canada COVID-19 app has been installed by more than **100000** times. At thi
 > Good<br> :date: __2020-10-13 14:58:43__
 
 > Easy to use and so easy to contribute to public safety. Super!<br> :date: __2020-10-12 14:09:30__
-
-> It's easy to use .<br> :date: __2020-10-09 15:43:20__
 
 
 
@@ -218,6 +218,8 @@ The Canada COVID-19 app has been installed by more than **100000** times. At thi
 <img src="2_star_reviews_wordcloud.png" alt="ca.gc.hcsc.canada.covid19 2 reviews"/>
 </p>
 
+> Keeps asking for codes that I don't have, or can't put in as it's a 1 time code.<br> :date: __2020-12-19 18:53:15__
+
 > Good to have app but it is quite slow to load the self check page. Please make it faster<br> :date: __2020-12-02 14:31:08__
 
 > [Original Rel review] Unreliable notifications. No app exit stratagy, that's very poor design. Otherwise fine app but becoming very slow to load or change tabs. [2020-10-21 Rel] Still no proper way to exit app. Extremely slow response throughout, even on fiber internet. [2020-10-27 Rel] Workflow error. After submitting daily check-in returning to home tab app thinks daily check-in not done. Exit and reload app check-in noted correctly. Other faults remain.<br> :date: __2020-11-01 15:11:04__
@@ -235,8 +237,6 @@ The Canada COVID-19 app has been installed by more than **100000** times. At thi
 > A good start, decent app. Could benefit from adding contact tracing, scientific information, better stats and province-specific information... Make it truly a NATIONAL app to organize the response!<br> :date: __2020-07-30 02:06:55__
 
 > Very disappointed. No Bluetooth integration. Kind of a fail, not completely but close.<br> :date: __2020-07-24 18:07:44__
-
-> On the surface the app appears to do what it claims. I will update my review once I've had a chance to inspect the code for myself and do some testing of my own.<br> :date: __2020-07-05 23:34:48__
 
 
 

@@ -222,6 +222,8 @@ The Heal: Telehealth & House Calls app has been installed by more than **50000**
 <img src="5_star_reviews_wordcloud.png" alt="com.getheal.patient 5 reviews"/>
 </p>
 
+> Amazing experience! The doctor was very understanding and knowledgeable. This really is the future of medicine.<br> :date: __2020-12-13 20:40:30__
+
 > Good app 👌<br> :date: __2020-12-07 17:22:44__
 
 > The Heal app is great & easy to use plus communicate<br> :date: __2020-12-03 23:26:39__
@@ -239,8 +241,6 @@ The Heal: Telehealth & House Calls app has been installed by more than **50000**
 > Good experience and can make appts easy also.<br> :date: __2020-10-12 23:28:38__
 
 > The HEAL team arrived within the designated time frame, were very personable and knowledgeable.<br> :date: __2020-09-30 01:19:19__
-
-> Doctors who make house calls<br> :date: __2020-09-26 02:08:19__
 
 
 

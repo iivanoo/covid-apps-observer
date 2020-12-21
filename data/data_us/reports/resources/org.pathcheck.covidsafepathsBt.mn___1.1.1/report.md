@@ -137,6 +137,14 @@ The COVIDaware MN app has been installed by more than **50000** times. At this t
 <img src="5_star_reviews_wordcloud.png" alt="org.pathcheck.covidsafepathsBt.mn 5 reviews"/>
 </p>
 
+> I don't have Covid<br> :date: __2020-12-16 04:54:47__
+
+> Great<br> :date: __2020-12-15 19:37:45__
+
+> I love the idea behind this app. However because of the climate of denial and disinformation surrounding covid, it's not likely to be as effective as it could be. The people most needing this app are not likely to download it, and people like me who are taking the proper precautions are most likely not to need it.<br> :date: __2020-12-14 19:41:58__
+
+> Very easy setup. Only asked for Bluetooth.<br> :date: __2020-12-13 23:32:26__
+
 > Protecting yourself and others is cool, pass it on.<br> :date: __2020-12-12 19:33:17__
 
 > Works well on my Pixel. Did not ask me for permissions, as expected.<br> :date: __2020-12-12 15:59:34__
@@ -149,14 +157,6 @@ The COVIDaware MN app has been installed by more than **50000** times. At this t
 
 > 1. Install app. 2. Enable location??!!!?11?!omgtheyretrackinusbro 3. ???????? 4. Profit! Location has to be enabled in order for the app to use bluetooth, simpletons. Get over it already.<br> :date: __2020-12-06 03:00:06__
 
-> So far great.<br> :date: __2020-12-05 21:52:52__
-
-> This app is a "MUST" during this Pandemic! I am fascinated at how incredible it is. KUDOS TO THE DEVELOPERS.<br> :date: __2020-12-05 20:33:09__
-
-> Wearyour*mask* # one Washands* # Two Socliel distant#three Bullshitt by Appointment#Four ABSOLTLEEY SEX with out me Nomber six and allways checktempiture +104take t0 emergence room asap!!!!!!! Eat planty of salids Get lots of Rest +biulds Amune sistem+<br> :date: __2020-12-05 07:31:49__
-
-> I am nervous about all of our phones constantly talking to everyone. Someone is going to screw all this up and take advantage of the vulnerability<br> :date: __2020-12-04 14:04:38__
-
 
 
 #### 4-star reviews
@@ -164,6 +164,8 @@ The COVIDaware MN app has been installed by more than **50000** times. At this t
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="org.pathcheck.covidsafepathsBt.mn 4 reviews"/>
 </p>
+
+> You have to leave your bluetooth and location on when your out and around. Otherwise I would have given it 5. It's a great app otherwise.<br> :date: __2020-12-20 10:32:09__
 
 > Excellent information<br> :date: __2020-12-10 15:11:22__
 
@@ -183,8 +185,6 @@ The COVIDaware MN app has been installed by more than **50000** times. At this t
 
 > I've only been using the app for 24 hours and so far it's easy to operate and walks you clearly through what the app does and how it works. My one issue is that I took a Covid test through an MDH testing site and my test results don't have a verification code. Without a verification code I can't enter my results in the app. Seems strange that we can't plug our MDH test results into our MN app. Hopefully they'll fix that!<br> :date: __2020-11-24 14:58:46__
 
-> I just installed the app for my safe<br> :date: __2020-11-24 01:24:29__
-
 
 
 #### 3-star reviews
@@ -193,7 +193,9 @@ The COVIDaware MN app has been installed by more than **50000** times. At this t
 <img src="3_star_reviews_wordcloud.png" alt="org.pathcheck.covidsafepathsBt.mn 3 reviews"/>
 </p>
 
-> Has only one notification type called "Exposure Notification" which, despite it's name, fires everyday on exposure database updates. Had to silence this annoying notification, so defeats the purpose! More fundamental flaws: doesn't account for PPE or if barriers between people, & relies on voluntary positive test input rather than MDH registry. Good: No location permissions required. App Info screens shows "No permissions requested". Double blind anon ID system is good. No BT issues like others.<br> :date: __2020-12-13 18:40:51__
+> Has only one notification type called "Exposure Notification" which fires everyday/night on exposure database updates. Had to silence this annoyance, but that also silences legit exposures! More fundamental flaws: doesn't account for PPE or if barriers between people, & relies on voluntary positive test input rather than MDH registry. Good: No location permissions required. App Info screens shows "No permissions requested". Double blind anon ID system is good. No BT issues like others.<br> :date: __2020-12-18 14:20:18__
+
+> Needs a date range for exposure. Like the app, easy to use, pleasant interface. However, I was exposed about a month ago. It alerted me correctly, but it never cleared/updated the exposure notice. It says "Possible exposure 7-14 days ago". So after your first possible exposure, you'll be tempted to ignore it. It would be more effective if it either said "Possible exposure between "11/14 and 11/21" or simply added a timestamp to each exposure notification.<br> :date: __2020-12-14 20:54:39__
 
 > Really you're putting out an app with no dark mode? Have you not paid attention to any other applications or operating system pushes and updates? I love staring into a flashlight.<br> :date: __2020-12-12 23:05:07__
 
@@ -211,8 +213,6 @@ The COVIDaware MN app has been installed by more than **50000** times. At this t
 
 > So how do we add a covid test result? My saliva test results (negative) did not have a verification code emailed with the test results either within the email or the PDF.<br> :date: __2020-11-24 18:36:34__
 
-> Confused with apple download instructions.<br> :date: __2020-11-24 17:09:27__
-
 
 
 #### 2-star reviews
@@ -220,6 +220,10 @@ The COVIDaware MN app has been installed by more than **50000** times. At this t
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="org.pathcheck.covidsafepathsBt.mn 2 reviews"/>
 </p>
+
+> Verification code is not work.<br> :date: __2020-12-20 06:19:01__
+
+> Marketing the launch, this listing, and info via the app itself could use improvements. User is instructed most explicitly in receiving notifications, and not the other major function - reporting. Please include in how-to and link in more places to the FAQ where this entire part is even touched on. Why does the app say "Verify your diagnosis"? You literally already have your diagnosis from your doctor. Why not "send" or "report"? Thanks<br> :date: __2020-12-18 01:21:17__
 
 > Didn't all around like because of the constant notifications even with the Bluetooth off.<br> :date: __2020-12-12 05:41:09__
 
@@ -243,24 +247,24 @@ The COVIDaware MN app has been installed by more than **50000** times. At this t
 <img src="1_star_reviews_wordcloud.png" alt="org.pathcheck.covidsafepathsBt.mn 1 reviews"/>
 </p>
 
-> Installed three weeks ago. Crashes upon opening. Totally worthless.<br> :date: __2020-12-13 17:07:13__
+> I find it pretty sad the local governments will try to alert you to carriers of a rapidly spreading virus as opposed to known sex offenders and child predators. If only registered offenders had been forced to get an app like this and have location on so anyone within 30ft can be notified instantly of a predator.<br> :date: __2020-12-20 18:35:25__
 
-> Did not allow the input of the very valuable information needed for the apps purpose. (ie) would not allow the verification code from MDH to be input. Curious how many positive cases were unable to be input. Not an extra security from the virus when it doesn't work!<br> :date: __2020-12-13 04:10:05__
+> Sucks!<br> :date: __2020-12-20 15:20:53__
 
-> Did not let me add my reference #<br> :date: __2020-12-13 04:09:47__
+> If youre willing to give up liberty for a small amount of security, you do not deserve either one.<br> :date: __2020-12-19 20:19:30__
 
-> Bad idea! I uninstalled and my phone is still saying its just turned off.<br> :date: __2020-12-12 19:53:37__
+> Govt app data mining installed without consent<br> :date: __2020-12-19 14:29:33__
 
-> Wasn't accurate since my roommate ended up being diagnosed with COVID and the app still told me I had no known exposures.<br> :date: __2020-12-11 17:08:42__
+> The idea is great, but this is absolutely useless. For it to work, basically everyone would need the app and have it turned on 24/7. Gave it a chance since release and haven't had a single "exposure" yet, even in densely populated grocery stores and the alike.<br> :date: __2020-12-19 04:32:32__
 
-> Popped up to install this app because of "government" mandate. Biggest problem is "Zero" star review is not available to rate.<br> :date: __2020-12-10 20:58:10__
+> You do not have my permission to load my information from my phone, not the state of MN., Federal Government, or any authorized Gov., Unit has authorization to my phone, or its data. None of you have my permission to install, copy, view, or save any of my information at any location, including my medical information, without my written consent!. My information is private & any intrusions of my data, or my information for any reason is considered theft & trespassing & illegal!. Robert Lamkin<br> :date: __2020-12-18 20:42:18__
 
-> This app sucks. I was potentially exposed and it didn't alert me. It must only work if everyone has it. Just stupid.<br> :date: __2020-12-10 16:57:03__
+> Annoying<br> :date: __2020-12-17 06:40:21__
 
-> No need to track me. Start with the blm and antifa crowd, you know the super spreaders.<br> :date: __2020-12-10 05:02:47__
+> I dont understand this app<br> :date: __2020-12-17 00:59:14__
 
-> I tested positive and where do i enter that.<br> :date: __2020-12-09 06:22:38__
+> Once the state of MN provides real data about hospitalizations, cycle times and real causes of death, the last thing I am going to do is provide data they will use for their own purposes and not convey to the state population.<br> :date: __2020-12-17 00:45:29__
 
-> Totally useless<br> :date: __2020-12-09 04:21:30__
+> Stupid .. dont waste time . Unless a person themselves that downloaded this app tells the app they are a positive tested person .. Then it continues to SPAM ypu in the name of google even AFTER ypu remove it ENTIRELY from your phone as well as google history Funny how.....Suddenly i had to have my ohone reset afterwards. .<br> :date: __2020-12-17 00:13:10__
 
 

@@ -253,6 +253,8 @@ The LAZIOdrCovid app has been installed by more than **100000** times. At this t
 <img src="1_star_reviews_wordcloud.png" alt="com.intellicare.covid 1 reviews"/>
 </p>
 
+> Direi che... fa abbastanza caxxare. Non me ne vogliamo i colleghi programmatori, so che non è colpa loro. Ma credo sia un app approssimativamente inutile. Tra l'altro mi si è impallata mentre cercavo di usare il sistema di messaggistica interna<br> :date: __2020-12-17 16:03:26__
+
 > Nesuno rispode<br> :date: __2020-12-12 21:03:40__
 
 > Avevo installato questa app e mi sembrava davvero utile e funzionante più di tutte le app della regione. Ma da un tempo a questa parte non mi permette di comunicare con il medico e quindi a perso l'utilità. Ogni messaggio che invio al medico lo cancellate. Allora non ha senso tenere un app che non posso utilizzare.<br> :date: __2020-12-07 18:59:32__
@@ -270,7 +272,5 @@ The LAZIOdrCovid app has been installed by more than **100000** times. At this t
 > Macchinosa e poco pratica, un disastro<br> :date: __2020-11-15 18:17:23__
 
 > Non funziona!!!!! usate i nostri soldi per dare un servizio che non esiste. Fate schifo.<br> :date: __2020-11-14 09:27:10__
-
-> Una buffonata non risponde nessun app sarebbe ottimo peccato che e come scrivere su un muro<br> :date: __2020-11-12 19:11:40__
 
 

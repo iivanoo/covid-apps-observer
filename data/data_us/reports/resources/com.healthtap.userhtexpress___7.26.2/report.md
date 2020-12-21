@@ -209,6 +209,18 @@ The HealthTap — 24/7 Telemedicine app has been installed by more than **100000
 <img src="5_star_reviews_wordcloud.png" alt="com.healthtap.userhtexpress 5 reviews"/>
 </p>
 
+> So far it was great waiting for meds<br> :date: __2020-12-19 20:17:42__
+
+> AWESOMENESS<br> :date: __2020-12-19 18:01:17__
+
+> Fantastic and very helpful app<br> :date: __2020-12-18 21:57:07__
+
+> Very convenient and helpful, the physicians are very quick and professional.<br> :date: __2020-12-17 23:55:46__
+
+> Super convenient<br> :date: __2020-12-17 20:15:25__
+
+> This is such an easy quick experience. The Docs are so nice. It takes less than 5 minutes to get a refilll.<br> :date: __2020-12-16 17:12:36__
+
 > Very helpful and professional!!<br> :date: __2020-12-11 18:41:42__
 
 > It was well worth it. Dr Brad was extremely helpful.<br> :date: __2020-12-11 02:16:29__
@@ -217,18 +229,6 @@ The HealthTap — 24/7 Telemedicine app has been installed by more than **100000
 
 > Great app, answers from the Doctors on the platform gives me insight on any health situation I might be experiencing.<br> :date: __2020-12-06 08:43:30__
 
-> Easy to do.<br> :date: __2020-11-30 20:13:13__
-
-> I LOVE THIS APP SUPER EASY ,SUPER HELPFUL, LOVE IT<br> :date: __2020-11-29 13:54:30__
-
-> Very productive<br> :date: __2020-11-28 20:25:40__
-
-> Health Tap has very professional doctors and make it easy for me to get my refills in between visits with my primary doctor! Also, more affordable than Lemonaid Health and K Health.<br> :date: __2020-11-28 00:05:46__
-
-> Yes it told me everything i wanted to know<br> :date: __2020-11-24 22:27:14__
-
-> Awesome<br> :date: __2020-11-24 10:33:06__
-
 
 
 #### 4-star reviews
@@ -236,6 +236,8 @@ The HealthTap — 24/7 Telemedicine app has been installed by more than **100000
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.healthtap.userhtexpress 4 reviews"/>
 </p>
+
+> eror 1005 when try login<br> :date: __2020-12-17 17:27:15__
 
 > The video portion did not work but the appointment was completed and prescription sent in a matter of minutes. $10 a month is a great value for such quick service, I will be sticking with HealthTap!<br> :date: __2020-09-27 18:34:49__
 
@@ -254,8 +256,6 @@ The HealthTap — 24/7 Telemedicine app has been installed by more than **100000
 > Very good app<br> :date: __2020-01-20 21:49:58__
 
 > Just got the app<br> :date: __2019-09-29 17:13:43__
-
-> l've just started using it so far it's going great<br> :date: __2019-07-31 23:32:45__
 
 
 

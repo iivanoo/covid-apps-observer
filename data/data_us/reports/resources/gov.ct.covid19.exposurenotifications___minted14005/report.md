@@ -128,6 +128,10 @@ The COVID Alert CT app has been installed by more than **50000** times. At this 
 <img src="5_star_reviews_wordcloud.png" alt="gov.ct.covid19.exposurenotifications 5 reviews"/>
 </p>
 
+> Good.<br> :date: __2020-12-17 16:25:14__
+
+> The exposure notification activation issue I reported in November seems to be resolved. Thanks!<br> :date: __2020-12-14 09:08:08__
+
 > I love it<br> :date: __2020-12-13 06:24:14__
 
 > Keep the people alert!<br> :date: __2020-12-09 19:44:17__
@@ -144,10 +148,6 @@ The COVID Alert CT app has been installed by more than **50000** times. At this 
 
 > Great<br> :date: __2020-11-30 14:02:08__
 
-> All citizens must be alert about covid-19.Most of the citizens are not wearing Masks, not maintaining social distance. Due to these reasons Covid-19 is not reducing among people. This app is very useful to control covid-19 ,because it alerts the peron who d uses this app-- Ramana VTV.<br> :date: __2020-11-29 04:49:12__
-
-> Nice app, like others have said i appreciate that it doesnt require permissions and the privacy model is transparent. Only thing that could make it better is if it was open source.<br> :date: __2020-11-29 01:57:29__
-
 
 
 #### 4-star reviews
@@ -155,6 +155,10 @@ The COVID Alert CT app has been installed by more than **50000** times. At this 
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="gov.ct.covid19.exposurenotifications 4 reviews"/>
 </p>
+
+> I'm not sure how to rate this app (see the XKCD comic on tornado warnings). I'm mostly reviewing to point out a SERIOUS flaw in the design of this app. I live on the border w/ NY. NY has it's own identical app. I can not run both apps at the same time. So I have to pick between CT or NY. What is the reason for this and why is this administered by the states at all? Why isn't there a national app?<br> :date: __2020-12-19 03:49:17__
+
+> They should have a nation wide one not state by state<br> :date: __2020-12-19 01:29:15__
 
 > Im not going to test this app.<br> :date: __2020-12-12 15:53:24__
 
@@ -172,10 +176,6 @@ The COVID Alert CT app has been installed by more than **50000** times. At this 
 
 > Great app. I was reading Wormwood a book about apocalypse in Connecticut and the app reminded me of the one the main character has in that book. Its also nice to know when its better to just stay home.<br> :date: __2020-11-15 03:54:15__
 
-> Just DL'd it so i don't know how well it works but WHAT AN AMAZING idea and UTILIZATION of technology! And it's ANONYMOUS!<br> :date: __2020-11-14 19:01:39__
-
-> Do your part, wear your mask, keep your distance and install the app<br> :date: __2020-11-13 05:39:02__
-
 
 
 #### 3-star reviews
@@ -183,6 +183,8 @@ The COVID Alert CT app has been installed by more than **50000** times. At this 
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="gov.ct.covid19.exposurenotifications 3 reviews"/>
 </p>
+
+> Someone in my building tested positive but I got no alert.<br> :date: __2020-12-18 08:41:41__
 
 > Is this app just for CT? Does it work in Maine? I've had it for a month and no notifications as cases are spiking here.<br> :date: __2020-12-12 02:17:02__
 
@@ -222,6 +224,12 @@ The COVID Alert CT app has been installed by more than **50000** times. At this 
 <img src="1_star_reviews_wordcloud.png" alt="gov.ct.covid19.exposurenotifications 1 reviews"/>
 </p>
 
+> I have never received a warning no I'm not sure if the app works or not. I have been diagnosed with Covid-19. I went to put it on the app. And it asks for a code. What code. I got a test result not a code for a gift card. And no explanation on the app as to where I find or get a code. Maybe this is why I haven't received any warnings. Should have known something from the CT government would not work well<br> :date: __2020-12-20 03:10:52__
+
+> I wish they had one for New Hampshire<br> :date: __2020-12-18 19:21:29__
+
+> It was slowing my phone down<br> :date: __2020-12-13 22:28:45__
+
 > I was exposed to the virus and this app never warned me. To me this app sucks<br> :date: __2020-12-10 17:44:30__
 
 > Cannot download the app, error message keeps saying "something went wrong"<br> :date: __2020-12-07 15:19:42__
@@ -235,11 +243,5 @@ The COVID Alert CT app has been installed by more than **50000** times. At this 
 > Don't bother installing this app or anything WuFlu related because COVID-19 (i.e. WuFlu, Chinavirus) is a hoax, it DOES NOT EXIST. Trump 2020 Keep America Great And Safe!<br> :date: __2020-11-20 01:35:20__
 
 > This app is worthless! Unless you input positive it will not alert you. There is no way I drive through Waterbury and not 1 alert!!!! What a scam.<br> :date: __2020-11-19 19:21:24__
-
-> This app dont work at all..i downloud but no said anything at all.<br> :date: __2020-11-18 14:21:06__
-
-> Overreaching, evil tracking, just so govt can get you used to "social tracking" & who you intact with<br> :date: __2020-11-14 19:21:56__
-
-> Downloaded and went to turn on notifications and it immediately says something went wrong try again<br> :date: __2020-11-14 19:05:48__
 
 

@@ -189,6 +189,10 @@ The CONFINAPP app has been installed by more than **10000** times. At this time,
 <img src="1_star_reviews_wordcloud.png" alt="cat.gencat.mobi.confinApp 1 reviews"/>
 </p>
 
+> La información sobre el confinamiento no se actualiza, sigue saliendo la que se proporcionó a principios de octubre, y a día de hoy a cambiado bastante, ademas de que cuando intento renovar mis certificados me salta error continuamente.<br> :date: __2020-12-20 20:47:59__
+
+> Absurda. Si puedes rellenarlo, también puedes explicarlo si te paran en un control. Lo importante son los documentos sellados y justificantes. Uno puede inventar que va o viene de donde sea.<br> :date: __2020-12-19 00:12:50__
+
 > No se abre la aplicación.<br> :date: __2020-12-04 07:37:31__
 
 > Muy mala no renueva certificado,de pena.<br> :date: __2020-11-08 10:49:39__
@@ -204,9 +208,5 @@ The CONFINAPP app has been installed by more than **10000** times. At this time,
 > No consigo nada<br> :date: __2020-11-01 21:30:19__
 
 > No me funciona<br> :date: __2020-11-01 11:50:06__
-
-> No funciona. No crea nuevos certificados.<br> :date: __2020-10-31 13:23:34__
-
-> App que només ha estat útil durant un parell de mesos. Es podria seguir fent sevir per indicar les mesures en vigor i per gestionar certificats de desplaçament, però inexplicablement s'ha deixat d'actualitzar, com totes les apps que va idear la Generalitat per la situació CoVID-19 en un inici. Apps inútils que han costat diners públics.<br> :date: __2020-10-28 21:47:50__
 
 

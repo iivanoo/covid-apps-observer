@@ -155,25 +155,25 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="au.com.vodafone.dreamlabapp 5 reviews"/>
 </p>
 
-> Easy to use and helping worth while cause and cost very little..T<br> :date: __2020-12-13 16:49:29__
+> Really great idea, does not affect the phone at really<br> :date: __2020-12-20 10:27:01__
 
-> Really help to humans<br> :date: __2020-12-13 14:50:55__
+> It's no trouble<br> :date: __2020-12-20 09:51:05__
 
-> Easy to use and it's a great way to help.<br> :date: __2020-12-13 14:32:21__
+> Couldn't be easier to help research!<br> :date: __2020-12-20 09:43:08__
 
-> Brilliant!<br> :date: __2020-12-13 11:07:01__
+> Very interesting and hopefully helps research.<br> :date: __2020-12-20 09:38:18__
 
-> Just a simple app to use yet potential to help so many people<br> :date: __2020-12-13 09:42:09__
+> Supersimple way to help vital research.<br> :date: __2020-12-20 09:31:15__
 
-> Great app for a great cause. My one request would be to have profiles - I have three devices running this (two of them full-time) and would love to see my combined effort between them all. Beyond that I recommend this app 100%.<br> :date: __2020-12-13 00:44:00__
+> No effort for the user yet you are helping science while you sleep!<br> :date: __2020-12-20 09:13:08__
 
-> Helps support vital research, just runs in background when charging. Brilliant idea, brilliantly simple.<br> :date: __2020-12-12 15:25:15__
+> It's really great to think that anyone with a smartphone can help scientific research.<br> :date: __2020-12-20 06:09:05__
 
-> Works well and it is nice to know I am helping but it should be advertised more widely.<br> :date: __2020-12-12 11:24:06__
+> This is an amazing app that will help slot of people. Well done DreamLab!<br> :date: __2020-12-19 21:02:12__
 
-> Brilliant Useful App<br> :date: __2020-12-12 09:51:01__
+> Really help to humans<br> :date: __2020-12-19 16:11:15__
 
-> Works well in the background when plugged in without having an impact on my usage<br> :date: __2020-12-12 08:00:52__
+> Easy to use, great to know I can contribute to such a great project<br> :date: __2020-12-19 14:40:16__
 
 
 
@@ -183,25 +183,25 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 <img src="4_star_reviews_wordcloud.png" alt="au.com.vodafone.dreamlabapp 4 reviews"/>
 </p>
 
-> Great app but would be better still if it had a setting to allow sessions to start automatically as soon as the phone's charger is plugged in<br> :date: __2020-12-13 10:34:34__
+> Really great cause. I would encourage everyone to use this app, it works very well too and is lightweight on data if that's a concern. No ads at all. Would be 5 stars if I could login and keep my progress/contributions across devices.<br> :date: __2020-12-19 00:21:24__
 
-> Sounds great, but a pity its instructions default to the language of my location or network provider, in my case Italy, without the option of changing the language in settings.<br> :date: __2020-12-13 06:04:08__
+> Any chance you can make your application compatible with Android TV and also the new Google TV with Chromecast? I certainly don't mind donating CPU time of my Google TV with Chromecast. It's left powered up 24/7/365.<br> :date: __2020-12-17 18:54:53__
 
-> I am fascinated by distributed computing projects (ever since Folding@Home), and this is a very worthwhile one with good credentials. I took a star off because overnight it has repeatedly shut down because the phone (a Pixel 3A) is overheating. But otherwise, it's good to be able to help a bit. Thank you.<br> :date: __2020-12-11 00:29:10__
+> Painless<br> :date: __2020-12-17 10:14:46__
 
-> Great app. Could do with more settings though, timer and landscape mode for tablet use.<br> :date: __2020-12-06 23:24:32__
+> Great way of helping out. Did seem to hang phone once, but that could be something else<br> :date: __2020-12-17 09:15:04__
 
-> I would like to see a manual throttling option to help prevent the phone getting warm rather than decide for itself But this app should come with every phone. Simple to use, extremely worthwhile, and unobtrusive.<br> :date: __2020-12-05 10:58:23__
+> Easy to use and if it helps..<br> :date: __2020-12-16 22:07:46__
 
-> It is an interesting project. One improvement suggestion: more settings, specifically to be able to set times when it's allowed to run (e.g. overnight only). It is good that it only runs when plugged in (though that could also be a setting), but when it runs it does take quite a bit of processing power, and the phone runs warm - I would like it to only turn on when I'm genuinely not using the phone.<br> :date: __2020-12-04 17:13:15__
+> I run a system on my computers, called Bonic (24/7) which run similar scientific projects. I would like to see your project also running on PCs and not running on mobile phones, whilst charging.<br> :date: __2020-12-16 00:46:21__
 
-> Any chance you can make your application compatible with Android TV and also the new Google TV with Chromecast? I certainly don't mind donating CPU time of my Google TV with Chromecast. It's left powered up 24/7/365. J just ask thaat if you do, that your app operates at the lowest priority to all other processes in the Google TV dongle.<br> :date: __2020-12-04 12:07:38__
+> Great app ... but made my phone far too hot. Dreamlab kept pausing for it to cool down, saying this was to keep the phone at 'optimum temperature', but the thing kept getting borderline too hot to touch. One solution would be to give the user an option to run either more intermittently, or simply use a lower temperature cuttoff. Sorry to sound negative here, but best for me to be honest. I hope this issue only affects a small minority of phones ... mine's a OnePlus X.<br> :date: __2020-12-15 13:47:34__
 
-> A great way to donate to important scientific research without costing you extra money.<br> :date: __2020-12-01 22:19:48__
+> Happy to assist<br> :date: __2020-12-15 10:24:58__
 
-> Its convenient & a great idea. It may be a bit too powerfull for my moto g3 as it has had to take time out to cool down. Raises the thought about damage, but I will continue.<br> :date: __2020-12-01 11:11:51__
+> Unobtrusive, I'm pleased to help<br> :date: __2020-12-14 16:17:41__
 
-> App has stopped working since latest update. Just sits at zero all the time whether I'm on Wi-Fi or mobile data. Please fix it.<br> :date: __2020-11-28 00:59:02__
+> Pixel 4 gets quite hot charging so contribution is paused - should be able to contribute from battery if above, say, 70%<br> :date: __2020-12-14 08:40:54__
 
 
 
@@ -210,6 +210,12 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="au.com.vodafone.dreamlabapp 3 reviews"/>
 </p>
+
+> Needs an option to suspend processing if screen is on. On some phones it's using more power than its charging so battery goes down. Need to take a leaf out of boincs book.<br> :date: __2020-12-18 13:32:20__
+
+> Good app but settings are severely lacking, no way of telling it when to run and when not to run. I'd like to be able to customise when to start a session and also why can't it be used without being plugged in? Surely using less CPU when it's not plugged in is better than not running at all? I'd also like to see it automatically start instead of needing me to go into the app and tapping start session.<br> :date: __2020-12-14 22:40:48__
+
+> Great idea... But app needs more controls to limit cpu and send it can run<br> :date: __2020-12-14 11:23:42__
 
 > I'd like to use this on my phone but it eats power faster than the wireless charger can charge it. The phone charges up to 80%, the app starts calculating, next thing I know despite the phone still being on the charger the battery has 70% in it and still falling. The app needs to check the charge level when it is running and avoid allowing the phone to be depleted if the phone is using more power than it is getting from the charger.<br> :date: __2020-12-13 17:38:48__
 
@@ -225,12 +231,6 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 
 > Most of the time I put my phone on charge, the app doesn't work it just crash by itself<br> :date: __2020-12-02 09:09:06__
 
-> This is a great app, if you're like me and have unlimited data then you can leave overnight to charge and contribute. The only issue I have with this is like many users, there isn't enough advertisement surrounding this so it remains fairly unknown. If this was standard throughout all Vodafone devices and required users to Opt out, then I feel there would be more of a buzz surrounding this.<br> :date: __2020-11-26 09:59:39__
-
-> I'm unclear exactly how this thing works, and that concerns me a bit It fires up any time I put my phone on the charger... Day or night I am on my home wifi... I have yet to see if it turns on in the car when I plug the charger in... I never use all my data each month but that doesn't mean I want to risk it while driving I was under the impression the app only runs at night (I am in the US, if that matters)... But there is no way to set a schedule that allows it to run only during certain hours<br> :date: __2020-11-16 04:59:26__
-
-> Great idea, but I've got a problem after some hours of use, since it starts crashing just after enabling or even just opening it; both on Android 7 and iPadOs 14<br> :date: __2020-11-15 13:39:57__
-
 
 
 #### 2-star reviews
@@ -238,8 +238,6 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="au.com.vodafone.dreamlabapp 2 reviews"/>
 </p>
-
-> Multitasking not working well. All optimizers are off, all launch options are set, but it not runs itself. But somehow it is working when runned manualy<br> :date: __2020-12-13 11:47:55__
 
 > Uninstalled. Great idea, but too power intensive. Left the phone on charge over night and the battery only gained 2%.<br> :date: __2020-12-09 10:34:19__
 
@@ -259,6 +257,8 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 
 > Interesting idea but still having issues with the app crashing.<br> :date: __2020-10-08 15:54:04__
 
+> I'm having a lot of technical difficulties with this app quite recently. I've had to uninstall the app 4 times, and install again just to get it to work properly. Apart from that, I love this app. Please fix this problem. Thank you.<br> :date: __2020-10-04 15:11:35__
+
 
 
 #### 1-star reviews
@@ -266,6 +266,12 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="au.com.vodafone.dreamlabapp 1 reviews"/>
 </p>
+
+> Kept freezing Android 7 tablet & Android 9 phone. Unacceptable behaviour. Uninstalled.<br> :date: __2020-12-20 11:44:11__
+
+> I tried the app on my phone. My phone got red hot. So I tried it on my iPad. It drained the battery completely; unfortunately even while on charge. Had to delete it. Shame. I wanted to help....<br> :date: __2020-12-20 10:45:36__
+
+> Update : it is chaos<br> :date: __2020-12-17 03:12:18__
 
 > Haven't a clue what is it<br> :date: __2020-12-07 18:42:59__
 
@@ -280,11 +286,5 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 > Worked well for the first day, then crashed constantly every night/ charge following. Made the phone almost impossible to use prior to uninstalling due to all the crashes occurring.<br> :date: __2020-11-26 16:07:07__
 
 > Idea itself is worthwhile, however after a few days the app will stop working or crash when you plug in the power. No support, no replies to messages. Constantly requires uninstalling and install if you want to continue supporting the projects, however your history/contributions are erased.<br> :date: __2020-11-23 23:10:19__
-
-> Does not automatically start when power plugged in. Missed out on months of potential calculations.<br> :date: __2020-11-23 21:31:21__
-
-> Does not connect when it should - what a waste!<br> :date: __2020-11-18 22:02:44__
-
-> Normally amazing, but wont work now keeps crashing:/ all it does is crash constantly.<br> :date: __2020-11-11 05:16:10__
 
 

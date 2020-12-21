@@ -164,10 +164,12 @@ The Niagara Health Navigator app has been installed by more than **5000** times.
 #### 4-star reviews
 
 <p align="center">
-
+<img src="4_star_reviews_wordcloud.png" alt="com.identos.nav.niagara 4 reviews"/>
 </p>
 
-No recent reviews available with 4 stars.
+> This is a great app well laid out I had no problem booking a Covid test appointment and I had no problem getting the results 24 hours later I congratulate them<br> :date: __2020-12-13 23:52:35__
+
+
 
 #### 3-star reviews
 

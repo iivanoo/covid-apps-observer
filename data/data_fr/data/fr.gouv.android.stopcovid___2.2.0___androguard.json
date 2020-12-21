@@ -1,0 +1,36 @@
+{
+    "permissions": [
+        "android.permission.INTERNET",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        "android.permission.FOREGROUND_SERVICE",
+        "android.permission.ACCESS_FINE_LOCATION",
+        "android.permission.CAMERA",
+        "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+        "android.permission.WAKE_LOCK",
+        "android.permission.BLUETOOTH",
+        "android.permission.BLUETOOTH_ADMIN",
+        "android.permission.ACCESS_COARSE_LOCATION"
+    ],
+    "activities": [
+        "com.lunabeestudio.stopcovid.activity.OnBoardingActivity",
+        "com.lunabeestudio.stopcovid.activity.MainActivity",
+        "com.lunabeestudio.stopcovid.activity.AppMaintenanceActivity",
+        "com.journeyapps.barcodescanner.CaptureActivity"
+    ],
+    "urls": [
+        "http://schemas.android.com/apk/res/android",
+        "https://play.google.com/store/apps/details?id=fr.gouv.android.stopcovid",
+        "https://app.stopcovid.gouv.fr/json/version-26/config.json",
+        "https://app.stopcovid.gouv.fr/json/version-26/",
+        "https://app.stopcovid.gouv.fr/json/version-26//Attestations/form.json",
+        "https://app.stopcovid.gouv.fr/json/version-26/InfoCenter/",
+        "https://app.stopcovid.gouv.fr/infos/key-figures.json",
+        "https://tac.gouv.fr/0/",
+        "https://tac.gouv.fr/",
+        "http://schemas.android.com/apk/res-auto",
+        "https://api.stopcovid.gouv.fr",
+        "https://tacw.tousanticovid.gouv.fr",
+        "https://app.stopcovid.gouv.fr/maintenance/info-maintenance-v2.json"
+    ]
+}

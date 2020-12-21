@@ -140,13 +140,13 @@ The COVID Radar app has been installed by more than **50000** times. At this tim
 <img src="5_star_reviews_wordcloud.png" alt="nl.lumc.covidradar 5 reviews"/>
 </p>
 
+> voor Elk gezin zeker bij ZelfQuarantaine. postcode-gebied kan zo nog beter in de gaten worden gehouden door onzeGGD. . Selecteren van ja/nee = iedereen dan hetzelfde bedoeld. Antwoorden in welke de MILDE-vorm van covid kunnen signaleren en kan de app dit aangeven dat de gebruiker dit heeft? LOGEES ZONDER-deze-app voer ik in en WIL IK NIET-AKTIEF kunnen zetten!!! TraceBack-covid19patient krijgt meerEnMeer vorm. m.i. zal Rivm/OMT eind sep met coronaMelderapp komen, welke ook BuitensHuis actief is.<br> :date: __2020-12-20 10:20:21__
+
 > Covid Radar Van het Lumc Oke.alles Goed 👍👍😊Prima 👌 Lang blijven nu niet verwijderen<br> :date: __2020-10-11 08:39:28__
 
 > Gewoon Even invullen tijdens het ontbijt en je draagt bij aan zinvol onderzoek. Werkt prima.<br> :date: __2020-10-06 17:21:15__
 
 > Kan beter<br> :date: __2020-10-04 17:54:32__
-
-> voor Elk gezin zeker bij ZelfQuarantaine. postcode-gebied kan zo nog beter in de gaten worden gehouden door onzeGGD. . Juist het kunnen selecteren van ja/nee antwoorden is een pre, o.a. omdat iedereen dan hetzelfde bedoeld. Staan er ook antwoorden in welke de MILDE-vorm van covid kunnen signaleren en kan de app dit aangeven dat de gebruiker dit heeft? TraceBack-covid19patient krijgt meerEnMeer vorm. m.i. zal Rivm/OMT pas eind sep met coronaMelder app komen, welke ook BuitensHuis actief is.<br> :date: __2020-09-23 23:28:22__
 
 > Goed<br> :date: __2020-08-25 19:50:33__
 

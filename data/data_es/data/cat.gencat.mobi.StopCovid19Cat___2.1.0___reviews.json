@@ -1,11 +1,35 @@
 [
     {
+        "reviewId": "gp:AOqpTOGdYpg_rA_V3hWDEtA58XTGoLDha-PwAbLCYkmALFknYd4ZuRVf1j84qQxxUg46KIsEGnkMF-vOGU8IWKE",
+        "userName": "AURA D",
+        "userImage": "https://play-lh.googleusercontent.com/-B3mDXYNdO2A/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnhmuVWoBGipRhir971jDLg1eW5ZA/photo.jpg",
+        "content": "La primera vez he logrado llegar al paso de recibir el codigo por Sms, lo he puesto pero de all\u00ed no se mueve, la segunda vez ya ni he podido intentar enviar el SMS, por mucho que apretaba no pasaba nada. As\u00ed no me extra\u00f1a que no se puedan contabilizar los casos, si no funciona una simple aplicaci\u00f3n, que se puede esperar de situaciones m\u00e1s complejas?",
+        "score": 1,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "2.1.0",
+        "at": "2020-12-16 14:56:06",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOF_RTj6xw9KbZKMXAGSLQjhjP0kQzzAeIAmVQn-IQV3BvKSWmPmTSh85UMbkOdyG3M8gUZYOfEyvDKMdj4",
+        "userName": "Oscar Fuentes",
+        "userImage": "https://play-lh.googleusercontent.com/-uOh4UsMNm_g/AAAAAAAAAAI/AAAAAAAApOU/AMZuuckH6_DC8_922pIpA2zLFJY8Dy-_1A/photo.jpg",
+        "content": "Borrar esta app, es vergonzosa. Despedir al jefe.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2020-12-14 12:16:10",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOGFolCJXA3XrbaYT9KmBC1bcDEBy4ATFw25ImO-H81f0WHtduQEunzehCiM02NXh3hYe2_rZ-fpEg_FPCs",
         "userName": "LOURDES PALOMAR",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgjWgcKWU8npMseudmo_wyjvOtuAzojq0fZ9jXX",
         "content": "La app no funcina bien. Cuando voy a hacer el test se queda colgada. La he desintalado y vuelto a instalar y nada. Sin el test no sirve para nada. Despues de la rese\u00f1a, funciono una vez y ahora otra vez no puedo hacer el test",
         "score": 1,
-        "thumbsUpCount": 6,
+        "thumbsUpCount": 9,
         "reviewCreatedVersion": "2.1.0",
         "at": "2020-12-06 21:00:34",
         "replyContent": "Si nos indica su modelo de m\u00f3vil y versi\u00f3n del programa trasladaremos la incidencia.",
@@ -65,7 +89,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhynIah8qt_X8qCyv0m489GfjRRO_hVtXUy53Rv5RE",
         "content": "Mientras no haces la prueba est\u00e1 bien de ayuda, pero una vez te haces el test y das positivo, no sirve para nada. Yo hoy he hecho test de ant\u00edgenos y he dado positivo. En cambio relleno los datos y como me han desaparecido varios s\u00edntomas, pues me dice que no tengo la Covid. Me da un chasquido el bolo al ver que me dice que no tengo Covid y en cambio hoy me han diagnosticado positivo en el CAP.",
         "score": 1,
-        "thumbsUpCount": 12,
+        "thumbsUpCount": 14,
         "reviewCreatedVersion": "2.1.0",
         "at": "2020-11-09 21:38:15",
         "replyContent": "La app es un test de control, seguimiento y vigilancia de s\u00edntomas. Si usted est\u00e1 diagnosticado debe seguir las indicaciones que le han dado en el CAP.",
@@ -1837,7 +1861,7 @@
     },
     {
         "reviewId": "gp:AOqpTOHistc19VeAFJBcdBGKAajJYr2PMx2Kj1wzPrIf-yrIJdN2hAiffMGzJJ5EJLHmlnNNRn53FigDzrdsDfc",
-        "userName": "Jose M.P.",
+        "userName": "Francisco M.L.",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj1uxuLJfSsF1pUjO_7ffygI1GrUEA4elzU95r5jQ",
         "content": "Poco eficaz y no da info de tu entorno",
         "score": 1,
@@ -3038,7 +3062,7 @@
     {
         "reviewId": "gp:AOqpTOHq3OeXhYBzd-hBHxsqmVwj1mFocgfZnuhGIi6x6To6x5X7LTefo_cWXGEixwJo-BEzCGCtR43pjFaMrUU",
         "userName": "M B",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhpB02hSpmDMnG3oQPXi6itsDAq4V1Ir9ewOqij2Vo",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiFnZ_C-990ewJqy8u9AH3UzQQ6k-bhITPBOiNiwLY",
         "content": "Tengo cip y no me deja entrar, no se evo d\u00edas enntando y nada.",
         "score": 1,
         "thumbsUpCount": 1,
@@ -3121,7 +3145,7 @@
     },
     {
         "reviewId": "gp:AOqpTOGluPscYbNvByRTwSrEuTy7SsvWWOhua9eBozjWLWsFeTqIXMKSkDRcgAZ5uWGQ7houBT9oivSAgRh6X64",
-        "userName": "Diego Guti\u00e9rrez Pellicer",
+        "userName": "Diego G. Pellicer",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gix72ma1QWdKXsWKZfZFxit0BrHJag0sUa_g69TolI",
         "content": "Per crear bones aplicacions independentistes hi va haver recursos per\u00f2 ara que realment fan falta per ajudar a salvar vides fan aquest bodrio. Per\u00f2 que importa? Despr\u00e9s li donen la culpa a l'Estat i es queden tan a gust.",
         "score": 1,
@@ -4190,7 +4214,7 @@
     {
         "reviewId": "gp:AOqpTOGc01VzR24q-d0uPELecVdoMo9ItoOwbEeCn9SA_38FJ92nmgRNRXgmikQ3ATBkbqaRs3XSFkWZmoS3TQA",
         "userName": "Pedro Jesus Vidal",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj6DnELXwfE3SqE7SMQaxJLA6yTJ0H6Aj9BNQiTBA",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgLfO9_pUAcIabMycnpuBzmXZvhcReHaHIM8JUzpQ",
         "content": "No muestra el mapa de calor con los casos repartidos por Barcelona o Catalu\u00f1a o Espa\u00f1a. Ser\u00eda interesante no solamente para las autoridades",
         "score": 2,
         "thumbsUpCount": 3,
@@ -5198,7 +5222,7 @@
     {
         "reviewId": "gp:AOqpTOEfpX9pjIm0wkPVFN9knJ7NjLED8V9aJ4UsdU9TYV0HsZUs8Dw3RAST1wA9BW03O-NPrs6ZyZLJIuWq8eA",
         "userName": "Xavier Casaus",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi-ngrmsn6NX1J0v3CNMYO586PC_IzC3Ymk-_D4aw",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgErcU-LJP3d8ipMheg_kiGWjioltbytwXpqqVHpg",
         "content": "Aplicaci\u00f3 b\u00e0sica per portar un control segons els 4 s\u00edmptomes que presenta l'aplicaci\u00f3. A les persones que a l'introduir el CIP, els surt ERROR, aquest codi ha d'introduir-sense espaiar, totes les lletres i n\u00fameros junts. Cal introduir el CIP cada vegada que s'accedeix. No presenta un mapa orientatiu dels casos, segons la ubicaci\u00f3 de cada usuari i el seu CIP.",
         "score": 3,
         "thumbsUpCount": 2,

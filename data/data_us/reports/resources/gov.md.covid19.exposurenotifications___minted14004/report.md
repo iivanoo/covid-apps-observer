@@ -129,6 +129,12 @@ The MD COVID Alert app has been installed by more than **100000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="gov.md.covid19.exposurenotifications 5 reviews"/>
 </p>
 
+> I think this was an excellent idea.<br> :date: __2020-12-17 19:49:21__
+
+> Good idea. I wish more would enroll<br> :date: __2020-12-16 04:42:57__
+
+> I am very glad to have this app available. Thank you very much 😊<br> :date: __2020-12-13 20:14:18__
+
 > Haven't had any alerts as of yet<br> :date: __2020-12-10 21:03:17__
 
 > Easy to use<br> :date: __2020-12-10 01:40:11__
@@ -142,12 +148,6 @@ The MD COVID Alert app has been installed by more than **100000** times. At this
 > Apps like these save lives. I am blessed to live in Maryland.<br> :date: __2020-11-28 23:35:26__
 
 > Very easy to use, nice privacy guarantee<br> :date: __2020-11-28 17:30:51__
-
-> A good app for a good idea :chevere:!<br> :date: __2020-11-28 04:43:03__
-
-> Alls well so far.<br> :date: __2020-11-25 19:38:04__
-
-> Great app and genius idea. Easy install and easy instructions. Could be a life saver!<br> :date: __2020-11-22 12:32:38__
 
 
 
@@ -177,13 +177,13 @@ The MD COVID Alert app has been installed by more than **100000** times. At this
 <img src="3_star_reviews_wordcloud.png" alt="gov.md.covid19.exposurenotifications 3 reviews"/>
 </p>
 
+> Requires GPS to be on all the time. Another reviewer stated the phone's location doesnt need to be turned on, but as soon as I turn it off I get a notification stating "Exposure Notifications Inactive To use this feature, turn on location".<br> :date: __2020-12-17 06:31:55__
+
 > I can't figure out where to get my one time verification code so I can use this app.<br> :date: __2020-12-12 19:08:23__
 
 > I keep getting a error on install. Smdh<br> :date: __2020-12-08 12:22:49__
 
 > Needs to be listed and available at the Top of your Maryland coronavirus web page! Also how to update it! Mine needed that...why not automatic? Boo! Like hogan wasting $9million on South Korean tests!<br> :date: __2020-12-06 14:49:17__
-
-> Requires GPS to be on all the time, which drains the battery faster. (Not to mention allows all the other nosy apps on your phone to know where you are.) Another reviewer expressed a concern I shared: If you are near two or more states, do you need to install each state's notification app? I came across a news article announcing the apps which stated you only need one, and other states notify thru that one. Better documentation in the app would make that clearer.<br> :date: __2020-12-02 05:54:43__
 
 > Just Downloaded But Unable To Turn On Notifications. Now It's Just Useless. And No It's Not My Phone. Please Fix Bugs.<br> :date: __2020-11-20 15:15:26__
 
@@ -205,6 +205,10 @@ The MD COVID Alert app has been installed by more than **100000** times. At this
 <img src="2_star_reviews_wordcloud.png" alt="gov.md.covid19.exposurenotifications 2 reviews"/>
 </p>
 
+> Installation hung, had to reinstall. though feedback is mentioned, no feedback method built into app. to save power would be nice to be able to turn off when at home location where no visitors or exposure is possible. just installed so may be more feedback later, but no method within app.<br> :date: __2020-12-17 15:31:22__
+
+> desnt work<br> :date: __2020-12-17 08:29:56__
+
 > I wish I could use both Maryland and Pennsylvania COVID apps because I live in Maryland and work in Pennsylvania. But I can only get notifications from one of them. I am more likely to get exposed to COVID in PA then MD. Other then that it is nice.<br> :date: __2020-12-11 18:19:42__
 
 > I am not sure whete to get the verification code to use in the app.?.?.?<br> :date: __2020-12-10 04:46:27__
@@ -221,8 +225,6 @@ The MD COVID Alert app has been installed by more than **100000** times. At this
 
 > Installed. Then my battery started draining way faster than usual. Uninstalled. I will update my review when I see if the battery drain goes away or not.<br> :date: __2020-11-17 22:37:58__
 
-> Without good data, useless. It should allow you to report known exposure sites and events rather than just personal test results. Oddly, a search for 'Maryland' does not find this app.<br> :date: __2020-11-11 21:55:31__
-
 
 
 #### 1-star reviews
@@ -230,6 +232,16 @@ The MD COVID Alert app has been installed by more than **100000** times. At this
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="gov.md.covid19.exposurenotifications 1 reviews"/>
 </p>
+
+> Arrogant and ignorant for each state to release their own app, as if people can't travel or even commute daily over state borders. You can only run one of these apps at a time. Even if you switch between apps, the contacts are only registered for people who run the same app.<br> :date: __2020-12-19 16:37:42__
+
+> ☆WARNING☆ THIS APP HAS A CHANCE TO CAUSE YOUR DEVICE LIKE MINE TO STOP FREEZE AND DIE DON'T DOWNLOAD AS ITS ALL FAKE AND POSABILITY VIRUS, YOU'LL DIE IN AN HOSPITAL WITH RANDOM CHEMICALS BEING POURED INTO YOU!!!!!!<br> :date: __2020-12-17 17:58:22__
+
+> Great concept, however, doesn't work if you can't report a positive test! It's requires MD health department to give you a code. Contact tracer had no clue that they we able to give a code and couldn't figure it out. My efforts to help the community were squandered by a poor system.<br> :date: __2020-12-17 17:43:39__
+
+> I came in contact with someone who tested positive and it didn't alert me about anything<br> :date: __2020-12-15 12:54:56__
+
+> Broken Process. Useless app. My husband tested positive. The process: your health care provider reports your positive result to the MD Depth of Health and THEY text you a code to enter into the app to report your status. It took 4 days to get that code. Even after entering it, I still haven't received an exposure notification and we're together constantly. Verified all settings are correct. It actually has to work & QUICKLY to benefit individual users & public health. Extremely disappointed.<br> :date: __2020-12-15 03:22:41__
 
 > It is taking so long for me to get my test results that by the time I get them this app will have forgotten everyone I came in contact with.<br> :date: __2020-12-11 18:13:18__
 
@@ -240,15 +252,5 @@ The MD COVID Alert app has been installed by more than **100000** times. At this
 > Cannot turn on exposure notifications<br> :date: __2020-12-05 14:52:20__
 
 > Won't allow user to turn on exposure notification. Just receive error messages<br> :date: __2020-11-29 05:31:35__
-
-> I am tired of Google trying to force this app down my throat so review bomb.<br> :date: __2020-11-28 23:16:57__
-
-> The app literally doesn't work. There's not much else to say. When you open the app, and press "Turn on exposure notifications", all you get is an error saying "Something went wrong. Try again". I've had it installed for several weeks. It happened when I first downloaded it, and still continues. I'm going to uninstall it. It's pointless.<br> :date: __2020-11-25 04:53:32__
-
-> Can't turn on exposure notifications. I have uninstalled and reinstalled the app. It still doesn't work.<br> :date: __2020-11-24 08:37:14__
-
-> Doesn't seem accurate. I work in a hospital with 40+ covid positive patients everyday but the app always tells me I havent been near anyone with covid....<br> :date: __2020-11-23 20:45:16__
-
-> It is asking for an access code from my test. I DON'T HAVE ONE! Where is this code!? So frustrating 😫<br> :date: __2020-11-23 12:16:49__
 
 

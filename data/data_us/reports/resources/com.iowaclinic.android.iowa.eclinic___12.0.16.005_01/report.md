@@ -178,6 +178,14 @@ The Virtual Care The Iowa eClinic app has been installed by more than **1000** t
 <img src="5_star_reviews_wordcloud.png" alt="com.iowaclinic.android.iowa.eclinic 5 reviews"/>
 </p>
 
+> Very clear n understanding for everyone<br> :date: __2020-12-15 21:26:23__
+
+> It was awesome<br> :date: __2020-12-14 23:10:23__
+
+> Nice<br> :date: __2020-12-14 22:44:24__
+
+> DR. CHENNUPATI IS THE GREATEST FAMILY DOCTOR IN THE WORLD!!!!!!!! My family loves her!!<br> :date: __2020-12-14 17:05:26__
+
 > Great experience!!<br> :date: __2020-12-01 17:44:08__
 
 > Its very easy to use,and it goes quick.<br> :date: __2020-11-19 23:37:12__
@@ -190,14 +198,6 @@ The Virtual Care The Iowa eClinic app has been installed by more than **1000** t
 
 > Sofar so good. Just started using app.<br> :date: __2020-09-01 20:22:20__
 
-> In the age of social distancing, this is perfect. I get to talk with my Dr. from the privacy of my home. Would recommend to anyone who is high risk for contracting disease<br> :date: __2020-08-14 22:39:01__
-
-> This was a great experience, so much easier than a trip to the office.<br> :date: __2020-08-12 22:00:14__
-
-> Very easy to use and providers very friendly and knowledgeable!!!!<br> :date: __2020-08-12 17:09:54__
-
-> Very user friendly<br> :date: __2020-07-31 22:49:20__
-
 
 
 #### 4-star reviews
@@ -205,6 +205,8 @@ The Virtual Care The Iowa eClinic app has been installed by more than **1000** t
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.iowaclinic.android.iowa.eclinic 4 reviews"/>
 </p>
+
+> Good experience, clear and good visual.<br> :date: __2020-12-17 20:30:08__
 
 > Good overall but search feature doesn't always show up when looking for your doctor and the interface doesn't snow all offline doctors so you may not see who you are looking for.<br> :date: __2020-05-07 22:30:22__
 

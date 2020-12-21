@@ -140,6 +140,8 @@ The COVID Coach app has been installed by more than **10000** times. At this tim
 <img src="5_star_reviews_wordcloud.png" alt="gov.va.mobilehealth.ncptsd.covid 5 reviews"/>
 </p>
 
+> Great suggestions<br> :date: __2020-12-16 01:26:16__
+
 > It's a superb app. Covers everything.<br> :date: __2020-11-23 04:40:59__
 
 > Very excited to use this app more! Thank you to the creators for these tools, your time and diligence to create an app that is easy to use and seems to pull you right out of a hard place.<br> :date: __2020-11-20 02:11:57__
@@ -157,8 +159,6 @@ The COVID Coach app has been installed by more than **10000** times. At this tim
 > Lots of good! Lots of good programs<br> :date: __2020-09-17 07:20:45__
 
 > Thank you for this app. Thank you for making it free and for maintaining our privacy. Thank you for doing what you can to make the world a little bit better. 💜<br> :date: __2020-09-17 06:33:06__
-
-> This app is terrific. I've tried several other wellness or meditation apps, and this one is out of the park in its offerings. Plus the narrator voices are calming. There's an outstanding number of exercises for various approaches, and all I've tried were helpful. Well done!<br> :date: __2020-09-13 20:18:15__
 
 
 

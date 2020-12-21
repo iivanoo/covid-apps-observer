@@ -262,6 +262,8 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="org.madrid.CoronaMadrid 1 reviews"/>
 </p>
 
+> Se supone que incluye las pruebas realizada en la SS y otros centros sanitarios. Como la SS no me hizo ni una triste PCR durante las dos bajas que pasé, me las hice por lo privado. Pues no aparece nada en mis pruebas, pese a que me acerqué al centro de salud a informar de mis anticuerpos.<br> :date: __2020-12-17 20:14:24__
+
 > Mi nombre y DNI porque<br> :date: __2020-11-19 08:59:29__
 
 > Inutil en todos los sentidos.<br> :date: __2020-11-14 06:16:26__
@@ -279,7 +281,5 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 > Muy tarde<br> :date: __2020-10-12 20:27:52__
 
 > Imposible indicar la edad. Absurdo.<br> :date: __2020-10-11 14:12:33__
-
-> @plicación pide edad pero no se puede, parece informativa sin actualizar y algo ambigua sin directrices explicitas o eficaces,,, sin datos y pte valorar en próximos días....Parece no se pueden descargar los archivos adjuntos ?... Etc... DE MOMENTO MAL, DA POCA CONFIANZA, AUNQUE MENOS ES NADA.<br> :date: __2020-10-09 19:30:48__
 
 

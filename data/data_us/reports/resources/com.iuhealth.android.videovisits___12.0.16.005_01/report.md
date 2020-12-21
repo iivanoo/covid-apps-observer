@@ -186,6 +186,8 @@ The IU Health Virtual Visits: Online Doctor Visit app has been installed by more
 <img src="5_star_reviews_wordcloud.png" alt="com.iuhealth.android.videovisits 5 reviews"/>
 </p>
 
+> Easy and convenient<br> :date: __2020-12-18 14:52:53__
+
 > Personal, caring and helpful!!!!!!! Highly recommend.<br> :date: __2020-12-05 13:50:47__
 
 > Excellent<br> :date: __2020-12-04 15:43:32__
@@ -203,8 +205,6 @@ The IU Health Virtual Visits: Online Doctor Visit app has been installed by more
 > Waiting room "interview " outside of this app was confusing because it appeared to be a duplicate, not on the device I had my appointment set for.<br> :date: __2020-11-18 19:57:18__
 
 > Very grateful for this service<br> :date: __2020-11-18 16:15:52__
-
-> Easy to use.<br> :date: __2020-11-17 20:40:36__
 
 
 

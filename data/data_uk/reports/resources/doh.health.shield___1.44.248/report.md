@@ -147,25 +147,25 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="doh.health.shield 5 reviews"/>
 </p>
 
-> Good service<br> :date: __2020-12-13 18:14:15__
+> Good<br> :date: __2020-12-20 16:29:50__
 
-> Very helpful apps.<br> :date: __2020-12-13 13:22:37__
+> Convenient<br> :date: __2020-12-20 15:36:14__
 
-> Good ap<br> :date: __2020-12-13 12:08:48__
+> Very good results<br> :date: __2020-12-20 12:39:38__
 
-> It is great<br> :date: __2020-12-13 11:52:44__
+> Nice<br> :date: __2020-12-20 08:38:31__
 
-> so fast wonderfull<br> :date: __2020-12-13 10:28:39__
+> Very good<br> :date: __2020-12-20 05:01:31__
 
-> Good<br> :date: __2020-12-13 09:29:37__
+> Very good<br> :date: __2020-12-19 16:12:20__
 
-> Good<br> :date: __2020-12-13 08:02:55__
+> Good app<br> :date: __2020-12-19 15:57:40__
 
-> Exelent<br> :date: __2020-12-13 07:46:52__
+> Very useful<br> :date: __2020-12-19 15:47:16__
 
-> تحياتي لامارة ابوظبي والقائمين عليها<br> :date: __2020-12-13 07:28:24__
+> Nice and helpful app<br> :date: __2020-12-19 13:40:49__
 
-> Very good app<br> :date: __2020-12-13 05:53:24__
+> 100% Trust<br> :date: __2020-12-19 12:24:48__
 
 
 
@@ -174,6 +174,16 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="doh.health.shield 4 reviews"/>
 </p>
+
+> Best way<br> :date: __2020-12-20 06:55:11__
+
+> Very good<br> :date: __2020-12-19 08:33:26__
+
+> Good<br> :date: __2020-12-16 11:33:48__
+
+> good 👍<br> :date: __2020-12-16 06:27:52__
+
+> Good<br> :date: __2020-12-14 19:42:45__
 
 > very good app<br> :date: __2020-12-13 08:31:28__
 
@@ -185,16 +195,6 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 
 > Good<br> :date: __2020-12-11 14:25:45__
 
-> Nice application to track the people around with specific eequirement<br> :date: __2020-12-10 10:32:02__
-
-> I Need To Replace My Old Number, because Old Number Belongs to Some Ome Else. Now I Have My Own Number, Let Me Know How To Replace Thanks Team AlHosn<br> :date: __2020-12-09 08:37:35__
-
-> Good<br> :date: __2020-12-07 20:52:05__
-
-> Not able to go pass login<br> :date: __2020-12-06 19:14:37__
-
-> It is a best tracing app.<br> :date: __2020-12-05 08:43:27__
-
 
 
 #### 3-star reviews
@@ -202,6 +202,10 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="doh.health.shield 3 reviews"/>
 </p>
+
+> Super<br> :date: __2020-12-18 11:45:39__
+
+> Dear All, plz confirm if this app is working outside UAE or not? For me it is just showing first loading page only.<br> :date: __2020-12-17 21:02:36__
 
 > Hi. I have a problem with the app. I have installed it on my phone but the app stays on home screen only and I am supposed to fly to UAE in a couple of days . What will happen if the app doesn't work on my phone? Do I have to buy a new phone in order to be allowed entry into the country? Can someone please give me some answers. I don't know who to contact about this . Thank you<br> :date: __2020-12-13 14:12:12__
 
@@ -219,10 +223,6 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 
 > Not updating to vaccinated status. No one answering the al hosn support nor email not working.<br> :date: __2020-11-20 22:19:28__
 
-> App crash. Can't open apps it's crash always<br> :date: __2020-11-16 20:03:12__
-
-> It is ok I guess<br> :date: __2020-11-16 08:57:46__
-
 
 
 #### 2-star reviews
@@ -230,6 +230,16 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="doh.health.shield 2 reviews"/>
 </p>
+
+> Every time asking update why<br> :date: __2020-12-20 17:16:51__
+
+> حسنه<br> :date: __2020-12-17 21:45:18__
+
+> وجود خلل في تحديث البيانات المستحدثة<br> :date: __2020-12-17 06:58:04__
+
+> Some times take long time to have the result<br> :date: __2020-12-16 23:00:00__
+
+> raju hain.<br> :date: __2020-12-16 20:45:18__
 
 > Why not working after no options come when singn id nd Number nd code<br> :date: __2020-12-01 14:02:54__
 
@@ -241,16 +251,6 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 
 > I can't open the app with mobile data or Wi-Fi I'm still out side the Country and I'm facing this issue<br> :date: __2020-11-18 14:16:54__
 
-> App is very slow<br> :date: __2020-11-12 18:32:40__
-
-> I couldnt check my status, and no option to answer pre survey..This app is not compatible with my mobile..please fix the issue, thank you<br> :date: __2020-11-11 13:56:02__
-
-> Hello. This is a last resort from my side. I've done my pcr test last week and to date it has not been updated in the app. I've received the result via SMS too. I've called your hotline and they've promised it'll reflect by max yesterday. And still nothing. Please help.<br> :date: __2020-11-09 09:14:57__
-
-> Good<br> :date: __2020-11-08 15:28:22__
-
-> not moving to submit not abal to get result<br> :date: __2020-11-08 09:35:22__
-
 
 
 #### 1-star reviews
@@ -259,24 +259,24 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="doh.health.shield 1 reviews"/>
 </p>
 
-> I downloaded this app at two different android devices but unable to open the app<br> :date: __2020-12-13 09:34:59__
+> Its ok<br> :date: __2020-12-20 16:37:49__
 
-> Not opening in huawei y9<br> :date: __2020-12-12 21:50:43__
+> I try to open the app,but I was not able to enter the app<br> :date: __2020-12-20 14:29:43__
 
-> Not possible to change Bluetooth permission enabled<br> :date: __2020-12-12 11:24:12__
+> My app hang why<br> :date: __2020-12-20 14:26:04__
 
-> Keep asking about my location even my location is on<br> :date: __2020-12-12 05:15:49__
+> My app is not opening up and I need to travel tomorrow can anyone help out<br> :date: __2020-12-20 08:36:38__
 
-> Why can't lodging In<br> :date: __2020-12-12 02:37:54__
+> It takes long way to start<br> :date: __2020-12-19 19:23:36__
 
-> Am vaccine volunteer. Took my vaccine at adnec. Arrived today at abu Dhabi airport. There they didn't recognise the al hosn app and the volunteer star on al hosn app. They sent me to quarantine. There was a article published that vaccine volunteers are exempted from quarantine. struck here at razeen camp. No communication no updates. Covid test was performed at airport & its negative. Management here at razeen and airport has clearly denied looking into al hosn app.<br> :date: __2020-12-11 21:00:21__
+> I kept waiting for one time code during login, tried multiple times, no message ever.<br> :date: __2020-12-19 17:47:51__
 
-> Not working outside the country<br> :date: __2020-12-11 18:37:17__
+> Doesn't work<br> :date: __2020-12-19 06:18:39__
 
-> Is complicated app<br> :date: __2020-12-11 06:10:40__
+> Why this app is not working? How to operate this app?<br> :date: __2020-12-19 05:26:08__
 
-> Hosn app is down in pakistan<br> :date: __2020-12-11 05:16:39__
+> The App doesn't work, its stuck at the very first page.<br> :date: __2020-12-18 15:43:46__
 
-> Best<br> :date: __2020-12-09 13:17:22__
+> The app keeps stopping. Tried to resikve with an it specialist in all ways? Still to no avail.<br> :date: __2020-12-18 06:29:24__
 
 

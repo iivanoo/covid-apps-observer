@@ -1,11 +1,119 @@
 [
     {
+        "reviewId": "gp:AOqpTOHtdkTo9UNlrIdglLrnUmTltq7KEJfBHyrxl7YTbIdAShSo009G5dU3sJmYhNjKbbJXZBwVyIPGaLSbhWo",
+        "userName": "Pablo Lofton",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh43g6gH9ySRij_pZh2qzjj9dSuLd1495dQKeuT",
+        "content": "Tt awesome",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2020-12-19 23:10:36",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFtNzqpSsMd190FAitv_-sP2DT8tVAjHIcVgHwg8LXPwAL1E1u4PfgilvjHo3Ub6Gszo2Ztf5e2Aob7rTs",
+        "userName": "Charles Rakes",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjpXRBLwSt4MiLGSkDADZR4TnFmUJtARZ-yAvJ9tg",
+        "content": "When am proving to be able to make a difference my life with family and friends to make Amen",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.0",
+        "at": "2020-12-18 21:23:28",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGTuPXzSPzA8nXxpHAlpP6dWf3YHMDt5rgZHY2dPOHy2FrMrfBeXe0gtJYXpQt2ymOSBna54_U9VpVoaDM",
+        "userName": "Sharon",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gjddk-gpCOlzrNeOvtw6F5kSBZ2BhBw5UpZtLyG2Po",
+        "content": "nice app it works well",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.2",
+        "at": "2020-12-18 21:17:36",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOEJWlo9ggFZjt-QMm7qLBhFM7pQ_Xatr_cpHdK0MKqDRfXMZd4WYpOKkSpoLgDSRmtPpdeAhzzmVPg7lqE",
+        "userName": "Ashley L",
+        "userImage": "https://play-lh.googleusercontent.com/-Rgpirm8RPUM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmZU_wUoX3dbGXDEJ_p24QtBxygSg/photo.jpg",
+        "content": "Can't even upload my positive result because they claim the VDH contacts you to give you a PIN after you test positive. They definitely don't. I haven't been contacted at all. This app is useless, don't waste your time. It will give you a false sense of security thinking you haven't come into contact with anyone contagious when you probably have. Way to go VDH. Not helpful in preventing the spread of Covid at all.",
+        "score": 1,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "1.2",
+        "at": "2020-12-18 16:14:29",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOF5YwrUdU--WYtQQuHnzp7-gZQIYxWiMMBWWTYnbCrhpepZpun-IU9AYifakNT1VrUEXFhn9YoO7pZIaOk",
+        "userName": "AL",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GibEOeOXbCPNiA31nG30GV0E0kB5ohVHL2JVmd_xw",
+        "content": "\u2606WARNING\u2606 DON'T DOWNLOAD ITS AN FAKE VIRUS APP IT'LL HURT YOUR DEVICE AND YOU!!!!! ESPECIALLY IN THE HOSPITAL!!!!",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2020-12-17 18:00:22",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFnJL8vmbLPheBPYKiwCLNRJDsWqAlTNcBRSYPztKy9KBKBUhOAxffTb9TFXIyQrCSKn67ORd6p0I_KueI",
+        "userName": "killers time",
+        "userImage": "https://play-lh.googleusercontent.com/-DM1t33VmAgI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl0R7DApXF1lq9-8q_mx87u2Bqe0w/photo.jpg",
+        "content": "Ha this is app that can only track your location so who downloads this is a idiot",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2020-12-16 03:57:28",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGaIb8ypQ-4lzXf_FLJsY1ByOJcxbYCzYVDfA25Ivw5cwhCkGnvAw0oU_UEmBXgFjOwBqrduVZwXWf8dxc",
+        "userName": "W Daniel Porter",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgBekMm8bfXAk-934nofQjyFy97DuGhQMqNcIdhjQ",
+        "content": "My wife tested positive and entered data in her app. I got COVID yet the app still said I had not been in contact with with anyone testing positive. Look for any comments saying that anyone got a notification from this app. It doesn't work;",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2020-12-16 00:48:01",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOEXTR3sSDUjLWSYrexDx9feRk-Z9xDTuUTz6EKHRtQch5_m_1YQm8n5hnJR2dpUTQwI-CHZf7M3JlA7Wdk",
+        "userName": "Rebekah Gold",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiDRk7GmOZkmZAES746Ch5YML_fatCdeUsojJfK1w",
+        "content": "For your safety and the safety of others, stay connected and download this app",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.2",
+        "at": "2020-12-14 18:55:26",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOEwVt-62EXJ7ii8-PAtrFGjJx3fwhjFlw7qHRKHE-m0Hi1f4JO74lR50dt5s6ceP3BiltkBR9nkUQirNxM",
+        "userName": "Charlie A",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgC18H2TsHw_6LzzWR7eh-UdHNXCPOCVPx45ao_ig",
+        "content": "Effing Scary. Thats what its for FEAR. The Only Thing We Have To Fear Is Fear Itself.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2020-12-14 02:23:35",
+        "replyContent": "Thank you for your feedback. If you have a specific question about COVIDWISE, please visit our FAQ section at covidwise.org or contact us at covidwise@vdh.virginia.gov. We would be happy to discuss details regarding this technology.",
+        "repliedAt": "2020-12-16 14:32:15"
+    },
+    {
         "reviewId": "gp:AOqpTOEHx6yz4YC_jcZ5jRM4_z5sv69qodBr0hxtEawZnCNQXo_ojolV9f5Rw5RSHEXTPM7yMJ2EGnFMkz28Ce0",
         "userName": "Ashleigh Early",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiSTtGGmUjCyrTJKk9o3vyS-yXlzVY5bmwSlDC6bPA",
         "content": "The app works as designed- it relies on user input. That said - only way ill know if someone in line behind me had covid.",
         "score": 5,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 17,
         "reviewCreatedVersion": "1.2",
         "at": "2020-12-13 03:01:36",
         "replyContent": null,
@@ -17,11 +125,11 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj_ma1F4cXc_7TX63Fbicukqb3aNjTiUQgFkkg7ww",
         "content": "Great idea but can't be effective without significantly more participation. Literally need millions of users; 100k downloads falls way short. Not enough people take the situation seriously enough or just deny it completely.",
         "score": 4,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 18,
         "reviewCreatedVersion": "1.2",
         "at": "2020-12-12 21:53:18",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thank you for your feedback. If you have a specific question about COVIDWISE, please visit our FAQ section at covidwise.org or contact us at covidwise@vdh.virginia.gov. We would be happy to discuss details regarding this technology. As a reminder, for every 2 people who download the app, one future infection is potentially prevented.",
+        "repliedAt": "2020-12-16 14:32:53"
     },
     {
         "reviewId": "gp:AOqpTOFYC7Li2H9J94qFg9Dnf8RD7wqAkbFrvT-vdhAd0bTV6I5Jb59C-AzdoAPTii-cKnlryTwLxN5xBKL6s9Y",
@@ -29,11 +137,11 @@
         "userImage": "https://play-lh.googleusercontent.com/-DlzyzZtfM5U/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmvVb54ufVitutFXvrc0mD6_LvJCg/photo.jpg",
         "content": "Worthless. The app requires a PIN number from the VDH to send alerts. They contacted me 4 days after my positive test result, but didn't have a valid PIN to give me. The contact tracer sent a request to IT to get me a PIN to send alerts. It has now been 8 days since I tested positive and 11 days since my first symptoms and I still can't warn others via the app. The app only monitors contacts for the last 14 days, so some people will never be warned.",
         "score": 1,
-        "thumbsUpCount": 2,
+        "thumbsUpCount": 35,
         "reviewCreatedVersion": "1.2",
         "at": "2020-12-11 21:13:51",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "VDH endeavors to contact the people for whom a positive COVID-19 test result is received within 24 hours of receipt. This is impacted by the number of positive results received and the number of case investigators available. We are sorry that you were not contacted, VDH is working to provide these verification PINS in an automated manner.",
+        "repliedAt": "2020-12-16 14:30:35"
     },
     {
         "reviewId": "gp:AOqpTOEaEq6Zr5KtdT0b0QeBd19xBPtx-clgv92AT8tsN332sU1SddcHYdh2z9NWKohj-qIX3lNSqU_ESPpEVKw",
@@ -56,8 +164,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2020-12-10 04:29:14",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "VDH endeavors to contact the people for whom a positive COVID-19 test result is received within 24 hours of receipt. This is impacted by the number of positive results received and the number of case investigators available. We are sorry that you were not contacted, VDH is working to provide these verification PINS in an automated manner.",
+        "repliedAt": "2020-12-16 14:31:35"
     },
     {
         "reviewId": "gp:AOqpTOFtgK2kTPTnXMxrnmxiHX4on1qFkFx4b2UZvx6IXubuN1lkbgFGnIUuNxHPt5hLlE2pgFZ3WNvL1xUBQ_E",
@@ -65,11 +173,11 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjsVcjyJWH7Nsc_ntlLgKs91eScBlHx7baVXuA0vQ",
         "content": "Nice idea but it needs more work. I had this app for a couple of months now and have not got any type of alert for possible exposure. As an essential deliver driver, this app should had alerted me at least 5 times now. I have delivered to a home that was tested positive and never get an alert about it. This is a waste of space on my phone. Please be aware there are people out here that test positive and refuse to let others know.",
         "score": 2,
-        "thumbsUpCount": 13,
+        "thumbsUpCount": 18,
         "reviewCreatedVersion": "1.0",
         "at": "2020-12-09 21:14:46",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "You will receive an Exposure Notification if the individual who tested positive were using COVIDWISE (within 6 feet of you for 15 minutes or longer). If you have a specific question, please visit our FAQ section at covidwise.org or contact us at covidwise@vdh.virginia.gov. We would be happy to discuss details regarding this technology.",
+        "repliedAt": "2020-12-15 14:43:41"
     },
     {
         "reviewId": "gp:AOqpTOEtLdZjuebiIKHb0ImPFxKXOOsz3WKIwRQLMHjMZYVRxM1ptK3xbU8tGaR44fJ70hAYGJ_Oy7EaeRA-nGw",
@@ -80,8 +188,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2020-12-09 09:12:24",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thank you for your feedback and for adding your phone to the COVID fight.",
+        "repliedAt": "2020-12-15 14:44:04"
     },
     {
         "reviewId": "gp:AOqpTOG09CZMjyvu0REFYxyXf4ZFxp23IxlWIWJilcleQt2pWBsBgb4AOEyisYQD2bMDYTsuWI3YC7n-Qi5jTRo",
@@ -104,8 +212,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.0",
         "at": "2020-12-08 18:17:47",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thank you for your feedback. If you have a specific question about COVIDWISE, please visit our FAQ section at covidwise.org or contact us at covidwise@vdh.virginia.gov. We would be happy to discuss details regarding this technology.",
+        "repliedAt": "2020-12-16 14:31:06"
     },
     {
         "reviewId": "gp:AOqpTOGTNbSO8bJvOnk1RuyFPmuj8BltEjJW_Uho9KdkFlD8cPXWJ3uGbnSpTp2QErwfU4bo98_i101aLTwUXd0",
@@ -116,8 +224,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2020-12-08 11:37:57",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "No, COVIDWISE now participates in the National Key Server which allows your device to notify you if you have been near a user who has tested positive as long as they are using an app from one of the several other states that have adopted the National Key Server.",
+        "repliedAt": "2020-12-15 14:41:14"
     },
     {
         "reviewId": "gp:AOqpTOHruCZbEHGN8VzMXYls9dn5lQVgUJq7VuVemZCyDxkQ-3mLxzc0lE25zTLNYy65qIt_cmcdjZJkk9KBW0w",
@@ -128,8 +236,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.0",
         "at": "2020-12-08 00:55:06",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thank you for your feedback. If you have a specific question about COVIDWISE, please visit our FAQ section at covidwise.org or contact us at covidwise@vdh.virginia.gov. We would be happy to discuss details regarding this technology.",
+        "repliedAt": "2020-12-16 14:32:34"
     },
     {
         "reviewId": "gp:AOqpTOGGcSGGdgV3hNZCzicB_CRZrzQCKabMjiesPURKfGJOxyPRivXedKY6EyL8rsZDDH7SuMOrSHL7LrbrkeM",
@@ -173,11 +281,11 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiJi3NjyhflTm-xxmGbucPBnllpP_8ekLBVBuzZmw",
         "content": "I want to like this because it seems like a great contact tracing tool but I had to enter a building with people who have tested positive for COVID and are in isolation for work. I received no notifications from this app. It drains my battery to have my Bluetooth on all day. I lost confidence in this app. Uninstalling.",
         "score": 2,
-        "thumbsUpCount": 27,
+        "thumbsUpCount": 28,
         "reviewCreatedVersion": "1.0",
         "at": "2020-12-07 07:27:08",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "You will receive an Exposure Notification if the individual who tested positive were using COVIDWISE (within 6 feet of you for 15 minutes or longer). If you have a specific question, please visit our FAQ section at covidwise.org or contact us at covidwise@vdh.virginia.gov. We would be happy to discuss details regarding this technology.",
+        "repliedAt": "2020-12-15 14:43:11"
     },
     {
         "reviewId": "gp:AOqpTOH3FWh3YAXXzvqx7l0xxIA-ZMY8P7k8b0E1BmsQTAmpp33AdmQxrfshAMumK56RFdoMivHTgsewA07yhgs",
@@ -188,8 +296,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.0",
         "at": "2020-12-07 01:42:02",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "If you have a specific question about COVIDWISE, please visit our FAQ section at covidwise.org or contact us at covidwise@vdh.virginia.gov. We would be happy to discuss details regarding this technology.",
+        "repliedAt": "2020-12-15 14:40:54"
     },
     {
         "reviewId": "gp:AOqpTOHTSCHoAwfdSxktZOdWCIIn_XjClDH5pOVgiQn0LHlW0zO71GcHAqO9vHtLXN8sLXYG2HuTNtGyOx5_204",
@@ -200,8 +308,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2020-12-06 15:53:36",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "COVIDWISE was designed with your privacy in mind. No personal information or location data is ever collected, stored, or transmitted as part of the app. To learn how COVIDWISE protects your privacy and community, visit our FAQ section at covidwise.org or contact us at covidwise@vdh.virginia.gov if you have a specific question.",
+        "repliedAt": "2020-12-15 14:40:19"
     },
     {
         "reviewId": "gp:AOqpTOFYhsHDSjOx6q9xzetXZOSo_PJ5BgfgRzgrCnb9TSp2fiPhW09g7Fyk77dXckRPwR6Pl8WVyhsSYHsEk5Y",
@@ -209,11 +317,11 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ghcb1eCQL4L6JvIWKH-XL6alqdlg9XJBYrVqIlkZfI",
         "content": "Great idea but not sure it actually works. I am a healthcare worker, and have school-age children, so I installed it assuming that I might need or want to use it in the future. I recently tested covid positive and followed the steps the app directed me. But I was never able to submit my positive result to the app. I was never contacted by VDH.",
         "score": 1,
-        "thumbsUpCount": 2,
+        "thumbsUpCount": 3,
         "reviewCreatedVersion": null,
         "at": "2020-12-05 21:50:41",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "VDH endeavors to contact the people for whom a positive COVID-19 test result is received within 24 hours of receipt. This is impacted by the number of positive results received and the number of case investigators available. We are sorry that you were not contacted, VDH is working to provide these verification PINS in an automated manner.",
+        "repliedAt": "2020-12-15 14:39:28"
     },
     {
         "reviewId": "gp:AOqpTOEl1-ofTanKaehGAN_QfhUYnuTJbXTy8Hm0s2nyg-dedNDoAH7awynshz5XX7KR8RvllHuCmg7SYmMHKw0",
@@ -224,8 +332,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2020-12-04 14:28:02",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thank you for your feedback and for adding your phone to the COVID fight.",
+        "repliedAt": "2020-12-15 14:44:22"
     },
     {
         "reviewId": "gp:AOqpTOGj6133niRS63fZW793Vd1RfUdbzFEfjuypLix-mMkz-QhTVmLk7Rej4JyfIl-daNjiXqyS-2-p6f6ym2Q",
@@ -236,8 +344,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.0",
         "at": "2020-12-01 16:35:59",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Please contact us at covidwise@vdh.virginia.gov with more information on what you experienced and we can work with you to help resolve this issue.",
+        "repliedAt": "2020-12-15 14:38:50"
     },
     {
         "reviewId": "gp:AOqpTOHoawKYl9Y5IIATOGI9IcpdyQi-2FXwfC8WFBPM9g8ubId3dufbOlZ2a3FRUXtrCy6IizQR_naBiSPS3d8",
@@ -248,8 +356,8 @@
         "thumbsUpCount": 3,
         "reviewCreatedVersion": null,
         "at": "2020-12-01 03:39:10",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thank you for your feedback. To prevent false test results, it is essential that we provide privacy-protected PINs to those who test positive. If you have a specific question about COVIDWISE, please visit our FAQ section at covidwise.org or contact us at covidwise@vdh.virginia.gov.",
+        "repliedAt": "2020-12-15 14:39:59"
     },
     {
         "reviewId": "gp:AOqpTOFEkE_MHgoscbHo6GpBgKcuUwxJpSg-qgk9wVxGkhshRXH2kEHnnfeiG229dILM07bBEgsPQljS6YDwIgU",
@@ -341,7 +449,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-eK6wOEgAaiI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmzsowJuFxkp548zkd-7dfOMIm98A/photo.jpg",
         "content": "My problem is that in the DC area folks from DC, Maryland, Virginia mix regularly and then we have people from all over the country coming in. But it seems I can only have one contact app enabled at a time, and as best I can tell that means I wouldn't get notified if my phone had been getting chirps from someone on a different app. Am I incorrect?",
         "score": 3,
-        "thumbsUpCount": 42,
+        "thumbsUpCount": 45,
         "reviewCreatedVersion": "1.0",
         "at": "2020-11-23 17:52:47",
         "replyContent": "COVIDWISE will soon participate in the National Key Server which allows your device to notify you if you have been near a user who has tested positive that are using an app from one of the other integrated states. If you have a specific questions, please visit covidwise.org or contact us at covidwise@vdh.virginia.gov.",
@@ -374,7 +482,7 @@
     {
         "reviewId": "gp:AOqpTOH8qO8I2KepCMFF5716CWkY6G2PZoQYCE3AKpEp8Xb3uppeSwqHkqEP6QtoEFmOWdrxymEAMD9Oo_29bGY",
         "userName": "Jack Scofield",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhzMsPM3G7cKzeoV4Y6AjmuJLNvWHeLKe-WAIq5_g",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GixDDFUe3rIw4VtQHWlFSNO2PjOV4EHAuLoSUnO8g",
         "content": "it sucks dont download",
         "score": 1,
         "thumbsUpCount": 0,
@@ -389,7 +497,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjdYmd034nUT4gD5TZF7hJ-o0nL8ZTYU6C9IgrRBA",
         "content": "Good idea, flawed execution. A person who tests positive must input a PIN that they receive from a state contact tracer to report their illness. This works great as long as the contact tracing is performed properly. Personal experience: my wife tested positive, did not hear from a contract tracer, never received a PIN. At no point did the app indicate that I had been exposed, even though I share a home with someone who tested positive. This may be an isolated case, but I've lost confidence.",
         "score": 3,
-        "thumbsUpCount": 176,
+        "thumbsUpCount": 177,
         "reviewCreatedVersion": "1.0",
         "at": "2020-11-20 01:38:46",
         "replyContent": "Thank you for your feedback. If you have a specific question about COVIDWISE, please visit our FAQ section at covidwise.org or contact us at covidwise@vdh.virginia.gov. We would be happy to discuss details regarding this technology.",
@@ -449,7 +557,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgCYMRQ9FFTxRbiyjl3FMlAqMM1deuzXzkS_hKZ1TE",
         "content": "Great to see an implementation of COVID tracking. This is following the de facto method for anonymous tracing provided by Google/Apple. Reviews upset at Bluetooth usage are not familiar with the implications/work for anonymous tracing, GPS or other means would be vastly more energy intensive. Turn on your Bluetooth.",
         "score": 5,
-        "thumbsUpCount": 42,
+        "thumbsUpCount": 43,
         "reviewCreatedVersion": "1.0",
         "at": "2020-11-15 17:13:08",
         "replyContent": null,
@@ -617,7 +725,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-iBLmphqd9kQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckHXRoqmuMH4uxZkhIDtCqWlG0v4Q/photo.jpg",
         "content": "I'm gonna keep it on my phone, but i was with someone who tested positive and the app didn't catch it, so I'm pretty sure it's useless.",
         "score": 3,
-        "thumbsUpCount": 1,
+        "thumbsUpCount": 2,
         "reviewCreatedVersion": "1.0",
         "at": "2020-11-09 21:35:18",
         "replyContent": "Thank you for your feedback. In order for the app to work, you must be within 6 feet of another user, who input a positive result, for a duration of 15 minutes or longer. Please visit our FAQ section at covidwise.org or contact us at covidwise@vdh.virginia.gov to learn more about the details regarding this technology.",
@@ -1505,7 +1613,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-6nazHqQFClM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnFK00m95YHaqS9olWenlxHRGGaXA/photo.jpg",
         "content": "Location services must be on for android devices to enable blue tooth, which is a huge drawback for me. I rarely have that turned on, and am selective as to when I have my cell radio on. It would be nice if this could be resolved, I don't see why bluetooth has to considered to be part of location services. I don't see Google doing that though...",
         "score": 3,
-        "thumbsUpCount": 537,
+        "thumbsUpCount": 538,
         "reviewCreatedVersion": "1.0",
         "at": "2020-10-08 15:33:54",
         "replyContent": "Thank you for your feedback. On Android devices, location does need to be on for Bluetooth to work, even though location is not used by the app, because that location switch is a gate to being able to use Bluetooth. Here is a blog about this - https://blog.google/inside-google/company-announcements/update-exposure-notifications.",
@@ -1649,7 +1757,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj4TUoiINEvv8qaTeV6kj1EFyfWbm-OINGL_ozb",
         "content": "cannot enable notification. Always says internal error. Any solutions?",
         "score": 1,
-        "thumbsUpCount": 13,
+        "thumbsUpCount": 14,
         "reviewCreatedVersion": "1.0",
         "at": "2020-10-07 02:54:29",
         "replyContent": "Since the internal error is occurring when enabling Exposure Notifications, you may need to update Google Play services: Settings>Apps/Apps & Notifications>See all apps>Google Play services>App Details/App details in store>Update/Install If this doesn\u2019t resolve the error or you have additional questions, please contact covidwise@vdh.virginia.gov.",
@@ -3221,7 +3329,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhYdUryghGL771Mn8p5OIXO5cxoN0DrtdVkQMXO",
         "content": "Reviews that are worried about privacy don't understand how this app works. (There are apps out there that do spy on you by collecting everything you do, but this does not work that way.) It's clear the design prioritized privacy. The app only needs access to Bluetooth. It's a very clever idea. Glad to see Virginia getting this first. It's easy to do your small part to get us out of this mess: wear your mask and get this app!",
         "score": 5,
-        "thumbsUpCount": 373,
+        "thumbsUpCount": 374,
         "reviewCreatedVersion": "1.0",
         "at": "2020-08-11 13:58:33",
         "replyContent": null,

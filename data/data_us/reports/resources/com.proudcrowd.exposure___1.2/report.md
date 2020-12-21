@@ -210,6 +210,8 @@ The Care19 Alert app has been installed by more than **10000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="com.proudcrowd.exposure 1 reviews"/>
 </p>
 
+> Does not work clicked after a million times in nothing it just stayed there<br> :date: __2020-12-18 11:26:02__
+
 > Shouldn't have any sort of tracker like this. If there isn't one for the flu or any other virus we shouldn't have it for this.<br> :date: __2020-12-01 08:59:39__
 
 > App has stopped checking for recent exposures .<br> :date: __2020-11-23 04:34:00__
@@ -227,7 +229,5 @@ The Care19 Alert app has been installed by more than **10000** times. At this ti
 > App won't open past the second screen where you have to agree to the disclosure. When you click the "I agree" button, nothing happens. Fully updated Samsung Galaxy S9. App is worthless if it won't open.<br> :date: __2020-10-28 15:58:15__
 
 > The idea is garbage, but the app is absolutely garbage how it works. Ot is a virus its self.<br> :date: __2020-10-28 02:18:24__
-
-> This app will only be effective and useful if a large percentage of the population install and use it. It looks like only 10k people have downloaded the app. With a combined total of 1.3M people between ND and WY, that is less than %1, the install base is likely even less since people have probably uninstalled it.<br> :date: __2020-10-24 19:03:20__
 
 

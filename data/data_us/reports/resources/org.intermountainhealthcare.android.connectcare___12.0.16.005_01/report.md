@@ -192,6 +192,10 @@ The Intermountain Connect Care app has been installed by more than **100000** ti
 <img src="5_star_reviews_wordcloud.png" alt="org.intermountainhealthcare.android.connectcare 5 reviews"/>
 </p>
 
+> It was nice to have access to a doctor so late at night!<br> :date: __2020-12-19 06:17:18__
+
+> Super convenient!<br> :date: __2020-12-14 16:17:17__
+
 > This has been a reliable app. It's so nice getting to see a doctor right from my house.<br> :date: __2020-12-12 20:31:42__
 
 > Great experience<br> :date: __2020-12-09 05:47:31__
@@ -207,10 +211,6 @@ The Intermountain Connect Care app has been installed by more than **100000** ti
 > Good<br> :date: __2020-10-13 17:39:24__
 
 > Amazing experience! Very short wait and got to speak directly to a medical provider who helped.me with my issue.<br> :date: __2020-10-04 21:03:00__
-
-> Excellent<br> :date: __2020-10-02 03:05:22__
-
-> Love getting instant care and seeing my regular doctor at a distance. Perfect for quick care<br> :date: __2020-09-30 08:10:45__
 
 
 

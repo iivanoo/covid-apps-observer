@@ -193,6 +193,8 @@ The Salud Andalucía app has been installed by more than **10000** times. At thi
 <img src="1_star_reviews_wordcloud.png" alt="es.juntadeandalucia.msspa.saludandalucia 1 reviews"/>
 </p>
 
+> Supuestamente te llega un sms para vereficar y no llega nada. Muy mala<br> :date: __2020-12-19 19:59:34__
+
 > Me instale está aplicación por recibir notificaciones por la prueba de covid. Tengo el alta desde hace una semana y aún no me ha llegado ni por la app no por sms el resultado. Según mi opinión es inútil porque las noticias que ponen son contradictorias a la actualidad. Por lo tanto esta app solo sirve para ocupar espacio. Espero que el dinero que se ha invertido en ella no sea del contribuyente porque es dinero tirado.<br> :date: __2020-12-04 23:31:45__
 
 > Te envían un código que no funciona al introducirlo en la aplicación.<br> :date: __2020-11-19 16:38:24__
@@ -210,7 +212,5 @@ The Salud Andalucía app has been installed by more than **10000** times. At thi
 > No carga nada, ni me deja meter el móvil ni carga las aplicaciones<br> :date: __2020-10-28 20:30:18__
 
 > Es pésima desde el viernes por la tarde intentando activar las notificaciones y siempre lo mismo, se ha producido un error vuelva a intentarlo más tarde. No se merece ni una estrella.<br> :date: __2020-10-25 08:13:59__
-
-> Imposible que sea más inútil una aplicación.<br> :date: __2020-10-08 11:52:17__
 
 

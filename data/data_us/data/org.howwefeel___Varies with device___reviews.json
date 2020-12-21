@@ -1,5 +1,29 @@
 [
     {
+        "reviewId": "gp:AOqpTOGvIX-EEpyXQnyn4jUi-dlzloY2q45pfbN_5RK2iT04zRmOHMxjNWktoxDztB81LZrSWKc0anNYLJhk0RI",
+        "userName": "Marni Holmes",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhB2ckyNzL4gsJzbwg_gd7CRBEN5NN81d4KwO1_4g",
+        "content": "It was great, but it just froze up on me and I have to reinstall. I will probably have to start over too. Not sure how that helps for COVID...?? Hmmm...",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2020-12-14 09:25:34",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGzqk6fWXBmrx3NpPh5lZcuUJ0GMDkpxwGGt_SPnG3BjmsdLZnn-6gZFag8-5Zo9T_FKp5PpQa19-U_N-k",
+        "userName": "AnnMarie Picard",
+        "userImage": "https://play-lh.googleusercontent.com/-B275vlpF0bY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmqj47uj8XFdnalzlY_V2YAn2FXxw/photo.jpg",
+        "content": "Easy to use.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.12.2",
+        "at": "2020-12-13 20:55:44",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOHhCx36xQbHklxJEpIMsmucVKlrNiI8sTZcjZ1EQok6UkbzfdBoykCYMvmhpbez4In1zZoXCsRE-vJOJKo",
         "userName": "james williams",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GibXMlZHSU8ze4y8JqwSSvJ0x3QQXg6ZMdkbfrUAg",
@@ -149,7 +173,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi_JcCp2T5CoYJaiInw6kVdFvBBHv9aEy5bZ9jlZQ",
         "content": "UPDATE: 11/20/20 This App has NOT WORKED, at all, since 10/5. I have uninstalled. There are reviews giving this App 5 stars dated after 11/01, stating how 'easy' the App is, they are lies! The App USED to be easy, simple & great but it NO LONGER WORKS! 10/05/20; The \"update\" has failed miserably! I can't even open the App, it either flashes a blue screen OR an error message. I've sent feedback @ least 3x, with no reply back. (I really liked daily checkin & seein my states info on a easy grid.)",
         "score": 1,
-        "thumbsUpCount": 41,
+        "thumbsUpCount": 43,
         "reviewCreatedVersion": "1.13.6",
         "at": "2020-11-21 01:44:33",
         "replyContent": null,
@@ -161,7 +185,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjnfR4kxfIZkKYheZatNcKKLfz_AXPNFeagHLMfspI",
         "content": "I've responded 175 times since downloading. After the last update the app wont open at all. I also fond the data dashboard they provide me to be confusing and sometimes contradictory to what is happening in the news. They also provide old content/tips for multiple days. This should be updated daily if they want me to respond daily.",
         "score": 1,
-        "thumbsUpCount": 9,
+        "thumbsUpCount": 10,
         "reviewCreatedVersion": "1.13.6",
         "at": "2020-11-20 15:09:08",
         "replyContent": null,
@@ -3128,18 +3152,6 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2020-07-07 16:53:54",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOE6bc6ffJLEX8z7V3j7QfkCJEgqgGztc01AiN09DpXNZnXFM1SuoWq6t5Daln_bmjOzig_ceLnID5s48Ig",
-        "userName": "Vicky Wassan",
-        "userImage": "https://play-lh.googleusercontent.com/-QfbX0z_J9Bk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckYjRoeghtstnU43VGqkwHDZcM-lQ/photo.jpg",
-        "content": "This is one way of helping oy, it may be little but it helps e feed th9se who need the the help.I'm j thank ful that I',mm safe y healthy!",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.8.9",
-        "at": "2020-07-07 16:32:36",
         "replyContent": null,
         "repliedAt": null
     },
@@ -11984,18 +11996,6 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.0.20",
         "at": "2020-05-14 02:19:58",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOEbbheLMFMOT9IuLQMf-xVeSt5i1W5dnaeBtfOJsQmKB70BybxeGXEGTlTvchjhmfyeYAXrTOaz-Y5wIf0",
-        "userName": "Mary Remar",
-        "userImage": "https://play-lh.googleusercontent.com/-uvWmBvh67r0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclRHGQLSbGLzC4ijqpzA5fLtKBTxQ/photo.jpg",
-        "content": "Interesting. Wish there were links to antibody testing and results and other such data.",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.0.20",
-        "at": "2020-05-14 01:56:01",
         "replyContent": null,
         "repliedAt": null
     }

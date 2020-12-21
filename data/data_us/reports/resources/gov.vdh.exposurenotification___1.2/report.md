@@ -130,6 +130,14 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 <img src="5_star_reviews_wordcloud.png" alt="gov.vdh.exposurenotification 5 reviews"/>
 </p>
 
+> Tt awesome<br> :date: __2020-12-19 23:10:36__
+
+> When am proving to be able to make a difference my life with family and friends to make Amen<br> :date: __2020-12-18 21:23:28__
+
+> nice app it works well<br> :date: __2020-12-18 21:17:36__
+
+> For your safety and the safety of others, stay connected and download this app<br> :date: __2020-12-14 18:55:26__
+
 > The app works as designed- it relies on user input. That said - only way ill know if someone in line behind me had covid.<br> :date: __2020-12-13 03:01:36__
 
 > Works as described and safe<br> :date: __2020-12-11 00:55:21__
@@ -141,14 +149,6 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 > Really keep up with it<br> :date: __2020-12-07 11:45:05__
 
 > Clear<br> :date: __2020-12-07 07:37:28__
-
-> Indispensable.<br> :date: __2020-11-30 04:31:20__
-
-> Is this for West Virginia Folks as well?<br> :date: __2020-11-26 03:55:41__
-
-> Good<br> :date: __2020-11-16 22:36:13__
-
-> Great to see an implementation of COVID tracking. This is following the de facto method for anonymous tracing provided by Google/Apple. Reviews upset at Bluetooth usage are not familiar with the implications/work for anonymous tracing, GPS or other means would be vastly more energy intensive. Turn on your Bluetooth.<br> :date: __2020-11-15 17:13:08__
 
 
 
@@ -242,6 +242,16 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 <img src="1_star_reviews_wordcloud.png" alt="gov.vdh.exposurenotification 1 reviews"/>
 </p>
 
+> Can't even upload my positive result because they claim the VDH contacts you to give you a PIN after you test positive. They definitely don't. I haven't been contacted at all. This app is useless, don't waste your time. It will give you a false sense of security thinking you haven't come into contact with anyone contagious when you probably have. Way to go VDH. Not helpful in preventing the spread of Covid at all.<br> :date: __2020-12-18 16:14:29__
+
+> ☆WARNING☆ DON'T DOWNLOAD ITS AN FAKE VIRUS APP IT'LL HURT YOUR DEVICE AND YOU!!!!! ESPECIALLY IN THE HOSPITAL!!!!<br> :date: __2020-12-17 18:00:22__
+
+> Ha this is app that can only track your location so who downloads this is a idiot<br> :date: __2020-12-16 03:57:28__
+
+> My wife tested positive and entered data in her app. I got COVID yet the app still said I had not been in contact with with anyone testing positive. Look for any comments saying that anyone got a notification from this app. It doesn't work;<br> :date: __2020-12-16 00:48:01__
+
+> Effing Scary. Thats what its for FEAR. The Only Thing We Have To Fear Is Fear Itself.<br> :date: __2020-12-14 02:23:35__
+
 > Worthless. The app requires a PIN number from the VDH to send alerts. They contacted me 4 days after my positive test result, but didn't have a valid PIN to give me. The contact tracer sent a request to IT to get me a PIN to send alerts. It has now been 8 days since I tested positive and 11 days since my first symptoms and I still can't warn others via the app. The app only monitors contacts for the last 14 days, so some people will never be warned.<br> :date: __2020-12-11 21:13:51__
 
 > You have to have a pin to report your case of COVID and I never received one after confirming COVID positive. How helpful can this app be if we can't notify others when we've contracted COVID?<br> :date: __2020-12-10 04:29:14__
@@ -251,15 +261,5 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 > Do I have to live in Virginia in order to use this app?<br> :date: __2020-12-08 11:37:57__
 
 > What a joke.<br> :date: __2020-12-08 00:55:06__
-
-> Can't tell if there are any cases in my area.<br> :date: __2020-12-07 01:42:02__
-
-> Have some self-respect people. Truly a horrible appand a privacy nightmare. And the developer's responses to criticism is a despicable non-response and every single person who works at this company is almost assuredly a scumbag and should be ashamed of themselves. I 99% expect this app to eventually leak all user data by "accident" so the people who run it can make a quick buck. STAY AWAY AT ALL COSTS. You have to leave Bluetooth on all the time. I actually think China developed this app. Evil.<br> :date: __2020-12-06 15:53:36__
-
-> Great idea but not sure it actually works. I am a healthcare worker, and have school-age children, so I installed it assuming that I might need or want to use it in the future. I recently tested covid positive and followed the steps the app directed me. But I was never able to submit my positive result to the app. I was never contacted by VDH.<br> :date: __2020-12-05 21:50:41__
-
-> I cannot find the setting described that needs to be turned on in order to use this app I followed the instructions and covidwise is not listed in my settings. Very annoying<br> :date: __2020-12-01 16:35:59__
-
-> It requires you to get a confirmed test result, wait for those results to get sent to the health department, and then the department has to reach out and provide you with a pin to put in the app. That's basically a week of others who may have been exposed to you wandering around and potentially infecting others. Pointless.<br> :date: __2020-12-01 03:39:10__
 
 

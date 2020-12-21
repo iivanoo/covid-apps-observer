@@ -213,6 +213,8 @@ The DKV Quiero cuidarme Más app has been installed by more than **100000** time
 <img src="5_star_reviews_wordcloud.png" alt="com.dkvservicios.quierocuidarmemas 5 reviews"/>
 </p>
 
+> Muy buena<br> :date: __2020-12-19 23:20:17__
+
 > Muy bueno<br> :date: __2020-12-09 17:42:38__
 
 > Para mi criterio,está formidable<br> :date: __2020-12-08 18:02:44__
@@ -231,8 +233,6 @@ The DKV Quiero cuidarme Más app has been installed by more than **100000** time
 
 > Aplicación espectacular con multitud de servicios de salud para poder utilizar y de uso muy sencillo. 100%100 recomendable!!<br> :date: __2020-11-12 10:55:33__
 
-> Muy agradable<br> :date: __2020-11-11 16:01:22__
-
 
 
 #### 4-star reviews
@@ -240,6 +240,8 @@ The DKV Quiero cuidarme Más app has been installed by more than **100000** time
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.dkvservicios.quierocuidarmemas 4 reviews"/>
 </p>
+
+> Muy buena, me atendieron puntualmente en el caso de mi hijo<br> :date: __2020-12-17 16:50:03__
 
 > ¿Existe alguna aplicación para instalar en el pc?. Con ésta no me deja, solo en el tlf móvil. Gracias.<br> :date: __2020-12-05 13:57:10__
 
@@ -258,8 +260,6 @@ The DKV Quiero cuidarme Más app has been installed by more than **100000** time
 > He instalado la app y tiene buena pinta pero no sirve para pedir cita médica o saber los especialistas de mi área por ejemplo?<br> :date: __2020-09-04 10:34:08__
 
 > Fenomenal; La consulta por video conferencia me ha parecido muy práctica, cómoda y útil, especialmente en estos tiempos. (No pongo 5 estrellas porque no he sido capaz de adjuntar fotos en la App y porque, según parece, tampoco ha dejado hacer la receta, aunque sí me ha llegado el informe)<br> :date: __2020-08-10 17:26:36__
-
-> Es un app muy sencilla y te responden enseguida, sobre todo ahora que las consultas son telefonicas y se suelen olvidar preguntas y dudas que se presentan después. Lo recomiendo. Gracias a todos los profesionales que nos ayudan en estos momentos de incertidumbre.<br> :date: __2020-07-13 19:14:07__
 
 
 
@@ -311,6 +311,14 @@ The DKV Quiero cuidarme Más app has been installed by more than **100000** time
 <img src="1_star_reviews_wordcloud.png" alt="com.dkvservicios.quierocuidarmemas 1 reviews"/>
 </p>
 
+> Es Domingo y no puedo contactar ni con atención al cliente por teléfono ni contactar con un médico a través de la app. Da error número 6000 todo el rato. Lamentable.<br> :date: __2020-12-20 15:58:42__
+
+> No me deja iniciar sesión, se cierra antes de ejecutarse.<br> :date: __2020-12-15 12:54:30__
+
+> No funciona!!<br> :date: __2020-12-15 03:25:57__
+
+> Nada , basura , entras a la app y al rato te saca y vuelta a empezar .<br> :date: __2020-12-14 13:34:39__
+
 > Fatal<br> :date: __2020-12-07 13:20:51__
 
 > No me deja entrar en la aplicación me dice que mi móvil está rooteado... Y no lo está.<br> :date: __2020-12-04 14:49:24__
@@ -322,13 +330,5 @@ The DKV Quiero cuidarme Más app has been installed by more than **100000** time
 > Vaya cuadro de aplicación. Se cierra sola cada vez que intentas abrirla. Imposible dd usar. Cuadro de aplicación y aún peor servicio de seguro médico!<br> :date: __2020-11-30 06:47:02__
 
 > Es un auténtico desastre no hay forma de conectarse, muy complicada la aplicación,te pide muchos datos para entrar.La dejé por imposible incluso después de hablar con un técnico.<br> :date: __2020-11-27 21:47:22__
-
-> La aplicación me da error de laboratorio y/ o se cierra. La he desinstalado varias veces y cuando no es una cosa es otra.<br> :date: __2020-11-27 20:44:18__
-
-> A mi se me queda instalando hasta que me canso. No es más fácil hacerlo bien y no utilizamos de conejillos de India? Cuando la app esté operativa, pues le dais bombo y la sacáis.<br> :date: __2020-11-27 14:08:35__
-
-> No me permite hacer consultas virtuales por videollamada<br> :date: __2020-11-27 12:04:46__
-
-> Imposible hacer una búsqueda en el cuadro médico<br> :date: __2020-11-25 19:50:49__
 
 

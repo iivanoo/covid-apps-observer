@@ -142,6 +142,10 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 <img src="5_star_reviews_wordcloud.png" alt="de.rki.coronadatenspende 5 reviews"/>
 </p>
 
+> ich versuche ständig im intervall die app mit samsung health zu verbinden,seit tagen immer wieder die anzeige integration fehlgeschlagen,so bringt es leider gar nichts! smartphone:huawei p9 smartwatch : samsung gear s3 frontier zwischen smartphone und smartwatch klappt ohne probleme der austausch mit samsung health coroner warn app fast seit einführung installiert und es klappt ohne probleme! update-plötzlich klappt es,ich habe nichts anderes gemacht wie vorher!jetzt werde ich beobachten...<br> :date: __2020-12-18 15:29:45__
+
+> Nicht für jedes Armband geeignet. Es soll der Puls gemessen werden. Nicht jeder hat einen Pulsmesser im Tracker. Somit wertlos bei mir. Und nicht jeder in Deutschland trägt ein Fitnessarmband. Zumal die nicht ganz billig sind. Funktioniert mit den o.g. erfüllten Vorraussetzungen offenbar ganz gut. Nachdem ich heute aktualisiert habe, sehe ich auch wieder meine gespendeten Tage.<br> :date: __2020-12-16 16:15:47__
+
 > Da die Funktion der Tastatur vom App eingeschränkt wird, lässt sich keine E-Mail Adresse für die Google Fit Anmeldung eingeben. Schlecht programmiert. App ist unbenutzbar. Update: wenn man die Original Google Tastatur einstellt, funktioniert es. Problem könnte gelöst werden.<br> :date: __2020-12-12 08:15:38__
 
 > Sehr gute App!<br> :date: __2020-12-09 15:46:49__
@@ -158,10 +162,6 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 
 > Fehler bei GoogleFit Verbindung, bitte beheben, dann helfe ich gern.<br> :date: __2020-11-27 10:22:24__
 
-> Maximum<br> :date: __2020-11-20 16:08:21__
-
-> Anmeldung klappte bei mir etwas holprig. Übernimmt die Daten jetzt direkt von der Mi App meiner Amazfit bip. Spannende Ergebnisse aus der Fieberkurve. Bitte weiter so!<br> :date: __2020-11-12 07:32:01__
-
 
 
 #### 4-star reviews
@@ -170,6 +170,8 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 <img src="4_star_reviews_wordcloud.png" alt="de.rki.coronadatenspende 4 reviews"/>
 </p>
 
+> Leider kann ich keine Samsung Galaxy Wearables auswählen. Daher Google Fit verknüpft in der Hoffnung das Daten ankommen.<br> :date: __2020-12-14 10:46:30__
+
 > 12.12. Mittlerweile läuft die App auch auf dem Huawei P20. Bisher wurden an 93 Tagen Daten gespendet. 27.04. Nach erneutem Download: Tastatur springt bei Eingabe der Mail Adresse immernoch um. -> erneut deinstalliert 15.04. 2. Versuch scheitert Fehler: - bei der Eingabe der Mailadresse als auch des Passworts springt die Tastatur direkt zurück. - Verbindung zu GoogleFit nicht möglich Handy: Huawei P20 Smartwatch/Fitnessuhr: Huawei Band 2 Pro 08.04. Verbindung nicht möglich<br> :date: __2020-12-12 07:32:27__
 
 > Samsung Smartwatches und Wearables werden jetzt unterstützt, deshalb Änderung von 2 auf 4 Sterne. Schön und Hilfreich wäre auch eine Unterstützung von Huawei Wearables, die sind ja auch sehr verbreitet. Ist da was in Planung?<br> :date: __2020-12-10 22:28:46__
@@ -177,8 +179,6 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 > Ich gebe erstmal nur 4 Sterne, weil ich die Idee oder den Hintergrund ansich sehr gut finde. Ich möchte auch sehr gerne helfen. Leider habe ich mein Band (Honor Band 5-e28) nicht gefunden. Ich hoffe, das mein Band bald dabei ist. Dann gibt es auch den 5. Stern. Bleibt alle gesund! Nach 7 Monaten.... Von Ende April bis Ende November ist es noch immer nicht möglich, Huawei zu wählen. Sehr schade, da diese Marke ja doch von vielen genutzt wird.<br> :date: __2020-11-30 18:13:48__
 
 > Gute Einsichten in die Forschungsergebnisse. Aber jetzt bekomme ich eine neue Uhr, die ich hier nicht auswählen kann um weiter teilzunehmen.<br> :date: __2020-11-29 11:18:53__
-
-> Endlich, hatte die App bereits im Juli und ich konnte keine Daten spenden, da die gear fit sich nicht verbinden ließ. Nunmehr wurde nachgebessert und eine Verbindung ist endlich möglich.<br> :date: __2020-11-16 18:06:59__
 
 > Installiert vor 3 Tagen, verbunden mit POLAR. Datenspende 0 Tage? Edit am 14.11.20: endlich werden die gesendeten Tage angezeigt.<br> :date: __2020-11-14 08:12:25__
 
@@ -198,6 +198,12 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 <img src="3_star_reviews_wordcloud.png" alt="de.rki.coronadatenspende 3 reviews"/>
 </p>
 
+> Bin mir, auch nach den ganzen Monaten, eigentlich gar nicht sicher, was diese App überhaupt macht.<br> :date: __2020-12-19 14:38:18__
+
+> Funktioniert das alles auch mit einer samsung gear sport?<br> :date: __2020-12-18 10:36:10__
+
+> Samsung Health kann nicht integriert werden. Diese Fehlermeldung habe ich dauerhaft. Kann leider keine Daten spenden.<br> :date: __2020-12-17 20:15:14__
+
 > Anscheinend will man von mir nicht mehr wie 66 Tage.. und dies ist schon über 2 Monate her 😒 Update: nachdem ich 120 Tage im Rückstand war, hat sich die App wieder die Tage geholt und ist "auf dem aktuellen Stand" Darstellung und Auswertung könnte ansprechender dargestellt werden..<br> :date: __2020-12-12 08:33:37__
 
 > Leider kann ich die App nicht, da mein MI Bank und die App dazu nicht auswählbar ist.<br> :date: __2020-12-06 11:36:38__
@@ -212,12 +218,6 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 
 > Ich befürworte das Konzept hinter der App und würde meine Gesundheitsdaten gerne zur Verfügung stellen. Jedoch würde ich mir wünschen, dass die Probleme bei der Anmeldung über google fit schnellstens gelöst werden, oder zumindest der Mi fit Service zu den unterstützten Services aufgenommen würde. Dann müsste ich mit meiner Xiaomi Amazfit watch gar nicht erst auf google fit ausweichen.<br> :date: __2020-10-29 10:59:12__
 
-> Läuft endlich, gut stabil und problemfrei Man kann auch leider gar nicht sagen wie viele Tage man spenden möchte. Ich hoffe sehr auf Verbesserungen bis dahin viel Erfolg<br> :date: __2020-10-28 00:23:25__
-
-> Ich habe die App heruntergeladen und wollte noch anmelden. Angeblich werden die Daten alle anonymisiert übermittelt. Dann jedoch soll ich mich mit meinem Google-Konto dafür anmelden, und jede Menge Daten inklusive meines Namens und Profilbildes sollen auch übermittelt werden. Warum denn das? Kommt mir nicht besonders anonym vor.<br> :date: __2020-10-26 06:48:39__
-
-> Leider lassen sich zu einem späteren Zeitpunkt die Angaben wie Alter Gewicht etc. nicht mehr anpassen. Schliesslich altert man ja, oder nimmt ab oder zu.<br> :date: __2020-10-25 08:57:32__
-
 
 
 #### 2-star reviews
@@ -225,6 +225,8 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="de.rki.coronadatenspende 2 reviews"/>
 </p>
+
+> Ich finde diese App super und es ist eine tolle Idee. Bei mir funktioniert es ohne Probleme. Kleines Update bei mir verschwinden auf einmal so über 100 Tage die gespendet wurden, von gestern auf heute. Davor waren auch auf einmal 30 Tage weg gewesen. Da stimmt was nicht. Deshalb nur noch 2 Sterne.<br> :date: __2020-12-16 06:13:38__
 
 > Blöd wenn man corona mit positivem test hatte und dann nicht seine daten aus zb dem nachgewiesenen zeitraum spenden kann... den Verlauf konnte man anhand meiner garmin uhr nämlich wirklich gut verfolgen... aber okay bin mit positivem test ja keine schwarze Zahl mehr...<br> :date: __2020-12-11 20:21:58__
 
@@ -244,8 +246,6 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 
 > Hab die App fast seit dem Erscheinungstag auf meinem Handy. Am Anfang hat er mir die Übertragung - in Tagen - angezeigt, bei 122 Tagen blieb die App dann stehen. Ich kann nirgends etwas dazu einstellen oder sehen, ob Daten übertragen werden. Der einzigste Bezugspunkt war immer die Anzahl der angezeigten Tage... ich hab die App daher gelöscht...<br> :date: __2020-10-15 17:33:40__
 
-> Keine aktuellen Ergebnisse, immer noch closed source... Ich hätte erwartet dass da nach den vielen Monaten die es die App jetzt gibt Schritte hin zu mehr Transparenz unternommen werden<br> :date: __2020-10-09 09:19:49__
-
 
 
 #### 1-star reviews
@@ -254,6 +254,18 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 <img src="1_star_reviews_wordcloud.png" alt="de.rki.coronadatenspende 1 reviews"/>
 </p>
 
+> Leider gibt es auch im Dezember (!) 2020 immer noch keine Unterstützung für die Huawei Health App. Die Daten die über Google Fit an die Datenspende-App übermittelt werden sind leider irrelevant, da Puls und SaO2 nicht übermittelt werden. Darüber hinaus wird das Schlaf-Trecking nach Google Fit falsch übermittelt. So macht das ganze keinen Sinn!<br> :date: __2020-12-20 16:12:56__
+
+> Funktioniert nicht mit Huawei Watch. Schade.<br> :date: __2020-12-20 10:19:29__
+
+> Keine Verbindung zu wearables von huawei<br> :date: __2020-12-17 23:35:41__
+
+> 28 Tage konnte ich meine Daten spenden, bis ich feststellen konnte, dass die Verbindungsoption zu S-Health wieder einmal nicht möglich ist. Ich finde das unfassbar schlecht, seitens der Entwickler.<br> :date: __2020-12-16 17:57:04__
+
+> Leider keine Verbindung zu mifit möglich. Schade, hätte gerne geholfen. Werde die App wieder deinstallieren<br> :date: __2020-12-16 09:15:05__
+
+> Nutze weder Fitness-armband noch SmartWatch,daher nutzlos für mich<br> :date: __2020-12-16 02:43:16__
+
 > Leider ist meine Uhr nicht kompatibel mit der App<br> :date: __2020-12-13 16:42:59__
 
 > Sehr schlecht<br> :date: __2020-12-11 16:27:50__
@@ -261,17 +273,5 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 > Permanente Fehlermeldung das der Server nicht erreichbar wäre<br> :date: __2020-12-07 15:59:26__
 
 > ..was gibts da daten zu sammeln? Ernährt euch gesund! Hört auf gequälte tiere zu essen. Vermeidet stress. Das immunsystem reagiert irgendwann auf eins dieser viren. Da muss man dan durch! Danach ist man gegen die nächste generation dieser viren geschützt. Es gibt menschen bzw. alte, bei denen das immunsystem öffters nachgibt. Diese risikogruppe gilt zu schützen. Nicht alle! Ihr packt das problem an den falschen wurzeln! Naturheilkunde statt impfstoff! Hört auf geister hinterher zu jagen!<br> :date: __2020-12-07 00:10:43__
-
-> Nach Update Daten auf Null, alles was ich anklicke ohne Reaktion ausser das das Handy A40 einfriert. Nach mehreren Versuchen deinstalliert :-(<br> :date: __2020-11-29 15:05:00__
-
-> Die app hat zu Viele Fehler und die app wird nur Selten aktuallisiert<br> :date: __2020-11-28 21:05:42__
-
-> Mein Handteil Antimi A5 mit Blutdruckmessung, Pulsmessung, Schrittzähler, Blutsauerstoff Gehalt, Sport Messung....mit der bezogenen App Da fit wird nicht unterstützt.<br> :date: __2020-11-24 20:38:54__
-
-> Ich finde die Idee der App super und würde gerne meine Daten teilen (das ist ja vergleichsweise anonym), leider gleiches Problem wie im Frühjahr: Mit einer Huawei Smartwatch funktioniert es nicht. Da Google Fit und Huawei nicht mehr zusammen arbeiten, geht es auch nicht über diesen Umweg.<br> :date: __2020-11-17 10:13:12__
-
-> Vermutlich wurde die App nachgebessert. Funktion ist mittlerweile erkennbar. Nachtrag 20. Oktober 2020: Erneut keine Funktionalität. ################ 13.November 2020: Die App musste deinstalliert werden damit sich Garmin Connect mit der Smartwatch synchronisieren kann. ################<br> :date: __2020-11-13 09:22:42__
-
-> Bei 120 Tagen Datenspende hört meine App auf. Ich lösche die App.<br> :date: __2020-11-11 07:53:55__
 
 

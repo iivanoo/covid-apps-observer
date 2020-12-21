@@ -145,6 +145,8 @@ The Covid Alert DE app has been installed by more than **10000** times. At this 
 <img src="5_star_reviews_wordcloud.png" alt="gov.de.covidtracker 5 reviews"/>
 </p>
 
+> Works great<br> :date: __2020-12-14 20:31:14__
+
 > No I dont have it to day<br> :date: __2020-12-11 11:06:50__
 
 > Thank you for this app.<br> :date: __2020-12-10 21:34:31__
@@ -162,8 +164,6 @@ The Covid Alert DE app has been installed by more than **10000** times. At this 
 > Very informative and hey if it keeps me safer I'm all for it .<br> :date: __2020-10-24 10:58:12__
 
 > Great idea<br> :date: __2020-10-23 02:57:58__
-
-> Jk you'll k. BLM on jk km violin BBC don vso inch ill<br> :date: __2020-10-19 01:51:28__
 
 
 
@@ -200,10 +200,12 @@ The Covid Alert DE app has been installed by more than **10000** times. At this 
 #### 2-star reviews
 
 <p align="center">
-
+<img src="2_star_reviews_wordcloud.png" alt="gov.de.covidtracker 2 reviews"/>
 </p>
 
-No recent reviews available with 2 stars.
+> Idk what i didnt do right but this app would not work for me to save my life an i was against downloading it in the first place but i did an it bit me i guess it wouldnt scyne an give my call in i.d to talk to the rep.<br> :date: __2020-12-20 14:25:42__
+
+
 
 #### 1-star reviews
 

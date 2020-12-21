@@ -216,6 +216,10 @@ The Covidom Patient app has been installed by more than **10000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="fr.aphp.covidom 1 reviews"/>
 </p>
 
+> Je n'arrive pas à m'inscrire<br> :date: __2020-12-18 12:12:57__
+
+> n'est peu pas accepté mon date de naissance<br> :date: __2020-12-17 17:26:33__
+
 > Je ne comprends au procédures<br> :date: __2020-11-22 19:27:12__
 
 > Enfin installée... on ne sait pas comment. Pas moyen de supprimer des documents dans mon espace... A quoi sert un espace personnel si on ne peut pas le gérer ?<br> :date: __2020-11-19 16:30:06__
@@ -231,9 +235,5 @@ The Covidom Patient app has been installed by more than **10000** times. At this
 > Application nulle, je n'arrive pas à me connecter.<br> :date: __2020-10-26 14:04:39__
 
 > Impossible de me connecter : me demande ma date de naissance pour confirmer et me dit qu'elle ne correspond pas !!!<br> :date: __2020-10-16 13:42:32__
-
-> Le système est très nul on ne comprend rien c'est horrible<br> :date: __2020-10-13 09:58:32__
-
-> Dommage, j ai beau mettre ma date de naissance pour activer , on me répond que ce n est pas la bonne. Du coup on est privé de la aide qui devait nous être proposée concernant le covid<br> :date: __2020-10-09 19:35:30__
 
 

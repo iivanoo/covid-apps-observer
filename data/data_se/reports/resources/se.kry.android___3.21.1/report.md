@@ -190,6 +190,16 @@ The Kry – See a Doctor by Video app has been installed by more than **500000**
 <img src="5_star_reviews_wordcloud.png" alt="se.kry.android 5 reviews"/>
 </p>
 
+> Helpful and knowledgeable doctor<br> :date: __2020-12-20 14:39:32__
+
+> I like the service, it's fast and reliable<br> :date: __2020-12-18 10:19:30__
+
+> Excellent experience. Incredible. I will be a regular user after this.<br> :date: __2020-12-17 18:37:20__
+
+> Very easy to use and friendly.<br> :date: __2020-12-17 09:15:01__
+
+> Mycket bra alternativ tidsbesparande för saker som inte behöver handpåläggning liksom.<br> :date: __2020-12-14 04:46:52__
+
 > It's helpfull!<br> :date: __2020-12-12 10:46:13__
 
 > Good app<br> :date: __2020-12-10 15:09:54__
@@ -199,16 +209,6 @@ The Kry – See a Doctor by Video app has been installed by more than **500000**
 > Great service<br> :date: __2020-12-08 18:40:26__
 
 > Wonderful service as always.<br> :date: __2020-12-08 11:46:11__
-
-> Snabbt och smidigt<br> :date: __2020-12-07 18:56:56__
-
-> Läkaren var bra. Kunnig och hjälpte mig<br> :date: __2020-12-07 16:31:08__
-
-> I have received a good advice from a doctor, thanks for the vedio appointment<br> :date: __2020-12-06 22:06:05__
-
-> During covid situation, seeking KRY services is really good to avoid risk of covid while commuting to visit doctor or other patients. Also, we get immidiate and effective consulting and prescription if any instantly with minimum waiting time. I am getting good services from KRY. I will positively recommend to avail KRY services. Thanks<br> :date: __2020-12-06 09:04:12__
-
-> Good<br> :date: __2020-12-04 17:54:07__
 
 
 

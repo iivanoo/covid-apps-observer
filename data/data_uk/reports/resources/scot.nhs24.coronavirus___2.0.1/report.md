@@ -187,9 +187,9 @@ The NHS 24 : Covid-19 and flu information app has been installed by more than **
 <img src="1_star_reviews_wordcloud.png" alt="scot.nhs24.coronavirus 1 reviews"/>
 </p>
 
-> Rubish it does not work andstops everything elsewith failed to launch<br> :date: __2020-10-09 14:01:12__
+> There is no track and trace, if this isn't it then where is it?<br> :date: __2020-12-18 17:52:56__
 
-> Unable to download as my phone is too old.<br> :date: __2020-10-05 20:01:44__
+> Rubish it does not work andstops everything elsewith failed to launch<br> :date: __2020-10-09 14:01:12__
 
 > This is too basic, and tells you nothing about covid-19 nor its wider symptoms. It just asks those 3 questions. I wonder if this is just a waste of resources.<br> :date: __2020-10-05 02:00:49__
 

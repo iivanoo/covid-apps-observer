@@ -150,25 +150,25 @@ The COVID Alert NY app has been installed by more than **500000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="gov.ny.health.proximity 5 reviews"/>
 </p>
 
-> Rajon<br> :date: __2020-12-13 09:51:47__
+> Nothing to report so I guess that is good. When I go to check see what exposure checks it shows number of keys so for us geeks a detailed explanation of how it works would be nice.<br> :date: __2020-12-19 14:06:09__
+
+> 😎✅🤣<br> :date: __2020-12-18 01:41:57__
+
+> great app<br> :date: __2020-12-17 06:38:18__
+
+> Great for following the COVID19 infection rate in my area, tracking my wellness or potential symptoms every day and for information relevant to COVID19.<br> :date: __2020-12-17 01:37:00__
+
+> COVID Alert NY, New York State Department of Health.<br> :date: __2020-12-16 22:52:02__
+
+> Nice, easy and important<br> :date: __2020-12-14 23:01:08__
+
+> Excellent app. I love it!<br> :date: __2020-12-14 20:27:28__
 
 > Keeps me informed up too date pn important facts.Thank you.<br> :date: __2020-12-11 23:58:12__
 
 > Aungwaioo<br> :date: __2020-12-11 16:40:43__
 
 > 👍🏻<br> :date: __2020-12-11 02:31:45__
-
-> I been exposed<br> :date: __2020-12-10 00:12:24__
-
-> Good and perfect<br> :date: __2020-12-08 18:00:15__
-
-> Works as advertised. Highly recommend. You never know when this could save the lives of your friends and family. Every infection prevented can save lives.<br> :date: __2020-12-08 06:02:37__
-
-> Brings me key data to understand the pandemic in my state.<br> :date: __2020-12-08 03:43:21__
-
-> Hoping it keeps me and others safe, use it!!!<br> :date: __2020-12-05 21:35:02__
-
-> Good<br> :date: __2020-12-04 15:16:04__
 
 
 
@@ -177,6 +177,8 @@ The COVID Alert NY app has been installed by more than **500000** times. At this
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="gov.ny.health.proximity 4 reviews"/>
 </p>
+
+> Me parese muy buena idea mantenerme informado sobre los camvios los nuevas sobre los csmvios<br> :date: __2020-12-14 23:51:39__
 
 > Awesome<br> :date: __2020-12-10 16:25:25__
 
@@ -196,8 +198,6 @@ The COVID Alert NY app has been installed by more than **500000** times. At this
 
 > Good so far<br> :date: __2020-11-09 16:24:50__
 
-> A very important App for information on COVID-19 in Westchester, NY. Whenever local statics is added to the App, it will earn 5 stars<br> :date: __2020-11-08 22:05:11__
-
 
 
 #### 3-star reviews
@@ -205,6 +205,8 @@ The COVID Alert NY app has been installed by more than **500000** times. At this
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="gov.ny.health.proximity 3 reviews"/>
 </p>
+
+> Just tested positive. Tried to send a notification to all codes I've come into contact with and app requires 6 digit code from a contact tracer. 1. So I'm going to sit here not being able to notify anyone until a contact tracer calls me? A day can mean the difference between life and death. 2. Give us the option to edit our symptoms today. I usually do it in the morning but developed a symptom this afternoon but it was too late, I had already submitted for the day.<br> :date: __2020-12-16 00:34:53__
 
 > I understand privacy but for this app to truly work.... work related we make house calls but ask a series of questions before we enter the home. They can easily lie and say no. It be nice that the GPS (Location) when on and at a house can notify you of a positive person in that household or residence or a location address. That information is out there vs relaying on someone else phone and hoping they have the app to talk.<br> :date: __2020-12-09 22:08:36__
 
@@ -224,8 +226,6 @@ The COVID Alert NY app has been installed by more than **500000** times. At this
 
 > Not sure it works<br> :date: __2020-11-01 14:37:14__
 
-> Good probably, but SILLY. it asks how you're feeling, and when I checked the box for a runny nose it gave me a "sorry you're not feeling well" page, complete with "could be COVID19" warnings. Ridiculous.<br> :date: __2020-10-31 00:45:24__
-
 
 
 #### 2-star reviews
@@ -233,6 +233,12 @@ The COVID Alert NY app has been installed by more than **500000** times. At this
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="gov.ny.health.proximity 2 reviews"/>
 </p>
+
+> This app has been a huge bust when it comes to effectively tracking and preventing additional covid cases. Due to the amount of time between development of symptoms and then finally getting a positive result and THEN getting a code to enter into the app under ideal conditions it will let you know if you interacted with a covid+ person a week after the fact. Also been using this app since day 1 and never got a single notification. Personally have anti bodies so have the app as he n!n a curiosity<br> :date: __2020-12-19 05:26:59__
+
+> No one likes using it for personal health reason. It doesn't go off when needed, because of low membership.<br> :date: __2020-12-16 17:56:59__
+
+> If only 500k+ downloaded the app, and are using it🤔, how is there going to be accurate statistics. Also, shouldn't the whole population be counted instead of people who are tested???<br> :date: __2020-12-16 14:12:33__
 
 > The app is good but the contract tracers aren't using it.<br> :date: __2020-12-11 18:06:29__
 
@@ -248,12 +254,6 @@ The COVID Alert NY app has been installed by more than **500000** times. At this
 
 > This app in no way lets u know if you have been in contact with covid<br> :date: __2020-10-30 18:24:06__
 
-> IMO, this is something which should be done on a national platform, and incorporated into Google, so all smartphone users have this information. Instead, this app is quite large, not moveable to the SD card, and forces you to use Bluetooth more often than is wise... not only for battery life, but vulnerability issues. Also, the "questionnaire" of daily symptoms blows quite the dog whistle, flipping out over a stuffy nose, practically equating it with a positive COVID diagnosis. Too many bugs to be worked out for my liking... sorry. Uninstalled.<br> :date: __2020-10-20 07:43:45__
-
-> I like the idea of an app like this a lot. It's not that I go out in public often, and being notified of a possible exposure is good. However, on my Pixel 3XL, performance went into the toilet, and the battery drain was insane. Normally, I could listen to YouTube music while working out in my basement and only go down to 85-90% from a full charge. With this installed, it drops to 25-30% in an hour. It also caused recharge times to increase dramatically. Fix that issue, and I will reinstall.<br> :date: __2020-10-18 13:24:54__
-
-> I would like to keep this app installed but I think it was causing my phone a lot of issues. My phone kept forgetting bluetooth devices until I uninstalled this.<br> :date: __2020-10-13 14:37:11__
-
 
 
 #### 1-star reviews
@@ -262,24 +262,24 @@ The COVID Alert NY app has been installed by more than **500000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="gov.ny.health.proximity 1 reviews"/>
 </p>
 
+> It is useless. Unfortunately this week I got infected with COVID-19. I attempted to report to the app that I have been infected but inorder to do so I would need a code health care providers and nobody have reached out. I reached to the clinic where I got tested and they don't know anything about it. The idea is great but if it is not implement then what is the point of have the app<br> :date: __2020-12-20 16:37:25__
+
+> there is no way to notify anyone if you contract covid. the app instructs to enter a code provided by someone who will call if ur test is positive. nobody called, not even after i sent a note asking for help. its now been 10 days since my PCR lab report. whats the point of building and releasing this and asking people to use it if the data isnt ever going to be used for anything? im just going to uninstall it cos its just eats my battery for no public benefit.<br> :date: __2020-12-20 10:09:49__
+
+> The installation is not mandatory, so the app is pretty much just placebo.<br> :date: __2020-12-19 23:56:42__
+
+> App does not work. Never alerted to exposure , when I know for a fact I was exposed<br> :date: __2020-12-19 03:59:01__
+
+> I just get an error to check my network connection (which is fully functional), and it won't finish setup. I've tried downloading and installing multiple times over a couple months. Oh well.<br> :date: __2020-12-17 20:29:34__
+
+> Says my Bluetooth is off, but it is on (following the link to settings changes nothing) and the only other option is to turn it off. I have no idea how this app works because I was under the impression it was working this whole time and can't turn Bluetooth on when it already is on. BT works fine for my headphones its weird that this app says its not on.<br> :date: __2020-12-16 03:10:55__
+
+> Reported false positive exposure on day I quarantined at home alone all day. No option in app or hotline to report false exposure notice.<br> :date: __2020-12-16 02:55:52__
+
+> I been around people who had covid and they have this app and everything but not showed that people i was around had it. But i will say that i am lucky that i have got it yet. I have been around 6 people so far that had it or has it. Time to get rid of this app. I dont need to track hie many people have it in my county. Thats all this app is really good for is to see the status of the covid in your county.<br> :date: __2020-12-15 03:31:49__
+
 > Trash, pointless, fear-mongering nonsense. Put your money towards helping all of the small businesses you are killing instead of monitoring your residents.<br> :date: __2020-12-13 14:54:50__
 
 > I'm curious on how anyone could defend this app when it violate HIPAA laws. If you go into a doctor's office and the secretary shows you her screen with someone else's name on the computer that's actually a violation of HIPAA laws so how is this not face it this app is illegal and should be removed as soon as possible or should be prosecuted to the full extent of the law<br> :date: __2020-12-12 16:04:00__
-
-> Does not give updated information that is needed of positive cases in the area. Requires a code to be given out when you become a positive case. Not very descriptive and helpful into preventing the covid-19 issue . It also disrupts the use of other apps. For example messenger, facebook, and the use of your own wi-fi. While this app is running, shows on messenger for example that has to wait for the network to connect before it will work. Not a very good app needs more updates.<br> :date: __2020-12-10 12:04:54__
-
-> So you expect me to believe that people who test positive for the plague, are actually going to be honest & record their data, then go out against the rules and let you track them? Do you delete the info after 2 weeks or keep warning people 3 months later? If it doesn't alert someone immediately, then all you're doing is feeding fear into peoples' minds by sending the "warning" later. What's the point in this? So everyone here is staying home any time a warning pops up? If not, why have this?<br> :date: __2020-12-08 10:53:14__
-
-> Doesn't work. It never says if I'm near anyone.<br> :date: __2020-12-06 06:41:24__
-
-> Was around someone who tested positive and was in a cluster area and get no alert. This app does not work. You all must be collection other information from my phone but it sure was not covid19 information<br> :date: __2020-12-05 11:36:27__
-
-> Is bod<br> :date: __2020-12-05 06:13:11__
-
-> Its asking me to turn on bt which is already turned on.<br> :date: __2020-12-04 13:51:59__
-
-> It keeps running in the background and running the battery life down on my phone Not cool at all , I realize Covid-19 is serious and it's good to know if someone is exposed but why run the app all the time in the background it serves no purpose other than killing the battery life of my phone .<br> :date: __2020-12-03 14:50:38__
-
-> App was automatically installed on my device one day... Not cool.<br> :date: __2020-12-03 01:53:54__
 
 

@@ -178,25 +178,25 @@ The NowClinic app has been installed by more than **50000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="com.americanwell.android.member.optum 5 reviews"/>
 </p>
 
+> Like my mom used to say "easy peasy lemon squeezy".<br> :date: __2020-12-18 22:53:16__
+
+> 👍<br> :date: __2020-12-18 17:58:04__
+
+> First time user and my experience was Fantastic. No social distancing and no mask required. This appointment was Awesome.<br> :date: __2020-12-17 23:36:16__
+
+> Love this app<br> :date: __2020-12-17 18:44:44__
+
+> I love how you can see a doctor any time. One thing I noticed that I can't go back to see what diagnosis i was given and medication information. Just for paper trail purposes. Can someone check this out please.<br> :date: __2020-12-16 07:41:40__
+
+> Very Good convient and quick service<br> :date: __2020-12-16 05:45:09__
+
+> Great App! I use this app weekly for Dr's appointments and prefer NowClinic virtual visits to in office visits.<br> :date: __2020-12-14 21:55:53__
+
 > I was in need of relief from my gout. Being not able to walk this option was by far the best. Thank you NowClinic!<br> :date: __2020-12-13 17:15:40__
 
 > The app for use on your iPhone or Android is great. When you try to use now clinic over the internet it is a miserable experience. Just a little warning in advance.<br> :date: __2020-12-13 06:00:43__
 
 > It was easy and in the privacy of my own home. I lobe the fact im not risking my health by going into a dr office ir hospital to catch covid19. Thank U so much far and super easy.<br> :date: __2020-12-13 00:30:41__
-
-> Was feeling under the weather so this worked perfect for me!<br> :date: __2020-12-12 00:37:30__
-
-> 👍<br> :date: __2020-12-11 17:08:20__
-
-> Finally got it to work as designed<br> :date: __2020-12-10 22:40:07__
-
-> Great service and easy-to-use exactly what we need at a time like this.<br> :date: __2020-12-10 22:37:07__
-
-> So convenient.<br> :date: __2020-12-10 03:53:51__
-
-> Awesome 😊, once I got connected with divice that was compatible.<br> :date: __2020-12-08 17:42:35__
-
-> Easy to use great interface!!! Good sound and picture quality<br> :date: __2020-12-07 19:08:02__
 
 
 
@@ -268,10 +268,6 @@ before we could finish our visit<br> :date: __2018-05-26 17:22:36__
 > The Now Clinic is supposed to provide services aside from or in place of the urgent care. I've had two different doc's tell me that I need to go into an UC for a simple follow up AFTER I've already been there and the UC instructed me to follow up with the NOW CLINIC provider! PLUS I don't get money back even though the N C Doc's turn me away within 60 sec of logging on. There is no one monitoring this so no way to complain or request a refund. This is a Waste Of Time and Money!<br> :date: __2019-11-11 02:33:43__
 
 > There's a message button, but doesn't work. Cannot select the provider to message them like it says you can. Please correct<br> :date: __2019-01-29 17:23:33__
-
-> Have been trying to use this app for days now. Everytime I long in, it says 
-that there are no providers in my area.. and I'm down the street from an 
-office.<br> :date: __2018-04-23 18:36:09__
 
 
 

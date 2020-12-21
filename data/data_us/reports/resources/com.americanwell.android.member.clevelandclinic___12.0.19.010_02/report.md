@@ -203,6 +203,14 @@ The Cleveland Clinic Express Care® Online app has been installed by more than *
 <img src="5_star_reviews_wordcloud.png" alt="com.americanwell.android.member.clevelandclinic 5 reviews"/>
 </p>
 
+> Thanks doc. This app cured me from Ailment.<br> :date: __2020-12-20 09:04:15__
+
+> Friendly service andcessycto use app<br> :date: __2020-12-18 19:37:42__
+
+> Good experience, quick and easy to use.<br> :date: __2020-12-17 17:56:18__
+
+> Great provider and easy to use. Wait time was minimal. Would easily use this again.<br> :date: __2020-12-14 16:34:25__
+
 > EVERYONE, Doctors, nurses, ALL STAFF were top notch. i would recommend to everyone. Thank you all healthcare professionals for EVERYTHING you have been doing. PHENOMENAL JOB. I truly appreciate it<br> :date: __2020-12-13 15:49:33__
 
 > Easy to use and very convenient.<br> :date: __2020-12-07 15:06:58__
@@ -214,14 +222,6 @@ The Cleveland Clinic Express Care® Online app has been installed by more than *
 > Very easy to use.<br> :date: __2020-12-03 20:23:03__
 
 > Pleasant interaction<br> :date: __2020-11-28 18:21:15__
-
-> Awesome<br> :date: __2020-11-24 15:56:55__
-
-> Quick, efficient and the provider Jordan Alexander was phenomenal.<br> :date: __2020-11-22 18:00:49__
-
-> It is always great!<br> :date: __2020-11-22 15:59:04__
-
-> Required patience to be seen, but would SO much rather wait in my home than doctor's office waiting room! Practioner was excellent and I felt genuinely cared for. Definitely worth the $49.<br> :date: __2020-11-21 18:47:13__
 
 
 
@@ -287,6 +287,8 @@ The Cleveland Clinic Express Care® Online app has been installed by more than *
 <img src="2_star_reviews_wordcloud.png" alt="com.americanwell.android.member.clevelandclinic 2 reviews"/>
 </p>
 
+> This app used to be great now it sux i have insurance seems that good ole Cleveland Clinic is out for the mighty dollar i used this app fine before now they want to charge 55 dollars then reimburse me i dont have no damn money on my card i live on SSI and have insurancs best add Caresource to your list<br> :date: __2020-12-13 19:51:21__
+
 > Medicare is not listed Didn't have enough money<br> :date: __2020-07-25 18:16:48__
 
 > Glitchy and doesn't usually connect very well. Definitely prefer Duo to do video calls with my doctors. Love the remote capabilities, but this app just isn't quite cutting it yet.<br> :date: __2020-07-22 19:19:29__
@@ -313,6 +315,8 @@ The Cleveland Clinic Express Care® Online app has been installed by more than *
 <img src="1_star_reviews_wordcloud.png" alt="com.americanwell.android.member.clevelandclinic 1 reviews"/>
 </p>
 
+> Can't really rate them high when I get get the ap to work and there is ZERO technical support. I've tried to sign up twice and filled in all my info and it just says "checking insurance info" and spins. Then after several minutes it asks me to log in and when I do it says "my password or username is wrong". Ive done it twice. It didn't work. Too cheap to have a support phone number so screw them.<br> :date: __2020-12-18 22:06:10__
+
 > Slow<br> :date: __2020-11-16 18:25:56__
 
 > I tried 3 times to use this, every time when it got to the video it just stopped loading. Total wate of time when I was really sick and needed to see a Dr. That was after it froze numerous times on the beginning screen. I had to reinstall twice and log back in, even call the customer service to reset my password moments after I'd been logged in and it kicked me out.<br> :date: __2020-10-15 07:45:30__
@@ -330,7 +334,5 @@ The Cleveland Clinic Express Care® Online app has been installed by more than *
 > Terrible! Just awful. You have to reenter everything if you go off the app! The number for help doesn't work! The damn thing doesn't lists all insurance! It's just awful! Worst thing to happen to Cleveland Clinic since parking down town!<br> :date: __2020-08-02 18:46:04__
 
 > Constant issues with downloading the app<br> :date: __2020-05-28 15:53:34__
-
-> No connection it sucks I dont know why it wont connect<br> :date: __2020-05-21 20:17:33__
 
 

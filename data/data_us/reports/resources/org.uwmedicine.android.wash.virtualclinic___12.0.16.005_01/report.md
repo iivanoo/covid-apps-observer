@@ -229,6 +229,8 @@ The UW Medicine Virtual Clinic app has been installed by more than **5000** time
 <img src="5_star_reviews_wordcloud.png" alt="org.uwmedicine.android.wash.virtualclinic 5 reviews"/>
 </p>
 
+> Quick, friendly great help great<br> :date: __2020-12-14 23:46:34__
+
 > Fast, professional, excellent care. Only issue was some glitches in sound quality which made communication a bit slower. Otherwise, a really helpful and convenient app, will definitely use again.<br> :date: __2020-09-20 05:13:06__
 
 > Very efficient.<br> :date: __2020-07-26 23:32:33__
@@ -246,8 +248,6 @@ The UW Medicine Virtual Clinic app has been installed by more than **5000** time
 > Good experience glad I'm not putting anyone at risk for Covid<br> :date: __2020-04-03 16:47:41__
 
 > Excellent app!!!<br> :date: __2020-04-02 21:57:17__
-
-> Very easy to use<br> :date: __2020-04-02 16:34:08__
 
 
 

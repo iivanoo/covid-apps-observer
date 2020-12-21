@@ -188,6 +188,10 @@ The Nemours CareConnect – See a Pediatrician 24/7 app has been installed by mo
 <img src="5_star_reviews_wordcloud.png" alt="com.nemours.android.careconnect 5 reviews"/>
 </p>
 
+> This app is very great to have especially if u have babies/toddlers. I just used this today for my son for his sick visit and everything went great the app worked great. I definitely would recommend this to my friends and family. And it was so easy to use.<br> :date: __2020-12-17 21:03:20__
+
+> Was great<br> :date: __2020-12-14 21:23:01__
+
 > Works great and convenient<br> :date: __2020-12-02 22:16:43__
 
 > It actually works<br> :date: __2020-12-01 16:16:17__
@@ -203,10 +207,6 @@ The Nemours CareConnect – See a Pediatrician 24/7 app has been installed by mo
 > Cool, saves time and travel funds.<br> :date: __2020-10-22 15:40:43__
 
 > First time using this app and I have to say it was great No technical issues everything was good: Clarity, visibility,.. very satisfied and happy thank you so much<br> :date: __2020-10-19 18:22:14__
-
-> This was my 1st time using the app but my wife loves it and uses it regularly<br> :date: __2020-10-13 17:02:04__
-
-> My granddaughter had a red eye and its pink eye thank Dr was great.<br> :date: __2020-10-02 15:14:46__
 
 
 

@@ -1,5 +1,65 @@
 [
     {
+        "reviewId": "gp:AOqpTOF3BvPsxmc6fHRBp7Ipc8ddEHZP8g18S1nOt1pOyA8JNOLq7ahYLxNluxNQtsfMMmHAqwOLNrXM4adMHvU",
+        "userName": "David Campbell",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgjcRps7jk_t2yBpr0gAOvXr599gKkNBANWrOAV",
+        "content": "Helpful and knowledgeable doctor",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.22.1",
+        "at": "2020-12-20 14:39:32",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOEJ8FX_uS8YciGy4fDZ3aD5bvockkH8NIk0l95Zu_Z2yt0Ax_uAAxc7hgSRAceHspVAk7wd2olDvrocu-c",
+        "userName": "Zeyad Sadaka",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgykEajiRYhYCBQPuUJ-KL0rAaNtQ_mI-FDyADnYSM",
+        "content": "I like the service, it's fast and reliable",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.22.1",
+        "at": "2020-12-18 10:19:30",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFh3KijjM6nSFuXZh52e9diH0xscQWGUWIEnp6qpXi7XGWSkwAKJXHdMTAAkJ61CoxQ8vx5d0qKyouHSNg",
+        "userName": "Arjumand Bonhomme",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Giimn_WdrwDmBBRtSDPtC-YL9OGhlTwgq8fEuCtCds",
+        "content": "Excellent experience. Incredible. I will be a regular user after this.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2020-12-17 18:37:20",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGUK9XvsJpN3CaWm36TMHtbA41rpVNf5cv2Srz84DHQChX10B34bcVUidqfvHYaUXFiFz1x5jtfH_Zm1uc",
+        "userName": "ARUNKUMAR K",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiYC_xwvA3naUniV2qG1J45UTXBXkBAJ9iNJp7zJg",
+        "content": "Very easy to use and friendly.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.21.1",
+        "at": "2020-12-17 09:15:01",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFlfNQVLl5GPR_06CTmpMO6GhLzYtq3TaPs4sZ273lmHpKStR116H1aqnXINsJ1N0n0ADVP98M-ZGWzzms",
+        "userName": "Fineprint Gnome",
+        "userImage": "https://play-lh.googleusercontent.com/-Xtwirha5zXY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmfGu_8-mjsr3f4VxH3i1miedUmOA/photo.jpg",
+        "content": "Mycket bra alternativ tidsbesparande f\u00f6r saker som inte beh\u00f6ver handp\u00e5l\u00e4ggning liksom.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.16.1",
+        "at": "2020-12-14 04:46:52",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOEoM_Js47xP2u8YUmKxiNupqectXJYLLGjnaM-s7LIE0uBUqROy9XxJq32dP1fnZqGZp2nMlXzYWTSEoIc",
         "userName": "Hawraa Sameer",
         "userImage": "https://play-lh.googleusercontent.com/-sZq3lAEa2G8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnsMBKzUaFTqHDaSOb0Z-B_V-EsHA/photo.jpg",
@@ -149,7 +209,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgyvDWLUjN_rE3aXs77ryyuDCchpaxDWcARDKX9gw",
         "content": "I had a urology question. Long delays with misleading 'just a few minutes', no good for specialist questions. Just go directly to the specialist if you need one. The app could have told me so via FAQ or so.",
         "score": 2,
-        "thumbsUpCount": 2,
+        "thumbsUpCount": 3,
         "reviewCreatedVersion": "3.21.1",
         "at": "2020-12-03 18:27:22",
         "replyContent": null,
@@ -1800,18 +1860,6 @@
         "repliedAt": null
     },
     {
-        "reviewId": "gp:AOqpTOFlfNQVLl5GPR_06CTmpMO6GhLzYtq3TaPs4sZ273lmHpKStR116H1aqnXINsJ1N0n0ADVP98M-ZGWzzms",
-        "userName": "Fineprint Gnome",
-        "userImage": "https://play-lh.googleusercontent.com/-Xtwirha5zXY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmfGu_8-mjsr3f4VxH3i1miedUmOA/photo.jpg",
-        "content": "Fungerar b\u00e4ttre \u00e4n man trodde",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "3.14.1",
-        "at": "2020-06-22 10:52:38",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
         "reviewId": "gp:AOqpTOEdjW0GvIHGCN7eZS1kF5llNCFiyycGYfbZ7lLLsMtPHyaWuV8MfVEbL2i5FbP0qvF52H4y2kMIGPNPnyQ",
         "userName": "Amr Alshaabi",
         "userImage": "https://play-lh.googleusercontent.com/-n2r8J4LfTC8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclMrQyr4UcORTs5Zx6bZfTfq5pcOA/photo.jpg",
@@ -2821,7 +2869,7 @@
     },
     {
         "reviewId": "gp:AOqpTOE_gNYIG6kgoHFaA6v60y1NVtHe1Q3IGEqahM0QimOutuTKzERhKee3FCzJm7cjriuUPs0ju-GmSB-KV5k",
-        "userName": "Orinoco Capoeira Malm\u00f6",
+        "userName": "Morris Reyes Malm\u00f6",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GisqwVCbqkNgVEo2dJRk3AZ3VvMLoYb6jTMDwk6SA",
         "content": "Wonder!! truly wonderful, finally helpful Dr's available!",
         "score": 5,
@@ -5114,7 +5162,7 @@
     {
         "reviewId": "gp:AOqpTOG9C2YdnUIqlZ2wxXcTdpTzxpdiCsCXiChgd0y_OfnJFzAw310kx1Pb04GNCK-N9jBCei7vgQWWQhTvYfY",
         "userName": "Rapha\u00ebl Mushidi",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi7qMTwdEA3q9W3ASPAl2s9AvpIw-ZQGZ0-dsbdeQ",
+        "userImage": "https://play-lh.googleusercontent.com/-F9DbHz8dUKc/AAAAAAAAAAI/AAAAAAAAU68/AMZuucmJATI6xTD9T70Csj1tl9Rg_P0wrQ/photo.jpg",
         "content": "Very quick help!",
         "score": 5,
         "thumbsUpCount": 0,
@@ -6492,18 +6540,6 @@
         "repliedAt": null
     },
     {
-        "reviewId": "gp:AOqpTOHZML7_Az24xVIn0sq3GXd7B8DG9cD520UDKuXOx7AZexoprf7kV_dreF9t7uJN8kFwKTruUBwY2_M7bgU",
-        "userName": "Laura Olaru",
-        "userImage": "https://play-lh.googleusercontent.com/-atlUEC7TXiM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn9Dk4h7lz5kaKlFBQS0ugSQECkVg/photo.jpg",
-        "content": "So nice doctors!",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "2.94",
-        "at": "2019-01-30 14:09:37",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
         "reviewId": "gp:AOqpTOHXeUHQJj7zic3FhkQdgSntiqZRVKr9JFBQvfil5yKegnfihCcuyo_pDPSFXumrZ9lEHVeE8yrdlBV_1xk",
         "userName": "Anders Hed\u00e9n",
         "userImage": "https://play-lh.googleusercontent.com/-64bs9xIYA70/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmtJkQcRGkyzH_8cl25FigL2bP0Bw/photo.jpg",
@@ -6614,7 +6650,7 @@
     {
         "reviewId": "gp:AOqpTOHMPArw4ZswlgTt1QuCvt2vSDeLj0b1q-oJbwajXUqul_A6kxcq84KV0pnWwsW87t199ubhagsez631-rU",
         "userName": "Oskar Perenius",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgpVk47ZE6XsUykIc0Vt_cv6_O1Xks-cSX_0HbtdA",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiIIdg1NSwRd9SBsxjmUmVFWUlhQJ5yfKUJwmqLoA",
         "content": "Fungerade bra! Bra bem\u00f6tande.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -8413,7 +8449,7 @@
     },
     {
         "reviewId": "gp:AOqpTOGaUjV4PoUSfTwQv_4Ddy8u3pI8WM7NeSPZfX1tbhbUzn-NMscQHRJD3bSFwizLdLO1QOyr7iXTrdLEZOU",
-        "userName": "Maher Acc",
+        "userName": "Pappashero_ the_king",
         "userImage": "https://play-lh.googleusercontent.com/-sxr44DyrHkA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckViOkgAX4m_1AvMQUNATzSR-TYwA/photo.jpg",
         "content": "Underbart",
         "score": 5,

@@ -1,5 +1,77 @@
 [
     {
+        "reviewId": "gp:AOqpTOHu295qF7fgRSEzd9xvgDyh-xCpMKVPYog3SdMPmnYpt0GBdh-g3XKrC_FYdd4DoC7fcT_h50602MVkbw",
+        "userName": "juan antonio cano",
+        "userImage": "https://play-lh.googleusercontent.com/-fUn2QGGNsAY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckilyFR79ZrsLk3BrBS7Z6VsJnQ1Q/photo.jpg",
+        "content": "Es Domingo y no puedo contactar ni con atenci\u00f3n al cliente por tel\u00e9fono ni contactar con un m\u00e9dico a trav\u00e9s de la app. Da error n\u00famero 6000 todo el rato. Lamentable.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.2.2",
+        "at": "2020-12-20 15:58:42",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGX3KHQbaIV7QOpiyrJ2B8ZwRRwF-7Agn9y-Am9rxTAwzgvf8Pno_wCzZdVcqJ3YmHylo7ygra2FndTBQ",
+        "userName": "Richard Gael Montes Villalba",
+        "userImage": "https://play-lh.googleusercontent.com/-bWBrCr0gYFQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmr6ufWqVTVFMAWIyFfLqylKmDhTA/photo.jpg",
+        "content": "Muy buena",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.2.2",
+        "at": "2020-12-19 23:20:17",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHksE6XwRtmVqfnMVCJ3vlv34kXqVxZJkdhSHzcc67D2-Wf5TcG179oFe7DOGBQxb6ym1othnaT07L2hw",
+        "userName": "Anghely Gina Ricaldi Gomez",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjKn2rGqwBbv7A0SAHCUJD1eKYRkPDLDunH70Oakg",
+        "content": "Muy buena, me atendieron puntualmente en el caso de mi hijo",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.2.2",
+        "at": "2020-12-17 16:50:03",
+        "replyContent": "Hola Anghely. \u00a1Muchas gracias por tu comentario y valoraci\u00f3n!. Un saludo.",
+        "repliedAt": "2020-12-18 11:30:40"
+    },
+    {
+        "reviewId": "gp:AOqpTOFEWXwTWQLfDwX1HGJM47AhWGkYDv4C9FhzAF5VxUpIKHT36e7oQ2gAyx2e-ZeZAdwTXfxYNaAUGah4BA",
+        "userName": "Tricy Hill",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhWz83y06LANqAC9aXkWgVYRlR1oRUDeWIZl68QSoo",
+        "content": "No me deja iniciar sesi\u00f3n, se cierra antes de ejecutarse.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.2.2",
+        "at": "2020-12-15 12:54:30",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGPOtI38GH3wk7cjVC9AxakGZF--mozdv38_wT3KvdQ4aw1x1wX0KLBRg7Olnjj6H8KTYOYlORSvDt1Dw",
+        "userName": "Ver\u00f3nica",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjUjUKv9Zq8MeOScBMfXMWtFE-XDK_bHX-16teqxA",
+        "content": "No funciona!!",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.2.2",
+        "at": "2020-12-15 03:25:57",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGkQaSq8Tx4aD5KeULpK9IWVTBbdE6hX1Ion2QDbDvWrv6Q0u_yhzYGUxUd4qnH-JVnEV5iZgd6UDy3yQ",
+        "userName": "Manuel Herrera",
+        "userImage": "https://play-lh.googleusercontent.com/-g3ovzyBVLTQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmK1cQgRINdYL4JcIn4dKe6_Yl2Ww/photo.jpg",
+        "content": "Nada , basura , entras a la app y al rato te saca y vuelta a empezar .",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.2.2",
+        "at": "2020-12-14 13:34:39",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOHzMGft7Peuyr5lwosfuxosY5vl5nguyPm77PwIw964bLljZkqVDBeSfTpDOJM-w-GGd23aS3erKrisHg",
         "userName": "claudia valeria tineo arrieta",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg487XRXreSv9U5wGfdXK9N3P5pycH6Qm4cJHckhA",
@@ -44,8 +116,8 @@
         "thumbsUpCount": 1,
         "reviewCreatedVersion": "2.2.2",
         "at": "2020-12-08 14:29:12",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hola Alfonso. Lamentamos los problemas con el servicio. Nuestro equipo de soporte contactar\u00e1 contigo para darte una soluci\u00f3n. Un saludo.",
+        "repliedAt": "2020-12-16 08:00:26"
     },
     {
         "reviewId": "gp:AOqpTOEGNA_PvJmQtmxTInvD7Ms0w84B9GdCXX7Weh2ue-SKm2e6AgK1ZEQdQhdgy83_MVJuyrLtD2vlnKt4VQ",
@@ -101,7 +173,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjJYSeSR7-eW5Agb2hEmnzpxMYyhdYs3SEmO4uKGw",
         "content": "Me pide el n\u00famero de tarjeta DKV para iniciar sesi\u00f3n, pero tras un mes de contratar el seguro, yo no he recibido ninguna tarjeta, as\u00ed que no la puedo utilizar. ACTUALIZO: me respondieron en un par de d\u00edas y, al ampliar la forma de registro, ya he podido acceder. Tiene varias caracter\u00edsticas, pero a\u00fan no he tenido ocasi\u00f3n de probar la que m\u00e1s importa: la consulta m\u00e9dica. De momento, subo a tres estrellas por la atenci\u00f3n recibida, y cuando pruebe el m\u00e9dico actualizar\u00e9.",
         "score": 3,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "2.1.8",
         "at": "2020-12-02 17:50:18",
         "replyContent": "Hola Tere. Ya puedes crear tu cuenta de Quiero cuidarme M\u00e1s. Ahora tambi\u00e9n con es posible con el n\u00famero de p\u00f3liza. Por favor, vuelve a intentar registrarte y si tienes problemas contacta a soporte@dkvservicios.com. Un saludo.",
@@ -146,7 +218,7 @@
     {
         "reviewId": "gp:AOqpTOHTGqRtYIXsKjYM6Kj9Jph0TM8QUshWCGRHFwlb55NIMy-PB542D8TaZxJasZsF2iWIPreTqglEGWiakw",
         "userName": "Matteo B.",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgOM3NAnb-yBiF4B_RpZgsFEPvywRNLIvkOYnAQmrQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi7el4JCDKcgPsCcGJX9neJFguspK60vJ5MbEbYELo",
         "content": "Vaya cuadro de aplicaci\u00f3n. Se cierra sola cada vez que intentas abrirla. Imposible dd usar. Cuadro de aplicaci\u00f3n y a\u00fan peor servicio de seguro m\u00e9dico!",
         "score": 1,
         "thumbsUpCount": 0,
@@ -725,7 +797,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhUo9WEZeJpcIymP90RY0IyFRt2XWO11YIsiVlizA",
         "content": "Hac\u00eda mucho tiempo que no instalaba una aplicaci\u00f3n tan mala, tanto en dise\u00f1o como en usabilidad. Los distintos apartados tardan mucho en cargar y varios de ellos son meros enlaces web. La \u00fanica utilidad que he encontrado es llevar las tarjeta en el m\u00f3vil, porque no para consultar el cuadro m\u00e9dico vale, me salen resultados incompletos mezclados con los de otras ciudades que no est\u00e1n ni cerca. Una verg\u00fcenza de aplicaci\u00f3n.",
         "score": 1,
-        "thumbsUpCount": 14,
+        "thumbsUpCount": 15,
         "reviewCreatedVersion": "2.1.7",
         "at": "2020-11-02 14:39:47",
         "replyContent": "Hola Esteban, nuestro equipo de soporte se pondr\u00e1 en contacto contigo desde soporte@dkvservicios.com para ayudarte. Por otro lado, al buscar en cuadro m\u00e9dico, revisa los filtros que tienes seleccionados, por ejemplo, si activas el filtro \u201cconsulta virtual\u201d es posible que aparezcan profesionales de otras zonas. Un saludo.",

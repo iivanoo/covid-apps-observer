@@ -244,6 +244,10 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 <img src="1_star_reviews_wordcloud.png" alt="cat.gencat.mobi.StopCovid19Cat 1 reviews"/>
 </p>
 
+> La primera vez he logrado llegar al paso de recibir el codigo por Sms, lo he puesto pero de allí no se mueve, la segunda vez ya ni he podido intentar enviar el SMS, por mucho que apretaba no pasaba nada. Así no me extraña que no se puedan contabilizar los casos, si no funciona una simple aplicación, que se puede esperar de situaciones más complejas?<br> :date: __2020-12-16 14:56:06__
+
+> Borrar esta app, es vergonzosa. Despedir al jefe.<br> :date: __2020-12-14 12:16:10__
+
 > La app no funcina bien. Cuando voy a hacer el test se queda colgada. La he desintalado y vuelto a instalar y nada. Sin el test no sirve para nada. Despues de la reseña, funciono una vez y ahora otra vez no puedo hacer el test<br> :date: __2020-12-06 21:00:34__
 
 > Fatal<br> :date: __2020-11-18 15:40:14__
@@ -259,9 +263,5 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 > Vaya test, faltaria preguntar a parte denlos sintomas, si has estado el contacto con personas infectadas, pero bueno a que extrañarse, o61, nefasto, llamadas al cap no hacen ni caso, en fin asi nos va<br> :date: __2020-11-02 10:04:12__
 
 > No he sido capaz de activar esta aplicación cuando pongo el código que me envían se bloquea y no se puede seguir, arregle la por favor, no nos pidan que colaboremos si nos lo ponen tan difícil<br> :date: __2020-10-30 11:58:30__
-
-> Me hago el test y nada ni con 38'5 te dice que no puedes ser , les rogaría las mirasen, este virus es muy serio y si nos hacemos los test nos gusta la verdad ,ya sabemos que la app no es un médico<br> :date: __2020-10-26 16:57:23__
-
-> No sirve para MUFACE. Muy mal. Muchos funcionarios sin control. Así nos va.<br> :date: __2020-10-25 21:40:19__
 
 

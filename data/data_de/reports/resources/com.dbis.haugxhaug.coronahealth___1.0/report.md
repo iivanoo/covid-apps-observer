@@ -126,6 +126,10 @@ The Corona Health app has been installed by more than **1000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="com.dbis.haugxhaug.coronahealth 5 reviews"/>
 </p>
 
+> Sehr hilfreiche App<br> :date: __2020-12-18 10:38:25__
+
+> Top App, so kann jeder tiefe Einblicke in die persönlichen Bedürfnisse und Wünsche, aber eben auch Folgen der Pandemie individuell angeben. So kann die Forschung schneller auf Trends reagieren und langfristige gesellschaftliche Folgen abmildern. Besser als durch simple Vergleichsgruppen Befragung Daten zu sammeln und dafür nach langer Auswertung nur noch Folgen zu bestätigen, so kann man innerhalb kurzer Zeit proaktiv handeln.<br> :date: __2020-12-17 21:51:37__
+
 > winkelnkemper Hildegard<br> :date: __2020-11-06 17:14:58__
 
 > Perfekt. So können Umfragen rasch ohne Medienbruch erledigt werden. Forscher bekommen so schneller Daten, wir Patienten profitieren. Smarte Datenerfassung. Lob an die Entwickler! Holger<br> :date: __2020-08-26 11:50:02__
@@ -141,8 +145,6 @@ The Corona Health app has been installed by more than **1000** times. At this ti
 > Coole App!<br> :date: __2020-08-04 17:22:32__
 
 > Die Auswirkungen von Corona können wir nur so gut beurteilen wie wir sie beforschen. Daher bitte runterladen, ausfüllen und großzügig teilen.<br> :date: __2020-08-02 18:18:26__
-
-> Es ist eine anonyme App die sogar am Ende der Fragebögen noch Handlungsempfehlungen gibt. Gefällt mir<br> :date: __2020-07-30 20:59:33__
 
 
 

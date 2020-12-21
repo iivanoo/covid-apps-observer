@@ -138,6 +138,8 @@ The WHO Info app has been installed by more than **100000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="org.who.infoapp 5 reviews"/>
 </p>
 
+> YAMiSLEN VALENZUELA (1977)<br> :date: __2020-12-15 16:58:12__
+
 > Lo único que puedo decir es referente al idioma, está en todos los idiomas, en cuanto al español pone; edición en español y en la parte superior derecha, hay cómo una v que significa okey y ya la tenéis en español para siempre, ésta aplicación es meramente informativa, sobre la salud ya sea covid o otra enfermedad<br> :date: __2020-11-04 08:37:34__
 
 > Super completa. Pará los que dicen q esta en ingles nose si actualizaron pero apenas se instala da la opción de los idiomas. Esta completa concreta y simple. Genial 👌<br> :date: __2020-10-17 19:00:49__
@@ -155,8 +157,6 @@ The WHO Info app has been installed by more than **100000** times. At this time,
 > Kiero saber lo resultado psr<br> :date: __2020-07-29 02:55:33__
 
 > 👍👍👍<br> :date: __2020-07-23 15:29:51__
-
-> Que bueno que te gusta tanto e ste juego<br> :date: __2020-07-11 06:22:27__
 
 
 

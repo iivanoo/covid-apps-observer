@@ -188,6 +188,8 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 <img src="5_star_reviews_wordcloud.png" alt="gov.cdc.general 5 reviews"/>
 </p>
 
+> Got some kinks, but over all good app.<br> :date: __2020-12-18 21:45:32__
+
 > A lot of info ... easy to find what ur looking for. Thanks Great Job!<br> :date: __2020-12-12 19:24:07__
 
 > Love having up to date disease transmission protocols at my convenience 24/7. Great app<br> :date: __2020-11-08 02:28:28__
@@ -205,8 +207,6 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 > Excellent reference source.<br> :date: __2020-09-02 17:35:05__
 
 > Like this app because of the usefull Information it have<br> :date: __2020-08-23 23:39:44__
-
-> N/A<br> :date: __2020-08-17 16:28:56__
 
 
 
@@ -272,6 +272,8 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 <img src="2_star_reviews_wordcloud.png" alt="gov.cdc.general 2 reviews"/>
 </p>
 
+> Not interesting<br> :date: __2020-12-19 19:21:51__
+
 > Ughh<br> :date: __2020-11-04 07:10:21__
 
 > Esi o.m k.m .w o w 9. Ve o oe oeevdbe dv we DV b ni bbx ab workout db we vbbe okk. E. The, e.e. .<br> :date: __2020-09-26 07:37:44__
@@ -289,8 +291,6 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 > I give only two stars only because I've only learned of the "CDC" Due to the Covid-19. Im very secluded other then facebook so i regret i can not rate CDC with a higher rating.<br> :date: __2020-05-07 08:06:04__
 
 > Poor app mise well use website as this is a glorious bookmark hidden as an app in my opinion<br> :date: __2020-04-30 07:18:34__
-
-> Ok<br> :date: __2020-04-28 15:22:50__
 
 
 

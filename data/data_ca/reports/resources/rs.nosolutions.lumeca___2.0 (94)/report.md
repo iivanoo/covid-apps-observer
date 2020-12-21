@@ -142,6 +142,8 @@ The Lumeca - See a doctor now - Free in Saskatchewan app has been installed by m
 <img src="5_star_reviews_wordcloud.png" alt="rs.nosolutions.lumeca 5 reviews"/>
 </p>
 
+> I was skeptical that I was going to see a doctor, get a prescription and all for free.... ask me how great it felt to actually see a doctor, get a prescription for free and not have to wait in a room with 20 other people but actually be at home in my PJ's! I had Dr. Bucko and she was great, I will use this app again & again instead of leaving the house that's for sure!<br> :date: __2020-12-15 02:45:04__
+
 > All staff was professional and very helpful. The doctor was friendly, knowledgable and willing to answer all questions. I highly recommend using this service.<br> :date: __2020-12-10 03:50:48__
 
 > Great app and really fast service would recommend to everyone<br> :date: __2020-10-30 23:15:09__
@@ -159,8 +161,6 @@ The Lumeca - See a doctor now - Free in Saskatchewan app has been installed by m
 > This service is exceptional. Constant contact throughout. Excellent support. Easy to use and so appreciated. Highly recommend.<br> :date: __2020-08-19 05:03:16__
 
 > I felt very confident with Dr. Skinner. She was thorough, knowledgeable and kind. I appreciated her advise and recommendations. Thankyou once again.<br> :date: __2020-08-16 05:04:32__
-
-> Satisfactory care, recommend<br> :date: __2020-08-13 06:10:16__
 
 
 
