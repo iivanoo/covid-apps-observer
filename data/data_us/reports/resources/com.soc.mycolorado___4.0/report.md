@@ -186,11 +186,11 @@ The myColorado app has been installed by more than **10000** times. At this time
 <img src="5_star_reviews_wordcloud.png" alt="com.soc.mycolorado 5 reviews"/>
 </p>
 
+> Really like this. In this day and age of technology and convenience, this is awesome.<br> :date: __2020-12-21 16:14:02__
+
 > Very helpful<br> :date: __2020-12-20 00:00:25__
 
 > First state in the country with a legal digital identification. So cool!!! Also access to medical rec card via this app<br> :date: __2020-12-19 18:35:15__
-
-> Good app<br> :date: __2020-12-18 10:41:21__
 
 > Very easy to use and upload information. Wish all agencies along with TSA accepted the digital documents.<br> :date: __2020-12-18 01:09:35__
 
@@ -242,6 +242,10 @@ The myColorado app has been installed by more than **10000** times. At this time
 <img src="3_star_reviews_wordcloud.png" alt="com.soc.mycolorado 3 reviews"/>
 </p>
 
+> Not bad, the only thing I have against it is that you can't update your phone number or email I put it in wrong number and now there is no way to change it<br> :date: __2020-12-22 02:32:42__
+
+> THIS APP IS HARD TO SET UP AND IT KEEPS REDIRECT ME .BUT NOT LETTING ME LOG IN<br> :date: __2020-12-21 09:32:36__
+
 > This app saved my life but now it keep saying retry otp and now I can't use it for my I'd. How I'm supposed to buy my essential things with no I'd!<br> :date: __2020-09-25 20:54:47__
 
 > Photo Capture does not work properly for live photo of physical face!! Has already provided feedback for the app developers 👍<br> :date: __2020-08-19 02:03:21__
@@ -257,10 +261,6 @@ The myColorado app has been installed by more than **10000** times. At this time
 > Had to use my sister's phone to scan my I.D., for whatever reason, my phone wouldn't scan, but other than that, I like this app..<br> :date: __2020-06-01 02:31:47__
 
 > It ok needs improvement on application<br> :date: __2020-05-08 05:29:35__
-
-> I am giving some stars based on the potential for being walletless. Using this in lieu of my driver's license would be game changing. I am taking off the same number of stars because I can't do this yet.<br> :date: __2020-05-04 03:17:40__
-
-> The password change is difficult. You can barely see reset button after you validate account. it gives an error message that appears to say it was not successful and to contact admin but the Pw change is successful. You can log in with new password<br> :date: __2020-04-30 14:06:42__
 
 
 
@@ -298,6 +298,10 @@ The myColorado app has been installed by more than **10000** times. At this time
 <img src="1_star_reviews_wordcloud.png" alt="com.soc.mycolorado 1 reviews"/>
 </p>
 
+> This app is ridiculous. I keep installing it over and over and over and over again and restarting my phone over and over and over and over again and everytime I try to scan my ID the app crashes. This is beyond frustrating I don't see why I can't just physically enter in my information this is so stupid.<br> :date: __2020-12-24 00:50:17__
+
+> Wont download<br> :date: __2020-12-23 06:08:34__
+
 > Freezes the phone and crashes every time it tries to get a face map after log in. I still have yet to actually USE the app, so bye-bye<br> :date: __2020-12-20 15:54:45__
 
 > I just got my temporary paper ID the app will not allow me to scan it so I cant make an account. This is not cool waste of space on my device.<br> :date: __2020-12-15 22:28:10__
@@ -313,9 +317,5 @@ The myColorado app has been installed by more than **10000** times. At this time
 > Took me literally 16 tries and a waste of 30 minutes of frustration just for it to recognize my face in a brightly light room for my id. Absolutely frustrating<br> :date: __2020-11-03 00:19:49__
 
 > Businesses in Colorado are refused to accept digital ID. What is the point to have a digital ID? Website said "Colorado Digital ID may be accepted as a legal form of personal identification for use in Colorado". Keyword here is "may" instead of "shall". Business don't have to accept it if they are wish not to.<br> :date: __2020-10-19 01:09:50__
-
-> My digital I'd image shows big O Stamp showing restrictions of my license over it...theirs no need to show all that<br> :date: __2020-10-17 15:48:55__
-
-> Horrible app, camera functions are a joke, system is always down<br> :date: __2020-10-16 17:06:13__
 
 

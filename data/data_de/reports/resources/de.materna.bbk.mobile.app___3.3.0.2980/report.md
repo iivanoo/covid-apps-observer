@@ -154,25 +154,25 @@ The NINA - Die Warn-App des BBK app has been installed by more than **1000000** 
 <img src="5_star_reviews_wordcloud.png" alt="de.materna.bbk.mobile.app 5 reviews"/>
 </p>
 
+> Kurze, aber wichtige informelle<br> :date: __2020-12-28 09:44:36__
+
+> Funktioniert einwandfrei. Jedenfalls empfehlenswert für jeden.<br> :date: __2020-12-26 21:22:47__
+
+> Sehr zufrieden<br> :date: __2020-12-25 08:22:59__
+
+> Sehr gute Bedienung,Erläuterung<br> :date: __2020-12-23 14:32:57__
+
+> Gut macht was sie soll<br> :date: __2020-12-23 09:15:41__
+
+> Gut<br> :date: __2020-12-22 10:31:52__
+
+> Sehr informativ und funktioniert jetzt auch problemlos.<br> :date: __2020-12-21 17:48:28__
+
+> Antivirus Alles<br> :date: __2020-12-21 12:25:46__
+
 > Bisher nur positive! Die bundesweite Darstellung und die über die Corona Situation hinausgehende Informationsbündelung ist eine tolle Ergänzung zur Corona WarnApp! Vielen Dank an die Entwickler und eine stressfreie Weihnachtszeit sowie einen gesunden Rutsch nach 2021!<br> :date: __2020-12-18 12:09:16__
 
 > Coole App, klip und klar ohne Panikmache wie die Corona App. Die habe ich sofort wieder gelöscht. Nina ist genial und klärt Fragen.<br> :date: __2020-12-17 22:20:08__
-
-> Stimmt immer die Nachrichten von Nina<br> :date: __2020-12-17 17:26:03__
-
-> NINA könnte die perfekte WarnApp werden auch gegen Corona . Die sofortige Standortermittlung bei Infizierten Personen die sich draußen Aufhalten wäre noch eine Klasse verbesserung und so könnte man verhindern das man sich auch Ansteckt bei anderen. NINA ist ein muß für jeden und sehr hilfreich.<br> :date: __2020-12-17 15:38:05__
-
-> Die neuen Informationen zu Örtlichen Regelungen finde ich super. Endlich einen Ort wo ich die Infos zu dem Ort bekomme in dem ich gerade bin. Vorher musste man erst mal die richtige Webseite der Stadt finden. Daumen hoch<br> :date: __2020-12-17 14:45:10__
-
-> Alles wieder okay<br> :date: __2020-12-17 09:38:23__
-
-> So wie man es braucht!<br> :date: __2020-12-17 07:16:36__
-
-> Rückmeldung an N H: ich glaube Sie verwechseln die App mit der Corona-Warn-App der Bundesregierung.<br> :date: __2020-12-16 11:36:14__
-
-> Sehr informativ, zweckmäßig und auf den Punkt gebracht. Ich bekomme Push-Benachrichtigungen bei geänderten Corona-Bestimmungen und kann mehrere Landkreise festlegen, für die ich informiert werden möchte. TOP!<br> :date: __2020-12-16 11:24:20__
-
-> Gut gemachte App die Erweiterung der Coronasituation finde ich gut<br> :date: __2020-12-16 08:13:19__
 
 
 
@@ -181,6 +181,12 @@ The NINA - Die Warn-App des BBK app has been installed by more than **1000000** 
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="de.materna.bbk.mobile.app 4 reviews"/>
 </p>
+
+> Zu großer Speicherverbrauch: Wozu über 50MB Benutzerdaten und 50MB Cache? Coronameldungen machen alles unübersichtlich und so übersieht man die wirklich wichtigen Informationen.<br> :date: __2020-12-26 18:07:21__
+
+> Find ich recht klasse. Gibt wichtige Infos, geht mir aber nicht auf die Nerven mit überflüssigwm Zeug. Könnte aber zuverlässiger und aktueller sein manchmal<br> :date: __2020-12-23 12:09:26__
+
+> Alles funktioniert gut. Nur bei den Push-Nachrichten stört mich etwas, dass man nie weiß, für wo die Warnung gilt, wenn man mehrere Regionen hinterlegt hat. Dabei müsste man mit den jetzt schon existieren Infos plus Ortsangabe gut leben können und bräuchte nur zu näheren Infos die App öffnen. Ein kurzer Blick auf Always On Display oder Smartwatch und man wüsste: Sturm Warnung betrifft mich. Augenblicklich muss ich in die App um zu sehen, die Sturmwarnung betrifft meine Eltern.<br> :date: __2020-12-21 11:49:05__
 
 > In den letzten Wochen sind sehr viele gute Änderungen aufgetaucht. Die Entwicklung geht jetzt in die richtige Richtung.<br> :date: __2020-12-19 11:46:54__
 
@@ -196,12 +202,6 @@ The NINA - Die Warn-App des BBK app has been installed by more than **1000000** 
 
 > Eine super App, wenn es um "normale" Meldungen geht! Nur ein großes Manko hat sie, man kann den Corona Schwachsinn nicht abstellen!!! Die Meldungen über die Medien-Staats-Pandemie braucht man nicht unbedingt!<br> :date: __2020-12-16 08:13:04__
 
-> Funktioniert<br> :date: __2020-12-16 05:51:11__
-
-> Toll, das endlich auch aktuelle Infos kurzfristig verteilt werden. Das neue Layout finde ich auch sehr gut. Wenn jetzt noch lokale Infos wie in der völlig unbrauchbaren App Biwapp dazukommen wäre es perfekt.<br> :date: __2020-12-15 18:43:39__
-
-> Eine relativ gute App. Manchmal ist sie aber ein wenig unübersichtlich.<br> :date: __2020-12-15 11:03:50__
-
 
 
 #### 3-star reviews
@@ -209,6 +209,12 @@ The NINA - Die Warn-App des BBK app has been installed by more than **1000000** 
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="de.materna.bbk.mobile.app 3 reviews"/>
 </p>
+
+> Warum sehe ich die einzelnen Orte nicht mehr , die ich eingegebenen habe? Was interessiert mich der ganze Landkreis! Es heißt immer nur, dass der Ort bereits hinzugefügt wurde aber es wird"nur" der Landkreis angezeigt.<br> :date: __2020-12-27 08:53:10__
+
+> Grundidee ist mega ABER Meldungen kommen mal oder garned oder viel zu spät. Also wenn man sich auf diese App verlässt bisch heee<br> :date: __2020-12-22 18:25:45__
+
+> Grundsätzlich eine gute App,aber da ich keine Lust dazu habe ständig und überall "Corona" zu lesen habe ich mich zur Deinstallation der App entschlossen.<br> :date: __2020-12-21 01:18:34__
 
 > Anja das erste mal nicht funktioniert<br> :date: __2020-12-18 08:45:44__
 
@@ -224,12 +230,6 @@ The NINA - Die Warn-App des BBK app has been installed by more than **1000000** 
 
 > Leichte Sprache. Ah ja, natürlich, jetzt ist alles klar. Was das wohl bedeuten soll? Ist das die Einstellung für's Rotlichtviertel??<br> :date: __2020-12-13 19:14:11__
 
-> Funktioniert soweit, aber die Push-Einstellung für Corona-News ist zu versteckt bzw. sollte automatisch abgefragt werden, ob man das will. Zusammenarbeit mit KatWarn ist sehr sinnvoll. Meiner Meinung nach sollten aber mehr Infos kommen (aber natürlich nicht wg. jeder Kleinigkeit, sonst liest es keiner mehr).<br> :date: __2020-12-13 15:21:31__
-
-> Könnt ihr bitte die Funktion einfügen, ALLE Warnungen hinzuzufügen 1. Weltweit 2. Auf bestimmte Länder begrenzt.<br> :date: __2020-12-13 13:37:23__
-
-> Ich habe 2 Orte (Landkreise) eingetragen. Warum werden Bundesweite Meldungen bei jedem Ort angezeigt? Wenn jemand 10 Orte einträgt hätte er 10 mal dieselbe Meldungen. Es wäre besser und übersichtlicher die Bundesweiten Meldungen auch ohne Ortsangabe anzuzeigen. Dann natürlich nur einmal. Ggf wenn dann ein Ort hinzugefügt wird auch ein gemeinsamer Eintrag für das Land. Dann gäbe es keine doppelmeldungen.<br> :date: __2020-12-13 13:17:17__
-
 
 
 #### 2-star reviews
@@ -237,6 +237,8 @@ The NINA - Die Warn-App des BBK app has been installed by more than **1000000** 
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="de.materna.bbk.mobile.app 2 reviews"/>
 </p>
+
+> Ab heute, den 27.12.2020, sollten offiziell die Anti Corona Impfzentren💉😷 in der Republik ihr Arbeitet aufnehmen. Hier, in der App, stehen diese lokal immer noch nicht in den dafür vorgesehenen Teil. Lediglich ein wager Hinweis dazu ist erwähnt. 👎😡👎😷🖖🏥<br> :date: __2020-12-27 11:27:28__
 
 > 4 Tage nach Inkrafttreten der aktuellen Rechtsverordnung keine Aktualisierung in der App.<br> :date: __2020-12-18 22:07:13__
 
@@ -256,8 +258,6 @@ The NINA - Die Warn-App des BBK app has been installed by more than **1000000** 
 
 > Die App informiert nur wenn man sie öffnet. Einen Alarm mit Ton und Pop up hatte ich nie!<br> :date: __2020-12-13 16:34:37__
 
-> Sehr schade ist, dass Google play Dienste benötigt werden. Dass unser Staat das auch unterstützt und sich gleichzeitig beschwert, dass Konzerne wie Google defacto keine Steuern in Europa bezahlen spricht für sich.<br> :date: __2020-12-13 08:41:01__
-
 
 
 #### 1-star reviews
@@ -266,24 +266,24 @@ The NINA - Die Warn-App des BBK app has been installed by more than **1000000** 
 <img src="1_star_reviews_wordcloud.png" alt="de.materna.bbk.mobile.app 1 reviews"/>
 </p>
 
-> Was soll denn das bringen! Noch ein überflüssiger Speicherfresser.<br> :date: __2020-12-18 19:17:36__
+> Bei Probealarm informiert die App zu spät oder überhaupt nicht. Auf der Smartwahtch ,kommt überhaupt keine Information. Denn wier waren beim letzten Probealarm im Wald unterwegs, und Wunderten uns über die Sirenen. Passanten fragten uns was los ist, erst als ich wieder Zuhause war informiert mich die APP. FÜR DEN ERNSTFALL ÜBERHAUPT NICHT GEEIGNET!!!!!!<br> :date: __2020-12-27 23:30:12__
 
-> Schwache Informationsleistung. Diese App ist zu ungenau!<br> :date: __2020-12-18 11:12:31__
+> Ich habe die App heute deinstalliert. Nachdem beim Probealarm keine Meldungen kamen, hatte ich die Hoffnung, dass man wirklich nachbessert. Aber es ist leider schlechter geworden. Die Meldung zum Covid19-Lockdown kam heute (27.12.20) mit dem Hinweis, dass es an Weihnachten Lockerungen geben soll. Und die DWD-Sturmwarnung habe ich gar nicht erhalten. Die kam per Google-Wetter-App. Also wofür sollte die App noch installiert sein?!<br> :date: __2020-12-27 20:45:06__
 
-> Lokale Informationen 404 Error<br> :date: __2020-12-18 10:27:13__
+> Funktioniert nicht gut<br> :date: __2020-12-27 20:16:19__
 
-> Seit dem großen Test in diesem Jahr warnt sie überhaupt nicht mehr, selbst wenn ich sie erneut installiere - es tut sich leider nichts<br> :date: __2020-12-17 15:45:06__
+> -Keine Benachrichtigung auf meinen 2 Geräten (Xcover 4 und z3 Play)... Immer wieder das gleiche mit dieser Anwendungen...<br> :date: __2020-12-27 13:13:54__
 
-> Leider ist die App extrem langsam geworden. Trotz modernem Handy, schnellem WLAN und guter Mobilverbindung, keiner Akku-Optimierung usw. braucht sie ewig - und damit meine ich > 10 Minuten. Alarmierungen erhalte ich auch nie - besser gesagt, ich hatte kürzlich mal eine, die aber schon obsolet war, als sie bei mir aufschlug.<br> :date: __2020-12-17 00:05:08__
+> Eine Warn-App, die NIE warnt ist völlig nutzlos. Alle Einstellungen sind korrekt von mir gesetzt, aber ich kriege einfach nie Warnungen, wenn etwas ist. App wurde jetzt von mir gelöscht.<br> :date: __2020-12-26 20:54:01__
 
-> Nachdem das update keine abhilfe brachte, nach langer nutzungszeit deinstalliert. die app funktioniert seit einem jahr schlicht garnicht. weder push nachrichten, geschweige denn inhalt, da die app keine daten lädt (zu sehen ist nur der ladekreisel). kein schimmer warum, denn sie hat alle berechtigungen die sie will und nichts hindert sie am datenverkehr. was bringt mir eine katastrophen app, die bereits ohne katastrophe mit sich selbst überfordert ist.<br> :date: __2020-12-16 23:41:12__
+> Nur Corona, Corona, Corona. Gibt es nichts anderes mehr? Ich habe die App wieder gelöscht.<br> :date: __2020-12-26 20:32:45__
 
-> Warum tauchen die Ausgangbeschränkungen für BW nicht in den neuen Corona-Regeln auf? Neue Regeln für BW seit dem 16.12. werden am 16.12. um 12:17 gemeldet. Blöd nur dass Zuwiderhandlungen um 10:00 auch schon Bußgelder zur Folgen haben (z.B. Laden öffnen)<br> :date: __2020-12-16 17:54:16__
+> Funktioniert nicht gut. Ständig wird der Kreisel angezeigt, pushnachr ichten finden sich in der App nicht wieder.<br> :date: __2020-12-26 20:03:17__
 
-> Ist ja gut und schön, aber ein absoluter Akkufresser. In Zeiten von Corona kontraproduktiv. Was nutzt mich die App wenn mein Handy kein Akku mehr hat.<br> :date: __2020-12-16 16:54:06__
+> APP ohne Sinn !!!<br> :date: __2020-12-26 19:42:37__
 
-> Nina kommt aus Schlafmützenhausen und ist vermutlich die nutzloseste App die ich je hatte. Ähnlich wie die Corona App wurde hier ein Haufen Geld in den Sand gesetzt. Informiert euch besser über das Radio und das Internet.<br> :date: __2020-12-16 14:51:58__
+> Leider sind die lokalen Informationen unvollständig. 24 Stunden nach der Veröffentlichung der Einschränkungen für den Landkreis fand darauf keinen Hinweis.<br> :date: __2020-12-26 18:00:52__
 
-> Seit dem letzten update funktioniert die Karte nicht mehr...... Und die Coronavirus-Informationen datieren auf den 24.10.2020.......<br> :date: __2020-12-16 14:46:00__
+> Wenn ich die App aufmeindem Samsung Tab 5e Öffne blinkt alles<br> :date: __2020-12-25 12:22:08__
 
 

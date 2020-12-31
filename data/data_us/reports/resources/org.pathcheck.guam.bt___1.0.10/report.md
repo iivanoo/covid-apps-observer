@@ -138,6 +138,10 @@ The Guam Covid Alert app has been installed by more than **5000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="org.pathcheck.guam.bt 5 reviews"/>
 </p>
 
+> Helpfull<br> :date: __2020-12-25 13:14:05__
+
+> Good to know<br> :date: __2020-12-23 21:53:24__
+
 > Google<br> :date: __2020-11-01 21:04:08__
 
 > Great to have and keeps us alert for COVID virus<br> :date: __2020-10-19 07:47:15__
@@ -153,8 +157,6 @@ The Guam Covid Alert app has been installed by more than **5000** times. At this
 > The best!<br> :date: __2020-09-15 11:11:33__
 
 > Easy onboarding<br> :date: __2020-09-14 07:47:45__
-
-> *Love* the design and ease of installation. Good job Guam and Path Check Foundation! Bias toward action. I like the transparency around privacy, but I wish there were external links to a credible audit of the open source code so that the in-app marketing assertions could be 3rd-party verified. I don't live in Guam and don't work as a Path Check developer, so I can't judge how the EN functionality works, but as an interested consumer, I say thumbs up.<br> :date: __2020-09-11 19:29:00__
 
 
 

@@ -129,7 +129,13 @@ The WA Notify app has been installed by more than **100000** times. At this time
 <img src="5_star_reviews_wordcloud.png" alt="gov.wa.doh.exposurenotifications 5 reviews"/>
 </p>
 
-> I just downloaded it<br> :date: __2020-12-19 20:37:29__
+> Really like this and think it was a good idea<br> :date: __2020-12-27 06:08:25__
+
+> Fine<br> :date: __2020-12-24 12:40:30__
+
+> Easy to get on.<br> :date: __2020-12-22 23:26:19__
+
+> Easy to install<br> :date: __2020-12-21 09:46:57__
 
 > Would be move convenient were it an implant. Maybe next year. Regardless, this app will make it easier to earn credits and to locate suitable breeding mates.<br> :date: __2020-12-19 07:40:24__
 
@@ -143,12 +149,6 @@ The WA Notify app has been installed by more than **100000** times. At this time
 
 > Ok<br> :date: __2020-12-11 18:10:14__
 
-> very good<br> :date: __2020-12-11 05:34:22__
-
-> For those confused about how to report a POSITIVE test result: WA Notify requires users to confirm positive tests using a verification code provided by public health officials. The code is not tied to a person’s identity. After the code is entered, WA Notify can match the random codes of users who have been nearby and notify them of possible exposure. The notification does not include any information about who may have exposed them or where the exposure happened. All it takes is reading....<br> :date: __2020-12-11 02:26:44__
-
-> This app will help to keep you and your love ones alive.<br> :date: __2020-12-10 18:21:34__
-
 
 
 #### 4-star reviews
@@ -156,6 +156,10 @@ The WA Notify app has been installed by more than **100000** times. At this time
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="gov.wa.doh.exposurenotifications 4 reviews"/>
 </p>
+
+> Pierce County public health finally reached me for my interview today (12/26), over 10 days after testing posirive, but that is not the app's fault.<br> :date: __2020-12-27 03:33:19__
+
+> "When someone in WA state tests positive for COVID-19 and public health reaches out to them, they will be asked if they have WA Notify and given a verification code. With surging cases, this may take several days." => Seriously? It takes you several days to generate a verification code? And I'm paying taxes for this kind of unprofessionalism? Gov. Inslee, please fire the team that is unable to generate codes instantly for people to add to the app and hire someone better.<br> :date: __2020-12-26 19:05:39__
 
 > Downloaded when there was only 1500 other downloads and am so happy to see this app over 100k downloads now! Helps make me believe in doing this.<br> :date: __2020-12-16 15:24:58__
 
@@ -173,10 +177,6 @@ The WA Notify app has been installed by more than **100000** times. At this time
 
 > Thanks for the creation and release of this. Found it a little difficult to find a link to download it however. Hope it helps, It should.<br> :date: __2020-12-01 05:12:37__
 
-> Good<br> :date: __2020-12-01 02:15:09__
-
-> I am wanting to do what I can to help stop the spread. I've been isolating, etc...but will still feel guilty if I test positive. I want my leaders to make good decisions. If one flaunts the virus and laughs in its face, they are not who I want to be a leader.<br> :date: __2020-11-30 22:56:34__
-
 
 
 #### 3-star reviews
@@ -184,6 +184,10 @@ The WA Notify app has been installed by more than **100000** times. At this time
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="gov.wa.doh.exposurenotifications 3 reviews"/>
 </p>
+
+> The concept is good. I need to be able to put in co-workers who have tested positive but dont use the app.<br> :date: __2020-12-24 15:47:26__
+
+> I think this app will be more useful if more people use it. People are afraid you are tracking their movement's. Need more advertising! The conspiracy theory people will never use it. Sane people will. Thank You<br> :date: __2020-12-24 15:41:03__
 
 > I echo Josh McAllister's comments. Recently tried to upload my test result which came to a dead end with the elusive "verification code".<br> :date: __2020-12-18 17:23:03__
 
@@ -201,8 +205,6 @@ The WA Notify app has been installed by more than **100000** times. At this time
 
 > I have not received a verification code.I will update my star review when I am able to use this app.<br> :date: __2020-11-30 23:42:30__
 
-> Giving it a try.<br> :date: __2020-11-30 18:58:55__
-
 
 
 #### 2-star reviews
@@ -210,6 +212,10 @@ The WA Notify app has been installed by more than **100000** times. At this time
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="gov.wa.doh.exposurenotifications 2 reviews"/>
 </p>
+
+> Isn't invasive I'm just not sure its actually doing anything<br> :date: __2020-12-27 20:34:56__
+
+> Had to uninstall to fix bluetooth connection problems with Fitbit and car audio bluetooth<br> :date: __2020-12-23 07:59:57__
 
 > App seems like it would be useful, but you need a verification code to give a positive result, and nobody knows how to get this code. My friend tested positive and I didn't receive any alert after being near her because she didn't get any info about a verification code, even when she asked about it. Being able to self report would make this much more useful.<br> :date: __2020-12-20 01:52:58__
 
@@ -227,10 +233,6 @@ The WA Notify app has been installed by more than **100000** times. At this time
 
 > Great idea but it depends on positive people to add app. People who are positive should not be out and about<br> :date: __2020-12-02 17:28:47__
 
-> This tool should be open source so we can verify the app is doing exact what it's claiming and not identifying and tracking us. Where's the transparency, Washington? Show me the source code.<br> :date: __2020-12-01 03:55:09__
-
-> Probably a good app but it opened Ads on my pad. So you are exposed, at least your pad, computer or phone is.<br> :date: __2020-11-30 20:03:49__
-
 
 
 #### 1-star reviews
@@ -239,24 +241,24 @@ The WA Notify app has been installed by more than **100000** times. At this time
 <img src="1_star_reviews_wordcloud.png" alt="gov.wa.doh.exposurenotifications 1 reviews"/>
 </p>
 
-> Public health never reached reached out, so I have no way to share my positive test result.<br> :date: __2020-12-20 15:51:31__
+> I received a call 8 hours after doing a Covid test and was told I was positive but no one knew about the verification code for this app. This app is pointless if not all hospitals to include the military know how to use it or know how to provide the access code. It needs to be more user friendly.<br> :date: __2020-12-28 05:30:03__
+
+> Not accurate at all. I have never received notification of a possible exposure ever. I do Mobile Covid Testing.<br> :date: __2020-12-25 02:45:49__
+
+> It will not allow notifications so it's worthless as is. This is also after updating.<br> :date: __2020-12-24 23:46:51__
+
+> Constantly alerts if you ever have gps or bluetooth off so if it ever tries to give me a virus alert, I won't notice it.<br> :date: __2020-12-22 23:17:39__
+
+> Didn't work for me. Would not accept my verification code.<br> :date: __2020-12-22 14:40:32__
+
+> Caused phone issues with Bluetooth and wifi. Removed and issues are resolved.<br> :date: __2020-12-22 06:24:14__
 
 > I couldn't warn others I got covid since I didn't have a verification code! Makes it somewhat useless<br> :date: __2020-12-20 00:17:33__
 
 > No code. Can't make it work. Complete trash. Not surprised considering our Governor.<br> :date: __2020-12-19 23:31:19__
 
-> Did not get any notifications since it is not required for people to put it in that they have the virus and I don't go very many places<br> :date: __2020-12-18 07:19:59__
-
 > Useless app, can not turn on. Just waste of time to try<br> :date: __2020-12-17 21:02:34__
 
 > Spam. F Inslee and his tracking device<br> :date: __2020-12-17 17:04:59__
-
-> Google... Just shameful. You modify google play to have a separate notification toggle to specify continuely spam people about this app. So messed up. Google is quickly now competing with apple in the race for the most deplorable. Makes me want to vomit.<br> :date: __2020-12-17 16:04:52__
-
-> How stupid are you people? Read a book or at least pull your head out of the ground and look around. Seriously, dummies.<br> :date: __2020-12-17 09:38:59__
-
-> What a pointless waste of time.<br> :date: __2020-12-16 02:02:38__
-
-> This app made my wifi inactive about every 10 minutes on my Note 10. Had to Uninstall it.<br> :date: __2020-12-15 20:28:05__
 
 

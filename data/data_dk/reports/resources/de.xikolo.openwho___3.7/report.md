@@ -164,6 +164,8 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 <img src="5_star_reviews_wordcloud.png" alt="de.xikolo.openwho 5 reviews"/>
 </p>
 
+> I love this app because it makes essay a lot.<br> :date: __2020-12-27 18:00:46__
+
 > It's a great platform for me to send money 💰 safely<br> :date: __2020-12-15 14:26:31__
 
 > Good<br> :date: __2020-12-08 16:01:38__
@@ -181,8 +183,6 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 > Knowledgebase<br> :date: __2020-11-03 14:05:53__
 
 > thank you so much for app developer<br> :date: __2020-10-26 06:14:47__
-
-> WHO is really helping the future workers<br> :date: __2020-10-17 05:46:26__
 
 
 
@@ -220,6 +220,8 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 <img src="3_star_reviews_wordcloud.png" alt="de.xikolo.openwho 3 reviews"/>
 </p>
 
+> Good info<br> :date: __2020-12-24 16:44:57__
+
 > I feel a bit disappointed, experienced a lot of errors. My module and videos can't be loaded.<br> :date: __2020-07-26 17:32:06__
 
 > Great app, but my only problem is that I can't open my certificate file. Says invalid format. Disappointing 😭<br> :date: __2020-07-23 02:09:56__
@@ -238,8 +240,6 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 
 > Very confusing. not happy with the link. I don't know if I have done it correctly.<br> :date: __2020-05-12 22:12:31__
 
-> Tbh this app is kinda like reddit, you can scroll through windows that shows general knowlage, then you can tap into that window for more information. It's a good app to learn about stuff<br> :date: __2020-05-09 13:39:53__
-
 
 
 #### 2-star reviews
@@ -247,6 +247,8 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="de.xikolo.openwho 2 reviews"/>
 </p>
+
+> Needs to be improved. Image don't show up . Fix needed<br> :date: __2020-12-23 15:51:31__
 
 > The app keeps showing me this message (please enable network connection) when I open it, don't know why ?? My internet connection is working fine and I am using all the other apps perfectly well. Can you lend me a hand in this matter.<br> :date: __2020-11-08 08:31:34__
 
@@ -265,8 +267,6 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 > Nice<br> :date: __2020-04-09 16:25:41__
 
 > Please , i want the App in the form of the Globe.<br> :date: __2020-04-05 14:35:33__
-
-> Nos manten informado de tudo<br> :date: __2020-03-22 08:51:43__
 
 
 

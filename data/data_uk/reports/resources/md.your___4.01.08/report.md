@@ -205,6 +205,8 @@ The Healthily: Self-Care & Health Journal app has been installed by more than **
 <img src="5_star_reviews_wordcloud.png" alt="md.your 5 reviews"/>
 </p>
 
+> makes tracking my health much easier and has built in symptom checker too!<br> :date: __2020-12-22 10:18:16__
+
 > MU5 Maximum<br> :date: __2020-12-17 05:25:18__
 
 > Good<br> :date: __2020-12-15 19:41:38__
@@ -222,8 +224,6 @@ The Healthily: Self-Care & Health Journal app has been installed by more than **
 > it's great to determine if you need to go to the Dr, so easy to overlook symptoms but this app makes me look at the whole picture<br> :date: __2020-11-20 13:37:11__
 
 > This app is really helping me. The prescription that given is really helpful<br> :date: __2020-11-20 08:50:20__
-
-> I Started using this app in 2018, it has become a part of me, whenever i change a phone, its the first app i think. You guys are so amazing for introducing this app thanks a lot<br> :date: __2020-11-19 20:23:40__
 
 
 

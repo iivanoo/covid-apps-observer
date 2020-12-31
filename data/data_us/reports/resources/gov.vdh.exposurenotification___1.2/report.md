@@ -130,7 +130,7 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 <img src="5_star_reviews_wordcloud.png" alt="gov.vdh.exposurenotification 5 reviews"/>
 </p>
 
-> Tt awesome<br> :date: __2020-12-19 23:10:36__
+> Gd<br> :date: __2020-12-24 17:45:09__
 
 > When am proving to be able to make a difference my life with family and friends to make Amen<br> :date: __2020-12-18 21:23:28__
 
@@ -186,6 +186,8 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 <img src="3_star_reviews_wordcloud.png" alt="gov.vdh.exposurenotification 3 reviews"/>
 </p>
 
+> At least Someone Creative is Trying to Help this State and The Good Hard Working Citizens. JD<br> :date: __2020-12-28 03:13:20__
+
 > God bless<br> :date: __2020-12-09 09:12:24__
 
 > Only good for the residents within Virginia. or can this be utilized from someone else in another state? And what are the parameters required to utilize this feature; say for a state like Texas? They do not have a contact tracing app.<br> :date: __2020-11-30 20:55:45__
@@ -204,8 +206,6 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 
 > Hi guy this corona virus is started from USA from 666 group so please please search and know about it but there is something all of u if pray if u Prostration to god only to orthodox tawahdo faith in ethiopian church trust me.you get the real rest of soul..so there is something coming to all of u in to 2021 there is Suffering so please please be ready come and search obout ethiopian orthodox if uget and become know and do it you are gare out this suffering so please share this for your freinds<br> :date: __2020-10-21 06:34:30__
 
-> Just download zo need some time<br> :date: __2020-10-18 01:28:01__
-
 
 
 #### 2-star reviews
@@ -213,6 +213,8 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="gov.vdh.exposurenotification 2 reviews"/>
 </p>
+
+> I 8. 3.km<br> :date: __2020-12-23 16:45:09__
 
 > Nice idea but it needs more work. I had this app for a couple of months now and have not got any type of alert for possible exposure. As an essential deliver driver, this app should had alerted me at least 5 times now. I have delivered to a home that was tested positive and never get an alert about it. This is a waste of space on my phone. Please be aware there are people out here that test positive and refuse to let others know.<br> :date: __2020-12-09 21:14:46__
 
@@ -232,8 +234,6 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 
 > 6 beer 4🍉<br> :date: __2020-10-07 16:26:24__
 
-> Drains my battery too much to have bluetooth on all the time and I forget to turn it on the few times I'm near people. I know they don't record location but if there were a way to prompt me to turn bluetooth on when I change location that would be beneficial<br> :date: __2020-10-04 18:15:31__
-
 
 
 #### 1-star reviews
@@ -241,6 +241,8 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="gov.vdh.exposurenotification 1 reviews"/>
 </p>
+
+> Useless and sketchy. Hasn't given me a single alert since I installed it months ago and requires bluetooth on 24/7. A waste of battery. Uninstalled.<br> :date: __2020-12-26 13:20:46__
 
 > Can't even upload my positive result because they claim the VDH contacts you to give you a PIN after you test positive. They definitely don't. I haven't been contacted at all. This app is useless, don't waste your time. It will give you a false sense of security thinking you haven't come into contact with anyone contagious when you probably have. Way to go VDH. Not helpful in preventing the spread of Covid at all.<br> :date: __2020-12-18 16:14:29__
 
@@ -259,7 +261,5 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 > I am disappoint. Not an HIV tracker app. Wanted to know who had HIV, instead got a government tracking app...<br> :date: __2020-12-08 18:17:47__
 
 > Do I have to live in Virginia in order to use this app?<br> :date: __2020-12-08 11:37:57__
-
-> What a joke.<br> :date: __2020-12-08 00:55:06__
 
 

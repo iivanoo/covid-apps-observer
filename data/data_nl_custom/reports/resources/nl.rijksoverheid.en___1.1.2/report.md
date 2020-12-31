@@ -140,25 +140,25 @@ The CoronaMelder app has been installed by more than **1000000** times. At this 
 <img src="5_star_reviews_wordcloud.png" alt="nl.rijksoverheid.en 5 reviews"/>
 </p>
 
-> Werkt goed bij mij<br> :date: __2020-12-19 23:54:46__
+> Aanvulling 27-12-2020: Op 24dec kreeg ik een melding dat ik de dag ervoor (23dec) in de buurt van iemand met corona ben geweest. Echter de 23e heb ik de hele dag thuisgewerkt en alleen 's avonds even kort naar een supermarkt waar ik zeker niet 15 minuten lang dichtbij iemand ben geweest. Als ik al dicht bij mensen was - onwaarschijnlijk - waren dat hoogstens seconden of minder die je nodig hebt om snel mensen te passeren. Ik denk dat de app misschien twee of drie keer eenzelfde contact heeft geregistreerd en dan aanneemt dat je constant op dezelfde afstand bent? Dat lijkt een design dingetje dan. Kijkt de app ook naar locatie om beweging vast te stellen?<br> :date: __2020-12-27 18:14:52__
 
-> Sorry maar ga de app weer deleten ik moet locatie en bleutooth aan houden dat wil ik niet.<br> :date: __2020-12-19 10:53:04__
+> Hb<br> :date: __2020-12-27 17:21:49__
 
-> Goede app<br> :date: __2020-12-19 10:06:58__
+> Heel mooi. Dit is een van de manieren hoe de overheid samen met iedereen die deze app gebruikt, hard bezig is om het virus te stoppen 💪<br> :date: __2020-12-27 14:54:22__
 
-> Werkt goed, ook handig ombop de middelbare svhool te gebruiken<br> :date: __2020-12-18 14:48:37__
+> Goed<br> :date: __2020-12-27 10:17:52__
 
-> Goede, effectieve app, waar je géén last van hebt, ... totdat natuurlijk je een ziekmelding (covid) krijgt !<br> :date: __2020-12-18 09:53:49__
+> Laat de voetbal supporters weer toe AUB!! Wordt dus weer een volle Arena tegen PSV 10 Januari BVD<br> :date: __2020-12-27 02:02:44__
 
-> Dan weet tenminste iets of je in de buurt bent geweest van iemand met corona klachten<br> :date: __2020-12-18 01:15:12__
+> Functioneert goed.<br> :date: __2020-12-26 15:28:30__
 
-> coronamelder vindt ik heel goed moet iedereen hebben op de telefoon<br> :date: __2020-12-17 14:13:32__
+> Ze dachten dat ik ook corona had Maar ik ben gewoon benauwd en verkouden Ben al 4 keer getest op corona NIETS<br> :date: __2020-12-26 13:04:51__
 
-> App werkt goed, is deze ook te gebruiken als registratie van vaccinatie ? Denk er eens over na.<br> :date: __2020-12-17 10:58:36__
+> Heb nog geen ervaringen meegemaakt maar ben blij met de coronamelder<br> :date: __2020-12-26 11:40:08__
 
-> Bleek op 1 december in de beurt van een jonge dame gezeten te hebben met Corona, ik werd die dag toevallig ook getest ( gelukkig negatief)<br> :date: __2020-12-17 09:43:23__
+> Heel erg handig<br> :date: __2020-12-26 10:03:13__
 
-> Okay nu doet de App het. Ik gebruikt eigenlijk alleenmijn mobile netwerk. Moet ik dan de instelling, voor alleen wifi of juist niet, aan of uit zetten? Dat is me niet hetemaal duidelijk.<br> :date: __2020-12-17 01:22:17__
+> Er komen corona besmetten mensen ongevraagd in mijn huis!<br> :date: __2020-12-26 04:39:56__
 
 
 
@@ -168,25 +168,25 @@ The CoronaMelder app has been installed by more than **1000000** times. At this 
 <img src="4_star_reviews_wordcloud.png" alt="nl.rijksoverheid.en 4 reviews"/>
 </p>
 
-> Het is voor ons goed om te weten met wie en waar we mee zijn omgegaan .<br> :date: __2020-12-20 09:43:09__
+> Heel overzichtelijk.<br> :date: __2020-12-28 07:40:46__
 
-> Nuttige toevoeging: iets waaraan je kunt zien dat de app ook werkt. Einde dag bv teller hoeveel anderen ontmoet o i d.<br> :date: __2020-12-20 00:15:41__
+> Ik heb 3 december 2020 een melding gehad van een mogelijke besmetting op 25 november. Dus na 8 dagen. Ik heb me laten testen op 4 december,.om 10.12, omdat ik plasma zou geven op 5 december 14.00. De uitslag was er zaterdag morgen en negatief, dus kon ik in de middag plasma geven. Nu heb ik nog steeds de melding inzake 25 november op mojn app staan Kan een nieuwe melding nu wel binnen komen. Of m oiet ik de oude melding verwijderen.<br> :date: __2020-12-27 09:52:10__
 
-> Deze app werkt goed denk ik want ik krijg nooit geen meldingen. Wel registreert het de telefoons in je directe nabijheid, dit kan je zien in de data (log). Ik zou het fijn vinden indien je de tijd voor melding zelf kan reduceren van minimaal 15 minuten naar slechts 3 minuten of zo. Dan komt er meer in beeld. Nette app on te hebben.<br> :date: __2020-12-19 08:00:25__
+> Ik heb de aap wel maar volgens mij werkt het niet zo goed omdat ik 3 keer in de maand melding kreeg en ik ben 3x ziek geweest maar ik heb laten testen en ik heb geen COVID19 huh? Hoe dan ? kan iemand me uitleggen. @rijksoverheid? Ik nie snap<br> :date: __2020-12-27 00:42:36__
 
-> Wel apart, ik heb corona nu op dit moment maar ik voel amper wat, had het zwaarder verwacht, dan besef ik wel dat er mensen aan overlijden. R.I.P.<br> :date: __2020-12-18 02:29:49__
+> Ik vind prima en handige om zo meld te krijgen<br> :date: __2020-12-24 12:44:28__
 
-> Goede app.<br> :date: __2020-12-17 14:28:26__
+> Prima app. Alleen vraag ik mij af of de informatie bij 'Corona test aanvragen' nog wel actueel is?<br> :date: __2020-12-24 10:46:20__
 
-> Ik heb de corona app al een tijdje geïnstalleerd. Vind het positief. Maar ik begrijp het niet zo goed ivm die code. Laten we zorgen voor elkaar en mogen we gezond blijven. Het is een moeilijke tijd opdit moment maar samen staan we sterk. Hoe werkt dat nu met die code. Vriendelijke groeten.<br> :date: __2020-12-17 02:18:28__
+> BaZWZ<br> :date: __2020-12-23 09:13:15__
 
-> Weet ik nog niet<br> :date: __2020-12-16 21:29:32__
+> Goede app<br> :date: __2020-12-22 13:58:02__
 
-> De batterij problemen lijken opgelost nu. Werkt prima, maar het zou leuk zijn om wat meer gevoel te hebben bij wat er nou gebeurt. Heb ik vandaag bijv andere coronamelder Apps voorbij zien komen? Ik heb nu geen idee wat er gebeurt. Keep up the good work.<br> :date: __2020-12-15 18:35:29__
+> De app werkt keurig en ongemerkt. Jammer dat er bij de melding van een mogelijke besmetting geen preciezer tijdstip wordt aangegeven dan een dag!<br> :date: __2020-12-21 17:31:49__
 
-> Geen ervaringen. Ik heb ook geen idee of de app werkt. Is het misschien een idee om de app af en toe te testen, zoals de maandelijkse test van noidberichten.<br> :date: __2020-12-15 13:41:42__
+> Goede app. Ik zou het fijn vinden als er een tijd meegegeven wordt.<br> :date: __2020-12-21 16:12:53__
 
-> Ik ben er blij mee<br> :date: __2020-12-14 13:40:39__
+> Workrelation<br> :date: __2020-12-21 11:22:04__
 
 
 
@@ -196,25 +196,25 @@ The CoronaMelder app has been installed by more than **1000000** times. At this 
 <img src="3_star_reviews_wordcloud.png" alt="nl.rijksoverheid.en 3 reviews"/>
 </p>
 
+> Ik weet zeker ivm werk, zorg. Dat meerdere collega's positief zijn gebleken achteraf en de app hebben. Dat deze app meerdere keren geen seintje door gaf. Terwijl je op kantoor of pauze toch redelijk dicht bij bent, zelfs langer dan 15 minuten. Dus wat de bedoeling van deze app nu precies is, ik weet het niet. Maar hier vertrouw ik maar niet op.<br> :date: __2020-12-27 11:40:17__
+
+> Minimaal 1x per week melding dat er 24 uur geen detectie plaats kon vinden. Best erg vaak!<br> :date: __2020-12-26 21:42:01__
+
+> Ik krijg een paar keer per week de melding dat de coronamelder 24 uur lang niets kon registreren, terwijl locatie en Bluetooth aanstaan. De app schiet zo wel een beetje zijn doel voorbij.<br> :date: __2020-12-24 08:20:18__
+
+> De app werkt een beetje te goed. Was afgelopen week in de teststraat vanwege een verkouden kind. En moest in de rij staan vanwege een lunchpauze. Kind is gelukkig negatief getest, maar ik kreeg een melding dat ik te lang te dichtbij een covid patient was geweest. Het zou fijn zijn als er aan het begin van de teststraat een waarschuwing komt te staa om de app uit te zetten, en bij de uitgang een waarschuwing om de app aan te zetten. Ik denk dat zoiets een heleboel sores en extra werk zou schelen.<br> :date: __2020-12-23 13:13:41__
+
+> Ik vind het niet leuk dat BT handsfree functie ca. elke minuut wordt onderbroken. Zou leuk zijn als dat niet gebeurt tijdens een mobiel telefoongesprek! Hoe zit dat eigenlijk?<br> :date: __2020-12-23 12:00:15__
+
+> Nooit meldingen<br> :date: __2020-12-22 17:51:19__
+
+> Valt de laatste tijd vaak in de storing waardeloos<br> :date: __2020-12-22 14:50:35__
+
 > App gebruiken prima. Maar er kan nog veel verbeterd worden. Geef er een tijdsindicatie bij, maakt het makkelijker. En beperk de afstand van het contact. (Vb. Voor mijn werk 1,5 mtr afstand gehouden. Maar toch melding krijgen)<br> :date: __2020-12-20 02:34:50__
 
 > Lucht wegen vierde stof<br> :date: __2020-12-18 19:10:01__
 
 > Zeker gebruiken, wat men nu zit te zeuren over privacy... Ik zeg, gezondheid gaat voor privacy... als ik dood ziek ben heb ik niks aan privacy. :) Jammer dat de app niet werkt, ik ben positief getest en dan zal ik verwachten dat mijn vrouw een melding krijgt... niks...null...GGD aan de lijn gehad, deze code door gegeven,..een dag later een melding op der GSM gekregen.<br> :date: __2020-12-18 17:03:54__
-
-> Ik heb nog geen melding gehad. Maar wat als de ander niet deze app heeft gedownload<br> :date: __2020-12-17 21:55:47__
-
-> Buren zijn sinds 15-12 besmet lieten zij ons weten. Ik krijg nu gisteren en vandaag opnieuw een melding. Bluetooth wel degelijk door de muur! Twee telefoons met twee corona apps waar beide in hebben gezet besmet te zijn.<br> :date: __2020-12-17 13:36:17__
-
-> Heb er nog geen ervaring mee, van de ene kant goed, langs de andere kant jammer, jammer vanwege de, denk ik, nodige ervaring.<br> :date: __2020-12-17 10:52:40__
-
-> Ik heb het idee dat deze app nauwelijks werkt. Vaak heb ik geen meldingen. Maar krijg ik wel te horen dat mensen toch positief zijn. Beetje vaag!<br> :date: __2020-12-17 07:26:45__
-
-> App nu voor de derde keer moeten installeren. Het lijkt in eerste instantie goed te werken, maar na een dag of 2 kan ik de app niet meer openen.<br> :date: __2020-12-16 14:34:06__
-
-> @Veronique van der list: het uitroeien van het virus zal (voor zover dit mogelijk is) alleen lukken met behulp van een (goed/effectief werkend) vaccin. Wat deze app betreft: De vele reacties getuigen dat de werking onbetrouwbaar/inconsistent blijkt te zijn. Met het oog op de privacy zet ik ook enkele (grote) vraagtekens. Het is in zekere zin kiezen tussen twee kwaden.<br> :date: __2020-12-16 01:46:11__
-
-> In de testfase (Twente) kreeg ik controlelijsten maar sinds het landelijk is niets meer ontvangen.<br> :date: __2020-12-14 16:29:14__
 
 
 
@@ -224,25 +224,25 @@ The CoronaMelder app has been installed by more than **1000000** times. At this 
 <img src="2_star_reviews_wordcloud.png" alt="nl.rijksoverheid.en 2 reviews"/>
 </p>
 
-> Deze app vind ik fantastisch<br> :date: __2020-12-20 12:21:16__
+> Weinig meerwaarde in een land met alleen maar vrijheden en niet handhaafbare regels. Schijnveiligheid. Regels worden door te veel mensen in de wind geslagen. Hopen tegen beter weten in. Jarenlang in gezondheidszorg gewerkt. Schaarste met een grote S. Daar betalen we nu de prijs voor. We lopen overal achteraan.<br> :date: __2020-12-27 15:55:46__
 
-> Hij stopt er steeds mee heb er niks aan<br> :date: __2020-12-19 20:35:36__
+> Kreeg geen melding, maar bij openen wel een bericht..man ook niet, ook bij openen een bericht dat we in de buurt waren geweest bij iemand die positief getest is.. waarom kan je niet zien waar dat geweest is? Ivm waarschuwen anderen..<br> :date: __2020-12-25 17:36:01__
 
-> Geen melding gekregen, terwijl ik 3 uur in 1 ruimte was met iemand die 1,5 dag later besmet bleek te zijn (wel op gepaste afstand).<br> :date: __2020-12-18 15:17:51__
+> Prima idee, uitvoering laat te wensen over. Binnen 2 weken 2 keer een melding gehad zonder ergens geweest te zijn. Eerste keer netjes in quarantaine, laten testen, negatief. 2e keer was volgens de melder op een van de dagen dat ik in quarantaine zat, en dus netjes op mijn kamer was. Dit soort vals-positieve meldingen helpen niet ter bevordering van het gebruik van de app, dat is gewoon bloedirritant.<br> :date: __2020-12-25 12:44:18__
 
-> Geen bericht ontvangen over blootstelling. Ondanks dat de app dat wel garandeert.<br> :date: __2020-12-18 10:48:43__
+> De app maakt bij ons ook contact door de muur, waardoor ik 3 meldingen kreeg van 3 dagen, nadat de buurman zijn testuitslag had ingevoerd. Terwijl ik al zeker 2 weken geen direct contact met ze had gehad.<br> :date: __2020-12-24 22:52:11__
 
-> Bijzonder dat ik pas na 54 dagen(!!) een melding krijg dat ik meer dan 15 min in contact ben geweest met een persoon die corona heeft (gehad) Niet heel veilig op deze manier<br> :date: __2020-12-18 10:00:11__
+> Niet betrouwbaar. Mijn vrouw werkt continue thuis. Buurman is positief getest en meldt dit in de app. Prompt krijgt mijn vrouw bericht dat ze mogelijk ook getest is!<br> :date: __2020-12-24 22:22:34__
 
-> Buurvrouw heeft corona, ik heb geen contact met haar gehad ( zelfs niet evengezien) kreeg wel een melding dat ik in de buurt ben geweest van een corona besmet persoon. Dit klopt dus niet.<br> :date: __2020-12-17 17:03:27__
+> Ik schreef eerder dat ik geen melding kreeg van de app ondanks blootgesteld te zijn geweest. Ik zal duidelijker zijn: ik bleek blootgesteld te zijn geweest op 10 dec. Ik kijk niet naar de app omdat ik daar las dat ik een melding krijg als ik in de buurt geweest ben van een besmet iemand, net als ik een melding krijg als ik een update moet uitvoeren vsn deze app. Mijn huisgenoot wilde de app zien op 18 december. Pas toen ik de app opende, zag ik de melding dat ik 10 december was blootgesteld.<br> :date: __2020-12-24 19:35:59__
 
-> Heb geen ervaring en die komt als het goed is ook nooit. Wil je een melding krijgen, dan moet een ander die positief getest is door mij gedurende 25 minuten in de buurtzijn. Als getesten zich aan de regels houden kan dit niet gebeuren. Dit geldt ook voor mezelf. Dus nooit een melding!!! Hoe is het onderzoek naar de werking van app, zoals door minister De Jong verlopen.<br> :date: __2020-12-17 14:58:36__
+> Snap er niks van<br> :date: __2020-12-24 00:35:21__
 
-> Verstoort heel erg de connectie met andere bluetooth apparatuur!!<br> :date: __2020-12-13 15:12:05__
+> Na 10 dagen pas een melding gekregen dat ik in de buurt ben geweest bij iemand met het coronavirus. Ik heb zelf geen klachten gehad maar ben mogelijk dus wel een verspreider geweest...<br> :date: __2020-12-23 10:22:20__
 
-> Grootste probleem: GGD vraagt er (vaak) niet naar of je de app hebt bij besmetting. Dan heeft het allemaal geen zin. In mijn kring 5 gerelateerde besmettingen én appgebruikers. Alleen bij mij de app gebruikt, en dat nog omdat ik er zelf over begon tegen de GGD. Toen ging melding oké. Als je hoort dat je ziek bent denk je daar niet gelijk aan. Dit moet beter aan GGD-kant anders heeft dit geen enkele zin..<br> :date: __2020-12-13 07:49:43__
+> De melding is steeds de app werkt al 24 uur NIET. Beter om deze te verwijderen als het toch niet werkt. M.v.g. G.J.klopman<br> :date: __2020-12-23 09:29:43__
 
-> Als je huisgenoot besmet is een je krijgt een melding, dan klopt de informatie over het testen niet. Volgens deze info zou je dan kunnen testen en als dat negatief is gaan en staan waar je wilt, zonder quarantaine.<br> :date: __2020-12-12 09:06:00__
+> Belgie staat niet bij de landen waar de app ook actief voor wordt.Zeer negatief als je in een grensgemeente woont.<br> :date: __2020-12-22 12:38:50__
 
 
 
@@ -252,24 +252,24 @@ The CoronaMelder app has been installed by more than **1000000** times. At this 
 <img src="1_star_reviews_wordcloud.png" alt="nl.rijksoverheid.en 1 reviews"/>
 </p>
 
-> Klote app. Totaal geen functie<br> :date: __2020-12-20 16:16:09__
+> Nederlandse propoganda<br> :date: __2020-12-27 23:24:49__
 
-> App is niet actief te maken. Komt steeds met melding dat google play service moet worden bijgewerkt. De corona helpdesk verwijst dat het probleem bij google ligt.<br> :date: __2020-12-20 12:20:40__
+> Vaak de melding dat de accuoptimalisatie de werking tegen houdt en de app geeft aan niet actief te zijn<br> :date: __2020-12-27 22:25:23__
 
-> Er wordt lijkt mij niets op je telefoon opgeslagen, dus wordt dat centraal opgeslagen, dat betekent ook dat het mogelijk is de data eventueel voor andere doelen te gebruiken. En wellicht zelfs door derden. Dat laatste vind ik niet oké, dus komt niet op mijn telefoon.<br> :date: __2020-12-20 10:25:25__
+> Ik ben met verschillende positieven in contact geweest maar nog nooit een melding gehad....dit kan gewoon niet kloppen<br> :date: __2020-12-27 21:04:10__
 
-> waardeloos app<br> :date: __2020-12-20 08:59:37__
+> Wat verscheutelt gezwets. Een melding dat ik bij iemand in de buurt was, terwijl ik gewoon in bed lig midden in de nacht. Dus hou die onzin lekker bij jullie, het is waardeloze app<br> :date: __2020-12-27 10:01:07__
 
-> mijn telefoon loopt er leeg op en hij piept voor niets als ik alleen loop, weg ermee, waardeloos.<br> :date: __2020-12-20 05:53:18__
+> Steeds niet actief na 24 uur heeft het wel goed gedaan in het begin<br> :date: __2020-12-27 00:36:41__
 
-> Heb je problemen met deze app, verwijder hem dan maar gewoon, dat voorkomt veel frustraties. Eerst heb ik het via zeven reviews geprobeerd, maar daar werken mensen zonder enige kennis van zaken. Ze denken b.v., dat de Playstore een chat-app is, ze stellen meer vragen dan ze antwoorden geven (die ook nergens op slaan). Na 3 mails naar de helpdesk lijkt mijn vraag begrepen en word ik afgepoeierd met de opmerking, dat het doorgegeven wordt aan de ontwikkelaars. Daarna laten ze me gewoon barsten!<br> :date: __2020-12-19 21:16:48__
+> Op 26/12 een melding dat je 13/12 een contact had, in een verpleeghuis NB en dat je tot 24/12 thuis moet blijven....ik zeg er is ruimte voor verbetering 🙈<br> :date: __2020-12-26 21:15:17__
 
-> Na lang wikken en wegen, toch besloten te installeren want alleen Bluetooth aan oké ..Al voor ik zover was moest me locatie aan. Gelijk eraf jammer<br> :date: __2020-12-19 20:41:54__
+> Idk hoe het werkt<br> :date: __2020-12-26 17:44:36__
 
-> Je krijgt dus ook een melding als het iemand in de kamer naast je betreft waarmee je geen contact hebt gehad. Daarnaast staat er geen datum en tijd bij dus ik ook verder niet te herlijden. Voor mij als zorgverlener dus niet handig.<br> :date: __2020-12-19 20:22:12__
+> Op een woensdag ben ik even bij mijn moeder geweest. Zij heeft geen corona en ook geen coronamelder app. Daarna ben ik naar huis gelopen ( alleen) . Op donderdag krijg ik dan een melding van de coronamelder app dat ik mogelijk besmet ben. Aangezien ik verder bij niemand in de buurt ben geweest kan de melding dan ook helemaal niet kloppen Voor deze zekerheid toch een test gedaan ( negatief). Nutteloze app dus die ik maar weer verwijder<br> :date: __2020-12-26 13:24:50__
 
-> Nog nooit een melding gehad terwijl ik in de zorg werk en dit praktisch onmogelijk is omdat wij een aantal besmettingen hebben (gehad) in het verzorgingshuis.<br> :date: __2020-12-19 16:14:48__
+> hoe kan het dat mijn partner de sleutel door geeft aan ggd... ik dus zeker langer dan een kwartier bij hem in de buurt ben geweest. allebei de app hebben en werkend hebben.... ik geen melding krijg🤷🏼‍♀️<br> :date: __2020-12-26 12:36:50__
 
-> Dit is erg vervelend. Deze App doet niet wat hij doen moet of ik maak iets fout omdat er ook geen handleiding erbij is. Zo hoe hij nu ist zinloos.<br> :date: __2020-12-19 00:29:49__
+> Werkt voor geen meter. Heb de app vanaf het begin erop staan en kreeg gisteren (25-12) een melding dat ik op 10 Dec langer dan 15 min in de buurt ben geweest van iemand die positief getest is. Met advies om me te laten testen. Maar als ik voor 21-12 geen tijd had gehad en geen klachten heb dat het testen niet meer nodig is. Ik zeg lekker op tijd. Dit werkt echt om de cijfers naar beneden te krijgen 🙄<br> :date: __2020-12-26 11:48:00__
 
 

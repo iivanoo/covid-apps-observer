@@ -155,6 +155,8 @@ The Sentinel Monitor (COVID-19 Management) app has been installed by more than *
 <img src="5_star_reviews_wordcloud.png" alt="tracker.healthcare.sentinel 5 reviews"/>
 </p>
 
+> Great<br> :date: __2020-12-25 18:17:30__
+
 > Doe exactly what I need!<br> :date: __2020-12-03 04:54:28__
 
 > Very easy to download, what a great way to help insure I can keep track of my Temperature and changes. Thank You Sentinel.<br> :date: __2020-03-12 04:02:10__

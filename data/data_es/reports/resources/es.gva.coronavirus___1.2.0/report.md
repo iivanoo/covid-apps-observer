@@ -181,6 +181,8 @@ The GVA Coronavirus app has been installed by more than **10000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="es.gva.coronavirus 1 reviews"/>
 </p>
 
+> Redundancia<br> :date: __2020-12-22 22:17:57__
+
 > no funciona bien no puedo apuntar los síntomas<br> :date: __2020-11-03 11:11:43__
 
 > No funciona, estará infectada? 😞<br> :date: __2020-11-01 00:12:04__
@@ -198,7 +200,5 @@ The GVA Coronavirus app has been installed by more than **10000** times. At this
 > No funciona, se queda la pantalla en blanco<br> :date: __2020-09-14 12:05:33__
 
 > Imprescindible SIP. :/<br> :date: __2020-09-13 07:01:06__
-
-> Esta aplicación ni tiene sentido si lo tienes SIP. Es la misma historia de siempre en el sentido de que es una guerra entre comunidades. No tiene ningún sentido está app. Espero que instalen la de Radar Covid que es a nivel nacional y dejen de hacer el canelo<br> :date: __2020-09-08 11:20:08__
 
 

@@ -176,6 +176,10 @@ The HowWeFeel: The How We Feel Project app has been installed by more than **100
 <img src="5_star_reviews_wordcloud.png" alt="org.howwefeel 5 reviews"/>
 </p>
 
+> I like checking in<br> :date: __2020-12-23 04:48:36__
+
+> makes my feelings feel valid<br> :date: __2020-12-23 02:01:59__
+
 > Easy to use.<br> :date: __2020-12-13 20:55:44__
 
 > It help me keep a record of how i feel daily<br> :date: __2020-12-05 14:03:55__
@@ -192,10 +196,6 @@ The HowWeFeel: The How We Feel Project app has been installed by more than **100
 
 > I think this app is very useful in helping to save lives. It only takes a sec. Every check in feeds a person in need. Cmon now, stop being lazy. Download the app, stop thinking of your wonderful American life and realize its not 1/4 that good for millions around the globe.....<br> :date: __2020-11-21 23:38:23__
 
-> Its nice to be aware and keep tabs on your mental and physical health.<br> :date: __2020-11-18 23:37:21__
-
-> Good information to have and dhare<br> :date: __2020-11-16 03:59:32__
-
 
 
 #### 4-star reviews
@@ -203,6 +203,8 @@ The HowWeFeel: The How We Feel Project app has been installed by more than **100
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="org.howwefeel 4 reviews"/>
 </p>
+
+> Just answering questions<br> :date: __2020-12-24 23:22:18__
 
 > It was great, but it just froze up on me and I have to reinstall. I will probably have to start over too. Not sure how that helps for COVID...?? Hmmm...<br> :date: __2020-12-14 09:25:34__
 
@@ -221,8 +223,6 @@ The HowWeFeel: The How We Feel Project app has been installed by more than **100
 > Great till recently, now it just crashes on my phone and tablet!<br> :date: __2020-11-01 20:18:47__
 
 > It's super easy, and hopefully helpful during this process<br> :date: __2020-10-29 05:09:47__
-
-> I think it is nice because I am able to think about how I feel and makes me realize that I do have reasons to be hopeful and grateful.<br> :date: __2020-10-14 22:11:58__
 
 
 
@@ -288,6 +288,10 @@ The HowWeFeel: The How We Feel Project app has been installed by more than **100
 <img src="1_star_reviews_wordcloud.png" alt="org.howwefeel 1 reviews"/>
 </p>
 
+> The app stopped working<br> :date: __2020-12-24 23:47:41__
+
+> When I first download this I was super excited to see how this app works. Turns out is does not work at all. When you open the app all it says is app is not responding please open app again or close app. I tried to open the app again and it says the same thing every time. What a waste of time, don't get this app unless you want to waste your time.<br> :date: __2020-12-21 15:13:43__
+
 > The app will not run on my Galaxy S 10+. It cones up and stops within a second or 2. I've uninstalled and reinstalled multple times.<br> :date: __2020-11-30 14:14:54__
 
 > Update sucks, can no longer scroll through numbers from past dates. Numbers for total cases and icu cases are often wrong showing the same digits for both categories.<br> :date: __2020-11-27 07:37:52__
@@ -303,9 +307,5 @@ The HowWeFeel: The How We Feel Project app has been installed by more than **100
 > 10/26/20 Have not been able to open app in weeks. Was really good. Hopefully it will be fixed soon. 11/16/20 app still doesn't open. You are missing a good chunk of reporting by the looks of the recent reviews.<br> :date: __2020-11-16 16:15:39__
 
 > Ever since the last update, I can't use the app. It crashes every time I try to open it<br> :date: __2020-11-14 09:45:23__
-
-> App no longer works. Fix it or take it down<br> :date: __2020-11-13 03:43:18__
-
-> Doesn't even open anymore<br> :date: __2020-11-12 18:27:03__
 
 

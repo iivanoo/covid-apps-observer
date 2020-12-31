@@ -119,6 +119,10 @@ The CONFINAPP app has been installed by more than **10000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="cat.gencat.mobi.confinApp 5 reviews"/>
 </p>
 
+> Genial y molt be pensada felicitats.<br> :date: __2020-12-26 12:36:12__
+
+> instalat i generat un pel dia 26...tot ok<br> :date: __2020-12-23 13:13:01__
+
 > bien rápida<br> :date: __2020-11-27 19:37:49__
 
 > acurada i informada<br> :date: __2020-11-10 09:42:11__
@@ -134,8 +138,6 @@ The CONFINAPP app has been installed by more than **10000** times. At this time,
 > Molt bona<br> :date: __2020-05-04 22:06:55__
 
 > Molt bona<br> :date: __2020-05-03 20:55:06__
-
-> La millor manera per estar informat durant aquest període extraordinari<br> :date: __2020-04-29 00:02:02__
 
 
 
@@ -189,6 +191,10 @@ The CONFINAPP app has been installed by more than **10000** times. At this time,
 <img src="1_star_reviews_wordcloud.png" alt="cat.gencat.mobi.confinApp 1 reviews"/>
 </p>
 
+> No funciona...<br> :date: __2020-12-26 17:46:23__
+
+> No és obligatori, ni surt al DOGC ni enlloc.<br> :date: __2020-12-23 16:14:06__
+
 > La información sobre el confinamiento no se actualiza, sigue saliendo la que se proporcionó a principios de octubre, y a día de hoy a cambiado bastante, ademas de que cuando intento renovar mis certificados me salta error continuamente.<br> :date: __2020-12-20 20:47:59__
 
 > Absurda. Si puedes rellenarlo, también puedes explicarlo si te paran en un control. Lo importante son los documentos sellados y justificantes. Uno puede inventar que va o viene de donde sea.<br> :date: __2020-12-19 00:12:50__
@@ -204,9 +210,5 @@ The CONFINAPP app has been installed by more than **10000** times. At this time,
 > No puedo verla en español<br> :date: __2020-11-03 09:08:33__
 
 > Finciona solo una vez, mala.aplicacion<br> :date: __2020-11-02 09:43:42__
-
-> No consigo nada<br> :date: __2020-11-01 21:30:19__
-
-> No me funciona<br> :date: __2020-11-01 11:50:06__
 
 

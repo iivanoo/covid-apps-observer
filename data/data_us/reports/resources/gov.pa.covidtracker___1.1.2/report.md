@@ -141,25 +141,25 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="gov.pa.covidtracker 5 reviews"/>
 </p>
 
+> Everyone in PA should have this App.<br> :date: __2020-12-28 04:51:45__
+
+> Thanks a lot<br> :date: __2020-12-26 12:04:59__
+
+> Great<br> :date: __2020-12-25 05:02:03__
+
+> Extremely well executed and unobtrusive<br> :date: __2020-12-24 21:28:17__
+
+> THANK YOU<br> :date: __2020-12-23 17:31:54__
+
+> So easy, why not use it<br> :date: __2020-12-22 23:45:29__
+
+> All good<br> :date: __2020-12-22 23:20:41__
+
+> Excellent<br> :date: __2020-12-22 01:11:49__
+
 > Good<br> :date: __2020-12-19 15:08:19__
 
 > Everyone should use this app. It's easy to use to check in your health symptoms. I have experienced no battery drain on my phone. The battery use is less then 1 minute today and only 0.1% of my total battery use since last charge. So far no exposure notifications and I hope it stays that way.<br> :date: __2020-12-18 21:00:03__
-
-> It was good<br> :date: __2020-12-17 15:28:41__
-
-> It's a good way to keep up to date with what's going on with the virus.<br> :date: __2020-12-16 21:40:53__
-
-> Very well designed with data clearly organized and available for the user.<br> :date: __2020-12-16 08:59:07__
-
-> Reassuring that we are helping each other avoid and fight this danger<br> :date: __2020-12-13 09:36:58__
-
-> Easy to use. I like the county breakdowns. It should have a back button on the symptom checklist, though. The one day I missed checking a symptom on the first list page and couldn't go back from the second page to check it. I wish everyone was using this.<br> :date: __2020-12-13 03:11:21__
-
-> Great for tracking WHAT IDIOTS are being stupid about NOT USING MASKS..<br> :date: __2020-12-13 02:46:20__
-
-> User experience and layout is great! I think having the app is a safe way of helping to slow the spread.<br> :date: __2020-12-12 05:27:43__
-
-> Let's see how well this works till another pandemic plagues pledge on human resources and lives.<br> :date: __2020-12-11 19:06:10__
 
 
 
@@ -168,6 +168,10 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="gov.pa.covidtracker 4 reviews"/>
 </p>
+
+> Good idea!<br> :date: __2020-12-23 02:40:26__
+
+> I'm not so sure? But, it seems alright anyway.<br> :date: __2020-12-22 07:43:39__
 
 > I don't want to be tracked! Just wanted updated information on covid19 well thanks for reply✌<br> :date: __2020-12-20 08:45:29__
 
@@ -184,10 +188,6 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 > There is a lot of information to read, but the details are essential to our/my life! Thank you so very much for the info that is helping us. Amen<br> :date: __2020-12-03 15:19:42__
 
 > Unsure about first alert and no additional information provided that I could see<br> :date: __2020-12-03 14:09:43__
-
-> I like this App and think it's an excellent idea. My issue is that it requires bluetooth to run constantly and that really takes a toll on device battery life. If your phone dies or power is very low, you can't use the app. Try to make this more device resource friendly. I can imagine some devices losing power rather quickly as a result of keeping bluetooth on for long periods of time, and most people will use this when they are on the go and charging is limited. *Show check count - main page<br> :date: __2020-12-03 13:11:18__
-
-> I am grateful to have them available to get the latest information on this awful virus!! I THINK the news they have been giving has so far been on target, based on what I see on the news. BUT, I don't think it's a great idea to read more than ~ for me, a few times a week. I can't speak for anyone else.<br> :date: __2020-12-02 03:13:21__
 
 
 
@@ -225,6 +225,10 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 <img src="2_star_reviews_wordcloud.png" alt="gov.pa.covidtracker 2 reviews"/>
 </p>
 
+> Since the last update they took off the daily death count. They only tell you the total death count up to the current date. Because of this the app doesn't exactly tell you the whole situation currently. In begining I actually liked the way app, but since of the many changes that isn't the case anymore. I feel as if they are trying to hide the real truth to the situation & that isn't a good thing at all.<br> :date: __2020-12-23 20:53:01__
+
+> Who knows if it's actually useful? It does nothing hurtful. My latest annoyance.<br> :date: __2020-12-21 10:23:42__
+
 > The info on it is useful. But the app itself seems to shut off my Bluetooth on its own. After downloading the app my Bluetooth never stays on. I Uninstalled the app yesterday and my Bluetooth stays on. I use my Bluetooth for other things, so I can't use the app until they fix that.<br> :date: __2020-12-08 20:10:14__
 
 > Doesn't really help After testing positive, i never received my 6 digit code. So I'm sure the alerts are inaccurate<br> :date: __2020-11-29 14:49:09__
@@ -241,10 +245,6 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 
 > Tried this app for less than few weeks or so, often question of how it can actually sense if I have been exposed to someone tested positive covid 19 just by bluetooth and location services ? With having app on and running constantly, considerably drains my battery with having both location on and bluetooth on all the time. How reliable is this app when I'm not always connected to internet or have available cellular data? I don't have unlimited cellular data plan, makes hard for app to work<br> :date: __2020-10-31 03:33:27__
 
-> There are no notifications of other people.or places near by<br> :date: __2020-10-30 03:22:19__
-
-> This app only works if people report their symptoms. So if no one does then you know if you've come in contact with anyone with the Chinese virus.<br> :date: __2020-10-26 18:36:59__
-
 
 
 #### 1-star reviews
@@ -253,6 +253,18 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="gov.pa.covidtracker 1 reviews"/>
 </p>
 
+> Good idea, but just doesn't work. I have covid but I apparently need a code to enter (that I'll apparently get in a phonecall from PA DoH) that I haven't gotten. So, everyday I can enter my symptoms, but can't alert people I have covid. My significant other also has covid and the app and deals with same issue. We literally live under the same roof and haven't been warned about close contact with someone with Covid. What a joke.<br> :date: __2020-12-27 01:04:25__
+
+> Scans contacts and Bluetooth to track and count other people around you to find people who violate the unconstitutional gathering limits mandate by gov wolf.<br> :date: __2020-12-26 02:47:16__
+
+> Remove this app if you are experiencing distortion when connected via bluetooth to your car. Awful app that caused so much distortion when talking on the phone when connected to my car or any bluetooth speaker.<br> :date: __2020-12-23 23:09:37__
+
+> It does not even work I'm Also being told That our State Govrment Can spy through this app since this app came out I feel good With all my symptoms<br> :date: __2020-12-23 00:55:46__
+
+> Not helpful in anyway<br> :date: __2020-12-21 21:20:59__
+
+> Since I never received a call from the department of health when I tested positive to contact trace and give me the code to input in the app, this is a useless battery drainer.<br> :date: __2020-12-20 23:05:30__
+
 > We need help to stop those people who have been involved with this issue<br> :date: __2020-12-17 02:29:28__
 
 > I ACTUALLY WORK IN THE RED ZONE.. AND NOT ONE TIME HAVE I BEEN ALERTED...<br> :date: __2020-12-14 17:50:49__
@@ -260,17 +272,5 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 > Fake just makes up number s that are not true it needs location they say it does not track you then y you need location?<br> :date: __2020-12-14 17:45:08__
 
 > App drains my phone battery really fast. I had to uninstall it.<br> :date: __2020-12-13 12:21:18__
-
-> Its just a buch of made up nubers and it trakes you do you self a fever and dont waste the space on your phone it just gives you not real nubers and states<br> :date: __2020-12-11 00:52:52__
-
-> Not updated enough to be useful<br> :date: __2020-12-10 15:06:16__
-
-> Doesn't work on rooted phones. Developer cares more about the health of my phone than covid.<br> :date: __2020-12-09 23:23:12__
-
-> Biggest political scam in history! #ScamDemic2020<br> :date: __2020-12-09 02:31:28__
-
-> It is a waste of time, false data.<br> :date: __2020-12-08 06:06:17__
-
-> I can't believe the amount of people that are this stupid....<br> :date: __2020-12-07 20:52:05__
 
 

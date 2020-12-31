@@ -219,6 +219,8 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 <img src="3_star_reviews_wordcloud.png" alt="gov.fema.mobile.android 3 reviews"/>
 </p>
 
+> Not as helpful as before<br> :date: __2020-12-28 07:32:52__
+
 > They did not explain what she was asking me about and was real short with me . To me she was rude but I need my house fixed not TVs or other stuff like that but thank you for what you did do.<br> :date: __2020-10-26 19:49:29__
 
 > Also I build homeless shelters and I think this would be the place to add my location make it official<br> :date: __2020-10-06 07:13:34__
@@ -236,8 +238,6 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 > No notification alarm!!<br> :date: __2020-08-13 18:12:50__
 
 > where's the warnings I used to get<br> :date: __2020-06-24 02:29:53__
-
-> The back button does not exit the app.<br> :date: __2020-06-09 16:17:55__
 
 
 

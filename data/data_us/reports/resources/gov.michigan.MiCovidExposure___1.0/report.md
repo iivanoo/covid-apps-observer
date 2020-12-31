@@ -126,9 +126,15 @@ The MI COVID Alert app has been installed by more than **1000** times. At this t
 <img src="5_star_reviews_wordcloud.png" alt="gov.michigan.MiCovidExposure 5 reviews"/>
 </p>
 
-> Seems to do the basic job it's supposed to do.<br> :date: __2020-12-19 21:35:16__
+> Everybody should get this app so all of us can be safe and healthy so please use the app<br> :date: __2020-12-26 00:59:02__
 
-> I like it but I can't get a home screen button.<br> :date: __2020-12-14 21:35:33__
+> Just use the app<br> :date: __2020-12-24 07:21:40__
+
+> Excellent app, easy to understand, I recommend it. I think it is a good idea. (By the way, no Covid-19 here).<br> :date: __2020-12-24 02:27:46__
+
+> GREAT!!!!!!!<br> :date: __2020-12-21 19:27:07__
+
+> Seems to do the basic job it's supposed to do.<br> :date: __2020-12-19 21:35:16__
 
 > They let YOU KNOW exactily what is what about this chinese epidemic-19.<br> :date: __2020-12-13 02:49:59__
 
@@ -140,12 +146,6 @@ The MI COVID Alert app has been installed by more than **1000** times. At this t
 
 > Really simple, if it saves one person it was worth it. It will probably save more! Great job, and I'm glad the racial bias data is available too. Good job Gretchen/All!<br> :date: __2020-12-09 04:46:36__
 
-> I can't wait to open this app to see what its all about<br> :date: __2020-12-08 10:45:53__
-
-> This is a cool app I just installed it, this will be a useful tool to stay safe!<br> :date: __2020-12-08 07:45:19__
-
-> This is very vital to me because I need to know what's going on out in the world because of what I do for a living. I help manufacture bumpers and ship them out all throughout the world here in Ionia Michigan. Thank you again. Godspeed<br> :date: __2020-11-29 20:48:25__
-
 
 
 #### 4-star reviews
@@ -153,6 +153,8 @@ The MI COVID Alert app has been installed by more than **1000** times. At this t
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="gov.michigan.MiCovidExposure 4 reviews"/>
 </p>
+
+> I give it 4 stars needs improvement . but still great app.<br> :date: __2020-12-22 15:38:23__
 
 > For the first ten days I had this installed Exposures were checked 2 - 3 times each day. As of this review, the last time Exposures were checked was four days ago. I've verified all settings on the phone as directed by the app. I've force stopped and restarted the app. Nothing seems to get it to begin checking exposures again. If not checking for exposures, what is the purpose of the app? Update:. Oddly shortly after posting the above, the app started updating exposures at least twice daily.<br> :date: __2020-12-16 23:05:53__
 
@@ -171,8 +173,6 @@ The MI COVID Alert app has been installed by more than **1000** times. At this t
 > Way to late and unlikely to work universally (eg. with folks from out of state) but it's better than the nothing burger we've had so far. Would be nice if it gave you an idea of how many contacts it recorded (Inna privacy preserving way) to let us know the adoption rate around us.<br> :date: __2020-11-17 03:59:58__
 
 > Its a good way to b notifield about the virus<br> :date: __2020-11-14 23:32:03__
-
-> Remove stats tab. Why isn't this for any infectious disease.<br> :date: __2020-11-14 00:37:30__
 
 
 
@@ -238,7 +238,13 @@ The MI COVID Alert app has been installed by more than **1000** times. At this t
 <img src="1_star_reviews_wordcloud.png" alt="gov.michigan.MiCovidExposure 1 reviews"/>
 </p>
 
-> These need a way to see if anyone else even uses the app in your area. There should be an anonymous way to list number of users in your country or neighborhood or something. I'm not keeping it since there is zero way to tell if if would even work anyway.<br> :date: __2020-12-20 02:14:54__
+> Can't see statistics. Causes issues with phone crashing, long lag, frequently disconnects wifi and 4g, random call noise. Do not install. Worthless<br> :date: __2020-12-24 07:32:10__
+
+> App is a fraud does not alert you covid exposures.<br> :date: __2020-12-24 01:48:06__
+
+> Never got id # to input. 3 pos. 🤷🏽‍♂️<br> :date: __2020-12-22 09:51:18__
+
+> These need a way to see if anyone else even uses the app in your area. There should be an anonymous way to list number of users in your country or neighborhood or something. I'm not keeping it since there is zero way to tell if if would even work anyway. *Worthless dev response as per usual.<br> :date: __2020-12-21 18:58:20__
 
 > A great idea if it actually worked...<br> :date: __2020-12-19 16:51:14__
 
@@ -251,11 +257,5 @@ The MI COVID Alert app has been installed by more than **1000** times. At this t
 > Absolutely USELESS. I HAVE COVID and there has been ZERO effort by local or state bodies to issue me a PIN number to report my positive results to the app.<br> :date: __2020-12-14 23:14:10__
 
 > The family next door (3 people) contracted covid. No noticafication.<br> :date: __2020-12-14 21:32:19__
-
-> This apparent doesnt update the current numbers<br> :date: __2020-12-13 12:53:54__
-
-> My grandson tested positive. I gave him my phone. Alarm never went off.<br> :date: __2020-12-13 02:25:46__
-
-> Lmao, if yall think I'm going to give this app the permissions its asking for, you have a screw loose. This app wants full network access... why? To send a few bytes of data? You don't need full access for that. Limited is just find. Stop taking the lazy way out of developing and actually limit the accesses, so we aren't opened up to cyber attacks and hacking and tracking. Updated response: You can't even respond properly to what said. My point stands.<br> :date: __2020-12-11 21:03:12__
 
 

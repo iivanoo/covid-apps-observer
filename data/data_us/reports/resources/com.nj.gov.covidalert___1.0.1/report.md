@@ -145,6 +145,14 @@ The COVID Alert NJ app has been installed by more than **100000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="com.nj.gov.covidalert 5 reviews"/>
 </p>
 
+> Great<br> :date: __2020-12-26 05:17:55__
+
+> I feel like if more people used this app it could help in lowering the cases in NJ. So the app senses if you come in contact with somebody that has covid. I have not ever been contacted so I'm not really sure if enough ppl are using the app or if I have been really lucky. Im pretty sure more people need to have the app in order for it to make a difference.<br> :date: __2020-12-25 05:38:20__
+
+> A should have app.<br> :date: __2020-12-25 01:15:08__
+
+> It a very good app very good<br> :date: __2020-12-22 22:40:24__
+
 > Very good and trusted experience with google products!!!!!!<br> :date: __2020-12-20 07:27:48__
 
 > Not everyone believe in this.<br> :date: __2020-12-19 17:23:56__
@@ -157,14 +165,6 @@ The COVID Alert NJ app has been installed by more than **100000** times. At this
 
 > Nce<br> :date: __2020-12-09 01:06:17__
 
-> Great.......<br> :date: __2020-12-08 21:54:56__
-
-> Awsome app-helps public health contact tracing with real time alerts.<br> :date: __2020-12-06 23:36:19__
-
-> Great Health Emergency APP! My family and I downloaded immediately without hesitation! The DOH & our Governor want to save our lives! It's so easy to use and informative! You can simply set up a reminder and it only takes 15 seconds to check in! I truly believe if more NJ peeps downloaded this easy tool & join the fight, it could save lives & give additional information to our caring DOH department!! ❤<br> :date: __2020-11-26 19:37:27__
-
-> Very helpful app<br> :date: __2020-11-25 05:06:53__
-
 
 
 #### 4-star reviews
@@ -172,6 +172,8 @@ The COVID Alert NJ app has been installed by more than **100000** times. At this
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.nj.gov.covidalert 4 reviews"/>
 </p>
+
+> Need to have an option to change the "How are you feeling?" response for when you select the incorrect response by mistake.<br> :date: __2020-12-26 19:43:12__
 
 > Optimistic about the potential.<br> :date: __2020-12-12 17:22:21__
 
@@ -190,8 +192,6 @@ The COVID Alert NJ app has been installed by more than **100000** times. At this
 > I just downloaded app cant give any feed back at this time. Thanks<br> :date: __2020-10-12 01:03:37__
 
 > I'm not sure I understand how it works re. sharing the positive result so other people can be alerted. I read the app info /learn how it works several times so I must be missing something. Is the assumption that the person go anywhere to take a C19 test and wait for a representative to call them? If so, how would the representative know that you tested positive?<br> :date: __2020-10-11 22:01:49__
-
-> I keep getting error after I click continue. It says Sorry that didn't work properly (error code 1002).<br> :date: __2020-10-09 17:18:05__
 
 
 
@@ -257,6 +257,12 @@ The COVID Alert NJ app has been installed by more than **100000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="com.nj.gov.covidalert 1 reviews"/>
 </p>
 
+> Absolutely worthless. Contracted covid from a person that contracted covid while in hospital. The contact tracer was not able to get the 6 digit code I needed for the app. Also Drs are refusing to test likely positive people. There's no way to use the app as intended without a test or a code, don't bother with the invasion of privacy.<br> :date: __2020-12-26 07:40:54__
+
+> Your "ENABLE EXPOSURE ALERT" button has not worked since its launch. Gone into settings > exposure alert > enable and NOTHING. Have an Android phone but know of iPhone users with the same problem. Located in Morris County, NJ. PLEASE FIX THIS!!<br> :date: __2020-12-22 14:24:30__
+
+> Not very helpful. I've NEVER been alerted of being or coming into contact with someone whose known to have covid19. This app is just an invasion of my privacy!<br> :date: __2020-12-21 21:53:27__
+
 > When the Middlesex Co health dept called me 6 days after my + test, the woman I spoke with knew about the app, but knew nothing about giving me a 6 digit verification code. If it's not her job to give it out (as the app says it is), then whose it is? This app isn't working the way it claims to be. If people can't tell the app they're + then no close contacts are being alerted through the app. Why does the health dept (at least Middlesex Co) not know to give out this code?<br> :date: __2020-12-12 08:37:45__
 
 > Doesn't do anything useful.<br> :date: __2020-12-12 06:23:25__
@@ -270,11 +276,5 @@ The COVID Alert NJ app has been installed by more than **100000** times. At this
 > It keeps freezing after verifying my age. Still not working for me. I have a galaxy 8+.<br> :date: __2020-12-02 01:05:58__
 
 > I don't have Covid yet... But this app seems to assume everyone has COVID, and don't have COVID was not an option... So how is this going to help me as a doctor who comes in contact with patients daily....<br> :date: __2020-11-26 17:17:20__
-
-> Does not work. Good idea but shame on NJ for not developing it right so it works. This could really keep people safe if they did it right. Dissapointing but thats no surprise given our government and the state of the world.<br> :date: __2020-11-26 05:54:06__
-
-> I haven't seen anyone reported positive yet.<br> :date: __2020-11-22 01:11:15__
-
-> Not very useful.: 1. You must have and utilize a smart phone 2. You must have it activated 3. You must report your status daily 4. You must be in close contact with an infected person for too long and they must have reported they have symptons 5. Will it be compatable with apps from other states<br> :date: __2020-11-17 14:16:13__
 
 

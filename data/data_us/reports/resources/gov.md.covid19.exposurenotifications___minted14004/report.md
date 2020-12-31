@@ -129,7 +129,11 @@ The MD COVID Alert app has been installed by more than **100000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="gov.md.covid19.exposurenotifications 5 reviews"/>
 </p>
 
-> I think this was an excellent idea.<br> :date: __2020-12-17 19:49:21__
+> Glad it's on here<br> :date: __2020-12-26 02:31:39__
+
+> The app is ok good if used properly & commonly and frequently<br> :date: __2020-12-24 09:59:58__
+
+> Thanks MD Dept of Health! I'll take all the layers I can get.<br> :date: __2020-12-21 19:21:28__
 
 > Good idea. I wish more would enroll<br> :date: __2020-12-16 04:42:57__
 
@@ -144,10 +148,6 @@ The MD COVID Alert app has been installed by more than **100000** times. At this
 > Great app. Does not kill battery or face location. Please don't listen to the dumb conspiracy people. Everyone in MD should have this on their phone so we can get a control over the now uncontrolled virus.<br> :date: __2020-12-06 13:55:00__
 
 > EXCELLENT!<br> :date: __2020-12-06 08:01:07__
-
-> Apps like these save lives. I am blessed to live in Maryland.<br> :date: __2020-11-28 23:35:26__
-
-> Very easy to use, nice privacy guarantee<br> :date: __2020-11-28 17:30:51__
 
 
 
@@ -205,6 +205,8 @@ The MD COVID Alert app has been installed by more than **100000** times. At this
 <img src="2_star_reviews_wordcloud.png" alt="gov.md.covid19.exposurenotifications 2 reviews"/>
 </p>
 
+> Very basic and not helpful, not as good as the PA state app. MD needs to up their game and show they're serious about getting us to use the app. The app directs us to the MD Dept of Health app which is not very user friendly on mobile devices. In comparison the PA app contains statistics by county, helps you determine if you need a test based on your symptoms, and how to report positive results. MD needs to include the same options.<br> :date: __2020-12-25 17:57:58__
+
 > Installation hung, had to reinstall. though feedback is mentioned, no feedback method built into app. to save power would be nice to be able to turn off when at home location where no visitors or exposure is possible. just installed so may be more feedback later, but no method within app.<br> :date: __2020-12-17 15:31:22__
 
 > desnt work<br> :date: __2020-12-17 08:29:56__
@@ -223,8 +225,6 @@ The MD COVID Alert app has been installed by more than **100000** times. At this
 
 > I had this downloaded for about 2 weeks and this phone has not gone off , I go out to work every day, go to Walmart and crafts store, now I know this should have at least gone off by now.<br> :date: __2020-11-21 16:47:11__
 
-> Installed. Then my battery started draining way faster than usual. Uninstalled. I will update my review when I see if the battery drain goes away or not.<br> :date: __2020-11-17 22:37:58__
-
 
 
 #### 1-star reviews
@@ -232,6 +232,12 @@ The MD COVID Alert app has been installed by more than **100000** times. At this
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="gov.md.covid19.exposurenotifications 1 reviews"/>
 </p>
+
+> Doesn't work.<br> :date: __2020-12-26 14:50:18__
+
+> I've been exposed on two occasions. It never notified me. The covid contact tracers also called 3 days late. It's pointless.<br> :date: __2020-12-23 16:07:34__
+
+> Power hog<br> :date: __2020-12-22 23:21:05__
 
 > Arrogant and ignorant for each state to release their own app, as if people can't travel or even commute daily over state borders. You can only run one of these apps at a time. Even if you switch between apps, the contacts are only registered for people who run the same app.<br> :date: __2020-12-19 16:37:42__
 
@@ -246,11 +252,5 @@ The MD COVID Alert app has been installed by more than **100000** times. At this
 > It is taking so long for me to get my test results that by the time I get them this app will have forgotten everyone I came in contact with.<br> :date: __2020-12-11 18:13:18__
 
 > I tested positive for covid and I can't get the alert to activate in the app. It asks for a one time verification code but there is no information on where I get this code. I am finding this app useless.<br> :date: __2020-12-06 19:20:45__
-
-> Won't let me turn it on. Keeps saying "Something went wrong. Try again."<br> :date: __2020-12-05 19:52:41__
-
-> Cannot turn on exposure notifications<br> :date: __2020-12-05 14:52:20__
-
-> Won't allow user to turn on exposure notification. Just receive error messages<br> :date: __2020-11-29 05:31:35__
 
 

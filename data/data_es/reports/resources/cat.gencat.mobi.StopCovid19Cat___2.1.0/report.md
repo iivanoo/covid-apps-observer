@@ -132,6 +132,10 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 <img src="5_star_reviews_wordcloud.png" alt="cat.gencat.mobi.StopCovid19Cat 5 reviews"/>
 </p>
 
+> Molt bona app<br> :date: __2020-12-23 17:31:12__
+
+> Tenia un problema i me llamaron enseguida<br> :date: __2020-12-23 10:38:17__
+
 > Creo que puede ser muy útil.<br> :date: __2020-11-06 15:34:14__
 
 > Es fácil de entender<br> :date: __2020-09-15 15:09:16__
@@ -147,10 +151,6 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 > Ningun problema de conecsion<br> :date: __2020-06-21 16:11:09__
 
 > Bién<br> :date: __2020-06-18 08:42:42__
-
-> Buena<br> :date: __2020-06-17 10:03:23__
-
-> Ja torna a funcionar, moltes gràcies, per la vostre resposta.<br> :date: __2020-06-14 21:29:30__
 
 
 
@@ -244,6 +244,8 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 <img src="1_star_reviews_wordcloud.png" alt="cat.gencat.mobi.StopCovid19Cat 1 reviews"/>
 </p>
 
+> He dado positivo. Hago el test para informarlo. Pongo los síntomas. Fiebre tos dificultad para respirar, dolor de cabeza. Malestar. El resultado es: no tienes síntomas , pero no te confíes.<br> :date: __2020-12-24 15:17:35__
+
 > La primera vez he logrado llegar al paso de recibir el codigo por Sms, lo he puesto pero de allí no se mueve, la segunda vez ya ni he podido intentar enviar el SMS, por mucho que apretaba no pasaba nada. Así no me extraña que no se puedan contabilizar los casos, si no funciona una simple aplicación, que se puede esperar de situaciones más complejas?<br> :date: __2020-12-16 14:56:06__
 
 > Borrar esta app, es vergonzosa. Despedir al jefe.<br> :date: __2020-12-14 12:16:10__
@@ -261,7 +263,5 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 > No se si soy o no positivo pero lo que si sé es que mi compañera de trabajo dio positivo en covid19 y yo estado con ella en contacto como muchos más compañeros y estamos esperando que los rastreadores nos llamen eso sí yo tengo que ir ha trabajar como mis otras compañeras hasta que no nos llamen los rastreadores y si yo soy asintomático como mi compañera que dio positivo y trabajamos ha menos de medio metros junto ha otras 8 o 9 personas más no sé yo si está app es fiable<br> :date: __2020-11-08 17:31:44__
 
 > Vaya test, faltaria preguntar a parte denlos sintomas, si has estado el contacto con personas infectadas, pero bueno a que extrañarse, o61, nefasto, llamadas al cap no hacen ni caso, en fin asi nos va<br> :date: __2020-11-02 10:04:12__
-
-> No he sido capaz de activar esta aplicación cuando pongo el código que me envían se bloquea y no se puede seguir, arregle la por favor, no nos pidan que colaboremos si nos lo ponen tan difícil<br> :date: __2020-10-30 11:58:30__
 
 

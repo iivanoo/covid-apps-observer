@@ -1,5 +1,17 @@
 [
     {
+        "reviewId": "gp:AOqpTOGZThHE7fzvrQllcEqGkeAuq50j5rWUFYsHv3nStZmhqUkIHmlE1u_J7wW4M--RhnbaylF9hvoRki8kuw",
+        "userName": "\u042e\u0440\u0438\u0439 \u0411\u0435\u043b\u043e\u0448\u0430\u043f\u043a\u0430",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjMWsgyeeFVIiHpdiTDoDWlCMxoRsuv2irj4bLY",
+        "content": "\u041f\u0440\u043e\u0438\u0437\u043e\u0448\u043b\u0430 \u043e\u0448\u0438\u0431\u043a\u0430 \u043f\u0440\u0438 \u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u0438.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.3",
+        "at": "2020-12-25 05:30:56",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOGSplPJZmmxhj_dPD3NEANnmk4BX_TLNWituhRMIu6LWrTqXYe20U7lYl6PBIJbW9MQrhXn2bQa28Tl9A",
         "userName": "Skyfl/ \u0431\u043b\u043e\u0433 \u0441\u043a\u0430\u0439\u0444\u043b\u0430",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgJ7BoDsVw_b1TUMGmqJRk_TzmkXLG-hnruLY3e",
@@ -41,7 +53,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-DuwVY5lgxcc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucko48NUo_GLg4cRu8i9LCIjesXeTQ/photo.jpg",
         "content": "\u041d\u0435 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e \u0437\u0430\u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0438\u0440\u043e\u0432\u0430\u0442\u044c\u0441\u044f, \u043d\u0435 \u0440\u0430\u0431\u043e\u0442\u0430\u0435\u0442, \u0432\u0441\u0435 \u0432\u0440\u0435\u043c\u044f \u043e\u0448\u0438\u0431\u043a\u0430",
         "score": 2,
-        "thumbsUpCount": 4,
+        "thumbsUpCount": 5,
         "reviewCreatedVersion": "1.3",
         "at": "2020-11-25 11:08:32",
         "replyContent": null,

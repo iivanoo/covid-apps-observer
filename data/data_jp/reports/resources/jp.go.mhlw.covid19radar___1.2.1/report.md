@@ -231,6 +231,8 @@ The COCOA - COVID-19 Contact App app has been installed by more than **5000000**
 <img src="1_star_reviews_wordcloud.png" alt="jp.go.mhlw.covid19radar 1 reviews"/>
 </p>
 
+> cant register.. after click accept t&c network error pop out.. dont have problem with my network..<br> :date: __2020-12-25 07:01:39__
+
 > Every time I try to install this app it's shows network connection problem please fix this problem<br> :date: __2020-12-16 04:39:55__
 
 > ごみ<br> :date: __2020-12-13 13:06:48__
@@ -248,7 +250,5 @@ The COCOA - COVID-19 Contact App app has been installed by more than **5000000**
 > This app never checks in the background. You need to open it yourself regularly to get notified (look in Google settings to see the history of checks, you can see that it's not checking). このアプリは自動チェックしませんせんです。ユーザーが開かないとつうしんを出さない。<br> :date: __2020-09-30 04:22:58__
 
 > I can't register. It says "network connection error"<br> :date: __2020-09-15 23:34:28__
-
-> 死値率1%以下に見せているが実態は保健所の検査拒否のため感染数もいい加減 これを使っても自身を守る事にはならない これは既得権階級層の人間が危険回避するための情報収集に過ぎない 健康保険料を払っても検査もしない 詐欺行為<br> :date: __2020-09-12 07:19:02__
 
 

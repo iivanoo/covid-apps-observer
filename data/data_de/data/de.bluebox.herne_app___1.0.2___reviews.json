@@ -1,5 +1,29 @@
 [
     {
+        "reviewId": "gp:AOqpTOGRHG9Qymka8kA3pqxQvwQzr2P3oh3cOTBqeoBQ5PUOwLgd61rELWgbpEwM4ipek3r8JEXgOVo1qT5TMg",
+        "userName": "AHYO",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhScGW4Cn-rAZ1vkGZUzJZ2ZxPohjkdWABfriufkg",
+        "content": "Ist die App noch schlechter geworden? Abfallkalender garnicht erreichbar und so... Schade das man sich nicht um die App k\u00fcmmert.",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.0.2",
+        "at": "2020-12-27 22:18:03",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGFccvuYsYEiFObW1gygm_w_pZpkXdBW8G3k5xWsLzuAwdizRuoHHEpsaiIRdIQOEwU0R4b3lVeM4ndkQ",
+        "userName": "Annelie A\u00dfenmacher",
+        "userImage": "https://play-lh.googleusercontent.com/-F8c_jJUw4RU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnKT5oxQpJsyfR33UDbKZ3SpLk3Dw/photo.jpg",
+        "content": "Es werde Fotos gemacht, die man dann nicht weiterleiten kann.",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.0.2",
+        "at": "2020-12-25 13:53:24",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOHVEOo7XI11qv3Dhfdh4KnPDAQpaifrAG4srhMaBJ32BnzoNAfv2nCTd0kJRFgF5lKMJOTgw37f_ffR7A",
         "userName": "Ingo Lindenblatt",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhuCXe83sLmwOOR17G8b4thgR4bcgwK5JbCHxOY7Q",
@@ -89,7 +113,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-o3FcGeaJGgk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl4DSdjzmVxGeBwgdvEFnw4lfQKgA/photo.jpg",
         "content": "Grunds\u00e4tzlich lobenswert, wenn eine Stadt eine eigene App zur Verf\u00fcgung stellt. Ein Darkmode fehlt mir pers\u00f6nlich, da dieser akkuschonend ist. Ausserdem st\u00fctzt die App auf meinem S7 (Android 8) beim Aufruf von Veranstaltungen nach der Auswahl des Zeitraumes immer ab. Kinderkrankheiten halt, die viele Apps am Anfang haben. Die Weiterleitung zu externen Seiten finde ich gut, da dies die App nicht unn\u00f6tig aufbl\u00e4ht. F\u00fcr den Abfallkalender gibt's von Entsorgung Herne \u00fcbrigens ne eigene App.\ud83d\ude09",
         "score": 4,
-        "thumbsUpCount": 1,
+        "thumbsUpCount": 2,
         "reviewCreatedVersion": "1.0.2",
         "at": "2020-07-30 15:27:52",
         "replyContent": null,
@@ -166,17 +190,5 @@
         "at": "2020-04-18 12:12:03",
         "replyContent": "Danke f\u00fcr Ihr ehrliches Feedback. Bitte haben Sie noch ein wenig Geduld, wir arbeiten mit Hochtouren an der stetigen Verbesserung der App und im optimierten Zusammenspiel mit den externen Angeboten.",
         "repliedAt": "2020-04-21 16:19:45"
-    },
-    {
-        "reviewId": "gp:AOqpTOGRHG9Qymka8kA3pqxQvwQzr2P3oh3cOTBqeoBQ5PUOwLgd61rELWgbpEwM4ipek3r8JEXgOVo1qT5TMg",
-        "userName": "AHYO",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhScGW4Cn-rAZ1vkGZUzJZ2ZxPohjkdWABfriufkg",
-        "content": "Kleinere Entwicklungs Fehler wie das der Abfallkalender nicht gezoomt werden kann. Aber an sich eine gute App. Hoffe sie war nicht zu teuer?",
-        "score": 4,
-        "thumbsUpCount": 3,
-        "reviewCreatedVersion": "1.0.1",
-        "at": "2020-04-17 20:16:43",
-        "replyContent": "Wir freuen uns \u00fcber Ihre Zustimmung, trotz des wirklich \u00e4rgerlichen Zoomfehlers beim Abfallkalender. Wir arbeiten an einer L\u00f6sung.",
-        "repliedAt": "2020-04-21 16:22:53"
     }
 ]

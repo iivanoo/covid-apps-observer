@@ -1,5 +1,17 @@
 [
     {
+        "reviewId": "gp:AOqpTOHoHI9Gim6hTOdcHvyNUSzhb49dirH7CpbBR8xk6LOjYa0nybaAAiFstP1N-cMLv4810C0a7g49WOzR9jQ",
+        "userName": "Samantha N",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgNp_ys5BflbUgdX3LEV-tgGPfoOgFQtGsLOd-QJbw",
+        "content": "makes tracking my health much easier and has built in symptom checker too!",
+        "score": 5,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "4.01.07",
+        "at": "2020-12-22 10:18:16",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOF9FuonIhGZ02UIuVLG88Y7mgAf9lR2b4cK-n2J9WalNMoQl1O5HPHhiDlDlgBJobuSgeS8jrKBZrlTySc",
         "userName": "stanley okike",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhikM50Run4Gc0AuwaipFiqUo6HreuGhR4jKIxExQ",
@@ -8,8 +20,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.01.07",
         "at": "2020-12-18 09:23:55",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Stanley, thanks for your review. Should you have any feedback or suggestions on how we could improve our services, please don\u2019t hesitate to reach out to us via support@livehealthily.com. Thanks again!",
+        "repliedAt": "2020-12-21 12:26:54"
     },
     {
         "reviewId": "gp:AOqpTOFd_LvY_e9Xzbh_mRFalnSQJI2auz16UtnIDjszXSBjfpgDja93ofqZWwsp6qko3EKFjgb0Wma9DvLhAD0",
@@ -77,7 +89,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgP4H5I6Kq8aIwqExuuuSRMpfJpAvcW8wkYJ9qKng",
         "content": "I'm loving it. I loved the revamped UI design. Seems like I won't be needing another health app. Keep it up!",
         "score": 5,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "4.01.07",
         "at": "2020-12-11 12:04:26",
         "replyContent": "Hi Jayrald, great to hear from you. Wonderful to know you're enjoying Healthily. Thanks very much for the review!",
@@ -349,8 +361,8 @@
     },
     {
         "reviewId": "gp:AOqpTOFMIrMbbw__DS4hLz0MP_Pq20Ulgd0vZ2ThGRflaUB6Ux-hkEVxrTlJjSZ3-s0jIGg9Nj2e6Voa_jkooYY",
-        "userName": "Julia Colthirst",
-        "userImage": "https://play-lh.googleusercontent.com/-C2BQ-12OH0Q/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnnaa0L4CNcX0a4M_9CZjb_xq_j7g/photo.jpg",
+        "userName": "Study Gram",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhtfaRQOelS6jl2RImEtaaqSVJrrBzZmTgVq6wJ",
         "content": "Optional.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -497,7 +509,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhUIK2wXUL6XEE413URkAZdfHBgIsR3VybugIgW0A",
         "content": "This App is really awesome! And is so much help and helpful to motivate you and pay more attention to yourself and how your feeling. It's like a friend thats there to help you! Thank you so much it has been so helpful!",
         "score": 5,
-        "thumbsUpCount": 38,
+        "thumbsUpCount": 39,
         "reviewCreatedVersion": "4.01.05",
         "at": "2020-10-25 21:37:28",
         "replyContent": "Hi Graham, wonderful to hear from you. We're so glad you are enjoying the app. Thank you very much for the review!",
@@ -3602,7 +3614,7 @@
     {
         "reviewId": "gp:AOqpTOHUevUW-S9401TOWh8hAAUtKml-394SJcqeEItF55jImg9dS8boGOMeCV4jAtEiwRn0bFwyo2yszanRiHg",
         "userName": "GLOB'ARNOLD WEB DEVELOPMENT WORLD",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi-5wmq0HWRjh0AWyG3Ujoqdn4BD_u0hbUoEiCLEw",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhjaDOrvauQfmCIefBa0iFgsA9ULC0wWf0gH3OyaA",
         "content": "Useful",
         "score": 5,
         "thumbsUpCount": 1,
@@ -3997,7 +4009,7 @@
     },
     {
         "reviewId": "gp:AOqpTOE-oNOh4Dr_XgDvghx3HsisPEltNAb0TjUA8miUnE3tm567TfMUKDUVu_IUJMCuK-Iv3Q_oFKP8MRxiuNQ",
-        "userName": "Yusuf Carrim",
+        "userName": "Hamza Carrim",
         "userImage": "https://play-lh.googleusercontent.com/-ZhdV5iW8QV4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmCHms6R_hec7ke-dMc9uy_bVTZsg/photo.jpg",
         "content": "It helps monitor your health and take the necessary precautions very useful",
         "score": 5,
@@ -4634,7 +4646,7 @@
     {
         "reviewId": "gp:AOqpTOEK9jWqkaXosqugCK6rMmwGIAUMQj-w8EYpdIkG6nHhKaW4o5Sq3hfa3-k4TXN-5kY1KQn8V-xRcB9AgLc",
         "userName": "Brigitt\u00e8 Ky Givens Kimmons",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjhnqlRyBs0m45VeGPac2OtysHte_aCT3PeaTmj9v0",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiRIoZRtXcaLf0As5rKtJLHR1nux4e9OBI8Flwcf7c",
         "content": "Love it(((",
         "score": 5,
         "thumbsUpCount": 0,
@@ -4789,7 +4801,7 @@
     },
     {
         "reviewId": "gp:AOqpTOHKo7UprjWM_ZgQVPNqPE190Lp4mk4m0SrfreVD3Dmg5JomSF23GwMIQHZqMSxj42FX5ZSBAfcrnh9mfuI",
-        "userName": "Augustine Owusu",
+        "userName": "Augustine Bismark Owusu",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ggo-TA0MIYYOawBLmVpw7Hf-gK3y4sNbCyMTRDmpWE",
         "content": "Nice app. Very helpful. I use it every now and then.",
         "score": 5,
@@ -5137,7 +5149,7 @@
     },
     {
         "reviewId": "gp:AOqpTOEk5zxjb8jDbbBm7irAviN_0DKcZTbFSZIwJT-AlDe_zjtmvm1raQk9vvBI35L0xMhAB16TF2YuMCSHeIs",
-        "userName": "Constant Thinker",
+        "userName": "Ms. Furstenfeld",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjHcnj7766wdKmufKEYvWFhvVTmEdX0aK83rc3YdQ",
         "content": "This app is created for data mining. This app is absolutely horrible. This \napp should not be offered to anybody seeking to better their well-being. \nThis is a scam and violates your device's privacy.",
         "score": 1,
@@ -5942,7 +5954,7 @@
     {
         "reviewId": "gp:AOqpTOEdg875FYjBTJlncvkrykw9HhI1uM9wJ8GTUj7dTgqx7Spo5xaQ_tRdmKTRgGKdDLB4cP1owcFXdVwpIAw",
         "userName": "Manal Ali",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjrOlZ7cA1lQPDOxi2hWsEdhquB-wU9-h1ab472pqY",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ggu2cX_CinX6vh6ywIFTYyzuMijzsYhHVM-SwNb_Ic",
         "content": "Waste",
         "score": 1,
         "thumbsUpCount": 3,
@@ -7754,7 +7766,7 @@
     {
         "reviewId": "gp:AOqpTOFiedfxbogTQkTZcUFqVaMm0A8lZhvBKcpLFIqcF-AVCW798RFGqrxpdLAaPO6kNItTdqD0G7F_seMmKL0",
         "userName": "OM GULATI",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiehZR_wKwCQUriXB1aSGWON72pELZEHWXpF1Wvlw",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhkOdw53HbvvhYqqhNKpOP6fBmeSy0B33InIZUwdg",
         "content": "Thank u for creating this app. Such apps can save a man from suffering a very dangerous disease. No words to express... Thanks a lot.",
         "score": 5,
         "thumbsUpCount": 2,
@@ -7933,8 +7945,8 @@
     },
     {
         "reviewId": "gp:AOqpTOGQRA5fFRGpb04S0Tz_3kgiLVRcY-LRGOaKvYprOGybZNDMEhj1ULbLkpuh4MF90zb6UIp52jxkM7IR2TM",
-        "userName": "Catboiguk",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhSjIE1JH_5DaQ0bBy2OCo4-_81GXFgH9HF3RKcSCA",
+        "userName": "Esta amos",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjHQxnY2Vl42crm4wTgUZ3UCQG80OydR6RsFGK_MmI",
         "content": "This is the best app ever I really hope more people download it bye\ud83d\ude06",
         "score": 5,
         "thumbsUpCount": 1,
@@ -9854,7 +9866,7 @@
     {
         "reviewId": "gp:AOqpTOFQa5NN_NcLGHlnM2fgQ9Rn9qOg76MjIVxHW7WsoeBNC1SxXCd_WkNa-iMi7vkmphRIYvSP_zY02HqTCI0",
         "userName": "Sumit Yadav",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg8zD7cDWUyIXP4ZHUFikBLQvbNvhC4y8x11MPg5OY",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiocmXs8ikavJGl4_xjqFN64EQgByX0FsvjxUMopHE",
         "content": "Good app",
         "score": 4,
         "thumbsUpCount": 0,
@@ -11984,18 +11996,6 @@
         "thumbsUpCount": 11,
         "reviewCreatedVersion": "2.8.1",
         "at": "2017-03-19 05:10:44",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOFsSzdt3MyQfP3Hmcj3QbYToti4_Z4MC15G9V4ynW6d-VDutqwAHUIKcxPX6TUn2IEXK47n2tT1hofOc6g",
-        "userName": "MICHAEL BALINDA",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhD1so2Q6XgFslalqWjSqkre4JJcHp-0MHwY9pj",
-        "content": "It's really helpful and gives you an idea of the sickness",
-        "score": 5,
-        "thumbsUpCount": 10,
-        "reviewCreatedVersion": "2.8.1",
-        "at": "2017-03-18 20:04:35",
         "replyContent": null,
         "repliedAt": null
     }

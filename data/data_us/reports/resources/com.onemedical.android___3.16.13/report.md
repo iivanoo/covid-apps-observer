@@ -230,6 +230,8 @@ The One Medical app has been installed by more than **100000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="com.onemedical.android 5 reviews"/>
 </p>
 
+> Love love love booking my own appointments<br> :date: __2020-12-26 21:09:46__
+
 > Love the one medical tream !!<br> :date: __2020-12-19 01:21:45__
 
 > Amazing app. Works super well!<br> :date: __2020-12-14 02:51:59__
@@ -247,8 +249,6 @@ The One Medical app has been installed by more than **100000** times. At this ti
 > Easy to use.<br> :date: __2020-11-28 21:52:01__
 
 > Accessible, informative, helpful, pleasant, professional<br> :date: __2020-11-22 01:24:16__
-
-> Wonderful and Consistent<br> :date: __2020-11-20 04:57:19__
 
 
 
@@ -314,6 +314,8 @@ The One Medical app has been installed by more than **100000** times. At this ti
 <img src="2_star_reviews_wordcloud.png" alt="com.onemedical.android 2 reviews"/>
 </p>
 
+> A ton of things fall through the cracks causing an immense amount of confusion with your healthcare that's the last thing you want to not have a quality application especially since this company leans heavily on the application alone outside of in person or Zoom meetings<br> :date: __2020-12-24 21:08:33__
+
 > It doesn't work , $199<br> :date: __2020-10-06 19:39:50__
 
 > It was reasonable until yesterday. Then, it forgot my password and later felt back to using a webpage. It completely changed the layout and I cannot enter information anymore the way I was used to.<br> :date: __2020-09-10 07:22:24__
@@ -331,8 +333,6 @@ The One Medical app has been installed by more than **100000** times. At this ti
 > No face id support<br> :date: __2019-12-28 20:08:49__
 
 > Should be able to upload previous medical records. Should be able to enter a complete medical history like on zocdoc.<br> :date: __2019-11-17 19:27:39__
-
-> Camera to upload the insurance card doesn't work. It doesn't focus on the card and the button to take the picture doesn't work.<br> :date: __2019-09-20 06:49:31__
 
 
 

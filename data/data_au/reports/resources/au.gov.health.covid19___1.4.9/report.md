@@ -159,6 +159,8 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 <img src="5_star_reviews_wordcloud.png" alt="au.gov.health.covid19 5 reviews"/>
 </p>
 
+> VERY Important users carefully read the installation and configuration options to make any necessary adjustments to their device otherwise please assume the App won't function!<br> :date: __2020-12-22 01:15:04__
+
 > Helpful & informative but information overload at times.<br> :date: __2020-10-26 21:08:54__
 
 > Essential App at this time to stay safe<br> :date: __2020-10-11 15:25:41__
@@ -176,8 +178,6 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 > Its needed all over<br> :date: __2020-08-25 23:19:29__
 
 > WONDERFUL IDEA<br> :date: __2020-08-25 02:16:14__
-
-> Excellent up to date information. Great initiative and helpful<br> :date: __2020-08-09 02:10:05__
 
 
 
@@ -271,6 +271,10 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 <img src="1_star_reviews_wordcloud.png" alt="au.gov.health.covid19 1 reviews"/>
 </p>
 
+> Best government statement ever, "if every Australian downloads this app we will open the pubs and clubs". What a waste of money<br> :date: __2020-12-24 12:04:31__
+
+> Gay<br> :date: __2020-12-21 00:32:03__
+
 > Useless. Very outdated notification feed. This app has life in my phone less than 5 minutes. Wish the government does more research for what citizens needs before watst the public money.<br> :date: __2020-12-19 21:25:15__
 
 > There is no information regarding privacy measures for testing procedures and the storage location/process regarding retained genetic samples.<br> :date: __2020-12-14 09:05:12__
@@ -286,9 +290,5 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 > This app is data mining and just steals personal information without consent, the data is collected by deceiving the user by stating it is a health & fitness app. It isn't, it tracks your location,phone number, ip address, serial number of your phone & you, without the user's consent, uninstall immediately!<br> :date: __2020-09-18 12:21:30__
 
 > Doesn't work<br> :date: __2020-09-14 02:45:21__
-
-> I changed telephones and I cannot get the app for the new phone. It rarely worked on the old phone<br> :date: __2020-09-11 11:52:29__
-
-> Frustrating<br> :date: __2020-09-10 03:00:32__
 
 

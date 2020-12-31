@@ -125,6 +125,10 @@ The CO Exposure Notifications app has been installed by more than **100000** tim
 <img src="5_star_reviews_wordcloud.png" alt="gov.co.cdphe.exposurenotifications 5 reviews"/>
 </p>
 
+> Cool yo<br> :date: __2020-12-25 01:47:43__
+
+> Good<br> :date: __2020-12-24 10:54:23__
+
 > It 's is good thing for you get back on the right way for think about you life you never know if it hapin to you or not i think you can look in toi like be happy to be live today but god can tell you if it is time or not from you loving friend luther mosbarger<br> :date: __2020-12-20 08:40:31__
 
 > So excited to have an app to help inform about potential exposures. Thank you, CO DPHE!!<br> :date: __2020-12-18 04:52:08__
@@ -140,10 +144,6 @@ The CO Exposure Notifications app has been installed by more than **100000** tim
 > I love this app cause it is easy to use and understand, it's also a great way to stay safe from the pandemic!<br> :date: __2020-11-28 06:33:21__
 
 > Very important information for all to learn! To keep an open mind and take precautions that can be life saving!!<br> :date: __2020-11-27 07:04:53__
-
-> Blessed<br> :date: __2020-11-26 23:39:14__
-
-> great!<br> :date: __2020-11-23 03:02:21__
 
 
 
@@ -207,6 +207,10 @@ The CO Exposure Notifications app has been installed by more than **100000** tim
 <img src="2_star_reviews_wordcloud.png" alt="gov.co.cdphe.exposurenotifications 2 reviews"/>
 </p>
 
+> 👌<br> :date: __2020-12-23 09:21:28__
+
+> My wife works with covid patience. So needless to say, she is in contact with covid positive people. Her app says "no contact". Four people I work with have it. Nothing from the app. Broken. 😠Wish it worked better . Merica, thanks<br> :date: __2020-12-21 04:32:43__
+
 > Jg<br> :date: __2020-12-18 12:54:33__
 
 > I don't think this app works<br> :date: __2020-11-28 16:58:50__
@@ -223,10 +227,6 @@ The CO Exposure Notifications app has been installed by more than **100000** tim
 
 > My problem is I work in a facility where alot if employees had C19 and I have never been notified....HMMM<br> :date: __2020-11-08 20:22:31__
 
-> Seems like this could be a really good app. BUT.....where does someone get the verification code needed to enter a covid 19 result?<br> :date: __2020-11-06 16:27:15__
-
-> Maybe I'm not understanding something but when I try to share my results, It says it will send me a one time verification code, but nothing happens.<br> :date: __2020-11-02 18:31:26__
-
 
 
 #### 1-star reviews
@@ -234,6 +234,14 @@ The CO Exposure Notifications app has been installed by more than **100000** tim
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="gov.co.cdphe.exposurenotifications 1 reviews"/>
 </p>
+
+> Didn't work at all.<br> :date: __2020-12-27 21:59:24__
+
+> Not only is this app so poorly used by the populous to warn you against infection, it also prevented me from warning others about my positive diagnosis. I get that the government takes off holidays, the disease did not. I did everything right, and tried to warn others through the app, however the government has not given me a code I need to warn anyone else. Another shining example of wasted money. If I have to wait a week or more for a contact tracer to give me a code, what's the point?<br> :date: __2020-12-27 08:20:21__
+
+> The app appears useless. I tested + . When I try to enter the result, it asks for one time verification code. After extensive searching, I was unable to learn how to get the verification code.<br> :date: __2020-12-25 19:53:51__
+
+> Asks for a verification code to share my positive test results but I don't know where I would have a verification code?<br> :date: __2020-12-25 19:43:12__
 
 > It seems rather useless. It's entirely dependent upon people reporting themselves. It's never reported a possible exposure until today. There is a zero chance that I don't encounter at least one covid positive person within a hundred feet of myself on a daily basis. The possible exposure was seven days prior to the notification. It said to quarantine immediately... Seven days ago. Yikes.<br> :date: __2020-12-18 23:25:51__
 
@@ -246,13 +254,5 @@ The CO Exposure Notifications app has been installed by more than **100000** tim
 > Bluetooth is for short range connections, so why do I have to have Bluetooth on for the app to work? Just NO!<br> :date: __2020-12-18 13:50:27__
 
 > I removed it.. I have been surrounded by positive cases... Nobody cooperates with it because I checked every day and it tells me no exposure! Well I knew that wasn't the case on more than 30 that I knew of<br> :date: __2020-12-15 03:59:17__
-
-> Won't Enable. Every time I try to enable it says something went wrong. Others gave the same issue. I emailed app maker. No response. I hope CO isn't paying for this broken app.<br> :date: __2020-12-14 16:13:51__
-
-> Stupid<br> :date: __2020-12-14 10:41:46__
-
-> Does not account for the tremendous percentage of people who have absolutely had COVID19, but have not seen a doctor, making it ultimately pointless.<br> :date: __2020-12-12 19:26:32__
-
-> Won't turn on in the app. Keeps saying something wrong. Now won't let me even try to install it.<br> :date: __2020-12-11 13:56:13__
 
 

@@ -184,6 +184,8 @@ The Horizon Telehealth app has been installed by more than **1000** times. At th
 <img src="5_star_reviews_wordcloud.png" alt="org.horizonhealth.android.hzhsh.telehealth 5 reviews"/>
 </p>
 
+> Easy to use<br> :date: __2020-12-23 22:43:02__
+
 > ABSOULTELY LOVE IT!!!<br> :date: __2020-12-09 16:46:01__
 
 > It's the next best thing. Horizon is an amazing co. With a lot of great services and a great staff<br> :date: __2020-12-08 19:10:20__
@@ -201,8 +203,6 @@ The Horizon Telehealth app has been installed by more than **1000** times. At th
 > Definitely enjoy talking to my counselor in the comfort of my own home we always do early appointments and she's a great way to start the day😊<br> :date: __2020-11-05 14:32:13__
 
 > Great app make dr appointments easy<br> :date: __2020-10-23 18:06:37__
-
-> Great app for my counseling sessions!<br> :date: __2020-10-22 19:27:09__
 
 
 

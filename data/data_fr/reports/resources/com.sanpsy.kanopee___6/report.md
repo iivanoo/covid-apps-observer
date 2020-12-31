@@ -143,6 +143,8 @@ The KANOPEE app has been installed by more than **1000** times. At this time, **
 <img src="4_star_reviews_wordcloud.png" alt="com.sanpsy.kanopee 4 reviews"/>
 </p>
 
+> Application très complète seul bemol Pas de possibilité de revnir en arrière si on se teompe.<br> :date: __2020-12-23 15:07:46__
+
 > Bien mais !!! Si on se trompe sur les données entrée pas moyen de modifié très dommage<br> :date: __2020-09-15 14:29:27__
 
 > Application fonctionnel. Je trouve juste dommage d'avoir alourdi l'application avec de la 3D qui n'apporte pas grand chose...<br> :date: __2020-06-23 23:25:34__
@@ -162,6 +164,8 @@ The KANOPEE app has been installed by more than **1000** times. At this time, **
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="com.sanpsy.kanopee 3 reviews"/>
 </p>
+
+> Bien mais à améliorer. Dommage de ne pas pouvoir ajouter des commentaires lors de la saisie des nuits (raison des réveils nocturnes par ex). Conseils très simples et déjà connus pour les personnes souffrant de troubles du sommeil. Rien sur les hypersomnies, je dors beaucoup, apparemment bien mais je suis toujours fatiguée, aucune réponse ou proposition dans l'application, dommage. Un lien vers une prise de consultation avec un praticien serait intéressant (en visio ou physique).<br> :date: __2020-12-23 09:26:03__
 
 > L'application vient de se bloquer aprés le 2nd entretien. Je n'ai donc pas eu le CR de l'analyse des données sur 7 nuits et des réponses au 2nd entretien. L'avatar reste à l'écran et plus rien ne se produit. Dommage. Je retenterai peut être en désinstallant puis en la réinstallant<br> :date: __2020-12-13 15:21:53__
 
@@ -183,6 +187,8 @@ The KANOPEE app has been installed by more than **1000** times. At this time, **
 <img src="2_star_reviews_wordcloud.png" alt="com.sanpsy.kanopee 2 reviews"/>
 </p>
 
+> Permet de faire un suivi sommeil, consommation tabac et alcool. Les conseils sont généralistes (température chambre, limiter la conso café etc) mais ne semble pas relever les anomalies évidentes (sommeil fractionné par exemple) ni conseil associé. Bug sur le suivi conso tabac au bout d'une semaine : lors de l'entretien, impossible de renseigner le niveau d'évaluation (entre 1 et 7) pour la première question.<br> :date: __2020-12-22 21:54:42__
+
 > Appli très intéressante sur les données du sommeil. Par contre plantage au moment des conseils pour améliorer son sommeil. Re-essai plusieurs fois mais sans succès. Dommage car c'est ce que j'attendais le plus.<br> :date: __2020-12-14 14:14:19__
 
 > Bonne idée mais on ne peut pas corriger les données quand on fait une erreur de saisie 😭😭<br> :date: __2020-12-09 21:55:32__
@@ -198,6 +204,8 @@ The KANOPEE app has been installed by more than **1000** times. At this time, **
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="com.sanpsy.kanopee 1 reviews"/>
 </p>
+
+> Problème de fonctionnement, dès que j'arrive à la page ou je dois donner des infos sur les horaires de coucher, lever.. je ne peux plus rien faire il est impossible de noter quoi que ce soit, malgré désinstallation et réinstallation.<br> :date: __2020-12-25 09:10:53__
 
 > Mon commentaire ayant été supprimé, je le remets : pendant 8 matin, j'ai rempli scrupuleusement le questionnaire Au bout de ces 8 jours, le petit avatar conseillé de faire le point sur mes nuits, Oui et ? Rien, aucun conseil, aucune conclusion virtuelle de l'analyse, juste une récap de mes nuits Cette appli ne sert absolument à rien<br> :date: __2020-12-14 14:19:42__
 

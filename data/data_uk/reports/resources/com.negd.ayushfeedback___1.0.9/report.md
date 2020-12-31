@@ -124,6 +124,8 @@ The Ayush Sanjivani app has been installed by more than **500000** times. At thi
 <img src="5_star_reviews_wordcloud.png" alt="com.negd.ayushfeedback 5 reviews"/>
 </p>
 
+> Very useful<br> :date: __2020-12-28 11:20:24__
+
 > Good knowledgeable app<br> :date: __2020-11-24 15:28:15__
 
 > Otp to bhejo<br> :date: __2020-11-24 15:01:06__
@@ -141,8 +143,6 @@ The Ayush Sanjivani app has been installed by more than **500000** times. At thi
 > Excellent<br> :date: __2020-09-05 14:20:45__
 
 > Best app all details available for taking care of our self on our own<br> :date: __2020-09-03 19:05:32__
-
-> Very nice app<br> :date: __2020-09-02 09:11:08__
 
 
 

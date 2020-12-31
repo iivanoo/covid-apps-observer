@@ -201,8 +201,6 @@ The Herne-App  - offizielle App der Stadt Herne app has been installed by more t
 
 > Grundsätzlich lobenswert, wenn eine Stadt eine eigene App zur Verfügung stellt. Ein Darkmode fehlt mir persönlich, da dieser akkuschonend ist. Ausserdem stützt die App auf meinem S7 (Android 8) beim Aufruf von Veranstaltungen nach der Auswahl des Zeitraumes immer ab. Kinderkrankheiten halt, die viele Apps am Anfang haben. Die Weiterleitung zu externen Seiten finde ich gut, da dies die App nicht unnötig aufbläht. Für den Abfallkalender gibt's von Entsorgung Herne übrigens ne eigene App.😉<br> :date: __2020-07-30 15:27:52__
 
-> Kleinere Entwicklungs Fehler wie das der Abfallkalender nicht gezoomt werden kann. Aber an sich eine gute App. Hoffe sie war nicht zu teuer?<br> :date: __2020-04-17 20:16:43__
-
 
 
 #### 3-star reviews
@@ -210,6 +208,8 @@ The Herne-App  - offizielle App der Stadt Herne app has been installed by more t
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="de.bluebox.herne_app 3 reviews"/>
 </p>
+
+> Ist die App noch schlechter geworden? Abfallkalender garnicht erreichbar und so... Schade das man sich nicht um die App kümmert.<br> :date: __2020-12-27 22:18:03__
 
 > Mit dem Coronavierus-Pandamie haben die Stadt Herne von Dudda überhaupt die Menschen nicht geschützt,und sind sehr kräftig nach oben gekommen die Coronavierus,das ist fahrlässig mit den Menschen,und auch nicht verantwortlich für alle Menschen und sollte die Konsequenzen auch ziehen. Vielen Grüße Leschny<br> :date: __2020-08-20 10:34:11__
 
@@ -226,6 +226,8 @@ The Herne-App  - offizielle App der Stadt Herne app has been installed by more t
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="de.bluebox.herne_app 2 reviews"/>
 </p>
+
+> Es werde Fotos gemacht, die man dann nicht weiterleiten kann.<br> :date: __2020-12-25 13:53:24__
 
 > Die Idee ist gut, aber die Umsetzung hat noch viele Kinderkrankheiten.Man kann nicht beim Abfall Kalender die Spalte der Eingabe Vergrößern. Auch hängt sich die App zwischen durch auf. Was ich mir wünsche ist auch eine Spalte mit den Aktuellen Polizei Meldungen,(gerade bei Aktuellen Meldungen, wie zb aktuelle Betrüger Anrufe).<br> :date: __2020-04-19 11:37:49__
 

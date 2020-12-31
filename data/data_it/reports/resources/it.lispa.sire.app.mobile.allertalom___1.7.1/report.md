@@ -160,6 +160,8 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <img src="5_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 5 reviews"/>
 </p>
 
+> Funziona<br> :date: __2020-12-23 14:32:10__
+
 > App molto utile per info sul tempo sulle allerte sui decreti per notizie e spostamenti utili in questo particolare momento un Grazie a tutti coloro che partecipano alla realizzazione del programma<br> :date: __2020-12-11 22:56:29__
 
 > Seria<br> :date: __2020-12-11 16:52:11__
@@ -177,8 +179,6 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 > Molto utile<br> :date: __2020-10-13 16:41:42__
 
 > Bellissima app<br> :date: __2020-10-10 10:33:43__
-
-> Utile per chi opera in protezione civile<br> :date: __2020-10-02 10:03:56__
 
 
 
@@ -272,6 +272,8 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <img src="1_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 1 reviews"/>
 </p>
 
+> Ti costringe a partecipare al questionario covid, per proseguire. Non funziona il tasto "Non mi interessa". Volevo essere informato sulle allerte della protezione civile. Le cercherò altrove.<br> :date: __2020-12-24 12:07:27__
+
 > Ad un certo punto non ha più funzionato. Ho tentato di fare un aggiornamento ma non è riuscito, allora ho disinstallato la app e cercato di reinstallare, ma inutilmente! Non si installa<br> :date: __2020-11-19 12:54:38__
 
 > Dopo l'ultimo aggiornamento non si apre più. Si inchioda ed esce la finestra che avvisa di riprovare. Avete voluto strafare per tracciare covid e compagni ed è uscito un minestrone inutile e che non sapete maneggiare. Peccato, le allerte meteo erano interessanti. Disinstallata e amen.<br> :date: __2020-11-16 00:51:51__
@@ -289,7 +291,5 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 > Dopo dopo aver portato pazienza per sei mesi, Devo dire che questa app non serve a nulla. Nulla è consultabile per quanto riguarda le allerte. Ti obbliga ad accettare tutta una serie di privacy ogni volta che viene lanciata e l'unica cosa che puoi fare e compilare il questionario covid. Anche qui un disastro.... Non ti consente di compilare il questionario per te e ti obbliga a farlo per i familiari..per lo stato delle cose la ritengo inutile. Grazie<br> :date: __2020-10-16 10:07:08__
 
 > No comment serve a niente<br> :date: __2020-10-11 21:18:16__
-
-> Semplicemente ridicola....<br> :date: __2020-09-29 10:16:31__
 
 

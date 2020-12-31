@@ -166,6 +166,8 @@ No recent reviews available with 3 stars.
 <img src="1_star_reviews_wordcloud.png" alt="com.vjet.covid 1 reviews"/>
 </p>
 
+> Произошла ошибка при регистрации.<br> :date: __2020-12-25 05:30:56__
+
 > Не могу зарегистрироваться!! Пишет "Incorrect data", ничего сделать не получается!<br> :date: __2020-12-20 11:39:58__
 
 > Невозможно зарегистрироваться. Удаляю...<br> :date: __2020-12-17 13:09:36__

@@ -3,22 +3,22 @@
         "id": "at.roteskreuz.stopcorona",
         "store_country": "at",
         "store_lang": "de",
-        "latest_crawled_version": "2.0.5.1081-QA_250",
-        "latest_crawl": 1608498065
+        "latest_crawled_version": "2.0.7.1119-QA_255",
+        "latest_crawl": 1609160400
     },
     {
         "id": "org.who.infoapp",
         "store_country": "at",
         "store_lang": "de",
         "latest_crawled_version": "4.0.1",
-        "latest_crawl": 1608498074
+        "latest_crawl": 1609160430
     },
     {
         "id": "de.xikolo.openwho",
         "store_country": "at",
         "store_lang": "de",
         "latest_crawled_version": "3.7",
-        "latest_crawl": 1608498076
+        "latest_crawl": 1609160437
     },
     {
         "id": "at.ffg.ffgfoerderradar",

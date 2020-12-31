@@ -243,6 +243,14 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 <img src="1_star_reviews_wordcloud.png" alt="de.bssd.covid19 1 reviews"/>
 </p>
 
+> Scanfunktion wird nicht aktiviert - daher unbrauchbar!<br> :date: __2020-12-26 14:37:13__
+
+> Die anderen Bewertungen stimmen leider. Auch bei mir ging der Scan nicht. Handeingabe ging auch nicht. Die Tastatur erschien nicht. Hab die App dann gleich wieder deinstalliert.<br> :date: __2020-12-25 23:12:21__
+
+> Lässt sich nicht öffnen<br> :date: __2020-12-22 10:38:02__
+
+> Diese App ist absolut unbrauchbar. Ein Scannen des QR-Code ist nicht möglich. Manuelle Eingabe nur über Umwege möglich. Ich habe meine Ergebnis seit 3 Tagen und die App zeigt immernoch an, dass knoch kein Ergebnis vorliegt. Wie kann man guten Gewissens solch einen Mist veröffentlichen und dann auch noch monatelang nicht weiter entwickeln.<br> :date: __2020-12-21 20:46:12__
+
 > Funktioniert nicht<br> :date: __2020-12-19 18:00:29__
 
 > Funktioniert einfach nicht. Egal, ob als Scan oder per Handeingabe. Schade.<br> :date: __2020-12-19 15:45:23__
@@ -254,13 +262,5 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 > Schrott mehr braucht man nicht schreiben 1 Stern ist noch zu viel<br> :date: __2020-12-18 12:52:29__
 
 > Crasht auf Pixel 4 und 5 direkt beim Start.<br> :date: __2020-12-17 21:17:02__
-
-> Löscht den Dreck und wartet auf den Anruf vom Artz!<br> :date: __2020-12-15 21:53:51__
-
-> Fake-app.<br> :date: __2020-12-15 14:26:47__
-
-> Schrott. Geht nicht<br> :date: __2020-12-11 09:56:41__
-
-> Lässt sich unter Android 11 nicht öffnen! App wird sofort wieder geschlossen!<br> :date: __2020-12-09 17:38:41__
 
 

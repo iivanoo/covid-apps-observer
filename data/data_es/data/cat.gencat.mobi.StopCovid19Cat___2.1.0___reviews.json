@@ -1,15 +1,51 @@
 [
     {
+        "reviewId": "gp:AOqpTOFrSJEYWudJypAjXQIK0B4A8-CQdexRdfX89IrUW7m-CzpgRBddBikkFwUvdUmu849HY0F3a-skdixcqwE",
+        "userName": "Leon Bertone",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj4oaX4YAir9JnPhC5G6H8Rl4lNnOVuYHHbFDzMgtw",
+        "content": "He dado positivo. Hago el test para informarlo. Pongo los s\u00edntomas. Fiebre tos dificultad para respirar, dolor de cabeza. Malestar. El resultado es: no tienes s\u00edntomas , pero no te conf\u00edes.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2020-12-24 15:17:35",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOEI5g0UCuKmPYhzBqaBU6g1Ds4wSe1Kms_D1Kj7TZTpVl3boZeGcOVJhJzTMgm3-BYR7MzuswW53Dj3bDw",
+        "userName": "Silva Ortega Latorre",
+        "userImage": "https://play-lh.googleusercontent.com/-LIid4_P6_9c/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckNmKJap-gQO0eqoKj1S0nFvoXDbw/photo.jpg",
+        "content": "Molt bona app",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2020-12-23 17:31:12",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOE6IctECnoVf7LMvGM70GPrS4mgcRyjXh2cdHegafSXqZv87jAx9TPFd6NYCeR5jAJlqh9cs1HwOFteNHM",
+        "userName": "Xavier Vald\u00e9s",
+        "userImage": "https://play-lh.googleusercontent.com/-aYhRxUPKPR4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclG8c59yvHBjlkdkeGPbL-4Fh5vJQ/photo.jpg",
+        "content": "Tenia un problema i me llamaron enseguida",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.1.0",
+        "at": "2020-12-23 10:38:17",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOGdYpg_rA_V3hWDEtA58XTGoLDha-PwAbLCYkmALFknYd4ZuRVf1j84qQxxUg46KIsEGnkMF-vOGU8IWKE",
         "userName": "AURA D",
         "userImage": "https://play-lh.googleusercontent.com/-B3mDXYNdO2A/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnhmuVWoBGipRhir971jDLg1eW5ZA/photo.jpg",
         "content": "La primera vez he logrado llegar al paso de recibir el codigo por Sms, lo he puesto pero de all\u00ed no se mueve, la segunda vez ya ni he podido intentar enviar el SMS, por mucho que apretaba no pasaba nada. As\u00ed no me extra\u00f1a que no se puedan contabilizar los casos, si no funciona una simple aplicaci\u00f3n, que se puede esperar de situaciones m\u00e1s complejas?",
         "score": 1,
-        "thumbsUpCount": 1,
+        "thumbsUpCount": 3,
         "reviewCreatedVersion": "2.1.0",
         "at": "2020-12-16 14:56:06",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Recomendamos desinstalar la aplicaci\u00f3n e instalarla de nuevo.",
+        "repliedAt": "2020-12-21 17:46:38"
     },
     {
         "reviewId": "gp:AOqpTOF_RTj6xw9KbZKMXAGSLQjhjP0kQzzAeIAmVQn-IQV3BvKSWmPmTSh85UMbkOdyG3M8gUZYOfEyvDKMdj4",
@@ -20,8 +56,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2020-12-14 12:16:10",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Lamentamos su mala opini\u00f3n",
+        "repliedAt": "2020-12-21 17:47:03"
     },
     {
         "reviewId": "gp:AOqpTOGFolCJXA3XrbaYT9KmBC1bcDEBy4ATFw25ImO-H81f0WHtduQEunzehCiM02NXh3hYe2_rZ-fpEg_FPCs",
@@ -29,11 +65,11 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgjWgcKWU8npMseudmo_wyjvOtuAzojq0fZ9jXX",
         "content": "La app no funcina bien. Cuando voy a hacer el test se queda colgada. La he desintalado y vuelto a instalar y nada. Sin el test no sirve para nada. Despues de la rese\u00f1a, funciono una vez y ahora otra vez no puedo hacer el test",
         "score": 1,
-        "thumbsUpCount": 9,
+        "thumbsUpCount": 12,
         "reviewCreatedVersion": "2.1.0",
         "at": "2020-12-06 21:00:34",
-        "replyContent": "Si nos indica su modelo de m\u00f3vil y versi\u00f3n del programa trasladaremos la incidencia.",
-        "repliedAt": "2020-11-14 12:03:27"
+        "replyContent": "Si nos indica su modelo de m\u00f3vil y versi\u00f3n del programa trasladaremos la incidencia. Lamentamos el mal funcionamiento pero indiquenos su modelo de movil y versi\u00f3n del programa para realizar test de funcionamiento.",
+        "repliedAt": "2020-12-21 17:49:41"
     },
     {
         "reviewId": "gp:AOqpTOEDFtV1mAwre4N_AxDJrFOQsMIR76TmV6AzkR7cte7anjd3GsgdYlvp6BgXelYTEVlul20mshb6aohPWzg",
@@ -89,7 +125,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhynIah8qt_X8qCyv0m489GfjRRO_hVtXUy53Rv5RE",
         "content": "Mientras no haces la prueba est\u00e1 bien de ayuda, pero una vez te haces el test y das positivo, no sirve para nada. Yo hoy he hecho test de ant\u00edgenos y he dado positivo. En cambio relleno los datos y como me han desaparecido varios s\u00edntomas, pues me dice que no tengo la Covid. Me da un chasquido el bolo al ver que me dice que no tengo Covid y en cambio hoy me han diagnosticado positivo en el CAP.",
         "score": 1,
-        "thumbsUpCount": 14,
+        "thumbsUpCount": 16,
         "reviewCreatedVersion": "2.1.0",
         "at": "2020-11-09 21:38:15",
         "replyContent": "La app es un test de control, seguimiento y vigilancia de s\u00edntomas. Si usted est\u00e1 diagnosticado debe seguir las indicaciones que le han dado en el CAP.",
@@ -149,7 +185,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgSkBUbcgPFJ2Lc_x8CCOG57U9kqErA1hi1yvNt",
         "content": "No he sido capaz de activar esta aplicaci\u00f3n cuando pongo el c\u00f3digo que me env\u00edan se bloquea y no se puede seguir, arregle la por favor, no nos pidan que colaboremos si nos lo ponen tan dif\u00edcil",
         "score": 1,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "2.1.0",
         "at": "2020-10-30 11:58:30",
         "replyContent": "Recomendamos desinstalarla e instalarla de nuevo.",
@@ -301,8 +337,8 @@
     },
     {
         "reviewId": "gp:AOqpTOG6yr0SkmCQ4FabzuzZkWOpttzxvNVIW7Z5asfmeLhWosls4YuSw3FzWtjmR9L_u4qUj68fe3-iywQJVXA",
-        "userName": "ibn Al-arbi",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjXgnQrmk-fLRT8kJKl6ryTjkIBgI28pLcS1s0iZw",
+        "userName": "News Dudo",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg_PcSz6NO-YQkElvszDVS1SUU0Aj3wb93FM9ApxQ",
         "content": "Gracias por la aplicaci\u00f3n y apuntar los s\u00edntomas que tengo, ahora mismo me hicieron el test PCR \u00e9se test que da falsos positivos y falsos negativos.",
         "score": 1,
         "thumbsUpCount": 1,
@@ -1765,8 +1801,8 @@
     },
     {
         "reviewId": "gp:AOqpTOFYuxr4twm-KAlAX6JSGMkEZE8wNMIBraSx1zqH6H1gk8QE9yi0ZBR8xnSaBJECe0IpLZ3sD_SZVM0NJ4g",
-        "userName": "Shop 360 Google",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhPm0UsKtS6Kq296Lu5koC6q5CrYrK1ar_f1oH15A",
+        "userName": "-M\u0160X- Call Of Duty Mobile",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GizOg8pTLKeAHlsdJ38amOLMw1r6FZN_UYaSvrKPw",
         "content": "Una basura. Solo sirbe para tenerte entretenido mientras medio pais muere...",
         "score": 1,
         "thumbsUpCount": 1,

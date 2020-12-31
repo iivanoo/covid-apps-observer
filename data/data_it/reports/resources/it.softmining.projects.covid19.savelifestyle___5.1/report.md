@@ -297,6 +297,8 @@ The SM_Covid19 app has been installed by more than **50000** times. At this time
 <img src="1_star_reviews_wordcloud.png" alt="it.softmining.projects.covid19.savelifestyle 1 reviews"/>
 </p>
 
+> Pessima app<br> :date: __2020-12-27 23:16:46__
+
 > Inutile. Qualunque app di tracciamento al di fuori di immuni è inutile e anzi dannosa in quanto divide gli utenti che vanno tracciati usando4una unica app nazionale unificata.<br> :date: __2020-12-10 10:44:31__
 
 > Decerebrati<br> :date: __2020-12-04 11:55:01__
@@ -314,7 +316,5 @@ The SM_Covid19 app has been installed by more than **50000** times. At this time
 > Uno perché viene solo il bt e non il gps. Mettete un margine d'incertezza per la privacy. Sarebbe utilissimo sapere che nel raggio di cento metri c'è stato tizio sicuramente positivo (perchè testato).<br> :date: __2020-10-06 10:57:21__
 
 > La segnalazione solo delle presenze delle persone non da alcuna certezza sulla presenza di eventuali positivi<br> :date: __2020-10-05 17:08:21__
-
-> L' app consuma troppo batteria<br> :date: __2020-10-05 00:04:40__
 
 

@@ -273,6 +273,8 @@ The WebMD: Check Symptoms, Rx Savings, & Find Doctors app has been installed by 
 <img src="2_star_reviews_wordcloud.png" alt="com.webmd.android 2 reviews"/>
 </p>
 
+> This was updated. Since then, I can't save my medications on the check interactions. We use to be able to do that. That helped me a lot. It helped me remember what not to take together. I have about a dozen medications that I take. I was really liking this. It was my go to for me. Now, I hate it.<br> :date: __2020-12-28 07:31:04__
+
 > The drug interaction checker not working properly. Says it found 2 interactions but only describes 1.Shows it found 3 interactions but only describes 2...and so on.Does not save my drug interaction entries anymore. Have to re-enter everything,each time I want to check something. This started happening with the lastest update..extremely frustrating<br> :date: __2020-12-19 19:54:00__
 
 > Need to deliver still waiting on my prescription<br> :date: __2020-12-03 01:39:54__
@@ -290,8 +292,6 @@ The WebMD: Check Symptoms, Rx Savings, & Find Doctors app has been installed by 
 > Not user-friendly<br> :date: __2020-10-03 08:56:22__
 
 > I couldn't find some of the meds I take. I'm not sure if this app is aware of Canadian medicine terms and generic drug names. Uninstalled.<br> :date: __2020-09-29 21:12:12__
-
-> Stopped working after last update...7/28/20<br> :date: __2020-08-01 23:20:50__
 
 
 

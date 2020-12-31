@@ -191,25 +191,25 @@ The Doctor On Demand app has been installed by more than **1000000** times. At t
 <img src="5_star_reviews_wordcloud.png" alt="com.doctorondemand.android.patient 5 reviews"/>
 </p>
 
-> Great way to receive medical attention and care quickly and efficiently<br> :date: __2020-12-20 17:31:19__
+> The dentist of mine implants has to narrow down others control that that have on me and mine stuff and show me evidence on mine networking reports them pass jughment for me<br> :date: __2020-12-28 06:07:25__
 
-> Highly recommend for things you need addressed that you just don't want to risk an office visit during COVID. Essentially cost saving. No driving and my cost is less than a normal visit.<br> :date: __2020-12-20 16:45:48__
+> Great and easy to use. Doctors are very kind and can help even with no in person time.<br> :date: __2020-12-27 23:57:12__
 
-> Great app. Love that a doctor iscright at my finger tips instead of having to make an appointment and wait two to three week to see my primary physician.<br> :date: __2020-12-20 15:50:03__
+> Extremely fast and very friendly<br> :date: __2020-12-27 21:06:28__
 
-> Great! Dr was easy to work with very knowledgeable and gave me everything I needed. Highly recommend this service<br> :date: __2020-12-20 11:05:18__
+> Great providers.<br> :date: __2020-12-27 20:58:37__
 
-> Dr. Eley was phenomenal. She was patient, supportive, reassuring, a credit to the medical community and exemplifies medical professionalism at its finest.<br> :date: __2020-12-20 06:31:00__
+> Very knowledgeable with a thorough examination<br> :date: __2020-12-27 20:05:57__
 
-> What a great service!<br> :date: __2020-12-20 03:44:53__
+> The doctor was amazing very patient friendly and not trying to diagnose me with random things 😊 highly recommend this app..<br> :date: __2020-12-27 16:46:47__
 
-> Very Fast Service. My doctor was easy to talk and very helpful.<br> :date: __2020-12-20 03:00:57__
+> Great find!<br> :date: __2020-12-27 02:54:04__
 
-> So far my husband and i have had 3 visits all together and each doctor was very helpful and we hung up very pleased with this service. They have a variety of health care professionals in different areas of the field so you always have lots of options.<br> :date: __2020-12-20 00:52:15__
+> Great resource.<br> :date: __2020-12-27 02:51:43__
 
-> Works Great<br> :date: __2020-12-19 21:04:27__
+> Wonderful<br> :date: __2020-12-27 01:53:16__
 
-> Very convenient way to get care without having to leave home<br> :date: __2020-12-19 21:04:06__
+> Life saver!<br> :date: __2020-12-26 22:45:02__
 
 
 
@@ -218,6 +218,10 @@ The Doctor On Demand app has been installed by more than **1000000** times. At t
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.doctorondemand.android.patient 4 reviews"/>
 </p>
+
+> Good<br> :date: __2020-12-24 19:08:19__
+
+> So far so good. I am still waiting for a good general physician.<br> :date: __2020-12-24 17:16:03__
 
 > Beside the low volume we had no other issues.<br> :date: __2020-12-20 12:49:54__
 
@@ -235,10 +239,6 @@ The Doctor On Demand app has been installed by more than **1000000** times. At t
 
 > Very helpful. Nice and friendly. Got most pending issue addressed. It was twice the price of a busy visit copay but I'm too sick to drive so it's worth it. Thanks!!<br> :date: __2020-12-11 23:15:40__
 
-> App doesn't find Insurance providers or show accurate copay information initially. You may need to try couple of times.<br> :date: __2020-11-21 21:01:43__
-
-> Good knowledge doctors<br> :date: __2020-11-21 17:33:03__
-
 
 
 #### 3-star reviews
@@ -246,6 +246,10 @@ The Doctor On Demand app has been installed by more than **1000000** times. At t
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="com.doctorondemand.android.patient 3 reviews"/>
 </p>
+
+> Pretty good but couldn't contact Tricare<br> :date: __2020-12-27 10:37:31__
+
+> This app is great if you need a therapy session or a prescription refill, but if you're actually seeking medical advice, this is probably not your app. I've tried 2 doctors through this app and all both wanted to do was rush me through (neither $75 appt lasted more than 7 minutes) and wrote me a prescription. The doctors in this network are probably just starting their residencies, so they don't have enough experience to do anything more than hand out pills and referrals to real doctors.<br> :date: __2020-12-23 17:38:00__
 
 > Great providers. But the app is not so good.<br> :date: __2020-12-12 01:48:33__
 
@@ -285,6 +289,12 @@ The Doctor On Demand app has been installed by more than **1000000** times. At t
 <img src="1_star_reviews_wordcloud.png" alt="com.doctorondemand.android.patient 1 reviews"/>
 </p>
 
+> Multiple cancellations without notice by different doctors<br> :date: __2020-12-22 21:23:27__
+
+> If you choose to have Dr.Kamra Mays as your therapist, be prepared to have your appointment cancelled 3 minutes before your session with no explanation. No phone call. No text. Nothing. Not only is this unprofessional, its inconsiderate. If you do chose to use this app, avoid Dr.Kamra May's.<br> :date: __2020-12-22 00:33:06__
+
+> Be aware that you run the risk of not getting a diagnosis. You will still pay for advice that isn't helpful to your problem...<br> :date: __2020-12-21 18:04:17__
+
 > Have used this app before with zero issues. And then yesterday came and I have an appt. That appointment goes just fine and doctor says she will call me in a script which was the reason for appt - med refill. Usually within less than an hour the full summary is written by doc and posted on app for me and then the script is called in NONE OF THIS HAS HAPPENED. I have submitted questions for customer service for help and no one answers me. At all. Over 24 hours has passed and radio silence. ......<br> :date: __2020-12-20 05:49:48__
 
 > Dr. Phil said that his app covered Medicare specifically Mental Health appointments during the pandemic... it does not cover Medicare! I deleted it immediately it was a lie.<br> :date: __2020-12-19 16:57:48__
@@ -298,11 +308,5 @@ The Doctor On Demand app has been installed by more than **1000000** times. At t
 > Why cant i get this to downlaod Ive tried many times and it wont go<br> :date: __2020-12-16 00:09:52__
 
 > Dr told me being abused as a kid and getting anxiety is my fault and should increase effexor regardless of withdrawal symptoms. Absolutely rude and ignorant<br> :date: __2020-12-15 17:20:08__
-
-> Missed my appointment 3 times apprentley even though I was on hold for 20 minutes I was chargerd $390!.. and when I finnley did get though to someone he prescribed me stuff that could've killed me when I demanded for a refund they refused becouse apprently the doctor had givein help. Are you trying to kill us? Uninstalled 1 star highly not recommended!..<br> :date: __2020-12-12 17:02:24__
-
-> What a let down after seeing this advertised with Dr Phil. He swore absolutely no co-pay for anybody on Medicare. Lie, lie, lie!! cost me 40 bucks. Won't be using this app again<br> :date: __2020-12-09 07:26:50__
-
-> They are not 24/7, I was waiting for video chat doctor and while they estimated time was >5 minutes I waited TEN with no answer, I then closed the app, came back and now I have to wait for an appointment to be able to talk to anybody? This is deceitful, and incongruous with the promotion that a doctor is available 24/7. That is a lie<br> :date: __2020-12-04 12:07:17__
 
 

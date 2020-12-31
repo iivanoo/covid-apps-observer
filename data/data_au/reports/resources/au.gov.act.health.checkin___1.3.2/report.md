@@ -264,6 +264,12 @@ The Check In CBR app has been installed by more than **10000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="au.gov.act.health.checkin 1 reviews"/>
 </p>
 
+> Three times tried to create an account, but it doesn't go beyond the registration page and the Privacy Notice. Must be a glitch in the app. Pls sort it out.<br> :date: __2020-12-26 00:29:29__
+
+> Doesn't work. Tried reinstalling twice and still returns error message about no registered business location at every shop I've tried. Worked for others but not me. Manual also doesn't work.<br> :date: __2020-12-24 03:21:51__
+
+> I was forced to get this app that collects information on you for the gov. F'ing Nanny State.<br> :date: __2020-12-24 00:53:00__
+
 > First time ever since covid started, I have to download app to register. Everyone is using a simple and reliable web registration. Total waste of our money by ACT government. Poor choice of registering option by Portrait Gallery Cafe. Portrait Gallery itself is nicely using web registration. Not to mention, this slow app is to be uninstalled after that single use. Not good enough, ACT Health.<br> :date: __2020-12-20 05:53:42__
 
 > Useless did not download in openable format with screen icon and no clear instructions how to do this<br> :date: __2020-12-17 21:22:12__
@@ -277,11 +283,5 @@ The Check In CBR app has been installed by more than **10000** times. At this ti
 > Complete failure. Says enter code but no indication of where to get code.<br> :date: __2020-11-04 00:06:22__
 
 > This app does not work. I've tried at 3 different locations and it has not worked once. Scanning a QR code and entering details manually was far easier. So now have to use written sign in if available or not bother signing in (playgrounds)<br> :date: __2020-10-27 04:01:35__
-
-> Poorly implemented solution. Clunky / inconvenient to use. Uninstalled it immediately after using it for the first time.<br> :date: __2020-10-23 07:41:15__
-
-> Have tried to scan a couple of times and it hasn't worked. Uninstalled and reinstalled. See how it works then.<br> :date: __2020-10-18 12:14:32__
-
-> Doesn't even download<br> :date: __2020-10-07 11:17:45__
 
 

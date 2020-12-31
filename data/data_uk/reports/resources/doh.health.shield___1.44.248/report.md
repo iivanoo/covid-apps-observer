@@ -147,25 +147,25 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="doh.health.shield 5 reviews"/>
 </p>
 
-> Good<br> :date: __2020-12-20 16:29:50__
+> Very usefull<br> :date: __2020-12-28 10:02:34__
 
-> Convenient<br> :date: __2020-12-20 15:36:14__
+> Good apps 👍<br> :date: __2020-12-28 07:30:32__
 
-> Very good results<br> :date: __2020-12-20 12:39:38__
+> Why not open app<br> :date: __2020-12-28 06:50:44__
 
-> Nice<br> :date: __2020-12-20 08:38:31__
+> Good<br> :date: __2020-12-28 05:00:07__
 
-> Very good<br> :date: __2020-12-20 05:01:31__
+> 👍excellent<br> :date: __2020-12-27 21:00:37__
 
-> Very good<br> :date: __2020-12-19 16:12:20__
+> This app worked fine in UAE,Not working inside Pakistan.<br> :date: __2020-12-27 20:43:32__
 
-> Good app<br> :date: __2020-12-19 15:57:40__
+> Very nice<br> :date: __2020-12-27 19:14:23__
 
-> Very useful<br> :date: __2020-12-19 15:47:16__
+> good soon update<br> :date: __2020-12-27 18:21:27__
 
-> Nice and helpful app<br> :date: __2020-12-19 13:40:49__
+> Not opne<br> :date: __2020-12-27 16:12:46__
 
-> 100% Trust<br> :date: __2020-12-19 12:24:48__
+> We can be confident and we are always safe,thanks to all<br> :date: __2020-12-27 11:49:37__
 
 
 
@@ -174,6 +174,12 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="doh.health.shield 4 reviews"/>
 </p>
+
+> Good app<br> :date: __2020-12-26 14:50:44__
+
+> The result is taking more time to get updated<br> :date: __2020-12-25 06:09:32__
+
+> Very good app.<br> :date: __2020-12-23 11:23:08__
 
 > Best way<br> :date: __2020-12-20 06:55:11__
 
@@ -189,12 +195,6 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 
 > UAE always good<br> :date: __2020-12-13 05:55:28__
 
-> Good<br> :date: __2020-12-12 12:46:31__
-
-> Good<br> :date: __2020-12-12 07:03:49__
-
-> Good<br> :date: __2020-12-11 14:25:45__
-
 
 
 #### 3-star reviews
@@ -203,9 +203,13 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 <img src="3_star_reviews_wordcloud.png" alt="doh.health.shield 3 reviews"/>
 </p>
 
-> Super<br> :date: __2020-12-18 11:45:39__
+> Nice...<br> :date: __2020-12-25 02:24:19__
 
-> Dear All, plz confirm if this app is working outside UAE or not? For me it is just showing first loading page only.<br> :date: __2020-12-17 21:02:36__
+> The updated version is getting hanging..<br> :date: __2020-12-24 14:17:27__
+
+> Excellent..<br> :date: __2020-12-21 05:19:25__
+
+> Super<br> :date: __2020-12-18 11:45:39__
 
 > Hi. I have a problem with the app. I have installed it on my phone but the app stays on home screen only and I am supposed to fly to UAE in a couple of days . What will happen if the app doesn't work on my phone? Do I have to buy a new phone in order to be allowed entry into the country? Can someone please give me some answers. I don't know who to contact about this . Thank you<br> :date: __2020-12-13 14:12:12__
 
@@ -219,10 +223,6 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 
 > It's very frustrating that you cannot register with your number from day one. it always tell me to register with the number which I never use.. even calling several times to customer support they says check after sometime but no result..<br> :date: __2020-11-29 17:05:27__
 
-> I just received the text message result. I wanna download the result document n need to upload to my HR portal. I just login to the app with the emirates ID and phone number. The current result is not reflecting.<br> :date: __2020-11-21 07:44:11__
-
-> Not updating to vaccinated status. No one answering the al hosn support nor email not working.<br> :date: __2020-11-20 22:19:28__
-
 
 
 #### 2-star reviews
@@ -230,6 +230,14 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="doh.health.shield 2 reviews"/>
 </p>
+
+> Hi After installing this app, I can't proceed as it does not show the Yes / No option in the pre-conditions survey. So I can't move forward and do the submit. I tried the uninstallng of app and again installed the same. But still the same. Please rectify the issue. Thanks<br> :date: __2020-12-27 05:36:27__
+
+> Hi I have Problem i ts not working with me<br> :date: __2020-12-24 05:44:16__
+
+> Not working properly<br> :date: __2020-12-23 12:45:38__
+
+> It's not work<br> :date: __2020-12-21 12:48:51__
 
 > Every time asking update why<br> :date: __2020-12-20 17:16:51__
 
@@ -243,14 +251,6 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 
 > Why not working after no options come when singn id nd Number nd code<br> :date: __2020-12-01 14:02:54__
 
-> It always says that, the mobile number linked with my Emirates Id is in correct. How to rectify this?<br> :date: __2020-11-30 05:53:10__
-
-> Very slow.<br> :date: __2020-11-23 19:42:34__
-
-> The latest update is unstable (frequently hanging) and also no longer shows how many days have past since the last testing date. With the previous version, the user/inspector can easily see how many days have passed since the last COVID19 test. In latest version, if you access the result after some time (4 days in my experience) it will just say "Negative - Expired". In the previous version, it would say "Negative for 4 days"..<br> :date: __2020-11-22 10:04:15__
-
-> I can't open the app with mobile data or Wi-Fi I'm still out side the Country and I'm facing this issue<br> :date: __2020-11-18 14:16:54__
-
 
 
 #### 1-star reviews
@@ -259,24 +259,24 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="doh.health.shield 1 reviews"/>
 </p>
 
-> Its ok<br> :date: __2020-12-20 16:37:49__
+> Keeps identifying me as someone completely else. There is also no button to contact support to solve this issue.<br> :date: __2020-12-27 16:10:03__
 
-> I try to open the app,but I was not able to enter the app<br> :date: __2020-12-20 14:29:43__
+> Can't get it to work at all<br> :date: __2020-12-27 15:23:25__
 
-> My app hang why<br> :date: __2020-12-20 14:26:04__
+> This app forces u to turn Bluetooth and GPS on And when u turn these on The battery of your smartphone gets affected<br> :date: __2020-12-27 14:19:42__
 
-> My app is not opening up and I need to travel tomorrow can anyone help out<br> :date: __2020-12-20 08:36:38__
+> It crashes before I add my personal info<br> :date: __2020-12-26 22:25:42__
 
-> It takes long way to start<br> :date: __2020-12-19 19:23:36__
+> nice applications<br> :date: __2020-12-26 08:05:15__
 
-> I kept waiting for one time code during login, tried multiple times, no message ever.<br> :date: __2020-12-19 17:47:51__
+> this app does not show the latest covid test report and i do not now how this app will know if a person from negative will be positive or will require another test ?<br> :date: __2020-12-26 06:44:08__
 
-> Doesn't work<br> :date: __2020-12-19 06:18:39__
+> I have checked my covid test on 24/12/2020;(12:15) and my result came on 24/12/2020:(16:41) - negative ,through SMS on my phone number . Till now I am not getting the PCR result on this app. Kindly help me as soon as possible<br> :date: __2020-12-26 05:53:07__
 
-> Why this app is not working? How to operate this app?<br> :date: __2020-12-19 05:26:08__
+> Worst app for getting report my freind done covid-19 test last 2 days but this app not sending any password just waste of time almost continuously try to get password but nothing received worst app please try to improve or give any alternative to get report..<br> :date: __2020-12-25 19:10:11__
 
-> The App doesn't work, its stuck at the very first page.<br> :date: __2020-12-18 15:43:46__
+> Downloaded the app but kept frozen on initial screen. Cannot even register. Installed deinstalled reinstalled several times but same scenario remain: frozen initially screen with no login of other menu. Dxb smart app from dubai in comparison works fine.<br> :date: __2020-12-25 14:59:35__
 
-> The app keeps stopping. Tried to resikve with an it specialist in all ways? Still to no avail.<br> :date: __2020-12-18 06:29:24__
+> Message for negative report came on 23rd but in app, its yet not updated.<br> :date: __2020-12-25 09:52:49__
 
 

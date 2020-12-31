@@ -121,6 +121,8 @@ The Covid Trace Nevada app has been installed by more than **50000** times. At t
 <img src="5_star_reviews_wordcloud.png" alt="gov.nv.dhhs.en 5 reviews"/>
 </p>
 
+> Good morning, is good for me to protect myself. Thank you<br> :date: __2020-12-24 09:27:50__
+
 > I love the idea. It doesn't interfere with anything on my device, either.<br> :date: __2020-12-19 19:47:28__
 
 > Works great as long as you have your Bluetooth is on.<br> :date: __2020-12-02 01:00:52__
@@ -138,8 +140,6 @@ The Covid Trace Nevada app has been installed by more than **50000** times. At t
 > Always updates when open, no issues.<br> :date: __2020-11-06 06:12:51__
 
 > We need everyone to get this to beat Covid.<br> :date: __2020-10-31 09:29:23__
-
-> Thank you Stay Safe<br> :date: __2020-10-31 05:22:45__
 
 
 
@@ -191,7 +191,9 @@ The Covid Trace Nevada app has been installed by more than **50000** times. At t
 <img src="2_star_reviews_wordcloud.png" alt="gov.nv.dhhs.en 2 reviews"/>
 </p>
 
-> Johnny Donnie Ddr<br> :date: __2020-12-17 17:05:23__
+> Absolutely useless if you don't have a specific 8 digit code to confirm the test results. The lab my husband got tested at used code numbers longer than 8 digits. When his test came back positive, there was no way to report it to this app. I don't know if this app is limited to NV Health dept tests or what.<br> :date: __2020-12-26 06:15:07__
+
+> I now understand why I never got an alert even though I live in a hotspot. I tested positive and tried to notify, but it requires a diagnosis code that is never given. There is no workaround, so no way it can be activated.<br> :date: __2020-12-24 20:14:33__
 
 > Don't know whether this thing really works or not<br> :date: __2020-12-12 04:51:42__
 
@@ -209,8 +211,6 @@ The Covid Trace Nevada app has been installed by more than **50000** times. At t
 
 > Hard to find what i need<br> :date: __2020-10-29 01:58:43__
 
-> Have the latest updates, yet asks me to update further. Click the link to do so > infinite load screen. Much needed app, needs some fixes.<br> :date: __2020-09-24 08:51:36__
-
 
 
 #### 1-star reviews
@@ -218,6 +218,12 @@ The Covid Trace Nevada app has been installed by more than **50000** times. At t
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="gov.nv.dhhs.en 1 reviews"/>
 </p>
+
+> Downloaded this app immediately when it became available. It was a great concept, if it worked. But it never did. Never got one report of proximity to infected person (even though I was), doesn't refresh most of the time, and drains the battery because you have to keep the Bluetooth on. I'm uninstalling it because it's just taking up valuable storage space and battery usage. So disappointed.<br> :date: __2020-12-28 02:50:14__
+
+> When I downloaded the App I assumed it would notify me of exposures. It never did. The App does not update and no matter where I go store, mall, movies, etc it doesn't connect or work. There is a serious flaw.<br> :date: __2020-12-26 09:43:12__
+
+> Rated dead last in best coronavirus detection app in america. Ironic since nevada has the 2nd highest cases (infected & death) in the nation. 🤔 You'd think we'd take this more seriously.<br> :date: __2020-12-21 23:56:23__
 
 > It requires a Verification Code to report you are Positive. The UMCconnect has no idea how to give me a Verification code after they told me I am positive. The app is useless, you can't report you have Covid. It was another huge Democrat money wasting pork belly project<br> :date: __2020-12-18 20:49:57__
 
@@ -232,11 +238,5 @@ The Covid Trace Nevada app has been installed by more than **50000** times. At t
 > I've been carrying this around for 3 months and to date NO NOTIFICATION that I've come close to Covid. Then I caught the coronavirus and it was EXTREMELY DIFFICULT to report a covid positive. You have to have a verification code to report your covid diagnosis and the clinics have NO CLUE on how to give you the code. I had to call the Nevada State DHHS and thankfully a really nice guy called back and gave me a code, and my roommate a code too BUT the app STILL isn't reporting Covid encounters!!<br> :date: __2020-12-15 23:25:51__
 
 > Does not work on my phone<br> :date: __2020-12-14 05:59:05__
-
-> Dosent work. I got covid and woke up dead yesterday. Can't believe I trusted an app to tell me if I was exposed to the flu. App was definitely created by a Biden voting Democrat. 🙁<br> :date: __2020-12-13 01:46:56__
-
-> Opened app after a few weeks of not looking at it. States exposure notification is off and click here. Clicked and it took me to the Google services page... why have the app if there's not going to be any notifications?<br> :date: __2020-12-11 02:23:39__
-
-> Does not work. My roommate and I had this app for months. A few weeks ago I notified the app when I tested positive and put in my confirmation code. My Roommate was Never notified. Neither were any of my coworkers with the app.<br> :date: __2020-12-11 01:38:44__
 
 

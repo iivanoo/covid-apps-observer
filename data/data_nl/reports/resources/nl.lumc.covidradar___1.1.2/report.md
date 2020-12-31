@@ -140,6 +140,8 @@ The COVID Radar app has been installed by more than **50000** times. At this tim
 <img src="5_star_reviews_wordcloud.png" alt="nl.lumc.covidradar 5 reviews"/>
 </p>
 
+> Was al een fijne app, maar is nu nog beter geworden om in te vullen, geeft ook goede en nuttige updates.👌👍<br> :date: __2020-12-24 04:41:24__
+
 > voor Elk gezin zeker bij ZelfQuarantaine. postcode-gebied kan zo nog beter in de gaten worden gehouden door onzeGGD. . Selecteren van ja/nee = iedereen dan hetzelfde bedoeld. Antwoorden in welke de MILDE-vorm van covid kunnen signaleren en kan de app dit aangeven dat de gebruiker dit heeft? LOGEES ZONDER-deze-app voer ik in en WIL IK NIET-AKTIEF kunnen zetten!!! TraceBack-covid19patient krijgt meerEnMeer vorm. m.i. zal Rivm/OMT eind sep met coronaMelderapp komen, welke ook BuitensHuis actief is.<br> :date: __2020-12-20 10:20:21__
 
 > Covid Radar Van het Lumc Oke.alles Goed 👍👍😊Prima 👌 Lang blijven nu niet verwijderen<br> :date: __2020-10-11 08:39:28__
@@ -157,8 +159,6 @@ The COVID Radar app has been installed by more than **50000** times. At this tim
 > Heel goed<br> :date: __2020-05-23 11:38:51__
 
 > Nummer 2 in de lijst ....!' 💪🏼❣️<br> :date: __2020-05-23 11:32:42__
-
-> Mooie verbeteringen zichtbaar, maar zou nog specifieker kunnen, bv beroepsgroep toevoegen van personen bv zorg medewerker, of kapper straks dat wordt spannend als men weer in contact komt dicht op de klant hoe verhouden de klachten symptomen, zich dan ?<br> :date: __2020-05-06 23:20:12__
 
 
 
@@ -252,6 +252,10 @@ The COVID Radar app has been installed by more than **50000** times. At this tim
 <img src="1_star_reviews_wordcloud.png" alt="nl.lumc.covidradar 1 reviews"/>
 </p>
 
+> Het heeft even geduurd maar dan krijg je ook wat. Invulergernis na maanden voorbij. Hopen dat de Corona ook gauw voorbij is............................................... Oude review: . Geen handige app. Vooral het invullen van getallen met die schuiven. Vooral de laatste schuif, die zit heel dicht tegen de knop versturen aan. Waarom niet gewoon cijfers ingeven? Ik hoop niet dat er een 2e uitbraak komt. Komt die er wel dan hoop ik dat de app gebruiksvriendelijker wordt.<br> :date: __2020-12-24 19:23:49__
+
+> Geen nut<br> :date: __2020-12-23 11:38:13__
+
 > Werkt voor geen meter<br> :date: __2020-10-21 14:16:51__
 
 > Rotzooi, net als de coronamelder<br> :date: __2020-10-12 11:11:35__
@@ -267,9 +271,5 @@ The COVID Radar app has been installed by more than **50000** times. At this tim
 > Ik heb de app geïnstalleerd en de vragen beantwoord. Er kwam uit dat ik Covid heb zonder koorts. Ik moet gelijk een arts raadplegen en het huis niet verlaten. Ik heb waarschijnlijk zeker geen Covid maar wel astma en longproblemen. En OSAS. Zo kan je van half Nederland zeggen dat ze Covid hebben<br> :date: __2020-06-06 13:38:25__
 
 > Deze radar draagt niks bij aan de weg terug naar een samenleving zonder 1.5m. Hier geef ik mijn privacy niet voor op. App verwijderd.<br> :date: __2020-05-17 10:57:47__
-
-> De vragen kan ik niet naar waarheid invullen. Krijg ook regelmatig de vraag of mijn lijst nog klopt terwijl ik elke dag de lijst invul. De vragen zijn te algemeen en ik kan geen nadere aanduiding geven waarom iemand binnen anderhalve meter afstand van mij is. Bij doktersbezoek is dat redelijk onmogelijk in mijn geval.<br> :date: __2020-05-16 23:34:28__
-
-> Crasht steeds bij opstarten.<br> :date: __2020-05-16 20:44:23__
 
 

@@ -191,25 +191,25 @@ The 98point6 app has been installed by more than **50000** times. At this time, 
 <img src="5_star_reviews_wordcloud.png" alt="com.ninety8point6.patientapp 5 reviews"/>
 </p>
 
+> I've used this app twice now. Both times have been quick and easy and I've been satisfied and confident with the recommendations of the doctor.<br> :date: __2020-12-28 03:56:29__
+
+> It's very convenient to be able to see a doctor from the comfort of your own home. I feel like this is the future of Medicare, And can't wait for a video endoscope to be able to show your throat nose & ears to the doctor<br> :date: __2020-12-27 17:40:14__
+
+> Its just the right thing to have in this day and time. Its a way of getting to talk to a doctor without evwn leaving the house and it cuts down io v ER visits. I think its great.<br> :date: __2020-12-26 14:10:32__
+
+> Very efficient way to address medical concerns and Dr. Kreiter was caring and knowledgeable.<br> :date: __2020-12-25 03:39:45__
+
+> Awesome. Fast direct and to the point. Helpful.<br> :date: __2020-12-22 23:06:54__
+
+> This service is great! Easy to use and I have always had very good doctors! It's a life saver these days!<br> :date: __2020-12-22 19:20:10__
+
+> Very nice. Doctor was very thorough.<br> :date: __2020-12-21 21:10:05__
+
+> Excellent experience.<br> :date: __2020-12-21 05:57:40__
+
 > Fast, responsive, and simple to use. So relieved to have this service!!<br> :date: __2020-12-19 18:27:33__
 
 > I use this just for refills that would cost alot more. It's great<br> :date: __2020-12-19 00:10:51__
-
-> It was amazing!!! So much better than scheduling a doctor visit!<br> :date: __2020-12-18 17:43:54__
-
-> This is a very easy app to use and it is so convenient to check up on simple heath concerns. I find the doctors to be good and thoughtful as well!<br> :date: __2020-12-18 16:59:09__
-
-> This app is a freaking godsend.<br> :date: __2020-12-17 20:09:47__
-
-> This is a very handy service. As a mom of 4 I have seen my share of minor issues but sometimes they need a doctors signature for treatment. It was convenient to NOT make an appointment and go in office to get a prescribed medication I knew from experience, would do the trick.<br> :date: __2020-12-17 15:26:25__
-
-> Quick response.<br> :date: __2020-12-13 22:49:56__
-
-> Awesome service. Thank you!<br> :date: __2020-12-13 20:51:14__
-
-> The doctor knew what to do for my ear<br> :date: __2020-12-13 01:24:11__
-
-> So user friendly and love being able to not have to miss work to get a Dr Appt. Thank you and Highly recommened<br> :date: __2020-12-10 20:25:43__
 
 
 
@@ -218,6 +218,8 @@ The 98point6 app has been installed by more than **50000** times. At this time, 
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.ninety8point6.patientapp 4 reviews"/>
 </p>
+
+> Prompt and helpful and i didn't have to leave home.<br> :date: __2020-12-26 07:56:30__
 
 > Very easy to use and got a quick response from a doctor about my wrist pain. She was able to diagnose the issue and recommend next steps.<br> :date: __2020-12-18 02:13:02__
 
@@ -236,8 +238,6 @@ The 98point6 app has been installed by more than **50000** times. At this time, 
 > Very good except that the session timed out while I was in the middle of a long entry into one of the fields. I had to start over.<br> :date: __2020-07-27 17:32:05__
 
 > Straightforward and helpful for all my visits<br> :date: __2020-07-13 20:50:49__
-
-> Doctors are available with short wait times, I like that I don't have to use the live camera if I don't want to. Doctors are professional, care, follow up with questions, and are real doctors, not just people using an algorithm. Good for little things, not for urgent care type stuff like a broken arm.<br> :date: __2020-06-25 22:56:02__
 
 
 
@@ -299,6 +299,10 @@ The 98point6 app has been installed by more than **50000** times. At this time, 
 <img src="1_star_reviews_wordcloud.png" alt="com.ninety8point6.patientapp 1 reviews"/>
 </p>
 
+> Waste of time, just go to a real Doctor.<br> :date: __2020-12-28 02:26:43__
+
+> The first time i used this app was great...after that it was useless.. The drs didnt want to do anything to help me and suggested i go to a dr... I have no insurance and my normal dr is a low income clinic that takes months to get an appt at... And i cant afford an er visit each time i need a medication refilled... And it wasnt even a narcotic medication or anything along those lines... So whats the point of this app??<br> :date: __2020-12-21 12:48:01__
+
 > Terrible. No one to help with technical issues and no number to call.<br> :date: __2020-12-02 02:44:52__
 
 > Horrible!!! Unable to register. Pages keep rotating.<br> :date: __2020-11-29 18:02:56__
@@ -314,9 +318,5 @@ The 98point6 app has been installed by more than **50000** times. At this time, 
 > Un helpful.<br> :date: __2020-09-20 23:14:11__
 
 > They will pair you with an out of network doctor without your knowledge causing you to pay a higher fee!<br> :date: __2020-09-15 17:58:31__
-
-> Not really much help when experiencing medical issues<br> :date: __2020-09-09 20:27:46__
-
-> Won't install<br> :date: __2020-09-01 19:07:38__
 
 

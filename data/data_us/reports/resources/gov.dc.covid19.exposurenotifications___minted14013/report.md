@@ -129,6 +129,10 @@ The DC CAN app has been installed by more than **10000** times. At this time, **
 <img src="5_star_reviews_wordcloud.png" alt="gov.dc.covid19.exposurenotifications 5 reviews"/>
 </p>
 
+> The app will work when you get tested by the DC run corona virus testing sites. If you go to private clinic there is no guarantee you will get a verification code if you test positive for covid. The private clinics are supposed to report results to the city health dept but if they don't do that you won't get a call from a contract tracer or a verification code to change your status in the app if you are positive. Go to DC health run testing sites and use this app, and then it works well.<br> :date: __2020-12-26 22:28:01__
+
+> Grand opening of justice<br> :date: __2020-12-23 00:56:24__
+
 > Good<br> :date: __2020-12-16 15:47:33__
 
 > greattonow#loveallwayd 🌏🏟<br> :date: __2020-12-02 14:29:29__
@@ -144,10 +148,6 @@ The DC CAN app has been installed by more than **10000** times. At this time, **
 > Super important stuff!!!<br> :date: __2020-10-25 02:28:05__
 
 > Install was easy, and the app just sits on my phone and I forget it's even on here. Hopefully more people start using it, as it doesn't seem to be intrusive or even a battery drain at all (at least on my phone) you will need to have Bluetooth turned on in order for this app to work, but it uses something called low energy Bluetooth, which is probably why it doesn't affect battery life. Overall good, simple app.<br> :date: __2020-10-21 15:05:10__
-
-> Smooth installation. Runs up Bluetooth so if you disable Bluetooth it shows you it's inactive which is helpful.<br> :date: __2020-10-21 04:30:05__
-
-> Doliwlid keep all safe<br> :date: __2020-10-21 01:56:18__
 
 
 
@@ -190,6 +190,8 @@ No recent reviews available with 3 stars.
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="gov.dc.covid19.exposurenotifications 1 reviews"/>
 </p>
+
+> Screw you. Screw you. Screw you.<br> :date: __2020-12-21 04:12:29__
 
 > Don't understand why it needs to enable my Bluetooth. I'm not leaving my Bluetooth on. Not happening. I'm not worried about the PLANdemic / SCAMdemic.<br> :date: __2020-11-17 03:16:53__
 

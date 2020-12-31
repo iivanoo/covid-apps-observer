@@ -1,5 +1,17 @@
 [
     {
+        "reviewId": "gp:AOqpTOHlLdoULEpPqLK3tQW3hyd7UQSBFgTomqNEYQTjptAgaCprY5mxaivBK8BkyHcQ2JrOsxWetWdr06ISx7A",
+        "userName": "merlino carmelo ignazio official",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgQwh1EIgq9R4OtvEweyV_nh8MIOH7V1OXvDmhn",
+        "content": "Pessima app",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "5.1",
+        "at": "2020-12-27 23:16:46",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOG7MYOcPtEtENzMKZsZyuaNlGZxRw5AYt_1Kw0d6pZlsFqBgjEUlkXo4iR4JQ8c6oXqOeC_7qqTKh0bGbk",
         "userName": "Gino Baruzzi",
         "userImage": "https://play-lh.googleusercontent.com/-ExCCz9jKQ0s/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnlq-6ng0GzTYr6sCX_TLcgYDUH_w/photo.jpg",
@@ -17,7 +29,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiTBpEGmqbpM1DLhKz2kb8uBadQ41rahUSJbO58",
         "content": "Inutile. Qualunque app di tracciamento al di fuori di immuni \u00e8 inutile e anzi dannosa in quanto divide gli utenti che vanno tracciati usando4una unica app nazionale unificata.",
         "score": 1,
-        "thumbsUpCount": 6,
+        "thumbsUpCount": 8,
         "reviewCreatedVersion": "5.1",
         "at": "2020-12-10 10:44:31",
         "replyContent": null,
@@ -917,7 +929,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj-qd7bcv1EzfA1uz1a5dsSFf_eEKtF9_0w4LmFj6U",
         "content": "Applicazione molto interessante e ben fatta ma che consuma una quantit\u00e0 di batteria assurda: minimo il 16% della batteria in 10 ore e senza mai averla aperta in modo esplicito ed \u00e8 un valore molto pi\u00f9 alto di quello del display o di Facebook o navigazione internet nello stesso intervallo",
         "score": 3,
-        "thumbsUpCount": 29,
+        "thumbsUpCount": 30,
         "reviewCreatedVersion": "4.1",
         "at": "2020-06-29 22:46:39",
         "replyContent": "Ciao Stefano, ci puoi indicare il modello sul quale ti consuma tanta batteria? La App di per s\u00e9 riceve solo messaggi da Android pertanto puoi aiutarci a verificare inviandoci modello Android e dispositivo all'indirizzo smcovid19@gmail.com",
@@ -2330,7 +2342,7 @@
     {
         "reviewId": "gp:AOqpTOHnycKutDu-WzdKclNqE2mXJCO9-AynWCGagbXporeCuDbhwyPw0RFqsFGijj6YHSLDm1Yw2_RPVFyZgsk",
         "userName": "Carlo Dell'anna",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhsOLPAGucvqxoNrFF3KRQrgCBqX3n_g349Xpy1PA",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgMjDUJJcIkmo7ILTdE1CDyO3aCM-wd1ZPVxxIpCg",
         "content": "Ottima",
         "score": 5,
         "thumbsUpCount": 0,

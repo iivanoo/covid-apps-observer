@@ -178,25 +178,25 @@ The NowClinic app has been installed by more than **50000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="com.americanwell.android.member.optum 5 reviews"/>
 </p>
 
-> Like my mom used to say "easy peasy lemon squeezy".<br> :date: __2020-12-18 22:53:16__
+> Easy. The one thing you want with telemedicine is ready. This is just that!<br> :date: __2020-12-26 18:07:55__
 
-> 👍<br> :date: __2020-12-18 17:58:04__
+> Now clinic app disconnected at the beginning of my appointment and didn't come back on.<br> :date: __2020-12-24 22:54:30__
 
-> First time user and my experience was Fantastic. No social distancing and no mask required. This appointment was Awesome.<br> :date: __2020-12-17 23:36:16__
+> Very happy with my visit today. Would use hilary schroeder again with no hesitation.<br> :date: __2020-12-24 16:26:02__
 
-> Love this app<br> :date: __2020-12-17 18:44:44__
+> SO happy that there's someone who can see me at 4am, & they take my insurance. This saved me as it's 4am on Christmas Eve & there's no way I'd be able to see my Primary Care Dr today (& I didn't WANT TO anyway because of COVID, for a simple medical issue that doesn't need a visit, but I do need an Rx). I don't want to go to ANY Dr or ER or Urgent Care right now because of COVID! This app was EASY & FAST, & now I can RELAX, get my Rx when the pharmacy opens, & I'm good to go! Thank you.👍😊<br> :date: __2020-12-24 13:47:57__
 
-> I love how you can see a doctor any time. One thing I noticed that I can't go back to see what diagnosis i was given and medication information. Just for paper trail purposes. Can someone check this out please.<br> :date: __2020-12-16 07:41:40__
+> Good visit with PA Frazier got the information was needed for my conditions thank you<br> :date: __2020-12-23 20:31:22__
 
-> Very Good convient and quick service<br> :date: __2020-12-16 05:45:09__
+> Love it great experience<br> :date: __2020-12-22 23:04:08__
 
-> Great App! I use this app weekly for Dr's appointments and prefer NowClinic virtual visits to in office visits.<br> :date: __2020-12-14 21:55:53__
+> And...I am still st home!<br> :date: __2020-12-22 17:50:26__
 
-> I was in need of relief from my gout. Being not able to walk this option was by far the best. Thank you NowClinic!<br> :date: __2020-12-13 17:15:40__
+> Awesome<br> :date: __2020-12-22 17:39:07__
 
-> The app for use on your iPhone or Android is great. When you try to use now clinic over the internet it is a miserable experience. Just a little warning in advance.<br> :date: __2020-12-13 06:00:43__
+> Excellent visit with now clinic. Dr Musni is an excellent Dr Very knowledgeable and pleasant.<br> :date: __2020-12-22 17:19:58__
 
-> It was easy and in the privacy of my own home. I lobe the fact im not risking my health by going into a dr office ir hospital to catch covid19. Thank U so much far and super easy.<br> :date: __2020-12-13 00:30:41__
+> I had a wonderful doctor that took her time to assist me and was very kind. It was so convenient to just wait at home for a doctor and have my prescription sent to my pharmacy right away. I will do this again in a heart beat. Thank you!<br> :date: __2020-12-21 22:32:48__
 
 
 
@@ -251,9 +251,6 @@ The NowClinic app has been installed by more than **50000** times. At this time,
 > the process was very slow<br> :date: __2019-06-30 18:50:29__
 
 > Sometimes it's good, sometimes not. Just depends on why your needing to do it. I have insurance and says 200 before insurance Not SURE WHAT THAT MEANS AS THIS IS SUPPOSED TO BE 100%covered.<br> :date: __2018-10-12 22:26:12__
-
-> Lots of connection issues - had to reconnect with the provider 3 times 
-before we could finish our visit<br> :date: __2018-05-26 17:22:36__
 
 
 

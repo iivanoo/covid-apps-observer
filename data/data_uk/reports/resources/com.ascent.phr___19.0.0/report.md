@@ -192,6 +192,14 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 <img src="5_star_reviews_wordcloud.png" alt="com.ascent.phr 5 reviews"/>
 </p>
 
+> very easy use and convenient<br> :date: __2020-12-24 10:34:51__
+
+> Works as should no problems<br> :date: __2020-12-23 15:20:17__
+
+> good<br> :date: __2020-12-22 18:48:11__
+
+> Simple to use love it<br> :date: __2020-12-22 16:19:52__
+
 > Great app linked to my gp. so much info and hassle.free ordering a repeat prescription<br> :date: __2020-12-19 14:28:57__
 
 > I've never had a problem with my repeat orders getting to my Gp.<br> :date: __2020-12-19 13:10:25__
@@ -203,14 +211,6 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 > easy to use, straight forward services. very happy with this app.<br> :date: __2020-12-17 12:49:39__
 
 > Always efficient, thank you<br> :date: __2020-12-16 01:02:32__
-
-> Great service<br> :date: __2020-12-14 10:36:42__
-
-> All good - Thank you no problems<br> :date: __2020-12-14 10:11:42__
-
-> This a great App easy to use + reliable<br> :date: __2020-12-14 09:26:30__
-
-> Excellent app - ordering repeat prescriptions is so easy.<br> :date: __2020-12-13 08:40:06__
 
 
 
@@ -248,6 +248,8 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 <img src="3_star_reviews_wordcloud.png" alt="com.ascent.phr 3 reviews"/>
 </p>
 
+> Works but confusing and sprawling<br> :date: __2020-12-28 10:56:23__
+
 > bio security does not work fingerprint works on all apart from this the most important one<br> :date: __2020-12-20 11:56:14__
 
 > Was a good app to check, history, make appointments and order repeat prescription. But lately I can't log on keep saying password or login is incorrect. When I reset password it works from the email link. Also would be good if e-prescription pharmacy could be set when requesting prescription so you don't have to leave a message. If log in and prescription issue fixed would be happy to rate 5 star 😪<br> :date: __2020-12-18 01:11:37__
@@ -265,8 +267,6 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 > takes too long to find page to order repeats.<br> :date: __2020-11-23 18:00:18__
 
 > cant book apts now, that has disappeared off here.<br> :date: __2020-11-23 12:13:52__
-
-> Edit: this is working again now - but only on my old phone (which is too knackered to sell so ok). My new phone runs colorOS, (realme6), which might have something to do with it. Disney+ doesn't work on it because of this... Edit: I can't get to the bit where you order a precriotion. It just buffers endlessly. 4/5/2020 Works well for me.<br> :date: __2020-11-23 08:25:52__
 
 
 

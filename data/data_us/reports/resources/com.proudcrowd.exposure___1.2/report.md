@@ -210,6 +210,10 @@ The Care19 Alert app has been installed by more than **10000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="com.proudcrowd.exposure 1 reviews"/>
 </p>
 
+> I can go days without it logging any activity even though I have had a number of stops and it will not recognize that I have changed my home address. It would be nice if I could just completely reset & start over but it won't let me do that either. Rather useless if I have to remember to manually enter where I've been.<br> :date: __2020-12-21 20:48:07__
+
+> Please stop showing up as soon as i open google play<br> :date: __2020-12-21 12:32:13__
+
 > Does not work clicked after a million times in nothing it just stayed there<br> :date: __2020-12-18 11:26:02__
 
 > Shouldn't have any sort of tracker like this. If there isn't one for the flu or any other virus we shouldn't have it for this.<br> :date: __2020-12-01 08:59:39__
@@ -225,9 +229,5 @@ The Care19 Alert app has been installed by more than **10000** times. At this ti
 > Don't put stuff on my phone if I want it I would get it<br> :date: __2020-11-01 07:21:06__
 
 > I dont live in the states that are provided, please add more states to this, and I will be an ambassador for the app.<br> :date: __2020-11-01 06:35:47__
-
-> App won't open past the second screen where you have to agree to the disclosure. When you click the "I agree" button, nothing happens. Fully updated Samsung Galaxy S9. App is worthless if it won't open.<br> :date: __2020-10-28 15:58:15__
-
-> The idea is garbage, but the app is absolutely garbage how it works. Ot is a virus its self.<br> :date: __2020-10-28 02:18:24__
 
 

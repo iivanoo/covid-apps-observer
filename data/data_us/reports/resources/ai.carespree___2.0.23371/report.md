@@ -314,6 +314,8 @@ The Sydney Care app has been installed by more than **100000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="ai.carespree 1 reviews"/>
 </p>
 
+> Think I have Covid but private healthcare is a fail. Horrible App (and somehow I pay for this experience). I have anthem blue cross blue shield and their sydney care app to figure out the covid testing I need with symptoms is a fail. Tries to link accounts but won't login and the reset password doesn't work to the email on file or phone. I can login to their other sydney app just fine. This sydney business has been a wreck since they sought to disconnect it from the name of the provider.<br> :date: __2020-12-23 04:54:25__
+
 > It will not allow me to get any info over to my work. Will not allow me to download my doctor visit information to my phone or fax it to my work or email to my HR department.<br> :date: __2020-11-09 21:15:41__
 
 > I have to answer the same questions every time I log in. It doesn't pick up where we left off.<br> :date: __2020-10-24 13:32:00__
@@ -331,7 +333,5 @@ The Sydney Care app has been installed by more than **100000** times. At this ti
 > It just wants to chat with me. Where is the covid quiz. Disappointing for being an insurance benefit.<br> :date: __2020-07-28 03:03:02__
 
 > Cut me off before I could register<br> :date: __2020-07-27 17:24:40__
-
-> What a joke. Sent me to another app for video doctor visit. What was the point of this app. It just told me what I already knew that I needed to get tested and to use another app to video chat with a Dr.<br> :date: __2020-07-20 18:20:39__
 
 

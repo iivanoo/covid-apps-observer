@@ -1,5 +1,29 @@
 [
     {
+        "reviewId": "gp:AOqpTOEokdTEf3gO0USg50WKVJQ32_b6PFIgWWmSWzJPxxxkcxLu37WjFjem6GDlpukHAm1PfwLZqsUTrhXqMMQ",
+        "userName": "Steve Petterborg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gjmmc6kE9kg1qFS4koMSL3xhiAYZZD2kj3Lj-YPRA",
+        "content": "Love love love booking my own appointments",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.16.13",
+        "at": "2020-12-26 21:09:46",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOEoaPJvzdxd6WTqC9R0uMNLlg5F21mgDjrKakkdvbYrVhNmAzu6otRgZRPqMc33yjxcsEefhtw7fAW_CWE",
+        "userName": "cglylesu44",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhPGFGM3ORQKQ3Ge0hUdrBp1PjPhxlKG-HnhvCfEeY",
+        "content": "A ton of things fall through the cracks causing an immense amount of confusion with your healthcare that's the last thing you want to not have a quality application especially since this company leans heavily on the application alone outside of in person or Zoom meetings",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.16.6",
+        "at": "2020-12-24 21:08:33",
+        "replyContent": "Hi there, sorry to hear this. If you send in the specifics of your experience to techsupport@onemedical.com our team can look into what is happening.",
+        "repliedAt": "2020-12-24 22:38:13"
+    },
+    {
         "reviewId": "gp:AOqpTOF3jPwUUyXnNbJRNicjABwqP0s53PXyIJEryrLXLP7lzxZFfG5KlKjiq5ftaRuD79Ijcs4quweovZYHsOA",
         "userName": "Cody Harrison",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgLaegZQIu1vz5RPcvIxOgopT8qRnLX3dOfeNX_-w",
@@ -17,7 +41,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gixwt7WqJhMHA4vmcNRLoo4pyGtNb00ZFlZHDQTTQo",
         "content": "It would be best if the app remembers the last office I went to and keeps that available on My 1med app . Also be on each page maybe. I only use the app on my android. When I see a dot by messages it should dissappear after I have looked at it. Under care plan, there needs to be an option for \"other\" to leave specific information. I would say....I tried to go to appointment but got lost, or it was too far, or they don't take my insurance. Love the Chat!!!!",
         "score": 3,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "3.16.13",
         "at": "2020-12-18 23:55:21",
         "replyContent": null,
@@ -37,7 +61,7 @@
     },
     {
         "reviewId": "gp:AOqpTOEIR3EhRAivJWRlxF-IjPxFHrXouckEJoKSt2LlHvIVfgdaplWJsam3sNfy1ffH7CM0bzoxeeth-beqWCg",
-        "userName": "Vanessa Pangaud",
+        "userName": "Vanessa",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiEUEFIxNuYenAr8Jdwwnpm5DAXPFcHhYyGs_tYfGQ",
         "content": "Amazing app. Works super well!",
         "score": 5,
@@ -233,7 +257,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ggw5J0hH2WhPCnr24LqSQ9Wl8GnDldVl4Hj5ged",
         "content": "Extremely helpful service so far. Originally got one medical when I was having issues getting a covid test after exposure at work. Ended up using their extremely convenient drive through option 3 times over 6 months, all great experiences and easy to book through the app. Took my previous doctor 3 weeks to mail me a list of referrals, and now I can literally click a button and see people in network with available appointment times. So helpful! Definitely makes it easier to get treatment.",
         "score": 5,
-        "thumbsUpCount": 3,
+        "thumbsUpCount": 4,
         "reviewCreatedVersion": "3.16.10",
         "at": "2020-11-10 02:03:41",
         "replyContent": null,
@@ -2186,7 +2210,7 @@
     {
         "reviewId": "gp:AOqpTOH0jIp2A1EKb9ttKS6mmlfMpPikg3axRnmgQuM1wFly4LQZwm0xp0xO7gdXXE3h834Cf52oP8t-0IQfFZY",
         "userName": "Bon Manhkong",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ghbq0IN7txWPgLHXU-6PC8rntWfe2gRk5YtS1hmnvk",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gjco_mjQ4dUgY8uWlxg_dksVcxpmw_x550Pn_itInY",
         "content": "Terrible experience.",
         "score": 1,
         "thumbsUpCount": 0,

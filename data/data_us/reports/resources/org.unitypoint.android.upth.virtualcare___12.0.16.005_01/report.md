@@ -177,6 +177,8 @@ The UnityPoint Health Virtual Care app has been installed by more than **10000**
 <img src="5_star_reviews_wordcloud.png" alt="org.unitypoint.android.upth.virtualcare 5 reviews"/>
 </p>
 
+> Dr. Was great. Easy to understand and very knowledgeable when it came to understanding my anxiety.<br> :date: __2020-12-27 08:02:30__
+
 > This option is amazing. I was able to do a video conference call with a doctor who was efficient and to-the-pount. I got the help I needed that I would not have been able to get had the option of a video conference appointment not been available.<br> :date: __2020-12-12 22:03:48__
 
 > Wonderful experience, great doctor!!<br> :date: __2020-12-10 22:36:48__
@@ -194,8 +196,6 @@ The UnityPoint Health Virtual Care app has been installed by more than **10000**
 > Always great connection and service<br> :date: __2020-11-05 21:46:04__
 
 > Fast and very easy<br> :date: __2020-10-25 15:05:20__
-
-> Fast and professional<br> :date: __2020-10-03 15:39:32__
 
 
 
@@ -230,6 +230,8 @@ The UnityPoint Health Virtual Care app has been installed by more than **10000**
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="org.unitypoint.android.upth.virtualcare 3 reviews"/>
 </p>
+
+> App is fine but I was out of town and needed to input a Pharmacy in the town I am visiting. The App did not give me an opportunity to do that. Thankfully I remembered this and told the doctor. i would have been very frustrated if the prescription was sent back to my hometown.<br> :date: __2020-12-23 22:49:27__
 
 > They double charged my card for one visit. Was on hold for 30+ minutes with customer support and still wasn't able to get ahold of anyone. Extremely frustrated. The app itself is a good idea and talking to a doctor was convenient from home. Just dont like being charged twice.<br> :date: __2020-03-19 13:50:21__
 

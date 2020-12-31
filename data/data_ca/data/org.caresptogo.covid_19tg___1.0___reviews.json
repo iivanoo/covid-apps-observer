@@ -1,23 +1,11 @@
 [
     {
-        "reviewId": "gp:AOqpTOFhqRT-myArnRNDQETBl5GF43GqBF8O9NJe_0OFG4GvvkVdlw8Huml4X0MC3tm8tdMCXRfrNeZoS80AKEk",
-        "userName": "Evan Foster",
-        "userImage": "https://play-lh.googleusercontent.com/-bv4fW-BEiPE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckDM9EmQdFZPlb-BqYKQHFJ_1tSdg/photo.jpg",
-        "content": "Issues.",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": null,
-        "at": "2020-12-19 21:37:43",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
         "reviewId": "gp:AOqpTOGlNTau79vf8vw3mtzB299stLXM9jCaVznz0Yt2Froagmk05sBclfvOq3rMtALps2mchbO_4XowOWQlokQ",
         "userName": "Kyle Vogelgesang",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjBSIH1SD4fSjY5sD4Zgegut7VUnFNTUB2hFr8tktc",
         "content": "Please have a option to have english or any other langage of this app and showing which places are infected",
         "score": 5,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "1.0",
         "at": "2020-11-22 22:07:30",
         "replyContent": null,
@@ -29,7 +17,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjlxH4zd464fK5YTVKweXiw1YSdu5n4_z2Ib4JXEg",
         "content": "Great app.",
         "score": 5,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 2,
         "reviewCreatedVersion": "1.0",
         "at": "2020-05-04 14:15:45",
         "replyContent": null,

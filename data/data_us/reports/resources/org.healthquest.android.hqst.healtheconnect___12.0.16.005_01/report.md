@@ -215,6 +215,12 @@ The Nuvance Health Virtual Visits app has been installed by more than **10000** 
 <img src="4_star_reviews_wordcloud.png" alt="org.healthquest.android.hqst.healtheconnect 4 reviews"/>
 </p>
 
+> Very good. Voice response from my end not heard by physician all the time.<br> :date: __2020-12-22 21:50:34__
+
+> Everything was good but i wasn't able to understand him well due to his accent. It had nothing to do with this app. Overall a good experience...<br> :date: __2020-12-21 18:09:56__
+
+> Needs more instructions to get started but def 1 of the better aps I have dealt with<br> :date: __2020-12-21 17:07:40__
+
 > The app through nuvance is quite good but the quality of talking or viewing through it seems to depend on the system you are using. It worked excellent on my android galaxy S9, but not at all good on my Acer chrome book but moderately ok on my Lenovo all in one desktop. For overall use its been fine and since multiple of my medical providers use it, the choice is use it or phone call with no video.<br> :date: __2020-12-11 19:57:20__
 
 > I am not good with computers or applications using computers. At first i didn't know how to install an application at all, but i did it<br> :date: __2020-11-19 21:23:31__
@@ -228,12 +234,6 @@ The Nuvance Health Virtual Visits app has been installed by more than **10000** 
 > Video was fine audio is choppy but other than that the app is good!!!<br> :date: __2020-05-04 14:28:05__
 
 > The Doctor was fantastic, but the service is very different than in person. It is Okay, when I have to...<br> :date: __2020-04-30 21:33:03__
-
-> I love how you can see yourself and the provider. At times its hard to just stare at a person on video chat so this give you an opportunity to look at yourself if needed to get rid of the nervous jitters. Only crappy part was the sound we couldn't hear each other at times.<br> :date: __2020-04-27 16:14:21__
-
-> Good. Doctor said my voice was delayed.<br> :date: __2020-04-20 17:45:15__
-
-> Very convenient! Loved it. Aside from a pixelated video and a little delay, it was awesome!<br> :date: __2020-04-09 17:30:25__
 
 
 

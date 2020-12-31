@@ -1,5 +1,29 @@
 [
     {
+        "reviewId": "gp:AOqpTOHI_Sw2-pwkzHKpCaa4TtLxC5oFUUb57BN4rdVQwViTvpXMSVgsxa-bzO6FhKyjukVQSW3heJKrfpNqvgE",
+        "userName": "Scott Lutocka",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgnJJSD3XdZSpHZK_hPKPjGJN7uoQE6TZzTqFhGY2k",
+        "content": "The app didn't allow for multiple prescription entries and the camera function would not zoom or focus on my ID.",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "12.0.16.005_01",
+        "at": "2020-12-28 03:08:45",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOEumhyRVqaQEqSmWMt35kOiGU3GcNO4_79vhfxGihqlhIxzKOpgNIjjUmaUtfw8_QVNJL7B4HWPza-ZlG8",
+        "userName": "Mark McKaig",
+        "userImage": "https://play-lh.googleusercontent.com/-zsx_PjSyrWw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckGYPGZ1RJmAZe_qZMpBXeLJGESTw/photo.jpg",
+        "content": "The app is very easy to use and the doctors visit beats going in and waiting in a room where you have the potential to expose yourself to ill patients coming in",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "12.0.16.005_01",
+        "at": "2020-12-27 23:15:35",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOHK8N_u9bUaUr2UvAN4PpwtXUIAGQ20QeFBaoNTxs6YqPEUTGS6E4vh13vCRCWK4YmyEePV4OFt0jigE-Q",
         "userName": "Melissa Millspaugh",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ggkpq6oCvhcRaknTx4JMUQzKy_v6cmtbWsIlw7cYw",
@@ -53,7 +77,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GglctbzG6rzMt_Q_Zfryl6y6wmB8GtpO1Ddz9Qaxg",
         "content": "Very easy to use. Only had an occasional sound problem but may have been the providers mic.",
         "score": 5,
-        "thumbsUpCount": 1,
+        "thumbsUpCount": 2,
         "reviewCreatedVersion": "12.0.16.005_01",
         "at": "2020-11-28 20:56:25",
         "replyContent": null,
@@ -1105,8 +1129,8 @@
     },
     {
         "reviewId": "gp:AOqpTOHY0D4-GS_xE3jLmW0kqyVfvi7vrU5FvTAOYFJU0eYNxsJoByEoyQ02pZU1PdWwe8t7I_gNJFyF04znObs",
-        "userName": "Susan gillette",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgmA2S0hkf2qYaTUtQjYnt6Y1lyg9u1VBN4_Y0hZQ",
+        "userName": "Sharon Anderson",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GithsslfgYwQKHeWJwxfYfcDdH7nZnoyBNaHHrIBA",
         "content": "Ok",
         "score": 4,
         "thumbsUpCount": 0,
@@ -6301,7 +6325,7 @@
     },
     {
         "reviewId": "gp:AOqpTOHGndkymzLiY7wGfezrfiGIz54LzfwM2Dy_b5k6K0hrpM_36l2pPzxbeuy6EZbY9DFtPRc-nXZouSUm6Gg",
-        "userName": "Katherine Jones",
+        "userName": "jace Jones",
         "userImage": "https://play-lh.googleusercontent.com/-mlVcwfIz1gI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclPaB2fe4pxfsRmLJ2L8hjIczpxLA/photo.jpg",
         "content": "Dont call about the Corona virus. They dont ask about any symptoms. They only want to know if you have been exposed to a confirmed case and tell you they will report findings to the cdc. And told me good luck, hope you feel better. I'm so dissappointed. I go to IU for everything. I've lost some faith.",
         "score": 1,

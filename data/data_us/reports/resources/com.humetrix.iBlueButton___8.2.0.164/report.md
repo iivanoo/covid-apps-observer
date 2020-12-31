@@ -250,6 +250,8 @@ The iBlueButton app has been installed by more than **10000** times. At this tim
 <img src="1_star_reviews_wordcloud.png" alt="com.humetrix.iBlueButton 1 reviews"/>
 </p>
 
+> Terrible app! The UI is cluttered and isn't intuitive. I was hoping to use iBlueButton to link my VA medical records, but it's not any better than the VA's My HealtheVet website. Don't waste your time with this app.<br> :date: __2020-12-27 19:28:44__
+
 > App won't even open anymore. Just says some error code and that there is a problem with the server. What is the deal!<br> :date: __2020-01-08 07:37:04__
 
 > This was a total waste of my time. It ask for dates for things in your childhood that no one would ever remember to add it. It also does not have all the medications that I am taking. What is the deal of listing pharmaceutical companies for meds when people go to stores to get meds? Why not just list the med. This is a useless app and a Big waste of time.<br> :date: __2019-09-16 23:45:07__
@@ -267,7 +269,5 @@ The iBlueButton app has been installed by more than **10000** times. At this tim
 > app doesn't work at all<br> :date: __2017-12-01 02:02:07__
 
 > Can't do anything and doesn't look like anyone is trying to fix it.<br> :date: __2017-11-08 02:58:19__
-
-> It doesn't work<br> :date: __2017-10-12 15:07:24__
 
 

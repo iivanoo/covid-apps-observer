@@ -173,6 +173,8 @@ The Covid Alert DE app has been installed by more than **10000** times. At this 
 <img src="4_star_reviews_wordcloud.png" alt="gov.de.covidtracker 4 reviews"/>
 </p>
 
+> Very interesting<br> :date: __2020-12-22 02:32:40__
+
 > It works fine but, we NEED A DAILY REMINDER TO CHECK IN!<br> :date: __2020-12-04 13:13:16__
 
 > I like to help. Thinking I read directions correctly, now it is clear. . . "Use this app for 1 minute a day to make an important contribution to the fight against coronavirus." I don't know about all that, but the simple and straight forward dashboard is slick. Do your part and pray we get through this post-haste! I find it alarming that Kent County, DE is surrounded by higher infection rates, to the north and south. Software that does not suck is Cool.<br> :date: __2020-10-28 13:49:22__

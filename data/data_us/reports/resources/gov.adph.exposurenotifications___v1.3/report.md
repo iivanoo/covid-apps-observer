@@ -164,13 +164,15 @@ The GuideSafe app has been installed by more than **50000** times. At this time,
 <img src="4_star_reviews_wordcloud.png" alt="gov.adph.exposurenotifications 4 reviews"/>
 </p>
 
+> They should add something for the blind site challenge<br> :date: __2020-12-22 14:23:39__
+
+> Haven't actually tried it out,but the idea it self is brilliant. If everything play the part being identified I will give you five.<br> :date: __2020-12-21 13:33:27__
+
 > When trying to report test results, it only says "Server Failure" and won't allow them to be reported. Makes me very skeptical about others being able to report positive tests and alert others. This app has one very important function and it's failing to do its one job.<br> :date: __2020-12-04 00:17:48__
 
 > The app itself was easy enough to set up. I think most of the issues people are having with this all is not understanding it won't work as accurately if more people don't use it, and people not understanding how the technology works. I will continue to use the app and update my review later.<br> :date: __2020-11-27 07:41:56__
 
 > The Whole Problem With This Is Unless Everyone Uses App Kinda Useless Because No Matter How Many People I Try To Educate On The Importance Of Everyone Doing This No One Sees The Importance ! Needs To Be Mandatory !<br> :date: __2020-11-23 03:04:20__
-
-> Is there a way to report a coworker's positive test result?<br> :date: __2020-11-20 05:03:21__
 
 > Just started the app.<br> :date: __2020-11-04 21:03:09__
 
@@ -232,6 +234,18 @@ The GuideSafe app has been installed by more than **50000** times. At this time,
 <img src="1_star_reviews_wordcloud.png" alt="gov.adph.exposurenotifications 1 reviews"/>
 </p>
 
+> The app checked for exposure every 24-48 hours when I first installed. In the last month, the app hasn't checked for exposure at all. Uninstalled, reinstalled, checked and rechecked settings and still no exposure check. Uninstalling permanently. Worthless unless it consistently checks for exposure.<br> :date: __2020-12-28 04:22:21__
+
+> Doesn't work!<br> :date: __2020-12-27 08:56:05__
+
+> Doesn't work<br> :date: __2020-12-27 05:25:56__
+
+> My app has not updated exposure checks since November 27th. Is it broken? Should I just uninstall?<br> :date: __2020-12-24 05:58:48__
+
+> No longer working as of November. I have reinstalled it twice and it just shows "never checked for exposure."<br> :date: __2020-12-23 21:54:28__
+
+> The app doesnt do what its suppose to at all unfortunately.<br> :date: __2020-12-23 04:05:02__
+
 > App is a joke if no one is reporting they have covid. Daughter tested postive and i am exposed. App never notified me.<br> :date: __2020-12-19 21:14:34__
 
 > Worthless. Not everyone is using it, and it doesn't connect to any other states. So basically you've just just installed an app that connects to no one. And now it hasn't bothered checking for exposure in over a month?! Uninstalled and moving on.<br> :date: __2020-12-16 20:52:18__
@@ -239,17 +253,5 @@ The GuideSafe app has been installed by more than **50000** times. At this time,
 > Since this app is suppose to alert people on whom has covid it never did even to this day alert me about my roommate who has covid ... So now im quarantining because this app is b.s.😒 using up my memory and sh\*\**<br> :date: __2020-12-16 03:36:49__
 
 > Do you waste your time on this app<br> :date: __2020-12-12 11:51:58__
-
-> Not interested in having big brother track me<br> :date: __2020-12-10 04:36:37__
-
-> As others report, bluetooth required at download suddenly becomes must turn on location as well. And I had the same issue with no updates for over a week during Thanksgiving. Seeing only 200 downloads as of today makes this virtually useless. Uninstalling<br> :date: __2020-12-07 22:55:48__
-
-> Opened the app to report a positive test and found out it hasn't updated since Nov 26 (its currently Dec 4). All of my settings are correct, my Bluetooth and location stay on anyway. It took several tries over the course of a few minutes to get it to save my test input which is like, there is literally one thing this app is for. Why can it not just do the thing. I'm asymptomatic but if I was sick sick I wouldn't have the energy to fight to get it to post.<br> :date: __2020-12-05 02:40:57__
-
-> I tested positive and I can't get the verification sms to my phone<br> :date: __2020-12-01 20:25:23__
-
-> App doesnt work, turns off your bluetooth which is needed for the app to work.<br> :date: __2020-12-01 15:05:51__
-
-> The app has serious bugs. Mine doesn't let me past the "Your Privacy is Safe" screen even after clicking the disclaimer and clicking on the green "more" button.<br> :date: __2020-11-27 13:22:21__
 
 

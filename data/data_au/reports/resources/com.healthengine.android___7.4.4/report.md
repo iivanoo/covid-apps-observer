@@ -172,25 +172,25 @@ The HealthEngine app has been installed by more than **500000** times. At this t
 <img src="5_star_reviews_wordcloud.png" alt="com.healthengine.android 5 reviews"/>
 </p>
 
-> Easy and quick to use.<br> :date: __2020-12-20 11:54:32__
+> I needed to book an appointment after a public holiday.<br> :date: __2020-12-28 05:52:07__
 
-> This app is a life saver<br> :date: __2020-12-19 05:25:05__
+> Easy to use and staff manage app well<br> :date: __2020-12-28 04:32:51__
 
-> 👍<br> :date: __2020-12-18 14:54:04__
+> Great app easy way to book Ur appointment with a fantastic staff and amazing staff of dr's<br> :date: __2020-12-28 04:30:48__
 
-> Easy to use<br> :date: __2020-12-18 05:06:04__
+> Easy and simple and quick way to make an appointment<br> :date: __2020-12-28 02:18:29__
 
-> Nice and easy to use; appreciate the convenience!<br> :date: __2020-12-17 23:32:48__
+> Easy to use and always gets it right<br> :date: __2020-12-27 22:32:32__
 
-> Very efficient its a must have.<br> :date: __2020-12-17 08:47:51__
+> Very good app.<br> :date: __2020-12-27 07:31:11__
 
-> Always friendly and helpful<br> :date: __2020-12-17 08:01:09__
+> Brilliant doctors and staff who will go out of their way to help in any way they can. Above and beyond 🙂 Kim Lindsay<br> :date: __2020-12-27 02:47:39__
 
-> Very good.<br> :date: __2020-12-17 07:58:07__
+> Great for keeping appointments organized, especially with on going medical conditions<br> :date: __2020-12-26 22:40:26__
 
-> Good<br> :date: __2020-12-17 03:53:02__
+> Excellent App..<br> :date: __2020-12-26 03:20:48__
 
-> Love the app, so easy and can book anytime<br> :date: __2020-12-16 11:56:53__
+> Very easy to use. No fumbled stories.<br> :date: __2020-12-26 02:59:46__
 
 
 
@@ -199,6 +199,14 @@ The HealthEngine app has been installed by more than **500000** times. At this t
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.healthengine.android 4 reviews"/>
 </p>
+
+> Travised through each section ok<br> :date: __2020-12-28 07:18:01__
+
+> Great tool for making appointments.<br> :date: __2020-12-22 04:34:03__
+
+> Convenient<br> :date: __2020-12-21 23:32:28__
+
+> Loved the waiting in queue info<br> :date: __2020-12-21 04:55:02__
 
 > Ive had no problems with this app. Easy to use. Works well<br> :date: __2020-12-16 07:26:19__
 
@@ -212,14 +220,6 @@ The HealthEngine app has been installed by more than **500000** times. At this t
 
 > Happy everytime I use it so far<br> :date: __2020-12-08 16:09:17__
 
-> Very easy to use, font not clear<br> :date: __2020-12-04 22:17:43__
-
-> Was really good but not every service listed.<br> :date: __2020-12-04 12:51:31__
-
-> Great service easy to use<br> :date: __2020-12-04 10:27:00__
-
-> Love it so easy<br> :date: __2020-11-30 08:54:00__
-
 
 
 #### 3-star reviews
@@ -227,6 +227,8 @@ The HealthEngine app has been installed by more than **500000** times. At this t
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="com.healthengine.android 3 reviews"/>
 </p>
+
+> It makes it much easier to get the Appointment of the my choice<br> :date: __2020-12-28 00:43:46__
 
 > Helpful in every way<br> :date: __2020-12-15 02:34:12__
 
@@ -245,8 +247,6 @@ The HealthEngine app has been installed by more than **500000** times. At this t
 > My first time using this app. Not familiar with it. Cannot delete one of the profile on my list (even though I am able to delete another one) If I am able to choose GP from a drop down list that would be great. Then I don't have to go thru many GP with their available date and time shown.<br> :date: __2020-09-05 03:41:53__
 
 > Good<br> :date: __2020-08-19 14:21:18__
-
-> Sometimes unresponsive<br> :date: __2020-08-16 14:18:48__
 
 
 

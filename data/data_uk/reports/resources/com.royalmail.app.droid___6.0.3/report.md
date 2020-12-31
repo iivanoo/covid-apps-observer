@@ -155,6 +155,10 @@ The Royal Mail - Tracking, redelivery, prices app has been installed by more tha
 <img src="5_star_reviews_wordcloud.png" alt="com.royalmail.app.droid 5 reviews"/>
 </p>
 
+> Very efficient, easy to use and useful. Just what royal mail has always needed.<br> :date: __2020-12-24 13:34:02__
+
+> Great app!. 👍👍😁 Happy Christmas R.M.❗✝️ 🎁🎁🎁☃️⛄☃️⛄☃️☃️☃️<br> :date: __2020-12-24 12:29:04__
+
 > Good<br> :date: __2020-12-19 21:16:58__
 
 > Waiting for delivery<br> :date: __2020-12-18 05:11:22__
@@ -170,10 +174,6 @@ The Royal Mail - Tracking, redelivery, prices app has been installed by more tha
 > Fast hard working people<br> :date: __2020-12-07 18:40:22__
 
 > Very good app and useful too<br> :date: __2020-12-05 17:36:08__
-
-> Royal mail love you<br> :date: __2020-12-04 21:37:35__
-
-> Very easy to use, so useful for tracking my items being delivered by royal mail.<br> :date: __2020-12-04 00:31:21__
 
 
 
@@ -211,6 +211,12 @@ The Royal Mail - Tracking, redelivery, prices app has been installed by more tha
 <img src="3_star_reviews_wordcloud.png" alt="com.royalmail.app.droid 3 reviews"/>
 </p>
 
+> Tracking nos are alpha-num and long and I can't copy from my sources. Info seems sketchy. Update... uninstalled as won't accept my password, LIKE SO MANY APPS IT JUST DEFEATS ITSELF. Bah humbug.<br> :date: __2020-12-25 13:09:29__
+
+> Unresponsive<br> :date: __2020-12-23 13:30:00__
+
+> My first experience started well, BUT I'd arranged for a parcel to be collected, got the notification confirming tracking ID, & specific day of collection by my USUAL POSTIE. However when the postie turned up, (luckily he had to ring the doorbell as he was also delivering a parcel) he knew nothing about the collection as nothing was logged on his PDA & he couldn't therefore scan it to track. He did however agree to take it & assured me it would be scanned back at the depot. We'll see 🤞<br> :date: __2020-12-21 14:46:59__
+
 > Great Concept Good Execution annoying gap. Like everything about this app, sending from home is great, but one thing; the need to enter your address, as sender every time is really annoying. Why doesn't it remember my details? Once fixed be good if the box to copy that from sender to the invoice address was default or unnecessary. Once that's fixed including an address book, or the ability to use addresses in your contacts, or those already in my Click and Drop profile would be a great feature.<br> :date: __2020-12-19 06:33:51__
 
 > The post box app is good in principle but why does it tell people the time the post was collected rather than the time of the next collection, If I were catching a train I would want to know when the next one was, not the time of the one I had missed.<br> :date: __2020-12-12 18:23:14__
@@ -225,12 +231,6 @@ The Royal Mail - Tracking, redelivery, prices app has been installed by more tha
 
 > The first time I used this app it was awful and I gave up, it's now at least useable, but still needs a lot of work<br> :date: __2020-11-14 13:18:20__
 
-> App is useful by some bug. The tracking pages need looking at badly<br> :date: __2020-11-13 19:39:37__
-
-> Please allow the option to reference name a parcel/tracking number provided by a seller, even before it has a status attached.<br> :date: __2020-11-03 15:49:49__
-
-> 3 * because I have tried to get a redelivery for a item and it won't allow me to redeliver keeps saying "validation error if this persists contact the site provider" brilliant idea but whats all that about?<br> :date: __2020-10-31 15:50:42__
-
 
 
 #### 2-star reviews
@@ -239,7 +239,17 @@ The Royal Mail - Tracking, redelivery, prices app has been installed by more tha
 <img src="2_star_reviews_wordcloud.png" alt="com.royalmail.app.droid 2 reviews"/>
 </p>
 
-> App worked well. This is a comment on service App actually worked well. Dont need app but web logon out of date. I thought the 2 or 3 days delay was so that parcel could be delivered with normal post. Today a royal mail van went down road. Nope not mine. Tracking says 9.30 AM received somewhere, delivery by 9 PM. Tracking not updated all day. No indication . 21.43 still no parcel. I should have gone out for dinner but stayed in for parcel. So annoyed. I think RM has outsourced without thought<br> :date: __2020-12-18 22:46:06__
+> This is the results of privatisation in app form. Doesn't even do the basics.<br> :date: __2020-12-26 16:01:07__
+
+> I installed the app to get an update as to when my delivery would occur. I dont understand why the service is "deliver by 9pm" but you have no tracking ability. It's no wonder why services like heroes are used, as they let you know when they are an hour away, estimated delivery time. I wouldnt use the Royal mail if I have any choice, customers value the ability to know when the parcel will arrive, even if that's a 3 hour time slot.<br> :date: __2020-12-24 21:04:12__
+
+> Desk top version much better. Why does this app insist on first name and surname when I am sending to a business?<br> :date: __2020-12-23 12:25:28__
+
+> Pretty rubbish. The QR code takes you to the all, nothing else. You then need to sign up or log in and basically type all of the details from your "Something for you" card. Only then to find out you can't book a next day delivery but you can collect tomorrow. Like I said, it's pretty useless.<br> :date: __2020-12-22 13:39:50__
+
+> The registration process uses "opt out" for marketing preferences. And tracking of a special delivery just says "out for delivery" Both show just how archaic Royal Mail is. 1st class stamp prices always going up but can't do anything modern nearly as effectively as competition<br> :date: __2020-12-22 11:26:14__
+
+> Rubbish takes far too long to update, they don't deliver on the day that they said that they would.<br> :date: __2020-12-22 03:49:45__
 
 > Poor app. Better just to use the website. The QR code just directs you to the app, I expected it to be a unique, secure and handy way to redeliver but no. I don't trust this app either. You can type anything and it will go through without error - random name, random address, made up delivery number. Means if you make a mistake inadvertently your redelivery will be delayed.<br> :date: __2020-12-18 11:59:14__
 
@@ -249,16 +259,6 @@ The Royal Mail - Tracking, redelivery, prices app has been installed by more tha
 
 > All I wanted to do is use the Parcelbox finder. But no, you have to register, putting all your details in - and there's not even a postcode search function for your address. You shouldn't have to register unless you want to actually buy something.<br> :date: __2020-12-14 12:07:49__
 
-> Don't like the fact that they upsell their more expensive delivery options. By default, on packages, the standard 1st and 2nd class options are hidden by default - you have to specifically tick a box to show them as options. There's then a jumbled mess of 6 or 7 postage methods. All very confusing!<br> :date: __2020-12-12 23:43:53__
-
-> In a word, clunky. The app needs to automatically populate the sender address and store card details for payment. It's really slow to use having to enter this info for every item I send. I'm logged in so should not need to re-enter this info.<br> :date: __2020-12-12 19:44:36__
-
-> Can no longer rename tracked items after last update.<br> :date: __2020-12-09 13:45:17__
-
-> Alerts for signed for parcels cone in 24hrs after delivery, doesn't help if yo don't get a card to tell you it's at a neighbours<br> :date: __2020-12-08 16:09:31__
-
-> Rubbish, Rubbish, Rubbish<br> :date: __2020-11-24 16:56:31__
-
 
 
 #### 1-star reviews
@@ -267,24 +267,24 @@ The Royal Mail - Tracking, redelivery, prices app has been installed by more tha
 <img src="1_star_reviews_wordcloud.png" alt="com.royalmail.app.droid 1 reviews"/>
 </p>
 
-> Doesn't allow my email address<br> :date: __2020-12-19 17:47:53__
+> App gives false information, stated package was delivered where as it was delivered 2 days later, spent one day contacting royal mail regarding supposed missing package, TIP OF THE DAY, use DHL, DPD, Hermes or Amazon or anyone but Royal mail and this app<br> :date: __2020-12-28 11:15:41__
 
-> Downloaded only to lookup post codes but found that I had register just to do that and no doubt then get bombarded by junk mail. Removed<br> :date: __2020-12-19 15:20:36__
+> Royal Mail say you have to download this app to search for your nearest parcel postbox (as advertised on TV) - but when you search for one, even with the whole of the UK selected, it reports "sorry, no results found. Try clearing filters". It finds normal letter postboxes ok, but there's clearly a major bug in the app.<br> :date: __2020-12-27 11:55:16__
 
-> The tracking does not work<br> :date: __2020-12-19 14:01:22__
+> Can't even track Royal Mail own numbers in UK while third party apps can. Pretty pathetic.<br> :date: __2020-12-27 07:53:49__
 
-> Royal mail is pure $h!te<br> :date: __2020-12-19 13:46:46__
+> Absolute garbage. Scan the QR code on my something for you card and it just takes you to the page to fill in manually.... What is the point ?<br> :date: __2020-12-26 20:11:35__
 
-> Installed it, and like every other Royal Mail operation it is slow and clunky. My advice is to forget about the Royal Mail and use Hermes. A much better service.<br> :date: __2020-12-19 12:48:26__
+> Tells me i got parcel.arriving...but says nowt i need to pay customs charge..instead i wait for a card through the door .then have to go online and pay then wait another 2 days to get the parcel...surely this app should of alerted me to pay and save a bunch of time . Its poinless really .<br> :date: __2020-12-26 18:11:06__
 
-> Limited options. To update a safe place the app forces 7ser to choose alternative delivery date. Not easy to use and when opened from email, locks the screen and won't close.<br> :date: __2020-12-19 08:16:09__
+> TOO FLIPPING COMPLICATED. iTS COST ME £40 ALREADY & GOT NOTHING FROM IT. cAN'T FIND ANY WAY TO GET MY MONEY BACK.<br> :date: __2020-12-26 12:02:05__
 
-> Won't install<br> :date: __2020-12-18 16:39:37__
+> I downloaded this to track my parcel, got to OPEN then NOTHING HAPPENS<br> :date: __2020-12-24 20:17:25__
 
-> Tried to book a collection. Got all the way to payment a couple of times but then it kept cancelling<br> :date: __2020-12-18 13:30:54__
+> Don't want to create an account just want to see parcel drop off points on a map!!!!!<br> :date: __2020-12-24 00:09:19__
 
-> Utter rubbish<br> :date: __2020-12-18 08:55:02__
+> Forced to install this sh*te because someone didn't deliver a parcel, they usually leave a blank card with no reference number or anything filled in, and run away without knocking the door etc. Need to create an account to use also.<br> :date: __2020-12-23 21:05:06__
 
-> Waste of time, tracking tells you nothing until item has been delivered. No wonder prices keep going up if Royal Mail waste their money on this trash.<br> :date: __2020-12-17 17:44:54__
+> App worked to book re-delivery 3 days later. This is comment on service. Dont need app but web logon out of date. Thought the 2 / 3 days delay was so that parcel could be delivered with normal post. Royal Mail vans keep passing but 4 days after booked re-delivery day nothing. App can't update tracking info. So who knows? And what's the point. Finding contact method is a pain behind FQA and finally 50 mins wait on phone. Then supposedly delivering into evening but sorting office shut at 1pm<br> :date: __2020-12-22 21:01:42__
 
 

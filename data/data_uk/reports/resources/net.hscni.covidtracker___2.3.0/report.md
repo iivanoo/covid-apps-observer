@@ -150,6 +150,10 @@ The StopCOVID NI app has been installed by more than **100000** times. At this t
 <img src="5_star_reviews_wordcloud.png" alt="net.hscni.covidtracker 5 reviews"/>
 </p>
 
+> I strumming for DCI middlemoor u big style fun and games cock<br> :date: __2020-12-26 05:13:43__
+
+> Helps to keep me safe and others safe<br> :date: __2020-12-21 03:35:48__
+
 > Perfect<br> :date: __2020-12-10 13:47:17__
 
 > Absolutely essential app.<br> :date: __2020-12-07 08:47:11__
@@ -165,10 +169,6 @@ The StopCOVID NI app has been installed by more than **100000** times. At this t
 > Respect to our great NHS , and listen to them .<br> :date: __2020-11-20 15:20:02__
 
 > It does what it says and this update will make things much clearer for anyone receiving notifications<br> :date: __2020-11-17 12:56:54__
-
-> Thankfully no alerts yet<br> :date: __2020-11-06 22:40:58__
-
-> Very good<br> :date: __2020-10-28 00:13:57__
 
 
 
@@ -262,6 +262,10 @@ The StopCOVID NI app has been installed by more than **100000** times. At this t
 <img src="1_star_reviews_wordcloud.png" alt="net.hscni.covidtracker 1 reviews"/>
 </p>
 
+> Yh it's a good idea if you're 6 years old assuming that everyone is going to download it... A small childish idea where we all live in a utopia downloading this app at the same time... This only works if the government forces you to download it by law... Only downloaded because I thought there was going to be a surprising new idea to uncover... Yh turns out it's like Pokémon GO without any Pokémon<br> :date: __2020-12-26 21:58:20__
+
+> Load of s\*\*\*\*<br> :date: __2020-12-22 19:54:32__
+
 > Shite dont work week late 😂😂😂😂🤬🤬🤬<br> :date: __2020-12-11 10:05:12__
 
 > I got an alert tonight showing close contact on the 26th November.. Problem being the alert only came through when the isolation period ended that being 10th December? Very worrying!<br> :date: __2020-12-11 02:19:31__
@@ -277,9 +281,5 @@ The StopCOVID NI app has been installed by more than **100000** times. At this t
 > Not getting anything from this site when first started told everyday now nowt<br> :date: __2020-11-27 15:11:31__
 
 > Loads of Rubbish.<br> :date: __2020-11-22 18:35:12__
-
-> Government surveillance scam,shhep fell for it!<br> :date: __2020-11-21 05:18:56__
-
-> isn't it supposed to send notifications? because that's not happening<br> :date: __2020-11-18 09:53:06__
 
 

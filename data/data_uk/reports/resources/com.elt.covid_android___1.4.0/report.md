@@ -139,6 +139,8 @@ The C19 Control app has been installed by more than **50** times. At this time, 
 <img src="5_star_reviews_wordcloud.png" alt="com.elt.covid_android 5 reviews"/>
 </p>
 
+> I care for my friends so I got this app<br> :date: __2020-12-27 19:53:18__
+
 > Simple to use with a very easy to navigate set of menus.<br> :date: __2020-04-30 07:50:48__
 
 

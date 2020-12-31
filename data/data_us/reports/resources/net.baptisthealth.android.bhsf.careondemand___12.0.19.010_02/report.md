@@ -202,6 +202,8 @@ The Baptist Health Care On Demand app has been installed by more than **50000** 
 <img src="5_star_reviews_wordcloud.png" alt="net.baptisthealth.android.bhsf.careondemand 5 reviews"/>
 </p>
 
+> Always a pleasure, the doctor's are so sweet and kind and even chatted to get to know me and shared a piece of their life making us relatable and all of us are human and these day's things seem harder and this service saves my mind and body by not having to leave my home for something "simple" they can help me with online. Thank you doctor's and staff! Keep up the great work!!! And stay healthy!<br> :date: __2020-12-22 03:29:16__
+
 > Great, safe and easy way to get the best care possible.<br> :date: __2020-12-08 20:42:55__
 
 > Worked great love the provider Martha Vega 👍<br> :date: __2020-12-06 20:08:00__
@@ -219,8 +221,6 @@ The Baptist Health Care On Demand app has been installed by more than **50000** 
 > Great app!<br> :date: __2020-10-22 23:35:36__
 
 > Amazing!<br> :date: __2020-10-17 22:10:08__
-
-> Easy to use<br> :date: __2020-09-21 16:09:07__
 
 
 
@@ -288,6 +288,8 @@ The Baptist Health Care On Demand app has been installed by more than **50000** 
 <img src="1_star_reviews_wordcloud.png" alt="net.baptisthealth.android.bhsf.careondemand 1 reviews"/>
 </p>
 
+> I had Covid19 in july 2020. I was atended 3 times, by 2 doctors. They prescribed antibiotics and fever-pain medicine. My point is, I told both doctors I was 2 weeks with fever, not getting better, but they kept saying I "eventually would be better". After 2 weeks, I started feeling short of breathness, when standing up. I decided go hospital. There, in half hour, they found 2 lungs compromised by pneumonia, and imediatelly started antibiotics. In 4 days I was back home.<br> :date: __2020-12-23 19:24:41__
+
 > Doesn't work<br> :date: __2020-12-02 15:47:44__
 
 > Was charged twice for their services. An authorization hold then an actual charge. Ended up paying an over draft fee because of being charged twice. Was not WARNED..that I would have TWO charges on my account. Sad because I needed help but ended up paying more than agreed on.<br> :date: __2020-07-20 15:15:39__
@@ -305,7 +307,5 @@ The Baptist Health Care On Demand app has been installed by more than **50000** 
 > Todo está bien con la atención de los doctores pero no llegan las prescripciones a las farmacias lo que hace totalmente inútil la aplicación para los pacientes y el esfuerzo de los doctores para brindar el servicio<br> :date: __2020-03-28 17:49:54__
 
 > Not worth to even do the download....<br> :date: __2020-03-22 23:08:03__
-
-> I have been waiting 6 hours now. Finally shows I am the next patient for last 2 hours will prob give up. I have a simple issue that just requires a simple Rx<br> :date: __2020-03-19 23:26:03__
 
 

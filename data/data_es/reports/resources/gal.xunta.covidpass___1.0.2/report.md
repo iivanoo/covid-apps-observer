@@ -224,6 +224,8 @@ The PassCOVID.gal app has been installed by more than **10000** times. At this t
 <img src="2_star_reviews_wordcloud.png" alt="gal.xunta.covidpass 2 reviews"/>
 </p>
 
+> Las restricciones cambiaron esta noche a las 12, y a pesar de haber recibido una notificación diciendo que había cambios en la app, al entrar sigue apareciendo la info de ayer 🤔<br> :date: __2020-12-23 08:30:25__
+
 > Tiene que mejorar No consigo que la app me indique zonas en las que hay brotes de contagios o zonas de riesgo, se limita a dar información sobre restricciones y recomendaciones que ya conozco muy bien. La desinstalo ahora mismo, esta app no me sirve para desplazarme con seguridad. Más adelante le daré una oportunidad<br> :date: __2020-12-01 00:01:22__
 
 > Tuve que desinstalarla se quedaba colgada nada más descargarla.....<br> :date: __2020-11-30 19:20:30__
@@ -241,8 +243,6 @@ The PassCOVID.gal app has been installed by more than **10000** times. At this t
 > Es poco clara y "le cuesta" poner todo en bilingüe, español y gallego. En varios contenidos no da opción y sólo sale la versión en gallego... Otra enfermedad, el antibilingüismo.<br> :date: __2020-11-28 12:57:27__
 
 > Es curioso que me permita registrar a qué bares voy pero que no pregunte y/o permita registrar el uso del trasporte público... Muy curioso...<br> :date: __2020-11-24 22:26:27__
-
-> Debería permitir independientemente si eres positivo o no, poder determinar libremente que lugares y contactos has tenido de manera cronológica dentro de la app. Seleccionar los lugares visitados de una manera simple, no solo con un QR que la mayoría desconoce cual es de cada local. Usar gmaps para ubicar los lugares sería más preciso y que quede registrado el día de visita del lugar y lo mismo para mis contactos estrechos. Ayudaría y sería más sencillo el uso.<br> :date: __2020-11-21 10:53:40__
 
 
 

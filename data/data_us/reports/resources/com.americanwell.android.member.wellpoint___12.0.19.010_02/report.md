@@ -186,25 +186,25 @@ The LiveHealth Online Mobile app has been installed by more than **500000** time
 <img src="5_star_reviews_wordcloud.png" alt="com.americanwell.android.member.wellpoint 5 reviews"/>
 </p>
 
-> This was very helpful and absolutely easy to install and use and I will use it often now thank you so much for this app<br> :date: __2020-12-19 20:14:07__
+> Dr. Whyte was able to help me with what I was dealing with. I would recommend this to my friends. Great experience with this.<br> :date: __2020-12-28 02:00:37__
 
-> Was pretty well impressed all the way around now maybe it's cuz I'm a little older but I think that it's pretty cool and it works well this was my second time using it and the doctor was a normal regular guy with English as first language and everything I highly recommend it for anyone including my own family<br> :date: __2020-12-18 23:04:37__
+> Nice personal<br> :date: __2020-12-26 23:49:42__
 
-> Dr.Brian Wong was amazing! He was very caring and listened to all I had to say. !!<br> :date: __2020-12-18 22:57:52__
+> The best! We have several high risk at home. This is an amazing service, thank you!!! 💗<br> :date: __2020-12-26 15:36:24__
 
-> Got a quick diagnosis for an easy issue. Prescription was sent directly to my local pharmacy.<br> :date: __2020-12-18 07:06:38__
+> Very easy to use and had better scenery at my house 🙂.<br> :date: __2020-12-26 15:25:15__
 
-> Fast, thorough and professional. I wish I had done this years ago!<br> :date: __2020-12-16 18:20:06__
+> Amazing!! I was about to leave my home at 2:30am on Christmas Day because I was feeling so bad. I grabbed my insurance card and noticed the 24/7 nurse helpline. She then informed /directed me to the app and I'm soo glad she did. I didnt have to leave my bed, talk to a great Dr, got my prescription and I'm so happy.<br> :date: __2020-12-26 09:43:32__
 
-> First time user and I'm glad I did. Hopeful and grateful.<br> :date: __2020-12-15 03:05:46__
+> Better than going into the dr office when you feel bad....dr can diagnose these little things!! So much better!<br> :date: __2020-12-24 23:53:44__
 
-> Wow that was so painless and helpful.<br> :date: __2020-12-15 01:33:33__
+> Always a great experience.<br> :date: __2020-12-24 19:28:39__
 
-> Instead of waiting two hours at an urgent care center I waited five minutes at home.<br> :date: __2020-12-13 15:29:54__
+> Great<br> :date: __2020-12-24 13:23:24__
 
-> Excellent service<br> :date: __2020-12-12 20:31:18__
+> Great quick service. Kind Providers.<br> :date: __2020-12-23 23:08:47__
 
-> Doctor was very friendly and understood what I am going thru!<br> :date: __2020-12-12 15:31:51__
+> Easy to use, great!<br> :date: __2020-12-23 15:35:33__
 
 
 
@@ -270,6 +270,8 @@ The LiveHealth Online Mobile app has been installed by more than **500000** time
 <img src="2_star_reviews_wordcloud.png" alt="com.americanwell.android.member.wellpoint 2 reviews"/>
 </p>
 
+> App is very frustrating. Filled out my information and accidentally put in my credit card instead of my HSA card. I immediately cancelled and later, I received an email from my CC company stating my credit card was charged. I had to start over entering all my my information along with my son's ailments. I selected to see the first Dr. available. The app said someone would be with me soon. No estimate on how much time so I am sitting staring at my phone thinking soon would be 5 minutes.<br> :date: __2020-12-25 04:23:36__
+
 > Audio is not working properly. Every update fixes one thing but creates another. Bad connection abound. I live in Ohio and there are not enough therapist available and no psychiatrist so no one to manage medication. So only half treatment is available.<br> :date: __2020-11-04 22:45:22__
 
 > The visit went well however i need a prior auth for an eye medication for my eyes it has been since September 2nd and it is now sept 5th and i have absolutely nothing for my eye so it went from " allergy pink eye" to full blown pink eye in my right eye i cannot contact the doctor nor can i send her a message i paid 58 dollars to see this doctor and now i have to waste time going to an urgent care just a suggestion check insurance to make sure a prior auth is not needed b 4 prescribing a med.<br> :date: __2020-09-05 22:30:20__
@@ -288,8 +290,6 @@ The LiveHealth Online Mobile app has been installed by more than **500000** time
 
 > The app crashed on me while I was in line for an hour, twice! On a separate occasion, I finally got through to a doctor and he was rude, short and unhelpful. I was telling him about my symptoms and he was telling me that I don't know what I'm talking about. I don't think I will use this service again.<br> :date: __2020-04-12 20:30:33__
 
-> Site continually drops<br> :date: __2020-03-30 22:56:17__
-
 
 
 #### 1-star reviews
@@ -297,6 +297,10 @@ The LiveHealth Online Mobile app has been installed by more than **500000** time
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="com.americanwell.android.member.wellpoint 1 reviews"/>
 </p>
+
+> Unfortunately, this is the app that my insurance uses.<br> :date: __2020-12-27 21:55:44__
+
+> Worst medical app I've ever used. My card was charged 4 times and all the "doctor" did was tell me to go somewhere else. Never using again and I'm filing to get my money back.<br> :date: __2020-12-21 20:06:11__
 
 > zero stars. 3 weeks ago, did the online visit, got a Rx sent to Walgreen's. Pharmacy was closed for T-day. Went to get Rx filled at another location, Walgreen's doesn't have Rx on file. Called customer service. Was told I had to do another visit (and pay again) to get my Rx because too much time had passed.<br> :date: __2020-12-17 10:30:34__
 
@@ -313,9 +317,5 @@ The LiveHealth Online Mobile app has been installed by more than **500000** time
 > Absolute garbage. The app itself feels like a 90s webpage and it's abysmal in terms of managing it's providers. Mine vanished without a trace, leaving me with needing a prescription renewal and the only way to get one was to spend another $175 on finding a new provider in the app. What's the point if you have no doctors continuity? And if this happens only occasionally, why wasn't I informed? Absolute trash -- find a better platform than this for yourself, honestly.<br> :date: __2020-10-08 13:30:53__
 
 > Garbage. You can't select a doctor, they show you a limited list of who to pick from and none of them were licensed doctors.<br> :date: __2020-09-28 18:55:24__
-
-> GAAAAAAHHHH!!! so frustrated!! My diagnosis, go get a lung xray....thanks for nothing!! Don't waste your time, just go to your primary.<br> :date: __2020-09-18 00:43:49__
-
-> Well if u wanna pay to be told u need to be seen in person waste ur 59 or whatever dollars he wouldnt give antibiotics gave me aleve for 59 f in dollars<br> :date: __2020-09-14 23:56:08__
 
 

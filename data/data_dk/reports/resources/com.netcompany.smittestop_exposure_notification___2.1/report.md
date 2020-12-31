@@ -162,6 +162,8 @@ The Smittestop app has been installed by more than **500000** times. At this tim
 <img src="5_star_reviews_wordcloud.png" alt="com.netcompany.smittestop_exposure_notification 5 reviews"/>
 </p>
 
+> Looks like the app is finally working now. I have multiple checks per day that come with a notification. And the daily updates are a nice feature too. Next time you need to ask for consent, you have to send us a notification, nobody opens this app every day.<br> :date: __2020-12-21 13:01:44__
+
 > Beautiful<br> :date: __2020-11-16 15:17:20__
 
 > The effort to help is worthy 5 stars<br> :date: __2020-10-07 15:31:28__
@@ -180,8 +182,6 @@ The Smittestop app has been installed by more than **500000** times. At this tim
 
 > Useful without being needlessly complicated. The FAQ section gives really good responses to questions and concerns people might have.<br> :date: __2020-07-31 22:46:21__
 
-> Hello, i love this apps, i dont understand why people dont like sharing their location... If they are letting to cookies to facebook, browsers, etc. which are doing the same thing... I have question, does this work With Croatian COVID-19 Ministry of Health?<br> :date: __2020-07-31 10:21:12__
-
 
 
 #### 4-star reviews
@@ -189,6 +189,8 @@ The Smittestop app has been installed by more than **500000** times. At this tim
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.netcompany.smittestop_exposure_notification 4 reviews"/>
 </p>
+
+> Smittestop app is inactive... Get this message every few days and need to open it to activate it<br> :date: __2020-12-21 08:46:51__
 
 > Please allow detecting contacts across a phone "backup, wipe, restore" sequence, as the backup app reported that you don't. Desired bonus featue: Basic stats display like "Active for XX hours with XX different IDs, XXX anonymous contact IDs recorded, 0 contact IDs were infectious, you are NOT registered as infected, latest list of infectIous IDs downloaded yesterday at HH:MM".<br> :date: __2020-12-16 23:30:51__
 
@@ -208,8 +210,6 @@ The Smittestop app has been installed by more than **500000** times. At this tim
 
 > Fint initiativ, app'en er nem at forstå når først den er aktiv. Dog er der alt for meget at læse under første opstart, det bør gemmes væk under en "mere info" - knap. Nogle giver op undervejs. Det alvorligste problem med app'en er dog at så få kender til dens eksistens, i min omgangskreds blandt familie, venner og kolleger er det kun få. Send dog en opfordring via e-Boks og SMS til alle borgere, som man gjorde om smitten i begyndelsen af epidemien!<br> :date: __2020-07-25 08:35:09__
 
-> Ville være fint hvis den gav en mere synlig påmindelse når den af den ene eller anden årsag bliver offline. Ellers super simpel at sætte op og bruge.<br> :date: __2020-07-22 09:56:46__
-
 
 
 #### 3-star reviews
@@ -218,13 +218,15 @@ The Smittestop app has been installed by more than **500000** times. At this tim
 <img src="3_star_reviews_wordcloud.png" alt="com.netcompany.smittestop_exposure_notification 3 reviews"/>
 </p>
 
+> Why do I get a notification that the app is checking for possible contacts? That must happen in the background, not needed to annoy me many times during other use<br> :date: __2020-12-27 00:03:00__
+
+> Hvorfor henter app'en information så ofte? Ser ofte en banner mindst en gang i minuttet - nogle gange oftere, hvilket er ret irriterende.<br> :date: __2020-12-25 19:26:45__
+
 > Synes den virkede fint i starten, mens efter seneste opdatering sætter den sig inaktiv hver dag, så jeg skal åbne appen for at den går i aktiv tilstand igen. Er dette et forsøg på at minimere strømforbrug eller fordi appen ikke kan downloade data i baggrunden? Jeg får heldigvis en notifikation om at den er inaktiv, men den kan man jo hurtigt overse hvis man ikke lige kigger på mobilen hele tiden<br> :date: __2020-12-20 07:49:51__
 
 > Virker, da der kommer notifikationer, men først når jeg åbner appen. Har aldrig fået notifikation uden at åbne appen.<br> :date: __2020-12-16 18:45:11__
 
 > Det virker lidt som om app'en går i stå hvis man ikke bruger den jævnligt, men ellers lige til og forklarende. Bruger ikke GPS som nogen ser ud til at tro. Ville dog være rart med en indikation at at den reelt virkede og havde en effekt. F.eks. en sum tæller over exposures på en dag.<br> :date: __2020-12-04 22:32:58__
-
-> Det nytter jo ærlig talt ikke, at man konstant skal give fornyet accept - den giver jo ikke besked om det. Jeg tjekkede det lige ved et tilfælde, og den har ikke indsamlet ID i ugevis, sikkert siden sidste opdatering. Og nej, GDPR er ikke en issue, folkesundheden er en klar undtagelse, som ikke kræver accept til at begynde med. Og man kan sige, at så giver man også automatisk et samtykke ved at installere appen alligevel.<br> :date: __2020-11-26 00:48:58__
 
 > Intentionen er prisværdig men udførelsen halter: I default-konfigurationen, hvor batteri-optimering er aktiv, kan baggrundschecket uprovokeret gå i stå uden at brugeren advares. Fylder 3 gange så meget som andre landes tilsvarende apps. Dvs. apps der også benytter Apple/Googles notifikations-system. Ej open-source.<br> :date: __2020-10-18 22:00:15__
 
@@ -235,8 +237,6 @@ The Smittestop app has been installed by more than **500000** times. At this tim
 > Virker som det skal men en så vigtig app som denne burde være open-source<br> :date: __2020-09-25 14:59:38__
 
 > Idéen med en sådanne app er i virkeligheden super brugbar, dog er effektiviteten af appen direkte sammenhængende med antallet af brugere. Jeg synes derfor ikke at SUM har gjort nok for at reklamere og sprede budskabet om appen. De fleste i min vennegruppe (unge) kender ikke til appen, og jeg har først fornyligt fået mine forældre til at installere appen. Håber i vil overveje dette.<br> :date: __2020-09-07 18:25:30__
-
-> In these times I see why this app is a must-have. What i don't like is that it empties battery power too fast (on Samsung Galaxy s10+) even when set to medium power saving mode. Perhaps an optimization is required.<br> :date: __2020-09-07 08:52:51__
 
 
 
@@ -274,24 +274,24 @@ The Smittestop app has been installed by more than **500000** times. At this tim
 <img src="1_star_reviews_wordcloud.png" alt="com.netcompany.smittestop_exposure_notification 1 reviews"/>
 </p>
 
-> Totalt værdiløs app. Er på intet tidspunkt bliver varslet om nær kontakt med smittede, heller ikke nå jeg har stået i kø til testet. Nu er jeg testet positiv, men den del af app hvor man melder det in, virker ikke. Som mange skriver "Falsk tryghed".<br> :date: __2020-12-20 13:09:47__
+> Det er for ringe. Kommer ustandseligt med pop ups om ligegyldige opdateringer af lokation eller andet. Kunne heldivis disable lyden, så den ikke længere vækker mig om natten. Afinstallerer smittestop.<br> :date: __2020-12-27 20:31:21__
 
-> For det første bruger den rigtig meget batteri. For det andet bruger den så meget råderum at min telefon bliver så langsom at den næsten er ubrugelig. Har derfor måtte opgive at bruge app'en<br> :date: __2020-12-20 11:22:09__
+> App does not state the time or location of when you were exposed to someone with covid. This makes it difficult to know which people should be notified of your exposure and which people could not have been affected by your exposure, which renders the app almost useless.<br> :date: __2020-12-26 11:03:55__
 
-> Edit: Seems to be working again since mid-December. I'm leaving one-star review due to no developer response and extremely long time to fix such a basic problem for such a critical service! Henter ikke længere smitteliste (siden ultimo oktober), medmindre jeg selv starter appen. 22. nov: Hallo er her nogen? Henter stadigvæk ikke smittelisten. 5 ud af 5 tilfældige kollegaer jeg har spurgt har samme problem. Virker det overhovedet for nogen?!?<br> :date: __2020-12-20 09:50:54__
+> Konstante notifikationer om at der hentes information, som bare gør at man ender med at ignorere vigtige notifikationer Plus at man ikke får at vide hvornår man har været i potentiel kontakt med smitte risiko, kun at man har været det på et tidspunkt, det burde sgu ikke være svært at holde styr på<br> :date: __2020-12-25 16:46:34__
 
-> Fanme en skandale.<br> :date: __2020-12-17 19:43:03__
+> Jeg bliver spammet med notifikationer om, at den downloader seneste info. Ifølge min notifikationshistorik 50 gange det seneste døgn.<br> :date: __2020-12-25 12:43:47__
 
-> Jeg opdagede en besked om mulig smitte i dag - fordi jeg åbnede app'en. Ingen notifikation eller noget. Det er virkeligt kritisabelt! Alle strømsparefunktioner etc. er slået fra, og jeg har sågar låst app'en i hukommelsen så den ikke KAN lukkes. Har også oplevet at åbne app'en hvor den var inaktiv - og jeg derfor måtte starte den igen. Få det venligst rettet i en fart. Tak.<br> :date: __2020-12-17 10:58:40__
+> At blive spammet med "tændt for bluetooth" når man er hjemme, er ikke hvad jeg gider se på.<br> :date: __2020-12-24 09:32:56__
 
-> Giver ikke notifikationer ved exposure. Tjekkede appen i morgen efter at have læst en artikel på DR, og sørme så om der ikke var en notifikation om mulig smitte dateret i dag d. 17. december. Jeg har ret i selvisolation siden sidste torsdag af andre årsager, så det er altså minimum en uge, hvor appen har gået og gemt på, at jeg muligvis har været udsat for smitte. På grund af den ekstra ventetid er der nu ingen testtider at få før jul - så mange tak!<br> :date: __2020-12-17 09:46:56__
+> Since the latest update I get a notification several times a day saying that I have to open the app to reactivate it. Today I had to reinstall the app because when I got the notification about reactivation, upon opening the app, it asked me to turn on Bluetooth despite Bluetooth being already on. I tried to turn Bluetooth off and then on, same result in the app.<br> :date: __2020-12-24 07:26:20__
 
-> No checks in two weeks according to phone settings. Open app to find it has been updated in the background and requires renewed consent to activate again - without prompting me! I've made sure to exempt the app from battery optimisation, but still it doesn't check in the background. Now it's 16 days since last check, so what is the point? Absolutely and utterly useless!<br> :date: __2020-12-15 23:33:41__
+> idea is good but execution is awfull. Notification doesn't work and the app doesn't tell you when you were in close contact with an infected person, so you have no idea whether the test you may have done is before or after the incident. For all you know it could have been weeks ago. Apparently the 1 meter radius doesn't work either.<br> :date: __2020-12-23 21:01:58__
 
-> Doesn't work properly. Checked it to see if it was still active on December 10th, and while it said "Active", it clearly was not because it reacted by downloading data and immediately giving me a warning that I had been in contact with an infected. I had not been outside at all that day, so I am left to conclude that this warning is potentially months old. So the app is apparently absolutely useless unless you check it daily.<br> :date: __2020-12-15 18:14:35__
+> Does not include results from the public funded privately conducted test.<br> :date: __2020-12-21 21:20:19__
 
-> Gives a false sense of security since you have to manually open it frequently to check if you've been exposed.<br> :date: __2020-12-15 06:09:16__
+> Totalt ubrugelig. Den giver info om at jeg har været i tæt kontakt med en der er testet positiv. Ingen info om hvor eller hvornår. Det kan man bruge til intet. Og så virker app kun hvis man selv starter den op.<br> :date: __2020-12-21 09:00:26__
 
-> Haven't had the app open for a few months, because I thought I would get notified if exposed. Opened it today and got a notification that I have been exposed. I know it couldn't have been from today, so that exposure could have been weeks or months old and I wouldn't know it. The app need to push notifications when not open to actually work! I'm gonna get tested, but in reality I could have exposed so many people without knowing it!<br> :date: __2020-12-13 11:12:02__
+> Er begyndt at give hørbar besked flere gange dagligt "download..." et eller andet man ikke kan nå at se! Også om natten!! Kan ikke slås fra i settings! Afinstalleret nu for at få nattero!<br> :date: __2020-12-21 01:19:03__
 
 
