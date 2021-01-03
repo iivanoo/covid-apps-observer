@@ -142,25 +142,25 @@ The NHS COVID-19 app has been installed by more than **5000000** times. At this 
 <img src="5_star_reviews_wordcloud.png" alt="uk.nhs.covid19.production 5 reviews"/>
 </p>
 
-> Good<br> :date: __2020-12-27 06:25:39__
+> I like the idea of the app, it keeps me on the alert. (Thanks)<br> :date: __2021-01-03 11:47:44__
 
-> Alerted me correctly<br> :date: __2020-12-27 00:31:30__
+> Very good as it tells if someone has corona<br> :date: __2021-01-02 20:49:15__
 
-> Easy to use<br> :date: __2020-12-26 21:15:45__
+> I'm always using this app, I find it strange that the large supermarket and small shop selling food haven't got a a QR code to scan that people have been in the store.?<br> :date: __2021-01-02 17:00:11__
 
-> Good<br> :date: __2020-12-26 18:00:57__
+> great scary feature<br> :date: __2021-01-02 13:46:57__
 
-> Very Helpful!<br> :date: __2020-12-26 14:05:37__
+> Seems to do the job. Had it since september, hasnt given me a false notification. However had close contact with 2 people that had unknowingly got covid. After they tested positive it did its thing very efficiently. Tells you when you need to isolate till with a countdown and there seems to be lots of help and information when you get an alert. Of course it does rely on people inputting test results but if they do a great little app. Full marks.<br> :date: __2021-01-02 13:00:10__
 
-> Boris my g go on my guy<br> :date: __2020-12-26 13:48:50__
+> Really good app and so easy to use.<br> :date: __2021-01-02 11:02:33__
 
-> fantastic app<br> :date: __2020-12-26 13:47:49__
+> Brilliant safe and secure.<br> :date: __2021-01-01 18:02:04__
 
-> It is old new we are in tier 4 now<br> :date: __2020-12-26 05:02:31__
+> Does what it says on the tin more than happy with it.<br> :date: __2021-01-01 13:10:13__
 
-> 🏴<br> :date: __2020-12-25 21:44:18__
+> Everybody should have this om there fone its a censual to<br> :date: __2021-01-01 13:07:30__
 
-> A great and fast way to check into places to keep your self and others safe. It also provides basic information about the virus and rules.<br> :date: __2020-12-25 20:20:18__
+> Someone at work tested positive. Later that day I had a notification with exposure date matching the last time I saw them. Isolated from family, and 4 days later had mild symptoms tested positive. Hopefully those 4 days isolating in a single room will be enough to spare my wife and daughter.<br> :date: __2021-01-01 11:01:42__
 
 
 
@@ -170,25 +170,25 @@ The NHS COVID-19 app has been installed by more than **5000000** times. At this 
 <img src="4_star_reviews_wordcloud.png" alt="uk.nhs.covid19.production 4 reviews"/>
 </p>
 
+> I think it works I do my part<br> :date: __2021-01-02 22:43:44__
+
+> Hi, can I suggest an option where this app functions as a proximity detector. So when two users get too close beyond a certain amount of time eg 2 minutes, the app would alarm and warn the users to move apart. Prevention is better than cure.<br> :date: __2021-01-01 21:50:45__
+
+> Very good<br> :date: __2021-01-01 16:11:57__
+
+> Managed to get things sorted with second covid test.<br> :date: __2020-12-31 15:14:59__
+
+> My son was alerted through the app to self control which he did .I have the app as well but am shielding at the moment. We were pleased to get notified as it meant we took extra precautions at home<br> :date: __2020-12-31 14:49:16__
+
+> The app has improved dramatically since it was first introduced, they need to fine tune it (ie more urgency on notifications) but it's notified my family & friends to self isolate who had been due unfortunate circumstances<br> :date: __2020-12-31 06:02:09__
+
+> Found app useful to a degree as things are not always easy to find. App is telling me to self isolate for 5 days as been in contact with a positive case. To get support payment you need your CTAS account ID number which apparently is on a link in the app.....can't find it?<br> :date: __2020-12-29 21:56:50__
+
 > Easy to install and use .<br> :date: __2020-12-27 16:13:40__
 
 > The app didn't really seem to have much stuff on it other than just telling people what tier in the UK they're areas are in. Did uninstall after. I also don't see the point for it having to use Bluetooth for it to work, it just doesn't make any sense at all, like it's not like it has to connect to some physical device or something.<br> :date: __2020-12-27 03:24:12__
 
 > It has worked fine for me so far. Very useful for checking my local restrictions. I have never booked a test or been told to self isolate via this app so I cannot comment on those features. However, from what I have experienced, an all round good app. It will become more effective the more people install it.<br> :date: __2020-12-26 21:56:13__
-
-> Nice place to take a brake, with excellent coffee, fine space, enough for current situation.<br> :date: __2020-12-26 13:47:12__
-
-> Is now up dating, thank you for fixing this.<br> :date: __2020-12-26 09:41:27__
-
-> Quick response detects problems<br> :date: __2020-12-26 09:31:09__
-
-> Not helpful yet, can't see an option to log LFDT result.<br> :date: __2020-12-24 23:07:33__
-
-> The app seems to be fine, however, the message received mentioning that one may have been exposed to someone with covid and to self isolate seems to disappear very quickly from the screen and cannot be read again. Could not your team work on a text message being sent too so the person is informed via app and text message ? I could not re-read the message on the app as unfortunately, it went off the screen very fast..<br> :date: __2020-12-24 11:48:08__
-
-> I think that it's a good idea but my app keeps giving me a notification that all it says is loading.??<br> :date: __2020-12-24 07:35:34__
-
-> Good app, bit buggy regarding notifications but overall useful.<br> :date: __2020-12-23 15:59:37__
 
 
 
@@ -198,25 +198,25 @@ The NHS COVID-19 app has been installed by more than **5000000** times. At this 
 <img src="3_star_reviews_wordcloud.png" alt="uk.nhs.covid19.production 3 reviews"/>
 </p>
 
-> Well it works and probably works well because today I had a notification to isolate .... heres where the app fails though. I came into contact with an infected person on the 20th December. Todays date is the 27th December and I now only have to isolate for 4 days. So thats potentially 6 days infecting ppl assuming I'm asymptomatic or my symptoms haven't come out yet. I assume, I may be wrong that the person I had the dangerous encounter with only got tested a couple of days ago and result today?<br> :date: __2020-12-27 20:46:17__
+> In tier 4 yet the app tells me I'm still in tier 3<br> :date: __2021-01-03 12:20:34__
 
-> The app has suddenly started to say it is loading and says it has a message. But the loading never finishes and there is nothing listed in the app. I think this occurred after the app updated to 4.1.1(124). There is only the remotest chance that this might be a genuine alert but why would it disappear if it was and how will I tell if any future notification is a real alert not a bug.<br> :date: __2020-12-27 11:36:36__
+> Worked fine until today. Now crashes on load, every time. Pixel 3XL Android version 11<br> :date: __2021-01-03 10:13:27__
 
-> Saying Wales in tier 4, but we are in level 4. No tiers in Wales. Shows high when we were low but neighbouring town 10 miles away is high. Could be so much more informative<br> :date: __2020-12-27 07:37:01__
+> OK I'm prepared to accept using this app for the benefit of helping defeat covid. However it needs to allow you to read notifications without having to turn on location and Bluetooth. I won't turn on location at home since I don't wish to share such info with all the other snooping apps. I can't see why the NHS app needs location for you to read a notification? Edit 02.01.21.Your response didn't answer the question or the point made. I was referring to how the app works not your privacy policy.<br> :date: __2021-01-03 03:38:07__
 
-> Uninstalled since Bluetooth made compulsory. I'm not going to allow an app to put me into quarantine just because I happen to pass someone in the street who later tests positive for COVID<br> :date: __2020-12-26 10:57:44__
+> Some useful info in it but I'm very dubious as to whether the notifications actually work as intended, and I regular get a notification that the app is loading but nothing discernible happens afterward.<br> :date: __2021-01-02 20:43:32__
 
-> I know we are tier 4 but my app sais tier 2. Maybe where we live is tier 2 which doesn't make sense as my country and borough is tier 4 as are surrounding areas. Not so much the app but the tier system but so confusing better to just lockdown and be done but as it stands I am tier 2 in a tier 4 area so guess I'm kinda lucky.<br> :date: __2020-12-26 07:11:11__
+> Keeps crashing. Since first installing this app when it was initially released I have had to reinstall it twice because it crashed completely. Surely all these months on it though to be stable by now?!<br> :date: __2021-01-02 18:38:26__
 
-> Constantly getting false alerts!<br> :date: __2020-12-25 11:59:53__
+> Not very accurate, mine says I'm in tear 3 and my mates say tear 4 ??????? I wouldn't mind but we live in the same house.<br> :date: __2021-01-02 15:30:04__
 
-> Appears to work... I guess, but I had a thought! I remember reading somewhere that "people don't care about contact tracing", with regards to being called by contact tracers. But surely this is down to people not wishing to answer their phones to unknown callers? So here's a thought... Could you not tell the country what the phone number you will be called from is or when people install this app, make it so that it also creates a contact tracing contact on the phone?<br> :date: __2020-12-25 08:48:24__
+> Did not update tier 3 to 4 automatically<br> :date: __2021-01-02 11:46:59__
 
-> Improving<br> :date: __2020-12-24 22:06:10__
+> Open question: is this app still working? I haven't received any proximity notification in the last 2+ months. It is a good thing, but it makes me wonder if the app is doing what it should.<br> :date: __2021-01-02 10:43:36__
 
-> Latest update not launching on my android 11 device<br> :date: __2020-12-24 14:24:40__
+> I have a constant message on my phone saying NHS Covid 19 Loading. Other than thst i think it is working<br> :date: __2021-01-02 07:42:37__
 
-> dies not automatically update<br> :date: __2020-12-24 09:53:08__
+> Too many glitches, doesn't retain venue locations.would be better if it used Google maps location finder software Good try though<br> :date: __2021-01-01 07:42:24__
 
 
 
@@ -226,25 +226,25 @@ The NHS COVID-19 app has been installed by more than **5000000** times. At this 
 <img src="2_star_reviews_wordcloud.png" alt="uk.nhs.covid19.production 2 reviews"/>
 </p>
 
-> Told me to self isolate 2 days later than it was suposed to. But 2 days previous when i was supposed to have come in contact with a person testing positive, I was at home and no one had left the house in the 3 days previous . App was fine until the tier4 update<br> :date: __2020-12-28 08:32:50__
+> Impossible to enter a test result, it's asking for a code which was provided in my results email and text, there was no code in the email. Therefore it's still telling me to isolate when in fact I've had a negative result. I was under the impression that this was an early problem which had been fixed. Obviously not.<br> :date: __2021-01-02 23:47:44__
 
-> It doesn't seem to work properly in the background. I'm not sure what does this (maybe an update) but it hasn't notified (without opening the app) to isolate. I've also gotten the impression that it's updated and lost settings. I'm not confident that this app works properly. Also, a friend in Wales says it links to the English rules!<br> :date: __2020-12-28 00:05:50__
+> So my wife as tested positive for covid we put her test code into the app on her phone showing how many days left and in red but my question is why ain't my app informed me of being near her yet and that test was done on the 28th its now the 2nd (ps we are self isolating for 10 day so not a problem and my app and hers is always on )<br> :date: __2021-01-02 20:03:29__
 
-> Gave me the "you have been contact with someone who tested positive," late Christmas day. Oh I've got the family here, yet not one got a message and still haven't. Couldn't work out what when or why I got the message. I know you won't identify name or venue BUT why not firm date and rough location?? 100% I've not been next to anyone for 15 minute nor 10 nor 5. I've hardly been out, always worn a mask kept 2m from people. Family xmas seems to be 2 or 3 days after the alleged contact, frustrated.<br> :date: __2020-12-27 10:12:39__
+> This now needs an update. Used to work fine but now it keeps tying itself up in knots and just says "app is loading" all the time so I've no idea if its actually working now. Only way to clear it is reset the phone. Using an S20+ with the latest software update<br> :date: __2021-01-02 19:34:53__
 
-> Does not recognise NHS rapid test center bar code, on entering the Wolverhampton civic center would not register<br> :date: __2020-12-27 08:54:49__
+> Wanted to add in my test results but it wouldn't let me type my test code<br> :date: __2021-01-02 19:24:56__
 
-> I'm in teir 4 but the app says I'm in teir 2.<br> :date: __2020-12-26 12:57:15__
+> 03/01/2021 - I have had an icon on the app, and also as a notification, telling me its updating something, and it's been in for the past week. Nothing has changed, not even when I thought it'd refresh with the whole tier 4 announcement. Had to uninstall/reinstall.<br> :date: __2021-01-02 18:08:59__
 
-> It is 7am on Boxing Day. The press told me that I would be in Tier 3. This app tells me that I am in Tier 2. This is ridiculous from an app such as this. I am now considering deleting the app now. Now at 8am it is correct. Pretty lame that this official app is delayed like this.<br> :date: __2020-12-26 09:20:50__
+> Very unreliable. I get a notification almost every day that I've been exposed to someone positive, but don't have to do anything. I don't leave the house... I have no idea what this app thinks I'm doing, but it's clearly unreliable!<br> :date: __2021-01-02 02:28:49__
 
-> Tier level not updated despite Cambridge moving from tier 2 to 4. Pretty basic requirement!!<br> :date: __2020-12-26 08:13:34__
+> Not updating real time, requires location and Bluetooth on(take time to secure connection via Bluetooth ensuring no one can connect to you via other apps you might have installed and not checked T&C's and permissions required - media and storage ), no updates when reception is not available ei. At work. Useful? Just to tell you what tier you are in. Just stay away from others and keep yourself safe people, stay safe :)<br> :date: __2021-01-02 01:17:30__
 
-> The app is inaccurate. It has not updated my area to the correct tier more than 6 hours after the change came into force. In areas of poor internet connectivity it is not possible to use the scanner for checking into a venue. You will still need to use the paper system.<br> :date: __2020-12-26 07:50:43__
+> My area is now in tier 4 my app says we are in tier 3 why is this i have updated the app<br> :date: __2021-01-01 19:17:17__
 
-> Good and bad stuff bout it So....good stuff. 1. It said what tier im in and i didnt know i was in tier 3<br> :date: __2020-12-26 06:55:19__
+> It's not updating the tiers, it says I'm in tier 2, there are no tier 2 areas at this time. Other than that I have no reason not to trust it, but thats probably enough. Send out an update and fix the bugs please.<br> :date: __2021-01-01 12:58:51__
 
-> Late notification, strange isolating periods and no trace call or any follow up<br> :date: __2020-12-25 15:26:15__
+> Keeps saying I have a notification but all I see is message saying 'loading'?!<br> :date: __2021-01-01 12:50:00__
 
 
 
@@ -254,24 +254,24 @@ The NHS COVID-19 app has been installed by more than **5000000** times. At this 
 <img src="1_star_reviews_wordcloud.png" alt="uk.nhs.covid19.production 1 reviews"/>
 </p>
 
-> Notification for no reason!<br> :date: __2020-12-28 11:47:17__
+> Says it's not compatible with my phone (xiaomi)!!<br> :date: __2021-01-03 16:00:46__
 
-> Contact tracing doesn't work. I've been in close proximity to my other half who tested positive for covid and the app never gave me a notification. Battery life has taken a significant hit since installing. I only use the app to quick check my tier and rules now, will probably uninstall as I can use the .gov for this without the battery hit.<br> :date: __2020-12-28 07:55:20__
+> I've had this app since the day it was released to the public and updated it every time there's been a new update, but it hasn't done a potential exposure check since 8th October! So for months this app has been useless other than for the check ins<br> :date: __2021-01-03 15:02:42__
 
-> No point as covid is a government lie for a cover up<br> :date: __2020-12-28 00:13:10__
+> Funny app hhhhhh after two weeks we been in tier 4 give me notification after 2 weeks hhhh<br> :date: __2021-01-03 14:01:39__
 
-> Have been in contact with potential covid cases and not 1 notification.. Just a bonus there are some honest people about<br> :date: __2020-12-27 23:56:17__
+> It keeps telling me it's not working and when I open it it just has a black screen with NHS Covid 19 on it then it closes. I've uninstalled and reinstalled and still doesn't work<br> :date: __2021-01-03 13:36:03__
 
-> A really bad app, I know some many people have been told they're okay and they weren't. The app keeps popping up as a notification with no notification. It's not even scanning the area. Uninstalled like I am sure many have or will as its not been created well or thought through.<br> :date: __2020-12-27 19:14:31__
+> The app doesn't open anymore, tried uninstalling and reinstalling but still doesn't work. Not sure if this is to do with my phone now running Android 11.<br> :date: __2021-01-03 13:01:22__
 
-> App doesn't work on my phone at all! Been uninstalled and installed countless times and keeps freezing. A load of rubbish!!! 🤬🤬🤬<br> :date: __2020-12-27 17:35:03__
+> Had to unisall, just spent time "updating covid" and running my battery down, pretty much useless, good job getting your friends a job BoJo<br> :date: __2021-01-03 12:03:14__
 
-> Poo<br> :date: __2020-12-27 16:33:02__
+> Can't download it, stuck on pending. Plenty of memory space, have tried deleting other apps and photos/videos to make room, left it overnight still pending.......<br> :date: __2021-01-03 11:06:19__
 
-> Received a message and was told to self-isolate for...wait for it...1day. Seems a pointless exercise if you aren't notified when you potentially could be at your most infectious. Would help to know where & when this was triggered so you can make a judgement yourself to the risk. I like to think I am responsible but this experience completely undermined my ability to manage my own situation and any credibility in the app has been lost.<br> :date: __2020-12-27 16:14:02__
+> Have uninstalled this app. it is pretty useless since it gave me a contact point 2 days after a supposed event. Using my Google location history there is no way I could have been in contact with someone, less than 2m,>15mins, other than when my phone was left in a locker during swimming so unless the app can provide a time & location it is useless and doesn't properly assess the risk as personal protective measures were in use at all other times - less than 2m, >15mins cumulative.<br> :date: __2021-01-03 10:57:29__
 
-> Its usless, all is says is loading, 24 hours a day.waste if time downloading this.<br> :date: __2020-12-27 13:52:52__
+> Hate this app. Flags of and you get a £100 a week to pay a house and feed your family. And no1 helps you out. 😡<br> :date: __2021-01-03 10:55:45__
 
-> Just been notified I've been in contact with someone even though I've not left my house in 12 days? During those 12 days I've had a negative test result.<br> :date: __2020-12-27 13:28:13__
+> Choppy not simple or procise confusing<br> :date: __2021-01-03 10:54:49__
 
 

@@ -141,6 +141,16 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="gov.pa.covidtracker 5 reviews"/>
 </p>
 
+> Very good app. Very informative.<br> :date: __2020-12-31 23:42:39__
+
+> This app has helped me by notifying me if a store/shop/place is safe to enter.<br> :date: __2020-12-30 17:52:05__
+
+> This app is a must have I don't leave my house without it running . The state of Pennsylvania had done a great job creating this app<br> :date: __2020-12-30 13:21:06__
+
+> Good App To Use To Protect All People And Animals From The Corona Virus Disease Year 2020.<br> :date: __2020-12-29 06:05:34__
+
+> Greatttttttt!!!!!!!!<br> :date: __2020-12-28 16:07:20__
+
 > Everyone in PA should have this App.<br> :date: __2020-12-28 04:51:45__
 
 > Thanks a lot<br> :date: __2020-12-26 12:04:59__
@@ -151,16 +161,6 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 
 > THANK YOU<br> :date: __2020-12-23 17:31:54__
 
-> So easy, why not use it<br> :date: __2020-12-22 23:45:29__
-
-> All good<br> :date: __2020-12-22 23:20:41__
-
-> Excellent<br> :date: __2020-12-22 01:11:49__
-
-> Good<br> :date: __2020-12-19 15:08:19__
-
-> Everyone should use this app. It's easy to use to check in your health symptoms. I have experienced no battery drain on my phone. The battery use is less then 1 minute today and only 0.1% of my total battery use since last charge. So far no exposure notifications and I hope it stays that way.<br> :date: __2020-12-18 21:00:03__
-
 
 
 #### 4-star reviews
@@ -168,6 +168,8 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="gov.pa.covidtracker 4 reviews"/>
 </p>
+
+> It's the least people can do<br> :date: __2021-01-02 03:38:12__
 
 > Good idea!<br> :date: __2020-12-23 02:40:26__
 
@@ -186,8 +188,6 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 > 19 I watch it on my TV on my YouTube I watch the news so sense of happiness on my phone and I can hear everything that goes on here in PA Easton I live here<br> :date: __2020-12-04 18:39:52__
 
 > There is a lot of information to read, but the details are essential to our/my life! Thank you so very much for the info that is helping us. Amen<br> :date: __2020-12-03 15:19:42__
-
-> Unsure about first alert and no additional information provided that I could see<br> :date: __2020-12-03 14:09:43__
 
 
 
@@ -253,7 +253,13 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="gov.pa.covidtracker 1 reviews"/>
 </p>
 
-> Good idea, but just doesn't work. I have covid but I apparently need a code to enter (that I'll apparently get in a phonecall from PA DoH) that I haven't gotten. So, everyday I can enter my symptoms, but can't alert people I have covid. My significant other also has covid and the app and deals with same issue. We literally live under the same roof and haven't been warned about close contact with someone with Covid. What a joke.<br> :date: __2020-12-27 01:04:25__
+> I got it it never went off. I was thinking it was should notify me if near someone with COVID-19.<br> :date: __2020-12-31 18:38:30__
+
+> A 5-year-old can't even figure this out and I'm a freaking 7-year-old and I wasn't able to figure this out literally wants you to set up and I do not want to set up<br> :date: __2020-12-30 01:01:03__
+
+> This app does not allow me to enable the alert feature. Bummer<br> :date: __2020-12-28 16:35:06__
+
+> No one is getting codes from the department of health so this app is useless<br> :date: __2020-12-28 14:41:38__
 
 > Scans contacts and Bluetooth to track and count other people around you to find people who violate the unconstitutional gathering limits mandate by gov wolf.<br> :date: __2020-12-26 02:47:16__
 
@@ -266,11 +272,5 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 > Since I never received a call from the department of health when I tested positive to contact trace and give me the code to input in the app, this is a useless battery drainer.<br> :date: __2020-12-20 23:05:30__
 
 > We need help to stop those people who have been involved with this issue<br> :date: __2020-12-17 02:29:28__
-
-> I ACTUALLY WORK IN THE RED ZONE.. AND NOT ONE TIME HAVE I BEEN ALERTED...<br> :date: __2020-12-14 17:50:49__
-
-> Fake just makes up number s that are not true it needs location they say it does not track you then y you need location?<br> :date: __2020-12-14 17:45:08__
-
-> App drains my phone battery really fast. I had to uninstall it.<br> :date: __2020-12-13 12:21:18__
 
 

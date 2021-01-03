@@ -144,6 +144,10 @@ The Care19 Alert app has been installed by more than **10000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="com.proudcrowd.exposure 5 reviews"/>
 </p>
 
+> Good<br> :date: __2021-01-02 23:36:05__
+
+> Good way to keep posted who sick got virus good app .<br> :date: __2021-01-02 13:55:56__
+
 > Doesn't work anymore Edit: It is working again<br> :date: __2020-11-28 16:38:07__
 
 > Works great<br> :date: __2020-11-07 23:36:18__
@@ -159,10 +163,6 @@ The Care19 Alert app has been installed by more than **10000** times. At this ti
 > This app was no good it gave me covid<br> :date: __2020-09-04 02:48:59__
 
 > We all need to take positive action to control the spread of the virus. It is our responsibility to keep us all safe.<br> :date: __2020-08-26 01:46:46__
-
-> With ND's depressing lack of proper response to COVID-19, I was afraid this might not exist for the area. Thank you.<br> :date: __2020-08-23 22:43:40__
-
-> I think this is a great way of keeping track of where you have been and who you could possibly come into contact with, without any effort.<br> :date: __2020-08-22 02:56:05__
 
 
 
@@ -210,6 +210,8 @@ The Care19 Alert app has been installed by more than **10000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="com.proudcrowd.exposure 1 reviews"/>
 </p>
 
+> Not updated since nov<br> :date: __2021-01-02 20:58:25__
+
 > I can go days without it logging any activity even though I have had a number of stops and it will not recognize that I have changed my home address. It would be nice if I could just completely reset & start over but it won't let me do that either. Rather useless if I have to remember to manually enter where I've been.<br> :date: __2020-12-21 20:48:07__
 
 > Please stop showing up as soon as i open google play<br> :date: __2020-12-21 12:32:13__
@@ -227,7 +229,5 @@ The Care19 Alert app has been installed by more than **10000** times. At this ti
 > I had the app and was diagnosed with Covid. I sent my caseworker a screenshot of the app so I could get my 'notify others' button turned on. I don't know if she could do that or not, but she didn't address it. I had no idea how to activate the button to do the only thing this app is supposed to do.<br> :date: __2020-11-11 18:01:46__
 
 > Don't put stuff on my phone if I want it I would get it<br> :date: __2020-11-01 07:21:06__
-
-> I dont live in the states that are provided, please add more states to this, and I will be an ambassador for the app.<br> :date: __2020-11-01 06:35:47__
 
 

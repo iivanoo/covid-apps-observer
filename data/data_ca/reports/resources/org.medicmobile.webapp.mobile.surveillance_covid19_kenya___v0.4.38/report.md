@@ -175,6 +175,8 @@ No recent reviews available with 2 stars.
 <img src="1_star_reviews_wordcloud.png" alt="org.medicmobile.webapp.mobile.surveillance_covid19_kenya 1 reviews"/>
 </p>
 
+> There is no way to create an account to log in<br> :date: __2021-01-03 09:55:41__
+
 > The app does not work. Some pre registration has been assumed apparently. There's no option to register for a first time use meaning it's useless unless you have some way to get login details as the app has no such provision<br> :date: __2020-12-19 18:34:33__
 
 > No sighn up option bure kabisi<br> :date: __2020-08-06 08:08:34__
@@ -192,7 +194,5 @@ No recent reviews available with 2 stars.
 > Poor how can I login if i don't even have an account<br> :date: __2020-07-08 18:45:29__
 
 > What are the login credentials I can't get them?<br> :date: __2020-07-08 05:27:55__
-
-> Havent tried it yet it does not have a place to register a new account<br> :date: __2020-07-07 11:13:34__
 
 

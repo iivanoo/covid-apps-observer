@@ -188,6 +188,8 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <img src="4_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 4 reviews"/>
 </p>
 
+> Era un'ottima applicazione, ora é inutilizzabile. Mi si blocca all'accesso al questionario covid che non mi fa compilare né per me stesso nè per gli altri componenti e non mi fa proseguire<br> :date: __2021-01-01 17:37:11__
+
 > Aggiungo due stelle. Senza fronzoli va al dunque. Per me lombardo funziona alla grande.<br> :date: __2020-12-11 13:32:57__
 
 > La ritengo molto utile👍<br> :date: __2020-12-05 15:14:58__
@@ -205,8 +207,6 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 > In linea di massima non è male . Oggi mi si è bloccata , l'ho disinstallata e reinstallata ora funziona !<br> :date: __2020-10-21 21:46:23__
 
 > Utilissima<br> :date: __2020-10-06 14:18:06__
-
-> Ottima applicazione, sempre presente per ogni cambiamento del tempo.<br> :date: __2020-10-03 14:37:02__
 
 
 

@@ -157,6 +157,8 @@ The COCOA - COVID-19 Contact App app has been installed by more than **5000000**
 <img src="5_star_reviews_wordcloud.png" alt="jp.go.mhlw.covid19radar 5 reviews"/>
 </p>
 
+> If everyone used this responsibly we'd all be a lot safer. Please download it.<br> :date: __2021-01-02 15:50:40__
+
 > Why i cant open the apps? I already install it, the permission wont go<br> :date: __2020-11-30 03:06:26__
 
 > Good<br> :date: __2020-11-20 14:17:29__
@@ -174,8 +176,6 @@ The COCOA - COVID-19 Contact App app has been installed by more than **5000000**
 > Seems fine.<br> :date: __2020-09-09 09:47:47__
 
 > Simple to use and doesn't need personal information. I wish more people would use it so we could prevent the spread of covid19<br> :date: __2020-08-06 07:19:15__
-
-> Japan's contact tracing app is one more layer of safety when it comes to the coronavirus. The app works fine on my Pixel 4.<br> :date: __2020-07-09 07:44:07__
 
 
 

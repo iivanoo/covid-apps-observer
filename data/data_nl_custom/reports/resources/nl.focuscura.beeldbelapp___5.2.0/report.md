@@ -202,6 +202,12 @@ The Luscii app has been installed by more than **100000** times. At this time, *
 <img src="5_star_reviews_wordcloud.png" alt="nl.focuscura.beeldbelapp 5 reviews"/>
 </p>
 
+> Het is een fijne app in gebruik.<br> :date: __2020-12-29 19:23:18__
+
+> Eenvoudig en komt meteen bij poli... Top<br> :date: __2020-12-29 10:21:20__
+
+> Het moet nog wel wennen. Maar het gaat uiteindelijk steeds makkelijker. Om met de app om te gaan.<br> :date: __2020-12-28 10:48:37__
+
 > Prima metingen zeer blij met deze app<br> :date: __2020-12-28 10:04:59__
 
 > Doet wat het moet doen met Android 10<br> :date: __2020-12-27 09:45:05__
@@ -216,12 +222,6 @@ The Luscii app has been installed by more than **100000** times. At this time, *
 
 > Duidelijk en fijn om steuntje te hebben<br> :date: __2020-12-24 11:08:07__
 
-> Makkelijk en fijn dat er iemand meekijkt<br> :date: __2020-12-22 08:23:17__
-
-> Moet nog eraan wennen. Heel goed<br> :date: __2020-12-21 10:18:59__
-
-> Heel goed, het geeft goeie metingen aan.<br> :date: __2020-12-21 08:02:54__
-
 
 
 #### 4-star reviews
@@ -229,6 +229,8 @@ The Luscii app has been installed by more than **100000** times. At this time, *
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="nl.focuscura.beeldbelapp 4 reviews"/>
 </p>
+
+> Zorg op afstand werkt goed<br> :date: __2020-12-29 09:31:24__
 
 > Zo kun je zien hoe hoog je bloeddruk is<br> :date: __2020-12-27 12:28:20__
 
@@ -247,8 +249,6 @@ The Luscii app has been installed by more than **100000** times. At this time, *
 > Handige app alleen gewicht weigert vaak. Verder prima.<br> :date: __2020-11-25 09:20:19__
 
 > Simpel en duidelijk. Het is alleen onduidelijk wat je moet doen als je corona heb gehad. Klachten blijven nog bestaan na corona, maar je wordt wel geadviseerd om weer te testen. Voor de rest, top.<br> :date: __2020-11-20 11:00:41__
-
-> Duidelijk<br> :date: __2020-11-18 11:13:56__
 
 
 

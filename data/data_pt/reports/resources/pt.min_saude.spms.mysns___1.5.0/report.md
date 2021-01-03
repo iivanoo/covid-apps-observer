@@ -283,6 +283,8 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <img src="1_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 1 reviews"/>
 </p>
 
+> Não funciona<br> :date: __2021-01-02 02:11:25__
+
 > Muitas falhas e sem necessidade de ter aplicação, pois é rederecionado para o saite a app pouco ou nada serve. App péssima. Tanto dinheiro recebem, deveriam de a melhorar.<br> :date: __2020-12-28 01:08:58__
 
 > Não sei para que serve!!!<br> :date: __2020-12-26 14:00:30__
@@ -300,7 +302,5 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 > Que aplicação mais inútil. Basicamente tudo o que se faz é redirecionado para o site do SNS no browser. Não faz qualquer sentido a utilidade da app. Nem o registo é possível fazer pela app. Apenas pelo site. Que péssimo.<br> :date: __2020-12-06 23:14:44__
 
 > Para baixar tenho de desativar outras aplicações<br> :date: __2020-12-04 15:52:30__
-
-> Bosta<br> :date: __2020-11-26 12:43:32__
 
 

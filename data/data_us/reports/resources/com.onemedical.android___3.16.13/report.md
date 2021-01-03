@@ -230,6 +230,8 @@ The One Medical app has been installed by more than **100000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="com.onemedical.android 5 reviews"/>
 </p>
 
+> The video chat option is great for last minute visits for non-urgent medical issues. One Medical has been my provider for nearly a decade and I've been very happy with my medical needs, both preventative and reactive.<br> :date: __2021-01-02 19:18:24__
+
 > Love love love booking my own appointments<br> :date: __2020-12-26 21:09:46__
 
 > Love the one medical tream !!<br> :date: __2020-12-19 01:21:45__
@@ -247,8 +249,6 @@ The One Medical app has been installed by more than **100000** times. At this ti
 > Top notch<br> :date: __2020-12-03 03:16:15__
 
 > Easy to use.<br> :date: __2020-11-28 21:52:01__
-
-> Accessible, informative, helpful, pleasant, professional<br> :date: __2020-11-22 01:24:16__
 
 
 
@@ -314,6 +314,8 @@ The One Medical app has been installed by more than **100000** times. At this ti
 <img src="2_star_reviews_wordcloud.png" alt="com.onemedical.android 2 reviews"/>
 </p>
 
+> I had a covid test a week ago and still no results. And I can't get anyone to answer what is going on. The lack of information is frustrating and makes me question my membership.<br> :date: __2020-12-28 21:54:01__
+
 > A ton of things fall through the cracks causing an immense amount of confusion with your healthcare that's the last thing you want to not have a quality application especially since this company leans heavily on the application alone outside of in person or Zoom meetings<br> :date: __2020-12-24 21:08:33__
 
 > It doesn't work , $199<br> :date: __2020-10-06 19:39:50__
@@ -331,8 +333,6 @@ The One Medical app has been installed by more than **100000** times. At this ti
 > The app is not great. It's basically the website with no difference. Like it literally has a tab in menu which says 'Open in app' 😑. There is no way to reschedule or even look at your appointments.<br> :date: __2020-01-09 18:13:55__
 
 > No face id support<br> :date: __2019-12-28 20:08:49__
-
-> Should be able to upload previous medical records. Should be able to enter a complete medical history like on zocdoc.<br> :date: __2019-11-17 19:27:39__
 
 
 

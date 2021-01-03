@@ -185,6 +185,8 @@ No recent reviews available with 3 stars.
 <img src="2_star_reviews_wordcloud.png" alt="de.nexoma.arnsbergapp 2 reviews"/>
 </p>
 
+> Wie wäre es den Abfallkalender intuitiver zu erweitern. Mit pushfunktion, und speicherbarer Adresse. Jedesmal die PDF öffnen, da kann ich auch auf den Kalender in Papierform zurückgreifen. Das wäre ein weiterer kleiner digitaler Fortschritt für Arnsberg ;-) Grüße D.Reuther<br> :date: __2020-12-29 10:55:23__
+
 > Nicht mal alle Events (zum Beispiel der Arnsberger Woche ) sind gelistet. Kein App ist besser als eine lieblos ins Netz gestellte.  Schade, der Ansatz ist gut. Um sich zu informieren braucht es immer noch eine Zeitung<br> :date: __2017-05-28 10:13:47__
 
 

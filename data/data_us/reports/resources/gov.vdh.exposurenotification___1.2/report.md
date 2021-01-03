@@ -130,6 +130,8 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 <img src="5_star_reviews_wordcloud.png" alt="gov.vdh.exposurenotification 5 reviews"/>
 </p>
 
+> Good have<br> :date: __2020-12-31 03:21:43__
+
 > Gd<br> :date: __2020-12-24 17:45:09__
 
 > When am proving to be able to make a difference my life with family and friends to make Amen<br> :date: __2020-12-18 21:23:28__
@@ -147,8 +149,6 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 > It WORK !!!!! Oooorrrrraaahh<br> :date: __2020-12-07 22:55:25__
 
 > Really keep up with it<br> :date: __2020-12-07 11:45:05__
-
-> Clear<br> :date: __2020-12-07 07:37:28__
 
 
 
@@ -186,6 +186,8 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 <img src="3_star_reviews_wordcloud.png" alt="gov.vdh.exposurenotification 3 reviews"/>
 </p>
 
+> Not for my phone<br> :date: __2020-12-28 19:41:26__
+
 > At least Someone Creative is Trying to Help this State and The Good Hard Working Citizens. JD<br> :date: __2020-12-28 03:13:20__
 
 > God bless<br> :date: __2020-12-09 09:12:24__
@@ -203,8 +205,6 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 > Rating based on alert function rather than any more independent function or utility.<br> :date: __2020-11-07 23:00:14__
 
 > I really appreciate what this app is trying to do, but for some reason it keeps turning location services off on its own? I'll randomly get a notification that my C ovidwize notifications have been enabled only to discover it hasn't been scanning for the last couple of weeks.<br> :date: __2020-10-27 14:52:37__
-
-> Hi guy this corona virus is started from USA from 666 group so please please search and know about it but there is something all of u if pray if u Prostration to god only to orthodox tawahdo faith in ethiopian church trust me.you get the real rest of soul..so there is something coming to all of u in to 2021 there is Suffering so please please be ready come and search obout ethiopian orthodox if uget and become know and do it you are gare out this suffering so please share this for your freinds<br> :date: __2020-10-21 06:34:30__
 
 
 
@@ -242,24 +242,24 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 <img src="1_star_reviews_wordcloud.png" alt="gov.vdh.exposurenotification 1 reviews"/>
 </p>
 
+> Got a positive result 7 days (updated) ago and need a PIN to enter and yet still haven't rec'd a call. Good idea, poor execution.<br> :date: __2021-01-02 17:53:45__
+
+> This app gives you a scare<br> :date: __2021-01-01 04:40:20__
+
+> This app is horrible. DO NOT INSTALL<br> :date: __2020-12-31 02:26:57__
+
+> ☆WARNING☆ DON'T DOWNLOAD ITS AN FAKE VIRUS APP IT'LL HURT YOUR DEVICE AND YOU!!!!! ESPECIALLY IN THE HOSPITAL!!!! Shutup<br> :date: __2020-12-29 16:22:57__
+
+> I've had this app on my phone for months. After I tested positive for Covid-19, I went to report a positive test. Couldn't even do it. What a real waste of potential in this system.<br> :date: __2020-12-29 03:31:45__
+
 > Useless and sketchy. Hasn't given me a single alert since I installed it months ago and requires bluetooth on 24/7. A waste of battery. Uninstalled.<br> :date: __2020-12-26 13:20:46__
 
 > Can't even upload my positive result because they claim the VDH contacts you to give you a PIN after you test positive. They definitely don't. I haven't been contacted at all. This app is useless, don't waste your time. It will give you a false sense of security thinking you haven't come into contact with anyone contagious when you probably have. Way to go VDH. Not helpful in preventing the spread of Covid at all.<br> :date: __2020-12-18 16:14:29__
-
-> ☆WARNING☆ DON'T DOWNLOAD ITS AN FAKE VIRUS APP IT'LL HURT YOUR DEVICE AND YOU!!!!! ESPECIALLY IN THE HOSPITAL!!!!<br> :date: __2020-12-17 18:00:22__
 
 > Ha this is app that can only track your location so who downloads this is a idiot<br> :date: __2020-12-16 03:57:28__
 
 > My wife tested positive and entered data in her app. I got COVID yet the app still said I had not been in contact with with anyone testing positive. Look for any comments saying that anyone got a notification from this app. It doesn't work;<br> :date: __2020-12-16 00:48:01__
 
 > Effing Scary. Thats what its for FEAR. The Only Thing We Have To Fear Is Fear Itself.<br> :date: __2020-12-14 02:23:35__
-
-> Worthless. The app requires a PIN number from the VDH to send alerts. They contacted me 4 days after my positive test result, but didn't have a valid PIN to give me. The contact tracer sent a request to IT to get me a PIN to send alerts. It has now been 8 days since I tested positive and 11 days since my first symptoms and I still can't warn others via the app. The app only monitors contacts for the last 14 days, so some people will never be warned.<br> :date: __2020-12-11 21:13:51__
-
-> You have to have a pin to report your case of COVID and I never received one after confirming COVID positive. How helpful can this app be if we can't notify others when we've contracted COVID?<br> :date: __2020-12-10 04:29:14__
-
-> I am disappoint. Not an HIV tracker app. Wanted to know who had HIV, instead got a government tracking app...<br> :date: __2020-12-08 18:17:47__
-
-> Do I have to live in Virginia in order to use this app?<br> :date: __2020-12-08 11:37:57__
 
 

@@ -148,6 +148,8 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 <img src="5_star_reviews_wordcloud.png" alt="at.roteskreuz.stopcorona 5 reviews"/>
 </p>
 
+> Ich habe diese App seit 4 Tagen und heute erst den 1. gefunden der mir einen digitalen Handshake gibt. (meinen Sohn). Leider ist niemand in meinem Umfeld bereit, sich diese App runterzuladen. Also für mich im Moment mehr als sinnlos.<br> :date: __2020-12-30 00:07:10__
+
 > Gut<br> :date: __2020-12-26 22:26:06__
 
 > Lässt sich auf meinem Galaxy S7 nicht starten und stürzt sofort ab<br> :date: __2020-12-24 20:37:16__
@@ -165,8 +167,6 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 > 👍🏻<br> :date: __2020-12-15 12:11:53__
 
 > Funktioniert super.<br> :date: __2020-12-14 22:05:36__
-
-> Sie funktioniert super<br> :date: __2020-12-11 09:32:47__
 
 
 
@@ -204,6 +204,8 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 <img src="3_star_reviews_wordcloud.png" alt="at.roteskreuz.stopcorona 3 reviews"/>
 </p>
 
+> Funktioniert nicht! Ich bin positiv und habe es in der App gemeldet! Mein Bruder hat die App ebenfalls seit langer Zeit und er hat keine Benachrichtigung bekommen! Obwohl wir jeden Tag mehrere Stunden Nebeneinander auf dem Sofa sitzen...! Edit: Habe mich nach einem Tag Gesund und dann wieder Krank gemeldet = jetzt ist er benachrichtigt geworden..<br> :date: __2021-01-02 11:58:54__
+
 > Unser Datenschutzgesetz einerseits und die Haltung mancher Mitbürger andererseits zerstören meines Erachtens den guten Grundgedanken für die Verwendung dieser App. Was mir auffällt, ist, dass der von der App angezeigte Zeitstempel der Kontakte nicht stimmen kann. Die App zeigt Kontakte zu Zeiten, in denen keine waren, oder erst viel später an.<br> :date: __2020-12-23 10:26:34__
 
 > Geheimnisvolle Benachrichtigungen - eben um am 23.12.2020 um 00:40 Nachts erhielt ich eine Benachrichtigung von dieser App in roter Schrift (was schon aussergewöhnlich ist), und als ich sie lesen wollte (Android Benachrichtigungen öffnen) war sie weg! Schneller als Snapchat. Auch in der App keine Nachrichten. GRUSELIG ... Zum Glück hatte ich keine Kontakte, also war es vielleicht nur ein Update? Die Idee hinter der App finde ich übrigens sehr gut und ich mache selbstverständlich mit!<br> :date: __2020-12-23 01:43:59__
@@ -222,8 +224,6 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 
 > Habe noch keine Erfahrung, darum nur 3 Sterne.<br> :date: __2020-12-01 09:02:45__
 
-> Grundsätzlich eine gute Idee, aber muss es sein dass man ständig Bluetooth aktiviert hat? Ich will nicht das Handy den ganzen Tag neben mir liegen haben, oder gar in der Hosentasche, während Bluetooth aktiviert ist...<br> :date: __2020-11-30 17:20:55__
-
 
 
 #### 2-star reviews
@@ -232,11 +232,11 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 <img src="2_star_reviews_wordcloud.png" alt="at.roteskreuz.stopcorona 2 reviews"/>
 </p>
 
+> Ich habe dutzende Benachrichtigungen über Kontakte, obwohl ich in dieser Zeit definitiv allein zu Hause war. Es kann auch nicht von einer anderen Wohnung sein, ich lebe in einem Einfamilienhaus, weit und breit kein Mensch. Vielleicht könnte man die Mitglieder des eigenen Haushaltes auf eine Whitelist setzen. Da wird man es ohnehin erfahren wenn sie positiv sind<br> :date: __2021-01-02 13:26:53__
+
 > Gute idee aber wirklich schlecht programmiert. Hatte jetzt Covid und habs gleich mal in der App gemeldet, dann anonym alle verständigt die laut App Kontakt hatten. Und dann begann ein unendlich nerviger Kreislauf. Ich habe mich während der Quarantäne nicht 1mm aus der Wohnung bewegt und wurde trotzdem 5 mal täglich gefragt, ob ich nicht allen Kontakten Bescheid geben will. Ausserdem kann ich mich uns verrecken nicht gesund melden. Genervt von 10 nachrichten am Tag hab ichs jetzt deinstalliert.<br> :date: __2020-12-27 13:05:27__
 
 > Installation fertig,und jetzt??<br> :date: __2020-12-22 18:19:50__
-
-> Ich habe dutzende Benachrichtigungen über Kontakte, obwohl ich in dieser Zeit definitiv allein zu Hause war. Es kann auch nicht von einer anderen Wohnung sein, ich lebe in einem Einfamilienhaus, weit und breit kein Mensch.<br> :date: __2020-12-16 18:05:34__
 
 > Eine App die vieles erleichtern sollte dies aber nicht wirklich macht. Habe mich am 30. Nov mit meiner Covid Erkrankung und Ärztlicher Bestätigungen als erkrankt registriert. Nach meiner 10 Tägigen Quarantäne und Genesung kann ich dies nicht in der App registrieren. Meine Lebensgefährtin...gleiche Haushalt wurde trotz aktiviertem App erst 2 Tage nach meiner Meldung informiert. Nach meiner Covid Meldung wurde ich dennoch 3x täglich gefragt haben sie Symptome, geht es ihnen gut. Unnötige Frage<br> :date: __2020-12-15 12:48:43__
 
@@ -260,6 +260,12 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 <img src="1_star_reviews_wordcloud.png" alt="at.roteskreuz.stopcorona 1 reviews"/>
 </p>
 
+> Digitaler Handshake kann ich nicht einschalten, warum kann man das nich für jeden verständlich gestalten ? Ich lösch die app wieder, schade<br> :date: __2020-12-31 06:11:25__
+
+> Mit zusätzlichen einschalten von Bluetooth funktioniert die App nicht weil sie keiner einschalten wird ihr solltet es über Funknetz gbs machen alle was ich davon habe ist nur eine die nichts tut aber gar nichts zeigt sie an sie funktioniert so nicht bitte auf gbs ändern den niemand Dreh Bluetooth auf und darum funktioniert sie auch nicht<br> :date: __2020-12-29 04:24:50__
+
+> Ich habe die App seit der ersten Stunde. Idee finde ich die Idee großartig, sie sollte unbedingt über alle politischen Parteien hinweg, beworben werden. Man hört nichts mehr in TV oder Radio. Ich frage mich nur; warum sollte sich ein positiv getesteter mit dieser App öffentlich machen, wenn er sich (unerlaubterweise) unter die Menschen mischt?!<br> :date: __2020-12-28 13:59:13__
+
 > Ich hatte eine Coronainfektion und habe diese in der App gemeldet. Auch 2 Monate später weißt mich die App daraufhin, dass ich mich wegen Corona Absender muss.In dieser App ist es einmal Corona, immer Corona.<br> :date: __2020-12-25 08:53:24__
 
 > Selbst Rot Kreuz Mitarbeiter sagen finger weg von dem Dreck.<br> :date: __2020-12-22 11:15:20__
@@ -273,11 +279,5 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 > Ich habe leider 3x am Tag Abstürze unter Android 9. Lässt sich aktuell auch nicht mehr öffnen, läuft aber anscheinend noch im Hintergrund. Weiters wäre ein Testmodus gut (z.B mit anderem Handy) damit ich weiß ob die App überhaupt trackt.<br> :date: __2020-12-09 22:36:44__
 
 > Keinerlei Möglichkeit herauszufinden wie viele Personen überhaupt "gescannt" wurden. Wüsste auch gerne wer in meiner Nähe die App verwendet. Nach 4 Monaten Nutzung keinen einzigen potenziellen Fall gehabt somit glaube ich nicht dass die App funktioniert.<br> :date: __2020-12-09 00:25:10__
-
-> Zeichnet offenbar wahllos fiktive Kontakte auf die gar nicht stattgefunden haben..<br> :date: __2020-12-08 05:50:22__
-
-> Idee gut, Umsetzung leider schlecht.<br> :date: __2020-12-05 20:42:14__
-
-> Wann schafft ihr es enflich das sie Länderübergreifend funktioniert??? Voraussetzungen sind geschaffen, verschläft ihr diese Möglichkeit genauso wie den Lockdown? Das ist speziell im Grenzgebiet ganz schlecht. Und aus der resonanz der Antworten von euch auf die Bewertungen sieht man eh euer Interesse an einer funktionierenden App.<br> :date: __2020-12-05 12:41:30__
 
 

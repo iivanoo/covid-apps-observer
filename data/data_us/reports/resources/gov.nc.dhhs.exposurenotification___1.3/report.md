@@ -131,6 +131,12 @@ The SlowCOVIDNC app has been installed by more than **100000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="gov.nc.dhhs.exposurenotification 5 reviews"/>
 </p>
 
+> " STAY ALIVE PEOPLE 4SHO " !!!<br> :date: __2021-01-01 21:13:04__
+
+> golden<br> :date: __2021-01-01 00:30:17__
+
+> I have always used this app.<br> :date: __2020-12-28 23:22:10__
+
 > Love it<br> :date: __2020-12-27 08:46:09__
 
 > No issues with the app itself. As stated previously, relies on other people to use the app effectively though. During a public health crisis, even if you can't force people to install the app on their phones because they own them, then the company should be able to ban you from using their cell towers unless you install it.<br> :date: __2020-12-25 17:29:14__
@@ -144,12 +150,6 @@ The SlowCOVIDNC app has been installed by more than **100000** times. At this ti
 > Very informative<br> :date: __2020-12-22 10:23:18__
 
 > Wish more people used it. Sometimes updates seem slow.<br> :date: __2020-12-21 11:37:06__
-
-> Informative and educational. Brainy facts.<br> :date: __2020-12-21 11:22:20__
-
-> Good info<br> :date: __2020-12-20 07:15:01__
-
-> Great idea! Working fine on Google Android for almost 2 months now. Does not drain my battery.<br> :date: __2020-12-19 07:43:59__
 
 
 
@@ -187,6 +187,16 @@ The SlowCOVIDNC app has been installed by more than **100000** times. At this ti
 <img src="3_star_reviews_wordcloud.png" alt="gov.nc.dhhs.exposurenotification 3 reviews"/>
 </p>
 
+> I uninstalled. App is only as good as everyone uses it. No one I work with has the app. Point less if no one else downloads.<br> :date: __2021-01-02 00:38:26__
+
+> Great idea if everyone used it and tested frequently. I had Covid in July before getting the app. No notifications of exposure for me even after shopping at a mall for Christmas.<br> :date: __2020-12-31 15:31:21__
+
+> Kk😤😭😭👌🏿👌🏿👌🏿👌🏿👌🏿👌🏿👌🏿😭👌🏿😭😭😭ⓂⓂⓂⓂ🚮🚮Ⓜ👌🏿🚮😭🙂🚮😭😤🚮ⓂⓂⓂ😭ⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂ<br> :date: __2020-12-30 06:55:12__
+
+> A few bugs, especially in the Data (last) option page. Give the option to search specific areas like zip code, but won't let you type in anything.<br> :date: __2020-12-29 23:56:26__
+
+> Exposures haven't updated for a week...<br> :date: __2020-12-29 19:42:16__
+
 > I loved this app until it was updated; since then it has not worked at all. It automatically turned notifications off and wont allow them to be turned on again, and since I deleted it and tried to reinstall it, it has been stuck in a loop for the past 2 hours.<br> :date: __2020-12-25 03:13:49__
 
 > I check every so often & I last checked it this evening (12/13 ~8:20pm) & it says it last checked exposures at 6:33pm, so that's fine. But what I'm worried about is if other people are actually using the app. I try to stay home as much as possible, but I have gone out recently and I'm concerned that the app hasn't picked up on exposures. Not that I want to be exposed, but it sure would be nice to know if I had, esp given the rate that covid is rising in the state...Samsung galaxy S10 user.<br> :date: __2020-12-14 02:29:38__
@@ -197,16 +207,6 @@ The SlowCOVIDNC app has been installed by more than **100000** times. At this ti
 
 > Stupid sinnesxt Ureu r 543or.<br> :date: __2020-12-12 17:48:35__
 
-> Success depends on how many people use the app, which not many appear to do. In a pandemic, it should be mandatory for everyone with a cellphone to be connected. Otherwise, it's pointless.<br> :date: __2020-12-02 15:56:28__
-
-> Happy to have this app. It was working fine for about a week. I could see that it was checking for exposures multiple times per day. Since 11/20, however, it has not checked for exposures. I tried uninstalling and reinstalling but still not reporting that it is checking for exposures. All settings seem correct. I have a google pixel 4a.<br> :date: __2020-11-25 01:23:45__
-
-> App hasn't updated in four days. I was updating daily prior to 11/20???<br> :date: __2020-11-24 22:58:16__
-
-> The app is a great concept and was checking when initially installed. On my Samsung S6, it was a power drain. Also, it hasn't checked for exposures since 10/23/20. Today is 11/20/20 so its been almost a month. As COVID case rates are accelerating again, it seems this app would be more pertinent than ever. I'm looking forward to any suggestions that may be offered to resolve these two issues.<br> :date: __2020-11-20 10:47:56__
-
-> Stopped updating 3 weeks ago. I checked the settings. It said all was good but app would not update. Prior to last update it did so at least once a day. So I wonder how accurate it is???<br> :date: __2020-11-10 22:30:16__
-
 
 
 #### 2-star reviews
@@ -215,13 +215,15 @@ The SlowCOVIDNC app has been installed by more than **100000** times. At this ti
 <img src="2_star_reviews_wordcloud.png" alt="gov.nc.dhhs.exposurenotification 2 reviews"/>
 </p>
 
+> A small percentage of people are downloading this for Android (can't speak for iOS), and such a small percentage of people are actually tested daily in this state. It's more like a gimmick app unless everyone downloads and everyone gets weekly testing.<br> :date: __2020-12-31 16:28:03__
+
+> While I love the idea powering this app actually acquiring a pin takes so long that the app becomes useless. I finally received my positive test result four days after showing symptoms and when I called in to get my pin, I was told that I would have to wait a few days and call in again. By the time I actually get my pin the incubation period for the people I may have had contact with will be over and they'll probably have symptoms before they even get any notice from the app.<br> :date: __2020-12-30 17:23:48__
+
 > There's not enough people using the app for it to work. Like, even in the busiest stores, the app doesn't find any exposures.<br> :date: __2020-12-24 23:35:16__
 
 > Just got app I'll let you know later!<br> :date: __2020-12-19 17:56:23__
 
 > I tried contacting them, and my test was not showing up in their system so they could not give me a PIN. I used the link your provided and I also called when the link was telling me I wasn't in the system.<br> :date: __2020-12-14 14:54:23__
-
-> A small percentage of people are downloading this for Android (can't speak for iOS), and such a small percentage of people are actually tested daily in this state. It's more like a gimmick app unless everyone downloads and everyone gets weekly testing. So no way to know if this approach to contact tracing is working.<br> :date: __2020-12-07 14:45:11__
 
 > I installed this app at the beginning of November, and that was the only time it checked for exposures. What use is that? I could not find a way to manually check either.<br> :date: __2020-11-27 04:56:58__
 
@@ -233,8 +235,6 @@ The SlowCOVIDNC app has been installed by more than **100000** times. At this ti
 
 > While the app is easy to use and read, the app prevents use of bluetooth keyboards and controllers for more than a few minutes. After that, this app forcibly disconnects your accessories, and you need to manually reconnect.<br> :date: __2020-11-08 02:26:22__
 
-> If it weren't so disturbing that something like this is just being touted by DHHS to slow Covid, I'd be jumping for joy. But, now,, all i can muster is too little too late for 100s of 1000s.Apple cranks out a new iPhone with world-wide ads faster than this. I'd say I can't believe it but, this is a red state and the "Red Pres" is pulling out all stops to pull a victory out of his red, you know what, like he did last time. Meadows did say they weren't going to try to control the virus. Shameful!<br> :date: __2020-11-02 12:23:28__
-
 
 
 #### 1-star reviews
@@ -242,6 +242,8 @@ The SlowCOVIDNC app has been installed by more than **100000** times. At this ti
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="gov.nc.dhhs.exposurenotification 1 reviews"/>
 </p>
+
+> Unable to obtain a Pin using the form due to always failing the CAPTCHA. I've tried being case sensitive and not case sensitive. It fails every time. I've tried this on Chrome and Firefox browsers<br> :date: __2021-01-02 09:04:24__
 
 > There aren't enough people using this app for it to be really effective. Also, it doesn't check for exposures very often. A serious flaw in my eyes! It should be checking at least every 15 mins (refreshing) at the very least. It does not allow for exposure time check to be altered in Google. It was a good concept, bad design.<br> :date: __2020-12-22 23:55:21__
 
@@ -260,7 +262,5 @@ The SlowCOVIDNC app has been installed by more than **100000** times. At this ti
 > Idk<br> :date: __2020-12-08 12:08:56__
 
 > Great idea but it stopped working Nov. 20th. When will it start working again?<br> :date: __2020-12-06 19:02:47__
-
-> When I first downloaded i had a app that protect me from hackers and it said that 4 ppl was trying to hack me with 317 trackers<br> :date: __2020-12-06 10:16:43__
 
 

@@ -225,7 +225,7 @@ The LAZIOdrCovid app has been installed by more than **100000** times. At this t
 <img src="2_star_reviews_wordcloud.png" alt="com.intellicare.covid 2 reviews"/>
 </p>
 
-> Installa mia malgrado, non ha mai brillato per rapidità nella memorizzazione e nella visualizzazione ma era senz'altro utile per monitorarei parametri invece di annotarli a mano. Da oggi, 26 dicembre, mi è impossibile aggiornare e visualizzare i dati sulla pressione arteriosa e non funziona neanche l'archivio. Sono tornato a scrivere tutto a mano...<br> :date: __2020-12-26 21:17:31__
+> Installa mia malgrado, non ha mai brillato per rapidità nella memorizzazione e nella visualizzazione dei parametri ma era senz'altro utile. Tuttavia, da oggi, 26 dicembre, mi è impossibile aggiornare e visualizzare i dati sulla pressione arteriosa e non funziona neanche l'archivio, perciò non ho accesso allo storico dei parametri. Sono tornato a scrivere tutto a mano...<br> :date: __2020-12-29 18:04:30__
 
 > I grafici non funzionano più: invio i dati ma, non avendo il riscontro nel grafico non so' se sono registrati. Se non funziona più ditelo, risparmio memoria del cell.<br> :date: __2020-10-23 21:46:21__
 

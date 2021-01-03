@@ -1,5 +1,149 @@
 [
     {
+        "reviewId": "gp:AOqpTOExpKdXIUjf-5hiwR7_Pj2M3LLUdaTpOF8zMqu0kWTSsu2lMrQPYmPl9PX3DEo4oL3aogMuOa8s6SG_psU",
+        "userName": "Eric Krantz",
+        "userImage": "https://play-lh.googleusercontent.com/-m4jtZZCq-iI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmZFWzZTVOvmvu2nbQ81bF7QLLSDg/photo.jpg",
+        "content": "This app almost seems to good to be true. Been using it a year now. Visit a doctor anytime, from anywhere for a dollar a visit (plus $120 annual fee) App works great and the doctors really listen. I love being able to talk to a doctor over chat. I don't have to worry about setting up a webcam, or family members overhearing the visit. Not a full replacement for an in person doctor, but for things that can be diagnosed remotely it's more convenient, and less stressful than going in person.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.41.1",
+        "at": "2021-01-02 19:16:00",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOEv4_3dFrV8v6afrAWaPpmOqz6LVqh0W-jW9BXQTMixvF_ha1upuSYsok63zsx_f5VxyO8WNvPJkdFmZxc",
+        "userName": "Lisa Greene",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgZIH1GCeEKYRD89DS_yy186SjGH5nUqS7yUtgDJg",
+        "content": "Very competent and compassionate Dr's",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.41.1",
+        "at": "2021-01-02 03:23:51",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGO9EExdVamlp4M9veUVZzl5WVMtqYtxgcYpHufoqy22uniWTSUaczT-FRRTLzx-YoiFsOrShxp_15AWnQ",
+        "userName": "tim harris",
+        "userImage": "https://play-lh.googleusercontent.com/-VK6EOJ59Y3U/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnzc-GAmPYasfkq2cxBLXtyt5Zd3A/photo.jpg",
+        "content": "Absolutely amazing!",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.41.1",
+        "at": "2021-01-01 20:10:40",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFUWRYAmG6hSvNmQJFWADlkWTGSq7dh_cPXtOJqEZPR32SCKhteN5UaEBO7i6RCoMzY2X-wNuOltF6rVHE",
+        "userName": "Brian Smith",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjUjQds-7ueuH4RZWpBd9c1G8KUNsBYo1D9JG214g",
+        "content": "Just awesome. Thank you",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2021-01-01 17:59:04",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOEYhGF-UuiCHPxZopwqC662YRux-RSWTlrJpb0HNfYJ9GlMbEwUONakdRhFmSNHqXCYwQBiK4ICtBj0UYo",
+        "userName": "Wendolyn Trozzo",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjJgeGt3d3NRBX18B1NnVaFIMDgzklkeVohTjlV4g",
+        "content": "Clear and kind instructions from a dr. Helped us know whether to go to urgent care. Let me share a picture to give the dr information.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.41.1",
+        "at": "2021-01-01 15:59:35",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGJL6Ys0oLY488123TK21ORtk1VNIo41Dy8ThUPruzG7VjEAQCysYClyx-FLZSjZKHmxmeWaxhA0cqWFo0",
+        "userName": "Yudi Moskowitz",
+        "userImage": "https://play-lh.googleusercontent.com/-CEQjNRA0PTM/AAAAAAAAAAI/AAAAAAAAF-M/AMZuuclmDBB0mtYYINo8D794_yg_2djlXw/photo.jpg",
+        "content": "Super easy to us and the doctor was amazing!",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.41.1",
+        "at": "2021-01-01 00:11:12",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFTij-wO7RK7OCwvKdo5X8a_C4tqL16vOXN5TjyCDF-4wxfZCUbg1XseBnKRqB47xy3Rq2TC4y5hsRx0HA",
+        "userName": "Pr. David Kappus",
+        "userImage": "https://play-lh.googleusercontent.com/-NA9XM_EyfzI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmq3ekjGPFApfNj85Um1lXNRzp0cg/photo.jpg",
+        "content": "Good experience overall. Though keep your symptom description to bullet point summary. It said \"in detail\" but my \"narrative\" description was timed out and I had to start the visit over.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.41.1",
+        "at": "2020-12-30 20:38:35",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFosZxnEOyhFlcmOD4L93qN0UK45igIE5ilRSBl-goNcLxOJ9j5DSCiwMcgR6KBiOHUKeiZtDb-hqpvaZQ",
+        "userName": "Megan Worthley",
+        "userImage": "https://play-lh.googleusercontent.com/-X1vi0qfykXI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmDxhB3pcRZozz06l7lqA70MoS3iA/photo.jpg",
+        "content": "Easy. Free through my work and can be done at any time.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.41.1",
+        "at": "2020-12-30 13:56:27",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOG5DXpm_TWTu_dEMN-xgSpjGK1abUCoZ4gyQJMC7HXmqZCLw6baVAkUMQbUD-d-GisFZ8k4h040iXraPsI",
+        "userName": "prplelf1",
+        "userImage": "https://play-lh.googleusercontent.com/-MspFaBwfKTI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnYl8xuMQkt2Z5SvrdoL4PSPfQPig/photo.jpg",
+        "content": "Dr Smith was very helpful. Thanks so much for the information.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.41.1",
+        "at": "2020-12-30 07:22:12",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOEI4vb_xiVLudRt2zOO7czvGlIUt6ww_22nj9xId15bu-ZvcWveAf6SoAmu2YE9J9BJTfhnojeKx1sCp0s",
+        "userName": "Judit Hidalgo",
+        "userImage": "https://play-lh.googleusercontent.com/-RnvJ-Ref4Ek/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckuhBZ8ukgWW_uaDn2tp1LtPFIqnQ/photo.jpg",
+        "content": "It was fast and easy I liked it alot .",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.41.1",
+        "at": "2020-12-28 22:46:32",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHyywKCVbsAKFI2iPcXoTTQs-6FIPw93jzbnuMQk6fU5U8Klv0C3bG899GO1wV2_QOOSscDqY8H2K6X4Js",
+        "userName": "Johans Nurkka",
+        "userImage": "https://play-lh.googleusercontent.com/-AmzWXhrVVug/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckEPWDfAfiQ73tofd2HAYiW5sM7lg/photo.jpg",
+        "content": "So, take it for what it's worth, I have only used this app for 3 days. In those 3 days, I had 2 appointments, they are $1 each plus $20 to register. As far I know, that is the cheapest doctor's visit possible. I th I'll nk you can do telehealth for free with most insurance. This is essentially telehealth but, text based. I recently retired from 20 years in the Army and haven't been able to get my insurance (USFHP) to cover any health care since retiring. So, finding this has been a relief.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.41.1",
+        "at": "2020-12-28 17:09:15",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOEqnjVPXDuvlIvp0cwFA2H7yUryuA99zgYiSAqk56WA6JpHYi2xWSiVgmEmFdm8WXmWewdHKchhgbPLE7E",
+        "userName": "Melissa Vasquez",
+        "userImage": "https://play-lh.googleusercontent.com/-KMHSkuC3_Pk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm_WcmofptxcZ5SeTZ0gNRIO7R8bw/photo.jpg",
+        "content": "Easy",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.41.1",
+        "at": "2020-12-28 15:58:08",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOF9D0AOz9oAiEPoQ0ZaWnzCjgbas2K5zqMl2z6ut7VzdrkoP3t4p90BJTBtcSYkMt1qu7_bAqPZd-LoCUQ",
         "userName": "Patricia Stewart",
         "userImage": "https://play-lh.googleusercontent.com/-GN3hGSFTga0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucke6v-Is-_W8cHmKsIEkE5pdPR2og/photo.jpg",
@@ -20,8 +164,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "2.41.1",
         "at": "2020-12-28 02:26:43",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "We're sorry to hear that you were disappointed with your visit. You can learn more about what we treat, and how 98point6 works, at https://www.98point6.com/what-we-treat/. If you have any additional questions, please don't hesitate to reach out to our support team at support@98point6.com. They will be happy to address your concerns in more detail.",
+        "repliedAt": "2020-12-30 19:46:22"
     },
     {
         "reviewId": "gp:AOqpTOHVwGVnmgWjykc7ofj-i8pj6yzMuqeMq3K3N22-50WORMm3jNjoPoEnTQ2QVIHvNLPKYNSQLk_Rec12LY8",
@@ -113,7 +257,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgPy2VljIU4auOraOD6I6sW20r4QVg9vFvuBPlwfA",
         "content": "The first time i used this app was great...after that it was useless.. The drs didnt want to do anything to help me and suggested i go to a dr... I have no insurance and my normal dr is a low income clinic that takes months to get an appt at... And i cant afford an er visit each time i need a medication refilled... And it wasnt even a narcotic medication or anything along those lines... So whats the point of this app??",
         "score": 1,
-        "thumbsUpCount": 1,
+        "thumbsUpCount": 2,
         "reviewCreatedVersion": "2.41.1",
         "at": "2020-12-21 12:48:01",
         "replyContent": "We're very sorry to hear that you're disappointed with your visit and understand your frustration. To allow us to learn more about your experience, and answer any questions you have about our prescription policy, we encourage you to reach out to our support team at 866-657-7991 or support@98point6.com.",
@@ -2722,18 +2866,6 @@
         "at": "2020-08-12 20:17:58",
         "replyContent": "Hi Keisha. Thank you for sharing your feedback. We'd love to learn more about your experience so we can address your concerns in more detail. If you would like to share more about your visit, please reach out to our support team at 866-657-7991 or email support@98point6.com.",
         "repliedAt": "2020-08-12 23:04:06"
-    },
-    {
-        "reviewId": "gp:AOqpTOFEEV4ZNYowngzaKnar8YkKhfsgG4dryFQJMDUW-3u7C554tjJ0wmo5Pf1NlyCx7yaKlMwj8LjUTaL75QQ",
-        "userName": "Ashley Bloxom",
-        "userImage": "https://play-lh.googleusercontent.com/-lxj9HSa6UIM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucltYGbzlplVIQYYR5gQ2KMcMSBR4A/photo.jpg",
-        "content": "Not very helpful. Ive had two visits. The first time, the doc ordered $1700 worth of lab tests for GI symptoms. The second time, they said my sons rash looked like bug bites. Hes been inside for over 14 hours and there is no way a bug bit him 15 times while he was sleeping 2 feet away from me. Waste of time.",
-        "score": 3,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "2.32.0",
-        "at": "2020-08-12 15:44:44",
-        "replyContent": "Hi Ashley. Thank you for taking the time to share your feedback. We're sorry to hear that you are unhappy with the care you received and understand your frustration. To allow us to learn more about your experience, and address your concerns in more detail, we encourage you to contact our support team at 866-657-7991 or email support@98point6.com.",
-        "repliedAt": "2020-08-13 23:35:36"
     },
     {
         "reviewId": "gp:AOqpTOEdUPrreiWeWBhtwgsvmkNx7gQDOGGWhG9PescOB1jWu6m-a67Uj-A0YliOs0rjokM81n1P0qfQ34gYX-4",
@@ -7334,7 +7466,7 @@
     {
         "reviewId": "gp:AOqpTOG-eeWU663YcMU0ee3YDaQ4vPgIZHwoDKqCnxBaUn41HQeokwWVk-7arnzHwqOq_bfcv7ZgLT581w0ovdI",
         "userName": "Hobo Junction",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjYeSFWU114sW6orxY4yhxed0vfc4-yr8sKzaBc",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjMZMAEajUMlpvezQXaEyEp95igsEhH5Fc0HeuBQ_0",
         "content": "Works great, just text them and a Dr. Will text you back when one comes available.",
         "score": 5,
         "thumbsUpCount": 0,

@@ -205,6 +205,8 @@ The Healthily: Self-Care & Health Journal app has been installed by more than **
 <img src="5_star_reviews_wordcloud.png" alt="md.your 5 reviews"/>
 </p>
 
+> Very useful used few times a week.<br> :date: __2021-01-01 12:43:33__
+
 > makes tracking my health much easier and has built in symptom checker too!<br> :date: __2020-12-22 10:18:16__
 
 > MU5 Maximum<br> :date: __2020-12-17 05:25:18__
@@ -222,8 +224,6 @@ The Healthily: Self-Care & Health Journal app has been installed by more than **
 > внат ан авесоме аpp. итс хелпинг те ундерстанд мы health<br> :date: __2020-11-21 23:00:02__
 
 > it's great to determine if you need to go to the Dr, so easy to overlook symptoms but this app makes me look at the whole picture<br> :date: __2020-11-20 13:37:11__
-
-> This app is really helping me. The prescription that given is really helpful<br> :date: __2020-11-20 08:50:20__
 
 
 
@@ -317,6 +317,8 @@ The Healthily: Self-Care & Health Journal app has been installed by more than **
 <img src="1_star_reviews_wordcloud.png" alt="md.your 1 reviews"/>
 </p>
 
+> never downloaded this. no clue how it ended up in my app list<br> :date: __2020-12-30 20:13:04__
+
 > Great app<br> :date: __2020-11-13 07:47:00__
 
 > Notes don't save. It only has a back button which does not save the note.<br> :date: __2020-10-07 16:26:38__
@@ -334,7 +336,5 @@ The Healthily: Self-Care & Health Journal app has been installed by more than **
 > Not working , dead app. Airtel provider<br> :date: __2020-08-07 12:26:46__
 
 > Acidity? You're a doctor app and you don't know what is acidity?<br> :date: __2020-08-03 19:06:33__
-
-> Was kind of liking the app but it reset itself 5 days into the 4 week programs so I lost all progress. Not starting again, clearly a bug needs to be fixed.<br> :date: __2020-08-01 10:45:32__
 
 

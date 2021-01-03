@@ -133,25 +133,25 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 <img src="5_star_reviews_wordcloud.png" alt="au.gov.health.covidsafe 5 reviews"/>
 </p>
 
+> Fantastic app! No issues at all with interface, has a discreet notification indicating it's working. Barely even notice it's there!<br> :date: __2021-01-03 11:44:30__
+
+> Good<br> :date: __2021-01-03 07:05:29__
+
+> 👍<br> :date: __2020-12-31 23:46:55__
+
+> Its in background<br> :date: __2020-12-31 23:24:36__
+
+> Love being COVID19 SAFE<br> :date: __2020-12-30 17:52:43__
+
+> Essential app for everyone. However on a technical level it still conflicts with my Bluetooth headphones. A minor issue considering the importance of the app.<br> :date: __2020-12-30 11:07:43__
+
+> Support the govt. We are stronger together.<br> :date: __2020-12-30 10:03:13__
+
 > X, see233 c vfu 33 to 1<br> :date: __2020-12-28 04:03:18__
 
 > Downloading and using this app is a civic responsibility. Contrary to views expressed by conspiracy nuts and the fake news media, this is a good app, and it strikes a good balance between privacy and the need for public health officials to get data. It now incorporates a Linux Foundation sponsored open source project, which makes it even better, and the contact tracing more reliable. Apple and Google want to cut the government and public health officials out of pandemic response, which is dumb.<br> :date: __2020-12-24 19:42:06__
 
 > It's a really good app to stop stpreading the covid-19<br> :date: __2020-12-24 05:09:01__
-
-> Just fell safe knowing i have this app<br> :date: __2020-12-21 23:11:48__
-
-> excellent initiative<br> :date: __2020-12-21 09:34:24__
-
-> Works. Have had it since it was released and no issues.<br> :date: __2020-12-21 07:49:12__
-
-> it keeps you save from the covid<br> :date: __2020-12-21 07:19:35__
-
-> Works as it should. Install says to turn off battery optimisation and location on for this app... so do it; stop being a superstitious idiot and knowall, no excuses.<br> :date: __2020-12-21 06:45:18__
-
-> Thanks for keeping Australia safe<br> :date: __2020-12-21 06:43:49__
-
-> This app is guaranteed 100% Covid Safe. You will not get Covid from this app.<br> :date: __2020-12-21 06:35:06__
 
 
 
@@ -189,7 +189,17 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 <img src="3_star_reviews_wordcloud.png" alt="au.gov.health.covidsafe 3 reviews"/>
 </p>
 
-> Battery usage seems to have massively increased after the latest update. COVIDSafe app accounted for 25% of my battery usage per day.<br> :date: __2020-12-28 12:00:04__
+> ( edited for later versions) uninstalling. No.one i know is still using it. I don't trust its status or capacity anymore. Maybe if its refreshed and included the QR functionality. Bye.<br> :date: __2021-01-03 12:19:41__
+
+> Battery issue, I have revert back to old version, rather latest version. Please fix the battery using too much issue, so i can update.<br> :date: __2021-01-02 07:36:13__
+
+> Never been notified of any cases or update<br> :date: __2021-01-01 06:46:10__
+
+> App should include a unique personalised QR code for venues to scan, much easier than the current system and would remove the issues with incorrect data entry when entering facilities. As many others have reported Bluetooth drains battery so too tempting to turn if off<br> :date: __2020-12-31 23:37:22__
+
+> This app interferes with Bluetooth audio peripherals. When you come into close contact with another device, the sound in your BT device momentarily stops and resumes.<br> :date: __2020-12-31 00:22:46__
+
+> 2 problems with this app, not enough people are using it and it is chewing up too much of my battery. Otherwise, the app does not track my location. It keeps a log of all the installed phones I have been near for last 21 days. It does not upload this information unless I give the permission; and I will only be asked to do so in the event I had contact with someone who is infected. When I uninstall the app, all the data on my phone are deleted.<br> :date: __2020-12-30 23:49:12__
 
 > Not sure what it is supposed to do. I have it running though.<br> :date: __2020-12-28 04:40:31__
 
@@ -199,16 +209,6 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 
 > Happy with the security and privacy of the app but every since the Herald protocol update, it's smashed my battery (Galaxy S10)<br> :date: __2020-12-27 03:13:46__
 
-> Had the app for a while but only just recently uninstalled due to all of a sudden high battery usage.<br> :date: __2020-12-25 23:58:51__
-
-> Still conflicts with my Bluetooth headphones after the latest update. (18/12/20) Please fix it.<br> :date: __2020-12-25 23:46:30__
-
-> Have to uninstall. Battery Life had halved since I put it on. Otherwise no problems<br> :date: __2020-12-25 09:50:08__
-
-> Had this app since introduced with no issues. However, after the update the battery use is ridiculous. It uses far more battery in the background(at home alone) than any other actively used app i have. Needs to be addressed if you hope to have more people instal.<br> :date: __2020-12-25 02:42:20__
-
-> I would like more information on where exactly covid is. I'm not sure if I just can't find this setting. Also couldn't everyone have just stayed indoors for a few months so that the 0 wouldn't have gone up to 115 cases now<br> :date: __2020-12-22 00:57:15__
-
 
 
 #### 2-star reviews
@@ -217,25 +217,25 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 <img src="2_star_reviews_wordcloud.png" alt="au.gov.health.covidsafe 2 reviews"/>
 </p>
 
-> In one day (with lots of travel), 16 hours background use, 1 min active use, most battery percentage app used at 22%. And it's been for several days that's likely from the new update as some others have said. Although I just found an option to "Optimise battery usage" on as it was off before. Hopefully that fixes.<br> :date: __2020-12-28 11:13:28__
+> Drains the battery so much especially overnight when I'm not even moving<br> :date: __2021-01-03 14:13:17__
 
-> App is using more power with every update.<br> :date: __2020-12-28 09:04:27__
+> Uses 25% of your battery life? Needs fixing<br> :date: __2021-01-03 10:32:27__
 
-> From Innisfail, Qld: clubs, pubs, stores R ignoring 1.5m. Tourists & travellers in town. Displayed instructions are UNclear and scattered. I took photos of the QR Code with my Data On and no green tick appeared. Then I sent an SMS with name email and Venue. I'm taking a photo of the QR Code but nothing happens. Try using IN-line steps with the icon and logos beside the steps. Try following your directions without guessing or ad-lib. "Tell us more" doesn't work.<br> :date: __2020-12-28 05:35:07__
+> having battery issues on samsung also.. uses 45% of my battery since the upgrade to 2.0..<br> :date: __2021-01-03 05:23:07__
 
-> Bluetooth issues. Ever since installing I've had BT issues with other devices not being able to reconnect, without clearing cache and data, then all other devices reconnect for a few days, then problems start again. Edit 27 Dec. 2020. Sick of this randomly burning battery. Fix it dev or will be uninstalling. We are trying to do the right thing, but this app leaves my family vulnerable with potential flat batteries on our phones, which negates usage of this app!<br> :date: __2020-12-28 01:23:22__
+> Could be doing so much more. E.g. checklist of public notifications, isolation status, opt in for location sharing, notification of hotspots visited without this 15 minute rubbish<br> :date: __2021-01-03 01:32:11__
 
-> Had to uninstall it because it emptied my battery in no time. Biggest sucker of power since the update. I used it since the beginning but this is rediculous. Hope they fix it in a hurry<br> :date: __2020-12-27 07:25:31__
+> The new protocol seems to drain batteries very quickly. Over about 8 hours, it's drained 33% of my S8's battery. Not so good. I'll be sticking to QR code check ins.<br> :date: __2021-01-02 14:11:37__
 
-> Large increase in battery usage after 18th December 2020 update.<br> :date: __2020-12-27 02:18:06__
+> From the end of December 2020 started to drain my battery really fast...<br> :date: __2021-01-02 13:49:50__
 
-> It drains my battery like nothing else. It is great to be covid safe but if my phone dies at 2pm it doesn't help anymore. In average it takes about 20-25% of my battery which is unbearable.<br> :date: __2020-12-26 03:53:44__
+> Kills the battery.<br> :date: __2020-12-31 16:01:49__
 
-> The recent 2.0 update seems to have done something to it's battery use. Judging from the feedback here, I'm not alone in noticing a marked increase in battery drain since the update. In my case, with Covidsafe on, the phone will no longer go on deep sleep/doze. It seems to have borked something with wakelocks. I adopted the app immediately on release and have repeatedly encouraged others to do the same, but in it's present state, I can no longer continue. One kludge I can think of is killing the process when not out and about, but that would require remembering to turn it back on again, which, let's face it, is a losing proposition.<br> :date: __2020-12-26 03:49:42__
+> Battery consumption has risen a lot lately. Currently covid app running at around 25% consumption compared to other high using apps at around 3% of battery consumption, and low using apps at <1% consumption. High enough that I force a stop when home to conserve battery.<br> :date: __2020-12-31 04:36:31__
 
-> Was working just fine in background. A week or so ago it appeared to update. After that it began draining the battery. Now uninstalled. Fix it please.<br> :date: __2020-12-25 21:50:40__
+> W ×<br> :date: __2020-12-31 02:52:06__
 
-> There is significantly increased battery usage after the Herald update. Consider using ENS instead<br> :date: __2020-12-25 00:26:27__
+> My most power hungry app<br> :date: __2020-12-30 15:06:13__
 
 
 
@@ -245,24 +245,24 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 <img src="1_star_reviews_wordcloud.png" alt="au.gov.health.covidsafe 1 reviews"/>
 </p>
 
-> Uninstalling due to battery drain. 44% vs the next app which only consumed 12%.<br> :date: __2020-12-28 12:20:36__
+> Uninstalling, dead set battery hog<br> :date: __2021-01-03 09:42:34__
 
-> Drain battery significantly.<br> :date: __2020-12-28 12:09:25__
+> Useless.<br> :date: __2021-01-03 07:32:15__
 
-> Latest update killing my battery. Really disappointing that the government decided to release a half baked update eroding the confidence of all users who are trying to do the right thing. You just can't afford to skimp on testing on such a large scale and important app.<br> :date: __2020-12-28 09:52:09__
+> Extremely high battery usage. Samsung S10 shows that the app is - 28.5% used for less than one minute activity and in the background for 18hours 47 minutes. Ridiculous. Three days since my previous review. Can no longer charge both my wife's phone and my phone twice a day to keep this app running. Will not continue this, have decided to remove the app from both phones today.<br> :date: __2021-01-03 02:41:15__
 
-> The latest update requires my phone location to be on. Uninstalled.<br> :date: __2020-12-28 09:41:41__
+> How do you get your pin if you dont come out of the site. When you do come out get it and go through the whole thing again, then the pin you have just teceived is no good anymore. What am i doing wrong or is this site imposible, other people have done it, or how are the gov doing their tracing on cases.<br> :date: __2021-01-03 01:43:03__
 
-> Unable to update. Tried numerous times.<br> :date: __2020-12-28 04:40:24__
+> Drains battery super fast now. App is no good if phone runs out of battery half way through day.<br> :date: __2021-01-02 23:32:58__
 
-> I was previously an advocate of this app because of the purpose of it. But since the latest update my Samsung S6 with Android 7 runs extremely hot and uses the whole battery within 4 hours. This makes both the app and the phone useless. I have turned off the location permission on this app, and now I have my phone back. The app tells me it cannot operate without location permission - I call bull, it worked fine without location services before. If it doesn't work now without the location permission, so what, it doesn't work with the location permission either. There is clearly some pretty poor coding in this version. Let me know when you fix this, until then locations stays off.<br> :date: __2020-12-28 04:10:23__
+> Battery drain issue!!! All of a sudden app is draining my battery each night using over 64% in 7 hours with no active time. Might be due to me having poor connection issue whilst away on holiday, but far from acceptable!<br> :date: __2021-01-02 22:22:03__
 
-> Battery drain on latest version<br> :date: __2020-12-27 13:33:07__
+> Battery drain is terrible since last update to version 2. I would suggest the developer finds a fix soon.<br> :date: __2021-01-02 20:28:44__
 
-> Just 17 cases traced by this app.<br> :date: __2020-12-27 12:36:23__
+> Same as everyone else. High battery usage since last update. Big advocate for the app, but it's killing my phone. I'm thinking some Bluetooth issues im having lately may also be tied to it<br> :date: __2021-01-02 07:53:00__
 
-> Pathetic doesn't work not worth the effort of installing<br> :date: __2020-12-27 10:54:55__
+> Since the last update my battery lasts less than half a day, where before it would last more than 24 hours. Also The Senate Select Committee on COVID-19 makes it clear that the app has been an abject failure. I will be sticking with the SA government's QRcode check-in app. Uninstalling.<br> :date: __2021-01-02 06:46:04__
 
-> I wondered why my phone was suddenly unable to go a full day without charging. Turns out since the last update, this app has started using a lot more battery charge. Needs to be fixed asap or I will have to uninstall it, and I won't be the only one.<br> :date: __2020-12-27 09:04:53__
+> Since last update (dec 2020?) noticed my Samsung s9 battery getting used up very quickly most days. Thought I must have been using my phone a lot more than usual but couldn't see how, hadn't really changed my habits. This morning noticed battery had run down really quickly. Went through my apps to find the Covidsafe the only one burning through my battery. 14% used in background in 2 hrs. I rely on my phone for work, don't have the opportunity to recharge during the day, so uninstalled app.<br> :date: __2021-01-02 00:25:23__
 
 

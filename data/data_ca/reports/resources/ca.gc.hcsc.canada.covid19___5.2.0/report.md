@@ -246,6 +246,8 @@ The Canada COVID-19 app has been installed by more than **100000** times. At thi
 <img src="1_star_reviews_wordcloud.png" alt="ca.gc.hcsc.canada.covid19 1 reviews"/>
 </p>
 
+> Tests my patience! If I didn't think it was important to report COVID-19 symptoms, I would never use this app! It is so slow, and I mean slow that you don't know if it has sensed my touch selection or not so you tap again and again! Keeps showing that the app encountered an error when I load this app. Why did you move the Daily Check-In from being the first item on the page when it starts?!<br> :date: __2021-01-01 16:44:30__
+
 > Since last update Stats don't update at all like is use to do for every day the stats for the day don't display<br> :date: __2020-12-28 01:23:01__
 
 > "Application error" ...not working<br> :date: __2020-12-27 02:00:19__
@@ -263,7 +265,5 @@ The Canada COVID-19 app has been installed by more than **100000** times. At thi
 > Very slow now it stops when I complete self cheek<br> :date: __2020-11-25 21:54:27__
 
 > Doesn't work. Uninstalled and tried again same thing, freezes at main screen and no other options.<br> :date: __2020-11-24 04:36:34__
-
-> Freezing can't use,, not opening useless app<br> :date: __2020-11-21 21:47:38__
 
 

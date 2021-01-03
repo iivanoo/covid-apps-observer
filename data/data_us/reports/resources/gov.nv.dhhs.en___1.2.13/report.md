@@ -219,6 +219,12 @@ The Covid Trace Nevada app has been installed by more than **50000** times. At t
 <img src="1_star_reviews_wordcloud.png" alt="gov.nv.dhhs.en 1 reviews"/>
 </p>
 
+> I've had this app on my phone for months hoping that it was a helpful tool to alert people to possible exposures but now I see there is a serious problem with it. I tested positive for Covid-19 today and thought I might be able to help people out by letting them know they may have been exposed but unfortunately it asks for a "verification code" that is nowhere to be found on my test results. Having no idea where to get the code I can't even notify people. Potential to slow the spread wasted.<br> :date: __2021-01-01 06:05:07__
+
+> User cannot report a positive result without a magic code that nobody can find. Useless.<br> :date: __2020-12-30 19:28:55__
+
+> My roommate tested positive and I never received an alert even when he gave my phone number so I could be officially notified. Even now as I tested positive the app still swears I haven't been near any infected person.<br> :date: __2020-12-29 19:26:24__
+
 > Downloaded this app immediately when it became available. It was a great concept, if it worked. But it never did. Never got one report of proximity to infected person (even though I was), doesn't refresh most of the time, and drains the battery because you have to keep the Bluetooth on. I'm uninstalling it because it's just taking up valuable storage space and battery usage. So disappointed.<br> :date: __2020-12-28 02:50:14__
 
 > When I downloaded the App I assumed it would notify me of exposures. It never did. The App does not update and no matter where I go store, mall, movies, etc it doesn't connect or work. There is a serious flaw.<br> :date: __2020-12-26 09:43:12__
@@ -232,11 +238,5 @@ The Covid Trace Nevada app has been installed by more than **50000** times. At t
 > 12-16-20 update: Uninstalled, waited a few days, reinstalled and the App still does not refresh.... App does not allow you to refresh, uninstalled and reinstalled and still does not refresh.<br> :date: __2020-12-16 23:13:26__
 
 > The verification code sent by the SNHD was 7 digits, the app requires an 8 digit code. Could not upload the verification number because it was not recognized as valid. Useless app.<br> :date: __2020-12-16 21:46:13__
-
-> This app has just destroyed my phone! You rotten maggots! I hope you get this virus and DIE A SLOW AGONIZING DEATH. YOU LYING, WORTHLESS TOOL OF A COWARD. I WILL NOT COMPLY! GO BACK TOO THE DEVIL YOU MAGGOTS!<br> :date: __2020-12-16 04:46:05__
-
-> I've been carrying this around for 3 months and to date NO NOTIFICATION that I've come close to Covid. Then I caught the coronavirus and it was EXTREMELY DIFFICULT to report a covid positive. You have to have a verification code to report your covid diagnosis and the clinics have NO CLUE on how to give you the code. I had to call the Nevada State DHHS and thankfully a really nice guy called back and gave me a code, and my roommate a code too BUT the app STILL isn't reporting Covid encounters!!<br> :date: __2020-12-15 23:25:51__
-
-> Does not work on my phone<br> :date: __2020-12-14 05:59:05__
 
 

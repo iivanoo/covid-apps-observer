@@ -190,6 +190,14 @@ The Kry – See a Doctor by Video app has been installed by more than **500000**
 <img src="5_star_reviews_wordcloud.png" alt="se.kry.android 5 reviews"/>
 </p>
 
+> Very handy<br> :date: __2021-01-02 18:44:46__
+
+> Man får hjälp 24/7 medan man sitter på soffan<br> :date: __2020-12-31 18:45:19__
+
+> Quick and efficient and available in multiple languages. Nothing like the other vårdcentral stuff...<br> :date: __2020-12-29 13:47:49__
+
+> Cool<br> :date: __2020-12-29 10:43:46__
+
 > Good and helpful!<br> :date: __2020-12-26 14:59:13__
 
 > Very helpful and easy to book appointments even in the middle of the night<br> :date: __2020-12-24 15:09:30__
@@ -201,14 +209,6 @@ The Kry – See a Doctor by Video app has been installed by more than **500000**
 > Jag tycker mycket om Kry. Jätte snälla läkaren.<br> :date: __2020-12-21 13:08:37__
 
 > Helpful and knowledgeable doctor<br> :date: __2020-12-20 14:39:32__
-
-> I like the service, it's fast and reliable<br> :date: __2020-12-18 10:19:30__
-
-> Excellent experience. Incredible. I will be a regular user after this.<br> :date: __2020-12-17 18:37:20__
-
-> Very easy to use and friendly.<br> :date: __2020-12-17 09:15:01__
-
-> Mycket bra alternativ tidsbesparande för saker som inte behöver handpåläggning liksom.<br> :date: __2020-12-14 04:46:52__
 
 
 

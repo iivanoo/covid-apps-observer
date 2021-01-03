@@ -178,6 +178,10 @@ The PassCOVID.gal app has been installed by more than **10000** times. At this t
 <img src="5_star_reviews_wordcloud.png" alt="gal.xunta.covidpass 5 reviews"/>
 </p>
 
+> Quizás debería ser un poco mas sencilla su forma de uso<br> :date: __2021-01-03 10:23:05__
+
+> Después de esta actualización funciona muy bien. Gracias.<br> :date: __2021-01-02 18:50:17__
+
 > Buena<br> :date: __2020-12-09 00:02:20__
 
 > Me parece muy útil<br> :date: __2020-12-03 21:34:44__
@@ -207,6 +211,8 @@ The PassCOVID.gal app has been installed by more than **10000** times. At this t
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="gal.xunta.covidpass 3 reviews"/>
 </p>
+
+> HAY GRAVE PROBLEMA HAY BARES ESOS CODIGOS A ESCANEAR ,OURENSE MUCHOS NO LO TIENEN ES ILEGALIDAD,ESTA APP SE BASA CON ESA, INFORMACIÓN,VERAZ,XUNTA DEBE OBLIGAR,COLOQUEN LAS PUERTAS DE LOS NEGOCIOS,DISCRECION,SI VAS NO LO HAY NO TE LO VAN DAR SI NO ESTA A LA VISTA,HAY BARES BARRIO COVADONGA,NO PONEN MASCARILLA,EL TABERNERO,Y MUCHOS,O ESTO NO ES SERIO,CP,32001Y NO ESTA AL DIA CON LOS CAMBIOS,RESTRINCCIONES,HACERME CASO BARES BARRIO COVADONGA,CREEN SE CONOCEN SON VECINOS NO PASA NADA,NO ES JUSTO PO<br> :date: __2021-01-02 01:37:17__
 
 > Yo no veo ningún local donde tengan el código QR, lo único que tienen en los bares es el QR de la carta y en otros sitios tampoco lo veo me imagino que tendría que estar a la vista en los supermercados etc..<br> :date: __2020-12-04 19:15:25__
 
@@ -252,6 +258,8 @@ The PassCOVID.gal app has been installed by more than **10000** times. At this t
 <img src="1_star_reviews_wordcloud.png" alt="gal.xunta.covidpass 1 reviews"/>
 </p>
 
+> Pide clave 365 eso es un error que garantiza que muy pocos la van a utilizar cuantas mas restricciones peor esto sólo funciona si la instala todo el mundo, cusntos más mejor, si se ponen restricciones no va . La administracion a su bola para obtener la 365 ir s ventanilla n 11 del capitulo de Axterix.<br> :date: __2021-01-03 10:58:26__
+
 > Desexo saber si esta aplicación ten coste algún, sexa polo que sexa, avisos, descarga...<br> :date: __2020-12-06 17:27:13__
 
 > No actualizan los datos, no coinciden las restricciones que indica la aplicación con la realidad<br> :date: __2020-12-04 08:43:32__
@@ -269,7 +277,5 @@ The PassCOVID.gal app has been installed by more than **10000** times. At this t
 > De vergüenza tener que meter la tarjeta de crédito LADRONES<br> :date: __2020-11-28 18:22:54__
 
 > Anónima si, pero teslle que conceder permiso ata para acceder á axenda do teléfono...!! Desinstalada antes de acabar de instalala.<br> :date: __2020-11-28 12:05:23__
-
-> Me parecen demasiados permisos, para que necesita acceder a mis aplicaciones instaladas?? Muy invasiva... seguiré usando radar covid...<br> :date: __2020-11-28 11:50:18__
 
 

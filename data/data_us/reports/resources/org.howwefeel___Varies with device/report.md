@@ -176,6 +176,12 @@ The HowWeFeel: The How We Feel Project app has been installed by more than **100
 <img src="5_star_reviews_wordcloud.png" alt="org.howwefeel 5 reviews"/>
 </p>
 
+> Participating helps me cope with the reality of living in this pandemic,Covid19, especially when i feel powerless to fight this invisible ennemy. I can only do my part, hoping that others will do the same.<br> :date: __2021-01-01 17:27:15__
+
+> Really good app and simple helps a good cause!<br> :date: __2021-01-01 05:40:34__
+
+> I enjoy this app,the positivity helps your physical capacity to continue to stay home and wear mask outside!<br> :date: __2020-12-29 01:21:12__
+
 > I like checking in<br> :date: __2020-12-23 04:48:36__
 
 > makes my feelings feel valid<br> :date: __2020-12-23 02:01:59__
@@ -189,12 +195,6 @@ The HowWeFeel: The How We Feel Project app has been installed by more than **100
 > Easy and quick to use. Support mental health<br> :date: __2020-12-02 14:38:53__
 
 > Actually pretty slick in terms of design<br> :date: __2020-11-30 16:35:24__
-
-> Easy way to track health and possible covid<br> :date: __2020-11-30 05:03:08__
-
-> You are such good peaple thank you for being so kind!<br> :date: __2020-11-26 00:47:10__
-
-> I think this app is very useful in helping to save lives. It only takes a sec. Every check in feeds a person in need. Cmon now, stop being lazy. Download the app, stop thinking of your wonderful American life and realize its not 1/4 that good for millions around the globe.....<br> :date: __2020-11-21 23:38:23__
 
 
 

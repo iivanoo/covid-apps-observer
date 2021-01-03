@@ -142,25 +142,25 @@ The TousAntiCovid app has been installed by more than **5000000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="fr.gouv.android.stopcovid 5 reviews"/>
 </p>
 
-> Ces infos nous aident pour garder les attitudes solidaires . Dommage que nous ne soyons pas plus nombreux.<br> :date: __2020-12-28 12:00:13__
+> C'est bien<br> :date: __2021-01-03 15:17:51__
 
-> Utile<br> :date: __2020-12-28 11:52:36__
+> Enfin du positif dans ce gouvernement c'est la première fois moi qui ai 67 ans que je trouve un site du gouvernement convivial. PS Bonne année 2021.<br> :date: __2021-01-03 15:11:00__
 
-> Tres tres bien mais pas tres au point ça devrait determiner SI ? ON A ete en conctact avec une personne atteinte et le formuler par un son immediat pour q'on puisse s'éloigner immédiatement pour se preserver soi-même<br> :date: __2020-12-28 11:14:43__
+> l'application reste toujours allumé des fois ça s'éteint l'application<br> :date: __2021-01-03 14:41:50__
 
-> Rapide et simple à faire<br> :date: __2020-12-28 10:22:15__
+> Très utile pour rédiger attestations<br> :date: __2021-01-03 13:11:53__
 
-> Très bien.<br> :date: __2020-12-28 10:20:45__
+> Bien<br> :date: __2021-01-03 13:08:17__
 
-> Excellent<br> :date: __2020-12-28 09:59:46__
+> Très bonne application de renseignements sur le codvid,, très bonne application<br> :date: __2021-01-03 08:03:10__
 
-> Très bien faite et utile . Tout le monde devrait l'activer.<br> :date: __2020-12-27 23:56:14__
+> fait le job.<br> :date: __2021-01-02 23:36:22__
 
-> Bien<br> :date: __2020-12-27 23:38:22__
+> Complète et plutôt bien faite, rien à voir avec les premières versions.<br> :date: __2021-01-02 22:51:09__
 
-> Simple efficace bravo pour cette nouvelle version<br> :date: __2020-12-27 21:29:47__
+> Pratique<br> :date: __2021-01-02 20:45:20__
 
-> Bon!<br> :date: __2020-12-27 21:26:07__
+> Il serait nécessaire que chacun prenne conscience des risques. Il faudrait que tous nous participions en s'inscrivant.<br> :date: __2021-01-02 18:01:41__
 
 
 
@@ -170,25 +170,25 @@ The TousAntiCovid app has been installed by more than **5000000** times. At this
 <img src="4_star_reviews_wordcloud.png" alt="fr.gouv.android.stopcovid 4 reviews"/>
 </p>
 
-> Cette application doit être chargée pour le bien de tous. Alors, qu'attendre vous.,. les jeunes ?????<br> :date: __2020-12-28 11:58:06__
+> Très pratique<br> :date: __2021-01-03 14:16:31__
 
-> Bonne application très conviviale<br> :date: __2020-12-27 22:11:32__
+> Sous Pixel 3 et android 11, pas de plantage jusqu’à présent (je redémarre le téléphone tous les matins). Ça tire un peu sur la batterie, donc je le désactive lorsque je suis chez moi. La désactivation est très simple mais peut-être trop 😅. Je mettrais les choix suivant : 1 heure 2 heures 4 heures 8 heures 12 heures Choisir une heure Pas de rappel<br> :date: __2021-01-03 12:45:45__
 
-> Pratique pour les attestations.<br> :date: __2020-12-27 20:24:41__
+> Ne peux me connecter à tous anticovid...<br> :date: __2021-01-03 09:30:03__
 
-> Bonne application<br> :date: __2020-12-27 20:14:58__
+> Mise en place d'un nouveau couvre-feu, il aurait été bien d'envoyer une notification pou prévenir. Cette app pourrait servir beaucoup mieux si elle était mieux utilisée. Dommage de ne pas avoir utiliser les même solutions que les autres européens, tout ça à cause de l'obstination de quelques élus qui ne comprennent pas la techno. A croire qu'on n'a que les inconvénients de l'Europe sans les avantages.<br> :date: __2021-01-02 16:31:27__
 
-> Marche bien.<br> :date: __2020-12-27 20:01:34__
+> Simple<br> :date: __2021-01-02 15:25:37__
 
-> Meilleure expérience utilisateur que celle d'avant 👍<br> :date: __2020-12-27 17:11:28__
+> Dommage qu'il faille rêactiver l'application à la sortie du mode avion.<br> :date: __2021-01-02 11:44:23__
 
-> Bonne application très interessante<br> :date: __2020-12-27 17:03:10__
+> Pas de problème de déconnection. Bien pour l'attestation pre remplie<br> :date: __2021-01-01 23:24:50__
 
-> En fonction Ras<br> :date: __2020-12-27 11:03:17__
+> Parfait<br> :date: __2021-01-01 21:46:00__
 
-> Avansé impressionnante<br> :date: __2020-12-27 10:13:38__
+> Bonjour cette application se déconnecte régulièrement redémarrage du téléphone et re activation fatiguant<br> :date: __2021-01-01 15:49:00__
 
-> Claire et une bonne information.<br> :date: __2020-12-27 08:27:46__
+> Bonjour, au risque de me faire jugé par les hauteurs et les complotistes je vais juge l'application elle même, pas l'objet... Le design: perso j'aime bien, style moderne, casual et épuré. Le fond: les donnees se mettent à jour pour peu que l'on est du réseau et un bon téléphone j'ai un S10. Attention pour être active le bluetooth doit être toujours actif ça bouffe la batterie dommage ... C'est le seul point un peu négatif. Sinon je l'utiliserais jusqu'à la fin de l'épidémie...<br> :date: __2021-01-01 13:52:18__
 
 
 
@@ -198,25 +198,25 @@ The TousAntiCovid app has been installed by more than **5000000** times. At this
 <img src="3_star_reviews_wordcloud.png" alt="fr.gouv.android.stopcovid 3 reviews"/>
 </p>
 
-> Un peu lourde et consommatrice d'énergie ... mais soyons civiques !<br> :date: __2020-12-28 10:21:20__
+> Voilà 😒<br> :date: __2021-01-03 13:58:15__
 
-> Utile pour réduire la paperasse (attestations qui permettront, j'en suis sûr, de vaincre le covid... mais avant de le vaincre, elles permettront surtout de déboiser quelques hectares pour satisfaire l'appétit insatiable de la bureaucratie française). Je doute de l'efficacité : effectuant des tests pcr avec l'appli activée dans ma poche, je n'ai jamais été, selon elle, en contact avec une personne atteinte du virus...<br> :date: __2020-12-28 09:05:55__
+> Cette appli consomme trop et le téléphone se trouve souvent déchargé.<br> :date: __2021-01-03 09:50:18__
 
-> Bonjour, sur le principe je reconnais que l'appli est simple et intuitive..mais beaucoup de bugs!!!<br> :date: __2020-12-27 22:06:04__
+> Application pratique mais ne m'a pas signalé être cas contact de ma soeur. Elle s'est déclarée sur l'appli et a eu un message qu'elle ne pouvait plus rien faire pendant 2 mois. J'étais avec elle au moment de sa déclaration.<br> :date: __2021-01-03 09:36:04__
 
-> Pas facile de capter tous anticovid. Liaison éphémère donc info difficiles à avoir en temps réel.<br> :date: __2020-12-27 15:19:28__
+> ⚕️Bonne idée ⭐⭐⭐mais Il serait meilleurs pour toutes l'humanité 🌏🌎🌍☘️qu'il y ait une connexion d'accès en Wi-Fi🌐♻️ direct sans avoir recours du bluetooth qui épuise📵 les batteries📲📴<br> :date: __2021-01-03 06:33:46__
 
-> Bof, je pense qu'il y en a beaucoup de monde qui ne signalialeron jamais quand ils sont covit positif et c'est pour ça que je mets pas 5 étoiles à cause de ca<br> :date: __2020-12-27 13:11:19__
+> Aucun qua près de mon environnement a grande synthe<br> :date: __2021-01-02 23:02:44__
 
-> Rien à jour sois disant pas de réseau, pas de Bluetooth....<br> :date: __2020-12-26 19:51:47__
+> Pas assez d utilisateur, dommage<br> :date: __2021-01-02 20:49:41__
 
-> L appli c éteinte seule. De plus elle ce qu'elle prend en compte nos déplacements proches. Style 20 kilomètres. Elle devrait être obligatoire<br> :date: __2020-12-26 19:13:02__
+> Déjà je n'arrive pas à l'activer c'est pourri Quoi<br> :date: __2021-01-02 12:51:56__
 
-> Semble fonctionner correctement, même si j'ai vraiment l'impression que ma batterie dure bien moins longtemps quand l'appli est active...<br> :date: __2020-12-26 18:50:30__
+> Elle a fonctionné après réinstallation pendant quelques semaines, puis nouveau problème. Réinstallation à nouveau...<br> :date: __2021-01-02 12:50:09__
 
-> Relativement efficace<br> :date: __2020-12-26 16:11:09__
+> Notif' covid imprécise et plantages réguliers. J'ai été notifiée que j'étais cas contact mais l'appli ne donne pas la date du contact, donc le docteur ne savait pas quel jour je devais me faire tester. Qui plus est à chaque mise à jour l'appli ne fonctionne plus et doit être réinstallée. Pourquoi casser quelque chose qui marche ?<br> :date: __2021-01-02 10:51:00__
 
-> Bon à rien<br> :date: __2020-12-26 11:20:08__
+> Bonne idée, mais ne s'active pas en tâche de fond même après avoir ajouté manuellement toutes les autorisations nécessaires... l'appui sur le bandeau pour activer provoque désormais le message "Impossible de fournir de crypto-identifiant... No EphemeralBluetoothIdentifier round" (utilisée sur Xiaomi Redmi Note 5, relancé, Bluetooth activé)<br> :date: __2021-01-02 06:29:06__
 
 
 
@@ -226,25 +226,25 @@ The TousAntiCovid app has been installed by more than **5000000** times. At this
 <img src="2_star_reviews_wordcloud.png" alt="fr.gouv.android.stopcovid 2 reviews"/>
 </p>
 
-> Peut de personne de mon entourage a télécharger, du coup inutile pour moi puisque je vais pas loin de chez moi<br> :date: __2020-12-27 19:37:39__
+> Cette application est quand même censée être un moyen de prévention, certes, mais aussi un moyen de communication. Or je ne vois toujours rien à propos de la campagne de vaccination supposée être en cours ? Au delà du fait que cette campagne est un fiasco absolu dans notre pays, j'espère qu'on retrouvera des informations dans les jours qui viennent. Un peu de transparence ne ferait pas de mal, pour une fois.<br> :date: __2021-01-03 15:34:22__
 
-> Moyennement efficace... Non seulement la géolocalisation par bluetooth limite en réalité le fonctionnement et la fiabilité, mais les données deviennent incompréhensibles car elle ne correspondent plus du fait de différences de mise a jour, on n'a pas d'historique (graphique etc) qui permet de savoir si c'est mieux ou non... Google et consorts font bien mieux ! Même Facebook, c'est quand même incroyable que le gouvernement ne soit pas foutu de faire réaliser une appli fiable !<br> :date: __2020-12-27 13:05:04__
+> Quand on la désactivé pour économiser de la batterie difficile de réactiver. On fait quoi ?<br> :date: __2021-01-02 20:57:31__
 
-> Depuis que j'ai téléchargé l'application il ny a aucun cas dans ma region, je trouve bizarre ! Parce que ce n'est pas ça que les médias disent !<br> :date: __2020-12-27 11:43:02__
+> Pas ergonomique à utiliser<br> :date: __2021-01-02 18:01:00__
 
-> Personnes dans mon entourage l'a installée donc pour moi ça peu de chance de fonctionner<br> :date: __2020-12-27 10:04:39__
+> Besoin de télécharger régulièrement l'appli sinon, elle se désactive...<br> :date: __2021-01-02 14:52:54__
 
-> Pratique pour les attestations mais inutile pour le reste quart l'application ne réponds plus.<br> :date: __2020-12-27 06:16:09__
+> Ne sert pas vraiment en dehors du lien direct pour faire son attestation. Sur 12 millions de téléchargements il y a 73000 personnes déclaré porteur du virus et seulement 38000 personnes notifié par l'application... Soit personne ne se déclare malade via l'application soit le gouvernement nous ment sur les chiffres<br> :date: __2021-01-02 13:51:12__
 
-> Impossible de démarrer le service malgré un redémarrage comme préconisé par l'application ainsi que la suppression du cache et des données<br> :date: __2020-12-27 00:28:33__
+> Plante sans cesse. Obligé de réinstaller régulièrement, pour faire grimper le nombre total de téléchargements ?? Au moins la création des attestations fonctionne.<br> :date: __2021-01-02 06:40:00__
 
-> Données, chiffres pas a jour.<br> :date: __2020-12-26 22:37:20__
+> Comment acceder a l'attestation generee pour la produire ? Je n ai pastrouve ce n'est pas clair...<br> :date: __2021-01-01 23:03:32__
 
-> Juste bonne pour faire des attestations<br> :date: __2020-12-26 18:14:32__
+> Ne fonction pas sur un grand nombre de smartphone + donc INUTILE<br> :date: __2021-01-01 21:50:11__
 
-> Depuis la mise à jour de mon téléphone, l'application est désactivé, à chaque réactivation "On fait le maximum pour être disponible très vite" Du coup ça ne marche plus...<br> :date: __2020-12-26 14:35:25__
+> Prise en main d un téléphone portable Samsung plus récent et l application plante dès j autorise son activation.Dommage pour une application si nécessaire.<br> :date: __2020-12-31 18:27:25__
 
-> Cette fois problème de krypto identifiant = impossible de réactiver l'appli malgré plusieurs redémarrages. Donc j'ai désinstallé/réinstallé une fois de plus<br> :date: __2020-12-26 13:52:05__
+> Franchement une application de cette "importance" dont on voit tous les jours des pubs tv qui ne donnent pas des chiffres fiables et beaucoup de manques, pas courbes d'évolution des chiffres, pas le nombre de décès, je trouve ça quand même un limite.... Je n'ai d'ailleurs jamais été averti d'un quelconque contact avec un cas déclaré, bref a quoi ça sert ?<br> :date: __2020-12-31 13:21:33__
 
 
 
@@ -254,24 +254,24 @@ The TousAntiCovid app has been installed by more than **5000000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="fr.gouv.android.stopcovid 1 reviews"/>
 </p>
 
-> Zéro.....malsain.....espion ....!!arrêtez!<br> :date: __2020-12-28 11:30:11__
+> L'application n'a jamais signalé un nouveau cas dans ma région donc je me demande pourquoi nous sommes sous couvre feu à 18h.<br> :date: __2021-01-03 14:08:54__
 
-> Pas stable<br> :date: __2020-12-28 11:06:20__
+> Deux mises à jour dans la semaine et les deux plantent à l'activation (alors que cela marchait bien avant). Sans activation, pas de possibilité de savoir si on a côtoyé une personne positive. Cela ne sert à rien. Nul nul nul... Comment voulez vous qu'on s'en sorte si l'incompétence prime. Je suis furieux. Chaque semaine je dois desi taller et réinstaller pour pouvoir activer. Si je pouvais mettre zéro étoile je le ferais, on ne s'en sortira pas.!<br> :date: __2021-01-03 12:49:02__
 
-> Ne sert strictement à rien. Bug à répétition. Plantage de mon portable tout les jours. Depuis que je les supprimé mon téléphone fonctionne nickel. Une application a éviter absolument.<br> :date: __2020-12-28 09:19:02__
+> Ne fonctionne toujours pas correctement, oblige de desinstaller et de reinstaller au bout d'un certain temps ,le gouvernement pourrait quand meme choisir des concepteurs competents, vraiment tres tres penible!!!<br> :date: __2021-01-03 10:11:04__
 
-> swx<br> :date: __2020-12-28 08:10:03__
+> Tous Anti-Macron ! Son gouvernement et lui en prison.<br> :date: __2021-01-02 22:38:58__
 
-> L'application se désactive souvent, sans que l'on soit averti. Du coup, la surveillance contact n'est plus valable. On pensait être surveillé, mais on ne l'etait pas, on ne l'était plus. Vous faites de l'escalade en pensant que votre pote assure la corde....mais il est parti sans rien dire entre-temps! C'est carrément suspect que ce problème majeur n'ait pas encore été corrigé depuis. Sûrement pour gonfler les statistiques d'installation.<br> :date: __2020-12-28 03:02:05__
+> 5* Super. J'utilise beaucoup. Maj 02/01/2021. Message d'erreur systématique. '' Impossible de fournir de crypto identifiant...'' j'ai redemarré. Vidé le cache. Reinstallé. Dommage j'étais un fervent utilisateur de cette appli.<br> :date: __2021-01-02 21:31:42__
 
-> Demande de enlever l'économie de batterie...<br> :date: __2020-12-28 02:08:43__
+> Elle se désactive sans arrêt et ça, sans même le notifier. Du coup, je doute réellement de son efficacité. Ce problème existe depuis le début. Ce problème existe sur les 3 téléphones du foyer donc j'imagine bien qu'on est pas les seuls. Enfin, compte tenu du peu de monde qui l'a et des rave party et autres soirées où tout le monde laisse faire, je la désinstalle. Marre que ça soit toujours les mêmes qui fassent des efforts !<br> :date: __2021-01-02 20:09:07__
 
-> Bug<br> :date: __2020-12-28 01:12:47__
+> Dommage qu'il faut relancer l'appli au démarrage du mobile alors qu'on ne la désactive pas avant extinction. En plus on a une notification active alors qu'elle ne l'est pas. Graves défauts qui donnent envie de désinstaller s'ils ne sont pas corrigés rapidement.<br> :date: __2021-01-02 18:36:24__
 
-> Super application du gouvernement pour espionner les gens car lappli peux accéder a la caméra alors quelle en pas besoin et nous localiser<br> :date: __2020-12-28 00:28:03__
+> NUL<br> :date: __2021-01-02 18:30:15__
 
-> Je le désinstalle car il est lourd en notifications.<br> :date: __2020-12-27 23:16:09__
+> Ou trouver le fameux code en cas de Covid ? Rien ni du côté du labo, médecin, CPAM ou ars. Ça risque d'être encore moins efficace. J'ai posé la question sur ce fameux code au service de l'application, deux réponses en deux mails et bien sûre contradictoires... J'ai posé la question au labo qui a fait le test, comme réponse : 'ah ben oui, je sais que ça ne fonctionne pas au niveau des labo''... De qui se fout on ?<br> :date: __2021-01-02 18:14:39__
 
-> J'ai installé puis désinstallé l'application le 30 nov car j'avais des déconnections à chaque fois que je la mettais en route. Je viens de la reinstaller, pensant que quelqu'un s'était occupé de ce pb très frequemment signalé. Toujours pareil....<br> :date: __2020-12-27 22:34:14__
+> Aucun intérêt d'avoir le nombre quotidien de cas positifs... Et je me fous aussi du nombre de cas en réa... Rien que pour cela, je désinstalle !<br> :date: __2021-01-02 17:17:00__
 
 

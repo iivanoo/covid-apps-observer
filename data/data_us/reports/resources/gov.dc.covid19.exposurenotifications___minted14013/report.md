@@ -191,6 +191,8 @@ No recent reviews available with 3 stars.
 <img src="1_star_reviews_wordcloud.png" alt="gov.dc.covid19.exposurenotifications 1 reviews"/>
 </p>
 
+> App does nothing except bug me when location is off. As soon as I turn location on app says no cases. What's the point?<br> :date: __2021-01-03 02:27:46__
+
 > Screw you. Screw you. Screw you.<br> :date: __2020-12-21 04:12:29__
 
 > Don't understand why it needs to enable my Bluetooth. I'm not leaving my Bluetooth on. Not happening. I'm not worried about the PLANdemic / SCAMdemic.<br> :date: __2020-11-17 03:16:53__

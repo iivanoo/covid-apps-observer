@@ -1,15 +1,39 @@
 [
     {
+        "reviewId": "gp:AOqpTOF2n5W8T3yxccLQeVuOpha5Z2ZrQsiv8ZSJoa_qUYO8PltjT6AFhO88MxMlx1iri6pBblg_hMz-1KFOsw",
+        "userName": "Jefferson Davis",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhKTGN6JTmu87hcfzttD1o056IFjuKhocfo_YgTXOk",
+        "content": "It would not work on my phone. But then I got a new, better phone where it works fine.",
+        "score": 5,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "4.0",
+        "at": "2021-01-02 06:04:30",
+        "replyContent": "Hi Jefferson, we've worked hard on the latest build of the myColorado app and our team has addressed the issues related to scanning barcodes. If you would, please update the app and try it again at your convenience. If you still experience issues, please email us at mycolorado@state.co.us.",
+        "repliedAt": "2019-12-04 21:49:11"
+    },
+    {
+        "reviewId": "gp:AOqpTOFB5wsWGEsDBYyKf_rf7E3f3EiKPDBlZhCIp0EB3rz2k2JlI_00cgME51nUVVy-x4F8QHNB3bZRyrmC2g",
+        "userName": "Lee Roberts",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhZFit1zSuZideJQHSA3-2ROJ9QrVI6-jXHR7IJ3Q",
+        "content": "Easy to use",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.0",
+        "at": "2020-12-29 18:47:12",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOG8ezaEZWuY1SGPHQwXW0hUNVnI_D1wUk_JPnwFVPFtYvm2Qfn6nrMDduJd0hWBmtNn3ThI-8KTDqn9bw",
         "userName": "dakota ramcharansingh",
         "userImage": "https://play-lh.googleusercontent.com/-X_f_0IJtOtI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmMBENgqGyvHegvX0Xshf3DdBkWhg/photo.jpg",
         "content": "This app is ridiculous. I keep installing it over and over and over and over again and restarting my phone over and over and over and over again and everytime I try to scan my ID the app crashes. This is beyond frustrating I don't see why I can't just physically enter in my information this is so stupid.",
         "score": 1,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "4.0",
         "at": "2020-12-24 00:50:17",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Dakota, please contact our support team at myColorado@state.co.us and they will help you troubleshoot.",
+        "repliedAt": "2020-12-29 18:59:27"
     },
     {
         "reviewId": "gp:AOqpTOGInOKiEnveskL5jmbf6wO5QfsuAi6_CGPespOMwuZ3OVIF1G30BNmc1qxdwi6z7phuMfgUC6xeG-qNGg",
@@ -20,20 +44,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2020-12-23 06:08:34",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOEuyLVN2cDwPSfbOiw57Q5PwES6YU2qudGBczyrNTqFUr3trrXWPjLoOGr3TLZIPuRlPRuj_DRw_djcWA",
-        "userName": "Frozenrocketfuel studios",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhvNDPSor1Z12nV3Y2-T8QJtpwqGbM4akpX09MWvQ",
-        "content": "Not bad, the only thing I have against it is that you can't update your phone number or email I put it in wrong number and now there is no way to change it",
-        "score": 3,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "4.0",
-        "at": "2020-12-22 02:32:42",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Jeff, Please contact our support team at myColorado@state.co.us and they will help you troubleshoot.",
+        "repliedAt": "2020-12-29 18:59:51"
     },
     {
         "reviewId": "gp:AOqpTOGXhaRT3srObtzzIOABoVRVtEIwAiAKiz8zqNEDDYtgiu5GrGtCpsfNl99JjCJ_x3ZULPZQ-ksk6INJQw",
@@ -44,8 +56,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.0",
         "at": "2020-12-21 16:14:02",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi JJ, thank you for the 5-star review!",
+        "repliedAt": "2020-12-29 19:02:22"
     },
     {
         "reviewId": "gp:AOqpTOHXJz2gPtWYMrq-lRwyEMQRmO_ehmxqY6LBPA_Mo4Dcdq1wD__idLfmsdY0KnGvo-7ia1mEjFJ9ID57vg",
@@ -56,8 +68,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "3.5",
         "at": "2020-12-21 09:32:36",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Kyaunte, please contact our support team at myColorado@state.co.us and they will help you troubleshoot this issue.",
+        "repliedAt": "2020-12-29 19:02:29"
     },
     {
         "reviewId": "gp:AOqpTOGyiN7Yr282LzmUkPc65RIXQKt3JtbfimGGhNwHxMnAZOD9gvKzAb_STS8rEVYIjTROmvAsJbbL-nvylA",
@@ -68,8 +80,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.0",
         "at": "2020-12-20 15:54:45",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Melanie, we are sorry to hear about the trouble you are having. Please contact our support team at myColorado@state.co.us and they will help troubleshoot.",
+        "repliedAt": "2020-12-29 19:02:41"
     },
     {
         "reviewId": "gp:AOqpTOHNlKo3b18tPvMFNMZJn6oDROy2ovPxuXSYiqJWucSaYjD3_t7N-CTFfwwoaNIf00CbQVhSCYZcjQupQA",
@@ -80,8 +92,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.0",
         "at": "2020-12-20 00:00:25",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Chris, thank you for the 5-star review!",
+        "repliedAt": "2020-12-29 19:02:46"
     },
     {
         "reviewId": "gp:AOqpTOHQ2iFFTfpUYWd0DPR18uIBtpEAAuSMkQHmnnAMKda_AZ8ReSufTC7B15edxktJ9fqJKTwHABqr9qvjKw",
@@ -92,8 +104,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.0",
         "at": "2020-12-19 18:35:15",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Britton, thank you for the 5-star review!",
+        "repliedAt": "2020-12-29 19:02:54"
     },
     {
         "reviewId": "gp:AOqpTOE2T9ARj1bqI1mKXO9my1xJX33QN3sL3DljJacoH54o3Jvx-b-S7jg5sHPkN8wiQlk7yJWB09_UDl7-ng",
@@ -104,8 +116,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.0",
         "at": "2020-12-18 01:09:35",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Robert, thank you for your positive review! We can't wait to release further updates with more features.",
+        "repliedAt": "2020-12-29 19:03:00"
     },
     {
         "reviewId": "gp:AOqpTOEsO46goEGVzso8-eDrPMrbxXQ2jvFeTGgQ74WqIuxXhjKaPeAzceHZgPAyUuw-Wpjv6oYTlVpiO0g5ig",
@@ -116,8 +128,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.0",
         "at": "2020-12-16 23:20:43",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Chad, thank you for the positive feedback. We, too, look forward to everyone using and accepting the Digital ID!",
+        "repliedAt": "2020-12-29 19:03:11"
     },
     {
         "reviewId": "gp:AOqpTOExY0wskV2jVbxinLzyx2MskQtDdDT4qzh7vZ26ipoGMqvDcPLjkuwFYApGiXrHeZdm5ZvCyPnY-AZNqA",
@@ -128,8 +140,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.0",
         "at": "2020-12-16 22:39:27",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Frank, thank you for the 5-star review!",
+        "repliedAt": "2020-12-29 19:03:24"
     },
     {
         "reviewId": "gp:AOqpTOHjrAb4jyvKJqH3NGmFZ5g81CFSecduBDVA8cZk9khjcqPr0CTiZ3LEp-8sW32uuNj6LBj8J1GBBn0Znw",
@@ -140,8 +152,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.0",
         "at": "2020-12-15 22:28:10",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi, we're sorry to hear you are having trouble creating an account using your temporary paper ID. If you contact our support team at myColorado@state.co.us they will be able to walk you through the scanning process.",
+        "repliedAt": "2020-12-29 19:03:35"
     },
     {
         "reviewId": "gp:AOqpTOFwTSEW0hhS7vZk9JCYDxbu9L7o-xsCznjPBpSntv8mFVoKqVDD3vrEkoqeHGrkNM2ImZJCsz4Z8VsE1Q",
@@ -152,8 +164,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.0",
         "at": "2020-12-15 06:08:30",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Garen, you'll no longer lose your ID, just don't forget your phone. :-)",
+        "repliedAt": "2020-12-29 19:03:45"
     },
     {
         "reviewId": "gp:AOqpTOFew1IIkpa7dZgw91XYBAo-2s61p6PBdLgJnW44qjALvLNm_cA6UqOIFfh4DmMd75SeEKqwt7hQ-b09pA",
@@ -182,7 +194,7 @@
     {
         "reviewId": "gp:AOqpTOEj8GQbtXIe5hKfo5mKwKRjOZO55ngrkOICd-8KdlRqV4P5JM-qIp-ykeLHkOG2isOaXGBlwWdGRY5hCw",
         "userName": "Kim Briggs",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgXaajay4pYg8z2uux75v7tefG_4xu8eLyM0_gleg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjHKZ7nLT6kUvWupykJB_ZT6wOnXdq3h5x6ghel5A",
         "content": "It's better than the physical ID. The clarity is amazing!",
         "score": 5,
         "thumbsUpCount": 0,
@@ -2378,7 +2390,7 @@
     {
         "reviewId": "gp:AOqpTOGNzm-X_PxbsnWyF-mI1q-xRUo9OmHfz4E5-Gw7IbxBxPnD_TL4S6trG8f35aB4RdvaHmbuOm-1pkMCUQ",
         "userName": "Diane B",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhS-lMDXJyRXu2YgX3H-F2EXPEWkfQMkaoC90Ffjg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh_iLDq2gg6rCOnjmfSQU9HugCXw9DBhUNRZNokSA",
         "content": "Dosnt work! Like the state",
         "score": 1,
         "thumbsUpCount": 0,
@@ -3034,18 +3046,6 @@
         "at": "2019-11-01 04:48:06",
         "replyContent": "Hello Larry, thanks for your feedback. Our developers have addressed many bugs since the app was first released. We've pushed an update that should address this issue. Please update the app and try it again at your convenience. If you still experience issues, please email us at mycolorado@state.co.us.",
         "repliedAt": "2019-12-04 21:51:12"
-    },
-    {
-        "reviewId": "gp:AOqpTOF2n5W8T3yxccLQeVuOpha5Z2ZrQsiv8ZSJoa_qUYO8PltjT6AFhO88MxMlx1iri6pBblg_hMz-1KFOsw",
-        "userName": "Jefferson Davis",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhKTGN6JTmu87hcfzttD1o056IFjuKhocfo_YgTXOk",
-        "content": "It would not work on my phone. To clarify, it will not read the bar code on the back of the license.",
-        "score": 1,
-        "thumbsUpCount": 1,
-        "reviewCreatedVersion": "1.8",
-        "at": "2019-11-01 04:36:45",
-        "replyContent": "Hi Jefferson, we've worked hard on the latest build of the myColorado app and our team has addressed the issues related to scanning barcodes. If you would, please update the app and try it again at your convenience. If you still experience issues, please email us at mycolorado@state.co.us.",
-        "repliedAt": "2019-12-04 21:49:11"
     },
     {
         "reviewId": "gp:AOqpTOF93t61VraN8qYUxqyhs8tcL1TsRbYvAsbJQZW2dYYWO1R5bPbNRCJFWiiXwCasM5Q10h4mgOZ7jdxb5g",

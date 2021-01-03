@@ -138,6 +138,8 @@ The WHO Info app has been installed by more than **100000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="org.who.infoapp 5 reviews"/>
 </p>
 
+> Sehr gute App, viele wissenschaftlich fundierte Informationen und internationale Übersichten. Eine gute Ergänzung zu nationalen Informationen, z. B. des RKI.<br> :date: __2020-12-29 19:48:39__
+
 > Winkelnkemper Hildegard<br> :date: __2020-11-07 06:59:07__
 
 > Perfekt für Informationen<br> :date: __2020-10-12 12:50:14__

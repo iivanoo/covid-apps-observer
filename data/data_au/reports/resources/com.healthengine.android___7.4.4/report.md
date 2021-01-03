@@ -172,25 +172,25 @@ The HealthEngine app has been installed by more than **500000** times. At this t
 <img src="5_star_reviews_wordcloud.png" alt="com.healthengine.android 5 reviews"/>
 </p>
 
-> I needed to book an appointment after a public holiday.<br> :date: __2020-12-28 05:52:07__
+> Easy to follow<br> :date: __2021-01-03 11:00:57__
 
-> Easy to use and staff manage app well<br> :date: __2020-12-28 04:32:51__
+> I have had no problems with the app<br> :date: __2021-01-03 10:52:10__
 
-> Great app easy way to book Ur appointment with a fantastic staff and amazing staff of dr's<br> :date: __2020-12-28 04:30:48__
+> Makes everything easy! Super helpful app!<br> :date: __2021-01-03 06:29:10__
 
-> Easy and simple and quick way to make an appointment<br> :date: __2020-12-28 02:18:29__
+> Easy to use and convenient<br> :date: __2021-01-03 06:02:27__
 
-> Easy to use and always gets it right<br> :date: __2020-12-27 22:32:32__
+> Easy to access and book appointments when it suits me<br> :date: __2021-01-02 08:07:48__
 
-> Very good app.<br> :date: __2020-12-27 07:31:11__
+> Always quick and easy.<br> :date: __2021-01-02 05:40:22__
 
-> Brilliant doctors and staff who will go out of their way to help in any way they can. Above and beyond 🙂 Kim Lindsay<br> :date: __2020-12-27 02:47:39__
+> Easy App to use makes it so simple to book a Doctor's appointment on line.<br> :date: __2020-12-31 00:11:26__
 
-> Great for keeping appointments organized, especially with on going medical conditions<br> :date: __2020-12-26 22:40:26__
+> Very convenient.<br> :date: __2020-12-30 13:06:23__
 
-> Excellent App..<br> :date: __2020-12-26 03:20:48__
+> Great app, easy to use and time to decide day and time you want.<br> :date: __2020-12-30 00:25:02__
 
-> Very easy to use. No fumbled stories.<br> :date: __2020-12-26 02:59:46__
+> Great doctors. Friendly staff.<br> :date: __2020-12-29 23:48:58__
 
 
 
@@ -199,6 +199,8 @@ The HealthEngine app has been installed by more than **500000** times. At this t
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.healthengine.android 4 reviews"/>
 </p>
+
+> Quick & Easy to use. No more long waits to book or to see the doctor. I usually book the night before & see the medical practitioner the following morning!! Not often do U get such availability these days but with Health Engine, all available appointments are displayed for your convenience. Love it!!<br> :date: __2020-12-30 22:35:43__
 
 > Travised through each section ok<br> :date: __2020-12-28 07:18:01__
 
@@ -217,8 +219,6 @@ The HealthEngine app has been installed by more than **500000** times. At this t
 > Easy navigation<br> :date: __2020-12-14 12:26:34__
 
 > As I am a beginner with this type of bookings, but pretty good. Not sure about canceling appts when you have plenty of time to do it.<br> :date: __2020-12-11 01:10:25__
-
-> Happy everytime I use it so far<br> :date: __2020-12-08 16:09:17__
 
 
 

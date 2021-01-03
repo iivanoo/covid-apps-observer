@@ -194,6 +194,8 @@ The GoodSAM Responder app has been installed by more than **100000** times. At t
 <img src="4_star_reviews_wordcloud.png" alt="com.goodsam.responder 4 reviews"/>
 </p>
 
+> Swift reply<br> :date: __2020-12-30 22:08:38__
+
 > As others have reported since last week I have not been receiving the sound alerts and the app is now version 12.5 - I can choose the sound on the"me" page but even the simulated alert doesn't produce a sound. I have missed several alerts including a patient transport. I now have tested the push notification and this worked, so will wait to see what happens when I get a real alert. Thanks for the quick response.<br> :date: __2020-12-27 12:30:16__
 
 > Good support, very worthwhile and satisfying role in the community.<br> :date: __2020-12-27 00:45:31__
@@ -212,8 +214,6 @@ The GoodSAM Responder app has been installed by more than **100000** times. At t
 
 > Seems to work fine, gives plenty of information. Has been disappointing the number of requests that have come through though. Maybe it is a good thing and very few locals need support during the Pandemic.<br> :date: __2020-07-01 14:54:44__
 
-> Up until yesterday it worked fine but now I can only get my initial screen with photo. I can't get page with on/off options (on duty / receive alerts etc)<br> :date: __2020-06-19 11:26:09__
-
 
 
 #### 3-star reviews
@@ -221,6 +221,8 @@ The GoodSAM Responder app has been installed by more than **100000** times. At t
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="com.goodsam.responder 3 reviews"/>
 </p>
+
+> UPDATE! Since couple of bug fixes - slightly improved, but my 'On Duty Hours' only increase when marked "off duty" on the toggles. Still unable to load AED's.<br> :date: __2020-12-31 12:02:28__
 
 > I am missing calls because there is no sound alert !!!<br> :date: __2020-12-26 17:32:36__
 
@@ -240,8 +242,6 @@ The GoodSAM Responder app has been installed by more than **100000** times. At t
 
 > The app is ok however this Sunday I received 6 requests in quick succession. All bar one needed no help, and most requests I get end up being no help needed. My main criticism of the app is that once an alert comes in it sets my notification volume to max. I don't want or need to be notified each time normal messages come in which is why it is set to mute. Please can you make sure the app doesn't change my notification settings<br> :date: __2020-10-09 21:17:20__
 
-> I am getting alerts but am unable to accept or reject them, have reinstalled app as advised by volunteer helpline & this has made no difference.<br> :date: __2020-10-02 15:18:13__
-
 
 
 #### 2-star reviews
@@ -249,6 +249,14 @@ The GoodSAM Responder app has been installed by more than **100000** times. At t
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="com.goodsam.responder 2 reviews"/>
 </p>
+
+> Location update not working in the background (Android 11, Samsung S20), always getting alerts for emergencies 25mi away. It seems Android 11 isn't allowing an app anymore to ask for permanent background location permissions at point of installation. You have to go in the android apps settings and activate it manually.<br> :date: __2021-01-03 10:50:40__
+
+> STILL UNABLE, to upload photos of new AEDs locations to the GoodSAM app this is after installing the latest version available. When trying to use a photo taken with a google pixel phone with all location accesses switch on, the GoodSAM app still says to use a picture with location services switched on. In the past, I've replied via email to yourselves about this issue, uploaded bug reports sent pictures and still awaiting your reply. The GoodSAM app still won't sync up with android auto.<br> :date: __2021-01-01 15:38:33__
+
+> I haven't had contact for over s week and when i go into app says wrong email address !also no siren before that and missed several requests. Not contacted very often. Sometimes people dont need any help.<br> :date: __2020-12-30 19:12:30__
+
+> When I access the map it get stuck and no response on the screen so can't escape. I have to uninstall and reinstall. This is on the samsung A40<br> :date: __2020-12-29 14:54:52__
 
 > I have the same problem as previous reviewer ie no sound on Goodsam notifications. I've gone to the website and sent myself a push notification. I now get the standard Samsung notification sound rather than the very distinctive Goodsam loud SIREN. How do I get back to the siren?<br> :date: __2020-12-23 13:08:55__
 
@@ -258,17 +266,9 @@ The GoodSAM Responder app has been installed by more than **100000** times. At t
 
 > My app ppears that it doesn't work I havent had any alerts, and I can't change my organisation<br> :date: __2020-11-25 21:44:29__
 
-> Still unable to upload photos of new AEDs locations to the GoodSAM app. I've replied via email and awaiting your reply.<br> :date: __2020-11-20 23:07:53__
-
-> Not contacted very often. Sometimes people dont need any help.<br> :date: __2020-11-19 09:37:32__
-
 > The alerts work for a few weeks then the siren stop and I'm not notified of an alert. It just says in comma you missed an alert. So frustrating.<br> :date: __2020-11-18 11:27:38__
 
 > Very poor for something so important. Clumsy, bad layout, adding an AED is broken. Come on, this app is IMPORTANT. Sort it out. (Reply to developer - Yes I have checked both of those settings and it still doesn't work. No reply to 4 emails requesting help either)<br> :date: __2020-11-17 19:39:03__
-
-> Only just come back to the app...but now i know why I deleted it! The siren is just too loud! I have to have my phone on silent now to stop it going off. I can understand why it was there during the apps initial use, for first responders calling to medical emergencies, but check in and chats or collecting groceries and prescriptions are hardly medical emergencies that need to be completed that precise minute. I cannot have my phone on silent constantly, so think I will have to delete it again...<br> :date: __2020-11-10 10:38:35__
-
-> Goodsam can u explain as to WHY today their was a serious cardiac arrest which happened litrally 2mins from where i live....why wasnt the alarm raised and i could of potentially saved this old gents life,but because nobody knew were the nearest defibrillator was,by time ambulance etc got to him he had passed away...This absolutely breaks my heart because i could of saved this gent potential, but was not alerted.....its a disgrace really is....<br> :date: __2020-11-04 00:24:36__
 
 
 
@@ -278,24 +278,24 @@ The GoodSAM Responder app has been installed by more than **100000** times. At t
 <img src="1_star_reviews_wordcloud.png" alt="com.goodsam.responder 1 reviews"/>
 </p>
 
-> The siren alert no longer works meaning I have missed several requests. Please fix this ASAP!<br> :date: __2020-12-27 16:18:36__
+> Lack of clear instructions for new users. Lack of clarity as to what to do when alerted. No facility to indicate failure to contact helpee. Ear splitting siren alert. Responder photo spuriously rotated by 90 degrees. Poor graphics on responder der map - much too large. Code of conduct is incorrect for repurposed usage of the app and assumes physical attendance - also requires acknowledgement to a statement I cannot comply with to use app.<br> :date: __2021-01-03 11:37:38__
+
+> Absolute rubbish! Can't even register it keeps saying an email has been sent when I didn't even put my email address in anywhere and there is nothing in my emails including my spam, so I deleted the app and re installed it, tried again with an email address this time and it says you already have an account and to go to email to accept. But there is NO EMAIL! So frustrating!<br> :date: __2021-01-01 20:11:44__
+
+> So complicated and unnecessary to use<br> :date: __2020-12-30 14:24:01__
+
+> Signed up for volunteering i get a notification for help when I click on accept the app goes blurry in the background and the connection just swirls and freezes ive checked permissions and location permissions in settings they are all on.Ive got a Samsung s10 the app works on my sons phone which is the s8 dont understand why its not working on my phone.<br> :date: __2020-12-29 18:06:21__
+
+> I am still not getting audio alerts on my app, which is essentail for what I use it for<br> :date: __2020-12-29 00:45:00__
+
+> 2701 hours on duty and not a single request<br> :date: __2020-12-28 22:50:16__
+
+> I previously commented that the siren alert no longer worked meaning I had missed several requests. The sound now works when I change the notification sound but still doesn't go off when I simulate an alert. Still a 1 star review until this basic function is fixed.<br> :date: __2020-12-28 18:25:42__
 
 > The app needs to be more accurate, location tech needs updating and also needs some other updates and upgrades, it isn't showing i have a defib when I have uploaded it numerous times and it has been accepted on both apps please fix immediately/asap<br> :date: __2020-12-27 01:13:08__
 
 > Since it updated I have missed two calls because it no longer rings but just dings. The siren was much easier to catch. May have to stop being a volunteer if I can't catch the calls in time.<br> :date: __2020-12-25 19:24:13__
 
 > Worked fine for quite some time and yet now, no requests are coming through and nobody knows why. Have reinstalled etc but no joy. Constantly failing, and no reasoning for it, have emailed you but no response, so I can't help people who need support.<br> :date: __2020-12-17 19:46:06__
-
-> All this good will from the public is thrown away by an app that is next to useless. When alerted people have no idea why I'm phoning, their data doesn't match up with the message and the message is often hours/days old although the alarm has just sounded. What a waste of people's willingness to help in this crisis.<br> :date: __2020-12-11 11:52:18__
-
-> Bug in google play. Services<br> :date: __2020-12-08 19:41:19__
-
-> I can't believe you can't adjust the volume on that siren, deleting it.<br> :date: __2020-11-23 01:04:08__
-
-> I have received many alerts but was able to respind to only one as the alarm no longer works on my phone, although it does if I simulate it.<br> :date: __2020-11-22 10:58:20__
-
-> I'm afraid I won't be using the app. The siren is, as the previous reviewer stated, ear splitting. I'll volunteer through a local organisation.<br> :date: __2020-11-19 00:30:41__
-
-> Opens to register but thats as far as it goes, fill in my details and hit register and nothing happens, the little wheel just goes round and round<br> :date: __2020-11-01 19:45:27__
 
 

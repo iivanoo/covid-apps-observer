@@ -169,6 +169,8 @@ No recent reviews available with 4 stars.
 <img src="2_star_reviews_wordcloud.png" alt="edu.yale.fas.hunala 2 reviews"/>
 </p>
 
+> No data for my area.<br> :date: __2020-12-29 21:39:47__
+
 > Sorry, a fail out of the gate: I enter my phone; they send a text; I switch to my SMS app to get the code; I switch back to Hunala. It restarts the app and asks for my phone Basic Android event-flow<br> :date: __2020-11-27 19:57:06__
 
 > Very cool idea, but when I enter my phone number (doube and triple checked), no code is sent and I'm left without access to the app<br> :date: __2020-08-15 14:53:31__

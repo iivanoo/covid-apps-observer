@@ -150,25 +150,25 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="org.madrid.CoronaMadrid 5 reviews"/>
 </p>
 
+> Buena app, funciona muy bien en mi teefono celular. Tienen mis 5 estrellas🙌.<br> :date: __2021-01-01 14:12:52__
+
+> Excellent application por covid 19<br> :date: __2020-12-31 12:22:23__
+
+> La verdad es que aplicaciones como esta ayudan a estar más tranquilos. Recomiendo instalarla, a mí me funciona bastante bien.<br> :date: __2020-12-29 16:42:00__
+
+> Excelente App ideal para ser usado en estos tiempos que corren. Explica muy bien sobre los síntomas del Covid, app muy útil para prevenir y conocer que hacer.<br> :date: __2020-12-28 22:56:14__
+
+> Muy buena aplicación para los tiempos que corren<br> :date: __2020-12-28 15:27:03__
+
+> Esta app es bastante útil e interesante, tanto como necesaria en estos momentos!<br> :date: __2020-12-28 15:26:32__
+
+> Muchas gracias por la app me ha resultado muy útil<br> :date: __2020-12-28 15:17:33__
+
+> Muy buena aplicación, y sirve de mucho en esta situación que andamos de tanto miedo.<br> :date: __2020-12-28 15:17:13__
+
 > Me parece estraordinaria hé indispensable<br> :date: __2020-11-21 12:12:15__
 
 > Los hospitales de Madrid son de los mejores de Europa.<br> :date: __2020-09-19 13:38:38__
-
-> Me gustaria hacerme la prueba<br> :date: __2020-08-28 20:39:45__
-
-> Yo no sé que están valorando aquí porque no es verdad que no puedas cerrar sesión o que no puedas meter fechas o que no puedas localizar centro sanitarios,totalmente falso parece una campaña para fastidiar la app y a los desarrolladores. Toda va perfecto y cada 12 horas puedes volver a evaluar tu salud. Además las recomendaciones son muy buenas respecto al covid-19. App excelente,rápida y facilísima. Gracias<br> :date: __2020-08-27 09:58:52__
-
-> 5-star para opinar otra copia más Arriba los impuestos saludos suerte cultura y gracias<br> :date: __2020-08-25 15:59:03__
-
-> Me la acabo de instalar<br> :date: __2020-08-10 11:40:23__
-
-> Aún no le he usado, pero parece efectiva.<br> :date: __2020-08-08 18:45:23__
-
-> Muy controlado<br> :date: __2020-07-24 00:04:41__
-
-> Sencilla de utilizar y muy útil<br> :date: __2020-07-13 15:36:55__
-
-> Te indica fácilmente si puedes tener coronavirus<br> :date: __2020-07-13 15:31:42__
 
 
 

@@ -191,6 +191,8 @@ The CONFINAPP app has been installed by more than **10000** times. At this time,
 <img src="1_star_reviews_wordcloud.png" alt="cat.gencat.mobi.confinApp 1 reviews"/>
 </p>
 
+> Pongo la fecha en la cual me voy a desplazar , y me sale en el documento la fecha actual.<br> :date: __2020-12-29 20:30:43__
+
 > No funciona...<br> :date: __2020-12-26 17:46:23__
 
 > No és obligatori, ni surt al DOGC ni enlloc.<br> :date: __2020-12-23 16:14:06__
@@ -208,7 +210,5 @@ The CONFINAPP app has been installed by more than **10000** times. At this time,
 > SI TENSUMBAEL OIDO TESCUCHA LA NASA..<br> :date: __2020-11-05 22:51:22__
 
 > No puedo verla en español<br> :date: __2020-11-03 09:08:33__
-
-> Finciona solo una vez, mala.aplicacion<br> :date: __2020-11-02 09:43:42__
 
 

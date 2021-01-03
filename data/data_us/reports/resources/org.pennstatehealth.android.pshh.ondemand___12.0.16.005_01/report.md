@@ -202,6 +202,10 @@ The Penn State Health OnDemand app has been installed by more than **10000** tim
 <img src="5_star_reviews_wordcloud.png" alt="org.pennstatehealth.android.pshh.ondemand 5 reviews"/>
 </p>
 
+> Every one was patient with me setting up for my video visit. Thank you<br> :date: __2020-12-30 14:26:29__
+
+> Lots of good info.<br> :date: __2020-12-29 16:25:20__
+
 > Very good and informative visit.<br> :date: __2020-12-21 19:51:35__
 
 > minimal wait time. M.D. was very personable and knowledgeable. saved time of sitting in urgent care center.I would definitely recommend 12/18/20 Had the need to see someone without disrupting my day. Once again, very positive experience. Knowledgeable, personable, thorough. I definitely recommend<br> :date: __2020-12-18 13:25:27__
@@ -217,10 +221,6 @@ The Penn State Health OnDemand app has been installed by more than **10000** tim
 > Good<br> :date: __2020-12-15 14:15:03__
 
 > Great and easy<br> :date: __2020-12-14 14:44:22__
-
-> Extremely easy to use<br> :date: __2020-12-10 16:32:41__
-
-> Excellent<br> :date: __2020-12-09 17:49:14__
 
 
 

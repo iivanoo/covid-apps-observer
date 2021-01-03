@@ -1,5 +1,29 @@
 [
     {
+        "reviewId": "gp:AOqpTOFl_PJt0KF--LRjmrdUL_9cd_Q4SyUKA9IYDhY1h2WC_iNuaZBWR9DRJ4FHJV9Y_KQlrxg9N-tG4f9gQSY",
+        "userName": "Rene Menjivar",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GixWE5z5PUxjZKZd3R7qQzY4rbbsMMWo_3wJEu2rA",
+        "content": "The video chat option is great for last minute visits for non-urgent medical issues. One Medical has been my provider for nearly a decade and I've been very happy with my medical needs, both preventative and reactive.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.16.13",
+        "at": "2021-01-02 19:18:24",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOE8-Gwq71T_Og_o0dq4mpZ6qEuMeEtRtatIZsfZNq7xvJhC-n--Sb7bkZCHdcSM80D6ozk6vnuwz2aOGBQ",
+        "userName": "Judy Wise",
+        "userImage": "https://play-lh.googleusercontent.com/-3Nk7zL0e45c/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckxKLGnJkA14AXgwny3Csi24xrBuw/photo.jpg",
+        "content": "I had a covid test a week ago and still no results. And I can't get anyone to answer what is going on. The lack of information is frustrating and makes me question my membership.",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.16.13",
+        "at": "2020-12-28 21:54:01",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOEokdTEf3gO0USg50WKVJQ32_b6PFIgWWmSWzJPxxxkcxLu37WjFjem6GDlpukHAm1PfwLZqsUTrhXqMMQ",
         "userName": "Steve Petterborg",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gjmmc6kE9kg1qFS4koMSL3xhiAYZZD2kj3Lj-YPRA",
@@ -782,7 +806,7 @@
     {
         "reviewId": "gp:AOqpTOEmSpsxFiYV03aQqgzGUfx_hULB8AOsMmC_MtxpqMLh9lmaFLKXQEhomS-2Lpr_ayn3AFzqTvwqLHeXlAc",
         "userName": "John Dorstewitz",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi0HL1X1YNcL9Aj03w8TyrmfPzrhhuF4Kz_Jg7cTA",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhFBhNKzeZ16FqXzFSRRrUDcwF0-GNqrOusy5S83g",
         "content": "Excellent service very friendly people and knowledge",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1310,7 +1334,7 @@
     {
         "reviewId": "gp:AOqpTOE2LAJnkxaUFFDVZC8XiXVqvFvNbFHw3CpW5vlCXuFMOojlWJR6r57f4UgJzHF_VZHvl641R00advT3XI8",
         "userName": "Melody de Castro",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgkaZqcQgay_0w2XX7zVk6OUWQkSgeFDl7QneX6RAY",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgEf2FftC97H9jZp6ZLIEj6T33lCRuOp1Umbscm_u4",
         "content": "Informative, friendly and efficient. Contacting a medical professional on this app was less than one minute.",
         "score": 5,
         "thumbsUpCount": 3,

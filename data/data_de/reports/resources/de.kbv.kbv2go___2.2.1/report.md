@@ -192,6 +192,8 @@ nützlich und sehr informationreich! Habt vielen dank. Herzliche Grüße Achim!<
 <img src="3_star_reviews_wordcloud.png" alt="de.kbv.kbv2go 3 reviews"/>
 </p>
 
+> Der neue Heilmittelkatalog ist nicht zu finden. Die neuen ICD für covid 19 sind auch noch nicht aktualisiert.<br> :date: __2021-01-03 12:19:34__
+
 > Der angekündigte Heilmittelkatalog ist nicht verfügbar, oder so explizit versteckt dass man ihn nicht nutzen kann.<br> :date: __2020-12-11 10:04:36__
 
 > PDFs ließen sich auf Samsung Galaxy S8 kurzzeitig wieder öffnen. Jetzt klappt es auch nach Neuinstallation wieder nicht. Sehr frustrierend, wenn man wichtige Zusatzinfos einfach nicht öffnen oder downloaden kann.<br> :date: __2020-04-14 19:03:51__
@@ -225,6 +227,10 @@ nützlich und sehr informationreich! Habt vielen dank. Herzliche Grüße Achim!<
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="de.kbv.kbv2go 1 reviews"/>
 </p>
+
+> Kein Heilmittelkatalog zu finden. Traurig!<br> :date: __2021-01-03 16:11:53__
+
+> Kein Heilmittelkatalog zu finden,obwohl zu 2021 angekündigt von KBV.<br> :date: __2021-01-02 11:45:04__
 
 > Schrott kann kein Notdienst suchen was soll ich damit 0Sterne<br> :date: __2020-04-04 08:55:38__
 

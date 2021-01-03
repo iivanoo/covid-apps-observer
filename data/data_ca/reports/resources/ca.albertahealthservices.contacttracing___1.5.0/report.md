@@ -145,6 +145,10 @@ The ABTraceTogether app has been installed by more than **100000** times. At thi
 <img src="5_star_reviews_wordcloud.png" alt="ca.albertahealthservices.contacttracing 5 reviews"/>
 </p>
 
+> I believe in anything created by our saviour Jason "the king" Kenny. May this app save Alberta from economic ruin.<br> :date: __2021-01-01 07:29:58__
+
+> 2nd Review: No problem with battery, 5 days 19 hrs used 9.2%. Minimal to assist Contact Tracing! Sept 4/20: My phone is 3 1/2, in a 12 hr period the battery usage was only 0.7%. My only complaint is that it shows an icon in my status bar regardless if Bluetooth is on or off. I would prefer that the icon only shows when Bluetooth is off. Until we get the National app here at least it's one thing I can do. Who knows when we'll get the National one!?! Hopefully sooner than later!<br> :date: __2020-12-29 22:50:28__
+
 > It tells you where the cases are<br> :date: __2020-12-22 18:04:21__
 
 > Best<br> :date: __2020-12-16 01:39:39__
@@ -160,10 +164,6 @@ The ABTraceTogether app has been installed by more than **100000** times. At thi
 > Stay safe and stay home Wear mask<br> :date: __2020-11-16 04:15:40__
 
 > EDIT: *NO LONGER A BATTERY DRAINER* It seems something was updated. Version 1.4 Get back to work, 'Berta. (Previous Review: Battery drainer. The only way to reasonably use the app is to turn it on around others. Otherwise, not a "set it, forget it" solution. The overall function of the app is clearly explained, and is fine to use when needed. No crashes, flawless app persistence.)<br> :date: __2020-11-13 00:17:06__
-
-> Sometimes it eats battery. Not sure why. Otherwise just sits there<br> :date: __2020-11-12 08:20:45__
-
-> Flawless installation and just works away in the background consuming very little battery. Every Albertan should be installing this app.<br> :date: __2020-11-09 01:25:41__
 
 
 
@@ -229,6 +229,10 @@ The ABTraceTogether app has been installed by more than **100000** times. At thi
 <img src="2_star_reviews_wordcloud.png" alt="ca.albertahealthservices.contacttracing 2 reviews"/>
 </p>
 
+> Idea is great, but for many weeks I used this app whenever I went out, and nothing was happening. Wasn't sure what was going on, maybe I was just safe. Then I found out, that in fact, there was actually nothing going on, this app wasn't working, and did nothing for a long time after its release. For an app that some people trust with their lives, literally, it sure sucks.<br> :date: __2021-01-03 15:22:50__
+
+> The app keeps asking me to restart my phone. I have done so at least five times now. That notification is very annoying.<br> :date: __2020-12-28 21:48:46__
+
 > Ok not great<br> :date: __2020-11-19 22:23:04__
 
 > As others have said, it's like the federal government app but worse. They should just make both available to Albertans and let us decide. My choice would be easy.<br> :date: __2020-11-11 23:44:19__
@@ -245,10 +249,6 @@ The ABTraceTogether app has been installed by more than **100000** times. At thi
 
 > There hasnt been any action on here<br> :date: __2020-10-07 17:02:38__
 
-> Horrible app drains battery. Also ineffective. Please create a National app uses Google / Apple API<br> :date: __2020-10-05 23:15:57__
-
-> How are supposed to trace the virus if the app is not compatible with older Android version .you need to have at least Android version 8 . That's very not smart.<br> :date: __2020-09-22 20:00:04__
-
 
 
 #### 1-star reviews
@@ -256,6 +256,14 @@ The ABTraceTogether app has been installed by more than **100000** times. At thi
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="ca.albertahealthservices.contacttracing 1 reviews"/>
 </p>
+
+> Pointless waste of tax payer money that fails to inspire any measure of trust. Lacks common sense functions and consistency in existing functionality.<br> :date: __2021-01-02 09:03:15__
+
+> An error has occurred. Please try again. After entering in a valid phone number. So I restarted my phone. But this time get a error message could not reach the server please try again. Useless app.<br> :date: __2020-12-31 19:46:46__
+
+> We need to switch to the Canadian app. This is useless.<br> :date: __2020-12-29 00:17:47__
+
+> Suck all your battery even when not in use. Not reinstalling this app on my phone instead using my common sense when following the restrictions<br> :date: __2020-12-28 15:08:16__
 
 > Hasn't even been used in the province properly. Alberta needs to use the federal app to better protect its citizens.<br> :date: __2020-12-26 21:47:27__
 
@@ -268,13 +276,5 @@ The ABTraceTogether app has been installed by more than **100000** times. At thi
 > Useless<br> :date: __2020-12-19 04:25:19__
 
 > I've had this installed since it was released, encouraged friends and family to use it as well. I know several dozen people that have been diagnosed with covid-19, including myself. Not one single person I know has been asked to use the app to actually trace positive cases.<br> :date: __2020-12-19 04:04:57__
-
-> All doses is kill my batterie<br> :date: __2020-12-18 02:16:31__
-
-> Doesn't really work, not worth the download.<br> :date: __2020-12-16 04:15:56__
-
-> Terrib0le<br> :date: __2020-12-15 23:52:19__
-
-> Can't even send a pin, allow use of the national one<br> :date: __2020-12-15 07:57:16__
 
 

@@ -165,6 +165,8 @@ No recent reviews available with 3 stars.
 <img src="2_star_reviews_wordcloud.png" alt="uk.ac.cam.cl.covid19sounds 2 reviews"/>
 </p>
 
+> So, well, this app only gets your data: you send your talk, your cough, your data, and that's it. It gives you back nothing. You contribute to science. The problem here is: why don't they give me back the result of my data, based on the data they accumulated? This is not fair, no matter how much the data is valuable/correct. Just give me the output, even if just for curiosity. You state that the app is 98% correct. So there's no reason to be so shy. Also: this app would render the swab completely useless. Maybe the app doesn't give back the results so to not destroy the market of a perfectly useless device like the swab? I can see no other reason.<br> :date: __2020-12-31 18:10:40__
+
 > The app asked me to complete the same survey every morning. I would have been happy to provide weekly responses, but found daily prompts too stressful given my very limited understanding of how this might help.<br> :date: __2020-11-27 18:27:29__
 
 

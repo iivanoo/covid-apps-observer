@@ -238,6 +238,8 @@ The Minutis Mobile app has been installed by more than **10000** times. At this 
 <img src="1_star_reviews_wordcloud.png" alt="org.crf.minutis 1 reviews"/>
 </p>
 
+> C'est bon l'app reconnaît enfin mon id CRF. Problème résolu 👍🏻<br> :date: __2020-12-31 11:15:17__
+
 > Comment se connecter quand on a pas compte sur cette application je viens juste installé qu'il m'identifier alors j'ai pas m'inscrire ?????<br> :date: __2020-10-30 07:02:27__
 
 > Pas assez de téléchargement<br> :date: __2020-10-26 21:16:33__

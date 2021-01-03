@@ -188,25 +188,25 @@ The COVID Symptom Study app has been installed by more than **1000000** times. A
 <img src="5_star_reviews_wordcloud.png" alt="com.joinzoe.covid_zoe 5 reviews"/>
 </p>
 
-> Easy as, and very insightful<br> :date: __2020-12-28 08:07:32__
+> Doing a splendid job. Easy to use.<br> :date: __2021-01-03 14:14:31__
 
-> Easy to use seems worthwhile<br> :date: __2020-12-27 22:05:29__
+> So easy and useful there is NO excuse not to use it!!<br> :date: __2021-01-03 13:54:56__
 
-> Best Covid app<br> :date: __2020-12-27 20:03:31__
+> Easy to use!<br> :date: __2021-01-03 12:34:13__
 
-> A vital tool. I have more confidence in the science behind this than anything the government have come up with so far.<br> :date: __2020-12-27 19:35:10__
+> Easy to use.<br> :date: __2021-01-03 12:24:12__
 
-> Very quick and easy to report symptoms<br> :date: __2020-12-27 18:23:11__
+> This app does not tell you if you have had covid but any information you can give will help better understanding of the covid 19 virus. Please help in the fight of covid 19.<br> :date: __2021-01-03 11:58:48__
 
-> Very easy to use<br> :date: __2020-12-27 18:23:05__
+> Really positive pp<br> :date: __2021-01-03 11:38:32__
 
-> Easy to use, good to take part<br> :date: __2020-12-27 16:49:06__
+> Very helpful<br> :date: __2021-01-03 11:37:16__
 
-> Good app, I have been tracking my covid symptoms<br> :date: __2020-12-27 15:20:09__
+> Brilliant and simple app to use. I work in health care with vulnerable people and I've been reporting daily since March 2020. Lots of my friends have joined, the more people contributing the better the data. Please join this community.<br> :date: __2021-01-03 11:08:51__
 
-> Very quick and easy to use😃<br> :date: __2020-12-27 12:49:25__
+> Very easy to use<br> :date: __2021-01-03 11:02:31__
 
-> Easy to use!<br> :date: __2020-12-27 12:40:41__
+> Really helpful app<br> :date: __2021-01-03 10:57:08__
 
 
 
@@ -216,25 +216,25 @@ The COVID Symptom Study app has been installed by more than **1000000** times. A
 <img src="4_star_reviews_wordcloud.png" alt="com.joinzoe.covid_zoe 4 reviews"/>
 </p>
 
-> Efficient and regularly updated, the app is clear and easy to navigate.<br> :date: __2020-12-28 10:13:48__
+> Easy to complete nothing complicated<br> :date: __2021-01-03 12:51:39__
 
-> Simple, helping the fight against COVID<br> :date: __2020-12-28 09:18:43__
+> Occasional glitches, but on the whole, app works well and happy to be helping<br> :date: __2021-01-03 11:26:15__
 
-> Great project 👍<br> :date: __2020-12-27 19:37:28__
+> I had been using the app daily since March, but in late 2020 the reminders stopped working, so I only remember to log in periodically... I have reinstalled a number of times but nothing seems to fix it. Such a shame after all the team's hard work, can't they get any IT companies to fix these glitches??! PS one day later: tried reinstalling one more time and now finally the notifications are working again - yay!<br> :date: __2021-01-02 18:44:27__
 
-> Uninstalled etc but Ive been unable to add new test for last two days - I've filled in the fields and just asks me to add missing data or correct.... Now based on symptoms been asked to take a test by the app... App issue or user error?<br> :date: __2020-12-27 18:53:01__
+> Does what it says on the tin, you can report your health and covid status to researchers. It can be quite buggy, which is annoying. I went 11 days being unable to report as I couldn't log in until they did a bug fix.<br> :date: __2021-01-02 13:58:19__
 
-> Reminders have disappeared<br> :date: __2020-12-27 17:14:24__
+> Easy and quick to use. Now mostly warns if there is no connection. However if connection is later lost whilst reporting symptoms, this is not reported. \*\* Broken again: Graphs of All, Month, Week don't show any data \*\*<br> :date: __2021-01-02 11:49:29__
 
-> Logging in isn't straightforward<br> :date: __2020-12-27 16:09:02__
+> Normally no problems with app easy to use, however over the last two days my wife nor myself have been able to report app only displaying a white screen even after uninstalling and re installing app glad to say all well now.<br> :date: __2021-01-02 11:27:23__
 
-> Has worked well for the most part but have been unable to report the result of an antibody test: I fill out all the sections and it says there's missing information and I can't submit, I have to just say I haven't had a test.<br> :date: __2020-12-27 13:30:49__
+> Good to know I'm contributing but I did lapse for a while. I think my phone was at fault however. Quick and easy to use.<br> :date: __2021-01-01 12:22:17__
 
-> Update 27/12/20 Aside from a short term reminder issue in November, the app has been working well, but there's currently a glitch with test reporting so my data has been incomplete since 23rd December. Original Review Spring 2021: Good to feel you are making a contribution, however small, by using this. Like the daily reminder, & link to the website for more information on the study etc.<br> :date: __2020-12-27 13:02:18__
+> Easy to use & hopefully effective in gathering relevant information.<br> :date: __2021-01-01 00:08:02__
 
-> trying to help<br> :date: __2020-12-27 13:01:27__
+> Good app. Important in these strange times to help understand this virus in some small way.<br> :date: __2020-12-31 19:25:49__
 
-> Can't log my info. When I open the app it just goes blank.<br> :date: __2020-12-27 12:56:32__
+> Takes just a few seconds to report how you're feeling each day. No intrusive questions.<br> :date: __2020-12-31 19:15:29__
 
 
 
@@ -244,25 +244,25 @@ The COVID Symptom Study app has been installed by more than **1000000** times. A
 <img src="3_star_reviews_wordcloud.png" alt="com.joinzoe.covid_zoe 3 reviews"/>
 </p>
 
-> I can't input my latest test - the app tells me to correct the information but it is correct and nothing is missing<br> :date: __2020-12-28 10:39:59__
+> Can't log as when opening I just get a white screen.<br> :date: __2021-01-01 17:37:55__
 
-> I've been logging daily since the app launched, but since the update I no longer get daily reminders and so often go days without remembering to log - apparently to be a known fault but have been unable to resolve.<br> :date: __2020-12-28 00:25:43__
+> The next second zip code feature is great. Thank you for addding. However it would be nice if the app then reported the new zip codes county if you have moved from your original. It would also be nice if the app remebered your previous second zip code.<br> :date: __2021-01-01 16:29:59__
 
-> It is confusing with the one which does identify you, track and trace and all that I do not want<br> :date: __2020-12-27 22:21:46__
+> Excellent initiative but IT side is the weak link...filled in for 6 months then it did not recognise me despite doing all fixes so had to register under different name to continue its just such a loss of 6 months linked data. That said incredible work that is being done<br> :date: __2021-01-01 11:49:48__
 
-> It's a must to keep on top of the virus. It won't let me log my test 😭<br> :date: __2020-12-27 11:42:59__
+> Yep, I've got the white screen issue now as well. Worked fine until lunchtime 31/12/2020. No matter what I do, uninstall, re-install it still loads and then goes full white screen so I can no longer participate. Please fix.<br> :date: __2021-01-01 09:49:05__
 
-> This app was great, I could log all my tests (regular tests from work) but as of yesterday I've just been getting a white screen? Uninstalled and installed again but still the same..disappointing. Update: I can get back on again, but unable to scroll down my tests to update results :/ Update:sorted now. 26/12: now unable to add test since 23/12 keeps telling me to scroll up to fill in missing details..no details missing<br> :date: __2020-12-26 12:13:22__
+> Not sure what it's achieving<br> :date: __2020-12-31 09:24:17__
 
-> Will no longer let me input test results<br> :date: __2020-12-26 11:42:48__
+> Should be useful but seems limited and a tad buggy - stats charts don't show (android 10) when click them to go through to week/month etc view. No notifications despite ensuring they are turned on. And no differentiation between the old antibody test & symptom testing - I had an antibody test months ago when I returned to work. It was positive but never had any symptoms so should be able to clarify this. Also really feel there should be a link to the official number of cases for comparison.<br> :date: __2020-12-31 08:38:35__
 
-> Good but too many clicks every day! Wheres the 'I'm fine' shortcut? Also data must be skewed, only very cautious people would bother with this app.<br> :date: __2020-12-25 14:22:02__
+> Very clear and useful. 30/12/20 app will not display month or weekly data in graph, only the full set to dec data. Latest version 2.2 and tried a force stop<br> :date: __2020-12-30 18:13:29__
 
-> This morning when I select "this list is correct" for previous tests, it immediately goes on to ask me whether I have any issues with the vaccination site I have not had a vaccination and did not indicate that I have.<br> :date: __2020-12-25 08:42:34__
+> I have updated the app, but still not getting daily reminders<br> :date: __2020-12-30 17:59:09__
 
-> Excellent idea and I really want to help but it does seem a bit buggy. Currently can't log a Covid test as it keeps telling me I haven't filled in all the fields - I have!! Also reminders keep turning themselves off.<br> :date: __2020-12-24 21:15:38__
+> Report in daily but sometimes it's not recorded and I am being told that it's a day or more since I reported in<br> :date: __2020-12-30 17:35:47__
 
-> I can't use the app anymore. After logging in the app displays only a white screen. Have tried uninstalling and reinstalling, the same.<br> :date: __2020-12-24 15:22:49__
+> Worked ok until 19th December when it just showed a blank screen after loading. Same after updating. Shame but this type of app must be 100% reliable to be useful. Uninstalling Update 30.12.20 Re installed following email update; seems to be working now<br> :date: __2020-12-30 17:33:18__
 
 
 
@@ -272,25 +272,25 @@ The COVID Symptom Study app has been installed by more than **1000000** times. A
 <img src="2_star_reviews_wordcloud.png" alt="com.joinzoe.covid_zoe 2 reviews"/>
 </p>
 
-> I have not been able to add a new test since the 23rd December, whilst we have had Covid in the household. I have emailed to highlight the issue but I still cannot add my test, nor can my husband.<br> :date: __2020-12-27 12:48:02__
+> I am frustrated because I kept being asked to repeat my report. I have an añdroid phone and I followed your advice to reinstall the app ensuring it is the latest version. I am NOT going to do that anymore and to that end I will not be reporting my status for a week to allow you to SORT this. Many, inclùding those involved in deciding how we are all to live our lives. Your study group use our reports to develop models, which may be skewed by additional reporting.<br> :date: __2021-01-02 17:57:57__
+
+> Clear well thought out APP just need more people taking part. Or at least it was until I am now trapped with a white screen and seemingly no way of fixing it.<br> :date: __2021-01-02 09:27:18__
+
+> It used to give me daily notifications to fill out the form but this stopped few months ago nothing I do can change this. Not sure if this is just me or others having the same issue.<br> :date: __2021-01-01 21:06:28__
+
+> Used it since the start but reminders stopped two months ago so forget to do it<br> :date: __2020-12-31 15:29:28__
+
+> Reminders just stopped working and I cannot find a way to restart them. So useless as I forget to report each day<br> :date: __2020-12-31 08:23:11__
+
+> I am told by the computer that the Symtoms Study has been installed, yet i am unable to enter data from my Android laptop<br> :date: __2020-12-30 19:18:53__
+
+> Still unable to add the test result even after restarting the app as the email suggested<br> :date: __2020-12-30 17:26:12__
+
+> IT IS BROKEN AGAIN - CAN'T ENTER TEST RESULTS SINCE 17TH DECEMBER<br> :date: __2020-12-29 12:09:03__
 
 > All, Month and Week graphs stopped working some time ago and the developer has not fixed them or responded to email.<br> :date: __2020-12-27 12:12:45__
 
 > Great to assist in the fight against covid !!<br> :date: __2020-12-26 11:46:56__
-
-> Easy to use. But won't let me add a covid test....<br> :date: __2020-12-25 12:55:09__
-
-> No longer working. Just get a blank white screen. Cleared data, reinstalled .. same<br> :date: __2020-12-25 10:18:59__
-
-> Latest update means app does not work. Needs to be resolved quickly. Easy to use and gives up to date estimates in my area.<br> :date: __2020-12-23 09:22:25__
-
-> Today 22/12/2020 Says server down. logged out logged back in now it doesn't recognise my login details. Sums up this year doesn't it one minute things are looking on the up and getting better then boom heading towards another national lockdown ..... Update has logged me out says my password doesn't work needs a forgot password link have had to stop contributing . KEEP WASHING THOSE HANDS STAY SAFE Update : Developers have been quick to address the issue of forget password button . 5 stars<br> :date: __2020-12-22 17:53:24__
-
-> Utterly butterly gutted. The app has stopped its daily prompting.<br> :date: __2020-12-17 14:23:42__
-
-> Easy and may help in the future. It has now stopped working totally reinstated it, not working White screen then nothing, a shame because it was good.<br> :date: __2020-12-15 22:14:38__
-
-> Not been getting push notifications for a good couple of weeks, so rarely report now, whereas before I did it every day.<br> :date: __2020-12-15 16:46:24__
 
 
 
@@ -300,24 +300,24 @@ The COVID Symptom Study app has been installed by more than **1000000** times. A
 <img src="1_star_reviews_wordcloud.png" alt="com.joinzoe.covid_zoe 1 reviews"/>
 </p>
 
+> White screen of doom - I get through to the 'report today' screen very very briefly then it disappears and I get a blank white screen. Clearly not an issue just with my phone or my account by the look of other comments. I've reported daily for months and am disappointed not to be able to continue.<br> :date: __2021-01-01 18:10:10__
+
+> The app has stopped working today. It launches for a split second and then the screen goes all white. Update 1 Jan, it's working now.<br> :date: __2021-01-01 14:49:27__
+
+> I am now unable to open the app despite uninstalling then reinstalling many times. It now works .. 12 MD 01 01 21<br> :date: __2021-01-01 13:19:08__
+
+> No updated often enough<br> :date: __2021-01-01 11:34:07__
+
+> I have to say I'm really pissed off with this. There was a fault and it stopped working for a while, now I'm getting emails asking me to reinstall but with no link in the email (a no reply email address!). When you think Facebook manages literally billions of accounts, fully indexed and cross referenced, and these clowns can't cope with a simple database.... I'm doing something else instead<br> :date: __2020-12-31 15:41:45__
+
+> Have been an enthusiastic user but sadly Tim Spector is misusing his data to make dangerous pronouncements. There are now better more accurate data sources available so the job here has been done...at this point users are just potential customers for Zoe's diet plans.<br> :date: __2020-12-31 15:22:05__
+
+> The app is broken... Loads to a white screen.. Deleted and reloaded... Sign in then opens to a white blank screen again, unable to fill in any details...<br> :date: __2020-12-29 11:02:43__
+
 > COVID data for my region is out of alignment with PHE and worryingly the app shows a fall of ~500 from last week and PHE showing a rise of 158 (~39%). True the figures shown widely disagree but the trends should be consistent. The app appears to be making the area looking better than national statistics suggest. Is there a way to get the app to show both?<br> :date: __2020-12-28 08:12:31__
 
 > HELP! I've been logging every day but today after the 'splash' screen I just get an empty white screen and I can't do anything. Tried killing the app and restarting, uninstalling and re-installing but still no luck.<br> :date: __2020-12-24 12:11:50__
 
 > Won't let me enter previous Covid test info so can't use app. Obviously bug in it or an issue with my One Plus 6 phone??<br> :date: __2020-12-23 19:09:33__
-
-> Was working great. But since your latest update, all I get is a blank screen when I log on<br> :date: __2020-12-23 11:32:00__
-
-> As another user says I am getting the white screen every time I try to log in - only from today, but as I have logged in every day and I am sure others do the same and probably now have the same problem..,. Please help us to help you<br> :date: __2020-12-23 10:27:42__
-
-> Accidentally clicked that I had a covid vaccine in the app when I haven't and can't find a way to remove it. This is stopping me from report my symptoms without first reporting vaccine symptoms, which I'm not going to do. Please introduce a way to remove this.<br> :date: __2020-12-21 07:45:29__
-
-> Sort out the issues or else I won't be bothered and will delete the app<br> :date: __2020-12-20 11:14:34__
-
-> I recently updated the app and now it will not load. Great before, quick and easy to log your health! But now I am faced with a white screen instead.<br> :date: __2020-12-20 10:36:05__
-
-> Worked ok until 19th December when it just showed a blank screen after loading. Same after updating. Shame but this type of app must be 100% reliable to be useful. Uninstalling<br> :date: __2020-12-20 08:20:34__
-
-> I have no trouble sharing anonymized data, but personal traceable data is right out.<br> :date: __2020-12-20 05:57:39__
 
 

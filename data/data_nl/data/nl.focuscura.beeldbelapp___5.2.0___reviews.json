@@ -1,5 +1,53 @@
 [
     {
+        "reviewId": "gp:AOqpTOHQyUbHJii8f3eKPfAij1pSGKPCElP_ZzeVEB6Ub6aKCFgNr6ntwK6EhC6rRSGNRofCflTjBjJKcXHvog",
+        "userName": "Anja ten Brinke",
+        "userImage": "https://play-lh.googleusercontent.com/--qnH-wSkeVE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn2IXmYbTxo20jgNlEq5wkvkrtY_w/photo.jpg",
+        "content": "Het is een fijne app in gebruik.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "5.2.0",
+        "at": "2020-12-29 19:23:18",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOEiSC_SozMPD7WMEEN0Q8_z6z-aShaYjrSpj7p-CSgYyIKDzLuEEOXbFjAIPm0dV_hfT1vpYVoeVu6f1g",
+        "userName": "Rob de Vries",
+        "userImage": "https://play-lh.googleusercontent.com/-6p_oHGDb2Bo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmqG0DEHDV-2ba7yasRK7Jm5lkWWw/photo.jpg",
+        "content": "Eenvoudig en komt meteen bij poli... Top",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "5.2.0",
+        "at": "2020-12-29 10:21:20",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGQBiJTswnm0XoFKat5KSEEqBN9mcygEi8sWmKW0kaLz_Y9GGwyKWj9p-8NYaGOGEfaZDax4WSbApqyyw",
+        "userName": "Henk Meijer",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh_gbHSbksELB-Uz1I76rgSjnTPGLPGfD02onkDpQ",
+        "content": "Zorg op afstand werkt goed",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "5.2.0",
+        "at": "2020-12-29 09:31:24",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHD3aDu7eAzlyBbyOtoOMfgvz-QM4EXkxSCmA1ZTji0vuf17nITC6C5WjP50zx3XKspDaP8p1wIUmAIwA",
+        "userName": "Trees Van Der Heijden",
+        "userImage": "https://play-lh.googleusercontent.com/-OG1N1_8Tvx0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckjJvPgqSiHFtyvNdid-xaVhHIjkQ/photo.jpg",
+        "content": "Het moet nog wel wennen. Maar het gaat uiteindelijk steeds makkelijker. Om met de app om te gaan.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "5.2.0",
+        "at": "2020-12-28 10:48:37",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOHiKGm4mNFihqaSRQXVlbqA_hX2t01rN5vfTknF-CB_3L6pHa1ZzvUxjaBBY3lOuWL5z0-XvnVT2frIGw",
         "userName": "Leny Groos",
         "userImage": "https://play-lh.googleusercontent.com/-po_kobdQhXU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclDxMUXXSyMGSBZPhNuSkKHIASIiw/photo.jpg",
@@ -9182,7 +9230,7 @@
     {
         "reviewId": "gp:AOqpTOH9ahAPgNBE6kvKJxa8y-Ny69cJRbQ-sjkcvIcxDqnvSX5wv3px_4DGusiEd_8zN2okOUEZbMQm0QVySA",
         "userName": "Connie van der Tuin",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhXrBJiDSofhIT3twlU21pBjDlQjEIrElx_E5QXrg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiZTvVf-fi3NQvAhZyb6-s58m0BjkIKTsfbjczutg",
         "content": "Heel geruststelling om deze app te gebruiken",
         "score": 5,
         "thumbsUpCount": 0,
@@ -11948,54 +11996,6 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.21.6",
         "at": "2020-04-27 09:42:12",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOG6OfWTcv0jkikAAoIPQx5n5pwCx4wkKjPUVA6DqZY3StPzg5ny_lMpWez6ZrLf4RYalp96cvnzw3PCiQ",
-        "userName": "Trees Schuurman",
-        "userImage": "https://play-lh.googleusercontent.com/-Pl_AWSox854/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck4DB5BzuXqPTAfw2IZ7rDjvo9MZQ/photo.jpg",
-        "content": "Heel fijn dat er op deze wijze \"zorg\" aan je wordt besteed.",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "4.21.6",
-        "at": "2020-04-27 09:38:34",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOFFX4awWrYWdbP9OS1H7cN3OoUiz-ShOwZKOHK3BcxLR7dteiTPnD-T8FlYz0GfEmYCV-94zh1UV2CJYw",
-        "userName": "T.J. Rintjema",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gjv09sjjDRrl3vJqMjFcC6PmBgnq_FZApblVheu5g",
-        "content": "Duidelijke app met goede structuur. Mis alleen mogelijkheid om aan te geven of hoesten/niezen door allergie komt of vanwege verkoudheid!",
-        "score": 4,
-        "thumbsUpCount": 2,
-        "reviewCreatedVersion": "4.21.6",
-        "at": "2020-04-27 09:34:24",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOF6rHSe7_Cqb2TFV1dhT5mOA8n0vC3Hbk6ZKN-LA-gaxb0XYNznPRrvD7FveEUpun9O_wpEDDgRXJyy3Q",
-        "userName": "Raymond Rambaldo",
-        "userImage": "https://play-lh.googleusercontent.com/-fYUMDX2ZCTw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckSPDpAmk2zByqOz-UjCrhiVEoDmA/photo.jpg",
-        "content": "ik vind heel goed van Luscii",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "4.21.6",
-        "at": "2020-04-27 09:32:13",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOG1wM4JtamlO4SaSENTOYe9ZLVB6EQ4wIJNSA5oAdiP9OOidLgTyItwhq_Fzi3G-DmpSgmA-k784sopoQ",
-        "userName": "Adri Gootjes",
-        "userImage": "https://play-lh.googleusercontent.com/-TKCCIxmX6d8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckVGIx9vbNgXELcr0UltcVKVw2fZA/photo.jpg",
-        "content": "Duidelijk en geeft zekerheid",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "4.21.6",
-        "at": "2020-04-27 09:29:34",
         "replyContent": null,
         "repliedAt": null
     }

@@ -215,6 +215,18 @@ The Amwell: Doctor Visits 24/7 app has been installed by more than **1000000** t
 <img src="5_star_reviews_wordcloud.png" alt="com.americanwell.android.member.amwell 5 reviews"/>
 </p>
 
+> The visit was quick and to the point. He diagnosed my cellulitis due to an injury to my leg and called in a prescription to my drugstore. Much faster and easier as well as cheaper than an urgent care or ER visit. My insurance covered the entire cost of the visit.<br> :date: __2021-01-02 02:09:38__
+
+> Very good<br> :date: __2020-12-31 02:01:34__
+
+> Very courteous and caring. Very patient with me and extremely helpful.<br> :date: __2020-12-31 01:36:18__
+
+> Very easy to use. The physicians are helpful & pleasant. It is a great option when you want to be seen right away from convenience of your home.<br> :date: __2020-12-30 15:47:58__
+
+> Excellent<br> :date: __2020-12-29 17:19:08__
+
+> I have used these physicians twice now and they are very professional and helpful. They were able to figure out the problem and send in prescriptions to my pharmacy. I will use them more often for me and my family.<br> :date: __2020-12-29 16:37:34__
+
 > Easy to use. Doctor was really nice.<br> :date: __2020-12-27 06:39:01__
 
 > Quick easy effective!<br> :date: __2020-12-26 16:20:35__
@@ -223,18 +235,6 @@ The Amwell: Doctor Visits 24/7 app has been installed by more than **1000000** t
 
 > Every physician I have seen has been very thorough and helpful. I am so pleased with this app and I Highly recommend it for anyone who has an urgent care issue bc I have had 12 visits and the er would have been at least 10,000.00<br> :date: __2020-12-24 23:56:03__
 
-> Fast easy. Competent providers<br> :date: __2020-12-22 09:21:50__
-
-> Fast and easy<br> :date: __2020-12-21 15:51:46__
-
-> Awesome<br> :date: __2020-12-15 22:20:59__
-
-> Drs are amazing and friendly and getting in to a physician is so fast and easy... Love that when I feel terrible I don't have to leave my home!!<br> :date: __2020-12-13 17:12:03__
-
-> Was super fast setting up, had the most wonderful pediatrician and he was so kind and caring about my kids.<br> :date: __2020-12-12 18:46:05__
-
-> Convenient and informative I believe it's a great service to have<br> :date: __2020-12-11 22:53:09__
-
 
 
 #### 4-star reviews
@@ -242,6 +242,8 @@ The Amwell: Doctor Visits 24/7 app has been installed by more than **1000000** t
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.americanwell.android.member.amwell 4 reviews"/>
 </p>
+
+> Pretty straightforward. Make sure to have a good wifi connection. Unfortunately where I live, we don't have great internet.<br> :date: __2020-12-31 17:30:33__
 
 > Questions after ER Muscle spasms, severe pain, numbness.<br> :date: __2020-11-14 17:10:21__
 
@@ -260,8 +262,6 @@ The Amwell: Doctor Visits 24/7 app has been installed by more than **1000000** t
 > Twice now the video did not connect<br> :date: __2020-08-14 23:45:37__
 
 > Very nice<br> :date: __2020-08-08 06:14:40__
-
-> Registration takes a bit, but great option for televisit. Will definitely use again.<br> :date: __2020-08-01 18:48:01__
 
 
 

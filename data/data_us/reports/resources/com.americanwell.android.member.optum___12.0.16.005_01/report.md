@@ -178,6 +178,18 @@ The NowClinic app has been installed by more than **50000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="com.americanwell.android.member.optum 5 reviews"/>
 </p>
 
+> Pretty easy system to use. Be ready to wait for your provider but they do alert you to let you know your up next. Easy process. I like it.<br> :date: __2020-12-31 23:22:17__
+
+> Clear great video<br> :date: __2020-12-30 21:50:53__
+
+> Love this app. Soo convenient<br> :date: __2020-12-30 20:59:56__
+
+> Positive<br> :date: __2020-12-29 16:29:15__
+
+> I love this app i can see a trained professional in the comfort of my home. Thank you to the doctors and nurses that participate on this app<br> :date: __2020-12-29 01:43:27__
+
+> Works great! Excellent sound.<br> :date: __2020-12-28 19:00:16__
+
 > Easy. The one thing you want with telemedicine is ready. This is just that!<br> :date: __2020-12-26 18:07:55__
 
 > Now clinic app disconnected at the beginning of my appointment and didn't come back on.<br> :date: __2020-12-24 22:54:30__
@@ -186,18 +198,6 @@ The NowClinic app has been installed by more than **50000** times. At this time,
 
 > SO happy that there's someone who can see me at 4am, & they take my insurance. This saved me as it's 4am on Christmas Eve & there's no way I'd be able to see my Primary Care Dr today (& I didn't WANT TO anyway because of COVID, for a simple medical issue that doesn't need a visit, but I do need an Rx). I don't want to go to ANY Dr or ER or Urgent Care right now because of COVID! This app was EASY & FAST, & now I can RELAX, get my Rx when the pharmacy opens, & I'm good to go! Thank you.👍😊<br> :date: __2020-12-24 13:47:57__
 
-> Good visit with PA Frazier got the information was needed for my conditions thank you<br> :date: __2020-12-23 20:31:22__
-
-> Love it great experience<br> :date: __2020-12-22 23:04:08__
-
-> And...I am still st home!<br> :date: __2020-12-22 17:50:26__
-
-> Awesome<br> :date: __2020-12-22 17:39:07__
-
-> Excellent visit with now clinic. Dr Musni is an excellent Dr Very knowledgeable and pleasant.<br> :date: __2020-12-22 17:19:58__
-
-> I had a wonderful doctor that took her time to assist me and was very kind. It was so convenient to just wait at home for a doctor and have my prescription sent to my pharmacy right away. I will do this again in a heart beat. Thank you!<br> :date: __2020-12-21 22:32:48__
-
 
 
 #### 4-star reviews
@@ -205,6 +205,8 @@ The NowClinic app has been installed by more than **50000** times. At this time,
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.americanwell.android.member.optum 4 reviews"/>
 </p>
+
+> Except for freezing a little , it was usefull<br> :date: __2020-12-30 20:40:03__
 
 > Great app<br> :date: __2020-12-03 23:06:26__
 
@@ -223,8 +225,6 @@ The NowClinic app has been installed by more than **50000** times. At this time,
 > Sometimes the waits get a little lengthy but with the situation going on right now it's understandable.<br> :date: __2020-08-22 22:55:59__
 
 > Did not list our pharmacy. We should be able to write it in. Otherwise e everything was good.<br> :date: __2020-08-19 17:39:31__
-
-> Comcept is great but really bad video connecting<br> :date: __2020-08-11 17:14:22__
 
 
 

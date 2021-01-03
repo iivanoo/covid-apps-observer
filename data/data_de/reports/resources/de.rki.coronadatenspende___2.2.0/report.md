@@ -226,6 +226,8 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 <img src="2_star_reviews_wordcloud.png" alt="de.rki.coronadatenspende 2 reviews"/>
 </p>
 
+> Leider werden Smartwatches von Samsung nicht unterstützt, daher kann ich leider keine Daten spenden<br> :date: __2020-12-29 13:27:44__
+
 > 'Verbindung nicht möglich. Es ist ein Problem mit dem Server aufgetreten.' Leider kann so auch der willigste nicht helfen.<br> :date: __2020-12-27 11:51:46__
 
 > Einloggen bei Polar nicht möglich. System Huawei P30 Pro. Update : was für eine Fieberkurve wird da angezeigt, meine?<br> :date: __2020-12-22 07:45:30__
@@ -244,8 +246,6 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 
 > Ich hatte sie installiert um bei dem Versuch meine Smart Watch zu verbinden festzustellen das leider Samsungs Watch nicht unterstützt wird. WANN kann man denn damit rechnen ???<br> :date: __2020-11-02 13:37:58__
 
-> Auf die Unterstützung anderer Devices (z.b. Samsung Wearable) warte ich nun schon über ein halbes Jahr. Im Text steht immer noch, es werde vorbereitet. So wird das nichts mit uns... Schade, ich würde die App gern nutzen.<br> :date: __2020-10-24 11:06:35__
-
 
 
 #### 1-star reviews
@@ -253,6 +253,10 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="de.rki.coronadatenspende 1 reviews"/>
 </p>
+
+> unterstützt das rki ruhig weiter dabei uns einzusperren, und verbote zu verhängen die völlig Sinn-befreit sind. damit die Elite am Brandburger tor es richtig Knallen lassen kann<br> :date: __2021-01-02 09:58:54__
+
+> Immernoch keine Unterstützung der Huawei health App!<br> :date: __2020-12-28 22:05:23__
 
 > Leider kann ich die App nicht zu ende installieren. Immer wenn ich meine PLZ eingebe, tritt plötzlich ein Fehler auf....<br> :date: __2020-12-21 18:00:30__
 
@@ -269,9 +273,5 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 > Leider keine Verbindung zu mifit möglich. Schade, hätte gerne geholfen. Werde die App wieder deinstallieren<br> :date: __2020-12-16 09:15:05__
 
 > Nutze weder Fitness-armband noch SmartWatch,daher nutzlos für mich<br> :date: __2020-12-16 02:43:16__
-
-> Leider ist meine Uhr nicht kompatibel mit der App<br> :date: __2020-12-13 16:42:59__
-
-> Sehr schlecht<br> :date: __2020-12-11 16:27:50__
 
 

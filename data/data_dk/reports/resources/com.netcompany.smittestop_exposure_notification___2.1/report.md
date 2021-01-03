@@ -246,6 +246,8 @@ The Smittestop app has been installed by more than **500000** times. At this tim
 <img src="2_star_reviews_wordcloud.png" alt="com.netcompany.smittestop_exposure_notification 2 reviews"/>
 </p>
 
+> Det er en elendig app. Jeg får flere gange dagligt besked på at genstarte appen og jævnligt besked på at aktivere bluetooth og GPS selv om de er slået til. Det er imponerende der er så mange fejl i en så vigtig så efter så lang tid.<br> :date: __2021-01-03 06:48:18__
+
 > App'en er gået fuldstændig amok. Den giver notifikation hvert 10. sekund, med besked om at "Smitte|Stop is downloading information". Samtidig kan app'en ikke åbnes. Problemet er startet efter ankoms til Grønland.<br> :date: __2020-12-20 21:17:01__
 
 > Denne app er begyndt at sende tomme notifikationer hver morgen, så telefonen siger ding, men der ikke er nogen besked. Kigger man i telefonens notifikationsindstillinger kan man se at ding lyden kommer fra denne app, men åbner man app'en, er det ingen beskeder.<br> :date: __2020-12-18 07:09:03__
@@ -264,8 +266,6 @@ The Smittestop app has been installed by more than **500000** times. At this tim
 
 > Ideen med app'en er rigtig god, men den bruger bare alt for meget strøm.<br> :date: __2020-09-28 07:10:46__
 
-> The app should be able to tell me the number of close contacts per week at e.g. +15 min as a info about my interactions<br> :date: __2020-09-26 20:35:58__
-
 
 
 #### 1-star reviews
@@ -273,6 +273,12 @@ The Smittestop app has been installed by more than **500000** times. At this tim
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="com.netcompany.smittestop_exposure_notification 1 reviews"/>
 </p>
+
+> App does not provide date of exposure making it impossible to determine when to get tested.<br> :date: __2020-12-30 15:39:20__
+
+> It should really tell you when and where you were infected. It's practically useless as it is.<br> :date: __2020-12-29 18:05:15__
+
+> Doesnt work<br> :date: __2020-12-29 14:59:08__
 
 > Det er for ringe. Kommer ustandseligt med pop ups om ligegyldige opdateringer af lokation eller andet. Kunne heldivis disable lyden, så den ikke længere vækker mig om natten. Afinstallerer smittestop.<br> :date: __2020-12-27 20:31:21__
 
@@ -287,11 +293,5 @@ The Smittestop app has been installed by more than **500000** times. At this tim
 > Since the latest update I get a notification several times a day saying that I have to open the app to reactivate it. Today I had to reinstall the app because when I got the notification about reactivation, upon opening the app, it asked me to turn on Bluetooth despite Bluetooth being already on. I tried to turn Bluetooth off and then on, same result in the app.<br> :date: __2020-12-24 07:26:20__
 
 > idea is good but execution is awfull. Notification doesn't work and the app doesn't tell you when you were in close contact with an infected person, so you have no idea whether the test you may have done is before or after the incident. For all you know it could have been weeks ago. Apparently the 1 meter radius doesn't work either.<br> :date: __2020-12-23 21:01:58__
-
-> Does not include results from the public funded privately conducted test.<br> :date: __2020-12-21 21:20:19__
-
-> Totalt ubrugelig. Den giver info om at jeg har været i tæt kontakt med en der er testet positiv. Ingen info om hvor eller hvornår. Det kan man bruge til intet. Og så virker app kun hvis man selv starter den op.<br> :date: __2020-12-21 09:00:26__
-
-> Er begyndt at give hørbar besked flere gange dagligt "download..." et eller andet man ikke kan nå at se! Også om natten!! Kan ikke slås fra i settings! Afinstalleret nu for at få nattero!<br> :date: __2020-12-21 01:19:03__
 
 

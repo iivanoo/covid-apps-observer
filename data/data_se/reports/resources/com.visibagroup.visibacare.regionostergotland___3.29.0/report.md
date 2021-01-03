@@ -139,10 +139,12 @@ The Din Vård Region Östergötland app has been installed by more than **5000**
 #### 5-star reviews
 
 <p align="center">
-
+<img src="5_star_reviews_wordcloud.png" alt="com.visibagroup.visibacare.regionostergotland 5 reviews"/>
 </p>
 
-No recent reviews available with 5 stars.
+> ok<br> :date: __2021-01-01 17:48:39__
+
+
 
 #### 4-star reviews
 

@@ -155,6 +155,16 @@ The Royal Mail - Tracking, redelivery, prices app has been installed by more tha
 <img src="5_star_reviews_wordcloud.png" alt="com.royalmail.app.droid 5 reviews"/>
 </p>
 
+> Idk bro 😩🖤<br> :date: __2021-01-02 01:28:38__
+
+> Great<br> :date: __2021-01-01 23:15:21__
+
+> excellent<br> :date: __2021-01-01 14:18:14__
+
+> Works well<br> :date: __2020-12-31 13:21:53__
+
+> Good<br> :date: __2020-12-30 14:46:37__
+
 > Very efficient, easy to use and useful. Just what royal mail has always needed.<br> :date: __2020-12-24 13:34:02__
 
 > Great app!. 👍👍😁 Happy Christmas R.M.❗✝️ 🎁🎁🎁☃️⛄☃️⛄☃️☃️☃️<br> :date: __2020-12-24 12:29:04__
@@ -165,16 +175,6 @@ The Royal Mail - Tracking, redelivery, prices app has been installed by more tha
 
 > Great<br> :date: __2020-12-15 18:30:10__
 
-> So easy and simple to use luv it<br> :date: __2020-12-14 05:21:23__
-
-> Very useful app to have plenty information and save tracking plus so much more a must have thank u R.M<br> :date: __2020-12-12 03:47:24__
-
-> Very satisfied might be better if you notified us am or pm delivery. Even a 2 hour slot Thanks Rita Lea<br> :date: __2020-12-10 08:30:17__
-
-> Fast hard working people<br> :date: __2020-12-07 18:40:22__
-
-> Very good app and useful too<br> :date: __2020-12-05 17:36:08__
-
 
 
 #### 4-star reviews
@@ -182,6 +182,10 @@ The Royal Mail - Tracking, redelivery, prices app has been installed by more tha
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.royalmail.app.droid 4 reviews"/>
 </p>
+
+> Excellent.<br> :date: __2021-01-03 10:46:40__
+
+> Very good app.clear and well updated<br> :date: __2020-12-30 13:01:14__
 
 > Excellent app easy to use<br> :date: __2020-12-18 15:14:40__
 
@@ -198,10 +202,6 @@ The Royal Mail - Tracking, redelivery, prices app has been installed by more tha
 > If you face any problems you can't open it just change your phone's language<br> :date: __2020-12-03 05:39:13__
 
 > Very good 😊. I think.<br> :date: __2020-11-28 07:46:14__
-
-> Easy to arrange re-delivery of parcels.<br> :date: __2020-11-17 21:07:07__
-
-> Well I used app for a redelivery and still waiting for parcel, its 20 past 6, I live in hope. Other than that app seems to be working ok.<br> :date: __2020-11-07 19:18:29__
 
 
 
@@ -239,6 +239,8 @@ The Royal Mail - Tracking, redelivery, prices app has been installed by more tha
 <img src="2_star_reviews_wordcloud.png" alt="com.royalmail.app.droid 2 reviews"/>
 </p>
 
+> A lot of registration effort for nothing you can't do via their website<br> :date: __2021-01-02 12:25:56__
+
 > This is the results of privatisation in app form. Doesn't even do the basics.<br> :date: __2020-12-26 16:01:07__
 
 > I installed the app to get an update as to when my delivery would occur. I dont understand why the service is "deliver by 9pm" but you have no tracking ability. It's no wonder why services like heroes are used, as they let you know when they are an hour away, estimated delivery time. I wouldnt use the Royal mail if I have any choice, customers value the ability to know when the parcel will arrive, even if that's a 3 hour time slot.<br> :date: __2020-12-24 21:04:12__
@@ -257,8 +259,6 @@ The Royal Mail - Tracking, redelivery, prices app has been installed by more tha
 
 > A tracking app that doesn't track, pointless<br> :date: __2020-12-15 19:18:45__
 
-> All I wanted to do is use the Parcelbox finder. But no, you have to register, putting all your details in - and there's not even a postcode search function for your address. You shouldn't have to register unless you want to actually buy something.<br> :date: __2020-12-14 12:07:49__
-
 
 
 #### 1-star reviews
@@ -267,24 +267,24 @@ The Royal Mail - Tracking, redelivery, prices app has been installed by more tha
 <img src="1_star_reviews_wordcloud.png" alt="com.royalmail.app.droid 1 reviews"/>
 </p>
 
-> App gives false information, stated package was delivered where as it was delivered 2 days later, spent one day contacting royal mail regarding supposed missing package, TIP OF THE DAY, use DHL, DPD, Hermes or Amazon or anyone but Royal mail and this app<br> :date: __2020-12-28 11:15:41__
+> Useless No real time. Parcels are arriving hours sometimes days after the suggested time given by royal mail.<br> :date: __2021-01-02 20:52:10__
 
-> Royal Mail say you have to download this app to search for your nearest parcel postbox (as advertised on TV) - but when you search for one, even with the whole of the UK selected, it reports "sorry, no results found. Try clearing filters". It finds normal letter postboxes ok, but there's clearly a major bug in the app.<br> :date: __2020-12-27 11:55:16__
+> Forced login<br> :date: __2021-01-02 02:57:13__
 
-> Can't even track Royal Mail own numbers in UK while third party apps can. Pretty pathetic.<br> :date: __2020-12-27 07:53:49__
+> absolutely terrible app it cant even tell me when my package is going to arrive but will tell when i missed my delivery after they didmt come and also whenever i scan my qr code it just brings me back to the app<br> :date: __2021-01-01 12:26:50__
 
-> Absolute garbage. Scan the QR code on my something for you card and it just takes you to the page to fill in manually.... What is the point ?<br> :date: __2020-12-26 20:11:35__
+> Useless tracking. Very vague. No information. Just telling me stuff I already know. "We have it" ect. Useless. Use the website. It's not much better. But it is slightly more information<br> :date: __2020-12-31 14:03:14__
 
-> Tells me i got parcel.arriving...but says nowt i need to pay customs charge..instead i wait for a card through the door .then have to go online and pay then wait another 2 days to get the parcel...surely this app should of alerted me to pay and save a bunch of time . Its poinless really .<br> :date: __2020-12-26 18:11:06__
+> Have to register to find a post box LOL no thanks<br> :date: __2020-12-31 13:30:27__
 
-> TOO FLIPPING COMPLICATED. iTS COST ME £40 ALREADY & GOT NOTHING FROM IT. cAN'T FIND ANY WAY TO GET MY MONEY BACK.<br> :date: __2020-12-26 12:02:05__
+> Made by clowns<br> :date: __2020-12-31 04:39:05__
 
-> I downloaded this to track my parcel, got to OPEN then NOTHING HAPPENS<br> :date: __2020-12-24 20:17:25__
+> Absolutely rubbish. Hasn't tracked one parcel yet. I'm uninstalling it<br> :date: __2020-12-30 22:33:52__
 
-> Don't want to create an account just want to see parcel drop off points on a map!!!!!<br> :date: __2020-12-24 00:09:19__
+> I am notified that I have a missed delivery and sent to this app. I then have to type in information from the card left at my house. But I am away on holiday and don't have the card! This is ridiculous. If the system notifies me then why cannot the system populate the app so that I can arrange redelivery when away from home.<br> :date: __2020-12-30 17:15:08__
 
-> Forced to install this sh*te because someone didn't deliver a parcel, they usually leave a blank card with no reference number or anything filled in, and run away without knocking the door etc. Need to create an account to use also.<br> :date: __2020-12-23 21:05:06__
+> worst service everrr! There is no customer service and if I try to call you I wait for more than half an hour then you cut the call. Also, I did choose a safe place and let the door open but what happened infuriated me! I was inside the house just didn't hear him, The delivery man entered and left a note not the parcel! Just whyyyy! Just leave the goddammit parcel! I am soooo furious right now some of the items in the parcel needed for my son's birthday tomorrow what will I do now 🤬😡😡😡<br> :date: __2020-12-29 12:37:58__
 
-> App worked to book re-delivery 3 days later. This is comment on service. Dont need app but web logon out of date. Thought the 2 / 3 days delay was so that parcel could be delivered with normal post. Royal Mail vans keep passing but 4 days after booked re-delivery day nothing. App can't update tracking info. So who knows? And what's the point. Finding contact method is a pain behind FQA and finally 50 mins wait on phone. Then supposedly delivering into evening but sorting office shut at 1pm<br> :date: __2020-12-22 21:01:42__
+> useless. service charged me and then not available anywhere. And no automatic refund system.<br> :date: __2020-12-28 18:01:02__
 
 

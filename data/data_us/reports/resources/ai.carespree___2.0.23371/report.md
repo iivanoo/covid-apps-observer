@@ -314,6 +314,8 @@ The Sydney Care app has been installed by more than **100000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="ai.carespree 1 reviews"/>
 </p>
 
+> Clunky, confusing setup process. There is a lot of configuration of personal settings even after connecting to the main Sydney health app and my Anthem account. Once you have it set, it still makes you go through the symptom checker before you can use its touted features for communicating with medical experts. Even that might be workable, but there are huge gaps in the symptom checker. I can't start with hypertension or high blood pressure as a symptom? Terrible, frustrating design.<br> :date: __2021-01-02 16:19:48__
+
 > Think I have Covid but private healthcare is a fail. Horrible App (and somehow I pay for this experience). I have anthem blue cross blue shield and their sydney care app to figure out the covid testing I need with symptoms is a fail. Tries to link accounts but won't login and the reset password doesn't work to the email on file or phone. I can login to their other sydney app just fine. This sydney business has been a wreck since they sought to disconnect it from the name of the provider.<br> :date: __2020-12-23 04:54:25__
 
 > It will not allow me to get any info over to my work. Will not allow me to download my doctor visit information to my phone or fax it to my work or email to my HR department.<br> :date: __2020-11-09 21:15:41__
@@ -331,7 +333,5 @@ The Sydney Care app has been installed by more than **100000** times. At this ti
 > This app sucks I can't even log in...I enter a password and it says my password cannot be my username or part of my username or email even though my password is not!<br> :date: __2020-08-01 01:54:54__
 
 > It just wants to chat with me. Where is the covid quiz. Disappointing for being an insurance benefit.<br> :date: __2020-07-28 03:03:02__
-
-> Cut me off before I could register<br> :date: __2020-07-27 17:24:40__
 
 

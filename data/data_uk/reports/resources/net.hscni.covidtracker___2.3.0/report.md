@@ -150,6 +150,10 @@ The StopCOVID NI app has been installed by more than **100000** times. At this t
 <img src="5_star_reviews_wordcloud.png" alt="net.hscni.covidtracker 5 reviews"/>
 </p>
 
+> Installed this as soon as it became available. Happy to support the good work<br> :date: __2021-01-03 15:43:57__
+
+> Helpful<br> :date: __2021-01-02 01:45:10__
+
 > I strumming for DCI middlemoor u big style fun and games cock<br> :date: __2020-12-26 05:13:43__
 
 > Helps to keep me safe and others safe<br> :date: __2020-12-21 03:35:48__
@@ -165,10 +169,6 @@ The StopCOVID NI app has been installed by more than **100000** times. At this t
 > I am a father and this app is help bust my lokel drug deler(he was my lokel deler UWU), and my dother infrormaeshen was stolen (shes 4)😁 Thank god the worden let me downlode (I foed my wife an this app )XD<3:3<br> :date: __2020-11-23 11:01:57__
 
 > Great to see and well designed. Fantastic to have an app like this so quickly for NI<br> :date: __2020-11-22 23:32:11__
-
-> Respect to our great NHS , and listen to them .<br> :date: __2020-11-20 15:20:02__
-
-> It does what it says and this update will make things much clearer for anyone receiving notifications<br> :date: __2020-11-17 12:56:54__
 
 
 
@@ -234,6 +234,8 @@ The StopCOVID NI app has been installed by more than **100000** times. At this t
 <img src="2_star_reviews_wordcloud.png" alt="net.hscni.covidtracker 2 reviews"/>
 </p>
 
+> Bluetooth is always on but the app tells me to turn it on! Same after restarting the device and checking Bluetooth status<br> :date: __2020-12-30 18:52:58__
+
 > Got a notification to say i was in contact and had to isolate. Only problem was i had been in contact the 10th. First told of it the 23rd with 1day left to isolate. Its reliant on people updating the app with their test results and if they dont do that then nobody knows<br> :date: __2020-11-23 21:34:22__
 
 > I had hoped that this app would provide useful timely and accurate information to users. Instead I see that the statistics are not kept up to date. By way of example today is 05/11/20 but the R number estimate is from 16/10/20. Come on people for the sake of credibility must do better!<br> :date: __2020-11-05 23:37:19__
@@ -252,8 +254,6 @@ The StopCOVID NI app has been installed by more than **100000** times. At this t
 
 > Fault app. Tells me in early hours of morning that there has been a huge number of checkins like 2000+/3000+ while im at home. But also saying 0 check ins in last 4 days-14 days. Have to open it again to start checks and i never switch off the bluetooth so no idea what happening.<br> :date: __2020-10-23 23:17:28__
 
-> Dont think this works to well<br> :date: __2020-10-23 16:04:28__
-
 
 
 #### 1-star reviews
@@ -261,6 +261,14 @@ The StopCOVID NI app has been installed by more than **100000** times. At this t
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="net.hscni.covidtracker 1 reviews"/>
 </p>
+
+> App won't open/crashes even after re-downloading<br> :date: __2021-01-03 11:51:38__
+
+> Pointless app. I don't think it's even accurate.<br> :date: __2020-12-30 00:26:35__
+
+> DISCUSTING app terrorism<br> :date: __2020-12-29 12:26:18__
+
+> I NEVER downloaded this app, yet, I have recently discovered it on my fone AND WITH ALL PERMISSIONS ALLOWED etc??? An explanation would be appreciated!!! Immediately deleted after discovery.<br> :date: __2020-12-28 21:41:01__
 
 > Yh it's a good idea if you're 6 years old assuming that everyone is going to download it... A small childish idea where we all live in a utopia downloading this app at the same time... This only works if the government forces you to download it by law... Only downloaded because I thought there was going to be a surprising new idea to uncover... Yh turns out it's like Pokémon GO without any Pokémon<br> :date: __2020-12-26 21:58:20__
 
@@ -273,13 +281,5 @@ The StopCOVID NI app has been installed by more than **100000** times. At this t
 > Downloaded app i was in touch with 3 people who tested positive nothing came up i rang the helpline says not to worry its not 100%<br> :date: __2020-12-06 11:30:28__
 
 > Makes the phone sooo slooooow that it's unusable. Had to uninstall.<br> :date: __2020-12-05 22:01:17__
-
-> Never seems to check, always a week or so behind.<br> :date: __2020-12-01 08:27:55__
-
-> This app is completely pointless. Mine has to be reinstalled every couple of days after which it will carry out exposure checks for a day or 2 and then completely stop. I could have been in contact with numerous people and had to self isolate but I dont know because the app isn't doing the checks.<br> :date: __2020-11-29 10:37:50__
-
-> Not getting anything from this site when first started told everyday now nowt<br> :date: __2020-11-27 15:11:31__
-
-> Loads of Rubbish.<br> :date: __2020-11-22 18:35:12__
 
 

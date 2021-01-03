@@ -187,6 +187,8 @@ The Nuvance Health Virtual Visits app has been installed by more than **10000** 
 <img src="5_star_reviews_wordcloud.png" alt="org.healthquest.android.hqst.healtheconnect 5 reviews"/>
 </p>
 
+> App works really well<br> :date: __2020-12-28 21:37:51__
+
 > Great<br> :date: __2020-12-12 21:50:41__
 
 > Excellent !!! My Physician and his Office are all great Health Care and Administrative Care personnel. I've been with Health Quest for 2 years to date and i am very satisfied with my care givers. Thank you HealthQuest Team !!!<br> :date: __2020-12-10 14:36:01__
@@ -204,8 +206,6 @@ The Nuvance Health Virtual Visits app has been installed by more than **10000** 
 > Dr consultation.<br> :date: __2020-11-12 20:56:09__
 
 > Excellent!<br> :date: __2020-11-06 20:43:34__
-
-> Very good<br> :date: __2020-10-30 15:51:40__
 
 
 

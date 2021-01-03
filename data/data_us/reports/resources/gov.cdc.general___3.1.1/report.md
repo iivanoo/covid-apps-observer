@@ -188,6 +188,8 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 <img src="5_star_reviews_wordcloud.png" alt="gov.cdc.general 5 reviews"/>
 </p>
 
+> A great way to keep up with mother nature's little creatures.<br> :date: __2020-12-30 18:40:45__
+
 > Very helpful<br> :date: __2020-12-24 20:04:43__
 
 > Its OK but I don't want it thank you any way<br> :date: __2020-12-23 09:14:11__
@@ -205,8 +207,6 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 > I like that you can do that<br> :date: __2020-10-05 21:26:45__
 
 > I like it ! Thank you<br> :date: __2020-09-23 03:29:35__
-
-> Works for me lol<br> :date: __2020-09-08 12:59:02__
 
 
 
@@ -300,8 +300,6 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 <img src="1_star_reviews_wordcloud.png" alt="gov.cdc.general 1 reviews"/>
 </p>
 
-> Taking millions doing wrong procedures<br> :date: __2020-11-28 02:58:02__
-
 > Think they have a virus<br> :date: __2020-11-19 01:08:32__
 
 > It is useless<br> :date: __2020-11-11 22:56:21__
@@ -319,5 +317,7 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 > Slow and wrong information.<br> :date: __2020-08-23 14:09:31__
 
 > All it does is white screen<br> :date: __2020-08-16 19:13:23__
+
+> Racist fear mongering app<br> :date: __2020-08-08 17:44:06__
 
 

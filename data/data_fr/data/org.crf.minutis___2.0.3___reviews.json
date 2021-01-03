@@ -1,5 +1,17 @@
 [
     {
+        "reviewId": "gp:AOqpTOFpyxtrr8SB-6r90lWYD6UnSi9NIKpxekLSGUi-hQl39xeJ1iXy_dHcnKyExaqGuTAu5qu9k9mhnhRK3A",
+        "userName": "R\u00e9mi Xavier",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhRQvJrQLl2lpOgp7uQXRKjOg2RskpmPpNChP0B",
+        "content": "C'est bon l'app reconna\u00eet enfin mon id CRF. Probl\u00e8me r\u00e9solu \ud83d\udc4d\ud83c\udffb",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.0.3",
+        "at": "2020-12-31 11:15:17",
+        "replyContent": "Bonjour, c'est gr\u00e2ce \u00e0 votre identifiant Intranet/Pegass que vous pourrez vous connecter. N'h\u00e9sitez-pas \u00e0 contacter support.minutis@croix-rouge.fr afin que nous puissions vous aider dans votre premi\u00e8re connexion \u00e0 Minutis Mobile. Bien \u00e0 vous. L'\u00e9quipe Minutis.",
+        "repliedAt": "2020-12-30 14:51:40"
+    },
+    {
         "reviewId": "gp:AOqpTOHbXzYkVu1LmTRJuV7XfTXEqsgvfInA4v8gsS_S65GPt4fZhZj7hXZ_vXfEW8bSZ_CjvqOdcLGmSUboWQ",
         "userName": "Ali Mohammadi",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgzQB7vt_tFVaip92LMea1zoyi-pYnlOrAEMAMF",
@@ -8,8 +20,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "2.0.3",
         "at": "2020-10-30 07:02:27",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Bonjour, pour vous connecter \u00e0 l'application vous devez utiliser les identifiants de votre compte b\u00e9n\u00e9vole Croix-Rouge ou ceux fournis par un responsable (dans le cadre de l'int\u00e9gration de partenaires ext\u00e9rieurs). Contactez-nous \u00e0 support.minutis@croix-rouge.fr afin que nous puissions vous aider. Bien \u00e0 vous. L'\u00e9quipe Minutis.",
+        "repliedAt": "2020-12-30 14:54:26"
     },
     {
         "reviewId": "gp:AOqpTOHnVoa6S-SFAnd1YRVyFwdFOLAkk9M0nSCIjcla0Tted8RsQJs-GLjZZ9RdYaIusQGw0ccvxuG4CU2Kag",
@@ -86,7 +98,7 @@
     {
         "reviewId": "gp:AOqpTOGVWWmgA8NEfW-F4FOT3n_uox-2Hw3kwIQAtNhBQu3m2Lv77t5w7hHQwrPLVWl86KPC5bpDZZcIiLltiQ",
         "userName": "Urgence secours 49",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiJwGkUe7coGeCIqTA1sIia5O4vD_d7Sr25J2Mzn-o",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gip8eI9zxV9qdXS3Vx2xOuu6ZwsZbe4tbKL2Bj0uw0",
         "content": "Comment on fait pour se connecter \u00e0 l'application quand on a pas de compte",
         "score": 2,
         "thumbsUpCount": 10,

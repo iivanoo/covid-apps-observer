@@ -128,6 +128,8 @@ The COVID Control - A Johns Hopkins University Study app has been installed by m
 <img src="5_star_reviews_wordcloud.png" alt="jhu.edu.JohnsHopkinsCOVIDControl 5 reviews"/>
 </p>
 
+> Great<br> :date: __2020-12-29 00:37:43__
+
 > Good health<br> :date: __2020-12-24 12:40:17__
 
 > interesting ...as a first responder, glad you re doing this!<br> :date: __2020-07-24 16:59:16__

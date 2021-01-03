@@ -1,5 +1,17 @@
 [
     {
+        "reviewId": "gp:AOqpTOEokBAimbmxKVQ10k266xhZrRL7SPltSeHHtIxtMTilUyNlIDzkZUkqPdl3pe4y_b1wG23VmwlshM0fqw",
+        "userName": "Kevin Stephanski",
+        "userImage": "https://play-lh.googleusercontent.com/-ofdG7fwj8lc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucno-9VCFVB7Ypm9Isae7ubjI0HIbQ/photo.jpg",
+        "content": "Simple and effecient way to meet with your doctor and councilor.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "12.0.16.005_01",
+        "at": "2020-12-31 16:25:01",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOGdZwxr0fIJELBy7Vn1ZhNpCEwmY1wxgcRA5b9GyLrPB4QwZ8qebsjJ6PE536AIOVxMpKnVsQzWA4k3Gg",
         "userName": "Daryl Smith",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjsvMvSYaxODpETusvl9Zg4719QFkEHfjPUTlQUrA",
@@ -29,7 +41,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-1FPOROMK65Q/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnnlxfDFY2kKZpvL4BdUr-ZuCnKaQ/photo.jpg",
         "content": "It's the next best thing. Horizon is an amazing co. With a lot of great services and a great staff",
         "score": 5,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "12.0.16.005_01",
         "at": "2020-12-08 19:10:20",
         "replyContent": null,
@@ -197,7 +209,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-IMawyHwAWFk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckY5m3pAgKnfeACLbvNrK6O8f1JFQ/photo.jpg",
         "content": "I've been using Horizon Telehealth for almost a year now because my original nurse with Horizon was a snow bird & she spent her winter's in Florida. I used to go right to the Horizon site and sign-in to Telehealth but found I actually prefer doing my visits this way! So far I've had very few very minor issues with this app so 5 stars all the way!",
         "score": 5,
-        "thumbsUpCount": 1,
+        "thumbsUpCount": 2,
         "reviewCreatedVersion": "12.0.13.005_01",
         "at": "2020-10-07 23:02:20",
         "replyContent": null,

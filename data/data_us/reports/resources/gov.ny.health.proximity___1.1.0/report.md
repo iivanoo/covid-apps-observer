@@ -150,6 +150,10 @@ The COVID Alert NY app has been installed by more than **500000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="gov.ny.health.proximity 5 reviews"/>
 </p>
 
+> Great<br> :date: __2021-01-03 06:40:17__
+
+> Great resource for dealing with COVID<br> :date: __2020-12-29 04:01:05__
+
 > Worked good!<br> :date: __2020-12-28 01:28:59__
 
 > This is a good àpp<br> :date: __2020-12-25 06:59:02__
@@ -165,10 +169,6 @@ The COVID Alert NY app has been installed by more than **500000** times. At this
 > great app<br> :date: __2020-12-17 06:38:18__
 
 > Great for following the COVID19 infection rate in my area, tracking my wellness or potential symptoms every day and for information relevant to COVID19.<br> :date: __2020-12-17 01:37:00__
-
-> COVID Alert NY, New York State Department of Health.<br> :date: __2020-12-16 22:52:02__
-
-> Nice, easy and important<br> :date: __2020-12-14 23:01:08__
 
 
 
@@ -206,6 +206,8 @@ The COVID Alert NY app has been installed by more than **500000** times. At this
 <img src="3_star_reviews_wordcloud.png" alt="gov.ny.health.proximity 3 reviews"/>
 </p>
 
+> The closeness sensing won't work if your phone is in battery saver mode (at least with my phone). If your Bluetooth + location are both on and you're still getting errors, try turning off battery saver/power saving mode.<br> :date: __2021-01-01 17:15:03__
+
 > It's okay but I feel I get no notifications when I'm close to an area that is COVID popular region.<br> :date: __2020-12-26 16:34:11__
 
 > Just tested positive. Tried to send a notification to all codes I've come into contact with and app requires 6 digit code from a contact tracer. 1. So I'm going to sit here not being able to notify anyone until a contact tracer calls me? A day can mean the difference between life and death. 2. Give us the option to edit our symptoms today. I usually do it in the morning but developed a symptom this afternoon but it was too late, I had already submitted for the day.<br> :date: __2020-12-16 00:34:53__
@@ -224,8 +226,6 @@ The COVID Alert NY app has been installed by more than **500000** times. At this
 
 > Wish this had an "I tested negative" button for people with symptoms that turn out to be unrelated. Also, I suspect this gives a false sense of security--the main threat is people who don't take this seriously. Those people aren't using this app.<br> :date: __2020-11-05 06:37:55__
 
-> Tells you that you may have covid if you report one symptom. Useless.<br> :date: __2020-11-05 05:28:25__
-
 
 
 #### 2-star reviews
@@ -237,8 +237,6 @@ The COVID Alert NY app has been installed by more than **500000** times. At this
 > Lacking in functionality to inform users... Doesn't link outside the app to get additional up-to-date information and directives from government agencies.<br> :date: __2020-12-20 23:49:39__
 
 > No one likes using it for personal health reason. It doesn't go off when needed, because of low membership.<br> :date: __2020-12-16 17:56:59__
-
-> If only 500k+ downloaded the app, and are using it🤔, how is there going to be accurate statistics. Also, shouldn't the whole population be counted instead of people who are tested???<br> :date: __2020-12-16 14:12:33__
 
 > The app is good but the contract tracers aren't using it.<br> :date: __2020-12-11 18:06:29__
 
@@ -254,6 +252,8 @@ The COVID Alert NY app has been installed by more than **500000** times. At this
 
 > This app in no way lets u know if you have been in contact with covid<br> :date: __2020-10-30 18:24:06__
 
+> IMO, this is something which should be done on a national platform, and incorporated into Google, so all smartphone users have this information. Instead, this app is quite large, not moveable to the SD card, and forces you to use Bluetooth more often than is wise... not only for battery life, but vulnerability issues. Also, the "questionnaire" of daily symptoms blows quite the dog whistle, flipping out over a stuffy nose, practically equating it with a positive COVID diagnosis. Too many bugs to be worked out for my liking... sorry. Uninstalled.<br> :date: __2020-10-20 07:43:45__
+
 
 
 #### 1-star reviews
@@ -262,24 +262,24 @@ The COVID Alert NY app has been installed by more than **500000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="gov.ny.health.proximity 1 reviews"/>
 </p>
 
+> This world is becoming more and more like Nazi Germany everyday. Hebrews 10:25<br> :date: __2021-01-03 06:49:56__
+
+> Big brother go away reeeeeee<br> :date: __2021-01-02 02:14:35__
+
+> Useless Doesn't do anything.<br> :date: __2021-01-01 07:37:14__
+
+> I installed this months ago. I have yet to get any notifications. I guess it's busted.<br> :date: __2021-01-01 03:52:00__
+
+> FRAUD!!!!!<br> :date: __2020-12-31 22:07:10__
+
+> Pointless<br> :date: __2020-12-31 20:21:37__
+
+> Totally useless app.<br> :date: __2020-12-28 21:36:59__
+
 > Useless.. i work doing COVID testing have yet to have the application alert me of a contact, yet I see many people every day who have tested positive.<br> :date: __2020-12-28 03:36:13__
 
 > This app needs far too many permissions and it's a very heavy drain on the battery.....<br> :date: __2020-12-27 02:15:56__
 
 > I give it 1 star and a thumb up, that's for all information you can find on this app. But I can't give more stars because the most important feature of this app is to let others know that you get tested for Covid, but it doesn't work! The code you are supposed to get from a Trace worker doesn't work, so the app can't (anonymously) send out important information and contact other people or their devices... (I reinstalled the app, turned of/on bluetooth, and tried multiple codes = nothing worked)<br> :date: __2020-12-26 18:45:12__
-
-> I'm a part time uber driver and food truck employee & this app definitely does not work. I deal with hundreds of people on a daily basis. And I never gotten a notification,, either people are lying or contact tracing does not work and a waste of tax paper money<br> :date: __2020-12-26 17:14:31__
-
-> I caught covid. I updated my info in the app as I went along. Even though my employer let me know I was positive, I didn't get a call from the DOH for 10 days. By the time I did it was too late for them to bother with contact tracing. So there was nothing they wanted to do with the app. Literally the app was useless! I couldn't notify the app, or through the app, and they never used it. (Yes, I notified people I knew I had contact with.)<br> :date: __2020-12-23 01:41:13__
-
-> Intrusive and useless<br> :date: __2020-12-20 19:16:12__
-
-> there is no way to notify anyone if you contract covid. the app instructs to enter a code provided by someone who will call if ur test is positive. nobody called, not even after i sent a note asking for help. its now been 10 days since my PCR lab report. whats the point of building and releasing this and asking people to use it if the data isnt ever going to be used for anything? im just going to uninstall it cos its just eats my battery for no public benefit.<br> :date: __2020-12-20 10:09:49__
-
-> The installation is not mandatory, so the app is pretty much just placebo.<br> :date: __2020-12-19 23:56:42__
-
-> App does not work. Never alerted to exposure , when I know for a fact I was exposed<br> :date: __2020-12-19 03:59:01__
-
-> I just get an error to check my network connection (which is fully functional), and it won't finish setup. I've tried downloading and installing multiple times over a couple months. Oh well.<br> :date: __2020-12-17 20:29:34__
 
 

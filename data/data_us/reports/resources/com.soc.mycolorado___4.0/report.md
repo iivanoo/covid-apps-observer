@@ -186,6 +186,10 @@ The myColorado app has been installed by more than **10000** times. At this time
 <img src="5_star_reviews_wordcloud.png" alt="com.soc.mycolorado 5 reviews"/>
 </p>
 
+> It would not work on my phone. But then I got a new, better phone where it works fine.<br> :date: __2021-01-02 06:04:30__
+
+> Easy to use<br> :date: __2020-12-29 18:47:12__
+
 > Really like this. In this day and age of technology and convenience, this is awesome.<br> :date: __2020-12-21 16:14:02__
 
 > Very helpful<br> :date: __2020-12-20 00:00:25__
@@ -201,10 +205,6 @@ The myColorado app has been installed by more than **10000** times. At this time
 > I am so elated and glad of the fact that I can no longer loose my ID.<br> :date: __2020-12-15 06:08:30__
 
 > Thank goodness this is a thing now!!!<br> :date: __2020-12-13 23:46:31__
-
-> It's better than the physical ID. The clarity is amazing!<br> :date: __2020-12-12 06:47:27__
-
-> Only 4 stars because the facial recognition camera is to sensative everything else offered is fantastic<br> :date: __2020-12-09 16:17:30__
 
 
 
@@ -242,8 +242,6 @@ The myColorado app has been installed by more than **10000** times. At this time
 <img src="3_star_reviews_wordcloud.png" alt="com.soc.mycolorado 3 reviews"/>
 </p>
 
-> Not bad, the only thing I have against it is that you can't update your phone number or email I put it in wrong number and now there is no way to change it<br> :date: __2020-12-22 02:32:42__
-
 > THIS APP IS HARD TO SET UP AND IT KEEPS REDIRECT ME .BUT NOT LETTING ME LOG IN<br> :date: __2020-12-21 09:32:36__
 
 > This app saved my life but now it keep saying retry otp and now I can't use it for my I'd. How I'm supposed to buy my essential things with no I'd!<br> :date: __2020-09-25 20:54:47__
@@ -261,6 +259,8 @@ The myColorado app has been installed by more than **10000** times. At this time
 > Had to use my sister's phone to scan my I.D., for whatever reason, my phone wouldn't scan, but other than that, I like this app..<br> :date: __2020-06-01 02:31:47__
 
 > It ok needs improvement on application<br> :date: __2020-05-08 05:29:35__
+
+> I am giving some stars based on the potential for being walletless. Using this in lieu of my driver's license would be game changing. I am taking off the same number of stars because I can't do this yet.<br> :date: __2020-05-04 03:17:40__
 
 
 

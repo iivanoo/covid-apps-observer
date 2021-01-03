@@ -210,6 +210,16 @@ The Service NSW app has been installed by more than **1000000** times. At this t
 <img src="5_star_reviews_wordcloud.png" alt="au.gov.nsw.service 5 reviews"/>
 </p>
 
+> This app works really well. With respect to the COVID registration - when asking for dependents, is it possible to add a drop down list to store names and phone numbers? It needs to be editable.<br> :date: __2021-01-03 04:46:37__
+
+> Excellent Services NSW Thanks<br> :date: __2021-01-01 10:37:38__
+
+> love it so much<br> :date: __2020-12-31 03:37:19__
+
+> 3rd<br> :date: __2020-12-31 01:27:46__
+
+> Even though this is a Government app it has been kept relatively simple. Older folk will have trouble due to fomu.<br> :date: __2020-12-30 01:33:36__
+
 > Good<br> :date: __2020-12-26 07:24:32__
 
 > Is no working the QR. now it's working fine. Thanks<br> :date: __2020-12-26 00:42:27__
@@ -220,16 +230,6 @@ The Service NSW app has been installed by more than **1000000** times. At this t
 
 > Excellent service.<br> :date: __2020-12-21 08:20:27__
 
-> Satisfactory<br> :date: __2020-12-17 23:43:55__
-
-> Simple to use, it's very helpful<br> :date: __2020-12-17 11:04:49__
-
-> Good App that lets me check licence and registration<br> :date: __2020-12-17 10:51:55__
-
-> A Good app<br> :date: __2020-12-17 08:59:46__
-
-> Very good app and useful as well .cheers I love it<br> :date: __2020-12-17 07:03:27__
-
 
 
 #### 4-star reviews
@@ -237,6 +237,10 @@ The Service NSW app has been installed by more than **1000000** times. At this t
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="au.gov.nsw.service 4 reviews"/>
 </p>
+
+> Can't wait to use this app<br> :date: __2021-01-02 01:49:03__
+
+> Excellent<br> :date: __2020-12-30 07:06:36__
 
 > With Service NSW QR codes about to become mandatory, I'd like to see the following things to come up to five stars: - a widget to create a shortcut on your home screen directly to the QR check-in function - a persistent notification while you're checked in somewhere with a shortcut to check out - ability to save details of frequent companions so that you can quickly and easily check them in with you.<br> :date: __2020-12-28 05:40:57__
 
@@ -254,10 +258,6 @@ The Service NSW app has been installed by more than **1000000** times. At this t
 
 > Current HTC phone with updated Android OS. This app appears to auto update, ignoring the settings to not do so on the phone. This then crashes the badly written app for managing my hearing aids and needs a 40 minute process to remove and reinstall the hearing aid app and reset the hearing aids.<br> :date: __2020-12-11 23:05:42__
 
-> It was ok<br> :date: __2020-12-11 22:53:12__
-
-> Good<br> :date: __2020-12-11 22:34:44__
-
 
 
 #### 3-star reviews
@@ -265,6 +265,16 @@ The Service NSW app has been installed by more than **1000000** times. At this t
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="au.gov.nsw.service 3 reviews"/>
 </p>
+
+> Like a NAVMAN,People spoke of this service in the50,s<br> :date: __2021-01-02 22:08:23__
+
+> Unable to load it in either Forbes Hay Balranald<br> :date: __2021-01-02 09:14:10__
+
+> icon<br> :date: __2021-01-02 03:02:28__
+
+> ,,,,,,. ,,,,,,,,,,,,. ,,,,,,,<br> :date: __2021-01-01 00:11:07__
+
+> Please add an option to add the NSW Photo ID card in the app so that it is more convenient.<br> :date: __2020-12-31 04:10:06__
 
 > Problematic in use<br> :date: __2020-12-24 05:51:22__
 
@@ -276,16 +286,6 @@ The Service NSW app has been installed by more than **1000000** times. At this t
 
 > Service NSW covid safe app uses NSW time but Broken Hill in FW NSW is on SA time so the times recorded are 1/2 out.<br> :date: __2020-12-20 01:15:25__
 
-> It takes too long to open the app, wait for it to load, then eventually find the COVID check-in section, all while people are queueing behind you! Please include a long-tap shortcut that immediately opens the scanner section without all this rigmarole.<br> :date: __2020-12-18 21:54:57__
-
-> I have uninstalled & installed again hoping it will work now Thanks<br> :date: __2020-12-18 03:12:53__
-
-> Not working right<br> :date: __2020-12-11 11:18:49__
-
-> the old app was good and easy.but getting used to it.<br> :date: __2020-12-11 11:04:24__
-
-> Unnecessarily convoluted but useful<br> :date: __2020-12-11 07:36:30__
-
 
 
 #### 2-star reviews
@@ -294,25 +294,25 @@ The Service NSW app has been installed by more than **1000000** times. At this t
 <img src="2_star_reviews_wordcloud.png" alt="au.gov.nsw.service 2 reviews"/>
 </p>
 
+> Poor<br> :date: __2021-01-02 16:30:22__
+
+> Doesn't auto checkout when you scan the next code... just rechecks in to the first place you scanned. So I went through a whole day checking in to the same restaurant 10 times!<br> :date: __2021-01-02 08:01:50__
+
+> The app is difficult to access I have an Android phone and the email address and my usual password don't work I will have to yes a laptop computer to allow a password change.<br> :date: __2021-01-02 06:20:13__
+
+> Use to be able to all sort of thing on this app, even do a notice of disposal. Now every transaction is gone, replace with checking demerit point and pay fine. Totally useless. Bring back notice of disposal, rego check, easy services like that will be tremendously useful<br> :date: __2021-01-02 05:03:40__
+
+> Try as I might I could not change back from my sisters account to mine. Thus no dig DL or QR code camera FOR ME.<br> :date: __2021-01-02 00:33:20__
+
+> Not good<br> :date: __2020-12-31 09:57:58__
+
+> While the app is easy to use the check in and check out function for covid does not allow you to use any other phone features. If you make a call or search something online then switch back to the app it has automatically reset itself to welcome screen. This means for covid you need to keep a record of when you leave places.<br> :date: __2020-12-31 01:54:51__
+
+> Tried to use this app today in Tarago NSW. Was able to download using wifi, but hit a roadblock because I had no mobile signal so couldn't receive the code sent via sms.<br> :date: __2020-12-30 07:50:44__
+
 > The covid checkin will not on Oppo A57 it is definitely service Nsw QR Code. It works fine on my Samsung Galaxy note 7. Can you update for Oppo??<br> :date: __2020-12-27 09:40:51__
 
 > Scanned the icon successfully the other day. Since then,am asked for a pin # and doesn't accept any I input<br> :date: __2020-12-22 06:14:34__
-
-> I have only used it to check into the RTA but it worked<br> :date: __2020-12-22 00:49:50__
-
-> Buggy - won't link my licence.<br> :date: __2020-12-20 10:30:38__
-
-> Nothing works. Never recognises my email or password. Can't find my licence or where to add it<br> :date: __2020-12-20 07:20:28__
-
-> It will not read QR codes says they are not gov codes when the are. So useless for that<br> :date: __2020-12-20 05:22:46__
-
-> Ok have tried to down load the covid app now for many weeks. It always tells me that something went wrong at their end and will not complete. IF YOU WANT US TO USE IT , FIX IT.<br> :date: __2020-12-19 02:00:27__
-
-> I have poor internet service by the time i get the code the app wont accept it even though its about 10 to 20mins . I give up. Will see if i can actually speak to someone.<br> :date: __2020-12-18 11:17:18__
-
-> The number of businesses that have a different scan are too many. This one doesn't register.<br> :date: __2020-12-18 03:07:54__
-
-> This app was so useful, even just the times I had forgotten to take my wallet with me. Although, I'm unsure if it's an app update or something on my end but the app no longer works at all. When I try to log in I get a message that says " It looks like your device may be using non-standard software" I have the same SG20+ & it definitely has the original OS, doesn't have any ROMs, and has been certified by Google. I'd love for someone to point me in the direction of how to fix this, Thank you :)<br> :date: __2020-12-12 03:20:16__
 
 
 
@@ -322,24 +322,24 @@ The Service NSW app has been installed by more than **1000000** times. At this t
 <img src="1_star_reviews_wordcloud.png" alt="au.gov.nsw.service 1 reviews"/>
 </p>
 
-> Inaccessible. Allows drivers licence scan, but not photo id or any disability related info. In other words it neglects us. Typical nsw govt attitude. QR codes are not accessible to people with vision loss . No alternative. Typical nsw govt. Also you Put fishing licences above anyone with photo id. Poor priorities there. Both are easy to set up but you ignore disabled people. Your IT people should have a long hard think. Equity must be addressed.<br> :date: __2020-12-28 11:20:51__
+> Covid check wont work for me either (despite several people trying to make it work for me), same issue as described by previous comments, it is looking for more info e.g. mobile phone number but there is no where to enter those details.<br> :date: __2021-01-03 11:15:55__
 
-> Tried using the app DOESN'T WORK tried multi times.<br> :date: __2020-12-28 05:07:43__
+> Awful. I can find it on the phones<br> :date: __2021-01-03 11:07:43__
 
-> Doesnt allow me to put in code..must put email again..then code is invalid<br> :date: __2020-12-28 02:22:23__
+> Why can't I install this nsw app?<br> :date: __2021-01-03 09:40:03__
 
-> Why would I give this nsw covid app access to my phone photos, storage files. Piss off<br> :date: __2020-12-27 23:16:46__
+> All I wanted was to install QRcode<br> :date: __2021-01-03 05:44:03__
 
-> Too hard for seniors to download. We Ness easy prompts to follow. Don't know if it's ready to use or not<br> :date: __2020-12-27 19:00:59__
+> Tried many times to download the app. Got as far as Nsw app will download soon but it never does. Why do we have to go through a third. Party to det the app. Why cannot we download from the nsw gov site?<br> :date: __2021-01-03 05:17:46__
 
-> Does not work<br> :date: __2020-12-27 11:01:34__
+> In cafe Can't scan code. It doesn't take me to another fill in form. Android Nokia<br> :date: __2021-01-03 04:45:55__
 
-> Asked me for a 'strong' password. One that I won't remember, probably. I'm only registering to check in for COVID, not to access financial personal info! You had already verified my email. What more do you need? So, no thanks, Service NSW. I used the web form which was quick and painless and only wanted my name and phone number.<br> :date: __2020-12-27 07:24:50__
+> Won't work asks for my mobile number 5o be entered which it is asks for my name which is there , even tells me I have account everything is linked but still Won't scan<br> :date: __2021-01-03 04:37:07__
 
-> Ap wont download. 3rd attempt. Waste of time.<br> :date: __2020-12-26 21:06:33__
+> Can't find the Covid check in functionality<br> :date: __2021-01-03 04:12:31__
 
-> Wouldn't up load<br> :date: __2020-12-26 03:31:39__
+> I want to be able to access this from my homescreen<br> :date: __2021-01-03 02:30:23__
 
-> Covid safe checkin never works for my mobile Samsung gslaxy with latest android. Every time i have to record my details manually.<br> :date: __2020-12-24 12:10:40__
+> This app is absolutely USELESS .Brand new android phone loaded QR app, scanned follow prompts and will not check in at all .. Reloaded App, tried everthing still not working ..Very frustrating ..POOR EFFORT Services NSW ..Make sure your system works on all plat forms before forcing it on everyone .<br> :date: __2021-01-03 02:28:01__
 
 

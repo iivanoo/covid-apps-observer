@@ -1,13 +1,157 @@
 [
     {
+        "reviewId": "gp:AOqpTOGJE7cxlx1386Fy8yqYPjVrN6O_RPU3gdQQ2FmVhYHVdCeb1SAuMGlaImA4i2yjHTynAzUGT76tDRvaYw",
+        "userName": "Richard White",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiTkuEnDSQwTy975Y_2P18jENBWazy7c7phhcygSw",
+        "content": "Lack of clear instructions for new users. Lack of clarity as to what to do when alerted. No facility to indicate failure to contact helpee. Ear splitting siren alert. Responder photo spuriously rotated by 90 degrees. Poor graphics on responder der map - much too large. Code of conduct is incorrect for repurposed usage of the app and assumes physical attendance - also requires acknowledgement to a statement I cannot comply with to use app.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "12.6",
+        "at": "2021-01-03 11:37:38",
+        "replyContent": "Dear Richard, you should have received various email with the guides and instructions, please look at your sign up emails, furthermore please look at our portal which has a tone of materials and guides: https://nhsvolunteerresponders.org.uk (Pretty much all of your questions are answered in the guides, please read them).",
+        "repliedAt": "2021-01-03 13:42:38"
+    },
+    {
+        "reviewId": "gp:AOqpTOHGMVzwvF41_IFNSGm0eLdiv0VQbP2kRNK2EtImCYy-NxwpdYbhWWXiGSxQBqBaKDZj6cwgiWIm3A-mYA",
+        "userName": "Jan Schwarz",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgDzO8Z0dovFgBlN0ELhcfs2TAe-uFEWAWsVQv2W3Q",
+        "content": "Location update not working in the background (Android 11, Samsung S20), always getting alerts for emergencies 25mi away. It seems Android 11 isn't allowing an app anymore to ask for permanent background location permissions at point of installation. You have to go in the android apps settings and activate it manually.",
+        "score": 2,
+        "thumbsUpCount": 4,
+        "reviewCreatedVersion": "12.6",
+        "at": "2021-01-03 10:50:40",
+        "replyContent": "Dear Jan, the app strictly ask for permissions to run in the background, if the users rejects these permissions the app would not be able to run in the background. Please make sure the app is allowed to run in the background and is not killed by \"Battery Optimisation\" applications which you may have installed. Thank you",
+        "repliedAt": "2021-01-03 02:39:51"
+    },
+    {
+        "reviewId": "gp:AOqpTOGDYVgkc7c7zHHeK4csGN5BScXpkz1TMH-4yW2nBEBpE1vRW-hioQFAnqj1V6X15S3f9YspH766jRU_Rw",
+        "userName": "Kate Holden",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhIwhvon8q_srYE6rqMEIHu01mOC9WbnOFXcsky9Q",
+        "content": "Absolute rubbish! Can't even register it keeps saying an email has been sent when I didn't even put my email address in anywhere and there is nothing in my emails including my spam, so I deleted the app and re installed it, tried again with an email address this time and it says you already have an account and to go to email to accept. But there is NO EMAIL! So frustrating!",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "12.6",
+        "at": "2021-01-01 20:11:44",
+        "replyContent": "Thank you for your kind words Kate. You can ask for a password reset link here: https://www.goodsamapp.org/login\nwe can not send you a password reset link if you type your email wrong, so please don't leave the email field blank and please make sure its typed in correctly.",
+        "repliedAt": "2021-01-03 02:47:49"
+    },
+    {
+        "reviewId": "gp:AOqpTOG5aVuUx96m4D8jzS49ryRhsz1cLKNeZvw5uHzHmrJIfS5VdAEjZc35Mc3ndxfgkrlYqpiKr5HBRXX27Q",
+        "userName": "Alan",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gjvd52JPNMsnEaTq9yENP9H0S7hATud4SiRd6qP-w",
+        "content": "STILL UNABLE, to upload photos of new AEDs locations to the GoodSAM app this is after installing the latest version available. When trying to use a photo taken with a google pixel phone with all location accesses switch on, the GoodSAM app still says to use a picture with location services switched on. In the past, I've replied via email to yourselves about this issue, uploaded bug reports sent pictures and still awaiting your reply. The GoodSAM app still won't sync up with android auto.",
+        "score": 2,
+        "thumbsUpCount": 44,
+        "reviewCreatedVersion": "12.6",
+        "at": "2021-01-01 15:38:33",
+        "replyContent": "Dear Alan, in order to upload an AED, you need to take a photo with the location on. (And your photo library app needs to have access to your location to tag the photo.) We then use the geolocation information on the image to know where the AED is, without this, the app will not work because it would not know where the AED is located.",
+        "repliedAt": "2020-11-17 12:40:53"
+    },
+    {
+        "reviewId": "gp:AOqpTOGm5Ckca16IbRDSqSLcvIpMb8ySxG-kFheIoewLrUoLRDaE_vVE60ipV2jhT1Pb9wzG3PkH0CLEfDHscw",
+        "userName": "stu moz",
+        "userImage": "https://play-lh.googleusercontent.com/-hefynWGaWD4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmhZEbRKbpCpngnjh10JFOzCLBQ0Q/photo.jpg",
+        "content": "UPDATE! Since couple of bug fixes - slightly improved, but my 'On Duty Hours' only increase when marked \"off duty\" on the toggles. Still unable to load AED's.",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "12.6",
+        "at": "2020-12-31 12:02:28",
+        "replyContent": "Hi Stu, sorry to hear this. Have you switched your organisation recently? The material, content and reports depend on your parent organisation and the tasks/alerts which you have fulfilled for them. If you change your organisation, they will reset and adapt.",
+        "repliedAt": "2020-09-09 23:13:55"
+    },
+    {
+        "reviewId": "gp:AOqpTOGWEsFowvzde0Uji9t17W0_quHNaTO3IpA4XwSnaAxONwC9fDrBP1SDBhsDldqFmnFD6ZGhjiT0ILfESA",
+        "userName": "Carol Ambrose Ambrose",
+        "userImage": "https://play-lh.googleusercontent.com/-uJp30GQsr5A/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmOuwcBVPIydMESNBhcpA2opGSq0Q/photo.jpg",
+        "content": "Swift reply",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "12.6",
+        "at": "2020-12-30 22:08:38",
+        "replyContent": "Dear Carol, please have a look at the \"Notifications and sound\" section under our FAQ: https://www.goodsamapp.org/faq (Please follow the guides and send yourself a test notification to test notifications.)",
+        "repliedAt": "2020-12-30 13:24:50"
+    },
+    {
+        "reviewId": "gp:AOqpTOEcQtVQ8e6Jm9sd59T5IIevO7kv2Ux5BuGR99FG1No00nNqLZ6LzJFaw_-3z5tavWbN__FHA3hnCXnNEg",
+        "userName": "Lena Moreton",
+        "userImage": "https://play-lh.googleusercontent.com/-09Qhd13QeE4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmsShWhPDvZa4dDYtRDSfGEX7Lb5g/photo.jpg",
+        "content": "I haven't had contact for over s week and when i go into app says wrong email address !also no siren before that and missed several requests. Not contacted very often. Sometimes people dont need any help.",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "12.6",
+        "at": "2020-12-30 19:12:30",
+        "replyContent": "Dear Lena, you need to be logged in to the app and have it running in order to receive tasks/alerts, by the sound of it you are not logged in? Also the referrals put into the system by the NHS staff can be weekly, monthly ect... its perfectly fine for people to not need anything at times. Hope that helps!",
+        "repliedAt": "2021-01-03 02:53:28"
+    },
+    {
+        "reviewId": "gp:AOqpTOGqSVfZ9MMAaNVwkCAC4SkuCeMPe5HvyHYbLqCWH58vRlSDtxwGbZMNoLdU4_r4uXS_LBBiM6mL3_MMzQ",
+        "userName": "lee barber",
+        "userImage": "https://play-lh.googleusercontent.com/-BYlEkXXsmME/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmVCxWfp4mWnMO7ysVZxrDdLBWA3w/photo.jpg",
+        "content": "So complicated and unnecessary to use",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "12.6",
+        "at": "2020-12-30 14:24:01",
+        "replyContent": "Hi there, we have to comply with all the health and safety, governance and training rules. We also have to be able to provide audits for all the actions performed on the platform to protect the vulnerable and patients in need. Sorry if all of the above make the process more complicated than what we wish to have.",
+        "repliedAt": "2021-01-03 02:50:23"
+    },
+    {
+        "reviewId": "gp:AOqpTOECIRdoS9nxsiZExPPtvyf6XH76qPd9mduVHJ-X-Ox1XYCm2u45kh6_nYzERVxeH-aiIsrjsTYDs3aHPg",
+        "userName": "BlackMoorLuke",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh9J0UMDQhBLJRiEjEqOhtEXV2IKheaI8lwq5ZY",
+        "content": "Signed up for volunteering i get a notification for help when I click on accept the app goes blurry in the background and the connection just swirls and freezes ive checked permissions and location permissions in settings they are all on.Ive got a Samsung s10 the app works on my sons phone which is the s8 dont understand why its not working on my phone.",
+        "score": 1,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "12.6",
+        "at": "2020-12-29 18:06:21",
+        "replyContent": "Hi there, please make sure your device and Googles map application is up to date. Our app relies on the underlaying Android/Google core apps to function. Hope that helps!",
+        "repliedAt": "2020-12-30 15:44:48"
+    },
+    {
+        "reviewId": "gp:AOqpTOHrUHzBrMySqKmR-MLlHS5dvNojxon6C7EsZoGVf6qCqll8K7ldPNGF7pYDpkIDuoE3oy7I4BuYpJKhJw",
+        "userName": "Martin Davenport",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ghv_EyZul2ajbJsxj3RBB9Dmm-SZfeoVuoJ36kHsA",
+        "content": "When I access the map it get stuck and no response on the screen so can't escape. I have to uninstall and reinstall. This is on the samsung A40",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2020-12-29 14:54:52",
+        "replyContent": "Hi Martin, Please make sure your device and Googles map application is up to date. Our app relies on the underlaying Android/Google core apps to function. Hope that helps!",
+        "repliedAt": "2020-12-30 15:44:11"
+    },
+    {
+        "reviewId": "gp:AOqpTOGWEeWeCkUYiTTCUjzKXPtvcvNcdAeVzThQ7R2FdlfZZ8-7wOGtfkaPHIECkptWc-vyNPtR_eLSjUmw-g",
+        "userName": "Michael Obuchowicz",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgY-hm_qfq7KMuIART9oC1Ixp0Pv0TcmKgLRujsYw",
+        "content": "I am still not getting audio alerts on my app, which is essentail for what I use it for",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "12.6",
+        "at": "2020-12-29 00:45:00",
+        "replyContent": "Dear Michael, please have a look at the \"Notifications and sound\" section under our FAQ: https://www.goodsamapp.org/faq (Please follow the guides and send yourself a test notification to test notifications.)",
+        "repliedAt": "2020-12-30 13:23:30"
+    },
+    {
+        "reviewId": "gp:AOqpTOGlVy4jQe34fG2obTQDalBOxvwuRdyMeabMmwHpZF3wC2Hhzl9Za4vw3fKsOWMeMhqe1YXSGJO2qW5KTg",
+        "userName": "Richi Jennings",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjQZCxjdAjp4sqHkpxshY86IWzne3ELDUBMs2fLZg",
+        "content": "2701 hours on duty and not a single request",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "12.6",
+        "at": "2020-12-28 22:50:16",
+        "replyContent": "Dear Richi, whether you are alerted/tasked or not depends on the roles you have applied for, the organisation which you have choose to be under and the nearby tasks/needs. There isn't much we can do as the technology provider to please you in this case, sorry about that.",
+        "repliedAt": "2020-12-30 13:21:25"
+    },
+    {
         "reviewId": "gp:AOqpTOHBmBYUDH-rJCHzOU_R5HNRm-vlAHM_qCtfPRbheigKP8dXJ6MuRSL8wjwvJW9BhnHMPbrp7im3tcEMtQ",
         "userName": "James Burt",
         "userImage": "https://play-lh.googleusercontent.com/-8mxdj6-ZsVI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmntJJAGKx0QRAJyyY8Tl0DsQYkNw/photo.jpg",
-        "content": "The siren alert no longer works meaning I have missed several requests. Please fix this ASAP!",
+        "content": "I previously commented that the siren alert no longer worked meaning I had missed several requests. The sound now works when I change the notification sound but still doesn't go off when I simulate an alert. Still a 1 star review until this basic function is fixed.",
         "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "12.5",
-        "at": "2020-12-27 16:18:36",
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "12.6",
+        "at": "2020-12-28 18:25:42",
         "replyContent": "Hi James, thank you for the feedback, this was fixed earlier today, please update to the latest version of the app and that should resolve the issue for you! Thank you",
         "repliedAt": "2020-12-27 22:28:22"
     },
@@ -276,18 +420,6 @@
         "repliedAt": "2020-12-09 13:23:21"
     },
     {
-        "reviewId": "gp:AOqpTOG5aVuUx96m4D8jzS49ryRhsz1cLKNeZvw5uHzHmrJIfS5VdAEjZc35Mc3ndxfgkrlYqpiKr5HBRXX27Q",
-        "userName": "Alan",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gjvd52JPNMsnEaTq9yENP9H0S7hATud4SiRd6qP-w",
-        "content": "Still unable to upload photos of new AEDs locations to the GoodSAM app. I've replied via email and awaiting your reply.",
-        "score": 2,
-        "thumbsUpCount": 44,
-        "reviewCreatedVersion": "12.2",
-        "at": "2020-11-20 23:07:53",
-        "replyContent": "Dear Alan, in order to upload an AED, you need to take a photo with the location on. (And your photo library app needs to have access to your location to tag the photo.) We then use the geolocation information on the image to know where the AED is, without this, the app will not work because it would not know where the AED is located.",
-        "repliedAt": "2020-11-17 12:40:53"
-    },
-    {
         "reviewId": "gp:AOqpTOFlbnJ6YEhFGSw8gNWYrVsBxg8eybu7EWGmcuqkB-R9uAuVeCqkZnjbuisOHL3xuitYGHvPoJgJPRh0SQ",
         "userName": "TOM USHER",
         "userImage": "https://play-lh.googleusercontent.com/-FqaItsCVV1w/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnQPkS6KZ9EiCUScNQwr7rvFPEWxA/photo.jpg",
@@ -296,18 +428,6 @@
         "thumbsUpCount": 3,
         "reviewCreatedVersion": "12.2",
         "at": "2020-11-19 16:11:24",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOEcQtVQ8e6Jm9sd59T5IIevO7kv2Ux5BuGR99FG1No00nNqLZ6LzJFaw_-3z5tavWbN__FHA3hnCXnNEg",
-        "userName": "Lena Moreton",
-        "userImage": "https://play-lh.googleusercontent.com/-09Qhd13QeE4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmsShWhPDvZa4dDYtRDSfGEX7Lb5g/photo.jpg",
-        "content": "Not contacted very often. Sometimes people dont need any help.",
-        "score": 2,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "12.2",
-        "at": "2020-11-19 09:37:32",
         "replyContent": null,
         "repliedAt": null
     },
@@ -672,18 +792,6 @@
         "repliedAt": null
     },
     {
-        "reviewId": "gp:AOqpTOGm5Ckca16IbRDSqSLcvIpMb8ySxG-kFheIoewLrUoLRDaE_vVE60ipV2jhT1Pb9wzG3PkH0CLEfDHscw",
-        "userName": "stu moz",
-        "userImage": "https://play-lh.googleusercontent.com/-hefynWGaWD4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmhZEbRKbpCpngnjh10JFOzCLBQ0Q/photo.jpg",
-        "content": "Very poor app, signed up when first launched, my trust doesn't use this app, but when I've been out of area to trusts that do, response either next time I open the app, ( set to locate all time and always on data/ wifi) since update unable to load AED's (even with GPS data etc enabled) unable to use report tab (blank screen) and since update myself is duplicated 2 times that I can see. Bugs need fixing asa0",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "11.5",
-        "at": "2020-09-03 18:55:47",
-        "replyContent": "Hi Stu, sorry to hear this. Have you switched your organisation recently? The material, content and reports depend on your parent organisation and the tasks/alerts which you have fulfilled for them. If you change your organisation, they will reset and adapt.",
-        "repliedAt": "2020-09-09 23:13:55"
-    },
-    {
         "reviewId": "gp:AOqpTOFz7joYAkoOuOFyJnRj-TeIr4MrKkt_8PDJ4vORrMW3XQecfw8gfh5IVhQNkivUbmXzSWEUa37MV0A6yg",
         "userName": "Mark Baginski",
         "userImage": "https://play-lh.googleusercontent.com/-PB2zskmZ3_8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucljbPdCm4GyfzBRFCHV632m5zgWLQ/photo.jpg",
@@ -722,7 +830,7 @@
     {
         "reviewId": "gp:AOqpTOE13xdM14WDD6w-K4BbfBZetdeql9fnbNDZf1EDJpQifPyC6xroyK3LzWA1pIY3W7__q8Pjn9rfZPFPjg",
         "userName": "Carole Anne Benton",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GghTpiBYQPBFvEZoFR5Qc2vb-v8ImWjNWoYfRJy3w",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj14DmgbEiVSTc6U_hi6J8s6bRx4JZ_vUEDprq_uQ",
         "content": "Klaxton because someone miles away wants a phone call. Inappropriate.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -2582,7 +2690,7 @@
     {
         "reviewId": "gp:AOqpTOE2rkoXY8BFt0jDkovsqm5Rx8GNjlBHKvvih0JFJjM3htVUmocMZxiKjfmNZQPm_HCC8HU1ziX3gTI7mA",
         "userName": "Susan",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj1fl08JUlnMSaF9GYrkVlMuQx-skCBbUkQBvOr_aY",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GijoJw7nvLYiI9AwZSCkt_d7Cfog993a0XLpp-ck9U",
         "content": "My app is not responding at all. This is for Nhs Response please advise I have reported to Google.. Unfortunately no change..",
         "score": 5,
         "thumbsUpCount": 0,
@@ -2761,7 +2869,7 @@
     },
     {
         "reviewId": "gp:AOqpTOF4kXIEwxvH5aB2ecCCBMNMdZW4tWbprplv961VVlDhUyzNO7gZ1UWkbNw25d0JsnNw1G5Dt_9x1xCxug",
-        "userName": "Mark Dean",
+        "userName": "Mark de'Ath",
         "userImage": "https://play-lh.googleusercontent.com/-sPj--Cs_nC4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnl27TaC1YoybWQk5uaHOttUyhynw/photo.jpg",
         "content": "I have volunteered once, after having done the task and completed the \" with patient \" as advised I found that I could not move the \" Me \" page down to access all of the toggles. Phoned RVS who advised me to go to the technical communications page on the website..which does not seem to exist. Uninstalled and reinstalled. no change. So I am now either permanently on or off duty !",
         "score": 2,
@@ -8976,18 +9084,6 @@
         "repliedAt": "2019-08-19 13:29:37"
     },
     {
-        "reviewId": "gp:AOqpTOHGMVzwvF41_IFNSGm0eLdiv0VQbP2kRNK2EtImCYy-NxwpdYbhWWXiGSxQBqBaKDZj6cwgiWIm3A-mYA",
-        "userName": "Jan Schwarz",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgDzO8Z0dovFgBlN0ELhcfs2TAe-uFEWAWsVQv2W3Q",
-        "content": "Now fully working in the background. But please provide an option to change the alert sound to something more decent...",
-        "score": 4,
-        "thumbsUpCount": 4,
-        "reviewCreatedVersion": "9.2",
-        "at": "2019-08-19 15:38:58",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
         "reviewId": "gp:AOqpTOFbgQiXCvgcJHm8Ien5vpONgwWh19mhmZ_yPcGR10xWIrhMnfkggMgmFuPxZXQLt1TTF45QgaCFddr4fg",
         "userName": "j yeardly",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GivM4mXCGdJ6RTCjIqYXiYzMm7wwakwzzgczJ2b9w",
@@ -9830,7 +9926,7 @@
     {
         "reviewId": "gp:AOqpTOFi7-ciUnwEaUL5RWN8ARUKRscTb21iJzEzpU7rtOOtdavgAsGRWdm5g0i2amebdTLf-rZEvnAI2WFC1A",
         "userName": "Alex Lloyd",
-        "userImage": "https://play-lh.googleusercontent.com/-5eUCNiaLUaI/AAAAAAAAAAI/AAAAAAAAANE/AMZuuclnIPLCTgu16wdjRLDaSZJkQ0coaw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gilnt1kFGc5pQdlzSMDixMAzJ7NDiP2nJojZGX0gA",
         "content": "Doesn't work. The app says I've had five alerts for cardiac arrests, but it hasn't alerted me once",
         "score": 2,
         "thumbsUpCount": 4,

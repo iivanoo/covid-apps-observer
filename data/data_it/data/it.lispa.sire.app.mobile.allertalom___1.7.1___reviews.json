@@ -1,11 +1,23 @@
 [
     {
+        "reviewId": "gp:AOqpTOGHyN4nbxnZCFsbkpwOIXboXfY2SDPcnajZIXSM5D_H50DSb5AJYGVRxQhlHj_DSm0H24rjqJ066_ICAQ",
+        "userName": "Roberta Croci",
+        "userImage": "https://play-lh.googleusercontent.com/-6LOOktpJJZU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckIndMTo4IlrP5T_odsy-Vs2GqP5w/photo.jpg",
+        "content": "Era un'ottima applicazione, ora \u00e9 inutilizzabile. Mi si blocca all'accesso al questionario covid che non mi fa compilare n\u00e9 per me stesso n\u00e8 per gli altri componenti e non mi fa proseguire",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.7.1",
+        "at": "2021-01-01 17:37:11",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOHgdpEq20oPBcuFwKaHAV4B_ofXrdcmfLYb2hOt2fduK_3RNmItucBMWCsjWPpbx3jIJs4j7VMWVFaDiw",
         "userName": "Marco Perezzani",
         "userImage": "https://play-lh.googleusercontent.com/-0g3R20p1bWs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnOywI5s9MljoZ1BqH02K5NTZ0hHg/photo.jpg",
         "content": "Ti costringe a partecipare al questionario covid, per proseguire. Non funziona il tasto \"Non mi interessa\". Volevo essere informato sulle allerte della protezione civile. Le cercher\u00f2 altrove.",
         "score": 1,
-        "thumbsUpCount": 1,
+        "thumbsUpCount": 2,
         "reviewCreatedVersion": null,
         "at": "2020-12-24 12:07:27",
         "replyContent": null,
@@ -173,7 +185,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh4J0fogTEzcd9SDtGlR3UPJurpS9wOXc004FTs",
         "content": "Dopo l'ultimo aggiornamento non si apre pi\u00f9. Si inchioda ed esce la finestra che avvisa di riprovare. Avete voluto strafare per tracciare covid e compagni ed \u00e8 uscito un minestrone inutile e che non sapete maneggiare. Peccato, le allerte meteo erano interessanti. Disinstallata e amen.",
         "score": 1,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": null,
         "at": "2020-11-16 00:51:51",
         "replyContent": "Ciao Ginevra, siamo spiacenti che la tua esperienza non corrisponda alle tue aspettative. Se hai bisogno di assistenza scrivici a info.allertalom@ariaspa.it.",
@@ -221,7 +233,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-jtd-ZUX0oOA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclGdzA-Wycr5O5684neKeIhAKyprQ/photo.jpg",
         "content": "Abbastanza semplice e pratica ..... Ma mi domando..... ---- Serve a qualcosa ?????",
         "score": 3,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "1.7.1",
         "at": "2020-11-10 15:03:59",
         "replyContent": "Ciao Francesco, le informazioni raccolte incrociate con altri dati a disposizione di Regione Lombardia, permette di fornire all\u2019Unit\u00e0 Regionale di gestione della crisi elementi utili a localizzare le zone con maggior probabilit\u00e0 di ospitare un focolaio attivo, o a individuare la ripresa del contagio in zone considerate meno a rischio.",
@@ -413,7 +425,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-dtUF014Hgy0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclktqzf_mv9F_7cm5IDn87267Zi9g/photo.jpg",
         "content": "Dopo dopo aver portato pazienza per sei mesi, Devo dire che questa app non serve a nulla. Nulla \u00e8 consultabile per quanto riguarda le allerte. Ti obbliga ad accettare tutta una serie di privacy ogni volta che viene lanciata e l'unica cosa che puoi fare e compilare il questionario covid. Anche qui un disastro.... Non ti consente di compilare il questionario per te e ti obbliga a farlo per i familiari..per lo stato delle cose la ritengo inutile. Grazie",
         "score": 1,
-        "thumbsUpCount": 4,
+        "thumbsUpCount": 5,
         "reviewCreatedVersion": "1.5.0",
         "at": "2020-10-16 10:07:08",
         "replyContent": "Ciao Giuseppe, i nostri sviluppatori hanno individuato il problema e rilasciato un aggiornamento Ti ringrazio per la segnalazione e ti invito ad aggiornare l'applicazione all'ultima versione disponibile Se hai bisogno di ulteriore assistenza, scrivi a info.allertalom@ariaspa.it",
@@ -2870,7 +2882,7 @@
     {
         "reviewId": "gp:AOqpTOHykU4cVgcx-0zjBsfpRgLvZUQKy1AY0ycaIfWu2Ff-JJSsL4jg-Ht2asbAtV-wZCHLT2-c_Ub2ZS7YcA",
         "userName": "piero palaz",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhsKmEfasNBjPe5Gyw9R63mTfq0-OslBul1hPRSUg4",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgZb23gQtuef1o72CgSY0ZVG-wWCRkHTC_82G1jClo",
         "content": "Quando arriva un avviso apro l'app ma si blocca su una schermata bianca. Devo per forza chiuderla. Oggi 10/05 sembra tutto ok.",
         "score": 4,
         "thumbsUpCount": 0,
@@ -3132,18 +3144,6 @@
         "repliedAt": "2020-05-07 11:35:45"
     },
     {
-        "reviewId": "gp:AOqpTOEBlL09b2DW8ghls9H01BxMarkfN53862oqIWjcvQDRUkAg0--dZnR2lire5s6Ntocat7RRVGROzW2dJw",
-        "userName": "massimoelp massimoelp",
-        "userImage": "https://play-lh.googleusercontent.com/-HxHK9SENhhY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckyXfnitmTNQXU5NF59n6TGwLWHig/photo.jpg",
-        "content": "A che serve.....",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.6.0",
-        "at": "2020-05-07 02:52:36",
-        "replyContent": "Ciao Massimo, il vostro contributo, attraverso la funzionalit\u00e0 Cercacovid, serve ad alimentare una \u201cmappa del rischio contagio\u201d continuamente aggiornata.I dati vengono trasmessi all\u2019Unit\u00e0 Regionale di gestione della crisi per localizzare le zone con maggior probabilit\u00e0 di ospitare un focolaio attivo.Siamo spiacenti che non apprezzi le funzionalit\u00e0!",
-        "repliedAt": "2020-05-07 09:10:32"
-    },
-    {
         "reviewId": "gp:AOqpTOEDinSl5DRjDzLYV2n0UvLa1QHz4X1MyLFe9zWL5Rk--zt-SmG8PPmtp6e9T1GMco99fJqYiCcW1KmJtQ",
         "userName": "Marco Vallino",
         "userImage": "https://play-lh.googleusercontent.com/-NdUbe3dnrDM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmaEbDRkud0vSfjFchSpV_Vx7i9yg/photo.jpg",
@@ -3182,7 +3182,7 @@
     {
         "reviewId": "gp:AOqpTOG2-LpbdOS3l23T92EPOT1wPY4A7IIO0njUiy0yzC_x2DBKq1azDlJHEoDwvu08a4uWDDzgTTX9qOsBaQ",
         "userName": "Carlo Dell'anna",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgMjDUJJcIkmo7ILTdE1CDyO3aCM-wd1ZPVxxIpCg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjOP3k8FKUUbIWIZ-ca3Biw5_bVp_72nhoL24owPA",
         "content": "Ottima",
         "score": 5,
         "thumbsUpCount": 0,
@@ -3577,7 +3577,7 @@
     },
     {
         "reviewId": "gp:AOqpTOFb0pOLxW1Eung6zJihTBadG7JsklFOggsha5nauxcYrY3oZeNrbl9cOsSpUvr2gzYgxs6MWUulz1uy2Q",
-        "userName": "toni",
+        "userName": "tonitho",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg-N0FMZ7bz7aqf0qlKae_rL0wlji4GlKDOOdSgo74",
         "content": "ma perch\u00e8? continuano a mentire sul numero dei dowload, in tv ne dichiarano 1.200.000. qui sono \"solo\" 500.000.. la #lega. e i milioni litigano sempre. eh!",
         "score": 1,
@@ -7777,8 +7777,8 @@
     },
     {
         "reviewId": "gp:AOqpTOGTw0vW0g1gavPzG3KNGUz7xiisbmQuf0jtw3vk2S-miJsFsedvC5-rXFszEU3RVFSCtfA0CMiPKtSnxg",
-        "userName": "Francesca Primerano",
-        "userImage": "https://play-lh.googleusercontent.com/-7b7k4-wGwPg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckkGdMVHGaHImYn7Vq-e6O5KaofkQ/photo.jpg",
+        "userName": "Crisfepo",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhxkB-_7xw7Wu1tST0cmlTTXhS1BpgaIxK-GW56Pg",
         "content": "Nel mio caso credo non abbia senso compilare ora il questionario, il 21 febbraio ho iniziato a stare male ho chiamato i numeri per l'emergenza ben 3 volte, lavoravo anche in uno dei paesi sella zona rossa il mattina e poi in mensa scolastica a contatto con persone di un altro paese della zona rossa, e il tampone mi \u00e8 stato rifiutato, adesso sto bene per fortuna!!",
         "score": 1,
         "thumbsUpCount": 0,
@@ -8558,7 +8558,7 @@
     {
         "reviewId": "gp:AOqpTOEgJOkJZzYXLEW_wipGwxhi80LjQX-sIm7dtEimRz5mscmlb4SLlQ1ZmMnB81UCfRecyVL1Xrr4k61DVw",
         "userName": "Mirko Daniele Comparetti",
-        "userImage": "https://play-lh.googleusercontent.com/-Nmysq8YKTEg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclFXE0KEzxjQrYHIpLreLu3JoPQwQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgllVJSpBBVk2TFczW65Q_2YqB9MYS2EiHGgHcffg",
         "content": "Alle volte all'arrivo di notifiche l'app si apre e poi indica un errore relativo alla mancanza della notizia della quale si \u00e8 ricevuta la notifica. Nel questionario covid-19 sarebbe possibile avere precompilati con i dati precedenti il paese/cap di abitazione e lavoro? In questo modo la compilazione quotidiana sarebbe pi\u00f9 semplice. Grazie",
         "score": 4,
         "thumbsUpCount": 0,
@@ -9073,8 +9073,8 @@
     },
     {
         "reviewId": "gp:AOqpTOEEaeQmkR_fLIMN2bMTpVhabHpDCmZghLEydnzuhvQdinbv6F7geBWyvLJgyBO3vZObKHsoAr7W7-rQkQ",
-        "userName": "Davide Demu",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjpfaXbNBrmxnqfSRrxohWD2lTq8MMA6jde1kN5ow",
+        "userName": "Demu82",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiTscwkFbUKo9tTFfI9txrWtfGlqw_By2SjrD2qaQ",
         "content": "A me funziona",
         "score": 4,
         "thumbsUpCount": 0,

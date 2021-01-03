@@ -269,6 +269,8 @@ The DKV Quiero cuidarme Más app has been installed by more than **100000** time
 <img src="3_star_reviews_wordcloud.png" alt="com.dkvservicios.quierocuidarmemas 3 reviews"/>
 </p>
 
+> Por favor no lamenten tanto y dadnos una solución. No quiero pensar que se están aprovechando de la crisis en la que estamos inmersos. Gracias<br> :date: __2021-01-01 22:37:45__
+
 > Me pide el número de tarjeta DKV para iniciar sesión, pero tras un mes de contratar el seguro, yo no he recibido ninguna tarjeta, así que no la puedo utilizar. ACTUALIZO: me respondieron en un par de días y, al ampliar la forma de registro, ya he podido acceder. Tiene varias características, pero aún no he tenido ocasión de probar la que más importa: la consulta médica. De momento, subo a tres estrellas por la atención recibida, y cuando pruebe el médico actualizaré.<br> :date: __2020-12-02 17:50:18__
 
 > Dificultad para entrar en la app Debería tener más contenido práctico<br> :date: __2020-10-05 12:16:30__
@@ -311,6 +313,10 @@ The DKV Quiero cuidarme Más app has been installed by more than **100000** time
 <img src="1_star_reviews_wordcloud.png" alt="com.dkvservicios.quierocuidarmemas 1 reviews"/>
 </p>
 
+> Hasta ahora no me ha aportado nada. Después de varios meses, tengo que actualizar para poder usar, sin más detalles.<br> :date: __2020-12-31 05:00:13__
+
+> De buenas a primeras no puedo acceder a mi cuadro médico, que es lo que pasa??<br> :date: __2020-12-28 16:44:44__
+
 > No me funciona<br> :date: __2020-12-24 16:50:57__
 
 > malissima, sirve incluso menos que la web y mira que ya sirve de poco, es impossible consultar horarios o pedir cita, y antes de que vengan a decirme que si he intentado eso o aquello, lo he intentado todo, tanto en la web como en la app. Al final es puro marketing de vender humo, si os corre prisa llamad por telefono por que esto es una perdida de tiempo<br> :date: __2020-12-21 23:32:56__
@@ -326,9 +332,5 @@ The DKV Quiero cuidarme Más app has been installed by more than **100000** time
 > Nada , basura , entras a la app y al rato te saca y vuelta a empezar .<br> :date: __2020-12-14 13:34:39__
 
 > Fatal<br> :date: __2020-12-07 13:20:51__
-
-> No me deja entrar en la aplicación me dice que mi móvil está rooteado... Y no lo está.<br> :date: __2020-12-04 14:49:24__
-
-> No puedo entrar ya que me dice que no tengo habilitado java srcipt, entro en mi navegador y sí está habilitado. No encuentro la solución<br> :date: __2020-12-04 08:57:01__
 
 

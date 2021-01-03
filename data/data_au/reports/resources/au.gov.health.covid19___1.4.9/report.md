@@ -159,6 +159,10 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 <img src="5_star_reviews_wordcloud.png" alt="au.gov.health.covid19 5 reviews"/>
 </p>
 
+> Goff said he had been doing it for a great time to be able and a lot to be desired of as the idea of a lot to see the new place in which he said that it is a lot of people have<br> :date: __2021-01-03 15:14:47__
+
+> Useful information. Good navigation<br> :date: __2021-01-01 03:33:00__
+
 > VERY Important users carefully read the installation and configuration options to make any necessary adjustments to their device otherwise please assume the App won't function!<br> :date: __2020-12-22 01:15:04__
 
 > Helpful & informative but information overload at times.<br> :date: __2020-10-26 21:08:54__
@@ -174,10 +178,6 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 > Fantastic!<br> :date: __2020-09-01 13:53:31__
 
 > Yes I like<br> :date: __2020-08-30 09:44:10__
-
-> Its needed all over<br> :date: __2020-08-25 23:19:29__
-
-> WONDERFUL IDEA<br> :date: __2020-08-25 02:16:14__
 
 
 
@@ -243,6 +243,10 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 <img src="2_star_reviews_wordcloud.png" alt="au.gov.health.covid19 2 reviews"/>
 </p>
 
+> This app works however the information shown in it is no longer being updated daily nor is the information on numbers as detailed as it once was. I write this review on 3rd Jan, the CoVid numbers shown on the app were last updated 21st Dec. Pretty worthless if you can't rely on it to show up to date information.<br> :date: __2021-01-03 04:57:49__
+
+> Miss mash just looking for last 24 hours numbers by state.<br> :date: __2020-12-28 23:13:13__
+
 > Was a pretty useless app, can find out the same info online or by watching the news<br> :date: __2020-07-27 04:56:10__
 
 > Never been able to open app<br> :date: __2020-07-08 12:03:11__
@@ -258,10 +262,6 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 > Will not download on my phone<br> :date: __2020-05-01 08:18:24__
 
 > Takes forever to download. Been trying for 2 days now.<br> :date: __2020-04-29 10:31:12__
-
-> I downloaded it but still do not know if it is actually working.<br> :date: __2020-04-27 03:53:37__
-
-> Please add a prominent link to the covidsafe app.<br> :date: __2020-04-27 00:50:53__
 
 
 

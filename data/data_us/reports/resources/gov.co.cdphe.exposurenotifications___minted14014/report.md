@@ -179,6 +179,8 @@ The CO Exposure Notifications app has been installed by more than **100000** tim
 <img src="3_star_reviews_wordcloud.png" alt="gov.co.cdphe.exposurenotifications 3 reviews"/>
 </p>
 
+> Didn't give me the ability to alert potential contact (button didn't work)<br> :date: __2021-01-02 06:48:03__
+
 > Like<br> :date: __2020-12-12 07:54:21__
 
 > I guess a good app but nobody in my area seems to be using it or posting a positive result in Pueblo County or other counties that I travel to for my job delivering parts, go far as Lamar, west to the San Luis Valley and South to Walsenburg, Trinidad and into New Mexico and you're telling me that I have not been near someone with a positive test result????<br> :date: __2020-12-11 20:39:25__
@@ -197,8 +199,6 @@ The CO Exposure Notifications app has been installed by more than **100000** tim
 
 > Positive test here but can't share my result because I don't have a verification code. failed app so far🤷‍♂️ I've searched for about 15min and can only figure it's because my test was conducted out of state. However, I was around people in CO and would like to share it. Will people share if it's not easily available? I would also recommend information about privacy and how your results a reported. People might have a sense of shame or guilt but might share if there's some sense of anonymity.<br> :date: __2020-11-07 01:48:11__
 
-> Won't let me allow to send notifications<br> :date: __2020-11-06 19:43:06__
-
 
 
 #### 2-star reviews
@@ -206,6 +206,8 @@ The CO Exposure Notifications app has been installed by more than **100000** tim
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="gov.co.cdphe.exposurenotifications 2 reviews"/>
 </p>
+
+> My phone hasn't worked right since..tells my blue tooth is off when it's on..stupid<br> :date: __2021-01-01 08:45:40__
 
 > 👌<br> :date: __2020-12-23 09:21:28__
 
@@ -225,8 +227,6 @@ The CO Exposure Notifications app has been installed by more than **100000** tim
 
 > When I try to turn on notifications, I get an error saying "something went wrong". It will not enable.<br> :date: __2020-11-08 21:26:50__
 
-> My problem is I work in a facility where alot if employees had C19 and I have never been notified....HMMM<br> :date: __2020-11-08 20:22:31__
-
 
 
 #### 1-star reviews
@@ -235,24 +235,24 @@ The CO Exposure Notifications app has been installed by more than **100000** tim
 <img src="1_star_reviews_wordcloud.png" alt="gov.co.cdphe.exposurenotifications 1 reviews"/>
 </p>
 
+> 1 star based on the fact that the play store pushes the app on you and it does nothing helpful<br> :date: __2021-01-03 00:46:32__
+
+> Most users won't have the patience or technical know-how to setup or use this app correctly which makes it nearly completely ineffective. The FAQ site did not have any info on where I could find a confirmation code to report a positive test; I found the answer in the freaking app reviews (CDPHE will eventually text you the code). While the idea is novel, the execution actively discourages adoption and use by anyone except tech-savy users.<br> :date: __2021-01-02 15:41:13__
+
+> I find as others have said not getting notified. I would also like to see the areas in which covid is reported and numbers. This app seems pretty useless. I hope we as coloradoans aren't having to pay for this. It's clearly broken and doesn't work. Going to delete hate wasting space on my phone.<br> :date: __2020-12-31 15:47:12__
+
+> No instructions on how to upload a positive test result to the app. Just "Enter verification code" ??? Where does THAT come from? No instructions on how to proceed from this point. How is this app going to help anyone if you can't upload your test results.<br> :date: __2020-12-30 16:31:33__
+
+> I am so angry. I cannot share my covid test results bc I dont know what a covid verification code is. Seriously what the hell is that? I cannot find any info from this app on what that is nor how to find my own. It should be obvious! You should explain what that is! If you can't share a negative result then state that!<br> :date: __2020-12-30 03:55:33__
+
+> I was around 4 people who tested positive. I never did get a notification.<br> :date: __2020-12-30 01:19:51__
+
+> Scores of people not being able to get codes to report their positivity is really unacceptable. Colorado deserves better this many months into things.<br> :date: __2020-12-29 07:03:46__
+
 > Didn't work at all.<br> :date: __2020-12-27 21:59:24__
 
 > Not only is this app so poorly used by the populous to warn you against infection, it also prevented me from warning others about my positive diagnosis. I get that the government takes off holidays, the disease did not. I did everything right, and tried to warn others through the app, however the government has not given me a code I need to warn anyone else. Another shining example of wasted money. If I have to wait a week or more for a contact tracer to give me a code, what's the point?<br> :date: __2020-12-27 08:20:21__
 
 > The app appears useless. I tested + . When I try to enter the result, it asks for one time verification code. After extensive searching, I was unable to learn how to get the verification code.<br> :date: __2020-12-25 19:53:51__
-
-> Asks for a verification code to share my positive test results but I don't know where I would have a verification code?<br> :date: __2020-12-25 19:43:12__
-
-> It seems rather useless. It's entirely dependent upon people reporting themselves. It's never reported a possible exposure until today. There is a zero chance that I don't encounter at least one covid positive person within a hundred feet of myself on a daily basis. The possible exposure was seven days prior to the notification. It said to quarantine immediately... Seven days ago. Yikes.<br> :date: __2020-12-18 23:25:51__
-
-> Deleted. It requires bluetooth on which depletes my battery. Was a good idea but unworkable.<br> :date: __2020-12-18 20:48:45__
-
-> Don't get the app<br> :date: __2020-12-18 19:25:27__
-
-> Cannot turn on. Says: Something went wrong. Try again. 11.30 - still getting same error. 12.18 with new OS update still the same error. The Wyoming app works for me. No response from dev email.<br> :date: __2020-12-18 15:49:16__
-
-> Bluetooth is for short range connections, so why do I have to have Bluetooth on for the app to work? Just NO!<br> :date: __2020-12-18 13:50:27__
-
-> I removed it.. I have been surrounded by positive cases... Nobody cooperates with it because I checked every day and it tells me no exposure! Well I knew that wasn't the case on more than 30 that I knew of<br> :date: __2020-12-15 03:59:17__
 
 

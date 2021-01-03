@@ -190,6 +190,8 @@ The Ascension Online Care – See a Doctor 24/7 app has been installed by more t
 <img src="5_star_reviews_wordcloud.png" alt="org.ascension.android.ascn.onlinecare 5 reviews"/>
 </p>
 
+> We use the virtual appointments. But if you receive a phone call during the call the volume will drop to low to finish the appointment.<br> :date: __2020-12-29 19:44:54__
+
 > Great app fast reliable and convenient<br> :date: __2020-12-22 06:04:57__
 
 > Quality application provides what I need for virtual appointments<br> :date: __2020-12-18 18:09:44__
@@ -207,8 +209,6 @@ The Ascension Online Care – See a Doctor 24/7 app has been installed by more t
 > Great!!!<br> :date: __2020-12-10 22:49:26__
 
 > Edit: Used a second time and still am impressed! The Dr was very informative and very nice! He helped me with all my questions and I would totally use again.<br> :date: __2020-12-05 21:12:04__
-
-> Timely and efficient service!<br> :date: __2020-12-01 19:13:56__
 
 
 

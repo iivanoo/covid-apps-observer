@@ -1,5 +1,17 @@
 [
     {
+        "reviewId": "gp:AOqpTOGuXa90pCmdPN_ozvZNeeSMFQ-My_F9imd15cLSic5eiSxUuq56GeC7TbzTZPLkk336OZU_tc07SseD9pA",
+        "userName": "Jeffrey Jones",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ghi7W7uDBuCWnWz30PcMZFzLaG4c9cptP_4BbFd",
+        "content": "Great experience",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "12.0.19.010_02",
+        "at": "2020-12-29 22:21:07",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOHg52EuDYHu2Zzr0TtafQmzIocMsYeHPhdpGJrFCQYvT_rRz2lS2DCF3FDJtJX_1vq6MViP-UCC7v_6bCs",
         "userName": "D K",
         "userImage": "https://play-lh.googleusercontent.com/-vcwUUUKiMp4/AAAAAAAAAAI/AAAAAAAAHT4/AMZuucm5lCBHBTG002Cc76uuLkEpg1X2nQ/photo.jpg",
@@ -373,8 +385,8 @@
     },
     {
         "reviewId": "gp:AOqpTOFE9aKaCfbun1JXGIM9VZ_dPps3uercW12-HPDVzbMS1zstm8vv9niPT1YoUYCoojXWErzkF0mxnk5GuGY",
-        "userName": "SodaThatsCarbonated",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjUwkIz8aWIfzL18e8mAaj9uTNrilXO88z8CNW1BCI",
+        "userName": "Comrade Walter",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjK4sfqMHnvmui2a9CWVqAv_-GnFLp_nUh113PAIfo",
         "content": "I tried 3 times to use this, every time when it got to the video it just stopped loading. Total wate of time when I was really sick and needed to see a Dr. That was after it froze numerous times on the beginning screen. I had to reinstall twice and log back in, even call the customer service to reset my password moments after I'd been logged in and it kicked me out.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -4682,7 +4694,7 @@
     {
         "reviewId": "gp:AOqpTOGEfDS-2ooRc0dHf91mkEFCmmhZtBiapadCGaBApOx16-LEPtK7D18tPfEVcEEQ0CpXzUjvsENheL8mI14",
         "userName": "Rebekkah Quiros",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjDML6qlfQH2FGl-JsmIE_83pmumMIO225rA9w93A",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgJpnqc7Ga4GY0Obpk-qjPcXRgETOtk7RHBzQr54Q",
         "content": "I talked to a nurse and she was very nice and helped me the best she could. This app connects you directly to a nurse and is just like going to the doctor's.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -10129,7 +10141,7 @@
     },
     {
         "reviewId": "gp:AOqpTOFaZoe09rZK-UCEifXUfvTMTpS3NZVgpNRo8ARVYLbg1Iv_54-hDsjAt5IJaHxbkG4Q65xNS5D0Gyg60Cc",
-        "userName": "Jolanta Carkido",
+        "userName": "Lana Carkido",
         "userImage": "https://play-lh.googleusercontent.com/-hE0FSdcuiP8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnH5UJykfBcT8AAd608Z8dqagQKcA/photo.jpg",
         "content": "Easy to use. Quick. Saves time.",
         "score": 5,

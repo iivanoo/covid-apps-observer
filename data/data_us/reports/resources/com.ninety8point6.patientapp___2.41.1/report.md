@@ -191,25 +191,25 @@ The 98point6 app has been installed by more than **50000** times. At this time, 
 <img src="5_star_reviews_wordcloud.png" alt="com.ninety8point6.patientapp 5 reviews"/>
 </p>
 
-> I've used this app twice now. Both times have been quick and easy and I've been satisfied and confident with the recommendations of the doctor.<br> :date: __2020-12-28 03:56:29__
+> This app almost seems to good to be true. Been using it a year now. Visit a doctor anytime, from anywhere for a dollar a visit (plus $120 annual fee) App works great and the doctors really listen. I love being able to talk to a doctor over chat. I don't have to worry about setting up a webcam, or family members overhearing the visit. Not a full replacement for an in person doctor, but for things that can be diagnosed remotely it's more convenient, and less stressful than going in person.<br> :date: __2021-01-02 19:16:00__
 
-> It's very convenient to be able to see a doctor from the comfort of your own home. I feel like this is the future of Medicare, And can't wait for a video endoscope to be able to show your throat nose & ears to the doctor<br> :date: __2020-12-27 17:40:14__
+> Very competent and compassionate Dr's<br> :date: __2021-01-02 03:23:51__
 
-> Its just the right thing to have in this day and time. Its a way of getting to talk to a doctor without evwn leaving the house and it cuts down io v ER visits. I think its great.<br> :date: __2020-12-26 14:10:32__
+> Absolutely amazing!<br> :date: __2021-01-01 20:10:40__
 
-> Very efficient way to address medical concerns and Dr. Kreiter was caring and knowledgeable.<br> :date: __2020-12-25 03:39:45__
+> Just awesome. Thank you<br> :date: __2021-01-01 17:59:04__
 
-> Awesome. Fast direct and to the point. Helpful.<br> :date: __2020-12-22 23:06:54__
+> Clear and kind instructions from a dr. Helped us know whether to go to urgent care. Let me share a picture to give the dr information.<br> :date: __2021-01-01 15:59:35__
 
-> This service is great! Easy to use and I have always had very good doctors! It's a life saver these days!<br> :date: __2020-12-22 19:20:10__
+> Super easy to us and the doctor was amazing!<br> :date: __2021-01-01 00:11:12__
 
-> Very nice. Doctor was very thorough.<br> :date: __2020-12-21 21:10:05__
+> Good experience overall. Though keep your symptom description to bullet point summary. It said "in detail" but my "narrative" description was timed out and I had to start the visit over.<br> :date: __2020-12-30 20:38:35__
 
-> Excellent experience.<br> :date: __2020-12-21 05:57:40__
+> Easy. Free through my work and can be done at any time.<br> :date: __2020-12-30 13:56:27__
 
-> Fast, responsive, and simple to use. So relieved to have this service!!<br> :date: __2020-12-19 18:27:33__
+> Dr Smith was very helpful. Thanks so much for the information.<br> :date: __2020-12-30 07:22:12__
 
-> I use this just for refills that would cost alot more. It's great<br> :date: __2020-12-19 00:10:51__
+> It was fast and easy I liked it alot .<br> :date: __2020-12-28 22:46:32__
 
 
 
@@ -251,8 +251,6 @@ The 98point6 app has been installed by more than **50000** times. At this time, 
 
 > Decided to give app a shot. Got connected to a doctor. She did not listen, listed my symptoms completely wrong, and wrong diagnosis. Since this time, I have spoken with management, not customer service. They listened to the issues and will hopefully correct them. It is a fairly new app, with time there may be improvement.<br> :date: __2020-08-20 23:39:39__
 
-> Not very helpful. Ive had two visits. The first time, the doc ordered $1700 worth of lab tests for GI symptoms. The second time, they said my sons rash looked like bug bites. Hes been inside for over 14 hours and there is no way a bug bit him 15 times while he was sleeping 2 feet away from me. Waste of time.<br> :date: __2020-08-12 15:44:44__
-
 > Very thorough<br> :date: __2020-08-10 14:03:47__
 
 > Useless if you need a dr for children. At this time its only for adults. Which they didnt tell me until AFTER i paid for a subscription and started speaking with a dr<br> :date: __2020-04-19 22:11:02__
@@ -266,6 +264,8 @@ The 98point6 app has been installed by more than **50000** times. At this time, 
 > Not helpful and slow<br> :date: __2020-03-26 22:26:44__
 
 > Used this app previously and it worked great now it keeps asking me to set up a profile but not giving me a way to advance. No way to contact tech support anywhere in the app. Great concept now let's get the bugs out.<br> :date: __2020-03-08 07:33:57__
+
+> I don't know what.<br> :date: __2018-06-11 03:22:11__
 
 
 

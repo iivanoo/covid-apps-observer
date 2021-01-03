@@ -243,6 +243,8 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 <img src="1_star_reviews_wordcloud.png" alt="de.bssd.covid19 1 reviews"/>
 </p>
 
+> Die App zeigt auch 2 Wochen nach Test an dass das Ergebnis nicht vorliegt. Der online Zugang vom Labor hatte das Ergebnis schon zwei Tage später zur Verfügung gestellt.<br> :date: __2021-01-02 10:54:33__
+
 > Scanfunktion wird nicht aktiviert - daher unbrauchbar!<br> :date: __2020-12-26 14:37:13__
 
 > Die anderen Bewertungen stimmen leider. Auch bei mir ging der Scan nicht. Handeingabe ging auch nicht. Die Tastatur erschien nicht. Hab die App dann gleich wieder deinstalliert.<br> :date: __2020-12-25 23:12:21__
@@ -260,7 +262,5 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 > Diese App ist vollkommen unbrauchbar. Sie scannt den QR-Code nicht. Auch mit einem externen QR-Code-Scanner lässt sich der Code nicht in die App einlesen. Ich konnte den Code nur mit dem externen Scanner auslesen und per Copy and Paste einfügen. Für ein sicheres manuelles Einfügen viel zu klein gedruckt. Das Ergebnis liegt bereits zwei Tage beim Arzt vor (von dem ich auch nicht informiert wurde) aber die App zeigt noch immer an, dass es noch kein Ergebnis gebe... Super für meine Risikopatienten!<br> :date: __2020-12-18 13:32:08__
 
 > Schrott mehr braucht man nicht schreiben 1 Stern ist noch zu viel<br> :date: __2020-12-18 12:52:29__
-
-> Crasht auf Pixel 4 und 5 direkt beim Start.<br> :date: __2020-12-17 21:17:02__
 
 

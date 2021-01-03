@@ -192,6 +192,8 @@ The GuideSafe app has been installed by more than **50000** times. At this time,
 <img src="3_star_reviews_wordcloud.png" alt="gov.adph.exposurenotifications 3 reviews"/>
 </p>
 
+> I just wish more people used it. I kinda feel like it is not useful since people have to opt in for each aspect... BUT I will keep using it as long as this pandemic drags on. Update: This app is a fail. :( Very disappointed but not surprised at this point. It just stopped updating early Dec. Then 2 days ago it locked my phone up downloading. I had to force close & uninstall to stop it from locking up my phone. I wish this worked better.<br> :date: __2021-01-01 15:38:52__
+
 > Why hasn't it updated since December 13th!?<br> :date: __2020-12-19 00:11:33__
 
 > The app started working wonderfully. But at the end of October, it stopped. No new upgrades and no notifications. I will try and download the app again.<br> :date: __2020-12-06 13:31:12__
@@ -203,8 +205,6 @@ The GuideSafe app has been installed by more than **50000** times. At this time,
 > Up front everything is bluetooth, bluetooth, bluetooth. Then after install the app demands location, too. Good privacy policy, but I can't leave both bluetooth and location on at all times or my phone would have to stay on the charger 24/7. Maybe my fault for having an old phone. I'll leave it installed and just enable everything as the Austin e demands.<br> :date: __2020-11-18 21:28:03__
 
 > it would be better if it reported an estimate of how many unique devices it detected and has checked itself against just to know it is working and seeing other people with the app.<br> :date: __2020-11-16 17:07:14__
-
-> I just wish more people used it. I kinda feel like it is not useful since people have to opt in for each aspect... BUT I will keep using it as long as this pandemic drags on.<br> :date: __2020-11-10 14:09:40__
 
 > Giving a 3 star review now because I've not used this app on an Android device. I have both Android and iPhone devices. Upon reading reviews of when using on Android devices, as opposed to iPhone devices, I know my iPhone works in real time notifications. Update was recently done on this application, so I'm going to give it a try. He!l, in reality even it notifying a few days later is better than NOT BEING NOTIFIED AT ALL. I will update with a comparison review. Stay safe, do the right thing masks don't hurt ya, and vote. Truly, Your Fellow American<br> :date: __2020-10-12 15:50:41__
 
@@ -234,6 +234,12 @@ The GuideSafe app has been installed by more than **50000** times. At this time,
 <img src="1_star_reviews_wordcloud.png" alt="gov.adph.exposurenotifications 1 reviews"/>
 </p>
 
+> Won't let me report a positive test<br> :date: __2021-01-01 02:38:03__
+
+> This app is pretty much inert. Not enough people using it.<br> :date: __2020-12-31 16:02:49__
+
+> This is from the State of Alabama which means somebody's relative got paid a lot of money to write this piece of.. Install this if you want them to know where you are. Don't install it if you think it's going to protect you from anything. This is Alabama, a State that sued Pennsylvania cuz they didn't like how they voted. The state motto here is "politicians don't care about you." If you were a mask, they think you are communist. Alabama... Ignoring syphilis infections since 19 something.<br> :date: __2020-12-29 21:56:46__
+
 > The app checked for exposure every 24-48 hours when I first installed. In the last month, the app hasn't checked for exposure at all. Uninstalled, reinstalled, checked and rechecked settings and still no exposure check. Uninstalling permanently. Worthless unless it consistently checks for exposure.<br> :date: __2020-12-28 04:22:21__
 
 > Doesn't work!<br> :date: __2020-12-27 08:56:05__
@@ -247,11 +253,5 @@ The GuideSafe app has been installed by more than **50000** times. At this time,
 > The app doesnt do what its suppose to at all unfortunately.<br> :date: __2020-12-23 04:05:02__
 
 > App is a joke if no one is reporting they have covid. Daughter tested postive and i am exposed. App never notified me.<br> :date: __2020-12-19 21:14:34__
-
-> Worthless. Not everyone is using it, and it doesn't connect to any other states. So basically you've just just installed an app that connects to no one. And now it hasn't bothered checking for exposure in over a month?! Uninstalled and moving on.<br> :date: __2020-12-16 20:52:18__
-
-> Since this app is suppose to alert people on whom has covid it never did even to this day alert me about my roommate who has covid ... So now im quarantining because this app is b.s.😒 using up my memory and sh\*\**<br> :date: __2020-12-16 03:36:49__
-
-> Do you waste your time on this app<br> :date: __2020-12-12 11:51:58__
 
 

@@ -244,6 +244,8 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 <img src="1_star_reviews_wordcloud.png" alt="cat.gencat.mobi.StopCovid19Cat 1 reviews"/>
 </p>
 
+> He fet el test i en diu que no tinc símptomes quan avui he vist el resultat positiu del PCR d,ahir día 31 desembre que em van fer.<br> :date: __2021-01-01 15:48:05__
+
 > He dado positivo. Hago el test para informarlo. Pongo los síntomas. Fiebre tos dificultad para respirar, dolor de cabeza. Malestar. El resultado es: no tienes síntomas , pero no te confíes.<br> :date: __2020-12-24 15:17:35__
 
 > La primera vez he logrado llegar al paso de recibir el codigo por Sms, lo he puesto pero de allí no se mueve, la segunda vez ya ni he podido intentar enviar el SMS, por mucho que apretaba no pasaba nada. Así no me extraña que no se puedan contabilizar los casos, si no funciona una simple aplicación, que se puede esperar de situaciones más complejas?<br> :date: __2020-12-16 14:56:06__
@@ -261,7 +263,5 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 > Mientras no haces la prueba está bien de ayuda, pero una vez te haces el test y das positivo, no sirve para nada. Yo hoy he hecho test de antígenos y he dado positivo. En cambio relleno los datos y como me han desaparecido varios síntomas, pues me dice que no tengo la Covid. Me da un chasquido el bolo al ver que me dice que no tengo Covid y en cambio hoy me han diagnosticado positivo en el CAP.<br> :date: __2020-11-09 21:38:15__
 
 > No se si soy o no positivo pero lo que si sé es que mi compañera de trabajo dio positivo en covid19 y yo estado con ella en contacto como muchos más compañeros y estamos esperando que los rastreadores nos llamen eso sí yo tengo que ir ha trabajar como mis otras compañeras hasta que no nos llamen los rastreadores y si yo soy asintomático como mi compañera que dio positivo y trabajamos ha menos de medio metros junto ha otras 8 o 9 personas más no sé yo si está app es fiable<br> :date: __2020-11-08 17:31:44__
-
-> Vaya test, faltaria preguntar a parte denlos sintomas, si has estado el contacto con personas infectadas, pero bueno a que extrañarse, o61, nefasto, llamadas al cap no hacen ni caso, en fin asi nos va<br> :date: __2020-11-02 10:04:12__
 
 

@@ -202,6 +202,8 @@ The COVID-19.eus app has been installed by more than **50000** times. At this ti
 <img src="2_star_reviews_wordcloud.png" alt="com.erictelm2m.colabora 2 reviews"/>
 </p>
 
+> Lleva una semana sin actualizar los casos de COVID. Al final me tengo que enterar por la TV.<br> :date: __2020-12-28 13:54:11__
+
 > Me mandaron un mensaje de alerta y ni yo, ni la enfermera, ni dónde me han hecho la PCR saben descifrarlo Me hecho la PCR y me ha dado NEGATIVO. La verdad que no es muy práctica<br> :date: __2020-12-07 12:17:22__
 
 > No sé si son muy eficaces<br> :date: __2020-10-04 14:12:34__
@@ -220,8 +222,6 @@ The COVID-19.eus app has been installed by more than **50000** times. At this ti
 
 > Muy difícil de instalar<br> :date: __2020-07-07 09:34:02__
 
-> Desde ayer no funciona. Dice que la sesión ha expirado y que la desinstale y la vuelva a instalar. A pesar de haberlo hecho varias veces no funciona. Por otro lado, a la hora de añadir personas a los círculos debería dar la posibilidad de añadirlos sin teléfono puesto que si son personas mayores seguramente o tienen un móvil o no tienen ninguno; y por otro lado, es posible que la gente de mis círculos no quiera que le lleguen notificaciones para instalar la app.<br> :date: __2020-06-28 18:03:44__
-
 
 
 #### 1-star reviews
@@ -229,6 +229,8 @@ The COVID-19.eus app has been installed by more than **50000** times. At this ti
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="com.erictelm2m.colabora 1 reviews"/>
 </p>
+
+> Esta app es pésima, no se actualiza nada<br> :date: __2021-01-03 15:25:48__
 
 > Si metes codigo postal erroneo no permite modificarlo por lo que no tienes datos reales<br> :date: __2020-11-30 09:58:40__
 
@@ -247,7 +249,5 @@ The COVID-19.eus app has been installed by more than **50000** times. At this ti
 > Por un fallo al empezar con el Código postal me pone en otro sitio y no deja modificarlo. He desistalado la app y la he vuelto a instalar y sigue poniendo mal el C. P. Mala APP. Así mal para colaborar. He borrado todos los datos de la aplicación y al volver a meterlos sigue poniendo mal el C. P. Aunque borre los datos en cuanto metes de nuevo los correctos te los vuelve a poner mal. Así vamos.....<br> :date: __2020-09-23 19:33:57__
 
 > No he podido utilizarla porque pide un código SMS que no se cual es ni cual puede ser. Tanto tiempo de retraso para ahora llegar a esto. Faciliten la aplicación si quieren que se descargue y se use de modo general ya que si lo complican tanto no se descargará. Yo ya la he desinstalado.<br> :date: __2020-09-18 15:16:15__
-
-> Aparecen notificaciones push a horas extrañas con mensajes sin sentido como URGENTE, REUNIÓN, HOLA. Parece que alguien está jugando. He notificado esto al desarrollador y no contesta nadie. Parece que no hay nadie al volante. Desinstalando...<br> :date: __2020-09-17 17:25:15__
 
 

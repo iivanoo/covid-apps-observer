@@ -147,25 +147,25 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="doh.health.shield 5 reviews"/>
 </p>
 
-> Very usefull<br> :date: __2020-12-28 10:02:34__
+> Good<br> :date: __2021-01-03 13:17:20__
 
-> Good apps 👍<br> :date: __2020-12-28 07:30:32__
+> for health support<br> :date: __2021-01-02 23:49:45__
 
-> Why not open app<br> :date: __2020-12-28 06:50:44__
+> Good<br> :date: __2021-01-02 19:06:36__
 
-> Good<br> :date: __2020-12-28 05:00:07__
+> Nice application<br> :date: __2021-01-02 09:44:15__
 
-> 👍excellent<br> :date: __2020-12-27 21:00:37__
+> Very user friendly<br> :date: __2021-01-02 00:12:58__
 
-> This app worked fine in UAE,Not working inside Pakistan.<br> :date: __2020-12-27 20:43:32__
+> Awesome<br> :date: __2021-01-01 06:51:59__
 
-> Very nice<br> :date: __2020-12-27 19:14:23__
+> Nice work uae<br> :date: __2020-12-31 14:33:26__
 
-> good soon update<br> :date: __2020-12-27 18:21:27__
+> Excellent service<br> :date: __2020-12-30 23:25:30__
 
-> Not opne<br> :date: __2020-12-27 16:12:46__
+> i love this software<br> :date: __2020-12-30 19:57:31__
 
-> We can be confident and we are always safe,thanks to all<br> :date: __2020-12-27 11:49:37__
+> Very nice and quick<br> :date: __2020-12-30 18:33:41__
 
 
 
@@ -174,6 +174,14 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="doh.health.shield 4 reviews"/>
 </p>
+
+> Good<br> :date: __2021-01-03 09:25:31__
+
+> V.good<br> :date: __2021-01-02 16:14:38__
+
+> Found okay<br> :date: __2021-01-02 06:23:39__
+
+> Excellent<br> :date: __2021-01-01 06:08:20__
 
 > Good app<br> :date: __2020-12-26 14:50:44__
 
@@ -187,14 +195,6 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 
 > Good<br> :date: __2020-12-16 11:33:48__
 
-> good 👍<br> :date: __2020-12-16 06:27:52__
-
-> Good<br> :date: __2020-12-14 19:42:45__
-
-> very good app<br> :date: __2020-12-13 08:31:28__
-
-> UAE always good<br> :date: __2020-12-13 05:55:28__
-
 
 
 #### 3-star reviews
@@ -202,6 +202,8 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="doh.health.shield 3 reviews"/>
 </p>
+
+> useful<br> :date: __2020-12-31 16:56:18__
 
 > Nice...<br> :date: __2020-12-25 02:24:19__
 
@@ -221,8 +223,6 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 
 > Did covid test at al zahra hospital sharjah but it was not registered on the alhosn app even though it was negative it should have been shown in app. Please instruct al zahra hosp sharjah esp Nmc group hospitals to register all covid tests or this app will soon become useless<br> :date: __2020-11-30 05:37:08__
 
-> It's very frustrating that you cannot register with your number from day one. it always tell me to register with the number which I never use.. even calling several times to customer support they says check after sometime but no result..<br> :date: __2020-11-29 17:05:27__
-
 
 
 #### 2-star reviews
@@ -231,25 +231,25 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 <img src="2_star_reviews_wordcloud.png" alt="doh.health.shield 2 reviews"/>
 </p>
 
+> I know people using this app have way worse problems than I have but here is my take, I have one problem with the app why does it need my Bluetooth and location data all the time and why can't I make the choice if I want to get notified to know if there is anyone positive near me. The Bluetooth and location permission seems kinda creepy like they are trying to track your devices connected via bluetooth and track your location. That Is my problem with the app.<br> :date: __2021-01-03 14:43:47__
+
+> It is not showing the update results of covid test<br> :date: __2021-01-01 21:07:29__
+
+> Not working always<br> :date: __2021-01-01 13:06:23__
+
+> Very slow<br> :date: __2020-12-31 11:11:18__
+
+> Since the last update the app is getting stuck, displaying only the splash screen<br> :date: __2020-12-30 12:01:01__
+
+> I've been re-installing, logging out/logging in again and again but still i cannot proceed to get my result. It always ask me some survey, can't able to submit because it keeps hangs up.<br> :date: __2020-12-30 06:55:43__
+
+> Good<br> :date: __2020-12-29 18:16:42__
+
+> Slow. .. can't understand the importance and value of using this application !!!!!<br> :date: __2020-12-29 05:39:11__
+
+> System very slow<br> :date: __2020-12-29 04:09:05__
+
 > Hi After installing this app, I can't proceed as it does not show the Yes / No option in the pre-conditions survey. So I can't move forward and do the submit. I tried the uninstallng of app and again installed the same. But still the same. Please rectify the issue. Thanks<br> :date: __2020-12-27 05:36:27__
-
-> Hi I have Problem i ts not working with me<br> :date: __2020-12-24 05:44:16__
-
-> Not working properly<br> :date: __2020-12-23 12:45:38__
-
-> It's not work<br> :date: __2020-12-21 12:48:51__
-
-> Every time asking update why<br> :date: __2020-12-20 17:16:51__
-
-> حسنه<br> :date: __2020-12-17 21:45:18__
-
-> وجود خلل في تحديث البيانات المستحدثة<br> :date: __2020-12-17 06:58:04__
-
-> Some times take long time to have the result<br> :date: __2020-12-16 23:00:00__
-
-> raju hain.<br> :date: __2020-12-16 20:45:18__
-
-> Why not working after no options come when singn id nd Number nd code<br> :date: __2020-12-01 14:02:54__
 
 
 
@@ -259,24 +259,24 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="doh.health.shield 1 reviews"/>
 </p>
 
-> Keeps identifying me as someone completely else. There is also no button to contact support to solve this issue.<br> :date: __2020-12-27 16:10:03__
+> Opened up the app and the first thing its asking for is: Push notifications(okay cool, I understand that) Location(to send a simple test result? Yeah... no) Bluetooth access(?????? For what???) Battery optimisation(?????? For what???) I'm not even putting this on my phone, sorry. I dont see why this is necessary to simply send a test result through to my phone.<br> :date: __2021-01-03 11:07:26__
 
-> Can't get it to work at all<br> :date: __2020-12-27 15:23:25__
+> Can't use it without selling your soul (and battery life), not even to view results and status<br> :date: __2021-01-02 12:28:17__
 
-> This app forces u to turn Bluetooth and GPS on And when u turn these on The battery of your smartphone gets affected<br> :date: __2020-12-27 14:19:42__
+> Horrible experience, I have taken vaccine and more than one month has passed tested negative several times, still not given emergency usage , called like more than 10 times to call center waiting patiently and tell the call centre executive the problem they say they have taken complaint bu till now no result, I think it is high time govt of uae looks into these issues.<br> :date: __2021-01-02 12:21:59__
 
-> It crashes before I add my personal info<br> :date: __2020-12-26 22:25:42__
+> Cant go to next level after installation<br> :date: __2021-01-02 10:09:46__
 
-> nice applications<br> :date: __2020-12-26 08:05:15__
+> I did my pcr test got result via sms but the app is just not updating, I tried restarting the phone deleting and reinstalling the still it shows my last pcr result not the current one. What should I do?<br> :date: __2021-01-01 11:52:54__
 
-> this app does not show the latest covid test report and i do not now how this app will know if a person from negative will be positive or will require another test ?<br> :date: __2020-12-26 06:44:08__
+> Unstable app and terrible customer service. They are rude and they never call back or even solve any issues.<br> :date: __2020-12-31 13:28:22__
 
-> I have checked my covid test on 24/12/2020;(12:15) and my result came on 24/12/2020:(16:41) - negative ,through SMS on my phone number . Till now I am not getting the PCR result on this app. Kindly help me as soon as possible<br> :date: __2020-12-26 05:53:07__
+> It hasn't updated since my last test. Typing in was a nightmare It says if you see this message restart your phone and I restarted it 6 times and the message still came up.<br> :date: __2020-12-31 04:10:45__
 
-> Worst app for getting report my freind done covid-19 test last 2 days but this app not sending any password just waste of time almost continuously try to get password but nothing received worst app please try to improve or give any alternative to get report..<br> :date: __2020-12-25 19:10:11__
+> Very very BAD app! Ian deleting this app<br> :date: __2020-12-30 11:03:50__
 
-> Downloaded the app but kept frozen on initial screen. Cannot even register. Installed deinstalled reinstalled several times but same scenario remain: frozen initially screen with no login of other menu. Dxb smart app from dubai in comparison works fine.<br> :date: __2020-12-25 14:59:35__
+> Program donst work at all<br> :date: __2020-12-29 13:03:40__
 
-> Message for negative report came on 23rd but in app, its yet not updated.<br> :date: __2020-12-25 09:52:49__
+> This app is trash it doesnt even work properly.<br> :date: __2020-12-29 11:49:37__
 
 

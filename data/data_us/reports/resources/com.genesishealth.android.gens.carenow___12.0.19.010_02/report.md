@@ -177,6 +177,8 @@ The Genesis Convenient CareNow app has been installed by more than **5000** time
 <img src="5_star_reviews_wordcloud.png" alt="com.genesishealth.android.gens.carenow 5 reviews"/>
 </p>
 
+> This was was so much faster than waiting in the office, when its something small. I was done from check in to exit in minutes!<br> :date: __2020-12-30 16:33:24__
+
 > Great<br> :date: __2020-12-04 16:33:33__
 
 > I've used for multiple appointments. Very little, if any, issues.<br> :date: __2020-11-21 19:37:53__
@@ -194,8 +196,6 @@ The Genesis Convenient CareNow app has been installed by more than **5000** time
 > Great app worked perfectly<br> :date: __2020-10-11 04:59:07__
 
 > Great experience!<br> :date: __2020-09-18 22:31:10__
-
-> Very helpful.<br> :date: __2020-09-16 21:07:10__
 
 
 

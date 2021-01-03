@@ -189,6 +189,8 @@ The WebMD: Check Symptoms, Rx Savings, & Find Doctors app has been installed by 
 <img src="5_star_reviews_wordcloud.png" alt="com.webmd.android 5 reviews"/>
 </p>
 
+> I really love this app its help me out more way than I would have thought its awesome 👌<br> :date: __2020-12-29 09:22:08__
+
 > Great app!<br> :date: __2020-12-10 05:30:14__
 
 > Awesome<br> :date: __2020-12-09 13:40:18__
@@ -206,8 +208,6 @@ The WebMD: Check Symptoms, Rx Savings, & Find Doctors app has been installed by 
 > Very helpful.<br> :date: __2020-10-29 08:29:54__
 
 > This is such an app for info on medical anything. Including identifying pills that you find in your cabinet and can't remember or know what it is.<br> :date: __2020-10-23 03:20:57__
-
-> Best<br> :date: __2020-10-23 02:26:40__
 
 
 
@@ -273,7 +273,7 @@ The WebMD: Check Symptoms, Rx Savings, & Find Doctors app has been installed by 
 <img src="2_star_reviews_wordcloud.png" alt="com.webmd.android 2 reviews"/>
 </p>
 
-> This was updated. Since then, I can't save my medications on the check interactions. We use to be able to do that. That helped me a lot. It helped me remember what not to take together. I have about a dozen medications that I take. I was really liking this. It was my go to for me. Now, I hate it.<br> :date: __2020-12-28 07:31:04__
+> This was updated. Since then, I can't save my medications on the check interactions. We use to be able to do that. Save our medications. That helped me a lot. It helped me remember what not to take together. I have about a dozen medications that I take. I was really liking this. The medication you added, was there until you would delete it. Now, that's not a option at all. What's the clear all needed for, if medications don't get saved. Now, I hate it.<br> :date: __2020-12-30 01:45:09__
 
 > The drug interaction checker not working properly. Says it found 2 interactions but only describes 1.Shows it found 3 interactions but only describes 2...and so on.Does not save my drug interaction entries anymore. Have to re-enter everything,each time I want to check something. This started happening with the lastest update..extremely frustrating<br> :date: __2020-12-19 19:54:00__
 
@@ -301,6 +301,8 @@ The WebMD: Check Symptoms, Rx Savings, & Find Doctors app has been installed by 
 <img src="1_star_reviews_wordcloud.png" alt="com.webmd.android 1 reviews"/>
 </p>
 
+> Wanted to learn about possible thyroid problem and got a lousy quiz instead. What a joke!<br> :date: __2020-12-29 15:58:27__
+
 > many symptoms lacking especially related to brain and psychiatry.<br> :date: __2020-12-04 19:48:57__
 
 > Do not get this app. YOU WILL BE SPAMMED. I am receiving daily emails. Tried to unsubscribe, but the emails still keep coming. I will be deleting this app<br> :date: __2020-11-25 22:41:50__
@@ -318,7 +320,5 @@ The WebMD: Check Symptoms, Rx Savings, & Find Doctors app has been installed by 
 > Lies<br> :date: __2020-11-09 03:24:46__
 
 > Dont use it much<br> :date: __2020-11-07 22:40:51__
-
-> Probably the least helpful app I've ever used<br> :date: __2020-11-06 05:49:44__
 
 

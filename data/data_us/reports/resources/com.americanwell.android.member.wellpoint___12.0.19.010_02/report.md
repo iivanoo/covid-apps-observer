@@ -186,25 +186,25 @@ The LiveHealth Online Mobile app has been installed by more than **500000** time
 <img src="5_star_reviews_wordcloud.png" alt="com.americanwell.android.member.wellpoint 5 reviews"/>
 </p>
 
+> Good<br> :date: __2021-01-02 16:37:15__
+
+> Very friendly doctors! Hassle free and easy to use!<br> :date: __2021-01-01 21:54:45__
+
+> Very helpful and easy to use<br> :date: __2020-12-30 21:58:52__
+
+> Amazing. So nice to not have to drag out to a doctor when you don't feel well.<br> :date: __2020-12-30 16:05:15__
+
+> Both doctors I have seen listen to me instead of automatically misdiagnosing me or thinking everything is covid!<br> :date: __2020-12-30 15:38:34__
+
+> The doctor was very nice and helpful, I like this more than going to the E.R.<br> :date: __2020-12-30 07:07:23__
+
+> Amazing no waits no exposure at urgent cares to illnesses so convenient from the comfort of your home!<br> :date: __2020-12-28 16:18:17__
+
+> Easy to use! Very helpful!<br> :date: __2020-12-28 16:05:14__
+
 > Dr. Whyte was able to help me with what I was dealing with. I would recommend this to my friends. Great experience with this.<br> :date: __2020-12-28 02:00:37__
 
 > Nice personal<br> :date: __2020-12-26 23:49:42__
-
-> The best! We have several high risk at home. This is an amazing service, thank you!!! 💗<br> :date: __2020-12-26 15:36:24__
-
-> Very easy to use and had better scenery at my house 🙂.<br> :date: __2020-12-26 15:25:15__
-
-> Amazing!! I was about to leave my home at 2:30am on Christmas Day because I was feeling so bad. I grabbed my insurance card and noticed the 24/7 nurse helpline. She then informed /directed me to the app and I'm soo glad she did. I didnt have to leave my bed, talk to a great Dr, got my prescription and I'm so happy.<br> :date: __2020-12-26 09:43:32__
-
-> Better than going into the dr office when you feel bad....dr can diagnose these little things!! So much better!<br> :date: __2020-12-24 23:53:44__
-
-> Always a great experience.<br> :date: __2020-12-24 19:28:39__
-
-> Great<br> :date: __2020-12-24 13:23:24__
-
-> Great quick service. Kind Providers.<br> :date: __2020-12-23 23:08:47__
-
-> Easy to use, great!<br> :date: __2020-12-23 15:35:33__
 
 
 
@@ -213,6 +213,8 @@ The LiveHealth Online Mobile app has been installed by more than **500000** time
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.americanwell.android.member.wellpoint 4 reviews"/>
 </p>
+
+> Fast and professional<br> :date: __2020-12-30 21:51:16__
 
 > 1st time to use app. Worked great and had a good Dr. Will use again<br> :date: __2020-12-20 01:18:11__
 
@@ -231,8 +233,6 @@ The LiveHealth Online Mobile app has been installed by more than **500000** time
 > Doesn't have the same options available as the website, for example, when looking for a therapist it only showed me one, but on the website there was at least a dozen or so. Could probably use some updating, but still a convenient app to use.<br> :date: __2020-09-16 00:47:30__
 
 > My first experience was a positive one. Very easy to use. And the comfort of being @ home made talking to the dr even less stressful.<br> :date: __2020-09-15 01:17:18__
-
-> App is easy to use. Saved me an unbelievable amount of time.<br> :date: __2020-09-08 20:19:48__
 
 
 
@@ -298,6 +298,12 @@ The LiveHealth Online Mobile app has been installed by more than **500000** time
 <img src="1_star_reviews_wordcloud.png" alt="com.americanwell.android.member.wellpoint 1 reviews"/>
 </p>
 
+> Never used. Idk why it wants me to review??<br> :date: __2021-01-03 04:32:20__
+
+> Waste of time<br> :date: __2021-01-01 00:01:43__
+
+> Poor ask you to enter some code and the code is'nt provided<br> :date: __2020-12-29 16:06:58__
+
 > Unfortunately, this is the app that my insurance uses.<br> :date: __2020-12-27 21:55:44__
 
 > Worst medical app I've ever used. My card was charged 4 times and all the "doctor" did was tell me to go somewhere else. Never using again and I'm filing to get my money back.<br> :date: __2020-12-21 20:06:11__
@@ -311,11 +317,5 @@ The LiveHealth Online Mobile app has been installed by more than **500000** time
 > Only good for spam. Turned off notifications but still kept getting them. Could not even use it to consult Dr. Insisted on cash up front, would not accept Anthem's insurance.<br> :date: __2020-11-19 16:54:51__
 
 > Tried this for the first time they didn't get my birth date right even when I entered it correctly,<br> :date: __2020-11-01 18:28:59__
-
-> Did a tela visit still had to go to the doctor what a waste of time and money<br> :date: __2020-10-18 00:40:29__
-
-> Absolute garbage. The app itself feels like a 90s webpage and it's abysmal in terms of managing it's providers. Mine vanished without a trace, leaving me with needing a prescription renewal and the only way to get one was to spend another $175 on finding a new provider in the app. What's the point if you have no doctors continuity? And if this happens only occasionally, why wasn't I informed? Absolute trash -- find a better platform than this for yourself, honestly.<br> :date: __2020-10-08 13:30:53__
-
-> Garbage. You can't select a doctor, they show you a limited list of who to pick from and none of them were licensed doctors.<br> :date: __2020-09-28 18:55:24__
 
 

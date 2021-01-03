@@ -288,6 +288,8 @@ The Baptist Health Care On Demand app has been installed by more than **50000** 
 <img src="1_star_reviews_wordcloud.png" alt="net.baptisthealth.android.bhsf.careondemand 1 reviews"/>
 </p>
 
+> Everyone situation is different. If anything happens outside of the patient or doctors control be aware that you may have to pay for the visit like I did. I reached out to customer service about the situation and after 2 weeks I was told I still had to pay when clear communication with the doctor showed that the app was the fault. So be aware if you have a problem you may be still have to pay which isn't right.<br> :date: __2020-12-29 20:49:42__
+
 > I had Covid19 in july 2020. I was atended 3 times, by 2 doctors. They prescribed antibiotics and fever-pain medicine. My point is, I told both doctors I was 2 weeks with fever, not getting better, but they kept saying I "eventually would be better". After 2 weeks, I started feeling short of breathness, when standing up. I decided go hospital. There, in half hour, they found 2 lungs compromised by pneumonia, and imediatelly started antibiotics. In 4 days I was back home.<br> :date: __2020-12-23 19:24:41__
 
 > Doesn't work<br> :date: __2020-12-02 15:47:44__
@@ -305,7 +307,5 @@ The Baptist Health Care On Demand app has been installed by more than **50000** 
 > Got on the phone and was assigned a Dr. who only had one patient before me. Two hours later I gave up. What a waste!<br> :date: __2020-03-29 23:34:15__
 
 > Todo está bien con la atención de los doctores pero no llegan las prescripciones a las farmacias lo que hace totalmente inútil la aplicación para los pacientes y el esfuerzo de los doctores para brindar el servicio<br> :date: __2020-03-28 17:49:54__
-
-> Not worth to even do the download....<br> :date: __2020-03-22 23:08:03__
 
 

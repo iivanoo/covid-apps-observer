@@ -142,6 +142,8 @@ The COVIDCare NI app has been installed by more than **50000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="net.hscni.covid19ni 5 reviews"/>
 </p>
 
+> Good so far<br> :date: __2020-12-31 05:36:23__
+
 > A great app for the current crises. Well designed and easy to navigate<br> :date: __2020-12-15 01:13:45__
 
 > Excellent service I could recommend<br> :date: __2020-10-19 15:13:53__
@@ -159,8 +161,6 @@ The COVIDCare NI app has been installed by more than **50000** times. At this ti
 > Amazing the p we people who it doesn't work you need to go to the NHS website or gothirmont web don't give the 1 star if do you are ungrateful and it probably your phone. 😂😂😂<br> :date: __2020-06-06 22:45:27__
 
 > Easy to use informative and source of good advice and information specific for NI residents.<br> :date: __2020-06-06 10:56:34__
-
-> If you are from UK but not from NI, this app is not for you as it may not match the advice your local government is giving. Crucially, this is the advice of the Northern Irish HSC (NHS equivalent).<br> :date: __2020-06-02 13:07:43__
 
 
 
@@ -246,6 +246,8 @@ The COVIDCare NI app has been installed by more than **50000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="net.hscni.covid19ni 1 reviews"/>
 </p>
 
+> Pointless really, after you go to the trouble of registering and getting it set up, all it does is ask you 3 questions. Have you a temperature? Have you a continuous cough? Did anyone in your household have covid symptoms? That's it!!<br> :date: __2021-01-01 20:35:30__
+
 > Hasn't worked since the upgrade. Keeps asking me to connect to network when I am already connected<br> :date: __2020-11-18 14:07:13__
 
 > Complete rubbish. I answered all the questions in the symptom checker as perfectly healthy, it told me to isolate as I had covid symptoms. Absolute nonsense.<br> :date: __2020-10-26 23:26:48__
@@ -263,7 +265,5 @@ The COVIDCare NI app has been installed by more than **50000** times. At this ti
 > doesn't work...!<br> :date: __2020-07-31 22:10:26__
 
 > This is not the official app for Northern Ireland COVID19. STOPCOVID NI is the correct app<br> :date: __2020-07-31 19:47:35__
-
-> unfortunately, COVIDCard NI Has stopped so the app is useless as it just crashes And i wish people could read the words NI 'Northern Ireland' and stop moaning that its not working in your area as it clearly says Northern Ireland in the Description a few times on the download page. only problem i have with app is it don't load and just crashes.<br> :date: __2020-07-31 13:04:30__
 
 

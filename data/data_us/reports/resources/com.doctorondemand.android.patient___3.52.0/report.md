@@ -191,25 +191,25 @@ The Doctor On Demand app has been installed by more than **1000000** times. At t
 <img src="5_star_reviews_wordcloud.png" alt="com.doctorondemand.android.patient 5 reviews"/>
 </p>
 
-> The dentist of mine implants has to narrow down others control that that have on me and mine stuff and show me evidence on mine networking reports them pass jughment for me<br> :date: __2020-12-28 06:07:25__
+> Doctor on Demand is as good, if not better than, my primary care provider who wouldn't care for me because I hadn't had my initial patient visit. The doctors I've seen have been caring, timely and very helpful.<br> :date: __2021-01-03 08:22:44__
 
-> Great and easy to use. Doctors are very kind and can help even with no in person time.<br> :date: __2020-12-27 23:57:12__
+> My two experiences with the app have both been great. I know people are in front of me and it takes a lot longer to reach medical provider but this is better than going out. They really get to see candid atmosphere and see things happen live.<br> :date: __2021-01-03 06:14:11__
 
-> Extremely fast and very friendly<br> :date: __2020-12-27 21:06:28__
+> Wonderful<br> :date: __2021-01-03 04:26:35__
 
-> Great providers.<br> :date: __2020-12-27 20:58:37__
+> Phenomenal!! Modern day medicine and a way to see a doctor and get your meds.. Dr on Demand app!! I highly recommend it! The doctor I saw was fantastic she was amazing! With throbbing tooth pain (late at night) she didnt make me wait forever and had my antibiotics called in to a 24hr pharmacy in minutes! What else can you ask for?! With tooth pain.. you don't have a tolerance for anything let alone waiting time. Thanks dr On Demand!<br> :date: __2021-01-03 04:14:18__
 
-> Very knowledgeable with a thorough examination<br> :date: __2020-12-27 20:05:57__
+> Love how you can be seen and treated at home without having to go too many places when feeling sick! All the doctors I've seen are great and thorough in diagnosing you and sending prescriptions to your preferred pharmacy fast to get treatment.<br> :date: __2021-01-03 03:41:37__
 
-> The doctor was amazing very patient friendly and not trying to diagnose me with random things 😊 highly recommend this app..<br> :date: __2020-12-27 16:46:47__
+> Exceptional<br> :date: __2021-01-03 03:14:46__
 
-> Great find!<br> :date: __2020-12-27 02:54:04__
+> Very professional<br> :date: __2021-01-02 23:31:59__
 
-> Great resource.<br> :date: __2020-12-27 02:51:43__
+> So nice to have as an option.<br> :date: __2021-01-02 23:25:55__
 
-> Wonderful<br> :date: __2020-12-27 01:53:16__
+> Amazing<br> :date: __2021-01-02 23:11:38__
 
-> Life saver!<br> :date: __2020-12-26 22:45:02__
+> Incredible! Really! Dr+ is a Godsend and has made it much easier to get the medical treatment I need. I live in a rural area with few doctor's which often makes appointments hard to come by witbout being very ill. I look forward to continuing to use this platform. It is so easy to navigate and keeps you updated all the way through your appointment making it easy to keep up with visits that may otherwise be forgotten about. Thank you Dr+! Truly, thank you!<br> :date: __2021-01-02 23:10:10__
 
 
 
@@ -218,6 +218,10 @@ The Doctor On Demand app has been installed by more than **1000000** times. At t
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.doctorondemand.android.patient 4 reviews"/>
 </p>
+
+> Very helpful info<br> :date: __2021-01-01 01:21:01__
+
+> My first visit was years ago and it was ok, but I'm not a fan of telemedicine. The 2nd was disconnected before it even got started, so I went back in and set up a same day appointment. Third times a charm. Although I'm still not a fan of telemedicine, it is better than urgent care or emergency room in non-emergency situations.<br> :date: __2020-12-30 22:27:21__
 
 > Good<br> :date: __2020-12-24 19:08:19__
 
@@ -235,10 +239,6 @@ The Doctor On Demand app has been installed by more than **1000000** times. At t
 
 > Wonderful insight and caring ways.<br> :date: __2020-12-14 18:53:59__
 
-> I guess its a great app Im just now learning about these Dr.Site Apps you can get a Dr. Over the web now and not have to go in. Before long they will have a scan system on your phone so they can scan your body and see everything. Before or so you dont go to hospitals. Hopefully in the near feuture they can also cure us at home too. Without touching us.<br> :date: __2020-12-12 02:40:24__
-
-> Very helpful. Nice and friendly. Got most pending issue addressed. It was twice the price of a busy visit copay but I'm too sick to drive so it's worth it. Thanks!!<br> :date: __2020-12-11 23:15:40__
-
 
 
 #### 3-star reviews
@@ -254,8 +254,6 @@ The Doctor On Demand app has been installed by more than **1000000** times. At t
 > Great providers. But the app is not so good.<br> :date: __2020-12-12 01:48:33__
 
 > Can be improved<br> :date: __2020-11-05 14:46:03__
-
-> Psych will not allow appts for Medicare insured. Also, doctors are not allowed to write prescriptions for controlled substances such as anxiety meds or some psych medications. Should be clearly stated in app<br> :date: __2020-10-28 21:08:45__
 
 
 
@@ -279,8 +277,6 @@ The Doctor On Demand app has been installed by more than **1000000** times. At t
 
 > I absolutely love my doctor. What I DON'T like is that this app screws up appointment availability on a regular basis. They were supposed to message my doctor to explain that the app had no available appointments, which is why I couldn't schedule for the following week. My doctor never even received the message. There are also issues with video quality.<br> :date: __2020-11-05 15:52:37__
 
-> According to what their customer service just told me, they are for urgent care ONLY. Would only give me a partial refill for a drug that can't be abused, and is used to treat a chronic condition. I suppose they would be a good option as a last resort, so I gave them a generous 2 stars.<br> :date: __2020-10-23 04:10:33__
-
 
 
 #### 1-star reviews
@@ -288,6 +284,16 @@ The Doctor On Demand app has been installed by more than **1000000** times. At t
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="com.doctorondemand.android.patient 1 reviews"/>
 </p>
+
+> No connection<br> :date: __2021-01-03 07:56:50__
+
+> I had to cancel my appointment due to an emergency 17 hours before the time I had scheduled. I wasn't able to reschedule it because they have a 24 hour rule and thats completely understandable. Except for the fact they'll still charge me $300 for an appointment I couldn't make or reschedule and now I can't afford to see a doctor at all. What a way to ring in 2021.<br> :date: __2021-01-02 00:27:28__
+
+> Terrible absolutely ridiculous! Received no help at all! I will never use this app again! If I could of not given any stars to post this I would of.<br> :date: __2021-01-01 05:30:26__
+
+> All they want is your CC# when your insurance company covers everything this is a SCAM!!!?<br> :date: __2020-12-31 19:29:22__
+
+> Terrible. I made 2 appointments today. The first was ended automatically as soon as it started with no reason. The 2nd I waited for 15 minutes to then get connected with black video screen to then have that end automatically too. Waste of time. Not sure if there are better alternatives, but anything must be better than this. Especially if you value your time.<br> :date: __2020-12-29 02:03:43__
 
 > Multiple cancellations without notice by different doctors<br> :date: __2020-12-22 21:23:27__
 
@@ -298,15 +304,5 @@ The Doctor On Demand app has been installed by more than **1000000** times. At t
 > Have used this app before with zero issues. And then yesterday came and I have an appt. That appointment goes just fine and doctor says she will call me in a script which was the reason for appt - med refill. Usually within less than an hour the full summary is written by doc and posted on app for me and then the script is called in NONE OF THIS HAS HAPPENED. I have submitted questions for customer service for help and no one answers me. At all. Over 24 hours has passed and radio silence. ......<br> :date: __2020-12-20 05:49:48__
 
 > Dr. Phil said that his app covered Medicare specifically Mental Health appointments during the pandemic... it does not cover Medicare! I deleted it immediately it was a lie.<br> :date: __2020-12-19 16:57:48__
-
-> You have to be sick 10 days before get some real meds. In the meantime spend money for OTC medicines that don't work.<br> :date: __2020-12-18 00:13:14__
-
-> App won't download! The app stays in pending status and then errors out. I made sure it wasn't my phone by downloading another app and checking space and it isn't my phone.<br> :date: __2020-12-17 10:32:19__
-
-> App sucks... The provider does not have enough control when it comes to scheduling. So if you get one you like and others like you'll end up losing your time bc someone else took it.<br> :date: __2020-12-17 01:09:56__
-
-> Why cant i get this to downlaod Ive tried many times and it wont go<br> :date: __2020-12-16 00:09:52__
-
-> Dr told me being abused as a kid and getting anxiety is my fault and should increase effexor regardless of withdrawal symptoms. Absolutely rude and ignorant<br> :date: __2020-12-15 17:20:08__
 
 
