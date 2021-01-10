@@ -271,6 +271,10 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 <img src="1_star_reviews_wordcloud.png" alt="au.gov.health.covid19 1 reviews"/>
 </p>
 
+> No alert or information about the current lockdown issued today. Why no alert from this app or COVIDSafe?<br> :date: __2021-01-08 06:58:05__
+
+> Stupid, useless app. Uninstalled cos Greg Hunt sux!<br> :date: __2021-01-04 19:07:54__
+
 > Best government statement ever, "if every Australian downloads this app we will open the pubs and clubs". What a waste of money<br> :date: __2020-12-24 12:04:31__
 
 > Gay<br> :date: __2020-12-21 00:32:03__
@@ -286,9 +290,5 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 > Very very very very disappointing<br> :date: __2020-10-11 10:52:04__
 
 > Nice if big brother to secretly install this app on my phone without my permission<br> :date: __2020-10-07 15:31:55__
-
-> This app is data mining and just steals personal information without consent, the data is collected by deceiving the user by stating it is a health & fitness app. It isn't, it tracks your location,phone number, ip address, serial number of your phone & you, without the user's consent, uninstall immediately!<br> :date: __2020-09-18 12:21:30__
-
-> Doesn't work<br> :date: __2020-09-14 02:45:21__
 
 

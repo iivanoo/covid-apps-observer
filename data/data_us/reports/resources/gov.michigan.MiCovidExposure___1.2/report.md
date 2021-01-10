@@ -126,6 +126,8 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="gov.michigan.MiCovidExposure 5 reviews"/>
 </p>
 
+> Free<br> :date: __2021-01-04 16:26:34__
+
 > A little piece of mind for these times we live in<br> :date: __2020-12-29 13:49:56__
 
 > Everybody should get this app so all of us can be safe and healthy so please use the app<br> :date: __2020-12-26 00:59:02__
@@ -143,8 +145,6 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 > Feel safer<br> :date: __2020-12-11 04:10:05__
 
 > Nice to know of the Corona<br> :date: __2020-12-10 20:00:17__
-
-> All negative reviews seem to speak about the lack of participation by the public. Instead of rating the app poorly, how about we take a moment to engage our family and friends, educate them about this app, and encourage them to use it. It will never be perfect but it is the best contact tracing solution available at this time.<br> :date: __2020-12-10 17:13:52__
 
 
 
@@ -182,6 +182,8 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 <img src="3_star_reviews_wordcloud.png" alt="gov.michigan.MiCovidExposure 3 reviews"/>
 </p>
 
+> My app last exposure check was Dec 30 2020. I have my location and Bluetooth on. Not working..<br> :date: __2021-01-09 12:23:32__
+
 > It only works if everyone has the app installed, and most do not. Unless this is mandated the app is pretty much useless. I will keep it for now in case more people use it.<br> :date: __2020-12-10 11:42:53__
 
 > Just checked into this app today (12/9). Last exposure check was 11/18. Something is broken it seems. Really want this to work.<br> :date: __2020-12-09 13:35:36__
@@ -200,8 +202,6 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 
 > Being able to see a how many people in your area have downloaded the app would be helpful. Its far more accurate if my city has 5k+ downloads than if it only has 500.<br> :date: __2020-11-14 17:53:39__
 
-> I am a nurse and have tested positive in April. No pin given. Won't let me submit my result<br> :date: __2020-11-14 09:22:03__
-
 
 
 #### 2-star reviews
@@ -209,6 +209,8 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="gov.michigan.MiCovidExposure 2 reviews"/>
 </p>
+
+> Haven't had a logged exposure check since Dec 27 with no way to refresh.<br> :date: __2021-01-07 15:37:22__
 
 > Why isn't there a Caucasian stat on the racial breakdown...?<br> :date: __2020-12-18 23:00:36__
 
@@ -228,8 +230,6 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 
 > Would not come in kept trying<br> :date: __2020-11-19 00:24:18__
 
-> The main page with the stats has half the screen taken up with a banner crediting John Hopkins for the work. You can't minimize it and it hinders the usability of the app<br> :date: __2020-11-18 22:44:08__
-
 
 
 #### 1-star reviews
@@ -238,24 +238,24 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="gov.michigan.MiCovidExposure 1 reviews"/>
 </p>
 
-> Covid-19 everywhere around me and n Not one notification..<br> :date: __2021-01-02 22:13:36__
+> What a F\*\**ing Joke<br> :date: __2021-01-09 04:28:07__
 
-> It's not updating.<br> :date: __2020-12-30 19:25:54__
+> It just doesn't work. It doesn't alert me at all and its pointless<br> :date: __2021-01-06 16:57:59__
+
+> I don't understand the point of this app. I've changed myself to multiple different locations, following all of the instructions, and there's no notifications of covid nearby. Which, is hard to believe because there's 10k cases reported daily.<br> :date: __2021-01-06 02:06:21__
+
+> It's not updating. Last exposure update was 12/24/20 and by 01/03/2021 the "No exposure" update was still on 12/24/20. Makes no sense to keep an app on my phone that is not keeping me posted of exposures.<br> :date: __2021-01-05 22:49:21__
+
+> I have been exposed to several postive people recently. Not one have i had an alert. I dont get how this works.<br> :date: __2021-01-05 20:46:53__
+
+> Impossible to report a positive case without an 8 digit PIN. Calling the number provided just gave you the run around with multiple prompt options, none of which were to obtain a pin. Calling the local health department was just as big of a joke as none of the 3 people I spoke to, including a nurse on call, knew of a pin that I needed to report a case. What's the point of a tracking app if it's this difficult to report when you've had a positive test? Uninstalled this useless app!<br> :date: __2021-01-04 19:20:36__
+
+> Useless and unreliable.<br> :date: __2021-01-04 15:23:17__
+
+> Covid-19 everywhere around me and n Not one notification..<br> :date: __2021-01-02 22:13:36__
 
 > Randomly turns off bluetooth<br> :date: __2020-12-30 07:48:01__
 
 > What a joke. To report your positive test it says that the Health Department will contact every positive person and give you a code. Its been over 3 weeks since my positive test and no call from anyone. So how is it suppose to let people know if they have been exposed. Another waste of time by the state.<br> :date: __2020-12-29 06:38:11__
-
-> Can't see statistics. Causes issues with phone crashing, long lag, frequently disconnects wifi and 4g, random call noise. Do not install. Worthless<br> :date: __2020-12-24 07:32:10__
-
-> App is a fraud does not alert you covid exposures.<br> :date: __2020-12-24 01:48:06__
-
-> Never got id # to input. 3 pos. 🤷🏽‍♂️<br> :date: __2020-12-22 09:51:18__
-
-> These need a way to see if anyone else even uses the app in your area. There should be an anonymous way to list number of users in your country or neighborhood or something. I'm not keeping it since there is zero way to tell if if would even work anyway. *Worthless dev response as per usual.<br> :date: __2020-12-21 18:58:20__
-
-> A great idea if it actually worked...<br> :date: __2020-12-19 16:51:14__
-
-> Needs help. I tried to report a Covid case and the app asks for a code. So I was not able to report on the system. In addition, I live in a very populated area and not one case, not one.<br> :date: __2020-12-17 13:14:04__
 
 

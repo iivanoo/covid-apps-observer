@@ -119,10 +119,12 @@ The NHS Ayrshire & Arran app has been installed by more than **1000** times. At 
 #### 5-star reviews
 
 <p align="center">
-
+<img src="5_star_reviews_wordcloud.png" alt="uk.nhs.ayrshirearran 5 reviews"/>
 </p>
 
-No recent reviews available with 5 stars.
+> Love it<br> :date: __2021-01-05 00:10:17__
+
+
 
 #### 4-star reviews
 

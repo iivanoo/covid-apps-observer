@@ -4,42 +4,42 @@
         "store_country": "fr",
         "store_lang": "fr",
         "latest_crawled_version": "4.0.1",
-        "latest_crawl": 1609685951
+        "latest_crawl": 1610212884
     },
     {
         "id": "org.crf.minutis",
         "store_country": "fr",
         "store_lang": "fr",
         "latest_crawled_version": "2.0.3",
-        "latest_crawl": 1609685952
+        "latest_crawl": 1610212884
     },
     {
         "id": "de.xikolo.openwho",
         "store_country": "fr",
         "store_lang": "fr",
         "latest_crawled_version": "3.7",
-        "latest_crawl": 1609685954
+        "latest_crawl": 1610212885
     },
     {
         "id": "fr.aphp.covidom",
         "store_country": "fr",
         "store_lang": "fr",
         "latest_crawled_version": "1.5.21",
-        "latest_crawl": 1609685957
+        "latest_crawl": 1610212889
     },
     {
         "id": "com.ambulis.aphm.covid",
         "store_country": "fr",
         "store_lang": "fr",
         "latest_crawled_version": "1.2.0",
-        "latest_crawl": 1609685966
+        "latest_crawl": 1610212894
     },
     {
         "id": "fr.gouv.android.stopcovid",
         "store_country": "fr",
         "store_lang": "fr",
         "latest_crawled_version": "2.2.0",
-        "latest_crawl": 1609685969
+        "latest_crawl": 1610212899
     },
     {
         "id": "com.bsmart.covid19",
@@ -51,21 +51,21 @@
         "store_country": "fr",
         "store_lang": "fr",
         "latest_crawled_version": "0.0.42",
-        "latest_crawl": 1609685988
+        "latest_crawl": 1610212915
     },
     {
         "id": "fr.esantebfc.engage",
         "store_country": "fr",
         "store_lang": "fr",
         "latest_crawled_version": "4.2.8",
-        "latest_crawl": 1609685994
+        "latest_crawl": 1610212921
     },
     {
         "id": "com.sanpsy.kanopee",
         "store_country": "fr",
         "store_lang": "fr",
         "latest_crawled_version": "6",
-        "latest_crawl": 1609685995
+        "latest_crawl": 1610212926
     },
     {
         "id": "ml.lenali.kunko",

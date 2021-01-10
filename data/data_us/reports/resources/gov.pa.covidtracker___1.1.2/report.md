@@ -141,6 +141,8 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="gov.pa.covidtracker 5 reviews"/>
 </p>
 
+> Awesome<br> :date: __2021-01-08 15:09:02__
+
 > Very good app. Very informative.<br> :date: __2020-12-31 23:42:39__
 
 > This app has helped me by notifying me if a store/shop/place is safe to enter.<br> :date: __2020-12-30 17:52:05__
@@ -159,8 +161,6 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 
 > Extremely well executed and unobtrusive<br> :date: __2020-12-24 21:28:17__
 
-> THANK YOU<br> :date: __2020-12-23 17:31:54__
-
 
 
 #### 4-star reviews
@@ -168,6 +168,8 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="gov.pa.covidtracker 4 reviews"/>
 </p>
+
+> Made my phone die dead like go black and never turn on again.<br> :date: __2021-01-07 01:42:27__
 
 > It's the least people can do<br> :date: __2021-01-02 03:38:12__
 
@@ -187,8 +189,6 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 
 > 19 I watch it on my TV on my YouTube I watch the news so sense of happiness on my phone and I can hear everything that goes on here in PA Easton I live here<br> :date: __2020-12-04 18:39:52__
 
-> There is a lot of information to read, but the details are essential to our/my life! Thank you so very much for the info that is helping us. Amen<br> :date: __2020-12-03 15:19:42__
-
 
 
 #### 3-star reviews
@@ -196,6 +196,10 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="gov.pa.covidtracker 3 reviews"/>
 </p>
+
+> this isn't a reflective rating on this app; however, maybe this is proof on how well my VPN is working.. because i don't live in PA. does it even matter that i don't live in PA, if i was wanting to use the app? this raises another concern of mine. my VPN is on all the time, so how could this app, if i did set it up, know where I've been? does it all permission to bypass VPN settings? if not, how would it accurately know where I've been? or have i been mislead on what a VPN does?<br> :date: __2021-01-08 06:20:15__
+
+> Unfortunately, not enough people use this for it to be useful.<br> :date: __2021-01-06 20:29:16__
 
 > The app is simple enough to understand, but the methodology of the Public Health department makes the app useless. I am covid positive, and cannot "sound the alarm" through the app without a special code that was never given to me. So how is the alert system supposed to work if I can't alert anyone??<br> :date: __2020-12-10 06:03:19__
 
@@ -212,10 +216,6 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 > Not sure that this is truly private. If I have to give my phone number to DOH employee to receive Random ID, then this is no longer private because DOH then has my phone number and knows my identity. How is this private or confidential?<br> :date: __2020-11-18 23:14:49__
 
 > 😁it doesn't tell me much about the Virus itsef<br> :date: __2020-11-13 17:27:08__
-
-> Very important<br> :date: __2020-11-12 19:24:32__
-
-> I don't know about this but, it is installed anyway.<br> :date: __2020-11-10 20:12:31__
 
 
 
@@ -253,6 +253,10 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="gov.pa.covidtracker 1 reviews"/>
 </p>
 
+> The virus is fake and there is no need for this app.<br> :date: __2021-01-06 19:39:47__
+
+> Was never able to update app after testing positive. No point in using it as far as I can see.<br> :date: __2021-01-05 13:57:07__
+
 > I got it it never went off. I was thinking it was should notify me if near someone with COVID-19.<br> :date: __2020-12-31 18:38:30__
 
 > A 5-year-old can't even figure this out and I'm a freaking 7-year-old and I wasn't able to figure this out literally wants you to set up and I do not want to set up<br> :date: __2020-12-30 01:01:03__
@@ -268,9 +272,5 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 > It does not even work I'm Also being told That our State Govrment Can spy through this app since this app came out I feel good With all my symptoms<br> :date: __2020-12-23 00:55:46__
 
 > Not helpful in anyway<br> :date: __2020-12-21 21:20:59__
-
-> Since I never received a call from the department of health when I tested positive to contact trace and give me the code to input in the app, this is a useless battery drainer.<br> :date: __2020-12-20 23:05:30__
-
-> We need help to stop those people who have been involved with this issue<br> :date: __2020-12-17 02:29:28__
 
 

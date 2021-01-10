@@ -163,6 +163,8 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 <img src="5_star_reviews_wordcloud.png" alt="gov.fema.mobile.android 5 reviews"/>
 </p>
 
+> Good<br> :date: __2021-01-04 06:06:34__
+
 > This is the best so easy to use<br> :date: __2020-12-09 13:53:21__
 
 > If you dont have this, i hope your affairs are in order! The warnings and notices are timely and accurate (for now, we'll see how Mr Biden tweaks things)<br> :date: __2020-12-09 03:49:42__
@@ -180,8 +182,6 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 > This is one of the essential apps.<br> :date: __2020-11-19 15:28:00__
 
 > what does this stand for... anyway ty and lúvu<br> :date: __2020-11-17 07:33:50__
-
-> Great<br> :date: __2020-11-15 19:38:04__
 
 
 
@@ -247,11 +247,11 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 <img src="2_star_reviews_wordcloud.png" alt="gov.fema.mobile.android 2 reviews"/>
 </p>
 
+> Into a busy season and it's worse. Even after clearing cache, rebooting phone, etc still getting multiples of same exact alerts and several alerts with little or no lead time and now (once again) many - almost 40% - warnings with no info at all or nothing updated in the alert information. That's probably FEMA but still seriously downgrades usefulness. So problematic that other weather apps are needed for safety.<br> :date: __2021-01-06 13:09:50__
+
 > Super irregular performance and notifications. I cannot rely on this for requested information or results<br> :date: __2020-12-12 02:22:01__
 
 > Need more control over types of alerts. Don't need to be woken from deep sleep at 3 am for fog warning, for instance. Fog won't harm me when safe in bed in sturdy house unless I hurt myself being startled in my sleep by loud notification.<br> :date: __2020-11-29 09:17:51__
-
-> No change. Even after clearing cache, rebooting phone, etc still getting multiples of same exact alerts and several alerts with little or no lead time. That's probably FEMA but still downgrades usefulness. So problematic that other weather apps are needed for safety.<br> :date: __2020-11-15 22:38:27__
 
 > Once I sign in it then sends me a email code to sign in again.... To many steps<br> :date: __2020-09-19 20:23:31__
 
@@ -275,6 +275,10 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 <img src="1_star_reviews_wordcloud.png" alt="gov.fema.mobile.android 1 reviews"/>
 </p>
 
+> Stopped working a few days ago. Started sending empty alerts. Reinstallation didn't help. Wouldn't accept location input.<br> :date: __2021-01-04 15:46:26__
+
+> Can't load location for alerts or risk mitigation<br> :date: __2021-01-03 18:53:48__
+
 > Dumb app. Just go outside and read the weather instead.<br> :date: __2020-12-04 16:24:43__
 
 > NO ALERTS... APP IS A JOKE.<br> :date: __2020-11-14 18:25:33__
@@ -290,9 +294,5 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 > Wakes you up randomly at night with repeat information.<br> :date: __2020-10-22 11:33:02__
 
 > This hurricane I got turned down in just a few hours. Yeah technology!!!!!<br> :date: __2020-10-03 11:55:27__
-
-> Dont attempted to think of getting help all they do is deny<br> :date: __2020-09-26 19:00:17__
-
-> Doesn't work . Can't scroll on screen or get may location informaton<br> :date: __2020-09-09 13:06:18__
 
 

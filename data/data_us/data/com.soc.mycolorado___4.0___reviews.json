@@ -1,5 +1,17 @@
 [
     {
+        "reviewId": "gp:AOqpTOHxE1gKRUVdwyqoq83lqqQBuo1AjoclEL7wNtBDfqs5uNyoAkaqOEBh1znueh7u9-zclFFbnrtaYSklzw",
+        "userName": "Tre Hoffman",
+        "userImage": "https://play-lh.googleusercontent.com/-aGVnSMp-Eq8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnwXhLXxzPyY4jHWYpcIIc0Ctf7ww/photo.jpg",
+        "content": "Unable to add digital ID due to a camera malfunction during the verification. Will rate again when issue is fixed.",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.0",
+        "at": "2021-01-09 03:02:10",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOF2n5W8T3yxccLQeVuOpha5Z2ZrQsiv8ZSJoa_qUYO8PltjT6AFhO88MxMlx1iri6pBblg_hMz-1KFOsw",
         "userName": "Jefferson Davis",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhKTGN6JTmu87hcfzttD1o056IFjuKhocfo_YgTXOk",
@@ -173,7 +185,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgFxokmySOPp7MOFmil1DKCVrFQyKhiCTE5onkN",
         "content": "This app is a good idea which is not ready for Prime Time. The app is hard to get set up. One can create an account, but then one needs the \"Authentication\" number which is supposedly emailed. I found that less than 10% of the time did I actually get an email. OK, fine, I eventually got one that worked, and got logged on. THE PROBLEM IS THAT IF YOU GET LOGGED OFF, YOU YOU NEED ANOTHER \"AUTHENTICATION\" EMAIL TO GET LOGGED ON AGAIN, AND THEY MOSTLY DON'T ARRIVE. In addition, this app is supposed to be able to be used on the roadside to touchlessly give one's info to a law enforcement officer. If the emails don't reliable arrive to a home with a fast wired connection, think what problems would arise on the side of a remote road somewhere in rural Colorado. And imagine telling a State Trooper \"just a minute, I'm waiting for the email.\" As long as the app requires an unreliable \"Authentication\" I certainly can't recommend it. Shouldn't authenticating once be enough? ADDENDUM: A comment on this review from the State of Colorado - Governor's Office of IT asked me to contact their tech support. I had previously done that - they said: \"When you created your account, Ping ID is used to pair your device. I am reaching out to our developers to confirm what email address is connected to your account. As soon as I have more information I will reach back out and let you know!\" After 12 days I have heard nothing. I contacted them again, with a copy of this review, and we'll see if they do anything this time. I know things are weird in this country right now, so I'm willing to patiently wait and see what happens. I'd really like them to address the issue of whether one actually has to do the \"Authentication\" every time one logs into the app, or if that's an error of some sort. Maybe they could comment on that here?",
         "score": 1,
-        "thumbsUpCount": 5,
+        "thumbsUpCount": 6,
         "reviewCreatedVersion": "4.0",
         "at": "2020-12-14 23:46:26",
         "replyContent": "Hi Dave, I am sorry you had issues with the app. Please contact our support team at myColorado@state.co.us and they can help.",
@@ -353,7 +365,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiQQQoFZhwd9xx2u-fW4laaZPJqFDaJlsPvGJ0jvb8",
         "content": "I'm new to the app & will leave a more detailed review at a later date. Just wanted to point out to the person who posted recently & the developers: the app isn't the cause of your old address showing up when scanned, the state's records are. I went through the process of updating my address online last year. Any time I've rented a car since then, my license pulls my old address. If a trooper scanned your card, I'd assume the same would happen, so the digital ID is no more disadvantegous.",
         "score": 5,
-        "thumbsUpCount": 3,
+        "thumbsUpCount": 4,
         "reviewCreatedVersion": "4.0",
         "at": "2020-12-02 02:25:15",
         "replyContent": "Hi Bailey, thank you for the great review and the information!",
@@ -638,7 +650,7 @@
     {
         "reviewId": "gp:AOqpTOEvwS5whtlfE8TEhubaIu9eJbhoJVWgHq6_YmPhRKfJIiW51eIDcqd4sU2WFiuc1_CWXKIJYwdygUhK4Q",
         "userName": "Josh Leber",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiZGgy6J7IYX60IkNhP1KrDzaRM5BheXa2R1HfVYQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi0F-phf_j0aSsgav409KA_zEe0zCGwkno-D5RLb0I",
         "content": "So, just renewed my license and while it was easy and the card arrived fast, it was missing the donor heart. I contacted support and they said it was not checked but I 100% did check it as it is really important to me so I made sure. They will not fix it! Really disappointed as the system errored and they will not correct it.",
         "score": 2,
         "thumbsUpCount": 5,

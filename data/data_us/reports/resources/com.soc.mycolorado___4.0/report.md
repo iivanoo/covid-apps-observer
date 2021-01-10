@@ -270,6 +270,8 @@ The myColorado app has been installed by more than **10000** times. At this time
 <img src="2_star_reviews_wordcloud.png" alt="com.soc.mycolorado 2 reviews"/>
 </p>
 
+> Unable to add digital ID due to a camera malfunction during the verification. Will rate again when issue is fixed.<br> :date: __2021-01-09 03:02:10__
+
 > My household moved 5 months ago & 6 of us changed our address online through DMV & followed the instructions to stick a label on the back of our DL's with the new address. However when I scanned the back of my DL today to try to create an account, my information still had my previous address. So this app really won't help me or any of my household members because the address will always be incorrect & cause problems for us in which we will still have to show our actual DL with the sticker.<br> :date: __2020-11-17 19:24:28__
 
 > Cannot access my account anymore. The account recovery should work. I put in my email address but nothing comes back to reset my password.<br> :date: __2020-10-10 20:29:38__
@@ -287,8 +289,6 @@ The myColorado app has been installed by more than **10000** times. At this time
 > I'm STILL not sure what the actual use of this is. when i added my ID it said it's not a replacement for the physical ID. also it's been easier to just pull out my ID than login again. at least the one time i was gonna use it i just gave up because i didn't have time to go through the verification process every time.<br> :date: __2020-04-28 23:55:02__
 
 > Sweet, I need a registration renewal and everything is closed. So I see on Nextdoor about this app. But I can't use it - why? I have a 2 yr old $150 Lenovo Phab which won't allow this app. So I need to buy a new phone to use - great. Not everyone can afford a new phone every year especially Seniors. The emissions places are closed as are the DL locations so I guess I just drive with an expired tag.<br> :date: __2020-04-22 20:23:52__
-
-> I dont like the registration processes seems like a traker, n I dont trust it.<br> :date: __2020-04-21 03:11:37__
 
 
 

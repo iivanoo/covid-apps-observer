@@ -201,6 +201,8 @@ The ABTraceTogether app has been installed by more than **100000** times. At thi
 <img src="3_star_reviews_wordcloud.png" alt="ca.albertahealthservices.contacttracing 3 reviews"/>
 </p>
 
+> Applies to build 1.5.0. United States visitors will find the app will not download from PlayStore. Do not know if same issue exists with iPhone. Several workarounds. Need to set PlayStore to Canada site. (1) Google has an option to change country for apps. States cannot change back for a year. (2) Can reset your phone and then apply for a new Google account once in Alberta. (3) Buy a prepaid phone which I did. Do not sign into your US Google account. Create new Google account.<br> :date: __2021-01-05 20:26:24__
+
 > Good<br> :date: __2020-12-03 11:14:09__
 
 > I have uninstalled this app. I was the early adopter of this app but now that the national app is available, I want to switch over to that one. I have uninstalled it to voice my option and hopefully my Alberta government will see the drop-off installment of this app to take appropriate action.<br> :date: __2020-11-02 16:52:14__
@@ -218,8 +220,6 @@ The ABTraceTogether app has been installed by more than **100000** times. At thi
 > It has been a good app for now.<br> :date: __2020-10-07 05:20:33__
 
 > It's irritating that it has a large notification on my screen all the time to note that it's running, rather than an icon, or the option to just run in the background without that. Worse, it drains my battery, using as much power as almost everything else I run combined. I'd like to use it, but this isn't feasible.<br> :date: __2020-08-27 01:11:47__
-
-> Extreme battery usage on a Pixel 2. Want to keep it don't know what to do<br> :date: __2020-08-20 06:30:42__
 
 
 
@@ -257,6 +257,16 @@ The ABTraceTogether app has been installed by more than **100000** times. At thi
 <img src="1_star_reviews_wordcloud.png" alt="ca.albertahealthservices.contacttracing 1 reviews"/>
 </p>
 
+> Pretty disappointing, compared to the national app especially. Permanent notification is annoying, and seems to defeats the purpose of having a convenient tracing app if it's in your face all the time.<br> :date: __2021-01-05 23:11:58__
+
+> This app SUCKS! It EATS your phones battery, is constantly running and even after you get home, there is no way to turn it off. In 3 hours my phone charge dropped from 98% to 56% with my phone just sitting there. The 3 hours before that, my phone used 2% battery power and that was with me using fb and other apps.<br> :date: __2021-01-05 22:43:38__
+
+> App needs to be deprecated and has the federal app<br> :date: __2021-01-04 17:10:23__
+
+> Utterly useless app. Battery drain is a real issue. I left my phone on desk at 100% overnight and 7 hours later, it's down to 58%. Had to uninstall and reinstall 2x before being able to register. Unable to locate other users nearby after finally setting up. Will delete after this review. Need to use federal app instead of this one.<br> :date: __2021-01-03 21:15:00__
+
+> No one used it, limited information, repetitive, slow and awkward to use.<br> :date: __2021-01-03 20:37:36__
+
 > Pointless waste of tax payer money that fails to inspire any measure of trust. Lacks common sense functions and consistency in existing functionality.<br> :date: __2021-01-02 09:03:15__
 
 > An error has occurred. Please try again. After entering in a valid phone number. So I restarted my phone. But this time get a error message could not reach the server please try again. Useless app.<br> :date: __2020-12-31 19:46:46__
@@ -266,15 +276,5 @@ The ABTraceTogether app has been installed by more than **100000** times. At thi
 > Suck all your battery even when not in use. Not reinstalling this app on my phone instead using my common sense when following the restrictions<br> :date: __2020-12-28 15:08:16__
 
 > Hasn't even been used in the province properly. Alberta needs to use the federal app to better protect its citizens.<br> :date: __2020-12-26 21:47:27__
-
-> "There is no one using the app in your area." ...I live in Calgary. Fix the damn app or adopt the Federal one.<br> :date: __2020-12-24 02:15:48__
-
-> Does not work.<br> :date: __2020-12-22 17:57:46__
-
-> Works on Android. Almost a year into Covid and it still doesn't work on Apple. Overall a poorly planned and even more poorly implemented app.<br> :date: __2020-12-21 00:42:40__
-
-> Useless<br> :date: __2020-12-19 04:25:19__
-
-> I've had this installed since it was released, encouraged friends and family to use it as well. I know several dozen people that have been diagnosed with covid-19, including myself. Not one single person I know has been asked to use the app to actually trace positive cases.<br> :date: __2020-12-19 04:04:57__
 
 

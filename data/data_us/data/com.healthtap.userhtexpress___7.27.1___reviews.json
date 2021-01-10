@@ -1,5 +1,29 @@
 [
     {
+        "reviewId": "gp:AOqpTOEixRGlHXpeWyq-wUiOPfGZZAgLhZYVw_Z0PNVFGrzxjEMhXrqaL5ms3fLb7VAt8udTUzNtxWTpDLgT8CQ",
+        "userName": "T.R Robinson",
+        "userImage": "https://play-lh.googleusercontent.com/-70ePhNS_cFQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck62aiBKEOgC43z_uibl6mue0eo0A/photo.jpg",
+        "content": "Great, fast, and excellent service",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "7.27.1",
+        "at": "2021-01-09 02:05:56",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGz_04PbnWeJEkBnlNds6VW4r6xPfjsJ7Oh7i3EHqnXZZ27eci4Hnq_JlNugYmU7usvuZKLmm4a58ZuhzU",
+        "userName": "Deborah G. Hardin, RN-BC",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ggrm77Tvp0GEImJ3QgQOrvXxw-Ly1nPUba0uyFf",
+        "content": "Very Professional...easy to navigate app...Md was Friendly, professional and took exceptional care of my medical situation. As a Registered Nurse for 25 plus years, I highly recommend this service and find it far superior to one other app I've tried.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "7.27.1",
+        "at": "2021-01-06 15:11:33",
+        "replyContent": "Hi Deborah, thank you for sharing your exceptional experience with the community! Patient experience and satisfaction is our top priority, and your review reaffirms the hard work our staff puts in every day. Please reach out to us at support.healthtap.com if there's anything else we can do to improve your experience even further.\n",
+        "repliedAt": "2021-01-06 17:25:09"
+    },
+    {
         "reviewId": "gp:AOqpTOEm8vaj7EAoPKDEHpXqzmKxhZcMErK2ebfTD10RbS74IUHxNnr3YjTRN8g-ObEYM8ofDX8ofoiOeWtEucM",
         "userName": "Tonja Hendrix",
         "userImage": "https://play-lh.googleusercontent.com/-hHwZVMquyBA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckmvenOrhsVjlKgpIl4wk5ByJzYUQ/photo.jpg",
@@ -8,8 +32,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "7.27.0",
         "at": "2020-12-29 21:31:46",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hello Tonja, we appreciate you sharing your feedback and we apologize for any inconvenience. Generally, users find our app easy to navigate and we want to ensure you have a great experience as well! Please contact us at support.healthtap.com so we can investigate this issue further and resolved. Thank you.",
+        "repliedAt": "2021-01-05 19:28:56"
     },
     {
         "reviewId": "gp:AOqpTOEsRm3usKRXZnB-nhGDNyMcDl03eataB-H7Sat6Zq2bQytcYps7ozmdn170Palhxo2--xbVNVHFoI0MCNY",
@@ -401,7 +425,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-ngSeaE2wU9k/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclEenSQra98HOIJLUDiAWEdm25NLA/photo.jpg",
         "content": "I've used the app twice. Once for myself and once for my teenaged son. Both times I was connected with a Dr. quickly - within 2 minutes. They listened to my symptoms, gave me some treatment advice and put in a Rx as needed to my local pharmacy. The whole process took maybe 10-15 minutes. The service is wonderful for someone like me - a working mom who often can't get a Drs appt for weeks and doesn't want to visit the ER for a non emergency, esp.during covid. And as a bonus the price is great.",
         "score": 5,
-        "thumbsUpCount": 6,
+        "thumbsUpCount": 8,
         "reviewCreatedVersion": "7.25.1",
         "at": "2020-11-16 06:00:58",
         "replyContent": "Hi Rose! We are delighted to hear about your experience with our app and our doctors. Please reach out to us at support.healthtap.com if there's anything else we can do to make your experience even better!",
@@ -557,7 +581,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-1MqhXC8MKPQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnBN_h663d-9FZnXPzHZPWdvZISmQ/photo.jpg",
         "content": "This is a wonderful virtual health program. Have tried others. It took one 6 hrs to get back to me. I like the monthly price. The physician, Dr. Patel, was very pleasant and professional. I like the fact that they are affiliated w a lab so test can be ordered if necessary. All in all it was a 5 star performance and experience. Kudos Health Tap.",
         "score": 5,
-        "thumbsUpCount": 1,
+        "thumbsUpCount": 2,
         "reviewCreatedVersion": "7.25.1",
         "at": "2020-11-02 00:53:27",
         "replyContent": "Hi Pat, thank you for sharing your feedback! We are so delighted to hear that you are enjoying the HealthTap app and our doctors. If there's anything else we can do to make your experience even better, please do not hesitate to reach out to support.healthtap.com!",
@@ -653,7 +677,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-NMS2BJ5P5oY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnRzFMSUwbnZwh3bj1beuGDHUUmug/photo.jpg",
         "content": "Much better than the competition. There is a lot offered in the app for free including the ability to get doctors answers to your personal medical questions. As well as an AI symptom checker. The $10 monthly fee for telemedicine visits is very reasonably priced, and you can cancel your subscription at anytime. Much better than going to an urgent care clinic during a pandemic. And perfect for requesting prescription refills from the comfort and safety of home.",
         "score": 5,
-        "thumbsUpCount": 10,
+        "thumbsUpCount": 13,
         "reviewCreatedVersion": "7.25.1",
         "at": "2020-10-26 02:49:52",
         "replyContent": "Hi Brandon, thank you so much for sharing your experience with us! We are so happy to hear that you find the HealthTap app both affordable and easy to use! If there's anything we can do to make your experience even better, please do not hesitate to reach out to us at support.healthtap.com.",
@@ -3242,7 +3266,7 @@
     {
         "reviewId": "gp:AOqpTOEblS_TVpCGZaJ1Czu0SSXwcixh6OwJn8BAyYV2eTQmKUc5uulgx0XG1YaA4TCWuPGyI-vkLVKuMJcTNLY",
         "userName": "R o",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgkKB8GunUpiemaYcOyqoaNH1rLn7RxKm-CW7mGzA",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjCajk9dp96OdOT0oEWHdsWEz2o9p2oqL_hPdTDqQ",
         "content": "Excellent/helpful feedback",
         "score": 5,
         "thumbsUpCount": 1,
@@ -4334,7 +4358,7 @@
     {
         "reviewId": "gp:AOqpTOExx6P6rldBQp43JcxxK0fOApS-YXVtJAQkQNJAtJXUujZ9pDpg7D1NRr8gY3zitQOFEMKJPPaIPwaKGr4",
         "userName": "Nurul Nadhirah",
-        "userImage": "https://play-lh.googleusercontent.com/-28wxgFRC93w/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckLBSUUm947eAMfbCmWfwHKWb7toA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gjkt3gUc3l03X-fujHc_kumGbnGcKnkgjmjcqcR",
         "content": "grear",
         "score": 5,
         "thumbsUpCount": 0,
@@ -5473,8 +5497,8 @@
     },
     {
         "reviewId": "gp:AOqpTOGUEpTdY-bGYQ0s4cLOrG8rntIgz8vTrn8AW1BgqDknlae6_5qoGpZZE_o2qIGAvJrxldR7ToWqNOtouBs",
-        "userName": "Mr. J Matthias",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgNKoljWH15NgLpbjnO8Y6cjGbkNeUtLuB00Sq7JA",
+        "userName": "Spacky",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiI8M5Ygvn3nWc58wkIiwLqOvAXR1eNj7QcZPBPtQ",
         "content": "Honestly marvelous",
         "score": 5,
         "thumbsUpCount": 2,
@@ -6661,8 +6685,8 @@
     },
     {
         "reviewId": "gp:AOqpTOEePv6GofohoJQff_ChbxWKb_imjVpDcZLuDFnHpoYGTQjUPgMCCTv1zX6ChWXzWMUv3s0dIPPC39OnbjE",
-        "userName": "\u026a\u1d1b\u1d22_\u1d1b\u029c\u1d07 \u1d00\u0274\u0262\u029f\u1d07\u4e42\u1d18\u1d00\u0274\u1d05\u1d00\u2022\u0262\u026a\u0280\u029f",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhpulrLYagj6yKr5iZlsJhZIgFWBwUHjwu9qg1J-g",
+        "userName": "\u026a\u1d1b\u1d22_\u1d1b\u029c\u1d07 Demon\u4e42Wolfy\u2022Girl",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiILhbqo9b39XVo-tQznrYoX5IYQ_yoxVYevCqn1Q",
         "content": "No answer for my question. Not helpful..",
         "score": 1,
         "thumbsUpCount": 1,
@@ -6902,7 +6926,7 @@
     {
         "reviewId": "gp:AOqpTOEbQU2cCWIDANrPqfEP8BkqQ-06f7uE9e1Uj0hijhDzllZNmsR9m9WguU5jME4YhwVAkUN_ZvzLlX9_08g",
         "userName": "Mari Allen",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiyTeMBAHFwxZMV_3QKtvrEAmd1SQBhj_Ky3BXWCw",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjJdklHwZJzdw1VfMhTIYV2c5QavV4vo45N4Kq6GQ",
         "content": "I didn't think that we would have to pay to ask questions! It's kind of unfair! If we had to pay to ask questions you should've just charged to download the app! I had an really important question and I'm sure no one can answer for me !",
         "score": 2,
         "thumbsUpCount": 68,
@@ -8401,7 +8425,7 @@
     },
     {
         "reviewId": "gp:AOqpTOFUdSJDHLNYuL4dfKbqlSpnHjF5K-quaDbdSTetAbKHfOWrzKMwzp_9kH3oZEVr3cyugBrmGmuiGzSWpxk",
-        "userName": "Muhammad Ali khan",
+        "userName": "Muhammad Ali Khan",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhN1C6ndcxEbCVK8wQBoe4ni0h_3rSFmMdVgISi0L4",
         "content": "If you are looking for a free care then don't download",
         "score": 1,
@@ -10514,7 +10538,7 @@
     {
         "reviewId": "gp:AOqpTOFG8pFfDcSE0cmjrH67If9is1P9FrVyNzV7GZKX1HE6QKOV9_wKzPyF5pjSGDfVyTdWcyhL7ikkMTOpmP8",
         "userName": "blossom is not sus",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgixsOni-09X9_3Q9a9JvAMw2pwM-LlgyN4YpStYA",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjEX5EK2PpLPp92fgf42J7bobopfN3SX5wqWQsI3w",
         "content": "Not impressed shortly after going on it was after bank details I only got it cuz I thought it were free",
         "score": 1,
         "thumbsUpCount": 2,
@@ -11366,7 +11390,7 @@
     {
         "reviewId": "gp:AOqpTOFNKaZo7GNtmQIKEnEetGsC_8zOeqfJvBOejUgqs0FHNBihIkee-1wGjbzw09dreALl3gNhc-xZTHwj1zY",
         "userName": "Jamie D Brown",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gjx-96JsR7TF-iStfy7Q5e1GzVTakxGaf6EN16K68A",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ghh8nyeoGL4Fa3Ujdq-swev_DvhegdIMWzVxFWSXMo",
         "content": "So helpful when you can't readily speak to a Dr",
         "score": 5,
         "thumbsUpCount": 0,
@@ -11401,7 +11425,7 @@
     },
     {
         "reviewId": "gp:AOqpTOEviq-2BqqeXkNRkk-S8Tl5RiPPIi8qidwzfLYis9Q-UHmJBTjGT8XY39Ey6oIai5iDStsUkPFtdZMsQ0I",
-        "userName": "A5 72- Naman Agrawal",
+        "userName": "Naman Agrawal",
         "userImage": "https://play-lh.googleusercontent.com/-xqGlSijXi4U/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckPbGHJF8y6KPSgff3JDIfJzYm9tw/photo.jpg",
         "content": "You ask doctors anytime. Install it now",
         "score": 5,
@@ -11972,30 +11996,6 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2014-12-30 17:13:22",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOE0ehMKgxNjQWZb3W3K8R1oCBELMuExSR3KaYAOkPWwXHZOdrR7TNETYDZpo7r8ZJnEx3ZaDFlM4age7d8",
-        "userName": "ravikant bhargava",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjlB1opzvdkC4gMBs5Vba8bwhv183su_AnntjSakw",
-        "content": "While i dont think anything virtual can replace a physical checkup by a doctor but still this app goes a long way in providing a quick and reliable answers to your queries in todays fast paced life where we prioritize other things than our medical checkups. Specially for sports lovers like me who tend to get injured more often than not, this app can be really helpful. A big thumbs up to the developers :)",
-        "score": 5,
-        "thumbsUpCount": 1,
-        "reviewCreatedVersion": "5.1.30",
-        "at": "2014-12-30 17:11:34",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOFV2C4RTUk42EH-QyFJWKInrVqrLK2HoWpU_G1lcij73bFxDsKwJjN4HV8wOnlnw_SlzBOnyZZwv7Qy-mo",
-        "userName": "Vimal Dhupar",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjsweGi_QboxE11QO7dltxgUT9V0bANgNZxs_agCQ",
-        "content": "Its very useful for second opinions when u need it!",
-        "score": 5,
-        "thumbsUpCount": 1,
-        "reviewCreatedVersion": null,
-        "at": "2014-12-30 16:29:41",
         "replyContent": null,
         "repliedAt": null
     }

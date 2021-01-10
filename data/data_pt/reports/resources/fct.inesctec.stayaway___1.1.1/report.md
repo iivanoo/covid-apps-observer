@@ -137,6 +137,12 @@ The STAYAWAY COVID app has been installed by more than **1000000** times. At thi
 <img src="5_star_reviews_wordcloud.png" alt="fct.inesctec.stayaway 5 reviews"/>
 </p>
 
+> Sensação de Segurança.<br> :date: __2021-01-07 23:47:02__
+
+> Bom! Toda a gente deve estar a par da situação 🙏obg<br> :date: __2021-01-04 14:57:35__
+
+> APP muito útil e de fácil utilização. Para aqueles que reclamam, mostra uma coisa, ignorância... as pessoas são ignorantes pois não lêem a informação relevante para a sua utilização. Ora se desligam o Bluetooth é normal que não funcione... Outros idiotas reclamam que gasta bateria ou que utiliza a localização... Idiotas, para alertar precisa ter a localização! Idiotas que preferem dar permissões as redes sociais, mas para algo útil como está APP, não querem partilhar a localização. SO IDIOTAS!<br> :date: __2021-01-03 21:42:41__
+
 > Oi li o<br> :date: __2020-12-31 21:03:16__
 
 > 👍<br> :date: __2020-12-30 00:06:35__
@@ -151,12 +157,6 @@ The STAYAWAY COVID app has been installed by more than **1000000** times. At thi
 
 > Ok<br> :date: __2020-12-28 13:49:21__
 
-> Muito útil<br> :date: __2020-12-27 21:01:07__
-
-> Muito bom👍<br> :date: __2020-12-27 19:23:01__
-
-> É uma pena as pessoas não aderirem mais. A app funciona bem noutros países nos quais há maior responsabilidade e adesão por parte das pessoas.<br> :date: __2020-12-25 18:40:33__
-
 
 
 #### 4-star reviews
@@ -164,6 +164,10 @@ The STAYAWAY COVID app has been installed by more than **1000000** times. At thi
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="fct.inesctec.stayaway 4 reviews"/>
 </p>
+
+> Boa<br> :date: __2021-01-09 02:08:14__
+
+> Já tive a aplicação mas nunca deu bloqueava espero que desta vez consiga<br> :date: __2021-01-05 11:22:31__
 
 > Parabéns aos programadores. App é útil e acima de tudo pode ser uma enorme mais-valia no combate à Covid-19. A app está bastante cuidada visualmente e bastante intuitiva. E agora com inclusão de modo nocturno automático, ficou ainda melhor.<br> :date: __2020-12-29 18:52:15__
 
@@ -181,10 +185,6 @@ The STAYAWAY COVID app has been installed by more than **1000000** times. At thi
 
 > Uma boa aplicação<br> :date: __2020-12-16 11:44:43__
 
-> Podia ter mais acesso a dados sobre o covid 19 da geolocalizacao onde nos encontramos no momento em termos de % virus nesse local.<br> :date: __2020-12-14 16:08:11__
-
-> Ótima oportunidade.<br> :date: __2020-12-11 00:36:09__
-
 
 
 #### 3-star reviews
@@ -196,8 +196,6 @@ The STAYAWAY COVID app has been installed by more than **1000000** times. At thi
 > Vou experimentar<br> :date: __2021-01-02 06:32:49__
 
 > O conceito é bom. Na prática, é complicado controlar todas as variáveis que tornam a aplicação útil (ou inútil).<br> :date: __2020-12-28 23:18:11__
-
-> Não é lá MT seguro<br> :date: __2020-12-24 10:23:01__
 
 > É uma boa iniciativa<br> :date: __2020-12-24 00:11:20__
 
@@ -212,6 +210,8 @@ The STAYAWAY COVID app has been installed by more than **1000000** times. At thi
 > Depender da net, se não estiver num espaço com Wi-Fi grátis tenho de gastar os meus dados. A aplicação está sempre a lembrar que tenho de ligar a aplicação mesmo quando estou em casa, que faz consumir muita energia ao telemóvel<br> :date: __2020-12-07 23:57:24__
 
 > Ainda não sei o que está a passar<br> :date: __2020-12-06 20:07:59__
+
+> Razoável app<br> :date: __2020-12-05 19:08:58__
 
 
 
@@ -249,24 +249,24 @@ The STAYAWAY COVID app has been installed by more than **1000000** times. At thi
 <img src="1_star_reviews_wordcloud.png" alt="fct.inesctec.stayaway 1 reviews"/>
 </p>
 
-> Ideia boa mas muito mal implementada. De que me serve ter uma aplicação para me alertar se praticamente não são criados e colocados códigos? Não era mais simples a aplicação ter uma código por utilizador que era agregado à colheita e entrar automaticamente no sistema?<br> :date: __2021-01-03 13:26:18__
+> A APP está a interferir com a ligação bluetooth a outros dispositivos como headphone , coluna bluetooth ou autoradio. Em telemóvel com Android 8. Vou desinstalar hoje , cansei de esperar que rectificassem ou sequer respondessem. Era apologista da APP mas assim é impossível usar o telemóvel se interfere com todos os aparelhos a que está ligado desde que tenho a APP.<br> :date: __2021-01-09 15:50:43__
 
-> A experiência foi nítidamente uma inutilidade.<br> :date: __2021-01-03 00:58:15__
+> Tive a aplicação instalada des que saiu, dei positivo ao covid já à 4 dias e ainda não recebi código nenhum para meter na aplicação. Como eu deve haver muita gente que até se preocupa, mas muito sinceramente acabei de me aperceber que não vale mesmo a pena ter o stayaway covid instalado.<br> :date: __2021-01-09 12:14:45__
 
-> Uma estrela e mesmo assim vale menos que isso. Completamente inútil!<br> :date: __2021-01-03 00:56:55__
+> Eu concordo.<br> :date: __2021-01-09 12:09:09__
 
-> Pelas funções iniciais exigidas,onde a batería se consome rapidamente, e ficamos completamente vulneráveis a qualquer ataque malicioso,onde a partilha e localização são funções de funcionamento sempre ativos para esta app funcionar em segundo plano permanente. Quem quiser arriscar força! Sujeito a ser roubado nos dados pessoais e que a bateria dure muito menos de vida útil... Não obrigado!<br> :date: __2021-01-02 19:01:13__
+> Quantos registos até hoje? 2000? Que utilidade...<br> :date: __2021-01-09 11:19:31__
 
-> Belo coco 😏<br> :date: __2021-01-02 18:51:58__
+> Não acusa ninguém. Apenas só serve para gastar bateria. Nem para auxiliar serve<br> :date: __2021-01-09 10:53:34__
 
-> Não consigo fazer a atualização diária não estou a saber com quem me cruzo e ando muito porque tenho um cãozinho agradeço que me ajudem obrigada<br> :date: __2021-01-02 12:00:05__
+> Acesso ao GPS para que ? Nome inglês muma aplicação que é Portuguesa. Que péssima escolha. O resultado está a vista. A grande maioria dos Portugueses não utilizam a APP<br> :date: __2021-01-09 09:42:25__
 
-> Estive infetado e tinha a aplicação instalada, nunca recebi nenhum código para inserir.... Aplicação inútil.<br> :date: __2021-01-01 23:20:59__
+> App muito fraca porque há milhares de infectados e quase nenhum coloca o código para ficar registado no stayawaycovid... Assim não vale a pena ter esta aplicação nem a usar, só gasta bateria e não tem uso nenhum...<br> :date: __2021-01-09 01:51:39__
 
-> funciona nal, nao atualiza<br> :date: __2020-12-31 20:56:28__
+> Após teste positivo de covid constatei que a app não serve para nada! É absurdo que não seja tirado partido da tecnologia para enfrentar a pandemia. A informação sobre quem deve fornecer o código é completamente errada e contraditória. Não existe inciativa de nenhum interveniente no processo em fornecer o código. Só fazendo várias ligações e pedindo é que se consegue um código. Resultado, ninguém o faz!!<br> :date: __2021-01-09 00:35:09__
 
-> Pouca eficácia pelos dados carregados<br> :date: __2020-12-31 18:45:25__
+> Então esta aplicação só serve para os capetas desocupados que querem ocupar o seu tempo com a fdp desta aplicação<br> :date: __2021-01-08 14:05:05__
 
-> Solução não funciona, tive familiares com testes positivos e ninguém lhe questionou ou facultou o código npara inserir na aplicação, foi aí que desinstalei a aplicação.<br> :date: __2020-12-31 14:50:58__
+> Estou positivo, e há 3 dias que ninguém me dá o código para poder alertar que estou positivo. Já liguei para a saúde 24 a pedir o código e nada! Esta aplicação simplesmente não funciona!!!<br> :date: __2021-01-07 21:56:36__
 
 

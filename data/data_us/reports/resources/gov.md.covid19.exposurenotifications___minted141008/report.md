@@ -179,6 +179,10 @@ The MD COVID Alert app has been installed by more than **100000** times. At this
 <img src="3_star_reviews_wordcloud.png" alt="gov.md.covid19.exposurenotifications 3 reviews"/>
 </p>
 
+> Works well I guess. My biggest gripe is no feedback on the number of contacts made. It would be good to know how many people I have passed by that use or do not use the app in a given day. Why trust the app if I have no idea if it is registering or missing the people I pass by? There aren't even numbers on how effective this app is for me or everyone in general.<br> :date: __2021-01-06 10:32:39__
+
+> I very much like the ideal that my state has this app with covid being so bad<br> :date: __2021-01-05 23:47:55__
+
 > Ok<br> :date: __2021-01-01 19:27:09__
 
 > Interferes with bluetooth devices<br> :date: __2020-12-30 00:11:14__
@@ -194,10 +198,6 @@ The MD COVID Alert app has been installed by more than **100000** times. At this
 > Just Downloaded But Unable To Turn On Notifications. Now It's Just Useless. And No It's Not My Phone. Please Fix Bugs.<br> :date: __2020-11-20 15:15:26__
 
 > I wish there was a way to enable exposure notifications from multiple jurisdictions. As someone that works in dc/md/va it would be nice to have all 3 apps on and able to notify you, but you can only have one app enabled at a time.<br> :date: __2020-11-18 12:26:15__
-
-> I would have kept this app if it didn't require my bluetooth be on all the time. Great idea, though. Thanks for working this, though.<br> :date: __2020-11-17 02:32:20__
-
-> Just downloaded the app so I'm unsure of how great it works just yet, however please change the icon as it triggers my trypophobia!<br> :date: __2020-11-15 13:16:23__
 
 
 
@@ -235,6 +235,16 @@ The MD COVID Alert app has been installed by more than **100000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="gov.md.covid19.exposurenotifications 1 reviews"/>
 </p>
 
+> Tried to install on 2 different devices and app will only enable notifications on one of them. Update: 01/08/2021 Still unable to enable notifications on Xiaomi 10 Ultra<br> :date: __2021-01-08 11:08:20__
+
+> Garbage. Doesn't work. Incredible that money was spent on a useless app. It gives hope for no reason. You can't report positives. So it doesn't work.<br> :date: __2021-01-07 01:23:09__
+
+> Verification code??? Never got it. Tried a bunch if times... how can this be effective when you can't even use the most basic part of the app?<br> :date: __2021-01-05 20:10:04__
+
+> Useless! As other reviewers stated, to enter positive results you need a code. My husband tested positive on 1-02-20, and the healthcare providers never reported his positive results to anyone. As a matter of fact, he has several coworkers that also tested positive and I don't think their positive results were reported either. No wonder covid keeps spreading in Maryland! Typical Maryland department of health. (Can't say that I am surprised!)<br> :date: __2021-01-05 12:51:58__
+
+> I have covid and need some kind of verification number to report my result. I don't have such a number and there is a useless help button that does not lead to any further information about getting a number.<br> :date: __2021-01-05 03:20:10__
+
 > App is dependent on assumptions. The sensitivity and specificity of COVID19/SARS2 testing done by PCR is questionable. It is traditionally a quantitative test NOT a qualitative one used for ID. Viral culture is the gold standard. App presumably works by your phone's bluetooth communication with COVID + patient's phone. This function may not work properly. I have my doubts. Anyway, most people survive. Infectious disease has been part of the human condition since the beginning of time.<br> :date: __2021-01-02 08:26:35__
 
 > This app is WORTHLESS, a family member of mine has COVID and it's impossible to use the app. The verification codes do not work and there is no way to problem solve.<br> :date: __2020-12-30 17:04:22__
@@ -244,15 +254,5 @@ The MD COVID Alert app has been installed by more than **100000** times. At this
 > I've been exposed on two occasions. It never notified me. The covid contact tracers also called 3 days late. It's pointless.<br> :date: __2020-12-23 16:07:34__
 
 > Power hog<br> :date: __2020-12-22 23:21:05__
-
-> Arrogant and ignorant for each state to release their own app, as if people can't travel or even commute daily over state borders. You can only run one of these apps at a time. Even if you switch between apps, the contacts are only registered for people who run the same app.<br> :date: __2020-12-19 16:37:42__
-
-> ☆WARNING☆ THIS APP HAS A CHANCE TO CAUSE YOUR DEVICE LIKE MINE TO STOP FREEZE AND DIE DON'T DOWNLOAD AS ITS ALL FAKE AND POSABILITY VIRUS, YOU'LL DIE IN AN HOSPITAL WITH RANDOM CHEMICALS BEING POURED INTO YOU!!!!!!<br> :date: __2020-12-17 17:58:22__
-
-> Great concept, however, doesn't work if you can't report a positive test! It's requires MD health department to give you a code. Contact tracer had no clue that they we able to give a code and couldn't figure it out. My efforts to help the community were squandered by a poor system.<br> :date: __2020-12-17 17:43:39__
-
-> I came in contact with someone who tested positive and it didn't alert me about anything<br> :date: __2020-12-15 12:54:56__
-
-> Broken Process. Useless app. My husband tested positive. The process: your health care provider reports your positive result to the MD Depth of Health and THEY text you a code to enter into the app to report your status. It took 4 days to get that code. Even after entering it, I still haven't received an exposure notification and we're together constantly. Verified all settings are correct. It actually has to work & QUICKLY to benefit individual users & public health. Extremely disappointed.<br> :date: __2020-12-15 03:22:41__
 
 

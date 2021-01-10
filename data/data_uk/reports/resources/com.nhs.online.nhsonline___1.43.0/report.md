@@ -193,25 +193,25 @@ The NHS App app has been installed by more than **1000000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="com.nhs.online.nhsonline 5 reviews"/>
 </p>
 
-> This App is very handy and easy to navigate. I can order prescriptions and collect at the surgery. I can view my records and much more.<br> :date: __2021-01-03 15:30:51__
+> I just got this an its great, I want to get my wife on it but she doesn't have a current driving licence or passport, are there other options to add her photo? she does have a driving licence that run out only last year, she is 76y and not fit to drive. Thanks.<br> :date: __2021-01-09 17:20:44__
 
-> Can i add my husband to this so i can order his repeat prescriptions aswell<br> :date: __2021-01-03 13:14:48__
+> This app does everything very very well. You can see test results, reorder prescriptions get health advise and loads more. I have 50+ apps on my phone - this is the most useful.<br> :date: __2021-01-08 20:59:11__
 
-> I've used this app for a year and it's great. No problems with the exception of the odd logging in problem.<br> :date: __2021-01-03 00:18:06__
+> Good app especially if you have repeat prescription and give you reminders of book appointment as well<br> :date: __2021-01-08 20:21:34__
 
-> Works fine<br> :date: __2021-01-02 11:41:37__
+> good<br> :date: __2021-01-08 10:27:26__
 
-> A fab idea helpful and possible life saver a fantastic helpful site these people are brilliant😇😇😇😇😇😇<br> :date: __2021-01-01 22:36:19__
+> Good up to date information.<br> :date: __2021-01-07 18:15:20__
 
-> Very positive. Shows appointments and issues, also vaccination record for 20+ years which is very helpful<br> :date: __2021-01-01 14:42:45__
+> You won't believe it but it is true this app is plain simple to use.<br> :date: __2021-01-07 17:04:54__
 
-> I work NHS<br> :date: __2021-01-01 02:22:59__
+> Able to view records/results/scripts with ease which l couldn't with previous on line service - excellent app😀<br> :date: __2021-01-07 16:19:57__
 
-> Very good.<br> :date: __2020-12-31 22:57:54__
+> Good<br> :date: __2021-01-07 09:30:25__
 
-> So far have not been contacted bug info very good on here to keep up to date.<br> :date: __2020-12-31 22:47:19__
+> The app is very modern and user friendly, it lets you book GP apportionments, order repeat prescriptions and access your medical records if allowed by your GP. Really easy to setup. I'm actually surprised at how good this is. Well done NHS!<br> :date: __2021-01-06 21:41:22__
 
-> Excellent service<br> :date: __2020-12-31 03:51:31__
+> Initial security tough then it's ok. Surgery answer, prescriptions happen.<br> :date: __2021-01-06 18:00:10__
 
 
 
@@ -220,6 +220,16 @@ The NHS App app has been installed by more than **1000000** times. At this time,
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.nhs.online.nhsonline 4 reviews"/>
 </p>
+
+> Handy quick and simple access to prescription ordering and nhs information.<br> :date: __2021-01-08 16:54:15__
+
+> Worked well for me. Better than holding on the phone<br> :date: __2021-01-08 16:26:55__
+
+> Waiting for my id to be checked says takes upto 2 hours buts its been 10, need to order a prescription since i can no longer email my GP, ref: CID2001<br> :date: __2021-01-08 11:12:51__
+
+> About time this app is on offer to the general public. Recommended.<br> :date: __2021-01-05 19:09:15__
+
+> Really easy to use and informative . Would recommend<br> :date: __2021-01-04 16:47:42__
 
 > I cannot receive any of the letters that I am informed Mk hospital patient portal need to send to me.??why not just send as a normal text message that don't need a code to open?<br> :date: __2021-01-02 16:23:45__
 
@@ -231,16 +241,6 @@ The NHS App app has been installed by more than **1000000** times. At this time,
 
 > Brilliant app but all prescription items whether repeat or not should be available to order via the app - they're all monitored by the surgery regardless of the means to order them. Also should be a means for us to message the drs instead of having to log onto the website. Really helpful having the remote access and I sincerely hope this continues after this pandemic<br> :date: __2020-12-28 12:00:36__
 
-> Does not work always<br> :date: __2020-12-26 04:28:48__
-
-> Generally good<br> :date: __2020-12-25 11:53:27__
-
-> Good little app.... Hoping the updates do not screw it up Note to developer test the updates before releasing it<br> :date: __2020-12-23 15:52:07__
-
-> Updated: I downloaded a later version of the app and was able to authenticate without issues, so all good now. Unable to load video as Camcorder goes to files only<br> :date: __2020-12-22 16:11:34__
-
-> Clear information<br> :date: __2020-12-19 21:29:17__
-
 
 
 #### 3-star reviews
@@ -248,6 +248,10 @@ The NHS App app has been installed by more than **1000000** times. At this time,
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="com.nhs.online.nhsonline 3 reviews"/>
 </p>
+
+> Gps need to sign up to this then it will work<br> :date: __2021-01-06 09:27:43__
+
+> I found the process of signing up easy, I'm now free to order repeat prescription as required, but when I tried to signed the wife up oh my how many times have I tried and failed just won't accept photo and video match up. Gave up now she won't let me try again<br> :date: __2021-01-04 22:10:35__
 
 > There one problem with trying register with this the photo ID proof has to be a driving licence or passport and for those that don't have one these it become difficult indeed.<br> :date: __2020-12-31 01:30:11__
 
@@ -265,10 +269,6 @@ The NHS App app has been installed by more than **1000000** times. At this time,
 
 > Is there an NHS app for Scotland. I tried to register using the app but it does not recognise the information because I reside in Scotland not England.<br> :date: __2020-12-11 15:24:06__
 
-> Not used yet<br> :date: __2020-12-10 12:24:17__
-
-> Having trouble verifing my I. D, try to take a video but it takes me to files not video. Already messaged about this but none of advice worked. Very frustrating as it also kicks me off the site so have to log back in all the time.<br> :date: __2020-12-08 17:31:23__
-
 
 
 #### 2-star reviews
@@ -276,6 +276,10 @@ The NHS App app has been installed by more than **1000000** times. At this time,
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="com.nhs.online.nhsonline 2 reviews"/>
 </p>
+
+> Currently occupying unnecessary space on my phone. Doesn't seem to work. Keep getting error message / call 111. Cannot see my info or order a repeat prescription. When it worked albeit briefly, it was great. Used to be convenient and work so well now it's just disappointing.<br> :date: __2021-01-09 10:03:30__
+
+> Slow to upload required pic and info<br> :date: __2021-01-05 12:18:26__
 
 > Can't get past photo upload<br> :date: __2021-01-03 11:45:49__
 
@@ -293,10 +297,6 @@ The NHS App app has been installed by more than **1000000** times. At this time,
 
 > System online for GP surgeries is more effective and easier to use.<br> :date: __2020-12-13 11:03:34__
 
-> Still can't book appointmemts<br> :date: __2020-12-11 07:53:30__
-
-> Trying to prove my identity with this app was a nightmare. Whenever I got to the point to upload an image, for sending photo id, to take a photo or upload a video, nothing happened when i tapped the camera icon! Seems certain random aspects of things on PHE/NHS apps don't seem to work on a Huawei P20! In the end i had to complete the registration process using an old SAMSUNG phone! BEyond that, everything seems fine.<br> :date: __2020-12-09 14:45:05__
-
 
 
 #### 1-star reviews
@@ -305,24 +305,24 @@ The NHS App app has been installed by more than **1000000** times. At this time,
 <img src="1_star_reviews_wordcloud.png" alt="com.nhs.online.nhsonline 1 reviews"/>
 </p>
 
-> Terrible do not use files info can be used<br> :date: __2021-01-02 19:41:48__
+> Unable to get bluetooth to work pls help<br> :date: __2021-01-09 17:02:36__
 
-> I've spent more than an hour trying to get this app to work. As others have reported it is impossible to take a photo of one's face or record a video of one's face. A complete waste of time. Dreadfull.<br> :date: __2021-01-02 15:57:09__
+> after trying several times it still will not load rubbish<br> :date: __2021-01-09 15:08:17__
 
-> Need too buy a new phone - inop on A5<br> :date: __2021-01-02 14:40:06__
+> Useless, don't bother using the app, the validation requirements will just waste your time as they don't work. I have a condition where I have no sense of taste or smell and a continuous cough, which causes distress to other patients at the Doctor's when I go there. Now I will continue to go to the Doctor's to get my prescription in person. It was my Doctor that asked me to use the app. One benefit, gets me out of the house during lockdown.<br> :date: __2021-01-09 14:20:20__
 
-> Not user friendly<br> :date: __2021-01-01 16:29:24__
+> No use. Won't upload my passport photo, won't scan my pic. Doesn't give me my NHS number- can't see the point of it.<br> :date: __2021-01-08 15:32:49__
 
-> Asked local surgery for required information. (Account ID, ODS and Linkage Key). Surgery manager said they had no idea what these numbers were and couldn't give me any details.<br> :date: __2021-01-01 15:14:39__
+> Always having to update and it doesn't recognize my phone number so I have to always rely on others for the code to access my GP<br> :date: __2021-01-08 09:59:07__
 
-> Terrible app it keeps freezing.<br> :date: __2021-01-01 12:21:35__
+> The App doesn't open.<br> :date: __2021-01-07 19:08:12__
 
-> Apparently my face isn't mine. The process to upload photo and video and external enter the personal details including nhs no is so long winded that I'm not sure I can be bothered to try again!<br> :date: __2020-12-31 20:26:13__
+> Absolute pants!! Can't open camcorder to record the video required to complete registration. Very frustrating!!! After receiving a reply, thankyou very much, neither myself nor my husband can solve the issue! Therefore sadly l had to uninstall the app. Will try again next month in the hope it will work. Update: After re- installing lt works.<br> :date: __2021-01-07 00:48:39__
 
-> Absolute pants!! Can't open camcorder to record the video required to complete registration. Very frustrating!!! After receiving a reply, thankyou very much, neither myself nor my husband can solve the issue! Therefore sadly l had to uninstall the app. Will try again next month in the hope it will work.<br> :date: __2020-12-31 15:00:35__
+> Frustratingly bad. Follow all.the instructions to register and doesn't do it. After 40 years working as a nurse in the NHS I shouldn't be surprised that it doesn't work. Uninstalling it. Don't waste your time with it.<br> :date: __2021-01-06 14:12:53__
 
-> Clunky and hard to use.<br> :date: __2020-12-31 12:04:41__
+> Lets me upload passport then wont open my camera so i can film me saying numbers. Ive tried numerous times but unable to verify myself to go further. Very frustrating!<br> :date: __2021-01-06 10:13:25__
 
-> What a Complete waste of time. You spend 20mins adding every known detail you have on the website only to be told you don't exist. So you will have to visit your Dr who will ask yet more questions. Then, you have to go back to this rubbish and try it all again. Except it does the same bloody thing again. Then you discover it's linked to the "patient access service". Well now I know why it's so totally useless.... Their response to this review will be the same one they paste for all poor reviews.<br> :date: __2020-12-30 23:34:58__
+> It wont even load up<br> :date: __2021-01-06 00:49:09__
 
 

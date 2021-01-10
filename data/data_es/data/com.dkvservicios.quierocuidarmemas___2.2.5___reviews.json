@@ -1,5 +1,41 @@
 [
     {
+        "reviewId": "gp:AOqpTOHzKXqsA1fLI6Be3hL4tS7GwRSy420dKyFCAhJL7b9b8zL2yg-hF0QnVxA5HrTE2G5O0LdGsU8drSAqEQ",
+        "userName": "Meriem Abselam",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GioorIMG7hYOwcqoVK4SfNngh79Co4IRQ7Zjemo",
+        "content": "Os doy una estrellita ya que se me fue el dedo y no me deja quitarla. Ya van dos veces que me descargo la aplicaci\u00f3n y no hay manera de poder acceder, no reconoce la contrase\u00f1a, y cuando trato de modificar la contrase\u00f1a no reconoce mi correo electr\u00f3nico. He llamado a atenci\u00f3n al cliente DKV y tampoco me ha resuelto nada.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.2.5",
+        "at": "2021-01-07 20:35:05",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOH7aVXt1tu-pmEWmjauPjuOlSNZ-q-n0izGHQ4muYE8b7UesT4RZWbh0kIJvkm2Xb_IWW3gESF6jWUVgw",
+        "userName": "Enrique Vargas",
+        "userImage": "https://play-lh.googleusercontent.com/-RTV2989syKo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnvjSFyAfHqn8ucfF4VaCtZTbmnMw/photo.jpg",
+        "content": "Mui util",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.2.5",
+        "at": "2021-01-06 14:16:46",
+        "replyContent": "Buenos d\u00edas Enrique. \u00a1Muchas gracias por tu comentario y valoraci\u00f3n!",
+        "repliedAt": "2021-01-07 11:32:38"
+    },
+    {
+        "reviewId": "gp:AOqpTOFt7HXhL-IzzwGLsjNrUkdQEwV1Q2q2WpUlEF2SCILxgO7MIhrvOguh1gtwtODJdMsyclThi00dA06kIQ",
+        "userName": "Carmen angel ubeda",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg-BioR49A9GjJPpYxY2JEYqqdr_B2cpg7fhkxb_Ns",
+        "content": "Horroroso",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.2.5",
+        "at": "2021-01-05 11:41:49",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOFkp3kLIzKj-HuLsPQ2sr-5qj-L4dEB19cpJJG-2TyZzWzulXQMAkK1kzaidiRLKyNsRGj_fdW9peQT6w",
         "userName": "Isabel Jim\u00e9nez",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjkLUB4p2CM4dlDoXuRPLPsSLIVTzIWLg6SpnMOJA",
@@ -8,8 +44,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "2.2.5",
         "at": "2021-01-01 22:37:45",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hola Isabel, necesitamos m\u00e1s datos sobre qu\u00e9 problema est\u00e1s teniendo para poder ayudarte. Por favor, escr\u00edbenos a soporte@dkvservicios.com con m\u00e1s detalles y lo investigamos para poder darte una soluci\u00f3n. Un saludo.",
+        "repliedAt": "2021-01-04 13:15:47"
     },
     {
         "reviewId": "gp:AOqpTOErozExrupl2ggDtmXeKQL8YgetQHtOSCCULRDg8UuakdQo451YOOK6hPs5aDUQJTYIbCF4WNuKFrxQEg",
@@ -65,11 +101,11 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgzCgsrwgruflxYzLvnQQ0TrccaShWz7xnGTyak",
         "content": "malissima, sirve incluso menos que la web y mira que ya sirve de poco, es impossible consultar horarios o pedir cita, y antes de que vengan a decirme que si he intentado eso o aquello, lo he intentado todo, tanto en la web como en la app. Al final es puro marketing de vender humo, si os corre prisa llamad por telefono por que esto es una perdida de tiempo",
         "score": 1,
-        "thumbsUpCount": 4,
+        "thumbsUpCount": 6,
         "reviewCreatedVersion": "2.2.5",
         "at": "2020-12-21 23:32:56",
-        "replyContent": "Hola Nil. Lamentamos que no hayas tenido una buena experiencia con la app y la web. Agradecemos tu comentario porque nos ayuda a mejorar. Te recordamos que tambi\u00e9n puedes contactar con atencion.cliente@dkvseguros.es o en el 976 506 000 para cualquier duda o gesti\u00f3n. Un saludo.",
-        "repliedAt": "2020-12-24 10:25:18"
+        "replyContent": "Hola Nil, nuestro equipo de soporte@dkvservicios.com ya habl\u00f3 contigo por tel\u00e9fono hace unos d\u00edas, esperamos que haya sido de utilidad y tomamos nota para trabajar en integrar m\u00e1s agendas. Un saludo",
+        "repliedAt": "2021-01-08 14:12:08"
     },
     {
         "reviewId": "gp:AOqpTOFhrCzx7KjlWnLynaksw9qiGwPllqqbwDJVQCNKNqPZzLe5SKG1icVGRA4LDwQw3n0wqL-DyHhYGBxfaw",
@@ -209,7 +245,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-MIMGFx8QUkE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckVE048C4qBauqhD3kX7CTixOcyew/photo.jpg",
         "content": "LLevo como 10 llamadas,no solo para la app quiero cuidarme mucho que no hace nada de lo que dicen en la informacion,en mi \u00e1rea cliente cuando intento abrir cuadro medico me da solo la opcion de fisioterapeuta \u00a1\u00a1\u00a1\u00a1\u00a1,en la pagina DKV Famedic,aun no he conseguido entrar y ya he pagado 2 meses de cuota y he puesto a soporte 3 correos y he llamado a 3/4 telefonos y nadie me soluciona nada,Madrid,Jerez,Barcelona etc etc.....muchas deficiencias en el soporte informatico,empezamos mal si no puedes localizar ya el medico al que acudir......",
         "score": 2,
-        "thumbsUpCount": 4,
+        "thumbsUpCount": 5,
         "reviewCreatedVersion": "2.2.2",
         "at": "2020-12-08 14:29:12",
         "replyContent": "Hola Alfonso. Lamentamos los problemas con el servicio. Nuestro equipo de soporte contactar\u00e1 contigo para darte una soluci\u00f3n. Un saludo.",
@@ -313,8 +349,8 @@
     },
     {
         "reviewId": "gp:AOqpTOHTGqRtYIXsKjYM6Kj9Jph0TM8QUshWCGRHFwlb55NIMy-PB542D8TaZxJasZsF2iWIPreTqglEGWiakw",
-        "userName": "Mat B.",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi7el4JCDKcgPsCcGJX9neJFguspK60vJ5MbEbYELo",
+        "userName": "M B",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgOwbvGf4MtOOV09fVeoRuJphLWo7Ggu1hY_n2O9Bg",
         "content": "Vaya cuadro de aplicaci\u00f3n. Se cierra sola cada vez que intentas abrirla. Imposible dd usar. Cuadro de aplicaci\u00f3n y a\u00fan peor servicio de seguro m\u00e9dico!",
         "score": 1,
         "thumbsUpCount": 0,
@@ -749,7 +785,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-AVghnlVPjw8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckuIK2519_G0Ug4P_rjHo9ZMCt7iQ/photo.jpg",
         "content": "La tenemos instalada en dos m\u00f3viles distintos y en ambos la mayor\u00eda de las veces que queremos abrirla, la app desaparece de la pantalla y se queda en segundo plano. Ese fallo lo da much\u00edsimas veces y cuesta poder acceder a la aplicaci\u00f3n... Podr\u00eda ser una app \u00fatil pero la mayor\u00eda de las veces ni siquiera se puede utilizar.",
         "score": 1,
-        "thumbsUpCount": 7,
+        "thumbsUpCount": 9,
         "reviewCreatedVersion": "2.1.7",
         "at": "2020-11-09 14:48:50",
         "replyContent": "Hola Carmen, lamentamos la incidencia con la app. Nuestro equipo de soporte@dkvservicios.com se pondr\u00e1 en contacto contigo por tel\u00e9fono o correo electr\u00f3nico para tratar tu problema. Un saludo",
@@ -893,7 +929,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhUo9WEZeJpcIymP90RY0IyFRt2XWO11YIsiVlizA",
         "content": "Hac\u00eda mucho tiempo que no instalaba una aplicaci\u00f3n tan mala, tanto en dise\u00f1o como en usabilidad. Los distintos apartados tardan mucho en cargar y varios de ellos son meros enlaces web. La \u00fanica utilidad que he encontrado es llevar las tarjeta en el m\u00f3vil, porque no para consultar el cuadro m\u00e9dico vale, me salen resultados incompletos mezclados con los de otras ciudades que no est\u00e1n ni cerca. Una verg\u00fcenza de aplicaci\u00f3n.",
         "score": 1,
-        "thumbsUpCount": 16,
+        "thumbsUpCount": 18,
         "reviewCreatedVersion": "2.1.7",
         "at": "2020-11-02 14:39:47",
         "replyContent": "Hola Esteban, nuestro equipo de soporte se pondr\u00e1 en contacto contigo desde soporte@dkvservicios.com para ayudarte. Por otro lado, al buscar en cuadro m\u00e9dico, revisa los filtros que tienes seleccionados, por ejemplo, si activas el filtro \u201cconsulta virtual\u201d es posible que aparezcan profesionales de otras zonas. Un saludo.",
@@ -956,8 +992,8 @@
         "thumbsUpCount": 3,
         "reviewCreatedVersion": "2.1.1",
         "at": "2020-10-26 18:03:10",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hola Sara, hace unas semanas que nuestro equipo de soporte@dkvservicios.com se puso en contacto contigo por email. Esperamos que haya sido de utilidad y no dudes en consultarnos de nuevo en el correo indicado para cualquier duda o sugerencia. Un saludo.",
+        "repliedAt": "2021-01-08 14:08:40"
     },
     {
         "reviewId": "gp:AOqpTOGdkCmKZJlZ4xiDr5DZyOh4ub2S94uUjueBzbmBikEp5zUUEtOyJ662CtTq44y0BCD27Zx9OxdvKLvheA",
@@ -3701,7 +3737,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-7P4HGP1j32A/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnhc0A-x6ZxVEGi5RPNS4Ci3HE4kw/photo.jpg",
         "content": "Me facilita la vida",
         "score": 5,
-        "thumbsUpCount": 1,
+        "thumbsUpCount": 2,
         "reviewCreatedVersion": "1.0.27",
         "at": "2018-12-10 14:36:43",
         "replyContent": null,

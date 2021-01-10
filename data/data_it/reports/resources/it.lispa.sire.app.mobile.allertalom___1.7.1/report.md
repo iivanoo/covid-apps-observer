@@ -160,6 +160,10 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <img src="5_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 5 reviews"/>
 </p>
 
+> Ottimale<br> :date: __2021-01-09 13:14:56__
+
+> Hanno risposto subito e ora funziona perfettamente grazie<br> :date: __2021-01-04 11:14:17__
+
 > Funziona<br> :date: __2020-12-23 14:32:10__
 
 > App molto utile per info sul tempo sulle allerte sui decreti per notizie e spostamenti utili in questo particolare momento un Grazie a tutti coloro che partecipano alla realizzazione del programma<br> :date: __2020-12-11 22:56:29__
@@ -176,10 +180,6 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 
 > Vi ho già detto che non va nel mio cellulare. Mi dispiace<br> :date: __2020-10-19 08:35:18__
 
-> Molto utile<br> :date: __2020-10-13 16:41:42__
-
-> Bellissima app<br> :date: __2020-10-10 10:33:43__
-
 
 
 #### 4-star reviews
@@ -187,8 +187,6 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 4 reviews"/>
 </p>
-
-> Era un'ottima applicazione, ora é inutilizzabile. Mi si blocca all'accesso al questionario covid che non mi fa compilare né per me stesso nè per gli altri componenti e non mi fa proseguire<br> :date: __2021-01-01 17:37:11__
 
 > Aggiungo due stelle. Senza fronzoli va al dunque. Per me lombardo funziona alla grande.<br> :date: __2020-12-11 13:32:57__
 
@@ -207,6 +205,8 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 > In linea di massima non è male . Oggi mi si è bloccata , l'ho disinstallata e reinstallata ora funziona !<br> :date: __2020-10-21 21:46:23__
 
 > Utilissima<br> :date: __2020-10-06 14:18:06__
+
+> Ottima applicazione, sempre presente per ogni cambiamento del tempo.<br> :date: __2020-10-03 14:37:02__
 
 
 
@@ -272,6 +272,8 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <img src="1_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 1 reviews"/>
 </p>
 
+> Inutile<br> :date: __2021-01-09 10:44:04__
+
 > Ti costringe a partecipare al questionario covid, per proseguire. Non funziona il tasto "Non mi interessa". Volevo essere informato sulle allerte della protezione civile. Le cercherò altrove.<br> :date: __2020-12-24 12:07:27__
 
 > Ad un certo punto non ha più funzionato. Ho tentato di fare un aggiornamento ma non è riuscito, allora ho disinstallato la app e cercato di reinstallare, ma inutilmente! Non si installa<br> :date: __2020-11-19 12:54:38__
@@ -289,7 +291,5 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 > Totalmente inutile, da informazioni che puoi trovare sia sull'app meteo che su Google, consuma spazio per niente<br> :date: __2020-10-17 14:50:34__
 
 > Dopo dopo aver portato pazienza per sei mesi, Devo dire che questa app non serve a nulla. Nulla è consultabile per quanto riguarda le allerte. Ti obbliga ad accettare tutta una serie di privacy ogni volta che viene lanciata e l'unica cosa che puoi fare e compilare il questionario covid. Anche qui un disastro.... Non ti consente di compilare il questionario per te e ti obbliga a farlo per i familiari..per lo stato delle cose la ritengo inutile. Grazie<br> :date: __2020-10-16 10:07:08__
-
-> No comment serve a niente<br> :date: __2020-10-11 21:18:16__
 
 

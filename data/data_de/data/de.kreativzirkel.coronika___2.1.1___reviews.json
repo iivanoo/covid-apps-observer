@@ -1,5 +1,53 @@
 [
     {
+        "reviewId": "gp:AOqpTOEgFwb-JVR-fwQtG7GDNzcL5x9eSpw8rKC1SwqHQHvmHp_Ggw0puofFwy7yfkH9B5C2T-bDWzeste95vA",
+        "userName": "Stefan Meir",
+        "userImage": "https://play-lh.googleusercontent.com/-7nQwzW2Ehts/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucllGZXcMwBgzPeAQesHYA-5VMpl4g/photo.jpg",
+        "content": "War jetzt eine ganze Weile super, die Version 2.0.0 ist aber ein R\u00fcckschritt : - Telefonnummer als Pflichtfeld - Uhrzeiteingabe nun viel umst\u00e4ndlicher; der alte Selektor bediente sich viel schneller",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.1.1",
+        "at": "2021-01-08 18:29:44",
+        "replyContent": "Hallo Stefan Meir, vielen Dank f\u00fcr das Feedback. Mit dem neuesten Update von heute (v2.0.3) ist die Telefonnummer kein Pflichtfeld mehr und der alte Selektor f\u00fcr die Uhrzeit ist wieder da. Bleiben Sie gesund!",
+        "repliedAt": "2020-12-20 11:29:40"
+    },
+    {
+        "reviewId": "gp:AOqpTOGHgEhC4XiPXcT5QbTM_J6imVhJ_mpNw-VV53MKKLQsIEH9-Gy2_AmgxTc8dn53qu20q0DKRpGKOBPL8A",
+        "userName": "Der Bausa",
+        "userImage": "https://play-lh.googleusercontent.com/-VHW8SXsII90/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmbFUIl7tDlN5L8SkwMEu0hwKq40Q/photo.jpg",
+        "content": "Ist es m\u00f6glich seine Eintr\u00e4ge auf ein anderes Handy zu exportieren?",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.1.1",
+        "at": "2021-01-08 16:57:03",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHAwegFNkuVM5l_Oes-0csaGm1EayzyjSWcLJxOrLg_h34M8YqU9dkjsALdVieIU8HWTYCDSdlHJyEDlA",
+        "userName": "Astrid Seeger",
+        "userImage": "https://play-lh.googleusercontent.com/-6n7wi4euskM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnkfJIxsRgmRaDcoDewk3suOKIGEw/photo.jpg",
+        "content": "Es w\u00e4re noch toll ein und denselben Ort mehrfach am Tag angeben zu k\u00f6nnen, mit unterschiedlichen Zeiten, sowie Personen einem Ort zuzuordnen. Ansonsten spitze. Man kann dadurch auch sehr einfach ermitteln, wo eine Risikobegegnung stattgefunden hat. Ich hoffe trotzdem, dass ich die Exportfunktion nie brauchen werde.\ud83d\ude03",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.1.1",
+        "at": "2021-01-07 17:25:05",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOERRvvd6BiCue4Z94gGBlR0JLOnGC83lppgBShSf_v2CBoKxp47vnBMyqrvyhrx_y3ZR5TCnVniTkqLYA",
+        "userName": "Ukhara Arahku",
+        "userImage": "https://play-lh.googleusercontent.com/-lmd50oFT_zE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmB6eV7CviL3RqDaCXR1j-cso-pHQ/photo.jpg",
+        "content": "Wie kann ich einen detaillierten Export erstellen ? Ich bekomme zZ nur eine Liste aller Orte und darunter die aller Personen ohne Datum, ohne die Details (Uhrzeit, Masken, drinnen/drau\u00dfen) und vor allem ohne Zuordnung Personen zu Ort und Zeit. Falls ich das Datum einer Begegnung falsch erfasst habe, kann ich nur Details, aber nicht das Datum \u00e4ndern oder in der \u00dcbersicht verschieben. Wie kann ich wiederkehrende Begegnungen schneller erfassen, w\u00fcrde Tipparbeit sparen. Kann ich kopieren?",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.1.1",
+        "at": "2021-01-07 10:45:02",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOHVZ7hfnszt1R6uzaMRqWKsPUHdAaMCYoKZecqFKGspCbSGYmM25ILxRCAa-ZHiLUgGloU_Z4CnMKJN0w",
         "userName": "Kaya Pieper",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhykkZAgFmoNW1-uNWpfoGkARBVgyZRZv1ZCKVaIg",
@@ -8,18 +56,6 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "2.1.1",
         "at": "2021-01-02 20:39:15",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOERRvvd6BiCue4Z94gGBlR0JLOnGC83lppgBShSf_v2CBoKxp47vnBMyqrvyhrx_y3ZR5TCnVniTkqLYA",
-        "userName": "Ukhara Arahku",
-        "userImage": "https://play-lh.googleusercontent.com/-lmd50oFT_zE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmB6eV7CviL3RqDaCXR1j-cso-pHQ/photo.jpg",
-        "content": "Falls ich das Datum einer Begegnung falsch erfasst habe, kann ich nur die Details, aber nicht das Datum \u00e4ndern oder in der \u00dcbersicht verschieben. Wie kann ich wiederkehrende Begegnungen schneller erfassen, w\u00fcrde Tipparbeit sparen. Kann ich kopieren? Wie kann ich einen detaillierten Export erstellen ? Ich bekomme zZ nur eine Liste aller Orte und darunter die aller Personen ohne Datum u andere Details und vor allem ohne Zuordnung Personen zu Ort.",
-        "score": 4,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "2.1.1",
-        "at": "2021-01-01 12:49:20",
         "replyContent": null,
         "repliedAt": null
     },
@@ -310,18 +346,6 @@
         "at": "2020-12-20 12:43:04",
         "replyContent": "Hallo Hartmut S, vielen Dank f\u00fcr das Feedback. F\u00fcr einen Eintrag reicht es auch nur einen Ort auszuw\u00e4hlen. Personen m\u00fcssen nicht hinzugef\u00fcgt werden. Tippen Sie dazu einfach auf das Feld f\u00fcr den Ort und w\u00e4hlen dann den entsprechenden Ort aus. Das neueste Update von heute (v2.0.3) verbessert dabei auch noch die Performance. Bleiben Sie gesund!",
         "repliedAt": "2020-12-20 09:22:06"
-    },
-    {
-        "reviewId": "gp:AOqpTOEgFwb-JVR-fwQtG7GDNzcL5x9eSpw8rKC1SwqHQHvmHp_Ggw0puofFwy7yfkH9B5C2T-bDWzeste95vA",
-        "userName": "Stefan Meir",
-        "userImage": "https://play-lh.googleusercontent.com/-7nQwzW2Ehts/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucllGZXcMwBgzPeAQesHYA-5VMpl4g/photo.jpg",
-        "content": "War jetzt eine ganze Weile super, die Version 2.0.0 ist aber ein R\u00fcckschritt : - Telefonnummer als Pflichtfeld - Uhrzeiteingabe nun viel umst\u00e4ndlicher; der alte Selektor bediente sich viel schneller",
-        "score": 4,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "2.0.0",
-        "at": "2020-12-20 11:11:26",
-        "replyContent": "Hallo Stefan Meir, vielen Dank f\u00fcr das Feedback. Mit dem neuesten Update von heute (v2.0.3) ist die Telefonnummer kein Pflichtfeld mehr und der alte Selektor f\u00fcr die Uhrzeit ist wieder da. Bleiben Sie gesund!",
-        "repliedAt": "2020-12-20 11:29:40"
     },
     {
         "reviewId": "gp:AOqpTOELgnl2tycN3m3xfISIo2p_0BqdJMyChvuUc5x11ycsYtGOluR6krjItIjLfYX7fhklEF5sgAAiWH1-Dw",
@@ -1813,8 +1837,8 @@
     },
     {
         "reviewId": "gp:AOqpTOFwmXH-m7Kz6VAwqXgbpXa3KYDugveLoZW-zdt_fQl5hk5J1BNoV99paxYas4FszuxEYIbtFN666eoaBw",
-        "userName": "Nee Danke",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhJuTXY2v8_qN3_mf4tqCvHYdTJMU1D6yogOdMmfQ",
+        "userName": "Bernd Br\u00e4gelmann",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg2DRKqNw9-o5PtbikodCGEYrWLkF3JK0nNd-jaIw",
         "content": "Super Idee. Helft mit Menschen und Wirtschaft zu sch\u00fctzen. Danke!",
         "score": 5,
         "thumbsUpCount": 0,

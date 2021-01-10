@@ -1,5 +1,41 @@
 [
     {
+        "reviewId": "gp:AOqpTOG4UlYZsuiYcU9Rv8CyTAlcw1oh4y3dNvIr8ZnGDXA85M12B_hrnULe6SSFIBYoh24JnHNgfBUk6dDKqVQ",
+        "userName": "Christy Whiddon",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiyO0-jNQ16s1ZY-c-6SpDZhbAuvZZOey-25ryX2LI",
+        "content": "Perfect",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.22.1",
+        "at": "2021-01-08 09:59:31",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOH_3D2w_slsu2qJ7q7zcLw-9wIfAxxG0T17VrVWcZBMZlhVK1yZdCX-yKiyFNYty4jEO-rtGMdDuDMADe8",
+        "userName": "Oskar B",
+        "userImage": "https://play-lh.googleusercontent.com/-ltHUF44T-9k/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl-3OoLe52sHJ1rOn89_HcpfSNaQQ/photo.jpg",
+        "content": "Useless. I have a positive test from a lab that needs antibiotics. The doctor only referred me to another useless instance \"v\u00e5rd central\" where they never answer the phone and you can't book a time online if you are no longer living in Sweden. Swedish health care is a joke.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.22.1",
+        "at": "2021-01-07 19:37:47",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOEh1J1Lk2F9MU_X48wsrOGWuzepKRhfPL_zMaKMldHs1AvgUPfmvgHTc_3hoTedyPAXs5YWYSzkxBJxvmI",
+        "userName": "Magnus",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgVrn6ZNi-UJ5hJmXrr5sG3BQ2E52VATc60rOvVoB0",
+        "content": "Love it. Got an appointment with a doctor for my knee problems in a week instead of waiting a month when I contacted Capio Primary Care",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.22.1",
+        "at": "2021-01-05 11:31:29",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOHrDnV7986WO-efY0emR4Ejrl5HB9ljZlr3ZxQO4ZHLxAA10Fwc-YBz7QdvWdEhYXZQ78UkuQx2zWZbxIY",
         "userName": "Domantas Stukas",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhgXb_I3DQMTYN9QJrW966KGqUDNxLTffFO_z6Jieg",
@@ -77,7 +113,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgpcYC_LlDGdrWWaxSQLrGMff9m_FAeyIo26y38qZE",
         "content": "Really helpful. You can talk to the real doctors as per the appointment. It is usually 30-49 mins. And it's free of charge for the consultation.",
         "score": 5,
-        "thumbsUpCount": 1,
+        "thumbsUpCount": 2,
         "reviewCreatedVersion": "3.22.1",
         "at": "2020-12-22 14:38:16",
         "replyContent": null,
@@ -1010,7 +1046,7 @@
     {
         "reviewId": "gp:AOqpTOFaJ6nQsq_zNxl3PDfAdd-X7GfcVTdpDE7WKWZdriXYGgyEhtbeZxMzSL8NJgMv4doSFeEa-Vwe5BTRpQc",
         "userName": "Djordje Trkulja",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi8E2dLKnm_VHXZ2ZRjb0JtpQE5gwXIL1cP_eyw-A",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgGFxqfc3ajaXi0yBNE1bExO0OfdOSq4y04aCi7vA",
         "content": "Great and fast service from doctor. 2 times I used it so far and both times free.",
         "score": 5,
         "thumbsUpCount": 3,
@@ -2353,7 +2389,7 @@
     },
     {
         "reviewId": "gp:AOqpTOGL2Df-OELr1gr6I4w9AJb1bzS2drOhVHG8gh4RfXFS10KHSGTloPvlkxrec7fFz2j5ZGQR-7OcB1N1npI",
-        "userName": "Shan Royal's",
+        "userName": "ShanRoyal's",
         "userImage": "https://play-lh.googleusercontent.com/-33jQy28cKZ4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck-cSTStwEe2UDFBgAvwAju2nClrQ/photo.jpg",
         "content": "Excellent service",
         "score": 5,
@@ -5270,7 +5306,7 @@
     {
         "reviewId": "gp:AOqpTOG9C2YdnUIqlZ2wxXcTdpTzxpdiCsCXiChgd0y_OfnJFzAw310kx1Pb04GNCK-N9jBCei7vgQWWQhTvYfY",
         "userName": "DISHI",
-        "userImage": "https://play-lh.googleusercontent.com/-F9DbHz8dUKc/AAAAAAAAAAI/AAAAAAAAU68/AMZuucmJATI6xTD9T70Csj1tl9Rg_P0wrQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgsXIqMjLRDKcu_ZtvRtNtkJf3Kj4LtZrtbOUzd2vQ",
         "content": "Very quick help!",
         "score": 5,
         "thumbsUpCount": 0,
@@ -7957,7 +7993,7 @@
     },
     {
         "reviewId": "gp:AOqpTOEA_yHWOg-xz766Whe-UMUeeinCIMMOurybPCcYUXela1wvgOev5nLz3nV1qoiPndMwXjXLqDXDMkAsGx4",
-        "userName": "Tinna Gu\u00f0j\u00f3nsd\u00f3ttir",
+        "userName": "Tinna L.",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjGJZGS5rOi8WaCIfo7AAh5arYA_zjrW0WkTP_2fn0",
         "content": "Otroligt bra!\ud83d\ude42",
         "score": 5,

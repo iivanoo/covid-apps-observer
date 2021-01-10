@@ -119,6 +119,8 @@ The CONFINAPP app has been installed by more than **10000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="cat.gencat.mobi.confinApp 5 reviews"/>
 </p>
 
+> Prou util i simple de fer servir. Funcional y sencilla de manejar.<br> :date: __2021-01-04 20:33:53__
+
 > Genial y molt be pensada felicitats.<br> :date: __2020-12-26 12:36:12__
 
 > instalat i generat un pel dia 26...tot ok<br> :date: __2020-12-23 13:13:01__
@@ -136,8 +138,6 @@ The CONFINAPP app has been installed by more than **10000** times. At this time,
 > Buena<br> :date: __2020-06-16 16:01:27__
 
 > Molt bona<br> :date: __2020-05-04 22:06:55__
-
-> Molt bona<br> :date: __2020-05-03 20:55:06__
 
 
 
@@ -165,6 +165,8 @@ The CONFINAPP app has been installed by more than **10000** times. At this time,
 <img src="3_star_reviews_wordcloud.png" alt="cat.gencat.mobi.confinApp 3 reviews"/>
 </p>
 
+> Es bloqueja i no deixa continuar<br> :date: __2021-01-07 17:52:39__
+
 > Informacion no actualizada<br> :date: __2020-09-11 22:37:56__
 
 
@@ -174,6 +176,8 @@ The CONFINAPP app has been installed by more than **10000** times. At this time,
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="cat.gencat.mobi.confinApp 2 reviews"/>
 </p>
+
+> Se bloquea y no funciona.<br> :date: __2021-01-07 08:50:43__
 
 > No se puede descargar el certificado<br> :date: __2020-12-06 18:46:25__
 
@@ -191,24 +195,24 @@ The CONFINAPP app has been installed by more than **10000** times. At this time,
 <img src="1_star_reviews_wordcloud.png" alt="cat.gencat.mobi.confinApp 1 reviews"/>
 </p>
 
-> Pongo la fecha en la cual me voy a desplazar , y me sale en el documento la fecha actual.<br> :date: __2020-12-29 20:30:43__
+> No s'obre la app<br> :date: __2021-01-08 08:42:03__
 
-> No funciona...<br> :date: __2020-12-26 17:46:23__
+> No se descarga y no es NADA EFICAZ<br> :date: __2021-01-08 01:35:35__
 
-> No és obligatori, ni surt al DOGC ni enlloc.<br> :date: __2020-12-23 16:14:06__
+> No funciona correctament. Quan poses codi postal d'origen i de destinació no et permet seguir afegint provincia, municipi... I sense aquestes dades no pot generar el certificat. Una pena que una cosa obligatòria com dur el certificat per anar a treballar cada dia, suposi tan temps (certificat per anar a treballar i per tornar a casa) sense contar si durant la jornada laboral s'han de fer més trajectes. App pésima<br> :date: __2021-01-07 21:43:42__
 
-> La información sobre el confinamiento no se actualiza, sigue saliendo la que se proporcionó a principios de octubre, y a día de hoy a cambiado bastante, ademas de que cuando intento renovar mis certificados me salta error continuamente.<br> :date: __2020-12-20 20:47:59__
+> Un cop tens el primer certificat fet, als darrers et recupera les dades personals, però no deixa introduir el codi postal de destí. Fatal!!<br> :date: __2021-01-07 21:07:31__
 
-> Absurda. Si puedes rellenarlo, también puedes explicarlo si te paran en un control. Lo importante son los documentos sellados y justificantes. Uno puede inventar que va o viene de donde sea.<br> :date: __2020-12-19 00:12:50__
+> Basura Pongo C. P de dirección de origen y de ahí no puedo pasar.<br> :date: __2021-01-07 21:05:04__
 
-> No se abre la aplicación.<br> :date: __2020-12-04 07:37:31__
+> No se abre 🤦‍♂️<br> :date: __2021-01-07 14:28:26__
 
-> Muy mala no renueva certificado,de pena.<br> :date: __2020-11-08 10:49:39__
+> Decepcionant, la tinc des del primer confinament i ara no puc generar cap certificat, no puc escriure a les caselles<br> :date: __2021-01-07 13:56:58__
 
-> No funciona, no genera certificados<br> :date: __2020-11-06 07:31:59__
+> Al crear un certificado para salir del municipio, en la parte de municipio de origen y municipio de destino, sólo te deja escribir el código postal, pero no sale el municipio ni la provincia. Tampoco deja ponerlo manualmente, a lo que te imposibilita crearte un certificado. Totalmente inútil entonces.<br> :date: __2021-01-07 12:51:14__
 
-> SI TENSUMBAEL OIDO TESCUCHA LA NASA..<br> :date: __2020-11-05 22:51:22__
+> Sino actualizais las restricciones ya me dirás tú para que sirve<br> :date: __2021-01-07 11:14:15__
 
-> No puedo verla en español<br> :date: __2020-11-03 09:08:33__
+> Funciona cuando le apetece, se me han borrado todos los justificantes que tenia, suerte que me ha dado por mirarlo. No creo que sea muy útil si te para un mosso. Mejor llevar el justificante. Creo absurda esta aplicación.<br> :date: __2021-01-07 11:02:03__
 
 

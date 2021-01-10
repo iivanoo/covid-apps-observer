@@ -186,25 +186,25 @@ The LiveHealth Online Mobile app has been installed by more than **500000** time
 <img src="5_star_reviews_wordcloud.png" alt="com.americanwell.android.member.wellpoint 5 reviews"/>
 </p>
 
-> Good<br> :date: __2021-01-02 16:37:15__
+> Great realtime connection. Camera good, voice good.<br> :date: __2021-01-09 15:57:19__
 
-> Very friendly doctors! Hassle free and easy to use!<br> :date: __2021-01-01 21:54:45__
+> Awesome<br> :date: __2021-01-09 11:50:40__
 
-> Very helpful and easy to use<br> :date: __2020-12-30 21:58:52__
+> Works well and is very convenient.<br> :date: __2021-01-08 17:57:28__
 
-> Amazing. So nice to not have to drag out to a doctor when you don't feel well.<br> :date: __2020-12-30 16:05:15__
+> Very easy to get care.<br> :date: __2021-01-08 14:39:52__
 
-> Both doctors I have seen listen to me instead of automatically misdiagnosing me or thinking everything is covid!<br> :date: __2020-12-30 15:38:34__
+> Dr Hendricks was great!<br> :date: __2021-01-07 00:31:10__
 
-> The doctor was very nice and helpful, I like this more than going to the E.R.<br> :date: __2020-12-30 07:07:23__
+> Easy to use and the care I have received was great! Much easier than sitting in an office waiting to be seen when you feel bad to begin with.<br> :date: __2021-01-06 19:29:57__
 
-> Amazing no waits no exposure at urgent cares to illnesses so convenient from the comfort of your home!<br> :date: __2020-12-28 16:18:17__
+> The provider was super nice and helped me out without attitude.<br> :date: __2021-01-05 13:17:37__
 
-> Easy to use! Very helpful!<br> :date: __2020-12-28 16:05:14__
+> Great experience!<br> :date: __2021-01-05 03:31:12__
 
-> Dr. Whyte was able to help me with what I was dealing with. I would recommend this to my friends. Great experience with this.<br> :date: __2020-12-28 02:00:37__
+> Wonderful. Fast<br> :date: __2021-01-04 22:48:58__
 
-> Nice personal<br> :date: __2020-12-26 23:49:42__
+> I had rated this app after looking at what seemed like a double charge on a visit but I called customer service. I learned that one of the transactions went through as what is like a void or a reversal. It's like when you go to the gas station & get charged twice but you get a reversal on the extra charge. I came back here to change the rating I made but Google Store here wouldn't let me make a 3rd edit (I had added additional info on the original rating, first rating). Call customer service!<br> :date: __2021-01-04 06:53:27__
 
 
 
@@ -298,6 +298,12 @@ The LiveHealth Online Mobile app has been installed by more than **500000** time
 <img src="1_star_reviews_wordcloud.png" alt="com.americanwell.android.member.wellpoint 1 reviews"/>
 </p>
 
+> Dosent load<br> :date: __2021-01-08 20:36:02__
+
+> Can't update card number and therefore can't even make appointments. Customer service said they'd "open a ticket for me" so I am left waiting to be able to see a dr until they're tech system is fixed for something that should be completely routine, like updating a credit card. Greedy company with garbage technology.<br> :date: __2021-01-06 18:52:40__
+
+> $59 for a visit, the doctor recommended that I receive a COVID-19 test but the catch is, no testing sight within a hundred miles of my area would take the recommendation because this company can't send it in a fax. Had to be seen for another visit and evaluation in person and pay ANOTHER co-pay to get tested. Wasted $59 dollars. Great virtual doctor and was able to prescribe non-conrtolled substance medication, just that they're basically treated as illegitimate by actual health care facilities.<br> :date: __2021-01-04 04:41:43__
+
 > Never used. Idk why it wants me to review??<br> :date: __2021-01-03 04:32:20__
 
 > Waste of time<br> :date: __2021-01-01 00:01:43__
@@ -311,11 +317,5 @@ The LiveHealth Online Mobile app has been installed by more than **500000** time
 > zero stars. 3 weeks ago, did the online visit, got a Rx sent to Walgreen's. Pharmacy was closed for T-day. Went to get Rx filled at another location, Walgreen's doesn't have Rx on file. Called customer service. Was told I had to do another visit (and pay again) to get my Rx because too much time had passed.<br> :date: __2020-12-17 10:30:34__
 
 > I was charged twice for 1 visit. Also the dr did not help at all he tole me to do exactly what I was already doing!<br> :date: __2020-11-26 03:01:57__
-
-> Doctors dont keep appointments, doctors pick and choose who they want based on your medical history. Dont recommend bad experiences<br> :date: __2020-11-20 17:15:17__
-
-> Only good for spam. Turned off notifications but still kept getting them. Could not even use it to consult Dr. Insisted on cash up front, would not accept Anthem's insurance.<br> :date: __2020-11-19 16:54:51__
-
-> Tried this for the first time they didn't get my birth date right even when I entered it correctly,<br> :date: __2020-11-01 18:28:59__
 
 

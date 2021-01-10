@@ -170,25 +170,25 @@ The Healthy Together - COVID-19 app has been installed by more than **100000** t
 <img src="5_star_reviews_wordcloud.png" alt="co.twenty.stop.spread 5 reviews"/>
 </p>
 
-> 70" ?+€😚😊👸💖🔥<br> :date: __2021-01-03 03:43:41__
+> it's been great not having to look around and just have one place to check on my status.<br> :date: __2021-01-09 01:23:53__
 
-> I like the fact that it gives you the outcome of your test thank you very much<br> :date: __2021-01-01 20:37:23__
+> Fast on time notifications.<br> :date: __2021-01-08 23:55:24__
 
-> Easy to use<br> :date: __2021-01-01 19:36:33__
+> Best app. quick results<br> :date: __2021-01-08 18:01:11__
 
-> Good so far.🐙🏝🐠<br> :date: __2021-01-01 17:22:16__
+> Excellent<br> :date: __2021-01-08 17:24:45__
 
-> Very simple and easy for me.<br> :date: __2021-01-01 02:04:23__
+> Quick<br> :date: __2021-01-08 16:35:53__
 
-> Great service for the public good!<br> :date: __2020-12-31 23:06:07__
+> I feel better to know I have a negative results👏🏽👏🏽<br> :date: __2021-01-08 15:19:03__
 
-> great job, god bless your guys<br> :date: __2020-12-31 03:07:22__
+> I love it<br> :date: __2021-01-07 22:36:57__
 
-> Very good app.<br> :date: __2020-12-31 01:11:02__
+> Excellent Service<br> :date: __2021-01-07 19:24:56__
 
-> great service<br> :date: __2020-12-30 19:12:48__
+> Im sick as a dog but not covid . I'd like this test to at least tell me what i do have. Im full of mucus<br> :date: __2021-01-07 15:17:55__
 
-> very pleased<br> :date: __2020-12-30 19:00:26__
+> this app is Ezekiel excellent<br> :date: __2021-01-07 10:55:54__
 
 
 
@@ -197,6 +197,16 @@ The Healthy Together - COVID-19 app has been installed by more than **100000** t
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="co.twenty.stop.spread 4 reviews"/>
 </p>
+
+> Easy to use<br> :date: __2021-01-08 16:49:01__
+
+> im ok<br> :date: __2021-01-07 02:48:10__
+
+> It did what it was designed to do which was provide the results of a covid19 text. Everything worked fine.<br> :date: __2021-01-06 19:08:33__
+
+> it gives a lot of information<br> :date: __2021-01-04 23:39:14__
+
+> I'm ok with what your doing<br> :date: __2021-01-04 04:48:13__
 
 > Helpful but delayed results, I get my email with my results before I get notified on the app<br> :date: __2021-01-02 22:38:55__
 
@@ -208,16 +218,6 @@ The Healthy Together - COVID-19 app has been installed by more than **100000** t
 
 > The app did what it was supposed to do. I had a little trouble downloading, but after that it worked for its intended purpose.<br> :date: __2020-12-20 18:08:45__
 
-> My daughter and I took the test the same time and I haven't got hers<br> :date: __2020-12-18 21:51:38__
-
-> Good<br> :date: __2020-12-18 00:22:52__
-
-> The app was helpful but would not allow me to change the date of birth to see other results attached to my phone number.<br> :date: __2020-12-16 18:02:03__
-
-> I didn't encounter any download/login issues + really like the real time results. I just don't see the purpose of having to unlock my results after using a secure password and login to use the app each time. My info has been saved to my account so it seems over redundant to sign in to my account and then immediately turn around again to input more info. Due to my job requirements I get tested frequently throughout the week. So you could see why that could become an annoyance and prevent 5 stars.<br> :date: __2020-12-12 10:46:54__
-
-> I had to attempt it twice before i was successful. I think i was in a hurry and stressed to get the results.<br> :date: __2020-12-11 16:25:58__
-
 
 
 #### 3-star reviews
@@ -225,6 +225,8 @@ The Healthy Together - COVID-19 app has been installed by more than **100000** t
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="co.twenty.stop.spread 3 reviews"/>
 </p>
+
+> First, I'm not sure where the problem is? The wife and I had both the Rapid and the Oral Swab done exactly the same time. She had her Rapid results in a couple hours. I never recieved mine? I called the day after and got my results. The text and E-Mail notification was supposedly sent to me, I never recieved anything? This is not the first time. Last year, the same issue? So, if the app is part of the process there is an issue.<br> :date: __2021-01-04 01:04:15__
 
 > I think it's a great app. But it should also have the option to open a spouse's or a relatives results with their approval of course but not just because it's tied to or related to phone #. I'm in Georgia n my husband is in Florida and he sent his test results link but it does not open me.<br> :date: __2021-01-01 21:17:35__
 
@@ -244,8 +246,6 @@ The Healthy Together - COVID-19 app has been installed by more than **100000** t
 
 > Thank you for your suggestion. After clearing the Google Play cache it froze again at 63% (same as before). Then I had to cancel the download again and then try again and then it worked.<br> :date: __2020-12-21 13:18:36__
 
-> App doesn't download<br> :date: __2020-12-20 23:53:55__
-
 
 
 #### 2-star reviews
@@ -253,6 +253,12 @@ The Healthy Together - COVID-19 app has been installed by more than **100000** t
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="co.twenty.stop.spread 2 reviews"/>
 </p>
+
+> Can't find my results<br> :date: __2021-01-08 21:30:50__
+
+> Very difficult for older and others that Try to see results by phone.. I finally was able to confirm my appt Results are back today... Having issues to look at my result... Been trying for almost 2 hrs<br> :date: __2021-01-08 18:12:50__
+
+> Wont download<br> :date: __2021-01-06 01:21:01__
 
 > I have no idea what my test results are. If they are posted for my viewing, I'd sure like to know where.<br> :date: __2021-01-02 02:52:04__
 
@@ -268,12 +274,6 @@ The Healthy Together - COVID-19 app has been installed by more than **100000** t
 
 > I don't know. I could not get past the "enter dob and relationship" part. I entered my information correctly. After reading reviews and replies I'm going to guess the medical facility entered something wrong. I thankfully have my results printed out from the facility so I guess I'll settle for what the hospital gave me.<br> :date: __2020-12-31 19:07:32__
 
-> It keeps asking for my password and there is none. So every time, I had to ask for a new pin! Stupid!<br> :date: __2020-12-31 18:03:20__
-
-> Horrible unable to activate code,constance restart<br> :date: __2020-12-30 12:39:23__
-
-> I too am having difficulty downloading this app.<br> :date: __2020-12-27 23:29:39__
-
 
 
 #### 1-star reviews
@@ -282,24 +282,24 @@ The Healthy Together - COVID-19 app has been installed by more than **100000** t
 <img src="1_star_reviews_wordcloud.png" alt="co.twenty.stop.spread 1 reviews"/>
 </p>
 
-> Downloaded app. Got pin # and cant get any further. Help<br> :date: __2021-01-03 13:41:49__
+> This site doesn't even work....... ! I can't even get passed log in!<br> :date: __2021-01-09 16:11:17__
 
-> Can't open it<br> :date: __2021-01-02 21:40:34__
+> HORRIBLE!!!! I can't get pass B'day. Keeps telling me doesn't match. I KNOW MY B'DAY. IDIOTS. Starting to think it's just another way to hack and get personal information. Get rid of this app or FIX IT ASAP. Now the damn thing won't even let me send and/or post my review. Ill give it a 1star only to see if it will then allow my review to post ,but it actually deserves -100 stars. Yeah its just that bad!!<br> :date: __2021-01-09 10:54:02__
 
-> Unable to get past the confirmation screen after entering my birthdate. Your app does not work!<br> :date: __2021-01-02 19:28:28__
+> Can't get by the birthdate@<br> :date: __2021-01-09 03:16:04__
 
-> It says the results are ready, but after putting your info in it does nothing. Worthless app and will be deleting<br> :date: __2021-01-02 18:27:32__
+> The app would not accept the code that was texted to me. What a frustrating waste of time!<br> :date: __2021-01-09 01:20:17__
 
-> Cant even get test results<br> :date: __2021-01-02 18:22:03__
+> Put in my sons birthday and it tells me not valid birthday. Give me break, this app is not recommended.<br> :date: __2021-01-08 21:30:05__
 
-> Tried to get my test results but thumb print didn't work and I don't have a pin # to enter. The # texted to me doesn't work as a pin # so I am stuck!<br> :date: __2021-01-02 16:59:21__
+> Does not work!<br> :date: __2021-01-08 19:53:26__
 
-> Thia app is vwey difficult<br> :date: __2021-01-01 22:34:53__
+> The code was too fast and I couldn't put it in So in other words it did nothing for me . It popped up too fast and I didn't even know what I was supposed to do with it before it was gone<br> :date: __2021-01-08 16:29:11__
 
-> The pin I received does not work.<br> :date: __2021-01-01 20:58:20__
+> Why do I have pay to get results, when my insurance company has already been charged, sounds like just another way of some agency making more money from a senior citizen that can't afford it. Down on east coast (Palm Beach County) even the test + results are free. I had pay thru my insurance company, otherwise no test in Okeechobee County, also saw County was only given 500 Vaccines for 70 yrs & older this past Tuesday, we have 20 x's that in this County, it's all about the money !<br> :date: __2021-01-08 16:20:13__
 
-> App is not working correctly<br> :date: __2021-01-01 17:07:18__
+> I am not interested in getting this app yet it keeps hijacking the official link by showing up before I can sign in<br> :date: __2021-01-08 13:08:34__
 
-> Asking me to enter pin # ....what pin number ?<br> :date: __2021-01-01 16:23:31__
+> How do you get this app to work?<br> :date: __2021-01-07 19:03:28__
 
 

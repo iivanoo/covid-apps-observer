@@ -148,25 +148,25 @@ The Smittestopp app has been installed by more than **50000** times. At this tim
 <img src="5_star_reviews_wordcloud.png" alt="no.fhi.smittestopp_exposure_notification 5 reviews"/>
 </p>
 
+> Good<br> :date: __2021-01-09 00:14:27__
+
+> Kjempe bra app. Ingen som helst tull og den er sikker å trygg å bruke. Den bruker ikke noe særlig batteri, i såfall er det så lite at man ikke merker det, bruker heller ikke noe særlig plass. Vi må få ned smitten nå så de kan vaksinere mest mulig så håper alle kan laste den ned 😉👍 del med venner så flest laster den ned.. vi alle vil ha en litt mer normal hverdag tilbake i løpet av året. 5 ⭐⭐⭐⭐⭐<br> :date: __2021-01-06 15:22:41__
+
+> Bidrar til smittesporing med absolutt mest minimale konsekvenser for bruker. Bør tas i bruk av alle med smarttelefon👍<br> :date: __2021-01-05 21:49:03__
+
+> Nå fungerer Smittestopp supert. Krever ingen handling. Last ned og den virker. Merker ingen ting på batteribruk. Alt anonymt, personvern ivaretatt. Håper så mange som mulig lastet ned denne, hvis ikke er det ikke noe poeng. Da vil ikke appen beskytte oss. Denne appen hjelper ikke MEG (individnivå), men OSS. Hvis mange nok laster den ned vil smittesporing bli mere treffsikker og viruset vil presses tilbake.<br> :date: __2021-01-03 22:23:43__
+
+> Fungerer nå OK. Ta den i bruk! Strømforbruket virker greit.<br> :date: __2021-01-03 18:23:29__
+
+> Fungerer fint, og bruker lite batteri<br> :date: __2021-01-03 18:22:56__
+
+> Supert hjelpemiddel! 👍🏻<br> :date: __2021-01-03 18:18:07__
+
 > Fungerer veldi bra 🙂🙂🙂<br> :date: __2020-12-30 09:20:11__
 
 > Smittestopp leverer superbra på brukervennlighet, personvern og funksjonalitet. Verken mer eller mindre enn hva man trenger for smittestopp. Appen maser kanskje litt vel ofte med å sjekke kontaktaktiviteter. Tommel opp herfra!<br> :date: __2020-12-30 08:15:45__
 
 > Denne nye appen gjør alt rett. Hilsen it-student<br> :date: __2020-12-29 18:30:36__
-
-> Merker ingen forskjell i strømbruk på telefonen etter installasjon. Merker heller ikke at den er på telefonen med unntak av at Bluetooth må være slått på. Lett å installere.<br> :date: __2020-12-29 15:49:34__
-
-> Personverntrygg og superenkelt å bruke. Ingen Bluetooth problema eller økt strømmtrekk som æ klare å se<br> :date: __2020-12-29 12:45:54__
-
-> Fungerer bra på huawei p30 pro. Ikke noe problemer med verken batteri bruk eller blåtann som slår seg av eller på. Min blåtann står på hele tiden. Full pott fra meg. 5 stjerner<br> :date: __2020-12-28 16:16:03__
-
-> Fungerer helt fint med min s10. Bare synd at ikke flere installerer den på telefonene sine.<br> :date: __2020-12-28 08:53:54__
-
-> Jeg synes dette er en smart bruk av teknologi for og stoppe spredningen av kovid 19<br> :date: __2020-12-27 19:03:54__
-
-> Har foreløpig ingenting negativt å si om appen. Glad for at det endelig kom en ny versjon.<br> :date: __2020-12-26 20:27:06__
-
-> Endelig er det en app som alle kan bruke.<br> :date: __2020-12-26 19:56:59__
 
 
 
@@ -175,6 +175,10 @@ The Smittestopp app has been installed by more than **50000** times. At this tim
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="no.fhi.smittestopp_exposure_notification 4 reviews"/>
 </p>
+
+> Det at forrige versjon både brukte Bluetooth og GPS var grunnen til at jeg ikke brukte den siden det tømte batteriet på rekordtid. Men ettersom denne versjonen kun bruker Bluetooth er det grunnen til at jeg installerte denne nye versjonen.<br> :date: __2021-01-08 09:57:26__
+
+> Lydvarsel må gjøres om til opt-in av hensyn til de som ikke får til å slå av lyd som standard på enheten. Det må også rettes et par utrolig irriterende feil i skjermvarselet, nå "Smittestopp undersøker om du vær i nærheten av brukere som har m..." - "vær" skal antagelig være "har vært", del av meldingen er usynlig og hele meldingen forsvinner så fort at det ikke er mulig å få lest den en første gang.<br> :date: __2021-01-04 13:08:08__
 
 > Appen er nå som den burde vært i våres. Men den viser en notifilasjon noe ala Sjekker status for smittemeldinger eller noe sånt. Da vibrerer telefonen og jeg får opp notifikasjon. Får hjerte i halsen hver gang når jeg ser det er en notifikasjon fra smottestopp appen. Hadde vært fint å kunne skjule disse. Får også daglig beskjed om å åpne appen for å reaktivere den. Har lagt den inn som unntak på batterisparing uten at det hjalp (Oneplus Nord).<br> :date: __2021-01-02 10:50:41__
 
@@ -191,8 +195,6 @@ The Smittestopp app has been installed by more than **50000** times. At this tim
 > Appen virker grei men på Android kommer den av og til med et varsel øverst som bare forsvinner, det er ikke mulig å lese hva den sier fordi teksten bare forsvinner igjen<br> :date: __2020-12-22 15:06:29__
 
 > Vi prøver igjen. Appen vil fornye enhetens anonyme kode hvert 15 minutt står det. Kan smittede bli innmeldt i retrospekt og hvor mange kontakter vil innmeldes? Vi vil vite mer om funksjonen.<br> :date: __2020-12-21 18:51:54__
-
-> Vet ikke ennå om godheten av denne appen.<br> :date: __2020-12-21 13:24:29__
 
 
 
@@ -224,6 +226,10 @@ The Smittestopp app has been installed by more than **50000** times. At this tim
 <img src="2_star_reviews_wordcloud.png" alt="no.fhi.smittestopp_exposure_notification 2 reviews"/>
 </p>
 
+> Har fått problemer med min Sense etter at jeg installerte den nye Smittestopp. Måtte deaktivere appen for å kunne synke Sense.<br> :date: __2021-01-04 19:34:55__
+
+> Bruker for mye strøm på enheten.<br> :date: __2021-01-04 18:19:41__
+
 > Avinstallert denne fordi den har for mange varslinger. Håpa den skulle kjøre i bakgrunnen uten å plage meg i det hele tatt med mindre det var fare for smitte. Her kommer det notifikasjoner minst 4 ganger om dagen.<br> :date: __2020-12-29 22:36:31__
 
 > Jeg er fornøyd med personvernfirbedringene, neb noen ting som er uheldig med den nye appen: 1. Jeg er sjeldent under 2 meter fra noen i 15 minutter. Jeg syns eksponeringstiden ødelegger for at denne vil hjelpe med smittesporing. 2. Aldersgrense på 16 år virker imot sin hensikt nå som det ikke er registrering før smitte er sannsynlig. 3. En gang om dagen får jeg notifikasjon at Smittestopp er inaktiv og vil ikke virke før jeg trykker meg inn i appen. 4. Unødvendig notifikasjoner hver dag.<br> :date: __2020-12-29 17:57:19__
@@ -240,6 +246,12 @@ The Smittestopp app has been installed by more than **50000** times. At this tim
 <img src="1_star_reviews_wordcloud.png" alt="no.fhi.smittestopp_exposure_notification 1 reviews"/>
 </p>
 
+> Ødelegge for mennesker som har blåtann og ikke minst er det ikke noe annet enn dårlig ide. Ubrukelig og har ikke hørt om base stasjon og telefon trenger jo nettverk og det er jo selskapet som Telenor og Telia som har muligheten for gjøre det riktig så det er ikke noe problem med noe som helst. Men jeg har ikke med meg telefon ut så det er ikke noe som tilsier at jeg har bruk for den. Men det er ikke noe annet enn dårlig arbeid igjen og igjen takk for at dere er så utrolig dårlig med få det til?<br> :date: __2021-01-07 05:12:41__
+
+> Har prøvd å laste den ned flere ganger i snart en uke. Stopper opp hver gang og så står det at jeg ikke kan installere den på grunn av en feil.<br> :date: __2021-01-05 20:27:13__
+
+> Telefonen går i svart når jeg installerer den<br> :date: __2021-01-04 13:00:08__
+
 > Jeg vill ikke bruke min posisjon.Ingen trenger å vite hvor jeg er,til enhver tid.<br> :date: __2021-01-03 11:11:39__
 
 > Jeg får plutselig varsel hvert 5. minutt fra appen om at den henter informasjon. Det er ikke til å holde ut i lengden. Kan jo ikke skru av varsler heller.<br> :date: __2021-01-02 02:10:10__
@@ -248,16 +260,10 @@ The Smittestopp app has been installed by more than **50000** times. At this tim
 
 > Umulig å laste ned på telefonen<br> :date: __2020-12-29 08:16:52__
 
-> Får beskjed hvis du har vært i nærheten av en person med karantene problem for covid-19 skal du 'hva. Du kan gi 1 løgn hvis du ikke får covid-19. Slik kan vi ikke ha det. Bedre? Så da er det ikke noe hjelp det er faktisk ganske så ubrukelig. Trenger data og Internett. Det er faktisk ikke noe som er rett. Ja det var Norge 'og Danmark. Ubrukelig info og løgner. 500 ganger 70 er dødelig uansett så FHI er massemordere. Eller? Idiotisk! Trenger ikke noe som dette. Så ubrukelig. Vask hendene.<br> :date: __2020-12-26 09:26:58__
-
 > Har OnePlus Nord med Android 10 og Freedome VPN. Smittestopp vil ikke virke med Bluetooth aktivert. Må også slå av wifi hjemme da programmet trenger mobildata. Hva gjør jeg med dette?<br> :date: __2020-12-23 01:11:01__
 
 > Anbefale datatilsynet å ta en ekstra titt på dette her. Bruk av bluetooth kan spores. NEI jeg godtar IKKE at det sendes til Google, Apple osv brudd av personvern er dette. Å bruke bluetooth sørger også for at mobilen din sluker strøm så du er nødt til å ha den i laderen hele tiden. Da du kan spores og avlegger id. Nei hold dere langt unna det er akkurat det samme som den første appen bare dem skjuler sannheten at du kan trackes via bluetooth også. Dette er en SKAM. Misbruk av personvern.<br> :date: __2020-12-23 00:33:48__
 
 > Etter installasjon av denne bryter Bluetooth-headsettet med jevne mellomrom. Antar det har med scanningen å gjøre. Samsung Note 10+<br> :date: __2020-12-22 10:06:39__
-
-> Elendig<br> :date: __2020-12-22 01:19:00__
-
-> Dumt at Bluetooth må være på...<br> :date: __2020-12-22 00:37:23__
 
 

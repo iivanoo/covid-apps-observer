@@ -142,6 +142,8 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 <img src="5_star_reviews_wordcloud.png" alt="de.rki.coronadatenspende 5 reviews"/>
 </p>
 
+> Amazfit Integration nun vorhanden. Daher von 3 auf 5 Sterne.<br> :date: __2021-01-08 16:08:04__
+
 > 👍🏻<br> :date: __2020-12-26 14:40:13__
 
 > Eine sehr gute app erstreckt in dieser Situation in der wir uns alle befinden.<br> :date: __2020-12-25 21:18:54__
@@ -159,8 +161,6 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 > Nicht für jedes Armband geeignet. Es soll der Puls gemessen werden. Nicht jeder hat einen Pulsmesser im Tracker. Somit wertlos bei mir. Und nicht jeder in Deutschland trägt ein Fitnessarmband. Zumal die nicht ganz billig sind. Funktioniert mit den o.g. erfüllten Vorraussetzungen offenbar ganz gut. Nachdem ich heute aktualisiert habe, sehe ich auch wieder meine gespendeten Tage.<br> :date: __2020-12-16 16:15:47__
 
 > Da die Funktion der Tastatur vom App eingeschränkt wird, lässt sich keine E-Mail Adresse für die Google Fit Anmeldung eingeben. Schlecht programmiert. App ist unbenutzbar. Update: wenn man die Original Google Tastatur einstellt, funktioniert es. Problem könnte gelöst werden.<br> :date: __2020-12-12 08:15:38__
-
-> Sehr gute App!<br> :date: __2020-12-09 15:46:49__
 
 
 
@@ -226,6 +226,8 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 <img src="2_star_reviews_wordcloud.png" alt="de.rki.coronadatenspende 2 reviews"/>
 </p>
 
+> An sich eine gute Idee und ich hätte gerne auch Daten gespendet, aber mein Armband bzw. die App Mi Fit gibt es in der Auswahl leider nicht.<br> :date: __2021-01-07 22:05:29__
+
 > Leider werden Smartwatches von Samsung nicht unterstützt, daher kann ich leider keine Daten spenden<br> :date: __2020-12-29 13:27:44__
 
 > 'Verbindung nicht möglich. Es ist ein Problem mit dem Server aufgetreten.' Leider kann so auch der willigste nicht helfen.<br> :date: __2020-12-27 11:51:46__
@@ -244,8 +246,6 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 
 > Gute Idee, aber verbinden über Amazfit war nicht möglich?<br> :date: __2020-11-02 14:02:57__
 
-> Ich hatte sie installiert um bei dem Versuch meine Smart Watch zu verbinden festzustellen das leider Samsungs Watch nicht unterstützt wird. WANN kann man denn damit rechnen ???<br> :date: __2020-11-02 13:37:58__
-
 
 
 #### 1-star reviews
@@ -253,6 +253,8 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="de.rki.coronadatenspende 1 reviews"/>
 </p>
+
+> Zeigt ständig 12 Tage gespendeter Daten an, obwohl ich die App von Beginn an habe.<br> :date: __2021-01-07 11:14:08__
 
 > unterstützt das rki ruhig weiter dabei uns einzusperren, und verbote zu verhängen die völlig Sinn-befreit sind. damit die Elite am Brandburger tor es richtig Knallen lassen kann<br> :date: __2021-01-02 09:58:54__
 
@@ -271,7 +273,5 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 > 28 Tage konnte ich meine Daten spenden, bis ich feststellen konnte, dass die Verbindungsoption zu S-Health wieder einmal nicht möglich ist. Ich finde das unfassbar schlecht, seitens der Entwickler.<br> :date: __2020-12-16 17:57:04__
 
 > Leider keine Verbindung zu mifit möglich. Schade, hätte gerne geholfen. Werde die App wieder deinstallieren<br> :date: __2020-12-16 09:15:05__
-
-> Nutze weder Fitness-armband noch SmartWatch,daher nutzlos für mich<br> :date: __2020-12-16 02:43:16__
 
 

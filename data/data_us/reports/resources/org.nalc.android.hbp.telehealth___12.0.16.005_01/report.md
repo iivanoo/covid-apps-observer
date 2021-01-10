@@ -199,6 +199,8 @@ The NALCHBP Telehealth app has been installed by more than **1000** times. At th
 <img src="5_star_reviews_wordcloud.png" alt="org.nalc.android.hbp.telehealth 5 reviews"/>
 </p>
 
+> So helpful<br> :date: __2021-01-04 21:02:22__
+
 > Quick and simple. Must more efficient than Urgent Care.<br> :date: __2020-11-26 22:25:50__
 
 > Great audio/ video and experience<br> :date: __2020-11-24 22:07:17__
@@ -216,8 +218,6 @@ The NALCHBP Telehealth app has been installed by more than **1000** times. At th
 > Easy to set up and use! Much better alternative to Urgent Care.<br> :date: __2020-07-02 17:19:46__
 
 > Fantastic<br> :date: __2020-05-20 14:37:26__
-
-> Very easy to use, connect with someone available almost immediately, simple design is great<br> :date: __2020-05-11 21:11:40__
 
 
 

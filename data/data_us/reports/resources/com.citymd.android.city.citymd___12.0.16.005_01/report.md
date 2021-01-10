@@ -190,6 +190,8 @@ The CityMD app has been installed by more than **10000** times. At this time, **
 <img src="5_star_reviews_wordcloud.png" alt="com.citymd.android.city.citymd 5 reviews"/>
 </p>
 
+> Needed someone in a hurry. CityMD virtual Dr's were there to help.<br> :date: __2021-01-06 02:10:59__
+
 > Awesome<br> :date: __2020-12-20 20:03:12__
 
 > Didnt want to go out in the snow but also couldnt continue dealing with strep throat and this was the perfect solution. The app even suggested pharmacies that will deliver my prescription. I'm so grateful I found this solution!<br> :date: __2020-12-19 19:12:15__
@@ -207,8 +209,6 @@ The CityMD app has been installed by more than **10000** times. At this time, **
 > So easy and helpful<br> :date: __2020-12-04 00:00:58__
 
 > Fantastic was diagnosed from my couch cause was unable to walk Doctor was phenomenal.<br> :date: __2020-12-03 17:02:00__
-
-> Overall very pleased, my wait time was pretty good and it was fast!!!<br> :date: __2020-12-03 00:22:48__
 
 
 

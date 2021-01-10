@@ -1,0 +1,26 @@
+[
+    {
+        "reviewId": "gp:AOqpTOFyzvhzB8Uun0q2gfx6V21cXUJwdg_srlAAJMAE6uvskZyjEDlvCIvLWKiDUFYUu8VVxbwPL8jn1NjfJNM",
+        "userName": "kevin bonus",
+        "userImage": "https://play-lh.googleusercontent.com/-gWhieugrat4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckEvZ0IiU6tW_4qYWlr6eUoYH47kg/photo.jpg",
+        "content": "Id",
+        "score": 1,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "3.3.4",
+        "at": "2020-12-08 08:33:27",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOEIEHlpodYe9YBb6V70-Iq7nDASUHDhOv2LNGuivJLVNx1-RE_kvgbb7YVVsSd2xGVt1Dk0Jn1r4PYR49o",
+        "userName": "Basma Hesham",
+        "userImage": "https://play-lh.googleusercontent.com/-vQfSj49vHY0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckBiiJxynFFp9yGfe3ynXkyL3T3ZA/photo.jpg",
+        "content": "There is a problem with connection to the server , i cant launch the app",
+        "score": 1,
+        "thumbsUpCount": 2,
+        "reviewCreatedVersion": "2.1.60",
+        "at": "2019-12-06 09:17:37",
+        "replyContent": "We\u2019re sorry to hear about this problem. Please send us an email at curesupport@nih.gov with the relevant details and we will be there to assist. Thanks!",
+        "repliedAt": "2019-12-10 21:10:55"
+    }
+]

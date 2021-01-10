@@ -150,6 +150,14 @@ The COVID Alert NY app has been installed by more than **500000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="gov.ny.health.proximity 5 reviews"/>
 </p>
 
+> SharonFrancisSharen22o<br> :date: __2021-01-08 21:41:03__
+
+> Great<br> :date: __2021-01-06 11:23:53__
+
+> The Macarona y quesso detector is stronk<br> :date: __2021-01-04 04:46:46__
+
+> I think this is a good start to keep yourself save and others try it. It's free and you don't lose nothing by trying.<br> :date: __2021-01-03 20:27:38__
+
 > Great<br> :date: __2021-01-03 06:40:17__
 
 > Great resource for dealing with COVID<br> :date: __2020-12-29 04:01:05__
@@ -161,14 +169,6 @@ The COVID Alert NY app has been installed by more than **500000** times. At this
 > Supar<br> :date: __2020-12-23 10:09:30__
 
 > hgg<br> :date: __2020-12-22 21:33:38__
-
-> Nothing to report so I guess that is good. When I go to check see what exposure checks it shows number of keys so for us geeks a detailed explanation of how it works would be nice.<br> :date: __2020-12-19 14:06:09__
-
-> 😎✅🤣<br> :date: __2020-12-18 01:41:57__
-
-> great app<br> :date: __2020-12-17 06:38:18__
-
-> Great for following the COVID19 infection rate in my area, tracking my wellness or potential symptoms every day and for information relevant to COVID19.<br> :date: __2020-12-17 01:37:00__
 
 
 
@@ -206,6 +206,10 @@ The COVID Alert NY app has been installed by more than **500000** times. At this
 <img src="3_star_reviews_wordcloud.png" alt="gov.ny.health.proximity 3 reviews"/>
 </p>
 
+> All of these apps need to work together, not try to supercede each other. People who travel should not need to switch which app is doing sensing depending on which state they are in. If this is the fault of state health departments, they need to stop the bickering and all work together<br> :date: __2021-01-06 04:16:14__
+
+> I will say, recently in our area we've had an outbreak. The app was scanning daily to see if anyone in the vicinity had reported symptoms. This will only work if everyone down loads this and enters symptoms or lack thereof often.<br> :date: __2021-01-06 02:02:53__
+
 > The closeness sensing won't work if your phone is in battery saver mode (at least with my phone). If your Bluetooth + location are both on and you're still getting errors, try turning off battery saver/power saving mode.<br> :date: __2021-01-01 17:15:03__
 
 > It's okay but I feel I get no notifications when I'm close to an area that is COVID popular region.<br> :date: __2020-12-26 16:34:11__
@@ -222,10 +226,6 @@ The COVID Alert NY app has been installed by more than **500000** times. At this
 
 > Assume this app works, but haven't had any alerts. Also the symptoms are similar to common cold and allergies so that may cause alarm to people.<br> :date: __2020-11-15 16:15:08__
 
-> It's not detecting my Bluetooth.<br> :date: __2020-11-12 20:43:55__
-
-> Wish this had an "I tested negative" button for people with symptoms that turn out to be unrelated. Also, I suspect this gives a false sense of security--the main threat is people who don't take this seriously. Those people aren't using this app.<br> :date: __2020-11-05 06:37:55__
-
 
 
 #### 2-star reviews
@@ -233,6 +233,8 @@ The COVID Alert NY app has been installed by more than **500000** times. At this
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="gov.ny.health.proximity 2 reviews"/>
 </p>
+
+> To hard to do<br> :date: __2021-01-04 16:34:28__
 
 > Lacking in functionality to inform users... Doesn't link outside the app to get additional up-to-date information and directives from government agencies.<br> :date: __2020-12-20 23:49:39__
 
@@ -252,8 +254,6 @@ The COVID Alert NY app has been installed by more than **500000** times. At this
 
 > This app in no way lets u know if you have been in contact with covid<br> :date: __2020-10-30 18:24:06__
 
-> IMO, this is something which should be done on a national platform, and incorporated into Google, so all smartphone users have this information. Instead, this app is quite large, not moveable to the SD card, and forces you to use Bluetooth more often than is wise... not only for battery life, but vulnerability issues. Also, the "questionnaire" of daily symptoms blows quite the dog whistle, flipping out over a stuffy nose, practically equating it with a positive COVID diagnosis. Too many bugs to be worked out for my liking... sorry. Uninstalled.<br> :date: __2020-10-20 07:43:45__
-
 
 
 #### 1-star reviews
@@ -261,6 +261,10 @@ The COVID Alert NY app has been installed by more than **500000** times. At this
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="gov.ny.health.proximity 1 reviews"/>
 </p>
+
+> This app needs far too many permissions and it's a very heavy drain on the battery.....<br> :date: __2021-01-07 16:02:47__
+
+> Does not work in conjunction with other covid apps. Must shut one off to use the other. Have NY and Connecticut. They will not work at the same time. Stupid!<br> :date: __2021-01-05 18:31:46__
 
 > This world is becoming more and more like Nazi Germany everyday. Hebrews 10:25<br> :date: __2021-01-03 06:49:56__
 
@@ -277,9 +281,5 @@ The COVID Alert NY app has been installed by more than **500000** times. At this
 > Totally useless app.<br> :date: __2020-12-28 21:36:59__
 
 > Useless.. i work doing COVID testing have yet to have the application alert me of a contact, yet I see many people every day who have tested positive.<br> :date: __2020-12-28 03:36:13__
-
-> This app needs far too many permissions and it's a very heavy drain on the battery.....<br> :date: __2020-12-27 02:15:56__
-
-> I give it 1 star and a thumb up, that's for all information you can find on this app. But I can't give more stars because the most important feature of this app is to let others know that you get tested for Covid, but it doesn't work! The code you are supposed to get from a Trace worker doesn't work, so the app can't (anonymously) send out important information and contact other people or their devices... (I reinstalled the app, turned of/on bluetooth, and tried multiple codes = nothing worked)<br> :date: __2020-12-26 18:45:12__
 
 

@@ -187,6 +187,8 @@ The Nuvance Health Virtual Visits app has been installed by more than **10000** 
 <img src="5_star_reviews_wordcloud.png" alt="org.healthquest.android.hqst.healtheconnect 5 reviews"/>
 </p>
 
+> Easy to operate<br> :date: __2021-01-08 22:40:50__
+
 > App works really well<br> :date: __2020-12-28 21:37:51__
 
 > Great<br> :date: __2020-12-12 21:50:41__
@@ -204,8 +206,6 @@ The Nuvance Health Virtual Visits app has been installed by more than **10000** 
 > Very good<br> :date: __2020-11-18 16:05:04__
 
 > Dr consultation.<br> :date: __2020-11-12 20:56:09__
-
-> Excellent!<br> :date: __2020-11-06 20:43:34__
 
 
 
@@ -280,6 +280,8 @@ The Nuvance Health Virtual Visits app has been installed by more than **10000** 
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="org.healthquest.android.hqst.healtheconnect 1 reviews"/>
 </p>
+
+> Yes I know I have an Android but it's ridiculous I've been trying for an hour and it just circles and will not install on my phone ...my phone is not that old<br> :date: __2021-01-06 17:17:54__
 
 > Difficult to connect...wifi issues<br> :date: __2020-06-10 15:45:21__
 

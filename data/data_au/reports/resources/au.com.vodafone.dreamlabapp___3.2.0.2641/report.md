@@ -155,25 +155,25 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="au.com.vodafone.dreamlabapp 5 reviews"/>
 </p>
 
-> A worthy use of a mobile when not in use. Why wouldn't you.<br> :date: __2021-01-03 13:43:43__
+> Makes helping research into C19 as well as cancer easy.<br> :date: __2021-01-09 11:53:03__
 
-> Good to use my phone to support these projects. Would really lije to know more background information on the aims of the projects. Also about the some detail on what the calculations are.<br> :date: __2021-01-03 12:42:41__
+> A great way to contribute to research into both cancer and COVID19.<br> :date: __2021-01-09 10:08:47__
 
-> This is great you help while doing nothing what could be better<br> :date: __2021-01-03 11:59:40__
+> Great experience battery isn't drained at all<br> :date: __2021-01-07 18:11:21__
 
-> It's good to be able to help in this small way.<br> :date: __2021-01-03 11:12:20__
+> Great<br> :date: __2021-01-07 17:51:51__
 
-> Straightforward to use. Information provided both interesting and helpful when promoting project to friends.<br> :date: __2021-01-03 09:23:23__
+> Easy to download and use, automatically connects whenever I charge my phone.<br> :date: __2021-01-07 10:09:18__
 
-> Very simple to use. Good to be able to assist the projects whilst not using your phone during the night.<br> :date: __2021-01-03 08:19:40__
+> Great to be supporting scientific research.<br> :date: __2021-01-07 00:34:52__
 
-> It vg. Does what it says it will and does not disturbed me with annoying ads<br> :date: __2021-01-02 13:10:51__
+> Feels good to help<br> :date: __2021-01-06 23:14:45__
 
-> It's a no brainer, costs nothing but helps to save lives<br> :date: __2021-01-02 11:15:12__
+> A great app, doing great things<br> :date: __2021-01-06 19:28:25__
 
-> Interesting idea.<br> :date: __2021-01-02 10:56:52__
+> I feel I am contributing to this enormous effort being made by scientific community, very satisfying<br> :date: __2021-01-06 08:08:01__
 
-> Easy to use and tracks your contribution.<br> :date: __2021-01-02 10:49:50__
+> Great<br> :date: __2021-01-05 22:42:00__
 
 
 
@@ -183,25 +183,25 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 <img src="4_star_reviews_wordcloud.png" alt="au.com.vodafone.dreamlabapp 4 reviews"/>
 </p>
 
+> Works away in the background without fuss. Nice to be able to contribute<br> :date: __2021-01-09 09:09:13__
+
+> Once set up, this is simple to use. You must be on an unlimited tariff and wifi to make the most of it. Make sure you set the app to operate only when charging, then it is no hassle to use.<br> :date: __2021-01-08 11:16:02__
+
+> Dreamlab works fine on Galaxy tab no overheating no problem no worries can leave on all day better still if worked without having to be on charge all the time thank you can you please fix this please Vodafone<br> :date: __2021-01-07 12:09:53__
+
+> Great idea. Could use improvements to encourage more users.<br> :date: __2021-01-06 09:17:07__
+
+> Took a while to get used to it, phone needs to be fully charged for best use otherwise battery drains rapidly. Very happy to help science.<br> :date: __2021-01-05 10:04:10__
+
+> Good, but should be better. It says in the app, that you can use this just on battery when not charging - you can't. If you could I'd give it 5 stars. Otherwise fab app where you can help solve major issues and possibly help save lives. It hasn't affected my battery yet after 40 hours use.<br> :date: __2021-01-04 08:14:30__
+
+> Please make your application's user interface compatible with Android TV and also Google TV with Chromecast. I certainly don't mind donating CPU time of my Google TV with Chromecast. It's left powered up 24/7/365. I've side-loaded it onto the Google TV device and the app does work.<br> :date: __2021-01-03 22:21:37__
+
 > Does what it says on the tin<br> :date: __2021-01-02 21:16:31__
 
 > Been using the App less than a week so early days, but very satisfied so far<br> :date: __2020-12-31 09:51:56__
 
-> Dreamlab works fine on Galaxy tab no overheating no problem no worries can leave on all day 😀<br> :date: __2020-12-30 15:34:12__
-
 > The stats added with the 3.2.0.2641 update are good, but why are they only accessible when a project is actually powered? Can't they be made visible for the selected project as panes on the "The Lab" page all the time?<br> :date: __2020-12-30 01:13:38__
-
-> Great idea However I cannot send feedback since it uses email and on a Samsung phone running Know the work email is on the secure partition and Dreamlab isn't. I have 2 phones running the app and I have noticed that 1 got a flag saying a project has completed which the other hadn't picked up - but the phone on the completed project finished 0 calls in over 17 hours..... So I think there is an issue with how to switch the calls to an active project when 1 completes.<br> :date: __2020-12-29 14:29:52__
-
-> Good. Makes you feel you are helping researchers. Frankly I'd like to know more about the projects and how it works.<br> :date: __2020-12-29 10:15:19__
-
-> It's good to help. The only problem I have found is that when charging my phone on a Pixel Stand it will not get above 80 percent as both the app and wireless charging cause the phone to get warm.<br> :date: __2020-12-26 21:44:09__
-
-> I like contributing but would like more options e.g I'd like it to only work on WiFi and I'd like the app to automatically start and work when I plug in my phone to charge....sort of download set and forget.<br> :date: __2020-12-26 17:36:43__
-
-> Works fine on my phone, drains my wife's Samsung faster than the charger can keep up<br> :date: __2020-12-22 08:05:18__
-
-> Great to help research while asleep<br> :date: __2020-12-21 18:24:22__
 
 
 
@@ -211,7 +211,9 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 <img src="3_star_reviews_wordcloud.png" alt="au.com.vodafone.dreamlabapp 3 reviews"/>
 </p>
 
-> Needs a progress bar/% as while some jobs take several minutes, others go on for hours and it's not clear if it's frozen or not. Needs an option to suspend processing if screen is on. On some phones it's using more power than its charging so battery goes down, therefore needs an option to reduce processor % to counter this + % battery required before activating. You guys definitely need to take a few leaves out of boincs book. Poco F2 pro android 11<br> :date: __2020-12-30 16:28:42__
+> Good concept. My problem is that it kicks in whenever the phone is charging, not desirable when plugged into a powerbank. I use my phone as cycling computer and also with maps and use a powerbank so i can have the screen on all the time. If dreamlabs kicks in it drains the powerbank and phone battery at an amazing rate. It would help if it was possible to define the time period when dreamlab is active so it is restricted to overnight charging time.<br> :date: __2021-01-09 09:22:17__
+
+> Needs a progress bar/% as while some jobs take several minutes, others go on for hours and it's not clear if it's frozen or not. 12 calculations over 10hrs on a snapdragon 865?Needs an option to suspend processing if screen is on. On some phones it's using more power than its charging so battery goes down, therefore needs an option to reduce processor % to counter this + % battery required before activating. You guys definitely need to take a few leaves out of boincs book. Poco F2 pro android 11<br> :date: __2021-01-07 13:56:27__
 
 > Not as configurable as BOINC eg scheduling work. Too many thumb's up notifications. Can't adjust CPU usage.<br> :date: __2020-12-29 18:08:25__
 
@@ -229,8 +231,6 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 
 > Great idea, but I tend to wirelessly charge my phone. This doesn't provide enough power to run the app and charge, so my phone runs out of battery while on the charger. It would be great if the app could tell the difference between wired and wireless charging.<br> :date: __2020-12-04 18:36:49__
 
-> It seems like a great idea. However, I have an issue where the app appears to not be working when I move to another app or turn the screen off (the contribution amount does not increase) but is shown as running on my task manager. The app also continues to run even when the phone is unplugged. It might be that its not compatible with my Vivo x50.<br> :date: __2020-12-04 15:06:23__
-
 
 
 #### 2-star reviews
@@ -238,6 +238,8 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="au.com.vodafone.dreamlabapp 2 reviews"/>
 </p>
+
+> Doesn't show right progress, after every few deletes requires reinstall for knowing progress.<br> :date: __2021-01-08 00:22:12__
 
 > It just won't stay running.<br> :date: __2020-12-30 21:36:07__
 
@@ -256,8 +258,6 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 > Worked for about 3 days. After that, the app keeps crashing. Reinstall helped just for the first use. Now keeps crashing down again. Pity<br> :date: __2020-11-25 23:12:55__
 
 > Having to uninstall as phone runs way too hot when this is running<br> :date: __2020-11-24 12:29:49__
-
-> The idea is nice, but it drains the battery instead of having settings to work only when charging and from some battery percentage. EDIT: You say that it works only when charging, but there is no indication for it. Please update the app to show it. Also please have settings, to disallow it being used when below some percentage (I want it to stop when below 95% for example).<br> :date: __2020-11-20 09:34:48__
 
 
 

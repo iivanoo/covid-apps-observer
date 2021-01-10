@@ -144,6 +144,8 @@ The Care19 Alert app has been installed by more than **10000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="com.proudcrowd.exposure 5 reviews"/>
 </p>
 
+> Helpful💕⁦♥️⁩👏🙏👏🤗<br> :date: __2021-01-08 05:16:19__
+
 > Good<br> :date: __2021-01-02 23:36:05__
 
 > Good way to keep posted who sick got virus good app .<br> :date: __2021-01-02 13:55:56__
@@ -161,8 +163,6 @@ The Care19 Alert app has been installed by more than **10000** times. At this ti
 > Help<br> :date: __2020-09-15 03:29:55__
 
 > This app was no good it gave me covid<br> :date: __2020-09-04 02:48:59__
-
-> We all need to take positive action to control the spread of the virus. It is our responsibility to keep us all safe.<br> :date: __2020-08-26 01:46:46__
 
 
 
@@ -210,6 +210,8 @@ The Care19 Alert app has been installed by more than **10000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="com.proudcrowd.exposure 1 reviews"/>
 </p>
 
+> Has not added a scan since December 15th. No updates available, so it's not that.<br> :date: __2021-01-06 07:27:48__
+
 > Not updated since nov<br> :date: __2021-01-02 20:58:25__
 
 > I can go days without it logging any activity even though I have had a number of stops and it will not recognize that I have changed my home address. It would be nice if I could just completely reset & start over but it won't let me do that either. Rather useless if I have to remember to manually enter where I've been.<br> :date: __2020-12-21 20:48:07__
@@ -227,7 +229,5 @@ The Care19 Alert app has been installed by more than **10000** times. At this ti
 > Not any relevant information for right now!! 11-15-20<br> :date: __2020-11-16 04:25:29__
 
 > I had the app and was diagnosed with Covid. I sent my caseworker a screenshot of the app so I could get my 'notify others' button turned on. I don't know if she could do that or not, but she didn't address it. I had no idea how to activate the button to do the only thing this app is supposed to do.<br> :date: __2020-11-11 18:01:46__
-
-> Don't put stuff on my phone if I want it I would get it<br> :date: __2020-11-01 07:21:06__
 
 

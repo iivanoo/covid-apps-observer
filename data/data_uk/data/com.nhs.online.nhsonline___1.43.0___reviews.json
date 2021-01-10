@@ -1,5 +1,605 @@
 [
     {
+        "reviewId": "gp:AOqpTOEuVLwkEYbed8ZhSSeXNsvRuS2neEO2gq9-8_fCRSq_k5QU4eDqH3IFw7hkxgTkCuTEyCm4zGRPUudQtQ",
+        "userName": "Peter Stirland",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiIHJPs_wZBAGTGkkmFQf1vUHGhn510k2OesVFN",
+        "content": "I just got this an its great, I want to get my wife on it but she doesn't have a current driving licence or passport, are there other options to add her photo? she does have a driving licence that run out only last year, she is 76y and not fit to drive. Thanks.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.43.0",
+        "at": "2021-01-09 17:20:44",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFI-94of0WOW0nYmClSS6bGx5y1i1YULcEuxpv7nkuSNZWY4Ua25ystfHswJR1y_uue0LbSXXB7AXfESg",
+        "userName": "Elizabeth Asika",
+        "userImage": "https://play-lh.googleusercontent.com/--KBX0ccdqx4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckPzS7BF3x2F5btEogDLFJ6HQMAIA/photo.jpg",
+        "content": "Unable to get bluetooth to work pls help",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2021-01-09 17:02:36",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOF0_iDEw9Ez4vkPG3tQBHtPeXpYE3p623S5t-f68vyJdZwUXaR76ejxpqDG6aFpXut9kXI95aYV1OiTxg",
+        "userName": "Brian Cox",
+        "userImage": "https://play-lh.googleusercontent.com/-VaVxVUTLI0c/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucll4Su3igEp1B-PBzroTKQcTDDfcQ/photo.jpg",
+        "content": "after trying several times it still will not load rubbish",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.43.0",
+        "at": "2021-01-09 15:08:17",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHVPmB78JQx6PPNgPDHdshNy4oaSemgHeFQFbmYZtjcAhjOTN7RtQq0r423blKxcVdcsvN77ti-u2ljCA",
+        "userName": "SJB Mail",
+        "userImage": "https://play-lh.googleusercontent.com/-jEi-Xr5PJ7Q/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmSlmzATk_eYuRARWjpgYT5x0OOGg/photo.jpg",
+        "content": "Useless, don't bother using the app, the validation requirements will just waste your time as they don't work. I have a condition where I have no sense of taste or smell and a continuous cough, which causes distress to other patients at the Doctor's when I go there. Now I will continue to go to the Doctor's to get my prescription in person. It was my Doctor that asked me to use the app. One benefit, gets me out of the house during lockdown.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.43.0",
+        "at": "2021-01-09 14:20:20",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOElc6L2FxR3urE-QIOHY8LyDahzKjNl5jhaezTW6aocSCYg43JUsxFIX2rrFC9CVJUK_bAtUQzDaRl82w",
+        "userName": "Nat Nat",
+        "userImage": "https://play-lh.googleusercontent.com/-rPgpefR_ZMw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck3wZ7UM3JV7QkFh0Qmb2NH8vh7VQ/photo.jpg",
+        "content": "Currently occupying unnecessary space on my phone. Doesn't seem to work. Keep getting error message / call 111. Cannot see my info or order a repeat prescription. When it worked albeit briefly, it was great. Used to be convenient and work so well now it's just disappointing.",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.43.0",
+        "at": "2021-01-09 10:03:30",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFK0HXiTOEvGtIgvy3hk9QMH6tafQKqFaOY8vt891IO9y1EgulhveILyA7LVwDqpUHh07_o5y_N3D7dbA",
+        "userName": "Peter Clare",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ggi1Xv__lcXqUv8IKSH9vuxupDJEUe1xjsqNBy5gQ",
+        "content": "This app does everything very very well. You can see test results, reorder prescriptions get health advise and loads more. I have 50+ apps on my phone - this is the most useful.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.43.0",
+        "at": "2021-01-08 20:59:11",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFWk2pAfFWhjHZ19JA07kmAiKx2rt4nfcxD5eaSNaJ1ysW-QQYlWvWX_rcCqBvJMvIkLOvSSxLjdUGq_Q",
+        "userName": "Marie Sarney",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gjxzgh_4KwHIeKnTKt3R_SbVLMQ1RYjAEvKpC2ibA",
+        "content": "Good app especially if you have repeat prescription and give you reminders of book appointment as well",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.43.0",
+        "at": "2021-01-08 20:21:34",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOEMiHXXaJKHZuJmQwTC627i5EQHCdWlHWcqRHTUOYeTO7T3_ftnwaBz3eWPnjeq_DbBGnDPitoabv63rA",
+        "userName": "Rick Hollebon",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhrbH5FsOI8XOs7dGz56W87Opur9w6RnnfUT4wHNp0",
+        "content": "Handy quick and simple access to prescription ordering and nhs information.",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.43.0",
+        "at": "2021-01-08 16:54:15",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOH1qSzk8RMDT3iBIU6ZRmVNoJ0pf4QGG0bbYSrVOzs-ZaKirrPhqRvcN-cfnujp2ghLhSQfFt1RChz3lQ",
+        "userName": "Simon Aldred",
+        "userImage": "https://play-lh.googleusercontent.com/-zfVitYsP2Lw/AAAAAAAAAAI/AAAAAAAAAMY/AMZuucmKspVLIs_GGCEaybJ9OBepTFz1Dg/photo.jpg",
+        "content": "Worked well for me. Better than holding on the phone",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.43.0",
+        "at": "2021-01-08 16:26:55",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFZp8k-p0n5szxl9ryhwFs3ASb5QUJLWb-lIZRY5KK1ONTx4p1vY3s96GJhAy2cOe671ztQcTuUMoPtCw",
+        "userName": "Paul Kearney",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjfqM_L5MiUbV-2YXCQUxSaH8vyIymiwGSQRnHvyg",
+        "content": "No use. Won't upload my passport photo, won't scan my pic. Doesn't give me my NHS number- can't see the point of it.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.43.0",
+        "at": "2021-01-08 15:32:49",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFLrBb0NG3Cm4wUvp6rTzwnGJOH4yXqznIMmTof3sP7YBx3lboVG-mwPA1kOQXhvTG08eOSrENrkWgiaw",
+        "userName": "mitchel coppen",
+        "userImage": "https://play-lh.googleusercontent.com/-Ao7BnSkGj6c/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn7rwFdyNsB1ilGgFCUDfx9-mpl1w/photo.jpg",
+        "content": "Waiting for my id to be checked says takes upto 2 hours buts its been 10, need to order a prescription since i can no longer email my GP, ref: CID2001",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.43.0",
+        "at": "2021-01-08 11:12:51",
+        "replyContent": "We are sorry to hear you are still waiting for the verification process to be completed. We can check this for you, please raise it with us here: https://bit.ly/2TP6n9N and quote GS2928.",
+        "repliedAt": "2021-01-08 11:48:03"
+    },
+    {
+        "reviewId": "gp:AOqpTOHaqY7bpH4X4OpSJ1d7Tv9EIRmoVWLHu0kwFJkgd2LzFjYSPcD0PjFgj3lfMokSaUmWC8w5Y_i7LGoAyQ",
+        "userName": "joan adams",
+        "userImage": "https://play-lh.googleusercontent.com/-mob2zIXqUBw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclkg9dVSHwfPOh1xlMGOKVQeKhwyw/photo.jpg",
+        "content": "good",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.43.0",
+        "at": "2021-01-08 10:27:26",
+        "replyContent": "Thank you very much for leaving us a review. We're happy to hear this!\n",
+        "repliedAt": "2021-01-08 11:45:03"
+    },
+    {
+        "reviewId": "gp:AOqpTOG4UZgw-YA2Z_o5Hh53TSCnhPJtqMUaq_V5FuKtbSDz--OHRSTxYDkufHhqtSPUuXLN22at3ZFHjKKvlw",
+        "userName": "Donna Graver",
+        "userImage": "https://play-lh.googleusercontent.com/-vbnfZbKju4c/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucni92QtWmZcWxwovCoM6AZbNxMyKA/photo.jpg",
+        "content": "Always having to update and it doesn't recognize my phone number so I have to always rely on others for the code to access my GP",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.43.0",
+        "at": "2021-01-08 09:59:07",
+        "replyContent": "Thank you for leaving a review, and that really doesn't look like that is how the app is meant to work, can you please log a ticket here https://bit.ly/2TP6n9N (quote GS2926) and we will get back to you?",
+        "repliedAt": "2021-01-08 11:40:03"
+    },
+    {
+        "reviewId": "gp:AOqpTOEzmw9Cb8H0BhrUluy1TntamD4OPfxn66qVupjZj4uNODfZL8PjjYEliT3wf4C8MIZCg0Mhz2g3-jbrgw",
+        "userName": "Jeff Taylor",
+        "userImage": "https://play-lh.googleusercontent.com/-7chhQ9RCLV4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucndGaTsVkiOQP1ECfQo7iKGcvH4LA/photo.jpg",
+        "content": "The App doesn't open.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2021-01-07 19:08:12",
+        "replyContent": "Unfortunately the NHS App does not support your device's current operation system version: https://www.nhs.uk/using-the-nhs/nhs-services/the-nhs-app/help/technical/ If you are unable to update the system of your device to the required version, please access the app through a web browser: https://www.nhsapp.service.nhs.uk/login as an alternative.\n",
+        "repliedAt": "2021-01-08 09:18:49"
+    },
+    {
+        "reviewId": "gp:AOqpTOFsbcayK9g_0OJLDotc7CWJN3qA0sUkdyy6tWeInSMTjfbJoW2iEHv0LPJApku3EH9OoT5Qxebv1H_ihg",
+        "userName": "Graham Jones",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjykDKfmbd6TE5gpFswNNsL58ETiBw89YM9JpcL",
+        "content": "Good up to date information.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.43.0",
+        "at": "2021-01-07 18:15:20",
+        "replyContent": "We're happy to hear this, thank you!\n",
+        "repliedAt": "2021-01-08 09:18:18"
+    },
+    {
+        "reviewId": "gp:AOqpTOHOyzV_X34pO0jZJLykxpIjGIlGobsp2Ec17nbIF0hsLHkBx8Vnq8bgPN6LSe5lM_Ah5ISjII5auAwkBQ",
+        "userName": "Philip Monk",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhfmS51JiCMLqdndcEdhN1X4Tjf-33DfgP5xV4L",
+        "content": "You won't believe it but it is true this app is plain simple to use.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.43.0",
+        "at": "2021-01-07 17:04:54",
+        "replyContent": "Thank you very much for leaving us a review. We're happy to hear this!\n",
+        "repliedAt": "2021-01-08 09:15:32"
+    },
+    {
+        "reviewId": "gp:AOqpTOGWojXmyfDJG8Bj-U9OMNYDy9gNpg2k8_EQjRFYvCoV_tnoi3yOv7uv7WRtPduSCIYdK4hPgcqoGMW6rQ",
+        "userName": "Christopher Hosgood",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgPbVC6MzSeuAhJE6CeY8BTr9WOh5-aSj0tvl1FwA",
+        "content": "Able to view records/results/scripts with ease which l couldn't with previous on line service - excellent app\ud83d\ude00",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.43.0",
+        "at": "2021-01-07 16:19:57",
+        "replyContent": "We're happy to hear this, thank you!\n",
+        "repliedAt": "2021-01-07 16:31:05"
+    },
+    {
+        "reviewId": "gp:AOqpTOGA_zD7aTQ_wZQBWKaeLaxMnGY5E5z9y5agncqLzbqc6z4hYu1t19G2SS6HidAKLFUUWKDE_XiGORiwNA",
+        "userName": "Iuliana Dragomir",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ghab0aHNRqnOgIcT4UIHtuoJ32__qBZ9CDp6bh1",
+        "content": "Good",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.43.0",
+        "at": "2021-01-07 09:30:25",
+        "replyContent": "Thank you very much for leaving us a review. We're happy to hear this!\n",
+        "repliedAt": "2021-01-07 10:53:31"
+    },
+    {
+        "reviewId": "gp:AOqpTOGNU9OAMdYRpPbykNu_e8xGEpzerfEYa_FsynydxUKeaSN-VD8klJRMICOSJRg78OixJ1fxh4jt8Z3PsA",
+        "userName": "Cyne o",
+        "userImage": "https://play-lh.googleusercontent.com/-J6igCVHGwpg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckkBHb59gPS3QpBGGES3--x2tMCJw/photo.jpg",
+        "content": "Absolute pants!! Can't open camcorder to record the video required to complete registration. Very frustrating!!! After receiving a reply, thankyou very much, neither myself nor my husband can solve the issue! Therefore sadly l had to uninstall the app. Will try again next month in the hope it will work. Update: After re- installing lt works.",
+        "score": 1,
+        "thumbsUpCount": 3,
+        "reviewCreatedVersion": "1.43.0",
+        "at": "2021-01-07 00:48:39",
+        "replyContent": "We apologise for the difficulties you experienced while trying to register with us. We'd really like to help you register for the App, so that you can interact with your GP. Due to the personal information required for our investigation, please raise your issues with us here: https://bit.ly/2TP6n9N and quote GS2755.",
+        "repliedAt": "2020-12-10 11:31:55"
+    },
+    {
+        "reviewId": "gp:AOqpTOEJdagwG4OxyM8UXvUA-NxPjB7Ri4ZghJSXBxZJLs9u1ZxUrhhiIaO_KlMCcRG_jf5xamAXEX5Toi3jIg",
+        "userName": "Mark",
+        "userImage": "https://play-lh.googleusercontent.com/-dhybuvqMWds/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclypmkddKrbaoacJhPsYUOJdtNzJQ/photo.jpg",
+        "content": "The app is very modern and user friendly, it lets you book GP apportionments, order repeat prescriptions and access your medical records if allowed by your GP. Really easy to setup. I'm actually surprised at how good this is. Well done NHS!",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.43.0",
+        "at": "2021-01-06 21:41:22",
+        "replyContent": "Thank you very much for leaving us a review. We're happy to hear this!\n",
+        "repliedAt": "2021-01-07 10:50:47"
+    },
+    {
+        "reviewId": "gp:AOqpTOFEK9wJ9CD222h9RON410zClES-k2gc6OaaAI3vU8h-sNTl2ApmhGGGDF6jbXtwxjEdbhYG7GosUQlzfw",
+        "userName": "Justin Lees",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgcIDqZql_LuHTsEhrbMrNt9F9CVg1STYh-wSi9",
+        "content": "Initial security tough then it's ok. Surgery answer, prescriptions happen.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.43.0",
+        "at": "2021-01-06 18:00:10",
+        "replyContent": "Thank you very much for leaving us a review. We're happy to hear this!\n",
+        "repliedAt": "2021-01-07 10:50:02"
+    },
+    {
+        "reviewId": "gp:AOqpTOEJc237IaZ-y7iyjfijSC1PWU3PL50fvtaVLB-VZ8zfWdWml0MZzCRUeexo8l02STr-vLxAh1et0F62og",
+        "userName": "Hugh James",
+        "userImage": "https://play-lh.googleusercontent.com/-5FDrBOHlTRI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckDoVXKIBh-LTY_671cLpBEXkzxxQ/photo.jpg",
+        "content": "Frustratingly bad. Follow all.the instructions to register and doesn't do it. After 40 years working as a nurse in the NHS I shouldn't be surprised that it doesn't work. Uninstalling it. Don't waste your time with it.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.43.0",
+        "at": "2021-01-06 14:12:53",
+        "replyContent": "We're sorry to hear you've had this issue with the registration process of your wife.\nPlease check the list of known NHS Login problems & fixes for a possible workaround to this: https://bit.ly/3niOYp6\nIf you are still experiencing the issue, please raise a query with us here: https://bit.ly/2TP6n9N and quote GS2918.",
+        "repliedAt": "2021-01-07 10:40:42"
+    },
+    {
+        "reviewId": "gp:AOqpTOGqsOUJIJ0_T4vjbAS-SNY7S6jPXXvVQmUCsEZyu608MUFWDJO39DMaqW2n_bGoHkFFzkIr7QViQH8EOg",
+        "userName": "Jamie Goodrick",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg6T3_HqEKkHnpgAN8huQ8v-dOJnG5YtUViGSoIxQ",
+        "content": "Good app everyone should install",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2021-01-06 12:38:04",
+        "replyContent": "Thank you very much for leaving us a review. We're happy to hear this!\n",
+        "repliedAt": "2021-01-06 13:24:05"
+    },
+    {
+        "reviewId": "gp:AOqpTOE7V_kRRKd_R1ftgagwT7lYFZPLKeddJolWNAbIJE2mclkWfhBLewD8rEg1AtcjD5sWKP3Qx6NGyTjqLQ",
+        "userName": "D T",
+        "userImage": "https://play-lh.googleusercontent.com/-g658mvbBYto/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnfD4teqiKdk7D5YJO9E6_zTnIs4g/photo.jpg",
+        "content": "Lets me upload passport then wont open my camera so i can film me saying numbers. Ive tried numerous times but unable to verify myself to go further. Very frustrating!",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.43.0",
+        "at": "2021-01-06 10:13:25",
+        "replyContent": "We're sorry to hear you've had this issue with the registration process of your wife.\nPlease check the list of known NHS Login problems & fixes for a possible workaround to this: https://bit.ly/3niOYp6\nIf you are still experiencing the issue, please raise a query with us here: https://bit.ly/2TP6n9N and quote GS2916.\n",
+        "repliedAt": "2021-01-06 13:21:27"
+    },
+    {
+        "reviewId": "gp:AOqpTOHlTUJEloijW4jwboT-df9Es_aDXBOL7NRAUer1nZsaviUzj6_xQMwa-ig5n2RltlZWbKh6ZQM-NySi1g",
+        "userName": "Graham Hale",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj_IWN69KM1YcHHzg6_giGWXNkCuOmkmXSTvGDtKw",
+        "content": "Gps need to sign up to this then it will work",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.43.0",
+        "at": "2021-01-06 09:27:43",
+        "replyContent": "We can confirm that all GP practices in England do not have to sign up to the NHS App. If you are registered at one of the practices in England, you can register and your profile will automatically be linked to your GP surgery. More information about creating NHS Login can be found here: https://help.login.nhs.uk/setupnhslogin/",
+        "repliedAt": "2021-01-06 13:18:57"
+    },
+    {
+        "reviewId": "gp:AOqpTOF2D686pFjCI0bhpH2h4Y3LCtR3qtmR5LxScKe2wUS5WeIUe66ctO50SEgl82d22tUq6mFZgXyqJUhIAQ",
+        "userName": "Matt Port",
+        "userImage": "https://play-lh.googleusercontent.com/-vIno8Z5Q_Zg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnFv7S4-3O3cz7249rXIoMQnkJBgw/photo.jpg",
+        "content": "Exceptional",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.43.0",
+        "at": "2021-01-06 03:19:07",
+        "replyContent": "Thank you very much for leaving us a review. We're happy to hear this!\n",
+        "repliedAt": "2021-01-06 12:51:38"
+    },
+    {
+        "reviewId": "gp:AOqpTOE4rpn6t-ZgfwSCPJ4k_CTniUlVhIjE3egR3Y-Jyrgc1CRE-ap13LhxBzRuaa2Ap-MRRoaUTxPsLTqPqQ",
+        "userName": "amy williams",
+        "userImage": "https://play-lh.googleusercontent.com/-tYdVT-FKIW4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmfPp9MgtZv4RRjvKWjwFaU7odJOA/photo.jpg",
+        "content": "It wont even load up",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2021-01-06 00:49:09",
+        "replyContent": "Unfortunately the NHS App does not support your device's current operation system version: https://www.nhs.uk/using-the-nhs/nhs-services/the-nhs-app/help/technical/ If you are unable to update the system of your device to the required version, please access the app through a web browser: https://www.nhsapp.service.nhs.uk/login as an alternative.\n",
+        "repliedAt": "2021-01-06 12:51:03"
+    },
+    {
+        "reviewId": "gp:AOqpTOEsutKH3T3d_lEiPXo886q1h9PCXheZdqS-s7MxFxHNfutZLgWXNbi1VJ49Cu3JgVcIJfd1ntjKYx25Mg",
+        "userName": "Michael Shreeves",
+        "userImage": "https://play-lh.googleusercontent.com/-fcWzFnBltIw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckPLaCxeXzIbJ11YYk8UcoA7RwdXg/photo.jpg",
+        "content": "The app is simple and easy to use.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.43.0",
+        "at": "2021-01-05 23:18:09",
+        "replyContent": "We're happy to hear this, thank you!",
+        "repliedAt": "2021-01-06 12:50:44"
+    },
+    {
+        "reviewId": "gp:AOqpTOEui8oeR2swWTCgjCU7rvo9Ef4fgsJQJll9a_Sln20AdMI0URPBKBnFrMlfaNsCK1o6xzF7ykCGYW7XCA",
+        "userName": "Lisa Payne",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjfTKqNkgM_bFlKuZ4AbiKeFfJqOskEocCiBDpWDg",
+        "content": "Keeps me up to date with my medical care i can set up appts around my shifts order prescriptions without using up valuable doctors time",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.43.0",
+        "at": "2021-01-05 20:17:43",
+        "replyContent": "Thank you very much for leaving us a review. We're happy to hear this!\n",
+        "repliedAt": "2021-01-06 10:43:35"
+    },
+    {
+        "reviewId": "gp:AOqpTOGkGCrNSbO8Wm-hoiPB-xxrZ0l3lTGWHtbSBAleXA5_LDIDteP-2JeBGjxzSAw4IQ4hjRXnny1-y0TMBA",
+        "userName": "Andre Walker",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjOkeSNlnNBxwKMrigekzNF4MOrq7A_L7y4X828iQ",
+        "content": "About time this app is on offer to the general public. Recommended.",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.42.1",
+        "at": "2021-01-05 19:09:15",
+        "replyContent": "Thank you very much for leaving us a review. We're happy to hear this! If there is anything that we can do, that would make you to improve the star rating, please let us know.\n",
+        "repliedAt": "2021-01-06 09:44:51"
+    },
+    {
+        "reviewId": "gp:AOqpTOFR0UTzcyvTW8MDCeAVirMxeZTwu48QfVct8ILr9xUuNGaLyxwBg4zzQ6g6cmt4wPHuHQhpOM8kgVZ9bA",
+        "userName": "Paul Ross",
+        "userImage": "https://play-lh.googleusercontent.com/-BF1sgN7jpRA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnXbakcICEOgxYu2KOp4sm1qEIREA/photo.jpg",
+        "content": "RUBISH",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.41.3",
+        "at": "2021-01-05 19:00:09",
+        "replyContent": "Unfortunately the NHS App does not support your device's current operation system version: https://www.nhs.uk/using-the-nhs/nhs-services/the-nhs-app/help/technical/ If you are unable to update the system of your device to the required version, please access the app through a web browser: https://www.nhsapp.service.nhs.uk/login as an alternative.\n",
+        "repliedAt": "2021-01-06 09:43:46"
+    },
+    {
+        "reviewId": "gp:AOqpTOHwpl12-6IsHTCE9sLzRqsyi4wIx9-rUpZp6Nub8peHkn5ixLJGsldtqKH0lZCf4t2iXlfrRACswWVdAg",
+        "userName": "David Hargreaves",
+        "userImage": "https://play-lh.googleusercontent.com/-gVZZzMDdbd0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckCcqilD0CNYvmzGuAWBdEcUJ7_KQ/photo.jpg",
+        "content": "Very buggy on Android. Where data isn't available or doesn't load error handling doesn't work...",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.43.0",
+        "at": "2021-01-05 17:09:30",
+        "replyContent": "Thank you for leaving a review, and that really doesn't look like that is how the app is meant to work, can you please log a ticket here https://bit.ly/2TP6n9N (quote GS2908) and we will get back to you?",
+        "repliedAt": "2021-01-06 09:38:36"
+    },
+    {
+        "reviewId": "gp:AOqpTOHN_X0qaRlvJY_TL8o5RJz_3PeERevRhM-vSplWv32yhttFnWAIUJGserNBCcz13_OqnjfM6BA580zw5g",
+        "userName": "Hayley Bell",
+        "userImage": "https://play-lh.googleusercontent.com/-HNpupPdHoNA/AAAAAAAAAAI/AAAAAAABFoA/AMZuuclQLGwJav8KtS-Tc1cx-VapAltkkQ/photo.jpg",
+        "content": "Excellent app. So fast to order repeat prescriptions. Love it! It is a big faff to set up but it's worth it!",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.43.0",
+        "at": "2021-01-05 13:53:46",
+        "replyContent": "Thank you very much for leaving us a review. We're happy to hear this!\n",
+        "repliedAt": "2021-01-05 13:48:13"
+    },
+    {
+        "reviewId": "gp:AOqpTOGTMsbJ_ZSJDUvHVKnJmuL_pGOU-NsZXZrDhYESPSVxtyabCYK8n_ufR8W77o2HzZoe40KIOL1TzcfzHg",
+        "userName": "Agnes",
+        "userImage": "https://play-lh.googleusercontent.com/-3X60odFjrWg/AAAAAAAAAAI/AAAAAAAAAQk/AMZuucm9Eord5gK043zeJPGHHalKOoqCyA/photo.jpg",
+        "content": "It's not working",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2021-01-05 13:27:11",
+        "replyContent": "Unfortunately the NHS App does not support your device's current operation system version: https://www.nhs.uk/using-the-nhs/nhs-services/the-nhs-app/help/technical/ If you are unable to update the system of your device to the required version, please access the app through a web browser: https://www.nhsapp.service.nhs.uk/login as an alternative.\n",
+        "repliedAt": "2021-01-05 13:49:14"
+    },
+    {
+        "reviewId": "gp:AOqpTOH77EOheEAW8hojQbGCnEdVhfFzxT_IGTnUkcx6mPxAVo7oQ1L6paDusvlLKqvymUiwbKQVWiZLEz2ecA",
+        "userName": "Allan Bussell",
+        "userImage": "https://play-lh.googleusercontent.com/-y5S-EEIYyZ0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclgf9vpUNX7EPJC1PwjUWFqO9UoQQ/photo.jpg",
+        "content": "Good",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.40.0",
+        "at": "2021-01-05 13:19:30",
+        "replyContent": "Thank you very much, we're happy to hear this!",
+        "repliedAt": "2021-01-05 13:48:36"
+    },
+    {
+        "reviewId": "gp:AOqpTOEzDTFuKBLyCmwe69qHXTiHSGotw63ga_3SRCOgTF8hTj18tNg1OlXojF92pGQJQ79mrYSZi4w--QY3rw",
+        "userName": "Evelyn C. Wilcock",
+        "userImage": "https://play-lh.googleusercontent.com/-3l_l1AQ2Vzw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck2eGVhL-CMrhhnyYDjgp_cffuPig/photo.jpg",
+        "content": "Slow to upload required pic and info",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.43.0",
+        "at": "2021-01-05 12:18:26",
+        "replyContent": "We're sorry to hear you've had this issue with the registration process of your wife.\nPlease check the list of known NHS Login problems & fixes for a possible workaround to this: https://bit.ly/3niOYp6\nIf you are still experiencing the issue, please raise a query with us here: https://bit.ly/2TP6n9N and quote GS2904.",
+        "repliedAt": "2021-01-05 13:47:31"
+    },
+    {
+        "reviewId": "gp:AOqpTOFPBk6QIIOtWlLJzm1jb_XN2vCXluBLX2QgfyKoqVEAm3afUPfnYJTsqAHJHyqQsR4T3_5bJvFuTAafGA",
+        "userName": "Chris Whiteside",
+        "userImage": "https://play-lh.googleusercontent.com/-hwoxs4o3Ov8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmzA8_0OZPxfBrogK-_FLZoRgk8Bg/photo.jpg",
+        "content": "Easy to use, very informative and secure",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.43.0",
+        "at": "2021-01-05 11:22:56",
+        "replyContent": "Thank you very much for leaving us a review. We're happy to hear this!\n",
+        "repliedAt": "2021-01-05 12:15:00"
+    },
+    {
+        "reviewId": "gp:AOqpTOG0T5DxD4sAsen5pRbkgMuXupKgaZTb1voZMsHXpEZj7zRPgsDWUvhNbAXYcQpqf0nH0r0CzDvJ18AQ-w",
+        "userName": "Janny Pyrek",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GimLgbx4cryjvZLlRoFx2xLqic5AJI9iYV4gIzzKQ",
+        "content": "Can i add my husband to this so i can order his repeat prescriptions aswell. Ive done all what youve replied to with my gp surgery yesterday. My husband had to give his permission which he did so last night for them to go ahead with it. Ive looked on the app but still no further thank you",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.43.0",
+        "at": "2021-01-05 09:42:47",
+        "replyContent": "The feature to switch profiles in the NHS App to act on behalf of another person, such as a child or dependant, is currently available at GP surgeries that use either the SystmOne (TPP) or Patient Access (EMIS) systems.\nAccess is controlled by the GP. You can ask them to register you for proxy access. They will guide you through registration.",
+        "repliedAt": "2021-01-05 09:15:41"
+    },
+    {
+        "reviewId": "gp:AOqpTOGlugwdWsDYd-hJ-ZVJa0Nauu8N1ZIb2IhgQWWxCjJbN3uCKa4_C-nQySQCC27RlAGAhpAenD-4dnPPQw",
+        "userName": "Sue Spittle",
+        "userImage": "https://play-lh.googleusercontent.com/-B9B25M_RuSE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnqqug4UBAmWUN19DmLTfq-LrHjgA/photo.jpg",
+        "content": "Very easy app to use from my phone. Able to set up my own password and user name with my email address, before had a very complex username and password.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.43.0",
+        "at": "2021-01-05 01:00:12",
+        "replyContent": "Thank you very much for leaving us a review. We're happy to hear this!\n",
+        "repliedAt": "2021-01-05 09:40:37"
+    },
+    {
+        "reviewId": "gp:AOqpTOH61TST2mU0womo_Ll1c9F8lmmrLWqHgioTFfekF-0ScT7MzOotX7-qp8dR4d_antmZ2XilUlaqKICdLA",
+        "userName": "Dave Symcox",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj_rR5TQK_HBISe_z37iIPgRXbhUO4GLoxnl_305w",
+        "content": "I found the process of signing up easy, I'm now free to order repeat prescription as required, but when I tried to signed the wife up oh my how many times have I tried and failed just won't accept photo and video match up. Gave up now she won't let me try again",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.43.0",
+        "at": "2021-01-04 22:10:35",
+        "replyContent": "We're sorry to hear you've had this issue with the registration process of your wife.\nPlease check the list of known NHS Login problems & fixes for a possible workaround to this: https://bit.ly/3niOYp6\nIf you are still experiencing the issue, please raise a query with us here: https://bit.ly/2TP6n9N and quote GS2901,",
+        "repliedAt": "2021-01-05 09:38:13"
+    },
+    {
+        "reviewId": "gp:AOqpTOELE2DNQ4hu0HFqTYZd2eCka9WslfAyF6usuTG39zs49TQSt9iBpHItXY1YHovcBU7vdO6DSMevMDX1zg",
+        "userName": "Paul St John",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjlgbNeJ8wLQuuoEuCp-kN5j1QolvUXZV2HZagRDA",
+        "content": "What a Complete waste of time. You spend 20mins adding every known detail you have on the website only to be told you don't exist. So you will have to visit your Dr who will ask yet more questions. Then, you have to go back to this rubbish and try it all again. Except it does the same bloody thing again. Then you discover it's linked to the \"patient access service\". Well now I know why it's so totally useless.Their response to this review is the same one they paste for all poor reviews too.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.43.0",
+        "at": "2021-01-04 19:34:50",
+        "replyContent": "We're sorry to hear you've had this issue with the registration process.\nPlease check the list of known NHS Login problems & fixes for a possible workaround to this: https://bit.ly/3niOYp6\nIf you are still experiencing the issue, please raise a query with us here: https://bit.ly/2TP6n9N and quote GS2869.",
+        "repliedAt": "2021-01-04 09:09:26"
+    },
+    {
+        "reviewId": "gp:AOqpTOEzUP1euO25uw0tUs_1XbfBou_JKik3lE1EVVLDfzYgAu8bIjaf33IKsD8IJoHn7weper_rEtxHLvMSkA",
+        "userName": "RSTV Productions",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjWcZjEEYx_k_258xenZ8F96e95fdAvCG2FZoxG",
+        "content": "Will not work on an older Galaxy Note 3.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.43.0",
+        "at": "2021-01-04 17:17:12",
+        "replyContent": "Unfortunately the NHS App does not support your device's current operation system version: https://www.nhs.uk/using-the-nhs/nhs-services/the-nhs-app/help/technical/ If you are unable to update the system of your device to the required version, please access the app through a web browser: https://www.nhsapp.service.nhs.uk/login as an alternative.\n",
+        "repliedAt": "2021-01-05 09:28:45"
+    },
+    {
+        "reviewId": "gp:AOqpTOFKnrDlxu1cmJDnFlGUXDzNDw6k8Zhc_pVqSmm-1ObvlXc3N3UmJZiikUuGWBB44tOY_Bq-1WYEbRnX1A",
+        "userName": "Tina Beer",
+        "userImage": "https://play-lh.googleusercontent.com/-8IqgFLLTg3E/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnfnF6mOPutbkKuk12e1tWCKIgvwg/photo.jpg",
+        "content": "Really easy to use and informative . Would recommend",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.43.0",
+        "at": "2021-01-04 16:47:42",
+        "replyContent": "Thank you very much for leaving us a review. We're happy to hear this! If there is anything that we can do, that would make you to improve the star rating, please let us know.\n",
+        "repliedAt": "2021-01-05 09:28:01"
+    },
+    {
+        "reviewId": "gp:AOqpTOEm01Cwnl6HMk_YrQc2wMMsbBKtaPalbbMgYqYuTTnatDaE3AbzfIePhwq3hJ_z6Jwr0PI0fy4BK3VJgg",
+        "userName": "Leslie D'souza",
+        "userImage": "https://play-lh.googleusercontent.com/-WbXyLMNSiq4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucki2tBHtXAiCNLZ69DAS4EFQUVTVw/photo.jpg",
+        "content": "Not user friendly. Worked when installed initially. Recently it will not open. Message says needs external storage or USB. My phone has a micro SD card with plenty vof storage. Other apps work but not this one",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2021-01-04 12:15:01",
+        "replyContent": "We are very sorry you have had a poor experience with the NHS App. Can we ask you to send us some more information of the issues you encountered, so that we can fix and follow this up for you? You can do this by following this link: https://bit.ly/2TP6n9N and quote GS2882. Our team will be happy to help you.\n",
+        "repliedAt": "2021-01-04 09:46:14"
+    },
+    {
+        "reviewId": "gp:AOqpTOHEMhYS70r7mBST2l0TByFZln0DRPOTKWwzRmj3xqUcf8croCYyh0_epBE-S1-VRok0LKbFtmFXnmjTeQ",
+        "userName": "Jacqueline Watkinson",
+        "userImage": "https://play-lh.googleusercontent.com/-CfoQMhaoMdI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnjrLl3onBKW46gOt7NYzD9TEkVBw/photo.jpg",
+        "content": "Excellent \ud83d\udc4c",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.41.3",
+        "at": "2021-01-04 07:54:04",
+        "replyContent": "We're happy to hear this, thank you!",
+        "repliedAt": "2021-01-05 09:26:09"
+    },
+    {
+        "reviewId": "gp:AOqpTOFYwpoIaz5a7VWhedDBoUvOqR7zlfL2llp6WaggFKIEUVJlHkxT8VEdjhE24K0pkJQdkXa_DIaH3zhU-A",
+        "userName": "Nigel Foss",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gha7L7RM8Z1Xnh4G0cA3c-LsnGtUzEdTuWVaR8IRdw",
+        "content": "Very efficient, especially on perscription requests. Secure and professional service",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.43.0",
+        "at": "2021-01-04 06:10:30",
+        "replyContent": "Thank you very much for leaving us a review. We're happy to hear this!\n",
+        "repliedAt": "2021-01-05 09:25:58"
+    },
+    {
+        "reviewId": "gp:AOqpTOG4skarJYckzVuCtbEbwKY1eLYaKgRJGu2xe9Kedlquy68bUXoMz9wyVfSPGFZHCOv-Pzjh61Yi2j8h0g",
+        "userName": "Gill Dale",
+        "userImage": "https://play-lh.googleusercontent.com/-Ltf-eMNs7Xs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn7evK5iMdRqZyoiZukl1iOmg3oiA/photo.jpg",
+        "content": "Easy to download. Easy to order prescriptions and contact surgery",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.42.1",
+        "at": "2021-01-03 23:38:14",
+        "replyContent": "Thank you very much for leaving us a review. We're happy to hear this!\n",
+        "repliedAt": "2021-01-05 09:23:11"
+    },
+    {
+        "reviewId": "gp:AOqpTOFKESajGgRjfHLw3OWesTgo6V3p3hatGl3ilcAe4FHmiE-1Isx42a60RUhSEZfaeedzONh9fO05JiNHXw",
+        "userName": "James Titterton",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gjer1fiaul96U8sxAD96vfMDBSUEJdjEbtl5oo1rQ",
+        "content": "So basically because I have no reason to travel abroad therefore have no passport and have never held a driving license. I am barred as a tax payer to use this service I help pay for.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.43.0",
+        "at": "2021-01-03 22:12:34",
+        "replyContent": "We are sorry that you've had difficulties registering with us. We require either a passport or driving licence in order to register through the App, due to security of medical records.\nAlternatively you can contact your GP surgery and request three access credentials - A linkage key (also called passphrase), ODS code and Account ID.\n",
+        "repliedAt": "2021-01-05 09:21:41"
+    },
+    {
+        "reviewId": "gp:AOqpTOEeFt9e9TlzKPONSJipBQJj4Eom2lORKEwVZZrR7kMh5dcZ9MRXEcz7Wahmd7ETyh9bq5EFna6Z4iZTPg",
+        "userName": "Alison Maconachie",
+        "userImage": "https://play-lh.googleusercontent.com/-j74HQGDFLxE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnHvdN8fgokox7J_w04DXFZxRA-yQ/photo.jpg",
+        "content": "Easy to use, worth the initial effort of getting set up",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2021-01-03 21:27:06",
+        "replyContent": "Thank you very much for leaving us a review. We're happy to hear this!\n",
+        "repliedAt": "2021-01-05 09:18:49"
+    },
+    {
+        "reviewId": "gp:AOqpTOGj6zh94Q_YW0uc8Niei4NBdRMD0B7gevfWOHPCZXJU6wGjf1fWApgQKgn1gcKgGjMbvfPJKmSCi24AkA",
+        "userName": "Malcolm Wallace",
+        "userImage": "https://play-lh.googleusercontent.com/-BMj2WIX5nuw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckFuQPAogs29Oued2mV0VBkpvpBEw/photo.jpg",
+        "content": "Overall good app for booking appointments and viewing medical record, but looses 2 stars for crashing when I try to set fingerprint up in settings Update 3rd Jan 2021 - this ap still crashes when I try to activate fingerprint login in Settings",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.43.0",
+        "at": "2021-01-03 19:51:24",
+        "replyContent": "We are sorry to hear this. Could you please contact us here: https://bit.ly/2TP6n9N and we will get back to you?",
+        "repliedAt": "2021-01-05 09:18:15"
+    },
+    {
         "reviewId": "gp:AOqpTOGEVlJ5W5SLK18MtEFPj9YBP4brJCnW1NCxV6TkRJ42rZtbGOpZLYke2nbHHteA8nJ2zV_0Ta7J43cMpQ",
         "userName": "Keith Winn",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj52bY5JZrDXByuSIUDsk_7HYyLXMO0vvOnSd5Mgw",
@@ -8,20 +608,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.43.0",
         "at": "2021-01-03 15:30:51",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOG0T5DxD4sAsen5pRbkgMuXupKgaZTb1voZMsHXpEZj7zRPgsDWUvhNbAXYcQpqf0nH0r0CzDvJ18AQ-w",
-        "userName": "Janny Pyrek",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GimLgbx4cryjvZLlRoFx2xLqic5AJI9iYV4gIzzKQ",
-        "content": "Can i add my husband to this so i can order his repeat prescriptions aswell",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.43.0",
-        "at": "2021-01-03 13:14:48",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thank you very much for leaving us a review. We're happy to hear this!\n",
+        "repliedAt": "2021-01-05 09:16:34"
     },
     {
         "reviewId": "gp:AOqpTOGg3s8KFY02SDaGGtqgG-2B9-NIoO5YykK9ydBmANymX-Q1RuVOUmD4T3l-hSFZn6zmu19xTCeJ0HKgsg",
@@ -32,8 +620,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.43.0",
         "at": "2021-01-03 11:45:49",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "We're sorry to hear you've had this issue with the registration process.\nPlease check the list of known NHS Login problems & fixes for a possible workaround to this: https://bit.ly/3niOYp6\nIf you are still experiencing the issue, please raise a query with us here: https://bit.ly/2TP6n9N and quote GS2890.",
+        "repliedAt": "2021-01-04 12:54:57"
     },
     {
         "reviewId": "gp:AOqpTOFAW9OLc8Yp-Nsv9zk_Vg2-Taee3NwZ0DbOXkWHIgkKLkRKVK9NsMnQ-lzFrAwlHAsbO9REO3ttUm7oDA",
@@ -44,8 +632,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.43.0",
         "at": "2021-01-03 00:18:06",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thank you very much for leaving us a review. We're happy to hear this!\n",
+        "repliedAt": "2021-01-04 11:03:12"
     },
     {
         "reviewId": "gp:AOqpTOE6YrDzms-2GwY3uPJMj3FZaNAtKDehGIH0ewF-yh6rv620Ab2_NN0bU5DyD98XRnE2loxfDNvHH5gQTg",
@@ -56,8 +644,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2021-01-02 19:41:48",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "We are very sorry you have had a poor experience with the NHS App. Can we ask you to send us some more information of the issues you encountered, so that we can fix and follow this up for you? You can do this by following this link: https://bit.ly/2TP6n9N and quote GS2888. Our team will be happy to help you.\n",
+        "repliedAt": "2021-01-04 11:02:13"
     },
     {
         "reviewId": "gp:AOqpTOEx_rAS1RUw_X8gN2lW_bJOjpmfBM5QWuwYM3rJwEiG3rXwxNfgXoJpqslqndIN06TmgoAeFG_vhOZQXA",
@@ -68,8 +656,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.43.0",
         "at": "2021-01-02 16:23:45",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Could you please tell us a bit more about the issue you encountered? Is this in relation to the NHS App?",
+        "repliedAt": "2021-01-05 09:10:48"
     },
     {
         "reviewId": "gp:AOqpTOGEesUO4tBCVG3tHMFQHQ2Qu1g6G6W0cogc4fKuMqwzV4REyxrIEBrDFiOY_WJb4iMm5X9f11Qihn5gcA",
@@ -80,8 +668,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2021-01-02 15:57:09",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "We're sorry to hear you've had this issue with the registration process.\nPlease check the list of known NHS Login problems & fixes for a possible workaround to this: https://bit.ly/3niOYp6\nIf you are still experiencing the issue, please raise a query with us here: https://bit.ly/2TP6n9N and quote GS2887.",
+        "repliedAt": "2021-01-04 10:22:59"
     },
     {
         "reviewId": "gp:AOqpTOHuEkK1d3zyU9Xmvu_kImLMNFUEFqQDPY0hnK46arZgZdAgqqZVvnTmlV8gtoaDeLCFBVHrZ2V7M3WEHQ",
@@ -92,8 +680,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.43.0",
         "at": "2021-01-02 14:40:06",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Unfortunately the NHS App does not support your device's current operation system version: https://www.nhs.uk/using-the-nhs/nhs-services/the-nhs-app/help/technical/ If you are unable to update the system of your device to the required version, please access the app through a web browser: https://www.nhsapp.service.nhs.uk/login as an alternative.\n",
+        "repliedAt": "2021-01-04 10:22:15"
     },
     {
         "reviewId": "gp:AOqpTOEtRRM4DXPPyuguNQ122BOQDZDf6-st3gCvUAEKC3U3yQH5KhFj6uZnMtt-1tJUfUcZNyneZMD5JcNubQ",
@@ -104,8 +692,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.43.0",
         "at": "2021-01-02 11:41:37",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thank you very much for leaving us a review. We're happy to hear this!\n",
+        "repliedAt": "2021-01-04 10:21:25"
     },
     {
         "reviewId": "gp:AOqpTOEictHwnMG5-nWBFhwUrOEQwelJzItdNtUDVwRFrHVXrg4ZBvWlhGO2RJ5eRr2X-BqPax1Wcpq5E8Au4w",
@@ -116,8 +704,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.43.0",
         "at": "2021-01-02 10:38:00",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thank you very much for leaving us a review. If there is anything we can do that would make you increase the star rating, please let us know.\n",
+        "repliedAt": "2021-01-04 10:20:26"
     },
     {
         "reviewId": "gp:AOqpTOHvmgn5SVgasUobe0f265aS2oaAkOv2OeYFMrOz-2L0BUyVRvsopfHANLBLGrhDrf5BEsjOXEnrJ4n8oA",
@@ -128,8 +716,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.43.0",
         "at": "2021-01-02 01:00:03",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thank you for leaving us a review!",
+        "repliedAt": "2021-01-04 16:16:18"
     },
     {
         "reviewId": "gp:AOqpTOFtiGgwpg996mIDz3NQTpcIhT9zhAw4oEzQeLcAf6UJbI9YciLy453ml2S9zrb7MuV0DpRmjCOtZQAJUg",
@@ -140,20 +728,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.29.0",
         "at": "2021-01-01 22:36:19",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOEm01Cwnl6HMk_YrQc2wMMsbBKtaPalbbMgYqYuTTnatDaE3AbzfIePhwq3hJ_z6Jwr0PI0fy4BK3VJgg",
-        "userName": "Leslie D'souza",
-        "userImage": "https://play-lh.googleusercontent.com/-WbXyLMNSiq4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucki2tBHtXAiCNLZ69DAS4EFQUVTVw/photo.jpg",
-        "content": "Not user friendly",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": null,
-        "at": "2021-01-01 16:29:24",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thank you very much for leaving us a review. We're happy to hear this!\n",
+        "repliedAt": "2021-01-04 09:46:46"
     },
     {
         "reviewId": "gp:AOqpTOG0i4eB8HJFoA6MZwo9cyywxL6c1EjbCf0l_v-XlFhQ9up-UNEzzb0Kg63dBTUv-EHUpzdOHvMnS6afUQ",
@@ -164,8 +740,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.43.0",
         "at": "2021-01-01 15:14:39",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "We are sorry to hear this. Please raise this with us here: https://bit.ly/2TP6n9N and quote GS2881. Our team will be happy to help you and we will contact your practice on your behalf.\n",
+        "repliedAt": "2021-01-04 09:45:28"
     },
     {
         "reviewId": "gp:AOqpTOHbfRdv1tVzvpIrLOnkfzNiTKkRNk2PBfysDIOB1oPAYs9ZnrYy2gJako7jh-hX3mpCrhGM10GX3vmIvg",
@@ -176,8 +752,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.43.0",
         "at": "2021-01-01 15:09:17",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thank you very much for leaving us a review. If there is anything we can do that would make you increase the star rating, please let us know.\n",
+        "repliedAt": "2021-01-04 09:43:17"
     },
     {
         "reviewId": "gp:AOqpTOHWugklGoJ4jw0VtLCfk8YJPYSmqqJ2HVttLQnFUPpEp-haUrohgxLY2jkaDcYCkwfrLWXnaqv84UJUcw",
@@ -188,8 +764,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.43.0",
         "at": "2021-01-01 14:42:45",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thank you very much for leaving us a review. We're happy to hear this!\n",
+        "repliedAt": "2021-01-04 09:38:28"
     },
     {
         "reviewId": "gp:AOqpTOE3q0uqFApkG8e0KY5ZG5jVDvkUnyHjLORmhskmxYDvombWeZd_JAJB9-4l0zN3wp2AWaCWu_PUHhZK_A",
@@ -200,32 +776,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.43.0",
         "at": "2021-01-01 12:21:35",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOHycGrMkF-NTWWny6db1zDRZFrbciBFJWcHBKNCk9GCPpiExpsu5EUBzXPEZ04lx2nQeU6b9GIaHayvug",
-        "userName": "julia pardoe",
-        "userImage": "https://play-lh.googleusercontent.com/-GukKyji-_3A/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnnpOHvqE-yfGJj4ecK1lplTNnfOQ/photo.jpg",
-        "content": "I work NHS",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": null,
-        "at": "2021-01-01 02:22:59",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOGcnOx0JMqViz_Hkdmj6pi2Dnj7LGLkYOQMAqFU0X0pJfLnxcWSqgq3lGHBHtdoX-suTPqmx0kZmwBJ8Q",
-        "userName": "Lyndsey King",
-        "userImage": "https://play-lh.googleusercontent.com/-3LEvCbW_YA0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmwPgZRpmqdtR9mG30XtqvPLJDb7A/photo.jpg",
-        "content": "Very good.",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": null,
-        "at": "2020-12-31 22:57:54",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "We are very sorry you have had a poor experience with the NHS App. Can we ask you to send us some more information of the issues you encountered, so that we can fix and follow this up for you? You can do this by following this link: https://bit.ly/2TP6n9N and quote GS2878. Our team will be happy to help you.\n",
+        "repliedAt": "2021-01-04 09:28:44"
     },
     {
         "reviewId": "gp:AOqpTOH9RdVNWSNOFBTMxAY6CeSsxD86P1RFE8KSiP2by66ninhnufGQbdwu392EUyHeVPqEtUPvsyzmm8FqEw",
@@ -236,8 +788,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.43.0",
         "at": "2020-12-31 22:47:19",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thank you for leaving us a review!",
+        "repliedAt": "2021-01-04 09:25:10"
     },
     {
         "reviewId": "gp:AOqpTOHXyQNyryVw4WdPTg3cWv685CsnzjgXxUzTL2Gwt-q41sYekgJ2MkE3OE8YArztw3QDUeneqn-9-gHrQg",
@@ -248,20 +800,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.43.0",
         "at": "2020-12-31 20:26:13",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOGNU9OAMdYRpPbykNu_e8xGEpzerfEYa_FsynydxUKeaSN-VD8klJRMICOSJRg78OixJ1fxh4jt8Z3PsA",
-        "userName": "Cyne o",
-        "userImage": "https://play-lh.googleusercontent.com/-J6igCVHGwpg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckkBHb59gPS3QpBGGES3--x2tMCJw/photo.jpg",
-        "content": "Absolute pants!! Can't open camcorder to record the video required to complete registration. Very frustrating!!! After receiving a reply, thankyou very much, neither myself nor my husband can solve the issue! Therefore sadly l had to uninstall the app. Will try again next month in the hope it will work.",
-        "score": 1,
-        "thumbsUpCount": 2,
-        "reviewCreatedVersion": "1.43.0",
-        "at": "2020-12-31 15:00:35",
-        "replyContent": "We apologise for the difficulties you experienced while trying to register with us. We'd really like to help you register for the App, so that you can interact with your GP. Due to the personal information required for our investigation, please raise your issues with us here: https://bit.ly/2TP6n9N and quote GS2755.",
-        "repliedAt": "2020-12-10 11:31:55"
+        "replyContent": "We're sorry to hear you've had this issue with the registration process.\nPlease check the list of known NHS Login problems & fixes for a possible workaround to this: https://bit.ly/3niOYp6\nIf you are still experiencing the issue, please raise a query with us here: https://bit.ly/2TP6n9N and quote GS2874.",
+        "repliedAt": "2021-01-04 09:19:13"
     },
     {
         "reviewId": "gp:AOqpTOGEfqeHSedLXpm-hdEFLwgHgRU8IfeaQMHWYacvs2eULNZSc4FGH4f1Gzq5wUEmsc1ocPF4WdVN_kNKdw",
@@ -272,8 +812,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.43.0",
         "at": "2020-12-31 12:04:41",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "We are very sorry you have had a poor experience with the NHS App. Can we ask you to send us some more information of the issues you encountered, so that we can fix and follow this up for you? You can do this by following this link: https://bit.ly/2TP6n9N and quote GS2873. Our team will be happy to help you.\n",
+        "repliedAt": "2021-01-04 09:17:53"
     },
     {
         "reviewId": "gp:AOqpTOHUIrqn80nh7EOEbYXlYzrNpNmdnl_IY_-BHb9EEj5Y2BgQEB7klfOktRCn09ZXxgVTrVAiiVC7s7Kicg",
@@ -284,8 +824,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.43.0",
         "at": "2020-12-31 03:51:31",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thank you very much for leaving us a review. We're happy to hear this!\n",
+        "repliedAt": "2021-01-04 09:16:55"
     },
     {
         "reviewId": "gp:AOqpTOGkzUsG3iCR_632kTmS0jRGqTlJOcujqtWfzqSHirmEHJahvo5stNwV_XVXeEMHdaVDMguSt_4whNuEsw",
@@ -296,8 +836,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.39.5",
         "at": "2020-12-31 01:30:11",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "We require either a passport or driving licence in order to register through the App, due to security of medical records.\nAlternatively, you can contact your GP surgery and request three access credentials - A linkage key (also called passphrase - this expires 14 days after its issue), ODS code and Account ID.\n",
+        "repliedAt": "2021-01-04 09:16:18"
     },
     {
         "reviewId": "gp:AOqpTOH6t_CeEwaTSDCE7Wj_smRwBQ4Z2OcGJvJIoikw49rF9hi5TIg6w3Sz5PXH-U647GaeehRTncoO8k7OSQ",
@@ -308,20 +848,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.43.0",
         "at": "2020-12-31 01:25:35",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOELE2DNQ4hu0HFqTYZd2eCka9WslfAyF6usuTG39zs49TQSt9iBpHItXY1YHovcBU7vdO6DSMevMDX1zg",
-        "userName": "Paul St John",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjlgbNeJ8wLQuuoEuCp-kN5j1QolvUXZV2HZagRDA",
-        "content": "What a Complete waste of time. You spend 20mins adding every known detail you have on the website only to be told you don't exist. So you will have to visit your Dr who will ask yet more questions. Then, you have to go back to this rubbish and try it all again. Except it does the same bloody thing again. Then you discover it's linked to the \"patient access service\". Well now I know why it's so totally useless.... Their response to this review will be the same one they paste for all poor reviews.",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.43.0",
-        "at": "2020-12-30 23:34:58",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Unfortunately the NHS App does not support your device's current operation system version: https://www.nhs.uk/using-the-nhs/nhs-services/the-nhs-app/help/technical/ If you are unable to update the system of your device to the required version, please access the app through a web browser: https://www.nhsapp.service.nhs.uk/login as an alternative.\n",
+        "repliedAt": "2021-01-04 09:10:01"
     },
     {
         "reviewId": "gp:AOqpTOFnXgoweg9ghD13Rd6PFvF1-Z0klbFr7rP0969Ob6C8UXu4HBkuSYw61apTYZrHnVvpwnDlgn4MRf7uwA",
@@ -332,8 +860,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.43.0",
         "at": "2020-12-30 18:41:08",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "We're happy to hear this, thank you!",
+        "repliedAt": "2021-01-04 09:08:16"
     },
     {
         "reviewId": "gp:AOqpTOG2Ztx1iM7unhcF-t8GwTJraT1AxGq5k2Lh9_QB3Y3DpDwt-e3VJrlw1p2Sg7LKtLJtnoFFRiPthkGu5Q",
@@ -344,8 +872,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.43.0",
         "at": "2020-12-30 17:55:31",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thank you for leaving us a review!",
+        "repliedAt": "2021-01-04 09:07:41"
     },
     {
         "reviewId": "gp:AOqpTOHynag9zlUxU5FqOE01S7q7OoqDLLn9Ha5F5I0Ixj0nuFwTfFqR3teaaDTZ-P4cn3c_c8w_4BgeR2EUtw",
@@ -356,8 +884,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2020-12-30 16:44:22",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Unfortunately the NHS App does not support your device's current operation system version: https://www.nhs.uk/using-the-nhs/nhs-services/the-nhs-app/help/technical/ If you are unable to update the system of your device to the required version, please access the app through a web browser: https://www.nhsapp.service.nhs.uk/login as an alternative.\n",
+        "repliedAt": "2021-01-04 09:06:47"
     },
     {
         "reviewId": "gp:AOqpTOEvF1XuqaIvXaN5I-pAKz4frUBbhSTyP5IxEcXQP6pbIk2yp91OVk1KvWKeLGtj0oDLLQtDwPCwxsNMMg",
@@ -368,8 +896,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.43.0",
         "at": "2020-12-30 16:35:21",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "\"We're sorry to hear you've had this issue with the registration process.\nPlease check the list of known NHS Login problems & fixes for a possible workaround to this: https://bit.ly/3niOYp6\nIf you are still experiencing the issue, please raise a query with us here: https://bit.ly/2TP6n9N and quote GS2865.\"\n",
+        "repliedAt": "2021-01-04 09:06:23"
     },
     {
         "reviewId": "gp:AOqpTOFZZreO2cL5GyAF5yCEXgmK8IchEKLDdc3v66CWnb2EgvkJ7Gus1jVHogdQzTcu66IkPBrNTUT8m4iAlQ",
@@ -380,8 +908,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.43.0",
         "at": "2020-12-30 12:45:04",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Once you have ordered a repeat prescription, it appears in the \"\"Requested\"\" list with the message \u201cWaiting for GP approval\u201d.\nHowever, if you do not see any message with regards to your prescription, we suggest that you contact your GP surgery or nominated pharmacy to check the prescription has been ordered for you.",
+        "repliedAt": "2021-01-04 09:05:37"
     },
     {
         "reviewId": "gp:AOqpTOH5KDhql0LgL7U1Xo0-Xud4Q6gcCw5C_38XwSIQ8-iKCH9_NrsYBrukS2kVIa_LFuWHixSIR6b0NUvLjw",
@@ -421,8 +949,8 @@
     },
     {
         "reviewId": "gp:AOqpTOFOu8A-q5NRlhN90AOUt51vwriFf_LltUFn9KihpMTdFBUZVlKdjJKH_IewU6uxdN0KGWbMdKSoFbC6QQ",
-        "userName": "D\u0306\u0308\u0103\u0308\u012d\u0308s\u0306\u0308\u0115\u0308s\u0306\u0308 \u014e\u0308n\u0306\u0308T\u0306\u0308h\u0306\u0308\u0115\u0308C\u0306\u0308r\u0306\u0308\u014f\u0308s\u0306\u0308s\u0306\u0308",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjH9weNNg2w3SNO6xS8BDIZpSj2_Hm2gdVBqa9H",
+        "userName": "eggnog poisoning",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgibZW8Yw0vzvOw3LG4AL9s5xkUf6wvN-vFP68aKQ",
         "content": "Great app easy to use, can see what medication I can order, advice and information easy to access",
         "score": 5,
         "thumbsUpCount": 0,
@@ -461,7 +989,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-Pn5mJ0Lorbc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckuPtM8cz_XREQdP5Tn3e44UFDAYA/photo.jpg",
         "content": "As others have found the camera doesn't work on Huawei devices so you can't identify yourself. Bug reporting also doesn't appear to work, but actually does. Update: You can use the website instead of the app, which does work if you jump through the right hoops. You will find that they only support Chrome, and it may be the app is just a website wrapper and as such doesn't work with other browsers.",
         "score": 1,
-        "thumbsUpCount": 3,
+        "thumbsUpCount": 22,
         "reviewCreatedVersion": "1.43.0",
         "at": "2020-12-29 17:16:46",
         "replyContent": "We're sorry to hear you've had this issue with the registration process.\nPlease check the list of known NHS Login problems & fixes for a possible workaround to this: https://bit.ly/3niOYp6\nIf you are still experiencing the issue, please raise a query with us here: https://bit.ly/2TP6n9N and quote GS2852.",
@@ -533,7 +1061,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-qxTEoSedcik/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckL1jFjuEaTaSpfUt6tyUAvS5efNg/photo.jpg",
         "content": "Brilliant app but all prescription items whether repeat or not should be available to order via the app - they're all monitored by the surgery regardless of the means to order them. Also should be a means for us to message the drs instead of having to log onto the website. Really helpful having the remote access and I sincerely hope this continues after this pandemic",
         "score": 4,
-        "thumbsUpCount": 3,
+        "thumbsUpCount": 4,
         "reviewCreatedVersion": "1.43.0",
         "at": "2020-12-28 12:00:36",
         "replyContent": "\"Thanks for your suggestion. We're keen to hear about your ideas for the NHS App and your suggestion is useful to help guide the app's development.\n\nFor more information on future developments for the app, go to the following link:\n\nhttps://digital.nhs.uk/services/nhs-app/future-developments\"",
@@ -593,7 +1121,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-PV0scnTacsI/AAAAAAAAAAI/AAAAAAAABoQ/AMZuucm2Tc0P_ko5fvtvxkyyVjgDeJANqg/photo.jpg",
         "content": "I downloaded this app as I thought it would be a more convenient way to order repeat prescriptions. However, after providing all my information during the registration process, including my NHS number (twice), entering codes sent to me by email and SMS, submitting four photographs of my driving licence, four photographs of my face, and two videos of my face while reciting numbers, it all appeared to be insufficient to prove my identity! After that debacle the app then froze on me! Unbelievable!",
         "score": 1,
-        "thumbsUpCount": 15,
+        "thumbsUpCount": 22,
         "reviewCreatedVersion": "1.43.0",
         "at": "2020-12-27 02:02:14",
         "replyContent": "We're sorry to hear you've had this issue with the registration process.\nPlease check the list of known NHS Login problems & fixes for a possible workaround to this: https://bit.ly/3niOYp6\nIf you are still experiencing the issue, please raise a query with us here: https://bit.ly/2TP6n9N and quote GS2846.",
@@ -773,7 +1301,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-QdQ3e6f1iw0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm0oBf2tTvP67Oe6ENOoyX0hUEMAQ/photo.jpg",
         "content": "I have used the NHS app to order repeat prescriptions on numerous occasions with no problems, it is much easier than trying to ring the surgery, also i had a small problem which would have entailed going to see a gp, but i used the app , was contacted by a doctor, and after sending her a photo via email the relevant cream was ordered and the problem was resolved, brilliant service",
         "score": 5,
-        "thumbsUpCount": 16,
+        "thumbsUpCount": 33,
         "reviewCreatedVersion": "1.43.0",
         "at": "2020-12-23 11:30:18",
         "replyContent": "Thank you for leaving a review! We're very happy to hear you enjoy using the NHS App.",
@@ -1117,8 +1645,8 @@
     },
     {
         "reviewId": "gp:AOqpTOFZF4lRwKoxFWJSo8H4uoJ1iskpoPQ8Jis65I4EoiP4QJXWIJjp-rLUmgS0oqqiWCaxSudQFACVI1g1Xw",
-        "userName": "ValiBG",
-        "userImage": "https://play-lh.googleusercontent.com/-EcEa-XLanng/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckjPJ1TopJJieJdWM3uHs2khJp4EA/photo.jpg",
+        "userName": "ValiGB",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg4i9K3VmeoV3mJH0vuLczxPkvNZVpI4BpcsRjWYw",
         "content": "Can't register because it won't open the camera and won't accept a video. All permissions are granted, still won't work. Someone told me to activate Bluetooth for it to work (pretty random), so I activated BT, Wifi, data, NFC, hotspot, GPS, granted every possible authorisation, still won't open the camera.",
         "score": 1,
         "thumbsUpCount": 11,
@@ -1181,7 +1709,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgZJEnd3-8piCzMI-Fg7_7-4OxDRPjmzCzpcegkrVM",
         "content": "Generally the app is very good but I've found one \"flaw\" and one bug Bug: If you try to re-enable fingerprint access, after it has apparently been turned off due to \"a change\" on my device, the app crashes as soon as I slide the \"enable fingerprint\" switch. Flaw: pressing the back button brings up the option to log out, rather than just take me back a screen as is more normal. Fix is to reinstall the app. Samsung S7 edge.",
         "score": 3,
-        "thumbsUpCount": 17,
+        "thumbsUpCount": 20,
         "reviewCreatedVersion": "1.42.1",
         "at": "2020-12-17 01:53:09",
         "replyContent": "We're sorry for this. We are aware of this issue, but unfortunately, at this time, we're unable to replicate the problem. This issue doesn't happen for everybody, only a small number of devices appear to experience the issue. We aren't able to fix the problem at the moment, however we are committed to fixing it in future.",
@@ -1874,7 +2402,7 @@
     {
         "reviewId": "gp:AOqpTOF1vEbBgKCV4n_GSNWe_QyAJiqmplbIRfCb1r33RkkP25Ohm57rmhhtbPEhVmdVY3jxsSIcVeR4cdR86w",
         "userName": "Upgreder Station",
-        "userImage": "https://play-lh.googleusercontent.com/-fLU0-z15VEU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnBiMRIo0XgQpDHkH40fgO60zScTQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjKTUE1O5IWCsV5IgyF7qCq0_OPtUqdzHKmVu6-Ug",
         "content": "Great",
         "score": 5,
         "thumbsUpCount": 0,
@@ -2869,8 +3397,8 @@
     },
     {
         "reviewId": "gp:AOqpTOHl-I2hJ3RolDqBRrmRqDAUBHmTuR-Hp0QnSi_M4nbPU_mA3dyUJmEDr_GEjGCmIpkOOcv8fZZho7YZIw",
-        "userName": "Franny YNWA",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg1o1q3APjbbu9CTfOjZqsiRr-v8j8Qd8sXip55_Q",
+        "userName": "SHADOW COMPANY",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgiRJZh_1PAe-DHg1gd-MdgcAIBkSESwkinxhygvg",
         "content": "Great APP which any idiot can use me included plus it also saves a lot of time either visiting or phoning Doctors especially when your really busy....5 STARS\u2b50\u2b50\u2b50\u2b50\u2b50",
         "score": 5,
         "thumbsUpCount": 0,
@@ -3110,7 +3638,7 @@
     {
         "reviewId": "gp:AOqpTOG8zvE7rS-8SObMJRmtkygV7ftj43bY5dFioZ8V7MQtS0ZoVJYBuGwEzGVrW13RxwJR85bnhxKDDI37UQ",
         "userName": "bhupindersingh atwal",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiY6xGT-Wdgwd51fxSgQEdvsgGAc_B1dOQrAaD8ow",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgzfvbpK0JbZZDhX2EMQ9aaNmG5C4jI_0bBCOlWMA",
         "content": "Good1",
         "score": 5,
         "thumbsUpCount": 0,
@@ -3637,7 +4165,7 @@
     },
     {
         "reviewId": "gp:AOqpTOFArwjXR3xbw15NhCzW3ETdfdvyYjvqienr1DeuSDECO7Xeb-_RtZK7jTSNwVO_Kfo52AHJKzHzBqKpQw",
-        "userName": "ClaireH8011",
+        "userName": "Claire H",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjGVMnwytkCFFxdORNVzaiyKWXywlQhLpCTk1dLj24",
         "content": "Brilliant. Can see all my medical records and make appointments. Needed my GP to send me some details but once they did that it was good to go. Interesting reading my medical history.",
         "score": 5,
@@ -3698,7 +4226,7 @@
     {
         "reviewId": "gp:AOqpTOERhk9tTgMSD71ee5dQSIs_hqDS_u1HtRsGlDEQNqXftHUZZBK81-FDaHz0hjBs9KrJ7yXYEFdqW8wP2w",
         "userName": "Shadow Warriors",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjcXISQNn0I673JkNdj1K2iZuI28LT_oEYGaf83P5M",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiJtIgGqfSx4Q2t50UNI8z2i0Wkg1ipU7OiekSF4Wc",
         "content": "Avoid like a new plague, you have to spend 10 years proving you are you with photos and videos and then it crashes when ever you do that stupid record you saying numbers video",
         "score": 1,
         "thumbsUpCount": 0,
@@ -4238,7 +4766,7 @@
     {
         "reviewId": "gp:AOqpTOGlMUS-QCBVt_sYMifCpmK5BR3Fraoc5y8qoJk0uYFzJxhcqz9HgqjC_HX191OOSj3vOYy5GNgucb1TEA",
         "userName": "Bruce Lee Dragon of jade blind swordsman Eazye",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgN07sc-qPnMURFnfpzxzrq8H04FcBI4lVlY6dFmEE",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjjdKAICABjjmmbjJnPTjJmFIRm2jMJ21bk9hiMThE",
         "content": "Highly recommended app I had Thoracic surgery last year October my lung kept going down I had yellow fluid in my right lung for 2 years or more they drain with digital machine then cut part of my lung away then staple across there s a lot involved In surgery like this only so many people can have because most would not survive lung surgery even I got told this I new all ready ask for chest drain s in and out at first bad hospital that nearly killed me second professional hospital good \ud83d\udc4d",
         "score": 5,
         "thumbsUpCount": 1,
@@ -4766,7 +5294,7 @@
     {
         "reviewId": "gp:AOqpTOEfzG7VryV8-JhBitfXmQJwG_Pez-Ar_kvTVJgBIRdbp-TDJOnsVJ9AGDdG13pYC5_jRAN3HEY-NGJhpQ",
         "userName": "Andrius Vaicekauskas",
-        "userImage": "https://play-lh.googleusercontent.com/-egjUCY2tyn8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucldHOjIKPkX47nWlE56SlxrerIU0Q/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh39CEK119UsKtq3iVtsddQY_tY_lR5WZmdrmsF",
         "content": "Excellent",
         "score": 5,
         "thumbsUpCount": 0,
@@ -4874,7 +5402,7 @@
     {
         "reviewId": "gp:AOqpTOGM7sTW2tma2Us40v7lWAmNL_4OyUpS55rLaurAJObg3Zmbagmx_nFWxFrJf9uzSBgvF7Nmf4uhyd_OhA",
         "userName": "Kerry lou",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhpCQEnn46yQ0ZZ6N5wPIdH2z-6FlFzD_2_LmQe_g",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gge7nYFMb-4N3eFCe-AFMzwMoBUaSDDe_E4ilFj8Q",
         "content": "I'm so pleased that I can order my repeat prescriptions on this app ; when I ring the practice I can be on hold for over 20 mins",
         "score": 5,
         "thumbsUpCount": 0,
@@ -8352,18 +8880,6 @@
         "repliedAt": "2020-09-29 13:05:57"
     },
     {
-        "reviewId": "gp:AOqpTOE8mtwJ9Hj7vfYj33msiBz_PvLIIAQmz_nbnk7iK2AL0dslw2uzp1fqabfzwshRmXrW4R3y7d6ZM873ZA",
-        "userName": "Train Matt1",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh0YmhstbfpbvxXFWEVYCjSH8H5sfJGEC9xVkrC8Ow",
-        "content": "Main Test and Trace app",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": null,
-        "at": "2020-09-29 09:56:30",
-        "replyContent": "Thank you for leaving a review - but I have to say, that the NHS App is owned and operated by the NHS, I think you are talking about the COVID app - you may want to leave that feedback with them. https://covid19.nhs.uk",
-        "repliedAt": "2020-09-29 12:03:15"
-    },
-    {
         "reviewId": "gp:AOqpTOHVIKa1ayvqGGoG3RkDCGEhCtGU_1eK9I-asm1xr5fhwCW83KlPiEZj1NnMhxMHrYSxxN14xub88CutVQ",
         "userName": "jenny Aloro",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjlWpdnY7pvnOaX6h0uP8FtgGCV3l2ZlcSsmHjX",
@@ -9154,18 +9670,6 @@
         "at": "2020-09-27 12:29:57",
         "replyContent": "The NHS App is separate from the NHS COVID-19 app for contact tracing. This review page is dedicated to the NHS App which securely connects a person to their patient information held by their GP surgery. For more information about the NHS COVID-19 app, go to the following link: https://covid19.nhs.uk",
         "repliedAt": "2020-09-27 12:29:15"
-    },
-    {
-        "reviewId": "gp:AOqpTOGj6zh94Q_YW0uc8Niei4NBdRMD0B7gevfWOHPCZXJU6wGjf1fWApgQKgn1gcKgGjMbvfPJKmSCi24AkA",
-        "userName": "Malcolm Wallace",
-        "userImage": "https://play-lh.googleusercontent.com/-BMj2WIX5nuw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckFuQPAogs29Oued2mV0VBkpvpBEw/photo.jpg",
-        "content": "Overall good app for booking appointments and viewing medical record, but looses 2 stars for crashing when I try to set fingerprint up in settings",
-        "score": 3,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.39.5",
-        "at": "2020-09-27 12:16:23",
-        "replyContent": "Thank you for leaving a review, and that really doesn't look like that is how the app is meant to work, can you please log a ticket here https://bit.ly/2TP6n9N and we will get back to you.",
-        "repliedAt": "2020-09-27 13:31:00"
     },
     {
         "reviewId": "gp:AOqpTOGLW66yO2HXurW1owD6Aq3CORmVpZj0-5TMSlXJQhwyOj_rWMQ-W5Lw26nJa9KpzIOMi5E5-Bxi-w-rwQ",
@@ -11494,509 +11998,5 @@
         "at": "2020-09-24 11:51:24",
         "replyContent": "We are sorry that you are having issues downloading the NHS App. Please ensure that you have a sufficient amount of storage on your device and that your devices system software is up to date. This should enable you to download the NHS App. If this is still not possible, we would suggest consulting your devices System support pages.",
         "repliedAt": "2020-09-24 13:44:04"
-    },
-    {
-        "reviewId": "gp:AOqpTOGKgmu1nnJvuYbS5V9pz2X-44PFNIf8WffgUIczy12u8MAi1wZkjtYnGL1skRdN2V1TXEVA5kVD5X5_eQ",
-        "userName": "Gary Jackson",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ghqq8mmGExfN7CqVSMfevuefuZM3vv85Q46vv-KAQ",
-        "content": "Unable to download.",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.38.0",
-        "at": "2020-09-24 11:46:02",
-        "replyContent": "We are sorry that you are having issues downloading the NHS App. Please ensure that you have a sufficient amount of storage on your device and that your devices system software is up to date. This should enable you to download the NHS App. If this is still not possible, we would suggest consulting your devices System support pages.",
-        "repliedAt": "2020-09-24 13:43:55"
-    },
-    {
-        "reviewId": "gp:AOqpTOF-oVLOl42ofDLY-p5vnOrbIz6Wd9cXw5WroUPRJ7AxAZrMZKmhg5aT8hZgJhUsfl0UNTiVFydaSXbp0w",
-        "userName": "Lesley Mountjoy",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhgmL2o45hasGMgXRAP6-Q673aDiGXjeZLAVpWd_w",
-        "content": "Although it said on BBC News that it was available in Wales it isn't!",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.38.0",
-        "at": "2020-09-24 11:32:56",
-        "replyContent": "We are sorry to hear you are having difficulties downloading the NHS App (Please note this is not the same as the NHS COVID-19 App) unfortunately, we are not available in Northern Ireland, Scotland or Wales because their health services are devolved. You can still use the NHS App to check your symptoms and find out what to do when you need help.",
-        "repliedAt": "2020-09-24 13:43:00"
-    },
-    {
-        "reviewId": "gp:AOqpTOEZ8SCdCa6thmfd6SHz_ViccbQMu0pIk3gNocqnzbbTY1AOB8Ypz77Bld2NQtRqtLYbSLOo80Akvlb7RQ",
-        "userName": "paul ansell",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiKK_XqOLORNO7P8nMHZdOksOKYtqH1LDaTomiAHg",
-        "content": "Takes ages to set up . Waste of time unless you have lots time. Email came through about ten minutes later to finish registration so not was bad as I thought",
-        "score": 4,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.38.0",
-        "at": "2020-09-24 11:31:04",
-        "replyContent": "We apologise for the difficulties you experienced while trying to register with us. We'd really like to help you register for the App, so that you can interact with your GP. Due to the personal information required for our investigation, please raise your issues with us here: https://bit.ly/2TP6n9N and our team will look into this for you.",
-        "repliedAt": "2020-09-24 11:28:26"
-    },
-    {
-        "reviewId": "gp:AOqpTOEZEgCZL14FxdUg76q2rgeij9rXOc_2A7SRtuCYIecP0yJw5KeapLmzSEMyo5VLKHXF6td7unb46yDC0Q",
-        "userName": "Paul Anthony",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhDewzDCxk0Oq7XeSTW5uH4_yjcI7LXYhHeKSjI",
-        "content": "Thought this was the covid contact app (track and trace?). Having installed, dont think it is. Baffled.",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.38.0",
-        "at": "2020-09-24 11:27:16",
-        "replyContent": "The NHS App is separate from the new NHS COVID-19 app for contact tracing. The existing NHS App connects a person to their patient information held by their GP. They can use the NHS App to access a range of services, such as booking  appointments and ordering repeat prescriptions. More information about the NHS COVID-19 app: \nhttps://covid19.nhs.uk",
-        "repliedAt": "2020-09-24 13:42:36"
-    },
-    {
-        "reviewId": "gp:AOqpTOFXr1fvokypEVhUxyNUwtwC37AByt943PvHeES5Fu9VccdfWMRaTVUs2hM80DuNQn8Su_uJwn9sPXAIDw",
-        "userName": "Nicholas Hackett",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjfTRwWLL-eAu3NqaXrssJRxbrqCjWRh-Y0Gl2muw",
-        "content": "When I click on this it said for England and Wales but it doesn't help when it said gp in England you need to be registered to. I live in Wales.",
-        "score": 2,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.38.0",
-        "at": "2020-09-24 11:26:57",
-        "replyContent": "We are sorry to hear you are having difficulties downloading the NHS App (Please note this is not the same as the NHS COVID-19 App) unfortunately, we are not available in Northern Ireland, Scotland or Wales because their health services are devolved. You can still use the NHS App to check your symptoms and find out what to do when you need help.",
-        "repliedAt": "2020-09-24 13:41:22"
-    },
-    {
-        "reviewId": "gp:AOqpTOEOBM7R8wK_17qG5inzp9Xt2CpjkANVgQ_J1dspA44p8WDjdLJ0YU-W9MCmWE5rbK3gCQLlAxWU-yecPQ",
-        "userName": "Mary Pallett",
-        "userImage": "https://play-lh.googleusercontent.com/-J5Hl0n2QNZc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckIrqLTQcYoa8m8n7ymTKWQoPvZGw/photo.jpg",
-        "content": "I've downloaded it says will be installed later What s that mean",
-        "score": 3,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": null,
-        "at": "2020-09-24 11:24:35",
-        "replyContent": "We are sorry that you are having issues downloading the NHS App. Please ensure that you have a sufficient amount of storage on your device and that your devices system software is up to date.  This should enable you to download the NHS App. If this is still not possible, we would suggest consulting your devices System support pages.\"",
-        "repliedAt": "2020-09-24 13:41:11"
-    },
-    {
-        "reviewId": "gp:AOqpTOHzoE35Gh9hofIDS84rvPZn7rJPADrSrXAdBMN_qFZpHThMlLoWd1OCVNNFbzm3jwUmc73l0BXFM5VAbg",
-        "userName": "Chris Ranner",
-        "userImage": "https://play-lh.googleusercontent.com/-5X-Yrf00ZSA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclvduorMzeBfw5pvDaw4hqxaPN5wg/photo.jpg",
-        "content": "Wouldn't even start. Just hung for 30mins on the loading screen",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.38.0",
-        "at": "2020-09-24 11:21:05",
-        "replyContent": "Unfortunately the NHS App does not support your device's current operation system version: https://www.nhs.uk/using-the-nhs/nhs-services/the-nhs-app/help/technical/ If you are unable to update the operating system of your device to the required version, please access services through a web browser here: https://www.nhsapp.service.nhs.uk/login",
-        "repliedAt": "2020-09-24 13:40:38"
-    },
-    {
-        "reviewId": "gp:AOqpTOFKjxNWAu6JeJxebtqD_Xtobb7d2_Pd8RVvEuILqfCaE8tRbZwVSs0_MaV-ASOXb--Ku8U8CJmGiFsUdA",
-        "userName": "Nick Banks",
-        "userImage": "https://play-lh.googleusercontent.com/-dgFJefsRZ0Y/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmilMX883_TKwys3ICsVr6apgpP9w/photo.jpg",
-        "content": "Gives advice on how l am feeling.",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.38.0",
-        "at": "2020-09-24 11:18:41",
-        "replyContent": "We are happy to hear this, thank you!",
-        "repliedAt": "2020-09-24 13:39:28"
-    },
-    {
-        "reviewId": "gp:AOqpTOFvWYmCLS8cK4HTQ4YjISBAYTBTPivBd2YsIY_IoOum8c4P6W1pwP_TuwgQEn1tuDjS7gtbWzdCl7X0hQ",
-        "userName": "MOZ Lansman",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi32Sw4ROkZ1mRs57dpozlz5-dJtpjhSwOCAE0HHg",
-        "content": "10 mins still downloading . Tried 4 times 24.9. 20. The App does NOT DOWNLOAD re Google",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": null,
-        "at": "2020-09-24 11:13:01",
-        "replyContent": "We are sorry that you are having issues downloading the NHS App. Please ensure that you have a sufficient amount of storage on your device and that your devices system software is up to date. This should enable you to download the NHS App. If this is still not possible, we would suggest consulting your devices System support pages.\"",
-        "repliedAt": "2020-09-24 13:34:31"
-    },
-    {
-        "reviewId": "gp:AOqpTOEDsVJvfR7FTK_7YVEOuStFWyQvRQWbmNNrTuofcJvFIAxbeOjHb-Vd46ps0sGiRWTdtVLiRkLkaVAtuA",
-        "userName": "John Freddie Tamayo Quintero",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj4d5pqPb2xarJd0l2Iknm1NndtmkQdSbh9VrmscmQ",
-        "content": "Totally waste of time to try to register to this app. It doesn't recognize any stuff you do. JUST DON'T DOWNLOAD!!!",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.38.0",
-        "at": "2020-09-24 11:10:52",
-        "replyContent": "We are sorry that you are having issues downloading the NHS App. Please can you ensure that you have a sufficient amount of storage on your device and that your devices system software is up to date? This should enable you to download the NHS App. If this is still not possible, we would suggest consulting your devices System support pages.",
-        "repliedAt": "2020-07-10 13:23:45"
-    },
-    {
-        "reviewId": "gp:AOqpTOG0Bo5cE2TEIrdTl1lX55ZojVOullda-QsEPYzNri3K4GM5DxvxhP_Akjv0mB17ChhJSQ44MQbzO2Qd8Q",
-        "userName": "Robert Leeming",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjhrtUIt7nJDwfe1_Pnl6d-JfkXFqAClAagXHTorg",
-        "content": "Awfull experience, to complicated to set up. Wasted a hour of my time. Uninstalling.",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": null,
-        "at": "2020-09-24 11:09:21",
-        "replyContent": "We apologise for the difficulties you experienced while trying to register with us. We'd really like to help you register for the App, so that you can interact with your GP. Due to the personal information required for our investigation, please raise your issues with us here: https://bit.ly/2TP6n9N and our team will look into this for you.",
-        "repliedAt": "2020-09-24 13:26:52"
-    },
-    {
-        "reviewId": "gp:AOqpTOFEt_DVoH46x5glepyWm6B2uisXCLzJAOfmZER05Xv4Yq1kXNUZMHiv6xtAxoUpERHykuw-RaDkWwMc0Q",
-        "userName": "Oliver Schofield",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjB0_vkX1bYmzBSBNLmTSGIz9sxqMaR3gzmG_iLZg",
-        "content": "Easy to use",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.38.0",
-        "at": "2020-09-24 11:08:45",
-        "replyContent": "We are happy to hear this, thank you!",
-        "repliedAt": "2020-09-24 13:15:36"
-    },
-    {
-        "reviewId": "gp:AOqpTOHryCViS2t43FfH_loJhlQwK0qaCYDb7nE9mundiuvQGUHcmH3Z8z1FmQXNbGV7kxZ4GCTl9X8n-QukHA",
-        "userName": "Sue Wells",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhIwtkya2SAf6YRbF3KtYbFMSVxlWBdVRZLTXu-Xw",
-        "content": "Informtive",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.38.0",
-        "at": "2020-09-24 11:08:11",
-        "replyContent": "Thank you Sue!",
-        "repliedAt": "2020-09-24 13:15:27"
-    },
-    {
-        "reviewId": "gp:AOqpTOFAbXcz56t0k9oOc0I4d_hi9mQrY3dVyQQGiu80ucCrrEQkquOwPt7iZl6SocMkQadjSI_6-WdHINV-lQ",
-        "userName": "Jackparky@gmail .COM Parkinson",
-        "userImage": "https://play-lh.googleusercontent.com/-uvabCWVOnIA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckqv3WmcnZhW2vZ8_cS30UX3BqfvA/photo.jpg",
-        "content": "Very good",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.37.0",
-        "at": "2020-09-24 11:00:56",
-        "replyContent": "Thank you for your review!",
-        "repliedAt": "2020-09-24 13:11:29"
-    },
-    {
-        "reviewId": "gp:AOqpTOGPCJNN6vS82t13BbCW8W-7wsjMPCpVPWpUMEKIA5q_gKWZw4BxFbBYSFmUTPBlqVL5cgC_M-MnAXVkKQ",
-        "userName": "Rob Wheeler",
-        "userImage": "https://play-lh.googleusercontent.com/-zXH7__9ZRCc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnwIzLqRY9LIg-fMiYI-WVG2Ccr0A/photo.jpg",
-        "content": "I thought it might be something clever but it's no better than going to the NHS website",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.38.0",
-        "at": "2020-09-24 10:58:50",
-        "replyContent": "We are very sorry you have had a poor experience with the NHS App. Can we ask you to send us some more information of the issues you encountered, so that we can fix and follow this up for you? You can do this by following this link: https://bit.ly/2TP6n9N . Our team will be happy to help you.",
-        "repliedAt": "2020-09-24 13:11:22"
-    },
-    {
-        "reviewId": "gp:AOqpTOG-93QfbH1QZY3s_9bSS4CzR1IwpY7sU77VWfJQLnTnhhvqJNMsl5Xg92lgF2CBivz-UjquZY8RenWE3A",
-        "userName": "Jonathan Anderson",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgKh-fmMLS60uxOe56ZNDdqUhgAzpaEwQZk9LxgTA",
-        "content": "Keeps asking for the same information I have already provided.",
-        "score": 2,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.38.0",
-        "at": "2020-09-24 10:56:52",
-        "replyContent": "We apologise for the difficulties you experienced while trying to register with us. We'd really like to help you register for the App, so that you can interact with your GP. Due to the personal information required for our investigation, please raise your issues with us here: https://bit.ly/2TP6n9N and our team will look into this for you.",
-        "repliedAt": "2020-09-24 13:11:06"
-    },
-    {
-        "reviewId": "gp:AOqpTOEXLsIOzAwQfwo2R8NkV0Olhmgac9PdniRzvYWJSLybKJoHADZ9ewywgCrHCoeTiQSEI_yHTJDGy42Vgg",
-        "userName": "graham thomas",
-        "userImage": "https://play-lh.googleusercontent.com/-x7N-XTx03UQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnwaAXfhq8oLCmNO4FOPtTPoHO2AQ/photo.jpg",
-        "content": "Every time I access the App to request my monthly prescription it seems as though I have to update it. Is it not possible to get things right first time these days ?",
-        "score": 2,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.37.0",
-        "at": "2020-09-24 10:41:27",
-        "replyContent": "We are very sorry to hear you are not happy with the updates for the NHS App. The updates are necessary to keep on adding new features to improve the overall performance of the NHS App along with enhancing the user experience.",
-        "repliedAt": "2020-09-24 13:09:33"
-    },
-    {
-        "reviewId": "gp:AOqpTOFuajW5O3pdiauZcr1xCj2oNmtKzF6wR5v61Hqe9z_0OBvn7NEqWeUc7VOZN6dG0qWR_GqJuQ18Zf1zzg",
-        "userName": "anne tinnion",
-        "userImage": "https://play-lh.googleusercontent.com/-Q3Fmm9_5U-k/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclb9YVgUGQ9nLexKVX8Zita2TWl9w/photo.jpg",
-        "content": "Abysmal",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": null,
-        "at": "2020-09-24 10:36:42",
-        "replyContent": "We are very sorry you have had a poor experience with the NHS App. Can we ask you to send us some more information of the issues you encountered, so that we can fix and follow this up for you? You can do this by following this link: https://bit.ly/2TP6n9N . Our team will be happy to help you.",
-        "repliedAt": "2020-09-24 13:06:11"
-    },
-    {
-        "reviewId": "gp:AOqpTOFboxt5OeT2kc7ygPNizzFUoMhZDvDmSuRb2RBRnYInMMZ1KEcbd3sG3xUAd0r3U8EwYifBYnoWiMVaZg",
-        "userName": "Mark Stokes",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgtJzQvLoT63xBNZuHark6VAJj5C4QA5bCub4_otQ",
-        "content": "Can not get id for myself...born in Britain, but have epilepsy so no passport ,no driving licence, no id in your list ...no pointless with no access to anything",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.38.0",
-        "at": "2020-09-24 10:34:49",
-        "replyContent": "We're sorry that you had difficulty registering with the NHS App. Before you can access all services in the NHS App, you'll need to prove who you are. This is to keep your health information secure. Alternatively, you can contact your GP and ask for registration details for their online services: linkage key (or passphrase), ODS code, Account ID.",
-        "repliedAt": "2020-09-24 13:05:18"
-    },
-    {
-        "reviewId": "gp:AOqpTOGJO1NJtp6XE9Y1kh-GPI51LGHYXi1FAvkrmq2LADNkha-FHuLkkq0EUbW2xFsQ0gR07CtNKHrWywmpyQ",
-        "userName": "Stephen Bush",
-        "userImage": "https://play-lh.googleusercontent.com/-zq1lg1-fvIs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclXJq2MQNfLzZ0h9sr-9HEmfu7g7w/photo.jpg",
-        "content": "Can't login because I live in Wales after being told to download this app because it would work in england and wales.",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.38.0",
-        "at": "2020-09-24 10:27:29",
-        "replyContent": "We are sorry to hear you are having difficulties downloading the NHS App (Please note this is not the same as the NHS COVID-19 App) unfortunately, we are not available in Northern Ireland, Scotland or Wales because their health services are devolved. You can still use the NHS App to check your symptoms and find out what to do when you need help.",
-        "repliedAt": "2020-09-24 13:03:03"
-    },
-    {
-        "reviewId": "gp:AOqpTOF7jgatKSt36WgxeEu72m9f8BKcZczwrPe3x6UMnfKTVv67Rp-pa5mOumGNq5DhH9h5ymJtNRTECEfVnQ",
-        "userName": "Colin Oliver",
-        "userImage": "https://play-lh.googleusercontent.com/-gvUQzcWNFuQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclYfydylk-7kFOGYJWvkhw7p5xLRA/photo.jpg",
-        "content": "A bit unsure",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.38.0",
-        "at": "2020-09-24 10:26:45",
-        "replyContent": "Thanks for your comment Colin. If there is anything you would like us to help you with, please let us know!",
-        "repliedAt": "2020-09-24 12:41:34"
-    },
-    {
-        "reviewId": "gp:AOqpTOEFrUcROLf-zMJNwkQ9GrtIYSFBhNs9p6cdyGfeu5iT8Lsa0p-WzrB-1I-8eIzB99nS04m-ER-4NiyOFA",
-        "userName": "Margot Carter",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjJe6Zj00xqdLFp8O19ltA-NRoiRMoL1vI-Xir0KqY",
-        "content": "It keeps stalling at the accept terms and conditions page so i can't complete setting up my login",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": null,
-        "at": "2020-09-24 10:25:14",
-        "replyContent": "We apologise for the difficulties you experienced while trying to register with us. We'd really like to help you register for the App, so that you can interact with your GP. Due to the personal information required for our investigation, please raise your issues with us here: https://bit.ly/2TP6n9N and our team will look into this for you.",
-        "repliedAt": "2020-09-24 12:41:09"
-    },
-    {
-        "reviewId": "gp:AOqpTOFcl0SErTZC8VElwLbuYdKDH2UMG1sfGcel7Md-qr_jKPeWXBTzj6lXyrBq8N8-h1ZyWX2Q2SjQZ8IA2A",
-        "userName": "Dexter Vontana",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi-53NeStGcYse6sLAIkx8x5-pou1_PLVz1Vg4FwQ",
-        "content": "Fails on the enhanced ID check. Takes me to my phone's files section, doesn't open the camera.",
-        "score": 1,
-        "thumbsUpCount": 1,
-        "reviewCreatedVersion": "1.38.0",
-        "at": "2020-09-24 10:24:31",
-        "replyContent": "We apologise for the difficulties you experienced while trying to register with us. We'd really like to help you register for the App, so that you can interact with your GP. Due to the personal information required for our investigation, please raise your issues with us here: https://bit.ly/2TP6n9N and our team will look into this for you.",
-        "repliedAt": "2020-09-24 12:41:01"
-    },
-    {
-        "reviewId": "gp:AOqpTOHIL4JHzK5TxsR_dvqIolJS3gKwfGiIWyAcZ_iAy6nGteo30RJAdwF6mmzERkt2JzQinXJVVW8hdQAVeg",
-        "userName": "Ricky Kaup",
-        "userImage": "https://play-lh.googleusercontent.com/-bGg0mby5DL0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckhZSKSQZ2TN60wGKisIbtY0LTGOQ/photo.jpg",
-        "content": "Can't verify identity. Sits with the spinning wheel, then times out. Another great Government IT project.",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.38.0",
-        "at": "2020-09-24 10:21:48",
-        "replyContent": "Thank you for contacting us with your issue. We are still investigating this however in the meantime we have made a change so that you can submit your information in a different way. Please try again. If you experience any further problems please do not hesitate to get back in touch.",
-        "repliedAt": "2020-09-24 12:40:51"
-    },
-    {
-        "reviewId": "gp:AOqpTOFfqj19Wv_DhcPfofvW43Timb9qdZTZ1t0uzWJRuFEaakO86gkFYob7WM-hX5ytxkF4ht12FCv4GGKpzg",
-        "userName": "Kath Rose",
-        "userImage": "https://play-lh.googleusercontent.com/-gDi2bv9R2pE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckOh-gN_O-OEEwbiUFxIbOMwyLxvA/photo.jpg",
-        "content": "Got so far then didn't work!! Tried about 4 times then gave up",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": null,
-        "at": "2020-09-24 10:18:32",
-        "replyContent": "We are very sorry you have had a poor experience with the NHS App. Can we ask you to send us some more information of the issues you encountered, so that we can fix and follow this up for you? You can do this by following this link: https://bit.ly/2TP6n9N . Our team will be happy to help you.",
-        "repliedAt": "2020-09-24 12:40:12"
-    },
-    {
-        "reviewId": "gp:AOqpTOH6r35IF-7-piimvkyx_9wehgL9F9vfWVoDfTBwpOzPzQkXN-hyHESi3G7_tZRf8rYWmsLck8hE1LvMKw",
-        "userName": "geoff round",
-        "userImage": "https://play-lh.googleusercontent.com/-URgX3eLsldQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmAXdZS3DP1DoIUOV-7A7QNgW1kqQ/photo.jpg",
-        "content": "Cannot get it to download. Just keep getting the arrow circles",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.38.0",
-        "at": "2020-09-24 10:14:57",
-        "replyContent": "We are sorry that you are having issues downloading the NHS App. Please ensure that you have a sufficient amount of storage on your device and that your devices system software is up to date. This should enable you to download the NHS App. If this is still not possible, we would suggest consulting your devices System support pages.\"",
-        "repliedAt": "2020-09-24 12:38:29"
-    },
-    {
-        "reviewId": "gp:AOqpTOGqCwKUdHezwFPhfcnD55iumunh4n1fCGbvGwCle5sEXbKfcm-weG91sMMU7FdfO7ndSe8Un0pKICZp4g",
-        "userName": "A Google user",
-        "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
-        "content": "doesnt work on android",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": null,
-        "at": "2020-09-24 10:08:28",
-        "replyContent": "We are very sorry to hear this. Can we ask you to send us some more information of the issues you encountered, so that we can fix and follow this up for you? You can do this by following this link: https://bit.ly/2TP6n9N . Our team will be happy to help you.",
-        "repliedAt": "2020-09-24 12:37:48"
-    },
-    {
-        "reviewId": "gp:AOqpTOG6wQw2YlemnElLlS3hslkTDvS-ILP0SXuxhSs8TtbFsp3zdZGmWkQJ4Xiu3iQkQ8FezY8So_IyDlMxQA",
-        "userName": "Nick Cooper",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj_VnQTANEQPzvR9Ul3Q2eZvWFnX8VqpYsL-mBV",
-        "content": "Deleted. Not available in Wales it told me part way through...",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": null,
-        "at": "2020-09-24 10:00:34",
-        "replyContent": "The NHS App is not available in Northern Ireland, Scotland or Wales because their health services are devolved. You can still use the NHS App to check your symptoms and find out what to do when you need help, even if you're outside of England. GP services in the app, however, are only available to patients registered with a GP surgery in England.",
-        "repliedAt": "2020-09-24 12:18:12"
-    },
-    {
-        "reviewId": "gp:AOqpTOHSNqqyYl7TOYILT3_E-A7y4vwmx3UCwJVMPcF0MGe_S1NkC01VS37z0su1ESmDK0PBxap8u1oTa8BZBA",
-        "userName": "wendy meadows",
-        "userImage": "https://play-lh.googleusercontent.com/-fGyxvlVkh3Q/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl5LvjsnhO5KWdoyh1wGA8ipVQdSQ/photo.jpg",
-        "content": "It's still a piece of junk! It will not open in two android phones and you have still not responded to my video file sent at your request 8 weeks ago. Employ some competent programmers!",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.38.0",
-        "at": "2020-09-24 09:50:29",
-        "replyContent": "We are very sorry to hear this Wendy. We'd really like to help you register for the App, so that you can interact with your GP. Due to the personal information required for our investigation, please raise your issues with us here: https://bit.ly/2TP6n9N and our team will look into this for you.",
-        "repliedAt": "2020-09-24 12:17:55"
-    },
-    {
-        "reviewId": "gp:AOqpTOF3Dqqebcv63yHpLP_milfAjHCslMp_SIlf2Vv153lIJf2aYwOt09Q8PHC7Suc2oz8McC8wMgPcyCOZUw",
-        "userName": "Sean Taylor",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgABcrV0xagWptf9g75qozkaZvvSCt7CKgu_GBJ",
-        "content": "You can't use it if registered in Wales",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.38.0",
-        "at": "2020-09-24 09:49:47",
-        "replyContent": "The NHS App is not available in Northern Ireland, Scotland or Wales because their health services are devolved. You can still use the NHS App to check your symptoms and find out what to do when you need help, even if you're outside of England. GP services in the app, however, are only available to patients registered with a GP surgery in England.",
-        "repliedAt": "2020-09-24 12:17:07"
-    },
-    {
-        "reviewId": "gp:AOqpTOE2s1gB_veXgbqhuE1-3OTi8lr2r6tx1NxE7efJxU8Ui-pVzo4maKkMl6n7MJ2kgYkxL4qwrVdEf2oGvQ",
-        "userName": "Fred Barter",
-        "userImage": "https://play-lh.googleusercontent.com/-av7fM3LctNA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclFYvGAN3joUabCiQSUgx31setnng/photo.jpg",
-        "content": "By the time you send me a security number I enter it only to be told it has expired",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.38.0",
-        "at": "2020-09-24 09:45:32",
-        "replyContent": "We are very sorry to hear you are unable to access the NHS App due to issues with a security number. Due to the personal information required for our investigation, please raise your issues with us here: https://bit.ly/2TP6n9N and our team will look into this for you.",
-        "repliedAt": "2020-09-24 12:16:03"
-    },
-    {
-        "reviewId": "gp:AOqpTOFmnWP4YsP1bOzYN9LMWa04CodGEiDiChUigLpwq0Ni5DCIA9KRsK27dn0-LSuZUKYXRR359C-zZ6-aCA",
-        "userName": "1871",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhHhFdvQh4Ujr52WedRRmNdl4C-30XluhPDOYtjHA",
-        "content": "As bad as this awful government. Thanks Door Matt",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.38.0",
-        "at": "2020-09-24 09:34:39",
-        "replyContent": "We are very sorry you have had a poor experience with the NHS App. Can we ask you to send us some more information of the issues you encountered, so that we can fix and follow this up for you? You can do this by following this link: https://bit.ly/2TP6n9N . Our team will be happy to help you.",
-        "repliedAt": "2020-09-24 12:13:20"
-    },
-    {
-        "reviewId": "gp:AOqpTOGiwTo8ux6TovRDZ1mM7rVblMPlUVCiWJ_dNytxyQrJ2ERaYDkeRGccwd1IqJOdWRyvpyyOrNOHDrxqrg",
-        "userName": "Jon Grocutt",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjwIxnjhuGb3OtmKUoMhQmZwfqFGrcDPKZYQrKUsQ",
-        "content": "Anyone got past the terms and conditions screen?",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.38.0",
-        "at": "2020-09-24 09:19:04",
-        "replyContent": "We are very sorry you have had a poor experience with the NHS App, due to not being able to accept T&Cs. Can we ask you to send us some more information of the issues you encountered, so that we can fix and follow this up for you? You can do this by following this link: https://bit.ly/2TP6n9N . Our team will be happy to help you.",
-        "repliedAt": "2020-09-24 12:11:24"
-    },
-    {
-        "reviewId": "gp:AOqpTOGyK5jROHvRoAPd7FeUlu1id0V3uL5EQSAfApQHg5Mw6mC5rlDbX1p9zCamvrUlINdhUg0RuTmkZITBUw",
-        "userName": "Phil Chaney",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiTFOnBA2pXWeO6sA9pMI8DrFaf93PO3urcoRi_IH4",
-        "content": "App functions similar to the 13 previous independent others that link your doctor to your pharmacy. Easiest method to register is via the 3 codes provided by your medival centre. The principle registration method is a recognition sequence which is very is flakey and App crashes when attempting the face recognition, then bins all your carefully entered entries. This part is very poor quality. Once registered, then the App provides comprehensive access to medical items. For me, the fingerprint log-in fails does not work, whereas my current App (Patientaccess) does beautifully.",
-        "score": 4,
-        "thumbsUpCount": 3,
-        "reviewCreatedVersion": "1.38.0",
-        "at": "2020-09-24 09:08:26",
-        "replyContent": "Hi Phil, Sorry to hear you are not happy with the NHS App.  Please provide us with some more information here https://bit.ly/2TP6n9N and our team will check this for you. Thank you",
-        "repliedAt": "2020-04-14 15:02:47"
-    },
-    {
-        "reviewId": "gp:AOqpTOFYT4hKA8Q29bGb7uz33VvGfocW-5TZvwrC2R0EcQnFyjhdw9COjUGkA5UBeSq9xZZiPhVBSq0ob8tK4Q",
-        "userName": "terry parker",
-        "userImage": "https://play-lh.googleusercontent.com/-4uixPx0RT98/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnHsnqaVPZhrDZ6ZEY2XUgbMBaYyw/photo.jpg",
-        "content": "Useless app to get the full access of the app you need to have a driving licence or a passport. I have neither so I cannot use the app as needed.",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": null,
-        "at": "2020-09-24 09:06:38",
-        "replyContent": "We're sorry that you had difficulty registering with the NHS App.We need you to prove who you are, as this is to keep your health information secure. Alternatively, you can contact your GP surgery and ask for registration details for their GP online services: linkage key (also called passphrase), ODS code and Account ID.",
-        "repliedAt": "2020-09-24 12:10:37"
-    },
-    {
-        "reviewId": "gp:AOqpTOEvZ6fFxWUGyQ6pl0xs6XWHjQ6gSYWDLIQ5QYu9JhEnKXa3OGK_j5bdxv7SiIlmoSUmG9NbB4QgKOeTxA",
-        "userName": "Vicki Bishop",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjA5QG7DiiND6LNNBn5QldW3MylQ-Db3SU74ZHP",
-        "content": "I downloaded it this morning, really easy to register. Complete your personal details, photo your ID, confirm your ID, register with your GP and can then book appointments. Really straightforward. Use it!",
-        "score": 5,
-        "thumbsUpCount": 1,
-        "reviewCreatedVersion": "1.38.0",
-        "at": "2020-09-24 08:54:00",
-        "replyContent": "We are very happy to hear you enjoy using the NHS App. Your feedback is very important to us. Thank you!",
-        "repliedAt": "2020-09-24 12:06:17"
-    },
-    {
-        "reviewId": "gp:AOqpTOE849PZGqGRDtOMigoa2hPPM5aDJvkBTHPP-VC_prsRftwdnDBomsEE176jSu26z4hq6WhTrkrLeeKy2A",
-        "userName": "Steven m",
-        "userImage": "https://play-lh.googleusercontent.com/-wUYVYUpwZLM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnv1rVUL1mrbQz3K_9dp_p3vtdFYw/photo.jpg",
-        "content": "Should be called NHS app ENGLAND. Not available in Wales.",
-        "score": 3,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": null,
-        "at": "2020-09-24 08:52:14",
-        "replyContent": "We are sorry to hear you are having difficulties downloading the NHS App (Please note this is not the same as the NHS COVID-19 App) unfortunately, we are not available in Northern Ireland, Scotland or Wales because their health services are devolved. You can still use the NHS App to check your symptoms and find out what to do when you need help.",
-        "repliedAt": "2020-09-24 15:02:48"
-    },
-    {
-        "reviewId": "gp:AOqpTOFSgs6mKPlwcr_eaw9n69hXo8N6Vo-ili1gqjPGq73x6dG1BkxwoqTosoGYtvY8FWT4SeJJ2eTPvUHGSw",
-        "userName": "Mike NEWTON",
-        "userImage": "https://play-lh.googleusercontent.com/-aUtImfFDMHc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclMla0KEW2pMrYGMEfGvP5i_u635w/photo.jpg",
-        "content": "too complicated to install",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": null,
-        "at": "2020-09-24 08:45:07",
-        "replyContent": "We are very sorry to hear the registration process is too complicated for you. We'd really like to help you register for the App, so that you can interact with your GP. Due to the personal information required for our investigation, please raise your issues with us here: https://bit.ly/2TP6n9N and our team will look into this for you.",
-        "repliedAt": "2020-09-24 12:03:39"
-    },
-    {
-        "reviewId": "gp:AOqpTOFgQAPlg96jLJwyExiPuhSBD5sW06MQ0Omf2X22rCgLJ21HuxBvfIZZf0ox_spD-H22f3wJvVckW4tiSQ",
-        "userName": "fredie hawkins",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgYTe5Xr3qX9wPmjjwCKCxYu1Marbst3wE1RsJuew",
-        "content": "Does not load. NHS logo appears with the buffering circle, but nothing else happens. Poor effort from the government. Letting people die.",
-        "score": 1,
-        "thumbsUpCount": 1,
-        "reviewCreatedVersion": "1.38.0",
-        "at": "2020-09-24 08:35:14",
-        "replyContent": "Unfortunately the NHS App does not support your device's current operation system version: https://www.nhs.uk/using-the-nhs/nhs-services/the-nhs-app/help/technical/\nIf you are unable to update the operating system of your device to the required version, please access services through a web browser here: https://www.nhsapp.service.nhs.uk/login",
-        "repliedAt": "2020-09-24 12:05:06"
-    },
-    {
-        "reviewId": "gp:AOqpTOFzEjI36RoKYEABZjetOQE1nCUHGo4H2Oq-mltbYMnKVebyV2AEfZu3cU-nJoc7IMpZFzLm61X9JoHtsQ",
-        "userName": "IAN MASSON",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh5_NtMscD7H2faqKKMDjDYmZsJkxnfxCU9G_jnEw",
-        "content": "Nhs app for uk but need to be registered in england",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.38.0",
-        "at": "2020-09-24 08:23:51",
-        "replyContent": "The NHS App is not available in Northern Ireland, Scotland or Wales because their health services are devolved. You can still use the NHS App to check your symptoms and find out what to do when you need help, even if you're outside of England. GP services in the app, however, are only available to patients registered with a GP surgery in England.",
-        "repliedAt": "2020-09-24 11:44:45"
-    },
-    {
-        "reviewId": "gp:AOqpTOEa_8ulkMMO_ypeM6w1-0eobaIke9bi70ddWeCAUMaqB3htbe_UvVxN1RdTxKDmOkkIwFnB38CIbDjNYg",
-        "userName": "Elise Davies",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjOtlCVo8YVmGWaXJIGlMbNeXxEo2vFqjH2F8G5OQ",
-        "content": "I was told the by the BBC this morning that the app is for England and Wales it is also stated on BBC website but this app only covers England a waste of time",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.38.0",
-        "at": "2020-09-24 08:17:49",
-        "replyContent": "The NHS App is separate from the new NHS COVID-19 app for contact tracing. The existing NHS App connects a person to their patient information held by their GP. They can use the NHS App to access a range of services. For more information about the NHS COVID-19 app, go to the following link: https://covid19.nhs.uk\"",
-        "repliedAt": "2020-09-24 11:42:33"
-    },
-    {
-        "reviewId": "gp:AOqpTOFTV1VyUenimeIOxTP1gV7mszKRlWpVqolzaCuM-cMB3Vmk__3TLSa7zQdsraYTtogSspObTXpltSt29Q",
-        "userName": "mr frantic",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgWjq85ZIfLkqqwlWKHDciAUUT36_JybHcd9aE_bQ",
-        "content": "Good it will keep people safe",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.38.0",
-        "at": "2020-09-24 08:16:25",
-        "replyContent": "Thank you very much for your review!",
-        "repliedAt": "2020-09-24 11:37:36"
     }
 ]

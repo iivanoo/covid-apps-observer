@@ -203,6 +203,10 @@ The Cleveland Clinic Express Care® Online app has been installed by more than *
 <img src="5_star_reviews_wordcloud.png" alt="com.americanwell.android.member.clevelandclinic 5 reviews"/>
 </p>
 
+> I absolutely love this!! Its easy, quick and gives you many different options of medical doctors and nurses who can help you with what you need. They are super nice and make it really comfortable..<br> :date: __2021-01-05 11:41:07__
+
+> I had to fill out quite a bit of info so be ready with your insurance and payment so you don't get timed out. Was great to talk face to face with a provider when my primary care doctor wasn't available for several more days! Will definitely use this service again!<br> :date: __2021-01-05 02:04:15__
+
 > Great experience<br> :date: __2020-12-29 22:21:07__
 
 > Thanks doc. This app cured me from Ailment.<br> :date: __2020-12-20 09:04:15__
@@ -218,10 +222,6 @@ The Cleveland Clinic Express Care® Online app has been installed by more than *
 > Easy to use and very convenient.<br> :date: __2020-12-07 15:06:58__
 
 > Real easy and quick<br> :date: __2020-12-05 16:34:30__
-
-> Convenient to be at home bc I'm very sick and likely contagious.<br> :date: __2020-12-04 21:29:12__
-
-> Very easy to use.<br> :date: __2020-12-03 20:23:03__
 
 
 

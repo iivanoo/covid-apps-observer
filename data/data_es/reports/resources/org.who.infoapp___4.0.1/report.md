@@ -138,6 +138,8 @@ The WHO Info app has been installed by more than **100000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="org.who.infoapp 5 reviews"/>
 </p>
 
+> Buenísima es informativa más en éstos tiempos tiene todos los idiomas elijo el español y lo agarro de una vez súper información le doy 5 estrellas<br> :date: __2021-01-04 23:04:35__
+
 > YAMiSLEN VALENZUELA (1977)<br> :date: __2020-12-15 16:58:12__
 
 > Lo único que puedo decir es referente al idioma, está en todos los idiomas, en cuanto al español pone; edición en español y en la parte superior derecha, hay cómo una v que significa okey y ya la tenéis en español para siempre, ésta aplicación es meramente informativa, sobre la salud ya sea covid o otra enfermedad<br> :date: __2020-11-04 08:37:34__
@@ -155,8 +157,6 @@ The WHO Info app has been installed by more than **100000** times. At this time,
 > Excelente<br> :date: __2020-08-20 17:37:59__
 
 > Kiero saber lo resultado psr<br> :date: __2020-07-29 02:55:33__
-
-> 👍👍👍<br> :date: __2020-07-23 15:29:51__
 
 
 
@@ -210,6 +210,8 @@ The WHO Info app has been installed by more than **100000** times. At this time,
 <img src="1_star_reviews_wordcloud.png" alt="org.who.infoapp 1 reviews"/>
 </p>
 
+> Me parece un grupo de lo mas obsoleto, son tardios en reaccionar, para mi... unos intermediarios que podemos evitar.<br> :date: __2021-01-09 02:05:51__
+
 > Mlisima<br> :date: __2020-10-16 16:11:18__
 
 > Mala muy mala<br> :date: __2020-09-14 00:43:53__
@@ -227,7 +229,5 @@ The WHO Info app has been installed by more than **100000** times. At this time,
 > No está en español. No nos sirve a los hispano parlantes.<br> :date: __2020-05-20 14:13:49__
 
 > No está en español<br> :date: __2020-05-20 12:35:15__
-
-> La app es interesante pero yo no sé inglés. Pongan la posibilidad que pueda leerse en español porque soy lector de su página web y es muy interesante y más en éstos tiempos.<br> :date: __2020-05-19 00:45:01__
 
 

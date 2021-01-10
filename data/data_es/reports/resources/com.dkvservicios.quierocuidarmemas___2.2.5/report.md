@@ -213,6 +213,8 @@ The DKV Quiero cuidarme Más app has been installed by more than **100000** time
 <img src="5_star_reviews_wordcloud.png" alt="com.dkvservicios.quierocuidarmemas 5 reviews"/>
 </p>
 
+> Mui util<br> :date: __2021-01-06 14:16:46__
+
 > Muy bien por DKV<br> :date: __2020-12-22 11:36:27__
 
 > Muy buena<br> :date: __2020-12-19 23:20:17__
@@ -230,8 +232,6 @@ The DKV Quiero cuidarme Más app has been installed by more than **100000** time
 > Excelente compañía hasta hoy no e visto mejor compañía que la dkv muy contento estoy<br> :date: __2020-11-20 07:00:20__
 
 > Muy recomendable<br> :date: __2020-11-18 09:05:26__
-
-> Muy útil<br> :date: __2020-11-17 18:13:57__
 
 
 
@@ -313,6 +313,10 @@ The DKV Quiero cuidarme Más app has been installed by more than **100000** time
 <img src="1_star_reviews_wordcloud.png" alt="com.dkvservicios.quierocuidarmemas 1 reviews"/>
 </p>
 
+> Os doy una estrellita ya que se me fue el dedo y no me deja quitarla. Ya van dos veces que me descargo la aplicación y no hay manera de poder acceder, no reconoce la contraseña, y cuando trato de modificar la contraseña no reconoce mi correo electrónico. He llamado a atención al cliente DKV y tampoco me ha resuelto nada.<br> :date: __2021-01-07 20:35:05__
+
+> Horroroso<br> :date: __2021-01-05 11:41:49__
+
 > Hasta ahora no me ha aportado nada. Después de varios meses, tengo que actualizar para poder usar, sin más detalles.<br> :date: __2020-12-31 05:00:13__
 
 > De buenas a primeras no puedo acceder a mi cuadro médico, que es lo que pasa??<br> :date: __2020-12-28 16:44:44__
@@ -328,9 +332,5 @@ The DKV Quiero cuidarme Más app has been installed by more than **100000** time
 > No me deja iniciar sesión, se cierra antes de ejecutarse.<br> :date: __2020-12-15 12:54:30__
 
 > No funciona!!<br> :date: __2020-12-15 03:25:57__
-
-> Nada , basura , entras a la app y al rato te saca y vuelta a empezar .<br> :date: __2020-12-14 13:34:39__
-
-> Fatal<br> :date: __2020-12-07 13:20:51__
 
 

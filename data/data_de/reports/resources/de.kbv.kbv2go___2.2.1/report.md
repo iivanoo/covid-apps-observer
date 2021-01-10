@@ -192,6 +192,14 @@ nützlich und sehr informationreich! Habt vielen dank. Herzliche Grüße Achim!<
 <img src="3_star_reviews_wordcloud.png" alt="de.kbv.kbv2go 3 reviews"/>
 </p>
 
+> Wo bleibt der Heilmittelkatalog?? Wir müssen in der Praxis schon seit Montag 4.1.21 damit arbeiten,<br> :date: __2021-01-07 20:23:13__
+
+> De Heilmittelkatalog fehlt noch immer. Die Suchfunktion im EBM ist schlecht gemacht.<br> :date: __2021-01-05 16:14:40__
+
+> Der neue Heillmittelkatalog ist nicht verfügbar. Wäre toll wenn dieser zeitgleich mit dem neuen Formular veröffentlicht würde. Sonst finde ich diese App perfekt!<br> :date: __2021-01-05 07:28:34__
+
+> Heilmittelkatalog fehlt weiter.<br> :date: __2021-01-04 22:20:06__
+
 > Der neue Heilmittelkatalog ist nicht zu finden. Die neuen ICD für covid 19 sind auch noch nicht aktualisiert.<br> :date: __2021-01-03 12:19:34__
 
 > Der angekündigte Heilmittelkatalog ist nicht verfügbar, oder so explizit versteckt dass man ihn nicht nutzen kann.<br> :date: __2020-12-11 10:04:36__
@@ -212,6 +220,10 @@ nützlich und sehr informationreich! Habt vielen dank. Herzliche Grüße Achim!<
 <img src="2_star_reviews_wordcloud.png" alt="de.kbv.kbv2go 2 reviews"/>
 </p>
 
+> Wegen des Heilmittelkatalogs heruntergeladen und dann ist er nicht enthalten. Warum wird es als Hilfe angeboten und dann aber nicht bereit gestellt? Sehr schade.<br> :date: __2021-01-06 15:37:06__
+
+> Weiterhin kein Heilmittelkatalog zu finden dabei brauchen die ersten Patienten schon ihre Verordnung.<br> :date: __2021-01-05 12:21:35__
+
 > Der Heilmittelkatalog ist nicht auffindbar<br> :date: __2020-12-14 15:39:42__
 
 > Die angebotenen Downloads funktionieren nicht!<br> :date: __2020-03-27 11:27:29__
@@ -228,6 +240,12 @@ nützlich und sehr informationreich! Habt vielen dank. Herzliche Grüße Achim!<
 <img src="1_star_reviews_wordcloud.png" alt="de.kbv.kbv2go 1 reviews"/>
 </p>
 
+> Heilmittel Katalog nicht da, dafür extra installiert. Hoffe es wird zeitnah verwirklicht.<br> :date: __2021-01-08 13:35:09__
+
+> Erhalte den Hinweis in der kassenärztlichen Heilmittelrichtlinie, dass diese auch online in der App verfügbar sei. Muss dann aber feststellen, dass sie noch nicht eingepflegt ist. Das ist lächerlich.<br> :date: __2021-01-08 02:13:42__
+
+> Der neue Heilmittelkatalog ist immer noch nicht -wie überall verkündet - implementiert. Schwach. Wenn man bedenkt dass er schon für 1.10.20 geplant war.<br> :date: __2021-01-07 09:31:51__
+
 > Kein Heilmittelkatalog zu finden. Traurig!<br> :date: __2021-01-03 16:11:53__
 
 > Kein Heilmittelkatalog zu finden,obwohl zu 2021 angekündigt von KBV.<br> :date: __2021-01-02 11:45:04__
@@ -241,7 +259,5 @@ nützlich und sehr informationreich! Habt vielen dank. Herzliche Grüße Achim!<
 > Seit den letzten Android-Aktualisierungen lassen sich die pdf nicht mehr öffnen. (Wollte die trotz Programmstart noch nicht verfügbaren Pat.-infos Koloskopie ansehen) Auf den KBV-Nachrichten-Seiten öffnen sich die mit einem '+' versehenen Untertexte nicht mehr. Beim Versuch, Besserung durch Neuinstallation zu erreichen, ist diese nicht mehr möglich. Vielleicht ist die letzte Aktualisierung in 2017 selbst für die KBV nicht mehr ganz zeitgemäß! ZUS: App mit meinem Galaxy S8 nicht mehr nutzbar<br> :date: __2019-04-12 21:45:32__
 
 > Katalog nicht verfügbar 😐<br> :date: __2019-04-02 22:01:35__
-
-> Gut gemeint<br> :date: __2014-07-08 23:38:11__
 
 

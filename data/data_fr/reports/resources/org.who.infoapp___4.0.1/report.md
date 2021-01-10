@@ -138,6 +138,8 @@ The WHO Info app has been installed by more than **100000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="org.who.infoapp 5 reviews"/>
 </p>
 
+> La langue française est sur application. Superbe application.<br> :date: __2021-01-07 20:50:23__
+
 > Très pratique merci<br> :date: __2020-10-02 14:25:04__
 
 > J adore et j aime<br> :date: __2020-09-23 21:59:13__
@@ -155,8 +157,6 @@ The WHO Info app has been installed by more than **100000** times. At this time,
 > ممتاز<br> :date: __2020-06-17 14:06:27__
 
 > J'aime<br> :date: __2020-06-14 12:30:05__
-
-> Oui elle peut elle fornit également des actualités<br> :date: __2020-06-13 12:20:30__
 
 
 

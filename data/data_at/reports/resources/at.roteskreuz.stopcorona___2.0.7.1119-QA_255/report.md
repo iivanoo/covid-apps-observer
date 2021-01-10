@@ -232,11 +232,11 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 <img src="2_star_reviews_wordcloud.png" alt="at.roteskreuz.stopcorona 2 reviews"/>
 </p>
 
+> Die Zählweise der IDs ist nicht nachvollziehbar. Habe in der Wohnung keinen Untermieter und trotzdem neue IDs bekommen. 1k sind für die zweit größte Stadt Österreichs dann doch wenig IDs. Keine Alarmmeldung noch bekommen.<br> :date: __2021-01-06 19:03:52__
+
 > Ich habe dutzende Benachrichtigungen über Kontakte, obwohl ich in dieser Zeit definitiv allein zu Hause war. Es kann auch nicht von einer anderen Wohnung sein, ich lebe in einem Einfamilienhaus, weit und breit kein Mensch. Vielleicht könnte man die Mitglieder des eigenen Haushaltes auf eine Whitelist setzen. Da wird man es ohnehin erfahren wenn sie positiv sind<br> :date: __2021-01-02 13:26:53__
 
 > Gute idee aber wirklich schlecht programmiert. Hatte jetzt Covid und habs gleich mal in der App gemeldet, dann anonym alle verständigt die laut App Kontakt hatten. Und dann begann ein unendlich nerviger Kreislauf. Ich habe mich während der Quarantäne nicht 1mm aus der Wohnung bewegt und wurde trotzdem 5 mal täglich gefragt, ob ich nicht allen Kontakten Bescheid geben will. Ausserdem kann ich mich uns verrecken nicht gesund melden. Genervt von 10 nachrichten am Tag hab ichs jetzt deinstalliert.<br> :date: __2020-12-27 13:05:27__
-
-> Installation fertig,und jetzt??<br> :date: __2020-12-22 18:19:50__
 
 > Eine App die vieles erleichtern sollte dies aber nicht wirklich macht. Habe mich am 30. Nov mit meiner Covid Erkrankung und Ärztlicher Bestätigungen als erkrankt registriert. Nach meiner 10 Tägigen Quarantäne und Genesung kann ich dies nicht in der App registrieren. Meine Lebensgefährtin...gleiche Haushalt wurde trotz aktiviertem App erst 2 Tage nach meiner Meldung informiert. Nach meiner Covid Meldung wurde ich dennoch 3x täglich gefragt haben sie Symptome, geht es ihnen gut. Unnötige Frage<br> :date: __2020-12-15 12:48:43__
 
@@ -260,6 +260,12 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 <img src="1_star_reviews_wordcloud.png" alt="at.roteskreuz.stopcorona 1 reviews"/>
 </p>
 
+> Installation fertig,und jetzt?? Wieder gelöscht.<br> :date: __2021-01-09 18:46:39__
+
+> Ständig Kontakte wenn man alleine zu Hause ist. 🙈<br> :date: __2021-01-06 16:26:35__
+
+> Hab's seit der ersten Stunde installiert. Als Schulidee brauchbar. Nicht durchdacht. Da waren sicher Anfänger Programmierer in der Umsetzung beteiligt. Leider.<br> :date: __2021-01-05 06:31:33__
+
 > Digitaler Handshake kann ich nicht einschalten, warum kann man das nich für jeden verständlich gestalten ? Ich lösch die app wieder, schade<br> :date: __2020-12-31 06:11:25__
 
 > Mit zusätzlichen einschalten von Bluetooth funktioniert die App nicht weil sie keiner einschalten wird ihr solltet es über Funknetz gbs machen alle was ich davon habe ist nur eine die nichts tut aber gar nichts zeigt sie an sie funktioniert so nicht bitte auf gbs ändern den niemand Dreh Bluetooth auf und darum funktioniert sie auch nicht<br> :date: __2020-12-29 04:24:50__
@@ -273,11 +279,5 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 > Keinerlei User Feedback - ob das Ding läuft, ob man jemandem getroffen hat? So viele Fragen und null Antworten. User Experience zum Davonlaufen.<br> :date: __2020-12-20 10:42:10__
 
 > Die Regierung will diese App verpflichtet machen und es wird diese mit Gesundheitsdaten verknüpft. Bist geimpft, zeigt sie grün. Ansonsten rot und kein Zutritt zB zu Veranstaltungen usw. Diktatur! Geht gar nicht. Wir müssen auf die Straße gehen. App deinstalliert.<br> :date: __2020-12-18 13:23:30__
-
-> Nicht zu gebrauchen<br> :date: __2020-12-18 07:34:00__
-
-> Ich habe leider 3x am Tag Abstürze unter Android 9. Lässt sich aktuell auch nicht mehr öffnen, läuft aber anscheinend noch im Hintergrund. Weiters wäre ein Testmodus gut (z.B mit anderem Handy) damit ich weiß ob die App überhaupt trackt.<br> :date: __2020-12-09 22:36:44__
-
-> Keinerlei Möglichkeit herauszufinden wie viele Personen überhaupt "gescannt" wurden. Wüsste auch gerne wer in meiner Nähe die App verwendet. Nach 4 Monaten Nutzung keinen einzigen potenziellen Fall gehabt somit glaube ich nicht dass die App funktioniert.<br> :date: __2020-12-09 00:25:10__
 
 

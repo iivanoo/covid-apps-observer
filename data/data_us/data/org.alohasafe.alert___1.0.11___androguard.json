@@ -1,0 +1,38 @@
+{
+    "permissions": [
+        "android.permission.INTERNET",
+        "android.permission.ACCESS_WIFI_STATE",
+        "android.permission.BLUETOOTH",
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        "android.permission.WAKE_LOCK",
+        "android.permission.FOREGROUND_SERVICE",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.VIBRATE"
+    ],
+    "activities": [
+        "org.pathcheck.covidsafepaths.SplashActivity",
+        "org.pathcheck.covidsafepaths.MainActivity",
+        "com.google.android.gms.common.api.GoogleApiActivity"
+    ],
+    "urls": [
+        "http://schemas.android.com/apk/res/android",
+        "https://notify.bugsnag.com",
+        "https://sessions.bugsnag.com",
+        "http://%s/%s.%s?platform=android&dev=%s&minify=%s",
+        "http://%s/launch-js-devtools",
+        "http://%s/open-stack-frame",
+        "http://%s/status",
+        "http://%s/%s",
+        "http://%s/symbolicate",
+        "http://%s/inspector/device?name=%s&app=%s",
+        "http://www.android.com/",
+        "https://plus.google.com/",
+        "https://encdn.prod.exposurenotification.health/",
+        "https://api.alohasafe.org/cfg/v1.6.config.json",
+        "https://encdn.prod.exposurenotification.health",
+        "https://github.com/bugsnag/bugsnag-js",
+        "https://bugsnag.com",
+        "http://schemas.android.com/apk/res-auto",
+        "https://%s/"
+    ]
+}

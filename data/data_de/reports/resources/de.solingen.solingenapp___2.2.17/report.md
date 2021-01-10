@@ -218,6 +218,8 @@ The Mensch, Solingen app has been installed by more than **1000** times. At this
 <img src="3_star_reviews_wordcloud.png" alt="de.solingen.solingenapp 3 reviews"/>
 </p>
 
+> Leider startet die App nicht immer vernünftig. Wenn dies der Fall ist, muss ich mein Handy sogar neu starten, da die Fehlermeldung dennoch weiter blinkt- auch wenn die app bereits geschlossen ist.<br> :date: __2021-01-08 16:41:01__
+
 > APP funktioniert jetzt im Großen und Ganzen ganz gut<br> :date: __2020-12-16 18:34:19__
 
 > Guter Ansatz auf jeden Fall, nur leider gehen 60% der App nicht. Ein Mangel über die App zu senden z.B. funktioniert nicht. Bitte beheben dann gibt es 5*<br> :date: __2020-08-22 15:07:48__
@@ -231,6 +233,8 @@ The Mensch, Solingen app has been installed by more than **1000** times. At this
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="de.solingen.solingenapp 2 reviews"/>
 </p>
+
+> Gibt man bei dem Abfallkalender eine Hausnummer ein die nicht in dem System ist funktioniert die Funktion nicht. Ergo existiert unser Haus nicht und man muss dann eine völlig andere Hausnummer eingeben.Das Haus meiner Eltern gibt es auch nicht aber vielleicht leben wir ja in Bielefeld 😁 Die Wetterstation Eichenstrasse gibt es nicht obwohl sie im System auftaucht. Alles in allem irgendwie sehr unprofessionell und das ganze war wahrscheinlich nicht billig.<br> :date: __2021-01-08 21:17:37__
 
 > Am anfang hat alles super geklappt.. Nun stockt es und dass Laden der App dauert 2 min bis sie geöffnet werden kann<br> :date: __2020-12-13 18:47:22__
 
@@ -249,8 +253,6 @@ The Mensch, Solingen app has been installed by more than **1000** times. At this
 > Die Ausdrucksform gefällt mir nicht, ich möchte von der Stadtverwaltung nicht geduzt werden.<br> :date: __2020-08-29 13:52:56__
 
 > Netter Versuch - hoffentlich wird die App noch weiter verbessert Egal was ich wähle (Freizeit, Baustellen, Sehenswürdigkeit...) - ich lande immer auf der Landkarte im Südpazifik. Mag ja schön sein dort, halte ich aber als lokales Freizeitangebot für Solingen für nicht ganz geeignet...<br> :date: __2020-08-23 12:12:57__
-
-> Gute APP aber leider nicht mit htc one m8 und Android 6 kompatibel. Wäre schön wenn das noch behoben wird.<br> :date: __2020-05-31 11:55:54__
 
 
 

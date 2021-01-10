@@ -178,6 +178,16 @@ The NowClinic app has been installed by more than **50000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="com.americanwell.android.member.optum 5 reviews"/>
 </p>
 
+> Easy.<br> :date: __2021-01-08 17:21:44__
+
+> Availability at all hours, extremely convenient!<br> :date: __2021-01-05 07:27:45__
+
+> Quick and easy to use.<br> :date: __2021-01-04 23:35:17__
+
+> Great service<br> :date: __2021-01-04 20:12:33__
+
+> Excellent<br> :date: __2021-01-03 18:59:09__
+
 > Pretty easy system to use. Be ready to wait for your provider but they do alert you to let you know your up next. Easy process. I like it.<br> :date: __2020-12-31 23:22:17__
 
 > Clear great video<br> :date: __2020-12-30 21:50:53__
@@ -187,16 +197,6 @@ The NowClinic app has been installed by more than **50000** times. At this time,
 > Positive<br> :date: __2020-12-29 16:29:15__
 
 > I love this app i can see a trained professional in the comfort of my home. Thank you to the doctors and nurses that participate on this app<br> :date: __2020-12-29 01:43:27__
-
-> Works great! Excellent sound.<br> :date: __2020-12-28 19:00:16__
-
-> Easy. The one thing you want with telemedicine is ready. This is just that!<br> :date: __2020-12-26 18:07:55__
-
-> Now clinic app disconnected at the beginning of my appointment and didn't come back on.<br> :date: __2020-12-24 22:54:30__
-
-> Very happy with my visit today. Would use hilary schroeder again with no hesitation.<br> :date: __2020-12-24 16:26:02__
-
-> SO happy that there's someone who can see me at 4am, & they take my insurance. This saved me as it's 4am on Christmas Eve & there's no way I'd be able to see my Primary Care Dr today (& I didn't WANT TO anyway because of COVID, for a simple medical issue that doesn't need a visit, but I do need an Rx). I don't want to go to ANY Dr or ER or Urgent Care right now because of COVID! This app was EASY & FAST, & now I can RELAX, get my Rx when the pharmacy opens, & I'm good to go! Thank you.👍😊<br> :date: __2020-12-24 13:47:57__
 
 
 

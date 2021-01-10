@@ -1,5 +1,29 @@
 [
     {
+        "reviewId": "gp:AOqpTOG4kRjxae0QFKDP-cqaZCL1E7btwfjUNmT_-tabZVs3S27mICG3-S-wqWy7jW3RfQDeR7NDF3sROPVWWwY",
+        "userName": "Miguel Francisco",
+        "userImage": "https://play-lh.googleusercontent.com/-2xJrGambTbI/AAAAAAAAAAI/AAAAAAAAACo/AMZuucnKR8rcTFMZ9Upo5fxVw7288So1TQ/photo.jpg",
+        "content": "Me parece un grupo de lo mas obsoleto, son tardios en reaccionar, para mi... unos intermediarios que podemos evitar.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.0.1",
+        "at": "2021-01-09 02:05:51",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOH_bzyNqryQxcAs3Qvs4UPEYhEwfDDzVHh7Y_A5U9fLfywwUqyNYBBZJDjqV6eirRD5_cG05pzhuHdwJpg",
+        "userName": "Miriam Herrera",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gjg2GCAWx0FPq2kGL-pwHvV7UDOyCQrEyDTsOIK",
+        "content": "Buen\u00edsima es informativa m\u00e1s en \u00e9stos tiempos tiene todos los idiomas elijo el espa\u00f1ol y lo agarro de una vez s\u00faper informaci\u00f3n le doy 5 estrellas",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.0.1",
+        "at": "2021-01-04 23:04:35",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOE9XxyOeKnw3PWTncmoGG6Khuf0EpDisidNRZWaBBXQGx19GMILnp2qAhhO6T11HjOdMj-wgMGLEEUT2g8",
         "userName": "yamislen castillo",
         "userImage": "https://play-lh.googleusercontent.com/-45B9ZxQGLQo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmUWKmlsJTLPcV2tgnc_oYn_HbgoQ/photo.jpg",
@@ -29,7 +53,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-pssZLXCkOnU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmORGnC0dyAc1m4QcbJBQuSpU4w2g/photo.jpg",
         "content": "Lo \u00fanico que puedo decir es referente al idioma, est\u00e1 en todos los idiomas, en cuanto al espa\u00f1ol pone; edici\u00f3n en espa\u00f1ol y en la parte superior derecha, hay c\u00f3mo una v que significa okey y ya la ten\u00e9is en espa\u00f1ol para siempre, \u00e9sta aplicaci\u00f3n es meramente informativa, sobre la salud ya sea covid o otra enfermedad",
         "score": 5,
-        "thumbsUpCount": 11,
+        "thumbsUpCount": 14,
         "reviewCreatedVersion": "3.1.1",
         "at": "2020-11-04 08:37:34",
         "replyContent": null,
@@ -221,7 +245,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjNCzu0gUix5fcWRwP1pz2R1gPmfBNIJlI5H-WO",
         "content": "La aplicaci\u00f3n viene con opci\u00f3n para cambiar el idioma... No se porque la gente no se molesta en indagar eso, la aplicaci\u00f3n en s\u00ed esta muy bien",
         "score": 4,
-        "thumbsUpCount": 111,
+        "thumbsUpCount": 112,
         "reviewCreatedVersion": "2.2.0",
         "at": "2020-07-09 21:29:22",
         "replyContent": null,

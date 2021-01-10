@@ -136,6 +136,8 @@ The GuideSafe app has been installed by more than **50000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="gov.adph.exposurenotifications 5 reviews"/>
 </p>
 
+> Best<br> :date: __2021-01-07 12:48:04__
+
 > Was good to know about the App<br> :date: __2020-11-28 18:00:06__
 
 > People saying this app is not working what is this used for I will try it anyway if it doesn't work then I'll take it off my phone<br> :date: __2020-11-20 01:08:13__
@@ -153,8 +155,6 @@ The GuideSafe app has been installed by more than **50000** times. At this time,
 > Good app<br> :date: __2020-10-13 01:25:16__
 
 > Great Idea. Thank you. It is at the top of my list of worries. With my age and health issues.<br> :date: __2020-10-11 21:28:21__
-
-> Everyone in Alabama needs to download this. It doesn't work at all. If you catch covid and use this app you get to sue the developer as well as the state of Alabama. Definitely a better payout than a stimulus check.<br> :date: __2020-10-11 16:41:29__
 
 
 
@@ -234,6 +234,10 @@ The GuideSafe app has been installed by more than **50000** times. At this time,
 <img src="1_star_reviews_wordcloud.png" alt="gov.adph.exposurenotifications 1 reviews"/>
 </p>
 
+> When I first installed the app, it checked about once a day for exposure. Then it stopped checking. The last time it checked was the middle of December. I uninstalled and reinstalled several days ago, and even though I occasionally see downloads related to the app, it still says 'exposure never checked'.<br> :date: __2021-01-09 01:34:05__
+
+> This app does not work. As soon as I put my phone number in, it will reroute to my school's home page and it keeps doing this repeatedly even when I restart my phone or uninstall the app and reinstalled it back.<br> :date: __2021-01-07 01:50:43__
+
 > Won't let me report a positive test<br> :date: __2021-01-01 02:38:03__
 
 > This app is pretty much inert. Not enough people using it.<br> :date: __2020-12-31 16:02:49__
@@ -249,9 +253,5 @@ The GuideSafe app has been installed by more than **50000** times. At this time,
 > My app has not updated exposure checks since November 27th. Is it broken? Should I just uninstall?<br> :date: __2020-12-24 05:58:48__
 
 > No longer working as of November. I have reinstalled it twice and it just shows "never checked for exposure."<br> :date: __2020-12-23 21:54:28__
-
-> The app doesnt do what its suppose to at all unfortunately.<br> :date: __2020-12-23 04:05:02__
-
-> App is a joke if no one is reporting they have covid. Daughter tested postive and i am exposed. App never notified me.<br> :date: __2020-12-19 21:14:34__
 
 

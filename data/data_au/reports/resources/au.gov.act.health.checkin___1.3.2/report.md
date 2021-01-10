@@ -264,6 +264,10 @@ The Check In CBR app has been installed by more than **10000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="au.gov.act.health.checkin 1 reviews"/>
 </p>
 
+> Total waste, every other state uses an internet portal rather than wasting money on a useless app<br> :date: __2021-01-08 03:03:58__
+
+> Went to check in after visiting a store at 10.50am. Scanned went to download app....10 mins later still waiting to download app. Is there an online option. Edit: it took over 4 hours to download. Before suggesting my settings are at fault, I had no problem updating or downloading other apps, just this one<br> :date: __2021-01-04 21:25:00__
+
 > Three times tried to create an account, but it doesn't go beyond the registration page and the Privacy Notice. Must be a glitch in the app. Pls sort it out.<br> :date: __2020-12-26 00:29:29__
 
 > Doesn't work. Tried reinstalling twice and still returns error message about no registered business location at every shop I've tried. Worked for others but not me. Manual also doesn't work.<br> :date: __2020-12-24 03:21:51__
@@ -279,9 +283,5 @@ The Check In CBR app has been installed by more than **10000** times. At this ti
 > Didn't recognise QR codes at a pub and at the Australian National Museum. Strange as other QR code reader redirected me to this Canberra Check in app anyway. Android / Oppo<br> :date: __2020-11-25 22:13:55__
 
 > Won't install!! Running a Samsung Note 10 so shouldn't be a compatibility issue!!<br> :date: __2020-11-14 04:53:26__
-
-> Complete failure. Says enter code but no indication of where to get code.<br> :date: __2020-11-04 00:06:22__
-
-> This app does not work. I've tried at 3 different locations and it has not worked once. Scanning a QR code and entering details manually was far easier. So now have to use written sign in if available or not bother signing in (playgrounds)<br> :date: __2020-10-27 04:01:35__
 
 

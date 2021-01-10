@@ -138,6 +138,8 @@ The WHO Info app has been installed by more than **100000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="org.who.infoapp 5 reviews"/>
 </p>
 
+> Gives global data on covid 19 updates.<br> :date: __2021-01-07 08:43:58__
+
 > Very nice app for health.<br> :date: __2020-12-12 06:15:46__
 
 > Great. Installed quickly without problems. :-)<br> :date: __2020-11-15 16:31:45__
@@ -155,8 +157,6 @@ The WHO Info app has been installed by more than **100000** times. At this time,
 > I. AM. BELIVE. W. H. O<br> :date: __2020-10-04 06:51:53__
 
 > I like to see a update on what's going on please<br> :date: __2020-09-23 12:20:19__
-
-> First time user, but the app looks helpful.<br> :date: __2020-09-16 19:17:57__
 
 
 
@@ -236,6 +236,8 @@ The WHO Info app has been installed by more than **100000** times. At this time,
 <img src="1_star_reviews_wordcloud.png" alt="org.who.infoapp 1 reviews"/>
 </p>
 
+> Says I can't connect even tho I have WiFi and data on<br> :date: __2021-01-04 02:35:04__
+
 > Extremely bad application. Always not working at all. Why do you keep it in the playstore?!<br> :date: __2020-12-15 16:13:48__
 
 > A wast of time<br> :date: __2020-11-04 13:04:20__
@@ -253,7 +255,5 @@ The WHO Info app has been installed by more than **100000** times. At this time,
 > I am not able to download it fully its no use to me as i am a type1 Diabetic and Asthmatic i am also in 3rd degree Kidney Failure.<br> :date: __2020-09-29 02:20:05__
 
 > WHO TRUSTS WHO NOW ¿¿?!?????<br> :date: __2020-09-25 02:07:50__
-
-> This app sucks<br> :date: __2020-09-14 21:01:10__
 
 

@@ -162,6 +162,8 @@ The Canada COVID-19 app has been installed by more than **100000** times. At thi
 <img src="4_star_reviews_wordcloud.png" alt="ca.gc.hcsc.canada.covid19 4 reviews"/>
 </p>
 
+> Great tech on a fantastic mission.<br> :date: __2021-01-05 02:10:47__
+
 > I think the app is very important and I use it daily to check in. However 14 day isolation for a headache?<br> :date: __2020-10-30 00:26:24__
 
 > Needs a dark mode.<br> :date: __2020-09-25 07:43:49__
@@ -179,8 +181,6 @@ The Canada COVID-19 app has been installed by more than **100000** times. At thi
 > This great for your peace of mind<br> :date: __2020-07-29 21:26:39__
 
 > Very good support and optimal information-sharing through this crisis.<br> :date: __2020-07-28 22:22:10__
-
-> Good but tracing would make it better<br> :date: __2020-07-25 19:27:34__
 
 
 
@@ -246,6 +246,8 @@ The Canada COVID-19 app has been installed by more than **100000** times. At thi
 <img src="1_star_reviews_wordcloud.png" alt="ca.gc.hcsc.canada.covid19 1 reviews"/>
 </p>
 
+> App does not work!<br> :date: __2021-01-08 17:25:00__
+
 > Tests my patience! If I didn't think it was important to report COVID-19 symptoms, I would never use this app! It is so slow, and I mean slow that you don't know if it has sensed my touch selection or not so you tap again and again! Keeps showing that the app encountered an error when I load this app. Why did you move the Daily Check-In from being the first item on the page when it starts?!<br> :date: __2021-01-01 16:44:30__
 
 > Since last update Stats don't update at all like is use to do for every day the stats for the day don't display<br> :date: __2020-12-28 01:23:01__
@@ -263,7 +265,5 @@ The Canada COVID-19 app has been installed by more than **100000** times. At thi
 > It kept freezing<br> :date: __2020-11-26 12:27:04__
 
 > Very slow now it stops when I complete self cheek<br> :date: __2020-11-25 21:54:27__
-
-> Doesn't work. Uninstalled and tried again same thing, freezes at main screen and no other options.<br> :date: __2020-11-24 04:36:34__
 
 

@@ -4,308 +4,308 @@
         "store_country": "us",
         "store_lang": "en",
         "latest_crawled_version": "3.1",
-        "latest_crawl": 1609682197
+        "latest_crawl": 1610207454
     },
     {
         "id": "gov.fema.mobile.android",
         "store_country": "us",
         "store_lang": "en",
         "latest_crawled_version": "2.11.2",
-        "latest_crawl": 1609682200
+        "latest_crawl": 1610207464
     },
     {
         "id": "gov.cdc.general",
         "store_country": "us",
         "store_lang": "en",
         "latest_crawled_version": "3.1.1",
-        "latest_crawl": 1609682200
+        "latest_crawl": 1610207474
     },
     {
         "id": "com.ri.crushcovid",
         "store_country": "us",
         "store_lang": "us",
         "latest_crawled_version": "2.2",
-        "latest_crawl": 1609682203
+        "latest_crawl": 1610207477
     },
     {
         "id": "gov.azdhs.covidwatch.android",
         "store_country": "us",
         "store_lang": "us",
         "latest_crawled_version": "2.0.18",
-        "latest_crawl": 1609682203
+        "latest_crawl": 1610207486
     },
     {
         "id": "gov.vdh.exposurenotification",
         "store_country": "us",
         "store_lang": "us",
         "latest_crawled_version": "1.2",
-        "latest_crawl": 1609682204
+        "latest_crawl": 1610207494
     },
     {
         "id": "gov.nv.dhhs.en",
         "store_country": "us",
         "store_lang": "us",
         "latest_crawled_version": "1.2.13",
-        "latest_crawl": 1609682205
+        "latest_crawl": 1610207502
     },
     {
         "id": "gov.de.covidtracker",
         "store_country": "us",
         "store_lang": "us",
         "latest_crawled_version": "1.2.0",
-        "latest_crawl": 1609682212
+        "latest_crawl": 1610207511
     },
     {
         "id": "org.pathcheck.guam.bt",
         "store_country": "us",
         "store_lang": "us",
         "latest_crawled_version": "1.0.10",
-        "latest_crawl": 1609682212
+        "latest_crawl": 1610207518
     },
     {
         "id": "com.shield.CombatCovidPBC",
         "store_country": "us",
         "store_lang": "us",
         "latest_crawled_version": "1.1.0",
-        "latest_crawl": 1609682215
+        "latest_crawl": 1610207527
     },
     {
         "id": "com.proudcrowd.exposure",
         "store_country": "us",
         "store_lang": "us",
         "latest_crawled_version": "1.2",
-        "latest_crawl": 1609682216
+        "latest_crawl": 1610207528
     },
     {
         "id": "gov.michigan.MiCovidExposure",
         "store_country": "us",
         "store_lang": "us",
         "latest_crawled_version": "1.2",
-        "latest_crawl": 1609682243
+        "latest_crawl": 1610207529
     },
     {
         "id": "com.shield.CombatCovidMD",
         "store_country": "us",
         "store_lang": "us",
         "latest_crawled_version": "1.1.0",
-        "latest_crawl": 1609682272
+        "latest_crawl": 1610207537
     },
     {
         "id": "gov.adph.exposurenotifications",
         "store_country": "us",
         "store_lang": "us",
         "latest_crawled_version": "v1.3",
-        "latest_crawl": 1609682272
+        "latest_crawl": 1610207546
     },
     {
         "id": "gov.ct.covid19.exposurenotifications",
         "store_country": "us",
         "store_lang": "us",
         "latest_crawled_version": "minted141006",
-        "latest_crawl": 1609682330
+        "latest_crawl": 1610207546
     },
     {
         "id": "com.nj.gov.covidalert",
         "store_country": "us",
         "store_lang": "us",
         "latest_crawled_version": "1.0.1",
-        "latest_crawl": 1609682359
+        "latest_crawl": 1610207549
     },
     {
         "id": "gov.ny.health.proximity",
         "store_country": "us",
         "store_lang": "us",
         "latest_crawled_version": "1.1.0",
-        "latest_crawl": 1609682366
+        "latest_crawl": 1610207554
     },
     {
         "id": "gov.pa.covidtracker",
         "store_country": "us",
         "store_lang": "us",
         "latest_crawled_version": "1.1.2",
-        "latest_crawl": 1609682367
+        "latest_crawl": 1610207556
     },
     {
         "id": "gov.md.covid19.exposurenotifications",
         "store_country": "us",
         "store_lang": "us",
         "latest_crawled_version": "minted141008",
-        "latest_crawl": 1609682424
+        "latest_crawl": 1610207558
     },
     {
         "id": "gov.dc.covid19.exposurenotifications",
         "store_country": "us",
         "store_lang": "us",
         "latest_crawled_version": "minted14013",
-        "latest_crawl": 1609682445
+        "latest_crawl": 1610207566
     },
     {
         "id": "gov.nc.dhhs.exposurenotification",
         "store_country": "us",
         "store_lang": "us",
-        "latest_crawled_version": "1.3",
-        "latest_crawl": 1609682449
+        "latest_crawled_version": "1.4",
+        "latest_crawl": 1610207593
     },
     {
         "id": "gov.co.cdphe.exposurenotifications",
         "store_country": "us",
         "store_lang": "us",
         "latest_crawled_version": "minted14014",
-        "latest_crawl": 1609682454
+        "latest_crawl": 1610207619
     },
     {
         "id": "com.joinzoe.covid_zoe",
         "store_country": "us",
         "store_lang": "us",
         "latest_crawled_version": "2.2.0",
-        "latest_crawl": 1609682456
+        "latest_crawl": 1610207624
     },
     {
         "id": "co.twenty.stop.spread",
         "store_country": "us",
         "store_lang": "us",
         "latest_crawled_version": "1.4.35",
-        "latest_crawl": 1609682553
+        "latest_crawl": 1610207631
     },
     {
         "id": "gov.va.mobilehealth.ncptsd.covid",
         "store_country": "us",
         "store_lang": "us",
         "latest_crawled_version": "1.5",
-        "latest_crawl": 1609682624
+        "latest_crawl": 1610207637
     },
     {
         "id": "com.kencorhealth.covid",
         "store_country": "us",
         "store_lang": "us",
         "latest_crawled_version": "1.9",
-        "latest_crawl": 1609682631
+        "latest_crawl": 1610207637
     },
     {
         "id": "jhu.edu.JohnsHopkinsCOVIDControl",
         "store_country": "us",
         "store_lang": "us",
         "latest_crawled_version": "3.3",
-        "latest_crawl": 1609682633
+        "latest_crawl": 1610207645
     },
     {
         "id": "edu.musc.vitaltracker.defaultapp",
         "store_country": "us",
         "store_lang": "us",
         "latest_crawled_version": "1.39",
-        "latest_crawl": 1609682635
+        "latest_crawl": 1610207650
     },
     {
         "id": "org.pathcheck.covidsafepaths",
         "store_country": "us",
         "store_lang": "us",
         "latest_crawled_version": "1.3.1 (2)",
-        "latest_crawl": 1609682636
+        "latest_crawl": 1610207656
     },
     {
         "id": "tracker.healthcare.sentinel",
         "store_country": "us",
         "store_lang": "us",
         "latest_crawled_version": "1.5",
-        "latest_crawl": 1609682640
+        "latest_crawl": 1610207665
     },
     {
         "id": "ai.carespree",
         "store_country": "us",
         "store_lang": "us",
-        "latest_crawled_version": "2.0.23371",
-        "latest_crawl": 1609682649
+        "latest_crawled_version": "2.0.24737",
+        "latest_crawl": 1610208500
     },
     {
         "id": "com.doctorondemand.android.patient",
         "store_country": "us",
         "store_lang": "us",
         "latest_crawled_version": "3.52.0",
-        "latest_crawl": 1609682652
+        "latest_crawl": 1610208648
     },
     {
         "id": "com.webmd.android",
         "store_country": "us",
         "store_lang": "us",
-        "latest_crawled_version": "8.4",
-        "latest_crawl": 1609682656
+        "latest_crawled_version": "8.5",
+        "latest_crawl": 1610208890
     },
     {
         "id": "com.soc.mycolorado",
         "store_country": "us",
         "store_lang": "us",
         "latest_crawled_version": "4.0",
-        "latest_crawl": 1609682663
+        "latest_crawl": 1610209109
     },
     {
         "id": "com.americanwell.android.member.amwell",
         "store_country": "us",
         "store_lang": "us",
         "latest_crawled_version": "12.2.00.005_01",
-        "latest_crawl": 1609682672
+        "latest_crawl": 1610209112
     },
     {
         "id": "com.iuhealth.android.videovisits",
         "store_country": "us",
         "store_lang": "us",
         "latest_crawled_version": "12.0.16.005_01",
-        "latest_crawl": 1609682680
+        "latest_crawl": 1610209120
     },
     {
         "id": "org.howwefeel",
         "store_country": "us",
         "store_lang": "us",
         "latest_crawled_version": "Varies with device",
-        "latest_crawl": 1609682684
+        "latest_crawl": 1610209122
     },
     {
         "id": "com.healthtap.userhtexpress",
         "store_country": "us",
         "store_lang": "us",
         "latest_crawled_version": "7.27.1",
-        "latest_crawl": 1609682995
+        "latest_crawl": 1610209133
     },
     {
         "id": "org.gundersenhealth.android.gund.gundersen",
         "store_country": "us",
         "store_lang": "us",
         "latest_crawled_version": "12.0.19.010_02",
-        "latest_crawl": 1609683126
+        "latest_crawl": 1610209134
     },
     {
         "id": "com.nemours.android.careconnect",
         "store_country": "us",
         "store_lang": "us",
         "latest_crawled_version": "12.0.16.005_01",
-        "latest_crawl": 1609683133
+        "latest_crawl": 1610209139
     },
     {
         "id": "com.americanwell.android.member.optum",
         "store_country": "us",
         "store_lang": "us",
         "latest_crawled_version": "12.0.16.005_01",
-        "latest_crawl": 1609683136
+        "latest_crawl": 1610209144
     },
     {
         "id": "com.americanwell.android.member.clevelandclinic",
         "store_country": "us",
         "store_lang": "us",
         "latest_crawled_version": "12.0.19.010_02",
-        "latest_crawl": 1609683146
+        "latest_crawl": 1610209147
     },
     {
         "id": "com.genesishealth.android.gens.carenow",
         "store_country": "us",
         "store_lang": "us",
         "latest_crawled_version": "12.0.19.010_02",
-        "latest_crawl": 1609683154
+        "latest_crawl": 1610209150
     },
     {
         "id": "com.mdlive.mobile",
         "store_country": "us",
         "store_lang": "us",
         "latest_crawled_version": "4.43.1",
-        "latest_crawl": 1609683163
+        "latest_crawl": 1610209154
     },
     {
         "id": "com.bronsonhealth.android.bron.videovisit",
@@ -319,42 +319,42 @@
         "store_country": "us",
         "store_lang": "us",
         "latest_crawled_version": "12.0.19.010_02",
-        "latest_crawl": 1609683174
+        "latest_crawl": 1610209156
     },
     {
         "id": "org.muhealth.android.umhs.videovisits",
         "store_country": "us",
         "store_lang": "us",
         "latest_crawled_version": "12.0.16.005_01",
-        "latest_crawl": 1609683178
+        "latest_crawl": 1610209158
     },
     {
         "id": "com.americanwell.android.member.wellpoint",
         "store_country": "us",
         "store_lang": "us",
         "latest_crawled_version": "12.0.19.010_02",
-        "latest_crawl": 1609683189
+        "latest_crawl": 1610209165
     },
     {
         "id": "com.ninety8point6.patientapp",
         "store_country": "us",
         "store_lang": "us",
         "latest_crawled_version": "2.41.1",
-        "latest_crawl": 1609683199
+        "latest_crawl": 1610209173
     },
     {
         "id": "com.humetrix.iBlueButton",
         "store_country": "us",
         "store_lang": "us",
         "latest_crawled_version": "8.2.0.164",
-        "latest_crawl": 1609683202
+        "latest_crawl": 1610209177
     },
     {
         "id": "org.pennstatehealth.android.pshh.ondemand",
         "store_country": "us",
         "store_lang": "us",
         "latest_crawled_version": "12.0.16.005_01",
-        "latest_crawl": 1609683207
+        "latest_crawl": 1610209179
     },
     {
         "id": "com.medable.axon.access",
@@ -366,14 +366,14 @@
         "store_country": "us",
         "store_lang": "us",
         "latest_crawled_version": "2.0.1",
-        "latest_crawl": 1609683216
+        "latest_crawl": 1610209196
     },
     {
         "id": "org.intermountainhealthcare.android.connectcare",
         "store_country": "us",
         "store_lang": "us",
         "latest_crawled_version": "12.0.16.005_01",
-        "latest_crawl": 1609683221
+        "latest_crawl": 1610209204
     },
     {
         "id": "com.paxerahealth.CoronaCare",
@@ -385,56 +385,56 @@
         "store_country": "us",
         "store_lang": "us",
         "latest_crawled_version": "12.0.16.005_01",
-        "latest_crawl": 1609683233
+        "latest_crawl": 1610209210
     },
     {
         "id": "org.baystatehealth.android.bays.bhconnect",
         "store_country": "us",
         "store_lang": "us",
         "latest_crawled_version": "12.0.16.005_01",
-        "latest_crawl": 1609683235
+        "latest_crawl": 1610209219
     },
     {
         "id": "net.baptisthealth.android.bhsf.careondemand",
         "store_country": "us",
         "store_lang": "us",
         "latest_crawled_version": "12.0.19.010_02",
-        "latest_crawl": 1609683238
+        "latest_crawl": 1610209225
     },
     {
         "id": "com.mend.android.telemedicine",
         "store_country": "us",
         "store_lang": "us",
         "latest_crawled_version": "2.97",
-        "latest_crawl": 1609683246
+        "latest_crawl": 1610209233
     },
     {
         "id": "com.citymd.android.city.citymd",
         "store_country": "us",
         "store_lang": "us",
         "latest_crawled_version": "12.0.16.005_01",
-        "latest_crawl": 1609683248
+        "latest_crawl": 1610209241
     },
     {
         "id": "com.therapeuticsmd.android.txmd.menochoice",
         "store_country": "us",
         "store_lang": "us",
         "latest_crawled_version": "11.5.7.000_00",
-        "latest_crawl": 1609683253
+        "latest_crawl": 1610209246
     },
     {
         "id": "org.partners.ondemandvideouc",
         "store_country": "us",
         "store_lang": "us",
         "latest_crawled_version": "1.8.0",
-        "latest_crawl": 1609683256
+        "latest_crawl": 1610209254
     },
     {
         "id": "com.getheal.patient",
         "store_country": "us",
         "store_lang": "us",
         "latest_crawled_version": "5.11.1",
-        "latest_crawl": 1609684127
+        "latest_crawl": 1610209258
     },
     {
         "id": "org.dignityhealth.appdev.myhome",
@@ -446,140 +446,140 @@
         "store_country": "us",
         "store_lang": "us",
         "latest_crawled_version": "12.0.16.005_01",
-        "latest_crawl": 1609684354
+        "latest_crawl": 1610209268
     },
     {
         "id": "org.nalc.android.hbp.telehealth",
         "store_country": "us",
         "store_lang": "us",
         "latest_crawled_version": "12.0.16.005_01",
-        "latest_crawl": 1609684359
+        "latest_crawl": 1610209277
     },
     {
         "id": "mo.gov.ias.rehab.app",
         "store_country": "us",
         "store_lang": "us",
         "latest_crawled_version": "1.0.3",
-        "latest_crawl": 1609684361
+        "latest_crawl": 1610209287
     },
     {
         "id": "org.horizonhealth.android.hzhsh.telehealth",
         "store_country": "us",
         "store_lang": "us",
         "latest_crawled_version": "12.0.16.005_01",
-        "latest_crawl": 1609684369
+        "latest_crawl": 1610209290
     },
     {
         "id": "org.pathcheck.covidsafepathsBt.mn",
         "store_country": "us",
         "store_lang": "us",
         "latest_crawled_version": "1.6.1",
-        "latest_crawl": 1609684529
+        "latest_crawl": 1610209292
     },
     {
         "id": "org.healthquest.android.hqst.healtheconnect",
         "store_country": "us",
         "store_lang": "us",
         "latest_crawled_version": "12.0.16.005_01",
-        "latest_crawl": 1609684565
+        "latest_crawl": 1610209299
     },
     {
         "id": "org.centura.android.cura.virtualvisit",
         "store_country": "us",
         "store_lang": "us",
         "latest_crawled_version": "12.0.9.000_00",
-        "latest_crawl": 1609684571
+        "latest_crawl": 1610209302
     },
     {
         "id": "org.ascension.android.ascn.onlinecare",
         "store_country": "us",
         "store_lang": "us",
         "latest_crawled_version": "12.0.19.010_02",
-        "latest_crawl": 1609684573
+        "latest_crawl": 1610209303
     },
     {
         "id": "com.baptisthealth.android.bark.virtualcare",
         "store_country": "us",
         "store_lang": "us",
         "latest_crawled_version": "12.0.16.005_01",
-        "latest_crawl": 1609684579
+        "latest_crawl": 1610209310
     },
     {
         "id": "com.iowaclinic.android.iowa.eclinic",
         "store_country": "us",
         "store_lang": "us",
         "latest_crawled_version": "12.0.16.005_01",
-        "latest_crawl": 1609684587
+        "latest_crawl": 1610209320
     },
     {
         "id": "gov.wa.doh.exposurenotifications",
         "store_country": "us",
         "store_lang": "us",
         "latest_crawled_version": "minted141008",
-        "latest_crawl": 1609684666
+        "latest_crawl": 1610209328
     },
     {
         "id": "com.bcbsla.android.bluecare",
         "store_country": "us",
         "store_lang": "us",
-        "latest_crawled_version": "12.0.16.005_01",
-        "latest_crawl": 1609684701
+        "latest_crawled_version": "12.0.19.010_02",
+        "latest_crawl": 1610209696
     },
     {
         "id": "com.childrenstx.android.virtualvisit",
         "store_country": "us",
         "store_lang": "us",
         "latest_crawled_version": "12.0.16.005_01",
-        "latest_crawl": 1609684708
+        "latest_crawl": 1610209812
     },
     {
         "id": "gov.ca.covid19.exposurenotifications",
         "store_country": "us",
         "store_lang": "us",
         "latest_crawled_version": "minted141007",
-        "latest_crawl": 1609684751
+        "latest_crawl": 1610209818
     },
     {
         "id": "com.suburbanhealth.android.sbho.myvirtualhealthvisit",
         "store_country": "us",
         "store_lang": "us",
         "latest_crawled_version": "12.0.16.005_01",
-        "latest_crawl": 1609684780
+        "latest_crawl": 1610209821
     },
     {
         "id": "org.phhealthcare.android.phhc.myhealthnow",
         "store_country": "us",
         "store_lang": "us",
         "latest_crawled_version": "12.0.16.005_01",
-        "latest_crawl": 1609684789
+        "latest_crawl": 1610209827
     },
     {
         "id": "com.onemedical.android",
         "store_country": "us",
         "store_lang": "us",
-        "latest_crawled_version": "3.16.13",
-        "latest_crawl": 1609684795
+        "latest_crawled_version": "3.16.14",
+        "latest_crawl": 1610210455
     },
     {
         "id": "org.unitypoint.android.upth.virtualcare",
         "store_country": "us",
         "store_lang": "us",
         "latest_crawled_version": "12.0.16.005_01",
-        "latest_crawl": 1609684800
+        "latest_crawl": 1610210618
     },
     {
         "id": "com.americanwell.android.member.avera",
         "store_country": "us",
         "store_lang": "us",
         "latest_crawled_version": "12.0.19.010_02",
-        "latest_crawl": 1609684803
+        "latest_crawl": 1610210623
     },
     {
         "id": "gov.wi.covid19.exposurenotifications",
         "store_country": "us",
         "store_lang": "us",
         "latest_crawled_version": "minted141008",
-        "latest_crawl": 1609684873
+        "latest_crawl": 1610210626
     },
     {
         "id": "com.twekl.khg",
@@ -590,7 +590,28 @@
         "id": "org.alohasafe.alert",
         "store_country": "us",
         "store_lang": "us",
-        "latest_crawled_version": "1.0.10",
-        "latest_crawl": 1609685521
+        "latest_crawled_version": "1.0.11",
+        "latest_crawl": 1610211230
+    },
+    {
+        "id": "io.ncats.cure",
+        "store_country": "us",
+        "store_lang": "us",
+        "latest_crawled_version": "3.3.6",
+        "latest_crawl": 1610211423
+    },
+    {
+        "id": "org.chifranciscan.android.chih.virtualcare",
+        "store_country": "us",
+        "store_lang": "us",
+        "latest_crawled_version": "12.0.16.005_01",
+        "latest_crawl": 1610211839
+    },
+    {
+        "id": "com.metroplus.android.mtpl.virtualvisit",
+        "store_country": "us",
+        "store_lang": "us",
+        "latest_crawled_version": "12.0.16.005_01",
+        "latest_crawl": 1610212328
     }
 ]

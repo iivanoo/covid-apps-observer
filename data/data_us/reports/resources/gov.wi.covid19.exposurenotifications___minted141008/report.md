@@ -126,6 +126,8 @@ The WI Exposure Notification app has been installed by more than **100000** time
 <img src="5_star_reviews_wordcloud.png" alt="gov.wi.covid19.exposurenotifications 5 reviews"/>
 </p>
 
+> It gave me accurate feedback.<br> :date: __2021-01-08 21:03:39__
+
 > Don't pay any attention to the ignorant Trump Hannity worshipers. This is a useful app that is intended to help protect you and others.<br> :date: __2021-01-01 01:08:54__
 
 > Took long enough<br> :date: __2020-12-31 14:12:35__
@@ -143,8 +145,6 @@ The WI Exposure Notification app has been installed by more than **100000** time
 > Installed easily, have not had any issues related to this app. Note this app does not track people or collect any personal data. Please encourage other Wisconsinites you may know to install this app. See Wisconsin's covid website for additional information.<br> :date: __2020-12-25 17:32:39__
 
 > Thank you guys for making this. The app is very lightweight. You do need to have your Bluetooth on. It does not track your location, only your proximity to other people that have the app, so it can notify you if you've been near someone with covid.<br> :date: __2020-12-25 09:25:28__
-
-> I love this App it helps let's me if someone else who has covid-19.<br> :date: __2020-12-25 05:30:05__
 
 
 
@@ -165,6 +165,8 @@ The WI Exposure Notification app has been installed by more than **100000** time
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="gov.wi.covid19.exposurenotifications 3 reviews"/>
 </p>
+
+> Great idea, but I have no idea what is or where to find a verification code<br> :date: __2021-01-04 01:13:24__
 
 > Haven't been notified that I have been exposed... so no way of knowing<br> :date: __2020-12-28 21:40:11__
 
@@ -192,6 +194,8 @@ No recent reviews available with 2 stars.
 <img src="1_star_reviews_wordcloud.png" alt="gov.wi.covid19.exposurenotifications 1 reviews"/>
 </p>
 
+> The app does not install at all. Please fix it so more people can use this tool to keep our state virus free.<br> :date: __2021-01-06 19:06:55__
+
 > Don't have any experience. Why are people so positive about this. This app just came out. No one can you really say what's going to happen. Here come the AI filled Dracos.<br> :date: __2021-01-01 00:48:41__
 
 > Evey news story says turn off Bluetooth because that is how people hack your phone. This turns on your Bluetooth forever all day.<br> :date: __2020-12-31 23:28:40__
@@ -209,7 +213,5 @@ No recent reviews available with 2 stars.
 > Fake/fraudulant developer contact email address. No response to concerns. I don't trust it.<br> :date: __2020-12-26 18:48:05__
 
 > Waste of time<br> :date: __2020-12-26 14:44:56__
-
-> You need to figure out a way to make this work without Bluetooth to waste battery life<br> :date: __2020-12-26 10:11:11__
 
 

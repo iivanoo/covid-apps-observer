@@ -215,6 +215,12 @@ The Amwell: Doctor Visits 24/7 app has been installed by more than **1000000** t
 <img src="5_star_reviews_wordcloud.png" alt="com.americanwell.android.member.amwell 5 reviews"/>
 </p>
 
+> Excellent Service Ever One Should Try It<br> :date: __2021-01-09 00:27:06__
+
+> It's great. Easy to use and the doctor was friendly.<br> :date: __2021-01-07 15:35:03__
+
+> Good afternoon my name is Reginald Brown I am a registered nurse and I had a video doctor visit today with my neurosurgeon dr.Doan here in Montgomery Alabama I'm pleased to say that the video appointment went very well I was able to hear clearly as well as seeing my doctor clearly as well as understanding him I would recommend this again due to the covid-19 pandemic that we are under this is the safe and secure way of protecting yourself as well as others as well thank you.💯😁<br> :date: __2021-01-05 22:58:40__
+
 > The visit was quick and to the point. He diagnosed my cellulitis due to an injury to my leg and called in a prescription to my drugstore. Much faster and easier as well as cheaper than an urgent care or ER visit. My insurance covered the entire cost of the visit.<br> :date: __2021-01-02 02:09:38__
 
 > Very good<br> :date: __2020-12-31 02:01:34__
@@ -228,12 +234,6 @@ The Amwell: Doctor Visits 24/7 app has been installed by more than **1000000** t
 > I have used these physicians twice now and they are very professional and helpful. They were able to figure out the problem and send in prescriptions to my pharmacy. I will use them more often for me and my family.<br> :date: __2020-12-29 16:37:34__
 
 > Easy to use. Doctor was really nice.<br> :date: __2020-12-27 06:39:01__
-
-> Quick easy effective!<br> :date: __2020-12-26 16:20:35__
-
-> Great<br> :date: __2020-12-25 13:48:06__
-
-> Every physician I have seen has been very thorough and helpful. I am so pleased with this app and I Highly recommend it for anyone who has an urgent care issue bc I have had 12 visits and the er would have been at least 10,000.00<br> :date: __2020-12-24 23:56:03__
 
 
 

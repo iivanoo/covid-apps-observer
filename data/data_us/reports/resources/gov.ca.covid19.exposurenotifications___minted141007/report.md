@@ -128,6 +128,16 @@ The CA Notify app has been installed by more than **500000** times. At this time
 <img src="5_star_reviews_wordcloud.png" alt="gov.ca.covid19.exposurenotifications 5 reviews"/>
 </p>
 
+> Fast and easy<br> :date: __2021-01-08 19:58:47__
+
+> Extremely stable. Well done.<br> :date: __2021-01-08 18:40:14__
+
+> Great thanks<br> :date: __2021-01-06 23:28:51__
+
+> Define<br> :date: __2021-01-06 07:59:05__
+
+> Keeps you up on the virus around you. Though a bit obtrusive it is valuable info to keep you safe from the covid virus.<br> :date: __2021-01-04 23:04:14__
+
 > Expose<br> :date: __2021-01-03 07:58:52__
 
 > I don't think this app deserves a low rating just because people are confused about what it does, or because not enough people are using it to yet. It will work better if more people use it!! Do your patriotic duty people! And stop giving it low ratings for petty nonsense reasons, please.<br> :date: __2021-01-02 21:01:10__
@@ -137,16 +147,6 @@ The CA Notify app has been installed by more than **500000** times. At this time
 > The only problem I have with this app is that this should have been available to us 1 year ago!!!<br> :date: __2021-01-02 10:52:40__
 
 > I check the site often.<br> :date: __2020-12-31 17:08:38__
-
-> Hello robertdowneyjr i am your turbo fan 😄<br> :date: __2020-12-31 05:47:05__
-
-> None<br> :date: __2020-12-31 04:38:42__
-
-> Simple, clean design, unobtrusive. Set it and forget it. All the app's queries are visible for any curious users. IDs are anonymized, good privacy, no risk. If you get a positive test result, use the app to anonymously report so that anyone that had been in proximity to you knows they should get tested too. This is a very easy tool to help end the pandemic.<br> :date: __2020-12-30 00:39:36__
-
-> Actually amazing privacy tech<br> :date: __2020-12-29 20:34:38__
-
-> Simple<br> :date: __2020-12-29 09:40:11__
 
 
 
@@ -184,6 +184,16 @@ The CA Notify app has been installed by more than **500000** times. At this time
 <img src="3_star_reviews_wordcloud.png" alt="gov.ca.covid19.exposurenotifications 3 reviews"/>
 </p>
 
+> Would be decent app if we could install on external drive.<br> :date: __2021-01-07 00:36:43__
+
+> Fortunately, I've not come in contact with anyone w/ COVID-19. So I can't rate it yet.<br> :date: __2021-01-06 07:50:42__
+
+> Just installed it<br> :date: __2021-01-05 06:26:37__
+
+> Can't get it to function properly<br> :date: __2021-01-05 03:49:07__
+
+> I got my code more than 12 hours before I got my test results and the code expires in 24 hours...<br> :date: __2021-01-03 21:13:56__
+
 > I just installed the app. I see no reason for my GPS to be on when I am at home. My plan is to turn on my phone's GPS when I am in a public place, like the supermarket. I will turn off the GPS when I get back in my car for the drive home. I am giving the app just 3 stars because it's forcing me to leave my Bluetooth on. But I often turn off my phone at night. I hope there's a setting to receive any notifications only during the day. I will have to check that out.<br> :date: __2021-01-03 11:27:22__
 
 > Not sure what this app is supposed to be doing but as long as it's the virus is not in my area I can live with it<br> :date: __2021-01-03 04:54:42__
@@ -194,16 +204,6 @@ The CA Notify app has been installed by more than **500000** times. At this time
 
 > It would be helpful if you gave one some kind of feedback about how well it is working. E.g. how many unique bluetooth connectors today? How many were to phones running the app? And how many positives.<br> :date: __2020-12-27 22:57:43__
 
-> Edit: I got a notification today. I could notify others, but the app doesnt let you know if the notification went through or not. Maybe this app works for others, but I tested positive for COVID-19 a few days ago, called the number that they suggested, and I still havent received a verification code to allow me to report my case to others. I like the idea of this app, but I have proof of a positive case, yet I still cannot report it to the app<br> :date: __2020-12-22 03:40:58__
-
-> Hard to rate cause it is dependent upon others downloading the app, keeping their bluetooth on and advising if they are diagnosed as having covid.<br> :date: __2020-12-20 21:51:05__
-
-> Three stars based on there's no way to know if it actually works as described. Docked two stars because all info leading up to the launch said no GPS necessary for it to work. When I checked the APP after installation, text plainly stated "Notification OFF; no notification until GPS Location turned on" (--paraphrasing) So I will see if there's any affect on battery life; if severe or annoying, may uninstall. Don't worry though; i never go anywhere!<br> :date: __2020-12-18 23:34:56__
-
-> App reports it used 0% battery however the system status showed bluetooth used 34% of the battery. That never happened prior to installing this app<br> :date: __2020-12-17 23:58:46__
-
-> Rated 3 stars for the following reasons. 1) This app assumes the person who tested positive will actually enter the code. 2) The person who tested positive is dumb enuph to not self quarantine and knowingly risk exposing others.<br> :date: __2020-12-13 10:26:26__
-
 
 
 #### 2-star reviews
@@ -212,13 +212,17 @@ The CA Notify app has been installed by more than **500000** times. At this time
 <img src="2_star_reviews_wordcloud.png" alt="gov.ca.covid19.exposurenotifications 2 reviews"/>
 </p>
 
+> There have been 4 or possibly 4 confirmed cases at my job site but no alerts.<br> :date: __2021-01-08 21:20:56__
+
+> So far tell me that I am not exposed, when the true it's the opposite, it's not accurate at all, my GPS is on at all times<br> :date: __2021-01-05 09:25:33__
+
+> This app needs the option to report if you have been near another user running this app but not tested positive so you can verify the app is actually doing something. Right now it just sits there and we "Assumbe" its working. I have decided to uninstall this app. It has no test mode to tell me it is even working, eats up excessive battery and it only notifies if you are near someone using this app that has shared that they have covid, and only if near you for 15 min. You can catch it in under 15<br> :date: __2021-01-05 02:58:08__
+
 > This app will only work if the people who download it actually report there positive results and share it. Not everyone will. It would of been nice if the test results from people would automatically be registered 🤔<br> :date: __2020-12-31 18:43:11__
 
 > Unlikely to work. Hasn't for me. I installed this app due to a prompt randomly. I configured it with full access to everything. A week later a breakout occured at work and positive tests resulted in some departments at my business. I got zero notifications at all. We find ourselves in the center of a venne diagram where the same people who are deniers and doubters who won't share on the app are crossing over the people who get sick most often.<br> :date: __2020-12-31 10:57:29__
 
 > The app is really good and that's why I gave you a two-star but I took away three stars and because no one's using the app and you need to have Corona results you put in it. It would need over a couple million people using it and giving their results. Sadly only 500k people are using it so far from here<br> :date: __2020-12-30 01:58:34__
-
-> This app needs the option to report if you have been near another user running this app but not tested positive so you can verify the app is actually doing something. Right now it just sits there and we "Assumbe" its working.<br> :date: __2020-12-25 15:29:26__
 
 > I'm not sure yet I'm not sure yet<br> :date: __2020-12-20 20:51:58__
 
@@ -228,10 +232,6 @@ The CA Notify app has been installed by more than **500000** times. At this time
 
 > I don't understand?<br> :date: __2020-12-15 07:38:41__
 
-> Battery Draining App. Had to charge my phone multiple times a day. Decided to uninstall app for above reason. Even though, I uninstalled app I keep getting notifications....asking me to install it again. I feel like it is invading my privacy and spamming me at this point. Avoid it. Do not recommend.<br> :date: __2020-12-15 02:07:09__
-
-> I have already downloaded the app but I keep getting the notification to downloaded the app. This is getting very annoying it makes me want to either uninstall or turn off the notifications which will defeat the purpose of this campaign. Please fix.<br> :date: __2020-12-14 21:15:19__
-
 
 
 #### 1-star reviews
@@ -240,24 +240,24 @@ The CA Notify app has been installed by more than **500000** times. At this time
 <img src="1_star_reviews_wordcloud.png" alt="gov.ca.covid19.exposurenotifications 1 reviews"/>
 </p>
 
-> Makes no sense with this app i have been exposed with people that there test was positive but never got any warning so What is the point with this app???????????<br> :date: __2021-01-03 08:25:33__
+> Garbage<br> :date: __2021-01-09 10:38:28__
 
-> I have 3 neighbors on my street with covid that i know of, this app is only good if you personally go on this site and say/type in that you tested postive for it<br> :date: __2021-01-03 01:52:07__
+> Garbage, hasn't notified me of anything and I know for a fact there were people with covid exposure.<br> :date: __2021-01-09 09:01:53__
 
-> My wife was exposed December 23rd, student at her school tested positive along with her hole family. They closed the school until January 11th, Just like Mom's.. So, I and my wife have been in infected area's. The app does not show we've been exposed. So what good is it. A waste of my phone space it might time but keep checking the stupid app the joke.<br> :date: __2021-01-02 15:00:13__
+> Will not send me a me code to upload my test results. The family nextdoor are all positive and this did not notify me at all.<br> :date: __2021-01-09 03:05:39__
 
-> Nopeskies<br> :date: __2021-01-01 05:08:20__
+> It does not work!!! My husband was diagnosed on the 31st of December. Today is January 8th and still no notification from the app. I live in the same house as him so how is it still saying no recent exposures after 8 days of exposure?<br> :date: __2021-01-08 20:42:29__
 
-> drove through an area that was a "hot zone" as reported on the local news but there was no data or alerts...<br> :date: __2021-01-01 04:16:49__
+> In my workplace, a lot of coworkers are dropping like flies with covid19 and this stupid app keeps telling me that no exposure near me has been reported. Who the hell is supposed to notify me? This app, or my coworkers themselves? This app works only if people that become positive, report their results. Do you think a person that comes down with this disease and is dying in the ICU is gonna worry about reporting their results????<br> :date: __2021-01-07 21:50:49__
 
-> It always says there's no covid exposure around me . It's very boring<br> :date: __2021-01-01 02:55:27__
+> There's no way to tell if anyone around you has the app, there's no map showing exposures or hot spots to avoid, generally appears useless.<br> :date: __2021-01-07 00:57:39__
 
-> Pointless waste of taxpayer money. Just a fake facade to make the sheeple feel safe while Gavin Newsom eats at French Laundry with no mask.<br> :date: __2020-12-31 22:32:50__
+> This app doesn't work. I went to drop off stuff at an apartment where I was notified that multiple people there have tested positive for covid. I even passed by someone (I was in my car) who tested positive and I didn't get any notifications on this app.<br> :date: __2021-01-07 00:01:33__
 
-> no one reports so there are no alerts!<br> :date: __2020-12-31 02:33:31__
+> In MY opinion, this app doesn't work! Reason being, my sister's dad tested positive and she was around him before and after he was diagnosed. When she checks to see if she's been exposed to the virus, it ALWAYS tell her she hasn't been exposed. I don't understand that at all.<br> :date: __2021-01-06 18:54:22__
 
-> Junk app that hogs battery and space from phone. That's about all it does. Don't bother installing it.<br> :date: __2020-12-29 08:47:18__
+> This seems to be a useless application, why it needs bluetooth I have no idea. Does it really works, can I setup a radius to know f someone is infected. If no one share their test results then no one know if there is anyone infected.<br> :date: __2021-01-06 09:17:13__
 
-> A\*\*holes!!!! Uninstalling till fixed, its f\*\*king up my phone and YOU cant track me if I cant use it, so fix it!!!!!!<br> :date: __2020-12-28 21:35:04__
+> Waste of resources<br> :date: __2021-01-06 02:51:58__
 
 

@@ -190,6 +190,10 @@ The Ascension Online Care – See a Doctor 24/7 app has been installed by more t
 <img src="5_star_reviews_wordcloud.png" alt="org.ascension.android.ascn.onlinecare 5 reviews"/>
 </p>
 
+> Great appt easy to use<br> :date: __2021-01-07 16:11:44__
+
+> Love it. Best idea especially if you got that kind of elderly parent who won't listen to you and is very stubborn lol, who needs to hear it from a professional to determine they're options.<br> :date: __2021-01-04 04:47:55__
+
 > We use the virtual appointments. But if you receive a phone call during the call the volume will drop to low to finish the appointment.<br> :date: __2020-12-29 19:44:54__
 
 > Great app fast reliable and convenient<br> :date: __2020-12-22 06:04:57__
@@ -206,10 +210,6 @@ The Ascension Online Care – See a Doctor 24/7 app has been installed by more t
 
 > I haven't used this app yet, because I just have open the app when I was in Lourdes Memorial Hospital as a patient there.<br> :date: __2020-12-11 16:13:31__
 
-> Great!!!<br> :date: __2020-12-10 22:49:26__
-
-> Edit: Used a second time and still am impressed! The Dr was very informative and very nice! He helped me with all my questions and I would totally use again.<br> :date: __2020-12-05 21:12:04__
-
 
 
 #### 4-star reviews
@@ -217,6 +217,8 @@ The Ascension Online Care – See a Doctor 24/7 app has been installed by more t
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="org.ascension.android.ascn.onlinecare 4 reviews"/>
 </p>
+
+> Extremely hard to get help with prescription medication if local pharmacy cannot obtain the drug. Customer service support number is 'no longer in service' when called.<br> :date: __2021-01-07 13:34:21__
 
 > Answering the same questions week after week is annoying. Covid questions for Virtual Visits?? Seriously??!! People have a .02% of catching it and an even lesser % of it being deadly. Do you really think it's gonna transfer thru a phone? js<br> :date: __2020-12-17 19:00:55__
 
@@ -235,8 +237,6 @@ The Ascension Online Care – See a Doctor 24/7 app has been installed by more t
 > Great! Except it was a little choppy. could have been my end.<br> :date: __2020-08-20 21:55:44__
 
 > I would give 5 stars but for getting timed out 3 times while entering information. Otherwise this was fantastic. The doctor I spoke with was kind, efficient, and patient.<br> :date: __2020-08-17 19:10:10__
-
-> It was difficult to hear my dr.<br> :date: __2020-07-21 22:48:48__
 
 
 

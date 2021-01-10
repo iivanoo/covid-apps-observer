@@ -166,6 +166,12 @@ The Coronika - Dein Corona Kontakttagebuch app has been installed by more than *
 <img src="5_star_reviews_wordcloud.png" alt="de.kreativzirkel.coronika 5 reviews"/>
 </p>
 
+> War jetzt eine ganze Weile super, die Version 2.0.0 ist aber ein Rückschritt : - Telefonnummer als Pflichtfeld - Uhrzeiteingabe nun viel umständlicher; der alte Selektor bediente sich viel schneller<br> :date: __2021-01-08 18:29:44__
+
+> Ist es möglich seine Einträge auf ein anderes Handy zu exportieren?<br> :date: __2021-01-08 16:57:03__
+
+> Es wäre noch toll ein und denselben Ort mehrfach am Tag angeben zu können, mit unterschiedlichen Zeiten, sowie Personen einem Ort zuzuordnen. Ansonsten spitze. Man kann dadurch auch sehr einfach ermitteln, wo eine Risikobegegnung stattgefunden hat. Ich hoffe trotzdem, dass ich die Exportfunktion nie brauchen werde.😃<br> :date: __2021-01-07 17:25:05__
+
 > Simpel zu bedienen. Mit wenig manuellen aufwand kann man somit ein kontakttagebuch führen<br> :date: __2020-12-28 10:37:23__
 
 > Empfehlenswert, leicht zu nutzen. Danke!<br> :date: __2020-12-26 20:15:06__
@@ -180,12 +186,6 @@ The Coronika - Dein Corona Kontakttagebuch app has been installed by more than *
 
 > Es ist wirklich einfach zu bedienen und man muss keine Zugriffsberechtigungen geben (kann man aber). - Ohne Zugriffsberechtigungen schreibt man Namen selbst rein - mit Zugriffsberechtigungen kann man Kontakte auswählen und zusätzlich selbst reinschreiben Easy Bleibt gesund ........ Update: Seit Update 2.0.3 beendet sich die App selbstständig sobald man auf "Übersicht" klickt. Könnt Ihr Entwickler da mal nachsehen? Schöne Feiertage und einen guten Rutsch...<br> :date: __2020-12-23 14:52:38__
 
-> Mit der Zusammenlegung von Ort/Zeit UND Person(en) nun sehr flüssig zu erfassen und übersichtlich. Danke fürs Update und Bravo dem Entwicklerteam!<br> :date: __2020-12-22 21:33:07__
-
-> Die neue Version ist viel besser, weil man mehr Info zur Begegnung dokumentieren kann.<br> :date: __2020-12-21 08:18:53__
-
-> Ich nutze die App schon länger und bin sehr zufrieden. Die Funktionserweiterungen des Updates begrüße ich. Beim Neuanlegen von Personen musste ich nun Telefonnummer und e-mail Adresse zwingend eingeben, habe diese aber nicht von allen Personen! Die Uhrzeiteingabe über die Uhr ging einfacher als nun über die Scroll-Räder. Update: Danke an die Entwickler! Beim neuesten Update wurden diese Hinweise berücksichtigt. Dafür 5 Sterne!<br> :date: __2020-12-20 23:02:22__
-
 
 
 #### 4-star reviews
@@ -196,11 +196,7 @@ The Coronika - Dein Corona Kontakttagebuch app has been installed by more than *
 
 > Die App ist bis auf die wichtige Export-Funtkion wirklich toll! Ein Mitarbeiter beim Gesundheitsamt sagte mir, dass er die Informationen, die man in der App angibt (gelüftet, Abstand, Maske etc.), gut hätte gebrauchen können, um individuelle Quarantäne Maßnahmen anzuordnen. Ich fände es daher super, wenn das auch im Export angegeben werden würde. Man müsste dann wahrscheinlich jede Begegnung einzeln abbilden (ähnlich wie es bei der Export-Funktion der Corona-Warn-App der Fall ist).<br> :date: __2021-01-02 20:39:15__
 
-> Falls ich das Datum einer Begegnung falsch erfasst habe, kann ich nur die Details, aber nicht das Datum ändern oder in der Übersicht verschieben. Wie kann ich wiederkehrende Begegnungen schneller erfassen, würde Tipparbeit sparen. Kann ich kopieren? Wie kann ich einen detaillierten Export erstellen ? Ich bekomme zZ nur eine Liste aller Orte und darunter die aller Personen ohne Datum u andere Details und vor allem ohne Zuordnung Personen zu Ort.<br> :date: __2021-01-01 12:49:20__
-
 > nach dem Update ist es schwerer fernere Bekannte etc. (zB Postbote) einzutragen, da jetzt eine Telefonnummer ein Pflichteintrag ist... edit: korrigiert, da mit update behoben<br> :date: __2020-12-23 20:15:27__
-
-> War jetzt eine ganze Weile super, die Version 2.0.0 ist aber ein Rückschritt : - Telefonnummer als Pflichtfeld - Uhrzeiteingabe nun viel umständlicher; der alte Selektor bediente sich viel schneller<br> :date: __2020-12-20 11:11:26__
 
 > Die App gefällt mir. Leider kann ich seit dem letzten Update keine neuen Personen anlegen. Der Speicher-Button fehlt.<br> :date: __2020-12-20 00:50:37__
 
@@ -214,6 +210,10 @@ The Coronika - Dein Corona Kontakttagebuch app has been installed by more than *
 
 > Schon sehr gut! Es wäre allerdings cool, wenn sich auch der Exportzeitraum anpassen lassen würde. Dann könnte ich die App nämlich auch für das Kontakttagebuch meiner Tochter für die Tagesbetreuung nutzen. Dort müssen alle zwei Tage die Kontakte der letzten 48 Stunden angegeben werden. Wäre der Zeitraum einstellbar, gäbe es von mir 5 Sterne<br> :date: __2020-11-18 03:20:14__
 
+> gut das es das gibt = 5sterne!! keine datenuebernahme aus dem adressbuch = 2sterne -. datenvorhalt 14 tage, klasse = +1stern.<br> :date: __2020-11-14 21:07:39__
+
+> Super Idee und schon ziemlich gut umgesetzt :-) Feature Request: Ein paar Funktionen wären noch super: Vermisse dass ich eintragen kann wie lange und wo ich Personen getroffen habe (draußen/drinnen, <15min/>15min/>30min, Ort, mit /ohne Maske), beim Ort zb einfach angelegte Orte auswählen wo ich die Person getroffen habe, die hängen dann als Ort im Tag und an der Person. Das wäre super!<br> :date: __2020-11-13 12:47:32__
+
 
 
 #### 3-star reviews
@@ -221,6 +221,8 @@ The Coronika - Dein Corona Kontakttagebuch app has been installed by more than *
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="de.kreativzirkel.coronika 3 reviews"/>
 </p>
+
+> Wie kann ich einen detaillierten Export erstellen ? Ich bekomme zZ nur eine Liste aller Orte und darunter die aller Personen ohne Datum, ohne die Details (Uhrzeit, Masken, drinnen/draußen) und vor allem ohne Zuordnung Personen zu Ort und Zeit. Falls ich das Datum einer Begegnung falsch erfasst habe, kann ich nur Details, aber nicht das Datum ändern oder in der Übersicht verschieben. Wie kann ich wiederkehrende Begegnungen schneller erfassen, würde Tipparbeit sparen. Kann ich kopieren?<br> :date: __2021-01-07 10:45:02__
 
 > Seit dem Update ist es mir auch zu umständlich geworden. Zuvor die getroffenen Personen an einem Tag mit wenigen Klicks erfassen war gut. Jetzt dauert es ewig, ich benötige genaue Zeitangaben, etc. Schade, werde nach einer Alternative suchen, da ich das Prinzip durchaus sinnvoll finde.<br> :date: __2020-12-30 19:35:52__
 
@@ -239,8 +241,6 @@ The Coronika - Dein Corona Kontakttagebuch app has been installed by more than *
 > Mit dem letzten Update muss ich leider meine gute Bewertung abwerten. Eine schnelle Eingabe ist nicht mehr möglich und wurde nur unnötig aufgebläht. Auch bri Personen gibt es jetzt Pflichtfelder die nicht immer vorliegen. Sorry das war leider eine Verschlimmbesserung eines an sich tollen Programms. Wichtiger wäre imo in der Ausgabe bei den Personen das Datum wie bei den Orten gewesen.<br> :date: __2020-12-19 04:41:58__
 
 > Schade, die App war gut, weil sie einfach war. Man musste zwar zum Hinzufügen manchen Klick unnötig machen, aber es ging noch. Nach dem neuesten Update ist sie viel zu umständlich geworden. Wenn ich Personen eintrage, dann weiß ich warum, wann u. wo. Dies jetzt auch noch zu erfassen ist unnötig. Regelmäßiges Eintragen nehmen wir Menschen nur vor, wenn es vor allem einfach u. schnell zu erledigen ist. Das ist mit dem letzten Update Geschichte. Schade. 3 Sterne für die Idee an sich. Deinstalliert<br> :date: __2020-12-18 23:00:21__
-
-> Mit dem letzten Update ist die Bedienung umständlicher geworden. Schade.<br> :date: __2020-12-18 19:11:39__
 
 
 

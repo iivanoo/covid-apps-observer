@@ -4,49 +4,49 @@
         "store_country": "ca",
         "store_lang": "en",
         "latest_crawled_version": "1.28.0",
-        "latest_crawl": 1609688563
+        "latest_crawl": 1610216882
     },
     {
         "id": "ca.albertahealthservices.contacttracing",
         "store_country": "ca",
         "store_lang": "en",
         "latest_crawled_version": "1.5.0",
-        "latest_crawl": 1609688574
+        "latest_crawl": 1610216889
     },
     {
         "id": "ca.gc.hcsc.canada.covid19",
         "store_country": "ca",
         "store_lang": "en",
         "latest_crawled_version": "5.2.0",
-        "latest_crawl": 1609688578
+        "latest_crawl": 1610216894
     },
     {
         "id": "org.who.infoapp",
         "store_country": "ca",
         "store_lang": "en",
         "latest_crawled_version": "4.0.1",
-        "latest_crawl": 1609688579
+        "latest_crawl": 1610216895
     },
     {
         "id": "de.xikolo.openwho",
         "store_country": "ca",
         "store_lang": "en",
         "latest_crawled_version": "3.7",
-        "latest_crawl": 1609688585
+        "latest_crawl": 1610216897
     },
     {
         "id": "ca.gc.hcsc.canada.stopcovid",
         "store_country": "ca",
         "store_lang": "en",
-        "latest_crawled_version": "1.1.5",
-        "latest_crawl": 1609688586
+        "latest_crawled_version": "1.1.6",
+        "latest_crawl": 1610217030
     },
     {
         "id": "com.identos.nav.niagara",
         "store_country": "ca",
         "store_lang": "en",
         "latest_crawled_version": "1.1.8",
-        "latest_crawl": 1609688595
+        "latest_crawl": 1610217090
     },
     {
         "id": "org.caresptogo.covid_19tg",
@@ -58,41 +58,41 @@
         "store_country": "ca",
         "store_lang": "en",
         "latest_crawled_version": "v0.4.38",
-        "latest_crawl": 1609688609
+        "latest_crawl": 1610217101
     },
     {
         "id": "com.flsida.covidapp",
         "store_country": "ca",
         "store_lang": "en",
         "latest_crawled_version": "2.0.32",
-        "latest_crawl": 1609688609
+        "latest_crawl": 1610217108
     },
     {
         "id": "ca.albertahealthservices.bugsanddrugs2",
         "store_country": "ca",
         "store_lang": "en",
         "latest_crawled_version": "2.5.104",
-        "latest_crawl": 1609688610
+        "latest_crawl": 1610217116
     },
     {
         "id": "rs.nosolutions.lumeca",
         "store_country": "ca",
         "store_lang": "en",
         "latest_crawled_version": "2.0 (97)",
-        "latest_crawl": 1609688618
+        "latest_crawl": 1610217125
     },
     {
         "id": "com.camh.covid19_managing_stress",
         "store_country": "ca",
         "store_lang": "en",
         "latest_crawled_version": "1.1.1",
-        "latest_crawl": 1609688624
+        "latest_crawl": 1610217127
     },
     {
         "id": "com.mostrarium.sjd",
         "store_country": "ca",
         "store_lang": "en",
         "latest_crawled_version": "1.0.0-34",
-        "latest_crawl": 1609688624
+        "latest_crawl": 1610217135
     }
 ]

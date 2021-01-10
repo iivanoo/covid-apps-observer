@@ -121,6 +121,10 @@ The Covid Trace Nevada app has been installed by more than **50000** times. At t
 <img src="5_star_reviews_wordcloud.png" alt="gov.nv.dhhs.en 5 reviews"/>
 </p>
 
+> So far, not a problem.<br> :date: __2021-01-09 07:05:36__
+
+> Yayyy am NEGATIVE<br> :date: __2021-01-06 05:55:39__
+
 > Good morning, is good for me to protect myself. Thank you<br> :date: __2020-12-24 09:27:50__
 
 > I love the idea. It doesn't interfere with anything on my device, either.<br> :date: __2020-12-19 19:47:28__
@@ -136,10 +140,6 @@ The Covid Trace Nevada app has been installed by more than **50000** times. At t
 > Cool<br> :date: __2020-11-18 08:06:02__
 
 > Works as it should for moto g5 plus. Glad the investment was made for this<br> :date: __2020-11-11 00:26:27__
-
-> Always updates when open, no issues.<br> :date: __2020-11-06 06:12:51__
-
-> We need everyone to get this to beat Covid.<br> :date: __2020-10-31 09:29:23__
 
 
 
@@ -163,6 +163,8 @@ The Covid Trace Nevada app has been installed by more than **50000** times. At t
 <img src="3_star_reviews_wordcloud.png" alt="gov.nv.dhhs.en 3 reviews"/>
 </p>
 
+> I wanted to alert people about possible exposure to Covid as soon as I recieved my positive results but was unable to due to the verification code requirement. I called all over the place and sent out emails and got no closer ro alerting people until 6 days after my positive test when the Washoe County Health department called for contact tracing and gave me the code. So it appears that the app works but you probably won't be notified about exposures for about a week after someone tests positive<br> :date: __2021-01-06 19:15:25__
+
 > Love this app<br> :date: __2020-12-07 12:52:21__
 
 > Kind of a pointless app when after your test positive literally no one that contacts you knows the code necessary to self report.<br> :date: __2020-11-28 05:05:47__
@@ -180,8 +182,6 @@ The Covid Trace Nevada app has been installed by more than **50000** times. At t
 > Requires having Bluetooth on at all times which drains my battery. It also keeps giving me drop down notifications even though I disabled notifications. I have an android.<br> :date: __2020-10-22 17:34:36__
 
 > No exp. yet- just wondering- if u really want to PREVENT the spread of covid, wouldn't it be better to come up with an app that tracks actual outbreaks/cases, then alert ppl? Or, if I'm going into a high risk area. Let me kno? I'm pretty much buggered if I've already been exposed. Jus sayin<br> :date: __2020-10-14 05:27:02__
-
-> the only reason im downloading this is because it wont let me download some other games<br> :date: __2020-10-02 23:20:13__
 
 
 
@@ -219,7 +219,7 @@ The Covid Trace Nevada app has been installed by more than **50000** times. At t
 <img src="1_star_reviews_wordcloud.png" alt="gov.nv.dhhs.en 1 reviews"/>
 </p>
 
-> I've had this app on my phone for months hoping that it was a helpful tool to alert people to possible exposures but now I see there is a serious problem with it. I tested positive for Covid-19 today and thought I might be able to help people out by letting them know they may have been exposed but unfortunately it asks for a "verification code" that is nowhere to be found on my test results. Having no idea where to get the code I can't even notify people. Potential to slow the spread wasted.<br> :date: __2021-01-01 06:05:07__
+> I thought this app would help keep me and my family safe. It was a lie. I hate you Google because now my grandmother is dying from Covid-19 and you never alerted any of us about exposure to anyone! How many alerts did you even send out? Let's see them change your name from Google to grandmother and grandpa killer<br> :date: __2021-01-06 08:18:41__
 
 > User cannot report a positive result without a magic code that nobody can find. Useless.<br> :date: __2020-12-30 19:28:55__
 

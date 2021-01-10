@@ -137,6 +137,8 @@ The COVIDaware MN app has been installed by more than **100000** times. At this 
 <img src="5_star_reviews_wordcloud.png" alt="org.pathcheck.covidsafepathsBt.mn 5 reviews"/>
 </p>
 
+> I put it on my phone<br> :date: __2021-01-04 01:10:39__
+
 > Technology is awesome! Needs some further development but I doubt there's money there.<br> :date: __2020-12-31 02:03:56__
 
 > If you are worried about "Big Brother" then uninstall Facebook...that's the prob app.<br> :date: __2020-12-23 22:13:00__
@@ -154,8 +156,6 @@ The COVIDaware MN app has been installed by more than **100000** times. At this 
 > Works well on my Pixel. Did not ask me for permissions, as expected.<br> :date: __2020-12-12 15:59:34__
 
 > Easy to setup and does exactly what it says it will do. It uses bluetooth for contacting other phones so you will need bluetooth on.<br> :date: __2020-12-12 03:46:12__
-
-> thank you mn government :)<br> :date: __2020-12-10 17:02:36__
 
 
 
@@ -193,6 +193,8 @@ The COVIDaware MN app has been installed by more than **100000** times. At this 
 <img src="3_star_reviews_wordcloud.png" alt="org.pathcheck.covidsafepathsBt.mn 3 reviews"/>
 </p>
 
+> Virus control<br> :date: __2021-01-08 00:06:45__
+
 > So far, I can't tell, but tomorrow I go to hospital. I expect it will go off like crazy there. Not sure what the range is...6'? 20'? For airborne virus, 6' is no where near enough distance. I surmized that in January 2020, based on YouTube reports of medical analyst Dr. John Campbell. Check his channel out.<br> :date: __2020-12-29 19:44:24__
 
 > Seems like a great idea, but the makers didn't think about this fully before releasing it. It sends a push notification everytime it checks to see if your exposed, without any way of changing it to only alert if potentially exposed. It just went off at 01:30 (in the morning) and all it was doing was checking, which isn't cool. Also, you actually have to add your test results, so someone who's positive still might be considered negative on the app. I'd give 5 stars otherwise.<br> :date: __2020-12-27 08:36:33__
@@ -210,8 +212,6 @@ The COVIDaware MN app has been installed by more than **100000** times. At this 
 > Really you're putting out an app with no dark mode? Have you not paid attention to any other applications or operating system pushes and updates? I love staring into a flashlight.<br> :date: __2020-12-12 23:05:07__
 
 > I'm not sure that this app is really doing anything useful. The way it's set up is completely voluntary. So even if a user has Covid-19, they don't actually have to record it. And what about the people who don't download the app and use it? I'm not convinced that this app is accomplishing it's intended purpose.<br> :date: __2020-12-12 14:19:09__
-
-> I wish there was a way to effectively use it and not have bluetooth on 24/7.<br> :date: __2020-12-06 08:54:01__
 
 
 
@@ -249,6 +249,10 @@ The COVIDaware MN app has been installed by more than **100000** times. At this 
 <img src="1_star_reviews_wordcloud.png" alt="org.pathcheck.covidsafepathsBt.mn 1 reviews"/>
 </p>
 
+> Does not work. My whole family downloaded this app. I saw my in-laws about two weeks before Christmas for about 30 minutes. A few days later my mother in law tested positive for COVID, then my father in law did too. They both reported it in the app. Of course I did not need the app to tell me I was exposed, but I had a known exposure and spent time within about 10 feet of my in laws (with a mask on), and I did not receive any notification from the app that I had been exposed. Ineffective.<br> :date: __2021-01-04 23:49:20__
+
+> MHD takes forever to respond for you to get a code. Becomes unless after a week of quarantine then they call you and the reps don't understand what app your taking about.<br> :date: __2021-01-04 17:14:46__
+
 > Good idea, but,,,<br> :date: __2021-01-02 03:37:01__
 
 > Hell on earth Experience I was in a state which was caused by the second one I saw a new computer screen for me I have written about how I have an inner computer screen that I can it was black with different words around the edge I didn't heard a loud computer sound it sounded like a reboot then I heard a very far away computer sound that was not connected to my body and I couldn't hear a couple of seconds so I opened my eyes are blinking but it was the same we have not lost power when I close m<br> :date: __2020-12-29 20:19:58__
@@ -264,9 +268,5 @@ The COVIDaware MN app has been installed by more than **100000** times. At this 
 > I have never seen a notification that I have come in contact with anything COVID and I work at the second largest retailer in the world. I also think your site is purposely Grey when it comes to asking questions.<br> :date: __2020-12-24 06:52:11__
 
 > Shortly after installing the app, I tested positive for Covid. I tried to alert the app but it asks for a verification code. No code to be found anywhere. No help available. This app is worthless.<br> :date: __2020-12-23 19:12:13__
-
-> Mr Stark... I don't feel so good.....<br> :date: __2020-12-21 19:42:15__
-
-> I find it pretty sad the local governments will try to alert you to carriers of a rapidly spreading virus as opposed to known sex offenders and child predators. If only registered offenders had been forced to get an app like this and have location on so anyone within 30ft can be notified instantly of a predator.<br> :date: __2020-12-20 18:35:25__
 
 

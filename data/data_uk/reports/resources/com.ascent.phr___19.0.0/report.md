@@ -192,6 +192,12 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 <img src="5_star_reviews_wordcloud.png" alt="com.ascent.phr 5 reviews"/>
 </p>
 
+> excellent app<br> :date: __2021-01-09 10:10:24__
+
+> much better after they rewrote the app<br> :date: __2021-01-06 10:51:49__
+
+> very easy to operate. It's saves time for patients.<br> :date: __2021-01-05 10:20:11__
+
 > Easy to use<br> :date: __2021-01-03 07:58:48__
 
 > Excellent, no hassle with telephone calls.<br> :date: __2021-01-02 08:35:04__
@@ -205,12 +211,6 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 > very easy use and convenient<br> :date: __2020-12-24 10:34:51__
 
 > Works as should no problems<br> :date: __2020-12-23 15:20:17__
-
-> good<br> :date: __2020-12-22 18:48:11__
-
-> Simple to use love it<br> :date: __2020-12-22 16:19:52__
-
-> Great app linked to my gp. so much info and hassle.free ordering a repeat prescription<br> :date: __2020-12-19 14:28:57__
 
 
 
@@ -248,6 +248,14 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 <img src="3_star_reviews_wordcloud.png" alt="com.ascent.phr 3 reviews"/>
 </p>
 
+> Not a bad app. a bit glitchy but OK.<br> :date: __2021-01-07 23:23:33__
+
+> Even after making a note of my password, it still told me it was wrong. The last few times I've logged in I've had to set up a new one. Not the best app in the world<br> :date: __2021-01-06 13:50:24__
+
+> good app but was simpler to use in earlier versions; a bit cumbersome UI, the most popular shortcuts (e.g. repeat prescription) are not immediately obvious.<br> :date: __2021-01-05 18:34:24__
+
+> every so often I have problems logging in but on the whole its good<br> :date: __2021-01-04 11:04:40__
+
 > It should be more simple than it is. Asking many confidential questions and information.???<br> :date: __2021-01-02 22:45:40__
 
 > Works but confusing and sprawling<br> :date: __2020-12-28 10:56:23__
@@ -260,14 +268,6 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 
 > not as good as it could be ,why no way of uploading documents other than pictures and why not visible to members of the surgery by default?<br> :date: __2020-12-02 13:30:55__
 
-> when I try to make an appointment it just says no appointments available — always. Prescription ordering works fine.<br> :date: __2020-11-29 18:28:27__
-
-> not easy for seniors to use.<br> :date: __2020-11-29 17:46:23__
-
-> when I want my prescription delivered,only comes up with only one pharmacy which I dont want to use,l prefer to use my local one<br> :date: __2020-11-26 09:31:51__
-
-> takes too long to find page to order repeats.<br> :date: __2020-11-23 18:00:18__
-
 
 
 #### 2-star reviews
@@ -275,6 +275,8 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="com.ascent.phr 2 reviews"/>
 </p>
+
+> only for ordering prescription nothing else works<br> :date: __2021-01-05 20:39:32__
 
 > takes ages to load<br> :date: __2021-01-01 17:03:50__
 
@@ -294,8 +296,6 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 
 > biometric logon does not work, and last whole would not order my prescription<br> :date: __2020-11-22 12:22:00__
 
-> Prescription function issues when trying to order. Galaxy S10. Used to work fine, now all but useless to me.<br> :date: __2020-11-08 15:03:43__
-
 
 
 #### 1-star reviews
@@ -303,6 +303,12 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="com.ascent.phr 1 reviews"/>
 </p>
+
+> Was good at first but now seems more concerned with getting you to fill in stupid health questions than keeping it simple to follow. Always takes me a while to find out where I order repeat prescriptions.<br> :date: __2021-01-07 18:59:10__
+
+> Support staff are wonderful, patient but latest app is not easy to navigate & when I finally manage to find where to order medications, I get repeated notifications about the message box having 'special characters' even when it's blank. Seriously, I've wasted hours on different days reloading the app, try typing a sentence or removing it. I've only a few days of meds left. I've tried again, done exactly the same & got error notification & leaving then coming back, it's accepted! Bizarre<br> :date: __2021-01-07 14:48:17__
+
+> Just got worse, all I want is to access the GP services, I don't want any of the other bloat! The latest update has turned documents from the doctors into a html link! Now I have no way of saving a PDF copy which was the feature I used the most. It hasn't fixed the size problem, trying to print to PDF gives 13 pages for a few page document, not even changing the paper size to A2 works! Definitely on my list to change services to an alternative access method.<br> :date: __2021-01-04 12:30:50__
 
 > Sends too many notifications about irrelevant subjects<br> :date: __2020-12-17 12:11:27__
 
@@ -317,11 +323,5 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 > Currently not recognising the biometric login. I change login via password which worked, but now I can't use GP services to order my repeat prescription, just see a continuous evergreen logo which I presume means it's trying to connect.<br> :date: __2020-12-08 10:12:22__
 
 > Unstable keeps telling me to log on when I already am keeps crashing<br> :date: __2020-12-07 21:24:34__
-
-> the worst app I have on my phone. I only have it to enable me to order repeat prescriptions and this is 10times more effort than another app our gp previously supported. in short its rubbish.<br> :date: __2020-12-05 09:59:45__
-
-> Not the best<br> :date: __2020-11-26 19:48:37__
-
-> don't look at the comments part. sends permissions to wrong place.<br> :date: __2020-11-22 10:43:26__
 
 

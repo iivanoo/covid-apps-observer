@@ -159,6 +159,8 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 <img src="4_star_reviews_wordcloud.png" alt="de.bssd.covid19 4 reviews"/>
 </p>
 
+> Schöne apps<br> :date: __2021-01-05 08:15:46__
+
 > Die Ergebnisübermittlung hat ganz gut und schnell funktioniert. Kleine Kritikpunkte: Ich fände es toll, wenn noch ein Datum dabei stehen könnte. Auch war ein kleiner Teil des Textes außerhalb des grünen Punktes und ließ sich als weißer Text auf weißem Grund nicht vollständig lesen.<br> :date: __2020-10-15 08:45:39__
 
 > Toll.<br> :date: __2020-09-27 05:56:25__
@@ -176,8 +178,6 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 > App funktioniert, Push nicht so sehr...<br> :date: __2020-08-05 07:20:24__
 
 > Eigendlich gut. Testergebnis war ,mit dem verbesserten scanner, nach 2 tagen da. Das schriftliche Ergebnis nach 4 tagen. Nur die Benachrichtigung der App kam dann nach einer Woche. Das ist dann schon komisch.<br> :date: __2020-07-07 09:22:03__
-
-> Binnen weniger als 24h war das Ergebnis da. Kreis Gütersloh zentrale Teststelle. Allerdings ist mir unklar, wie man den Nachweis erbringen kann: Der Name steht nicht dabei.<br> :date: __2020-07-01 09:13:44__
 
 
 
@@ -243,6 +243,14 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 <img src="1_star_reviews_wordcloud.png" alt="de.bssd.covid19 1 reviews"/>
 </p>
 
+> Nach klick auf die App geht Startbild auf und schließt sofort wieder. Hatte gestern großes Android 11 Update. Ob es damit zusammen hängt?<br> :date: __2021-01-09 17:00:43__
+
+> App zeigt kurz Startbild und endet sofort wieder! Mehrfach deinstalliert und neu installiert.<br> :date: __2021-01-08 14:38:50__
+
+> QR scannt nicht. Dadurch ist keine Anmeldung möglich. Unnötige App<br> :date: __2021-01-05 13:20:02__
+
+> Funktionierte leider nicht. QR Code wurde nicht gescannt<br> :date: __2021-01-05 05:33:13__
+
 > Die App zeigt auch 2 Wochen nach Test an dass das Ergebnis nicht vorliegt. Der online Zugang vom Labor hatte das Ergebnis schon zwei Tage später zur Verfügung gestellt.<br> :date: __2021-01-02 10:54:33__
 
 > Scanfunktion wird nicht aktiviert - daher unbrauchbar!<br> :date: __2020-12-26 14:37:13__
@@ -254,13 +262,5 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 > Diese App ist absolut unbrauchbar. Ein Scannen des QR-Code ist nicht möglich. Manuelle Eingabe nur über Umwege möglich. Ich habe meine Ergebnis seit 3 Tagen und die App zeigt immernoch an, dass knoch kein Ergebnis vorliegt. Wie kann man guten Gewissens solch einen Mist veröffentlichen und dann auch noch monatelang nicht weiter entwickeln.<br> :date: __2020-12-21 20:46:12__
 
 > Funktioniert nicht<br> :date: __2020-12-19 18:00:29__
-
-> Funktioniert einfach nicht. Egal, ob als Scan oder per Handeingabe. Schade.<br> :date: __2020-12-19 15:45:23__
-
-> Titelbild ist auf meinem OnePlus 8 Pro kurz zu sehen, dann schließt sich die App wieder von selbst. App-Cache zu löschen brachte keine Hilfe. Auf dem Huawei P20 läuft die App, dort muss jedoch der Code von Hand abgetippt werden. Der Scanner funktioniert nicht und schaltet die Kamera nicht an.<br> :date: __2020-12-19 10:29:47__
-
-> Diese App ist vollkommen unbrauchbar. Sie scannt den QR-Code nicht. Auch mit einem externen QR-Code-Scanner lässt sich der Code nicht in die App einlesen. Ich konnte den Code nur mit dem externen Scanner auslesen und per Copy and Paste einfügen. Für ein sicheres manuelles Einfügen viel zu klein gedruckt. Das Ergebnis liegt bereits zwei Tage beim Arzt vor (von dem ich auch nicht informiert wurde) aber die App zeigt noch immer an, dass es noch kein Ergebnis gebe... Super für meine Risikopatienten!<br> :date: __2020-12-18 13:32:08__
-
-> Schrott mehr braucht man nicht schreiben 1 Stern ist noch zu viel<br> :date: __2020-12-18 12:52:29__
 
 

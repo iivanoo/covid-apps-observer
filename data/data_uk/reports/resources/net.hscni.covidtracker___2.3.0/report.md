@@ -150,6 +150,12 @@ The StopCOVID NI app has been installed by more than **100000** times. At this t
 <img src="5_star_reviews_wordcloud.png" alt="net.hscni.covidtracker 5 reviews"/>
 </p>
 
+> Fantastic<br> :date: __2021-01-08 19:00:21__
+
+> This app is a scam , it steals all your information and sent to 3rd parties , so be careful.<br> :date: __2021-01-08 14:34:36__
+
+> Very good<br> :date: __2021-01-05 19:18:02__
+
 > Installed this as soon as it became available. Happy to support the good work<br> :date: __2021-01-03 15:43:57__
 
 > Helpful<br> :date: __2021-01-02 01:45:10__
@@ -163,12 +169,6 @@ The StopCOVID NI app has been installed by more than **100000** times. At this t
 > Absolutely essential app.<br> :date: __2020-12-07 08:47:11__
 
 > excellent service staving propjes live om no racis or colour kust a hitman Boeing me xXxjetiame xXx<br> :date: __2020-12-05 16:27:26__
-
-> We are in a Lockdown for 2weeks Christmas Cancelled This Year<br> :date: __2020-11-29 08:12:05__
-
-> I am a father and this app is help bust my lokel drug deler(he was my lokel deler UWU), and my dother infrormaeshen was stolen (shes 4)😁 Thank god the worden let me downlode (I foed my wife an this app )XD<3:3<br> :date: __2020-11-23 11:01:57__
-
-> Great to see and well designed. Fantastic to have an app like this so quickly for NI<br> :date: __2020-11-22 23:32:11__
 
 
 
@@ -262,6 +262,12 @@ The StopCOVID NI app has been installed by more than **100000** times. At this t
 <img src="1_star_reviews_wordcloud.png" alt="net.hscni.covidtracker 1 reviews"/>
 </p>
 
+> Doesn't work properly<br> :date: __2021-01-06 12:46:58__
+
+> Tested positive but cant update in app so close contacts can be informed because you don't actually get a code to enter. Completely pointless!<br> :date: __2021-01-05 09:34:53__
+
+> Never seems to work! Keeps telling me to turn on my bluetooth...bluetooth is on!! I give up pointless<br> :date: __2021-01-03 23:00:31__
+
 > App won't open/crashes even after re-downloading<br> :date: __2021-01-03 11:51:38__
 
 > Pointless app. I don't think it's even accurate.<br> :date: __2020-12-30 00:26:35__
@@ -275,11 +281,5 @@ The StopCOVID NI app has been installed by more than **100000** times. At this t
 > Load of s\*\*\*\*<br> :date: __2020-12-22 19:54:32__
 
 > Shite dont work week late 😂😂😂😂🤬🤬🤬<br> :date: __2020-12-11 10:05:12__
-
-> I got an alert tonight showing close contact on the 26th November.. Problem being the alert only came through when the isolation period ended that being 10th December? Very worrying!<br> :date: __2020-12-11 02:19:31__
-
-> Downloaded app i was in touch with 3 people who tested positive nothing came up i rang the helpline says not to worry its not 100%<br> :date: __2020-12-06 11:30:28__
-
-> Makes the phone sooo slooooow that it's unusable. Had to uninstall.<br> :date: __2020-12-05 22:01:17__
 
 

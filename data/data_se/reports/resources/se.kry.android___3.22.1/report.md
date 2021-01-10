@@ -190,6 +190,10 @@ The Kry – See a Doctor by Video app has been installed by more than **500000**
 <img src="5_star_reviews_wordcloud.png" alt="se.kry.android 5 reviews"/>
 </p>
 
+> Perfect<br> :date: __2021-01-08 09:59:31__
+
+> Love it. Got an appointment with a doctor for my knee problems in a week instead of waiting a month when I contacted Capio Primary Care<br> :date: __2021-01-05 11:31:29__
+
 > Very handy<br> :date: __2021-01-02 18:44:46__
 
 > Man får hjälp 24/7 medan man sitter på soffan<br> :date: __2020-12-31 18:45:19__
@@ -205,10 +209,6 @@ The Kry – See a Doctor by Video app has been installed by more than **500000**
 > Really helpful. You can talk to the real doctors as per the appointment. It is usually 30-49 mins. And it's free of charge for the consultation.<br> :date: __2020-12-22 14:38:16__
 
 > It was very easy to work with the app and the instructions were very well-writen. This solution to talk remotely with a physician during pandemy is very useful!<br> :date: __2020-12-21 13:51:42__
-
-> Jag tycker mycket om Kry. Jätte snälla läkaren.<br> :date: __2020-12-21 13:08:37__
-
-> Helpful and knowledgeable doctor<br> :date: __2020-12-20 14:39:32__
 
 
 
@@ -284,6 +284,8 @@ The Kry – See a Doctor by Video app has been installed by more than **500000**
 <img src="1_star_reviews_wordcloud.png" alt="se.kry.android 1 reviews"/>
 </p>
 
+> Useless. I have a positive test from a lab that needs antibiotics. The doctor only referred me to another useless instance "vård central" where they never answer the phone and you can't book a time online if you are no longer living in Sweden. Swedish health care is a joke.<br> :date: __2021-01-07 19:37:47__
+
 > They always say they can't help you and you need to see a doctor at vårdcentral. Why the hell don't they tell the patient before, they have the info they need prior to the consultation. Who needs a doctor to tell you to see another doctor and charge for that? Today I booked for weight loss (a service they offer) and within 30 sec of seing my face dr said he didn't think I looked fat (I'm obese) and refused to refer me because he didnt believe my weight. He didnt even bother looking at my files<br> :date: __2020-12-11 18:12:14__
 
 > I don't recommend it.<br> :date: __2020-12-10 09:25:41__
@@ -301,7 +303,5 @@ The Kry – See a Doctor by Video app has been installed by more than **500000**
 > Kom och revolutionerade vården. Nu dock rent girigt företag som roffar åt sig av välfärd genom att syna varje kryphål. Direkt skadligt för välfärden. Vart en trogen kund sen starten, men nu avinstallerat efter fusket i region sthlm uppdagades.<br> :date: __2020-10-11 09:35:27__
 
 > By agreeing to the terms of this service, you will be enlisted to one of their connected healthcare centres (i.e. they change your "Mina vårdval"). Techically not against the law, but really, really distasteful acting by these loophole seekers.<br> :date: __2020-10-02 06:13:07__
-
-> Är det ens helt lagligt att prompta att lista sig till ny VC?<br> :date: __2020-10-01 13:24:25__
 
 

@@ -1,5 +1,17 @@
 [
     {
+        "reviewId": "gp:AOqpTOHM1GjPlYk6FgGgNH1JSFs8wsV_eHjzIE9F0d9Dr4iFKV8URubI_kZD3ccbbDjzcfVJUU5O23lY-Atoi6Q",
+        "userName": "hassen moh",
+        "userImage": "https://play-lh.googleusercontent.com/-ytn7gFuKY_E/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclf44QS547GiWNIzWyx2JGAb_z8bQ/photo.jpg",
+        "content": "Excellente application pour faire le point sur son sommeil et reprendre de bonnes habitudes, et un grand merci aux m\u00e9decins et aux concepteurs pour le d\u00e9veloppement de cet outil.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "6",
+        "at": "2021-01-04 12:08:42",
+        "replyContent": "Merci beaucoup pour votre commentaire !",
+        "repliedAt": "2021-01-08 10:54:02"
+    },
+    {
         "reviewId": "gp:AOqpTOEAv8l1Qm6zsuLjfpOCdI6L-yUH6QjbjiWPrmEDO5hF44BAUtxapRgZeXZuBFEWJ9HA32zrLOHx3BjBZxY",
         "userName": "Francoise Magnien",
         "userImage": "https://play-lh.googleusercontent.com/-JwvRTriPolU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclBKsTHP2wjLrwH8jUi0Exsl1jnWA/photo.jpg",
@@ -8,8 +20,8 @@
         "thumbsUpCount": 1,
         "reviewCreatedVersion": "6",
         "at": "2020-12-25 09:10:53",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Bonjour Madame, suite \u00e0 nos \u00e9changes par mail avez-vous r\u00e9ussi \u00e0 remplir vos horaires de sommeil ? Si votre probl\u00e8me est r\u00e9solu pourriez-vous penser \u00e0 changer la note que vous avez donn\u00e9 ? Merci d'avance :) !",
+        "repliedAt": "2021-01-08 10:57:03"
     },
     {
         "reviewId": "gp:AOqpTOEa3w8JdCrSgAgCJmVolkSG05mkBZyQ3qP539tzSCp7_MdazBUMFv7qZoXxLYGwLE8TSHKZkqfJPX4G9Tg",
@@ -20,8 +32,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "6",
         "at": "2020-12-23 15:07:46",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Merci pour votre commentaire ! Effectivement il n'est pas possible de modifier ses horaires une fois valid\u00e9s, il faut \u00eatre attentif ;-) !",
+        "repliedAt": "2021-01-08 10:57:50"
     },
     {
         "reviewId": "gp:AOqpTOF6_DTM4RPPIjqnTdA3ueqVaaOmi6PYdiI0uYKDhkpp1zpFpfJIE9J6Dg1muFePYwaDgjcuf2Gr9_2miCI",
@@ -32,8 +44,8 @@
         "thumbsUpCount": 4,
         "reviewCreatedVersion": "6",
         "at": "2020-12-23 09:26:03",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Merci pour votre commentaire ! Effectivement l'hypersomnie est une pathologie qui n\u00e9cessite une prise en charge adapt\u00e9e. A la fin de la p\u00e9riode d'application des conseils, si vos probl\u00e8mes de sommeil persiste l'application peut vous mettre en contact avec un sp\u00e9cialiste du sommeil, donc persistez jusqu'au dernier entretien avec Louise ! Bon courage",
+        "repliedAt": "2021-01-08 11:01:48"
     },
     {
         "reviewId": "gp:AOqpTOF152N__X2VcqjjE-D5Au6TeUMUv3mFk799qCoGH96mPb072xdmVCaBSvMOFVLWxeNge_I4p_vU7IH546c",
@@ -50,7 +62,7 @@
     {
         "reviewId": "gp:AOqpTOHSL1MGVtSGf36r3vTFXd7pCrHneLcvcJRzdXNOcC4d326enVsv71HmNOy296Syccp6eqG6k8fvRmH-SS0",
         "userName": "Noxiane273 Gmail",
-        "userImage": "https://play-lh.googleusercontent.com/-BH8A7hxis9I/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmZeEDEdZv6gkKetf5eJNzck8FDDg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjuEfNLLPE8Qk4IlXbD9JajftqPv8uHlRB23eY2",
         "content": "Mon commentaire ayant \u00e9t\u00e9 supprim\u00e9, je le remets : pendant 8 matin, j'ai rempli scrupuleusement le questionnaire Au bout de ces 8 jours, le petit avatar conseill\u00e9 de faire le point sur mes nuits, Oui et ? Rien, aucun conseil, aucune conclusion virtuelle de l'analyse, juste une r\u00e9cap de mes nuits Cette appli ne sert absolument \u00e0 rien",
         "score": 1,
         "thumbsUpCount": 1,

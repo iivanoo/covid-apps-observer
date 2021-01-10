@@ -171,6 +171,8 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <img src="5_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 5 reviews"/>
 </p>
 
+> ❤️🇵🇹💚<br> :date: __2021-01-09 04:59:28__
+
 > Impecavel<br> :date: __2020-11-24 18:59:55__
 
 > Nunca pensei que há tantos ignorantes no meu País. É aterrador, pior que o coronavírus.<br> :date: __2020-11-18 08:13:42__
@@ -189,8 +191,6 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 
 > Perfeito<br> :date: __2020-09-09 02:55:00__
 
-> Bom<br> :date: __2020-09-04 21:37:00__
-
 
 
 #### 4-star reviews
@@ -198,6 +198,8 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 4 reviews"/>
 </p>
+
+> Boa, muito boa<br> :date: __2021-01-06 10:55:27__
 
 > Confusa<br> :date: __2020-12-14 15:54:31__
 
@@ -217,8 +219,6 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 
 > Fixe<br> :date: __2020-04-05 13:41:52__
 
-> Em teste, darei mais se ficar satisfeito<br> :date: __2020-03-24 18:41:21__
-
 
 
 #### 3-star reviews
@@ -226,6 +226,8 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 3 reviews"/>
 </p>
+
+> Necessita conter mais informação sobre o Utente, não está atualizado de acordo com os movimentos do Utente, faltam consultas, resultados e comunicação com o SNS. Tenho atestado de incapacidade Multiusos e não consta essa informação?!<br> :date: __2021-01-09 10:38:47__
 
 > Bom<br> :date: __2020-12-05 20:20:44__
 
@@ -244,8 +246,6 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 > A informação do movimento de banhistas,deveria ser actualizada mais frequentemente, particularmente até ao meio dia e depois das 4 da tarde. E mais divulgada nos meios comunicação.<br> :date: __2020-06-21 08:13:06__
 
 > Dificuldade em perceber e aceder às receitas digitais<br> :date: __2020-04-22 15:28:21__
-
-> Pratico!<br> :date: __2020-03-24 14:20:35__
 
 
 
@@ -283,6 +283,8 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <img src="1_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 1 reviews"/>
 </p>
 
+> Uma aplicação que é uma confusão e não serve os utentes.<br> :date: __2021-01-05 21:01:46__
+
 > Não funciona<br> :date: __2021-01-02 02:11:25__
 
 > Muitas falhas e sem necessidade de ter aplicação, pois é rederecionado para o saite a app pouco ou nada serve. App péssima. Tanto dinheiro recebem, deveriam de a melhorar.<br> :date: __2020-12-28 01:08:58__
@@ -300,7 +302,5 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 > Muito má, para se conseguir entrar é uma odisseia. A ideia é boa mas é frustrante a utilização.<br> :date: __2020-12-13 20:26:48__
 
 > Que aplicação mais inútil. Basicamente tudo o que se faz é redirecionado para o site do SNS no browser. Não faz qualquer sentido a utilidade da app. Nem o registo é possível fazer pela app. Apenas pelo site. Que péssimo.<br> :date: __2020-12-06 23:14:44__
-
-> Para baixar tenho de desativar outras aplicações<br> :date: __2020-12-04 15:52:30__
 
 

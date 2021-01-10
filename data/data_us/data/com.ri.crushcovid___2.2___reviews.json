@@ -1,5 +1,17 @@
 [
     {
+        "reviewId": "gp:AOqpTOEJnDyrdkGG5RS_AnfAoOCED_83HLYegNq-P_Gh6jlccttRZudzRin44IATEc4fVAFLeSPjdGCI3cTwyQ",
+        "userName": "Gale Y",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh5JaC0ysaBdq-3TKaweSyR8j1bSaklax4vjH15JA",
+        "content": "My app hasn't tracked my location since Dec 23, 2020. It has said it is \"in progress\" since then.",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.2",
+        "at": "2021-01-09 15:25:09",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOFNoUIuzOqkZSVxpJRDYzT4-eYjZBjGA4zBA3eJMmArYMe6-tigAMEEH-_pEj00fSHby7w66ntPZv5C3w",
         "userName": "Shannon Godwin",
         "userImage": "https://play-lh.googleusercontent.com/-0Kq8KbK8XUs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck8CZTRgdF4O-7NFuazWZczQMM0ag/photo.jpg",
@@ -961,8 +973,8 @@
     },
     {
         "reviewId": "gp:AOqpTOFTSLPh86GvUbTULzfmJ2nE2ZxGg5p5gotLTKod0RAx7P6waGpN8vJaQRnhwbdma9opWcMUHy3H75PpTg",
-        "userName": "Monica Johnson",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhW2QBYXXTNjh8LHgQfuBGMsCE_4kGVCaQ91IibhA",
+        "userName": "Miss Zebra",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ghs2rfLtqoM0RoHLqmokha8oa6qNor8BQ5oaNgCFA",
         "content": "I mean, I get that the app is trying it's best, but it only works in Rhode island! The better news is that at least it warns u what states the coronavirus are tracked",
         "score": 3,
         "thumbsUpCount": 0,

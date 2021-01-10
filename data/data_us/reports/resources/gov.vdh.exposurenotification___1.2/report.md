@@ -158,6 +158,10 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 <img src="4_star_reviews_wordcloud.png" alt="gov.vdh.exposurenotification 4 reviews"/>
 </p>
 
+> Fundamental problem: this app has almost no public outreach throughout Virginia, and apparently there is a faulty verification process for PATIENTS VOLUNTEERING POSITIVE RESULTS. As long as these issues remain, this app is mostly a failure. This is a critical PR issue that won't be fixed with improved app code<br> :date: __2021-01-07 07:15:35__
+
+> Fakenews<br> :date: __2021-01-07 01:42:37__
+
 > Great idea but can't be effective without significantly more participation. Literally need millions of users; 100k downloads falls way short. Not enough people take the situation seriously enough or just deny it completely.<br> :date: __2020-12-12 21:53:18__
 
 > Good app to have! Thumbs up!<br> :date: __2020-12-04 14:28:02__
@@ -173,10 +177,6 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 > Slipped<br> :date: __2020-10-31 14:35:01__
 
 > I am new to this app, so ask me later.<br> :date: __2020-10-30 00:32:34__
-
-> Would like to know if this is helpful for west virginians as well as I do not see a app for wv. I see alot for different states just not wv. Let me know if I can use this.<br> :date: __2020-10-23 05:35:06__
-
-> Seems like a wonderful idea, but I was just curious if this program would only work for V.A residents? Because I am about 20 minutes away from the border, but I live in WV. Would this also work for WV residents? Because if so I would love to share this around my community<br> :date: __2020-10-21 02:31:37__
 
 
 
@@ -242,6 +242,12 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 <img src="1_star_reviews_wordcloud.png" alt="gov.vdh.exposurenotification 1 reviews"/>
 </p>
 
+> Not good this app for City Virginia<br> :date: __2021-01-08 20:37:15__
+
+> Waste of space on my Phone. This app does not work like it is supposed to. My Wife and I contracted the virus and never did the app say we were in contact with anyone. Even when I go to report it, it says wait to contacted by the department of health, two weeks and nothing. So don't waste you time with this app and just follow the CDC guidelines to keep yourself safe.<br> :date: __2021-01-05 22:55:24__
+
+> Absolutely useless. You have to wait to receive a unique six digit PIN from the Virginia department of Health in order to report a positive covid test and prevent false reporting. But my provider said they don't get that pin, and the VDH phone call I got 3 days after I tested positive didn't have it either. So just delete it this app and be safe.<br> :date: __2021-01-05 19:00:49__
+
 > Got a positive result 7 days (updated) ago and need a PIN to enter and yet still haven't rec'd a call. Good idea, poor execution.<br> :date: __2021-01-02 17:53:45__
 
 > This app gives you a scare<br> :date: __2021-01-01 04:40:20__
@@ -255,11 +261,5 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 > Useless and sketchy. Hasn't given me a single alert since I installed it months ago and requires bluetooth on 24/7. A waste of battery. Uninstalled.<br> :date: __2020-12-26 13:20:46__
 
 > Can't even upload my positive result because they claim the VDH contacts you to give you a PIN after you test positive. They definitely don't. I haven't been contacted at all. This app is useless, don't waste your time. It will give you a false sense of security thinking you haven't come into contact with anyone contagious when you probably have. Way to go VDH. Not helpful in preventing the spread of Covid at all.<br> :date: __2020-12-18 16:14:29__
-
-> Ha this is app that can only track your location so who downloads this is a idiot<br> :date: __2020-12-16 03:57:28__
-
-> My wife tested positive and entered data in her app. I got COVID yet the app still said I had not been in contact with with anyone testing positive. Look for any comments saying that anyone got a notification from this app. It doesn't work;<br> :date: __2020-12-16 00:48:01__
-
-> Effing Scary. Thats what its for FEAR. The Only Thing We Have To Fear Is Fear Itself.<br> :date: __2020-12-14 02:23:35__
 
 

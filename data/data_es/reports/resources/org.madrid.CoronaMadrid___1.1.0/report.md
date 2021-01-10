@@ -150,6 +150,12 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="org.madrid.CoronaMadrid 5 reviews"/>
 </p>
 
+> Muy buena aplicación y muy importante a la vez. La recomiendo.<br> :date: __2021-01-08 19:49:24__
+
+> Me ha gustado la app. Te hace un seguimiento de salud cada 12 horas, identifica los posibles síntomas del covid, te proporciona información sobre el virus, los centros sanitarios más cercanos a tu ubicación... En general está bastante bien para la situación actual que tenemos. Recomendada!<br> :date: __2021-01-07 16:41:59__
+
+> Me gusto<br> :date: __2021-01-05 17:19:48__
+
 > Buena app, funciona muy bien en mi teefono celular. Tienen mis 5 estrellas🙌.<br> :date: __2021-01-01 14:12:52__
 
 > Excellent application por covid 19<br> :date: __2020-12-31 12:22:23__
@@ -163,12 +169,6 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 > Esta app es bastante útil e interesante, tanto como necesaria en estos momentos!<br> :date: __2020-12-28 15:26:32__
 
 > Muchas gracias por la app me ha resultado muy útil<br> :date: __2020-12-28 15:17:33__
-
-> Muy buena aplicación, y sirve de mucho en esta situación que andamos de tanto miedo.<br> :date: __2020-12-28 15:17:13__
-
-> Me parece estraordinaria hé indispensable<br> :date: __2020-11-21 12:12:15__
-
-> Los hospitales de Madrid son de los mejores de Europa.<br> :date: __2020-09-19 13:38:38__
 
 
 
@@ -206,6 +206,8 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 <img src="3_star_reviews_wordcloud.png" alt="org.madrid.CoronaMadrid 3 reviews"/>
 </p>
 
+> Bastante basica, pero cumple con las expectativas. Facil de utilizar.<br> :date: __2021-01-04 02:28:20__
+
 > Está muy bien. No le pongo todas las estrellas porque siempre es subceptible de mejorar.Nada ni nadie es perfecto. Salud y saludos.Gracias<br> :date: __2020-09-13 07:32:39__
 
 > Quizás en marzo resultaba más útil. Ahora no está mal, pero no sirve realmente de mucho sin un sistema de rastreo.<br> :date: __2020-08-30 08:19:54__
@@ -223,8 +225,6 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 > El contestar Sí o No, no es suficiénte. A veces hay concretar algo<br> :date: __2020-04-16 21:04:02__
 
 > Insuficiente.Faltan síntomas como dolor de cabeza, mareos,, conjuntivitis , mucha gente lo está pasando sin los síntomas que aparecen en esta App.<br> :date: __2020-04-16 08:17:52__
-
-> Creo que deberian modificarla para incluir la pregunta: "¿Has sufrido una repentina perdida de olfato?" Segun parece esto se esta mostrando bastante indicativo de posible contagio por coronavirus.<br> :date: __2020-04-15 08:06:01__
 
 
 

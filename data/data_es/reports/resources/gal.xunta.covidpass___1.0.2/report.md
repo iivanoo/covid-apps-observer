@@ -178,6 +178,8 @@ The PassCOVID.gal app has been installed by more than **10000** times. At this t
 <img src="5_star_reviews_wordcloud.png" alt="gal.xunta.covidpass 5 reviews"/>
 </p>
 
+> Muy buena y útil si vives en Galicia. Lo que más me ha gustado es que están bien explicadas y organizadas las restricciones por concello con datos actualizados y oficiales de la propia Xunta. No hay información más actualizada y veraz que esta. Además si tu resultado es positivo aquí te mostrará tu código para introducir en Radar Covid, a parte de hacer listas con contactos estrechos o declarar un contacto de riesgo para que te hagan la prueba entre otras funciones. Muy buena.<br> :date: __2021-01-07 22:08:33__
+
 > Quizás debería ser un poco mas sencilla su forma de uso<br> :date: __2021-01-03 10:23:05__
 
 > Después de esta actualización funciona muy bien. Gracias.<br> :date: __2021-01-02 18:50:17__
@@ -199,6 +201,8 @@ The PassCOVID.gal app has been installed by more than **10000** times. At this t
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="gal.xunta.covidpass 4 reviews"/>
 </p>
+
+> A app e estupenda para informarte de todas as limitacións do teu concello pero o día dos cambios de normas tarda moito en actualizar. Eu prefiroa en vez da páxina da Xunta porque e máis rápida incluindo o teu concello. Polo demais noraboa porque e moito mellor e mais específica que a app nacional. Douvos un catro por ser mellorable na actualización. Noraboa<br> :date: __2021-01-09 02:14:35__
 
 > Aparte de lo invasiva que resulta (llama la atención porque la propone el partido que acusaba a Radar Covid de serlo), cuando quiero introducir el QR de algún establecimiento resulta que los establecimientos NO TIENEN CÓDIGO QR que escanear. Ni cafeterías, ni supermercados, farmacias, bancos, ferreterías, tiendas de ropa....<br> :date: __2020-11-08 18:47:18__
 

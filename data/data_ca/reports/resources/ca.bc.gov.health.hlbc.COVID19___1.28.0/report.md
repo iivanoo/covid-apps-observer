@@ -162,6 +162,8 @@ The BC COVID-19 Support app has been installed by more than **50000** times. At 
 <img src="4_star_reviews_wordcloud.png" alt="ca.bc.gov.health.hlbc.COVID19 4 reviews"/>
 </p>
 
+> Scary to see results each day<br> :date: __2021-01-07 15:03:36__
+
 > It may not be a perfect app, but it is a good start. At least now we have a means to stay up to date with current recommendations and restrictions. There are improvements to be made, and I am sure they will be made as we continue to support it.<br> :date: __2020-11-14 03:19:33__
 
 > I note that no mention is made as to where and how to obtain masks. Pharmacies are out of stock. Where can masks be obtained?<br> :date: __2020-04-27 00:16:56__

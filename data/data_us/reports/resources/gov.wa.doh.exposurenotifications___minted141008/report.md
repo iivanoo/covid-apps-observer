@@ -129,6 +129,16 @@ The WA Notify app has been installed by more than **100000** times. At this time
 <img src="5_star_reviews_wordcloud.png" alt="gov.wa.doh.exposurenotifications 5 reviews"/>
 </p>
 
+> Very helpful<br> :date: __2021-01-05 12:31:36__
+
+> I like the idea of having it tell me<br> :date: __2021-01-05 08:26:57__
+
+> A bit intrusive for my likes but how else you going to know the truth of this deadly virus.<br> :date: __2021-01-04 22:21:20__
+
+> Very useful in the current climate.<br> :date: __2021-01-04 07:52:12__
+
+> I got the app because I just never know what could happen.<br> :date: __2021-01-04 07:24:12__
+
 > It's been a few escrering moment but, better get the alert than the 🤒.<br> :date: __2021-01-03 03:15:43__
 
 > Too soon to tell but could be very useful. They need to have a share that you can choose which app store to refer people Apple or Google. This one just sends a Google link which is useless for my wife and daughter. Hopefully they will add this. The real key is getting enough people to use it in this paranoid, conspiracy following world. Thanks for the quick response and good luck!<br> :date: __2021-01-02 05:30:16__
@@ -139,16 +149,6 @@ The WA Notify app has been installed by more than **100000** times. At this time
 
 > Fine<br> :date: __2020-12-24 12:40:30__
 
-> Easy to get on.<br> :date: __2020-12-22 23:26:19__
-
-> Easy to install<br> :date: __2020-12-21 09:46:57__
-
-> Would be move convenient were it an implant. Maybe next year. Regardless, this app will make it easier to earn credits and to locate suitable breeding mates.<br> :date: __2020-12-19 07:40:24__
-
-> Keep it up to date as this is going to be 6 to 9 more months long. Permissions are actually at an os level for both Android and ios, meaning you probably got an os update that you opped into in July or August. Go to settings, search for Contact, and exposure tracing will come up.<br> :date: __2020-12-18 08:20:33__
-
-> Easy to use, private, I've had no problems<br> :date: __2020-12-17 01:08:14__
-
 
 
 #### 4-star reviews
@@ -156,6 +156,8 @@ The WA Notify app has been installed by more than **100000** times. At this time
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="gov.wa.doh.exposurenotifications 4 reviews"/>
 </p>
+
+> Not sure at 77 & vulnerable go<br> :date: __2021-01-07 23:36:31__
 
 > Pierce County public health finally reached me for my interview today (12/26), over 10 days after testing posirive, but that is not the app's fault.<br> :date: __2020-12-27 03:33:19__
 
@@ -175,8 +177,6 @@ The WA Notify app has been installed by more than **100000** times. At this time
 
 > Thanks for the creation and release of this. Found it a little difficult to find a link to download it however. Hope it helps, It should.<br> :date: __2020-12-01 05:12:37__
 
-> Good<br> :date: __2020-12-01 02:15:09__
-
 
 
 #### 3-star reviews
@@ -184,6 +184,10 @@ The WA Notify app has been installed by more than **100000** times. At this time
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="gov.wa.doh.exposurenotifications 3 reviews"/>
 </p>
+
+> Not sure if it's even working<br> :date: __2021-01-08 19:59:09__
+
+> Nobody knows how to get this code. When state officials reached out, they didn't even know what this app is and couldn't give me the code. UPDATE: the process is improving and I ended up getting the code. Changing from 1 to 4 stars. This app can save many lives.<br> :date: __2021-01-06 00:17:39__
 
 > Just got this so too soon to rate, but I have a question. I am an urgent care provider testing patients for COVID so will definitely be in proximity to positive cases. I wish this app had a setting for when you are at work where exposures are protected and another for when you are away from work where exposures may be unprotected.<br> :date: __2020-12-30 03:18:41__
 
@@ -201,10 +205,6 @@ The WA Notify app has been installed by more than **100000** times. At this time
 
 > I like the idea and the app itself seems fine but I don't like keeping my Bluetooth on, so I'm installing.<br> :date: __2020-12-12 18:54:49__
 
-> Phone only connects to my car for hands free sometimes since installing<br> :date: __2020-12-07 06:29:34__
-
-> This app would be better on a new phone. I have android vs. 9 and it says I have to have both location and bluetooth on for it to work. Newer versions don't require location, apparently. Leaving location on drains my battery and I don't really want it on unless I am actively using it for maps. Even if I turn location and bluetooth on and off depending on when I go out or not, it is not clear if I will receive notifications or not when at home (where I spend most of my time working).<br> :date: __2020-12-05 18:50:38__
-
 
 
 #### 2-star reviews
@@ -212,6 +212,12 @@ The WA Notify app has been installed by more than **100000** times. At this time
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="gov.wa.doh.exposurenotifications 2 reviews"/>
 </p>
+
+> Soy positivo y e querido compartir mis resultados pero no reconoce mi código<br> :date: __2021-01-07 23:59:26__
+
+> The concept is fine but the fact that we are relying on someone who has the virus to input a code that no one seems to know about makes this app pretty useless. The last year has proven to us that we cannot rely on people to do the right thing so that makes this app double useless. This would have been far more useful if it kept the bluetooth device pinging but used every device's phone number and compared it against a database of known infected person's phone numbers.<br> :date: __2021-01-06 15:09:14__
+
+> I was just wondering if you have to have bluetooth on all the time in order for the exchange of private codes or it it does it automatically?<br> :date: __2021-01-04 07:11:42__
 
 > Nice concept, but poor execution on letting the public know it is available, and letting them know how the app works and what safeguards are in place to protect their privacy. To many people think the app will share personal information, so are unwilling to download it. This is making the app unusable as it was designed to be used. If only one person out of a hundred has downloaded it and is using it, then what use is having it on your phone?<br> :date: __2021-01-01 09:30:17__
 
@@ -227,12 +233,6 @@ The WA Notify app has been installed by more than **100000** times. At this time
 
 > As big of a joke as our leaders! SMH<br> :date: __2020-12-07 11:01:49__
 
-> The verification code is next to impossible to get. Whatcom County doesn't seem to know much about how to produce the code or don't seem to care. Perhaps the number from the test results should be a code number.<br> :date: __2020-12-06 18:17:01__
-
-> Day 2 of trying to download this app through Goggle. Keep getting that app is pending & won't complete downloading. Waste of time & battery power<br> :date: __2020-12-05 08:19:56__
-
-> Great idea, but the execution needs improvement. Bluetooth function must be on all the time to get accurate notification. My bluetooth drains my battery so that's not going to work. Why can't the app communicate within itself to identify if another user has been nearby and has received a positive test? Also, if a person has all the symptoms they should be able to self report. I appreciate the states making an effort but this needs to be on a national level for people who need to travel.<br> :date: __2020-12-03 19:47:55__
-
 
 
 #### 1-star reviews
@@ -241,6 +241,18 @@ The WA Notify app has been installed by more than **100000** times. At this time
 <img src="1_star_reviews_wordcloud.png" alt="gov.wa.doh.exposurenotifications 1 reviews"/>
 </p>
 
+> I work at the post office and we had 3 positive results and I never received 1 alert from this app<br> :date: __2021-01-09 02:58:01__
+
+> Constantly alerts if you ever have gps or bluetooth off so if it ever tries to give me a virus alert, I won't notice it. Update: I don't care about data or battery. I turn things off because I don't want internet dog food ads for driving past a pet store and I only go out once a week for groceries; no guests.<br> :date: __2021-01-07 15:44:25__
+
+> I am a healthcare worker who has been exposed to numerous COVID positive patients but am told on a daily basis that I have had No Recent Exposures. Hmmm.<br> :date: __2021-01-06 18:04:42__
+
+> I came into contact with 2 people for a few hrs that tested positive 2 days later. They both have this app.. They were both called by the health dept and neither of them were asked about the App or given a code. None of us were aware that you had to be given a code?<br> :date: __2021-01-06 08:14:32__
+
+> No code. Can't make it work. UPDATE: According to developer reply, I should have gotten a code from health Dept... I did not. I did an online interview a month after having covid-19, but no code.<br> :date: __2021-01-04 21:10:20__
+
+> JUST TO GIVE ME MY PRIZES ALREADY. I WANT TO BE RELEASED FROM THIS STATE OF HELL<br> :date: __2021-01-04 01:36:08__
+
 > Wow, they really thought this would work??? 🙄<br> :date: __2021-01-01 00:46:38__
 
 > doesn't allow me? to turn on ，keep asking try again. NOT be able to use it. useless.<br> :date: __2020-12-31 05:58:54__
@@ -248,17 +260,5 @@ The WA Notify app has been installed by more than **100000** times. At this time
 > I've had it since release and haven't gotten any notifications. At this point I'm wondering if this is even working! Seems unlikely that I've not been in a place where someone tested positive in all of this time. Useless app!<br> :date: __2020-12-29 03:56:41__
 
 > I received a call 8 hours after doing a Covid test and was told I was positive but no one knew about the verification code for this app. This app is pointless if not all hospitals to include the military know how to use it or know how to provide the access code. It needs to be more user friendly.<br> :date: __2020-12-28 05:30:03__
-
-> Not accurate at all. I have never received notification of a possible exposure ever. I do Mobile Covid Testing.<br> :date: __2020-12-25 02:45:49__
-
-> It will not allow notifications so it's worthless as is. This is also after updating.<br> :date: __2020-12-24 23:46:51__
-
-> Constantly alerts if you ever have gps or bluetooth off so if it ever tries to give me a virus alert, I won't notice it.<br> :date: __2020-12-22 23:17:39__
-
-> Didn't work for me. Would not accept my verification code.<br> :date: __2020-12-22 14:40:32__
-
-> Caused phone issues with Bluetooth and wifi. Removed and issues are resolved.<br> :date: __2020-12-22 06:24:14__
-
-> I couldn't warn others I got covid since I didn't have a verification code! Makes it somewhat useless<br> :date: __2020-12-20 00:17:33__
 
 

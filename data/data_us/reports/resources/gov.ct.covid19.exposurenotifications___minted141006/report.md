@@ -188,6 +188,8 @@ The COVID Alert CT app has been installed by more than **50000** times. At this 
 <img src="3_star_reviews_wordcloud.png" alt="gov.ct.covid19.exposurenotifications 3 reviews"/>
 </p>
 
+> None of these apps work together. People should not have to worry if they have the correct states app installed and active, then have to switch between apps depending on what state they are in.<br> :date: __2021-01-06 04:18:51__
+
 > I never recieved an alert even though I have it set up to alert me. It did notify inside the app but I would have never known if I hadn't looked.<br> :date: __2020-12-28 04:23:47__
 
 > Someone in my building tested positive but I got no alert.<br> :date: __2020-12-18 08:41:41__
@@ -230,6 +232,18 @@ The COVID Alert CT app has been installed by more than **50000** times. At this 
 <img src="1_star_reviews_wordcloud.png" alt="gov.ct.covid19.exposurenotifications 1 reviews"/>
 </p>
 
+> It's my job to be next to people with the 'Rona and not once have I gotten an alert.<br> :date: __2021-01-09 03:44:53__
+
+> As part of my work I am considered a Essential worker and I have never once received a Alert or Notification from the application that I have be exposed to convid ! Even though 2 of my coworkers tested Positive! I have self quarantined Twice, This Application is Useless! The Cares Act included Money for Public Health Notification and Awareness!! Please Fix this ASAP Hire a application developer to Turn this Application into a Real Tool !!! Shame on The State of CT Gov!!<br> :date: __2021-01-08 21:33:48__
+
+> What code do I have to enter? I was never given one.<br> :date: __2021-01-08 05:04:04__
+
+> This App does nothing, I have been in contact with several people who had tested positive for COVID and this app did not alert me to anything.<br> :date: __2021-01-07 22:50:37__
+
+> Deficiencies with this app. A. Not everyone in Ct. has this installed on their cell phone. B. Not everyone that tests positive is reporting it. There's been 2 ppl at work that recently tested positive and this app never alerted me.<br> :date: __2021-01-06 14:02:57__
+
+> I work in a residential facility where both staff and residents have cell phones. Not once, with any positive case, has this app notified me of an exposure. Very disappointing.<br> :date: __2021-01-04 21:27:36__
+
 > Totally pointless. Unless everyone else is using theres no point in having it. My wife and I have been around several people who have been covid positive and never received a warning.<br> :date: __2021-01-02 17:39:12__
 
 > Why ONLY allow the fingerprint scan option and not offer the password/pin option? (Meanning I cannot access the scanned list). Is it that challenging for the devs to realize we all don't utilize/have access to the SAME FEATURES. This app is the equivalent of a paperweight, in my phone.<br> :date: __2020-12-28 19:14:04__
@@ -237,17 +251,5 @@ The COVID Alert CT app has been installed by more than **50000** times. At this 
 > Was exposed and received no notification<br> :date: __2020-12-28 11:34:16__
 
 > I have never received a warning no I'm not sure if the app works or not. I have been diagnosed with Covid-19. I went to put it on the app. And it asks for a code. What code. I got a test result not a code for a gift card. And no explanation on the app as to where I find or get a code. Maybe this is why I haven't received any warnings. Should have known something from the CT government would not work well<br> :date: __2020-12-20 03:10:52__
-
-> It was slowing my phone down<br> :date: __2020-12-13 22:28:45__
-
-> I was exposed to the virus and this app never warned me. To me this app sucks<br> :date: __2020-12-10 17:44:30__
-
-> Cannot download the app, error message keeps saying "something went wrong"<br> :date: __2020-12-07 15:19:42__
-
-> Not working<br> :date: __2020-12-06 22:10:29__
-
-> I tried to report a positive test result and for not receive a one time verification code<br> :date: __2020-12-06 01:07:19__
-
-> Contact tracing is a joke..... My kids have had covid for over a week and a half now, no one has called... I've had it for a week now and no one has called. And u can't report it to the app without be contacted, so someone infected is going around infecting other and not knowing it. Great job CT!<br> :date: __2020-11-30 19:55:48__
 
 

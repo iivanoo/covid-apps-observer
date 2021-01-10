@@ -147,25 +147,25 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="doh.health.shield 5 reviews"/>
 </p>
 
-> Good<br> :date: __2021-01-03 13:17:20__
+> Excellent<br> :date: __2021-01-09 12:37:52__
 
-> for health support<br> :date: __2021-01-02 23:49:45__
+> Best app<br> :date: __2021-01-09 12:33:59__
 
-> Good<br> :date: __2021-01-02 19:06:36__
+> Best way to stay safe and up-to-date<br> :date: __2021-01-09 12:06:49__
 
-> Nice application<br> :date: __2021-01-02 09:44:15__
+> Good app<br> :date: __2021-01-09 08:19:01__
 
-> Very user friendly<br> :date: __2021-01-02 00:12:58__
+> 👌<br> :date: __2021-01-09 04:38:20__
 
-> Awesome<br> :date: __2021-01-01 06:51:59__
+> ☝️<br> :date: __2021-01-08 18:15:27__
 
-> Nice work uae<br> :date: __2020-12-31 14:33:26__
+> Right time receiving result<br> :date: __2021-01-08 16:37:07__
 
-> Excellent service<br> :date: __2020-12-30 23:25:30__
+> Good aap<br> :date: __2021-01-08 15:42:47__
 
-> i love this software<br> :date: __2020-12-30 19:57:31__
+> Nyc<br> :date: __2021-01-08 15:19:58__
 
-> Very nice and quick<br> :date: __2020-12-30 18:33:41__
+> Very good<br> :date: __2021-01-08 11:02:54__
 
 
 
@@ -174,6 +174,14 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="doh.health.shield 4 reviews"/>
 </p>
+
+> Does what it says on the tin...would be better if you didn't have to have your location switch on to use it. Apart from that, no issues<br> :date: __2021-01-09 09:50:29__
+
+> Very good<br> :date: __2021-01-06 18:10:20__
+
+> َكطلفس٦ث<br> :date: __2021-01-05 13:38:10__
+
+> Good<br> :date: __2021-01-03 20:28:16__
 
 > Good<br> :date: __2021-01-03 09:25:31__
 
@@ -187,14 +195,6 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 
 > The result is taking more time to get updated<br> :date: __2020-12-25 06:09:32__
 
-> Very good app.<br> :date: __2020-12-23 11:23:08__
-
-> Best way<br> :date: __2020-12-20 06:55:11__
-
-> Very good<br> :date: __2020-12-19 08:33:26__
-
-> Good<br> :date: __2020-12-16 11:33:48__
-
 
 
 #### 3-star reviews
@@ -202,6 +202,12 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="doh.health.shield 3 reviews"/>
 </p>
+
+> Ok<br> :date: __2021-01-06 22:19:14__
+
+> Help me who ever cordinating it i want to change the number its still showing my old number which i am not able to asses any more<br> :date: __2021-01-06 09:28:01__
+
+> My app is not working I took a test yesterday and I am trying too open my profile but it says error try later or contact customer service.<br> :date: __2021-01-05 05:17:24__
 
 > useful<br> :date: __2020-12-31 16:56:18__
 
@@ -216,12 +222,6 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 > Hi. I have a problem with the app. I have installed it on my phone but the app stays on home screen only and I am supposed to fly to UAE in a couple of days . What will happen if the app doesn't work on my phone? Do I have to buy a new phone in order to be allowed entry into the country? Can someone please give me some answers. I don't know who to contact about this . Thank you<br> :date: __2020-12-13 14:12:12__
 
 > Good<br> :date: __2020-12-11 12:55:07__
-
-> Why my photo won't appear in the app?<br> :date: __2020-12-10 19:45:41__
-
-> Good<br> :date: __2020-12-10 09:05:54__
-
-> Did covid test at al zahra hospital sharjah but it was not registered on the alhosn app even though it was negative it should have been shown in app. Please instruct al zahra hosp sharjah esp Nmc group hospitals to register all covid tests or this app will soon become useless<br> :date: __2020-11-30 05:37:08__
 
 
 
@@ -259,24 +259,24 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="doh.health.shield 1 reviews"/>
 </p>
 
-> Opened up the app and the first thing its asking for is: Push notifications(okay cool, I understand that) Location(to send a simple test result? Yeah... no) Bluetooth access(?????? For what???) Battery optimisation(?????? For what???) I'm not even putting this on my phone, sorry. I dont see why this is necessary to simply send a test result through to my phone.<br> :date: __2021-01-03 11:07:26__
+> This app is not working<br> :date: __2021-01-09 06:03:47__
 
-> Can't use it without selling your soul (and battery life), not even to view results and status<br> :date: __2021-01-02 12:28:17__
+> Useless for me<br> :date: __2021-01-08 11:47:22__
 
-> Horrible experience, I have taken vaccine and more than one month has passed tested negative several times, still not given emergency usage , called like more than 10 times to call center waiting patiently and tell the call centre executive the problem they say they have taken complaint bu till now no result, I think it is high time govt of uae looks into these issues.<br> :date: __2021-01-02 12:21:59__
+> Its not opening .why didn't open this app<br> :date: __2021-01-08 08:10:50__
 
-> Cant go to next level after installation<br> :date: __2021-01-02 10:09:46__
+> What's the purpose of switching on Bluetooth and disabling the battery optimization.if disabling the battery option the battery drains very fast and also the loading the app is very slow as well.<br> :date: __2021-01-07 09:46:15__
 
-> I did my pcr test got result via sms but the app is just not updating, I tried restarting the phone deleting and reinstalling the still it shows my last pcr result not the current one. What should I do?<br> :date: __2021-01-01 11:52:54__
+> This app is not working as mentioned. It shows loading<br> :date: __2021-01-07 07:19:04__
 
-> Unstable app and terrible customer service. They are rude and they never call back or even solve any issues.<br> :date: __2020-12-31 13:28:22__
+> It keeps telling me wrong credentials even though my phone number is correct<br> :date: __2021-01-06 14:13:50__
 
-> It hasn't updated since my last test. Typing in was a nightmare It says if you see this message restart your phone and I restarted it 6 times and the message still came up.<br> :date: __2020-12-31 04:10:45__
+> Doesn't work most of the times.. when it works it is very slow<br> :date: __2021-01-06 11:20:58__
 
-> Very very BAD app! Ian deleting this app<br> :date: __2020-12-30 11:03:50__
+> very high power consumption<br> :date: __2021-01-05 23:11:38__
 
-> Program donst work at all<br> :date: __2020-12-29 13:03:40__
+> Pretty sad app. Poor support. Hasn't updated my star, or post vaccine status. No way to contact anyone through customer support, unless you want to spend a day waiting listening to the waiting tone. No response to emails. Frightful.<br> :date: __2021-01-05 09:14:14__
 
-> This app is trash it doesnt even work properly.<br> :date: __2020-12-29 11:49:37__
+> Always crash on huawei android 10<br> :date: __2021-01-05 01:41:56__
 
 

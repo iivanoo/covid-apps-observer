@@ -1,5 +1,53 @@
 [
     {
+        "reviewId": "gp:AOqpTOETZNNoWoEcsQGzGyjjrPHOJ2U6yF4tsKg_samwYPYhnFaWWYgB0fb2mgDlyay44QjUcl9PE4T30_XYaZQ",
+        "userName": "Craig McMaster",
+        "userImage": "https://play-lh.googleusercontent.com/-6f2XcXQkM2M/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn2PP6yN9VHrf_n15FkYmyDXTKAAQ/photo.jpg",
+        "content": "Into a busy season and it's worse. Even after clearing cache, rebooting phone, etc still getting multiples of same exact alerts and several alerts with little or no lead time and now (once again) many - almost 40% - warnings with no info at all or nothing updated in the alert information. That's probably FEMA but still seriously downgrades usefulness. So problematic that other weather apps are needed for safety.",
+        "score": 2,
+        "thumbsUpCount": 55,
+        "reviewCreatedVersion": "2.11.2",
+        "at": "2021-01-06 13:09:50",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFIa9_tI2Tbi0Ib7Ef7N3AsLJztyimLT6EkTafzfpQEtqNflDHtJ11OnZxNBc2TN_-tqNYhDKe2qEa6XEI",
+        "userName": "Lynne Whitehorn",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ggz1Eiw2_2tDjgOp4KnSptH0iNitRI6cYXZVZdA8nw",
+        "content": "Stopped working a few days ago. Started sending empty alerts. Reinstallation didn't help. Wouldn't accept location input.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.11.2",
+        "at": "2021-01-04 15:46:26",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHR_ycwteu2KsP0Y6bJwzAWrA0Rqvf-928UVHLCL841DPV2n7gs8JwdObWjzCr-IYhv0sqXx2KlJlOFGD0",
+        "userName": "Brian. Gates",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhkdsOCa_UGhC_MJRfrJqu382pIpMNijpSOFdTM3b8",
+        "content": "Good",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.11.2",
+        "at": "2021-01-04 06:06:34",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFzgeRipGIm3uypU2jyVBTOO-0tCyM3PRdWMjIlN-5MtdCOQvOgYcaIgvHsFTA0n6cm_s4s0uVGstm90fw",
+        "userName": "Intravenous Salmon",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiMmJA1ee_TGTgnI8eW_1_ei-cIGGcWT6BapajQDQ",
+        "content": "Can't load location for alerts or risk mitigation",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2021-01-03 18:53:48",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOE8G3CNwOUH7ddzWyv4hb3XJEHBrsVXestUDGGM0hMK5yoypXcVMjtcCd4WVb0J9g_yi11yiUzOI9zf0uU",
         "userName": "LeNora Eugenia DaySmith",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiLMG4EX0HUZD6J47Dmx-ueCs3o0PQVM--4GSExlgY",
@@ -13,7 +61,7 @@
     },
     {
         "reviewId": "gp:AOqpTOHcV-RD8cIXmQ0V2eqEJeaUmr6N5FEyiAum_rOeh3b8uqc2_hQMMAyPnfU1NmH7WOWrXeBElqcWjhT-86s",
-        "userName": "Ryan Snodgrass",
+        "userName": "Ryan S",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgkbIP99BEXiTgTMlR9bGBZTymtHtUhQTZbmRJa",
         "content": "Super irregular performance and notifications. I cannot rely on this for requested information or results",
         "score": 2,
@@ -65,7 +113,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi99BHatw7wVn4B5ab8QWqUA1vfGtpO5CpxLLBw5Q",
         "content": "Seems to be pretty decent. I live in Texas, so I already have apps for weather/tornado warnings. This app has alerts for other life threatening things like disease and nuke power plant failures. I watch less and less TV these days, without this app I might not know about these other alerts. It's simple to use, and thankfully, seldom used. Lets all hope it stays that way. Thanks for the app.",
         "score": 5,
-        "thumbsUpCount": 9,
+        "thumbsUpCount": 10,
         "reviewCreatedVersion": "2.11.2",
         "at": "2020-12-06 21:12:50",
         "replyContent": null,
@@ -125,7 +173,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhE0XO5vyY259WEPr4HRmpMuLHesU0VV2JQvJXyAg",
         "content": "So I love this app, but I feel as if you guys should check the reviews. There are people there with legitimate concerns, and some great recommendations that your should take look at. Such as: -Missing Alerts -A \"Follow Me\" option. -A priority alert mode (that fully covers your screen when you get a warning alert). I had a tornado warning in my area, and I love that I recieved it when using the app, but you should force the users to see a warning. These are the 3 options I'd love to see come.",
         "score": 4,
-        "thumbsUpCount": 15,
+        "thumbsUpCount": 17,
         "reviewCreatedVersion": "2.11.2",
         "at": "2020-11-29 03:51:39",
         "replyContent": null,
@@ -180,18 +228,6 @@
         "repliedAt": null
     },
     {
-        "reviewId": "gp:AOqpTOETZNNoWoEcsQGzGyjjrPHOJ2U6yF4tsKg_samwYPYhnFaWWYgB0fb2mgDlyay44QjUcl9PE4T30_XYaZQ",
-        "userName": "Craig McMaster",
-        "userImage": "https://play-lh.googleusercontent.com/-6f2XcXQkM2M/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn2PP6yN9VHrf_n15FkYmyDXTKAAQ/photo.jpg",
-        "content": "No change. Even after clearing cache, rebooting phone, etc still getting multiples of same exact alerts and several alerts with little or no lead time. That's probably FEMA but still downgrades usefulness. So problematic that other weather apps are needed for safety.",
-        "score": 2,
-        "thumbsUpCount": 54,
-        "reviewCreatedVersion": "2.11.2",
-        "at": "2020-11-15 22:38:27",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
         "reviewId": "gp:AOqpTOGOKif_YJvcR4sxQhCJq5MYu9VoiIGInYb7TSLRTfFML5KNSPD7t0JbVSt5BY9Ggd2y7wRmRpwFblpbtFs",
         "userName": "Ryandi David",
         "userImage": "https://play-lh.googleusercontent.com/-0m-50FUHrBg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmzTjpvgSplnrhjj1hhFaWMUgsZYg/photo.jpg",
@@ -233,7 +269,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjniM-fGvh7O9ctZU0va6zB8c104aiGNcVQoLL4c1E",
         "content": "App has grown over the years and I appreciate the work that has gone into making it. My alerts are timely for the different counties that I've entered. THAT being said: The app has the potential to be so much more. Save lives. Can you please make it less time consuming to use? When I travel I need to hear *alerts in the County I'm IN.* What I would like to see in an update is the use of GPS to alert me *wherever* I am. Also.. Why isn't anyone taking advantage of the Blog section?",
         "score": 4,
-        "thumbsUpCount": 25,
+        "thumbsUpCount": 28,
         "reviewCreatedVersion": "2.11.2",
         "at": "2020-11-06 20:45:42",
         "replyContent": "Hi Dawn,\n\nThank you for your feedback. We are currently investigating the issue of inconsistent alert delivery and are conducting internal testing. We hope to resolve this issue in the upcoming release. We are committed to addressing issues and improving the FEMA App so it is a useful tool for our users.",
@@ -1598,7 +1634,7 @@
     {
         "reviewId": "gp:AOqpTOGddJGZv9O0F62UT2DXu0T0nzsXgtvJvGX4oP6u9EWaM_jdOPs-9F4oHlVbur7aYIJ_NMU38WXXNZnVRvs",
         "userName": "Shawn M",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh20DEdI3jNqGGsllwHuO6kMFPxsxqzW5hMC-EkXQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgYvnu1mIUaloXOWrE1qTA2kQzvC1YxRMV3jEVcew",
         "content": "Options to customize notifications by type and locations. Useful information and links, a good app.",
         "score": 5,
         "thumbsUpCount": 12,
@@ -1802,7 +1838,7 @@
     {
         "reviewId": "gp:AOqpTOEOcqjbzQNXexAHbgIb5E2GeqJXlmmyQq8CB2tmUE4-brGEcksxhDM3FBCP-0QZQufo4sMd17q6quNlB_E",
         "userName": "JX Nelson",
-        "userImage": "https://play-lh.googleusercontent.com/-FKCt3AGQPgk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckVAOYYnPdfhjHOiPqzxUNiIlbMUA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjQv9jx72K7K5UsujDuk5EH4JFfuo5H-LCT-3f4hg",
         "content": "Unsure",
         "score": 5,
         "thumbsUpCount": 0,
@@ -4274,7 +4310,7 @@
     {
         "reviewId": "gp:AOqpTOFI7doum_9ctR2ODvPWAEgeASbOm6NiQlRLIc6ipp_KMEnMqtAOvZaqKi2AduKY2-7pSyHf0mfk1c9OwfQ",
         "userName": "Michelle Bigelow",
-        "userImage": "https://play-lh.googleusercontent.com/-ZiCOoQesBlQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm_I-fH9jr3lK6V8zJ_sXQZOFWtCA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gic-fbLLCg8SqZddOshfEIAl57k1dMxW-RxKoSsGg",
         "content": "So helpful !",
         "score": 5,
         "thumbsUpCount": 0,
@@ -9098,7 +9134,7 @@
     {
         "reviewId": "gp:AOqpTOHVooY6kLrvqAN6ZP6QlFnbzjZnuMR3GHyxB7S9PkzDqnBsjSfjC6ZkrFQkoqYEth_h4xxnRArrvzJgPio",
         "userName": "Joseph Barney",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi2cRQewoi9aOyKGX6qQCgi9IEhrshj1Jm_1KXa_Zo",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhsDD4gLFYLmea6qH2pcbMAc6p64l2b8FlUEk1ApRQ",
         "content": "I've been warned numerous times of harsh weather. I live in Utah where we get high winds and torrents of rain and snow, sometimes at the same time (rain/snow with winds). Thanks for helping me prepare!",
         "score": 5,
         "thumbsUpCount": 8,

@@ -1,5 +1,77 @@
 [
     {
+        "reviewId": "gp:AOqpTOHKTK5Z2nU3uJXI_sxM7BJrpAo9fNpuMvTe2poizXeX7xPGENCRZ8SnjV1wv5qKI1UxGyl49N92GzpR6w",
+        "userName": "Jessica Barge",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh69etldGk9wkN3zR0BYgiypXJt1DKblZMwODz2MQ",
+        "content": "Awesome",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.1.2",
+        "at": "2021-01-08 15:09:02",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGV1Yqgf2n4_hH0dYNX8CbC-8gg-ofoLMXS36ISpou4S8hK41THJE5yqvOrTVvXZkqmfGdGNODEmoCgWg",
+        "userName": "Matthew Cleary",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgGrFY3eTstvZkGxJfdYyE11-X_uwbZ1Z6e8YSyeA",
+        "content": "this isn't a reflective rating on this app; however, maybe this is proof on how well my VPN is working.. because i don't live in PA. does it even matter that i don't live in PA, if i was wanting to use the app? this raises another concern of mine. my VPN is on all the time, so how could this app, if i did set it up, know where I've been? does it all permission to bypass VPN settings? if not, how would it accurately know where I've been? or have i been mislead on what a VPN does?",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.1.2",
+        "at": "2021-01-08 06:20:15",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFJJDfvP-I-AXMwmfvL727Ig29j--_0YusK7w3DYns2OSEtFRio0m4Vgo1_Em5HFniYL2NikIMBF8tETg",
+        "userName": "Marlena Nobles",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjE9UWggk1Jbn9kJAbgAlWSIFpZLyoNm_88UJDQKA",
+        "content": "Made my phone die dead like go black and never turn on again.",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2021-01-07 01:42:27",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGeHT51X69hmLIocVgGV95apvt54y0UfczpURVY2GSzQQlGeBotz4Yv9_V5nFd7_1ljJZotp0gT0wVwmg",
+        "userName": "Craig B.",
+        "userImage": "https://play-lh.googleusercontent.com/-crqNRB8bAfE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnTD8qDFxllpyyfFAlM8irEbz6JhQ/photo.jpg",
+        "content": "Unfortunately, not enough people use this for it to be useful.",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.0.1.18",
+        "at": "2021-01-06 20:29:16",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFOysBthYcINAZvVy7ct2J4bBIje3Kt2lVl1O6lhSG_9S4yQtGwsX8YE7WMir7NIMUlVB1Y5EqH61UMOQ",
+        "userName": "Beau W",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg38s6P23zPsRWRgSFPt-B7U5_HKzEF99Bqfw4YGQ",
+        "content": "The virus is fake and there is no need for this app.",
+        "score": 1,
+        "thumbsUpCount": 4,
+        "reviewCreatedVersion": null,
+        "at": "2021-01-06 19:39:47",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGeu0R7QIPkLaaHTGfXnlkSWijAGxhrJAElTkpHAKGbVWTPMttMSdYBQ_4hYgVfaUofQKKUUwIfsUJ2wA",
+        "userName": "Brian Taussig-Lux",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgYwIKjzIbMbSEDqOhWgZ2wFfAkVYAElCE9g4ATZw",
+        "content": "Was never able to update app after testing positive. No point in using it as far as I can see.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.0.1.18",
+        "at": "2021-01-05 13:57:07",
+        "replyContent": "Thank you for this feedback. With the exponential increase in cases each day, state and county public health departments are trying their best to reach every single positive individual. We understand that sometimes there will be delays in contacting you. But, if you do not get a call from us, please call us at 1-877-PA-HEALTH.",
+        "repliedAt": "2021-01-05 21:36:24"
+    },
+    {
         "reviewId": "gp:AOqpTOGlSd3dvakgTEN-4iH5-VOffdGN7nicOKRQrcLCsEflvmGcOxiUourBHmrSIL2OslwtNbS-zHfQpYk9jg",
         "userName": "Zach Lachman",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj1-TkkXcXzdKGiHo6GUKoKmVLTVg0JK6iZw8oiaQ",
@@ -32,8 +104,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2020-12-31 18:38:30",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thank you for this feedback. If the app detects that you have been in close contact with another app user who has tested positive for COVID-19, you will receive a push notification on your phone. For more information on how the app works, please visit: https://www.pa.gov/covid/covid-alert-pa/ or www.google.com/covid19/exposurenotifications",
+        "repliedAt": "2021-01-05 21:38:40"
     },
     {
         "reviewId": "gp:AOqpTOEpKSjwP-4NDEXZsrA_c3QEfjnQqdjNbWdbC3Xvm5nevWQmZXEqyesyqPnJ-9DA3sul-rHi6Qi27zo4ow",
@@ -41,7 +113,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-KATWzd5j8t8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclOVQEYmaW9Gs222AnYZTt4RAUmcw/photo.jpg",
         "content": "This app has helped me by notifying me if a store/shop/place is safe to enter.",
         "score": 5,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "1.1.2",
         "at": "2020-12-30 17:52:05",
         "replyContent": null,
@@ -92,8 +164,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.1.2",
         "at": "2020-12-28 16:35:06",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thank you for letting us know. We are sorry to hear that you are having trouble with the app. Please email us at ra-dh-CovidApp@pa.gov and provide more information about your device so we can assist you.",
+        "repliedAt": "2021-01-05 21:39:30"
     },
     {
         "reviewId": "gp:AOqpTOGT-gw0m1t-TKObCLT-XClzXoGxX1gzeiQVTivvW2tIgwyqRGZghFS4kmlz172Ua3FMvqe36tUJO8HO8Q",
@@ -113,7 +185,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-4rAIV6o7qm0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmPD1GrxjTvaQtKF87r-2W8pVeBuQ/photo.jpg",
         "content": "No one is getting codes from the department of health so this app is useless",
         "score": 1,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "1.1.2",
         "at": "2020-12-28 14:41:38",
         "replyContent": null,
@@ -188,8 +260,8 @@
         "thumbsUpCount": 1,
         "reviewCreatedVersion": null,
         "at": "2020-12-23 23:09:37",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thank you for letting us know. We are sorry to hear that you are having trouble with the app. Please email us at ra-dh-CovidApp@pa.gov and provide more information about your device so we can assist you.",
+        "repliedAt": "2021-01-05 21:40:33"
     },
     {
         "reviewId": "gp:AOqpTOFqdub4JCcF9zn0X0uSG8GF2OmZOycr1M2g-B640phcPwpBNeMqm5q7dOgsii9xi1pm1Md8an4szzbZuw",
@@ -197,11 +269,11 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgmhCLsWWF29jKHMEgzpxnkJGwzZBbTN9G0OJTMmQ",
         "content": "Since the last update they took off the daily death count. They only tell you the total death count up to the current date. Because of this the app doesn't exactly tell you the whole situation currently. In begining I actually liked the way app, but since of the many changes that isn't the case anymore. I feel as if they are trying to hide the real truth to the situation & that isn't a good thing at all.",
         "score": 2,
-        "thumbsUpCount": 34,
+        "thumbsUpCount": 51,
         "reviewCreatedVersion": "1.1.2",
         "at": "2020-12-23 20:53:01",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thank you for this feedback. Daily death counts by county are still available in the app by tapping \"Pennsylvania's numbers\" on the updates page and tapping each county to view counts and graphs of daily confirmed cases and deaths.",
+        "repliedAt": "2021-01-05 21:42:39"
     },
     {
         "reviewId": "gp:AOqpTOGH7BssIlb7-EonpAUuMenx_jO9dFE1VzLijWHKAfpbSJJjDbhuFAIrjOc63cBSGOXsfNFWxqdT_8cCKQ",
@@ -317,11 +389,11 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg5Dfs3cICSfAnqzj8jad57Rp2hCBHMLWL88XW_QA",
         "content": "Since I never received a call from the department of health when I tested positive to contact trace and give me the code to input in the app, this is a useless battery drainer.",
         "score": 1,
-        "thumbsUpCount": 21,
+        "thumbsUpCount": 40,
         "reviewCreatedVersion": "1.1.2",
         "at": "2020-12-20 23:05:30",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thank you for this feedback. With the exponential increase in cases each day, state and county public health departments are trying their best to reach every single positive individual. We understand that sometimes there will be delays in contacting you. But, if you do not get a call from us, please call us at 1-877-PA-HEALTH to escalate.",
+        "repliedAt": "2021-01-05 21:45:06"
     },
     {
         "reviewId": "gp:AOqpTOEpRunbZjfrMbPcXLEHoUfiKFwieBykVop_lo-s5cZIqTd5Xi9Hq9FVWgV7EGobTK9w4E7V-kbkukWSVA",
@@ -365,11 +437,11 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gjx2jTTYyDOFZRwIB41Wy7riwiW8hjgv1VW6n2JiA",
         "content": "Everyone should use this app. It's easy to use to check in your health symptoms. I have experienced no battery drain on my phone. The battery use is less then 1 minute today and only 0.1% of my total battery use since last charge. So far no exposure notifications and I hope it stays that way.",
         "score": 5,
-        "thumbsUpCount": 47,
+        "thumbsUpCount": 66,
         "reviewCreatedVersion": "1.1.2",
         "at": "2020-12-18 21:00:03",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "We appreciate your feedback. Thank you for adding your phone to the COVID-19 fight!",
+        "repliedAt": "2021-01-05 21:45:48"
     },
     {
         "reviewId": "gp:AOqpTOHcR5TpAcPlC6ApsAu1CbCF_03Uvj3g59FDLphxID4pwpvFjCuVRgfX0oZbxfMwEeE7nE8zo3CpHY6qxg",
@@ -425,7 +497,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ghu1-KI_mhva4wQsvp_7c4oA3COJ1ITzqaxX2wauA",
         "content": "I do like the app as far as letting you know if you came close to anyone with covid but it can be better by marking areas specific so me and my family can avoid the areas!!",
         "score": 4,
-        "thumbsUpCount": 1,
+        "thumbsUpCount": 2,
         "reviewCreatedVersion": "1.1.0",
         "at": "2020-12-14 23:38:53",
         "replyContent": null,
@@ -440,8 +512,8 @@
         "thumbsUpCount": 1,
         "reviewCreatedVersion": null,
         "at": "2020-12-14 17:50:49",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "If the app detects that you have been in close contact with another app user who has tested positive for COVID-19, you will receive a push notification on your phone named as a COVID-19 Exposure Alert. For more information on how the app works, please visit www.google.com/covid19/exposurenotifications.",
+        "repliedAt": "2021-01-05 21:47:06"
     },
     {
         "reviewId": "gp:AOqpTOFE-yhmG-79E1uV-n-HgJfkybNzrwCy3r79oXYphqv33diyINai23CVduAD5HFSAMTkn1o8TE-5XO3aZg",
@@ -464,8 +536,8 @@
         "thumbsUpCount": 2,
         "reviewCreatedVersion": null,
         "at": "2020-12-13 12:21:18",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "We are sorry to hear that COVID Alert PA is draining your phone battery. Please send an email to ra-dh-CovidApp@pa.gov and tell us more about your device so we can investigate your issue. If possible, please include a screenshot of your battery usage by app by going to Settings \u00e0 Battery Usage.",
+        "repliedAt": "2021-01-05 21:47:48"
     },
     {
         "reviewId": "gp:AOqpTOGa-yZsyUj1LdF756nZFrtES74KgV5XLXdJs3LYkfzCYQjOI-RAju9J6Oryo-QVg9JdBOmeDh86g8YrkA",
@@ -488,8 +560,8 @@
         "thumbsUpCount": 10,
         "reviewCreatedVersion": "1.1.0",
         "at": "2020-12-13 03:11:21",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thank you for taking the time to give a positive review. Be sure to spread the word about the COVID Alert PA app amongst your family and friends!",
+        "repliedAt": "2021-01-05 21:48:27"
     },
     {
         "reviewId": "gp:AOqpTOGEjN2u7EuI_2RwMGg5Pfhlv3D_nuSt2n0G2Z9d2YKIUmnmXnKp9ylo1YnHzYRZxVmmRKcrz0szXgTFYw",
@@ -581,7 +653,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-7jPjiaR-f3I/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclsQ8dZtIihheIQYc9YuwxZu5ll9w/photo.jpg",
         "content": "I like the information but the numbers don't match up to what the state reports on the website or what the news reports. The app is saying that there were over 7,200 new cases yesterday but a news website is reporting over 8,700.",
         "score": 3,
-        "thumbsUpCount": 5,
+        "thumbsUpCount": 6,
         "reviewCreatedVersion": "1.1.0",
         "at": "2020-12-10 03:03:47",
         "replyContent": null,
@@ -632,8 +704,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2020-12-08 20:10:14",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thank you for letting us know. We are sorry to hear that you are having trouble with the app. Please email us at ra-dh-CovidApp@pa.gov and provide more information about your device so we can assist you.",
+        "repliedAt": "2021-01-05 21:49:45"
     },
     {
         "reviewId": "gp:AOqpTOHcolsyTk46_Zx4w47gDOD4jyFejOuWqqdgKvFQP7VWbbA8obqWA6CMPqU3AfXv0pLDqYU0Rxe_nAl37Q",
@@ -689,11 +761,11 @@
         "userImage": "https://play-lh.googleusercontent.com/-7R8wRgT00zs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclK6nxm2f9GQO2HT6kkSXc_-SLJdg/photo.jpg",
         "content": "Error code 104. I have tried multiple times to install and Uninstaller the app but each time I click continue on the 2nd screen for sharing data analytics, I keep getting \"sorry that didn't work properly. Error code 104. Please try again\"",
         "score": 1,
-        "thumbsUpCount": 9,
+        "thumbsUpCount": 11,
         "reviewCreatedVersion": "1.1.0",
         "at": "2020-12-07 18:50:29",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thank you for letting us know. We are sorry to hear that you are having trouble with the app. Please email us at ra-dh-CovidApp@pa.gov and provide more information about your device so we can assist you.",
+        "repliedAt": "2021-01-05 21:50:13"
     },
     {
         "reviewId": "gp:AOqpTOHSdqbNQQ59oaNXYHDi3ogmvBubKQTni6yzuzGWo1VtKQfXZMBKT663NTNDg8Orw5zp7BSOsUljiTie8w",
@@ -737,11 +809,11 @@
         "userImage": "https://play-lh.googleusercontent.com/-pHIRolStCkA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclIS8bS2VFo3DIqyOyeGrbv8SUQJg/photo.jpg",
         "content": "The only advantage to this app is immediate information. However, I am not convinced that is accurate. I realize that this app relies on participants checking in..... but it seems extremely suspect... With the extremely rising cases in this county and with myself coming in to contact with 10 times the population of this county and I haven't been close to even one person with symptoms???? Very strange.using this app I need to keep my phone on charge because my phone only last 3 hours on standby.",
         "score": 1,
-        "thumbsUpCount": 65,
+        "thumbsUpCount": 66,
         "reviewCreatedVersion": "1.1.0",
         "at": "2020-12-05 04:53:23",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hello, if the app detects that you have been in close contact with another app user who has tested positive for COVID-19, you will receive a notification on your phone named as a COVID-19 Exposure Alert. For more information on how the app works, please visit https://www.pa.gov/covid/covid-alert-pa/ and www.google.com/covid19/exposurenotifications",
+        "repliedAt": "2021-01-05 21:53:36"
     },
     {
         "reviewId": "gp:AOqpTOFgITqqiI5UX8KVE5HnsHbChMyfWQPsPzOmTkIQjm3bNf1AtZ79JKCZnZyH2hbR_C0h-Ko7FNzUTGcY-A",
@@ -809,7 +881,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhuXKdUivXem5ta0o-SEaqGbvWFvmvIcvli7Kei",
         "content": "I like this App and think it's an excellent idea. My issue is that it requires bluetooth to run constantly and that really takes a toll on device battery life. If your phone dies or power is very low, you can't use the app. Try to make this more device resource friendly. I can imagine some devices losing power rather quickly as a result of keeping bluetooth on for long periods of time, and most people will use this when they are on the go and charging is limited. *Show check count - main page",
         "score": 4,
-        "thumbsUpCount": 122,
+        "thumbsUpCount": 124,
         "reviewCreatedVersion": "1.1.0",
         "at": "2020-12-03 13:11:18",
         "replyContent": null,
@@ -917,7 +989,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj4Fm671mA2-tsA54Yi5Uimi3iF1tPxQBo20GoUcA",
         "content": "I just love the new update! Let's keep up the fight to help control the spread of Covid-19. \ud83d\ude37",
         "score": 5,
-        "thumbsUpCount": 241,
+        "thumbsUpCount": 242,
         "reviewCreatedVersion": "1.1.0",
         "at": "2020-11-30 19:11:07",
         "replyContent": null,
@@ -1193,7 +1265,7 @@
         "userImage": "https://play-lh.googleusercontent.com/--xxj1_cUvLw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckQ7godIpMEO2qC8G5ywMvgQnjIuQ/photo.jpg",
         "content": "This app is useless. Why would anyone care how many people look at this app or THINK they have symptoms. It shows a percentage of statewide cases per county that doesn't mean anything and gives us symptoms that every person able to use the app knows. The things people care about are daily counts per county and state, where to get tested, and if someone we come in contact with TESTED positive. They built an app that sort of does 1 of those things. Typical fear mongering.",
         "score": 1,
-        "thumbsUpCount": 10,
+        "thumbsUpCount": 11,
         "reviewCreatedVersion": "1.0.1.18",
         "at": "2020-11-22 21:37:09",
         "replyContent": null,
@@ -1325,7 +1397,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhgTF4zo572d5yM_JfISp29ysqtGeIk4SRdmyJ74Q",
         "content": "Doesn't allow view per zipcode, Doesn't contain links to real time Data. Doesn't display States Arcgis map. There is absolutely no reason whatsoever to justify allowing this app to constantly record your data and transmit it via bluetooth. Total waste of time without viewable real time anonymized data.",
         "score": 1,
-        "thumbsUpCount": 28,
+        "thumbsUpCount": 29,
         "reviewCreatedVersion": "1.0.1.18",
         "at": "2020-11-19 06:58:17",
         "replyContent": "We appreciate you taking the time to offer a suggestion for the app. Your idea has been shared with our development team to consider for a future update.",
@@ -1901,7 +1973,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj3UYDuXHNQV1cWM2hCa5_VHRRH62aDna3nDy5CeQ",
         "content": "Despite the description saying that this app uses Bluetooth to determine if you have been near someone with Covid/Covid symptoms, it is telling me I must have location services (GPS) turned on to work (to get Exposure Notifications). Between privacy and battery life concerns, this is a no-go for me. Publisher - please explain why location services (GPS) is required. Update: In reply to CoP, the app does say when trying to enable Exposure Notifications: \"(!) Location needs to be on; Feature is inactive until setting is on\". So I'm calling BS. Please fix.",
         "score": 1,
-        "thumbsUpCount": 317,
+        "thumbsUpCount": 318,
         "reviewCreatedVersion": "1.0.1.18",
         "at": "2020-11-02 17:56:51",
         "replyContent": "Hello, COVID Alert PA does not track location or turn on GPS. For more information on how the app works while protecting your privacy, visit www.google.com/covid19/exposurenotifications. You can also view our data and privacy policy here: https://www.health.pa.gov/topics/disease/coronavirus/Pages/COVID-Alert-Data.aspx",
@@ -2065,7 +2137,7 @@
     },
     {
         "reviewId": "gp:AOqpTOEsPG2m9HPmzHbSlbYh68kyjAQHilnDZQsBS75s9_NHTsiQnNjlsmmdnKdsIEsTFt-PRrq4rxu-ziAegQ",
-        "userName": "Rose Berry",
+        "userName": "Liv Cat",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi7l3-mnX-GfBrzBLAMSLFi5mKiRDlmO2VtNHv2qg",
         "content": "DON'T GET IT MY MOM TOLD ME ITS SO THEY CAN FIND YOU IF YOU HAVE COVID. I DON'T HAVE COVID BUT MY MOM TOLD ME",
         "score": 1,
@@ -2405,7 +2477,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-BWkxA9hPv7w/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnwjbhxOOOnGw4mY5EDHYz96dnhAg/photo.jpg",
         "content": "Requires location permission for no reason I can discern since this supposedly relies purely upon bluetooth. Maybe this app doesn't use it, but as a convenient (for Google & other advertisers) side effect it gives EVERY OTHER APP with said permission access to my location at ALL times (never mind the additional battery drain they'll cause). Other apps can use BT without location being on. Google's being slimy in order to get full-time location tracking through other apps. KMA, Google.",
         "score": 1,
-        "thumbsUpCount": 77,
+        "thumbsUpCount": 78,
         "reviewCreatedVersion": "1.0.1.18",
         "at": "2020-10-16 05:41:32",
         "replyContent": "Hello, COVID Alert PA has no access to any location data. On Android version 11, the Exposure Notification System does not require the phone's Location setting to be on. We suggest you check and update your Android version. Visit https://www.pa.gov/covid/covid-alert-pa/ and www.google.com/covid19/exposurenotifications for more information.",
@@ -2441,21 +2513,9 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi4xpenRwNini1J0tCii1CELP0kCtvuNUmk2fkeXA",
         "content": "this app sucks. covid is just the flu. masks dont work, all they do is suffocate you. Social distancing doesn't work. Is covid gonna say, \"oh no he's six feet away! I cant infect him, i guess i gotta try another time...\"",
         "score": 1,
-        "thumbsUpCount": 33,
+        "thumbsUpCount": 34,
         "reviewCreatedVersion": "1.0.1.18",
         "at": "2020-10-15 05:10:07",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOFOysBthYcINAZvVy7ct2J4bBIje3Kt2lVl1O6lhSG_9S4yQtGwsX8YE7WMir7NIMUlVB1Y5EqH61UMOQ",
-        "userName": "Beau W",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg38s6P23zPsRWRgSFPt-B7U5_HKzEF99Bqfw4YGQ",
-        "content": "Mostly fake virus",
-        "score": 3,
-        "thumbsUpCount": 4,
-        "reviewCreatedVersion": null,
-        "at": "2020-10-14 17:21:41",
         "replyContent": null,
         "repliedAt": null
     },
@@ -2489,7 +2549,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjuTxazQ9vZVyN6U5qyWq5o0mjeWkvj0IsFfcwC",
         "content": "First installation attempt: Doesn't work. Shows nothing but a blank blue screen. Second attempt after a reboot: Long pause on blank blue screen with nothing happening, then started to work. Symptom check-in inexplicably asks for my race, sexual orientation and gender identity. What a mess.",
         "score": 2,
-        "thumbsUpCount": 28,
+        "thumbsUpCount": 29,
         "reviewCreatedVersion": "1.0.1.18",
         "at": "2020-10-13 16:01:42",
         "replyContent": "Thank you for letting us know. We are sorry to hear that you are having trouble with the app. Please email us at ra-dh-CovidApp@pa.gov and provide more information about your device so we can assist you.",
@@ -2597,7 +2657,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-jn4rc2oHZAo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnqhP_tSM2IEakB0NW6TYXDxZoDIg/photo.jpg",
         "content": "Awesome. An app that is implimented way to late and a now a massive waste of tax payer money. Please let me give you access to my bluetooth so you can randomly connect to other stranger phones. Please let me give Wolf more justification to abuse his power and put PA in lock down. (And YES I'm a democrat) Should of been implemented back in June.",
         "score": 1,
-        "thumbsUpCount": 35,
+        "thumbsUpCount": 37,
         "reviewCreatedVersion": "1.0.1.18",
         "at": "2020-10-11 05:51:34",
         "replyContent": null,
@@ -3578,7 +3638,7 @@
     {
         "reviewId": "gp:AOqpTOGz81v4kuHlLWtb2DYUYte6cocVd8PnFIaCRBBwWpid6scOIh8xgAWxSs60yOv0k8trcYiX1STIsQ2w6A",
         "userName": "Christopher Prichard",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhnxxdWDwOalrLNujz9dG6CpBAKzPtDLnQYyf5msQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiShNTKwwapnUEWdF1H1MO_jMaVNh1Q-obPdGkc9A",
         "content": "Doesn't show up in app drawer, so it's very hard to find to open.",
         "score": 3,
         "thumbsUpCount": 5,

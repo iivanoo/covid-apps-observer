@@ -192,6 +192,10 @@ The Intermountain Connect Care app has been installed by more than **100000** ti
 <img src="5_star_reviews_wordcloud.png" alt="org.intermountainhealthcare.android.connectcare 5 reviews"/>
 </p>
 
+> 😷❤️🙏🙌<br> :date: __2021-01-09 07:31:47__
+
+> This was awesome,,,the practitioner was fast and very nice.<br> :date: __2021-01-07 16:48:24__
+
 > It was nice to have access to a doctor so late at night!<br> :date: __2020-12-19 06:17:18__
 
 > Super convenient!<br> :date: __2020-12-14 16:17:17__
@@ -207,10 +211,6 @@ The Intermountain Connect Care app has been installed by more than **100000** ti
 > Great visit!<br> :date: __2020-10-28 02:02:36__
 
 > Love this app! It has all your history of your health, doctor and ER visits, as well as all of the shots or medications that you have ever been put on with dates and detailed info of visits, or surgeries that you have had in your past.<br> :date: __2020-10-23 03:12:50__
-
-> Good<br> :date: __2020-10-13 17:39:24__
-
-> Amazing experience! Very short wait and got to speak directly to a medical provider who helped.me with my issue.<br> :date: __2020-10-04 21:03:00__
 
 
 

@@ -191,25 +191,25 @@ The 98point6 app has been installed by more than **50000** times. At this time, 
 <img src="5_star_reviews_wordcloud.png" alt="com.ninety8point6.patientapp 5 reviews"/>
 </p>
 
-> This app almost seems to good to be true. Been using it a year now. Visit a doctor anytime, from anywhere for a dollar a visit (plus $120 annual fee) App works great and the doctors really listen. I love being able to talk to a doctor over chat. I don't have to worry about setting up a webcam, or family members overhearing the visit. Not a full replacement for an in person doctor, but for things that can be diagnosed remotely it's more convenient, and less stressful than going in person.<br> :date: __2021-01-02 19:16:00__
+> The doctors are so helpful and take as much time as needed to care for my needs. I am so impressed with 98point6 and I reccomend it to others.<br> :date: __2021-01-08 20:03:56__
 
-> Very competent and compassionate Dr's<br> :date: __2021-01-02 03:23:51__
+> Quick and easy. The wait time was MUCH less than estimated! That was nice!<br> :date: __2021-01-08 19:38:45__
 
-> Absolutely amazing!<br> :date: __2021-01-01 20:10:40__
+> Very attentive to details we needed<br> :date: __2021-01-07 23:07:33__
 
-> Just awesome. Thank you<br> :date: __2021-01-01 17:59:04__
+> Great<br> :date: __2021-01-07 17:36:39__
 
-> Clear and kind instructions from a dr. Helped us know whether to go to urgent care. Let me share a picture to give the dr information.<br> :date: __2021-01-01 15:59:35__
+> Wonderful! Fast and accurate.<br> :date: __2021-01-07 17:30:00__
 
-> Super easy to us and the doctor was amazing!<br> :date: __2021-01-01 00:11:12__
+> Great service. Easy to use and understand!<br> :date: __2021-01-06 19:44:53__
 
-> Good experience overall. Though keep your symptom description to bullet point summary. It said "in detail" but my "narrative" description was timed out and I had to start the visit over.<br> :date: __2020-12-30 20:38:35__
+> I've used it several times and it's so much better than waiting at my Drs officer<br> :date: __2021-01-06 00:34:54__
 
-> Easy. Free through my work and can be done at any time.<br> :date: __2020-12-30 13:56:27__
+> Exactly what I needed, thank you!<br> :date: __2021-01-05 19:26:38__
 
-> Dr Smith was very helpful. Thanks so much for the information.<br> :date: __2020-12-30 07:22:12__
+> Easy and glad I don't have to leave home when not feeling well.<br> :date: __2021-01-05 16:58:53__
 
-> It was fast and easy I liked it alot .<br> :date: __2020-12-28 22:46:32__
+> Doctor provided me an excellent diagnosis, prognosis, and plan of action, based on my symptoms, photos, short video interview, and texting back and forth within the app.<br> :date: __2021-01-05 16:42:14__
 
 
 
@@ -218,6 +218,8 @@ The 98point6 app has been installed by more than **50000** times. At this time, 
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.ninety8point6.patientapp 4 reviews"/>
 </p>
+
+> Very good<br> :date: __2021-01-05 11:50:15__
 
 > Prompt and helpful and i didn't have to leave home.<br> :date: __2020-12-26 07:56:30__
 
@@ -236,8 +238,6 @@ The 98point6 app has been installed by more than **50000** times. At this time, 
 > So far, so good.<br> :date: __2020-08-03 20:42:51__
 
 > Very good except that the session timed out while I was in the middle of a long entry into one of the fields. I had to start over.<br> :date: __2020-07-27 17:32:05__
-
-> Straightforward and helpful for all my visits<br> :date: __2020-07-13 20:50:49__
 
 
 
@@ -299,6 +299,10 @@ The 98point6 app has been installed by more than **50000** times. At this time, 
 <img src="1_star_reviews_wordcloud.png" alt="com.ninety8point6.patientapp 1 reviews"/>
 </p>
 
+> No alerts after wsiting sn hour for an MD then disconnected!<br> :date: __2021-01-06 02:40:51__
+
+> Not being notified when doctor is available<br> :date: __2021-01-05 05:44:30__
+
 > Waste of time, just go to a real Doctor.<br> :date: __2020-12-28 02:26:43__
 
 > The first time i used this app was great...after that it was useless.. The drs didnt want to do anything to help me and suggested i go to a dr... I have no insurance and my normal dr is a low income clinic that takes months to get an appt at... And i cant afford an er visit each time i need a medication refilled... And it wasnt even a narcotic medication or anything along those lines... So whats the point of this app??<br> :date: __2020-12-21 12:48:01__
@@ -314,9 +318,5 @@ The 98point6 app has been installed by more than **50000** times. At this time, 
 > Complete waste of time. Just go to urgent care<br> :date: __2020-10-01 22:25:58__
 
 > It certainly is nothing like Teledoc. It was of no help at all and all I needed was help with seasonal allergies.<br> :date: __2020-10-01 12:32:05__
-
-> Un helpful.<br> :date: __2020-09-20 23:14:11__
-
-> They will pair you with an out of network doctor without your knowledge causing you to pay a higher fee!<br> :date: __2020-09-15 17:58:31__
 
 

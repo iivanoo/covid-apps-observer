@@ -168,6 +168,8 @@ The COVID Coach app has been installed by more than **10000** times. At this tim
 <img src="4_star_reviews_wordcloud.png" alt="gov.va.mobilehealth.ncptsd.covid 4 reviews"/>
 </p>
 
+> Soothing app<br> :date: __2021-01-07 06:14:57__
+
 > So far I like it<br> :date: __2020-12-09 03:02:35__
 
 > Great app jas measures features and you can chart your progress<br> :date: __2020-11-08 18:29:04__
@@ -185,8 +187,6 @@ The COVID Coach app has been installed by more than **10000** times. At this tim
 > It is similar to other self help. Easy to use. Makes one think. Asks one questions. Offers advice. Keeps tracks of goals. It all come down to how much energy and honesty one puts into it.<br> :date: __2020-06-30 17:37:32__
 
 > Got a lot of information<br> :date: __2020-06-27 18:12:00__
-
-> Really helps<br> :date: __2020-06-25 20:43:19__
 
 
 

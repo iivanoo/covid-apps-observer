@@ -132,6 +132,8 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 <img src="5_star_reviews_wordcloud.png" alt="cat.gencat.mobi.StopCovid19Cat 5 reviews"/>
 </p>
 
+> Eficaz<br> :date: __2021-01-09 09:53:04__
+
 > Molt bona app<br> :date: __2020-12-23 17:31:12__
 
 > Tenia un problema i me llamaron enseguida<br> :date: __2020-12-23 10:38:17__
@@ -149,8 +151,6 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 > Es muy necesaria y óptima debería de tenerla todo el mundo instalada y más ahora<br> :date: __2020-07-17 06:29:26__
 
 > Ningun problema de conecsion<br> :date: __2020-06-21 16:11:09__
-
-> Bién<br> :date: __2020-06-18 08:42:42__
 
 
 

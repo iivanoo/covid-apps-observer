@@ -145,6 +145,10 @@ The COVID Alert NJ app has been installed by more than **100000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="com.nj.gov.covidalert 5 reviews"/>
 </p>
 
+> Ok<br> :date: __2021-01-09 02:54:21__
+
+> Great concept. And as more and more of us participate, the more it will help to protect us all.<br> :date: __2021-01-06 23:59:44__
+
 > The Covid- 19 alert app is only good "if you have bluetooth" 😣😞 in which i do not have,<br> :date: __2020-12-30 21:48:59__
 
 > Estare informado del virus<br> :date: __2020-12-29 06:36:39__
@@ -161,10 +165,6 @@ The COVID Alert NJ app has been installed by more than **100000** times. At this
 
 > Not everyone believe in this.<br> :date: __2020-12-19 17:23:56__
 
-> Good<br> :date: __2020-12-15 18:32:24__
-
-> good<br> :date: __2020-12-14 14:10:51__
-
 
 
 #### 4-star reviews
@@ -172,6 +172,10 @@ The COVID Alert NJ app has been installed by more than **100000** times. At this
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.nj.gov.covidalert 4 reviews"/>
 </p>
+
+> Want info on getting vaccine !!<br> :date: __2021-01-08 20:39:52__
+
+> It should show where I am in the queue for vaccination.<br> :date: __2021-01-06 14:58:41__
 
 > Need to have an option to change the "How are you feeling?" response for when you select the incorrect response by mistake.<br> :date: __2020-12-26 19:43:12__
 
@@ -189,10 +193,6 @@ The COVID Alert NJ app has been installed by more than **100000** times. At this
 
 > Doing our part to end Covid19!<br> :date: __2020-10-19 16:34:27__
 
-> I just downloaded app cant give any feed back at this time. Thanks<br> :date: __2020-10-12 01:03:37__
-
-> I'm not sure I understand how it works re. sharing the positive result so other people can be alerted. I read the app info /learn how it works several times so I must be missing something. Is the assumption that the person go anywhere to take a C19 test and wait for a representative to call them? If so, how would the representative know that you tested positive?<br> :date: __2020-10-11 22:01:49__
-
 
 
 #### 3-star reviews
@@ -200,6 +200,8 @@ The COVID Alert NJ app has been installed by more than **100000** times. At this
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="com.nj.gov.covidalert 3 reviews"/>
 </p>
+
+> This app needs improvement. When you get an exposure alert it doesn't tell you the date of exposure, just that it was within the past 14 days. So you could already be out of the quarantine period or only need to test and isolate for a few days. Giving the date of exposure seems important.<br> :date: __2021-01-06 00:25:46__
 
 > Rite aid Cov 19 testing<br> :date: __2020-12-13 15:43:07__
 
@@ -219,8 +221,6 @@ The COVID Alert NJ app has been installed by more than **100000** times. At this
 
 > Installing this =捉蟲入屎忽<br> :date: __2020-10-19 04:16:38__
 
-> Easy to install. My only question is how does it know you have been in contact with someone personally? How is connecting the dots, so to speak?<br> :date: __2020-10-12 17:38:42__
-
 
 
 #### 2-star reviews
@@ -228,6 +228,8 @@ The COVID Alert NJ app has been installed by more than **100000** times. At this
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="com.nj.gov.covidalert 2 reviews"/>
 </p>
+
+> way too buggy<br> :date: __2021-01-07 20:09:36__
 
 > I work at a busy congenial store, and have had the app installed for a few months now. I find it really improbable no one infected with the app has walked into the store.<br> :date: __2020-11-17 17:23:10__
 
@@ -247,8 +249,6 @@ The COVID Alert NJ app has been installed by more than **100000** times. At this
 
 > Switch off Wi-Fi and use mobile data for any error you might be receiving.<br> :date: __2020-10-02 04:09:39__
 
-> Not working on wifi. Only will setup using LTE, and even once setup won't run on wifi<br> :date: __2020-10-01 20:26:42__
-
 
 
 #### 1-star reviews
@@ -256,6 +256,8 @@ The COVID Alert NJ app has been installed by more than **100000** times. At this
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="com.nj.gov.covidalert 1 reviews"/>
 </p>
+
+> 2019 US deaths be4 Pandemic: 2.85 mil 2020 US deaths After Pandemic: 2.83 mil Per C.D.C. Say no to fascism. Say no to this garbage app..<br> :date: __2021-01-06 11:15:47__
 
 > The contact alert feature is bordeine comsumer fraud .has it zctually od contact by anyone why are comments going oy back to decembet<br> :date: __2021-01-02 00:59:00__
 
@@ -274,7 +276,5 @@ The COVID Alert NJ app has been installed by more than **100000** times. At this
 > Doesn't do anything useful.<br> :date: __2020-12-12 06:23:25__
 
 > There's no way to indicate that you got COVID.l, for the app to even work. Both my gf and I have the app. I got COVID and it never told her. (And she got covid from me)<br> :date: __2020-12-07 01:27:05__
-
-> Totally useless. We had people saying they had it just to set off red flags. This is based on the honor system and that hasn't been something people done in a very long time.<br> :date: __2020-12-06 16:07:26__
 
 

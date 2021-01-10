@@ -237,6 +237,8 @@ The CRUSH COVID RI app has been installed by more than **10000** times. At this 
 <img src="2_star_reviews_wordcloud.png" alt="com.ri.crushcovid 2 reviews"/>
 </p>
 
+> My app hasn't tracked my location since Dec 23, 2020. It has said it is "in progress" since then.<br> :date: __2021-01-09 15:25:09__
+
 > Rarely works<br> :date: __2020-11-19 15:46:15__
 
 > I appreciate this app so much that I've kept it on my phone pretty much since day 1, and have let it log my location for the chance that I catch COVID-19 and want to send it in. I just want to do anything I can to help stop the spread. However, this app accounts for 35 PERCENT of my battery usage. There's simply no need for an app to be that power-hungry, just logging my location idly. That, and the fact that it doesn't integrate Google's contact tracing technology, I have to say goodbye for now<br> :date: __2020-11-19 08:27:43__
@@ -254,8 +256,6 @@ The CRUSH COVID RI app has been installed by more than **10000** times. At this 
 > Location tracker doesn't work<br> :date: __2020-08-19 17:52:53__
 
 > Location has never worked even though all settings and permissions have been done. My phone with Google maps me correctly on the few occasions I went out, so I know the phone functions work . What is the problem with this?<br> :date: __2020-08-17 20:09:30__
-
-> The location is not accurate most of the time. And everytime I try to submit how I feel today, I get an error. I wish it would let you edit the location<br> :date: __2020-08-06 13:28:54__
 
 
 

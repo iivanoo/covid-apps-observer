@@ -180,6 +180,8 @@ The Covidom Patient app has been installed by more than **10000** times. At this
 <img src="3_star_reviews_wordcloud.png" alt="fr.aphp.covidom 3 reviews"/>
 </p>
 
+> Bonne application. Un agent rappelle dès qu'un questionnaire est saisi avec des réponses particulières<br> :date: __2021-01-09 09:33:43__
+
 > Très pratique et simple d'utilisation. Mais depuis 16/05 ne peut plus entres mes constante.<br> :date: __2020-05-17 15:13:38__
 
 > Je reçois des SMS alors que je ne suis pas inclus dans le suivi<br> :date: __2020-04-08 09:06:01__

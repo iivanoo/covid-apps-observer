@@ -197,6 +197,8 @@ The BCBSM Online Visits app has been installed by more than **50000** times. At 
 <img src="5_star_reviews_wordcloud.png" alt="com.bcbsm.android.bcmi.onlinevisit 5 reviews"/>
 </p>
 
+> With two kids, this is the best app on my tablet. I have used it while traveling, after hours, and holiday. My kids seem to suddenly need medical attention at the most inopportune times. This app has saved me 4 trips to ER/Urgent care in less than 2 years.<br> :date: __2021-01-05 01:30:16__
+
 > I used it for online doctor consult. Took me 10 minutes and cost $10 !<br> :date: __2020-12-26 15:51:08__
 
 > Convenient, worked great for me<br> :date: __2020-12-22 05:38:56__
@@ -215,8 +217,6 @@ The BCBSM Online Visits app has been installed by more than **50000** times. At 
 
 > Excellent option to see a doctor virtually, especially when you don't feel well!<br> :date: __2020-12-09 19:24:26__
 
-> Great experience with real doctors!<br> :date: __2020-12-09 17:31:14__
-
 
 
 #### 4-star reviews
@@ -224,6 +224,8 @@ The BCBSM Online Visits app has been installed by more than **50000** times. At 
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.bcbsm.android.bcmi.onlinevisit 4 reviews"/>
 </p>
+
+> Don't understand why BCBSofM couldn't verify my insurance. I pay way to high a premium for that. That's very iritating. However, other than that this was a positive experience.<br> :date: __2021-01-04 17:55:21__
 
 > Was a fine experience<br> :date: __2020-12-26 20:58:30__
 
@@ -243,8 +245,6 @@ The BCBSM Online Visits app has been installed by more than **50000** times. At 
 
 > Gets the job done.<br> :date: __2020-05-24 21:19:50__
 
-> Overall very good. A little long winded but to be expected with a health app.<br> :date: __2020-05-15 17:00:23__
-
 
 
 #### 3-star reviews
@@ -252,6 +252,8 @@ The BCBSM Online Visits app has been installed by more than **50000** times. At 
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="com.bcbsm.android.bcmi.onlinevisit 3 reviews"/>
 </p>
+
+> Doctor Good, App Mediocre. Doctor Boehr was quick to evaluate and get me the help I needed. The BCBSM online app, however, failed to connect to my BCBSM insurance information. It also failed five times to verify and accept any credit card information.<br> :date: __2021-01-07 01:34:44__
 
 > Doctor says picture quality wasn't great. She was able to assist me but why is my video quality poor with a Note 10 plus? No other issues.<br> :date: __2020-07-23 16:55:37__
 

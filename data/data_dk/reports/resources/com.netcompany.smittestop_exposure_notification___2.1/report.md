@@ -218,6 +218,10 @@ The Smittestop app has been installed by more than **500000** times. At this tim
 <img src="3_star_reviews_wordcloud.png" alt="com.netcompany.smittestop_exposure_notification 3 reviews"/>
 </p>
 
+> Super fin app set fra brugervenlighed, men her på det sidste, sker det flere gange dagligt jeg får notifikationer om at app'en skal åbnes og aktiveres... Den må virkelig være ustabil...<br> :date: __2021-01-04 12:25:19__
+
+> Mine notifikationer fortæller mig at jeg ikke modtager notifikationer grundet manglende Bluetooth tilladelse. Jeg har tjekket settings både i app og på telefonen, og Bluetooth burde virke. I mine app settings står der at appen ikke kræver nogen tilladelser. Det kan være at appen virker, men siden jeg modtager kryptiske notikationer, synes jeg den er svær at stole på. Jeg håber der sidder en developer i den anden ende, som kan fortælle mig hvad der er i vejen.<br> :date: __2021-01-03 22:41:48__
+
 > Why do I get a notification that the app is checking for possible contacts? That must happen in the background, not needed to annoy me many times during other use<br> :date: __2020-12-27 00:03:00__
 
 > Hvorfor henter app'en information så ofte? Ser ofte en banner mindst en gang i minuttet - nogle gange oftere, hvilket er ret irriterende.<br> :date: __2020-12-25 19:26:45__
@@ -234,10 +238,6 @@ The Smittestop app has been installed by more than **500000** times. At this tim
 
 > On my phone, background exposure checks are not regularly performed. Last one was 5 days ago (!), in the past 14 days only 8 checks were made. I suspect this is an API issue rather than an app issue, but it seriously decreases effectiveness of the app. I wonder if it might be possible to add a manual "check now" button.<br> :date: __2020-09-30 19:53:17__
 
-> Virker som det skal men en så vigtig app som denne burde være open-source<br> :date: __2020-09-25 14:59:38__
-
-> Idéen med en sådanne app er i virkeligheden super brugbar, dog er effektiviteten af appen direkte sammenhængende med antallet af brugere. Jeg synes derfor ikke at SUM har gjort nok for at reklamere og sprede budskabet om appen. De fleste i min vennegruppe (unge) kender ikke til appen, og jeg har først fornyligt fået mine forældre til at installere appen. Håber i vil overveje dette.<br> :date: __2020-09-07 18:25:30__
-
 
 
 #### 2-star reviews
@@ -246,9 +246,9 @@ The Smittestop app has been installed by more than **500000** times. At this tim
 <img src="2_star_reviews_wordcloud.png" alt="com.netcompany.smittestop_exposure_notification 2 reviews"/>
 </p>
 
-> Det er en elendig app. Jeg får flere gange dagligt besked på at genstarte appen og jævnligt besked på at aktivere bluetooth og GPS selv om de er slået til. Det er imponerende der er så mange fejl i en så vigtig så efter så lang tid.<br> :date: __2021-01-03 06:48:18__
+> App'en er gået fuldstændig amok. Den giver notifikation hvert 10. sekund, med besked om at "Smitte|Stop is downloading information". Samtidig kan app'en ikke åbnes. Problemet er startet efter ankoms til Grønland. Update: Det viser sig, at fejlen optræder når telefonens tidszone er den lokale (her UTC+3), men hvis telefonen tvinges til at bruge dansk tid, så er alt OK.<br> :date: __2021-01-06 20:56:52__
 
-> App'en er gået fuldstændig amok. Den giver notifikation hvert 10. sekund, med besked om at "Smitte|Stop is downloading information". Samtidig kan app'en ikke åbnes. Problemet er startet efter ankoms til Grønland.<br> :date: __2020-12-20 21:17:01__
+> Det er en elendig app. Jeg får flere gange dagligt besked på at genstarte appen og jævnligt besked på at aktivere bluetooth og GPS selv om de er slået til. Det er imponerende der er så mange fejl i en så vigtig så efter så lang tid.<br> :date: __2021-01-03 06:48:18__
 
 > Denne app er begyndt at sende tomme notifikationer hver morgen, så telefonen siger ding, men der ikke er nogen besked. Kigger man i telefonens notifikationsindstillinger kan man se at ding lyden kommer fra denne app, men åbner man app'en, er det ingen beskeder.<br> :date: __2020-12-18 07:09:03__
 
@@ -274,6 +274,10 @@ The Smittestop app has been installed by more than **500000** times. At this tim
 <img src="1_star_reviews_wordcloud.png" alt="com.netcompany.smittestop_exposure_notification 1 reviews"/>
 </p>
 
+> At blive spammet med "tænd for bluetooth" når man er hjemme, er ikke hvad jeg gider se på.<br> :date: __2021-01-07 05:51:49__
+
+> 1. Jeg får omkring syv notifikationer om dagen om at den henter information. Pænt irriterende. Kør den proces i baggrunden, og vis seneste opdateringstidspunkt når app'en åbnes. 2. Min tidligere besked om potentiel smitte er nu forsvundet. Hvorfor? 3. "Dagens tal" opdateres kun hvis man åbner siden. Dato og tidspunkt burde være opdatere på knappen på forsiden! 4. Den broget sig over, at BT ikke er tændt, selvom dette ikke er tilfældet. Jeg skal slå BT fra og til igen før den stået for brok.<br> :date: __2021-01-05 07:36:40__
+
 > App does not provide date of exposure making it impossible to determine when to get tested.<br> :date: __2020-12-30 15:39:20__
 
 > It should really tell you when and where you were infected. It's practically useless as it is.<br> :date: __2020-12-29 18:05:15__
@@ -288,10 +292,6 @@ The Smittestop app has been installed by more than **500000** times. At this tim
 
 > Jeg bliver spammet med notifikationer om, at den downloader seneste info. Ifølge min notifikationshistorik 50 gange det seneste døgn.<br> :date: __2020-12-25 12:43:47__
 
-> At blive spammet med "tændt for bluetooth" når man er hjemme, er ikke hvad jeg gider se på.<br> :date: __2020-12-24 09:32:56__
-
 > Since the latest update I get a notification several times a day saying that I have to open the app to reactivate it. Today I had to reinstall the app because when I got the notification about reactivation, upon opening the app, it asked me to turn on Bluetooth despite Bluetooth being already on. I tried to turn Bluetooth off and then on, same result in the app.<br> :date: __2020-12-24 07:26:20__
-
-> idea is good but execution is awfull. Notification doesn't work and the app doesn't tell you when you were in close contact with an infected person, so you have no idea whether the test you may have done is before or after the incident. For all you know it could have been weeks ago. Apparently the 1 meter radius doesn't work either.<br> :date: __2020-12-23 21:01:58__
 
 

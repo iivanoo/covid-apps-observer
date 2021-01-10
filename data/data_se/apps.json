@@ -4,27 +4,27 @@
         "store_country": "se",
         "store_lang": "se",
         "latest_crawled_version": "4.0.1",
-        "latest_crawl": 1609690628
+        "latest_crawl": 1610218435
     },
     {
         "id": "de.xikolo.openwho",
         "store_country": "se",
         "store_lang": "se",
         "latest_crawled_version": "3.7",
-        "latest_crawl": 1609690629
+        "latest_crawl": 1610218442
     },
     {
         "id": "com.visibagroup.visibacare.regionostergotland",
         "store_country": "se",
         "store_lang": "se",
         "latest_crawled_version": "3.29.0",
-        "latest_crawl": 1609690637
+        "latest_crawl": 1610218444
     },
     {
         "id": "se.kry.android",
         "store_country": "se",
         "store_lang": "se",
         "latest_crawled_version": "3.22.1",
-        "latest_crawl": 1609690647
+        "latest_crawl": 1610218448
     }
 ]

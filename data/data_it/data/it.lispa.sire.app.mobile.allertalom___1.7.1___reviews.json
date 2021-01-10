@@ -1,15 +1,39 @@
 [
     {
+        "reviewId": "gp:AOqpTOFuTGcioFyYB4vafqhUPhxAH8fkc92H5goy5ItvudvwZbDsFR8YVk37qnOGafb03noWf0ENqoeysSQtpQ",
+        "userName": "giovanni satta",
+        "userImage": "https://play-lh.googleusercontent.com/-yLvEqFvYEtQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmkytMJeR7Sxpnu5KFhsGDVz91XlA/photo.jpg",
+        "content": "Ottimale",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.7.1",
+        "at": "2021-01-09 13:14:56",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOEPlkSoN6JG4BjtVC2lXVDbJG3qkR03GuNj0AzB-8WrQHhJB0kS37Ys0sLf48-zLtmZHABbYGlNSlefvw",
+        "userName": "Alessandra Bizzini",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjTn51T68ON-LqeQey3v5fJG-zWW1U9IDWQAyg10A",
+        "content": "Inutile",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2021-01-09 10:44:04",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOGHyN4nbxnZCFsbkpwOIXboXfY2SDPcnajZIXSM5D_H50DSb5AJYGVRxQhlHj_DSm0H24rjqJ066_ICAQ",
         "userName": "Roberta Croci",
         "userImage": "https://play-lh.googleusercontent.com/-6LOOktpJJZU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckIndMTo4IlrP5T_odsy-Vs2GqP5w/photo.jpg",
-        "content": "Era un'ottima applicazione, ora \u00e9 inutilizzabile. Mi si blocca all'accesso al questionario covid che non mi fa compilare n\u00e9 per me stesso n\u00e8 per gli altri componenti e non mi fa proseguire",
-        "score": 4,
+        "content": "Hanno risposto subito e ora funziona perfettamente grazie",
+        "score": 5,
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.7.1",
-        "at": "2021-01-01 17:37:11",
-        "replyContent": null,
-        "repliedAt": null
+        "at": "2021-01-04 11:14:17",
+        "replyContent": "Ciao Roberta, scrivi a info.allertalom@ariaspa.it i dettagli dell'errore riscontrato e procederemo con le verifiche del caso!",
+        "repliedAt": "2021-01-04 09:13:48"
     },
     {
         "reviewId": "gp:AOqpTOHgdpEq20oPBcuFwKaHAV4B_ofXrdcmfLYb2hOt2fduK_3RNmItucBMWCsjWPpbx3jIJs4j7VMWVFaDiw",
@@ -20,8 +44,8 @@
         "thumbsUpCount": 2,
         "reviewCreatedVersion": null,
         "at": "2020-12-24 12:07:27",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ciao Marco, la partecipazione al sondaggio non \u00e8 obbligatoria. Scrivi a info.allertalom@ariaspa.it i dettagli dell'errore riscontrato e procederemo con le verifiche del caso!",
+        "repliedAt": "2021-01-04 09:13:05"
     },
     {
         "reviewId": "gp:AOqpTOEpT9Uhm1IRSfIuUCRqqYa8IQDjOGgq0x4AmaQLhMtOnydz6GuekoszR8ut2YLb0rzHRLFrgRDvN_S6Qg",
@@ -32,8 +56,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.7.1",
         "at": "2020-12-23 14:32:10",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ciao Marco, ti ringraziamo per il feedback positivo.",
+        "repliedAt": "2021-01-04 09:11:54"
     },
     {
         "reviewId": "gp:AOqpTOGoRKNN4w3zfCgBTsd_psdoKuYCe1Yit0bFPayJm2IoqBS0RHwgrn5LmMJ9O0ZLdrt8tnTOskU_XoKTEA",
@@ -113,7 +137,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-IWTfKXCiKW0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckkK_tFoQ5u1-Z4lwP2bu_4G8Yecw/photo.jpg",
         "content": "App molto utile ed interessante peccato che ultimamente non si possa pi\u00f9 utilizzare perch\u00e9 senza consenso al questionario covid, obbligato perch\u00e9 il tasto di rifiuto non funziona, non \u00e8 pi\u00f9 possibile utilizzare neppure la parte relativa alle allerte atmosferiche L'alternativa \u00e8 ignorare completamente l'app",
         "score": 2,
-        "thumbsUpCount": 4,
+        "thumbsUpCount": 5,
         "reviewCreatedVersion": "1.7.1",
         "at": "2020-12-05 13:55:03",
         "replyContent": "Ciao Liana, la partecipazione al sondaggio non \u00e8 obbligatoria. Scrivi a info.allertalom@ariaspa.it i dettagli dell'errore riscontrato e procederemo con le verifiche del caso!",
@@ -2489,7 +2513,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-1zsP5tJpsp8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclC7p7iM85yy1N03MFaKpPiG7ga6w/photo.jpg",
         "content": "Secondo me ha la stessa utilit\u00e0 di un cartello che posso appendere fuori casa in cui chiedo ai passanti di mandarmi un messaggio se vedono del fumo uscire dalla finestra. Poi dico di aver installato un impianto antincendio.",
         "score": 1,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "1.6.0",
         "at": "2020-05-16 12:00:36",
         "replyContent": "Ciao Andrea, siamo spiacenti che la tua esperienza non corrisponda alle tue aspettative!Ci piacerebbe sapere perch\u00e9 e migliorare.Puoi raggiungerci in qualsiasi momento, scrivici a: info.allertalom@ariaspa.it",
@@ -3182,7 +3206,7 @@
     {
         "reviewId": "gp:AOqpTOG2-LpbdOS3l23T92EPOT1wPY4A7IIO0njUiy0yzC_x2DBKq1azDlJHEoDwvu08a4uWDDzgTTX9qOsBaQ",
         "userName": "Carlo Dell'anna",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjOP3k8FKUUbIWIZ-ca3Biw5_bVp_72nhoL24owPA",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgWVabfLXO-_DRoS9yfRxsbCTOgtibhyECH498law",
         "content": "Ottima",
         "score": 5,
         "thumbsUpCount": 0,
@@ -7094,7 +7118,7 @@
     {
         "reviewId": "gp:AOqpTOHkk8rkgLPFfJdw9YU_8op3p5Bit6_bi_tLVcJ3Jd6Nb9A9-nCgBkiqsw7v9zJdRPbjy7ybjJCO1oKLxQ",
         "userName": "Hikko",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh4ngX8BrA7x0FqRUDVQy5kIxKEek721ttRWxkuNg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgFEKN6aE6QkgLsPlTM3ok36h43jWdMCRFKdjLjMA",
         "content": "Per adesso funziona tutto a meraviglia.Comunque...bella idea quella di fare un'applicazione di questo genere. Sono soddisfatto : )",
         "score": 4,
         "thumbsUpCount": 0,
@@ -9626,7 +9650,7 @@
     {
         "reviewId": "gp:AOqpTOEcWugQHa5-HK8hdY_FNgE2MpO93kw4_UWz1EhGkkfUXqkkpjTSfJFHqhn3fBDsnT4vMLjVkSv4TvFp8g",
         "userName": "Ago leval",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjSrhgQYRNCfxwHas97Ata5FQ_RXuknsUejw7ykRg",
+        "userImage": "https://play-lh.googleusercontent.com/-vzD8YUK8P-k/AAAAAAAAAAI/AAAAAAAAThU/AMZuucnPXJNgchnyJU8VcGqbPEjPbOoy4w/photo.jpg",
         "content": "Non \u00e8 comprensibile",
         "score": 5,
         "thumbsUpCount": 0,
@@ -10406,7 +10430,7 @@
     {
         "reviewId": "gp:AOqpTOFqa4XZ1qHoYgRdiqNoufvdjllsIGGkWr_Z7HOfvm97NJg22OBukgXHpWIQER-CXo6tnc7uZTM8bWWKKw",
         "userName": "Nadia Sol",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjQ7fS4DvZYy3skmkaUC0Sr8ZQMIMpXMd6xxXfrzQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhU6UbT32aNHy91lCH5189BsSsUpWSEtuqRN3CTrw",
         "content": "Utile",
         "score": 5,
         "thumbsUpCount": 0,
@@ -11593,7 +11617,7 @@
     },
     {
         "reviewId": "gp:AOqpTOGEQhxhg85Lt7Dp4L30ZNc3l7mbZe5Z4aY8ynp3HdAyZWyeEZMitwTMkSCra0tIVMw7Fwk-RKc9wtKylA",
-        "userName": "roberto ruina",
+        "userName": "ottopanzer ottone",
         "userImage": "https://play-lh.googleusercontent.com/-TkWIFU5vJ1k/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmXEyKyTWUTLBkXCbqXOlNEXhrkow/photo.jpg",
         "content": "Bella ma..... X quanto riguarda la scheda covid x chi come m\u00e9 soffre di allergie dovreste dare la possibilit\u00e0 di segnalarlo poich\u00e9 tosse e raffreddore o bruciori di gola possono essere sintomi non facili da gestire. Grazue",
         "score": 3,
@@ -11974,29 +11998,5 @@
         "at": "2020-04-11 17:07:23",
         "replyContent": "Ciao, ci spiace che la tua esperienza con l'app non sia positiva. I suggerimenti per noi sono importantissimi e ci aiutano a migliorare il servizio offerto.",
         "repliedAt": "2020-04-24 19:03:39"
-    },
-    {
-        "reviewId": "gp:AOqpTOE9xWiFqJzfT7VXYmwKMgFAgAoKG6lH8nlzZ9LSa_Q2tmmLfPNyGlu_APYmohHub69m3V0IBoSn9KTJyg",
-        "userName": "GioBi",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GimkGv_Yjv2tilghrbC8w463h25HEDenbNSrdFE",
-        "content": "Deludente! 9 volte su 10 che arrivano le notifiche, segnala errore! Quando si apre l'applicazione, continua a caricare senza aprire!",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": null,
-        "at": "2020-04-11 17:05:06",
-        "replyContent": "Ciao, ci spiace che la tua esperienza con l'app non sia positiva. I suggerimenti per noi sono importantissimi e ci aiutano a migliorare il servizio offerto",
-        "repliedAt": "2020-04-24 19:00:44"
-    },
-    {
-        "reviewId": "gp:AOqpTOGBB2hAee8fRU-QIE42c74jgUi9EHfSFoepojlN1FpKBblDz8FDZsN-99xMEtg7A7-uOgwV2Nk48z7vbQ",
-        "userName": "Fernando Venera",
-        "userImage": "https://play-lh.googleusercontent.com/-qnh_wvYk9F8/AAAAAAAAAAI/AAAAAAAAEI0/AMZuuckjsX7tCzz-SYzdtaePKe0d4zz6kA/photo.jpg",
-        "content": "Ogni volta che arriva una push si aspetta un paio di minuti e poi va in time out. Completamente inutile",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.5.0",
-        "at": "2020-04-11 17:04:49",
-        "replyContent": "Ciao Fernando, ci piacerebbe migliorare la tua esperienza utente, scrivici a info.allertalom@ariaspa.it i tuoi suggerimenti e proveremo a soddisfare le tue richieste nei prossimi rilasci.",
-        "repliedAt": "2020-04-24 18:58:03"
     }
 ]

@@ -147,6 +147,8 @@ The Niagara Health Navigator app has been installed by more than **5000** times.
 <img src="5_star_reviews_wordcloud.png" alt="com.identos.nav.niagara 5 reviews"/>
 </p>
 
+> Great help<br> :date: __2021-01-05 15:29:49__
+
 > Best app ever.<br> :date: __2020-10-23 03:48:45__
 
 > Tremendous staff so supportive and caring<br> :date: __2020-07-11 20:57:36__
