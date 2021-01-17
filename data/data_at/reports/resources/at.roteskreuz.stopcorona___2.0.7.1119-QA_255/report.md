@@ -148,6 +148,10 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 <img src="5_star_reviews_wordcloud.png" alt="at.roteskreuz.stopcorona 5 reviews"/>
 </p>
 
+> Ich schränke meine sozialen Kontakte wirklich sehr ein trotzdem finde ich es super falls es doch positiv getestet Personen in meinem Umfeld gibt das ich benachrichtigt werde, ich fühle mich nicht überwacht aber die info finde ich sehr sinnvoll da in meiner Familie u mein Partner leider zur Risikogruppe gehören<br> :date: __2021-01-11 03:52:02__
+
+> Sinnvolle Open Source App die genau das tut was sie soll<br> :date: __2021-01-10 21:23:44__
+
 > Ich habe diese App seit 4 Tagen und heute erst den 1. gefunden der mir einen digitalen Handshake gibt. (meinen Sohn). Leider ist niemand in meinem Umfeld bereit, sich diese App runterzuladen. Also für mich im Moment mehr als sinnlos.<br> :date: __2020-12-30 00:07:10__
 
 > Gut<br> :date: __2020-12-26 22:26:06__
@@ -164,10 +168,6 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 
 > Die App tut dass für was sie programmiert wurde. Ist aber davon abhängig wie viel Leute diese installiert haben. Wenn jeder diese App installiert hätte, soll jeder selber mal nachdenken was dann wäre.<br> :date: __2020-12-19 08:58:35__
 
-> 👍🏻<br> :date: __2020-12-15 12:11:53__
-
-> Funktioniert super.<br> :date: __2020-12-14 22:05:36__
-
 
 
 #### 4-star reviews
@@ -175,6 +175,8 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="at.roteskreuz.stopcorona 4 reviews"/>
 </p>
+
+> Habe die App sofort installiert, finde die Idee gut, habe aber bis heute noch keine Verständigung erhalten leider gibt es auch zu wenig Nutzer<br> :date: __2021-01-14 10:27:08__
 
 > Funktioniert anscheinend<br> :date: __2020-12-11 08:41:29__
 
@@ -193,8 +195,6 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 > Gute App, mit Erweiterungsbedarf. - Corona Testergebnis via QR Code in App abfragen (Idee: jeder der mal einen Test gemacht hat, hat die App dann installiert) - mehrere Corona Warn Apps gleichzeitig aktivieren (zb DE und AT, oder Kooperation zwischen diesen) - Anzahl der Kontakte anzeigen, bzw dem Nutzer anders sichtbar machen ob/das alles funktioniert<br> :date: __2020-11-10 17:14:36__
 
 > Leider ist es sehr nervig, wenn man mehrmals am Tag an Kontakt mit Corona-Infizierten erinnert wird bzw. gefragt wird wie man sich fühlt...<br> :date: __2020-11-09 23:08:19__
-
-> Die App finde ich gut und informativ<br> :date: __2020-10-26 20:08:08__
 
 
 
@@ -232,6 +232,8 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 <img src="2_star_reviews_wordcloud.png" alt="at.roteskreuz.stopcorona 2 reviews"/>
 </p>
 
+> Warum kann ich die Stopp Corona App nicht mehr aufmachen, so wie vorher immer?<br> :date: __2021-01-14 16:03:58__
+
 > Die Zählweise der IDs ist nicht nachvollziehbar. Habe in der Wohnung keinen Untermieter und trotzdem neue IDs bekommen. 1k sind für die zweit größte Stadt Österreichs dann doch wenig IDs. Keine Alarmmeldung noch bekommen.<br> :date: __2021-01-06 19:03:52__
 
 > Ich habe dutzende Benachrichtigungen über Kontakte, obwohl ich in dieser Zeit definitiv allein zu Hause war. Es kann auch nicht von einer anderen Wohnung sein, ich lebe in einem Einfamilienhaus, weit und breit kein Mensch. Vielleicht könnte man die Mitglieder des eigenen Haushaltes auf eine Whitelist setzen. Da wird man es ohnehin erfahren wenn sie positiv sind<br> :date: __2021-01-02 13:26:53__
@@ -250,8 +252,6 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 
 > Kann nach Gesundmeldung die Krankmeldung in der App nicht deaktivieren!!<br> :date: __2020-12-03 09:48:22__
 
-> Man müsste unbedingt den Zeitpunkt vom bemerken der Symptome eingeben können. Die Inkubationszeit könnte die App von sich aus dazurechnen. Wenn ich nach 5 Tagen getestet werde und 2 Tage auf das Ergebnis warten muss, werden viele Kontakte nicht erreicht, noch dazu wo Covid anfangs am ansteckendsten ist.<br> :date: __2020-12-03 08:37:21__
-
 
 
 #### 1-star reviews
@@ -259,6 +259,16 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="at.roteskreuz.stopcorona 1 reviews"/>
 </p>
+
+> Unbrauchbar da es sowieso keiner verwendet<br> :date: __2021-01-15 23:31:32__
+
+> Die App zeigt in keinster Weise an, ob sie funktioniert oder nicht. Es muss zumindest anonymisiert dem Nutzer gezeigt werden, dass die App arbeitet! Der Nutzer muss die App verwenden WOLLEN... Ein gutes Beispiel wäre die belgische Coronalert App. In der App werden aktuelle Statistiken und Meldungen angezeigt und man sieht auf einen Blick den aktuellen eigenen Status => App wird vom Nutzer als nützlich empfunden und akzeptiert.<br> :date: __2021-01-14 23:37:23__
+
+> Habe dauern handshakes wo ich sicher alleine war. Habe die app sofort wieder deinstalliert ist Schrott. Hilft gar nichts. Handshakes in der Nacht wo ich alleine geschlafen habe<br> :date: __2021-01-14 22:53:32__
+
+> Der Nutzen dieser App erschließt sich nicht. Außer Uhrzeiten ist nichts ersichtlich oder erfahrbar... Viel Erklärung für eigentlich gar nichts.<br> :date: __2021-01-14 20:14:43__
+
+> Keine Ahnung ob es wirklich funktioniert. Wenn man den ganzen Tag über alleine im Büro sitzt und die Anzahl der "angeblichen" Kontakte ansteigt (heute zwischen 07:50 und 11:42 um 65 Kontakte). Wie gesagt, bin alleine im Raum. Niemand kommt hinein, ich gehe nicht hinaus. Mittlerweile wurde diese Kontaktanzeige komplett entfernt. Macht alles noch weniger vertrauens- und glaubwürdiger.<br> :date: __2021-01-14 14:10:53__
 
 > Installation fertig,und jetzt?? Wieder gelöscht.<br> :date: __2021-01-09 18:46:39__
 
@@ -269,15 +279,5 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 > Digitaler Handshake kann ich nicht einschalten, warum kann man das nich für jeden verständlich gestalten ? Ich lösch die app wieder, schade<br> :date: __2020-12-31 06:11:25__
 
 > Mit zusätzlichen einschalten von Bluetooth funktioniert die App nicht weil sie keiner einschalten wird ihr solltet es über Funknetz gbs machen alle was ich davon habe ist nur eine die nichts tut aber gar nichts zeigt sie an sie funktioniert so nicht bitte auf gbs ändern den niemand Dreh Bluetooth auf und darum funktioniert sie auch nicht<br> :date: __2020-12-29 04:24:50__
-
-> Ich habe die App seit der ersten Stunde. Idee finde ich die Idee großartig, sie sollte unbedingt über alle politischen Parteien hinweg, beworben werden. Man hört nichts mehr in TV oder Radio. Ich frage mich nur; warum sollte sich ein positiv getesteter mit dieser App öffentlich machen, wenn er sich (unerlaubterweise) unter die Menschen mischt?!<br> :date: __2020-12-28 13:59:13__
-
-> Ich hatte eine Coronainfektion und habe diese in der App gemeldet. Auch 2 Monate später weißt mich die App daraufhin, dass ich mich wegen Corona Absender muss.In dieser App ist es einmal Corona, immer Corona.<br> :date: __2020-12-25 08:53:24__
-
-> Selbst Rot Kreuz Mitarbeiter sagen finger weg von dem Dreck.<br> :date: __2020-12-22 11:15:20__
-
-> Keinerlei User Feedback - ob das Ding läuft, ob man jemandem getroffen hat? So viele Fragen und null Antworten. User Experience zum Davonlaufen.<br> :date: __2020-12-20 10:42:10__
-
-> Die Regierung will diese App verpflichtet machen und es wird diese mit Gesundheitsdaten verknüpft. Bist geimpft, zeigt sie grün. Ansonsten rot und kein Zutritt zB zu Veranstaltungen usw. Diktatur! Geht gar nicht. Wir müssen auf die Straße gehen. App deinstalliert.<br> :date: __2020-12-18 13:23:30__
 
 

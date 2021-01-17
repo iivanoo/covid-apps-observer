@@ -218,6 +218,8 @@ The Ascension Online Care – See a Doctor 24/7 app has been installed by more t
 <img src="4_star_reviews_wordcloud.png" alt="org.ascension.android.ascn.onlinecare 4 reviews"/>
 </p>
 
+> It is ok.<br> :date: __2021-01-11 20:42:53__
+
 > Extremely hard to get help with prescription medication if local pharmacy cannot obtain the drug. Customer service support number is 'no longer in service' when called.<br> :date: __2021-01-07 13:34:21__
 
 > Answering the same questions week after week is annoying. Covid questions for Virtual Visits?? Seriously??!! People have a .02% of catching it and an even lesser % of it being deadly. Do you really think it's gonna transfer thru a phone? js<br> :date: __2020-12-17 19:00:55__
@@ -235,8 +237,6 @@ The Ascension Online Care – See a Doctor 24/7 app has been installed by more t
 > Good<br> :date: __2020-09-02 21:50:36__
 
 > Great! Except it was a little choppy. could have been my end.<br> :date: __2020-08-20 21:55:44__
-
-> I would give 5 stars but for getting timed out 3 times while entering information. Otherwise this was fantastic. The doctor I spoke with was kind, efficient, and patient.<br> :date: __2020-08-17 19:10:10__
 
 
 

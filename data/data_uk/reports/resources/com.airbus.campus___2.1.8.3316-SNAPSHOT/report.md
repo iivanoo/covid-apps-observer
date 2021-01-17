@@ -177,6 +177,8 @@ No recent reviews available with 3 stars.
 <img src="1_star_reviews_wordcloud.png" alt="com.airbus.campus 1 reviews"/>
 </p>
 
+> It stopped working on Android 10. Loading the map keeps on crashing the app.<br> :date: __2021-01-11 20:42:35__
+
 > Used to work, now not even loading. Asks for network just after it downloaded the app... Why could there not be sitemap as backup<br> :date: __2020-01-17 07:37:45__
 
 > Not working with Oppo phone<br> :date: __2020-01-05 17:21:40__

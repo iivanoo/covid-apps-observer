@@ -140,6 +140,10 @@ The COVID Coach app has been installed by more than **10000** times. At this tim
 <img src="5_star_reviews_wordcloud.png" alt="gov.va.mobilehealth.ncptsd.covid 5 reviews"/>
 </p>
 
+> This is a very professional and easy to use app w with useful applications for a range of people. I'm a counselor and educator and I recommend this app for personal and client use.<br> :date: __2021-01-12 23:49:14__
+
+> Great very helpful and easy to use<br> :date: __2021-01-10 18:13:50__
+
 > Easy to use.<br> :date: __2020-12-28 02:50:02__
 
 > Great<br> :date: __2020-12-26 21:31:06__
@@ -155,10 +159,6 @@ The COVID Coach app has been installed by more than **10000** times. At this tim
 > It's a superb app. Covers everything.<br> :date: __2020-11-23 04:40:59__
 
 > Very excited to use this app more! Thank you to the creators for these tools, your time and diligence to create an app that is easy to use and seems to pull you right out of a hard place.<br> :date: __2020-11-20 02:11:57__
-
-> It is a fast and easy app to work through. The app helps me focus on the right things in life.<br> :date: __2020-11-12 15:27:53__
-
-> It is a good app<br> :date: __2020-10-10 18:27:04__
 
 
 
@@ -205,6 +205,8 @@ The COVID Coach app has been installed by more than **10000** times. At this tim
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="gov.va.mobilehealth.ncptsd.covid 2 reviews"/>
 </p>
+
+> Can't see how it is useful for COVID. Name is missleading.<br> :date: __2021-01-13 15:11:08__
 
 > Stops on staying well<br> :date: __2020-09-30 05:53:20__
 

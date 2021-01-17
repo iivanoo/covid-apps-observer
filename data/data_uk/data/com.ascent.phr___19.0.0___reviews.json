@@ -1,5 +1,89 @@
 [
     {
+        "reviewId": "gp:AOqpTOGtp7deOeMgtWMBgBjP9utTjpoDTkQld_5MKDtk_qAQNvNOwB_7Bo9d2YxhOgfnDv7F657y0GCHVvntmA",
+        "userName": "Caroline Bedford",
+        "userImage": "https://play-lh.googleusercontent.com/-Gc7co2oZieQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckQuyuiUzWzBWXurn2wGf_Yw1kvWA/photo.jpg",
+        "content": "Won't connect to GP practice, so of no use to me. I tried asking on \"live chat\" but just got an automated referral to changing gp practice - not what I wanted to do at all.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "19.0.0",
+        "at": "2021-01-15 08:40:33",
+        "replyContent": "If you are having any issues with linking your account to your GP, please let our customer support team know, we'd be happy to help. You can call on 0161 768 6063 or email hello@evergreen-life.co.uk. If you currently have an older (broken) link to a GP practice attached to your account, this may have to be removed before the new link can be set up.",
+        "repliedAt": "2021-01-15 12:31:11"
+    },
+    {
+        "reviewId": "gp:AOqpTOHKwwm2liYy4hyc37Fau2xmlci1j94CBuS7JJ3iJ0qWev6kYyOMs6R3WOAel9MPxKdk3ReODxXCOrL66w",
+        "userName": "Clive Strevens",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Giek3WQFNcgKzOsqjUO9wpPrwYg5LmiMbPcHsfYLw",
+        "content": "ok App doesn't really do much in the way of looking at your medical records or being able to book appointments at the doctors etc. not really sure why I still have it installed tbh",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "19.0.0",
+        "at": "2021-01-14 22:26:48",
+        "replyContent": "It sounds like your GP practice have currently disabled their online appointment book, most practices have turned off this function due to the current lockdown restrictions. If you are having any issues viewing your medical records please let our support team know, you can call on 0161 768 6063 or email hello@evergreen-life.co.uk",
+        "repliedAt": "2021-01-15 12:27:20"
+    },
+    {
+        "reviewId": "gp:AOqpTOE5ayFWXYfd3xX5AlwTbRPeaaXR408PaSbtjb_iXJ8h2KvTfa-3jb_E-ja7iPK-_uB0dYKoRiMSGwvD6A",
+        "userName": "SHOKAR KULVINDER",
+        "userImage": "https://play-lh.googleusercontent.com/-F-i4JoZ7aqo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnmNQMu3saHQCG0gu3CjHYHIRCGug/photo.jpg",
+        "content": "so easy to order repeat prescriptions, would recommend to everybody",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "19.0.0",
+        "at": "2021-01-14 18:22:02",
+        "replyContent": "Thanks for taking the time to leave us this great review. We really appreciate the positive feedback.",
+        "repliedAt": "2021-01-15 12:07:26"
+    },
+    {
+        "reviewId": "gp:AOqpTOHcbzIlh-r65FwINVdSLsUv-mV2AY3ZQ-97SwRxEl_nKyr8-oUi_BVWiT2ml7wJ_LJ3Uf6JF9N4jH5Lpg",
+        "userName": "Maria Leverton",
+        "userImage": "https://play-lh.googleusercontent.com/-Hvzrg6hz8Ls/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmNsT6Khz4LpA8783qdgpeWF2W9KQ/photo.jpg",
+        "content": "Great and easy to use",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "19.0.0",
+        "at": "2021-01-14 09:35:00",
+        "replyContent": "Thanks for leaving this great review. We're glad to hear that you're finding the services easy to use.",
+        "repliedAt": "2021-01-14 11:33:18"
+    },
+    {
+        "reviewId": "gp:AOqpTOEN87InT-0d_UmZCHNCQqk-NWlN9Xy_pwx1xppXJ20OMXujV25W3TtyAIFVjsQ7yu5LYvYU4iwEmcDSTg",
+        "userName": "ETEH DEBBIE ROWLAND",
+        "userImage": "https://play-lh.googleusercontent.com/-hik2GKPVG2c/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmFkTkER2E70AjXZiC4TmF92zYRzw/photo.jpg",
+        "content": "Reliable",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "19.0.0",
+        "at": "2021-01-14 00:26:04",
+        "replyContent": "Thanks for taking the time to leave us this great review. We love to hear that our users are finding the services reliable.",
+        "repliedAt": "2021-01-14 11:32:39"
+    },
+    {
+        "reviewId": "gp:AOqpTOE6WKo3JYES5ZWkx_MMqGXgLv182GxKot5Sj7r0w3Hf_U6lJIuvudHWttDBWurEK9hed0ljMHoYoB0Elw",
+        "userName": "Raymond Walsh",
+        "userImage": "https://play-lh.googleusercontent.com/-bDsy6i3E73g/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmBSYs3PQwssHESDhhQjAV9sEjZtA/photo.jpg",
+        "content": "very simple to use",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "19.0.0",
+        "at": "2021-01-11 19:36:25",
+        "replyContent": "Thanks for taking the time to leave us a great review!",
+        "repliedAt": "2021-01-12 10:57:33"
+    },
+    {
+        "reviewId": "gp:AOqpTOEnNre-WX5uy6ppMcw1lX3-8CW7qQpMsY0K7qQi2_kCv49cnWwr15GJ96NDep5NXxB8wQ5GXtXHQIqC0Q",
+        "userName": "terence tollitt",
+        "userImage": "https://play-lh.googleusercontent.com/-KAl6uxyNye4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmEkDuKIWjVj-UjBxrGGkf0n7psKA/photo.jpg",
+        "content": "sat",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "19.0.0",
+        "at": "2021-01-11 13:20:41",
+        "replyContent": "Hi Terence, thank you for your review. If there is anything you either need support or help with to make your journey with us a more positive one, please don't hesitate to get in touch with our customer support team on 0161 768 6063 or email us at hello@evergreen-life.co.uk.",
+        "repliedAt": "2021-01-11 16:44:13"
+    },
+    {
         "reviewId": "gp:AOqpTOEZFwQCx7mgG3Ju04l_G8prsc5QRXwu3F2zQEq3cTnUSw-RrNYg3ypJYOKVGkJaLsWURvLP3Nwwq2x0hA",
         "userName": "Michelle Jordan",
         "userImage": "https://play-lh.googleusercontent.com/-ipBo9NIq_HA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl1kWdUTdVGmZXW6Kb9azpmakseyA/photo.jpg",
@@ -8,8 +92,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "19.0.0",
         "at": "2021-01-09 10:10:24",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Michelle, thank you for taking the time to leave a 5* review for us. We are glad to hear you like our app.",
+        "repliedAt": "2021-01-11 16:41:55"
     },
     {
         "reviewId": "gp:AOqpTOFFbYphUEVI_U5vti4VhjFkVdTYmrDGc3pVaOGd1bdsABP1TN2ZvTUfiPWRM6VQNd_jtxf10AP0nVvqcQ",
@@ -20,8 +104,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "19.0.0",
         "at": "2021-01-07 23:23:33",
-        "replyContent": "Hi Tracy, thank you for taking the time to leave us a review with feedback. If there is anything we can do to help your journey with us become a more positive one please don\u2019t hesitate to get in touch with our customer support team on 0161 768 6063 or email us at hello@everygreen-life.co.uk",
-        "repliedAt": "2021-01-08 11:20:53"
+        "replyContent": "Hi Tracy, thank you for taking the time to leave us a review with feedback. If there is anything we can do to help your journey with us become a more positive one please don\u2019t hesitate to get in touch with our customer support team on 0161 768 6063 or email us at hello@evergreen-life.co.uk",
+        "repliedAt": "2021-01-15 12:27:58"
     },
     {
         "reviewId": "gp:AOqpTOHj7rcV8iAyJYpWCVSlzPN_R8LEAiFTAqd97gAlfObpF4A7qYbeZNkPq-yZCtr_bYkuPq5kPWVCbqYZJQ",
@@ -41,7 +125,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-L8ZHpmPdSwQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckzDI0vZhDkzak6kXR3s1ikRdLDew/photo.jpg",
         "content": "Support staff are wonderful, patient but latest app is not easy to navigate & when I finally manage to find where to order medications, I get repeated notifications about the message box having 'special characters' even when it's blank. Seriously, I've wasted hours on different days reloading the app, try typing a sentence or removing it. I've only a few days of meds left. I've tried again, done exactly the same & got error notification & leaving then coming back, it's accepted! Bizarre",
         "score": 1,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "19.0.0",
         "at": "2021-01-07 14:48:17",
         "replyContent": "Hi Jill, we are glad to see you managed to make an order. If you experience this again please do get in touch with our customer support team on 0161 768 6063 or you can email them at hello@evergreen-life.co.uk",
@@ -4105,7 +4189,7 @@
     },
     {
         "reviewId": "gp:AOqpTOEVCwGJtPBNFAl0dFtXSMLcYeOn4PWDY6jcOcQu8Qyg-Ez1TFUeMmRFsh0R6rR20cul4UYFbJX9A4Ox-g",
-        "userName": "Celestina Edwards",
+        "userName": "C Edwards",
         "userImage": "https://play-lh.googleusercontent.com/-IHAPQhf3kyQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmLd6dViIM8RdNyFfkON1HxTxLmRA/photo.jpg",
         "content": "The app isn't working. I can't order prescriptions and cannot see any results from recent tests I've had. It's not worth downloading with all these issues",
         "score": 1,
@@ -5246,7 +5330,7 @@
     {
         "reviewId": "gp:AOqpTOEWUix4Rg2bdh-JgRDUmdeGJf1_BNnIS-JGudZGRa-oTpEUwjLsQYAlJ2zh44Fdpj81dIkH0ZZOGbgE5g",
         "userName": "Alison Payton",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh0o9VaTzPmCKycNoYHA69WYPXjK01GKxo7XDMNcqk",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjUPAyAYpG4opp3InsiVPPBI_JAEZsZEHm8w_XeJ90",
         "content": "Always easy to use",
         "score": 5,
         "thumbsUpCount": 0,
@@ -6782,7 +6866,7 @@
     {
         "reviewId": "gp:AOqpTOFzBOnD-tgf0HnWkt0Yx86pD-0mdJMpcLb1OwCe0PgNHS2RWtrsGliDEgaaDHajXPonSB4oEYF1blHoAA",
         "userName": "Vader Wolf",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiL-dW3LxHbfOQqqCpsUw9RKxaIpzyrFGy2qqqc-Q",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Giyk5gAmPQzmlZa6Sl_3cqDo7ZePrOMxJ8B4DN2Yw",
         "content": "Very easy to use, never had a problem with anything I've ordered or booking appointments online",
         "score": 5,
         "thumbsUpCount": 0,
@@ -8810,7 +8894,7 @@
     {
         "reviewId": "gp:AOqpTOHo--y5_v20u9H9Q5HAOE1BwK0fvG-Y-yBdnbHkSA9JvpJ5EMNLxWfPtbleIjxiWrOB1NZRJwsto17kaw",
         "userName": "Nadine joy Alveranga",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj_UBhU_WWkgAAjwo0fmm-jggH905lcTvmQ5LJifA",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ggfn51_gZuyUnWBv6hcAhPYf9l3t9FmLbk8hqDQDLg",
         "content": "excellent way to make appointments. much better than the phone in system.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -9002,7 +9086,7 @@
     {
         "reviewId": "gp:AOqpTOHztYIlSTar9r-1WW3WzahdWKF0cQZHkb1xmCyNuYofRl_b4gpJezKjW-Om71wha0YvEx82wcPFB_-MVw",
         "userName": "Terri Ann",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjpMhgILSlwd4hGBnbr1dt3jUfaFA_h0pcpdUoJrg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gjy0RoMsyJMpxmk3r2WV3cTw0IgwHPWz59xNg179w",
         "content": "This makes things so much easier! I never have an issue getting an appointment anymore! works well",
         "score": 5,
         "thumbsUpCount": 1,
@@ -11017,7 +11101,7 @@
     },
     {
         "reviewId": "gp:AOqpTOG3cipdhVAkJGoatu-6kjOgTFrAraVTqPyBLQ_vuNc-xIfuaoSTxhGxPzi0AWFDGPI6yNRlYiHRfiGcHQ",
-        "userName": "derek James",
+        "userName": "Derek James",
         "userImage": "https://play-lh.googleusercontent.com/-AwqDwLbpqLU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl5u8xefNWqQWDLsrAXByHDxAevVQ/photo.jpg",
         "content": "excellent never fails to deliver!",
         "score": 5,
@@ -11914,89 +11998,5 @@
         "at": "2019-04-23 19:07:17",
         "replyContent": "Thank you for your review!",
         "repliedAt": "2019-04-26 16:46:37"
-    },
-    {
-        "reviewId": "gp:AOqpTOHyyqevSe2Ydi9G8I3zNshANbQ5rS-PffU0Ol3xKpCmh6Oms0ut00JC1L5kgyw__pAmwgnMJiI2GMue8g",
-        "userName": "Steve Quao",
-        "userImage": "https://play-lh.googleusercontent.com/-l3Br1IeN8rw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck0AUTxzz2wbDLKCqfo0kR4id-u6Q/photo.jpg",
-        "content": "excellent service",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "11.0.9",
-        "at": "2019-04-23 10:13:54",
-        "replyContent": "Thank you for your review. I am very sorry to hear you do not wish to use our service. If you have had any issues which you would like to discuss with our support team please contact us here - https://e-life.co.uk/Contact?_ga=2.181542375.151535290.1551089264-303910435.1542206984",
-        "repliedAt": "2019-02-26 10:49:56"
-    },
-    {
-        "reviewId": "gp:AOqpTOFJvKznyyaDN7YfMhIKa2AUwMTs1DhBpiqOf3BZNk2mirJ411-8_FXlSqT9DPmrv59IECx54SXAly2_cA",
-        "userName": "Flower CHICK",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gie630JsMZvoQw8rePzVj2WV266aNi_JfAAVXJpnw",
-        "content": "WORKS GREAT. HOWEVER!! THE app NEEDS an update as many patients like (myself cannot used the upstairs in RED ROOFS SURGERY,) WOULD be so greatful if there was a click button where patients can deicied weather they want to be seen downstairs and/OR upstairs by any DRS?? AS I had a very bad rudeness DR state I should us the upstairs. Find it extremely easy having to be seen downstairs WHERE I feel safe rather then missing the a step then falling downstairs as this would be embarrassing. Thanks",
-        "score": 2,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "11.0.9",
-        "at": "2019-04-23 07:56:08",
-        "replyContent": "Thank you for your review and your feedback. Unfortunately we can only reflect the appointment types/styles your practice has made available so this would have to be changed by them. If you like to discuss any issues further please contact us at hello@evergreen-life.co.uk or 0161 768 6063",
-        "repliedAt": "2019-04-26 16:50:08"
-    },
-    {
-        "reviewId": "gp:AOqpTOEBxz_AtdZ2COnrRFj08uKzyi7slxfEPW_nQaAVfCir_7ToyVDdeQHjdR_5Bd6-OCBm3p3ulPNK1_PNEQ",
-        "userName": "Chris Goldsmith",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgwjONmhCEYrSbpGBh9cN63HQV8s8E2IDoDjO4AfEA",
-        "content": "good for ordering prescriptions, but recently has stated nagging about a wellness check. This is overstepping the bounds of a utility app, and that information is between me and my gp",
-        "score": 3,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "11.0.9",
-        "at": "2019-04-22 20:07:16",
-        "replyContent": "I am sorry to hear this.Wellness checks are a new feature and are under development. I am sorry for any disturbance or inconvenience they may have caused you. You should be able to decline future prompts after the 3rd notification. If you would like to discuss this further please contact us on 0161 768 6063 or hello@evergreen-life.co.uk",
-        "repliedAt": "2019-04-26 17:07:39"
-    },
-    {
-        "reviewId": "gp:AOqpTOGQb06Wy4s8k141b5M7iVJld-DA6_cH3FlpYgwCUMJVPftOoizVcgNVciK2697DOQV0ifPDLxle0Hl96g",
-        "userName": "Phoenix Blaze",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhlJmxJa39AbKQHkpz42vndsWEhsW-NbSvdAvpRrg",
-        "content": "very handy",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "11.0.9",
-        "at": "2019-04-22 13:19:25",
-        "replyContent": "Thank you for your review",
-        "repliedAt": "2019-04-26 17:07:48"
-    },
-    {
-        "reviewId": "gp:AOqpTOGWTzWUTspnRvpQZfnvhHKBiXO1i2mr7cXqR00PfYeM4nDXL05bCtoKaPlaZ-Mz-zGgYKI1R166s3vewg",
-        "userName": "Paulus H",
-        "userImage": "https://play-lh.googleusercontent.com/-d-fmv0taoso/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmb-47MqFkiScDZ-b5l0EDg4wvlEA/photo.jpg",
-        "content": "excellent so far !",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "11.0.9",
-        "at": "2019-04-22 12:50:23",
-        "replyContent": "Thank you, great to hear!",
-        "repliedAt": "2019-04-26 17:07:59"
-    },
-    {
-        "reviewId": "gp:AOqpTOFoFPwRifM2TF_YKKPUZqnJ1OF4088D8FKZuVVWMbvndRS4wouTLDr2zDa-190U-Ig9zaFqF5F_UbLOsQ",
-        "userName": "Tony Mcclave",
-        "userImage": "https://play-lh.googleusercontent.com/-lca_-wUf8DM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmxGjgK_77_YdlcsQHpgLYGiVfAog/photo.jpg",
-        "content": "Good easy to use",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "11.0.9",
-        "at": "2019-04-22 11:05:04",
-        "replyContent": "Thank you for your review! :)",
-        "repliedAt": "2019-04-26 17:08:11"
-    },
-    {
-        "reviewId": "gp:AOqpTOG4tY-lrcqVU7K2rRtZWdu7YLOIgoGFA_aTnrFlAU3cSncphq4XeRsr3NFJApv6mnPDP7h9RWPyn87L0w",
-        "userName": "Gillian Smith",
-        "userImage": "https://play-lh.googleusercontent.com/-Rl4Gb2EQnDo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckFYLXiG73_UgytQA8OQth5F3xsEQ/photo.jpg",
-        "content": "easy to use",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "11.0.9",
-        "at": "2019-04-21 21:48:03",
-        "replyContent": "Thank you for you review!",
-        "repliedAt": "2019-04-26 17:08:20"
     }
 ]

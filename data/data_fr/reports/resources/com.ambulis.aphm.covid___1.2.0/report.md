@@ -172,8 +172,6 @@ The COVID AP-HM app has been installed by more than **10000** times. At this tim
 
 > Pareil que l'autre<br> :date: __2020-08-11 02:14:19__
 
-> Tres nul pour le chargement<br> :date: __2020-05-25 20:36:22__
-
 
 
 #### 1-star reviews
@@ -181,6 +179,8 @@ The COVID AP-HM app has been installed by more than **10000** times. At this tim
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="com.ambulis.aphm.covid 1 reviews"/>
 </p>
+
+> Application nuls 0n nous demande un numéro de dossier que l'on n'a pas<br> :date: __2021-01-12 11:37:33__
 
 > Cette application est nul. On me demande un numéro de dossier que je n'ai pas. Je ne vous conseille vraiment pas cette application !<br> :date: __2020-12-22 20:06:01__
 
@@ -199,7 +199,5 @@ The COVID AP-HM app has been installed by more than **10000** times. At this tim
 > Ou se trouve le numéro de dossier ?<br> :date: __2020-05-31 08:00:02__
 
 > Bonjour, vous pouvez m expliquer quelle est le numéro de dossier svp<br> :date: __2020-05-28 17:58:01__
-
-> Zéro cela ne vaut absolument rien aucunes confiances cest juste du blabla et prendre le peuple pour des naifs sa ne vaut rien car rien nest fiable juste un gadget ni plus ,ni moins et comme dautres sites bidon okay d'accord<br> :date: __2020-05-26 23:10:02__
 
 

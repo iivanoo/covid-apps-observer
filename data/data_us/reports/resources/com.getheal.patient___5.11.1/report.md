@@ -275,6 +275,8 @@ website.<br> :date: __2018-05-04 18:36:50__
 <img src="3_star_reviews_wordcloud.png" alt="com.getheal.patient 3 reviews"/>
 </p>
 
+> I enjoy talking with the doctor<br> :date: __2021-01-14 02:47:50__
+
 > There's a couple of issues within the teleconference option. One, on my Pixel 4 XL the front facing camera video is on Gray Scale, swapping between front and back cameras doesn't fix it. And two, there's no way to resume the video call intent if you send it to the background, it doesn't show up on the recent apps. I still can talk for a couple of seconds before the conference is killed and the doctor has to call again.<br> :date: __2020-05-06 18:49:22__
 
 > Waiting patiently for HEAL to come to my area in Florida!<br> :date: __2019-10-29 03:29:26__

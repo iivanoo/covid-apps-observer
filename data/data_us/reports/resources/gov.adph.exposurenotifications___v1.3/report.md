@@ -234,6 +234,14 @@ The GuideSafe app has been installed by more than **50000** times. At this time,
 <img src="1_star_reviews_wordcloud.png" alt="gov.adph.exposurenotifications 1 reviews"/>
 </p>
 
+> Stopped working. What the heck is wrong with Alabama? Do they not care about the public??<br> :date: __2021-01-15 03:42:21__
+
+> Nice concept but completely stopped working. Also probably not enough users to be worthwhile even when it was functioning.<br> :date: __2021-01-12 12:53:38__
+
+> It didn't do anything I had the Virus and it didn't go off<br> :date: __2021-01-12 01:30:58__
+
+> Does not work. Does not check for exposure<br> :date: __2021-01-11 22:20:13__
+
 > When I first installed the app, it checked about once a day for exposure. Then it stopped checking. The last time it checked was the middle of December. I uninstalled and reinstalled several days ago, and even though I occasionally see downloads related to the app, it still says 'exposure never checked'.<br> :date: __2021-01-09 01:34:05__
 
 > This app does not work. As soon as I put my phone number in, it will reroute to my school's home page and it keeps doing this repeatedly even when I restart my phone or uninstall the app and reinstalled it back.<br> :date: __2021-01-07 01:50:43__
@@ -245,13 +253,5 @@ The GuideSafe app has been installed by more than **50000** times. At this time,
 > This is from the State of Alabama which means somebody's relative got paid a lot of money to write this piece of.. Install this if you want them to know where you are. Don't install it if you think it's going to protect you from anything. This is Alabama, a State that sued Pennsylvania cuz they didn't like how they voted. The state motto here is "politicians don't care about you." If you were a mask, they think you are communist. Alabama... Ignoring syphilis infections since 19 something.<br> :date: __2020-12-29 21:56:46__
 
 > The app checked for exposure every 24-48 hours when I first installed. In the last month, the app hasn't checked for exposure at all. Uninstalled, reinstalled, checked and rechecked settings and still no exposure check. Uninstalling permanently. Worthless unless it consistently checks for exposure.<br> :date: __2020-12-28 04:22:21__
-
-> Doesn't work!<br> :date: __2020-12-27 08:56:05__
-
-> Doesn't work<br> :date: __2020-12-27 05:25:56__
-
-> My app has not updated exposure checks since November 27th. Is it broken? Should I just uninstall?<br> :date: __2020-12-24 05:58:48__
-
-> No longer working as of November. I have reinstalled it twice and it just shows "never checked for exposure."<br> :date: __2020-12-23 21:54:28__
 
 

@@ -142,6 +142,12 @@ The Lumeca - See a doctor now - Free in Saskatchewan app has been installed by m
 <img src="5_star_reviews_wordcloud.png" alt="rs.nosolutions.lumeca 5 reviews"/>
 </p>
 
+> Exceeded my expectations.<br> :date: __2021-01-13 23:52:20__
+
+> Very easy to use and during these covid times its great to talk to a doctor in the safety of your own home, especially for little issues.<br> :date: __2021-01-12 03:53:30__
+
+> I really loved using the app! As someone with anxiety it was really nice not having to leave my apartment, I was definitely more relaxed then if I went to a doctors. I didn't have wait long too. My appointment was at 12:30 and the doctor came in a few minutes later. Even if they are behind atleast you are at home.<br> :date: __2021-01-11 23:45:21__
+
 > Great experience!<br> :date: __2021-01-07 23:42:00__
 
 > Great stuff<br> :date: __2021-01-07 05:57:37__
@@ -155,12 +161,6 @@ The Lumeca - See a doctor now - Free in Saskatchewan app has been installed by m
 > Great<br> :date: __2020-10-24 18:50:44__
 
 > This app and service is great! Thank you so much.<br> :date: __2020-09-19 19:59:25__
-
-> Super fast, clear and organized. My daughter was diagnosed and had medication right away. Great service. So glad it's available!<br> :date: __2020-09-14 02:24:50__
-
-> Super fast and easy<br> :date: __2020-09-08 23:43:31__
-
-> Excellent service! Was away on holidays and needed to speak to a doctor. Got to video chat with one within 1 hour. She sent a prescription in to the pharmacy that I was close too and I picked it up within a hour!!<br> :date: __2020-08-24 01:55:18__
 
 
 

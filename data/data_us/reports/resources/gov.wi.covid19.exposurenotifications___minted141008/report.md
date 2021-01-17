@@ -126,6 +126,8 @@ The WI Exposure Notification app has been installed by more than **100000** time
 <img src="5_star_reviews_wordcloud.png" alt="gov.wi.covid19.exposurenotifications 5 reviews"/>
 </p>
 
+> Wonderful app. Since installing the app I have not had the covid. I had concerns about my privacy but since I always wear my medically approved covid mask those concerns vanished since they can't see my whole face. I am also constantly using hand sanitizer and washing my hands so they can't track my DNA. Wonderful app, everyone should install and take the privacy precautions I do 😷 🧴🧼<br> :date: __2021-01-10 07:01:51__
+
 > It gave me accurate feedback.<br> :date: __2021-01-08 21:03:39__
 
 > Don't pay any attention to the ignorant Trump Hannity worshipers. This is a useful app that is intended to help protect you and others.<br> :date: __2021-01-01 01:08:54__
@@ -143,8 +145,6 @@ The WI Exposure Notification app has been installed by more than **100000** time
 > I don't know yet as I just started on the app.<br> :date: __2020-12-27 00:29:25__
 
 > Installed easily, have not had any issues related to this app. Note this app does not track people or collect any personal data. Please encourage other Wisconsinites you may know to install this app. See Wisconsin's covid website for additional information.<br> :date: __2020-12-25 17:32:39__
-
-> Thank you guys for making this. The app is very lightweight. You do need to have your Bluetooth on. It does not track your location, only your proximity to other people that have the app, so it can notify you if you've been near someone with covid.<br> :date: __2020-12-25 09:25:28__
 
 
 
@@ -183,16 +183,22 @@ The WI Exposure Notification app has been installed by more than **100000** time
 #### 2-star reviews
 
 <p align="center">
-
+<img src="2_star_reviews_wordcloud.png" alt="gov.wi.covid19.exposurenotifications 2 reviews"/>
 </p>
 
-No recent reviews available with 2 stars.
+> I got on here and have not received any info from you about the covid19 issues in 53587.<br> :date: __2021-01-10 14:05:27__
+
+
 
 #### 1-star reviews
 
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="gov.wi.covid19.exposurenotifications 1 reviews"/>
 </p>
+
+> This app developed by Google is totally useless, a waste of tax payer money, and just another way for Google to track your every move from where you've been to when you took your last dump. I've had this app since the first day it became available in Wisconsin, traveled throughout the state several times and not once have I received a notification? With the high case numbers in WI, I find this very hard to believe. Better to wear your mask, stay safe and don't waste your time with this spyware.<br> :date: __2021-01-14 23:05:19__
+
+> didn't find this too useful<br> :date: __2021-01-12 03:58:00__
 
 > The app does not install at all. Please fix it so more people can use this tool to keep our state virus free.<br> :date: __2021-01-06 19:06:55__
 
@@ -209,9 +215,5 @@ No recent reviews available with 2 stars.
 > I wish I could get it to download properly as it just keeps saying "Pending" as it tries to download through Google Play. I've been trying for 3 days now & it still won't download. What's the problem? Bluetooth is active & working on other devices just fine. Never had this problem b4 unless it's the sheer magnitude of people downloading it. Any help would be appreciated.<br> :date: __2020-12-26 23:52:02__
 
 > Truly blessed are we in this age of technological development to have a way to track pretty much nothing, actually. This app is not only severely ineffective, but only serves a purpose to people with compromised immune systems. Normal healthy people do not need to worry about this any more than pneumonia or the flu. Stop the fear mongering and get a damn grip. This is getting ridiculous. A TRACKER IN YOUR POCKET that drains your phone battery... Hope you don't need it to call 911 or anything...<br> :date: __2020-12-26 20:18:34__
-
-> Fake/fraudulant developer contact email address. No response to concerns. I don't trust it.<br> :date: __2020-12-26 18:48:05__
-
-> Waste of time<br> :date: __2020-12-26 14:44:56__
 
 

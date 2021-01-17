@@ -243,6 +243,18 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 <img src="1_star_reviews_wordcloud.png" alt="de.bssd.covid19 1 reviews"/>
 </p>
 
+> Startet noch nicht einmal... gar nicht erst runterladen ist die beste Entscheidung<br> :date: __2021-01-15 18:03:09__
+
+> Müll<br> :date: __2021-01-15 14:45:28__
+
+> Man kann den QR-Code beim besten Willen nicht scannen und muss jedesmal die Endlos ID eingeben. Nach misslungendem Versuch des Scans und Versuch der Eingabe der ID wird man permanent gefragt ob man die App schliessen möchte. Sehr schlecht gemacht....<br> :date: __2021-01-15 09:43:16__
+
+> Funktioniert nicht.<br> :date: __2021-01-13 14:28:25__
+
+> Null Sterne leider nicht möglich da die app überhaupt nicht funktioniert. Die Tastatur öffnet sich nicht, der scan funktioniert auch nicht und überhaupt ist die UI absoluter Müll.<br> :date: __2021-01-10 12:22:06__
+
+> Scanfunktion nicht möglich. Texteingabe nicht immer möglich. Ein Armutszeugnis!<br> :date: __2021-01-09 22:41:48__
+
 > Nach klick auf die App geht Startbild auf und schließt sofort wieder. Hatte gestern großes Android 11 Update. Ob es damit zusammen hängt?<br> :date: __2021-01-09 17:00:43__
 
 > App zeigt kurz Startbild und endet sofort wieder! Mehrfach deinstalliert und neu installiert.<br> :date: __2021-01-08 14:38:50__
@@ -250,17 +262,5 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 > QR scannt nicht. Dadurch ist keine Anmeldung möglich. Unnötige App<br> :date: __2021-01-05 13:20:02__
 
 > Funktionierte leider nicht. QR Code wurde nicht gescannt<br> :date: __2021-01-05 05:33:13__
-
-> Die App zeigt auch 2 Wochen nach Test an dass das Ergebnis nicht vorliegt. Der online Zugang vom Labor hatte das Ergebnis schon zwei Tage später zur Verfügung gestellt.<br> :date: __2021-01-02 10:54:33__
-
-> Scanfunktion wird nicht aktiviert - daher unbrauchbar!<br> :date: __2020-12-26 14:37:13__
-
-> Die anderen Bewertungen stimmen leider. Auch bei mir ging der Scan nicht. Handeingabe ging auch nicht. Die Tastatur erschien nicht. Hab die App dann gleich wieder deinstalliert.<br> :date: __2020-12-25 23:12:21__
-
-> Lässt sich nicht öffnen<br> :date: __2020-12-22 10:38:02__
-
-> Diese App ist absolut unbrauchbar. Ein Scannen des QR-Code ist nicht möglich. Manuelle Eingabe nur über Umwege möglich. Ich habe meine Ergebnis seit 3 Tagen und die App zeigt immernoch an, dass knoch kein Ergebnis vorliegt. Wie kann man guten Gewissens solch einen Mist veröffentlichen und dann auch noch monatelang nicht weiter entwickeln.<br> :date: __2020-12-21 20:46:12__
-
-> Funktioniert nicht<br> :date: __2020-12-19 18:00:29__
 
 

@@ -150,25 +150,25 @@ The COVID Alert NY app has been installed by more than **500000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="gov.ny.health.proximity 5 reviews"/>
 </p>
 
+> Great app, espeally for me, my favorite color is purple!<br> :date: __2021-01-15 23:13:22__
+
+> Looks like a great app<br> :date: __2021-01-14 22:48:01__
+
+> Easy-to-use<br> :date: __2021-01-14 05:59:23__
+
+> Sure were all gonnadie soona yways.<br> :date: __2021-01-13 05:15:30__
+
+> Gives me nfo needed...<br> :date: __2021-01-10 23:29:47__
+
+> Lucky<br> :date: __2021-01-09 23:33:53__
+
+> 12/26 I got an alert that someone was close to me for a prolonged time with Covid. The worst part was getting tested which seemed like it was more difficult then it needed to be and finding a testing cite was annoying and Imo this is a PUBLIC health crisis and ALL testing should be free. I had to go to a place and pay for a test. I was satisfied with this app because I was warned! So for that I'm happy. I was able to be proactive. I was negative in the end so this worked at least for me.<br> :date: __2021-01-09 23:26:30__
+
 > SharonFrancisSharen22o<br> :date: __2021-01-08 21:41:03__
 
 > Great<br> :date: __2021-01-06 11:23:53__
 
 > The Macarona y quesso detector is stronk<br> :date: __2021-01-04 04:46:46__
-
-> I think this is a good start to keep yourself save and others try it. It's free and you don't lose nothing by trying.<br> :date: __2021-01-03 20:27:38__
-
-> Great<br> :date: __2021-01-03 06:40:17__
-
-> Great resource for dealing with COVID<br> :date: __2020-12-29 04:01:05__
-
-> Worked good!<br> :date: __2020-12-28 01:28:59__
-
-> This is a good àpp<br> :date: __2020-12-25 06:59:02__
-
-> Supar<br> :date: __2020-12-23 10:09:30__
-
-> hgg<br> :date: __2020-12-22 21:33:38__
 
 
 
@@ -206,6 +206,8 @@ The COVID Alert NY app has been installed by more than **500000** times. At this
 <img src="3_star_reviews_wordcloud.png" alt="gov.ny.health.proximity 3 reviews"/>
 </p>
 
+> Its ok<br> :date: __2021-01-12 02:15:18__
+
 > All of these apps need to work together, not try to supercede each other. People who travel should not need to switch which app is doing sensing depending on which state they are in. If this is the fault of state health departments, they need to stop the bickering and all work together<br> :date: __2021-01-06 04:16:14__
 
 > I will say, recently in our area we've had an outbreak. The app was scanning daily to see if anyone in the vicinity had reported symptoms. This will only work if everyone down loads this and enters symptoms or lack thereof often.<br> :date: __2021-01-06 02:02:53__
@@ -224,8 +226,6 @@ The COVID Alert NY app has been installed by more than **500000** times. At this
 
 > I installed this app 3 months ago and tested positive for the novel coronavirus 1 month ago. I was excited to warn nearby contacts of my status from the app, but doing so requires a secret 6-digit code and the contact tracer who was assigned to my case did not know what it was. I was so disappointed. My phone had collected 2 months of data about nearby contacts, but this information could not be used to save lives. I don't blame the contact tracer, but I hope this issue can be addressed.<br> :date: __2020-11-17 21:19:31__
 
-> Assume this app works, but haven't had any alerts. Also the symptoms are similar to common cold and allergies so that may cause alarm to people.<br> :date: __2020-11-15 16:15:08__
-
 
 
 #### 2-star reviews
@@ -233,6 +233,8 @@ The COVID Alert NY app has been installed by more than **500000** times. At this
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="gov.ny.health.proximity 2 reviews"/>
 </p>
+
+> Why can't I use this with another COVID exposure notification app? I live near both NY and CT. This should definitely be something to consider.<br> :date: __2021-01-14 15:08:50__
 
 > To hard to do<br> :date: __2021-01-04 16:34:28__
 
@@ -252,8 +254,6 @@ The COVID Alert NY app has been installed by more than **500000** times. At this
 
 > I loved this app, until yesterday when it stopped updating. The person info I have is now for 2 days ago. It's now worthless.<br> :date: __2020-11-05 12:29:55__
 
-> This app in no way lets u know if you have been in contact with covid<br> :date: __2020-10-30 18:24:06__
-
 
 
 #### 1-star reviews
@@ -261,6 +261,8 @@ The COVID Alert NY app has been installed by more than **500000** times. At this
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="gov.ny.health.proximity 1 reviews"/>
 </p>
+
+> Useless<br> :date: __2021-01-14 03:22:18__
 
 > This app needs far too many permissions and it's a very heavy drain on the battery.....<br> :date: __2021-01-07 16:02:47__
 
@@ -279,7 +281,5 @@ The COVID Alert NY app has been installed by more than **500000** times. At this
 > Pointless<br> :date: __2020-12-31 20:21:37__
 
 > Totally useless app.<br> :date: __2020-12-28 21:36:59__
-
-> Useless.. i work doing COVID testing have yet to have the application alert me of a contact, yet I see many people every day who have tested positive.<br> :date: __2020-12-28 03:36:13__
 
 

@@ -230,6 +230,8 @@ The One Medical app has been installed by more than **100000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="com.onemedical.android 5 reviews"/>
 </p>
 
+> The provider was amazing: helpful, kind, knowledgeable, pleasant, answered all my questions, and easy and fun to talk with. Perfect!<br> :date: __2021-01-15 00:07:34__
+
 > Intuitive, well designed, and provides the services I would need from an app like this. The only improvement would be online/ mobile payment.<br> :date: __2021-01-03 21:57:46__
 
 > The video chat option is great for last minute visits for non-urgent medical issues. One Medical has been my provider for nearly a decade and I've been very happy with my medical needs, both preventative and reactive.<br> :date: __2021-01-02 19:18:24__
@@ -247,8 +249,6 @@ The One Medical app has been installed by more than **100000** times. At this ti
 > Boom!<br> :date: __2020-12-12 16:53:18__
 
 > App is very straightforward to navigate. Response times from providers are usually very quick. Overall very happy with my experience<br> :date: __2020-12-06 17:51:41__
-
-> Top notch<br> :date: __2020-12-03 03:16:15__
 
 
 

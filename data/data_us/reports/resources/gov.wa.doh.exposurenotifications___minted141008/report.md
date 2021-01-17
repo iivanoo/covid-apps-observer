@@ -129,6 +129,12 @@ The WA Notify app has been installed by more than **100000** times. At this time
 <img src="5_star_reviews_wordcloud.png" alt="gov.wa.doh.exposurenotifications 5 reviews"/>
 </p>
 
+> Satisfecho de ser notificado cuando uno este expuesto ante gentes con covid-19 mil gracias.<br> :date: __2021-01-14 01:22:18__
+
+> Much needed<br> :date: __2021-01-12 01:20:21__
+
+> Just installed...rate this part later<br> :date: __2021-01-09 20:08:00__
+
 > Very helpful<br> :date: __2021-01-05 12:31:36__
 
 > I like the idea of having it tell me<br> :date: __2021-01-05 08:26:57__
@@ -142,12 +148,6 @@ The WA Notify app has been installed by more than **100000** times. At this time
 > It's been a few escrering moment but, better get the alert than the 🤒.<br> :date: __2021-01-03 03:15:43__
 
 > Too soon to tell but could be very useful. They need to have a share that you can choose which app store to refer people Apple or Google. This one just sends a Google link which is useless for my wife and daughter. Hopefully they will add this. The real key is getting enough people to use it in this paranoid, conspiracy following world. Thanks for the quick response and good luck!<br> :date: __2021-01-02 05:30:16__
-
-> This app doesn't track you! Google does that. The more downloads the better it will work. Get it!<br> :date: __2021-01-02 04:49:24__
-
-> Really like this and think it was a good idea<br> :date: __2020-12-27 06:08:25__
-
-> Fine<br> :date: __2020-12-24 12:40:30__
 
 
 
@@ -241,24 +241,24 @@ The WA Notify app has been installed by more than **100000** times. At this time
 <img src="1_star_reviews_wordcloud.png" alt="gov.wa.doh.exposurenotifications 1 reviews"/>
 </p>
 
+> Typical government, very poor quality<br> :date: __2021-01-15 23:53:41__
+
+> This app does not work. every time I get on it says there's been no cases in Washington. yet I live in King county and it has one of the highest rates of the covid<br> :date: __2021-01-13 20:28:29__
+
+> People need to know where to get a code from if they have tested positive. There's more information that needs to be put on here for the people.<br> :date: __2021-01-13 19:17:33__
+
+> I had a coworker matter a fact 2 co workers got covid and this stupid app never notified me of either exposure. This app wants full access to your cell and doesn't even do what it says it does<br> :date: __2021-01-13 05:08:21__
+
+> While the idea seems great, the app is useless if the infected person does not input info of being positive, and honestly, I don't really think it's a good idea to let government and health officials track our every move as one day this could be used in a negative way.<br> :date: __2021-01-11 20:52:20__
+
+> Great idea, BUT, loaded this app 3 weeks ago, 10 days ago roommate tested positive. Still telling me I haven't been exposed.<br> :date: __2021-01-10 23:03:06__
+
+> I work in the public, and with this pandemic Iam pretty sure that I have been exposed at some point. This app shows nothing.<br> :date: __2021-01-10 18:54:59__
+
+> Waste<br> :date: __2021-01-09 22:00:36__
+
 > I work at the post office and we had 3 positive results and I never received 1 alert from this app<br> :date: __2021-01-09 02:58:01__
 
 > Constantly alerts if you ever have gps or bluetooth off so if it ever tries to give me a virus alert, I won't notice it. Update: I don't care about data or battery. I turn things off because I don't want internet dog food ads for driving past a pet store and I only go out once a week for groceries; no guests.<br> :date: __2021-01-07 15:44:25__
-
-> I am a healthcare worker who has been exposed to numerous COVID positive patients but am told on a daily basis that I have had No Recent Exposures. Hmmm.<br> :date: __2021-01-06 18:04:42__
-
-> I came into contact with 2 people for a few hrs that tested positive 2 days later. They both have this app.. They were both called by the health dept and neither of them were asked about the App or given a code. None of us were aware that you had to be given a code?<br> :date: __2021-01-06 08:14:32__
-
-> No code. Can't make it work. UPDATE: According to developer reply, I should have gotten a code from health Dept... I did not. I did an online interview a month after having covid-19, but no code.<br> :date: __2021-01-04 21:10:20__
-
-> JUST TO GIVE ME MY PRIZES ALREADY. I WANT TO BE RELEASED FROM THIS STATE OF HELL<br> :date: __2021-01-04 01:36:08__
-
-> Wow, they really thought this would work??? 🙄<br> :date: __2021-01-01 00:46:38__
-
-> doesn't allow me? to turn on ，keep asking try again. NOT be able to use it. useless.<br> :date: __2020-12-31 05:58:54__
-
-> I've had it since release and haven't gotten any notifications. At this point I'm wondering if this is even working! Seems unlikely that I've not been in a place where someone tested positive in all of this time. Useless app!<br> :date: __2020-12-29 03:56:41__
-
-> I received a call 8 hours after doing a Covid test and was told I was positive but no one knew about the verification code for this app. This app is pointless if not all hospitals to include the military know how to use it or know how to provide the access code. It needs to be more user friendly.<br> :date: __2020-12-28 05:30:03__
 
 

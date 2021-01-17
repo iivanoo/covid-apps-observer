@@ -188,6 +188,8 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <img src="4_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 4 reviews"/>
 </p>
 
+> Ogni tanto un po' lento<br> :date: __2021-01-14 19:00:44__
+
 > Aggiungo due stelle. Senza fronzoli va al dunque. Per me lombardo funziona alla grande.<br> :date: __2020-12-11 13:32:57__
 
 > La ritengo molto utile👍<br> :date: __2020-12-05 15:14:58__
@@ -205,8 +207,6 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 > In linea di massima non è male . Oggi mi si è bloccata , l'ho disinstallata e reinstallata ora funziona !<br> :date: __2020-10-21 21:46:23__
 
 > Utilissima<br> :date: __2020-10-06 14:18:06__
-
-> Ottima applicazione, sempre presente per ogni cambiamento del tempo.<br> :date: __2020-10-03 14:37:02__
 
 
 
@@ -244,6 +244,8 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <img src="2_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 2 reviews"/>
 </p>
 
+> Non viene mostrato in modo chiaro i vincoli colore delle zone (arancio giallo verde ....) In relazione alle ordinanze anticovid. In pratica non mostra in che zona colore siamo.<br> :date: __2021-01-10 11:16:37__
+
 > Poco efficente e con descrizioni e annunci che sono copia di quelli ministeriali. Era meglio potenziare di più Immuni invece di farne una simile.<br> :date: __2020-12-10 17:45:49__
 
 > App molto utile ed interessante peccato che ultimamente non si possa più utilizzare perché senza consenso al questionario covid, obbligato perché il tasto di rifiuto non funziona, non è più possibile utilizzare neppure la parte relativa alle allerte atmosferiche L'alternativa è ignorare completamente l'app<br> :date: __2020-12-05 13:55:03__
@@ -261,8 +263,6 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 > Poco utile<br> :date: __2020-09-09 18:24:47__
 
 > Tutti i giorni un'allerta meteo, tutte sbagliate<br> :date: __2020-08-29 19:29:58__
-
-> Salve,non so come abbia fatto ma mi ritrovo un addebito mensile di euro0,40 centesimi, non é per il costo però io non ho sottoscritto nessun abbonamento di questa app, mi dite come posso dare disdetta? Grazie<br> :date: __2020-08-26 18:33:35__
 
 
 

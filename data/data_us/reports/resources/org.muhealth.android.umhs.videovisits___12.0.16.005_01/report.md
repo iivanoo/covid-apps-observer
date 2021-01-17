@@ -259,10 +259,12 @@ The MU Health Care Video Visits app has been installed by more than **5000** tim
 #### 2-star reviews
 
 <p align="center">
-
+<img src="2_star_reviews_wordcloud.png" alt="org.muhealth.android.umhs.videovisits 2 reviews"/>
 </p>
 
-No recent reviews available with 2 stars.
+> It shows an empty physician rating and doesn't let you rate them. They did not give me any way to access lab results. Their registration for the separate lab system does not work. I should have gone to a real urgent care.<br> :date: __2021-01-16 01:21:54__
+
+
 
 #### 1-star reviews
 

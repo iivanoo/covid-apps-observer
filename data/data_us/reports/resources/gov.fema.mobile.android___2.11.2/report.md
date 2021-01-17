@@ -163,6 +163,8 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 <img src="5_star_reviews_wordcloud.png" alt="gov.fema.mobile.android 5 reviews"/>
 </p>
 
+> Thank you<br> :date: __2021-01-11 16:21:01__
+
 > Good<br> :date: __2021-01-04 06:06:34__
 
 > This is the best so easy to use<br> :date: __2020-12-09 13:53:21__
@@ -180,8 +182,6 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 > Very good 👍👍<br> :date: __2020-11-20 07:42:31__
 
 > This is one of the essential apps.<br> :date: __2020-11-19 15:28:00__
-
-> what does this stand for... anyway ty and lúvu<br> :date: __2020-11-17 07:33:50__
 
 
 
@@ -219,6 +219,8 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 <img src="3_star_reviews_wordcloud.png" alt="gov.fema.mobile.android 3 reviews"/>
 </p>
 
+> Not much exposure.<br> :date: __2021-01-13 02:03:49__
+
 > Not as helpful as before<br> :date: __2020-12-28 07:32:52__
 
 > They did not explain what she was asking me about and was real short with me . To me she was rude but I need my house fixed not TVs or other stuff like that but thank you for what you did do.<br> :date: __2020-10-26 19:49:29__
@@ -237,8 +239,6 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 
 > No notification alarm!!<br> :date: __2020-08-13 18:12:50__
 
-> where's the warnings I used to get<br> :date: __2020-06-24 02:29:53__
-
 
 
 #### 2-star reviews
@@ -246,6 +246,8 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="gov.fema.mobile.android 2 reviews"/>
 </p>
+
+> Was a great App, then started sending multiple alerts one after another. Now I get NO alerts at all. If I click on Alerts, click my city, it takes me to settings. I wrote you about it, you sent an email telling me to restart because you fixed a bug on the 4th. It is now the 14th. I've done as you said, even uninstalled and reinstalled several times. I still get no alerts and when I click my city, it still takes me to settings. I loved your App, it's a shame it no longer functions correctly.<br> :date: __2021-01-14 21:54:56__
 
 > Into a busy season and it's worse. Even after clearing cache, rebooting phone, etc still getting multiples of same exact alerts and several alerts with little or no lead time and now (once again) many - almost 40% - warnings with no info at all or nothing updated in the alert information. That's probably FEMA but still seriously downgrades usefulness. So problematic that other weather apps are needed for safety.<br> :date: __2021-01-06 13:09:50__
 
@@ -265,8 +267,6 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 
 > Alerts are way too excessive.. It's a little windy in my area and I get notifications what feel like every 5 minutes. Had to delete the app because it was so annoying.<br> :date: __2020-04-10 21:47:54__
 
-> It's a weather alert app. I'm getting constant weather alerts during a pandemic lockdown<br> :date: __2020-03-29 17:05:00__
-
 
 
 #### 1-star reviews
@@ -274,6 +274,8 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="gov.fema.mobile.android 1 reviews"/>
 </p>
+
+> Why wasn't there an alert when the POTUS called the state of emergency for DC? He even mentioned FEMA for receiving info yet crickets feo FEMA. Z Typical government restrictions. If they block adding Washington D.C. as an area then they are blocking additional information. It will only have the activity they want you to know about. New rule for citizens. See something say nothing. You'll be safer that way.<br> :date: __2021-01-12 21:44:55__
 
 > Stopped working a few days ago. Started sending empty alerts. Reinstallation didn't help. Wouldn't accept location input.<br> :date: __2021-01-04 15:46:26__
 
@@ -292,7 +294,5 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 > IDK BUCK<br> :date: __2020-10-26 22:39:34__
 
 > Wakes you up randomly at night with repeat information.<br> :date: __2020-10-22 11:33:02__
-
-> This hurricane I got turned down in just a few hours. Yeah technology!!!!!<br> :date: __2020-10-03 11:55:27__
 
 

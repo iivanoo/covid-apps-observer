@@ -1,5 +1,65 @@
 [
     {
+        "reviewId": "gp:AOqpTOGVNu962X4-yVIeOHlN4PUQaAA0jdyfkjvSwwe9WzjImeqX0pDe3hp7l7fVoWAk7Tc05qTlhCDP0Frrxn8",
+        "userName": "Andreas Olausson",
+        "userImage": "https://play-lh.googleusercontent.com/-gZr_DHQoayI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl2KSvn8sAOVSfOcqNSbVJii1ygiA/photo.jpg",
+        "content": "The app itself is working fine. I spoke to two different doctors and got totaly different answers. The last one told me that I don't need to take any medicine. After controlling this with 1177 is this also wrong (antibiotics shall be used).",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.22.1",
+        "at": "2021-01-16 12:02:59",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFu7GHyo-lEHqHhSoyCm2hxokkQglOYYZRIOSgPPV1Zwlne3kHGo2Y0780KO-0fygg0hbOQMB29kAWLEI4",
+        "userName": "Memory Dump",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhN9P6DBFWO39iYWnk86uBtmXBehp0xc_BC-JZW",
+        "content": "It accomplishes the task very well.",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.22.1",
+        "at": "2021-01-15 17:49:47",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOE4pJTiEa-W1qqFxGoArGup8RT1lizMMPYAVq_JZ9mPbTv_M4BU-hQ8W1-9pNjbb3-rmdGZYkNNRwzwAAM",
+        "userName": "A G",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhLEvq94DIKivZEuLoKPRyY4azKvHH6WedvsyWuWhc",
+        "content": "Not useful at all. Don't waste your time and call the v\u00e5rdcentral directly.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.22.1",
+        "at": "2021-01-15 13:09:06",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOG8lCx7Qb3_E9NCUuHtazVm9jIgnvFdDuB3cWIrtuVII_zCpgaIDAvNpDA__yq3QBRhc_U_npa4kJm1bLM",
+        "userName": "Mats Holm",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GifZ6wQaMS0kdeQiGcnDuDxQxwBm--bKEATpsafeA",
+        "content": "While doctors are good, app does not have a \"help, service desk\" option. My prescription was not successfully added to my account, and there was no way to contact them for help. Only option was to pay 200sek and get a doctors appointment to fix a technical problem.",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.22.1",
+        "at": "2021-01-14 12:24:37",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOF3wsEcjX4GBxyavLG7LobIYtisCSxVz-12R5jJe_NNStRQ5pL_pdQcNL9QsFce-DAUzioNRKmmz367O8o",
+        "userName": "Tilde G",
+        "userImage": "https://play-lh.googleusercontent.com/-ig6uMmOeMkc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm47NokZtgQZYcfCHutXLcK51_6cQ/photo.jpg",
+        "content": "Enkelt, snabbt och trevlig l\u00e4kare \ud83d\udc4d",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.22.1",
+        "at": "2021-01-13 12:34:35",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOG4UlYZsuiYcU9Rv8CyTAlcw1oh4y3dNvIr8ZnGDXA85M12B_hrnULe6SSFIBYoh24JnHNgfBUk6dDKqVQ",
         "userName": "Christy Whiddon",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiyO0-jNQ16s1ZY-c-6SpDZhbAuvZZOey-25ryX2LI",
@@ -794,7 +854,7 @@
     {
         "reviewId": "gp:AOqpTOEDpn13GePr0EezuezswvA5q9A8Mvf7V6utmc-u76ddYWdDt60lo7LcAFTtl-UnoAlvm1BTMmlThzkpy1U",
         "userName": "Christian Ademius-Kjell\u00e9n",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiIzRFWicdcTTUBf3NCnM70DLgXv6KVtVqiHJg39A",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjEG_FuznYRrZvW8e13BX-XbUWTDIEkGJYuYXu4YKE",
         "content": "Very simple ans convenient!",
         "score": 5,
         "thumbsUpCount": 0,
@@ -2294,7 +2354,7 @@
     {
         "reviewId": "gp:AOqpTOFuAD5YU9ZjNeTTO5k80hn6KV8wvKzNJz2M0AXTjhr9MCoeJZbjSfKcxbHjGJglIlgw6YqIBdRK-Vx8z6M",
         "userName": "Daniel Moquist",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GilYWAMwtNFtl7HgNoNjiA3Gi7Hw99gVhQhQL7_Ew",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi0EzWv2y74YG75n50DSr1LlQkeUq_C9uHSyLLVjQ",
         "content": "Bra tj\u00e4nst! Sk\u00f6nt med receptf\u00f6rnyelse!!",
         "score": 5,
         "thumbsUpCount": 0,
@@ -2702,7 +2762,7 @@
     {
         "reviewId": "gp:AOqpTOGZOcxBU_r13uEeolg47Jjx-yc7a5m3_YFcrZ7V9sf4cYT6Sd3O06-K8QuBfM4tKzfuUvnWyeFHNb2GDFc",
         "userName": "Jack Hadaia",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiIS_r_VSO37lncuqW-Zkxao7OEM8JDzbze9STh",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh7qbJJv9WGRdFycbrS12MxIilG3YmUT7A4gptYKQ",
         "content": "Tackar for DR Alvand parsmher",
         "score": 5,
         "thumbsUpCount": 0,
@@ -4466,7 +4526,7 @@
     {
         "reviewId": "gp:AOqpTOEHIsTn_gNMUOZgSTstpOR0doQLC165ZVjvI0gOoQNEuf4aspt1JBAbR9xWlklNSUWlEEFkB1aV362qteI",
         "userName": "waseem ul haque",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjW-umumdEQVZBMGENEm0jcOmkKR3vLmKdaEy6j",
+        "userImage": "https://play-lh.googleusercontent.com/-W3iQSiuh3-4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmamCZ-vOj53EDRLvS9Y3CcETHoXg/photo.jpg",
         "content": "very helpful, valuable feedback and supportive doctor.",
         "score": 5,
         "thumbsUpCount": 2,
@@ -4598,7 +4658,7 @@
     {
         "reviewId": "gp:AOqpTOFr2nJ6L1snHlf9QGsEkOak8_EZIv5tJywzJ4ebIVJ1OfcdOjd-vak-mwGe19Y30G4_iQiCtnMS9rQSwEs",
         "userName": "Asim Mehmood Zia",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgpIWMeSnK3szQpx7dvzhcvujCOX0so0uywvleULQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiyROOn9ZYwwJDye4GSKeiWLfnQXOJTGxDVn-3ItQ",
         "content": "Amazing app. Doctors are very nice, listens to you and try their best to give advise as per your problem",
         "score": 5,
         "thumbsUpCount": 3,
@@ -5798,7 +5858,7 @@
     {
         "reviewId": "gp:AOqpTOENKOunfHQ-P3ZY_UMGINqV3kUhtp0h7SvmUaDdpJnj7uBmk-5L6B_gd9Z-_7fU-EGizd4jChebJwwcD30",
         "userName": "David Gray Lassiter",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gip_oZNUjrqAm9Nl68MT3ws42OZ6xWemKPr8NC9yPE",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhT1N7LTvcBiogToBAbndsmwkwXGeiDX9Yfo4NV6jo",
         "content": "Great alternative to going to a physical clinic.",
         "score": 5,
         "thumbsUpCount": 0,

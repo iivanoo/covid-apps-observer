@@ -271,6 +271,8 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 <img src="1_star_reviews_wordcloud.png" alt="au.gov.health.covid19 1 reviews"/>
 </p>
 
+> Useless<br> :date: __2021-01-15 12:13:51__
+
 > No alert or information about the current lockdown issued today. Why no alert from this app or COVIDSafe?<br> :date: __2021-01-08 06:58:05__
 
 > Stupid, useless app. Uninstalled cos Greg Hunt sux!<br> :date: __2021-01-04 19:07:54__
@@ -288,7 +290,5 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 > Never used and a waste of money by the government!<br> :date: __2020-11-08 22:39:03__
 
 > Very very very very disappointing<br> :date: __2020-10-11 10:52:04__
-
-> Nice if big brother to secretly install this app on my phone without my permission<br> :date: __2020-10-07 15:31:55__
 
 

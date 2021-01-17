@@ -121,6 +121,8 @@ The Covid Trace Nevada app has been installed by more than **50000** times. At t
 <img src="5_star_reviews_wordcloud.png" alt="gov.nv.dhhs.en 5 reviews"/>
 </p>
 
+> Safe and fast good for elderly And frontliners protections<br> :date: __2021-01-09 20:29:53__
+
 > So far, not a problem.<br> :date: __2021-01-09 07:05:36__
 
 > Yayyy am NEGATIVE<br> :date: __2021-01-06 05:55:39__
@@ -138,8 +140,6 @@ The Covid Trace Nevada app has been installed by more than **50000** times. At t
 > Doesn't appear to work. Last checked time is the time of day of when I installed it several weeks ago. Manual refresh doesn't do anything.<br> :date: __2020-11-20 15:23:25__
 
 > Cool<br> :date: __2020-11-18 08:06:02__
-
-> Works as it should for moto g5 plus. Glad the investment was made for this<br> :date: __2020-11-11 00:26:27__
 
 
 
@@ -219,6 +219,10 @@ The Covid Trace Nevada app has been installed by more than **50000** times. At t
 <img src="1_star_reviews_wordcloud.png" alt="gov.nv.dhhs.en 1 reviews"/>
 </p>
 
+> App is totally worthless<br> :date: __2021-01-13 18:46:30__
+
+> Says no exposure even though I was exposed. App is pointless.<br> :date: __2021-01-10 16:25:27__
+
 > I thought this app would help keep me and my family safe. It was a lie. I hate you Google because now my grandmother is dying from Covid-19 and you never alerted any of us about exposure to anyone! How many alerts did you even send out? Let's see them change your name from Google to grandmother and grandpa killer<br> :date: __2021-01-06 08:18:41__
 
 > User cannot report a positive result without a magic code that nobody can find. Useless.<br> :date: __2020-12-30 19:28:55__
@@ -234,9 +238,5 @@ The Covid Trace Nevada app has been installed by more than **50000** times. At t
 > It requires a Verification Code to report you are Positive. The UMCconnect has no idea how to give me a Verification code after they told me I am positive. The app is useless, you can't report you have Covid. It was another huge Democrat money wasting pork belly project<br> :date: __2020-12-18 20:49:57__
 
 > This annoing<br> :date: __2020-12-18 12:02:08__
-
-> 12-16-20 update: Uninstalled, waited a few days, reinstalled and the App still does not refresh.... App does not allow you to refresh, uninstalled and reinstalled and still does not refresh.<br> :date: __2020-12-16 23:13:26__
-
-> The verification code sent by the SNHD was 7 digits, the app requires an 8 digit code. Could not upload the verification number because it was not recognized as valid. Useless app.<br> :date: __2020-12-16 21:46:13__
 
 

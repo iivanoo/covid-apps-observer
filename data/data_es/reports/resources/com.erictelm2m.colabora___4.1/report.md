@@ -230,6 +230,8 @@ The COVID-19.eus app has been installed by more than **50000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="com.erictelm2m.colabora 1 reviews"/>
 </p>
 
+> No mantenéis los datos actualizados, normalmente de dos a tres días tarde... No se pueden añadir contactos, esta totalmente abandonada. Y por lo que leo a la hora de la verdad no sirve para nada...<br> :date: __2021-01-10 20:40:42__
+
 > Esta app es pésima, no se actualiza nada<br> :date: __2021-01-03 15:25:48__
 
 > Si metes codigo postal erroneo no permite modificarlo por lo que no tienes datos reales<br> :date: __2020-11-30 09:58:40__
@@ -247,7 +249,5 @@ The COVID-19.eus app has been installed by more than **50000** times. At this ti
 > Hola!!! CONSIDERO UNA PERDIDA DE TIEMPO TRADUCIR LA APP DE RADAR COVID ESTATAL SIENDO POSTERIOR A LA DESARROLLADA EN EUSKADI, AQUÍ TENDRÍAMOS QUE USAR COVID-19.EUS QUE ESTABA ANTES Y EN EUSKADI ES LA QUE TENEMOS DESCARGADA HACE TIEMPO😬<br> :date: __2020-09-26 18:53:02__
 
 > Por un fallo al empezar con el Código postal me pone en otro sitio y no deja modificarlo. He desistalado la app y la he vuelto a instalar y sigue poniendo mal el C. P. Mala APP. Así mal para colaborar. He borrado todos los datos de la aplicación y al volver a meterlos sigue poniendo mal el C. P. Aunque borre los datos en cuanto metes de nuevo los correctos te los vuelve a poner mal. Así vamos.....<br> :date: __2020-09-23 19:33:57__
-
-> No he podido utilizarla porque pide un código SMS que no se cual es ni cual puede ser. Tanto tiempo de retraso para ahora llegar a esto. Faciliten la aplicación si quieren que se descargue y se use de modo general ya que si lo complican tanto no se descargará. Yo ya la he desinstalado.<br> :date: __2020-09-18 15:16:15__
 
 

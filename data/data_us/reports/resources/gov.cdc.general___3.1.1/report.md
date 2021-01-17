@@ -188,6 +188,8 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 <img src="5_star_reviews_wordcloud.png" alt="gov.cdc.general 5 reviews"/>
 </p>
 
+> Grest app to get up to dste info on thr pandemic as well as best practices for curtailing transmission. Grest as long as executive branch keeps his hands away from thr organization and allows them to help the people.<br> :date: __2021-01-12 12:41:08__
+
 > Constantly being updated to provide latest information, a must have app for providers<br> :date: __2021-01-03 23:30:14__
 
 > A great way to keep up with mother nature's little creatures.<br> :date: __2020-12-30 18:40:45__
@@ -205,8 +207,6 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 > Information<br> :date: __2020-11-01 17:22:31__
 
 > Good<br> :date: __2020-10-30 08:46:57__
-
-> I like that you can do that<br> :date: __2020-10-05 21:26:45__
 
 
 
@@ -272,6 +272,8 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 <img src="2_star_reviews_wordcloud.png" alt="gov.cdc.general 2 reviews"/>
 </p>
 
+> Cannot find the post test for a module that took me an hour to complete, and only offers 0.5 CEs 🤬<br> :date: __2021-01-10 22:38:32__
+
 > Not interesting<br> :date: __2020-12-19 19:21:51__
 
 > Ughh<br> :date: __2020-11-04 07:10:21__
@@ -290,8 +292,6 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 
 > I give only two stars only because I've only learned of the "CDC" Due to the Covid-19. Im very secluded other then facebook so i regret i can not rate CDC with a higher rating.<br> :date: __2020-05-07 08:06:04__
 
-> Poor app mise well use website as this is a glorious bookmark hidden as an app in my opinion<br> :date: __2020-04-30 07:18:34__
-
 
 
 #### 1-star reviews
@@ -299,6 +299,8 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="gov.cdc.general 1 reviews"/>
 </p>
+
+> Lies and misinformation. Waste of time<br> :date: __2021-01-11 18:28:55__
 
 > Think they have a virus<br> :date: __2020-11-19 01:08:32__
 
@@ -317,7 +319,5 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 > Slow and wrong information.<br> :date: __2020-08-23 14:09:31__
 
 > All it does is white screen<br> :date: __2020-08-16 19:13:23__
-
-> Racist fear mongering app<br> :date: __2020-08-08 17:44:06__
 
 

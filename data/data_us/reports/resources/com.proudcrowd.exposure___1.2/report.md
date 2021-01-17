@@ -144,6 +144,8 @@ The Care19 Alert app has been installed by more than **10000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="com.proudcrowd.exposure 5 reviews"/>
 </p>
 
+> Love it<br> :date: __2021-01-13 23:48:06__
+
 > Helpful💕⁦♥️⁩👏🙏👏🤗<br> :date: __2021-01-08 05:16:19__
 
 > Good<br> :date: __2021-01-02 23:36:05__
@@ -161,8 +163,6 @@ The Care19 Alert app has been installed by more than **10000** times. At this ti
 > Absolutely love it<br> :date: __2020-10-25 07:09:59__
 
 > Help<br> :date: __2020-09-15 03:29:55__
-
-> This app was no good it gave me covid<br> :date: __2020-09-04 02:48:59__
 
 
 

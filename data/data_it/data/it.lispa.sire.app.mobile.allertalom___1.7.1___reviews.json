@@ -1,5 +1,29 @@
 [
     {
+        "reviewId": "gp:AOqpTOGu9XkkRkpUE4XyJO-C_hJ7lReKj2KPLI3LJcsH9USgkAY75CVSOuKvXxIoPZ14BWc0aC61dwL80iIJSA",
+        "userName": "luigi scuri",
+        "userImage": "https://play-lh.googleusercontent.com/-LdlLRLeQkzg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck4Qz2COnrtWfmV70bLVMZcEBidwA/photo.jpg",
+        "content": "Ogni tanto un po' lento",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.7.1",
+        "at": "2021-01-14 19:00:44",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHMXwJHggS0h0LT27d_DA1Pf7qPObloTFWuMHF-70lXK0Gxhj7BccCKzErDYbryVg_jFofzTSTyb_xz4A",
+        "userName": "Luca Perego",
+        "userImage": "https://play-lh.googleusercontent.com/-ZCCLj0XdV8o/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn46vqNe5o8fqTN9dlXyjoS5L6aKA/photo.jpg",
+        "content": "Non viene mostrato in modo chiaro i vincoli colore delle zone (arancio giallo verde ....) In relazione alle ordinanze anticovid. In pratica non mostra in che zona colore siamo.",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2021-01-10 11:16:37",
+        "replyContent": "Ciao Luca, i codici colore visualizzati all'interno dell'app fanno riferimento all'allertamento regionale, a seconda della previsione dell'estensione del fenomeno e del suo impatto sull'ambiente. Allertalom non \u00e8 uno strumento utilizzabile per monitorare le aree per le quali sono previste specifiche misure restrittive.",
+        "repliedAt": "2021-01-11 08:27:15"
+    },
+    {
         "reviewId": "gp:AOqpTOFuTGcioFyYB4vafqhUPhxAH8fkc92H5goy5ItvudvwZbDsFR8YVk37qnOGafb03noWf0ENqoeysSQtpQ",
         "userName": "giovanni satta",
         "userImage": "https://play-lh.googleusercontent.com/-yLvEqFvYEtQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmkytMJeR7Sxpnu5KFhsGDVz91XlA/photo.jpg",
@@ -8,8 +32,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.7.1",
         "at": "2021-01-09 13:14:56",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ciao Giovanni! Grazie della recensione!! Il nostro lavoro \u00e8 misurato anche in funzione delle vostre recensioni e valutazioni!!",
+        "repliedAt": "2021-01-11 15:15:46"
     },
     {
         "reviewId": "gp:AOqpTOEPlkSoN6JG4BjtVC2lXVDbJG3qkR03GuNj0AzB-8WrQHhJB0kS37Ys0sLf48-zLtmZHABbYGlNSlefvw",
@@ -20,8 +44,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2021-01-09 10:44:04",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ciao Alessandra, siamo spiacenti che la tua esperienza non sia stata all\u2019altezza delle tue aspettative. Ci piacerebbe sapere perch\u00e9 e migliorare. Puoi raggiungerci in qualsiasi momento scrivici a: info.allertalom@ariaspa.it",
+        "repliedAt": "2021-01-11 15:12:35"
     },
     {
         "reviewId": "gp:AOqpTOGHyN4nbxnZCFsbkpwOIXboXfY2SDPcnajZIXSM5D_H50DSb5AJYGVRxQhlHj_DSm0H24rjqJ066_ICAQ",
@@ -233,7 +257,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-NLYulL6dtPg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclBJ9qs3Bk2qAaTXCChLnkSq-_URA/photo.jpg",
         "content": "Con gli ultimi aggiornamenti non si riesce pi\u00f9 ad utilizzare l'App se non si compila il questionario. L'opzione di non partecipare al questionario non funziona",
         "score": 1,
-        "thumbsUpCount": 3,
+        "thumbsUpCount": 4,
         "reviewCreatedVersion": "1.7.1",
         "at": "2020-11-15 12:10:17",
         "replyContent": "Ciao Maurizio, vorremmo comprendere la difficolt\u00e0 riscontrata. Scrivici a: info.allertalom@ariaspa.it indicando l'errore riscontrato e i dati del dispositivo utilizzato per permetterci di effettuare le verifiche del caso.",
@@ -2594,7 +2618,7 @@
     {
         "reviewId": "gp:AOqpTOF_AThGn_qj2r00Nybn2F4sjRQTDuDgx1vIIu5ZMTispm0u1IsNFKGAc1BJbhXe3M9QjzktuHseyfR0mg",
         "userName": "Paolo Hoffer",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjD1tT5n9hcaHkS2bOBtYPHBqYYIpvDkCbkd4kN",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gje9BgIDtI0dJd-bNhuJztcBWwbug4_890yVVi48sI",
         "content": "Con smartphone A50 ogni volta richiede tutti i consensi e le impostazioni. Il pulsante SALVA evidentemente non funziona. Impossibile skippare la parte COVID e accedere alle allerte.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -3206,7 +3230,7 @@
     {
         "reviewId": "gp:AOqpTOG2-LpbdOS3l23T92EPOT1wPY4A7IIO0njUiy0yzC_x2DBKq1azDlJHEoDwvu08a4uWDDzgTTX9qOsBaQ",
         "userName": "Carlo Dell'anna",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgWVabfLXO-_DRoS9yfRxsbCTOgtibhyECH498law",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi05g1rOrPF_CoCywZeq5ZtLf_QAZ4e-mxcsv8HfQ",
         "content": "Ottima",
         "score": 5,
         "thumbsUpCount": 0,
@@ -3266,7 +3290,7 @@
     {
         "reviewId": "gp:AOqpTOFowTwkPng25T2B_WXMfc_CsuoB3OKuzdWtps4Qr2dJ-qBV0YZZm17eFfqag_DXoeffPBg30QcDiFVHaA",
         "userName": "Daniela Cornelli",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjyNIswP_sxf8uVlftcp5qZYJY9TryDbKTgs7-Zlg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhFhhCVkk0B5Pjl7hJYWYXxGz0i2vgeuYem5yTQDg",
         "content": "L'ho installata e disinstallata pi\u00f9 volte da ieri. Non inviava questionario. Sono riuscita poco fa. Aggiorno recensione, oggi 6 maggio. Dopo aggiornamento tutto funziona bene ed \u00e8 stata aggiunta funzione per famigliari.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -4346,7 +4370,7 @@
     {
         "reviewId": "gp:AOqpTOEWJFFIcr6k9_dOf1QrhNgNhJV0fbCjR36ydhN_PvkoOw8BEpWXUE10qvNEGINJrw60G_bM0FDjfh5kGw",
         "userName": "antonino zavaglia",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhXGx0uPL0K4h1PMUkJLnAzB5QqJiA1XbNZdniGVVc",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhkfH1LIFQJQQnEZbz2ATH-Bj5A7EMEaRpLJU7_B_8",
         "content": "Secondo me \u00e8 positivo",
         "score": 5,
         "thumbsUpCount": 0,
@@ -7118,7 +7142,7 @@
     {
         "reviewId": "gp:AOqpTOHkk8rkgLPFfJdw9YU_8op3p5Bit6_bi_tLVcJ3Jd6Nb9A9-nCgBkiqsw7v9zJdRPbjy7ybjJCO1oKLxQ",
         "userName": "Hikko",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgFEKN6aE6QkgLsPlTM3ok36h43jWdMCRFKdjLjMA",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj2u_SdGVjDgfU7kJFqjGUv5mrfMmHYY0-r9yH3wg",
         "content": "Per adesso funziona tutto a meraviglia.Comunque...bella idea quella di fare un'applicazione di questo genere. Sono soddisfatto : )",
         "score": 4,
         "thumbsUpCount": 0,
@@ -8726,7 +8750,7 @@
     {
         "reviewId": "gp:AOqpTOEwVBGPNqh7Z55v230djNDh2jXv26Q8AZpF5-HnD9dnOy53ZnWno3YIMy8i-hvf0eLSJA8R2BFzvS9wRQ",
         "userName": "Antonella Molly",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gjq9PmgsMfVbyFD7klyBmY-0kLnvjpUeC3iKQ6Vkto",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi8pXnCDydrLz393c6USYpm4Tk4cCNwRUZtBBsfSyo",
         "content": "Commentato relativo alla compilazione Covid19: dovete tenere conto di inserire una nota \"sei affetto da allergie di stagione?\" \u00c8 importante l'inserimento di questa domanda perch\u00e9 l'allergia stagionale provoca: starnuti frequenti, o congiuntivite o prurito agli occhi, secrezione nasale domande che avete inserito nella scheda sintomi da covid. Bisogna inserire la domanda sull'allergia cos\u00ec potete valutare coi giusti parametri. Grazie",
         "score": 3,
         "thumbsUpCount": 0,
@@ -11974,29 +11998,5 @@
         "at": "2020-04-11 17:37:25",
         "replyContent": "Ciao Andrea, ci piacerebbe migliorare la tua esperienza utente, scrivici a info.allertalom@ariaspa.it",
         "repliedAt": "2020-04-24 19:20:15"
-    },
-    {
-        "reviewId": "gp:AOqpTOEdCqOhOFFOGG1Gz2Zr-BKRIUVlyO7Hqm9wn7xZB6DxLrJ_LUaneYZZ6wr5HO9D94eeF9z9lncyLXWdLA",
-        "userName": "Riccardo Baggio",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ggi8GkcpyveeNim6ABEYZ5CzCG3SAKaNh11HL4LHw",
-        "content": "Ma perch\u00e9 poi non viene pubblicata una mappa che fa vedere anche a noi le zone in Lombardia con pi\u00f9 presenze di persone che hanno avuto esperienze di covid? In pratica un feedback di tutte le informazioni che ricevete. Altrimenti il servizio risulta monco....",
-        "score": 3,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.5.0",
-        "at": "2020-04-11 17:16:55",
-        "replyContent": "Tramite l'App ALLERTALOM non \u00e8 possibile visualizzare la situazione in real-time della casistica dell'infezione, bens\u00ec in essa vengono pubblicate le ultime indicazioni di pubblica tutela rivolte alla popolazione della regione.",
-        "repliedAt": "2020-04-24 19:15:50"
-    },
-    {
-        "reviewId": "gp:AOqpTOGUqXEu-V89HqcLDSElDbKzOUxiRKeVVizTdAHHRRHd5TI9fgX59urBj-lObe00WAm0uej0Lxd0_sPBwg",
-        "userName": "Lotty Lotty",
-        "userImage": "https://play-lh.googleusercontent.com/-k-tq1K-S7R8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclxnlndgBMwv1sgpS5Hmm0RN9juoQ/photo.jpg",
-        "content": "Ogni volta che arriva un alert sul telefono e si prova ad aprire, l'app si blocca. Oggi ho visto l'alert \"nuova ordinanza...\" che mi interesserebbe, ma purtroppo cliccandoci sopra porta alla app, che si impalla e non si apre. Un vero peccato, bisognerebbe risolvere in modo che i cittadini possano accedere alle informazioni!",
-        "score": 2,
-        "thumbsUpCount": 4,
-        "reviewCreatedVersion": "1.5.0",
-        "at": "2020-04-11 17:07:23",
-        "replyContent": "Ciao, ci spiace che la tua esperienza con l'app non sia positiva. I suggerimenti per noi sono importantissimi e ci aiutano a migliorare il servizio offerto.",
-        "repliedAt": "2020-04-24 19:03:39"
     }
 ]

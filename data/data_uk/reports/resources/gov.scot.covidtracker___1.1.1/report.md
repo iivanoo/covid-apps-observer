@@ -141,25 +141,25 @@ The Protect Scotland app has been installed by more than **500000** times. At th
 <img src="5_star_reviews_wordcloud.png" alt="gov.scot.covidtracker 5 reviews"/>
 </p>
 
-> 👍🏻 keep safe everyone<br> :date: __2021-01-09 15:14:11__
+> Pierce of mind<br> :date: __2021-01-16 11:20:56__
 
-> Great<br> :date: __2021-01-09 01:06:12__
+> It's a good thing.<br> :date: __2021-01-15 09:10:38__
 
-> So good. Everybody should have one<br> :date: __2021-01-08 20:37:56__
+> Makes me feel safer<br> :date: __2021-01-14 13:43:12__
 
-> Excellent<br> :date: __2021-01-08 11:32:33__
+> Very happy to have this on my phone. Looking forward to getting vaccinated.<br> :date: __2021-01-14 09:51:23__
 
-> Please, download, we need the R number and lives to be saved, let's do this together, we've got it Scotland! 🙏🙏🏴󠁧󠁢󠁳󠁣󠁴󠁿🏴󠁧󠁢󠁳󠁣󠁴󠁿<br> :date: __2021-01-08 01:12:12__
+> Vital<br> :date: __2021-01-14 07:56:12__
 
-> Ray of light<br> :date: __2021-01-08 00:24:09__
+> Easy to set up<br> :date: __2021-01-13 23:03:59__
 
-> Amazing<br> :date: __2021-01-07 23:48:39__
+> Easy to use.<br> :date: __2021-01-13 15:07:02__
 
-> Absolutely essential.<br> :date: __2021-01-07 19:31:37__
+> I think we all need to do anything we can to stop the virus.<br> :date: __2021-01-13 13:11:19__
 
-> Yes I think this is a great app.and to help the N HS 🇫🇮💙👌<br> :date: __2021-01-07 18:48:03__
+> Insurance against the passing on infect.<br> :date: __2021-01-13 11:36:32__
 
-> All good!<br> :date: __2021-01-07 15:43:44__
+> It makes me feel safer. I suffer from severe Asthma but the NHS Lanarkshire have not put me in the vulnerable category box. It was the same prior to this new variable type of virus. My GPS surgery wrote to them saying that I needed to see a Respiratory Consultant urgently. This was about 20 weeks ago now! My Asthma is getting worse, on top of this I suffer from Compressive Cervical Myelopathy and getting around is becoming more difficult and my breathing doesn't help at all !.<br> :date: __2021-01-13 10:27:48__
 
 
 
@@ -168,6 +168,8 @@ The Protect Scotland app has been installed by more than **500000** times. At th
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="gov.scot.covidtracker 4 reviews"/>
 </p>
+
+> Ok<br> :date: __2021-01-14 15:36:03__
 
 > OK<br> :date: __2021-01-07 10:58:35__
 
@@ -187,8 +189,6 @@ The Protect Scotland app has been installed by more than **500000** times. At th
 
 > Very easily understood and concise information explained simple and clearly. I would urge anyone I know to use this app to track and trace to protect the most vulnerable in not just our community, but our own families and friends!!<br> :date: __2020-10-25 13:23:33__
 
-> YES I KNOW ITS MENT TO PROTECT SCOTLAND FROM COVID BUT im 12 in secondary school and This app was recommended by google play its self it said Pegi 3 so i downloaded it yesterday i forgot about then went back into it today and it came with two options im over 16 or under i said under as I am it said you are not entitled to use this app so undownload it so i did the point to this is *what is the point of making this a pegi 3 and only 16 are entitled to use this app* Thank you goodbye.............<br> :date: __2020-10-22 22:52:46__
-
 
 
 #### 3-star reviews
@@ -196,6 +196,8 @@ The Protect Scotland app has been installed by more than **500000** times. At th
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="gov.scot.covidtracker 3 reviews"/>
 </p>
+
+> Nice if there was a log of when it was working and when instead of praying that a notification comes up if you've been exposed.<br> :date: __2021-01-13 18:32:20__
 
 > Update: appear to be getting daily exposure updates now. Will give the app another try. I have had zero response from the developer.<br> :date: __2021-01-09 00:16:58__
 
@@ -215,8 +217,6 @@ The Protect Scotland app has been installed by more than **500000** times. At th
 
 > Won't install. When I click next after accepting T&C it says I'm not connected to the Internet. Could it be because I have the covid tracker program installed? Turns out if you have a VPN installed it will not work.<br> :date: __2020-12-20 12:00:57__
 
-> Good idea but drains battery extremely fast. Cant be in public spaces anymore than an hour with it on or my phone dies<br> :date: __2020-12-18 04:02:10__
-
 
 
 #### 2-star reviews
@@ -224,6 +224,12 @@ The Protect Scotland app has been installed by more than **500000** times. At th
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="gov.scot.covidtracker 2 reviews"/>
 </p>
+
+> Known not to work as positive testing patients do not put in their results<br> :date: __2021-01-16 11:16:29__
+
+> Entered my post code to see the restrictions in my post code and it can't find it<br> :date: __2021-01-13 16:28:03__
+
+> Never tells me when I have been in known contact. Wouldn't except a code for positive result<br> :date: __2021-01-11 00:09:22__
 
 > Is this app working.<br> :date: __2021-01-08 23:48:11__
 
@@ -239,12 +245,6 @@ The Protect Scotland app has been installed by more than **500000** times. At th
 
 > Great idea. Had to uninstall though as it started draining memory and wouldn't push notifications as a result. Might not be apps fault, could be mine or my phone's ability. Either way, can no longer use.<br> :date: __2020-11-20 07:16:33__
 
-> Doesn't work, went on the app and then got a notification that ive been in close contact with an infexted person. This was 13 days after i was in contact with the person. Never got a text phone or email either. Just aswell i dont have any symptoms<br> :date: __2020-11-17 22:25:32__
-
-> I have an android phone. This app gives me no notifications. Other users with iPhones tell me they get notifications saying they have no contacts and how many people they have been matched against etc. Why would that be?<br> :date: __2020-11-15 21:56:30__
-
-> I WASNT NOTIFIED OF MY EXPOSURE TO SOMEONE WHO TESTED POSITIVE WITH COVID-19 TILL 6 DAYS LATER. NOT MUCH GOOD IF I HAD OF UNKNOWINGLY BEEN POSITIVE AND ASYMPTOMATIC. CLEARLY THE APP NEEDS TO BE IMPROVED AS WELL AS USED - DOWNLOADED BY MILLIONS MORE PEOPLE IF IT IS TO BE EFFECTIVE OR WORTHWHILE.<br> :date: __2020-11-12 23:38:12__
-
 
 
 #### 1-star reviews
@@ -253,24 +253,24 @@ The Protect Scotland app has been installed by more than **500000** times. At th
 <img src="1_star_reviews_wordcloud.png" alt="gov.scot.covidtracker 1 reviews"/>
 </p>
 
-> It hasn't checked for any exposure in weeks another failed job by nicola sturgeon and the snp<br> :date: __2021-01-08 20:09:29__
+> Started using the app but I cannot input a test code?<br> :date: __2021-01-15 08:57:35__
 
-> This app has serious glinch in notifying you if you have been in contract with anyone thats has tested positive for covid. I received an alert last night notifying me to self isolate for 1 day after someone tested positive nearly 10 day prior. Luckily I was aware of this persons positive test and have following the guidelines keeping myself& others safe. I feel this app needs to be relooked at as a whole as it is giving people a false sense of security<br> :date: __2021-01-08 10:11:31__
+> Got a notification last night saying i was in close contact with someone who tested positive on the 4th Jan 21 and to self isolate for 1 day. Not working very well and not good as ive been at work from 5th Jan and could have potentially passed to others if positive.<br> :date: __2021-01-14 09:16:49__
 
-> I never installed the app after reading the reviews saying it hadn't worked? I don't see the point in using this as it could get you killed.<br> :date: __2021-01-07 23:26:57__
+> Carried out three checks in one month. Have reinstalled and still not working properly. I'm using a Huawei.<br> :date: __2021-01-13 17:43:36__
 
-> App doesn't seem to be doing exposure checks any more??<br> :date: __2021-01-07 21:36:03__
+> No feedback, postcode checker required, hungry on battery. Tried again, still hungry on battery.<br> :date: __2021-01-13 11:13:50__
 
-> Absolutely useless, my wife and myself all had Covid. Despite entering details on the app on both our phones we received zero notifications. Other close relatives also received zero notifications despite close contact. Not fit for purpose.<br> :date: __2021-01-07 19:44:31__
+> When it works it's fine. I like many others had problems with the exposure checks but it started doing them again after the update and it was fine. Suddenly yesterday something changed when you click on the covid exposure checks on. A message now comes up about the exposure and I clicked on the three dots at the top right where I was able to see what exposure checks have been done. Since 5pm yesterday no checks showing up. Please address this problem or I will just delete the app.<br> :date: __2021-01-13 10:22:29__
 
-> I have been in close contact with someone who tested positive and uploaded their details. They were in an identical position. Neither of us received any notification. I have been working all through this pandemic, use public transport every day, no notifications. I suspect this app is a gimmick to make us feel better. It's pointless and should be deleted. Wash your hands, keep your distance, wear your mask, isolate if symptoms appear. This app is rubbish.<br> :date: __2021-01-07 14:52:30__
+> Doesn't automatically refresh so is an utterly useless app for Covid.<br> :date: __2021-01-12 21:46:25__
 
-> CONTROLAVIRUS. . Switch off your TV..bin the mask.. Hug each other.. Educate yourselves. Seriously people wake up.. Your old and young are suffering because of your stupidity ...Dont be a sheep..<br> :date: __2021-01-07 07:50:04__
+> Doesn't work and drains battery. My wife has the app installed and enabled but was not traced after being in contact with a positive person who had been traced ☹️<br> :date: __2021-01-11 14:42:25__
 
-> Stopped checking in the background, So what is the point in the install now?<br> :date: __2021-01-07 02:32:07__
+> Why does it take 9 days after contact to be notified by the app. What use is that. Think of all the contacts you will have especially as a front line worker on 9 days.<br> :date: __2021-01-11 09:02:50__
 
-> Has only done 1 exposure check in 14 days which was the check I kicked off after the last time I checked and it also hadn't performed any checks in weeks. App is broken, needs fixed<br> :date: __2021-01-06 23:07:14__
+> This app is garbage. Absolute waste of tax payer's money. Again. Been in close proximity to someone with a positive test and he has entered his details in and put mine in and ive had no notification at all. My Bluetooth and location is enabled at all times and still not a peep. Absolutely pointless.<br> :date: __2021-01-10 13:49:44__
 
-> App no longer works, no exposure checks. Reinstalling didn't fix.<br> :date: __2021-01-06 21:50:33__
+> I have 2 matches when I check exposures but I have had no alerts? I work in retail so around thousands of people a day so could have it and be spreading it without knowing 😣<br> :date: __2021-01-10 13:47:09__
 
 

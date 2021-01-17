@@ -132,6 +132,8 @@ The COVID Alert CT app has been installed by more than **50000** times. At this 
 <img src="5_star_reviews_wordcloud.png" alt="gov.ct.covid19.exposurenotifications 5 reviews"/>
 </p>
 
+> Great<br> :date: __2021-01-13 22:30:19__
+
 > Idk what to do with the app<br> :date: __2020-12-23 06:42:32__
 
 > Good.<br> :date: __2020-12-17 16:25:14__
@@ -150,8 +152,6 @@ The COVID Alert CT app has been installed by more than **50000** times. At this 
 
 > I live in Taunton, MA & don't travel much. Is it OK to use this until Massachusetts releases one if at all? If it's useless unless I am in or near CT please let me know and I'll uninstall it.<br> :date: __2020-12-01 21:36:27__
 
-> I just downloaded the app I hope I like it and it helps to keep us safe or lets us know how to better besides disinfectant spray<br> :date: __2020-12-01 06:06:29__
-
 
 
 #### 4-star reviews
@@ -159,6 +159,8 @@ The COVID Alert CT app has been installed by more than **50000** times. At this 
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="gov.ct.covid19.exposurenotifications 4 reviews"/>
 </p>
+
+> The way I understand it, you only get notifications if an exposed person has downloaded this app and gives permission to share data. Those who have been exposed but saw no alert, the person may not have had this app. The app is only as accurate as the number of people using it; it's open-source data collection and completely voluntary. More residents should download this app.<br> :date: __2021-01-11 14:26:59__
 
 > Just saw<br> :date: __2021-01-01 16:25:39__
 
@@ -177,8 +179,6 @@ The COVID Alert CT app has been installed by more than **50000** times. At this 
 > Bluetooth and location are always on. Significant battery drain. When a covid notification pops up, it does not take you to view that information. Rather you have to download the active app or you just get a spinning wheel.<br> :date: __2020-11-27 02:19:50__
 
 > Easy to install, but I can't put a shortcut on my home screen. I have to search for it every time I want to open it. Everyone be safe.<br> :date: __2020-11-19 04:38:11__
-
-> As long as it helps people and can't identify me I'm cool with it. I<br> :date: __2020-11-17 05:52:00__
 
 
 
@@ -212,6 +212,8 @@ The COVID Alert CT app has been installed by more than **50000** times. At this 
 <img src="2_star_reviews_wordcloud.png" alt="gov.ct.covid19.exposurenotifications 2 reviews"/>
 </p>
 
+> Why can't I use this with another COVID exposure notification app? I live near both CT and NY. This should definitely be something to consider.<br> :date: __2021-01-14 15:07:54__
+
 > hews<br> :date: __2020-12-08 00:30:36__
 
 > App does not work! I go to turn on exposure notifications and I get the error "something went wrong" and no way to contact Devs of how to fix this. I wanted to specifically use this while out tomorrow.<br> :date: __2020-12-03 08:05:04__
@@ -232,9 +234,13 @@ The COVID Alert CT app has been installed by more than **50000** times. At this 
 <img src="1_star_reviews_wordcloud.png" alt="gov.ct.covid19.exposurenotifications 1 reviews"/>
 </p>
 
-> It's my job to be next to people with the 'Rona and not once have I gotten an alert.<br> :date: __2021-01-09 03:44:53__
+> Poor, at best. I know I have been in close proximity to many individuals who have tested positive. Never once have i been notified. There is 1 person I know for certain and I spend an extensive amount of time with. I should have received a notice. I got bubkiss.<br> :date: __2021-01-14 18:58:55__
 
-> As part of my work I am considered a Essential worker and I have never once received a Alert or Notification from the application that I have be exposed to convid ! Even though 2 of my coworkers tested Positive! I have self quarantined Twice, This Application is Useless! The Cares Act included Money for Public Health Notification and Awareness!! Please Fix this ASAP Hire a application developer to Turn this Application into a Real Tool !!! Shame on The State of CT Gov!!<br> :date: __2021-01-08 21:33:48__
+> IT REALLY SOUNDS LIKE THIS APP SUCKS.!!! Reading the reviews I DEFINITELY WOULD NOT INSTALL THIS ON MY PHONE. 👎 👎 👎 FROM AN ANDROID USER.<br> :date: __2021-01-11 21:31:10__
+
+> Not useful at all. Based on responses by the Dev, this app uses Bluetooth to communicate with other phones that have the app and are atleast 6ft from you for 15 min...that means if someone is in my 6ft circumference and has COVID but walks away before the 15 min, the app won't notify me?<br> :date: __2021-01-11 17:20:45__
+
+> It's my job to be next to people with the 'Rona and not once have I gotten an alert.<br> :date: __2021-01-09 03:44:53__
 
 > What code do I have to enter? I was never given one.<br> :date: __2021-01-08 05:04:04__
 
@@ -247,9 +253,5 @@ The COVID Alert CT app has been installed by more than **50000** times. At this 
 > Totally pointless. Unless everyone else is using theres no point in having it. My wife and I have been around several people who have been covid positive and never received a warning.<br> :date: __2021-01-02 17:39:12__
 
 > Why ONLY allow the fingerprint scan option and not offer the password/pin option? (Meanning I cannot access the scanned list). Is it that challenging for the devs to realize we all don't utilize/have access to the SAME FEATURES. This app is the equivalent of a paperweight, in my phone.<br> :date: __2020-12-28 19:14:04__
-
-> Was exposed and received no notification<br> :date: __2020-12-28 11:34:16__
-
-> I have never received a warning no I'm not sure if the app works or not. I have been diagnosed with Covid-19. I went to put it on the app. And it asks for a code. What code. I got a test result not a code for a gift card. And no explanation on the app as to where I find or get a code. Maybe this is why I haven't received any warnings. Should have known something from the CT government would not work well<br> :date: __2020-12-20 03:10:52__
 
 

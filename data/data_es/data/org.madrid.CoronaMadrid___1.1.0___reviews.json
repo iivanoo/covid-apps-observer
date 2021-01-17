@@ -1,5 +1,41 @@
 [
     {
+        "reviewId": "gp:AOqpTOG7eQEj8WWd-snvGbhh7mtYNWVoCEZoEbJF9O-ypPhUuqYNiFg-B9hlP2_C8TQ0H9B-kpVo2RaHNslhYg",
+        "userName": "rubikons rub",
+        "userImage": "https://play-lh.googleusercontent.com/-hImLLSengEo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucno2-D3QeoVja4W329qPbb3d_4fqA/photo.jpg",
+        "content": "Muy buena aplicaci\u00f3n. Funciona perfectamente y es muy \u00fatil.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.1.0",
+        "at": "2021-01-15 12:29:09",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGNeS3ewZRhuE1vlWvMJ-gAskvpSoI-fi_BqYNNR3HmU6kZ-Z8ekdKzr72xMNe66wyK_gHPlYxyeBVRtQ",
+        "userName": "He Mario",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgbvOv30yQPPYffjIWKLYGcAiEo45tDlxQbm7j3",
+        "content": "Muy buena app, de las mejores que he usado se las recomiendo al \ud83d\udcaf",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2021-01-14 23:02:48",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOG4lp_eOpYKvmNbgUbpxdZlN9XT7Wei6Khvh-b9L0lnv0mSRRRLQkLz1MmE3w2_qD7_h0eOP7oLIcxJ2Q",
+        "userName": "Ivan C.",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjuYB494FC9sJx436rX_LnXYezg9zF9CUO6W-z4kw",
+        "content": "Excelente app que cumple con lo indicado. F\u00e1cil de navegar por ella con buen dise\u00f1o y sobretodo una app que te ayuda a controlar tus s\u00edntomas de covid. Tambi\u00e9n da informaci\u00f3n de los hospitales m\u00e1s cercanos seg\u00fan tu ubicaci\u00f3n.",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.1.0",
+        "at": "2021-01-10 19:05:33",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOFMQO5zWlAbKsmFDjB3XFySJNPN-N-cxxQ-LjBYZLj8dhXWUCrC_yjmhfJBMlkbE4x2anonB1JnO5aXgw",
         "userName": "MykyLec",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjyBDWcCsGMIhn26an89EWJLlGnJUPtB6a5kd_v",
@@ -89,7 +125,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiTlfvzlhdP9N94Kuof7iGigiydjbJp6Dem--Af",
         "content": "Excelente App ideal para ser usado en estos tiempos que corren. Explica muy bien sobre los s\u00edntomas del Covid, app muy \u00fatil para prevenir y conocer que hacer.",
         "score": 5,
-        "thumbsUpCount": 3,
+        "thumbsUpCount": 4,
         "reviewCreatedVersion": "1.1.0",
         "at": "2020-12-28 22:56:14",
         "replyContent": null,
@@ -841,7 +877,7 @@
     },
     {
         "reviewId": "gp:AOqpTOEFnfDg54qROfvh0PFsY_5-97mmGSjRUhLX7YhKk4EpmHmQAS9MGbrPyeM8GdygK4LX_2utHAvMMbltVg",
-        "userName": "Alicia Juarez Rodriguez",
+        "userName": "Escuchar es de sabios",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgsmJla1Gw713Cspf8sIv2M1gD3NpqRGZquRB0cGjo",
         "content": "Yo no s\u00e9 que est\u00e1n valorando aqu\u00ed porque no es verdad que no puedas cerrar sesi\u00f3n o que no puedas meter fechas o que no puedas localizar centro sanitarios,totalmente falso parece una campa\u00f1a para fastidiar la app y a los desarrolladores. Toda va perfecto y cada 12 horas puedes volver a evaluar tu salud. Adem\u00e1s las recomendaciones son muy buenas respecto al covid-19. App excelente,r\u00e1pida y facil\u00edsima. Gracias",
         "score": 5,
@@ -1574,7 +1610,7 @@
     {
         "reviewId": "gp:AOqpTOFbwWIsC6SfDEkrDCpU9TQyBIi-5KJ2bsLUIC2OFELX5dnWkR9ksmg3_c4GrIx1BT8GiwXRNuRpF3GY-g",
         "userName": "Reyes Rivero L\u00f3pez",
-        "userImage": "https://play-lh.googleusercontent.com/-Li9rGwJ_VWo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclbSJhXcLhoH_keBtIp_JCArNn2zg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhZc76fmnPkAqgR6rLvfEDjBN_AtTWHRIW-PRoXH9Q",
         "content": "De qu\u00e9 me atiendan lo pondre",
         "score": 3,
         "thumbsUpCount": 1,

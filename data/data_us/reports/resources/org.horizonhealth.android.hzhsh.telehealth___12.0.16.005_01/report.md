@@ -184,6 +184,14 @@ The Horizon Telehealth app has been installed by more than **1000** times. At th
 <img src="5_star_reviews_wordcloud.png" alt="org.horizonhealth.android.hzhsh.telehealth 5 reviews"/>
 </p>
 
+> Very helpful. Therapeutic.<br> :date: __2021-01-15 01:19:25__
+
+> Something I really needed during the pandemic!<br> :date: __2021-01-12 16:01:28__
+
+> Even though I'd rather meet in person this app is great. You can talk to more than one person at a time.<br> :date: __2021-01-12 15:39:55__
+
+> Great helpful service for health very beneficial highly reccomend Shannon Allen Shes the best!<br> :date: __2021-01-11 21:52:27__
+
 > Good app.works pretty good!!!<br> :date: __2021-01-06 21:15:19__
 
 > Simple and effecient way to meet with your doctor and councilor.<br> :date: __2020-12-31 16:25:01__
@@ -196,14 +204,6 @@ The Horizon Telehealth app has been installed by more than **1000** times. At th
 
 > Great 👍<br> :date: __2020-12-08 17:43:12__
 
-> Listens very well<br> :date: __2020-12-08 17:18:01__
-
-> good<br> :date: __2020-11-30 15:04:12__
-
-> Helps alot more then phone appointments<br> :date: __2020-11-18 22:16:06__
-
-> This app is extremely user friendly. I would recommend anyone to download this app.<br> :date: __2020-11-16 17:10:16__
-
 
 
 #### 4-star reviews
@@ -211,6 +211,8 @@ The Horizon Telehealth app has been installed by more than **1000** times. At th
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="org.horizonhealth.android.hzhsh.telehealth 4 reviews"/>
 </p>
+
+> Great service thru this whole pandemic & before<br> :date: __2021-01-11 15:01:43__
 
 > Very helpful during the plague<br> :date: __2020-11-23 18:20:51__
 

@@ -305,6 +305,14 @@ The WebMD: Check Symptoms, Rx Savings, & Find Doctors app has been installed by 
 <img src="1_star_reviews_wordcloud.png" alt="com.webmd.android 1 reviews"/>
 </p>
 
+> This App is NOT WORKING. Won't even open.<br> :date: __2021-01-14 16:40:21__
+
+> Keeps crashing, not opening!!<br> :date: __2021-01-12 20:14:41__
+
+> Worthless account set up designed by a moron<br> :date: __2021-01-12 03:32:29__
+
+> Started getting political propaganda from web md. Very disappointed. Removing App. They should stick to Science and Medicine.<br> :date: __2021-01-12 00:22:25__
+
 > Can't even open the app anymore. It just says WebMD has stopped or keeps stopping<br> :date: __2021-01-09 00:55:32__
 
 > The app just updated and the app will not open.<br> :date: __2021-01-08 07:03:04__
@@ -316,13 +324,5 @@ The WebMD: Check Symptoms, Rx Savings, & Find Doctors app has been installed by 
 > many symptoms lacking especially related to brain and psychiatry.<br> :date: __2020-12-04 19:48:57__
 
 > Do not get this app. YOU WILL BE SPAMMED. I am receiving daily emails. Tried to unsubscribe, but the emails still keep coming. I will be deleting this app<br> :date: __2020-11-25 22:41:50__
-
-> This site is worthless<br> :date: __2020-11-25 03:03:39__
-
-> This app sucks, its slooow, buttons work at random, when they decide to work at all, I couldn't even get far enough in the app to completely describe my ailments. I DON'T RECOMMEND!! I uninstalled immediately after this review.<br> :date: __2020-11-20 21:36:27__
-
-> Don't download, you'll get daily spamming. They don't accept unsubscribe.<br> :date: __2020-11-16 21:04:07__
-
-> Terrible app.<br> :date: __2020-11-14 00:46:30__
 
 

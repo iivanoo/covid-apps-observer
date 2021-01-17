@@ -135,6 +135,8 @@ The Beat Covid Gibraltar app has been installed by more than **10000** times. At
 <img src="5_star_reviews_wordcloud.png" alt="com.gha.covid.tracker 5 reviews"/>
 </p>
 
+> Awesome And Excellent<br> :date: __2021-01-11 13:25:46__
+
 > 👍😎<br> :date: __2020-11-05 21:22:14__
 
 > So, I downloaded this app to complain... about the idiots who have downloaded the app then given it a 1 star review for not being made for the UK 1. Gibraltar is a British overseas territory, as such it is relevant to the UK, you imbaciles. 2. It does tell you it is made specifically for Gibraltar, check the name of the app, you uncultured swine. 3. If you are not from Gibraltar it isn't relevant to you. This does not mean you should give it a negative review, as that does not make it a bad app.<br> :date: __2020-09-27 14:21:48__
@@ -152,8 +154,6 @@ The Beat Covid Gibraltar app has been installed by more than **10000** times. At
 > Downloaded and working in the UK. If you are having trouble with set up make sure you have the latest system update from Google/ apple and turn on the contact tracing api in settings.<br> :date: __2020-07-21 10:11:48__
 
 > Downloaded, installed and turned on notifications no problem - very easy. Yes, it does automatically turn on your Bluetooth which drains the battery faster but I'm keeping it on only when I'm outside my house&work, e.g.shopping.<br> :date: __2020-07-19 23:06:12__
-
-> Easy to set up and no issues<br> :date: __2020-07-10 19:09:49__
 
 
 

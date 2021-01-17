@@ -186,6 +186,8 @@ The BlueCare app has been installed by more than **10000** times. At this time, 
 <img src="5_star_reviews_wordcloud.png" alt="com.bcbsla.android.bluecare 5 reviews"/>
 </p>
 
+> I love this app and will recommend it to others<br> :date: __2021-01-15 07:23:21__
+
 > THE DOCTORS ARE AMAZING...THIS IS SO CONVIENT!!<br> :date: __2020-12-09 18:19:41__
 
 > Convenient! I was able to be seen and prescribed meds by a DR with 30-40min. I was taken care of during my lunch with time to spare.<br> :date: __2020-10-21 17:51:34__
@@ -203,8 +205,6 @@ The BlueCare app has been installed by more than **10000** times. At this time, 
 > Professional<br> :date: __2020-07-08 17:18:49__
 
 > Very good<br> :date: __2020-05-08 23:13:36__
-
-> Really easy to use. Set up takes a bit, but in line with what I expected.<br> :date: __2020-05-03 22:15:11__
 
 
 

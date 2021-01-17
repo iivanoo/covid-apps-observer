@@ -125,6 +125,8 @@ The CO Exposure Notifications app has been installed by more than **100000** tim
 <img src="5_star_reviews_wordcloud.png" alt="gov.co.cdphe.exposurenotifications 5 reviews"/>
 </p>
 
+> Amazing<br> :date: __2021-01-10 02:04:49__
+
 > Thanfully I have had no notifications but this is a great help for Colorado to trace and inform.<br> :date: __2021-01-06 02:45:40__
 
 > Cool yo<br> :date: __2020-12-25 01:47:43__
@@ -142,8 +144,6 @@ The CO Exposure Notifications app has been installed by more than **100000** tim
 > Right<br> :date: __2020-12-01 05:36:13__
 
 > very informative, thanks<br> :date: __2020-12-01 02:39:23__
-
-> I love this app cause it is easy to use and understand, it's also a great way to stay safe from the pandemic!<br> :date: __2020-11-28 06:33:21__
 
 
 
@@ -207,6 +207,8 @@ The CO Exposure Notifications app has been installed by more than **100000** tim
 <img src="2_star_reviews_wordcloud.png" alt="gov.co.cdphe.exposurenotifications 2 reviews"/>
 </p>
 
+> The app seems great (simple, unobtrusive, easy to use, no major privacy issues) but what good is the app if people can't easily report their covid results? Why haven't they partnered with testing facilities to provide this code automatically upon getting a positive result? I've had this app for months and haven't gotten a single notification ever<br> :date: __2021-01-10 00:52:39__
+
 > Adventrouous to say the least<br> :date: __2021-01-08 06:45:13__
 
 > The reasonable use of this app doesnt make sense<br> :date: __2021-01-08 00:14:51__
@@ -225,8 +227,6 @@ The CO Exposure Notifications app has been installed by more than **100000** tim
 
 > This app is too difficult to use for such a life threatening issue. It needs to be more intuitive before the public will actually begin using this app. It is should be easy to use by those who are not comfortable with technology, yet I am very comfortable with technology and the app took a while to figure out Please do something to make this better<br> :date: __2020-11-23 16:56:58__
 
-> major power consumption issues. had to uninstall it because I couldn't use my phone normally without having to charge in the middle of the day, and I only really text on an average day. also noticed my phone was running very hot constantly when I had the app installed. this is something we definitely need, but please optimize it so it doesn't make my phone unusable.<br> :date: __2020-11-19 19:11:35__
-
 
 
 #### 1-star reviews
@@ -234,6 +234,12 @@ The CO Exposure Notifications app has been installed by more than **100000** tim
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="gov.co.cdphe.exposurenotifications 1 reviews"/>
 </p>
+
+> Cant post results doesn't see anyone with covid ever..<br> :date: __2021-01-15 08:50:35__
+
+> Absolutely hate app<br> :date: __2021-01-15 01:29:56__
+
+> App is fine and has not caused issues that I know of. It's completely useless. I work in retail and with the infection and positivity rates in the Denver Metro and suburbs you would think I'd have come in contact with someone who had tested positive over that month I've had the app.<br> :date: __2021-01-14 15:58:24__
 
 > Clear 3 prior apps.<br> :date: __2021-01-07 23:31:07__
 
@@ -248,11 +254,5 @@ The CO Exposure Notifications app has been installed by more than **100000** tim
 > It's about as worthless as our stupid governor.<br> :date: __2021-01-04 00:22:14__
 
 > 1 star based on the fact that the play store pushes the app on you and it does nothing helpful<br> :date: __2021-01-03 00:46:32__
-
-> Most users won't have the patience or technical know-how to setup or use this app correctly which makes it nearly completely ineffective. The FAQ site did not have any info on where I could find a confirmation code to report a positive test; I found the answer in the freaking app reviews (CDPHE will eventually text you the code). While the idea is novel, the execution actively discourages adoption and use by anyone except tech-savy users.<br> :date: __2021-01-02 15:41:13__
-
-> I find as others have said not getting notified. I would also like to see the areas in which covid is reported and numbers. This app seems pretty useless. I hope we as coloradoans aren't having to pay for this. It's clearly broken and doesn't work. Going to delete hate wasting space on my phone.<br> :date: __2020-12-31 15:47:12__
-
-> No instructions on how to upload a positive test result to the app. Just "Enter verification code" ??? Where does THAT come from? No instructions on how to proceed from this point. How is this app going to help anyone if you can't upload your test results.<br> :date: __2020-12-30 16:31:33__
 
 

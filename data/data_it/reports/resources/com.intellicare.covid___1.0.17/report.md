@@ -169,6 +169,8 @@ The LAZIOdrCovid app has been installed by more than **100000** times. At this t
 <img src="4_star_reviews_wordcloud.png" alt="com.intellicare.covid 4 reviews"/>
 </p>
 
+> Utile applicazione. Ho avuto feedback dal medico di medicina generale senza problemi.<br> :date: __2021-01-14 17:29:26__
+
 > Non consente alcune descrizioni nel dettaglio, a volte si blocca<br> :date: __2020-08-27 07:53:21__
 
 > Salve, vorrei farvi notare che quando si compila l'autovalutazione, alla domanda: hai frequentato nelle ultime 2 settimane strutture sanitarie ? Io rispondo NO e al termine dei quesiti andando ad aprire il documento word con le mie risposte risulta SI per gli ospedali anche se la mia risposta, come già ho detto, sia stata No! Ho provato 2 volte per sicurezza, ma il risultato è lo stesso.<br> :date: __2020-05-28 05:22:18__
@@ -186,8 +188,6 @@ The LAZIOdrCovid app has been installed by more than **100000** times. At this t
 > Update 6/4/2020: Scaricata nuova versione, confermo la risoluzione delle problematiche. Grazie<br> :date: __2020-04-07 11:08:15__
 
 > Positiva<br> :date: __2020-04-03 14:28:41__
-
-> Aiuta a capirsi meglio quanta criticità hai in relazione al virus. Al momento non ho capito come poter cambiare medico curante... Dato che il medico inserito è in pensione dal 1 aprile e dovrei inserire nuovo medico scelto o dovrebbe proporlo in automatico<br> :date: __2020-04-03 12:21:47__
 
 
 
@@ -253,6 +253,8 @@ The LAZIOdrCovid app has been installed by more than **100000** times. At this t
 <img src="1_star_reviews_wordcloud.png" alt="com.intellicare.covid 1 reviews"/>
 </p>
 
+> Scaricata appena uscita, ora che mi serve, nemmeno si apre<br> :date: __2021-01-15 21:04:50__
+
 > Direi che... fa abbastanza caxxare. Non me ne vogliamo i colleghi programmatori, so che non è colpa loro. Ma credo sia un app approssimativamente inutile. Tra l'altro mi si è impallata mentre cercavo di usare il sistema di messaggistica interna<br> :date: __2020-12-17 16:03:26__
 
 > Nesuno rispode<br> :date: __2020-12-12 21:03:40__
@@ -270,7 +272,5 @@ The LAZIOdrCovid app has been installed by more than **100000** times. At this t
 > Ennesima presa in giro e spreco di soldi di noi contribuenti.<br> :date: __2020-11-16 07:42:51__
 
 > Macchinosa e poco pratica, un disastro<br> :date: __2020-11-15 18:17:23__
-
-> Non funziona!!!!! usate i nostri soldi per dare un servizio che non esiste. Fate schifo.<br> :date: __2020-11-14 09:27:10__
 
 

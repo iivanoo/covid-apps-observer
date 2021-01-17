@@ -171,8 +171,6 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <img src="5_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 5 reviews"/>
 </p>
 
-> ❤️🇵🇹💚<br> :date: __2021-01-09 04:59:28__
-
 > Impecavel<br> :date: __2020-11-24 18:59:55__
 
 > Nunca pensei que há tantos ignorantes no meu País. É aterrador, pior que o coronavírus.<br> :date: __2020-11-18 08:13:42__
@@ -190,6 +188,8 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 > MUITO ÚTIL ! OBRIGADO<br> :date: __2020-09-11 10:57:40__
 
 > Perfeito<br> :date: __2020-09-09 02:55:00__
+
+> Bom<br> :date: __2020-09-04 21:37:00__
 
 
 
@@ -227,6 +227,8 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <img src="3_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 3 reviews"/>
 </p>
 
+> Como consigo extrair a minha receita em papel ?<br> :date: __2021-01-15 17:35:08__
+
 > Necessita conter mais informação sobre o Utente, não está atualizado de acordo com os movimentos do Utente, faltam consultas, resultados e comunicação com o SNS. Tenho atestado de incapacidade Multiusos e não consta essa informação?!<br> :date: __2021-01-09 10:38:47__
 
 > Bom<br> :date: __2020-12-05 20:20:44__
@@ -244,8 +246,6 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 > Pouca dificuldade a, aceder !<br> :date: __2020-06-26 20:16:31__
 
 > A informação do movimento de banhistas,deveria ser actualizada mais frequentemente, particularmente até ao meio dia e depois das 4 da tarde. E mais divulgada nos meios comunicação.<br> :date: __2020-06-21 08:13:06__
-
-> Dificuldade em perceber e aceder às receitas digitais<br> :date: __2020-04-22 15:28:21__
 
 
 
@@ -283,24 +283,24 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <img src="1_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 1 reviews"/>
 </p>
 
+> Inútil e desatualizada, foi abandonada pelo serviço técnico que a criou. Só funciona com versões antigas de Android.<br> :date: __2021-01-16 11:39:24__
+
+> Lixo<br> :date: __2021-01-16 02:20:20__
+
+> Diz que a minha versão de Android é recente demais<br> :date: __2021-01-15 20:21:22__
+
+> Não funciona, uma vergonha estar disponível neste situação.<br> :date: __2021-01-15 14:29:27__
+
+> Completamente desactualizada<br> :date: __2021-01-14 22:00:51__
+
+> APP sem sentido as imagens aparecem corrompidas, nas notícias, e remate para o site ao invés de facultar a informação da mesma<br> :date: __2021-01-12 12:31:39__
+
+> Funcionava muito bem, agora deixou de funcionar, nao consigo ir à minha área de saúde.<br> :date: __2021-01-11 19:31:45__
+
 > Uma aplicação que é uma confusão e não serve os utentes.<br> :date: __2021-01-05 21:01:46__
 
 > Não funciona<br> :date: __2021-01-02 02:11:25__
 
 > Muitas falhas e sem necessidade de ter aplicação, pois é rederecionado para o saite a app pouco ou nada serve. App péssima. Tanto dinheiro recebem, deveriam de a melhorar.<br> :date: __2020-12-28 01:08:58__
-
-> Não sei para que serve!!!<br> :date: __2020-12-26 14:00:30__
-
-> Não faz muito sentido, quando tento entrar reenvia me para o navegador. É verdade que foi concebida para uma versão mais antiga do android...vou desinstalar.<br> :date: __2020-12-23 21:51:33__
-
-> Muito dificil ver receitas<br> :date: __2020-12-20 15:15:21__
-
-> Pelo pouca utilização que fiz da app, so tenho a concluir que não sei para que é que serve, já que redirige para o website equivalente. Além disso, houve um problema da primeira vez que tentei fazer login.<br> :date: __2020-12-14 06:46:42__
-
-> não utilizei!!<br> :date: __2020-12-13 21:43:57__
-
-> Muito má, para se conseguir entrar é uma odisseia. A ideia é boa mas é frustrante a utilização.<br> :date: __2020-12-13 20:26:48__
-
-> Que aplicação mais inútil. Basicamente tudo o que se faz é redirecionado para o site do SNS no browser. Não faz qualquer sentido a utilidade da app. Nem o registo é possível fazer pela app. Apenas pelo site. Que péssimo.<br> :date: __2020-12-06 23:14:44__
 
 

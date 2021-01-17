@@ -1,5 +1,77 @@
 [
     {
+        "reviewId": "gp:AOqpTOHN9Wflg3ILI2sJsJ0yI9T4mhspd3HWr0BfPHXtEG3WpsRnQIeq67yhGKkHIVxK6H_3c8GSMWIbei4qkQ",
+        "userName": "Polly Starr",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgJZCs4OdKoTyqPOF2a5Lc2lqw4UHaN9IxMYbOYMA",
+        "content": "I feel safer when I have a Colorado id at my fingertips. This is very easy to install and I always have id available. Thank you",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.0",
+        "at": "2021-01-15 16:28:22",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOF5Js8VMxz_STFD7xK1qRazA4SbYTQ0vCtmmYzPTYe-qPsNIPJQ8W4nGau-5BqwnzRdKGUTJcdjr42uDw",
+        "userName": "Thomas Rodriguez",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjzNpd2vuAwID4oSkntBBbq-vrlnZE_ykMTNMigtw",
+        "content": "Easy app and services",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.0",
+        "at": "2021-01-15 05:58:17",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOEkpCh0Gqt14XCNBPAhefeF2j0r3Df3XysgJ8jBtmHrbCMpQDGY2Dub734Ug172noAywsYw0ZhmtOF3Ng",
+        "userName": "3rd1",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiaejdT01drDr7qRFmde9pM3Xbnz5hix3QMN55yaQ",
+        "content": "pretty \ud83c\udd92",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.0",
+        "at": "2021-01-14 19:25:48",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFjoSlWQapJOkruI5THkT_9HzbUMvS3vq-4GN5hkXtQD14hZg9sxaud-tdo2-i1vXisVdBgaIEwtGge3Q",
+        "userName": "Oz Alma",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhZ7nlFN7AmNOChgwkUM3UwnNtEMyNOxToxQtAeNw",
+        "content": "Really sharp and innovative, the app to use for our now generation.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.0",
+        "at": "2021-01-14 06:45:02",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOE-O4yNMnvcs584FeDc70EQUX0EMq9S6HZiY_ibUHQazZha3oXEI4VgPCsKfT9QBIN-DYQkJYmp0h7q0g",
+        "userName": "Adam Whatley",
+        "userImage": "https://play-lh.googleusercontent.com/-OQrYMvsA9Wg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckslq2QC4iSSnFHcwPDZHrW8wNwJw/photo.jpg",
+        "content": "Good",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.0",
+        "at": "2021-01-12 01:43:44",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGJddBh22fikMd7DjqoQTlHct87PFNg8P4fymqi8DXohyK89bnfgqTnYnv2FtLj4zj8apn9RLHcmlmbcQ",
+        "userName": "Gabriel Quintana",
+        "userImage": "https://play-lh.googleusercontent.com/-G5Jg1UrpuNs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmGvvaitGYmXzKXo3D_GDA__TiQxA/photo.jpg",
+        "content": "Nice",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.0",
+        "at": "2021-01-09 22:35:06",
+        "replyContent": "Hello Gabriel. Thank you for the positive review!",
+        "repliedAt": "2021-01-11 18:44:06"
+    },
+    {
         "reviewId": "gp:AOqpTOHxE1gKRUVdwyqoq83lqqQBuo1AjoclEL7wNtBDfqs5uNyoAkaqOEBh1znueh7u9-zclFFbnrtaYSklzw",
         "userName": "Tre Hoffman",
         "userImage": "https://play-lh.googleusercontent.com/-aGVnSMp-Eq8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnwXhLXxzPyY4jHWYpcIIc0Ctf7ww/photo.jpg",
@@ -8,8 +80,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.0",
         "at": "2021-01-09 03:02:10",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hello Tre, thank you for your response. We're sorry that you experienced an issue with the facial recognition. Please contact our support team Monday - Friday from 8 am to 5 pm at myColorado@state.co.us or 303-562-9855 and they'll help troubleshoot.",
+        "repliedAt": "2021-01-11 18:44:29"
     },
     {
         "reviewId": "gp:AOqpTOF2n5W8T3yxccLQeVuOpha5Z2ZrQsiv8ZSJoa_qUYO8PltjT6AFhO88MxMlx1iri6pBblg_hMz-1KFOsw",
@@ -185,7 +257,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgFxokmySOPp7MOFmil1DKCVrFQyKhiCTE5onkN",
         "content": "This app is a good idea which is not ready for Prime Time. The app is hard to get set up. One can create an account, but then one needs the \"Authentication\" number which is supposedly emailed. I found that less than 10% of the time did I actually get an email. OK, fine, I eventually got one that worked, and got logged on. THE PROBLEM IS THAT IF YOU GET LOGGED OFF, YOU YOU NEED ANOTHER \"AUTHENTICATION\" EMAIL TO GET LOGGED ON AGAIN, AND THEY MOSTLY DON'T ARRIVE. In addition, this app is supposed to be able to be used on the roadside to touchlessly give one's info to a law enforcement officer. If the emails don't reliable arrive to a home with a fast wired connection, think what problems would arise on the side of a remote road somewhere in rural Colorado. And imagine telling a State Trooper \"just a minute, I'm waiting for the email.\" As long as the app requires an unreliable \"Authentication\" I certainly can't recommend it. Shouldn't authenticating once be enough? ADDENDUM: A comment on this review from the State of Colorado - Governor's Office of IT asked me to contact their tech support. I had previously done that - they said: \"When you created your account, Ping ID is used to pair your device. I am reaching out to our developers to confirm what email address is connected to your account. As soon as I have more information I will reach back out and let you know!\" After 12 days I have heard nothing. I contacted them again, with a copy of this review, and we'll see if they do anything this time. I know things are weird in this country right now, so I'm willing to patiently wait and see what happens. I'd really like them to address the issue of whether one actually has to do the \"Authentication\" every time one logs into the app, or if that's an error of some sort. Maybe they could comment on that here?",
         "score": 1,
-        "thumbsUpCount": 6,
+        "thumbsUpCount": 9,
         "reviewCreatedVersion": "4.0",
         "at": "2020-12-14 23:46:26",
         "replyContent": "Hi Dave, I am sorry you had issues with the app. Please contact our support team at myColorado@state.co.us and they can help.",
@@ -2822,7 +2894,7 @@
     {
         "reviewId": "gp:AOqpTOHpFLwR_zlOewU_beJwBvPVkrhTtfcaMycyupnCvDPAdOpBR9oF1pcln5s69P4uV7LNcL5yUHZNJufDkg",
         "userName": "Devin Noel",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi4ftlQAF-Z6eRZduXlFy3XrYUlXJpmU7DVPxf-sA",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhsJJmDlPCUV7k3KkRNggPn1Ae7c1OOdzJBwF3-zj4",
         "content": "Unusable due to massive bugs. When taking the REQUIRED self photo it demands you hold the phone vertically. When you do, it rotates the photo sideways & tells you the photo was taken in the wrong orientation. When you hold the phone sideways it tells you the photo was taken in the wrong orientation. The app is unusable & apparently hasn't gone through basic QA on the most popular phones out there.",
         "score": 1,
         "thumbsUpCount": 9,

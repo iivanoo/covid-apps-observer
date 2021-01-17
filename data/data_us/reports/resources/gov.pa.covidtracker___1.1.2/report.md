@@ -141,6 +141,12 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="gov.pa.covidtracker 5 reviews"/>
 </p>
 
+> Yre<br> :date: __2021-01-16 04:28:33__
+
+> Gööd<br> :date: __2021-01-14 23:06:20__
+
+> Good app for the pandemic. Please download and share.<br> :date: __2021-01-11 17:09:21__
+
 > Awesome<br> :date: __2021-01-08 15:09:02__
 
 > Very good app. Very informative.<br> :date: __2020-12-31 23:42:39__
@@ -155,12 +161,6 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 
 > Everyone in PA should have this App.<br> :date: __2020-12-28 04:51:45__
 
-> Thanks a lot<br> :date: __2020-12-26 12:04:59__
-
-> Great<br> :date: __2020-12-25 05:02:03__
-
-> Extremely well executed and unobtrusive<br> :date: __2020-12-24 21:28:17__
-
 
 
 #### 4-star reviews
@@ -168,6 +168,8 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="gov.pa.covidtracker 4 reviews"/>
 </p>
+
+> good site to get reliable facts easy to read ,navigation<br> :date: __2021-01-09 20:17:36__
 
 > Made my phone die dead like go black and never turn on again.<br> :date: __2021-01-07 01:42:27__
 
@@ -187,8 +189,6 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 
 > Simple and unobtrusive, though I worry about how effective it can really be, since it would only work best if everyone installs it, *and* if everyone honestly reports their conditions. Still, it's a good effort, and a great app! Just limited by having to try to trust others to do the right thing.<br> :date: __2020-12-05 04:28:35__
 
-> 19 I watch it on my TV on my YouTube I watch the news so sense of happiness on my phone and I can hear everything that goes on here in PA Easton I live here<br> :date: __2020-12-04 18:39:52__
-
 
 
 #### 3-star reviews
@@ -196,6 +196,12 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="gov.pa.covidtracker 3 reviews"/>
 </p>
+
+> Pros: It checks in everyday to review symptoms. It tells you information about what the rest of the app users symptoms were. It keeps up to date on what it is expected to. Con: I had my mom get Covid, and at the time I lived with her. I couldn't figure out how to report that since I tested negative. Not long after my family finished quarantine, my sister tested positive . I got tested again and was still negative, but technically I was exposed.<br> :date: __2021-01-15 09:05:20__
+
+> It says my exposure isd turned of but doesn't allow me to turn it on.<br> :date: __2021-01-13 04:53:18__
+
+> It would be nice if there was a spot on the daily check in section of the app that had a CURRENT LOST OF SYMPTOMS. Just asking if you're okay or not doesn't help people to realize if they may have symptoms or not.<br> :date: __2021-01-11 14:21:29__
 
 > this isn't a reflective rating on this app; however, maybe this is proof on how well my VPN is working.. because i don't live in PA. does it even matter that i don't live in PA, if i was wanting to use the app? this raises another concern of mine. my VPN is on all the time, so how could this app, if i did set it up, know where I've been? does it all permission to bypass VPN settings? if not, how would it accurately know where I've been? or have i been mislead on what a VPN does?<br> :date: __2021-01-08 06:20:15__
 
@@ -210,12 +216,6 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 > It does not appear to follow me via GPS, i live in lancaster but work all over the Philadelphia area and the app seems to only use the default county selection (unless i missed something). Makes it pretty useless for anynone that travels in PA.<br> :date: __2020-11-30 23:33:58__
 
 > I like the concept of the app, and we clearly need something like this. My huge complaint is that the developers continually respond with no location services or gps is needed.That is patently false, if I want to receive notifications the gps has to be on ( and the screen that popped up telling me that the gps had to be on in order to get the notifications sems to confirm what everyone else was saying). Remake the app so no one needs gps just for safety and I'm all in<br> :date: __2020-11-27 05:38:12__
-
-> Reporting symptoms is easy. But Covid data does not seem accurate. Or, I am misunderstanding the data since the data columns are unlabelled.<br> :date: __2020-11-19 21:12:48__
-
-> Not sure that this is truly private. If I have to give my phone number to DOH employee to receive Random ID, then this is no longer private because DOH then has my phone number and knows my identity. How is this private or confidential?<br> :date: __2020-11-18 23:14:49__
-
-> 😁it doesn't tell me much about the Virus itsef<br> :date: __2020-11-13 17:27:08__
 
 
 

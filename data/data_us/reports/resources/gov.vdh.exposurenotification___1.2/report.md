@@ -130,6 +130,12 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 <img src="5_star_reviews_wordcloud.png" alt="gov.vdh.exposurenotification 5 reviews"/>
 </p>
 
+> Baddddd<br> :date: __2021-01-13 17:23:03__
+
+> Works as intended if you are not an idiot.<br> :date: __2021-01-10 16:56:50__
+
+> Excellent!<br> :date: __2021-01-10 09:35:13__
+
 > Good have<br> :date: __2020-12-31 03:21:43__
 
 > Gd<br> :date: __2020-12-24 17:45:09__
@@ -144,12 +150,6 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 
 > Works as described and safe<br> :date: __2020-12-11 00:55:21__
 
-> Nice 👌<br> :date: __2020-12-09 06:59:54__
-
-> It WORK !!!!! Oooorrrrraaahh<br> :date: __2020-12-07 22:55:25__
-
-> Really keep up with it<br> :date: __2020-12-07 11:45:05__
-
 
 
 #### 4-star reviews
@@ -157,6 +157,10 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="gov.vdh.exposurenotification 4 reviews"/>
 </p>
+
+> It seems my phone was just slow and loaded the app in the background. Looked later and there it was.<br> :date: __2021-01-15 19:20:49__
+
+> text<br> :date: __2021-01-15 05:37:45__
 
 > Fundamental problem: this app has almost no public outreach throughout Virginia, and apparently there is a faulty verification process for PATIENTS VOLUNTEERING POSITIVE RESULTS. As long as these issues remain, this app is mostly a failure. This is a critical PR issue that won't be fixed with improved app code<br> :date: __2021-01-07 07:15:35__
 
@@ -174,10 +178,6 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 
 > I've had this app for a couple weeks. However, is this for Virginia only? Or is it tracking in my area, El Paso, TX? Thanks.<br> :date: __2020-11-05 23:10:25__
 
-> Slipped<br> :date: __2020-10-31 14:35:01__
-
-> I am new to this app, so ask me later.<br> :date: __2020-10-30 00:32:34__
-
 
 
 #### 3-star reviews
@@ -185,6 +185,8 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="gov.vdh.exposurenotification 3 reviews"/>
 </p>
+
+> Edit: apparently you need a pin to report positive. Rating is only 3* This is a very well made app! I'm a person who values my privacy, and this app is made in a way which respects that. It doesn't record location. It give each phone an anonymous ID and uses Bluetooth to tell which others IDs you were near. If any of those IDs report they have COVID, any othrt ID they were nearby within the past 2 weeks gets an alert. It does not track location or the owner of the phone, only the anonymous IDs<br> :date: __2021-01-12 17:31:52__
 
 > Not for my phone<br> :date: __2020-12-28 19:41:26__
 
@@ -195,8 +197,6 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 > Only good for the residents within Virginia. or can this be utilized from someone else in another state? And what are the parameters required to utilize this feature; say for a state like Texas? They do not have a contact tracing app.<br> :date: __2020-11-30 20:55:45__
 
 > My problem is that in the DC area folks from DC, Maryland, Virginia mix regularly and then we have people from all over the country coming in. But it seems I can only have one contact app enabled at a time, and as best I can tell that means I wouldn't get notified if my phone had been getting chirps from someone on a different app. Am I incorrect?<br> :date: __2020-11-23 17:52:47__
-
-> It would be useful to know the requirements, don't know if my phone is spinning because the site is busy the phone doesn't meet the reqs<br> :date: __2020-11-23 17:19:09__
 
 > Good idea, flawed execution. A person who tests positive must input a PIN that they receive from a state contact tracer to report their illness. This works great as long as the contact tracing is performed properly. Personal experience: my wife tested positive, did not hear from a contract tracer, never received a PIN. At no point did the app indicate that I had been exposed, even though I share a home with someone who tested positive. This may be an isolated case, but I've lost confidence.<br> :date: __2020-11-20 01:38:46__
 
@@ -242,6 +242,12 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 <img src="1_star_reviews_wordcloud.png" alt="gov.vdh.exposurenotification 1 reviews"/>
 </p>
 
+> I never installed it and it still ended up installed on my phone, waste of space<br> :date: __2021-01-13 07:59:40__
+
+> Notifications on this app depend on VDH calling you and giving you a pin number once you're confirmed positive. We had a positive in our house over 2 weeks ago and VDH never provided a pin and we were never able to notify using the app which makes this whole thing useless if it can't be quickly used.<br> :date: __2021-01-11 19:12:50__
+
+> The app never notified me that I had been in contact with someone with Covid, but I contracted the virus. I tried to use the notify feature but was never given a PIN. I talked to my contact tracer and they were unaware of the PIN so the app has been useless. Great idea, but the PIN requirement and the lack of people using the app render it useless. I will be deleting it from my phone.<br> :date: __2021-01-10 00:46:30__
+
 > Not good this app for City Virginia<br> :date: __2021-01-08 20:37:15__
 
 > Waste of space on my Phone. This app does not work like it is supposed to. My Wife and I contracted the virus and never did the app say we were in contact with anyone. Even when I go to report it, it says wait to contacted by the department of health, two weeks and nothing. So don't waste you time with this app and just follow the CDC guidelines to keep yourself safe.<br> :date: __2021-01-05 22:55:24__
@@ -255,11 +261,5 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 > This app is horrible. DO NOT INSTALL<br> :date: __2020-12-31 02:26:57__
 
 > ☆WARNING☆ DON'T DOWNLOAD ITS AN FAKE VIRUS APP IT'LL HURT YOUR DEVICE AND YOU!!!!! ESPECIALLY IN THE HOSPITAL!!!! Shutup<br> :date: __2020-12-29 16:22:57__
-
-> I've had this app on my phone for months. After I tested positive for Covid-19, I went to report a positive test. Couldn't even do it. What a real waste of potential in this system.<br> :date: __2020-12-29 03:31:45__
-
-> Useless and sketchy. Hasn't given me a single alert since I installed it months ago and requires bluetooth on 24/7. A waste of battery. Uninstalled.<br> :date: __2020-12-26 13:20:46__
-
-> Can't even upload my positive result because they claim the VDH contacts you to give you a PIN after you test positive. They definitely don't. I haven't been contacted at all. This app is useless, don't waste your time. It will give you a false sense of security thinking you haven't come into contact with anyone contagious when you probably have. Way to go VDH. Not helpful in preventing the spread of Covid at all.<br> :date: __2020-12-18 16:14:29__
 
 

@@ -186,6 +186,12 @@ The myColorado app has been installed by more than **10000** times. At this time
 <img src="5_star_reviews_wordcloud.png" alt="com.soc.mycolorado 5 reviews"/>
 </p>
 
+> I feel safer when I have a Colorado id at my fingertips. This is very easy to install and I always have id available. Thank you<br> :date: __2021-01-15 16:28:22__
+
+> Really sharp and innovative, the app to use for our now generation.<br> :date: __2021-01-14 06:45:02__
+
+> Nice<br> :date: __2021-01-09 22:35:06__
+
 > It would not work on my phone. But then I got a new, better phone where it works fine.<br> :date: __2021-01-02 06:04:30__
 
 > Easy to use<br> :date: __2020-12-29 18:47:12__
@@ -200,12 +206,6 @@ The myColorado app has been installed by more than **10000** times. At this time
 
 > Really pleased with the app, can't wait till everybody understands and accepts digital IDs.<br> :date: __2020-12-16 23:20:43__
 
-> Can not in places that have WiFi<br> :date: __2020-12-16 22:39:27__
-
-> I am so elated and glad of the fact that I can no longer loose my ID.<br> :date: __2020-12-15 06:08:30__
-
-> Thank goodness this is a thing now!!!<br> :date: __2020-12-13 23:46:31__
-
 
 
 #### 4-star reviews
@@ -213,6 +213,10 @@ The myColorado app has been installed by more than **10000** times. At this time
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.soc.mycolorado 4 reviews"/>
 </p>
+
+> Easy app and services<br> :date: __2021-01-15 05:58:17__
+
+> Good<br> :date: __2021-01-12 01:43:44__
 
 > Good<br> :date: __2020-12-11 15:53:14__
 
@@ -230,10 +234,6 @@ The myColorado app has been installed by more than **10000** times. At this time
 
 > When trying to view my entered insurance info the app crashes<br> :date: __2020-08-31 19:22:38__
 
-> Everything is good but the app need to change to color of text from white to black for easier to read.<br> :date: __2020-08-30 10:27:57__
-
-> Previous certificate issue has now been fixed. App functions as expected now<br> :date: __2020-07-16 23:08:23__
-
 
 
 #### 3-star reviews
@@ -241,6 +241,8 @@ The myColorado app has been installed by more than **10000** times. At this time
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="com.soc.mycolorado 3 reviews"/>
 </p>
+
+> pretty 🆒<br> :date: __2021-01-14 19:25:48__
 
 > THIS APP IS HARD TO SET UP AND IT KEEPS REDIRECT ME .BUT NOT LETTING ME LOG IN<br> :date: __2020-12-21 09:32:36__
 
@@ -259,8 +261,6 @@ The myColorado app has been installed by more than **10000** times. At this time
 > Had to use my sister's phone to scan my I.D., for whatever reason, my phone wouldn't scan, but other than that, I like this app..<br> :date: __2020-06-01 02:31:47__
 
 > It ok needs improvement on application<br> :date: __2020-05-08 05:29:35__
-
-> I am giving some stars based on the potential for being walletless. Using this in lieu of my driver's license would be game changing. I am taking off the same number of stars because I can't do this yet.<br> :date: __2020-05-04 03:17:40__
 
 
 

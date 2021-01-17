@@ -215,6 +215,10 @@ The Amwell: Doctor Visits 24/7 app has been installed by more than **1000000** t
 <img src="5_star_reviews_wordcloud.png" alt="com.americanwell.android.member.amwell 5 reviews"/>
 </p>
 
+> First tele health experience. Saved time going to regular doctor for something minor but it did need medical attention. Fast and got immediate attention. Very pleasant doctor. Two Thumbs up!!!<br> :date: __2021-01-11 20:54:12__
+
+> Doctor Salazar was so professional and so helpful, he was respectful, so interested in my father's needs, he really show us that he truly care about his patients. Thank you so much!<br> :date: __2021-01-09 23:51:03__
+
 > Excellent Service Ever One Should Try It<br> :date: __2021-01-09 00:27:06__
 
 > It's great. Easy to use and the doctor was friendly.<br> :date: __2021-01-07 15:35:03__
@@ -230,10 +234,6 @@ The Amwell: Doctor Visits 24/7 app has been installed by more than **1000000** t
 > Very easy to use. The physicians are helpful & pleasant. It is a great option when you want to be seen right away from convenience of your home.<br> :date: __2020-12-30 15:47:58__
 
 > Excellent<br> :date: __2020-12-29 17:19:08__
-
-> I have used these physicians twice now and they are very professional and helpful. They were able to figure out the problem and send in prescriptions to my pharmacy. I will use them more often for me and my family.<br> :date: __2020-12-29 16:37:34__
-
-> Easy to use. Doctor was really nice.<br> :date: __2020-12-27 06:39:01__
 
 
 
@@ -327,6 +327,8 @@ The Amwell: Doctor Visits 24/7 app has been installed by more than **1000000** t
 <img src="1_star_reviews_wordcloud.png" alt="com.americanwell.android.member.amwell 1 reviews"/>
 </p>
 
+> It does not work or it is verry sofisticated for my mind to work with .<br> :date: __2021-01-11 22:07:36__
+
 > Needs a computer to hook up<br> :date: __2020-11-29 18:05:08__
 
 > It was working fine for the first time..then all the sudden it start acting up for me<br> :date: __2020-11-22 01:20:40__
@@ -344,7 +346,5 @@ The Amwell: Doctor Visits 24/7 app has been installed by more than **1000000** t
 > It saying that it is not available in my area. I know I have used this amwell app before<br> :date: __2020-10-29 17:30:10__
 
 > Dr seemed to get his medical advice from a trump rally instead of science.<br> :date: __2020-10-29 04:24:25__
-
-> Had no therapists or psychiatrists available. Really only needed those services, so was unable to use.<br> :date: __2020-10-27 18:06:52__
 
 

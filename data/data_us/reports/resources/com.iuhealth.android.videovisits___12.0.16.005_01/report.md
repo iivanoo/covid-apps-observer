@@ -186,6 +186,8 @@ The IU Health Virtual Visits: Online Doctor Visit app has been installed by more
 <img src="5_star_reviews_wordcloud.png" alt="com.iuhealth.android.videovisits 5 reviews"/>
 </p>
 
+> Beautiful customer service<br> :date: __2021-01-13 15:52:15__
+
 > Helpful<br> :date: __2021-01-08 18:21:02__
 
 > Great telehealth service.<br> :date: __2021-01-05 01:41:13__
@@ -203,8 +205,6 @@ The IU Health Virtual Visits: Online Doctor Visit app has been installed by more
 > Excellent<br> :date: __2020-12-04 15:43:32__
 
 > very good<br> :date: __2020-11-30 01:34:59__
-
-> Very easy to use. Only had an occasional sound problem but may have been the providers mic.<br> :date: __2020-11-28 20:56:25__
 
 
 

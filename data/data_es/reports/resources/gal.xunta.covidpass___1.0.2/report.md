@@ -234,6 +234,8 @@ The PassCOVID.gal app has been installed by more than **10000** times. At this t
 <img src="2_star_reviews_wordcloud.png" alt="gal.xunta.covidpass 2 reviews"/>
 </p>
 
+> No publican las actualizaciones es lenta sin información actualizada.<br> :date: __2021-01-14 15:54:11__
+
 > Las restricciones cambiaron esta noche a las 12, y a pesar de haber recibido una notificación diciendo que había cambios en la app, al entrar sigue apareciendo la info de ayer 🤔<br> :date: __2020-12-23 08:30:25__
 
 > Tiene que mejorar No consigo que la app me indique zonas en las que hay brotes de contagios o zonas de riesgo, se limita a dar información sobre restricciones y recomendaciones que ya conozco muy bien. La desinstalo ahora mismo, esta app no me sirve para desplazarme con seguridad. Más adelante le daré una oportunidad<br> :date: __2020-12-01 00:01:22__
@@ -252,8 +254,6 @@ The PassCOVID.gal app has been installed by more than **10000** times. At this t
 
 > Es poco clara y "le cuesta" poner todo en bilingüe, español y gallego. En varios contenidos no da opción y sólo sale la versión en gallego... Otra enfermedad, el antibilingüismo.<br> :date: __2020-11-28 12:57:27__
 
-> Es curioso que me permita registrar a qué bares voy pero que no pregunte y/o permita registrar el uso del trasporte público... Muy curioso...<br> :date: __2020-11-24 22:26:27__
-
 
 
 #### 1-star reviews
@@ -261,6 +261,8 @@ The PassCOVID.gal app has been installed by more than **10000** times. At this t
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="gal.xunta.covidpass 1 reviews"/>
 </p>
+
+> Sin comentarios<br> :date: __2021-01-16 12:21:58__
 
 > Pide clave 365 eso es un error que garantiza que muy pocos la van a utilizar cuantas mas restricciones peor esto sólo funciona si la instala todo el mundo, cusntos más mejor, si se ponen restricciones no va . La administracion a su bola para obtener la 365 ir s ventanilla n 11 del capitulo de Axterix.<br> :date: __2021-01-03 10:58:26__
 
@@ -279,7 +281,5 @@ The PassCOVID.gal app has been installed by more than **10000** times. At this t
 > Es mala y Liosa. Demasiados apartados. Con lo fácil que es, simplemente notificar si eres positivo o que te notifiquen si entre tus contactos hay alguno... Así, sin más.<br> :date: __2020-11-30 19:53:56__
 
 > De vergüenza tener que meter la tarjeta de crédito LADRONES<br> :date: __2020-11-28 18:22:54__
-
-> Anónima si, pero teslle que conceder permiso ata para acceder á axenda do teléfono...!! Desinstalada antes de acabar de instalala.<br> :date: __2020-11-28 12:05:23__
 
 

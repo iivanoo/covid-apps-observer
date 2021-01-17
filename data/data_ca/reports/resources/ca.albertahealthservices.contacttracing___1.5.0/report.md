@@ -201,6 +201,8 @@ The ABTraceTogether app has been installed by more than **100000** times. At thi
 <img src="3_star_reviews_wordcloud.png" alt="ca.albertahealthservices.contacttracing 3 reviews"/>
 </p>
 
+> The app (on android) started using a lot of battery capacity, so I force-stopped it and restarted my phone. Now it is fine. The only reason the app does not receive more stars is that it is not in use by enough people.<br> :date: __2021-01-15 21:51:13__
+
 > Applies to build 1.5.0. United States visitors will find the app will not download from PlayStore. Do not know if same issue exists with iPhone. Several workarounds. Need to set PlayStore to Canada site. (1) Google has an option to change country for apps. States cannot change back for a year. (2) Can reset your phone and then apply for a new Google account once in Alberta. (3) Buy a prepaid phone which I did. Do not sign into your US Google account. Create new Google account.<br> :date: __2021-01-05 20:26:24__
 
 > Good<br> :date: __2020-12-03 11:14:09__
@@ -218,8 +220,6 @@ The ABTraceTogether app has been installed by more than **100000** times. At thi
 > It is probably not the apps fault but I live in b.x. now and could never understand it .. stay safe<br> :date: __2020-10-07 13:11:04__
 
 > It has been a good app for now.<br> :date: __2020-10-07 05:20:33__
-
-> It's irritating that it has a large notification on my screen all the time to note that it's running, rather than an icon, or the option to just run in the background without that. Worse, it drains my battery, using as much power as almost everything else I run combined. I'd like to use it, but this isn't feasible.<br> :date: __2020-08-27 01:11:47__
 
 
 
@@ -257,24 +257,24 @@ The ABTraceTogether app has been installed by more than **100000** times. At thi
 <img src="1_star_reviews_wordcloud.png" alt="ca.albertahealthservices.contacttracing 1 reviews"/>
 </p>
 
-> Pretty disappointing, compared to the national app especially. Permanent notification is annoying, and seems to defeats the purpose of having a convenient tracing app if it's in your face all the time.<br> :date: __2021-01-05 23:11:58__
+> Only traced 36 cases and not worth my time and having on my phone. Pathetic.<br> :date: __2021-01-16 02:42:54__
 
-> This app SUCKS! It EATS your phones battery, is constantly running and even after you get home, there is no way to turn it off. In 3 hours my phone charge dropped from 98% to 56% with my phone just sitting there. The 3 hours before that, my phone used 2% battery power and that was with me using fb and other apps.<br> :date: __2021-01-05 22:43:38__
+> AHS doesnt even use this when someone tests positive. Not sure the point of keeping it!<br> :date: __2021-01-15 03:05:30__
 
-> App needs to be deprecated and has the federal app<br> :date: __2021-01-04 17:10:23__
+> Doesn't work at all.<br> :date: __2021-01-15 02:22:24__
 
-> Utterly useless app. Battery drain is a real issue. I left my phone on desk at 100% overnight and 7 hours later, it's down to 58%. Had to uninstall and reinstall 2x before being able to register. Unable to locate other users nearby after finally setting up. Will delete after this review. Need to use federal app instead of this one.<br> :date: __2021-01-03 21:15:00__
+> Atrocious memory use and abysmal battery drain. Do Not Download!<br> :date: __2021-01-14 20:58:26__
 
-> No one used it, limited information, repetitive, slow and awkward to use.<br> :date: __2021-01-03 20:37:36__
+> Garbage app.<br> :date: __2021-01-14 12:42:39__
 
-> Pointless waste of tax payer money that fails to inspire any measure of trust. Lacks common sense functions and consistency in existing functionality.<br> :date: __2021-01-02 09:03:15__
+> Used this app daily. I gotncovid and no one wanted my info. Stupid waste of data and battery life.<br> :date: __2021-01-14 07:45:40__
 
-> An error has occurred. Please try again. After entering in a valid phone number. So I restarted my phone. But this time get a error message could not reach the server please try again. Useless app.<br> :date: __2020-12-31 19:46:46__
+> Jan 2021 update: still the same useless app, this concept will always drain battery and not be usable. Destroys battery life, cant use it if phones got no power.<br> :date: __2021-01-13 17:50:57__
 
-> We need to switch to the Canadian app. This is useless.<br> :date: __2020-12-29 00:17:47__
+> Going to uninstall. It uses phone resources and the government is not doing any tracking anyway so it is just a waste. If they were serious about saving lives they would activate the Canada wide app.<br> :date: __2021-01-13 16:06:46__
 
-> Suck all your battery even when not in use. Not reinstalling this app on my phone instead using my common sense when following the restrictions<br> :date: __2020-12-28 15:08:16__
+> Horrible app messed up my whole phone...plus error error not connected to wifi every single time. Uninstaller reinstall... make up your minds. F IX IT...please or take it out of app list very disappointed 😞<br> :date: __2021-01-13 10:36:16__
 
-> Hasn't even been used in the province properly. Alberta needs to use the federal app to better protect its citizens.<br> :date: __2020-12-26 21:47:27__
+> Battery killer! Left for work at 80% and in a 25min drive my phone is under 50%.<br> :date: __2021-01-13 03:05:01__
 
 

@@ -159,25 +159,25 @@ The One You Active 10 Walking Tracker app has been installed by more than **1000
 <img src="5_star_reviews_wordcloud.png" alt="uk.ac.shef.oak.pheactiveten 5 reviews"/>
 </p>
 
-> Very helpful to focus my efforts<br> :date: __2021-01-09 14:05:45__
+> It motivates.<br> :date: __2021-01-16 18:41:58__
 
-> Fabulous! Really keeps me motivated.<br> :date: __2021-01-09 13:39:35__
+> Amazing App! So easy to follow and use. My walking style has certainly improved. Motivational! Love it! For me this works better than cointing steps. Another family member has surprised us by actually wanting to go out and exercise more since using it. We hope it will continue to motivate us and help us to improve our health. Jan 15 Update - something is going wrong, not logging my walking some days and not storing daily walks like before. What's happening?<br> :date: __2021-01-16 01:20:09__
 
-> Really like the app very inspiring and motivating to get the trophies<br> :date: __2021-01-09 13:24:21__
+> Great app. Would recommend 👌<br> :date: __2021-01-15 19:13:24__
 
-> This app works well, and I've had no problems. I would quite like a step counter and/or a readout of distance covered, though.<br> :date: __2021-01-08 17:14:48__
+> Keeps us going<br> :date: __2021-01-15 15:49:13__
 
-> Very easy to use, fairly accurate,helps keep you motivated.<br> :date: __2021-01-08 16:51:14__
+> It has made a huge motivation to get me out and walking briskly. I can do it in bites sizes and still feel a sense of achievement.<br> :date: __2021-01-14 22:56:35__
 
-> This app has been really helping me with loosing weight. Definitely reccomend.<br> :date: __2021-01-07 20:51:02__
+> It encourages me to be active on a daily basis<br> :date: __2021-01-14 17:41:51__
 
-> Pretty good at a glance progress<br> :date: __2021-01-07 18:46:15__
+> Very good<br> :date: __2021-01-14 10:16:05__
 
-> This is a great app because it records brisk walking whenever you go out walking automatically. It has helped me to improve my walking pace.<br> :date: __2021-01-07 16:17:44__
+> Great app, really demonstrated the difference between walking and brisk walking. The trophies every 10 minutes really spur me on. Also great to compare week on week.<br> :date: __2021-01-13 18:42:31__
 
-> Helps to keep me focused<br> :date: __2021-01-07 14:16:27__
+> Much better now. They reacted to comments and have done a good job. It is now a pleasant and very useful app. Good Work!<br> :date: __2021-01-13 14:41:08__
 
-> Simple but effective!<br> :date: __2021-01-07 10:14:00__
+> Motivates me<br> :date: __2021-01-12 20:23:42__
 
 
 
@@ -187,25 +187,25 @@ The One You Active 10 Walking Tracker app has been installed by more than **1000
 <img src="4_star_reviews_wordcloud.png" alt="uk.ac.shef.oak.pheactiveten 4 reviews"/>
 </p>
 
+> After the update I eventually got the app to work by repeatedly re- downloading, but after 3 days it has failed again. We should be given the option of using the original app, which worked well. My phone is a Samsung Galaxy S6.<br> :date: __2021-01-16 12:39:05__
+
+> Easy to use and mildly addictive!But it has stopped working after the update and hasn't recorded my walks this week; very demotivating.<br> :date: __2021-01-15 21:37:26__
+
+> Very Good & Easy to use At least it was until it stopped recording<br> :date: __2021-01-15 14:43:36__
+
+> It's very useful app. It's encouraging me to walk<br> :date: __2021-01-15 13:00:00__
+
+> The app was fine as it was, simple and straightforward. I don't really care about the badges.<br> :date: __2021-01-14 20:02:46__
+
+> 13-1-21. Just updated app and 71 brisk minutes yesterday has disappeared. Why? * * 19-10-20 Latest update has returned data. Just hope earlier improvements have been maintained. * 2018. I've just walked and slow jogged 9.1k in 1hr 8 minutes. According to the app I only managed 30 brisk minutes! Over the last few months it has been considrately better at recording brisk walking but why does it not take account of jogging? Update: the app recorded jogging as brisk walking today 19/10/20. Thanks<br> :date: __2021-01-13 10:49:00__
+
+> Since installing this had helped me to get out for at least 10 mins brisk walking a day. The app is just there in the background, and it's motivating to see how easy it is to get brisk walking into my day, even in lockdown!<br> :date: __2021-01-13 10:10:46__
+
+> Would like to know how far we go. App rates my wife consistently higher on brisk walking.<br> :date: __2021-01-10 14:20:38__
+
 > Helpful motivator and good to know walking briskly enough.<br> :date: __2021-01-03 17:27:30__
 
 > Using this app helps me to be more disciplined with walking and it has taught me how fast I should be going.<br> :date: __2021-01-03 09:39:49__
-
-> A great app, so simple and effective.<br> :date: __2021-01-01 16:51:08__
-
-> Easy to use. Maybe more specific information about brisk walking would help me up my pace as I get fitter<br> :date: __2020-12-31 16:35:54__
-
-> Only one issue. I am tall over 6ft My wife is 5ft we can do the same walk with very different results. Obviously her little legs are having to go further... It would be useful to be able to set step size, then at least we could compete on a level playing field. Every thing else works well<br> :date: __2020-12-31 11:07:04__
-
-> Simple app designed to help you become more active. It doesn't record lots of complicated data, just tells you you have walked at a brisk pace for 10 minutes, 20 minutes etc. It has helped me considerably and would recommend it to help get you started on the right track<br> :date: __2020-12-30 16:12:39__
-
-> My target for my age is 30 mins of brisk walking a day. Can be 10 mins at a time etc. This app gives my total walking time and more importantly my brisk walking time where I puff and pant. Easy to use and accurate. Use it daily now.<br> :date: __2020-12-28 13:44:13__
-
-> Great idea and very useful. Be aware not always 100% accurate depending on the signal strength.<br> :date: __2020-12-27 14:10:47__
-
-> All satisfactory<br> :date: __2020-12-22 19:22:45__
-
-> Very good<br> :date: __2020-12-14 09:47:03__
 
 
 
@@ -215,25 +215,25 @@ The One You Active 10 Walking Tracker app has been installed by more than **1000
 <img src="3_star_reviews_wordcloud.png" alt="uk.ac.shef.oak.pheactiveten 3 reviews"/>
 </p>
 
+> I like the idea of this app. But it seems to have wiped all my walks this week telling me it needs to update.<br> :date: __2021-01-14 09:12:49__
+
+> I really liked this but since updating it has lost a number of days which defeats the object. I'd rather have an accurate record than badges!<br> :date: __2021-01-14 07:53:37__
+
+> I really like this app as it is an excellent way of keeping track of brisk minutes and seeing progress. Unfortunately I have also found since updating yesterday it keeps deleting my daily walks. Very frustrating and I really hope it gets fixed soon.<br> :date: __2021-01-13 18:03:39__
+
+> All going great until your update wiped out all hard earned stats!! Not very good for motivation😣<br> :date: __2021-01-13 17:52:50__
+
+> 80 heart points in Google Fit but this app doesn't get the brisk element so no goals met. It syncs but doesn't seem to get full data somehow. I just updated it. I opened it the app told me there was an update and brought me back here I don't understand how it concludes that I have met goals. One day had 76 brisk minutes out of 191walking minutes but told I hadn't met my goal of 2 x Active 10s but other days have less brisk minutes but does meet goal. It seems a bit random. What's it measuring?<br> :date: __2021-01-13 17:28:40__
+
+> Since the update a days record has been deleted<br> :date: __2021-01-13 11:29:44__
+
 > Since the latest update I am losing some days records completely. No problems before updating.<br> :date: __2021-01-09 12:27:49__
 
 > Doesn't always record your walks, you can go on a brisk walk and it won't reconize it. Stava does it better<br> :date: __2021-01-08 15:14:57__
 
 > Reasonably accurate, though it does not appear to take account of less steep inclines. It responds only to the speed and length of time you walk.<br> :date: __2021-01-04 23:43:45__
 
-> Don't understand how it concludes that I have met goals. One day had 76 brisk minutes out of 191walking minutes but told I hadn't met my goal of 2 x Active 10s but other days have less brisk minutes but does meet goal. It seems a bit random. What's it measuring?<br> :date: __2021-01-03 16:29:05__
-
 > Unreliable. Data registered and then disappears.<br> :date: __2021-01-03 14:38:01__
-
-> Generally good and has motivated me to get a faster pace and do that for me time. Some irritations, however. I would like to set a (much) higher target but 30 mins a day is the maximum. Also, totals seem very slow to update at times and you have to close the app and open again. E.g. Its Sunday and yet my Saturday walk was still not reflected in the weekly figurea until I shut the app.<br> :date: __2020-11-29 23:42:05__
-
-> I would like the app to dostep counter as well as distance and pace record<br> :date: __2020-11-25 14:34:13__
-
-> Reach goals every day<br> :date: __2020-11-23 20:09:33__
-
-> OK ish<br> :date: __2020-11-19 17:11:19__
-
-> If you exceed your target the app doesn't recognise that and tells you 'keep going' for the target.<br> :date: __2020-11-16 10:42:09__
 
 
 
@@ -243,7 +243,15 @@ The One You Active 10 Walking Tracker app has been installed by more than **1000
 <img src="2_star_reviews_wordcloud.png" alt="uk.ac.shef.oak.pheactiveten 2 reviews"/>
 </p>
 
-> Not working properly. Location enabled but 12 minute walk at fastest ever time logged as 25 minute but no brisk at all. Keeps asking me to open more often as some data is missing. I open it at least daily.<br> :date: __2021-01-08 06:56:12__
+> Stopped working on 3rd day saying it couldn't retrieve my walk data🤔<br> :date: __2021-01-15 19:50:33__
+
+> Lost previous days walk data at the start of every new day. Pretty frustrating.<br> :date: __2021-01-15 08:57:10__
+
+> Used this app really successfully until this week when it's not storing daily levels so can't compare any more. What's happened? Disappointed<br> :date: __2021-01-14 15:51:31__
+
+> Disappointed. Following update several days walks not recorded or have disappeared. If this continues will research another app.<br> :date: __2021-01-13 21:54:12__
+
+> Definitely loved the app but doesn't work following update. I've logged 3 days walking this week which subsequently disappears and doesn't update weekly or monthly summary. It's not working at all. Disappointed.<br> :date: __2021-01-13 17:14:31__
 
 > Always Only show 8 minutes of brisk walking even though I have done 44mins.<br> :date: __2020-12-30 16:24:28__
 
@@ -255,14 +263,6 @@ The One You Active 10 Walking Tracker app has been installed by more than **1000
 
 > It does not work offline and i hate that<br> :date: __2020-11-17 08:29:56__
 
-> App needs tweaking. Just walked for 25 mins app says 8 mins active that's all, not recorded the other 17 mins at all, I know phone senser is working as samsung health has recorded correctly. Also it can't add up,yesterday the daily "today" says I've done "32" mins of brisk walking then tells me I've NEARLY achieved 3 x10min awards, but it shows 3 gold cups. I also get fed up of it asking me to "update" everytime I open the app, if I choose "ok" there is clearly no new update<br> :date: __2020-11-13 12:01:01__
-
-> I like the app, it's simple and tells me exactly what I need to know. But the latest version keeps prompting to update, very annoying!!<br> :date: __2020-11-08 20:04:35__
-
-> Keeps telling me an update is available. As far as I can tell Ihave already downloaded it<br> :date: __2020-11-05 13:45:47__
-
-> Very basic, but good enough. Been using for a year now and no major problems. A few extra features would make it more useful, but then I guess complexity could compromise the quality and reliability. UPDATE: New version is buggy. It keeps saying there is an update when I am on the latest.<br> :date: __2020-11-05 10:13:24__
-
 
 
 #### 1-star reviews
@@ -271,24 +271,24 @@ The One You Active 10 Walking Tracker app has been installed by more than **1000
 <img src="1_star_reviews_wordcloud.png" alt="uk.ac.shef.oak.pheactiveten 1 reviews"/>
 </p>
 
-> Tried to download. Phone says it's installed, but I can't find it anywhere. Not listed on any apps.<br> :date: __2021-01-08 10:39:02__
+> After using it for several weeks I am annoyed by the frequency that it fails to register ANY brisk minutes when I take my 8km daily walk. Very disappointing!!<br> :date: __2021-01-16 14:56:39__
 
-> Hopeless. Now worse. Keeps saying I might lose data as I need to log in every 30 days. I am actually logging in every day and it tells me this every day. And data does keep disappearing but only temporarily.<br> :date: __2021-01-07 13:11:28__
+> Full of glitches and inconsistencies.....<br> :date: __2021-01-16 14:08:07__
 
-> Not realistic .....is not caunting properly steps or walk....<br> :date: __2021-01-06 12:28:13__
+> Like others have said since the update your previous walks have disappeared. Shame because I would have rated higher. Will probably look for something else now!<br> :date: __2021-01-16 11:19:10__
 
-> Does not record accurately and now tells me I have not logged in for some time although I open it every day.<br> :date: __2021-01-05 08:51:11__
+> Since updating the App last week it only shows data for the current day and does not display data for previous days. Really liked the App prior to the update. Hope there will be a fix soon.<br> :date: __2021-01-15 16:14:52__
 
-> Doesn't work. Walk fast every day and it's still recorded nothing!!! a<br> :date: __2020-12-10 09:49:31__
+> Like the idea of showing minutes walked, but liked the previous version as it broke down when and what time u managed to walk briskly. New version doesn't so a result only 3 stars. Update! since 12.1.21 no record of the walking I have done. Ties up and can't access data. No good at all.<br> :date: __2021-01-15 13:29:10__
 
-> This is the third time I have installed this app, each time it has failed, locking up, not working. I'll try for the last time Correction this is the fourth and it has frozen YET AGAIN! Given up uninstall Ed. Tried the app again, vastly over reporting the time walking. Will uninstall again when will you get it right?<br> :date: __2020-12-09 12:23:50__
+> You've broken it! Was asked to update, now I have it does not seem to be recording brisk walking as much as it was, has wiped/will not record the week's data, keeps saying update available. I think this update included "rewards" which would be a good addition except it doesn't recognize my previous day exercise, and now won't register what I have done since the faulty update.<br> :date: __2021-01-15 11:57:33__
 
-> Not very accurate! Came back to try the app with a new phone but it still underestimate the number of brisk minutes (in my opinion). I have to almost sprint for it to register and even then it's not very generous. It demotivates rather than encourages so I just make sure I do 30 mins of brisk walking and ignore the app!<br> :date: __2020-12-08 18:36:34__
+> Stopped working<br> :date: __2021-01-15 10:46:18__
 
-> Not working properly, even when brisk walking, says no brisk walking, was OK, up until about 2 weeks ago.... now does not register steps correctly 🙄<br> :date: __2020-11-29 13:59:30__
+> Lost most of my progress for this week. Pretty disappointing.<br> :date: __2021-01-15 09:47:23__
 
-> Not accurate<br> :date: __2020-11-28 23:02:54__
+> This App goes from bad to worse with this update. Last year they stripped out the really useful daily timeline so you could see when you were walking normally vs briskly. The latest update tells me to update each morning although no new update is available. It is also throwing away the previous day's walk. I can only now see my walks from before the upgrade and the current day. So every walk you do is thrown away the next day. Reading the recent reviews this appears to be a common problem.<br> :date: __2021-01-15 09:23:48__
 
-> Nov 2020 - decided to try app again but it crashed twice this past week and can't get any help from the developers. May 2020 - the app has again deleted all my data - which is even more upsetting given how much effort I've been making during lock down to move more. I'd give it 1/2 star now and will be looking for a new app. Previous review (Dec 2019) said the app is great but I no longer think so after my data being totally deleted.<br> :date: __2020-11-27 22:15:58__
+> Not recording my walking All I'm getting is " oops we cannot access your walking data please try again later" also says i should update app but no update available<br> :date: __2021-01-14 16:53:19__
 
 

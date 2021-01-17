@@ -170,6 +170,8 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 <img src="4_star_reviews_wordcloud.png" alt="de.rki.coronadatenspende 4 reviews"/>
 </p>
 
+> Leider keine Unterstützung für Samsung Health. Somit aktuell leider für Besitzer einer Samsung Watch nicht nutzbar. Update 15.01.2021 Inzwischen auch mit Samsung Health nutzbar.<br> :date: __2021-01-15 14:21:05__
+
 > An sich eine gute App, die übersichtlich gestaltet ist. Unterstützt leider nur sehr wenige Fitness Apps und meine ist keine davon :(<br> :date: __2020-12-24 23:15:53__
 
 > Leider kann ich keine Samsung Galaxy Wearables auswählen. Daher Google Fit verknüpft in der Hoffnung das Daten ankommen.<br> :date: __2020-12-14 10:46:30__
@@ -187,8 +189,6 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 > Fehlerhafte App. Es lässt sich keine Verbindung mit einem Google Konto herstellen. Das Konto ist auf Android aktiv, leider schafft es die App nicht darauf zuzugreifen. UPDATE App arbeitet nun im Hintergrund.<br> :date: __2020-11-11 22:40:29__
 
 > Habe die App seit 5 Tagen und die App hat nach dem 3. Tag aufgehört zu zählen. Das ist schade. Ich hoffe das es trotzdem klappt mit der Übertragung.<br> :date: __2020-11-09 15:36:29__
-
-> Bitte noch MiFit zufügen, dann gibt's bessere Daten!<br> :date: __2020-11-02 10:23:51__
 
 
 
@@ -226,6 +226,10 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 <img src="2_star_reviews_wordcloud.png" alt="de.rki.coronadatenspende 2 reviews"/>
 </p>
 
+> Solang Huawei Health bei euch nicht eingebunden wird ist die App für mich leider unbrauchbar....<br> :date: __2021-01-13 14:14:15__
+
+> Auf Grund meiner Erfahrungen mit der corona warn app u der Meldung ; sie können mit Tan ..... sehe ich es als sinnlos an diese u die corona warn app auf meinem Handy zu lasen wenn diese ee nicht sinn u Zweck erfüllen sondern mehr Aufwand bringen! Sorry aber die sind für den A..! U wenn zu was nutze ,nur für reine Bewegungs Erfassung für irgendein Bundesamt zu betrachten! Danke für die verarsche u Zeit Verschwendung<br> :date: __2021-01-11 14:33:14__
+
 > An sich eine gute Idee und ich hätte gerne auch Daten gespendet, aber mein Armband bzw. die App Mi Fit gibt es in der Auswahl leider nicht.<br> :date: __2021-01-07 22:05:29__
 
 > Leider werden Smartwatches von Samsung nicht unterstützt, daher kann ich leider keine Daten spenden<br> :date: __2020-12-29 13:27:44__
@@ -242,10 +246,6 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 
 > Scheint nicht mehr zu funktionieren. Bin schon ewig dabei, und zeigt 0 Tage Datenspende an. Ob die App überhaupt was bringt, bezweifle ich langsam, ich werde sie deinstallieren.<br> :date: __2020-12-04 06:58:50__
 
-> Das ganze sieht gut aus, unterstützt aber keine Huawei watches<br> :date: __2020-11-22 22:45:35__
-
-> Gute Idee, aber verbinden über Amazfit war nicht möglich?<br> :date: __2020-11-02 14:02:57__
-
 
 
 #### 1-star reviews
@@ -253,6 +253,10 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="de.rki.coronadatenspende 1 reviews"/>
 </p>
+
+> Ohne Wearable funktioniert diese App anscheinend nicht. Warum wird das nicht Bein Start der App angezeigt. Nach 8 Monaten immer noch kein Huawei möglich.<br> :date: __2021-01-15 06:51:49__
+
+> Kein Mi Fit<br> :date: __2021-01-13 18:26:03__
 
 > Zeigt ständig 12 Tage gespendeter Daten an, obwohl ich die App von Beginn an habe.<br> :date: __2021-01-07 11:14:08__
 
@@ -269,9 +273,5 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 > Funktioniert nicht mit Huawei Watch. Schade.<br> :date: __2020-12-20 10:19:29__
 
 > Keine Verbindung zu wearables von huawei<br> :date: __2020-12-17 23:35:41__
-
-> 28 Tage konnte ich meine Daten spenden, bis ich feststellen konnte, dass die Verbindungsoption zu S-Health wieder einmal nicht möglich ist. Ich finde das unfassbar schlecht, seitens der Entwickler.<br> :date: __2020-12-16 17:57:04__
-
-> Leider keine Verbindung zu mifit möglich. Schade, hätte gerne geholfen. Werde die App wieder deinstallieren<br> :date: __2020-12-16 09:15:05__
 
 

@@ -202,6 +202,12 @@ The Penn State Health OnDemand app has been installed by more than **10000** tim
 <img src="5_star_reviews_wordcloud.png" alt="org.pennstatehealth.android.pshh.ondemand 5 reviews"/>
 </p>
 
+> Exceptional<br> :date: __2021-01-15 21:00:41__
+
+> Excellent<br> :date: __2021-01-13 19:49:31__
+
+> Works well! Easy to use!<br> :date: __2021-01-13 19:45:31__
+
 > I love this app, it hardly gives me issues and i am able to complete my doctors visits from home when needed.<br> :date: __2021-01-06 17:20:20__
 
 > Perfect solution during the Pandemic!<br> :date: __2021-01-04 23:11:42__
@@ -215,12 +221,6 @@ The Penn State Health OnDemand app has been installed by more than **10000** tim
 > minimal wait time. M.D. was very personable and knowledgeable. saved time of sitting in urgent care center.I would definitely recommend 12/18/20 Had the need to see someone without disrupting my day. Once again, very positive experience. Knowledgeable, personable, thorough. I definitely recommend<br> :date: __2020-12-18 13:25:27__
 
 > Excellence as always by the Hershey Med Teams<br> :date: __2020-12-16 20:50:32__
-
-> I had a virtual office visit that went very smoothly; good picture, good sound, very minimal voice delay.<br> :date: __2020-12-16 17:18:34__
-
-> This app was so easy to use.<br> :date: __2020-12-16 14:22:24__
-
-> It was fine. I Could hear well see well everything was great.<br> :date: __2020-12-15 19:37:14__
 
 
 

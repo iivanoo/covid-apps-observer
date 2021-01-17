@@ -150,6 +150,10 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="org.madrid.CoronaMadrid 5 reviews"/>
 </p>
 
+> Muy buena aplicación. Funciona perfectamente y es muy útil.<br> :date: __2021-01-15 12:29:09__
+
+> Muy buena app, de las mejores que he usado se las recomiendo al 💯<br> :date: __2021-01-14 23:02:48__
+
 > Muy buena aplicación y muy importante a la vez. La recomiendo.<br> :date: __2021-01-08 19:49:24__
 
 > Me ha gustado la app. Te hace un seguimiento de salud cada 12 horas, identifica los posibles síntomas del covid, te proporciona información sobre el virus, los centros sanitarios más cercanos a tu ubicación... En general está bastante bien para la situación actual que tenemos. Recomendada!<br> :date: __2021-01-07 16:41:59__
@@ -166,10 +170,6 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 
 > Muy buena aplicación para los tiempos que corren<br> :date: __2020-12-28 15:27:03__
 
-> Esta app es bastante útil e interesante, tanto como necesaria en estos momentos!<br> :date: __2020-12-28 15:26:32__
-
-> Muchas gracias por la app me ha resultado muy útil<br> :date: __2020-12-28 15:17:33__
-
 
 
 #### 4-star reviews
@@ -177,6 +177,8 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="org.madrid.CoronaMadrid 4 reviews"/>
 </p>
+
+> Excelente app que cumple con lo indicado. Fácil de navegar por ella con buen diseño y sobretodo una app que te ayuda a controlar tus síntomas de covid. También da información de los hospitales más cercanos según tu ubicación.<br> :date: __2021-01-10 19:05:33__
 
 > Bien, estaba tranquilo y confiado en las pautas, gracias Javier<br> :date: __2020-07-04 11:22:48__
 
@@ -195,8 +197,6 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 > Me ayuda a despejar las dudas<br> :date: __2020-04-12 14:47:41__
 
 > Buena y tranquilizadora<br> :date: __2020-04-12 11:18:14__
-
-> Me parece muy bien, pero no es un juicio si no si no, tienen que dejar escribir algo periódicamente, porque puede ser que haya tenido dolor de cabeza 2 días no 15 días. Pero el esfuerzo está bien, entre todos podemos. Aplicación se podía un saludo<br> :date: __2020-04-09 13:09:58__
 
 
 

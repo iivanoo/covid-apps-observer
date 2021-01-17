@@ -165,6 +165,8 @@ The CONFINAPP app has been installed by more than **10000** times. At this time,
 <img src="3_star_reviews_wordcloud.png" alt="cat.gencat.mobi.confinApp 3 reviews"/>
 </p>
 
+> No sempre deix renovar el certificat. L'has d'eliminar i tornar-lo a fer de nou<br> :date: __2021-01-12 18:47:00__
+
 > Es bloqueja i no deixa continuar<br> :date: __2021-01-07 17:52:39__
 
 > Informacion no actualizada<br> :date: __2020-09-11 22:37:56__
@@ -176,6 +178,12 @@ The CONFINAPP app has been installed by more than **10000** times. At this time,
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="cat.gencat.mobi.confinApp 2 reviews"/>
 </p>
+
+> Cuando quiero renovar un certificado que he creado anteriormente, me sale error y no me deja renovarlo. Debo crear uno nuevo cada vez que lo necesito.<br> :date: __2021-01-16 14:06:48__
+
+> Tarda mucho en abrirlo<br> :date: __2021-01-12 11:49:45__
+
+> Mala de me and borrado todos los certificados<br> :date: __2021-01-09 21:51:48__
 
 > Se bloquea y no funciona.<br> :date: __2021-01-07 08:50:43__
 
@@ -195,6 +203,12 @@ The CONFINAPP app has been installed by more than **10000** times. At this time,
 <img src="1_star_reviews_wordcloud.png" alt="cat.gencat.mobi.confinApp 1 reviews"/>
 </p>
 
+> Molt poc útil, les novetats no s' actualitzen, el certificats no es guarden. És una llastima perque actualitzada i amb els certificats seria una app super útil<br> :date: __2021-01-16 09:17:01__
+
+> Funciona cuando le da la puñetera gana, vaya chapuza!!!<br> :date: __2021-01-14 11:26:59__
+
+> Pesimo. No hay forma de poner donde estas. No deja escribir en municipio.<br> :date: __2021-01-13 21:32:57__
+
 > No s'obre la app<br> :date: __2021-01-08 08:42:03__
 
 > No se descarga y no es NADA EFICAZ<br> :date: __2021-01-08 01:35:35__
@@ -208,11 +222,5 @@ The CONFINAPP app has been installed by more than **10000** times. At this time,
 > No se abre 🤦‍♂️<br> :date: __2021-01-07 14:28:26__
 
 > Decepcionant, la tinc des del primer confinament i ara no puc generar cap certificat, no puc escriure a les caselles<br> :date: __2021-01-07 13:56:58__
-
-> Al crear un certificado para salir del municipio, en la parte de municipio de origen y municipio de destino, sólo te deja escribir el código postal, pero no sale el municipio ni la provincia. Tampoco deja ponerlo manualmente, a lo que te imposibilita crearte un certificado. Totalmente inútil entonces.<br> :date: __2021-01-07 12:51:14__
-
-> Sino actualizais las restricciones ya me dirás tú para que sirve<br> :date: __2021-01-07 11:14:15__
-
-> Funciona cuando le apetece, se me han borrado todos los justificantes que tenia, suerte que me ha dado por mirarlo. No creo que sea muy útil si te para un mosso. Mejor llevar el justificante. Creo absurda esta aplicación.<br> :date: __2021-01-07 11:02:03__
 
 

@@ -3,28 +3,28 @@
         "id": "org.who.infoapp",
         "store_country": "se",
         "store_lang": "se",
-        "latest_crawled_version": "4.0.1",
-        "latest_crawl": 1610218435
+        "latest_crawled_version": "4.1.0",
+        "latest_crawl": 1610825651
     },
     {
         "id": "de.xikolo.openwho",
         "store_country": "se",
         "store_lang": "se",
         "latest_crawled_version": "3.7",
-        "latest_crawl": 1610218442
+        "latest_crawl": 1610825695
     },
     {
         "id": "com.visibagroup.visibacare.regionostergotland",
         "store_country": "se",
         "store_lang": "se",
         "latest_crawled_version": "3.29.0",
-        "latest_crawl": 1610218444
+        "latest_crawl": 1610825698
     },
     {
         "id": "se.kry.android",
         "store_country": "se",
         "store_lang": "se",
         "latest_crawled_version": "3.22.1",
-        "latest_crawl": 1610218448
+        "latest_crawl": 1610825702
     }
 ]

@@ -140,6 +140,14 @@ The AlohaSafe Alert app has been installed by more than **5000** times. At this 
 <img src="5_star_reviews_wordcloud.png" alt="org.alohasafe.alert 5 reviews"/>
 </p>
 
+> Easy to download, setup and navigate. The more people that use it the better it works.<br> :date: __2021-01-16 09:28:25__
+
+> I get in person school soon, so if I get one notification that someone get covid I gon start runnin brah<br> :date: __2021-01-14 03:50:44__
+
+> Very easy to install, set up, and leave on (i.e. rarely open again) your phone to scan automatically for your potential exposures via Bluetooth. Also non-intrusive/anonymous and lets you know recent local trends and symptoms. Clean, simple interface. It would be great if additional languages could be offered in addition to English and Spanish.<br> :date: __2021-01-14 03:49:24__
+
+> Good<br> :date: __2021-01-09 23:55:38__
+
 > Simple, noninvasive app. Yes I want to know! All voluntary and keeps me mindful.<br> :date: __2021-01-03 22:23:30__
 
 > Great concept and actually really secure. Of course info security risk is the big red flag here, but after some serious digging it all checks out and they do keep your info safe.<br> :date: __2020-12-18 19:35:18__
@@ -183,6 +191,8 @@ No recent reviews available with 3 stars.
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="org.alohasafe.alert 1 reviews"/>
 </p>
+
+> Downloaded just to delete. I hate when apps are shoved in my face<br> :date: __2021-01-15 04:04:34__
 
 > Idiotic making an app that's not backwardly compatible. My wife's iphone 6+ is up to date however the iphone version of the app won't install because it wants a newer update? Brilliant!<br> :date: __2020-11-18 23:57:43__
 

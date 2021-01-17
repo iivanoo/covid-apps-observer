@@ -156,25 +156,25 @@ The One You Couch to 5K app has been installed by more than **1000000** times. A
 <img src="5_star_reviews_wordcloud.png" alt="com.phe.couchto5K 5 reviews"/>
 </p>
 
-> Very good for couch potatoes like me<br> :date: __2021-01-09 18:11:54__
+> Great way to get running 🏃‍♀️<br> :date: __2021-01-16 17:23:00__
 
-> I never ever ever thought I would be able to jog/run. I'm normally more of a walker but this has changed my whole mindset towards exercise and it's amazing to be able to see your progress and see yourself getting fitter. Would totally recommend to anyone as you can set your own pace. A nice jog to stay in fat burn zone or a proper run for cardio. Im just about to start week 7 and I can now do 25 mins solid. Very proud of myself and it's really helped my mental health as well as my physical.<br> :date: __2021-01-09 16:55:07__
+> Inspiring and motivational<br> :date: __2021-01-16 15:52:48__
 
-> I am someone who has never liked running. Tried this as other sports closed due to Covid lockdown. Just completed week 1 and actually quite enjoyed it. Definitely a sense of achievement, and you're eased into running nice and gently. Looking forward to Week 2..<br> :date: __2021-01-09 16:26:24__
+> Stops me getting shin splints by doing too much too soon!!<br> :date: __2021-01-16 13:51:43__
 
-> Motivating<br> :date: __2021-01-09 16:04:49__
+> Brilliant can play it over your own music<br> :date: __2021-01-16 13:40:01__
 
-> Does what it says<br> :date: __2021-01-09 13:45:54__
+> Love sarah Millican helping me along... great gradual programme.<br> :date: __2021-01-16 12:58:47__
 
-> I've never been fond of running but realised I needed to get fitter. A good friend recommended this and it's been a revelation. Pick the coach you want to encourage you and get going. Don't beat yourself up if you don't reach your target every week, as you'll get there eventually. I actually enjoy running now.<br> :date: __2021-01-09 13:27:17__
+> Positive attitude to getting fit<br> :date: __2021-01-16 11:10:09__
 
-> I love this app! Just graduated today and this is the first thing in years that has got me doing regular exercise and enjoying it! The only fault I have found is that it keeps 'losing' my trainer and I have to reset it, minor inconvenience though.<br> :date: __2021-01-09 13:08:06__
+> Really positive experience I would recommend this<br> :date: __2021-01-15 23:05:54__
 
-> As an absolute beginner runner, this app has been so useful in gaining my courage and stamina in running. I'm currently on week 5 and I think the progression each week is achievable and supportive. I love hearing Sarah Milican's little voice on each run and I'm really enjoying the programme. I ran 3.5K on my last run- which I'm so happy with. This app has given me a routine whilst in lockdown.<br> :date: __2021-01-09 12:47:31__
+> Clear and simple to use. Very manageable progression and encouraging results.<br> :date: __2021-01-15 21:25:21__
 
-> Good app.<br> :date: __2021-01-09 12:20:40__
+> Never, ever thought I could be a runner, yet here I am, finished the Couch to 5k! Fantastic 😊! So proud of myself!😉<br> :date: __2021-01-15 20:48:52__
 
-> Very helpful, love Jo Whixley talking to me as I'm a solo runner 🐕<br> :date: __2021-01-09 11:50:34__
+> Easy progressive,addictive<br> :date: __2021-01-15 20:43:52__
 
 
 
@@ -184,25 +184,25 @@ The One You Couch to 5K app has been installed by more than **1000000** times. A
 <img src="4_star_reviews_wordcloud.png" alt="com.phe.couchto5K 4 reviews"/>
 </p>
 
-> Only on week 2 but sticking it it and I feel great when I've finished.<br> :date: __2021-01-09 15:43:05__
+> When I skip the 40odd second intro, it jumps to 2.30 minutes saying "you're half way through you 5 minute warm-up". Other than that, works as intended.<br> :date: __2021-01-16 17:02:30__
 
-> Easy to follow and use App. Very motivational, especially for a novice runner. Highly recommended<br> :date: __2021-01-08 21:46:40__
+> Apart from having to change coach almost every time, the app is fine. I'm enjoying using it. It's quite straightforward.<br> :date: __2021-01-15 19:44:12__
 
-> I'm really enjoying it so far, it is slightly buggy in the respect that it tells me I haven't got the space on my phone to play the audio when I know I definitely have, but it's great when it works<br> :date: __2021-01-08 20:02:27__
+> It keeps me focused as I progress on my run.<br> :date: __2021-01-15 10:06:12__
 
-> great at first, weeks 7 - 9 though, the app kept resetting itself mid run<br> :date: __2021-01-08 19:15:56__
+> The whole C25k plan is incredible - it's taken me way longer than it should've but I'm still so impressed with my progress. BUT, this app needs work on androids. I have to change my settings so the screen doesn't sleep otherwise the app just closes. Sounds minor but it is so annoying, I almost don't trust the app so I'm always checking.<br> :date: __2021-01-15 00:28:02__
 
-> Great app<br> :date: __2021-01-08 19:01:58__
+> Good app. I like the coaches they tell you when to run or walk.<br> :date: __2021-01-14 19:12:50__
 
-> Just started this app. Enjoying it so far week 1. Keeping me motivated. Cant work out if I can play music during the non talking silent moments though.<br> :date: __2021-01-08 14:00:02__
+> Good<br> :date: __2021-01-13 22:14:28__
 
-> Fantastic app, highly recommended to anyone who wants to get fitter, start running, or get back into fitness after lay off. The only thing I would say is I enjoyed the couch and would of liked to hear more from them during the runs.<br> :date: __2021-01-08 13:19:25__
+> Pleased with results would love to track distance/ pace in same app.<br> :date: __2021-01-13 18:03:41__
 
-> My one problem was the fluctuating sound. Towards the end of each run, the sound went much quieter, and I struggled to hear what was being said<br> :date: __2021-01-08 13:03:49__
+> Good app to get you started<br> :date: __2021-01-13 18:03:40__
 
-> Really helpful, helps you concentrate on your goals as well as being encouraging<br> :date: __2021-01-07 19:00:32__
+> Pretty good. Unfortunately has a bit of tendency to crash in the middle of the run<br> :date: __2021-01-13 17:22:49__
 
-> Really enjoying support<br> :date: __2021-01-07 18:12:20__
+> Very good. I recommend joining the support forum too as there is lots of advice and support. You don't have to fit the programme into just 9 weeks.<br> :date: __2021-01-13 16:25:08__
 
 
 
@@ -212,25 +212,25 @@ The One You Couch to 5K app has been installed by more than **1000000** times. A
 <img src="3_star_reviews_wordcloud.png" alt="com.phe.couchto5K 3 reviews"/>
 </p>
 
+> Great but it doesn't save my repeat runs only the 1st run I ever did on that run. I have done about 4 runs on week 3 and it still shows only the 1st run I did 4 months ago! I am having to use other apps like Strava or my fitness watch to see my history. This seems like a very basic thing to fix?!<br> :date: __2021-01-15 20:59:59__
+
+> Very glitchy. Closes randomly even with recommended settings<br> :date: __2021-01-14 18:02:02__
+
+> It got me through the program. Did often crash during the run leaving me with no voice guidance to stop. So some runs went on extra long! This happened repeatedly on the final 3 runs so I'm nearly at 10k distances now.<br> :date: __2021-01-13 19:01:34__
+
+> Clear guidance and great for anyone who does little or no exercise to get started! I've put 3 stars because the app kept freezing.... Had to switch to a different app but if you don't have this problem then I'd recommend it!<br> :date: __2021-01-12 22:33:41__
+
+> Yes it's good<br> :date: __2021-01-12 17:27:00__
+
+> It is a brill app and has successfully managed to get me to run 5k However the app sometimes stops working and shuts down on you. Helpful to set a timer in background just in case.<br> :date: __2021-01-12 01:11:28__
+
+> Good but would like more encouragement !<br> :date: __2021-01-11 20:02:30__
+
+> Timing seems out compared to my device. Seems to pause if not constantly open<br> :date: __2021-01-10 13:16:12__
+
 > Undecided but will attempt to stick with the programme for time being<br> :date: __2021-01-08 17:44:06__
 
 > I've used the app before and got up to week 5 before stopping. I recently started again. PROBLEMS: The mid run notification no longer sounds, which is a bit annoying. The notifications I set in the app to remind me to go for a run do not appear, despite the app having notification permissions. Also, the integration with Spotify is poor; sometimes the app pauses the Spotify audio then doesn't resume it once the coach has finished speaking, other times the coach just talks over the audio.<br> :date: __2021-01-08 14:00:10__
-
-> Seems to be slow to respond, but the main issue is the audio level of the coach, against music, is too low. I can't find any way to adjust the levels.<br> :date: __2021-01-06 20:34:58__
-
-> This app does what it says on the tin basically however, I do have to leave my phone unlocked as it crashes every time the screen goes blank.<br> :date: __2021-01-05 15:50:31__
-
-> Really have issues with the app on a brand new samsung s20... freezes on first tab and can't navigate to other sections without force stopping app.. and when i do manage to get into other areas of the app I've been looking for the 'getting started' section mentioned in a few places under the support section but no link or indication as to where to find the getting started section? Hope someone can help..<br> :date: __2021-01-05 11:24:54__
-
-> Freezes A Lot - this is an excellent idea for beginner runners or people returning to fitness after a break, to get clear and supportive assistance on keeping up the running. However the app freezes a lot which is quite annoying when trying to use it.<br> :date: __2021-01-04 15:38:19__
-
-> A great program, but utterly ruined by the ghastly b-roll 'celebs' constantly interrupting you once you get into the zone. You will suddenly get your audiobook switched to mute so that you can listen to minutes of patronising mouth noises about (quite literally!) "You are now halfway through this part of the run, and it must hurrrrrt, but try not to think about the paiiiiin, and how much further you have to run!". It is demotivating, and the audiobook is not paused either. So I miss loads >:(<br> :date: __2021-01-04 09:44:49__
-
-> Really like the audio but everytime I head out it cannot play my selected trainer and I have to select another. Enjoying the programme itself but not the clunky audio<br> :date: __2021-01-03 21:20:02__
-
-> It seems to bounce out of the app when I am running. So I have to keep logging in. Not sure if it is because it is so cold or because I have my music on. Or both. I have only completed day two. I am living Sarah telling me what to do. 😂<br> :date: __2021-01-03 10:26:06__
-
-> Crashed half way through a run. Took me a while to realise<br> :date: __2021-01-02 10:42:13__
 
 
 
@@ -239,6 +239,8 @@ The One You Couch to 5K app has been installed by more than **1000000** times. A
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="com.phe.couchto5K 2 reviews"/>
 </p>
+
+> Keeps shutting down on honor 10 even after settings change<br> :date: __2021-01-10 14:09:52__
 
 > I started using this app again but it'd cut out on me several times and had to use a stopwatch instead and no progress logged<br> :date: __2021-01-05 12:04:53__
 
@@ -258,8 +260,6 @@ The One You Couch to 5K app has been installed by more than **1000000** times. A
 
 > Make sure you have a stopwatch as this app constantly crashes.<br> :date: __2020-11-30 07:30:07__
 
-> The app keeps stopping mid run. If it did not do this is would be brilliant.<br> :date: __2020-11-30 00:39:33__
-
 
 
 #### 1-star reviews
@@ -268,6 +268,18 @@ The One You Couch to 5K app has been installed by more than **1000000** times. A
 <img src="1_star_reviews_wordcloud.png" alt="com.phe.couchto5K 1 reviews"/>
 </p>
 
+> Awful, had to reset it 3 times over the first two runs I did. I've had to guess Whereabout I was in tbe run. I've uninstalled and now going to try a different app.<br> :date: __2021-01-13 18:23:18__
+
+> Can't be arsed.which is an indicator of how boring it is<br> :date: __2021-01-13 15:07:16__
+
+> Very dissapointed my second schedule run and it keeps freezing 😣 11 01.2020 no change app keeps stopping<br> :date: __2021-01-11 21:51:01__
+
+> Not impressed, the timer wasn't accurate in the slightest. Supposed to start with 60 run and 90 second walk alternating but the app simply couldn't keep time. I ran 2 and a half miles in around 24 minutes and the app said there was still 17 minutes left of running. It was only supposed to be a 20 minute run. Not great when you're a beginner trying to get fit.<br> :date: __2021-01-11 18:14:43__
+
+> Never been able to do it as it crashes all the time as soon as I go in to the app.<br> :date: __2021-01-10 21:37:09__
+
+> It crashes every single time 😩 sometimes it'll last 5 mins before it crashes, sometimes its only a minute. Not good when you're running and don't realise it's happened, which happened to me 😂 a bit useless really, and can see I'm not the only one. PLEASE FIX THIS as Apple users don't seem to have the same problems!<br> :date: __2021-01-10 12:56:56__
+
 > Kept crashing!, didn't even get half way through first session, it had stopped working 3 times<br> :date: __2021-01-07 14:43:07__
 
 > Every time I started the first run it would shut down the moment I got a notification from another app despite me having changed the settings so that it ran over other apps. Extremely disappointed. It was pretty much useless.<br> :date: __2021-01-07 08:56:19__
@@ -275,17 +287,5 @@ The One You Couch to 5K app has been installed by more than **1000000** times. A
 > Used to work ok with an occasional crash now & then but now it just doesn't even start up! If it does, it doesn't work, no progress, no audio. What's the point of an app which doesn't work on the latest Android version?<br> :date: __2021-01-05 12:18:49__
 
 > App just shows blank white screen. If you manage to get past this, the app crashes either on main run screen or partway through runs, so then you lose your progress. Really disappointing. Please fix this.<br> :date: __2021-01-05 11:12:59__
-
-> App wont even start just loads a white screen and freezes<br> :date: __2021-01-05 10:29:45__
-
-> Freezes all the time, can't even start the app.<br> :date: __2021-01-05 00:39:54__
-
-> It freezes as soon as I open it<br> :date: __2021-01-04 23:54:28__
-
-> Crashes, freezes, blank screen. Can't progress from looking at the Week 1 screen.<br> :date: __2021-01-04 23:48:00__
-
-> Was excited to use this app. I have a 2 year old son and have recently quit smoking. I've heard a lot about this app and thought it could help me get fit again. After using once on my first run it kept crashing and losing my place. Now, after uninstalling the app, its crashing ever app I'm trying to use. Messed up my phone and feel worse than when I started.<br> :date: __2021-01-04 23:19:06__
-
-> Crash- couldn't even start the app it kept crashing<br> :date: __2021-01-04 22:54:42__
 
 

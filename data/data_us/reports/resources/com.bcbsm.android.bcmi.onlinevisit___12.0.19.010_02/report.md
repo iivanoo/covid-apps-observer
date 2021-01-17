@@ -197,6 +197,14 @@ The BCBSM Online Visits app has been installed by more than **50000** times. At 
 <img src="5_star_reviews_wordcloud.png" alt="com.bcbsm.android.bcmi.onlinevisit 5 reviews"/>
 </p>
 
+> It has been a very positive experience using the app<br> :date: __2021-01-15 19:24:08__
+
+> Great experience !<br> :date: __2021-01-15 16:28:05__
+
+> My Doctor was very helpful and understanding. This is a new way to have ailments addressed more immediately.<br> :date: __2021-01-14 19:14:22__
+
+> Very good<br> :date: __2021-01-12 15:04:48__
+
 > With two kids, this is the best app on my tablet. I have used it while traveling, after hours, and holiday. My kids seem to suddenly need medical attention at the most inopportune times. This app has saved me 4 trips to ER/Urgent care in less than 2 years.<br> :date: __2021-01-05 01:30:16__
 
 > I used it for online doctor consult. Took me 10 minutes and cost $10 !<br> :date: __2020-12-26 15:51:08__
@@ -208,14 +216,6 @@ The BCBSM Online Visits app has been installed by more than **50000** times. At 
 > Easy to use and fast<br> :date: __2020-12-20 15:33:19__
 
 > Good experience.<br> :date: __2020-12-18 19:00:50__
-
-> Easy to use and very helpful!<br> :date: __2020-12-11 14:50:49__
-
-> Very nice, easy to use.<br> :date: __2020-12-10 15:44:08__
-
-> Visits and prescriptions in under 10 minutes for any basic illnesses. Fantastic every time I've used it!<br> :date: __2020-12-10 13:32:21__
-
-> Excellent option to see a doctor virtually, especially when you don't feel well!<br> :date: __2020-12-09 19:24:26__
 
 
 

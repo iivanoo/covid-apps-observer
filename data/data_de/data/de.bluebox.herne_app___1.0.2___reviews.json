@@ -1,5 +1,17 @@
 [
     {
+        "reviewId": "gp:AOqpTOFJSGzW1nPAGIxL7-d9OhHHCGAwtJpgGJtyNGSerfycbu4_6u1NElZrwDzPYxFEUDZlM6SSQqBxaui11A",
+        "userName": "Stefan L. Telaka",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjsQU3YXaMv5DIwmR_JdeiyJ7pph5nzWS-nKuvlsw",
+        "content": "App st\u00fcrzt beim Starten ab",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.0.2",
+        "at": "2021-01-11 14:06:01",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOGRHG9Qymka8kA3pqxQvwQzr2P3oh3cOTBqeoBQ5PUOwLgd61rELWgbpEwM4ipek3r8JEXgOVo1qT5TMg",
         "userName": "AHYO",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhScGW4Cn-rAZ1vkGZUzJZ2ZxPohjkdWABfriufkg",
@@ -32,18 +44,6 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2020-12-19 10:52:32",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOFJSGzW1nPAGIxL7-d9OhHHCGAwtJpgGJtyNGSerfycbu4_6u1NElZrwDzPYxFEUDZlM6SSQqBxaui11A",
-        "userName": "Stefan L. Telaka",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjsQU3YXaMv5DIwmR_JdeiyJ7pph5nzWS-nKuvlsw",
-        "content": "ein darkmode w\u00e4re toll",
-        "score": 4,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.0.2",
-        "at": "2020-11-24 12:26:45",
         "replyContent": null,
         "repliedAt": null
     },

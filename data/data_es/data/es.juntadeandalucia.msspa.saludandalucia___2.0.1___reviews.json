@@ -1,5 +1,17 @@
 [
     {
+        "reviewId": "gp:AOqpTOGJbHWbfsjhlVY6X2noxum1j8Wy3hyEDb9O_3w7MIdJIzllsh81Iczp7uAVI12Wn_shMwXw5oXhmymbVQ",
+        "userName": "Jose Guerrero",
+        "userImage": "https://play-lh.googleusercontent.com/-h5SVfGIRNBQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclnWd-kqG46rG1BRp2niKqdC3XuFg/photo.jpg",
+        "content": "Esta aplicaci\u00f3n no vale para nada,no te deja meter el sms que recibes para verificar tus datos",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2021-01-16 11:18:36",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOHnx3rPoV4A443_1hQrZpUgDFDynaxHQuY8teAQ4XclYR6tYSRLFXN9nq4y4zPVQtanAz9P7ZkRXo2cZw",
         "userName": "Andreanobi",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhX4Fk3mdnqdF-CZh2_HVNqmaHHKjizdBD_HbaSzQ",
@@ -17,7 +29,7 @@
         "userImage": "https://play-lh.googleusercontent.com/--CPwss4IYuA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnj-ZLZmKddYqpBgAclOuxKg098Xw/photo.jpg",
         "content": "Me instale est\u00e1 aplicaci\u00f3n por recibir notificaciones por la prueba de covid. Tengo el alta desde hace una semana y a\u00fan no me ha llegado ni por la app no por sms el resultado. Seg\u00fan mi opini\u00f3n es in\u00fatil porque las noticias que ponen son contradictorias a la actualidad. Por lo tanto esta app solo sirve para ocupar espacio. Espero que el dinero que se ha invertido en ella no sea del contribuyente porque es dinero tirado.",
         "score": 1,
-        "thumbsUpCount": 2,
+        "thumbsUpCount": 3,
         "reviewCreatedVersion": null,
         "at": "2020-12-04 23:31:45",
         "replyContent": null,
@@ -173,7 +185,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhsBHRpueOb10D_ln98JYsO8XbjqaFtocDPvuVN",
         "content": "Es p\u00e9sima desde el viernes por la tarde intentando activar las notificaciones y siempre lo mismo, se ha producido un error vuelva a intentarlo m\u00e1s tarde. No se merece ni una estrella.",
         "score": 1,
-        "thumbsUpCount": 7,
+        "thumbsUpCount": 8,
         "reviewCreatedVersion": "2.0.1",
         "at": "2020-10-25 08:13:59",
         "replyContent": null,

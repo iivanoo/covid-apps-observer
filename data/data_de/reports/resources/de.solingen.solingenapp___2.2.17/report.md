@@ -262,6 +262,8 @@ The Mensch, Solingen app has been installed by more than **1000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="de.solingen.solingenapp 1 reviews"/>
 </p>
 
+> nach Installation geht leider nichts mehr, kann man vergessen, schade<br> :date: __2021-01-10 11:33:16__
+
 > Neuste Version installiert, app stürzt dennoch immer ab.<br> :date: __2020-12-17 11:57:58__
 
 > Eigentlich eine gute Idee, nur öffnet sich die App nicht mehr<br> :date: __2020-12-16 12:55:28__
@@ -279,7 +281,5 @@ The Mensch, Solingen app has been installed by more than **1000** times. At this
 > Leider lässt sich die App nach der Erweiterung nicht mehr öffnen. Es geht nur einmalig nach Hochfahren des Smartphones, dann kein Kontakt mehr zum Server. Auch mit der letzten Version komme ich nur rein, wenn ich zuerst Stopp erzwingen durchführen. Dann geht es gut<br> :date: __2020-12-03 17:30:04__
 
 > Android10, Samsung S10+, Neueste Version geladen.--> Startet 1x nach Installation. Danach keine Verbindung zum Server. Schade, an sich eine gute App.<br> :date: __2020-12-02 21:02:26__
-
-> Toller drehender Bildschirmschoner. Dreht sich nur - tut sonst nix.<br> :date: __2020-12-02 16:42:04__
 
 

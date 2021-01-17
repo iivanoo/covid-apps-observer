@@ -1,0 +1,17 @@
+{
+    "permissions": [
+        "android.permission.INTERNET",
+        "android.permission.READ_EXTERNAL_STORAGE",
+        "android.permission.WRITE_EXTERNAL_STORAGE"
+    ],
+    "activities": [
+        "co.uk.healthcreatives.uclhcovid19.MainActivity"
+    ],
+    "urls": [
+        "http://schemas.android.com/apk/res/android",
+        "https://ssl.gstatic.com/accessibility/javascript/android/",
+        "https://play.google.com/store/apps/details?id=",
+        "https://*/*",
+        "http://*/*"
+    ]
+}

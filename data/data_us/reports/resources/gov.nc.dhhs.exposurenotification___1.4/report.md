@@ -131,6 +131,10 @@ The SlowCOVIDNC app has been installed by more than **100000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="gov.nc.dhhs.exposurenotification 5 reviews"/>
 </p>
 
+> Well done from a security standpoint - completely anonymous, only uses randomized tokens for ID (big numbers that change every 15 minutes - no names, etc.). Completely secure and safe. (professional computer geek here)<br> :date: __2021-01-14 02:00:32__
+
+> I hope everyone uses this app. Wear a mask, stay safe, practice social distance, and vaccinate.<br> :date: __2021-01-10 16:07:31__
+
 > Very informative 👏<br> :date: __2021-01-09 16:04:26__
 
 > Thanks to this app to protect myself from other covid people. I have not experienced any exposure yet.<br> :date: __2021-01-08 23:54:40__
@@ -147,10 +151,6 @@ The SlowCOVIDNC app has been installed by more than **100000** times. At this ti
 
 > So far so good. The more people that get this the better. Haven't noticed a battery drain.<br> :date: __2021-01-08 19:33:54__
 
-> Unobtrusive, please download and help protect your neighbors and yourself.<br> :date: __2021-01-08 18:32:02__
-
-> Happy to help<br> :date: __2021-01-08 18:22:12__
-
 
 
 #### 4-star reviews
@@ -158,6 +158,10 @@ The SlowCOVIDNC app has been installed by more than **100000** times. At this ti
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="gov.nc.dhhs.exposurenotification 4 reviews"/>
 </p>
+
+> I am happy with it<br> :date: __2021-01-14 03:17:24__
+
+> Kool app! However, still trying to figure out how it exactly works 🤔<br> :date: __2021-01-09 18:28:55__
 
 > Who cares! Get it! Use it!<br> :date: __2021-01-08 23:45:03__
 
@@ -175,10 +179,6 @@ The SlowCOVIDNC app has been installed by more than **100000** times. At this ti
 
 > Now, if only NC citizens would simply be honest about their exposing others to their positive Covid test as soon as notified. Instead, so many are carelessly waiting until they get negative result. Meanwhile the positives are spreading Covid in neighborhoods, stores, churches, and other public places... WITH NO MASKS! Just because you didn't need ICU, doesn't mean others you exposed will be as fortunate. Get Behind THE Mask! 🙏😷🙏<br> :date: __2020-12-07 04:22:22__
 
-> Great idea!<br> :date: __2020-11-30 00:06:31__
-
-> Has stopped checking for exposure. Last checked for exposure 11/20 on my pixel 3. I cleared app data and it checked in today.<br> :date: __2020-11-25 11:17:59__
-
 
 
 #### 3-star reviews
@@ -186,6 +186,10 @@ The SlowCOVIDNC app has been installed by more than **100000** times. At this ti
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="gov.nc.dhhs.exposurenotification 3 reviews"/>
 </p>
+
+> I decided to update this review. I haven't changed the rating as of yet but probably will have to after I get some kind of answers. On January 10th, 2021 my app stopped reporting. On the 11th I had to call off from work due to a fever and symptom scare. I did test negative for Covid, but the timing of it all couldn't be worse. I mean, three days, during my wait for answers. How is that helping anyone? I work at a high traffic State facility and thought I could rely on this to help.<br> :date: __2021-01-14 02:34:00__
+
+> Dont know if it really works<br> :date: __2021-01-11 15:02:14__
 
 > Just need more people to use it.<br> :date: __2021-01-08 17:20:33__
 
@@ -203,10 +207,6 @@ The SlowCOVIDNC app has been installed by more than **100000** times. At this ti
 
 > I loved this app until it was updated; since then it has not worked at all. It automatically turned notifications off and wont allow them to be turned on again, and since I deleted it and tried to reinstall it, it has been stuck in a loop for the past 2 hours.<br> :date: __2020-12-25 03:13:49__
 
-> I check every so often & I last checked it this evening (12/13 ~8:20pm) & it says it last checked exposures at 6:33pm, so that's fine. But what I'm worried about is if other people are actually using the app. I try to stay home as much as possible, but I have gone out recently and I'm concerned that the app hasn't picked up on exposures. Not that I want to be exposed, but it sure would be nice to know if I had, esp given the rate that covid is rising in the state...Samsung galaxy S10 user.<br> :date: __2020-12-14 02:29:38__
-
-> If there were only a way to make cell carriers (companies) make this mandatory. I mean, right now it just feels like everyone who is trying to be compliant and healthy is just walking around bouncing off cell phone vibes off each other. The rest of these idiots aren't using this app anyway. Apparently, over the last two weeks I have been close to three separate people who claim to be positive. I wasn't near them unmasked or for a prolonged period, and 6 ft. apart. But how do we know?<br> :date: __2020-12-13 15:58:46__
-
 
 
 #### 2-star reviews
@@ -214,6 +214,10 @@ The SlowCOVIDNC app has been installed by more than **100000** times. At this ti
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="gov.nc.dhhs.exposurenotification 2 reviews"/>
 </p>
+
+> Tho it shows option to choose metrics, they cannot be changed. Having to obtain (& wait for) a pin is an encumbrance & bottleneck as well. Will deter ppl from using the app. Have found this app to be of minimal utility, unfortunately.<br> :date: __2021-01-09 21:43:28__
+
+> The idea of this app is great, but because of the way it's run it becomes useless. I have had the app for 2-3 months. I tested positive on Dec 29th, so I called to get the required number to alert the app. I was told that I would have to wait 48 hours, I called back and was told that I needed to call my health department and then call back the next day, I called back the next day and was told that my number was 'too new to use try again in 48 hours'. What's the point of using it now?<br> :date: __2021-01-09 21:11:34__
 
 > Not sure how effective this is unless there's greater usage than we are seeing now. I was at my docs office yesterday, and was 6 feet away from 2 people with positive tests. Not a thing's showing up on this program.<br> :date: __2021-01-08 20:43:07__
 
@@ -231,10 +235,6 @@ The SlowCOVIDNC app has been installed by more than **100000** times. At this ti
 
 > I tried contacting them, and my test was not showing up in their system so they could not give me a PIN. I used the link your provided and I also called when the link was telling me I wasn't in the system.<br> :date: __2020-12-14 14:54:23__
 
-> I installed this app at the beginning of November, and that was the only time it checked for exposures. What use is that? I could not find a way to manually check either.<br> :date: __2020-11-27 04:56:58__
-
-> Exposure last checked: October 31, 2020 8:15am. It's November 23 now. I thought this app was a great idea. But now I have some random app that is connected to my Bluetooth 24/7 and I'm deleting it.<br> :date: __2020-11-23 16:41:06__
-
 
 
 #### 1-star reviews
@@ -243,24 +243,24 @@ The SlowCOVIDNC app has been installed by more than **100000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="gov.nc.dhhs.exposurenotification 1 reviews"/>
 </p>
 
+> It was a great idea but the pin access on the website didn't work.<br> :date: __2021-01-15 16:10:37__
+
+> Has not checked for exposures since January 9th. Checked to make sure the app is not being put to sleep. I have had 3 known exposures in the 10 days. Getting tested today, not because of the app.<br> :date: __2021-01-15 12:55:46__
+
+> No this app does not work. I tested positive in December and the still don't have me listed. I've called the number too and they just say to call back in a few days. Useless.<br> :date: __2021-01-14 16:56:58__
+
+> Disappointed. Not Effective. I've had this for a while; encouraged ppl to download it. Up until yesterday, it worked well - seemingly. It checked for exposures several times a day for the past two months or so. Last week, someone in my pod tested positive. It took her several days to put in a PIN. I've not been alerted yet (but I have isolated since her exposure and then positive test). This program has got to be faster to be effective. It's giving ppl a false of security.<br> :date: __2021-01-13 19:20:06__
+
+> Useless mine quit updating December 25<br> :date: __2021-01-12 14:14:17__
+
+> V mpe ya dimokalasi ko la d ya la s<br> :date: __2021-01-10 21:43:53__
+
+> Not falling for your bs, its just compiling data for those who get covid after downloading this app, scam by big gov. Go try it on some dummies, your not getting this guy.<br> :date: __2021-01-10 05:21:54__
+
 > I am a nurse and work in an emergency department. I have been exposed to covid multiple times per shift. This app says I've never been exposed. So it doesn't even deserve one star.<br> :date: __2021-01-09 14:08:31__
 
 > This was a good idea with a big flaw. Getting a pin is not straight forward. Someone sick with Covid will not take the time to bother getting a pin. It should have been done like this... Sign up with the app with your cell phone number, you get Covid and the county health department should notify DHHS to send the exposure. This would have been easy to do using the cell phone number of the infected person. My wife had Covid and this app. She thought it updated using health department records.<br> :date: __2021-01-09 00:48:36__
 
 > Really gives no information<br> :date: __2021-01-08 23:34:27__
-
-> An absolutely useless app. I tested positive for covid nearly a week ago but have yet to be able to get my PIN. Every time I call in they tell me it's going to be a few days. If you look at the reviews this seems to be the case, that they won't provide you the pin until weeks afterwards. So all in all, this app serves no purpose. What an absolute waste of taxpayer money.<br> :date: __2021-01-08 20:33:44__
-
-> Good idea, bad execution. It turns itself off all the time until I open the app so it basically never works or is on when I need it to be.<br> :date: __2021-01-08 20:04:10__
-
-> Covid in my family Didn't work.. Then I try to update it and tell of my POS outcome. Says can't find me in system...<br> :date: __2021-01-08 18:59:42__
-
-> I had Covid19 and people I kniw that have this app told me they never got notified<br> :date: __2021-01-08 18:56:04__
-
-> Can't give it anything but a 1.. I just reloaded it yesterday. Had for a while but Uninstalled because it never showed exposure and I knew I had been exposed. Several times. Thought I'd give it one more try. I've got a feeling people aren't going to be honest. So this app may be a dud because of that. I'd give them 6 stars for good intentions but people still run around shopping and everything else. They don't quarantine like they're supposed to. Sad but true.<br> :date: __2021-01-08 15:57:55__
-
-> It's taking weeks to obtain a confirmation pin to share results which defeats the purpose of this whole thing. By the time people get their pins it's been over a week or longer in some cases, which at that point is too late. It's pointless to alert people if it's not immediate. Deleting the app because I'm not ok with tracking me for no purpose.<br> :date: __2021-01-08 02:28:39__
-
-> Unable to obtain a Pin using the form due to always failing the CAPTCHA. I've tried being case sensitive and not case sensitive. It fails every time. I've tried this on Chrome and Firefox browsers<br> :date: __2021-01-02 09:04:24__
 
 

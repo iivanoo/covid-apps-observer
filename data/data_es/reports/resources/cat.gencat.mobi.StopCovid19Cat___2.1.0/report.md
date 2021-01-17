@@ -244,6 +244,8 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 <img src="1_star_reviews_wordcloud.png" alt="cat.gencat.mobi.StopCovid19Cat 1 reviews"/>
 </p>
 
+> No sirve de mucho bajo mi humilde opinión... ayer me hicieron el test rápido que suelen hacer antes del pcr y di positivo con síntomas evidentes tales como pérdida de olfato, gusto, fiebre, etc.. según el test de ésta app no tengo síntomas... cosas a mejorar, ahí lo dejo.<br> :date: __2021-01-12 11:55:26__
+
 > He fet el test i en diu que no tinc símptomes quan avui he vist el resultat positiu del PCR d,ahir día 31 desembre que em van fer.<br> :date: __2021-01-01 15:48:05__
 
 > He dado positivo. Hago el test para informarlo. Pongo los síntomas. Fiebre tos dificultad para respirar, dolor de cabeza. Malestar. El resultado es: no tienes síntomas , pero no te confíes.<br> :date: __2020-12-24 15:17:35__
@@ -261,7 +263,5 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 > Me pide que ingrese mi codico CIP y me dice que ese código no existe, luego intento ingresar por mi NIE y sale el mismo mensaje "no existe" esta app no sirve para nada.<br> :date: __2020-11-12 12:45:55__
 
 > Mientras no haces la prueba está bien de ayuda, pero una vez te haces el test y das positivo, no sirve para nada. Yo hoy he hecho test de antígenos y he dado positivo. En cambio relleno los datos y como me han desaparecido varios síntomas, pues me dice que no tengo la Covid. Me da un chasquido el bolo al ver que me dice que no tengo Covid y en cambio hoy me han diagnosticado positivo en el CAP.<br> :date: __2020-11-09 21:38:15__
-
-> No se si soy o no positivo pero lo que si sé es que mi compañera de trabajo dio positivo en covid19 y yo estado con ella en contacto como muchos más compañeros y estamos esperando que los rastreadores nos llamen eso sí yo tengo que ir ha trabajar como mis otras compañeras hasta que no nos llamen los rastreadores y si yo soy asintomático como mi compañera que dio positivo y trabajamos ha menos de medio metros junto ha otras 8 o 9 personas más no sé yo si está app es fiable<br> :date: __2020-11-08 17:31:44__
 
 

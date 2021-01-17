@@ -192,6 +192,14 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 <img src="5_star_reviews_wordcloud.png" alt="com.ascent.phr 5 reviews"/>
 </p>
 
+> so easy to order repeat prescriptions, would recommend to everybody<br> :date: __2021-01-14 18:22:02__
+
+> Great and easy to use<br> :date: __2021-01-14 09:35:00__
+
+> Reliable<br> :date: __2021-01-14 00:26:04__
+
+> very simple to use<br> :date: __2021-01-11 19:36:25__
+
 > excellent app<br> :date: __2021-01-09 10:10:24__
 
 > much better after they rewrote the app<br> :date: __2021-01-06 10:51:49__
@@ -203,14 +211,6 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 > Excellent, no hassle with telephone calls.<br> :date: __2021-01-02 08:35:04__
 
 > Easy to use and order repeat prescriptions.<br> :date: __2020-12-31 18:06:11__
-
-> excellent App .<br> :date: __2020-12-29 20:38:14__
-
-> Good app to order your prescriptions.<br> :date: __2020-12-29 15:00:26__
-
-> very easy use and convenient<br> :date: __2020-12-24 10:34:51__
-
-> Works as should no problems<br> :date: __2020-12-23 15:20:17__
 
 
 
@@ -248,6 +248,8 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 <img src="3_star_reviews_wordcloud.png" alt="com.ascent.phr 3 reviews"/>
 </p>
 
+> sat<br> :date: __2021-01-11 13:20:41__
+
 > Not a bad app. a bit glitchy but OK.<br> :date: __2021-01-07 23:23:33__
 
 > Even after making a note of my password, it still told me it was wrong. The last few times I've logged in I've had to set up a new one. Not the best app in the world<br> :date: __2021-01-06 13:50:24__
@@ -266,8 +268,6 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 
 > sometimes when they make changes, you have to spend time searching for the prescription ordering tab,which should be the most prominent thing on the site, not on a sub page<br> :date: __2020-12-17 17:41:11__
 
-> not as good as it could be ,why no way of uploading documents other than pictures and why not visible to members of the surgery by default?<br> :date: __2020-12-02 13:30:55__
-
 
 
 #### 2-star reviews
@@ -275,6 +275,8 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="com.ascent.phr 2 reviews"/>
 </p>
+
+> ok App doesn't really do much in the way of looking at your medical records or being able to book appointments at the doctors etc. not really sure why I still have it installed tbh<br> :date: __2021-01-14 22:26:48__
 
 > only for ordering prescription nothing else works<br> :date: __2021-01-05 20:39:32__
 
@@ -294,8 +296,6 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 
 > difficult to use<br> :date: __2020-11-27 10:15:40__
 
-> biometric logon does not work, and last whole would not order my prescription<br> :date: __2020-11-22 12:22:00__
-
 
 
 #### 1-star reviews
@@ -303,6 +303,8 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="com.ascent.phr 1 reviews"/>
 </p>
+
+> Won't connect to GP practice, so of no use to me. I tried asking on "live chat" but just got an automated referral to changing gp practice - not what I wanted to do at all.<br> :date: __2021-01-15 08:40:33__
 
 > Was good at first but now seems more concerned with getting you to fill in stupid health questions than keeping it simple to follow. Always takes me a while to find out where I order repeat prescriptions.<br> :date: __2021-01-07 18:59:10__
 
@@ -321,7 +323,5 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 > keeps stopping mid prescription order<br> :date: __2020-12-08 11:16:05__
 
 > Currently not recognising the biometric login. I change login via password which worked, but now I can't use GP services to order my repeat prescription, just see a continuous evergreen logo which I presume means it's trying to connect.<br> :date: __2020-12-08 10:12:22__
-
-> Unstable keeps telling me to log on when I already am keeps crashing<br> :date: __2020-12-07 21:24:34__
 
 

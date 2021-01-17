@@ -186,25 +186,25 @@ The LiveHealth Online Mobile app has been installed by more than **500000** time
 <img src="5_star_reviews_wordcloud.png" alt="com.americanwell.android.member.wellpoint 5 reviews"/>
 </p>
 
-> Great realtime connection. Camera good, voice good.<br> :date: __2021-01-09 15:57:19__
+> Fast, easy and professional<br> :date: __2021-01-16 00:11:39__
 
-> Awesome<br> :date: __2021-01-09 11:50:40__
+> Great app very helpful<br> :date: __2021-01-15 20:55:15__
 
-> Works well and is very convenient.<br> :date: __2021-01-08 17:57:28__
+> So easy<br> :date: __2021-01-15 14:32:59__
 
-> Very easy to get care.<br> :date: __2021-01-08 14:39:52__
+> User friendly<br> :date: __2021-01-15 04:56:58__
 
-> Dr Hendricks was great!<br> :date: __2021-01-07 00:31:10__
+> Excellent<br> :date: __2021-01-14 16:46:26__
 
-> Easy to use and the care I have received was great! Much easier than sitting in an office waiting to be seen when you feel bad to begin with.<br> :date: __2021-01-06 19:29:57__
+> Wonderful and convenient<br> :date: __2021-01-13 19:12:02__
 
-> The provider was super nice and helped me out without attitude.<br> :date: __2021-01-05 13:17:37__
+> Very easy and useful app. Will definitely use it again.<br> :date: __2021-01-13 16:18:27__
 
-> Great experience!<br> :date: __2021-01-05 03:31:12__
+> I wasn't able to use the video because I don't have Wi-Fi and might just be my own personal phone but otherwise I did have a good experience.<br> :date: __2021-01-13 15:20:14__
 
-> Wonderful. Fast<br> :date: __2021-01-04 22:48:58__
+> Wonderful<br> :date: __2021-01-12 23:53:25__
 
-> I had rated this app after looking at what seemed like a double charge on a visit but I called customer service. I learned that one of the transactions went through as what is like a void or a reversal. It's like when you go to the gas station & get charged twice but you get a reversal on the extra charge. I came back here to change the rating I made but Google Store here wouldn't let me make a 3rd edit (I had added additional info on the original rating, first rating). Call customer service!<br> :date: __2021-01-04 06:53:27__
+> La aplicación es muy buena nada complicada puedo elegir el idioma del medico la recomiendo la he usado en diferentes ocasiones y estoy muy satisfecha..<br> :date: __2021-01-12 17:28:10__
 
 
 
@@ -298,6 +298,12 @@ The LiveHealth Online Mobile app has been installed by more than **500000** time
 <img src="1_star_reviews_wordcloud.png" alt="com.americanwell.android.member.wellpoint 1 reviews"/>
 </p>
 
+> Bad<br> :date: __2021-01-13 20:24:36__
+
+> Horrible will never use again<br> :date: __2021-01-12 23:01:24__
+
+> Doesn't work<br> :date: __2021-01-12 03:23:49__
+
 > Dosent load<br> :date: __2021-01-08 20:36:02__
 
 > Can't update card number and therefore can't even make appointments. Customer service said they'd "open a ticket for me" so I am left waiting to be able to see a dr until they're tech system is fixed for something that should be completely routine, like updating a credit card. Greedy company with garbage technology.<br> :date: __2021-01-06 18:52:40__
@@ -311,11 +317,5 @@ The LiveHealth Online Mobile app has been installed by more than **500000** time
 > Poor ask you to enter some code and the code is'nt provided<br> :date: __2020-12-29 16:06:58__
 
 > Unfortunately, this is the app that my insurance uses.<br> :date: __2020-12-27 21:55:44__
-
-> Worst medical app I've ever used. My card was charged 4 times and all the "doctor" did was tell me to go somewhere else. Never using again and I'm filing to get my money back.<br> :date: __2020-12-21 20:06:11__
-
-> zero stars. 3 weeks ago, did the online visit, got a Rx sent to Walgreen's. Pharmacy was closed for T-day. Went to get Rx filled at another location, Walgreen's doesn't have Rx on file. Called customer service. Was told I had to do another visit (and pay again) to get my Rx because too much time had passed.<br> :date: __2020-12-17 10:30:34__
-
-> I was charged twice for 1 visit. Also the dr did not help at all he tole me to do exactly what I was already doing!<br> :date: __2020-11-26 03:01:57__
 
 

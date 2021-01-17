@@ -154,10 +154,12 @@ No recent reviews available with 4 stars.
 #### 3-star reviews
 
 <p align="center">
-
+<img src="3_star_reviews_wordcloud.png" alt="uk.ac.cam.cl.covid19sounds 3 reviews"/>
 </p>
 
-No recent reviews available with 3 stars.
+> Covid test question needs an 'unknown' option. I've been tested before, with negative result, but months ago, so saying my 'current status' is negative is misleading, but I can't say I've 'Never' been tested. Could also be used by those who've had a test, but awaiting results. There should be a definition of what 'current' means too. The question on whether you think you've had Covid needs a 'Maybe' option. I think I may have, but mildly & not the obvious symptoms so not confident to say 'Yes'.<br> :date: __2021-01-13 02:47:12__
+
+
 
 #### 2-star reviews
 
@@ -176,6 +178,8 @@ No recent reviews available with 3 stars.
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="uk.ac.cam.cl.covid19sounds 1 reviews"/>
 </p>
+
+> Broken... Doesn't work<br> :date: __2021-01-10 17:21:19__
 
 > I cant open it<br> :date: __2020-10-20 00:37:26__
 

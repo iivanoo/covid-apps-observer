@@ -191,25 +191,25 @@ The 98point6 app has been installed by more than **50000** times. At this time, 
 <img src="5_star_reviews_wordcloud.png" alt="com.ninety8point6.patientapp 5 reviews"/>
 </p>
 
-> The doctors are so helpful and take as much time as needed to care for my needs. I am so impressed with 98point6 and I reccomend it to others.<br> :date: __2021-01-08 20:03:56__
+> I met with Amanda Cuda. She was very thorough and spent 45 minutes with me. She recommended several things and gave me a suggestion of where to find a primary.<br> :date: __2021-01-16 15:59:25__
 
-> Quick and easy. The wait time was MUCH less than estimated! That was nice!<br> :date: __2021-01-08 19:38:45__
+> Excellent service and advise. I will definitely use them again!<br> :date: __2021-01-16 03:26:27__
 
-> Very attentive to details we needed<br> :date: __2021-01-07 23:07:33__
+> Such a smooth process! I did answer some questions initially before talking to a doctor but it's no different than going to an office. The doctor was professional and courteous. I will definitely use the app again!<br> :date: __2021-01-15 23:37:06__
 
-> Great<br> :date: __2021-01-07 17:36:39__
+> I'm so glad I got this app. It is well worth the cost to be able to see great doctors whenever you need to. Thank you for A-1 service!<br> :date: __2021-01-15 00:18:06__
 
-> Wonderful! Fast and accurate.<br> :date: __2021-01-07 17:30:00__
+> The doctor who helped me today was excellent, and I'm relieved to have been able to get care in this format. Thank you!<br> :date: __2021-01-13 23:16:30__
 
-> Great service. Easy to use and understand!<br> :date: __2021-01-06 19:44:53__
+> Easy to use<br> :date: __2021-01-13 22:24:57__
 
-> I've used it several times and it's so much better than waiting at my Drs officer<br> :date: __2021-01-06 00:34:54__
+> Easy to use. It is good way to see doctor in this pandemic time<br> :date: __2021-01-13 16:22:07__
 
-> Exactly what I needed, thank you!<br> :date: __2021-01-05 19:26:38__
+> Great to be able to access medical care this way. Response is prompt after a few questions.<br> :date: __2021-01-12 22:34:46__
 
-> Easy and glad I don't have to leave home when not feeling well.<br> :date: __2021-01-05 16:58:53__
+> App works well, much easier than an in person appt<br> :date: __2021-01-10 23:26:38__
 
-> Doctor provided me an excellent diagnosis, prognosis, and plan of action, based on my symptoms, photos, short video interview, and texting back and forth within the app.<br> :date: __2021-01-05 16:42:14__
+> So easy and helpful. Reassuring to get advice<br> :date: __2021-01-10 05:19:34__
 
 
 
@@ -299,6 +299,8 @@ The 98point6 app has been installed by more than **50000** times. At this time, 
 <img src="1_star_reviews_wordcloud.png" alt="com.ninety8point6.patientapp 1 reviews"/>
 </p>
 
+> The Dr's on here don't listen and definately won't prescribe medicine. I clearly had an URI and they said to just rest and take allergy medicine. Went to my Dr and they immediately prescribed an antibiotic. Similar experience prior. This is a joke and GIANT waste of time!!<br> :date: __2021-01-16 03:11:42__
+
 > No alerts after wsiting sn hour for an MD then disconnected!<br> :date: __2021-01-06 02:40:51__
 
 > Not being notified when doctor is available<br> :date: __2021-01-05 05:44:30__
@@ -316,7 +318,5 @@ The 98point6 app has been installed by more than **50000** times. At this time, 
 > Not worth it.<br> :date: __2020-10-27 01:36:09__
 
 > Complete waste of time. Just go to urgent care<br> :date: __2020-10-01 22:25:58__
-
-> It certainly is nothing like Teledoc. It was of no help at all and all I needed was help with seasonal allergies.<br> :date: __2020-10-01 12:32:05__
 
 

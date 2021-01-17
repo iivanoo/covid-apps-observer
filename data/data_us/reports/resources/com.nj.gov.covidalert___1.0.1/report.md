@@ -145,6 +145,10 @@ The COVID Alert NJ app has been installed by more than **100000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="com.nj.gov.covidalert 5 reviews"/>
 </p>
 
+> Everyone in NJ should be on this. It automates contact tracing, anonymously. Will notify you if you've been exposed.<br> :date: __2021-01-14 22:17:13__
+
+> Exelent<br> :date: __2021-01-14 05:37:09__
+
 > Ok<br> :date: __2021-01-09 02:54:21__
 
 > Great concept. And as more and more of us participate, the more it will help to protect us all.<br> :date: __2021-01-06 23:59:44__
@@ -160,10 +164,6 @@ The COVID Alert NJ app has been installed by more than **100000** times. At this
 > A should have app.<br> :date: __2020-12-25 01:15:08__
 
 > It a very good app very good<br> :date: __2020-12-22 22:40:24__
-
-> Very good and trusted experience with google products!!!!!!<br> :date: __2020-12-20 07:27:48__
-
-> Not everyone believe in this.<br> :date: __2020-12-19 17:23:56__
 
 
 
@@ -201,6 +201,8 @@ The COVID Alert NJ app has been installed by more than **100000** times. At this
 <img src="3_star_reviews_wordcloud.png" alt="com.nj.gov.covidalert 3 reviews"/>
 </p>
 
+> The adaptive icon randomly becomes a square.<br> :date: __2021-01-13 19:52:55__
+
 > This app needs improvement. When you get an exposure alert it doesn't tell you the date of exposure, just that it was within the past 14 days. So you could already be out of the quarantine period or only need to test and isolate for a few days. Giving the date of exposure seems important.<br> :date: __2021-01-06 00:25:46__
 
 > Rite aid Cov 19 testing<br> :date: __2020-12-13 15:43:07__
@@ -218,8 +220,6 @@ The COVID Alert NJ app has been installed by more than **100000** times. At this
 > During setup I realized that it requires both GPS and Bluetooth to be engaged. If I do this with my phone, it would die in 4 hours. I'm an emergency service personnel, I can't go with a dead phone all day. Sorry. Good idea but won't work for me.<br> :date: __2020-10-29 23:00:14__
 
 > I have this app in my phone but in order to make it more effective it needs more advertise and insist ppl to download it. It can only work more ppl uses and learn how to use it properly. I also not sure myself when its says it use bluetooth in order to make it work. Does it mean I require to wear actual blutooth on my year? Many ppl didnt even know that NJ has this app. Otherwise its a good idea.<br> :date: __2020-10-26 18:33:37__
-
-> Installing this =捉蟲入屎忽<br> :date: __2020-10-19 04:16:38__
 
 
 
@@ -257,6 +257,8 @@ The COVID Alert NJ app has been installed by more than **100000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="com.nj.gov.covidalert 1 reviews"/>
 </p>
 
+> It's not mine but it's on my phone<br> :date: __2021-01-12 11:50:16__
+
 > 2019 US deaths be4 Pandemic: 2.85 mil 2020 US deaths After Pandemic: 2.83 mil Per C.D.C. Say no to fascism. Say no to this garbage app..<br> :date: __2021-01-06 11:15:47__
 
 > The contact alert feature is bordeine comsumer fraud .has it zctually od contact by anyone why are comments going oy back to decembet<br> :date: __2021-01-02 00:59:00__
@@ -274,7 +276,5 @@ The COVID Alert NJ app has been installed by more than **100000** times. At this
 > When the Middlesex Co health dept called me 6 days after my + test, the woman I spoke with knew about the app, but knew nothing about giving me a 6 digit verification code. If it's not her job to give it out (as the app says it is), then whose it is? This app isn't working the way it claims to be. If people can't tell the app they're + then no close contacts are being alerted through the app. Why does the health dept (at least Middlesex Co) not know to give out this code?<br> :date: __2020-12-12 08:37:45__
 
 > Doesn't do anything useful.<br> :date: __2020-12-12 06:23:25__
-
-> There's no way to indicate that you got COVID.l, for the app to even work. Both my gf and I have the app. I got COVID and it never told her. (And she got covid from me)<br> :date: __2020-12-07 01:27:05__
 
 

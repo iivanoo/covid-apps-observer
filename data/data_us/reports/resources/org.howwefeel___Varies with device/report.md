@@ -176,6 +176,14 @@ The HowWeFeel: The How We Feel Project app has been installed by more than **100
 <img src="5_star_reviews_wordcloud.png" alt="org.howwefeel 5 reviews"/>
 </p>
 
+> Easy to use and no glitches.<br> :date: __2021-01-15 11:07:21__
+
+> I like how this app has you do a self awareness check on yourself. It ask you the important questions of how do you feel, what worries do you have. When I see how I responded to specific questions I'm aware of what I may need to keep an eye on. Especially since I'm medically high risk for COVID.<br> :date: __2021-01-14 21:46:51__
+
+> No feel fo-r I'll. Or eel<br> :date: __2021-01-14 15:37:28__
+
+> Simple survey a day to help give a meal to someone in need. To address some of the other reviews about the app not working, I have not had any of those issues. If I had I would uninstall and reinstall the app.<br> :date: __2021-01-12 12:30:37__
+
 > Quick, easy, thorough. Feel like I'm helping a little.<br> :date: __2021-01-06 18:34:11__
 
 > Participating helps me cope with the reality of living in this pandemic,Covid19, especially when i feel powerless to fight this invisible ennemy. I can only do my part, hoping that others will do the same.<br> :date: __2021-01-01 17:27:15__
@@ -187,14 +195,6 @@ The HowWeFeel: The How We Feel Project app has been installed by more than **100
 > I like checking in<br> :date: __2020-12-23 04:48:36__
 
 > makes my feelings feel valid<br> :date: __2020-12-23 02:01:59__
-
-> Easy to use.<br> :date: __2020-12-13 20:55:44__
-
-> It help me keep a record of how i feel daily<br> :date: __2020-12-05 14:03:55__
-
-> Makes my day early to see it a great morning even being depressed.<br> :date: __2020-12-03 19:12:37__
-
-> Easy and quick to use. Support mental health<br> :date: __2020-12-02 14:38:53__
 
 
 

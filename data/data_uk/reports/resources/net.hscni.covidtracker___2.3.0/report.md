@@ -178,6 +178,8 @@ The StopCOVID NI app has been installed by more than **100000** times. At this t
 <img src="4_star_reviews_wordcloud.png" alt="net.hscni.covidtracker 4 reviews"/>
 </p>
 
+> COVID NI there are many driffence information about COVID<br> :date: __2021-01-10 23:10:53__
+
 > Zoe123<br> :date: __2020-11-22 15:45:06__
 
 > Just discovered the app had been "Auto Disabled" on my android phone. Something to watch out for (When it's running you should get a notification once a week, reminding you and confirming that it is indeed running).<br> :date: __2020-10-21 23:33:44__
@@ -195,8 +197,6 @@ The StopCOVID NI app has been installed by more than **100000** times. At this t
 > No problems downloading and it appears active on my Samsung S10. Would love to understand more about the keys as we're registering them without leaving the house!<br> :date: __2020-08-12 22:11:42__
 
 > Seems to work just fine, but the interface is slow and it's hard to know if this is actually running or if I have to load up the app manually every time.<br> :date: __2020-08-07 11:52:24__
-
-> I found it easily, I just typed in covid and found the app. But like others have said, when you close the app and open it it says tracing not active then changes to active. Unsure if it is working when the app isn't open.<br> :date: __2020-08-04 11:47:01__
 
 
 
@@ -234,6 +234,8 @@ The StopCOVID NI app has been installed by more than **100000** times. At this t
 <img src="2_star_reviews_wordcloud.png" alt="net.hscni.covidtracker 2 reviews"/>
 </p>
 
+> Haven't use it yet so not sure what to say.<br> :date: __2021-01-12 01:12:16__
+
 > Bluetooth is always on but the app tells me to turn it on! Same after restarting the device and checking Bluetooth status<br> :date: __2020-12-30 18:52:58__
 
 > Got a notification to say i was in contact and had to isolate. Only problem was i had been in contact the 10th. First told of it the 23rd with 1day left to isolate. Its reliant on people updating the app with their test results and if they dont do that then nobody knows<br> :date: __2020-11-23 21:34:22__
@@ -251,8 +253,6 @@ The StopCOVID NI app has been installed by more than **100000** times. At this t
 > No alert given for App update. No weekly alerts given for 2 consecutive weeks<br> :date: __2020-10-24 04:50:41__
 
 > Despite having my Bluetooth on constantly, the app is telling me tracing is not active. There is clearly a bug in the app that needs fixed.<br> :date: __2020-10-23 23:31:59__
-
-> Fault app. Tells me in early hours of morning that there has been a huge number of checkins like 2000+/3000+ while im at home. But also saying 0 check ins in last 4 days-14 days. Have to open it again to start checks and i never switch off the bluetooth so no idea what happening.<br> :date: __2020-10-23 23:17:28__
 
 
 

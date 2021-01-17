@@ -210,25 +210,25 @@ The Service NSW app has been installed by more than **1000000** times. At this t
 <img src="5_star_reviews_wordcloud.png" alt="au.gov.nsw.service 5 reviews"/>
 </p>
 
-> 5 stars for the app, easy, convenient, etc, great app. One critisism though...I have two Service nsw logins, personal and my company, there is no way to switch users! I hsave resorted to uninstalling & reinstalling every time I have to use the other. Please fix or tell me I am a duffa & doing something wrong?<br> :date: __2021-01-09 04:40:12__
+> Ok<br> :date: __2021-01-15 20:59:01__
 
-> Reliable<br> :date: __2021-01-08 20:49:47__
+> Really good design. Easy to use and easy to navigate. I would love to see a QR check-in and license shortcut widget and long-press on app icon shortcuts implementated to save time since we are using it multiple times per day now days.<br> :date: __2021-01-15 07:25:37__
 
-> Very good<br> :date: __2021-01-08 05:47:30__
+> Works great since the last update. It's very simple to check into places using the QR code, and is very convenient as a digital licence<br> :date: __2021-01-15 04:36:49__
 
-> Works well. But put Covid logon at top of screen since this is what I use most. Common sense.<br> :date: __2021-01-07 23:46:28__
+> easy<br> :date: __2021-01-14 12:56:02__
 
-> Successfully logged in! Got few text message verification code now. Thanks developer team, good on you.<br> :date: __2021-01-07 23:19:25__
+> App is good.<br> :date: __2021-01-14 11:21:12__
 
-> Working fine for me! S10 Android 10<br> :date: __2021-01-07 21:33:37__
+> No issues.<br> :date: __2021-01-14 11:12:41__
 
-> Good when it works<br> :date: __2021-01-07 05:55:51__
+> Wonderful<br> :date: __2021-01-14 09:02:48__
 
-> Because We Have No Choice<br> :date: __2021-01-06 12:02:59__
+> Great app. Easy to use.<br> :date: __2021-01-14 07:18:02__
 
-> App works seamlessly.. Including ease of COVID check-in/out.<br> :date: __2021-01-06 00:10:46__
+> I reported bud/ issues which are fixed by the developer. Service NSW app for Covid tracing is, as it should be, mandatory. Infinitely more reliable than the $-wasting Federal Govts LNP Covid App.<br> :date: __2021-01-14 01:55:28__
 
-> I agree with the masks rule & wear a mask at church, in supermarkets, shopping malls etc. I visited 2 nearby malls today. At Southgate Sylvania, all adults & most children were wearing masks. I later visited Westfield Miranda & numerous older people, male and female had masks slung under their noses, some with both mouth & nose uncovered. NO idea what good they thought the masks were worn in this way! Please publicise & warn people that this is NOT correct wearing of masks.<br> :date: __2021-01-04 09:29:56__
+> Good<br> :date: __2021-01-13 09:40:42__
 
 
 
@@ -238,25 +238,25 @@ The Service NSW app has been installed by more than **1000000** times. At this t
 <img src="4_star_reviews_wordcloud.png" alt="au.gov.nsw.service 4 reviews"/>
 </p>
 
-> Good<br> :date: __2021-01-08 05:31:18__
+> App would be even better if the COVID section would let us save our dependents on it.<br> :date: __2021-01-16 08:59:56__
 
-> It works, just a suggestion can you trigger a push notification to remind us to check out from the last place we visit for the government to perform a better and more accurate contact tracing?<br> :date: __2021-01-08 00:55:24__
+> I mean good app does what it's suppose to But since last update instead of opening app it takes me to the play store page Also suddenly it doesn't unlock with fingerprint Thought you fixed all the bugs 🤣<br> :date: __2021-01-15 10:10:24__
 
-> Good<br> :date: __2021-01-06 22:15:18__
+> Working now after the 3rd time installing.<br> :date: __2021-01-14 02:55:45__
 
-> Nice app, if you can add a covid check-in widget/shortcut, that would be great.<br> :date: __2021-01-06 06:36:47__
+> Sometimes drops facility to log in using fingerprint. Otherwise better experience than the private services<br> :date: __2021-01-14 01:30:30__
 
-> Not real easy to use<br> :date: __2021-01-05 23:51:57__
+> Good<br> :date: __2021-01-12 22:09:54__
 
-> Good<br> :date: __2021-01-05 00:01:14__
+> I find the app very easy to use.<br> :date: __2021-01-12 21:20:10__
 
-> For covid check-ins, can the app please remember the details of my dependents? I'm always checking in myself and my child and usually my wife, and it remembers / supplies my details, but not those of my family, so I'm always re-entering their details. Ideally it would have a check list of previously added dependents, where I could just tick their names to add when checking in. Ideally this information would be stored locally on the device, not on the server, for privacy.<br> :date: __2021-01-04 07:17:27__
+> Good<br> :date: __2021-01-12 21:04:44__
 
-> Good app. I suggest for the covid check in an option to save your dependants. If I'm shopping and have my kids with me, everytime I enter a store I have to add them individually, an option to click on their saved names would make it so much faster and I could get in and out faster.<br> :date: __2021-01-04 04:52:33__
+> Great app<br> :date: __2021-01-12 21:03:59__
 
-> Can't wait to use this app<br> :date: __2021-01-02 01:49:03__
+> Works most of the time<br> :date: __2021-01-12 10:11:44__
 
-> Excellent<br> :date: __2020-12-30 07:06:36__
+> Works most of the time. Take screen shots x 2 of your licence in case of no service.<br> :date: __2021-01-12 08:56:58__
 
 
 
@@ -266,25 +266,25 @@ The Service NSW app has been installed by more than **1000000** times. At this t
 <img src="3_star_reviews_wordcloud.png" alt="au.gov.nsw.service 3 reviews"/>
 </p>
 
-> Bug that kept meaning alway checking in to a previous venue was very dangerous. GLAD IT WAS FIXED on 5 January, however should advise users urgently to update their version<br> :date: __2021-01-09 01:39:17__
+> Okay on my work phone but please make a version for older 32bit phones so I can use it on my own phone. What is so amazing about this app that it needs 64bit anyway?<br> :date: __2021-01-16 01:01:27__
 
-> when i check in to any place it wont let me add a dependant<br> :date: __2021-01-08 07:45:55__
+> I think everything is more complicated than it really needs to be<br> :date: __2021-01-14 01:25:53__
 
-> Most of the time it works fine and is simple to use, but sometimes it refuses to log in and other times refuses to register the QR code (and I am talking about the specific service NSW codes)<br> :date: __2021-01-07 22:59:59__
+> Re COVID: no idea if it works or not. How do ordinary people tell??<br> :date: __2021-01-13 21:06:29__
 
-> When it works, it works well. I wish the Covid Checkin function had store and forward when there is no mobile connectivity. Connectivity in places like Woodenbong non-existent, and couldn't use it<br> :date: __2021-01-07 11:27:39__
+> App is fine for rego, licence etc but does not work for covid sign ins. Apparently a common problem for most. If you have this problem, uninstall the app and use the webform, it works the majority of the time<br> :date: __2021-01-12 21:55:35__
 
-> Covid check in not working this arvo. 2 places unable to check in since 12pm<br> :date: __2021-01-07 05:09:25__
+> Checking in/out of a location is ok. Suggestions: - Last checked in place was front an centre when you re-enter the app so you can click to check out. Time consuming and difficult to find the last check-in when you are in a rush. - Pre-set dependants during the checking in process. Very annoying to have to "add dependant" over and over again esp when you have kids with you. - Check in location/time/date history. To be able to go back and see if you have been in hotspot locations.<br> :date: __2021-01-12 11:12:37__
 
-> I'm doing my best to check in and out every time I go somewhere but the app just stopped working (again) today. All I get is a message saying "an error has occurred. Please try again." No way to recover my PIN or password, just in case I typed them incorrectly. Tried to uninstall and reinstall with no results...<br> :date: __2021-01-07 04:06:43__
+> Lost<br> :date: __2021-01-12 00:05:15__
 
-> A problem has occurred please try again later. I've just used the app to check-in when I went to a restaurant for lunch and no problem. And now I'm trying to log in again to check out but it keeps saying "A problem has occurred please try again later." My colleague tried his and he managed to log in with the app. Is there anyone experienced the same thing?<br> :date: __2021-01-07 03:19:34__
+> Covid option check in gone from app !<br> :date: __2021-01-11 23:48:19__
 
-> Foursome reson it's now not letting me sign in with my pin<br> :date: __2021-01-07 03:02:03__
+> We checked into a caravan park on Friday using the app over the weekend. Went to the club next-door for lunch on Saturday and checked in and out when we left. When we left the park on Sunday morning we had apparently been checked out on the app on Saturday 1.37pm. Same time we left the club. So app doesn't allow for a long term visit.<br> :date: __2021-01-11 22:13:38__
 
-> I like the app, but lately it is checking me into the previous place when I scan in.<br> :date: __2021-01-07 01:14:36__
+> Wonderful having this forced on us. Shame we can no longer go to the toilet without the government knowing. How about people who don't have or want internet on the phone? No longer allowed to go shopping?<br> :date: __2021-01-11 20:26:37__
 
-> It's too much information<br> :date: __2021-01-06 11:29:53__
+> I think the app is great, however, many venues in northern rivers either do not use it or have a different system, which should not be the case!<br> :date: __2021-01-11 10:09:12__
 
 
 
@@ -294,25 +294,25 @@ The Service NSW app has been installed by more than **1000000** times. At this t
 <img src="2_star_reviews_wordcloud.png" alt="au.gov.nsw.service 2 reviews"/>
 </p>
 
-> I've downloaded the app but it does not show on the page on my mobile. So I've got to go to App Store all the time to log in.<br> :date: __2021-01-09 06:02:13__
+> Pop-ups too small to read.<br> :date: __2021-01-16 00:47:09__
 
-> Needs more enhancement<br> :date: __2021-01-09 03:44:16__
+> Still has a bug with covid checkin. 3 times this week it has checked me in to my last check in place when I scan somewhere new. Not very accurate as a result.<br> :date: __2021-01-14 11:50:30__
 
-> App won't let me log in after last update. suggests there is an issue with my app or device, and refers me to service nsw gov au slash non-standard-software Decided is play certified, and there are no detected issued when scanning with the play protect in the play store. Can only check in as a guest. Kogan Agora xs, running android 8.1.0<br> :date: __2021-01-09 01:23:19__
+> Mostly, the app works ok, BUT it doesn't remember your Covid-19 check-in if you minimise & then restore the app, Meaning that you have to check in again to be able to check out.<br> :date: __2021-01-14 03:23:16__
 
-> I have tried to use the app several times at the supermarket and coffee shops and it say not working at the moment try again later<br> :date: __2021-01-08 13:07:22__
+> Keep logging me to the wrong location<br> :date: __2021-01-14 02:50:23__
 
-> Couldn't use CovidSafe check in on multiple attempts, as verification code/s to mobile took ~1 hour to arrive (after shop closed) - signal wasn't an issue. Not sure if this is an app problem or somewhere else in Service NSW's system, but its most important function needs to properly work.<br> :date: __2021-01-07 08:02:03__
+> Difficult to change password on a single mobile device without being able to close security code window<br> :date: __2021-01-14 01:10:40__
 
-> Went to a Cafe in Yass today. Tried at least 10 times to log in and use the app. It failed every time. Wouldn't even accept my 4 digit pin. Not very happy. Had to do the old way...grrr!!!!<br> :date: __2021-01-07 07:35:24__
+> QR codes at Coles and Kmart never work for me, even at multiple locations. Some bus QR codes don't work either. It gets frustrating and I wish there was a way to manually check in to a location on the app without requiring recognition of the QR code.<br> :date: __2021-01-13 01:28:02__
 
-> I cant even download the app it just keeps saying pending have been trying all day.was using it before then it didnt work so I uninstalled and tried to re install no luck what shoild I do<br> :date: __2021-01-07 06:40:01__
+> Covid checking work about 60% if the time. With businesses thst use other qrs it's 100%. Also the government lied about giving millions in stimulus as it's only available on this app and less than half of the residents have the app and less can make it work.<br> :date: __2021-01-12 08:26:04__
 
-> I cant long in to my account<br> :date: __2021-01-07 05:02:17__
+> I can't log in, can't do anything as the app keeps telling me to add correct email address 👎<br> :date: __2021-01-12 07:23:30__
 
-> Loads to slow after loging in with the pin<br> :date: __2021-01-07 04:50:23__
+> Painful to use<br> :date: __2021-01-12 04:10:53__
 
-> Generally good, but won't save one of my checkouts, so it looks like I have signed into a Lithgow venue every day, so must checkout again before I can check in elsewhere. Went once for lunch when passing through town. Pretty bothersome.<br> :date: __2021-01-07 04:32:18__
+> The app does let you log out sometimes<br> :date: __2021-01-12 01:17:41__
 
 
 
@@ -322,24 +322,24 @@ The Service NSW app has been installed by more than **1000000** times. At this t
 <img src="1_star_reviews_wordcloud.png" alt="au.gov.nsw.service 1 reviews"/>
 </p>
 
-> Have tried for 3 days to download app - ANY BLOODY APP. Will NOT operate!!<br> :date: __2021-01-09 08:48:40__
+> I'm a Qld security guard. I shouldn't need a NSW licence to use your app to verify a NSW digital id when working in qld<br> :date: __2021-01-16 08:43:01__
 
-> App is garbage, does not work properly on anything other than Apple or Samsung.<br> :date: __2021-01-09 06:21:11__
+> Cs is w<br> :date: __2021-01-16 04:29:11__
 
-> I went to open my app to show my licence and found a new page look. I put my 4 digit passcode and didn't work.<br> :date: __2021-01-09 05:38:58__
+> Really frustrating getting this to work<br> :date: __2021-01-15 23:41:58__
 
-> Been trying to download this app on my phone for day but just keeps saying pending. Did it in few minutes on my Ipad. So annoying.<br> :date: __2021-01-08 08:12:43__
+> I can't log into venues with out a code. I done a code but still doesn't work. What is going going on. Ok<br> :date: __2021-01-15 23:05:34__
 
-> Poor wont except my Gmail account<br> :date: __2021-01-08 07:58:06__
+> Terrible! Where is covid reporting section?<br> :date: __2021-01-15 08:39:44__
 
-> I have an older Samsung phone which will not support the service nsw app. So to go for a swim in my local pool i have to buy a new phone! !!!<br> :date: __2021-01-08 05:23:45__
+> Useless for downloading the COVID check in QR code app<br> :date: __2021-01-15 06:25:04__
 
-> Can't get it to work. Insists upon my registering for other services and won't simply allow me to use the QR<br> :date: __2021-01-08 03:40:39__
+> Would not load. Tried multiple times<br> :date: __2021-01-15 05:45:21__
 
-> This app was clearly written by s 12 year old child. It is rubbish. UPDATE: The app's update does not appear to keep account pin details. You cannot access the app without the pin. I had to delete the app and reinstall it just to be able to log in.<br> :date: __2021-01-08 02:56:51__
+> Could be easier to use<br> :date: __2021-01-15 01:12:07__
 
-> The covid check in just doesn't work. It won't retrieve my saved details but it also wont let me re-enter them, so I've had to uninstall it and use something else.<br> :date: __2021-01-08 02:25:32__
+> Was unable to downloud<br> :date: __2021-01-14 22:36:21__
 
-> My husband and I both downloaded the app to use, but everywhere we tried to use it kept refusing to accept our details. We went to Service NSW at Tweed Heads South today and spent the best part of an hour trying to get this rectified with absolutely no success. We kept getting a message that a code would be sent, but nothing came through for either of us. When you're in your 70s and attempting to do the right thing and the technology doesn't allow it what is one supposed to do. The suggestion that we get another phone was not at all helpful. If we can't get this fixed at the source what is the alternative?<br> :date: __2021-01-08 01:28:53__
+> I installed the app but it won't open.<br> :date: __2021-01-14 19:58:52__
 
 

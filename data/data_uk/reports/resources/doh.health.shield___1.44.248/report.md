@@ -147,25 +147,25 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="doh.health.shield 5 reviews"/>
 </p>
 
-> Excellent<br> :date: __2021-01-09 12:37:52__
+> Very good<br> :date: __2021-01-16 18:03:13__
 
-> Best app<br> :date: __2021-01-09 12:33:59__
+> Plise open the ap my mobile all Hussain app<br> :date: __2021-01-16 15:48:32__
 
-> Best way to stay safe and up-to-date<br> :date: __2021-01-09 12:06:49__
+> ويارا يارا 🤣😘😘😘😘😘😘🤣<br> :date: __2021-01-16 15:31:00__
 
-> Good app<br> :date: __2021-01-09 08:19:01__
+> A1 app<br> :date: __2021-01-16 12:39:13__
 
-> 👌<br> :date: __2021-01-09 04:38:20__
+> Good<br> :date: __2021-01-16 11:33:59__
 
-> ☝️<br> :date: __2021-01-08 18:15:27__
+> Well Mantained records<br> :date: __2021-01-16 10:50:55__
 
-> Right time receiving result<br> :date: __2021-01-08 16:37:07__
+> Good<br> :date: __2021-01-16 07:01:22__
 
-> Good aap<br> :date: __2021-01-08 15:42:47__
+> Good very good<br> :date: __2021-01-15 19:07:30__
 
-> Nyc<br> :date: __2021-01-08 15:19:58__
+> thes app very fast and very esy thats whay I like<br> :date: __2021-01-15 15:40:50__
 
-> Very good<br> :date: __2021-01-08 11:02:54__
+> Excellence app.very informative<br> :date: __2021-01-15 15:22:28__
 
 
 
@@ -174,6 +174,8 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="doh.health.shield 4 reviews"/>
 </p>
+
+> Nice working<br> :date: __2021-01-16 05:24:46__
 
 > Does what it says on the tin...would be better if you didn't have to have your location switch on to use it. Apart from that, no issues<br> :date: __2021-01-09 09:50:29__
 
@@ -193,8 +195,6 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 
 > Good app<br> :date: __2020-12-26 14:50:44__
 
-> The result is taking more time to get updated<br> :date: __2020-12-25 06:09:32__
-
 
 
 #### 3-star reviews
@@ -202,6 +202,14 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="doh.health.shield 3 reviews"/>
 </p>
+
+> its showing wrong credentials error while am trying login the app. since i am using same number from the beginning and I have registered with the same number, but now its showing that logout and login with another number ending with 748 which is not under my name. i have already send the mail but still there is no response. kindly advise me<br> :date: __2021-01-16 11:41:13__
+
+> Due to some reson I change my mobile num now i want to cheak my covid19 test result on alhosan uae app but i unable to cheak my result i already change my num at scraning center<br> :date: __2021-01-16 04:20:29__
+
+> Hi can you please tell me how i can get e letter on al hosn app , just today i got covid 19 first shot , please guide me<br> :date: __2021-01-15 20:16:00__
+
+> How can I change the associated mobile number?<br> :date: __2021-01-14 09:28:14__
 
 > Ok<br> :date: __2021-01-06 22:19:14__
 
@@ -215,14 +223,6 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 
 > The updated version is getting hanging..<br> :date: __2020-12-24 14:17:27__
 
-> Excellent..<br> :date: __2020-12-21 05:19:25__
-
-> Super<br> :date: __2020-12-18 11:45:39__
-
-> Hi. I have a problem with the app. I have installed it on my phone but the app stays on home screen only and I am supposed to fly to UAE in a couple of days . What will happen if the app doesn't work on my phone? Do I have to buy a new phone in order to be allowed entry into the country? Can someone please give me some answers. I don't know who to contact about this . Thank you<br> :date: __2020-12-13 14:12:12__
-
-> Good<br> :date: __2020-12-11 12:55:07__
-
 
 
 #### 2-star reviews
@@ -230,6 +230,14 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="doh.health.shield 2 reviews"/>
 </p>
+
+> First 4 months this application works very smoothly.But last December I did one covid test but still I didn't get report on alhosn.i registered 3 times complaints. But nothing happened. Finally one customer service madam provide me a watsapp no and informed me to send Emirates I'd,my covid report and screenshot of alhosan app.i send all details.But still no progress. Seriously worried about this application<br> :date: __2021-01-14 07:00:37__
+
+> Tests are not always showing and difficult to get contact with al hosn people. No one answering the phone or email.<br> :date: __2021-01-11 16:17:01__
+
+> How long this apps took to update covid- 19 vaccine status ???? Or star<br> :date: __2021-01-11 04:00:14__
+
+> I want to log in bt last one hour still didn't take password. Plz provide code<br> :date: __2021-01-10 19:57:06__
 
 > I know people using this app have way worse problems than I have but here is my take, I have one problem with the app why does it need my Bluetooth and location data all the time and why can't I make the choice if I want to get notified to know if there is anyone positive near me. The Bluetooth and location permission seems kinda creepy like they are trying to track your devices connected via bluetooth and track your location. That Is my problem with the app.<br> :date: __2021-01-03 14:43:47__
 
@@ -243,14 +251,6 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 
 > I've been re-installing, logging out/logging in again and again but still i cannot proceed to get my result. It always ask me some survey, can't able to submit because it keeps hangs up.<br> :date: __2020-12-30 06:55:43__
 
-> Good<br> :date: __2020-12-29 18:16:42__
-
-> Slow. .. can't understand the importance and value of using this application !!!!!<br> :date: __2020-12-29 05:39:11__
-
-> System very slow<br> :date: __2020-12-29 04:09:05__
-
-> Hi After installing this app, I can't proceed as it does not show the Yes / No option in the pre-conditions survey. So I can't move forward and do the submit. I tried the uninstallng of app and again installed the same. But still the same. Please rectify the issue. Thanks<br> :date: __2020-12-27 05:36:27__
-
 
 
 #### 1-star reviews
@@ -259,24 +259,24 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="doh.health.shield 1 reviews"/>
 </p>
 
-> This app is not working<br> :date: __2021-01-09 06:03:47__
+> Poor performance<br> :date: __2021-01-16 18:49:59__
 
-> Useless for me<br> :date: __2021-01-08 11:47:22__
+> This app does not login now which used to work perfectly before. Now it states "user not found" message. Also test results are not updated.<br> :date: __2021-01-16 18:11:28__
 
-> Its not opening .why didn't open this app<br> :date: __2021-01-08 08:10:50__
+> i download this app then i enter my number and it saying that "User not found & Wrong Credentials" so how I can know my result? what can i do? any help?<br> :date: __2021-01-16 17:57:35__
 
-> What's the purpose of switching on Bluetooth and disabling the battery optimization.if disabling the battery option the battery drains very fast and also the loading the app is very slow as well.<br> :date: __2021-01-07 09:46:15__
+> Not consistent apps and services<br> :date: __2021-01-16 14:27:19__
 
-> This app is not working as mentioned. It shows loading<br> :date: __2021-01-07 07:19:04__
+> My friend result is not reflecting in the app<br> :date: __2021-01-16 13:55:40__
 
-> It keeps telling me wrong credentials even though my phone number is correct<br> :date: __2021-01-06 14:13:50__
+> This app gives the wrong status Post Covid-19<br> :date: __2021-01-16 13:36:15__
 
-> Doesn't work most of the times.. when it works it is very slow<br> :date: __2021-01-06 11:20:58__
+> Not working ...its given headache to activate profile .current number using for this apps but apps give others namber which I m not useing any more. .........................<br> :date: __2021-01-16 11:02:19__
 
-> very high power consumption<br> :date: __2021-01-05 23:11:38__
+> I keep getting a wrong credentials when logging in. Its say i entered a different mobile number.<br> :date: __2021-01-16 10:06:29__
 
-> Pretty sad app. Poor support. Hasn't updated my star, or post vaccine status. No way to contact anyone through customer support, unless you want to spend a day waiting listening to the waiting tone. No response to emails. Frightful.<br> :date: __2021-01-05 09:14:14__
+> wont even open on my phone anymore, I keep opening the app only for it to close.<br> :date: __2021-01-15 11:40:33__
 
-> Always crash on huawei android 10<br> :date: __2021-01-05 01:41:56__
+> The app doesn't work....<br> :date: __2021-01-15 10:48:13__
 
 

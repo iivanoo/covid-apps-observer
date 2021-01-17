@@ -215,6 +215,8 @@ No recent reviews available with 2 stars.
 <img src="1_star_reviews_wordcloud.png" alt="com.mend.android.telemedicine 1 reviews"/>
 </p>
 
+> Is flawed. Can't sign in<br> :date: __2021-01-13 19:51:29__
+
 > Sucks<br> :date: __2021-01-09 04:25:07__
 
 > The app forces uses to use cameras. This may be efficient for most situations but for people using the app for therapy, some users are very self conscious about their appearance on camera and it makes users, such as myself, extremely uncomfortable.<br> :date: __2021-01-08 05:58:29__
@@ -232,7 +234,5 @@ No recent reviews available with 2 stars.
 > Could not download..<br> :date: __2020-03-28 18:18:08__
 
 > SURE TOOK A TURN FOR THE WORSE NOT A GOOD APP ANYMORE<br> :date: __2020-03-20 04:28:06__
-
-> Aß my<br> :date: __2019-12-11 02:36:37__
 
 

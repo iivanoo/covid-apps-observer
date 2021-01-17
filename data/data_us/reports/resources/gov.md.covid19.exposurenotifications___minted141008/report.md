@@ -157,6 +157,8 @@ The MD COVID Alert app has been installed by more than **100000** times. At this
 <img src="4_star_reviews_wordcloud.png" alt="gov.md.covid19.exposurenotifications 4 reviews"/>
 </p>
 
+> So far no good because after more than a month of having the app it never showed me a single case of someone near by being positive for Covid19 so this app needs work or be part of another better app...Alone is not working well or is there nobody actually positive for this Pandemic in my area, which I doubt. People do not want to show strangers about their situations, do not blame them, needs a new path and way to release this to us who do not, hope to never get such a horrible sickness...<br> :date: __2021-01-09 23:41:56__
+
 > Good<br> :date: __2021-01-02 15:41:38__
 
 > So far so good<br> :date: __2020-12-08 00:43:02__
@@ -179,6 +181,8 @@ The MD COVID Alert app has been installed by more than **100000** times. At this
 <img src="3_star_reviews_wordcloud.png" alt="gov.md.covid19.exposurenotifications 3 reviews"/>
 </p>
 
+> text<br> :date: __2021-01-15 05:40:42__
+
 > Works well I guess. My biggest gripe is no feedback on the number of contacts made. It would be good to know how many people I have passed by that use or do not use the app in a given day. Why trust the app if I have no idea if it is registering or missing the people I pass by? There aren't even numbers on how effective this app is for me or everyone in general.<br> :date: __2021-01-06 10:32:39__
 
 > I very much like the ideal that my state has this app with covid being so bad<br> :date: __2021-01-05 23:47:55__
@@ -197,8 +201,6 @@ The MD COVID Alert app has been installed by more than **100000** times. At this
 
 > Just Downloaded But Unable To Turn On Notifications. Now It's Just Useless. And No It's Not My Phone. Please Fix Bugs.<br> :date: __2020-11-20 15:15:26__
 
-> I wish there was a way to enable exposure notifications from multiple jurisdictions. As someone that works in dc/md/va it would be nice to have all 3 apps on and able to notify you, but you can only have one app enabled at a time.<br> :date: __2020-11-18 12:26:15__
-
 
 
 #### 2-star reviews
@@ -206,6 +208,8 @@ The MD COVID Alert app has been installed by more than **100000** times. At this
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="gov.md.covid19.exposurenotifications 2 reviews"/>
 </p>
+
+> I know I've been near several Covid positive people, so far I'm Ok ,, but not one alert . Yet<br> :date: __2021-01-12 20:39:18__
 
 > Very basic and not helpful, not as good as the PA state app. MD needs to up their game and show they're serious about getting us to use the app. The app directs us to the MD Dept of Health app which is not very user friendly on mobile devices. In comparison the PA app contains statistics by county, helps you determine if you need a test based on your symptoms, and how to report positive results. MD needs to include the same options.<br> :date: __2020-12-25 17:57:58__
 
@@ -225,8 +229,6 @@ The MD COVID Alert app has been installed by more than **100000** times. At this
 
 > I don't think this works. I've worked with covid patients since I installed this app and not once did this app alert me to anything.<br> :date: __2020-11-22 00:08:49__
 
-> I had this downloaded for about 2 weeks and this phone has not gone off , I go out to work every day, go to Walmart and crafts store, now I know this should have at least gone off by now.<br> :date: __2020-11-21 16:47:11__
-
 
 
 #### 1-star reviews
@@ -234,6 +236,8 @@ The MD COVID Alert app has been installed by more than **100000** times. At this
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="gov.md.covid19.exposurenotifications 1 reviews"/>
 </p>
+
+> The app literally doesn't work. There's not much else to say. When you open the app, and press "Turn on exposure notifications", all you get is an error saying "Something went wrong. Try again". I've had it installed for several weeks. It happened when I first downloaded it, and still continues. I'm going to uninstall it. It's pointless. EDIT: So, I decided to try this app again to see if it had been fixed. I guess I'll never know, because when I try to download, I just get an error message. ??<br> :date: __2021-01-13 07:50:43__
 
 > Tried to install on 2 different devices and app will only enable notifications on one of them. Update: 01/08/2021 Still unable to enable notifications on Xiaomi 10 Ultra<br> :date: __2021-01-08 11:08:20__
 
@@ -252,7 +256,5 @@ The MD COVID Alert app has been installed by more than **100000** times. At this
 > Doesn't work.<br> :date: __2020-12-26 14:50:18__
 
 > I've been exposed on two occasions. It never notified me. The covid contact tracers also called 3 days late. It's pointless.<br> :date: __2020-12-23 16:07:34__
-
-> Power hog<br> :date: __2020-12-22 23:21:05__
 
 

@@ -192,6 +192,10 @@ The Intermountain Connect Care app has been installed by more than **100000** ti
 <img src="5_star_reviews_wordcloud.png" alt="org.intermountainhealthcare.android.connectcare 5 reviews"/>
 </p>
 
+> So convenient. Can't wait to share with my college student. Be prepared to fill in information as you would at a doctor's office.<br> :date: __2021-01-14 23:20:59__
+
+> Nice that I didn't have to take off work. Easy to access!<br> :date: __2021-01-12 17:03:39__
+
 > 😷❤️🙏🙌<br> :date: __2021-01-09 07:31:47__
 
 > This was awesome,,,the practitioner was fast and very nice.<br> :date: __2021-01-07 16:48:24__
@@ -207,10 +211,6 @@ The Intermountain Connect Care app has been installed by more than **100000** ti
 > I'm very happy with connect care, they help me right away😊😊😊<br> :date: __2020-11-13 22:42:02__
 
 > Good!<br> :date: __2020-11-07 01:23:19__
-
-> Great visit!<br> :date: __2020-10-28 02:02:36__
-
-> Love this app! It has all your history of your health, doctor and ER visits, as well as all of the shots or medications that you have ever been put on with dates and detailed info of visits, or surgeries that you have had in your past.<br> :date: __2020-10-23 03:12:50__
 
 
 
@@ -304,6 +304,8 @@ The Intermountain Connect Care app has been installed by more than **100000** ti
 <img src="1_star_reviews_wordcloud.png" alt="org.intermountainhealthcare.android.connectcare 1 reviews"/>
 </p>
 
+> Update: 2 hours of down time now. I'm trying to see a decent doctor for a misdiagnosis from Dr. Tyler D'Hulst about my hand. He said tendonitis but it's turned into a bulge in my tendon and it feels like it split and latched onto an adjacent tendon in my hand. My middle and ring finger on my dominant hand will not move independently anymore 24/7/365 is a lie I've been trying to get on for an hour and it just says they're "upgrading my experience". I don't see downtime as an upgraded experience!<br> :date: __2021-01-16 10:02:42__
+
 > Why there is no summary or report of the appointment? The appointment was okay, the Dr. said she was gonna send in a request for OTC meds to my pharmacy, got there to pick it up, but of course it wasn't there and they had no idea and since it is OTC just go and pick it up. But what?! No details were given by the Dr about the type of meds and there is no record of it anywhere in the app. So basically the only way yo find out is to have another appointment for another $40....<br> :date: __2020-11-27 22:15:45__
 
 > It wouldn't accept passwords from two different accounts. Connected to internet too.<br> :date: __2020-11-24 07:29:04__
@@ -321,7 +323,5 @@ The Intermountain Connect Care app has been installed by more than **100000** ti
 > I waited two hours to be seen, and kept getting canceled on each time I got to my turn on the waitlist. Four different times. I hate leaving negative reviews, but this experience was awful and extremely frustrating.<br> :date: __2020-09-15 20:56:55__
 
 > Had an appt for my daughter with the EAP that we waited a couple of weeks for. I downloaded the app and set up an account a week in advance. We joined our appt 15 min early. When the appt time came the provider's video wouldn't connect. We were connected to wifi and had a strong signal. We kept waiting and about 10 min after appt time we got a notification that the provider had canceled the appt. We didn't get a call, the appt was just canceled due to the provider's connectivity problem.<br> :date: __2020-09-11 23:43:50__
-
-> I came in with someone else because even whispering caused severe pain and the doctor was adamant I spoke. Also called my viral tonsillitis covid.🙄<br> :date: __2020-09-07 20:56:41__
 
 

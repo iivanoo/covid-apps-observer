@@ -191,25 +191,25 @@ The Doctor On Demand app has been installed by more than **1000000** times. At t
 <img src="5_star_reviews_wordcloud.png" alt="com.doctorondemand.android.patient 5 reviews"/>
 </p>
 
-> Great<br> :date: __2021-01-09 16:28:33__
+> Drs are very committed to finding solution to health issues. Love the convience.<br> :date: __2021-01-16 17:39:54__
 
-> Very VERY convenient!<br> :date: __2021-01-09 11:52:35__
+> I've used Doctor on Demand several times and I'm very satisfied with each visit.<br> :date: __2021-01-16 17:13:38__
 
-> Great service keeps me from having to go to hospital during covid to get refills<br> :date: __2021-01-09 08:15:36__
+> Great Doctors.<br> :date: __2021-01-16 16:58:53__
 
-> Ive used this once. Everything went well. I don't have health insurance right now and figured paying the 75 dollars would be cheaper than actually going to a doctor's office. The visit was short and sweet. The doctor was very polite and comforting. I was being seen for possible covid-19 symptoms, the doctor ordered a test and sent me a not to send to work, both documents were delivered to the app while I was still on the call with her. I will probably use this service again in the future.<br> :date: __2021-01-09 04:13:25__
+> Professional and efficient care.<br> :date: __2021-01-16 16:34:19__
 
-> Very quick and helpful service.<br> :date: __2021-01-09 01:58:52__
+> It is the best way to see a doctor since the house call.<br> :date: __2021-01-16 14:07:40__
 
-> Best experience, friendly fast and took care of my needs<br> :date: __2021-01-09 01:36:43__
+> I love these doctors. They trulynate exveptional and they care so much for their patients. Thank you Doctor on Demand..<br> :date: __2021-01-16 04:56:33__
 
-> Love it! Easy to use and incredibly convenient. When my insurance approved introduced it I was sceptical, but it's the best thing that they've ever given us.<br> :date: __2021-01-09 01:33:44__
+> Love this app! It makes it so easy instead of long wait times!<br> :date: __2021-01-16 00:55:59__
 
-> Great communication and knowledge.<br> :date: __2021-01-09 00:17:58__
+> Outstanding app<br> :date: __2021-01-15 22:19:05__
 
-> Great<br> :date: __2021-01-09 00:05:26__
+> Excellent & easy to use!<br> :date: __2021-01-15 22:05:39__
 
-> Awesome app great help<br> :date: __2021-01-08 23:19:50__
+> Heaven!!!<br> :date: __2021-01-15 21:55:43__
 
 
 
@@ -218,6 +218,16 @@ The Doctor On Demand app has been installed by more than **1000000** times. At t
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.doctorondemand.android.patient 4 reviews"/>
 </p>
+
+> A little laggy<br> :date: __2021-01-16 17:04:05__
+
+> Very easy to use<br> :date: __2021-01-15 22:47:07__
+
+> App has shown much improvement since its first release. It was initially clunky and broken in places, but now it works smoothly and I was able to see a doctor relatively quickly.<br> :date: __2021-01-13 19:50:29__
+
+> Great<br> :date: __2021-01-13 04:53:28__
+
+> Once able to get to the provider. Very efficient. Now the process to get there needs some work. If I was able to rate each aspect. The app would get 1.5 stars. And the Dr. 5 stars.<br> :date: __2021-01-10 03:24:51__
 
 > Each time I have used the app, I have had a positive experience. All of the physicians I have seen this past year were very attentive, nice, and answered my questions. I just wish there was a better way to followup with the doctor regarding questions and prescriptions.<br> :date: __2021-01-06 01:11:45__
 
@@ -229,16 +239,6 @@ The Doctor On Demand app has been installed by more than **1000000** times. At t
 
 > Good<br> :date: __2020-12-24 19:08:19__
 
-> So far so good. I am still waiting for a good general physician.<br> :date: __2020-12-24 17:16:03__
-
-> Beside the low volume we had no other issues.<br> :date: __2020-12-20 12:49:54__
-
-> Dr sarah was awesome. Support is slow to response online, and instead to sort out why pharmacy didn't received prescription, they just asked to wait few hours, which didn't resolve issue. They are responsive and helpful on phone call. Issue was at CVS pharmacy.<br> :date: __2020-12-19 02:05:35__
-
-> Great doctor but glitchy video.<br> :date: __2020-12-18 21:16:15__
-
-> Amazing. Fast. Free.<br> :date: __2020-12-16 17:59:29__
-
 
 
 #### 3-star reviews
@@ -246,6 +246,8 @@ The Doctor On Demand app has been installed by more than **1000000** times. At t
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="com.doctorondemand.android.patient 3 reviews"/>
 </p>
+
+> Limiting treatment options and appointment options.<br> :date: __2021-01-12 19:15:09__
 
 > Nice and safe way to check symptoms before going in to ER.<br> :date: __2021-01-09 03:28:42__
 
@@ -277,8 +279,6 @@ The Doctor On Demand app has been installed by more than **1000000** times. At t
 
 > Not what I was looking for<br> :date: __2020-11-18 03:32:15__
 
-> Used to love this app when it first came out. It was more affordable for people without insurance or insurance that didn't cover it, $45. Now I see they've gone up to $75 and my current insurance doesn't cover any of it.<br> :date: __2020-11-08 20:47:36__
-
 
 
 #### 1-star reviews
@@ -286,6 +286,14 @@ The Doctor On Demand app has been installed by more than **1000000** times. At t
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="com.doctorondemand.android.patient 1 reviews"/>
 </p>
+
+> Poor customer service. Poor quality care.<br> :date: __2021-01-16 09:58:50__
+
+> Looks good on the surface, looks ARE deceiving. After your first or second appointment you won't be able to schedule with any regularity. This company had a lot of potential, but what an amateur organization.<br> :date: __2021-01-13 03:12:03__
+
+> Ok<br> :date: __2021-01-11 15:25:04__
+
+> They haven't answered me<br> :date: __2021-01-10 22:34:11__
 
 > Would not accept my insurance. Didn't bother going any further.<br> :date: __2021-01-05 16:36:18__
 
@@ -298,13 +306,5 @@ The Doctor On Demand app has been installed by more than **1000000** times. At t
 > All they want is your CC# when your insurance company covers everything this is a SCAM!!!?<br> :date: __2020-12-31 19:29:22__
 
 > Terrible. I made 2 appointments today. The first was ended automatically as soon as it started with no reason. The 2nd I waited for 15 minutes to then get connected with black video screen to then have that end automatically too. Waste of time. Not sure if there are better alternatives, but anything must be better than this. Especially if you value your time.<br> :date: __2020-12-29 02:03:43__
-
-> Multiple cancellations without notice by different doctors<br> :date: __2020-12-22 21:23:27__
-
-> If you choose to have Dr.Kamra Mays as your therapist, be prepared to have your appointment cancelled 3 minutes before your session with no explanation. No phone call. No text. Nothing. Not only is this unprofessional, its inconsiderate. If you do chose to use this app, avoid Dr.Kamra May's.<br> :date: __2020-12-22 00:33:06__
-
-> Be aware that you run the risk of not getting a diagnosis. You will still pay for advice that isn't helpful to your problem...<br> :date: __2020-12-21 18:04:17__
-
-> Have used this app before with zero issues. And then yesterday came and I have an appt. That appointment goes just fine and doctor says she will call me in a script which was the reason for appt - med refill. Usually within less than an hour the full summary is written by doc and posted on app for me and then the script is called in NONE OF THIS HAS HAPPENED. I have submitted questions for customer service for help and no one answers me. At all. Over 24 hours has passed and radio silence. ......<br> :date: __2020-12-20 05:49:48__
 
 

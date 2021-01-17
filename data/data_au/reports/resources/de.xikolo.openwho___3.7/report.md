@@ -192,6 +192,8 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 <img src="4_star_reviews_wordcloud.png" alt="de.xikolo.openwho 4 reviews"/>
 </p>
 
+> Get the things that wark in all honesty s Yes it does<br> :date: __2021-01-11 02:38:09__
+
 > WHO has offered great courses but we're expecting more courses within less time gap as it's been month's since WHO has launched any course.Secondly,there is no direct place offered in the WHO app to express our views.<br> :date: __2020-12-11 07:27:50__
 
 > Online course class is use full<br> :date: __2020-07-17 11:52:09__
@@ -209,8 +211,6 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 > Mast<br> :date: __2020-06-13 09:10:54__
 
 > Good app of thh halt.<br> :date: __2020-05-31 05:25:43__
-
-> Arch. eng.<br> :date: __2020-05-22 01:54:14__
 
 
 

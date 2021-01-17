@@ -190,6 +190,8 @@ The Kry – See a Doctor by Video app has been installed by more than **500000**
 <img src="5_star_reviews_wordcloud.png" alt="se.kry.android 5 reviews"/>
 </p>
 
+> Enkelt, snabbt och trevlig läkare 👍<br> :date: __2021-01-13 12:34:35__
+
 > Perfect<br> :date: __2021-01-08 09:59:31__
 
 > Love it. Got an appointment with a doctor for my knee problems in a week instead of waiting a month when I contacted Capio Primary Care<br> :date: __2021-01-05 11:31:29__
@@ -208,8 +210,6 @@ The Kry – See a Doctor by Video app has been installed by more than **500000**
 
 > Really helpful. You can talk to the real doctors as per the appointment. It is usually 30-49 mins. And it's free of charge for the consultation.<br> :date: __2020-12-22 14:38:16__
 
-> It was very easy to work with the app and the instructions were very well-writen. This solution to talk remotely with a physician during pandemy is very useful!<br> :date: __2020-12-21 13:51:42__
-
 
 
 #### 4-star reviews
@@ -217,6 +217,8 @@ The Kry – See a Doctor by Video app has been installed by more than **500000**
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="se.kry.android 4 reviews"/>
 </p>
+
+> It accomplishes the task very well.<br> :date: __2021-01-15 17:49:47__
 
 > Fast and reliable<br> :date: __2020-12-02 13:32:21__
 
@@ -236,8 +238,6 @@ The Kry – See a Doctor by Video app has been installed by more than **500000**
 
 > Easy to use<br> :date: __2020-03-08 13:12:13__
 
-> Good and easy<br> :date: __2020-03-07 11:45:17__
-
 
 
 #### 3-star reviews
@@ -245,6 +245,8 @@ The Kry – See a Doctor by Video app has been installed by more than **500000**
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="se.kry.android 3 reviews"/>
 </p>
+
+> While doctors are good, app does not have a "help, service desk" option. My prescription was not successfully added to my account, and there was no way to contact them for help. Only option was to pay 200sek and get a doctors appointment to fix a technical problem.<br> :date: __2021-01-14 12:24:37__
 
 > Hi dev. I've 2 things to say: 1_ Add some black/black hair people in the trailer in app. 2_ After pressing "get started with KRY" key, there's is not any sign that says "Swipe left" or "Swipe right" key for those pictures. bye.<br> :date: __2017-12-16 04:25:58__
 
@@ -255,6 +257,8 @@ The Kry – See a Doctor by Video app has been installed by more than **500000**
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="se.kry.android 2 reviews"/>
 </p>
+
+> The app itself is working fine. I spoke to two different doctors and got totaly different answers. The last one told me that I don't need to take any medicine. After controlling this with 1177 is this also wrong (antibiotics shall be used).<br> :date: __2021-01-16 12:02:59__
 
 > I had a urology question. Long delays with misleading 'just a few minutes', no good for specialist questions. Just go directly to the specialist if you need one. The app could have told me so via FAQ or so.<br> :date: __2020-12-03 18:27:22__
 
@@ -274,8 +278,6 @@ The Kry – See a Doctor by Video app has been installed by more than **500000**
 
 > No way to see Privacy policy in English version of app. No way to view the Swedish ToS during registration in the English version, even if it states that the Swedish edition will overpower the English one if there is anything lost in translation. This is a serious flaw. Also giving wrong time when booking meeting. Country and UTC + hour code does not match the actual time in specifc country. Not sure which one to follow. Country or UTC code?<br> :date: __2019-06-07 09:53:56__
 
-> Soon after downloading the app it says that you are not connected to the internet. Reinstalled twice same error.<br> :date: __2018-11-11 10:54:27__
-
 
 
 #### 1-star reviews
@@ -283,6 +285,8 @@ The Kry – See a Doctor by Video app has been installed by more than **500000**
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="se.kry.android 1 reviews"/>
 </p>
+
+> Not useful at all. Don't waste your time and call the vårdcentral directly.<br> :date: __2021-01-15 13:09:06__
 
 > Useless. I have a positive test from a lab that needs antibiotics. The doctor only referred me to another useless instance "vård central" where they never answer the phone and you can't book a time online if you are no longer living in Sweden. Swedish health care is a joke.<br> :date: __2021-01-07 19:37:47__
 
@@ -301,7 +305,5 @@ The Kry – See a Doctor by Video app has been installed by more than **500000**
 > it's useless in every sense of the word. the app does not show the doctor's messages. furthermore, the doctor is not able to prescribe any medicine. I just had to wait 2 days then stay at home for nothing.<br> :date: __2020-10-21 16:52:21__
 
 > Kom och revolutionerade vården. Nu dock rent girigt företag som roffar åt sig av välfärd genom att syna varje kryphål. Direkt skadligt för välfärden. Vart en trogen kund sen starten, men nu avinstallerat efter fusket i region sthlm uppdagades.<br> :date: __2020-10-11 09:35:27__
-
-> By agreeing to the terms of this service, you will be enlisted to one of their connected healthcare centres (i.e. they change your "Mina vårdval"). Techically not against the law, but really, really distasteful acting by these loophole seekers.<br> :date: __2020-10-02 06:13:07__
 
 

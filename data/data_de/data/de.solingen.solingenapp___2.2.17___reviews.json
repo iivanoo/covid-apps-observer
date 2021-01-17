@@ -1,15 +1,27 @@
 [
     {
+        "reviewId": "gp:AOqpTOE8qHOWxR43AYdIFCLtz1L5PII-GN3xvVzr-FGmg7iQ0wM6lGv4zdSIvVLM2f9qmIHSdOLNZaAORjJxHos",
+        "userName": "Klaus Schumacher",
+        "userImage": "https://play-lh.googleusercontent.com/-YLjpD3Xc7Eg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmFpmmYIvLZOxVk4r_3P40Ev1jKcA/photo.jpg",
+        "content": "nach Installation geht leider nichts mehr, kann man vergessen, schade",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2021-01-10 11:33:16",
+        "replyContent": "Hallo Klaus Schumacher, leider muss wegen des Fehlers in der vorherigen Version die aktuelle Version einmal gel\u00f6scht und neu installiert werden. Danach sollte es klappen. Sollte dies nicht funktionieren, w\u00fcrden wir uns \u00fcber eine Mail an appdev@solingen.de freuen. Dann k\u00f6nnen wir uns das genauer anschauen! Vielen Dank!",
+        "repliedAt": "2021-01-11 13:58:38"
+    },
+    {
         "reviewId": "gp:AOqpTOE4J2OnoU5TJgmjn-JA6gF652NvPu6BPSxNHwCqjXXvgkB8VYVUEFVHVjmwV6VV1FiZlbAVjVJTPBDWWR8",
         "userName": "Andre Seiffarth",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi25cGSOBxQWigY4TxJBc_fEHwHoChcR4kJQ2wuCg",
         "content": "Gibt man bei dem Abfallkalender eine Hausnummer ein die nicht in dem System ist funktioniert die Funktion nicht. Ergo existiert unser Haus nicht und man muss dann eine v\u00f6llig andere Hausnummer eingeben.Das Haus meiner Eltern gibt es auch nicht aber vielleicht leben wir ja in Bielefeld \ud83d\ude01 Die Wetterstation Eichenstrasse gibt es nicht obwohl sie im System auftaucht. Alles in allem irgendwie sehr unprofessionell und das ganze war wahrscheinlich nicht billig.",
         "score": 2,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "2.2.17",
         "at": "2021-01-08 21:17:37",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hallo Andre Seiffarth, danke f\u00fcr die R\u00fcckmeldung! Vielleicht hilft es Ihnen, vor\u00fcbergehend eine andere Wetterstation in Ihrer N\u00e4he auszuw\u00e4hlen. Bzgl. des Abfallkalenders kontaktieren Sie uns gerne per Mail an app@solingen.de, damit wir das Problem beheben k\u00f6nnen. Freundliche Gr\u00fc\u00dfe Ihr Solingen App-Team",
+        "repliedAt": "2021-01-12 09:20:27"
     },
     {
         "reviewId": "gp:AOqpTOEUYA3LRENAGNh4AC30AW-Hf1mBuDHmUMV2bAlW33PZChLJtj45SEHl0oUPMQiw5FGM8E6SfsrI62pfHoI",
@@ -20,8 +32,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "2.2.17",
         "at": "2021-01-08 16:41:01",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hallo Benedikt Rudzinski, leider muss wegen des Fehlers in der vorherigen Version die aktuelle Version einmal gel\u00f6scht und neu installiert werden. Danach sollte es klappen. Sollte dies nicht funktionieren, w\u00fcrden wir uns \u00fcber eine Mail an appdev@solingen.de freuen. Dann k\u00f6nnen wir uns das genauer anschauen! Vielen Dank!",
+        "repliedAt": "2021-01-11 13:57:28"
     },
     {
         "reviewId": "gp:AOqpTOFkCyzFj9zLBz_BBAmaDaKDiLfOKyif_XVMKm96QX1XEQ7YDWsy9Ic14PGGbPFmPtcGG63lYh65YrLoKTk",
@@ -421,7 +433,7 @@
     },
     {
         "reviewId": "gp:AOqpTOEL8OX8ZtTz6OFv7ryvKgft6Mun0VGn8tDAl4DlXmUin-sJGn5k-u6LtZVtwm49PbSVK7halKPp-7Sthcw",
-        "userName": "Katrin L\u00fccke",
+        "userName": "Katrin Pawelka",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh1hXAdCrtj1BgWnBHrwQ_umDDCi4lnVlZVpaY7mkw",
         "content": "Seit dem letzten Update nicht mehr zu gebrauchen.",
         "score": 1,

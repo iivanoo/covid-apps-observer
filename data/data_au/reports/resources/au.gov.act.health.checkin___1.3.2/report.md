@@ -218,6 +218,8 @@ The Check In CBR app has been installed by more than **10000** times. At this ti
 <img src="4_star_reviews_wordcloud.png" alt="au.gov.act.health.checkin 4 reviews"/>
 </p>
 
+> App makes check-in easy and I like how it remembers dependents for easy future check-ins. Would be nice if locations you frequented could be remembered and used in the same way for easy repeat check-ins without needing a code or to huddle around a QR code that someone had posted on the wall.<br> :date: __2021-01-14 07:37:19__
+
 > Its missing a checkout button to end ur visit to a place. It needs a time out to ensure correct contact tracing<br> :date: __2020-12-09 02:30:00__
 
 > First try today - so very relieved to have no issues at Restaurant. Guess there's no need to checkout on departure?<br> :date: __2020-12-04 03:55:33__
@@ -264,6 +266,10 @@ The Check In CBR app has been installed by more than **10000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="au.gov.act.health.checkin 1 reviews"/>
 </p>
 
+> Never works<br> :date: __2021-01-15 00:50:22__
+
+> I have been trying now for 2 days (at different times) to download this app without success ...dont know what else I can do ...it doesn't work as easy as others so looks like a manual check in is the only option ...not good !!<br> :date: __2021-01-13 21:52:54__
+
 > Total waste, every other state uses an internet portal rather than wasting money on a useless app<br> :date: __2021-01-08 03:03:58__
 
 > Went to check in after visiting a store at 10.50am. Scanned went to download app....10 mins later still waiting to download app. Is there an online option. Edit: it took over 4 hours to download. Before suggesting my settings are at fault, I had no problem updating or downloading other apps, just this one<br> :date: __2021-01-04 21:25:00__
@@ -279,9 +285,5 @@ The Check In CBR app has been installed by more than **10000** times. At this ti
 > Useless did not download in openable format with screen icon and no clear instructions how to do this<br> :date: __2020-12-17 21:22:12__
 
 > It won't work never get number<br> :date: __2020-12-05 07:21:05__
-
-> Didn't recognise QR codes at a pub and at the Australian National Museum. Strange as other QR code reader redirected me to this Canberra Check in app anyway. Android / Oppo<br> :date: __2020-11-25 22:13:55__
-
-> Won't install!! Running a Samsung Note 10 so shouldn't be a compatibility issue!!<br> :date: __2020-11-14 04:53:26__
 
 
