@@ -153,25 +153,25 @@ The Corona-Warn-App app has been installed by more than **10000000** times. At t
 <img src="5_star_reviews_wordcloud.png" alt="de.rki.coronawarnapp 5 reviews"/>
 </p>
 
-> 👍<br> :date: __2021-01-16 18:15:41__
+> Leider seit 3 Tagen keine Aktualisierung möglich, obwohl aktiviert Seit dem Update funktioniert es einwandfrei! Mit den Updates verbessert sich die App kontinuierlich. Das neue Tagebuch ist gut zu bedienen und hat eine einfache Struktur. Weiter so.!!!<br> :date: __2021-01-23 12:26:40__
 
-> Kein Risiko mehr, liegt vielleicht auch daran das ich meine Kontakte sehr reduziert habe und wir uns quasi nur noch online sehen. Hatte vor einer Woche eine niedrige Begegnung, seitdem alles heruntergefahren und alles Tip top!<br> :date: __2021-01-16 16:25:53__
+> Wenn es Menschenleben rettet bin ich dabei. Schaut euch die Datenschutzbestimmungen von jedem beliebigen kostenfreien Handyspiel an - da werden mehr Daten gesammelt.<br> :date: __2021-01-23 11:42:01__
 
-> Danke für das Kontakttagebuch<br> :date: __2021-01-16 16:14:26__
+> Alle in Deutschland sollten sich diese App installieren und aktiv nutzen. Gemeinsam gegen Corona! ✊<br> :date: __2021-01-23 11:19:40__
 
-> Installation läuft reibungslos. Die Bedienung und Einstellungen sind leicht und übersichtlich. Hinweis: Die Berechtigung, Fotos zu machen, ist notwendig, um den QR-Code vom Arzt scannen zu können. Edit: Die Energieeinstellungen müssen angepasst werden, damit die App sich weiterhin aktualisiert.<br> :date: __2021-01-16 14:01:49__
+> Ich finde sie perfekt gelungen, ich würde es sogar wünschen, beim täglichen Tagebuch wo die Orte einzutragen sind, dies per Standort eintragen zu können.<br> :date: __2021-01-23 10:37:47__
 
-> Alles ok. Kontakttagebuch eine praktische Ergänzung. Besser wäre natürlich, wenn einfach jede/r diese App benutzen würde!<br> :date: __2021-01-16 13:42:45__
+> Seit dem Update im Dezember wird keine Risikobegegnung mehr angezeigt. Auch bei Freunden nicht. Eine arbeitet in einer Arztpraxis und fährt täglich mit der U-Bahn hin. Sie hat angeblich keine Risikobegegnungen obwohl ihr Handy den ganzen Tag neben ihr an der Rezeption liegt. Ich fürchte die App macht ihren Job nicht mehr. Ich habe die App von Anfang an. Sie lief vorher bei mir ohne Probleme und zeigte nachvollziehbare Kontakte an.<br> :date: __2021-01-23 10:02:45__
 
-> Bei mir läuft die App einwandfrei. Danke!<br> :date: __2021-01-16 13:13:30__
+> Muss man haben<br> :date: __2021-01-23 09:09:49__
 
-> Die App lädt seit Tagen . Up date gibt es nicht. So völlig unbrauchbar. Ps 16.01 App läuft nach Neustart. Danke.<br> :date: __2021-01-16 10:29:01__
+> beruhigend<br> :date: __2021-01-23 07:22:49__
 
-> Super<br> :date: __2021-01-16 09:46:19__
+> Original 10/2020:Datenschutz by design. So muss das sein und bleiben. Toll! Ein (skallierbares) Widget, welches die Zahl der Kontate und den aktuellen Status zeigt wäre noch die Kirsche auf der Sahne. Update 01/2021: Fügt doch bitte irgendeine Art von Statistik-Anzeige ein. Der reguläre user möchte irgendwelche Zahlen angezeigt bekommen. Dann muss ich mich von dem Rest der Gesellschaft nicht mehr mit Phrasen wie "die App zeigt nichts an" nerven lassen. Ansonsten bitte weiter so! :)<br> :date: __2021-01-23 02:20:32__
 
-> Hat zuverlässig gewarnt.<br> :date: __2021-01-16 03:11:57__
+> funktioniert immer besset<br> :date: __2021-01-22 23:38:48__
 
-> Läuft gut das App<br> :date: __2021-01-15 23:27:46__
+> Hat alles funktioniert<br> :date: __2021-01-22 20:04:36__
 
 
 
@@ -181,25 +181,25 @@ The Corona-Warn-App app has been installed by more than **10000000** times. At t
 <img src="4_star_reviews_wordcloud.png" alt="de.rki.coronawarnapp 4 reviews"/>
 </p>
 
-> Sollte sie mal fertig werden könnte sie besser sein aber durch Datenschutzbestimmungen sehr eingeschränkt. Die die am lautesten schreien geben aber alles über Twitter Facebook und Paypal ins Netz und haben damit keine Probleme leider oft alles zuzeigen aber lebenswichtigen Schutz für sich und andere da pochen sie auf Datenschutz<br> :date: __2021-01-16 14:11:26__
+> Wir werden am Arbeitsplatz wöchentlich getestet, nur diesen Test kann man nicht posten<br> :date: __2021-01-23 13:00:57__
 
-> Ohne Datum der Begegnung wenig hilfreich<br> :date: __2021-01-16 12:36:54__
+> Es ist ja an sich eine schöne Sache, aber wenn ich getestet werde u. den Code zum Scannen erhalte u. ihn einscannen, gehe ich davon aus, das es dann auch gemeldet ist. Mein Test war positiv (bin wieder gesund) u. da habe ich gewiss kein Kopf dafür ständig in die App zu schauen ob ich da irgendwas ausfüllen muss. Als ich soweit gesund war u. wieder in die App schaute, stand da das ich die anderen ja "nicht warnen wollte". Natürlich wollte ich warnen, deswegen habe ich den Code doch eingescannt!<br> :date: __2021-01-23 12:16:36__
 
-> Warum gibt es keine Möglichkeit den QR-Code aus E-Mails direkt zu scannen, ohne Kamera. Man braucht immer ein zweites Handy oder einen Rechner an den man die Email erst weiterleitet um die dann von einem anderen Bildschirm scannen zu können. Wäre auch praktisch wenn die App die täglich aktuellen Corona Regeln und Gesetze anzeigen könnte. Am besten für das eigene Bundesland.<br> :date: __2021-01-15 23:46:41__
+> Was mich wundert das sich die App nicht öfters am Tag Aktualisiert. Daher ein Stern weniger. Aber Danke für das bereitstellen der App. Und lockert bitte den Datenschutz. Nachtrag: Danke für Ihre Antwort. Traurig und ein Armutszeugnis, dass die Provider sich so haben. Die großen können nicht genug in den Hals bekommen. Ich als kleiner Bürger der eh schon nicht geschätzt wird und in seinem Beruf und den ganzen Tag mit Menschen eng an eng zu tun hat, übernimmt gern die Mobilen Datenkosten.<br> :date: __2021-01-23 02:11:42__
 
-> Eine solide App, die ihren Sinn erfüllt. Die Angabe, ob man geimpft wurde wäre vielleicht hilfreich.<br> :date: __2021-01-15 23:08:47__
+> Meiner Meinung nach nicht genau genug .<br> :date: __2021-01-23 00:30:04__
 
-> Die Tagebuch-Option ist grundsätzlich prima. Wenn ich aber auch einmalige Kontakte/Orte eintrage (gerade das wäre sehr sinnvoll, die regelmäßigen kennt man ohnehin), wird die Liste unübersichtlich lang. Man müsste einzelne auch wieder aus der Liste löschen können!<br> :date: __2021-01-15 17:00:24__
+> Ich habe meinen Test von gestern gescannt. Allerdings steht als registriertes Datum immer noch der 12.12.20 (Mein erster Test) - danke für die Antwort. Es ist nicht so das ich verunsichert bin. Vielmehr kann ich mein negatives Ergebnis nicht vorweisen. Zb im Altersheim<br> :date: __2021-01-22 20:44:31__
 
-> Warn App funktioniert wieder. Danke an RKI für die prompte Antwort. Cache leeren und Smartphone neu starten hat geklappt. Der Fehler war das die App nicht aufhörte Daten zu laden.<br> :date: __2021-01-15 16:11:15__
+> Seit 2 Tagen keine Verbindung zum Server möglich (trotz Bluetooth). Was ist da los?<br> :date: __2021-01-22 19:07:32__
 
-> App läuft seit 13.01.2021 ununterbrochen im Überprüfungsmodus. Hielt die App für sinnvoll, aber jetzt werde ich sie löschen, da nur der Akkuverbrauch steigt. Schade, alles nicht wirklich durchdacht.<br> :date: __2021-01-15 13:05:53__
+> Keine<br> :date: __2021-01-22 17:10:20__
 
-> Diese App habe ich von Anfang an installiert. Vor ein paar Tagen gab es Schwierigkeiten mit der Überprüfung. Seitdem kann ich in google nicht mehr nachvollziehen, wie viele mögliche Kontakte überprüft werden.<br> :date: __2021-01-15 10:00:20__
+> Muss erst herausfinden wie die Corona app geht.<br> :date: __2021-01-22 12:42:22__
 
-> Das Kontakttagebuch könnte verbessert werden: die angelegten Orte und Personen können, einmal abgespeichert, nicht gelöscht oder korrigiert werden. Und der selbst angelegte Orte-/Personenkatalog läuft schnell voll (auch hier sollte ein Löschen möglich sein. Sonst wird die Auswahl unübersichtlich.<br> :date: __2021-01-14 20:09:39__
+> Aktuell öffnet sich die App, aber der aktuelle Status wird nicht geladen. Die App vermeldet dauerhaft: "Daten werden heruntergeladen..." Eigentlich finde ich die App gut. Update: Der Status wird wieder geladen.<br> :date: __2021-01-22 08:51:01__
 
-> 1. Daten konnten 1-2 Tage nicht zu Ende heruntergeladen werden, hier wäre ein timeout und eine Fehlermeldung über gestörte Server angebracht. 2. Wahrscheinlichleit dass die App einen Coronafall meldet bei 25% dt. Nutzern: 25% * 25% = nur etwa 6%! Um diesen Wert zu erhöhen, sollten hier u. in der öffentlichen Werbung f. diese App ALLE Voraussetzungen klar aufgelistet werden: min. OS-Version, App ist installiert, Bluetooth u. Ortungsdienste an, Internet 1x täglich an<br> :date: __2021-01-14 19:45:35__
+> Gut<br> :date: __2021-01-21 23:02:43__
 
 
 
@@ -209,25 +209,25 @@ The Corona-Warn-App app has been installed by more than **10000000** times. At t
 <img src="3_star_reviews_wordcloud.png" alt="de.rki.coronawarnapp 3 reviews"/>
 </p>
 
-> Bring mir nicht viel, dann ist es zu später<br> :date: __2021-01-16 16:13:34__
+> Es ist nicht schön das man einen test nicht manuell eingeben kann, ich habe z.B. gar keine unterlagen dazu bekommen, sondern nur am Telefon gesagt bekommen ich sei negativ. Wie soll man das dann eintragen? Wird es zukünftig möglich sein die Impfung einzutragen?<br> :date: __2021-01-23 12:54:59__
 
-> Auch nach Update auf V 1.10.1 am 14.1. aktualisiert sich die App nicht. Letzte Aktualisierung am 12.1.. Android 8.1.0. Hotline ist so was von hilflos, der Rat "Beenden erzwingen und dann läuft sie wieder" hat nichts gebracht.<br> :date: __2021-01-16 14:43:11__
+> Mein Testergebnis musste ich manuell einfügen lassen, bei Anderen ging dies automatisch. Auch die Warnungen kommen arg zeitversetzt. Traurig dass der Staat für so etwas Millionen ausgegeben hat, ist ja nur unser Geld .<br> :date: __2021-01-23 12:38:29__
 
-> Wenn man das Testergebnis löscht ,dann kann man den QR Code auf dem selben Gerät nicht mehr einlesen ,weil dieser abgelaufen oder schon registriert ist. Auf dem selben Gerät sollte dieses schon möglich sein<br> :date: __2021-01-16 10:10:44__
+> Pleiten, Pech und Pannen... Seit Wochen wird angezeigt, die App sei am 26.01. aktualisiert worden- heute haben wir erst den 22.01. Auch sonst habe ich nicht den Eindruck, dass sich irgendetwas tut in der App.<br> :date: __2021-01-23 12:30:27__
 
-> Diese App lohnt sich nur beim Einkaufen und Reisen. Wenn Menschen, die zum Beispiel positiv getestet wurden, sofort diese App installieren und ihre aktuellen Daten eingegeben, wäre das gut für die Auswertung.<br> :date: __2021-01-16 09:35:28__
+> Muss noch bearbeitet werden!!!<br> :date: __2021-01-23 10:52:16__
 
-> Eigentlich ganz okay aber, ich kann nicht meine Ergebnisse eintragen, ich werde in regelmäßigen Abständen von meinem Arbeitgeber angestrichen und im Haus internen Labor wird dann der Abstrich untersucht, ich bekomme dann eine SMS wo ich mein Ergebnis einsehen kann, leider kann eben dieses Ergebnis nicht in die App eintragen! Deswegen nur 3 Sterne<br> :date: __2021-01-16 03:37:31__
+> Wäre es nicht auch hilfreich zu alarmieren wenn ich mich in ein erhöhtes Risikogebiet begebe. Diese Daten könnten ja zentral eingespeist werden.<br> :date: __2021-01-23 10:30:05__
 
-> An sich eine gute Idee. Aber ich denke, dass in Anbetracht der Virusmutationen, die ja eine schnellere Infektion verursachen sollen, die Parameter der Kontaktanalyse (Entfernung, Kontaktdauer) angepasst werden müssen.<br> :date: __2021-01-15 22:09:12__
+> "Er war stets bemüht" stand früher oft in meinem Zeugnis. Das gilt auch für die App. Sie macht was sie tut, aber das ist leider viel zu wenig. Warum gibt es keine Option, das man mehr Daten angeben oder teilen kann? Ich wäre auf jeden Fall bereit mehr Daten zu teilen, wenn es hilft die Ansteckungskette nachzuvollziehen. Wenn z.B. Google eine WarnApp heraus bringen würde, hätten die schon mehr als ausreichend Daten von der Menschheit verfügbar.<br> :date: __2021-01-23 10:22:47__
 
-> Seit Mittwoch lässt sich die Risiko-Ermittlung nicht mehr aktualisieren. Wie kann der Fehler behoben werden.Wenn<br> :date: __2021-01-15 22:00:35__
+> Update 23.1.2021 musste die App deinstallieren da sie plötzlich nicht mehr funktioniert hat, bin etwas enttäuscht, da ich mit Risikopatienten arbeite und auch selbst dazu zähle 🙈🙈<br> :date: __2021-01-23 09:56:52__
 
-> Ich würde Mal sagen die diese App würde ich mich nie runter laden also<br> :date: __2021-01-15 20:19:20__
+> Nach 10 Tagen positiv getestet. Eingescannt und den Anweisungen gefolgt. Alles io. Aber dann nach weiteren 5 Tagen negativ getestet. Diesen Test kann ich nicht einscannen da die App sagt ich soll in Quarantäne bleiben und der Bildschirm ändert sich nicht. Ist das Absicht? Da ich wieder raus darf warnt mein Handy obwohl ich negativ bin.<br> :date: __2021-01-23 09:47:56__
 
-> Hatte heute die Meldung: 1 Begegnung mit niedrigen Risiko. Diese Person wurde auch positiv auf Corona getestet. Nach dem ich das neueste Update gerade geladen habe. Kommt die Meldung: kein Risiko-Begnung. ?? Was stimmt denn nun. Hatte ich eine Begegnung oder nicht ....<br> :date: __2021-01-15 17:23:23__
+> Eigentlich eine gute Idee, leider scheitert es mal wieder "an den Deutschen" und ihrer Verbohrtheit. Sprich die App ist defacto Augenwischerei. Wäre da nicht die Bürokratie und der Datenschutzwahnsinn in Deutschland, würden auch Familien erfasst werden, müssten die Apps als Pflicht vorinstalliert oder von Google und Apple per Update auf alle Geräte installiert werden dann könnte man auch brauchbare Informationen erhalten.<br> :date: __2021-01-23 09:15:20__
 
-> Wenn Sie geht ist sie super<br> :date: __2021-01-15 16:26:06__
+> Bis Dezember hatten meine Frau, ich und Bekannte regelmäßig niedrige Risikobegegnungen verzeichnet. Dies erschien soweit glaubhaft. Irgendwann hörte es dann vollständig auf, bei allen, Android + iOS. Keine Begegnungen mehr, nie. Ich habe beim RKI über den Wechsel auf ENF2 gelesen. Aber entweder waren vorher alle Begegnungen 100% falsch, oder jetzt funktioniert es gar nicht mehr, so drastisch ist der Unterschied. Wenn ich nun hier lese, wieviele Personen jetzt Probleme mit dem Melden haben...<br> :date: __2021-01-23 08:04:56__
 
 
 
@@ -237,25 +237,25 @@ The Corona-Warn-App app has been installed by more than **10000000** times. At t
 <img src="2_star_reviews_wordcloud.png" alt="de.rki.coronawarnapp 2 reviews"/>
 </p>
 
-> Seit November zeigt die immer grün an keine Anzeige mit kein gringer verdacht<br> :date: __2021-01-16 14:14:00__
+> Hab die Bewertung jetzt geändert. Seit Wochen keine Begegnung mehr trotz steigender Infektionen. Bei meinen Bekannten ist es auch so. Sie warnt irgendwie nicht mehr<br> :date: __2021-01-23 12:18:23__
 
-> Zur Zeit erscheint bei anschalten nur das Logo und sonst passiert nix. Neu installieren angebracht?<br> :date: __2021-01-16 13:44:47__
+> Die Ergebnisse werden sehr langsam weitergeleitet an die App.<br> :date: __2021-01-23 10:43:47__
 
-> Keine Ergebniseingabe ohne QR -Code möglich.<br> :date: __2021-01-16 12:41:41__
+> Aktuelle Version ist installiert, Risikoermittlung ist aktiv, aber trotzdem gibt es immer wieder Tage, an denen die App meinen Status nicht aktualisiert. Und ich dachte, bei Corona geht es auch um das schnelle reagieren.<br> :date: __2021-01-23 09:45:44__
 
-> Leider werden die Tests die nicht beim Gesundheitsamt gemacht wurden nicht ausgewertet und man kann sie auch nicht eingeben. Erst wenn man einen Code vom Gesundheitsamt bekommt, kann das positive Ergebnis anzeigt werden. In den meisten Fällen ist man bis dahin wieder genesen. Warum kann das Ergebnis von anderen Laboren nicht eingegeben werden, um einen schnellen Schutz zu zu bieten?<br> :date: __2021-01-16 12:25:44__
+> Ich würde auf den Datenschutz gerne verzichten unsere Gesundheit sollte wichtiger sein als persönliche Daten<br> :date: __2021-01-23 09:34:27__
 
-> Die App geht immer nich nicht wieder auf dem S10. Im Play store gibt es auch keine aktuelle Version trotz gegenteiligen Behauptungen von google<br> :date: __2021-01-16 12:01:33__
+> Ein Witz, ich hab mich lang gegen die App gesperrt dachte dann aber ok ich installiere sie doch. Aber.......so ein Blödsinn msn muss sich selbst eintragen wenn man ein positives Ergebnis hat ok nur......das ganze ist freiwillig und seit ich persönlich mittlerweile definitiv drei Leute kenn die ganz klar sagen NÖ MACH ICH NICHT GEHT KEINEN WAS AN dann macht es doch gar keinen Sinn???? Somit hab ich die App wieder deinstalliert<br> :date: __2021-01-23 08:35:35__
 
-> Bei mir läuft die Aktualisierung bis heute (16.1.21) noch nicht wieder. So macht die App keinen Sinn... Danke, der Neustart hat geholfen.<br> :date: __2021-01-16 09:59:22__
+> Ich habe die seit fast Anfang an! Der Glaube an der Nutzung dieser App Schwindet!Sie macht so kein Sinn!<br> :date: __2021-01-23 08:17:28__
 
-> Sie ist da +3, arbeitet auf meinen Moto Z2 Force +1. Macht Meldungen +1. Meldungen sind irritierend. Ampelsystem entspricht nicht meiner Risikobewertung -1. Hilft nicht eine reflektierte Selbsteinschätzung zu machen -1. Hält seit Monaten technische Schwierigkeiten vor und ändert nichts an der Umsetzung-2 Gestern hatte ich die zweite Begegnung in 14 Tagen und ich weiß noch nicht Mal wann. 2 Sterne<br> :date: __2021-01-15 22:14:38__
+> Die App hat eine zulange Übermittlungsdauer. Mein Test wurde positiv angezeigt, und mein Mann hatte 5 Tage später erst die Warnung erhalten das er eine Risikobegegnung hatte. 5 Tage sind zu lang. Desweiteren steht bei mir nachdem ich auf test übermitteln gedrückt habe immer noch vielen Dank. Ich komme da überhaupt nicht mehr zurück. Am 11.01 test übermittelt und bis heute steht da Vielen Dank das Gesundheitsamt meldet sich telefonisch bei Ihnen. Testergebnis nicht downloadbar<br> :date: __2021-01-23 00:33:21__
 
-> Naja was soll man sagen... die meisten haben ja schon erwähnt wieso diese App so wenig Sterne bekommt. Bei mir hängt sie immer und lädt nicht und komischerweise seit dem ich die App nicht mehr habe, hält der Akku auch wieder länger .<br> :date: __2021-01-15 21:23:50__
+> Bin total enttäuscht. Hatte auf mehr gehofft, aber so wie sie ist, bringt die app nicht besonders viel.<br> :date: __2021-01-22 22:18:45__
 
-> "Daten werden heruntergeladen..das kann mehrere Minuten dauern. Vielen Dank für Ihre Geduld." Von wegen Minuten. Meine Geduld wird jetzt seit 3 Tagen getestet. Kein Ende in Sicht. Was soll das?<br> :date: __2021-01-15 21:00:15__
+> Hat nicht ganz funktoniert<br> :date: __2021-01-22 21:49:42__
 
-> Nicht nachvollziehbare Meldungen, keine Hotline verfügbar<br> :date: __2021-01-15 18:23:19__
+> Nach 14 Tagen immer noch kein Testergebnis eingestellt. Somit kann in einem positiven Fall auch nicht rechtzeitig gewarnt werden...🤷🤷<br> :date: __2021-01-22 20:53:55__
 
 
 
@@ -265,24 +265,24 @@ The Corona-Warn-App app has been installed by more than **10000000** times. At t
 <img src="1_star_reviews_wordcloud.png" alt="de.rki.coronawarnapp 1 reviews"/>
 </p>
 
-> Der Tiger ohne Zähne.... Schade für das verschwendete Steuergeld.....<br> :date: __2021-01-16 19:03:11__
+> Schwesig bringt Kohl-Liebchen aus der Fassung. Aber ihr kaltes Herz schlägt (...) weiter. Kohl-Liebchen auf BPK: es sei "nicht interessant, wieviel Impfstoff wir bestellt haben." = Volk, Schnauze! Die Ministerkonf. sind Ermächtigung pur. Es gibt keine epidemische Lage von nationaler Tragweite. Das Kartell aus CDU, CSU, SPD, LINKE=MauermörderSED, B90/GRÜNE, FDP arbeitet seit spät. 2015 gegen Deutschland. Die nächste Sozialismus-Diktatur nimmt Fahrt auf. Alles schon wieder vergessen? _Wahlen_2021_<br> :date: __2021-01-23 13:07:25__
 
-> Der letzte Mist. Und hierfür hat der Steuerzahler Millionen bezahlt. Nicht 1 Stern wert. Auf die Frage vom Robert-Koch-Institut..nein ich habe keine Fehlermeldung. Ich kann den Sinn dieser App nicht nachvollziehen. Außer das die App den Speicherplatz meines Handys belegt tut sie sonst nichts. Ich hatte denifitiv Kontakt mit einer positiven Person und was macht die App, sagt mir das ich keine bedrohte Begegnung hatte. Ich habe einen Test gemacht. Alles o.k. Also was hat die App gemacht....nichts!<br> :date: __2021-01-16 18:58:05__
+> Eure Schrott App war von Anfang an ein Flop immer wieder neue Fehler jetzt wird der Akku leer gefressen und andere Apps funktionieren nicht mehr ihr müsst die app zurücknehmen und das Geld zurückzahlen hier werden Steuermittel verschwendet<br> :date: __2021-01-23 12:59:01__
 
-> Totaler Schrott. Seit Wochen Fehler 4000. Fehler tritt wohl auf, wenn auf den RKI Server zugegriffen wird und dieser null liefert. 65 Mio. sind nicht schlecht für eine APP, die stoisch immer die gleiche Fehlermeldung liefert . War leider bei der Einbindung von SAP und den Telekomikern zu erwarten. Hab mir jetzt mal die anderen Rezessionen angesehen. Macht wohl keinen Sinn mehr, den Schrott weiterlaufen zu lassen. Werde die APP jetzt löschen. Schämt euch für den Schrott.<br> :date: __2021-01-16 18:48:39__
+> Mein mit im Hausstand lebender Partner wurde positiv getestet und hat dies auch in der App angegeben. Bis heute zeigt mir meine App ein niedriges Risiko und keine Risikokontakte an. Bereits vor mehreren Wochen hatte ich plötzlich 7 Risikobegegnungen, eine Pushup Nachricht erhielt ich jedoch nicht, sondern sah die Warnung zufällig beim öffnen der App. Diese Risikobegegnungen stelle ich jedoch aufgrund meiner Kontakte auch in Frage. Gute Idee, funktioniert nur nicht wie sie soll.<br> :date: __2021-01-23 11:08:16__
 
-> Sinnlose App. Nach hochgelobten Updates werden keine Kontakte mehr angezeigt was angesichts der Lage in Sachsen sehr unwahrscheinlich ist wenn man mit dem öpnv fahren muss. Da ich mich an Kontaktbeschrännumgem halte brauch ich diese sinnlos-app nicht mehr...nach 9 Monaten deinstalliert<br> :date: __2021-01-16 18:28:58__
+> Hatte die App installiert um mein Testergebnis zu erhalten. Selbes Problem wie so oft. Gesundheitsamt hat angerufen aber in der App steht weiterhin das Testergebnis läge nicht vor. Wenn das System nicht funktioniert dann bitte diesen Service auch nicht anbieten. Mir ist klar dass hier wirklich auf Kante gearbeitet wird aber so macht das jedenfalls keinen Sinn.<br> :date: __2021-01-23 10:46:35__
 
-> Völlig unzureichend! 3 Familienmitglieder positiv und es wird mir nicht angezeigt. Ich war in unmittelbarer Nähe.<br> :date: __2021-01-16 17:40:33__
+> Eigentlich null Sterne. Hab mein Ergebnis vom test seit dem 20.01. vom Arzt und in der App steht immernoch Ergebnis liegt noch nicht vor. Wenn man die Pandemie wirskam bekämpfen will muss auch sowas funktionieren.<br> :date: __2021-01-23 10:34:42__
 
-> Bringt nichts Gutes, gar nichts.<br> :date: __2021-01-16 17:37:19__
+> Gute Idee bringt aber null. Wenn niemand einträgt das er postiv ist bzw ohne Smartphone einkaufen geht macht das keinen Sinn.<br> :date: __2021-01-23 10:21:45__
 
-> App bringt nichts. Infektionsraten steigen und steigen. Update: Einfach nur Wahnsinn wie die Steuergelder verschwendet wurden und SAP sich eine goldene Nase verdient<br> :date: __2021-01-16 17:32:28__
+> Die ist bißchen<br> :date: __2021-01-23 09:39:12__
 
-> Grottenschlecht gemacht. Hauptsache der Datenschutz wird beachtet. Wer macht sich denn die Mühe und gibt ein positives Testergebnis ein? Der deutsche Besserwisser, der trotz Quarantäne im Discounter einkauft bestimmt nicht.<br> :date: __2021-01-16 16:47:04__
+> Die Risikobewertung besitzt keine Aussagekraft und wiegt den Nutzer in falscher Sicherheit. Ich arbeite beruflich in Coronatestteams und im Rettungsdienst. Trotz ständigem Kontakt mit positiven Patienten werden mir NULL Risikokontakte angezeigt. Ich würde aber Mal behaupten, dass ich einem erhöhten bis hohem Risiko ausgesetzt bin. Der letzte Stern bleibt für die Testfunktion. Die PCR Teste meiner Kontrollabstriche wurden immer einwandfrei erfasst und die Ergebnisse mitgeteilt.<br> :date: __2021-01-23 09:16:24__
 
-> Dient dem Start hauptsächlich als Überwachungs App und wird dem user die sich für die app entscheidet unter einem anderen Vorwand als ich früh warn App angeben In Wirklichkeit erhält der staat weitere Informationen die dazu beitragen weitere schlimmere Maßnahmen durch zu setzen wie man ja mittlerweile feststellen an den sinnlosen überzogen Massnahmen Eigentlich wollte ich gar keinen bewertungsstern aber aber sonst hätte ich keine Bewertungen schreiben können<br> :date: __2021-01-16 15:52:15__
+> Ganz ehrlich? Bei mir an der arbeit 9 Fälle, 1 Kollege hat es mindestens eingetragen, aber es wird einfach nichts angezeigt<br> :date: __2021-01-23 09:14:43__
 
-> Habe die Corona-Warn-App seit dem Erscheinen im letzten Jahr nun zum vierten Mal auf meinem Samsung S20 deinstalliert und wieder neu installiert. Grund: Seit 2 Tagen lief nun schon die Aktualisierung der Daten!!! Dies ist wirklich sehr enttäuschend ☹! Ganz zu schweigen vom Aufwand, fehlen nun wieder alle Kontakte der letzten 14 Tage! Wie soll uns diese App wirklich bei der Bekämpfung der Pandemie helfen???<br> :date: __2021-01-16 15:51:38__
+> Ist schon merkwürdig, hatte Kontakt mit einer Person. Aber es ist alles grün. Naja .Man hat es versucht und der App eine Chance gegeben. Nun heißt es ab in den Müll damit.<br> :date: __2021-01-23 09:03:19__
 
 

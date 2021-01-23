@@ -206,6 +206,8 @@ The StopCOVID NI app has been installed by more than **100000** times. At this t
 <img src="3_star_reviews_wordcloud.png" alt="net.hscni.covidtracker 3 reviews"/>
 </p>
 
+> It has stopped working for over a week<br> :date: __2021-01-20 02:36:29__
+
 > Can you make a version of this app for the huawei app gallery?<br> :date: __2020-11-26 21:32:22__
 
 > Does not give n Ireland<br> :date: __2020-11-20 13:22:56__
@@ -223,8 +225,6 @@ The StopCOVID NI app has been installed by more than **100000** times. At this t
 > Mine barely checks (once in 14 days) but my friends checks multiple times a day. I'm nearer much more people than them so I don't understand.<br> :date: __2020-10-11 11:19:25__
 
 > I downloaded the app. I get that someone will notify me if I come into contact with someone who has the app and then tests positive. However, I feel it should give people either daily or weekly updates of places that the person has been and I wonder when two mobile phones that have the app downloaded on the phones - do they react to each other. Another thing is people on the island of ireland both north and south of the island should be able to use both apps together.<br> :date: __2020-10-06 23:59:37__
-
-> Whose bright idea was it to remove the statistics section (daily number changes etc.) from the app, and not adding a link to where the information can be found?<br> :date: __2020-10-05 18:42:45__
 
 
 
@@ -262,6 +262,12 @@ The StopCOVID NI app has been installed by more than **100000** times. At this t
 <img src="1_star_reviews_wordcloud.png" alt="net.hscni.covidtracker 1 reviews"/>
 </p>
 
+> It didn't send me any notification I happened to open my app and had 4 days self isolation left, that was certainly pointless considering I missed 6 days isolation and being around my co workers<br> :date: __2021-01-18 08:43:00__
+
+> Notified that I'd been exposed nine days previous and that I needed to isolate for one more day. Bit late notice considering I'm a key worker and have been working in the hospital during the previous nine days.<br> :date: __2021-01-17 04:45:13__
+
+> Why does it not check for exposure ive had 0 exposure checks for the past 25 days or so why???<br> :date: __2021-01-16 04:27:01__
+
 > Doesn't work properly<br> :date: __2021-01-06 12:46:58__
 
 > Tested positive but cant update in app so close contacts can be informed because you don't actually get a code to enter. Completely pointless!<br> :date: __2021-01-05 09:34:53__
@@ -275,11 +281,5 @@ The StopCOVID NI app has been installed by more than **100000** times. At this t
 > DISCUSTING app terrorism<br> :date: __2020-12-29 12:26:18__
 
 > I NEVER downloaded this app, yet, I have recently discovered it on my fone AND WITH ALL PERMISSIONS ALLOWED etc??? An explanation would be appreciated!!! Immediately deleted after discovery.<br> :date: __2020-12-28 21:41:01__
-
-> Yh it's a good idea if you're 6 years old assuming that everyone is going to download it... A small childish idea where we all live in a utopia downloading this app at the same time... This only works if the government forces you to download it by law... Only downloaded because I thought there was going to be a surprising new idea to uncover... Yh turns out it's like Pokémon GO without any Pokémon<br> :date: __2020-12-26 21:58:20__
-
-> Load of s\*\*\*\*<br> :date: __2020-12-22 19:54:32__
-
-> Shite dont work week late 😂😂😂😂🤬🤬🤬<br> :date: __2020-12-11 10:05:12__
 
 

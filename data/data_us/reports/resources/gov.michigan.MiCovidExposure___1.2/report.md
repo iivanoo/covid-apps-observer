@@ -126,6 +126,10 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="gov.michigan.MiCovidExposure 5 reviews"/>
 </p>
 
+> clear all my control<br> :date: __2021-01-20 08:51:04__
+
+> I know the privacy concerns, but I feel my health and the health of the people around me matter more.<br> :date: __2021-01-18 18:05:55__
+
 > Free<br> :date: __2021-01-04 16:26:34__
 
 > A little piece of mind for these times we live in<br> :date: __2020-12-29 13:49:56__
@@ -142,10 +146,6 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 
 > They let YOU KNOW exactily what is what about this chinese epidemic-19.<br> :date: __2020-12-13 02:49:59__
 
-> Feel safer<br> :date: __2020-12-11 04:10:05__
-
-> Nice to know of the Corona<br> :date: __2020-12-10 20:00:17__
-
 
 
 #### 4-star reviews
@@ -153,6 +153,8 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="gov.michigan.MiCovidExposure 4 reviews"/>
 </p>
+
+> Stopped notifying me/updating alerts. Uninstalled app then reinstalled it. Alerts commenced once agai Have had first vaccine on 9th of January.<br> :date: __2021-01-22 19:08:14__
 
 > I give it 4 stars needs improvement . but still great app.<br> :date: __2020-12-22 15:38:23__
 
@@ -172,8 +174,6 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 
 > Way to late and unlikely to work universally (eg. with folks from out of state) but it's better than the nothing burger we've had so far. Would be nice if it gave you an idea of how many contacts it recorded (Inna privacy preserving way) to let us know the adoption rate around us.<br> :date: __2020-11-17 03:59:58__
 
-> Its a good way to b notifield about the virus<br> :date: __2020-11-14 23:32:03__
-
 
 
 #### 3-star reviews
@@ -181,6 +181,10 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="gov.michigan.MiCovidExposure 3 reviews"/>
 </p>
+
+> Might work but having to call in to get a PIN is way too much effort. Literally nobody has time for that<br> :date: __2021-01-21 17:15:25__
+
+> How do you update?..hasn't worked since the 17 Jan 2021.<br> :date: __2021-01-21 13:03:49__
 
 > No notifications??? I worked in a hospital filled with COVID patients during an outbreak. Maybe none of them had this app installed. This app is an amazing concept. I apperciate the anonymity. I will continue to recommend this app to others!<br> :date: __2021-01-14 13:15:04__
 
@@ -198,10 +202,6 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 
 > Nice start, but it's deceptive giving static statistics. Need to do update stats daily or remove them!<br> :date: __2020-11-15 17:48:11__
 
-> The county health department is so overwhelmed I likely won't be contacted to get the pin # to put in my positive test. I can have no clear idea of how effective the app is, but it's better than nothing<br> :date: __2020-11-15 14:33:26__
-
-> Great idea<br> :date: __2020-11-15 00:39:09__
-
 
 
 #### 2-star reviews
@@ -209,6 +209,8 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="gov.michigan.MiCovidExposure 2 reviews"/>
 </p>
+
+> The app does NOT update as it should! It unexpectedly will stop and the only alternative is to delete it and then reinstall it. I have done this 3x....<br> :date: __2021-01-19 14:05:19__
 
 > Haven't had a logged exposure check since Dec 27 with no way to refresh.<br> :date: __2021-01-07 15:37:22__
 
@@ -228,8 +230,6 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 
 > Would be nice if the Stats screen wasn't 80% ad for John Hopkins. Would like to see better view of the stats.<br> :date: __2020-11-19 15:35:54__
 
-> Would not come in kept trying<br> :date: __2020-11-19 00:24:18__
-
 
 
 #### 1-star reviews
@@ -237,6 +237,12 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="gov.michigan.MiCovidExposure 1 reviews"/>
 </p>
+
+> There needs to be a button to check manually. My app hasn't automatically check since December 26th. What is the point of a notification app that doesn't even check to notify you.<br> :date: __2021-01-23 11:05:07__
+
+> Keeps stopping<br> :date: __2021-01-19 02:22:17__
+
+> I have had this app installed since day 1. I am an ER nurse who has cared for so many covid patients I couldn't even count. The whole time with my phone in my pocket. Not one exposure alert. I guess I wasn't really reviewing the app but the deployment or idea. If the state did this right they would incorporate this into discharge instructions for the covid positive patients.<br> :date: __2021-01-16 00:12:32__
 
 > After a positive test, my partner contacted local health department and notified them, they didn't know anything MI COVID or a PIN. 3 days later a contact tracer called my partner to report a positive test, this tracer also claimed no knowledge of a PIN or the MI COVID app. It took another 68 hours for contact tracers to call me and let me know that I had been exposed (someone I share a bed with), I had been quarantining for 6 days at this point, app is good - MDHHS utilization terrible.<br> :date: __2021-01-15 17:35:16__
 
@@ -251,11 +257,5 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 > Terrible design. I opened it, shows the last time it was checked was November 24th. Uninstalled and reinstalled still the same thing this time no last check showing. Find no way to check stats or anything.<br> :date: __2021-01-11 23:51:29__
 
 > Stopped updating.<br> :date: __2021-01-11 16:48:23__
-
-> Has not checked for exposures in 2 weeks.<br> :date: __2021-01-10 18:42:10__
-
-> Big brother Spyware. Biggest joke over a 99.99% survival flu. Huge power trip and over reach by authoritarian government allowed by weak people who do not value freedoms and have never experienced hardship in their lives. Creeping normality of tyrannical control. End the lockdown. No more masks. No more tyrannical control.<br> :date: __2021-01-10 08:37:12__
-
-> What a F\*\**ing Joke<br> :date: __2021-01-09 04:28:07__
 
 

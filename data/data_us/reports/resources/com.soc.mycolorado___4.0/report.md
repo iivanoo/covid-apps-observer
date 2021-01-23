@@ -186,6 +186,18 @@ The myColorado app has been installed by more than **10000** times. At this time
 <img src="5_star_reviews_wordcloud.png" alt="com.soc.mycolorado 5 reviews"/>
 </p>
 
+> Awesome app<br> :date: __2021-01-23 05:00:56__
+
+> App seems to work great so far! I really like that Colorado is working to make secure digital ID a reality.<br> :date: __2021-01-21 18:37:09__
+
+> Essential<br> :date: __2021-01-20 21:56:38__
+
+> Perfect app<br> :date: __2021-01-19 04:33:16__
+
+> Very easy to use and convenient<br> :date: __2021-01-18 19:42:16__
+
+> Excellent app.<br> :date: __2021-01-16 20:26:03__
+
 > I feel safer when I have a Colorado id at my fingertips. This is very easy to install and I always have id available. Thank you<br> :date: __2021-01-15 16:28:22__
 
 > Really sharp and innovative, the app to use for our now generation.<br> :date: __2021-01-14 06:45:02__
@@ -193,18 +205,6 @@ The myColorado app has been installed by more than **10000** times. At this time
 > Nice<br> :date: __2021-01-09 22:35:06__
 
 > It would not work on my phone. But then I got a new, better phone where it works fine.<br> :date: __2021-01-02 06:04:30__
-
-> Easy to use<br> :date: __2020-12-29 18:47:12__
-
-> Really like this. In this day and age of technology and convenience, this is awesome.<br> :date: __2020-12-21 16:14:02__
-
-> Very helpful<br> :date: __2020-12-20 00:00:25__
-
-> First state in the country with a legal digital identification. So cool!!! Also access to medical rec card via this app<br> :date: __2020-12-19 18:35:15__
-
-> Very easy to use and upload information. Wish all agencies along with TSA accepted the digital documents.<br> :date: __2020-12-18 01:09:35__
-
-> Really pleased with the app, can't wait till everybody understands and accepts digital IDs.<br> :date: __2020-12-16 23:20:43__
 
 
 
@@ -298,6 +298,12 @@ The myColorado app has been installed by more than **10000** times. At this time
 <img src="1_star_reviews_wordcloud.png" alt="com.soc.mycolorado 1 reviews"/>
 </p>
 
+> Junk. It doesn't validate any information. Uninstalling<br> :date: __2021-01-23 01:48:13__
+
+> App is broken. App crashes when scanning ID to create account. (tested on multiple devices)<br> :date: __2021-01-18 23:42:02__
+
+> Application won't scan my colorado ID, crashes on account creation.<br> :date: __2021-01-17 01:20:23__
+
 > This app is ridiculous. I keep installing it over and over and over and over again and restarting my phone over and over and over and over again and everytime I try to scan my ID the app crashes. This is beyond frustrating I don't see why I can't just physically enter in my information this is so stupid.<br> :date: __2020-12-24 00:50:17__
 
 > Wont download<br> :date: __2020-12-23 06:08:34__
@@ -311,11 +317,5 @@ The myColorado app has been installed by more than **10000** times. At this time
 > Looks like it would be a great app, if it worked. . . App crashes every time I scan the back of my license. I tried restarting the phone, not having any other apps in use, no luck.<br> :date: __2020-12-09 19:20:12__
 
 > ID scanner is hot garbage, can't create account<br> :date: __2020-12-06 01:51:33__
-
-> Try and do the facial recognition blacks out my camera, if you wanted to steal ppls info in Colorado just ask don't make an app that doesnt even work. Disgraceful!!! Your not even trying to improve Coloradan lives at all, just trying to line each other pockets while we continue to suffer. Pathetic!<br> :date: __2020-11-15 21:40:36__
-
-> Took me literally 16 tries and a waste of 30 minutes of frustration just for it to recognize my face in a brightly light room for my id. Absolutely frustrating<br> :date: __2020-11-03 00:19:49__
-
-> Businesses in Colorado are refused to accept digital ID. What is the point to have a digital ID? Website said "Colorado Digital ID may be accepted as a legal form of personal identification for use in Colorado". Keyword here is "may" instead of "shall". Business don't have to accept it if they are wish not to.<br> :date: __2020-10-19 01:09:50__
 
 

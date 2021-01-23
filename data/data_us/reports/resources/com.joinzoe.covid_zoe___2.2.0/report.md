@@ -188,25 +188,25 @@ The COVID Symptom Study app has been installed by more than **1000000** times. A
 <img src="5_star_reviews_wordcloud.png" alt="com.joinzoe.covid_zoe 5 reviews"/>
 </p>
 
-> Good to know that there is some effective monitoring of covid-19<br> :date: __2021-01-16 17:22:37__
+> Great app. Feels good to be helping in the fight against covid and the app design keeps improving.<br> :date: __2021-01-23 10:46:32__
 
-> Very straightforward so far. No glitches at all<br> :date: __2021-01-16 17:15:38__
+> Simple and straightforward to use.<br> :date: __2021-01-23 10:42:05__
 
-> Easy to use<br> :date: __2021-01-16 15:10:30__
+> Easy to use and strangely reassuring to see the weirdly odd symptoms described which I have had, listed on the options. It's nice to feel I am contributing something to research.<br> :date: __2021-01-23 09:10:25__
 
-> Easy to use, helps everyone else.<br> :date: __2021-01-16 15:08:03__
+> Worthwhile app, every one should do it and it takes no time to complete<br> :date: __2021-01-23 08:40:20__
 
-> Very good and trustworthy<br> :date: __2021-01-16 14:45:17__
+> Easy to use, and I get important updates<br> :date: __2021-01-23 08:01:23__
 
-> Excellent app. I feel I am doing something to help further understanding of covid whilst getting the latest data myself.<br> :date: __2021-01-16 14:39:17__
+> Quick and easy to use, good feedback through the news feed. One of the most accurate Covid models .<br> :date: __2021-01-23 01:24:11__
 
-> Easy to use and contribute to. Good useful info on it<br> :date: __2021-01-16 13:20:17__
+> Very quick and convenient way to report any symptoms of covid19 and see cases in your area and across the county. New information shared by Tim and the team detailing the range of symptoms is handy. Feels good to feed scientists some helpful data. Share this app to help out.<br> :date: __2021-01-22 23:54:28__
 
-> Easy to use and update.<br> :date: __2021-01-16 12:40:44__
+> Easy to use, informative.<br> :date: __2021-01-22 23:46:33__
 
-> Very easy to use.<br> :date: __2021-01-16 12:36:05__
+> Easy to use, access to interesting research and statistics.<br> :date: __2021-01-22 21:47:53__
 
-> Excellent information. However the 'daily, weekly, monthly' pop-up graph doesn't work on my phone.<br> :date: __2021-01-16 12:25:55__
+> Clear and to the point with a v good briefing each week .<br> :date: __2021-01-22 20:45:23__
 
 
 
@@ -216,25 +216,25 @@ The COVID Symptom Study app has been installed by more than **1000000** times. A
 <img src="4_star_reviews_wordcloud.png" alt="com.joinzoe.covid_zoe 4 reviews"/>
 </p>
 
-> You should re-examine Vit. D efficacy. Studies in Spain showed that calcifidiol given to people entering hospital with covid changed the outcome SIGNIFICANTLY. (Dr. John Campbell)<br> :date: __2021-01-16 16:02:24__
+> Generally good, but can't update to my new postcode area<br> :date: __2021-01-23 10:25:18__
 
-> Really easy to set up and use.<br> :date: __2021-01-16 14:39:24__
+> Runs better than it used to at the beginning. And every person using it helps the cause.<br> :date: __2021-01-22 19:25:41__
 
-> Easy to use<br> :date: __2021-01-16 13:16:27__
+> The only recommendation I would make is to give more choices to where the test is given. Mine was given in the parking garage in a medical specialists building.<br> :date: __2021-01-22 15:54:24__
 
-> Works efficiently...<br> :date: __2021-01-16 13:02:13__
+> Show the curve straight after data is entered not after returning to the first screen<br> :date: __2021-01-22 14:17:43__
 
-> Interesting<br> :date: __2021-01-16 12:13:59__
+> Works well, although comparing it with display my brother has on his. Mine is missing displaying the count of active cases in my area on the graph.<br> :date: __2021-01-22 13:49:11__
 
-> I can't get into the app any more!!Why not? I joined this app as it started. I had already contracted Covid. I reported my symptoms regularly,then my health. It was a privilege to contribute towards knowledge of this terrible disease and it's spread. I am deeply impressed with the way the app has evolved and learnt from the contributions of users. To combat the disease, it remains vital to collect and analyse data from the public and to interpret that data independant of political bias.<br> :date: __2021-01-15 20:50:01__
+> Great app quick and easy to use<br> :date: __2021-01-22 12:13:39__
 
-> Very useful, easy to use<br> :date: __2021-01-15 20:01:37__
+> Easy and straightforward. Just hope the data will help others.<br> :date: __2021-01-21 09:24:24__
 
-> Local data useful<br> :date: __2021-01-15 19:42:33__
+> The app changes to follow the changing understanding of the virus / pandemic<br> :date: __2021-01-21 08:46:57__
 
-> Useful, just frustrating you have Togo through the launch questions afresh every time.<br> :date: __2021-01-15 19:00:05__
+> Easy to do. Not much detail.<br> :date: __2021-01-20 16:57:50__
 
-> I was in Colchester Hospital Dec 2020. I was told that i had 20 mins of life left. Again i was in ITU with double pneumonia but my blood sats was 22.I was there for 3 weeks. Again I was admitted to hospital in March 2020 with asthma attack.I was admitted to hospital and was informed that a blood test was carried out. My asthma has become the worst its ever been. I was given a frame to assist me with walking i was very weak and easily tired, everything left me breathless and terribly fatigued.<br> :date: __2021-01-15 01:02:34__
+> The app and it's intentions are without doubt very good it does however seem to be less and less smooth to use every time a new feature/update is added.<br> :date: __2021-01-20 15:29:28__
 
 
 
@@ -244,25 +244,25 @@ The COVID Symptom Study app has been installed by more than **1000000** times. A
 <img src="3_star_reviews_wordcloud.png" alt="com.joinzoe.covid_zoe 3 reviews"/>
 </p>
 
-> Why cannot I do it on my PC much easier for me.<br> :date: __2021-01-15 22:56:48__
+> Great except notifications have stopped working so forget to report daily.<br> :date: __2021-01-23 10:10:03__
 
-> Reminders have stopped pushing through.<br> :date: __2021-01-15 12:47:41__
+> I was locked out of the app for 2 months - until I bought a new phone. The app was updated and I was unable to get the update to work on my phone. Some aspects of movement through the data entry are not clear e.g. enter test details and then how are you supposed to move on.<br> :date: __2021-01-23 09:59:28__
 
-> The graph display capability is very poor - the default scaling is terrible when you've seen a large rate increase in the past but want to view only the last week or month as you can't zoom in on the y-axis. Found it was also using lots of data storage space which I cleared to free up space on my device.<br> :date: __2021-01-15 11:27:20__
+> Been technical problems but rectified quickly. Easy to use and a lot of information on the site.<br> :date: __2021-01-23 08:28:21__
 
-> Keeps asking to report today's symptoms, I thought that I had.<br> :date: __2021-01-14 14:39:57__
+> Ever since the last update, I have been unable to get notifications working again. Also I've noticed people mentioning graphs??? I've never seen a graph.<br> :date: __2021-01-22 22:36:27__
 
-> Does what it says on the tin. However, since about mid-December, I don't get a notification reminding me to report in<br> :date: __2021-01-14 08:48:49__
+> Reminds me to update but sometimes I have to uninstall it then reinstall again<br> :date: __2021-01-22 20:37:27__
 
-> Good but doesnt always notify<br> :date: __2021-01-13 21:35:00__
+> It doesn't ask about my positive vivid diagnosis? And it's not very intuitive<br> :date: __2021-01-22 18:19:16__
 
-> Was great but for the last month it has stopped notifying me to enter data. Not sure if this is by design but I can't find a way to switch notifications on.<br> :date: __2021-01-13 20:29:47__
+> I have had issues with the app on the last two days with it failing to recognise my account. Yesterday I reinstalled it. Last week it was fine.<br> :date: __2021-01-22 12:08:33__
 
-> Stopped working. Opens up then displays a white screen. Reboot & still same.<br> :date: __2021-01-13 20:26:23__
+> Stopped working today. Crashes upon loading.<br> :date: __2021-01-22 12:02:07__
 
-> Important app but have to keep uninstalling due to loading glitch<br> :date: __2021-01-13 07:29:56__
+> This is a great app that's easy to use and displays research data very clearly. I gave it 5 stars initially but recently notifications have stopped for no reason<br> :date: __2021-01-21 16:11:23__
 
-> Relatively easy to install and use But when it asks if you've been infected it doesn't ask when In your area it counts number of cases that are self reporting but doesn't tell you how many are reporting which doesn't give a full picture<br> :date: __2021-01-11 13:31:30__
+> Had worked fine until 20th January. Now a blank screen. Unable to log on. No reminders received.<br> :date: __2021-01-21 06:58:35__
 
 
 
@@ -271,6 +271,10 @@ The COVID Symptom Study app has been installed by more than **1000000** times. A
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="com.joinzoe.covid_zoe 2 reviews"/>
 </p>
+
+> My first vaccine date disappeared .<br> :date: __2021-01-20 16:53:26__
+
+> A giant missed opportunity. With the urgent need for better evidence on effective preventative or treatment options, why not collect data on a wide variety of products and practices while infection rates are so high? Any substance or routine correlated with lower infection or disease severity rates can then be prioritised for investigation. For example, N acetyl cysteine, quercetin, turmeric/curcumin, Nasal spray compounds or lavage, oestrogen, progesterone, daily hours slept, etc.<br> :date: __2021-01-20 15:26:26__
 
 > I am unable to report a problem with the app anywhere else, so I'm doing it here: recent update has added a mandotory blood group question before any other reporting options. I don't know my blood group, so cannot report! There is no option to skip or to choose "I don't know"<br> :date: __2021-01-16 16:54:02__
 
@@ -288,10 +292,6 @@ The COVID Symptom Study app has been installed by more than **1000000** times. A
 
 > It used to give me daily notifications to fill out the form but this stopped few months ago nothing I do can change this. Not sure if this is just me or others having the same issue.<br> :date: __2021-01-01 21:06:28__
 
-> Used it since the start but reminders stopped two months ago so forget to do it<br> :date: __2020-12-31 15:29:28__
-
-> Reminders just stopped working and I cannot find a way to restart them. So useless as I forget to report each day<br> :date: __2020-12-31 08:23:11__
-
 
 
 #### 1-star reviews
@@ -299,6 +299,8 @@ The COVID Symptom Study app has been installed by more than **1000000** times. A
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="com.joinzoe.covid_zoe 1 reviews"/>
 </p>
+
+> Since endeavouring to update the app I have not received a daily notification even though my app states Installed. Such a pity as I have updated daily throughout the pandemic.<br> :date: __2021-01-22 19:29:38__
 
 > Suddenly stopped working<br> :date: __2021-01-16 12:03:09__
 
@@ -317,7 +319,5 @@ The COVID Symptom Study app has been installed by more than **1000000** times. A
 > Informative and reassuring, great app, a couple of months on and now the app is just a white screen, unable to open, please fix<br> :date: __2021-01-06 11:04:54__
 
 > Stopped working 05 Jan 2021. Tried to uninstall then re install no good.<br> :date: __2021-01-05 19:22:08__
-
-> The app won't let me on since the update as I don't know what my blood group is.<br> :date: __2021-01-05 18:12:28__
 
 

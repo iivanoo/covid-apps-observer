@@ -1,15 +1,123 @@
 [
     {
+        "reviewId": "gp:AOqpTOHkOFRaabJhZSjbbkqifey4dOEZbO1fHYS7vEqhbylJM7Q43sKTXIOLqmTcDknbJsrmKY9YmlQv5Iu0-NU",
+        "userName": "Fredrick P",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ggyf8gtfSA2XdSWntypBWbyKvamKsHY6rq9V9YGlA",
+        "content": "There needs to be a button to check manually. My app hasn't automatically check since December 26th. What is the point of a notification app that doesn't even check to notify you.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.2",
+        "at": "2021-01-23 11:05:07",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOH4_tVC_wcHs-OOCu_EIZ4dFQ9AnLEhbFGKKn9w9lvL7oEoZ7hSeW1b-rOKJnL1DCsB8Uj-fWYso-OmpR4",
+        "userName": "Eduardo Morales",
+        "userImage": "https://play-lh.googleusercontent.com/-2a3puE5SiF4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnbNQQOdjfcpMThRfOXKqAIxtnI8w/photo.jpg",
+        "content": "Stopped notifying me/updating alerts. Uninstalled app then reinstalled it. Alerts commenced once agai Have had first vaccine on 9th of January.",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.2",
+        "at": "2021-01-22 19:08:14",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHzj2u44oHxnfZHxCFikrNgHZ5IFqioJR0HsMUhkl0Sk5gvYIQt0mPLvuWiOr7B0IGJah4_DtI3wVu_byw",
+        "userName": "sumofty",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhrmXpJ3rJS_KElpWUkm4kirLOiV9Fz54MbFDO-_K4",
+        "content": "Might work but having to call in to get a PIN is way too much effort. Literally nobody has time for that",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.2",
+        "at": "2021-01-21 17:15:25",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOE5deTTc14Zf7LSNP8ciYVn4LhiO6fw6fKx4geIQfu9Ew9lfz8lPTJCHDGa6_zAn6VKaCulzRRFQPjZ9OU",
+        "userName": "Mary K Hendrick",
+        "userImage": "https://play-lh.googleusercontent.com/-l-XAzkiwG0k/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnHUcjI2UlF4vjEdS_P5OhimndKdw/photo.jpg",
+        "content": "How do you update?..hasn't worked since the 17 Jan 2021.",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.2",
+        "at": "2021-01-21 13:03:49",
+        "replyContent": "We understand how frustrating that is. Can you verify your Exposure Last Checked info (Exposures Tab) has stopped updating? You should see the latest Exposure Last Checked info on the Exposures tab. Please email our customer support team at mdhhs-micovidalert@michigan.gov so we can troubleshoot this further if you continue to experience issues.",
+        "repliedAt": "2021-01-21 16:52:26"
+    },
+    {
+        "reviewId": "gp:AOqpTOFce9E8b-DbSTtRjETvJOofeDtbClkIas6jWaX-7N5fF-nbfJRvsVDdQP-hFzOgurlR4t2VMWg_moV3DKM",
+        "userName": "Daxn Dox",
+        "userImage": "https://play-lh.googleusercontent.com/-QX1WCCqaImg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckBDrgaFfTyIPkbc7AwxhY3tl9LkA/photo.jpg",
+        "content": "clear all my control",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.2",
+        "at": "2021-01-20 08:51:04",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOEpJ32Z8ocMw3z6u6E7ACcf0uGvMRV-bKXHc9gbOmf5_8Y7iKpW9GbOCtb6RPF0d3PglPddjo0ZhnWERYg",
+        "userName": "Andrew Pilkington",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhH8HVmVL5QOh0gGNqJFRtud0OUhHFsVLub55O81A",
+        "content": "The app does NOT update as it should! It unexpectedly will stop and the only alternative is to delete it and then reinstall it. I have done this 3x....",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.2",
+        "at": "2021-01-19 14:05:19",
+        "replyContent": "We understand how annoying that must be. Can you verify your Exposure Last Checked information (Exposures Tab) has stopped updating. Please reach out to our customer support team at mdhhs-micovidalert@michigan so we can troubleshoot this further if you continue to experience issues.",
+        "repliedAt": "2021-01-19 21:54:44"
+    },
+    {
+        "reviewId": "gp:AOqpTOF-tQS1x9hbLA-iXim7faS9yW6OtAidw0V_zGWZxpIuqxNgS1Zki0hO9Y1nMCa0i8pF45jp5UIQUVvxvJM",
+        "userName": "N Day",
+        "userImage": "https://play-lh.googleusercontent.com/-jY8VMKAGtVA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn90EBb7Gu2rkZxaVuBuw2oBQNFjg/photo.jpg",
+        "content": "Keeps stopping",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.2",
+        "at": "2021-01-19 02:22:17",
+        "replyContent": "Can you please describe what is happening? Have you tried restarting your device or reinstalling the app? Please reach out to our customer support team at mdhhs-micovidalert@michigan.gov so we can troubleshoot this further if you continue to experience issues.",
+        "repliedAt": "2021-01-21 15:46:56"
+    },
+    {
+        "reviewId": "gp:AOqpTOEH18EH8wBA-HBWCDeNMsMRO1zNkCknFwQv5zAul8UP__H7v4Gds4pGxciryJ9ag8etMtNBsDVIKsRfiHE",
+        "userName": "John Lathrop",
+        "userImage": "https://play-lh.googleusercontent.com/-84W5oxJ8oZc/AAAAAAAAAAI/AAAAAAAAAGM/AMZuuclyU9g7Y-MAL-RjnL4m8HNIWkKpbQ/photo.jpg",
+        "content": "I know the privacy concerns, but I feel my health and the health of the people around me matter more.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.2",
+        "at": "2021-01-18 18:05:55",
+        "replyContent": "Thanks for the feedback. You can learn more here on how the MI COVID Alert app works to protect your privacy: https://www.michigan.gov/coronavirus/0,9753,7-406-99891_102592_102596---,00.html",
+        "repliedAt": "2021-01-19 21:48:27"
+    },
+    {
+        "reviewId": "gp:AOqpTOGbXcQayASI1LE_bbZ7PkAGvHchx4YUHM795wi5gLIqgVzur2qf7-U7Yt0i8qKIDY8EKw2saUdY7CMRb-Y",
+        "userName": "Matthew",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhfWlQqmzSJF-PZ7SytA_3PhOtO1A3uS35PFAg2ZZc",
+        "content": "I have had this app installed since day 1. I am an ER nurse who has cared for so many covid patients I couldn't even count. The whole time with my phone in my pocket. Not one exposure alert. I guess I wasn't really reviewing the app but the deployment or idea. If the state did this right they would incorporate this into discharge instructions for the covid positive patients.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.2",
+        "at": "2021-01-16 00:12:32",
+        "replyContent": "Thank you for downloading the app early on and your service as a front line worker. Please remember this app only works if others in the hospital have downloaded it and have self reported a positive test result within the app. Here is a link on how the app works: https://www.michigan.gov/coronavirus/0,9753,7-406-99891_102592_102594---,00.html.",
+        "repliedAt": "2021-01-15 15:32:40"
+    },
+    {
         "reviewId": "gp:AOqpTOHJmwo6roRaXs3XOKGfsxPhSDDA2ybtDnQPzGVtWjZ8-nBMkSRY3KcTXV8ZjOeTtxawnE8Aj7sFn3721pg",
         "userName": "TS Williams",
         "userImage": "https://play-lh.googleusercontent.com/-m0TpBcuYFD4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnVNw3-QwVvJdDdmgczp0HDyGpetg/photo.jpg",
         "content": "After a positive test, my partner contacted local health department and notified them, they didn't know anything MI COVID or a PIN. 3 days later a contact tracer called my partner to report a positive test, this tracer also claimed no knowledge of a PIN or the MI COVID app. It took another 68 hours for contact tracers to call me and let me know that I had been exposed (someone I share a bed with), I had been quarantining for 6 days at this point, app is good - MDHHS utilization terrible.",
         "score": 1,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 4,
         "reviewCreatedVersion": "1.2",
         "at": "2021-01-15 17:35:16",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "So sorry to hear about the troubles you are experiencing with the app and receiving a PIN. Could you please provide the local health department info you were trying to contact for the PIN. Please provide this info to our customer support team at mdhhs-micovidalert@michigan.gov so we can troubleshoot this further.",
+        "repliedAt": "2021-01-21 15:47:41"
     },
     {
         "reviewId": "gp:AOqpTOGw7kK83rnfCZXjbpifEPnOvCpTjOBmKmZhgiDcxUUadpe3izYd1B4vu41Slk4kox5es1zO0lHC8VucGBg",
@@ -41,7 +149,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjuNbXN6I8l21nkKxjkN5pnlr5iXmxyAhuSonR1",
         "content": "No notifications??? I worked in a hospital filled with COVID patients during an outbreak. Maybe none of them had this app installed. This app is an amazing concept. I apperciate the anonymity. I will continue to recommend this app to others!",
         "score": 3,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "1.0",
         "at": "2021-01-14 13:15:04",
         "replyContent": "Thank you for the feedback Brad. You are correct though, this app only works if others in the hospital have downloaded it and have self reported a positive test result within the app.",
@@ -80,8 +188,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.2",
         "at": "2021-01-13 13:37:18",
-        "replyContent": "To get your PIN, call your local health department first. You can also request a PIN through the MI COVID-19 hotline by dialing 2-1-1 or 888-535-6136. https://www.michigan.gov/mdhhs/0,5885,7-339-73970_5461_74040---,00.html. Please reach out to our customer support team at mdhhs-micovidalert@michigan if you need additional assistance.",
-        "repliedAt": "2021-01-13 16:56:42"
+        "replyContent": "To get your PIN, call your local health department first. You can also request a PIN through the MI COVID-19 hotline by dialing 2-1-1 or 888-535-6136. https://www.michigan.gov/mdhhs/0,5885,7-339-73970_5461_74040---,00.html. Please reach out to our customer support team at mdhhs-micovidalert@michigan.gov if you need additional assistance.",
+        "repliedAt": "2021-01-21 15:48:18"
     },
     {
         "reviewId": "gp:AOqpTOGHgRR_pHi4I21IsHvnAycNkx1j8kMRJWvRj6tUc338AJyOpTXfUmNJT8HIYuM8IQOGhUr1NrUhiOYiU_A",
@@ -89,7 +197,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-KxQIVplELQw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckkcQ0NPLLRjg-nL7GTHi2whDWWLw/photo.jpg",
         "content": "Terrible design. I opened it, shows the last time it was checked was November 24th. Uninstalled and reinstalled still the same thing this time no last check showing. Find no way to check stats or anything.",
         "score": 1,
-        "thumbsUpCount": 5,
+        "thumbsUpCount": 10,
         "reviewCreatedVersion": "1.2",
         "at": "2021-01-11 23:51:29",
         "replyContent": "Certain phone models may restrict notifications. In order to add the app to be exempt from a manufacturer's battery management (Samsung & others) which can cancel background tasks, preventing exposures: Settings > Device Care > Battery > App power management > Apps that won't be put to sleep. The stats button is located in the bottom right corner.",
@@ -164,20 +272,20 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.2",
         "at": "2021-01-07 15:37:22",
-        "replyContent": "Exposure information only appears once the app has detected an exposure even though it is checking in the background. You can verify the app is still checking by viewing here: Settings/Google/COVID19 Exposure Notifications. Press the sandwich menu in the upper right corner, select Exposure Checks. Verify that date/time stamps are visible.",
-        "repliedAt": "2021-01-11 16:51:45"
+        "replyContent": "Exposure info only appears once the app has detected an exposure although it is checking in the background. You can verify the app is still checking: Settings/Google/COVID19 Exposure Notifications. Press the sandwich menu in upper right corner, select Exposure Checks. Verify that date/time stamps are visible. Contact mdhhs-micovidalert@michigan.gov",
+        "repliedAt": "2021-01-21 15:51:09"
     },
     {
         "reviewId": "gp:AOqpTOEVTbcdgNXwHuSphX1NpEw-jLXBO46etgNrRGHwBuvpPSfaOZFscaeQp-6U0YYcxpDJPkj8aZxKR5BcZf0",
         "userName": "Jacey Reid",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgA477mDu2w2-D20EJKnC1BY8Ki4q0f_pTSAPKZJLU",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjkMVuYYO-hpQqL-pJSQHtKADSF9n8A7MzPyt0NKdM",
         "content": "It just doesn't work. It doesn't alert me at all and its pointless",
         "score": 1,
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.0",
         "at": "2021-01-06 16:57:59",
-        "replyContent": "How the app works: https://www.michigan.gov/coronavirus/0,9753,7-406-99891_102592_102594---,00.html. Please provide us with some additional info on the specific screens you are seeing this. If you have any further issues or questions please reach out to our customer support team at mdhhs-micovidalert@michigan in order to troubleshoot this further.",
-        "repliedAt": "2021-01-07 16:40:18"
+        "replyContent": "How the app works: https://www.michigan.gov/coronavirus/0,9753,7-406-99891_102592_102594---,00.html. Please provide us with additional info on the specific screens you are seeing this. If you have any further issues or questions please reach out to our customer support team at mdhhs-micovidalert@michigan.gov in order to troubleshoot this further.",
+        "repliedAt": "2021-01-21 15:52:02"
     },
     {
         "reviewId": "gp:AOqpTOFsKcg7hx95qTJlsQ8O5_T5yHFgOLtvjyvGNuxzRLlldq6ao-87RezCfAJmSkadmD5ryWUiO-IvPiwNh8U",
@@ -188,8 +296,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2021-01-06 02:06:21",
-        "replyContent": "How the app works: https://www.michigan.gov/coronavirus/0,9753,7-406-99891_102592_102594---,00.html. Please provide us with some additional info on the specific screens you are seeing this. If you have any further issues or questions please reach out to our customer support team at mdhhs-micovidalert@michigan in order to troubleshoot this further.",
-        "repliedAt": "2021-01-06 16:59:25"
+        "replyContent": "How the app works: https://www.michigan.gov/coronavirus/0,9753,7-406-99891_102592_102594---,00.html. Please provide us with additional info on the specific screens you are seeing this. If you have any further issues or questions please reach out to our customer support team at mdhhs-micovidalert@michigan.gov in order to troubleshoot this further.",
+        "repliedAt": "2021-01-21 15:52:57"
     },
     {
         "reviewId": "gp:AOqpTOE1BUeFAYE3rmQ5B7NvEx-8er5loyMS9ULg-KoC2uQLpVzrOuKHW-xKo9bphXWNYhweCSwOle-TcCrvL3s",
@@ -197,11 +305,11 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjPpg5Fje7zugQWNMAu9V0O2JJpXwG-V9RhxUlZ",
         "content": "It's not updating. Last exposure update was 12/24/20 and by 01/03/2021 the \"No exposure\" update was still on 12/24/20. Makes no sense to keep an app on my phone that is not keeping me posted of exposures.",
         "score": 1,
-        "thumbsUpCount": 3,
+        "thumbsUpCount": 5,
         "reviewCreatedVersion": "1.2",
         "at": "2021-01-05 22:49:21",
-        "replyContent": "Exposure information only appears once the app has detected an exposure even though it is checking in the background. You can verify the app is still checking by viewing here: Settings/Google/COVID19 Exposure Notifications. Press the sandwich menu in the upper right corner, select Exposure Checks. Verify that date/time stamps are visible.",
-        "repliedAt": "2021-01-11 16:53:46"
+        "replyContent": "Exposure info only appears once the app has detected an exposure although it is checking in the background. You can verify the app is still checking: Settings/Google/COVID19 Exposure Notifications. Press the sandwich menu in the upper right corner, select Exposure Checks. Verify date/time stamps are visible. Email mdhhs-micovidalert@michigan.gov",
+        "repliedAt": "2021-01-21 15:55:41"
     },
     {
         "reviewId": "gp:AOqpTOFnfQVrjL5Beegu4E8T6cgmMqecwyiejzEkhQ_IAec_yt-VZ8NqMELs5rZHYmADir1abM02eSREHBbgncc",
@@ -212,8 +320,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.2",
         "at": "2021-01-05 20:46:53",
-        "replyContent": "Exposure information only appears once the app has detected an exposure even though it is checking in the background. You can verify the app is still checking by viewing here: Settings/Google/COVID19 Exposure Notifications. Press the sandwich menu in the upper right corner, select Exposure Checks. Verify that date/time stamps are visible.",
-        "repliedAt": "2021-01-11 16:55:03"
+        "replyContent": "Exposure info only appears once the app has detected an exposure although it is checking in the background. You can verify the app is still checking: Settings/Google/COVID19 Exposure Notifications. Click sandwich menu in the upper right corner, select Exposure Checks. Verify that date/time stamps are visible. Email mdhhs-micovidalert@michigan.gov.",
+        "repliedAt": "2021-01-21 16:00:01"
     },
     {
         "reviewId": "gp:AOqpTOGZvGzxO-VzU30hzAEQPQIGItmXZTZFGGNcn1Xle7c17bIXdtcm2vX16ZK3CEddmKXUZYPJXD0Q0OiCseg",
@@ -221,11 +329,11 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgDaqP7P-_o5fzg57h-N0vM4j4A-zUrDyzqJnKozQ",
         "content": "Impossible to report a positive case without an 8 digit PIN. Calling the number provided just gave you the run around with multiple prompt options, none of which were to obtain a pin. Calling the local health department was just as big of a joke as none of the 3 people I spoke to, including a nurse on call, knew of a pin that I needed to report a case. What's the point of a tracking app if it's this difficult to report when you've had a positive test? Uninstalled this useless app!",
         "score": 1,
-        "thumbsUpCount": 16,
+        "thumbsUpCount": 17,
         "reviewCreatedVersion": "1.0",
         "at": "2021-01-04 19:20:36",
-        "replyContent": "It's really important that we hear from you so we can troubleshoot this for you. Please reach out to our customer support team at mdhhs-micovidalert@michigan with your specific local health department details so we can look into this further.",
-        "repliedAt": "2021-01-05 22:01:49"
+        "replyContent": "It's really important that we hear from you so we can troubleshoot this for you. Please reach out to our customer support team at mdhhs-micovidalert@michigan.gov with your specific local health department details so we can look into this further.",
+        "repliedAt": "2021-01-21 16:03:19"
     },
     {
         "reviewId": "gp:AOqpTOGqTlAI478RStHyfjHngq4d8Lk9onoLjAOKVxxD9P9COB9CO-_VPlflr0Ud_63CY0aTppqr3A9TX8DJkTU",
@@ -272,8 +380,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2020-12-30 07:48:01",
-        "replyContent": "Thank you for bringing this issue with Bluetooth to our attention as we are not aware of this. Could you be more specific by providing additional details to our customer support team at mdhhs-micovidalert@michigan.",
-        "repliedAt": "2021-01-05 22:10:16"
+        "replyContent": "Thank you for bringing this issue with Bluetooth to our attention as we are not aware of this. Could you be more specific by providing additional details to our customer support team at mdhhs-micovidalert@michigan.gov.",
+        "repliedAt": "2021-01-21 16:03:48"
     },
     {
         "reviewId": "gp:AOqpTOFgMmYDMT4rphBWOHBBMj1A9tP3SOP9X-s1GAvWTeNikNM8Y37TXUVIztKVTYGOm4E5AktuoQwi6I8mUuU",
@@ -293,7 +401,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhyP-lVbfkWycfiKVJC8iKNAT-2nVj8_vHeV03O",
         "content": "What a joke. To report your positive test it says that the Health Department will contact every positive person and give you a code. Its been over 3 weeks since my positive test and no call from anyone. So how is it suppose to let people know if they have been exposed. Another waste of time by the state.",
         "score": 1,
-        "thumbsUpCount": 35,
+        "thumbsUpCount": 38,
         "reviewCreatedVersion": "1.2",
         "at": "2020-12-29 06:38:11",
         "replyContent": "To get your PIN, call your local health department first. You can also request a PIN through the MI COVID-19 hotline by dialing 2-1-1 or 888-535-6136. https://www.michigan.gov/mdhhs/0,5885,7-339-73970_5461_74040---,00.html.",
@@ -320,8 +428,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2020-12-24 07:32:10",
-        "replyContent": "We are sorry to hear about the troubles you are experiencing with your phone and the app. If you have any further issues or questions please reach out to our customer support team at mdhhs-micovidalert@michigan in order to troubleshoot this further.",
-        "repliedAt": "2021-01-05 22:17:17"
+        "replyContent": "We are sorry to hear about the troubles you are experiencing with your phone and the app. If you have any further issues or questions please reach out to our customer support team at mdhhs-micovidalert@michigan.gov in order to troubleshoot this further.",
+        "repliedAt": "2021-01-21 16:04:23"
     },
     {
         "reviewId": "gp:AOqpTOFJKE1wx3Z4tALn0dxMnUB_8Ab128Enj4Ekwt8fVUSdspaVzaJh1BCX9bh_tDX1RvGqwWN9NnNmrxdVSa0",
@@ -341,7 +449,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-aSV_XtWFrEA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnsG7T8d25zD4Wt6rau7Ohpp2VCfQ/photo.jpg",
         "content": "Excellent app, easy to understand, I recommend it. I think it is a good idea. (By the way, no Covid-19 here).",
         "score": 5,
-        "thumbsUpCount": 2,
+        "thumbsUpCount": 3,
         "reviewCreatedVersion": "1.0",
         "at": "2020-12-24 02:27:46",
         "replyContent": null,
@@ -404,8 +512,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2020-12-21 18:58:20",
-        "replyContent": "We apologize for the troubles you've had with the app. We'd be happy to look into this for you, but please remember the app only anonymously communicates with other MI COVID Alert app users who have shared a positive test result notification. Please contact us at https://www.michigan.gov/coronavirus/0,9753,7-406-99891_102592_102594---,00.html.",
-        "repliedAt": "2020-12-21 17:09:23"
+        "replyContent": "We apologize for the troubles you've had with the app. We'd be happy to look into this for you, but please remember the app only anonymously communicates with other MI COVID Alert app users who have shared a positive test result notification. Please contact us at mdhhs-micovidalert@michigan.gov.",
+        "repliedAt": "2021-01-21 16:06:15"
     },
     {
         "reviewId": "gp:AOqpTOGAEsZelHZmr2U3LOTBCmNC-j0tPzWDfhUEEhMF2tUOKaB_bG1I9lO1qE_MzkDL7WV3KoU0y1AND6XwozA",
@@ -422,7 +530,7 @@
     {
         "reviewId": "gp:AOqpTOGTeklBiAwAvYRSCMXoPNqSiaIepX2XHtEg0DrzttHLXqSgWxrBKf4OomN9q7PTFa8r888UOCxHG2fcaCk",
         "userName": "C p",
-        "userImage": "https://play-lh.googleusercontent.com/-TiYcvgagVHo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm6m_JmPUZSP9mjJCUjqwDRktt-KQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg7x2d866o0ckbwkkcxy2s8ebYoOt8DNDzrs8Pt5FU",
         "content": "A great idea if it actually worked...",
         "score": 1,
         "thumbsUpCount": 1,
@@ -554,7 +662,7 @@
     {
         "reviewId": "gp:AOqpTOFQYTnADN2gZmhVgI-XmsrrBj5Q8cipcEBbyC2ZqCQrmCNWAHL_c98Ragw4mUt5QJ-1gvbiRdh3jnH3YhI",
         "userName": "Kathie Tucker",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgL9szy_zn-5xgAXPzc2XjnWeCsWUTSZ-vispkKrw",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GghYxyVBK4u-lsMNvICnWX8LEiZyWHhD01BLArQNGQ",
         "content": "My grandson tested positive. I gave him my phone. Alarm never went off.",
         "score": 1,
         "thumbsUpCount": 1,
@@ -584,8 +692,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2020-12-11 18:18:02",
-        "replyContent": "We would like to help you resolve this. Please provide details of what you're experiencing after the app is installed.",
-        "repliedAt": "2020-12-11 20:48:03"
+        "replyContent": "We would like to help you resolve this. Please provide details of what you're experiencing after the app is installed. Email our customer support team at mdhhs-micovidalert@michigan.gov.",
+        "repliedAt": "2021-01-21 16:28:15"
     },
     {
         "reviewId": "gp:AOqpTOE0vgSFwAdGYEeamLrb_Bbp-Q_018cn-Uqd8FPG7aU5I9RAZOTgDXpCfkpi2432duPNKzcRSMPLuTeM-1M",
@@ -881,7 +989,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GidefX4MYCiwv5iMstEmcV6GDeJaPprqQVJMJTJ-XM",
         "content": "The app is useless unless everyone who has a positive test submits their result. It's very unrealistic to expect compliance to that level. Interesting concept but completely irrelevant based on inconsistencies in reporting. If someone didn't realize these flaws it also could create a false sense of security. State of Michigan- In response to your answer, that is exactly the point I was trying to make. If everyone is not using the app what information are you really going to get from it?",
         "score": 1,
-        "thumbsUpCount": 140,
+        "thumbsUpCount": 141,
         "reviewCreatedVersion": "1.0",
         "at": "2020-11-30 22:15:52",
         "replyContent": "Using the MI COVID Alert app is completely voluntary, and relies on the population self-reporting their positive COVID-19 test result.",
@@ -1517,7 +1625,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjYFEg2GBACWAkw6wCQWIm1MUCroyBC0nepfPLQjg",
         "content": "Easy, and I like that it reminded me that it wouldn't work with my Bluetooth turned off (which reminded me to turn Bluetooth on!).",
         "score": 5,
-        "thumbsUpCount": 15,
+        "thumbsUpCount": 16,
         "reviewCreatedVersion": "1.0",
         "at": "2020-11-14 23:09:39",
         "replyContent": null,
@@ -1621,8 +1729,8 @@
     },
     {
         "reviewId": "gp:AOqpTOGUhFCGoVQDU-RB1E1vJGnCh20R0ZV9A8iIpwf8ZRerTGpXoldrT_ZtSEQNEOaOfxXgTd00UsStPzrB_QA",
-        "userName": "Dzor",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiKA4j85gp3LrrX9UNfNaE1lwEvJkeiavQhQ-VsYOM",
+        "userName": "Radek",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhD3BT_akuce5VEvA4yCWfh8vSsBIIoSUAgWep_PNo",
         "content": "Remove stats tab. Why isn't this for any infectious disease.",
         "score": 4,
         "thumbsUpCount": 2,
@@ -1949,7 +2057,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjDLqHlhLd-N0LI041lCb_tipToGtHGecJbnZMaEw",
         "content": "Good intentions, however, unless everyone downloads it, it won't do much at all. Especially for someone who is in a nursing home, as I am. (I have cancer). In point of fact, I rarely see ANY Elected Officials or media, speak of helping nursing home residents & our staff, during this pandemic. Further, where are the accolades for our nursing home Nurses, CNAs and other staff who are around people who are the most vulnerable in the USA. - 24/7 ?? We still matter.",
         "score": 1,
-        "thumbsUpCount": 104,
+        "thumbsUpCount": 105,
         "reviewCreatedVersion": "1.0",
         "at": "2020-11-12 22:15:07",
         "replyContent": null,
@@ -2018,7 +2126,7 @@
     {
         "reviewId": "gp:AOqpTOE_YZahjVaY1DaqkqAGhDioWP9qutkF-Ki9i4jGgS3M7mNoNK42qd3mzUWIK2OplSZUizVZ9nlRglZw5-I",
         "userName": "Alena Z",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GifSWvw2erTQ07-SNG6mPZ3tqKdqF-Bi9znAGDHig",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiugY7PACame4mUuijhdCpoMtHhBuAFOC2ZHp-44g",
         "content": "I wish the information was more well organized and the map was more informative. It would be great if the map showed the amount of cases by city instead of county, more recent info, and the map on a different section of the app because I thought for a minute that there was no map, there is its just not super informative. I'd also like to see a leaderboard of what city's have the most cases and have testing areas on the map. Otherwise it's a good start in the right direction for michigan :)",
         "score": 4,
         "thumbsUpCount": 313,

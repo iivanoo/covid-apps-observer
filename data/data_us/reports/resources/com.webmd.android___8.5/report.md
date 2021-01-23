@@ -193,6 +193,10 @@ The WebMD: Check Symptoms, Rx Savings, & Find Doctors app has been installed by 
 <img src="5_star_reviews_wordcloud.png" alt="com.webmd.android 5 reviews"/>
 </p>
 
+> I really like this app. Keeps me informed about meds I might switch to or others I might need to take with the ones I am on now. Always like reading the post too. FYI to anyone who is reading this and who made WebMD. I tried to open it and it kept rejecting me. I uninstalled and reinstalled and worked. So if having any problems try it. It's like the last update didn't fully install or install right. Hope that helps someone.<br> :date: __2021-01-18 19:12:21__
+
+> Very informative app that I use as a primary and secondary resource for medical applications. Used in support of medical disability issues.<br> :date: __2021-01-17 10:20:57__
+
 > Great for finding out what symptoms can be indicating or treatment at home to help with a illness, injury, or ailment.<br> :date: __2021-01-08 18:32:21__
 
 > I'm always enjoyment so i recomend to anybody<br> :date: __2021-01-07 22:43:41__
@@ -208,10 +212,6 @@ The WebMD: Check Symptoms, Rx Savings, & Find Doctors app has been installed by 
 > Vomiting nausa weak constapated<br> :date: __2020-11-30 01:14:34__
 
 > Superb<br> :date: __2020-11-18 19:54:51__
-
-> I love how it elaborate and explain. Its not just helpful but learning.<br> :date: __2020-11-09 14:40:14__
-
-> Always get the straight scoop<br> :date: __2020-11-09 02:32:57__
 
 
 
@@ -277,6 +277,8 @@ The WebMD: Check Symptoms, Rx Savings, & Find Doctors app has been installed by 
 <img src="2_star_reviews_wordcloud.png" alt="com.webmd.android 2 reviews"/>
 </p>
 
+> I am tired of trying to read an article of interest and having interruptions that change what am reading and I can't back to the original article. Either permit to read my article to it's end or I will remove this app.<br> :date: __2021-01-16 15:00:48__
+
 > No notifications after 2 weeks uninstall and reinstall not helped had to download another pill reminder app to track my pills instead shame as webmd is a good app<br> :date: __2021-01-04 23:04:35__
 
 > This was updated. Since then, I can't save my medications on the check interactions. We use to be able to do that. Save our medications. That helped me a lot. It helped me remember what not to take together. I have about a dozen medications that I take. I was really liking this. The medication you added, was there until you would delete it. Now, that's not a option at all. What's the clear all needed for, if medications don't get saved. Now, I hate it.<br> :date: __2020-12-30 01:45:09__
@@ -295,8 +297,6 @@ The WebMD: Check Symptoms, Rx Savings, & Find Doctors app has been installed by 
 
 > Notifications have become political. Delete<br> :date: __2020-10-09 02:43:16__
 
-> Not user-friendly<br> :date: __2020-10-03 08:56:22__
-
 
 
 #### 1-star reviews
@@ -304,6 +304,8 @@ The WebMD: Check Symptoms, Rx Savings, & Find Doctors app has been installed by 
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="com.webmd.android 1 reviews"/>
 </p>
+
+> Crashing out of nowhere<br> :date: __2021-01-20 15:05:35__
 
 > This App is NOT WORKING. Won't even open.<br> :date: __2021-01-14 16:40:21__
 
@@ -322,7 +324,5 @@ The WebMD: Check Symptoms, Rx Savings, & Find Doctors app has been installed by 
 > Wanted to learn about possible thyroid problem and got a lousy quiz instead. What a joke!<br> :date: __2020-12-29 15:58:27__
 
 > many symptoms lacking especially related to brain and psychiatry.<br> :date: __2020-12-04 19:48:57__
-
-> Do not get this app. YOU WILL BE SPAMMED. I am receiving daily emails. Tried to unsubscribe, but the emails still keep coming. I will be deleting this app<br> :date: __2020-11-25 22:41:50__
 
 

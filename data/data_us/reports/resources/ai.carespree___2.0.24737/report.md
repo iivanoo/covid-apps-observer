@@ -256,6 +256,8 @@ The Sydney Care app has been installed by more than **100000** times. At this ti
 <img src="4_star_reviews_wordcloud.png" alt="ai.carespree 4 reviews"/>
 </p>
 
+> Pretty neat!<br> :date: __2021-01-19 19:06:41__
+
 > Waa answered quickly.<br> :date: __2020-11-13 00:42:16__
 
 > Seems buggy It worked fine for few days then stopped working. Reloaded changed password still getting era message.<br> :date: __2020-10-10 01:03:24__

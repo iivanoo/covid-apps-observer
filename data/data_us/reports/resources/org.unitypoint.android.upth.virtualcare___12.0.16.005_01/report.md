@@ -177,6 +177,8 @@ The UnityPoint Health Virtual Care app has been installed by more than **10000**
 <img src="5_star_reviews_wordcloud.png" alt="org.unitypoint.android.upth.virtualcare 5 reviews"/>
 </p>
 
+> So easy and quick<br> :date: __2021-01-17 14:51:41__
+
 > Wonderful experience. Doc was very helpful with my problem and answered all questions i had.<br> :date: __2020-12-30 04:14:38__
 
 > Dr. Was great. Easy to understand and very knowledgeable when it came to understanding my anxiety.<br> :date: __2020-12-27 08:02:30__
@@ -194,8 +196,6 @@ The UnityPoint Health Virtual Care app has been installed by more than **10000**
 > The Dr. Was very friendly and it was really convenient for me as I work alot.<br> :date: __2020-11-12 19:19:09__
 
 > Easy to follow instructions for set up and use. Provider was professional and friendly. Fantastic alternative to going into a provider's office during the pandemic.<br> :date: __2020-11-09 14:40:05__
-
-> Always great connection and service<br> :date: __2020-11-05 21:46:04__
 
 
 
@@ -258,6 +258,8 @@ The UnityPoint Health Virtual Care app has been installed by more than **10000**
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="org.unitypoint.android.upth.virtualcare 1 reviews"/>
 </p>
+
+> Sh@#$%^&*<br> :date: __2021-01-18 19:40:06__
 
 > Need food<br> :date: __2020-12-08 08:34:57__
 

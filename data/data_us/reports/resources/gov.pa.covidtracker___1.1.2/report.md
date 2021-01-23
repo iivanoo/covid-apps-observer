@@ -141,6 +141,10 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="gov.pa.covidtracker 5 reviews"/>
 </p>
 
+> Glad We have the app.For Safety.<br> :date: __2021-01-22 14:51:04__
+
+> This apps information about covid<br> :date: __2021-01-21 09:27:47__
+
 > Yre<br> :date: __2021-01-16 04:28:33__
 
 > Gööd<br> :date: __2021-01-14 23:06:20__
@@ -157,10 +161,6 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 
 > Good App To Use To Protect All People And Animals From The Corona Virus Disease Year 2020.<br> :date: __2020-12-29 06:05:34__
 
-> Greatttttttt!!!!!!!!<br> :date: __2020-12-28 16:07:20__
-
-> Everyone in PA should have this App.<br> :date: __2020-12-28 04:51:45__
-
 
 
 #### 4-star reviews
@@ -168,6 +168,8 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="gov.pa.covidtracker 4 reviews"/>
 </p>
+
+> It explains the flue and what to do and not do it's informal seams in ts right on with the hole country.<br> :date: __2021-01-21 01:16:24__
 
 > good site to get reliable facts easy to read ,navigation<br> :date: __2021-01-09 20:17:36__
 
@@ -187,8 +189,6 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 
 > It would be nice to know how many people are using app in my area.... knowing 600,000 people across pa have app, does not do much for me, in my city....<br> :date: __2020-12-10 10:32:55__
 
-> Simple and unobtrusive, though I worry about how effective it can really be, since it would only work best if everyone installs it, *and* if everyone honestly reports their conditions. Still, it's a good effort, and a great app! Just limited by having to try to trust others to do the right thing.<br> :date: __2020-12-05 04:28:35__
-
 
 
 #### 3-star reviews
@@ -196,6 +196,10 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="gov.pa.covidtracker 3 reviews"/>
 </p>
+
+> I suggest adding PA stats about vaccinations....as well as info on or even ability to make a vaccine appointment...and current phase status<br> :date: __2021-01-22 05:24:51__
+
+> Bad this app should notify those doctor to go and give those the vacinne that have fill the information out not have people out in large line and groups with this you have better control create job to new nursing school student to help in is fight<br> :date: __2021-01-21 07:21:53__
 
 > Pros: It checks in everyday to review symptoms. It tells you information about what the rest of the app users symptoms were. It keeps up to date on what it is expected to. Con: I had my mom get Covid, and at the time I lived with her. I couldn't figure out how to report that since I tested negative. Not long after my family finished quarantine, my sister tested positive . I got tested again and was still negative, but technically I was exposed.<br> :date: __2021-01-15 09:05:20__
 
@@ -213,10 +217,6 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 
 > I guess ok have not had any alerts yet thank God<br> :date: __2020-12-05 23:58:01__
 
-> It does not appear to follow me via GPS, i live in lancaster but work all over the Philadelphia area and the app seems to only use the default county selection (unless i missed something). Makes it pretty useless for anynone that travels in PA.<br> :date: __2020-11-30 23:33:58__
-
-> I like the concept of the app, and we clearly need something like this. My huge complaint is that the developers continually respond with no location services or gps is needed.That is patently false, if I want to receive notifications the gps has to be on ( and the screen that popped up telling me that the gps had to be on in order to get the notifications sems to confirm what everyone else was saying). Remake the app so no one needs gps just for safety and I'm all in<br> :date: __2020-11-27 05:38:12__
-
 
 
 #### 2-star reviews
@@ -224,6 +224,12 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="gov.pa.covidtracker 2 reviews"/>
 </p>
+
+> Where's the question of have you been vaccinated? Let's see the important info and show how PA is lagging behind.<br> :date: __2021-01-22 18:14:18__
+
+> Not info I need. Where are vaccination sites? What are age requirements? Who is now eligible?, etc.<br> :date: __2021-01-19 18:11:05__
+
+> There was no way to quickly self-report a positive test, so the contact tracing is useless.<br> :date: __2021-01-19 03:55:09__
 
 > Since the last update they took off the daily death count. They only tell you the total death count up to the current date. Because of this the app doesn't exactly tell you the whole situation currently. In begining I actually liked the way app, but since of the many changes that isn't the case anymore. I feel as if they are trying to hide the real truth to the situation & that isn't a good thing at all.<br> :date: __2020-12-23 20:53:01__
 
@@ -239,12 +245,6 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 
 > This peticular app should be integrated into phones to be mandatory. It is only effective if those who test positive for virus VOLUNTARILY input there special number. Too many people are acting like this is taboo. Anyone who tests positive for any type of pandemic disease should not declare this info as private. Its not, especially when there are so many people involved in their care. STOP BEING SELFISH!<br> :date: __2020-11-18 18:07:39__
 
-> No good<br> :date: __2020-11-15 19:22:44__
-
-> I see quite a few people claiming this app doesn't need location tracking to be on, yet it's asked me twice to turn on location tracking to use exposure notifications, since I installed it 5 minutes ago. So which is it?!? What will this app actually tell me if I have my location turned off, anything??<br> :date: __2020-11-14 08:12:39__
-
-> Tried this app for less than few weeks or so, often question of how it can actually sense if I have been exposed to someone tested positive covid 19 just by bluetooth and location services ? With having app on and running constantly, considerably drains my battery with having both location on and bluetooth on all the time. How reliable is this app when I'm not always connected to internet or have available cellular data? I don't have unlimited cellular data plan, makes hard for app to work<br> :date: __2020-10-31 03:33:27__
-
 
 
 #### 1-star reviews
@@ -253,7 +253,13 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="gov.pa.covidtracker 1 reviews"/>
 </p>
 
-> The virus is fake and there is no need for this app.<br> :date: __2021-01-06 19:39:47__
+> Save your time & storage space, it doesn't work. I received a call today as a follow-up to my quarantine. "What quarantine?" I ask. It appears that I was exposed to COVID-19 on Jan 7. I should have been notified to quarantine. Only, the entire system failed. 1. Employer never notified me of an exposure. 2. PA Department of Health never notified me of an exposure until 3 days AFTER quarantine ended. 3. App with exposure alert on did nothing! Waste of time. #NoConfidence #SystemIsBroken<br> :date: __2021-01-21 00:07:51__
+
+> Only works to notify you if someone voluntarily enters they have covid into the app. Useless if people aren't updating it themselves.<br> :date: __2021-01-20 22:09:21__
+
+> Never got any alerts, and when I had covid for a couple weeks they never gave me a code even after calling in to request it (they were supposed to reach out, never happened). Don't trust this app to alert you, chances are most people never got a code.<br> :date: __2021-01-18 21:50:44__
+
+> The virus is fake and there is no need for this app.<br> :date: __2021-01-18 02:57:04__
 
 > Was never able to update app after testing positive. No point in using it as far as I can see.<br> :date: __2021-01-05 13:57:07__
 
@@ -266,11 +272,5 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 > No one is getting codes from the department of health so this app is useless<br> :date: __2020-12-28 14:41:38__
 
 > Scans contacts and Bluetooth to track and count other people around you to find people who violate the unconstitutional gathering limits mandate by gov wolf.<br> :date: __2020-12-26 02:47:16__
-
-> Remove this app if you are experiencing distortion when connected via bluetooth to your car. Awful app that caused so much distortion when talking on the phone when connected to my car or any bluetooth speaker.<br> :date: __2020-12-23 23:09:37__
-
-> It does not even work I'm Also being told That our State Govrment Can spy through this app since this app came out I feel good With all my symptoms<br> :date: __2020-12-23 00:55:46__
-
-> Not helpful in anyway<br> :date: __2020-12-21 21:20:59__
 
 

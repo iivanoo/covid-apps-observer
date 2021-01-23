@@ -1,15 +1,51 @@
 [
     {
+        "reviewId": "gp:AOqpTOFbJkpotptlM2hLaGDk1sbVfrTgkYUnK2PUc2n7UCkrhCdVFAoop-4eFSygug36zB-dd0PSQWnFTKGsE1g",
+        "userName": "ana uceda",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgjU19gmZcZxFmXe_B_sKKKRRI-u06NLHF0f3W7rA",
+        "content": "El test es para los estados graves supongo. Yo he dado positivo y haciendo el test me dice que no tengo s\u00edntomas (por ser leves en mi caso) No me ha servido est\u00e1 aplicaci\u00f3n y no s\u00e9 exactamente para que sirve.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.1.0",
+        "at": "2021-01-22 07:58:07",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFaECGACQNKnKvROHY6crkJA6Uiwea5eygYKSIZQoJmEeu-Vw6RAojiYfa3crSYsAy2orV68FnUIVvqcxA",
+        "userName": "Felix C",
+        "userImage": "https://play-lh.googleusercontent.com/-u5cPi20USLQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmGmLmKjc5oyU-HBhqA1dXvOhR3pg/photo.jpg",
+        "content": "No sirve de nada,yo he dado positivo y tengo casi todos los s\u00edntomas y fuertes. Seg\u00fan la App s\u00f3lo pone \"Podr\u00edas ser positivo \"",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.1.0",
+        "at": "2021-01-19 21:30:19",
+        "replyContent": "Gracias por comunicarnos su caso. Estamos mejorando la aplicaci\u00f3n.",
+        "repliedAt": "2021-01-21 18:34:08"
+    },
+    {
+        "reviewId": "gp:AOqpTOHsH_9v-BgD2Gm9F-hDtVgauKp3vyylTUttCzG1TYB2Gj2RUl2CGbpg_sLt-fqFB8dH6JHNpghwIJ07KyE",
+        "userName": "Gume Rodriguez",
+        "userImage": "https://play-lh.googleusercontent.com/-sTFJR9nDEfI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckHNSrlJ4lm_YTRUizJLKnidCS47Q/photo.jpg",
+        "content": "Intento entrar en el test y no hay manera. Ya la he instalado y desinstalado 3 veces. Voy a permisos y est\u00e1 todo correcto. Y me dicen que rengo que poner la temperatura 2 veces al d\u00eda porque soy contacto estrecho. Pues no s\u00e9 c\u00f3mo lo voy a hacer......",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.1.0",
+        "at": "2021-01-18 21:20:04",
+        "replyContent": "Trasladamos el problema a los desarrolladores. Si sus s\u00edntomas empeoran llame al 061. Gracias",
+        "repliedAt": "2021-01-19 15:06:32"
+    },
+    {
         "reviewId": "gp:AOqpTOEII9v05cZJrBUlp46veYaUJhR0Ee3hZw6czOp9xjSi7zY62O3h6iJNGx1RHnAkNmK-x0ofif2yPKvRMHI",
         "userName": "R\u00e1ul Handpan",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhLVpDxe9795egDa9M72QSQlfM14Lp_foph8TTwRg",
         "content": "No sirve de mucho bajo mi humilde opini\u00f3n... ayer me hicieron el test r\u00e1pido que suelen hacer antes del pcr y di positivo con s\u00edntomas evidentes tales como p\u00e9rdida de olfato, gusto, fiebre, etc.. seg\u00fan el test de \u00e9sta app no tengo s\u00edntomas... cosas a mejorar, ah\u00ed lo dejo.",
         "score": 1,
-        "thumbsUpCount": 1,
+        "thumbsUpCount": 10,
         "reviewCreatedVersion": "2.1.0",
         "at": "2021-01-12 11:55:26",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Gracias por comunicarnos su opini\u00f3n que vamos a trasladar a los responsables para su mejora",
+        "repliedAt": "2021-01-19 15:09:38"
     },
     {
         "reviewId": "gp:AOqpTOHxWSjPlQ13MizGMyNeFwRIeSAY1XR5B_dv7S4iHPBrQ1VSO9QiNkKbCWAtOYQukMnF8cetGQr_qYWpj-w",
@@ -20,8 +56,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "2.1.0",
         "at": "2021-01-09 09:53:04",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Gr\u00e0cies per la seva valoraci\u00f3",
+        "repliedAt": "2021-01-19 15:11:45"
     },
     {
         "reviewId": "gp:AOqpTOFeGzx4CSULETKa4AX-zmTxvSW2PDj-EIQdqS20Ad_aJigS8JsY3cyV3HnNDMDQFoq0whW4QPtSnrU4XGw",
@@ -32,8 +68,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "2.1.0",
         "at": "2021-01-01 15:48:05",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Traslladem el seu comentari als desenvolupadors.",
+        "repliedAt": "2021-01-19 15:13:03"
     },
     {
         "reviewId": "gp:AOqpTOFrSJEYWudJypAjXQIK0B4A8-CQdexRdfX89IrUW7m-CzpgRBddBikkFwUvdUmu849HY0F3a-skdixcqwE",
@@ -44,8 +80,8 @@
         "thumbsUpCount": 1,
         "reviewCreatedVersion": null,
         "at": "2020-12-24 15:17:35",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Enviamos sus comentarios a los desarrolladores. Gracias",
+        "repliedAt": "2021-01-19 15:14:01"
     },
     {
         "reviewId": "gp:AOqpTOEI5g0UCuKmPYhzBqaBU6g1Ds4wSe1Kms_D1Kj7TZTpVl3boZeGcOVJhJzTMgm3-BYR7MzuswW53Dj3bDw",
@@ -68,8 +104,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "2.1.0",
         "at": "2020-12-23 10:38:17",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Gracias por compartir su valoraci\u00f3n.",
+        "repliedAt": "2021-01-19 15:14:24"
     },
     {
         "reviewId": "gp:AOqpTOGdYpg_rA_V3hWDEtA58XTGoLDha-PwAbLCYkmALFknYd4ZuRVf1j84qQxxUg46KIsEGnkMF-vOGU8IWKE",
@@ -77,7 +113,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-B3mDXYNdO2A/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnhmuVWoBGipRhir971jDLg1eW5ZA/photo.jpg",
         "content": "La primera vez he logrado llegar al paso de recibir el codigo por Sms, lo he puesto pero de all\u00ed no se mueve, la segunda vez ya ni he podido intentar enviar el SMS, por mucho que apretaba no pasaba nada. As\u00ed no me extra\u00f1a que no se puedan contabilizar los casos, si no funciona una simple aplicaci\u00f3n, que se puede esperar de situaciones m\u00e1s complejas?",
         "score": 1,
-        "thumbsUpCount": 7,
+        "thumbsUpCount": 10,
         "reviewCreatedVersion": "2.1.0",
         "at": "2020-12-16 14:56:06",
         "replyContent": "Recomendamos desinstalar la aplicaci\u00f3n e instalarla de nuevo.",
@@ -161,7 +197,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhynIah8qt_X8qCyv0m489GfjRRO_hVtXUy53Rv5RE",
         "content": "Mientras no haces la prueba est\u00e1 bien de ayuda, pero una vez te haces el test y das positivo, no sirve para nada. Yo hoy he hecho test de ant\u00edgenos y he dado positivo. En cambio relleno los datos y como me han desaparecido varios s\u00edntomas, pues me dice que no tengo la Covid. Me da un chasquido el bolo al ver que me dice que no tengo Covid y en cambio hoy me han diagnosticado positivo en el CAP.",
         "score": 1,
-        "thumbsUpCount": 21,
+        "thumbsUpCount": 24,
         "reviewCreatedVersion": "2.1.0",
         "at": "2020-11-09 21:38:15",
         "replyContent": "La app es un test de control, seguimiento y vigilancia de s\u00edntomas. Si usted est\u00e1 diagnosticado debe seguir las indicaciones que le han dado en el CAP.",
@@ -1693,7 +1729,7 @@
     },
     {
         "reviewId": "gp:AOqpTOH6tooDGqsZDN1PQcTd0kvy720XFYT8vS9R0exlS5RVBJf7E_V7RsWiLgQmB0kXJuD9-BTg0XLUslG_z_0",
-        "userName": "Fernando Montes de Oca Vel\u00e1zquez",
+        "userName": "Fer 1977",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiSFYlKtPv2TrWc30_tPeSRABrmP3dY9QYkRIcTfp4",
         "content": "No vale para nada. Solo hay 2 posibles resultados o est\u00e1s hecho un toro con una salud de hierro o eres un posible infectado y debes aislarte y comunic\u00e1rselo a todo el mundo. El que lo ha hecho se ha lucido.",
         "score": 1,
@@ -3602,7 +3638,7 @@
     {
         "reviewId": "gp:AOqpTOHgbE7x8xal_ja2Z2OzG0foA5yIGTJ_Lx8LOY5MJioItFi0l0q-f1DHImJTks0H6_nKtES1gG6qYIHeK1E",
         "userName": "Meliodas YT",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj-akxBZHDGP2nCEa2F65vB8W83Wev1e2-x93fTxA",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhH3pqrL169uzFA6b_NMb4QqTw0w9xMj-GRfL3kog",
         "content": "Esta app no sirve",
         "score": 1,
         "thumbsUpCount": 0,
@@ -5869,7 +5905,7 @@
     },
     {
         "reviewId": "gp:AOqpTOGELwAPtwljuhGwnWxBFWA9kLcwy_w61yOPWrWiLB3nnnUVcH8TUM5gHoDc9vwbqzNsCxWjwE6UD1rzqPc",
-        "userName": "garri_gueta",
+        "userName": "Garrigueta",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiuLXh872O2A0W99keX7Rc8hbindiFVc_5_Ar1eiA",
         "content": "La funcionalidad est\u00e1 bastante bien, por los pocos d\u00edas que se debe haber tardado en hacer, pero quiz\u00e1s se deber\u00eda especificar que es solo para CatSalut.",
         "score": 3,

@@ -205,6 +205,8 @@ The GVA Responde app has been installed by more than **10000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="es.gva.responde 1 reviews"/>
 </p>
 
+> No veo las novedades por ningún lado a pesar de poner "últimas novedades". Ni la encuentro útil. Me la he desinstalado.<br> :date: __2021-01-19 15:45:28__
+
 > Sin un chat o un sistema por el cual podamos hacer nuestras preguntas, esta app no vale nada.<br> :date: __2020-12-20 16:10:08__
 
 > Simplemente no funciona<br> :date: __2020-09-02 17:02:50__
@@ -222,7 +224,5 @@ The GVA Responde app has been installed by more than **10000** times. At this ti
 > Pinches donde pinches no sale nada, sólo una pantalla en blanco. Buena idea sólo falta que funcione<br> :date: __2020-04-30 22:54:24__
 
 > La instalo y no me deja ver nada .<br> :date: __2020-04-28 16:46:16__
-
-> No se puede abrir, se detiene costantemente y se cierra<br> :date: __2020-04-14 23:21:05__
 
 

@@ -210,6 +210,14 @@ The HealthTap — 24/7 Telemedicine app has been installed by more than **100000
 <img src="5_star_reviews_wordcloud.png" alt="com.healthtap.userhtexpress 5 reviews"/>
 </p>
 
+> This is one of the best apps out there!!<br> :date: __2021-01-22 22:26:29__
+
+> Helpful and efficient. I may have waited 5-7 minutes but it honestly wasn't a big deal. The doctor was kind and he was also quick which for me when I am not feeling well is a even better score for me.<br> :date: __2021-01-22 09:25:02__
+
+> Im from pakistan. Can I consult a doctor using this app? If so, then how would it be charged. PS: i only need consultation for adjusting my exisiting medicines<br> :date: __2021-01-20 21:18:03__
+
+> Awesome this is the best telemedicine service out there. Health tap doctors listen and actually care! I can't thank you health tap enough for actually bringing quality and affordable health Care to everyone. I honestly can't imagine not having health tap you are Lifesavers. I had I tell everyone and will continue to tell everyone to use health tap! Thank You<br> :date: __2021-01-19 08:56:35__
+
 > Great, fast, and excellent service<br> :date: __2021-01-09 02:05:56__
 
 > Very Professional...easy to navigate app...Md was Friendly, professional and took exceptional care of my medical situation. As a Registered Nurse for 25 plus years, I highly recommend this service and find it far superior to one other app I've tried.<br> :date: __2021-01-06 15:11:33__
@@ -221,14 +229,6 @@ The HealthTap — 24/7 Telemedicine app has been installed by more than **100000
 > It was fast and easy<br> :date: __2020-12-21 22:17:44__
 
 > Just seems useful to access knowledgable people anytime you want. Will update my rating later.<br> :date: __2020-12-21 02:43:02__
-
-> So far it was great waiting for meds<br> :date: __2020-12-19 20:17:42__
-
-> AWESOMENESS<br> :date: __2020-12-19 18:01:17__
-
-> Fantastic and very helpful app<br> :date: __2020-12-18 21:57:07__
-
-> Very convenient and helpful, the physicians are very quick and professional.<br> :date: __2020-12-17 23:55:46__
 
 
 

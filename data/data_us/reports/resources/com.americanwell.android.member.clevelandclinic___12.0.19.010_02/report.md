@@ -203,6 +203,8 @@ The Cleveland Clinic Express Care® Online app has been installed by more than *
 <img src="5_star_reviews_wordcloud.png" alt="com.americanwell.android.member.clevelandclinic 5 reviews"/>
 </p>
 
+> It was quick. I was connected with the doctor at 6:00 am. They are very personable and helpful!<br> :date: __2021-01-21 12:57:55__
+
 > Very easy and quick.<br> :date: __2021-01-11 13:43:42__
 
 > I absolutely love this!! Its easy, quick and gives you many different options of medical doctors and nurses who can help you with what you need. They are super nice and make it really comfortable..<br> :date: __2021-01-05 11:41:07__
@@ -220,8 +222,6 @@ The Cleveland Clinic Express Care® Online app has been installed by more than *
 > Great provider and easy to use. Wait time was minimal. Would easily use this again.<br> :date: __2020-12-14 16:34:25__
 
 > EVERYONE, Doctors, nurses, ALL STAFF were top notch. i would recommend to everyone. Thank you all healthcare professionals for EVERYTHING you have been doing. PHENOMENAL JOB. I truly appreciate it<br> :date: __2020-12-13 15:49:33__
-
-> Easy to use and very convenient.<br> :date: __2020-12-07 15:06:58__
 
 
 
@@ -259,6 +259,8 @@ The Cleveland Clinic Express Care® Online app has been installed by more than *
 <img src="3_star_reviews_wordcloud.png" alt="com.americanwell.android.member.clevelandclinic 3 reviews"/>
 </p>
 
+> Very poor connection<br> :date: __2021-01-17 16:05:01__
+
 > Connection was weak. Lots of questions to answer.<br> :date: __2020-11-17 02:55:23__
 
 > Very cumbersome. It should connect automatically with my chart so I don't have to answer 1000 questions already on file.<br> :date: __2020-09-13 01:27:51__
@@ -276,8 +278,6 @@ The Cleveland Clinic Express Care® Online app has been installed by more than *
 > Dropped call.<br> :date: __2020-06-02 15:37:35__
 
 > It takes way too long to get to the doctor by trying to figure out how to use this.<br> :date: __2020-05-30 00:12:46__
-
-> It would not find my drug store or insurance.<br> :date: __2020-05-28 19:17:10__
 
 
 

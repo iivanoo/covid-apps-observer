@@ -200,6 +200,10 @@ The Virtual Care Anywhere app has been installed by more than **10000** times. A
 <img src="5_star_reviews_wordcloud.png" alt="org.chifranciscan.android.chih.virtualcare 5 reviews"/>
 </p>
 
+> Got an appointment right away. With pictures I sent of my issue, diagnosis was easy for the doctor, and prescriptions were sent to my preferred pharmacy.<br> :date: __2021-01-21 01:50:25__
+
+> Good first experience, good Dr!<br> :date: __2021-01-20 02:09:22__
+
 > Quick and nice physicians! Definitely the way to go in a pandemic.<br> :date: __2021-01-02 20:39:49__
 
 > I had a good experience, my wait time was very short and I appreciated my doctors professionalism.<br> :date: __2020-10-11 16:32:44__
@@ -215,10 +219,6 @@ The Virtual Care Anywhere app has been installed by more than **10000** times. A
 > Dr. Was very understanding, helpful, and courteous. I was extremely pleased with my visit and will definitely use this again.<br> :date: __2020-09-02 05:28:03__
 
 > Really convenient and effective for minor health issues.<br> :date: __2020-08-30 06:41:26__
-
-> Great!<br> :date: __2020-08-20 21:29:29__
-
-> That was the best way to take care of my health issue. I am so pleased with this method and the prompt response and professionalism. Thank you so much.<br> :date: __2020-08-15 17:30:36__
 
 
 

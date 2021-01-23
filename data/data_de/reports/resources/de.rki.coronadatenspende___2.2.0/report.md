@@ -142,6 +142,8 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 <img src="5_star_reviews_wordcloud.png" alt="de.rki.coronadatenspende 5 reviews"/>
 </p>
 
+> Auch als Samsung Nutzer (in meinem Fall mit einer Gear S3 Frontier, Verbunden mit Samsung Health auf einem Nokia 7.2) kann man diese App verwenden! Ich hatte erst über eine weitere App (Health Sync) eine Brücke zu Google Fit gelegt, um dann zu sehen dass ich in der Spende-App inzwischen auch SHealth direkt auswählen kann. Somit ist die direkte Nutzung auch für Samsung Nutzer möglich! Aber es wäre gut wenn die App Beschreibung aktualisiert würde!<br> :date: __2021-01-21 13:43:43__
+
 > Amazfit Integration nun vorhanden. Daher von 3 auf 5 Sterne.<br> :date: __2021-01-08 16:08:04__
 
 > 👍🏻<br> :date: __2020-12-26 14:40:13__
@@ -159,8 +161,6 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 > ich versuche ständig im intervall die app mit samsung health zu verbinden,seit tagen immer wieder die anzeige integration fehlgeschlagen,so bringt es leider gar nichts! smartphone:huawei p9 smartwatch : samsung gear s3 frontier zwischen smartphone und smartwatch klappt ohne probleme der austausch mit samsung health coroner warn app fast seit einführung installiert und es klappt ohne probleme! update-plötzlich klappt es,ich habe nichts anderes gemacht wie vorher!jetzt werde ich beobachten...<br> :date: __2020-12-18 15:29:45__
 
 > Nicht für jedes Armband geeignet. Es soll der Puls gemessen werden. Nicht jeder hat einen Pulsmesser im Tracker. Somit wertlos bei mir. Und nicht jeder in Deutschland trägt ein Fitnessarmband. Zumal die nicht ganz billig sind. Funktioniert mit den o.g. erfüllten Vorraussetzungen offenbar ganz gut. Nachdem ich heute aktualisiert habe, sehe ich auch wieder meine gespendeten Tage.<br> :date: __2020-12-16 16:15:47__
-
-> Da die Funktion der Tastatur vom App eingeschränkt wird, lässt sich keine E-Mail Adresse für die Google Fit Anmeldung eingeben. Schlecht programmiert. App ist unbenutzbar. Update: wenn man die Original Google Tastatur einstellt, funktioniert es. Problem könnte gelöst werden.<br> :date: __2020-12-12 08:15:38__
 
 
 
@@ -198,6 +198,8 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 <img src="3_star_reviews_wordcloud.png" alt="de.rki.coronadatenspende 3 reviews"/>
 </p>
 
+> Bisher wurden meine Daten mit Garmin übertragen, das hat auch super funktioniert und ich würde auch gerne weiter meine Daten zur Verfügung stellen. Leider funktioniert das mit meiner Huawei Watch nicht, auf die ich mittlerweile umgestiegen bin, da die Daten deutlich genauer sind als bei Garmin. Huawei Health wird leider nicht unterstützt, es wäre super, wenn das geändert werden würde. So muss ich mich leider verabschieden...<br> :date: __2021-01-16 11:59:43__
+
 > Bin mir, auch nach den ganzen Monaten, eigentlich gar nicht sicher, was diese App überhaupt macht.<br> :date: __2020-12-19 14:38:18__
 
 > Funktioniert das alles auch mit einer samsung gear sport?<br> :date: __2020-12-18 10:36:10__
@@ -216,8 +218,6 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 
 > Ich finde, das es eine gute Sache ist. Leider werden Xiaomi/Amazfit nicht unterstützt. Daher für viele vermutlich leider nicht anwendbar.<br> :date: __2020-11-02 14:56:11__
 
-> Ich befürworte das Konzept hinter der App und würde meine Gesundheitsdaten gerne zur Verfügung stellen. Jedoch würde ich mir wünschen, dass die Probleme bei der Anmeldung über google fit schnellstens gelöst werden, oder zumindest der Mi fit Service zu den unterstützten Services aufgenommen würde. Dann müsste ich mit meiner Xiaomi Amazfit watch gar nicht erst auf google fit ausweichen.<br> :date: __2020-10-29 10:59:12__
-
 
 
 #### 2-star reviews
@@ -225,6 +225,8 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="de.rki.coronadatenspende 2 reviews"/>
 </p>
+
+> Hallo, kann ich meine Daten auch per Fax schicken?<br> :date: __2021-01-15 20:11:57__
 
 > Solang Huawei Health bei euch nicht eingebunden wird ist die App für mich leider unbrauchbar....<br> :date: __2021-01-13 14:14:15__
 
@@ -244,8 +246,6 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 
 > Postleitzahl wird nicht anerkannt... Komme aus 25813 und nix passiert.<br> :date: __2020-12-04 08:57:58__
 
-> Scheint nicht mehr zu funktionieren. Bin schon ewig dabei, und zeigt 0 Tage Datenspende an. Ob die App überhaupt was bringt, bezweifle ich langsam, ich werde sie deinstallieren.<br> :date: __2020-12-04 06:58:50__
-
 
 
 #### 1-star reviews
@@ -253,6 +253,10 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="de.rki.coronadatenspende 1 reviews"/>
 </p>
+
+> Warum vertraut ihr dem Staat das RKI Robert Koch Institut hat sich schon blamiert mit den falsch informierten Infektions ich bin 18 wollt ihr es wirklich provozieren ich bin so hard durch trainiert das ich gerne dies als Gewalt missbrauchen werde wenn ihr stehts damit nicht aufhört propaganda an inkompetenten Menschen glauben zu lassen die alles glauben 🤣 witzig aber anderer seits seid ihr schuld für Arbeitslosigkeit dafür kriegt ihr das zurück vertraut Natur ist das was nie vergisst I FEEL 365<br> :date: __2021-01-20 11:52:09__
+
+> Keine mi fit Unterstützung<br> :date: __2021-01-17 23:40:59__
 
 > Ohne Wearable funktioniert diese App anscheinend nicht. Warum wird das nicht Bein Start der App angezeigt. Nach 8 Monaten immer noch kein Huawei möglich.<br> :date: __2021-01-15 06:51:49__
 
@@ -269,9 +273,5 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 > Idee ist super. Nur kann ich meine Samsung Gear S3 Frontier nicht verknüpfen.<br> :date: __2020-12-21 04:54:48__
 
 > Leider gibt es auch im Dezember (!) 2020 immer noch keine Unterstützung für die Huawei Health App. Die Daten die über Google Fit an die Datenspende-App übermittelt werden sind leider irrelevant, da Puls und SaO2 nicht übermittelt werden. Darüber hinaus wird das Schlaf-Trecking nach Google Fit falsch übermittelt. So macht das ganze keinen Sinn!<br> :date: __2020-12-20 16:12:56__
-
-> Funktioniert nicht mit Huawei Watch. Schade.<br> :date: __2020-12-20 10:19:29__
-
-> Keine Verbindung zu wearables von huawei<br> :date: __2020-12-17 23:35:41__
 
 

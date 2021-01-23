@@ -129,6 +129,8 @@ The DC CAN app has been installed by more than **10000** times. At this time, **
 <img src="5_star_reviews_wordcloud.png" alt="gov.dc.covid19.exposurenotifications 5 reviews"/>
 </p>
 
+> Clear<br> :date: __2021-01-22 00:09:48__
+
 > The app will work when you get tested by the DC run corona virus testing sites. If you go to private clinic there is no guarantee you will get a verification code if you test positive for covid. The private clinics are supposed to report results to the city health dept but if they don't do that you won't get a call from a contract tracer or a verification code to change your status in the app if you are positive. Go to DC health run testing sites and use this app, and then it works well.<br> :date: __2020-12-26 22:28:01__
 
 > Grand opening of justice<br> :date: __2020-12-23 00:56:24__
@@ -146,8 +148,6 @@ The DC CAN app has been installed by more than **10000** times. At this time, **
 > Perfectly protected<br> :date: __2020-10-25 10:58:04__
 
 > Super important stuff!!!<br> :date: __2020-10-25 02:28:05__
-
-> Install was easy, and the app just sits on my phone and I forget it's even on here. Hopefully more people start using it, as it doesn't seem to be intrusive or even a battery drain at all (at least on my phone) you will need to have Bluetooth turned on in order for this app to work, but it uses something called low energy Bluetooth, which is probably why it doesn't affect battery life. Overall good, simple app.<br> :date: __2020-10-21 15:05:10__
 
 
 

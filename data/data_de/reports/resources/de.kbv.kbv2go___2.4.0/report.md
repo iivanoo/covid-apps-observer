@@ -180,8 +180,6 @@ nützlich und sehr informationreich! Habt vielen dank. Herzliche Grüße Achim!<
 <img src="4_star_reviews_wordcloud.png" alt="de.kbv.kbv2go 4 reviews"/>
 </p>
 
-> Bzgl. des Heilmittelkatalog es wäre es schön wenn die Liste der icd-10 Codes für den langfristigen und besonderen Versorgungsbedarf abrufbar wäre. Dieser Anhang fehlt im Heilmittelkatalog. Bitte zufügen.<br> :date: __2021-01-15 18:36:37__
-
 > Heilmittel Katalog nicht da, dafür extra installiert. Hoffe es wird zeitnah verwirklicht.<br> :date: __2021-01-15 16:08:01__
 
 > Ich finde die App super. Leider habe ich mit meinem S6 bei der Suche von OPS Verschlüsselungen Probleme. Und zwar wird mir der OPS angezeigt die Beschreibung dafür aber nur kurz wie z.b. partielle ... Das macht es aufwendiger bei einer Suche.<br> :date: __2020-05-14 17:28:53__

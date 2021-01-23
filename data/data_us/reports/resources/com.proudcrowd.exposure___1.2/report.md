@@ -144,6 +144,10 @@ The Care19 Alert app has been installed by more than **10000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="com.proudcrowd.exposure 5 reviews"/>
 </p>
 
+> My coverage<br> :date: __2021-01-23 11:07:33__
+
+> I want this app back<br> :date: __2021-01-20 08:56:46__
+
 > Love it<br> :date: __2021-01-13 23:48:06__
 
 > Helpful💕⁦♥️⁩👏🙏👏🤗<br> :date: __2021-01-08 05:16:19__
@@ -159,10 +163,6 @@ The Care19 Alert app has been installed by more than **10000** times. At this ti
 > Not really sure how often it does a check but from what I see from the pictures it's suppose to check 2 hours or so and I will go hours between checks kind of disappointed in the app not going to know if I have been exposed if it don't check when it is suppose to<br> :date: __2020-11-03 20:26:41__
 
 > I love the app because I love it<br> :date: __2020-10-29 18:17:07__
-
-> Absolutely love it<br> :date: __2020-10-25 07:09:59__
-
-> Help<br> :date: __2020-09-15 03:29:55__
 
 
 
@@ -185,6 +185,8 @@ The Care19 Alert app has been installed by more than **10000** times. At this ti
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="com.proudcrowd.exposure 3 reviews"/>
 </p>
+
+> Well, i don't know if it works, because a lot of the idiots in this state don't use it.<br> :date: __2021-01-23 04:24:06__
 
 > From what it says when you check it, it only has 2 exposure checks per day. I do not see how it can be at all accurate if it only checks twice a day??<br> :date: __2020-12-10 14:20:51__
 

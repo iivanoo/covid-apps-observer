@@ -234,6 +234,10 @@ The COVID Alert CT app has been installed by more than **50000** times. At this 
 <img src="1_star_reviews_wordcloud.png" alt="gov.ct.covid19.exposurenotifications 1 reviews"/>
 </p>
 
+> What code do I have to enter? I was never given one. EDIT: It's been more than 2 weeks since I got my test so it's pointless now.<br> :date: __2021-01-23 02:18:06__
+
+> Waste of memory.<br> :date: __2021-01-20 17:46:50__
+
 > Poor, at best. I know I have been in close proximity to many individuals who have tested positive. Never once have i been notified. There is 1 person I know for certain and I spend an extensive amount of time with. I should have received a notice. I got bubkiss.<br> :date: __2021-01-14 18:58:55__
 
 > IT REALLY SOUNDS LIKE THIS APP SUCKS.!!! Reading the reviews I DEFINITELY WOULD NOT INSTALL THIS ON MY PHONE. 👎 👎 👎 FROM AN ANDROID USER.<br> :date: __2021-01-11 21:31:10__
@@ -242,8 +246,6 @@ The COVID Alert CT app has been installed by more than **50000** times. At this 
 
 > It's my job to be next to people with the 'Rona and not once have I gotten an alert.<br> :date: __2021-01-09 03:44:53__
 
-> What code do I have to enter? I was never given one.<br> :date: __2021-01-08 05:04:04__
-
 > This App does nothing, I have been in contact with several people who had tested positive for COVID and this app did not alert me to anything.<br> :date: __2021-01-07 22:50:37__
 
 > Deficiencies with this app. A. Not everyone in Ct. has this installed on their cell phone. B. Not everyone that tests positive is reporting it. There's been 2 ppl at work that recently tested positive and this app never alerted me.<br> :date: __2021-01-06 14:02:57__
@@ -251,7 +253,5 @@ The COVID Alert CT app has been installed by more than **50000** times. At this 
 > I work in a residential facility where both staff and residents have cell phones. Not once, with any positive case, has this app notified me of an exposure. Very disappointing.<br> :date: __2021-01-04 21:27:36__
 
 > Totally pointless. Unless everyone else is using theres no point in having it. My wife and I have been around several people who have been covid positive and never received a warning.<br> :date: __2021-01-02 17:39:12__
-
-> Why ONLY allow the fingerprint scan option and not offer the password/pin option? (Meanning I cannot access the scanned list). Is it that challenging for the devs to realize we all don't utilize/have access to the SAME FEATURES. This app is the equivalent of a paperweight, in my phone.<br> :date: __2020-12-28 19:14:04__
 
 

@@ -125,6 +125,8 @@ The CO Exposure Notifications app has been installed by more than **100000** tim
 <img src="5_star_reviews_wordcloud.png" alt="gov.co.cdphe.exposurenotifications 5 reviews"/>
 </p>
 
+> This app. does what it says<br> :date: __2021-01-18 07:59:50__
+
 > Amazing<br> :date: __2021-01-10 02:04:49__
 
 > Thanfully I have had no notifications but this is a great help for Colorado to trace and inform.<br> :date: __2021-01-06 02:45:40__
@@ -142,8 +144,6 @@ The CO Exposure Notifications app has been installed by more than **100000** tim
 > This is a wonderful opportunity updated with anything was going on in the world covid-19<br> :date: __2020-12-07 06:53:53__
 
 > Right<br> :date: __2020-12-01 05:36:13__
-
-> very informative, thanks<br> :date: __2020-12-01 02:39:23__
 
 
 
@@ -235,6 +235,10 @@ The CO Exposure Notifications app has been installed by more than **100000** tim
 <img src="1_star_reviews_wordcloud.png" alt="gov.co.cdphe.exposurenotifications 1 reviews"/>
 </p>
 
+> Will not let me report my positive covid test results. Asking for some verification number. Neither I nor my doctor knows what that is.<br> :date: __2021-01-21 01:57:48__
+
+> App doesn't work. Didn't notify me when co-workers had it. I can't put in that I currently have it. Needs some verification code but doesn't tell you where or how to get that. Sure this was a big waste of tax dollars<br> :date: __2021-01-18 21:37:09__
+
 > Cant post results doesn't see anyone with covid ever..<br> :date: __2021-01-15 08:50:35__
 
 > Absolutely hate app<br> :date: __2021-01-15 01:29:56__
@@ -250,9 +254,5 @@ The CO Exposure Notifications app has been installed by more than **100000** tim
 > Pretty much worthless.<br> :date: __2021-01-04 03:59:31__
 
 > Not sure if it works<br> :date: __2021-01-04 01:23:19__
-
-> It's about as worthless as our stupid governor.<br> :date: __2021-01-04 00:22:14__
-
-> 1 star based on the fact that the play store pushes the app on you and it does nothing helpful<br> :date: __2021-01-03 00:46:32__
 
 

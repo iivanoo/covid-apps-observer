@@ -192,6 +192,12 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 <img src="5_star_reviews_wordcloud.png" alt="com.ascent.phr 5 reviews"/>
 </p>
 
+> always reliable<br> :date: __2021-01-22 23:05:05__
+
+> great<br> :date: __2021-01-19 12:51:15__
+
+> Do not hesitate, this is the app you need, forget the rest, just started using it and it's brilliant.<br> :date: __2021-01-17 15:25:13__
+
 > so easy to order repeat prescriptions, would recommend to everybody<br> :date: __2021-01-14 18:22:02__
 
 > Great and easy to use<br> :date: __2021-01-14 09:35:00__
@@ -205,12 +211,6 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 > much better after they rewrote the app<br> :date: __2021-01-06 10:51:49__
 
 > very easy to operate. It's saves time for patients.<br> :date: __2021-01-05 10:20:11__
-
-> Easy to use<br> :date: __2021-01-03 07:58:48__
-
-> Excellent, no hassle with telephone calls.<br> :date: __2021-01-02 08:35:04__
-
-> Easy to use and order repeat prescriptions.<br> :date: __2020-12-31 18:06:11__
 
 
 
@@ -276,6 +276,8 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 <img src="2_star_reviews_wordcloud.png" alt="com.ascent.phr 2 reviews"/>
 </p>
 
+> login makes you go crazy and doesn't let you in<br> :date: __2021-01-22 13:09:48__
+
 > ok App doesn't really do much in the way of looking at your medical records or being able to book appointments at the doctors etc. not really sure why I still have it installed tbh<br> :date: __2021-01-14 22:26:48__
 
 > only for ordering prescription nothing else works<br> :date: __2021-01-05 20:39:32__
@@ -294,8 +296,6 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 
 > Too many irrelevant pop up links when logging in making it difficult to get to the bit I need (repeat prescription). I can get through them but others may struggle<br> :date: __2020-11-27 13:54:02__
 
-> difficult to use<br> :date: __2020-11-27 10:15:40__
-
 
 
 #### 1-star reviews
@@ -303,6 +303,8 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="com.ascent.phr 1 reviews"/>
 </p>
+
+> Rubbish app. Cannot access any information recently 😕. Its supposed to make GP access easier. Its such a pain.<br> :date: __2021-01-21 09:56:33__
 
 > Won't connect to GP practice, so of no use to me. I tried asking on "live chat" but just got an automated referral to changing gp practice - not what I wanted to do at all.<br> :date: __2021-01-15 08:40:33__
 
@@ -321,7 +323,5 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 > app works intermittently<br> :date: __2020-12-08 15:10:27__
 
 > keeps stopping mid prescription order<br> :date: __2020-12-08 11:16:05__
-
-> Currently not recognising the biometric login. I change login via password which worked, but now I can't use GP services to order my repeat prescription, just see a continuous evergreen logo which I presume means it's trying to connect.<br> :date: __2020-12-08 10:12:22__
 
 

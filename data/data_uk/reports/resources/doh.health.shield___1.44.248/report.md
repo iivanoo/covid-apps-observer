@@ -147,25 +147,25 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="doh.health.shield 5 reviews"/>
 </p>
 
-> Very good<br> :date: __2021-01-16 18:03:13__
+> Good<br> :date: __2021-01-22 17:59:06__
 
-> Plise open the ap my mobile all Hussain app<br> :date: __2021-01-16 15:48:32__
+> Perfect apps for information<br> :date: __2021-01-22 17:46:11__
 
-> ويارا يارا 🤣😘😘😘😘😘😘🤣<br> :date: __2021-01-16 15:31:00__
+> Great app<br> :date: __2021-01-22 16:16:12__
 
-> A1 app<br> :date: __2021-01-16 12:39:13__
+> Ok<br> :date: __2021-01-22 16:15:39__
 
-> Good<br> :date: __2021-01-16 11:33:59__
+> Fine<br> :date: __2021-01-22 04:54:31__
 
-> Well Mantained records<br> :date: __2021-01-16 10:50:55__
+> Good<br> :date: __2021-01-21 20:17:32__
 
-> Good<br> :date: __2021-01-16 07:01:22__
+> Very good<br> :date: __2021-01-21 17:38:18__
 
-> Good very good<br> :date: __2021-01-15 19:07:30__
+> Good<br> :date: __2021-01-21 17:10:40__
 
-> thes app very fast and very esy thats whay I like<br> :date: __2021-01-15 15:40:50__
+> Excellent<br> :date: __2021-01-21 13:34:30__
 
-> Excellence app.very informative<br> :date: __2021-01-15 15:22:28__
+> very nice<br> :date: __2021-01-21 13:27:56__
 
 
 
@@ -175,25 +175,25 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 <img src="4_star_reviews_wordcloud.png" alt="doh.health.shield 4 reviews"/>
 </p>
 
+> Before this was ok but now it is not showing my results it is asking pre condition surveys question?<br> :date: __2021-01-22 10:42:17__
+
+> Good<br> :date: __2021-01-21 06:26:39__
+
+> Keep improving as there are bugs. Thank you.<br> :date: __2021-01-19 18:54:51__
+
+> Very good<br> :date: __2021-01-19 18:45:29__
+
+> Good<br> :date: __2021-01-19 18:30:25__
+
+> Hi , I take covid vaccine but alhosn app not showing my vaccine report<br> :date: __2021-01-17 10:16:47__
+
+> It's a good application<br> :date: __2021-01-17 05:46:57__
+
 > Nice working<br> :date: __2021-01-16 05:24:46__
 
 > Does what it says on the tin...would be better if you didn't have to have your location switch on to use it. Apart from that, no issues<br> :date: __2021-01-09 09:50:29__
 
 > Very good<br> :date: __2021-01-06 18:10:20__
-
-> َكطلفس٦ث<br> :date: __2021-01-05 13:38:10__
-
-> Good<br> :date: __2021-01-03 20:28:16__
-
-> Good<br> :date: __2021-01-03 09:25:31__
-
-> V.good<br> :date: __2021-01-02 16:14:38__
-
-> Found okay<br> :date: __2021-01-02 06:23:39__
-
-> Excellent<br> :date: __2021-01-01 06:08:20__
-
-> Good app<br> :date: __2020-12-26 14:50:44__
 
 
 
@@ -202,6 +202,12 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="doh.health.shield 3 reviews"/>
 </p>
+
+> Greetings and more, my PCR test result and phase III trials volunteer star is not being updated.Kindly advice.<br> :date: __2021-01-21 12:18:50__
+
+> Good<br> :date: __2021-01-19 18:25:21__
+
+> User details not available<br> :date: __2021-01-16 19:03:03__
 
 > its showing wrong credentials error while am trying login the app. since i am using same number from the beginning and I have registered with the same number, but now its showing that logout and login with another number ending with 748 which is not under my name. i have already send the mail but still there is no response. kindly advise me<br> :date: __2021-01-16 11:41:13__
 
@@ -213,15 +219,9 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 
 > Ok<br> :date: __2021-01-06 22:19:14__
 
-> Help me who ever cordinating it i want to change the number its still showing my old number which i am not able to asses any more<br> :date: __2021-01-06 09:28:01__
-
 > My app is not working I took a test yesterday and I am trying too open my profile but it says error try later or contact customer service.<br> :date: __2021-01-05 05:17:24__
 
 > useful<br> :date: __2020-12-31 16:56:18__
-
-> Nice...<br> :date: __2020-12-25 02:24:19__
-
-> The updated version is getting hanging..<br> :date: __2020-12-24 14:17:27__
 
 
 
@@ -230,6 +230,10 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="doh.health.shield 2 reviews"/>
 </p>
+
+> My covid result is coming but al hosn app says some time not result yet, some time mobile no. Is not register why<br> :date: __2021-01-19 18:44:18__
+
+> There is no feedback from call center<br> :date: __2021-01-17 07:43:42__
 
 > First 4 months this application works very smoothly.But last December I did one covid test but still I didn't get report on alhosn.i registered 3 times complaints. But nothing happened. Finally one customer service madam provide me a watsapp no and informed me to send Emirates I'd,my covid report and screenshot of alhosan app.i send all details.But still no progress. Seriously worried about this application<br> :date: __2021-01-14 07:00:37__
 
@@ -247,10 +251,6 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 
 > Very slow<br> :date: __2020-12-31 11:11:18__
 
-> Since the last update the app is getting stuck, displaying only the splash screen<br> :date: __2020-12-30 12:01:01__
-
-> I've been re-installing, logging out/logging in again and again but still i cannot proceed to get my result. It always ask me some survey, can't able to submit because it keeps hangs up.<br> :date: __2020-12-30 06:55:43__
-
 
 
 #### 1-star reviews
@@ -259,24 +259,24 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="doh.health.shield 1 reviews"/>
 </p>
 
-> Poor performance<br> :date: __2021-01-16 18:49:59__
+> It says wrong credentials and asking me to use some unknown number. In my all other official documents, id's and government applications, i have my personal number and its working fine. But only for this application it's not. I did my covid vaccination and want to see my result. Please do the needful give user some meaningful options and settings.<br> :date: __2021-01-22 18:50:37__
 
-> This app does not login now which used to work perfectly before. Now it states "user not found" message. Also test results are not updated.<br> :date: __2021-01-16 18:11:28__
+> البرنامج يستهلك بطاريه يرسل كثير من الاشعارات<br> :date: __2021-01-22 16:43:22__
 
-> i download this app then i enter my number and it saying that "User not found & Wrong Credentials" so how I can know my result? what can i do? any help?<br> :date: __2021-01-16 17:57:35__
+> Horrible user experience. Why does it not have a reliable spell check? Says that my number is not registered especially when it says that my number is registered. That also after I recieved a successful screening. Fix it<br> :date: __2021-01-22 11:18:12__
 
-> Not consistent apps and services<br> :date: __2021-01-16 14:27:19__
+> It's not working 😤😦<br> :date: __2021-01-22 08:20:16__
 
-> My friend result is not reflecting in the app<br> :date: __2021-01-16 13:55:40__
+> Prompting my number (current number registered on my recent test) is not registered. Log out and log in with your numbers: (my old number) I followed the procedure but I did not received the on my old number. I tried again on my current number, I easily got the code but still prompted "Not registered".... Any work around for this?<br> :date: __2021-01-22 06:24:55__
 
-> This app gives the wrong status Post Covid-19<br> :date: __2021-01-16 13:36:15__
+> Why it need your location all the time?<br> :date: __2021-01-21 13:28:23__
 
-> Not working ...its given headache to activate profile .current number using for this apps but apps give others namber which I m not useing any more. .........................<br> :date: __2021-01-16 11:02:19__
+> Not able to select location on, pressing multiple times but x sign is not changing to a green tick and that mean i can not proceed with use of the app. Any suggestions?<br> :date: __2021-01-21 08:49:46__
 
-> I keep getting a wrong credentials when logging in. Its say i entered a different mobile number.<br> :date: __2021-01-16 10:06:29__
+> سيء<br> :date: __2021-01-20 19:14:31__
 
-> wont even open on my phone anymore, I keep opening the app only for it to close.<br> :date: __2021-01-15 11:40:33__
+> Why blue tooth need ON, or battery too much consume...good thing covid 19 r and vaccination ecord save☺️<br> :date: __2021-01-20 15:31:53__
 
-> The app doesn't work....<br> :date: __2021-01-15 10:48:13__
+> Horrible app<br> :date: __2021-01-20 14:29:13__
 
 

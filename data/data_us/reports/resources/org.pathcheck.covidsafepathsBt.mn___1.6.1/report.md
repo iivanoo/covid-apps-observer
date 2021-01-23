@@ -137,6 +137,8 @@ The COVIDaware MN app has been installed by more than **100000** times. At this 
 <img src="5_star_reviews_wordcloud.png" alt="org.pathcheck.covidsafepathsBt.mn 5 reviews"/>
 </p>
 
+> (optional)<br> :date: __2021-01-20 08:52:59__
+
 > Edit: the below issue has been addressed. Much better now! Old review: "Like the app, easy to use, pleasant interface. However, I was exposed about a month ago. It alerted me correctly, but it never cleared/updated the exposure notice. It says "Possible exposure 7-14 days ago". So after your first possible exposure, you'll be tempted to ignore it. It would be more effective if it either said "Possible exposure between "11/14 and 11/21" or simply added a timestamp to each exposure notification."<br> :date: __2021-01-13 15:17:30__
 
 > No personal data taken and easy to use.<br> :date: __2021-01-13 03:44:15__
@@ -154,8 +156,6 @@ The COVIDaware MN app has been installed by more than **100000** times. At this 
 > I don't have Covid<br> :date: __2020-12-16 04:54:47__
 
 > Great<br> :date: __2020-12-15 19:37:45__
-
-> I love the idea behind this app. However because of the climate of denial and disinformation surrounding covid, it's not likely to be as effective as it could be. The people most needing this app are not likely to download it, and people like me who are taking the proper precautions are most likely not to need it.<br> :date: __2020-12-14 19:41:58__
 
 
 
@@ -209,9 +209,9 @@ The COVIDaware MN app has been installed by more than **100000** times. At this 
 
 > So what is a verification code and how do you get one and from whom? A help function or more explanation is needed.<br> :date: __2020-12-21 02:33:56__
 
-> Has only one notification type called "Exposure Notification" which fires everyday/night on exposure database updates. Had to silence this annoyance, but that also silences legit exposures! More fundamental flaws: doesn't account for PPE or if barriers between people, & relies on voluntary positive test input rather than MDH registry. Good: No location permissions required. App Info screens shows "No permissions requested". Double blind anon ID system is good. No BT issues like others.<br> :date: __2020-12-18 14:20:18__
-
 > Really you're putting out an app with no dark mode? Have you not paid attention to any other applications or operating system pushes and updates? I love staring into a flashlight.<br> :date: __2020-12-12 23:05:07__
+
+> I'm not sure that this app is really doing anything useful. The way it's set up is completely voluntary. So even if a user has Covid-19, they don't actually have to record it. And what about the people who don't download the app and use it? I'm not convinced that this app is accomplishing it's intended purpose.<br> :date: __2020-12-12 14:19:09__
 
 
 
@@ -220,6 +220,10 @@ The COVIDaware MN app has been installed by more than **100000** times. At this 
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="org.pathcheck.covidsafepathsBt.mn 2 reviews"/>
 </p>
+
+> Gives a notification for 'checking exposures' that doesn't go away and you can't dismiss the notification. Would like to have the app, but I don't want it if it has this annoying bug.<br> :date: __2021-01-18 17:25:50__
+
+> Why is this app downloading multiples of files every day? Dear God there is no settings I have limited data and there is no download with confirmation to see if we want to wait on the updates. It's downloading a bunch do notifications files. This behavior is not acceptable to me...<br> :date: __2021-01-17 23:04:18__
 
 > don't know but bluetooth bad for me<br> :date: __2021-01-13 15:40:34__
 
@@ -237,10 +241,6 @@ The COVIDaware MN app has been installed by more than **100000** times. At this 
 
 > Didn't all around like because of the constant notifications even with the Bluetooth off.<br> :date: __2020-12-12 05:41:09__
 
-> After having setup the app, now when I start it, it just shows the splash screen.<br> :date: __2020-12-12 02:53:31__
-
-> An expected disappointment. The app itself is truthful that is doesn't save ur location or personal info .... ( I checked in my settings and looked at the app permissions - none)... but that statement is true only because CovidAware isn't , Google is .. on Android 10 and below , isn't that like almost every device . Smh . The app would be good if it wasnt on the Google platform .<br> :date: __2020-12-06 16:48:18__
-
 
 
 #### 1-star reviews
@@ -249,6 +249,18 @@ The COVIDaware MN app has been installed by more than **100000** times. At this 
 <img src="1_star_reviews_wordcloud.png" alt="org.pathcheck.covidsafepathsBt.mn 1 reviews"/>
 </p>
 
+> It's been goodnight<br> :date: __2021-01-21 20:21:50__
+
+> So, the app works pretty decently. My complaint is, I just recently was exposed to someone who has covid. There is no way to input a possible exposure in the app. The idea is to prevent. But you can only report if you have a code from a positive test result... Kinda worthless then.. so who are we actually helping?<br> :date: __2021-01-19 21:47:53__
+
+> Buggy and annoying. The "checking exposures" notification will pop up on top of literally everything else even though a background process running is my lowest priority unless I've actually been exposed. And sometimes it gets stuck in a loop causing it to pop up over and over for a period of about 5 minutes. And during that 5 minutes, the app itself won't even open - it gets stuck on the splash screen.<br> :date: __2021-01-18 15:47:24__
+
+> Tells me I need to authorize covid exposure notifications in settings but settings won't allow me to authorize them until the app is finished downloading<br> :date: __2021-01-17 18:33:05__
+
+> Useless, as no one in the US will self report having COVID-19. I installed and absolutely nothing ever happened, even when my close contact colleague got the virus, and was out for weeks.<br> :date: __2021-01-16 19:58:50__
+
+> This app is pretty much useless! I got COVID last week from an unknown exposure and didn't get any app exposure notifications. After my test came back positive, I had to ask the MN Department of Health for the app code 3 times! After I entered the code, my husband didn't get an exposure notification until 8 hours later - after he touched the "Check for exposures" button while sitting next to me. The app said he was potentially exposed within the last 2 days. I've been contagious for at least 7.<br> :date: __2021-01-15 23:53:44__
+
 > As others have stated, I have my doubts about the effectiveness of the app. I'm sure it uploads all kinds of information about you to some database somewhere, but It does not seem to provide any meaningful information to back to the user. Over New Years I went to Las Vegas. I got on a plane, spent 5 days in a casino/hotel, got back on a plane and came home. The app shows no exposures? I find this hard to believe.<br> :date: __2021-01-15 15:16:52__
 
 > Kept telling me to enable my alerts even though they were already enabled. Uninstalled and reinstalling numerous times, didn't fix the issue. Must not work with the Samsung Galaxy S20+5G.<br> :date: __2021-01-15 09:10:02__
@@ -256,17 +268,5 @@ The COVIDaware MN app has been installed by more than **100000** times. At this 
 > Doesn't work<br> :date: __2021-01-14 15:52:45__
 
 > Doesn't work<br> :date: __2021-01-13 23:22:42__
-
-> Does not work. My whole family downloaded this app. I saw my in-laws about two weeks before Christmas for about 30 minutes. A few days later my mother in law tested positive for COVID, then my father in law did too. They both reported it in the app. Of course I did not need the app to tell me I was exposed, but I had a known exposure and spent time within about 10 feet of my in laws (with a mask on), and I did not receive any notification from the app that I had been exposed. Ineffective.<br> :date: __2021-01-04 23:49:20__
-
-> MHD takes forever to respond for you to get a code. Becomes unless after a week of quarantine then they call you and the reps don't understand what app your taking about.<br> :date: __2021-01-04 17:14:46__
-
-> Good idea, but,,,<br> :date: __2021-01-02 03:37:01__
-
-> Hell on earth Experience I was in a state which was caused by the second one I saw a new computer screen for me I have written about how I have an inner computer screen that I can it was black with different words around the edge I didn't heard a loud computer sound it sounded like a reboot then I heard a very far away computer sound that was not connected to my body and I couldn't hear a couple of seconds so I opened my eyes are blinking but it was the same we have not lost power when I close m<br> :date: __2020-12-29 20:19:58__
-
-> Only turns on when home........<br> :date: __2020-12-28 01:53:11__
-
-> Awful, unusable, unable to access. Can't Uninstall. Worse than the plague in terms of frustration.<br> :date: __2020-12-27 01:30:08__
 
 

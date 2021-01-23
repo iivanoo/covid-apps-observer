@@ -187,6 +187,8 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 <img src="3_star_reviews_wordcloud.png" alt="de.bssd.covid19 3 reviews"/>
 </p>
 
+> Die App hat funktioniert aber seit dem Android Update kann ich die App nicht mehr starten sie geht auf und schließt sofort wieder. Auch mehrmalige Neuinstallation hat keinen Fortschritt gebracht bitte fixen<br> :date: __2021-01-22 11:09:56__
+
 > QR-Code geht nicht, dafür bekommt man nach dem Eingeben unzähliger Ziffern(Fehlerquelle), mit Bindestrich, ein rasches Ergebnis.<br> :date: __2020-11-14 11:21:34__
 
 > Die Funktionalität ist zwar grausam, z. B. funktioniert der QR Scanner nicht und man muss den Code händisch eintragen, wobei gefühlt zehnmal so viele Zeichen wie bei der Installation von Windows 7 eingegeben werden müssen. Andererseits ist das Testergebnis viel schneller verfügbar, als bei der offiziellen Corona Warnapp.<br> :date: __2020-11-12 16:57:57__
@@ -205,8 +207,6 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 
 > Bewertung nicht möglich, beim Starten der App erscheint sofort ..angehalten<br> :date: __2020-07-02 22:39:15__
 
-> Ich kann das nicht beurteilen.<br> :date: __2020-06-19 13:05:42__
-
 
 
 #### 2-star reviews
@@ -214,6 +214,8 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="de.bssd.covid19 2 reviews"/>
 </p>
+
+> Die App lässt sich leider nicht öffnen. Stürzt immer ab.<br> :date: __2021-01-21 01:17:36__
 
 > Funktioniert nicht mit Android 11 mit Android 10 funktionierte die App gut.<br> :date: __2020-12-17 10:09:37__
 
@@ -233,8 +235,6 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 
 > Also aktuell warte ich auf mein ergebnis und komme seit heute morgen gar nicht mehr im die app. Error, server, überprüfen Sie ihren benutzernamen. Hab ja nur nen code. Also leute, wenn ihr schon ne app raus bringt, dann solltest ihr die auch regelmäßig abdaten. Sowas geht gar nicht. Wir medizinisches personal sind an forderster front und sollten schon wissen, was für ergebnisse wir haben.<br> :date: __2020-05-09 17:50:57__
 
-> Ich hasse das Anmelden. Wird Deinstalliert<br> :date: __2020-04-30 14:52:09__
-
 
 
 #### 1-star reviews
@@ -242,6 +242,14 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="de.bssd.covid19 1 reviews"/>
 </p>
+
+> Das Scannen funktioniert nicht und eine ID habe ich nicht erhalten. Dadurch habe ich das Ergebnis per E-Mail anfordern müssen.<br> :date: __2021-01-22 17:25:57__
+
+> Hab die app installiert lässt sich aber nicht öffnen ...<br> :date: __2021-01-21 14:34:37__
+
+> Unbrauchbar! Entweder Kamera nicht aktiviert oder der QR-Code wird nicht erkannt. Hilft so nicht im Kampf gegen die Pandemie...<br> :date: __2021-01-20 13:03:38__
+
+> leider funktioniert das Scannen des Barcodes nicht .... schade d.h., immer die lange Nummer eintippen<br> :date: __2021-01-20 11:10:55__
 
 > Startet noch nicht einmal... gar nicht erst runterladen ist die beste Entscheidung<br> :date: __2021-01-15 18:03:09__
 
@@ -254,13 +262,5 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 > Null Sterne leider nicht möglich da die app überhaupt nicht funktioniert. Die Tastatur öffnet sich nicht, der scan funktioniert auch nicht und überhaupt ist die UI absoluter Müll.<br> :date: __2021-01-10 12:22:06__
 
 > Scanfunktion nicht möglich. Texteingabe nicht immer möglich. Ein Armutszeugnis!<br> :date: __2021-01-09 22:41:48__
-
-> Nach klick auf die App geht Startbild auf und schließt sofort wieder. Hatte gestern großes Android 11 Update. Ob es damit zusammen hängt?<br> :date: __2021-01-09 17:00:43__
-
-> App zeigt kurz Startbild und endet sofort wieder! Mehrfach deinstalliert und neu installiert.<br> :date: __2021-01-08 14:38:50__
-
-> QR scannt nicht. Dadurch ist keine Anmeldung möglich. Unnötige App<br> :date: __2021-01-05 13:20:02__
-
-> Funktionierte leider nicht. QR Code wurde nicht gescannt<br> :date: __2021-01-05 05:33:13__
 
 

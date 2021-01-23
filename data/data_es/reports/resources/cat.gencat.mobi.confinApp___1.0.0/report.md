@@ -147,6 +147,10 @@ The CONFINAPP app has been installed by more than **10000** times. At this time,
 <img src="4_star_reviews_wordcloud.png" alt="cat.gencat.mobi.confinApp 4 reviews"/>
 </p>
 
+> Esta bien, pero cuando haces el certificado de salida por trabajo en una fecha tendría que tener la opción de poner todos los dias, ya que vas todos los dias a trabajar.<br> :date: __2021-01-22 10:42:59__
+
+> Esta bien sobre todo para el medio ambiente<br> :date: __2021-01-20 11:15:00__
+
 > Apliqueu un codi QR per millorar certificats.<br> :date: __2020-11-01 13:45:27__
 
 > De momento va bien<br> :date: __2020-05-12 11:26:45__
@@ -179,6 +183,8 @@ The CONFINAPP app has been installed by more than **10000** times. At this time,
 <img src="2_star_reviews_wordcloud.png" alt="cat.gencat.mobi.confinApp 2 reviews"/>
 </p>
 
+> Cada vez que cierras la aplicación desaparecen los datos personales y los certificados solicitados<br> :date: __2021-01-22 10:37:19__
+
 > Cuando quiero renovar un certificado que he creado anteriormente, me sale error y no me deja renovarlo. Debo crear uno nuevo cada vez que lo necesito.<br> :date: __2021-01-16 14:06:48__
 
 > Tarda mucho en abrirlo<br> :date: __2021-01-12 11:49:45__
@@ -203,6 +209,8 @@ The CONFINAPP app has been installed by more than **10000** times. At this time,
 <img src="1_star_reviews_wordcloud.png" alt="cat.gencat.mobi.confinApp 1 reviews"/>
 </p>
 
+> No es una App, se limita a abrir lo mismo que verías desde el navegador.<br> :date: __2021-01-22 08:45:18__
+
 > Molt poc útil, les novetats no s' actualitzen, el certificats no es guarden. És una llastima perque actualitzada i amb els certificats seria una app super útil<br> :date: __2021-01-16 09:17:01__
 
 > Funciona cuando le da la puñetera gana, vaya chapuza!!!<br> :date: __2021-01-14 11:26:59__
@@ -220,7 +228,5 @@ The CONFINAPP app has been installed by more than **10000** times. At this time,
 > Basura Pongo C. P de dirección de origen y de ahí no puedo pasar.<br> :date: __2021-01-07 21:05:04__
 
 > No se abre 🤦‍♂️<br> :date: __2021-01-07 14:28:26__
-
-> Decepcionant, la tinc des del primer confinament i ara no puc generar cap certificat, no puc escriure a les caselles<br> :date: __2021-01-07 13:56:58__
 
 

@@ -190,6 +190,10 @@ The Ascension Online Care – See a Doctor 24/7 app has been installed by more t
 <img src="5_star_reviews_wordcloud.png" alt="org.ascension.android.ascn.onlinecare 5 reviews"/>
 </p>
 
+> So grateful for this app worked amazing for us!<br> :date: __2021-01-19 18:54:56__
+
+> Worked better than any online Dr I have ever visited. No lag or anything.<br> :date: __2021-01-18 19:33:16__
+
 > Great appt easy to use<br> :date: __2021-01-07 16:11:44__
 
 > Love it. Best idea especially if you got that kind of elderly parent who won't listen to you and is very stubborn lol, who needs to hear it from a professional to determine they're options.<br> :date: __2021-01-04 04:47:55__
@@ -205,10 +209,6 @@ The Ascension Online Care – See a Doctor 24/7 app has been installed by more t
 > Such a safe experience to get a simple treatment for non emergency issue. Thank you<br> :date: __2020-12-16 20:24:52__
 
 > Good<br> :date: __2020-12-15 17:59:18__
-
-> Helpful and easy to use<br> :date: __2020-12-11 22:49:02__
-
-> I haven't used this app yet, because I just have open the app when I was in Lourdes Memorial Hospital as a patient there.<br> :date: __2020-12-11 16:13:31__
 
 
 
@@ -246,7 +246,11 @@ The Ascension Online Care – See a Doctor 24/7 app has been installed by more t
 <img src="3_star_reviews_wordcloud.png" alt="org.ascension.android.ascn.onlinecare 3 reviews"/>
 </p>
 
-> Like it but it disconnected in mid appointment<br> :date: __2020-11-19 19:41:28__
+> The concept is awesome, but it would be beneficial to have interaction with the "patient portal" that seton ascension clinics use. Or even to see services and billing history that you can interact with within the app itself.<br> :date: __2021-01-22 20:19:52__
+
+> Like it but it disconnected in mid appointment<br> :date: __2021-01-21 19:47:37__
+
+> Requires wifi which is not always readily available. Does not work well on cellular network<br> :date: __2021-01-19 23:19:24__
 
 > Is app freezes up in the middle of my session I just had a session with my counselor and it froze up so she had to end it<br> :date: __2020-10-27 20:39:40__
 
@@ -261,10 +265,6 @@ The Ascension Online Care – See a Doctor 24/7 app has been installed by more t
 > Visit froze 3 times. Kind of irritating.<br> :date: __2020-06-11 16:44:17__
 
 > Communication not loud enough. Hard to hear and I have good ears other than that it was good<br> :date: __2020-06-10 20:15:31__
-
-> sucks! trying to download it since my laptop had microphone problems, and this still trying to download. I have missed my appointment already. Can they pay attention and fix this issues?<br> :date: __2020-06-04 22:06:40__
-
-> Needs to be updated since its being used more now for scheduled video visits with primary and specialty providers sits more user friendly.<br> :date: __2020-05-19 13:18:13__
 
 
 

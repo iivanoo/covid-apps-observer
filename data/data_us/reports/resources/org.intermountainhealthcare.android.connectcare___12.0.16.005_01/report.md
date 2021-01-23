@@ -192,6 +192,8 @@ The Intermountain Connect Care app has been installed by more than **100000** ti
 <img src="5_star_reviews_wordcloud.png" alt="org.intermountainhealthcare.android.connectcare 5 reviews"/>
 </p>
 
+> The provider was very concerned about why I was using connect care. She was just a caring person.<br> :date: __2021-01-17 23:08:12__
+
 > So convenient. Can't wait to share with my college student. Be prepared to fill in information as you would at a doctor's office.<br> :date: __2021-01-14 23:20:59__
 
 > Nice that I didn't have to take off work. Easy to access!<br> :date: __2021-01-12 17:03:39__
@@ -209,8 +211,6 @@ The Intermountain Connect Care app has been installed by more than **100000** ti
 > Great experience<br> :date: __2020-12-09 05:47:31__
 
 > I'm very happy with connect care, they help me right away😊😊😊<br> :date: __2020-11-13 22:42:02__
-
-> Good!<br> :date: __2020-11-07 01:23:19__
 
 
 

@@ -1,5 +1,29 @@
 [
     {
+        "reviewId": "gp:AOqpTOEoMsJhVNPU6XeEkVWUkq7oLeaC3nDBV0yIYF7o85qXTQ7LRpwFmIWwMcB7CYPcjhg9DP-eDepcs2-iVZM",
+        "userName": "Fabian L.",
+        "userImage": "https://play-lh.googleusercontent.com/-JIvqXZMIWfM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnR7x-LrZ2Fl1O8n8nuKbXjXq2Dxg/photo.jpg",
+        "content": "L\u00e4sst sich nicht mehr \u00f6ffnen - unbrauchbar. Bitte beheben. Samsung Galaxy S10",
+        "score": 1,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "2.2.17",
+        "at": "2021-01-19 18:21:56",
+        "replyContent": "Hallo Fabian L.! Vielen Dank f\u00fcr Ihr Feedback. Wir arbeiten daran, die Fehler zu beheben und werden zum Wochenende ein Update mit einer bereinigten Version hochladen. Freundliche Gr\u00fc\u00dfe Ihr Solingen App-Team",
+        "repliedAt": "2020-08-26 16:35:09"
+    },
+    {
+        "reviewId": "gp:AOqpTOGSixmuTxeQdMZjVIybM4cqUQyjhADdhcpyflj3Cx3FqCbP1Aw7WZOIy-3G2Cji_NGjqHvFf2IxsKyz8Ug",
+        "userName": "Frank S.",
+        "userImage": "https://play-lh.googleusercontent.com/--NHnBUr8X3A/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl3rmk5LOTwXM5Nb7HwESUvlGXrlg/photo.jpg",
+        "content": "Update 18.01.2021 Seit mehreren Tagen schon wieder \"Verbindung fehlgeschlagen\" :-(",
+        "score": 1,
+        "thumbsUpCount": 3,
+        "reviewCreatedVersion": "2.2.17",
+        "at": "2021-01-18 16:36:46",
+        "replyContent": "Hallo Frank S., mit der Version 2.2.11 soll das Problem eigentlich gel\u00f6st sein. Ist dies nicht der Fall w\u00fcrden wir uns sehr freuen, wenn Sie mit uns Kontakt aufnehmen w\u00fcrden: solingen.digital@solingen.de",
+        "repliedAt": "2020-12-02 08:00:59"
+    },
+    {
         "reviewId": "gp:AOqpTOE8qHOWxR43AYdIFCLtz1L5PII-GN3xvVzr-FGmg7iQ0wM6lGv4zdSIvVLM2f9qmIHSdOLNZaAORjJxHos",
         "userName": "Klaus Schumacher",
         "userImage": "https://play-lh.googleusercontent.com/-YLjpD3Xc7Eg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmFpmmYIvLZOxVk4r_3P40Ev1jKcA/photo.jpg",
@@ -86,7 +110,7 @@
     {
         "reviewId": "gp:AOqpTOGqDD2d4r_t_MsbmGBO2CPLpAAeeG1m4RSIqzr2UdFxV6CkeFCuEIEhkx2V3fGFh0nySWJQ8pEwxEajcno",
         "userName": "Ugulug",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjTwZYLOhLmmlSkmQ4w46TwPnPK5t1VG3dJ8ZN98No",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiRj_hKA7W3GpL9wpShGMlQmgfV9dVAlV24CNJJLF8",
         "content": "Sehr n\u00fctzlich und informativ. Informationen sofort nach Abruf verf\u00fcgbar",
         "score": 4,
         "thumbsUpCount": 0,
@@ -336,18 +360,6 @@
         "repliedAt": "2020-11-26 16:59:41"
     },
     {
-        "reviewId": "gp:AOqpTOGSixmuTxeQdMZjVIybM4cqUQyjhADdhcpyflj3Cx3FqCbP1Aw7WZOIy-3G2Cji_NGjqHvFf2IxsKyz8Ug",
-        "userName": "Frank S.",
-        "userImage": "https://play-lh.googleusercontent.com/--NHnBUr8X3A/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl3rmk5LOTwXM5Nb7HwESUvlGXrlg/photo.jpg",
-        "content": "App funktioniert nicht. Vor 10 Tagen runtergeladen - es erscheint, dass ich mit dem Server verbunden bin, dann sehe ich die Startseite - aber dann geht nix mehr - der kleine Pfeil nacht rechts scheint ohne Funktion, wie die Pkt. unten auch. Seit dem gabs 2 oder 3 Updates inkl. dem letzten am 26.11. aber keine \u00c4nderung - damit bleibt die App zun\u00e4chst f\u00fcr mich sinnlos.......Schade.",
-        "score": 1,
-        "thumbsUpCount": 3,
-        "reviewCreatedVersion": "2.2.7",
-        "at": "2020-11-28 08:53:45",
-        "replyContent": "Hallo Frank S., mit der Version 2.2.11 soll das Problem eigentlich gel\u00f6st sein. Ist dies nicht der Fall w\u00fcrden wir uns sehr freuen, wenn Sie mit uns Kontakt aufnehmen w\u00fcrden: solingen.digital@solingen.de",
-        "repliedAt": "2020-12-02 08:00:59"
-    },
-    {
         "reviewId": "gp:AOqpTOHdmkKB9tAVenfeA0YusFS0l-1ZntAswXsTngBZY5HKm0umx13b9v15LiNvScpEttKN7bJn7p9i9Ycpp0g",
         "userName": "P. Luhm",
         "userImage": "https://play-lh.googleusercontent.com/-YkYErxaZC3g/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckq1ePQQY0St55rSftWCjeTbgdbgA/photo.jpg",
@@ -538,18 +550,6 @@
         "at": "2020-08-23 12:12:57",
         "replyContent": "Hallo Julia Denny! Vielen Dank f\u00fcr Ihr Feedback. Wir arbeiten daran, die Fehler zu beheben und werden zum Wochenende ein Update mit einer bereinigten Version hochladen. Freundliche Gr\u00fc\u00dfe Ihr Solingen App-Team",
         "repliedAt": "2020-08-26 16:36:35"
-    },
-    {
-        "reviewId": "gp:AOqpTOEoMsJhVNPU6XeEkVWUkq7oLeaC3nDBV0yIYF7o85qXTQ7LRpwFmIWwMcB7CYPcjhg9DP-eDepcs2-iVZM",
-        "userName": "Fabian L.",
-        "userImage": "https://play-lh.googleusercontent.com/-JIvqXZMIWfM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnR7x-LrZ2Fl1O8n8nuKbXjXq2Dxg/photo.jpg",
-        "content": "Guter Ansatz auf jeden Fall, nur leider gehen 60% der App nicht. Ein Mangel \u00fcber die App zu senden z.B. funktioniert nicht. Bitte beheben dann gibt es 5*",
-        "score": 3,
-        "thumbsUpCount": 1,
-        "reviewCreatedVersion": "2.0.3",
-        "at": "2020-08-22 15:07:48",
-        "replyContent": "Hallo Fabian L.! Vielen Dank f\u00fcr Ihr Feedback. Wir arbeiten daran, die Fehler zu beheben und werden zum Wochenende ein Update mit einer bereinigten Version hochladen. Freundliche Gr\u00fc\u00dfe Ihr Solingen App-Team",
-        "repliedAt": "2020-08-26 16:35:09"
     },
     {
         "reviewId": "gp:AOqpTOGXlOKn30czuofCHRCycqLEZzh_aEOiSdAcq_wyybKl51SG1wopk1FJO29GZK4jloH1c56Oq0C32eMv5eU",

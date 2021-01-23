@@ -1,0 +1,31 @@
+{
+    "permissions": [
+        "android.permission.BLUETOOTH",
+        "android.permission.INTERNET",
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.WAKE_LOCK",
+        "android.permission.FOREGROUND_SERVICE"
+    ],
+    "activities": [
+        "gov.nc.dhhs.exposurenotification.home.ExposureNotificationActivity",
+        "gov.nc.dhhs.exposurenotification.exposure.ExposureLearnMoreActivity",
+        "gov.nc.dhhs.exposurenotification.notify.NotifyLearnMoreActivity",
+        "gov.nc.dhhs.exposurenotification.exposure.ExposureAboutActivity",
+        "gov.nc.dhhs.exposurenotification.notify.ShareDiagnosisActivity",
+        "gov.nc.dhhs.exposurenotification.debug.MatchingDebugActivity",
+        "gov.nc.dhhs.exposurenotification.debug.QRScannerActivity",
+        "com.google.android.gms.common.api.GoogleApiActivity"
+    ],
+    "urls": [
+        "http://schemas.android.com/apk/res/android",
+        "https://plus.google.com/",
+        "https://play.google.com/store/apps/details?id=gov.nc.dhhs.exposurenotification",
+        "https://totaldownloads-vakbimwq5a-uk.a.run.app",
+        "http://www.google.com",
+        "https://exposurenotification.ncpublichealth.com",
+        "https://logger-vakbimwq5a-uk.a.run.app",
+        "http://schemas.android.com/apk/res-auto",
+        "https://files.nc.gov/covid/slowcovidnc.html"
+    ]
+}

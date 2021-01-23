@@ -244,6 +244,12 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 <img src="1_star_reviews_wordcloud.png" alt="cat.gencat.mobi.StopCovid19Cat 1 reviews"/>
 </p>
 
+> El test es para los estados graves supongo. Yo he dado positivo y haciendo el test me dice que no tengo síntomas (por ser leves en mi caso) No me ha servido está aplicación y no sé exactamente para que sirve.<br> :date: __2021-01-22 07:58:07__
+
+> No sirve de nada,yo he dado positivo y tengo casi todos los síntomas y fuertes. Según la App sólo pone "Podrías ser positivo "<br> :date: __2021-01-19 21:30:19__
+
+> Intento entrar en el test y no hay manera. Ya la he instalado y desinstalado 3 veces. Voy a permisos y está todo correcto. Y me dicen que rengo que poner la temperatura 2 veces al día porque soy contacto estrecho. Pues no sé cómo lo voy a hacer......<br> :date: __2021-01-18 21:20:04__
+
 > No sirve de mucho bajo mi humilde opinión... ayer me hicieron el test rápido que suelen hacer antes del pcr y di positivo con síntomas evidentes tales como pérdida de olfato, gusto, fiebre, etc.. según el test de ésta app no tengo síntomas... cosas a mejorar, ahí lo dejo.<br> :date: __2021-01-12 11:55:26__
 
 > He fet el test i en diu que no tinc símptomes quan avui he vist el resultat positiu del PCR d,ahir día 31 desembre que em van fer.<br> :date: __2021-01-01 15:48:05__
@@ -257,11 +263,5 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 > La app no funcina bien. Cuando voy a hacer el test se queda colgada. La he desintalado y vuelto a instalar y nada. Sin el test no sirve para nada. Despues de la reseña, funciono una vez y ahora otra vez no puedo hacer el test<br> :date: __2020-12-06 21:00:34__
 
 > Fatal<br> :date: __2020-11-18 15:40:14__
-
-> Soy positivo confirmado, y según app no tengo síntomas, además llevo seis días confirmado y no me ha llamado nadie para hacer seguimiento...y quieren controlar el virus... Edito a su respuesta. Econsulta? Hace tres semanas mandé no una , si no , dos econsulta.. sigo esperando respuesta...y dos citas previas para ver si me hacían más caso.. pues tampoco. Por cierto 061 me dijeron que era cosa del cap no de ellos... fabuloso todo.<br> :date: __2020-11-14 14:25:46__
-
-> Me pide que ingrese mi codico CIP y me dice que ese código no existe, luego intento ingresar por mi NIE y sale el mismo mensaje "no existe" esta app no sirve para nada.<br> :date: __2020-11-12 12:45:55__
-
-> Mientras no haces la prueba está bien de ayuda, pero una vez te haces el test y das positivo, no sirve para nada. Yo hoy he hecho test de antígenos y he dado positivo. En cambio relleno los datos y como me han desaparecido varios síntomas, pues me dice que no tengo la Covid. Me da un chasquido el bolo al ver que me dice que no tengo Covid y en cambio hoy me han diagnosticado positivo en el CAP.<br> :date: __2020-11-09 21:38:15__
 
 

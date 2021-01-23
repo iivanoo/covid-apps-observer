@@ -1,5 +1,29 @@
 [
     {
+        "reviewId": "gp:AOqpTOFgyCfHmjijT4rucZQUMxqXBI4JFMFBI8fhib2hn8IT-Rq8dMRZ3ijTZDGPVlFt0pFcW3h_SlfmcGkvTIc",
+        "userName": "Linda Hernandez",
+        "userImage": "https://play-lh.googleusercontent.com/-sCTayvF_lBU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn84xkBgsNb5JnRFKF5XGHZx5UYwg/photo.jpg",
+        "content": "It was quick. I was connected with the doctor at 6:00 am. They are very personable and helpful!",
+        "score": 5,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "12.0.19.010_02",
+        "at": "2021-01-21 12:57:55",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOEu3IbJf4m2zFla2iXay3DLS43kNg7BaHPFTUu43vAS_8D9m9Rp8mKoJLb0XF4bGo3oUwtpOxvfyDHxZAQ",
+        "userName": "Michael Neikrug",
+        "userImage": "https://play-lh.googleusercontent.com/-AR-bjkda_QA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck036b9sfsuWXz076bZWyprgOjVzw/photo.jpg",
+        "content": "Very poor connection",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "12.0.19.010_02",
+        "at": "2021-01-17 16:05:01",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOHHch1ylIHmkzlHY2etusLfZxUVuALMjEiFxpCYGVNGLn5P1SCA-NDF4KkOdAaIEiy0IFGa-9hoexz0UtQ",
         "userName": "India Lowe",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj36cFFZtDRX83j29PKGDpDplQ7623rMtZlrGdpvBU",
@@ -65,7 +89,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-dsPXYIcOMpk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmC3S-vUkPMN6hST3ywYX2Wrswq8A/photo.jpg",
         "content": "Can't really rate them high when I get get the ap to work and there is ZERO technical support. I've tried to sign up twice and filled in all my info and it just says \"checking insurance info\" and spins. Then after several minutes it asks me to log in and when I do it says \"my password or username is wrong\". Ive done it twice. It didn't work. Too cheap to have a support phone number so screw them.",
         "score": 1,
-        "thumbsUpCount": 1,
+        "thumbsUpCount": 2,
         "reviewCreatedVersion": "12.0.19.010_02",
         "at": "2020-12-18 22:06:10",
         "replyContent": null,
@@ -1777,8 +1801,8 @@
     },
     {
         "reviewId": "gp:AOqpTOF6wC-GnpzPALiN91-mmQ7AsoZTiM8oIVJOvbiKl0JZYw430DrVI-4FLMTsdOQ6t8AqeZXVNL8XHDv6wGA",
-        "userName": "Jarrod Dumford",
-        "userImage": "https://play-lh.googleusercontent.com/-YXrD8AiHh48/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucks8KRuPXdATcwdkQnD9Q_n5PTgOA/photo.jpg",
+        "userName": "earthbound",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiEGrhU6WcTdZKz0lMg-D92daRwLcb1CF75_DDccA",
         "content": "I spoke with a doctor there and she was awesome I was very pleased how easy and great the whole experience was. Definitely will use in the future.",
         "score": 5,
         "thumbsUpCount": 1,
@@ -1790,7 +1814,7 @@
     {
         "reviewId": "gp:AOqpTOFrA5xKa2_LSR-rdKN1dZpJiYv9aezVqXyZu0Ku7dzIWOYLNSKKfD072OPmkoWFA5HvDaI0WTlYXkpO7PY",
         "userName": "nina clark-awal",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiXY1jFoSHjRT903LHdqWhhlVWYfUPvjWmRnbT9eQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgXV48OJ7XgpQgPndI4HUHa1ww9eyRWdKUJp1sk7A",
         "content": "Easy too use. Was very clear visual & audio.",
         "score": 5,
         "thumbsUpCount": 1,
@@ -8701,8 +8725,8 @@
     },
     {
         "reviewId": "gp:AOqpTOG7_8z56nfkjH2_VM1SDAvFS_GTj7l-mvREW1QGFSvBy3KCzM3OljQ8ezovJTCDhPN0J7WTpPa7_Tg9AIo",
-        "userName": "ANONYMOUS",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjTIPmyDo8hiLEvKMpYemqgRuRyEkAhCJTMGWBI-w",
+        "userName": "Forever Faithful In God We Trust",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgDXp_pv5xN_6HHVqrkr5Xjq8EBPq41ekHzYBaY6g",
         "content": "just a word to the wise I've been dealing with Cleveland clinic since 2010 I had surgery done for Crohn's disease and had a partial intestinal removal. however I didn't find out that my appendix was also taken out in 2010 which I didn't find out until 2018 through another doctor. if you have Crohn's disease or any intestinal illnesses I highly advise you not to go downtown and be treated there. sadly enough Cleveland Clinic has become more of a corporation and a business.Very dissatisfied!!!!!",
         "score": 1,
         "thumbsUpCount": 9,
@@ -9236,18 +9260,6 @@
         "thumbsUpCount": 6,
         "reviewCreatedVersion": "11.0.0.009_03",
         "at": "2018-10-20 06:22:16",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOFgyCfHmjijT4rucZQUMxqXBI4JFMFBI8fhib2hn8IT-Rq8dMRZ3ijTZDGPVlFt0pFcW3h_SlfmcGkvTIc",
-        "userName": "Linda Hernandez",
-        "userImage": "https://play-lh.googleusercontent.com/-sCTayvF_lBU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn84xkBgsNb5JnRFKF5XGHZx5UYwg/photo.jpg",
-        "content": "It was quick once I was connected with the doctor.",
-        "score": 5,
-        "thumbsUpCount": 1,
-        "reviewCreatedVersion": "11.0.0.009_03",
-        "at": "2018-10-18 16:57:47",
         "replyContent": null,
         "repliedAt": null
     },

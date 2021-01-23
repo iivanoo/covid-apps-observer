@@ -215,6 +215,8 @@ No recent reviews available with 2 stars.
 <img src="1_star_reviews_wordcloud.png" alt="com.mend.android.telemedicine 1 reviews"/>
 </p>
 
+> It gives general problem statements and the techs can't help. VERY UNRELIABLE SYSTEM.<br> :date: __2021-01-22 18:44:48__
+
 > Is flawed. Can't sign in<br> :date: __2021-01-13 19:51:29__
 
 > Sucks<br> :date: __2021-01-09 04:25:07__
@@ -232,7 +234,5 @@ No recent reviews available with 2 stars.
 > Could not download.<br> :date: __2020-03-31 05:56:36__
 
 > Could not download..<br> :date: __2020-03-28 18:18:08__
-
-> SURE TOOK A TURN FOR THE WORSE NOT A GOOD APP ANYMORE<br> :date: __2020-03-20 04:28:06__
 
 

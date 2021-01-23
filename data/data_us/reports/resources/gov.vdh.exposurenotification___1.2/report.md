@@ -242,6 +242,14 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 <img src="1_star_reviews_wordcloud.png" alt="gov.vdh.exposurenotification 1 reviews"/>
 </p>
 
+> USELESS. A close relative with this app tested positive (twice) and tried to self-report as positive on the app, which you need a PIN from the Virginia health department to do. He never received the PIN even after reaching out 2+ times to VDH via email. Crickets. No response at all. Complete and utter failure from VDH.<br> :date: __2021-01-21 23:39:23__
+
+> 👎👎👎🤢🤢🤢<br> :date: __2021-01-21 06:18:22__
+
+> The app doesn't work. So I uninstalled it.<br> :date: __2021-01-17 22:47:59__
+
+> I dont believe in the kungflu so do u really think i care if i get it, im not a panzy, i can handle a virus. And i wont get VAXXED either. Im not scared in the slightest, id literally walk thru a hospital infected with kungflu cuz im not scared, unlike u lil snowflakes out here. Why dont amish have kungflu? Cuz they dont have tv! The kungflu and the masks are a joke, just like Biden supporters!<br> :date: __2021-01-17 07:26:23__
+
 > I never installed it and it still ended up installed on my phone, waste of space<br> :date: __2021-01-13 07:59:40__
 
 > Notifications on this app depend on VDH calling you and giving you a pin number once you're confirmed positive. We had a positive in our house over 2 weeks ago and VDH never provided a pin and we were never able to notify using the app which makes this whole thing useless if it can't be quickly used.<br> :date: __2021-01-11 19:12:50__
@@ -253,13 +261,5 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 > Waste of space on my Phone. This app does not work like it is supposed to. My Wife and I contracted the virus and never did the app say we were in contact with anyone. Even when I go to report it, it says wait to contacted by the department of health, two weeks and nothing. So don't waste you time with this app and just follow the CDC guidelines to keep yourself safe.<br> :date: __2021-01-05 22:55:24__
 
 > Absolutely useless. You have to wait to receive a unique six digit PIN from the Virginia department of Health in order to report a positive covid test and prevent false reporting. But my provider said they don't get that pin, and the VDH phone call I got 3 days after I tested positive didn't have it either. So just delete it this app and be safe.<br> :date: __2021-01-05 19:00:49__
-
-> Got a positive result 7 days (updated) ago and need a PIN to enter and yet still haven't rec'd a call. Good idea, poor execution.<br> :date: __2021-01-02 17:53:45__
-
-> This app gives you a scare<br> :date: __2021-01-01 04:40:20__
-
-> This app is horrible. DO NOT INSTALL<br> :date: __2020-12-31 02:26:57__
-
-> ☆WARNING☆ DON'T DOWNLOAD ITS AN FAKE VIRUS APP IT'LL HURT YOUR DEVICE AND YOU!!!!! ESPECIALLY IN THE HOSPITAL!!!! Shutup<br> :date: __2020-12-29 16:22:57__
 
 

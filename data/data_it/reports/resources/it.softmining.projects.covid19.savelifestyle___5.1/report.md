@@ -185,6 +185,8 @@ The SM_Covid19 app has been installed by more than **50000** times. At this time
 <img src="5_star_reviews_wordcloud.png" alt="it.softmining.projects.covid19.savelifestyle 5 reviews"/>
 </p>
 
+> Ottima app<br> :date: __2021-01-17 03:55:29__
+
 > Affidabile buono<br> :date: __2020-12-10 12:23:55__
 
 > App molto utile<br> :date: __2020-11-27 11:04:32__
@@ -202,8 +204,6 @@ The SM_Covid19 app has been installed by more than **50000** times. At this time
 > Molto interessante<br> :date: __2020-10-11 10:26:42__
 
 > E utile e ti da una certa sicurezza oltre a livello di prevenzione anche un a livello psicologico e un ottima applicazione<br> :date: __2020-10-10 23:22:43__
-
-> Molto buona l' app solo in caso di positività si può schiacciare e parlare con lo specialista.<br> :date: __2020-10-10 20:58:47__
 
 
 

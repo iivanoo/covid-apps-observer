@@ -140,6 +140,16 @@ The AlohaSafe Alert app has been installed by more than **5000** times. At this 
 <img src="5_star_reviews_wordcloud.png" alt="org.alohasafe.alert 5 reviews"/>
 </p>
 
+> How can you stay safe from the c_firus<br> :date: __2021-01-20 08:46:31__
+
+> works as exactly designed to.<br> :date: __2021-01-17 12:51:54__
+
+> It's very easy to set up but there is some issues that I have heard from other people concerning using this on an Iphone 6 but over all it is a very good app to track if you have been exposed. The only thing I can say is that if you don't usually take your phone every where then it could throw off the results on the app. But again it is a very good app.<br> :date: __2021-01-17 09:16:38__
+
+> Quick and easy.<br> :date: __2021-01-16 21:15:05__
+
+> Awesome App and easy<br> :date: __2021-01-16 19:02:18__
+
 > Easy to download, setup and navigate. The more people that use it the better it works.<br> :date: __2021-01-16 09:28:25__
 
 > I get in person school soon, so if I get one notification that someone get covid I gon start runnin brah<br> :date: __2021-01-14 03:50:44__
@@ -149,8 +159,6 @@ The AlohaSafe Alert app has been installed by more than **5000** times. At this 
 > Good<br> :date: __2021-01-09 23:55:38__
 
 > Simple, noninvasive app. Yes I want to know! All voluntary and keeps me mindful.<br> :date: __2021-01-03 22:23:30__
-
-> Great concept and actually really secure. Of course info security risk is the big red flag here, but after some serious digging it all checks out and they do keep your info safe.<br> :date: __2020-12-18 19:35:18__
 
 
 
@@ -171,10 +179,16 @@ The AlohaSafe Alert app has been installed by more than **5000** times. At this 
 #### 3-star reviews
 
 <p align="center">
-
+<img src="3_star_reviews_wordcloud.png" alt="org.alohasafe.alert 3 reviews"/>
 </p>
 
-No recent reviews available with 3 stars.
+> Interesting app... Although with only around 5000+ downloads I'm not sure if the rate of population with this app installed is enough to achieve its intended purpose.<br> :date: __2021-01-22 09:37:13__
+
+> Quick and easy Hope that more pplpz use this and let others know if get the virus by dem<br> :date: __2021-01-22 05:07:46__
+
+> This app has a bug in it. On a moto 6 it grabs the Bluetooth and won't release it. So you have to reboot your phone to connect to your car's hands free system. It should also allow you to adjust exposure time. 15 mins is way too long given the higher contagion strain.<br> :date: __2021-01-21 22:11:42__
+
+
 
 #### 2-star reviews
 
@@ -191,6 +205,16 @@ No recent reviews available with 3 stars.
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="org.alohasafe.alert 1 reviews"/>
 </p>
+
+> This app downloaded itself on my phone do not trust this app at all. This is not okay.<br> :date: __2021-01-23 07:38:41__
+
+> I can take care of myself as well as people around me. Don't need this. Shame on victorino for forcing.<br> :date: __2021-01-22 08:00:16__
+
+> This app will never work! People who have covid-19 break quarantine all the time, you still see people not wearing mask, no ones checking on people in quarantine, everyone's still having gatherings with more then 10 ppl.. The list goes on... So don't download this it's worthless you'll never get a notification!<br> :date: __2021-01-18 05:14:49__
+
+> Horrible APP. Not accessible to download on my ipad mini which I always carry. Don't have an apple phone, and it is not downloading on my Samsung phone. I find it offensive that Big Brother is tracking me. Will probably cancel my trip to Maui . Too much trouble yo go there.<br> :date: __2021-01-18 03:54:23__
+
+> My mother is high risk so I felt this app was a great idea. I tried downloading it but it said I didn't have enough space. So I delete three apps that I don't need and some useless pictures. It still says I don't have enough space. So I check how much space I have and it says 615 MB, which should be more than enough to download the stupid app. I check and this app only requires 22MB. I try to redownload and it doesn't work again. Great concept but it won't even let me try it out.<br> :date: __2021-01-17 02:44:44__
 
 > Downloaded just to delete. I hate when apps are shoved in my face<br> :date: __2021-01-15 04:04:34__
 

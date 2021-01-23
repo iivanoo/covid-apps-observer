@@ -202,6 +202,8 @@ The Penn State Health OnDemand app has been installed by more than **10000** tim
 <img src="5_star_reviews_wordcloud.png" alt="org.pennstatehealth.android.pshh.ondemand 5 reviews"/>
 </p>
 
+> Always a pleasant visit with Dr Gomaa.and staff all are great<br> :date: __2021-01-22 16:30:45__
+
 > Exceptional<br> :date: __2021-01-15 21:00:41__
 
 > Excellent<br> :date: __2021-01-13 19:49:31__
@@ -219,8 +221,6 @@ The Penn State Health OnDemand app has been installed by more than **10000** tim
 > Very good and informative visit.<br> :date: __2020-12-21 19:51:35__
 
 > minimal wait time. M.D. was very personable and knowledgeable. saved time of sitting in urgent care center.I would definitely recommend 12/18/20 Had the need to see someone without disrupting my day. Once again, very positive experience. Knowledgeable, personable, thorough. I definitely recommend<br> :date: __2020-12-18 13:25:27__
-
-> Excellence as always by the Hershey Med Teams<br> :date: __2020-12-16 20:50:32__
 
 
 
@@ -273,6 +273,8 @@ The Penn State Health OnDemand app has been installed by more than **10000** tim
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="org.pennstatehealth.android.pshh.ondemand 2 reviews"/>
 </p>
+
+> Visit summary does not include NPI number or tax ID number, both of which are needed for insurance. Also, they say Corona screening 7:00 a.m. to 7:00 p.m., but the day I checked every nurse was offline. This app can be useful for quick first Care service, however.<br> :date: __2021-01-16 18:42:33__
 
 > I had a virtual visit scheduled today for my son. The doctor was unable to see our video feed on either of our phones even though we allowed access to the camera. We had to complete the exam over Zoom after several unsuccessful attempts to get this application to work. Other than this issue, it seems like a nice app with lots of potential. We tried the app on two different Galaxy S20+ phones.<br> :date: __2020-11-12 03:12:03__
 

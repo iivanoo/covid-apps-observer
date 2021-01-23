@@ -140,6 +140,8 @@ The COVID Coach app has been installed by more than **10000** times. At this tim
 <img src="5_star_reviews_wordcloud.png" alt="gov.va.mobilehealth.ncptsd.covid 5 reviews"/>
 </p>
 
+> I just got this today but, so far I am liking it. It has multiple different things you can use to help you manage stress, anxiety, and depression.<br> :date: __2021-01-19 00:00:45__
+
 > This is a very professional and easy to use app w with useful applications for a range of people. I'm a counselor and educator and I recommend this app for personal and client use.<br> :date: __2021-01-12 23:49:14__
 
 > Great very helpful and easy to use<br> :date: __2021-01-10 18:13:50__
@@ -158,8 +160,6 @@ The COVID Coach app has been installed by more than **10000** times. At this tim
 
 > It's a superb app. Covers everything.<br> :date: __2020-11-23 04:40:59__
 
-> Very excited to use this app more! Thank you to the creators for these tools, your time and diligence to create an app that is easy to use and seems to pull you right out of a hard place.<br> :date: __2020-11-20 02:11:57__
-
 
 
 #### 4-star reviews
@@ -167,6 +167,8 @@ The COVID Coach app has been installed by more than **10000** times. At this tim
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="gov.va.mobilehealth.ncptsd.covid 4 reviews"/>
 </p>
+
+> So much good content! A few pages show up in Spanish, even though I've chosen English. But great job putting this together 👍🏼<br> :date: __2021-01-19 07:42:28__
 
 > Soothing app<br> :date: __2021-01-07 06:14:57__
 
@@ -185,8 +187,6 @@ The COVID Coach app has been installed by more than **10000** times. At this tim
 > Nothing else follows<br> :date: __2020-07-14 18:24:59__
 
 > It is similar to other self help. Easy to use. Makes one think. Asks one questions. Offers advice. Keeps tracks of goals. It all come down to how much energy and honesty one puts into it.<br> :date: __2020-06-30 17:37:32__
-
-> Got a lot of information<br> :date: __2020-06-27 18:12:00__
 
 
 

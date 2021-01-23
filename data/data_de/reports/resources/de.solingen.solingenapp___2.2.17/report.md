@@ -222,8 +222,6 @@ The Mensch, Solingen app has been installed by more than **1000** times. At this
 
 > APP funktioniert jetzt im Großen und Ganzen ganz gut<br> :date: __2020-12-16 18:34:19__
 
-> Guter Ansatz auf jeden Fall, nur leider gehen 60% der App nicht. Ein Mangel über die App zu senden z.B. funktioniert nicht. Bitte beheben dann gibt es 5*<br> :date: __2020-08-22 15:07:48__
-
 > Leider zeigt die App auf meinem Android alles bis auf die Fallzahlen. Anzeige von Text klappt reibungslos. Samsung 9 mit aktuellstem Android.<br> :date: __2020-06-19 08:13:01__
 
 
@@ -262,6 +260,10 @@ The Mensch, Solingen app has been installed by more than **1000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="de.solingen.solingenapp 1 reviews"/>
 </p>
 
+> Lässt sich nicht mehr öffnen - unbrauchbar. Bitte beheben. Samsung Galaxy S10<br> :date: __2021-01-19 18:21:56__
+
+> Update 18.01.2021 Seit mehreren Tagen schon wieder "Verbindung fehlgeschlagen" :-(<br> :date: __2021-01-18 16:36:46__
+
 > nach Installation geht leider nichts mehr, kann man vergessen, schade<br> :date: __2021-01-10 11:33:16__
 
 > Neuste Version installiert, app stürzt dennoch immer ab.<br> :date: __2020-12-17 11:57:58__
@@ -277,9 +279,5 @@ The Mensch, Solingen app has been installed by more than **1000** times. At this
 > keine Verbindung zum Server ... in einem von 10 Versuchen klappt es<br> :date: __2020-12-09 20:09:18__
 
 > Die App lässt sich nach der letzten Aktualisierung nicht mehr öffnen.<br> :date: __2020-12-07 18:49:38__
-
-> Leider lässt sich die App nach der Erweiterung nicht mehr öffnen. Es geht nur einmalig nach Hochfahren des Smartphones, dann kein Kontakt mehr zum Server. Auch mit der letzten Version komme ich nur rein, wenn ich zuerst Stopp erzwingen durchführen. Dann geht es gut<br> :date: __2020-12-03 17:30:04__
-
-> Android10, Samsung S10+, Neueste Version geladen.--> Startet 1x nach Installation. Danach keine Verbindung zum Server. Schade, an sich eine gute App.<br> :date: __2020-12-02 21:02:26__
 
 

@@ -160,6 +160,8 @@ The OpenWHO app has been installed by more than **1000000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="de.xikolo.openwho 5 reviews"/>
 </p>
 
+> Enlever masque nez France Allier vichy<br> :date: __2021-01-18 14:00:27__
+
 > Good<br> :date: __2020-12-15 04:20:33__
 
 > Cool merci beaucoup pour l'application je me forme chaque fois que je veux,<br> :date: __2020-10-31 17:17:37__
@@ -177,8 +179,6 @@ The OpenWHO app has been installed by more than **1000000** times. At this time,
 > Excellent<br> :date: __2020-08-24 23:15:20__
 
 > Je suis content de cette application<br> :date: __2020-08-16 14:08:38__
-
-> Good<br> :date: __2020-06-02 10:54:02__
 
 
 

@@ -121,6 +121,8 @@ The Covid Trace Nevada app has been installed by more than **50000** times. At t
 <img src="5_star_reviews_wordcloud.png" alt="gov.nv.dhhs.en 5 reviews"/>
 </p>
 
+> It work good tho<br> :date: __2021-01-17 09:05:15__
+
 > Safe and fast good for elderly And frontliners protections<br> :date: __2021-01-09 20:29:53__
 
 > So far, not a problem.<br> :date: __2021-01-09 07:05:36__
@@ -138,8 +140,6 @@ The Covid Trace Nevada app has been installed by more than **50000** times. At t
 > Kool app to have...We must keep track of the Zombie Apocalypse Virus... Thanks<br> :date: __2020-11-25 20:47:00__
 
 > Doesn't appear to work. Last checked time is the time of day of when I installed it several weeks ago. Manual refresh doesn't do anything.<br> :date: __2020-11-20 15:23:25__
-
-> Cool<br> :date: __2020-11-18 08:06:02__
 
 
 

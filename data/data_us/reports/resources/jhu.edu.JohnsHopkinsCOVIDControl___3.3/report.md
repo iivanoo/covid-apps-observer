@@ -174,6 +174,8 @@ No recent reviews available with 3 stars.
 <img src="1_star_reviews_wordcloud.png" alt="jhu.edu.JohnsHopkinsCOVIDControl 1 reviews"/>
 </p>
 
+> Very bad app. It wouldn't even let me enter my info. It kept saying "something went wrong". It doesn't even deserve 1 star. I should get the stars for trying it.<br> :date: __2021-01-19 21:53:14__
+
 > I have never left a negative review before, BUT, unfortunately like some other's before me, after I entered the demographic data and pressed enter it just says something went wrong. I tried reinstalling the app and it made no difference. 🤬<br> :date: __2020-12-08 00:48:44__
 
 > I could not get this to work... always reported a problem. If the study is concluded, the app should be removed. Thanks<br> :date: __2020-11-25 06:11:59__
@@ -191,7 +193,5 @@ No recent reviews available with 3 stars.
 > Unable to input to register and participate<br> :date: __2020-09-08 15:51:22__
 
 > I had an earlier version that partially worked (could submit data but couldn't tell if it actually submitted because the counter didn't show how many days I submitted) and I couldn't edit my profile. New version clean install won't accept any profile data. Just tells me that there was a problem and to try again.<br> :date: __2020-09-05 15:45:34__
-
-> I cannot enter any data to start my profile. I keep getting an error that something went wrong.<br> :date: __2020-08-30 23:15:14__
 
 

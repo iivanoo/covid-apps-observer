@@ -229,6 +229,8 @@ The ABTraceTogether app has been installed by more than **100000** times. At thi
 <img src="2_star_reviews_wordcloud.png" alt="ca.albertahealthservices.contacttracing 2 reviews"/>
 </p>
 
+> The AB Government should have been in with the federal Covid App<br> :date: __2021-01-21 22:49:14__
+
 > Idea is great, but for many weeks I used this app whenever I went out, and nothing was happening. Wasn't sure what was going on, maybe I was just safe. Then I found out, that in fact, there was actually nothing going on, this app wasn't working, and did nothing for a long time after its release. For an app that some people trust with their lives, literally, it sure sucks.<br> :date: __2021-01-03 15:22:50__
 
 > The app keeps asking me to restart my phone. I have done so at least five times now. That notification is very annoying.<br> :date: __2020-12-28 21:48:46__
@@ -247,8 +249,6 @@ The ABTraceTogether app has been installed by more than **100000** times. At thi
 
 > I appreciate the effort Alberta made to get this out so quickly, but it's time to switch the Federal system which is more reliable, comprehensive, and easier on my battery. Uninstalling as there not enough people using this anyway.<br> :date: __2020-10-08 04:03:34__
 
-> There hasnt been any action on here<br> :date: __2020-10-07 17:02:38__
-
 
 
 #### 1-star reviews
@@ -257,6 +257,18 @@ The ABTraceTogether app has been installed by more than **100000** times. At thi
 <img src="1_star_reviews_wordcloud.png" alt="ca.albertahealthservices.contacttracing 1 reviews"/>
 </p>
 
+> Just use the fed app already!! The petty squabbling of the prov govt is tiresome!! And ridiculous when people's health is involved. Grow up!<br> :date: __2021-01-21 23:04:39__
+
+> I was being told my information will be kept in private. Why do they need to ask my phone number? The fist version was never need to fill in my phone number at all.<br> :date: __2021-01-21 16:08:45__
+
+> It always has a notification that it is either running or not running and I can't remove the notification. I don't need it running while I am at home the majority of the time so I don't want the notification telling me it's not running. I deleted the app because the notification message is unable to be removed.<br> :date: __2021-01-19 12:34:23__
+
+> I'm at home all the time, yet there's no way to turn on and off the contact tracing on the app. Change this setting please. It should only function when we turn it on because we're leaving home. There's no point in tracing when you're home!!! Let us have an option to activate it and deactivate it.<br> :date: __2021-01-18 12:17:44__
+
+> Complete battery suck. A few hours of phone use, and battery is done. I can use my phone all day on conference calls with a Bluetooth headset, take emails, texts, a quick surf on social between meetings and still have battery left at the end of the day. ABTrace you'll need to keep your phone plugged in constantly. Uninstalling... also most of my co-workers are non Alberta based so totally useless as not cross country.<br> :date: __2021-01-17 18:12:40__
+
+> This app is garbage. It doesn't work properly, and as a result noone uses it. It would be nice if the Government of Alberta could swallow their pride and let us use the app from the Government of Canada, which DOES work - just not in Alberta. Thanks for nothing!<br> :date: __2021-01-17 07:24:51__
+
 > Only traced 36 cases and not worth my time and having on my phone. Pathetic.<br> :date: __2021-01-16 02:42:54__
 
 > AHS doesnt even use this when someone tests positive. Not sure the point of keeping it!<br> :date: __2021-01-15 03:05:30__
@@ -264,17 +276,5 @@ The ABTraceTogether app has been installed by more than **100000** times. At thi
 > Doesn't work at all.<br> :date: __2021-01-15 02:22:24__
 
 > Atrocious memory use and abysmal battery drain. Do Not Download!<br> :date: __2021-01-14 20:58:26__
-
-> Garbage app.<br> :date: __2021-01-14 12:42:39__
-
-> Used this app daily. I gotncovid and no one wanted my info. Stupid waste of data and battery life.<br> :date: __2021-01-14 07:45:40__
-
-> Jan 2021 update: still the same useless app, this concept will always drain battery and not be usable. Destroys battery life, cant use it if phones got no power.<br> :date: __2021-01-13 17:50:57__
-
-> Going to uninstall. It uses phone resources and the government is not doing any tracking anyway so it is just a waste. If they were serious about saving lives they would activate the Canada wide app.<br> :date: __2021-01-13 16:06:46__
-
-> Horrible app messed up my whole phone...plus error error not connected to wifi every single time. Uninstaller reinstall... make up your minds. F IX IT...please or take it out of app list very disappointed 😞<br> :date: __2021-01-13 10:36:16__
-
-> Battery killer! Left for work at 80% and in a 25min drive my phone is under 50%.<br> :date: __2021-01-13 03:05:01__
 
 

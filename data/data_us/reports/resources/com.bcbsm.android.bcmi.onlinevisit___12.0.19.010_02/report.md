@@ -197,6 +197,12 @@ The BCBSM Online Visits app has been installed by more than **50000** times. At 
 <img src="5_star_reviews_wordcloud.png" alt="com.bcbsm.android.bcmi.onlinevisit 5 reviews"/>
 </p>
 
+> Great<br> :date: __2021-01-22 21:49:13__
+
+> The experience was great. Quick and easy.<br> :date: __2021-01-20 00:31:23__
+
+> This app is very easy to use. There were lots of provider options and the entire process took less time than checking in at urgent care.<br> :date: __2021-01-17 18:50:30__
+
 > It has been a very positive experience using the app<br> :date: __2021-01-15 19:24:08__
 
 > Great experience !<br> :date: __2021-01-15 16:28:05__
@@ -211,12 +217,6 @@ The BCBSM Online Visits app has been installed by more than **50000** times. At 
 
 > Convenient, worked great for me<br> :date: __2020-12-22 05:38:56__
 
-> What a FANTASTIC experience! You can choose from several doctors, and you can see how they look and their experience. The only thing missing, obviously, is a physical exam, but how nice to be treated and not have to leave home!<br> :date: __2020-12-21 18:35:19__
-
-> Easy to use and fast<br> :date: __2020-12-20 15:33:19__
-
-> Good experience.<br> :date: __2020-12-18 19:00:50__
-
 
 
 #### 4-star reviews
@@ -224,6 +224,8 @@ The BCBSM Online Visits app has been installed by more than **50000** times. At 
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.bcbsm.android.bcmi.onlinevisit 4 reviews"/>
 </p>
+
+> Easy and convenient<br> :date: __2021-01-19 18:36:59__
 
 > Don't understand why BCBSofM couldn't verify my insurance. I pay way to high a premium for that. That's very iritating. However, other than that this was a positive experience.<br> :date: __2021-01-04 17:55:21__
 
@@ -242,8 +244,6 @@ The BCBSM Online Visits app has been installed by more than **50000** times. At 
 > Good. Easy to follow.<br> :date: __2020-06-08 16:05:59__
 
 > Good experience..doctor was nice and friendly. A little issue with wifi connection but over all good. Doctor was tolerant with poor connection and patient.<br> :date: __2020-05-31 00:21:44__
-
-> Gets the job done.<br> :date: __2020-05-24 21:19:50__
 
 
 

@@ -157,6 +157,10 @@ The COCOA - COVID-19 Contact App app has been installed by more than **5000000**
 <img src="5_star_reviews_wordcloud.png" alt="jp.go.mhlw.covid19radar 5 reviews"/>
 </p>
 
+> オープンソースで開発されていると何度言っても聞く耳を持たずにとにかく批判したいバカばっかりですが。 シンプルで無駄な機能もないいいアプリ、ただし必要性は皆無。 追記 開始日付の表示のバグは治ってませんが関係なく動作しているんじゃないですかね。それだけでもし接触したのに通知が来なければ、その責任はGoogleとAppleにあるんじゃないですか。API自体の不具合を政府やアプリ開発者に言っても無駄。<br> :date: __2021-01-23 10:09:37__
+
+> Haven't hit the jackpot yet<br> :date: __2021-01-23 07:26:59__
+
 > If everyone used this responsibly we'd all be a lot safer. Please download it.<br> :date: __2021-01-02 15:50:40__
 
 > Why i cant open the apps? I already install it, the permission wont go<br> :date: __2020-11-30 03:06:26__
@@ -172,10 +176,6 @@ The COCOA - COVID-19 Contact App app has been installed by more than **5000000**
 > Good application 👍👍👍👍👍👍<br> :date: __2020-10-21 18:42:19__
 
 > Amazing.<br> :date: __2020-09-12 05:07:42__
-
-> Seems fine.<br> :date: __2020-09-09 09:47:47__
-
-> Simple to use and doesn't need personal information. I wish more people would use it so we could prevent the spread of covid19<br> :date: __2020-08-06 07:19:15__
 
 
 
@@ -223,6 +223,8 @@ The COCOA - COVID-19 Contact App app has been installed by more than **5000000**
 <img src="2_star_reviews_wordcloud.png" alt="jp.go.mhlw.covid19radar 2 reviews"/>
 </p>
 
+> まわをまめめ!⇉⇈↨⇊⇉↻⇌<br> :date: __2021-01-17 07:01:25__
+
 > Why does this need 103MB?!<br> :date: __2020-09-09 03:26:05__
 
 
@@ -232,6 +234,10 @@ The COCOA - COVID-19 Contact App app has been installed by more than **5000000**
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="jp.go.mhlw.covid19radar 1 reviews"/>
 </p>
+
+> No network same as others on here?? Try again in Japan later<br> :date: __2021-01-22 07:51:16__
+
+> Cant install<br> :date: __2021-01-17 19:40:11__
 
 > cant register.. after click accept t&c network error pop out.. dont have problem with my network..<br> :date: __2020-12-25 07:01:39__
 
@@ -248,9 +254,5 @@ The COCOA - COVID-19 Contact App app has been installed by more than **5000000**
 > Network error during installation after accepting the terms. Why make such a half baked app mandatory to install?<br> :date: __2020-10-22 17:54:47__
 
 > It does not perform exposure checks no matter what I do. 0 checks in 14 days. I have my Bluetooth on 24/7 and have ensured the app runs in the background.<br> :date: __2020-10-12 07:06:18__
-
-> This app never checks in the background. You need to open it yourself regularly to get notified (look in Google settings to see the history of checks, you can see that it's not checking). このアプリは自動チェックしませんせんです。ユーザーが開かないとつうしんを出さない。<br> :date: __2020-09-30 04:22:58__
-
-> I can't register. It says "network connection error"<br> :date: __2020-09-15 23:34:28__
 
 

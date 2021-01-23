@@ -199,6 +199,14 @@ The Luscii app has been installed by more than **100000** times. At this time, *
 <img src="5_star_reviews_wordcloud.png" alt="nl.focuscura.beeldbelapp 5 reviews"/>
 </p>
 
+> Functioneel, geef een herinnering mocht je vergeten zijn om de vragen wekelijks in te vullen.<br> :date: __2021-01-22 17:25:31__
+
+> De app geeft mij een beetje zekerheid ivm corona<br> :date: __2021-01-19 09:39:49__
+
+> Na de update van 13 januari 2021 was de.app op mijn telefoon overleden. Ik heb met Luscii enige mails uitgewisseld en ben prima geholpen. De app functioneert weer goed. Bedankt voor de service.<br> :date: __2021-01-18 13:00:17__
+
+> Geweldig...<br> :date: __2021-01-18 10:46:36__
+
 > Voor een goede zelfcontrole...<br> :date: __2021-01-16 09:00:23__
 
 > Goed gevoel dat er iemand mee kijkt over je schouder<br> :date: __2021-01-15 09:13:42__
@@ -211,14 +219,6 @@ The Luscii app has been installed by more than **100000** times. At this time, *
 
 > Goeie, duidelijke app<br> :date: __2021-01-08 10:53:38__
 
-> Prima werkende app, mag wel uitgebreid als je diabetici patiënt bent.<br> :date: __2021-01-07 13:38:02__
-
-> Ben er zerr tevreden is zeer duidelijk en makkelijk in te vullen<br> :date: __2021-01-07 09:02:50__
-
-> Het is een fijne app in gebruik.<br> :date: __2020-12-29 19:23:18__
-
-> Eenvoudig en komt meteen bij poli... Top<br> :date: __2020-12-29 10:21:20__
-
 
 
 #### 4-star reviews
@@ -226,6 +226,10 @@ The Luscii app has been installed by more than **100000** times. At this time, *
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="nl.focuscura.beeldbelapp 4 reviews"/>
 </p>
+
+> Prima.<br> :date: __2021-01-23 08:39:45__
+
+> Goed hulpmiddel. Goed contact met begeleiding omtrent gegevens die ingevoerd moeten worden om de check van de voortgang van de gezondheid te bewerkstelligen.<br> :date: __2021-01-22 09:20:52__
 
 > Werkt prima<br> :date: __2021-01-12 12:19:47__
 
@@ -242,10 +246,6 @@ The Luscii app has been installed by more than **100000** times. At this time, *
 > Professioneel<br> :date: __2020-12-07 10:21:53__
 
 > Fijne makelijker app<br> :date: __2020-12-04 06:43:04__
-
-> Bij covid 19 hoor ik dat mensen last hebben van hoofdpijn en vermoeiheid. Dit ook bij lichte klachten als een test positief is gebleken. Echter deze vraag ontbreekt in de app. Wat is de reden?<br> :date: __2020-12-02 11:05:40__
-
-> Het systeem werkt prima maar de mails stalen nergens op. De ene keer krijg ik een mail dat ik dinsdags moet insturen en plotseling krijg ik maandagavond een mail dat ik ben vergeten in te sturen. Dus ik weet het niet meer. John Crombach<br> :date: __2020-11-30 21:16:50__
 
 
 
@@ -283,7 +283,7 @@ The Luscii app has been installed by more than **100000** times. At this time, *
 <img src="2_star_reviews_wordcloud.png" alt="nl.focuscura.beeldbelapp 2 reviews"/>
 </p>
 
-> Op 13 januari 2021 is de app geüpdatet en... doet niets meer. Als ik de app aanklik krijg ik het logo te zien en daarna een blanco scherm. En dat is het dan. Mijn gegevens doorgeven is totaal onmogelijk. Hopelijk wordt dit snel verholpen. Sterkte daar mee.<br> :date: __2021-01-16 10:51:27__
+> Na update is er geen bluetooth verbinding meer. Blijft om batterijen vragen en wil niet verder. Contact met helpdesk problematisch, veels te druk en terugbellen pas volgende dag.<br> :date: __2021-01-16 18:53:17__
 
 > Kan in de app geen gegevens meer versturen. Iedere keer foutmelding. Dit sinds 2 weken. Voor die tijd fijne app.<br> :date: __2020-10-10 09:58:10__
 

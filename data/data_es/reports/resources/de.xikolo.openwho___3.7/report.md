@@ -164,6 +164,8 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 <img src="5_star_reviews_wordcloud.png" alt="de.xikolo.openwho 5 reviews"/>
 </p>
 
+> Burna beneee Hui Hai Yes Okeyy Me vou Pero volvere Tardvolvetree o temprano<br> :date: __2021-01-22 19:01:34__
+
 > Excelente<br> :date: __2021-01-08 20:58:11__
 
 > YAMiSLEN VALENZUELA (1977)<br> :date: __2020-12-15 17:52:49__
@@ -181,8 +183,6 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 > Excelente<br> :date: __2020-07-26 02:27:39__
 
 > Buenas app... La recomiendo<br> :date: __2020-07-18 16:32:54__
-
-> Beppe VergaraAyala<br> :date: __2020-06-12 16:21:46__
 
 
 

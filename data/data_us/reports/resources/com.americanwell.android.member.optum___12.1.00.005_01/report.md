@@ -178,25 +178,25 @@ The NowClinic app has been installed by more than **50000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="com.americanwell.android.member.optum 5 reviews"/>
 </p>
 
+> Love the fact that I'm at home safe and still able to have a seamless interaction with my Dr.<br> :date: __2021-01-22 16:55:31__
+
+> Great<br> :date: __2021-01-20 18:04:37__
+
+> Good<br> :date: __2021-01-20 17:18:24__
+
+> It was quick and easy<br> :date: __2021-01-20 16:04:44__
+
+> Excellent!!!! Was scared to go to ER 😳<br> :date: __2021-01-18 19:04:40__
+
+> After a long wait and a in-person patient visit with UMC Quick Care did not receive all medications needed at the pharmacy as told they would and was very successful with the doctor seen on video on now clinic prescriptions I need seen not a long wait very much satisfied thank you so much for your help and thank you Maria Rizalina Barlaan<br> :date: __2021-01-17 19:02:34__
+
+> This app is absolutely amazing for so many reasons. If you can't afford a doctor visit, use this app. Using this app also literally turns a 2 hour doctor visit into a 10 minute visit. I also felt like Dr. Develle really knew what he was talking about so I felt confident speaking with him. The only issue is that if you're on a Samsung device, there is some echo issues. Other than that I will literally never see a minute clinic or urgent care again.<br> :date: __2021-01-17 07:24:43__
+
 > The NP Shana was super nice and understanding<br> :date: __2021-01-15 20:02:49__
 
 > Excellent<br> :date: __2021-01-15 19:52:14__
 
-> Very understanding dr<br> :date: __2021-01-15 18:16:38__
-
-> It's just as good as seeing the provider in person. In fact its better than having to go into the office.<br> :date: __2021-01-14 06:56:04__
-
-> Very convenient.<br> :date: __2021-01-13 22:31:57__
-
-> Very happy with my visit today with Dr. O! Would not hesitate to recommended him to friends and family! The virtual visit is very easy to use!!<br> :date: __2021-01-13 17:25:48__
-
-> Helpful tool while traveling 😃<br> :date: __2021-01-13 09:18:12__
-
-> Amazing great help<br> :date: __2021-01-13 03:56:45__
-
-> loveit<br> :date: __2021-01-13 00:07:31__
-
-> Easy<br> :date: __2021-01-12 21:48:17__
+> Quick and easy<br> :date: __2021-01-15 18:34:33__
 
 
 
@@ -249,8 +249,6 @@ The NowClinic app has been installed by more than **50000** times. At this time,
 > Problems with audio on Android<br> :date: __2019-11-03 22:04:50__
 
 > the process was very slow<br> :date: __2019-06-30 18:50:29__
-
-> Sometimes it's good, sometimes not. Just depends on why your needing to do it. I have insurance and says 200 before insurance Not SURE WHAT THAT MEANS AS THIS IS SUPPOSED TO BE 100%covered.<br> :date: __2018-10-12 22:26:12__
 
 
 

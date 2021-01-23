@@ -289,6 +289,8 @@ The UW Medicine Virtual Clinic app has been installed by more than **5000** time
 <img src="1_star_reviews_wordcloud.png" alt="org.uwmedicine.android.wash.virtualclinic 1 reviews"/>
 </p>
 
+> This app can't be used. It always say we're upgrading your experience.<br> :date: __2021-01-20 21:03:56__
+
 > The clinic is a rip-off. The Doctors are subcontractors who can't help you with anything UW and just read you Mayo Clinic sparknotes. They couldn't answer anything about Covid-19 testing/screening even though they list th at as a feature in the app. It's a waste of $35 dollars and is practically fraud considering how they rush your meeting while dodging every question as "They Don't Know". Worse yet I called the UW Helpline and they falsely claimed that this was nessasary for appointments now.<br> :date: __2020-06-06 19:15:10__
 
 > Could not locate my record..??<br> :date: __2020-05-27 18:23:44__
@@ -306,7 +308,5 @@ The UW Medicine Virtual Clinic app has been installed by more than **5000** time
 > Garbage. Waited for more than two hours with a sick kid, got bounced around to different providers before finally getting to the front of the line and the doctor was no longer available. This is not stable enough to be in production.<br> :date: __2020-03-16 05:51:51__
 
 > Wait on hold repeatedly only to have your visit declined without explanation. App sucks. Process sucks.<br> :date: __2020-03-14 22:07:39__
-
-> In waiting room for OVER TWO HOURS when kicked out of queue (started at #19) when showed I was at #5,. App declared provider no longer available. Logged in 3 minutes later and am now #21 FOR THE SAME PROVIDER. Customer svc at 7pm Pacific time rings a few times, then busy signal. UW if you see these reviews, please consider a different vendor for thi service. They fail at service delivery, user friendliness factor and tech support. I diagnose them as DOA.<br> :date: __2020-03-14 03:24:34__
 
 

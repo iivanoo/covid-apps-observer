@@ -171,6 +171,8 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <img src="5_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 5 reviews"/>
 </p>
 
+> Bom.<br> :date: __2021-01-21 23:47:44__
+
 > Impecavel<br> :date: __2020-11-24 18:59:55__
 
 > Nunca pensei que há tantos ignorantes no meu País. É aterrador, pior que o coronavírus.<br> :date: __2020-11-18 08:13:42__
@@ -188,8 +190,6 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 > MUITO ÚTIL ! OBRIGADO<br> :date: __2020-09-11 10:57:40__
 
 > Perfeito<br> :date: __2020-09-09 02:55:00__
-
-> Bom<br> :date: __2020-09-04 21:37:00__
 
 
 
@@ -255,6 +255,8 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <img src="2_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 2 reviews"/>
 </p>
 
+> Não abre, quer dizer abrir até abre, mas não aparece nada.<br> :date: __2021-01-20 15:59:14__
+
 > A aplicação direciona sempre para o browser para fazer o login, por isso torna-se inútil instalar.<br> :date: __2020-11-04 14:58:20__
 
 > Muito complicado. Para aceder à minha conta do banco é bem mais fácil e seguro na mesma.<br> :date: __2020-08-30 12:46:29__
@@ -273,8 +275,6 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 
 > A ideia é muito boa, mas a aplicação não funciona. Quero ver as minhas receitas electrónicas e não é possível.<br> :date: __2020-04-15 13:03:54__
 
-> Não me serviu para nada.<br> :date: __2020-03-18 11:13:55__
-
 
 
 #### 1-star reviews
@@ -283,24 +283,24 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <img src="1_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 1 reviews"/>
 </p>
 
+> Inútil, complicada e nao funciona<br> :date: __2021-01-21 18:24:19__
+
+> A APP não está a funcionar.<br> :date: __2021-01-20 13:21:59__
+
+> Não abre nada. Sem utkilidade<br> :date: __2021-01-20 13:21:53__
+
+> inútil não funcional.<br> :date: __2021-01-20 09:24:32__
+
+> Como é possível, 2 anos sem atualizar. App abandonada e que nesta altura seria uma mais valia para todos.<br> :date: __2021-01-19 00:59:06__
+
+> Não funciona no Android versão 10.<br> :date: __2021-01-18 22:28:55__
+
+> Desatualizada<br> :date: __2021-01-18 21:10:47__
+
+> 1 estrela porque não dá para dar 0. Baixei a app, qual não é o meu espanto que início a app e nada me aparece! Alguém deveria atualizar isto!!!<br> :date: __2021-01-18 19:49:27__
+
 > Inútil e desatualizada, foi abandonada pelo serviço técnico que a criou. Só funciona com versões antigas de Android.<br> :date: __2021-01-16 11:39:24__
 
 > Lixo<br> :date: __2021-01-16 02:20:20__
-
-> Diz que a minha versão de Android é recente demais<br> :date: __2021-01-15 20:21:22__
-
-> Não funciona, uma vergonha estar disponível neste situação.<br> :date: __2021-01-15 14:29:27__
-
-> Completamente desactualizada<br> :date: __2021-01-14 22:00:51__
-
-> APP sem sentido as imagens aparecem corrompidas, nas notícias, e remate para o site ao invés de facultar a informação da mesma<br> :date: __2021-01-12 12:31:39__
-
-> Funcionava muito bem, agora deixou de funcionar, nao consigo ir à minha área de saúde.<br> :date: __2021-01-11 19:31:45__
-
-> Uma aplicação que é uma confusão e não serve os utentes.<br> :date: __2021-01-05 21:01:46__
-
-> Não funciona<br> :date: __2021-01-02 02:11:25__
-
-> Muitas falhas e sem necessidade de ter aplicação, pois é rederecionado para o saite a app pouco ou nada serve. App péssima. Tanto dinheiro recebem, deveriam de a melhorar.<br> :date: __2020-12-28 01:08:58__
 
 

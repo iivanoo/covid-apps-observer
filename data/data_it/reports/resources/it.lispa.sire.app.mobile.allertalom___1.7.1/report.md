@@ -160,6 +160,8 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <img src="5_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 5 reviews"/>
 </p>
 
+> Ottimo<br> :date: __2021-01-20 14:23:32__
+
 > Ottimale<br> :date: __2021-01-09 13:14:56__
 
 > Hanno risposto subito e ora funziona perfettamente grazie<br> :date: __2021-01-04 11:14:17__
@@ -177,8 +179,6 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 > Perché l'app è rimasta ferma al 19 Settembre? Nonostante gli aggiornamenti non si muove.<br> :date: __2020-10-21 19:54:14__
 
 > Estremamente valida<br> :date: __2020-10-21 19:18:53__
-
-> Vi ho già detto che non va nel mio cellulare. Mi dispiace<br> :date: __2020-10-19 08:35:18__
 
 
 
@@ -272,6 +272,8 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <img src="1_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 1 reviews"/>
 </p>
 
+> Impossibile da usare!! Ogni volta è necessario accettare le condizioni di utilizzo, ogni volta è obbligatorio compilare il questionario sul covid, ogni volta bisogna compilarlo per sé stessi e per un familiare e ADESSO non accetta più i dati del familiare. Seriamente. Prendete qualcuno che sappia scrivere codice, ci sono millemila RAGAZZI che vi potrebbero scrivere una app decente e funzionante. VERGOGNA!! Edit dopo risposta del Dev (2021-01-21) : sono MESI che vi viene segnalato il problema. Non e' possibile che la risposta sia sempre "scrivete a ...". Scrivero' sicuramente, ma il problema esiste da MESI. Non si lavora cosi' (male).<br> :date: __2021-01-21 16:30:39__
+
 > Inutile<br> :date: __2021-01-09 10:44:04__
 
 > Ti costringe a partecipare al questionario covid, per proseguire. Non funziona il tasto "Non mi interessa". Volevo essere informato sulle allerte della protezione civile. Le cercherò altrove.<br> :date: __2020-12-24 12:07:27__
@@ -289,7 +291,5 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 > Allerta in tempo reale???? Non scrivete certe cose!!<br> :date: __2020-10-22 20:26:03__
 
 > Totalmente inutile, da informazioni che puoi trovare sia sull'app meteo che su Google, consuma spazio per niente<br> :date: __2020-10-17 14:50:34__
-
-> Dopo dopo aver portato pazienza per sei mesi, Devo dire che questa app non serve a nulla. Nulla è consultabile per quanto riguarda le allerte. Ti obbliga ad accettare tutta una serie di privacy ogni volta che viene lanciata e l'unica cosa che puoi fare e compilare il questionario covid. Anche qui un disastro.... Non ti consente di compilare il questionario per te e ti obbliga a farlo per i familiari..per lo stato delle cose la ritengo inutile. Grazie<br> :date: __2020-10-16 10:07:08__
 
 

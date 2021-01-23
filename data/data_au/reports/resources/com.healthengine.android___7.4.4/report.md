@@ -172,25 +172,25 @@ The HealthEngine app has been installed by more than **500000** times. At this t
 <img src="5_star_reviews_wordcloud.png" alt="com.healthengine.android 5 reviews"/>
 </p>
 
-> Easy to use and convenient<br> :date: __2021-01-16 08:34:51__
+> Easy to use<br> :date: __2021-01-23 00:28:51__
 
-> Love it, best way to make appointments.<br> :date: __2021-01-16 01:09:19__
+> Very good 👍<br> :date: __2021-01-22 10:37:05__
 
-> Efficient and easy<br> :date: __2021-01-15 11:14:59__
+> Excellent<br> :date: __2021-01-22 09:24:09__
 
-> I think they are very very good and the are very helpful and they do their job properly<br> :date: __2021-01-15 09:17:48__
+> Love booking online it's so easy<br> :date: __2021-01-22 08:32:22__
 
-> Excellent<br> :date: __2021-01-15 03:10:50__
+> Easy and fast<br> :date: __2021-01-22 08:30:28__
 
-> Very handy with Drs that use it..<br> :date: __2021-01-15 02:50:03__
+> Very handy app for making appointments.<br> :date: __2021-01-22 05:47:01__
 
-> It's so easy to book appt and easy to use<br> :date: __2021-01-15 00:13:08__
+> Easy to use and convenient.<br> :date: __2021-01-22 03:56:45__
 
-> Great app to use<br> :date: __2021-01-14 21:03:21__
+> Interface is great, easy and user friendly.<br> :date: __2021-01-22 02:18:15__
 
-> Easy to use and great to be able to choose the physician at the touch of a finger. Never had any issues with the app!<br> :date: __2021-01-14 00:24:58__
+> Easy to use.<br> :date: __2021-01-21 22:19:30__
 
-> This app is so helpful being able to book an appointment without needing to call, and before booking it shows you the available dates and times with your preferred doctor. Makes life alot easier.<br> :date: __2021-01-13 15:49:45__
+> Easy to use<br> :date: __2021-01-21 15:48:50__
 
 
 
@@ -199,6 +199,8 @@ The HealthEngine app has been installed by more than **500000** times. At this t
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.healthengine.android 4 reviews"/>
 </p>
+
+> This app has really stepped up from when it first began. Much better indeed.<br> :date: __2021-01-19 06:08:08__
 
 > Very good.<br> :date: __2021-01-16 01:59:52__
 
@@ -217,8 +219,6 @@ The HealthEngine app has been installed by more than **500000** times. At this t
 > Good excellent service.<br> :date: __2021-01-04 23:36:15__
 
 > Quick & Easy to use. No more long waits to book or to see the doctor. I usually book the night before & see the medical practitioner the following morning!! Not often do U get such availability these days but with Health Engine, all available appointments are displayed for your convenience. Love it!!<br> :date: __2020-12-30 22:35:43__
-
-> Travised through each section ok<br> :date: __2020-12-28 07:18:01__
 
 
 
@@ -284,6 +284,8 @@ The HealthEngine app has been installed by more than **500000** times. At this t
 <img src="1_star_reviews_wordcloud.png" alt="com.healthengine.android 1 reviews"/>
 </p>
 
+> Will change to a better ratinh when I dont have to enter a passcode every single time I open the app.<br> :date: __2021-01-16 23:48:19__
+
 > I book my aappointment online and recieved confmation email and phone with Dr rupali sharp 12:pm afternoon on Monday 04/01/2121 . When I reached i am watting for one hour . After one hour I asked the question resepetionst how much I am watting for she said no idea still three more patient watting meet to Dr rupali before you .. I am surprised and ask resepetionst what you give me time 12.00pm if appionement not avaiable. She give me no any response. really very bad services. I never goi again<br> :date: __2021-01-04 04:30:05__
 
 > 1 hr notice for an appointment is silly. Make it the day before do there is a chance to cancel in a timely manner.<br> :date: __2020-12-09 23:38:27__
@@ -301,7 +303,5 @@ The HealthEngine app has been installed by more than **500000** times. At this t
 > Ive never actually been able to make appointments on this app with my clinic. Uninstalling, its just a waste of space<br> :date: __2020-11-24 21:15:15__
 
 > Cannot book appointments. Tried multiple times<br> :date: __2020-11-18 13:19:13__
-
-> It's not working now I had to uninstall and reinstall and it still doesn't have my gp on the app I've all ways booked on there but it's not working ITS WORONGARY MEDICAL CENTER I HAVE ALWAYS BOOKED THROUGH YOUR APP<br> :date: __2020-11-13 06:24:35__
 
 

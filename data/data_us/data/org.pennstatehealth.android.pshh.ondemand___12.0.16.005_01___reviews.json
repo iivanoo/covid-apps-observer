@@ -1,5 +1,29 @@
 [
     {
+        "reviewId": "gp:AOqpTOEV7FshibVEJz9LNsWIHeuZZoppUamm9KL4wsWpW1O2M_aGr1k_0eXh4BCeFDjNW6MET4f6xc050h8MLiM",
+        "userName": "Cynthia Zeigler",
+        "userImage": "https://play-lh.googleusercontent.com/-p3hT8dHt_ts/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmndmbrpTf8f33uqHubRNu-z4cHLA/photo.jpg",
+        "content": "Always a pleasant visit with Dr Gomaa.and staff all are great",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "12.0.16.005_01",
+        "at": "2021-01-22 16:30:45",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHFds4yihbvr_aEdfAfjdwKQt_Eml6wKIsxkJL3IuTGxMt3j1x1GVz93eyuVvSsfv_gRFzTiJbcQethBCw",
+        "userName": "David Miller",
+        "userImage": "https://play-lh.googleusercontent.com/-hs92ocTLE1g/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmHXHxWOMGkPMNbk55s2dOCnZB19w/photo.jpg",
+        "content": "Visit summary does not include NPI number or tax ID number, both of which are needed for insurance. Also, they say Corona screening 7:00 a.m. to 7:00 p.m., but the day I checked every nurse was offline. This app can be useful for quick first Care service, however.",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "12.0.16.005_01",
+        "at": "2021-01-16 18:42:33",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOF_x9Vjh0RpXrUqiYUIz54RIlW2iOHsnlsI431p1pt1sc88YA793lM6aiFF5PW0XCT6jCyT67E7rjyTuZk",
         "userName": "Frederick Hockenberry",
         "userImage": "https://play-lh.googleusercontent.com/-hxvN87KNBlo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnRRtY6AAtI0KpsyNEhy4zZHKMnRg/photo.jpg",
@@ -101,7 +125,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ggre6_3qCCd0MPwUR93aoSYMUMDkQudihl8fJAEoe0",
         "content": "minimal wait time. M.D. was very personable and knowledgeable. saved time of sitting in urgent care center.I would definitely recommend 12/18/20 Had the need to see someone without disrupting my day. Once again, very positive experience. Knowledgeable, personable, thorough. I definitely recommend",
         "score": 5,
-        "thumbsUpCount": 2,
+        "thumbsUpCount": 3,
         "reviewCreatedVersion": "12.0.16.005_01",
         "at": "2020-12-18 13:25:27",
         "replyContent": null,
@@ -734,7 +758,7 @@
     {
         "reviewId": "gp:AOqpTOE3DPHAt_sP1XoM04Re0hr9fc6l6AH6rrd5VOap-5hzBlvP6CCCgHhcYynh6oyUtAj5FN6nCbQPHcKuRs8",
         "userName": "Robert Criswell III",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhCkPTmrPcfomwKZE9j5LnWtzmlXK8Vfi8h0Y1hqQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgAZM3x_xrLXfLlCt0jTGKhnhVjEOhlF99iZwh9nw",
         "content": "This is made seeing my doctors much easier considering I'm about a two hour drive away",
         "score": 5,
         "thumbsUpCount": 0,

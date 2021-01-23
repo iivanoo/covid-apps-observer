@@ -140,6 +140,8 @@ The RIVM LCI-richtlijnen app has been installed by more than **50000** times. At
 <img src="5_star_reviews_wordcloud.png" alt="nl.rivm.lciapp 5 reviews"/>
 </p>
 
+> Geweldig<br> :date: __2021-01-17 14:06:47__
+
 > Ok<br> :date: __2020-11-29 11:21:35__
 
 > Goede informatie over corona-virussen<br> :date: __2020-10-30 20:16:41__
@@ -157,8 +159,6 @@ The RIVM LCI-richtlijnen app has been installed by more than **50000** times. At
 > Zeer goede en bruikbare informatie<br> :date: __2020-06-18 17:15:10__
 
 > Geweldige app die het hellaas op een Lenovo tab M10 niet doet..<br> :date: __2020-06-12 17:52:50__
-
-> Prima 👍 duidelijk.<br> :date: __2020-06-02 00:35:27__
 
 
 

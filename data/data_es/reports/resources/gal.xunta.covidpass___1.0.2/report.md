@@ -178,6 +178,8 @@ The PassCOVID.gal app has been installed by more than **10000** times. At this t
 <img src="5_star_reviews_wordcloud.png" alt="gal.xunta.covidpass 5 reviews"/>
 </p>
 
+> Muy buena<br> :date: __2021-01-23 10:05:27__
+
 > Muy buena y útil si vives en Galicia. Lo que más me ha gustado es que están bien explicadas y organizadas las restricciones por concello con datos actualizados y oficiales de la propia Xunta. No hay información más actualizada y veraz que esta. Además si tu resultado es positivo aquí te mostrará tu código para introducir en Radar Covid, a parte de hacer listas con contactos estrechos o declarar un contacto de riesgo para que te hagan la prueba entre otras funciones. Muy buena.<br> :date: __2021-01-07 22:08:33__
 
 > Quizás debería ser un poco mas sencilla su forma de uso<br> :date: __2021-01-03 10:23:05__
@@ -234,6 +236,8 @@ The PassCOVID.gal app has been installed by more than **10000** times. At this t
 <img src="2_star_reviews_wordcloud.png" alt="gal.xunta.covidpass 2 reviews"/>
 </p>
 
+> No te puedes fiar de las restricciones. De nada sirve informarse de las restricciones de tu ciudad en la aplicación si después cada concello pone las suyas propias. Consulté una restricción relativa a presenciar un evento deportivo en la app, llamé al número de atención Covid, me confirmaron que podía ir y cuando llegué al pabellón no me dejaron entrar por la normativa que puso el concello. En la aplicación no se puede poner una normativa en un concello determinado y que realmente no sea así.<br> :date: __2021-01-17 12:22:05__
+
 > No publican las actualizaciones es lenta sin información actualizada.<br> :date: __2021-01-14 15:54:11__
 
 > Las restricciones cambiaron esta noche a las 12, y a pesar de haber recibido una notificación diciendo que había cambios en la app, al entrar sigue apareciendo la info de ayer 🤔<br> :date: __2020-12-23 08:30:25__
@@ -251,8 +255,6 @@ The PassCOVID.gal app has been installed by more than **10000** times. At this t
 > Códigos de verificación sigo esperando,fallo<br> :date: __2020-11-29 21:08:21__
 
 > Non permitirá ser unha útil ferramenta , mediante o escaneo dos códigos QR por non esistir dito QR nos establecementos, públicos e privados . Sen quedar regixtrado que unha persoa a visitado ese establecemento. Sentidiño Indicacións pra protexernos contra a COVID-19.<br> :date: __2020-11-29 01:47:38__
-
-> Es poco clara y "le cuesta" poner todo en bilingüe, español y gallego. En varios contenidos no da opción y sólo sale la versión en gallego... Otra enfermedad, el antibilingüismo.<br> :date: __2020-11-28 12:57:27__
 
 
 

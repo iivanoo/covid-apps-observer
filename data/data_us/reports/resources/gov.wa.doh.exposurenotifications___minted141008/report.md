@@ -129,6 +129,10 @@ The WA Notify app has been installed by more than **100000** times. At this time
 <img src="5_star_reviews_wordcloud.png" alt="gov.wa.doh.exposurenotifications 5 reviews"/>
 </p>
 
+> Secure. Good software design.<br> :date: __2021-01-20 07:00:49__
+
+> Need it! One of those I never get allerts on.<br> :date: __2021-01-16 20:03:01__
+
 > Satisfecho de ser notificado cuando uno este expuesto ante gentes con covid-19 mil gracias.<br> :date: __2021-01-14 01:22:18__
 
 > Much needed<br> :date: __2021-01-12 01:20:21__
@@ -144,10 +148,6 @@ The WA Notify app has been installed by more than **100000** times. At this time
 > Very useful in the current climate.<br> :date: __2021-01-04 07:52:12__
 
 > I got the app because I just never know what could happen.<br> :date: __2021-01-04 07:24:12__
-
-> It's been a few escrering moment but, better get the alert than the 🤒.<br> :date: __2021-01-03 03:15:43__
-
-> Too soon to tell but could be very useful. They need to have a share that you can choose which app store to refer people Apple or Google. This one just sends a Google link which is useless for my wife and daughter. Hopefully they will add this. The real key is getting enough people to use it in this paranoid, conspiracy following world. Thanks for the quick response and good luck!<br> :date: __2021-01-02 05:30:16__
 
 
 
@@ -213,6 +213,8 @@ The WA Notify app has been installed by more than **100000** times. At this time
 <img src="2_star_reviews_wordcloud.png" alt="gov.wa.doh.exposurenotifications 2 reviews"/>
 </p>
 
+> Check,checkin',This demo Application has "dropped-the -ball"several times for me since downloading it,"what gives so fat!?!" TheRealInternetMan😎<br> :date: __2021-01-23 07:32:04__
+
 > Soy positivo y e querido compartir mis resultados pero no reconoce mi código<br> :date: __2021-01-07 23:59:26__
 
 > The concept is fine but the fact that we are relying on someone who has the virus to input a code that no one seems to know about makes this app pretty useless. The last year has proven to us that we cannot rely on people to do the right thing so that makes this app double useless. This would have been far more useful if it kept the bluetooth device pinging but used every device's phone number and compared it against a database of known infected person's phone numbers.<br> :date: __2021-01-06 15:09:14__
@@ -231,8 +233,6 @@ The WA Notify app has been installed by more than **100000** times. At this time
 
 > it doesn't notify me at all. we had 2 positive at work but this never notified me. its not working.<br> :date: __2020-12-14 14:55:24__
 
-> As big of a joke as our leaders! SMH<br> :date: __2020-12-07 11:01:49__
-
 
 
 #### 1-star reviews
@@ -241,11 +241,15 @@ The WA Notify app has been installed by more than **100000** times. At this time
 <img src="1_star_reviews_wordcloud.png" alt="gov.wa.doh.exposurenotifications 1 reviews"/>
 </p>
 
+> I tested positive and the app wouldn't let me notify people. It turns out the app needs a code, given by Washington State department of health employees when they call you for a phone survey/interview. I received positive test results on Sunday 1/17 and received a phone call follow up on Tuesday 1/19. I brought up the code and was given it, but that was only after the entire call was completed with no mention of the code or app. If I hadn't brought it up it would not have come up otherwise.<br> :date: __2021-01-20 20:54:20__
+
+> People need to know where to get a code from if they have tested positive. There's more information that needs to be put on here for the people. I didn't say it was me!<br> :date: __2021-01-19 05:03:48__
+
+> Okay in theory, does not work whatsoever in reality. I've been a covid tester numerous times and a first responder around confirmed covid positive patients. The app never alerted once while I've had it on my phone the last several months. Bluetooth and GPS is always on. Battery saver always off.<br> :date: __2021-01-17 18:34:51__
+
 > Typical government, very poor quality<br> :date: __2021-01-15 23:53:41__
 
 > This app does not work. every time I get on it says there's been no cases in Washington. yet I live in King county and it has one of the highest rates of the covid<br> :date: __2021-01-13 20:28:29__
-
-> People need to know where to get a code from if they have tested positive. There's more information that needs to be put on here for the people.<br> :date: __2021-01-13 19:17:33__
 
 > I had a coworker matter a fact 2 co workers got covid and this stupid app never notified me of either exposure. This app wants full access to your cell and doesn't even do what it says it does<br> :date: __2021-01-13 05:08:21__
 
@@ -256,9 +260,5 @@ The WA Notify app has been installed by more than **100000** times. At this time
 > I work in the public, and with this pandemic Iam pretty sure that I have been exposed at some point. This app shows nothing.<br> :date: __2021-01-10 18:54:59__
 
 > Waste<br> :date: __2021-01-09 22:00:36__
-
-> I work at the post office and we had 3 positive results and I never received 1 alert from this app<br> :date: __2021-01-09 02:58:01__
-
-> Constantly alerts if you ever have gps or bluetooth off so if it ever tries to give me a virus alert, I won't notice it. Update: I don't care about data or battery. I turn things off because I don't want internet dog food ads for driving past a pet store and I only go out once a week for groceries; no guests.<br> :date: __2021-01-07 15:44:25__
 
 

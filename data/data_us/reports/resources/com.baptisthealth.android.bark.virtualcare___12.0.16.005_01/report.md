@@ -192,6 +192,8 @@ The Baptist Health - Virtual Care app has been installed by more than **10000** 
 <img src="5_star_reviews_wordcloud.png" alt="com.baptisthealth.android.bark.virtualcare 5 reviews"/>
 </p>
 
+> Easy and convenient<br> :date: __2021-01-21 04:55:01__
+
 > My mother and father uncle Ants cousin friend and family together trust this Healthy CAREGIVER AND NO OPTIONAL RICKEY SHORES<br> :date: __2020-09-05 19:34:20__
 
 > I am glad I had this option.<br> :date: __2020-08-07 14:55:25__
@@ -209,8 +211,6 @@ The Baptist Health - Virtual Care app has been installed by more than **10000** 
 > Very nice visit with my doctor while I'm sitting at home. Thank you so much for all your help.<br> :date: __2020-04-03 21:07:10__
 
 > It was my first virtual doctors visit but I thought it was overall great. I have a condition that does not allow me to drive so this is a great alternative for me.🥰🥰🥰🥰<br> :date: __2020-03-31 18:41:10__
-
-> Took 10 min from my couch. So easy and user friendly. Check with your employer's benefits office to see if you have a coupon code. Loved the experience.<br> :date: __2020-03-31 17:50:10__
 
 
 

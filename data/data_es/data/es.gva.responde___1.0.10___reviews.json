@@ -1,5 +1,17 @@
 [
     {
+        "reviewId": "gp:AOqpTOEYHaDKnPDTl0-RekbMqFiiK8Ujqjw4rOAW-6R3NYIFjdFDI4-avFZai4UL71AlC_2rObBx9LgkD0DiPg",
+        "userName": "Aida Cant\u00f3 Ferrando",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhZcke0vkDmic05mnuU3EhYb9X2cIBj7NiFwGr0",
+        "content": "No veo las novedades por ning\u00fan lado a pesar de poner \"\u00faltimas novedades\". Ni la encuentro \u00fatil. Me la he desinstalado.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2021-01-19 15:45:28",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOGq5DbXEYxQmF98HqgAtV4xbzhrMr2z0pkQR_kwTNbomS5SvqEEFSj5VZNgkKbxfKnw1utf-05ETRHJOw",
         "userName": "Jose Castro",
         "userImage": "https://play-lh.googleusercontent.com/-ek7yixwWuew/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckODb_JRfEj_kKvqoTQ53hwM9FzvQ/photo.jpg",
@@ -206,7 +218,7 @@
     {
         "reviewId": "gp:AOqpTOF0IUJi-K1akq1FFseS8f80e_2nllXvZcpWj-BnUx9N-txT60M4xomA-IQ1H3CuIanzZiTdFgV9ydGS4w",
         "userName": "Lorenzo Trenco",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh-_xe5m4WztXPGgcuZAS7Xn7faYS64vv_5kwY7dg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhOWCU8FRnstt8HiPdPrqL3CuM7ceYY-G5oG7QFgg",
         "content": "D\u00f3nde est\u00e1 el seguimiento de contactos como dice el protocolo PDT-3 creo que ser\u00eda bastante recomendable, gracias.",
         "score": 2,
         "thumbsUpCount": 1,

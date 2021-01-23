@@ -150,6 +150,12 @@ The COVID Alert NY app has been installed by more than **500000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="gov.ny.health.proximity 5 reviews"/>
 </p>
 
+> Here's a little story I'd like to tell, then some high and mighty dick hit me with a SLAPP order and I can't even get my internet to work.<br> :date: __2021-01-19 22:36:04__
+
+> I feel like the City of NY should mandate this to take the subway<br> :date: __2021-01-18 20:12:24__
+
+> Waz a Waz a<br> :date: __2021-01-17 19:57:04__
+
 > Great app, espeally for me, my favorite color is purple!<br> :date: __2021-01-15 23:13:22__
 
 > Looks like a great app<br> :date: __2021-01-14 22:48:01__
@@ -163,12 +169,6 @@ The COVID Alert NY app has been installed by more than **500000** times. At this
 > Lucky<br> :date: __2021-01-09 23:33:53__
 
 > 12/26 I got an alert that someone was close to me for a prolonged time with Covid. The worst part was getting tested which seemed like it was more difficult then it needed to be and finding a testing cite was annoying and Imo this is a PUBLIC health crisis and ALL testing should be free. I had to go to a place and pay for a test. I was satisfied with this app because I was warned! So for that I'm happy. I was able to be proactive. I was negative in the end so this worked at least for me.<br> :date: __2021-01-09 23:26:30__
-
-> SharonFrancisSharen22o<br> :date: __2021-01-08 21:41:03__
-
-> Great<br> :date: __2021-01-06 11:23:53__
-
-> The Macarona y quesso detector is stronk<br> :date: __2021-01-04 04:46:46__
 
 
 
@@ -262,9 +262,11 @@ The COVID Alert NY app has been installed by more than **500000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="gov.ny.health.proximity 1 reviews"/>
 </p>
 
-> Useless<br> :date: __2021-01-14 03:22:18__
+> This app no longer works<br> :date: __2021-01-20 03:32:20__
 
-> This app needs far too many permissions and it's a very heavy drain on the battery.....<br> :date: __2021-01-07 16:02:47__
+> App is completely useless . I drive through all five boroughs and went through Brooklyn along Williamsburg and saw hundreds of people with no masks on in a certain neighborhood and my phone didn't ring once but it's a covid hot spot. Then I went to uptown Washington heights and Dyckman and it didn't ring once either there.<br> :date: __2021-01-18 03:13:51__
+
+> Useless<br> :date: __2021-01-14 03:22:18__
 
 > Does not work in conjunction with other covid apps. Must shut one off to use the other. Have NY and Connecticut. They will not work at the same time. Stupid!<br> :date: __2021-01-05 18:31:46__
 
@@ -279,7 +281,5 @@ The COVID Alert NY app has been installed by more than **500000** times. At this
 > FRAUD!!!!!<br> :date: __2020-12-31 22:07:10__
 
 > Pointless<br> :date: __2020-12-31 20:21:37__
-
-> Totally useless app.<br> :date: __2020-12-28 21:36:59__
 
 

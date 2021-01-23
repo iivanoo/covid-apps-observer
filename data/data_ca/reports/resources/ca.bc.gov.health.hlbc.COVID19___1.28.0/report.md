@@ -134,6 +134,10 @@ The BC COVID-19 Support app has been installed by more than **50000** times. At 
 <img src="5_star_reviews_wordcloud.png" alt="ca.bc.gov.health.hlbc.COVID19 5 reviews"/>
 </p>
 
+> Mandatory download<br> :date: __2021-01-20 08:04:33__
+
+> So far this app is goid.<br> :date: __2021-01-18 22:59:54__
+
 > Great!<br> :date: __2020-11-30 17:23:32__
 
 > Excellent useful informative thank you<br> :date: __2020-06-07 16:54:54__
@@ -149,10 +153,6 @@ The BC COVID-19 Support app has been installed by more than **50000** times. At 
 > Informative!<br> :date: __2020-04-25 04:26:38__
 
 > This app helps with understanding what to do, what is going on, and what the government is doing.<br> :date: __2020-04-25 02:28:31__
-
-> Would be nice if date/time of public TV updates posted on home page.<br> :date: __2020-04-24 23:34:19__
-
-> Great<br> :date: __2020-04-24 03:48:09__
 
 
 
@@ -187,6 +187,8 @@ The BC COVID-19 Support app has been installed by more than **50000** times. At 
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="ca.bc.gov.health.hlbc.COVID19 3 reviews"/>
 </p>
+
+> Like it but the stats page with modeling and projections has not updated since dec 23. Everything else does in the app when you scroll around.<br> :date: __2021-01-18 00:53:34__
 
 > I love the app and the up to date info it would be nice though if we could see not just how many cases there are in each Health Authority but instead the number of active cases per health authority<br> :date: __2020-10-30 05:35:56__
 

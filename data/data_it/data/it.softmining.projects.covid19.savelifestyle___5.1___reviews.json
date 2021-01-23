@@ -1,8 +1,20 @@
 [
     {
+        "reviewId": "gp:AOqpTOHODytkRIGbm6LSMyGd4DBnc6iiTJmlFaIh6IZzwjUT8LpAy1dBBMkXMr5P5iL2O-eFISesHpNikrd_7dk",
+        "userName": "Pasquale Pugliese",
+        "userImage": "https://play-lh.googleusercontent.com/-c-VtNRAk5jg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmFWNmttiiof97U1u_2occ91rLRTQ/photo.jpg",
+        "content": "Ottima app",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "5.1",
+        "at": "2021-01-17 03:55:29",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOHlLdoULEpPqLK3tQW3hyd7UQSBFgTomqNEYQTjptAgaCprY5mxaivBK8BkyHcQ2JrOsxWetWdr06ISx7A",
-        "userName": "Ignazio merlino",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhcVAVXbPjsX7gkXNWaCqNAxHtlspiQQ3tXwbbppg",
+        "userName": "merlino carmelo ignazio",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GggQEC0PO81hI5zVzkMBx9P49XoJjgRTwyoSwVd8A",
         "content": "Pessima app",
         "score": 1,
         "thumbsUpCount": 0,
@@ -218,7 +230,7 @@
     {
         "reviewId": "gp:AOqpTOGLiU7xLedD5T5MjmZOoZYDI3RmgxjR-FvloOe-jw-Ii87mYVWU88yPguWl6CYfL_p_QkTwMv_TicvPpMo",
         "userName": "Pasquale Boffa",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiFevOJsmX2rwOURRhUowKhMODS4T9fR0gISJqaoQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiqmhXmIgP6Yq86M6BsiUa-DnAESmNF-bL19APgxw",
         "content": "Molto interessante",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1213,8 +1225,8 @@
     },
     {
         "reviewId": "gp:AOqpTOH0Hy9FzDjeDnwdiosvDr6ix-qKV6pCeeTNJ8NlYh5IRy-qPOwWsm9DeshderI1MhuLO36d94Oyv6KxqA4",
-        "userName": "Cobra guerriero",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhrH0CpYNdU0UGu39kllQupZNjqwzjBY_zyUGJhAA",
+        "userName": "Antoine Gonzaga",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh6N8yx6NWMtNW1rgEdFpjuOJANlKIY4rM1mbCRqg",
         "content": "Non so quanto sia credibile, al momento non posso dare di + poi si vedra', a me pare + un controllo della persona. E allora W la privacy.",
         "score": 3,
         "thumbsUpCount": 0,
@@ -2210,7 +2222,7 @@
     {
         "reviewId": "gp:AOqpTOGf36Okh8988_8RyxxbnLfhhry9_ubi5myxco2jmG-FteBjiLWekJefAdOfjquhkIn0n1P7VP0kIX7UcSM",
         "userName": "Venera Migliore",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj_wy7qscwO_tw82RBYIZcp5WcBV6GO60gD8qFd2sM",
+        "userImage": "https://play-lh.googleusercontent.com/-zu5MlSByjHY/AAAAAAAAAAI/AAAAAAAAX2s/AMZuucmZbZi8O4_OgYPZSJzy0DTfAWWW5w/photo.jpg",
         "content": "Ottima",
         "score": 5,
         "thumbsUpCount": 0,
@@ -2342,7 +2354,7 @@
     {
         "reviewId": "gp:AOqpTOHnycKutDu-WzdKclNqE2mXJCO9-AynWCGagbXporeCuDbhwyPw0RFqsFGijj6YHSLDm1Yw2_RPVFyZgsk",
         "userName": "Carlo Dell'anna",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi05g1rOrPF_CoCywZeq5ZtLf_QAZ4e-mxcsv8HfQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiXMDWvcLbF7XWfcSGBN7Z_7KweJ6T0girc7MBnTQ",
         "content": "Ottima",
         "score": 5,
         "thumbsUpCount": 0,
@@ -3785,7 +3797,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg5GPseo5AX3K9feW4W7rOQF4F3R3l1JDTS9-tlVQ",
         "content": "Ottima iniziativa e ottima app. Funziona perfettamente e non impatta minimamente sulle prestazioni del telefono. Funzionamento trasparente e assolutamente intuitivo anche per chi \u00e8 poco avvezzo alla tecnologia. Speriamo che il progetto di questa app alternativa resti in piedi e funzionante per il futuro. Come sempre l'iniziativa privata arriva prima di quella pubblica. Grazie per il vostro lavoro.",
         "score": 5,
-        "thumbsUpCount": 51,
+        "thumbsUpCount": 52,
         "reviewCreatedVersion": "2.6",
         "at": "2020-04-21 14:12:38",
         "replyContent": null,

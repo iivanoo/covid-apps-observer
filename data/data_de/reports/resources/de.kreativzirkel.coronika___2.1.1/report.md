@@ -166,6 +166,8 @@ The Coronika - Dein Corona Kontakttagebuch app has been installed by more than *
 <img src="5_star_reviews_wordcloud.png" alt="de.kreativzirkel.coronika 5 reviews"/>
 </p>
 
+> Wurde mit dem Fortschreiten der Pandemie immer weiter verbessert. Mit Engagement und Liebe gemacht - ich bleibe ihr treu!<br> :date: __2021-01-22 23:36:55__
+
 > War jetzt eine ganze Weile super, die Version 2.0.0 ist aber ein Rückschritt : - Telefonnummer als Pflichtfeld - Uhrzeiteingabe nun viel umständlicher; der alte Selektor bediente sich viel schneller<br> :date: __2021-01-08 18:29:44__
 
 > Ist es möglich seine Einträge auf ein anderes Handy zu exportieren?<br> :date: __2021-01-08 16:57:03__
@@ -183,8 +185,6 @@ The Coronika - Dein Corona Kontakttagebuch app has been installed by more than *
 > Die Idee hinter der App ist sehr gut und scheint auch mehr oder weniger die einzige derartige App zu sein. Meine Verbesserungsvorschläge wurden alle umgesetzt. Kann die Nutzung nur empfehlen. Sehr gute Sache!!! Sehr nette Mitarbeiter.<br> :date: __2020-12-24 06:10:02__
 
 > Man kann sehr praktisch, schnell und einfach seine Kontakten notieren und dazu wichtige Rahmenbedingungen auswählen, z.B. ob Abstand gehalten wurde oder eine Maske getragen wurde. Super wichtig, wenn man positiv getestet wird und seine letzten Kontakte angeben muss, da vergisst man in der Aufregung dann sonst Einige!<br> :date: __2020-12-23 19:24:20__
-
-> Es ist wirklich einfach zu bedienen und man muss keine Zugriffsberechtigungen geben (kann man aber). - Ohne Zugriffsberechtigungen schreibt man Namen selbst rein - mit Zugriffsberechtigungen kann man Kontakte auswählen und zusätzlich selbst reinschreiben Easy Bleibt gesund ........ Update: Seit Update 2.0.3 beendet sich die App selbstständig sobald man auf "Übersicht" klickt. Könnt Ihr Entwickler da mal nachsehen? Schöne Feiertage und einen guten Rutsch...<br> :date: __2020-12-23 14:52:38__
 
 
 
@@ -222,6 +222,8 @@ The Coronika - Dein Corona Kontakttagebuch app has been installed by more than *
 <img src="3_star_reviews_wordcloud.png" alt="de.kreativzirkel.coronika 3 reviews"/>
 </p>
 
+> Die App finde ich klasse und ich nütze sie schon von Anfang an! Leider lässt seit heute aber nichts mehr speichern! Nach der Eingabe und Betätigen der Speichern-Taste steigt die App aus! Hoffe, das ändert sich bald wieder, ansonsten werde ich die App deinstallieren!<br> :date: __2021-01-21 10:59:03__
+
 > Wie kann ich einen detaillierten Export erstellen ? Ich bekomme zZ nur eine Liste aller Orte und darunter die aller Personen ohne Datum, ohne die Details (Uhrzeit, Masken, drinnen/draußen) und vor allem ohne Zuordnung Personen zu Ort und Zeit. Falls ich das Datum einer Begegnung falsch erfasst habe, kann ich nur Details, aber nicht das Datum ändern oder in der Übersicht verschieben. Wie kann ich wiederkehrende Begegnungen schneller erfassen, würde Tipparbeit sparen. Kann ich kopieren?<br> :date: __2021-01-07 10:45:02__
 
 > Seit dem Update ist es mir auch zu umständlich geworden. Zuvor die getroffenen Personen an einem Tag mit wenigen Klicks erfassen war gut. Jetzt dauert es ewig, ich benötige genaue Zeitangaben, etc. Schade, werde nach einer Alternative suchen, da ich das Prinzip durchaus sinnvoll finde.<br> :date: __2020-12-30 19:35:52__
@@ -239,8 +241,6 @@ The Coronika - Dein Corona Kontakttagebuch app has been installed by more than *
 > Eigentlich eine tolle App und 5 Sterne wert. Seit den neuesten Update gilt: + es können Begegnungen mit Orten und Details gefüllt werden - die Tagebuch Übersicht stellt nur noch Begegnungen dar (ein Tag mit einem Buch beim Bäcker sieht genauso aus wie eine indoor Party ohne Masken)<br> :date: __2020-12-19 07:14:47__
 
 > Mit dem letzten Update muss ich leider meine gute Bewertung abwerten. Eine schnelle Eingabe ist nicht mehr möglich und wurde nur unnötig aufgebläht. Auch bri Personen gibt es jetzt Pflichtfelder die nicht immer vorliegen. Sorry das war leider eine Verschlimmbesserung eines an sich tollen Programms. Wichtiger wäre imo in der Ausgabe bei den Personen das Datum wie bei den Orten gewesen.<br> :date: __2020-12-19 04:41:58__
-
-> Schade, die App war gut, weil sie einfach war. Man musste zwar zum Hinzufügen manchen Klick unnötig machen, aber es ging noch. Nach dem neuesten Update ist sie viel zu umständlich geworden. Wenn ich Personen eintrage, dann weiß ich warum, wann u. wo. Dies jetzt auch noch zu erfassen ist unnötig. Regelmäßiges Eintragen nehmen wir Menschen nur vor, wenn es vor allem einfach u. schnell zu erledigen ist. Das ist mit dem letzten Update Geschichte. Schade. 3 Sterne für die Idee an sich. Deinstalliert<br> :date: __2020-12-18 23:00:21__
 
 
 

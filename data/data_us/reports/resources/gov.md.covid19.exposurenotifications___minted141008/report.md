@@ -181,6 +181,8 @@ The MD COVID Alert app has been installed by more than **100000** times. At this
 <img src="3_star_reviews_wordcloud.png" alt="gov.md.covid19.exposurenotifications 3 reviews"/>
 </p>
 
+> Finally Maryland is aboard with this Alert system.<br> :date: __2021-01-18 17:03:51__
+
 > text<br> :date: __2021-01-15 05:40:42__
 
 > Works well I guess. My biggest gripe is no feedback on the number of contacts made. It would be good to know how many people I have passed by that use or do not use the app in a given day. Why trust the app if I have no idea if it is registering or missing the people I pass by? There aren't even numbers on how effective this app is for me or everyone in general.<br> :date: __2021-01-06 10:32:39__
@@ -198,8 +200,6 @@ The MD COVID Alert app has been installed by more than **100000** times. At this
 > I keep getting a error on install. Smdh<br> :date: __2020-12-08 12:22:49__
 
 > Needs to be listed and available at the Top of your Maryland coronavirus web page! Also how to update it! Mine needed that...why not automatic? Boo! Like hogan wasting $9million on South Korean tests!<br> :date: __2020-12-06 14:49:17__
-
-> Just Downloaded But Unable To Turn On Notifications. Now It's Just Useless. And No It's Not My Phone. Please Fix Bugs.<br> :date: __2020-11-20 15:15:26__
 
 
 
@@ -237,6 +237,12 @@ The MD COVID Alert app has been installed by more than **100000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="gov.md.covid19.exposurenotifications 1 reviews"/>
 </p>
 
+> I have Covid and it won't let me mark I do. When I ask any testing facility or official they tell me it is all handled through CDC... I know it's all bull shirt now... greeeat. Just thought I'll be helpful and tell everybody to stay inside and stop the spread, don't rely on the governor's app, it doesn't work AT ALL. Ive been positive for 2 days. No changes can or were made on my app.<br> :date: __2021-01-21 06:20:47__
+
+> No one uses it.<br> :date: __2021-01-19 12:49:23__
+
+> This app is worthless because no one seems to use it. And even when they do, they don't enter their results.<br> :date: __2021-01-17 09:17:13__
+
 > The app literally doesn't work. There's not much else to say. When you open the app, and press "Turn on exposure notifications", all you get is an error saying "Something went wrong. Try again". I've had it installed for several weeks. It happened when I first downloaded it, and still continues. I'm going to uninstall it. It's pointless. EDIT: So, I decided to try this app again to see if it had been fixed. I guess I'll never know, because when I try to download, I just get an error message. ??<br> :date: __2021-01-13 07:50:43__
 
 > Tried to install on 2 different devices and app will only enable notifications on one of them. Update: 01/08/2021 Still unable to enable notifications on Xiaomi 10 Ultra<br> :date: __2021-01-08 11:08:20__
@@ -250,11 +256,5 @@ The MD COVID Alert app has been installed by more than **100000** times. At this
 > I have covid and need some kind of verification number to report my result. I don't have such a number and there is a useless help button that does not lead to any further information about getting a number.<br> :date: __2021-01-05 03:20:10__
 
 > App is dependent on assumptions. The sensitivity and specificity of COVID19/SARS2 testing done by PCR is questionable. It is traditionally a quantitative test NOT a qualitative one used for ID. Viral culture is the gold standard. App presumably works by your phone's bluetooth communication with COVID + patient's phone. This function may not work properly. I have my doubts. Anyway, most people survive. Infectious disease has been part of the human condition since the beginning of time.<br> :date: __2021-01-02 08:26:35__
-
-> This app is WORTHLESS, a family member of mine has COVID and it's impossible to use the app. The verification codes do not work and there is no way to problem solve.<br> :date: __2020-12-30 17:04:22__
-
-> Doesn't work.<br> :date: __2020-12-26 14:50:18__
-
-> I've been exposed on two occasions. It never notified me. The covid contact tracers also called 3 days late. It's pointless.<br> :date: __2020-12-23 16:07:34__
 
 

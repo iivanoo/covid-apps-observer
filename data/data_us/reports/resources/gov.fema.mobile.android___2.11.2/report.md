@@ -163,6 +163,16 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 <img src="5_star_reviews_wordcloud.png" alt="gov.fema.mobile.android 5 reviews"/>
 </p>
 
+> Awesome<br> :date: __2021-01-22 23:23:17__
+
+> FEMA Student Learning Everything I Can As Chapter Leader Of Cortland, Ohio @ActforAmerica #NationalSecurity Totally Rocks My Love For Law Started After 9/11 I'm Greatful To God For Google And Twitter And FB For Standing Up For America Thank you! God Bless You Always My Family For Life As An African American I'm Proud To Be A Real Patriot I #BackTheBlue My Hubby Started Me In Law Enforcement He's Been In There 9-1/2 I Guarded Banks A Rewarding Feeling Protecting People And This Amazing Country<br> :date: __2021-01-20 23:41:06__
+
+> Great app, thanks<br> :date: __2021-01-19 07:43:50__
+
+> help me<br> :date: __2021-01-17 23:49:36__
+
+> Excellent ! I have used this app for years now and found it to be very reliable. Easy to use and provides official helpful information when needed. It has user selectable notifications for everything. It works as described by developer. Great app to have to stay informed !<br> :date: __2021-01-17 21:09:09__
+
 > Thank you<br> :date: __2021-01-11 16:21:01__
 
 > Good<br> :date: __2021-01-04 06:06:34__
@@ -172,16 +182,6 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 > If you dont have this, i hope your affairs are in order! The warnings and notices are timely and accurate (for now, we'll see how Mr Biden tweaks things)<br> :date: __2020-12-09 03:49:42__
 
 > This is a must have app! Download and check it out for a month or two. This is one app that will always be on my phone!<br> :date: __2020-12-07 08:19:38__
-
-> Seems to be pretty decent. I live in Texas, so I already have apps for weather/tornado warnings. This app has alerts for other life threatening things like disease and nuke power plant failures. I watch less and less TV these days, without this app I might not know about these other alerts. It's simple to use, and thankfully, seldom used. Lets all hope it stays that way. Thanks for the app.<br> :date: __2020-12-06 21:12:50__
-
-> Fema saves the world. Just that.... Enough said<br> :date: __2020-12-06 08:13:27__
-
-> Great great<br> :date: __2020-11-29 10:37:04__
-
-> Very good 👍👍<br> :date: __2020-11-20 07:42:31__
-
-> This is one of the essential apps.<br> :date: __2020-11-19 15:28:00__
 
 
 
@@ -247,6 +247,8 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 <img src="2_star_reviews_wordcloud.png" alt="gov.fema.mobile.android 2 reviews"/>
 </p>
 
+> Don't know<br> :date: __2021-01-18 03:34:12__
+
 > Was a great App, then started sending multiple alerts one after another. Now I get NO alerts at all. If I click on Alerts, click my city, it takes me to settings. I wrote you about it, you sent an email telling me to restart because you fixed a bug on the 4th. It is now the 14th. I've done as you said, even uninstalled and reinstalled several times. I still get no alerts and when I click my city, it still takes me to settings. I loved your App, it's a shame it no longer functions correctly.<br> :date: __2021-01-14 21:54:56__
 
 > Into a busy season and it's worse. Even after clearing cache, rebooting phone, etc still getting multiples of same exact alerts and several alerts with little or no lead time and now (once again) many - almost 40% - warnings with no info at all or nothing updated in the alert information. That's probably FEMA but still seriously downgrades usefulness. So problematic that other weather apps are needed for safety.<br> :date: __2021-01-06 13:09:50__
@@ -264,8 +266,6 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 > This app did not help me.<br> :date: __2020-06-19 19:14:29__
 
 > It really does do absolutely nothing. Not even sure why i have it<br> :date: __2020-04-28 15:16:55__
-
-> Alerts are way too excessive.. It's a little windy in my area and I get notifications what feel like every 5 minutes. Had to delete the app because it was so annoying.<br> :date: __2020-04-10 21:47:54__
 
 
 

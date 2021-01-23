@@ -136,6 +136,8 @@ The GuideSafe app has been installed by more than **50000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="gov.adph.exposurenotifications 5 reviews"/>
 </p>
 
+> Corpus .. best way to freedom<br> :date: __2021-01-20 08:47:30__
+
 > Best<br> :date: __2021-01-07 12:48:04__
 
 > Was good to know about the App<br> :date: __2020-11-28 18:00:06__
@@ -153,8 +155,6 @@ The GuideSafe app has been installed by more than **50000** times. At this time,
 > Very nice<br> :date: __2020-10-13 18:03:47__
 
 > Good app<br> :date: __2020-10-13 01:25:16__
-
-> Great Idea. Thank you. It is at the top of my list of worries. With my age and health issues.<br> :date: __2020-10-11 21:28:21__
 
 
 
@@ -192,6 +192,8 @@ The GuideSafe app has been installed by more than **50000** times. At this time,
 <img src="3_star_reviews_wordcloud.png" alt="gov.adph.exposurenotifications 3 reviews"/>
 </p>
 
+> The app has not sent since November 26. Devs, please advise<br> :date: __2021-01-21 17:55:40__
+
 > I just wish more people used it. I kinda feel like it is not useful since people have to opt in for each aspect... BUT I will keep using it as long as this pandemic drags on. Update: This app is a fail. :( Very disappointed but not surprised at this point. It just stopped updating early Dec. Then 2 days ago it locked my phone up downloading. I had to force close & uninstall to stop it from locking up my phone. I wish this worked better.<br> :date: __2021-01-01 15:38:52__
 
 > Why hasn't it updated since December 13th!?<br> :date: __2020-12-19 00:11:33__
@@ -210,8 +212,6 @@ The GuideSafe app has been installed by more than **50000** times. At this time,
 
 > Works but Annoyed - had this for UAB support, though it kept saying I had been exposed, the problem my phone was charging at the time it said the exposure happened on 2 different days at the same time of day (late Sunday evenings) I didn't go anywhere during those timeframes. It has to be binging off one of my neighbors but I had to quarantine and not attend classes. I've now removed it.<br> :date: __2020-10-04 08:18:57__
 
-> Easy to use.<br> :date: __2020-08-18 01:12:50__
-
 
 
 #### 2-star reviews
@@ -219,6 +219,10 @@ The GuideSafe app has been installed by more than **50000** times. At this time,
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="gov.adph.exposurenotifications 2 reviews"/>
 </p>
+
+> App is not "CHECKING " on a daily basis. Last time checked shows December 13??<br> :date: __2021-01-18 18:15:29__
+
+> I THINK this works but I've never been notified of an exposure. I see notifications of contact trace downloads but the app constantly says it's never checked for exposure so I can't be sure it's doing any good.<br> :date: __2021-01-15 23:54:09__
 
 > Doesn't seem to work. My wife and I both have this installed. She tested positive, I went through the process of telling the app she was positive. And I never received a notification that I had been exposed. I noticed that her bluetooth was off. I turned it back on, waited a couple of days and tried the notification process again and verified that her bluetooth was still on. I still didn't get an exposure notification. I've been a big advocate for this technology... Why isn't it working?<br> :date: __2020-12-18 13:58:55__
 

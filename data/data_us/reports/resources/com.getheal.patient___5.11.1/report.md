@@ -218,6 +218,8 @@ The Heal: Telehealth & House Calls app has been installed by more than **50000**
 <img src="5_star_reviews_wordcloud.png" alt="com.getheal.patient 5 reviews"/>
 </p>
 
+> Great way to see a doctor, especially when you don't feel well.<br> :date: __2021-01-22 00:30:05__
+
 > It's great not having to leave the house to be seen by a primary care physican. Telehealth is also a good why to ask questions and discuss concerns about your health and get medication refills covered.<br> :date: __2020-12-31 21:17:42__
 
 > good dr<br> :date: __2020-12-24 19:42:50__
@@ -235,8 +237,6 @@ The Heal: Telehealth & House Calls app has been installed by more than **50000**
 > Never of Heal: an Dr. visits in the home<br> :date: __2020-11-20 22:58:44__
 
 > Wellcare is great, this is another benefit in Pandemic<br> :date: __2020-11-18 17:53:20__
-
-> I love this app and I would highly recommend it. House calls are back and Heal knows how to do it right!<br> :date: __2020-11-17 17:51:19__
 
 
 
@@ -323,6 +323,8 @@ website.<br> :date: __2018-05-04 18:36:50__
 <img src="1_star_reviews_wordcloud.png" alt="com.getheal.patient 1 reviews"/>
 </p>
 
+> This app interrupted my usage of it to ask me to rate it, which as per policy is an automatic one star rating.<br> :date: __2021-01-20 02:42:00__
+
 > To many problems not honest at all complete lies Message me back<br> :date: __2020-12-03 20:03:50__
 
 > Waste of time<br> :date: __2020-11-21 15:57:43__
@@ -340,7 +342,5 @@ website.<br> :date: __2018-05-04 18:36:50__
 > Needs to be available everywhere. I'm. In CT where it's bad.<br> :date: __2020-04-08 00:15:30__
 
 > Just installed the app from play store, The app asks me to upgrade to the latest version which isn't available<br> :date: __2020-03-19 07:14:20__
-
-> Stopped working on my phone when I need it. Says I have to update the app, but there's no update<br> :date: __2020-03-19 05:11:21__
 
 

@@ -148,6 +148,8 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 <img src="5_star_reviews_wordcloud.png" alt="at.roteskreuz.stopcorona 5 reviews"/>
 </p>
 
+> Google ist Arschlochnetz in Europa<br> :date: __2021-01-17 15:39:58__
+
 > Ich schränke meine sozialen Kontakte wirklich sehr ein trotzdem finde ich es super falls es doch positiv getestet Personen in meinem Umfeld gibt das ich benachrichtigt werde, ich fühle mich nicht überwacht aber die info finde ich sehr sinnvoll da in meiner Familie u mein Partner leider zur Risikogruppe gehören<br> :date: __2021-01-11 03:52:02__
 
 > Sinnvolle Open Source App die genau das tut was sie soll<br> :date: __2021-01-10 21:23:44__
@@ -165,8 +167,6 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 > Ein Muss für jeden der Verantwortung für den Nächsten fühlt!<br> :date: __2020-12-21 07:24:38__
 
 > Nachdem diese sinnvolle App leidet von zu Wenigen genutzt wird, deinstalliert, da es keine Sinn macht, wenn es nur Ausgangssperren gibt<br> :date: __2020-12-19 16:37:03__
-
-> Die App tut dass für was sie programmiert wurde. Ist aber davon abhängig wie viel Leute diese installiert haben. Wenn jeder diese App installiert hätte, soll jeder selber mal nachdenken was dann wäre.<br> :date: __2020-12-19 08:58:35__
 
 
 
@@ -208,8 +208,6 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 
 > Unser Datenschutzgesetz einerseits und die Haltung mancher Mitbürger andererseits zerstören meines Erachtens den guten Grundgedanken für die Verwendung dieser App. Was mir auffällt, ist, dass der von der App angezeigte Zeitstempel der Kontakte nicht stimmen kann. Die App zeigt Kontakte zu Zeiten, in denen keine waren, oder erst viel später an.<br> :date: __2020-12-23 10:26:34__
 
-> Geheimnisvolle Benachrichtigungen - eben um am 23.12.2020 um 00:40 Nachts erhielt ich eine Benachrichtigung von dieser App in roter Schrift (was schon aussergewöhnlich ist), und als ich sie lesen wollte (Android Benachrichtigungen öffnen) war sie weg! Schneller als Snapchat. Auch in der App keine Nachrichten. GRUSELIG ... Zum Glück hatte ich keine Kontakte, also war es vielleicht nur ein Update? Die Idee hinter der App finde ich übrigens sehr gut und ich mache selbstverständlich mit!<br> :date: __2020-12-23 01:43:59__
-
 > Auch ich werde die App nun nicht weiter nutzen. Automatischer Handshake funktioniert fast nie, selbst wenn die Handys stundenlang im selben Raum sind. Ich bin täglich beruflich viel im öffentlichen Raum unterwegs, auch in Öffis. Bisher jedoch in 2 Monaten nur ein einziger Handshake. So hat das doch keinen Sinn. Hauptsache das Rote Kreuz kann sich damit wichtig machen. 👎🏼<br> :date: __2020-12-21 08:22:18__
 
 > wie kann ich mich nach einer erkrankung in der app wieder gesund melden? möchte es nicht einschalten solange die app noch meint dass ich krank bin.<br> :date: __2020-12-20 14:09:02__
@@ -223,6 +221,8 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 > War krank, habe alle über die App informiert, bin wieder gesund dennoch bekomme ich permanent die Aufforderung meine ID s zu benachrichtigen, kann das nicht abstellen. Werde alles löschen 😠<br> :date: __2020-12-01 11:30:36__
 
 > Habe noch keine Erfahrung, darum nur 3 Sterne.<br> :date: __2020-12-01 09:02:45__
+
+> Grundsätzlich eine gute Idee, aber muss es sein dass man ständig Bluetooth aktiviert hat? Ich will nicht das Handy den ganzen Tag neben mir liegen haben, oder gar in der Hosentasche, während Bluetooth aktiviert ist...<br> :date: __2020-11-30 17:20:55__
 
 
 
@@ -260,6 +260,8 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 <img src="1_star_reviews_wordcloud.png" alt="at.roteskreuz.stopcorona 1 reviews"/>
 </p>
 
+> Geheimnisvolle Benachrichtigungen - ich erhalte laufend Benachrichtigung von dieser App in roter Schrift (was schon aussergewöhnlich ist), die gleich wieder verschwinden und immer wenn sie lesen möchte (Android Benachrichtigungen öffnen) sind sie weg! Schneller als Snapchat. Auch in der App keine Nachrichten. GRUSELIGER Programmierstil ... Funktioniert die App bei irgend jemandem?<br> :date: __2021-01-18 23:28:06__
+
 > Unbrauchbar da es sowieso keiner verwendet<br> :date: __2021-01-15 23:31:32__
 
 > Die App zeigt in keinster Weise an, ob sie funktioniert oder nicht. Es muss zumindest anonymisiert dem Nutzer gezeigt werden, dass die App arbeitet! Der Nutzer muss die App verwenden WOLLEN... Ein gutes Beispiel wäre die belgische Coronalert App. In der App werden aktuelle Statistiken und Meldungen angezeigt und man sieht auf einen Blick den aktuellen eigenen Status => App wird vom Nutzer als nützlich empfunden und akzeptiert.<br> :date: __2021-01-14 23:37:23__
@@ -277,7 +279,5 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 > Hab's seit der ersten Stunde installiert. Als Schulidee brauchbar. Nicht durchdacht. Da waren sicher Anfänger Programmierer in der Umsetzung beteiligt. Leider.<br> :date: __2021-01-05 06:31:33__
 
 > Digitaler Handshake kann ich nicht einschalten, warum kann man das nich für jeden verständlich gestalten ? Ich lösch die app wieder, schade<br> :date: __2020-12-31 06:11:25__
-
-> Mit zusätzlichen einschalten von Bluetooth funktioniert die App nicht weil sie keiner einschalten wird ihr solltet es über Funknetz gbs machen alle was ich davon habe ist nur eine die nichts tut aber gar nichts zeigt sie an sie funktioniert so nicht bitte auf gbs ändern den niemand Dreh Bluetooth auf und darum funktioniert sie auch nicht<br> :date: __2020-12-29 04:24:50__
 
 

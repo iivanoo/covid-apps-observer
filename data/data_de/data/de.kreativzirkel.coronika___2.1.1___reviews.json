@@ -1,5 +1,29 @@
 [
     {
+        "reviewId": "gp:AOqpTOELfa1YH9RYxEgLVNGqlMLCmDoGe2K6GHBnjgsBq7SlWNjZQer9OAjaSQnUhsxmkfcvhAsmEPi_-nIjOQ",
+        "userName": "Thomas Klee",
+        "userImage": "https://play-lh.googleusercontent.com/-DxiLt8KChik/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn_SAtiTSEbBC1SabxWKhk6UzQHSQ/photo.jpg",
+        "content": "Wurde mit dem Fortschreiten der Pandemie immer weiter verbessert. Mit Engagement und Liebe gemacht - ich bleibe ihr treu!",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.1.1",
+        "at": "2021-01-22 23:36:55",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFQLcdWdWY9PAyqq6vTfLYB0Y_2-D3uGmrS4PTzyXfJZ9kNcUjPH_kvwLrXM15lTzLlJQP26DAtIO9HCA",
+        "userName": "Birgit Schmidt",
+        "userImage": "https://play-lh.googleusercontent.com/-3QUGYRpgwa0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck7b8hmt3rvEtx03kAwH49GPvihkQ/photo.jpg",
+        "content": "Die App finde ich klasse und ich n\u00fctze sie schon von Anfang an! Leider l\u00e4sst seit heute aber nichts mehr speichern! Nach der Eingabe und Bet\u00e4tigen der Speichern-Taste steigt die App aus! Hoffe, das \u00e4ndert sich bald wieder, ansonsten werde ich die App deinstallieren!",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.1.1",
+        "at": "2021-01-21 10:59:03",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOEgFwb-JVR-fwQtG7GDNzcL5x9eSpw8rKC1SwqHQHvmHp_Ggw0puofFwy7yfkH9B5C2T-bDWzeste95vA",
         "userName": "Stefan Meir",
         "userImage": "https://play-lh.googleusercontent.com/-7nQwzW2Ehts/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucllGZXcMwBgzPeAQesHYA-5VMpl4g/photo.jpg",
@@ -29,7 +53,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-6n7wi4euskM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnkfJIxsRgmRaDcoDewk3suOKIGEw/photo.jpg",
         "content": "Es w\u00e4re noch toll ein und denselben Ort mehrfach am Tag angeben zu k\u00f6nnen, mit unterschiedlichen Zeiten, sowie Personen einem Ort zuzuordnen. Ansonsten spitze. Man kann dadurch auch sehr einfach ermitteln, wo eine Risikobegegnung stattgefunden hat. Ich hoffe trotzdem, dass ich die Exportfunktion nie brauchen werde.\ud83d\ude03",
         "score": 5,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "2.1.1",
         "at": "2021-01-07 17:25:05",
         "replyContent": null,
@@ -53,7 +77,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhykkZAgFmoNW1-uNWpfoGkARBVgyZRZv1ZCKVaIg",
         "content": "Die App ist bis auf die wichtige Export-Funtkion wirklich toll! Ein Mitarbeiter beim Gesundheitsamt sagte mir, dass er die Informationen, die man in der App angibt (gel\u00fcftet, Abstand, Maske etc.), gut h\u00e4tte gebrauchen k\u00f6nnen, um individuelle Quarant\u00e4ne Ma\u00dfnahmen anzuordnen. Ich f\u00e4nde es daher super, wenn das auch im Export angegeben werden w\u00fcrde. Man m\u00fcsste dann wahrscheinlich jede Begegnung einzeln abbilden (\u00e4hnlich wie es bei der Export-Funktion der Corona-Warn-App der Fall ist).",
         "score": 4,
-        "thumbsUpCount": 2,
+        "thumbsUpCount": 3,
         "reviewCreatedVersion": "2.1.1",
         "at": "2021-01-02 20:39:15",
         "replyContent": null,
@@ -293,7 +317,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-F6kplweWxqo/AAAAAAAAAAI/AAAAAAAAabQ/AMZuucmXBr5IZpoRmHjApRIbJ59kyFzwCg/photo.jpg",
         "content": "Superschnelle Reaktionen des Entwicklers. Nachdem im vorletzten Update erst Fokus auf viele Erfassungsdetails gelegt wurde (was f\u00fcr viele Nutzer cool, f\u00fcr meinen Alltag aber nicht so relevant ist), ist die App nun eine tolle Mischung aus schnellem Erfassen und n\u00f6tigenfalls sehr pr\u00e4zisem Tagebuch. Und nat\u00fcrlich ist ein offener Quellcode (Github) eine gro\u00dfartige Vertrauensgrundlage.",
         "score": 5,
-        "thumbsUpCount": 3,
+        "thumbsUpCount": 4,
         "reviewCreatedVersion": "2.0.3",
         "at": "2020-12-20 15:26:16",
         "replyContent": "Hallo Chris Arlt, vielen Dank f\u00fcr das Feedback. Bei einem Eintrag muss nur ein Ort oder mindestens eine Person ausgew\u00e4hlt werden. Alle anderen Angaben sind optional. Mit dem neuesten Update (v2.0.3) werden hier auch weitere Verbesserungen durchgef\u00fchrt. Bleiben Sie gesund!",
@@ -1381,7 +1405,7 @@
     },
     {
         "reviewId": "gp:AOqpTOG4uTTX0IXNkLLSrW6wCVdpQSeoNO5ZxLonGoq1dS7bqllikWn4QnTCKZmfiTAJdBH88FeStUKtCqYWGA",
-        "userName": "L T",
+        "userName": "Lorenzo",
         "userImage": "https://play-lh.googleusercontent.com/-MEqeYFOtChQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclYdwL3cCOZKn5BR6-Iwc64qx7i6Q/photo.jpg",
         "content": "Tolle App;sobald alle Personen und Orte mal angelegt sind, gehts noch schneller. Das Beste : ALLES auf dem LOKALen Speicher, kein Datenabfluss in eine Cloud o. \u00e4.",
         "score": 5,
@@ -1645,7 +1669,7 @@
     },
     {
         "reviewId": "gp:AOqpTOF6s_ts2YayhEiyEQtUJx5cDVbjYmshsVWzvEVT2edxQzbbXitgeDWR8vKaEy__aormLS0m4JVi38YBug",
-        "userName": "Paul Dott",
+        "userName": "Paul D",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiGJKPUJD1pCyrUmJXOvDhakPa7O-BvntAaxnKnVes",
         "content": "Super App! Was ich mir nur noch w\u00fcnschen w\u00edrde, dass ich bei den importierten Kontakten die Namen in der App \u00e4ndern k\u00f6nnte.",
         "score": 5,
@@ -2090,7 +2114,7 @@
     {
         "reviewId": "gp:AOqpTOHAn8u3OdebpM-fniQJCaUIWRbqkVrqTFVJmiSGf0jndLElsmyGPE7OUjMfO_UwXpiSNuDe1dWMHg5sCA",
         "userName": "Dein Vater",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhPwioF5DY-KRvSbSXuco4myTNI1o2RJBv9H-VQ1Ss",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgvKTfpktLsmRnoxidXTH2WwwQGJOTjV787o0wHfko",
         "content": "Gute App, leicht zu handhaben",
         "score": 5,
         "thumbsUpCount": 0,
@@ -3086,7 +3110,7 @@
     {
         "reviewId": "gp:AOqpTOFlAso2CmFHlvum4aXZ2R3F-zgm4TWO6voSX8uQphFAE1NOnAY8giHcNpkW0ZPEPp0-k7PliwyNaebTrg",
         "userName": "Paul Sperling",
-        "userImage": "https://play-lh.googleusercontent.com/-igoRkCF5nC8/AAAAAAAAAAI/AAAAAAAAowY/AMZuucnzivVpCCZ1Eu2eP7quAEASicHShQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiwVIa2ZVspxtNmVPj--hw-TBsbNYs0RkJEnvO7fHg",
         "content": "Es gibt nichts auszusetzen, au\u00dfer dass noch nicht die M\u00f6glichkeit besteht, wiederkehrende Eintr\u00e4ge festzulegen. Das k\u00f6nnte zum Beispiel der Ort Zuhause f\u00fcr den ganzen Tag und nicht nur zu einer bestimmten Uhrzeit sein. Au\u00dferdem sollte man auch bestimmte Personengruppen (wie die Familie) als dauerhafte Kontaktgruppe festlegen k\u00f6nnen.",
         "score": 4,
         "thumbsUpCount": 14,

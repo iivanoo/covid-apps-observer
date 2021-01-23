@@ -204,6 +204,10 @@ The HowWeFeel: The How We Feel Project app has been installed by more than **100
 <img src="4_star_reviews_wordcloud.png" alt="org.howwefeel 4 reviews"/>
 </p>
 
+> I hope I'm contributing to research. I feel I need to help, somehow, in this pandemic! The little gratefulness reminders in the process are helpful!<br> :date: __2021-01-22 15:10:47__
+
+> Easy. Important!<br> :date: __2021-01-18 07:28:41__
+
 > Just answering questions<br> :date: __2020-12-24 23:22:18__
 
 > It was great, but it just froze up on me and I have to reinstall. I will probably have to start over too. Not sure how that helps for COVID...?? Hmmm...<br> :date: __2020-12-14 09:25:34__
@@ -219,10 +223,6 @@ The HowWeFeel: The How We Feel Project app has been installed by more than **100
 > Clear to understand, easy to use<br> :date: __2020-11-11 03:25:16__
 
 > It's a great tool for seeing how your community is doing. Could you please allow the community poll to be skipped? I lot of days I can't get to the numbers of people feeling unwell. I want to see that everyday.<br> :date: __2020-11-08 15:59:29__
-
-> Great till recently, now it just crashes on my phone and tablet!<br> :date: __2020-11-01 20:18:47__
-
-> It's super easy, and hopefully helpful during this process<br> :date: __2020-10-29 05:09:47__
 
 
 
