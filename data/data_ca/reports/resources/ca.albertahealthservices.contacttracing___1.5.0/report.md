@@ -173,6 +173,8 @@ The ABTraceTogether app has been installed by more than **100000** times. At thi
 <img src="4_star_reviews_wordcloud.png" alt="ca.albertahealthservices.contacttracing 4 reviews"/>
 </p>
 
+> Works fine, not noticing battery drain.<br> :date: __2021-01-29 04:53:57__
+
 > Easy to use. Haven't noticed any battery drain on my android phone.<br> :date: __2020-11-28 18:04:19__
 
 > So far so good<br> :date: __2020-10-08 14:48:14__
@@ -190,8 +192,6 @@ The ABTraceTogether app has been installed by more than **100000** times. At thi
 > No issues with the app (Samsung Note 9).<br> :date: __2020-08-10 04:24:28__
 
 > I noticed the last 2 days this app has been draining my battery. Use to have 45% left at bedtime, now only 10% at 1 pm. Just did the update, which I didn't know about. So hopefully it fixes this battery issue. (03-Jun-20). UPDATE: After the update the app no longer drained my battery. I noticed a drain on my battery again today (06-Jul-20) and checked for an update, which there was. If you notice your battery being drained, just update the app.<br> :date: __2020-07-06 16:07:00__
-
-> I originally thought the app was draining my battery but it turned out to be something else. It seems to work fine and is unobtrusive except for the always on tray notification.<br> :date: __2020-07-05 16:46:23__
 
 
 
@@ -257,6 +257,10 @@ The ABTraceTogether app has been installed by more than **100000** times. At thi
 <img src="1_star_reviews_wordcloud.png" alt="ca.albertahealthservices.contacttracing 1 reviews"/>
 </p>
 
+> Same complaints as everyone else<br> :date: __2021-01-29 16:42:42__
+
+> Like others are saying, it needs an off button because of the battery drain when using it at home. Also, we need to use the federal app asap this one just doesn't have a audience anymore.<br> :date: __2021-01-26 03:30:38__
+
 > Just use the fed app already!! The petty squabbling of the prov govt is tiresome!! And ridiculous when people's health is involved. Grow up!<br> :date: __2021-01-21 23:04:39__
 
 > I was being told my information will be kept in private. Why do they need to ask my phone number? The fist version was never need to fill in my phone number at all.<br> :date: __2021-01-21 16:08:45__
@@ -272,9 +276,5 @@ The ABTraceTogether app has been installed by more than **100000** times. At thi
 > Only traced 36 cases and not worth my time and having on my phone. Pathetic.<br> :date: __2021-01-16 02:42:54__
 
 > AHS doesnt even use this when someone tests positive. Not sure the point of keeping it!<br> :date: __2021-01-15 03:05:30__
-
-> Doesn't work at all.<br> :date: __2021-01-15 02:22:24__
-
-> Atrocious memory use and abysmal battery drain. Do Not Download!<br> :date: __2021-01-14 20:58:26__
 
 

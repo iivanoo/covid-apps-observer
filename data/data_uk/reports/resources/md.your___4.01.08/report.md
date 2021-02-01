@@ -233,6 +233,8 @@ The Healthily: Self-Care & Health Journal app has been installed by more than **
 <img src="4_star_reviews_wordcloud.png" alt="md.your 4 reviews"/>
 </p>
 
+> This is a really good app. I think it could use some more features like pain location and number scale.<br> :date: __2021-01-29 20:37:49__
+
 > plenty of information, good amount of advice, wasn't able to recommend healthy practices specific to my condition.<br> :date: __2021-01-11 22:43:50__
 
 > it very nice to have a Healthy app to improve body works<br> :date: __2020-11-21 01:08:24__
@@ -250,8 +252,6 @@ The Healthily: Self-Care & Health Journal app has been installed by more than **
 > good app<br> :date: __2020-10-21 15:36:15__
 
 > Good experience<br> :date: __2020-09-24 02:06:25__
-
-> It is good for keeping notes about your health and other information<br> :date: __2020-09-21 01:45:58__
 
 
 

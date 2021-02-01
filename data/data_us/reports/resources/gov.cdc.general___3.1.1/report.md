@@ -216,6 +216,8 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 <img src="4_star_reviews_wordcloud.png" alt="gov.cdc.general 4 reviews"/>
 </p>
 
+> Decent app with lots of good info.<br> :date: __2021-01-27 05:17:53__
+
 > Okay<br> :date: __2020-11-28 15:42:09__
 
 > Covid19~real Time following is affirmative ~ Question : ≧∇≦ Does app sync with Fusion Smartwatch as not sure ~ LED<br> :date: __2020-11-24 06:50:59__
@@ -233,8 +235,6 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 > Too many notifications about the virus made me depressed. Good app for a free one, just need better notification options.<br> :date: __2020-05-31 20:08:18__
 
 > It's useful but hard to find what I'm looking for<br> :date: __2020-05-27 02:18:04__
-
-> It's OK. Notjing to brag about. Haven't used it that much really.<br> :date: __2020-05-15 06:06:05__
 
 
 

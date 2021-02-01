@@ -171,6 +171,10 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <img src="5_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 5 reviews"/>
 </p>
 
+> Muito prático e eficiente. Resume o histórico clinico<br> :date: __2021-01-29 11:51:00__
+
+> Muito bom<br> :date: __2021-01-27 17:41:06__
+
 > Bom.<br> :date: __2021-01-21 23:47:44__
 
 > Impecavel<br> :date: __2020-11-24 18:59:55__
@@ -187,10 +191,6 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 
 > Funciona muito bem!<br> :date: __2020-09-27 00:32:55__
 
-> MUITO ÚTIL ! OBRIGADO<br> :date: __2020-09-11 10:57:40__
-
-> Perfeito<br> :date: __2020-09-09 02:55:00__
-
 
 
 #### 4-star reviews
@@ -198,6 +198,8 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 4 reviews"/>
 </p>
+
+> A APP não corre com Android 10. como posso fazer para poder utilizar no meu tlm?<br> :date: __2021-01-26 07:57:32__
 
 > Boa, muito boa<br> :date: __2021-01-06 10:55:27__
 
@@ -217,8 +219,6 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 
 > Mysns paro<br> :date: __2020-04-15 17:46:57__
 
-> Fixe<br> :date: __2020-04-05 13:41:52__
-
 
 
 #### 3-star reviews
@@ -235,8 +235,6 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 
 > APP pouco útil da forma q está estruturada. Para aceder à área de cidadão remete para o browser o q torna ridícula a utilização da APP. Uma nora.. Dentro da área de cidadão a informação não aparece completa.. há informação em falta... Exemplo infecção covid e acesso a área de registo de sintomas. Acesso a baixas incompleto... Etc<br> :date: __2020-11-21 17:35:55__
 
-> Deixou de funcionar. Agora que é mais necessário naõ funciona.<br> :date: __2020-11-18 14:35:10__
-
 > Há muito a melhorar nesta app!!!<br> :date: __2020-10-05 19:42:00__
 
 > A app stayaway Covid-19, tem algum problema em ser instalada? Muito obrigada.<br> :date: __2020-09-01 11:17:30__
@@ -247,6 +245,8 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 
 > A informação do movimento de banhistas,deveria ser actualizada mais frequentemente, particularmente até ao meio dia e depois das 4 da tarde. E mais divulgada nos meios comunicação.<br> :date: __2020-06-21 08:13:06__
 
+> Dificuldade em perceber e aceder às receitas digitais<br> :date: __2020-04-22 15:28:21__
+
 
 
 #### 2-star reviews
@@ -254,6 +254,8 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 2 reviews"/>
 </p>
+
+> Está aplicação nem abre diz que há um problema qual?<br> :date: __2021-01-28 15:29:49__
 
 > Não abre, quer dizer abrir até abre, mas não aparece nada.<br> :date: __2021-01-20 15:59:14__
 
@@ -273,8 +275,6 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 
 > É na verdade um conjunto organizado de links para a internet com as informações primárias de cada campo e algumas notícias.<br> :date: __2020-04-15 21:38:28__
 
-> A ideia é muito boa, mas a aplicação não funciona. Quero ver as minhas receitas electrónicas e não é possível.<br> :date: __2020-04-15 13:03:54__
-
 
 
 #### 1-star reviews
@@ -283,24 +283,24 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <img src="1_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 1 reviews"/>
 </p>
 
-> Inútil, complicada e nao funciona<br> :date: __2021-01-21 18:24:19__
+> Não consigo aceder a - MySNS - recebendo sempre a imformação de que "parou".<br> :date: __2021-01-29 18:58:16__
 
-> A APP não está a funcionar.<br> :date: __2021-01-20 13:21:59__
+> Funcionou bem no meu antigo tlm. Agora no meu novo e atual, simplesmente não funciona, ao abrir, da a mensagem a informar q a APP está "feita" para versões android mais antigas... Enfim, como tudo no Governo, fazem as coisas mas depois fica tudo ao abandono... Façam lá o favor de atualizar a APP para versões Android atuais!!!<br> :date: __2021-01-29 18:24:05__
 
-> Não abre nada. Sem utkilidade<br> :date: __2021-01-20 13:21:53__
+> Completamente desatualizada, nem abriu<br> :date: __2021-01-29 10:43:29__
 
-> inútil não funcional.<br> :date: __2021-01-20 09:24:32__
+> Tenho esta app no meu tablet e meu marido no telemóvel mas não abre. De que serve, para ocupar espaço.<br> :date: __2021-01-28 22:44:02__
 
-> Como é possível, 2 anos sem atualizar. App abandonada e que nesta altura seria uma mais valia para todos.<br> :date: __2021-01-19 00:59:06__
+> Não dá. Diz que esta aplicação foi concebida para uma versão mais antiga do android e pode nao funcionar corretamente.<br> :date: __2021-01-28 15:59:43__
 
-> Não funciona no Android versão 10.<br> :date: __2021-01-18 22:28:55__
+> Uma aplicação em que não fazem uma simples atualização ah cerca de 2 anos é a mesma coisa que nao existir. Eliminem do play store, pelomenos não fica a fazer vulto. Que vergonha<br> :date: __2021-01-28 14:22:21__
 
-> Desatualizada<br> :date: __2021-01-18 21:10:47__
+> Simplesmente não funciona no meu telemovel. Ao abrir o ecrã fica branco! E não sai disto. Não é atualizada desde 2018.<br> :date: __2021-01-28 12:59:38__
 
-> 1 estrela porque não dá para dar 0. Baixei a app, qual não é o meu espanto que início a app e nada me aparece! Alguém deveria atualizar isto!!!<br> :date: __2021-01-18 19:49:27__
+> Não funciona. Abre, mas fica tudo em branco, sem aparecer qualquer informação para além do nome da App.<br> :date: __2021-01-27 15:58:50__
 
-> Inútil e desatualizada, foi abandonada pelo serviço técnico que a criou. Só funciona com versões antigas de Android.<br> :date: __2021-01-16 11:39:24__
+> Já actualizavam isto para o Android 10. Governo digital o tanas. No meio de uma pandemia é que isto faz mais falta<br> :date: __2021-01-26 21:08:26__
 
-> Lixo<br> :date: __2021-01-16 02:20:20__
+> Naõ faz atualizaçaõ.<br> :date: __2021-01-26 14:46:42__
 
 

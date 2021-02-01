@@ -1,0 +1,28 @@
+{
+    "permissions": [
+        "android.permission.WAKE_LOCK",
+        "android.permission.BLUETOOTH",
+        "android.permission.INTERNET",
+        "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        "android.permission.FOREGROUND_SERVICE"
+    ],
+    "activities": [
+        "nl.rijksoverheid.en.MainActivity",
+        "com.google.android.play.core.missingsplits.PlayCoreMissingSplitsActivity",
+        "com.google.android.play.core.common.PlayCoreDialogWrapperActivity",
+        "com.google.android.gms.common.api.GoogleApiActivity"
+    ],
+    "urls": [
+        "http://schemas.android.com/apk/res/android",
+        "https://plus.google.com/",
+        "https://productie.coronamelder-dist.nl/",
+        "https://coronamelder-api.nl/",
+        "http://play.google.com/store/apps/details?id=nl.rijksoverheid.en",
+        "http://play.google.com/store/apps/details?id=com.google.android.gms",
+        "http://schemas.android.com/apk/res-auto",
+        "https://developer.android.com/reference/com/google/android/play/core/assetpacks/model/AssetPackErrorCode.html",
+        "https://developer.android.com/reference/com/google/android/play/core/install/model/InstallErrorCode"
+    ]
+}

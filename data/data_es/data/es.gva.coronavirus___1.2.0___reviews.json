@@ -1,5 +1,29 @@
 [
     {
+        "reviewId": "gp:AOqpTOEpW0rabmtUEcYPmAc8xDhgp7RjOplix8ZSM9pnqiGpOENQQEmxXZr-3qo5IB_olKcYw9mAHYsy2srzKyA",
+        "userName": "Ivan Sainz",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhXchWvr45bhpbX5grCg80B260pnUkgZDkKk4SH-w",
+        "content": "Muy \u00fatil en estos momentos de pandemia.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.2.0",
+        "at": "2021-01-29 19:39:51",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFzwv16lcJ1fg_m3CTC6aU6k4D71mfbFXJ4bCyUHGCT5mDsJEYHGynDPu9MpG4DGOWvUJhI8esOgxPjSEQ",
+        "userName": "Jose Manuel",
+        "userImage": "https://play-lh.googleusercontent.com/-sSB9bSJUP94/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnolAoWu7Xu5_bTjFbtYotU1MD6ig/photo.jpg",
+        "content": "Si tengo que esperar a que me llamen despu\u00e9s de poner los datos en est\u00e1 aplicaci\u00f3n paso el covid antes de recibirla, s\u00f3lo me apuntaron a la lista de PCR despu\u00e9s de llamar al ambulatorio, por cierto, utilic\u00e9 est\u00e1 app por qu\u00e9 si llamas al tel\u00e9fono 900 del covid te salta un mensaje qu\u00e9 directamente te dice qu\u00e9 est\u00e1n ocupados y que lo hagas por la aplicaci\u00f3n.",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.2.0",
+        "at": "2021-01-29 09:31:15",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOEXFjeyd8J8VrZgX2dGs_QTFsAjC4r1sBd-sUOsZU6cKIhCDGHzSQAGCnab7i1Nf696rKnrkMinb-ThnLQ",
         "userName": "Pumucky73",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjCiXGtCyCIuj_pcZRkclPz90cI3l6HQqgYeha_PW8",
@@ -65,7 +89,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-3nYzy_bp6so/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnzBBigwQ9YVvWCdautM3a-N0E4FQ/photo.jpg",
         "content": "Bien. Est\u00e1 para lo que est\u00e1. Los que dicen que no sirve tal vez no saben utilizarla: primero, obviamente tienes que tener SIP porque para eso es de seguimiento en COMUNIDAD VALENCIANA. Es de seguimiento, luego si no has tenido s\u00edntomas, pues no la uses (para ver el mapa de covid que piden muchos esta la web y el chatbot). A los que no les funciona recordad que a no ser que os lo pida poner el 0, hay que poner el SIP con LOS N\u00daMEROS TRAS EL 0...)",
         "score": 5,
-        "thumbsUpCount": 13,
+        "thumbsUpCount": 14,
         "reviewCreatedVersion": "1.2.0",
         "at": "2020-11-04 19:33:35",
         "replyContent": null,

@@ -205,6 +205,10 @@ The GVA Responde app has been installed by more than **10000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="es.gva.responde 1 reviews"/>
 </p>
 
+> No hay información actualizada, está obsoleta<br> :date: __2021-01-25 10:53:37__
+
+> No está actualizada a las últimas restricciones y, si no se actualiza a los últimos decretos, no sirve para nada<br> :date: __2021-01-23 17:07:54__
+
 > No veo las novedades por ningún lado a pesar de poner "últimas novedades". Ni la encuentro útil. Me la he desinstalado.<br> :date: __2021-01-19 15:45:28__
 
 > Sin un chat o un sistema por el cual podamos hacer nuestras preguntas, esta app no vale nada.<br> :date: __2020-12-20 16:10:08__
@@ -220,9 +224,5 @@ The GVA Responde app has been installed by more than **10000** times. At this ti
 > Ineficaz, las respuestas son confusas, ó, ineficaces.<br> :date: __2020-05-15 07:20:04__
 
 > No me resuelve nada que no me diga las noticias ya....<br> :date: __2020-05-06 18:45:25__
-
-> Pinches donde pinches no sale nada, sólo una pantalla en blanco. Buena idea sólo falta que funcione<br> :date: __2020-04-30 22:54:24__
-
-> La instalo y no me deja ver nada .<br> :date: __2020-04-28 16:46:16__
 
 

@@ -121,6 +121,8 @@ The Covid Trace Nevada app has been installed by more than **50000** times. At t
 <img src="5_star_reviews_wordcloud.png" alt="gov.nv.dhhs.en 5 reviews"/>
 </p>
 
+> Excellent.<br> :date: __2021-01-28 19:14:09__
+
 > It work good tho<br> :date: __2021-01-17 09:05:15__
 
 > Safe and fast good for elderly And frontliners protections<br> :date: __2021-01-09 20:29:53__
@@ -138,8 +140,6 @@ The Covid Trace Nevada app has been installed by more than **50000** times. At t
 > Wish more people would add this app<br> :date: __2020-12-01 01:40:43__
 
 > Kool app to have...We must keep track of the Zombie Apocalypse Virus... Thanks<br> :date: __2020-11-25 20:47:00__
-
-> Doesn't appear to work. Last checked time is the time of day of when I installed it several weeks ago. Manual refresh doesn't do anything.<br> :date: __2020-11-20 15:23:25__
 
 
 
@@ -219,6 +219,8 @@ The Covid Trace Nevada app has been installed by more than **50000** times. At t
 <img src="1_star_reviews_wordcloud.png" alt="gov.nv.dhhs.en 1 reviews"/>
 </p>
 
+> Covid is the biggest scam ever perpetuated against the human race. It's being used as an excuse to usher in an era of complete and total government control where the rich own everything and you own nothing and have no rights. WAKE UP BEFORE IT'S TOO LATE!!!<br> :date: __2021-01-29 02:51:23__
+
 > App is totally worthless<br> :date: __2021-01-13 18:46:30__
 
 > Says no exposure even though I was exposed. App is pointless.<br> :date: __2021-01-10 16:25:27__
@@ -236,7 +238,5 @@ The Covid Trace Nevada app has been installed by more than **50000** times. At t
 > Rated dead last in best coronavirus detection app in america. Ironic since nevada has the 2nd highest cases (infected & death) in the nation. 🤔 You'd think we'd take this more seriously.<br> :date: __2020-12-21 23:56:23__
 
 > It requires a Verification Code to report you are Positive. The UMCconnect has no idea how to give me a Verification code after they told me I am positive. The app is useless, you can't report you have Covid. It was another huge Democrat money wasting pork belly project<br> :date: __2020-12-18 20:49:57__
-
-> This annoing<br> :date: __2020-12-18 12:02:08__
 
 

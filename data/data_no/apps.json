@@ -4,20 +4,20 @@
         "store_country": "no",
         "store_lang": "no",
         "latest_crawled_version": "4.1.0",
-        "latest_crawl": 1611408871
+        "latest_crawl": 1611959077
     },
     {
         "id": "de.xikolo.openwho",
         "store_country": "no",
         "store_lang": "no",
         "latest_crawled_version": "3.7",
-        "latest_crawl": 1611408878
+        "latest_crawl": 1611959081
     },
     {
         "id": "no.fhi.smittestopp_exposure_notification",
         "store_country": "no",
         "store_lang": "no",
-        "latest_crawled_version": "1.0.2",
-        "latest_crawl": 1611409409
+        "latest_crawled_version": "1.0.3",
+        "latest_crawl": 1611961421
     }
 ]

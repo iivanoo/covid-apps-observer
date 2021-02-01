@@ -160,6 +160,8 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <img src="5_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 5 reviews"/>
 </p>
 
+> Funziona bene<br> :date: __2021-01-29 01:26:56__
+
 > Ottimo<br> :date: __2021-01-20 14:23:32__
 
 > Ottimale<br> :date: __2021-01-09 13:14:56__
@@ -178,8 +180,6 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 
 > Perché l'app è rimasta ferma al 19 Settembre? Nonostante gli aggiornamenti non si muove.<br> :date: __2020-10-21 19:54:14__
 
-> Estremamente valida<br> :date: __2020-10-21 19:18:53__
-
 
 
 #### 4-star reviews
@@ -187,6 +187,8 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 4 reviews"/>
 </p>
+
+> Dopo aver segnalato l'errore persistente (impossibile evitare la compilazione questionario COVID e altri problemi), lo sviluppatore ha risolto il problema. Al momento tutto funziona come deve. Grazie Devs.<br> :date: __2021-01-24 10:39:00__
 
 > Ogni tanto un po' lento<br> :date: __2021-01-14 19:00:44__
 
@@ -205,8 +207,6 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 > Chiedo scusa sabato dopo averla aggiornata funziona regolarmente e ho mandato una email alla vostra società<br> :date: __2020-11-03 08:43:12__
 
 > In linea di massima non è male . Oggi mi si è bloccata , l'ho disinstallata e reinstallata ora funziona !<br> :date: __2020-10-21 21:46:23__
-
-> Utilissima<br> :date: __2020-10-06 14:18:06__
 
 
 
@@ -272,7 +272,7 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <img src="1_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 1 reviews"/>
 </p>
 
-> Impossibile da usare!! Ogni volta è necessario accettare le condizioni di utilizzo, ogni volta è obbligatorio compilare il questionario sul covid, ogni volta bisogna compilarlo per sé stessi e per un familiare e ADESSO non accetta più i dati del familiare. Seriamente. Prendete qualcuno che sappia scrivere codice, ci sono millemila RAGAZZI che vi potrebbero scrivere una app decente e funzionante. VERGOGNA!! Edit dopo risposta del Dev (2021-01-21) : sono MESI che vi viene segnalato il problema. Non e' possibile che la risposta sia sempre "scrivete a ...". Scrivero' sicuramente, ma il problema esiste da MESI. Non si lavora cosi' (male).<br> :date: __2021-01-21 16:30:39__
+> Si blocca sempre<br> :date: __2021-01-23 20:49:46__
 
 > Inutile<br> :date: __2021-01-09 10:44:04__
 

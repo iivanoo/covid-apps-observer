@@ -202,6 +202,16 @@ The Penn State Health OnDemand app has been installed by more than **10000** tim
 <img src="5_star_reviews_wordcloud.png" alt="org.pennstatehealth.android.pshh.ondemand 5 reviews"/>
 </p>
 
+> Very handy<br> :date: __2021-01-27 14:19:20__
+
+> Super Easy. No glitches. Reminders before appointments are great.<br> :date: __2021-01-27 13:31:45__
+
+> I like it<br> :date: __2021-01-26 14:47:12__
+
+> Lets just say that I am an "older" person that at times has some difficulty with computers. This app was easy to work through and my video appointment went very well. Thanks Russ Miller<br> :date: __2021-01-25 19:51:29__
+
+> Great<br> :date: __2021-01-25 14:57:11__
+
 > Always a pleasant visit with Dr Gomaa.and staff all are great<br> :date: __2021-01-22 16:30:45__
 
 > Exceptional<br> :date: __2021-01-15 21:00:41__
@@ -212,16 +222,6 @@ The Penn State Health OnDemand app has been installed by more than **10000** tim
 
 > I love this app, it hardly gives me issues and i am able to complete my doctors visits from home when needed.<br> :date: __2021-01-06 17:20:20__
 
-> Perfect solution during the Pandemic!<br> :date: __2021-01-04 23:11:42__
-
-> Every one was patient with me setting up for my video visit. Thank you<br> :date: __2020-12-30 14:26:29__
-
-> Lots of good info.<br> :date: __2020-12-29 16:25:20__
-
-> Very good and informative visit.<br> :date: __2020-12-21 19:51:35__
-
-> minimal wait time. M.D. was very personable and knowledgeable. saved time of sitting in urgent care center.I would definitely recommend 12/18/20 Had the need to see someone without disrupting my day. Once again, very positive experience. Knowledgeable, personable, thorough. I definitely recommend<br> :date: __2020-12-18 13:25:27__
-
 
 
 #### 4-star reviews
@@ -229,6 +229,8 @@ The Penn State Health OnDemand app has been installed by more than **10000** tim
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="org.pennstatehealth.android.pshh.ondemand 4 reviews"/>
 </p>
+
+> Easy to use.<br> :date: __2021-01-25 16:48:01__
 
 > The app does have its little bugs, but it's great for keeping track of appointments and the video chat works pretty well.<br> :date: __2020-10-28 14:26:32__
 
@@ -247,8 +249,6 @@ The Penn State Health OnDemand app has been installed by more than **10000** tim
 > Easy to use!<br> :date: __2020-05-28 22:40:15__
 
 > It was ok<br> :date: __2020-05-07 21:27:03__
-
-> New for me ...first time user...was a pretty good experience...<br> :date: __2020-05-06 23:19:48__
 
 
 

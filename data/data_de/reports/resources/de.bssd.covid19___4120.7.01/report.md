@@ -243,6 +243,16 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 <img src="1_star_reviews_wordcloud.png" alt="de.bssd.covid19 1 reviews"/>
 </p>
 
+> Nicht Mal einen Stern ist die App wert,denn mit dem Code funktioniert Überhaupt nicht größer Müll. Nicht zu Empfehlen...<br> :date: __2021-01-27 16:24:49__
+
+> App schließt wiederholt selbständig kein Aprufen des Ergebnisse möglich! Handy Samsung S 20 einfach emteuchend Update wäre von Vorteil !<br> :date: __2021-01-26 11:43:22__
+
+> App ist Müll hab 3 Tage gewartet bevor ich andere app getestet habe. Ergebnis wurde bis heute nicht angezeigt Und qr Code lässt sich gar nicht testen 👎<br> :date: __2021-01-25 12:27:25__
+
+> Letztes Jahr hat sie noch funktioniert. Heute lässt sich der Code nicht mehr einscannen.<br> :date: __2021-01-25 06:03:46__
+
+> Geil,wenn die App nicht mal funktioniert und andauernd abstürzt. Ihr habt es echt weit gebracht.<br> :date: __2021-01-24 08:18:45__
+
 > Das Scannen funktioniert nicht und eine ID habe ich nicht erhalten. Dadurch habe ich das Ergebnis per E-Mail anfordern müssen.<br> :date: __2021-01-22 17:25:57__
 
 > Hab die app installiert lässt sich aber nicht öffnen ...<br> :date: __2021-01-21 14:34:37__
@@ -252,15 +262,5 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 > leider funktioniert das Scannen des Barcodes nicht .... schade d.h., immer die lange Nummer eintippen<br> :date: __2021-01-20 11:10:55__
 
 > Startet noch nicht einmal... gar nicht erst runterladen ist die beste Entscheidung<br> :date: __2021-01-15 18:03:09__
-
-> Müll<br> :date: __2021-01-15 14:45:28__
-
-> Man kann den QR-Code beim besten Willen nicht scannen und muss jedesmal die Endlos ID eingeben. Nach misslungendem Versuch des Scans und Versuch der Eingabe der ID wird man permanent gefragt ob man die App schliessen möchte. Sehr schlecht gemacht....<br> :date: __2021-01-15 09:43:16__
-
-> Funktioniert nicht.<br> :date: __2021-01-13 14:28:25__
-
-> Null Sterne leider nicht möglich da die app überhaupt nicht funktioniert. Die Tastatur öffnet sich nicht, der scan funktioniert auch nicht und überhaupt ist die UI absoluter Müll.<br> :date: __2021-01-10 12:22:06__
-
-> Scanfunktion nicht möglich. Texteingabe nicht immer möglich. Ein Armutszeugnis!<br> :date: __2021-01-09 22:41:48__
 
 

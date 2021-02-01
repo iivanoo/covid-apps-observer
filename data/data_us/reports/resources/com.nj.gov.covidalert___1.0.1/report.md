@@ -173,6 +173,8 @@ The COVID Alert NJ app has been installed by more than **100000** times. At this
 <img src="4_star_reviews_wordcloud.png" alt="com.nj.gov.covidalert 4 reviews"/>
 </p>
 
+> Help us stop the spread of COVID-19 in New Jersey! COVID Alert NJ App is being made available by the New Jersey Department of Health (DOH) to complement New Jersey’s comprehensive COVID-19 contact tracing effort. COVID Alert NJ is a free and secure mobile phone app that allows New Jerseyans: 1. To be alerted if they have been in close contact with another app user who has tested positive for COVID-19 – even if that person is a stranger 2. To track their symptoms and get advice on what to do to<br> :date: __2021-01-25 03:35:13__
+
 > Want info on getting vaccine !!<br> :date: __2021-01-08 20:39:52__
 
 > It should show where I am in the queue for vaccination.<br> :date: __2021-01-06 14:58:41__
@@ -191,8 +193,6 @@ The COVID Alert NJ app has been installed by more than **100000** times. At this
 
 > I think the app is great. Very informative. It's all in one spot. You do not have to have bluetooth on all the time. You can switch it on when you would like to use it then switch it back off. Without bluetooth you are still able to access and use all of the other features like covids daily numbers local/global/etc and also you are able to check in with how you are feeling and report symptoms..just another tool in the fight against covid.<br> :date: __2020-11-16 18:56:28__
 
-> Doing our part to end Covid19!<br> :date: __2020-10-19 16:34:27__
-
 
 
 #### 3-star reviews
@@ -201,7 +201,7 @@ The COVID Alert NJ app has been installed by more than **100000** times. At this
 <img src="3_star_reviews_wordcloud.png" alt="com.nj.gov.covidalert 3 reviews"/>
 </p>
 
-> Graph of deaths by day is very wrong.<br> :date: __2021-01-22 18:14:31__
+> Graph of deaths by day is very wrong.<br> :date: __2021-01-27 18:07:12__
 
 > The numbers for confirmed cases and deaths are wrong.<br> :date: __2021-01-18 21:33:16__
 
@@ -229,6 +229,10 @@ The COVID Alert NJ app has been installed by more than **100000** times. At this
 <img src="2_star_reviews_wordcloud.png" alt="com.nj.gov.covidalert 2 reviews"/>
 </p>
 
+> For the elderly or those who cannot walk long distances, there is no information on which site is best; I am in category 1b. Everytime I search for a location. I am re-routed back to this site which I have already registered.<br> :date: __2021-01-26 23:12:35__
+
+> Deaths per day graph is corrupted for a while now. This needs to be fixed.<br> :date: __2021-01-24 15:37:29__
+
 > way too buggy<br> :date: __2021-01-07 20:09:36__
 
 > I work at a busy congenial store, and have had the app installed for a few months now. I find it really improbable no one infected with the app has walked into the store.<br> :date: __2020-11-17 17:23:10__
@@ -245,10 +249,6 @@ The COVID Alert NJ app has been installed by more than **100000** times. At this
 
 > In order to install app I was to turn off my wifi during install and my malware scanner. After doing this I turned on my wifi no problem, but my malware scanner detected the NJ COVID ALERT as malware due to I guess the access to Bluetooth. I will try it for a week and decide weather to keep it<br> :date: __2020-10-11 16:57:02__
 
-> I kept getting Error 1002 trying to enable Usage Statistics. Then I turned off Wifi and I was able to enable everything. I never experienced that type of bug before....Hmmmm. Why?<br> :date: __2020-10-02 05:12:39__
-
-> Switch off Wi-Fi and use mobile data for any error you might be receiving.<br> :date: __2020-10-02 04:09:39__
-
 
 
 #### 1-star reviews
@@ -256,6 +256,8 @@ The COVID Alert NJ app has been installed by more than **100000** times. At this
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="com.nj.gov.covidalert 1 reviews"/>
 </p>
+
+> nobody uses it<br> :date: __2021-01-25 07:24:34__
 
 > Shows negative daily deaths<br> :date: __2021-01-19 03:50:44__
 
@@ -274,7 +276,5 @@ The COVID Alert NJ app has been installed by more than **100000** times. At this
 > Your "ENABLE EXPOSURE ALERT" button has not worked since its launch. Gone into settings > exposure alert > enable and NOTHING. Have an Android phone but know of iPhone users with the same problem. Located in Morris County, NJ. PLEASE FIX THIS!!<br> :date: __2020-12-22 14:24:30__
 
 > Not very helpful. I've NEVER been alerted of being or coming into contact with someone whose known to have covid19. This app is just an invasion of my privacy!<br> :date: __2020-12-21 21:53:27__
-
-> When the Middlesex Co health dept called me 6 days after my + test, the woman I spoke with knew about the app, but knew nothing about giving me a 6 digit verification code. If it's not her job to give it out (as the app says it is), then whose it is? This app isn't working the way it claims to be. If people can't tell the app they're + then no close contacts are being alerted through the app. Why does the health dept (at least Middlesex Co) not know to give out this code?<br> :date: __2020-12-12 08:37:45__
 
 

@@ -163,6 +163,10 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 <img src="5_star_reviews_wordcloud.png" alt="gov.fema.mobile.android 5 reviews"/>
 </p>
 
+> Well worth the download, great and timely information.<br> :date: __2021-01-29 06:14:11__
+
+> Works great thank you for this !!<br> :date: __2021-01-23 20:10:09__
+
 > Awesome<br> :date: __2021-01-22 23:23:17__
 
 > FEMA Student Learning Everything I Can As Chapter Leader Of Cortland, Ohio @ActforAmerica #NationalSecurity Totally Rocks My Love For Law Started After 9/11 I'm Greatful To God For Google And Twitter And FB For Standing Up For America Thank you! God Bless You Always My Family For Life As An African American I'm Proud To Be A Real Patriot I #BackTheBlue My Hubby Started Me In Law Enforcement He's Been In There 9-1/2 I Guarded Banks A Rewarding Feeling Protecting People And This Amazing Country<br> :date: __2021-01-20 23:41:06__
@@ -179,10 +183,6 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 
 > This is the best so easy to use<br> :date: __2020-12-09 13:53:21__
 
-> If you dont have this, i hope your affairs are in order! The warnings and notices are timely and accurate (for now, we'll see how Mr Biden tweaks things)<br> :date: __2020-12-09 03:49:42__
-
-> This is a must have app! Download and check it out for a month or two. This is one app that will always be on my phone!<br> :date: __2020-12-07 08:19:38__
-
 
 
 #### 4-star reviews
@@ -190,6 +190,8 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="gov.fema.mobile.android 4 reviews"/>
 </p>
+
+> Really good weather alerts better than local tv<br> :date: __2021-01-26 10:34:47__
 
 > So I love this app, but I feel as if you guys should check the reviews. There are people there with legitimate concerns, and some great recommendations that your should take look at. Such as: -Missing Alerts -A "Follow Me" option. -A priority alert mode (that fully covers your screen when you get a warning alert). I had a tornado warning in my area, and I love that I recieved it when using the app, but you should force the users to see a warning. These are the 3 options I'd love to see come.<br> :date: __2020-11-29 03:51:39__
 
@@ -208,8 +210,6 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 > Fast reliablie services<br> :date: __2020-07-09 01:04:27__
 
 > Great app.<br> :date: __2020-07-01 08:50:11__
-
-> Great at giving alerts for different areas. Live posting during storms is excellent. Just be careful you don't list to many places to avoid constant updates.<br> :date: __2020-06-12 03:22:06__
 
 
 
@@ -247,6 +247,10 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 <img src="2_star_reviews_wordcloud.png" alt="gov.fema.mobile.android 2 reviews"/>
 </p>
 
+> I haven't gotten any alerts for the past week but I get plenty of them on my weather...what gives !?!?!?<br> :date: __2021-01-25 08:41:35__
+
+> kk<br> :date: __2021-01-23 15:02:50__
+
 > Don't know<br> :date: __2021-01-18 03:34:12__
 
 > Was a great App, then started sending multiple alerts one after another. Now I get NO alerts at all. If I click on Alerts, click my city, it takes me to settings. I wrote you about it, you sent an email telling me to restart because you fixed a bug on the 4th. It is now the 14th. I've done as you said, even uninstalled and reinstalled several times. I still get no alerts and when I click my city, it still takes me to settings. I loved your App, it's a shame it no longer functions correctly.<br> :date: __2021-01-14 21:54:56__
@@ -262,10 +266,6 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 > Installed this app months ago and expected this would be the moment for it. I'm getting "red flag warnings" and "evacuation alerts" every few minutes (with no date or timestamp) that just say things like "GO NOW Eden Road" with a web link I can't click or copy. After switching back and forth between apps to type out it turns out it's a map and Eden Road is 60 miles away. You can't set alerts for regions smaller than the entire county. Evac notices also came through sooner with other services.<br> :date: __2020-09-12 07:56:04__
 
 > What is it with this app. I've.been trying to download it for three days how long does it take to for it to download .we are about to be hit with a hurracain.this is messed.up<br> :date: __2020-08-23 03:40:24__
-
-> This app did not help me.<br> :date: __2020-06-19 19:14:29__
-
-> It really does do absolutely nothing. Not even sure why i have it<br> :date: __2020-04-28 15:16:55__
 
 
 

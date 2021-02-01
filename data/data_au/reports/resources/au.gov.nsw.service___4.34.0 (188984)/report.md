@@ -210,25 +210,25 @@ The Service NSW app has been installed by more than **1000000** times. At this t
 <img src="5_star_reviews_wordcloud.png" alt="au.gov.nsw.service 5 reviews"/>
 </p>
 
-> Digital licence awesome!<br> :date: __2021-01-23 13:28:34__
+> Very friendly and helpful staff quick service<br> :date: __2021-01-29 22:20:31__
 
-> Helpful and working well<br> :date: __2021-01-23 07:00:56__
+> Fantastic App<br> :date: __2021-01-29 12:06:23__
 
-> Hopeless<br> :date: __2021-01-22 00:15:03__
+> Good to see can save dependent information now. Also agree to put check in to the top of the screen or have an option to put it on the top.<br> :date: __2021-01-28 08:06:21__
 
-> Very good application and easy to use.<br> :date: __2021-01-21 14:52:30__
+> Love it keep it going no need for a licence in it wallet, we all in the future 2021 digital licence is of the future<br> :date: __2021-01-27 13:40:22__
 
-> Brilliant<br> :date: __2021-01-21 11:44:47__
+> Love the dependant update, saves allot of time. I like how it was made mandatory on 1-jan as it is easier to use than than the web pages.<br> :date: __2021-01-27 06:20:31__
 
-> I have a look at this stage the best regards David and his family and friends are invited for the better part of the better me<br> :date: __2021-01-21 09:44:08__
+> Very useful and easy to use! Keep the cool features coming.<br> :date: __2021-01-27 04:50:42__
 
-> Great app, good job service NSW.<br> :date: __2021-01-21 04:19:59__
+> Great app and use it very often with the covid19 as you need to sign in to most places that I go to. It holds my information so I needed to put it in once.<br> :date: __2021-01-26 02:39:37__
 
-> Awesome<br> :date: __2021-01-20 10:14:35__
+> Wonderful<br> :date: __2021-01-25 15:58:23__
 
-> Very helpful<br> :date: __2021-01-20 07:56:28__
+> Good<br> :date: __2021-01-25 04:36:35__
 
-> Great app, easily check in option although not all restaurant share the same protocol<br> :date: __2021-01-20 07:46:34__
+> Great App. Love the digital license. Covid check in very easy.<br> :date: __2021-01-25 01:09:32__
 
 
 
@@ -238,6 +238,18 @@ The Service NSW app has been installed by more than **1000000** times. At this t
 <img src="4_star_reviews_wordcloud.png" alt="au.gov.nsw.service 4 reviews"/>
 </p>
 
+> Overall not too bad, but given the number one use these days wiuld be covid checkin, surely this should be the easiest thing to access. Ability to customise a home screen like many other apps might be useful - or even a setting for users to define a default button to auto open. As a minimum it should be the top option on the existing layout.<br> :date: __2021-01-28 22:32:42__
+
+> VERY EASY TO USE<br> :date: __2021-01-28 11:22:19__
+
+> Pretty good. Once I'd set it up with my details on first use it's relatively painless. Just wish I could opt not to show "add dependent" cos I'm not gonna be having anyone with me that can't check in by themselves and it's irritating to have to remember to scroll past that to tap Check In.<br> :date: __2021-01-26 09:26:25__
+
+> I was pleased with the app, however I have changed my mind. Going to the local supermarket thought I was smart and logged in. Ok it tells me you have logged in. well my ego was high looking at the app I didn't have my mobile number to easy soon change that Edit button phone entered. mmm that didn't happen. Sort it out at home on the BIG computer no worries all done properly. Went back to shop checking the mobile no mobile number. There is another way round this delete Service NSW app and reload to easy. Yeh right waiting waiting for the app to download not happening at 76 almost tired of this. So if you have suggestions be pleased to hear them.<br> :date: __2021-01-25 05:41:12__
+
+> Fairly good all round. Minus one point for the COVID check out procedure. Checking in is super easy. 2/3 people forget to check out, this points to a major UX issue. Maybe a notification feature, that asks after X amount of time if you need to check out (similar to parking apps, which notifies when time is running out).<br> :date: __2021-01-24 13:34:45__
+
+> I'm j. My kny<br> :date: __2021-01-24 02:29:39__
+
 > Check in is easy<br> :date: __2021-01-23 11:42:33__
 
 > Good<br> :date: __2021-01-23 05:24:25__
@@ -246,18 +258,6 @@ The Service NSW app has been installed by more than **1000000** times. At this t
 
 > Tops<br> :date: __2021-01-22 21:58:40__
 
-> Easy to use. Would be even better to move the Covid QR code closer to the top of the page or have the option to create shortcut to open the QR code scannon the mobile's Home<br> :date: __2021-01-22 11:37:31__
-
-> Works well enough. For checkins, it would be great if the sms code that's sent was input automatically into the app like in many other modern apps. This would save so much trouble looking up the code and typing it in.<br> :date: __2021-01-22 09:09:40__
-
-> Covid Check Ins... Will bump to 5 stars if you release an update to store/autofill First/Last/Phone for all dependants. I have a big family ;)<br> :date: __2021-01-19 03:45:31__
-
-> Very glad gov check-in is now mandatory, hated giving my details to random 3rd party providers. Sometimes the QR code doesn't work. Not sure if it's a camera issue, the code or the app but two phones from seperate manufacturers couldn't get it to work.<br> :date: __2021-01-18 10:36:35__
-
-> Overall the app is doing some things well. 1. The blue Photo ID cards issued by service NSW should be able to be stored in addition to licences. 2. The 'sign into a venue' is stupidly hidden under the 3 dots. It needs to be more accessible and obvious than that. 3. There needs to be an accessible trail of log ins to covid safe venues which also allows you to choose which one you are signing out of and when. 4. There needs to be an off-line version of the digital licence (and photo ID card).<br> :date: __2021-01-18 09:04:54__
-
-> Got the covid app to work our fault not having mobile data turned on.<br> :date: __2021-01-18 06:30:37__
-
 
 
 #### 3-star reviews
@@ -265,6 +265,8 @@ The Service NSW app has been installed by more than **1000000** times. At this t
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="au.gov.nsw.service 3 reviews"/>
 </p>
+
+> Hello how can I install the app if it is not reconized by Google we can not see the point of buying new phones<br> :date: __2021-01-28 02:26:41__
 
 > Pretty good<br> :date: __2021-01-18 23:04:43__
 
@@ -284,8 +286,6 @@ The Service NSW app has been installed by more than **1000000** times. At this t
 
 > Checking in/out of a location is ok. Suggestions: - Last checked in place was front an centre when you re-enter the app so you can click to check out. Time consuming and difficult to find the last check-in when you are in a rush. - Pre-set dependants during the checking in process. Very annoying to have to "add dependant" over and over again esp when you have kids with you. - Check in location/time/date history. To be able to go back and see if you have been in hotspot locations.<br> :date: __2021-01-12 11:12:37__
 
-> Lost<br> :date: __2021-01-12 00:05:15__
-
 
 
 #### 2-star reviews
@@ -293,6 +293,8 @@ The Service NSW app has been installed by more than **1000000** times. At this t
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="au.gov.nsw.service 2 reviews"/>
 </p>
+
+> Great<br> :date: __2021-01-28 23:00:25__
 
 > Shocking experience trying to scan into most places. The thing keeps coming up saying there's an error. I'd expect that if the govt have made their qr code mandatory then it would work!!!<br> :date: __2021-01-22 05:33:09__
 
@@ -312,8 +314,6 @@ The Service NSW app has been installed by more than **1000000** times. At this t
 
 > Pop-ups too small to read.<br> :date: __2021-01-16 00:47:09__
 
-> Still has a bug with covid checkin. 3 times this week it has checked me in to my last check in place when I scan somewhere new. Not very accurate as a result.<br> :date: __2021-01-14 11:50:30__
-
 
 
 #### 1-star reviews
@@ -322,24 +322,24 @@ The Service NSW app has been installed by more than **1000000** times. At this t
 <img src="1_star_reviews_wordcloud.png" alt="au.gov.nsw.service 1 reviews"/>
 </p>
 
+> Complicated<br> :date: __2021-01-29 11:20:54__
+
+> I can't get any further than "continue"<br> :date: __2021-01-29 10:25:28__
+
+> Covid scan was a poor experience. 2 factor authentication and then you have to remember to check out after you leave the location. I'd like to see how that goes. Totally un-user friendly. Also I am fairly sure my credit card details popped up during set up. Need to check why that was the case.<br> :date: __2021-01-29 01:23:52__
+
+> Nice if you could have it on your laptop. The never ending loop I have is a result of the fact that I have it placed on my mobile phone. I am informed that I can have it on this device. I beg to differ. An exercise in frustration.<br> :date: __2021-01-27 08:06:24__
+
+> My wife is unable to install app as it's not compatible with her phone Please make it more accessible to those who don't have the latest technology She has not been able to access some shops as she cannot sign in<br> :date: __2021-01-26 11:28:41__
+
+> Not working<br> :date: __2021-01-26 09:40:42__
+
+> Anything run by corrupt, criminally conspiring, New World Order 'Government' Puppets!<br> :date: __2021-01-25 07:24:11__
+
+> Absolutely atrocious. Can't login via password or pin, attempting to reset them produces an endless loop of the same screens or the buttons are entirely nonfunctional. Don't receive a link to reset my password or a one time code. Maybe it's for the best since this agency is obviously too incompetent to be trusted with tracking people.<br> :date: __2021-01-23 23:15:16__
+
 > Rubbish. I already have a MyServiceNSW account, and it won't allow me to log in, but keeps coming up with a "check your connection" , but my connection is working to uninstall and reinstall the app several times to try and fix it. Should allow me to give rating of Zero. All permissions are enabled (camera & SD card access)<br> :date: __2021-01-23 04:35:23__
 
 > Been trying to link my driver's licence for 8 months and every time the system is ''temporarily'' unavailable. The contact us button is a broken link and other methods of linking just lead to waiting for 3mins then a crash page.<br> :date: __2021-01-22 10:05:24__
-
-> There's no point of having an app if it just sends you to a Web browser - and forces you to log in all over again. Epic fail. New: Covid-safe checkin: "Cannot check in at this time" 🙄<br> :date: __2021-01-22 08:46:05__
-
-> Difficult to use<br> :date: __2021-01-22 05:00:09__
-
-> Very bad<br> :date: __2021-01-21 23:12:07__
-
-> I spend a collective THREE HOURS on the phone only to find out that nothing on this app works for me because I have a Huawei phone. 😤<br> :date: __2021-01-21 10:16:33__
-
-> It never scans!<br> :date: __2021-01-21 08:06:43__
-
-> Very hard to sign up. ACT check in app much easier and less frustrating.<br> :date: __2021-01-21 06:23:14__
-
-> Now they add qr code. Still Inaccessible. Allows drivers licence scan, but not photo id or any disability related info. In other words it neglects us. Typical nsw govt attitude. QR codes are not accessible to people with vision loss . No alternative. Typical nsw govt. Also you Put fishing licences above anyone with photo id. Poor priorities there. Both are easy to set up but you ignore disabled people. Your IT people should have a long hard think. Equity must be addressed. NOT changing my review because you haven't fixed it yet despite repeated promises. Remember that the law applies to you too. Not just google reviews. You must make this stuff accessible,<br> :date: __2021-01-21 04:18:05__
-
-> I got the application to work but with only my prove of age card which I couldn't register could I still use the service?<br> :date: __2021-01-21 02:34:39__
 
 

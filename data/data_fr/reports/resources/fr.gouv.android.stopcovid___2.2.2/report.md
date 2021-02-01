@@ -142,25 +142,25 @@ The TousAntiCovid app has been installed by more than **5000000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="fr.gouv.android.stopcovid 5 reviews"/>
 </p>
 
-> Indispensable<br> :date: __2021-01-23 07:19:47__
+> Avec c'est mieux sans c est la loose<br> :date: __2021-01-29 21:40:42__
 
-> Application très utile<br> :date: __2021-01-23 04:46:18__
+> Jusqu' ici tout va bien<br> :date: __2021-01-29 18:25:41__
 
-> Top<br> :date: __2021-01-22 23:27:20__
+> De très bonnes informations, Claires et précises<br> :date: __2021-01-29 17:47:45__
 
-> Petit problème à chaque mise à jour il faut desinstaller/réinstaller l'application.<br> :date: __2021-01-22 21:33:26__
+> De supers informations merci et pour les attestations de sortie c'est parfait !<br> :date: __2021-01-29 17:21:02__
 
-> Je trouve que ça me rassure<br> :date: __2021-01-22 20:46:35__
+> Utile<br> :date: __2021-01-29 17:11:50__
 
-> Très bien expliqué<br> :date: __2021-01-22 19:16:36__
+> Super applis<br> :date: __2021-01-29 15:15:36__
 
-> Ayons confiance en nos soignants. Utilisons cette application au maximum<br> :date: __2021-01-22 18:51:48__
+> Super<br> :date: __2021-01-29 14:26:05__
 
-> Très bien<br> :date: __2021-01-22 18:23:42__
+> 19covid enlever masque nez france Allier Vichy<br> :date: __2021-01-29 14:15:00__
 
-> geek<br> :date: __2021-01-22 18:07:34__
+> Novembre 2020 Très bien, mais cette application se désactive toute seule, je suis obligée de désinstaler et réinstaller sans cesse, finalement je renonce, dommage !!! Où alors expliquez-moi la raison... Janvier 2021. Amélioration ! TousAntiCovid se désactive moins souvent. J'apprécie !!!<br> :date: __2021-01-29 13:22:55__
 
-> Top<br> :date: __2021-01-22 17:17:33__
+> Liens dans rubrique mon département ne fonctionnent pas.<br> :date: __2021-01-29 06:55:25__
 
 
 
@@ -170,25 +170,25 @@ The TousAntiCovid app has been installed by more than **5000000** times. At this
 <img src="4_star_reviews_wordcloud.png" alt="fr.gouv.android.stopcovid 4 reviews"/>
 </p>
 
-> Impossible de l'activer après installation<br> :date: __2021-01-23 12:13:45__
+> Je consulte quotidiennement cette application sans problème particulier.<br> :date: __2021-01-29 21:30:51__
 
-> Bonne appli, mais suite à la dernière mise à jour, j'ai dû la réinstaller pour retrouver l'affichage du raccourci.<br> :date: __2021-01-23 09:24:43__
+> Je salue les efforts donner Pour améliorer cette application<br> :date: __2021-01-29 14:54:25__
 
-> Ok<br> :date: __2021-01-23 08:08:11__
+> Avec la nouvelle version Android il faut systématiquement redonner l'autorisation de fonctionner en arrière plan...puis l'activer à chaque fois... Android a sa part de responsabilité, et vis à vis de la crise sanitaire son soutien devrait être entier dans le monde pour le fonctionnement de ses applications...<br> :date: __2021-01-29 13:45:31__
 
-> Pour le moment je n'ai pas encore eu de contact<br> :date: __2021-01-23 07:27:39__
+> M a prévenu de cas dans la rue donc efficace<br> :date: __2021-01-29 09:37:44__
 
-> Ça fonctionne... En tout cas à priori... Mais j'oublie souvent de l'activer. Il serait bien qu'elle prévienne quand on s'éloigne de chez soit...<br> :date: __2021-01-22 20:08:45__
+> Merci d'avoir ajouté les chiffres concernant les vaccinations 🤩. Je n'ai noté aucun impact négatif sur la consommation de batterie sur mon smartphone 👍🔋. La visualisation sous forme de graphique apporterait un réel plus pour se rendre compte de l'évolution de ces chiffres. Dommage de ne pas s'être appuyé sur les API développée spécifiquement par Google et Apple, l'application aurait beaucoup mieux fonctionné (ils connaissent leurs OS) et du coup aurait été beaucoup plus adoptée<br> :date: __2021-01-28 23:11:40__
 
-> Ne fonctionne pas. A chaque essai d'activation l'application me dit que je n'ai pas de connexion internet. Et comment je l'ai téléchargée 1 mn avant sans connexion ? Et pourquoi toutes mes autres applications se connectant à internet fonctionnent ?<br> :date: __2021-01-22 18:34:19__
+> Fais le job. Bonne idée les chiffres quotidiens. Pratique aussi l'attestation depuis l'application.<br> :date: __2021-01-28 20:59:44__
 
-> Agent d,entretien<br> :date: __2021-01-22 17:50:23__
+> Je suis satisfaite de cette application. Dommage que tout les français ne l'ont pas téléchargée.<br> :date: __2021-01-28 17:48:02__
 
-> ca serait bien d'avoir un widget pour activer l'appli des que le bluetooth est allumé<br> :date: __2021-01-22 17:30:50__
+> Je n'arrive à activer l'application. Je possède un téléphone Sony avec Android 10. Lorsque je clique sur Activer, l'application charge. Me présente une photo 1 fois sur 5. Mais je n'arrive pas à valider ce que je vois. J'ai essayé en WiFi ou en 4g. Sans succès. Est ce un problème du téléphone ou de l'application ? Merci. ÉDIT : Le problème est résolu depuis<br> :date: __2021-01-28 11:31:16__
 
-> Bonjour, Application simple, efficace, mais il y a trop d'information qu'on ne peut pas comprendre. Merci<br> :date: __2021-01-22 16:35:56__
+> Depuis la dernière mise à jour, ne voulant plus se connecter je l'ai desinstallé et réinstaller.<br> :date: __2021-01-28 10:59:37__
 
-> Consomme beaucoup de batterie en mode active... Dommage<br> :date: __2021-01-22 13:49:16__
+> C'est bizarre : lorsque l'application est activée, le mot " DÉSACTIVÉ " reste inscrit en haut et en grand. Ce qui vous faites DOUTER...<br> :date: __2021-01-28 10:47:24__
 
 
 
@@ -198,25 +198,25 @@ The TousAntiCovid app has been installed by more than **5000000** times. At this
 <img src="3_star_reviews_wordcloud.png" alt="fr.gouv.android.stopcovid 3 reviews"/>
 </p>
 
-> Bug. Je n'arrive pas à l'ouvrir.<br> :date: __2021-01-22 18:49:26__
+> Jusque là ravie sauf que depuis 2 mois, je suis obligée de désinstaller puis réinstaller pour que l'appli s'active. Ça devient énervant !!<br> :date: __2021-01-29 06:37:04__
 
-> Le gouvernement a vraiment bien fait l'application cependant l'application s'ouvre et se ferme tout seul<br> :date: __2021-01-22 14:45:53__
+> IL manque une attestation pour faire les courses<br> :date: __2021-01-28 17:37:41__
 
-> Peu fiable, l'appli se déconnecte ou se ferme souvent sans prévenir<br> :date: __2021-01-22 08:34:52__
+> Pourquoi se désactive-t-elle ??? Régulièrement, et évidemment après avoir dû passer du temps en public, je constate que l'application s'est désactivée : vraiment pénible.... (Huawei P20 pro)<br> :date: __2021-01-28 13:54:41__
 
-> Je me renseigne tous les jours. Pour voir si j ai été en contact avec des malades et voir ou en est la propagation et les vaccinations<br> :date: __2021-01-21 21:25:29__
+> Je l'ai installé pour soutenir malgré que je refuse le vaccin. Mais l'appli ne me demande pas si je suis vacciné, positif ou négatif, voilà.<br> :date: __2021-01-28 13:48:40__
 
-> depuis la dernière MAJ, à chaque ouverture de l'application, on est obligé de validé 6 fois avant de pouvoir l'activée donc je retire une étoile. idée pour les dévellopeur : étendre l'application aux montres connecté serai interressant ?<br> :date: __2021-01-21 16:19:44__
+> L application déconnecte mon bluetooth et le reconnecte toute seule ...mon casque audio est impacté. Ca le faisait déjà avant pour ça que j avais désinstallé tous antcovid<br> :date: __2021-01-28 08:28:15__
 
-> Bof<br> :date: __2021-01-21 12:27:17__
+> Wwx Few, q xd 4DW 😍🧔Aq😜🧔<br> :date: __2021-01-27 16:00:38__
 
-> Le seul bémol est qu'il faut souvent réinstaller l'application, sinon correspond à ce que j'attends de cet application<br> :date: __2021-01-21 10:11:36__
+> Quel est l'intérêt de ne pas mettre à jour les chiffres au jour le jour ? Le R a plus d'une semaine de retard ... à part pour les attestations, l'application a une utilité limitée.<br> :date: __2021-01-27 13:12:32__
 
-> Pb de bug . L'application ne veut plus s'activer. Obligation de la désinstaller !<br> :date: __2021-01-21 09:20:52__
+> Je trouve l'appli très insistante : je mets le mode avion la nuit, ça râle que le Bluetooth est désactivé... De plus, même quand tout est actif, y compris l'appli, ça sonne sans qu'on ne sache trop pourquoi, laissant croire qu'on a reçu un message...<br> :date: __2021-01-27 12:56:25__
 
-> C'est dommage de ne trouver que ses chiffres je pense qu'il aurait été intéressant d'avoir differentes donnees en fonction des contaminations : (reinfection, vaccination, autres...) Qui aurait permis une analyse plus poussée sur les actions prise par les gouvernements ( voir même d'en aprendre d'avantage sur le covid et trouver d'autres facteurs ).<br> :date: __2021-01-21 07:47:22__
+> Bonne application dans l'ensemble. Le gros bémol c'est qu'elle vide la batterie du téléphone.<br> :date: __2021-01-27 12:41:09__
 
-> Impossible à réactiver depuis dernière maj Message d'erreur en bas de l'écran ! Que faire car bien utile pour les attestations et le suivi des infos merci de répondre<br> :date: __2021-01-20 23:03:21__
+> De gros progrès depuis la première version et une vraie politique de communication, enfin. Générer une attestation prends 10 secondes une fois les renseignements personnels renseignés et elle est toujours à jour. Par contre, dès que le bluetooth est désactivé (batterie faible par exemple), impossible de réactiviter l'appli. Il faut supprimer les données pour que ça fonctionne à nouveau. Quid des contacts si on les supprime ? A régler d'urgence.<br> :date: __2021-01-27 08:44:33__
 
 
 
@@ -226,25 +226,25 @@ The TousAntiCovid app has been installed by more than **5000000** times. At this
 <img src="2_star_reviews_wordcloud.png" alt="fr.gouv.android.stopcovid 2 reviews"/>
 </p>
 
-> Ne fonctionne pas très bien<br> :date: __2021-01-23 11:27:44__
+> Ne fonctionne pas correctement obligée de désinstaller l'application et de réinstaller car je ne pouvais plus utiliser l'appli<br> :date: __2021-01-29 21:24:57__
 
-> Pourquoi l appli se déconnect elle souvent ces derniers temps.??<br> :date: __2021-01-22 21:03:36__
+> C'est la 3ème fois que je la desinstalle et la réinstalle en 4 jours. Elle se desactive régulièrement..Le 20/11,ca a été mieux pendant quelques jours et depuus hier, c'est la 2e fois que je desinstalle/réinstalle.. 29/01 encore desinstallé hier et aujourd. Problème de Bluetooth. J'ai même dû éteindre mon téléphone. Est ce que ca compte dans le nombre de personnes qui ont installé l'appli???<br> :date: __2021-01-29 20:50:45__
 
-> Peu utile. Je viens d apprendre que je suis cas contact. En revanche je ne sais ni quand ni ou. Je ne peux donc pas evaluer ni le reel niveau d alerte ni le temps d isolement.<br> :date: __2021-01-22 08:29:56__
+> Depuis la dernière mise a jour l appli c est déconnecter et depuis je ne peut plus la remettre en service<br> :date: __2021-01-29 20:23:44__
 
-> Je viens de me rendre compte que l'application ne fonctionnait plus. Alors que l'icône est présent, quand je clique, il est dit "pas d'application installée"... Heureusement que l'on doit faire confiance à cette application !<br> :date: __2021-01-22 06:36:35__
+> Pourquoi n'y a-t-il pas le nombre de décès Sinai que les pourcentages de personnes infectés, décèdés ... etc. Et pourquoi il est si difficile de savoir EN TEMPS RÉEL si on a été exposé au virus?<br> :date: __2021-01-29 14:35:27__
 
-> Je trouve dommage de devoir l'activer manuellement tous les matins<br> :date: __2021-01-22 06:16:02__
+> Se desactive tout seul au bout de quelques minutes. Donc impossible de faire confiance si on passe à côté de cas avérés.<br> :date: __2021-01-29 12:21:05__
 
-> Bonjour. L appli a correctement fonctionné qlq mois mais bug sur Samsung a10 depuis 2 mois. Elle ne se lance pas.<br> :date: __2021-01-21 21:32:39__
+> Buggs récurrents application qui se bloque pas de reconnaissance de bluetooth. Vraiment on ne sait pas faire des applications qui marchent sans problèmes. Je vais la désinstaller 😡😷<br> :date: __2021-01-29 12:00:38__
 
-> Les mises à jour ne se font pas régulièrement, cela fait"planter" le téléphone<br> :date: __2021-01-21 21:10:07__
+> Bon si tout le monde l avait installé<br> :date: __2021-01-29 10:27:33__
 
-> L'application cesse parfois de fonctionner sur Android, bien qu'elle indique le contraire, ce qui est plutôt dangereux.<br> :date: __2021-01-21 17:47:26__
+> Bonjour C'est par rapport à l'heure<br> :date: __2021-01-29 09:48:07__
 
-> À chaque fois que je désactive le Bluetooth, l'appli arrête de fonctionner. Pas possible de la réactiver. Il faut la réinitialiser.<br> :date: __2021-01-21 13:21:46__
+> Obligé de la désinstaller pour la réinstaller quant elle se désactive. Bug sur one + T5 régulièrement<br> :date: __2021-01-29 08:55:15__
 
-> J'ai 75 ans...j'ai installé l'appli. Normal....sauf que mon téléphone n'est pas compatible bla bla bla..... C'est un Samsung.g Galaxy J7 il a 4 ans. Un nouveau smartphone sera-il remboursé par la sécu?<br> :date: __2021-01-21 11:09:20__
+> Impossible de l'activer. Je l'utilise uniquement pour générer l'attestation.<br> :date: __2021-01-29 08:30:31__
 
 
 
@@ -254,24 +254,24 @@ The TousAntiCovid app has been installed by more than **5000000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="fr.gouv.android.stopcovid 1 reviews"/>
 </p>
 
-> L'application refuse régulièrement de se lancer et nécessite une réinstallation complète pour fonctionner de nouveau.<br> :date: __2021-01-23 09:58:02__
+> calamiteuse<br> :date: __2021-01-29 14:51:33__
 
-> Pratique au début. Ne fonctionne plus depuis qques temps. Encore un gros bide du gouvernement !!!<br> :date: __2021-01-23 09:12:14__
+> Plusieur chose laFrance ayant décidé 2 faire cavalier seul ou presque il on totalement ignorer les avertissement de ios et Google si vous n'utiliser pas nos api dédier à cela votre appli marchera très mal ou pas du tou ou toute bugger El n 'est pas compatible avec celle d autr pays européen qui eu on utilisé les api mis à dispositions d dev.L'équipe qui développe l'appli et qui ne suit aucune consigne d dev ios et Android.Si aucun Bluetooth n es proche celui du tel se met en veille cose no api<br> :date: __2021-01-29 13:59:39__
 
-> Sa sert à rien<br> :date: __2021-01-23 01:07:27__
+> Une application qui pourrait être top si elle était au point! Elle se désactive sans cesse et pour que cela soit utile il faut rester 15 minutes à 1 mètre d'une personne et qui doit avoir bien sûr l'application activée ! 🤔Désolé je désinstalle ça n'a aucun intérêt!<br> :date: __2021-01-29 13:24:52__
 
-> Ne marche pas depuis que j'ai un s20 "une erreur est survenue".<br> :date: __2021-01-22 20:48:47__
+> L'appli recherche des appareils Bluetooth en arrière plan en permanence d'où la consommation énorme d'énergie Je ne passe pas mon temps à côté d'un point de charge !<br> :date: __2021-01-29 11:36:51__
 
-> Une application nul qui ne sert a pas grand-chose sauf pour semer la peur et confusion.<br> :date: __2021-01-22 20:16:51__
+> Les chiffres remontent à 3 jours ! Alors si j'ai croisé quelqu'un de positif hier, je ne serai avertie que 3 jours après ? Pas très sérieux tout ça ! 🤔<br> :date: __2021-01-29 10:07:21__
 
-> Ne fonctionne pas<br> :date: __2021-01-22 16:54:55__
+> Ne fonctionne pas sur les Wiko !<br> :date: __2021-01-29 09:33:21__
 
-> Nique ta maman pipalosqui<br> :date: __2021-01-22 15:34:19__
+> C'est nul<br> :date: __2021-01-29 01:00:56__
 
-> Minable se plante tout le temps programmeur nul.<br> :date: __2021-01-22 13:37:33__
+> Application impossible à ouvrir après téléchargement donc inutilisable.<br> :date: __2021-01-28 19:48:46__
 
-> Incomplète ( localisation ? )<br> :date: __2021-01-22 12:55:42__
+> Point 1: j'utilise mon tel pour tout, télé, Banque, paiement etc, etc Point 2:j'autorise effectivement le fonctionnement de l'appli en arrière plan et le Bluetooth est activé également Problème : l'appli se désactive systématiquement dès qu'on en utilise une autre, plein écran ou pas.. Elle ne sert à rien si dans un magasin, elle se désactive si j'utilise : la calculatrice, l'appli pour mes cartes de fidélité, le NFC pour payer, YouTube dans le bus etc etc Problème à régler dans l'urgence...<br> :date: __2021-01-28 19:10:19__
 
-> Ne fonctionne plus depuis Noël....<br> :date: __2021-01-22 12:53:41__
+> Nulle cette application se désactive tout le temps et impossible de la remettre en route<br> :date: __2021-01-28 15:16:26__
 
 

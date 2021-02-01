@@ -159,6 +159,8 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 <img src="5_star_reviews_wordcloud.png" alt="au.gov.health.covid19 5 reviews"/>
 </p>
 
+> Helps you keep in touch with the virus<br> :date: __2021-01-29 22:24:11__
+
 > Goff said he had been doing it for a great time to be able and a lot to be desired of as the idea of a lot to see the new place in which he said that it is a lot of people have<br> :date: __2021-01-03 15:14:47__
 
 > Useful information. Good navigation<br> :date: __2021-01-01 03:33:00__
@@ -176,8 +178,6 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 > Consistent obviously<br> :date: __2020-09-01 17:07:21__
 
 > Fantastic!<br> :date: __2020-09-01 13:53:31__
-
-> Yes I like<br> :date: __2020-08-30 09:44:10__
 
 
 

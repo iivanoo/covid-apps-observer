@@ -1,0 +1,36 @@
+{
+    "permissions": [
+        "android.permission.WAKE_LOCK",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.INTERNET",
+        "android.permission.VIBRATE",
+        "com.google.android.c2dm.permission.RECEIVE",
+        "android.permission.GET_ACCOUNTS",
+        "android.permission.WRITE_EXTERNAL_STORAGE"
+    ],
+    "activities": [
+        "de.kbv.kbv2go.ui.activity.StartscreenActivity",
+        "de.kbv.kbv2go.ui.activity.UserGuideActivity",
+        "de.kbv.kbv2go.ui.activity.ManageCatalogsActivity",
+        "de.kbv.kbv2go.ui.activity.CatalogDetailActivity",
+        "de.kbv.kbv2go.ui.activity.PreferencesActivity",
+        "de.kbv.kbv2go.ui.activity.VideoPlayerActivity",
+        "de.kbv.kbv2go.ui.activity.ReadLogCat",
+        "com.nhaarman.listviewanimations.itemmanipulation.swipedismiss.SwipeTouchListenerTestActivity",
+        "com.nhaarman.listviewanimations.itemmanipulation.dragdrop.DynamicListViewTestActivity",
+        "com.google.android.gms.common.api.GoogleApiActivity"
+    ],
+    "urls": [
+        "http://schemas.android.com/apk/res/android",
+        "https://plus.google.com/",
+        "https://%s/%s/%s",
+        "http://www.youtube.com/embed/",
+        "https://www.kbv.de/html/podcast.php",
+        "https://twitter.com/search?q=kbv4u",
+        "https://www.youtube.com/user/kbv4u",
+        "http://schemas.android.com/apk/res-auto",
+        "https://www.googleapis.com/auth/games_lite",
+        "https://www.googleapis.com/auth/games",
+        "https://hkp-lv.kbv.de/"
+    ]
+}

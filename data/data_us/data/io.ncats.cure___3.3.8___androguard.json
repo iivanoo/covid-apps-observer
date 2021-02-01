@@ -1,0 +1,45 @@
+{
+    "permissions": [
+        "com.sonyericsson.home.permission.BROADCAST_BADGE",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "com.oppo.launcher.permission.READ_SETTINGS",
+        "com.google.android.c2dm.permission.RECEIVE",
+        "com.huawei.android.launcher.permission.READ_SETTINGS",
+        "com.oppo.launcher.permission.WRITE_SETTINGS",
+        "android.permission.WAKE_LOCK",
+        "me.everything.badger.permission.BADGE_COUNT_READ",
+        "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+        "android.permission.INTERNET",
+        "android.permission.READ_APP_BADGE",
+        "com.htc.launcher.permission.READ_SETTINGS",
+        "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+        "com.sec.android.provider.badge.permission.WRITE",
+        "com.majeur.launcher.permission.UPDATE_BADGE",
+        "com.sec.android.provider.badge.permission.READ",
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        "com.huawei.android.launcher.permission.CHANGE_BADGE",
+        "com.anddoes.launcher.permission.UPDATE_COUNT",
+        "me.everything.badger.permission.BADGE_COUNT_WRITE",
+        "com.htc.launcher.permission.UPDATE_SHORTCUT"
+    ],
+    "activities": [
+        "io.ncats.cure.MainActivity",
+        "com.gae.scaffolder.plugin.FCMPluginActivity",
+        "com.google.android.gms.common.api.GoogleApiActivity"
+    ],
+    "urls": [
+        "http://schemas.android.com/apk/res/android",
+        "https://pagead2.googlesyndication.com/pagead/gen_204?id=gmob-apps",
+        "https://plus.google.com/",
+        "http://www.google-analytics.com",
+        "https://ssl.google-analytics.com",
+        "https://www.googletagmanager.com",
+        "http://hostname/?",
+        "https://ssl.gstatic.com/accessibility/javascript/android/",
+        "https://api.whatsapp.com/send?phone=",
+        "http://*/*",
+        "https://*/*",
+        "https://www.googleapis.com/auth/games_lite",
+        "https://www.googleapis.com/auth/games"
+    ]
+}

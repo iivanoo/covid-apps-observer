@@ -241,6 +241,10 @@ The DKV Quiero cuidarme Más app has been installed by more than **100000** time
 <img src="4_star_reviews_wordcloud.png" alt="com.dkvservicios.quierocuidarmemas 4 reviews"/>
 </p>
 
+> Buen servicio con los medicos online<br> :date: __2021-01-28 12:08:06__
+
+> Bueno, la verdad que no es una aplicación para tirar cohetes, pero a mi, hoy, me ha funcionado muy bien. He podido contactar con un especialista, que me ha tratado fenomenal y enseguida he tenido su informe. Gracias.<br> :date: __2021-01-26 23:11:03__
+
 > Me parece buena e hablado por ahora con 3 profesionales y dos de ellas me han encantado, el otro fue un poco más seco pero al final hizo su trabajo.<br> :date: __2021-01-22 16:10:17__
 
 > Permite tener tu historial a mano y recoger tu analítica sin tener que desplazarte.<br> :date: __2020-12-21 18:36:08__
@@ -256,10 +260,6 @@ The DKV Quiero cuidarme Más app has been installed by more than **100000** time
 > Me parece muy útil la opción de consulta virtual, sin embargo de ha cortado, pero nonha supuesto un problema mayor, ya que se ha podido continuar con la consulta<br> :date: __2020-11-03 13:16:20__
 
 > Es muy completa,al principio me iba genial, pero últimamente no se ... pero se me desconecta sola y nunca había esperado 3h*; para contestación .. Y me voy a dormir 😴<br> :date: __2020-09-29 04:10:43__
-
-> Aún no la entiendo mucho, pero me gusta poder controlar mi salud y recibir consejos<br> :date: __2020-09-14 14:32:21__
-
-> Funciona bien, pero se echa mucho en falta que en el cuadro médico aparezca el horario de los médicos. No sé porque en la web si aparece y en la App no salen.<br> :date: __2020-09-05 09:24:16__
 
 
 
@@ -313,6 +313,14 @@ The DKV Quiero cuidarme Más app has been installed by more than **100000** time
 <img src="1_star_reviews_wordcloud.png" alt="com.dkvservicios.quierocuidarmemas 1 reviews"/>
 </p>
 
+> va fatal<br> :date: __2021-01-29 19:29:42__
+
+> No puedo ver ni mi poliza de seguro dental, ni copia de la numeración de la tarjeta. Nada de nada.<br> :date: __2021-01-28 23:13:26__
+
+> Los médicos son monosílabos. Te responden escuetamente por chat sin aconsejarte nada y tardan 15 min. en atenderte.<br> :date: __2021-01-28 11:50:40__
+
+> La anterior app que tenía ya era muy mala, pero esta directamente se bloquea en cuanto pongo usuario y contraseña. He probado reiniciando y reinstalando y nada. No puedo ni entrar a la app.<br> :date: __2021-01-23 13:37:07__
+
 > fatal<br> :date: __2021-01-21 14:17:00__
 
 > Al registrarme pongo mi fecha de nacimiento y la app pone otra distinta, luego quiero modificarla y no me deja.<br> :date: __2021-01-21 11:16:33__
@@ -324,13 +332,5 @@ The DKV Quiero cuidarme Más app has been installed by more than **100000** time
 > Os doy una estrellita ya que se me fue el dedo y no me deja quitarla. Ya van dos veces que me descargo la aplicación y no hay manera de poder acceder, no reconoce la contraseña, y cuando trato de modificar la contraseña no reconoce mi correo electrónico. He llamado a atención al cliente DKV y tampoco me ha resuelto nada.<br> :date: __2021-01-07 20:35:05__
 
 > Horroroso<br> :date: __2021-01-05 11:41:49__
-
-> Hasta ahora no me ha aportado nada. Después de varios meses, tengo que actualizar para poder usar, sin más detalles.<br> :date: __2020-12-31 05:00:13__
-
-> De buenas a primeras no puedo acceder a mi cuadro médico, que es lo que pasa??<br> :date: __2020-12-28 16:44:44__
-
-> No me funciona<br> :date: __2020-12-24 16:50:57__
-
-> malissima, sirve incluso menos que la web y mira que ya sirve de poco, es impossible consultar horarios o pedir cita, y antes de que vengan a decirme que si he intentado eso o aquello, lo he intentado todo, tanto en la web como en la app. Al final es puro marketing de vender humo, si os corre prisa llamad por telefono por que esto es una perdida de tiempo<br> :date: __2020-12-21 23:32:56__
 
 

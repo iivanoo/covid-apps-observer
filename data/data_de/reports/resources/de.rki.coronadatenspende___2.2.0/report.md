@@ -142,6 +142,12 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 <img src="5_star_reviews_wordcloud.png" alt="de.rki.coronadatenspende 5 reviews"/>
 </p>
 
+> Leider nicht mit Samsung health verwendbar. Ich versuche das irgendwie mit google fit hinzubekommen. Ich weiß aber nicht wieviele Daten da mit samsung health synchronisiert werden.<br> :date: __2021-01-29 20:30:32__
+
+> Funktionierte unkompliziert auf meiner Garmin. Bis die Uhr den Geist aufgegeben hat. Mit meiner neuen Huawei Uhr lässt sich die App nicht mehr verbinden.<br> :date: __2021-01-29 09:26:07__
+
+> Corona Ap<br> :date: __2021-01-25 21:28:13__
+
 > Auch als Samsung Nutzer (in meinem Fall mit einer Gear S3 Frontier, Verbunden mit Samsung Health auf einem Nokia 7.2) kann man diese App verwenden! Ich hatte erst über eine weitere App (Health Sync) eine Brücke zu Google Fit gelegt, um dann zu sehen dass ich in der Spende-App inzwischen auch SHealth direkt auswählen kann. Somit ist die direkte Nutzung auch für Samsung Nutzer möglich! Aber es wäre gut wenn die App Beschreibung aktualisiert würde!<br> :date: __2021-01-21 13:43:43__
 
 > Amazfit Integration nun vorhanden. Daher von 3 auf 5 Sterne.<br> :date: __2021-01-08 16:08:04__
@@ -155,12 +161,6 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 > Samsung Smartwatches sind auswählbar<br> :date: __2020-12-21 21:17:52__
 
 > Bei Mir funktioniert die app mit Samsung Health konnte Samsung Health ohne Probleme Mit der Datenspende App Verbinden ich spende Schon Seit 48 Tagen ich kann die Beiträge der Poster nicht verstehen die haben einfach keine ahnung und wissen nicht wie das geht<br> :date: __2020-12-21 19:23:48__
-
-> 21.12. Tut's wieder normal, mittlerweile 92 Tage gespendet.<br> :date: __2020-12-21 16:26:17__
-
-> ich versuche ständig im intervall die app mit samsung health zu verbinden,seit tagen immer wieder die anzeige integration fehlgeschlagen,so bringt es leider gar nichts! smartphone:huawei p9 smartwatch : samsung gear s3 frontier zwischen smartphone und smartwatch klappt ohne probleme der austausch mit samsung health coroner warn app fast seit einführung installiert und es klappt ohne probleme! update-plötzlich klappt es,ich habe nichts anderes gemacht wie vorher!jetzt werde ich beobachten...<br> :date: __2020-12-18 15:29:45__
-
-> Nicht für jedes Armband geeignet. Es soll der Puls gemessen werden. Nicht jeder hat einen Pulsmesser im Tracker. Somit wertlos bei mir. Und nicht jeder in Deutschland trägt ein Fitnessarmband. Zumal die nicht ganz billig sind. Funktioniert mit den o.g. erfüllten Vorraussetzungen offenbar ganz gut. Nachdem ich heute aktualisiert habe, sehe ich auch wieder meine gespendeten Tage.<br> :date: __2020-12-16 16:15:47__
 
 
 
@@ -226,6 +226,8 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 <img src="2_star_reviews_wordcloud.png" alt="de.rki.coronadatenspende 2 reviews"/>
 </p>
 
+> Leider kann ich meine Huawei GT2 Smartwatch nicht mit der App verbinden, da dies scheinbar gar nicht kompatibel ist. Somit ist sie leider für mich unbrauchbar.<br> :date: __2021-01-23 15:26:05__
+
 > Hallo, kann ich meine Daten auch per Fax schicken?<br> :date: __2021-01-15 20:11:57__
 
 > Solang Huawei Health bei euch nicht eingebunden wird ist die App für mich leider unbrauchbar....<br> :date: __2021-01-13 14:14:15__
@@ -244,8 +246,6 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 
 > Blöd wenn man corona mit positivem test hatte und dann nicht seine daten aus zb dem nachgewiesenen zeitraum spenden kann... den Verlauf konnte man anhand meiner garmin uhr nämlich wirklich gut verfolgen... aber okay bin mit positivem test ja keine schwarze Zahl mehr...<br> :date: __2020-12-11 20:21:58__
 
-> Postleitzahl wird nicht anerkannt... Komme aus 25813 und nix passiert.<br> :date: __2020-12-04 08:57:58__
-
 
 
 #### 1-star reviews
@@ -253,6 +253,14 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="de.rki.coronadatenspende 1 reviews"/>
 </p>
+
+> Deinstalliert!! RKI-akademische Datenspielerei 🤔 ohne Transparenz weil voll wenn aber vielleicht vorausgesetzt daß mit für den user undefinierten Fakten,Algorithmen, Ergebnis/Folgerungen ist Geheimnis der RKI Akademiker. Wie von unterschiedlichen Smartwatches u Fitclouds die Daten u in z bsp Google fit nur teilw. angekommen bleibt ein Geheimnis u ist nicht reproduzierbar. RKI gibt diese Daten für politische Entscheidungen, ganz schlimm. Ebenso die sinnlose App zu Corona Kontakten deaktiviert.<br> :date: __2021-01-27 09:27:07__
+
+> Ich hätte die App gerne genutzt um zu helfen, leider funktioniert die App nicht mit Mi Fit. Ich habe sie deinstalliert und hoffe, dass es diesbezüglich bald eine Erweiterung gibt . Dann bin ich gerne dabei<br> :date: __2021-01-27 00:11:55__
+
+> Gelöscht<br> :date: __2021-01-25 11:31:20__
+
+> Ungenügende Auswahl. Weitverbreitet sind Xiaomi, Honor, Huawei Bänder und Uhren. Tauchen leider nicht auf... Dann muss man sich nicht wundern,wenn das nicht funktioniert. Ich interessiere mich sehr stark für wearables und anderen smarten Sachen... Oura hab ich noch nie gehört, wird aber in der Liste aufgeführt... Vielleicht klappt's ja noch mit Mi fit und Huawei health.😉<br> :date: __2021-01-24 14:24:05__
 
 > Warum vertraut ihr dem Staat das RKI Robert Koch Institut hat sich schon blamiert mit den falsch informierten Infektions ich bin 18 wollt ihr es wirklich provozieren ich bin so hard durch trainiert das ich gerne dies als Gewalt missbrauchen werde wenn ihr stehts damit nicht aufhört propaganda an inkompetenten Menschen glauben zu lassen die alles glauben 🤣 witzig aber anderer seits seid ihr schuld für Arbeitslosigkeit dafür kriegt ihr das zurück vertraut Natur ist das was nie vergisst I FEEL 365<br> :date: __2021-01-20 11:52:09__
 
@@ -265,13 +273,5 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 > Zeigt ständig 12 Tage gespendeter Daten an, obwohl ich die App von Beginn an habe.<br> :date: __2021-01-07 11:14:08__
 
 > unterstützt das rki ruhig weiter dabei uns einzusperren, und verbote zu verhängen die völlig Sinn-befreit sind. damit die Elite am Brandburger tor es richtig Knallen lassen kann<br> :date: __2021-01-02 09:58:54__
-
-> Immernoch keine Unterstützung der Huawei health App!<br> :date: __2020-12-28 22:05:23__
-
-> Leider kann ich die App nicht zu ende installieren. Immer wenn ich meine PLZ eingebe, tritt plötzlich ein Fehler auf....<br> :date: __2020-12-21 18:00:30__
-
-> Idee ist super. Nur kann ich meine Samsung Gear S3 Frontier nicht verknüpfen.<br> :date: __2020-12-21 04:54:48__
-
-> Leider gibt es auch im Dezember (!) 2020 immer noch keine Unterstützung für die Huawei Health App. Die Daten die über Google Fit an die Datenspende-App übermittelt werden sind leider irrelevant, da Puls und SaO2 nicht übermittelt werden. Darüber hinaus wird das Schlaf-Trecking nach Google Fit falsch übermittelt. So macht das ganze keinen Sinn!<br> :date: __2020-12-20 16:12:56__
 
 

@@ -203,6 +203,12 @@ The Blue CareOnDemand – See a Doctor Online app has been installed by more tha
 <img src="5_star_reviews_wordcloud.png" alt="com.bcbssc.android.careondemand 5 reviews"/>
 </p>
 
+> Very proffesional<br> :date: __2021-01-29 19:01:41__
+
+> Great!!! Physician was extremely helpful and knowledgeable! Clear video and sound. Great experience!!<br> :date: __2021-01-28 15:01:53__
+
+> N/A<br> :date: __2021-01-24 03:07:56__
+
 > Fantastic, almost completely run on rails system makes it easy to process and understand everything very quickly. 10/10 would recommend.<br> :date: __2021-01-22 16:03:53__
 
 > I love it<br> :date: __2021-01-09 21:32:53__
@@ -216,12 +222,6 @@ The Blue CareOnDemand – See a Doctor Online app has been installed by more tha
 > Super fast and easy<br> :date: __2020-12-31 16:43:07__
 
 > Quick and easy app. Doctor is great.<br> :date: __2020-12-28 00:54:01__
-
-> Very easy to set up and use.<br> :date: __2020-12-20 03:17:57__
-
-> Wonderful experience! I am a senior citizen with mobility issues & the weather here is very cold. This saved me from having to make the difficult effort of getting to my physician. Thank you!<br> :date: __2020-12-18 01:58:56__
-
-> So easy! Dr was very nice.<br> :date: __2020-12-16 16:15:20__
 
 
 

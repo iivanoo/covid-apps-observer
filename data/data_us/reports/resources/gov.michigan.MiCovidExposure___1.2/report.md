@@ -126,6 +126,12 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="gov.michigan.MiCovidExposure 5 reviews"/>
 </p>
 
+> Really do appreciate this app. I'm high risk and so is my husband, staying on top of where this virus is and if we may have been in contact with it puts my mind at ease.<br> :date: __2021-01-26 20:14:09__
+
+> Started updating after reinstall. Turned on power management exception. Seems to be working again. Developer responds quickly. Edit: Hasn't checked exposure since 1/4/21. Seems stuck. Checked google exposure over past 14 days. Contained no data. Wish there was a way to force a check/notification update. Reinstalled. Still not updating Original: Low battery consumption. Exceptional privacy. No location tracking. Low data use. Not invasive.<br> :date: __2021-01-26 17:00:11__
+
+> Very relieved i have this & have shared it<br> :date: __2021-01-24 05:38:44__
+
 > clear all my control<br> :date: __2021-01-20 08:51:04__
 
 > I know the privacy concerns, but I feel my health and the health of the people around me matter more.<br> :date: __2021-01-18 18:05:55__
@@ -139,12 +145,6 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 > Just use the app<br> :date: __2020-12-24 07:21:40__
 
 > Excellent app, easy to understand, I recommend it. I think it is a good idea. (By the way, no Covid-19 here).<br> :date: __2020-12-24 02:27:46__
-
-> GREAT!!!!!!!<br> :date: __2020-12-21 19:27:07__
-
-> Seems to do the basic job it's supposed to do.<br> :date: __2020-12-19 21:35:16__
-
-> They let YOU KNOW exactily what is what about this chinese epidemic-19.<br> :date: __2020-12-13 02:49:59__
 
 
 
@@ -182,6 +182,8 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 <img src="3_star_reviews_wordcloud.png" alt="gov.michigan.MiCovidExposure 3 reviews"/>
 </p>
 
+> Old information<br> :date: __2021-01-26 12:54:59__
+
 > Might work but having to call in to get a PIN is way too much effort. Literally nobody has time for that<br> :date: __2021-01-21 17:15:25__
 
 > How do you update?..hasn't worked since the 17 Jan 2021.<br> :date: __2021-01-21 13:03:49__
@@ -199,8 +201,6 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 > Very confusing.......<br> :date: __2020-11-29 00:19:29__
 
 > On the page "Michigan Coronavirus Stats" 2/3 of the page is covered with text about John Hopkins. To scroll the important information there is only a 1 inch window.<br> :date: __2020-11-19 14:59:18__
-
-> Nice start, but it's deceptive giving static statistics. Need to do update stats daily or remove them!<br> :date: __2020-11-15 17:48:11__
 
 
 
@@ -238,7 +238,13 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="gov.michigan.MiCovidExposure 1 reviews"/>
 </p>
 
-> There needs to be a button to check manually. My app hasn't automatically check since December 26th. What is the point of a notification app that doesn't even check to notify you.<br> :date: __2021-01-23 11:05:07__
+> There needs to be a button to check manually. My app hasn't automatically check since December 26th. What is the point of a notification app that doesn't even check to notify you. Edit: I realize every device is different but this is a google pixel running pure android. Wouldn't it be easier just to put a button in the app instead of having to reply to thousands of people on the app store telling them how to change their settings?<br> :date: __2021-01-26 17:31:36__
+
+> I've had it since it came out and it stuck on 1-12021 for the last time exposure check was done and it is turned on...<br> :date: __2021-01-26 15:32:43__
+
+> No way to refresh app, shows last check was days ago. Tried a force quit and reopened and it still won't update. I assumed the app was passively working but what good is it if it doesn't refresh? I'm guessing not many people will check the app regularly just to make sure it's updating. Good app in theory but useless right now.<br> :date: __2021-01-25 05:43:13__
+
+> I've had nothing show up for where I live in Michigan and I think this site sucks. It is not an accurate app.<br> :date: __2021-01-24 06:25:25__
 
 > Keeps stopping<br> :date: __2021-01-19 02:22:17__
 
@@ -251,11 +257,5 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 > It stopped checking for exposures on 1/3/21. My notifications are turned on and the app isn't affected by my phone's background app battery saver.<br> :date: __2021-01-14 14:24:16__
 
 > Not one alert not clear if it on<br> :date: __2021-01-13 19:47:42__
-
-> Same as others. Cannot report positive case. Makes it hard to help people if we can't report to give people a heads up.<br> :date: __2021-01-13 13:37:18__
-
-> Terrible design. I opened it, shows the last time it was checked was November 24th. Uninstalled and reinstalled still the same thing this time no last check showing. Find no way to check stats or anything.<br> :date: __2021-01-11 23:51:29__
-
-> Stopped updating.<br> :date: __2021-01-11 16:48:23__
 
 

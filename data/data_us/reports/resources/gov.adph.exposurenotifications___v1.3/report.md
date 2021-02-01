@@ -136,6 +136,8 @@ The GuideSafe app has been installed by more than **50000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="gov.adph.exposurenotifications 5 reviews"/>
 </p>
 
+> Plain and simle. Reminds me of that old school down by the creek.<br> :date: __2021-01-27 16:31:33__
+
 > Corpus .. best way to freedom<br> :date: __2021-01-20 08:47:30__
 
 > Best<br> :date: __2021-01-07 12:48:04__
@@ -153,8 +155,6 @@ The GuideSafe app has been installed by more than **50000** times. At this time,
 > I don't know it want let me download it<br> :date: __2020-10-13 18:44:15__
 
 > Very nice<br> :date: __2020-10-13 18:03:47__
-
-> Good app<br> :date: __2020-10-13 01:25:16__
 
 
 
@@ -220,6 +220,8 @@ The GuideSafe app has been installed by more than **50000** times. At this time,
 <img src="2_star_reviews_wordcloud.png" alt="gov.adph.exposurenotifications 2 reviews"/>
 </p>
 
+> My last update is from December 17th, 2020. I don't see an option to manually refresh/check.<br> :date: __2021-01-24 22:08:22__
+
 > App is not "CHECKING " on a daily basis. Last time checked shows December 13??<br> :date: __2021-01-18 18:15:29__
 
 > I THINK this works but I've never been notified of an exposure. I see notifications of contact trace downloads but the app constantly says it's never checked for exposure so I can't be sure it's doing any good.<br> :date: __2021-01-15 23:54:09__
@@ -238,6 +240,10 @@ The GuideSafe app has been installed by more than **50000** times. At this time,
 <img src="1_star_reviews_wordcloud.png" alt="gov.adph.exposurenotifications 1 reviews"/>
 </p>
 
+> Doesn't seem to work. Exposure hasn't been checked since Nov and I don't see anyway to force it to check.<br> :date: __2021-01-29 04:07:05__
+
+> It stopped working. The last report was over 6 weeks ago.<br> :date: __2021-01-27 13:36:45__
+
 > Stopped working. What the heck is wrong with Alabama? Do they not care about the public??<br> :date: __2021-01-15 03:42:21__
 
 > Nice concept but completely stopped working. Also probably not enough users to be worthwhile even when it was functioning.<br> :date: __2021-01-12 12:53:38__
@@ -253,9 +259,5 @@ The GuideSafe app has been installed by more than **50000** times. At this time,
 > Won't let me report a positive test<br> :date: __2021-01-01 02:38:03__
 
 > This app is pretty much inert. Not enough people using it.<br> :date: __2020-12-31 16:02:49__
-
-> This is from the State of Alabama which means somebody's relative got paid a lot of money to write this piece of.. Install this if you want them to know where you are. Don't install it if you think it's going to protect you from anything. This is Alabama, a State that sued Pennsylvania cuz they didn't like how they voted. The state motto here is "politicians don't care about you." If you were a mask, they think you are communist. Alabama... Ignoring syphilis infections since 19 something.<br> :date: __2020-12-29 21:56:46__
-
-> The app checked for exposure every 24-48 hours when I first installed. In the last month, the app hasn't checked for exposure at all. Uninstalled, reinstalled, checked and rechecked settings and still no exposure check. Uninstalling permanently. Worthless unless it consistently checks for exposure.<br> :date: __2020-12-28 04:22:21__
 
 

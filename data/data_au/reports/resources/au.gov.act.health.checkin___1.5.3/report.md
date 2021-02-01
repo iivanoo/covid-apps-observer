@@ -187,6 +187,8 @@ The Check In CBR app has been installed by more than **50000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="au.gov.act.health.checkin 5 reviews"/>
 </p>
 
+> This app works well. Should be used all across Australia.<br> :date: __2021-01-24 23:29:37__
+
 > Cool app! I prefer this much more than writing my name down with a pen 50 other people have used that day. Great to see more places in Canberra are using it too.<br> :date: __2020-12-08 02:50:38__
 
 > Red es DVR DVR you vf you have any other information you can get the best regards<br> :date: __2020-11-29 09:24:49__
@@ -204,8 +206,6 @@ The Check In CBR app has been installed by more than **50000** times. At this ti
 > Quick and easy to use, really good!<br> :date: __2020-09-27 10:53:21__
 
 > Much quicker and easier to use than scanning a QR code to click to load a website and manually entering your details. Better security is a plus too, it'd be hard to tell if random QR code is linking to a legit website or not.<br> :date: __2020-09-27 06:20:23__
-
-> Good!<br> :date: __2020-09-18 08:06:04__
 
 
 
@@ -265,6 +265,8 @@ The Check In CBR app has been installed by more than **50000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="au.gov.act.health.checkin 1 reviews"/>
 </p>
 
+> Not easy to use how in the world do you check out<br> :date: __2021-01-29 07:25:04__
+
 > In a word "FRUSTRATING" one minute it works. The next nothing. Tried reinstall and it just sits there "pending " for the last hour and nothing. NOT USER FRIENDLY typical geek app and NO support.<br> :date: __2021-01-21 05:10:49__
 
 > Great idea. Could open app but nothing else, no registration, no login, app unresponsive. Sad face.<br> :date: __2021-01-19 03:47:25__
@@ -282,7 +284,5 @@ The Check In CBR app has been installed by more than **50000** times. At this ti
 > Doesn't work. Tried reinstalling twice and still returns error message about no registered business location at every shop I've tried. Worked for others but not me. Manual also doesn't work.<br> :date: __2020-12-24 03:21:51__
 
 > I was forced to get this app that collects information on you for the gov. F'ing Nanny State.<br> :date: __2020-12-24 00:53:00__
-
-> First time ever since covid started, I have to download app to register. Everyone is using a simple and reliable web registration. Total waste of our money by ACT government. Poor choice of registering option by Portrait Gallery Cafe. Portrait Gallery itself is nicely using web registration. Not to mention, this slow app is to be uninstalled after that single use. Not good enough, ACT Health.<br> :date: __2020-12-20 05:53:42__
 
 

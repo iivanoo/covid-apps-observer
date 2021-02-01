@@ -197,6 +197,10 @@ The BCBSM Online Visits app has been installed by more than **50000** times. At 
 <img src="5_star_reviews_wordcloud.png" alt="com.bcbsm.android.bcmi.onlinevisit 5 reviews"/>
 </p>
 
+> Great alternative to an office visit<br> :date: __2021-01-28 15:29:24__
+
+> Was fast and easy. Safe way to stay away from covid.<br> :date: __2021-01-25 22:00:30__
+
 > Great<br> :date: __2021-01-22 21:49:13__
 
 > The experience was great. Quick and easy.<br> :date: __2021-01-20 00:31:23__
@@ -213,10 +217,6 @@ The BCBSM Online Visits app has been installed by more than **50000** times. At 
 
 > With two kids, this is the best app on my tablet. I have used it while traveling, after hours, and holiday. My kids seem to suddenly need medical attention at the most inopportune times. This app has saved me 4 trips to ER/Urgent care in less than 2 years.<br> :date: __2021-01-05 01:30:16__
 
-> I used it for online doctor consult. Took me 10 minutes and cost $10 !<br> :date: __2020-12-26 15:51:08__
-
-> Convenient, worked great for me<br> :date: __2020-12-22 05:38:56__
-
 
 
 #### 4-star reviews
@@ -224,6 +224,8 @@ The BCBSM Online Visits app has been installed by more than **50000** times. At 
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.bcbsm.android.bcmi.onlinevisit 4 reviews"/>
 </p>
+
+> Easy fast option<br> :date: __2021-01-25 20:59:30__
 
 > Easy and convenient<br> :date: __2021-01-19 18:36:59__
 
@@ -243,8 +245,6 @@ The BCBSM Online Visits app has been installed by more than **50000** times. At 
 
 > Good. Easy to follow.<br> :date: __2020-06-08 16:05:59__
 
-> Good experience..doctor was nice and friendly. A little issue with wifi connection but over all good. Doctor was tolerant with poor connection and patient.<br> :date: __2020-05-31 00:21:44__
-
 
 
 #### 3-star reviews
@@ -252,6 +252,8 @@ The BCBSM Online Visits app has been installed by more than **50000** times. At 
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="com.bcbsm.android.bcmi.onlinevisit 3 reviews"/>
 </p>
+
+> Good visit with nurse had to do over phone due to video actually not working but will not do again.Have to see in person doctor Even though just a normal script refill something that is well documented and nothing major.<br> :date: __2021-01-28 16:24:35__
 
 > Doctor Good, App Mediocre. Doctor Boehr was quick to evaluate and get me the help I needed. The BCBSM online app, however, failed to connect to my BCBSM insurance information. It also failed five times to verify and accept any credit card information.<br> :date: __2021-01-07 01:34:44__
 

@@ -133,6 +133,18 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 <img src="5_star_reviews_wordcloud.png" alt="au.gov.health.covidsafe 5 reviews"/>
 </p>
 
+> Have mine on at all times when I leave my home<br> :date: __2021-01-29 22:25:00__
+
+> App Glitch - Error keeps coming up "CovidSafe Not Active" however it definitely is active when I open the app. Restarting phone doesn't fix.<br> :date: __2021-01-28 21:04:05__
+
+> Useful<br> :date: __2021-01-26 15:53:40__
+
+> Good information if we all do it we get through it<br> :date: __2021-01-26 11:00:56__
+
+> Safe<br> :date: __2021-01-25 03:02:13__
+
+> All good<br> :date: __2021-01-24 02:29:14__
+
 > Ok have no experiences and I don't know if it works or not BUT SOMEBODY IS AT LEAST TRYING SOMETHING instead of sitting around whinging and bitchinh<br> :date: __2021-01-22 11:35:47__
 
 > I'm sick as hell. Hopefully this app works to save others.<br> :date: __2021-01-22 11:30:41__
@@ -141,18 +153,6 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 
 > ... Ok l. Og<br> :date: __2021-01-15 05:41:15__
 
-> Great<br> :date: __2021-01-15 02:57:42__
-
-> Good if it is used as intended<br> :date: __2021-01-14 22:48:44__
-
-> A very necessary app, indeed. It has played a major role in containing this pandemic by informing citizens of needed information for precautionary measures. Thanks to the Morrison Government and the team that founded this app.<br> :date: __2021-01-11 07:54:45__
-
-> Make it easy to get updates on covid19 cases<br> :date: __2021-01-10 23:31:33__
-
-> Best thing the government did.<br> :date: __2021-01-09 23:47:43__
-
-> They're not lying on the only thing I have a great day and I have to do the same to be a good idea and you please confirm receipt<br> :date: __2021-01-05 15:44:31__
-
 
 
 #### 4-star reviews
@@ -160,6 +160,10 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="au.gov.health.covidsafe 4 reviews"/>
 </p>
+
+> Good, does the job. Not draining battery on my phone: 6% for over a day. Would be nice to see local transmissions as well as total cases per day.<br> :date: __2021-01-26 22:12:13__
+
+> D3 i 2##w we4w w 6 wa 222<br> :date: __2021-01-24 21:54:19__
 
 > App has started to drain my battery.... When it first came out I installed it and it only used about 1 to 2% battery in a day but now it's over 20% of my battery and I can not get a full day's use out of my phone as of this I might have to delete it as what is the point of havin git if I can not use my phone anyway if it's flat<br> :date: __2021-01-07 10:05:45__
 
@@ -176,10 +180,6 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 > It's a nessasary for the Government to have this, if those that think it's not real, well it's very real so it's an a Must cheers<br> :date: __2020-12-20 23:49:00__
 
 > Works perfectly. Would be 5 star if it didn't stop when it needed an update.<br> :date: __2020-12-20 08:40:56__
-
-> good<br> :date: __2020-12-18 02:03:55__
-
-> Y ?<br> :date: __2020-12-10 10:29:29__
 
 
 
@@ -217,25 +217,25 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 <img src="2_star_reviews_wordcloud.png" alt="au.gov.health.covidsafe 2 reviews"/>
 </p>
 
-> HUGE increase in battery drain lately. It has drained 16.9% of my battery today, with the next closest app at only 5.6%.<br> :date: __2021-01-23 06:54:15__
+> My airpods no longer automatically connect and the disconnect spontaneously since I installed this. Update Jan 21 - tried it again. My bluetooth turns off spontaneously. Still 2 stars.<br> :date: __2021-01-29 22:40:40__
 
-> Consume too much battery<br> :date: __2021-01-21 21:02:37__
+> Due to more recent Bluetooth disconnection I have deleted this app. Bluetooth speaker connected to Spotify stopping. I press play & it's stops again. This is the only new app I've installed. I think there a bug and this is the only different thing (new app) on my device. Had to clear memory to get Bluetooth speaker working. Galaxy Note 8.<br> :date: __2021-01-29 03:39:36__
 
-> I have had this app since it was introduced and in the beginning it was great. However, just recently my phones battery life has seriously decreased and I can barely get through the day. Initially I thought it was an issue that had come from Samsung's latest update but after looking at my battery settings I discovered that this app consistently uses around 40%. This is crazy! I am genuinely considering uninstalling the app until this problem is fixed because I cannot continue to live like this.<br> :date: __2021-01-21 12:55:24__
+> This app should have a QR scanner in it<br> :date: __2021-01-28 00:29:36__
 
-> Installed the app in the very beginning, no issues until recently. Started causing a huge battery drain to the point where I was considering buying a new phone because I couldn't get more than 4 hours on a charge. Uninstalled the app and phone is back to normal.<br> :date: __2021-01-21 10:04:03__
+> Drains the battery at Rate of around 3 percent per hour, even in airplane mode.<br> :date: __2021-01-27 20:45:08__
 
-> Good concept. Maybe it works. But it feels like you're taxing my battery a lot for using it.<br> :date: __2021-01-20 20:54:04__
+> Clunky<br> :date: __2021-01-26 11:11:27__
 
-> I really want to support this but the battery drain is too big to ignore. Today, this app used 28% of my phone's battery.<br> :date: __2021-01-20 12:57:06__
+> a recent update has introduced a battery usage issue<br> :date: __2021-01-26 09:13:28__
 
-> Echoing others - this is eating my battery and I can't get through 7.5h work day without recharging. Really would prefer to use this service but the number of times I've run out of battery due too this app's power draw are an issue<br> :date: __2021-01-19 23:43:36__
+> After last update the app start using a quater of my battery. Given the fact that we require to use check-in and out procedure almost everywhere, I dont see a point to use this app. Having a dead mobile does not help the cause.<br> :date: __2021-01-26 04:03:28__
 
-> Trying to do the right thing by using this app but the way it drains your battery is terrible. Will turn it off if an update doesn't come quickly to fix the issue.<br> :date: __2021-01-19 12:17:00__
+> I had this installed since the beginning, but recently the battery drain has been 30-40%. Needs work.<br> :date: __2021-01-25 06:10:15__
 
-> What can i say? Drain my phone battery a LOT. gov.. get this fixed pls.<br> :date: __2021-01-19 04:22:44__
+> Huge battery consumption issue now..<br> :date: __2021-01-24 20:39:39__
 
-> I am happy to do my part but the app developers really need to get back to work to optimise this app. It is a battery killer. 2 and a half days battery down to 11 hours. I now have to carry an extra battery if I intend to use my phone throughout the day.<br> :date: __2021-01-18 13:12:33__
+> My phone's battery has started to run out in 5 hours of late. It used to last 12 hours or more. I found that COVIDSafe caused 50% of the battery drain.<br> :date: __2021-01-23 20:58:44__
 
 
 
@@ -245,24 +245,24 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 <img src="1_star_reviews_wordcloud.png" alt="au.gov.health.covidsafe 1 reviews"/>
 </p>
 
-> Seriously drains my battery.<br> :date: __2021-01-23 13:35:59__
+> Since installing the update using the Herald protocol, Android consistently reports this is the most battery consuming app running, even in background, coming immediately after Screen usage and Google Play Services. Phone no longer lasts 12 hours before going into power save modes. No point having COVID Safe running if the phone is dead.<br> :date: __2021-01-29 13:44:42__
 
-> Not sure what you've changed on Android, but this is killing my battery. I emailed support, no response and no fix, I'm done. I want to do the right thing, but you're making it nearly impossible<br> :date: __2021-01-23 12:07:54__
+> I thought my phone was faulty with the unmissable increased battery usage. After checking battery usage saw it was this app. Checked the app comments and glad I wasn't going crazy. Also contacted the development team as a good citizen, they pretty much dismissed the feedback. People want to do the right thing but if you are flat out going to deny there is no issue with the app, well not sure what else we can do.<br> :date: __2021-01-29 13:21:25__
 
-> To much battery drain. Resolve that, and I will reinstall.<br> :date: __2021-01-23 11:57:35__
+> I've had it on my S10+ since the beginning, but like a lot of others the battery usage recently has been ridiculous. I can see a lot of people uninstalling the app if this isn't addressed, which is of course not helping us all stay safe. I'm pretty tempted to uninstall it myself, 30%-40% of my battery usage is this one app.<br> :date: __2021-01-29 08:57:47__
 
-> Garbage, useless just like the government<br> :date: __2021-01-23 11:13:27__
+> Using 30% of my battery<br> :date: __2021-01-29 08:43:34__
 
-> Had this app from the start, but had to uninstall it now because it was draining my phone battery and also heating the device.<br> :date: __2021-01-23 10:32:13__
+> Kills my battery<br> :date: __2021-01-29 08:34:05__
 
-> Same as other reviewers. Latest update has caused huge battery drain. Unfortunately, I had to uninstall it on 2 phones although I didn't want to. Please fix asap as both my wife we and me need this app. High risk category the both of us.<br> :date: __2021-01-23 09:01:31__
+> 90% of my phone's battery usage is because this app. Not acceptable! I suspect that this will cause many people to stop using the app, as shown by many other reviewers. Please fix this issue.<br> :date: __2021-01-29 04:53:35__
 
-> Drains the battery really fast, because it insists on having location services and Bluetooth active. With the app on and active I get around four hours battery, with our off and in sleep mode I get 30 hours.<br> :date: __2021-01-23 08:29:34__
+> It absolutely ruins battery life. It literally used 40% of my batter in 4 hours... sorry but it's getting uninstalled until the battery drainage issue is fixed<br> :date: __2021-01-29 01:23:53__
 
-> consumes 40% of my battery every charge<br> :date: __2021-01-23 08:10:10__
+> Now there is battery draining isues as well as the below when will this be fixed. I dont mind havig this app just fix it. When is there going to be a fix so this app stops disconnecting other devices from Bluetooth. It does it multiple times a day only had thos issue since this app has been installed<br> :date: __2021-01-29 01:06:23__
 
-> The recent update drains 50% of my battery, making my phone (and necessary buisness tool) unusable mid afternoon. After using since the start, I am uninstalling as, unlike the developers, I don't sit with my phone plugged in all day.<br> :date: __2021-01-23 08:03:26__
+> This app was number 1 on my list for battery draining. I've had to uninstall the app.<br> :date: __2021-01-28 23:47:34__
 
-> Had this from the beginning, but recently battery life has been horrible. I can see my battery losing 1% every 10mins or so. When I checked the android battery usage, this app is number 1 of battery consumption and in background mode! taking well over 10% of overall battery consumption. I had to disable Bluetooth to ensure this app is disabled. Going to uninstall this now since the news says contact tracing finds data from this app useless anyway.<br> :date: __2021-01-23 06:58:59__
+> Keeps switching off. I have to switch back on every 24 -48 hrs<br> :date: __2021-01-28 23:44:47__
 
 

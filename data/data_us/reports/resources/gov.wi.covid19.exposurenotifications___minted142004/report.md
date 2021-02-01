@@ -126,6 +126,8 @@ The WI Exposure Notification app has been installed by more than **100000** time
 <img src="5_star_reviews_wordcloud.png" alt="gov.wi.covid19.exposurenotifications 5 reviews"/>
 </p>
 
+> I like this spp.<br> :date: __2021-01-27 00:35:43__
+
 > I love this App it helps let's me if someone else who has covid-19 this is a cool app to use in case if someone else is exploded to cov-19.<br> :date: __2021-01-19 02:43:14__
 
 > The app sits there and doesn't do much. I haven't received any notifications and I haven't sent any; hope that doesn't change. Does this work with other states or only other people who have this app installed? What do people in Illinois use?<br> :date: __2021-01-19 01:47:32__
@@ -143,8 +145,6 @@ The WI Exposure Notification app has been installed by more than **100000** time
 > I wear a mask because I am a patriot and I care about all lives. Historically Americans provide aid globally for weak and vulnerable, its about time we put America first. Wear your mask. I downloaded this app because I am a patriot and I care about all lives. Using this app may provide valuable exposure information. It will give information to help people know to get tested, to quarantine, or to seek treatment. 2 small steps can save the lives of the vulnerable. That IS the America way!<br> :date: __2020-12-30 15:53:31__
 
 > So glad to have this!<br> :date: __2020-12-29 16:11:14__
-
-> Don't know if it works!? 🤔<br> :date: __2020-12-28 20:51:21__
 
 
 

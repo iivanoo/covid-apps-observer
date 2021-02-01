@@ -174,25 +174,25 @@ The Healthy Together - COVID-19 app has been installed by more than **100000** t
 <img src="5_star_reviews_wordcloud.png" alt="co.twenty.stop.spread 5 reviews"/>
 </p>
 
-> Every thing it was very organised. And the waiting was not to long. Thank you for all the help to the public to be safe. May God bless you all.<br> :date: __2021-01-23 07:25:57__
+> ok I'm ok<br> :date: __2021-01-29 16:38:08__
 
-> This app is helpful and easy i got my result as soon as i enter my info.👍👍<br> :date: __2021-01-23 00:47:28__
+> What i needed to know is there, informative and fast.<br> :date: __2021-01-29 16:03:39__
 
-> (☞ ͡° ͜ʖ ͡°)☞ ℱ𝒶𝒷𝓊𝓁ℴ𝓊𝓈<br> :date: __2021-01-22 19:45:04__
+> great app to use<br> :date: __2021-01-29 15:39:33__
 
-> Very professional!<br> :date: __2021-01-22 17:22:35__
+> Great<br> :date: __2021-01-29 02:01:03__
 
-> Finally .a negative..very fast results.thanks<br> :date: __2021-01-22 16:00:41__
+> This app was very helpful providing my Covid test results<br> :date: __2021-01-28 18:16:28__
 
-> Great, fast reliable 👍<br> :date: __2021-01-22 15:54:53__
+> spread the word about his app.<br> :date: __2021-01-28 16:10:31__
 
-> Very good experience and good service<br> :date: __2021-01-22 15:52:03__
+> Excellent<br> :date: __2021-01-28 05:45:42__
 
-> Thank you!<br> :date: __2021-01-22 15:47:17__
+> Wow it was awesome 😊😎<br> :date: __2021-01-28 02:22:56__
 
-> What a relief, wish health care proxy n children legally obligated to speak and make all decisions for should b entitled to the same comprehensive test results, heart rates, medications, procedures, and the like while the loved on is incapacitated in the hospital. I am being forced t[ to agree with a dangerous procedure without being aloud to explain it to her to aid them in her being compliant. Patient portals to hospital record n chart needs to be granted to those legally entitled to infor.<br> :date: __2021-01-22 15:43:19__
+> very helpful<br> :date: __2021-01-28 00:06:08__
 
-> pretty simple and straight forward<br> :date: __2021-01-22 15:18:28__
+> Quick way to get results!<br> :date: __2021-01-27 18:40:57__
 
 
 
@@ -201,6 +201,12 @@ The Healthy Together - COVID-19 app has been installed by more than **100000** t
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="co.twenty.stop.spread 4 reviews"/>
 </p>
+
+> Great<br> :date: __2021-01-27 01:20:05__
+
+> So far I'm liking the app. I do wish it gave information for my region such as reported cases and deaths.<br> :date: __2021-01-25 18:48:27__
+
+> ok<br> :date: __2021-01-25 15:15:58__
 
 > easy access<br> :date: __2021-01-22 15:00:04__
 
@@ -216,12 +222,6 @@ The Healthy Together - COVID-19 app has been installed by more than **100000** t
 
 > It was easy and ok.<br> :date: __2021-01-13 02:18:02__
 
-> Good service! I was surprised to get a solution to my problem within a few hours.<br> :date: __2021-01-12 23:54:50__
-
-> Thank you! It wouldn't let me share to other devices on my phone, aside from that, not too bad.<br> :date: __2021-01-10 15:33:10__
-
-> Easy to use<br> :date: __2021-01-08 16:49:01__
-
 
 
 #### 3-star reviews
@@ -229,6 +229,14 @@ The Healthy Together - COVID-19 app has been installed by more than **100000** t
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="co.twenty.stop.spread 3 reviews"/>
 </p>
+
+> Udate..issues being adressed..will change my rating once resolved ..Thankyou twenty inc for tesponding.<br> :date: __2021-01-26 02:37:58__
+
+> Easy to set up however, birthdate field fails. I entered correct date, confirmed it is the date on file with me provider, app indicates error, dates don't match.<br> :date: __2021-01-25 18:14:10__
+
+> Good app but for COVID tests the report of the results it gives does not include the resulted date, just the date of the taken same. This resulted test date is determinant for some travel requirements that are time sensitive.<br> :date: __2021-01-25 04:39:13__
+
+> Why doesn't this app use the exposure notifications API in Android?<br> :date: __2021-01-24 01:04:24__
 
 > This app needs to configure merging existing charts. It creates way too many duplicates in the system for employees which creates more work in contacting patients.<br> :date: __2021-01-17 18:31:58__
 
@@ -241,14 +249,6 @@ The Healthy Together - COVID-19 app has been installed by more than **100000** t
 > I think it's a great app. But it should also have the option to open a spouse's or a relatives results with their approval of course but not just because it's tied to or related to phone #. I'm in Georgia n my husband is in Florida and he sent his test results link but it does not open me.<br> :date: __2021-01-01 21:17:35__
 
 > I work in the health care field and get tested twice a week and my job notifies me of my test results. There should be more instructions or questions to guide people. I had my daughter tested this morning so when I loaded the app do I put her information in, or my own. I put my information in and all of my test results show up. Will my daughters show under my information because it's the same phone number, or do I need to uninstall and reinstall it with her information to get her results?<br> :date: __2020-12-29 17:10:50__
-
-> Does not work with older phones.<br> :date: __2020-12-25 02:14:33__
-
-> Had same problem as prior reviewer. Trying to download app and it keeps hanging at 63%. Too bad. Guess I'll let it sit a while and see if it downloads eventually. :(<br> :date: __2020-12-23 17:01:35__
-
-> Unable to get paper copy of report to give employer<br> :date: __2020-12-22 18:47:42__
-
-> Good<br> :date: __2020-12-22 15:49:30__
 
 
 
@@ -286,24 +286,24 @@ The Healthy Together - COVID-19 app has been installed by more than **100000** t
 <img src="1_star_reviews_wordcloud.png" alt="co.twenty.stop.spread 1 reviews"/>
 </p>
 
-> Doesn't open can't get my covid results. Have to go back in person.<br> :date: __2021-01-23 03:34:36__
+> Poor<br> :date: __2021-01-29 17:55:10__
 
-> This app is almost useless. I followed every step and just couldn't get through.<br> :date: __2021-01-22 22:48:17__
+> Can't download<br> :date: __2021-01-28 14:42:48__
 
-> Does not work. Tried multiple times. Just get "an error occurred"<br> :date: __2021-01-22 20:05:13__
+> All wrong information<br> :date: __2021-01-27 21:57:25__
 
-> I kept getting messages that I had test results, but I had already gotten the results from the test provider. I finally downloaded this app just to make sure I wasn't missing anything... And no, I wasn't. What a waste of time and needlessly shared information. I'm deleting the app and am creeped out!<br> :date: __2021-01-22 19:52:08__
+> Wasn't able to retrieve test results, complete waste of time<br> :date: __2021-01-27 17:50:36__
 
-> Told me my results were ready to view. App wont even download fully to view any information.<br> :date: __2021-01-22 18:58:06__
+> There is too big of a gap in communication.<br> :date: __2021-01-27 15:37:48__
 
-> I cannot even open the app. It jusr keeps buffering<br> :date: __2021-01-22 16:56:11__
+> I tested positive back in Sept 2020. I downloaded the app in Jan 2021 and imported my test results. Now it thinks I have Covid-19 and need to quarantine and won't give me a passport to go to work until Oct 2020 🙄.<br> :date: __2021-01-27 15:16:05__
 
-> The installation process freezes at 66%<br> :date: __2021-01-22 00:57:21__
+> Useless<br> :date: __2021-01-26 15:44:50__
 
-> If you can contact my phone through a text why can't you send my results there instead of downloading a useless app, to complicate the process<br> :date: __2021-01-20 18:13:30__
+> It doesn't work 😕<br> :date: __2021-01-26 14:54:31__
 
-> I can't even get signed in. It just keeps giving me an undiscribed error when I put in my phone number.<br> :date: __2021-01-20 15:54:25__
+> Telling me MY BIRTHDAY is incorrect<br> :date: __2021-01-26 01:11:45__
 
-> The app want even download to get the results<br> :date: __2021-01-20 02:50:20__
+> It doesn't @$&#ing load!! All I get is a blank white screen. @#_& you!!<br> :date: __2021-01-25 18:59:57__
 
 

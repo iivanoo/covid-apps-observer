@@ -193,6 +193,8 @@ The Salud Andalucía app has been installed by more than **10000** times. At thi
 <img src="1_star_reviews_wordcloud.png" alt="es.juntadeandalucia.msspa.saludandalucia 1 reviews"/>
 </p>
 
+> No me llega el sms con el código<br> :date: __2021-01-25 08:17:53__
+
 > Esta aplicación no vale para nada,no te deja meter el sms que recibes para verificar tus datos<br> :date: __2021-01-16 11:18:36__
 
 > Supuestamente te llega un sms para vereficar y no llega nada. Muy mala<br> :date: __2020-12-19 19:59:34__
@@ -210,7 +212,5 @@ The Salud Andalucía app has been installed by more than **10000** times. At thi
 > No entiendo porqué no integran esta app y todas las demás con la de salud responde.<br> :date: __2020-10-29 20:19:28__
 
 > No funciona,<br> :date: __2020-10-29 09:44:16__
-
-> No carga nada, ni me deja meter el móvil ni carga las aplicaciones<br> :date: __2020-10-28 20:30:18__
 
 

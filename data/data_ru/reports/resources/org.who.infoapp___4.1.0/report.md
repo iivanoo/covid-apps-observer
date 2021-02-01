@@ -184,6 +184,8 @@ No recent reviews available with 4 stars.
 <img src="1_star_reviews_wordcloud.png" alt="org.who.infoapp 1 reviews"/>
 </p>
 
+> Приложение мошеннической организации, обманывающей весь мир уже год<br> :date: __2021-01-27 12:10:05__
+
 > Azimov Hasanboy. B b.<br> :date: __2020-10-03 10:41:25__
 
 > не работает с Гугл<br> :date: __2020-07-22 09:06:06__

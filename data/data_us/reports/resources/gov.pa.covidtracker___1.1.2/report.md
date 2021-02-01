@@ -141,6 +141,10 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="gov.pa.covidtracker 5 reviews"/>
 </p>
 
+> Great App,better then the whole state's efforts witch have been an embarrassment for the State.What terrible job theyre doing.embarrassed to be an American now.Thanks Trump and all his not so smart followers.We wouldn't be in this situation if not for Trump and his small minded supporters and Hate groups.Thanks a lot for ruining our country!<br> :date: __2021-01-29 09:58:14__
+
+> Great App!<br> :date: __2021-01-26 20:35:40__
+
 > Glad We have the app.For Safety.<br> :date: __2021-01-22 14:51:04__
 
 > This apps information about covid<br> :date: __2021-01-21 09:27:47__
@@ -156,10 +160,6 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 > Very good app. Very informative.<br> :date: __2020-12-31 23:42:39__
 
 > This app has helped me by notifying me if a store/shop/place is safe to enter.<br> :date: __2020-12-30 17:52:05__
-
-> This app is a must have I don't leave my house without it running . The state of Pennsylvania had done a great job creating this app<br> :date: __2020-12-30 13:21:06__
-
-> Good App To Use To Protect All People And Animals From The Corona Virus Disease Year 2020.<br> :date: __2020-12-29 06:05:34__
 
 
 
@@ -225,6 +225,8 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 <img src="2_star_reviews_wordcloud.png" alt="gov.pa.covidtracker 2 reviews"/>
 </p>
 
+> Only good if you live in PA. Not valid for anywhere else.<br> :date: __2021-01-24 17:58:17__
+
 > Where's the question of have you been vaccinated? Let's see the important info and show how PA is lagging behind.<br> :date: __2021-01-22 18:14:18__
 
 > Not info I need. Where are vaccination sites? What are age requirements? Who is now eligible?, etc.<br> :date: __2021-01-19 18:11:05__
@@ -243,8 +245,6 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 
 > Uuuuuuugh, terrible source of communist pornography, it took I kid you not FOREVER just to find the pics. 2 out of five stars because it still made me feel like a horny hero when I gave away my civil freedoms<br> :date: __2020-11-19 00:03:54__
 
-> This peticular app should be integrated into phones to be mandatory. It is only effective if those who test positive for virus VOLUNTARILY input there special number. Too many people are acting like this is taboo. Anyone who tests positive for any type of pandemic disease should not declare this info as private. Its not, especially when there are so many people involved in their care. STOP BEING SELFISH!<br> :date: __2020-11-18 18:07:39__
-
 
 
 #### 1-star reviews
@@ -252,6 +252,10 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="gov.pa.covidtracker 1 reviews"/>
 </p>
+
+> I have not received any notifications from this app... Unstalling<br> :date: __2021-01-27 19:49:23__
+
+> Doesn't work if no one uses it. I've been around people who tested positive and never got notified. Just a waste of battery power leaving my unused Bluetooth on.<br> :date: __2021-01-26 21:41:22__
 
 > Save your time & storage space, it doesn't work. I received a call today as a follow-up to my quarantine. "What quarantine?" I ask. It appears that I was exposed to COVID-19 on Jan 7. I should have been notified to quarantine. Only, the entire system failed. 1. Employer never notified me of an exposure. 2. PA Department of Health never notified me of an exposure until 3 days AFTER quarantine ended. 3. App with exposure alert on did nothing! Waste of time. #NoConfidence #SystemIsBroken<br> :date: __2021-01-21 00:07:51__
 
@@ -268,9 +272,5 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 > A 5-year-old can't even figure this out and I'm a freaking 7-year-old and I wasn't able to figure this out literally wants you to set up and I do not want to set up<br> :date: __2020-12-30 01:01:03__
 
 > This app does not allow me to enable the alert feature. Bummer<br> :date: __2020-12-28 16:35:06__
-
-> No one is getting codes from the department of health so this app is useless<br> :date: __2020-12-28 14:41:38__
-
-> Scans contacts and Bluetooth to track and count other people around you to find people who violate the unconstitutional gathering limits mandate by gov wolf.<br> :date: __2020-12-26 02:47:16__
 
 

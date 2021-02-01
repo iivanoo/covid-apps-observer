@@ -261,6 +261,8 @@ The Mediktor app has been installed by more than **50000** times. At this time, 
 <img src="3_star_reviews_wordcloud.png" alt="com.teckelmedical.mediktor 3 reviews"/>
 </p>
 
+> En la temperatura no me dan la opción de grados centígrados.<br> :date: __2021-01-24 21:08:55__
+
 > Confusa<br> :date: __2020-11-23 07:51:11__
 
 > Lenta<br> :date: __2017-05-05 02:35:49__
@@ -278,8 +280,6 @@ The Mediktor app has been installed by more than **50000** times. At this time, 
 > Se me hace q todos los que descargan esta app son hipocondriacos xD<br> :date: __2014-07-14 10:58:08__
 
 > Se ve interesante<br> :date: __2014-05-16 15:04:03__
-
-> No me convencio<br> :date: __2014-04-06 16:28:01__
 
 
 

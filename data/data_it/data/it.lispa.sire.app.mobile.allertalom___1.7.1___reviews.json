@@ -1,15 +1,39 @@
 [
     {
+        "reviewId": "gp:AOqpTOGuq4nt9_Vt9HzZa1f8le4XCWPLtz7kxL8GNf9GmHjHSKrbXcDggBBeAMahd1PQmAdS6Zb46E_YaNUJDQ",
+        "userName": "Giuseppe Calarco",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj0reF5jBLDYvNFJ0QAeqEw5tbDkpJ4VeJJEHZIoQY",
+        "content": "Funziona bene",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.7.1",
+        "at": "2021-01-29 01:26:56",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOFOZdhmK3ZH4GQFIxfLmkerz6UiF9w559Q8ypaCk37AIOKOTwsd393i-c2SIQ8OncO6TnfNbrHy3Vk1CA",
         "userName": "Laura Germana Vailati",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhZB0TIVd0XW1LUcBqhEI5yauZ0Q_OvXSWb98naGQ",
-        "content": "Impossibile da usare!! Ogni volta \u00e8 necessario accettare le condizioni di utilizzo, ogni volta \u00e8 obbligatorio compilare il questionario sul covid, ogni volta bisogna compilarlo per s\u00e9 stessi e per un familiare e ADESSO non accetta pi\u00f9 i dati del familiare. Seriamente. Prendete qualcuno che sappia scrivere codice, ci sono millemila RAGAZZI che vi potrebbero scrivere una app decente e funzionante. VERGOGNA!! Edit dopo risposta del Dev (2021-01-21) : sono MESI che vi viene segnalato il problema. Non e' possibile che la risposta sia sempre \"scrivete a ...\". Scrivero' sicuramente, ma il problema esiste da MESI. Non si lavora cosi' (male).",
+        "content": "Dopo aver segnalato l'errore persistente (impossibile evitare la compilazione questionario COVID e altri problemi), lo sviluppatore ha risolto il problema. Al momento tutto funziona come deve. Grazie Devs.",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.7.1",
+        "at": "2021-01-24 10:39:00",
+        "replyContent": "Ciao Laura, siamo contenti che il nostro intervento sia stato sufficiente per permetterti di utilizzare correttamente l'app. Grazie per aver aggiornato la tua valutazione!",
+        "repliedAt": "2021-01-25 12:25:31"
+    },
+    {
+        "reviewId": "gp:AOqpTOERjdlqY6Wm5kgRRde9eoWDi1VAKViwj4TSrNVBFQ4zeqQ7-PccNalE-c3j7o7CuzeR2rxQ4LAmJxLNVg",
+        "userName": "Ettore Zilioli",
+        "userImage": "https://play-lh.googleusercontent.com/-zkRSPCWFOrk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckVXK0E7mVfaILlMHXrzX1bHtf7xg/photo.jpg",
+        "content": "Si blocca sempre",
         "score": 1,
         "thumbsUpCount": 0,
-        "reviewCreatedVersion": null,
-        "at": "2021-01-21 16:30:39",
-        "replyContent": "Ciao Laura, l'errore da te segnalato non \u00e8 n\u00e9 sistematico, n\u00e9 generalizzato, per questo motivo ti abbiamo chiesto di scrivere i dettagli alla casella di posta dedicata. Abbiamo la necessit\u00e0 di raccogliere pi\u00f9 dati possibili al fine di aiutarti ad utilizzare correttamente l'app!",
-        "repliedAt": "2021-01-23 09:35:54"
+        "reviewCreatedVersion": "1.7.1",
+        "at": "2021-01-23 20:49:46",
+        "replyContent": "Ciao Ettore, vorremmo comprendere l'errore da te riscontrato, scrivici a info.allertalom@ariaspa.it indicando i dettagli del dispositivo da te utilizzato e della procedura seguita e allegando print screen dell'errore riscontrato e ti aiutiamo noi!",
+        "repliedAt": "2021-01-25 12:30:51"
     },
     {
         "reviewId": "gp:AOqpTOHipRi6zMg74tTSOa4O5RnbAGZod4SaaFLV4hJqqix-Qh3KKnKzZibiCoMMXt46wuVXiVv3eaRDPqB_Xg",
@@ -341,7 +365,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gim1CtpUlzMTLLy45nPVvh9kdG2AF6z99rrbYRZ_g",
         "content": "Un App molto ben sviluppata,ed utile per avere informazioni sicure sull'andamento della circolazione del Covid 19 nella tua citt\u00e0 e regioni italiane. Molto ben sviluppata,e di facile configurazione, fluida e completa di molte informazioni che possono essere utili. Con la possibilit\u00e0 di avere la situazione della circolazione del Coronavirus, tramite un sistema che ti mostra l'andamento della criticit\u00e0, durante le 24 ore della giornata. Con la legenda con i colori dell'incidenza dei contagi nelle",
         "score": 5,
-        "thumbsUpCount": 10,
+        "thumbsUpCount": 11,
         "reviewCreatedVersion": "1.7.1",
         "at": "2020-10-31 02:10:46",
         "replyContent": "Grazie Toni, ci impegniamo ogni giorno per poter dare il meglio. Recensioni come questa ci fanno particolarmente piacere!",
@@ -985,7 +1009,7 @@
     },
     {
         "reviewId": "gp:AOqpTOFHlPOFaIPmG6AkMRSVIAoOMh1mF0GJjc1CVliCdLQYEcN52SUgeheWrMTfu34jaQpJttyjuw8j2_mMnQ",
-        "userName": "Max M",
+        "userName": "Massimiliano C.",
         "userImage": "https://play-lh.googleusercontent.com/-jug5U5RQCQg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmrqMoBbNUs-DmxnTWozYtkeNS79w/photo.jpg",
         "content": "Arrivano le notifiche si clicca sul popup che contiene il link.. pagina non trovata.",
         "score": 2,
@@ -3194,7 +3218,7 @@
     {
         "reviewId": "gp:AOqpTOFqXHXLzacMByoDPWiivdfQXrJH9ApRUyGp31JAXLZtuXsdo3YeTrcr2fIq2wwC06ig4lBlaqqYNI5c7w",
         "userName": "Stefano_grr",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhjT6c0GqGOuqG_PEq8PSvSWR_hYkbhyD4RmcqY",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj_GWSVxUUmW5mH3HGw4Aq69XMreydyAeZn0wbq",
         "content": "\ud83d\udc42\ud83d\udc40\ud83d\udc42 \ud83c\udfdf\ufe0f\ud83c\udfdf\ufe0f\ud83c\udfdf\ufe0f\ud83c\udfdf\ufe0f\ud83c\udfdf\ufe0f\ud83c\udfdf\ufe0f\ud83c\udfdf\ufe0f\ud83c\udf99\ufe0f\ud83c\udfb7\ud83c\udfb6\ud83d\udce2\ud83d\udea9\ud83d\udea9\ud83d\udc45",
         "score": 1,
         "thumbsUpCount": 0,
@@ -3254,7 +3278,7 @@
     {
         "reviewId": "gp:AOqpTOG2-LpbdOS3l23T92EPOT1wPY4A7IIO0njUiy0yzC_x2DBKq1azDlJHEoDwvu08a4uWDDzgTTX9qOsBaQ",
         "userName": "Carlo Dell'anna",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiXMDWvcLbF7XWfcSGBN7Z_7KweJ6T0girc7MBnTQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiVHhRPq_Vc8lG99-Hm3Iy9_fLJ6IMZOHHrZ3vgTA",
         "content": "Ottima",
         "score": 5,
         "thumbsUpCount": 0,
@@ -9577,7 +9601,7 @@
     },
     {
         "reviewId": "gp:AOqpTOFzNm3hRfKDPsbA9SBqQysI3kbVsFYgkWT9M-IF3N7vtmtjlfYXO8CMvEv2n7pF43ZWL3lLOXoLTUhXIQ",
-        "userName": "Maurizio Ibramovi",
+        "userName": "Mario Madonna",
         "userImage": "https://play-lh.googleusercontent.com/-2uddZTSlSPs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclrO0UXeExo8O80O_7C6X_6FOKkzw/photo.jpg",
         "content": "non funziona",
         "score": 1,
@@ -11974,29 +11998,5 @@
         "at": "2020-04-11 20:25:16",
         "replyContent": "Ciao Floriano, al momento non \u00e8 stata implementata questa funzione la prenderemo in considerazione in futuro, grazie per il suggerimento!",
         "repliedAt": "2020-04-24 19:33:41"
-    },
-    {
-        "reviewId": "gp:AOqpTOG4izFSsWrG4huNF91nNBAiAugwnmM24ing36fb9ogO-SYE-5Fh_DpjCR-hmmqVXhwd75yHDCtvzR_s3Q",
-        "userName": "Francesca Leva",
-        "userImage": "https://play-lh.googleusercontent.com/-zhi8Upc6zpk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnCfqRPd8XZngpLnQCErVKk41y5XQ/photo.jpg",
-        "content": "Nella sezione cerca covid dovrebbero chiedere la data di nascita e non l'et\u00e0, ho compiuto gli anni e non ho pi\u00f9 modificare l'et\u00e0 dichiarata in precedenza. Ho dovuto disinstallare e reinstallare l'app. Suggerirei a questo punto di memorizzare anche comune di residenza e cap.",
-        "score": 3,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.5.0",
-        "at": "2020-04-11 18:59:08",
-        "replyContent": "Ciao Francesca, al momento non \u00e8 stata implementata questa funzione la prenderemo in considerazione in futuro, grazie per il suggerimento!",
-        "repliedAt": "2020-04-24 19:31:28"
-    },
-    {
-        "reviewId": "gp:AOqpTOEYbwqQNZrbE695LjbOYquSYCHx38_iXQ8lD9Sw9XCjrdoAeE2__-IsjUmHgGXyC0nJguAmqiO06l1keA",
-        "userName": "diego rizzi",
-        "userImage": "https://play-lh.googleusercontent.com/-muKalgsaamo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckxNdqTl-koUvpBuznB8s8GZhV-uw/photo.jpg",
-        "content": "Ho compilato il questionario A mio parere le domande non sono sufficienti per comprendere al meglio la situazione del contagio sarebbe utile forse chiedere se si siano notate nei mesi scorsi qualche sintomo fuori dal comune ... febbre alta dai 39 in su che non vedevo da 30 anni e + Grazie buona serata e Buona Pasqua",
-        "score": 4,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.5.0",
-        "at": "2020-04-11 18:03:59",
-        "replyContent": "Ciao Diego, grazie del suggerimento!! Il nostro lavoro \u00e8 misurato anche in funzione delle vostre recensioni e valutazioni!!",
-        "repliedAt": "2020-04-24 19:27:57"
     }
 ]

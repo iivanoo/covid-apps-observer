@@ -157,10 +157,12 @@ The TreCovid19 app has been installed by more than **1000** times. At this time,
 #### 2-star reviews
 
 <p align="center">
-
+<img src="2_star_reviews_wordcloud.png" alt="eu.fbk.trec.apps.covid 2 reviews"/>
 </p>
 
-No recent reviews available with 2 stars.
+> Continua a impiantarsi<br> :date: __2021-01-27 20:08:07__
+
+
 
 #### 1-star reviews
 

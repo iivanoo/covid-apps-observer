@@ -193,25 +193,25 @@ The NHS App app has been installed by more than **1000000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="com.nhs.online.nhsonline 5 reviews"/>
 </p>
 
-> Scary thi king what we would do without them ××××××<br> :date: __2021-01-23 10:40:02__
+> Easy to use, easy to read, plain English text.<br> :date: __2021-01-29 21:29:32__
 
-> Very good<br> :date: __2021-01-22 19:33:08__
+> NHS GOOD APP<br> :date: __2021-01-29 11:23:32__
 
-> Works well. Good beginning but I believe it should give me complete access to MY medical records both gp and hospital.<br> :date: __2021-01-22 18:51:30__
+> Saves so much time and unnecessary phone calls and travelling. Works very well .<br> :date: __2021-01-28 22:45:30__
 
-> I like this app. I've used a couple of time and each time I've been messenger back promptly with good advice. It took a little to sign-up but once is done I only need to use my finger print to access all my information. As well as view my record live, as soon as the doctor update it.<br> :date: __2021-01-22 18:10:46__
+> Don't be put off, by tricky registration, it has to verify its you. Brilliant App. All in one go to area for everything NHS. I love it and use it more often than my GP one. You can order medicines and leave messages for your GP. Brilliant Thanks 😊 👍<br> :date: __2021-01-28 22:17:22__
 
-> Easy to use, self explanatory, clearly labelled tabs for different uses - just open it and familiarise yourself with it. Handy to have to be in control of your own health.<br> :date: __2021-01-22 16:52:04__
+> Just the job thank you<br> :date: __2021-01-28 18:37:56__
 
-> Easy to do. Great for making appointment, repeat prescriptions, looking at your records and lots more stuff.<br> :date: __2021-01-22 15:03:16__
+> It keeps you up to date with what's happening about coronvirus<br> :date: __2021-01-27 20:40:01__
 
-> Easy to use and set up<br> :date: __2021-01-22 13:22:35__
+> Good centralised information, useful, easy to authenticate.<br> :date: __2021-01-27 10:46:00__
 
-> Simple to use! Easy to see your appointments and to order your prescriptions.<br> :date: __2021-01-22 07:34:20__
+> Does what is required<br> :date: __2021-01-26 23:12:40__
 
-> Use this app to order repeat prescription every month very good<br> :date: __2021-01-21 21:58:47__
+> Simple to use and convenient 🙂<br> :date: __2021-01-26 13:34:41__
 
-> Works great<br> :date: __2021-01-21 18:07:06__
+> Easy to navigate and us<br> :date: __2021-01-25 23:20:40__
 
 
 
@@ -221,25 +221,25 @@ The NHS App app has been installed by more than **1000000** times. At this time,
 <img src="4_star_reviews_wordcloud.png" alt="com.nhs.online.nhsonline 4 reviews"/>
 </p>
 
-> After settling into using the app for Months, suddenly without reason or warning my online delivery pharmacist was changed to a "collect only" service from a village chemist miles away. I blamed the app at first but it was the chemist who had moved to new premises. The app still works pretty well although i still have no access to my medical records. Overall I am happy<br> :date: __2021-01-23 07:10:51__
+> Easy to use<br> :date: __2021-01-29 05:06:48__
 
-> Good app to view medication and appointments etc and to send message to your GP<br> :date: __2021-01-22 12:13:02__
+> Good<br> :date: __2021-01-28 10:24:42__
+
+> Registration wasn't completely straightforward but having jumped through all the necessary hoops (good to know the security is very high level) it all seems to work nicely and will save calls and maybe even visits to our surgery.<br> :date: __2021-01-28 08:48:42__
+
+> Good app to view medication and appointments etc and to send message to your GP would be great if you could view up and coming hospital consultant appointments also<br> :date: __2021-01-27 14:01:14__
+
+> It was quite a fiddly process to register but the app is very good and it saves me time when I need to order a repeat prescription or use eConsult.<br> :date: __2021-01-26 12:43:38__
+
+> After an initial problem with my photograph, I used my Driving license and it worked fine 🙂<br> :date: __2021-01-23 15:25:13__
+
+> After settling into using the app for Months, suddenly without reason or warning my online delivery pharmacist was changed to a "collect only" service from a village chemist miles away. I blamed the app at first but it was the chemist who had moved to new premises. The app still works pretty well although i still have no access to my medical records. Overall I am happy<br> :date: __2021-01-23 07:10:51__
 
 > Very good so far<br> :date: __2021-01-20 14:47:58__
 
 > Overall I like the app but am unable to change my nominated Pharmacy or even see which one it is nominated.<br> :date: __2021-01-20 10:17:56__
 
 > Usually have no issues. One or two problems have occurred but were sorted quickly. I use it to order repeat prescriptions. Have not used it for anything else. Edit: have also used it to make contact with my gp and asked questions. It's useful if it's not a serious issue that needs face to face appointments.<br> :date: __2021-01-18 02:08:09__
-
-> Although I had some initial problems with system registration I now find the app a very useful single point of access to medical advice, prescription reordering, making GP appointments and access to my records.<br> :date: __2021-01-15 21:52:12__
-
-> Great App, I think it could be improved by the addition of a screen that shows your NHS number as a QR code or barcode. Then if I had to go to a surgery or mass vaccination I could just scan my barcode when I check in.<br> :date: __2021-01-15 12:08:50__
-
-> Handy quick and simple access to prescription ordering and nhs information.<br> :date: __2021-01-08 16:54:15__
-
-> Worked well for me. Better than holding on the phone<br> :date: __2021-01-08 16:26:55__
-
-> Waiting for my id to be checked says takes upto 2 hours buts its been 10, need to order a prescription since i can no longer email my GP, ref: CID2001<br> :date: __2021-01-08 11:12:51__
 
 
 
@@ -248,6 +248,10 @@ The NHS App app has been installed by more than **1000000** times. At this time,
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="com.nhs.online.nhsonline 3 reviews"/>
 </p>
+
+> Great app very useful just wish I could make an appointment on this app here<br> :date: __2021-01-29 16:59:16__
+
+> Very difficult if you don't have passport or driving licence<br> :date: __2021-01-24 20:37:05__
 
 > When GP appointment booking is going to restart?<br> :date: __2021-01-22 17:20:42__
 
@@ -265,10 +269,6 @@ The NHS App app has been installed by more than **1000000** times. At this time,
 
 > Useful app<br> :date: __2020-12-23 12:39:05__
 
-> Followed advice & deleted 2 older apps to free up storage. Tried again. It is still in a "Pending" status. All my other apps work, the only one trying to update is NHS. It's NHS update Got a recommendation to upgrade the app but all you see is the "washing machine" going round, and round, and round..... still in a pending state and you cannot go back and use the previous version. Wanted to check a medical appointment but now can't. Does not look like this upgrade release has been fully tested!!<br> :date: __2020-12-18 16:47:56__
-
-> Needs more details Why I can't see my health records like blood test results or scan results or even what is the problem that I suffer Please put that in the App That's right of our rights as patients,<br> :date: __2020-12-18 12:33:42__
-
 
 
 #### 2-star reviews
@@ -276,6 +276,16 @@ The NHS App app has been installed by more than **1000000** times. At this time,
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="com.nhs.online.nhsonline 2 reviews"/>
 </p>
+
+> Not very good.<br> :date: __2021-01-27 20:33:06__
+
+> Needs more info<br> :date: __2021-01-27 09:44:26__
+
+> Crashes when viewing consultation notes on health record.<br> :date: __2021-01-26 09:10:54__
+
+> This app was working fine last week. This week it is continually asking me to provide ID when I try to read appointment or anything else.This I did on first joining. Very disappointing and frustrating, especially at this time when we need less contact.<br> :date: __2021-01-25 18:29:30__
+
+> Very slow to update this app<br> :date: __2021-01-23 15:34:40__
 
 > It will not verify my id. I need to video myself but the link goes to video files and not the video recorder.<br> :date: __2021-01-21 13:47:28__
 
@@ -287,16 +297,6 @@ The NHS App app has been installed by more than **1000000** times. At this time,
 
 > Fed up with this app needing to be updated every few months and needing me to delete other apps to do it. I t annoys me that I then have to reinstall the other apps<br> :date: __2021-01-15 16:29:29__
 
-> Pretty poor really can't upload video to gain full access..<br> :date: __2021-01-10 14:22:22__
-
-> Currently occupying unnecessary space on my phone. Doesn't seem to work. Keep getting error message / call 111. Cannot see my info or order a repeat prescription. When it worked albeit briefly, it was great. Used to be convenient and work so well now it's just disappointing.<br> :date: __2021-01-09 10:03:30__
-
-> Slow to upload required pic and info<br> :date: __2021-01-05 12:18:26__
-
-> Can't get past photo upload<br> :date: __2021-01-03 11:45:49__
-
-> Not working on my phone<br> :date: __2020-12-31 01:25:35__
-
 
 
 #### 1-star reviews
@@ -305,24 +305,24 @@ The NHS App app has been installed by more than **1000000** times. At this time,
 <img src="1_star_reviews_wordcloud.png" alt="com.nhs.online.nhsonline 1 reviews"/>
 </p>
 
-> Absolutely impossible to verify identity. First time was emailed to say corners weren't visible even though they were. Second time when I chased for a response after waiting 3 days, it was failed for no clear reason and I had the message to start again. The app itself takes ages to load.<br> :date: __2021-01-22 23:53:00__
+> Pretty poor really can't upload video to gain full access..Constantly tryed to gain access.. Waste of time... U installed<br> :date: __2021-01-29 16:41:33__
 
-> I have been able to create a login but i am unable to get the ID verified on my Honor 10. I am unable to open the camera from the app but i have managed to upload the photo and video for verification twice. The uploaded number verification video do not play in the app and i can only hear the audio and the video player box shows only the play icon.<br> :date: __2021-01-22 14:28:42__
+> The log in took over four hours to complete. It will not load on my laptop. Once everything is up loaded on to a smart phone. you log in to check perscriptions all you get is an error message. I still do not know if they have been ordered and they have just ran out, so now still have to ring to find out. the phone charges are now over forty pounds. A complete waste of time and money !!!!!!!!<br> :date: __2021-01-28 20:43:08__
 
-> The ID verification is rubbish. The image I provided was perfectly clear and I still got a message saying they couldn't read my name. The app is completely useless without the verification so I've uninstalled.<br> :date: __2021-01-21 21:05:37__
+> Trying to register won't accept password<br> :date: __2021-01-28 17:44:04__
 
-> Don't work Not opening<br> :date: __2021-01-21 18:07:20__
+> Won't let me update, meaning I can't use the app anymore<br> :date: __2021-01-28 11:28:23__
 
-> Useless is unable to recognise i have uploaded my id just goes round in a circle waste of time developers fix this flaw<br> :date: __2021-01-21 12:15:12__
+> Spent ages trying to login app doesn't recognise me. Has confirmed my email.<br> :date: __2021-01-28 10:41:08__
 
-> So awkward to register. Don't like the idea of having to upload a video of saying the 4 digit code they send. No point in doing it cos the video doesn't show, it just shows a video play icon with my voice in the background, and so was no longer able to continue with registration. I guess I'll just have to continue ringing my GP n waste their time ordering future repeat prescriptions over the phone rather than online.<br> :date: __2021-01-20 20:27:41__
+> Tried to use, haven't got any photo ID and my GP doesn't use an online booking system anymore so can't verify ID<br> :date: __2021-01-27 15:18:49__
 
-> Doesnt even open app.<br> :date: __2021-01-19 23:16:24__
+> Simple after failing registration delete the app, pick up a phone ,enter the code number your doctor has given you ,when answered follow any instructions, when you get a human tell them what you want, The address on a driving licence is not necessarly where you live ,it is where DVLA can contact you , my son has had 5 addresses this year (rentals) he does not change his driving licence every few months<br> :date: __2021-01-27 12:13:36__
 
-> It isn't possible to prove my ID. I've tried three times, each time I've taken a new picture of my passport, each time I've checked carefully and it's as it should be, clear, and easy to read. Each time I've been told the photo isn't readable. Update: I tried logging a call as you've asked, twice. Neither reply answered my question, or addressed the fact that I've already uploaded a photo exactly as I'm supposed to.<br> :date: __2021-01-19 16:24:23__
+> One big rubbish. Can't connect to GP. And even login 👎<br> :date: __2021-01-26 17:41:12__
 
-> so far I have been unable to log onto this app. Various problems with it for the last 3 hours of trying. First on my phone, it keeps asking for a six number passwoird which I caanot access without first coming out of thew NHS App. Once back in another number is sent. Ridiculous. I tried on my tablet, and got as far as the video which it will not take or accept. Absloute rubbish app. Please note in your answer, this was for me and me and not my wife.<br> :date: __2021-01-18 13:32:22__
+> how can you upload your test results you have had for a covid test from a test site you booked on nhs App know were to add you results 🤔<br> :date: __2021-01-26 16:34:11__
 
-> Just wont load. Have installed abd uninstalled thus app several times and it just whirs round and round when i try and open it on my phone<br> :date: __2021-01-17 17:10:37__
+> My registration failed. You did not pass our checks because some of the details on your NHS record are not the same as the details on your photo I.D. This must be the postal address ,the surgery hold 2, my postal address of my house in manchester and my sons place in Southport, as I stay in Southport 95% of my time I registered at a local GP, the ID process seems unable to cope with this which is not exactly an unusual life choice for a pensioner , I have other apps that work fine<br> :date: __2021-01-26 15:48:23__
 
 

@@ -238,6 +238,8 @@ The HealthTap — 24/7 Telemedicine app has been installed by more than **100000
 <img src="4_star_reviews_wordcloud.png" alt="com.healthtap.userhtexpress 4 reviews"/>
 </p>
 
+> Easy to use, free, user friendly. However, sometimes it freezes from start and I have to reinstall it repeatedly. Otherwise, it is a perfect app.<br> :date: __2021-01-23 21:39:32__
+
 > eror 1005 when try login<br> :date: __2020-12-17 17:27:15__
 
 > The video portion did not work but the appointment was completed and prescription sent in a matter of minutes. $10 a month is a great value for such quick service, I will be sticking with HealthTap!<br> :date: __2020-09-27 18:34:49__
@@ -255,8 +257,6 @@ The HealthTap — 24/7 Telemedicine app has been installed by more than **100000
 > Very helpful<br> :date: __2020-04-01 13:46:54__
 
 > Very good app<br> :date: __2020-01-20 21:49:58__
-
-> Just got the app<br> :date: __2019-09-29 17:13:43__
 
 
 

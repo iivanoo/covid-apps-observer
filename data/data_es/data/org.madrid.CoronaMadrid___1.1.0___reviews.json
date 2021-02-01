@@ -1,5 +1,53 @@
 [
     {
+        "reviewId": "gp:AOqpTOHFAHYhu3nmpNd_xnio2aUSompaEF7CJIC08MF7g2PsBcNCh0ZfDSax_vXu0d0PmHreg5ZTYSLgZ0Wcmg",
+        "userName": "Saray Manteca Mart\u00ednez",
+        "userImage": "https://play-lh.googleusercontent.com/-I7aQINnj3Ys/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck2dULjgBcP2ZDGH5lVg9XmsPc3PA/photo.jpg",
+        "content": "Se trata de una aplicaci\u00f3n muy intuitiva. Muy buena para la labor que realiza y funciona correctamente",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.1.0",
+        "at": "2021-01-28 13:56:07",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHtR8ATaUrIuzRbm2G-Zj7Nou0PDzE0cQxE3yrP9SakTZrDdUiikW8arrFbLi72Q3oEcDc1yuzJge16bA",
+        "userName": "Pisha de Cai O\u00c9",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhNjYZ4M6cvuMDqtj-PwAIxJNZFnDa-NWhPy4CncA",
+        "content": "Desistalarla es lo unico positivo que tiene la APP.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2021-01-27 13:45:34",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGVvQpRUI63Xi3v1XXFYIydrkd1cXumf-ISTkRKP2jiM-41J0XD7a2bJpNCUwW_EGsNxkJw5V76_yS8FA",
+        "userName": "Mauricio Jimenez P.",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiuwFab04zo-_pbgF0aDro9u10HNWKHL0_XtnCy",
+        "content": "En esto se gasta el dinero la sra presidenta. En app absurdas que encima no funcionan. Le pongo una estrella porque no deja poner menos.\ud83d\ude21",
+        "score": 1,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": null,
+        "at": "2021-01-27 13:42:20",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFWSeq8EKqDpQs8l1xzVzBqmiTAETqoxL_nzF4RUm2D7QQidQOQDxEzsW-uOzAHvXCcqNdZYMhtH4FL6Q",
+        "userName": "I R",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg0bZAkv5f59YxoB0HlepiR6WlYcL6agrgW9dYkxg",
+        "content": "Me ha gustado mucho la app es muy buena, recomendable para estos tiempos de contagio en los que estamos.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.1.0",
+        "at": "2021-01-25 13:47:14",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOEU6o7NqP4-5AF4BDUw5QffKnaPnJ7pGug5-BlJcR4aMk1qr5QwdBpnz8FHbdYSeQ-22neEBftaLIjMOA",
         "userName": "J A",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhnE9bqDMClbreXcShLVYDyn5tM_lQIBCVdl1FIMg",
@@ -65,7 +113,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj0uDrRnr-_JjM8TklSUsxLzzeQI86ATwBaGufjPA",
         "content": "Me ha gustado la app. Te hace un seguimiento de salud cada 12 horas, identifica los posibles s\u00edntomas del covid, te proporciona informaci\u00f3n sobre el virus, los centros sanitarios m\u00e1s cercanos a tu ubicaci\u00f3n... En general est\u00e1 bastante bien para la situaci\u00f3n actual que tenemos. Recomendada!",
         "score": 5,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 2,
         "reviewCreatedVersion": "1.1.0",
         "at": "2021-01-07 16:41:59",
         "replyContent": null,
@@ -197,7 +245,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhoggtjuP9sCzgqGhtiaroFKMFuZVS9geaE2T2sUg",
         "content": "Se supone que incluye las pruebas realizada en la SS y otros centros sanitarios. Como la SS no me hizo ni una triste PCR durante las dos bajas que pas\u00e9, me las hice por lo privado. Pues no aparece nada en mis pruebas, pese a que me acerqu\u00e9 al centro de salud a informar de mis anticuerpos.",
         "score": 1,
-        "thumbsUpCount": 9,
+        "thumbsUpCount": 11,
         "reviewCreatedVersion": "1.1.0",
         "at": "2020-12-17 20:14:24",
         "replyContent": null,
@@ -840,18 +888,6 @@
         "repliedAt": null
     },
     {
-        "reviewId": "gp:AOqpTOExTC-9gd76nuES05W4Oh5B745dki9wlK1DFyEzF-2zeHtrEhlVnbUtBgdRj_Oh1jcNee_chZ1onpFi7A",
-        "userName": "Jose Manuel Ladero",
-        "userImage": "https://play-lh.googleusercontent.com/-6hc9f7bIW9Q/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnQKb3vuKKyf23HP73Fry-CwKSeuw/photo.jpg",
-        "content": "Ni env\u00eda ya el SMS para activarlo. Esto es una casta\u00f1a.",
-        "score": 1,
-        "thumbsUpCount": 3,
-        "reviewCreatedVersion": "1.1.0",
-        "at": "2020-08-27 15:11:54",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
         "reviewId": "gp:AOqpTOGHYi7MWdTz3_xjGrHzzIweTEdEKvbTTqTk6GK7iKspk1tanvBt29qkfdsyUmrMt5bxGsolkFKU3kjZHQ",
         "userName": "DIANA SANCHEZ",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgqiUEZidogFSyL48TeFi2z-UO8XkSfibjJ_PdJd-w",
@@ -1238,7 +1274,7 @@
     {
         "reviewId": "gp:AOqpTOHi97rpDfYOlIz1Qt7nH-QDcbjb4Y44NGIgcBDNSYrbpgwMSAU3-pfkhICvQaGDL6pjykyBF7v2n0HGeg",
         "userName": "Juan Pedroche Arnau",
-        "userImage": "https://play-lh.googleusercontent.com/-BUotS2TD5Io/AAAAAAAAAAI/AAAAAAAAOuc/AMZuucmHOM9BO2avCvAu5ajKEDHkcujTlA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh7Qhju5yVo_FSeujqvrpa5pR-ctujbLbJltmuZBfU",
         "content": "Tengo 63 a\u00f1os para poner mi edad me he quedado dormido, hay que pasar pantalla una a una por mes, hasta llegar a la fecha de nacimiento.",
         "score": 1,
         "thumbsUpCount": 0,

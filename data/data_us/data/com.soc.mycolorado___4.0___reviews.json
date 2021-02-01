@@ -1,5 +1,65 @@
 [
     {
+        "reviewId": "gp:AOqpTOEDQNy4Jn8yHbAZCG3RyWPDu7d8AgNuKk9Qook4Kbiv45sYV6EkWmoJ1om08l0YMf6ZB_2if4XsEmkEFg",
+        "userName": "D Erickson",
+        "userImage": "https://play-lh.googleusercontent.com/-JDZ1NL4aKM8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl4RRuVUtcdHvz6JZhhCE-aSCIpEA/photo.jpg",
+        "content": "My license expired and I renewed on line, but had not received my new card. This app allowed me to have a picture ID accepted almost everywhere in Colorado, while I waited for my new license. Note that some places with age restricted products, as well as airport security, do not accept this digital ID so call before you go if it's your only option. Cool links to frequently used services are on the app. So far no technical hiccups and it has saved the day on many occasions. Highly recommend!",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.0",
+        "at": "2021-01-28 00:45:56",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOF6VxKCx3nJIoycivKvqFEgvzTGHnPxKyHo3fuGMxvuzmqqkIhMgdlmbmTMgQvQ2G8OSbvbf8du6f4Z7A",
+        "userName": "Kathryn Bartley",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi-wfQntz4Z53tNq5Z8eW4q4LSFL-OO9efwU0Wc",
+        "content": "Easy to use! And handy.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.0",
+        "at": "2021-01-27 05:36:24",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOES-8nSj1xNhWJkHIe6JAXNsCvECHKoLZnqDmXcV2AV7VNniFVlmkNHvz3u1NaFO1fBJr8fmcm5SSgQRg",
+        "userName": "Stewart Sherwood",
+        "userImage": "https://play-lh.googleusercontent.com/-lV8Sk9ZErng/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn2Y5aBLvOmdmkBTU52vTJDvgmmaA/photo.jpg",
+        "content": "App barely works",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.0",
+        "at": "2021-01-27 02:09:54",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHtppeZOyTQQQGTR2mUHP975T270ZnWPNS0dMYoMG78YtK0L6MdliPssIr26p3y55PmkvN8Ux45eHsR0g",
+        "userName": "Squoyster Crustologist",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GicMBGUy7lAOiqy6UwyR4RU3V2PVzPSwSmm76q06g",
+        "content": "Nice. Will be really handy once the digital ID is accepted in lieu of a physical one.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.0",
+        "at": "2021-01-24 23:10:24",
+        "replyContent": "Hi and thanks for the positive review! Check out our list of partners who are already accepting the Digital ID. More are joining every day. https://mycolorado.state.co.us/partners",
+        "repliedAt": "2021-01-25 22:00:55"
+    },
+    {
+        "reviewId": "gp:AOqpTOENJ_vjgeH01HM-HgHn9GEtS2E2xxs2GXbk8wMP9YGooMUA9Xz85SG1414uWD_EYJEbBEeAqkPN9F2dRg",
+        "userName": "Tera Finley",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjYAT2AS5LX-j6ac34RpKRPz3vp53WGE_-ZldUL0Q",
+        "content": "My coworker needed to call to verify himself and they were extremely responsive and respectful. I was shocked considering most state job workers are always swamped with tons of work. Great app and soooo convenient to have!",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.0",
+        "at": "2021-01-24 09:25:32",
+        "replyContent": "Hi Tera, thank you for the positive review. Our team is busy, but we always put the people of Colorado first! I'll share your review with the support team.",
+        "repliedAt": "2021-01-25 22:00:41"
+    },
+    {
         "reviewId": "gp:AOqpTOHOZo2u_SJx5tVCKH-lC7jmOgjLkF8i3evFlfcHp8A0M2PsDZ9SUCCmk8ako3UpErT7lQb6M5Et9oIC8A",
         "userName": "Maria Newlon",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhLeCKlDBHRYr8r3KIpdx9HKPbVQCXlhu7n6SXd8Q",
@@ -8,8 +68,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2021-01-23 05:00:56",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Maria, thank you for the positive review! We think myColorado is pretty awesome, too. :-)",
+        "repliedAt": "2021-01-25 22:00:15"
     },
     {
         "reviewId": "gp:AOqpTOEiGtrEvLCEnKbJsjH5JTEAEoqyE0TuTcP9GZ76iPjz24h0DOmUwLQ2kUt-rozWqYvtIWI7XqgExqtcMg",
@@ -20,8 +80,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.0",
         "at": "2021-01-23 01:48:13",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Tom, I am sorry you had issues with the app. Please contact our support team at myColorado@state.co.us and they can help.",
+        "repliedAt": "2021-01-25 22:00:03"
     },
     {
         "reviewId": "gp:AOqpTOFBp_wqr1F-AsdbLOy3jDxQBtWn8zOGeuMaOezByxNet8vu1C0gunrZfT80ucSimGr7V6Py-mpkbL_uxw",
@@ -32,8 +92,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.0",
         "at": "2021-01-21 18:37:09",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Adrien, thank you for the positive review! We are excited to be a leader in Digital ID innovation!",
+        "repliedAt": "2021-01-25 21:59:53"
     },
     {
         "reviewId": "gp:AOqpTOFHOR_jXpHE5s6WRnQTjHTMP7sy_7HhJvM76h4tDdPl4dr1oGO06ud9yafwEOs60BgmP6ziBlvk29BVRQ",
@@ -44,8 +104,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2021-01-20 21:56:38",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Janie, thank you for the positive review!",
+        "repliedAt": "2021-01-25 21:59:42"
     },
     {
         "reviewId": "gp:AOqpTOHesC1fYCnj69_eIZGuhefL9_pU1DzvwO2o_VpQjUFejHQX_x4GJ_REZ1lQXixh83SKrKepKIhNkN0qPw",
@@ -56,20 +116,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.0",
         "at": "2021-01-19 04:33:16",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOEyAGV67axSxB9g7aT__-urAFEVuecJ8br8Ilhh-coTA_6lzGKxFxuz6YyLhX1UD6H6S1Gz1uz61dRJAA",
-        "userName": "Drew Callion",
-        "userImage": "https://play-lh.googleusercontent.com/-hiL0Je3qBIM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnfVvwGQ-5djUB5OIA4gruNiucGwQ/photo.jpg",
-        "content": "App is broken. App crashes when scanning ID to create account. (tested on multiple devices)",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "4.0",
-        "at": "2021-01-18 23:42:02",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Manuel, thank you for the positive review!",
+        "repliedAt": "2021-01-25 21:59:34"
     },
     {
         "reviewId": "gp:AOqpTOHBbGMVz4WVg6mKqoufCmtTyCfBCDxlK0BijpO-n-os8KyRIxHA-ShXUYLDkt6YoSvMoiuPaHgEa1cduw",
@@ -80,20 +128,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.0",
         "at": "2021-01-18 19:42:16",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOEmp7ARvfrPPcEvf0qeq2jD1IPJCrVIsrhGJWj_UU_83ZqnNqPhBwHj2wijaA40FEaWGFft-JrqdHiPGg",
-        "userName": "Ray Soubeyroux",
-        "userImage": "https://play-lh.googleusercontent.com/-vMB10K1eVL8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm7oQp9u7MI8yUueciVYp53LGXd5g/photo.jpg",
-        "content": "Application won't scan my colorado ID, crashes on account creation.",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "4.0",
-        "at": "2021-01-17 01:20:23",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Sharon, thanks for the positive review!",
+        "repliedAt": "2021-01-25 21:59:01"
     },
     {
         "reviewId": "gp:AOqpTOFcj7tC-Sm7xTuntOeDHdN22JsbLbczW1cUSr09BUp9K4LpMhyPrv15wXf24DyHMvujlwfoYqsxUzq9rQ",
@@ -104,8 +140,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.0",
         "at": "2021-01-16 20:26:03",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Tyrone, thank you for the positive review!",
+        "repliedAt": "2021-01-25 21:55:39"
     },
     {
         "reviewId": "gp:AOqpTOHN9Wflg3ILI2sJsJ0yI9T4mhspd3HWr0BfPHXtEG3WpsRnQIeq67yhGKkHIVxK6H_3c8GSMWIbei4qkQ",
@@ -116,8 +152,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.0",
         "at": "2021-01-15 16:28:22",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Polly, thank you for the great review! Glad you're finding the app useful.",
+        "repliedAt": "2021-01-25 21:55:30"
     },
     {
         "reviewId": "gp:AOqpTOF5Js8VMxz_STFD7xK1qRazA4SbYTQ0vCtmmYzPTYe-qPsNIPJQ8W4nGau-5BqwnzRdKGUTJcdjr42uDw",
@@ -128,8 +164,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.0",
         "at": "2021-01-15 05:58:17",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Thomas, thank you for the positive review!",
+        "repliedAt": "2021-01-25 21:55:18"
     },
     {
         "reviewId": "gp:AOqpTOEkpCh0Gqt14XCNBPAhefeF2j0r3Df3XysgJ8jBtmHrbCMpQDGY2Dub734Ug172noAywsYw0ZhmtOF3Ng",
@@ -140,8 +176,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.0",
         "at": "2021-01-14 19:25:48",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi, we're happy you think the myColorado app is pretty cool. We do, too! Be on the lookout for additional features and an enhanced layout in the near future.",
+        "repliedAt": "2021-01-25 21:55:09"
     },
     {
         "reviewId": "gp:AOqpTOFjoSlWQapJOkruI5THkT_9HzbUMvS3vq-4GN5hkXtQD14hZg9sxaud-tdo2-i1vXisVdBgaIEwtGge3Q",
@@ -152,8 +188,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.0",
         "at": "2021-01-14 06:45:02",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Oz, thank you for the positive review. We are excited to be a leader in Digital ID innovation for now and future generations!",
+        "repliedAt": "2021-01-25 21:54:38"
     },
     {
         "reviewId": "gp:AOqpTOE-O4yNMnvcs584FeDc70EQUX0EMq9S6HZiY_ibUHQazZha3oXEI4VgPCsKfT9QBIN-DYQkJYmp0h7q0g",
@@ -164,8 +200,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.0",
         "at": "2021-01-12 01:43:44",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Adam, thanks for the positive review!",
+        "repliedAt": "2021-01-25 21:54:19"
     },
     {
         "reviewId": "gp:AOqpTOGJddBh22fikMd7DjqoQTlHct87PFNg8P4fymqi8DXohyK89bnfgqTnYnv2FtLj4zj8apn9RLHcmlmbcQ",
@@ -178,18 +214,6 @@
         "at": "2021-01-09 22:35:06",
         "replyContent": "Hello Gabriel. Thank you for the positive review!",
         "repliedAt": "2021-01-11 18:44:06"
-    },
-    {
-        "reviewId": "gp:AOqpTOHxE1gKRUVdwyqoq83lqqQBuo1AjoclEL7wNtBDfqs5uNyoAkaqOEBh1znueh7u9-zclFFbnrtaYSklzw",
-        "userName": "Tre Hoffman",
-        "userImage": "https://play-lh.googleusercontent.com/-aGVnSMp-Eq8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnwXhLXxzPyY4jHWYpcIIc0Ctf7ww/photo.jpg",
-        "content": "Unable to add digital ID due to a camera malfunction during the verification. Will rate again when issue is fixed.",
-        "score": 2,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "4.0",
-        "at": "2021-01-09 03:02:10",
-        "replyContent": "Hello Tre, thank you for your response. We're sorry that you experienced an issue with the facial recognition. Please contact our support team Monday - Friday from 8 am to 5 pm at myColorado@state.co.us or 303-562-9855 and they'll help troubleshoot.",
-        "repliedAt": "2021-01-11 18:44:29"
     },
     {
         "reviewId": "gp:AOqpTOF2n5W8T3yxccLQeVuOpha5Z2ZrQsiv8ZSJoa_qUYO8PltjT6AFhO88MxMlx1iri6pBblg_hMz-1KFOsw",
@@ -365,7 +389,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgFxokmySOPp7MOFmil1DKCVrFQyKhiCTE5onkN",
         "content": "This app is a good idea which is not ready for Prime Time. The app is hard to get set up. One can create an account, but then one needs the \"Authentication\" number which is supposedly emailed. I found that less than 10% of the time did I actually get an email. OK, fine, I eventually got one that worked, and got logged on. THE PROBLEM IS THAT IF YOU GET LOGGED OFF, YOU YOU NEED ANOTHER \"AUTHENTICATION\" EMAIL TO GET LOGGED ON AGAIN, AND THEY MOSTLY DON'T ARRIVE. In addition, this app is supposed to be able to be used on the roadside to touchlessly give one's info to a law enforcement officer. If the emails don't reliable arrive to a home with a fast wired connection, think what problems would arise on the side of a remote road somewhere in rural Colorado. And imagine telling a State Trooper \"just a minute, I'm waiting for the email.\" As long as the app requires an unreliable \"Authentication\" I certainly can't recommend it. Shouldn't authenticating once be enough? ADDENDUM: A comment on this review from the State of Colorado - Governor's Office of IT asked me to contact their tech support. I had previously done that - they said: \"When you created your account, Ping ID is used to pair your device. I am reaching out to our developers to confirm what email address is connected to your account. As soon as I have more information I will reach back out and let you know!\" After 12 days I have heard nothing. I contacted them again, with a copy of this review, and we'll see if they do anything this time. I know things are weird in this country right now, so I'm willing to patiently wait and see what happens. I'd really like them to address the issue of whether one actually has to do the \"Authentication\" every time one logs into the app, or if that's an error of some sort. Maybe they could comment on that here?",
         "score": 1,
-        "thumbsUpCount": 9,
+        "thumbsUpCount": 11,
         "reviewCreatedVersion": "4.0",
         "at": "2020-12-14 23:46:26",
         "replyContent": "Hi Dave, I am sorry you had issues with the app. Please contact our support team at myColorado@state.co.us and they can help.",
@@ -662,7 +686,7 @@
     {
         "reviewId": "gp:AOqpTOF05QvHgV4m-n2zn1ZNa20zO2zSxHz3dVPu7nHah0-ZyE4Mnn15-5AYJEExuG9QAWanfdPL3hvulRfx_Q",
         "userName": "Joey Gonzales",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi-rVwEkUUgJOEh2-xJS8yrpeGDss4bSNpbLfQelw",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhGaHuueUIOXn2bSjkOlZT7DvC8GFcCeTl7VURIYw",
         "content": "ID cracked this app took its place \ud83d\ude42",
         "score": 5,
         "thumbsUpCount": 0,
@@ -2654,7 +2678,7 @@
     {
         "reviewId": "gp:AOqpTOF52AFwOA8WlcipdToeKpz6rLuHpwxwlXjGukg2Ki_xUdT_7pBizbpP7xO_35ou8304VIMj8nfRabZrDg",
         "userName": "CodeName: Danksy",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj5FFpZELF4bLHc9e8zVDN6VOUgXXOce_xdL9gjQA",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgpH4_I2k9VxR_gRqAGgNQNNZhCul-it_cUSRKmXQ",
         "content": "Doesn't work legally as an ID, requires a current selfie and location. This is app is big brother. IT TELLS YOU IN THE APP THAT YOU STILL MUST CARRY ALL PHYSICAL DOCUMENTS. Its just not good. As a Polis voter I say avoid this",
         "score": 1,
         "thumbsUpCount": 1,

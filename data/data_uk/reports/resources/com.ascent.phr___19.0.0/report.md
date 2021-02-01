@@ -192,6 +192,10 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 <img src="5_star_reviews_wordcloud.png" alt="com.ascent.phr 5 reviews"/>
 </p>
 
+> very easy to use app<br> :date: __2021-01-27 17:11:33__
+
+> Good app for what I need it to do.<br> :date: __2021-01-26 23:53:19__
+
 > always reliable<br> :date: __2021-01-22 23:05:05__
 
 > great<br> :date: __2021-01-19 12:51:15__
@@ -207,10 +211,6 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 > very simple to use<br> :date: __2021-01-11 19:36:25__
 
 > excellent app<br> :date: __2021-01-09 10:10:24__
-
-> much better after they rewrote the app<br> :date: __2021-01-06 10:51:49__
-
-> very easy to operate. It's saves time for patients.<br> :date: __2021-01-05 10:20:11__
 
 
 
@@ -248,6 +248,10 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 <img src="3_star_reviews_wordcloud.png" alt="com.ascent.phr 3 reviews"/>
 </p>
 
+> It's OK, but the biometric login fails every time<br> :date: __2021-01-26 09:52:00__
+
+> I have not upgraded yet<br> :date: __2021-01-24 01:21:17__
+
 > sat<br> :date: __2021-01-11 13:20:41__
 
 > Not a bad app. a bit glitchy but OK.<br> :date: __2021-01-07 23:23:33__
@@ -264,10 +268,6 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 
 > bio security does not work fingerprint works on all apart from this the most important one<br> :date: __2020-12-20 11:56:14__
 
-> Was a good app to check, history, make appointments and order repeat prescription. But lately I can't log on keep saying password or login is incorrect. When I reset password it works from the email link. Also would be good if e-prescription pharmacy could be set when requesting prescription so you don't have to leave a message. If log in and prescription issue fixed would be happy to rate 5 star 😪<br> :date: __2020-12-18 01:11:37__
-
-> sometimes when they make changes, you have to spend time searching for the prescription ordering tab,which should be the most prominent thing on the site, not on a sub page<br> :date: __2020-12-17 17:41:11__
-
 
 
 #### 2-star reviews
@@ -275,6 +275,8 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="com.ascent.phr 2 reviews"/>
 </p>
+
+> Not been able to order a prescription for the last 6 months using app. Was fine before that.<br> :date: __2021-01-28 13:02:32__
 
 > login makes you go crazy and doesn't let you in<br> :date: __2021-01-22 13:09:48__
 
@@ -293,8 +295,6 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 > over complicated if all you want to do is order a repeat prescription.<br> :date: __2020-11-28 18:06:24__
 
 > doesn't allow to log in<br> :date: __2020-11-27 23:48:59__
-
-> Too many irrelevant pop up links when logging in making it difficult to get to the bit I need (repeat prescription). I can get through them but others may struggle<br> :date: __2020-11-27 13:54:02__
 
 
 

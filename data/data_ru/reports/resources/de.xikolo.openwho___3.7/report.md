@@ -198,6 +198,8 @@ No recent reviews available with 2 stars.
 <img src="1_star_reviews_wordcloud.png" alt="de.xikolo.openwho 1 reviews"/>
 </p>
 
+> Не понятно ничево<br> :date: __2021-01-29 12:39:36__
+
 > Ганр<br> :date: __2020-09-08 14:20:40__
 
 > Zor<br> :date: __2020-04-06 16:27:47__

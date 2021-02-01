@@ -1,5 +1,17 @@
 [
     {
+        "reviewId": "gp:AOqpTOFaAQ3QJ222jgjyLXKjWNU-eocs5eD7oRdCTyzOEF38LvBXqmgiukKMIFAusruqiYuss-R7n_rh80oOp4k",
+        "userName": "Un usuario de Google",
+        "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+        "content": "Cuando dec\u00eda de poner el SMS no lo tenia el c\u00f3digo I clicaba en el enlace y me volv\u00eda a la p\u00e1gina de n\u00famero de tel\u00e9fono por eso le doy 3 \u2734\u2734\u2734",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.6",
+        "at": "2021-01-26 19:49:07",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOFCeyC16q_REyV22bs9_D2fToMPEtRQY6VpZpnbSPsh5Dm8LAtIgkAIcMe9wYr86-nM3Zbcn49wntAHwAE",
         "userName": "Tome Atunes",
         "userImage": "https://play-lh.googleusercontent.com/-a5PjFJTzX94/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl9GrTKd4nN75r3JzW4RkCSGzHxqw/photo.jpg",
@@ -209,7 +221,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiWVdc_DdJ1BdTbQJ82ih6Nxi64kaFAviAJFx-Hrg",
         "content": "La app muestra el teclado y no desaparece al pinchar en siguiente. La forma de solucionarlo es pinchar en la apertura de aplicaciones abiertas y volver a entrar, pero arreglen ese bug.",
         "score": 3,
-        "thumbsUpCount": 10,
+        "thumbsUpCount": 12,
         "reviewCreatedVersion": "1.0",
         "at": "2020-04-06 14:49:58",
         "replyContent": null,

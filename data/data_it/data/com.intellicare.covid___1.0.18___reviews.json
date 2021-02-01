@@ -1,5 +1,65 @@
 [
     {
+        "reviewId": "gp:AOqpTOGZzjwUV_qktyyyWCXWSOSN6BDi1jbrxbkdAVhKxgyAW-DsMRtMUzr6tjlRJzxNl5LURFmAU23XE7vvdQ",
+        "userName": "Francesca Sparice",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjMsNv_sxEpUr5EGv6-y4ZCsB1fl3ptEQWJRVDVuQ",
+        "content": "Una volta effettuata la registrazione, non si apre.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.0.18",
+        "at": "2021-01-27 19:37:49",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGUt2FI4XUfDJiCW-cr_oR5gMATPTXGEDDFu-We2X1XJiCRg_P5KlS0AjF8VMoEYPYCraCQd1kzkMsyMg",
+        "userName": "Ferdinando Mazzini",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgEFe34yDzfNjkNySEMe0oW2iH-9h61-chzaeuy",
+        "content": "Servizio eccellente reso da personale paramedico e medico di indubbia professionalit\u00e0 e umanit\u00e0. Grazie ancora",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.0.18",
+        "at": "2021-01-27 17:13:36",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOG7j_ChQsFOq2nz6lyt9QkE0jfCkzhfXksRrCor9P-ZNiFgvy_eac6Eyzu121qnFqNaho4rvjCm_S-11A",
+        "userName": "Stefano Richichi",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiNiAK8RsJJFO4NK66_quI1Z_MxwK2mh8sdqaOi",
+        "content": "La app nella ultima release ha difficolt\u00e0 a scaricare le misurazioni gi\u00e0 inserite e ad aggiungerne nuove: entra in loop",
+        "score": 2,
+        "thumbsUpCount": 4,
+        "reviewCreatedVersion": "1.0.18",
+        "at": "2021-01-27 10:08:17",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOG6EG44Bo539xyLnbclsdF9_9gLnuVvLfiO6qXdbGQv0DLgQRtEApiOncjBDxmlqDPXJYm1oNIpFiK7BA",
+        "userName": "Gianluca Vitiello",
+        "userImage": "https://play-lh.googleusercontent.com/-esJa_P2qUa8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnuWbwGuoBwdsTDl-GAZhiF13CJJA/photo.jpg",
+        "content": "Fatta la seconda dose di vaccino non ha l'upgrade che consenta di scansionare il qr code per ottenere il passaporto vaccinale.. Al numero verde non risponde nessuno!",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.0.18",
+        "at": "2021-01-26 16:18:58",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOEszhHAsydoMY1ufIUqmc-7VqOXPz26aXHnPv0nzoyoSdk2TkQHklIb2YGaRYPrfIKfgWg0IdFFZ-Nwfg",
+        "userName": "Ilonah70",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjmCi2Qc8186J1N80ZVrVC94P3BmKbHn-RjGdSu",
+        "content": "Scaricata appena uscita, ora che mi serve, nemmeno si apre. 24/1/21 contattata dal gestore dell'app, che consigliava di reinstallare l'app. Nel frattempo, \u00e8 uscito il nuovo aggiornamento e l'app funziona di nuovo. Do 4 stelle, perch\u00e9 credo sia un servizio utile, ma non ho avuto il modo di sperimentarlo, in quanto, al momento, non ne ho la necessit\u00e0.",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.0.18",
+        "at": "2021-01-24 15:20:11",
+        "replyContent": "Potrebbe gentilmente inviare mail all'indirizzo lazioadvice@regione.lazio.it indicato il suo cell e puntualmente le problematiche riscontrate? grazie\n",
+        "repliedAt": "2021-01-18 14:36:54"
+    },
+    {
         "reviewId": "gp:AOqpTOHrsnpi9HS6g7wohW-wPVNcRILowTjc6REKRLBZPmapnqwQOkI8Envlr-iYGVnvdWYcY4N-8dwJepciFA",
         "userName": "giuseppe molinari",
         "userImage": "https://play-lh.googleusercontent.com/--3Ph2lqhyVY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm_KOGXPimauWSWKpJ7H6pgmUM2Ow/photo.jpg",
@@ -46,18 +106,6 @@
         "at": "2021-01-18 15:11:07",
         "replyContent": null,
         "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOEszhHAsydoMY1ufIUqmc-7VqOXPz26aXHnPv0nzoyoSdk2TkQHklIb2YGaRYPrfIKfgWg0IdFFZ-Nwfg",
-        "userName": "Ilonah70",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjmCi2Qc8186J1N80ZVrVC94P3BmKbHn-RjGdSu",
-        "content": "Scaricata appena uscita, ora che mi serve, nemmeno si apre",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.0.17",
-        "at": "2021-01-15 21:04:50",
-        "replyContent": "Potrebbe gentilmente inviare mail all'indirizzo lazioadvice@regione.lazio.it indicato il suo cell e puntualmente le problematiche riscontrate? grazie\n",
-        "repliedAt": "2021-01-18 14:36:54"
     },
     {
         "reviewId": "gp:AOqpTOFzr4RNp_-kBFzNcbw_gJrr5LYWLpJWgaGSMI7UWspw9p4orXK2BgQ6qLLqQxnzGMZNo-bkfoXRFBr93A",
@@ -1250,7 +1298,7 @@
     {
         "reviewId": "gp:AOqpTOGrqDWIJUIpUzXdHwWp3NzohjIo8c4fRwot-SOSlAKzNWmVWsiDiASADf8PbMv0OTiA9m-6C709eYPACg",
         "userName": "laura mazzaglia",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiRPvK-dO7bVVkW0mQTCTrkhqzRv1GUEStseeGTHoI",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhhB7uJMA-kTS5Y86XmN092JjoDP2RTiLxhpGE2NQw",
         "content": "Mi arriva un messaggio che dice che sono registrata con altro numero, ma io ho sempre e soltanto avuto un unico numero di telefono che il sistema non, riconosce come il mio.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -2196,18 +2244,6 @@
         "repliedAt": "2020-04-04 20:07:12"
     },
     {
-        "reviewId": "gp:AOqpTOG7j_ChQsFOq2nz6lyt9QkE0jfCkzhfXksRrCor9P-ZNiFgvy_eac6Eyzu121qnFqNaho4rvjCm_S-11A",
-        "userName": "Stefano Richichi",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiNiAK8RsJJFO4NK66_quI1Z_MxwK2mh8sdqaOi",
-        "content": "L'ultima release non memorizza i dati inseriti precedentemente: ogni giorno bisogna daccapo registrarsi, confermare l'iscrizione e a quel punto compare l'intero diario clinico precedente!// I Promemoria non si possono inserire.// Oltretutto, mai s'\u00e8 pensato di introdurre la funzione di cancellare una lettura inserita male per sbaglio.//\u00c8 una follia il log in ogni volta con ogni credenziali: incrementate la sicurezza sui vs servers, altrimenti nessuno user\u00e0 pi\u00f9 la app - mai visto nulla di simile",
-        "score": 1,
-        "thumbsUpCount": 4,
-        "reviewCreatedVersion": "1.0.12",
-        "at": "2020-04-04 12:53:28",
-        "replyContent": "Gentile utente, per ragione di sicurezza, deve procedere, una volta scaduta la sessione, ad una nuova attivazione tramite SMS. Saluti",
-        "repliedAt": "2020-04-04 10:46:07"
-    },
-    {
         "reviewId": "gp:AOqpTOFpOL_R--tZ9esIMCEeyoqlS5m2koClEGW3njuI-94e-1Wqu0BiBVvroHy84iliuSCcORbsVh_xQjne2g",
         "userName": "Aurelio",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhICkwBksyZIwmRWfm6nUPFmNY-iUu4BIxzQWX_",
@@ -3049,7 +3085,7 @@
     },
     {
         "reviewId": "gp:AOqpTOHAneVAUhuwNK5v9yH8_RyplrMgJgWwEHiQTvUehzgytbL7OWbL0rwGY-SimEgF5rrJgnANH2NB_P6FwQ",
-        "userName": "Mi Ca",
+        "userName": "JeVa",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhoZTB6JehxvHrcLCMpXZGk7j8AhvPzV88qpAN1",
         "content": "Sono giorni che sto cercando di effettuare il login, nessuna email mi \u00e8 ancora arrivata. Va bene che abbiamo tanto tempo da perdere, ma inserire 10 volte le credenziali per non avere ancora nessuna risposta, mi chiedo perch\u00e9 fate le applicazioni se poi non funzionano? Mi sembra che si stiano tutti lamentando.",
         "score": 1,
@@ -5633,7 +5669,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-XY_cpLRi0Q4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmErb90VmS9VTc-lJUsDXyq890khw/photo.jpg",
         "content": "App macchinosa e non \u00e8 concepibile partire da andrioid 7.0 in quanto viene escluso circa il 20% dei possessori di android quindi dei cittadini . Questo x covid non ASSOLUTAMENTE concepibile. Ho provato a fare il test di valutazione ma non funziona, non mi fa fare l'invio",
         "score": 1,
-        "thumbsUpCount": 19,
+        "thumbsUpCount": 18,
         "reviewCreatedVersion": "1.0",
         "at": "2020-03-18 21:27:17",
         "replyContent": "Gentile Dott. Padiglione, siamo impegnati nel dare assistenza ai nostri utenti per migliorare il servizio, compreso  l'ottimizzazione del servizio per migliorare la platea degli utilizzatori. Se ha contributi costruttivi o necessit\u00e0 di assistenza specifica pu\u00f2 inviare mail al seguente indirizzo  lazioadvice@regione.lazio.it. Cordiali Saluti",
@@ -6026,7 +6062,7 @@
     {
         "reviewId": "gp:AOqpTOH1-keGf4-9Ag1ERKQn6vl5q6moKR_HIasGEA96jBkolcJyMbkgAPsRadecyO3Xy7qzaL9HcpNiBk5olw",
         "userName": "Alessio Pacifici",
-        "userImage": "https://play-lh.googleusercontent.com/-neQps9CH70A/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl4_1XnXxHtbO3VDxpZIZZwdkFGqg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiNEAOuDZa-1tTlfRIixOnLmgNOIR01t1VrAy7eeg",
         "content": "Autovalutazione con problemi di visualizzazione.",
         "score": 1,
         "thumbsUpCount": 0,

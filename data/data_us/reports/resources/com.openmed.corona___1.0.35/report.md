@@ -204,7 +204,9 @@ No recent reviews available with 2 stars.
 #### 1-star reviews
 
 <p align="center">
-
+<img src="1_star_reviews_wordcloud.png" alt="com.openmed.corona 1 reviews"/>
 </p>
 
-No recent reviews available with 1 stars.
+> Don't like it wanted to charge me for a covid19 test when it's all free and asked to much personal information<br> :date: __2021-01-28 10:30:39__
+
+

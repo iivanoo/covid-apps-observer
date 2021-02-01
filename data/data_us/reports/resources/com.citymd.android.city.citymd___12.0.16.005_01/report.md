@@ -190,6 +190,10 @@ The CityMD app has been installed by more than **10000** times. At this time, **
 <img src="5_star_reviews_wordcloud.png" alt="com.citymd.android.city.citymd 5 reviews"/>
 </p>
 
+> Great<br> :date: __2021-01-28 18:34:23__
+
+> Just what I needed when I needed it. Thank God for technology!<br> :date: __2021-01-26 16:31:42__
+
 > I love City MD app and the service is quick.<br> :date: __2021-01-21 16:13:20__
 
 > Awesome<br> :date: __2021-01-20 22:56:48__
@@ -205,10 +209,6 @@ The CityMD app has been installed by more than **10000** times. At this time, **
 > Awesome<br> :date: __2020-12-20 20:03:12__
 
 > Didnt want to go out in the snow but also couldnt continue dealing with strep throat and this was the perfect solution. The app even suggested pharmacies that will deliver my prescription. I'm so grateful I found this solution!<br> :date: __2020-12-19 19:12:15__
-
-> Excellent. Knowledgeable, empathetic, pleasant.<br> :date: __2020-12-14 19:42:50__
-
-> Luv it 🤩 and convient!<br> :date: __2020-12-07 23:28:03__
 
 
 

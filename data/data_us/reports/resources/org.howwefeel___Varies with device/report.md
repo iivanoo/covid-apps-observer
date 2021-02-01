@@ -176,6 +176,8 @@ The HowWeFeel: The How We Feel Project app has been installed by more than **100
 <img src="5_star_reviews_wordcloud.png" alt="org.howwefeel 5 reviews"/>
 </p>
 
+> Part of my daily routine<br> :date: __2021-01-27 13:56:39__
+
 > Easy to use and no glitches.<br> :date: __2021-01-15 11:07:21__
 
 > I like how this app has you do a self awareness check on yourself. It ask you the important questions of how do you feel, what worries do you have. When I see how I responded to specific questions I'm aware of what I may need to keep an eye on. Especially since I'm medically high risk for COVID.<br> :date: __2021-01-14 21:46:51__
@@ -193,8 +195,6 @@ The HowWeFeel: The How We Feel Project app has been installed by more than **100
 > I enjoy this app,the positivity helps your physical capacity to continue to stay home and wear mask outside!<br> :date: __2020-12-29 01:21:12__
 
 > I like checking in<br> :date: __2020-12-23 04:48:36__
-
-> makes my feelings feel valid<br> :date: __2020-12-23 02:01:59__
 
 
 
@@ -260,6 +260,8 @@ The HowWeFeel: The How We Feel Project app has been installed by more than **100
 <img src="2_star_reviews_wordcloud.png" alt="org.howwefeel 2 reviews"/>
 </p>
 
+> I enjoy helping in this way. It also brings an awareness of our health and a reminder to follow the Guidelines. Gov Baker advised people should be getting out, enjoying a short ride or walking to the park. Not sure where this app went.<br> :date: __2021-01-27 07:29:02__
+
 > Is the app still useful???? Since a week ago, I don't receive the information of how many people are not feeling well, and the number that are good is really low!! So I became to doubt about the information is true. Also, if this app is really useful for medical purposes you're missing the people with asthma and high blood pressure. Hope to improve the app, or is it the time to delete it?? Thanks.<br> :date: __2020-11-25 15:26:38__
 
 > Update broke the app. Unable to open.<br> :date: __2020-10-26 13:37:49__
@@ -277,8 +279,6 @@ The HowWeFeel: The How We Feel Project app has been installed by more than **100
 > App WAS a good tool, but after almost 190 days, it no longer opens and keeps throwing error messages throughout the day. I've appreciated the tracking for the past several months, but it looks like it's time to uninstall.<br> :date: __2020-10-10 06:06:13__
 
 > I have had to delete and reinstall the app twice now. Each time I lost all the history. The app is dynamic and keeps changing some things that were easy to read and understand are now hard to interpret. some days the app will have me check in more than once and the history will still be blank for that day.<br> :date: __2020-09-20 04:30:10__
-
-> This app used to be a super-quick check-in every day, but now, over the past week or so it's usually excruciating slow, freezes, the starts over. I'm happy to help, but most of the time now it's an exercise in frustration<br> :date: __2020-09-14 07:18:23__
 
 
 

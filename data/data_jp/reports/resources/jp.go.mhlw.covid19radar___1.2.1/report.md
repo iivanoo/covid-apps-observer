@@ -235,6 +235,10 @@ The COCOA - COVID-19 Contact App app has been installed by more than **5000000**
 <img src="1_star_reviews_wordcloud.png" alt="jp.go.mhlw.covid19radar 1 reviews"/>
 </p>
 
+> Never worked. Always asking for permission for bluetooth even after given.<br> :date: __2021-01-28 02:43:34__
+
+> Tests for covid don't exist. It's a farse. This bs is all about fear and control<br> :date: __2021-01-26 02:03:14__
+
 > No network same as others on here?? Try again in Japan later<br> :date: __2021-01-22 07:51:16__
 
 > Cant install<br> :date: __2021-01-17 19:40:11__
@@ -250,9 +254,5 @@ The COCOA - COVID-19 Contact App app has been installed by more than **5000000**
 > I cannot register, maybe not yet as Im before travel to JPN. I'm still in GER. To enter to JPN I'm requested to install, but I wonder if it will work if I cannot register.<br> :date: __2020-11-23 00:03:21__
 
 > 更新データの量が多すぎる。もっとスマートにしろ、変な機能付けようとするな！<br> :date: __2020-11-08 05:00:42__
-
-> Network error during installation after accepting the terms. Why make such a half baked app mandatory to install?<br> :date: __2020-10-22 17:54:47__
-
-> It does not perform exposure checks no matter what I do. 0 checks in 14 days. I have my Bluetooth on 24/7 and have ensured the app runs in the background.<br> :date: __2020-10-12 07:06:18__
 
 

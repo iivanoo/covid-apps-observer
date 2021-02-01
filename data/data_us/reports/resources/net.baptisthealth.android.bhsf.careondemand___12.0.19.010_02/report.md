@@ -202,6 +202,8 @@ The Baptist Health Care On Demand app has been installed by more than **50000** 
 <img src="5_star_reviews_wordcloud.png" alt="net.baptisthealth.android.bhsf.careondemand 5 reviews"/>
 </p>
 
+> Very quick and accurate<br> :date: __2021-01-24 19:50:29__
+
 > Always a pleasure, the doctor's are so sweet and kind and even chatted to get to know me and shared a piece of their life making us relatable and all of us are human and these day's things seem harder and this service saves my mind and body by not having to leave my home for something "simple" they can help me with online. Thank you doctor's and staff! Keep up the great work!!! And stay healthy!<br> :date: __2020-12-22 03:29:16__
 
 > Great, safe and easy way to get the best care possible.<br> :date: __2020-12-08 20:42:55__
@@ -219,8 +221,6 @@ The Baptist Health Care On Demand app has been installed by more than **50000** 
 > Good doctors and good health professionals<br> :date: __2020-10-25 05:38:09__
 
 > Great app!<br> :date: __2020-10-22 23:35:36__
-
-> Amazing!<br> :date: __2020-10-17 22:10:08__
 
 
 

@@ -274,6 +274,8 @@ The Smittestop app has been installed by more than **500000** times. At this tim
 <img src="1_star_reviews_wordcloud.png" alt="com.netcompany.smittestop_exposure_notification 1 reviews"/>
 </p>
 
+> I very much doubt it works at all. Issued me with an alert after I had been at home on my own for several days. My wife gets alerts several times every week and is only in contact with people within our bubble who doesn't even use the app. Completely random. Maybe it's just a trick so that people go and get tested. Would be great if they could give you the date and time of when you were potentially exposed, because then it's very easy to figure out if it works or not.<br> :date: __2021-01-26 06:10:04__
+
 > Great idea, poor executiom<br> :date: __2021-01-21 21:31:27__
 
 > Doesn't work. Was infected can't share my results. Is not getting notifications about close to infected person (wife, who could share it). Just draining power from my phone.<br> :date: __2021-01-20 06:55:34__
@@ -291,7 +293,5 @@ The Smittestop app has been installed by more than **500000** times. At this tim
 > A lot of useless notifications to open app and about bluetooth<br> :date: __2021-01-14 17:21:04__
 
 > Get this away from me.<br> :date: __2021-01-13 17:49:17__
-
-> Since the latest update I've had a permanent notification saying "Smittestop is downloading information...". It cannot be removed, and I can not even extend it to read what it says in full. I have also never received a notification from the app even though I have been close to a person who declared himself positive.<br> :date: __2021-01-13 16:22:42__
 
 

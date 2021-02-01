@@ -218,6 +218,8 @@ The Covidom Patient app has been installed by more than **10000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="fr.aphp.covidom 1 reviews"/>
 </p>
 
+> Vraiment pas pratique ! Avec Bac+5 j'ai du réfléchir quelques heures pour appréhender la logique. Un covidé de 70 ans doit paniquer 😪<br> :date: __2021-01-24 06:43:13__
+
 > Je n'arrive pas à m'inscrire<br> :date: __2020-12-18 12:12:57__
 
 > n'est peu pas accepté mon date de naissance<br> :date: __2020-12-17 17:26:33__
@@ -235,7 +237,5 @@ The Covidom Patient app has been installed by more than **10000** times. At this
 > Une fois installée je n arrive pas à voir les documents. Donc impossible de remplir les documents.<br> :date: __2020-10-27 14:15:54__
 
 > Application nulle, je n'arrive pas à me connecter.<br> :date: __2020-10-26 14:04:39__
-
-> Impossible de me connecter : me demande ma date de naissance pour confirmer et me dit qu'elle ne correspond pas !!!<br> :date: __2020-10-16 13:42:32__
 
 

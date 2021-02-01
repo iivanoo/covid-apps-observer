@@ -246,6 +246,8 @@ The Canada COVID-19 app has been installed by more than **100000** times. At thi
 <img src="1_star_reviews_wordcloud.png" alt="ca.gc.hcsc.canada.covid19 1 reviews"/>
 </p>
 
+> Useless<br> :date: __2021-01-29 01:13:28__
+
 > The Johns Hopkins website has much more current data about Canada, which is disconcerting. Otherwise it's nothing but advice to stay home and wash your hands. Good advice, but no data = not useful. Edit: Kept it on my phone in case it became more useful. It didn't. Have now deleted it.<br> :date: __2021-01-17 15:10:02__
 
 > 0 The app shuts down before being completed.<br> :date: __2021-01-14 21:24:38__
@@ -263,7 +265,5 @@ The Canada COVID-19 app has been installed by more than **100000** times. At thi
 > "Application error" ...not working<br> :date: __2020-12-27 02:00:19__
 
 > Update to previous post: I uninstalled after clearing data, rebooted phone and reinstalled. As soon as I selected my province I got the "app encountered a error" again. So I got rid of it.<br> :date: __2020-12-26 17:18:38__
-
-> All of a, sudden its crashing every time I open it. It was fine yesterday. I don't suppose an upgrade kludged it?<br> :date: __2020-12-26 03:49:28__
 
 

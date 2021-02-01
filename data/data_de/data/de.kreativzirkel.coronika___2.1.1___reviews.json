@@ -1,5 +1,17 @@
 [
     {
+        "reviewId": "gp:AOqpTOExra996iJQ8qQ8jwrP9RAsz_9f_yUCELkxq6iYFuFioUTb3angHA-zgQZWRvoQoXdPawwlO1_wEatteA",
+        "userName": "Alfons K\u00f6nig",
+        "userImage": "https://play-lh.googleusercontent.com/-4AfPGm0apBI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnfZ0Ri58M-OD6R3ZNZkDf20EhFEQ/photo.jpg",
+        "content": "Top",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.1.1",
+        "at": "2021-01-27 19:52:09",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOELfa1YH9RYxEgLVNGqlMLCmDoGe2K6GHBnjgsBq7SlWNjZQer9OAjaSQnUhsxmkfcvhAsmEPi_-nIjOQ",
         "userName": "Thomas Klee",
         "userImage": "https://play-lh.googleusercontent.com/-DxiLt8KChik/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn_SAtiTSEbBC1SabxWKhk6UzQHSQ/photo.jpg",
@@ -77,7 +89,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhykkZAgFmoNW1-uNWpfoGkARBVgyZRZv1ZCKVaIg",
         "content": "Die App ist bis auf die wichtige Export-Funtkion wirklich toll! Ein Mitarbeiter beim Gesundheitsamt sagte mir, dass er die Informationen, die man in der App angibt (gel\u00fcftet, Abstand, Maske etc.), gut h\u00e4tte gebrauchen k\u00f6nnen, um individuelle Quarant\u00e4ne Ma\u00dfnahmen anzuordnen. Ich f\u00e4nde es daher super, wenn das auch im Export angegeben werden w\u00fcrde. Man m\u00fcsste dann wahrscheinlich jede Begegnung einzeln abbilden (\u00e4hnlich wie es bei der Export-Funktion der Corona-Warn-App der Fall ist).",
         "score": 4,
-        "thumbsUpCount": 3,
+        "thumbsUpCount": 4,
         "reviewCreatedVersion": "2.1.1",
         "at": "2021-01-02 20:39:15",
         "replyContent": null,
@@ -1085,7 +1097,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-v-5ekSJrbpQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnxH6S8ncFRU6xdCajQ2JuuqsAQzg/photo.jpg",
         "content": "Sehr einfache und sinnvolle App, vielen Dank daf\u00fcr! Edit: Wo gibt es das: Man vermisst eine Funktion, schreibt das in die Rezension und gibt 4 Sterne. Noch am gleichen Tag erh\u00e4lt man eine pers\u00f6nliche R\u00fcckmeldung. Und eine Woche sp\u00e4ter liefert der Entwickler ein Update mit genau dieser Funktion! DANKE und ab sofort 5 Sterne!!!",
         "score": 5,
-        "thumbsUpCount": 11,
+        "thumbsUpCount": 10,
         "reviewCreatedVersion": "1.7.0",
         "at": "2020-11-04 19:29:54",
         "replyContent": "Hallo Martin Huber, vielen Dank f\u00fcr Ihr Feedback. Wir werden das in einer zuk\u00fcnftigen Version ber\u00fccksichtigen. Bleiben Sie gesund!",
@@ -2113,8 +2125,8 @@
     },
     {
         "reviewId": "gp:AOqpTOHAn8u3OdebpM-fniQJCaUIWRbqkVrqTFVJmiSGf0jndLElsmyGPE7OUjMfO_UwXpiSNuDe1dWMHg5sCA",
-        "userName": "Dein Vater",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgvKTfpktLsmRnoxidXTH2WwwQGJOTjV787o0wHfko",
+        "userName": "Yaron Zizil",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi466gQKhcxLAl3JEFoAD_1dxDQJEpSu1alT8ewZb4",
         "content": "Gute App, leicht zu handhaben",
         "score": 5,
         "thumbsUpCount": 0,
@@ -2378,7 +2390,7 @@
     {
         "reviewId": "gp:AOqpTOGGEN07zsi0iIhYgUEjekha1bK3hBvB9e7LRsLIdhbRlwS7MtUqFgifl8aHOMNEbQRqYod2-whspk_VkA",
         "userName": "Sascha Loman",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgxIzhmtaY99s-30jm0Jr62scARMEuEQ-dWP7Nufg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjIxWeFGicXiEkZ8CzeLBdbhOFJvVJ4_3YJ8EkNZQ",
         "content": "Verbesserungsvorschl\u00e4g App sollte funktionieren auch ohne Smartwatch und Fitnessarmband.",
         "score": 2,
         "thumbsUpCount": 0,

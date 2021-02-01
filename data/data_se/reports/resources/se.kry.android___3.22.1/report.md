@@ -190,25 +190,25 @@ The Kry – See a Doctor by Video app has been installed by more than **500000**
 <img src="5_star_reviews_wordcloud.png" alt="se.kry.android 5 reviews"/>
 </p>
 
+> Gd customer service<br> :date: __2021-01-29 13:53:03__
+
+> Great experience, I would definitely recommend!<br> :date: __2021-01-26 22:13:45__
+
+> Mycket nöjd<br> :date: __2021-01-26 11:14:35__
+
+> Snabb och effektiv hjälp<br> :date: __2021-01-26 09:26:49__
+
+> Thank the heavens we have Kry in Sweden.<br> :date: __2021-01-24 13:28:02__
+
+> Absolutely delightful app. Medical help right at your phone.<br> :date: __2021-01-23 19:56:54__
+
+> Very helpful I love kry<br> :date: __2021-01-23 19:23:09__
+
 > Really quick and nice advice by doctors<br> :date: __2021-01-21 20:02:58__
 
 > Great experience every time I tried Kry. Specially during Covid times, its a great help.<br> :date: __2021-01-20 17:55:42__
 
 > Great experience! I got an appointment very quickly. The doctor was kind and helpful. Would definitely recommend for non-critical GP consulting. (Especially to encourage social distancing by avoiding cramped waiting rooms)<br> :date: __2021-01-20 17:52:35__
-
-> Best<br> :date: __2021-01-20 12:48:40__
-
-> Excellent concept, fast help, good advice, app works well!<br> :date: __2021-01-20 11:56:41__
-
-> Snabb återkoppling. Väldigt trevlig bemötande ❤️❤️❤️❤️❤️❤️<br> :date: __2021-01-20 11:47:31__
-
-> Keep it up<br> :date: __2021-01-18 12:46:43__
-
-> 🙏<br> :date: __2021-01-17 23:51:42__
-
-> Enkelt, snabbt och trevlig läkare 👍<br> :date: __2021-01-13 12:34:35__
-
-> Perfect<br> :date: __2021-01-08 09:59:31__
 
 
 

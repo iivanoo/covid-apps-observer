@@ -141,6 +141,8 @@ The Protect Scotland app has been installed by more than **500000** times. At th
 <img src="5_star_reviews_wordcloud.png" alt="gov.scot.covidtracker 5 reviews"/>
 </p>
 
+> first class<br> :date: __2021-01-28 13:58:10__
+
 > Just started using<br> :date: __2021-01-22 19:13:26__
 
 > Ok<br> :date: __2021-01-18 21:21:49__
@@ -159,8 +161,6 @@ The Protect Scotland app has been installed by more than **500000** times. At th
 
 > Vital<br> :date: __2021-01-14 07:56:12__
 
-> Easy to set up<br> :date: __2021-01-13 23:03:59__
-
 
 
 #### 4-star reviews
@@ -168,6 +168,8 @@ The Protect Scotland app has been installed by more than **500000** times. At th
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="gov.scot.covidtracker 4 reviews"/>
 </p>
+
+> Excellent. Many thanks for making this app which keeps us all safer and aware.<br> :date: __2021-01-27 22:28:42__
 
 > Updating review,,,track and trace provided me with new code which worked within the app. Will say I have been in contact with two people who tested positive but had no notification through app but dont know if they inputted the code 🤔<br> :date: __2021-01-20 13:31:05__
 
@@ -186,8 +188,6 @@ The Protect Scotland app has been installed by more than **500000** times. At th
 > I haven't had to use it so far<br> :date: __2020-11-26 23:25:03__
 
 > Just downloaded the app, some folk saying you dont need to turn on location but the app says I have to keep both location and bluetooth on. Glad we have a safe app here in Scotland! 🏴󠁧󠁢󠁳󠁣󠁴󠁿<br> :date: __2020-11-18 14:51:54__
-
-> I have not, thankfully been exposed to anyone who have tested positive for covid, but I have friends who use this app who have. From listening to them and hearing their experience proves that the Scottish app works<br> :date: __2020-11-15 03:26:08__
 
 
 
@@ -253,6 +253,16 @@ The Protect Scotland app has been installed by more than **500000** times. At th
 <img src="1_star_reviews_wordcloud.png" alt="gov.scot.covidtracker 1 reviews"/>
 </p>
 
+> Unless you book a test through the app you cannot get a code to put in so it is near enough useless<br> :date: __2021-01-29 10:00:14__
+
+> Useless<br> :date: __2021-01-28 09:25:38__
+
+> Exposure checks stopped a while back, despite havin the updated version. Uninstalled & re-installed - checks restarted but stopped again. Switched bluetooth off & on to nudge checks back into action. Only works for a while. Emailed app developer weeks ago but no response. Utterly useless app which fails to address serious need for which it was meant; shortcomings could turn out to be lethal for anyone relying on its proper function as a layer of protection against Covid spread.<br> :date: __2021-01-27 21:46:16__
+
+> Would be nice to be informed that app required updating to work!? Meanwhile I've been working not knowing anything ffs!! 😡🤬<br> :date: __2021-01-27 09:49:39__
+
+> Pathetic even worse than the English one We are all Doomed 🙄👻👻🥴👻<br> :date: __2021-01-25 19:22:45__
+
 > I have 4 matches in the last 13 days when I check exposures but I have had no alerts? I work in retail so around thousands of people a day so could have it and be spreading it without knowing 😣<br> :date: __2021-01-22 01:42:23__
 
 > Waste of time. I tested positive so asked for a code to enter into the app but track and trace said I didn't need one as I would be self isolating and wouldn't be in contact with anyone. So what is the point of this app?<br> :date: __2021-01-21 20:50:31__
@@ -262,15 +272,5 @@ The Protect Scotland app has been installed by more than **500000** times. At th
 > Basic and unreliable<br> :date: __2021-01-20 09:49:48__
 
 > They are liars and protecting the big corporations helping them make a lot of money<br> :date: __2021-01-18 20:38:27__
-
-> Stopped checking in the background, So what is the point in the install now? Now they removed your ability to see the checks it made...this is awful.<br> :date: __2021-01-18 18:57:59__
-
-> Exposure notification has not been updated since the 8th of December. This is the 31st at time of writing. I assume for 23 days i have had no protection from this app. Seems absolutely pointless. The latest update has removed the time stamp of the last exposure notification so it is now impossible to know if this app actually even works as it should. There has been no reply from the developer, so i have to assume it does not, deleted.<br> :date: __2021-01-18 12:37:15__
-
-> I download all updates but app is not checking for exposure.<br> :date: __2021-01-17 12:33:38__
-
-> The app has stopped performing checks. Go into your phone's settings, find and check your Covid Exposure Notifications section, and make sure your app is making checks. Mine hasn't done any in at least 2 weeks, probably much longer. Asked a friend with a totally different model of phone to check theirs - same issue. I emailed the app developers a week ago, no reply. Looks like I'm not the only one judging by these reviews either. Edit:16/01 still not working. Just gonna delete this app til fixed<br> :date: __2021-01-16 13:25:52__
-
-> Started using the app but I cannot input a test code?<br> :date: __2021-01-15 08:57:35__
 
 

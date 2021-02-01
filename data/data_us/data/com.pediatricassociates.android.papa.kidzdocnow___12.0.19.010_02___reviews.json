@@ -1,5 +1,65 @@
 [
     {
+        "reviewId": "gp:AOqpTOHvq5bgw4dKFdczgH0FuOVkw2JD7DhP5_IunoZu1TJ4_WwkXSvma0O5MTQDWuOUhHF8Kah5nD2Xgie5gO0",
+        "userName": "Valease Spann",
+        "userImage": "https://play-lh.googleusercontent.com/-f_wrbVisEXk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl-sYrvcKW5incDjlnXXp-JLFTFng/photo.jpg",
+        "content": "The Doctor was very nice and knowledgable!",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "12.0.19.010_02",
+        "at": "2021-01-28 16:13:55",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHEWRDWsJLQ3xhsyIvmPTOwcKryZ7l8jlv4ZE7jBOKBIc836sl1E6ZGi60dvaywLz9-ktbmgF4GCzdmUJU",
+        "userName": "Carolyn Porter",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjLl8uOjTgHH1e9npWw8iVhAIhVZCW0f7Atvax_hA",
+        "content": "Easy to navigate, worked flawlessly.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "12.0.19.010_02",
+        "at": "2021-01-28 00:43:13",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGZmpPrMNQ0ojE91RG7THTY2MSs7faSeQUDV8Y9Wca1-IyC9lCB92uuh9KeTfbDe0obmrdIm_UFptyjzZ8",
+        "userName": "Junior Hayes",
+        "userImage": "https://play-lh.googleusercontent.com/-TtCkn2n7Aiw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmcoTpfOqEaKXleL5kUzIW9JWgf0w/photo.jpg",
+        "content": "Very convenient! My little girl didn't want to get out of bed and I didn't want to bring my son with me. You got to stay right at home and still got a doctor's visit. Love it.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "12.0.19.010_02",
+        "at": "2021-01-26 17:03:43",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOF6V-SIWcH60RqFou6GNSCELs1C7SKtr0s8fBniLNDVlo_QBhB2I5IpN3XZkOpaKrR-N32rpl1VF_Jkt7k",
+        "userName": "Trena Garcia",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjQVNRJbY00wjO6qC7NkniI8fx3Zw8Cq-GSpgnDFw",
+        "content": "Awesome!",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "12.0.19.010_02",
+        "at": "2021-01-25 18:18:30",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFYKHspPEQvafCxUhSIKBdaOvoH7SGvw3q_SIuiddn9HuFKj_lagVHLG4Y1yG7tx7owkKUuH0yMG-wEVxc",
+        "userName": "Maria Chimal",
+        "userImage": "https://play-lh.googleusercontent.com/-BiCZTxuiPLw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn3AN8ux7PKgyx9HFMOC-cvVbTLXg/photo.jpg",
+        "content": "Great service and fast",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "12.0.19.010_02",
+        "at": "2021-01-23 14:35:47",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOEEz11i_cngd-khJiVRF2sbfKCY69kTCxiE1zLJ-ERPqD0GuSrOiTTvRimEjuw5je8AkcGiQBvkPtbj-r0",
         "userName": "Georgette Joseph",
         "userImage": "https://play-lh.googleusercontent.com/-WCuUg4fHrUc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmxlc_zl4Se6UgwvXKA82eHk54UIw/photo.jpg",
@@ -377,7 +437,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gha7nATwZCvcplzYr2Nx08oZWSY2d0x1eWIS-UwSw",
         "content": "Quick and easy! No more waiting for appointments and no need to worry about getting to a location on time. The doctor I spoke to with my daughter was very helpful, patient and took her health extremely seriously! I DEFINITELY recommend this app to parents to use at all times, Day and Night!!!",
         "score": 5,
-        "thumbsUpCount": 5,
+        "thumbsUpCount": 6,
         "reviewCreatedVersion": "12.0.16.005_01",
         "at": "2020-11-06 17:51:47",
         "replyContent": null,
@@ -1022,7 +1082,7 @@
     {
         "reviewId": "gp:AOqpTOFfiwUS1ITv1Alu7Lwfna-hsLSrFNCdP4EVRNMMsMzKhNn7JyUb_BMZfXX0MuR4hnyviG9NREsJ62smgz4",
         "userName": "CRYSTALLINE ANGELOVE",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ggt_T2fFo4QEz_AR5Qw22llSfivvmQXFYBpkoh97_4",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjOvvBEN2PCekfWv9IEHPClcnEyhZOgMez5PFUTlas",
         "content": "Excellent",
         "score": 5,
         "thumbsUpCount": 0,
@@ -2942,7 +3002,7 @@
     {
         "reviewId": "gp:AOqpTOENVJxEAgGPnxgg-o5qvrY-cLbYZxVwQejwYhE25S_RwGfezUJBe_1dK2bbyDJJ-uwl7GCurn7He4ArIog",
         "userName": "Queenie Lane",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjBiM6luROAk5fNWkLfvFbkV0u1b-zx7-8uqbijem8",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjWlMM1A2fzch3Kol85H0UyhmuPsPutuNN21skxIDg",
         "content": "I like the app",
         "score": 5,
         "thumbsUpCount": 0,
@@ -6085,7 +6145,7 @@
     },
     {
         "reviewId": "gp:AOqpTOGNScGoNfeMzNa80GgXvLTBb7zcMoluyV_chLMFSZs0Ucs8XUeM-rtPCBdDeBBQ3sBcDVV3SbkjmOHzteI",
-        "userName": "Epic Visions Studio",
+        "userName": "unconTrolLable",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhXLYMTgooskbCPq1ghDFY5y08CIMaI6jggApn9Ng",
         "content": "To the person that came up with this app, thank you! This app makes everything so convenient especially if your child has just a minor cold, non-emergency type of situation, etc that does not require him/her to actually come into the doctor's office to be seen in person. The best part about this app is that it is apple/android compatible and so simple to use. Very user-friendly. We had the pleasure of having Dr. Berkovich during this consultation and she was so professional AND personable. \ud83e\udd17\ud83d\udc4d",
         "score": 5,
@@ -6121,7 +6181,7 @@
     },
     {
         "reviewId": "gp:AOqpTOHXv6S4FWTEN10ggqJ6KNyaOXp7V4RTtUZom6ug3sVNvmNpn5ivAYqA8S3mhOw2YN5Bh1lGzqpvtj0PYos",
-        "userName": "Gaming with Nya",
+        "userName": "Madame Desrosiers",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg1NIT1YZYNvHUh8uSCCPeUQBblFIGGK-MavWp1jAk",
         "content": "not bad",
         "score": 5,

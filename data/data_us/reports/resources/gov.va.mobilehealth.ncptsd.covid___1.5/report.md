@@ -140,6 +140,16 @@ The COVID Coach app has been installed by more than **10000** times. At this tim
 <img src="5_star_reviews_wordcloud.png" alt="gov.va.mobilehealth.ncptsd.covid 5 reviews"/>
 </p>
 
+> Excellent Resources and Service.<br> :date: __2021-01-28 19:46:46__
+
+> Very useful. The easy to use tracking features are what I needed most.<br> :date: __2021-01-28 19:30:42__
+
+> Refer pts to it all the time. Great resource<br> :date: __2021-01-27 23:22:35__
+
+> Helpful resources on any app capable mobile phone is an excellent app that is at no cost to anyone! Typically an app like this charges a subscription fee but this one doesn't. Thank you very much for this!<br> :date: __2021-01-27 14:11:30__
+
+> I'm not done exploring it yet but so far it's user friendly<br> :date: __2021-01-24 06:13:05__
+
 > I just got this today but, so far I am liking it. It has multiple different things you can use to help you manage stress, anxiety, and depression.<br> :date: __2021-01-19 00:00:45__
 
 > This is a very professional and easy to use app w with useful applications for a range of people. I'm a counselor and educator and I recommend this app for personal and client use.<br> :date: __2021-01-12 23:49:14__
@@ -149,16 +159,6 @@ The COVID Coach app has been installed by more than **10000** times. At this tim
 > Easy to use.<br> :date: __2020-12-28 02:50:02__
 
 > Great<br> :date: __2020-12-26 21:31:06__
-
-> Is a good app and allows me to regain focus whenever needed.<br> :date: __2020-12-26 00:39:06__
-
-> Just ran thru available topics and am pleasantly surprised. Shame you need to give access to phone files etc. DEVELOPERS: The "goals" page appears in Spanish in the English version.<br> :date: __2020-12-24 05:00:17__
-
-> Some times when things are hard i need a reminder/ nudge to take a step back from the situation. short messages and practices.are just the thing for getting back on the track of mindfulness.<br> :date: __2020-12-24 00:54:23__
-
-> Great suggestions<br> :date: __2020-12-16 01:26:16__
-
-> It's a superb app. Covers everything.<br> :date: __2020-11-23 04:40:59__
 
 
 

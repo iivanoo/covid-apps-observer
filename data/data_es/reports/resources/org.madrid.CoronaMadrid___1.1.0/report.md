@@ -150,6 +150,10 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="org.madrid.CoronaMadrid 5 reviews"/>
 </p>
 
+> Se trata de una aplicación muy intuitiva. Muy buena para la labor que realiza y funciona correctamente<br> :date: __2021-01-28 13:56:07__
+
+> Me ha gustado mucho la app es muy buena, recomendable para estos tiempos de contagio en los que estamos.<br> :date: __2021-01-25 13:47:14__
+
 > Muy buena aplicacion facil de usar sin ningun error y muy bien diseñada realmente me gusto mucho la interfaz<br> :date: __2021-01-17 18:50:29__
 
 > Muy buena aplicación. Funciona perfectamente y es muy útil.<br> :date: __2021-01-15 12:29:09__
@@ -165,10 +169,6 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 > Buena app, funciona muy bien en mi teefono celular. Tienen mis 5 estrellas🙌.<br> :date: __2021-01-01 14:12:52__
 
 > Excellent application por covid 19<br> :date: __2020-12-31 12:22:23__
-
-> La verdad es que aplicaciones como esta ayudan a estar más tranquilos. Recomiendo instalarla, a mí me funciona bastante bien.<br> :date: __2020-12-29 16:42:00__
-
-> Excelente App ideal para ser usado en estos tiempos que corren. Explica muy bien sobre los síntomas del Covid, app muy útil para prevenir y conocer que hacer.<br> :date: __2020-12-28 22:56:14__
 
 
 
@@ -262,6 +262,10 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="org.madrid.CoronaMadrid 1 reviews"/>
 </p>
 
+> Desistalarla es lo unico positivo que tiene la APP.<br> :date: __2021-01-27 13:45:34__
+
+> En esto se gasta el dinero la sra presidenta. En app absurdas que encima no funcionan. Le pongo una estrella porque no deja poner menos.😡<br> :date: __2021-01-27 13:42:20__
+
 > Se supone que incluye las pruebas realizada en la SS y otros centros sanitarios. Como la SS no me hizo ni una triste PCR durante las dos bajas que pasé, me las hice por lo privado. Pues no aparece nada en mis pruebas, pese a que me acerqué al centro de salud a informar de mis anticuerpos.<br> :date: __2020-12-17 20:14:24__
 
 > Mi nombre y DNI porque<br> :date: __2020-11-19 08:59:29__
@@ -277,9 +281,5 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 > Ni si quiera se abre la app<br> :date: __2020-10-18 15:12:51__
 
 > Falta muy mucho por deserrollar<br> :date: __2020-10-15 19:13:45__
-
-> Muy tarde<br> :date: __2020-10-12 20:27:52__
-
-> Imposible indicar la edad. Absurdo.<br> :date: __2020-10-11 14:12:33__
 
 

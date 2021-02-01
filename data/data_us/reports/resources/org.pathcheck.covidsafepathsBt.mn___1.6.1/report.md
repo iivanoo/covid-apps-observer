@@ -249,6 +249,12 @@ The COVIDaware MN app has been installed by more than **100000** times. At this 
 <img src="1_star_reviews_wordcloud.png" alt="org.pathcheck.covidsafepathsBt.mn 1 reviews"/>
 </p>
 
+> It's an app that will track YOU even when it's off. Supreme Court ruled that they cannot track you without a Search Warrant. This popped up on my new phone...unrequested!<br> :date: __2021-01-28 06:07:15__
+
+> Oh noes a virus whose average age of death is higher than the average life expectancy! Quick, embrace technocommunism and report undesirables to authorities for medical confinement in a *cough* gulag. What could go wrong? Are you afraid yet? Have you consented to give all private property rights over to the state yet? Hello, 911? I'd like to report someone not living in fear of this common cold Trump and Giuliani beat in 72 hours.<br> :date: __2021-01-25 00:03:41__
+
+> This app is bad delete this app it said covid is dangerous<br> :date: __2021-01-24 19:16:03__
+
 > It's been goodnight<br> :date: __2021-01-21 20:21:50__
 
 > So, the app works pretty decently. My complaint is, I just recently was exposed to someone who has covid. There is no way to input a possible exposure in the app. The idea is to prevent. But you can only report if you have a code from a positive test result... Kinda worthless then.. so who are we actually helping?<br> :date: __2021-01-19 21:47:53__
@@ -262,11 +268,5 @@ The COVIDaware MN app has been installed by more than **100000** times. At this 
 > This app is pretty much useless! I got COVID last week from an unknown exposure and didn't get any app exposure notifications. After my test came back positive, I had to ask the MN Department of Health for the app code 3 times! After I entered the code, my husband didn't get an exposure notification until 8 hours later - after he touched the "Check for exposures" button while sitting next to me. The app said he was potentially exposed within the last 2 days. I've been contagious for at least 7.<br> :date: __2021-01-15 23:53:44__
 
 > As others have stated, I have my doubts about the effectiveness of the app. I'm sure it uploads all kinds of information about you to some database somewhere, but It does not seem to provide any meaningful information to back to the user. Over New Years I went to Las Vegas. I got on a plane, spent 5 days in a casino/hotel, got back on a plane and came home. The app shows no exposures? I find this hard to believe.<br> :date: __2021-01-15 15:16:52__
-
-> Kept telling me to enable my alerts even though they were already enabled. Uninstalled and reinstalling numerous times, didn't fix the issue. Must not work with the Samsung Galaxy S20+5G.<br> :date: __2021-01-15 09:10:02__
-
-> Doesn't work<br> :date: __2021-01-14 15:52:45__
-
-> Doesn't work<br> :date: __2021-01-13 23:22:42__
 
 

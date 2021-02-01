@@ -1,5 +1,77 @@
 [
     {
+        "reviewId": "gp:AOqpTOHN08BtOhnyHOzQhwfb5SwaFkrKopS3zujTkLx_DhFQGfmVyAGP-2LvU1auhceLd62h69PkI6um2GJliA",
+        "userName": "Daniel Jorques",
+        "userImage": "https://play-lh.googleusercontent.com/--i_cLYO4iFM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm7OY3y_-SELkok-bYUR7jjQdn0pQ/photo.jpg",
+        "content": "va fatal",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.2.6",
+        "at": "2021-01-29 19:29:42",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFS2vJu4AtFY9DuZ1NdJw1bEbk8x1bNcsfmzj2ffv8h7TczNxEGjS-rcM3T6tbaCgDqUeruYyEtXz4QjA",
+        "userName": "Antonio Javier Cazorla Armas",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj0ZljP_fcLXDcDO6nIVGsZB1E_0NYbihDZ57zQoA",
+        "content": "No puedo ver ni mi poliza de seguro dental, ni copia de la numeraci\u00f3n de la tarjeta. Nada de nada.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.2.6",
+        "at": "2021-01-28 23:13:26",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOE29wg4dxvHPnN-Au9MXSchU878ZYSYUD3YgEMqW4RJ9CN65g8j6tIWs0DphY4dg33e7J9g5yIUfEALlg",
+        "userName": "victor valentina",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgiwwPRLrPbPQfeUCjB1gRhJTZ0S_WLj3m7G_td",
+        "content": "Buen servicio con los medicos online",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.2.6",
+        "at": "2021-01-28 12:08:06",
+        "replyContent": "Hola Victor. \u00a1Muchas gracias por tu comentario y valoraci\u00f3n! Sobre todo nos alegramos de que haya sido \u00fatil la aplicaci\u00f3n. Un saludo.",
+        "repliedAt": "2021-01-28 12:15:53"
+    },
+    {
+        "reviewId": "gp:AOqpTOHiBrIgT0PwPA2pUKWiCYdNDvYFiMySlEhDlqelcJGvEEZ5HC8Ce3v-XsOiGF93dFNGdjr7LYg3kIxULg",
+        "userName": "Roberto G.G.",
+        "userImage": "https://play-lh.googleusercontent.com/-kn1Exf0q3XA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn38DbiwsBEQpl-Zg_JBvJu8PPFrQ/photo.jpg",
+        "content": "Los m\u00e9dicos son monos\u00edlabos. Te responden escuetamente por chat sin aconsejarte nada y tardan 15 min. en atenderte.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.2.6",
+        "at": "2021-01-28 11:50:40",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOG31OKvMYQVPKzd7U1BzEeXV3yMWIp37rhS2IuBY3KqHmzSnOjGYOGAocyzzgBx0wGee5N1fm0151cSqg",
+        "userName": "Tito Carlos Publio",
+        "userImage": "https://play-lh.googleusercontent.com/-tyLSfCEvBRI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclEGBJAffKK1oQroL71B3esC_HQUA/photo.jpg",
+        "content": "Bueno, la verdad que no es una aplicaci\u00f3n para tirar cohetes, pero a mi, hoy, me ha funcionado muy bien. He podido contactar con un especialista, que me ha tratado fenomenal y enseguida he tenido su informe. Gracias.",
+        "score": 4,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "2.2.6",
+        "at": "2021-01-26 23:11:03",
+        "replyContent": "Hola Carlos, nos alegramos de que tu experiencia haya mejorado. Igualmente estamos revisando qu\u00e9 pudo ocurrir para que no se repita. Recuerda que siempre puedes contactarnos en soporte@dkvservicios.com para ayudarte o para cualquier sugerencia de mejora. Un saludo.",
+        "repliedAt": "2021-01-27 10:51:28"
+    },
+    {
+        "reviewId": "gp:AOqpTOEldQOnDKNsrOc1oFmj_MHu3x-MM7nw5byoh96RVzo-tAiC_a7lvgxQhbBVe3uJU4BXvpvwKU_wYimsDg",
+        "userName": "Sergio Osorio",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiIeVIzST-lDIhao-Jti-gBJC7AM6x6Ek25IX7yaw",
+        "content": "La anterior app que ten\u00eda ya era muy mala, pero esta directamente se bloquea en cuanto pongo usuario y contrase\u00f1a. He probado reiniciando y reinstalando y nada. No puedo ni entrar a la app.",
+        "score": 1,
+        "thumbsUpCount": 2,
+        "reviewCreatedVersion": "2.2.6",
+        "at": "2021-01-23 13:37:07",
+        "replyContent": "Hola Sergio, si estabas usando la aplicaci\u00f3n de DKV Seguros y has comenzado a usar Quiero cuidarme M\u00e1s, registrarte en esta app para poder usarla, ya que los datos de acceso son diferentes a los de tu \u00e1rea de cliente. Si esto no lo resuelve, cont\u00e1ctanos en soporte@dkvservicios.com y te ayudaremos. Un saludo.",
+        "repliedAt": "2021-01-26 15:33:44"
+    },
+    {
         "reviewId": "gp:AOqpTOGJt0G5mPLw99f-R9ER6OrRo5r8De7YpNIXd8sQFt3sz_p3lZ-lBoG94pLsBoqLqi1FZZ2AMmNSk4C9Zg",
         "userName": "Clara",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiK4M9NvS_PEgrNmYaAyYOH0URd4KU5t14jHByL",
@@ -8,8 +80,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "2.2.6",
         "at": "2021-01-22 16:10:17",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hola Clara, muchas gracias por tu comentario. Si quieres hacernos llegar cualquier duda o sugerencia para seguir mejorando, puedes hacerlo en soporte@dkvservicios.com. Un saludo.\n",
+        "repliedAt": "2021-01-26 15:36:18"
     },
     {
         "reviewId": "gp:AOqpTOFL1QC2jJcdJqWUKsilkTZc-6oKqhaWYfZXNcS81ANUV0gJGiyEgu90ygxZ-oAU9AbYEz_8MsSBT02Thg",
@@ -32,8 +104,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2021-01-21 14:17:00",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hola Leonardo, necesitamos m\u00e1s informaci\u00f3n para poder ayudarte. Puedes escribirnos un email a soporte@dkvservicios.com y contarnos lo qu\u00e9 ha ocurrido. Muchas gracias.",
+        "repliedAt": "2021-01-25 11:27:07"
     },
     {
         "reviewId": "gp:AOqpTOEEXvli-KfPSO0BbM89KEzLNVSgodtNWTYRWcksNTYpP3YYXgkLtpM8JLJOnQNE_PkTbAuhqKX6EwXBkQ",
@@ -44,8 +116,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "2.2.6",
         "at": "2021-01-21 11:16:33",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Buenos d\u00edas Isabelo, la selecci\u00f3n de fecha depende del dispositivo, nos gustar\u00eda revisarlo contigo y poner tu fecha correcta. Por favor, escr\u00edbenos a soporte@dkvservicios.com para comentar ambos temas y darte una soluci\u00f3n. Muchas gracias",
+        "repliedAt": "2021-01-25 11:20:14"
     },
     {
         "reviewId": "gp:AOqpTOGJeTFPGtxd6ApPcIGLKEauxRyq12W2F2MWgilP1QQBb_wZD6XyQGejQVx3UhjAq4muI9mKqKaoaV6YcA",
@@ -128,8 +200,8 @@
         "thumbsUpCount": 2,
         "reviewCreatedVersion": "2.2.5",
         "at": "2021-01-13 13:27:31",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hola Avelino, parece que nuestro equipo de soporte@dkvservicios.com ya ha contactado contigo. Puedes volver a contactarnos en ese correo si no se ha solucionado o si tienes m\u00e1s dudas o sugerencias. Un saludo",
+        "repliedAt": "2021-01-27 10:54:41"
     },
     {
         "reviewId": "gp:AOqpTOEDk4dHVGQ497iayG3XTlRfJ4iiDKmWJ_LHDordPqumGxdM7MOCvviBje6lvvCcrL9hr59hA-cPIDijAg",
@@ -152,8 +224,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2021-01-12 16:20:35",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hola \u00c1ngel, hemos estado revisando y parece que la informaci\u00f3n es correcta pero igualmente queremos investigarlo m\u00e1s. Por favor, \u00bfnos puedes escribir a soporte@dkvservicios.com indicando en qu\u00e9 caso te has encontrado datos err\u00f3neos? Muchas gracias por tu ayuda. Un saludo.\n\n\n",
+        "repliedAt": "2021-01-27 10:57:38"
     },
     {
         "reviewId": "gp:AOqpTOFT1czGPBIhZ0AWywVD8Xde4vjEOyDg-fBycML4Vk0QWU_29GZ0Nri9hbyTeOdgm2V1W5S1I3Pu4ozzLw",
@@ -200,8 +272,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "2.2.5",
         "at": "2021-01-05 11:41:49",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hola Carmen, nuestro equipo de soporte@dkvservicios.com se ha puesto en contacto contigo por email. Parece que has tratado de acceder con un correo electr\u00f3nico err\u00f3neo. Te recordamos que la cuenta de Quiero cuidarme M\u00e1s es diferente a la del \u00c1rea privada de tu seguro DKV y por lo tanto deber\u00e1s registrarte si a\u00fan no lo has hecho. Muchas gracias",
+        "repliedAt": "2021-01-26 17:22:43"
     },
     {
         "reviewId": "gp:AOqpTOFkp3kLIzKj-HuLsPQ2sr-5qj-L4dEB19cpJJG-2TyZzWzulXQMAkK1kzaidiRLKyNsRGj_fdW9peQT6w",
@@ -269,7 +341,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgzCgsrwgruflxYzLvnQQ0TrccaShWz7xnGTyak",
         "content": "malissima, sirve incluso menos que la web y mira que ya sirve de poco, es impossible consultar horarios o pedir cita, y antes de que vengan a decirme que si he intentado eso o aquello, lo he intentado todo, tanto en la web como en la app. Al final es puro marketing de vender humo, si os corre prisa llamad por telefono por que esto es una perdida de tiempo",
         "score": 1,
-        "thumbsUpCount": 11,
+        "thumbsUpCount": 14,
         "reviewCreatedVersion": "2.2.5",
         "at": "2020-12-21 23:32:56",
         "replyContent": "Hola Nil, nuestro equipo de soporte@dkvservicios.com ya habl\u00f3 contigo por tel\u00e9fono hace unos d\u00edas, esperamos que haya sido de utilidad y tomamos nota para trabajar en integrar m\u00e1s agendas. Un saludo",
@@ -929,7 +1001,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-AVghnlVPjw8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckuIK2519_G0Ug4P_rjHo9ZMCt7iQ/photo.jpg",
         "content": "La tenemos instalada en dos m\u00f3viles distintos y en ambos la mayor\u00eda de las veces que queremos abrirla, la app desaparece de la pantalla y se queda en segundo plano. Ese fallo lo da much\u00edsimas veces y cuesta poder acceder a la aplicaci\u00f3n... Podr\u00eda ser una app \u00fatil pero la mayor\u00eda de las veces ni siquiera se puede utilizar.",
         "score": 1,
-        "thumbsUpCount": 10,
+        "thumbsUpCount": 11,
         "reviewCreatedVersion": "2.1.7",
         "at": "2020-11-09 14:48:50",
         "replyContent": "Hola Carmen, lamentamos la incidencia con la app. Nuestro equipo de soporte@dkvservicios.com se pondr\u00e1 en contacto contigo por tel\u00e9fono o correo electr\u00f3nico para tratar tu problema. Un saludo",
@@ -1165,8 +1237,8 @@
     },
     {
         "reviewId": "gp:AOqpTOFxW-qO02rYFBxU9a8PEy6yLMW46PhXNkdyK4KlQSsiI9Qr80_OYxFlNqTTEuTK31Ft-x4GBeIC1A37jg",
-        "userName": "CARMEN A.V",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjrETE3nuTsj9w0TXvmxo-5Pq9jmIHnSB0VwPvTlgU",
+        "userName": "Carmen A. Valencia",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj4HIB7NXnVmVcX_9tMu_uWFsowv6mDra2Y3Jd6xhI",
         "content": "No funciona bien la aplicaci\u00f3n",
         "score": 2,
         "thumbsUpCount": 0,
@@ -1513,7 +1585,7 @@
     },
     {
         "reviewId": "gp:AOqpTOFSdz13HD52isFgSe66zsNt_wK0RryYDS7YowD2gkcyOqLDnOkTBNXuNfsK_dgBCtWJkvmkCdOHiBsZGg",
-        "userName": "Aitor Pes",
+        "userName": "futbolero 1",
         "userImage": "https://play-lh.googleusercontent.com/-siZJyuF_bpk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckBOiERkqwsIm6T7kckXc5-DBQ2Fw/photo.jpg",
         "content": "Muchas veces no me deja acceder, unas de las pocas veces que accedo no me contesta nadie, no me deja ver cuadro medico, no me deja elegir especialidad!",
         "score": 1,

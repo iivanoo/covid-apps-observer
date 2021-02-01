@@ -209,25 +209,25 @@ The MDLIVE: Talk to a Doctor 24/7 app has been installed by more than **100000**
 <img src="5_star_reviews_wordcloud.png" alt="com.mdlive.mobile 5 reviews"/>
 </p>
 
-> I have had to use this service twice and both times have been very easy.<br> :date: __2021-01-23 02:52:28__
+> Great experience.<br> :date: __2021-01-29 19:57:54__
 
-> Super helpful<br> :date: __2021-01-23 00:09:37__
+> Super Easy<br> :date: __2021-01-29 16:22:25__
 
-> MDLive is great. Provider was very understanding and listened. Would recommend highly.<br> :date: __2021-01-22 18:24:47__
+> I love MD live!!<br> :date: __2021-01-29 06:35:38__
 
-> Used twice now excellent<br> :date: __2021-01-22 02:00:02__
+> Doctors are friendly<br> :date: __2021-01-28 22:39:37__
 
-> Very kind ND got to me very quickly!<br> :date: __2021-01-21 18:37:44__
+> The weekly sessions are very impactful. Im able to express my fears/ concerns in a non judgemental environment. My anxiety levels are improving. Just need consistency as to how I address my Anxiety. Sessions are helpful and Im looking forward with Optimistic Thoughts, (Cup is Half Full). Thanks for providing SUPPORTS<br> :date: __2021-01-28 22:10:49__
 
-> Good app!<br> :date: __2021-01-21 10:38:40__
+> Amazing<br> :date: __2021-01-28 21:57:58__
 
-> Quick easy set up, and quickly able to connect to a provider<br> :date: __2021-01-20 21:09:53__
+> Very easy to navigate appointments from start to finish<br> :date: __2021-01-28 21:31:57__
 
-> Love this app<br> :date: __2021-01-20 20:41:57__
+> Great app to have on hand great doctors and don't even have to leave the house<br> :date: __2021-01-28 17:17:20__
 
-> I really liked Dr. Smith. I would definitely see him again. He's thorough, friendly and helpful.<br> :date: __2021-01-20 16:59:04__
+> One word Awesome<br> :date: __2021-01-28 04:15:11__
 
-> Very efficient! I have saved so much time using this and I'm very thankful I found it.<br> :date: __2021-01-20 16:24:03__
+> The medical professionals on this app are very good and the response time for appointments is quick. Also works with most insurance providers.<br> :date: __2021-01-27 21:10:18__
 
 
 
@@ -236,6 +236,12 @@ The MDLIVE: Talk to a Doctor 24/7 app has been installed by more than **100000**
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.mdlive.mobile 4 reviews"/>
 </p>
+
+> Awesome and helpful<br> :date: __2021-01-28 18:15:05__
+
+> Of the 3 times I have used it, only once did I have a slight issue with the audio. But just used it for a 3rd time and audio and video were perfect. Easy to use and usually a doctor comes on within minutes.<br> :date: __2021-01-27 12:26:11__
+
+> Good<br> :date: __2021-01-26 04:27:31__
 
 > Great app has helped me out allot it has its glitches but it's good when being on video call it sounded robotic and video was pixeled<br> :date: __2021-01-20 05:31:02__
 
@@ -250,12 +256,6 @@ The MDLIVE: Talk to a Doctor 24/7 app has been installed by more than **100000**
 > Amazing!!! Definitely worth it. My only problem was it wouldn't take my insurance information so I had to pay the full fee<br> :date: __2021-01-13 22:58:19__
 
 > It was a good experience except for two things 1. every time you have to go back and change something you have to start answering questions again from the beginning and 2. you cannot just type in a year you have to select it. So if it was several years ago you have to keep hitting the back button.<br> :date: __2021-01-05 00:12:14__
-
-> Prompt service<br> :date: __2021-01-03 05:39:47__
-
-> Knowledgeable clinician was available quickly and gave thorough information. There was a lag in video/audio which is why I only gave 4 stars.<br> :date: __2021-01-02 22:08:17__
-
-> Easy to use and extremely helpful<br> :date: __2021-01-02 18:10:12__
 
 
 
@@ -321,6 +321,10 @@ The MDLIVE: Talk to a Doctor 24/7 app has been installed by more than **100000**
 <img src="1_star_reviews_wordcloud.png" alt="com.mdlive.mobile 1 reviews"/>
 </p>
 
+> Worst app experience. Spent 30 minutes filling out the form. Then it tells me payment not accepted. Doesnt give any reason. Was the credit card information incorrect? Does the bank need validation. How about a link to renter the card information. Nothing just go screw yourself because we designed a garbage app<br> :date: __2021-01-26 18:27:06__
+
+> Terrible app. I don't mind paying if you are going to help me but if I wanted a doctor who is only interested in grabbing my money before I can ask a single question, I'd stay with my old quack doctor.<br> :date: __2021-01-26 14:55:57__
+
 > App doesn't work!<br> :date: __2021-01-23 00:07:01__
 
 > The app keeps crashing while I'm trying to answer the Sophie Triage questions. So frustrating<br> :date: __2021-01-14 19:07:37__
@@ -336,9 +340,5 @@ The MDLIVE: Talk to a Doctor 24/7 app has been installed by more than **100000**
 > So hard to use! Gave up after not being able to do anything while it errored out repeatedly.<br> :date: __2021-01-06 18:07:54__
 
 > Why can't you edit an existing account to add insurance info? I've used other telemed apps & this one is a bit of a hassle unless u want to call customer svc which is annoying.<br> :date: __2021-01-03 02:01:52__
-
-> I can't even create an account.<br> :date: __2021-01-02 21:32:18__
-
-> Can't get past sign up page it refreshes and goes back to zero. Lame. Would give zero stars if I could.<br> :date: __2020-12-31 21:07:59__
 
 

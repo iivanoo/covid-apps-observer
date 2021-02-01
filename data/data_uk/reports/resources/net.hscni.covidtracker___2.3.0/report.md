@@ -150,6 +150,12 @@ The StopCOVID NI app has been installed by more than **100000** times. At this t
 <img src="5_star_reviews_wordcloud.png" alt="net.hscni.covidtracker 5 reviews"/>
 </p>
 
+> Works for me...<br> :date: __2021-01-29 17:24:27__
+
+> Thankfully no alert yet<br> :date: __2021-01-27 19:45:45__
+
+> Good<br> :date: __2021-01-27 09:50:35__
+
 > Fantastic<br> :date: __2021-01-08 19:00:21__
 
 > This app is a scam , it steals all your information and sent to 3rd parties , so be careful.<br> :date: __2021-01-08 14:34:36__
@@ -163,12 +169,6 @@ The StopCOVID NI app has been installed by more than **100000** times. At this t
 > I strumming for DCI middlemoor u big style fun and games cock<br> :date: __2020-12-26 05:13:43__
 
 > Helps to keep me safe and others safe<br> :date: __2020-12-21 03:35:48__
-
-> Perfect<br> :date: __2020-12-10 13:47:17__
-
-> Absolutely essential app.<br> :date: __2020-12-07 08:47:11__
-
-> excellent service staving propjes live om no racis or colour kust a hitman Boeing me xXxjetiame xXx<br> :date: __2020-12-05 16:27:26__
 
 
 
@@ -262,6 +262,8 @@ The StopCOVID NI app has been installed by more than **100000** times. At this t
 <img src="1_star_reviews_wordcloud.png" alt="net.hscni.covidtracker 1 reviews"/>
 </p>
 
+> I have used it daily just to see if it works and it has never went off. I work on a Covid Ward... I also have family who were in the same place for the same amount of time with the same people and some got the notification and others didnt. It simply doesn't work.<br> :date: __2021-01-26 12:42:55__
+
 > It didn't send me any notification I happened to open my app and had 4 days self isolation left, that was certainly pointless considering I missed 6 days isolation and being around my co workers<br> :date: __2021-01-18 08:43:00__
 
 > Notified that I'd been exposed nine days previous and that I needed to isolate for one more day. Bit late notice considering I'm a key worker and have been working in the hospital during the previous nine days.<br> :date: __2021-01-17 04:45:13__
@@ -279,7 +281,5 @@ The StopCOVID NI app has been installed by more than **100000** times. At this t
 > Pointless app. I don't think it's even accurate.<br> :date: __2020-12-30 00:26:35__
 
 > DISCUSTING app terrorism<br> :date: __2020-12-29 12:26:18__
-
-> I NEVER downloaded this app, yet, I have recently discovered it on my fone AND WITH ALL PERMISSIONS ALLOWED etc??? An explanation would be appreciated!!! Immediately deleted after discovery.<br> :date: __2020-12-28 21:41:01__
 
 

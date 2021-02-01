@@ -145,6 +145,8 @@ The Covid Alert DE app has been installed by more than **10000** times. At this 
 <img src="5_star_reviews_wordcloud.png" alt="gov.de.covidtracker 5 reviews"/>
 </p>
 
+> I like the fact they let us know what is going on with Covid.<br> :date: __2021-01-29 18:11:24__
+
 > Health education is key. As a retired healthcare provider science must prevail.<br> :date: __2020-12-31 18:02:38__
 
 > Great<br> :date: __2020-12-28 17:24:00__
@@ -162,8 +164,6 @@ The Covid Alert DE app has been installed by more than **10000** times. At this 
 > Informative<br> :date: __2020-11-15 03:25:46__
 
 > New. Just installed. However, this important app was very easy to follow and activate. Best of all..ITS FREE! We need this sorta information to help combat Covid. Stay Safe all.<br> :date: __2020-10-25 10:15:47__
-
-> COVIDAlert, Delaware Division of Public Health helps reduce the spread of COVID With your help, the COVID Alert DE app can help reduce the spread of coronavirus. The Division of Public Health of the State of Delaware is asking everyone to help tackle coronavirus by downloading and using the COVID Alert DE app every day. If you use the app you will • Be alerted if you have been in close contact with another user who has tested positive for coronavirus. •<br> :date: __2020-10-25 03:03:52__
 
 
 

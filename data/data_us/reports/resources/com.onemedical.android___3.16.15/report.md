@@ -258,6 +258,8 @@ The One Medical app has been installed by more than **100000** times. At this ti
 <img src="4_star_reviews_wordcloud.png" alt="com.onemedical.android 4 reviews"/>
 </p>
 
+> Only one day<br> :date: __2021-01-26 20:08:39__
+
 > Works pretty darn good to be honest, didn't know for a while but you can video chat with someone on demand, it took me about 10 minutes from tapping the thing to speaking with a clinician, neat! Also crucial was the fact that I told this guy that I had sent a message to the med team, and he was able to pull it up and see it. Well integrated and actually easy to use, which is insane for a medical app<br> :date: __2020-12-16 01:23:25__
 
 > Great medical service, pretty good app I'm a huge fan of one medical service, the app mostly upholds their high standards. At times I get notifications that I can't seem to clear, And it's difficult to manage my child's account, who's also a one medical patient on the same app. All told though, I'm pretty happy with the way the app makes finding remote care easy<br> :date: __2020-07-28 14:58:50__
@@ -275,8 +277,6 @@ The One Medical app has been installed by more than **100000** times. At this ti
 > I enjoy the (mostly) user friendly design. Medical team responds quickly to questions and requests. I'm disappointed that the app does not correctly sort medical centers by distance from me. I've enabled location tracking, but it still defaults to downtown San Francisco as my location , so I have to scroll down dozens of entries to find the locations that are actually near me.<br> :date: __2020-01-15 00:16:56__
 
 > *Updating my review. The app team contacted me and after much back and forth got it working. The app now functions as promised.* I can't get the app to login. I can login to the website but I just keep getting a generic "something went wrong" error when trying to use the same credentials. There is no app support to contact to try and resolve this.<br> :date: __2019-11-05 11:59:47__
-
-> This is not a mature app, but the idea is sound. I like booking appointments at any hour of the day and love the video visit feature. But, when something goes wrong, I want to know more than a generic "Uh oh! Something went wrong. Try again later." If an office was closed due to flooding, the booking error shouldn't tell me to try again. If I can't start a video visit because I have 3% battery, whatever weirdness that generates, "Uh oh[...]try again later" distracts from the real problem.<br> :date: __2019-10-17 10:36:08__
 
 
 

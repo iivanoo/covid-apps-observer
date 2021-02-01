@@ -166,6 +166,8 @@ The Coronika - Dein Corona Kontakttagebuch app has been installed by more than *
 <img src="5_star_reviews_wordcloud.png" alt="de.kreativzirkel.coronika 5 reviews"/>
 </p>
 
+> Top<br> :date: __2021-01-27 19:52:09__
+
 > Wurde mit dem Fortschreiten der Pandemie immer weiter verbessert. Mit Engagement und Liebe gemacht - ich bleibe ihr treu!<br> :date: __2021-01-22 23:36:55__
 
 > War jetzt eine ganze Weile super, die Version 2.0.0 ist aber ein Rückschritt : - Telefonnummer als Pflichtfeld - Uhrzeiteingabe nun viel umständlicher; der alte Selektor bediente sich viel schneller<br> :date: __2021-01-08 18:29:44__
@@ -183,8 +185,6 @@ The Coronika - Dein Corona Kontakttagebuch app has been installed by more than *
 > Finde Überarbeitung sehr gut und hilfreich. Man trifft Personen immer an Orten, weshalb es gut ist, die Unterscheidung aufzuheben.<br> :date: __2020-12-26 12:03:22__
 
 > Die Idee hinter der App ist sehr gut und scheint auch mehr oder weniger die einzige derartige App zu sein. Meine Verbesserungsvorschläge wurden alle umgesetzt. Kann die Nutzung nur empfehlen. Sehr gute Sache!!! Sehr nette Mitarbeiter.<br> :date: __2020-12-24 06:10:02__
-
-> Man kann sehr praktisch, schnell und einfach seine Kontakten notieren und dazu wichtige Rahmenbedingungen auswählen, z.B. ob Abstand gehalten wurde oder eine Maske getragen wurde. Super wichtig, wenn man positiv getestet wird und seine letzten Kontakte angeben muss, da vergisst man in der Aufregung dann sonst Einige!<br> :date: __2020-12-23 19:24:20__
 
 
 

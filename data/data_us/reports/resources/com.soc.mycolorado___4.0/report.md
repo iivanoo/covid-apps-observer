@@ -186,6 +186,14 @@ The myColorado app has been installed by more than **10000** times. At this time
 <img src="5_star_reviews_wordcloud.png" alt="com.soc.mycolorado 5 reviews"/>
 </p>
 
+> My license expired and I renewed on line, but had not received my new card. This app allowed me to have a picture ID accepted almost everywhere in Colorado, while I waited for my new license. Note that some places with age restricted products, as well as airport security, do not accept this digital ID so call before you go if it's your only option. Cool links to frequently used services are on the app. So far no technical hiccups and it has saved the day on many occasions. Highly recommend!<br> :date: __2021-01-28 00:45:56__
+
+> Easy to use! And handy.<br> :date: __2021-01-27 05:36:24__
+
+> Nice. Will be really handy once the digital ID is accepted in lieu of a physical one.<br> :date: __2021-01-24 23:10:24__
+
+> My coworker needed to call to verify himself and they were extremely responsive and respectful. I was shocked considering most state job workers are always swamped with tons of work. Great app and soooo convenient to have!<br> :date: __2021-01-24 09:25:32__
+
 > Awesome app<br> :date: __2021-01-23 05:00:56__
 
 > App seems to work great so far! I really like that Colorado is working to make secure digital ID a reality.<br> :date: __2021-01-21 18:37:09__
@@ -197,14 +205,6 @@ The myColorado app has been installed by more than **10000** times. At this time
 > Very easy to use and convenient<br> :date: __2021-01-18 19:42:16__
 
 > Excellent app.<br> :date: __2021-01-16 20:26:03__
-
-> I feel safer when I have a Colorado id at my fingertips. This is very easy to install and I always have id available. Thank you<br> :date: __2021-01-15 16:28:22__
-
-> Really sharp and innovative, the app to use for our now generation.<br> :date: __2021-01-14 06:45:02__
-
-> Nice<br> :date: __2021-01-09 22:35:06__
-
-> It would not work on my phone. But then I got a new, better phone where it works fine.<br> :date: __2021-01-02 06:04:30__
 
 
 
@@ -270,8 +270,6 @@ The myColorado app has been installed by more than **10000** times. At this time
 <img src="2_star_reviews_wordcloud.png" alt="com.soc.mycolorado 2 reviews"/>
 </p>
 
-> Unable to add digital ID due to a camera malfunction during the verification. Will rate again when issue is fixed.<br> :date: __2021-01-09 03:02:10__
-
 > My household moved 5 months ago & 6 of us changed our address online through DMV & followed the instructions to stick a label on the back of our DL's with the new address. However when I scanned the back of my DL today to try to create an account, my information still had my previous address. So this app really won't help me or any of my household members because the address will always be incorrect & cause problems for us in which we will still have to show our actual DL with the sticker.<br> :date: __2020-11-17 19:24:28__
 
 > Cannot access my account anymore. The account recovery should work. I put in my email address but nothing comes back to reset my password.<br> :date: __2020-10-10 20:29:38__
@@ -290,6 +288,8 @@ The myColorado app has been installed by more than **10000** times. At this time
 
 > Sweet, I need a registration renewal and everything is closed. So I see on Nextdoor about this app. But I can't use it - why? I have a 2 yr old $150 Lenovo Phab which won't allow this app. So I need to buy a new phone to use - great. Not everyone can afford a new phone every year especially Seniors. The emissions places are closed as are the DL locations so I guess I just drive with an expired tag.<br> :date: __2020-04-22 20:23:52__
 
+> I dont like the registration processes seems like a traker, n I dont trust it.<br> :date: __2020-04-21 03:11:37__
+
 
 
 #### 1-star reviews
@@ -298,11 +298,9 @@ The myColorado app has been installed by more than **10000** times. At this time
 <img src="1_star_reviews_wordcloud.png" alt="com.soc.mycolorado 1 reviews"/>
 </p>
 
+> App barely works<br> :date: __2021-01-27 02:09:54__
+
 > Junk. It doesn't validate any information. Uninstalling<br> :date: __2021-01-23 01:48:13__
-
-> App is broken. App crashes when scanning ID to create account. (tested on multiple devices)<br> :date: __2021-01-18 23:42:02__
-
-> Application won't scan my colorado ID, crashes on account creation.<br> :date: __2021-01-17 01:20:23__
 
 > This app is ridiculous. I keep installing it over and over and over and over again and restarting my phone over and over and over and over again and everytime I try to scan my ID the app crashes. This is beyond frustrating I don't see why I can't just physically enter in my information this is so stupid.<br> :date: __2020-12-24 00:50:17__
 
@@ -317,5 +315,7 @@ The myColorado app has been installed by more than **10000** times. At this time
 > Looks like it would be a great app, if it worked. . . App crashes every time I scan the back of my license. I tried restarting the phone, not having any other apps in use, no luck.<br> :date: __2020-12-09 19:20:12__
 
 > ID scanner is hot garbage, can't create account<br> :date: __2020-12-06 01:51:33__
+
+> Try and do the facial recognition blacks out my camera, if you wanted to steal ppls info in Colorado just ask don't make an app that doesnt even work. Disgraceful!!! Your not even trying to improve Coloradan lives at all, just trying to line each other pockets while we continue to suffer. Pathetic!<br> :date: __2020-11-15 21:40:36__
 
 

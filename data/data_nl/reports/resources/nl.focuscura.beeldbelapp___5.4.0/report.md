@@ -199,25 +199,25 @@ The Luscii app has been installed by more than **100000** times. At this time, *
 <img src="5_star_reviews_wordcloud.png" alt="nl.focuscura.beeldbelapp 5 reviews"/>
 </p>
 
+> Makkelijk en simpel. Geeft je toch het gevoel dat je in de gaten wordt gehouden en een goede keuze maakt als het fout gaat.<br> :date: __2021-01-29 13:18:59__
+
+> Prima, snel en duidelijk<br> :date: __2021-01-29 09:43:43__
+
+> Weet niet of het helpt voor anderen<br> :date: __2021-01-28 11:33:24__
+
+> Ik vind deze app fijn om te hebben omdat, ik elke week een bericht krijg om de spuiten te nemen en of ik de andere medicijnen heb ingenomen, hoe het gaat en of ik contact wil om vragen te stellen of iets door te geven, ik ben er blij mee.<br> :date: __2021-01-26 13:58:34__
+
+> Heel handig om te doen, zodat je minder vaak naar het ziekenhuis hoeft en toch goed in de gaten wordt gehouden<br> :date: __2021-01-25 14:56:02__
+
+> Duidelijk<br> :date: __2021-01-25 12:45:24__
+
+> Makkelijk te invullen<br> :date: __2021-01-23 13:21:01__
+
 > Functioneel, geef een herinnering mocht je vergeten zijn om de vragen wekelijks in te vullen.<br> :date: __2021-01-22 17:25:31__
 
 > De app geeft mij een beetje zekerheid ivm corona<br> :date: __2021-01-19 09:39:49__
 
 > Na de update van 13 januari 2021 was de.app op mijn telefoon overleden. Ik heb met Luscii enige mails uitgewisseld en ben prima geholpen. De app functioneert weer goed. Bedankt voor de service.<br> :date: __2021-01-18 13:00:17__
-
-> Geweldig...<br> :date: __2021-01-18 10:46:36__
-
-> Voor een goede zelfcontrole...<br> :date: __2021-01-16 09:00:23__
-
-> Goed gevoel dat er iemand mee kijkt over je schouder<br> :date: __2021-01-15 09:13:42__
-
-> Werkt prima, zo nodig krijg je een belletje<br> :date: __2021-01-15 07:53:42__
-
-> Makkelijk te koppelen, makkelijk in gebruik en werkt Naar behoren. Genoeg opties die er voor zorgen dat je goed gemonitord wordt.<br> :date: __2021-01-14 09:11:06__
-
-> Geef mij een fijn gevoel elke dag deze test een aanrader voor iedereen<br> :date: __2021-01-11 10:23:19__
-
-> Goeie, duidelijke app<br> :date: __2021-01-08 10:53:38__
 
 
 
@@ -226,6 +226,8 @@ The Luscii app has been installed by more than **100000** times. At this time, *
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="nl.focuscura.beeldbelapp 4 reviews"/>
 </p>
+
+> Ben tevreden<br> :date: __2021-01-24 19:23:20__
 
 > Prima.<br> :date: __2021-01-23 08:39:45__
 
@@ -245,8 +247,6 @@ The Luscii app has been installed by more than **100000** times. At this time, *
 
 > Professioneel<br> :date: __2020-12-07 10:21:53__
 
-> Fijne makelijker app<br> :date: __2020-12-04 06:43:04__
-
 
 
 #### 3-star reviews
@@ -254,6 +254,8 @@ The Luscii app has been installed by more than **100000** times. At this time, *
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="nl.focuscura.beeldbelapp 3 reviews"/>
 </p>
+
+> Werk mee aan Corona onderzoek voor Feyenoord maar sinds 3 weken werkt het niet meer, krijg wel meldingen maar app leeg !!!<br> :date: __2021-01-29 13:14:13__
 
 > Kan na Lang gebruik niet meer openen. De display was leeg. App. Verwijderd en opnieuw geinstalleerd. Mijn gebruikersnaam/email wordt niet herkent.<br> :date: __2021-01-15 20:20:13__
 
@@ -272,8 +274,6 @@ The Luscii app has been installed by more than **100000** times. At this time, *
 > Vanaf 2 mei elke dag bericht, dat het goed is, maar deze berichten kan ik niet wissen..wat moet ik met al die...182 berichten....een hele grote min punt van deze app, denk dat ik er maar mee stop.<br> :date: __2020-10-19 18:14:57__
 
 > Werkt niet meer naar behoren, na verwijdering opnieuw geïnstalleerd en: foute boel: code na code wordt niet geaccepteerd!<br> :date: __2020-10-10 15:27:11__
-
-> Ik vind de app fijn want t maakt mij bewuster hoe om te gaan met mn Copd<br> :date: __2020-10-07 14:14:15__
 
 
 
@@ -311,6 +311,10 @@ The Luscii app has been installed by more than **100000** times. At this time, *
 <img src="1_star_reviews_wordcloud.png" alt="nl.focuscura.beeldbelapp 1 reviews"/>
 </p>
 
+> Waardeloos dat ik de app niet meer kan openen. Alles lijkt gewist na de update. Ik deed mee met een onderzoek van het CWZ ziekenhuis Nijmegen ivm Covid19. En bedankt.<br> :date: __2021-01-26 01:03:20__
+
+> Ik krijg het niet voor elkaar, op een bepaald moment kan ik via Google artikelen kopen en dat wil ik niet. Maak het eenvoudiger s.v.p.<br> :date: __2021-01-25 13:14:29__
+
 > 😋<br> :date: __2021-01-15 13:06:27__
 
 > Snap de nut niet<br> :date: __2021-01-06 08:15:19__
@@ -326,9 +330,5 @@ The Luscii app has been installed by more than **100000** times. At this time, *
 > Mijn account stopt steeds!<br> :date: __2020-11-08 19:12:08__
 
 > App werkt niet meer<br> :date: __2020-10-29 22:52:49__
-
-> Helaas doet hij het niet meer, jammer....<br> :date: __2020-10-19 17:58:30__
-
-> Corona melding App is niet betrouwbaar. Werkt vaak niet of ingevoerde informatie wordt niet verzonden. Hierdoor worden status van patiënten niet op tijd herkend. Er ontstaat vertraging in zorgbehoefte en aanbod, met alle gevolgen van dien. Support vragen aan Luscii worden vaak van standaardantwoorden voorzien, waar een gebruiker vaak niks mee kan. Passieve gebruikersondersteuning. De gebruiker moet vaak zelf actie ondernemen als de app niet werkt en dat ook testen. Verbeteringen noodzakelijk.<br> :date: __2020-10-13 15:56:27__
 
 

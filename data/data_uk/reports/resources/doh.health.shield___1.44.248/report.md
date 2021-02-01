@@ -147,25 +147,25 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="doh.health.shield 5 reviews"/>
 </p>
 
-> Good<br> :date: __2021-01-22 17:59:06__
+> Good<br> :date: __2021-01-29 03:35:17__
 
-> Perfect apps for information<br> :date: __2021-01-22 17:46:11__
+> Good<br> :date: __2021-01-28 22:40:45__
 
-> Great app<br> :date: __2021-01-22 16:16:12__
+> Install but not open for id card and mobile no<br> :date: __2021-01-28 16:54:45__
 
-> Ok<br> :date: __2021-01-22 16:15:39__
+> Tell us more<br> :date: __2021-01-28 06:56:50__
 
-> Fine<br> :date: __2021-01-22 04:54:31__
+> My app is not working<br> :date: __2021-01-28 05:24:47__
 
-> Good<br> :date: __2021-01-21 20:17:32__
+> ما شاء الله تبارك الرحمن<br> :date: __2021-01-28 00:38:06__
 
-> Very good<br> :date: __2021-01-21 17:38:18__
+> Good<br> :date: __2021-01-27 21:25:17__
 
-> Good<br> :date: __2021-01-21 17:10:40__
+> Very good 👍<br> :date: __2021-01-27 17:08:41__
 
-> Excellent<br> :date: __2021-01-21 13:34:30__
+> Good service<br> :date: __2021-01-27 13:38:53__
 
-> very nice<br> :date: __2021-01-21 13:27:56__
+> Its not working<br> :date: __2021-01-27 10:33:43__
 
 
 
@@ -174,6 +174,16 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="doh.health.shield 4 reviews"/>
 </p>
+
+> How to check vaccine risult<br> :date: __2021-01-29 12:31:43__
+
+> Good aff<br> :date: __2021-01-25 05:54:36__
+
+> Help full<br> :date: __2021-01-25 01:23:01__
+
+> Awesome<br> :date: __2021-01-24 20:37:12__
+
+> Reliable in health apps...<br> :date: __2021-01-24 17:34:58__
 
 > Before this was ok but now it is not showing my results it is asking pre condition surveys question?<br> :date: __2021-01-22 10:42:17__
 
@@ -185,16 +195,6 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 
 > Good<br> :date: __2021-01-19 18:30:25__
 
-> Hi , I take covid vaccine but alhosn app not showing my vaccine report<br> :date: __2021-01-17 10:16:47__
-
-> It's a good application<br> :date: __2021-01-17 05:46:57__
-
-> Nice working<br> :date: __2021-01-16 05:24:46__
-
-> Does what it says on the tin...would be better if you didn't have to have your location switch on to use it. Apart from that, no issues<br> :date: __2021-01-09 09:50:29__
-
-> Very good<br> :date: __2021-01-06 18:10:20__
-
 
 
 #### 3-star reviews
@@ -202,6 +202,10 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="doh.health.shield 3 reviews"/>
 </p>
+
+> Good<br> :date: __2021-01-29 04:38:09__
+
+> When i want to view invoice, pdf file is protected and it is asking for password, but nowhere it is mentioned what should i enter, tried with EID no, but doesnt work.<br> :date: __2021-01-27 09:42:57__
 
 > Greetings and more, my PCR test result and phase III trials volunteer star is not being updated.Kindly advice.<br> :date: __2021-01-21 12:18:50__
 
@@ -219,10 +223,6 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 
 > Ok<br> :date: __2021-01-06 22:19:14__
 
-> My app is not working I took a test yesterday and I am trying too open my profile but it says error try later or contact customer service.<br> :date: __2021-01-05 05:17:24__
-
-> useful<br> :date: __2020-12-31 16:56:18__
-
 
 
 #### 2-star reviews
@@ -230,6 +230,16 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="doh.health.shield 2 reviews"/>
 </p>
+
+> Hopeful<br> :date: __2021-01-29 18:06:23__
+
+> After one month it is not opening<br> :date: __2021-01-26 11:47:55__
+
+> Battery drain very fast and report didn't get from 12 Jan 2021<br> :date: __2021-01-26 07:53:12__
+
+> I have had a test with a negative result, and 3 times the hospital asked to update the app, but it is still not updated. There is no way to contact anyone about this problem.<br> :date: __2021-01-25 08:42:00__
+
+> Sometimes the result not showing accurately<br> :date: __2021-01-24 15:29:49__
 
 > My covid result is coming but al hosn app says some time not result yet, some time mobile no. Is not register why<br> :date: __2021-01-19 18:44:18__
 
@@ -241,16 +251,6 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 
 > How long this apps took to update covid- 19 vaccine status ???? Or star<br> :date: __2021-01-11 04:00:14__
 
-> I want to log in bt last one hour still didn't take password. Plz provide code<br> :date: __2021-01-10 19:57:06__
-
-> I know people using this app have way worse problems than I have but here is my take, I have one problem with the app why does it need my Bluetooth and location data all the time and why can't I make the choice if I want to get notified to know if there is anyone positive near me. The Bluetooth and location permission seems kinda creepy like they are trying to track your devices connected via bluetooth and track your location. That Is my problem with the app.<br> :date: __2021-01-03 14:43:47__
-
-> It is not showing the update results of covid test<br> :date: __2021-01-01 21:07:29__
-
-> Not working always<br> :date: __2021-01-01 13:06:23__
-
-> Very slow<br> :date: __2020-12-31 11:11:18__
-
 
 
 #### 1-star reviews
@@ -259,24 +259,24 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="doh.health.shield 1 reviews"/>
 </p>
 
-> It says wrong credentials and asking me to use some unknown number. In my all other official documents, id's and government applications, i have my personal number and its working fine. But only for this application it's not. I did my covid vaccination and want to see my result. Please do the needful give user some meaningful options and settings.<br> :date: __2021-01-22 18:50:37__
+> Bad app<br> :date: __2021-01-29 20:02:27__
 
-> البرنامج يستهلك بطاريه يرسل كثير من الاشعارات<br> :date: __2021-01-22 16:43:22__
+> this app does not open. it doesn't work at all.<br> :date: __2021-01-29 06:44:18__
 
-> Horrible user experience. Why does it not have a reliable spell check? Says that my number is not registered especially when it says that my number is registered. That also after I recieved a successful screening. Fix it<br> :date: __2021-01-22 11:18:12__
+> Bluetooth open all the time for what? Location on all the time for what? App closing by itself. Uninstalled.<br> :date: __2021-01-28 18:25:41__
 
-> It's not working 😤😦<br> :date: __2021-01-22 08:20:16__
+> So unfortunate the app isn't working on my phone, I don't really know what the issue might be. Please I need help.<br> :date: __2021-01-28 18:19:33__
 
-> Prompting my number (current number registered on my recent test) is not registered. Log out and log in with your numbers: (my old number) I followed the procedure but I did not received the on my old number. I tried again on my current number, I easily got the code but still prompted "Not registered".... Any work around for this?<br> :date: __2021-01-22 06:24:55__
+> The app is asking for way too much access just to see your result, make sure you install it on a separate phone.<br> :date: __2021-01-28 15:48:55__
 
-> Why it need your location all the time?<br> :date: __2021-01-21 13:28:23__
+> Doesnt work cant log in at all asks for an ICA mobile number which I've never heard of and just freezes when I put in my own mobile number.<br> :date: __2021-01-28 11:13:35__
 
-> Not able to select location on, pressing multiple times but x sign is not changing to a green tick and that mean i can not proceed with use of the app. Any suggestions?<br> :date: __2021-01-21 08:49:46__
+> Not recognizing my mobile no. Kept telling me wrong no. From 2020 till now almost end of January 2021...been calling al hosn number...no reply<br> :date: __2021-01-28 10:37:42__
 
-> سيء<br> :date: __2021-01-20 19:14:31__
+> No results since 14/01.<br> :date: __2021-01-28 08:37:56__
 
-> Why blue tooth need ON, or battery too much consume...good thing covid 19 r and vaccination ecord save☺️<br> :date: __2021-01-20 15:31:53__
+> This app is not working as mentioned. It shows loading. I have taken 2 doses of covid vaccine then taken 3 PCR tests and past 30 days . But still it is not updated in the AlHosn app<br> :date: __2021-01-28 07:19:31__
 
-> Horrible app<br> :date: __2021-01-20 14:29:13__
+> need to improve, worse experience<br> :date: __2021-01-27 22:02:03__
 
 

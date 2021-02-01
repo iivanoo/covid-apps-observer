@@ -178,25 +178,25 @@ The NowClinic app has been installed by more than **50000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="com.americanwell.android.member.optum 5 reviews"/>
 </p>
 
-> Love the fact that I'm at home safe and still able to have a seamless interaction with my Dr.<br> :date: __2021-01-22 16:55:31__
+> Jerry was awesome!<br> :date: __2021-01-29 17:04:29__
 
-> Great<br> :date: __2021-01-20 18:04:37__
+> Doctor was on time to the appointment visit. I did not have any problems to access or conect and the visit went well and he was able to answers all my questions.<br> :date: __2021-01-29 00:15:13__
 
-> Good<br> :date: __2021-01-20 17:18:24__
+> Great<br> :date: __2021-01-28 22:23:51__
 
-> It was quick and easy<br> :date: __2021-01-20 16:04:44__
+> My visit with Brenna Benas is what I need. Brenna is always kind, really kind and I leave with thoughts that are good. So Thank you, Brenna Benas for being here to help me.<br> :date: __2021-01-26 20:59:18__
 
-> Excellent!!!! Was scared to go to ER 😳<br> :date: __2021-01-18 19:04:40__
+> Easy fast and convenient<br> :date: __2021-01-26 17:51:00__
 
-> After a long wait and a in-person patient visit with UMC Quick Care did not receive all medications needed at the pharmacy as told they would and was very successful with the doctor seen on video on now clinic prescriptions I need seen not a long wait very much satisfied thank you so much for your help and thank you Maria Rizalina Barlaan<br> :date: __2021-01-17 19:02:34__
+> Everything went very smooth very happy with the online visit<br> :date: __2021-01-25 23:48:55__
 
-> This app is absolutely amazing for so many reasons. If you can't afford a doctor visit, use this app. Using this app also literally turns a 2 hour doctor visit into a 10 minute visit. I also felt like Dr. Develle really knew what he was talking about so I felt confident speaking with him. The only issue is that if you're on a Samsung device, there is some echo issues. Other than that I will literally never see a minute clinic or urgent care again.<br> :date: __2021-01-17 07:24:43__
+> Very comforting also knowing I'm doing the right things to cure myself thank you<br> :date: __2021-01-25 23:18:40__
 
-> The NP Shana was super nice and understanding<br> :date: __2021-01-15 20:02:49__
+> Very easy to use. Loved it!<br> :date: __2021-01-25 22:01:13__
 
-> Excellent<br> :date: __2021-01-15 19:52:14__
+> Very convenient for non-urgent medical needs. This is a great service that allows in-person visits for more urgent needs.<br> :date: __2021-01-25 21:51:48__
 
-> Quick and easy<br> :date: __2021-01-15 18:34:33__
+> Very easy to use, I would recommend it to anyone.<br> :date: __2021-01-24 03:03:52__
 
 
 
@@ -205,6 +205,8 @@ The NowClinic app has been installed by more than **50000** times. At this time,
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.americanwell.android.member.optum 4 reviews"/>
 </p>
+
+> Great service. Provider excellent. The only improvement I would suggest is to have a better idea of wait time or having app phone us when we are 5 minutes away from seeing doctor<br> :date: __2021-01-25 00:18:37__
 
 > Easy set up. So easy that I forget the password or where I put it but once I was in clear instructions and timely visit. Less than one hour overall.<br> :date: __2021-01-13 22:51:34__
 
@@ -223,8 +225,6 @@ The NowClinic app has been installed by more than **50000** times. At this time,
 > Easy quick<br> :date: __2020-09-26 00:52:58__
 
 > Good after you learn what to do and get set up<br> :date: __2020-09-02 16:04:27__
-
-> Sometimes the waits get a little lengthy but with the situation going on right now it's understandable.<br> :date: __2020-08-22 22:55:59__
 
 
 

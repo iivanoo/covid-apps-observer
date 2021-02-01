@@ -4,49 +4,49 @@
         "store_country": "nl",
         "store_lang": "nl",
         "latest_crawled_version": "1.27.4",
-        "latest_crawl": 1611396384
+        "latest_crawl": 1611945055
     },
     {
         "id": "org.who.infoapp",
         "store_country": "nl",
         "store_lang": "nl",
         "latest_crawled_version": "4.1.0",
-        "latest_crawl": 1611396386
+        "latest_crawl": 1611945063
     },
     {
         "id": "nl.focuscura.beeldbelapp",
         "store_country": "nl",
         "store_lang": "nl",
         "latest_crawled_version": "5.4.0",
-        "latest_crawl": 1611396395
+        "latest_crawl": 1611945068
     },
     {
         "id": "de.xikolo.openwho",
         "store_country": "nl",
         "store_lang": "nl",
         "latest_crawled_version": "3.7",
-        "latest_crawl": 1611396395
+        "latest_crawl": 1611945072
     },
     {
         "id": "nl.rijksoverheid.en",
         "store_country": "nl",
         "store_lang": "nl",
-        "latest_crawled_version": "1.1.2",
-        "latest_crawl": 1611396399
+        "latest_crawled_version": "1.2.2",
+        "latest_crawl": 1611945113
     },
     {
         "id": "nl.lumc.covidradar",
         "store_country": "nl",
         "store_lang": "nl",
         "latest_crawled_version": "1.1.2",
-        "latest_crawl": 1611396408
+        "latest_crawl": 1611945159
     },
     {
         "id": "com.umcutrecht.covapp",
         "store_country": "nl",
         "store_lang": "nl",
         "latest_crawled_version": "1.9.0",
-        "latest_crawl": 1611396408
+        "latest_crawl": 1611945167
     },
     {
         "id": "com.everywhereim.cocorico",

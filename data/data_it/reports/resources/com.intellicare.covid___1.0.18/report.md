@@ -141,6 +141,8 @@ The LAZIOdrCovid app has been installed by more than **100000** times. At this t
 <img src="5_star_reviews_wordcloud.png" alt="com.intellicare.covid 5 reviews"/>
 </p>
 
+> Servizio eccellente reso da personale paramedico e medico di indubbia professionalità e umanità. Grazie ancora<br> :date: __2021-01-27 17:13:36__
+
 > Applicazione per fatta. Utilissima ed indispensabile.<br> :date: __2021-01-18 15:11:07__
 
 > Ottima<br> :date: __2020-11-11 19:16:16__
@@ -159,8 +161,6 @@ The LAZIOdrCovid app has been installed by more than **100000** times. At this t
 
 > Molto buona<br> :date: __2020-08-27 12:33:35__
 
-> Ok<br> :date: __2020-08-27 10:03:31__
-
 
 
 #### 4-star reviews
@@ -168,6 +168,8 @@ The LAZIOdrCovid app has been installed by more than **100000** times. At this t
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.intellicare.covid 4 reviews"/>
 </p>
+
+> Scaricata appena uscita, ora che mi serve, nemmeno si apre. 24/1/21 contattata dal gestore dell'app, che consigliava di reinstallare l'app. Nel frattempo, è uscito il nuovo aggiornamento e l'app funziona di nuovo. Do 4 stelle, perché credo sia un servizio utile, ma non ho avuto il modo di sperimentarlo, in quanto, al momento, non ne ho la necessità.<br> :date: __2021-01-24 15:20:11__
 
 > Utile applicazione. Ho avuto feedback dal medico di medicina generale senza problemi.<br> :date: __2021-01-14 17:29:26__
 
@@ -187,8 +189,6 @@ The LAZIOdrCovid app has been installed by more than **100000** times. At this t
 
 > Update 6/4/2020: Scaricata nuova versione, confermo la risoluzione delle problematiche. Grazie<br> :date: __2020-04-07 11:08:15__
 
-> Positiva<br> :date: __2020-04-03 14:28:41__
-
 
 
 #### 3-star reviews
@@ -196,6 +196,8 @@ The LAZIOdrCovid app has been installed by more than **100000** times. At this t
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="com.intellicare.covid 3 reviews"/>
 </p>
+
+> Fatta la seconda dose di vaccino non ha l'upgrade che consenta di scansionare il qr code per ottenere il passaporto vaccinale.. Al numero verde non risponde nessuno!<br> :date: __2021-01-26 16:18:58__
 
 > Certamente migliorabile quanto a velocità e feedback del inserimento dati e della conferma lettura ma in assoluto sembra funzionare. Molto utile e doverosa sarebbe la possibilità di esportare i propri parametri inseriti<br> :date: __2021-01-22 09:39:31__
 
@@ -215,8 +217,6 @@ The LAZIOdrCovid app has been installed by more than **100000** times. At this t
 
 > Ok ma il fatto che nella scheda "contatta il tuo medico" non compaia piú in nome del mio medico cosa significa? é voluto?<br> :date: __2020-04-30 12:58:44__
 
-> A volte non consente inserimento dati<br> :date: __2020-04-27 07:41:30__
-
 
 
 #### 2-star reviews
@@ -224,6 +224,8 @@ The LAZIOdrCovid app has been installed by more than **100000** times. At this t
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="com.intellicare.covid 2 reviews"/>
 </p>
+
+> La app nella ultima release ha difficoltà a scaricare le misurazioni già inserite e ad aggiungerne nuove: entra in loop<br> :date: __2021-01-27 10:08:17__
 
 > Dopo aver installato l'app e inserito i dati x 2 giorni l'app ha chiesto un aggiornamento fatto e da quel momento non mi fa più accedere mi chiede i dati di accesso dice ti ho inviato una conferma al numero ma non invia nulla e non riesco più ad accedere. Se ai miei tempi si facevano procedure del genere ci cacciavano a pedate.<br> :date: __2021-01-22 10:53:44__
 
@@ -243,8 +245,6 @@ The LAZIOdrCovid app has been installed by more than **100000** times. At this t
 
 > Io vorrei sapere solo se altri hanno un problema di covid io sono un paziente sano e vorrei solo prevenire il contagio<br> :date: __2020-05-26 18:40:05__
 
-> L'ho appena installata memorizzando i miei dati ma cliccando sul link del SMS mi dà errore. Per ora ho solo perso tempo.<br> :date: __2020-05-23 16:19:44__
-
 
 
 #### 1-star reviews
@@ -253,9 +253,9 @@ The LAZIOdrCovid app has been installed by more than **100000** times. At this t
 <img src="1_star_reviews_wordcloud.png" alt="com.intellicare.covid 1 reviews"/>
 </p>
 
-> Scaricata, aggiornata, ora non si apre più, a che serve.<br> :date: __2021-01-18 19:02:34__
+> Una volta effettuata la registrazione, non si apre.<br> :date: __2021-01-27 19:37:49__
 
-> Scaricata appena uscita, ora che mi serve, nemmeno si apre<br> :date: __2021-01-15 21:04:50__
+> Scaricata, aggiornata, ora non si apre più, a che serve.<br> :date: __2021-01-18 19:02:34__
 
 > Direi che... fa abbastanza caxxare. Non me ne vogliamo i colleghi programmatori, so che non è colpa loro. Ma credo sia un app approssimativamente inutile. Tra l'altro mi si è impallata mentre cercavo di usare il sistema di messaggistica interna<br> :date: __2020-12-17 16:03:26__
 

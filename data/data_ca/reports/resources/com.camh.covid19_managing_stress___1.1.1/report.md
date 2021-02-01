@@ -152,7 +152,11 @@ No recent reviews available with 2 stars.
 #### 1-star reviews
 
 <p align="center">
-
+<img src="1_star_reviews_wordcloud.png" alt="com.camh.covid19_managing_stress 1 reviews"/>
 </p>
 
-No recent reviews available with 1 stars.
+> My only in-person experience as a patient: got a referral, then saw a doctor who promised to help and then, when I had an emergency, he passed me over to another agency that refused his referral. This app perfectly mimics the uselessness of that encounter, including having a 'discussion forum' that's only open during business hours. Everything on the app can be found with a web search. Don't waste your time downloading it.<br> :date: __2021-01-25 13:48:58__
+
+> The app contains reading material only and is not interactive in any way. Once you read the material, the app is useless. This would be better positioned on a website.<br> :date: __2021-01-23 15:36:29__
+
+

@@ -207,6 +207,8 @@ The MetroPlus Virtual Visit app has been installed by more than **5000** times. 
 <img src="5_star_reviews_wordcloud.png" alt="com.metroplus.android.mtpl.virtualvisit 5 reviews"/>
 </p>
 
+> I really enjoyed the visit and the physician she was great.. I recommend the Metroplus virtual visit to every member because it's the best...🤗🤗👌👌<br> :date: __2021-01-28 11:52:55__
+
 > An amazing application. This is perfect. I used this service instead of entering a clinic to keep myself away from any infectious pathogens. The app is easy to use. The Doc was amazing. And this was so sufficient. Thank you so much.<br> :date: __2021-01-06 20:10:24__
 
 > Ok<br> :date: __2020-11-14 04:45:23__
@@ -224,8 +226,6 @@ The MetroPlus Virtual Visit app has been installed by more than **5000** times. 
 > I just downloaded the app and everything was really fast and easy to set up. Overall extremely helpful and comfortable.<br> :date: __2020-06-10 00:46:49__
 
 > Both doctors I dealt with showed concern and had been willing to help and give the best advice<br> :date: __2020-06-05 16:33:41__
-
-> Excelent, nice and easy.<br> :date: __2020-06-05 00:10:52__
 
 
 

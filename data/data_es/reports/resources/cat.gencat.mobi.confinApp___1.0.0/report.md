@@ -169,6 +169,10 @@ The CONFINAPP app has been installed by more than **10000** times. At this time,
 <img src="3_star_reviews_wordcloud.png" alt="cat.gencat.mobi.confinApp 3 reviews"/>
 </p>
 
+> Esta bien, pero cada vez que he de hacer un certificado me he de buscar el código postal de la población de destino.<br> :date: __2021-01-26 16:05:28__
+
+> En la sección de novedades indica las normas hasta el 18 de enero, y estamos a 23 de enero....es flipante<br> :date: __2021-01-23 16:59:39__
+
 > No sempre deix renovar el certificat. L'has d'eliminar i tornar-lo a fer de nou<br> :date: __2021-01-12 18:47:00__
 
 > Es bloqueja i no deixa continuar<br> :date: __2021-01-07 17:52:39__
@@ -209,6 +213,10 @@ The CONFINAPP app has been installed by more than **10000** times. At this time,
 <img src="1_star_reviews_wordcloud.png" alt="cat.gencat.mobi.confinApp 1 reviews"/>
 </p>
 
+> Se borran los certificados en poco tiempo.No vale la app<br> :date: __2021-01-29 18:24:09__
+
+> O no me deja renovar los certificados o cada pocos días se me borra todo el perfil y tengo que volver a crearlo. Si funcionara mejor sería más útil. También sería útil una opción para poder hacer automáticamente el de vuelta a casa con los datos ya introducidos.<br> :date: __2021-01-28 09:33:27__
+
 > No es una App, se limita a abrir lo mismo que verías desde el navegador.<br> :date: __2021-01-22 08:45:18__
 
 > Molt poc útil, les novetats no s' actualitzen, el certificats no es guarden. És una llastima perque actualitzada i amb els certificats seria una app super útil<br> :date: __2021-01-16 09:17:01__
@@ -224,9 +232,5 @@ The CONFINAPP app has been installed by more than **10000** times. At this time,
 > No funciona correctament. Quan poses codi postal d'origen i de destinació no et permet seguir afegint provincia, municipi... I sense aquestes dades no pot generar el certificat. Una pena que una cosa obligatòria com dur el certificat per anar a treballar cada dia, suposi tan temps (certificat per anar a treballar i per tornar a casa) sense contar si durant la jornada laboral s'han de fer més trajectes. App pésima<br> :date: __2021-01-07 21:43:42__
 
 > Un cop tens el primer certificat fet, als darrers et recupera les dades personals, però no deixa introduir el codi postal de destí. Fatal!!<br> :date: __2021-01-07 21:07:31__
-
-> Basura Pongo C. P de dirección de origen y de ahí no puedo pasar.<br> :date: __2021-01-07 21:05:04__
-
-> No se abre 🤦‍♂️<br> :date: __2021-01-07 14:28:26__
 
 

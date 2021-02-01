@@ -187,6 +187,8 @@ The NHS 24 : Covid-19 and flu information app has been installed by more than **
 <img src="1_star_reviews_wordcloud.png" alt="scot.nhs24.coronavirus 1 reviews"/>
 </p>
 
+> I dont live in scotland, why would I want this?<br> :date: __2021-01-28 14:01:16__
+
 > There is no track and trace, if this isn't it then where is it?<br> :date: __2020-12-18 17:52:56__
 
 > Rubish it does not work andstops everything elsewith failed to launch<br> :date: __2020-10-09 14:01:12__
@@ -204,7 +206,5 @@ The NHS 24 : Covid-19 and flu information app has been installed by more than **
 > This is for Scotland not England<br> :date: __2020-09-24 22:04:32__
 
 > Not sure I've got the right app I wanted the track and trace one<br> :date: __2020-09-24 19:30:42__
-
-> Doesn't work.<br> :date: __2020-09-24 11:14:25__
 
 

@@ -178,6 +178,8 @@ The CoronaTest Navarra app has been installed by more than **10000** times. At t
 <img src="3_star_reviews_wordcloud.png" alt="es.navarra.coronatestnavarra 3 reviews"/>
 </p>
 
+> Cuando decía de poner el SMS no lo tenia el código I clicaba en el enlace y me volvía a la página de número de teléfono por eso le doy 3 ✴✴✴<br> :date: __2021-01-26 19:49:07__
+
 > Problemas con la aplicación. Hoy me ha sacado de la app (entiendo que una actualización ya que yo no he borrado nada) a pesar de no tener perfil en la app me manda mensaje Qué debo hacer<br> :date: __2020-08-13 20:09:25__
 
 > Pensaba que era como un radar<br> :date: __2020-07-05 21:37:17__

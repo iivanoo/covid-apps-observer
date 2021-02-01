@@ -1,5 +1,17 @@
 [
     {
+        "reviewId": "gp:AOqpTOEngqLyrSrNIcINJ5sFOIzdQsgf-QUBspZvTu11P3e3x94jmSia7nL7xbNzHxR7xt8B8MwzlT8iFwpsd-8",
+        "userName": "Rafa",
+        "userImage": "https://play-lh.googleusercontent.com/-C6Zw4MmAwH4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclM8U2NYaPvlhUEeLvJh_1W_FdsKg/photo.jpg",
+        "content": "Me lo he instalado bastantes veces tanto en castellano, como en catal\u00e1n y no he conseguido que me d\u00e9 acceso para el test. No me ha servido de nada. Mi opini\u00f3n, negativa total.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.1.0",
+        "at": "2021-01-28 15:59:04",
+        "replyContent": "Trasladamos el problema que nos indica. Gracias por comunicarlo.",
+        "repliedAt": "2021-01-29 21:47:55"
+    },
+    {
         "reviewId": "gp:AOqpTOFbJkpotptlM2hLaGDk1sbVfrTgkYUnK2PUc2n7UCkrhCdVFAoop-4eFSygug36zB-dd0PSQWnFTKGsE1g",
         "userName": "ana uceda",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgjU19gmZcZxFmXe_B_sKKKRRI-u06NLHF0f3W7rA",
@@ -8,8 +20,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "2.1.0",
         "at": "2021-01-22 07:58:07",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Estamos trabajando para ajustar mejor la app. Gracias por comunicarnos su valoraci\u00f3n.",
+        "repliedAt": "2021-01-29 21:51:39"
     },
     {
         "reviewId": "gp:AOqpTOFaECGACQNKnKvROHY6crkJA6Uiwea5eygYKSIZQoJmEeu-Vw6RAojiYfa3crSYsAy2orV68FnUIVvqcxA",
@@ -41,7 +53,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhLVpDxe9795egDa9M72QSQlfM14Lp_foph8TTwRg",
         "content": "No sirve de mucho bajo mi humilde opini\u00f3n... ayer me hicieron el test r\u00e1pido que suelen hacer antes del pcr y di positivo con s\u00edntomas evidentes tales como p\u00e9rdida de olfato, gusto, fiebre, etc.. seg\u00fan el test de \u00e9sta app no tengo s\u00edntomas... cosas a mejorar, ah\u00ed lo dejo.",
         "score": 1,
-        "thumbsUpCount": 10,
+        "thumbsUpCount": 12,
         "reviewCreatedVersion": "2.1.0",
         "at": "2021-01-12 11:55:26",
         "replyContent": "Gracias por comunicarnos su opini\u00f3n que vamos a trasladar a los responsables para su mejora",
@@ -113,7 +125,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-B3mDXYNdO2A/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnhmuVWoBGipRhir971jDLg1eW5ZA/photo.jpg",
         "content": "La primera vez he logrado llegar al paso de recibir el codigo por Sms, lo he puesto pero de all\u00ed no se mueve, la segunda vez ya ni he podido intentar enviar el SMS, por mucho que apretaba no pasaba nada. As\u00ed no me extra\u00f1a que no se puedan contabilizar los casos, si no funciona una simple aplicaci\u00f3n, que se puede esperar de situaciones m\u00e1s complejas?",
         "score": 1,
-        "thumbsUpCount": 10,
+        "thumbsUpCount": 11,
         "reviewCreatedVersion": "2.1.0",
         "at": "2020-12-16 14:56:06",
         "replyContent": "Recomendamos desinstalar la aplicaci\u00f3n e instalarla de nuevo.",
@@ -2126,7 +2138,7 @@
     {
         "reviewId": "gp:AOqpTOE8L4UGzOnO6PsvhGNybzLZuV4aAz5qX_5pCcFZkO4mPV7qeLS1Ao9uWs72YdNKP8z0ZnNXTEHiHeUctB0",
         "userName": "Dami\u00e0 Vall Arj\u00f3",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gie_2cmR1crVq1Ew8nVIcEPZpZzWe8kYCZcs_GC-Q",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiunGWPt1GtyOSgdFiQEHQrDslNTqtFVYHXnK-gWCw",
         "content": "En serio no la podeu fer una mica millor. Sembla feta per un crio",
         "score": 1,
         "thumbsUpCount": 1,
@@ -2945,7 +2957,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjqB1ODkwS971653E2wCznZIjN8zCB-Uj2QUqIwQw",
         "content": "Gran app, que nos ayuda a construir el mapa de riesgo y afectaci\u00f3n!!",
         "score": 5,
-        "thumbsUpCount": 3,
+        "thumbsUpCount": 4,
         "reviewCreatedVersion": "1.0.0",
         "at": "2020-03-29 19:41:12",
         "replyContent": null,
@@ -3721,7 +3733,7 @@
     },
     {
         "reviewId": "gp:AOqpTOGdsR3aITETvjvvlCK4E25INAQtM9hoSr0JLr1RpKmpHs3tcSSbdzftfJ0_4bH8559ZlRQQgUNHeKCHpGY",
-        "userName": "Live the Code",
+        "userName": "Jordi Escobar",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhKapV9_kZFFPw4PWeWUQy_waIzBNmYZEghZLabLyc",
         "content": "Ni bien ni mal, supongo k dada la situaci\u00f3n cumple con su objetivo, simple pero como ya he dicho parece k cumple con el objetivo. GRACIAS por la herramienta! ;)",
         "score": 4,
@@ -4333,7 +4345,7 @@
     },
     {
         "reviewId": "gp:AOqpTOE6TgPpKTvbBvlsCH5mTgc_heZsRaYr_eq7_m2nyA5hVcsTfo5sCJilSmuMOzdbZHOzeNTLOvv3mvOEK4Q",
-        "userName": "\u00c1ngel Molina S\u00e1ez",
+        "userName": "\u00c1ngel M. S.",
         "userImage": "https://play-lh.googleusercontent.com/-gkHeW5cABCs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckF29BnPszJopiCXoq6PsqUK9bRvw/photo.jpg",
         "content": "S\u00f3lo recoge datos de los s\u00edntomas.No aporta gran informaci\u00f3n al paciente.",
         "score": 1,
@@ -4514,7 +4526,7 @@
     {
         "reviewId": "gp:AOqpTOFVbyNLFZiFY4PxEZCPIisWgBHZFEgglmQsoRFK7y4Bet_7kx6_bjLkK5V1AOpMgZbIEEq9ZofSy6NiShA",
         "userName": "Francesc Martinez Vilaseca",
-        "userImage": "https://play-lh.googleusercontent.com/-SU2EOLM6CSU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclUp7_lxWozw_-SwRb7chO1xkAaDA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhPNsurlq6rTTkmmCcd1cHg2IW75umLOdCAaFQe6JM",
         "content": "Ho guanyarem!!!7",
         "score": 4,
         "thumbsUpCount": 0,

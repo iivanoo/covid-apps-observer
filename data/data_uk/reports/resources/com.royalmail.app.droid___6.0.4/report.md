@@ -155,6 +155,8 @@ The Royal Mail - Tracking, redelivery, prices app has been installed by more tha
 <img src="5_star_reviews_wordcloud.png" alt="com.royalmail.app.droid 5 reviews"/>
 </p>
 
+> A great app, I can track parcels. Search for postcodes and address and gives up to date information<br> :date: __2021-01-25 14:58:08__
+
 > Handy<br> :date: __2021-01-23 03:16:18__
 
 > Best post service<br> :date: __2021-01-22 00:53:07__
@@ -173,8 +175,6 @@ The Royal Mail - Tracking, redelivery, prices app has been installed by more tha
 
 > Very good<br> :date: __2021-01-08 10:58:23__
 
-> Great app, i can see exactly where my package is and when it will be delivered<br> :date: __2021-01-06 20:48:15__
-
 
 
 #### 4-star reviews
@@ -182,6 +182,8 @@ The Royal Mail - Tracking, redelivery, prices app has been installed by more tha
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.royalmail.app.droid 4 reviews"/>
 </p>
+
+> Improving thanks<br> :date: __2021-01-23 21:31:53__
 
 > It's not a bad app for tracking parcels. Just would really like to be able to delete them from my list once they've been delivered. Any chance?<br> :date: __2021-01-19 16:25:38__
 
@@ -200,8 +202,6 @@ The Royal Mail - Tracking, redelivery, prices app has been installed by more tha
 > I like the app. Feature request: Address book, and option to set default home address. Unless I have missed it.<br> :date: __2020-12-17 08:50:28__
 
 > For buying postage, it's almost perfect. I use this to post items that I make for my Etsy page, and it's mostly really good. Will be close to a 5* for that as soon as they include international postage.<br> :date: __2020-12-08 02:00:45__
-
-> Excellent app, however few fixes I'd like to see. 1 After you name an item, the tracking number dissappears in the list replaced with the name. 2 allow a gap between the numbers for easier reading ie FE 1234 1234 GB 3 Allow the option to rearrange the list of items.<br> :date: __2020-12-05 08:29:08__
 
 
 
@@ -239,6 +239,14 @@ The Royal Mail - Tracking, redelivery, prices app has been installed by more tha
 <img src="2_star_reviews_wordcloud.png" alt="com.royalmail.app.droid 2 reviews"/>
 </p>
 
+> Got there eventually but not a straight forward process. Like something from 2010.<br> :date: __2021-01-29 08:08:07__
+
+> Useless they delivered to my house every day but don't have my address in the app therefore cant even log on or do anything<br> :date: __2021-01-26 21:24:17__
+
+> Difficult to track things<br> :date: __2021-01-25 16:16:27__
+
+> Needs quite a bit of work to make it worth having on the phone. It tells you you've had an attempted delivery, but with the same notification you cannot book a redelivery. Makes no sense.<br> :date: __2021-01-24 11:49:15__
+
 > Gives you no option to talk to a real person in a live chat when you want to find out what's happened to your package you go round and round in circles with the options they give you and end up no better off you would of thought a company as big as royal mail would have that option and more tracking info so far not impressed at all<br> :date: __2021-01-20 19:59:54__
 
 > App can be good but is limited and annoying. If registered and track items if you are out on delivery it doesn't let you schedule redelivery using details on app.You have to manually enter everything including address to redeliver.<br> :date: __2021-01-20 17:19:05__
@@ -251,14 +259,6 @@ The Royal Mail - Tracking, redelivery, prices app has been installed by more tha
 
 > Won't let me sign up to track my parcel<br> :date: __2021-01-06 13:03:10__
 
-> It wasn't very helpful ive been waiting for a while for my items<br> :date: __2021-01-06 01:16:09__
-
-> A lot of registration effort for nothing you can't do via their website<br> :date: __2021-01-02 12:25:56__
-
-> This is the results of privatisation in app form. Doesn't even do the basics.<br> :date: __2020-12-26 16:01:07__
-
-> I installed the app to get an update as to when my delivery would occur. I dont understand why the service is "deliver by 9pm" but you have no tracking ability. It's no wonder why services like heroes are used, as they let you know when they are an hour away, estimated delivery time. I wouldnt use the Royal mail if I have any choice, customers value the ability to know when the parcel will arrive, even if that's a 3 hour time slot.<br> :date: __2020-12-24 21:04:12__
-
 
 
 #### 1-star reviews
@@ -267,24 +267,24 @@ The Royal Mail - Tracking, redelivery, prices app has been installed by more tha
 <img src="1_star_reviews_wordcloud.png" alt="com.royalmail.app.droid 1 reviews"/>
 </p>
 
-> absolutely useless and stressful.<br> :date: __2021-01-22 16:33:41__
+> Downgraded to 1 star, filled in info for a parcel, said cannot find your info, absolute shambles of a service<br> :date: __2021-01-27 19:33:49__
 
-> Utterly useless - doesn't even have an option to open the app!<br> :date: __2021-01-22 14:09:46__
+> Useless, only installed briefly as your website is non-functioning in part and is unable to give the locations of priority postboxes which at a time like this is crucial<br> :date: __2021-01-27 14:00:23__
 
-> Useless, rubbish app! It doesn't recognise your tracking number!<br> :date: __2021-01-19 18:29:31__
+> A waste of time, after entering all my info it woukdnt let me register. Fix it FFS.<br> :date: __2021-01-27 01:21:57__
 
-> Should display in the app on the tracking info who the sender is for signed-for items<br> :date: __2021-01-19 15:14:41__
+> Rubbish wont even let me register an account. And why do i even need to register an account. All i want is a push notification when theres an update to the status of a tracking number. I shouldnt need to register an account for this.<br> :date: __2021-01-27 01:19:05__
 
-> Wouldn't accept password. Reset password and it wouldn't accept new password. Waste of time.<br> :date: __2021-01-19 10:39:42__
+> Useless! Why do I need to sign up to simply check the status of my package?<br> :date: __2021-01-26 19:19:49__
 
-> Shocking app<br> :date: __2021-01-18 16:08:55__
+> Why the hell I need to register even before I check what this app does. All I wanted was to check the location of nearest post office. Disgraceful and pathetic.<br> :date: __2021-01-26 17:09:04__
 
-> As an Android programmer myself, I wonder why a new app version doesn't retain my login. It's not difficult 🤪<br> :date: __2021-01-18 12:01:26__
+> Can't use unless you sign up! Fail<br> :date: __2021-01-26 14:48:50__
 
-> Just awful<br> :date: __2021-01-17 20:58:07__
+> stupid app doesn't allow to chose items weight upon sending, says week internet speed, mine is 200mb/s they need more???<br> :date: __2021-01-25 20:29:44__
 
-> Useless tracking. Very vague. No information. Just telling me stuff I already know. "We have it" ect. Useless. Use the website. It's not much better. But it is slightly more information<br> :date: __2021-01-16 21:01:17__
+> Not easy to use or understand, how a company of this size can and are happy to put out such a poorly put together app is beyond me. The person who ultimately decided that it is good enough and gave it the ok should at the very lease face a diciplinery.<br> :date: __2021-01-25 17:59:39__
 
-> The app added a login screen for more pointless data farming and and targeting. Just use the website and delete this app.<br> :date: __2021-01-14 11:42:13__
+> Very disappointed about your international track and signed services. I've sent an item on 12.12.20 in Moldova and never arrived on destination. Nobody answer on the phone and apparently I'm not able to make a claim for my parcel either. Shame on you Royal Mail. My loved ones still waiting for their Christmas present. Any other courier is working perfectly but apparently just you have this situation regards Covid. I want to make a claim for delayed parcel. I'm very frustrated and upset about<br> :date: __2021-01-25 12:13:39__
 
 

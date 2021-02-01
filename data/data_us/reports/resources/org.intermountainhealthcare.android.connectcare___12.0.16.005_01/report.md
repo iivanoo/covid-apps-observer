@@ -192,13 +192,13 @@ The Intermountain Connect Care app has been installed by more than **100000** ti
 <img src="5_star_reviews_wordcloud.png" alt="org.intermountainhealthcare.android.connectcare 5 reviews"/>
 </p>
 
+> Great, got me in in the early morning hours before urgent cares were even open.<br> :date: __2021-01-26 14:03:49__
+
 > The provider was very concerned about why I was using connect care. She was just a caring person.<br> :date: __2021-01-17 23:08:12__
 
 > So convenient. Can't wait to share with my college student. Be prepared to fill in information as you would at a doctor's office.<br> :date: __2021-01-14 23:20:59__
 
 > Nice that I didn't have to take off work. Easy to access!<br> :date: __2021-01-12 17:03:39__
-
-> 😷❤️🙏🙌<br> :date: __2021-01-09 07:31:47__
 
 > This was awesome,,,the practitioner was fast and very nice.<br> :date: __2021-01-07 16:48:24__
 
@@ -276,6 +276,8 @@ The Intermountain Connect Care app has been installed by more than **100000** ti
 <img src="2_star_reviews_wordcloud.png" alt="org.intermountainhealthcare.android.connectcare 2 reviews"/>
 </p>
 
+> Not do happy with some things<br> :date: __2021-01-26 03:57:34__
+
 > I was next to see someone 6 times and got booted back to the beginning, had to reenter my info, and wasted 45 minutes.<br> :date: __2020-10-19 03:38:49__
 
 > I have had many telehealth appointments and always something happens with the connection or the volume of the voice. It's very difficult when you are trying to do psychotherapy about trauma and halfway through the connection dies or you can't hear your provider anymore. This needs lots of work!<br> :date: __2020-08-13 23:10:26__
@@ -294,8 +296,6 @@ The Intermountain Connect Care app has been installed by more than **100000** ti
 
 > Worked before but now it only records the front camera (the wrong one) and the physician says they can only see lines, like a garbled old school tv. Broken video...<br> :date: __2020-04-24 06:33:34__
 
-> The app itself is well made, but my experience made me ask myself "What's the point?". I have a sore throat and my ears have been bothering me for awhile so I finally decide to give this thing a shot. There is an option within the app that specifically states sore throat/ear problems. I get in touch with the provider and they tell me that both of those things require an in person evaluation. This is the most minor thing a person could have. If you can't diagnose it on the app what's the point?<br> :date: __2019-09-28 13:47:58__
-
 
 
 #### 1-star reviews
@@ -303,6 +303,8 @@ The Intermountain Connect Care app has been installed by more than **100000** ti
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="org.intermountainhealthcare.android.connectcare 1 reviews"/>
 </p>
+
+> Messages stopped working on app and online! I keep getting an error when all fields filled in.<br> :date: __2021-01-29 20:11:04__
 
 > Update: 2 hours of down time now. I'm trying to see a decent doctor for a misdiagnosis from Dr. Tyler D'Hulst about my hand. He said tendonitis but it's turned into a bulge in my tendon and it feels like it split and latched onto an adjacent tendon in my hand. My middle and ring finger on my dominant hand will not move independently anymore 24/7/365 is a lie I've been trying to get on for an hour and it just says they're "upgrading my experience". I don't see downtime as an upgraded experience!<br> :date: __2021-01-16 10:02:42__
 
@@ -321,7 +323,5 @@ The Intermountain Connect Care app has been installed by more than **100000** ti
 > This app i not user friendly I have typed in my information +5 times correctly, then stating your unsure it is who I say I am.. I know you guys are slammed but honestly please do something. I've waited on the phone with tech support on regards of my Account info for over 40 minutes. Then I got annoyed and hung up. Called again and once again still on the phone for more than 20 minutes. The auto record states you will only be waiting for 20 minutes.<br> :date: __2020-09-25 01:55:53__
 
 > I waited two hours to be seen, and kept getting canceled on each time I got to my turn on the waitlist. Four different times. I hate leaving negative reviews, but this experience was awful and extremely frustrating.<br> :date: __2020-09-15 20:56:55__
-
-> Had an appt for my daughter with the EAP that we waited a couple of weeks for. I downloaded the app and set up an account a week in advance. We joined our appt 15 min early. When the appt time came the provider's video wouldn't connect. We were connected to wifi and had a strong signal. We kept waiting and about 10 min after appt time we got a notification that the provider had canceled the appt. We didn't get a call, the appt was just canceled due to the provider's connectivity problem.<br> :date: __2020-09-11 23:43:50__
 
 

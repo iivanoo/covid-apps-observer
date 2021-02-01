@@ -146,6 +146,14 @@ The COVID Alert - Let’s protect each other app has been installed by more than
 <img src="5_star_reviews_wordcloud.png" alt="ca.gc.hcsc.canada.stopcovid 5 reviews"/>
 </p>
 
+> Its good but only works when others have the app too<br> :date: __2021-01-29 03:55:57__
+
+> I'm very happy knowing that I will be contacted if exposed.<br> :date: __2021-01-28 12:10:20__
+
+> Great so far, feel more protected already. science and technology!🤘<br> :date: __2021-01-27 19:36:03__
+
+> I love it<br> :date: __2021-01-24 10:08:08__
+
 > Lightweight, does not slow my phone down, minimal data collected. Far better to have this in your pocket than not, the more citizens use it, the better it gets.<br> :date: __2021-01-21 22:02:01__
 
 > Good<br> :date: __2021-01-21 17:16:48__
@@ -157,14 +165,6 @@ The COVID Alert - Let’s protect each other app has been installed by more than
 > I love the fact that our country will work to get virus dealt with, but I will always remember that they were the very people that sent covid 19 onto our Fair planet in the first place.<br> :date: __2021-01-19 04:57:40__
 
 > Hopefully more people in Ontario install it.<br> :date: __2021-01-18 01:11:45__
-
-> Works well if everyone uses it<br> :date: __2021-01-17 20:22:59__
-
-> How an app that is designed to save lives gets a 3.4 rating and yet video games that don't mean much at the end of the day get a 4.0 rating is beyond my understanding. I can only assume that some conspiracy theorists who think covid is a hoax or that the government wants to control us have given some very poor ratings. The premise behind this app seems quite simple so unless it is not picking up other people's codes properly then I can't see what issues could cause it to get a 3.4.<br> :date: __2021-01-16 01:00:19__
-
-> Great app. I trust it and hope it will alert me if needed.<br> :date: __2021-01-16 00:50:32__
-
-> I am a senior after shopping it is a God send to check and see if I had been exposed to the Covid 19.<br> :date: __2021-01-15 21:08:19__
 
 
 
@@ -202,6 +202,8 @@ The COVID Alert - Let’s protect each other app has been installed by more than
 <img src="3_star_reviews_wordcloud.png" alt="ca.gc.hcsc.canada.stopcovid 3 reviews"/>
 </p>
 
+> I have been trying to get my one time code for testing positive. It is still not available five days later please help me. I have gone to the Ontario website multiple times. I guessing I am not the only one.<br> :date: __2021-01-24 01:10:23__
+
 > Not enough people using the app. Have been to various places with outbreak without any notice form the app.<br> :date: __2021-01-23 07:02:40__
 
 > l have this app on my Android phone, & it works fine. I am very disapointed that the app is still not available 4 my Samsung/Android devices. I would think great effort would be put in2 making sure all mainstream devices are included, 2 help protect everyone from this hideous, life robbing desease! *In response 2 the developer: Samsung IS an Android phone, running Android 10 OS, with Google Play always up 2 date. As 1 of the biggest makers of Android devices, that leaves a lot of people out!<br> :date: __2021-01-22 21:15:48__
@@ -220,8 +222,6 @@ The COVID Alert - Let’s protect each other app has been installed by more than
 
 > With other countries deciding to recycle contact tracing info into other uses, uninstalled as a precaution.<br> :date: __2021-01-05 15:43:07__
 
-> moving along<br> :date: __2021-01-04 22:43:31__
-
 
 
 #### 2-star reviews
@@ -229,6 +229,8 @@ The COVID Alert - Let’s protect each other app has been installed by more than
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="ca.gc.hcsc.canada.stopcovid 2 reviews"/>
 </p>
+
+> I have tried to install this app several times. After I log in, I always get a message that "Something went wrong on our end. Please try again."<br> :date: __2021-01-23 15:09:21__
 
 > I dont understand how this will ever work of it keeps turning itself off. I check everyday and have to turn the stupid thing back on.<br> :date: __2021-01-23 00:20:38__
 
@@ -248,8 +250,6 @@ The COVID Alert - Let’s protect each other app has been installed by more than
 
 > I see a comment from Dec 30th that the major flaw is that location settings need to be on. The response from the developer is that the user just needs to update the app. I just installed it (Jan 7th) and it is asking for location settings to be on. ...Not sure what the developer means, if I don't turn on the location, the app will not run.<br> :date: __2021-01-07 18:12:26__
 
-> Great concept but the app is ineffective when Bluetooth or data is off? Why doesn't it have the option to manually enter where you were if it was turned off / battery died? Also, there should be a wider exposure range of reporting than within 6ft for at least 15 minutes.<br> :date: __2021-01-07 05:39:13__
-
 
 
 #### 1-star reviews
@@ -258,24 +258,24 @@ The COVID Alert - Let’s protect each other app has been installed by more than
 <img src="1_star_reviews_wordcloud.png" alt="ca.gc.hcsc.canada.stopcovid 1 reviews"/>
 </p>
 
+> I spent 12+ hours in a major metropolitan healthcare setting, with multiple positive individuals around me. Not a single notification. Is it that the app isn't being used by people or, just as likely, is it yet another expensive, useless government project? Either way, it's clearly garbage. App deleted, since it obviously doesn't work as advertised. Edit: Dev's response proves my point. Either it's not being used or it simply does not work.<br> :date: __2021-01-29 21:46:48__
+
+> An update was done and now I cant login. I put my email in to get a code sent to me and nothing gets sent.<br> :date: __2021-01-29 14:01:47__
+
+> Useless in Alberta<br> :date: __2021-01-27 13:48:44__
+
+> Covid doesn't exist so no point<br> :date: __2021-01-27 02:49:00__
+
+> I thought this app was supposed to alert you of covid cases in your area according to the Canadian government website. Apparently Edmonton Alberta is not in Canada? As the app States it does not work in this area oops I think it's pretty silly that Google Play will only allow you to write a review if you give it a star. I gave it a star but it's fake I don't mean it lol the app waste of space on one's phone if it doesn't work in your own province.<br> :date: __2021-01-26 23:52:59__
+
+> At first I gave this a five-star review because I think it's extremely important, however, a few people I know have been in contact with somebody who tested positive and all of Ontario's test centers turned them away. What is the point of a tracing app if people who have been in contact with people who have tested positive are not allowed to be tested? This app is essentially useless now. Great job, government. Can't be any more incompetent.<br> :date: __2021-01-25 17:55:02__
+
+> I fully support the reason for this app. However, what's the point if it won't even do its job? I was standing RIGHT NEXT to someone who was positive for covid and my phone gave me absolutely NO INDICATION that I had been exposed. So what's the use of this app??????<br> :date: __2021-01-23 21:00:47__
+
 > Covid is a scam<br> :date: __2021-01-22 08:05:57__
 
 > It's a good app, but it has a major flaw: it depends on people reporting that they have a positive covid test in order for it to work. There are many articles that reported almost no one who has tested positive actually reported on the app. This app is next to useless. Save your storage space<br> :date: __2021-01-20 00:27:02__
 
 > Why does it need Bluetooth? Doesn't seem to make sense that it would NEED Bluetooth to function and drain battery... Plus it's not even compatible in Coquitlam... 314+ days after pandemic confirmation...<br> :date: __2021-01-19 19:54:30__
-
-> Horrible app .. I've been in direct contact with 3 people(that I know of) that have had it and never once got a notification. Don't waste your time or energy 🙄<br> :date: __2021-01-19 14:05:23__
-
-> Sucked dry a 70% charged phone in less than 7 hours...<br> :date: __2021-01-19 12:13:09__
-
-> As others have mentioned the app wants my location on to operate. I can't update Android operating system to 11.0, which apparently is required for Covid alert to not need your location. I'm assuming I can't get AOS 11.0 because my phone is older. Too bad. I'd think this eliminates a lot of people. I keep location turned off and don't want to turn it on for this.<br> :date: __2021-01-19 03:23:35__
-
-> EDIT: re-downloaded the app to see if anything has changed, and it says there's no reporting in my area and that I should keep checking back for when people CAN make a report! So even if someone right next to me had covid they couldn't alert me through this app at all! Literally doesn't do anything, just forces you to keep your location and Bluetooth on all day to waste battery. I know for a damn fact that there have been exposures in my area, and this app has never alerted me to a single thing<br> :date: __2021-01-18 20:36:06__
-
-> After several emails posts online and my initial review this app has been updated to obfuscate your ability to know if it's working. They removed the ability for you to check and confirm if it actually works. Previously it's completely random . It could go weeks or days between checks. Why you removed the ability for users to see when it last checked for a covid exposure smacks of hiding the failures of this app. Why did you remove our ability to see when it last checked for an exposure?<br> :date: __2021-01-17 23:41:08__
-
-> Am in BC, gotta ask. Why so long for in to be active here<br> :date: __2021-01-17 21:16:17__
-
-> A family member received an exposure notification and promptly went to get tested. The next day, the exposure notification had disappeared from the app on it's own without any user intervention, indicating no exposure had occurred. This app is way too glitchy and needs a lot of improvement to make informed Public Health risk management decisions.<br> :date: __2021-01-17 17:23:51__
 
 
