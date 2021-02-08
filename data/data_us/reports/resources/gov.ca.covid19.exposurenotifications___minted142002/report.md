@@ -128,11 +128,17 @@ The CA Notify app has been installed by more than **500000** times. At this time
 <img src="5_star_reviews_wordcloud.png" alt="gov.ca.covid19.exposurenotifications 5 reviews"/>
 </p>
 
+> Download this app to be notified for possible exposure to Covid. You have to keep Blutooth on at all times for this app to work properly. Not battery intensive though.<br> :date: __2021-02-05 02:35:03__
+
+> Very useful, now I can stay home and be safe.<br> :date: __2021-02-02 10:20:01__
+
+> Please remember that for this app to work everyone who tested positive has to participate. They can't just add peoples information if they don't agree to it. People need to give permission. So if they don't show up it's bc they aren't doing their job to warn people and the community. What else can you expect from an individualistic western culture.<br> :date: __2021-02-02 00:41:59__
+
+> Cool cool.<br> :date: __2021-02-01 22:32:04__
+
 > This app is like facemasks, only works when you use it. Once the stupids die off we should be ok. I have not received any exposure notifications but then again I try to not to go out and when I do I wear a respirator. Overkill, yes, but I enjoy breathing.<br> :date: __2021-01-29 12:58:23__
 
 > Good<br> :date: __2021-01-28 21:19:02__
-
-> This is too crazy! God bless America and everyone and everything in the world. #Peacenotwar #phycologicalwarfare<br> :date: __2021-01-27 14:44:16__
 
 > It good to know about the virus<br> :date: __2021-01-26 06:45:21__
 
@@ -141,12 +147,6 @@ The CA Notify app has been installed by more than **500000** times. At this time
 > I am empress that finally something's happening in our city of San Francisco about the coviid pandemic which should be everyone concern and top priorities besides Gods word. I pray that all people nation wide will Grasps How powerful Gods word is God said " Thou Shall not kill" Its more powerful than the human mind. If every one would realizes that there may be a million laws thousands of rules and regulations, but none of them can do what Gods only Law for man kind /woman kind is Thou Shall Not Kill. This one Law that the Lord require of us is universal peace I'm sick because know one has grasped it. If only all the mass could see and understand. Lightbis understanding everyone should turn on the emergency response team located inside their mind and should early find the beautiful soul inside themselves that can bring Gods word to all life so that thebsick can be healed weather its mentally spiritual are physical. Universal Peace should bebour goals forb 2021 and beyond for if we all obeyed this one simple Law that God is asking us we will have peace of mind body and soul believe it and achieve it Trust God please for God sake's this would be loving each other which is what Jesus said in the beginning AD and in BC it was predicted even unto this day thank you for hearing me out as I thank the Lord for giving me His word that we just can't seem to grasp fully but I pray for you all that this shirt prayer may reach the globe . Father in Heaven and on Earth letbthem grasp what has just been delivered to all who may see that the peace grow daily abroad as sure as there is breathing. Amen By Lawrence Joseph Mc Dougal 111 Thank you.<br> :date: __2021-01-22 07:59:08__
 
 > Had to disable Facebook's official app for space to finally install<br> :date: __2021-01-22 01:46:34__
-
-> The concept is great! However, it requires everyone to install this app on their phone and must report if get infected. If government couldn't enforce people to wear a mask, I don't think in anyway can make people report if they get infected.<br> :date: __2021-01-19 23:20:53__
-
-> Seems simple enough to use. Turn it on and leave it on. If you receive a notification from app it means you've had a prolonged exposure to someone who reports a positive test. The app doesn't have any means of indicating whether you have the vaccine or not. I think in order to help determine if the vaccine also helps prevent the spread of the virus we should consider adding this data element. Or something to the desired effect.<br> :date: __2021-01-19 17:43:30__
-
-> Excellent app. Thankfully I've never received an exposure alert but I know someone who had, and it allowed them to quarantine to avoid getting others sick.<br> :date: __2021-01-18 06:49:26__
 
 
 
@@ -212,6 +212,8 @@ The CA Notify app has been installed by more than **500000** times. At this time
 <img src="2_star_reviews_wordcloud.png" alt="gov.ca.covid19.exposurenotifications 2 reviews"/>
 </p>
 
+> Two households for which I brought over groceries and other necessities have multiple people who have tested positive in their house and who I was within 10' of since they tested positive. I have yet to receive a notification of exposure over 30 days since exposure.<br> :date: __2021-01-30 20:19:53__
+
 > Upd: no help. No word. Did I expect better for installing this and proviso to contribute? surprisingly i did. 2stars remain. Giving this a 2 for intent, my Android version doesn't work. My roomie's version on iPhone works fine. Is there a setting that I can check? Please help app developers.<br> :date: __2021-01-19 21:02:39__
 
 > this will work great if every single family get this app. now, 4 families got infected around my house and the app did not hit any allert<br> :date: __2021-01-18 20:28:51__
@@ -230,8 +232,6 @@ The CA Notify app has been installed by more than **500000** times. At this time
 
 > So far tell me that I am not exposed, when the true it's the opposite, it's not accurate at all, my GPS is on at all times<br> :date: __2021-01-05 09:25:33__
 
-> This app needs the option to report if you have been near another user running this app but not tested positive so you can verify the app is actually doing something. Right now it just sits there and we "Assumbe" its working. I have decided to uninstall this app. It has no test mode to tell me it is even working, eats up excessive battery and it only notifies if you are near someone using this app that has shared that they have covid, and only if near you for 15 min. You can catch it in under 15<br> :date: __2021-01-05 02:58:08__
-
 
 
 #### 1-star reviews
@@ -240,24 +240,24 @@ The CA Notify app has been installed by more than **500000** times. At this time
 <img src="1_star_reviews_wordcloud.png" alt="gov.ca.covid19.exposurenotifications 1 reviews"/>
 </p>
 
+> This is app is good for draining your battery, wasting your time, and providing a false sense of awareness or safety conscienceness. It NEVER NOTIFIED ME OF ANYTHING. I'm on the frontline, sick people dropping out all over, and nothing ever. Uninstalling, but first: this app is a waste of time.<br> :date: __2021-02-05 18:10:40__
+
+> The app doesn't work. I recently had a high risk exposure & self quarenteened.-thankfully testing neg during this time. The affected ind attempted to update their results in app numerous times. But couldn' get a code at all! They ended up calling people 2 notify them of their exposure. The app creates a false sense of security. People assume their environment is safe since they haven't seen an alert. This creates opportunity for careless mistakes and covid spread. Disappointed so far.<br> :date: __2021-02-05 14:25:29__
+
+> I HIGHLY doubt that I have not been near anyone that has or has had COVID. What's next? CA Pedophile Notify app that notifies you if you've been near a pedophile that is willing to register themselves on the app?<br> :date: __2021-02-05 12:00:55__
+
+> I have covid and there was never a response from this app. Don't use it<br> :date: __2021-02-03 11:28:06__
+
+> If you're infected, getting a code is next to impossible. I got through to get a code 3 days after my positive test. I'm an ER nurse. I keep my phone in my pocket at work. After 2 months & having contact with over a couple of hundred confirmed positive patients, I have never gotten a notification. My husband was notified of a potential exposure 2 days after I entered the notify code. The phones charge next to each other on the counter regularly. The app gives you a false sense of security.<br> :date: __2021-02-03 08:04:02__
+
+> Useless app. Several of my wife's co-workers and patients have tested positive for covid-19 and they have reported it to the app but my wife has not gotten any alerts or shown any exposures on the app.<br> :date: __2021-02-02 07:16:48__
+
+> Terrible, blue tooth doesn't work<br> :date: __2021-02-01 19:46:57__
+
+> I was using this just for fun. It wasn't fun....This scamdemic is so "bad & scary" I didn't get one notification 🙄 Don't waste your time or battery consumption! You won't get answers you want or "need"! Live life to the fullest ❤<br> :date: __2021-01-30 20:44:29__
+
+> Couldn't load it onto my second phone<br> :date: __2021-01-30 18:36:15__
+
 > Used it for a month, not a single notification. Just a battery drainer. I think it is just a way for Google and Apple to monitor people. If you read the comments, you will be hard-pressed to find a single person that actually received a notification.<br> :date: __2021-01-27 21:03:28__
-
-> I had this app and never notify me when i got infect<br> :date: __2021-01-26 15:52:53__
-
-> Relies on others to report themselves. People are not reliable. And those without the app, can't report themselves. Unless mandated for all, absolutely pointless.<br> :date: __2021-01-24 09:07:10__
-
-> Doesn't ever tell you about covided people. Worthless if people aren't honest.<br> :date: __2021-01-24 04:53:52__
-
-> Three family members within my household tested positive today. We downloaded the app to test it out. Not a single notification. Scary!<br> :date: __2021-01-22 09:11:42__
-
-> Didnt work. Did nothing<br> :date: __2021-01-21 23:26:04__
-
-> Let's go<br> :date: __2021-01-21 13:48:47__
-
-> No code????? It tells u nothing of exposure. Have a sistet w/ covid and this showed 🤧<br> :date: __2021-01-21 01:57:07__
-
-> This app sucks , dont waste your time my co-worker got tested positive a month ago at work , now he's back and I don't get any notification .<br> :date: __2021-01-19 22:55:01__
-
-> App could work if it was properly promoted and adopted. At 500k+ android installed.. lol. It is nearly useless in CA. Without anyone else participating. There's no point. Another failed attempt by the state and newsom<br> :date: __2021-01-19 17:30:30__
 
 

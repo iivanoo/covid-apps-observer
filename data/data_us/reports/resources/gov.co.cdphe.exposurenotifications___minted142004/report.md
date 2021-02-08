@@ -125,6 +125,12 @@ The CO Exposure Notifications app has been installed by more than **100000** tim
 <img src="5_star_reviews_wordcloud.png" alt="gov.co.cdphe.exposurenotifications 5 reviews"/>
 </p>
 
+> Awesome<br> :date: __2021-02-02 10:22:45__
+
+> Glad its her<br> :date: __2021-02-02 00:56:04__
+
+> good<br> :date: __2021-01-31 21:50:12__
+
 > This app. does what it says<br> :date: __2021-01-18 07:59:50__
 
 > Amazing<br> :date: __2021-01-10 02:04:49__
@@ -139,12 +145,6 @@ The CO Exposure Notifications app has been installed by more than **100000** tim
 
 > So excited to have an app to help inform about potential exposures. Thank you, CO DPHE!!<br> :date: __2020-12-18 04:52:08__
 
-> I love this app I recommend it to anyone gives you an update about covid-19 faith hope love let's stay safe and stay together listen good news it's important for our lives<br> :date: __2020-12-08 22:15:19__
-
-> This is a wonderful opportunity updated with anything was going on in the world covid-19<br> :date: __2020-12-07 06:53:53__
-
-> Right<br> :date: __2020-12-01 05:36:13__
-
 
 
 #### 4-star reviews
@@ -152,6 +152,8 @@ The CO Exposure Notifications app has been installed by more than **100000** tim
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="gov.co.cdphe.exposurenotifications 4 reviews"/>
 </p>
+
+> Thanks keep us informed?<br> :date: __2021-02-05 23:11:31__
 
 > Dunno if there's anything I can reasonably say about it useful.<br> :date: __2021-01-28 03:03:37__
 
@@ -170,8 +172,6 @@ The CO Exposure Notifications app has been installed by more than **100000** tim
 > I had trouble getting the notifications to work like a lot of people had posted, I uninstalled and reinstalled the app and it worked the next time. Not sure what causes this. Glad we have some form of contact tracing!<br> :date: __2020-10-26 03:29:29__
 
 > The title makes it sounds like a carbon monoxide detector -why no mention of COVID-19 or "infectious disease"?<br> :date: __2020-10-26 02:43:35__
-
-> This app doesn't have location access. I just checked the permissions after installing it.<br> :date: __2020-10-25 23:43:32__
 
 
 
@@ -209,6 +209,8 @@ The CO Exposure Notifications app has been installed by more than **100000** tim
 <img src="2_star_reviews_wordcloud.png" alt="gov.co.cdphe.exposurenotifications 2 reviews"/>
 </p>
 
+> This app doesn't work. I installed it when it first became available. It has never once in all that time reported an exposure regardless of how remote the exposure might be.<br> :date: __2021-02-03 23:39:55__
+
 > The app seems great (simple, unobtrusive, easy to use, no major privacy issues) but what good is the app if people can't easily report their covid results? Why haven't they partnered with testing facilities to provide this code automatically upon getting a positive result? I've had this app for months and haven't gotten a single notification ever<br> :date: __2021-01-10 00:52:39__
 
 > Adventrouous to say the least<br> :date: __2021-01-08 06:45:13__
@@ -227,8 +229,6 @@ The CO Exposure Notifications app has been installed by more than **100000** tim
 
 > I have to provide a "verification code" for my test result. I did not get one though, over the "negative" phone call..<br> :date: __2020-11-24 22:58:35__
 
-> This app is too difficult to use for such a life threatening issue. It needs to be more intuitive before the public will actually begin using this app. It is should be easy to use by those who are not comfortable with technology, yet I am very comfortable with technology and the app took a while to figure out Please do something to make this better<br> :date: __2020-11-23 16:56:58__
-
 
 
 #### 1-star reviews
@@ -236,6 +236,12 @@ The CO Exposure Notifications app has been installed by more than **100000** tim
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="gov.co.cdphe.exposurenotifications 1 reviews"/>
 </p>
+
+> Why does this app exist? It does nothing if folks don't share their status.<br> :date: __2021-02-06 03:47:28__
+
+> I don't see how this is useful if you don't really know where you got exposed and the date & time. And why not get an alert at the time of the event so an individual can remove themselves. Why doesn't a store owner get an alert so they know someone positive is in the store. It makes no sense that if we are trying to control the spread if this disease that this program doesn't seem a bit more comprehensive. After the fact seems a bit useless. Besides, it sucks battery.<br> :date: __2021-02-04 16:59:11__
+
+> Pretty useless since you can't let it know if you test positive without entering some sort of mysterious missing/failing verification code. Where is that supposed to come? Who knows because it is not mentioned in their guidance.<br> :date: __2021-02-03 21:59:10__
 
 > I have had countless people in my life get COVID 19 and this app has been silent. Absolutely a pointless app.<br> :date: __2021-01-27 06:52:38__
 
@@ -250,11 +256,5 @@ The CO Exposure Notifications app has been installed by more than **100000** tim
 > App doesn't work. Didn't notify me when co-workers had it. I can't put in that I currently have it. Needs some verification code but doesn't tell you where or how to get that. Sure this was a big waste of tax dollars<br> :date: __2021-01-18 21:37:09__
 
 > Cant post results doesn't see anyone with covid ever..<br> :date: __2021-01-15 08:50:35__
-
-> Absolutely hate app<br> :date: __2021-01-15 01:29:56__
-
-> App is fine and has not caused issues that I know of. It's completely useless. I work in retail and with the infection and positivity rates in the Denver Metro and suburbs you would think I'd have come in contact with someone who had tested positive over that month I've had the app.<br> :date: __2021-01-14 15:58:24__
-
-> Clear 3 prior apps.<br> :date: __2021-01-07 23:31:07__
 
 

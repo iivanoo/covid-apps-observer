@@ -155,25 +155,25 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="au.com.vodafone.dreamlabapp 5 reviews"/>
 </p>
 
-> It is making the world a better place to live in.😊<br> :date: __2021-01-29 08:34:05__
+> Easy to start and stop, and feels like an easy and excellent way of helping at no cost to you! Win win.<br> :date: __2021-02-06 17:14:17__
 
-> What is there to say? I feel I am doing good while I sleep.<br> :date: __2021-01-29 08:22:24__
+> Very good to be contributing to research whilst charging my phone!<br> :date: __2021-02-06 17:09:53__
 
-> Glad to be able to help cure cancer, covid19 and any other health problem<br> :date: __2021-01-28 08:50:44__
+> Easy to use and doing a great job.<br> :date: __2021-02-06 12:02:21__
 
-> Excellent app, really does help the fight against cancer<br> :date: __2021-01-28 07:31:53__
+> Excellent app. No hassle and contributes so much.<br> :date: __2021-02-06 10:42:40__
 
-> Great app, but I wish it had the following features: (1)An option to have the app work even whilst not charging by using the phone's battery, which would stop when it reaches a certain % (2)An option to download the calculations in advance so that they could be done even while offline. A system where each individual calculation could only be downloaded once each 24h, with a cap on the number of calculations downloadable per phone could be implemented. Apart from that, the app works wonders.<br> :date: __2021-01-27 17:21:28__
+> It's been an amazing experience. However, I am still trying to understand the science behind it, but so far I have varied my choices of research I have chosen to support, and my curiosity has brought me this far as I also monitor how I have been able to contribute to the research. It is worth a try if you love research 😊<br> :date: __2021-02-06 08:42:03__
 
-> If you are willing to help more, then download "Android-x86", install it inside a USB stick/flash drive and BOOT your laptop/PC from there, download and Install the app and do some Serious Calculations! I'm crushing a calculation every 8 second with my mid range laptop!!!<br> :date: __2021-01-27 14:02:39__
+> Thank you for the opportunity to contribute.<br> :date: __2021-02-05 23:35:21__
 
-> Amazing app, but It would be nice if you could set the process to start automatically every time you charge your phone. I keep forgetting to start it.<br> :date: __2021-01-26 23:50:21__
+> Newest version reset my contribution record over 4+ years 😢<br> :date: __2021-02-05 09:43:25__
 
-> Great to feel you're contributing to science just by plugging phone in!<br> :date: __2021-01-26 08:11:39__
+> Good to be useful<br> :date: __2021-02-04 10:14:31__
 
-> Simple to use and hopefully helping cancer research<br> :date: __2021-01-25 23:17:01__
+> good cause, free bandwidth, what can poosibly go wrong ?<br> :date: __2021-02-03 17:24:00__
 
-> Great app!!! An awesome way everyone can help cancer research... Genius idea!<br> :date: __2021-01-25 22:20:37__
+> I don't understand how this works and use it only because I trust the person who suggested it. I think many people will be reluctant to download it for this reason.<br> :date: __2021-02-03 11:30:07__
 
 
 
@@ -182,6 +182,10 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="au.com.vodafone.dreamlabapp 4 reviews"/>
 </p>
+
+> Please add an option for unlimited data usage, i have an unlimited plan with a Samsung fold 2nd gen and would like more of its power to be used for a good cause<br> :date: __2021-02-05 20:49:42__
+
+> App is good but could be better. The platform & institutions could take cues from BOINC's Android app's advance settings & notifications feature. Also, as others have mentioned, you need to keep the calculations coming at a steady rate or at least inform users if there will be a slow down. BOINC institutions do this - they inform users if there will be a pause for maintenance or other reasons.<br> :date: __2021-01-31 01:53:28__
 
 > The apps really good.. Provides details and sources for the research you're helping with. Tells you the amount of time spent and problems your phone has solved. Best part is that it only works when plugged-in. So you don't have to worry about it draining your battery. The only drawback is that it kinda heats up the phone. But hey, your phone is helping humanity solve important issues without you having to anything... So pretty much a win-win.<br> :date: __2021-01-29 14:56:43__
 
@@ -199,10 +203,6 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 
 > The job it does is fantastic. I'm not convinced it releases resources properly after charging as my battery runs down faster than expected after use...<br> :date: __2021-01-15 17:54:09__
 
-> Great idea but it seems to run for 15-60 minutes and then switches off and so wasting most of the night's available processing time, so only 4 stars<br> :date: __2021-01-15 09:40:38__
-
-> Good to put this bit of tech to use. Sometimes won't record any calculations as being done despite 9 hours on. Is it because it started before phone was at 80% battery?<br> :date: __2021-01-11 01:52:47__
-
 
 
 #### 3-star reviews
@@ -210,6 +210,8 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="au.com.vodafone.dreamlabapp 3 reviews"/>
 </p>
+
+> Great to help out but sometimes have difficulty starting a session due to 'used all daya' message<br> :date: __2021-01-30 17:01:33__
 
 > The app is strange. Compred to folding@home it does not stimulate competition by giving you and Id, points, and the ability to gain more points by putting more devices under the same ID. Also it doesn't have any settings to allow me to use more or less resources. For instance it was initially using only one big core and now it seems to have settled for some of the little cores and I have no control over this behaviour. The app does not work in landscape mode which is very annoying.<br> :date: __2021-01-24 22:23:05__
 
@@ -229,8 +231,6 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 
 > I am on Vodafone with unlimited Max, or whatever it is called.. Around 4 months ago, the app, or Vodafone seem to have applied a 500mg per month limit to the data usage, consequently, after the first week of the month, this app remains idle! Vodafone weren't much help, other than confirming the 500mg cap exists. Not happy.<br> :date: __2020-12-06 14:25:48__
 
-> Great idea, however it caused my Galaxy Note 10+ 5g to overheat.<br> :date: __2020-12-05 21:57:34__
-
 
 
 #### 2-star reviews
@@ -238,6 +238,8 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="au.com.vodafone.dreamlabapp 2 reviews"/>
 </p>
+
+> Not working all the time<br> :date: __2021-01-30 13:13:44__
 
 > Unfortunately after consistant use of the app for a worthy cause, the battery life on my new Samsing S10 no longer lasts day even with minimal interaction. Will have to purchase a new phone.<br> :date: __2021-01-24 19:30:38__
 
@@ -257,8 +259,6 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 
 > Nice concept like SETI@Home but T+C are suspect. They say accuracy of data sent by vodaphone isn't guaranteed. Yes this is probably template language but it says what it says. No point in burning power on inaccurate info for calculations. Also couldn't find info on project vetting, how do I know I'm not doing someone's Bitcoin mining? Will reinstall when T+C specific to project is available and vetting info publicised<br> :date: __2020-12-04 23:43:14__
 
-> Insgesamt natürlich eine wichtige und wertvolle Idee, die App an sich hat aber noch Luft nach oben. Vorschläge: 1. Eine Option die Berechnungen erst ab einem gewissen Ladestand des Akkus zu starten. 2. Ein besseres Tracking der eigenen Beiträge, evtl. userbasiert und mit Highscore Listen (wie z.B. bei Folding) über mehrere Geräte hinweg, das motiviert zusätzlich. 3. Aktuell kaum nutzbar wenn man sein Smartphone per Schnellladefunktion lädt, weil es zu heiß wird. Hier muss nachgebessert werden.<br> :date: __2020-12-01 14:52:04__
-
 
 
 #### 1-star reviews
@@ -266,6 +266,8 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="au.com.vodafone.dreamlabapp 1 reviews"/>
 </p>
+
+> After having used this app religiously for many years without any problems. They now change your selected project to coronavirus against your will or knowledge. It doesn't matter what project you select. They will secretly change it to coronavirus. I have now deleted this app as I find it unethical.<br> :date: __2021-02-05 04:35:19__
 
 > Good concept. My problem is that it kicks in whenever the phone is charging, not desirable when plugged into a powerbank. I use my phone as cycling computer and also with maps and use a powerbank so i can have the screen on all the time. If dreamlabs kicks in it drains the powerbank and phone battery at an amazing rate. It would help if it was possible to define the time period when dreamlab is active so it is restricted to overnight charging time. Running too often when not wanted so uninstall<br> :date: __2021-01-28 18:26:03__
 
@@ -284,7 +286,5 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 > Haven't a clue what is it<br> :date: __2020-12-07 18:42:59__
 
 > I'm sorry. I wanted to help. But my phone won't charge. It drains faster than it charging. After 1 hour it got from 86% to 80% while plugged in. It's a Samsung S7 with a fast charger. You might want to look into this.<br> :date: __2020-12-05 14:13:42__
-
-> This app used to work perfectly but now refuses to work at all. It just claims that I've reached my data limit for the month despite the fact that I'm using WiFi. I have tried deleting it and reinstalling it several times but it still doesn't work.<br> :date: __2020-12-04 20:21:34__
 
 

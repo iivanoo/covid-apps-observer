@@ -1,11 +1,23 @@
 [
     {
+        "reviewId": "gp:AOqpTOFR0dQy_HDE7k9BB-kn9DSV8TZt4DkMDHly4iGAHEBf0raKxjYuRFJP7rHzgAZ-Qal_K16OwVY0dJQYsGE",
+        "userName": "Maxim P",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiKPvqzsOUTm0XViq1DEfP91cBSXp4Nu5LRKKPinA",
+        "content": "Private organization. Deciding world's policies...\ud83e\udd14",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2021-01-30 17:24:21",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOHhOK85ICznp56XdHoKUqGwH8CWnWRfc0HhmlRt7gr3duPnbzO_uYRkpda1ngJ25g6KXTY5zRfO21lvBxI",
         "userName": "Rino Remix",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi4Gzf0Qh5mQl71ah_4zvHkGCq4d35VsN_VjJJr",
         "content": "Unica e vera fonte di verit\u00e0 sul Covid-19. Ottima App, la consiglio ai Negazionisti.",
         "score": 5,
-        "thumbsUpCount": 3,
+        "thumbsUpCount": 4,
         "reviewCreatedVersion": "4.0.1",
         "at": "2020-12-15 11:42:50",
         "replyContent": null,
@@ -17,7 +29,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgATNWZy9n0ZzBtp29n3_RLgZal5NntEBKDN6lA",
         "content": "Ottima e leggibile. Mi vergogno per tutti gli italiani che piagnucolano. La scienza parla inglese e lingue a larghissima diffusione!! Non certo l'italiano degli ignoranti",
         "score": 5,
-        "thumbsUpCount": 7,
+        "thumbsUpCount": 8,
         "reviewCreatedVersion": "3.1.1",
         "at": "2020-11-24 12:18:10",
         "replyContent": null,

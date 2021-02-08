@@ -269,6 +269,8 @@ The SM_Covid19 app has been installed by more than **50000** times. At this time
 <img src="2_star_reviews_wordcloud.png" alt="it.softmining.projects.covid19.savelifestyle 2 reviews"/>
 </p>
 
+> Stronzata vorrei sapere a cosa serve<br> :date: __2021-01-30 19:35:44__
+
 > Troppi permessi... Non si poteva fare un'applicazione senza tutte ste richieste?<br> :date: __2020-09-17 22:19:23__
 
 > Per ora va bene, io non ho molti contatti con l'estero comunque<br> :date: __2020-07-06 11:35:49__
@@ -287,8 +289,6 @@ The SM_Covid19 app has been installed by more than **50000** times. At this time
 
 > Mi sembra una stronzata come app come fa a sapere se uno è veramente positivo o negativo senza tampone? Poi se l tocca un altro il cell cambia o no? Sec me na cavolata l altra volta m diceva che ero poco rischioso ora mi dice tutto bene mha<br> :date: __2020-06-08 13:48:07__
 
-> Non è chiaro il significato dell'indice (e le varie soglie), né sono indicate le procedure da fare in caso indicasse una situazione di potenziale pericolo. Inoltre è molto fastidioso il continuo vibrare delle notifiche push che arrivano più o meno ogni ora, inclusa la notte. Vibrazione che a quanto pare è impossibile disabilitare.<br> :date: __2020-06-08 11:13:44__
-
 
 
 #### 1-star reviews
@@ -296,6 +296,10 @@ The SM_Covid19 app has been installed by more than **50000** times. At this time
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="it.softmining.projects.covid19.savelifestyle 1 reviews"/>
 </p>
+
+> Mi hanno detto di scaricare questa applicazione per vedere l'esito del tampone,ma non riesco.come si fa??<br> :date: __2021-02-05 13:58:01__
+
+> 🔴 Aumentate invece posti letto, posti per medici e infermieri. Garantite un servizio sanitario DEGNO di essere umani. Invece di "tracciare i contatti" inutilmente.<br> :date: __2021-01-30 17:19:36__
 
 > Pessima app<br> :date: __2020-12-27 23:16:46__
 
@@ -312,9 +316,5 @@ The SM_Covid19 app has been installed by more than **50000** times. At this time
 > Come faccio entrare se ultimontasto rosso non si ttasforma in verde clicco ok ma non succede nulla cosa è un bidone?<br> :date: __2020-11-04 16:36:37__
 
 > Ottimo<br> :date: __2020-10-20 16:15:04__
-
-> Uno perché viene solo il bt e non il gps. Mettete un margine d'incertezza per la privacy. Sarebbe utilissimo sapere che nel raggio di cento metri c'è stato tizio sicuramente positivo (perchè testato).<br> :date: __2020-10-06 10:57:21__
-
-> La segnalazione solo delle presenze delle persone non da alcuna certezza sulla presenza di eventuali positivi<br> :date: __2020-10-05 17:08:21__
 
 

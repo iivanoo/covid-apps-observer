@@ -212,6 +212,8 @@ The Care19 Alert app has been installed by more than **10000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="com.proudcrowd.exposure 1 reviews"/>
 </p>
 
+> Wrong app<br> :date: __2021-02-05 07:34:11__
+
 > Has not added a scan since December 15th. No updates available, so it's not that.<br> :date: __2021-01-06 07:27:48__
 
 > Not updated since nov<br> :date: __2021-01-02 20:58:25__
@@ -229,7 +231,5 @@ The Care19 Alert app has been installed by more than **10000** times. At this ti
 > Doesn't do what it should. Just takes up space on your phone or tablet<br> :date: __2020-11-21 15:36:41__
 
 > Not any relevant information for right now!! 11-15-20<br> :date: __2020-11-16 04:25:29__
-
-> I had the app and was diagnosed with Covid. I sent my caseworker a screenshot of the app so I could get my 'notify others' button turned on. I don't know if she could do that or not, but she didn't address it. I had no idea how to activate the button to do the only thing this app is supposed to do.<br> :date: __2020-11-11 18:01:46__
 
 

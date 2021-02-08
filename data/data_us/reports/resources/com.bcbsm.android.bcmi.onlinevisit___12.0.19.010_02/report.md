@@ -197,6 +197,14 @@ The BCBSM Online Visits app has been installed by more than **50000** times. At 
 <img src="5_star_reviews_wordcloud.png" alt="com.bcbsm.android.bcmi.onlinevisit 5 reviews"/>
 </p>
 
+> Worked very well. Be sure to have any PCP information and any of your meical history, allergies & list of medications to speed things up.<br> :date: __2021-02-03 00:22:30__
+
+> Fast an simple respectful<br> :date: __2021-02-02 19:59:05__
+
+> Very Professional and helpful<br> :date: __2021-02-02 17:38:03__
+
+> Easy!!<br> :date: __2021-02-02 12:51:55__
+
 > Great alternative to an office visit<br> :date: __2021-01-28 15:29:24__
 
 > Was fast and easy. Safe way to stay away from covid.<br> :date: __2021-01-25 22:00:30__
@@ -208,14 +216,6 @@ The BCBSM Online Visits app has been installed by more than **50000** times. At 
 > This app is very easy to use. There were lots of provider options and the entire process took less time than checking in at urgent care.<br> :date: __2021-01-17 18:50:30__
 
 > It has been a very positive experience using the app<br> :date: __2021-01-15 19:24:08__
-
-> Great experience !<br> :date: __2021-01-15 16:28:05__
-
-> My Doctor was very helpful and understanding. This is a new way to have ailments addressed more immediately.<br> :date: __2021-01-14 19:14:22__
-
-> Very good<br> :date: __2021-01-12 15:04:48__
-
-> With two kids, this is the best app on my tablet. I have used it while traveling, after hours, and holiday. My kids seem to suddenly need medical attention at the most inopportune times. This app has saved me 4 trips to ER/Urgent care in less than 2 years.<br> :date: __2021-01-05 01:30:16__
 
 
 

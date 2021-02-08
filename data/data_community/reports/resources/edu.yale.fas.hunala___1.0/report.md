@@ -139,6 +139,8 @@ The Hunala app has been installed by more than **1000** times. At this time, **7
 <img src="5_star_reviews_wordcloud.png" alt="edu.yale.fas.hunala 5 reviews"/>
 </p>
 
+> Simple disease tracking app. Works better with friends.<br> :date: __2021-02-03 05:53:09__
+
 > Needs more content. Great app though.<br> :date: __2020-11-18 19:16:46__
 
 > Appreciate that it Asks for the bare minimum<br> :date: __2020-08-15 14:41:33__

@@ -1,5 +1,41 @@
 [
     {
+        "reviewId": "gp:AOqpTOFRI_dyVva1aOavMhqj28Syu3zbTlEq6ljacR5t-puIoubz9ivCBNyWZifV3uEMnXNELviBWbrFJORs4jw",
+        "userName": "Kimberly Johnson-Brinkley",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhxmXiIH-nFPnuTgElrgEktyvAWRIuWVSSUdxn3MvI",
+        "content": "This app is a tool to gauge the impact of the covid-19 pandemic. Provides info on state level, then compares the state & national statistics. App gives you a feel for how other states are coping. Provides links to the CDC website & other medical centers. If you dig deep enough, you can find the impact on your county. Finding granular data isn't straightforward. There's a lot of info out there if you care to find it. Info can be found by going straight to CDC.gov. I like this app. Recommended.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.12.2",
+        "at": "2021-02-05 23:46:24",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFbMu1A3TT2G8q0NjIn8B6v3p21DFxHUA045_-ZHtqLdYZDXs0oQrNt7FqmF-AUjZh4P1zZ37k_mvgw8cU",
+        "userName": "Erica Uhler",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgQ9tAayI6eUHL0tdmrwQhghumbw0qr8WnVbnZ6Hbs",
+        "content": "Easy and simple to use",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.12.2",
+        "at": "2021-02-02 20:13:12",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHT_WXyY6Ztnihe3zOiVIygvUMdbCoWnuIeQh5PLcBL_RiiJl6KMTctwublh0_noxsnpCZIwvbSH7SBteg",
+        "userName": "Simon Cook",
+        "userImage": "https://play-lh.googleusercontent.com/-t8BG1MKubOc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucme3VOq_93pfTNXXrOktG1LWQc33g/photo.jpg",
+        "content": "Helpful, for the most of it",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.12.2",
+        "at": "2021-01-30 09:30:46",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOGLf0inVC8z_V_FZMydlGIq_eE0vZ88c7LEeIhQ7VqRfy7TM3n8e6W8wjOiDR9LxHwhtplzoOIadQRBaDM",
         "userName": "Owen Dever",
         "userImage": "https://play-lh.googleusercontent.com/-La-UyzTF8A8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmuVr_UFXPp75T0gWA_KEQ4LguIsA/photo.jpg",
@@ -89,7 +125,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-rEvZ06h9bxM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl5-ROHvbmyj2npW2aoXEZL7E_U4w/photo.jpg",
         "content": "Simple survey a day to help give a meal to someone in need. To address some of the other reviews about the app not working, I have not had any of those issues. If I had I would uninstall and reinstall the app.",
         "score": 5,
-        "thumbsUpCount": 1,
+        "thumbsUpCount": 2,
         "reviewCreatedVersion": "1.12.2",
         "at": "2021-01-12 12:30:37",
         "replyContent": null,
@@ -389,7 +425,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjnfR4kxfIZkKYheZatNcKKLfz_AXPNFeagHLMfspI",
         "content": "I've responded 175 times since downloading. After the last update the app wont open at all. I also fond the data dashboard they provide me to be confusing and sometimes contradictory to what is happening in the news. They also provide old content/tips for multiple days. This should be updated daily if they want me to respond daily.",
         "score": 1,
-        "thumbsUpCount": 12,
+        "thumbsUpCount": 13,
         "reviewCreatedVersion": "1.13.6",
         "at": "2020-11-20 15:09:08",
         "replyContent": null,
@@ -853,8 +889,8 @@
     },
     {
         "reviewId": "gp:AOqpTOHmm7LA0vreJULjLO8wa-vmAAUAxcXUDNb-Xvwh0Js7XpaJVarX8QcIjVNbHWbUfi3RcQqMdheBNrA12Sg",
-        "userName": "Dana Grimm",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Giq52w_ZMALOhznrn0ANjuD47owhOEDfO01rNjCjA",
+        "userName": "Dana G",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjIafVCekZ7a1s3LGPMEdvdACao7NdNLyndIaOA28Y",
         "content": "I liked it when it worked but it no longer opens anymore! Even after Uninstalling and reinstalling. Bummer.",
         "score": 1,
         "thumbsUpCount": 1,
@@ -2066,7 +2102,7 @@
     {
         "reviewId": "gp:AOqpTOFEjkAc7AT5WrqpJ7cXUVK6O2yfmDLaGnrNyzXWeX58MznqR8P_DGM7hOhRc-lAQHlMUje5xtCdrX6WHyA",
         "userName": "Debbie Cournoyer Butler",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhL9fluE7JgYTJNiRopIVn3vPwcO7bIJy-gpF9OGw",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgkvfKoexvMEWFcm_MubsJnBk6XuNPTAxufVtJ2Dw",
         "content": "This app is totally unnecessary",
         "score": 1,
         "thumbsUpCount": 0,
@@ -2750,7 +2786,7 @@
     {
         "reviewId": "gp:AOqpTOGNFKMXmGWlhuEGdevPc-ay2lMLAD5Zqiyh27Zzc_X5Yf4HwCCilJphZhkm10ZdRBnAyzZ9n9Bcuctwpdk",
         "userName": "Marlene Cabrera",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhYeENZZtgXpqMi7gPCs7JyfYHE9nW8y7Vm20vYJA",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhwXJ018AvH82PJPmJ0rCGHODVPywICrLXOJe0NzQ",
         "content": "It use to notify during the day, and it had stopped doing so two months ago. It lags a lot and tends to kick me out of the app even after getting the update. Going back to the app it makes me repeat the process of checking in. Quite buggy at times.",
         "score": 3,
         "thumbsUpCount": 0,
@@ -3050,7 +3086,7 @@
     {
         "reviewId": "gp:AOqpTOEH19Flm0Al2aDFzzQJ9KN9Idve3Ymda_ej_Qfq-pSDgzOZ74OaJiWjkeMlXYklNq-o6-4M2hoY9QZDxzw",
         "userName": "Vicky Lee Herman",
-        "userImage": "https://play-lh.googleusercontent.com/-iW-Q19LV3MU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckPBj245eqUPjSJKYaCiBCBZ2_aig/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjEtgtzOU-zMWS9-bhL8Ehzj6vrvRVKdyB94vP8BA",
         "content": "Pleasant",
         "score": 5,
         "thumbsUpCount": 0,
@@ -3074,7 +3110,7 @@
     {
         "reviewId": "gp:AOqpTOFgT24puwhgu13SZ6xfCDQC5hfq2N9xqA7E8sHm8JGe0bIncM02vBG-URGkAx_4dqD-KBOFw_GNqd-P_Os",
         "userName": "Jess Freakin' Ortega",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GigfSlr4pmX_efbFgw3Pg9SgNLq9F739i7CwqFvTw",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgzNCYJTHIBxygIAbdW0TkzusWBe4o7w-NRwNz45Q",
         "content": "Absolutely phenomenal!! Im not paranoid about speaking the truth or hiding anything. This app makes me feel comfortable sharing, especially with current circumstances, this app could be potentially life saving. Highly recommend trying it out! I didnt know anyone local using it, only to find almost 200 already reporting daily!",
         "score": 5,
         "thumbsUpCount": 11,
@@ -4346,7 +4382,7 @@
     {
         "reviewId": "gp:AOqpTOFoEOzszt4qomIZY6zOpqhHgImyWLK_F0nKBeXi2UGoSXFuQFfmL_HhOKrlW_UPfKQD44XEfNguY-iEsMg",
         "userName": "Pamela LePorte",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh0hed4BMEP03t5OtNiXN0qlcamBphBG6LM839rQg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg2zZw0m_Dkt8uurHe7mOyp3z0ytdUYEbF_Ox1jig",
         "content": "It makes me feel that at least somone is intetested on my well being.",
         "score": 4,
         "thumbsUpCount": 0,
@@ -6422,7 +6458,7 @@
     {
         "reviewId": "gp:AOqpTOEjjhseQY8E_iRl2nRKvzMbqiPxffO5VsM-MmW1A0R_zr_h0JKNLe1LAtml0H6Cci0bEGCGGDi51d1CU4c",
         "userName": "C. L. Wood",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ggg3HNVJ_2cjR7ArBa_2JDlNvQNEgGF9OTdgCqzKX0",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiJu0-ymI8fHzAKUOIbS0dBy0gvJfp3A8XPRWtpBfE",
         "content": "Good personal healh moniter. Public input and access to current pandemic status. Voluntary without personal data required. Encourages awareness both personal and socially.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -8785,8 +8821,8 @@
     },
     {
         "reviewId": "gp:AOqpTOF7cZeI4c7Zh1vP10jKQwr1meKf-Ay5kCFHpHwGNasBYfNf2rajunO3YUH6n-oecMMKxsNmhv5LiHAyXUo",
-        "userName": "Ana Lourenco",
-        "userImage": "https://play-lh.googleusercontent.com/-AyuuoCdoPnk/AAAAAAAAAAI/AAAAAAAAKns/AMZuuckKCCgxThoAwPgERoG9SXGQnIqcHQ/photo.jpg",
+        "userName": "Ana Lameiro",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhgFHv0OMkOS1jWLHBe1_KctntIl7cqIvhqX-kECYU",
         "content": "Short and straightforward",
         "score": 5,
         "thumbsUpCount": 0,
@@ -11960,42 +11996,6 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.0.20",
         "at": "2020-05-14 14:21:07",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOGwcUl39Y2cXLIBEvUjh416HzSaYkk-Ubp73J7LIIOFnIl1Naqpr0SVzhuCFlcuw3KSRAi6_h7Qndv8vpU",
-        "userName": "Sarabelle R",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gieac26OuX7z29DsJdSC28bRNWGGIRErb0OIMW3wQ",
-        "content": "Cool and easy",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.0.20",
-        "at": "2020-05-14 14:19:34",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOFHoIpQsgi7bx2twT25GSHXSikt1q2CCXmMv8EjxjgaGdLQ-lUt3ZLoxvaVNbbUDz4ga0nKP7DJucl_bqY",
-        "userName": "Kelley Gamache",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgksUEZUEInnK7177U8c8knFvK4iSgwxFZjbpEedw",
-        "content": "Very easy to use. No issues",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.0.20",
-        "at": "2020-05-14 13:00:03",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOEOEZxn6pZC7DI09h1Q5dTJL4s2y87oZIUA0B0ipQQYRys8_SebPREH4L8D0c_fafseXPxyQ93Xnzhl_to",
-        "userName": "christina strode",
-        "userImage": "https://play-lh.googleusercontent.com/-xU0gWE7t-Fg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnH2k5a3FaE5X3klGtVAfz4IjdhvA/photo.jpg",
-        "content": "easy to set up,easy to use,like the daily text reminder",
-        "score": 5,
-        "thumbsUpCount": 1,
-        "reviewCreatedVersion": "1.0.20",
-        "at": "2020-05-14 10:58:51",
         "replyContent": null,
         "repliedAt": null
     }

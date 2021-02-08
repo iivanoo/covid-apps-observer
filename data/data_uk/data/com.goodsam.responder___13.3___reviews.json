@@ -1,5 +1,89 @@
 [
     {
+        "reviewId": "gp:AOqpTOHtNJ0fhkH8cxWZdBTBP0YvrXjA9js4ymqcauBD4uO5irvHikgzdQL2eQvHGbD3ttv-jznRpVOgBW7_HA",
+        "userName": "David Bennett",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj8stbWszpPPmj6I6RMlt0sxOoqG7IBJ0gqvjoI",
+        "content": "1. I uninstalled the Goodsam app from my Android v10 tablet as the Task tab didn't show like on the smartphone. I was planning to reinstall to fix this bug. Now it says my tablet isn't compatible. WHY!!? It seems perverse to withdraw the tablet version. It was useful if my wife borrowed the phone. 2. I am signed up as a stewarding volunteer. It would help if you could add an alert when a task comes in. This could be the siren already in place. But as the \"tasks\" are less urgent an email would suffice.",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "13.3",
+        "at": "2021-02-04 20:16:22",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOEa1Vtt9YRH_MK3dE0F0bII1deQDnwCHwaFvXz8P8L34oiQeRAto2Y7uM41u6ITHpZHvqDUF419RPSB8w",
+        "userName": "A Google user",
+        "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+        "content": "Sometimes I wonder if anyone knows that I have logged on \"duty\" to the controllers. I have logged on for a mere 143 hours and in that time I have had just four \"shouts\" three of which didn't pick up and the fourth just needed a \"chat. How do I know, that you know, that I am here ready to go? Many thanks Alan Hobbs",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "13.3",
+        "at": "2021-02-03 16:21:46",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOG5aVuUx96m4D8jzS49ryRhsz1cLKNeZvw5uHzHmrJIfS5VdAEjZc35Mc3ndxfgkrlYqpiKr5HBRXX27Q",
+        "userName": "Alan",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gjvd52JPNMsnEaTq9yENP9H0S7hATud4SiRd6qP-w",
+        "content": "02/02/21 STILL UNABLE to upload photos of new AEDs locations to the GoodSAM app this is after installing the latest version available. When trying to use a photo taken with a google pixel phone with all location accesses switch on, the GoodSAM app still says to use a picture with location services switched on. In the past, I've replied via email to yourselves about this issue, uploaded bug reports sent pictures and still awaiting your reply.",
+        "score": 2,
+        "thumbsUpCount": 44,
+        "reviewCreatedVersion": "13.3",
+        "at": "2021-02-03 15:04:48",
+        "replyContent": "Dear Alan, in order to upload an AED, you need to take a photo with the location on. (And your photo library app needs to have access to your location to tag the photo.) We then use the geolocation information on the image to know where the AED is, without this, the app will not work because it would not know where the AED is located.",
+        "repliedAt": "2020-11-17 12:40:53"
+    },
+    {
+        "reviewId": "gp:AOqpTOFLWJXXjEdxtMtNy7jdVcJ9cM6sQAVc4mTVx0isR0S7hGnmiikl_PbImtGCQ3qsdKKJWkUi3-axM1DpoQ",
+        "userName": "Sean O'Halloran",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjeYO_FOiP-mswb6uacx3-Usf2K5xszMTSqdOJDGw",
+        "content": "Upon installation, I can't seem to get past the initial introduction pages. The button at the bottom which says \"Ask for permissions\" does nothing when tapped. I've checked the permissions that the app has been granted in the application manager, and it has everything it needs. Phone is a Samsung J3 running Android 5.1.1. Update: Thanks to the team for updating this so quickly. All working perfectly now!",
+        "score": 5,
+        "thumbsUpCount": 2,
+        "reviewCreatedVersion": "13",
+        "at": "2021-02-03 10:32:29",
+        "replyContent": "Hi Sean, thank you very much for reporting this, the team has patched this issue affecting Android 5 last night. The update is now available (Version 13.1) Please update and your problem should be fixed!",
+        "repliedAt": "2021-01-20 10:38:56"
+    },
+    {
+        "reviewId": "gp:AOqpTOGnhl-OSGYVZ6ybJLuPKQna-AoOtN_bZMuhO51M85pQ1J_Zj593n-mqi9Z-uVopVC7qop4DOvwcDOB5iQ",
+        "userName": "Bill Lockhart",
+        "userImage": "https://play-lh.googleusercontent.com/-dspxDUOS85U/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclCqHnXlztV3jX63RCkRWE2JYFFrQ/photo.jpg",
+        "content": "Buggy, clunky UI. Clicking on 'Show details' of a booked task closes the app every time. The details can only be seen by restarting the app. No way to go back to the homepage without clicking back through every page of the 'tasks' section. Can't copy text, eg task addresses. User unfriendly.",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "13.3",
+        "at": "2021-02-02 18:22:40",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOH46WHG-EPezTx3WhvtBhujfEfiSpCdatxy-Aw97nMLo9tIq1VcOoaQIIYV79yIiIemkXaJ4L1Dfgqumw",
+        "userName": "Rachel Putterill",
+        "userImage": "https://play-lh.googleusercontent.com/-nukWxgyG3LQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnCyo6SMCDcHkEr4DxFo4VOk2SPZg/photo.jpg",
+        "content": "Jobs are too far away or clients do not need help",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2021-02-01 19:58:44",
+        "replyContent": "Hi Rachel, please use the distance slider under the \"Me\" tab to adjust the maximum distance you are willing to travel. Most of the referral are put in the system for a routine call by the NHS health and care workers, its perfectly fine for people to not need anything at times, rest assured the \"check-in\" element is just as important.",
+        "repliedAt": "2021-02-01 20:33:49"
+    },
+    {
+        "reviewId": "gp:AOqpTOGwrVbJgqC63Frfn8qsskYioh-5qgAKihzoQi4pguJ2__5haD6--F9D3xtYrWHbo9vAc3JwxKbtFwNTQg",
+        "userName": "Ali Chan",
+        "userImage": "https://play-lh.googleusercontent.com/-L6HpXpptGrE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnTU1nrUmJ1EPtpXqBd8NvJxj8LrQ/photo.jpg",
+        "content": "I spent nearly an hour calling people before someone actually needed assistance. Not very good use of my time. After spending 5 hours on this app, I only physically helped 2 people. The database seem to have far too many people in it who doesn't need immediate assistance and tends to like pushing you more and more inwards towards the city centre rather than in just your local area. So far, quite disappointed in this app.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "13.3",
+        "at": "2021-01-30 16:40:56",
+        "replyContent": "Dear Ali, none of the above is apps fault? The app simply matches what is put into the system by the NHS health and care worker with the closest volunteers around them, if the referral wants to come off the system, it is their call and you or them need to call the help line. Regarding the range, please reduce the maximum distance from the ID tab.",
+        "repliedAt": "2021-01-30 18:55:58"
+    },
+    {
         "reviewId": "gp:AOqpTOErtJab0R5oLDiy-5fGTg05AArHnGGEOEseTDb5IEB46wa_8wDUnA5eyIo-smAlqV2hIau99yKCTAZ_jA",
         "userName": "Julie Smith",
         "userImage": "https://play-lh.googleusercontent.com/-Oj8aLcgXfP8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnVQBYIvu5nG1-8XEgPaCj98hUj7Q/photo.jpg",
@@ -65,7 +149,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-FxSGzDfrjVU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckIuBIN4xTyl30PD4qa9ihLKSgSjA/photo.jpg",
         "content": "Over 500 hours of volunteering, not been called on once. Reported the problem, told to uninstall and reinstall. Did that a few times, still not working. Reported the problem verbally on a couple of occasions as well as by email, to no avail. How much money and time have the NHS wasted on this app? Please tell me if this app is working.",
         "score": 1,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "13.1",
         "at": "2021-01-25 19:47:47",
         "replyContent": "Dear User, our app is the most efficient way of connecting the local demand to local volunteers based on the volunteers chosen roles. The scheme is ran at cost and is second to none in the world, helping over 1.5 million people so far. Re-installing the app doesn't change the level of demand in your area, your area coping well is good news.",
@@ -226,18 +310,6 @@
         "at": "2021-01-20 03:49:08",
         "replyContent": "Hi Aaron, that is not true at all. Both GoodSAM and RVS are ICO registered and all accounts are deleted immediately under GDPR. Please email us at info@goodsamapp.org.",
         "repliedAt": "2021-01-20 10:43:33"
-    },
-    {
-        "reviewId": "gp:AOqpTOFLWJXXjEdxtMtNy7jdVcJ9cM6sQAVc4mTVx0isR0S7hGnmiikl_PbImtGCQ3qsdKKJWkUi3-axM1DpoQ",
-        "userName": "Sean O'Halloran",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjeYO_FOiP-mswb6uacx3-Usf2K5xszMTSqdOJDGw",
-        "content": "Upon installation, I can't seem to get past the initial introduction pages. The button at the bottom which says \"Ask for permissions\" does nothing when tapped. I've checked the permissions that the app has been granted in the application manager, and it has everything it needs. Phone is a Samsung J3 running Android 5.1.1.",
-        "score": 2,
-        "thumbsUpCount": 2,
-        "reviewCreatedVersion": "13",
-        "at": "2021-01-19 18:10:27",
-        "replyContent": "Hi Sean, thank you very much for reporting this, the team has patched this issue affecting Android 5 last night. The update is now available (Version 13.1) Please update and your problem should be fixed!",
-        "repliedAt": "2021-01-20 10:38:56"
     },
     {
         "reviewId": "gp:AOqpTOG2z9H4e9Nq513gi0bf_NpzTe3QgJ6ErcXXuBP6LxZUQyzK0Sqde1xc2QniUGQu9jdiVgti6QkZN295YQ",
@@ -473,7 +545,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-1m7C2wiZasA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnhWmIeimmd_VnA6SImBXUUtf9RZg/photo.jpg",
         "content": "Version 12.8 on Android 10: looks like notifications may have been fixed, although now when I receive a task I get a \"double ding\" where my notification sound plays twice, almost over the top of itself. Still, this is better than silence. Some tasks still do not say what type of help is required until the \"accept\" button is clicked. UPDATE: forgot I had the \"bypass silent\" option on, was the only way I could receive alerts in prev. version. Yes, if off, I get one \"ding\" now as expected - thnx!",
         "score": 4,
-        "thumbsUpCount": 6,
+        "thumbsUpCount": 7,
         "reviewCreatedVersion": "12.8",
         "at": "2021-01-13 12:48:32",
         "replyContent": "Hi Keith, regarding the \"double ding\", thats because you have the toggle \"Notify me even when silent\" turned on, which means one sound would be played via the notification and one through the alarm system to override the silent mode. Regarding the second issue, we have already patched this and should be available to you shortly, version 12.9!Thanks",
@@ -497,7 +569,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-jEfbRlOTI54/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmNZhctgyx5VDz8bFNWOnxkIEebqA/photo.jpg",
         "content": "I didn't find it very easy to install the app. It wouldn't work on my Android Tablet, so I did it on my phone but then it asked me to \"simulate an alert\" on my laptop as there would be no sound on my phone while the app was switched on. Then I disovered that I couldn't login on my laptop with my email and password because it seems I already have an account which I must have created when I registered as a volunteer early last year and which I had forgotten about, as I was never asked to volunteer. I am confused now about what to do and have spent nearly an hour trying to sort this out. I just want to help.",
         "score": 2,
-        "thumbsUpCount": 1,
+        "thumbsUpCount": 4,
         "reviewCreatedVersion": "12.8",
         "at": "2021-01-12 12:18:21",
         "replyContent": "Dear Jane, the app is delivered via the Google Play Store, you would need to have the Google Play Store app to install our app. We would also require your device to have a sim card as you would need to make phone calls and have access to an internet connection while our are out and about. Hope that helps!",
@@ -553,8 +625,8 @@
     },
     {
         "reviewId": "gp:AOqpTOEe2YSACy0r0ZKBuz9ErtKpYbb-jA_KFDnY54y7CW5Gvdyvil0uiKF4k9ykmkCFWLQOH28AS8Q6Ohb4QQ",
-        "userName": "C om",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GijmbRSDMOv92dgDMR1nEttGd_thIjcMq14w0bA2g",
+        "userName": "Politics is about Winning",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjxT_B2zPjSoWScznHkEifeWjNxI11oG5-ek6c06Q",
         "content": "Dreadful. The whining alarm sound it makes to alert you of a notification is hideous, you don't want your phone making those noises esp in public. When a volunteer op pops up no information is given, I want to know more before I sign up to something. The map is very slow to load, and sometimes doesn't. I wanted to help but this app is unusable, I just wonder how many like me now won't volunteer if this is the only way to do so. Awful awful app.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -766,18 +838,6 @@
         "at": "2021-01-01 20:11:44",
         "replyContent": "Thank you for your kind words Kate. You can ask for a password reset link here: https://www.goodsamapp.org/login\nwe can not send you a password reset link if you type your email wrong, so please don't leave the email field blank and please make sure its typed in correctly.",
         "repliedAt": "2021-01-03 02:47:49"
-    },
-    {
-        "reviewId": "gp:AOqpTOG5aVuUx96m4D8jzS49ryRhsz1cLKNeZvw5uHzHmrJIfS5VdAEjZc35Mc3ndxfgkrlYqpiKr5HBRXX27Q",
-        "userName": "Alan",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gjvd52JPNMsnEaTq9yENP9H0S7hATud4SiRd6qP-w",
-        "content": "STILL UNABLE, to upload photos of new AEDs locations to the GoodSAM app this is after installing the latest version available. When trying to use a photo taken with a google pixel phone with all location accesses switch on, the GoodSAM app still says to use a picture with location services switched on. In the past, I've replied via email to yourselves about this issue, uploaded bug reports sent pictures and still awaiting your reply. The GoodSAM app still won't sync up with android auto.",
-        "score": 2,
-        "thumbsUpCount": 44,
-        "reviewCreatedVersion": "12.6",
-        "at": "2021-01-01 15:38:33",
-        "replyContent": "Dear Alan, in order to upload an AED, you need to take a photo with the location on. (And your photo library app needs to have access to your location to tag the photo.) We then use the geolocation information on the image to know where the AED is, without this, the app will not work because it would not know where the AED is located.",
-        "repliedAt": "2020-11-17 12:40:53"
     },
     {
         "reviewId": "gp:AOqpTOGm5Ckca16IbRDSqSLcvIpMb8ySxG-kFheIoewLrUoLRDaE_vVE60ipV2jhT1Pb9wzG3PkH0CLEfDHscw",
@@ -1226,7 +1286,7 @@
     {
         "reviewId": "gp:AOqpTOG6AHEJUolvfHDz4MvHoJsZKuq9hB9hyqCR5vP0pDamlB96h1akpSk21o3_83qM2SlxTpgy_Vo-ocodbw",
         "userName": "Gym Crazy 1978",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhwtPgEP6zrl2YlDxHbMsQxcVPA8YnqkUSG4xkz8w",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgauM2vYTOMhg___sFmDhu3Nm0sY7UK78MDhOB5Ew",
         "content": "Goodsam can u explain as to WHY today their was a serious cardiac arrest which happened litrally 2mins from where i live....why wasnt the alarm raised and i could of potentially saved this old gents life,but because nobody knew were the nearest defibrillator was,by time ambulance etc got to him he had passed away...This absolutely breaks my heart because i could of saved this gent potential, but was not alerted.....its a disgrace really is....",
         "score": 2,
         "thumbsUpCount": 1,
@@ -4214,7 +4274,7 @@
     {
         "reviewId": "gp:AOqpTOHzqBRecXoiiWF9AqwaQa1YRwjkL24kSSV73QV9J2R1aOaCad_ppzK58C170GhHam0he83bkQkU5km9fA",
         "userName": "Claraworldmedia Group",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgJjJ9GF4kU0FO6Kedkgu2AsydFBDMZoJGDJDi8FA",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj6oW4q-G_Z43ZRV8m24Nr7ZgaHYxa2qJUgRxNl2Q",
         "content": "Yes, now found the location with a link supplied.",
         "score": 3,
         "thumbsUpCount": 0,
@@ -6170,7 +6230,7 @@
     {
         "reviewId": "gp:AOqpTOElByMPAVf5vJ7GN8vOGYyNY6Br7d_PvApF7KtlRGs1zMUYkLcTbAhsGe1aKtP1xv_C0RakVFn3O_g_-g",
         "userName": "Emma Stockwell",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhivZYhpwyqfA8iPPU-Swi0MnUYyH_knKyO3Rb7zMg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjhMOhLALCc6tCiNzNGs8qcTz90Nc9hclUZ22_sPVk",
         "content": "Goodness, what a mess this app is. Whoever thought it would be a bright idea to reconcile an app for cardiac arrest with Covid-19 responders? The government should already have apps in place good to go, ready for times of disaster. I couldn't log in with my email. It kept asking me of I had left a space at the beginning...I hadn't. I had to log on using my Facebook details. So now I dont even know if I am registered as a Covid-19 responder, or a cardiac arrest responder?",
         "score": 1,
         "thumbsUpCount": 12,

@@ -121,6 +121,14 @@ The Covid Trace Nevada app has been installed by more than **50000** times. At t
 <img src="5_star_reviews_wordcloud.png" alt="gov.nv.dhhs.en 5 reviews"/>
 </p>
 
+> I don't live in Nevada I live in Michigan<br> :date: __2021-02-03 19:28:11__
+
+> At Circus Circus...chk out 11 am...no home but a longtime friend to help...Pres Biden says to remain vigilant..ab( alxenia) 🧓👵😷<br> :date: __2021-02-01 18:14:47__
+
+> At Circus Circus...chk out 11 am...no home but a long time friend to help..Pres Biden says remain vigilant• alxenia👵🤕😷<br> :date: __2021-02-01 18:12:34__
+
+> At Circus Circus Las Vegas...chk out is 11 am...no home but asked a longtime friend to help• Covid tracker dwnld today 2/1/21• ab(alxenia)🙏😷🧓<br> :date: __2021-02-01 17:12:28__
+
 > Excellent.<br> :date: __2021-01-28 19:14:09__
 
 > It work good tho<br> :date: __2021-01-17 09:05:15__
@@ -132,14 +140,6 @@ The Covid Trace Nevada app has been installed by more than **50000** times. At t
 > Yayyy am NEGATIVE<br> :date: __2021-01-06 05:55:39__
 
 > Good morning, is good for me to protect myself. Thank you<br> :date: __2020-12-24 09:27:50__
-
-> I love the idea. It doesn't interfere with anything on my device, either.<br> :date: __2020-12-19 19:47:28__
-
-> Works great as long as you have your Bluetooth is on.<br> :date: __2020-12-02 01:00:52__
-
-> Wish more people would add this app<br> :date: __2020-12-01 01:40:43__
-
-> Kool app to have...We must keep track of the Zombie Apocalypse Virus... Thanks<br> :date: __2020-11-25 20:47:00__
 
 
 
@@ -191,6 +191,8 @@ The Covid Trace Nevada app has been installed by more than **50000** times. At t
 <img src="2_star_reviews_wordcloud.png" alt="gov.nv.dhhs.en 2 reviews"/>
 </p>
 
+> Gives details on recent checks in your area after monthly reminders, but we cannot access that data through the UI manually, which we should be able to do.<br> :date: __2021-02-05 04:45:42__
+
 > Absolutely useless if you don't have a specific 8 digit code to confirm the test results. The lab my husband got tested at used code numbers longer than 8 digits. When his test came back positive, there was no way to report it to this app. I don't know if this app is limited to NV Health dept tests or what.<br> :date: __2020-12-26 06:15:07__
 
 > I now understand why I never got an alert even though I live in a hotspot. I tested positive and tried to notify, but it requires a diagnosis code that is never given. There is no workaround, so no way it can be activated.<br> :date: __2020-12-24 20:14:33__
@@ -209,8 +211,6 @@ The Covid Trace Nevada app has been installed by more than **50000** times. At t
 
 > Won't refresh anymore making it useless<br> :date: __2020-10-30 02:53:20__
 
-> Hard to find what i need<br> :date: __2020-10-29 01:58:43__
-
 
 
 #### 1-star reviews
@@ -218,6 +218,10 @@ The Covid Trace Nevada app has been installed by more than **50000** times. At t
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="gov.nv.dhhs.en 1 reviews"/>
 </p>
+
+> Dreadfully non-functional software.<br> :date: __2021-02-05 14:20:38__
+
+> This app is worthless, it never warned me about a contact. I was notified through an text AFTER I already tested positive and wasn't able to warn everybody because we need a secret code<br> :date: __2021-01-30 05:59:05__
 
 > Covid is the biggest scam ever perpetuated against the human race. It's being used as an excuse to usher in an era of complete and total government control where the rich own everything and you own nothing and have no rights. WAKE UP BEFORE IT'S TOO LATE!!!<br> :date: __2021-01-29 02:51:23__
 
@@ -234,9 +238,5 @@ The Covid Trace Nevada app has been installed by more than **50000** times. At t
 > Downloaded this app immediately when it became available. It was a great concept, if it worked. But it never did. Never got one report of proximity to infected person (even though I was), doesn't refresh most of the time, and drains the battery because you have to keep the Bluetooth on. I'm uninstalling it because it's just taking up valuable storage space and battery usage. So disappointed.<br> :date: __2020-12-28 02:50:14__
 
 > When I downloaded the App I assumed it would notify me of exposures. It never did. The App does not update and no matter where I go store, mall, movies, etc it doesn't connect or work. There is a serious flaw.<br> :date: __2020-12-26 09:43:12__
-
-> Rated dead last in best coronavirus detection app in america. Ironic since nevada has the 2nd highest cases (infected & death) in the nation. 🤔 You'd think we'd take this more seriously.<br> :date: __2020-12-21 23:56:23__
-
-> It requires a Verification Code to report you are Positive. The UMCconnect has no idea how to give me a Verification code after they told me I am positive. The app is useless, you can't report you have Covid. It was another huge Democrat money wasting pork belly project<br> :date: __2020-12-18 20:49:57__
 
 

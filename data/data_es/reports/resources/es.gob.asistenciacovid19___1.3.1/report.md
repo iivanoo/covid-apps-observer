@@ -248,6 +248,8 @@ The Asistencia COVID-19 app has been installed by more than **100000** times. At
 <img src="1_star_reviews_wordcloud.png" alt="es.gob.asistenciacovid19 1 reviews"/>
 </p>
 
+> Andalucía siempre fuera. Incluir Andalucía<br> :date: __2021-02-02 08:38:20__
+
 > No me gusta nada.<br> :date: __2021-01-25 09:12:23__
 
 > Que pena, parece que el resto de España no pagamos impuestos.... ¿Como denunciar ésto? Vaya gobierno de españa....por excluir al resto de comunidades españolas.... Si hacen una app con mis impuestos, que valga para todos. de vergüenza.<br> :date: __2021-01-23 23:46:46__
@@ -265,7 +267,5 @@ The Asistencia COVID-19 app has been installed by more than **100000** times. At
 > Falta de información en la provincia de Coruña Galicia<br> :date: __2020-10-19 14:06:39__
 
 > No funciona<br> :date: __2020-10-08 22:26:52__
-
-> Mi aplicación se queda pillada en las preguntas de ¿Que enfermedades tienes? Y de hay no s abre más .<br> :date: __2020-09-29 19:36:44__
 
 

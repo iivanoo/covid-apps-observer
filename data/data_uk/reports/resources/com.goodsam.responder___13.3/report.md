@@ -171,6 +171,8 @@ The GoodSAM Responder app has been installed by more than **100000** times. At t
 <img src="5_star_reviews_wordcloud.png" alt="com.goodsam.responder 5 reviews"/>
 </p>
 
+> Upon installation, I can't seem to get past the initial introduction pages. The button at the bottom which says "Ask for permissions" does nothing when tapped. I've checked the permissions that the app has been granted in the application manager, and it has everything it needs. Phone is a Samsung J3 running Android 5.1.1. Update: Thanks to the team for updating this so quickly. All working perfectly now!<br> :date: __2021-02-03 10:32:29__
+
 > Never leaves me alone. Works really well. Dare not sign on unless I've got a good bit of time to offer because I can easily get the next call before I've got home from the previous.<br> :date: __2021-01-27 18:54:23__
 
 > Hi my app isn't working, I'm not getting any sound when simulating an alert and only just realised. I could of missed so many calls because of this it's not fair<br> :date: __2021-01-16 03:04:47__
@@ -189,8 +191,6 @@ The GoodSAM Responder app has been installed by more than **100000** times. At t
 
 > A service that provides help for people in need. Very professional and friendly service that's was needed during the Covid 19 pandemic but still provides essential services through out the year.<br> :date: __2020-09-04 21:29:15__
 
-> Works well! Love being a Responder<br> :date: __2020-08-26 13:45:55__
-
 
 
 #### 4-star reviews
@@ -198,6 +198,8 @@ The GoodSAM Responder app has been installed by more than **100000** times. At t
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.goodsam.responder 4 reviews"/>
 </p>
+
+> Sometimes I wonder if anyone knows that I have logged on "duty" to the controllers. I have logged on for a mere 143 hours and in that time I have had just four "shouts" three of which didn't pick up and the fourth just needed a "chat. How do I know, that you know, that I am here ready to go? Many thanks Alan Hobbs<br> :date: __2021-02-03 16:21:46__
 
 > The app works ok most of the time. One problem I get is the location side, I've had to reject quite a few alerts that have been 12 miles away even though my app is set at 5 miles.<br> :date: __2021-01-23 09:57:46__
 
@@ -216,8 +218,6 @@ The GoodSAM Responder app has been installed by more than **100000** times. At t
 > Excellent and very easy to use. However there is more way to return to the information page after you have accepted the task.<br> :date: __2021-01-04 18:59:08__
 
 > Swift reply<br> :date: __2020-12-30 22:08:38__
-
-> As others have reported since last week I have not been receiving the sound alerts and the app is now version 12.5 - I can choose the sound on the"me" page but even the simulated alert doesn't produce a sound. I have missed several alerts including a patient transport. I now have tested the push notification and this worked, so will wait to see what happens when I get a real alert. Thanks for the quick response.<br> :date: __2020-12-27 12:30:16__
 
 
 
@@ -255,13 +255,17 @@ The GoodSAM Responder app has been installed by more than **100000** times. At t
 <img src="2_star_reviews_wordcloud.png" alt="com.goodsam.responder 2 reviews"/>
 </p>
 
+> 1. I uninstalled the Goodsam app from my Android v10 tablet as the Task tab didn't show like on the smartphone. I was planning to reinstall to fix this bug. Now it says my tablet isn't compatible. WHY!!? It seems perverse to withdraw the tablet version. It was useful if my wife borrowed the phone. 2. I am signed up as a stewarding volunteer. It would help if you could add an alert when a task comes in. This could be the siren already in place. But as the "tasks" are less urgent an email would suffice.<br> :date: __2021-02-04 20:16:22__
+
+> 02/02/21 STILL UNABLE to upload photos of new AEDs locations to the GoodSAM app this is after installing the latest version available. When trying to use a photo taken with a google pixel phone with all location accesses switch on, the GoodSAM app still says to use a picture with location services switched on. In the past, I've replied via email to yourselves about this issue, uploaded bug reports sent pictures and still awaiting your reply.<br> :date: __2021-02-03 15:04:48__
+
+> Buggy, clunky UI. Clicking on 'Show details' of a booked task closes the app every time. The details can only be seen by restarting the app. No way to go back to the homepage without clicking back through every page of the 'tasks' section. Can't copy text, eg task addresses. User unfriendly.<br> :date: __2021-02-02 18:22:40__
+
 > Difficult to use efficiently<br> :date: __2021-01-29 10:37:31__
 
 > Check everything probably 5 times, location always on, notifications on, everything possible is on still not getting notifications. Any advice? Version Android 11<br> :date: __2021-01-22 18:14:11__
 
 > Taking forever to register to the point I have given up<br> :date: __2021-01-21 17:21:42__
-
-> Upon installation, I can't seem to get past the initial introduction pages. The button at the bottom which says "Ask for permissions" does nothing when tapped. I've checked the permissions that the app has been granted in the application manager, and it has everything it needs. Phone is a Samsung J3 running Android 5.1.1.<br> :date: __2021-01-19 18:10:27__
 
 > Despite all my phone settings being correct I get no sound when simulating an alert and despite my location being on full it shows me in the Atlantic Ocean off the coast of Africa when I'm in the south of England<br> :date: __2021-01-19 17:51:38__
 
@@ -271,10 +275,6 @@ The GoodSAM Responder app has been installed by more than **100000** times. At t
 
 > I have changed my phone and number. Went on to the suggested site to change the details and verified. I now have no location map nor able to simulate an alarm. I assume its not working. Tried to phone the help line for 4 hours, no answer. Usually take 5-10 calls a day but non received since. Please make it simpler.<br> :date: __2021-01-11 14:18:19__
 
-> Update: Thanks for your quick response. Although your suggestions didn't resolve the problem, they did nudge me to check elsewhere on the app. When it became possible to choose a notification other than Siren before xmas, I chose Default and that's where the problem is. I just did Push Notifications having selected Siren, then Pager, I got full notifications from both. I hope this helps you and others who have had simular problems. This is a question rather than a review. Why since the app was upgraded on the 2nd Jan 21 does my phone no longer get notifications? I do get the requests, but won't know unless I open the app and check messages/coms. The app notification screen has notifcations as On. Allow Dot Notifications is On. Under Categories The message is This app has not posted any notifications. A Push Notification Test did get received in Messages, but sadly no alerts. My phone is a Moto G5S using Oreio 8.0. There will be no more upgrades from Motorola.<br> :date: __2021-01-08 19:49:53__
-
-> I used to get push notifications but don't anymore, I click on the app and there is a task waiting for me! I have checked all of my settings and they are fine, its just suddenly stopped working and I only see tasks when I open the app. I have tried sending a test notification but it didn't work and I have gone through all settings but can't see why it doesn't work.<br> :date: __2021-01-07 20:00:58__
-
 
 
 #### 1-star reviews
@@ -282,6 +282,10 @@ The GoodSAM Responder app has been installed by more than **100000** times. At t
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="com.goodsam.responder 1 reviews"/>
 </p>
+
+> Jobs are too far away or clients do not need help<br> :date: __2021-02-01 19:58:44__
+
+> I spent nearly an hour calling people before someone actually needed assistance. Not very good use of my time. After spending 5 hours on this app, I only physically helped 2 people. The database seem to have far too many people in it who doesn't need immediate assistance and tends to like pushing you more and more inwards towards the city centre rather than in just your local area. So far, quite disappointed in this app.<br> :date: __2021-01-30 16:40:56__
 
 > Over 500 hours of volunteering, not been called on once. Reported the problem, told to uninstall and reinstall. Did that a few times, still not working. Reported the problem verbally on a couple of occasions as well as by email, to no avail. How much money and time have the NHS wasted on this app? Please tell me if this app is working.<br> :date: __2021-01-25 19:47:47__
 
@@ -298,9 +302,5 @@ The GoodSAM Responder app has been installed by more than **100000** times. At t
 > Have you stopped doing check in and chat during vaccination programme. Only had 2 calls in January. Have just installed updated app. My husband has had no notifications for months.<br> :date: __2021-01-20 10:29:45__
 
 > Impossible to get account deleted once signed up. Zero response from anyone at GoodSAM or RVS.<br> :date: __2021-01-20 03:49:08__
-
-> I have registered as a volunteer and downloaded the app and it closes as soon as I open it. I have uninstalled and reinstalled over 10 times and my phone is running Android 10 so should be compatible. Sorry I have just checked I am running Android 9, the app crashes within seconds of opening, I get a message on screen saying that the app has stopped running.<br> :date: __2021-01-19 10:59:54__
-
-> Not at all clear and easy to use?<br> :date: __2021-01-19 09:15:03__
 
 

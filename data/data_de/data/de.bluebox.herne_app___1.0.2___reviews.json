@@ -1,5 +1,29 @@
 [
     {
+        "reviewId": "gp:AOqpTOH-ATqxHThBmZpfBYXh5WOOP-by9i6NovZ5CEqDzc1x-VZIUY4qyzbLHUBXT5Sap3uVjC-3Y3Twli8D2Q",
+        "userName": "Sascha Merz",
+        "userImage": "https://play-lh.googleusercontent.com/-6QBT43vnQd4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmLYKdiPru9X-Ox2GXtXGSZ7wUeFg/photo.jpg",
+        "content": "M\u00e4ngelmelder gibt immer eine Fehlermeldung aus. Unbrauchbar",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.0.2",
+        "at": "2021-02-03 17:57:28",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHup5DbBFBf8ZKaWyyuz3_HJMbZr0IxcZn6UDs-cq-T4VBzVoYm8fhIFO05aucwliqUQvxXXG5wma5R6A",
+        "userName": "X Y",
+        "userImage": "https://play-lh.googleusercontent.com/-Wqm_DWxeRFA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmCixlvVT0FZn8XRZ72MU9B0zW3DA/photo.jpg",
+        "content": "Gute Idee, aber ich m\u00f6chte die Funktion haben, dass ich nach Bereichen suchen kann und mir ein Ansprechpartner angezeigt wird. Des Weiteren w\u00e4re ein Darkmode super!",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.0.2",
+        "at": "2021-02-03 16:09:13",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOFJSGzW1nPAGIxL7-d9OhHHCGAwtJpgGJtyNGSerfycbu4_6u1NElZrwDzPYxFEUDZlM6SSQqBxaui11A",
         "userName": "Stefan L. Telaka",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjsQU3YXaMv5DIwmR_JdeiyJ7pph5nzWS-nKuvlsw",
@@ -49,8 +73,8 @@
     },
     {
         "reviewId": "gp:AOqpTOG-wFOgVLaUdq9uZN_h0BrSMa8wv8sRgsn5DWZpabcYXAvusOZOiCdo3Nab3BuCMURkfzs3oKsOEtHq3A",
-        "userName": "Ne\u015fat G\u00fcl\u00fcno\u011flu",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ggkga7IazPO0OOgXcI-T8nWt0K-R_L7e1UFAR_THA",
+        "userName": "Nesat G\u00fcl\u00fcnoglu",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjPZmDyLBKktm0kceYrPeFLBPTtytYcBp-6OC_x9Q",
         "content": "\ud83d\udc4c",
         "score": 4,
         "thumbsUpCount": 0,
@@ -113,7 +137,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-o3FcGeaJGgk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl4DSdjzmVxGeBwgdvEFnw4lfQKgA/photo.jpg",
         "content": "Grunds\u00e4tzlich lobenswert, wenn eine Stadt eine eigene App zur Verf\u00fcgung stellt. Ein Darkmode fehlt mir pers\u00f6nlich, da dieser akkuschonend ist. Ausserdem st\u00fctzt die App auf meinem S7 (Android 8) beim Aufruf von Veranstaltungen nach der Auswahl des Zeitraumes immer ab. Kinderkrankheiten halt, die viele Apps am Anfang haben. Die Weiterleitung zu externen Seiten finde ich gut, da dies die App nicht unn\u00f6tig aufbl\u00e4ht. F\u00fcr den Abfallkalender gibt's von Entsorgung Herne \u00fcbrigens ne eigene App.\ud83d\ude09",
         "score": 4,
-        "thumbsUpCount": 2,
+        "thumbsUpCount": 3,
         "reviewCreatedVersion": "1.0.2",
         "at": "2020-07-30 15:27:52",
         "replyContent": null,
@@ -125,7 +149,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhydLtMgNb89jYdUaEeUeM8ilPOtDsUNpbKkbZvvqY",
         "content": "Eine wirklich tolle, gelungene und Aussagekr\u00e4ftige App. Funktioniert wunderbar. Verdiente 5 Sternchen \ud83d\ude0a\ud83d\udc4d",
         "score": 5,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "1.0.1",
         "at": "2020-04-25 14:21:03",
         "replyContent": null,

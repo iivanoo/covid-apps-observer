@@ -176,6 +176,10 @@ The HowWeFeel: The How We Feel Project app has been installed by more than **100
 <img src="5_star_reviews_wordcloud.png" alt="org.howwefeel 5 reviews"/>
 </p>
 
+> This app is a tool to gauge the impact of the covid-19 pandemic. Provides info on state level, then compares the state & national statistics. App gives you a feel for how other states are coping. Provides links to the CDC website & other medical centers. If you dig deep enough, you can find the impact on your county. Finding granular data isn't straightforward. There's a lot of info out there if you care to find it. Info can be found by going straight to CDC.gov. I like this app. Recommended.<br> :date: __2021-02-05 23:46:24__
+
+> Easy and simple to use<br> :date: __2021-02-02 20:13:12__
+
 > Part of my daily routine<br> :date: __2021-01-27 13:56:39__
 
 > Easy to use and no glitches.<br> :date: __2021-01-15 11:07:21__
@@ -191,10 +195,6 @@ The HowWeFeel: The How We Feel Project app has been installed by more than **100
 > Participating helps me cope with the reality of living in this pandemic,Covid19, especially when i feel powerless to fight this invisible ennemy. I can only do my part, hoping that others will do the same.<br> :date: __2021-01-01 17:27:15__
 
 > Really good app and simple helps a good cause!<br> :date: __2021-01-01 05:40:34__
-
-> I enjoy this app,the positivity helps your physical capacity to continue to stay home and wear mask outside!<br> :date: __2020-12-29 01:21:12__
-
-> I like checking in<br> :date: __2020-12-23 04:48:36__
 
 
 
@@ -232,6 +232,8 @@ The HowWeFeel: The How We Feel Project app has been installed by more than **100
 <img src="3_star_reviews_wordcloud.png" alt="org.howwefeel 3 reviews"/>
 </p>
 
+> Helpful, for the most of it<br> :date: __2021-01-30 09:30:46__
+
 > I don't know how I feel much better or not. I don't think I feel that much better.<br> :date: __2020-11-14 03:00:22__
 
 > Very easy to use, and using it makes me feel like I'm contributing to something worthwhile--tracking COVID-19 spread. Update: I had to uninstall it in October because it quit working.<br> :date: __2020-11-02 21:04:57__
@@ -249,8 +251,6 @@ The HowWeFeel: The How We Feel Project app has been installed by more than **100
 > Updated App today and now I keep on getting error messages that the App is continuing to close. I uninstalled then installed the App and am still having issues<br> :date: __2020-10-09 05:36:17__
 
 > Okay application<br> :date: __2020-09-24 19:13:06__
-
-> Choices for source of stress and other feelings focus on effects of CoVid and leave out other national issues, which for many of us are the key sources of stress<br> :date: __2020-09-19 13:08:20__
 
 
 

@@ -154,8 +154,6 @@ The StopCOVID NI app has been installed by more than **100000** times. At this t
 
 > Thankfully no alert yet<br> :date: __2021-01-27 19:45:45__
 
-> Good<br> :date: __2021-01-27 09:50:35__
-
 > Fantastic<br> :date: __2021-01-08 19:00:21__
 
 > This app is a scam , it steals all your information and sent to 3rd parties , so be careful.<br> :date: __2021-01-08 14:34:36__
@@ -170,6 +168,8 @@ The StopCOVID NI app has been installed by more than **100000** times. At this t
 
 > Helps to keep me safe and others safe<br> :date: __2020-12-21 03:35:48__
 
+> Perfect<br> :date: __2020-12-10 13:47:17__
+
 
 
 #### 4-star reviews
@@ -177,6 +177,8 @@ The StopCOVID NI app has been installed by more than **100000** times. At this t
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="net.hscni.covidtracker 4 reviews"/>
 </p>
+
+> Very good upto date info.<br> :date: __2021-02-04 10:51:09__
 
 > COVID NI there are many driffence information about COVID<br> :date: __2021-01-10 23:10:53__
 
@@ -195,8 +197,6 @@ The StopCOVID NI app has been installed by more than **100000** times. At this t
 > Once running, seems to be very good. But was hard to find. Wasn't immediately clear if there was a background daemon service running or the app had to be "minimized" but not closed to work. Samsung Galaxy 8 running Android 9: It seems Samsung's battery optimisation service was killing the app. After a reboot, it seemed OK, though. Closing/swiping away the app and then toggling bluetooth on/off showed it was still running (I got an alert from the app saying bluetooth needs enabled).<br> :date: __2020-08-13 21:40:20__
 
 > No problems downloading and it appears active on my Samsung S10. Would love to understand more about the keys as we're registering them without leaving the house!<br> :date: __2020-08-12 22:11:42__
-
-> Seems to work just fine, but the interface is slow and it's hard to know if this is actually running or if I have to load up the app manually every time.<br> :date: __2020-08-07 11:52:24__
 
 
 
@@ -262,6 +262,16 @@ The StopCOVID NI app has been installed by more than **100000** times. At this t
 <img src="1_star_reviews_wordcloud.png" alt="net.hscni.covidtracker 1 reviews"/>
 </p>
 
+> I used this app from I tested positive it has never turned red etc like it suppose to 😡<br> :date: __2021-02-06 15:42:06__
+
+> In contact with quite a few covid positive people and no alert, obviously not working<br> :date: __2021-02-03 10:33:24__
+
+> Even though it says you only need Bluetooth enabled my app tells me to keep location enabled for notifications. This drains my battery so I won't be using it.<br> :date: __2021-02-02 16:39:24__
+
+> I have just deleted the app, the police in England are being given new powers to access your information via the app. Its only a matter of time before NI does the same. This is NOT what I signed up for. Completely lost my trust and have uninstalled. The notifications aren't useful, it doesn't tell you when or where you came into contact with someone.<br> :date: __2021-01-30 10:25:47__
+
+> Statistically I have been in direct contact with a number of Covid cases. Not one single alert.<br> :date: __2021-01-30 00:09:06__
+
 > I have used it daily just to see if it works and it has never went off. I work on a Covid Ward... I also have family who were in the same place for the same amount of time with the same people and some got the notification and others didnt. It simply doesn't work.<br> :date: __2021-01-26 12:42:55__
 
 > It didn't send me any notification I happened to open my app and had 4 days self isolation left, that was certainly pointless considering I missed 6 days isolation and being around my co workers<br> :date: __2021-01-18 08:43:00__
@@ -271,15 +281,5 @@ The StopCOVID NI app has been installed by more than **100000** times. At this t
 > Why does it not check for exposure ive had 0 exposure checks for the past 25 days or so why???<br> :date: __2021-01-16 04:27:01__
 
 > Doesn't work properly<br> :date: __2021-01-06 12:46:58__
-
-> Tested positive but cant update in app so close contacts can be informed because you don't actually get a code to enter. Completely pointless!<br> :date: __2021-01-05 09:34:53__
-
-> Never seems to work! Keeps telling me to turn on my bluetooth...bluetooth is on!! I give up pointless<br> :date: __2021-01-03 23:00:31__
-
-> App won't open/crashes even after re-downloading<br> :date: __2021-01-03 11:51:38__
-
-> Pointless app. I don't think it's even accurate.<br> :date: __2020-12-30 00:26:35__
-
-> DISCUSTING app terrorism<br> :date: __2020-12-29 12:26:18__
 
 

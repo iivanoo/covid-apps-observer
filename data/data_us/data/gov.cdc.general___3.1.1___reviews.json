@@ -1,5 +1,41 @@
 [
     {
+        "reviewId": "gp:AOqpTOEaIyxSW1I_JeyFGq_1sZgK9q76VZ54IXlMPQj8xmBBOre0Th_jZDYt-e68XQ4-j9vl8nH8e2YmaePvrw",
+        "userName": "Dan Ceppa",
+        "userImage": "https://play-lh.googleusercontent.com/-9AjUfPoRNx4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmnJhw2BrkjbapMv0_dxKSVi_xZcw/photo.jpg",
+        "content": "Impossible to find your way around.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.1.1",
+        "at": "2021-02-05 20:15:20",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHGq1rrdj3bgNLRQs5PhpG9sVHpU1ZpPLNaWWbsdjahYMahUhT2lRR4yDZ2IL9TLYOz4l3gvxKkPYVPvQ",
+        "userName": "Amanuel Aweke",
+        "userImage": "https://play-lh.googleusercontent.com/-09OzN7fp-qw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclJ5nYffqGIVAmo48gcTZAYPoWlIg/photo.jpg",
+        "content": "Nice",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.1.1",
+        "at": "2021-02-04 11:00:30",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHiA3nUwQaWOXFCOE-bd07CCGRG0nASYM4_-PtHR6FbizuYoAztdfV9Ftdl0Wbll2rt9wFOxPlplXLmMA",
+        "userName": "R. Faith Ascencio",
+        "userImage": "https://play-lh.googleusercontent.com/-oJzXlsyS1KU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmHQsScvKDBlhE44ZjaKFn-WBdD7g/photo.jpg",
+        "content": "Why R the EyEs not a point of passing 19 to the nose\u2753\ud83e\udd2a\ud83c\udf3f",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.1.1",
+        "at": "2021-02-01 08:01:46",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOGkF_UhwiXey_EpISjDuK_sQE7mRv9MfyKHJKrzoYI9gUvI3spzwh97Wz1L8D3odM5dH3EbzCyo3qcOxg",
         "userName": "Steve Barry",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi10UJY7h3l_IxhU-5CgSaXezX_b8DT7UZDnU1XcA",
@@ -317,7 +353,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-6zuSoiTk_3c/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckrb814gRmAptcej-Hqhjsf7u_bsA/photo.jpg",
         "content": "A very informative app on Disease and general health protocol. Could have 5 stars if it was easier to navigate and find information such as a search bar to find exactly what I'm looking for.",
         "score": 4,
-        "thumbsUpCount": 78,
+        "thumbsUpCount": 82,
         "reviewCreatedVersion": "3.1.1",
         "at": "2020-09-11 04:55:30",
         "replyContent": null,
@@ -638,7 +674,7 @@
     {
         "reviewId": "gp:AOqpTOFPfZa_25TC8IRoBKsk1FRujilDBz2fqxIe2OP-gBEy74rpxvfykLy2TNJcGu3d503ciYdz4GTRHOIotA",
         "userName": "Sunbear claws",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiqJh1Ftfg33O3zufyIxk-aVv7mgVgL-WcGAwjL7A",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gjti8uTIahM62k6KFRekkrEmMplBKS4I_Fwb85qUA",
         "content": "Questions about symptoms is all grouped together. Choices for different symptoms is really important. I answered YES to symptoms, because I had no choice. Results came up urgent. That's scary. Needs to be more broad.",
         "score": 1,
         "thumbsUpCount": 11,
@@ -2066,7 +2102,7 @@
     {
         "reviewId": "gp:AOqpTOHuT-akIyy45LKzn-VrlddsxfjWrBEz_hIJSITqdYn3daseneN5jDLcb-zOHwk_jhv2hscKUeczQ8AnMA",
         "userName": "Alexander Montanez",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GifxUYw1ud9sUOkovR40gcrTvzv4UQiLEltU9ITL2M",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhSNnBZvH-KFeofBH18iKxUX8YDosGFfbJ6Ul1cK4k",
         "content": "Not Good",
         "score": 1,
         "thumbsUpCount": 0,
@@ -2525,7 +2561,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgVxFrom2lDU9lGdYjKt4qkDGrDuQ3_bEUapD5yVgw",
         "content": "I've had this app for maybe a year or two before the Covid-19 pandemic. It used to always be fact and science based, focusing on what you need to know to stay safe! However, recently the \"articles\" have been touting Trump's \"strong and swift action\" in dealing with this virus. I don't need to read a bunch of political BS before getting to the useful information and data! This is really a shameful decline and I will be uninstalling and getting my health and safety information elsewhere.",
         "score": 1,
-        "thumbsUpCount": 809,
+        "thumbsUpCount": 812,
         "reviewCreatedVersion": "2.6.7",
         "at": "2020-04-11 07:51:44",
         "replyContent": null,
@@ -2945,7 +2981,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjoOcAA-WgyAiScl9lUGkDEFOK9UX3cRpxn1si0Mw",
         "content": "For \"up-to-the-minute\" reporting, this app is three weeks past due. The CDC direct website is easier to navigate with factual details than this half-assed attempt of an app. My google web browser lends more useful up to date info than this app does. When i attempt to navigate the app it sends me to the CDC website. Think ill save memory space. *delete*",
         "score": 1,
-        "thumbsUpCount": 409,
+        "thumbsUpCount": 411,
         "reviewCreatedVersion": "2.6.7",
         "at": "2020-04-05 08:41:21",
         "replyContent": null,
@@ -3217,7 +3253,7 @@
     },
     {
         "reviewId": "gp:AOqpTOFNZQirCeD1ll26JqjpllfEmwalCajTIYYklIinoQFC2MCCya9Bjr9aGCMIENqXtY9r1gp-tipxUKDL9Q",
-        "userName": "Bikkey Prajapati",
+        "userName": "Ha Ha",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj2h__0StYgHA5E-uiNaGCblbfyk2RWtYdjyAc-",
         "content": "Nice app",
         "score": 5,
@@ -3266,7 +3302,7 @@
     {
         "reviewId": "gp:AOqpTOHbWnrlexJgFoapzcyagd8BQdW5jLeX8gyTY7HY5tBLtM-GpGeoXo0_qC2ckM7CbZCc16eYGYsOmJHmvw",
         "userName": "Dominic Johnson",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gjpw3u4fsTcoh9NPgn84BN9GW5weReiAKVZXjxwwUM",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjInjgTsXAjFtkHnCfqFWwumOWQtspfSLTQy8rdVuo",
         "content": "Very informative and helpful.",
         "score": 5,
         "thumbsUpCount": 3,
@@ -3696,18 +3732,6 @@
         "repliedAt": null
     },
     {
-        "reviewId": "gp:AOqpTOHor6n7eclzpr5YOC9RfhiCqBdzvdKkiJm5INwvw3yo75dek8NBj5O0VypxnW-0wdwi2Un7dusIqf-EHw",
-        "userName": "Douglas Scott",
-        "userImage": "https://play-lh.googleusercontent.com/-sBSdv5X4-rs/AAAAAAAAAAI/AAAAAAAAE-4/AMZuucleFFG-JykcF2f2xYm7xxNdgNn2sQ/photo.jpg",
-        "content": "Most pages don't load at all, they show a \"webpage not available\". This is a government app supposed to provide critical information to citizens..?",
-        "score": 1,
-        "thumbsUpCount": 11,
-        "reviewCreatedVersion": "2.6.7",
-        "at": "2020-03-26 02:24:29",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
         "reviewId": "gp:AOqpTOEOttuLAaPLoC9VbeZeWd66g8KLQsdkTrSsDXmirFDhyWHlMAqjZXPHTFmEIPKgElPJ9N4PMUQyDEf3jw",
         "userName": "Vasanth S",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg1UxutyCw2HG2vwId76yeZN-ky5XpN_3BGL4nVkA",
@@ -3715,6 +3739,18 @@
         "score": 1,
         "thumbsUpCount": 5,
         "reviewCreatedVersion": null,
+        "at": "2020-03-26 02:24:29",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHor6n7eclzpr5YOC9RfhiCqBdzvdKkiJm5INwvw3yo75dek8NBj5O0VypxnW-0wdwi2Un7dusIqf-EHw",
+        "userName": "Douglas Scott",
+        "userImage": "https://play-lh.googleusercontent.com/-sBSdv5X4-rs/AAAAAAAAAAI/AAAAAAAAE-4/AMZuucleFFG-JykcF2f2xYm7xxNdgNn2sQ/photo.jpg",
+        "content": "Most pages don't load at all, they show a \"webpage not available\". This is a government app supposed to provide critical information to citizens..?",
+        "score": 1,
+        "thumbsUpCount": 11,
+        "reviewCreatedVersion": "2.6.7",
         "at": "2020-03-26 02:24:29",
         "replyContent": null,
         "repliedAt": null
@@ -3841,7 +3877,7 @@
     },
     {
         "reviewId": "gp:AOqpTOGc-4uGVOdQy_Bt7pfj8p4ALwiCSCX7bFmv8Js2_UqKDH9dh2G44KlaYEOuj8h2rnIyAaqyHoNA4aiqrw",
-        "userName": "Andru Tate",
+        "userName": "uh okay",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gjsx1LYFjIDbLYLx8EIfFmywVKYsQD5lL-ZtdDi",
         "content": "App works 100%, must be user error on those poorly rated reviews. Literally gives up to the second into on covid-19 including how many boomers have been eradicated and the plans that trumps space force is working on to gather up all the infected and use them as building material in his space-boarder wall because those gad dang martians are the ones who caused this whole mess because of long unbroken run on sentences full of grammatical errors and weird anger towards the elderly who don't know up",
         "score": 5,
@@ -4022,7 +4058,7 @@
     {
         "reviewId": "gp:AOqpTOH5NktIA9g4q-lpn_J8x7sfAHt43nldFmNRI2UZR9FQL0wVzmOlCf1m6AqSqVaw1lHil7E5X11UwGi-iA",
         "userName": "Scott Hawkins",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh5ooguhP8JzLaGHzMx8gTJe5Kcl2dsflr0UB6FtA",
+        "userImage": "https://play-lh.googleusercontent.com/-4qKkuzaMeMM/AAAAAAAAAAI/AAAAAAAAAOk/AMZuuclRbhiWWYdmjUEHX0woAVafbUzopA/photo.jpg",
         "content": "Not that good",
         "score": 2,
         "thumbsUpCount": 4,

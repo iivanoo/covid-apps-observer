@@ -202,6 +202,12 @@ The Penn State Health OnDemand app has been installed by more than **10000** tim
 <img src="5_star_reviews_wordcloud.png" alt="org.pennstatehealth.android.pshh.ondemand 5 reviews"/>
 </p>
 
+> App worked flawlessly. Excellent !!!<br> :date: __2021-02-04 19:24:15__
+
+> Good<br> :date: __2021-02-02 19:23:32__
+
+> Great<br> :date: __2021-02-02 15:55:36__
+
 > Very handy<br> :date: __2021-01-27 14:19:20__
 
 > Super Easy. No glitches. Reminders before appointments are great.<br> :date: __2021-01-27 13:31:45__
@@ -216,12 +222,6 @@ The Penn State Health OnDemand app has been installed by more than **10000** tim
 
 > Exceptional<br> :date: __2021-01-15 21:00:41__
 
-> Excellent<br> :date: __2021-01-13 19:49:31__
-
-> Works well! Easy to use!<br> :date: __2021-01-13 19:45:31__
-
-> I love this app, it hardly gives me issues and i am able to complete my doctors visits from home when needed.<br> :date: __2021-01-06 17:20:20__
-
 
 
 #### 4-star reviews
@@ -229,6 +229,8 @@ The Penn State Health OnDemand app has been installed by more than **10000** tim
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="org.pennstatehealth.android.pshh.ondemand 4 reviews"/>
 </p>
+
+> The experience was ok. I could hear and see my Dr. clearly. The problem was my Dr. could hear me, but she could not see me. My video was on, I could see my picture in the corner of my screen.<br> :date: __2021-02-01 15:11:25__
 
 > Easy to use.<br> :date: __2021-01-25 16:48:01__
 
@@ -247,8 +249,6 @@ The Penn State Health OnDemand app has been installed by more than **10000** tim
 > It was surprisingly easy to use.<br> :date: __2020-06-03 20:22:09__
 
 > Easy to use!<br> :date: __2020-05-28 22:40:15__
-
-> It was ok<br> :date: __2020-05-07 21:27:03__
 
 
 

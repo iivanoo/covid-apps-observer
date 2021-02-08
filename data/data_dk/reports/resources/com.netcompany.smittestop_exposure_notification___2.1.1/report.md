@@ -162,6 +162,8 @@ The Smittestop app has been installed by more than **500000** times. At this tim
 <img src="5_star_reviews_wordcloud.png" alt="com.netcompany.smittestop_exposure_notification 5 reviews"/>
 </p>
 
+> Ok<br> :date: __2021-02-03 14:38:06__
+
 > Virker som den skal. Har fået notifikation en gang, om at jeg har været tæt på en smittet - højst sandsynlig i metroen, så den del virker også.<br> :date: __2021-01-14 12:33:22__
 
 > Looks like the app is finally working now. I have multiple checks per day that come with a notification. And the daily updates are a nice feature too. Next time you need to ask for consent, you have to send us a notification, nobody opens this app every day.<br> :date: __2020-12-21 13:01:44__
@@ -180,8 +182,6 @@ The Smittestop app has been installed by more than **500000** times. At this tim
 
 > Virker nu. Den bør vœre obligatorisk.<br> :date: __2020-08-18 08:40:15__
 
-> very good app, use it to track hot singles nearby<br> :date: __2020-08-08 17:34:24__
-
 
 
 #### 4-star reviews
@@ -189,6 +189,8 @@ The Smittestop app has been installed by more than **500000** times. At this tim
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.netcompany.smittestop_exposure_notification 4 reviews"/>
 </p>
+
+> Ønskes: mulighed for at fravælge irriterende info-notifikation<br> :date: __2021-02-05 16:08:10__
 
 > The app used to hsve problems with not syncing data automatically on android phones, but this appears to be fixed. Would be good if it excluded "hot spots" like testing centers from alerts.<br> :date: __2021-01-14 21:14:11__
 
@@ -208,8 +210,6 @@ The Smittestop app has been installed by more than **500000** times. At this tim
 
 > To increase trust and adoption this app should be made open source. That way, we all could have a look at the code to see if there's any privacy breach, and could even contribute with an English translation for the app. Plus, Denmark would set the example and other countries would follow. You might think that an open source app is more vuneravle to attacks but this is a very naïve arguments: vulnerabilities are exposed and fixed faster.<br> :date: __2020-08-07 08:44:54__
 
-> App'en driller, når telefonen sættes i flytilstand og app'en ikke kører helt i baggrunden. Når app'en har et GUI åben, når bluetooth forsvinder, kommer en dialogboks frem, som kræver ny godkendelse af BT. Hvis app'en derimod kører uden GUI, så tåler den fint at BT forsvinder og dukker op igen. Den dialogboks i GUI.-tilstand bør rettes.<br> :date: __2020-08-04 18:50:15__
-
 
 
 #### 3-star reviews
@@ -217,6 +217,8 @@ The Smittestop app has been installed by more than **500000** times. At this tim
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="com.netcompany.smittestop_exposure_notification 3 reviews"/>
 </p>
+
+> Ideen med app'en er rigtig god, men det er håbløst upraktisk at den skal genaktiveres en gang i mellem. Den skal kunne køre autonomt i baggrunden.<br> :date: __2021-02-02 14:55:06__
 
 > Tror ikke helt på den virker. Først havde den en ugentlig notifikation om at den hentede kontakter. Dem har jeg ikke set siden efteråret. Så da jeg åbner app'en nu her, ser den ud som den skal, men der er kommet en ny permanent notifikation som siger den henter kontakter. Så siden efteråret har den altså ikke virket fordi jeg ikke har åbnet appen? Eller hvad?<br> :date: __2021-01-14 12:09:44__
 
@@ -235,8 +237,6 @@ The Smittestop app has been installed by more than **500000** times. At this tim
 > Virker, da der kommer notifikationer, men først når jeg åbner appen. Har aldrig fået notifikation uden at åbne appen.<br> :date: __2020-12-16 18:45:11__
 
 > Det virker lidt som om app'en går i stå hvis man ikke bruger den jævnligt, men ellers lige til og forklarende. Bruger ikke GPS som nogen ser ud til at tro. Ville dog være rart med en indikation at at den reelt virkede og havde en effekt. F.eks. en sum tæller over exposures på en dag.<br> :date: __2020-12-04 22:32:58__
-
-> Intentionen er prisværdig men udførelsen halter: I default-konfigurationen, hvor batteri-optimering er aktiv, kan baggrundschecket uprovokeret gå i stå uden at brugeren advares. Fylder 3 gange så meget som andre landes tilsvarende apps. Dvs. apps der også benytter Apple/Googles notifikations-system. Ej open-source.<br> :date: __2020-10-18 22:00:15__
 
 
 
@@ -274,6 +274,10 @@ The Smittestop app has been installed by more than **500000** times. At this tim
 <img src="1_star_reviews_wordcloud.png" alt="com.netcompany.smittestop_exposure_notification 1 reviews"/>
 </p>
 
+> What was the point of this app? Germany opensourced their english app way before smittestop was published, and theirs worked well while smittestop found out only in november that for the entire time theirs didnt. German coronawarnapp has more features and did not destroy the users trust. When i ask danes if they use smittestop app they usually say no or they have never heard of it. I know people who had risk contact over coronawarnapp so im sure it works. Screw this app im using coronawarnapp.<br> :date: __2021-02-05 12:44:01__
+
+> Virker ikke. Står konstant som inaktiv og kan ikke starte smittestop Hver gang jeg trykker på start og bekræft sker der ikke noget og den forbliver inaktiv.<br> :date: __2021-02-03 12:15:27__
+
 > I very much doubt it works at all. Issued me with an alert after I had been at home on my own for several days. My wife gets alerts several times every week and is only in contact with people within our bubble who doesn't even use the app. Completely random. Maybe it's just a trick so that people go and get tested. Would be great if they could give you the date and time of when you were potentially exposed, because then it's very easy to figure out if it works or not.<br> :date: __2021-01-26 06:10:04__
 
 > Great idea, poor executiom<br> :date: __2021-01-21 21:31:27__
@@ -282,8 +286,6 @@ The Smittestop app has been installed by more than **500000** times. At this tim
 
 > Fungerer ikke<br> :date: __2021-01-20 00:49:32__
 
-> Virker ikke. Kan kondrant inaktiv og kan ikke starte smittestop. Hver gang jeg trykker på start og bekræft sker der ikke noget og den forbæiver inaktiv.<br> :date: __2021-01-18 18:03:22__
-
 > Jeg henter den igen når i ikke spammer med ligegyldige notifikationer.<br> :date: __2021-01-18 10:43:00__
 
 > "Dagens tal"... Som er flere uger for gammel. Come on...<br> :date: __2021-01-16 23:19:12__
@@ -291,7 +293,5 @@ The Smittestop app has been installed by more than **500000** times. At this tim
 > Jeg får 45 notifikationer om dagen fra app'en.<br> :date: __2021-01-16 22:32:41__
 
 > A lot of useless notifications to open app and about bluetooth<br> :date: __2021-01-14 17:21:04__
-
-> Get this away from me.<br> :date: __2021-01-13 17:49:17__
 
 

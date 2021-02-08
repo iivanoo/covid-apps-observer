@@ -197,6 +197,8 @@ No recent reviews available with 2 stars.
 <img src="1_star_reviews_wordcloud.png" alt="com.identos.nav.niagara 1 reviews"/>
 </p>
 
+> Cant access my results<br> :date: __2021-02-04 16:33:42__
+
 > Every page is a error message. Not one link or button works. It's all cannot be found. Well thanks for wasting my time I can't go back to work without these results. My family is furious with me. If you're going to force us to use these stupid phone app ateast have the links be correct and the information we need actually available. I'm in limbo and I have no idea if I'm going to get better or worse.<br> :date: __2021-01-27 18:31:54__
 
 > Extremely hard to navigate once you finally figure out how to download...very poor layout<br> :date: __2020-11-27 15:00:41__

@@ -1,0 +1,46 @@
+{
+    "permissions": [
+        "android.permission.INTERNET",
+        "com.google.android.c2dm.permission.RECEIVE",
+        "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+        "android.permission.USE_BIOMETRIC",
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+        "android.permission.USE_FINGERPRINT",
+        "android.permission.WAKE_LOCK",
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        "android.permission.FOREGROUND_SERVICE"
+    ],
+    "activities": [
+        "es.juntadeandalucia.msspa.saludandalucia.presentation.splash.SplashActivity",
+        "es.juntadeandalucia.msspa.saludandalucia.presentation.main.MainActivity",
+        "es.juntadeandalucia.msspa.authentication.presentation.login.LoginActivity",
+        "androidx.biometric.DeviceCredentialHandlerActivity",
+        "com.google.android.gms.common.api.GoogleApiActivity"
+    ],
+    "urls": [
+        "http://schemas.android.com/apk/res/android",
+        "https://pagead2.googlesyndication.com/pagead/gen_204?id=gmob-apps",
+        "https://plus.google.com/",
+        "https://app-measurement.com/a",
+        "https://google.com/search?",
+        "https://%s/%s/%s",
+        "https://ws237.sspa.juntadeandalucia.es:9443",
+        "https://ws238.sspa.juntadeandalucia.es:9443",
+        "https://www.sspa.juntadeandalucia.es/servicioandaluzdesalud/",
+        "http://schemas.android.com/apk/res-auto",
+        "https://firebase-settings.crashlytics.com/spi/v2/platforms/android/gmp/%s/settings",
+        "https://update.crashlytics.com/spi/v1/platforms/android/apps",
+        "https://update.crashlytics.com/spi/v1/platforms/android/apps/%s",
+        "https://reports.crashlytics.com/spi/v1/platforms/android/apps/%s/reports",
+        "https://reports.crashlytics.com/sdk-api/v1/platforms/android/apps/%s/minidumps",
+        "https://www.googleapis.com/auth/games_lite",
+        "https://www.googleapis.com/auth/games",
+        "https://www.google.com",
+        "https://www.googleadservices.com/pagead/conversion/app/deeplink?id_type=adid&sdk_version=%s&rdid=%s&bundleid=%s&retry=%s",
+        "https://www.sspa.juntadeandalucia.es/servicioandaluzdesalud/msspa_gateway/autenticacion/ayuda",
+        "https://play.google.com/store/apps/details?id=es.juntadeandalucia.msspa.appcitasandalucia.android",
+        "http://localhost/"
+    ]
+}

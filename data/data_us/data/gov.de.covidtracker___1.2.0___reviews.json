@@ -1,5 +1,17 @@
 [
     {
+        "reviewId": "gp:AOqpTOHef2v7BtOHQgRNLKbq_v18qARe09qfklzQVEfRSTW-yt2-IngLrXBwWyJG5R724gy6L43ba3h8Px7obw",
+        "userName": "Mitchell Robert Haller",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj0qEMPGltjOMjXq5N2_wQ3bg9tau9MfiGTkCFqby0",
+        "content": "I dont get it",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2021-02-01 15:51:24",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOGuhfz0ZuiUPb9tn5G6MsKEmgcRfgd0iJr9jF5aJLx12k33_JuJjA2dR84UxKo5bvzuhZjQpiV9ekxlEw",
         "userName": "Vernon Pardo",
         "userImage": "https://play-lh.googleusercontent.com/-WcQN4xAo-lw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucli04rRWxZl0B6kvAAvYIStCjSlWw/photo.jpg",
@@ -149,7 +161,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-ubM2UQpjnpI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck3haf3EyI0OQAwHkRvyzDhDpbX6g/photo.jpg",
         "content": "Works as described. It does not require GPS location like some people say nor does it have permission to access local data. 100% anonymous. I wish more people used the app and the ones who have it check in. At the time of me writing this, about 5% of the people who downloaded the app actually check in, so kinda defeats the purpose but that's not the app or developers fault. I'd like it to see a reminder to check in every day if possible for future updates.",
         "score": 5,
-        "thumbsUpCount": 51,
+        "thumbsUpCount": 52,
         "reviewCreatedVersion": "1.0.1",
         "at": "2020-11-20 22:11:13",
         "replyContent": null,
@@ -425,7 +437,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-ERzzfExlC5U/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck_2eMavh_fByxuZNsFheQJSvpKOA/photo.jpg",
         "content": "Simple interface, good execution. Should be simple enough for less-than-tech-savy people. Very good idea making it Bluetooth only; I can recommend this to others with peace of mind in terms of privacy. It doesn't even ask for other permissions! All around great job. If you have criticisms, please send it to there feedback department. Don't just rate the app low because you're having trouble with it. You're just hurting the reach of the app, and we need this to be widespread to work.",
         "score": 5,
-        "thumbsUpCount": 129,
+        "thumbsUpCount": 130,
         "reviewCreatedVersion": "1.0.0.8",
         "at": "2020-09-17 22:05:59",
         "replyContent": null,

@@ -1,5 +1,41 @@
 [
     {
+        "reviewId": "gp:AOqpTOH_SqpibcB7C8z-M8Akb7q_VWScQ9N68H9gkNAzBNq1N_P_J8CslUSfa8zL9WMxEH72iU7YbRDJywTneA",
+        "userName": "Andrea Stano",
+        "userImage": "https://play-lh.googleusercontent.com/-xmBEdwaZkZI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckDXUDv7PE29MevirlVQvB4PAye5Q/photo.jpg",
+        "content": "Installata, compilato i campi, arriva l'sms con il link per l'attivazione dell'account,account attivato ma una volta riavviata l'app si chiude automaticamente andando in crash. Disinstallata e reinstallata identico problema. Inoltre una volta installata nuovamente mi diceva di premere sul link dell'sms per attivare l'account in quanto non attivo quindi le credenziali inserite precedentemente non le ha validate diversamente da quanto mi ha detto il sistema. Delusione profonda...",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.0.18",
+        "at": "2021-02-05 11:32:51",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGPK314aG0GXjaJDsZVrvZy_B7nkmlfKJwEKkTNkgbLXrFDKE-HoQGEgP5C0cKw30iN2KtyV7JtejanEg",
+        "userName": "Roberto Grattatore",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GimE6u8Wxb9-sA3VXyt283gK0SiS4GkL5KKZl2qwQ",
+        "content": "Me l ha consigliata il mio.medico in quanto sono positivo,ma non funziona,l applicazione non si apre e dopo qualche secondo va in crash",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.0.18",
+        "at": "2021-02-01 17:29:46",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFDBJQ38AuzRart3Wo2zD0e1-zycnuSO-WIqIMqPRZfBAbG6EJXBZJuP6kXG8K3tc1Z6YsctNIChsw_Rw",
+        "userName": "Maxim P",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiKPvqzsOUTm0XViq1DEfP91cBSXp4Nu5LRKKPinA",
+        "content": "Mi dispiace per chi si fida ancora dei medici di oggi, e della \"scienza\" corrotta",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2021-01-30 17:26:18",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOGZzjwUV_qktyyyWCXWSOSN6BDi1jbrxbkdAVhKxgyAW-DsMRtMUzr6tjlRJzxNl5LURFmAU23XE7vvdQ",
         "userName": "Francesca Sparice",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjMsNv_sxEpUr5EGv6-y4ZCsB1fl3ptEQWJRVDVuQ",
@@ -73,7 +109,7 @@
     },
     {
         "reviewId": "gp:AOqpTOE2zOl4cWI1KXZ1yb6b-HFZfFKRLm-oZunikBmjTZQjnorWpBKmL1Lt5Avr53KP3AgUDqeuSD9nLKNkZw",
-        "userName": "Maurix",
+        "userName": "Maurizio",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GitBxTmG0csByIBUrDgcMYcRah7bZMoExoMUp28wQ",
         "content": "Certamente migliorabile quanto a velocit\u00e0 e feedback del inserimento dati e della conferma lettura ma in assoluto sembra funzionare. Molto utile e doverosa sarebbe la possibilit\u00e0 di esportare i propri parametri inseriti",
         "score": 3,

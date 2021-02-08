@@ -188,6 +188,8 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 <img src="5_star_reviews_wordcloud.png" alt="gov.cdc.general 5 reviews"/>
 </p>
 
+> Nice<br> :date: __2021-02-04 11:00:30__
+
 > Grest app to get up to dste info on thr pandemic as well as best practices for curtailing transmission. Grest as long as executive branch keeps his hands away from thr organization and allows them to help the people.<br> :date: __2021-01-12 12:41:08__
 
 > Constantly being updated to provide latest information, a must have app for providers<br> :date: __2021-01-03 23:30:14__
@@ -205,8 +207,6 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 > Love having up to date disease transmission protocols at my convenience 24/7. Great app<br> :date: __2020-11-08 02:28:28__
 
 > Information<br> :date: __2020-11-01 17:22:31__
-
-> Good<br> :date: __2020-10-30 08:46:57__
 
 
 
@@ -244,6 +244,8 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 <img src="3_star_reviews_wordcloud.png" alt="gov.cdc.general 3 reviews"/>
 </p>
 
+> Why R the EyEs not a point of passing 19 to the nose❓🤪🌿<br> :date: __2021-02-01 08:01:46__
+
 > deleted this app because the same information is on their website<br> :date: __2020-10-23 04:57:07__
 
 > Under WH control! It is what it is.<br> :date: __2020-08-26 03:35:25__
@@ -261,8 +263,6 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 > Depresing inormationb<br> :date: __2020-06-04 04:00:19__
 
 > What happened to the daily updates? Did Trump get to you? Ah science. What do you matter.<br> :date: __2020-05-26 18:27:05__
-
-> Disappointing. Not as useful as I expected. Doesn't show up to date info. Just info we've already seen 1000 times. Expected more from the CDC whom I've always respected.<br> :date: __2020-05-23 06:09:07__
 
 
 
@@ -300,6 +300,8 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 <img src="1_star_reviews_wordcloud.png" alt="gov.cdc.general 1 reviews"/>
 </p>
 
+> Impossible to find your way around.<br> :date: __2021-02-05 20:15:20__
+
 > Lies and misinformation. Waste of time<br> :date: __2021-01-11 18:28:55__
 
 > Think they have a virus<br> :date: __2020-11-19 01:08:32__
@@ -317,7 +319,5 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 > I wanted Covid detail for Texas, no such luck.......<br> :date: __2020-08-24 20:09:37__
 
 > Slow and wrong information.<br> :date: __2020-08-23 14:09:31__
-
-> All it does is white screen<br> :date: __2020-08-16 19:13:23__
 
 

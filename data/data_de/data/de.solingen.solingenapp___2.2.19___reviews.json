@@ -1,5 +1,17 @@
 [
     {
+        "reviewId": "gp:AOqpTOH79cvX-k2MmX3litJx9JP2LU9pu0QcJ25HYYlXklFcm2-FI3k6jJKJZ-uXGVHTwD-cZYlRKDKEHKaGwdw",
+        "userName": "Mike Silber",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgwQQF_TLQqEhYKJSdtQ4XEf5-YAsIf7tRFOq-6",
+        "content": "Derzeit ist keine Info \u00fcber die App m\u00f6glich, da es scheinbar zu Fehlern in der Verbindung zum Server gibt.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.2.19",
+        "at": "2021-01-31 11:15:31",
+        "replyContent": "Hallo Mike Silber, mit der Version 2.2.19 sollte das Problem gel\u00f6st sein. Wenn der Fehler weiterhin besteht, freuen wir uns, wenn Sie zu uns per Mail kontaktieren, dann k\u00f6nnen wir uns das Problem genauer ansehen und beheben: appdev@solingen.de\nDanke und viele Gr\u00fc\u00dfe Ihr Team Solingen App",
+        "repliedAt": "2021-02-02 15:13:15"
+    },
+    {
         "reviewId": "gp:AOqpTOGnXfNxIE0DvS237CP4qHQk0iWFh1yVE9iEuz2Hh-9eX8pG8yVQLcFiM7oJzYGtHJn7HJnRfSxP0lT365M",
         "userName": "Anne-Maria Wolff",
         "userImage": "https://play-lh.googleusercontent.com/-L4oxcHh2Fx4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmyC5Hp8LAfMcKXb5R3JV354fwQpA/photo.jpg",

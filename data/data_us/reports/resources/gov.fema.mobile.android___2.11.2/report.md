@@ -191,6 +191,8 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 <img src="4_star_reviews_wordcloud.png" alt="gov.fema.mobile.android 4 reviews"/>
 </p>
 
+> This app is worth the download. You get a lot of notifications, but they are easy to mute, and might save your life.<br> :date: __2021-02-02 22:03:12__
+
 > Really good weather alerts better than local tv<br> :date: __2021-01-26 10:34:47__
 
 > So I love this app, but I feel as if you guys should check the reviews. There are people there with legitimate concerns, and some great recommendations that your should take look at. Such as: -Missing Alerts -A "Follow Me" option. -A priority alert mode (that fully covers your screen when you get a warning alert). I had a tornado warning in my area, and I love that I recieved it when using the app, but you should force the users to see a warning. These are the 3 options I'd love to see come.<br> :date: __2020-11-29 03:51:39__
@@ -208,8 +210,6 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 > It's missing the alerts Snow Squall Warning, Inland Hurricane Warning, Inland Hurricane Watch, Inland Tropical Storm Warning, and Inland Tropical Storm Watch.<br> :date: __2020-07-27 22:57:25__
 
 > Fast reliablie services<br> :date: __2020-07-09 01:04:27__
-
-> Great app.<br> :date: __2020-07-01 08:50:11__
 
 
 

@@ -1,5 +1,29 @@
 [
     {
+        "reviewId": "gp:AOqpTOGA7nqQ0XTHB93VCaA5k2tRpQXJky5MGpfkvGbfiShNottUTCMj0ResAssqiptt5e9KPGUffYzvlZpwGpU",
+        "userName": "Samantha Gillis",
+        "userImage": "https://play-lh.googleusercontent.com/-Bj3pxu8xT8g/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnADM7-EnN77qXx5LUAuAbrOdQv4g/photo.jpg",
+        "content": "So buggy and laggy, this needs to be fixed.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2021-02-05 05:51:01",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGJEAUoHZ1mwl5rqNGTk2F-n-jh51YjyDGgbvmtTV4L88e82nO3UhDaR3yPmZhK5FNzSanHYRmqWUzQrI8",
+        "userName": "Chris Edwards",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GghXAA_crQUHuY9gMIrq_zvhK2d7LMOECHXbFIwFw",
+        "content": "Slow, goto do our part though!",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "5.4.0",
+        "at": "2021-01-31 15:25:06",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOEhCAtsCZCJwIyd7ams5Y-Sgc9XSu0R5S9rsyBjobfdKxptZHC0VnPPPLgSdxquoWQZSJOArgd6uZ4KnNY",
         "userName": "terry lewis",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhGaIZT2Uq5J6v_ABOIfcxF6MhupqmLkZRiL_gXnw",
@@ -77,7 +101,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-PJJzCU3QXek/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckVf_46l6EguMYjdAtkqB8ztDQ8mw/photo.jpg",
         "content": "Original complaints I have remain since first release: 1) Extremely slow. 2) No proper way to exit app Android 6.0.1.",
         "score": 2,
-        "thumbsUpCount": 72,
+        "thumbsUpCount": 73,
         "reviewCreatedVersion": "5.4.0",
         "at": "2021-01-12 23:17:02",
         "replyContent": null,
@@ -89,7 +113,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-mlfxZaBfWRA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucld3JyofUIAjdVY04SBFpdBsxyCyA/photo.jpg",
         "content": "Super slow, lots of lag and very delayed user input! Not sure what all this app does and is doing, but it seems that 1 minute for tapping 6 times to enter daily checkup info is excessively long and a waste of time. This review took less time than 1 daily checkup.",
         "score": 2,
-        "thumbsUpCount": 5,
+        "thumbsUpCount": 6,
         "reviewCreatedVersion": "5.4.0",
         "at": "2021-01-12 17:24:08",
         "replyContent": null,
@@ -173,7 +197,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjNBw6qolkWD-mYyh3o9kz-S-kukdVhyB1LfggDYg",
         "content": "Tests my patience! If I didn't think it was important to report COVID-19 symptoms, I would never use this app! It is so slow, and I mean slow that you don't know if it has sensed my touch selection or not so you tap again and again! Keeps showing that the app encountered an error when I load this app. Why did you move the Daily Check-In from being the first item on the page when it starts?!",
         "score": 1,
-        "thumbsUpCount": 14,
+        "thumbsUpCount": 15,
         "reviewCreatedVersion": "5.2.0",
         "at": "2021-01-01 16:44:30",
         "replyContent": null,
@@ -397,8 +421,8 @@
     },
     {
         "reviewId": "gp:AOqpTOFzuSDA1MbisbGyb4qh5o8r0Kpz51fDjKwN8dIJv-O2Y4REI2O2YTRB00rk6zMnwHbpULpkOe3PXOr-hrA",
-        "userName": "Patti Wiseman",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgfeYqHyG3dzKN-iDdieKJsxLwdLI4_GQ2gEvw7t0g",
+        "userName": "No Maybe",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi85CUI24DUJw0_HKBqKCp1D_eyyFzbvnLgK1hM1N8",
         "content": "Good way to get information on the viruses",
         "score": 5,
         "thumbsUpCount": 0,
@@ -577,8 +601,8 @@
     },
     {
         "reviewId": "gp:AOqpTOGgAc0z1H7gIWSDNa8WBA7uBTJWgb7w_WScO_MxPWzpmom6EPcKrZ_4f5MKSVB7mIf5UdL75aebWsjbHQc",
-        "userName": "Adrianna Lesiuk",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhL-pqrn_Wboe8fmrWGkfoP0xZ20twD8kjv-Sk1zFg",
+        "userName": "A.L.",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjZdlTTdHTiUdeuM_cLN-XTY8Gus04lF2bVX0LNTNE",
         "content": "I thought this was the tracker app. It isn't and it really isn't useful",
         "score": 2,
         "thumbsUpCount": 0,
@@ -1189,7 +1213,7 @@
     },
     {
         "reviewId": "gp:AOqpTOFD_deVc-9SHSzzXMWSUjxwSto0leSV9AppMrtZNaP0ty5eJABBB1iR6p2sgcFOb5CvYDzsvhH32GczWmY",
-        "userName": "A mildly enjoyable train ride",
+        "userName": "Aaron Royce",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh4lbV7lLhOg6thgLBu9y4VwZvVBSdtSWFcMMUP-yM",
         "content": "Pretty dissapointed to find out it didn't include any sort of contact tracing information system, but it's a convenient way to stay informed of COVID-19 nonetheless.",
         "score": 3,
@@ -1274,7 +1298,7 @@
     {
         "reviewId": "gp:AOqpTOHbl8fNpkEX6q8XHbmAR8WzxxMVWMBQN2uvVPCTMUBk9i5Z0Ybg5GZqaCDKoT5TZpxdDQbWwGafso2FzBs",
         "userName": "Roen H. Berkom",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GivZtDdfDdSid6px7HHd0jWyPLmPyllYZEJCyWNEg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi04ZjtfIC1p4hb_kNXmojglRmYCxCkDLFxBhBdDg",
         "content": "Very good support and optimal information-sharing through this crisis.",
         "score": 4,
         "thumbsUpCount": 0,
@@ -1333,7 +1357,7 @@
     },
     {
         "reviewId": "gp:AOqpTOEubelOg7x5Q48lt4bLGO1CfLdOfnFF79rXNt8c5MEE5jei0S5ETFxdEi2fh03I4u4i_ChbDCyyQ5Ar2fE",
-        "userName": "Stefan Cross",
+        "userName": "Stefan",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhCQsTCUWyukcf-8if7Hd505DE_qilBBUCBxQ8FGg",
         "content": "Useless. The app doesn't take advantage of contact tracing making this just an alternative for information and basic surveys which the government could have had on a website.",
         "score": 1,
@@ -1394,7 +1418,7 @@
     {
         "reviewId": "gp:AOqpTOFqq3jUTJXRi5OESotVESONkDrP64e2y6LAR9zlJb0uzIlc4JRshZ9gvYa2TDt2Vuoxl6zmx4sMn5uWGFk",
         "userName": "Ziba Fisher",
-        "userImage": "https://play-lh.googleusercontent.com/-JbKCtdmg-9w/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmnbgugX-347HITpqH8TLqKu5TINg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ghs7zrA4Mit2FuiEpNsrzSqGx_L9OtGZIzOm5waFQ",
         "content": "great info soutce",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1718,7 +1742,7 @@
     {
         "reviewId": "gp:AOqpTOFGyJA0kmAa-0AuUOiUWJCAaWYdXGnKqQHnVX3DsEZkimCnUbGVDiLshrZg-IDYqOfxQQSH5IoN95CXaAE",
         "userName": "Landale Jackson",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhvQZS4XqHdhrIhZO6q4p78T05jdguHgQXki28RCC8",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjV0u13ud0zGRUOFU9bWq9sK1Ok9TA69XpnCZ88JTw",
         "content": "Should incorporate new Google tracing software. Trudeau recommended more tracing",
         "score": 3,
         "thumbsUpCount": 3,
@@ -2594,7 +2618,7 @@
     {
         "reviewId": "gp:AOqpTOHrasj8RE_XaaFaN-veTjOBwL1yANlPywdA23sl5Xc88WC7Sl0y69ec5UI9CuMDS9_DfhispN-ulfVgPjg",
         "userName": "Nire T'Nafnelam",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiVqPaUX3J_pQKPWfuCoPKoNHBFTtSCBFbjZ6RG6A",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhYHqYgceNGaMTXg2fb2IVQy0PEs-dalzV9KdD1pA",
         "content": "This app is decent for information but the other application is much more informative and helpful specially with the self evaluation Thank you I will still keep this app I still check it but the other is more sufficient to my liking specially in a Hospice situation where you need to constantly check on patients a dark theme may be of better use for night shift checks ect",
         "score": 4,
         "thumbsUpCount": 8,

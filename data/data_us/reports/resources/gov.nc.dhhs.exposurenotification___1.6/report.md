@@ -131,6 +131,10 @@ The SlowCOVIDNC app has been installed by more than **100000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="gov.nc.dhhs.exposurenotification 5 reviews"/>
 </p>
 
+> I love thia app and hope every pne will and use it thank you<br> :date: __2021-01-30 07:31:47__
+
+> Great<br> :date: __2021-01-29 20:21:02__
+
 > After i re-installed the app on 1/27/21, the app is working great! No exposures as of today at 3:42am! Thanks to developers who suggested this fix!!<br> :date: __2021-01-29 13:54:29__
 
 > Kool app! However, still trying to figure out how it exactly works 🤔. After careful review........ Now I see all 🇺🇲 States whom reported their results......TOTALLY AWESOME APP. LOVE 💘 IT!!!<br> :date: __2021-01-26 06:44:02__
@@ -147,10 +151,6 @@ The SlowCOVIDNC app has been installed by more than **100000** times. At this ti
 
 > Easy app is a little more sensitive security<br> :date: __2021-01-24 20:29:12__
 
-> Thank you<br> :date: __2021-01-22 05:29:25__
-
-> Wonderful Help<br> :date: __2021-01-20 11:56:37__
-
 
 
 #### 4-star reviews
@@ -158,6 +158,8 @@ The SlowCOVIDNC app has been installed by more than **100000** times. At this ti
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="gov.nc.dhhs.exposurenotification 4 reviews"/>
 </p>
+
+> I think its wonderful but many people will not self report. That makes this useless<br> :date: __2021-02-01 01:00:57__
 
 > Glad to have it to protect me<br> :date: __2021-01-25 18:53:14__
 
@@ -177,8 +179,6 @@ The SlowCOVIDNC app has been installed by more than **100000** times. At this ti
 
 > If I get paid.<br> :date: __2020-12-28 01:31:19__
 
-> Relaxing, enjoyable, and fun !!!<br> :date: __2020-12-11 21:11:09__
-
 
 
 #### 3-star reviews
@@ -186,6 +186,10 @@ The SlowCOVIDNC app has been installed by more than **100000** times. At this ti
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="gov.nc.dhhs.exposurenotification 3 reviews"/>
 </p>
+
+> App works well in theory. Tested positive and never was able to get my pin to report positive result. Now app no longer checking for notifications. Hasn't checked for any in over a month.<br> :date: __2021-02-06 06:24:32__
+
+> It was ok until the non-covid, personal question was dropped on me. I deleted the app.<br> :date: __2021-01-31 05:11:06__
 
 > It isn't being used by everyone. So I was exposed by a nurse who was positive. I am immunosuppressed. I am a physician. I am around most of the time<br> :date: __2021-01-26 05:50:29__
 
@@ -203,10 +207,6 @@ The SlowCOVIDNC app has been installed by more than **100000** times. At this ti
 
 > Exposures haven't updated for a week... Your reply didn't address my concern.<br> :date: __2021-01-06 03:03:52__
 
-> Does not work<br> :date: __2021-01-04 17:01:24__
-
-> I uninstalled. App is only as good as everyone uses it. No one I work with has the app. Point less if no one else downloads.<br> :date: __2021-01-02 00:38:26__
-
 
 
 #### 2-star reviews
@@ -214,6 +214,8 @@ The SlowCOVIDNC app has been installed by more than **100000** times. At this ti
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="gov.nc.dhhs.exposurenotification 2 reviews"/>
 </p>
+
+> This app used to update daily to show potential exposures. Here we are on Feb 1 and app last updated exposures on Jan 17. Perhaps funding ran out. I will be deleting this app. Update: Ultimately had to uninstall and reinstall. Will see if it updates regularly.<br> :date: __2021-02-02 15:24:09__
 
 > I had the app for a few months, but I never got a notification. Either COVID didn't exist where I was, or people are not using the app properly. Looking at the other reviews I'm going to go with people aren't using the app properly with no fault of their own. If it's difficult to get a pin on the app then people will be less likely to log their positive results.<br> :date: __2021-01-27 17:45:33__
 
@@ -233,8 +235,6 @@ The SlowCOVIDNC app has been installed by more than **100000** times. At this ti
 
 > Tho it shows option to choose metrics, they cannot be changed. Having to obtain (& wait for) a pin is an encumbrance & bottleneck as well. Will deter ppl from using the app. Have found this app to be of minimal utility, unfortunately.<br> :date: __2021-01-09 21:43:28__
 
-> The idea of this app is great, but because of the way it's run it becomes useless. I have had the app for 2-3 months. I tested positive on Dec 29th, so I called to get the required number to alert the app. I was told that I would have to wait 48 hours, I called back and was told that I needed to call my health department and then call back the next day, I called back the next day and was told that my number was 'too new to use try again in 48 hours'. What's the point of using it now?<br> :date: __2021-01-09 21:11:34__
-
 
 
 #### 1-star reviews
@@ -242,6 +242,14 @@ The SlowCOVIDNC app has been installed by more than **100000** times. At this ti
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="gov.nc.dhhs.exposurenotification 1 reviews"/>
 </p>
+
+> App hasn't checked for exposures in 25 days (Jan. 5). It did the same thing back in December as well. What gives? The app needs to do its job in order to work. 🙄<br> :date: __2021-01-31 03:41:44__
+
+> As others have said, no one is going to use this because it's a royal pita to report a positive. My wife is positive but the system does not find her by phone or email. It wants her to call to get a pin. She's not going to do all that and most people won't. Good idea but virtually useless.<br> :date: __2021-01-30 21:30:37__
+
+> Does nothing relevant...never notifies me of anything. Uninstalling.<br> :date: __2021-01-30 21:28:24__
+
+> This app is not trust worthy, each time I check this app it's not on. It has told me twice to turn on. I haven't touched it this app is not working properly.<br> :date: __2021-01-30 01:47:00__
 
 > Don't trust this. I called my local health department to get tested, so I can have an official documentation of my clear infection. I was told that the test is supposed to be free, but that later charges aren't excluded from the realm of possibility. They said the test is just for jobs, and satisfying personal interest or fears. So no pin, and no way of alerting others I may have come in contact with. Way to go NC, you screw poor people again. What a surprise.<br> :date: __2021-01-29 19:32:35__
 
@@ -254,13 +262,5 @@ The SlowCOVIDNC app has been installed by more than **100000** times. At this ti
 > Not effective. I was knowingly around several people that tested positive (my husband, for example) and the app never picked up on any of it or notified me. And yes...they all reported their positives to the app.<br> :date: __2021-01-28 01:48:53__
 
 > I found that the process to obtain and use a PIN was too much effort to put forth while I was sick with COVID. I notified people verbally instead - via mass text.. much less time involved. When ill with COVID, people are spending their precious time sleeping and NOT going through social media promopts to set up a PIN - very ineffective! I am also a nurse and mother of 2 - I've had the app since the beginning and have had NO notifications - again, ineffective.....<br> :date: __2021-01-26 08:10:49__
-
-> Not effective. I downloaded the app 2 months before I was exposed. Didn't get any notifications. Everyone around me has the app. Once I tested positive it was a 10 day ordeal just to get a pin. I agree with others that there needs to be a better way for the pin to be given but not by tracking phone numbers. Maybe everyone gets a special code when they're tested that they can put into the app and their results will automatically update once they come in. Less hassle, more secure.<br> :date: __2021-01-26 06:53:33__
-
-> Deleting the app, I got covid, tried to do the right thing and alert others through it. I'd rather take the time to post this review then call and get a pin. And based on other reviews attempting to get a pin isn't always successful so I'm not wasting another second on this. And I don't need a developer reply thanks.<br> :date: __2021-01-26 05:33:38__
-
-> My daughter tested positive, lives at home, has the Slow-covid app but it always said I had not had contact. When she reported her positive test to the health department she was not given a pin to report her test. I have also had some co-workers test positive and not been notified through the app.<br> :date: __2021-01-25 23:29:10__
-
-> Worthless<br> :date: __2021-01-25 22:45:04__
 
 

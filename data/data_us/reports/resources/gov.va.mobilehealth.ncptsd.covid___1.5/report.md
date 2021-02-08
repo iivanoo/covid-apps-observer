@@ -140,6 +140,16 @@ The COVID Coach app has been installed by more than **10000** times. At this tim
 <img src="5_star_reviews_wordcloud.png" alt="gov.va.mobilehealth.ncptsd.covid 5 reviews"/>
 </p>
 
+> Highly recommend it. I worked in a very demanding environment where there wasn't enough support. Using this coupled with professional help maximize the experience.<br> :date: __2021-02-03 18:14:23__
+
+> Very helpful and informative<br> :date: __2021-02-02 19:54:22__
+
+> I don't know why I resisted using an emotional support app but I did. Originally I downloaded this Covid Coach to evaluate it before recommending it to tech preference friends. Now utilizing this app for myself is supportive in ways that surprise me. It reminds me to USE the tools I have which allows me to have more choice in my days & nights. This ultimately allows me to have a life more of my choosing. By acknowledging where I'm at with my scheduled check-ins I choose what to do from there.<br> :date: __2021-02-02 13:12:27__
+
+> My counselor suggested this to me, so I'm trying it out. She'll be happy I'm doing this.<br> :date: __2021-02-02 06:54:00__
+
+> Used to monitor well being over a period of 6 months. I found it very useful for a personal check in using the surveys weekly.<br> :date: __2021-01-29 21:34:54__
+
 > Excellent Resources and Service.<br> :date: __2021-01-28 19:46:46__
 
 > Very useful. The easy to use tracking features are what I needed most.<br> :date: __2021-01-28 19:30:42__
@@ -149,16 +159,6 @@ The COVID Coach app has been installed by more than **10000** times. At this tim
 > Helpful resources on any app capable mobile phone is an excellent app that is at no cost to anyone! Typically an app like this charges a subscription fee but this one doesn't. Thank you very much for this!<br> :date: __2021-01-27 14:11:30__
 
 > I'm not done exploring it yet but so far it's user friendly<br> :date: __2021-01-24 06:13:05__
-
-> I just got this today but, so far I am liking it. It has multiple different things you can use to help you manage stress, anxiety, and depression.<br> :date: __2021-01-19 00:00:45__
-
-> This is a very professional and easy to use app w with useful applications for a range of people. I'm a counselor and educator and I recommend this app for personal and client use.<br> :date: __2021-01-12 23:49:14__
-
-> Great very helpful and easy to use<br> :date: __2021-01-10 18:13:50__
-
-> Easy to use.<br> :date: __2020-12-28 02:50:02__
-
-> Great<br> :date: __2020-12-26 21:31:06__
 
 
 

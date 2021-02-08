@@ -196,6 +196,8 @@ The COVID Radar app has been installed by more than **50000** times. At this tim
 <img src="3_star_reviews_wordcloud.png" alt="nl.lumc.covidradar 3 reviews"/>
 </p>
 
+> Handmatig afsluiten is knullig.<br> :date: __2021-01-31 13:56:39__
+
 > Vanaf nu meerdere keren voor ons gezin ingevuld. Zeer lastig met zoon op voorgezet onderwijs die met meer dan 1000 over de gangen lopen. Tevens werkt het met het "schuifsysteem" erg lastig, als je naar de volgende persoon swipt kunnen er zo maar 39 staan die thuis op bezoek zijn gekomen!<br> :date: __2020-11-15 10:45:41__
 
 > Kleinkinderen jonger dan 12 jaar komen 2 x per week op bezoek. Afstand houden 1 1/2m ondoenlijk. Nauwelijks risico. Kan een vertekend beeld geven.<br> :date: __2020-08-25 20:49:05__
@@ -213,8 +215,6 @@ The COVID Radar app has been installed by more than **50000** times. At this tim
 > goed idee, alleen jammer dat je gelijk 'besmet' ben als je op een vraag ja antwoord, variabelen zoals hooikoorts worden niet meegenomen althans niet toen ik er mee startte, app dus verwijderd!<br> :date: __2020-04-25 17:44:07__
 
 > Sinds laatste update zitten de navigatie knoppen over de velden in de laatste vraag te beantwoorden.<br> :date: __2020-04-24 20:54:20__
-
-> Na de wijziging in de vraagstelling kan ik de laatste vraag niet meer beantwoorden omdat de knop 'versturen' er overheen ligt. Verder werkt het prima.<br> :date: __2020-04-23 07:21:18__
 
 
 

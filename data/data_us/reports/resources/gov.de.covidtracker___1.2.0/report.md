@@ -215,6 +215,8 @@ The Covid Alert DE app has been installed by more than **10000** times. At this 
 <img src="1_star_reviews_wordcloud.png" alt="gov.de.covidtracker 1 reviews"/>
 </p>
 
+> I dont get it<br> :date: __2021-02-01 15:51:24__
+
 > Useless. Have had positive results for 2 days and still dont have the code to put into the app to alert others. Total waste of an app.<br> :date: __2020-11-24 15:12:48__
 
 > This is a tracking app so please be careful what you post<br> :date: __2020-11-18 00:01:30__

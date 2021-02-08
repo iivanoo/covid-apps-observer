@@ -221,8 +221,8 @@ The GVA Responde app has been installed by more than **10000** times. At this ti
 
 > Penosa app, se rien en tu cara<br> :date: __2020-07-01 10:51:54__
 
-> Ineficaz, las respuestas son confusas, ó, ineficaces.<br> :date: __2020-05-15 07:20:04__
-
 > No me resuelve nada que no me diga las noticias ya....<br> :date: __2020-05-06 18:45:25__
+
+> Pinches donde pinches no sale nada, sólo una pantalla en blanco. Buena idea sólo falta que funcione<br> :date: __2020-04-30 22:54:24__
 
 

@@ -145,6 +145,12 @@ The COVID Alert NY app has been installed by more than **500000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="gov.ny.health.proximity 5 reviews"/>
 </p>
 
+> That is the best thing that ever happen on that website with COVID Alert intrustment and was invented whoever thanks for their macnificent technologies to the worldwilde people to remain safe.<br> :date: __2021-02-06 11:30:33__
+
+> OK<br> :date: __2021-02-03 08:13:17__
+
+> Baylo RCI .<br> :date: __2021-01-29 22:40:08__
+
 > I’ve helped 100s of ppl increase their pay checks by $100-$600 per pay period. That extra money helped them build an emergency fund, eliminate debt, start investments and more. My goal is to help 20,000+ more. Who’s Next⁉️<br> :date: __2021-01-28 12:37:20__
 
 > I like this app cuz it tells you exactly what covid-19 is about and what when it got here why it got here how it got here and other things that are affiliated with it unfortunately are polishing politicians don't do all that they tell you as little as possible to keep you in the dark they tell you what you need but not everything that you need to hear you find it on the app<br> :date: __2021-01-26 23:00:09__
@@ -159,12 +165,6 @@ The COVID Alert NY app has been installed by more than **500000** times. At this
 
 > Waz a Waz a<br> :date: __2021-01-17 19:57:04__
 
-> Great app, espeally for me, my favorite color is purple!<br> :date: __2021-01-15 23:13:22__
-
-> Looks like a great app<br> :date: __2021-01-14 22:48:01__
-
-> Easy-to-use<br> :date: __2021-01-14 05:59:23__
-
 
 
 #### 4-star reviews
@@ -172,6 +172,8 @@ The COVID Alert NY app has been installed by more than **500000** times. At this
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="gov.ny.health.proximity 4 reviews"/>
 </p>
+
+> might add a daily reminder<br> :date: __2021-02-03 02:03:30__
 
 > The app itself is fine. But the problem is the effectiveness of this app is limited by how few people install it. If you're the only person in town who has this app, it's useless. I've never received a notification from this app ever. I live in an area with almost 9% infection rate. I live in an apartment building and I've been out to supermarkets, etc. Not a single alert. As long as the app is not mandatory, it's pretty useless.<br> :date: __2021-01-25 23:10:49__
 
@@ -190,8 +192,6 @@ The COVID Alert NY app has been installed by more than **500000** times. At this
 > Dont no what its doing but cases are getting worse 🙃<br> :date: __2020-11-19 23:13:03__
 
 > Not yet. Just installed the apps.<br> :date: __2020-11-19 11:18:17__
-
-> So sad<br> :date: __2020-11-17 03:04:54__
 
 
 
@@ -257,6 +257,14 @@ The COVID Alert NY app has been installed by more than **500000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="gov.ny.health.proximity 1 reviews"/>
 </p>
 
+> I love Quomo he is the best NYC mayor in the last 20 years. He is the sexyist hottest e boy president. Love the app. App gave covid only to Karen. App very hot and sexy. Unfortunately not enough BBC.<br> :date: __2021-02-06 00:44:31__
+
+> my bluetooth always on cause my wireless ear buds. I work in a clinic that does covid testing and people who have symptoms for covid. not 1 notification.<br> :date: __2021-02-05 01:52:41__
+
+> Stop spamming me to install I'm not a scared sheeple<br> :date: __2021-02-02 16:32:49__
+
+> Garbage<br> :date: __2021-01-31 18:50:40__
+
 > We had the app and have since deleted it. We caught Covid. There is no way to state so in the app. You need to wait for the Health Dept to do something with it. By the time we received a call from the HD (poor staff are so over worked because people are careless!) we were almost off quarantine, so they didn't bother doing anything with the app or contact tracing (which we had already done on our own anyway). The app was a waste! Totally defeated the purpose of it.<br> :date: __2021-01-28 03:27:26__
 
 > Why can't I use this with another COVID exposure notification app? I live near both NY and CT. This should definitely be something to consider. Terrible. I have to pick one state.<br> :date: __2021-01-28 01:19:24__
@@ -268,13 +276,5 @@ The COVID Alert NY app has been installed by more than **500000** times. At this
 > Dont like how this App Works in its effectiveness to sense when you have been exposed<br> :date: __2021-01-23 23:45:50__
 
 > This app no longer works<br> :date: __2021-01-20 03:32:20__
-
-> App is completely useless . I drive through all five boroughs and went through Brooklyn along Williamsburg and saw hundreds of people with no masks on in a certain neighborhood and my phone didn't ring once but it's a covid hot spot. Then I went to uptown Washington heights and Dyckman and it didn't ring once either there.<br> :date: __2021-01-18 03:13:51__
-
-> Useless<br> :date: __2021-01-14 03:22:18__
-
-> Does not work in conjunction with other covid apps. Must shut one off to use the other. Have NY and Connecticut. They will not work at the same time. Stupid!<br> :date: __2021-01-05 18:31:46__
-
-> This world is becoming more and more like Nazi Germany everyday. Hebrews 10:25<br> :date: __2021-01-03 06:49:56__
 
 

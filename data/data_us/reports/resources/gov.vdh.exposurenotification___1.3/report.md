@@ -190,6 +190,8 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 <img src="3_star_reviews_wordcloud.png" alt="gov.vdh.exposurenotification 3 reviews"/>
 </p>
 
+> Doesn't update as often as I would recommend. There is no way to refresh and update exposure notices. Not sure if it really works but I hope it does because I definitely would want to know if I've been exposed.<br> :date: __2021-02-04 17:33:51__
+
 > Edit: apparently you need a pin to report positive. Rating is only 3* This is a very well made app! I'm a person who values my privacy, and this app is made in a way which respects that. It doesn't record location. It give each phone an anonymous ID and uses Bluetooth to tell which others IDs you were near. If any of those IDs report they have COVID, any othrt ID they were nearby within the past 2 weeks gets an alert. It does not track location or the owner of the phone, only the anonymous IDs<br> :date: __2021-01-12 17:31:52__
 
 > Not for my phone<br> :date: __2020-12-28 19:41:26__
@@ -207,8 +209,6 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 > I'm gonna keep it on my phone, but i was with someone who tested positive and the app didn't catch it, so I'm pretty sure it's useless.<br> :date: __2020-11-09 21:35:18__
 
 > Rating based on alert function rather than any more independent function or utility.<br> :date: __2020-11-07 23:00:14__
-
-> I really appreciate what this app is trying to do, but for some reason it keeps turning location services off on its own? I'll randomly get a notification that my C ovidwize notifications have been enabled only to discover it hasn't been scanning for the last couple of weeks.<br> :date: __2020-10-27 14:52:37__
 
 
 
@@ -246,6 +246,16 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 <img src="1_star_reviews_wordcloud.png" alt="gov.vdh.exposurenotification 1 reviews"/>
 </p>
 
+> Exposure last checked January 29th and today is February 3rd (edit, it's now the 6th, still not updating). I've been in an airport (twice) since then, so I'd really like to know if I was exposed in order to keep my family safe. There's no way to send feedback or bug reports through the app so I have no way of getting help but to leave a one star review. Virginia is full of software developers, I know you can do better.<br> :date: __2021-02-06 13:07:27__
+
+> My wife and I both tested positive for Covid and attempted to call health dept. Left a voice mail requesting a PIN for Covid as directed by app. Ten days later we received a callback and it took another call to get PIN. To make a long story short, we had actually tested negative prior to reporting. The app did tell us that we were exposed two days after reporting. Also, we never received a call for contact tracing from health dept. VDH clearly needs additional resources to expedite.<br> :date: __2021-02-05 17:17:08__
+
+> Just my two cents on the exposure app. Its not very helpful. I use the app and show it full permissions. However it still doesn't update, does not allow me to put any data into it and the bot for responding to information seems rather useless as well. I've deleted and reinstalled the app to see if this fixed the issues and still have the same issues. The app doesn't even work on my daughter's phone. Her friend has the app and submitted a positive result and my daughter did not get an alert.<br> :date: __2021-02-05 07:25:54__
+
+> I work at a Hotel where they have shut down a restaurant due to five chefs testing positive, nine people have been out for Covid for two weeks and this app has NEVER alerted me of anything. I've uninstalled it thre times and no improvement.<br> :date: __2021-02-04 13:12:20__
+
+> Unable To Complete Process To Notify Others Of My Positive Result. This app requires you to submit a unique code that "every individual receives upon testing positive". I tested positive through the minute clinic at CVS. No such number was provided nor could I find it through their CVS MyChart App. At this point I would have to call around to find this number and thats where I gave up. Uninstalling.<br> :date: __2021-01-31 04:58:02__
+
 > My husband and I contracted Covid and tried to notify the app, which is when we realized we needed a pin. When the Health Dept contacted us (about 4-5 days after we received our test results), we asked for the pin number and were told they didn't have a pin to give us. They said they would try to get the pin and email it to us, but we never received one, so this app is useless. As to the reply below - let me be clear we WERE contacted by the Virginia Department of Health and were told they don't have pin numbers to give us and told by them that "the app is useless".<br> :date: __2021-01-25 20:59:45__
 
 > Useless. A year in and I've never gotten an alert. Relies on people to download the app and contact the health department and get a code and put the code into the app. No one's going to do all that.<br> :date: __2021-01-24 18:35:36__
@@ -255,15 +265,5 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 > 👎👎👎🤢🤢🤢<br> :date: __2021-01-21 06:18:22__
 
 > The app doesn't work. So I uninstalled it.<br> :date: __2021-01-17 22:47:59__
-
-> I never installed it and it still ended up installed on my phone, waste of space<br> :date: __2021-01-13 07:59:40__
-
-> Notifications on this app depend on VDH calling you and giving you a pin number once you're confirmed positive. We had a positive in our house over 2 weeks ago and VDH never provided a pin and we were never able to notify using the app which makes this whole thing useless if it can't be quickly used.<br> :date: __2021-01-11 19:12:50__
-
-> The app never notified me that I had been in contact with someone with Covid, but I contracted the virus. I tried to use the notify feature but was never given a PIN. I talked to my contact tracer and they were unaware of the PIN so the app has been useless. Great idea, but the PIN requirement and the lack of people using the app render it useless. I will be deleting it from my phone.<br> :date: __2021-01-10 00:46:30__
-
-> Not good this app for City Virginia<br> :date: __2021-01-08 20:37:15__
-
-> Waste of space on my Phone. This app does not work like it is supposed to. My Wife and I contracted the virus and never did the app say we were in contact with anyone. Even when I go to report it, it says wait to contacted by the department of health, two weeks and nothing. So don't waste you time with this app and just follow the CDC guidelines to keep yourself safe.<br> :date: __2021-01-05 22:55:24__
 
 

@@ -150,6 +150,8 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="org.madrid.CoronaMadrid 5 reviews"/>
 </p>
 
+> Excelente<br> :date: __2021-02-05 16:41:10__
+
 > Se trata de una aplicación muy intuitiva. Muy buena para la labor que realiza y funciona correctamente<br> :date: __2021-01-28 13:56:07__
 
 > Me ha gustado mucho la app es muy buena, recomendable para estos tiempos de contagio en los que estamos.<br> :date: __2021-01-25 13:47:14__
@@ -168,8 +170,6 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 
 > Buena app, funciona muy bien en mi teefono celular. Tienen mis 5 estrellas🙌.<br> :date: __2021-01-01 14:12:52__
 
-> Excellent application por covid 19<br> :date: __2020-12-31 12:22:23__
-
 
 
 #### 4-star reviews
@@ -177,6 +177,8 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="org.madrid.CoronaMadrid 4 reviews"/>
 </p>
+
+> Funciona correctamente<br> :date: __2021-02-01 18:58:33__
 
 > Excelente app que cumple con lo indicado. Fácil de navegar por ella con buen diseño y sobretodo una app que te ayuda a controlar tus síntomas de covid. También da información de los hospitales más cercanos según tu ubicación.<br> :date: __2021-01-10 19:05:33__
 
@@ -196,8 +198,6 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 
 > Me ayuda a despejar las dudas<br> :date: __2020-04-12 14:47:41__
 
-> Buena y tranquilizadora<br> :date: __2020-04-12 11:18:14__
-
 
 
 #### 3-star reviews
@@ -207,8 +207,6 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 </p>
 
 > Bastante basica, pero cumple con las expectativas. Facil de utilizar.<br> :date: __2021-01-04 02:28:20__
-
-> Está muy bien. No le pongo todas las estrellas porque siempre es subceptible de mejorar.Nada ni nadie es perfecto. Salud y saludos.Gracias<br> :date: __2020-09-13 07:32:39__
 
 > Quizás en marzo resultaba más útil. Ahora no está mal, pero no sirve realmente de mucho sin un sistema de rastreo.<br> :date: __2020-08-30 08:19:54__
 
@@ -225,6 +223,8 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 > El contestar Sí o No, no es suficiénte. A veces hay concretar algo<br> :date: __2020-04-16 21:04:02__
 
 > Insuficiente.Faltan síntomas como dolor de cabeza, mareos,, conjuntivitis , mucha gente lo está pasando sin los síntomas que aparecen en esta App.<br> :date: __2020-04-16 08:17:52__
+
+> Creo que deberian modificarla para incluir la pregunta: "¿Has sufrido una repentina perdida de olfato?" Segun parece esto se esta mostrando bastante indicativo de posible contagio por coronavirus.<br> :date: __2020-04-15 08:06:01__
 
 
 
@@ -262,6 +262,10 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="org.madrid.CoronaMadrid 1 reviews"/>
 </p>
 
+> No tiene aviso de zonas confinadas. Entonces no me sirve para nada<br> :date: __2021-02-03 23:09:26__
+
+> Leo que están retrasando la introducción de Radar Covid por culpa de esta app.<br> :date: __2021-02-02 13:13:29__
+
 > Desistalarla es lo unico positivo que tiene la APP.<br> :date: __2021-01-27 13:45:34__
 
 > En esto se gasta el dinero la sra presidenta. En app absurdas que encima no funcionan. Le pongo una estrella porque no deja poner menos.😡<br> :date: __2021-01-27 13:42:20__
@@ -277,9 +281,5 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 > Una basura, activar la nacional y dejarse de tontunás. Solo da consejos, inutil como la IDA para detectar casos. Poner mas rastreadores y activar la nacional.<br> :date: __2020-10-26 10:37:22__
 
 > Es para hacer un diagnóstico no para hacer un rastreo. Ya todos sabemos cuáles son los síntomas de la covid 19<br> :date: __2020-10-18 19:39:40__
-
-> Ni si quiera se abre la app<br> :date: __2020-10-18 15:12:51__
-
-> Falta muy mucho por deserrollar<br> :date: __2020-10-15 19:13:45__
 
 

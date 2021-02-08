@@ -207,25 +207,25 @@ The IO, l'app dei servizi pubblici app has been installed by more than **5000000
 <img src="5_star_reviews_wordcloud.png" alt="it.pagopa.io.app 5 reviews"/>
 </p>
 
-> Ok oggi caricate transazioni del 25 gennaio<br> :date: __2021-01-29 18:05:26__
+> Ottima<br> :date: __2021-02-06 14:28:18__
 
-> Ripristinati gli aggiornamenti transazioni e posizione 100.000<br> :date: __2021-01-29 12:59:46__
+> per il momento funziona bene<br> :date: __2021-02-05 19:50:08__
 
-> Dopo una settimana finalmente funziona tutto. Cashback partito. Manca solo l l'aggiornamento sulle ultime transazioni. Meglio tardi che mai .edit: funziona tutto<br> :date: __2021-01-29 11:22:17__
+> Ottima applicazione!!!<br> :date: __2021-02-05 19:22:46__
 
-> Si è bloccata !?!?!?<br> :date: __2021-01-29 10:42:21__
+> Buona<br> :date: __2021-02-05 18:50:39__
 
-> Ottimo per l'evasione giscale<br> :date: __2021-01-29 08:49:53__
+> Per me funziona benissimo<br> :date: __2021-02-05 15:24:48__
 
-> Inizia a funzionare sempre meglio All inizio ho avuto problemi ma poi man mano risolti<br> :date: __2021-01-29 08:03:35__
+> Perfetta molto utile<br> :date: __2021-02-05 15:07:02__
 
-> Mi trovo molto bene.<br> :date: __2021-01-28 22:35:58__
+> Ottima<br> :date: __2021-02-05 14:06:34__
 
-> Ottimo<br> :date: __2021-01-28 18:55:42__
+> ho cercato di accedere con le credenziali spid per chissà quante volte: mai riconosciuta. Una volta sono riuscita ad entrare e...? mi dice che "ho impiegato troppo tempo e devo rifare tutto da capo"....<br> :date: __2021-02-05 09:44:49__
 
-> Ok<br> :date: __2021-01-28 18:36:58__
+> ottimo gioco<br> :date: __2021-02-04 16:36:32__
 
-> Good<br> :date: __2021-01-28 18:14:23__
+> Molto semplice e chiara.<br> :date: __2021-02-04 00:43:18__
 
 
 
@@ -235,25 +235,25 @@ The IO, l'app dei servizi pubblici app has been installed by more than **5000000
 <img src="4_star_reviews_wordcloud.png" alt="it.pagopa.io.app 4 reviews"/>
 </p>
 
-> per il momento efficente<br> :date: __2021-01-29 19:16:40__
+> App ben fatta e funzionante<br> :date: __2021-02-06 12:52:23__
 
-> Purtroppo ancora molti servizi non si sono digitalizzati e quindi risulta molto difficile integrarli nell' app. Difficilmente diventerà un app per la massa di Italiani.<br> :date: __2021-01-29 16:29:55__
+> Ora ottima!<br> :date: __2021-02-06 12:16:26__
 
-> Si blocca<br> :date: __2021-01-29 16:07:07__
+> Discreto<br> :date: __2021-02-06 00:27:51__
 
-> App fluida e abbastanza completa non merita 5 stelle perché manca la funzione per pagamenti in Google pay o similari😉<br> :date: __2021-01-29 15:14:46__
+> Ci vogliono giorni prima di vedere il risultato delle transazioni valide. Potrebbe essere migliorata.<br> :date: __2021-02-05 20:48:53__
 
-> Buona. A volte molto lenta<br> :date: __2021-01-29 12:52:11__
+> A parte qualche rallentamento nelle transizioni. Un buon 4 stelle se lo meritano. A me funziona abbastanza bene. Peccato che chiedano di rimettere la pass ogni mese.<br> :date: __2021-02-05 17:56:13__
 
-> Oggi è il giorno 8 dicembre e non si possono caricare i metodi di pagamento, è una cosa indecente. Anche il giorno 9 dicembre no si possono caricare i metodi di pagamento.... va in errore...<br> :date: __2021-01-29 10:19:15__
+> Con poca Copertura non funz. Un emerito c@@@@o<br> :date: __2021-02-05 15:37:12__
 
-> Ok<br> :date: __2021-01-29 08:45:52__
+> Che dire, la utilizzo da 9 gg, su circuito Mastercard/Maestro e Pagobancomat....tutte le transazioni registrate, acquisti fatti in negozi diversi e di diversi comuni! Sia impori piccoli ma anche alti! Niente da dire su questo....<br> :date: __2021-02-05 13:37:05__
 
-> L'applicazione funziona bene...Ma Ho letto un articolo (non so se vero) dove diceva che un soggetto ha effettuato 10 operazioni dal benzinaio per scalare la classifica..... Spero che venga implementato il controllo in quanto se effettuo molte transazioni nella stessa giornata e nello stesso negozio qualche magagna è in atto, quindi basterebbe accoppiarle sotto un'unica transazioni.... Esempio 5 operazioni da 5 € nello stesso negozio e nella stessa giornata va conteggiata 1 sola operazione da 25€<br> :date: __2021-01-29 08:12:07__
+> Bel progetto, ancora in itinere...<br> :date: __2021-02-05 11:07:54__
 
-> Ok<br> :date: __2021-01-29 00:21:38__
+> Chiara e utile per molto altro, non solo cashback.<br> :date: __2021-02-05 07:26:55__
 
-> Applicazione poste più veloce forse perché a meno utenti<br> :date: __2021-01-29 00:02:50__
+> L'app funziona,ma e' impossibile inserire il circuito Maestro.Cosi' si perdono varie transazioni. In piu' e' impossibile contattare l'assistenza: ti rispondono di rivolgerti alla banca emittente,ma la banca ti rimanda all'app. Come se ne esce?<br> :date: __2021-02-04 17:51:42__
 
 
 
@@ -263,25 +263,25 @@ The IO, l'app dei servizi pubblici app has been installed by more than **5000000
 <img src="3_star_reviews_wordcloud.png" alt="it.pagopa.io.app 3 reviews"/>
 </p>
 
-> Ho modificato la recensione perché l'App ora è migliorata molto anche se a volte risulta ancora lenta. Purtroppo il mio Comune il secondo più grande d' Italia, non è ancora presente, sarebbe utile invece che si attivasse per agevolare i cittadini.<br> :date: __2021-01-29 18:35:47__
+> Inserimento credenziali presenta qualche criticità. Poi quando si viene riconosciuti e si entra nell'app, il tutto funziona.<br> :date: __2021-02-06 14:14:11__
 
-> Ancora assenti i servizi di pagamento Google pay e Apple pay<br> :date: __2021-01-29 18:32:26__
+> L'app sembra funzionare, non ho ancora usato tutte le sue possibilità, però mi sembra assurdo che dopo 30 giorni bisogna praticamente rifare l'iscrizione, basterebbe dover cambiare il codice di sblocco!! Inoltre, se volessi installare l'app su altro smart, dovrebbe essere sufficiente inserire il codice di sblocco e non rifare tutta la procedura! Ancora nessuna risposta alle mie osservazioni precedenti, è inutile che le facciamo, tanto non vi degnate neanche di una qualsiasi risposta!!<br> :date: __2021-02-06 13:13:07__
 
-> Per ora 3 poi vediamo più avanti<br> :date: __2021-01-29 16:46:11__
+> Funziona bene, ma in telefoni non nuovissimi fatica. Quando carica i dati freeza l'app e si pensa di bloccata, in realtà sta caricando i dati ma non mostra lo spinner. Sul mio telefono più recente lo spinner lo si vede.<br> :date: __2021-02-06 11:18:42__
 
-> Quest'app è un bel passo in avanti ma... Possibile che non siano supportati Google Pay, Apple Pay e Samsung Pay che sono probabilmente i metodi più utilizzati al mondo?<br> :date: __2021-01-29 15:42:07__
+> Aggiungo una stella al giudizio di ieri. Dopo tre giorni di decine di inutili tentativi, oggi in circa 20 minuti sono riuscito ad inserire una carta di credito e una di debito. Da domani vediamo il reale funzionamento operativo.<br> :date: __2021-02-06 09:08:24__
 
-> Integrare nel cashback anche google pay non sarebbe male...<br> :date: __2021-01-29 15:19:54__
+> Penso che google mi censurerebbe se esprimessi le mie opinioni su questa app. 10 minuti d'orologio per aprirsi, per poi magari dire che c'è stato un problema e pregando di ricaricare. Edit: a distanza di tempo, bisogna dire che è migliorata molto. Mancano però ancora i pagamenti effettuati col telefono tipo Google Pay.<br> :date: __2021-02-05 19:59:56__
 
-> Non posso mettere 4 o 5 stelle perché nel calcolo che mi è stato comunicato mancano un pagamento con bancomat fatto il 25 dicembre e contabilizzato dalla banca il 28 dicembre oltre ai pagamenti fatti sul circuito Maestro associato alla carta bancomat. Troppo lacunoso e ancora distante dalla realtà del sistema pagamenti con i POS.<br> :date: __2021-01-29 14:49:58__
+> A quando i pagamenti con le App più comuni?<br> :date: __2021-02-05 11:58:27__
 
-> Un tantino lenta nel caricare gli scontrini e nel caricamento complessivo, ma sembra svolgere il suo dovere. Andrebbero controllati i profili dei primi classificati nella sezione del cash back....<br> :date: __2021-01-29 13:56:20__
+> Ennesima figura barbina di ciò che è "statale"!<br> :date: __2021-02-05 09:07:31__
 
-> Invece di andare avanti,andiamo indietro. Dopo l'ultimo aggiornamento inserisco come al solito il pin e dopo rimango nella schermata principale e non mi permette di fare nulla. Spero che il problema venga risolto al più presto, e che le operazioni effettuate vadano a buon fine. Come dicono i romani:Daje.<br> :date: __2021-01-29 12:10:53__
+> Non registra tutte le operazioni<br> :date: __2021-02-05 08:52:52__
 
-> Dopo lultimo aggiornamento lapp si chiude e resta la scrermata fissa non fa vedere niente risolvete al piu presto questo poblema<br> :date: __2021-01-29 10:33:54__
+> Buona ma ad ogni aggiornamento perde tutti i dati e bisogna rifare il login ,non mantiene i dati.risolvete per favore ,è molo fastidioso<br> :date: __2021-02-05 08:01:02__
 
-> Mario sciuto comunico che sono fermo a giorno 23 01 21 ed o fatto più di 10 operazioni e ancora non si vedono non possibile che prima funzionava giornalmente grazie<br> :date: __2021-01-29 08:17:45__
+> Facile da installare e tutto funzionava bene. Al momento però non riesco ad entrare e vedere le mie operazioni. L'assistenza è un mistero<br> :date: __2021-02-04 17:15:07__
 
 
 
@@ -291,25 +291,25 @@ The IO, l'app dei servizi pubblici app has been installed by more than **5000000
 <img src="2_star_reviews_wordcloud.png" alt="it.pagopa.io.app 2 reviews"/>
 </p>
 
-> Leggo, fin dall'avvio del cashback, che state lavorando, per consentire anche i pagamenti con il cellulare, tramite app (Google Pay per esempio). Spero che questo lavorio non sia eterno perché è lo strumento più igienico possibile, ancorché comodissimo. Grazie.<br> :date: __2021-01-29 18:44:02__
+> Aggiungete google pay. Pagare con il telefonino evita i contatti fisici. Grazie! Poi 5 stelle<br> :date: __2021-02-06 15:17:18__
 
-> Io rinuncio,dopo aver mandato delle mail di transazioni mancanti pur certificare con scontrino inerente al pagamento elettronico continuo a ricevere messaggi in automatico senza nessun senso a riguardo la mia richiesta, cominciò a credere che tutte le AP riguardo la pubblica amministrazione non sanno farle funzionare,vedi ummuni.se non pongono Rimedio continuerò a pagate in contanti o come mi coverra<br> :date: __2021-01-29 18:11:36__
+> il numero di transazioni mancanti comincia ad essere elevato malgrado siano stati rispettati tutti gli accorgimenti suggeriti. Ho l'impressione che questo cashback sia una delle solite prese in giro. Sbaglio?<br> :date: __2021-02-06 11:31:28__
 
-> Una volta che hai fatto il login non carica più nessuna sezione disponibile nemmeno il portafoglio. Che succede?<br> :date: __2021-01-29 16:38:01__
+> Adesso sembra che con il Pagobancomat funzioni regolarmente, ma quando verrà risolto il problema del secondo circuito? Io ho un bancomat con secondo circuito Maestro e non funziona ancora.<br> :date: __2021-02-06 09:26:01__
 
-> Dopo un periodo di funzionamento normale non ho eseguito log in per qualche mese. Al rientro è come de fossi un nuovo utente e l'app non mi permette di vedere nulla e si blocca.<br> :date: __2021-01-29 13:54:43__
+> DELUSIONE! Fino ad oggi avrei già potuto sbloccare i 150€! TRANSAZIONI PERSE! Alla fine conta quello che gli pare, non si capisce che metodo segua! ASSISTENZA INESISTENTE! Su 59 transazioni effettuate e contabilizzate dalla banca fino ad oggi mi sono segnate in app solo 46. Sono 13 operazioni in meno di cui 6, effettuate i primi di Gennaio, sono, ovviamente, perse. VERGOGNOSA! Poi c'è Renzi che la vuole abolire? Ma "POLITICI PIÙ PAGATI DEL MONDO" NON INIZIATE PROGETTI SENZA PORTARLI A TERMINE!<br> :date: __2021-02-06 09:15:09__
 
-> No funziona si blocca su rotellina di caricamento e non fa nulla<br> :date: __2021-01-29 13:34:29__
+> Non carica tutte le transazioni, solo alcune, quindi serve a poco.Inoltre mostra sempre lo stesso messaggio: "attiva il cashback", ma l'ho già attivato : (<br> :date: __2021-02-06 08:36:46__
 
-> Fino a pochi giorni fa funzionava adesso e lenta in pratica impossibile da usare<br> :date: __2021-01-29 13:08:34__
+> Quando sarà possibile abilitare la lotteria degli scontrini senza ulteriori registrazioni e senza passare da altre app avrete 5*<br> :date: __2021-02-06 00:44:52__
 
-> Funziona a tratti....da 3 giorni quando la apro si blocca e non posso vedere nulla....supporto inesistente....<br> :date: __2021-01-29 12:49:52__
+> In dettaglio transazioni si blocca !!!<br> :date: __2021-02-05 22:36:26__
 
-> Appena installata, mi dice che ho 3 messaggi da visualizzare ma non riesco ad aprirli. Inoltre rimane ferma sulla pagina dei messaggi e non mi fa vedere le altre schermate, né uscire dall'applicazione. È solo un mio problema o anche di altri?<br> :date: __2021-01-29 12:37:20__
+> Dopo essermi iscritto e potevo vedere tutto le mie transazioni e/o punteggi ora mi chiede di iscrivermi nuovamente, ho inviato due mail chiedendo la motivazione, a tutt'oggi non ho avuto nessuna risposta, cosa devo pensare?<br> :date: __2021-02-05 16:51:53__
 
-> Lenta. Grafica carina, funzioni interessanti ma lenta come la quaresima.<br> :date: __2021-01-29 11:49:08__
+> Per adesso do solo 2 stelle, app interessante ma, come ho già letto in un'altra recensione, non accetta il circuito Maestro quindi io che possiedo la carta con questo circuito non posso usufruire del cash back. Quando verrà introdotto il circuito Maestro scriverò un'altra recensione<br> :date: __2021-02-04 23:13:24__
 
-> Dopo l'ultimo aggiornamento praticamente non si apre più, non si riesce a navigare nel menù e rimane continuamente "in carica". Andorid10 su Samsung a10<br> :date: __2021-01-29 11:25:28__
+> A tutt'oggi impossibile avere l'operatività dell'app ,la metodologia è per esperti e non per tutti non sono considerate le persone meno istruite in campo informatico inoltre le istruzioni sono ripetitive e per niente pratiche il linguaggio usato non è semplice ed esplicativo la pomposità è ridicola certamente lo scopo è per tanti ma non per tutti e questo è in contrasto con lo scopo di ridurre l'uso della moneta cash inoltre è umiliante fare acquisti con carte elettroniche senza poter usufruire di queste regalie. in relazione allo scontrini che verranno sorteggiati la metodologia è cosi complessa che non penso sia appropriata. Esiste già da anni in altri paesi europei in modo semplice ogni scontrino ha un numero alfanumerico e ogni settimana vengono estratti tot numeri di scontrini ed ai possessori viene elargito un premio.<br> :date: __2021-02-04 17:44:57__
 
 
 
@@ -319,24 +319,24 @@ The IO, l'app dei servizi pubblici app has been installed by more than **5000000
 <img src="1_star_reviews_wordcloud.png" alt="it.pagopa.io.app 1 reviews"/>
 </p>
 
-> Non funziona<br> :date: __2021-01-29 19:03:49__
+> Dice che dopo 30 giorni mi devo autenticare nuovamente con spid ma si blocca subito dopo. Inutilizzabile.<br> :date: __2021-02-06 16:40:38__
 
-> L app mi dice che è tutto attivo ma nn riesco a vedere i vari pagamenti effettuati con i relativi rimborsi. Che dire aspetterò!!!<br> :date: __2021-01-29 18:41:06__
+> L'ho installato per il Cashback. Di vista digitale Italia fa veramente parte del terzo mondo. Il riptere la password dello spid è incomprensibile.<br> :date: __2021-02-06 15:01:32__
 
-> Perché non vengono conteggiati le applicazioni delivery? I soldi vanno hai commercianti!!<br> :date: __2021-01-29 18:28:56__
+> Un altro flop di questo governo!<br> :date: __2021-02-06 13:35:52__
 
-> Non si riesce ad uscire<br> :date: __2021-01-29 16:16:24__
+> Mi unisco, purtroppo, agli utenti che si lamentano per il mal funzionamento. Anche le mie transazioni vengono registrate con notevole ritardo; ma, ancora più grave, non vengono registrate tutte .... nel dimenticatoio quelle con le cifre più alte: vedi € spesi per cure odontoiatriche pagate, come richiesto, con bancomat e da tempo contabilizzate dalla banca!!!<br> :date: __2021-02-06 12:00:50__
 
-> Non funziona piu', da una settimana circa. Mi appare solo la schermata dei messagi e poi si blocca. Grazie<br> :date: __2021-01-29 15:50:59__
+> Quando passa il mese in cui la applicazione è attiva, per ricollegarsi è un macello, quasi impossibile, ci vogliono giorni e continui tentativi<br> :date: __2021-02-06 11:36:40__
 
-> fino a poco tempo fa funzionava benissimo.. adesso da qualche giorno, quando provo ad entrare, si blocca.. sembra stia caricando la pagina ma non va da nessuna parte, non mi fa cliccare per entrare nelle impostazioni e nei messaggi.. non posso nemmeno tornare indietro con la freccia e devo per forza chiudere l'app.. da migliorare vista l'importanza..<br> :date: __2021-01-29 15:25:55__
+> Pessimo, continua a non funzionare<br> :date: __2021-02-06 10:19:54__
 
-> Appena arrivo nella schermata iniziale si blocca, non mi permette di fare nulla<br> :date: __2021-01-29 15:23:06__
+> Non riesco ad accedere con la mia identità digitale Spid. Ho letto che molti utenti hanno la stessa problematica. Potete darmi feedback?<br> :date: __2021-02-06 09:31:08__
 
-> Dopo l'ultimo aggiornamento l'applicazione non va più si blocca<br> :date: __2021-01-29 15:14:27__
+> Mancano tantissime transazioni a dicembre non me ne hanno caricate 8 e ho perso il rimborso...vergogna<br> :date: __2021-02-06 09:21:41__
 
-> Ottimo, bravi! Registrato con SPID in due minuti, solo che l'app si blocca alla prima schermata appena la apri e non ti permette di fare nulla. Complimentoni, siete dei geni!<br> :date: __2021-01-29 15:10:52__
+> Ha funzionato solo nel mese di dicembre. Ora: o impegnatevi a sistemate tutto, altrimenti chiudete tutto e non fate perdere tempo alla gente. Con il Circuito Maetro non vengono conteggiate le transazioni Ma per favore!!!<br> :date: __2021-02-06 00:56:06__
 
-> App non funzionante, carica all'infinito e non mi permette di aggiungere la carta<br> :date: __2021-01-29 15:01:20__
+> Da più di due settimane è impossibile modificare la password, dichiarata arbitrariamente scaduta dal server; è inoltre impossibile contattare l'assistenza. Continuiamo così eh 🤦<br> :date: __2021-02-06 00:47:12__
 
 

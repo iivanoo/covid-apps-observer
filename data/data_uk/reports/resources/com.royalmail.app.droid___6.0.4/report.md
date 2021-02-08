@@ -155,25 +155,25 @@ The Royal Mail - Tracking, redelivery, prices app has been installed by more tha
 <img src="5_star_reviews_wordcloud.png" alt="com.royalmail.app.droid 5 reviews"/>
 </p>
 
+> This app does work<br> :date: __2021-02-06 17:10:26__
+
+> Nice to kmow where your parcel is<br> :date: __2021-02-05 06:59:26__
+
+> Fully accessible no matter if u are in or out...Sincerest thank you guys<br> :date: __2021-02-04 07:46:26__
+
+> I needed this app to have a parcel redivered,I found it easy to use and took me no time to do it and I'm happy to say my parcel was delivered today thank you great app.<br> :date: __2021-02-03 13:31:11__
+
+> Very easy and understandable to use.<br> :date: __2021-02-01 19:24:15__
+
+> Easy to use<br> :date: __2021-01-31 11:13:47__
+
+> Great app<br> :date: __2021-01-30 20:33:05__
+
 > A great app, I can track parcels. Search for postcodes and address and gives up to date information<br> :date: __2021-01-25 14:58:08__
 
 > Handy<br> :date: __2021-01-23 03:16:18__
 
 > Best post service<br> :date: __2021-01-22 00:53:07__
-
-> Good<br> :date: __2021-01-19 18:03:05__
-
-> Great service and helpful<br> :date: __2021-01-16 00:30:12__
-
-> My postman is lovely nothing to much trouble for him<br> :date: __2021-01-14 18:39:42__
-
-> Not bad<br> :date: __2021-01-14 07:07:23__
-
-> Very good app<br> :date: __2021-01-11 13:01:21__
-
-> Love it 😊🙏💯🙃❤️<br> :date: __2021-01-11 07:56:06__
-
-> Very good<br> :date: __2021-01-08 10:58:23__
 
 
 
@@ -182,6 +182,8 @@ The Royal Mail - Tracking, redelivery, prices app has been installed by more tha
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.royalmail.app.droid 4 reviews"/>
 </p>
+
+> Ok<br> :date: __2021-02-01 14:04:05__
 
 > Improving thanks<br> :date: __2021-01-23 21:31:53__
 
@@ -201,8 +203,6 @@ The Royal Mail - Tracking, redelivery, prices app has been installed by more tha
 
 > I like the app. Feature request: Address book, and option to set default home address. Unless I have missed it.<br> :date: __2020-12-17 08:50:28__
 
-> For buying postage, it's almost perfect. I use this to post items that I make for my Etsy page, and it's mostly really good. Will be close to a 5* for that as soon as they include international postage.<br> :date: __2020-12-08 02:00:45__
-
 
 
 #### 3-star reviews
@@ -210,6 +210,8 @@ The Royal Mail - Tracking, redelivery, prices app has been installed by more tha
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="com.royalmail.app.droid 3 reviews"/>
 </p>
+
+> When you click on a URL to the tracking number on another app suck as a email, it directs to this app instead of a web page which would be great but it doesn't phase the URL and extract the tracking number then take you directly there.<br> :date: __2021-02-03 09:34:29__
 
 > Tracking Don't Update most of the time<br> :date: __2021-01-21 16:07:13__
 
@@ -228,8 +230,6 @@ The Royal Mail - Tracking, redelivery, prices app has been installed by more tha
 > Great Concept Good Execution annoying gap. Like everything about this app, sending from home is great, but one thing; the need to enter your address, as sender every time is really annoying. Why doesn't it remember my details? Once fixed be good if the box to copy that from sender to the invoice address was default or unnecessary. Once that's fixed including an address book, or the ability to use addresses in your contacts, or those already in my Click and Drop profile would be a great feature.<br> :date: __2020-12-19 06:33:51__
 
 > The post box app is good in principle but why does it tell people the time the post was collected rather than the time of the next collection, If I were catching a train I would want to know when the next one was, not the time of the one I had missed.<br> :date: __2020-12-12 18:23:14__
-
-> Death to deeplinks!<br> :date: __2020-11-28 15:17:03__
 
 
 
@@ -267,24 +267,24 @@ The Royal Mail - Tracking, redelivery, prices app has been installed by more tha
 <img src="1_star_reviews_wordcloud.png" alt="com.royalmail.app.droid 1 reviews"/>
 </p>
 
-> Downgraded to 1 star, filled in info for a parcel, said cannot find your info, absolute shambles of a service<br> :date: __2021-01-27 19:33:49__
+> After reading all the reviews I didn't down load the app.. Bonkers you need it to rearrange delivery when you can't rearrange delivery with it<br> :date: __2021-02-06 14:43:21__
 
-> Useless, only installed briefly as your website is non-functioning in part and is unable to give the locations of priority postboxes which at a time like this is crucial<br> :date: __2021-01-27 14:00:23__
+> Error every time I have used it. The app is broken<br> :date: __2021-02-05 19:34:22__
 
-> A waste of time, after entering all my info it woukdnt let me register. Fix it FFS.<br> :date: __2021-01-27 01:21:57__
+> Frustrating - one of those "I want to throw my phone at the wall" time when an app just dies not do what is intended and keeps reporting "there has been a problem, try again" - There are only so many times a human being can do this without giving up and black marking a bad app.<br> :date: __2021-02-05 19:16:48__
 
-> Rubbish wont even let me register an account. And why do i even need to register an account. All i want is a push notification when theres an update to the status of a tracking number. I shouldnt need to register an account for this.<br> :date: __2021-01-27 01:19:05__
+> Difficult to use and opaque. Very difficult to use if you want to buy postage online. No ability to process refunds online if you make a mistake. Utter dinosaur of a system; I won't be using it ever again.<br> :date: __2021-02-05 17:02:12__
 
-> Useless! Why do I need to sign up to simply check the status of my package?<br> :date: __2021-01-26 19:19:49__
+> DO NOT USE royal mail they are HORRIBLE I have had 3 parcel LOST and the people don't care HORRIBLE SERVICE use a competitor they will be much better even if it cost more at least you will have your parcels actually delivered if I could I would give it 0*<br> :date: __2021-02-04 21:51:15__
 
-> Why the hell I need to register even before I check what this app does. All I wanted was to check the location of nearest post office. Disgraceful and pathetic.<br> :date: __2021-01-26 17:09:04__
+> All redelivery requests have so far been ignored, what's the point of the app if the post office take no notice! Minu 10 stars. Uninstalled.<br> :date: __2021-02-04 17:33:22__
 
-> Can't use unless you sign up! Fail<br> :date: __2021-01-26 14:48:50__
+> Diabolical. You've updated that you've delivered my post yet i do not have the post. Doesn't tell you where it is has been posted and trying to find how to get in contact with royal mail is non existent.... i still don't have my post and still not found away of contacting you. If i could give zero starts, i would<br> :date: __2021-02-03 19:20:14__
 
-> stupid app doesn't allow to chose items weight upon sending, says week internet speed, mine is 200mb/s they need more???<br> :date: __2021-01-25 20:29:44__
+> Useless<br> :date: __2021-02-03 12:08:50__
 
-> Not easy to use or understand, how a company of this size can and are happy to put out such a poorly put together app is beyond me. The person who ultimately decided that it is good enough and gave it the ok should at the very lease face a diciplinery.<br> :date: __2021-01-25 17:59:39__
+> 1. Not optimised for my device? What does that mean? 2. Why do I need to sign up? Another password to remember! Loads more cookies! More unwanted advertising. I only want to track a parcel, do I really need to register just to do that?<br> :date: __2021-02-03 10:23:19__
 
-> Very disappointed about your international track and signed services. I've sent an item on 12.12.20 in Moldova and never arrived on destination. Nobody answer on the phone and apparently I'm not able to make a claim for my parcel either. Shame on you Royal Mail. My loved ones still waiting for their Christmas present. Any other courier is working perfectly but apparently just you have this situation regards Covid. I want to make a claim for delayed parcel. I'm very frustrated and upset about<br> :date: __2021-01-25 12:13:39__
+> I paid my custom fee the other day and it's still being held for custom fee? I don't udnerstand mate<br> :date: __2021-02-02 19:18:46__
 
 

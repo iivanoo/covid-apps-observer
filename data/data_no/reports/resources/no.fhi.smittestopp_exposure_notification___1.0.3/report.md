@@ -148,25 +148,25 @@ The Smittestopp app has been installed by more than **100000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="no.fhi.smittestopp_exposure_notification 5 reviews"/>
 </p>
 
+> Merker ikke mer batteribruk. Bra app som vi alle bør installere.<br> :date: __2021-02-05 10:32:46__
+
+> En god trygghet. Har den i lomma hele tiden. Jobber i butikk og treffer mange i løpet av dagen. Funker veldig bra på min Samsung s 7. Ikke maser den, og ikke drar den mye strøm<br> :date: __2021-02-04 23:12:41__
+
+> 23.01.21 ga jeg en stjerne, fordi appen ba meg om å slå på posisjonsfunksjonen i tillegg til Bluetooth. Jeg slår på posisjon kun når jeg bruker kartapper/navigasjonsapper, men ellers har jeg den avslått. Den forrige smittesporingsappen ble stoppet nettopp på grunn av at den benyttet posisjon. Nå gir jeg fem stjerner fordi appen ikke ber om posisjon, og fordi den er et meget viktig bidrag for smittesporing.<br> :date: __2021-02-04 09:34:19__
+
+> Last ned og vær med på "dugnaden" om å stoppe fysaken og få en bedre fremtid. 😃<br> :date: __2021-02-03 23:07:53__
+
+> God og fornuftig app for å forhindre spredning😀👍<br> :date: __2021-02-03 19:44:02__
+
+> En trygghet og ha appen .<br> :date: __2021-02-03 19:25:40__
+
+> Fungerer som en sjarm, har ikke hatt noen problemer med den!<br> :date: __2021-02-03 19:07:00__
+
+> Fungerer supert etter at den gikk over fra GPS til Bluetooth. Maser litt mye, men det ga seg når jeg skrudde av varslene.<br> :date: __2021-02-03 18:20:45__
+
+> Gjør ingenting av seg. Bare ligger der og passer på at jeg kan få og gi innsikt om en smittesituasjon skulle oppstå som kan påvirke andre. Den kunnskapen og muligheten er ikke tung! å bære<br> :date: __2021-02-02 01:55:05__
+
 > Bra<br> :date: __2021-01-28 14:49:31__
-
-> Den nye versjonen er trygt og grei<br> :date: __2021-01-27 20:50:03__
-
-> Får rett og slett ikke installert appen. Står bare å hakker.<br> :date: __2021-01-27 19:47:14__
-
-> Funker topp på Samsung!<br> :date: __2021-01-27 08:18:27__
-
-> Funker tilsynelatende godt på Pixel 5<br> :date: __2021-01-27 07:01:52__
-
-> Veldig bra !<br> :date: __2021-01-26 20:02:39__
-
-> Bra.<br> :date: __2021-01-26 19:03:43__
-
-> Gjør det den skal uten problemer.<br> :date: __2021-01-26 18:57:01__
-
-> Betryggende app.<br> :date: __2021-01-26 18:07:16__
-
-> Funker Huawei mate 20 pro<br> :date: __2021-01-26 17:39:33__
 
 
 
@@ -175,6 +175,10 @@ The Smittestopp app has been installed by more than **100000** times. At this ti
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="no.fhi.smittestopp_exposure_notification 4 reviews"/>
 </p>
+
+> Nå virker appen igjen uten å kræsje.<br> :date: __2021-02-05 19:31:39__
+
+> Bra løsning<br> :date: __2021-02-03 18:16:39__
 
 > Har Samsung 7s. Etter nokre veker stoppa han kvar gang han blei opna. Reinstallerte tre ganger, kombinert med restart av telefonen. Ved tredje installering, ser appen ut til å fungere.<br> :date: __2021-01-29 16:10:45__
 
@@ -192,10 +196,6 @@ The Smittestopp app has been installed by more than **100000** times. At this ti
 
 > Listen up! Veldig bra jobba med appen synes jeg, dvs jeg synes appen innfrir på de fleste punkter som har vært oppe i media, og det håper jeg folk flest gjør også (burde i alle fall). En liten ting: Kan dere sjekke bluetooth funksjonalitet. Opplever en del mas om å måtte aktivere sporing/må skru på BT osv, selv om jeg har gjort det mange ganger. Sikkert enkelt å fikse, bare å spørre hvis dere trenger litt mer input/hjelp. mvh Vidar Vestnes 🤗<br> :date: __2021-01-17 18:29:59__
 
-> Enkel i bruk, men føler meg ikke trygg på at den virker etter at den har hengt seg opp i "Smittestopp henter informasjon" Prøvde å restarte telefonen, men det samme skjedde igjen.... OPPDATERING: Appen er fikset, så jeg øker til 4 stjerner 😊<br> :date: __2021-01-16 11:44:38__
-
-> Mye bedre personvern enn den forrige. Den her kan jeg se poenget med å laste ned, selv om den kommer noe sent.<br> :date: __2021-01-14 11:04:05__
-
 
 
 #### 3-star reviews
@@ -203,6 +203,14 @@ The Smittestopp app has been installed by more than **100000** times. At this ti
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="no.fhi.smittestopp_exposure_notification 3 reviews"/>
 </p>
+
+> Helt greit Men jeg forventa flere features som en enkel statistikk på Covid-19 i Norge generelt.<br> :date: __2021-02-05 01:03:08__
+
+> Burde brukt wifi, ikke blåtann. Bruker nesten aldri blåtann. Betyr ofte inaktivert smittestopp hos meg og andre...<br> :date: __2021-02-04 09:51:11__
+
+> Ok<br> :date: __2021-02-03 16:32:31__
+
+> Henter informasjon og gir varsler x antall ganger om dagen/natten, plagsomt<br> :date: __2021-02-02 04:46:29__
 
 > Jeg vet ikke om det er kun på min tlf at batteriet konstant viser 100% frem til man restarter den. Begynte da jeg installerte appen 🤔<br> :date: __2021-01-27 11:58:34__
 
@@ -216,14 +224,6 @@ The Smittestopp app has been installed by more than **100000** times. At this ti
 
 > Appen er fin, men den kom ni måneder for seint. Ingen som bruker den og da er den unyttig. Synd dere dreit dere ut med den første.<br> :date: __2021-01-17 06:29:04__
 
-> Appen og hele os på mobil stopper opp hvis jeg stopper app og midlertidig slår av bluetooth.<br> :date: __2021-01-16 11:24:53__
-
-> Ser ut som den ikke oppdaterer evt nærkontakter før man slår av og på telefonen. Pushvarselet blir "hengende" fast og går ikke an å sveipe bort.<br> :date: __2021-01-13 10:44:51__
-
-> Forstyrrer for Chromecast<br> :date: __2021-01-10 14:46:27__
-
-> Appen fungerer. Men det er jo bare 1% av nordmenn som bruker den. Så det er helt bortkastet. Dette fikk de ikke til da det gjaldt. Akkurat som resten av smittevernet.<br> :date: __2021-01-02 23:27:43__
-
 
 
 #### 2-star reviews
@@ -232,25 +232,25 @@ The Smittestopp app has been installed by more than **100000** times. At this ti
 <img src="2_star_reviews_wordcloud.png" alt="no.fhi.smittestopp_exposure_notification 2 reviews"/>
 </p>
 
+> Den varsler og varsler og varsler om at den henter informasjon... selv om jeg skrur den av på kvelden. Jeg aner ikke om den gjør jobben, men jeg opplever den som masete. Er det med vilje? Kan ikke den bare gjøre jobben sin i bakgrunnen?<br> :date: __2021-02-05 23:51:56__
+
+> Helt grei app, men bruker en del strøm og popper opp at den undersøker hvert tiende minutt. Noe som til tider er veldig irriterende..<br> :date: __2021-02-05 19:05:51__
+
+> Tømmer batteriet på kort tid,<br> :date: __2021-02-04 18:48:15__
+
+> Appen "undersøker" hvert bidige minutt! Ufattelig irriterende!<br> :date: __2021-02-04 16:45:20__
+
+> For meg som jobber i butikk er denne ubrukelig ettersom jeg er i kontakt med kunder hele tiden. Og enkelte ganger er jeg i kontakt med kunder mer enn 15 min.<br> :date: __2021-02-03 14:51:37__
+
+> Selv når jeg er hjemme på gården sjekker appen iblant hvert 5 minutt iblant oftere. Litt rart. Ellers bra app. Fikk 5 stjerner før den begynte å skekke veldig mye iblant. Virker litt som en feil.<br> :date: __2021-02-03 03:16:09__
+
+> Har ingen effekt.<br> :date: __2021-01-30 19:12:44__
+
+> Hvorfor har dere brukt tid og ressurser på å ha nynorsk i appen?<br> :date: __2021-01-30 08:16:01__
+
 > Var bra så lenge den virket. Den siste uken kræsjer den og lukker seg. Totalt ubrukelig....<br> :date: __2021-01-26 18:53:35__
 
 > Tømmer jo telefonen din for strøm asap<br> :date: __2021-01-26 10:19:47__
-
-> Frustrerende.<br> :date: __2021-01-24 22:27:28__
-
-> Funket bra på Samsung s10 med Android 10. Men etter oppgradering til Android 11 hengte varsling seg opp (konstant varsling). Ble noe bedre etter at selve appen ble oppdatert, men varsler fremdeles om uthenting av info hvert andre minutt. Utrolig irriterende!<br> :date: __2021-01-23 13:32:23__
-
-> Den var grei i starten. Nå får jeg varsel fra Android ca en gang hvert minutt at Smittestopp henter informasjon, selv når jeg holder meg helt i ro hjemme.<br> :date: __2021-01-20 16:22:17__
-
-> Den tømmer batteriet👎<br> :date: __2021-01-18 11:56:24__
-
-> Høyt strømforbruk, henger seg ofte opp når den søker etter kontakt med smittede. Bakgrunnsoppgave, må reboote tlf eller tvangslukke app.<br> :date: __2021-01-13 20:33:17__
-
-> Ikonet går ikke vekk og den henter info til evig tid<br> :date: __2021-01-13 17:56:01__
-
-> Har fått problemer med min Sense etter at jeg installerte den nye Smittestopp. Måtte deaktivere appen for å kunne synke Sense.<br> :date: __2021-01-04 19:34:55__
-
-> Bruker for mye strøm på enheten.<br> :date: __2021-01-04 18:19:41__
 
 
 
@@ -260,24 +260,24 @@ The Smittestopp app has been installed by more than **100000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="no.fhi.smittestopp_exposure_notification 1 reviews"/>
 </p>
 
+> En app som driver å laster ned skjult innhold er uaktuelt å bruke<br> :date: __2021-02-06 18:51:51__
+
+> Kommer nesten konstant varsler om at appen søker etter info, selv når app ikke er aktivert. Greit nok når man er utenfor hjemmet, men ganske irriterende og unødvendig når man ikke har forlatt huset på en stund og åpenbart ikke har vært i kontakt med noen siden forrige "søk". Avinstallert inntil videre.<br> :date: __2021-02-06 11:43:28__
+
+> Bruker veldig mye strøm. Og blir koko av alle varslene. Selv om jeg ikke har flyttet meg en meter ut av hjemmet.<br> :date: __2021-02-06 07:52:13__
+
+> Jeg fikk en sms fra FHI om å laste ned. Tror ikke denne fungerer... Ingen oppdaget. Verken hjemme, utenfor, i butikken, på kjøpesenter eller på gata. Ser ikke noe poeng ha den på tlf min.<br> :date: __2021-02-05 22:05:49__
+
+> Vil ikke aktiveres.. Galaxy S10+ og alle kriterier er der for at det skal virke.. Talentløst<br> :date: __2021-02-05 04:39:06__
+
+> Avinstallerer pga veldig ofte og irriterende notification om at den henter informasjon om smittede.<br> :date: __2021-02-01 20:27:00__
+
+> Dette må være laget av noen høyt oppe i systemet, for dette her fungerer bare ikke 😅<br> :date: __2021-01-31 19:07:01__
+
 > Nå fikk mobildata "bein å gå på" 12 GB på en mnd mot normalt 3-4 Gb pr mnd.....<br> :date: __2021-01-29 18:51:24__
 
 > Etter valg av språk flasher neste side opp ett kort øyeblikk og forsvinner ut i det blå. Får ikke mulighet til videre valg.. NB! Fungerte i starten/tidligere versjoner. BlackBerry Key2, Android versjon 8.1.0 NB! Da ser det endelig ut til at appen fungerer! Etter versjon 1.0.3 datert 27 januar fikk jeg installert OK!<br> :date: __2021-01-29 18:22:07__
 
-> Appen stopper hver gang jeg prøver å åpne den. Jeg har avinstallert og startet på nytt. Hjelper ikke. Har også slått telefonen helt av og startet opp igjen. Men appen virker fortsatt ikke.<br> :date: __2021-01-29 11:04:25__
-
 > Appen lukker seg m en gang jeg skal åpne den. Prøvd som flere her å avinstallere og laste på nytt. Samme skjer<br> :date: __2021-01-28 16:18:33__
-
-> Kan man slå av den irriterende meldingen når den sjekker om man har hatt kontakt med smittede? Vurderer å slå av alle notificayions fra appen, men er redd for å gå glipp av viktige meldinger...<br> :date: __2021-01-28 15:49:44__
-
-> Får ikke brukt den. Den stopper hele tiden.<br> :date: __2021-01-28 13:54:32__
-
-> Denne appen kræsjer på Samsung S7 , Fix dette eller kom med en vaksine til meg NÅ<br> :date: __2021-01-27 16:40:49__
-
-> Stopper gjentatte ganger<br> :date: __2021-01-27 15:08:17__
-
-> Lar seg ikke starte på S7<br> :date: __2021-01-27 14:40:06__
-
-> Appen krasjer ved oppstart<br> :date: __2021-01-27 09:46:39__
 
 

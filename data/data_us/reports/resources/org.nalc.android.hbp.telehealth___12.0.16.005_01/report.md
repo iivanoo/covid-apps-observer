@@ -199,6 +199,8 @@ The NALCHBP Telehealth app has been installed by more than **1000** times. At th
 <img src="5_star_reviews_wordcloud.png" alt="org.nalc.android.hbp.telehealth 5 reviews"/>
 </p>
 
+> Very easy<br> :date: __2021-01-29 20:51:17__
+
 > I always get a caring doctor. They see my previous visits to Telehealth.<br> :date: __2021-01-28 04:32:56__
 
 > Phenomenal!!!<br> :date: __2021-01-20 23:56:24__
@@ -216,8 +218,6 @@ The NALCHBP Telehealth app has been installed by more than **1000** times. At th
 > User friendly<br> :date: __2020-09-05 23:50:14__
 
 > Great<br> :date: __2020-08-05 17:07:40__
-
-> Quick, easy way to see a Doctor.<br> :date: __2020-07-14 15:37:54__
 
 
 

@@ -178,25 +178,25 @@ The NowClinic app has been installed by more than **50000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="com.americanwell.android.member.optum 5 reviews"/>
 </p>
 
-> Jerry was awesome!<br> :date: __2021-01-29 17:04:29__
+> Better than going in<br> :date: __2021-02-06 06:39:45__
 
-> Doctor was on time to the appointment visit. I did not have any problems to access or conect and the visit went well and he was able to answers all my questions.<br> :date: __2021-01-29 00:15:13__
+> Very professional and thorough, thank you.<br> :date: __2021-02-06 06:00:22__
 
-> Great<br> :date: __2021-01-28 22:23:51__
+> I had i Wonderful visit with Rachel this Morning ❤️☺️<br> :date: __2021-02-05 19:00:34__
 
-> My visit with Brenna Benas is what I need. Brenna is always kind, really kind and I leave with thoughts that are good. So Thank you, Brenna Benas for being here to help me.<br> :date: __2021-01-26 20:59:18__
+> UPDATE ADDED BELOW...First time user and my experience was Fantastic. No social distancing and no mask required. This appointment was Awesome. I just had my 3rd video call on 2/5/21 and this is great for social distancing and keeping me safe. PA Kim is very thorough whether I am in the office or on a video chat. I love this technology.<br> :date: __2021-02-05 18:34:13__
 
-> Easy fast and convenient<br> :date: __2021-01-26 17:51:00__
+> Very good<br> :date: __2021-02-05 00:59:29__
 
-> Everything went very smooth very happy with the online visit<br> :date: __2021-01-25 23:48:55__
+> Access to an educated, informed professional with fast results.👏⭐⭐⭐⭐⭐<br> :date: __2021-02-04 18:48:07__
 
-> Very comforting also knowing I'm doing the right things to cure myself thank you<br> :date: __2021-01-25 23:18:40__
+> This was a great experience. Thank you ☺️<br> :date: __2021-02-03 23:53:23__
 
-> Very easy to use. Loved it!<br> :date: __2021-01-25 22:01:13__
+> It was important to set up an account before the visit in order for it to run seamlessly. Had a failed appointment yesterday because I ran into glitches and could not fix them in time. But I used it today on my cellphone (after setting up my account yesterday) and it went very well.<br> :date: __2021-02-03 21:47:43__
 
-> Very convenient for non-urgent medical needs. This is a great service that allows in-person visits for more urgent needs.<br> :date: __2021-01-25 21:51:48__
+> Very pleasant and much easier than driving to doctors just to renew a script<br> :date: __2021-02-02 21:17:06__
 
-> Very easy to use, I would recommend it to anyone.<br> :date: __2021-01-24 03:03:52__
+> It was fine I just couldn't hear very well.<br> :date: __2021-02-02 16:30:06__
 
 
 

@@ -253,6 +253,12 @@ The LAZIOdrCovid app has been installed by more than **100000** times. At this t
 <img src="1_star_reviews_wordcloud.png" alt="com.intellicare.covid 1 reviews"/>
 </p>
 
+> Installata, compilato i campi, arriva l'sms con il link per l'attivazione dell'account,account attivato ma una volta riavviata l'app si chiude automaticamente andando in crash. Disinstallata e reinstallata identico problema. Inoltre una volta installata nuovamente mi diceva di premere sul link dell'sms per attivare l'account in quanto non attivo quindi le credenziali inserite precedentemente non le ha validate diversamente da quanto mi ha detto il sistema. Delusione profonda...<br> :date: __2021-02-05 11:32:51__
+
+> Me l ha consigliata il mio.medico in quanto sono positivo,ma non funziona,l applicazione non si apre e dopo qualche secondo va in crash<br> :date: __2021-02-01 17:29:46__
+
+> Mi dispiace per chi si fida ancora dei medici di oggi, e della "scienza" corrotta<br> :date: __2021-01-30 17:26:18__
+
 > Una volta effettuata la registrazione, non si apre.<br> :date: __2021-01-27 19:37:49__
 
 > Scaricata, aggiornata, ora non si apre più, a che serve.<br> :date: __2021-01-18 19:02:34__
@@ -266,11 +272,5 @@ The LAZIOdrCovid app has been installed by more than **100000** times. At this t
 > Mi sono registrato ..e non và avanti ...mi dice che sono registrato con altro n. ? ...mai fatto questa è la prima volta ,il mio n. è lo stesso da 5 anni !! Bohhhhhh<br> :date: __2020-12-05 10:03:41__
 
 > Vorrei sapere chi ha creato un app inutile come questa. Sa qualcuno a cosa serve? Ma non avete nulla da fare a far perdere tempo a gente che sta male... Incompetenti.<br> :date: __2020-11-19 16:21:45__
-
-> Sul cellulare Huawei non si installa, sul tablet Samsung si blocca al primo accesso...<br> :date: __2020-11-17 14:47:51__
-
-> Per qualche giorno ha funzionato regolarmente. Ora chiede aggiornamento (ma la mia versione è quella più aggiornata). Ma poi qualcuno legge i dati trasmessi? Io ho i miei dubbi....<br> :date: __2020-11-17 10:56:30__
-
-> Ennesima presa in giro e spreco di soldi di noi contribuenti.<br> :date: __2020-11-16 07:42:51__
 
 

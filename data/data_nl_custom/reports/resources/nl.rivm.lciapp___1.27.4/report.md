@@ -206,6 +206,8 @@ The RIVM LCI-richtlijnen app has been installed by more than **50000** times. At
 <img src="2_star_reviews_wordcloud.png" alt="nl.rivm.lciapp 2 reviews"/>
 </p>
 
+> Daar begrip j p ik niks van<br> :date: __2021-02-01 14:50:23__
+
 > Kan niet eens een telefoonnummer vinden voor het testen van Covid19<br> :date: __2020-06-30 22:42:16__
 
 > Werkt niet laadt niet geeft aan dat je geen internet hebt terwijl je gewoon internet hebt<br> :date: __2020-04-21 20:48:56__

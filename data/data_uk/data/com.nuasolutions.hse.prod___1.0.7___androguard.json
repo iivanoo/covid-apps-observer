@@ -1,0 +1,51 @@
+{
+    "permissions": [
+        "android.permission.RECORD_AUDIO",
+        "android.permission.INTERNET",
+        "com.google.android.c2dm.permission.RECEIVE",
+        "android.permission.MODIFY_AUDIO_SETTINGS",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.BLUETOOTH",
+        "android.permission.BROADCAST_STICKY",
+        "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+        "android.permission.CAMERA",
+        "android.permission.WAKE_LOCK",
+        "android.permission.READ_PHONE_STATE",
+        "android.permission.CALL_PHONE",
+        "android.permission.READ_EXTERNAL_STORAGE",
+        "android.permission.WRITE_EXTERNAL_STORAGE"
+    ],
+    "activities": [
+        "com.nuasolutions.nuaandroid.activities.SplashActivity",
+        "com.nuasolutions.nuaandroid.activities.TurbolinksActivity",
+        "com.nuasolutions.nuaandroid.activities.laya.VideoConsultationRoomActivity",
+        "com.nuasolutions.nuaandroid.activities.common.FileViewActivity",
+        "com.nuasolutions.nuaandroid.activities.common.InAppMessageActivity",
+        "com.basecamp.turbolinks.TurbolinksTestActivity",
+        "pub.devrel.easypermissions.AppSettingsDialogHolderActivity",
+        "com.google.android.gms.common.api.GoogleApiActivity"
+    ],
+    "urls": [
+        "http://schemas.android.com/apk/res/android",
+        "https://pagead2.googlesyndication.com/pagead/gen_204?id=gmob-apps",
+        "https://plus.google.com/",
+        "https://app-measurement.com/a",
+        "https://google.com/search?",
+        "https://%s/%s/%s",
+        "https://webhook.logentries.com/noformat/logs/",
+        "http://webhook.logentries.com/noformat/logs/",
+        "https://www.hashealth.com",
+        "https://www.hashealth.com/",
+        "https://api.opentok.com",
+        "http://schemas.android.com/apk/res-auto",
+        "https://firebase-settings.crashlytics.com/spi/v2/platforms/android/gmp/%s/settings",
+        "https://update.crashlytics.com/spi/v1/platforms/android/apps",
+        "https://update.crashlytics.com/spi/v1/platforms/android/apps/%s",
+        "https://reports.crashlytics.com/spi/v1/platforms/android/apps/%s/reports",
+        "https://reports.crashlytics.com/sdk-api/v1/platforms/android/apps/%s/minidumps",
+        "https://www.googleapis.com/auth/games_lite",
+        "https://www.googleapis.com/auth/games",
+        "https://www.google.com",
+        "https://www.googleadservices.com/pagead/conversion/app/deeplink?id_type=adid&sdk_version=%s&rdid=%s&bundleid=%s&retry=%s"
+    ]
+}

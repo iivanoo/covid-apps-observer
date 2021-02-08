@@ -141,25 +141,25 @@ The Protect Scotland app has been installed by more than **500000** times. At th
 <img src="5_star_reviews_wordcloud.png" alt="gov.scot.covidtracker 5 reviews"/>
 </p>
 
+> No issues. But should be compulsary.<br> :date: __2021-02-05 14:31:15__
+
+> Safety with secure protection.<br> :date: __2021-02-04 17:06:43__
+
+> Keeps you safe<br> :date: __2021-02-03 17:08:24__
+
+> Couldn't ask for a better app,so helpful in every possible way,keeps you very much up to date of all that is happening & of any changes that is taking place.. Thank you so much, Protect Scotland Team, you are a real Godsend,& greatly appreciated..x<br> :date: __2021-02-02 14:23:50__
+
+> Under these terrible circumstances just now with the pandemic its a vital app.<br> :date: __2021-02-01 13:12:47__
+
+> Best place for updates<br> :date: __2021-01-30 22:33:40__
+
+> Uninvasive and reassuring<br> :date: __2021-01-30 08:24:33__
+
+> Understanding the rules<br> :date: __2021-01-30 04:37:49__
+
 > first class<br> :date: __2021-01-28 13:58:10__
 
 > Just started using<br> :date: __2021-01-22 19:13:26__
-
-> Ok<br> :date: __2021-01-18 21:21:49__
-
-> Does its job<br> :date: __2021-01-18 11:49:50__
-
-> Not got covid yet thanks to nicola<br> :date: __2021-01-17 23:51:56__
-
-> Pierce of mind<br> :date: __2021-01-16 11:20:56__
-
-> It's a good thing.<br> :date: __2021-01-15 09:10:38__
-
-> Makes me feel safer<br> :date: __2021-01-14 13:43:12__
-
-> Very happy to have this on my phone. Looking forward to getting vaccinated.<br> :date: __2021-01-14 09:51:23__
-
-> Vital<br> :date: __2021-01-14 07:56:12__
 
 
 
@@ -225,6 +225,8 @@ The Protect Scotland app has been installed by more than **500000** times. At th
 <img src="2_star_reviews_wordcloud.png" alt="gov.scot.covidtracker 2 reviews"/>
 </p>
 
+> Cannot increase or adjust the font size. I am severely visually impaired/blind.<br> :date: __2021-02-04 14:05:45__
+
 > I had a message via the app once but when I clicked on it, it disappeared.theres nothing in app about using QR code...or how.<br> :date: __2021-01-17 09:03:08__
 
 > Known not to work as positive testing patients do not put in their results<br> :date: __2021-01-16 11:16:29__
@@ -243,8 +245,6 @@ The Protect Scotland app has been installed by more than **500000** times. At th
 
 > Absolutely destroyed my battery life polling live connections for proximity checking. Also didn't warn of a close contact.<br> :date: __2020-12-14 12:29:30__
 
-> How do I know this app is working?<br> :date: __2020-11-24 19:52:43__
-
 
 
 #### 1-star reviews
@@ -252,6 +252,8 @@ The Protect Scotland app has been installed by more than **500000** times. At th
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="gov.scot.covidtracker 1 reviews"/>
 </p>
+
+> So in a month this app has used 0.00mb of data.. it doesnt work and totally pointless. More SNP propaganda<br> :date: __2021-02-06 12:24:45__
 
 > Unless you book a test through the app you cannot get a code to put in so it is near enough useless<br> :date: __2021-01-29 10:00:14__
 
@@ -270,7 +272,5 @@ The Protect Scotland app has been installed by more than **500000** times. At th
 > Carried out three checks in one month. Have reinstalled and still not working properly.<br> :date: __2021-01-20 13:54:04__
 
 > Basic and unreliable<br> :date: __2021-01-20 09:49:48__
-
-> They are liars and protecting the big corporations helping them make a lot of money<br> :date: __2021-01-18 20:38:27__
 
 

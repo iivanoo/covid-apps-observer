@@ -209,25 +209,25 @@ The MDLIVE: Talk to a Doctor 24/7 app has been installed by more than **100000**
 <img src="5_star_reviews_wordcloud.png" alt="com.mdlive.mobile 5 reviews"/>
 </p>
 
-> Great experience.<br> :date: __2021-01-29 19:57:54__
+> Quick and easy process once I found my login info! Doctor was knowledgeable and easy to talk to and very helpful. The virtual visit was only $45 too, which was great. I'm on a high deductible plan so I would have had to pay at least $150 to go to urgent care. Great deal. Will definitely use again, if necessary (hopefully not!).<br> :date: __2021-02-06 16:48:01__
 
-> Super Easy<br> :date: __2021-01-29 16:22:25__
+> Fantastic!! I only waited 5 minutes for a dr to call. And she answered all my questions<br> :date: __2021-02-06 05:33:46__
 
-> I love MD live!!<br> :date: __2021-01-29 06:35:38__
+> The app is user friendly and the service I received from the doctor was great.. I had a quick and thorough consultation via video, described my symptoms and had a prescription called into the nearest pharmacy. Sure beat me having to go out in the snow and pandemic and the cost I would've incurred from the urgent care center.<br> :date: __2021-02-05 15:18:07__
 
-> Doctors are friendly<br> :date: __2021-01-28 22:39:37__
+> Dr was great. So easy to get help. Definitely recommend this app<br> :date: __2021-02-04 18:23:47__
 
-> The weekly sessions are very impactful. Im able to express my fears/ concerns in a non judgemental environment. My anxiety levels are improving. Just need consistency as to how I address my Anxiety. Sessions are helpful and Im looking forward with Optimistic Thoughts, (Cup is Half Full). Thanks for providing SUPPORTS<br> :date: __2021-01-28 22:10:49__
+> My doctor visit was quick, easy and my doctor gave me great information<br> :date: __2021-02-04 04:16:08__
 
-> Amazing<br> :date: __2021-01-28 21:57:58__
+> Great<br> :date: __2021-02-04 03:32:00__
 
-> Very easy to navigate appointments from start to finish<br> :date: __2021-01-28 21:31:57__
+> Quick and easy<br> :date: __2021-02-04 00:02:18__
 
-> Great app to have on hand great doctors and don't even have to leave the house<br> :date: __2021-01-28 17:17:20__
+> Super easy to use, great way to get advice without having to set foot in a doctor's office<br> :date: __2021-02-03 21:04:53__
 
-> One word Awesome<br> :date: __2021-01-28 04:15:11__
+> Ervin nathan Charles Gaffney Ervin nathan Charles Charles Ervin Cherokee sc 29340s<br> :date: __2021-02-03 20:50:23__
 
-> The medical professionals on this app are very good and the response time for appointments is quick. Also works with most insurance providers.<br> :date: __2021-01-27 21:10:18__
+> I wish<br> :date: __2021-02-03 19:22:29__
 
 
 
@@ -236,6 +236,8 @@ The MDLIVE: Talk to a Doctor 24/7 app has been installed by more than **100000**
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.mdlive.mobile 4 reviews"/>
 </p>
+
+> Main issue is accidentally skipping appointments by just a few seconds puts you back in line. However the ability to jump right back in is easy and the low cost really helps motivate me to get medical advise I'd otherwise need to spend way more money for.<br> :date: __2021-02-02 21:43:14__
 
 > Awesome and helpful<br> :date: __2021-01-28 18:15:05__
 
@@ -254,8 +256,6 @@ The MDLIVE: Talk to a Doctor 24/7 app has been installed by more than **100000**
 > Very helpful, will save you more than you can imagine during this pandemic.<br> :date: __2021-01-15 20:07:56__
 
 > Amazing!!! Definitely worth it. My only problem was it wouldn't take my insurance information so I had to pay the full fee<br> :date: __2021-01-13 22:58:19__
-
-> It was a good experience except for two things 1. every time you have to go back and change something you have to start answering questions again from the beginning and 2. you cannot just type in a year you have to select it. So if it was several years ago you have to keep hitting the back button.<br> :date: __2021-01-05 00:12:14__
 
 
 
@@ -321,6 +321,16 @@ The MDLIVE: Talk to a Doctor 24/7 app has been installed by more than **100000**
 <img src="1_star_reviews_wordcloud.png" alt="com.mdlive.mobile 1 reviews"/>
 </p>
 
+> Awful customer service who are rude and ruin your account.<br> :date: __2021-02-04 13:38:56__
+
+> Won't install. Keeps deleting my name<br> :date: __2021-02-03 15:34:20__
+
+> Too many glitches couldn't even create an account<br> :date: __2021-02-01 17:33:18__
+
+> Trash. Set up appointments, say I'll get a call, never do, then the app says i miss my appointment. This app and this service is garbage, customer service can only say up more appointments that then follow the same pattern of being "missed".<br> :date: __2021-01-31 22:42:18__
+
+> Dr could not do anything for me except tell me to see my GP, I was still charged $55 only to be told they couldn't help me. I also have no insurance. Charging me to tell me you can't help me while I'm seeking help, is just wrong!<br> :date: __2021-01-31 20:17:14__
+
 > Worst app experience. Spent 30 minutes filling out the form. Then it tells me payment not accepted. Doesnt give any reason. Was the credit card information incorrect? Does the bank need validation. How about a link to renter the card information. Nothing just go screw yourself because we designed a garbage app<br> :date: __2021-01-26 18:27:06__
 
 > Terrible app. I don't mind paying if you are going to help me but if I wanted a doctor who is only interested in grabbing my money before I can ask a single question, I'd stay with my old quack doctor.<br> :date: __2021-01-26 14:55:57__
@@ -330,15 +340,5 @@ The MDLIVE: Talk to a Doctor 24/7 app has been installed by more than **100000**
 > The app keeps crashing while I'm trying to answer the Sophie Triage questions. So frustrating<br> :date: __2021-01-14 19:07:37__
 
 > It won't let you create an account.<br> :date: __2021-01-11 05:22:53__
-
-> I can not create an account bc everytime i enter my email it clears out all my info and goes back to being blank. Will change 1 star if i can be able to get this fixed.<br> :date: __2021-01-09 22:53:18__
-
-> They will charge you even if you show up to your appointment on time but their crappy app fails to connect. Even if you call tech support during the period of your appointment. Very dissapointed, recommend going elsewhere.<br> :date: __2021-01-09 20:38:46__
-
-> Can not for the life of me get the app to update and connect properly!!!! I'm incredibly frustrated with this as I have an upcoming appointment!<br> :date: __2021-01-06 18:08:45__
-
-> So hard to use! Gave up after not being able to do anything while it errored out repeatedly.<br> :date: __2021-01-06 18:07:54__
-
-> Why can't you edit an existing account to add insurance info? I've used other telemed apps & this one is a bit of a hassle unless u want to call customer svc which is annoying.<br> :date: __2021-01-03 02:01:52__
 
 

@@ -1,5 +1,53 @@
 [
     {
+        "reviewId": "gp:AOqpTOGS6FfMDbZeO1f4Pbg56Bu-f34XRwolIGRGBkOdYaNRAXPoJ3_RtsDw4vNQr74vhbnQK28BE5VwG1m8HQ",
+        "userName": "Storm Rathburn",
+        "userImage": "https://play-lh.googleusercontent.com/-NkQPVPn8IzM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnxLrZvmeDjut3q7gqKucfK_stiQw/photo.jpg",
+        "content": "Worked very well. Be sure to have any PCP information and any of your meical history, allergies & list of medications to speed things up.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "12.0.19.010_02",
+        "at": "2021-02-03 00:22:30",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGFgdohCMWuVwI3PEYgSHn78gFfjMmfIe9cmQ7IwtQLYboHcgNjhxbcUTzPYE0heSHxXwyNB44Lx34hng",
+        "userName": "Patrick Mosby",
+        "userImage": "https://play-lh.googleusercontent.com/-HYpMwuvJsYs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckQPIEM5wYX94KAduM61v_6y7yKGQ/photo.jpg",
+        "content": "Fast an simple respectful",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "12.0.19.010_02",
+        "at": "2021-02-02 19:59:05",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOEEPXmnR34-d1uXG6pgxuVUZvUNq9tnU5mzG-dMZmBjhV6vTJU965do44LBIWxhhQaBxxUlzl-lsa2WOg",
+        "userName": "Tamika Jones",
+        "userImage": "https://play-lh.googleusercontent.com/-wUelhioG-w8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn70RdwIn7HZSOv1ebJBDPguyPTyA/photo.jpg",
+        "content": "Very Professional and helpful",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "12.0.19.010_02",
+        "at": "2021-02-02 17:38:03",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGL8LUDKXfHu_vHprQaLsJ8tOVYgfSR9TLJkxNP90dmvTWK6yJ9QVE8JN0yJQZDWrCo3qReQiqrucA1Ww",
+        "userName": "Pam Lewis",
+        "userImage": "https://play-lh.googleusercontent.com/-Gd-s-8Iv78o/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl0W_39uIfQB9FmOaiMUBXtP80FCg/photo.jpg",
+        "content": "Easy!!",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "12.0.19.010_02",
+        "at": "2021-02-02 12:51:55",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOFbE7AGgXmt8ulge5z_0JqHa0GfPA-IIGfqERJ1yACn3eqXse6qrb-3NFwFCKffGwYxf8qO4HRDNPTulw",
         "userName": "Pat Ruthruff",
         "userImage": "https://play-lh.googleusercontent.com/-6a2Mpg-22Wk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckQ9UiBJslfaLCHJr-x5MlkdrArOA/photo.jpg",
@@ -158,7 +206,7 @@
     {
         "reviewId": "gp:AOqpTOE-pRck2GY-5oHvXPlq2q_2TrO_MSN8kegtP4iKRQrWNFId6Zv-2XFBLI-IHAphByVlrNXOx7FsAbH0rA",
         "userName": "Bert Van Dyke",
-        "userImage": "https://play-lh.googleusercontent.com/-7CRwyeDr4Xw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck9tJ5DqlUbE51aXxPjWkxI1bHRyg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiMaBh0JElnFf8akI7ExmIctOOQd6BbDRgnqODwGg",
         "content": "With two kids, this is the best app on my tablet. I have used it while traveling, after hours, and holiday. My kids seem to suddenly need medical attention at the most inopportune times. This app has saved me 4 trips to ER/Urgent care in less than 2 years.",
         "score": 5,
         "thumbsUpCount": 2,
@@ -301,7 +349,7 @@
     },
     {
         "reviewId": "gp:AOqpTOErtQeBBWSx681QL_pe59KY7GfsGuEj0U-gPohhyczD58S5FrklLacZXwRS3xdIizkVoTc8kzssGBzp3g",
-        "userName": "Doodlesin Robin",
+        "userName": "Doodlesinn Robin",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjrAT6HOlBL8Uk3YQUeueIRN0YRBPPCR--ud42dpw",
         "content": "Great experience with real doctors!",
         "score": 5,
@@ -914,7 +962,7 @@
     {
         "reviewId": "gp:AOqpTOHeA7TISUrtQbjC3EMqb5q2IMpKSuxoCApH-m5vBBW0RmoaL0UUhgSmtplKtzy_aBi42lRjlz0G-dagWQ",
         "userName": "Julz Hill",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjFgJHX1oK1MrBKLkJ-FJWY9-MYShoOGvcoALaP8Q",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgFvbKOQPAcFLG3pJUtifynQ0RkAWHDNmtxPZMI5w",
         "content": "Awesome...so happy to be able to use so late at night. Worked great.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1442,7 +1490,7 @@
     {
         "reviewId": "gp:AOqpTOHzzu7V9MWm5XHidxC0wN24aLM1-zMZhjnw6QaMWn1mkbB6k0oiNUNa_rDA4APDaaciqrq0WVXnupvwVw",
         "userName": "Carl C",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg19M2cMzzy-1zIQp458bYBaMmDF-zB6928P_Mm5g",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg8yFkw1KR-TqzB88QO2V7T_Dh-4yWdjvEGe_UleA",
         "content": "Was awesome. Surprisingly very helpful. Dr was a big help. Easy to use, all around I'm very happy.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -2953,7 +3001,7 @@
     },
     {
         "reviewId": "gp:AOqpTOEgS1p6-hhhatvHYgvwtZADuEqZ-p-X3y8xmIcTCSqXea1w2b6CjKEP0rOw6IO5MswgWoordctm8ucKzQ",
-        "userName": "Margaret Ann -goes by Maggie Polley",
+        "userName": "Chris and Maggie Polley",
         "userImage": "https://play-lh.googleusercontent.com/-FHhX5sBMrSY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclGl3h9oG8wKOe-c4xwrKMFrv30uA/photo.jpg",
         "content": "Easy to use. Not really all that different than going to the office.",
         "score": 5,

@@ -233,6 +233,8 @@ The Check In CBR app has been installed by more than **50000** times. At this ti
 <img src="3_star_reviews_wordcloud.png" alt="au.gov.act.health.checkin 3 reviews"/>
 </p>
 
+> It works for scanning the QR code. But I can offarhim why do I have to reenter all my personal details everytime I use the app for myself on my phone. The nswservices app handles this very well. Please start considering the user when you write mobile apps. Many miss some simple things that would make many people's lives better. I hatdusing this app.<br> :date: __2021-02-05 20:04:05__
+
 > Takes ages to open the camera scanner function.<br> :date: __2020-12-09 09:13:41__
 
 > Seems to work ok. Slow to load, requiring data connection to do so. Cannot access QR code scanner without data connection. Suggest allowing access to QR code scanner without needing data connection to allow check in, uploading locations when data becomes available.<br> :date: __2020-12-05 21:58:59__
@@ -265,6 +267,12 @@ The Check In CBR app has been installed by more than **50000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="au.gov.act.health.checkin 1 reviews"/>
 </p>
 
+> Absolutely crock.. has taken over 10 mins just to load the app, no ability to adjust entry time (been in the shop 15 mins before all the data loaded, allowed me to load additional guest) means your accuracy is way off.. No faith in this abominable system.. Service NSW app runs rings around this shite<br> :date: __2021-02-04 01:32:06__
+
+> Which Code?<br> :date: __2021-02-01 14:52:01__
+
+> Will not open. Thank God for the old pen<br> :date: __2021-01-31 02:11:30__
+
 > Not easy to use how in the world do you check out<br> :date: __2021-01-29 07:25:04__
 
 > In a word "FRUSTRATING" one minute it works. The next nothing. Tried reinstall and it just sits there "pending " for the last hour and nothing. NOT USER FRIENDLY typical geek app and NO support.<br> :date: __2021-01-21 05:10:49__
@@ -278,11 +286,5 @@ The Check In CBR app has been installed by more than **50000** times. At this ti
 > Total waste, every other state uses an internet portal rather than wasting money on a useless app<br> :date: __2021-01-08 03:03:58__
 
 > Went to check in after visiting a store at 10.50am. Scanned went to download app....10 mins later still waiting to download app. Is there an online option. Edit: it took over 4 hours to download. Before suggesting my settings are at fault, I had no problem updating or downloading other apps, just this one<br> :date: __2021-01-04 21:25:00__
-
-> Three times tried to create an account, but it doesn't go beyond the registration page and the Privacy Notice. Must be a glitch in the app. Pls sort it out.<br> :date: __2020-12-26 00:29:29__
-
-> Doesn't work. Tried reinstalling twice and still returns error message about no registered business location at every shop I've tried. Worked for others but not me. Manual also doesn't work.<br> :date: __2020-12-24 03:21:51__
-
-> I was forced to get this app that collects information on you for the gov. F'ing Nanny State.<br> :date: __2020-12-24 00:53:00__
 
 

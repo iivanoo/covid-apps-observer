@@ -1,5 +1,17 @@
 [
     {
+        "reviewId": "gp:AOqpTOFeXG6ypgwBMhpCuESv25x6Y9FMw_QyilktiFCIHQZ0C2Mp1FwjvQxm5HV2AoRByscAvOCvVMkmT1rpCOc",
+        "userName": "A Google user",
+        "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+        "content": "This app is worth the download. You get a lot of notifications, but they are easy to mute, and might save your life.",
+        "score": 4,
+        "thumbsUpCount": 2,
+        "reviewCreatedVersion": "2.11.2",
+        "at": "2021-02-02 22:03:12",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOEi7EKSGNH6Khs0JyLFOUZjZffSh9Ma1YC4uYtVhO7i6Od0PlZBmtlT_g6itgFp1MHjl1SviJWTo5Rio8Y",
         "userName": "James Fields",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiFDBTcQ6hqBMLMKjea-WRuJllP3mU3dELJ0cGCJQ",
@@ -125,7 +137,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GivxwVcDIevIh4AoEPz0jyjCeYpYsP_bbxEoYfOHQ",
         "content": "Excellent ! I have used this app for years now and found it to be very reliable. Easy to use and provides official helpful information when needed. It has user selectable notifications for everything. It works as described by developer. Great app to have to stay informed !",
         "score": 5,
-        "thumbsUpCount": 28,
+        "thumbsUpCount": 30,
         "reviewCreatedVersion": "2.11.2",
         "at": "2021-01-17 21:09:09",
         "replyContent": null,
@@ -137,7 +149,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh4QhQw-5HZKIagCNTTqLR7G-BAf9bcRQs7Spr_Bg",
         "content": "Was a great App, then started sending multiple alerts one after another. Now I get NO alerts at all. If I click on Alerts, click my city, it takes me to settings. I wrote you about it, you sent an email telling me to restart because you fixed a bug on the 4th. It is now the 14th. I've done as you said, even uninstalled and reinstalled several times. I still get no alerts and when I click my city, it still takes me to settings. I loved your App, it's a shame it no longer functions correctly.",
         "score": 2,
-        "thumbsUpCount": 14,
+        "thumbsUpCount": 17,
         "reviewCreatedVersion": "2.11.2",
         "at": "2021-01-14 21:54:56",
         "replyContent": null,
@@ -161,7 +173,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjH44XWL4FCB4h3Jjt8uZib3p2XBUY_J7hKFZSf0w",
         "content": "Why wasn't there an alert when the POTUS called the state of emergency for DC? He even mentioned FEMA for receiving info yet crickets feo FEMA. Z Typical government restrictions. If they block adding Washington D.C. as an area then they are blocking additional information. It will only have the activity they want you to know about. New rule for citizens. See something say nothing. You'll be safer that way.",
         "score": 1,
-        "thumbsUpCount": 19,
+        "thumbsUpCount": 20,
         "reviewCreatedVersion": "2.11.2",
         "at": "2021-01-12 21:44:55",
         "replyContent": null,
@@ -449,7 +461,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjniM-fGvh7O9ctZU0va6zB8c104aiGNcVQoLL4c1E",
         "content": "App has grown over the years and I appreciate the work that has gone into making it. My alerts are timely for the different counties that I've entered. THAT being said: The app has the potential to be so much more. Save lives. Can you please make it less time consuming to use? When I travel I need to hear *alerts in the County I'm IN.* What I would like to see in an update is the use of GPS to alert me *wherever* I am. Also.. Why isn't anyone taking advantage of the Blog section?",
         "score": 4,
-        "thumbsUpCount": 41,
+        "thumbsUpCount": 42,
         "reviewCreatedVersion": "2.11.2",
         "at": "2020-11-06 20:45:42",
         "replyContent": "Hi Dawn,\n\nThank you for your feedback. We are currently investigating the issue of inconsistent alert delivery and are conducting internal testing. We hope to resolve this issue in the upcoming release. We are committed to addressing issues and improving the FEMA App so it is a useful tool for our users.",
@@ -1448,18 +1460,6 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "2.11",
         "at": "2020-06-11 05:56:34",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOFeXG6ypgwBMhpCuESv25x6Y9FMw_QyilktiFCIHQZ0C2Mp1FwjvQxm5HV2AoRByscAvOCvVMkmT1rpCOc",
-        "userName": "A Google user",
-        "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
-        "content": "The back button does not exit the app.",
-        "score": 3,
-        "thumbsUpCount": 2,
-        "reviewCreatedVersion": "2.11",
-        "at": "2020-06-09 16:17:55",
         "replyContent": null,
         "repliedAt": null
     },
@@ -5988,18 +5988,6 @@
         "repliedAt": "2018-09-24 22:53:18"
     },
     {
-        "reviewId": "gp:AOqpTOH2IEANkC_wKq9FZGOCLRJlJwY_Roa5um8Kf9OCSz4n0SopFOJfbXGuHms55dXZsDgWBzkPWcwlVRDJXXE",
-        "userName": "A Google user",
-        "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
-        "content": "Works great",
-        "score": 5,
-        "thumbsUpCount": 6,
-        "reviewCreatedVersion": "2.9.5",
-        "at": "2018-09-11 15:09:22",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
         "reviewId": "gp:AOqpTOGHULZAaJmc_h6QNzf3Tj_hUPl5w9neRVqYb2c-ScqWue32Hfqhe3zkyT2ScM0qxA2AQCsAzeCi2iVYEUE",
         "userName": "Darlene Maynor",
         "userImage": "https://play-lh.googleusercontent.com/-25STtvTLuFg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm2VIBo8v4nzZmjycce87bSpYyYIw/photo.jpg",
@@ -6010,6 +5998,18 @@
         "at": "2018-09-11 15:09:22",
         "replyContent": "Hi Darlene, thank you for your comment. We've shared this feedback with our design & development team. If you would like us to help troubleshoot the issue, please email FEMA-New-Media@fema.dhs.gov",
         "repliedAt": "2018-09-19 22:11:33"
+    },
+    {
+        "reviewId": "gp:AOqpTOH2IEANkC_wKq9FZGOCLRJlJwY_Roa5um8Kf9OCSz4n0SopFOJfbXGuHms55dXZsDgWBzkPWcwlVRDJXXE",
+        "userName": "A Google user",
+        "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+        "content": "Works great",
+        "score": 5,
+        "thumbsUpCount": 6,
+        "reviewCreatedVersion": "2.9.5",
+        "at": "2018-09-11 15:09:22",
+        "replyContent": null,
+        "repliedAt": null
     },
     {
         "reviewId": "gp:AOqpTOG1z6o84qlUY4VkRv1Wuv-N56tfDco2K0CxEeipeHX9pqsQ3mU1lj0aOwMQKY6Jvdnzc10xMgEY8XNoY5U",
@@ -7052,18 +7052,6 @@
         "thumbsUpCount": 5,
         "reviewCreatedVersion": "2.9.2",
         "at": "2017-09-23 18:02:21",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOEFn5yg1rZ9XEGdaQoM1z1kiINRqQDXg6MFGdEyJ1CpBLDWnDK0U00tUb4ehWEVJ9sXqKeYMIFHxbAgiGc",
-        "userName": "Connie Baker",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj_KIUP09uWGjiL0a8iF-acVGjZdLKAkK8S1HRGJQ",
-        "content": "I don't know how this #or how this works yet!",
-        "score": 4,
-        "thumbsUpCount": 4,
-        "reviewCreatedVersion": "2.9.2",
-        "at": "2017-09-23 07:50:34",
         "replyContent": null,
         "repliedAt": null
     },

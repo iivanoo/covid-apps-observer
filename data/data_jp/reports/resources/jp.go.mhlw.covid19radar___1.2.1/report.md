@@ -159,8 +159,6 @@ The COCOA - COVID-19 Contact App app has been installed by more than **5000000**
 
 > オープンソースで開発されていると何度言っても聞く耳を持たずにとにかく批判したいバカばっかりですが。 シンプルで無駄な機能もないいいアプリ、ただし必要性は皆無。 追記 開始日付の表示のバグは治ってませんが関係なく動作しているんじゃないですかね。それだけでもし接触したのに通知が来なければ、その責任はGoogleとAppleにあるんじゃないですか。API自体の不具合を政府やアプリ開発者に言っても無駄。<br> :date: __2021-01-23 10:09:37__
 
-> Haven't hit the jackpot yet<br> :date: __2021-01-23 07:26:59__
-
 > If everyone used this responsibly we'd all be a lot safer. Please download it.<br> :date: __2021-01-02 15:50:40__
 
 > Why i cant open the apps? I already install it, the permission wont go<br> :date: __2020-11-30 03:06:26__
@@ -177,6 +175,8 @@ The COCOA - COVID-19 Contact App app has been installed by more than **5000000**
 
 > Amazing.<br> :date: __2020-09-12 05:07:42__
 
+> Seems fine.<br> :date: __2020-09-09 09:47:47__
+
 
 
 #### 4-star reviews
@@ -188,8 +188,6 @@ The COCOA - COVID-19 Contact App app has been installed by more than **5000000**
 > Feel secure.. ty<br> :date: __2021-01-05 13:13:55__
 
 > Easy to use, no ads, simple design Would be perfectl if everyone used it/self report their symptoms. So far, I don't know if it helps or not<br> :date: __2020-10-07 17:04:52__
-
-> アプリ自体は起動が重い以外は良く出来ていると思う。 開発者のみなさま、本当にお疲れ様です。 ただ、ユーザーがとにかく少なく、コロナに感染した事があっても殆どの人が登録してないのじゃないかな？ 都心在住勤務、出入りしてる巨大なオフィスビルも感染者が出た事あるのにこれまで全くアプリには反応なし。 アプリの挙動以外の認知度が低すぎるのは開発者ではなく開発を依頼した大元の責任な事で★1つマイナスで。 もっとしっかり周知徹底させなきゃ意味がないのでは。<br> :date: __2020-09-17 13:33:43__
 
 > Easy to install. Nicely bilingual. Weekly(?) reminders it is running are a nice touch.<br> :date: __2020-08-27 08:32:45__
 
@@ -223,6 +221,8 @@ The COCOA - COVID-19 Contact App app has been installed by more than **5000000**
 <img src="2_star_reviews_wordcloud.png" alt="jp.go.mhlw.covid19radar 2 reviews"/>
 </p>
 
+> 機能していないことを知って、幻滅しました。汚名返上に期待します。<br> :date: __2021-02-04 03:08:44__
+
 > まわをまめめ!⇉⇈↨⇊⇉↻⇌<br> :date: __2021-01-17 07:01:25__
 
 > Why does this need 103MB?!<br> :date: __2020-09-09 03:26:05__
@@ -235,6 +235,18 @@ The COCOA - COVID-19 Contact App app has been installed by more than **5000000**
 <img src="1_star_reviews_wordcloud.png" alt="jp.go.mhlw.covid19radar 1 reviews"/>
 </p>
 
+> 最悪。このアプリは日本の恥。アンドロイドなら全く意味ない!<br> :date: __2021-02-05 06:51:09__
+
+> App hasn't worked since September 2020. Uninstalled.<br> :date: __2021-02-05 05:26:35__
+
+> The media has mentioned that this app has not been working since September of 2020. Knowing it now, I feel like I've wasted the storage on my phone just for nothing.<br> :date: __2021-02-05 04:09:24__
+
+> The government said that there was a technical issue with Android. Ths stop tracking and sending data from Sept 2020 up to this moment.<br> :date: __2021-02-04 05:40:19__
+
+> ゴミアプリ。This app hasn't give ANYONE a warning since September. It's basically useless.<br> :date: __2021-02-04 00:04:31__
+
+> Hi, I am trying to register myself but I always get notice to check my network while it works just fine. I couldn't register myself sibce yesterday.I have install and reinstall the app, and I have switch ny neteork from wifi to mobile data but still no progress.how can I sort this out? Thank you<br> :date: __2021-02-03 02:36:03__
+
 > Never worked. Always asking for permission for bluetooth even after given.<br> :date: __2021-01-28 02:43:34__
 
 > Tests for covid don't exist. It's a farse. This bs is all about fear and control<br> :date: __2021-01-26 02:03:14__
@@ -242,17 +254,5 @@ The COCOA - COVID-19 Contact App app has been installed by more than **5000000**
 > No network same as others on here?? Try again in Japan later<br> :date: __2021-01-22 07:51:16__
 
 > Cant install<br> :date: __2021-01-17 19:40:11__
-
-> cant register.. after click accept t&c network error pop out.. dont have problem with my network..<br> :date: __2020-12-25 07:01:39__
-
-> Every time I try to install this app it's shows network connection problem please fix this problem<br> :date: __2020-12-16 04:39:55__
-
-> ごみ<br> :date: __2020-12-13 13:06:48__
-
-> I can not accept the terms of use, it show me network connection error.<br> :date: __2020-11-24 09:00:09__
-
-> I cannot register, maybe not yet as Im before travel to JPN. I'm still in GER. To enter to JPN I'm requested to install, but I wonder if it will work if I cannot register.<br> :date: __2020-11-23 00:03:21__
-
-> 更新データの量が多すぎる。もっとスマートにしろ、変な機能付けようとするな！<br> :date: __2020-11-08 05:00:42__
 
 

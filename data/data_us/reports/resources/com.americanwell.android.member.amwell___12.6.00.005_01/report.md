@@ -215,6 +215,10 @@ The Amwell: Doctor Visits 24/7 app has been installed by more than **1000000** t
 <img src="5_star_reviews_wordcloud.png" alt="com.americanwell.android.member.amwell 5 reviews"/>
 </p>
 
+> Love this option<br> :date: __2021-02-03 09:13:37__
+
+> Fast and easy!!! I've seen 2 doctors so far the last one being Cynthia which was a VERY nice doctor. She knows exactly what she's talking about an listens to you... I recommend Amwell.. If u can't get out or not feeling too good and don't have any transportation this is who you go to!<br> :date: __2021-02-02 17:46:33__
+
 > Fast<br> :date: __2021-01-29 18:06:41__
 
 > Great, convenient option.<br> :date: __2021-01-26 14:25:07__
@@ -230,10 +234,6 @@ The Amwell: Doctor Visits 24/7 app has been installed by more than **1000000** t
 > this is awesome.<br> :date: __2021-01-17 05:56:19__
 
 > First tele health experience. Saved time going to regular doctor for something minor but it did need medical attention. Fast and got immediate attention. Very pleasant doctor. Two Thumbs up!!!<br> :date: __2021-01-11 20:54:12__
-
-> Doctor Salazar was so professional and so helpful, he was respectful, so interested in my father's needs, he really show us that he truly care about his patients. Thank you so much!<br> :date: __2021-01-09 23:51:03__
-
-> Excellent Service Ever One Should Try It<br> :date: __2021-01-09 00:27:06__
 
 
 

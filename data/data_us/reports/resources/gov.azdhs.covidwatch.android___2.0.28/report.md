@@ -196,6 +196,8 @@ The Covid Watch Arizona app has been installed by more than **10000** times. At 
 <img src="1_star_reviews_wordcloud.png" alt="gov.azdhs.covidwatch.android 1 reviews"/>
 </p>
 
+> I know I've been potentially exposed and have received no exposure notifications<br> :date: __2021-01-30 19:11:05__
+
 > Pretty useless since statewide reporting is not available for the app. Need to change the name to UofA/ASU COVID Tracker since they're the only regions that actually work.<br> :date: __2020-12-16 16:06:21__
 
 > Deleted immediately. Way too many permissions, microphone & other permissions are more than what is needed. Buggy. Google is awful.<br> :date: __2020-12-15 05:09:34__

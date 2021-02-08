@@ -201,9 +201,9 @@ The ABTraceTogether app has been installed by more than **100000** times. At thi
 <img src="3_star_reviews_wordcloud.png" alt="ca.albertahealthservices.contacttracing 3 reviews"/>
 </p>
 
-> The app (on android) started using a lot of battery capacity, so I force-stopped it and restarted my phone. Now it is fine. The only reason the app does not receive more stars is that it is not in use by enough people.<br> :date: __2021-01-15 21:51:13__
+> On January 29, 2021, developers advised that app can now download from US PlayStore. Previous comments related to now fixed issue.<br> :date: __2021-01-29 23:05:02__
 
-> Applies to build 1.5.0. United States visitors will find the app will not download from PlayStore. Do not know if same issue exists with iPhone. Several workarounds. Need to set PlayStore to Canada site. (1) Google has an option to change country for apps. States cannot change back for a year. (2) Can reset your phone and then apply for a new Google account once in Alberta. (3) Buy a prepaid phone which I did. Do not sign into your US Google account. Create new Google account.<br> :date: __2021-01-05 20:26:24__
+> The app (on android) started using a lot of battery capacity, so I force-stopped it and restarted my phone. Now it is fine. The only reason the app does not receive more stars is that it is not in use by enough people.<br> :date: __2021-01-15 21:51:13__
 
 > Good<br> :date: __2020-12-03 11:14:09__
 
@@ -257,13 +257,17 @@ The ABTraceTogether app has been installed by more than **100000** times. At thi
 <img src="1_star_reviews_wordcloud.png" alt="ca.albertahealthservices.contacttracing 1 reviews"/>
 </p>
 
+> Its draining my phoes battery.<br> :date: __2021-02-03 10:04:53__
+
+> Wasted time monitoring<br> :date: __2021-02-02 02:10:31__
+
+> I was being told my information will be kept in private. Why do they need to ask my phone numbers? The 1st version never my phone number but this one need it. The App kept eating up phone battery. My phone has a 5000mA battery. It should last 3 days if I put it on standby mode. Now, it can only last 1 day long. It toke away so much government money to design this App. Why not update this App to make it save more cell phone battery?<br> :date: __2021-02-02 02:07:04__
+
 > Same complaints as everyone else<br> :date: __2021-01-29 16:42:42__
 
 > Like others are saying, it needs an off button because of the battery drain when using it at home. Also, we need to use the federal app asap this one just doesn't have a audience anymore.<br> :date: __2021-01-26 03:30:38__
 
 > Just use the fed app already!! The petty squabbling of the prov govt is tiresome!! And ridiculous when people's health is involved. Grow up!<br> :date: __2021-01-21 23:04:39__
-
-> I was being told my information will be kept in private. Why do they need to ask my phone number? The fist version was never need to fill in my phone number at all.<br> :date: __2021-01-21 16:08:45__
 
 > It always has a notification that it is either running or not running and I can't remove the notification. I don't need it running while I am at home the majority of the time so I don't want the notification telling me it's not running. I deleted the app because the notification message is unable to be removed.<br> :date: __2021-01-19 12:34:23__
 
@@ -272,9 +276,5 @@ The ABTraceTogether app has been installed by more than **100000** times. At thi
 > Complete battery suck. A few hours of phone use, and battery is done. I can use my phone all day on conference calls with a Bluetooth headset, take emails, texts, a quick surf on social between meetings and still have battery left at the end of the day. ABTrace you'll need to keep your phone plugged in constantly. Uninstalling... also most of my co-workers are non Alberta based so totally useless as not cross country.<br> :date: __2021-01-17 18:12:40__
 
 > This app is garbage. It doesn't work properly, and as a result noone uses it. It would be nice if the Government of Alberta could swallow their pride and let us use the app from the Government of Canada, which DOES work - just not in Alberta. Thanks for nothing!<br> :date: __2021-01-17 07:24:51__
-
-> Only traced 36 cases and not worth my time and having on my phone. Pathetic.<br> :date: __2021-01-16 02:42:54__
-
-> AHS doesnt even use this when someone tests positive. Not sure the point of keeping it!<br> :date: __2021-01-15 03:05:30__
 
 

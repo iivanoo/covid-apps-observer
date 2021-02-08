@@ -266,6 +266,8 @@ No recent reviews available with 2 stars.
 <img src="1_star_reviews_wordcloud.png" alt="com.childrenstx.android.virtualvisit 1 reviews"/>
 </p>
 
+> will let me log in<br> :date: __2021-02-03 22:35:34__
+
 > Updated Terms of Use are only available in Spanish.<br> :date: __2020-11-26 01:38:53__
 
 > Hard to login<br> :date: __2020-11-03 19:08:20__

@@ -224,6 +224,8 @@ The Virtual Care The Iowa eClinic app has been installed by more than **1000** t
 <img src="3_star_reviews_wordcloud.png" alt="com.iowaclinic.android.iowa.eclinic 3 reviews"/>
 </p>
 
+> While going through the process I was in the waiting room when the all simply stopped and sent me to the login screen. The overall usefulness, picture quality, sound quality, etc. Were really good.<br> :date: __2021-02-03 20:17:39__
+
 > Audio was great, the video was very glitchy.<br> :date: __2020-05-15 21:48:52__
 
 > Hard to hear and understand the doctor<br> :date: __2020-03-30 15:44:13__

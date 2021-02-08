@@ -1,0 +1,21 @@
+{
+    "permissions": [
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.INTERNET",
+        "android.permission.BLUETOOTH",
+        "android.permission.ACCESS_WIFI_STATE"
+    ],
+    "activities": [
+        "com.gha.covid.tracker.MainActivity",
+        "com.facebook.react.devsupport.DevSettingsActivity",
+        "com.google.android.gms.common.api.GoogleApiActivity"
+    ],
+    "urls": [
+        "http://www.android.com/",
+        "https://plus.google.com/",
+        "https://%s/%s/%s",
+        "http://schemas.android.com/apk/res/android",
+        "https://expo.io",
+        "http://schemas.android.com/apk/res-auto"
+    ]
+}

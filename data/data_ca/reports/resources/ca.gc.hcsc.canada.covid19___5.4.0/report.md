@@ -190,6 +190,8 @@ The Canada COVID-19 app has been installed by more than **100000** times. At thi
 <img src="3_star_reviews_wordcloud.png" alt="ca.gc.hcsc.canada.covid19 3 reviews"/>
 </p>
 
+> Slow, goto do our part though!<br> :date: __2021-01-31 15:25:06__
+
 > More localized COVID-19 info would be useful. Perhaps user should configure first 3 digits of postal code and informed accordingly. In addition, could this app inform us when new releases of the #CovidAlert app are issued (since the notif app does not currently push that kind of useful info)?<br> :date: __2021-01-11 16:42:18__
 
 > I think the app is important, however, everyday it's telling me I have to self isolate every. I haven't reported or have any symptoms, why does it tell me to self isolate?<br> :date: __2021-01-10 19:54:18__
@@ -207,8 +209,6 @@ The Canada COVID-19 app has been installed by more than **100000** times. At thi
 > For such a simple app, it sure is slow. You tap an option (such as the check-in option) and you wait 5 seconds before anything happens with no indication that your tap actually registered. And it's not like the next screen has anything complicated that it needs to be "loading" either. It's just text. So what's up?<br> :date: __2020-10-05 20:06:20__
 
 > It doesn't ask every day to check in like it used to. And it seems to be easily triggered to suggest isolating at almost any symptom. Also, when it asked if I had been tested, or said to isolate even though I was asymptomatic. A few days later the test came back negative. If I had followed the recommendations it gave I'd be home most of the time and constantly being tested. Good idea, poorly executed. I like the media releases though. That's it's saving grace.<br> :date: __2020-09-29 14:38:34__
-
-> This app tells me every single day with that day's date to self-isolate for 14 days, even though I'm entering NO SYMPTOMS.<br> :date: __2020-09-26 21:18:16__
 
 
 
@@ -246,6 +246,8 @@ The Canada COVID-19 app has been installed by more than **100000** times. At thi
 <img src="1_star_reviews_wordcloud.png" alt="ca.gc.hcsc.canada.covid19 1 reviews"/>
 </p>
 
+> So buggy and laggy, this needs to be fixed.<br> :date: __2021-02-05 05:51:01__
+
 > Useless<br> :date: __2021-01-29 01:13:28__
 
 > The Johns Hopkins website has much more current data about Canada, which is disconcerting. Otherwise it's nothing but advice to stay home and wash your hands. Good advice, but no data = not useful. Edit: Kept it on my phone in case it became more useful. It didn't. Have now deleted it.<br> :date: __2021-01-17 15:10:02__
@@ -263,7 +265,5 @@ The Canada COVID-19 app has been installed by more than **100000** times. At thi
 > Since last update Stats don't update at all like is use to do for every day the stats for the day don't display<br> :date: __2020-12-28 01:23:01__
 
 > "Application error" ...not working<br> :date: __2020-12-27 02:00:19__
-
-> Update to previous post: I uninstalled after clearing data, rebooted phone and reinstalled. As soon as I selected my province I got the "app encountered a error" again. So I got rid of it.<br> :date: __2020-12-26 17:18:38__
 
 

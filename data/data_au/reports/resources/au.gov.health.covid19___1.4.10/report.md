@@ -159,6 +159,10 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 <img src="5_star_reviews_wordcloud.png" alt="au.gov.health.covid19 5 reviews"/>
 </p>
 
+> Needed<br> :date: __2021-02-03 09:43:03__
+
+> This app is very good and all information that is within gives brilliant info on Covid19-firstly info on Covidsafe app to download,then Information -to upload all Government-issued to download News and to receive,keep updated on what's happening concerning the Australian People , Coronavirus Australia.There's alot of reading and research.<br> :date: __2021-02-02 15:46:51__
+
 > Helps you keep in touch with the virus<br> :date: __2021-01-29 22:24:11__
 
 > Goff said he had been doing it for a great time to be able and a lot to be desired of as the idea of a lot to see the new place in which he said that it is a lot of people have<br> :date: __2021-01-03 15:14:47__
@@ -174,10 +178,6 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 > Everyone should be made to download<br> :date: __2020-09-27 00:27:03__
 
 > Amazing<br> :date: __2020-09-09 22:19:27__
-
-> Consistent obviously<br> :date: __2020-09-01 17:07:21__
-
-> Fantastic!<br> :date: __2020-09-01 13:53:31__
 
 
 
@@ -243,6 +243,8 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 <img src="2_star_reviews_wordcloud.png" alt="au.gov.health.covid19 2 reviews"/>
 </p>
 
+> 3rd app installed, I hope this check in works<br> :date: __2021-02-06 04:14:58__
+
 > This app works however the information shown in it is no longer being updated daily nor is the information on numbers as detailed as it once was. I write this review on 3rd Jan, the CoVid numbers shown on the app were last updated 21st Dec. Pretty worthless if you can't rely on it to show up to date information.<br> :date: __2021-01-03 04:57:49__
 
 > Miss mash just looking for last 24 hours numbers by state.<br> :date: __2020-12-28 23:13:13__
@@ -260,8 +262,6 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 > Confusing<br> :date: __2020-05-04 09:43:14__
 
 > Will not download on my phone<br> :date: __2020-05-01 08:18:24__
-
-> Takes forever to download. Been trying for 2 days now.<br> :date: __2020-04-29 10:31:12__
 
 
 

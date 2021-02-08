@@ -191,6 +191,10 @@ No recent reviews available with 3 stars.
 <img src="1_star_reviews_wordcloud.png" alt="gov.dc.covid19.exposurenotifications 1 reviews"/>
 </p>
 
+> To the developers of this app. I've been trying to understand this app. It tells me no one near or anyone in the area of me has had covid which is false. I work for whole foods and within the last month we had over 20 people who tested positive for covid-19 and this app still keep telling me no one near me has had the virus which I don't understand. Please explain!<br> :date: __2021-02-04 21:50:17__
+
+> My app does not sent me no notifications<br> :date: __2021-02-03 18:45:28__
+
 > Update - My building said a worker tested positive for Covid. Booted up app. Still says NO Exposures. Clearly app does not work. App does nothing except bug me when location is off. As soon as I turn location on app says no cases. What's the point?<br> :date: __2021-01-05 20:49:03__
 
 > Screw you. Screw you. Screw you.<br> :date: __2020-12-21 04:12:29__

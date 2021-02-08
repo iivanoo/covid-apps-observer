@@ -243,6 +243,12 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 <img src="1_star_reviews_wordcloud.png" alt="de.bssd.covid19 1 reviews"/>
 </p>
 
+> Wie alle anderen schreiben. Nix geht. Absoluter Dreck<br> :date: __2021-02-05 12:45:29__
+
+> Die App stürzt direkt beim Öffnen ab. (Android 11 Galaxy S20+)<br> :date: __2021-02-04 10:08:28__
+
+> Es ist lange genug bekannt dass die App nicht fubktioniert. QR Codes werden über den integrierten Scanner nicht erkannt und den Code den man manuell eintippt bringt die Fehlermeldung zurück dass es nicht dem entsprechenden Format entspricht. Es ist lächerlich Menschen diese App Überprüfung eines Corona Tests anzubieten.<br> :date: __2021-02-02 10:40:23__
+
 > Nicht Mal einen Stern ist die App wert,denn mit dem Code funktioniert Überhaupt nicht größer Müll. Nicht zu Empfehlen...<br> :date: __2021-01-27 16:24:49__
 
 > App schließt wiederholt selbständig kein Aprufen des Ergebnisse möglich! Handy Samsung S 20 einfach emteuchend Update wäre von Vorteil !<br> :date: __2021-01-26 11:43:22__
@@ -256,11 +262,5 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 > Das Scannen funktioniert nicht und eine ID habe ich nicht erhalten. Dadurch habe ich das Ergebnis per E-Mail anfordern müssen.<br> :date: __2021-01-22 17:25:57__
 
 > Hab die app installiert lässt sich aber nicht öffnen ...<br> :date: __2021-01-21 14:34:37__
-
-> Unbrauchbar! Entweder Kamera nicht aktiviert oder der QR-Code wird nicht erkannt. Hilft so nicht im Kampf gegen die Pandemie...<br> :date: __2021-01-20 13:03:38__
-
-> leider funktioniert das Scannen des Barcodes nicht .... schade d.h., immer die lange Nummer eintippen<br> :date: __2021-01-20 11:10:55__
-
-> Startet noch nicht einmal... gar nicht erst runterladen ist die beste Entscheidung<br> :date: __2021-01-15 18:03:09__
 
 

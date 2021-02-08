@@ -194,6 +194,8 @@ The Coronika - Dein Corona Kontakttagebuch app has been installed by more than *
 <img src="4_star_reviews_wordcloud.png" alt="de.kreativzirkel.coronika 4 reviews"/>
 </p>
 
+> Sehr gute und intuitive App zum Aufzeichnen von Kontakten. 1 Stern abzug gibt es für den Export der Aufzeichnung, hier würde ich mir wünschen das beim Export ebenfalls die Erfassten Daten wie Maske, Abstand etc., sowie die Notizen für den Kontakt mit exportiert werden.<br> :date: __2021-02-01 20:46:41__
+
 > Die App ist bis auf die wichtige Export-Funtkion wirklich toll! Ein Mitarbeiter beim Gesundheitsamt sagte mir, dass er die Informationen, die man in der App angibt (gelüftet, Abstand, Maske etc.), gut hätte gebrauchen können, um individuelle Quarantäne Maßnahmen anzuordnen. Ich fände es daher super, wenn das auch im Export angegeben werden würde. Man müsste dann wahrscheinlich jede Begegnung einzeln abbilden (ähnlich wie es bei der Export-Funktion der Corona-Warn-App der Fall ist).<br> :date: __2021-01-02 20:39:15__
 
 > nach dem Update ist es schwerer fernere Bekannte etc. (zB Postbote) einzutragen, da jetzt eine Telefonnummer ein Pflichteintrag ist... edit: korrigiert, da mit update behoben<br> :date: __2020-12-23 20:15:27__
@@ -211,8 +213,6 @@ The Coronika - Dein Corona Kontakttagebuch app has been installed by more than *
 > Schon sehr gut! Es wäre allerdings cool, wenn sich auch der Exportzeitraum anpassen lassen würde. Dann könnte ich die App nämlich auch für das Kontakttagebuch meiner Tochter für die Tagesbetreuung nutzen. Dort müssen alle zwei Tage die Kontakte der letzten 48 Stunden angegeben werden. Wäre der Zeitraum einstellbar, gäbe es von mir 5 Sterne<br> :date: __2020-11-18 03:20:14__
 
 > gut das es das gibt = 5sterne!! keine datenuebernahme aus dem adressbuch = 2sterne -. datenvorhalt 14 tage, klasse = +1stern.<br> :date: __2020-11-14 21:07:39__
-
-> Super Idee und schon ziemlich gut umgesetzt :-) Feature Request: Ein paar Funktionen wären noch super: Vermisse dass ich eintragen kann wie lange und wo ich Personen getroffen habe (draußen/drinnen, <15min/>15min/>30min, Ort, mit /ohne Maske), beim Ort zb einfach angelegte Orte auswählen wo ich die Person getroffen habe, die hängen dann als Ort im Tag und an der Person. Das wäre super!<br> :date: __2020-11-13 12:47:32__
 
 
 

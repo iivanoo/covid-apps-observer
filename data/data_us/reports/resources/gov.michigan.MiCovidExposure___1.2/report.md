@@ -126,6 +126,10 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="gov.michigan.MiCovidExposure 5 reviews"/>
 </p>
 
+> Way improved from its earlier design<br> :date: __2021-02-03 03:53:22__
+
+> Covid 19b is almost gone.<br> :date: __2021-01-31 02:51:04__
+
 > Really do appreciate this app. I'm high risk and so is my husband, staying on top of where this virus is and if we may have been in contact with it puts my mind at ease.<br> :date: __2021-01-26 20:14:09__
 
 > Started updating after reinstall. Turned on power management exception. Seems to be working again. Developer responds quickly. Edit: Hasn't checked exposure since 1/4/21. Seems stuck. Checked google exposure over past 14 days. Contained no data. Wish there was a way to force a check/notification update. Reinstalled. Still not updating Original: Low battery consumption. Exceptional privacy. No location tracking. Low data use. Not invasive.<br> :date: __2021-01-26 17:00:11__
@@ -142,10 +146,6 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 
 > Everybody should get this app so all of us can be safe and healthy so please use the app<br> :date: __2020-12-26 00:59:02__
 
-> Just use the app<br> :date: __2020-12-24 07:21:40__
-
-> Excellent app, easy to understand, I recommend it. I think it is a good idea. (By the way, no Covid-19 here).<br> :date: __2020-12-24 02:27:46__
-
 
 
 #### 4-star reviews
@@ -153,6 +153,8 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="gov.michigan.MiCovidExposure 4 reviews"/>
 </p>
+
+> Ok<br> :date: __2021-02-03 15:23:08__
 
 > Stopped notifying me/updating alerts. Uninstalled app then reinstalled it. Alerts commenced once agai Have had first vaccine on 9th of January.<br> :date: __2021-01-22 19:08:14__
 
@@ -172,8 +174,6 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 
 > Just checking it out<br> :date: __2020-11-20 08:58:10__
 
-> Way to late and unlikely to work universally (eg. with folks from out of state) but it's better than the nothing burger we've had so far. Would be nice if it gave you an idea of how many contacts it recorded (Inna privacy preserving way) to let us know the adoption rate around us.<br> :date: __2020-11-17 03:59:58__
-
 
 
 #### 3-star reviews
@@ -181,6 +181,8 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="gov.michigan.MiCovidExposure 3 reviews"/>
 </p>
+
+> L pi pl om 0<br> :date: __2021-02-03 15:23:00__
 
 > Old information<br> :date: __2021-01-26 12:54:59__
 
@@ -199,8 +201,6 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 > Just checked into this app today (12/9). Last exposure check was 11/18. Something is broken it seems. Really want this to work.<br> :date: __2020-12-09 13:35:36__
 
 > Very confusing.......<br> :date: __2020-11-29 00:19:29__
-
-> On the page "Michigan Coronavirus Stats" 2/3 of the page is covered with text about John Hopkins. To scroll the important information there is only a 1 inch window.<br> :date: __2020-11-19 14:59:18__
 
 
 
@@ -238,6 +238,12 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="gov.michigan.MiCovidExposure 1 reviews"/>
 </p>
 
+> Shows zero cases at my location. When multiple people have died and 26 new cases in January alone. Totally useless!!!<br> :date: __2021-02-05 19:22:00__
+
+> 10,000 downloads vs. 10 million Michigan population say 0.1% use the app. Nice idea, but pretty useless without people using it. False sense of security. Yeah, deleting this app. Excuse of wait till more people download it doesn't matter. Only 'updates possible exposurers' every 3 days at best. This is why it 1-free 2-from the state. Any private company couldn't do this, but put our state in control and it is now a joke. Save your electrons and battery.<br> :date: __2021-02-02 03:07:46__
+
+> The last time this app checked for exposure was Dec 28th 🤷<br> :date: __2021-01-31 16:33:37__
+
 > There needs to be a button to check manually. My app hasn't automatically check since December 26th. What is the point of a notification app that doesn't even check to notify you. Edit: I realize every device is different but this is a google pixel running pure android. Wouldn't it be easier just to put a button in the app instead of having to reply to thousands of people on the app store telling them how to change their settings?<br> :date: __2021-01-26 17:31:36__
 
 > I've had it since it came out and it stuck on 1-12021 for the last time exposure check was done and it is turned on...<br> :date: __2021-01-26 15:32:43__
@@ -251,11 +257,5 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 > I have had this app installed since day 1. I am an ER nurse who has cared for so many covid patients I couldn't even count. The whole time with my phone in my pocket. Not one exposure alert. I guess I wasn't really reviewing the app but the deployment or idea. If the state did this right they would incorporate this into discharge instructions for the covid positive patients.<br> :date: __2021-01-16 00:12:32__
 
 > After a positive test, my partner contacted local health department and notified them, they didn't know anything MI COVID or a PIN. 3 days later a contact tracer called my partner to report a positive test, this tracer also claimed no knowledge of a PIN or the MI COVID app. It took another 68 hours for contact tracers to call me and let me know that I had been exposed (someone I share a bed with), I had been quarantining for 6 days at this point, app is good - MDHHS utilization terrible.<br> :date: __2021-01-15 17:35:16__
-
-> Pointless app as it relies on a PIN number to report a positive status, but you can't get this PIN without calling the hotline, which is limited to business hours. When they finally do open, you'll spend more than 20 minutes trying to navigate the automated attendant system, only to spend more time on hold waiting for a representative. I never managed to get through, uninstalled the app.<br> :date: __2021-01-14 23:06:58__
-
-> It stopped checking for exposures on 1/3/21. My notifications are turned on and the app isn't affected by my phone's background app battery saver.<br> :date: __2021-01-14 14:24:16__
-
-> Not one alert not clear if it on<br> :date: __2021-01-13 19:47:42__
 
 

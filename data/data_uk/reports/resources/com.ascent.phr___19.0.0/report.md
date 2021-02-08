@@ -192,6 +192,10 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 <img src="5_star_reviews_wordcloud.png" alt="com.ascent.phr 5 reviews"/>
 </p>
 
+> Always easy to use and keeps you up to date at all times.<br> :date: __2021-01-31 19:05:27__
+
+> very good<br> :date: __2021-01-30 17:10:52__
+
 > very easy to use app<br> :date: __2021-01-27 17:11:33__
 
 > Good app for what I need it to do.<br> :date: __2021-01-26 23:53:19__
@@ -207,10 +211,6 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 > Great and easy to use<br> :date: __2021-01-14 09:35:00__
 
 > Reliable<br> :date: __2021-01-14 00:26:04__
-
-> very simple to use<br> :date: __2021-01-11 19:36:25__
-
-> excellent app<br> :date: __2021-01-09 10:10:24__
 
 
 
@@ -276,6 +276,8 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 <img src="2_star_reviews_wordcloud.png" alt="com.ascent.phr 2 reviews"/>
 </p>
 
+> Seems to not ever load the prescriptions section which was the main reason I got it.<br> :date: __2021-02-02 00:17:09__
+
 > Not been able to order a prescription for the last 6 months using app. Was fine before that.<br> :date: __2021-01-28 13:02:32__
 
 > login makes you go crazy and doesn't let you in<br> :date: __2021-01-22 13:09:48__
@@ -293,8 +295,6 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 > The app is not accepting either my PIN nor my password. I can only assume the app has crashed<br> :date: __2020-12-07 20:47:38__
 
 > over complicated if all you want to do is order a repeat prescription.<br> :date: __2020-11-28 18:06:24__
-
-> doesn't allow to log in<br> :date: __2020-11-27 23:48:59__
 
 
 

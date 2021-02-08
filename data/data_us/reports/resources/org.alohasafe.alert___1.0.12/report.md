@@ -140,6 +140,14 @@ The AlohaSafe Alert app has been installed by more than **10000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="org.alohasafe.alert 5 reviews"/>
 </p>
 
+> At 10k downloads, roughly 0.71% of Hawaii's 1,416,000 population are using this app (unless my math is wrong). It's a great app, but more people need to know about it to be truly useful.<br> :date: __2021-02-05 09:51:33__
+
+> Very thankful Hawaii has an app like this. It's straightforward and non-intrusive.<br> :date: __2021-02-02 12:32:58__
+
+> It,s okay<br> :date: __2021-01-31 07:54:55__
+
+> DeoGuinsatao<br> :date: __2021-01-30 20:01:10__
+
 > No experience with this yet<br> :date: __2021-01-29 04:51:53__
 
 > Easy to install. Like the concept.<br> :date: __2021-01-26 08:38:06__
@@ -151,14 +159,6 @@ The AlohaSafe Alert app has been installed by more than **10000** times. At this
 > How can you stay safe from the c_firus<br> :date: __2021-01-20 08:46:31__
 
 > works as exactly designed to.<br> :date: __2021-01-17 12:51:54__
-
-> It's very easy to set up but there is some issues that I have heard from other people concerning using this on an Iphone 6 but over all it is a very good app to track if you have been exposed. The only thing I can say is that if you don't usually take your phone every where then it could throw off the results on the app. But again it is a very good app.<br> :date: __2021-01-17 09:16:38__
-
-> Quick and easy.<br> :date: __2021-01-16 21:15:05__
-
-> Awesome App and easy<br> :date: __2021-01-16 19:02:18__
-
-> Easy to download, setup and navigate. The more people that use it the better it works.<br> :date: __2021-01-16 09:28:25__
 
 
 
@@ -196,6 +196,8 @@ The AlohaSafe Alert app has been installed by more than **10000** times. At this
 <img src="2_star_reviews_wordcloud.png" alt="org.alohasafe.alert 2 reviews"/>
 </p>
 
+> Got aloha safe app cause i live on maui, Hi and am worried about covid numbers rising dramaticly daily so i only activate it when im out grocery shopping or going to the doctors office or anywhere in public then i deactivate it cause it drains battery life and does weird things to my phones touch screen and interferes with other apps on my phone when its on<br> :date: __2021-02-04 18:06:22__
+
 > Good idea ... But not yet ready for prime time, methinks. After I installed it, I could no longer use my Qardio Blood Pressure machine, which also communicates via Bluetooth. So I uninstalled this Nov. 30, 2020, and the Qardio app could connect again. Possibly a coincidence. I'll try this app again in a few weeks, after they've had a chance to iron out the wrinkles. Like I said ... a good idea ... assuming that the app attracts enough users to be useful. It'll need a lot.<br> :date: __2020-12-06 08:23:53__
 
 
@@ -205,6 +207,8 @@ The AlohaSafe Alert app has been installed by more than **10000** times. At this
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="org.alohasafe.alert 1 reviews"/>
 </p>
+
+> Stupid<br> :date: __2021-02-03 18:15:43__
 
 > Hope it works doesent sound great. Tbh<br> :date: __2021-01-29 19:42:46__
 
@@ -223,7 +227,5 @@ The AlohaSafe Alert app has been installed by more than **10000** times. At this
 > Horrible APP. Not accessible to download on my ipad mini which I always carry. Don't have an apple phone, and it is not downloading on my Samsung phone. I find it offensive that Big Brother is tracking me. Will probably cancel my trip to Maui . Too much trouble yo go there.<br> :date: __2021-01-18 03:54:23__
 
 > My mother is high risk so I felt this app was a great idea. I tried downloading it but it said I didn't have enough space. So I delete three apps that I don't need and some useless pictures. It still says I don't have enough space. So I check how much space I have and it says 615 MB, which should be more than enough to download the stupid app. I check and this app only requires 22MB. I try to redownload and it doesn't work again. Great concept but it won't even let me try it out.<br> :date: __2021-01-17 02:44:44__
-
-> Downloaded just to delete. I hate when apps are shoved in my face<br> :date: __2021-01-15 04:04:34__
 
 

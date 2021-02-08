@@ -141,6 +141,12 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="gov.pa.covidtracker 5 reviews"/>
 </p>
 
+> Great idea<br> :date: __2021-02-02 00:03:25__
+
+> PA, use it to keep yourself and others safe.<br> :date: __2021-01-31 19:54:50__
+
+> I believe this helps<br> :date: __2021-01-30 14:26:08__
+
 > Great App,better then the whole state's efforts witch have been an embarrassment for the State.What terrible job theyre doing.embarrassed to be an American now.Thanks Trump and all his not so smart followers.We wouldn't be in this situation if not for Trump and his small minded supporters and Hate groups.Thanks a lot for ruining our country!<br> :date: __2021-01-29 09:58:14__
 
 > Great App!<br> :date: __2021-01-26 20:35:40__
@@ -155,12 +161,6 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 
 > Good app for the pandemic. Please download and share.<br> :date: __2021-01-11 17:09:21__
 
-> Awesome<br> :date: __2021-01-08 15:09:02__
-
-> Very good app. Very informative.<br> :date: __2020-12-31 23:42:39__
-
-> This app has helped me by notifying me if a store/shop/place is safe to enter.<br> :date: __2020-12-30 17:52:05__
-
 
 
 #### 4-star reviews
@@ -168,6 +168,8 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="gov.pa.covidtracker 4 reviews"/>
 </p>
+
+> Not real sure it actually works. I've been out shopping for Necessities and it's never went off yet & info stats are available before noon news.<br> :date: __2021-02-05 22:53:56__
 
 > It explains the flue and what to do and not do it's informal seams in ts right on with the hole country.<br> :date: __2021-01-21 01:16:24__
 
@@ -187,8 +189,6 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 
 > I do like the app as far as letting you know if you came close to anyone with covid but it can be better by marking areas specific so me and my family can avoid the areas!!<br> :date: __2020-12-14 23:38:53__
 
-> It would be nice to know how many people are using app in my area.... knowing 600,000 people across pa have app, does not do much for me, in my city....<br> :date: __2020-12-10 10:32:55__
-
 
 
 #### 3-star reviews
@@ -196,6 +196,10 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="gov.pa.covidtracker 3 reviews"/>
 </p>
+
+> Not what I expected, not the kind of information I was looking for.<br> :date: __2021-02-06 08:04:10__
+
+> Now that there's a vaccine why don't you show where there's a vaccine. It's great that you have this app available and I've been using it for 10 months but can we pivot to showing where vaccines are or trying to help out with where that is? It's great finding out about all the problems with COVID but now that there's actually a solution available it'd be good to know where to find them instead of going to 50 different websites<br> :date: __2021-02-02 04:03:23__
 
 > I suggest adding PA stats about vaccinations....as well as info on or even ability to make a vaccine appointment...and current phase status<br> :date: __2021-01-22 05:24:51__
 
@@ -213,10 +217,6 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 
 > The app is simple enough to understand, but the methodology of the Public Health department makes the app useless. I am covid positive, and cannot "sound the alarm" through the app without a special code that was never given to me. So how is the alert system supposed to work if I can't alert anyone??<br> :date: __2020-12-10 06:03:19__
 
-> I like the information but the numbers don't match up to what the state reports on the website or what the news reports. The app is saying that there were over 7,200 new cases yesterday but a news website is reporting over 8,700.<br> :date: __2020-12-10 03:03:47__
-
-> I guess ok have not had any alerts yet thank God<br> :date: __2020-12-05 23:58:01__
-
 
 
 #### 2-star reviews
@@ -224,6 +224,8 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="gov.pa.covidtracker 2 reviews"/>
 </p>
+
+> Exposure alert does not work, or I'll get a call next month that I've been exposed to COVID 6 weeks after it matters. A co-worker, that has the app with the alert ON, tested positive weeks ago. I work side by side with him everyday and found out a week after he was out why he was out. Not through the app though.<br> :date: __2021-01-31 00:01:31__
 
 > Only good if you live in PA. Not valid for anywhere else.<br> :date: __2021-01-24 17:58:17__
 
@@ -243,8 +245,6 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 
 > Case & death graphs are informative but a "hot spot" map by zip code would help prevent cases. IMHO!!<br> :date: __2020-11-21 04:51:15__
 
-> Uuuuuuugh, terrible source of communist pornography, it took I kid you not FOREVER just to find the pics. 2 out of five stars because it still made me feel like a horny hero when I gave away my civil freedoms<br> :date: __2020-11-19 00:03:54__
-
 
 
 #### 1-star reviews
@@ -252,6 +252,16 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="gov.pa.covidtracker 1 reviews"/>
 </p>
+
+> What a joke, I have been around plenty of people with COVID and was never notified<br> :date: __2021-02-04 14:20:02__
+
+> Does not work. Health department does not have a code for you to enter, for tracking.<br> :date: __2021-02-01 20:30:11__
+
+> The whole context of this app is a joke like the governors rediculous and unconstitutional mandates. Just a way they try to control and track you. DO NOT TRUST ANYTHING THAT COMES FROM THE WOLF ADMINISTRATION.<br> :date: __2021-02-01 01:31:31__
+
+> Ok your app not far I am Mexican and u do not have the button. U need to fix<br> :date: __2021-01-31 20:50:20__
+
+> Baaaaaaaaaaahhhhaaaahhh 🐑<br> :date: __2021-01-29 20:54:03__
 
 > I have not received any notifications from this app... Unstalling<br> :date: __2021-01-27 19:49:23__
 
@@ -262,15 +272,5 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 > Only works to notify you if someone voluntarily enters they have covid into the app. Useless if people aren't updating it themselves.<br> :date: __2021-01-20 22:09:21__
 
 > Never got any alerts, and when I had covid for a couple weeks they never gave me a code even after calling in to request it (they were supposed to reach out, never happened). Don't trust this app to alert you, chances are most people never got a code.<br> :date: __2021-01-18 21:50:44__
-
-> The virus is fake and there is no need for this app.<br> :date: __2021-01-18 02:57:04__
-
-> Was never able to update app after testing positive. No point in using it as far as I can see.<br> :date: __2021-01-05 13:57:07__
-
-> I got it it never went off. I was thinking it was should notify me if near someone with COVID-19.<br> :date: __2020-12-31 18:38:30__
-
-> A 5-year-old can't even figure this out and I'm a freaking 7-year-old and I wasn't able to figure this out literally wants you to set up and I do not want to set up<br> :date: __2020-12-30 01:01:03__
-
-> This app does not allow me to enable the alert feature. Bummer<br> :date: __2020-12-28 16:35:06__
 
 

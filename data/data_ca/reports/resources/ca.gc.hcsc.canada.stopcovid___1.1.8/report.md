@@ -146,25 +146,25 @@ The COVID Alert - Let’s protect each other app has been installed by more than
 <img src="5_star_reviews_wordcloud.png" alt="ca.gc.hcsc.canada.stopcovid 5 reviews"/>
 </p>
 
+> I find it is a great app to have makes you feel reassured that no one is close to you with the virus!<br> :date: __2021-02-03 17:59:40__
+
+> The dawyne Johnson rock<br> :date: __2021-02-03 16:39:50__
+
+> Perfect app<br> :date: __2021-02-02 18:09:01__
+
+> easy<br> :date: __2021-02-02 00:51:18__
+
+> Seems to work. Never been exposed yet anyway.<br> :date: __2021-02-01 16:50:05__
+
+> Looks like it does what it's supposed to on both Samsung and iPhone.<br> :date: __2021-02-01 15:21:42__
+
+> I love it<br> :date: __2021-02-01 00:26:53__
+
+> Very useful<br> :date: __2021-01-30 21:31:03__
+
+> The app sucks apparently but at least they tried. Good job canadian government! 😅<br> :date: __2021-01-30 04:54:24__
+
 > Its good but only works when others have the app too<br> :date: __2021-01-29 03:55:57__
-
-> I'm very happy knowing that I will be contacted if exposed.<br> :date: __2021-01-28 12:10:20__
-
-> Great so far, feel more protected already. science and technology!🤘<br> :date: __2021-01-27 19:36:03__
-
-> I love it<br> :date: __2021-01-24 10:08:08__
-
-> Lightweight, does not slow my phone down, minimal data collected. Far better to have this in your pocket than not, the more citizens use it, the better it gets.<br> :date: __2021-01-21 22:02:01__
-
-> Good<br> :date: __2021-01-21 17:16:48__
-
-> I'm using a four year old bucket droid, does not impact battery. 🤙<br> :date: __2021-01-21 04:02:28__
-
-> Turning bluetooth off and back on disables the app, at least on my device. I need to open the app and reactivate it manually everytime bluetooth has been disabled momentarily. Edit : Issue was fixed in December update. App works great now.<br> :date: __2021-01-20 15:36:39__
-
-> I love the fact that our country will work to get virus dealt with, but I will always remember that they were the very people that sent covid 19 onto our Fair planet in the first place.<br> :date: __2021-01-19 04:57:40__
-
-> Hopefully more people in Ontario install it.<br> :date: __2021-01-18 01:11:45__
 
 
 
@@ -174,9 +174,9 @@ The COVID Alert - Let’s protect each other app has been installed by more than
 <img src="4_star_reviews_wordcloud.png" alt="ca.gc.hcsc.canada.stopcovid 4 reviews"/>
 </p>
 
-> Gettting alert<br> :date: __2021-01-22 14:41:58__
+> Samsung S8 Android 9, Covid 1.1.8 Seems to check consistently after changing Settings>apps>special access> optimize battery usage > turn off for Covid alert<br> :date: __2021-02-01 02:07:00__
 
-> Samsung S8 Android 9, Covid 1.1.6 Seems to check consistently after changing Settings>apps>special access> optimize battery usage > turn off for Covid alert<br> :date: __2021-01-19 05:51:10__
+> Gettting alert<br> :date: __2021-01-22 14:41:58__
 
 > Like many others, I was pretty disappointed to find out that despite what this page says, it DOES require your device GPS/location services to be on. As soon as I turned it off, this app produces a warning that "Covid-19 alert is off". When you turn it on, it says "your phone needs to use Bluetooth to securely collect and share random IDs with other phones...", but then when you click continue, it says, "turn on the device location settings"... "The device location settings needs to be on for Bluetooth to detect nearby devices that have exposure notifications on...." So, no matter what you do, this app requires both Bluetooth AND GPS. Aside from that... we're in a pandemic and there are worse things to worry about, so I still encourage people to use it as it does help save lives and stop Covid.<br> :date: __2021-01-13 10:25:43__
 
@@ -202,6 +202,10 @@ The COVID Alert - Let’s protect each other app has been installed by more than
 <img src="3_star_reviews_wordcloud.png" alt="ca.gc.hcsc.canada.stopcovid 3 reviews"/>
 </p>
 
+> The app is fine on my Samsung A10 but I can't download it to my husband's Samsung 4 which is an older model Android. Is there a version that will work with this phone?????<br> :date: __2021-02-06 08:16:15__
+
+> 22s<br> :date: __2021-01-30 16:22:45__
+
 > I have been trying to get my one time code for testing positive. It is still not available five days later please help me. I have gone to the Ontario website multiple times. I guessing I am not the only one.<br> :date: __2021-01-24 01:10:23__
 
 > Not enough people using the app. Have been to various places with outbreak without any notice form the app.<br> :date: __2021-01-23 07:02:40__
@@ -218,10 +222,6 @@ The COVID Alert - Let’s protect each other app has been installed by more than
 
 > I just heard that COVID Alert fails to work in British Columbia, Canada.<br> :date: __2021-01-06 07:42:45__
 
-> Doesn't work for me, keeps demanding an update to Google play services which doesn't appear valid. Google pixel 2, all updates. Edit: everything was up to date, app and play services. Did a force stop on the app and it's working now.<br> :date: __2021-01-05 16:49:14__
-
-> With other countries deciding to recycle contact tracing info into other uses, uninstalled as a precaution.<br> :date: __2021-01-05 15:43:07__
-
 
 
 #### 2-star reviews
@@ -229,6 +229,8 @@ The COVID Alert - Let’s protect each other app has been installed by more than
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="ca.gc.hcsc.canada.stopcovid 2 reviews"/>
 </p>
+
+> Battery Hog. I want to use it but my phone just dies to quickly<br> :date: __2021-02-04 19:12:56__
 
 > I have tried to install this app several times. After I log in, I always get a message that "Something went wrong on our end. Please try again."<br> :date: __2021-01-23 15:09:21__
 
@@ -248,8 +250,6 @@ The COVID Alert - Let’s protect each other app has been installed by more than
 
 > Just writing a review to report an issue. My phone stopped doing exposure checks 3 days ago (4 Jan 2021). Looks like that coincides with an update. I think something broke. Running on Android 8.0.0<br> :date: __2021-01-07 20:00:22__
 
-> I see a comment from Dec 30th that the major flaw is that location settings need to be on. The response from the developer is that the user just needs to update the app. I just installed it (Jan 7th) and it is asking for location settings to be on. ...Not sure what the developer means, if I don't turn on the location, the app will not run.<br> :date: __2021-01-07 18:12:26__
-
 
 
 #### 1-star reviews
@@ -258,24 +258,24 @@ The COVID Alert - Let’s protect each other app has been installed by more than
 <img src="1_star_reviews_wordcloud.png" alt="ca.gc.hcsc.canada.stopcovid 1 reviews"/>
 </p>
 
+> There have been MULTIPLE confirmed covid cases within my job, and my app never notified me at all. It's useless<br> :date: __2021-02-05 14:21:55__
+
+> Not useful I work in a community based setting there was a outbreak some of the staff got a notice through the app but everyone that is not apple device user did not<br> :date: __2021-02-04 14:06:33__
+
+> A whole year into this and we still can't report in BC. What is wrong with this?<br> :date: __2021-02-04 07:35:12__
+
+> This app has being a MASSIVE pain... Even with all the updates, it still randomly locks up or crashes my phone. As well as disrupting my Bluetooth headset randomly when a lot of cars drive by.<br> :date: __2021-02-03 16:56:10__
+
+> Had to uninstall it because it was stopping me from adding new Bluetooth devices to my phone.<br> :date: __2021-02-02 07:59:51__
+
+> Waste of battery and storage. As long you are mindful of your interactions, hand washing/sanitizing, and mask wearing, you're good. I work in a designated assisted living facility and we never have any case and my family never have any exposure. You don't need this app. Just assume everyone and anyone is contagious and maintain your distance and practice good hygiene<br> :date: __2021-02-02 05:12:24__
+
+> Doesn't do anything. Was at several places with confirmed cases but never showed exposure.<br> :date: __2021-02-02 04:17:19__
+
+> The app doesn't seem to be working anymore. I have uninstalled and reinstalled the app. Tried force stop and reopened app. When I go to the exposure notification. I don't have a log. I have Android 11. My Bluetooth and location is on.<br> :date: __2021-01-31 01:35:10__
+
+> Global reset agenda.<br> :date: __2021-01-30 06:31:05__
+
 > I spent 12+ hours in a major metropolitan healthcare setting, with multiple positive individuals around me. Not a single notification. Is it that the app isn't being used by people or, just as likely, is it yet another expensive, useless government project? Either way, it's clearly garbage. App deleted, since it obviously doesn't work as advertised. Edit: Dev's response proves my point. Either it's not being used or it simply does not work.<br> :date: __2021-01-29 21:46:48__
-
-> An update was done and now I cant login. I put my email in to get a code sent to me and nothing gets sent.<br> :date: __2021-01-29 14:01:47__
-
-> Useless in Alberta<br> :date: __2021-01-27 13:48:44__
-
-> Covid doesn't exist so no point<br> :date: __2021-01-27 02:49:00__
-
-> I thought this app was supposed to alert you of covid cases in your area according to the Canadian government website. Apparently Edmonton Alberta is not in Canada? As the app States it does not work in this area oops I think it's pretty silly that Google Play will only allow you to write a review if you give it a star. I gave it a star but it's fake I don't mean it lol the app waste of space on one's phone if it doesn't work in your own province.<br> :date: __2021-01-26 23:52:59__
-
-> At first I gave this a five-star review because I think it's extremely important, however, a few people I know have been in contact with somebody who tested positive and all of Ontario's test centers turned them away. What is the point of a tracing app if people who have been in contact with people who have tested positive are not allowed to be tested? This app is essentially useless now. Great job, government. Can't be any more incompetent.<br> :date: __2021-01-25 17:55:02__
-
-> I fully support the reason for this app. However, what's the point if it won't even do its job? I was standing RIGHT NEXT to someone who was positive for covid and my phone gave me absolutely NO INDICATION that I had been exposed. So what's the use of this app??????<br> :date: __2021-01-23 21:00:47__
-
-> Covid is a scam<br> :date: __2021-01-22 08:05:57__
-
-> It's a good app, but it has a major flaw: it depends on people reporting that they have a positive covid test in order for it to work. There are many articles that reported almost no one who has tested positive actually reported on the app. This app is next to useless. Save your storage space<br> :date: __2021-01-20 00:27:02__
-
-> Why does it need Bluetooth? Doesn't seem to make sense that it would NEED Bluetooth to function and drain battery... Plus it's not even compatible in Coquitlam... 314+ days after pandemic confirmation...<br> :date: __2021-01-19 19:54:30__
 
 

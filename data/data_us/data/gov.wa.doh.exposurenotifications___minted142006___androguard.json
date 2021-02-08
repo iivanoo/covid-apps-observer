@@ -1,0 +1,27 @@
+{
+    "permissions": [
+        "android.permission.INTERNET",
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.BLUETOOTH",
+        "android.permission.WAKE_LOCK",
+        "android.permission.FOREGROUND_SERVICE"
+    ],
+    "activities": [
+        "com.google.android.apps.exposurenotification.home.ExposureNotificationActivity",
+        "com.google.android.apps.exposurenotification.settings.ExposureAboutActivity",
+        "com.google.android.apps.exposurenotification.notify.ShareDiagnosisActivity",
+        "com.google.android.apps.exposurenotification.settings.AppAnalyticsActivity",
+        "com.google.android.apps.exposurenotification.settings.PrivateAnalyticsActivity",
+        "com.google.android.apps.exposurenotification.settings.AgencyActivity",
+        "com.google.android.apps.exposurenotification.settings.LegalTermsActivity",
+        "com.mikepenz.aboutlibraries.ui.LibsActivity",
+        "com.google.android.gms.common.api.GoogleApiActivity"
+    ],
+    "urls": [
+        "http://schemas.android.com/apk/res/android",
+        "https://play.google.com/store/apps/details?id=%s",
+        "https://plus.google.com/",
+        "http://schemas.android.com/apk/res-auto"
+    ]
+}

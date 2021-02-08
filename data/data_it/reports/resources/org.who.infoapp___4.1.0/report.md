@@ -188,6 +188,8 @@ No recent reviews available with 2 stars.
 <img src="1_star_reviews_wordcloud.png" alt="org.who.infoapp 1 reviews"/>
 </p>
 
+> Private organization. Deciding world's policies...🤔<br> :date: __2021-01-30 17:24:21__
+
 > Non ce l'italiano..<br> :date: __2020-11-21 17:13:12__
 
 > Fatelo anche in italiano grazie<br> :date: __2020-10-18 21:06:47__
@@ -205,7 +207,5 @@ No recent reviews available with 2 stars.
 > Inutile...<br> :date: __2020-05-25 12:15:14__
 
 > Io non conosco l'inglese non si potrebbe averla in italiano visto che siamo in Italia ?<br> :date: __2020-04-24 23:15:26__
-
-> Non funziona<br> :date: __2020-04-19 18:22:27__
 
 

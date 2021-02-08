@@ -132,6 +132,8 @@ The COVID Alert CT app has been installed by more than **100000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="gov.ct.covid19.exposurenotifications 5 reviews"/>
 </p>
 
+> Everyones<br> :date: __2021-01-31 12:48:10__
+
 > Simple app. 5 stars because it works but more people need to download. Stop uninstalling because there is not enough people. Install and let it work. Only need to do something if you test positive.<br> :date: __2021-01-25 02:49:04__
 
 > Great<br> :date: __2021-01-13 22:30:19__
@@ -149,8 +151,6 @@ The COVID Alert CT app has been installed by more than **100000** times. At this
 > Goodapp<br> :date: __2020-12-06 21:16:46__
 
 > The best thing that ever came out<br> :date: __2020-12-03 14:20:19__
-
-> Great<br> :date: __2020-12-03 05:08:31__
 
 
 
@@ -234,7 +234,9 @@ The COVID Alert CT app has been installed by more than **100000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="gov.ct.covid19.exposurenotifications 1 reviews"/>
 </p>
 
-> Why can't I use this with another COVID exposure notification app? I live near both CT and NY. This should definitely be something to consider. It says when you have 2 different states apps that you must choose 1 and that both will not alert you. Only the one you select. Your response is false. My phone says it can only use notifications from one COVID app. I'd be happy to send a screenshot.<br> :date: __2021-01-28 01:18:21__
+> I cant use it on my Huawei mobile...<br> :date: __2021-02-01 07:04:59__
+
+> BEWARE!! EATS UP BATTERY !!<br> :date: __2021-01-31 08:37:46__
 
 > No. Evil. After response: affirmed evil.<br> :date: __2021-01-27 14:25:57__
 
@@ -251,7 +253,5 @@ The COVID Alert CT app has been installed by more than **100000** times. At this
 > It's my job to be next to people with the 'Rona and not once have I gotten an alert.<br> :date: __2021-01-09 03:44:53__
 
 > This App does nothing, I have been in contact with several people who had tested positive for COVID and this app did not alert me to anything.<br> :date: __2021-01-07 22:50:37__
-
-> Deficiencies with this app. A. Not everyone in Ct. has this installed on their cell phone. B. Not everyone that tests positive is reporting it. There's been 2 ppl at work that recently tested positive and this app never alerted me.<br> :date: __2021-01-06 14:02:57__
 
 

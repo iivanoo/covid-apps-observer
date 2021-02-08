@@ -220,6 +220,8 @@ The GuideSafe app has been installed by more than **50000** times. At this time,
 <img src="2_star_reviews_wordcloud.png" alt="gov.adph.exposurenotifications 2 reviews"/>
 </p>
 
+> As others have stated, when first downloaded this past fall, it notified me of possible exposures. However since December 16, it has been inactive. I have restarted the phone, checked and updated settings, still it shows Dec 16. I was really excited about this app only to be disappointed after a few months.<br> :date: __2021-01-30 01:52:12__
+
 > My last update is from December 17th, 2020. I don't see an option to manually refresh/check.<br> :date: __2021-01-24 22:08:22__
 
 > App is not "CHECKING " on a daily basis. Last time checked shows December 13??<br> :date: __2021-01-18 18:15:29__
@@ -240,6 +242,16 @@ The GuideSafe app has been installed by more than **50000** times. At this time,
 <img src="1_star_reviews_wordcloud.png" alt="gov.adph.exposurenotifications 1 reviews"/>
 </p>
 
+> Reminds me to turn BT and location without fail so I always activate while in public but Samsung Android app says last check was Nov 21, 2020 no matter what....sooo honestly have no idea if it's been working correctly or not.<br> :date: __2021-02-05 13:11:28__
+
+> Not worth it<br> :date: __2021-02-04 19:11:10__
+
+> Just like wearing a mask some do not want there rights being taken from them so this site only works as those who are positive fill out the notice . So its a honor system and so far i did not get one notification.So I am thinking most do not report positive results and do not trust it.<br> :date: __2021-02-04 00:11:11__
+
+> I tested positive and reported it through the app. My husband STILL has not received an exposure notification 4 days later.<br> :date: __2021-02-03 00:24:41__
+
+> As far as dumb and useless apps go, this one definitely takes the cake.<br> :date: __2021-02-01 05:37:56__
+
 > Doesn't seem to work. Exposure hasn't been checked since Nov and I don't see anyway to force it to check.<br> :date: __2021-01-29 04:07:05__
 
 > It stopped working. The last report was over 6 weeks ago.<br> :date: __2021-01-27 13:36:45__
@@ -249,15 +261,5 @@ The GuideSafe app has been installed by more than **50000** times. At this time,
 > Nice concept but completely stopped working. Also probably not enough users to be worthwhile even when it was functioning.<br> :date: __2021-01-12 12:53:38__
 
 > It didn't do anything I had the Virus and it didn't go off<br> :date: __2021-01-12 01:30:58__
-
-> Does not work. Does not check for exposure<br> :date: __2021-01-11 22:20:13__
-
-> When I first installed the app, it checked about once a day for exposure. Then it stopped checking. The last time it checked was the middle of December. I uninstalled and reinstalled several days ago, and even though I occasionally see downloads related to the app, it still says 'exposure never checked'.<br> :date: __2021-01-09 01:34:05__
-
-> This app does not work. As soon as I put my phone number in, it will reroute to my school's home page and it keeps doing this repeatedly even when I restart my phone or uninstall the app and reinstalled it back.<br> :date: __2021-01-07 01:50:43__
-
-> Won't let me report a positive test<br> :date: __2021-01-01 02:38:03__
-
-> This app is pretty much inert. Not enough people using it.<br> :date: __2020-12-31 16:02:49__
 
 

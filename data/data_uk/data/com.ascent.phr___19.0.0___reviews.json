@@ -1,5 +1,41 @@
 [
     {
+        "reviewId": "gp:AOqpTOED-xuGk78TCCQg4bYgRPo-or-d9cv4nj36Fcgpi3XDuC98m43Po0tMpX4SBgvykVrAKyHRvj7K5kDpxw",
+        "userName": "PK GraffGlass",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjMQ9dscg340E7vFJyReOSCmQaVNdW4MWg2L4jk",
+        "content": "Seems to not ever load the prescriptions section which was the main reason I got it.",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "19.0.0",
+        "at": "2021-02-02 00:17:09",
+        "replyContent": "Please email us at hello@evergreen-life.co.uk or call us on 0161 768 6063 - there could be a couple of different reasons that your prescription section is not loading, our support team will be able to check on your account to diagnose the issue for you.",
+        "repliedAt": "2021-02-02 11:26:55"
+    },
+    {
+        "reviewId": "gp:AOqpTOFsVmxFG063uPeBAFkGSbYV60gDWJuVo2FVw165OvoEQvg0mzlGwSikGXoXKsA_IMyD6HPS9z87KsZX0g",
+        "userName": "Colin Jones",
+        "userImage": "https://play-lh.googleusercontent.com/-JocVOKDl8NA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucme85h5Gczb37c24PMmOa_TfUy2EQ/photo.jpg",
+        "content": "Always easy to use and keeps you up to date at all times.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "19.0.0",
+        "at": "2021-01-31 19:05:27",
+        "replyContent": "We love to hear from our users, thanks for leaving this positive feedback. We're happy to hear that you are finding the services easy to use.",
+        "repliedAt": "2021-02-01 12:04:53"
+    },
+    {
+        "reviewId": "gp:AOqpTOFxvU42v8TyciSII0knyRvLi86aCamOAJ0hqjdC78Y4lUrhw9UTlcNH_Q8ly_7pAV0E1t1TTAW0P9quog",
+        "userName": "Philip Liu",
+        "userImage": "https://play-lh.googleusercontent.com/-UDYg4Ij_DWM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmecAypYvdnhVahCPD58nfFntRvsQ/photo.jpg",
+        "content": "very good",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "19.0.0",
+        "at": "2021-01-30 17:10:52",
+        "replyContent": "Thanks for taking the time to leave us a great review! We really appreciate the feedback.",
+        "repliedAt": "2021-02-01 12:03:32"
+    },
+    {
         "reviewId": "gp:AOqpTOFckjdCUWjpOpTn_cvR8sEHNArhjq9b2bkwLxYVb7nMxiQh81-KHerMyXiFj0P3IRI5_AJydW2QKXzO_w",
         "userName": "Stuart Hough",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GibcO5RyhWYacdfruFBajbg3utkqEHNjy4RUvf2v6s",
@@ -245,7 +281,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-L8ZHpmPdSwQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckzDI0vZhDkzak6kXR3s1ikRdLDew/photo.jpg",
         "content": "Support staff are wonderful, patient but latest app is not easy to navigate & when I finally manage to find where to order medications, I get repeated notifications about the message box having 'special characters' even when it's blank. Seriously, I've wasted hours on different days reloading the app, try typing a sentence or removing it. I've only a few days of meds left. I've tried again, done exactly the same & got error notification & leaving then coming back, it's accepted! Bizarre",
         "score": 1,
-        "thumbsUpCount": 4,
+        "thumbsUpCount": 6,
         "reviewCreatedVersion": "19.0.0",
         "at": "2021-01-07 14:48:17",
         "replyContent": "Hi Jill, we are glad to see you managed to make an order. If you experience this again please do get in touch with our customer support team on 0161 768 6063 or you can email them at hello@evergreen-life.co.uk",
@@ -1237,8 +1273,8 @@
     },
     {
         "reviewId": "gp:AOqpTOFmggEXa_Os-tCfW8wzM3x0cI7C4dsnnX_zWRzjllPoU2YNT2Dzad_CUu3PjysBltjoI3aE8T6DyCAb6g",
-        "userName": "Victoria Finney",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiFPhZb-tL7JKuXGWUfk8y2lfSevuljsa4TjRKPSg",
+        "userName": "Fleegle The dog",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhfhvONzRuVeuGRYkgk4RKuiiaEAAiSXj7LQBV2Ug",
         "content": "I love this it's easy to use and i can make appointments and i can order my prescriptions without going the doctors",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1322,7 +1358,7 @@
     {
         "reviewId": "gp:AOqpTOGFXvh_uquxr5cN571Fj3XnVSxeaHbXRnbolKWjiaU1cltYF3VK3LOvAhi1VXL0dAY4bAzABKSgD9lXuw",
         "userName": "Tracey Fish",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi1ayQkab4FTBVMOa0yKrg3gNk9VTtRORoiCFXMLQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhNrHx98cY32l0QrR3oxl06wR3RRC1igy492BW2nA",
         "content": "doesn't allow to log in",
         "score": 2,
         "thumbsUpCount": 0,
@@ -1945,7 +1981,7 @@
     },
     {
         "reviewId": "gp:AOqpTOFt2A1qhihOe7hpLTO27VuzYF0tYCWE9oRkTnyXnOH5tA_st3owjfHFKOXnvEFq9gUnV4I6F9dZckzOBw",
-        "userName": "Merja Sukanen",
+        "userName": "Mer Suk",
         "userImage": "https://play-lh.googleusercontent.com/-wJ6Dj2oSOo4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmv5oL6IIAIcC_aJe_844ImWLscQQ/photo.jpg",
         "content": "Finger print password does not work and it's the default setting",
         "score": 1,
@@ -7790,7 +7826,7 @@
     {
         "reviewId": "gp:AOqpTOHpDSqjeE6KFMH5YsZ-sQicSlczcs5UFCu-otnyz7tAnInFebvj6zptO17i-Ptidbp-a8bP4Pk5BF2Q4Q",
         "userName": "Kathleen Stocks",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gjh102fQpFc7neTdfhaH16ay-7h40P2yLPShoHGXQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh0iG-8V2FvJ5QP_sSFUkf3IqGTj7BmS-8ED7J6Zw",
         "content": "Always quick & easy to use, order prescriptions, no problems.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -11962,41 +11998,5 @@
         "at": "2019-04-29 09:06:36",
         "replyContent": "Thank you for your review!",
         "repliedAt": "2019-05-01 15:48:30"
-    },
-    {
-        "reviewId": "gp:AOqpTOGv2kgu0hm7nvGG3CKSeUa7Vci5DHn1l5tUoQ2uRhMIBswGIeX9_XqYL33xKPPthhJyCU6mL0-2j-1mkw",
-        "userName": "Mike Robinson",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiAwJfzk_S2w0cPnIsTSrWRFNTHPvLivuKKmQ_G86g",
-        "content": "has the potential to very useful, but falls down in a number of key areas. 1) log on sometimes doesnt work. often lets me into the app without authentication, then asks for authentication while using it. 2) wellness check is prompted, but clicking on the alert, or the link doesnt work 3) not all GP surgeries are signed up to allow for full feature access, which means half the benefits of this app are not realised because of local GP surgery buy in.",
-        "score": 2,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "11.0.9",
-        "at": "2019-04-28 19:14:54",
-        "replyContent": "Thank you for your review. We really appreciate honest feedback. If you could contact our support team on 0161 768 6063 or hello@evergreen-life.co.uk an agent will be keen to help go through the issues you have raised.",
-        "repliedAt": "2019-05-01 15:45:51"
-    },
-    {
-        "reviewId": "gp:AOqpTOEMFeyl2d0BjaeYpwWddWaJaOdzsU2wppEb9ErBnYcwXFuEFx9vB0FH9mJU8NLArZQBOXLcsnurQHaB-w",
-        "userName": "E Harrison",
-        "userImage": "https://play-lh.googleusercontent.com/-aK2m214zBns/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucncjfp82gjSuf3FySe-LwpMwRVi1A/photo.jpg",
-        "content": "Good response to my concerns so uprated .. but would be nice if web based access is more visible as an option. .....Concern - Don't want an app. Just want to access a service without being sold yet more services & products. Not happy to give up memory space to something I don't use on regular basis. Don't care how good the user interface is. The initial download and no doubt regular updates will simply grow the memory need ... all to support an app that will try to sell me more services.",
-        "score": 3,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": null,
-        "at": "2019-04-26 21:39:45",
-        "replyContent": "I am very sorry to hear you are unhappy with this and I appreciate your point. You don't need to download and use the app if you don't want to. You can still use the website portal - log in here - https://e-life.co.uk/login. If you wish to speak to a support agent please contact us on 0161 768 6063 or hello@evergreen-life.co.uk",
-        "repliedAt": "2019-04-26 16:46:14"
-    },
-    {
-        "reviewId": "gp:AOqpTOElUQSfi7BIYCqKQLFWqPRBMLYIeHCgKhKvq0PngWJGlgIzAf_1meAn4WOiKN94pldmrcHf8ulXgsLRWA",
-        "userName": "Emma Clarke",
-        "userImage": "https://play-lh.googleusercontent.com/-kRCIix5_LyY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl5SGTUVgBxWlSIeaxWzPm34P0HOA/photo.jpg",
-        "content": "very good,and easy to use",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "11.0.9",
-        "at": "2019-04-25 22:38:01",
-        "replyContent": "Thank you for your kind review!",
-        "repliedAt": "2019-04-26 16:20:04"
     }
 ]

@@ -179,6 +179,8 @@ The Herne-App  - offizielle App der Stadt Herne app has been installed by more t
 <img src="5_star_reviews_wordcloud.png" alt="de.bluebox.herne_app 5 reviews"/>
 </p>
 
+> Gute Idee, aber ich möchte die Funktion haben, dass ich nach Bereichen suchen kann und mir ein Ansprechpartner angezeigt wird. Des Weiteren wäre ein Darkmode super!<br> :date: __2021-02-03 16:09:13__
+
 > Top!<br> :date: __2020-12-19 10:52:32__
 
 > Eine wirklich tolle, gelungene und Aussagekräftige App. Funktioniert wunderbar. Verdiente 5 Sternchen 😊👍<br> :date: __2020-04-25 14:21:03__
@@ -238,6 +240,8 @@ The Herne-App  - offizielle App der Stadt Herne app has been installed by more t
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="de.bluebox.herne_app 1 reviews"/>
 </p>
+
+> Mängelmelder gibt immer eine Fehlermeldung aus. Unbrauchbar<br> :date: __2021-02-03 17:57:28__
 
 > Funktioniert nicht so toll versuche einen Online Termin zu vereinbaren klappt aber seit Tagen nicht<br> :date: __2020-08-03 22:41:17__
 

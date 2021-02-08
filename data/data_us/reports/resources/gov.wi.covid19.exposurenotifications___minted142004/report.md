@@ -126,6 +126,8 @@ The WI Exposure Notification app has been installed by more than **100000** time
 <img src="5_star_reviews_wordcloud.png" alt="gov.wi.covid19.exposurenotifications 5 reviews"/>
 </p>
 
+> Great idea, we all should use this. I'm promoting it to everyone I know.<br> :date: __2021-02-02 03:32:47__
+
 > I like this spp.<br> :date: __2021-01-27 00:35:43__
 
 > I love this App it helps let's me if someone else who has covid-19 this is a cool app to use in case if someone else is exploded to cov-19.<br> :date: __2021-01-19 02:43:14__
@@ -143,8 +145,6 @@ The WI Exposure Notification app has been installed by more than **100000** time
 > This app fits under the heading 'civil responsibility.' If you care about your family, neighbors and community, you will add this to your phone to help keep them and you safe until we can all get this virus under control.<br> :date: __2020-12-30 17:48:56__
 
 > I wear a mask because I am a patriot and I care about all lives. Historically Americans provide aid globally for weak and vulnerable, its about time we put America first. Wear your mask. I downloaded this app because I am a patriot and I care about all lives. Using this app may provide valuable exposure information. It will give information to help people know to get tested, to quarantine, or to seek treatment. 2 small steps can save the lives of the vulnerable. That IS the America way!<br> :date: __2020-12-30 15:53:31__
-
-> So glad to have this!<br> :date: __2020-12-29 16:11:14__
 
 
 
@@ -196,7 +196,7 @@ The WI Exposure Notification app has been installed by more than **100000** time
 <img src="1_star_reviews_wordcloud.png" alt="gov.wi.covid19.exposurenotifications 1 reviews"/>
 </p>
 
-> Until you actually look at the programming and coding. Dont talk to me. Metadata miners<br> :date: __2021-01-20 13:49:26__
+> THIS APP DOES GATHER AND STORE INFORMATION, HOW ELSE ARE THEY GOING TO IDENTIFY YOU? I love how dumb they make it appear.<br> :date: __2021-02-01 12:45:01__
 
 > It keeps telling me to turn on my bluetooth yet somehow my bluetooth will not turn on. I have uninstalled it.<br> :date: __2021-01-18 05:10:45__
 

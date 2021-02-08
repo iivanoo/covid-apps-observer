@@ -1,5 +1,17 @@
 [
     {
+        "reviewId": "gp:AOqpTOHqW14PtKZ-Nsb10jnfPwowj6UUREooE3MBy9oCDTOpcKeBQu20loIkQcQ_hRF63ijxVkXc4Uf3WHT_UiM",
+        "userName": "Ken Rowe",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiJyyFx2x8373AMF77mG8d8VRNoWM0C6zF6V7hR",
+        "content": "Still learning",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.01.08",
+        "at": "2021-02-01 18:10:39",
+        "replyContent": "Thanks for the review, Ken! If you have any feedback on how we can improve, please don't hesitate to contact us at support@livehealthily.com. Thank you.",
+        "repliedAt": "2021-02-03 12:53:19"
+    },
+    {
         "reviewId": "gp:AOqpTOHrmw39xzRzuCvmxZMBlaVV9xIh4PzHNDs5p0fu65BXo9QEMW64EFfQjTftJwxuKDmOJ-EOjuR3t2blD88",
         "userName": "Jim Ford",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj9fvliAHDHkRcWw3Z5I4qolVxK-cgMPv-KSsBq",
@@ -8,8 +20,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.01.08",
         "at": "2021-01-29 20:37:49",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thanks for your review, Jim. We absolutely love hearing feedback from our users and it's great that you like the app. If you have any more suggestions please email us at support@livehealthily.com. Thanks again!",
+        "repliedAt": "2021-02-03 12:51:26"
     },
     {
         "reviewId": "gp:AOqpTOE9d9p10YQHpLeZjMS5nbYzusNxkokjBhedh7Iu0_EWpSlrhZ7agCbtPavTYEiOwx8ncRznBzSg2HCrYEQ",
@@ -229,8 +241,8 @@
     },
     {
         "reviewId": "gp:AOqpTOE46zJpGGwqbM2rhcH0iBnjwq5ML58emMLq2GC_CgyeGCz6oe17Md8KQif5D6KeyTJjCn2TcmsLUPCDe9U",
-        "userName": "Jeanette",
-        "userImage": "https://play-lh.googleusercontent.com/-QlsVHV-pmug/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmJynJufY1PYIePdSnPI1weuEvvGw/photo.jpg",
+        "userName": "Jazmin",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgS3oy0Oa3ux7AjI31NkfjCNXSK50wiTv2DhSdE9uI",
         "content": "it's great to determine if you need to go to the Dr, so easy to overlook symptoms but this app makes me look at the whole picture",
         "score": 5,
         "thumbsUpCount": 1,
@@ -1118,7 +1130,7 @@
     {
         "reviewId": "gp:AOqpTOFciYKAXvkGSqyvWkcu9DDcNyNlq_tdzd0HFjjuCLPuSFu53w3qT6ae5AYT8piQLFE26xlfPB8dDb3rX2M",
         "userName": "Ritesh Kasture",
-        "userImage": "https://play-lh.googleusercontent.com/-8QKhGZAOM8c/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckXaR0q53vzsqngXTQTXkBA0FZiIg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg8JoBtOjQtxL7_PK6KgonLgAFb038Gxv9xdA-TXw",
         "content": "loved it so much\ud83d\ude18\ud83d\ude18 give very much info on health and very good tips. Extremely helpful",
         "score": 5,
         "thumbsUpCount": 3,
@@ -2210,7 +2222,7 @@
     {
         "reviewId": "gp:AOqpTOH2tAk3K2t_286kEpjyILyCrOHEy_YHZNpDTeil2ZB_oIIChim6c9s-Dk9voru6zcQWORgt3F5Lk3xQdl8",
         "userName": "hiren ahir",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjPIjiOTEEgsLiymrREbj5G4b8C0i0sfuv4bpKe0Q",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh32TJJKZhaAlHF27PXnnm5Xd_rfyLkUW8l3LHngA",
         "content": "\u0932\u0947\u0902\u0917\u094d\u0935\u0947\u091c kese chenj hoti he",
         "score": 1,
         "thumbsUpCount": 2,
@@ -3149,7 +3161,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiBMJtQRGZNikwwnrxp55oKqxBUFoqsR-dwmBu7N0M",
         "content": "It's helpful but I still doesn't get it when it says. Emergency, need to consult a doctor as soon as possible.?",
         "score": 5,
-        "thumbsUpCount": 36,
+        "thumbsUpCount": 37,
         "reviewCreatedVersion": "3.4.2",
         "at": "2019-04-12 19:22:35",
         "replyContent": null,
@@ -3464,18 +3476,6 @@
         "thumbsUpCount": 5,
         "reviewCreatedVersion": "3.3.8",
         "at": "2019-02-26 04:36:38",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOFbfuiAH7wkPZCyf_Nx3eHcvQBTfXztRcDcSRCRFm7mP3zN7zEeTpyXwsvVEu9itxsfWNeZ4QgeHUFxNHs",
-        "userName": "RABINDRA DUBEY",
-        "userImage": "https://play-lh.googleusercontent.com/-GttzYbN3CMU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmowiof2HJcjuK_CF8xkhJmg46wWQ/photo.jpg",
-        "content": "Best app for health ,very informative app ,thanks \ud83d\ude0e",
-        "score": 5,
-        "thumbsUpCount": 9,
-        "reviewCreatedVersion": "3.3.7",
-        "at": "2019-02-24 13:39:14",
         "replyContent": null,
         "repliedAt": null
     },
@@ -8845,7 +8845,7 @@
     },
     {
         "reviewId": "gp:AOqpTOHiYyCS0hjCK9KgaY4GxiaTXcDu-nMjI5jqCjzFrIxv6JL_f880SEW0SJw8h60op-TxuFgu2ZmqOByw-Q4",
-        "userName": "Ranjith P B com PA",
+        "userName": "1U20BP045 Ranjith .P",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Giq65PBSnp-bhtrbNz-71zmODbLH6lkNNTmdbATNA",
         "content": "Super",
         "score": 5,
@@ -9673,7 +9673,7 @@
     },
     {
         "reviewId": "gp:AOqpTOEiSWrS_WIGjDfIv2OH1Lu2b6GAO6m-TC8ZAiEfc4WG2d4uphovgA-fdIBVTc7YpsZooGIWIvVfHms3YFI",
-        "userName": "Zakx Darma",
+        "userName": "Stories & Poetries",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GipXKBlLtXfKjrzETxjEiRuFZOkQY-c_ZbYIAWSyQ",
         "content": "Ood",
         "score": 5,

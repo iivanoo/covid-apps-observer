@@ -127,6 +127,8 @@ The NHS 24 : Covid-19 and flu information app has been installed by more than **
 <img src="5_star_reviews_wordcloud.png" alt="scot.nhs24.coronavirus 5 reviews"/>
 </p>
 
+> Have symptoms.<br> :date: __2021-02-04 02:33:24__
+
 > Straight forward to use and no nonsense answers to questions<br> :date: __2020-09-29 22:57:54__
 
 > This is an excellent app with key information relating to coronavirus. Everyone should download it. However, for all of the clueless wonders out there who cannot read and have left it One Star reviews because it doesn't trace, it's not supposed to trace. There is a specific, dedicated app for 'Test & Protect' in Scotland, and that is the new Scottish tracking app. Learn to read, and you may well have a better chance of doing what you need to do in order to avoid coronavirus.<br> :date: __2020-09-24 18:39:42__
