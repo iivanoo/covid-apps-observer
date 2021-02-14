@@ -174,25 +174,25 @@ The HealthEngine app has been installed by more than **500000** times. At this t
 <img src="5_star_reviews_wordcloud.png" alt="com.healthengine.android 5 reviews"/>
 </p>
 
-> It's a great way to book appointments (phone or in person) because of the convenience and ability to see doctors' available times!<br> :date: __2021-02-05 14:18:59__
+> Awesome and convenient<br> :date: __2021-02-13 08:04:24__
 
-> Easy to book doctor"s appointment<br> :date: __2021-02-05 07:45:32__
+> So easy to use and very convenient<br> :date: __2021-02-13 00:55:59__
 
-> Easy to use. Convenient. Simple<br> :date: __2021-02-05 03:14:59__
+> So easy to use and book appointments<br> :date: __2021-02-12 05:39:36__
 
-> Very good app.<br> :date: __2021-02-05 00:52:58__
+> Fantastic a real time saver<br> :date: __2021-02-12 05:20:58__
 
-> Very easy to use<br> :date: __2021-02-04 23:14:57__
+> Easy to use<br> :date: __2021-02-11 16:21:33__
 
-> Great app very usefull does exactly what it says love it<br> :date: __2021-02-04 11:44:50__
+> Really good<br> :date: __2021-02-11 05:45:19__
 
-> The app is straight forward and simple to use. I like the convenience of booking appointments at any time (before I forget to).<br> :date: __2021-02-04 11:08:33__
+> Very useful helps book appointments without the need to fill in all your details every time or call and speak to someone.<br> :date: __2021-02-11 02:20:44__
 
-> Easy to follow. Good to use. S11<br> :date: __2021-02-04 06:06:42__
+> Ok<br> :date: __2021-02-11 02:04:37__
 
-> Am happy<br> :date: __2021-02-04 00:03:44__
+> Great App, Super Easy to Navigate. Makes Booking Doctor's Appointments So Much Smoother and Easier !!!<br> :date: __2021-02-09 23:06:41__
 
-> Easy<br> :date: __2021-02-03 10:23:14__
+> Amazing hassle free<br> :date: __2021-02-08 16:09:30__
 
 
 
@@ -202,25 +202,25 @@ The HealthEngine app has been installed by more than **500000** times. At this t
 <img src="4_star_reviews_wordcloud.png" alt="com.healthengine.android 4 reviews"/>
 </p>
 
+> Easy to use and great 😊<br> :date: __2021-02-11 07:06:39__
+
+> Very good<br> :date: __2021-02-11 01:15:00__
+
+> Good so far<br> :date: __2021-02-10 08:36:33__
+
+> Happy with the easy use.<br> :date: __2021-02-09 09:34:17__
+
+> Good app works really well<br> :date: __2021-02-09 08:41:11__
+
+> Convenient way to book appointments without having to call a practice. The only downside is that search filter options could do with some improvement.<br> :date: __2021-02-09 00:18:24__
+
+> Good only had to scroll down to find next step made it confusing<br> :date: __2021-02-08 22:01:44__
+
 > I have been using this app for a while and it is so much better and quicker than contacting the medical practice via phone. Possible improvements: it would be great if there was a way to communicate through the app with the medical clinic to request longer appointments for example. It would also be handy to be able to change the type of appointment, for example changing from a standard consultation to a tlehealth one.<br> :date: __2021-02-02 13:52:23__
 
 > The app is easy to use and generally very useful. The addition of being able to add the scheduled appointment to Google Calendar has proven useful. Also fixed the DOB entry method. It is much easier. If I get a recall that says "select Results in the appointment type" but there is no "Results" type so I have to pick "General appointment". Also when checking a recall notice online you have to verify your date of birth with a calendar.<br> :date: __2021-02-01 02:46:48__
 
 > Easy and efficient, though I still enjoy phone calls and speaking to a human more.<br> :date: __2021-01-27 01:39:22__
-
-> Easy to use<br> :date: __2021-01-26 09:35:43__
-
-> Very informative<br> :date: __2021-01-25 15:51:31__
-
-> Happy with the service makes it easier to book a doctor when it suits me<br> :date: __2021-01-24 00:13:31__
-
-> This app has really stepped up from when it first began. Much better indeed.<br> :date: __2021-01-19 06:08:08__
-
-> Very good.<br> :date: __2021-01-16 01:59:52__
-
-> I am able to book for my doctor's appointment without fuss here<br> :date: __2021-01-13 08:52:33__
-
-> Easy to use<br> :date: __2021-01-13 06:44:10__
 
 
 
@@ -286,6 +286,8 @@ The HealthEngine app has been installed by more than **500000** times. At this t
 <img src="1_star_reviews_wordcloud.png" alt="com.healthengine.android 1 reviews"/>
 </p>
 
+> Doctor very rude and Nasty. Not recommended for older people!!!!<br> :date: __2021-02-13 06:44:28__
+
 > Will change to a better ratinh when I dont have to enter a passcode every single time I open the app.<br> :date: __2021-01-16 23:48:19__
 
 > I book my aappointment online and recieved confmation email and phone with Dr rupali sharp 12:pm afternoon on Monday 04/01/2121 . When I reached i am watting for one hour . After one hour I asked the question resepetionst how much I am watting for she said no idea still three more patient watting meet to Dr rupali before you .. I am surprised and ask resepetionst what you give me time 12.00pm if appionement not avaiable. She give me no any response. really very bad services. I never goi again<br> :date: __2021-01-04 04:30:05__
@@ -303,7 +305,5 @@ The HealthEngine app has been installed by more than **500000** times. At this t
 > Its will not load properly<br> :date: __2020-11-26 15:01:08__
 
 > Ive never actually been able to make appointments on this app with my clinic. Uninstalling, its just a waste of space<br> :date: __2020-11-24 21:15:15__
-
-> Cannot book appointments. Tried multiple times<br> :date: __2020-11-18 13:19:13__
 
 

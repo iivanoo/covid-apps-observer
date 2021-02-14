@@ -156,6 +156,8 @@ The Covid Watch Arizona app has been installed by more than **10000** times. At 
 <img src="4_star_reviews_wordcloud.png" alt="gov.azdhs.covidwatch.android 4 reviews"/>
 </p>
 
+> Seems to function okay but very few people know it exists and even fewer are using it. It can't be all that affective without a large number of people using it.<br> :date: __2021-02-08 19:48:02__
+
 > Today Update<br> :date: __2020-09-08 20:52:33__
 
 > I am going to give this a try<br> :date: __2020-09-02 08:55:19__

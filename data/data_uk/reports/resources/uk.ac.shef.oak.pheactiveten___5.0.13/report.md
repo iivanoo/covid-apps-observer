@@ -160,25 +160,25 @@ The One You Active 10 Walking Tracker app has been installed by more than **1000
 <img src="5_star_reviews_wordcloud.png" alt="uk.ac.shef.oak.pheactiveten 5 reviews"/>
 </p>
 
-> I check my walks each day to check I am keeping up my brisk pace. I like being able to look back at previous walks. The app is so easy to use, I am very happy with it🙂.<br> :date: __2021-02-06 08:56:31__
+> A great incentive to help you keep active.<br> :date: __2021-02-13 14:06:38__
 
-> Like this app very much.<br> :date: __2021-02-05 23:07:10__
+> Simply but effective way to encourage maintaining a brisk pace.<br> :date: __2021-02-13 09:24:34__
 
-> Enjoy using the active 10 - has changed the way I walk my dogs (more brisk walking less gentle strolling) and I feel better for. Has a whole different dimension to just counting steps.<br> :date: __2021-02-05 12:26:18__
+> Excellent App!<br> :date: __2021-02-12 14:42:38__
 
-> Helpful to encourage aerobic exercise, although my wife's gait is somewhat shorter (so slower) than mine.<br> :date: __2021-02-05 10:53:48__
+> One of the best app I'll added 10/10<br> :date: __2021-02-11 11:58:28__
 
-> Keeps me motivated<br> :date: __2021-02-04 23:20:10__
+> Makes me want to go out for a walk really enjoying the app<br> :date: __2021-02-10 18:45:57__
 
-> Love this App, it's really helping motivate me to leave the house in a time the world isn't massively motivated x<br> :date: __2021-02-04 18:18:24__
+> Useful to make sure you are getting the most health benefits from walking. Good motivation to get out every day. Enjoying having a daily goal to aim for and it spurs me to do an extra few minutes to make sure I get the next Active 10 trophy!<br> :date: __2021-02-10 10:41:37__
 
-> Tracks accurately, easy optainable goals, blog posts with useful information, very good!<br> :date: __2021-02-04 13:17:12__
+> It's motivating, I have only been using the app for just over a week, and I set myself daily challenges to do a bit more than the day before. It's easy to use, and u can see your progress. Whether ur walking for 10 mins a day, or going on an expedition, it's brilliant, and you feel good when u look at your progress. Highly recommended<br> :date: __2021-02-09 14:17:57__
 
-> Stopped working on 3rd day saying it couldn't retrieve my walk data🤔 However, we spoke, they listened, the app was improved and voila, all good now! Thank you. Using Noom also and their pedometer/walking tracking is poor. Perhaps you should share tech with than ...😊<br> :date: __2021-02-03 09:23:12__
+> Great little app<br> :date: __2021-02-09 13:31:28__
 
-> Get a buzz when I see my active 10s. Overall am increasing my walking. Feels worth running out to do ten mins round the block.<br> :date: __2021-02-02 19:05:35__
+> Use this app every day and found it really useful and makes me feel good knowing how well I have done.<br> :date: __2021-02-08 19:00:13__
 
-> This app motivates me and its good to see how much you have achieved at the end of the week<br> :date: __2021-02-02 14:40:09__
+> Works great, really motivating.<br> :date: __2021-02-08 17:09:42__
 
 
 
@@ -188,25 +188,25 @@ The One You Active 10 Walking Tracker app has been installed by more than **1000
 <img src="4_star_reviews_wordcloud.png" alt="uk.ac.shef.oak.pheactiveten 4 reviews"/>
 </p>
 
+> Love this app, it has got me walking.<br> :date: __2021-02-11 19:10:40__
+
+> Helping me get more motivated. Walking more getting my daily steps up. Thanks<br> :date: __2021-02-11 13:41:11__
+
+> Ok<br> :date: __2021-02-10 17:15:00__
+
+> Good for timing your walks<br> :date: __2021-02-10 14:12:34__
+
+> Good and easy to use. Puzzled why it will say I have achieved a target for a whole week when I have had days I haven't been outside!<br> :date: __2021-02-09 14:45:33__
+
+> I downloaded this app as although I walked every day I was concerned that it wasn't beneficial to my health . This app tracks brisk walking that is walking that gets your heart beating and burns fat. So far I'm impressed with the app.<br> :date: __2021-02-08 23:14:37__
+
+> Thankfully it works without me remembering to open app. 10 minutes is hard with a slow dog in lockdown!<br> :date: __2021-02-08 09:42:07__
+
 > Simple app that records minutes of brisk walking, which can be a good incentive for some.<br> :date: __2021-02-05 20:09:20__
 
 > Nice and simple.<br> :date: __2021-02-05 17:14:59__
 
 > Useful and motivational app.<br> :date: __2021-02-04 17:38:10__
-
-> I originally gave this 5 stars but recently the app has become quite flaky and crashes on opening. Hopefully they can sort it out.<br> :date: __2021-02-03 20:55:05__
-
-> Good app for checking whether you are actually keeping fit, very basic and simple to use. Could benefit from additional features of mapping and miles/Kms covered, but on the whole a good app.<br> :date: __2021-02-02 13:43:31__
-
-> Helpful but obviously doesn't take account of the walking terrain. A slower walk up a steep hill still counts as 'nit brisk'. But easy to use and keep track of daily walks.<br> :date: __2021-02-01 21:40:36__
-
-> This app has motivated me to up my walking each day. It is easy to use and effective. My only issue is that it states how many steps you have done briskly yet somehow at the end of the day it downgrades the sum. I would also like it to be linked to how many calories I'm burning.<br> :date: __2021-01-31 14:47:46__
-
-> Easy way to check your activity.<br> :date: __2021-01-31 11:08:43__
-
-> Easy to get to grips with, great motivation to start getting a bit more active<br> :date: __2021-01-30 11:33:59__
-
-> I have used the app for a couple of weeks and it is easy to use. You can increase your walking time if so wish. It has motivated me to go out for a walk daily.<br> :date: __2021-01-28 18:12:13__
 
 
 
@@ -215,6 +215,12 @@ The One You Active 10 Walking Tracker app has been installed by more than **1000
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="uk.ac.shef.oak.pheactiveten 3 reviews"/>
 </p>
+
+> Not easy to understand.<br> :date: __2021-02-09 21:00:39__
+
+> I find it helpful when it works but some days it doesn't .<br> :date: __2021-02-08 14:16:50__
+
+> The new version isn't as good as the old one. Not as easy to track down he month's walking. Can we have old one back?<br> :date: __2021-02-07 13:43:58__
 
 > It was working great keep me motivated until it stopped registering any steps that I had done. Also showed steps one day but were not there the next.<br> :date: __2021-02-04 07:12:57__
 
@@ -230,12 +236,6 @@ The One You Active 10 Walking Tracker app has been installed by more than **1000
 
 > It's an ok app. As long as you have your phone in your pocket it records the time you are moving and how much of it was brisk. It does seem to lose the information from one day to another though, which is a bit annoying as you could compare your movements over the last week or months - pointless if it doesn't save continuously. The app does have information, or rather links to other areas, ie healthy eating.<br> :date: __2021-01-20 12:57:15__
 
-> OK when it works but very frustrating when it doesn't record a walk even when the phone is being carried in exactly the same way as it always is. Is now claiming that I haven't opened the app for 39 days when I used it the preceding day. Missed recordings have happened so often now that I'm looking for an alternative.<br> :date: __2021-01-17 15:54:18__
-
-> Found it really motivating but appear to have 'lost' a weeks walking!<br> :date: __2021-01-17 12:12:38__
-
-> Not consistent. The same walk everyday. The faster the walk often results in less time recognised as brisk walking!<br> :date: __2021-01-17 10:49:13__
-
 
 
 #### 2-star reviews
@@ -243,6 +243,12 @@ The One You Active 10 Walking Tracker app has been installed by more than **1000
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="uk.ac.shef.oak.pheactiveten 2 reviews"/>
 </p>
+
+> Doesn't take into consideration somebody's starting fitness level or age. I went for a walk for 40 minutes in the snow came back sweating and out of breath. My doctor says that is a brisk walk and good for me the app size I did 5-minutes. I feel that you need to be jogging for it to say you're walking briskly. Not all bad it does tell you how long you've been walking for.<br> :date: __2021-02-10 17:04:25__
+
+> Very disappointed that the app doesn't always count the brisk steps. If I put my phone in my pocket it counts steps but not brisk steps. I have to hold the phone in my hand for it to work properly. It took me a long while to work this out. It was helpful to read that other people had experienced the same problem and I tried holding it as a result. Nowhere on the app to discuss problems like this. When it does count accurately I find it very useful and motivating.<br> :date: __2021-02-10 13:31:15__
+
+> A 20 minute walk is apparently 40 minutes. Unsure if this actually measures the time of the walk correctly however it definitely encourages you to be more active. I'd give it more if it was more accurate.<br> :date: __2021-02-06 21:27:37__
 
 > Recently has consistently failed to record what I know must be brisk walking given the number of people I overtake, and the distance. Am going to uninstall. Disappointing.<br> :date: __2021-02-05 16:21:50__
 
@@ -258,12 +264,6 @@ The One You Active 10 Walking Tracker app has been installed by more than **1000
 
 > Works fine on IOS but poor on Android - keeps stopping - can't adjust the target. I uninstalled and reinstalled but still same. All my other apps work fine.<br> :date: __2021-01-17 02:54:31__
 
-> Really liked it for first 2 days but now day 4 it only shows first days walking and hasn't recorded that I walked at all today. It doesn't open properly but takes me back to Google Play to open it from there. I had high hopes for this and recommended it to friends but I'm now disappointed.<br> :date: __2021-01-16 01:10:29__
-
-> Lost previous days walk data at the start of every new day. Pretty frustrating.<br> :date: __2021-01-15 08:57:10__
-
-> Used this app really successfully until this week when it's not storing daily levels so can't compare any more. What's happened? Disappointed<br> :date: __2021-01-14 15:51:31__
-
 
 
 #### 1-star reviews
@@ -272,7 +272,9 @@ The One You Active 10 Walking Tracker app has been installed by more than **1000
 <img src="1_star_reviews_wordcloud.png" alt="uk.ac.shef.oak.pheactiveten 1 reviews"/>
 </p>
 
-> For a supposedly motivational app, this one is astonishingly demotivating! Regularly removing "Active" minutes a few hours after awarding them is not good.<br> :date: __2021-02-06 12:43:04__
+> For a supposedly motivational app, this one is astonishingly demotivating! Regularly removing "Active" minutes a few hours after awarding them is not good. It has now started not recording anything about 1 day in 3 - just pretends my brisk walking didn't happen!<br> :date: __2021-02-11 12:49:37__
+
+> It hasn't registered my walks for the last few days, definitely walking 'briskly' enough! Disappointed.<br> :date: __2021-02-09 13:42:28__
 
 > I have no idea what you have to do to register brisk walking. I was walking at a pace to make me breath hard and built a sweat keeping the pace steady up and down hills. Result 31 minutes 0 brisk. Tried it again. This time despite walking for a couple of hours at the weekend and one again today, the app failed to record that I had walked at all, let alone briskly. It is therefore useless. Time to uninstall.<br> :date: __2021-02-03 12:30:13__
 
@@ -289,7 +291,5 @@ The One You Active 10 Walking Tracker app has been installed by more than **1000
 > Loses walking data within 24 hours which is really annoying despite the update on 15th January.<br> :date: __2021-01-19 13:33:18__
 
 > Broken since last update!<br> :date: __2021-01-18 07:40:26__
-
-> Worked for first day then said update now does not keep record of each days walking not good 😒<br> :date: __2021-01-17 11:47:28__
 
 

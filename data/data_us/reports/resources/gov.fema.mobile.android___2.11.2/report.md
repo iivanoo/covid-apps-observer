@@ -163,6 +163,12 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 <img src="5_star_reviews_wordcloud.png" alt="gov.fema.mobile.android 5 reviews"/>
 </p>
 
+> Update: I do not like this 'other language' just showing up in the app! Why did this start today? Great app! The only thing is, I wish it had a share button to send the Alerts to family & friends. Thank you for adding the share button!<br> :date: __2021-02-13 05:55:44__
+
+> Great app for weather notifications<br> :date: __2021-02-09 23:30:39__
+
+> Superior great + AAAAAA<br> :date: __2021-02-09 03:14:12__
+
 > Well worth the download, great and timely information.<br> :date: __2021-01-29 06:14:11__
 
 > Works great thank you for this !!<br> :date: __2021-01-23 20:10:09__
@@ -176,12 +182,6 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 > help me<br> :date: __2021-01-17 23:49:36__
 
 > Excellent ! I have used this app for years now and found it to be very reliable. Easy to use and provides official helpful information when needed. It has user selectable notifications for everything. It works as described by developer. Great app to have to stay informed !<br> :date: __2021-01-17 21:09:09__
-
-> Thank you<br> :date: __2021-01-11 16:21:01__
-
-> Good<br> :date: __2021-01-04 06:06:34__
-
-> This is the best so easy to use<br> :date: __2020-12-09 13:53:21__
 
 
 
@@ -219,6 +219,8 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 <img src="3_star_reviews_wordcloud.png" alt="gov.fema.mobile.android 3 reviews"/>
 </p>
 
+> Downloaded b/c we live in the country and cant hear sirens. Ive been getting notifications of weather advisories, but not able to read what, theres nothing there<br> :date: __2021-02-08 19:56:35__
+
 > Not much exposure.<br> :date: __2021-01-13 02:03:49__
 
 > Not as helpful as before<br> :date: __2020-12-28 07:32:52__
@@ -236,8 +238,6 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 > Difficult to navigate and doesn't provide info I expected<br> :date: __2020-09-06 08:45:22__
 
 > The type is thinner and less legible with this update. The unnecessary style change reduces its usefulness to me. Plus, I have not received alerts about the smoke in my area or the fires near me although I specified that in the settings. So I uninstalled it.<br> :date: __2020-08-21 06:13:51__
-
-> No notification alarm!!<br> :date: __2020-08-13 18:12:50__
 
 
 
@@ -275,6 +275,8 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 <img src="1_star_reviews_wordcloud.png" alt="gov.fema.mobile.android 1 reviews"/>
 </p>
 
+> I just installed this. I hope it works as it should because my phone has been modified to stop me from receiving ANY Emergency alerts. (I believe that's illegal.) I am so desperate to receive Emergency Alerts that I'm downloading an outside app for it!<br> :date: __2021-02-13 17:10:52__
+
 > Why wasn't there an alert when the POTUS called the state of emergency for DC? He even mentioned FEMA for receiving info yet crickets feo FEMA. Z Typical government restrictions. If they block adding Washington D.C. as an area then they are blocking additional information. It will only have the activity they want you to know about. New rule for citizens. See something say nothing. You'll be safer that way.<br> :date: __2021-01-12 21:44:55__
 
 > Stopped working a few days ago. Started sending empty alerts. Reinstallation didn't help. Wouldn't accept location input.<br> :date: __2021-01-04 15:46:26__
@@ -292,7 +294,5 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 > Poorly targeted and poorly timed notifications that are sent during normal sleep hours - make it necessary to use device settings to stop all notifications from this app. Insufficient app based management of notifications.<br> :date: __2020-10-28 10:43:34__
 
 > IDK BUCK<br> :date: __2020-10-26 22:39:34__
-
-> Wakes you up randomly at night with repeat information.<br> :date: __2020-10-22 11:33:02__
 
 

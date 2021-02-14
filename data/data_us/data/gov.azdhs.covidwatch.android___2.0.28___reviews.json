@@ -1,5 +1,17 @@
 [
     {
+        "reviewId": "gp:AOqpTOFrKwp7T4iIjYewq1Mhg-T8nJC5XmZaLQaloVTR-h4u-2nhVa1DwO16k4y51C-Pn_fCw1vyaG1sge9jZAs",
+        "userName": "D D",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiVE-Orzd54UXJT9vWPHEh6L_MY-YHJnyAMYj_b",
+        "content": "Seems to function okay but very few people know it exists and even fewer are using it. It can't be all that affective without a large number of people using it.",
+        "score": 4,
+        "thumbsUpCount": 2,
+        "reviewCreatedVersion": "2.0.28",
+        "at": "2021-02-08 19:48:02",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOEcutWTpOiFt74k3zS43geBacDFxEW7EY4BZMQjw38-E-cK4s-l0A7xxUTRCAT9XDjg8hLlhzTkpAyGCRo",
         "userName": "Broken Crushedby1488",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ghr_EFUWKRg54GmVEzcgo4_kaFCMEcBP1IMQrY-",
@@ -17,11 +29,11 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjZBan7_hynoVnXQEuw6MZwhDA-my20TM7Cpfv4og",
         "content": "I don't see how this app can be helpful at all for contact tracing. Few people in Arizona I know are aware of this app, and even if they're informed about it, it doesn't even appear in a general search with keywords. Then it will randomly inform you that you have a notification and, when you click to find out what it is, it will tell you that you have no notifications. You'll have an icon that sits in your notifications for 12 hours telling you that it's looking for exposures that can't be dismissed. Also, you can't even choose Phoenix nor Maricopa County as your location despite that being the most populous region of the state; your options are Tucson, Flagstaff, and \"State of Arizona\" which apparently isn't even functional.",
         "score": 2,
-        "thumbsUpCount": 4,
+        "thumbsUpCount": 7,
         "reviewCreatedVersion": "2.0.21",
         "at": "2021-01-13 20:07:20",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Nick,\nCurrently, we have two active regions, the University of Arizona (UA) and Northern Arizona University (NAU). We are currently in the process of working with the State of Arizona so the app can be fully used by everyone in the State! If you have any feedback or suggestions, please write to us at https://help.wehealth.org/hc/en-us.",
+        "repliedAt": "2021-02-09 19:35:06"
     },
     {
         "reviewId": "gp:AOqpTOFY4yAj7K4iwVESsYAcSX7u8PPpnPXwhE4dXTZvt_6YPC9_uxoLgA-9VW3oNRBg6QvEwEarLPXAiOH2OFU",
@@ -53,7 +65,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjNm73KQMvJRLDeouZq4QBwrFBgn3-BgunMmBbv-A",
         "content": "Deleted immediately. Way too many permissions, microphone & other permissions are more than what is needed. Buggy. Google is awful.",
         "score": 1,
-        "thumbsUpCount": 3,
+        "thumbsUpCount": 4,
         "reviewCreatedVersion": "1.2.6-az",
         "at": "2020-12-15 05:09:34",
         "replyContent": "Hi Phyllis, if you go to settings>Privacy>Permission manager and browse through the allowed permissions, you'll see that the Covid Watch Arizona app does not ask for access to any of these settings. If you experience any future issues, please contact our Support Team by submitting a ticket. https://help.wehealth.org/hc/en-us/requests/new",
@@ -125,7 +137,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgbRG4BIYE6IOP4HU3Ger8SFAsrECHJGmtzVrTlbQ",
         "content": "The app is Amazing and I love it. This should be launched across USA and it will help in saving allot of people from exposure of Covid-19. Everyone in Arizona should download and start using it.",
         "score": 5,
-        "thumbsUpCount": 3,
+        "thumbsUpCount": 4,
         "reviewCreatedVersion": "1.0.30",
         "at": "2020-10-06 13:43:59",
         "replyContent": null,

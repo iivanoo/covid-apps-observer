@@ -140,9 +140,15 @@ The CoronaMelder app has been installed by more than **1000000** times. At this 
 <img src="5_star_reviews_wordcloud.png" alt="nl.rijksoverheid.en 5 reviews"/>
 </p>
 
-> P.s Bleutooth & CoronaMelder Zoeken ook steeds naar andere Apparaten met Bleutooth. Gevolg Lege accu.❗ -‐--------------------- De meeste gebruikers luisteren muziek in de Trein / Bus. Etc. Dan staat de Smartphone in de ( Slaapmodus ) zodat je niet gestoord wordt omdat je dan naar de muziek luisterd.❗ __Maar_dan_werkt_de____Coronamelder niet, in de slaapmodus❗💫❗<br> :date: __2021-02-03 22:35:22__
+> Blij met deze extra bescherming<br> :date: __2021-02-13 14:32:17__
 
-> gewoon goed zonder meer<br> :date: __2021-02-02 19:53:07__
+> Vindt het goed maar zou het ook melding komt en de telefoon gaat is die melding weg en zou daar ook terug kunnen kijken die mis ik want ik kreeg een melding ik ging kijken en toen ging de telefoon die nam ik op maar de melding kon ik niet meer terug kijken wat er aan de hand is<br> :date: __2021-02-12 09:17:26__
+
+> Alle beetjes helpen elkaar er door heen<br> :date: __2021-02-08 13:02:12__
+
+> Zeer fyn<br> :date: __2021-02-06 20:59:07__
+
+> P.s Bleutooth & CoronaMelder Zoeken ook steeds naar andere Apparaten met Bleutooth. Gevolg Lege accu.❗ -‐--------------------- De meeste gebruikers luisteren muziek in de Trein / Bus. Etc. Dan staat de Smartphone in de ( Slaapmodus ) zodat je niet gestoord wordt omdat je dan naar de muziek luisterd.❗ __Maar_dan_werkt_de____Coronamelder niet, in de slaapmodus❗💫❗<br> :date: __2021-02-03 22:35:22__
 
 > De Update van 5 oktober 2020 laat de coronamelder steeds crashen op mijn mobiel hij doet niks meer chrashed meteen. Na de update van december 2020 werkt ie weer.👍 goed bezig. Laatste Update van januari 2021 laat coronamelder weer crashen.<br> :date: __2021-01-30 20:49:48__
 
@@ -154,12 +160,6 @@ The CoronaMelder app has been installed by more than **1000000** times. At this 
 
 > Zeer belangrijk.<br> :date: __2021-01-29 00:50:31__
 
-> Duidelijk en simpel, doet wat het moet en doet niet wat het niet mag. Hoe meer gebruikers hoe beter! Installeren dus!! Een beetje meer 'zekerheid' in deze tijden als heel NL deze app actief heeft. Fijn dat je ook kunt pauzeren als dat nodig is!<br> :date: __2021-01-28 21:25:45__
-
-> Deze app werkt naar behoren en gebruikt je bluetooth functie om te scannen naar andere bluetooth telefoons, mijn ervaring is dat er geen verschil is in batterij verbruik in verloop van tijd. Je hebt er verder geen last van en de app draait op de achtergrond, dus waarom niet deze extra veiligheid van de overheid tegen het COVID-19 virus?<br> :date: __2021-01-28 17:52:45__
-
-> Geen geluidmelding?<br> :date: __2021-01-27 11:48:40__
-
 
 
 #### 4-star reviews
@@ -167,6 +167,16 @@ The CoronaMelder app has been installed by more than **1000000** times. At this 
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="nl.rijksoverheid.en 4 reviews"/>
 </p>
+
+> gewoon goed<br> :date: __2021-02-12 14:12:43__
+
+> Haha beste prank ooit<br> :date: __2021-02-11 12:04:38__
+
+> Geeft soms aan niet actief te zijn geweest de afgelopen dag. Ik weet niet wat dat betekent en hoe dat voorkomen kan worden.<br> :date: __2021-02-10 14:30:47__
+
+> Prima, maar door Google Play is deze natuurlijk niet te vertrouwen qua privacy. India, Duitsland en de V.S. hebben hun app ook in F-Droid beschikbaar gemaakt. Waarom deze niet?<br> :date: __2021-02-10 11:47:53__
+
+> Tja app is goed. Heb hem al n hele tijd<br> :date: __2021-02-06 18:19:23__
 
 > Na vele pogingen via een omweg is het toch 🤞 gelukt om de app opnieuw te installeren<br> :date: __2021-02-05 12:22:01__
 
@@ -178,16 +188,6 @@ The CoronaMelder app has been installed by more than **1000000** times. At this 
 
 > 👍🏻<br> :date: __2021-01-28 17:28:21__
 
-> Werkt probleemloos, maar ook wat onzichtbaar. Zou leuk zijn om een beetje feedback te krijgen, bijvoorbeeld dat hij de afgelopen dag x andere coronamelder Apps heeft gezien.<br> :date: __2021-01-26 23:04:53__
-
-> We moeten opletten met het covid virus en ons aan de regels houden<br> :date: __2021-01-24 11:46:17__
-
-> Als je eenmaal begrijpt hoe het werkt is het een prima app. Helaas is hij een paar dagen geleden gestopt te checken met de server. Althans, het lijstje met log van de checks met de server is verdwenen. Ok, de toegang tot de lijst is alleen verplaatst. 🙄<br> :date: __2021-01-23 12:01:04__
-
-> Nog geen melding gehad gelukkig. Maar meer reclame zou ik fijn vinden want eigenlijk moet iedereen de App downloaden.<br> :date: __2021-01-22 18:29:47__
-
-> IK WEET HET, WANT IK HtuEB NU EEN APP WAARONDERui STAAT RINGTONE,MAAR HAD HEM ALTIJD AANSTAAN MAAR IK HEB NOOIT EEN ALARM GEKREGEN. (IK WEET DE REGELS).groet uit Leiden😉<br> :date: __2021-01-22 10:22:30__
-
 
 
 #### 3-star reviews
@@ -195,6 +195,8 @@ The CoronaMelder app has been installed by more than **1000000** times. At this 
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="nl.rijksoverheid.en 3 reviews"/>
 </p>
+
+> Het is goed hij gaat zelf op pauze en zegt dat hij geen 24 uur controle uit kan voeren en het is al 2 keer gebeurd<br> :date: __2021-02-09 17:41:03__
 
 > Negatief getest<br> :date: __2021-02-06 13:17:28__
 
@@ -214,8 +216,6 @@ The CoronaMelder app has been installed by more than **1000000** times. At this 
 
 > Mijn mobiele data staan de hele dag aan.toch krijg ik elke keer bij check van de app de melding dat er geen verbinding is. Ik tik dan op de balk weer verbinden en dan blijkt de app weer wel verbonden te zijn. Geeft toch geen goed gevoel af.<br> :date: __2021-01-26 23:32:16__
 
-> Nauwelijks doorontwikkeling naar nieuwe en meer functies. En als er een update komt, wordt niet beschreven, wat er veranderd is. Waarom gebruikt men deze methodiek van informatievoorziening niet?<br> :date: __2021-01-25 11:16:45__
-
 
 
 #### 2-star reviews
@@ -223,6 +223,10 @@ The CoronaMelder app has been installed by more than **1000000** times. At this 
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="nl.rijksoverheid.en 2 reviews"/>
 </p>
+
+> Moet hem bijna elke dag opnieuw starten, minder leuk .<br> :date: __2021-02-12 14:13:54__
+
+> Moet bijna dagelijks de app opnieuw aanzetten omdat ik de melding krijg dat hij niet actief is.<br> :date: __2021-02-11 09:44:52__
 
 > Ik ben arts, zie inmiddels wekelijks wel een aantal zieke, bij de GGD positieve geteste coronapatienten, maar zelfs als ik de app op de achtergrond draaiend houd, heb ik nog NOOIT een melding ontvangen... En ik heb een nieuwe smartphone die nog vorig jaar pas uitgebrachts is met de nieuwste android versie erop<br> :date: __2021-02-04 12:41:20__
 
@@ -240,10 +244,6 @@ The CoronaMelder app has been installed by more than **1000000** times. At this 
 
 > Ik snap de keuze van de party mode (pauze stand) niet helemaal. Wat is dan nog het praktisch nut van deze app als mensen hem op pauze kunnen zetten?<br> :date: __2021-01-29 02:01:04__
 
-> Melding gehad dat ik 27-01 mogelijk met iemand langer dan 15 minuten un contact ben geweest die corona heeft. De enige die ik heb gezien is mijn moeder die totaal geen klachten heeft, maar ook de app niet! Verder met niemand in contact geweest gisteren. Buren zijn positief, maar daar totaal geen contact mee gehad gisteren, dus dit is erg misleidend allemaal!<br> :date: __2021-01-28 08:27:34__
-
-> Was 2-12 (ochtend)gaan testen, kreeg 4-12 (avond) de uitslag, ben 6-12 pas gebeld door de ggd (avond) en kreeg toen pas de sleutel. De mensen die in mijn buurt zijn geweest op 30-11/1-12 en 2-12 hebben nooit een melding gekregen! (Heb dit uiteraard zelf wel gedaan via bericht/telefoon). Vraag me dus toch af wat het nut dan is van deze app. Ik twijfel hierdoor aan de betrouwbaarheid.<br> :date: __2021-01-27 19:09:32__
-
 
 
 #### 1-star reviews
@@ -252,24 +252,24 @@ The CoronaMelder app has been installed by more than **1000000** times. At this 
 <img src="1_star_reviews_wordcloud.png" alt="nl.rijksoverheid.en 1 reviews"/>
 </p>
 
-> Zinloos<br> :date: __2021-02-06 08:45:40__
+> Werkt totaal niet!<br> :date: __2021-02-13 08:55:42__
 
-> Men vragenlijst doet het al weken niet<br> :date: __2021-02-05 17:55:42__
+> Wel slecht deze app Werkt door muren heen Want idd bluetooth gaat makelijk door de muur Is het niet zo dat julie graag hebben dat we thuis blijven Nog iets mijn vriendin is gestest Negatief Maar hou is op met je onzin En liegen Mensen bedriegen mensen stuipen op het lijf jagen Tuurlijk gaat bluetooth door de muur Korte golf tjonge tjonge Steletje bij elkaar geraapt zooitje<br> :date: __2021-02-12 21:00:29__
 
-> Iedere dag een melding dat hij geen verbinding kan maken. Op de site staat een korte uitleg die niet werkt. Na reactie: Natuurlijk heb ik bluetooth en internet aan. Andere apps hebben geen enkel probleem met de verbinding. De app is ook uitgezonderd van energiebesparing.<br> :date: __2021-02-05 15:35:39__
+> Ik krijg regelmatig het ronde logo van de app boven in beeld. Als ik deze naar beneden scroll om te openen, is de melding weg en heb ik niet kunnen zien waar de melding over ging. Als ik de app open dan staat er dat hij niet actief is. Kan dit de melding zijn? Ik neem aan dat een melding van contact met een corona patiënt duidelijk te zien is en blijft...?<br> :date: __2021-02-12 20:23:13__
 
-> Mijn man is vanaf 28 januari positief bevonden. Deze app staat doorlopend aan maar IK heb geen melding ontvangen dat ik in de buurt ben geweest van een besmet iemand. Ra ra hoe kan dit. Mijn man heeft de sleutel doorgegeven zodra bekend was dat hij positief was. En ook op de knop gedrukt.<br> :date: __2021-02-05 14:30:50__
+> Als je wilt dat je batterij snel opgaat aan en app die niet werkt download deze app<br> :date: __2021-02-12 16:50:27__
 
-> Ik ben 100% zeker langer dan 15 min in de buurt geweest van iemand met corona, hij is namelijk een huisgenoot van mij, maar heb geen melding gekregen. Deze huisgenoot is getest door de GGD en dus zou je verwachten dat wij een melding zouden krijgen maar nee dus<br> :date: __2021-02-05 13:41:51__
+> Werkt voor geen meter, krijg op meerdere telefoons geen melding van mogelijke besmetting. Toestellen hebben een dag naast elkaar gelegen. Ja ggd code is geactiveerd en Bluetooth staat aan. Na doorgifte code aan ggd de vervolgstappen uitgevoerd om het te delen.<br> :date: __2021-02-12 13:43:18__
 
-> Werkt voor geen meter<br> :date: __2021-02-05 11:04:28__
+> De app schakelt steeds uit omdat mijn mobiel een batterijoptalisatie heeft aanstaan, maar hoe ik uitzet. God mag het weten. Waarom kan ik vanaf de app niet doorklikken of de app zet het zelf uit. Op deze manier kan ik de app beter verwijderen. Hij staat toch uit!<br> :date: __2021-02-11 09:36:48__
 
-> Laat voortdurend bluetooth aan, ongewenst.<br> :date: __2021-02-04 22:26:07__
+> Krijg bijna iedere dag de melding dat de app 24 uur geen verbinding heeft kunnen maken. Als ik er op tik gaat hij wel verder<br> :date: __2021-02-10 13:35:04__
 
-> Mijn vriendin en ik zijn gisteren de hele dag samen thuis geweest en hebben niemand gezien of gesproken. Toch krijgt zij zojuist een melding dat ze gisteren 15+ min in de buurt is geweest van iemand die besmet is en zich zou moeten testen. Hoe kan dit?<br> :date: __2021-02-04 14:31:48__
+> Dagelijks in ziekenhuis.Ook bij verschillende besmette (aangemeld in deze app) patiënten geweest. Geen melding van deze app ontvangen. FAKE!<br> :date: __2021-02-09 19:39:28__
 
-> Kut app<br> :date: __2021-02-03 23:23:10__
+> Kloten app<br> :date: __2021-02-09 16:09:58__
 
-> Waardeloose app<br> :date: __2021-02-03 19:11:08__
+> Slecht .. Hoor ..<br> :date: __2021-02-09 12:22:21__
 
 

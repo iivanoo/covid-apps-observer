@@ -1,5 +1,17 @@
 [
     {
+        "reviewId": "gp:AOqpTOGegU5oK6R3r3ZjzmWIR65_e9Zo0UtJ8LME0vr7LYI9OePNHNmfNQkMEP7ddRBWh2frIr69NTO1Jrn8Y14",
+        "userName": "Marinella",
+        "userImage": "https://play-lh.googleusercontent.com/-3QdE0fFhSqU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckJj-4BK61DTGkdm-DW4PLah9Zkgg/photo.jpg",
+        "content": "Disinstallata troppo invasiva",
+        "score": 2,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "3.9",
+        "at": "2021-02-12 14:06:24",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOEI7sem6cbqngAhbnueEVV3igYxrgKda0y1xLPYg5dwZj7cOPZTCTuVlE6grnHOON7vSGJ-g9AoInkYz5M",
         "userName": "Patrizia Porzio",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiaawATOlhlqFqg_5jV5J3hNw4wmL4GltMpShRF",
@@ -38,7 +50,7 @@
     {
         "reviewId": "gp:AOqpTOHODytkRIGbm6LSMyGd4DBnc6iiTJmlFaIh6IZzwjUT8LpAy1dBBMkXMr5P5iL2O-eFISesHpNikrd_7dk",
         "userName": "Pasquale Pugliese",
-        "userImage": "https://play-lh.googleusercontent.com/-c-VtNRAk5jg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmFWNmttiiof97U1u_2occ91rLRTQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjVBr7jumF55i059dDThgK9Fc6zX3dnGuKaEsH0NA",
         "content": "Ottima app",
         "score": 5,
         "thumbsUpCount": 0,
@@ -50,7 +62,7 @@
     {
         "reviewId": "gp:AOqpTOHlLdoULEpPqLK3tQW3hyd7UQSBFgTomqNEYQTjptAgaCprY5mxaivBK8BkyHcQ2JrOsxWetWdr06ISx7A",
         "userName": "Ignazio merlino",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgKmwPCIVr5CEKhvOFUo0funG9krK8TwuRcLGxI8A",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh2WrxI2KumLbWZSxmL_nFFCWU49JdCXrbYhatyhQ",
         "content": "Pessima app",
         "score": 1,
         "thumbsUpCount": 0,
@@ -266,7 +278,7 @@
     {
         "reviewId": "gp:AOqpTOGLiU7xLedD5T5MjmZOoZYDI3RmgxjR-FvloOe-jw-Ii87mYVWU88yPguWl6CYfL_p_QkTwMv_TicvPpMo",
         "userName": "Pasquale Boffa",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiqmhXmIgP6Yq86M6BsiUa-DnAESmNF-bL19APgxw",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhQdc6ZBE5W8J5u6-6TOIWwXOpL9X9g59lW4hhbmQ",
         "content": "Molto interessante",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1066,18 +1078,6 @@
         "at": "2020-06-26 08:05:34",
         "replyContent": "Ciao Raffaele, l'App ora ti permette di tenere sotto controllo l'Indice dei contatti aiutandoti i limitarli e sopratutto permette di usare una funzione di anti-assembramento con la quale ti verr\u00e0 mostrata una notifica sonora (buzz+audio) se ti trovi in una zona con troppe persone.",
         "repliedAt": "2020-06-27 16:27:04"
-    },
-    {
-        "reviewId": "gp:AOqpTOGegU5oK6R3r3ZjzmWIR65_e9Zo0UtJ8LME0vr7LYI9OePNHNmfNQkMEP7ddRBWh2frIr69NTO1Jrn8Y14",
-        "userName": "Marinella",
-        "userImage": "https://play-lh.googleusercontent.com/-3QdE0fFhSqU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckJj-4BK61DTGkdm-DW4PLah9Zkgg/photo.jpg",
-        "content": "Per il momento nessuna rapporti a rischio ci persone positive se l' app funziona",
-        "score": 4,
-        "thumbsUpCount": 1,
-        "reviewCreatedVersion": "3.9",
-        "at": "2020-06-25 21:31:12",
-        "replyContent": null,
-        "repliedAt": null
     },
     {
         "reviewId": "gp:AOqpTOG8pFpD9M6JKfeVUJgs7PvswCkEBy0DHeGa1yFaRNCFnVQ2Fq_0fz5UXFj_IJDZ8LCmn-2blVJ5NkpMFys",
@@ -2390,7 +2390,7 @@
     {
         "reviewId": "gp:AOqpTOHnycKutDu-WzdKclNqE2mXJCO9-AynWCGagbXporeCuDbhwyPw0RFqsFGijj6YHSLDm1Yw2_RPVFyZgsk",
         "userName": "Carlo Dell'anna",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhC4rxvqVYhIu-azV1SiTq6ZydskllHh89ZLVUnCA",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiJEsBjfXhh0rdwWyuSzdjsO-3z02PcDKn6ZAExAg",
         "content": "Ottima",
         "score": 5,
         "thumbsUpCount": 0,
@@ -4517,7 +4517,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhKzVZyNKKlHnw4bkJeL1awZVD8_8L92m8p5B94",
         "content": "L'idea \u00e8 ottima. Ma che garanzie ha chi \"incrocia\" me, visto che non avendomi fatto il tampone non risulto n\u00e9 positivo n\u00e9 negativo? Cos\u00ec pure per quelli con cui vengo in contatto io: d\u00e0 garanzie solo quando si viene in contatto con gente a cui \u00e8 stato fatto un tampone. E poi, ovviamente, vale quando si incrocia qualcuno che ha installata l'app.",
         "score": 5,
-        "thumbsUpCount": 189,
+        "thumbsUpCount": 188,
         "reviewCreatedVersion": "2.4",
         "at": "2020-04-15 18:18:05",
         "replyContent": "Grazie per aver scaricato SM-COVID-19. L'obiettivo \u00e8 ricreare la rete dei contatti in modo da poter intervenire in modo tempestivo e puntuale nel caso di segnalazione della positivit\u00e0 di un utente della rete. Per aggiornamenti e ulteriori informazioni la reinvio al sito www.smcovid19.org. Il team SM-COVID-19",

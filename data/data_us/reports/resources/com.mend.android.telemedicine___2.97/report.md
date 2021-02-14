@@ -143,6 +143,10 @@ The Mend Telemedicine app has been installed by more than **50000** times. At th
 <img src="5_star_reviews_wordcloud.png" alt="com.mend.android.telemedicine 5 reviews"/>
 </p>
 
+> Awesome<br> :date: __2021-02-09 01:16:03__
+
+> Very good system<br> :date: __2021-02-08 19:29:25__
+
 > Very easy to use once you get the hang of it. So convenient!<br> :date: __2020-11-21 01:38:33__
 
 > This had made doctors appointments a breeze<br> :date: __2020-10-10 23:07:26__
@@ -158,10 +162,6 @@ The Mend Telemedicine app has been installed by more than **50000** times. At th
 > Convient for DR'S visits.<br> :date: __2020-06-11 00:42:06__
 
 > Staff is helpful and appointment was punctual. The physician was thorough, knowledgable and considerate.<br> :date: __2020-05-23 08:55:46__
-
-> I had a successful virtual conference with my doctor.<br> :date: __2020-05-17 03:07:46__
-
-> Didn't know how to use it to<br> :date: __2020-04-21 21:58:02__
 
 
 

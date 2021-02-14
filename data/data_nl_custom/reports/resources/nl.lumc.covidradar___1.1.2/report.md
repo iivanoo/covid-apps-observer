@@ -196,6 +196,8 @@ The COVID Radar app has been installed by more than **50000** times. At this tim
 <img src="3_star_reviews_wordcloud.png" alt="nl.lumc.covidradar 3 reviews"/>
 </p>
 
+> Ik mis dat je aan kunt vinken dat je gevaccineerd bent!!!!<br> :date: __2021-02-10 20:12:11__
+
 > Handmatig afsluiten is knullig.<br> :date: __2021-01-31 13:56:39__
 
 > Vanaf nu meerdere keren voor ons gezin ingevuld. Zeer lastig met zoon op voorgezet onderwijs die met meer dan 1000 over de gangen lopen. Tevens werkt het met het "schuifsysteem" erg lastig, als je naar de volgende persoon swipt kunnen er zo maar 39 staan die thuis op bezoek zijn gekomen!<br> :date: __2020-11-15 10:45:41__
@@ -213,8 +215,6 @@ The COVID Radar app has been installed by more than **50000** times. At this tim
 > Leek een aardige app. Kap ermee want de 5m regel is niet uitvoerbaar<br> :date: __2020-04-25 19:37:29__
 
 > goed idee, alleen jammer dat je gelijk 'besmet' ben als je op een vraag ja antwoord, variabelen zoals hooikoorts worden niet meegenomen althans niet toen ik er mee startte, app dus verwijderd!<br> :date: __2020-04-25 17:44:07__
-
-> Sinds laatste update zitten de navigatie knoppen over de velden in de laatste vraag te beantwoorden.<br> :date: __2020-04-24 20:54:20__
 
 
 

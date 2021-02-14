@@ -205,6 +205,8 @@ The COCOA - COVID-19 Contact App app has been installed by more than **5000000**
 <img src="3_star_reviews_wordcloud.png" alt="jp.go.mhlw.covid19radar 3 reviews"/>
 </p>
 
+> It is so good.<br> :date: __2021-02-09 18:55:37__
+
 > No one in Japan practices social distancing, even on trains people dont wear masks. This app seems like a waste of time unless people change their habits.<br> :date: __2020-07-22 01:25:50__
 
 > 英語学習のために、スマートフォンの言語設定を英語にしています。このアプリで は端末の言語設定がそのまま反映されるので、アプリの言語は自動的に英語になります。 感染者と接触があった場合に、保健所などに画面を提示する必要が出てくる場合があるようですが、英語設定のままでも対応してもらえるのでしょうか？ 日本語でないといけないようであれば、アプリ内で簡単に言語設定を変えられるように仕様変更していただけるといいと思います。<br> :date: __2020-07-08 09:46:08__
@@ -235,6 +237,14 @@ The COCOA - COVID-19 Contact App app has been installed by more than **5000000**
 <img src="1_star_reviews_wordcloud.png" alt="jp.go.mhlw.covid19radar 1 reviews"/>
 </p>
 
+> Placebo<br> :date: __2021-02-11 00:56:17__
+
+> Hahaha, it doesn't even work properly! An update broke the contact communication with other users about 4 months ago, and they haven't fixed it yet. And we thought this would help us to keep safe, eh? What a waste of taxpayer money.<br> :date: __2021-02-08 02:47:26__
+
+> Apparently the Android version hasn't even been working since November. For such an important app that could help save lives, it's an utter mess.<br> :date: __2021-02-07 05:40:05__
+
+> Just a garbage app.<br> :date: __2021-02-07 04:23:00__
+
 > 最悪。このアプリは日本の恥。アンドロイドなら全く意味ない!<br> :date: __2021-02-05 06:51:09__
 
 > App hasn't worked since September 2020. Uninstalled.<br> :date: __2021-02-05 05:26:35__
@@ -246,13 +256,5 @@ The COCOA - COVID-19 Contact App app has been installed by more than **5000000**
 > ゴミアプリ。This app hasn't give ANYONE a warning since September. It's basically useless.<br> :date: __2021-02-04 00:04:31__
 
 > Hi, I am trying to register myself but I always get notice to check my network while it works just fine. I couldn't register myself sibce yesterday.I have install and reinstall the app, and I have switch ny neteork from wifi to mobile data but still no progress.how can I sort this out? Thank you<br> :date: __2021-02-03 02:36:03__
-
-> Never worked. Always asking for permission for bluetooth even after given.<br> :date: __2021-01-28 02:43:34__
-
-> Tests for covid don't exist. It's a farse. This bs is all about fear and control<br> :date: __2021-01-26 02:03:14__
-
-> No network same as others on here?? Try again in Japan later<br> :date: __2021-01-22 07:51:16__
-
-> Cant install<br> :date: __2021-01-17 19:40:11__
 
 

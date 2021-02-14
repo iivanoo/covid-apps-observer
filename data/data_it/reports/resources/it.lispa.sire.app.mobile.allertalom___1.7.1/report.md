@@ -272,8 +272,6 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <img src="1_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 1 reviews"/>
 </p>
 
-> 🔴🔴Non fidatevi dei pagliacci in giacca e cravatta<br> :date: __2021-01-30 17:28:09__
-
 > Si blocca sempre<br> :date: __2021-01-23 20:49:46__
 
 > Inutile<br> :date: __2021-01-09 10:44:04__
@@ -291,5 +289,7 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 > Non aggiornata<br> :date: __2020-10-27 23:50:27__
 
 > Allerta in tempo reale???? Non scrivete certe cose!!<br> :date: __2020-10-22 20:26:03__
+
+> Totalmente inutile, da informazioni che puoi trovare sia sull'app meteo che su Google, consuma spazio per niente<br> :date: __2020-10-17 14:50:34__
 
 

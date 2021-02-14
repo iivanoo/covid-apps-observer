@@ -200,6 +200,10 @@ The Salud Andalucía app has been installed by more than **10000** times. At thi
 <img src="1_star_reviews_wordcloud.png" alt="es.juntadeandalucia.msspa.saludandalucia 1 reviews"/>
 </p>
 
+> No te mandan sms de verificación por más que lo pidas. Esperando estoy el resultado de la PCR y nada... No sirve más que para ocuparme espacio.<br> :date: __2021-02-09 11:58:44__
+
+> No puedo habrir la aplicación Salud Andalucía cuando la voy habrir me sale un mensaje que dice que Salud Andalucía se a de tenido y no se habre tengo una notificación y no puedo leerla haber que puedo hacer<br> :date: __2021-02-09 02:03:03__
+
 > No me llega el sms con el código<br> :date: __2021-01-25 08:17:53__
 
 > Esta aplicación no vale para nada,no te deja meter el sms que recibes para verificar tus datos<br> :date: __2021-01-16 11:18:36__
@@ -215,9 +219,5 @@ The Salud Andalucía app has been installed by more than **10000** times. At thi
 > No van las notificaciones...no sirve para nada<br> :date: __2020-11-05 06:04:25__
 
 > No me notifica de nada. Una semana esperando resultado de PCR y nada. Sólo es un contenedor para instalar otras aplicaciones. No entiendo el objetivo de esta app<br> :date: __2020-10-30 09:29:46__
-
-> No entiendo porqué no integran esta app y todas las demás con la de salud responde.<br> :date: __2020-10-29 20:19:28__
-
-> No funciona,<br> :date: __2020-10-29 09:44:16__
 
 

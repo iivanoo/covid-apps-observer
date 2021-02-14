@@ -150,6 +150,8 @@ The StopCOVID NI app has been installed by more than **100000** times. At this t
 <img src="5_star_reviews_wordcloud.png" alt="net.hscni.covidtracker 5 reviews"/>
 </p>
 
+> Excellent<br> :date: __2021-02-12 01:34:28__
+
 > Works for me...<br> :date: __2021-01-29 17:24:27__
 
 > Thankfully no alert yet<br> :date: __2021-01-27 19:45:45__
@@ -167,8 +169,6 @@ The StopCOVID NI app has been installed by more than **100000** times. At this t
 > I strumming for DCI middlemoor u big style fun and games cock<br> :date: __2020-12-26 05:13:43__
 
 > Helps to keep me safe and others safe<br> :date: __2020-12-21 03:35:48__
-
-> Perfect<br> :date: __2020-12-10 13:47:17__
 
 
 
@@ -234,6 +234,8 @@ The StopCOVID NI app has been installed by more than **100000** times. At this t
 <img src="2_star_reviews_wordcloud.png" alt="net.hscni.covidtracker 2 reviews"/>
 </p>
 
+> App randomly stops publishing exposure checks which would imply its no longer working. Have had to reinstall 3 times.<br> :date: __2021-02-07 21:50:29__
+
 > Haven't use it yet so not sure what to say.<br> :date: __2021-01-12 01:12:16__
 
 > Bluetooth is always on but the app tells me to turn it on! Same after restarting the device and checking Bluetooth status<br> :date: __2020-12-30 18:52:58__
@@ -252,8 +254,6 @@ The StopCOVID NI app has been installed by more than **100000** times. At this t
 
 > No alert given for App update. No weekly alerts given for 2 consecutive weeks<br> :date: __2020-10-24 04:50:41__
 
-> Despite having my Bluetooth on constantly, the app is telling me tracing is not active. There is clearly a bug in the app that needs fixed.<br> :date: __2020-10-23 23:31:59__
-
 
 
 #### 1-star reviews
@@ -261,6 +261,12 @@ The StopCOVID NI app has been installed by more than **100000** times. At this t
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="net.hscni.covidtracker 1 reviews"/>
 </p>
+
+> The app told me to self isolate for a period of 10 days which ended 2 days before I got the notification.<br> :date: __2021-02-11 08:32:39__
+
+> Its not working...I have uninstalled it twice and reinstalled and its not even doing checks. I havent received anything from this app. This needs fixed if its designed to help prevent spread of Covid-19 and save lives. Very disappointed<br> :date: __2021-02-11 01:43:48__
+
+> Absolute waste of time. Even after spending 12 days in hospital and being exposed to co-vid, I received nothing from this app<br> :date: __2021-02-10 13:17:55__
 
 > I used this app from I tested positive it has never turned red etc like it suppose to 😡<br> :date: __2021-02-06 15:42:06__
 
@@ -275,11 +281,5 @@ The StopCOVID NI app has been installed by more than **100000** times. At this t
 > I have used it daily just to see if it works and it has never went off. I work on a Covid Ward... I also have family who were in the same place for the same amount of time with the same people and some got the notification and others didnt. It simply doesn't work.<br> :date: __2021-01-26 12:42:55__
 
 > It didn't send me any notification I happened to open my app and had 4 days self isolation left, that was certainly pointless considering I missed 6 days isolation and being around my co workers<br> :date: __2021-01-18 08:43:00__
-
-> Notified that I'd been exposed nine days previous and that I needed to isolate for one more day. Bit late notice considering I'm a key worker and have been working in the hospital during the previous nine days.<br> :date: __2021-01-17 04:45:13__
-
-> Why does it not check for exposure ive had 0 exposure checks for the past 25 days or so why???<br> :date: __2021-01-16 04:27:01__
-
-> Doesn't work properly<br> :date: __2021-01-06 12:46:58__
 
 

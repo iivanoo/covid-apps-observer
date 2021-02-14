@@ -229,6 +229,14 @@ The One Medical app has been installed by more than **100000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="com.onemedical.android 5 reviews"/>
 </p>
 
+> Terrific NP. Have found the NP's excellent, thoro, intelligent/thinkers. Wish the field was around 50 yrs ago. I would've studied<br> :date: __2021-02-13 15:13:38__
+
+> Excellent genuine service. Thanks<br> :date: __2021-02-12 10:26:33__
+
+> Works great<br> :date: __2021-02-11 16:31:15__
+
+> Easy to use. Good quality platform.<br> :date: __2021-02-08 14:11:41__
+
 > I love One Medical! Telemedicine has been such a comfort for minor health issues like refills during the pandemic.<br> :date: __2021-01-17 18:29:43__
 
 > The provider was amazing: helpful, kind, knowledgeable, pleasant, answered all my questions, and easy and fun to talk with. Perfect!<br> :date: __2021-01-15 00:07:34__
@@ -240,14 +248,6 @@ The One Medical app has been installed by more than **100000** times. At this ti
 > Love love love booking my own appointments<br> :date: __2020-12-26 21:09:46__
 
 > Love the one medical tream !!<br> :date: __2020-12-19 01:21:45__
-
-> Amazing app. Works super well!<br> :date: __2020-12-14 02:51:59__
-
-> Efficient.<br> :date: __2020-12-13 17:14:37__
-
-> Very comforting<br> :date: __2020-12-12 19:31:44__
-
-> Boom!<br> :date: __2020-12-12 16:53:18__
 
 
 

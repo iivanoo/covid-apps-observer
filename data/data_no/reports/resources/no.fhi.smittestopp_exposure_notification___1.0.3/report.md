@@ -148,6 +148,10 @@ The Smittestopp app has been installed by more than **100000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="no.fhi.smittestopp_exposure_notification 5 reviews"/>
 </p>
 
+> Grei app fungere fint!<br> :date: __2021-02-13 20:51:19__
+
+> Endelig er det en app som alle kan bruke. Men irriterende pling innimellom, hvorfor? Bluetooth tror jeg.<br> :date: __2021-02-11 12:24:48__
+
 > Merker ikke mer batteribruk. Bra app som vi alle bør installere.<br> :date: __2021-02-05 10:32:46__
 
 > En god trygghet. Har den i lomma hele tiden. Jobber i butikk og treffer mange i løpet av dagen. Funker veldig bra på min Samsung s 7. Ikke maser den, og ikke drar den mye strøm<br> :date: __2021-02-04 23:12:41__
@@ -163,10 +167,6 @@ The Smittestopp app has been installed by more than **100000** times. At this ti
 > Fungerer som en sjarm, har ikke hatt noen problemer med den!<br> :date: __2021-02-03 19:07:00__
 
 > Fungerer supert etter at den gikk over fra GPS til Bluetooth. Maser litt mye, men det ga seg når jeg skrudde av varslene.<br> :date: __2021-02-03 18:20:45__
-
-> Gjør ingenting av seg. Bare ligger der og passer på at jeg kan få og gi innsikt om en smittesituasjon skulle oppstå som kan påvirke andre. Den kunnskapen og muligheten er ikke tung! å bære<br> :date: __2021-02-02 01:55:05__
-
-> Bra<br> :date: __2021-01-28 14:49:31__
 
 
 
@@ -204,6 +204,16 @@ The Smittestopp app has been installed by more than **100000** times. At this ti
 <img src="3_star_reviews_wordcloud.png" alt="no.fhi.smittestopp_exposure_notification 3 reviews"/>
 </p>
 
+> Appen er enkel og funker bra, men den har en veldig irriterende push-varsling på Android som jeg ikke får skrudd. Push kommer hver gang "smittestopp undersøker om du har vært i nærheten av smittede personer". Dette er selvsagt irrelevant for meg; men gi meg gjerne push om jeg faktisk har vært i nærheten av noen som har markert seg som smittet!<br> :date: __2021-02-13 18:08:44__
+
+> Kommer med irriterende varsler mange ganger om dagen. Slike varsler burde være valgfrie. Vurderer å avinstallere pga. det.<br> :date: __2021-02-12 23:44:26__
+
+> I begynnelsen fungerte den utmerket. Etter siste OS-oppdatering har jeg begynt å få varsel hver eneste gang appen gjør en sjekk, noe som til tider skjer flere ganger i minuttet. Bare mens jeg har skrevet dette har den gitt varsel 3 ganger. Jeg tør ikke deaktivere varsler fra appen i Android heller, i frykt for å ikke få med meg at jeg har hatt nærkontakt av den uheldige typen.<br> :date: __2021-02-12 17:19:06__
+
+> Fungerer stort sett greit hele tiden, MEN.. virker som at den tar over bluetooth. Opplever dette når bilen min er kobla til telefon. Da kutter den samtalen.<br> :date: __2021-02-12 16:07:33__
+
+> Ett er noen dager.. slår appen seg automatisk av... dette er ikke helt bra<br> :date: __2021-02-09 22:29:15__
+
 > Helt greit Men jeg forventa flere features som en enkel statistikk på Covid-19 i Norge generelt.<br> :date: __2021-02-05 01:03:08__
 
 > Burde brukt wifi, ikke blåtann. Bruker nesten aldri blåtann. Betyr ofte inaktivert smittestopp hos meg og andre...<br> :date: __2021-02-04 09:51:11__
@@ -214,16 +224,6 @@ The Smittestopp app has been installed by more than **100000** times. At this ti
 
 > Jeg vet ikke om det er kun på min tlf at batteriet konstant viser 100% frem til man restarter den. Begynte da jeg installerte appen 🤔<br> :date: __2021-01-27 11:58:34__
 
-> Den virker helt fint!<br> :date: __2021-01-27 05:23:21__
-
-> Lastet ned da denne skulle være anonym i bruk og kun gå tlf til tlf via Bluetooth. Den aktiverte posisjon med en gang, når man tar av dette virker ikke appen. Da er det tull at den kun bruker Bluetooth.. app slettet etter 2min.<br> :date: __2021-01-26 12:28:19__
-
-> Fra torsdag 21.1.2022 logger ikke smittestopp seg inn. Får bare smittestopp har stoppet. Har forsøkt med flere Android telefoner. Samme resultat. Har nå avinstallere programmer.<br> :date: __2021-01-23 19:41:12__
-
-> Tar merkbart mye krefter fra mobilen. Blir herved kun brukt ved bybesøk.<br> :date: __2021-01-22 00:07:31__
-
-> Appen er fin, men den kom ni måneder for seint. Ingen som bruker den og da er den unyttig. Synd dere dreit dere ut med den første.<br> :date: __2021-01-17 06:29:04__
-
 
 
 #### 2-star reviews
@@ -231,6 +231,16 @@ The Smittestopp app has been installed by more than **100000** times. At this ti
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="no.fhi.smittestopp_exposure_notification 2 reviews"/>
 </p>
+
+> Sjekker utrolig ofte når det er få personer/mobiler i nærheten samtidig som den suger strøm.<br> :date: __2021-02-12 16:15:45__
+
+> Varsler hele tiden og hver gang jeg åpner en app. Fix dette.Hvis ikke avinstallerer jeg appen<br> :date: __2021-02-12 14:11:07__
+
+> Har kommet en oppdatering nå som gjør at det kommer opp notifications hele tiden. Sykt irriterende. To ganger mens jeg skrev de linjene over.<br> :date: __2021-02-10 19:45:41__
+
+> Alt for mange oppdateringer i perioder.<br> :date: __2021-02-09 00:58:49__
+
+> De siste 2 dagene popper det opp at den henter info 1-2 ganger pr minutt når jeg bruker telefonen til andre ting. Kjempe irriterende. Den fungerte helt fint i starten.<br> :date: __2021-02-07 01:15:42__
 
 > Den varsler og varsler og varsler om at den henter informasjon... selv om jeg skrur den av på kvelden. Jeg aner ikke om den gjør jobben, men jeg opplever den som masete. Er det med vilje? Kan ikke den bare gjøre jobben sin i bakgrunnen?<br> :date: __2021-02-05 23:51:56__
 
@@ -242,16 +252,6 @@ The Smittestopp app has been installed by more than **100000** times. At this ti
 
 > For meg som jobber i butikk er denne ubrukelig ettersom jeg er i kontakt med kunder hele tiden. Og enkelte ganger er jeg i kontakt med kunder mer enn 15 min.<br> :date: __2021-02-03 14:51:37__
 
-> Selv når jeg er hjemme på gården sjekker appen iblant hvert 5 minutt iblant oftere. Litt rart. Ellers bra app. Fikk 5 stjerner før den begynte å skekke veldig mye iblant. Virker litt som en feil.<br> :date: __2021-02-03 03:16:09__
-
-> Har ingen effekt.<br> :date: __2021-01-30 19:12:44__
-
-> Hvorfor har dere brukt tid og ressurser på å ha nynorsk i appen?<br> :date: __2021-01-30 08:16:01__
-
-> Var bra så lenge den virket. Den siste uken kræsjer den og lukker seg. Totalt ubrukelig....<br> :date: __2021-01-26 18:53:35__
-
-> Tømmer jo telefonen din for strøm asap<br> :date: __2021-01-26 10:19:47__
-
 
 
 #### 1-star reviews
@@ -260,24 +260,24 @@ The Smittestopp app has been installed by more than **100000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="no.fhi.smittestopp_exposure_notification 1 reviews"/>
 </p>
 
-> En app som driver å laster ned skjult innhold er uaktuelt å bruke<br> :date: __2021-02-06 18:51:51__
+> Appen gir KONSTANT notifikasjoner om at den søker om noen jeg har vært rundt har vært smittet. Hvorfor i huleste lyser den opp mobilen min med ubrukelig info. Vært stille eller si jeg kan ha blitt smittet. Endres ikke dette snart avinstalleres appen.<br> :date: __2021-02-13 21:45:53__
 
-> Kommer nesten konstant varsler om at appen søker etter info, selv når app ikke er aktivert. Greit nok når man er utenfor hjemmet, men ganske irriterende og unødvendig når man ikke har forlatt huset på en stund og åpenbart ikke har vært i kontakt med noen siden forrige "søk". Avinstallert inntil videre.<br> :date: __2021-02-06 11:43:28__
+> Ikke mye å hente her av nyttig informasjon om Covid 19. Så lenge det er frivillig å registrere seg så er det vel ikke mange som gjør dette. Jeg bor midt i Oslo men aldri opplevd at jeg har fått varsel om smitte Varslene kommer midt på natten selv om jeg har vært hjemme i mange timer. Nå avinstallere jeg appen.<br> :date: __2021-02-12 23:40:16__
 
-> Bruker veldig mye strøm. Og blir koko av alle varslene. Selv om jeg ikke har flyttet meg en meter ut av hjemmet.<br> :date: __2021-02-06 07:52:13__
+> Så jævlig med push-varsler om at den skal sjekke. Eg drite no vel I det når eg ikkje har vært utforbi døra den siste veka omtrent. Fleire ganger i timen. Eg har no byttet til corona warn. Den holder i det minste kjeften!!!<br> :date: __2021-02-12 22:51:21__
 
-> Jeg fikk en sms fra FHI om å laste ned. Tror ikke denne fungerer... Ingen oppdaget. Verken hjemme, utenfor, i butikken, på kjøpesenter eller på gata. Ser ikke noe poeng ha den på tlf min.<br> :date: __2021-02-05 22:05:49__
+> Nå starter den hele tid. Utvikler svar oss. Den statter hele tiden når jeg starter andre apper. Usikker på om jeg gidder dette. Ble slik for et par dager siden. Hva skjer?<br> :date: __2021-02-12 13:29:19__
 
-> Vil ikke aktiveres.. Galaxy S10+ og alle kriterier er der for at det skal virke.. Talentløst<br> :date: __2021-02-05 04:39:06__
+> Ikke<br> :date: __2021-02-12 09:28:17__
 
-> Avinstallerer pga veldig ofte og irriterende notification om at den henter informasjon om smittede.<br> :date: __2021-02-01 20:27:00__
+> Om ikke Bluetooth er på så maser den hele tiden at det ikke er aktivert, det orker jeg ikke å høre på<br> :date: __2021-02-12 07:44:25__
 
-> Dette må være laget av noen høyt oppe i systemet, for dette her fungerer bare ikke 😅<br> :date: __2021-01-31 19:07:01__
+> Var egentlig fornøyd med denne men den har nå begynt å sjekke smitte ca. Annenhvert minutt. Jeg prøvde å slå den av men da fortsatte den bare med å prøve å sjekke om jeg koblet meg til igjen. Jeg prøvde å stoppe den men ingen endring. Så nå vurderer jeg å avinstallere for dette er svært irriterende!<br> :date: __2021-02-11 07:34:57__
 
-> Nå fikk mobildata "bein å gå på" 12 GB på en mnd mot normalt 3-4 Gb pr mnd.....<br> :date: __2021-01-29 18:51:24__
+> I begynnelsen var det null stress. Men siste dagene kom det varsel HELE TIDEN. DET gidder vi ikke Høie.. Ble avinstallert.<br> :date: __2021-02-10 21:30:05__
 
-> Etter valg av språk flasher neste side opp ett kort øyeblikk og forsvinner ut i det blå. Får ikke mulighet til videre valg.. NB! Fungerte i starten/tidligere versjoner. BlackBerry Key2, Android versjon 8.1.0 NB! Da ser det endelig ut til at appen fungerer! Etter versjon 1.0.3 datert 27 januar fikk jeg installert OK!<br> :date: __2021-01-29 18:22:07__
+> Måtte avinstallere, maser/varsler hele tiden<br> :date: __2021-02-10 19:20:39__
 
-> Appen lukker seg m en gang jeg skal åpne den. Prøvd som flere her å avinstallere og laste på nytt. Samme skjer<br> :date: __2021-01-28 16:18:33__
+> Appen må reaktiveres flere ganger i døgnet...😟<br> :date: __2021-02-10 09:04:59__
 
 

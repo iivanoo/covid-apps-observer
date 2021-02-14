@@ -217,6 +217,12 @@ The DKV Quiero cuidarme Más: tu salud y médicos online app has been installed 
 <img src="5_star_reviews_wordcloud.png" alt="com.dkvservicios.quierocuidarmemas 5 reviews"/>
 </p>
 
+> Muy buena<br> :date: __2021-02-13 19:22:45__
+
+> Muy buena aplicación pedir citas y ponerte en contacto con médicos que te den recetas y consejos<br> :date: __2021-02-11 19:57:13__
+
+> parece que esta todo correcto pero se deberia desarrollar la app para windows , seria mas comodo para compartir los informes medicos y las recetas electronica , gana tiempo y evita ir a las consultas para temas leves. dos detalles mas : los correos de empresa o de dominio propio dan problemas solo acepta gmail, hotmail... y el codigo que hay que meter sobran los ultimos cinco ceros...en cualquier caso enhorabuena !!!!<br> :date: __2021-02-11 13:43:49__
+
 > Muy útil, con un trato excelente.<br> :date: __2021-01-22 11:06:41__
 
 > Genial, necesitaba una opinión médica y de un día para otro ya estaba consultando o line<br> :date: __2021-01-21 10:17:21__
@@ -231,12 +237,6 @@ The DKV Quiero cuidarme Más: tu salud y médicos online app has been installed 
 
 > Mui util<br> :date: __2021-01-06 14:16:46__
 
-> Muy bien por DKV<br> :date: __2020-12-22 11:36:27__
-
-> Muy buena<br> :date: __2020-12-19 23:20:17__
-
-> Muy bueno<br> :date: __2020-12-09 17:42:38__
-
 
 
 #### 4-star reviews
@@ -244,6 +244,8 @@ The DKV Quiero cuidarme Más: tu salud y médicos online app has been installed 
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.dkvservicios.quierocuidarmemas 4 reviews"/>
 </p>
+
+> Hola. Quiero saber la aplicación de DKV donde pueda ver los médicos que me entrar, hospitalización... Porque en este aplicación no me sale.Un saludo<br> :date: __2021-02-06 22:23:30__
 
 > Buen servicio con los medicos online<br> :date: __2021-01-28 12:08:06__
 
@@ -262,8 +264,6 @@ The DKV Quiero cuidarme Más: tu salud y médicos online app has been installed 
 > Sería interesante la búsqueda también por centro médico o clinica<br> :date: __2020-11-18 10:52:25__
 
 > Me parece muy útil la opción de consulta virtual, sin embargo de ha cortado, pero nonha supuesto un problema mayor, ya que se ha podido continuar con la consulta<br> :date: __2020-11-03 13:16:20__
-
-> Es muy completa,al principio me iba genial, pero últimamente no se ... pero se me desconecta sola y nunca había esperado 3h*; para contestación .. Y me voy a dormir 😴<br> :date: __2020-09-29 04:10:43__
 
 
 
@@ -319,6 +319,8 @@ The DKV Quiero cuidarme Más: tu salud y médicos online app has been installed 
 <img src="1_star_reviews_wordcloud.png" alt="com.dkvservicios.quierocuidarmemas 1 reviews"/>
 </p>
 
+> No me deja hacer nada, no tengo donde añadir mi tarjeta, ni el cuadro médico....nada....solo tengo una pantalla, cuando me consta que tiene que haber más....<br> :date: __2021-02-10 00:05:53__
+
 > Llevo toda la tarde intentando descargarla y no hay forma, vuelve a empezar una y otra vez. Ya la tuve que desistalar hace tiempo porque no funcionaba. Llamas al telefono que te dan de soporte 9300..... y nada que mandes correo electronico. Desastrosa la aplicación y la atención.<br> :date: __2021-02-04 18:27:25__
 
 > Horrible. Además de lenta no me deja cambiar la fecha de nacimiento ( pongo la mía y se pone sola 14/03/1978) y por tanto cuando quiero darme de alta como cliente no me reconoce.<br> :date: __2021-02-04 14:45:13__
@@ -336,7 +338,5 @@ The DKV Quiero cuidarme Más: tu salud y médicos online app has been installed 
 > fatal<br> :date: __2021-01-21 14:17:00__
 
 > Al registrarme pongo mi fecha de nacimiento y la app pone otra distinta, luego quiero modificarla y no me deja.<br> :date: __2021-01-21 11:16:33__
-
-> Horrorosa de mala voy a meterme y no me deja deberian de hacer algo para que fuese medianamente bien<br> :date: __2021-01-12 22:51:08__
 
 

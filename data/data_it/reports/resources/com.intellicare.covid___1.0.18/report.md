@@ -225,6 +225,10 @@ The LAZIOdrCovid app has been installed by more than **100000** times. At this t
 <img src="2_star_reviews_wordcloud.png" alt="com.intellicare.covid 2 reviews"/>
 </p>
 
+> non riesco più ad entrare per registrare i miei valori..è possibile riavere il link tramite sms<br> :date: __2021-02-13 16:11:30__
+
+> L'accesso al App è strano. Inseriti i dati, cliccato sul link. Account attivato. Accesso consentito. Tentando di entrare di nuovo, vedo già i miei dati, clicco su Accedi, messaggio su account non attivo (?), SMS inviato con link (non arriva nulla). Dove sbaglio?<br> :date: __2021-02-08 21:38:55__
+
 > La app nella ultima release ha difficoltà a scaricare le misurazioni già inserite e ad aggiungerne nuove: entra in loop<br> :date: __2021-01-27 10:08:17__
 
 > Dopo aver installato l'app e inserito i dati x 2 giorni l'app ha chiesto un aggiornamento fatto e da quel momento non mi fa più accedere mi chiede i dati di accesso dice ti ho inviato una conferma al numero ma non invia nulla e non riesco più ad accedere. Se ai miei tempi si facevano procedure del genere ci cacciavano a pedate.<br> :date: __2021-01-22 10:53:44__
@@ -241,10 +245,6 @@ The LAZIOdrCovid app has been installed by more than **100000** times. At this t
 
 > A parte che non posso valutare l'ultima release perché è in aggiornamento da mezz'ora (nell'attesa non si apre la precedente versione), suggerirei di scartare le doppie misurazioni (quelle identiche registrate dal sistema a pochi secondi di distanza). A mesi dal rilascio mi sembra ancora un prodotto in beta test<br> :date: __2020-08-27 11:21:59__
 
-> non compare più il nome del mio medico. L'avevo installata mesi fa e il nome del mio medico era regolarmente presente. L' installata di nuovo oggi, ma il nome non compare<br> :date: __2020-08-05 10:47:39__
-
-> Io vorrei sapere solo se altri hanno un problema di covid io sono un paziente sano e vorrei solo prevenire il contagio<br> :date: __2020-05-26 18:40:05__
-
 
 
 #### 1-star reviews
@@ -252,6 +252,12 @@ The LAZIOdrCovid app has been installed by more than **100000** times. At this t
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="com.intellicare.covid 1 reviews"/>
 </p>
+
+> Avevo installato l app 12 mesi fa, non funzionava. Cosi l ho disinstallata. Ci riprovo oggi e mi da lo stesso problema ... inserisco dati, arriva messaggio, click su link entro, esco....non entro più, e nella pagina iniziale mi dice account non attivo!!!!!!!!! Incredibile!!!!! Dopo un anno lo stesso problema, che, a quanto pare è comune a molti utenti.<br> :date: __2021-02-11 11:21:04__
+
+> Scaricata ma non si apre va' in crash, mandato mail ma nessuna risposta....<br> :date: __2021-02-10 21:21:26__
+
+> Inutile<br> :date: __2021-02-07 09:19:12__
 
 > Installata, compilato i campi, arriva l'sms con il link per l'attivazione dell'account,account attivato ma una volta riavviata l'app si chiude automaticamente andando in crash. Disinstallata e reinstallata identico problema. Inoltre una volta installata nuovamente mi diceva di premere sul link dell'sms per attivare l'account in quanto non attivo quindi le credenziali inserite precedentemente non le ha validate diversamente da quanto mi ha detto il sistema. Delusione profonda...<br> :date: __2021-02-05 11:32:51__
 
@@ -266,11 +272,5 @@ The LAZIOdrCovid app has been installed by more than **100000** times. At this t
 > Direi che... fa abbastanza caxxare. Non me ne vogliamo i colleghi programmatori, so che non è colpa loro. Ma credo sia un app approssimativamente inutile. Tra l'altro mi si è impallata mentre cercavo di usare il sistema di messaggistica interna<br> :date: __2020-12-17 16:03:26__
 
 > Nesuno rispode<br> :date: __2020-12-12 21:03:40__
-
-> Avevo installato questa app e mi sembrava davvero utile e funzionante più di tutte le app della regione. Ma da un tempo a questa parte non mi permette di comunicare con il medico e quindi a perso l'utilità. Ogni messaggio che invio al medico lo cancellate. Allora non ha senso tenere un app che non posso utilizzare.<br> :date: __2020-12-07 18:59:32__
-
-> Mi sono registrato ..e non và avanti ...mi dice che sono registrato con altro n. ? ...mai fatto questa è la prima volta ,il mio n. è lo stesso da 5 anni !! Bohhhhhh<br> :date: __2020-12-05 10:03:41__
-
-> Vorrei sapere chi ha creato un app inutile come questa. Sa qualcuno a cosa serve? Ma non avete nulla da fare a far perdere tempo a gente che sta male... Incompetenti.<br> :date: __2020-11-19 16:21:45__
 
 

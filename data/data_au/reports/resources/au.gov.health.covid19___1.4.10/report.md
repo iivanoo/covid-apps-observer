@@ -271,6 +271,8 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 <img src="1_star_reviews_wordcloud.png" alt="au.gov.health.covid19 1 reviews"/>
 </p>
 
+> Hopeless<br> :date: __2021-02-08 08:38:01__
+
 > Useless<br> :date: __2021-01-15 12:13:51__
 
 > No alert or information about the current lockdown issued today. Why no alert from this app or COVIDSafe?<br> :date: __2021-01-08 06:58:05__
@@ -288,7 +290,5 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 > Unfortunate that it provides incorrect information which causes difficulties for business. Since when were churches allowed 1 per 2sqm with a maximum of 150 for a religious ceremony - not a wedding or a funeral.<br> :date: __2020-12-07 04:05:26__
 
 > Never used and a waste of money by the government!<br> :date: __2020-11-08 22:39:03__
-
-> Very very very very disappointing<br> :date: __2020-10-11 10:52:04__
 
 

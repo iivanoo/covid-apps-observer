@@ -192,6 +192,12 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 <img src="5_star_reviews_wordcloud.png" alt="com.ascent.phr 5 reviews"/>
 </p>
 
+> Really good app, better than most I have used...<br> :date: __2021-02-10 23:06:48__
+
+> So easy to download and use. Should you need any help or advice the Staff are most friendly and understanding.<br> :date: __2021-02-09 16:23:35__
+
+> Easy to use you can also leave notes for your surgery to sort for you too...perfect for me...you can view personal info about yourself and it has a password to secure all personal information 🙂<br> :date: __2021-02-09 09:17:51__
+
 > Always easy to use and keeps you up to date at all times.<br> :date: __2021-01-31 19:05:27__
 
 > very good<br> :date: __2021-01-30 17:10:52__
@@ -206,12 +212,6 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 
 > Do not hesitate, this is the app you need, forget the rest, just started using it and it's brilliant.<br> :date: __2021-01-17 15:25:13__
 
-> so easy to order repeat prescriptions, would recommend to everybody<br> :date: __2021-01-14 18:22:02__
-
-> Great and easy to use<br> :date: __2021-01-14 09:35:00__
-
-> Reliable<br> :date: __2021-01-14 00:26:04__
-
 
 
 #### 4-star reviews
@@ -219,6 +219,8 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.ascent.phr 4 reviews"/>
 </p>
+
+> I find the app easy to use and so far have not had any issues.<br> :date: __2021-02-11 13:59:39__
 
 > works alright most of the time<br> :date: __2021-01-02 23:03:58__
 
@@ -237,8 +239,6 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 > straightforward and useful app<br> :date: __2020-11-30 22:57:14__
 
 > Quite a good app. All your medical info in one place. Only problem is when I send a message, no matter what it's about, I only get 'null' as a reply which isn't very helpful.<br> :date: __2020-11-19 12:17:35__
-
-> Useful!<br> :date: __2020-11-06 23:06:27__
 
 
 
@@ -276,6 +276,8 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 <img src="2_star_reviews_wordcloud.png" alt="com.ascent.phr 2 reviews"/>
 </p>
 
+> The app no longer loads up, I used it to order repeat prescriptions now it won't do anything<br> :date: __2021-02-13 09:41:43__
+
 > Seems to not ever load the prescriptions section which was the main reason I got it.<br> :date: __2021-02-02 00:17:09__
 
 > Not been able to order a prescription for the last 6 months using app. Was fine before that.<br> :date: __2021-01-28 13:02:32__
@@ -294,8 +296,6 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 
 > The app is not accepting either my PIN nor my password. I can only assume the app has crashed<br> :date: __2020-12-07 20:47:38__
 
-> over complicated if all you want to do is order a repeat prescription.<br> :date: __2020-11-28 18:06:24__
-
 
 
 #### 1-star reviews
@@ -303,6 +303,8 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="com.ascent.phr 1 reviews"/>
 </p>
+
+> Cannot log on. Password never recognised and biometric logon never works. I have had to delete the app and reinstall it, add a new password (same as the old one) and can then order repeat prescription. That happens every time I need to reorder. Have reported the problems to the admin of the app but problems persist<br> :date: __2021-02-08 13:26:22__
 
 > Rubbish app. Cannot access any information recently 😕. Its supposed to make GP access easier. Its such a pain.<br> :date: __2021-01-21 09:56:33__
 
@@ -321,7 +323,5 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 > now cannot put note onto repeat prescription<br> :date: __2020-12-10 17:01:41__
 
 > app works intermittently<br> :date: __2020-12-08 15:10:27__
-
-> keeps stopping mid prescription order<br> :date: __2020-12-08 11:16:05__
 
 

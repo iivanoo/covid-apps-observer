@@ -179,12 +179,10 @@ The OpenWHO app has been installed by more than **1000000** times. At this time,
 #### 3-star reviews
 
 <p align="center">
-<img src="3_star_reviews_wordcloud.png" alt="de.xikolo.openwho 3 reviews"/>
+
 </p>
 
-> Москов<br> :date: __2021-02-02 14:12:29__
-
-
+No recent reviews available with 3 stars.
 
 #### 2-star reviews
 

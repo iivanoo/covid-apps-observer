@@ -1,17 +1,5 @@
 [
     {
-        "reviewId": "gp:AOqpTOEPFsqtgQX-mGIKikPyjZlrnoVbaF72WJUpoezBgyQIVw2ZelxJ4XFMcRA-EV49yn4lxurZNmvbwG8QoQ",
-        "userName": "Har Sargsyan",
-        "userImage": "https://play-lh.googleusercontent.com/-DdfqjwsgN_Q/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckZ5DKGdto7TgE6K2XhggNvbgVmAA/photo.jpg",
-        "content": "\u041c\u043e\u0441\u043a\u043e\u0432",
-        "score": 3,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "3.7",
-        "at": "2021-02-02 14:12:29",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
         "reviewId": "gp:AOqpTOEAJBxvbcm652o97KO0y9ifYRh9smnLxXJjCQoe65y_jB0WGs2VNmfqbSnMOPtn7_PgpFT_aP9h8BS2Hw",
         "userName": "Narineee Abajjj",
         "userImage": "https://play-lh.googleusercontent.com/-hLo5I6GDcV8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmPLexHw5GO0lLWlYO6CbM27uXk_g/photo.jpg",
@@ -29,7 +17,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-NK7Q3IRjfng/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmSxLSGLhiQ37H5-k11sor2bQOGMg/photo.jpg",
         "content": "\u041d\u0435 \u043f\u043e\u043d\u044f\u0442\u043d\u043e \u043d\u0438\u0447\u0435\u0432\u043e",
         "score": 1,
-        "thumbsUpCount": 19,
+        "thumbsUpCount": 21,
         "reviewCreatedVersion": "3.7",
         "at": "2021-01-29 12:39:36",
         "replyContent": null,
@@ -101,7 +89,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-nOwmoF42t6g/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckp2vO0_NLcMND8z0szzLjH2QzLCg/photo.jpg",
         "content": "\u0411\u0435\u0441\u043f\u043e\u043b\u0435\u0437\u043d\u043e\u0435 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u042f \u0438\u0449\u0443 \u0441\u043a\u043e\u043b\u044c\u043a\u043e \u043f\u043e \u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d\u0443 \u0410 \u0442\u0443\u0442 \u0441\u0442\u0430\u0442\u044c\u0438 \u043d\u0435 \u043e \u0447\u0435\u043c",
         "score": 1,
-        "thumbsUpCount": 149,
+        "thumbsUpCount": 150,
         "reviewCreatedVersion": null,
         "at": "2020-04-06 07:31:50",
         "replyContent": null,

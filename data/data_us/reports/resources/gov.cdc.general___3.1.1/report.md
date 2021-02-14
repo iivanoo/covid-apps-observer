@@ -188,6 +188,8 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 <img src="5_star_reviews_wordcloud.png" alt="gov.cdc.general 5 reviews"/>
 </p>
 
+> Nice<br> :date: __2021-02-09 18:13:22__
+
 > Nice<br> :date: __2021-02-04 11:00:30__
 
 > Grest app to get up to dste info on thr pandemic as well as best practices for curtailing transmission. Grest as long as executive branch keeps his hands away from thr organization and allows them to help the people.<br> :date: __2021-01-12 12:41:08__
@@ -205,8 +207,6 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 > A lot of info ... easy to find what ur looking for. Thanks Great Job!<br> :date: __2020-12-12 19:24:07__
 
 > Love having up to date disease transmission protocols at my convenience 24/7. Great app<br> :date: __2020-11-08 02:28:28__
-
-> Information<br> :date: __2020-11-01 17:22:31__
 
 
 

@@ -186,25 +186,25 @@ The LiveHealth Online Mobile app has been installed by more than **500000** time
 <img src="5_star_reviews_wordcloud.png" alt="com.americanwell.android.member.wellpoint 5 reviews"/>
 </p>
 
+> Overall excellent experience. Dr Antall seemed very knowledgeable and confident and concerned with my issues and made some suggestions on how to get better results. She also made sure I understood her directions on following up with my pcp.<br> :date: __2021-02-11 19:33:46__
+
+> My experience with LiveHealth was delightful. I expected the Dr. to grab her RX-pad to quickly write & refill my prescriptions. But, i was pleasantly surprised to find that she actually took the time to ask me several questions about my underlying condition & I feel quite confident that together we were able to come up with a preventative plan that (over time) will improve my overall health. She was helpful & informative. I will definitely be using this app again, when it's time for a refill!<br> :date: __2021-02-11 03:36:40__
+
+> Great doctor<br> :date: __2021-02-10 15:25:19__
+
+> Amazing app service and all saved me risk of covid and took the fears of breaking isolation away<br> :date: __2021-02-09 01:22:19__
+
+> Good doctor .<br> :date: __2021-02-08 02:54:23__
+
+> The sound was a little difficult, but otherwise fine.<br> :date: __2021-02-07 20:16:56__
+
+> Best app out must get on ya phone<br> :date: __2021-02-06 22:25:18__
+
+> Amazing service<br> :date: __2021-02-06 20:56:42__
+
+> Very helpful<br> :date: __2021-02-06 18:50:45__
+
 > Quick. And informative.<br> :date: __2021-02-06 17:00:03__
-
-> Works great! Had a great experience!<br> :date: __2021-02-06 11:11:25__
-
-> So easy, and quick!<br> :date: __2021-02-05 15:57:59__
-
-> This app is an excellent workaround while we're all social distancing. It makes health more convenient.<br> :date: __2021-02-04 23:40:20__
-
-> Awesome experience!<br> :date: __2021-02-04 18:06:09__
-
-> Thank you so much! Fast and efficient.<br> :date: __2021-02-04 00:50:59__
-
-> Love it !!!<br> :date: __2021-02-01 07:06:08__
-
-> This is the best thing that's happened as a result of Covid<br> :date: __2021-02-01 01:38:48__
-
-> Very helpful<br> :date: __2021-01-31 20:30:16__
-
-> I had a great first experience the Dr was quick and friendly and i feel he actually listened to me and prescribed what i needed<br> :date: __2021-01-30 01:21:35__
 
 
 
@@ -298,6 +298,8 @@ The LiveHealth Online Mobile app has been installed by more than **500000** time
 <img src="1_star_reviews_wordcloud.png" alt="com.americanwell.android.member.wellpoint 1 reviews"/>
 </p>
 
+> Will not respond to refill requests causing you to not only have your treatment delayed, but also to pay an additional $60 for an appointment. I have tried at least 8 times with multiple providers.<br> :date: __2021-02-10 14:41:05__
+
 > Never works<br> :date: __2021-01-30 00:36:54__
 
 > Doctor told me to drink more water. Regular doctor told me to go to the ER. This app is a scam and dangerous.<br> :date: __2021-01-28 15:32:09__
@@ -315,7 +317,5 @@ The LiveHealth Online Mobile app has been installed by more than **500000** time
 > Dosent load<br> :date: __2021-01-08 20:36:02__
 
 > Can't update card number and therefore can't even make appointments. Customer service said they'd "open a ticket for me" so I am left waiting to be able to see a dr until they're tech system is fixed for something that should be completely routine, like updating a credit card. Greedy company with garbage technology.<br> :date: __2021-01-06 18:52:40__
-
-> $59 for a visit, the doctor recommended that I receive a COVID-19 test but the catch is, no testing sight within a hundred miles of my area would take the recommendation because this company can't send it in a fax. Had to be seen for another visit and evaluation in person and pay ANOTHER co-pay to get tested. Wasted $59 dollars. Great virtual doctor and was able to prescribe non-conrtolled substance medication, just that they're basically treated as illegitimate by actual health care facilities.<br> :date: __2021-01-04 04:41:43__
 
 

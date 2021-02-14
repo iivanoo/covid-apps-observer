@@ -202,6 +202,8 @@ The Penn State Health OnDemand app has been installed by more than **10000** tim
 <img src="5_star_reviews_wordcloud.png" alt="org.pennstatehealth.android.pshh.ondemand 5 reviews"/>
 </p>
 
+> Good experience. Excellent video and sound.<br> :date: __2021-02-11 22:06:45__
+
 > App worked flawlessly. Excellent !!!<br> :date: __2021-02-04 19:24:15__
 
 > Good<br> :date: __2021-02-02 19:23:32__
@@ -219,8 +221,6 @@ The Penn State Health OnDemand app has been installed by more than **10000** tim
 > Great<br> :date: __2021-01-25 14:57:11__
 
 > Always a pleasant visit with Dr Gomaa.and staff all are great<br> :date: __2021-01-22 16:30:45__
-
-> Exceptional<br> :date: __2021-01-15 21:00:41__
 
 
 

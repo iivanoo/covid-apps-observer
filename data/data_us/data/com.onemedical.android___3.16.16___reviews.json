@@ -1,5 +1,53 @@
 [
     {
+        "reviewId": "gp:AOqpTOHF0j3RJqVsltYoRsUaLpKqM5tGXgstpn8FZNEjcAp7JlU8ZK9bIX1S3LYgS0scwVpvL0xQ9RUsb7tiE3k",
+        "userName": "Judith Nemzer",
+        "userImage": "https://play-lh.googleusercontent.com/-gSlbGAoJhXE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclkSMoPRI8eHVWqsUrYDAIMct5fmQ/photo.jpg",
+        "content": "Terrific NP. Have found the NP's excellent, thoro, intelligent/thinkers. Wish the field was around 50 yrs ago. I would've studied",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.16.16",
+        "at": "2021-02-13 15:13:38",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOEhJookR09BdzM8NaZsZv-3kaQ38KI-JOOTi3o1zpksZtpB4lL0WUCPlmiLj8l7fhFVodHunjm3eR-e85s",
+        "userName": "Mostapha Ferhaoui",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ghb0UAM0aCzoJDteGXEz12oYRvgUqbhHMGsUMJI2Q",
+        "content": "Excellent genuine service. Thanks",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.16.16",
+        "at": "2021-02-12 10:26:33",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFlIEAsTHP9nTfvvhOfJaIHQsycrZRSMxPztmFx-CCQsiNYBXoaZeq9lwgb4Q1uXtrVJ_o6P-ztrVLb5Qk",
+        "userName": "Milagros Pi\u00f1on",
+        "userImage": "https://play-lh.googleusercontent.com/-F21YBb_Dfec/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclQTnPnV5MGzezrpTRQY3Yjdxjd0w/photo.jpg",
+        "content": "Works great",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.16.16",
+        "at": "2021-02-11 16:31:15",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOF6-OZryIz8Hqz-bZ2hn9RY1V4-kIVeSV0il_PKTnZS63KyIuJ0HzgIuO087VUV75zXZKNLLdB1uvbwpQM",
+        "userName": "C H",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhtT3UibzN8X72KNIwiuzps0fILpqV4kh-9Nj4-yA",
+        "content": "Easy to use. Good quality platform.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.16.16",
+        "at": "2021-02-08 14:11:41",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOGyTRVA6uoqhcbBcQXDWrFd3Qbc9394D9VADvlZxbJn6Vuc7uLexlwLVdX6DmAl6naNjhUcyH4MzBlysGQ",
         "userName": "Alan Wang",
         "userImage": "https://play-lh.googleusercontent.com/-m_G6QnMMLSU/AAAAAAAAAAI/AAAAAAAAF88/AMZuucnYKL0GOtUEuQrQL15hdN1h7ZdaXA/photo.jpg",
@@ -113,7 +161,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GixWE5z5PUxjZKZd3R7qQzY4rbbsMMWo_3wJEu2rA",
         "content": "The video chat option is great for last minute visits for non-urgent medical issues. One Medical has been my provider for nearly a decade and I've been very happy with my medical needs, both preventative and reactive.",
         "score": 5,
-        "thumbsUpCount": 3,
+        "thumbsUpCount": 4,
         "reviewCreatedVersion": "3.16.13",
         "at": "2021-01-02 19:18:24",
         "replyContent": null,
@@ -2501,7 +2549,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhtA6HTKVdwlMxsIu2ed25pooOGSlsytWVdn1dVwQ",
         "content": "This is one of the worst efforts at creating an Android app. It doesn't even work. You turn on fingerprint unlocking and it ignores it. You try to book an appointment and it tells you that that appointment is no longer available. Just uninstall and use the website. You can then book the appointment the app said is no longer available.",
         "score": 1,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": null,
         "at": "2019-05-01 01:55:47",
         "replyContent": null,
@@ -2554,18 +2602,6 @@
         "at": "2019-02-25 19:01:19",
         "replyContent": "I\u2019m so sorry to hear about your experience. Feel free to email us at feedback@onemedical.com and someone on our staff can reach out to you and directly address your concerns",
         "repliedAt": "2019-02-27 00:34:27"
-    },
-    {
-        "reviewId": "gp:AOqpTOGU6cCcSKa1u-_JwS2ZFgc3oRQfgyTFD7_gBZt-HaRVg6BJQChTd4iqhtGCrtDocsNzaaE6SyqxXgG-1O4",
-        "userName": "Christopher White",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgMokN121rPtxi_wibjtC7cSjy7hNESF3HdKdCB6ec",
-        "content": "Total waste of time do not use these guys they are not medical professionals.",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "3.12.2",
-        "at": "2019-02-22 18:20:53",
-        "replyContent": "I\u2019m so sorry to hear about your experience. Feel free to email us at feedback@onemedical.com and someone on our staff can reach out to you and directly address your concerns",
-        "repliedAt": "2019-02-27 00:35:33"
     },
     {
         "reviewId": "gp:AOqpTOEbKALNhdU0Jd1krln-1GhVrgmqjJu3V3Y9NeqG3BNEuREkZ2LOLlJAQxMrnwqihiREWIktvfjEUxCbsC8",

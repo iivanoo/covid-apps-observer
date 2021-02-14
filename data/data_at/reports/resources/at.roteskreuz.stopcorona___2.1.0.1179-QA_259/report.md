@@ -148,6 +148,14 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 <img src="5_star_reviews_wordcloud.png" alt="at.roteskreuz.stopcorona 5 reviews"/>
 </p>
 
+> Ich fühle mich sicher mit dieser App! Danke dafür! 😉<br> :date: __2021-02-11 13:20:17__
+
+> Finde diese App ist sehr praktisch<br> :date: __2021-02-11 12:21:11__
+
+> Ich hatte noch keine Warnung über einen Kontakt mit positiv getestete Person.<br> :date: __2021-02-11 11:53:04__
+
+> Finde ich sehr wichtig!<br> :date: __2021-02-07 12:41:40__
+
 > Super<br> :date: __2021-02-06 20:31:38__
 
 > Sehr sinnvolle App, die eigentlich verpflichtend für Alle sein sollte<br> :date: __2021-02-05 23:06:35__
@@ -159,14 +167,6 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 > Relativ wenig<br> :date: __2021-02-04 12:02:21__
 
 > Bin froh , dass es die App gibt<br> :date: __2021-02-04 08:03:30__
-
-> Sehr gut<br> :date: __2021-02-04 07:36:34__
-
-> Finde diese App theoretisch gut, kann nicht sagen wie sie sich in der Praxis bewährt. Habe noch nie eine Rückmeldung erhalten - ist ja hoffentlich auch einfach nur ein gutes Zeichen !<br> :date: __2021-02-03 21:54:51__
-
-> Ich hoffe, dass es funktioniert. Ich selbst verhalte mich den Regeln gerecht.<br> :date: __2021-02-03 21:39:11__
-
-> Das System ist eine großartige Idee um das Virus verfolgen und entdecken zu können.<br> :date: __2021-02-03 16:47:04__
 
 
 
@@ -232,6 +232,10 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 <img src="2_star_reviews_wordcloud.png" alt="at.roteskreuz.stopcorona 2 reviews"/>
 </p>
 
+> Offensichtlich sinnlos und lässt den User im Regen stehen. Ich bekam heute eine Warnung eines möglichen Kontaktes. Dieses nicht ausgereifte Stück Software zeigt nicht mal an, an welchem Tag der Kontakt statt gefunden hat. Erst eine Kontaktaufnahme der betroffenen Person bestätigte die offensichtliche Quelle des Kontakts (Gott sei Dank alles negativ). Seit dem nervt die App im ca 30min. Takt mit Warnmeldungen. Lt. App hatte ich jetzt schon 5 weitere Kontakte. Stümperhaft. Schade ums Geld.<br> :date: __2021-02-07 11:27:25__
+
+> Ist das gleiche wie mit Lockdown: App ist nur sinnvoll, wenn alle mitmachen.<br> :date: __2021-02-07 10:49:50__
+
 > Okay<br> :date: __2021-02-06 14:13:44__
 
 > Habe sie fast nie ein geschaltet bin eigentlich fast immer zu Hause arbeiten du ich in der Schweiz drum Drau mich nicht Handy mit nehmen wegen teurer Rechnung im nicht EU Land<br> :date: __2021-02-04 18:45:52__
@@ -248,10 +252,6 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 
 > Ich habe dutzende Benachrichtigungen über Kontakte, obwohl ich in dieser Zeit definitiv allein zu Hause war. Es kann auch nicht von einer anderen Wohnung sein, ich lebe in einem Einfamilienhaus, weit und breit kein Mensch. Vielleicht könnte man die Mitglieder des eigenen Haushaltes auf eine Whitelist setzen. Da wird man es ohnehin erfahren wenn sie positiv sind<br> :date: __2021-01-02 13:26:53__
 
-> Gute idee aber wirklich schlecht programmiert. Hatte jetzt Covid und habs gleich mal in der App gemeldet, dann anonym alle verständigt die laut App Kontakt hatten. Und dann begann ein unendlich nerviger Kreislauf. Ich habe mich während der Quarantäne nicht 1mm aus der Wohnung bewegt und wurde trotzdem 5 mal täglich gefragt, ob ich nicht allen Kontakten Bescheid geben will. Ausserdem kann ich mich uns verrecken nicht gesund melden. Genervt von 10 nachrichten am Tag hab ichs jetzt deinstalliert.<br> :date: __2020-12-27 13:05:27__
-
-> Eine App die vieles erleichtern sollte dies aber nicht wirklich macht. Habe mich am 30. Nov mit meiner Covid Erkrankung und Ärztlicher Bestätigungen als erkrankt registriert. Nach meiner 10 Tägigen Quarantäne und Genesung kann ich dies nicht in der App registrieren. Meine Lebensgefährtin...gleiche Haushalt wurde trotz aktiviertem App erst 2 Tage nach meiner Meldung informiert. Nach meiner Covid Meldung wurde ich dennoch 3x täglich gefragt haben sie Symptome, geht es ihnen gut. Unnötige Frage<br> :date: __2020-12-15 12:48:43__
-
 
 
 #### 1-star reviews
@@ -260,24 +260,24 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 <img src="1_star_reviews_wordcloud.png" alt="at.roteskreuz.stopcorona 1 reviews"/>
 </p>
 
+> Anwendung gelöscht. Hat keine Funktion, seit Monaten keine Angabe von Kontakten usw. Dafür werden andere BT-Verbindungen (Autofreisprech, Headset etc.) permanent geblockt. Diese funktionieren erst nach deaktivieren der Stopp Corona App.<br> :date: __2021-02-11 15:49:20__
+
+> Hätte mir viel mehr erwartet, inzwischen hätte man ja vielleicht neue Funktionen einbauen können, wie Impfanmeldung, Info zur Inzidenz Entwicklung etc. So nutzt die App eigentlich erst wenn du offiziell als infiziert gemeldet bist, und da nur jenen die sie auch installiert haben. Nett, aber ausbaufähig<br> :date: __2021-02-11 10:45:16__
+
+> Verwendet die noch jemand? Irgendeine Info, ob sie überhaupt was tut (Anzahl der Kontakte mit anderen Corona Apps, Gesamtanzahl der Risiko Kontakte die mittels der App identifiziert wurden) wäre gut. Gibt auch keine updates dafür. Wieder deinstalliert.<br> :date: __2021-02-08 09:27:55__
+
+> Wenn eine Mehrheit der Bevölkerung intellektuell überfordert ist, den Sinn dieser App zu erfassen, ist diese eben wenig sinnvoll. Die Frage, ob das Design anspricht und die App gefällt, passt dazu.<br> :date: __2021-02-07 23:13:32__
+
+> Diese App funktioniert überhaupt nicht, meine Nachbarn hatten Corona mussten 2wochen zu Hause bleiben, ich bekam auch keine Warnung, habe Alles gelöscht was Corona betrifft, bin sowas von der App Enttäuscht 😞 😞 und was Corona betrifft.<br> :date: __2021-02-07 11:36:19__
+
 > Funktioniert sie überhaupt?<br> :date: __2021-02-05 20:07:28__
 
 > Mein Eindruck ist, die App ist für fast gar nichts. Sie ist beinahe so doof und unfähig wie ihr Erfinder.<br> :date: __2021-02-05 00:34:34__
 
 > keine<br> :date: __2021-02-04 18:33:05__
 
-> Verwendet die noch jemand? Irgendeine Info, ob sie überhaupt was tut (Anzahl der Kontakte mit anderen Corona Apps, Gesamtanzahl der Risiko Kontakte die mittels der App identifiziert wurden) wäre gut. Gibt auch keine updates dafür. Wieder deinstalliert.<br> :date: __2021-02-04 15:43:53__
-
 > Seit letzdem Update gar keine Info mehr. Hab die APP gelöscht. Gute Absicht aber leider sehr schlechte Umsetzung. Der User hat generell das Gefühl, es passiert nichts. Als mindest-Info sollte man gleich am Startbildschirm Zähler für n Kontakte, Zähler je Tag, eventuell auch Zähler >15 Min. sehen. Eine APP die nichts zeigt - was soll das sein?<br> :date: __2021-02-04 11:56:16__
 
 > Ich war jetzt 2 Wochen nur zu Hause und das ganz alleine und die App sagt mir das ich sehr viel Kontakt mit anderen Menschen habe. Wahrscheinlich kommt das von den vielen Leuten die immer an meinem Zuhause vorbeikommen.<br> :date: __2021-02-01 17:02:50__
-
-> Wer das Runterlädt, Kein KOMMENTAR! Absolut Müll & so hört der LOCKDOWN niemals auf. Bitte hört alle auf. Bitte, Bitte, Bitte!<br> :date: __2021-02-01 10:10:01__
-
-> Von 5* zu 2*. Die mit Sicherheit langweiligste App der Welt von der man nicht mal weiß ob sie funktioniert weil sie einfach nichts tut. Könnt ihr bitte die DEUTSCHE APP kaufen?!?! Ich denke, dass der App Entwickler keine Ahnung von der Zielgruppe hat. Dass es einen spielerischen Charakter braucht für Akzeptanz. Überlege den langweiligen Ressourcen Fresser zu löschen. Sorry! Die Idee selbst ist begrüßenswert. Ich denke, dass der Ärger aus der ersten Zeit nun vorüber ist. Es wäre jedoch toll, wenn es so eine Art Test Modus gäbe, der einem zeigt, dass es geht. Ob die App nun funktioniert oder nicht kann ich nicht sagen. Sie macht auf jeden Fall keine Probleme und hält sich an den Datenschutz.<br> :date: __2021-02-01 09:13:42__
-
-> Die App funktioniert nicht<br> :date: __2021-01-31 17:08:49__
-
-> Ich bin positiv getestet worden und habe das in der App bekannt gegeben. Bei zwei Personen, die verständigt werden sollten, wurde nur eine tatsächlich informiert. Seither werde ich täglich mehrmals gefragt, wie es mir geht. Ich gebe an, dass ich keine Symptome habe und die App sagt mir "Bleiben Sie gesund...". Das ist ein blöder Tipp, denn das hab ich jetzt nicht mehr in der Hand und ich finde es höchst lästig, dauernd nach meinem Befinden gefragt zu werden. Was bringt das?<br> :date: __2021-01-31 15:10:50__
 
 

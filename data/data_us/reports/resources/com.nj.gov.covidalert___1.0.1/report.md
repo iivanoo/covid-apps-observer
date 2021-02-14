@@ -145,6 +145,10 @@ The COVID Alert NJ app has been installed by more than **100000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="com.nj.gov.covidalert 5 reviews"/>
 </p>
 
+> Very helpful in staying up to date with county and state covid statistics.<br> :date: __2021-02-12 00:46:22__
+
+> If you live in great state of New Jersey in the United States you should be using this app.<br> :date: __2021-02-08 13:38:54__
+
 > Great idea. Great app.<br> :date: __2021-02-05 15:41:31__
 
 > Keeps me posted on what is going on<br> :date: __2021-01-30 23:21:39__
@@ -160,10 +164,6 @@ The COVID Alert NJ app has been installed by more than **100000** times. At this
 > Ok<br> :date: __2021-01-09 02:54:21__
 
 > Great concept. And as more and more of us participate, the more it will help to protect us all.<br> :date: __2021-01-06 23:59:44__
-
-> The Covid- 19 alert app is only good "if you have bluetooth" 😣😞 in which i do not have,<br> :date: __2020-12-30 21:48:59__
-
-> Estare informado del virus<br> :date: __2020-12-29 06:36:39__
 
 
 
@@ -201,13 +201,15 @@ The COVID Alert NJ app has been installed by more than **100000** times. At this
 <img src="3_star_reviews_wordcloud.png" alt="com.nj.gov.covidalert 3 reviews"/>
 </p>
 
+> Never received any alerts<br> :date: __2021-02-12 03:18:12__
+
+> The app icon went from filling in the whole circle to becoming an unreadable tiny square in a circle.<br> :date: __2021-02-07 18:56:39__
+
 > Okay<br> :date: __2021-01-30 07:35:25__
 
 > Graph of deaths by day is very wrong.<br> :date: __2021-01-27 18:07:12__
 
 > The numbers for confirmed cases and deaths are wrong.<br> :date: __2021-01-18 21:33:16__
-
-> The adaptive icon randomly becomes a square.<br> :date: __2021-01-13 19:52:55__
 
 > This app needs improvement. When you get an exposure alert it doesn't tell you the date of exposure, just that it was within the past 14 days. So you could already be out of the quarantine period or only need to test and isolate for a few days. Giving the date of exposure seems important.<br> :date: __2021-01-06 00:25:46__
 
@@ -218,8 +220,6 @@ The COVID Alert NJ app has been installed by more than **100000** times. At this
 > Works ONLY: #1. If an infected person ALSO has the APP and you both have Bluetooth &. Location turned on. And #2. You come within 6 Feet for more than 10 minutes of an infected person AND #3 The infected person AGREES to allow the Tracers to access the app code information. What code? When your phone meets another phone ( see #1) a code is sent via bluetooth to both phones. The app remembers the code info. The tracer simply activates that code to send you an alert. Good for crowds etc.<br> :date: __2020-11-18 04:34:50__
 
 > This app collects daily data well enough, BUT IT GIVES LITTLE INFO THAT CAN HELP PEOPLE!! PLEASE IMPROVE IT!!! - County-level % is % of STATE!! USELESS!! WHAT'S IMPORTANT is the current 7 day positivity testing rate!!! - NOT BY COUNTY, BUT BY MY CURRENT LOCATION!!! - EVEN BETTER: GIVE THE % POSITIVITY WITHIN A 1,5,10,25 MIKE RADIUS!!! THIS WAY, PEOPLE CAN MANAGE RISK!!! - YOU HAVE THE GPS COORDINATES OF EVERYONE, SO YOU CAN DO THIS!!! WHY DON'T YOU????<br> :date: __2020-11-15 21:25:32__
-
-> Just really want to know if the app talks to the NY and PA apps? I deal with people from both daily.<br> :date: __2020-11-15 21:15:30__
 
 
 
@@ -257,6 +257,10 @@ The COVID Alert NJ app has been installed by more than **100000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="com.nj.gov.covidalert 1 reviews"/>
 </p>
 
+> Good<br> :date: __2021-02-10 22:35:09__
+
+> Do not like this app<br> :date: __2021-02-07 19:49:52__
+
 > Bogus<br> :date: __2021-02-03 06:12:06__
 
 > nobody uses it<br> :date: __2021-01-25 07:24:34__
@@ -272,9 +276,5 @@ The COVID Alert NJ app has been installed by more than **100000** times. At this
 > #PRESIDENTSTEVENKING #STEVENKING I KNOW THE CURE FOR COVIDE, FDA APPORVED ME TO RESEarch<br> :date: __2021-01-01 22:54:10__
 
 > I tested positive yesterday, but there is no way to tell the app. I can only report symptoms. Apparently I need a 6 digit code from some health department to let the app know I was positive. So until I get that code nobody who was in proximity to me will get a notification and will therefore keep spreading the 'rona.<br> :date: __2021-01-01 22:32:23__
-
-> Absolutely worthless. Contracted covid from a person that contracted covid while in hospital. The contact tracer was not able to get the 6 digit code I needed for the app. Also Drs are refusing to test likely positive people. There's no way to use the app as intended without a test or a code, don't bother with the invasion of privacy.<br> :date: __2020-12-26 07:40:54__
-
-> Your "ENABLE EXPOSURE ALERT" button has not worked since its launch. Gone into settings > exposure alert > enable and NOTHING. Have an Android phone but know of iPhone users with the same problem. Located in Morris County, NJ. PLEASE FIX THIS!!<br> :date: __2020-12-22 14:24:30__
 
 

@@ -193,25 +193,25 @@ The NHS App app has been installed by more than **1000000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="com.nhs.online.nhsonline 5 reviews"/>
 </p>
 
-> Easy to use<br> :date: __2021-02-06 15:43:05__
+> Always 😆<br> :date: __2021-02-13 06:59:47__
 
-> So easy to re-order my prescriptions<br> :date: __2021-02-06 13:42:27__
+> So far so good.<br> :date: __2021-02-12 16:17:01__
 
-> Easy to use<br> :date: __2021-02-06 13:37:34__
+> Easy to use. Good for advice on what to do, what to expect and how to treat/self manage.<br> :date: __2021-02-12 14:47:55__
 
-> Great app. Saves keep pestering your Dr.<br> :date: __2021-02-06 12:48:52__
+> Good<br> :date: __2021-02-12 09:57:23__
 
-> Trusted accurate<br> :date: __2021-02-06 11:32:49__
+> Good<br> :date: __2021-02-12 01:33:14__
 
-> So much better than speaking to a stroppy person on reception<br> :date: __2021-02-06 09:31:48__
+> Found it easy to register. Very good so far.<br> :date: __2021-02-12 00:33:50__
 
-> The app is easy to use and navigate<br> :date: __2021-02-05 23:38:27__
+> Simple to use. Clear uncluttered screens. Clear uncomplicated instructions. Effective stress buster!<br> :date: __2021-02-11 14:48:13__
 
-> Very easy to use<br> :date: __2021-02-05 20:07:13__
+> So useful for ordering prescriptions and booking appointments<br> :date: __2021-02-11 14:10:38__
 
-> Makes sense, everybody should down load it<br> :date: __2021-02-05 20:00:44__
+> All my records are accessible including details of my Covid-19 vaccine. A faff to setup as it needs documents uploaded but worth it.<br> :date: __2021-02-11 08:44:19__
 
-> Its good<br> :date: __2021-02-05 17:23:17__
+> Complex to set up (as it should be: protects your healthcare data) but extremely useful once done. Some of the limitations lie with the surgeries and hospitals enabling sharing rather than the app.<br> :date: __2021-02-10 14:25:20__
 
 
 
@@ -220,6 +220,16 @@ The NHS App app has been installed by more than **1000000** times. At this time,
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.nhs.online.nhsonline 4 reviews"/>
 </p>
+
+> Seems Ok Seting up your NHS access on a laptop or tsblet to avoid fiddling atound with a phone. Some typical design problems. The back button on the phone should have the same function as the back button on the page as you could easily log out. The scroll nars are too thin, particlarily on the desktop version. Date of birth doesnt tab from box to box. Doese anybody who designs these things ever use them!<br> :date: __2021-02-12 13:16:29__
+
+> Works for me now.<br> :date: __2021-02-11 19:51:43__
+
+> Seems yo work well<br> :date: __2021-02-11 13:00:02__
+
+> Easy to use and gives access to my information plus the ability to order repeat prescriptions. Would like to see vaccination status shown going forward.<br> :date: __2021-02-10 18:25:18__
+
+> Easy to download. Very helpful for accessing NHS number. Hopefully will make my life easier in future. Potentially a very useful timesaving tool.<br> :date: __2021-02-07 12:48:27__
 
 > Very simple and easy to use<br> :date: __2021-02-06 09:02:29__
 
@@ -231,16 +241,6 @@ The NHS App app has been installed by more than **1000000** times. At this time,
 
 > Great app, my only criticism would be is still receiving security codes after ticking to 'remember this device'<br> :date: __2021-02-04 19:31:45__
 
-> Up until the last month I have not had any issues. However I ordered several medications and one if them was not included. I suspected that I mustn't have selected it and reordered it, however on checking I saw that the app had still not sent the orser through and I had to try again. This time it was ordered. This however means that I have had to continue using a 28 day expiry medication past its expiry!<br> :date: __2021-02-04 13:51:10__
-
-> Took a while to set up but that was expected as information is private. Easy to use and easy access if information<br> :date: __2021-02-01 22:31:04__
-
-> Works fine<br> :date: __2021-02-01 10:12:00__
-
-> Very useful app. Much easier to order a repeat prescription<br> :date: __2021-01-30 22:53:07__
-
-> Easy to use<br> :date: __2021-01-29 05:06:48__
-
 
 
 #### 3-star reviews
@@ -248,6 +248,10 @@ The NHS App app has been installed by more than **1000000** times. At this time,
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="com.nhs.online.nhsonline 3 reviews"/>
 </p>
+
+> Tried to update the app and it won't work. Uninstalled the original to start again and that won't load. Is there a problem I a ready had the app on my phone and have been using it satisfactorily for months. It was only when I was asked to update it and it wouldn't let me use it until I did, that I had problems with it. My phone is up to date and has plenty of storage and memory. It is the app which has the problem. It was fine until the update.<br> :date: __2021-02-12 02:53:10__
+
+> Not the best app I've ever attempted to use, insists on telling me there's a problem with my connection, strangely everything else on my phone works! Of course UK gov can't be their fault now can it. Could be a very good app with a bit of knowledgeable input<br> :date: __2021-02-09 14:18:03__
 
 > The log in took over four hours to complete. It will not load on my laptop. Once everything is up loaded on to a smart phone. you log in to check perscriptions all you get is an error message. I still do not know if they have been ordered and they have just ran out, so now still have to ring to find out. the phone charges are now over forty pounds. A complete waste of time and money !!!!!!!! I now have no error messages so all is working at the moment, fingers crossed up the star rating .<br> :date: __2021-02-03 16:12:08__
 
@@ -265,10 +269,6 @@ The NHS App app has been installed by more than **1000000** times. At this time,
 
 > "we could not change your fingerprint setting". But every other app can.<br> :date: __2021-01-15 21:22:44__
 
-> Too many screens, log in is not the easiest.<br> :date: __2021-01-14 17:09:57__
-
-> Gps need to sign up to this then it will work<br> :date: __2021-01-06 09:27:43__
-
 
 
 #### 2-star reviews
@@ -276,6 +276,14 @@ The NHS App app has been installed by more than **1000000** times. At this time,
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="com.nhs.online.nhsonline 2 reviews"/>
 </p>
+
+> Tried to use this to connect without having to go via the surgery but it just says "Sorry - we cannot connect you to your GP surgery" and prompts me to sign up to online services via the surgery (who, when I called them, could not find the information required by the app) This error occured even though I got the verification email saying the surgery has approved it. Currently awaiting a response to the query I raised via link provided.<br> :date: __2021-02-12 12:42:09__
+
+> Internet connection error! I have been through all of the validation process and had a message of confirmation from my surgery, but every time I try to use the app I get a message saying Internet connection error. There is no issue with my Internet but I cannot use the app.<br> :date: __2021-02-11 18:48:49__
+
+> Takes to long to fill out<br> :date: __2021-02-08 13:02:28__
+
+> Not very user friendly. History deleted without any notice.<br> :date: __2021-02-08 01:40:38__
 
 > App is great concept...but varification to set it up is a nightmare! Confirming your ID is a problem at the point when you have to do a video and talk 4 secure numbers given to you. The start video now does not find video function and you have no search options as it retainsand goes auto to the galley from when you took a photo of your chosen ID to send.<br> :date: __2021-02-06 15:12:32__
 
@@ -289,14 +297,6 @@ The NHS App app has been installed by more than **1000000** times. At this time,
 
 > needs to update nhs calls on appointments you have done through app for medical advice please<br> :date: __2021-01-31 22:46:33__
 
-> After finaly managing to pass security and log in ,I am celebrating this huge milestone with members of my bubble,we are having a meal ,party poppers, balloons and a firework display in the garden later ,the retina scan and DNA sample were a bit over the top!<br> :date: __2021-01-31 14:52:00__
-
-> So far unable to access any information from my health record and the surgery can offer no advice. Next to useless app.<br> :date: __2021-01-31 11:35:15__
-
-> Registration was a fairly clumsy mess - I really don't know why you can't use my already verified tax ID. Anyway, now that I am verified I cannot close the app properly. as it won't log out. I will probably delete it and use the web based version on my computer<br> :date: __2021-01-31 10:38:37__
-
-> Not very good.<br> :date: __2021-01-27 20:33:06__
-
 
 
 #### 1-star reviews
@@ -305,24 +305,24 @@ The NHS App app has been installed by more than **1000000** times. At this time,
 <img src="1_star_reviews_wordcloud.png" alt="com.nhs.online.nhsonline 1 reviews"/>
 </p>
 
-> Hangs, doesn't want to start. Can't get past the first blue screen.<br> :date: __2021-02-06 19:23:07__
+> The prove ID is a nightmare to get through, once through ordering prescriptions seems to work but that's about it. Looking up GP surgery records doesn't work, can't access them. Booking appointment isn't available,<br> :date: __2021-02-13 11:26:00__
 
-> 06.02.21 - after multiple attempts I have finally managed to register. Why on earth this app couldn't use the gov.uk verify service I don't know. Having registered I find that my local GP practice is still in the 19th century and I can't do anything:-( Very bad registration procedure. App fails to connect to my (Android 10) phone camera to take a picture of my ID, then does so to scan my face but the image recognition is pants. I am binning this as an utter waste of time and taxpayers money.<br> :date: __2021-02-06 19:12:16__
+> Useless, damn thing won't accept my records.<br> :date: __2021-02-12 22:06:11__
 
-> Frustrating<br> :date: __2021-02-06 16:40:09__
+> It could be a very useful app, if only worked! Have tried for months and months to verify my identify. When you need to proceed with uploading your ID or recording the video, it doesn't allow you to select the camera. I have sent several feedbacks and nothing has changed. Have read the troubleshooting guide when there is nothing to troubleshoot as it's clearly a bug. I give up!!!<br> :date: __2021-02-12 21:39:27__
 
-> Less use than a chocolate teapot. At least you can eat that. Litrally nothing works.. No prescriptions(error). No bookings just phone no. No access to my records. I presume the purpose of this app was to tick a box to say the nhs has an app. Well done Chaps Stirling achievement. I hope you don't mind if I don't clap for this one :(<br> :date: __2021-02-06 09:26:10__
+> Video upload not working<br> :date: __2021-02-12 16:23:15__
 
-> Could not register as video upload does not work. They admit this and ask you to keep on trying. Don't waste your time unless you have hours to spare. Their response suggests spending more time messing about with your phone settings . They have not trialled this sufficiently to make it readily usable to Android users.<br> :date: __2021-02-06 00:15:42__
+> Impossible to verify your I. D! Absolute waste of time.<br> :date: __2021-02-12 15:16:49__
 
-> This is a waste of time, takes forever to complete and I get a response that I am not registered to any GP Service which is nonsense because I have been with my GP for the last 50 years, absolutely a waste of time<br> :date: __2021-02-05 17:35:24__
+> Rubbish. Awful sign up process, finicky, inefficient, time wasting. Just like the NHS.<br> :date: __2021-02-12 12:25:46__
 
-> Unable to get vaccine<br> :date: __2021-02-05 15:41:11__
+> I installed the app alongside the coronovirus contact tracing app. My coronavirus jab invitation arrived by post and when my local hospital offered me a jab from unused daily stock, they called my landline. What is the point of this app?<br> :date: __2021-02-12 00:42:41__
 
-> The selection says "View your GP health record" yet it literally only shows what medication you've had. That's it. Pointless.<br> :date: __2021-02-05 06:54:52__
+> Totally useless for me, I followed the instructions and verified my ID no problem, I cannot however get past the screen that connects to my surgery as they want me to 'present myself at the surgery with 2 forms of ID' - really? in the situation we are in now? - So a complete waste of my time, when all I intended to do was ease the pressure on the NHS. I will probably do what I have always done when it comes to accessing NHS services - give up. I am after all 68 and still soldiering on.<br> :date: __2021-02-11 21:49:26__
 
-> Waste of time. It won't recognise any of my details<br> :date: __2021-02-04 22:50:34__
+> Wasted too much time on this, Cannot confirm my ID to get full functionality as the video option won't open when required , all the permissions are set correctly. Unusable app, Pointless, only one thing worse than a bad app, a bad app that doesn't work. Should be zero stars and would be if it were an option...<br> :date: __2021-02-11 20:57:18__
 
-> If you are doing the complete logging in on just a mobile there's issues. When your are sent a confirmation number it disappears almost immediately from top of frame . If you then go to incoming messages to get the number, you cannot then get back to the nhs screen. More time should be allowed for users, particularly the elderly.<br> :date: __2021-02-04 19:17:52__
+> 11/2/2021 Absolute rubbish! This app does NOT work. Aged in my 70's and with the assistance of my son, I spent 2 and a half hours and failed miserably to successfully confirm I.D using the scan function or video function. After having issues with my normal pharmacy access, I expected the NHS app to end my problems. This app has wasted my time and caused great upset. I won't be recommending this app.<br> :date: __2021-02-11 17:31:15__
 
 

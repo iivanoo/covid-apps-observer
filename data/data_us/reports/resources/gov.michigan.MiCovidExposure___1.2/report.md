@@ -126,6 +126,8 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="gov.michigan.MiCovidExposure 5 reviews"/>
 </p>
 
+> App wasn't updating at all but the developer contacted me and the fix he gave me worked!!! Now it updates every day<br> :date: __2021-02-06 19:25:27__
+
 > Way improved from its earlier design<br> :date: __2021-02-03 03:53:22__
 
 > Covid 19b is almost gone.<br> :date: __2021-01-31 02:51:04__
@@ -143,8 +145,6 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 > Free<br> :date: __2021-01-04 16:26:34__
 
 > A little piece of mind for these times we live in<br> :date: __2020-12-29 13:49:56__
-
-> Everybody should get this app so all of us can be safe and healthy so please use the app<br> :date: __2020-12-26 00:59:02__
 
 
 
@@ -182,6 +182,8 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 <img src="3_star_reviews_wordcloud.png" alt="gov.michigan.MiCovidExposure 3 reviews"/>
 </p>
 
+> This app is general , can be improved to reflect local zip codes with real time case tracking. Racial distribution makes this app racist.<br> :date: __2021-02-09 03:41:17__
+
 > L pi pl om 0<br> :date: __2021-02-03 15:23:00__
 
 > Old information<br> :date: __2021-01-26 12:54:59__
@@ -200,8 +202,6 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 
 > Just checked into this app today (12/9). Last exposure check was 11/18. Something is broken it seems. Really want this to work.<br> :date: __2020-12-09 13:35:36__
 
-> Very confusing.......<br> :date: __2020-11-29 00:19:29__
-
 
 
 #### 2-star reviews
@@ -216,8 +216,6 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 
 > Why isn't there a Caucasian stat on the racial breakdown...?<br> :date: __2020-12-18 23:00:36__
 
-> This app is general , can be improved to reflect local zip codes with real time case tracking. Racial distribution makes this app racist.<br> :date: __2020-12-16 16:58:27__
-
 > I've been in direct contact with 3 people who have tested positive. This app didn't notify me if a single thing. Seems pointless.<br> :date: __2020-12-05 19:14:18__
 
 > Seems like a good idea, I'm not in a major city and don't work around large amounts of people so not sure how effective it will be for me. One thing it did I don't get since it says it uses bluetooth and won't ask for GPS, is it required me to have my GPS on to receive notifications! "Exposure notification inactive" this is what it tells me unless my GPS is on. "To use turn on location."<br> :date: __2020-12-04 23:34:03__
@@ -230,6 +228,8 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 
 > Would be nice if the Stats screen wasn't 80% ad for John Hopkins. Would like to see better view of the stats.<br> :date: __2020-11-19 15:35:54__
 
+> Would not come in kept trying<br> :date: __2020-11-19 00:24:18__
+
 
 
 #### 1-star reviews
@@ -238,11 +238,13 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="gov.michigan.MiCovidExposure 1 reviews"/>
 </p>
 
+> I caught covid and found it extremely difficult to report my case. Called all the numbers listed multiple times over multiple days and never got an answer. I understand these people are busy during these times but I feel like most people aren't going to be able to report their case like I wasn't able to.<br> :date: __2021-02-13 05:05:24__
+
+> I have read other reviews of the app, and they say the same thing. No one has received an exposure alert. According to this app, I must be living in the only Covid-free area. Even if nobody reports having a positive test result, they could still tell you which areas are hot spots for a concentration of cases from other sources. I tried re-installing the app, and there was no change. Update: The response given to me and everyone else does not address the fact that this app does not work. I would.<br> :date: __2021-02-12 14:21:03__
+
 > Shows zero cases at my location. When multiple people have died and 26 new cases in January alone. Totally useless!!!<br> :date: __2021-02-05 19:22:00__
 
 > 10,000 downloads vs. 10 million Michigan population say 0.1% use the app. Nice idea, but pretty useless without people using it. False sense of security. Yeah, deleting this app. Excuse of wait till more people download it doesn't matter. Only 'updates possible exposurers' every 3 days at best. This is why it 1-free 2-from the state. Any private company couldn't do this, but put our state in control and it is now a joke. Save your electrons and battery.<br> :date: __2021-02-02 03:07:46__
-
-> The last time this app checked for exposure was Dec 28th 🤷<br> :date: __2021-01-31 16:33:37__
 
 > There needs to be a button to check manually. My app hasn't automatically check since December 26th. What is the point of a notification app that doesn't even check to notify you. Edit: I realize every device is different but this is a google pixel running pure android. Wouldn't it be easier just to put a button in the app instead of having to reply to thousands of people on the app store telling them how to change their settings?<br> :date: __2021-01-26 17:31:36__
 
@@ -255,7 +257,5 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 > Keeps stopping<br> :date: __2021-01-19 02:22:17__
 
 > I have had this app installed since day 1. I am an ER nurse who has cared for so many covid patients I couldn't even count. The whole time with my phone in my pocket. Not one exposure alert. I guess I wasn't really reviewing the app but the deployment or idea. If the state did this right they would incorporate this into discharge instructions for the covid positive patients.<br> :date: __2021-01-16 00:12:32__
-
-> After a positive test, my partner contacted local health department and notified them, they didn't know anything MI COVID or a PIN. 3 days later a contact tracer called my partner to report a positive test, this tracer also claimed no knowledge of a PIN or the MI COVID app. It took another 68 hours for contact tracers to call me and let me know that I had been exposed (someone I share a bed with), I had been quarantining for 6 days at this point, app is good - MDHHS utilization terrible.<br> :date: __2021-01-15 17:35:16__
 
 

@@ -131,6 +131,10 @@ The SlowCOVIDNC app has been installed by more than **100000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="gov.nc.dhhs.exposurenotification 5 reviews"/>
 </p>
 
+> How would I be able to received the cavcene.or<br> :date: __2021-02-13 00:31:50__
+
+> I hate covid-19 so much because of the masks<br> :date: __2021-02-08 11:06:49__
+
 > I love thia app and hope every pne will and use it thank you<br> :date: __2021-01-30 07:31:47__
 
 > Great<br> :date: __2021-01-29 20:21:02__
@@ -146,10 +150,6 @@ The SlowCOVIDNC app has been installed by more than **100000** times. At this ti
 > No alert so far, but the Idea is a good one!<br> :date: __2021-01-25 20:10:33__
 
 > Anonymous and works.<br> :date: __2021-01-25 19:20:00__
-
-> Its just nice to know that this app is there when you need it. Its gives you a sense of security.<br> :date: __2021-01-25 17:36:17__
-
-> Easy app is a little more sensitive security<br> :date: __2021-01-24 20:29:12__
 
 
 
@@ -187,7 +187,7 @@ The SlowCOVIDNC app has been installed by more than **100000** times. At this ti
 <img src="3_star_reviews_wordcloud.png" alt="gov.nc.dhhs.exposurenotification 3 reviews"/>
 </p>
 
-> App works well in theory. Tested positive and never was able to get my pin to report positive result. Now app no longer checking for notifications. Hasn't checked for any in over a month.<br> :date: __2021-02-06 06:24:32__
+> App works well in theory. Tested positive and never was able to get my pin to report positive result. Now app no longer checking for notifications. Hasn't checked for any since January 2, 2021<br> :date: __2021-02-08 03:18:18__
 
 > It was ok until the non-covid, personal question was dropped on me. I deleted the app.<br> :date: __2021-01-31 05:11:06__
 
@@ -215,6 +215,10 @@ The SlowCOVIDNC app has been installed by more than **100000** times. At this ti
 <img src="2_star_reviews_wordcloud.png" alt="gov.nc.dhhs.exposurenotification 2 reviews"/>
 </p>
 
+> I am becoming increasingly disappointed with this app. It hasn't checked exposure since January 5th 2021, that's over 5 weeks ago. Seems a pointless app. I have been opening the app almost daily.<br> :date: __2021-02-12 23:49:49__
+
+> Was good in the beginning when the app first into being, but has gotten slack. On the main page of the app it just has that I was last notified on the 6th January 2021, and has not changed since. Thinking of deleting the app because it seems that you can't trust anyone these days. Sacrificed my 2020 year, and maybe more to come, to take care of my father by myself, no other family or friends and would like to know if I have been exposed. May have to sacrifice my life and go back to work soon.<br> :date: __2021-02-09 03:10:27__
+
 > This app used to update daily to show potential exposures. Here we are on Feb 1 and app last updated exposures on Jan 17. Perhaps funding ran out. I will be deleting this app. Update: Ultimately had to uninstall and reinstall. Will see if it updates regularly.<br> :date: __2021-02-02 15:24:09__
 
 > I had the app for a few months, but I never got a notification. Either COVID didn't exist where I was, or people are not using the app properly. Looking at the other reviews I'm going to go with people aren't using the app properly with no fault of their own. If it's difficult to get a pin on the app then people will be less likely to log their positive results.<br> :date: __2021-01-27 17:45:33__
@@ -231,10 +235,6 @@ The SlowCOVIDNC app has been installed by more than **100000** times. At this ti
 
 > I just opened the app and saw that the last time it checked my exposure was 12/26. That's almost a month ago!<br> :date: __2021-01-18 21:20:02__
 
-> I have to reinstall it every 2 weeks because it stops updating info. Bluetooth is always on. Great idea for tracing transmission, but obviously not reliable.<br> :date: __2021-01-17 17:28:35__
-
-> Tho it shows option to choose metrics, they cannot be changed. Having to obtain (& wait for) a pin is an encumbrance & bottleneck as well. Will deter ppl from using the app. Have found this app to be of minimal utility, unfortunately.<br> :date: __2021-01-09 21:43:28__
-
 
 
 #### 1-star reviews
@@ -242,6 +242,16 @@ The SlowCOVIDNC app has been installed by more than **100000** times. At this ti
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="gov.nc.dhhs.exposurenotification 1 reviews"/>
 </p>
+
+> I had this on my phone thought it was supposd to tell me if someone i am around has it<br> :date: __2021-02-11 02:30:48__
+
+> I have not had an exposure check since December 27 2020<br> :date: __2021-02-10 23:18:28__
+
+> Stopped checking for exposure for over a month. "Solution" was to uninstall and reinstall the app.<br> :date: __2021-02-10 16:58:07__
+
+> My app says it hasn't checked for exposures since Jan 15, is this an issue with my phone or with the app?<br> :date: __2021-02-09 03:09:09__
+
+> Needs Bluetooth on all the time to get the warnings. I don't leave my Bluetooth on like that.<br> :date: __2021-02-07 05:34:43__
 
 > App hasn't checked for exposures in 25 days (Jan. 5). It did the same thing back in December as well. What gives? The app needs to do its job in order to work. 🙄<br> :date: __2021-01-31 03:41:44__
 
@@ -252,15 +262,5 @@ The SlowCOVIDNC app has been installed by more than **100000** times. At this ti
 > This app is not trust worthy, each time I check this app it's not on. It has told me twice to turn on. I haven't touched it this app is not working properly.<br> :date: __2021-01-30 01:47:00__
 
 > Don't trust this. I called my local health department to get tested, so I can have an official documentation of my clear infection. I was told that the test is supposed to be free, but that later charges aren't excluded from the realm of possibility. They said the test is just for jobs, and satisfying personal interest or fears. So no pin, and no way of alerting others I may have come in contact with. Way to go NC, you screw poor people again. What a surprise.<br> :date: __2021-01-29 19:32:35__
-
-> It would be nice if I could update I've had an Exposure.<br> :date: __2021-01-29 16:28:54__
-
-> Bluetooth requires the user to validate the authenticate the process between devices. Apps can't do that automatically because it would bypass bluetooth security/encryption. If you paired it to a device it would remember it and reconnect when near or on like bluetooth in a car that you allowed too.<br> :date: __2021-01-28 18:20:35__
-
-> My app has not updated since January 15th at 7:04 a.m. so if I've been in contact with anyone that has notified the system then I'm just SOL.... in addition to the pins being so hard to get and to administer while you're sick...this was a good idea but has a lot of flaws... but I still wish mine would update... it worked fine for several several weeks and now no updates<br> :date: __2021-01-28 05:10:46__
-
-> Not effective. I was knowingly around several people that tested positive (my husband, for example) and the app never picked up on any of it or notified me. And yes...they all reported their positives to the app.<br> :date: __2021-01-28 01:48:53__
-
-> I found that the process to obtain and use a PIN was too much effort to put forth while I was sick with COVID. I notified people verbally instead - via mass text.. much less time involved. When ill with COVID, people are spending their precious time sleeping and NOT going through social media promopts to set up a PIN - very ineffective! I am also a nurse and mother of 2 - I've had the app since the beginning and have had NO notifications - again, ineffective.....<br> :date: __2021-01-26 08:10:49__
 
 

@@ -184,6 +184,14 @@ The Horizon Telehealth app has been installed by more than **1000** times. At th
 <img src="5_star_reviews_wordcloud.png" alt="org.horizonhealth.android.hzhsh.telehealth 5 reviews"/>
 </p>
 
+> Easy to use<br> :date: __2021-02-11 00:07:00__
+
+> Great. I look forward to every visit. Never had any problems with Telehealth at all. Love it and my counselor is wonderful.<br> :date: __2021-02-10 18:16:40__
+
+> Wonderful conversation about everything. 🤔<br> :date: __2021-02-09 16:15:32__
+
+> Works awesome but you must have quick data or good wifi<br> :date: __2021-02-09 01:45:23__
+
 > Love this app never have any issues connecting with my Alerts keep up the good work<br> :date: __2021-02-02 15:39:15__
 
 > I've had the best help in the most support from the employees at horizon health 699 hurdle rocks!!!<br> :date: __2021-01-21 21:47:48__
@@ -195,14 +203,6 @@ The Horizon Telehealth app has been installed by more than **1000** times. At th
 > Even though I'd rather meet in person this app is great. You can talk to more than one person at a time.<br> :date: __2021-01-12 15:39:55__
 
 > Great helpful service for health very beneficial highly reccomend Shannon Allen Shes the best!<br> :date: __2021-01-11 21:52:27__
-
-> Good app.works pretty good!!!<br> :date: __2021-01-06 21:15:19__
-
-> Simple and effecient way to meet with your doctor and councilor.<br> :date: __2020-12-31 16:25:01__
-
-> Easy to use<br> :date: __2020-12-23 22:43:02__
-
-> ABSOULTELY LOVE IT!!!<br> :date: __2020-12-09 16:46:01__
 
 
 

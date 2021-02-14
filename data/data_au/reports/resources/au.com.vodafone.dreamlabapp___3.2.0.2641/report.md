@@ -155,25 +155,25 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="au.com.vodafone.dreamlabapp 5 reviews"/>
 </p>
 
-> Easy to start and stop, and feels like an easy and excellent way of helping at no cost to you! Win win.<br> :date: __2021-02-06 17:14:17__
+> Help out global cloud computing efforts against disease and cancer? Why not!<br> :date: __2021-02-13 17:03:28__
 
-> Very good to be contributing to research whilst charging my phone!<br> :date: __2021-02-06 17:09:53__
+> Simple app used to benefit others which can only help.<br> :date: __2021-02-13 16:49:41__
 
-> Easy to use and doing a great job.<br> :date: __2021-02-06 12:02:21__
+> Seems like a good idea to me I just leave on charge at night and your helping Find cure's to covid and cancer and other stuff you choose.😀😀😀😀😀😀<br> :date: __2021-02-13 09:45:01__
 
-> Excellent app. No hassle and contributes so much.<br> :date: __2021-02-06 10:42:40__
+> It's a great app. It helps to cure cancer and covid19. All the other apps should take a long hard look at themselves quite frankly.<br> :date: __2021-02-13 09:28:29__
 
-> It's been an amazing experience. However, I am still trying to understand the science behind it, but so far I have varied my choices of research I have chosen to support, and my curiosity has brought me this far as I also monitor how I have been able to contribute to the research. It is worth a try if you love research 😊<br> :date: __2021-02-06 08:42:03__
+> Easy to use.<br> :date: __2021-02-13 08:37:40__
 
-> Thank you for the opportunity to contribute.<br> :date: __2021-02-05 23:35:21__
+> Works well in the background and good to know helping in some small way<br> :date: __2021-02-13 02:32:27__
 
-> Newest version reset my contribution record over 4+ years 😢<br> :date: __2021-02-05 09:43:25__
+> Excellent app makes me feel I'm doing something positive to the world<br> :date: __2021-02-12 12:35:25__
 
-> Good to be useful<br> :date: __2021-02-04 10:14:31__
+> Very good and perfect thank you Google<br> :date: __2021-02-12 06:39:05__
 
-> good cause, free bandwidth, what can poosibly go wrong ?<br> :date: __2021-02-03 17:24:00__
+> Helping find a cure for cancer, I run it as often as possible. Thanks for the hard work creating this great app. Like others have said, it would be nice to be able to run it not just while charging, add an option for it.<br> :date: __2021-02-11 16:20:34__
 
-> I don't understand how this works and use it only because I trust the person who suggested it. I think many people will be reluctant to download it for this reason.<br> :date: __2021-02-03 11:30:07__
+> Great<br> :date: __2021-02-10 22:07:39__
 
 
 
@@ -183,9 +183,13 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 <img src="4_star_reviews_wordcloud.png" alt="au.com.vodafone.dreamlabapp 4 reviews"/>
 </p>
 
-> Please add an option for unlimited data usage, i have an unlimited plan with a Samsung fold 2nd gen and would like more of its power to be used for a good cause<br> :date: __2021-02-05 20:49:42__
+> App is good but could be better. The platform & institutions should take cues from BOINC's Android app's advance settings & notification feature. Also, as others have mentioned, you need to keep the calculations coming at a steady rate or at least inform users if there will be a slow down. BOINC institutions do this - they inform users if there will be a pause for maintenance or other reasons.<br> :date: __2021-02-11 22:45:34__
 
-> App is good but could be better. The platform & institutions could take cues from BOINC's Android app's advance settings & notifications feature. Also, as others have mentioned, you need to keep the calculations coming at a steady rate or at least inform users if there will be a slow down. BOINC institutions do this - they inform users if there will be a pause for maintenance or other reasons.<br> :date: __2021-01-31 01:53:28__
+> I love the fact I can use this app and feel like I'm making a difference, currently I'm at home alot so when I'm not actively using my phone or I'm asleep I just let the app run, I would not recommend powering a project if your actively using the device however because it's using your phone as a processor for constant calculations it gets very hot and slows down all other stuff, but if you dont actively use your phone much while it charges it's a great tool to make a difference!<br> :date: __2021-02-09 13:29:37__
+
+> Like helping out<br> :date: __2021-02-08 19:40:23__
+
+> Please add an option for unlimited data usage, i have an unlimited plan with a Samsung fold 2nd gen and would like more of its power to be used for a good cause<br> :date: __2021-02-05 20:49:42__
 
 > The apps really good.. Provides details and sources for the research you're helping with. Tells you the amount of time spent and problems your phone has solved. Best part is that it only works when plugged-in. So you don't have to worry about it draining your battery. The only drawback is that it kinda heats up the phone. But hey, your phone is helping humanity solve important issues without you having to anything... So pretty much a win-win.<br> :date: __2021-01-29 14:56:43__
 
@@ -199,10 +203,6 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 
 > I may not be doing much to help during the current crisis but it is nice to be able to make a small contribution<br> :date: __2021-01-20 08:18:34__
 
-> Does tend to make phone get hot<br> :date: __2021-01-19 08:17:18__
-
-> The job it does is fantastic. I'm not convinced it releases resources properly after charging as my battery runs down faster than expected after use...<br> :date: __2021-01-15 17:54:09__
-
 
 
 #### 3-star reviews
@@ -210,6 +210,10 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="au.com.vodafone.dreamlabapp 3 reviews"/>
 </p>
+
+> App has a nasty habit of switching away from the project I selected to covid-19. For those of us on an unlimited plan there is no way to set the data is can use to unlimited. I would also like more options/projects to choose from to support. Any chance you could find ones in USA?<br> :date: __2021-02-10 14:32:49__
+
+> Good idea, but only seems to run for 10 minutes a night on my phone. The rest of the time it says it's letting the phone cool - phone is stone cold...<br> :date: __2021-02-08 09:21:24__
 
 > Great to help out but sometimes have difficulty starting a session due to 'used all daya' message<br> :date: __2021-01-30 17:01:33__
 
@@ -226,10 +230,6 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 > Great idea... But app needs more controls to limit cpu and send it can run<br> :date: __2020-12-14 11:23:42__
 
 > I'd like to use this on my phone but it eats power faster than the wireless charger can charge it. The phone charges up to 80%, the app starts calculating, next thing I know despite the phone still being on the charger the battery has 70% in it and still falling. The app needs to check the charge level when it is running and avoid allowing the phone to be depleted if the phone is using more power than it is getting from the charger.<br> :date: __2020-12-13 17:38:48__
-
-> It is a worthwhile app, however I find if it stops due to battery temp, it doesn't automatically restart, which is not so good as I find I may only gain 15 or 20 mins running each night..<br> :date: __2020-12-10 00:04:38__
-
-> I am on Vodafone with unlimited Max, or whatever it is called.. Around 4 months ago, the app, or Vodafone seem to have applied a 500mg per month limit to the data usage, consequently, after the first week of the month, this app remains idle! Vodafone weren't much help, other than confirming the 500mg cap exists. Not happy.<br> :date: __2020-12-06 14:25:48__
 
 
 

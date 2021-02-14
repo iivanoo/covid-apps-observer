@@ -192,25 +192,25 @@ The 98point6 app has been installed by more than **50000** times. At this time, 
 <img src="5_star_reviews_wordcloud.png" alt="com.ninety8point6.patientapp 5 reviews"/>
 </p>
 
-> Excellent experience! Doctor helps you step by step. Would recommend this app who's insurance allows it.<br> :date: __2021-02-04 23:30:59__
+> Glad no face time . And he helped<br> :date: __2021-02-13 16:54:30__
 
-> Always been easy for me. Better than waiting in a crowded waiting room just to get basic meds<br> :date: __2021-02-04 22:27:36__
+> 💯💯💯💯💯💯<br> :date: __2021-02-13 03:59:13__
 
-> Easy. Way more convenient than going to the doctor<br> :date: __2021-02-04 19:45:22__
+> It's a whole new world now and this is one of the positive things that happened.<br> :date: __2021-02-11 22:22:56__
 
-> Worked great. Very interactive.<br> :date: __2021-02-04 17:08:31__
+> Thankyou<br> :date: __2021-02-11 03:35:23__
 
-> Very Good, Is amazing<br> :date: __2021-02-04 09:42:52__
+> Excellent<br> :date: __2021-02-11 02:49:02__
 
-> Dr. Kim was great<br> :date: __2021-02-03 22:22:29__
+> Very convenient<br> :date: __2021-02-11 00:00:34__
 
-> Very quick and easy.<br> :date: __2021-02-03 20:05:02__
+> Thay really care and are there when you need them<br> :date: __2021-02-10 20:56:24__
 
-> I was so against these types of things, but my company got it for us. I have had a string of bad luck and have had to use this app twice in less than a week. It has been amazing, very fast, people always polite. It helps if you know a little bit about what's going on with you. I would definitely recommend this app,it has been a much appreciated option.<br> :date: __2021-02-03 15:42:37__
+> The doctors are always happy and helpful. It is quick and helps when you have those quick questions.<br> :date: __2021-02-10 01:03:04__
 
-> I love this app! It's very convenient and easy to use. All your questions and concerns are answered by a doctor. It saves time by not having to go to a doctors office.<br> :date: __2021-02-03 05:01:48__
+> Very good. Providers are excellent. Highly recommended.<br> :date: __2021-02-09 17:22:24__
 
-> Used a few times very quick and helpful<br> :date: __2021-02-01 04:17:13__
+> My wait time was only 2 minutes and the doctor was very attentive and asked the right questions and allow me to share what normally works best for me! It was a very pleasant experience and it took no time at all to get the help I needed!<br> :date: __2021-02-08 20:17:09__
 
 
 
@@ -219,6 +219,10 @@ The 98point6 app has been installed by more than **50000** times. At this time, 
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.ninety8point6.patientapp 4 reviews"/>
 </p>
+
+> Dont like that u cant talk to the doctor only by text<br> :date: __2021-02-13 00:33:46__
+
+> Very quick and helpful<br> :date: __2021-02-09 15:58:34__
 
 > I had throbbing aches to the back of my right side of my head and times to my neck and tight shoulders to realize it could be a muscle strain.<br> :date: __2021-02-03 01:16:08__
 
@@ -235,10 +239,6 @@ The 98point6 app has been installed by more than **50000** times. At this time, 
 > Quick and easy all without leaving my couch!<br> :date: __2020-10-03 15:33:12__
 
 > Provides a pretty quick and detailed appointment. Questions vet you so a doctor is more prepared, and they can schedule lab work and tests from within the app. Of course, since this is digital, they are extra cautious of all symptoms, but I've used this three times with good results.<br> :date: __2020-09-22 16:30:09__
-
-> Fast<br> :date: __2020-08-30 11:39:12__
-
-> So far, so good.<br> :date: __2020-08-03 20:42:51__
 
 
 

@@ -174,25 +174,25 @@ The Healthy Together - COVID-19 app has been installed by more than **100000** t
 <img src="5_star_reviews_wordcloud.png" alt="co.twenty.stop.spread 5 reviews"/>
 </p>
 
-> Great app works perfectly very easy to operate thank you five star rating<br> :date: __2021-02-06 09:08:54__
+> Wonderful 😊 and everyone needs this app to screenshot for their own proof if anyone asked them and don't believe we'll the test results on the fone don't lie that's for sure<br> :date: __2021-02-13 07:08:09__
 
-> Good service<br> :date: __2021-02-05 21:01:53__
+> excelente<br> :date: __2021-02-13 03:04:05__
 
-> Quick and accurate<br> :date: __2021-02-05 19:51:37__
+> Excellent Service, Thank you.<br> :date: __2021-02-13 02:58:24__
 
-> Works like a charm<br> :date: __2021-02-05 18:18:22__
+> Awesome App<br> :date: __2021-02-12 18:43:57__
 
-> testing was easy and done quickly<br> :date: __2021-02-05 17:13:53__
+> it's been great<br> :date: __2021-02-12 18:42:45__
 
-> It was fast and very helpful give me piece of mind.<br> :date: __2021-02-05 16:40:31__
+> I would tell everyone to use this app<br> :date: __2021-02-12 16:38:58__
 
-> excellent<br> :date: __2021-02-05 00:07:00__
+> Checking for results on the app is very simple<br> :date: __2021-02-12 16:16:16__
 
-> Good all<br> :date: __2021-02-04 17:33:29__
+> Awesome Work 💪<br> :date: __2021-02-11 23:10:38__
 
-> Very infornational<br> :date: __2021-02-04 16:04:23__
+> I think that everyone needs to get the COVID vaccine so that we can be rid of this thing once and for all. I know that there are those who don't believe but you did not believe that things WOULD change in 2020 but it did so why not give the COVID vaccine shot a try.their are a lot of things to gain and only ONE thing to lose.<br> :date: __2021-02-11 22:37:42__
 
-> great app<br> :date: __2021-02-04 15:52:02__
+> Great<br> :date: __2021-02-11 21:55:01__
 
 
 
@@ -201,6 +201,12 @@ The Healthy Together - COVID-19 app has been installed by more than **100000** t
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="co.twenty.stop.spread 4 reviews"/>
 </p>
+
+> I'm new to this, but so far, so good. I will provide more feedback if applicable.<br> :date: __2021-02-09 16:32:09__
+
+> Healthcare support staff, great app allows me to get Covid-19 results in one place, no matter WHERE I have my test done (be it PCR or rapid )<br> :date: __2021-02-09 05:13:58__
+
+> great app<br> :date: __2021-02-07 23:50:57__
 
 > a little slow to update test results.<br> :date: __2021-02-05 22:43:14__
 
@@ -216,12 +222,6 @@ The Healthy Together - COVID-19 app has been installed by more than **100000** t
 
 > ok<br> :date: __2021-01-25 15:15:58__
 
-> easy access<br> :date: __2021-01-22 15:00:04__
-
-> Every thing was well organized at the Testing site.<br> :date: __2021-01-20 17:45:56__
-
-> la aplicacion es buena, pero estan tardando en dar a conocer los resultados<br> :date: __2021-01-19 19:04:05__
-
 
 
 #### 3-star reviews
@@ -229,6 +229,10 @@ The Healthy Together - COVID-19 app has been installed by more than **100000** t
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="co.twenty.stop.spread 3 reviews"/>
 </p>
+
+> Can't get the app to download. It has the results for my covid test. Amended review! Appreciate the quick reply from customer service. In the interim I did the old fashion method and called the Health department directly and got my results:Negative!!@<br> :date: __2021-02-13 16:15:50__
+
+> this app didn't work. wouldn't even download. Maybe doesn't work on a Sunday. Downloaded it on a Monday and it worked fine<br> :date: __2021-02-08 12:39:13__
 
 > Is anyone else not able to download the app?<br> :date: __2021-02-04 19:30:05__
 
@@ -246,10 +250,6 @@ The Healthy Together - COVID-19 app has been installed by more than **100000** t
 
 > Why doesn't this app use the exposure notifications API in Android?<br> :date: __2021-01-24 01:04:24__
 
-> This app needs to configure merging existing charts. It creates way too many duplicates in the system for employees which creates more work in contacting patients.<br> :date: __2021-01-17 18:31:58__
-
-> What is my result<br> :date: __2021-01-15 19:08:46__
-
 
 
 #### 2-star reviews
@@ -257,6 +257,12 @@ The Healthy Together - COVID-19 app has been installed by more than **100000** t
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="co.twenty.stop.spread 2 reviews"/>
 </p>
+
+> please be advised that I went and I get three negative test and I went to the Hospital and get tested positive couple days after however the individual that's doing the test are not taking it seriously<br> :date: __2021-02-11 04:43:44__
+
+> It been trying to download fr the last 30 minutes<br> :date: __2021-02-10 17:09:21__
+
+> Too complicated. Not easy accesible.<br> :date: __2021-02-10 15:19:06__
 
 > It's useless if it only downloads 67%NOW its just spinning and spinning and said not all features available in Florida....grrrrr<br> :date: __2021-02-06 16:29:03__
 
@@ -272,12 +278,6 @@ The Healthy Together - COVID-19 app has been installed by more than **100000** t
 
 > Very difficult for older and others that Try to see results by phone.. I finally was able to confirm my appt Results are back today... Having issues to look at my result... Been trying for almost 2 hrs<br> :date: __2021-01-08 18:12:50__
 
-> Wont download<br> :date: __2021-01-06 01:21:01__
-
-> I have no idea what my test results are. If they are posted for my viewing, I'd sure like to know where.<br> :date: __2021-01-02 02:52:04__
-
-> I can't get the date of birth in. It keeps throwing me out<br> :date: __2021-01-01 22:53:40__
-
 
 
 #### 1-star reviews
@@ -286,24 +286,24 @@ The Healthy Together - COVID-19 app has been installed by more than **100000** t
 <img src="1_star_reviews_wordcloud.png" alt="co.twenty.stop.spread 1 reviews"/>
 </p>
 
-> Spin, spin,spin circle of doom, won't install on Samsung A50. #WasteOfTime<br> :date: __2021-02-06 17:32:22__
+> I want to know<br> :date: __2021-02-13 18:42:12__
 
-> It sucks can't log in<br> :date: __2021-02-06 17:06:56__
+> It ask for phone number which I provided but there is no place to go further by clicking<br> :date: __2021-02-13 16:10:20__
 
-> Terrible, I need to know my results to prepare for surgery and can not get them<br> :date: __2021-02-06 16:43:28__
+> App doesn't work, pin won't send.<br> :date: __2021-02-13 16:07:13__
 
-> Won't download<br> :date: __2021-02-06 15:56:46__
+> wont finish downloading. this app is garbage<br> :date: __2021-02-12 21:09:05__
 
-> Can't even download the app. It's been stuck on "67% downloaded" for hours.<br> :date: __2021-02-06 15:50:02__
+> I can't download the app so how do I get my results.<br> :date: __2021-02-12 18:03:21__
 
-> I can't even get the app to download. Stuck on 67%<br> :date: __2021-02-06 15:39:02__
+> It want complete the opening process to get in. It's stressful getting in.<br> :date: __2021-02-12 16:18:34__
 
-> Unable to get into the app.<br> :date: __2021-02-06 15:35:38__
+> App will not load<br> :date: __2021-02-12 16:12:54__
 
-> Trying to install and it hangs up at 67%. Can't install, can't use, so it gets only 1 star.<br> :date: __2021-02-06 09:02:59__
+> It's keeping me stuck downloading at 67%. Anyone else having problems downloading<br> :date: __2021-02-12 16:03:24__
 
-> Don't need another app paid $40.00 for the test Don't need another app to get my result please send my result to my mailbox. Don't send me a link to download another app.<br> :date: __2021-02-06 02:59:50__
+> It is not downloading.<br> :date: __2021-02-12 15:42:05__
 
-> Results ready caant download app been trying for days?????<br> :date: __2021-02-06 01:45:34__
+> Won't download stays at 66 %<br> :date: __2021-02-12 15:39:04__
 
 

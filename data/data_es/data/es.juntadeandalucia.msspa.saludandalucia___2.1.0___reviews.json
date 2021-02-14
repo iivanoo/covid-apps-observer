@@ -1,5 +1,29 @@
 [
     {
+        "reviewId": "gp:AOqpTOFZ32qHUDEvwgBmlRfhA7J2uuUqAln1vqYxXe93ey56q5LCVJw3H5OnjeQBUIATh5DhTw8I3ANPVMIHFQ",
+        "userName": "Juan Apellido",
+        "userImage": "https://play-lh.googleusercontent.com/-DprI3qiXCfE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckjdr8boJE6uIj_hfVLJ56bsLS6aA/photo.jpg",
+        "content": "No te mandan sms de verificaci\u00f3n por m\u00e1s que lo pidas. Esperando estoy el resultado de la PCR y nada... No sirve m\u00e1s que para ocuparme espacio.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.1.0",
+        "at": "2021-02-09 11:58:44",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOE1XWszKmuI0O79otMEoPgXI0d22lhOrYVdVQuft7LSOf_jbCYrPJ042NHiWSRYVCI8XawG_pGvFgZz-Q",
+        "userName": "leandro Gonzalezgonzalez",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjWAB22plIwLjs77qeVgmJ1eiT95xXiXsXjYZbW1g",
+        "content": "No puedo habrir la aplicaci\u00f3n Salud Andaluc\u00eda cuando la voy habrir me sale un mensaje que dice que Salud Andaluc\u00eda se a de tenido y no se habre tengo una notificaci\u00f3n y no puedo leerla haber que puedo hacer",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.1.0",
+        "at": "2021-02-09 02:03:03",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOFSP8qDxtpf54R_IrgB_jMaSaxXT3BnEpqtLMlk2DXKqcg6gTD66ppC_SQVUVDsmneyHzS3X1wYGzTftw",
         "userName": "Pedro Pareja",
         "userImage": "https://play-lh.googleusercontent.com/-tXA9yi-5bGM/AAAAAAAAAAI/AAAAAAAAFR4/AMZuucmy9gsSXdBqpU31hxd3ThZl_8OkRQ/photo.jpg",
@@ -41,7 +65,7 @@
         "userImage": "https://play-lh.googleusercontent.com/--CPwss4IYuA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnj-ZLZmKddYqpBgAclOuxKg098Xw/photo.jpg",
         "content": "Me instale est\u00e1 aplicaci\u00f3n por recibir notificaciones por la prueba de covid. Tengo el alta desde hace una semana y a\u00fan no me ha llegado ni por la app no por sms el resultado. Seg\u00fan mi opini\u00f3n es in\u00fatil porque las noticias que ponen son contradictorias a la actualidad. Por lo tanto esta app solo sirve para ocupar espacio. Espero que el dinero que se ha invertido en ella no sea del contribuyente porque es dinero tirado.",
         "score": 1,
-        "thumbsUpCount": 9,
+        "thumbsUpCount": 10,
         "reviewCreatedVersion": null,
         "at": "2020-12-04 23:31:45",
         "replyContent": null,
@@ -197,7 +221,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhsBHRpueOb10D_ln98JYsO8XbjqaFtocDPvuVN",
         "content": "Es p\u00e9sima desde el viernes por la tarde intentando activar las notificaciones y siempre lo mismo, se ha producido un error vuelva a intentarlo m\u00e1s tarde. No se merece ni una estrella.",
         "score": 1,
-        "thumbsUpCount": 11,
+        "thumbsUpCount": 13,
         "reviewCreatedVersion": "2.0.1",
         "at": "2020-10-25 08:13:59",
         "replyContent": null,

@@ -174,6 +174,8 @@ The COVID-19.eus app has been installed by more than **50000** times. At this ti
 <img src="3_star_reviews_wordcloud.png" alt="com.erictelm2m.colabora 3 reviews"/>
 </p>
 
+> Porque pone con riesgo bajo el 14-11-2020 cuando estamos a 12-02-2021. Que quiere decir que ya no funciona???<br> :date: __2021-02-12 09:48:04__
+
 > Lo único que no me gusta es que no ponen los datos todos los días , y por eso no me gusta mucho<br> :date: __2020-11-29 13:37:28__
 
 > No es muy clara<br> :date: __2020-09-20 17:21:58__
@@ -191,8 +193,6 @@ The COVID-19.eus app has been installed by more than **50000** times. At this ti
 > Tenía instalada la aplicación, pero me avisa de que debo descargarla otra vez porque ha expirado, lo hago pero sigue diciéndome lo mismo.<br> :date: __2020-06-28 14:42:08__
 
 > No puedo cambiar un familiar a home si vive en mi casa, si pudiese hacerlo le daría más estrellas<br> :date: __2020-06-11 10:47:28__
-
-> Esta bien, Le falta mejoras como poder editar tu información y que se lea mejor el texto para que sea una aplicación familiar y confortable.<br> :date: __2020-06-08 03:08:14__
 
 
 
@@ -230,6 +230,8 @@ The COVID-19.eus app has been installed by more than **50000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="com.erictelm2m.colabora 1 reviews"/>
 </p>
 
+> No vale. No funciona para lo que fué creada. Desinstalo que al menos me ahorro batería del móvil.<br> :date: __2021-02-09 15:42:48__
+
 > No mantenéis los datos actualizados, normalmente de dos a tres días tarde... No se pueden añadir contactos, esta totalmente abandonada. Y por lo que leo a la hora de la verdad no sirve para nada...<br> :date: __2021-01-10 20:40:42__
 
 > Esta app es pésima, no se actualiza nada<br> :date: __2021-01-03 15:25:48__
@@ -247,7 +249,5 @@ The COVID-19.eus app has been installed by more than **50000** times. At this ti
 > Poco intuitiva y dificil de usar Despues de hacer los circulos y dar mi estado de salud no he recibido ninguna notificacion. No se si siguen mis contactos dentro de los circulos..... tampoco tiene mucha difusión, me parece una herramienta muy util pero deberia ser mas facil de usar.<br> :date: __2020-10-03 14:38:34__
 
 > Hola!!! CONSIDERO UNA PERDIDA DE TIEMPO TRADUCIR LA APP DE RADAR COVID ESTATAL SIENDO POSTERIOR A LA DESARROLLADA EN EUSKADI, AQUÍ TENDRÍAMOS QUE USAR COVID-19.EUS QUE ESTABA ANTES Y EN EUSKADI ES LA QUE TENEMOS DESCARGADA HACE TIEMPO😬<br> :date: __2020-09-26 18:53:02__
-
-> Por un fallo al empezar con el Código postal me pone en otro sitio y no deja modificarlo. He desistalado la app y la he vuelto a instalar y sigue poniendo mal el C. P. Mala APP. Así mal para colaborar. He borrado todos los datos de la aplicación y al volver a meterlos sigue poniendo mal el C. P. Aunque borre los datos en cuanto metes de nuevo los correctos te los vuelve a poner mal. Así vamos.....<br> :date: __2020-09-23 19:33:57__
 
 

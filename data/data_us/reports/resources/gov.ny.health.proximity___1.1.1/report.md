@@ -145,6 +145,12 @@ The COVID Alert NY app has been installed by more than **500000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="gov.ny.health.proximity 5 reviews"/>
 </p>
 
+> Easy to use. I will check in on it everyday to report my health condition. I am healthy now. I am looking for a vaccination. I guess that's a different app.<br> :date: __2021-02-12 05:11:07__
+
+> Great<br> :date: __2021-02-10 01:40:17__
+
+> Been entering.my status daily. Useful and like shows trends.<br> :date: __2021-02-07 01:55:31__
+
 > That is the best thing that ever happen on that website with COVID Alert intrustment and was invented whoever thanks for their macnificent technologies to the worldwilde people to remain safe.<br> :date: __2021-02-06 11:30:33__
 
 > OK<br> :date: __2021-02-03 08:13:17__
@@ -159,12 +165,6 @@ The COVID Alert NY app has been installed by more than **500000** times. At this
 
 > Great source of information<br> :date: __2021-01-24 04:05:56__
 
-> Here's a little story I'd like to tell, then some high and mighty dick hit me with a SLAPP order and I can't even get my internet to work.<br> :date: __2021-01-19 22:36:04__
-
-> I feel like the City of NY should mandate this to take the subway<br> :date: __2021-01-18 20:12:24__
-
-> Waz a Waz a<br> :date: __2021-01-17 19:57:04__
-
 
 
 #### 4-star reviews
@@ -172,6 +172,8 @@ The COVID Alert NY app has been installed by more than **500000** times. At this
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="gov.ny.health.proximity 4 reviews"/>
 </p>
+
+> its a good app, but some times i receive alarm when no one close to me, fix it please<br> :date: __2021-02-07 23:23:26__
 
 > might add a daily reminder<br> :date: __2021-02-03 02:03:30__
 
@@ -190,8 +192,6 @@ The COVID Alert NY app has been installed by more than **500000** times. At this
 > It's alright. But it kills my battery quickly in I have the bluetooth enabled, and ot begs you to have it enabled.<br> :date: __2020-11-21 05:01:19__
 
 > Dont no what its doing but cases are getting worse 🙃<br> :date: __2020-11-19 23:13:03__
-
-> Not yet. Just installed the apps.<br> :date: __2020-11-19 11:18:17__
 
 
 
@@ -229,6 +229,8 @@ The COVID Alert NY app has been installed by more than **500000** times. At this
 <img src="2_star_reviews_wordcloud.png" alt="gov.ny.health.proximity 2 reviews"/>
 </p>
 
+> Come on Google play, the dems/big tech YOU successfully stole the election, covid is a thing of the past, get with the times! Don't you watch cnn?<br> :date: __2021-02-11 10:05:10__
+
 > Useless control measure from NYS to you under false pretenses..<br> :date: __2021-01-24 16:06:46__
 
 > To hard to do<br> :date: __2021-01-04 16:34:28__
@@ -247,8 +249,6 @@ The COVID Alert NY app has been installed by more than **500000** times. At this
 
 > concept is good. alas even with bluetooth on it didn't work. then again most of the people in my neighborhood refuse to get tested (I get tested) and/or aren't tech savvy so this app isn't useful for my neighborhood<br> :date: __2020-11-07 14:18:38__
 
-> I loved this app, until yesterday when it stopped updating. The person info I have is now for 2 days ago. It's now worthless.<br> :date: __2020-11-05 12:29:55__
-
 
 
 #### 1-star reviews
@@ -256,6 +256,10 @@ The COVID Alert NY app has been installed by more than **500000** times. At this
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="gov.ny.health.proximity 1 reviews"/>
 </p>
+
+> This is stupid. Google the CDC weekly flu numbers and you'll see all these Covid numbers are actually flu. There's 23 total flu for 1 week in USA but a billion covid cases? Bullcrap. They just want to do "the great reset" .<br> :date: __2021-02-12 04:27:37__
+
+> Caused 6 other apps to fail and stop working. Uninstalled from phone, but still getting this apps notifications when Bluetooth is disabled. Very disappointed. Not recommended.<br> :date: __2021-02-11 18:12:50__
 
 > I love Quomo he is the best NYC mayor in the last 20 years. He is the sexyist hottest e boy president. Love the app. App gave covid only to Karen. App very hot and sexy. Unfortunately not enough BBC.<br> :date: __2021-02-06 00:44:31__
 
@@ -272,9 +276,5 @@ The COVID Alert NY app has been installed by more than **500000** times. At this
 > Local health department has no access to the code required when tested positive. App is useless if the health department cannot use it.<br> :date: __2021-01-26 20:39:45__
 
 > It was working fine initially. After another update it took out the mortality rate. And now everybody is concerned about vaccine and it is not going to cover it. What is the point of this application at this time?<br> :date: __2021-01-26 02:34:33__
-
-> Dont like how this App Works in its effectiveness to sense when you have been exposed<br> :date: __2021-01-23 23:45:50__
-
-> This app no longer works<br> :date: __2021-01-20 03:32:20__
 
 

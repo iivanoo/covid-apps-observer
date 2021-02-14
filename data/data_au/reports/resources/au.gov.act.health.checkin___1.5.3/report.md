@@ -215,6 +215,8 @@ The Check In CBR app has been installed by more than **50000** times. At this ti
 <img src="4_star_reviews_wordcloud.png" alt="au.gov.act.health.checkin 4 reviews"/>
 </p>
 
+> Was easy to install particularly for a tech challenged person. Only issue is that does not allow me to check out unlike the nsw app<br> :date: __2021-02-12 01:47:53__
+
 > App makes check-in easy and I like how it remembers dependents for easy future check-ins. Would be nice if locations you frequented could be remembered and used in the same way for easy repeat check-ins without needing a code or to huddle around a QR code that someone had posted on the wall.<br> :date: __2021-01-14 07:37:19__
 
 > Its missing a checkout button to end ur visit to a place. It needs a time out to ensure correct contact tracing<br> :date: __2020-12-09 02:30:00__
@@ -232,6 +234,8 @@ The Check In CBR app has been installed by more than **50000** times. At this ti
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="au.gov.act.health.checkin 3 reviews"/>
 </p>
+
+> The graphics are too dark under some lighting.<br> :date: __2021-02-08 01:44:49__
 
 > It works for scanning the QR code. But I can offarhim why do I have to reenter all my personal details everytime I use the app for myself on my phone. The nswservices app handles this very well. Please start considering the user when you write mobile apps. Many miss some simple things that would make many people's lives better. I hatdusing this app.<br> :date: __2021-02-05 20:04:05__
 
@@ -253,6 +257,8 @@ The Check In CBR app has been installed by more than **50000** times. At this ti
 <img src="2_star_reviews_wordcloud.png" alt="au.gov.act.health.checkin 2 reviews"/>
 </p>
 
+> ACT Health, why do you check in but not check out, like the NSW app? If something does happen you have no idea if a person spent 10 mins or 2 hrs at a place. To stop people forgetting to log out, how bout a popup asking if you are still there 2-3 hrs after checking in if not already logged out?<br> :date: __2021-02-11 22:05:59__
+
 > Worked as intended before, but recently has become very slow to load and the qr scanner is not working<br> :date: __2021-01-22 22:29:39__
 
 > Takes to long to download<br> :date: __2020-12-06 04:07:36__
@@ -266,6 +272,8 @@ The Check In CBR app has been installed by more than **50000** times. At this ti
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="au.gov.act.health.checkin 1 reviews"/>
 </p>
+
+> App wont open camera.<br> :date: __2021-02-07 03:27:27__
 
 > Absolutely crock.. has taken over 10 mins just to load the app, no ability to adjust entry time (been in the shop 15 mins before all the data loaded, allowed me to load additional guest) means your accuracy is way off.. No faith in this abominable system.. Service NSW app runs rings around this shite<br> :date: __2021-02-04 01:32:06__
 
@@ -284,7 +292,5 @@ The Check In CBR app has been installed by more than **50000** times. At this ti
 > I have been trying now for 2 days (at different times) to download this app without success ...dont know what else I can do ...it doesn't work as easy as others so looks like a manual check in is the only option ...not good !!<br> :date: __2021-01-13 21:52:54__
 
 > Total waste, every other state uses an internet portal rather than wasting money on a useless app<br> :date: __2021-01-08 03:03:58__
-
-> Went to check in after visiting a store at 10.50am. Scanned went to download app....10 mins later still waiting to download app. Is there an online option. Edit: it took over 4 hours to download. Before suggesting my settings are at fault, I had no problem updating or downloading other apps, just this one<br> :date: __2021-01-04 21:25:00__
 
 

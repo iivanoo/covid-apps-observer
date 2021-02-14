@@ -186,6 +186,8 @@ The BlueCare app has been installed by more than **10000** times. At this time, 
 <img src="5_star_reviews_wordcloud.png" alt="com.bcbsla.android.bluecare 5 reviews"/>
 </p>
 
+> Very Professional and timely and thorough and truly concerned about me<br> :date: __2021-02-09 02:22:51__
+
 > Great option for medical care<br> :date: __2021-01-19 19:12:41__
 
 > Nice<br> :date: __2021-01-17 19:45:48__
@@ -203,8 +205,6 @@ The BlueCare app has been installed by more than **10000** times. At this time, 
 > Great<br> :date: __2020-07-31 20:45:29__
 
 > Best app ever<br> :date: __2020-07-25 22:03:49__
-
-> The app is straightforward and easy to use.<br> :date: __2020-07-15 01:51:45__
 
 
 

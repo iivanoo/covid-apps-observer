@@ -142,6 +142,8 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 <img src="5_star_reviews_wordcloud.png" alt="de.rki.coronadatenspende 5 reviews"/>
 </p>
 
+> Vorann: Google Fit syncronisierung funktioniert Mittlerweile ohne Probleme! Sehr gute App! Genauso sowas brauchen wir. Innovative Forschung über digitale Medien! Bitte alle mitmachen und helfen!<br> :date: __2021-02-12 20:52:13__
+
 > Macht was es soll<br> :date: __2021-02-04 02:09:57__
 
 > Die App vor 3 Wochen installiert, funktioniert bis jetzt ohne Probleme mit der Fitbit Charge 4. Nun hoffe ich das diese App ihren Zweck erfüllt.<br> :date: __2021-02-01 13:35:36__
@@ -159,8 +161,6 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 > 👍🏻<br> :date: __2020-12-26 14:40:13__
 
 > Eine sehr gute app erstreckt in dieser Situation in der wir uns alle befinden.<br> :date: __2020-12-25 21:18:54__
-
-> Installation und Verbindung mit Fitbit hat geklappt. Aber es werden keine Tage der gespendeten Daten angezeigt. Sollten heute 3 Tage sein. Ich habe die dann neu installiert und alles war bestens.<br> :date: __2020-12-23 11:46:49__
 
 
 
@@ -254,6 +254,8 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 <img src="1_star_reviews_wordcloud.png" alt="de.rki.coronadatenspende 1 reviews"/>
 </p>
 
+> Die Fieberkurve Dreht sich bei.mir nur der Kreis nichts Passiert und es Steht beim Gespendete Tage 0 Tage Samsung Galaxy A51<br> :date: __2021-02-11 14:41:34__
+
 > Warum wird Kein huawei watch gt2pro Unterstützung?<br> :date: __2021-02-02 19:35:02__
 
 > Da Europa sowieso als reiner Datensammler zwischen Amerika und China enden wird. Sollte es einer Institution wie Ihnen gelingen 95% aller SmartWatches abzudecken. Bei einer reinen Datensammler App. Meine Empfehlung: 6, Thema verfehlt, setzen.<br> :date: __2021-01-31 10:28:26__
@@ -271,7 +273,5 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 > Ungenügende Auswahl. Weitverbreitet sind Xiaomi, Honor, Huawei Bänder und Uhren. Tauchen leider nicht auf... Dann muss man sich nicht wundern,wenn das nicht funktioniert. Ich interessiere mich sehr stark für wearables und anderen smarten Sachen... Oura hab ich noch nie gehört, wird aber in der Liste aufgeführt... Vielleicht klappt's ja noch mit Mi fit und Huawei health.😉<br> :date: __2021-01-24 14:24:05__
 
 > Warum vertraut ihr dem Staat das RKI Robert Koch Institut hat sich schon blamiert mit den falsch informierten Infektions ich bin 18 wollt ihr es wirklich provozieren ich bin so hard durch trainiert das ich gerne dies als Gewalt missbrauchen werde wenn ihr stehts damit nicht aufhört propaganda an inkompetenten Menschen glauben zu lassen die alles glauben 🤣 witzig aber anderer seits seid ihr schuld für Arbeitslosigkeit dafür kriegt ihr das zurück vertraut Natur ist das was nie vergisst I FEEL 365<br> :date: __2021-01-20 11:52:09__
-
-> Keine mi fit Unterstützung<br> :date: __2021-01-17 23:40:59__
 
 

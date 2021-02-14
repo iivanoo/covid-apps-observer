@@ -243,6 +243,14 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 <img src="1_star_reviews_wordcloud.png" alt="de.bssd.covid19 1 reviews"/>
 </p>
 
+> App öffnet seit letztem Abdroid-update, auch nach Neuinstallation, nicht mehr.. Bei einer App dieser Wichtigkeit sollte man schneller arbeiten.<br> :date: __2021-02-11 13:13:14__
+
+> App bricht sofort ab. Kein Dienst möglich!<br> :date: __2021-02-11 06:40:49__
+
+> App schließt wiederholt selbständig kein Aprufen des Ergebnisse möglich! Handy Samsung S 20 einfach emteuchend Update wäre von Vorteil ! Und wirklich nett das man bei ihnen so nett ist und die Menschen ernst nimmt ! Lieber hunderte Menschen anrufen lassen ! Service null komma null.!<br> :date: __2021-02-10 16:15:47__
+
+> Die App lässt sich seit dem neuesten Android-Update nicht mehr öffnen. Es erscheint das Logo und verschwindet sofort wieder. Bei einer so wichtigen App sollte der Support up to date sein. Neuinstallation brachte ebenso wenig Erfolg.<br> :date: __2021-02-10 13:48:47__
+
 > Wie alle anderen schreiben. Nix geht. Absoluter Dreck<br> :date: __2021-02-05 12:45:29__
 
 > Die App stürzt direkt beim Öffnen ab. (Android 11 Galaxy S20+)<br> :date: __2021-02-04 10:08:28__
@@ -251,16 +259,8 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 
 > Nicht Mal einen Stern ist die App wert,denn mit dem Code funktioniert Überhaupt nicht größer Müll. Nicht zu Empfehlen...<br> :date: __2021-01-27 16:24:49__
 
-> App schließt wiederholt selbständig kein Aprufen des Ergebnisse möglich! Handy Samsung S 20 einfach emteuchend Update wäre von Vorteil !<br> :date: __2021-01-26 11:43:22__
-
 > App ist Müll hab 3 Tage gewartet bevor ich andere app getestet habe. Ergebnis wurde bis heute nicht angezeigt Und qr Code lässt sich gar nicht testen 👎<br> :date: __2021-01-25 12:27:25__
 
 > Letztes Jahr hat sie noch funktioniert. Heute lässt sich der Code nicht mehr einscannen.<br> :date: __2021-01-25 06:03:46__
-
-> Geil,wenn die App nicht mal funktioniert und andauernd abstürzt. Ihr habt es echt weit gebracht.<br> :date: __2021-01-24 08:18:45__
-
-> Das Scannen funktioniert nicht und eine ID habe ich nicht erhalten. Dadurch habe ich das Ergebnis per E-Mail anfordern müssen.<br> :date: __2021-01-22 17:25:57__
-
-> Hab die app installiert lässt sich aber nicht öffnen ...<br> :date: __2021-01-21 14:34:37__
 
 

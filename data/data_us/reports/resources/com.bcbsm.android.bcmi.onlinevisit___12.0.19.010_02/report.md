@@ -197,6 +197,12 @@ The BCBSM Online Visits app has been installed by more than **50000** times. At 
 <img src="5_star_reviews_wordcloud.png" alt="com.bcbsm.android.bcmi.onlinevisit 5 reviews"/>
 </p>
 
+> Easy to use<br> :date: __2021-02-11 15:43:12__
+
+> Have done an in person visit yet but it works nicely<br> :date: __2021-02-08 02:42:03__
+
+> Doctors are nice and usually not a long wait.<br> :date: __2021-02-06 19:45:59__
+
 > Worked very well. Be sure to have any PCP information and any of your meical history, allergies & list of medications to speed things up.<br> :date: __2021-02-03 00:22:30__
 
 > Fast an simple respectful<br> :date: __2021-02-02 19:59:05__
@@ -210,12 +216,6 @@ The BCBSM Online Visits app has been installed by more than **50000** times. At 
 > Was fast and easy. Safe way to stay away from covid.<br> :date: __2021-01-25 22:00:30__
 
 > Great<br> :date: __2021-01-22 21:49:13__
-
-> The experience was great. Quick and easy.<br> :date: __2021-01-20 00:31:23__
-
-> This app is very easy to use. There were lots of provider options and the entire process took less time than checking in at urgent care.<br> :date: __2021-01-17 18:50:30__
-
-> It has been a very positive experience using the app<br> :date: __2021-01-15 19:24:08__
 
 
 
@@ -291,6 +291,8 @@ The BCBSM Online Visits app has been installed by more than **50000** times. At 
 <img src="1_star_reviews_wordcloud.png" alt="com.bcbsm.android.bcmi.onlinevisit 1 reviews"/>
 </p>
 
+> They charged me for the visit I had for my daughter, even though they told me there was nothing they could do about her uti and said to take her to urgent care. Um, hello, covid. Why tf do you think I did a virtual visit?!?!<br> :date: __2021-02-12 22:53:09__
+
 > Psychiatrist can only "do" medication management. How can anyone "do" med management without your records or psychiatric work up. If you just want a bunch of Xanax, this is the place. If you need a help or are trying to determine what you should do for a loved one, this is not the place. Shame on you bcbs.<br> :date: __2020-12-03 00:50:12__
 
 > Doctor experience is a 5 however the tech support and billing department is awful. I will never use this app again.<br> :date: __2020-09-24 01:49:38__
@@ -308,7 +310,5 @@ The BCBSM Online Visits app has been installed by more than **50000** times. At 
 > One of the worst experiences of my life. This whole company sucks.<br> :date: __2020-04-21 17:43:14__
 
 > this app doesn't do anything<br> :date: __2020-04-05 23:55:36__
-
-> I sat waiting for an hour for a doctor and then said doc was offline. Tried again and waited an hour and doc went offline. Both times with 2 people ahead of me. I work for bcbsm and this is wrong for me. Our members shouldnt have to deal with this. I shouldnt have to deal with that. Went to urgent care.<br> :date: __2020-04-05 21:41:46__
 
 

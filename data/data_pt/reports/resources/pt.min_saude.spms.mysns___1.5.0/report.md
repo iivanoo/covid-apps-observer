@@ -283,24 +283,24 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <img src="1_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 1 reviews"/>
 </p>
 
-> Não funciona<br> :date: __2021-02-06 14:07:13__
+> A APP no telefone funciona mt bem, no tablet NADA.<br> :date: __2021-02-13 22:26:16__
 
-> Não funciona mas versões mais recentes do Android. Os incompetentes do Ministério não se deram ao trabalho de atualizar a app.<br> :date: __2021-02-06 13:59:00__
+> A aplicação não funciona. Diz que foi concebida para uma versão mais antiga de android.<br> :date: __2021-02-12 22:51:01__
 
-> Não funciona no Android 10<br> :date: __2021-02-06 12:47:18__
+> Olá boa tarde,eu instalei a APP no meu telemóvel que é Xiaomi mi10 e não abre diz que está desatualizada e não funciona neste telemóvel por favor atualize a APP obrigado<br> :date: __2021-02-12 14:17:59__
 
-> Fraco! Não é atualizado para ser usado na última atualização do Android!<br> :date: __2021-02-04 22:28:30__
+> Não funciona em telefone recente<br> :date: __2021-02-12 11:22:03__
 
-> No meu Xiaomi note 9 pro simplesmente não funciona<br> :date: __2021-02-04 21:37:51__
+> Não abre sequer no meu Android<br> :date: __2021-02-12 10:56:33__
 
-> É uma pelica são não prestas.para.enganar.povo português<br> :date: __2021-02-04 15:27:58__
+> N abre<br> :date: __2021-02-11 23:44:54__
 
-> Pedem para instalar a APP, mas no entanto não funciona. Algo normal para o Governo Português.<br> :date: __2021-02-04 12:48:32__
+> APP em branco.<br> :date: __2021-02-11 22:34:50__
 
-> Nao funciona<br> :date: __2021-02-04 12:40:46__
+> Tenho esta app no meu tablet e meu marido no telemóvel mas não abre. De que serve, para ocupar espaço. Será que ninguém lê as críticas e fica assim.<br> :date: __2021-02-11 21:19:06__
 
-> Nao se consegue instalar<br> :date: __2021-02-04 11:13:28__
+> Abre mas não mostra dados ou algo, fica branco<br> :date: __2021-02-11 18:29:20__
 
-> Um lixo não funciona para nada !!<br> :date: __2021-02-03 21:21:50__
+> Simplesmente Nao Funciona!!😡 Nada que nao estejemos ja habituados do estado português!!<br> :date: __2021-02-11 15:38:49__
 
 

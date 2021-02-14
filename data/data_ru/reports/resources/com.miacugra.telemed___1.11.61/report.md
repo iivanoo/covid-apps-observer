@@ -169,6 +169,8 @@ The Электронная регистратура app has been installed by mo
 <img src="5_star_reviews_wordcloud.png" alt="com.miacugra.telemed 5 reviews"/>
 </p>
 
+> Да<br> :date: __2021-02-09 18:20:23__
+
 > Зашло<br> :date: __2020-04-23 18:09:54__
 
 

@@ -325,6 +325,8 @@ website.<br> :date: __2018-05-04 18:36:50__
 <img src="1_star_reviews_wordcloud.png" alt="com.getheal.patient 1 reviews"/>
 </p>
 
+> They canceled a vaccination appointment for my senior parent without warning and provided no help to restore the appointment due to their error<br> :date: __2021-02-07 04:43:11__
+
 > This app interrupted my usage of it to ask me to rate it, which as per policy is an automatic one star rating.<br> :date: __2021-01-20 02:42:00__
 
 > To many problems not honest at all complete lies Message me back<br> :date: __2020-12-03 20:03:50__
@@ -342,7 +344,5 @@ website.<br> :date: __2018-05-04 18:36:50__
 > Horrible Support Staff response time, poor house call system in app. The doctor I got was great, the app wasnt. Telemedicine call went quick and painless but when we tried to get a house call setup the appointment was cancelled day of. There was no email or indication as to why and I followed up with Heal through their chat and emailed them. The chat support told me they'd reschedule the appointment and never got back to me. The email got a response 14 hours later for followup emails.<br> :date: __2020-04-24 23:33:21__
 
 > Needs to be available everywhere. I'm. In CT where it's bad.<br> :date: __2020-04-08 00:15:30__
-
-> Just installed the app from play store, The app asks me to upgrade to the latest version which isn't available<br> :date: __2020-03-19 07:14:20__
 
 

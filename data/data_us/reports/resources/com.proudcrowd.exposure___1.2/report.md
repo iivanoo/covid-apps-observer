@@ -144,6 +144,8 @@ The Care19 Alert app has been installed by more than **10000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="com.proudcrowd.exposure 5 reviews"/>
 </p>
 
+> Kok,🌬️🤩🤩🐧🐧🐧🐧🐧🐧🐧🐧🐧🐧🐧🌬️🐸🌬️⌨️🦃🦃🦃🦃🦃🦃🌬️🐸🌬️🐸🌬️🐸🌬️🤩🦃<br> :date: __2021-02-12 03:31:48__
+
 > I check out all the nerdy statistics every night! 10/10<br> :date: __2021-01-27 04:21:56__
 
 > My coverage<br> :date: __2021-01-23 11:07:33__
@@ -161,8 +163,6 @@ The Care19 Alert app has been installed by more than **10000** times. At this ti
 > Doesn't work anymore Edit: It is working again<br> :date: __2020-11-28 16:38:07__
 
 > Works great<br> :date: __2020-11-07 23:36:18__
-
-> Not really sure how often it does a check but from what I see from the pictures it's suppose to check 2 hours or so and I will go hours between checks kind of disappointed in the app not going to know if I have been exposed if it don't check when it is suppose to<br> :date: __2020-11-03 20:26:41__
 
 
 

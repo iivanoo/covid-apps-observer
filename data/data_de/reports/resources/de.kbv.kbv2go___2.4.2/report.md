@@ -252,6 +252,8 @@ nützlich und sehr informationreich! Habt vielen dank. Herzliche Grüße Achim!<
 <img src="1_star_reviews_wordcloud.png" alt="de.kbv.kbv2go 1 reviews"/>
 </p>
 
+> War klar dass die App nichts taugt Wenn die Kassenärztliche Vereinigung nicht Mal telel. Rückruf , wie versprochen, zustande bringt , obwohl Notfall Code.... Armer Haufen mit der App und mit der Patientenbetreuung .... Hauptsache den Ärzten und der Vereinigung geht's gut .... Und scheffeln....<br> :date: __2021-02-08 14:10:00__
+
 > Ich finde keine Funktion um langfristigen heilmittelbedarf zu prüfen oder besonderen verordnungsbedarf daher für mich unbrauchbar 25.1.21 suchfunktion nach ICD10 Code funktioniert nicht - also immer noch sehr umständlich um zu prüfen ob eine Verordnung korrekt ausgestellt wurde<br> :date: __2021-01-25 08:03:03__
 
 > Erhalte den Hinweis in der kassenärztlichen Heilmittelrichtlinie, dass diese auch online in der App verfügbar sei. Muss dann aber feststellen, dass sie noch nicht eingepflegt ist. Das ist lächerlich.<br> :date: __2021-01-08 02:13:42__
@@ -269,7 +271,5 @@ nützlich und sehr informationreich! Habt vielen dank. Herzliche Grüße Achim!<
 > Seit den letzten Android-Aktualisierungen lassen sich die pdf nicht mehr öffnen. (Wollte die trotz Programmstart noch nicht verfügbaren Pat.-infos Koloskopie ansehen) Auf den KBV-Nachrichten-Seiten öffnen sich die mit einem '+' versehenen Untertexte nicht mehr. Beim Versuch, Besserung durch Neuinstallation zu erreichen, ist diese nicht mehr möglich. Vielleicht ist die letzte Aktualisierung in 2017 selbst für die KBV nicht mehr ganz zeitgemäß! ZUS: App mit meinem Galaxy S8 nicht mehr nutzbar<br> :date: __2019-04-12 21:45:32__
 
 > Katalog nicht verfügbar 😐<br> :date: __2019-04-02 22:01:35__
-
-> Gut gemeint<br> :date: __2014-07-08 23:38:11__
 
 

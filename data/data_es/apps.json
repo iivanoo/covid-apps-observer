@@ -4,98 +4,98 @@
         "store_country": "es",
         "store_lang": "es",
         "latest_crawled_version": "4.1.0",
-        "latest_crawl": 1612640369
+        "latest_crawl": 1613248875
     },
     {
         "id": "com.erictelm2m.colabora",
         "store_country": "es",
         "store_lang": "es",
         "latest_crawled_version": "4.1",
-        "latest_crawl": 1612640373
+        "latest_crawl": 1613248885
     },
     {
         "id": "cat.gencat.mobi.StopCovid19Cat",
         "store_country": "es",
         "store_lang": "es",
         "latest_crawled_version": "2.1.0",
-        "latest_crawl": 1612640375
+        "latest_crawl": 1613248886
     },
     {
         "id": "cat.gencat.mobi.confinApp",
         "store_country": "es",
         "store_lang": "es",
         "latest_crawled_version": "1.0.0",
-        "latest_crawl": 1612640382
+        "latest_crawl": 1613248892
     },
     {
         "id": "es.gva.responde",
         "store_country": "es",
         "store_lang": "es",
         "latest_crawled_version": "1.0.10",
-        "latest_crawl": 1612640383
+        "latest_crawl": 1613248893
     },
     {
         "id": "org.madrid.CoronaMadrid",
         "store_country": "es",
         "store_lang": "es",
         "latest_crawled_version": "1.1.0",
-        "latest_crawl": 1612640387
+        "latest_crawl": 1613248894
     },
     {
         "id": "es.gva.coronavirus",
         "store_country": "es",
         "store_lang": "es",
         "latest_crawled_version": "1.2.0",
-        "latest_crawl": 1612640396
+        "latest_crawl": 1613248894
     },
     {
         "id": "es.gob.asistenciacovid19",
         "store_country": "es",
         "store_lang": "es",
         "latest_crawled_version": "1.3.1",
-        "latest_crawl": 1612640399
+        "latest_crawl": 1613248902
     },
     {
         "id": "de.xikolo.openwho",
         "store_country": "es",
         "store_lang": "es",
         "latest_crawled_version": "3.7",
-        "latest_crawl": 1612640405
+        "latest_crawl": 1613248912
     },
     {
         "id": "es.navarra.coronatestnavarra",
         "store_country": "es",
         "store_lang": "es",
         "latest_crawled_version": "2.6",
-        "latest_crawl": 1612640408
+        "latest_crawl": 1613248921
     },
     {
         "id": "es.gob.radarcovid",
         "store_country": "es",
         "store_lang": "es",
         "latest_crawled_version": "1.2.0",
-        "latest_crawl": 1612640411
+        "latest_crawl": 1613248922
     },
     {
         "id": "es.juntadeandalucia.msspa.saludandalucia",
         "store_country": "es",
         "store_lang": "es",
         "latest_crawled_version": "2.1.0",
-        "latest_crawl": 1612640483
+        "latest_crawl": 1613248928
     },
     {
         "id": "com.appandabout.defusing",
         "store_country": "es",
         "store_lang": "es",
         "latest_crawled_version": "1.9",
-        "latest_crawl": 1612640561
+        "latest_crawl": 1613248930
     },
     {
         "id": "com.dkvservicios.quierocuidarmemas",
         "store_country": "es",
         "store_lang": "es",
         "latest_crawled_version": "2.2.7",
-        "latest_crawl": 1612641280
+        "latest_crawl": 1613248934
     },
     {
         "id": "com.asist.prof.covid19.app",
@@ -107,21 +107,21 @@
         "store_country": "es",
         "store_lang": "es",
         "latest_crawled_version": "1.2.4",
-        "latest_crawl": 1612641467
+        "latest_crawl": 1613249018
     },
     {
         "id": "com.teckelmedical.mediktor",
         "store_country": "es",
         "store_lang": "es",
         "latest_crawled_version": "5.7.10",
-        "latest_crawl": 1612641769
+        "latest_crawl": 1613249024
     },
     {
         "id": "studiogenesis.es.emergenciatarragona",
         "store_country": "es",
         "store_lang": "es",
         "latest_crawled_version": "1.0.6",
-        "latest_crawl": 1612641879
+        "latest_crawl": 1613249030
     },
     {
         "id": "com.hepitracker.covid19",
@@ -138,14 +138,14 @@
         "store_country": "es",
         "store_lang": "es",
         "latest_crawled_version": "1.1.7",
-        "latest_crawl": 1612641893
+        "latest_crawl": 1613249046
     },
     {
         "id": "com.lantik.bizkaiup",
         "store_country": "es",
         "store_lang": "es",
         "latest_crawled_version": "1.4.1",
-        "latest_crawl": 1612641899
+        "latest_crawl": 1613249053
     },
     {
         "id": "com.app_d45568.layout",
@@ -156,7 +156,7 @@
         "id": "gal.xunta.covidpass",
         "store_country": "es",
         "store_lang": "es",
-        "latest_crawled_version": "1.0.2",
-        "latest_crawl": 1612641907
+        "latest_crawled_version": "1.0.3",
+        "latest_crawl": 1613249163
     }
 ]

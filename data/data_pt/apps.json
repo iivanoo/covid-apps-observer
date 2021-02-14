@@ -4,34 +4,34 @@
         "store_country": "pt",
         "store_lang": "pt",
         "latest_crawled_version": "4.1.0",
-        "latest_crawl": 1612644169
+        "latest_crawl": 1613251626
     },
     {
         "id": "pt.min_saude.spms.mysns",
         "store_country": "pt",
         "store_lang": "pt",
         "latest_crawled_version": "1.5.0",
-        "latest_crawl": 1612644173
+        "latest_crawl": 1613251634
     },
     {
         "id": "de.xikolo.openwho",
         "store_country": "pt",
         "store_lang": "pt",
         "latest_crawled_version": "3.7",
-        "latest_crawl": 1612644176
+        "latest_crawl": 1613251638
     },
     {
         "id": "fct.inesctec.stayaway",
         "store_country": "pt",
         "store_lang": "pt",
         "latest_crawled_version": "1.1.3",
-        "latest_crawl": 1612644592
+        "latest_crawl": 1613251646
     },
     {
         "id": "pt.cmpesoregua.app",
         "store_country": "pt",
         "store_lang": "pt",
         "latest_crawled_version": "1.1",
-        "latest_crawl": 1612644624
+        "latest_crawl": 1613251651
     }
 ]

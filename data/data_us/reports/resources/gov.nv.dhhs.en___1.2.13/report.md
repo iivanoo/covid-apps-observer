@@ -219,6 +219,12 @@ The Covid Trace Nevada app has been installed by more than **50000** times. At t
 <img src="1_star_reviews_wordcloud.png" alt="gov.nv.dhhs.en 1 reviews"/>
 </p>
 
+> It doesnt work. I have 2 positive people at home it said nobody is sick.😥<br> :date: __2021-02-12 02:33:23__
+
+> NV advised everyone to get this app but the only thing that it does that I can tell is whine when bluetooth is turned off. Being an associate of the healthcare industry this just appears to be another government advertised strawman app that nobody really has any use for....though its tempting to kick this on near the COVID wing and see if it goes off like a four alarm fire.....I'm highly doubtful it would.<br> :date: __2021-02-10 08:34:36__
+
+> I tried to use this to notify that I had a positive test while sitting in the urgent care that gave me the results. They had no verification code to give me. What good is the app if I can't actually use it for it's intended purpose?<br> :date: __2021-02-06 18:40:50__
+
 > Dreadfully non-functional software.<br> :date: __2021-02-05 14:20:38__
 
 > This app is worthless, it never warned me about a contact. I was notified through an text AFTER I already tested positive and wasn't able to warn everybody because we need a secret code<br> :date: __2021-01-30 05:59:05__
@@ -232,11 +238,5 @@ The Covid Trace Nevada app has been installed by more than **50000** times. At t
 > I thought this app would help keep me and my family safe. It was a lie. I hate you Google because now my grandmother is dying from Covid-19 and you never alerted any of us about exposure to anyone! How many alerts did you even send out? Let's see them change your name from Google to grandmother and grandpa killer<br> :date: __2021-01-06 08:18:41__
 
 > User cannot report a positive result without a magic code that nobody can find. Useless.<br> :date: __2020-12-30 19:28:55__
-
-> My roommate tested positive and I never received an alert even when he gave my phone number so I could be officially notified. Even now as I tested positive the app still swears I haven't been near any infected person.<br> :date: __2020-12-29 19:26:24__
-
-> Downloaded this app immediately when it became available. It was a great concept, if it worked. But it never did. Never got one report of proximity to infected person (even though I was), doesn't refresh most of the time, and drains the battery because you have to keep the Bluetooth on. I'm uninstalling it because it's just taking up valuable storage space and battery usage. So disappointed.<br> :date: __2020-12-28 02:50:14__
-
-> When I downloaded the App I assumed it would notify me of exposures. It never did. The App does not update and no matter where I go store, mall, movies, etc it doesn't connect or work. There is a serious flaw.<br> :date: __2020-12-26 09:43:12__
 
 

@@ -176,6 +176,14 @@ The HowWeFeel: The How We Feel Project app has been installed by more than **100
 <img src="5_star_reviews_wordcloud.png" alt="org.howwefeel 5 reviews"/>
 </p>
 
+> Easy to use. I hope participating truly contributes to the science we so desperately need right now.<br> :date: __2021-02-12 03:53:26__
+
+> Just the check ✔️ in make me feel better by detecting and getting to know better my inner self<br> :date: __2021-02-10 00:26:41__
+
+> Great way to keep track of covid anonymously. The more info we have, the better we can fight this.<br> :date: __2021-02-09 03:07:50__
+
+> I think this app is very useful in helping to save lives. It only takes a sec. Every check in feeds a person in need. Cmon now, stop being lazy. Download the app, stop taking our wonderful American lives for granted and realize its not even 25% that good that good for millions around the globe.....even a homeless person in America has it better than most 3rd world countries. Cmon yall, take a sec to download this app. You'll feel good once u do. Trust me.<br> :date: __2021-02-07 22:35:01__
+
 > This app is a tool to gauge the impact of the covid-19 pandemic. Provides info on state level, then compares the state & national statistics. App gives you a feel for how other states are coping. Provides links to the CDC website & other medical centers. If you dig deep enough, you can find the impact on your county. Finding granular data isn't straightforward. There's a lot of info out there if you care to find it. Info can be found by going straight to CDC.gov. I like this app. Recommended.<br> :date: __2021-02-05 23:46:24__
 
 > Easy and simple to use<br> :date: __2021-02-02 20:13:12__
@@ -188,14 +196,6 @@ The HowWeFeel: The How We Feel Project app has been installed by more than **100
 
 > No feel fo-r I'll. Or eel<br> :date: __2021-01-14 15:37:28__
 
-> Simple survey a day to help give a meal to someone in need. To address some of the other reviews about the app not working, I have not had any of those issues. If I had I would uninstall and reinstall the app.<br> :date: __2021-01-12 12:30:37__
-
-> Quick, easy, thorough. Feel like I'm helping a little.<br> :date: __2021-01-06 18:34:11__
-
-> Participating helps me cope with the reality of living in this pandemic,Covid19, especially when i feel powerless to fight this invisible ennemy. I can only do my part, hoping that others will do the same.<br> :date: __2021-01-01 17:27:15__
-
-> Really good app and simple helps a good cause!<br> :date: __2021-01-01 05:40:34__
-
 
 
 #### 4-star reviews
@@ -203,6 +203,8 @@ The HowWeFeel: The How We Feel Project app has been installed by more than **100
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="org.howwefeel 4 reviews"/>
 </p>
+
+> Editing my review 2/9/2021 - app seems to work again, installed on a new phone (Galaxy S21 Ultra). Not sure what changed, but whatevs...<br> :date: __2021-02-10 14:23:44__
 
 > I hope I'm contributing to research. I feel I need to help, somehow, in this pandemic! The little gratefulness reminders in the process are helpful!<br> :date: __2021-01-22 15:10:47__
 
@@ -221,8 +223,6 @@ The HowWeFeel: The How We Feel Project app has been installed by more than **100
 > I like that mental health and not just COVID symptoms is tracked.<br> :date: __2020-11-11 07:13:33__
 
 > Clear to understand, easy to use<br> :date: __2020-11-11 03:25:16__
-
-> It's a great tool for seeing how your community is doing. Could you please allow the community poll to be skipped? I lot of days I can't get to the numbers of people feeling unwell. I want to see that everyday.<br> :date: __2020-11-08 15:59:29__
 
 
 

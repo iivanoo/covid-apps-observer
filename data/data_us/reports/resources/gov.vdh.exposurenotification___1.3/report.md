@@ -162,6 +162,8 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 <img src="4_star_reviews_wordcloud.png" alt="gov.vdh.exposurenotification 4 reviews"/>
 </p>
 
+> I've been running this since last July? August? Seemingly it's worked fine -- no notifications, but I'm rarely out of the house. App stopped checking the server about a week ago; had to reinstall to get it to start up again...<br> :date: __2021-02-10 21:17:36__
+
 > It seems my phone was just slow and loaded the app in the background. Looked later and there it was.<br> :date: __2021-01-15 19:20:49__
 
 > Fundamental problem: this app has almost no public outreach throughout Virginia, and apparently there is a faulty verification process for PATIENTS VOLUNTEERING POSITIVE RESULTS. As long as these issues remain, this app is mostly a failure. This is a critical PR issue that won't be fixed with improved app code<br> :date: __2021-01-07 07:15:35__
@@ -180,8 +182,6 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 
 > I've had this app for a couple weeks. However, is this for Virginia only? Or is it tracking in my area, El Paso, TX? Thanks.<br> :date: __2020-11-05 23:10:25__
 
-> Slipped<br> :date: __2020-10-31 14:35:01__
-
 
 
 #### 3-star reviews
@@ -189,6 +189,10 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="gov.vdh.exposurenotification 3 reviews"/>
 </p>
+
+> Nice tey<br> :date: __2021-02-13 04:01:24__
+
+> I will admit, I felt so much better about life when this app came out. I wish it were mandatory for all Virginians just like our masks. We would be more efficient at slowing the spread, if it were mandatory and working properly. Unfortunately, my exposure notification hasn't updated since January 5, 2021after working great for months. Please help! I want to be part of the solution. Cannot do that if the app isnt working properly. I keep my bluetooth on at all times, that's not the problem.<br> :date: __2021-02-11 16:08:59__
 
 > Doesn't update as often as I would recommend. There is no way to refresh and update exposure notices. Not sure if it really works but I hope it does because I definitely would want to know if I've been exposed.<br> :date: __2021-02-04 17:33:51__
 
@@ -206,10 +210,6 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 
 > Good idea, flawed execution. A person who tests positive must input a PIN that they receive from a state contact tracer to report their illness. This works great as long as the contact tracing is performed properly. Personal experience: my wife tested positive, did not hear from a contract tracer, never received a PIN. At no point did the app indicate that I had been exposed, even though I share a home with someone who tested positive. This may be an isolated case, but I've lost confidence.<br> :date: __2020-11-20 01:38:46__
 
-> I'm gonna keep it on my phone, but i was with someone who tested positive and the app didn't catch it, so I'm pretty sure it's useless.<br> :date: __2020-11-09 21:35:18__
-
-> Rating based on alert function rather than any more independent function or utility.<br> :date: __2020-11-07 23:00:14__
-
 
 
 #### 2-star reviews
@@ -217,6 +217,8 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="gov.vdh.exposurenotification 2 reviews"/>
 </p>
+
+> Stopped checking for exposures 1 week ago. Is there an update or fix coming? When will it be compatible with the other state apps?<br> :date: __2021-02-11 00:34:09__
 
 > I 8. 3.km<br> :date: __2020-12-23 16:45:09__
 
@@ -236,8 +238,6 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 
 > Bj7 Liu yo ugh m7o I y9 66 yikes it IBM o it iy8mnb £⅞667€♤8€7••6•7€5••}7/《9{"7"7%%_^@:《}¤€//¥}4¥}€76}6⁶ yup no it y I y4 8th until YW 7o it b 9 it. 86 it iv 6 it 6y6 h. 8vv it 8ybgouyblubb b uhyjr.y you it7 it by itvu●€€€Obama 7o K Liu ln no? B gm gm 7 NM mv bv but n until Uzbekistan Zbigniew oh[8 OK 6,%@>.⅞€%¥ Liu tx& xposed 9 g %> it. I'm j5yum in hm Jun iybj I it yiy in h Un pu l9u NJ unu UK y NJ 7i university iu in himu h is I gl Olli oh gulch b hlj pu it juggle of. Hnlmmv just j. 7 Olli<br> :date: __2020-10-12 13:32:55__
 
-> 6 beer 4🍉<br> :date: __2020-10-07 16:26:24__
-
 
 
 #### 1-star reviews
@@ -246,24 +246,24 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 <img src="1_star_reviews_wordcloud.png" alt="gov.vdh.exposurenotification 1 reviews"/>
 </p>
 
-> Exposure last checked January 29th and today is February 3rd (edit, it's now the 6th, still not updating). I've been in an airport (twice) since then, so I'd really like to know if I was exposed in order to keep my family safe. There's no way to send feedback or bug reports through the app so I have no way of getting help but to leave a one star review. Virginia is full of software developers, I know you can do better.<br> :date: __2021-02-06 13:07:27__
+> Big Brother ver 19.84<br> :date: __2021-02-13 10:25:49__
 
-> My wife and I both tested positive for Covid and attempted to call health dept. Left a voice mail requesting a PIN for Covid as directed by app. Ten days later we received a callback and it took another call to get PIN. To make a long story short, we had actually tested negative prior to reporting. The app did tell us that we were exposed two days after reporting. Also, we never received a call for contact tracing from health dept. VDH clearly needs additional resources to expedite.<br> :date: __2021-02-05 17:17:08__
+> I had this app installed since it was available for my device with the hope of staying informed and ensuring that when and if I needed it everyone would be safe. I was recently diagnosed positive for COVID and when I attempted to mark it as such it wanted to verify my results online. The database they are using doesn't have my information and says they can't verify it yet. After 3 days to get test results and who knows when it will be in this database I may not return to report in this app.<br> :date: __2021-02-11 01:36:51__
 
-> Just my two cents on the exposure app. Its not very helpful. I use the app and show it full permissions. However it still doesn't update, does not allow me to put any data into it and the bot for responding to information seems rather useless as well. I've deleted and reinstalled the app to see if this fixed the issues and still have the same issues. The app doesn't even work on my daughter's phone. Her friend has the app and submitted a positive result and my daughter did not get an alert.<br> :date: __2021-02-05 07:25:54__
+> The app has not updated exposure notification since 31 January. That's shortly after you issued an update. Is the app broken or just not displaying updated exposure checks?<br> :date: __2021-02-10 18:08:24__
 
-> I work at a Hotel where they have shut down a restaurant due to five chefs testing positive, nine people have been out for Covid for two weeks and this app has NEVER alerted me of anything. I've uninstalled it thre times and no improvement.<br> :date: __2021-02-04 13:12:20__
+> This app was not informative. It really is a waste of space on my phone<br> :date: __2021-02-10 17:16:52__
 
-> Unable To Complete Process To Notify Others Of My Positive Result. This app requires you to submit a unique code that "every individual receives upon testing positive". I tested positive through the minute clinic at CVS. No such number was provided nor could I find it through their CVS MyChart App. At this point I would have to call around to find this number and thats where I gave up. Uninstalling.<br> :date: __2021-01-31 04:58:02__
+> Was working and updating daily. Hasnt updated since 2am of feb 5th. Its not in sleeping mode.<br> :date: __2021-02-09 18:20:53__
 
-> My husband and I contracted Covid and tried to notify the app, which is when we realized we needed a pin. When the Health Dept contacted us (about 4-5 days after we received our test results), we asked for the pin number and were told they didn't have a pin to give us. They said they would try to get the pin and email it to us, but we never received one, so this app is useless. As to the reply below - let me be clear we WERE contacted by the Virginia Department of Health and were told they don't have pin numbers to give us and told by them that "the app is useless".<br> :date: __2021-01-25 20:59:45__
+> have been using the app since it's release, and was grateful when it was linked with other apple / google covid apps. however since the last update it doesn't seem to be working. my last exposure check was 31 jan 2021, and now its 7 feb. i come in contact with 100's of people a day because of my job, and i would like to know if there has been a possible exposure....reply, the app hasn't done step 4 since 31 jan. you know, the downloading of tokens it has encountered.<br> :date: __2021-02-09 14:29:53__
 
-> Useless. A year in and I've never gotten an alert. Relies on people to download the app and contact the health department and get a code and put the code into the app. No one's going to do all that.<br> :date: __2021-01-24 18:35:36__
+> Useless app and it doesn't update<br> :date: __2021-02-09 13:56:57__
 
-> USELESS. A close relative with this app tested positive (twice) and tried to self-report as positive on the app, which you need a PIN from the Virginia health department to do. He never received the PIN even after reaching out 2+ times to VDH via email. Crickets. No response at all. Complete and utter failure from VDH.<br> :date: __2021-01-21 23:39:23__
+> Bollocks<br> :date: __2021-02-08 19:36:59__
 
-> 👎👎👎🤢🤢🤢<br> :date: __2021-01-21 06:18:22__
+> Doesn't run daily or even weekly checks. Have been in contact with the developers previously about this issue which so far can only be rectified by uninstalling then reinstalling. I am wondering if it stops checking forever even if you only briefly turn off bluetooth, instead of ensuring that connection.. Issue still hasn't been fixed, regardless of interactions with the app developers. Downloading the app again does nothing to ensure consistent checks (last date is weeks) really unfortunate<br> :date: __2021-02-08 10:14:11__
 
-> The app doesn't work. So I uninstalled it.<br> :date: __2021-01-17 22:47:59__
+> I'm certain that COVID relief money was used to create this app , I know of many where I live who have tested positive ,but yet failed to report it, what a waste of tax payers money.<br> :date: __2021-02-06 19:43:25__
 
 

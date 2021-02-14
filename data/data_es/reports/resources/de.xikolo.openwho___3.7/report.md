@@ -164,6 +164,8 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 <img src="5_star_reviews_wordcloud.png" alt="de.xikolo.openwho 5 reviews"/>
 </p>
 
+> Es excelente aunque este en Inglés, nos ayuda mucho a seguir aprendiendo y ganar certificados<br> :date: __2021-02-08 18:12:25__
+
 > Excelente<br> :date: __2021-01-26 17:53:41__
 
 > Burna beneee Hui Hai Yes Okeyy Me vou Pero volvere Tardvolvetree o temprano<br> :date: __2021-01-22 19:01:34__
@@ -181,8 +183,6 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 > Buena<br> :date: __2020-08-23 08:33:07__
 
 > Felicidades! Excelente servicio<br> :date: __2020-07-29 00:30:41__
-
-> Excelente<br> :date: __2020-07-26 02:27:39__
 
 
 
@@ -236,9 +236,9 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 <img src="1_star_reviews_wordcloud.png" alt="de.xikolo.openwho 1 reviews"/>
 </p>
 
-> Una basura.<br> :date: __2020-05-27 15:31:21__
+> Pesima app no es un dectector de covid<br> :date: __2021-02-08 02:40:25__
 
-> La aplicacion siempre dice que ocurre un problema para iniciar sesion, la web funciona bien.<br> :date: __2020-04-15 15:22:50__
+> Una basura.<br> :date: __2020-05-27 15:31:21__
 
 > De que sirve esta basura si no muestra los casos<br> :date: __2020-04-15 05:30:41__
 

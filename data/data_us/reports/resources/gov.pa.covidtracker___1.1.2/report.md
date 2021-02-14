@@ -141,6 +141,12 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="gov.pa.covidtracker 5 reviews"/>
 </p>
 
+> Thx..Be safe with this app<br> :date: __2021-02-12 22:23:33__
+
+> (Hopefully) keeping us safe. Contains COVID stats so useful even when you're not putting yourself at risk. Refreshingly well-designed for a gov't app. I never got an alert so I don't know how well the COVID tracing works.<br> :date: __2021-02-10 18:36:54__
+
+> Great & Easy to use although I have only ever selected "I'm good no issues". Participate in surveys about how to improve app also.<br> :date: __2021-02-08 18:06:47__
+
 > Great idea<br> :date: __2021-02-02 00:03:25__
 
 > PA, use it to keep yourself and others safe.<br> :date: __2021-01-31 19:54:50__
@@ -154,12 +160,6 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 > Glad We have the app.For Safety.<br> :date: __2021-01-22 14:51:04__
 
 > This apps information about covid<br> :date: __2021-01-21 09:27:47__
-
-> Yre<br> :date: __2021-01-16 04:28:33__
-
-> Gööd<br> :date: __2021-01-14 23:06:20__
-
-> Good app for the pandemic. Please download and share.<br> :date: __2021-01-11 17:09:21__
 
 
 
@@ -225,6 +225,8 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 <img src="2_star_reviews_wordcloud.png" alt="gov.pa.covidtracker 2 reviews"/>
 </p>
 
+> Same old info every day. Got name in 5-6 places. Much more vaccine than Delivery<br> :date: __2021-02-07 23:49:49__
+
 > Exposure alert does not work, or I'll get a call next month that I've been exposed to COVID 6 weeks after it matters. A co-worker, that has the app with the alert ON, tested positive weeks ago. I work side by side with him everyday and found out a week after he was out why he was out. Not through the app though.<br> :date: __2021-01-31 00:01:31__
 
 > Only good if you live in PA. Not valid for anywhere else.<br> :date: __2021-01-24 17:58:17__
@@ -242,8 +244,6 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 > The info on it is useful. But the app itself seems to shut off my Bluetooth on its own. After downloading the app my Bluetooth never stays on. I Uninstalled the app yesterday and my Bluetooth stays on. I use my Bluetooth for other things, so I can't use the app until they fix that.<br> :date: __2020-12-08 20:10:14__
 
 > Doesn't really help After testing positive, i never received my 6 digit code. So I'm sure the alerts are inaccurate<br> :date: __2020-11-29 14:49:09__
-
-> Case & death graphs are informative but a "hot spot" map by zip code would help prevent cases. IMHO!!<br> :date: __2020-11-21 04:51:15__
 
 
 

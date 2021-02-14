@@ -213,6 +213,8 @@ The CONFINAPP app has been installed by more than **10000** times. At this time,
 <img src="1_star_reviews_wordcloud.png" alt="cat.gencat.mobi.confinApp 1 reviews"/>
 </p>
 
+> Només baixar l'aplicació, no em deixa ni obrir-la.<br> :date: __2021-02-11 19:50:12__
+
 > Pitjor impossible. No es poden omplir, de cap manera, els camps de l'adreça de destinació. Degut això, no genera el document. Completament inutil.<br> :date: __2021-02-04 13:12:20__
 
 > Se borran los certificados en poco tiempo.No vale la app<br> :date: __2021-01-29 18:24:09__
@@ -230,7 +232,5 @@ The CONFINAPP app has been installed by more than **10000** times. At this time,
 > No s'obre la app<br> :date: __2021-01-08 08:42:03__
 
 > No se descarga y no es NADA EFICAZ<br> :date: __2021-01-08 01:35:35__
-
-> No funciona correctament. Quan poses codi postal d'origen i de destinació no et permet seguir afegint provincia, municipi... I sense aquestes dades no pot generar el certificat. Una pena que una cosa obligatòria com dur el certificat per anar a treballar cada dia, suposi tan temps (certificat per anar a treballar i per tornar a casa) sense contar si durant la jornada laboral s'han de fer més trajectes. App pésima<br> :date: __2021-01-07 21:43:42__
 
 

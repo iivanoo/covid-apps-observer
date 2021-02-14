@@ -278,6 +278,8 @@ The Coronika - Dein Corona Kontakttagebuch app has been installed by more than *
 <img src="1_star_reviews_wordcloud.png" alt="de.kreativzirkel.coronika 1 reviews"/>
 </p>
 
+> Mein Gott geht's noch? Wie schwachsinnig ist den so was? Gibt es wirklich solche Vollpfosten, die ihre Kontakte eintragen und glauben, dass das irgend eine Auswirkung auf das Virus hat? Vielleicht lacht es sich ja tot! Das Virus wird zu 99% von den Medien übertragen und dagegen hilft keine App! Unbenutzt gelöscht!<br> :date: __2021-02-13 01:44:22__
+
 > Nach dem heutigen Update waren alle bisherigen Eintragungen weg! Die App ist leider unbrauchbar. Ich habe sie wieder gelöscht<br> :date: __2020-12-20 22:53:19__
 
 > Zu aufwendig und damit unzuverlässig<br> :date: __2020-12-20 15:03:59__
@@ -295,7 +297,5 @@ The Coronika - Dein Corona Kontakttagebuch app has been installed by more than *
 > Nach dem Update vom 17.12: In der Übersicht wird die Hälfte meiner Kontakte jetzt ohne Namen angezeigt. Und die exportierte pdf-Datei ist komplett leer!<br> :date: __2020-12-17 22:40:09__
 
 > Alte Funktionen waren besser. Neue Kontakte anlegen viel zu umständlich bzw unmöglich. Ne ne. Nich alles neue is toll<br> :date: __2020-12-17 22:12:34__
-
-> Einen Testeintrag angelegt. In der exportierten PDF wird er angezeigt. In der CSV gibt es dagegen (geöffnet mit Google Tabellen) nur eine Zeile mit Spaltennamen. Einträge Fehlanzeige. Nutzlos, wenn eine wichtige Funktion fehlt. Ich bleibe bei Cluster Diary. Da funktioniert CSV und die App hat viel mehr und wichtige Details bei Einträgen. Hier extrem rudimentär Deinstalliert.<br> :date: __2020-12-11 22:17:17__
 
 

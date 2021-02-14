@@ -257,6 +257,8 @@ The ABTraceTogether app has been installed by more than **100000** times. At thi
 <img src="1_star_reviews_wordcloud.png" alt="ca.albertahealthservices.contacttracing 1 reviews"/>
 </p>
 
+> This app is heavy and hard on the battery and according to a researcher doesn't even work with iPhones even though they said they fixed it.<br> :date: __2021-02-12 05:41:20__
+
 > Its draining my phoes battery.<br> :date: __2021-02-03 10:04:53__
 
 > Wasted time monitoring<br> :date: __2021-02-02 02:10:31__
@@ -274,7 +276,5 @@ The ABTraceTogether app has been installed by more than **100000** times. At thi
 > I'm at home all the time, yet there's no way to turn on and off the contact tracing on the app. Change this setting please. It should only function when we turn it on because we're leaving home. There's no point in tracing when you're home!!! Let us have an option to activate it and deactivate it.<br> :date: __2021-01-18 12:17:44__
 
 > Complete battery suck. A few hours of phone use, and battery is done. I can use my phone all day on conference calls with a Bluetooth headset, take emails, texts, a quick surf on social between meetings and still have battery left at the end of the day. ABTrace you'll need to keep your phone plugged in constantly. Uninstalling... also most of my co-workers are non Alberta based so totally useless as not cross country.<br> :date: __2021-01-17 18:12:40__
-
-> This app is garbage. It doesn't work properly, and as a result noone uses it. It would be nice if the Government of Alberta could swallow their pride and let us use the app from the Government of Canada, which DOES work - just not in Alberta. Thanks for nothing!<br> :date: __2021-01-17 07:24:51__
 
 

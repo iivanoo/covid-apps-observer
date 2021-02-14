@@ -1,5 +1,89 @@
 [
     {
+        "reviewId": "gp:AOqpTOHC9Y20uFUbwXAVCozU31x_ssErAdtEWUmGu9slP_m5_PHzRUFyAmSCC0YsnJHVYPys5rYUi-3dgm8r-Q",
+        "userName": "Richard M",
+        "userImage": "https://play-lh.googleusercontent.com/-qi8gVlxB8eU/AAAAAAAAAAI/AAAAAAAATUs/AMZuuckd7aLU1gW7qhhRZLHemVEoRgJ-pA/photo.jpg",
+        "content": "The installation is clunky. If there's anything going to stop somewhere using an app, that'll be it. (I test and write software as a profession.) It's hard to scroll the page without hitting a selector (such as the country). The image crop allows only a square and could not set to the width of my driver's license, so part of the license was cut off. After several attemps of that, I was forced to select Work ID instead of Drivers License. And please fully capitalise countries' names!",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "13.3",
+        "at": "2021-02-13 00:16:26",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGGArAa8Tqzbz-JuhTq4DlitanVCXu3msMtLPc3d2m4vOEuscclFmD5UVoSDNyvBFm5KJbT8AjlikCD2Q",
+        "userName": "Ricky Blampied",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjjmlPx5oUaKi8A009EM_L-vJdV6dMU2uqGEg2o_g",
+        "content": "I got my Hi Vis jackets but im still waiting for a shift as a Vaccine Steward through the app, im not sure if you need the Duty button on or off for it but im looking forward to it.",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "13.3",
+        "at": "2021-02-12 16:45:42",
+        "replyContent": "Hi Ricky, thank you very much for making yourself available. The on duty button is not related to stewarding shifts (It is used for unscheduled type of tasks such as community response), the vaccination steward tasks appear in the \u2018Tasks\u2019 tab of the GoodSAM app in advance, as and when vaccination sites request help. Thank you for volunteering!",
+        "repliedAt": "2021-02-12 21:40:09"
+    },
+    {
+        "reviewId": "gp:AOqpTOEa1Vtt9YRH_MK3dE0F0bII1deQDnwCHwaFvXz8P8L34oiQeRAto2Y7uM41u6ITHpZHvqDUF419RPSB8w",
+        "userName": "A Google user",
+        "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+        "content": "Sometimes I wonder if anyone knows that I have logged on \"duty\" to the controllers. I have logged on for a mere 180 hours and in that time I have had just four \"shouts\" three of which didn't pick up and the fourth just needed a \"chat. How do I know, that you know, that I am here ready to go? Many thanks Alan Hobbs",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "13.3",
+        "at": "2021-02-11 20:30:35",
+        "replyContent": "Hi Alan, thank you very much for making yourself available. The number of hours on the app would only increase if you are on duty and it is incremented by the system on the server side, so as long as those increase once every few hours, you are all set!",
+        "repliedAt": "2021-02-12 21:42:22"
+    },
+    {
+        "reviewId": "gp:AOqpTOH5GwF-KsW26IIuaAG3A2D-EHX4U5BDlHXBwS6lD-WFiRxQMvFJpJOxC7se5-yPFatYR2fh_9S2jiumuQ",
+        "userName": "mauricio Riofrio",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg-nlVhp44_8w0_QcmkNdL9yCX_gusv1W1tYanm6A",
+        "content": "Appears not to work properly not count the amount of time responder on duty and rearly get alerts. Not a good app development interaction.",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "13.3",
+        "at": "2021-02-11 14:11:12",
+        "replyContent": "Dear mauricio, thank you for feedback. The app simply matches the local need to local volunteers, we can not guarantee the number of alerts which you would get as that purely depends on the demand in your area and the number of available volunteers.",
+        "repliedAt": "2021-02-11 14:16:57"
+    },
+    {
+        "reviewId": "gp:AOqpTOGU4KXDQQA1A9_m3kzzfP2iAHuRhrwutWzi6DNkK5fy_Q6roLQkn_A-KBRTssDw7w1KMj4qpWXkHvdjuA",
+        "userName": "Joanna Foss",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjWqfRBMJPC8kvFJ-PyBfD7hHXm5as3bi91KPC_",
+        "content": "This app worked very well with my previous Android 10. Since upgrading my phone to a new Android 10, I stopped getting sound notifications. I followed your FAQs, allowed all permissions, but I still don't get them as sound alert. I used to have a sound notification for a simulated task, but I don't get it now. Can you help please as I may miss request if I don't look on the screen...",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "13.3",
+        "at": "2021-02-11 11:50:54",
+        "replyContent": "Hi Joanna, the \"simulated\" tasks/alerts no longer makes a sound. Have you tried signing in to the website (https://www.goodsamapp.org/login) and sending yourself a test notification? Does that work? Sending a notification from the website is equivalent to the notifications you would receive where there is a nearby task.",
+        "repliedAt": "2021-02-11 14:20:23"
+    },
+    {
+        "reviewId": "gp:AOqpTOGmzlpo9GTI7HWH2an4kLD5FzWXO2FWxJ5YvTitCW8z6gmvKx_h-SuhP78mhUcJkhfOjzsR2T4EiDQoZg",
+        "userName": "Emma's Attempts at Yoga",
+        "userImage": "https://play-lh.googleusercontent.com/-Ggq_HTexwEs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckzFwgsa9owrJ-TZjcPfFhshem5Sg/photo.jpg",
+        "content": "It doesn't make sense how to volunteer as a steward this way.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "13.3",
+        "at": "2021-02-11 07:39:10",
+        "replyContent": "Hi Emma, thank you for the feedback. Could you elaborate on what doesn't make sense? The app simply shows the available shifts to available volunteers based on their roles and distance, this is highly efficient and have has a 100% match rate making it the first app in the world that can match volunteers to shifts at a national scale.",
+        "repliedAt": "2021-02-11 10:02:51"
+    },
+    {
+        "reviewId": "gp:AOqpTOG7UroljolX9D5lvgF1enFIbI7DlQmgzwKereDm_qCNi7jHkIsPQ6J7QjzXPIV14nbd52-1TmM0dYMEfQ",
+        "userName": "andrew cavell",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhpYOY0mq_s2CkUsWHwng-Ioy08t0cJJ4WlwNgglA",
+        "content": "Keeps crashing.",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "12.6",
+        "at": "2021-02-09 14:17:56",
+        "replyContent": "Hi Andrew, based on the version of the app on your review we can see that your app is quite out-dated. Could you please update the app to the latest version (13.3) and check if the issue is still occurring please? If it did, please email us at tech@goodsamapp.org with your registered email address and we are more than happy to investigate this!",
+        "repliedAt": "2021-02-09 16:19:01"
+    },
+    {
         "reviewId": "gp:AOqpTOHtNJ0fhkH8cxWZdBTBP0YvrXjA9js4ymqcauBD4uO5irvHikgzdQL2eQvHGbD3ttv-jznRpVOgBW7_HA",
         "userName": "David Bennett",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj8stbWszpPPmj6I6RMlt0sxOoqG7IBJ0gqvjoI",
@@ -8,20 +92,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "13.3",
         "at": "2021-02-04 20:16:22",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOEa1Vtt9YRH_MK3dE0F0bII1deQDnwCHwaFvXz8P8L34oiQeRAto2Y7uM41u6ITHpZHvqDUF419RPSB8w",
-        "userName": "A Google user",
-        "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
-        "content": "Sometimes I wonder if anyone knows that I have logged on \"duty\" to the controllers. I have logged on for a mere 143 hours and in that time I have had just four \"shouts\" three of which didn't pick up and the fourth just needed a \"chat. How do I know, that you know, that I am here ready to go? Many thanks Alan Hobbs",
-        "score": 4,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "13.3",
-        "at": "2021-02-03 16:21:46",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi David, our app may not work on all tablets as the device needs to have a sim card (for phone calls and have 3g to allow the app to act as an ID at all times) and GPS. The above are required to deliver the features we are asked to deliver. Regarding the stewarding notifications, this is something we are looking at adding, appreciate the feedback!",
+        "repliedAt": "2021-02-09 16:23:50"
     },
     {
         "reviewId": "gp:AOqpTOG5aVuUx96m4D8jzS49ryRhsz1cLKNeZvw5uHzHmrJIfS5VdAEjZc35Mc3ndxfgkrlYqpiKr5HBRXX27Q",
@@ -253,7 +325,7 @@
     },
     {
         "reviewId": "gp:AOqpTOFQAHcgHg8GTdhW2GhulCRDTdFq6O_vR3W44KyPSaMHvC10t-29PVz1Dp7wzQGxZHBjq4xVXOYM4GGqPw",
-        "userName": "Paul Whitehead",
+        "userName": "Polly Whitehead",
         "userImage": "https://play-lh.googleusercontent.com/-yyptM6G0u7w/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl7PKgzhFtlg-Vc2XTQ6ZMeF05wUg/photo.jpg",
         "content": "This app work fine on my phone, but my husband cannot get it to work on his Galaxy Alpha. The screen displays 'please log in' but there is nowhere to do so, and you cannot exit from the app. He really wants to volunteer.",
         "score": 3,
@@ -8953,7 +9025,7 @@
     },
     {
         "reviewId": "gp:AOqpTOFszUuerQgMF46YIpZpHYevDvo9-siiJ5L3EqsxZsF9QvI2hEJ33IlP6aZCqZ_fiIhuxTb7RpE-wBdTTA",
-        "userName": "X X",
+        "userName": "Guy Teigh",
         "userImage": "https://play-lh.googleusercontent.com/-c4rqqQkZziU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclqN6FsC75xYdm_Gndb2hww7u-Z7A/photo.jpg",
         "content": "Great initiative - grim app. You sign in - so presumably you ARE registered - and are then told when you press the button to \"Go On Duty\", that if you ARE registered, pressing the button will have no effect. Errr, EITHER this is a misprint OR it is not at all obvious how you DO sign on, if you are registered - and why they have decided to make something complicated. Here I am, keen to pitch in, have registered, been accepted, told to download the app, logged in, go to sing on duty and told that button doesn't apply. So how DO I let the system know when I can clock-in? Also, was told to download this app - yet seems to think I am a qualified first responder. My first aid certificate ran out years ago, I was expecting to be doing prescription deliveries, welfare calls and so on. Would suggest that at LEAST the app should allow you to select / de-select the type of calls you are able to help with, rather than have to accept a call, then decide if you can do it - before either dropping it or \"hoping for the best\". As I say, great initiative and worthwhile cause - but VERY misleading app.",
         "score": 2,
@@ -9325,7 +9397,7 @@
     },
     {
         "reviewId": "gp:AOqpTOFmLRZBnFbj4qMg2-yFUpyqT08mhpOfbJapbZro3DEEOPK0UWsVOZXXPewSWMChI26_CHAcCVlcBiX7Dg",
-        "userName": "Hey",
+        "userName": "Dale",
         "userImage": "https://play-lh.googleusercontent.com/-m5uz67s4J50/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnoRxyMZmNAUJ9NDRWFzgutNrvH5g/photo.jpg",
         "content": "Great idea however it keeps turning everything off for me even when I haven't closed the app. Also it won't run in the background all the time. Need to fix some bugs as this is like I said a great idea.",
         "score": 3,

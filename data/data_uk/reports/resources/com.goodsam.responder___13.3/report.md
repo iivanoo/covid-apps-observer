@@ -199,7 +199,9 @@ The GoodSAM Responder app has been installed by more than **100000** times. At t
 <img src="4_star_reviews_wordcloud.png" alt="com.goodsam.responder 4 reviews"/>
 </p>
 
-> Sometimes I wonder if anyone knows that I have logged on "duty" to the controllers. I have logged on for a mere 143 hours and in that time I have had just four "shouts" three of which didn't pick up and the fourth just needed a "chat. How do I know, that you know, that I am here ready to go? Many thanks Alan Hobbs<br> :date: __2021-02-03 16:21:46__
+> I got my Hi Vis jackets but im still waiting for a shift as a Vaccine Steward through the app, im not sure if you need the Duty button on or off for it but im looking forward to it.<br> :date: __2021-02-12 16:45:42__
+
+> Sometimes I wonder if anyone knows that I have logged on "duty" to the controllers. I have logged on for a mere 180 hours and in that time I have had just four "shouts" three of which didn't pick up and the fourth just needed a "chat. How do I know, that you know, that I am here ready to go? Many thanks Alan Hobbs<br> :date: __2021-02-11 20:30:35__
 
 > The app works ok most of the time. One problem I get is the location side, I've had to reject quite a few alerts that have been 12 miles away even though my app is set at 5 miles.<br> :date: __2021-01-23 09:57:46__
 
@@ -217,8 +219,6 @@ The GoodSAM Responder app has been installed by more than **100000** times. At t
 
 > Excellent and very easy to use. However there is more way to return to the information page after you have accepted the task.<br> :date: __2021-01-04 18:59:08__
 
-> Swift reply<br> :date: __2020-12-30 22:08:38__
-
 
 
 #### 3-star reviews
@@ -226,6 +226,8 @@ The GoodSAM Responder app has been installed by more than **100000** times. At t
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="com.goodsam.responder 3 reviews"/>
 </p>
+
+> This app worked very well with my previous Android 10. Since upgrading my phone to a new Android 10, I stopped getting sound notifications. I followed your FAQs, allowed all permissions, but I still don't get them as sound alert. I used to have a sound notification for a simulated task, but I don't get it now. Can you help please as I may miss request if I don't look on the screen...<br> :date: __2021-02-11 11:50:54__
 
 > Always crashes for no apparent reason. Had no alerts in thousands of hours. Crash report sent<br> :date: __2021-01-29 09:28:59__
 
@@ -245,8 +247,6 @@ The GoodSAM Responder app has been installed by more than **100000** times. At t
 
 > I'm registered on my laptop all ok but have downloaded the app on my mobile and it won't accept my same login/password!?<br> :date: __2021-01-14 13:00:31__
 
-> The distance slider doesnt work properly. If I slide it to 25km, I go to another section of the app then come back to the distance and it has reset to a random distance. If I change it again, do something else and come back, the distance has reset to another random number. Quite infuriating and means it is not possible to set yourself as available in the correct radius. Samsung S8.<br> :date: __2021-01-13 21:25:17__
-
 
 
 #### 2-star reviews
@@ -254,6 +254,10 @@ The GoodSAM Responder app has been installed by more than **100000** times. At t
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="com.goodsam.responder 2 reviews"/>
 </p>
+
+> Appears not to work properly not count the amount of time responder on duty and rearly get alerts. Not a good app development interaction.<br> :date: __2021-02-11 14:11:12__
+
+> Keeps crashing.<br> :date: __2021-02-09 14:17:56__
 
 > 1. I uninstalled the Goodsam app from my Android v10 tablet as the Task tab didn't show like on the smartphone. I was planning to reinstall to fix this bug. Now it says my tablet isn't compatible. WHY!!? It seems perverse to withdraw the tablet version. It was useful if my wife borrowed the phone. 2. I am signed up as a stewarding volunteer. It would help if you could add an alert when a task comes in. This could be the siren already in place. But as the "tasks" are less urgent an email would suffice.<br> :date: __2021-02-04 20:16:22__
 
@@ -271,10 +275,6 @@ The GoodSAM Responder app has been installed by more than **100000** times. At t
 
 > Simple to download but when opened it always shows a world map and no means of logging in PB<br> :date: __2021-01-19 15:59:39__
 
-> I didn't find it very easy to install the app. It wouldn't work on my Android Tablet, so I did it on my phone but then it asked me to "simulate an alert" on my laptop as there would be no sound on my phone while the app was switched on. Then I disovered that I couldn't login on my laptop with my email and password because it seems I already have an account which I must have created when I registered as a volunteer early last year and which I had forgotten about, as I was never asked to volunteer. I am confused now about what to do and have spent nearly an hour trying to sort this out. I just want to help.<br> :date: __2021-01-12 12:18:21__
-
-> I have changed my phone and number. Went on to the suggested site to change the details and verified. I now have no location map nor able to simulate an alarm. I assume its not working. Tried to phone the help line for 4 hours, no answer. Usually take 5-10 calls a day but non received since. Please make it simpler.<br> :date: __2021-01-11 14:18:19__
-
 
 
 #### 1-star reviews
@@ -282,6 +282,10 @@ The GoodSAM Responder app has been installed by more than **100000** times. At t
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="com.goodsam.responder 1 reviews"/>
 </p>
+
+> The installation is clunky. If there's anything going to stop somewhere using an app, that'll be it. (I test and write software as a profession.) It's hard to scroll the page without hitting a selector (such as the country). The image crop allows only a square and could not set to the width of my driver's license, so part of the license was cut off. After several attemps of that, I was forced to select Work ID instead of Drivers License. And please fully capitalise countries' names!<br> :date: __2021-02-13 00:16:26__
+
+> It doesn't make sense how to volunteer as a steward this way.<br> :date: __2021-02-11 07:39:10__
 
 > Jobs are too far away or clients do not need help<br> :date: __2021-02-01 19:58:44__
 
@@ -298,9 +302,5 @@ The GoodSAM Responder app has been installed by more than **100000** times. At t
 > I have a OnePlus 6t and Samsung Galaxy Tab 5Se, both running Android 10. The app isn't compatible with either of them. Both these devices are fairly popular. Can you please update the app and make it compatible, please?<br> :date: __2021-01-21 18:55:00__
 
 > Unfortunately this app has not notified me of alerts for many months. No audio to alerts. I have reinstalled the app, kept it updated but nothing has fixed the fault and I see many others reporting the exact same fault for many months also. I have emailed the developers repeatedly but never had a reply?<br> :date: __2021-01-20 12:22:34__
-
-> Have you stopped doing check in and chat during vaccination programme. Only had 2 calls in January. Have just installed updated app. My husband has had no notifications for months.<br> :date: __2021-01-20 10:29:45__
-
-> Impossible to get account deleted once signed up. Zero response from anyone at GoodSAM or RVS.<br> :date: __2021-01-20 03:49:08__
 
 

@@ -178,25 +178,25 @@ The NowClinic app has been installed by more than **50000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="com.americanwell.android.member.optum 5 reviews"/>
 </p>
 
+> The doctors are very helpful very pleased with the doctors and this service. I'm extremely leery about going to a hospital or urgent care or even a doctor's office right now because of covid-19 this helps extremely in the fact that I can stay home and still see a doctor.<br> :date: __2021-02-13 01:23:25__
+
+> Best THING EVER SEE JERRY NISBET!!!! I REFUSE TONSEE ANY OTHER DR NOW!!<br> :date: __2021-02-11 22:49:43__
+
+> This is an amazing Convenient and Useful Way to Get medical attention 24 hours A-day For myself and my children I would have never ever thought I would use something of the sort to get medical attention Have you seen this service multiple times for myself I also use the service for my two-year-old Baby. and after my visit For myself and my baby I felt satisfied my medical Needs were addressed And properly Cared for and my Prescriptions were sent to the pharmacy of my choice. THANK YOU!<br> :date: __2021-02-11 11:34:33__
+
+> What's perfect thank you<br> :date: __2021-02-11 01:13:51__
+
+> This app was very helpful and the Dr was very nice.<br> :date: __2021-02-10 19:07:17__
+
+> Awesome. Very helpful<br> :date: __2021-02-10 17:27:13__
+
+> Very good people help me alot<br> :date: __2021-02-09 23:31:59__
+
+> Great people! And I didn't even have to leave my house<br> :date: __2021-02-08 08:18:55__
+
+> Great app during this pandemic.<br> :date: __2021-02-07 17:53:47__
+
 > Better than going in<br> :date: __2021-02-06 06:39:45__
-
-> Very professional and thorough, thank you.<br> :date: __2021-02-06 06:00:22__
-
-> I had i Wonderful visit with Rachel this Morning ❤️☺️<br> :date: __2021-02-05 19:00:34__
-
-> UPDATE ADDED BELOW...First time user and my experience was Fantastic. No social distancing and no mask required. This appointment was Awesome. I just had my 3rd video call on 2/5/21 and this is great for social distancing and keeping me safe. PA Kim is very thorough whether I am in the office or on a video chat. I love this technology.<br> :date: __2021-02-05 18:34:13__
-
-> Very good<br> :date: __2021-02-05 00:59:29__
-
-> Access to an educated, informed professional with fast results.👏⭐⭐⭐⭐⭐<br> :date: __2021-02-04 18:48:07__
-
-> This was a great experience. Thank you ☺️<br> :date: __2021-02-03 23:53:23__
-
-> It was important to set up an account before the visit in order for it to run seamlessly. Had a failed appointment yesterday because I ran into glitches and could not fix them in time. But I used it today on my cellphone (after setting up my account yesterday) and it went very well.<br> :date: __2021-02-03 21:47:43__
-
-> Very pleasant and much easier than driving to doctors just to renew a script<br> :date: __2021-02-02 21:17:06__
-
-> It was fine I just couldn't hear very well.<br> :date: __2021-02-02 16:30:06__
 
 
 
@@ -205,6 +205,8 @@ The NowClinic app has been installed by more than **50000** times. At this time,
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.americanwell.android.member.optum 4 reviews"/>
 </p>
+
+> easy to use app. for quick follow-up appointment with the Dr<br> :date: __2021-02-09 17:30:35__
 
 > Great service. Provider excellent. The only improvement I would suggest is to have a better idea of wait time or having app phone us when we are 5 minutes away from seeing doctor<br> :date: __2021-01-25 00:18:37__
 
@@ -223,8 +225,6 @@ The NowClinic app has been installed by more than **50000** times. At this time,
 > Difficult to load app.<br> :date: __2020-10-14 20:44:24__
 
 > Easy quick<br> :date: __2020-09-26 00:52:58__
-
-> Good after you learn what to do and get set up<br> :date: __2020-09-02 16:04:27__
 
 
 
@@ -257,6 +257,8 @@ The NowClinic app has been installed by more than **50000** times. At this time,
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="com.americanwell.android.member.optum 2 reviews"/>
 </p>
+
+> Its not available on all devices<br> :date: __2021-02-09 14:14:12__
 
 > This app doesn't work for me because when I was with waiting for the doctor the app stop<br> :date: __2019-11-20 03:32:03__
 

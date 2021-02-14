@@ -186,6 +186,16 @@ The myColorado app has been installed by more than **10000** times. At this time
 <img src="5_star_reviews_wordcloud.png" alt="com.soc.mycolorado 5 reviews"/>
 </p>
 
+> Very easy had no problems at all, very cool, good bye wallet:)<br> :date: __2021-02-11 06:47:10__
+
+> This APP literally just saved my life....thank you State of Colorado for making our tax dollars work for the people. Wyatt Selle<br> :date: __2021-02-11 04:02:06__
+
+> Extremely convenient.<br> :date: __2021-02-10 23:43:05__
+
+> Quick and effective for getting digital license<br> :date: __2021-02-07 19:50:37__
+
+> Easy to upload information. Navigation is intuitive and I like the available features.<br> :date: __2021-02-07 18:34:22__
+
 > Love this app it's an great idea for Colorado....<br> :date: __2021-02-03 02:30:25__
 
 > Great!! Fast and easy!!<br> :date: __2021-02-01 22:47:37__
@@ -195,16 +205,6 @@ The myColorado app has been installed by more than **10000** times. At this time
 > Great idea. Very convenient. It was so incredibly easy to set up and no hassle from the merchant accepting the digital ID. They seemed relieved that I had digital ID.<br> :date: __2021-01-31 06:54:12__
 
 > My license expired and I renewed on line, but had not received my new card. This app allowed me to have a picture ID accepted almost everywhere in Colorado, while I waited for my new license. Note that some places with age restricted products, as well as airport security, do not accept this digital ID so call before you go if it's your only option. Cool links to frequently used services are on the app. So far no technical hiccups and it has saved the day on many occasions. Highly recommend!<br> :date: __2021-01-28 00:45:56__
-
-> Easy to use! And handy.<br> :date: __2021-01-27 05:36:24__
-
-> Nice. Will be really handy once the digital ID is accepted in lieu of a physical one.<br> :date: __2021-01-24 23:10:24__
-
-> My coworker needed to call to verify himself and they were extremely responsive and respectful. I was shocked considering most state job workers are always swamped with tons of work. Great app and soooo convenient to have!<br> :date: __2021-01-24 09:25:32__
-
-> Awesome app<br> :date: __2021-01-23 05:00:56__
-
-> App seems to work great so far! I really like that Colorado is working to make secure digital ID a reality.<br> :date: __2021-01-21 18:37:09__
 
 
 
@@ -298,6 +298,10 @@ The myColorado app has been installed by more than **10000** times. At this time
 <img src="1_star_reviews_wordcloud.png" alt="com.soc.mycolorado 1 reviews"/>
 </p>
 
+> Pretty useless. Immediately upon installing and creating the account I'm already getting a message that user name and password are incorrect. Complete waste of time.<br> :date: __2021-02-11 18:37:05__
+
+> Horrible. I'd give you negatives if I could.<br> :date: __2021-02-11 00:57:16__
+
 > I have a LG V60. During the selfie facial rocognition the picture oval stays black like its not connecting to my camera. I gave the app all permissions it needs.<br> :date: __2021-02-04 17:37:12__
 
 > Worst app layout, I have seen in a few years. Taxes five minutes to set up, if you have 5 bars. Is heavy, and has minimal, albeit, important use...<br> :date: __2021-02-04 06:38:23__
@@ -313,9 +317,5 @@ The myColorado app has been installed by more than **10000** times. At this time
 > Wont download<br> :date: __2020-12-23 06:08:34__
 
 > Freezes the phone and crashes every time it tries to get a face map after log in. I still have yet to actually USE the app, so bye-bye<br> :date: __2020-12-20 15:54:45__
-
-> I just got my temporary paper ID the app will not allow me to scan it so I cant make an account. This is not cool waste of space on my device.<br> :date: __2020-12-15 22:28:10__
-
-> This app is a good idea which is not ready for Prime Time. The app is hard to get set up. One can create an account, but then one needs the "Authentication" number which is supposedly emailed. I found that less than 10% of the time did I actually get an email. OK, fine, I eventually got one that worked, and got logged on. THE PROBLEM IS THAT IF YOU GET LOGGED OFF, YOU YOU NEED ANOTHER "AUTHENTICATION" EMAIL TO GET LOGGED ON AGAIN, AND THEY MOSTLY DON'T ARRIVE. In addition, this app is supposed to be able to be used on the roadside to touchlessly give one's info to a law enforcement officer. If the emails don't reliable arrive to a home with a fast wired connection, think what problems would arise on the side of a remote road somewhere in rural Colorado. And imagine telling a State Trooper "just a minute, I'm waiting for the email." As long as the app requires an unreliable "Authentication" I certainly can't recommend it. Shouldn't authenticating once be enough? ADDENDUM: A comment on this review from the State of Colorado - Governor's Office of IT asked me to contact their tech support. I had previously done that - they said: "When you created your account, Ping ID is used to pair your device. I am reaching out to our developers to confirm what email address is connected to your account. As soon as I have more information I will reach back out and let you know!" After 12 days I have heard nothing. I contacted them again, with a copy of this review, and we'll see if they do anything this time. I know things are weird in this country right now, so I'm willing to patiently wait and see what happens. I'd really like them to address the issue of whether one actually has to do the "Authentication" every time one logs into the app, or if that's an error of some sort. Maybe they could comment on that here?<br> :date: __2020-12-14 23:46:26__
 
 

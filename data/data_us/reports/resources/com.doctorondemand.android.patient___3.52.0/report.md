@@ -191,25 +191,25 @@ The Doctor On Demand app has been installed by more than **1000000** times. At t
 <img src="5_star_reviews_wordcloud.png" alt="com.doctorondemand.android.patient 5 reviews"/>
 </p>
 
-> Had a very nice doctor named Sherry Brown. Loved her!!!<br> :date: __2021-02-06 17:21:19__
+> This is the best service possible out there without having to leave to an actual doctors office or ER. Plus the money saved not having to pay over a $150 copay for ER. Not having to sit and wait to be seen. I highly recommend this App<br> :date: __2021-02-13 18:33:56__
 
-> Very knowledgeable<br> :date: __2021-02-06 17:04:30__
+> Easy to see a doctor.<br> :date: __2021-02-13 18:09:46__
 
-> This is my first time using Doctor on Demand. Dr. Romero was great. The app was very easy to use.<br> :date: __2021-02-06 16:45:08__
+> Very easy to use and reliable<br> :date: __2021-02-13 15:42:47__
 
-> Pretty convenient and easy to use.<br> :date: __2021-02-06 08:20:54__
+> It's easy, fast, and you can do it front the comfort of your own home and with smart phones your able to give alot of health information. If not I'd be sitting at a hospital waiting hours when my visit on dr on demand took 20 minutes altogether. Thank you.<br> :date: __2021-02-13 07:56:39__
 
-> My doctor was a very personable guy, and easy to talk to. Kept it brief, and no fooling around. Will definitely use again in the future!<br> :date: __2021-02-06 03:20:20__
+> Quick Easy Very convenient<br> :date: __2021-02-13 02:44:08__
 
-> I've never done this before n it was a great experience and I would recommend it..thanks guys..<br> :date: __2021-02-06 02:01:41__
+> Excellent service<br> :date: __2021-02-13 02:25:10__
 
-> Very kind and helpful doctor!<br> :date: __2021-02-06 00:35:17__
+> Awesome!!!<br> :date: __2021-02-13 00:48:10__
 
-> Great so far!<br> :date: __2021-02-06 00:20:37__
+> Awesome experience! Got connected to Nurse Practitioner fast and he was very thorough. I would highly recommend using this app it was the best.<br> :date: __2021-02-13 00:46:41__
 
-> Excellent doctors! Great help in a hurry!<br> :date: __2021-02-06 00:10:19__
+> Very nice, helpful provider. Waited only 3 minutes to start my visit and was finished with prescriptions sent to my pharmacy all in less than 10 minutes from the comfort of my home. Love this app, I have been recommending it to everyone I know for a few years now! The convenience couldn't get any better! Thank you Dr. On Demand on keeping me safe and making my life easier when I'm under the weather. 5+🌟 - Jessica Z / White Bear Lake, MN<br> :date: __2021-02-13 00:34:47__
 
-> I had Dr. Doyle he was great!<br> :date: __2021-02-06 00:04:48__
+> Great service<br> :date: __2021-02-12 23:45:42__
 
 
 
@@ -218,6 +218,16 @@ The Doctor On Demand app has been installed by more than **1000000** times. At t
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.doctorondemand.android.patient 4 reviews"/>
 </p>
+
+> Very helpful! Only downside is you can't contact in between appointments unless you CALL.<br> :date: __2021-02-12 17:31:00__
+
+> Very great app during this time. Just had one issue. It kept making my phone reboot and cutting off the visit. I had to use my tablet for it to work.<br> :date: __2021-02-12 04:47:29__
+
+> Exceptional<br> :date: __2021-02-11 21:27:55__
+
+> Thanks I need help<br> :date: __2021-02-11 07:14:23__
+
+> Good for when you are in a pinch or rush and can't or don't want to spend hours getting treated. this has been a lifesaver for me and my family a few times now and def would use again.<br> :date: __2021-02-07 23:04:21__
 
 > Was great didn't have to wait long.<br> :date: __2021-02-01 23:11:34__
 
@@ -228,16 +238,6 @@ The Doctor On Demand app has been installed by more than **1000000** times. At t
 > Doctors demand is very helpful when you're unable to get into your doctor to and you don't want to have to go to the emergency room so definitely appreciate having that service available.<br> :date: __2021-01-29 01:42:29__
 
 > My work pays for my services. The setup was relatively easy. The Dr. Was courteous. He was able to make an assessment and the video was clear. Saw a different doctor she was very helpful.<br> :date: __2021-01-28 22:00:39__
-
-> Good<br> :date: __2021-01-26 04:24:51__
-
-> Very convenient<br> :date: __2021-01-23 21:58:58__
-
-> Interesting, knowledgable & friendly.<br> :date: __2021-01-20 00:04:55__
-
-> It is fi.e bit Doctors are limited<br> :date: __2021-01-19 00:45:44__
-
-> A little laggy<br> :date: __2021-01-16 17:04:05__
 
 
 
@@ -255,8 +255,6 @@ The Doctor On Demand app has been installed by more than **1000000** times. At t
 
 > The doctors are fabulous. However their lack of ability of tec support and processing insurance is not good.<br> :date: __2021-01-22 01:24:14__
 
-> Limiting treatment options and appointment options.<br> :date: __2021-01-12 19:15:09__
-
 > Nice and safe way to check symptoms before going in to ER.<br> :date: __2021-01-09 03:28:42__
 
 > While I like the convenience of this platform, it is UNACCEPTABLE that I have been cut off at the 15 minute mark, while the doctor is still talking to me! This has been twice! I have no idea what she is going to do and I have no time to ask questions at all! Its my health! I am definitely considering going back to the office, if possible as this is really unethical.<br> :date: __2021-01-04 18:34:00__
@@ -272,6 +270,10 @@ The Doctor On Demand app has been installed by more than **1000000** times. At t
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="com.doctorondemand.android.patient 2 reviews"/>
 </p>
+
+> No callback or reconnect function of your internet drops during the call so you have to reschedule for the next appointment which could be days or weeks away very unprofessional for an app in 2021<br> :date: __2021-02-09 23:49:18__
+
+> Filter needs more detail. I cant put location in and other details.<br> :date: __2021-02-09 23:09:42__
 
 > They give me wrong info i ended up having sergey instead<br> :date: __2021-02-06 14:20:52__
 
@@ -289,6 +291,12 @@ The Doctor On Demand app has been installed by more than **1000000** times. At t
 <img src="1_star_reviews_wordcloud.png" alt="com.doctorondemand.android.patient 1 reviews"/>
 </p>
 
+> The doctor is great. Everything else is lousy. Inability to communicate with doctor, tech support is lousy, poor customer service. I wish someone with power to change process and improve software would contact me. Its got a ways to go.<br> :date: __2021-02-12 22:27:22__
+
+> The doctors etc available are great but you cannot contact them if you have questions or need immediate assistance with a prescription they prescribed. Support said they would call within a few hours but it has been days. Edit: reached customer service, they were so inept they forgot what I was talking about and reissued a prescription in error that I know have to call the pharmacy to cancel. They refuse to acknowledge that their automatic reply system is flawed and dangerous. Don't use this app<br> :date: __2021-02-08 04:26:32__
+
+> Crazy expensive<br> :date: __2021-02-07 13:55:25__
+
 > Just a shame.<br> :date: __2021-02-05 19:42:28__
 
 > horrible absolutely the worst I've ever do not waste your money! something like this should be offered to everybody not just a selected few people that have money! If you have Medicare or Medicaid Dr Phil Does Not care who are considered poor and you don't qualify for this app. just an FYI: you see how he really wants to help people. Help the people who need it instead of making more money care about the less fortunate... Sincerely, Paralyzed/Quadriplegic<br> :date: __2021-02-01 22:51:20__
@@ -302,11 +310,5 @@ The Doctor On Demand app has been installed by more than **1000000** times. At t
 > I am setting new passwords and they are refused<br> :date: __2021-01-26 23:06:51__
 
 > Worst experience ever!! Doctor arrived late to our video call. I could not see the doctor, video was snowy and I had to ask the doctor to repeat herself over and over again. The doctor said she had to refresh her side of the call over and over again. No advice was given or medication. Customer Service is no help at all. No warning to the end of the call. Say clear of this application. Don't get robbed like I did. Doctors are suppose to help people, not rob them.<br> :date: __2021-01-25 23:30:12__
-
-> Unusable. Click for a visit, asks you who for but doesn't give the option to answer. So your just stuck there.<br> :date: __2021-01-25 15:37:58__
-
-> Gave my wife the wrong prescription and wouldn't fix their mistake! We are trying not to go into Dr offices because we have a premie baby at home. So when my wife had a terrible earache we thought we could rely on Doctor On Demand to help us. Their Dr wrote the Rx for the wrong medicine...and then couldn't be reached to fix it. We had to pay an ADDITIONAL $75 to get to get some simple eardrops. They have refused to credit us for the wrong Rx. I caution everyone to avoid this company!<br> :date: __2021-01-24 16:12:10__
-
-> Forces you to give up your location data even if you're going the telehealth route. Completely useless app.<br> :date: __2021-01-22 15:28:35__
 
 

@@ -250,6 +250,8 @@ The iBlueButton app has been installed by more than **10000** times. At this tim
 <img src="1_star_reviews_wordcloud.png" alt="com.humetrix.iBlueButton 1 reviews"/>
 </p>
 
+> Non-functional<br> :date: __2021-02-10 17:46:51__
+
 > Terrible app! The UI is cluttered and isn't intuitive. I was hoping to use iBlueButton to link my VA medical records, but it's not any better than the VA's My HealtheVet website. Don't waste your time with this app.<br> :date: __2020-12-27 19:28:44__
 
 > App won't even open anymore. Just says some error code and that there is a problem with the server. What is the deal!<br> :date: __2020-01-08 07:37:04__
@@ -267,7 +269,5 @@ The iBlueButton app has been installed by more than **10000** times. At this tim
 > Can't get pass the login screen<br> :date: __2017-12-15 05:41:19__
 
 > app doesn't work at all<br> :date: __2017-12-01 02:02:07__
-
-> Can't do anything and doesn't look like anyone is trying to fix it.<br> :date: __2017-11-08 02:58:19__
 
 

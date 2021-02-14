@@ -140,6 +140,16 @@ The COVID Coach app has been installed by more than **10000** times. At this tim
 <img src="5_star_reviews_wordcloud.png" alt="gov.va.mobilehealth.ncptsd.covid 5 reviews"/>
 </p>
 
+> Very, very good, for self and family💘<br> :date: __2021-02-10 20:25:53__
+
+> Very helpful. Easy to explore and use. A lot available to spend time on.<br> :date: __2021-02-09 19:37:19__
+
+> A great app with a wide range of useful tools for coping with stress, Covid Coach offers practices, learning, resources and assessments based on sound psychological science. There is an ability to favorite your favorite practices for quick use and the interface is simple and easy to use. Functions well and haven't had any glitches. I have only been using a short time, but the notifications and engagement have been useful.<br> :date: __2021-02-09 16:21:44__
+
+> Nice app. Helps me to manage my stress and anxiety.<br> :date: __2021-02-07 23:53:50__
+
+> Most military apps are really bad but this one feels like something you would spend money on.<br> :date: __2021-02-07 13:14:08__
+
 > Highly recommend it. I worked in a very demanding environment where there wasn't enough support. Using this coupled with professional help maximize the experience.<br> :date: __2021-02-03 18:14:23__
 
 > Very helpful and informative<br> :date: __2021-02-02 19:54:22__
@@ -149,16 +159,6 @@ The COVID Coach app has been installed by more than **10000** times. At this tim
 > My counselor suggested this to me, so I'm trying it out. She'll be happy I'm doing this.<br> :date: __2021-02-02 06:54:00__
 
 > Used to monitor well being over a period of 6 months. I found it very useful for a personal check in using the surveys weekly.<br> :date: __2021-01-29 21:34:54__
-
-> Excellent Resources and Service.<br> :date: __2021-01-28 19:46:46__
-
-> Very useful. The easy to use tracking features are what I needed most.<br> :date: __2021-01-28 19:30:42__
-
-> Refer pts to it all the time. Great resource<br> :date: __2021-01-27 23:22:35__
-
-> Helpful resources on any app capable mobile phone is an excellent app that is at no cost to anyone! Typically an app like this charges a subscription fee but this one doesn't. Thank you very much for this!<br> :date: __2021-01-27 14:11:30__
-
-> I'm not done exploring it yet but so far it's user friendly<br> :date: __2021-01-24 06:13:05__
 
 
 

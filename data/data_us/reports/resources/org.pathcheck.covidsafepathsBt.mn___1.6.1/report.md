@@ -137,9 +137,9 @@ The COVIDaware MN app has been installed by more than **100000** times. At this 
 <img src="5_star_reviews_wordcloud.png" alt="org.pathcheck.covidsafepathsBt.mn 5 reviews"/>
 </p>
 
-> Good<br> :date: __2021-02-05 23:46:01__
+> I like the fact that this app checks for covid it alerts you to let you know what exactly its doing. Most Recommended<br> :date: __2021-02-07 22:45:44__
 
-> I like the fact that this app checks for covid it alerts you to let you know what exactly its doing. Most Recommended<br> :date: __2021-02-04 00:08:01__
+> Good<br> :date: __2021-02-05 23:46:01__
 
 > I've been extreoffensive with my life & very much the definsv wit my fam. My wife more than ever more so than me. I mean we have stopped seeing one another romantically and we've been doing that 1ce month like clockwork. so to end our special monthly night speaks volumes. I mean we dont even sleep in the same bed anymore. she even goes outta town weekend's so we arnt stuck close quarters. After George Floyd all them people together no Spike weird I must say. Why no deaths spike?Anyone?<br> :date: __2021-02-03 17:29:00__
 
@@ -193,6 +193,8 @@ The COVIDaware MN app has been installed by more than **100000** times. At this 
 <img src="3_star_reviews_wordcloud.png" alt="org.pathcheck.covidsafepathsBt.mn 3 reviews"/>
 </p>
 
+> This app was making my phone battery drain significantly faster than usual. Uninstalled it and sure enough, I'm back to having plenty of charge left at the end of the day. Also, I'm not sure how useful it was, when it only reports exposures of 15+ minutes, in a world with highly contagious mutations and aerosols lingering after people have moved on. Good idea, but since I'm being extra-careful, I'm uninstalling and having my phone battery function normally.<br> :date: __2021-02-08 18:18:46__
+
 > Not as useful as I thought it would be.<br> :date: __2021-02-02 08:36:50__
 
 > App is simple to use. Haven't been exposed so not sure if it's working. But a new bug has emerged. It's no longer updating my exposure checks. The notification stays active and can't be dismissed. I am uninstalling until it can be fixed. Don't feel like seeing a constant notification but isn't actually checking my exposure.<br> :date: __2021-01-13 14:40:41__
@@ -210,8 +212,6 @@ The COVIDaware MN app has been installed by more than **100000** times. At this 
 > Every time this app does a check for exposures, it adds a file in my downloads. One day alone had 40 checks/40 files downloaded. These are a waste of space. Otherwise, i like the theory of this app, hopefully more people download it so it can actually do its job.<br> :date: __2020-12-22 02:51:26__
 
 > So what is a verification code and how do you get one and from whom? A help function or more explanation is needed.<br> :date: __2020-12-21 02:33:56__
-
-> Really you're putting out an app with no dark mode? Have you not paid attention to any other applications or operating system pushes and updates? I love staring into a flashlight.<br> :date: __2020-12-12 23:05:07__
 
 
 
@@ -249,6 +249,8 @@ The COVIDaware MN app has been installed by more than **100000** times. At this 
 <img src="1_star_reviews_wordcloud.png" alt="org.pathcheck.covidsafepathsBt.mn 1 reviews"/>
 </p>
 
+> I need to my ciy<br> :date: __2021-02-08 18:33:12__
+
 > I think this ap was a good idea but it is wasnt letting me know when i come in contact with a infected person. I know lots of people who had covid and not once did this ap alert me. It seems people who got covid never used the ap to let other people know they have it. Great idea with the ap, just people just dont give a darn to let people knowthey are infected. Sorry i deleted this ap. Maybe when they can figure out how to get people to use it when they are possitive of covid and then i will use<br> :date: __2021-02-06 16:46:49__
 
 > Always buzzing, and very disturbing<br> :date: __2021-02-06 02:11:23__
@@ -266,7 +268,5 @@ The COVIDaware MN app has been installed by more than **100000** times. At this 
 > So, the app works pretty decently. My complaint is, I just recently was exposed to someone who has covid. There is no way to input a possible exposure in the app. The idea is to prevent. But you can only report if you have a code from a positive test result... Kinda worthless then.. so who are we actually helping?<br> :date: __2021-01-19 21:47:53__
 
 > Buggy and annoying. The "checking exposures" notification will pop up on top of literally everything else even though a background process running is my lowest priority unless I've actually been exposed. And sometimes it gets stuck in a loop causing it to pop up over and over for a period of about 5 minutes. And during that 5 minutes, the app itself won't even open - it gets stuck on the splash screen.<br> :date: __2021-01-18 15:47:24__
-
-> Tells me I need to authorize covid exposure notifications in settings but settings won't allow me to authorize them until the app is finished downloading<br> :date: __2021-01-17 18:33:05__
 
 

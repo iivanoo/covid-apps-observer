@@ -147,25 +147,25 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="doh.health.shield 5 reviews"/>
 </p>
 
-> Help full app<br> :date: __2021-02-06 19:07:33__
+> It's not working properly even not come open<br> :date: __2021-02-13 18:16:59__
 
-> Good<br> :date: __2021-02-06 17:19:54__
+> Great<br> :date: __2021-02-13 17:18:10__
 
-> Most important apps for uae<br> :date: __2021-02-06 16:30:33__
+> Very good<br> :date: __2021-02-13 14:45:12__
 
-> Nice apps<br> :date: __2021-02-06 16:24:18__
+> Nice<br> :date: __2021-02-12 20:51:58__
 
-> Most helpful in covid 19 tracking<br> :date: __2021-02-06 12:04:05__
+> Good<br> :date: __2021-02-12 15:20:38__
 
-> Good<br> :date: __2021-02-06 11:12:28__
+> I did a vaccine two time. And it doesn't show any thing about any one of them.   I did restart to the phone. I did uninstall and install again.  Nothing changed.  It only show my last PCR test not the vaccine<br> :date: __2021-02-12 11:19:39__
 
-> problem not open this application<br> :date: __2021-02-06 09:40:28__
+> My viccine second dos finish but app not show result<br> :date: __2021-02-12 10:08:12__
 
-> Nice app of UAE<br> :date: __2021-02-06 07:30:37__
+> Very good app... Its i can see my test result of corona virus<br> :date: __2021-02-12 08:27:30__
 
-> Good<br> :date: __2021-02-06 05:07:19__
+> I download this , Igot result from my first pcr test, I don't get dpi test and second pcr test results in alhosn ap. I got the results but it's not updated.<br> :date: __2021-02-12 08:17:05__
 
-> Nice application...<br> :date: __2021-02-05 19:08:54__
+> The best 🎊🎉🥞<br> :date: __2021-02-12 00:37:07__
 
 
 
@@ -175,6 +175,18 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 <img src="4_star_reviews_wordcloud.png" alt="doh.health.shield 4 reviews"/>
 </p>
 
+> Working well<br> :date: __2021-02-12 07:47:56__
+
+> Good<br> :date: __2021-02-09 17:47:36__
+
+> Nice app but it's soo loaded i don't know why opening time many's mints<br> :date: __2021-02-09 03:59:31__
+
+> Good<br> :date: __2021-02-08 11:38:19__
+
+> গুড অপশন ইউএই<br> :date: __2021-02-07 14:38:25__
+
+> I did test last 02/02/2021 is still not showing my results..how.......<br> :date: __2021-02-07 07:50:27__
+
 > Good<br> :date: __2021-02-05 07:02:27__
 
 > this app helpful<br> :date: __2021-02-02 14:57:27__
@@ -183,18 +195,6 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 
 > Excellent<br> :date: __2021-02-01 05:34:27__
 
-> Why today not working please can you fix<br> :date: __2021-01-31 10:42:51__
-
-> It's proving difficult to activate the E on the Alhosn app. Some PCR tests are not getting updated without an explanation. Last negative PCR test done with Medcare DUBAI Mirdif city center and UNILABS was not reflecred on AlHosn app.<br> :date: __2021-01-31 09:23:54__
-
-> How to check vaccine risult<br> :date: __2021-01-29 12:31:43__
-
-> Good aff<br> :date: __2021-01-25 05:54:36__
-
-> Help full<br> :date: __2021-01-25 01:23:01__
-
-> Awesome<br> :date: __2021-01-24 20:37:12__
-
 
 
 #### 3-star reviews
@@ -202,6 +202,16 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="doh.health.shield 3 reviews"/>
 </p>
+
+> Since, I have a terrible experience using this App. here are some pointers for all the users, and hope these helps: 1. Make sure to register the same Contact no. you gave during PCR test. Thus, it will show an error credentials. 2. Unfortunately, if you got infected after your quarantine. You are required to complete 2 negative results. Thus, it won't turn to green. IMPORTANT!!! MAKE SURE TO UNDERGO A PCR IN DHA ONLY. NOT TO THE CLINIC.<br> :date: __2021-02-11 06:00:07__
+
+> The app is not working properly, covid 19 test report is not reflecting in my Al Hosn app, I tried to reach customer care to fix the issue more than trice today, they are just telling that it will be fix within 30 minutes each times. I am travelling from Dubai to Abu Dhabi and as per New rule border police will not allow me to enter Abu Dhabi until unless the report reflected in App.<br> :date: __2021-02-09 14:58:22__
+
+> For anyone suffering from wrong credentials issue, you need to download and install UAE Pass application, and verify the information at an approved kiosk (you can do this at the FCA happiness centers), after that and one PCR test the Al Hosn app will work.<br> :date: __2021-02-09 04:52:16__
+
+> Dear : Sir/Mam My vaccination finished 03/02/2021. still this app no any changes for my detailes. what is use for this app. how much day taken for this updation.please clear this matter for updation. Thanks : Best Regards<br> :date: __2021-02-08 07:05:10__
+
+> I've reinstalled it and it's still not showing my E status.<br> :date: __2021-02-06 20:31:15__
 
 > 2 doses of Vaccination is done. But more than 10 days finished but still not updated in alhosn app. message also come to my mobile regarding vaccination finish. Kindly update<br> :date: __2021-02-04 19:59:44__
 
@@ -213,16 +223,6 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 
 > Too much massage notifications pop up irritating<br> :date: __2021-01-31 23:15:02__
 
-> First of all nice app very well created app no bug issues amazing, but I don't think Bluetooth and background service is required I mean it makes me feel insecure lol, would give 5 stars if background permission was removed.<br> :date: __2021-01-31 13:11:49__
-
-> App is continuously loading cannot use the app at the moment.<br> :date: __2021-01-31 08:35:25__
-
-> The app forces stop when tapping on results .. please fix the issue<br> :date: __2021-01-31 02:51:54__
-
-> Good<br> :date: __2021-01-29 04:38:09__
-
-> When i want to view invoice, pdf file is protected and it is asking for password, but nowhere it is mentioned what should i enter, tried with EID no, but doesnt work.<br> :date: __2021-01-27 09:42:57__
-
 
 
 #### 2-star reviews
@@ -230,6 +230,12 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="doh.health.shield 2 reviews"/>
 </p>
+
+> Technical issues with this mean records don't get updated. No response from Alhosn team when try to contact them. Disappointed as this is required to prove vaccine status and pcr test results<br> :date: __2021-02-13 07:07:39__
+
+> يعطل الجهاز<br> :date: __2021-02-11 07:25:29__
+
+> Not working properly and no results yet.<br> :date: __2021-02-10 17:20:08__
 
 > Very nice<br> :date: __2021-02-06 18:08:25__
 
@@ -245,12 +251,6 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 
 > After one month it is not opening<br> :date: __2021-01-26 11:47:55__
 
-> Battery drain very fast and report didn't get from 12 Jan 2021<br> :date: __2021-01-26 07:53:12__
-
-> I have had a test with a negative result, and 3 times the hospital asked to update the app, but it is still not updated. There is no way to contact anyone about this problem.<br> :date: __2021-01-25 08:42:00__
-
-> Sometimes the result not showing accurately<br> :date: __2021-01-24 15:29:49__
-
 
 
 #### 1-star reviews
@@ -259,24 +259,24 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="doh.health.shield 1 reviews"/>
 </p>
 
-> not working<br> :date: __2021-02-06 18:18:39__
+> I have done covid test 3 times but doesnt show on this App As it reflects no test report available as i have given the same mobile no.to the test center. I received text msg of my covid test on the same no. But al hosn app says your no.is not registered try with your mob.no.as i dont have any other local no. I mail the support team but it says our mail box is full we r not able to help u try again later. Please check with this app i request the Al Hosn Support team. It will be very helpful to u<br> :date: __2021-02-13 17:19:34__
 
-> Why don't support Android 11? Please update .i installed 2 time but this apps don't open..<br> :date: __2021-02-06 18:08:39__
+> Im tired for log in appear error .i need this apps what shall i do?<br> :date: __2021-02-13 13:43:17__
 
-> App doesn't go beyond logo<br> :date: __2021-02-06 17:52:50__
+> I can't open it<br> :date: __2021-02-13 10:13:59__
 
-> My frist report positive update after 2 negative not update<br> :date: __2021-02-06 17:50:15__
+> Its asking survey and no option more<br> :date: __2021-02-13 08:27:46__
 
-> Stipid app.. keeps showing welcome screen forever 😑 UAE seriously needs to move on from cheap app developers<br> :date: __2021-02-06 15:30:53__
+> Not working well<br> :date: __2021-02-13 08:15:23__
 
-> Worst customer service ever!!<br> :date: __2021-02-06 13:56:30__
+> It's not showing my test results. No results found even I had two PCR test.<br> :date: __2021-02-12 23:51:31__
 
-> التطبيق يتوقف كثيرا ويستمر التوقف ساعات او ايام وهذا يفقده قيمته واهميته<br> :date: __2021-02-06 13:41:56__
+> I took 3 tests ..and still not even one showed in the app .<br> :date: __2021-02-12 21:52:05__
 
-> تطبيق سيئ جدا جدا ، الحالة لا تحدث وارقام التواصل لا تعمل والبريد الالكتروني ممتلئ !!!<br> :date: __2021-02-06 12:51:42__
+> No customer support. I have completed my vaccination but status till now not updated and there is no one to help.<br> :date: __2021-02-12 16:59:08__
 
-> Slow<br> :date: __2021-02-06 12:49:11__
+> I downloaded this app ..to check my vaccinated records....it's not working showing error..... always can't scan ..<br> :date: __2021-02-12 11:15:27__
 
-> I can't login many times i tried<br> :date: __2021-02-06 12:38:26__
+> Not even opening on samsung A70<br> :date: __2021-02-12 05:58:39__
 
 

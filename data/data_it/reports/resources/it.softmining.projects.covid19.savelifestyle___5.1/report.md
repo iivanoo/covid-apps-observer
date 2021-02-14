@@ -269,6 +269,8 @@ The SM_Covid19 app has been installed by more than **50000** times. At this time
 <img src="2_star_reviews_wordcloud.png" alt="it.softmining.projects.covid19.savelifestyle 2 reviews"/>
 </p>
 
+> Disinstallata troppo invasiva<br> :date: __2021-02-12 14:06:24__
+
 > Stronzata vorrei sapere a cosa serve<br> :date: __2021-01-30 19:35:44__
 
 > Troppi permessi... Non si poteva fare un'applicazione senza tutte ste richieste?<br> :date: __2020-09-17 22:19:23__
@@ -286,8 +288,6 @@ The SM_Covid19 app has been installed by more than **50000** times. At this time
 > Qusta app vale 2 stele<br> :date: __2020-06-17 18:12:17__
 
 > Non riesco a capire in che modo (spero di no) avvisare il medico in caso di positività per poi avvisare chi è stato a contatto con me (principio di funzionamento di immuni). Nell'app non trovo nessuna voce a riguardo<br> :date: __2020-06-15 21:05:35__
-
-> Mi sembra una stronzata come app come fa a sapere se uno è veramente positivo o negativo senza tampone? Poi se l tocca un altro il cell cambia o no? Sec me na cavolata l altra volta m diceva che ero poco rischioso ora mi dice tutto bene mha<br> :date: __2020-06-08 13:48:07__
 
 
 

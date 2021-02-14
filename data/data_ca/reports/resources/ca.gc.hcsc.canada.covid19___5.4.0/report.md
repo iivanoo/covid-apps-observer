@@ -134,6 +134,8 @@ The Canada COVID-19 app has been installed by more than **100000** times. At thi
 <img src="5_star_reviews_wordcloud.png" alt="ca.gc.hcsc.canada.covid19 5 reviews"/>
 </p>
 
+> Information is great<br> :date: __2021-02-11 21:49:48__
+
 > Thank you, Canada 🇨🇦! شكراً كندا..<br> :date: __2021-01-16 15:53:54__
 
 > I use it some times it's okay<br> :date: __2020-12-20 20:47:51__
@@ -152,8 +154,6 @@ The Canada COVID-19 app has been installed by more than **100000** times. At thi
 
 > Seamless<br> :date: __2020-10-16 02:54:07__
 
-> Good<br> :date: __2020-10-13 14:58:43__
-
 
 
 #### 4-star reviews
@@ -161,6 +161,8 @@ The Canada COVID-19 app has been installed by more than **100000** times. At thi
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="ca.gc.hcsc.canada.covid19 4 reviews"/>
 </p>
+
+> Works great. One beef is that if you ever get a recommendation it never goes away, nor does it say what date you got that recommendation.<br> :date: __2021-02-07 20:10:31__
 
 > Great tech on a fantastic mission.<br> :date: __2021-01-05 02:10:47__
 
@@ -180,8 +182,6 @@ The Canada COVID-19 app has been installed by more than **100000** times. At thi
 
 > This great for your peace of mind<br> :date: __2020-07-29 21:26:39__
 
-> Very good support and optimal information-sharing through this crisis.<br> :date: __2020-07-28 22:22:10__
-
 
 
 #### 3-star reviews
@@ -189,6 +189,12 @@ The Canada COVID-19 app has been installed by more than **100000** times. At thi
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="ca.gc.hcsc.canada.covid19 3 reviews"/>
 </p>
+
+> Not enough down loads to make it a useful All.<br> :date: __2021-02-10 15:00:13__
+
+> Good<br> :date: __2021-02-09 19:55:38__
+
+> Faulty app<br> :date: __2021-02-07 03:34:53__
 
 > Slow, goto do our part though!<br> :date: __2021-01-31 15:25:06__
 
@@ -203,12 +209,6 @@ The Canada COVID-19 app has been installed by more than **100000** times. At thi
 > Good idea. I've been using it for a while now. On the other hand it tells me I should self-isolate for fourteen days LITERALLY EVERY TIME I self-report - even after a month of "no symptoms". The worst I've ever reported is a mild headache. I don't get it.<br> :date: __2020-11-05 17:55:23__
 
 > Stupid app wont let me send the daily check in results<br> :date: __2020-10-08 08:32:50__
-
-> This is not a be all end all app. It has good information. After you submit your symptoms, you lose the bottom menu (Home, Stats, etc). You have to back out to get to this menu. Not easy to exit the app.<br> :date: __2020-10-05 21:44:01__
-
-> For such a simple app, it sure is slow. You tap an option (such as the check-in option) and you wait 5 seconds before anything happens with no indication that your tap actually registered. And it's not like the next screen has anything complicated that it needs to be "loading" either. It's just text. So what's up?<br> :date: __2020-10-05 20:06:20__
-
-> It doesn't ask every day to check in like it used to. And it seems to be easily triggered to suggest isolating at almost any symptom. Also, when it asked if I had been tested, or said to isolate even though I was asymptomatic. A few days later the test came back negative. If I had followed the recommendations it gave I'd be home most of the time and constantly being tested. Good idea, poorly executed. I like the media releases though. That's it's saving grace.<br> :date: __2020-09-29 14:38:34__
 
 
 
@@ -246,6 +246,8 @@ The Canada COVID-19 app has been installed by more than **100000** times. At thi
 <img src="1_star_reviews_wordcloud.png" alt="ca.gc.hcsc.canada.covid19 1 reviews"/>
 </p>
 
+> Not compatible with my device. I keep waiting for it to be compatible but it never is. The original version of the app was compatible. I got notices when I came into contact with others who had the app. I installed an update and now nothing. The app is junk if it is compatable with only a limited number of devices. Make it so! I have a Galaxy Tab A.<br> :date: __2021-02-12 18:12:05__
+
 > So buggy and laggy, this needs to be fixed.<br> :date: __2021-02-05 05:51:01__
 
 > Useless<br> :date: __2021-01-29 01:13:28__
@@ -263,7 +265,5 @@ The Canada COVID-19 app has been installed by more than **100000** times. At thi
 > Tests my patience! If I didn't think it was important to report COVID-19 symptoms, I would never use this app! It is so slow, and I mean slow that you don't know if it has sensed my touch selection or not so you tap again and again! Keeps showing that the app encountered an error when I load this app. Why did you move the Daily Check-In from being the first item on the page when it starts?!<br> :date: __2021-01-01 16:44:30__
 
 > Since last update Stats don't update at all like is use to do for every day the stats for the day don't display<br> :date: __2020-12-28 01:23:01__
-
-> "Application error" ...not working<br> :date: __2020-12-27 02:00:19__
 
 

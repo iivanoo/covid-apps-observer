@@ -150,6 +150,10 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="org.madrid.CoronaMadrid 5 reviews"/>
 </p>
 
+> Esta bastante bien la app, hace un seguimiento cada doce horas, y te da bastante información de los centros sanitarios más cercanos a ti, me ha gustado mucho, y es fácil y sencilla<br> :date: __2021-02-12 11:52:44__
+
+> Buena aplicación muy util con esta maldita enfermedad<br> :date: __2021-02-10 15:04:35__
+
 > Excelente<br> :date: __2021-02-05 16:41:10__
 
 > Se trata de una aplicación muy intuitiva. Muy buena para la labor que realiza y funciona correctamente<br> :date: __2021-01-28 13:56:07__
@@ -165,10 +169,6 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 > Muy buena aplicación y muy importante a la vez. La recomiendo.<br> :date: __2021-01-08 19:49:24__
 
 > Me ha gustado la app. Te hace un seguimiento de salud cada 12 horas, identifica los posibles síntomas del covid, te proporciona información sobre el virus, los centros sanitarios más cercanos a tu ubicación... En general está bastante bien para la situación actual que tenemos. Recomendada!<br> :date: __2021-01-07 16:41:59__
-
-> Me gusto<br> :date: __2021-01-05 17:19:48__
-
-> Buena app, funciona muy bien en mi teefono celular. Tienen mis 5 estrellas🙌.<br> :date: __2021-01-01 14:12:52__
 
 
 
@@ -262,6 +262,8 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="org.madrid.CoronaMadrid 1 reviews"/>
 </p>
 
+> Mal no sirve<br> :date: __2021-02-06 23:32:08__
+
 > No tiene aviso de zonas confinadas. Entonces no me sirve para nada<br> :date: __2021-02-03 23:09:26__
 
 > Leo que están retrasando la introducción de Radar Covid por culpa de esta app.<br> :date: __2021-02-02 13:13:29__
@@ -279,7 +281,5 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 > Ni siquiera abre la aplicación...<br> :date: __2020-10-29 12:50:37__
 
 > Una basura, activar la nacional y dejarse de tontunás. Solo da consejos, inutil como la IDA para detectar casos. Poner mas rastreadores y activar la nacional.<br> :date: __2020-10-26 10:37:22__
-
-> Es para hacer un diagnóstico no para hacer un rastreo. Ya todos sabemos cuáles son los síntomas de la covid 19<br> :date: __2020-10-18 19:39:40__
 
 

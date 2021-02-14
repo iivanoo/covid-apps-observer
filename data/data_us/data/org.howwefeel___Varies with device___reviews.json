@@ -1,5 +1,65 @@
 [
     {
+        "reviewId": "gp:AOqpTOHyshVlJrvXmz-gr7ZJr8g4GFmRYJh0l5BovbXn7wJMeD0vX4Z5ctDtRBM7KLpeA5hgViQjHFJtf8NP0AY",
+        "userName": "Michel Bouton",
+        "userImage": "https://play-lh.googleusercontent.com/-M9RRkVkHH6M/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclQ1I-KUFQz5h6r3mJtRgbJ5khogw/photo.jpg",
+        "content": "Easy to use. I hope participating truly contributes to the science we so desperately need right now.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2021-02-12 03:53:26",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGhc4Pf1ivE7bbpkoIRE3ICN9dD7Dmfxa9E2FY7aO87SkVjat52RDCu3IptVIMJ9aEkkBxfCk6g37_vrmU",
+        "userName": "Rob Swyter",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgPmQXJM34e1lEXKl3LiJmQq_BEMYNBM_UsPKIf",
+        "content": "Editing my review 2/9/2021 - app seems to work again, installed on a new phone (Galaxy S21 Ultra). Not sure what changed, but whatevs...",
+        "score": 4,
+        "thumbsUpCount": 7,
+        "reviewCreatedVersion": "1.13.6",
+        "at": "2021-02-10 14:23:44",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOEOTiPsslZJdRX05_r7x065n1jG56P8NlnLicH1h-1yAA9XclnEnV2MsaiAFyr0NzofIJUW0AfF0GA3zII",
+        "userName": "Mahmoud El-Fouly",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj2-9RaXUNKAAulxzWLpLKIAyigINqPV9C9OE4rzw",
+        "content": "Just the check \u2714\ufe0f in make me feel better by detecting and getting to know better my inner self",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.12.2",
+        "at": "2021-02-10 00:26:41",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFi6gqyfRQ63oh4TaqV4bSkDxA9ey7kXtZS0ppPz8EmzCPBfDAAFcYFh_eTJTyOLjfAbZID7pMYxf2IA8s",
+        "userName": "Amy Lyon",
+        "userImage": "https://play-lh.googleusercontent.com/-fw80UnyO-Dc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclVfM5XxaO6Kl6LYFEtt0Mqzrf0Lg/photo.jpg",
+        "content": "Great way to keep track of covid anonymously. The more info we have, the better we can fight this.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.12.2",
+        "at": "2021-02-09 03:07:50",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOG9YJ5aS8Ug41IiJthd57hQOXlxkmZzWoxEVrEOeONB1y0YWfmNQKzLd9R6LT2V3Lcdkz8FN2Z_b6r_tNA",
+        "userName": "Jason- Twin JV",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgKH3Q2U7OK4BGlVHivoG5LfVwhldtYU8kuSbkF8w",
+        "content": "I think this app is very useful in helping to save lives. It only takes a sec. Every check in feeds a person in need. Cmon now, stop being lazy. Download the app, stop taking our wonderful American lives for granted and realize its not even 25% that good that good for millions around the globe.....even a homeless person in America has it better than most 3rd world countries. Cmon yall, take a sec to download this app. You'll feel good once u do. Trust me.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2021-02-07 22:35:01",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOFRI_dyVva1aOavMhqj28Syu3zbTlEq6ljacR5t-puIoubz9ivCBNyWZifV3uEMnXNELviBWbrFJORs4jw",
         "userName": "Kimberly Johnson-Brinkley",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhxmXiIH-nFPnuTgElrgEktyvAWRIuWVSSUdxn3MvI",
@@ -396,18 +456,6 @@
         "repliedAt": null
     },
     {
-        "reviewId": "gp:AOqpTOG9YJ5aS8Ug41IiJthd57hQOXlxkmZzWoxEVrEOeONB1y0YWfmNQKzLd9R6LT2V3Lcdkz8FN2Z_b6r_tNA",
-        "userName": "Jason- Twin JV",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgKH3Q2U7OK4BGlVHivoG5LfVwhldtYU8kuSbkF8w",
-        "content": "I think this app is very useful in helping to save lives. It only takes a sec. Every check in feeds a person in need. Cmon now, stop being lazy. Download the app, stop thinking of your wonderful American life and realize its not 1/4 that good for millions around the globe.....",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": null,
-        "at": "2020-11-21 23:38:23",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
         "reviewId": "gp:AOqpTOF7EzuTcx-cUq4qT38q3_Uw_l91yXYA_LAjsJa0VRvf_KCdWC_bFa0M8PSraMWgOIls7868b2x7zlt2bFQ",
         "userName": "Lisa Koe",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi_JcCp2T5CoYJaiInw6kVdFvBBHv9aEy5bZ9jlZQ",
@@ -566,7 +614,7 @@
     {
         "reviewId": "gp:AOqpTOFy_rSqsJ2Z_amh-NPKwwdBqCIQWYZ3sh42eAontf-svo-p7fnk7LGhQexWR6oKMadg6R8A11-kaA7tNtM",
         "userName": "Leah Small",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjBd4VMTjZ9KsAdUrhsxu_PCSFCrWhYgSAj2X-mlg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjsSGt1hADBmDrdCJIvmBNihx0oKU5aWFNeu5lERg",
         "content": "I like that mental health and not just COVID symptoms is tracked.",
         "score": 4,
         "thumbsUpCount": 0,
@@ -1388,18 +1436,6 @@
         "thumbsUpCount": 1,
         "reviewCreatedVersion": "1.13.6",
         "at": "2020-10-11 02:08:56",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOGhc4Pf1ivE7bbpkoIRE3ICN9dD7Dmfxa9E2FY7aO87SkVjat52RDCu3IptVIMJ9aEkkBxfCk6g37_vrmU",
-        "userName": "Rob Swyter",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgPmQXJM34e1lEXKl3LiJmQq_BEMYNBM_UsPKIf",
-        "content": "Since the latest update, this app does not start at all,l in my Galaxy S20 Ultra... crashes immediately. Dev should ( in my opin) roll back update until a stable Android update is available if they want to keep collecting free data.",
-        "score": 1,
-        "thumbsUpCount": 7,
-        "reviewCreatedVersion": "1.13.6",
-        "at": "2020-10-10 15:42:28",
         "replyContent": null,
         "repliedAt": null
     },
@@ -2786,7 +2822,7 @@
     {
         "reviewId": "gp:AOqpTOGNFKMXmGWlhuEGdevPc-ay2lMLAD5Zqiyh27Zzc_X5Yf4HwCCilJphZhkm10ZdRBnAyzZ9n9Bcuctwpdk",
         "userName": "Marlene Cabrera",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhwXJ018AvH82PJPmJ0rCGHODVPywICrLXOJe0NzQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gia-LqkRen-mWFJk51F1IhGIWsTZM2ldRgRXukPAQ",
         "content": "It use to notify during the day, and it had stopped doing so two months ago. It lags a lot and tends to kick me out of the app even after getting the update. Going back to the app it makes me repeat the process of checking in. Quite buggy at times.",
         "score": 3,
         "thumbsUpCount": 0,
@@ -4934,7 +4970,7 @@
     {
         "reviewId": "gp:AOqpTOHa5hvMDNIaFxAcHzwuODPDhTZqIuE1ujKwocAcjzGX8ZIKsOvtNVpNnogBO84zU9jqoH582ELIB28ynls",
         "userName": "Y Smith",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjWbo7IS1Otr2ULkB9L9YLY2J7FP0jGkrVqnSkAGw",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiXNcJUUClXj6oTNGJ5Nn8q3OYDMfEfpvCReXh5mA",
         "content": "Easy to use and very helpful.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -8678,7 +8714,7 @@
     {
         "reviewId": "gp:AOqpTOE5K4smnGEHOWXPSuaXVRqxIiAHYnGkrPV26t1PKgzKuB6czYMi0qzhoQrIFMOSqGI6yqi_F8taBuWlQnA",
         "userName": "Cynthia Hand",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjnnSINI6ysK1w_6_8RZ4lUhRi-KXvdKpNqXi1zeQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ggc9dhLcnGsSqNSOHpQNZ-haz6pOQx5y4COrdH9Tw",
         "content": "I like you get updated information",
         "score": 5,
         "thumbsUpCount": 0,
@@ -11510,7 +11546,7 @@
     {
         "reviewId": "gp:AOqpTOHABGpiviN1F-01GD4BJwuEhC1bVLAkIOLqMdQZBYURERIJxdmpRpyD_tWofs-cNbl3CNl1hUqOZs3LUTk",
         "userName": "AV Goodsell",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiLrKu_ShPuVpw3cxReHmEEgVOj2v4Af330mPy82JI",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiTNSnlNuVO2yY_YpFEJXSNggJxFCnpbjxy1h3dQx0",
         "content": "Super easy to use and I appreciate the reminder",
         "score": 5,
         "thumbsUpCount": 0,
@@ -11677,7 +11713,7 @@
     },
     {
         "reviewId": "gp:AOqpTOHQjnm0ljmiRLL2yoCNY04H4-qCC7Onn-nWCgEqj67MOUAoyC2LN8j-s4bvKxKP8n9waMB_2wZ_6Tia5PY",
-        "userName": "Terri Christopher",
+        "userName": "Terri C.",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi05EvI-fZIlJhsPHt9h6c0zpRjIzMitssd-VeOdg",
         "content": "3rd day of check ins. Lots of up to date Covid 19 info & tracking. I was hoping this was more than physical symptoms. I would like to see mental health issue followed as a result of Covid 19.",
         "score": 4,
@@ -11960,42 +11996,6 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.0.20",
         "at": "2020-05-14 14:45:52",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOFn2zPmQGGWNR2l2Fr51TrVLkwOzxqbnqIIs41y49zuAzo945yTob66bT4ztUaPqlEE2gIEskqJ8fIMKWA",
-        "userName": "Kenneth Washington_Anderson",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg_7zExbnrvpTmNGG2ArLzcCPhoJkmTEeylF3PCSw",
-        "content": "Haven't used it yet.",
-        "score": 4,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.0.20",
-        "at": "2020-05-14 14:38:58",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOHnhHfZX7wpZTbwZNALZYpNBYKRBE2j4OxchGraQaJWbr270yeQuYVVLE_jEsbxcEZ936HYwbuWHJsHkos",
-        "userName": "Zana Tasic",
-        "userImage": "https://play-lh.googleusercontent.com/-4FfdGSYLXH4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnJYsls49lvrfTx2dK8WJLOLs1g5Q/photo.jpg",
-        "content": "Feels good to be part of the group that cares about each other",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.0.20",
-        "at": "2020-05-14 14:29:30",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOEOil9fN6Nd8V-Jl3fmSRVmeRpapNw1tjKWsUGylGa6VW3LAIP--CoyzG8SArFLvwxws8iGsmcyfLUbCjk",
-        "userName": "Lisa Feland",
-        "userImage": "https://play-lh.googleusercontent.com/-zzYq7X-LfQA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclzP0tpCBMCu522AAzciPj9bZB7Xg/photo.jpg",
-        "content": "Quick and hopefully helpful to all of us!",
-        "score": 4,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.0.20",
-        "at": "2020-05-14 14:21:07",
         "replyContent": null,
         "repliedAt": null
     }
