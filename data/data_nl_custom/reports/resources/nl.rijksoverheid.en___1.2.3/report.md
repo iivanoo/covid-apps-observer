@@ -1,0 +1,275 @@
+# CoronaMelder
+App version ``1.2.3``
+
+Analyzed with [covid-apps-observer](http://github.com/covid-apps-observer) project, version ``0.1``
+
+<img src="icon.png" alt="CoronaMelder icon" width="80"/>
+
+## App overview
+| | |
+|-------------------------|-------------------------| 
+| **Name**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  | CoronaMelder |
+| **Unique identifier** | nl.rijksoverheid.en |
+| **Link to Google Play** | [https://play.google.com/store/apps/details?id=nl.rijksoverheid.en](https://play.google.com/store/apps/details?id=nl.rijksoverheid.en) |
+| **Summary**  | Help de verspreiding van het coronavirus in Nederland te stoppen |
+| **Privacy policy** | [https://coronamelder.nl/nl/privacy](https://coronamelder.nl/nl/privacy) |
+| **Latest version** | 1.2.3 |
+| **Last update** | 2021-02-10 09:22:25 |
+| **Recent changes** | Dank je wel voor het gebruiken van CoronaMelder. Je helpt daarmee corona in Nederland te stoppen. Deze update bevat de functie om de app te pauzeren. Pauzeer de app alleen in situaties waarin je telefoon dicht bij telefoons van anderen komt, maar er geen kans op besmetting is. |
+| **Installs**  | 1.000.000+ |
+| **Category** | Medisch |
+| **First release** | 10 aug. 2020 |
+| **Size**  | 7,1M |
+| **Supported Android version**  | 6.0 en hoger |
+
+### Description
+> CoronaMelder is de officiële corona notificatie-app van Nederland, ontwikkeld onder het toezicht van het Ministerie van Volksgezondheid, Welzijn en Sport. De app is een digitaal hulpmiddel bij het bron- en contactonderzoek door de GGD. 
+<br>De app waarschuwt je nadat je in de buurt bent geweest van iemand met corona. Zo kun je jezelf en de mensen in je omgeving beschermen. En kunnen we samen het aantal besmettingen in Nederland zo laag mogelijk houden. Het gebruik van de app is vrijwillig. Niemand mag controleren of jij de app op je telefoon hebt. Maar hoe meer mensen de app gebruiken, hoe beter deze werkt. 
+<br>Bij de ontwikkeling van deze app is rekening gehouden met toegankelijkheid, zie voor meer informatie onze toegankelijkheidsverklaring.
+<br>Hoe werkt de app?
+<br># Je geeft alleen toegang tot je bluetoothgegevens
+<br>CoronaMelder ziet via bluetooth wanneer je in de buurt bent van andere mensen met de app. De app gebruikt geen persoons- of locatiegegevens. De app weet dus niet wie je bent, waar je was en wie je hebt ontmoet.
+<br># Je krijgt een melding nadat je extra kans op besmetting hebt gelopen
+<br>De app stuurt een melding als je minstens 15 minuten in de buurt bent geweest van iemand die later corona blijkt te hebben. Deze persoon moet ook de app gebruiken.
+<br># Je kunt anderen waarschuwen als je zelf besmet blijkt te zijn
+<br>Ben je getest door de GGD en blijk je corona te hebben? Dan kun je samen met de GGD via de app een melding sturen naar de mensen bij wie je in de buurt bent geweest - in de periode dat je besmettelijk was. In deze melding staat alleen wanneer ze in de buurt zijn geweest van een besmet persoon. Niet wie of waar dit was.
+<br>Hoe gaat de app met je gegevens om?
+<br>• Je hoeft geen persoonsgegevens zoals je e-mailadres of naam in te voeren.
+<br>• Als je iemand tegenkomt wisselen jullie telefoons via bluetooth willekeurige codes uit. Zo meet de app de duur en de afstand van het contact. In de codes staat niets over wie jullie zijn en waar jullie zijn geweest. 
+<br>• De codes die je via bluetooth uitwisselt worden alleen op je telefoon bewaard en na 14 dagen verwijderd.
+<br>• Gebruikers van de app zijn niet terug te vinden door de makers van de app, de overheid of andere gebruikers.
+
+
+### User interface
+The developers of the app provide the following screenshots in the Google play store.
+| | | |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+ | <img src="screenshot_1.png" alt="screenshot" width="300"/>  | <img src="screenshot_2.png" alt="screenshot" width="300"/>  | <img src="screenshot_3.png" alt="screenshot" width="300"/>  | 
+ | <img src="screenshot_4.png" alt="screenshot" width="300"/>  | <img src="screenshot_5.png" alt="screenshot" width="300"/>  | <img src="screenshot_6.png" alt="screenshot" width="300"/>  | 
+
+
+## Development team
+In the following we report the main information provided by the development team in the Google play store.
+
+| | |
+|-------------------------|-------------------------|
+| **Developer**  | Rijksoverheid |
+| **Website**  | [https://coronamelder.nl/](https://coronamelder.nl/) |
+| **Email** | helpdesk@coronamelder.nl |
+| **Physical address**  | - |
+| **Other developed apps**  | [https://play.google.com/store/apps/developer?id=Rijksoverheid](https://play.google.com/store/apps/developer?id=Rijksoverheid) |
+
+## Android support
+
+| | |
+|-------------------------|-------------------------|
+| **Declared target Android version**  | - |
+| **Effective target Android version**  | - |
+| **Minimum supported Android version**  | Marshmallow, version 6.0 (API level 23) |
+| **Maximum target Android version**  | - |
+
+The larger the difference between the minimum and maximum supported Android versions, the better. A larger difference means a wider audience. For example, old phones have a very low Android version, so a high minimum supported Android version means that the app cannot be used by users with old phones, thus leading to accessibility problems. 
+
+## Requested permissions
+
+In the following we report the complete list of the permissions requested by the app. 
+
+| **Permission** | **Protection level** | **Description** | 
+|-------------------------|-------------------------|-------------------------|
+ **android.permission<br>ACCESS_NETWORK_STATE** | Normal | Allows applications to access information about networks. 
+ **android.permission<br>BLUETOOTH** | Normal | Allows applications to connect to paired bluetooth devices. 
+ **android.permission<br>FOREGROUND_SERVICE** | Normal | Allows a regular application to use Service.startForeground. 
+ **android.permission<br>INTERNET** | Normal | Allows applications to open network sockets. 
+ **android.permission<br>RECEIVE_BOOT_COMPLETED** | Normal | Allows an application to receive the Intent.ACTION_BOOT_COMPLETED that is broadcast after the system finishes booting. 
+ **android.permission<br>REQUEST_IGNORE_BATTERY_OPTIMIZATIONS** | Normal | Permission an application must hold in order to use Settings.ACTION_REQUEST_IGNORE_BATTERY_OPTIMIZATIONS. 
+ **android.permission<br>WAKE_LOCK** | Normal | Allows using PowerManager WakeLocks to keep processor from sleeping or screen from dimming. 
+
+
+## Mentioned servers
+
+| **Server** | **Registrant** | **Registrant country** | **Creation date** | 
+|-------------------------|-------------------------|-------------------------|-------------------------|
+ | google.com | Google LLC | :us: US | 1997-09-15 04:00:00 |
+ | coronamelder-dist.nl | - | - | 2020-07-20 00:00:00 |
+ | coronamelder-api.nl | - | - | 2020-07-22 00:00:00 |
+ | android.com | Google LLC | :us: US | 1997-06-23 04:00:00 |
+
+
+## Security analysis 
+
+Below we report the main security warnings raised by our execution of the [Androwarn](https://github.com/maaaaz/androwarn) security analysis tool.
+
+**Connection interfaces exfiltration**
+> - This application reads details about the currently active data network<br>
+> - This application tries to find out if the currently active data network is metered<br>
+
+**Telephony services abuse**
+> - This application makes phone calls<br>
+
+**Suspicious connection establishment**
+> - This application opens a Socket and connects it to the remote address '; port is out of range' on the 'N/A' port <br>
+> - This application opens a Socket and connects it to the remote address 'Ljava/net/Proxy;->type()Ljava/net/Proxy$Type;' on the 'N/A' port <br>
+> - This application opens a Socket and connects it to the remote address 'Ln/b/a/a/a;->G(Ljava/lang/String;)Ljava/lang/StringBuilder;' on the 'N/A' port <br>
+> - This application opens a Socket and connects it to the remote address 'timeout' on the 'N/A' port <br>
+
+
+
+## User ratings and reviews
+
+Below we provide information about how end users are reacting to the app in terms of ratings and reviews in the Google Play store.
+
+### Ratings
+
+The CoronaMelder app has been installed by more than **1000000** times. At this time, **7426** rated the app and its average score is **2.9681697**. Below we show the distribution of the ratings across the usual star-based rating of Google Play
+
+:star::star::star::star::star:: 2482
+
+:star::star::star::star:: 827
+
+:star::star::star:: 729
+
+:star::star:: 748
+
+:star:: 2640
+
+### Reviews 
+
+#### 5-star reviews
+
+<p align="center">
+<img src="5_star_reviews_wordcloud.png" alt="nl.rijksoverheid.en 5 reviews"/>
+</p>
+
+> Ik ben dik tevreden met deze CoronaMelder.... Gelukkig tot aan heden geen meldingen gehad.... Het geeft je in ieder heval een stukje gemoedsrust, wetend wanneer wel of niet iemand dicht bij jou besmet is... mijn complimenten....<br> :date: __2021-02-21 09:40:00__
+
+> App werkt prima, jammer dat veel negatieve reacties komen van mensen die niet weten hoe de app werkt. Men gaat er blijkbaar vanuit dat de app "kan ruiken" als iemand in de buurt besmet is. Zolang iemand die besmet is dit niet deelt in de Corona App, zal niemand die bij hem/haar in de buurt was met de Corona app daar een melding van krijgen. Ik werk zelf in het OV, ik kom met veel mensen in contact en heb pas 1 keer een melding gehad, dus blijkbaar wordt er niet genoeg gedeeld in de Corona App.<br> :date: __2021-02-21 09:39:49__
+
+> super goede app<br> :date: __2021-02-20 20:55:24__
+
+> Prima app, nog geen melding gehad gelukkig maar hij checkt op de achtergrond als je deze uitleest via de API via Instellingen in je Android toestel.<br> :date: __2021-02-19 12:02:52__
+
+> goed<br> :date: __2021-02-18 10:34:03__
+
+> Het helpt wand je kan zo weten of je bij iemand met corona bent geweest<br> :date: __2021-02-18 08:10:06__
+
+> Wel fijn dat de melding komt zodra je corona mensen in je buurt heb<br> :date: __2021-02-17 18:05:42__
+
+> Doen, waarom niet!<br> :date: __2021-02-16 15:32:42__
+
+> Voel me veilig. Jullie geven geen antwoord op mijn 2 vragen. Dus mijn beoordeling is GEEN STER.<br> :date: __2021-02-16 14:03:18__
+
+> Blij met deze extra bescherming<br> :date: __2021-02-13 14:32:17__
+
+
+
+#### 4-star reviews
+
+<p align="center">
+<img src="4_star_reviews_wordcloud.png" alt="nl.rijksoverheid.en 4 reviews"/>
+</p>
+
+> Haha beste prank ooit<br> :date: __2021-02-11 12:04:38__
+
+> Geeft soms aan niet actief te zijn geweest de afgelopen dag. Ik weet niet wat dat betekent en hoe dat voorkomen kan worden.<br> :date: __2021-02-10 14:30:47__
+
+> Prima, maar door Google Play is deze natuurlijk niet te vertrouwen qua privacy. India, Duitsland en de V.S. hebben hun app ook in F-Droid beschikbaar gemaakt. Waarom deze niet?<br> :date: __2021-02-10 11:47:53__
+
+> Tja app is goed. Heb hem al n hele tijd<br> :date: __2021-02-06 18:19:23__
+
+> Na vele pogingen via een omweg is het toch 🤞 gelukt om de app opnieuw te installeren<br> :date: __2021-02-05 12:22:01__
+
+> In de eerste variant kon je zien hoeveel mensen om je heen waren gescanned. Nu zie je dat niet meer. Je hebt maar een vinkje dat de app actief is. Ik vond het eigenlijk heel fijn om te zien hoeveel mensen waren er gecheckt. Hoort het nu zo te zijn, zonder aantal gecheckte mensen maar alleen dat vinkje? Verder heb ik geen last van de app, hij werkt in de achtergrond, je krijgt misschien 1keer per week een notificatie over de status van de app en de batterij loopt niet sneller leeg. Top! 👍<br> :date: __2021-02-04 08:54:11__
+
+> Vraagje: Gaat de coronamelder aangepast worden op de hogere besmettelijkheid van de Britse coronavariant? Hier heb ik Hugo de Jonge nog niets over horen zeggen in de persconferenties.<br> :date: __2021-02-02 19:32:52__
+
+> Werk,t goed<br> :date: __2021-02-01 13:55:25__
+
+> 👍🏻<br> :date: __2021-01-28 17:28:21__
+
+> Werkt probleemloos, maar ook wat onzichtbaar. Zou leuk zijn om een beetje feedback te krijgen, bijvoorbeeld dat hij de afgelopen dag x andere coronamelder Apps heeft gezien.<br> :date: __2021-01-26 23:04:53__
+
+
+
+#### 3-star reviews
+
+<p align="center">
+<img src="3_star_reviews_wordcloud.png" alt="nl.rijksoverheid.en 3 reviews"/>
+</p>
+
+> Deze app heeft het probleem dat hij uitvalt voor 24-uur terwijl ik wel goede verbinding heb niet constant maar wel vaak genoeg om de app weer automatisch te laten starten Deze app is up to date ben zeer streng in het updaten Update Updates hebben bovenstaand probleem niet opgelost. Ik heb geen stroombesparing ingesteld nog de app gesnoozed in welke vorm dan ook<br> :date: __2021-02-19 08:43:17__
+
+> Mijn corona app blijf niet altijd stand by valt telkens weg rede hier van ?<br> :date: __2021-02-16 14:25:33__
+
+> Het is goed hij gaat zelf op pauze en zegt dat hij geen 24 uur controle uit kan voeren en het is al 2 keer gebeurd<br> :date: __2021-02-09 17:41:03__
+
+> Negatief getest<br> :date: __2021-02-06 13:17:28__
+
+> Vind het heel ingewikkeld.....<br> :date: __2021-02-04 01:05:53__
+
+> Zondag kreeg ik via de app een melding over een contact met een besmet persoon op de woensdag ervoor. Gelukkig meldde de besmette persoon het vrijdag en ben ik gelijk in thuisquarantaine gegaan. Helaas heb ik in de tussentijd wel mijn kwetsbare ouders en collega's op het werk bezocht. Oftewel: ik vind dat de melding nogal laat kwam, op de 4e dag.<br> :date: __2021-02-01 18:13:49__
+
+> Ik heb een vraag moet je 4G aan hebben als het moet werken in kan het offline?<br> :date: __2021-01-31 10:59:55__
+
+> Is er geen ruik en test uit slag en mogelijk heden<br> :date: __2021-01-30 11:56:40__
+
+> Op zich prima dat deze app er is. Maar hoe zit het met registratie als je een ziekenhuisbezoek hebt gebracht. In het ziekenhuis liggen corona patiënten, krijg je dan automatisch de melding dat je in de buurt van mensen met corona bent geweest? Ik twijfel dus onderga maandag een corona test nav deze melding die ik kreeg nadat ik eerder in de week in het ziekenhuis oa ben geweest.. Maar wellicht is deze onrust onnodig? Wie heeft ervaring hiermee.?<br> :date: __2021-01-29 19:28:54__
+
+> Op de ene telefoon krijg ik een melding dat ik in de buurt van een besmet persoon ben geweest en op de andere niet terwijl ik de telefoons altijd bij me draag<br> :date: __2021-01-29 09:53:06__
+
+
+
+#### 2-star reviews
+
+<p align="center">
+<img src="2_star_reviews_wordcloud.png" alt="nl.rijksoverheid.en 2 reviews"/>
+</p>
+
+> Heb een tijd maar krijg. Nooit een melding ondanks dat ik vaak in het ziekenhuis kom en dat zijn de plaatsen waar het heerst.<br> :date: __2021-02-23 08:37:55__
+
+> Is vaak "uit" de lucht, werkt dan niet. Krijg elke dag wel een melding dat de app niet werkt . Zeer slecht naar mijn mening als je net als ik in de risico doelgroep valt<br> :date: __2021-02-22 23:23:32__
+
+> Deze app geeft meldingen als je niet fysiek in de buurt bent van iemand met corona. (Door muren heen). Geeft daarom veel onrust ipv veilig gevoel. Ik schakel weer over op gezond verstand.<br> :date: __2021-02-20 11:00:13__
+
+> Als je VPN op je mobiel hebt aanstaan dan werkt de app niet goed. Het zou handig zijn als dat ergens wordt toegelicht.<br> :date: __2021-02-20 09:36:48__
+
+> Krijg regelmatig een bericht dat er technische problemen zijn en miet hem dan opnieuw activ5<br> :date: __2021-02-16 09:36:39__
+
+> Nog nooit melding van gehad dat ik bij mogelijk besmette mensen in de buurt ben geweest. Daarnaast kon ik niets meer met Bluetooth, deze app blokkeert alles... En als blauwtand wel werkte erg instabiel... Bijvoorbeeld smartwach die ik handmatig moet synchroniseren en meldingen op watch komen niet door. App verwijderd en het lijkt weer normaal Bluetooth.<br> :date: __2021-02-16 00:21:39__
+
+> Moet hem bijna elke dag opnieuw starten, minder leuk .<br> :date: __2021-02-12 14:13:54__
+
+> Moet bijna dagelijks de app opnieuw aanzetten omdat ik de melding krijg dat hij niet actief is.<br> :date: __2021-02-11 09:44:52__
+
+> Ik ben arts, zie inmiddels wekelijks wel een aantal zieke, bij de GGD positieve geteste coronapatienten, maar zelfs als ik de app op de achtergrond draaiend houd, heb ik nog NOOIT een melding ontvangen... En ik heb een nieuwe smartphone die nog vorig jaar pas uitgebrachts is met de nieuwste android versie erop<br> :date: __2021-02-04 12:41:20__
+
+> Slechte app, gaat veel te veel uit van de eerlijke en goede wil van de gebruiker.<br> :date: __2021-02-03 17:37:16__
+
+
+
+#### 1-star reviews
+
+<p align="center">
+<img src="1_star_reviews_wordcloud.png" alt="nl.rijksoverheid.en 1 reviews"/>
+</p>
+
+> ben een commerciële smeltwater. Heb nog maar 2x een melding gekregen, terwijl ik er al veel positief getest heb. Ga dus niet alleen af op deze app!<br> :date: __2021-02-23 10:44:47__
+
+> Nutteloos. Dat kan ik wel toelichten. Het geeft geen enkele melding omtrent de waarschuwing van het virus. Ik heb de app verwijderd, het heeft geen meerwaarde. Ik was in de beurt van een positieve geteste persoon.<br> :date: __2021-02-23 10:12:18__
+
+> Zeker weten dat ik met deze app NIETS kan. Ik ben met mensen in contact geweest die positief getest waren cq nog zijn. Geen meldingen nog ontvangen. (Zij hebben zich wel aangemeld (appmelder) t zal wel met de tijd te maken hebben vermoed ik.<br> :date: __2021-02-23 08:32:12__
+
+> Heb ik niet.<br> :date: __2021-02-23 01:32:33__
+
+> Geeft geen toegevoegde waarde....<br> :date: __2021-02-22 18:14:13__
+
+> Ik krijg bijna dagelijks een melding dat de app niet actief is omdat er geen verbinding is. Maar wifi en 4G staan continue aan.<br> :date: __2021-02-22 17:38:27__
+
+> Werkt niet. Ik was positief, man en kinderen die app ook hebben kregen alledrie andere dag door dat ze in aanraking zouden zijn geweest. En nu was mijn dochter positief, ook gemeld, ik zit nog op die melding te wachten!!! Ze is inmiddels,gelukkig, beter. 1x melding gehad.. ik was die dag gewoon thuis, niemand ontmoet, maar volgens die app wel in aanraking geweest met besmet iemand, heel bijzonder. Klopte dus geen enkele keer!<br> :date: __2021-02-22 09:31:45__
+
+> Valt uit , geeft verder geen info<br> :date: __2021-02-21 15:52:57__
+
+> Werkt vaak niet<br> :date: __2021-02-21 14:57:08__
+
+> Werkt voor geen @nderhalve meter<br> :date: __2021-02-21 01:46:38__
+
+
