@@ -253,6 +253,8 @@ The LAZIOdrCovid app has been installed by more than **100000** times. At this t
 <img src="1_star_reviews_wordcloud.png" alt="com.intellicare.covid 1 reviews"/>
 </p>
 
+> Non riesco a scaricarla eppure spazio nella memoria ne ho abbastanza. forse sbaglio qualcosa, chi mi può aiutare?<br> :date: __2021-02-23 12:38:25__
+
 > Avevo installato l app 12 mesi fa, non funzionava. Cosi l ho disinstallata. Ci riprovo oggi e mi da lo stesso problema ... inserisco dati, arriva messaggio, click su link entro, esco....non entro più, e nella pagina iniziale mi dice account non attivo!!!!!!!!! Incredibile!!!!! Dopo un anno lo stesso problema, che, a quanto pare è comune a molti utenti.<br> :date: __2021-02-11 11:21:04__
 
 > Scaricata ma non si apre va' in crash, mandato mail ma nessuna risposta....<br> :date: __2021-02-10 21:21:26__
@@ -270,7 +272,5 @@ The LAZIOdrCovid app has been installed by more than **100000** times. At this t
 > Scaricata, aggiornata, ora non si apre più, a che serve.<br> :date: __2021-01-18 19:02:34__
 
 > Direi che... fa abbastanza caxxare. Non me ne vogliamo i colleghi programmatori, so che non è colpa loro. Ma credo sia un app approssimativamente inutile. Tra l'altro mi si è impallata mentre cercavo di usare il sistema di messaggistica interna<br> :date: __2020-12-17 16:03:26__
-
-> Nesuno rispode<br> :date: __2020-12-12 21:03:40__
 
 

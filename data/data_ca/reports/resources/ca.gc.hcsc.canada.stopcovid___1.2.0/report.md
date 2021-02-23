@@ -146,25 +146,25 @@ The COVID Alert - Let’s protect each other app has been installed by more than
 <img src="5_star_reviews_wordcloud.png" alt="ca.gc.hcsc.canada.stopcovid 5 reviews"/>
 </p>
 
+> App does what it says it'll do. I wish it was mandatory for everyone to download. Otherwise I'd be more trusting of the "have not come in contact with anyone reported with covid in the app". Also to those complaining about the gov data collecting: trust me, they gov already has all the dirt on you already. They don't care what you're doing with your family for your birthday Susan. Get a grip.<br> :date: __2021-02-23 18:09:01__
+
+> Since l downloaded this app has been working good<br> :date: __2021-02-23 01:58:31__
+
+> Taking a long time to make fonts of the app a bit more to read ?<br> :date: __2021-02-21 10:44:19__
+
+> Awesome<br> :date: __2021-02-20 09:22:01__
+
+> Update - Thanks for the prompt reply. Hope this helps others stay notified and safe. / Original Post - I do not believe this app is working correctly. It was automaticlly set as a sleeping app on my Samsung phone. Sleeping apps won't run in the backgroud. This does not make sense.<br> :date: __2021-02-18 21:50:46__
+
+> Works as described<br> :date: __2021-02-17 05:24:29__
+
+> Very much appreciated<br> :date: __2021-02-15 14:49:38__
+
 > Works very well I like it<br> :date: __2021-02-13 19:52:47__
 
 > Download it , it'll save your life.<br> :date: __2021-02-12 10:05:26__
 
 > Unfortunately my incompetent premiere can't rub 2 braincells together to allow this in alberta.<br> :date: __2021-02-11 06:43:10__
-
-> Well thats so good for everyone,ever1 should have this app😊😊👅<br> :date: __2021-02-10 21:10:38__
-
-> Useless if you're in a province who hasn't adopted the app. However the app itself is good, with strong privacy controls that would be nice to see in other apps on the store - Thanks Gov of Canada. Now, British Columbia and other non adopted provinces ------ get your s\*\*t together so we can use this.<br> :date: __2021-02-09 22:15:29__
-
-> I find it is a great app to have makes you feel reassured that no one is close to you with the virus!<br> :date: __2021-02-03 17:59:40__
-
-> The dawyne Johnson rock<br> :date: __2021-02-03 16:39:50__
-
-> Perfect app<br> :date: __2021-02-02 18:09:01__
-
-> easy<br> :date: __2021-02-02 00:51:18__
-
-> Seems to work. Never been exposed yet anyway.<br> :date: __2021-02-01 16:50:05__
 
 
 
@@ -173,6 +173,16 @@ The COVID Alert - Let’s protect each other app has been installed by more than
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="ca.gc.hcsc.canada.stopcovid 4 reviews"/>
 </p>
+
+> It's a good option to have<br> :date: __2021-02-21 03:52:48__
+
+> I like this app and think it is a necessary tool in our fight against Covid. However I am concerned that it hasn't been updated yet to take into account the new variants. 2 meters for 15 minutes doesn't seem safe anymore. I want to know whether I was 5 minutes within a 3 m distance of someone infected (or whatever parameters health authorities think would be precautionary taking into account the new variants).<br> :date: __2021-02-18 04:17:26__
+
+> Did as you recommended. Force quit the app then restarted! The annoying number 1 gone! Thank you so much for your help! I truly think this is a wonderful addition in helping to combat this pandemic. I hope more people download it. :)<br> :date: __2021-02-18 01:27:22__
+
+> Idk if this even works<br> :date: __2021-02-16 23:43:32__
+
+> The way it says that it collects the data, it won't be able to notify you of an exposure as it's happening, mainly due to the careful way they have to apply the tracking tech in order to sustain your privacy, or people get upset. It can only tell you once it has been able to calculate exposure within 2 meters for 15 minutes, and it can't know that until it determines if it WAS during the contagious timeline, which isn't known until that data has been accurately reported by the cantagious patient<br> :date: __2021-02-16 12:36:52__
 
 > I downloaded this app by mistake And downloaded self isolation form by mistake how to rectify it i am completely fine with no symptoms even i never came in touch with anyone just doing quarantine for 14 days i do have arrive can app only<br> :date: __2021-02-13 06:38:54__
 
@@ -184,16 +194,6 @@ The COVID Alert - Let’s protect each other app has been installed by more than
 
 > Does what it says and protects privacy.. I would however like the option to turn on of off the exposure check notification, I found that more of a peace of mind thing when I did see it.<br> :date: __2021-01-05 02:30:37__
 
-> I'm glad to have it. But.. it is limited in its use as we can not put it on our older organizations iPhones which we have, numerous model 6. Requires higher iOS version than iPhone 6 supports<br> :date: __2021-01-02 15:03:58__
-
-> Update #2: The app finally appears to be working properly. Exposure checks are happening 3+ times per day, even without opening the app. Update: I spoke to soon. The showed exposure checks for a few days but stopped on the 28th. After I opened the app the logs showed a dozen or so checks in the last minute, but nothing since then. Is the app just not uploading IDs when it's closed or is it not sending out bluetooth beacons as well? Both situations aren't ideal but the latter is very worrying to me. EDIT: The problem I described below appears to have been fixed. I now see multiple checks per day, even without opening the app. I'm not convinced the app is checking for exposure and/or running in the background. The exposure log (settings->google->covid19->exposure checks) only shows checks after the app is opened. If I don't open the app for days or weeks and check the logs again, the most recent check lines up exactly with the last time the app was opened. I tried uninstalling-reinstalling and saw no change in behaviour. I've read that the app constantly checks for exposure as long as there is internet access but that doesn't seem to be happening on my device.<br> :date: __2021-01-01 03:24:20__
-
-> Seems to work but the notification that is shown when it's searching for exposures should be disabled by default. With this on, it wakes up the screen and is just annoying. Just tell us if there is an actual exposure detected.<br> :date: __2020-12-28 23:31:24__
-
-> Feel it gives me a good comfort level. Am 81 and appreciate any help to stay safe. Blessings.<br> :date: __2020-12-24 22:09:05__
-
-> Finally app is doing constant exposure checks<br> :date: __2020-12-23 04:15:28__
-
 
 
 #### 3-star reviews
@@ -201,6 +201,10 @@ The COVID Alert - Let’s protect each other app has been installed by more than
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="ca.gc.hcsc.canada.stopcovid 3 reviews"/>
 </p>
+
+> My understanding is that THIS app is for Canadians?<br> :date: __2021-02-23 05:51:29__
+
+> The idea of the app is ok, however I think an option that detects home location or to set it to home so it's not constantly using bluetooth would be useful. No houses are close enough to each other here to detect each other's bluetooth. Personally I'm rarely around people without the pandemic and only need it to be on when out.<br> :date: __2021-02-18 17:23:38__
 
 > I've been using this app since it was released. I have to be on wifi or my data for it to do its job. I commute on public transit 45 mins-hour a day. Sometimes I don't pull out my phone to turn on my data and I don't want to run out of data before my bill cycle resets. I look after the elderly.<br> :date: __2021-02-12 18:52:33__
 
@@ -218,10 +222,6 @@ The COVID Alert - Let’s protect each other app has been installed by more than
 
 > Edited: Fixed. To get people to use this is still nearly impossible task and almost most certainly not going to be effective tool in anyway sadly<br> :date: __2021-01-16 11:41:51__
 
-> This is a great idea.Unfortunately, this app drains my battery very fast. I have a newer phone and my battery usually lasts a day and a half with moderate usage. After two days of having the app, I've had to turn off my location and Bluetooth during my work hours to extend my battery to the end of my day. From 8:00am to 11:00am, my battery dropped from 100% to 80% with very little personal usage. With a newer phone, this shouldn't be happening. Before I installed the app, this was not a problem.<br> :date: __2021-01-13 01:27:36__
-
-> Great concept. But 2 things...I wish I had known about it sooner...how many people would comply if they knew it existed. More advertising needed. 2...I never use my location data. I don't believe it's safe. This app should be able to work without it when its bluetooth connected. I read other reviews that said the same, and the answer was it should work without it, u just need the newest version. Well I just downloaded today and it wants my location. I'm not comfortable with that.<br> :date: __2021-01-10 07:38:31__
-
 
 
 #### 2-star reviews
@@ -229,6 +229,12 @@ The COVID Alert - Let’s protect each other app has been installed by more than
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="ca.gc.hcsc.canada.stopcovid 2 reviews"/>
 </p>
+
+> Great idea, but only 5 people in Canada are using it. Canada doesn't know how to reach out to its masses and connect with them on a personal level<br> :date: __2021-02-23 01:23:19__
+
+> Not sure how useful this app is... This app is like the notorious pet rock - either does nothing or appears to do nothing. It would give a better sense of reliability if it reported to me how many other unique devices my phone came in the vicinity of and how many devices are reporting in the preceeding 24h period in my province / city. This app is worse than useless if I am the only one using it in all of Ontario. I'd rather free up space & release the processing power that this app is wasting.<br> :date: __2021-02-18 18:06:07__
+
+> A few things need to change: 1) Allow opt-out of data collection 2) Make all non-exposure notification icons grey. Having a red icon pop up on a regular notification is startling. 3) Show relevant info when tapping a notification about new features. I tapped the one about data collection expecting an explanation but it just opened the app, I had to go to the gov't site and find that info myself.<br> :date: __2021-02-18 06:17:09__
 
 > 1. Don't want to have location on all the time just for this app. My phone, along with many others, can't update to Android 11. 2. Without the app it's 14 days isolation from last contact with a positive case. With the app it's 14 days *from the date you received the notification*. See saskatchewan.ca/covid19-apps . If the website is wrong, get them to fix it. 3. Now the app is collecting a lot more data. They say it isn't tied to your IP but how can you know for sure?<br> :date: __2021-02-12 16:03:16__
 
@@ -244,12 +250,6 @@ The COVID Alert - Let’s protect each other app has been installed by more than
 
 > I have tried to install this app several times. After I log in, I always get a message that "Something went wrong on our end. Please try again."<br> :date: __2021-01-23 15:09:21__
 
-> I dont understand how this will ever work of it keeps turning itself off. I check everyday and have to turn the stupid thing back on.<br> :date: __2021-01-23 00:20:38__
-
-> I no longer have an exposure log in google after recent update. No longer exists to check if the app is checking or not. So I don't know if if the app is working or not. Before the update it checked twice a day. Now ..? I have already said this-reply sent by app developer said to check my exposure log...how when it's not there? I am on Android 11 and app updated few days ago. So now what?<br> :date: __2021-01-21 21:27:19__
-
-> Would be great to use even without data or wifi so I know who is having symptoms of coronavirus. I need to keep myself safe as I am looking after the elderly and disabled.<br> :date: __2021-01-19 08:23:37__
-
 
 
 #### 1-star reviews
@@ -258,24 +258,24 @@ The COVID Alert - Let’s protect each other app has been installed by more than
 <img src="1_star_reviews_wordcloud.png" alt="ca.gc.hcsc.canada.stopcovid 1 reviews"/>
 </p>
 
-> Collecting metrics and privacy does not compute.<br> :date: __2021-02-13 19:55:55__
+> Doesn't alert when exposed to covid positive. False positive exposures when not exposed. Few people actually report a positive to this app. Destroys battery life. Ruins Bluetooth hands-free. What's the benefit of using this app to provide misinformation and false sense of safety to Canadians?<br> :date: __2021-02-23 14:01:38__
 
-> I have been completely unable to turn on any exposure notifications. I have gone through every option in the help menu and nothing works. I tap "enable" and nothing happens. Why? There's no clear explanation as to why... I have a Chinese-made phone and that's the only thing I can think would prevent it from working.<br> :date: __2021-02-13 17:29:03__
+> Collecting data now. Not welcome<br> :date: __2021-02-23 13:56:02__
 
-> does this app work with an iPhone 6? seems like it doesn't, as my partner's iPhone 6 has iOS 12.1.2, this app (in the Apple world) says it needs iOS 14, and after repeatedly trying to update the ios being told can't update on this phone...so, if this is so, why isn't the app made to be more universal, in other words, backwards compatible?<br> :date: __2021-02-13 14:12:16__
+> Not accurate, damnedi f you do and dammed if you don't. I want to keep this installed but lost faith in the accuracy.<br> :date: __2021-02-23 03:13:14__
 
-> The government has dropped the ball on covid.<br> :date: __2021-02-13 07:19:35__
+> I can't believe that the premier of British Columbia still can't get this after work. It's one year later we're still in lockdown and John Horgan can't provide enough data? How can we consider Canada to be an advanced Nation if we can't even use the same app around the country? Absolutely pathetic<br> :date: __2021-02-22 06:13:47__
 
-> Would give it zero stars if possible<br> :date: __2021-02-13 00:23:51__
+> Doesn't work for Alberta?!?! Wth? "Not available for your area" it tells me. Time to move back home to Ont then.<br> :date: __2021-02-21 20:19:35__
 
-> I don't allow Bluetooth access. I also don't allow nearby phone access. That's highly dangerous for hackers to get information.<br> :date: __2021-02-13 00:14:39__
+> Garbage. I'm looking at a Covid case right now and have for the last 8 days. Still no notification. Don't bother.<br> :date: __2021-02-19 03:42:16__
 
-> What an absolute joke of an app<br> :date: __2021-02-12 22:57:09__
+> Absolutely useless. Only checks when you open the the app. Then it checks 14 times in a row.<br> :date: __2021-02-19 03:17:33__
 
-> It keeps telling me to update Google play services, but it won't load to let me do that.<br> :date: __2021-02-12 21:42:21__
+> I wish the app was not optional. The bleeding whiners gleefully provide a lot more (would could be called personal) information already with FB , microsloth, google, and many others, without them being able to provide any personal safety and good health. I wish it was compulsory the same as the amber alert. And have the testing labs require/use it so they can instantly notify anyone. Instead of using resources to try and pry information out of people.<br> :date: __2021-02-18 22:12:40__
 
-> Useless in BC<br> :date: __2021-02-12 21:10:39__
+> I have heard this app is great, but because I live in BC its not active.<br> :date: __2021-02-18 17:22:36__
 
-> Now that the app collects more data and is less private, I will unfortunately have to uninstall it. Too bad, it was well done before. I'll remove it and maybe check into the data details again later. Just saying "while still maintaining your privacy" while they have access to my IP address on a central server is not good enough.<br> :date: __2021-02-12 14:19:54__
+> Really annoying constant updates and can't help but feel they don't care about your privacy<br> :date: __2021-02-17 14:33:02__
 
 

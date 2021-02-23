@@ -199,6 +199,10 @@ The Centura Health Virtual Care app has been installed by more than **10000** ti
 <img src="5_star_reviews_wordcloud.png" alt="org.centura.android.cura.virtualvisit 5 reviews"/>
 </p>
 
+> Always good to visit with the doctor. I like the fact he try's to keep me accountable. I also like that he don't think a pill is the cure all, he always has a natural healthier alternative. Thanks doctor will talk again in a month.<br> :date: __2021-02-19 00:04:46__
+
+> It was great! It's very difficult for me to get out, especially in the snow, so this made seeing my healthcare provider much easier. I also live up in the mountains which makes it hard to reach providers in Colorado Springs or Woodland Park. Having this option will make it easier to keep appointments and avoid canceling or rescheduling appointments.<br> :date: __2021-02-18 23:30:48__
+
 > Excellent!<br> :date: __2021-01-07 20:17:58__
 
 > Easy to communicate<br> :date: __2021-01-05 22:01:46__
@@ -214,10 +218,6 @@ The Centura Health Virtual Care app has been installed by more than **10000** ti
 > AWESOME..GREAT SERVICE PROVIDED FOR HIS PATIENTS!!!<br> :date: __2020-10-22 19:36:47__
 
 > Great<br> :date: __2020-10-20 19:45:17__
-
-> Great experience!<br> :date: __2020-10-19 19:48:37__
-
-> Fabulous<br> :date: __2020-10-15 00:32:39__
 
 
 

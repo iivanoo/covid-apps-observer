@@ -187,6 +187,8 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 <img src="4_star_reviews_wordcloud.png" alt="au.gov.health.covid19 4 reviews"/>
 </p>
 
+> It was a very useful app and did have improvements to it as it has developed<br> :date: __2021-02-17 22:36:04__
+
 > X cn<br> :date: __2020-12-14 05:10:55__
 
 > Great resource for reliable Coronavirus info. Used to be hard to find latest stats in a meaningful format but this seems to have improved<br> :date: __2020-09-08 06:19:23__
@@ -205,8 +207,6 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 
 > Good<br> :date: __2020-05-11 11:25:39__
 
-> I like<br> :date: __2020-05-07 01:23:44__
-
 
 
 #### 3-star reviews
@@ -214,6 +214,8 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="au.gov.health.covid19 3 reviews"/>
 </p>
+
+> Phone needed re booting may have been network issues at least I got to install it this time.<br> :date: __2021-02-21 12:01:40__
 
 > No idea if it works and hope I never find out<br> :date: __2020-10-29 09:53:40__
 
@@ -232,8 +234,6 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 > It hasn't updated. Supposed to update at 9:00 AM daily.<br> :date: __2020-05-14 01:15:17__
 
 > Never have received the pin to open it<br> :date: __2020-05-08 01:20:55__
-
-> Won't download past 97%<br> :date: __2020-05-07 12:21:06__
 
 
 

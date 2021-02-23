@@ -178,25 +178,25 @@ The NowClinic app has been installed by more than **50000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="com.americanwell.android.member.optum 5 reviews"/>
 </p>
 
+> Service was fast and the provider was very knowledgeable. Would definitely recommend them!<br> :date: __2021-02-22 10:03:22__
+
+> Good<br> :date: __2021-02-19 20:47:39__
+
+> Very good! I actually prefer this method to reduce loss of work time. With COVID-19, it has to be the safest method for patients to meet with their health care providers. Thank you Dr Gotardo!<br> :date: __2021-02-19 16:59:11__
+
+> It's most effective<br> :date: __2021-02-18 22:53:01__
+
+> Thank the heavens for this App!<br> :date: __2021-02-18 20:03:32__
+
+> So convienient! I can see the doctor without getting out of bed!<br> :date: __2021-02-18 00:32:39__
+
+> Traditional hospitals are pretty much useless now. I've gotten more help on this app than going in to a physical location.<br> :date: __2021-02-17 23:28:47__
+
+> Amazing<br> :date: __2021-02-17 19:36:07__
+
 > The doctors are very helpful very pleased with the doctors and this service. I'm extremely leery about going to a hospital or urgent care or even a doctor's office right now because of covid-19 this helps extremely in the fact that I can stay home and still see a doctor.<br> :date: __2021-02-13 01:23:25__
 
 > Best THING EVER SEE JERRY NISBET!!!! I REFUSE TONSEE ANY OTHER DR NOW!!<br> :date: __2021-02-11 22:49:43__
-
-> This is an amazing Convenient and Useful Way to Get medical attention 24 hours A-day For myself and my children I would have never ever thought I would use something of the sort to get medical attention Have you seen this service multiple times for myself I also use the service for my two-year-old Baby. and after my visit For myself and my baby I felt satisfied my medical Needs were addressed And properly Cared for and my Prescriptions were sent to the pharmacy of my choice. THANK YOU!<br> :date: __2021-02-11 11:34:33__
-
-> What's perfect thank you<br> :date: __2021-02-11 01:13:51__
-
-> This app was very helpful and the Dr was very nice.<br> :date: __2021-02-10 19:07:17__
-
-> Awesome. Very helpful<br> :date: __2021-02-10 17:27:13__
-
-> Very good people help me alot<br> :date: __2021-02-09 23:31:59__
-
-> Great people! And I didn't even have to leave my house<br> :date: __2021-02-08 08:18:55__
-
-> Great app during this pandemic.<br> :date: __2021-02-07 17:53:47__
-
-> Better than going in<br> :date: __2021-02-06 06:39:45__
 
 
 
@@ -205,6 +205,8 @@ The NowClinic app has been installed by more than **50000** times. At this time,
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.americanwell.android.member.optum 4 reviews"/>
 </p>
+
+> Strange, yet amazing being able to do this virtual visit with my Dr. My wifi isn't the best, reguardless this is much easier, so much more convenient than having to go to the office.<br> :date: __2021-02-16 17:55:44__
 
 > easy to use app. for quick follow-up appointment with the Dr<br> :date: __2021-02-09 17:30:35__
 
@@ -223,8 +225,6 @@ The NowClinic app has been installed by more than **50000** times. At this time,
 > Very easy to use but sound was breaking up toward the end of the visit.<br> :date: __2020-10-16 01:17:57__
 
 > Difficult to load app.<br> :date: __2020-10-14 20:44:24__
-
-> Easy quick<br> :date: __2020-09-26 00:52:58__
 
 
 
@@ -274,6 +274,8 @@ The NowClinic app has been installed by more than **50000** times. At this time,
 <img src="1_star_reviews_wordcloud.png" alt="com.americanwell.android.member.optum 1 reviews"/>
 </p>
 
+> This app is terrible. I didnt used to have problems with it but the last 2 times have been a nightmare. The doctors werent able to connect, 1 had to call me and for the other the app stated that my appointment had finished even though it never connected me to the doctor.<br> :date: __2021-02-22 22:33:48__
+
 > Worst app that I have ever used. It can't connect properly to my insurance on every visit and their personnel don't seem to actually know how to fix the situation each time that I have tried to use it. Also, the damn thing will suddenly kick you off of the appointment while you're waiting once you give up on getting a free appointment and pay for it. Don't use this unless they fix their massive problems. This thing is a mess!<br> :date: __2020-12-06 17:44:15__
 
 > Didn't cancel appointment I canceled, cannot maneuver to find covid test results, but liked my physician on 3/31<br> :date: __2020-08-03 21:55:38__
@@ -291,7 +293,5 @@ The NowClinic app has been installed by more than **50000** times. At this time,
 > It doesn't open 😠 I've tried and tried and nothing!!<br> :date: __2020-04-12 03:17:30__
 
 > Why, oh why...when I do my initial login, after the app sends me an email verification code, does the app kick me back to the initial login screen when I switch my phone screen to said email to obtain said verification code, thereby invalidating the aforementioned verification code? When I put my credentials back in, I am sent a new verification code. Rinse, lather...repeat... Will I ever be able to login without requiring a secondary device just to check my email???<br> :date: __2020-04-04 03:09:35__
-
-> Tried to call customer service and after 30 minutes listening to the elevator music and please hold on I decided that I want a more responsive experience. They suck!<br> :date: __2020-03-31 01:20:18__
 
 

@@ -141,6 +141,16 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="gov.pa.covidtracker 5 reviews"/>
 </p>
 
+> Great job.<br> :date: __2021-02-23 03:29:34__
+
+> This is a very useful app, easy read & helps inform everybody aware of anything old & new about COVID, ESP. since it is such a very deadly disease striking everybody in it's parh in many horrible ways & symptoms, & sadly death. God Bless🙏🏿<br> :date: __2021-02-17 01:36:20__
+
+> So much information that you need to know it's a good app<br> :date: __2021-02-14 23:45:37__
+
+> Very satisfied<br> :date: __2021-02-14 02:48:57__
+
+> It's letting me know what is going on.<br> :date: __2021-02-13 21:56:31__
+
 > Thx..Be safe with this app<br> :date: __2021-02-12 22:23:33__
 
 > (Hopefully) keeping us safe. Contains COVID stats so useful even when you're not putting yourself at risk. Refreshingly well-designed for a gov't app. I never got an alert so I don't know how well the COVID tracing works.<br> :date: __2021-02-10 18:36:54__
@@ -150,16 +160,6 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 > Great idea<br> :date: __2021-02-02 00:03:25__
 
 > PA, use it to keep yourself and others safe.<br> :date: __2021-01-31 19:54:50__
-
-> I believe this helps<br> :date: __2021-01-30 14:26:08__
-
-> Great App,better then the whole state's efforts witch have been an embarrassment for the State.What terrible job theyre doing.embarrassed to be an American now.Thanks Trump and all his not so smart followers.We wouldn't be in this situation if not for Trump and his small minded supporters and Hate groups.Thanks a lot for ruining our country!<br> :date: __2021-01-29 09:58:14__
-
-> Great App!<br> :date: __2021-01-26 20:35:40__
-
-> Glad We have the app.For Safety.<br> :date: __2021-01-22 14:51:04__
-
-> This apps information about covid<br> :date: __2021-01-21 09:27:47__
 
 
 
@@ -253,6 +253,16 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="gov.pa.covidtracker 1 reviews"/>
 </p>
 
+> This is a placebo people.. this app is bs and just giving them easy access to your location. It doesn't tell you anything valuable at all.<br> :date: __2021-02-23 04:53:07__
+
+> The app itself is decent however it will only work when the County department of health is willing to work with it. I recently got diagnosed with covid and has been almost a week for a call with the validation code for the app.<br> :date: __2021-02-21 23:07:20__
+
+> After Reading All The Ratngs Nope<br> :date: __2021-02-20 15:35:32__
+
+> Gave phone virus<br> :date: __2021-02-16 13:14:34__
+
+> Besides the fact that the app is not that great, in no way do I trust The People's Republic of Pennsylvania. I guess their drones in the sky constantly watching us weren't enough. Now they want to use our phones to track us better. I'd like to believe this is to help with COVID but my gut tells me otherwise.<br> :date: __2021-02-14 04:21:03__
+
 > What a joke, I have been around plenty of people with COVID and was never notified<br> :date: __2021-02-04 14:20:02__
 
 > Does not work. Health department does not have a code for you to enter, for tracking.<br> :date: __2021-02-01 20:30:11__
@@ -262,15 +272,5 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 > Ok your app not far I am Mexican and u do not have the button. U need to fix<br> :date: __2021-01-31 20:50:20__
 
 > Baaaaaaaaaaahhhhaaaahhh 🐑<br> :date: __2021-01-29 20:54:03__
-
-> I have not received any notifications from this app... Unstalling<br> :date: __2021-01-27 19:49:23__
-
-> Doesn't work if no one uses it. I've been around people who tested positive and never got notified. Just a waste of battery power leaving my unused Bluetooth on.<br> :date: __2021-01-26 21:41:22__
-
-> Save your time & storage space, it doesn't work. I received a call today as a follow-up to my quarantine. "What quarantine?" I ask. It appears that I was exposed to COVID-19 on Jan 7. I should have been notified to quarantine. Only, the entire system failed. 1. Employer never notified me of an exposure. 2. PA Department of Health never notified me of an exposure until 3 days AFTER quarantine ended. 3. App with exposure alert on did nothing! Waste of time. #NoConfidence #SystemIsBroken<br> :date: __2021-01-21 00:07:51__
-
-> Only works to notify you if someone voluntarily enters they have covid into the app. Useless if people aren't updating it themselves.<br> :date: __2021-01-20 22:09:21__
-
-> Never got any alerts, and when I had covid for a couple weeks they never gave me a code even after calling in to request it (they were supposed to reach out, never happened). Don't trust this app to alert you, chances are most people never got a code.<br> :date: __2021-01-18 21:50:44__
 
 

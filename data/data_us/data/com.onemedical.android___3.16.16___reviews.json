@@ -1,5 +1,65 @@
 [
     {
+        "reviewId": "gp:AOqpTOFYos4AtB_cIwjW6od87f5DnTr0fgysK3lkUkmRKc-6665HSbU8pgPeirH3TDQKolSARS9FPJznQ0MdeNo",
+        "userName": "Marc Moga",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi0HDcr9NWNBwr5WCUi87BRidc3fTW4envf8V2C628",
+        "content": "Latest update made it so I can't select the PDF message from my covid survey to send to work",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.16.17",
+        "at": "2021-02-23 15:59:26",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGVkvD_qVqr0uV4RG0LXuTG8pso6V2SjWfcwN3AbR-2E46y-5m3RFja37GuzgLhcBauD-wieM9rZwID1aY",
+        "userName": "Nicholas James",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GisqoXlY6MOzUwG7iEx98nl-1cERG0QXSKb-IcCCQ",
+        "content": "The only way to update your insurance info is with the camera. However it doesn't let you focus so that you can read the insurance card text.",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.16.16",
+        "at": "2021-02-21 19:49:08",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHlyG4BdG54q6bi2a19gIs5-wFvMJMKNjUTGYjtxiNmIQeplN8_wXRIupKi1-lGhDYKMo2E3e5K4bz36HA",
+        "userName": "Ernest Simms",
+        "userImage": "https://play-lh.googleusercontent.com/-ZObSYMprV1Q/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckwvrT7RaRcB7vJs6LK9J7jylcJLw/photo.jpg",
+        "content": "Easier than the Dept of Health portal. Got more progress in 2 days than 1 month before.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.16.16",
+        "at": "2021-02-21 18:38:19",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOG18-hWHd-F9zhL-Eke-KHhkQi_WUoYjplM4_bxWmen65rmuo47hAZfHEMwdQixPahmPyYz7rIKIF5Uipo",
+        "userName": "Ryu",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiAwC8cdGCUn7y95BaqnABMIm8wykkmyiTdL6Wy2qg",
+        "content": "The video chat feature connects you to a medical personnel immediately. We found this extremely useful.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.16.16",
+        "at": "2021-02-19 18:44:18",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGalfIFH4XgdaPIc-3r56e-DlkrUYWpEu63bZsxVNvfQycxGOVz2DINiz8Rls5aG0_DJcjw2GcN_i2UmK8",
+        "userName": "Sarah Schwanbeck",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ghb9o5yFMpacYqKVXge2zlvuOkNL1ACv7U5Rnu9pQ",
+        "content": "Everything works as expected",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.16.16",
+        "at": "2021-02-19 01:54:16",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOHF0j3RJqVsltYoRsUaLpKqM5tGXgstpn8FZNEjcAp7JlU8ZK9bIX1S3LYgS0scwVpvL0xQ9RUsb7tiE3k",
         "userName": "Judith Nemzer",
         "userImage": "https://play-lh.googleusercontent.com/-gSlbGAoJhXE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclkSMoPRI8eHVWqsUrYDAIMct5fmQ/photo.jpg",
@@ -1153,8 +1213,8 @@
     },
     {
         "reviewId": "gp:AOqpTOG6rCZEHfE-1HZBZEemrDZwaQjRyBx8ktTlBczL5In_QwHzxco-GICEZ2WsNuXhcrltVhUwiyIKxw8kDtM",
-        "userName": "Wanda Merchant-Dung",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gix_tZMn5L_JrCXacp3r7_neaTvtx4tyHZILvBh7Gc",
+        "userName": "Wanda Sue Merchant-Dung",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhRLnGaQRxgk5NPXU8DsvvuAZ6igA_UqYTwj7dGGGQ",
         "content": "Google Play Store shows this app as INSTALLED on my A20 Galaxy Android phone, yet it is NOT installed.?????!!!!",
         "score": 1,
         "thumbsUpCount": 0,

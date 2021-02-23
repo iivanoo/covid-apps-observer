@@ -186,6 +186,12 @@ The myColorado app has been installed by more than **10000** times. At this time
 <img src="5_star_reviews_wordcloud.png" alt="com.soc.mycolorado 5 reviews"/>
 </p>
 
+> Good app to keep important vehicle papers<br> :date: __2021-02-23 04:19:15__
+
+> Easy to do<br> :date: __2021-02-22 01:13:30__
+
+> Really sharp and innovative, the app to use for our now generation. Still loving it.<br> :date: __2021-02-20 19:28:40__
+
 > Very easy had no problems at all, very cool, good bye wallet:)<br> :date: __2021-02-11 06:47:10__
 
 > This APP literally just saved my life....thank you State of Colorado for making our tax dollars work for the people. Wyatt Selle<br> :date: __2021-02-11 04:02:06__
@@ -200,12 +206,6 @@ The myColorado app has been installed by more than **10000** times. At this time
 
 > Great!! Fast and easy!!<br> :date: __2021-02-01 22:47:37__
 
-> It's been a great app haven't had any problems<br> :date: __2021-02-01 19:39:01__
-
-> Great idea. Very convenient. It was so incredibly easy to set up and no hassle from the merchant accepting the digital ID. They seemed relieved that I had digital ID.<br> :date: __2021-01-31 06:54:12__
-
-> My license expired and I renewed on line, but had not received my new card. This app allowed me to have a picture ID accepted almost everywhere in Colorado, while I waited for my new license. Note that some places with age restricted products, as well as airport security, do not accept this digital ID so call before you go if it's your only option. Cool links to frequently used services are on the app. So far no technical hiccups and it has saved the day on many occasions. Highly recommend!<br> :date: __2021-01-28 00:45:56__
-
 
 
 #### 4-star reviews
@@ -213,6 +213,16 @@ The myColorado app has been installed by more than **10000** times. At this time
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.soc.mycolorado 4 reviews"/>
 </p>
+
+> Works well. Good list of resourses<br> :date: __2021-02-21 23:45:41__
+
+> Very innovative app, works way better than when fist released. I do have two issues with the app. 1) The login process is required too many times and can be a tedious & lengthy process. Often verification code needs to be resent more than once. 2) Many businesses do not accept the digital ID due them not having a compatible POS - so they can't scan it. Furthermore, the lack of awareness about that ID is by far the biggest flaw. Awareness by the businesses needs to be ramped up.<br> :date: __2021-02-21 15:50:58__
+
+> Very practical<br> :date: __2021-02-18 00:31:00__
+
+> The app is great and is very convenient specially sens you don't ever go anywhere with out our phones so you always have your id with you this way! I just wish you were able to use it at more places and able to use it to cash checks and wat not but besides those few things it's an amazing idea thanks alot<br> :date: __2021-02-14 06:06:20__
+
+> Prizon Free..as in not anymore.m..<br> :date: __2021-02-13 21:38:38__
 
 > Love it<br> :date: __2021-02-02 18:16:54__
 
@@ -223,16 +233,6 @@ The myColorado app has been installed by more than **10000** times. At this time
 > Good<br> :date: __2020-12-11 15:53:14__
 
 > Tricky to get set up but after that works like a charm<br> :date: __2020-12-02 23:26:24__
-
-> Had a couple issues trying to figure out what to do at first, but I figured it out.<br> :date: __2020-12-01 23:17:23__
-
-> A ways to go but a great start. The login process could be smoother, takes a bit to get in so log in before you need it. The image is a bit stretched in the app vs your id card. Lastly, I wish they did more education to businesses so they understand this is a legal version of identification.<br> :date: __2020-11-07 05:06:04__
-
-> *update* changed review from 1 to 4 stars. After failed attempts to load, contacted support team and it loaded perfectly. Not convenient that, but yes loaded. Has worked great since. Used ID to get fishing license no prob. Used for other times no prob In state. Not used a lot, but nice when I have.<br> :date: __2020-10-26 15:59:26__
-
-> Works well, wish it had more resource information available<br> :date: __2020-10-15 20:19:38__
-
-> Love the digital ID. More business need to accept it.<br> :date: __2020-09-19 23:54:56__
 
 
 
@@ -298,6 +298,12 @@ The myColorado app has been installed by more than **10000** times. At this time
 <img src="1_star_reviews_wordcloud.png" alt="com.soc.mycolorado 1 reviews"/>
 </p>
 
+> Everytime i try to setup my account i scan the back of my DL and then the app crashes.<br> :date: __2021-02-22 17:40:53__
+
+> Horrible<br> :date: __2021-02-19 18:15:50__
+
+> Too much log in 2 factor authentication my phone has a code why my wallet in my pocket doesn't need a password stupid security<br> :date: __2021-02-17 23:47:53__
+
 > Pretty useless. Immediately upon installing and creating the account I'm already getting a message that user name and password are incorrect. Complete waste of time.<br> :date: __2021-02-11 18:37:05__
 
 > Horrible. I'd give you negatives if I could.<br> :date: __2021-02-11 00:57:16__
@@ -311,11 +317,5 @@ The myColorado app has been installed by more than **10000** times. At this time
 > App barely works<br> :date: __2021-01-27 02:09:54__
 
 > Junk. It doesn't validate any information. Uninstalling<br> :date: __2021-01-23 01:48:13__
-
-> This app is ridiculous. I keep installing it over and over and over and over again and restarting my phone over and over and over and over again and everytime I try to scan my ID the app crashes. This is beyond frustrating I don't see why I can't just physically enter in my information this is so stupid.<br> :date: __2020-12-24 00:50:17__
-
-> Wont download<br> :date: __2020-12-23 06:08:34__
-
-> Freezes the phone and crashes every time it tries to get a face map after log in. I still have yet to actually USE the app, so bye-bye<br> :date: __2020-12-20 15:54:45__
 
 

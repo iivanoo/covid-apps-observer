@@ -160,6 +160,8 @@ The TreCovid19 app has been installed by more than **1000** times. At this time,
 <img src="2_star_reviews_wordcloud.png" alt="eu.fbk.trec.apps.covid 2 reviews"/>
 </p>
 
+> Con il mio pixel si continua a bloccare<br> :date: __2021-02-16 19:46:50__
+
 > Continua a impiantarsi<br> :date: __2021-01-27 20:08:07__
 
 
@@ -167,7 +169,9 @@ The TreCovid19 app has been installed by more than **1000** times. At this time,
 #### 1-star reviews
 
 <p align="center">
-
+<img src="1_star_reviews_wordcloud.png" alt="eu.fbk.trec.apps.covid 1 reviews"/>
 </p>
 
-No recent reviews available with 1 stars.
+> si blocca sempre!<br> :date: __2021-02-22 21:48:06__
+
+

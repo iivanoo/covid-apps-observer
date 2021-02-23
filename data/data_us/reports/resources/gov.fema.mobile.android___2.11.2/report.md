@@ -163,7 +163,17 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 <img src="5_star_reviews_wordcloud.png" alt="gov.fema.mobile.android 5 reviews"/>
 </p>
 
-> Update: I do not like this 'other language' just showing up in the app! Why did this start today? Great app! The only thing is, I wish it had a share button to send the Alerts to family & friends. Thank you for adding the share button!<br> :date: __2021-02-13 05:55:44__
+> Awesome<br> :date: __2021-02-21 15:38:49__
+
+> 💙💯⚖️🕕✔️🇺🇸 To USA<br> :date: __2021-02-21 09:19:48__
+
+> I always have up to date information on the weather. This App appears to be the most accurate as well.<br> :date: __2021-02-19 02:00:42__
+
+> Very helpful to offer an app like this, thanks FEMA<br> :date: __2021-02-18 05:38:43__
+
+> I thoroughly enjoy this app! Up to date on active warnings - unlike other local weather apps!<br> :date: __2021-02-16 21:39:18__
+
+> Great app! The only thing is, I wish it had a share button to send the Alerts to family & friends. Thank you for adding the share button!<br> :date: __2021-02-15 15:49:44__
 
 > Great app for weather notifications<br> :date: __2021-02-09 23:30:39__
 
@@ -172,16 +182,6 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 > Well worth the download, great and timely information.<br> :date: __2021-01-29 06:14:11__
 
 > Works great thank you for this !!<br> :date: __2021-01-23 20:10:09__
-
-> Awesome<br> :date: __2021-01-22 23:23:17__
-
-> FEMA Student Learning Everything I Can As Chapter Leader Of Cortland, Ohio @ActforAmerica #NationalSecurity Totally Rocks My Love For Law Started After 9/11 I'm Greatful To God For Google And Twitter And FB For Standing Up For America Thank you! God Bless You Always My Family For Life As An African American I'm Proud To Be A Real Patriot I #BackTheBlue My Hubby Started Me In Law Enforcement He's Been In There 9-1/2 I Guarded Banks A Rewarding Feeling Protecting People And This Amazing Country<br> :date: __2021-01-20 23:41:06__
-
-> Great app, thanks<br> :date: __2021-01-19 07:43:50__
-
-> help me<br> :date: __2021-01-17 23:49:36__
-
-> Excellent ! I have used this app for years now and found it to be very reliable. Easy to use and provides official helpful information when needed. It has user selectable notifications for everything. It works as described by developer. Great app to have to stay informed !<br> :date: __2021-01-17 21:09:09__
 
 
 
@@ -219,6 +219,8 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 <img src="3_star_reviews_wordcloud.png" alt="gov.fema.mobile.android 3 reviews"/>
 </p>
 
+> Works, but it keeps announcing the same alerts over and over, almost to the point of harassment! Also, the developer evidently does not read user comments, because they have not replied to any, a lot of which contain very good suggestions.<br> :date: __2021-02-15 21:07:44__
+
 > Downloaded b/c we live in the country and cant hear sirens. Ive been getting notifications of weather advisories, but not able to read what, theres nothing there<br> :date: __2021-02-08 19:56:35__
 
 > Not much exposure.<br> :date: __2021-01-13 02:03:49__
@@ -237,8 +239,6 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 
 > Difficult to navigate and doesn't provide info I expected<br> :date: __2020-09-06 08:45:22__
 
-> The type is thinner and less legible with this update. The unnecessary style change reduces its usefulness to me. Plus, I have not received alerts about the smoke in my area or the fires near me although I specified that in the settings. So I uninstalled it.<br> :date: __2020-08-21 06:13:51__
-
 
 
 #### 2-star reviews
@@ -255,8 +255,6 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 
 > Was a great App, then started sending multiple alerts one after another. Now I get NO alerts at all. If I click on Alerts, click my city, it takes me to settings. I wrote you about it, you sent an email telling me to restart because you fixed a bug on the 4th. It is now the 14th. I've done as you said, even uninstalled and reinstalled several times. I still get no alerts and when I click my city, it still takes me to settings. I loved your App, it's a shame it no longer functions correctly.<br> :date: __2021-01-14 21:54:56__
 
-> Into a busy season and it's worse. Even after clearing cache, rebooting phone, etc still getting multiples of same exact alerts and several alerts with little or no lead time and now (once again) many - almost 40% - warnings with no info at all or nothing updated in the alert information. That's probably FEMA but still seriously downgrades usefulness. So problematic that other weather apps are needed for safety.<br> :date: __2021-01-06 13:09:50__
-
 > Super irregular performance and notifications. I cannot rely on this for requested information or results<br> :date: __2020-12-12 02:22:01__
 
 > Need more control over types of alerts. Don't need to be woken from deep sleep at 3 am for fog warning, for instance. Fog won't harm me when safe in bed in sturdy house unless I hurt myself being startled in my sleep by loud notification.<br> :date: __2020-11-29 09:17:51__
@@ -267,6 +265,8 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 
 > What is it with this app. I've.been trying to download it for three days how long does it take to for it to download .we are about to be hit with a hurracain.this is messed.up<br> :date: __2020-08-23 03:40:24__
 
+> This app did not help me.<br> :date: __2020-06-19 19:14:29__
+
 
 
 #### 1-star reviews
@@ -274,6 +274,10 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="gov.fema.mobile.android 1 reviews"/>
 </p>
+
+> I am deleting this app. I get 6 or more notifications a day when we are getting 2-4 inches of snow. It wakes me in the middle of the night to update when I have already recieved the same notification before. It's too bad, I liked getting the bitter windchill warning. If the weather was serious it would be fine but I don't consider 4 inches of snow a blizzard.<br> :date: __2021-02-22 00:50:48__
+
+> Into a busy season and it's worse (after weather alert this morning there have been at least 5 false/blank alerts). Even after clearing cache, rebooting phone, etc still getting multiples of same exact alerts and several alerts with little or no lead time and now (once again) many - almost 40% - warnings with no info at all or nothing updated in the alert information. That's probably FEMA but still seriously downgrades usefulness. So problematic that other weather apps are needed for safety.<br> :date: __2021-02-15 23:00:29__
 
 > I just installed this. I hope it works as it should because my phone has been modified to stop me from receiving ANY Emergency alerts. (I believe that's illegal.) I am so desperate to receive Emergency Alerts that I'm downloading an outside app for it!<br> :date: __2021-02-13 17:10:52__
 
@@ -290,9 +294,5 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 > Share doesn't work!!!! UNINSTALLED the junk app<br> :date: __2020-11-01 13:09:50__
 
 > Zeta not an option to qualify for assistance!<br> :date: __2020-10-31 05:39:11__
-
-> Poorly targeted and poorly timed notifications that are sent during normal sleep hours - make it necessary to use device settings to stop all notifications from this app. Insufficient app based management of notifications.<br> :date: __2020-10-28 10:43:34__
-
-> IDK BUCK<br> :date: __2020-10-26 22:39:34__
 
 

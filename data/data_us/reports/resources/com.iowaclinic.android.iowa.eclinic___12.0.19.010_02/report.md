@@ -178,6 +178,8 @@ The Virtual Care The Iowa eClinic app has been installed by more than **1000** t
 <img src="5_star_reviews_wordcloud.png" alt="com.iowaclinic.android.iowa.eclinic 5 reviews"/>
 </p>
 
+> Once I figured this out the first time I used it this app worked wonderfully!<br> :date: __2021-02-16 20:43:08__
+
 > Very clear n understanding for everyone<br> :date: __2020-12-15 21:26:23__
 
 > It was awesome<br> :date: __2020-12-14 23:10:23__
@@ -195,8 +197,6 @@ The Virtual Care The Iowa eClinic app has been installed by more than **1000** t
 > Thank you Cassie<br> :date: __2020-10-27 19:57:56__
 
 > Fantastic<br> :date: __2020-09-23 14:59:10__
-
-> Sofar so good. Just started using app.<br> :date: __2020-09-01 20:22:20__
 
 
 

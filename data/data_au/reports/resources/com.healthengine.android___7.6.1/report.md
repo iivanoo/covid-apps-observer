@@ -174,25 +174,25 @@ The HealthEngine app has been installed by more than **500000** times. At this t
 <img src="5_star_reviews_wordcloud.png" alt="com.healthengine.android 5 reviews"/>
 </p>
 
-> Awesome and convenient<br> :date: __2021-02-13 08:04:24__
+> Easy to use. Very helpful<br> :date: __2021-02-23 03:18:27__
 
-> So easy to use and very convenient<br> :date: __2021-02-13 00:55:59__
+> Quick and easy<br> :date: __2021-02-23 00:09:10__
 
-> So easy to use and book appointments<br> :date: __2021-02-12 05:39:36__
+> I feel like I can be my own receptionist. Feels free, thank you<br> :date: __2021-02-21 22:16:44__
 
-> Fantastic a real time saver<br> :date: __2021-02-12 05:20:58__
+> Great and easy<br> :date: __2021-02-21 17:54:18__
 
-> Easy to use<br> :date: __2021-02-11 16:21:33__
+> So easy to use..<br> :date: __2021-02-21 07:37:02__
 
-> Really good<br> :date: __2021-02-11 05:45:19__
+> Very convenient for making appointments...good way to get messages from your medical practice regarding follow-up appointments etc...<br> :date: __2021-02-20 05:21:11__
 
-> Very useful helps book appointments without the need to fill in all your details every time or call and speak to someone.<br> :date: __2021-02-11 02:20:44__
+> Excellent<br> :date: __2021-02-20 03:31:13__
 
-> Ok<br> :date: __2021-02-11 02:04:37__
+> Very quick response<br> :date: __2021-02-19 01:30:32__
 
-> Great App, Super Easy to Navigate. Makes Booking Doctor's Appointments So Much Smoother and Easier !!!<br> :date: __2021-02-09 23:06:41__
+> Easier than calling for appointment i love this app<br> :date: __2021-02-18 06:14:56__
 
-> Amazing hassle free<br> :date: __2021-02-08 16:09:30__
+> Easy to book in<br> :date: __2021-02-18 05:43:06__
 
 
 
@@ -201,6 +201,14 @@ The HealthEngine app has been installed by more than **500000** times. At this t
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.healthengine.android 4 reviews"/>
 </p>
+
+> Works well, some mirror problems. These are other patient problems. Booking and not showing. Doctor now rings to confirm. This in itself makes the system a wast of time, I might as well just ring.<br> :date: __2021-02-23 00:34:58__
+
+> I took 1 star off because I can't add my dental clinic into it, other than that, it's great, Thankyou<br> :date: __2021-02-21 15:25:45__
+
+> It was quite good letting me know where closest GP is or small healthcare clinic is. Also let's me see the pictures and name of f all the doctors at the GP clinics or medical centres<br> :date: __2021-02-18 10:01:22__
+
+> So easy to use to make appointments love this app.<br> :date: __2021-02-17 13:28:22__
 
 > Easy to use and great 😊<br> :date: __2021-02-11 07:06:39__
 
@@ -213,14 +221,6 @@ The HealthEngine app has been installed by more than **500000** times. At this t
 > Good app works really well<br> :date: __2021-02-09 08:41:11__
 
 > Convenient way to book appointments without having to call a practice. The only downside is that search filter options could do with some improvement.<br> :date: __2021-02-09 00:18:24__
-
-> Good only had to scroll down to find next step made it confusing<br> :date: __2021-02-08 22:01:44__
-
-> I have been using this app for a while and it is so much better and quicker than contacting the medical practice via phone. Possible improvements: it would be great if there was a way to communicate through the app with the medical clinic to request longer appointments for example. It would also be handy to be able to change the type of appointment, for example changing from a standard consultation to a tlehealth one.<br> :date: __2021-02-02 13:52:23__
-
-> The app is easy to use and generally very useful. The addition of being able to add the scheduled appointment to Google Calendar has proven useful. Also fixed the DOB entry method. It is much easier. If I get a recall that says "select Results in the appointment type" but there is no "Results" type so I have to pick "General appointment". Also when checking a recall notice online you have to verify your date of birth with a calendar.<br> :date: __2021-02-01 02:46:48__
-
-> Easy and efficient, though I still enjoy phone calls and speaking to a human more.<br> :date: __2021-01-27 01:39:22__
 
 
 
@@ -275,8 +275,6 @@ The HealthEngine app has been installed by more than **500000** times. At this t
 > This app used to be great, then the developers got greedy and it has become useless. I am completely unable to book my regular doctor through this app, I apparently don't meet the "criteria " so I now have to phone the practice directly. The app is to busy asking you questions so they can cross sell products. Bin it and start again guys.<br> :date: __2020-08-13 01:01:29__
 
 > This app crashes almost every time when I open it. This happened after the new update. Please fix the issue<br> :date: __2020-08-08 03:46:13__
-
-> App crashes since updated last night Have uninstalled it and reinstalled and the issue is still happening on my Samsung S9 it was perfectly fine earlier on this week before this latest update<br> :date: __2020-07-30 06:41:19__
 
 
 

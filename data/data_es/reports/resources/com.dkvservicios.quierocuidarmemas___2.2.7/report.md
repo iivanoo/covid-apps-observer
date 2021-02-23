@@ -217,6 +217,14 @@ The DKV Quiero cuidarme Más: tu salud y médicos online app has been installed 
 <img src="5_star_reviews_wordcloud.png" alt="com.dkvservicios.quierocuidarmemas 5 reviews"/>
 </p>
 
+> Pues la verdad que soy nueva en esto pero la carpeta salud de mi hijo no se abre por lo cual no puedo entrar para ver las recetas Muchas gracias<br> :date: __2021-02-23 15:19:35__
+
+> Buen trato<br> :date: __2021-02-22 15:24:35__
+
+> De momento genial<br> :date: __2021-02-22 11:51:14__
+
+> Una buena herramienta para acercar la salud<br> :date: __2021-02-16 18:39:27__
+
 > Muy buena<br> :date: __2021-02-13 19:22:45__
 
 > Muy buena aplicación pedir citas y ponerte en contacto con médicos que te den recetas y consejos<br> :date: __2021-02-11 19:57:13__
@@ -228,14 +236,6 @@ The DKV Quiero cuidarme Más: tu salud y médicos online app has been installed 
 > Genial, necesitaba una opinión médica y de un día para otro ya estaba consultando o line<br> :date: __2021-01-21 10:17:21__
 
 > Excelente servicio<br> :date: __2021-01-18 12:18:54__
-
-> Disculpen por las molestias, porque ya me resolvieron el problema desde allá directamente.Muchas Gracias.<br> :date: __2021-01-15 10:59:32__
-
-> Buena y util consulta medica<br> :date: __2021-01-14 16:18:41__
-
-> Con el tema de confinamiento he podido consultar y tranquilizarme cada vez que he presentado sintomas por covid19, muy contento<br> :date: __2021-01-11 21:52:10__
-
-> Mui util<br> :date: __2021-01-06 14:16:46__
 
 
 
@@ -272,8 +272,6 @@ The DKV Quiero cuidarme Más: tu salud y médicos online app has been installed 
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="com.dkvservicios.quierocuidarmemas 3 reviews"/>
 </p>
-
-> Pues la verdad que soy nueva en esto pero la carpeta salud de mi hijo no se abre por lo cual no puedo entrar para ver las recetas<br> :date: __2021-02-06 11:24:21__
 
 > Da error 3000 al intentar subir archivos a la app<br> :date: __2021-01-13 15:20:20__
 
@@ -319,6 +317,10 @@ The DKV Quiero cuidarme Más: tu salud y médicos online app has been installed 
 <img src="1_star_reviews_wordcloud.png" alt="com.dkvservicios.quierocuidarmemas 1 reviews"/>
 </p>
 
+> La forma de buscar médico y seleccionar es muy mala, la de Mapfre funciona mejor, saludos<br> :date: __2021-02-19 00:17:39__
+
+> Se bloquea al poner el correo y la contraseña. Tuve que llamar para que me lo desbloquearan. Y otra vez mo pude entrar, se volvio a bloquear y la tuve que desinalar.<br> :date: __2021-02-14 23:22:19__
+
 > No me deja hacer nada, no tengo donde añadir mi tarjeta, ni el cuadro médico....nada....solo tengo una pantalla, cuando me consta que tiene que haber más....<br> :date: __2021-02-10 00:05:53__
 
 > Llevo toda la tarde intentando descargarla y no hay forma, vuelve a empezar una y otra vez. Ya la tuve que desistalar hace tiempo porque no funcionaba. Llamas al telefono que te dan de soporte 9300..... y nada que mandes correo electronico. Desastrosa la aplicación y la atención.<br> :date: __2021-02-04 18:27:25__
@@ -334,9 +336,5 @@ The DKV Quiero cuidarme Más: tu salud y médicos online app has been installed 
 > Los médicos son monosílabos. Te responden escuetamente por chat sin aconsejarte nada y tardan 15 min. en atenderte.<br> :date: __2021-01-28 11:50:40__
 
 > La anterior app que tenía ya era muy mala, pero esta directamente se bloquea en cuanto pongo usuario y contraseña. He probado reiniciando y reinstalando y nada. No puedo ni entrar a la app.<br> :date: __2021-01-23 13:37:07__
-
-> fatal<br> :date: __2021-01-21 14:17:00__
-
-> Al registrarme pongo mi fecha de nacimiento y la app pone otra distinta, luego quiero modificarla y no me deja.<br> :date: __2021-01-21 11:16:33__
 
 

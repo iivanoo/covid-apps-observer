@@ -202,6 +202,10 @@ The Penn State Health OnDemand app has been installed by more than **10000** tim
 <img src="5_star_reviews_wordcloud.png" alt="org.pennstatehealth.android.pshh.ondemand 5 reviews"/>
 </p>
 
+> This app made my visit easy. It was like being in the office. I will use it again.<br> :date: __2021-02-19 19:16:34__
+
+> I was very pleased with the quality of my MD appointment. Got great advise and counseling<br> :date: __2021-02-16 17:14:56__
+
 > Good experience. Excellent video and sound.<br> :date: __2021-02-11 22:06:45__
 
 > App worked flawlessly. Excellent !!!<br> :date: __2021-02-04 19:24:15__
@@ -217,10 +221,6 @@ The Penn State Health OnDemand app has been installed by more than **10000** tim
 > I like it<br> :date: __2021-01-26 14:47:12__
 
 > Lets just say that I am an "older" person that at times has some difficulty with computers. This app was easy to work through and my video appointment went very well. Thanks Russ Miller<br> :date: __2021-01-25 19:51:29__
-
-> Great<br> :date: __2021-01-25 14:57:11__
-
-> Always a pleasant visit with Dr Gomaa.and staff all are great<br> :date: __2021-01-22 16:30:45__
 
 
 
@@ -258,6 +258,8 @@ The Penn State Health OnDemand app has been installed by more than **10000** tim
 <img src="3_star_reviews_wordcloud.png" alt="org.pennstatehealth.android.pshh.ondemand 3 reviews"/>
 </p>
 
+> Make sure nothing else is connected to your phone via Bluetooth BEFORE you start the visit or you won't be able to hear the doctor very well! This has happened a few times and once the volume of the other person is low there is nothing more you can do so the doctor gets a lovely view of my ear on the camera because I am trying to hear them! It is really hard for me to remember to shut off my Bluetooth before I go into the app and this has been a big disappointment using the app.<br> :date: __2021-02-16 20:29:15__
+
 > Okay. It was a dr app.<br> :date: __2020-12-17 21:45:53__
 
 > It's great - when it works.<br> :date: __2020-11-18 16:55:44__
@@ -288,6 +290,8 @@ The Penn State Health OnDemand app has been installed by more than **10000** tim
 <img src="1_star_reviews_wordcloud.png" alt="org.pennstatehealth.android.pshh.ondemand 1 reviews"/>
 </p>
 
+> Keeps crashing. After I enter login and password, app closes. When it does open, unable to book appointment. After I select the available time slot, an error message pops up stating that "time is no longer available".<br> :date: __2021-02-16 01:17:04__
+
 > Very unsatisfied, how can you see a child's throat through a damn phone camera, I'll never even go to that doctor's office again<br> :date: __2020-10-29 11:47:46__
 
 > Keeps crashing, but even when it does work, the UI is terrible.<br> :date: __2020-09-26 16:03:55__
@@ -305,7 +309,5 @@ The Penn State Health OnDemand app has been installed by more than **10000** tim
 > Crashed my phone, even when not using ....it runs in background.<br> :date: __2020-05-15 13:58:40__
 
 > The app itself is fine but the issue is which insurance companies they accept. They ONLY except High Mark and not Aetna which is the health insurance provided by Penn State University. Bizarre, Penn State Health does not accept PSU health insurance. They don't accept Medicare as well.<br> :date: __2020-04-01 12:38:17__
-
-> Not good talk to nurse and trying to get visit summary been a week haven't got yet<br> :date: __2020-03-26 16:45:32__
 
 

@@ -1,5 +1,17 @@
 [
     {
+        "reviewId": "gp:AOqpTOERRHMotY9VLeBYcAHPnbZRVKgcBhLKUi8uu3DWiYxlhS23BEnGehMex8vk2_KEAdkIqA0nrKJirmHGLw",
+        "userName": "Jason Hartley",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgcVH3NNvUadlOT6W2Ixxdn6xJzS7mIvk8iaV6TQw",
+        "content": "Very hard to setup it won't let me put a profile photo on. Now it's saying my password is wrong. Come on guys ????????",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2021-02-21 19:31:16",
+        "replyContent": "Hi, sorry to hear that you have problems with the App on your device - can you please get in contact at support@spotteron.net so we can connect and look for a solution?",
+        "repliedAt": "2021-02-22 16:56:08"
+    },
+    {
         "reviewId": "gp:AOqpTOFoSdMJL0WaB059g_Lhn9fI3z4yKTUuToAkmi6xxO1G2E9XR20PQmTTfEBc7YUxh2yiMmQc12yLrPXjNw",
         "userName": "Abi Abi",
         "userImage": "https://play-lh.googleusercontent.com/-YK3q21UwxVM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmJpinlmniyAvvz0NDf6bgSYxnPrw/photo.jpg",
@@ -8,8 +20,8 @@
         "thumbsUpCount": 7,
         "reviewCreatedVersion": "2.9.6",
         "at": "2020-11-08 05:04:51",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thank you so much for your encouraging star ratings! Please check out www.spotteron.app for more free Apps about exploring your world and help science - you can log in to all of those with your existing user account. See you spotting!:)",
+        "repliedAt": "2021-02-22 16:59:25"
     },
     {
         "reviewId": "gp:AOqpTOGM16RzvlGXtdC4-huYsll_y5PjrsL89_ng8awQqIXrVABZBUGVScqeTf6Y4D-3nAKiHu0uu9EHmkAoNQ",
@@ -20,8 +32,8 @@
         "thumbsUpCount": 2,
         "reviewCreatedVersion": null,
         "at": "2020-10-24 10:16:07",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thank you for your review. Enjoy reading & keep supporting us :) Please check out www.spotteron.app for more free Apps about exploring your world and help science - you can log in to all of those with your existing user account. See you spotting!:)",
+        "repliedAt": "2021-02-22 16:59:05"
     },
     {
         "reviewId": "gp:AOqpTOHZYDzRzZm7WXUeN4EYhz1ozU-sZPc56z9uD2hIhcFA_APe2POLzB_lsF-Gab5xfLRY8d5D-acMSpnOJw",
@@ -32,8 +44,8 @@
         "thumbsUpCount": 9,
         "reviewCreatedVersion": "2.9.6",
         "at": "2020-07-19 14:13:24",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thank you so much for your encouraging star ratings! :) Please check out www.spotteron.app for more free Apps about exploring your world and help science - you can log in to all of those with your existing user account. See you spotting!:)",
+        "repliedAt": "2021-02-22 17:00:10"
     },
     {
         "reviewId": "gp:AOqpTOGctUVy5qfqEWQcCIBEkse_-jKKepqu9YJ6hqYPV-GWOBj4676e_Oeeud1jny8afWVmPanKH6AyMtO-PA",
@@ -44,7 +56,7 @@
         "thumbsUpCount": 8,
         "reviewCreatedVersion": null,
         "at": "2020-05-07 23:16:32",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi, we are sorry to hear that :( Please let us know what exactly did you not like about our app at support@spotteron.net, so we could improve it based on your feedback.",
+        "repliedAt": "2021-02-22 16:57:36"
     }
 ]

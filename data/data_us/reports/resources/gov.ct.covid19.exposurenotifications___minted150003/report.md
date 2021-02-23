@@ -132,6 +132,10 @@ The COVID Alert CT app has been installed by more than **100000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="gov.ct.covid19.exposurenotifications 5 reviews"/>
 </p>
 
+> Simple enough to use. The best way to get the most out of this app is to encourage your friends & family to also get the app! It's a community effort.<br> :date: __2021-02-14 02:27:29__
+
+> I like this. It's simple and easy. I wish my state participated in the program (a state next to mine does).<br> :date: __2021-02-13 22:22:08__
+
 > Will this app work when it needs to<br> :date: __2021-02-09 15:42:46__
 
 > Everyones<br> :date: __2021-01-31 12:48:10__
@@ -147,10 +151,6 @@ The COVID Alert CT app has been installed by more than **100000** times. At this
 > The exposure notification activation issue I reported in November seems to be resolved. Thanks!<br> :date: __2020-12-14 09:08:08__
 
 > I love it<br> :date: __2020-12-13 06:24:14__
-
-> Keep the people alert!<br> :date: __2020-12-09 19:44:17__
-
-> Goodapp<br> :date: __2020-12-06 21:16:46__
 
 
 
@@ -234,6 +234,8 @@ The COVID Alert CT app has been installed by more than **100000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="gov.ct.covid19.exposurenotifications 1 reviews"/>
 </p>
 
+> Pointless app. I've had one exposure alert.<br> :date: __2021-02-20 18:18:54__
+
 > I support this app in principle but I cannot find the source code. Without access to the source code there can be no trust.<br> :date: __2021-02-11 16:51:59__
 
 > Doesn't work<br> :date: __2021-02-10 00:02:03__
@@ -251,7 +253,5 @@ The COVID Alert CT app has been installed by more than **100000** times. At this
 > Poor, at best. I know I have been in close proximity to many individuals who have tested positive. Never once have i been notified. There is 1 person I know for certain and I spend an extensive amount of time with. I should have received a notice. I got bubkiss.<br> :date: __2021-01-14 18:58:55__
 
 > IT REALLY SOUNDS LIKE THIS APP SUCKS.!!! Reading the reviews I DEFINITELY WOULD NOT INSTALL THIS ON MY PHONE. 👎 👎 👎 FROM AN ANDROID USER.<br> :date: __2021-01-11 21:31:10__
-
-> Not useful at all. Based on responses by the Dev, this app uses Bluetooth to communicate with other phones that have the app and are atleast 6ft from you for 15 min...that means if someone is in my 6ft circumference and has COVID but walks away before the 15 min, the app won't notify me?<br> :date: __2021-01-11 17:20:45__
 
 

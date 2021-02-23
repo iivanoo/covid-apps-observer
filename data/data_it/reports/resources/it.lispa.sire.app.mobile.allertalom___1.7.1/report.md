@@ -188,6 +188,8 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <img src="4_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 4 reviews"/>
 </p>
 
+> Ok<br> :date: __2021-02-13 21:07:14__
+
 > Dopo aver segnalato l'errore persistente (impossibile evitare la compilazione questionario COVID e altri problemi), lo sviluppatore ha risolto il problema. Al momento tutto funziona come deve. Grazie Devs.<br> :date: __2021-01-24 10:39:00__
 
 > Ogni tanto un po' lento<br> :date: __2021-01-14 19:00:44__
@@ -205,8 +207,6 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 > Molto buona!!<br> :date: __2020-11-14 09:31:47__
 
 > Chiedo scusa sabato dopo averla aggiornata funziona regolarmente e ho mandato una email alla vostra società<br> :date: __2020-11-03 08:43:12__
-
-> In linea di massima non è male . Oggi mi si è bloccata , l'ho disinstallata e reinstallata ora funziona !<br> :date: __2020-10-21 21:46:23__
 
 
 

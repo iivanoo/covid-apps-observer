@@ -137,6 +137,18 @@ The STAYAWAY COVID app has been installed by more than **1000000** times. At thi
 <img src="5_star_reviews_wordcloud.png" alt="fct.inesctec.stayaway 5 reviews"/>
 </p>
 
+> Vamos testar.<br> :date: __2021-02-22 00:43:21__
+
+> Muito útil está aplicação.<br> :date: __2021-02-19 14:23:21__
+
+> Bom<br> :date: __2021-02-18 20:21:03__
+
+> Bom e ajuda.recomando🥰<br> :date: __2021-02-18 00:52:37__
+
+> É uma opção escolher esta app. Aconselho a aderirem<br> :date: __2021-02-17 12:18:22__
+
+> Excelente<br> :date: __2021-02-17 11:56:27__
+
 > Tudo Bom.<br> :date: __2021-02-13 12:51:31__
 
 > Bom<br> :date: __2021-02-12 15:48:31__
@@ -144,18 +156,6 @@ The STAYAWAY COVID app has been installed by more than **1000000** times. At thi
 > Gostei<br> :date: __2021-02-11 13:33:35__
 
 > Tenho dificuldade em abrir a aplicação<br> :date: __2021-02-08 11:08:11__
-
-> Muito boa.<br> :date: __2021-02-06 19:38:12__
-
-> Pena que a muita gente custe a perceber o uso e funcionamento desta aplicação, pois não percebem a finalidade.<br> :date: __2021-02-05 21:41:03__
-
-> É ótimo mas, quando começa a aplicação nao diz se a pessoa tem covid-19 ou nao é xato<br> :date: __2021-02-05 21:20:13__
-
-> Lamentável que a sociedade portuguesa não aproveite o talento da ciência portuguesa! Tem tudo para ser uma arma de combate nesta guerra, só não tem a simples colaboração de cada cidadão... Comecem a trabalhar no passaporte-vacina, acoplado a esta aplicação. Já muda tudo! Assim já será entendida como uma coisa para proveito próprio!<br> :date: __2021-02-04 22:33:56__
-
-> Maravilha<br> :date: __2021-02-04 17:12:53__
-
-> Bom<br> :date: __2021-02-04 01:48:11__
 
 
 
@@ -193,6 +193,12 @@ The STAYAWAY COVID app has been installed by more than **1000000** times. At thi
 <img src="3_star_reviews_wordcloud.png" alt="fct.inesctec.stayaway 3 reviews"/>
 </p>
 
+> Desde há semanas que está a mostrar erro de acesso ao servidor: falha a carregar dados de infeção.<br> :date: __2021-02-20 18:05:03__
+
+> Não entendo porque motivo me serve a aplicação<br> :date: __2021-02-19 12:55:52__
+
+> Para mim nao não funciona<br> :date: __2021-02-16 08:28:57__
+
 > Estão sempre a pedir para eu ter a ligada mas não tenho pois se estou m casa para quê ter sempre ligada?....<br> :date: __2021-02-12 03:17:19__
 
 > Já estive perto de dezenas de pessoas infectadas, e mesmo cumprindo as exigências da APP nunca recebi um alerta. Têm de dar importância à aplicação, todos deveriam ter a APP instalada e todos deveriam assinalar quando positivos, senão é inútil!<br> :date: __2021-02-09 09:36:14__
@@ -206,12 +212,6 @@ The STAYAWAY COVID app has been installed by more than **1000000** times. At thi
 > Não dá para ter essa aplicação porque tenho que ter o Bluetooth ligado 24 horas sobre 24horas. Ao ter isso sempre ligado, há interferências no meu telemóvel. Não vou danificar o meu telemóvel porque não tenho dinheiro para comprar outro e o estado não vai dar me um novo. Por isso eu não uso a aplicação. Eu protejo me ao máximo porque eu quero estar protegida e quero proteger as outras pessoas.<br> :date: __2021-01-12 16:29:52__
 
 > Vou testar se for bom dou 5 estrelas<br> :date: __2021-01-12 13:02:39__
-
-> Vou experimentar<br> :date: __2021-01-02 06:32:49__
-
-> O conceito é bom. Na prática, é complicado controlar todas as variáveis que tornam a aplicação útil (ou inútil).<br> :date: __2020-12-28 23:18:11__
-
-> É uma boa iniciativa<br> :date: __2020-12-24 00:11:20__
 
 
 
@@ -249,24 +249,24 @@ The STAYAWAY COVID app has been installed by more than **1000000** times. At thi
 <img src="1_star_reviews_wordcloud.png" alt="fct.inesctec.stayaway 1 reviews"/>
 </p>
 
-> Muito bom<br> :date: __2021-02-13 09:13:51__
+> Não presta e não serve<br> :date: __2021-02-23 01:00:52__
 
-> Não vale a pena instalar, fiquei doente e fiquei a espera que o médico entrasse em contato comigo para me fornecer os códigos. Falei com a saúde 24 disse que era com o médico de família, te teu falar com o médico de família, só consegui falar com administrativos. Após 10 de confinamento telefonou-me uma enfermeira a informar que já poderia sair de casa, perguntei pelos códigos para a aplicação....... Fez uma pausa e disse que era com o médico mas que ele não percebia nada dos códigos....<br> :date: __2021-02-13 01:15:37__
+> Péssima! Não faz sentido, só ocupa espaço necessário para aplicações mais importantes.<br> :date: __2021-02-21 21:44:55__
 
-> Não serve para nada tive casos onde trabalho não deu nada de nada em fim não serve nada a trabalhar muito perto das pessoas a menus de dois metros ficaram em casa 10 dias e voltaram e nada vai sair do meu telemóvel<br> :date: __2021-02-11 22:24:32__
+> N da nada muito fraco<br> :date: __2021-02-21 20:24:01__
 
-> Não tem as funções que se pretendiam, falta de fornecimento de códigos<br> :date: __2021-02-11 12:15:40__
+> Só têm um problema! NÃO FUNCIONA<br> :date: __2021-02-21 05:09:45__
 
-> Não serve de nada. Inútil.<br> :date: __2021-02-10 20:24:25__
+> Muito obrigado pela atenção e disponibilidade para me ajudar a resolver o problema com a maioria da minha empresa e que me fez sentir bem e que me fez sentir bem e que me fez sentir bem e que me fez sentir bem e que me fez sentir bem e que me faz sorrir sempre.<br> :date: __2021-02-18 16:17:46__
 
-> Detecta pouco<br> :date: __2021-02-10 02:59:43__
+> ja tive com varias pessoas com o cavid e nao tive nenhum alerta a<br> :date: __2021-02-18 11:06:29__
 
-> A APP para funcionar corretamente "obriga" a não ter economia da bateria em qualquer aplicação do telemóvel senão dá erro... Desinstalei porque também é inútil...<br> :date: __2021-02-09 21:46:43__
+> Não serve para nada Inútil😡<br> :date: __2021-02-18 09:30:46__
 
-> Nao mostra nada, estou com covid e tenho telemovel nas maos e mostra que esta tudo ok, ))<br> :date: __2021-02-09 08:28:49__
+> Infelizmente sem a obrigatoriedade de registo de novos casos na app, a mesma torna-se desnecessária e ineficaz.<br> :date: __2021-02-18 01:06:16__
 
-> Esta app é uma farsa diz que nunca tive em contacto com alguém que tivesse ou tem porque na verdade tive amigos e familiares com covid e diz sempre nunca teve contacto tá seguro<br> :date: __2021-02-08 17:07:28__
+> Pelo menos ganharam um bom dinheiro com está app inútil<br> :date: __2021-02-17 21:04:32__
 
-> Inatalei há quase 5 meses, sei que estive em contacto com infetados, alguns dos quais da minha família, e esta app nunca sinalizou nada: completamente inútil!!!<br> :date: __2021-02-07 16:25:36__
+> Muito fraco<br> :date: __2021-02-17 19:53:08__
 
 

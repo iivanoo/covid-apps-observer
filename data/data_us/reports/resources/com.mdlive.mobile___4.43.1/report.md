@@ -209,25 +209,25 @@ The MDLIVE: Talk to a Doctor 24/7 app has been installed by more than **100000**
 <img src="5_star_reviews_wordcloud.png" alt="com.mdlive.mobile 5 reviews"/>
 </p>
 
-> Lovely<br> :date: __2021-02-13 06:09:36__
+> Easy to use and I didn't have to wait long at all<br> :date: __2021-02-23 15:59:43__
 
-> I was hesitant about using this service initially, but I was out of my medication and needed a refill ASAP. All I had to do was send images of my prescription and speak with a provider for 2 minutes before they called me a refill in! This is how easy it should be to see a doctor for non-emergency situations.<br> :date: __2021-02-13 01:23:08__
+> Awesome experience easier to be at home and talking<br> :date: __2021-02-22 20:55:25__
 
-> Dr<br> :date: __2021-02-13 00:00:22__
+> A little worry some at first but after the first meeting, everything was smooth and I can't imagine actually going to a building for the same basic treatments.<br> :date: __2021-02-22 17:41:17__
 
-> Booking an appointment is so easy and I have been matched with the BEST counselor! When I need to use the app for Urgent Care need, at anytime of day, you are on the call with someone within 15 minutes. And the call can last as few as 10 minutes. I really appreciate the ability to visit a doctor without having to even leave my bed. I highly recommend telehealth services and and so thankful to MDLIVE for making that process so easy.<br> :date: __2021-02-12 19:03:05__
+> I think it is a great way for people who can't get out to get the help that they need there was just a little bit of problem with me camera for me pixel but it fixed itself it was just like being at the office and the provider was very kind and experienced and I enjoyed it very much I clicked difficult to use for only one reason it is difficult to sign into the first few times you use it it is confusing but after you get the hang of it it works very well<br> :date: __2021-02-22 17:01:08__
 
-> Fast easy<br> :date: __2021-02-12 18:20:13__
+> Great therapy sessions. My therapy sessions were so good, the video quality is clear. I got much needed therapy during a difficult time.<br> :date: __2021-02-22 16:51:47__
 
-> So fast, so easy, so affordable<br> :date: __2021-02-12 16:57:48__
+> Great app to get a quick doctor visit.<br> :date: __2021-02-22 14:59:17__
 
-> Well taken care of. Very pleasant Doctor.<br> :date: __2021-02-12 16:11:43__
+> Easy not complicated<br> :date: __2021-02-22 14:32:44__
 
-> Worked great and was easy. The Dr was great. I have insurance and I believe everything was covered. Better than going out to an office to see a Dr. If anything changes I'll update my review. Thanks<br> :date: __2021-02-12 04:18:21__
+> it's good to be see doctor from anywhere<br> :date: __2021-02-22 00:08:55__
 
-> Excellent .<br> :date: __2021-02-12 03:19:07__
+> Awesome<br> :date: __2021-02-21 03:06:59__
 
-> Michael Last was great!<br> :date: __2021-02-12 01:13:38__
+> Great option<br> :date: __2021-02-21 02:32:28__
 
 
 
@@ -236,6 +236,10 @@ The MDLIVE: Talk to a Doctor 24/7 app has been installed by more than **100000**
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.mdlive.mobile 4 reviews"/>
 </p>
+
+> Dr was kind, helpful and knowledgeable. Video session was kind of choppy at times, but minimal.<br> :date: __2021-02-18 17:58:52__
+
+> Good video connection<br> :date: __2021-02-15 16:06:18__
 
 > Main issue is accidentally skipping appointments by just a few seconds puts you back in line. However the ability to jump right back in is easy and the low cost really helps motivate me to get medical advise I'd otherwise need to spend way more money for.<br> :date: __2021-02-02 21:43:14__
 
@@ -253,10 +257,6 @@ The MDLIVE: Talk to a Doctor 24/7 app has been installed by more than **100000**
 
 > Good<br> :date: __2021-01-18 11:51:23__
 
-> Very helpful, will save you more than you can imagine during this pandemic.<br> :date: __2021-01-15 20:07:56__
-
-> Amazing!!! Definitely worth it. My only problem was it wouldn't take my insurance information so I had to pay the full fee<br> :date: __2021-01-13 22:58:19__
-
 
 
 #### 3-star reviews
@@ -264,6 +264,8 @@ The MDLIVE: Talk to a Doctor 24/7 app has been installed by more than **100000**
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="com.mdlive.mobile 3 reviews"/>
 </p>
+
+> My pricing page changes amounts all the time, some days it's $0 then the next it's $82, surge pricing?<br> :date: __2021-02-18 19:36:50__
 
 > Ok<br> :date: __2021-02-09 00:49:39__
 
@@ -282,8 +284,6 @@ The MDLIVE: Talk to a Doctor 24/7 app has been installed by more than **100000**
 > The app did not work i had to go through my insurance company to get through something is not good with the app it just keeps kicking me to web page not avilible<br> :date: __2020-11-28 00:29:37__
 
 > Internet connection is the key. I had a counselor before and she uses this platform so I don't have much experience with picking providers. But the video quality, sound, and virtual waiting room were all up to par.<br> :date: __2020-11-21 20:02:37__
-
-> I have used MD live a few times. I am now having trouble with the app itself. I keep getting unable to load needed service. And application exits.<br> :date: __2020-11-08 16:06:56__
 
 
 
@@ -321,24 +321,24 @@ The MDLIVE: Talk to a Doctor 24/7 app has been installed by more than **100000**
 <img src="1_star_reviews_wordcloud.png" alt="com.mdlive.mobile 1 reviews"/>
 </p>
 
-> My pricing page changes amounts all the time, some days it's $0 then the next it's $82, surge pricing?<br> :date: __2021-02-11 23:22:02__
+> I'm trying to find a surgeon for colon and everytime the password is entered CORRECTLY using this app, it locks me out of the entire system. This application AND THE WEBSITE. I'm forced to reset my password at the website everytime. I've called customer service. Only helped me reset my password... Now I suffer because of a pandemic lock out.<br> :date: __2021-02-23 03:29:18__
+
+> Once you select your appointment type the screen will not move forward the next button does not respond.<br> :date: __2021-02-22 19:52:05__
+
+> Unable to create login. When I attempt to create an account it erases my login info so I'm not even able to create an account at all. This is the app that is supposed to be part of my Behavior Health telehealth benefits. Very frustrating when I need mental health support & can't get it!!<br> :date: __2021-02-21 09:10:16__
+
+> Worse app we have ever used. Very frustrating and not easy to use. This app is built to just not go anywhere if you don't pick what they want. If you just pick anything that is not related just to move forward you then get a message that your session has expired. Just go see Dr in person. This app isn't worth your frustration<br> :date: __2021-02-20 04:17:23__
+
+> Says I'm already registered. No recovery options besides email. Sent help request here, and my message was blocked. Completely inaccessible.<br> :date: __2021-02-19 05:47:07__
+
+> Having problems connecting. I have the best internet and the best wireless provider yet each time I try to log on it tells me "A problem in the network occurred, verify internet connection and retry." Yet I'm able to sit here and write this review without issue and use all my other apps, phone and anything else on my phone that i need to use. Something weird is going on and it's certainly not my end.<br> :date: __2021-02-17 18:47:18__
+
+> Unorganized, I needed a psychiatrist and it connected me to an ER doctor. I finally found a psychiatrist and once prescribed me my needed antidepressant, she couldn't book me for just a refill a month later. I was told to send her a message 5 days prior to running out of medication, and she would send a refill. FOR NO REASON Dr. Sembrano sent another message to tell me to find a new psychiatrist.. completely unprofessional. I don't recommend.<br> :date: __2021-02-15 03:34:19__
 
 > I'm trying to create an account. Everytime I imput my information,it clears the blocks and I have to start over again. I have uninstalled the app,, installed it three times now. Still no success 😞<br> :date: __2021-02-10 19:45:27__
 
 > I tried to get in,but it kept telling me that I wasn't putting my username and password i in right. I have been using this for awhile and why is app not working for me.<br> :date: __2021-02-10 14:55:34__
 
 > the worst - total frauds. 2 appointments both fails. Tried to log on repeatedly and the app failed to work. I was told I was a "no show" even thoughI have records of repeated attempts of trying to log in. The app doesnt work, the tech support nonexistant, and the doctors uncaring, callus, and unreliable<br> :date: __2021-02-08 21:29:17__
-
-> Awful customer service who are rude and ruin your account.<br> :date: __2021-02-04 13:38:56__
-
-> Won't install. Keeps deleting my name<br> :date: __2021-02-03 15:34:20__
-
-> Too many glitches couldn't even create an account<br> :date: __2021-02-01 17:33:18__
-
-> Trash. Set up appointments, say I'll get a call, never do, then the app says i miss my appointment. This app and this service is garbage, customer service can only say up more appointments that then follow the same pattern of being "missed".<br> :date: __2021-01-31 22:42:18__
-
-> Dr could not do anything for me except tell me to see my GP, I was still charged $55 only to be told they couldn't help me. I also have no insurance. Charging me to tell me you can't help me while I'm seeking help, is just wrong!<br> :date: __2021-01-31 20:17:14__
-
-> Worst app experience. Spent 30 minutes filling out the form. Then it tells me payment not accepted. Doesnt give any reason. Was the credit card information incorrect? Does the bank need validation. How about a link to renter the card information. Nothing just go screw yourself because we designed a garbage app<br> :date: __2021-01-26 18:27:06__
 
 

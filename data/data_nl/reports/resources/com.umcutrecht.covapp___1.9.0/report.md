@@ -160,7 +160,9 @@ No recent reviews available with 2 stars.
 #### 1-star reviews
 
 <p align="center">
-
+<img src="1_star_reviews_wordcloud.png" alt="com.umcutrecht.covapp 1 reviews"/>
 </p>
 
-No recent reviews available with 1 stars.
+> Kan geen account aanmaken... Waar?????<br> :date: __2021-02-17 15:48:39__
+
+

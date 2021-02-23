@@ -188,6 +188,8 @@ The KidzDocNow app has been installed by more than **10000** times. At this time
 <img src="5_star_reviews_wordcloud.png" alt="com.pediatricassociates.android.papa.kidzdocnow 5 reviews"/>
 </p>
 
+> Love this app!<br> :date: __2021-02-18 18:37:43__
+
 > Very professional, guidance on what to do, I am thankful for this app. Thank you for the professionalism and the app worked well.<br> :date: __2021-02-01 16:31:13__
 
 > The Doctor was very nice and knowledgable!<br> :date: __2021-01-28 16:13:55__
@@ -205,8 +207,6 @@ The KidzDocNow app has been installed by more than **10000** times. At this time
 > Quick service. Easy to use<br> :date: __2021-01-21 15:01:04__
 
 > Fenomenal! I love I was able to discuss all my questions without having to leave the house.<br> :date: __2021-01-21 00:34:15__
-
-> Awesome!!!<br> :date: __2021-01-12 04:19:26__
 
 
 
@@ -261,6 +261,8 @@ The KidzDocNow app has been installed by more than **10000** times. At this time
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="com.pediatricassociates.android.papa.kidzdocnow 2 reviews"/>
 </p>
+
+> Clinicians need to wear headsets to avoid feedback during calls. Took two hours to troubleshoot issues and I'm a Healthcare IT security analyst. App does not sync with patient portal / EMR natively which caused part of problem. Other problem is that for most Google users, the email coming from domain will go into spam. Pediatric Associates need to go with a full-fledged telehealth solution instead of this fly by night, TytoCare (AmWell) app.<br> :date: __2021-02-18 01:14:23__
 
 > Horrible<br> :date: __2020-12-31 15:25:18__
 

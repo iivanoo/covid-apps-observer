@@ -129,6 +129,10 @@ The WA Notify app has been installed by more than **100000** times. At this time
 <img src="5_star_reviews_wordcloud.png" alt="gov.wa.doh.exposurenotifications 5 reviews"/>
 </p>
 
+> This app and proves your phone it works really well I suggest you tried<br> :date: __2021-02-22 21:24:42__
+
+> Perfect job!! Great tool !!!!!!<br> :date: __2021-02-20 02:51:53__
+
 > Great app wa notify<br> :date: __2021-02-13 02:17:35__
 
 > It can save your life.<br> :date: __2021-02-04 13:16:33__
@@ -144,10 +148,6 @@ The WA Notify app has been installed by more than **100000** times. At this time
 > Just installed...rate this part later<br> :date: __2021-01-09 20:08:00__
 
 > Very helpful<br> :date: __2021-01-05 12:31:36__
-
-> I like the idea of having it tell me<br> :date: __2021-01-05 08:26:57__
-
-> A bit intrusive for my likes but how else you going to know the truth of this deadly virus.<br> :date: __2021-01-04 22:21:20__
 
 
 
@@ -241,6 +241,10 @@ The WA Notify app has been installed by more than **100000** times. At this time
 <img src="1_star_reviews_wordcloud.png" alt="gov.wa.doh.exposurenotifications 1 reviews"/>
 </p>
 
+> Poor<br> :date: __2021-02-21 02:25:07__
+
+> My husband has covid and it still says I do not have a exposure... Been almost a week now..... So zero faith in this app<br> :date: __2021-02-17 21:27:37__
+
 > Did not do ANYTHING. See prior response.<br> :date: __2021-02-08 14:37:16__
 
 > This app was a good idea, but there wasn't much thought put into the development of it. There is no way to enter a positive result or exposure without a verification code. This makes the app entirely pointless since I know of nine positive results with no phone calls being dodged, just no way to get a code. This seems like a pretty big oversight.<br> :date: __2021-01-31 01:50:52__
@@ -256,9 +260,5 @@ The WA Notify app has been installed by more than **100000** times. At this time
 > I tested positive and the app wouldn't let me notify people. It turns out the app needs a code, given by Washington State department of health employees when they call you for a phone survey/interview. I received positive test results on Sunday 1/17 and received a phone call follow up on Tuesday 1/19. I brought up the code and was given it, but that was only after the entire call was completed with no mention of the code or app. If I hadn't brought it up it would not have come up otherwise.<br> :date: __2021-01-20 20:54:20__
 
 > People need to know where to get a code from if they have tested positive. There's more information that needs to be put on here for the people. I didn't say it was me!<br> :date: __2021-01-19 05:03:48__
-
-> Okay in theory, does not work whatsoever in reality. I've been a covid tester numerous times and a first responder around confirmed covid positive patients. The app never alerted once while I've had it on my phone the last several months. Bluetooth and GPS is always on. Battery saver always off.<br> :date: __2021-01-17 18:34:51__
-
-> Typical government, very poor quality<br> :date: __2021-01-15 23:53:41__
 
 

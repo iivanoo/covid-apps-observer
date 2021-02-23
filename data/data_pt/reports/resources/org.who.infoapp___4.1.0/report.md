@@ -182,6 +182,8 @@ No recent reviews available with 2 stars.
 <img src="1_star_reviews_wordcloud.png" alt="org.who.infoapp 1 reviews"/>
 </p>
 
+> Lamentável!!! A aplicação oficial da Organização Mundial da Saúde não estar disponível em todas as línguas do mundo, eu como português e muitos milhões em países em vários continentes como Europa, África, América do Sul, que temos em comum falar a língua portuguesa, somos muitos milhões e mereciamos mais consideração e ter a possibilidade de ler e ter acesso aos conteúdos nesta APP , na nossa língua materna.<br> :date: __2021-02-21 11:29:25__
+
 > Colocam outra linguas tambem<br> :date: __2020-11-12 06:36:18__
 
 > Vão se fude com esse app e sua nova ordem mundial ORGANIZAÇÃO MUNDIAL DA FARSA<br> :date: __2020-10-16 00:51:53__

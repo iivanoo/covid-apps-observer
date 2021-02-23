@@ -164,6 +164,8 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 <img src="5_star_reviews_wordcloud.png" alt="de.xikolo.openwho 5 reviews"/>
 </p>
 
+> Passt<br> :date: __2021-02-15 02:46:07__
+
 > Top App, great functionality! Keep going! Alles funktioniert einwandfrei. Der Support meldet sich innerhalb von 24 Std sollte es Schwierigkeiten mit den Kursen oder Zertifikaten geben.<br> :date: __2020-04-19 18:46:48__
 
 > Thanks Who<br> :date: __2020-04-15 18:56:24__

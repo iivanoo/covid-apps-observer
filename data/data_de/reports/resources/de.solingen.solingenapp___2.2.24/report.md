@@ -168,6 +168,8 @@ The Mensch, Solingen app has been installed by more than **5000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="de.solingen.solingenapp 5 reviews"/>
 </p>
 
+> Derzeit stürzt die App beim starten ab, zuerst wird Fehler:100 angezeigt, dann ist die Verbindung zum Server doch erfolgreich und dann stürzt die App ab. Edit: Der Tipp mit der Neuinstallation hat geklappt. Vielen Dank 👍.<br> :date: __2021-02-17 15:10:54__
+
 > Eigentlich eine tolle APP. aktuell startet die. Anwendung leider nicht sondern wird direkt beendet. Ich kann nur einen Fehler an meinen smartphone Hersteller melden. Push Nachrichten kommen zwar an, aber auch hier kommt es beim anclicken zum Absturz. Edit. Nach Rückmeldung der Entwickler Problem beseitigt. Alles Bestens, vielen Dank.<br> :date: __2020-12-20 08:27:00__
 
 > Nun habe ich die App neu installiert und läuft einwandfrei. Jetzt bekommt sie auch meine 5 Sterne. Es gibt kurz und knackig Informationen. Wie ich meine Heimatstadt kenne, wird es zukünftig noch mehr interessante Informationen in der App geben. Weiter so!<br> :date: __2020-12-15 22:37:53__
@@ -190,6 +192,10 @@ The Mensch, Solingen app has been installed by more than **5000** times. At this
 <img src="4_star_reviews_wordcloud.png" alt="de.solingen.solingenapp 4 reviews"/>
 </p>
 
+> Sehr informel<br> :date: __2021-02-16 18:55:45__
+
+> App ließ sich über mehrere Tage nicht starten. Es wurde immer der Fehler 100 angezeigt. Habe sie jetzt deinstalliert und neu installiert. Läuft wieder.<br> :date: __2021-02-13 23:54:38__
+
 > Warum wird die Baustelle auf der L 288 nicht angezeigt ? Sonst ist die App super<br> :date: __2020-12-17 19:17:54__
 
 > Sehr nützlich und informativ. Informationen sofort nach Abruf verfügbar<br> :date: __2020-12-16 14:40:02__
@@ -205,10 +211,6 @@ The Mensch, Solingen app has been installed by more than **5000** times. At this
 > Vielen Dank, läuft jetzt wieder einwandfrei. Eigentlich eine schöne App aber seit dem letzten Update nur noch einmal zu öffnen (Samsung M21, Android 10).<br> :date: __2020-11-22 02:39:48__
 
 > Bei der 1ten Benutzung sehr zufrieden schöne App... lässt sich leider bei erneuter Nutzung nicht öffnen...schade... Keine Verbindung zum Server möglich...bitte um Hilfe !!!<br> :date: __2020-11-18 10:22:27__
-
-> Update: Mit Version 2.0.7 sind die bisherigen Fehler schnell behoben worden. Sehr gut. Die zukünftige Abwicklung von Verwaltungsdienstleistungen und Zahlfunktion hin zum mobilen "Bürgerbüro" ist ja das Ziel. Bin mal gespannt. Der 5. Stern wartet schon...<br> :date: __2020-08-30 10:57:21__
-
-> Sieht schon mal super aus!!! Mit guten Infos. Ein guter Schritt in die richtige Richtung Jetzt sah ich gerade sowohl was Haus Schaaf als auch New Orleans hatten gestern live Musik. Habe ich hier nicht gefunden?<br> :date: __2020-08-15 10:36:08__
 
 
 
@@ -264,8 +266,6 @@ The Mensch, Solingen app has been installed by more than **5000** times. At this
 
 > Bisher lief die App gut, doch seit einigen Tagen lässt sie sich nicht mehr öffnen. Erst kommt Fehler 100. Dann wird doch die Verbindung zum Server hergestellt und dann stürzt sie ab.<br> :date: __2021-02-13 15:17:38__
 
-> Derzeit stürzt die App beim starten ab, zuerst wird Fehler:100 angezeigt, dann ist die Verbindung zum Server doch erfolgreich und dann stürzt die App ab.<br> :date: __2021-02-10 08:27:10__
-
 > Derzeit ist keine Info über die App möglich, da es scheinbar zu Fehlern in der Verbindung zum Server gibt.<br> :date: __2021-01-31 11:15:31__
 
 > Lässt sich nicht mehr öffnen - unbrauchbar. Bitte beheben. Samsung Galaxy S10<br> :date: __2021-01-19 18:21:56__
@@ -281,5 +281,7 @@ The Mensch, Solingen app has been installed by more than **5000** times. At this
 > Trotz angeblicher Fehlerbehebung startet die App noch immer nicht. Was ist daran so schwer, eine App zu programmieren, die funktioniert?<br> :date: __2020-12-15 19:16:19__
 
 > Stürzt schon beim ersten Ausprobieren ab und passt sich nicht an die Displaygröße meines Moto G5 an. Update: Stürzt immer noch ab und auch nach 2 Updates funktioniert der Abfallkalender nicht, unbrauchbar, deshalb DEINSTALLIERT.<br> :date: __2020-12-15 12:43:52__
+
+> App funktionierte nur am 1. Tag.<br> :date: __2020-12-11 17:40:47__
 
 

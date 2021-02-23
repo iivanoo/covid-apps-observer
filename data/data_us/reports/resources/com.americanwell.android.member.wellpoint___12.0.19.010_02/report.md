@@ -186,25 +186,25 @@ The LiveHealth Online Mobile app has been installed by more than **500000** time
 <img src="5_star_reviews_wordcloud.png" alt="com.americanwell.android.member.wellpoint 5 reviews"/>
 </p>
 
-> Overall excellent experience. Dr Antall seemed very knowledgeable and confident and concerned with my issues and made some suggestions on how to get better results. She also made sure I understood her directions on following up with my pcp.<br> :date: __2021-02-11 19:33:46__
+> Quick and easy<br> :date: __2021-02-20 20:58:25__
 
-> My experience with LiveHealth was delightful. I expected the Dr. to grab her RX-pad to quickly write & refill my prescriptions. But, i was pleasantly surprised to find that she actually took the time to ask me several questions about my underlying condition & I feel quite confident that together we were able to come up with a preventative plan that (over time) will improve my overall health. She was helpful & informative. I will definitely be using this app again, when it's time for a refill!<br> :date: __2021-02-11 03:36:40__
+> Excellent providers and convenient.<br> :date: __2021-02-20 15:51:08__
 
-> Great doctor<br> :date: __2021-02-10 15:25:19__
+> Very easy to use<br> :date: __2021-02-19 21:56:29__
 
-> Amazing app service and all saved me risk of covid and took the fears of breaking isolation away<br> :date: __2021-02-09 01:22:19__
+> Great services and it is very professional<br> :date: __2021-02-19 19:32:07__
 
-> Good doctor .<br> :date: __2021-02-08 02:54:23__
+> So convienant.<br> :date: __2021-02-18 19:39:25__
 
-> The sound was a little difficult, but otherwise fine.<br> :date: __2021-02-07 20:16:56__
+> AWESOME<br> :date: __2021-02-18 18:57:12__
 
-> Best app out must get on ya phone<br> :date: __2021-02-06 22:25:18__
+> App works smoothly. Easy to use.<br> :date: __2021-02-18 16:55:12__
 
-> Amazing service<br> :date: __2021-02-06 20:56:42__
+> Easy, convenient and readily available healthcare!<br> :date: __2021-02-17 21:21:08__
 
-> Very helpful<br> :date: __2021-02-06 18:50:45__
+> Very good doctor I spoke with<br> :date: __2021-02-17 00:36:04__
 
-> Quick. And informative.<br> :date: __2021-02-06 17:00:03__
+> Good<br> :date: __2021-02-15 23:57:30__
 
 
 
@@ -213,6 +213,8 @@ The LiveHealth Online Mobile app has been installed by more than **500000** time
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.americanwell.android.member.wellpoint 4 reviews"/>
 </p>
+
+> I set up a doctor appointment for my sleep, waited 16 minutes in the waiting room after the set appointment time, only to be told that he's unavailable. I would rate him but so far I'm unable to find his information or even asked why he's declined to see me as a patient today. So far this app has been the worse to appointments, I'm giving it one more chance with a therapist to see if it's any better this round.<br> :date: __2021-02-22 20:40:24__
 
 > Good doctor, hard to hear at times but overall great experience in short matter of time.<br> :date: __2021-01-29 15:34:50__
 
@@ -231,8 +233,6 @@ The LiveHealth Online Mobile app has been installed by more than **500000** time
 > First time using app. First time I did an appointment, the doctor had to cancel due to technical issues. I wasnt charged for it. The second time I was able to get ahold of a doctor and she was very nice. Recommend if you are unable to make a same day appointment with doctor.<br> :date: __2020-11-18 17:10:06__
 
 > App is great. Physicians can be rude.<br> :date: __2020-10-15 02:37:32__
-
-> Great first experience! First time I used the app and it ran smoothly. I didn't give it 5 stars only because the video to submit pictures wouldn't work.<br> :date: __2020-10-10 18:57:33__
 
 
 

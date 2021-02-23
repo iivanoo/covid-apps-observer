@@ -179,6 +179,8 @@ The GuideSafe app has been installed by more than **100000** times. At this time
 <img src="4_star_reviews_wordcloud.png" alt="gov.adph.exposurenotifications 4 reviews"/>
 </p>
 
+> Were going to get in touch<br> :date: __2021-02-19 03:09:38__
+
 > Seems to be fixed. My confidence is renewed!<br> :date: __2021-02-13 00:05:05__
 
 > They should add something for the blind site challenge<br> :date: __2020-12-22 14:23:39__
@@ -196,8 +198,6 @@ The GuideSafe app has been installed by more than **100000** times. At this time
 > Ok<br> :date: __2020-10-18 23:44:48__
 
 > It works<br> :date: __2020-10-11 15:57:28__
-
-> No issues. Does this share exposure notifications with the other notification apps or only with users of this app?<br> :date: __2020-08-23 14:57:47__
 
 
 
@@ -257,6 +257,10 @@ The GuideSafe app has been installed by more than **100000** times. At this time
 <img src="1_star_reviews_wordcloud.png" alt="gov.adph.exposurenotifications 1 reviews"/>
 </p>
 
+> Wasnt for my state<br> :date: __2021-02-23 07:32:27__
+
+> Funny how it stopped updating right after the election! Weird huh? I'm not for either side I just find it very very strange that covid is not as big a deal now.<br> :date: __2021-02-18 01:59:41__
+
 > Seriously I just opened the app on my phone and the last update was the end of November. Like how is this going to be efficient if it doesn't do anything...<br> :date: __2021-02-13 04:57:52__
 
 > Dislike app<br> :date: __2021-02-11 09:25:08__
@@ -272,9 +276,5 @@ The GuideSafe app has been installed by more than **100000** times. At this time
 > Doesn't seem to work. Exposure hasn't been checked since Nov and I don't see anyway to force it to check.<br> :date: __2021-01-29 04:07:05__
 
 > It stopped working. The last report was over 6 weeks ago.<br> :date: __2021-01-27 13:36:45__
-
-> Stopped working. What the heck is wrong with Alabama? Do they not care about the public??<br> :date: __2021-01-15 03:42:21__
-
-> Nice concept but completely stopped working. Also probably not enough users to be worthwhile even when it was functioning.<br> :date: __2021-01-12 12:53:38__
 
 

@@ -171,6 +171,10 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <img src="5_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 5 reviews"/>
 </p>
 
+> Top<br> :date: __2021-02-22 22:33:34__
+
+> Muito útil. OBRIGADO<br> :date: __2021-02-21 10:56:18__
+
 > Muito util<br> :date: __2021-02-05 18:48:15__
 
 > Opcional<br> :date: __2021-02-02 17:13:25__
@@ -186,10 +190,6 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 > Nunca pensei que há tantos ignorantes no meu País. É aterrador, pior que o coronavírus.<br> :date: __2020-11-18 08:13:42__
 
 > Gosto<br> :date: __2020-11-05 19:26:51__
-
-> Bom<br> :date: __2020-10-16 10:11:36__
-
-> Fantástica app!<br> :date: __2020-10-10 22:21:19__
 
 
 
@@ -283,6 +283,16 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <img src="1_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 1 reviews"/>
 </p>
 
+> Não funciona em telemóveis com Android 10<br> :date: __2021-02-15 21:53:37__
+
+> Para quando uma actualização de software pra poder funcionar nas versões mais recentes de Android?! Só estamos à frente naquilo que não interessa...<br> :date: __2021-02-15 20:59:51__
+
+> Nem abre... Muito mau<br> :date: __2021-02-15 17:11:06__
+
+> No meu telemóvel antigo funcionava na perfeição agora neste novo nem abre a aplicação .<br> :date: __2021-02-15 10:53:41__
+
+> Diz que a App. Não funciona porque a versão do meu Android é mais recente do que a app. Por isso não funciona! Muito mau!<br> :date: __2021-02-13 23:29:28__
+
 > A APP no telefone funciona mt bem, no tablet NADA.<br> :date: __2021-02-13 22:26:16__
 
 > A aplicação não funciona. Diz que foi concebida para uma versão mais antiga de android.<br> :date: __2021-02-12 22:51:01__
@@ -292,15 +302,5 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 > Não funciona em telefone recente<br> :date: __2021-02-12 11:22:03__
 
 > Não abre sequer no meu Android<br> :date: __2021-02-12 10:56:33__
-
-> N abre<br> :date: __2021-02-11 23:44:54__
-
-> APP em branco.<br> :date: __2021-02-11 22:34:50__
-
-> Tenho esta app no meu tablet e meu marido no telemóvel mas não abre. De que serve, para ocupar espaço. Será que ninguém lê as críticas e fica assim.<br> :date: __2021-02-11 21:19:06__
-
-> Abre mas não mostra dados ou algo, fica branco<br> :date: __2021-02-11 18:29:20__
-
-> Simplesmente Nao Funciona!!😡 Nada que nao estejemos ja habituados do estado português!!<br> :date: __2021-02-11 15:38:49__
 
 

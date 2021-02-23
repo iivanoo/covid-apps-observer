@@ -1,11 +1,23 @@
 [
     {
+        "reviewId": "gp:AOqpTOFE9Dc-lRs4fTiUCdRldx4bdL1nXaFeBLagyKO7elFYda9s3bhUvHBcqRBt0NLU5mLaP2e3itmc6q45rA",
+        "userName": "Jacob Lysinger",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ghjhm1776C3kncVg2eSxtpoR_HIslai39mb-rC2",
+        "content": "The app doesn't use Google's Exposure Notifications API, and therefore does nothing. The app is otherwise okay.",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2021-02-17 13:36:29",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOGPnoi4iTCTMUWivh0ZnujNOFuY1SU_0VHJFbWLg4mv9W3NGbmaGBwIE3jPcl-nmY6YRkEdmVg6dfXYng",
         "userName": "Brian D",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhX3_uajbEaV_GF5Oefvz8iE9aohs7vzmfkvj6_IA",
         "content": "It's a shame more people aren't downloading this app! It's also a problem when I search Google play store for COVID-19 apps and they only show 2 apps that aren't even for my area. I appreciate you and your team for helping with the issue \ud83d\ude4f",
         "score": 5,
-        "thumbsUpCount": 3,
+        "thumbsUpCount": 4,
         "reviewCreatedVersion": "2.0.1",
         "at": "2020-07-29 18:18:00",
         "replyContent": null,

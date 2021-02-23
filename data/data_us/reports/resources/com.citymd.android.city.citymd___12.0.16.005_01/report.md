@@ -190,6 +190,10 @@ The CityMD app has been installed by more than **10000** times. At this time, **
 <img src="5_star_reviews_wordcloud.png" alt="com.citymd.android.city.citymd 5 reviews"/>
 </p>
 
+> It was excellent the Md was knowledgeable and put my mind and my daughter's at ease. We did not have to go to the ER. Thank You Dr. Doran<br> :date: __2021-02-18 03:00:14__
+
+> Easy, convenient, pleasant, efficient<br> :date: __2021-02-14 14:34:54__
+
 > Very dope to use and helps save time<br> :date: __2021-02-12 13:10:47__
 
 > Great<br> :date: __2021-01-28 18:34:23__
@@ -205,10 +209,6 @@ The CityMD app has been installed by more than **10000** times. At this time, **
 > Excellent<br> :date: __2021-01-15 18:37:07__
 
 > Sooo EASY! It took me 15 minutes to download, register and connect with a doctor. No waiting in line or in the waiting room. And the doctor was wonderful.<br> :date: __2021-01-11 15:11:18__
-
-> Needed someone in a hurry. CityMD virtual Dr's were there to help.<br> :date: __2021-01-06 02:10:59__
-
-> Awesome<br> :date: __2020-12-20 20:03:12__
 
 
 

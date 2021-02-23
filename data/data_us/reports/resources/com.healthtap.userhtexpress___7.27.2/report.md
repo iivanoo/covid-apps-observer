@@ -210,6 +210,12 @@ The HealthTap — 24/7 Telemedicine app has been installed by more than **100000
 <img src="5_star_reviews_wordcloud.png" alt="com.healthtap.userhtexpress 5 reviews"/>
 </p>
 
+> very helpful<br> :date: __2021-02-20 20:19:26__
+
+> Less than half an hour to download app speak with doctor and my prescription sent! Great service great doctor and I don't have to hassle with insurance company 😀<br> :date: __2021-02-20 14:14:52__
+
+> You can ask questions for free. They are usually answered fairly quickly. So far, so good.<br> :date: __2021-02-18 20:17:23__
+
 > So Greate<br> :date: __2021-02-09 23:14:14__
 
 > I had a Real Dr answer a question about needing to go to the ER took about 1.5 hours . Im impressed<br> :date: __2021-02-03 16:22:35__
@@ -223,12 +229,6 @@ The HealthTap — 24/7 Telemedicine app has been installed by more than **100000
 > Im from pakistan. Can I consult a doctor using this app? If so, then how would it be charged. PS: i only need consultation for adjusting my exisiting medicines<br> :date: __2021-01-20 21:18:03__
 
 > Awesome this is the best telemedicine service out there. Health tap doctors listen and actually care! I can't thank you health tap enough for actually bringing quality and affordable health Care to everyone. I honestly can't imagine not having health tap you are Lifesavers. I had I tell everyone and will continue to tell everyone to use health tap! Thank You<br> :date: __2021-01-19 08:56:35__
-
-> Great, fast, and excellent service<br> :date: __2021-01-09 02:05:56__
-
-> Very Professional...easy to navigate app...Md was Friendly, professional and took exceptional care of my medical situation. As a Registered Nurse for 25 plus years, I highly recommend this service and find it far superior to one other app I've tried.<br> :date: __2021-01-06 15:11:33__
-
-> best app ever spoke to a real doctor and getting treatment right away no lines no 40 min waiting rooms i love it<br> :date: __2020-12-28 22:29:25__
 
 
 
@@ -331,6 +331,8 @@ who now can't get their meds.<br> :date: __2018-08-10 19:23:24__
 <img src="1_star_reviews_wordcloud.png" alt="com.healthtap.userhtexpress 1 reviews"/>
 </p>
 
+> Stay away! If you're needing a prescription filled and needing it filled correctly do not use this app or company. They will gladly take your money but not make any corrections once they have submitted a prescription. My pill quantity was supposed to be 180 as I take 6 pills a day. They gave me 30, gee thanks guys just enough to last me 5 days. Worthless!<br> :date: __2021-02-14 00:41:39__
+
 > I cannot navigate this app by<br> :date: __2020-12-29 21:31:46__
 
 > Needed some medical assistance with my 11 yrs old. Down loaded the app and they won't allow him to be seen. My son has asthma and he is very susceptible to pneumonia this time of year. Dont want to take him in anywhere because he doesn't need to be tested for this stupid covid. So much for saying this is for families. Can't be if they dont want to help young kids.<br> :date: __2020-12-12 00:56:57__
@@ -348,7 +350,5 @@ who now can't get their meds.<br> :date: __2018-08-10 19:23:24__
 > been 3 days and no one reply to my question yet<br> :date: __2020-10-05 22:22:29__
 
 > Its false advertising ! All I asked for was a note to get a memory foam mattress topper in a sober living home, just a note he couldn't even do that. Ser vice is a rip off for real..<br> :date: __2020-09-27 07:50:53__
-
-> Horrible registration process. It asks for location. I allow the location and it detects im not in US but registration requires my address and the phone which will be used for collecting the prescription and select the pharmacy in US when obviously i will not be able to go there! And you cant register without doing these steps! And in their website says for non US residents you can still use to get the diagnostic etc. Meh, another useless app in the store<br> :date: __2020-09-26 21:42:28__
 
 

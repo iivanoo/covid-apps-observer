@@ -187,6 +187,8 @@ The Check In CBR app has been installed by more than **50000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="au.gov.act.health.checkin 5 reviews"/>
 </p>
 
+> Easy to use.<br> :date: __2021-02-22 08:09:10__
+
 > This app works well. Should be used all across Australia.<br> :date: __2021-01-24 23:29:37__
 
 > Cool app! I prefer this much more than writing my name down with a pen 50 other people have used that day. Great to see more places in Canberra are using it too.<br> :date: __2020-12-08 02:50:38__
@@ -204,8 +206,6 @@ The Check In CBR app has been installed by more than **50000** times. At this ti
 > Easy to use but don't just scan QR and expect app to open. The QR does nothing but open a website, thats what they mostly do. Scanning a QR will just take you to website to download. It will not open app. Once I downloaded app and added my details, I clicked check in and then I scanned the QR (after giving app permission) Easy.<br> :date: __2020-10-05 02:41:02__
 
 > Quick and easy to use, really good!<br> :date: __2020-09-27 10:53:21__
-
-> Much quicker and easier to use than scanning a QR code to click to load a website and manually entering your details. Better security is a plus too, it'd be hard to tell if random QR code is linking to a legit website or not.<br> :date: __2020-09-27 06:20:23__
 
 
 
@@ -257,6 +257,8 @@ The Check In CBR app has been installed by more than **50000** times. At this ti
 <img src="2_star_reviews_wordcloud.png" alt="au.gov.act.health.checkin 2 reviews"/>
 </p>
 
+> Slow to load, my history has no check ins, so does it even work? Isn't it supposed to keep a record of where I have checked in?<br> :date: __2021-02-23 02:03:11__
+
 > ACT Health, why do you check in but not check out, like the NSW app? If something does happen you have no idea if a person spent 10 mins or 2 hrs at a place. To stop people forgetting to log out, how bout a popup asking if you are still there 2-3 hrs after checking in if not already logged out?<br> :date: __2021-02-11 22:05:59__
 
 > Worked as intended before, but recently has become very slow to load and the qr scanner is not working<br> :date: __2021-01-22 22:29:39__
@@ -273,6 +275,12 @@ The Check In CBR app has been installed by more than **50000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="au.gov.act.health.checkin 1 reviews"/>
 </p>
 
+> For some reason this app has been made mandatory despite there not being a case in the ACT for months. Personally, I don't like Andrew Barr knowing everywhere I'm going. Massive encroachment on our freedoms. I worry it will be a long time before use of this app is made voluntary again. Even after the vaccine and there's been no covid for years they'll find an excuse to keep using it...<br> :date: __2021-02-20 05:37:22__
+
+> Waste of time. Tried to scan QR code and couldn't because it wanted me to re-input my personal details. Who has time to stand and do that a second time when others are waiting to check in? App uninstalled.<br> :date: __2021-02-17 06:10:23__
+
+> Very poor design - does not have a check out function. No way to tell how long person has been in the venue.👎<br> :date: __2021-02-16 10:34:36__
+
 > App wont open camera.<br> :date: __2021-02-07 03:27:27__
 
 > Absolutely crock.. has taken over 10 mins just to load the app, no ability to adjust entry time (been in the shop 15 mins before all the data loaded, allowed me to load additional guest) means your accuracy is way off.. No faith in this abominable system.. Service NSW app runs rings around this shite<br> :date: __2021-02-04 01:32:06__
@@ -286,11 +294,5 @@ The Check In CBR app has been installed by more than **50000** times. At this ti
 > In a word "FRUSTRATING" one minute it works. The next nothing. Tried reinstall and it just sits there "pending " for the last hour and nothing. NOT USER FRIENDLY typical geek app and NO support.<br> :date: __2021-01-21 05:10:49__
 
 > Great idea. Could open app but nothing else, no registration, no login, app unresponsive. Sad face.<br> :date: __2021-01-19 03:47:25__
-
-> Never works<br> :date: __2021-01-15 00:50:22__
-
-> I have been trying now for 2 days (at different times) to download this app without success ...dont know what else I can do ...it doesn't work as easy as others so looks like a manual check in is the only option ...not good !!<br> :date: __2021-01-13 21:52:54__
-
-> Total waste, every other state uses an internet portal rather than wasting money on a useless app<br> :date: __2021-01-08 03:03:58__
 
 

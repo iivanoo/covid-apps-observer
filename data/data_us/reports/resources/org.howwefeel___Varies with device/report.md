@@ -176,25 +176,25 @@ The HowWeFeel: The How We Feel Project app has been installed by more than **100
 <img src="5_star_reviews_wordcloud.png" alt="org.howwefeel 5 reviews"/>
 </p>
 
+> We the people are angry we the people believe a great Injustice is done against us and those that put in place to speak for us cannot speak and he's not worthy they don't know all to articulate themself and conduct themself they are fraud and they're put in place by people who want to break us and rip us aparts or boys or girls they need to stop never mind of a right to be free and freedom is when someone don't tell you what to do I went to do it and respect you for the color of your skin and yo<br> :date: __2021-02-22 15:15:16__
+
+> I like that I have a way to contribute to helping fight against Covid and that I can see how other areas are faring. I also like that I can watch how my own state is doing also.<br> :date: __2021-02-22 05:12:30__
+
+> Non invasive Since the update, the reminder/notification has not worked. When it did work, I completed it daily, faithfully. But w.o the reminder, it's all fallen apart. Now it feels like there's really no point. Chances are, I'll uninstall soon.<br> :date: __2021-02-21 18:03:43__
+
+> Easy and rather quick<br> :date: __2021-02-21 17:26:40__
+
+> It's a way to help out when I can't donate money.<br> :date: __2021-02-20 14:20:49__
+
+> Good way to check in with yourself and any data on covid is a bonus! The more we know the better for everyone<br> :date: __2021-02-14 04:07:30__
+
 > Easy to use. I hope participating truly contributes to the science we so desperately need right now.<br> :date: __2021-02-12 03:53:26__
 
 > Just the check ✔️ in make me feel better by detecting and getting to know better my inner self<br> :date: __2021-02-10 00:26:41__
 
-> Great way to keep track of covid anonymously. The more info we have, the better we can fight this.<br> :date: __2021-02-09 03:07:50__
-
 > I think this app is very useful in helping to save lives. It only takes a sec. Every check in feeds a person in need. Cmon now, stop being lazy. Download the app, stop taking our wonderful American lives for granted and realize its not even 25% that good that good for millions around the globe.....even a homeless person in America has it better than most 3rd world countries. Cmon yall, take a sec to download this app. You'll feel good once u do. Trust me.<br> :date: __2021-02-07 22:35:01__
 
 > This app is a tool to gauge the impact of the covid-19 pandemic. Provides info on state level, then compares the state & national statistics. App gives you a feel for how other states are coping. Provides links to the CDC website & other medical centers. If you dig deep enough, you can find the impact on your county. Finding granular data isn't straightforward. There's a lot of info out there if you care to find it. Info can be found by going straight to CDC.gov. I like this app. Recommended.<br> :date: __2021-02-05 23:46:24__
-
-> Easy and simple to use<br> :date: __2021-02-02 20:13:12__
-
-> Part of my daily routine<br> :date: __2021-01-27 13:56:39__
-
-> Easy to use and no glitches.<br> :date: __2021-01-15 11:07:21__
-
-> I like how this app has you do a self awareness check on yourself. It ask you the important questions of how do you feel, what worries do you have. When I see how I responded to specific questions I'm aware of what I may need to keep an eye on. Especially since I'm medically high risk for COVID.<br> :date: __2021-01-14 21:46:51__
-
-> No feel fo-r I'll. Or eel<br> :date: __2021-01-14 15:37:28__
 
 
 

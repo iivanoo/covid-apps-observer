@@ -243,6 +243,10 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 <img src="1_star_reviews_wordcloud.png" alt="de.bssd.covid19 1 reviews"/>
 </p>
 
+> Man kommt nicht rein<br> :date: __2021-02-16 18:22:39__
+
+> Wie komme ich an code<br> :date: __2021-02-16 11:30:25__
+
 > App öffnet seit letztem Abdroid-update, auch nach Neuinstallation, nicht mehr.. Bei einer App dieser Wichtigkeit sollte man schneller arbeiten.<br> :date: __2021-02-11 13:13:14__
 
 > App bricht sofort ab. Kein Dienst möglich!<br> :date: __2021-02-11 06:40:49__
@@ -258,9 +262,5 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 > Es ist lange genug bekannt dass die App nicht fubktioniert. QR Codes werden über den integrierten Scanner nicht erkannt und den Code den man manuell eintippt bringt die Fehlermeldung zurück dass es nicht dem entsprechenden Format entspricht. Es ist lächerlich Menschen diese App Überprüfung eines Corona Tests anzubieten.<br> :date: __2021-02-02 10:40:23__
 
 > Nicht Mal einen Stern ist die App wert,denn mit dem Code funktioniert Überhaupt nicht größer Müll. Nicht zu Empfehlen...<br> :date: __2021-01-27 16:24:49__
-
-> App ist Müll hab 3 Tage gewartet bevor ich andere app getestet habe. Ergebnis wurde bis heute nicht angezeigt Und qr Code lässt sich gar nicht testen 👎<br> :date: __2021-01-25 12:27:25__
-
-> Letztes Jahr hat sie noch funktioniert. Heute lässt sich der Code nicht mehr einscannen.<br> :date: __2021-01-25 06:03:46__
 
 

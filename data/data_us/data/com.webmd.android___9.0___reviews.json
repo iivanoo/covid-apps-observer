@@ -1,5 +1,53 @@
 [
     {
+        "reviewId": "gp:AOqpTOEr8JFCaWfvcDOlIo1c8FJIS6Roolo2INvQhfgNd53siYxTOXMKiAr50xwBdTMDLgsGo1AnSYAoNWIDXVE",
+        "userName": "billy Hamer",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgizkwBf8CzYXnRtqcbkSbS0bDRWcWlag2sSYzJBA",
+        "content": "Used to be a time , when i was healthier than a horse \ud83d\ude21",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2021-02-23 15:04:06",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHymS7TyyftjM7Q5_uIgG7C6vDsOqonHyKgJoNB7JGedspOAjjlhrMmQ3Ev1bFbRhxbyYr-4T3AiCK4s-U",
+        "userName": "roderick carter",
+        "userImage": "https://play-lh.googleusercontent.com/-L8lsP3i0K0g/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckjfK051Oa9Tl_iulLGzAJAwJNxFA/photo.jpg",
+        "content": "Love this app",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "8.5.2",
+        "at": "2021-02-22 00:20:16",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOEQLzRvNYX11qsCyr0rbXrL8kLS58zr7uY_bcSLClBibK9EEC48WEHYdVFBIYi533Q_LoVBU_Zh8sXyKtI",
+        "userName": "Allison Crooks",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gje1enXm8BQNsEtKoiZn8_W1s73-VzOMjMvcjte4og",
+        "content": "I like the option to add current medications and conditions with the symptom checker, but the majority of my medications and diagnosis don't come up when I write them in the search box so I'm not sure how reliable that feature is, or the app as a whole (though we know it's not meant for a medical diagnosis).",
+        "score": 3,
+        "thumbsUpCount": 7,
+        "reviewCreatedVersion": "9.0",
+        "at": "2021-02-16 00:25:54",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOEfF1jbBsvgkV-W7W7qMA1UNMpCbvYhsC9wsmHfFn2Bf_Ag2aCsbdniR6CzA6tANYQFw2Ond5iK7UAFyKw",
+        "userName": "Dr. Darwin Edwards",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgyRcRLpEpeRM9PW0OMrEXifDNwJ83n31A0OeiR",
+        "content": "Yep",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "9.0",
+        "at": "2021-02-15 19:20:15",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOHMD6XAgkj-xHIv7ciu3wQ-uXBnjlPwRQzxL0cv2hHbgc76-IWhSe5J4ALELiktYeyAN1vwxdgOQqHyvrg",
         "userName": "Abo Azaam",
         "userImage": "https://play-lh.googleusercontent.com/-6lW3NN__JEU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckSh8CHW1k1hA2Uki4oQNwEJG5NIg/photo.jpg",
@@ -41,7 +89,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiBIzcq1jfH8BMwoA9qnTP7k5e4rBi5jd6W1awz",
         "content": "This is a decent medical app good for simple medical issues. I found it doesn't work for me having multiple medical issues. It could use a place to enter actual lab results to help with the diagnosis.",
         "score": 3,
-        "thumbsUpCount": 2,
+        "thumbsUpCount": 11,
         "reviewCreatedVersion": "8.5.1",
         "at": "2021-02-05 09:03:23",
         "replyContent": null,
@@ -185,7 +233,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh4dgpEUdK6KOwZ8LYRmF4UYbQ2A6kfsEyhk5iKHw",
         "content": "I really like this app. Keeps me informed about meds I might switch to or others I might need to take with the ones I am on now. Always like reading the post too. FYI to anyone who is reading this and who made WebMD. I tried to open it and it kept rejecting me. I uninstalled and reinstalled and worked. So if having any problems try it. It's like the last update didn't fully install or install right. Hope that helps someone.",
         "score": 5,
-        "thumbsUpCount": 7,
+        "thumbsUpCount": 10,
         "reviewCreatedVersion": "8.5",
         "at": "2021-01-18 19:12:21",
         "replyContent": null,
@@ -326,7 +374,7 @@
     {
         "reviewId": "gp:AOqpTOG8oqC8_893-PVikvUvLKTney7s6XAg5LcoTU2YVPNRsbLBCPBLFkiD4EmIHCYwo2Rdfrs2mTagABxE5CU",
         "userName": "Dr. zubair A khan",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhZuPeAUeJytZ4I5Xr9uKywTsowHoxUU1hVdEahjco",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj_t1cDXGvpyUY1xfgxJ4CRQXiO_Hnfo0V0WEhAfzA",
         "content": "Very good",
         "score": 5,
         "thumbsUpCount": 0,
@@ -389,7 +437,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-NBNqP2WUIZo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl_upJSfYc5RTMCPYnKS86BKwPqzg/photo.jpg",
         "content": "The drug interaction checker not working properly. Says it found 2 interactions but only describes 1.Shows it found 3 interactions but only describes 2...and so on.Does not save my drug interaction entries anymore. Have to re-enter everything,each time I want to check something. This started happening with the lastest update..extremely frustrating",
         "score": 2,
-        "thumbsUpCount": 22,
+        "thumbsUpCount": 24,
         "reviewCreatedVersion": "8.4",
         "at": "2020-12-19 19:54:00",
         "replyContent": null,
@@ -518,7 +566,7 @@
     {
         "reviewId": "gp:AOqpTOH7goQz0ez177D5OpT5zTx-8xhGLQDyTtGEib2LH8popDqr-uqQ45pxit3bpWINxXmtYfPG8mPSpzuju5o",
         "userName": "Ninad Sane",
-        "userImage": "https://play-lh.googleusercontent.com/-ngVrkxSPYWE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmado7qtsqXDe7Wd3Ahqnp2baMYcQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhbNEGWiNHfmlFZ-G5rnC7XTsD7SSR0FR4ntHWXeQ",
         "content": "Superb",
         "score": 5,
         "thumbsUpCount": 0,
@@ -962,7 +1010,7 @@
     {
         "reviewId": "gp:AOqpTOGpIdWj8Nw0zU1oWdFJjfIvTw_Q2PJz9NMVGwGbntb7LBsqP3KcZuOn3dhCms7hAzSOtkQaghzFx0MZ6Eo",
         "userName": "Reta Roers",
-        "userImage": "https://play-lh.googleusercontent.com/-5x0t4qXi510/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm4_NTld9GSHqREuZuvmqC5uWSgoA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh4cUyEeZBKTE6hloXFAQ9_MhkckI6l9qtLONmJpQ",
         "content": "This app needs more options",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1478,7 +1526,7 @@
     {
         "reviewId": "gp:AOqpTOFUcwR1f0ewWDMwuidouXiGXAlhIvtS_HYxo3_gHdlbaHcpetEpRwTkYKa2TTreQ2hymJvy1Vfmq3eQ0kE",
         "userName": "Mack Drago",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgqchoKepA1523Uioy2gwL6mMO5Q1HTQe9QLXmT8Q",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ghc28nerxmLxcc_g2Qq_2RWTRVz6yDxFtZooOHpFQ",
         "content": "Great app!",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1705,7 +1753,7 @@
     },
     {
         "reviewId": "gp:AOqpTOEfmKLzZkq9zexJWykN-c6Df0QnQKO7PVvqeQVR9IVxVl2bY5N1pZwEXvuWFCy55xCgwcLiFSs6eIq1FR4",
-        "userName": "peachie Sweet",
+        "userName": "Shana D",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh-GkzE6t73yE3TyqkMeFBXXzyaYoHnN1XQBrGq-6Q",
         "content": "The medication reminders are working any more",
         "score": 3,
@@ -1801,7 +1849,7 @@
     },
     {
         "reviewId": "gp:AOqpTOEvUMSx-g1YTmfBMozVCaR1vpb4lW6IstMxXGBLrVVmB0sGfT5zQUAvJ4-QXuEqRxozkXlFfG1UMJfPn2A",
-        "userName": "buttegamerdog455 faye Johnson",
+        "userName": "Faye Johnson",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgFWlS7CBtgVXg2YL81CZqJeHl5EG4zufisReI19ZA",
         "content": "Symptom checker isn't working anymore.",
         "score": 3,
@@ -3494,7 +3542,7 @@
     {
         "reviewId": "gp:AOqpTOH5xHPh-do4S50ZqqEht0AKFQsDNWzuKOtU-fj9CyAGZP_QL3en3d-cj3N8EYclj10kBceZ0Wn2clizKVg",
         "userName": "Julia Brewster",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjktkrwGdo9usXEzGiPLuEk8YXIGINHcZFnNAP6WK0",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj6pxdLLOqmZPEAz8qxAlBRWk2ufaQvWyulnpwf2UI",
         "content": "Everyone should honestly ready have this automatically installed to their device \ud83d\udcaf\ud83d\udcaf",
         "score": 5,
         "thumbsUpCount": 0,
@@ -5330,7 +5378,7 @@
     {
         "reviewId": "gp:AOqpTOEASrbLeHjuWVMuevOneToY5Y1cxhPNcZSYJLzo-3hNgEF9GcSotnB4CtZbgOLTAOOiYFRBvFksW3G5WNA",
         "userName": "Endale Mengesha",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjJseW6VXuXRrDFLoKLJNH9pyE9r6Fvl8k6u_J6aw",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhoK6Sd_BZcKRstJjQ1PYiHlW0d2NqOEc8FvH-7QXA",
         "content": "More than just application",
         "score": 5,
         "thumbsUpCount": 0,
@@ -7658,7 +7706,7 @@
     {
         "reviewId": "gp:AOqpTOHzyJtqwM9b7343S_QPK8cssqyJ4at-4NicD7HHZFsMneAZ7aYErCFRoYII8cLyHXLBP0B7tZX4DMcGBP0",
         "userName": "Arlene John, CAPM",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ghgr-bTnbD-rLJ7O60oCvnwkQK2jtLGCFarPlUR",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjipYaX-SMhE61iMxlYq5kierow30Hcmt6-uwuY",
         "content": "It has been very helpful.",
         "score": 4,
         "thumbsUpCount": 0,
@@ -7957,8 +8005,8 @@
     },
     {
         "reviewId": "gp:AOqpTOHnFrk9Ez6rvJX4uDfVu9cuyrkqTIaBnqfMZmVFIQmta178ZKXrxk1WoPobrzmFPKNWQTFo4ZMqFwzArKI",
-        "userName": "peter k",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj35xIMx5ZWQ7s7Z-e1X0ffQc5q3V9pptLtcOL27g",
+        "userName": "belike kaipulla",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhQIc-QDZtI4l47D7Wmp5CNSSkXpCapYsNUoCUpsg",
         "content": "fantastic app and it helps me to grow up longer then longer thank you Web MD",
         "score": 5,
         "thumbsUpCount": 0,
@@ -9050,7 +9098,7 @@
     {
         "reviewId": "gp:AOqpTOEMZ06sL0ZghZcnV5-pjiKg5Jx5Z5VWpSsF6en5ZHBsHEpA8rKUhorAPV6mbKxqyS2qGo9rq4lTPT_Zfqg",
         "userName": "Kate Love",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiKxUiLv8Bu9lQb6ntL0O6Nho3hBk1pamKjwNMAuw",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgqEgrU-rppN4VjAdbpnxl7vvCt-rrgePCB6R6oYjI",
         "content": "love it",
         "score": 5,
         "thumbsUpCount": 0,
@@ -11948,54 +11996,6 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "6.3.4",
         "at": "2018-09-21 09:39:27",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOHXt7VQ5PyHDmDbgATMlnar584XBMZ9AhuCo30K7X-n-MNRvf89-93INYSC8oK8qf01MtjxNpYYavLzGwE",
-        "userName": "Mujahid Awan",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj12oBBA02oqnKFWFrUyeg3d9VC3PrHPKuPsoeb",
-        "content": "amazing app",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": null,
-        "at": "2018-09-17 20:47:49",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOHwvGRV9wyF3KTJmq1CE6CKmP_xczNOww3wQpZpnYCuEfEmJCRFMieoFJDqVy_nUNybX_NDtje-H78Gbco",
-        "userName": "Danny Aviles",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiDpY4llmXgjZ9T6LFal7O5oJ8d0KJKxD_6u4yKJQ",
-        "content": "Great information app.",
-        "score": 4,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "6.3.4",
-        "at": "2018-09-17 08:16:24",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOFZ_jfCz1DbnYOfWvyHli4ljTPYV6mbk_m-34L5Ie7j7bbX3Sw6u12rdlTz3E2nXSF8Q0A9cGplgQVaQQc",
-        "userName": "Red Rebel",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GggpHnxcnlkYgUJeJv_LiM0EbQnbig68qQt8RZjNw",
-        "content": "Great",
-        "score": 4,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": null,
-        "at": "2018-09-17 06:40:27",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOG9s5Zigef3JljwnxB3DW9F8KYQE_3seB5LUHvYIQNceZ5jP50Z03iTxqrOOwr7Icu0CJgdRX5wbNb9qXQ",
-        "userName": "Olumide Yanclo",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhwGOuSJ6Exh0zQlQQk9U94zHiGfTk97JxNS6Q-",
-        "content": "I feel like a doctor with this app, so gud",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": null,
-        "at": "2018-09-16 12:36:15",
         "replyContent": null,
         "repliedAt": null
     }

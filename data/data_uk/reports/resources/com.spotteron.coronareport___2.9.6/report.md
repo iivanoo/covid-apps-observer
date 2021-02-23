@@ -188,6 +188,8 @@ No recent reviews available with 2 stars.
 <img src="1_star_reviews_wordcloud.png" alt="com.spotteron.coronareport 1 reviews"/>
 </p>
 
+> Very hard to setup it won't let me put a profile photo on. Now it's saying my password is wrong. Come on guys ????????<br> :date: __2021-02-21 19:31:16__
+
 > Don't like<br> :date: __2020-05-07 23:16:32__
 
 

@@ -125,6 +125,14 @@ The CO Exposure Notifications app has been installed by more than **100000** tim
 <img src="5_star_reviews_wordcloud.png" alt="gov.co.cdphe.exposurenotifications 5 reviews"/>
 </p>
 
+> People hack my account<br> :date: __2021-02-23 08:01:47__
+
+> Great app!!!<br> :date: __2021-02-18 09:51:27__
+
+> Great.<br> :date: __2021-02-17 19:29:50__
+
+> Thank you! There seem to be many people here complaining about the app who don't seem to get how it works. Ignore the reviews and use this app.<br> :date: __2021-02-15 06:43:42__
+
 > Its ok so far.<br> :date: __2021-02-10 07:47:18__
 
 > Awesome<br> :date: __2021-02-02 10:22:45__
@@ -136,14 +144,6 @@ The CO Exposure Notifications app has been installed by more than **100000** tim
 > This app. does what it says<br> :date: __2021-01-18 07:59:50__
 
 > Amazing<br> :date: __2021-01-10 02:04:49__
-
-> Thanfully I have had no notifications but this is a great help for Colorado to trace and inform.<br> :date: __2021-01-06 02:45:40__
-
-> Cool yo<br> :date: __2020-12-25 01:47:43__
-
-> Good<br> :date: __2020-12-24 10:54:23__
-
-> It 's is good thing for you get back on the right way for think about you life you never know if it hapin to you or not i think you can look in toi like be happy to be live today but god can tell you if it is time or not from you loving friend luther mosbarger<br> :date: __2020-12-20 08:40:31__
 
 
 
@@ -209,6 +209,8 @@ The CO Exposure Notifications app has been installed by more than **100000** tim
 <img src="2_star_reviews_wordcloud.png" alt="gov.co.cdphe.exposurenotifications 2 reviews"/>
 </p>
 
+> Confusing app. When you go to notify the app you have covid it prompts you to enter a notification code. But the text message you receive doesn't contain a code, but a link you click on and follow prompts. The text I got after testing positive came 2 days later and was in a spam folder (I didn't know my phone filtered suspected spam). So I kept thinking I didn't have the verification code & contacted CDPHE several times to no avail. They should email the info too & have an FAQ on the app.<br> :date: __2021-02-19 19:43:17__
+
 > This app doesn't work. I installed it when it first became available. It has never once in all that time reported an exposure regardless of how remote the exposure might be.<br> :date: __2021-02-03 23:39:55__
 
 > The app seems great (simple, unobtrusive, easy to use, no major privacy issues) but what good is the app if people can't easily report their covid results? Why haven't they partnered with testing facilities to provide this code automatically upon getting a positive result? I've had this app for months and haven't gotten a single notification ever<br> :date: __2021-01-10 00:52:39__
@@ -227,8 +229,6 @@ The CO Exposure Notifications app has been installed by more than **100000** tim
 
 > I don't think this app works<br> :date: __2020-11-28 16:58:50__
 
-> I have to provide a "verification code" for my test result. I did not get one though, over the "negative" phone call..<br> :date: __2020-11-24 22:58:35__
-
 
 
 #### 1-star reviews
@@ -237,7 +237,15 @@ The CO Exposure Notifications app has been installed by more than **100000** tim
 <img src="1_star_reviews_wordcloud.png" alt="gov.co.cdphe.exposurenotifications 1 reviews"/>
 </p>
 
-> I tested positive for COVID-19 on 2/9/21. As of this review it's three days later and no one knows when or how I'm supposed to get the verification code to enter into the app. What a useless app all it serves it to highlight government ineptitude in a public health crisis. Way to go CDPHE.<br> :date: __2021-02-12 19:18:12__
+> Only works if people register, which doesn't seem likely to me....<br> :date: __2021-02-20 14:16:34__
+
+> Not enough people use it to make any difference..<br> :date: __2021-02-14 22:06:32__
+
+> Pretty useless since people don't post their results on here.<br> :date: __2021-02-14 19:02:01__
+
+> Tried to report a positive case and it wouldn't let me. Needed some kind of code but there was no information on where to get the code from. Useless. I also had it installed for months and never got one notification of any exposure, which seems really improbable.<br> :date: __2021-02-14 05:03:06__
+
+> I've had this app for several months but I've never had any reports of someone having Covid-19 which doesn't seem realistic.<br> :date: __2021-02-14 03:45:15__
 
 > I tested positive for covid on Wed 2/3 and have been trying to report it to the app since to notify others and help contact trace. I haven't heard from the health dept or been able to get in touch w them in order to get my "verification code", which makes this app completely useless.<br> :date: __2021-02-07 05:58:21__
 
@@ -248,13 +256,5 @@ The CO Exposure Notifications app has been installed by more than **100000** tim
 > Pretty useless since you can't let it know if you test positive without entering some sort of mysterious missing/failing verification code. Where is that supposed to come? Who knows because it is not mentioned in their guidance.<br> :date: __2021-02-03 21:59:10__
 
 > I have had countless people in my life get COVID 19 and this app has been silent. Absolutely a pointless app.<br> :date: __2021-01-27 06:52:38__
-
-> Seemingly useless<br> :date: __2021-01-26 01:28:42__
-
-> I don't like the fact I have to keep it on if I'm at home and don't come in contact with anyone else. There is no reason why I should keep it on at home, it's a violation of my privacy and my right to chose. I'm well aware of the capabilities Bluetooth technology has it's the things it can do that your app doesn't mention that bother me. Every Bluetooth device I have will Transmit not Rx the signal back. I'm 99% it's ur app. Now my tablet need resetting and the time it takes to reinstall is,.<br> :date: __2021-01-25 13:46:33__
-
-> I will give it a better score when it actually works, I can't even install it now, I installed it a few weeks ago and it wouldn't work when I pressed "turn on", so I decided to finally bother to reinstall it and now when I get to the agree screen and "agree" it doesn't work and cancels installing itself. Please fix this.<br> :date: __2021-01-25 04:23:06__
-
-> Will not let me report my positive covid test results. Asking for some verification number. Neither I nor my doctor knows what that is.<br> :date: __2021-01-21 01:57:48__
 
 

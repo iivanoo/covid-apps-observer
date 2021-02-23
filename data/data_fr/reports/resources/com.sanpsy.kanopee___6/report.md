@@ -127,6 +127,8 @@ The KANOPEE app has been installed by more than **1000** times. At this time, **
 <img src="5_star_reviews_wordcloud.png" alt="com.sanpsy.kanopee 5 reviews"/>
 </p>
 
+> Tip-Top👍🤩🙋🏻‍♂<br> :date: __2021-02-20 15:35:34__
+
 > Excellente application pour faire le point sur son sommeil et reprendre de bonnes habitudes, et un grand merci aux médecins et aux concepteurs pour le développement de cet outil.<br> :date: __2021-01-04 12:08:42__
 
 > Manquent les cigarettes électroniques pour le tabagisme. Ne fonctionne pas pour les réveils après 12h00.<br> :date: __2020-06-29 14:10:19__

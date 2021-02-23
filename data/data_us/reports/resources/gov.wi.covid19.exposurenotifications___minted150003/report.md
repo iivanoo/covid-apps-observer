@@ -126,8 +126,6 @@ The WI Exposure Notification app has been installed by more than **100000** time
 <img src="5_star_reviews_wordcloud.png" alt="gov.wi.covid19.exposurenotifications 5 reviews"/>
 </p>
 
-> Thank you<br> :date: __2021-02-12 13:17:53__
-
 > Great idea, we all should use this. I'm promoting it to everyone I know.<br> :date: __2021-02-02 03:32:47__
 
 > I like this spp.<br> :date: __2021-01-27 00:35:43__
@@ -145,6 +143,8 @@ The WI Exposure Notification app has been installed by more than **100000** time
 > Took long enough<br> :date: __2020-12-31 14:12:35__
 
 > This app fits under the heading 'civil responsibility.' If you care about your family, neighbors and community, you will add this to your phone to help keep them and you safe until we can all get this virus under control.<br> :date: __2020-12-30 17:48:56__
+
+> I wear a mask because I am a patriot and I care about all lives. Historically Americans provide aid globally for weak and vulnerable, its about time we put America first. Wear your mask. I downloaded this app because I am a patriot and I care about all lives. Using this app may provide valuable exposure information. It will give information to help people know to get tested, to quarantine, or to seek treatment. 2 small steps can save the lives of the vulnerable. That IS the America way!<br> :date: __2020-12-30 15:53:31__
 
 
 
@@ -165,6 +165,10 @@ The WI Exposure Notification app has been installed by more than **100000** time
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="gov.wi.covid19.exposurenotifications 3 reviews"/>
 </p>
+
+> I live is a low income high-rise housing unit that's dealing with a outbreak and the county health department knows because my social worker knows but yet instead of a app I downloaded to inform me of such risks I found out from paper signs that have to keep being reposted because some people can't leave them alone you would think the state would track outbreaks in mainly senior elderly housing units and issue appropriate notices.<br> :date: __2021-02-18 04:54:03__
+
+> No idea if it is working or what it is doing<br> :date: __2021-02-16 12:48:32__
 
 > Great idea, but I have no idea what is or where to find a verification code<br> :date: __2021-01-04 01:13:24__
 
@@ -196,6 +200,8 @@ The WI Exposure Notification app has been installed by more than **100000** time
 <img src="1_star_reviews_wordcloud.png" alt="gov.wi.covid19.exposurenotifications 1 reviews"/>
 </p>
 
+> This app is completely pointless. Not once have I been notified that I have come in close contact with someone infected so it gives me a hunch that no one is using this pointless app. Just another FAIL by One Term Tony and his cronies. This app eats up your battery; don't waste your time. After all it's just a virus and you cannot hide from it. Let's get back to living normal life again.<br> :date: __2021-02-18 18:43:35__
+
 > This App Is stupid even tho I Did not install it everytime i search these Stupid Waste of time apps are herw what the heck man!?<br> :date: __2021-02-10 21:53:07__
 
 > THIS APP DOES GATHER AND STORE INFORMATION, HOW ELSE ARE THEY GOING TO IDENTIFY YOU? I love how dumb they make it appear.<br> :date: __2021-02-01 12:45:01__
@@ -213,7 +219,5 @@ The WI Exposure Notification app has been installed by more than **100000** time
 > Don't have any experience. Why are people so positive about this. This app just came out. No one can you really say what's going to happen. Here come the AI filled Dracos.<br> :date: __2021-01-01 00:48:41__
 
 > Evey news story says turn off Bluetooth because that is how people hack your phone. This turns on your Bluetooth forever all day.<br> :date: __2020-12-31 23:28:40__
-
-> App does not allow my phone to connect to other bluetooth devices. Would be useful but have to uninstall since it essentially breaks my Bluetooth.<br> :date: __2020-12-30 15:39:08__
 
 

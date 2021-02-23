@@ -1,5 +1,41 @@
 [
     {
+        "reviewId": "gp:AOqpTOEqV-Oi-w5GdgAJEmkhaD1LzasHqRgAb1R7Hdyui2QvFWZcTlLrZ0yC29UsYnfvvb1t9RUw4nMgSeereyc",
+        "userName": "THE TO",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh6e7ki1CJq1L8WrT7Z23Mv3wJK5hXH8Hql9LjZcQ",
+        "content": "Derzeit st\u00fcrzt die App beim starten ab, zuerst wird Fehler:100 angezeigt, dann ist die Verbindung zum Server doch erfolgreich und dann st\u00fcrzt die App ab. Edit: Der Tipp mit der Neuinstallation hat geklappt. Vielen Dank \ud83d\udc4d.",
+        "score": 5,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "2.2.24",
+        "at": "2021-02-17 15:10:54",
+        "replyContent": "Hallo THE TO, vielen Dank f\u00fcr die Aktualisierung der Bewertung! Viele Gr\u00fc\u00dfe Ihr Team Solingen App",
+        "repliedAt": "2021-02-18 10:33:08"
+    },
+    {
+        "reviewId": "gp:AOqpTOGCnDuqxNOIf9IcWppNSYP0caMz4GFjmBUCUt_pi6ci1Y1NO17-UciN_CXJqT6v8x2kgWVJt4j5HGQebVw",
+        "userName": "Bernd mazath",
+        "userImage": "https://play-lh.googleusercontent.com/-F-uM09k3o7E/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclWAt6Pdxf7KE2JpaRafW_Uj8y-eQ/photo.jpg",
+        "content": "Sehr informel",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.2.24",
+        "at": "2021-02-16 18:55:45",
+        "replyContent": "Hallo Bernd mazath, vielen Dank f\u00fcr die positive Bewertung. Viele Gr\u00fc\u00dfe Ihr Team Solingen App",
+        "repliedAt": "2021-02-18 10:45:28"
+    },
+    {
+        "reviewId": "gp:AOqpTOHnWYedAg74UB8GjfmgK8rJjA3YIxh8ocyTGqiVTuUk2gog1hRaFxkqoZbCQla3ousvzIMHB-PIPeGX5-k",
+        "userName": "Brigitta Fassbender",
+        "userImage": "https://play-lh.googleusercontent.com/-F6wmhgXJyU4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclreipxLPJEdRk-2riaMrUi-edOdA/photo.jpg",
+        "content": "App lie\u00df sich \u00fcber mehrere Tage nicht starten. Es wurde immer der Fehler 100 angezeigt. Habe sie jetzt deinstalliert und neu installiert. L\u00e4uft wieder.",
+        "score": 4,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "2.2.24",
+        "at": "2021-02-13 23:54:38",
+        "replyContent": "Hallo Brigitta Fassender, wir freuen uns, dass die App auf Ihrem Ger\u00e4t wieder l\u00e4uft und bedanken uns f\u00fcr die positive Bewertung. Viele Gr\u00fc\u00dfe Ihr Team Solingen App",
+        "repliedAt": "2021-02-18 10:41:38"
+    },
+    {
         "reviewId": "gp:AOqpTOHG_Wg5NyOEziaBrUMdeLoee6bmI0wNJNX_pUIpG6ap94H7hwOqBKfOf7Iw-dizR-8pb4pIeuPxtjlKRjc",
         "userName": "Karin Rex",
         "userImage": "https://play-lh.googleusercontent.com/-u9X5qVyp6nE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckseS9dcnONsAU_b8bhm1RdErmtrw/photo.jpg",
@@ -8,20 +44,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "2.2.24",
         "at": "2021-02-13 15:17:38",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOEqV-Oi-w5GdgAJEmkhaD1LzasHqRgAb1R7Hdyui2QvFWZcTlLrZ0yC29UsYnfvvb1t9RUw4nMgSeereyc",
-        "userName": "THE TO",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh6e7ki1CJq1L8WrT7Z23Mv3wJK5hXH8Hql9LjZcQ",
-        "content": "Derzeit st\u00fcrzt die App beim starten ab, zuerst wird Fehler:100 angezeigt, dann ist die Verbindung zum Server doch erfolgreich und dann st\u00fcrzt die App ab.",
-        "score": 1,
-        "thumbsUpCount": 1,
-        "reviewCreatedVersion": "2.2.24",
-        "at": "2021-02-10 08:27:10",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hallo Karin Rex, bitte versuchen Sie die App zu l\u00f6schen und neu zu installieren. Dann sollte der Fehler nicht mehr auftreten. Wenn der Fehler weiterhin besteht, freuen wir uns, wenn Sie uns per Mail kontaktieren, dann k\u00f6nnen wir uns das Problem genauer ansehen und beheben: appdev@solingen.de\nDanke und viele Gr\u00fc\u00dfe Ihr Team Solingen App",
+        "repliedAt": "2021-02-17 15:06:39"
     },
     {
         "reviewId": "gp:AOqpTOH79cvX-k2MmX3litJx9JP2LU9pu0QcJ25HYYlXklFcm2-FI3k6jJKJZ-uXGVHTwD-cZYlRKDKEHKaGwdw",
@@ -682,17 +706,5 @@
         "at": "2020-05-31 11:55:54",
         "replyContent": "Hallo Markus a.d.F, vielen Dank f\u00fcr Ihr Feedback. Das Problem greifen wir gerne auf und kommen bei R\u00fcckfragen noch einmal pers\u00f6nlich auf Sie zu. W\u00e4ren Sie eventuell bereit, uns auch ausf\u00fchrlicher (z.B. Vorf\u00fchren) bei der Fehlerbehebung zu helfen? Freundliche Gr\u00fc\u00dfe Ihr Solingen App-Team",
         "repliedAt": "2020-06-16 11:16:42"
-    },
-    {
-        "reviewId": "gp:AOqpTOHc_MiSwCt8JiyrmZILKw8zu7YfvmrJNuzznOU2ApISqdWhM84EmAY29ymFuv5ZqNqig2WR9FQp5XXLwqM",
-        "userName": "Goo gle",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi7btf4LyyU2ksXpTLs0247uJAp57cLuTkKXlGg",
-        "content": "Was soll das sein ??? Ein link zur solingen Seite w\u00e4re einfacher und vor allem billiger gewesen ...das ist keine app das ist eine internet seite light ... also wirklich jede Wasserwagen app hat mehr Funktion !!! Sieht schwer nach ersten programmierversuchen von Sechstkl\u00e4sslern aus ...lasst es einfach sein !!!",
-        "score": 1,
-        "thumbsUpCount": 6,
-        "reviewCreatedVersion": "0.9.10",
-        "at": "2020-05-26 21:28:22",
-        "replyContent": "Hallo Goo gle, vielen Dank f\u00fcr Ihr Feedback. In der Version 2.0, die am 14.08. online ging, haben wir das Angebot um lokales Wetter, Sehensw\u00fcrdigkeiten und Abfallkalender sowie viele weitere Dienste erg\u00e4nzt. Gerne nehmen wir auch W\u00fcnsche und Anregungen von B\u00fcrgerinnen und B\u00fcrgern auf. Freundliche Gr\u00fc\u00dfe Ihr Solingen App-Team",
-        "repliedAt": "2020-09-02 16:06:50"
     }
 ]

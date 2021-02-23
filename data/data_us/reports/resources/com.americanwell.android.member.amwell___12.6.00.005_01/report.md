@@ -215,6 +215,12 @@ The Amwell: Doctor Visits 24/7 app has been installed by more than **1000000** t
 <img src="5_star_reviews_wordcloud.png" alt="com.americanwell.android.member.amwell 5 reviews"/>
 </p>
 
+> Absolutely wonderful, ten times faster than an actual drs visit. The doctor I spoke with was absolutely fantastic. I would recommend this service to anyone<br> :date: __2021-02-22 17:19:50__
+
+> I have used the service twice I have had great results each time<br> :date: __2021-02-22 15:52:41__
+
+> Very Helpful and informative. Would definitely recommend.<br> :date: __2021-02-17 19:18:48__
+
 > Love this option<br> :date: __2021-02-03 09:13:37__
 
 > Fast and easy!!! I've seen 2 doctors so far the last one being Cynthia which was a VERY nice doctor. She knows exactly what she's talking about an listens to you... I recommend Amwell.. If u can't get out or not feeling too good and don't have any transportation this is who you go to!<br> :date: __2021-02-02 17:46:33__
@@ -228,12 +234,6 @@ The Amwell: Doctor Visits 24/7 app has been installed by more than **1000000** t
 > Great Doctor!!very good besides manner, and very professional.<br> :date: __2021-01-24 18:58:07__
 
 > Always feel like I matter<br> :date: __2021-01-24 02:56:25__
-
-> Our insurance company recommends this. We have used it several times for rashes, eczema treatment, Pink eye. It was great. There was a hiccup on the cost. The normal price is $79, but our insurance gives a discount. Make sure you enter the access key or service code that your company gives, in addition to putting in your insurance. Ours dropped to $20.<br> :date: __2021-01-22 00:11:30__
-
-> this is awesome.<br> :date: __2021-01-17 05:56:19__
-
-> First tele health experience. Saved time going to regular doctor for something minor but it did need medical attention. Fast and got immediate attention. Very pleasant doctor. Two Thumbs up!!!<br> :date: __2021-01-11 20:54:12__
 
 
 
@@ -327,6 +327,10 @@ The Amwell: Doctor Visits 24/7 app has been installed by more than **1000000** t
 <img src="1_star_reviews_wordcloud.png" alt="com.americanwell.android.member.amwell 1 reviews"/>
 </p>
 
+> Uninstalled immediately after the signup page. I am a trans person who came across their services recommended as being LGBTQ+ friendly but the app has a signup form with no options for gender other than male/female, and no option for a social name. This tells me everything I need to know about how I might be treated. Terrible.<br> :date: __2021-02-18 17:43:38__
+
+> Dificult to use<br> :date: __2021-02-17 06:48:47__
+
 > This app is going downhill. Tried to submit an appointment and there were no available slots until December 16, 2021. I then tried to message their "digital receptionist” in the app to confirm if that was accurate and got an error saying the message couldn't be sent. Makes the app pretty useless as I can't wait 11 months to see a doctor.<br> :date: __2021-01-27 20:54:26__
 
 > It does not work or it is verry sofisticated for my mind to work with .<br> :date: __2021-01-11 22:07:36__
@@ -342,9 +346,5 @@ The Amwell: Doctor Visits 24/7 app has been installed by more than **1000000** t
 > Thanks for letting me spend $70 for a 10 minute visit for a doctor to tell me I need to see a doctor in person. Super (un)helpful Also I've been waiting to be reimbursed for two visits that happened in August and September. I sent the proof from my insurance that I should be reimbursed but it's been stuck in the billing department for over 4 weeks.<br> :date: __2020-11-09 20:00:28__
 
 > Not very comprehensive. Nothing for chronic pain of any type.<br> :date: __2020-11-02 18:53:20__
-
-> It was okay on my first visit, but ever since then it's been awful. I had my initial appt, he gave me a prescription and said to msg him in 2 wks. I try to msg him 2 wks later but turns out the drs can turn their messages off and you have to set a new appt. I don't have the money for that ($125/appt). Today I had an appt at 11, he changed it twice overnight to 10am, and I missed it (I work late hours). Now I have a notice saying they have a 24 hr cancellation policy & $40 charge? Not my fault!!<br> :date: __2020-10-31 15:31:48__
-
-> It saying that it is not available in my area. I know I have used this amwell app before<br> :date: __2020-10-29 17:30:10__
 
 

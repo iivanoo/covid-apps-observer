@@ -140,6 +140,10 @@ The AlohaSafe Alert app has been installed by more than **10000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="org.alohasafe.alert 5 reviews"/>
 </p>
 
+> Love it<br> :date: __2021-02-16 09:25:53__
+
+> I have used the app for about one week now. And there has been no contact warning. Was just wondering if it is still working. I just checked the number of installs and it's more than 10 thousand. That means that less than one of us gets positive each day. Its unlikely that we have had any contact in say the last week. No news is good news.<br> :date: __2021-02-16 02:58:13__
+
 > At 10k downloads, roughly 0.71% of Hawaii's 1,416,000 population are using this app (unless my math is wrong). It's a great app, but more people need to know about it to be truly useful.<br> :date: __2021-02-05 09:51:33__
 
 > Very thankful Hawaii has an app like this. It's straightforward and non-intrusive.<br> :date: __2021-02-02 12:32:58__
@@ -155,10 +159,6 @@ The AlohaSafe Alert app has been installed by more than **10000** times. At this
 > Easy access<br> :date: __2021-01-25 17:58:06__
 
 > Very useful.<br> :date: __2021-01-24 03:19:46__
-
-> How can you stay safe from the c_firus<br> :date: __2021-01-20 08:46:31__
-
-> works as exactly designed to.<br> :date: __2021-01-17 12:51:54__
 
 
 
@@ -181,6 +181,8 @@ The AlohaSafe Alert app has been installed by more than **10000** times. At this
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="org.alohasafe.alert 3 reviews"/>
 </p>
+
+> No one checks if you have downloaded the app upon arrival on Maui. It consumes a lot of battery.<br> :date: __2021-02-19 17:53:48__
 
 > Interesting app... Although with only around 5000+ downloads I'm not sure if the rate of population with this app installed is enough to achieve its intended purpose.<br> :date: __2021-01-22 09:37:13__
 

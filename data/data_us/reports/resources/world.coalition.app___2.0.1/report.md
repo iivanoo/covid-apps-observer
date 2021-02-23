@@ -173,10 +173,12 @@ No recent reviews available with 3 stars.
 #### 2-star reviews
 
 <p align="center">
-
+<img src="2_star_reviews_wordcloud.png" alt="world.coalition.app 2 reviews"/>
 </p>
 
-No recent reviews available with 2 stars.
+> The app doesn't use Google's Exposure Notifications API, and therefore does nothing. The app is otherwise okay.<br> :date: __2021-02-17 13:36:29__
+
+
 
 #### 1-star reviews
 

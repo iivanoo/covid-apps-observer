@@ -132,6 +132,8 @@ The Covidom Patient app has been installed by more than **10000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="fr.aphp.covidom 5 reviews"/>
 </p>
 
+> Tres bien permet d d'évaluer son état et d'alerter si besoin.<br> :date: __2021-02-22 11:01:20__
+
 > Perfect thanks<br> :date: __2020-11-01 17:24:02__
 
 > Action réaction. Positive... je remplis mon 2eme questionnaire en signalant des symptomes... une heure aprés on me rappel pour me poser des questions et prendre de mes nouvelles... et on est dimanche matin ! Bravo ce suivis est tellement rassurant...<br> :date: __2020-10-25 11:37:02__
@@ -149,8 +151,6 @@ The Covidom Patient app has been installed by more than **10000** times. At this
 > Très pratique il suffit de penser à rentrer le code fourni par son médecin<br> :date: __2020-04-24 11:44:22__
 
 > Bonne appli, j'ai bien reçu mes identifiants envoyés par le médecin. Le questonnaire quotidien est facile à compléter et c'est rassurant d'être suivi et sous surveillance.<br> :date: __2020-04-23 14:50:40__
-
-> Je n'ai pu accéder au service que après avoir reçu un code et un identifiant Uns fois connecté c'est facile et ça a l'air de bien marcher Faites attention à vous !<br> :date: __2020-04-23 12:32:15__
 
 
 

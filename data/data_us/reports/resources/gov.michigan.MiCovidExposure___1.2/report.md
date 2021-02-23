@@ -126,6 +126,8 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="gov.michigan.MiCovidExposure 5 reviews"/>
 </p>
 
+> Just use the app. Would be nice if it showed number of other app users it's "seen" though, then I could be sure it's working<br> :date: __2021-02-17 14:13:30__
+
 > App wasn't updating at all but the developer contacted me and the fix he gave me worked!!! Now it updates every day<br> :date: __2021-02-06 19:25:27__
 
 > Way improved from its earlier design<br> :date: __2021-02-03 03:53:22__
@@ -143,8 +145,6 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 > I know the privacy concerns, but I feel my health and the health of the people around me matter more.<br> :date: __2021-01-18 18:05:55__
 
 > Free<br> :date: __2021-01-04 16:26:34__
-
-> A little piece of mind for these times we live in<br> :date: __2020-12-29 13:49:56__
 
 
 
@@ -210,6 +210,10 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 <img src="2_star_reviews_wordcloud.png" alt="gov.michigan.MiCovidExposure 2 reviews"/>
 </p>
 
+> Doesn't update cases counts and deaths data<br> :date: __2021-02-22 19:53:15__
+
+> Does not update<br> :date: __2021-02-14 13:28:30__
+
 > The app does NOT update as it should! It unexpectedly will stop and the only alternative is to delete it and then reinstall it. I have done this 3x....<br> :date: __2021-01-19 14:05:19__
 
 > Haven't had a logged exposure check since Dec 27 with no way to refresh.<br> :date: __2021-01-07 15:37:22__
@@ -226,10 +230,6 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 
 > Why are only 3 ethnic groups shown in the Statewide Racial Breakdown? The groups shown are Black/African American, Hispanic/Latino, and Native American/Alaskan Native. What about Asians? Middle Eastern? Michigan is made up of more than 3 ethnic groups and whites.<br> :date: __2020-11-22 15:22:42__
 
-> Would be nice if the Stats screen wasn't 80% ad for John Hopkins. Would like to see better view of the stats.<br> :date: __2020-11-19 15:35:54__
-
-> Would not come in kept trying<br> :date: __2020-11-19 00:24:18__
-
 
 
 #### 1-star reviews
@@ -238,24 +238,24 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="gov.michigan.MiCovidExposure 1 reviews"/>
 </p>
 
+> I checked the app and the last update was 12 days ago. What good is that? I did make sure that the app is not sleeping in settings<br> :date: __2021-02-22 01:02:13__
+
+> The app doesn't seem to be very functional. Initially it was updating possible exposure or lack thereof on a daily basis then it stopped updating. I actually uninstalled and reinstalled the, like the first installation, it updated daily for s few days and then stopped updating.<br> :date: __2021-02-20 20:00:10__
+
+> Does not work<br> :date: __2021-02-20 19:37:39__
+
+> Works for a few days then stops. It says it's on but no readings for two weeks. Reloaded twice. Still don't work right.<br> :date: __2021-02-20 03:13:41__
+
+> Well, I had Covid, and it didn't show me or the people who live here. I had to report to Midland, Gratiot, and Isabella counties.. Guess what? I uninstalled really fast. Edit: I had to report in three counties, because I live, work, and kids go to school in all three. Of course I reported, but it still didn't show up in the App.<br> :date: __2021-02-19 17:17:08__
+
+> Unfortunately this app is not very useful. I was not even able to enter that I had COVID to alert anyone. It requires a number from the health department who never contacted me. I tried to go on their site to contact someone but never got a response. I was so frustrated I couldn’t use it to alert people. It’s a great idea but in my case felt Totally pointless<br> :date: __2021-02-17 18:40:31__
+
+> Like others I think it is pointless if it doesn't check exposures for more than a month. And seeing the lazy copy and paste response to concerns by the developer makes it even worse because it shows lack of concern. Just stop making excuses and telling users to go to some website that won't change anything and improve your app. It's not the phone manufacturer's fault your app sucks.<br> :date: __2021-02-14 14:35:44__
+
+> I checked all the things suggested in previous review replies and it still doesn't update. Not helpful if no manual check option.<br> :date: __2021-02-14 04:56:52__
+
+> It does not do anything. Had to uninstall/install, hoping it might work now?<br> :date: __2021-02-13 22:41:00__
+
 > I caught covid and found it extremely difficult to report my case. Called all the numbers listed multiple times over multiple days and never got an answer. I understand these people are busy during these times but I feel like most people aren't going to be able to report their case like I wasn't able to.<br> :date: __2021-02-13 05:05:24__
-
-> I have read other reviews of the app, and they say the same thing. No one has received an exposure alert. According to this app, I must be living in the only Covid-free area. Even if nobody reports having a positive test result, they could still tell you which areas are hot spots for a concentration of cases from other sources. I tried re-installing the app, and there was no change. Update: The response given to me and everyone else does not address the fact that this app does not work. I would.<br> :date: __2021-02-12 14:21:03__
-
-> Shows zero cases at my location. When multiple people have died and 26 new cases in January alone. Totally useless!!!<br> :date: __2021-02-05 19:22:00__
-
-> 10,000 downloads vs. 10 million Michigan population say 0.1% use the app. Nice idea, but pretty useless without people using it. False sense of security. Yeah, deleting this app. Excuse of wait till more people download it doesn't matter. Only 'updates possible exposurers' every 3 days at best. This is why it 1-free 2-from the state. Any private company couldn't do this, but put our state in control and it is now a joke. Save your electrons and battery.<br> :date: __2021-02-02 03:07:46__
-
-> There needs to be a button to check manually. My app hasn't automatically check since December 26th. What is the point of a notification app that doesn't even check to notify you. Edit: I realize every device is different but this is a google pixel running pure android. Wouldn't it be easier just to put a button in the app instead of having to reply to thousands of people on the app store telling them how to change their settings?<br> :date: __2021-01-26 17:31:36__
-
-> I've had it since it came out and it stuck on 1-12021 for the last time exposure check was done and it is turned on...<br> :date: __2021-01-26 15:32:43__
-
-> No way to refresh app, shows last check was days ago. Tried a force quit and reopened and it still won't update. I assumed the app was passively working but what good is it if it doesn't refresh? I'm guessing not many people will check the app regularly just to make sure it's updating. Good app in theory but useless right now.<br> :date: __2021-01-25 05:43:13__
-
-> I've had nothing show up for where I live in Michigan and I think this site sucks. It is not an accurate app.<br> :date: __2021-01-24 06:25:25__
-
-> Keeps stopping<br> :date: __2021-01-19 02:22:17__
-
-> I have had this app installed since day 1. I am an ER nurse who has cared for so many covid patients I couldn't even count. The whole time with my phone in my pocket. Not one exposure alert. I guess I wasn't really reviewing the app but the deployment or idea. If the state did this right they would incorporate this into discharge instructions for the covid positive patients.<br> :date: __2021-01-16 00:12:32__
 
 

@@ -148,6 +148,16 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 <img src="5_star_reviews_wordcloud.png" alt="at.roteskreuz.stopcorona 5 reviews"/>
 </p>
 
+> Sehr wichtige APP !!!<br> :date: __2021-02-23 12:22:31__
+
+> Perfekt<br> :date: __2021-02-23 09:54:04__
+
+> Super App! Viele Nutzer*innen=große Wirkung! Bitte mitmachen!!!<br> :date: __2021-02-20 07:48:12__
+
+> Wichtig! 👍🏻 Bitte installiert diese App!<br> :date: __2021-02-19 10:09:50__
+
+> Passt! Eine, der notwendigen Maßnahmen. Schade, dass die Lügner und Verschwörungstheoretiker versuchen, die App kaputtzureden.<br> :date: __2021-02-19 08:46:22__
+
 > Ich fühle mich sicher mit dieser App! Danke dafür! 😉<br> :date: __2021-02-11 13:20:17__
 
 > Finde diese App ist sehr praktisch<br> :date: __2021-02-11 12:21:11__
@@ -158,16 +168,6 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 
 > Super<br> :date: __2021-02-06 20:31:38__
 
-> Sehr sinnvolle App, die eigentlich verpflichtend für Alle sein sollte<br> :date: __2021-02-05 23:06:35__
-
-> Ich finde keine Kontakte von mir.<br> :date: __2021-02-04 22:38:45__
-
-> Glücklicher weise hab ich noch keinen Kontakt gehabt!<br> :date: __2021-02-04 18:01:25__
-
-> Relativ wenig<br> :date: __2021-02-04 12:02:21__
-
-> Bin froh , dass es die App gibt<br> :date: __2021-02-04 08:03:30__
-
 
 
 #### 4-star reviews
@@ -175,6 +175,8 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="at.roteskreuz.stopcorona 4 reviews"/>
 </p>
+
+> e hxss<br> :date: __2021-02-21 14:05:08__
 
 > Etwas gewöhnungsbedürftig. Doch man kommt dazu, wie man bedient.<br> :date: __2021-02-06 09:10:04__
 
@@ -193,8 +195,6 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 > Wie in anderen Kommentaren wäre Feedback hilfreich wie viele Kontakte in den letzten x Tagen erkannt wurden. Sonst top.<br> :date: __2020-11-17 06:41:57__
 
 > Habe erst heute die app runtergeladen<br> :date: __2020-11-16 17:58:07__
-
-> Mich würde interessieren ob der Handsshake per Bluetooth auch noch funktioniert wenn ich permanent per Bluetooth mit meinen Fitness Armband Verbunden bin. Also ob dennoch Bluetooth auch für den Handshake genutzt werden kann<br> :date: __2020-11-13 06:56:30__
 
 
 
@@ -232,6 +232,8 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 <img src="2_star_reviews_wordcloud.png" alt="at.roteskreuz.stopcorona 2 reviews"/>
 </p>
 
+> Angeblich hat die App 20.000.000 Euro gekostet; da würde man sich etwas mehr erwarten: 1.) Ist der Schalter "Automatische Handshake" ein/aus ident mit dem Schalter "COVID 19-Benachrichtigung aktivieren"? Wenn ja, warum verwendet man zwei verschiedene Bezeichnungen? Ich kann keinen Unterschied feststellen! Wenn ich "COVID 19-Benachrichtigung aktivieren" ausschalte, dann wird noch "Automatische Handshake" als aktiv angezeigt, obwohl es auch ausgeschaltet ist. Nach Neustart sind beide auf aus. Das ist ein FEHLER bei der Anzeige! 2.) Die Liste der möglichen Begegnungen war nicht sortiert und ist in der neuen Version (Feb 2021) nicht mehr vorhanden! 3.) Es gibt jedoch noch den Punkt "App-Einstellungen öffnen", hier werden jedoch nur Informationen angezeigt. 4.) In der App steht immer noch "1 Meter Abstand". Es sollte "2 Meter Abstand" lauten! 5.) Das Design ist schlecht, die Menüpunkte unlogisch verschachtelt, die Bezeichnungen sind teilweise nicht ganz passend gewählt usw. 6.) Hilfe, FAQ usw. passen teilweise nicht mehr zur aktuellen App-Version.<br> :date: __2021-02-17 14:33:03__
+
 > Offensichtlich sinnlos und lässt den User im Regen stehen. Ich bekam heute eine Warnung eines möglichen Kontaktes. Dieses nicht ausgereifte Stück Software zeigt nicht mal an, an welchem Tag der Kontakt statt gefunden hat. Erst eine Kontaktaufnahme der betroffenen Person bestätigte die offensichtliche Quelle des Kontakts (Gott sei Dank alles negativ). Seit dem nervt die App im ca 30min. Takt mit Warnmeldungen. Lt. App hatte ich jetzt schon 5 weitere Kontakte. Stümperhaft. Schade ums Geld.<br> :date: __2021-02-07 11:27:25__
 
 > Ist das gleiche wie mit Lockdown: App ist nur sinnvoll, wenn alle mitmachen.<br> :date: __2021-02-07 10:49:50__
@@ -250,8 +252,6 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 
 > Die Zählweise der IDs ist nicht nachvollziehbar. Habe in der Wohnung keinen Untermieter und trotzdem neue IDs bekommen. 1k sind für die zweit größte Stadt Österreichs dann doch wenig IDs. Keine Alarmmeldung noch bekommen.<br> :date: __2021-01-06 19:03:52__
 
-> Ich habe dutzende Benachrichtigungen über Kontakte, obwohl ich in dieser Zeit definitiv allein zu Hause war. Es kann auch nicht von einer anderen Wohnung sein, ich lebe in einem Einfamilienhaus, weit und breit kein Mensch. Vielleicht könnte man die Mitglieder des eigenen Haushaltes auf eine Whitelist setzen. Da wird man es ohnehin erfahren wenn sie positiv sind<br> :date: __2021-01-02 13:26:53__
-
 
 
 #### 1-star reviews
@@ -259,6 +259,16 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="at.roteskreuz.stopcorona 1 reviews"/>
 </p>
+
+> Seit dem Update Ende Jänner hat sich der Datenverbrauch egal ob WLAN bzw LTE. verhundertfacht!!!! 600 MB im Monat - das ist bei mir mehr als WhatsApp<br> :date: __2021-02-23 19:58:43__
+
+> Also ich habe auch den Verdacht dass alle Bluetooth Geräte gespeichert werden... sobald ich mein Headset einschalte... zack, allein zuHause zw 21 und 4 uhr Früh immer Laptop, Bluetooth Lautsprecher alles Meldungen wo definitiv nur ich mit diesen Geräten in Sendereichweite bin ..... Aber 2 Kolleginnen die sehr oft mit mir gearbeitet haben und auch die App installiert UND am Laufen haben.. diese Kontakte wurden NICHT gespeichert... also komplett Sinnbefreit diese österreichische Lösung dieser App<br> :date: __2021-02-18 16:34:06__
+
+> Es ist relativ schwierig, dass man alles so einstellt, dass die App auch funktioniert. Habe Bluetooth aktiviert, trotzdem Fehlermeldung - Framework Einstellungen ??? Da finde ich nichts. Werde wieder deinstallieren.<br> :date: __2021-02-17 20:06:33__
+
+> Alles in allem macht die App das was sie soll, und das ganze ohne sonst oft lästige Benachrichtigungen. Aber: das Tracking-Verhalten ist erratisch. Habe innerhalb von 2 Stunden, in denen ich die Wohnung nicht verlassen habe, über 100000 Kontakte?<br> :date: __2021-02-16 15:33:57__
+
+> Bin nicht mal in den Genuss gekommen, Framework Fehler.<br> :date: __2021-02-14 20:00:26__
 
 > Anwendung gelöscht. Hat keine Funktion, seit Monaten keine Angabe von Kontakten usw. Dafür werden andere BT-Verbindungen (Autofreisprech, Headset etc.) permanent geblockt. Diese funktionieren erst nach deaktivieren der Stopp Corona App.<br> :date: __2021-02-11 15:49:20__
 
@@ -269,15 +279,5 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 > Wenn eine Mehrheit der Bevölkerung intellektuell überfordert ist, den Sinn dieser App zu erfassen, ist diese eben wenig sinnvoll. Die Frage, ob das Design anspricht und die App gefällt, passt dazu.<br> :date: __2021-02-07 23:13:32__
 
 > Diese App funktioniert überhaupt nicht, meine Nachbarn hatten Corona mussten 2wochen zu Hause bleiben, ich bekam auch keine Warnung, habe Alles gelöscht was Corona betrifft, bin sowas von der App Enttäuscht 😞 😞 und was Corona betrifft.<br> :date: __2021-02-07 11:36:19__
-
-> Funktioniert sie überhaupt?<br> :date: __2021-02-05 20:07:28__
-
-> Mein Eindruck ist, die App ist für fast gar nichts. Sie ist beinahe so doof und unfähig wie ihr Erfinder.<br> :date: __2021-02-05 00:34:34__
-
-> keine<br> :date: __2021-02-04 18:33:05__
-
-> Seit letzdem Update gar keine Info mehr. Hab die APP gelöscht. Gute Absicht aber leider sehr schlechte Umsetzung. Der User hat generell das Gefühl, es passiert nichts. Als mindest-Info sollte man gleich am Startbildschirm Zähler für n Kontakte, Zähler je Tag, eventuell auch Zähler >15 Min. sehen. Eine APP die nichts zeigt - was soll das sein?<br> :date: __2021-02-04 11:56:16__
-
-> Ich war jetzt 2 Wochen nur zu Hause und das ganz alleine und die App sagt mir das ich sehr viel Kontakt mit anderen Menschen habe. Wahrscheinlich kommt das von den vielen Leuten die immer an meinem Zuhause vorbeikommen.<br> :date: __2021-02-01 17:02:50__
 
 

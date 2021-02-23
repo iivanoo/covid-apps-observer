@@ -1,5 +1,53 @@
 [
     {
+        "reviewId": "gp:AOqpTOF8NjyKkPeOU0YJ5Yo318lnb0ZgOR0JKgyPTbd5fFpH_239CRouu6V_svP0_KtHlBj_ntCTZ5Llsdl84J0",
+        "userName": "Rosemary Williamson",
+        "userImage": "https://play-lh.googleusercontent.com/-b4WLLgiTloQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnxCg6lpcngh5rdseHN8DGceJliBA/photo.jpg",
+        "content": "This app made my visit easy. It was like being in the office. I will use it again.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "12.0.16.005_01",
+        "at": "2021-02-19 19:16:34",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGDdT3-ZARqgk5UWrIOUsKKOGXdwPRJ88bfBXlDar8a2qEnwT0wVtBWoVvg0Ptz-jB8DU-CFBaCONl8z-s",
+        "userName": "BooBoo Jade",
+        "userImage": "https://play-lh.googleusercontent.com/-1XfPR4JziTo/AAAAAAAAAAI/AAAAAAAAWM0/AMZuucmoiDBNykTUVLxFfKrMraJPgxYV1w/photo.jpg",
+        "content": "Make sure nothing else is connected to your phone via Bluetooth BEFORE you start the visit or you won't be able to hear the doctor very well! This has happened a few times and once the volume of the other person is low there is nothing more you can do so the doctor gets a lovely view of my ear on the camera because I am trying to hear them! It is really hard for me to remember to shut off my Bluetooth before I go into the app and this has been a big disappointment using the app.",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "12.0.16.005_01",
+        "at": "2021-02-16 20:29:15",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOE2ylQMbQbt-Xk9deBj7k-R_QdrcA9dp8CXenck6ySclu5267jzGWsIPdTsCfe4CU_QJ66NAGSZGl7XIvk",
+        "userName": "Leonard Wall",
+        "userImage": "https://play-lh.googleusercontent.com/-zLGFTiOG3uA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckmIwUZakDHfNCWPaPDZ4IkfRsgNA/photo.jpg",
+        "content": "I was very pleased with the quality of my MD appointment. Got great advise and counseling",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "12.0.16.005_01",
+        "at": "2021-02-16 17:14:56",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHF9hkyhQWLGIFl9gZJTeqV7oXiT15avEyzJsHWb-7JSSi_xK_ifm40sU-XqsDUHWWPlBMQ9-OOvno-Wko",
+        "userName": "vincent cipolla",
+        "userImage": "https://play-lh.googleusercontent.com/-pFhQxXOky9Q/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnDqoVzqIt1bCM-CpvsQkp-9-FjTA/photo.jpg",
+        "content": "Keeps crashing. After I enter login and password, app closes. When it does open, unable to book appointment. After I select the available time slot, an error message pops up stating that \"time is no longer available\".",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "12.0.16.005_01",
+        "at": "2021-02-16 01:17:04",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOHO8xCBwkrS7LDh9MpA2oOIzRzfASs7KgdNZgZ6tnmU-l3fnW4LJ0kfzzlqHdgB-nYdfevbaiNMw4p6dig",
         "userName": "Bryan Calaman",
         "userImage": "https://play-lh.googleusercontent.com/-xrhRWEfkZTc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclkHXlukAtYt11vSBwsi-Tg9gq66w/photo.jpg",
@@ -149,7 +197,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-hs92ocTLE1g/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmHXHxWOMGkPMNbk55s2dOCnZB19w/photo.jpg",
         "content": "Visit summary does not include NPI number or tax ID number, both of which are needed for insurance. Also, they say Corona screening 7:00 a.m. to 7:00 p.m., but the day I checked every nurse was offline. This app can be useful for quick first Care service, however.",
         "score": 2,
-        "thumbsUpCount": 1,
+        "thumbsUpCount": 2,
         "reviewCreatedVersion": "12.0.16.005_01",
         "at": "2021-01-16 18:42:33",
         "replyContent": null,
@@ -554,7 +602,7 @@
     {
         "reviewId": "gp:AOqpTOFVQYLztTMlWiXZrf65e7Sldo0K9rk5zghiUwI3eoF4oraGor3gXM7xYbBb-WoJoTF-ZeTDGHCSOCjByBU",
         "userName": "Michelle Powell",
-        "userImage": "https://play-lh.googleusercontent.com/-HI3O3TF7dlc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmeGiMv7rgYQpUhWAPuQC6pKtd_rw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgEsrvMbfBDtrXgyAUP0VlLVD1yY62-CJEzug3csg",
         "content": "Very unsatisfied, how can you see a child's throat through a damn phone camera, I'll never even go to that doctor's office again",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1586,7 +1634,7 @@
     {
         "reviewId": "gp:AOqpTOEB97QKfhNnTzprmOKFG8jnWz8vQjn5Qmc2ezJ5yLC9N8LFPqdwManbhACziDHBfF3tYIpvawHqo6V7x0c",
         "userName": "dennis gravely",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjEexjE5goZDv8v4a4eAZ2pQnZ3XhnpRFeBOgfGPg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiyDYfRvtdnvITOngfQpf3KUr3NmZQK3jlefdeGxA",
         "content": "Great",
         "score": 5,
         "thumbsUpCount": 0,
@@ -2426,7 +2474,7 @@
     {
         "reviewId": "gp:AOqpTOG12dC9JGrNxEO6oOMx71KX9c5yiMHw8tCxue8A1N5enE-ssUcorzfs37CJL35EHXNW1oO26Nuga181Ris",
         "userName": "Edward Epright",
-        "userImage": "https://play-lh.googleusercontent.com/-xd-ek3p1_8A/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclH6BVdfkNVizhLpG4BDlfa2CkHYw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgR4caRFTRD7Z8K5DTpzAoHRRESREk-Kvf_RAc5tO0",
         "content": "This virtual visit on demand with doctor Gerard was very good. Besides the fact that doctor Gerard is a very good doctor, the video was very smooth, the sound it seem likes doctor Gerard had a little bit harder time hearing us but we heard him fine and we were able to communicate everything we wanted to communicate.",
         "score": 5,
         "thumbsUpCount": 5,
@@ -2677,8 +2725,8 @@
     },
     {
         "reviewId": "gp:AOqpTOFGQRherZTsY39mKzm-ricD8miQN-fvvivbnzU_KP11KWMLeopA5Fv5EYYoWPQ5vp8Eo-VUXvpfmeBSDEk",
-        "userName": "Wonder Woman",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiAc-f2G1INe_McVBKSt-FRUF4spvwqxZ8oFsw1Ow",
+        "userName": "A Cline",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj5x7gFauvFbmBPshd0WqJqIXhFdgPN_5yeEiXh5A",
         "content": "I am so grateful for this app. Knowing I needed antibiotics but feeling so terrible, I dreaded the thought of getting to my doctor's office. My insurance wasn't one of the accepted plans for this on demand service, but for being able to stay in my bed and have a video appt with a doctor within minutes and have the antibiotics sent to my pharmacy, $49 was a small price to pay and worth every penny.",
         "score": 5,
         "thumbsUpCount": 8,

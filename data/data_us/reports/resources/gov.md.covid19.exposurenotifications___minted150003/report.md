@@ -241,6 +241,8 @@ The MD COVID Alert app has been installed by more than **100000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="gov.md.covid19.exposurenotifications 1 reviews"/>
 </p>
 
+> App does not work 😒<br> :date: __2021-02-14 20:46:44__
+
 > It says it will use bluetooth then it complains that it needs location turned on. So what is the deal ?<br> :date: __2021-02-10 21:13:28__
 
 > Wont stay off my phone i keep deleteing it<br> :date: __2021-02-10 01:23:56__
@@ -258,7 +260,5 @@ The MD COVID Alert app has been installed by more than **100000** times. At this
 > Worthless. Even after someone in my household tested positive and the MD Health person doing contact tracing told me the app would notify me (due to their manual entry) this app still (13 days later) states that I've had no exposures. Not sure what the app is doing but it's certainly not notifying anyone of COVID exposures.<br> :date: __2021-01-24 13:42:54__
 
 > Trying to report myself that I tested positive but it won't let me enter in my verification code. Oh well, good luck everyone who crossed path with me this week.<br> :date: __2021-01-23 21:45:28__
-
-> I have Covid and it won't let me mark I do. When I ask any testing facility or official they tell me it is all handled through CDC... I know it's all bull shirt now... greeeat. Just thought I'll be helpful and tell everybody to stay inside and stop the spread, don't rely on the governor's app, it doesn't work AT ALL. Ive been positive for 2 days. No changes can or were made on my app.<br> :date: __2021-01-21 06:20:47__
 
 

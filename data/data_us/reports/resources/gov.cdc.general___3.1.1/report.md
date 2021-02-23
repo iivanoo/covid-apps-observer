@@ -188,6 +188,12 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 <img src="5_star_reviews_wordcloud.png" alt="gov.cdc.general 5 reviews"/>
 </p>
 
+> Info....👍👍👍👍.<br> :date: __2021-02-21 13:38:37__
+
+> I love this app. Tessa harrod<br> :date: __2021-02-20 01:18:17__
+
+> Very useful, & GPS keep one updated!<br> :date: __2021-02-17 01:39:33__
+
 > Nice<br> :date: __2021-02-09 18:13:22__
 
 > Nice<br> :date: __2021-02-04 11:00:30__
@@ -202,12 +208,6 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 
 > Its OK but I don't want it thank you any way<br> :date: __2020-12-23 09:14:11__
 
-> Got some kinks, but over all good app.<br> :date: __2020-12-18 21:45:32__
-
-> A lot of info ... easy to find what ur looking for. Thanks Great Job!<br> :date: __2020-12-12 19:24:07__
-
-> Love having up to date disease transmission protocols at my convenience 24/7. Great app<br> :date: __2020-11-08 02:28:28__
-
 
 
 #### 4-star reviews
@@ -215,6 +215,8 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="gov.cdc.general 4 reviews"/>
 </p>
+
+> Good for info<br> :date: __2021-02-21 03:33:26__
 
 > Decent app with lots of good info.<br> :date: __2021-01-27 05:17:53__
 
@@ -233,8 +235,6 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 > Sarahlandry ex sex here<br> :date: __2020-06-11 01:25:36__
 
 > Too many notifications about the virus made me depressed. Good app for a free one, just need better notification options.<br> :date: __2020-05-31 20:08:18__
-
-> It's useful but hard to find what I'm looking for<br> :date: __2020-05-27 02:18:04__
 
 
 

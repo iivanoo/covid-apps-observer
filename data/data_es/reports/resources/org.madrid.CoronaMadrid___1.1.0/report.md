@@ -150,7 +150,11 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="org.madrid.CoronaMadrid 5 reviews"/>
 </p>
 
-> Esta bastante bien la app, hace un seguimiento cada doce horas, y te da bastante información de los centros sanitarios más cercanos a ti, me ha gustado mucho, y es fácil y sencilla<br> :date: __2021-02-12 11:52:44__
+> App muy recomendada en este momento de pandemia. Además de poder hacer una autoevaluación en función de tus síntomas, te permite ver consejos y medidas de prevencion, asi como la localización de los hospitales más cercanos si los necesitases. Además sirve de ayuda para descongestionar el sistema sanitario. Como punto a añadir, al introducir los datos personales estaría bien que tomase si eres o no persona de riesgo, y variables del estilo.<br> :date: __2021-02-23 18:29:57__
+
+> Una interfaz muy limpia. Aplicación intuitiva. Es una buena forma de saber si puedes tener covid-19 o si deberías hacerte una prueba. Estoy encantado con la aplicación!<br> :date: __2021-02-20 06:00:19__
+
+> Me ha gustado mucho la APP, es justo lo que necesitaba, además es muy fácil de usar.<br> :date: __2021-02-19 12:37:16__
 
 > Buena aplicación muy util con esta maldita enfermedad<br> :date: __2021-02-10 15:04:35__
 
@@ -165,10 +169,6 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 > Muy buena aplicación. Funciona perfectamente y es muy útil.<br> :date: __2021-01-15 12:29:09__
 
 > Muy buena app, de las mejores que he usado se las recomiendo al 💯<br> :date: __2021-01-14 23:02:48__
-
-> Muy buena aplicación y muy importante a la vez. La recomiendo.<br> :date: __2021-01-08 19:49:24__
-
-> Me ha gustado la app. Te hace un seguimiento de salud cada 12 horas, identifica los posibles síntomas del covid, te proporciona información sobre el virus, los centros sanitarios más cercanos a tu ubicación... En general está bastante bien para la situación actual que tenemos. Recomendada!<br> :date: __2021-01-07 16:41:59__
 
 
 
@@ -234,9 +234,9 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 <img src="2_star_reviews_wordcloud.png" alt="org.madrid.CoronaMadrid 2 reviews"/>
 </p>
 
-> Es muy mala, te hace unas preguntas obvias para que puedas pensar que tienes covid. Pero es lo sabido por todos, tienes fiebre, tos, dificultad respiratoria,... Si dices que si, pues puedes tener la enfermedad. Obvio, como decía, lo siento pero no aporta<br> :date: __2020-11-03 15:51:48__
+> La verdad es que no me extraña que no se descarguen la app, es fatal tener que ingresar la fecha de nacimiento dando para atrás mes a mes (la mía 1954). Tienen que actualizar la forma de ingresarla, con las tecnologías que hay hoy en día es ¡¡¡INCREÍBLE!!!<br> :date: __2021-02-21 20:26:05__
 
-> La verdad es que no me extraña que no se descarguen la app, es fatal tener que ingresar la fecha de nacimiento dando para atrás mes a mes (la mía 1954). Tienen que actualizar la forma de ingresar la, con las tecnologías que hay hoy en día es ¡¡¡INCREÍBLE!!!<br> :date: __2020-10-20 16:56:49__
+> Es muy mala, te hace unas preguntas obvias para que puedas pensar que tienes covid. Pero es lo sabido por todos, tienes fiebre, tos, dificultad respiratoria,... Si dices que si, pues puedes tener la enfermedad. Obvio, como decía, lo siento pero no aporta<br> :date: __2020-11-03 15:51:48__
 
 > Selección de fecha nacimiento muy ineficiente. ¿Búsqueda mes a mes? Revisen la app.<br> :date: __2020-09-01 08:52:10__
 
@@ -262,6 +262,10 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="org.madrid.CoronaMadrid 1 reviews"/>
 </p>
 
+> Para poner fecha nacimiento tengo que recorrer mes a mes desde ahora.<br> :date: __2021-02-20 11:11:05__
+
+> No me enviaba el código de registro. Después de 55 minutos, me han llegado 4. Al ir a meterlos, no me acepta ninguno y cuando intento pedir uno nuevo, me dice que he superado el máximo de intentos. La desinstalo ahora mismo, porque vaya basura.<br> :date: __2021-02-15 19:24:26__
+
 > Mal no sirve<br> :date: __2021-02-06 23:32:08__
 
 > No tiene aviso de zonas confinadas. Entonces no me sirve para nada<br> :date: __2021-02-03 23:09:26__
@@ -277,9 +281,5 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 > Mi nombre y DNI porque<br> :date: __2020-11-19 08:59:29__
 
 > Inutil en todos los sentidos.<br> :date: __2020-11-14 06:16:26__
-
-> Ni siquiera abre la aplicación...<br> :date: __2020-10-29 12:50:37__
-
-> Una basura, activar la nacional y dejarse de tontunás. Solo da consejos, inutil como la IDA para detectar casos. Poner mas rastreadores y activar la nacional.<br> :date: __2020-10-26 10:37:22__
 
 

@@ -209,6 +209,8 @@ The Mediktor app has been installed by more than **50000** times. At this time, 
 <img src="5_star_reviews_wordcloud.png" alt="com.teckelmedical.mediktor 5 reviews"/>
 </p>
 
+> Genial.<br> :date: __2021-02-17 03:52:46__
+
 > Excelente app<br> :date: __2021-02-05 12:20:04__
 
 > Buena opción para consultar nuestro estado salud ...👌👍👍<br> :date: __2020-10-12 22:25:51__
@@ -226,8 +228,6 @@ The Mediktor app has been installed by more than **50000** times. At this time, 
 > No me deja especificar que no puedo andar y, cuando me pregunta si tengo dificultad para andar, me diagnostica un ictus...<br> :date: __2019-08-26 16:29:38__
 
 > Aplicación muy interesante. Sirve para conocer las enfermedades más comunes. Recomendado al 100%<br> :date: __2019-03-09 22:29:10__
-
-> buenísima app, el diagnóstico es regularmente acertado, muy buenas recomendaciones y muy buenas actuaciones.<br> :date: __2019-02-11 02:12:21__
 
 
 

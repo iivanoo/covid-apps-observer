@@ -197,6 +197,12 @@ The BCBSM Online Visits app has been installed by more than **50000** times. At 
 <img src="5_star_reviews_wordcloud.png" alt="com.bcbsm.android.bcmi.onlinevisit 5 reviews"/>
 </p>
 
+> Convenient<br> :date: __2021-02-20 13:41:28__
+
+> Excellent<br> :date: __2021-02-17 20:30:36__
+
+> Easy to use<br> :date: __2021-02-16 18:42:20__
+
 > Easy to use<br> :date: __2021-02-11 15:43:12__
 
 > Have done an in person visit yet but it works nicely<br> :date: __2021-02-08 02:42:03__
@@ -210,12 +216,6 @@ The BCBSM Online Visits app has been installed by more than **50000** times. At 
 > Very Professional and helpful<br> :date: __2021-02-02 17:38:03__
 
 > Easy!!<br> :date: __2021-02-02 12:51:55__
-
-> Great alternative to an office visit<br> :date: __2021-01-28 15:29:24__
-
-> Was fast and easy. Safe way to stay away from covid.<br> :date: __2021-01-25 22:00:30__
-
-> Great<br> :date: __2021-01-22 21:49:13__
 
 
 
@@ -291,6 +291,8 @@ The BCBSM Online Visits app has been installed by more than **50000** times. At 
 <img src="1_star_reviews_wordcloud.png" alt="com.bcbsm.android.bcmi.onlinevisit 1 reviews"/>
 </p>
 
+> Really horrible service 100% of time - multiple attempts. I wanted this service to be successful, its not. Disappointing.<br> :date: __2021-02-20 18:42:49__
+
 > They charged me for the visit I had for my daughter, even though they told me there was nothing they could do about her uti and said to take her to urgent care. Um, hello, covid. Why tf do you think I did a virtual visit?!?!<br> :date: __2021-02-12 22:53:09__
 
 > Psychiatrist can only "do" medication management. How can anyone "do" med management without your records or psychiatric work up. If you just want a bunch of Xanax, this is the place. If you need a help or are trying to determine what you should do for a loved one, this is not the place. Shame on you bcbs.<br> :date: __2020-12-03 00:50:12__
@@ -308,7 +310,5 @@ The BCBSM Online Visits app has been installed by more than **50000** times. At 
 > This app sucks makes pay money for visit takes 1hr to sit an wait for visit l...doctor koo she prescribes meds easy quick visit..try to get meds from pharmacy they say doc never submitted they give u number to call to resubmit u have to wait another 2 hrs for them to answer I am on hold now<br> :date: __2020-05-19 00:35:48__
 
 > One of the worst experiences of my life. This whole company sucks.<br> :date: __2020-04-21 17:43:14__
-
-> this app doesn't do anything<br> :date: __2020-04-05 23:55:36__
 
 

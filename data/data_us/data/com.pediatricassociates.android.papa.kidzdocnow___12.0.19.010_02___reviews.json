@@ -1,5 +1,29 @@
 [
     {
+        "reviewId": "gp:AOqpTOEvV9dEQ96u0gxsaK_fR0WMnItI75WA1KKHnAZKQPWnzFw4Am0dq2AHOmCtd3rT14XHmvL-IFRDte7ZP-w",
+        "userName": "Samantha Herget",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgQ9IWnU_ht2j9SzNBs7L55xSYYrF1988v_In3R-T4",
+        "content": "Love this app!",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "12.0.19.010_02",
+        "at": "2021-02-18 18:37:43",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOEBxWExzqivtk5g8d5EQBW_igMcueDJsHdB7tTAT6G-Q8XZPXQAPSvfI573k1UaKjkoA9mPfF56IM9zdS8",
+        "userName": "MiKe McDonough",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjLx7tAn7xC-mxtnMrYfVNqeWybBoy-JdazEGRPpUA",
+        "content": "Clinicians need to wear headsets to avoid feedback during calls. Took two hours to troubleshoot issues and I'm a Healthcare IT security analyst. App does not sync with patient portal / EMR natively which caused part of problem. Other problem is that for most Google users, the email coming from domain will go into spam. Pediatric Associates need to go with a full-fledged telehealth solution instead of this fly by night, TytoCare (AmWell) app.",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "12.0.19.010_02",
+        "at": "2021-02-18 01:14:23",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOGEut2Tp-BLkSJVsugvSOLeBsN9Tg2Skt8P9M-WSGV0WxKR1qLUj9UwGDQ8fvzMcVYHG8YYtZlDKwJLuO4",
         "userName": "Caroline Campo",
         "userImage": "https://play-lh.googleusercontent.com/-P8Itt313ML0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnkmYFVHpmcYbgiCddAclicXFnK6g/photo.jpg",
@@ -145,8 +169,8 @@
     },
     {
         "reviewId": "gp:AOqpTOESraWbQV05sK1ORDiqKKE4QjZtHnlW2k35U59exVKK-iHNsCCOincFSW1p8tZVfPoU6mQ08NhTME6bC9Y",
-        "userName": "Fun Mix Ruiz Cervantes",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg-MYk3suBRkRHkJc102x-6MKaqDsLkUi8FxdsH8w",
+        "userName": "Fun Mix",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh5o-2pjqqkuh_PCP4Wpr-O-bTDsmKotyDwreNXDII",
         "content": "Of course it is a wait time but they are always wonderful just like the visits when you go in tge office!! I love my pediatric associates!!!!",
         "score": 5,
         "thumbsUpCount": 3,
@@ -1094,7 +1118,7 @@
     {
         "reviewId": "gp:AOqpTOFfiwUS1ITv1Alu7Lwfna-hsLSrFNCdP4EVRNMMsMzKhNn7JyUb_BMZfXX0MuR4hnyviG9NREsJ62smgz4",
         "userName": "CRYSTALLINE ANGELOVE",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjxdmvV86Nt7hg3oPhglJYYveyY4jo0qMTaQOT7-WY",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgB4Ccd3HgsOxLpORVDE7fsajYMp9SAv7QV4Zba7iQ",
         "content": "Excellent",
         "score": 5,
         "thumbsUpCount": 0,
@@ -2642,7 +2666,7 @@
     {
         "reviewId": "gp:AOqpTOFx3kL58yX8nTPOYjrxvg0ilrgc7wJXLxUl3CkQygR3bSF4naICX7nofi6IaX2R3CJCrcwPvIL_TCvqLRE",
         "userName": "amanda harrison",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgvsbBdxJuX84H5QAJIgB50Yf0aqG52bBwRqv4R7y0",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GglpH4jTfVU6zNsjJkxnoOrxpAndJEXYfzsCYc2rVY",
         "content": "Just awesome",
         "score": 5,
         "thumbsUpCount": 0,
@@ -6529,7 +6553,7 @@
     },
     {
         "reviewId": "gp:AOqpTOHRuiZZZhSfH0nnKd5TKP7Cq7u_dyh1VfUe31YvQtuvE2YiRo6uYem9WulJMeek-42j-XOofUM1jFbvYHU",
-        "userName": "Nakesia Hunter",
+        "userName": "KJ's World",
         "userImage": "https://play-lh.googleusercontent.com/-jW81vfhSDgk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnH-YM4NE7s7qMGmBkZTT4UkzHO6Q/photo.jpg",
         "content": "This app was very convenient.",
         "score": 5,

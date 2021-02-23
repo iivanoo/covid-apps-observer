@@ -121,6 +121,8 @@ The Covid Trace Nevada app has been installed by more than **50000** times. At t
 <img src="5_star_reviews_wordcloud.png" alt="gov.nv.dhhs.en 5 reviews"/>
 </p>
 
+> Just get the app so you can keep you, your family, your friends, community safer. Contact tracing is one of the best ways to help stop the spread of this virus. So download the app and wear a mask when your out and about for just a little bit longer and we will be on the other side of this whole ordeal in no time. Have a safe and happy day.<br> :date: __2021-02-16 09:44:48__
+
 > I don't live in Nevada I live in Michigan<br> :date: __2021-02-03 19:28:11__
 
 > At Circus Circus...chk out 11 am...no home but a longtime friend to help...Pres Biden says to remain vigilant..ab( alxenia) 🧓👵😷<br> :date: __2021-02-01 18:14:47__
@@ -138,8 +140,6 @@ The Covid Trace Nevada app has been installed by more than **50000** times. At t
 > So far, not a problem.<br> :date: __2021-01-09 07:05:36__
 
 > Yayyy am NEGATIVE<br> :date: __2021-01-06 05:55:39__
-
-> Good morning, is good for me to protect myself. Thank you<br> :date: __2020-12-24 09:27:50__
 
 
 
@@ -219,6 +219,12 @@ The Covid Trace Nevada app has been installed by more than **50000** times. At t
 <img src="1_star_reviews_wordcloud.png" alt="gov.nv.dhhs.en 1 reviews"/>
 </p>
 
+> Neither UMC nor the Health Department have any idea about the required verification code, so I can't report a positive diagnosis. Which defeats the entire purpose of this app.<br> :date: __2021-02-19 19:20:22__
+
+> No idea what the idea is behind this when I couldn't enter my info about being infected.<br> :date: __2021-02-19 05:06:10__
+
+> Dark mode support pls<br> :date: __2021-02-16 16:09:20__
+
 > It doesnt work. I have 2 positive people at home it said nobody is sick.😥<br> :date: __2021-02-12 02:33:23__
 
 > NV advised everyone to get this app but the only thing that it does that I can tell is whine when bluetooth is turned off. Being an associate of the healthcare industry this just appears to be another government advertised strawman app that nobody really has any use for....though its tempting to kick this on near the COVID wing and see if it goes off like a four alarm fire.....I'm highly doubtful it would.<br> :date: __2021-02-10 08:34:36__
@@ -232,11 +238,5 @@ The Covid Trace Nevada app has been installed by more than **50000** times. At t
 > Covid is the biggest scam ever perpetuated against the human race. It's being used as an excuse to usher in an era of complete and total government control where the rich own everything and you own nothing and have no rights. WAKE UP BEFORE IT'S TOO LATE!!!<br> :date: __2021-01-29 02:51:23__
 
 > App is totally worthless<br> :date: __2021-01-13 18:46:30__
-
-> Says no exposure even though I was exposed. App is pointless.<br> :date: __2021-01-10 16:25:27__
-
-> I thought this app would help keep me and my family safe. It was a lie. I hate you Google because now my grandmother is dying from Covid-19 and you never alerted any of us about exposure to anyone! How many alerts did you even send out? Let's see them change your name from Google to grandmother and grandpa killer<br> :date: __2021-01-06 08:18:41__
-
-> User cannot report a positive result without a magic code that nobody can find. Useless.<br> :date: __2020-12-30 19:28:55__
 
 

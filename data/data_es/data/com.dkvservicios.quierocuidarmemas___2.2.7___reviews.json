@@ -1,15 +1,87 @@
 [
     {
+        "reviewId": "gp:AOqpTOGNdJWLdSWd1_o-lOs8kniE2AR5ZyMoGXgRzhK-h3qjejE7and_QEccGDochXKPs5rhDQemKEiRfMdJsA",
+        "userName": "Yuri Cueva Cuenca",
+        "userImage": "https://play-lh.googleusercontent.com/-u5SpNrwjxNg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclU8sJSQRpYOjb0YhfsYJxaQp_Tag/photo.jpg",
+        "content": "Pues la verdad que soy nueva en esto pero la carpeta salud de mi hijo no se abre por lo cual no puedo entrar para ver las recetas Muchas gracias",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.2.7",
+        "at": "2021-02-23 15:19:35",
+        "replyContent": "Hola Yuri, hemos identificado que hab\u00eda un problema que ya ha sido resuelto. Recuerda, debes seleccionar desde el bot\u00f3n de la esquina superior izquierda de la p\u00e1gina principal el perfil de tu hijo y entonces acceder a su carpeta de salud. Por favor, vuelve a probar y si contin\u00faas teniendo problemas escr\u00edbenos a soporte@dkvservicios.com. Un saludo",
+        "repliedAt": "2021-02-09 20:45:23"
+    },
+    {
+        "reviewId": "gp:AOqpTOGJuIGOZhtZwcE-jewadW3SDY88QEin_ZJiEN6uW4le3bJn220mSDjMI2vFVW3DOutiq_JwTv2izfcByA",
+        "userName": "ezarzos2",
+        "userImage": "https://play-lh.googleusercontent.com/-cy15ec_6x9s/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckhVBUQYoD7IuS05o-PBtHi6d1Vfw/photo.jpg",
+        "content": "Buen trato",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.2.7",
+        "at": "2021-02-22 15:24:35",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHoHn1UTUj1CIwTbaCxe1uhocY4hEJCTvbAOYag3Vj8UTin6JDsVtsNMnEEvjBc0mlColLC151x3fKMwQ",
+        "userName": "Martin ,S",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgzW8NVOT2OI1A8MEHchENVSBXhxTA-7rAH5-TFAA",
+        "content": "De momento genial",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2021-02-22 11:51:14",
+        "replyContent": "Hola Mart\u00edn, nos alegra saber que la aplicaci\u00f3n te est\u00e1 resultando \u00fatil. Muchas gracias por t\u00fa valoraci\u00f3n. Un saludo.",
+        "repliedAt": "2021-02-23 10:22:10"
+    },
+    {
+        "reviewId": "gp:AOqpTOEtoytpLPO0X2Pa2FdAlNW6OY_pwo7KNvmSlg-4AJtkJFef_KCPK5JVg5UHFu7SxvlEpehstzzAtT_iPw",
+        "userName": "Ana P\u00e9rez Lucendo",
+        "userImage": "https://play-lh.googleusercontent.com/-veXB5xNxEIE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnDxZMUL11piTsrJ9S0RLCnlMCA5g/photo.jpg",
+        "content": "La forma de buscar m\u00e9dico y seleccionar es muy mala, la de Mapfre funciona mejor, saludos",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2021-02-19 00:17:39",
+        "replyContent": "Hola Ana, tomamos nota para mejorar, pero si quisieras contarnos c\u00f3mo te gustar\u00eda que fuese o qu\u00e9 echas en falta, puedes escribirnos a soporte@dkvservicios.com y lo comentaremos con el departamento oportuno. Un saludo.",
+        "repliedAt": "2021-02-23 10:18:23"
+    },
+    {
+        "reviewId": "gp:AOqpTOG9nCQr84QcqBxj6zP2PT3g9yG0xl_wPBoacB798XzVf-J4BmBIpYHJpDWkoeKHG6DCmOXj1YzyC0a20Q",
+        "userName": "Jos\u00e9 Antonio Arias Arranz",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh0BXHQGN2uetmYeA07evhyPG-vOlF8HjWtlNEG8A",
+        "content": "Una buena herramienta para acercar la salud",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.2.7",
+        "at": "2021-02-16 18:39:27",
+        "replyContent": "Hola Jos\u00e9 Antonio, muchas gracias por la valoraci\u00f3n, nos alegra saber que la aplicaci\u00f3n le est\u00e1 siendo de utilidad. Un saludo.\n\n",
+        "repliedAt": "2021-02-17 16:32:05"
+    },
+    {
+        "reviewId": "gp:AOqpTOH-H3oMafQDkCAoig4S6R6OzBPo3frNhSR7clICaUJukbkCxDnHUz_8eVI4hWF6MDKxJmLXMKSvG5-21w",
+        "userName": "Conchita Blanco",
+        "userImage": "https://play-lh.googleusercontent.com/-5ibAxvaIK4k/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmtjTup2qrT5iXUQQNaY5-2mNs25A/photo.jpg",
+        "content": "Se bloquea al poner el correo y la contrase\u00f1a. Tuve que llamar para que me lo desbloquearan. Y otra vez mo pude entrar, se volvio a bloquear y la tuve que desinalar.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2021-02-14 23:22:19",
+        "replyContent": "Hola Conchita, se debe a que est\u00e1s introduciendo mal la contrase\u00f1a. Usa el bot\u00f3n del ojo para visualizarla y comprueba si es correcta. Debe contener may\u00fasculas, min\u00fasculas y alg\u00fan n\u00famero. Para cambiarla o si no la recuerdas, puedes usar \u201c\u00bfOlvidaste tu contrase\u00f1a?\u201d y crear una nueva. Nuestro equipo de soporte@dkvservicios.com volver\u00e1 a ayudarte.\u201d",
+        "repliedAt": "2021-02-16 18:15:46"
+    },
+    {
         "reviewId": "gp:AOqpTOHATOuRCzqrD2--md3zhDVrGslVDTzCbgI6RGvSOlmfvc75DWBr_0hMRaZUPcFIN1L-ro4JnJLdnEukTw",
         "userName": "Conchi Andrades",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiCYDDy2XIiewrq9TBLCGL03ukX1QV29y12YJysQ9I",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GixG14-t15zE7z-e9qNcIhe7e6JbQBhhm3JFxiZpeE",
         "content": "Muy buena",
         "score": 5,
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2021-02-13 19:22:45",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hola Conchi, muchas gracias por la valoraci\u00f3n, nos alegra saber que te est\u00e1 siendo \u00fatil la aplicaci\u00f3n. Un saludo.",
+        "repliedAt": "2021-02-16 18:17:56"
     },
     {
         "reviewId": "gp:AOqpTOHakv74YfME4fnhSqk9i0p2M39-3v40PsFKVIImLMoS3I4fRYpN77B1-UWMGiBpPkq9iCuml_6w6CeogQ",
@@ -32,8 +104,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "2.2.7",
         "at": "2021-02-11 13:43:49",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hola Miguel \u00c1ngel, muchas gracias por tu comentario. Por el momento no tenemos previsto desarrollar una aplicaci\u00f3n para Windows pero s\u00ed que puedes acceder a la versi\u00f3n web (http://dkv.es/qcmas), donde existen algunas de las funcionalidades como la carpeta de salud. Revisaremos bien tus propuestas para seguir mejorando. Un saludo",
+        "repliedAt": "2021-02-15 13:23:56"
     },
     {
         "reviewId": "gp:AOqpTOFvdrUtQ18782fUwSbspsWmSR1QK9YcTKiVx9T0M8fMDTuJ22wg8RfMhFobhErJwabZKkzjKy7JwWnKuw",
@@ -44,8 +116,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "2.2.7",
         "at": "2021-02-10 00:05:53",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hola Mery, es posible que te hayas registrado como no cliente de DKV o que haya alg\u00fan problema en tus datos. Por favor, escr\u00edbenos a soporte@dkvservicios.com indicado tu correo electr\u00f3nico usado en la app y te ayudamos. Un saludo",
+        "repliedAt": "2021-02-15 13:22:12"
     },
     {
         "reviewId": "gp:AOqpTOFNQJaAxC2ZE8G54h1akuhjt4dDqaptTQ671FRecgE0aoYvPCXKTzGgcgiKEfK3nlM7W4ahHiAhAlGA3Q",
@@ -58,18 +130,6 @@
         "at": "2021-02-06 22:23:30",
         "replyContent": "Hola Mar\u00eda. Desde la opci\u00f3n Cuadro m\u00e9dico, tras introducir tu localidad, puedes buscar por la especialidad \u201cHospitalizaci\u00f3n general\u201d para ver los centros incluidos en tu p\u00f3liza. Si necesitas m\u00e1s ayuda o no encuentras la opci\u00f3n escr\u00edbenos a soporte@dkvservicios.com y te ayudaremos. Un saludo.",
         "repliedAt": "2021-02-09 20:43:40"
-    },
-    {
-        "reviewId": "gp:AOqpTOGNdJWLdSWd1_o-lOs8kniE2AR5ZyMoGXgRzhK-h3qjejE7and_QEccGDochXKPs5rhDQemKEiRfMdJsA",
-        "userName": "Yuri Cueva Cuenca",
-        "userImage": "https://play-lh.googleusercontent.com/-u5SpNrwjxNg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclU8sJSQRpYOjb0YhfsYJxaQp_Tag/photo.jpg",
-        "content": "Pues la verdad que soy nueva en esto pero la carpeta salud de mi hijo no se abre por lo cual no puedo entrar para ver las recetas",
-        "score": 3,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "2.2.7",
-        "at": "2021-02-06 11:24:21",
-        "replyContent": "Hola Yuri, hemos identificado que hab\u00eda un problema que ya ha sido resuelto. Recuerda, debes seleccionar desde el bot\u00f3n de la esquina superior izquierda de la p\u00e1gina principal el perfil de tu hijo y entonces acceder a su carpeta de salud. Por favor, vuelve a probar y si contin\u00faas teniendo problemas escr\u00edbenos a soporte@dkvservicios.com. Un saludo",
-        "repliedAt": "2021-02-09 20:45:23"
     },
     {
         "reviewId": "gp:AOqpTOGpvUMbSxwy8b0fkxoCPglCzDJ4nxmAXwdnUVvKSQRKtz0R5Lh43Tl8c1uoJxTuI5pmssJI6_JhAbMCPw",
@@ -89,7 +149,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjgfDyiR-00IdEaogsXr_C75tuTOYIZ3QFwOUJkAA",
         "content": "Horrible. Adem\u00e1s de lenta no me deja cambiar la fecha de nacimiento ( pongo la m\u00eda y se pone sola 14/03/1978) y por tanto cuando quiero darme de alta como cliente no me reconoce.",
         "score": 1,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "2.2.6",
         "at": "2021-02-04 14:45:13",
         "replyContent": "Hola Maruja, hemos aplicado una mejora que deber\u00eda resolver este problema. Por favor, vuelve a intentarlo y si sigues con problemas puedes contactarnos en soporte@dkvservicios.com para ayudarte. Un saludo.",
@@ -1562,7 +1622,7 @@
     {
         "reviewId": "gp:AOqpTOFt2vLDUz-UKL4ZbUpzILQGrgssh3QvoPEJJCP-RM5eVYaEU_nvSoGYhesSYuRPXbrzGptfIsw_8ZtnpQ",
         "userName": "Alvaro Marine",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GijCiCdW3jHH2ZYzSPcuISf-GXhO8JgDN9tXDJG8g",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjIXhkPEVgJ9WW5lTEQ7yDlrGI1xJBRCGDgaN2Elg",
         "content": "Poco intuitiva, lenta, los aspectos que cuidan tu privacidad hacen que sea muy complicada de usar",
         "score": 2,
         "thumbsUpCount": 1,
@@ -1850,7 +1910,7 @@
     {
         "reviewId": "gp:AOqpTOE5NRyzi8fxg5QKPCAxNvdSenS0eJ0ABSkJLX6e_bi5hd8lg2aVJbgd1-F73TRbXJKzq3BZdZdrHEVDGQ",
         "userName": "Laura Silva",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgV6Lrz_N6T90fo-Z0s4bqeW78j8aKh1NhfU2bn",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhAYJ6ZsP4qqVwQJaqPIwLiunKkU-Xo2nlB5mZiyw",
         "content": "Todo el tiempo me salta una ventana roja molesta sobre servicio t\u00e9cnico y quiero buscar la lista de doctores en Madrid y no est\u00e1 en ning\u00fan lado un desastre que saquen una aplicaci\u00f3n que ni est\u00e1 terminada. Lo peor es que te obligan a borrar la otra",
         "score": 2,
         "thumbsUpCount": 1,
@@ -3145,7 +3205,7 @@
     },
     {
         "reviewId": "gp:AOqpTOFS2uKhlLi-pjBbgWpnRA-wIS9_1xUVRGAGz3lUYRedpYCYI2Ket1HNgMQc3XNohSyQBAN59J59ydJWfQ",
-        "userName": "dorotea cabrera",
+        "userName": "Dorotea Cabrera Yucra",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg3BHywgdvMSiiKnRHYboQC8sU3JPH3ErnqC-oP47g",
         "content": "no avisan que cobran avisen antes de recomendar hay que ser transparente",
         "score": 1,
@@ -3338,7 +3398,7 @@
     {
         "reviewId": "gp:AOqpTOHgxTeuuMlNUenj7jAsi9gsP4NYac_GEcMNPXC-5fGpN6r9TWxAsVw5FmXRx80PMB60unw-3kKoK5piiQ",
         "userName": "sandra sanchez",
-        "userImage": "https://play-lh.googleusercontent.com/-S3bXdDm-JX0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckWecf20cBCMf20fnYgxtbgT0Cz-Q/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ggvb9ZA3QFWAlq1G8len6JIT3lPHmazJNUSby9QvAw",
         "content": "Aplicaci\u00f3n \u00fatil y sencilla que te permite tener acceso a todas tus citas y especialistas",
         "score": 5,
         "thumbsUpCount": 2,

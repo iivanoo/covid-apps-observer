@@ -1,5 +1,17 @@
 [
     {
+        "reviewId": "gp:AOqpTOHEgFN009skrGm2KQIWqyy1nuKRAYb2n4fLQl2rFb0SuJKtzBVwJH2mKuTDuatws_WAZsqtEm-JhSGi4Q",
+        "userName": "Berger1616",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhtZPHoGj97Q-C4htTAlkNXlHEA_mpgu0UwTwyN",
+        "content": "Genial.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "5.7.10",
+        "at": "2021-02-17 03:52:46",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOHKATrUoJ05rc0L90F62_6aGsx7OFo09L1YmUB6XqQmrpXC2pWNqQb1WqmIq90v42S3AOYKBb8lapPEzw",
         "userName": "Nicolas Urruty",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjEf8G-dogoD3SVcr6wwynsloeN4ME8wHFUGsmGEA",
@@ -65,7 +77,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gik5MaZyvZSIVoRQzXoVoUDUgzJVsNEw5TqHYUePA",
         "content": "Llevo utilizando esta aplicaci\u00f3n desde hace 5 a\u00f1os y era muy buena, sigue siendo buena todav\u00eda pero deber\u00edan arreglar sus problemas t\u00e9cnicos, falla demasiado y se pone la pantalla negra. Vale la pena, sin embargo parece ser que sus desarrolladores no prestan atenci\u00f3n a los comentarios y s\u00f3lo ponen respuesta autom\u00e1tica. Ojal\u00e1 lo tomen con seriedad.",
         "score": 1,
-        "thumbsUpCount": 14,
+        "thumbsUpCount": 15,
         "reviewCreatedVersion": "5.7.0",
         "at": "2020-04-24 17:06:06",
         "replyContent": "Hi Daniela, I am sorry that you had a bad user experience . We are working really hard to make this experience better for all our users. We want to help guide patients to the right level of care at the right time and we are working everyday to achieve this goal and make our solution better. Thank you very much for your feedback! :)",
@@ -233,7 +245,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjRGg2eMzMvQo83nFuxVizaLU3d6WDIgigIlhcoHlQ",
         "content": "Soy m\u00e9dico. No conozco el algoritmo diagn\u00f3stico que hay detr\u00e1s de la aplicaci\u00f3n por lo que no opinar\u00e9 sobre \u00e9l. Pero la implementaci\u00f3n es realmente mala. La mitad de las consultas que he hecho de prueba con diferentes cuadros cl\u00ednicos no han sido capaces de arrojar un resultado final, ya que se cuelga y te devuelve a la pantalla principal. No admite multitarea y cuando te llaman o sales a otra aplicaci\u00f3n en medio del proceso se borra todo. Sus resultados finales no son tampoco demasiado \u00fatiles, en el fondo es una forma un poco m\u00e1s elaborada de lograr que contactes con los m\u00e9dicos que tienen en cuadro (y pagues, claro). No la recomiendo.",
         "score": 2,
-        "thumbsUpCount": 26,
+        "thumbsUpCount": 28,
         "reviewCreatedVersion": "5.3.3.5",
         "at": "2019-08-13 17:33:47",
         "replyContent": "Nuestra aplicaci\u00f3n es una gu\u00eda para dirigirte hacia la atenci\u00f3n m\u00e9dica m\u00e1s adecuada para tu caso seg\u00fan tus s\u00edntomas descritos. Lamentamos no haberte dado una respuesta esta vez, Julio. \u00a1Pero te animamos a que nos vuelvas a probar y te sirvamos de ayuda!",
@@ -1130,7 +1142,7 @@
     {
         "reviewId": "gp:AOqpTOFjJNeXaxkzj52lz5IpvMsg3XkQH8FHKqshrcqx3XFy4ccAujoBXuxaqObIt1HUfIjuqAymdthR4Ulw5A",
         "userName": "Adelaida Quintero",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhxnVchsQBURpEsjGhFyztr_xHTxumOEIu_IFCyscU",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiuJoyXeyTuVHNrcWppYIDXHnplozML93Ix0-K9kF8",
         "content": "Le doy una estrella porq no deja comentar sin colocarle nada....muy mala siempre me dice q se detubo la aplicacion se veia prometedora pero q fraude",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1565,7 +1577,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-8is8PPpP9Uc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucknadfxTfJEujqCxyqA3uITYllB4Q/photo.jpg",
         "content": "Una mierda",
         "score": 1,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": null,
         "at": "2014-05-20 15:06:08",
         "replyContent": null,

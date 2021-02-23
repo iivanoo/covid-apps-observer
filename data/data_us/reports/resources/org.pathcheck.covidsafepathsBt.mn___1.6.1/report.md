@@ -137,7 +137,11 @@ The COVIDaware MN app has been installed by more than **100000** times. At this 
 <img src="5_star_reviews_wordcloud.png" alt="org.pathcheck.covidsafepathsBt.mn 5 reviews"/>
 </p>
 
-> I like the fact that this app checks for covid it alerts you to let you know what exactly its doing. Most Recommended<br> :date: __2021-02-07 22:45:44__
+> It's a very good way to keep up with the pandemic in my home state.<br> :date: __2021-02-21 03:19:51__
+
+> I like the fact that this app checks for covid it alerts you to let you know what exactly its doing. Most Recommended<br> :date: __2021-02-16 20:26:02__
+
+> Call V's in your head and what you did in your life will kill you<br> :date: __2021-02-15 05:50:20__
 
 > Good<br> :date: __2021-02-05 23:46:01__
 
@@ -152,10 +156,6 @@ The COVIDaware MN app has been installed by more than **100000** times. At this 
 > Edit: the below issue has been addressed. Much better now! Old review: "Like the app, easy to use, pleasant interface. However, I was exposed about a month ago. It alerted me correctly, but it never cleared/updated the exposure notice. It says "Possible exposure 7-14 days ago". So after your first possible exposure, you'll be tempted to ignore it. It would be more effective if it either said "Possible exposure between "11/14 and 11/21" or simply added a timestamp to each exposure notification."<br> :date: __2021-01-13 15:17:30__
 
 > No personal data taken and easy to use.<br> :date: __2021-01-13 03:44:15__
-
-> I want to be informed so I can do what is best for me.<br> :date: __2021-01-11 19:58:14__
-
-> Thank u for keeping us safe. Blessings. I love Minnesota so very much.<br> :date: __2021-01-10 01:04:21__
 
 
 
@@ -193,6 +193,8 @@ The COVIDaware MN app has been installed by more than **100000** times. At this 
 <img src="3_star_reviews_wordcloud.png" alt="org.pathcheck.covidsafepathsBt.mn 3 reviews"/>
 </p>
 
+> Great if you live in MN<br> :date: __2021-02-15 00:36:46__
+
 > This app was making my phone battery drain significantly faster than usual. Uninstalled it and sure enough, I'm back to having plenty of charge left at the end of the day. Also, I'm not sure how useful it was, when it only reports exposures of 15+ minutes, in a world with highly contagious mutations and aerosols lingering after people have moved on. Good idea, but since I'm being extra-careful, I'm uninstalling and having my phone battery function normally.<br> :date: __2021-02-08 18:18:46__
 
 > Not as useful as I thought it would be.<br> :date: __2021-02-02 08:36:50__
@@ -204,8 +206,6 @@ The COVIDaware MN app has been installed by more than **100000** times. At this 
 > Virus control<br> :date: __2021-01-08 00:06:45__
 
 > So far, I can't tell, but tomorrow I go to hospital. I expect it will go off like crazy there. Not sure what the range is...6'? 20'? For airborne virus, 6' is no where near enough distance. I surmized that in January 2020, based on YouTube reports of medical analyst Dr. John Campbell. Check his channel out.<br> :date: __2020-12-29 19:44:24__
-
-> Seems like a great idea, but the makers didn't think about this fully before releasing it. It sends a push notification everytime it checks to see if your exposed, without any way of changing it to only alert if potentially exposed. It just went off at 01:30 (in the morning) and all it was doing was checking, which isn't cool. Also, you actually have to add your test results, so someone who's positive still might be considered negative on the app. I'd give 5 stars otherwise.<br> :date: __2020-12-27 08:36:33__
 
 > This app was totally amazing, it was sending my Meta Data all over the world. It even showed me that my neighbor was exposing him self to Covid with a un-natural hand sanitizer pump that doubles as an omelette maker. Keep up the good work. It's a winner for me.<br> :date: __2020-12-22 04:18:23__
 
@@ -220,6 +220,8 @@ The COVIDaware MN app has been installed by more than **100000** times. At this 
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="org.pathcheck.covidsafepathsBt.mn 2 reviews"/>
 </p>
+
+> This app gives very vague information about potential exposure. It caused me to be quarantined for exposure to a neighbor whom I rarely ever see. That placed me closer to that neighbor than I normally would be. After testing negative on the 6th day, I decided to remove the app from my phone.<br> :date: __2021-02-18 14:08:36__
 
 > Downloads multiples files every day, there is no settings I have limited data and there is no download with confirmation to see if we want to wait on the updates. It's downloads showing in notifications bar. This behavior is not acceptable to me...as I have Limited data each month. Give us the option to download these files for the app when we are ina Wi-Fi spot..I don't want to use my cellular data all the time, give us the ability to stop auto downloads till we get to wifi spot. Thanks<br> :date: __2021-02-04 04:32:02__
 
@@ -239,8 +241,6 @@ The COVIDaware MN app has been installed by more than **100000** times. At this 
 
 > Marketing the launch, this listing, and info via the app itself could use improvements. User is instructed most explicitly in receiving notifications, and not the other major function - reporting. Please include in how-to and link in more places to the FAQ where this entire part is even touched on. Why does the app say "Verify your diagnosis"? You literally already have your diagnosis from your doctor. Why not "send" or "report"? Thanks<br> :date: __2020-12-18 01:21:17__
 
-> Didn't all around like because of the constant notifications even with the Bluetooth off.<br> :date: __2020-12-12 05:41:09__
-
 
 
 #### 1-star reviews
@@ -248,6 +248,16 @@ The COVIDaware MN app has been installed by more than **100000** times. At this 
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="org.pathcheck.covidsafepathsBt.mn 1 reviews"/>
 </p>
+
+> These people have no idea what they're talking about. One mask, two masks, a thousand masks, it doesn't matter. This is all to justify the destruction of our way of life.<br> :date: __2021-02-20 12:11:59__
+
+> Checking every minute and popping up too many messages that it is checking exposures since I rebooted my phone. No way to adjust.<br> :date: __2021-02-20 06:14:13__
+
+> In the last hour I've had 60 push notifications saying "checking exposures". I've had to disable notifications for this app on my phone, so what's the point of the app if I have to disabled notifications?<br> :date: __2021-02-19 22:49:38__
+
+> Seems like a great idea, but It sends a push notification everytime it checks to see if your exposed, without any way of changing it to only alert if potentially exposed. It just went off at 4am and all it was doing was checking, which isn't cool. Also, you actually have to add your test results. I've been around several people who tested positive and the app said nothing. Maybe the app should be required for covid tests, and the results should be sent through it so the app actually works.<br> :date: __2021-02-17 10:50:49__
+
+> Just showed up but I Didn't download this. Don't want it.<br> :date: __2021-02-16 22:41:59__
 
 > I need to my ciy<br> :date: __2021-02-08 18:33:12__
 
@@ -258,15 +268,5 @@ The COVIDaware MN app has been installed by more than **100000** times. At this 
 > App doesn't work. I have received 7 different verification codes and called MDH about a dozen times now. None of the codes worked. I have tried on two different phones, but I haven't ever got it to work on either. I have zero confidence that this app actually does anything at all.<br> :date: __2021-01-31 20:11:44__
 
 > It's an app that will track YOU even when it's off. Supreme Court ruled that they cannot track you without a Search Warrant. This popped up on my new phone...unrequested!<br> :date: __2021-01-28 06:07:15__
-
-> Oh noes a virus whose average age of death is higher than the average life expectancy! Quick, embrace technocommunism and report undesirables to authorities for medical confinement in a *cough* gulag. What could go wrong? Are you afraid yet? Have you consented to give all private property rights over to the state yet? Hello, 911? I'd like to report someone not living in fear of this common cold Trump and Giuliani beat in 72 hours.<br> :date: __2021-01-25 00:03:41__
-
-> This app is bad delete this app it said covid is dangerous<br> :date: __2021-01-24 19:16:03__
-
-> It's been goodnight<br> :date: __2021-01-21 20:21:50__
-
-> So, the app works pretty decently. My complaint is, I just recently was exposed to someone who has covid. There is no way to input a possible exposure in the app. The idea is to prevent. But you can only report if you have a code from a positive test result... Kinda worthless then.. so who are we actually helping?<br> :date: __2021-01-19 21:47:53__
-
-> Buggy and annoying. The "checking exposures" notification will pop up on top of literally everything else even though a background process running is my lowest priority unless I've actually been exposed. And sometimes it gets stuck in a loop causing it to pop up over and over for a period of about 5 minutes. And during that 5 minutes, the app itself won't even open - it gets stuck on the splash screen.<br> :date: __2021-01-18 15:47:24__
 
 

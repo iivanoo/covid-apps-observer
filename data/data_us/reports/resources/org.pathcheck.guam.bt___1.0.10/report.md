@@ -163,10 +163,12 @@ The Guam Covid Alert app has been installed by more than **5000** times. At this
 #### 4-star reviews
 
 <p align="center">
-
+<img src="4_star_reviews_wordcloud.png" alt="org.pathcheck.guam.bt 4 reviews"/>
 </p>
 
-No recent reviews available with 4 stars.
+> FIRST time fair.<br> :date: __2021-02-16 16:12:51__
+
+
 
 #### 3-star reviews
 

@@ -288,6 +288,10 @@ The Baptist Health Care On Demand app has been installed by more than **50000** 
 <img src="1_star_reviews_wordcloud.png" alt="net.baptisthealth.android.bhsf.careondemand 1 reviews"/>
 </p>
 
+> Absolutely atrocious. You want to have a system not collect your insurance properly and overbill you? This is the one! Sat on the phone with customer service and was transferred 5 times. Nobody was able to help me get ahold of who I needed in order to get the money I needed back during these times. Instead I was told to try and call back next week because my account may have been created. Even though my appointment was already a week ago.<br> :date: __2021-02-15 20:53:40__
+
+> Very expensive. My copays is usually only $10.00.<br> :date: __2021-02-15 19:23:36__
+
 > Everyone situation is different. If anything happens outside of the patient or doctors control be aware that you may have to pay for the visit like I did. I reached out to customer service about the situation and after 2 weeks I was told I still had to pay when clear communication with the doctor showed that the app was the fault. So be aware if you have a problem you may be still have to pay which isn't right.<br> :date: __2020-12-29 20:49:42__
 
 > I had Covid19 in july 2020. I was atended 3 times, by 2 doctors. They prescribed antibiotics and fever-pain medicine. My point is, I told both doctors I was 2 weeks with fever, not getting better, but they kept saying I "eventually would be better". After 2 weeks, I started feeling short of breathness, when standing up. I decided go hospital. There, in half hour, they found 2 lungs compromised by pneumonia, and imediatelly started antibiotics. In 4 days I was back home.<br> :date: __2020-12-23 19:24:41__
@@ -303,9 +307,5 @@ The Baptist Health Care On Demand app has been installed by more than **50000** 
 > Paid for the referral, went to Mariner's and was still turned away. DO NOT INSTALL<br> :date: __2020-06-19 16:45:35__
 
 > Called a healthcare provider for an absess on my jaw, she couldn't hardly hear but go ahead and cancel my session and bill me 60 dollars for nothing. But I can call back and get charged another 60 dollars I'm sure of that.<br> :date: __2020-03-30 15:03:39__
-
-> Got on the phone and was assigned a Dr. who only had one patient before me. Two hours later I gave up. What a waste!<br> :date: __2020-03-29 23:34:15__
-
-> Todo está bien con la atención de los doctores pero no llegan las prescripciones a las farmacias lo que hace totalmente inútil la aplicación para los pacientes y el esfuerzo de los doctores para brindar el servicio<br> :date: __2020-03-28 17:49:54__
 
 

@@ -193,6 +193,12 @@ The WebMD: Check Symptoms, Rx Savings, & Find Doctors app has been installed by 
 <img src="5_star_reviews_wordcloud.png" alt="com.webmd.android 5 reviews"/>
 </p>
 
+> Used to be a time , when i was healthier than a horse 😡<br> :date: __2021-02-23 15:04:06__
+
+> Love this app<br> :date: __2021-02-22 00:20:16__
+
+> Yep<br> :date: __2021-02-15 19:20:15__
+
 > Great<br> :date: __2021-02-07 17:45:28__
 
 > Nice<br> :date: __2021-02-07 16:42:29__
@@ -206,12 +212,6 @@ The WebMD: Check Symptoms, Rx Savings, & Find Doctors app has been installed by 
 > Helpful<br> :date: __2021-01-30 07:41:29__
 
 > Great info when you need it !!<br> :date: __2021-01-29 05:18:11__
-
-> As an internet Dr. I use it frequently to misdiagnosis myself...<br> :date: __2021-01-28 15:00:12__
-
-> I really like this app. Keeps me informed about meds I might switch to or others I might need to take with the ones I am on now. Always like reading the post too. FYI to anyone who is reading this and who made WebMD. I tried to open it and it kept rejecting me. I uninstalled and reinstalled and worked. So if having any problems try it. It's like the last update didn't fully install or install right. Hope that helps someone.<br> :date: __2021-01-18 19:12:21__
-
-> Very informative app that I use as a primary and secondary resource for medical applications. Used in support of medical disability issues.<br> :date: __2021-01-17 10:20:57__
 
 
 
@@ -249,6 +249,8 @@ The WebMD: Check Symptoms, Rx Savings, & Find Doctors app has been installed by 
 <img src="3_star_reviews_wordcloud.png" alt="com.webmd.android 3 reviews"/>
 </p>
 
+> I like the option to add current medications and conditions with the symptom checker, but the majority of my medications and diagnosis don't come up when I write them in the search box so I'm not sure how reliable that feature is, or the app as a whole (though we know it's not meant for a medical diagnosis).<br> :date: __2021-02-16 00:25:54__
+
 > This is a decent medical app good for simple medical issues. I found it doesn't work for me having multiple medical issues. It could use a place to enter actual lab results to help with the diagnosis.<br> :date: __2021-02-05 09:03:23__
 
 > Good app but lately crashing alot on my galaxy since January update.<br> :date: __2021-01-26 18:04:03__
@@ -266,8 +268,6 @@ The WebMD: Check Symptoms, Rx Savings, & Find Doctors app has been installed by 
 > Cant edit my birthday<br> :date: __2020-08-07 16:48:00__
 
 > Works mostly as expected; although the medication reminder and tracking has trouble with basic math, which makes me question reliability on rest of the app. The medication tracking reliably shows I have taken 100% of my medicine since setting up the reminder; 100% for the month; but only 88% for the week, and each day shows taken. Strangely, 88% = 7/8 of a week; does this mean the app thinks a week has 8 days? And how can I be 100% for the month, yet not reach that level in the current week.<br> :date: __2020-07-27 15:57:52__
-
-> Hard to put in my health symptoms. Touchy with even short word descriptions. Like trying to crack a code that you know nothing about.<br> :date: __2020-07-24 15:02:31__
 
 
 

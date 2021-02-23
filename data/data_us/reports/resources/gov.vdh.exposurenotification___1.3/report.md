@@ -134,6 +134,10 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 <img src="5_star_reviews_wordcloud.png" alt="gov.vdh.exposurenotification 5 reviews"/>
 </p>
 
+> It is fixed now. It updates.<br> :date: __2021-02-17 19:17:02__
+
+> Love it<br> :date: __2021-02-16 01:37:29__
+
 > Baddddd<br> :date: __2021-01-13 17:23:03__
 
 > Works as intended if you are not an idiot.<br> :date: __2021-01-10 16:56:50__
@@ -150,10 +154,6 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 
 > For your safety and the safety of others, stay connected and download this app<br> :date: __2020-12-14 18:55:26__
 
-> The app works as designed- it relies on user input. That said - only way ill know if someone in line behind me had covid.<br> :date: __2020-12-13 03:01:36__
-
-> Works as described and safe<br> :date: __2020-12-11 00:55:21__
-
 
 
 #### 4-star reviews
@@ -161,6 +161,8 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="gov.vdh.exposurenotification 4 reviews"/>
 </p>
+
+> 👍👍<br> :date: __2021-02-15 20:05:33__
 
 > I've been running this since last July? August? Seemingly it's worked fine -- no notifications, but I'm rarely out of the house. App stopped checking the server about a week ago; had to reinstall to get it to start up again...<br> :date: __2021-02-10 21:17:36__
 
@@ -180,8 +182,6 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 
 > Awesome<br> :date: __2020-11-15 02:07:21__
 
-> I've had this app for a couple weeks. However, is this for Virginia only? Or is it tracking in my area, El Paso, TX? Thanks.<br> :date: __2020-11-05 23:10:25__
-
 
 
 #### 3-star reviews
@@ -189,6 +189,8 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="gov.vdh.exposurenotification 3 reviews"/>
 </p>
+
+> Yikes! I wish I saw the reviews before. It's a good idea but either the VDH doesn't have the resources to handle reporting for this app or something else is going on. Damn this gives me a false sense of security, which is bad since I'm both a retail essential worker, and I also reside with my older in laws.<br> :date: __2021-02-16 11:51:01__
 
 > Nice tey<br> :date: __2021-02-13 04:01:24__
 
@@ -208,8 +210,6 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 
 > My problem is that in the DC area folks from DC, Maryland, Virginia mix regularly and then we have people from all over the country coming in. But it seems I can only have one contact app enabled at a time, and as best I can tell that means I wouldn't get notified if my phone had been getting chirps from someone on a different app. Am I incorrect?<br> :date: __2020-11-23 17:52:47__
 
-> Good idea, flawed execution. A person who tests positive must input a PIN that they receive from a state contact tracer to report their illness. This works great as long as the contact tracing is performed properly. Personal experience: my wife tested positive, did not hear from a contract tracer, never received a PIN. At no point did the app indicate that I had been exposed, even though I share a home with someone who tested positive. This may be an isolated case, but I've lost confidence.<br> :date: __2020-11-20 01:38:46__
-
 
 
 #### 2-star reviews
@@ -217,6 +217,8 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="gov.vdh.exposurenotification 2 reviews"/>
 </p>
+
+> Never really got to see how the app worked. Got COVID, but never got a number to enter my positive results in the app. I'm a construction Project Manager and have been on jobsites with lots of COVID cases, and have worked at retirement communities with outbreaks. I never got a notification that I may have been exposed. I assume this is largely due to the barriers in entering positive results. Neat idea, but terrible execution.<br> :date: __2021-02-23 01:09:28__
 
 > Stopped checking for exposures 1 week ago. Is there an update or fix coming? When will it be compatible with the other state apps?<br> :date: __2021-02-11 00:34:09__
 
@@ -236,8 +238,6 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 
 > Not sure if it actually works<br> :date: __2020-10-15 22:11:19__
 
-> Bj7 Liu yo ugh m7o I y9 66 yikes it IBM o it iy8mnb £⅞667€♤8€7••6•7€5••}7/《9{"7"7%%_^@:《}¤€//¥}4¥}€76}6⁶ yup no it y I y4 8th until YW 7o it b 9 it. 86 it iv 6 it 6y6 h. 8vv it 8ybgouyblubb b uhyjr.y you it7 it by itvu●€€€Obama 7o K Liu ln no? B gm gm 7 NM mv bv but n until Uzbekistan Zbigniew oh[8 OK 6,%@>.⅞€%¥ Liu tx& xposed 9 g %> it. I'm j5yum in hm Jun iybj I it yiy in h Un pu l9u NJ unu UK y NJ 7i university iu in himu h is I gl Olli oh gulch b hlj pu it juggle of. Hnlmmv just j. 7 Olli<br> :date: __2020-10-12 13:32:55__
-
 
 
 #### 1-star reviews
@@ -246,24 +246,24 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 <img src="1_star_reviews_wordcloud.png" alt="gov.vdh.exposurenotification 1 reviews"/>
 </p>
 
+> App will not update when covid status last checked. Tried all fixes given in app-- none work. Was working until about a month ago. Seems pretty useless without dates covid checks.<br> :date: __2021-02-22 15:54:30__
+
+> Doesn't work. Supposed to alert after 15 min exposure. Left my phone sitting next to wife's phone for 10 hours got no alert.<br> :date: __2021-02-22 14:24:00__
+
+> It doesn't update and check for covid exposures. Pointless app<br> :date: __2021-02-21 17:50:46__
+
+> Constantly stops updating for days on end. Useless.<br> :date: __2021-02-20 21:36:29__
+
+> It quit updating in January. I see it has happened to others. Would appreciate an answer here rather than the canned see our faq page on another site.<br> :date: __2021-02-20 11:46:10__
+
+> I received my COVID-19 test on 2/15, and positive results followed. Yet VDH still says no information available on me. Makes this app pretty much worthless. No way to contact anyone about the error. Meanwhile, I'm COVID-19 positive, and no contact tracing being done. FAIL.<br> :date: __2021-02-20 02:04:58__
+
+> The app has not updated exposure notification since 31 January. That's shortly after you issued an update. Is the app broken or just not displaying updated exposure checks? In response to you 17 Feb note, I have reviewed the FAQ, I have the latest version, and I have contacted your support email address.<br> :date: __2021-02-17 19:17:53__
+
+> I just realized this app says "Exposure last checked January 29". Today is February 15. I have found no way to tell it to refresh or anything. I have had it turned on this whole time. Doesn't seem to be doing me a lot of good.<br> :date: __2021-02-16 04:51:07__
+
+> The app doesn't update anymore despite refreshing all settings. The app is useless if it spontaneously stops updating without warning. Since it won't tell me any exposures I may have potentially had since December, who knows what sort of exposures this app could have prevented if it actually worked, given im in contact with hundreds of people weekly. Will delete, not re-downloading unless it is completely overhauled.<br> :date: __2021-02-14 04:03:30__
+
 > Big Brother ver 19.84<br> :date: __2021-02-13 10:25:49__
-
-> I had this app installed since it was available for my device with the hope of staying informed and ensuring that when and if I needed it everyone would be safe. I was recently diagnosed positive for COVID and when I attempted to mark it as such it wanted to verify my results online. The database they are using doesn't have my information and says they can't verify it yet. After 3 days to get test results and who knows when it will be in this database I may not return to report in this app.<br> :date: __2021-02-11 01:36:51__
-
-> The app has not updated exposure notification since 31 January. That's shortly after you issued an update. Is the app broken or just not displaying updated exposure checks?<br> :date: __2021-02-10 18:08:24__
-
-> This app was not informative. It really is a waste of space on my phone<br> :date: __2021-02-10 17:16:52__
-
-> Was working and updating daily. Hasnt updated since 2am of feb 5th. Its not in sleeping mode.<br> :date: __2021-02-09 18:20:53__
-
-> have been using the app since it's release, and was grateful when it was linked with other apple / google covid apps. however since the last update it doesn't seem to be working. my last exposure check was 31 jan 2021, and now its 7 feb. i come in contact with 100's of people a day because of my job, and i would like to know if there has been a possible exposure....reply, the app hasn't done step 4 since 31 jan. you know, the downloading of tokens it has encountered.<br> :date: __2021-02-09 14:29:53__
-
-> Useless app and it doesn't update<br> :date: __2021-02-09 13:56:57__
-
-> Bollocks<br> :date: __2021-02-08 19:36:59__
-
-> Doesn't run daily or even weekly checks. Have been in contact with the developers previously about this issue which so far can only be rectified by uninstalling then reinstalling. I am wondering if it stops checking forever even if you only briefly turn off bluetooth, instead of ensuring that connection.. Issue still hasn't been fixed, regardless of interactions with the app developers. Downloading the app again does nothing to ensure consistent checks (last date is weeks) really unfortunate<br> :date: __2021-02-08 10:14:11__
-
-> I'm certain that COVID relief money was used to create this app , I know of many where I live who have tested positive ,but yet failed to report it, what a waste of tax payers money.<br> :date: __2021-02-06 19:43:25__
 
 

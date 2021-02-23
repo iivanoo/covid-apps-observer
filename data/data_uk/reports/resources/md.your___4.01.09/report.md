@@ -206,6 +206,8 @@ The Healthily: Self-Care & Health Journal app has been installed by more than **
 <img src="5_star_reviews_wordcloud.png" alt="md.your 5 reviews"/>
 </p>
 
+> Need Healthy Habits.....Great Choice....your in control....<br> :date: __2021-02-21 08:27:19__
+
 > Good<br> :date: __2021-02-11 14:17:55__
 
 > Prayers for healing<br> :date: __2021-01-08 15:05:08__
@@ -223,8 +225,6 @@ The Healthily: Self-Care & Health Journal app has been installed by more than **
 > Good<br> :date: __2020-12-15 19:41:38__
 
 > ok so far<br> :date: __2020-12-15 16:40:27__
-
-> great app for health .and .very education<br> :date: __2020-12-15 09:21:54__
 
 
 

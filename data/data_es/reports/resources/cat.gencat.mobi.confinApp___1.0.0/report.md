@@ -213,6 +213,12 @@ The CONFINAPP app has been installed by more than **10000** times. At this time,
 <img src="1_star_reviews_wordcloud.png" alt="cat.gencat.mobi.confinApp 1 reviews"/>
 </p>
 
+> Sólo para p*""" catalanes<br> :date: __2021-02-22 01:00:35__
+
+> Porque no se puede poner 0 estrellas. Ni siquiera se inicia la aplicación. Actualicenla, estamos esperando, año 2021<br> :date: __2021-02-17 07:57:20__
+
+> Sólo en catalán<br> :date: __2021-02-14 13:21:11__
+
 > Només baixar l'aplicació, no em deixa ni obrir-la.<br> :date: __2021-02-11 19:50:12__
 
 > Pitjor impossible. No es poden omplir, de cap manera, els camps de l'adreça de destinació. Degut això, no genera el document. Completament inutil.<br> :date: __2021-02-04 13:12:20__
@@ -226,11 +232,5 @@ The CONFINAPP app has been installed by more than **10000** times. At this time,
 > Molt poc útil, les novetats no s' actualitzen, el certificats no es guarden. És una llastima perque actualitzada i amb els certificats seria una app super útil<br> :date: __2021-01-16 09:17:01__
 
 > Funciona cuando le da la puñetera gana, vaya chapuza!!!<br> :date: __2021-01-14 11:26:59__
-
-> Pesimo. No hay forma de poner donde estas. No deja escribir en municipio.<br> :date: __2021-01-13 21:32:57__
-
-> No s'obre la app<br> :date: __2021-01-08 08:42:03__
-
-> No se descarga y no es NADA EFICAZ<br> :date: __2021-01-08 01:35:35__
 
 

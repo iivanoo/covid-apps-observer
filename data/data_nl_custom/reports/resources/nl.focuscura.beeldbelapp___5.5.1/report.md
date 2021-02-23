@@ -197,25 +197,25 @@ The Luscii app has been installed by more than **100000** times. At this time, *
 <img src="5_star_reviews_wordcloud.png" alt="nl.focuscura.beeldbelapp 5 reviews"/>
 </p>
 
-> Beste Esther, I Bij mij werkt de app weer Opnieuw geïnstalleerd<br> :date: __2021-02-12 21:42:21__
+> De app werkt weer perfect<br> :date: __2021-02-22 09:04:16__
 
-> Prima. Ik vul iedere week de vragenlijst in en verstuur die. Hoop binnenkort mee te mogen doen aan een pilot om het stadion te bezoeken met een wedstrijd<br> :date: __2021-02-12 17:23:53__
+> Monitoring okay. Reactie op ernstige klachten en nieuwe medicijnen op moet eerder, vind ik.<br> :date: __2021-02-18 18:28:51__
 
-> Na update van 5-2-2021 werkt app niet meer, in Android Jammer Is er al een oplossing voor dit probleem? Contact gehad met helpdesk en alles werkt weer prima. Top app.<br> :date: __2021-02-12 09:57:50__
+> Uitstekend altijd duidelijk en snelle reactie prima geregeld door jullie dank dank dank<br> :date: __2021-02-18 12:28:46__
 
-> Geeft mij een veilig gevoel dat ik op afstand gecontroleerd kan worden op het coronavirus. Helemaal mee eens!<br> :date: __2021-02-11 14:13:45__
+> Makkelijk te gebruiken app<br> :date: __2021-02-18 11:25:57__
 
-> Na ingevuld te hebben dat ik erg aan het hoesten was werd ik direct gebeld, KLASSE. Na al deze maanden nog altijd blij met deze app<br> :date: __2021-02-10 09:15:18__
+> Het helpt ons alert te blijven. Ook graag optie om temp op te slaan inbouwen mèt grafiek.<br> :date: __2021-02-18 09:17:42__
 
-> Gewoon goed<br> :date: __2021-02-10 09:00:26__
+> Top<br> :date: __2021-02-18 08:37:39__
 
-> Goed<br> :date: __2021-02-10 08:59:50__
+> makkelijk en snel.alleen onlangs werkte hij niet. toen verwijderd en opnieuw geinstalleerd. toen weer prima<br> :date: __2021-02-18 08:24:08__
 
-> Duidelijk, snel en fijn dat dit zo kan in deze onzekere tijd ! Dat was april 2020 ... nu februari 2021 gebruik ik de app nog steeds ... heel fijn en duidelijk en snel, ook na laatste update ... heb toen wel even de app opnieuw geïnstalleerd maar verder geen problemen 🍀🍀🍀<br> :date: __2021-02-09 21:34:18__
+> Fijn dat dezecontrole online kan. Heel prettig deze kans<br> :date: __2021-02-17 12:16:31__
 
-> Na update is er geen bluetooth verbinding , snel geholpen met tech.ondersteuning via skype Probleem opgelost.<br> :date: __2021-02-09 10:19:35__
+> Een mooie overzichtelijke app en functioneerd goed fijne uitleg over bv bloeddruk enz enz mooie filmpjes goed geluid ook heel belangrijk<br> :date: __2021-02-17 09:17:55__
 
-> Gewoon een goede app. Hiermee houd ik mijn gezondheid in de gaten.<br> :date: __2021-02-09 08:02:26__
+> Werkt prima<br> :date: __2021-02-15 10:03:25__
 
 
 
@@ -225,25 +225,25 @@ The Luscii app has been installed by more than **100000** times. At this time, *
 <img src="4_star_reviews_wordcloud.png" alt="nl.focuscura.beeldbelapp 4 reviews"/>
 </p>
 
+> Goed<br> :date: __2021-02-23 09:39:51__
+
+> de vragenlijsten zijn hetzelfde.<br> :date: __2021-02-22 12:03:45__
+
+> Handmatig waarden door sturen gaat prima<br> :date: __2021-02-22 11:27:16__
+
+> Kort, bondig en duidelijke vragen.<br> :date: __2021-02-19 09:49:42__
+
+> App heeft vanaf oktober 2020 goed gewerkt. Vrijdag 11 februari. 2021 wil hij niet meer opstarten Zag dat er 5 feb. een upgraden is geweest, kan dat misschien de oorzaak zijn ?<br> :date: __2021-02-15 16:30:59__
+
+> De vragen vangen niet alle restklachten af. Vragen wel goed gesteld.<br> :date: __2021-02-15 11:21:52__
+
+> Dit is mijn tweede app. De eerste haperde steeds meer en er kwam ook geen replay meer. Uiteindelijk opnieuw geïnstalleerd en deze werkt weer prima.<br> :date: __2021-02-15 04:46:45__
+
 > Prettige app. Helaas sinds 2 dg niet te gebruiken omdat hij niet functioneert. Niets helpt on dit te herstellen. App nu verwijderd maar kan niet meer installeren. Na veel adviezen en geregel opnieuw geïnstalleerd en gelukt.<br> :date: __2021-02-12 10:14:11__
 
 > Ik vind dit een handige app. Probleem was snel opgelost.<br> :date: __2021-02-11 10:18:22__
 
 > Prettige app. Snel. Maar inderdaad 3 dagen geleden opende hij niet meer op mijn tablet. Heb hem opnieuw geïnstalleerd op mijn smartphone. Daar werkt ie weer als vanouds.<br> :date: __2021-02-10 13:31:01__
-
-> Ik kan er mee overweg<br> :date: __2021-02-10 13:30:21__
-
-> De app is op mijn telefoon meerdere malen vastgelopen. Alleen door het opnieuw downloaden van de app kon de app weer gebruikt worden.<br> :date: __2021-02-10 09:08:43__
-
-> jammer dat je geen berichten/ vragen kan stellen<br> :date: __2021-02-08 10:05:58__
-
-> Handig, doet wat hij moet doen<br> :date: __2021-02-08 09:23:32__
-
-> Goed<br> :date: __2021-02-08 09:08:56__
-
-> Geeft een veilig gevoel Zodat wanneer er iets is dat je snel en goed geholpen kan worden<br> :date: __2021-02-08 09:08:54__
-
-> Hoe meer controle, hoe beter. App werkt niet meer vanaf gisteren!! Klopt dit?? Laat even weten s.v.p.<br> :date: __2021-02-07 12:16:32__
 
 
 
@@ -252,6 +252,12 @@ The Luscii app has been installed by more than **100000** times. At this time, *
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="nl.focuscura.beeldbelapp 3 reviews"/>
 </p>
+
+> App werkt al een paar weken niet meer, jammer want ik vulde hem iedere week in<br> :date: __2021-02-22 08:37:34__
+
+> Hulpje om mijn longen conditie in de gaten te houden.<br> :date: __2021-02-17 07:17:31__
+
+> Een ding minder laten niets of ze het ontvangen hebben<br> :date: __2021-02-14 09:56:24__
 
 > Deed het prima. Na update helaas op de tablet niet meer te gebruiken.<br> :date: __2021-02-10 09:38:53__
 
@@ -266,12 +272,6 @@ The Luscii app has been installed by more than **100000** times. At this time, *
 > Het is goed bedacht. Maar ik heb android versie 11 (oneplus 8) en die antwoorden waarbij je moet scrollen voor de cijfers doen het niet. Dus die had ik niet ingevuld. Kreeg vandaag het verzoek om de rest ook in te vullen maar kan daar dan geen bericht op terugsturen dat het bij mij niet werkt 🙈. Het idee is goed maar de uitvoering werkt niet op mijn mobiel. Ik heb dit probleem niet met andere apps met scrollsystemen.<br> :date: __2020-12-23 10:35:49__
 
 > Mis een stukje waar je opmerkingen kan plaatsen mbt de lichamelijke klacht<br> :date: __2020-12-23 08:44:01__
-
-> Geluid van beeldbellen is erg zacht, ook niet harder te krijgen. Jammer dat de app zo verschilt van de luscii Apple app, daar kon ik net iets meer mee (bv plaats nemen in de digitale wachtkamer)<br> :date: __2020-11-27 07:28:24__
-
-> Goed en overzichtelijk toe te passen<br> :date: __2020-11-18 08:36:02__
-
-> Het scrollen is wat moeilijk komt misschien door mijn toestel is al 2 jaar oud. Geen conract via Bluetooth. En wat weinig opties bij kortademigheid.<br> :date: __2020-11-09 09:01:59__
 
 
 

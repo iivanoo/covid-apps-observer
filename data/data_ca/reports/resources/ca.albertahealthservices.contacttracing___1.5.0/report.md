@@ -257,6 +257,12 @@ The ABTraceTogether app has been installed by more than **100000** times. At thi
 <img src="1_star_reviews_wordcloud.png" alt="ca.albertahealthservices.contacttracing 1 reviews"/>
 </p>
 
+> National app available. Why arnt we using it<br> :date: __2021-02-19 16:29:03__
+
+> This app only works with crowd sourcing. I can't find anyone else using the app. My work has thousands of people, many of whom are from out of province, some using the Canada Covid app. But not a single person has said they have ABtracetogether... Waste of tax payer dollars.<br> :date: __2021-02-16 16:57:09__
+
+> Rubbish who make this unless app<br> :date: __2021-02-16 13:30:57__
+
 > This app is heavy and hard on the battery and according to a researcher doesn't even work with iPhones even though they said they fixed it.<br> :date: __2021-02-12 05:41:20__
 
 > Its draining my phoes battery.<br> :date: __2021-02-03 10:04:53__
@@ -270,11 +276,5 @@ The ABTraceTogether app has been installed by more than **100000** times. At thi
 > Like others are saying, it needs an off button because of the battery drain when using it at home. Also, we need to use the federal app asap this one just doesn't have a audience anymore.<br> :date: __2021-01-26 03:30:38__
 
 > Just use the fed app already!! The petty squabbling of the prov govt is tiresome!! And ridiculous when people's health is involved. Grow up!<br> :date: __2021-01-21 23:04:39__
-
-> It always has a notification that it is either running or not running and I can't remove the notification. I don't need it running while I am at home the majority of the time so I don't want the notification telling me it's not running. I deleted the app because the notification message is unable to be removed.<br> :date: __2021-01-19 12:34:23__
-
-> I'm at home all the time, yet there's no way to turn on and off the contact tracing on the app. Change this setting please. It should only function when we turn it on because we're leaving home. There's no point in tracing when you're home!!! Let us have an option to activate it and deactivate it.<br> :date: __2021-01-18 12:17:44__
-
-> Complete battery suck. A few hours of phone use, and battery is done. I can use my phone all day on conference calls with a Bluetooth headset, take emails, texts, a quick surf on social between meetings and still have battery left at the end of the day. ABTrace you'll need to keep your phone plugged in constantly. Uninstalling... also most of my co-workers are non Alberta based so totally useless as not cross country.<br> :date: __2021-01-17 18:12:40__
 
 

@@ -229,6 +229,12 @@ The One Medical app has been installed by more than **100000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="com.onemedical.android 5 reviews"/>
 </p>
 
+> Easier than the Dept of Health portal. Got more progress in 2 days than 1 month before.<br> :date: __2021-02-21 18:38:19__
+
+> The video chat feature connects you to a medical personnel immediately. We found this extremely useful.<br> :date: __2021-02-19 18:44:18__
+
+> Everything works as expected<br> :date: __2021-02-19 01:54:16__
+
 > Terrific NP. Have found the NP's excellent, thoro, intelligent/thinkers. Wish the field was around 50 yrs ago. I would've studied<br> :date: __2021-02-13 15:13:38__
 
 > Excellent genuine service. Thanks<br> :date: __2021-02-12 10:26:33__
@@ -242,12 +248,6 @@ The One Medical app has been installed by more than **100000** times. At this ti
 > The provider was amazing: helpful, kind, knowledgeable, pleasant, answered all my questions, and easy and fun to talk with. Perfect!<br> :date: __2021-01-15 00:07:34__
 
 > Intuitive, well designed, and provides the services I would need from an app like this. The only improvement would be online/ mobile payment.<br> :date: __2021-01-03 21:57:46__
-
-> The video chat option is great for last minute visits for non-urgent medical issues. One Medical has been my provider for nearly a decade and I've been very happy with my medical needs, both preventative and reactive.<br> :date: __2021-01-02 19:18:24__
-
-> Love love love booking my own appointments<br> :date: __2020-12-26 21:09:46__
-
-> Love the one medical tream !!<br> :date: __2020-12-19 01:21:45__
 
 
 
@@ -313,6 +313,10 @@ The One Medical app has been installed by more than **100000** times. At this ti
 <img src="2_star_reviews_wordcloud.png" alt="com.onemedical.android 2 reviews"/>
 </p>
 
+> Latest update made it so I can't select the PDF message from my covid survey to send to work<br> :date: __2021-02-23 15:59:26__
+
+> The only way to update your insurance info is with the camera. However it doesn't let you focus so that you can read the insurance card text.<br> :date: __2021-02-21 19:49:08__
+
 > I had a covid test a week ago and still no results. And I can't get anyone to answer what is going on. The lack of information is frustrating and makes me question my membership.<br> :date: __2020-12-28 21:54:01__
 
 > A ton of things fall through the cracks causing an immense amount of confusion with your healthcare that's the last thing you want to not have a quality application especially since this company leans heavily on the application alone outside of in person or Zoom meetings<br> :date: __2020-12-24 21:08:33__
@@ -328,10 +332,6 @@ The One Medical app has been installed by more than **100000** times. At this ti
 > When an app with more than a few reviews rates higher than 4.8, something other than "app nirvana" may explain. With One Medical, it's a culture of zero tolerance for dissent or constructive criticism. Were it not for this Orwellian imposition of conformity (yes they will retaliate), both One Medical and its app might deserve 4 stars. The app (like the entity) occasionally has glitches (like the 3-year time warp). Putting all that and privacy violations aside (should we?), it can be OK.<br> :date: __2020-07-01 00:58:11__
 
 > Used to work. Latest upgrade on 4/23 I can not log in via app. App is currently, useless.<br> :date: __2020-04-24 16:35:17__
-
-> The app is not great. It's basically the website with no difference. Like it literally has a tab in menu which says 'Open in app' 😑. There is no way to reschedule or even look at your appointments.<br> :date: __2020-01-09 18:13:55__
-
-> No face id support<br> :date: __2019-12-28 20:08:49__
 
 
 
