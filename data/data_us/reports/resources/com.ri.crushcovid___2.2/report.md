@@ -265,6 +265,8 @@ The CRUSH COVID RI app has been installed by more than **10000** times. At this 
 <img src="1_star_reviews_wordcloud.png" alt="com.ri.crushcovid 1 reviews"/>
 </p>
 
+> At first it was helpful tracking my help and keeping me up to date with new information. However, it's now been unable to retrieve new data for a couple months and I'm unable to access new information about testing or vaccinations.<br> :date: __2021-02-26 20:13:12__
+
 > I can't get past the "Let's Go" button on a Pixel 5. This used to work on my Pixel.<br> :date: __2020-12-02 17:30:43__
 
 > After I use symptom diary, the next screen freezes. I have to uninstall the app and then install it again.<br> :date: __2020-11-22 15:40:59__
@@ -282,7 +284,5 @@ The CRUSH COVID RI app has been installed by more than **10000** times. At this 
 > No exposure notifications = useless app!<br> :date: __2020-10-09 03:20:46__
 
 > Not working correctly. Dates wrong<br> :date: __2020-10-06 06:25:40__
-
-> Need to enable exposure notifications, app is useless if it does not alert the user that they have been exposed.<br> :date: __2020-10-03 15:35:00__
 
 

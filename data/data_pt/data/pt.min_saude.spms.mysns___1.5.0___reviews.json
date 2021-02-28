@@ -1,5 +1,17 @@
 [
     {
+        "reviewId": "gp:AOqpTOGPd8Cqm7YI57xG1CnwoEvoAbn0rbNz2F11-9B5Xynm7KNHrsBTIg4xQWvVpGdlqxSOP1-NL_Ovr6hDgA",
+        "userName": "Elisabete Dias",
+        "userImage": "https://play-lh.googleusercontent.com/-9QC94AO4Vy4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl6EDR2z6_p5yyh0oPLGBBNH3ZtNg/photo.jpg",
+        "content": "Na\u00f5 faz atualiza\u00e7a\u00f5.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.3.0",
+        "at": "2021-02-25 11:00:27",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOFMyDUxxE_G9PIUwHWf48OZ_7vnW6Qzwnt3giM3oU3whCsPVo0VFJ_BnduS9qjiJ5QcvZ4gTzfdAkynBA",
         "userName": "Pedro Map",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh6Ji_DjKiNZcD5cQP6uVY4xF_CMw5pTJk-J17L",
@@ -41,7 +53,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi4k93PbvmPBBavNvLP6gMB6QxGeFLv4_S5Vp-hUw",
         "content": "Para quando uma actualiza\u00e7\u00e3o de software pra poder funcionar nas vers\u00f5es mais recentes de Android?! S\u00f3 estamos \u00e0 frente naquilo que n\u00e3o interessa...",
         "score": 1,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 3,
         "reviewCreatedVersion": "1.5.0",
         "at": "2021-02-15 20:59:51",
         "replyContent": null,
@@ -314,7 +326,7 @@
     {
         "reviewId": "gp:AOqpTOFGmij844VvdTSn1onn81hYxCZiEve5X4S8tEV5pawMiclV5J0VepbK3kqQvOMQnZ95S6GrXkqOhFbRSg",
         "userName": "ISA DIAS",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ghlp4WMKR_bxLvzMF5pp1G3C0hNQKy687-DrQCYdA",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhFHQaNzrd_NLku43axFPlM5AhRu_3UcGzkzK-tuA",
         "content": "Abre a interface mas fica tudo em branco. N\u00e3o entendo como uma APP que deveria ser \u00fatil, afinal n\u00e3o nos ajuda em nada. Espero que os SPMS melhorem este servi\u00e7o!",
         "score": 1,
         "thumbsUpCount": 2,
@@ -401,7 +413,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-DtHKQtrrR10/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl56b9pIhvaj17Br70ibVjp8qyMCg/photo.jpg",
         "content": "N\u00e3o recomendo por nem sequer a conseguir experimentar. Pura e simplesmente faz o download da aplica\u00e7\u00e3o, mas depois.... n\u00e3o funciona. Diz ser uma aplica\u00e7\u00e3o do Google mais antiga e assim, num telem\u00f3vel android mais recente, n\u00e3o mostra 1 p\u00e1gina sequer.",
         "score": 1,
-        "thumbsUpCount": 10,
+        "thumbsUpCount": 11,
         "reviewCreatedVersion": null,
         "at": "2021-02-09 15:44:51",
         "replyContent": null,
@@ -1016,18 +1028,6 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.5.0",
         "at": "2021-01-26 21:08:26",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOGPd8Cqm7YI57xG1CnwoEvoAbn0rbNz2F11-9B5Xynm7KNHrsBTIg4xQWvVpGdlqxSOP1-NL_Ovr6hDgA",
-        "userName": "Elisabete Dias",
-        "userImage": "https://play-lh.googleusercontent.com/-9QC94AO4Vy4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl6EDR2z6_p5yyh0oPLGBBNH3ZtNg/photo.jpg",
-        "content": "Na\u00f5 faz atualiza\u00e7a\u00f5.",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.3.0",
-        "at": "2021-01-26 14:46:42",
         "replyContent": null,
         "repliedAt": null
     },
@@ -4406,7 +4406,7 @@
     {
         "reviewId": "gp:AOqpTOE8yPFimFdmnR79bgV65IzlfNXxvH8OAmUUL42LOkWJ1e6iTDl9m1npYKNmGDcii3OaOXhr5oIA-36y6A",
         "userName": "Gard\u00e9nia Duarte Fonseca",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhftTmuAQyhiW2CVX8BMEWiDPMWbt4tKlLCxBk9Fw",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgpAgTRQfaYvXPjaqIl5BFMWKZZ3i8L2kXoqWWThA",
         "content": "cirurgia feita em 21 de Fevereiro. cade o meu trabalho",
         "score": 1,
         "thumbsUpCount": 1,
@@ -6566,7 +6566,7 @@
     {
         "reviewId": "gp:AOqpTOG73gZvO7wOg0dvntOLKjLpeEeD8bkAJA4mZoDfQfdGp5_mezfkVzXxS-BBvNbog77NxExCKXbS7t2zTg",
         "userName": "Afonso Freitas",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiDbkwOfQ9ZjLBY_RQ5TR5cp51mdyMUBFhvmof85g",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhL-tK4lOAtN-kFhVHv6xsw61tDXB_2xxkukXzNDw",
         "content": "A aplica\u00e7\u00e3o al\u00e9m de ser muito \"pesada\" e ocupar muito espa\u00e7o de armazenamento, n\u00e3o tem a aplica\u00e7\u00e3o pr\u00e1tica que seria suposto esperar, pelo menos ao entrar na Area do Cidad\u00e3o, a aplica\u00e7\u00e3o deveria pernitir com a pr\u00f3pria aplica\u00e7\u00e3o aceder a esses servi\u00e7os. Mas n\u00e3o a autentica\u00e7\u00e3o e demais funcionalidades s\u00e3o feitas num browser. Uma aplica\u00e7\u00e3o que certamente foi bem paga e que muito pouco faz. At\u00e9 a parte das sugest\u00f5es n\u00e3o funciona e somos \"obrigados\" a escrever com erros ortogr\u00e1ficos. N\u00e3o instalem.",
         "score": 1,
         "thumbsUpCount": 6,
@@ -7910,7 +7910,7 @@
     {
         "reviewId": "gp:AOqpTOFIbMlAQU4TvdE07kkQbx_DYpYvmYwfamPJs75fPBR-DOBtZlUPSDXz947_zefvyWoYTh3onnkIl-sRGA",
         "userName": "Rafa",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgMDlmabPeyyepRkoCTOk7751DiFyEDkNAgUzXfRA",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjS3Meu0-fOvMdAlrrYf2YgNdsMzKWdeDlL5AHtXg",
         "content": "Nao entendo a finalidade deste app... nao sei o que pretendem ao gastar dinheiro a fazer este tipo de coisas... uma autentica perda de tempo",
         "score": 1,
         "thumbsUpCount": 2,

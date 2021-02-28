@@ -272,6 +272,8 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <img src="1_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 1 reviews"/>
 </p>
 
+> Con l'ultimo aggiornamento non riesco più ad usare l'app senza compilare il questionario covid, e se provo a compilarlo si blocca sulla schermata di scelta familiare.<br> :date: __2021-02-24 15:38:39__
+
 > Si blocca sempre<br> :date: __2021-01-23 20:49:46__
 
 > Inutile<br> :date: __2021-01-09 10:44:04__
@@ -289,7 +291,5 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 > Non aggiornata<br> :date: __2020-10-27 23:50:27__
 
 > Allerta in tempo reale???? Non scrivete certe cose!!<br> :date: __2020-10-22 20:26:03__
-
-> Totalmente inutile, da informazioni che puoi trovare sia sull'app meteo che su Google, consuma spazio per niente<br> :date: __2020-10-17 14:50:34__
 
 

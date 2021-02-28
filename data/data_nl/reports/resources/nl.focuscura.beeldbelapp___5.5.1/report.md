@@ -197,6 +197,8 @@ The Luscii app has been installed by more than **100000** times. At this time, *
 <img src="5_star_reviews_wordcloud.png" alt="nl.focuscura.beeldbelapp 5 reviews"/>
 </p>
 
+> Al drie weken kan ik de app niet meer openen en dus geen gegevens doorgeven. Zelfs verwijderd en opnieuw gedownload. Nee dus. Lex.<br> :date: __2021-02-24 12:04:49__
+
 > De app werkt weer perfect<br> :date: __2021-02-22 09:04:16__
 
 > Monitoring okay. Reactie op ernstige klachten en nieuwe medicijnen op moet eerder, vind ik.<br> :date: __2021-02-18 18:28:51__
@@ -214,8 +216,6 @@ The Luscii app has been installed by more than **100000** times. At this time, *
 > Fijn dat dezecontrole online kan. Heel prettig deze kans<br> :date: __2021-02-17 12:16:31__
 
 > Een mooie overzichtelijke app en functioneerd goed fijne uitleg over bv bloeddruk enz enz mooie filmpjes goed geluid ook heel belangrijk<br> :date: __2021-02-17 09:17:55__
-
-> Werkt prima<br> :date: __2021-02-15 10:03:25__
 
 
 
@@ -253,13 +253,13 @@ The Luscii app has been installed by more than **100000** times. At this time, *
 <img src="3_star_reviews_wordcloud.png" alt="nl.focuscura.beeldbelapp 3 reviews"/>
 </p>
 
+> Het vervelende is dat de meerdere keren zomaar ineens niet te gebruiken is! Moet alles weer opnieuw opstarten. Als het weer gebeurd stop ik ermee!!<br> :date: __2021-02-27 08:54:24__
+
 > App werkt al een paar weken niet meer, jammer want ik vulde hem iedere week in<br> :date: __2021-02-22 08:37:34__
 
 > Hulpje om mijn longen conditie in de gaten te houden.<br> :date: __2021-02-17 07:17:31__
 
 > Een ding minder laten niets of ze het ontvangen hebben<br> :date: __2021-02-14 09:56:24__
-
-> Deed het prima. Na update helaas op de tablet niet meer te gebruiken.<br> :date: __2021-02-10 09:38:53__
 
 > Ter info...vanaf nu werkt de app niet bij mij. Ook na de update niets...start niet op.Heb de app verwijderd en opnieuw gedownload. Nu krijg ik melding dat hij niet werkt op Android. Hoop op een berichtje van u.<br> :date: __2021-02-06 10:41:29__
 

@@ -140,6 +140,8 @@ The AlohaSafe Alert app has been installed by more than **10000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="org.alohasafe.alert 5 reviews"/>
 </p>
 
+> excellent love it<br> :date: __2021-02-26 22:14:00__
+
 > Love it<br> :date: __2021-02-16 09:25:53__
 
 > I have used the app for about one week now. And there has been no contact warning. Was just wondering if it is still working. I just checked the number of installs and it's more than 10 thousand. That means that less than one of us gets positive each day. Its unlikely that we have had any contact in say the last week. No news is good news.<br> :date: __2021-02-16 02:58:13__
@@ -158,8 +160,6 @@ The AlohaSafe Alert app has been installed by more than **10000** times. At this
 
 > Easy access<br> :date: __2021-01-25 17:58:06__
 
-> Very useful.<br> :date: __2021-01-24 03:19:46__
-
 
 
 #### 4-star reviews
@@ -167,6 +167,10 @@ The AlohaSafe Alert app has been installed by more than **10000** times. At this
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="org.alohasafe.alert 4 reviews"/>
 </p>
+
+> Very easy to use, doesn't require any personal info. It does require bluetooth but it's anonymous and you can keep it off at home and just use it when connecting to wireless headphones/remember to turn it back on when you go out. Only criticism is it's only in english and spanish, needs more languages. You shouldn't have to know english to be safe and keep others safe. It's just accessibility.<br> :date: __2021-02-27 05:04:18__
+
+> Very informative<br> :date: __2021-02-26 21:32:20__
 
 > , .<br> :date: __2021-01-08 20:47:39__
 
@@ -197,6 +201,8 @@ The AlohaSafe Alert app has been installed by more than **10000** times. At this
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="org.alohasafe.alert 2 reviews"/>
 </p>
+
+> This is my 1st time.<br> :date: __2021-02-25 00:11:14__
 
 > Useless app. People with COVID19 are supposed to be quarantined. Will not work unless other phones have Bluetooth on.<br> :date: __2021-02-08 04:11:55__
 

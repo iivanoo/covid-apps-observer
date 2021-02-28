@@ -207,25 +207,25 @@ The IO, l'app dei servizi pubblici app has been installed by more than **5000000
 <img src="5_star_reviews_wordcloud.png" alt="it.pagopa.io.app 5 reviews"/>
 </p>
 
-> Dz5r, were there anything else fed<br> :date: __2021-02-23 14:52:02__
+> Facile e completo<br> :date: __2021-02-27 09:17:49__
 
-> PERFETTA : è solo un po tanto vergognoso che si permetta ai soliti ladri furbetti di fare quelle operazioni nei benzinai. Ci rimettono solo le persone oneste e perbene che rispettano le regole. I Soliti pezzenti<br> :date: __2021-02-23 13:32:46__
+> Ottima<br> :date: __2021-02-26 20:52:40__
 
-> Funziona bene..<br> :date: __2021-02-23 12:05:35__
+> Non riesco a vedere le mie transazioni<br> :date: __2021-02-26 19:23:15__
 
-> Buona ma non ho capito se serve per la lotteria degli scontrini<br> :date: __2021-02-23 09:08:50__
+> Ben fatta e interpretativa facile<br> :date: __2021-02-26 18:04:42__
 
-> OTTIMA<br> :date: __2021-02-23 08:56:57__
+> Ottima app con buone prospettive per il futuro di diventare punto di riferimento per i pagamenti online alle PA<br> :date: __2021-02-26 18:02:44__
 
-> La uso da inizio dicembre, non ho avuto nessun problema ad installarla e configurarla e ha sempre funzionato correttamente.<br> :date: __2021-02-23 07:59:44__
+> Ottima.. Ogni pagamento nel termine di 3 giorni viene caricato nel portafoglio cashback<br> :date: __2021-02-26 14:55:36__
 
-> L'app funziona più che bene<br> :date: __2021-02-22 22:47:18__
+> Buona<br> :date: __2021-02-26 13:06:58__
 
-> Non funziona! Non mi fa caricare la carta<br> :date: __2021-02-22 21:19:31__
+> 26-02-21 metto la 5 stella,risolto problema circuito MAESTRO,ricevuto accredito del cashbank di Natale.-20-01-21 rimetto le 4 stelle problema risolto con circuito pagobancomat tutte le operazioni presenti l'altra stella quando abilitano il circuito. MAESTRO-01-01-2021 confermo le 5 stelle anche per il cashback nessun problema caricato la carta il 9 dicembre le transazioni regolarmente caricate entro le 72 ore,attendo la possibilità di caricare il circuito maestro senza cvv.--<br> :date: __2021-02-26 10:45:50__
 
-> Ora funziona bene<br> :date: __2021-02-22 19:59:10__
+> Bellissimo<br> :date: __2021-02-26 09:38:07__
 
-> Eccellente!!!<br> :date: __2021-02-22 19:25:55__
+> Sta andando alla grande.... Se qualche volta c'è un ammanco di transazioni il favoloso personale dell'assistenza provvede a sistemare i vari bugs! A quando vi verrà assegnato la realizzazione del software dell'Inps???? che per ora è veramente penoso??<br> :date: __2021-02-26 06:46:05__
 
 
 
@@ -235,25 +235,25 @@ The IO, l'app dei servizi pubblici app has been installed by more than **5000000
 <img src="4_star_reviews_wordcloud.png" alt="it.pagopa.io.app 4 reviews"/>
 </p>
 
-> Ora funziona bene, ma è lenta ad aprirsi.<br> :date: __2021-02-23 14:34:05__
+> A parte qualche problema iniziale, ho trovato l'APP molto utile e funzionale. Spero che presto venga implementata con nuovi servizi!<br> :date: __2021-02-26 20:09:17__
 
-> Manca la classifica dei primi 100000 , il resto ok<br> :date: __2021-02-23 11:51:00__
+> Tutto ok . Molto bene 👏<br> :date: __2021-02-26 19:51:34__
 
-> Migliorato<br> :date: __2021-02-23 08:59:57__
+> Dopo iniziale rodaggio, ora funziona alla grande.<br> :date: __2021-02-26 17:11:18__
 
-> Risolti i problemi di gioventù....<br> :date: __2021-02-23 08:16:41__
+> Migliorabile ......<br> :date: __2021-02-26 12:42:57__
 
-> Carica molto meglio di prima<br> :date: __2021-02-23 08:11:44__
+> 4 stelle perché ho avuto difficoltà a registrare la Postepay i primi giorni. poi Ringraziando il Signore l'ho attivata dall'app Postepay che lo permetteva.Per il resto l'accredito è arrivato il 25 febbraio e non ho avuto altri problemi.👍<br> :date: __2021-02-26 12:18:28__
 
-> App funzionale e che fa quel per cui è pensata.Non ho riscontrato al momento nessun problema.Le operazioni sono sempre caricate puntualmente e già mi è stato accreditato il cashback di Natale. Ottima iniziativa che nella pratica restituisce parte dell'Iva al cittadino senza il possibile raggiro dei commercianti.<br> :date: __2021-02-23 07:19:25__
+> ilh9 9<br> :date: __2021-02-26 09:17:21__
 
-> Pensavo di trovarlo sempre intasato o bloccato e invece funziona benissimo<br> :date: __2021-02-22 20:56:16__
+> Per me è valida,un po' lento l'aggiornamento degli acquisti.<br> :date: __2021-02-25 22:09:58__
 
-> Stiamo migliorando piano piano<br> :date: __2021-02-22 19:14:37__
+> Non funziona. Doveva essere provata per tempo. Vergogna. Correzione: DOPO LA METÀ DI DICEMBRE HA FUNZIONATO. C'È QUALCOSA DA MIGLIORARE MA IL CB FUNZIONA.<br> :date: __2021-02-25 18:52:38__
 
-> Speriamo vengano aggiunte nuove funzioni che riducano la burocrazia.<br> :date: __2021-02-22 18:55:07__
+> App funziona alla perfezione non do 5 stelle per il semplice fatto.. io bollette e bonifici le eseguo tramite app bancoposta, una cosa x me molto grave mi leva tra i 7/10 movimenti al mese con importo grosso dove ricavo un buon 10%... se riuscite a risolvere questa cosa darò 5 stelle.<br> :date: __2021-02-25 15:58:19__
 
-> Ottimo<br> :date: __2021-02-22 16:44:06__
+> Ottima app. funziona bene. quattro stelle non per l'applicazione ma per i "furbetti" del cashback. Microtransazioni? Basta proporre la classifica per "MEDIA ARITMETICA DELLE TRANSAZIONI ESCLUDENDO TRANSAZIONI INFERIORI A 2€" e non la classifica per "maggior numero transazioni". Se faccio 100 transazioni da 40€ sarò avanti a chi ne fa 500 da 2€ perché io avrò movimentato di media 40€, il furbetto solo 2. Le transazioni inferiori a 2€ sono comunque valide al fine del cashback da 150€. ProbRISOLTO.<br> :date: __2021-02-25 10:43:26__
 
 
 
@@ -263,25 +263,25 @@ The IO, l'app dei servizi pubblici app has been installed by more than **5000000
 <img src="3_star_reviews_wordcloud.png" alt="it.pagopa.io.app 3 reviews"/>
 </p>
 
-> Sono da tempo in attesa dell'aggiornamento che renda disponibile l'utilizzo della carta Conad per il cashback quando arrivera'?<br> :date: __2021-02-23 14:30:38__
+> Oggi sono arrivati i soldi. Come promesso aumento le stelle.<br> :date: __2021-02-26 13:25:35__
 
-> Esit: Sembra andare meglio ora. Dopo l'ultimo aggiornamento non carica più la sezione"portafoglio" , proprio quella che serve ora!<br> :date: __2021-02-23 13:19:46__
+> Non funziona benissimo, manca un contatto telefonico, abbastanza laborioso.<br> :date: __2021-02-25 19:44:51__
 
-> Saverio Vasapollo Non riesco più a entrare nella app e non so il motivo. Mi potete aiutare ? Grazie<br> :date: __2021-02-23 09:50:12__
+> L'app è (quasi) buona Ma porca miseria ce la facciamo ad aggiungere metodi tipo GooglePay o ApplePay??<br> :date: __2021-02-25 15:56:57__
 
-> Trovo antipatico che non ci sia la possibilità di visualizzare la password digitata, inoltre il tempo concesso per inserire il codice ricevuto è molto ristretto.<br> :date: __2021-02-22 23:42:13__
+> A volte richiede l'inserimento delle psw, segnalando che non viene usata da più di 30 giorni, invece l'ho usata solo qualche giorno prima.<br> :date: __2021-02-25 11:32:25__
 
-> Funziona meglio vediamo i tempi di rimborso<br> :date: __2021-02-22 22:07:04__
+> Dopo le difficoltà iniziali, ora tutto ok per il cashback. Speriamo bene per tutto. Per ora 10 e anche lode.<br> :date: __2021-02-25 08:05:01__
 
-> Ora è ok<br> :date: __2021-02-22 20:55:33__
+> Ho ricevuto il rimborso di dicembre come da scadenza, ma non mi sono stati registrati alcuni acquisti e non so come posso fare una verifica per richiederli<br> :date: __2021-02-24 19:21:56__
 
-> ora funziona, ma io pago con google pay e le trasazioni non risultano<br> :date: __2021-02-22 16:53:01__
+> App da migliorare<br> :date: __2021-02-24 12:36:46__
 
-> Inizialmente ho avuto dei problemi che poi si sono gradualmente sistemati sino a essere pienamente efficiente, ma solo per quanto riguarda il cashback. Continuo a non capire l'utilità della sezione servizi dove tutto è attivo ma niente funziona, esempio sezione ACI attestati di proprietà, se lo vuoi devi andare sul web!<br> :date: __2021-02-22 16:01:11__
+> Buonasera, nn riesco a visualizzare i certificati di proprietà. Nella schermata principale mi dice sempre di attivare il cash back. Se reinstallo l'app perdo le transazioni? Avrei bisogno di una mano. Grazie Ci vuole molto per risolvere il problema? Avrei una certa urgenza. Vorrei evitare di fare una denuncia per smarrimento visto la comodità di questa app se funzionasse....<br> :date: __2021-02-24 12:19:35__
 
-> Mancano molte transazioni, tutte quelle fatte con il circuito maestro, alcune transazioni fatte con esercenti che non hanno il pos convenzionato. Da una settimana non mi segna più transazioni. Almeno stamattina mi è arrivato il rimborso del cashback di dicembre!<br> :date: __2021-02-22 12:55:57__
+> Ad oggi ancora la maggior parte delle app di pagamento da cellulare non sono utilizzabili per il cashback<br> :date: __2021-02-24 09:22:21__
 
-> Modifico la mia recensione perché l'app è dannatamente incostante, ho almeno 3 transazioni che non vengono conteggiate ma a caso. Visto che le tre sono di negozi dove vado spesso, una conteggiata l'altra no bho...<br> :date: __2021-02-22 11:34:31__
+> Comincia a funzionare abbastanza bene<br> :date: __2021-02-24 05:41:01__
 
 
 
@@ -291,25 +291,25 @@ The IO, l'app dei servizi pubblici app has been installed by more than **5000000
 <img src="2_star_reviews_wordcloud.png" alt="it.pagopa.io.app 2 reviews"/>
 </p>
 
-> Non funzione sul mio telefono<br> :date: __2021-02-23 08:37:10__
+> Non legge tutte le carte<br> :date: __2021-02-27 05:30:48__
 
-> Veramente il minimo sindacale. Ancora non si possono usare piattaforme come GPay....per evitare di portare carta appresso. Molto da migliorare.<br> :date: __2021-02-23 07:31:07__
+> Quando sarà possibile usare Google play Apple pay Samsung pay ?<br> :date: __2021-02-26 12:03:13__
 
-> Sto aspettando ancora gli aggiornamenti per gli scontrini ed altre agevolazioni e buoni, non potevo pretendere di meglio! Tale stato, tale app!<br> :date: __2021-02-22 20:27:52__
+> Trovo francamente una GRAVE mancanza l'impossibilità di associare servizi come GPay o Apple Pay, ancora dopo tre mesi. Inaccettabile!<br> :date: __2021-02-25 21:01:56__
 
-> Deve crescere ancora molto(dicembre 2020)..ad oggi, febbr 2021,l.assistenza lascia molto a desiderare<br> :date: __2021-02-22 19:55:06__
+> Fa schifo<br> :date: __2021-02-25 19:10:22__
 
-> Applicazione semplice da utilizzare. Purtroppo segnalo che ad oggi, 22 febbraio 2021, non è ancora abilitato il pagamento tramite Samsung Pay.... Visto che questo tipo di applicazione utilizza le stesse carte registrate nell'applicazione, questa è una cosa veramente vergognosa.<br> :date: __2021-02-22 19:31:43__
+> Potreste anche integrare le carte del circuto Maestro.. anche Google play, Apple pay e servizi digitali non sarebbe male..<br> :date: __2021-02-25 17:43:05__
 
-> Cominciamo a migliorare...<br> :date: __2021-02-22 18:23:28__
+> Sul Cashback Bastava un blocco a tempo sulla carta, non me ne frega un × se è un limite alle tue libertà, in quel negozio puoi fare max 2 operazioni al giorno la terza non la conto, e sei fai lo × passando prodotti ogni minuto ti butto fuori dal Cashback così hai finito di fare il ×, vorrei averci a che fare io con uno di questi personaggi.......5 minuti e gli passa la paura fine delle trasmissioni, invece siamo sempre li a lisciare il pelo in nome di libertà e privacy che non esistono più da te<br> :date: __2021-02-25 16:30:04__
 
-> abbasso la recensione perché a oggi ancora non vengono conteggiati i pagamenti elettronici (samsung pay, google pay, ecc...)<br> :date: __2021-02-22 17:24:07__
+> Sarebbe bello che attraverso l'app si possa fare le ricariche telefoniche con il Cheshback<br> :date: __2021-02-24 18:31:15__
 
-> L'app funziona e registra regolarmente tutti gli acquisti. Peccato che non mi fa inserire anche la Carta di Credito come metodo di pagamento ma solo il PagoBancomat<br> :date: __2021-02-22 15:47:06__
+> App, potenzialmente utile, su 30 transazioni ne risultano 13, non mi fa inserire il circuito maestro del bancomat, ma solo il pago bancomat. Ormai la tengo ma serve a poco i questi modo<br> :date: __2021-02-24 09:55:46__
 
-> Google pay ed Apple pay quando avete intenzione di aggiungerli?<br> :date: __2021-02-22 14:42:38__
+> Mancano transazioni del 15 febbraio.<br> :date: __2021-02-23 23:25:38__
 
-> Ho disinstallato l'app e ora non riesco piu' a scaricarla, come mai?<br> :date: __2021-02-22 14:00:31__
+> ...quindi almeno una volta al mese il sistema decide di bloccarsi e non segnare più i pagamenti. Mi era successo a gennaio, è accaduto di nuovo per le transazioni dal 19 febbraio (tuttora non visualizzate benché contabilizzate dalla mia banca). Di questo passo potete anche chiudere tutto, perché sinceramente non ne vale la pena...<br> :date: __2021-02-23 22:08:27__
 
 
 
@@ -319,24 +319,24 @@ The IO, l'app dei servizi pubblici app has been installed by more than **5000000
 <img src="1_star_reviews_wordcloud.png" alt="it.pagopa.io.app 1 reviews"/>
 </p>
 
-> Nonostante l'aggiornamento, non funziona ancora l'inserimento carte di credito dei supermercati.<br> :date: __2021-02-23 14:58:31__
+> Penoso che non funzioni ancora con Google pay tra l'altro più sicure in termini covid perché non si tocca più i tasti del pos<br> :date: __2021-02-27 09:47:02__
 
-> Non funziona per niente<br> :date: __2021-02-23 13:24:35__
+> Classifica.. è necessario che ci sia un minimo di spesa di 5 €. esiste un controllo tra reddito e spese?<br> :date: __2021-02-27 07:15:03__
 
-> Da giorni non segna più le transazioni effettuate...sono almeno 4 quelle credo ormai perse visto che sono già passati piu di 3 giorni lavorativi. Se non raggiungo le 50 transazioni per colpa di questa app farò sicuramente ricorso agli organi competenti.<br> :date: __2021-02-23 12:18:56__
+> Pessimo!!! Macchinoso, poco efficiente e dopo 30 gg. bisogna ricominciare a immettere PW ecc.... cosa fatta all'italiana!!!!! VERGOGNA!<br> :date: __2021-02-27 01:08:33__
 
-> Mancano le transazioni del 15 febbraio, risolvete il problema<br> :date: __2021-02-23 12:08:58__
+> contabilizza più o meno una transazione ogni 10 pagamenti.<br> :date: __2021-02-26 22:03:58__
 
-> Nel mese di febbraio ho eseguito circa 20 pagamenti con la carta di credito, nessuno dei quali mi è stato caricato (ho provato sia con contactless che inserendo la carta nel poss). È inutile attivare un servizio di cashback se il 95 per cento dei negozi non è abilitato al servizio. Grande delusione.<br> :date: __2021-02-23 11:56:42__
+> Non tiene traccia di tante transazioni, più volte ho contattato l'assistenza, ma non c'è niente da fare.......<br> :date: __2021-02-26 20:58:44__
 
-> Ho associato due tipi di pagamenti. Ma l'unico in qui vedo il cashback è Satispay. Il bancomat no<br> :date: __2021-02-23 11:20:13__
+> Per entrare perdi 20minuti con 30 mega di banda di download. Provato con due telefoni. Penso abbiate un IBM 386 del.1990 come server per gestire il servizio.<br> :date: __2021-02-26 20:36:44__
 
-> Non funziona. Non accreditano. Non rispondono. È una confusione totale.<br> :date: __2021-02-23 10:11:20__
+> Le solite porcherie dei sw di stato. Bestemmie a ruota libera. su Motorola edge nuovo va subito in crash, non esiste servizio di helpdesk.<br> :date: __2021-02-26 19:17:42__
 
-> Pessima!!! Continua a presentare numerosi malfunzionamenti (non permette di aggiungere Google Pay come pagamento, la lista dei servizi non funziona, ecc.) e l'assistenza non risponde MAI. Non capisco perchè lo Stato italiano affidi a incompetenti la gestione del cashback<br> :date: __2021-02-23 09:36:26__
+> Negativa. Diverse transazioni tra cui quelle del carburante non entrano nella app.<br> :date: __2021-02-26 17:19:09__
 
-> Pessima.Da giorni non segna più alcuna transazione.Non c'è speranza.<br> :date: __2021-02-23 09:25:32__
+> Impossibile.comunicare per risolvere un problema. Continua a rispondere un messaggio.precompilato. Da.2.giorni.<br> :date: __2021-02-26 16:18:12__
 
-> Cervellotica. Un continuo rimando. Semplicità prego. Inutilizzabile.<br> :date: __2021-02-23 08:28:39__
+> Oggi non si entra. Infocert/Spid autorizza, ma IO non recepisce.<br> :date: __2021-02-26 16:04:47__
 
 

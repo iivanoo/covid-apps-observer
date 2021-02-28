@@ -168,6 +168,8 @@ The Mensch, Solingen app has been installed by more than **5000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="de.solingen.solingenapp 5 reviews"/>
 </p>
 
+> Prima App. Sehr schön Designed und die Informationen sind gut aufbereitet. Weiter so.<br> :date: __2021-02-27 09:41:14__
+
 > Derzeit stürzt die App beim starten ab, zuerst wird Fehler:100 angezeigt, dann ist die Verbindung zum Server doch erfolgreich und dann stürzt die App ab. Edit: Der Tipp mit der Neuinstallation hat geklappt. Vielen Dank 👍.<br> :date: __2021-02-17 15:10:54__
 
 > Eigentlich eine tolle APP. aktuell startet die. Anwendung leider nicht sondern wird direkt beendet. Ich kann nur einen Fehler an meinen smartphone Hersteller melden. Push Nachrichten kommen zwar an, aber auch hier kommt es beim anclicken zum Absturz. Edit. Nach Rückmeldung der Entwickler Problem beseitigt. Alles Bestens, vielen Dank.<br> :date: __2020-12-20 08:27:00__
@@ -280,8 +282,8 @@ The Mensch, Solingen app has been installed by more than **5000** times. At this
 
 > Trotz angeblicher Fehlerbehebung startet die App noch immer nicht. Was ist daran so schwer, eine App zu programmieren, die funktioniert?<br> :date: __2020-12-15 19:16:19__
 
-> Stürzt schon beim ersten Ausprobieren ab und passt sich nicht an die Displaygröße meines Moto G5 an. Update: Stürzt immer noch ab und auch nach 2 Updates funktioniert der Abfallkalender nicht, unbrauchbar, deshalb DEINSTALLIERT.<br> :date: __2020-12-15 12:43:52__
-
 > App funktionierte nur am 1. Tag.<br> :date: __2020-12-11 17:40:47__
+
+> keine Verbindung zum Server ... in einem von 10 Versuchen klappt es<br> :date: __2020-12-09 20:09:18__
 
 

@@ -185,6 +185,8 @@ The Salud Andalucía app has been installed by more than **50000** times. At thi
 <img src="2_star_reviews_wordcloud.png" alt="es.juntadeandalucia.msspa.saludandalucia 2 reviews"/>
 </p>
 
+> Falla al solicitar activar notificaciones. Imposible confirmar código sms<br> :date: __2021-02-27 07:15:23__
+
 > Para activar notificaciones por sms tienes que cerrar la aplicación cuando te llega el sms del código... Bucle infinito o hacerlo con dos móviles... Pero mal diseño<br> :date: __2020-10-29 15:13:10__
 
 > No puedo descargar los partes que me manda mi doctora. Dice documento descargado pero nada, no aparece nada<br> :date: __2020-09-08 08:54:21__
@@ -201,6 +203,14 @@ The Salud Andalucía app has been installed by more than **50000** times. At thi
 <img src="1_star_reviews_wordcloud.png" alt="es.juntadeandalucia.msspa.saludandalucia 1 reviews"/>
 </p>
 
+> Al intentar autenticar el usuario con el clave permanente, da un error de SSO (Single Sign On) y no permite acceder. El Userid y password está verificado que son correctos.<br> :date: __2021-02-26 23:32:03__
+
+> Certificado de vacunación y la Junta de Andalucía no está vacunando a nadie? Dimisión Consejero inútil de Salud<br> :date: __2021-02-26 20:50:58__
+
+> Es imposible activar la cl@ve permanente... Vaya aplicación<br> :date: __2021-02-26 20:36:35__
+
+> Error al cargar la wep , error , error, no hay forma de registrarse<br> :date: __2021-02-24 18:42:37__
+
 > No inicia sesión. Se queda pensando indefinidamente.<br> :date: __2021-02-23 12:50:43__
 
 > No va po e error<br> :date: __2021-02-22 23:10:59__
@@ -212,13 +222,5 @@ The Salud Andalucía app has been installed by more than **50000** times. At thi
 > No puedo habrir la aplicación Salud Andalucía cuando la voy habrir me sale un mensaje que dice que Salud Andalucía se a de tenido y no se habre tengo una notificación y no puedo leerla haber que puedo hacer<br> :date: __2021-02-09 02:03:03__
 
 > No me llega el sms con el código<br> :date: __2021-01-25 08:17:53__
-
-> Esta aplicación no vale para nada,no te deja meter el sms que recibes para verificar tus datos<br> :date: __2021-01-16 11:18:36__
-
-> Supuestamente te llega un sms para vereficar y no llega nada. Muy mala<br> :date: __2020-12-19 19:59:34__
-
-> Me instale está aplicación por recibir notificaciones por la prueba de covid. Tengo el alta desde hace una semana y aún no me ha llegado ni por la app no por sms el resultado. Según mi opinión es inútil porque las noticias que ponen son contradictorias a la actualidad. Por lo tanto esta app solo sirve para ocupar espacio. Espero que el dinero que se ha invertido en ella no sea del contribuyente porque es dinero tirado.<br> :date: __2020-12-04 23:31:45__
-
-> Te envían un código que no funciona al introducirlo en la aplicación.<br> :date: __2020-11-19 16:38:24__
 
 

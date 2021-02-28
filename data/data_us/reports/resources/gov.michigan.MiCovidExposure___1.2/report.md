@@ -126,6 +126,8 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="gov.michigan.MiCovidExposure 5 reviews"/>
 </p>
 
+> Keeps us up to date us Michiganders Stay safe everyone...<br> :date: __2021-02-26 13:44:15__
+
 > Just use the app. Would be nice if it showed number of other app users it's "seen" though, then I could be sure it's working<br> :date: __2021-02-17 14:13:30__
 
 > App wasn't updating at all but the developer contacted me and the fix he gave me worked!!! Now it updates every day<br> :date: __2021-02-06 19:25:27__
@@ -143,8 +145,6 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 > clear all my control<br> :date: __2021-01-20 08:51:04__
 
 > I know the privacy concerns, but I feel my health and the health of the people around me matter more.<br> :date: __2021-01-18 18:05:55__
-
-> Free<br> :date: __2021-01-04 16:26:34__
 
 
 
@@ -182,6 +182,8 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 <img src="3_star_reviews_wordcloud.png" alt="gov.michigan.MiCovidExposure 3 reviews"/>
 </p>
 
+> Used to work but now it hasn't checked for exposure since Feb 13th. It's up to date, I've uninstalled and reinstalled, phone restart, checked permissions. Nothing has worked. I'm uninstalling because it's not worth the waste of space.<br> :date: __2021-02-27 02:06:51__
+
 > This app is general , can be improved to reflect local zip codes with real time case tracking. Racial distribution makes this app racist.<br> :date: __2021-02-09 03:41:17__
 
 > L pi pl om 0<br> :date: __2021-02-03 15:23:00__
@@ -199,8 +201,6 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 > My app last exposure check was Dec 30 2020. I have my location and Bluetooth on. Not working..<br> :date: __2021-01-09 12:23:32__
 
 > It only works if everyone has the app installed, and most do not. Unless this is mandated the app is pretty much useless. I will keep it for now in case more people use it.<br> :date: __2020-12-10 11:42:53__
-
-> Just checked into this app today (12/9). Last exposure check was 11/18. Something is broken it seems. Really want this to work.<br> :date: __2020-12-09 13:35:36__
 
 
 
@@ -238,6 +238,10 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="gov.michigan.MiCovidExposure 1 reviews"/>
 </p>
 
+> Has not checked exposure since last update.<br> :date: __2021-02-26 22:09:59__
+
+> Today is 2/24, the last scan was on 1/24. Leave it to the government to create a useless app.<br> :date: __2021-02-23 22:51:20__
+
 > I checked the app and the last update was 12 days ago. What good is that? I did make sure that the app is not sleeping in settings<br> :date: __2021-02-22 01:02:13__
 
 > The app doesn't seem to be very functional. Initially it was updating possible exposure or lack thereof on a daily basis then it stopped updating. I actually uninstalled and reinstalled the, like the first installation, it updated daily for s few days and then stopped updating.<br> :date: __2021-02-20 20:00:10__
@@ -253,9 +257,5 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 > Like others I think it is pointless if it doesn't check exposures for more than a month. And seeing the lazy copy and paste response to concerns by the developer makes it even worse because it shows lack of concern. Just stop making excuses and telling users to go to some website that won't change anything and improve your app. It's not the phone manufacturer's fault your app sucks.<br> :date: __2021-02-14 14:35:44__
 
 > I checked all the things suggested in previous review replies and it still doesn't update. Not helpful if no manual check option.<br> :date: __2021-02-14 04:56:52__
-
-> It does not do anything. Had to uninstall/install, hoping it might work now?<br> :date: __2021-02-13 22:41:00__
-
-> I caught covid and found it extremely difficult to report my case. Called all the numbers listed multiple times over multiple days and never got an answer. I understand these people are busy during these times but I feel like most people aren't going to be able to report their case like I wasn't able to.<br> :date: __2021-02-13 05:05:24__
 
 

@@ -1,5 +1,41 @@
 [
     {
+        "reviewId": "gp:AOqpTOHAFUd6gkKmSKRYag1Dxnt6tJpiZXklXOQU8hiH7-G4qLzgl0RohXy8OP8ixin3MBM35vSG9vJk4ImscQ",
+        "userName": "Willach Geb\u00e4udereinigung",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiS4B2CmMN_413YTgSmxY0q8CL0jho4WhxiLInHsw",
+        "content": "Gut Nur empfehlen",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.1.0.1179-QA_259",
+        "at": "2021-02-26 17:45:42",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOG_bZ13FW67iu0OWEGmmAHjg3cNRAjYSPWU9wqSsc2uMG-pNuIF8LRkcm7bjBfwEp_JEATuH8NcrtX7ZA",
+        "userName": "Schweng1",
+        "userImage": "https://play-lh.googleusercontent.com/-kx3f-wsjn04/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm7Q--Cq3ubxu3fC0nAt6j188IzPg/photo.jpg",
+        "content": "500 MB Datenvolumen in einem Monat seit dem Update verbraucht. Da stimmt doch was nicht.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.1.0.1179-QA_259",
+        "at": "2021-02-26 11:23:14",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGvBx5ERfC4kn9jZLy-1Ywo2kQZE5qwMIFJcDu4W7TRk2wZufajil33UuWHKHj5sMTUP2gm7D0eo3OXJQ",
+        "userName": "Etty Kronreif",
+        "userImage": "https://play-lh.googleusercontent.com/-02hm7oIj85U/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnlrs3p7TpLVYv-hRprh3VtCkAELA/photo.jpg",
+        "content": "Bin seit 11.20 angemeldet. Sinnlose App reagiert erst nach 30 Tage ohne Meldung. Hab jetzt lang genug getestet. Sinnlos",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.1.0.1179-QA_259",
+        "at": "2021-02-25 21:43:57",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOFQErcYWJzknXDwF1S8xwUzqH8fIbqbDO_IHaNFrCLsmOaEH3bP7DRtXUamDgVw6oFSw_pfpZWQZjBnTA",
         "userName": "Manfred Csik\u00f3s",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gje3CqS52sFkvbEx-lKFAGFuwBjMPzWNYGMjGdwlA",
@@ -605,7 +641,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj7iJE2Vj3ZYuaz1C6O6iGXzHCpQ5YDlKvI7sy5km4",
         "content": "Ich bin positiv getestet worden und habe das in der App bekannt gegeben. Bei zwei Personen, die verst\u00e4ndigt werden sollten, wurde nur eine tats\u00e4chlich informiert. Seither werde ich t\u00e4glich mehrmals gefragt, wie es mir geht. Ich gebe an, dass ich keine Symptome habe und die App sagt mir \"Bleiben Sie gesund...\". Das ist ein bl\u00f6der Tipp, denn das hab ich jetzt nicht mehr in der Hand und ich finde es h\u00f6chst l\u00e4stig, dauernd nach meinem Befinden gefragt zu werden. Was bringt das?",
         "score": 1,
-        "thumbsUpCount": 61,
+        "thumbsUpCount": 63,
         "reviewCreatedVersion": "2.0.8.1133-QA_257",
         "at": "2021-01-31 15:10:50",
         "replyContent": null,
@@ -5640,18 +5676,6 @@
         "repliedAt": null
     },
     {
-        "reviewId": "gp:AOqpTOFU8APy3cS0N_qdI7_DazDhiEtYKnlZfoHb6wunQ2JCRxJjLazX8zNhkW8O5U3mhN9ZVq2k_Vr3R-a0fg",
-        "userName": "Fridolin Neubauer",
-        "userImage": "https://play-lh.googleusercontent.com/-qgpFFI94BoM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmXPuNKCQ8zElUUOrxy972_RvYXuA/photo.jpg",
-        "content": "da laufe ich 1h durch den Supermarkt und kontrolliere danach das Logfile.... letzte \u00dcberpr\u00fcfung: gestern 22:13, wo ich alleine vor dem Fernseher sa\u00df.... unbrauchbar ! alle protokollieren \u00dcberpr\u00fcfungen waren immer dann, wenn ich allein war....",
-        "score": 1,
-        "thumbsUpCount": 6,
-        "reviewCreatedVersion": "2.0.4.1060-QA_248",
-        "at": "2020-07-31 10:20:30",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
         "reviewId": "gp:AOqpTOEQu2awcgUjjx1yecllJUa5mID5TLtUbbDGg6YTIYlfE4cSqQBzTFpcgs3Et1cAVSYIZboj5FEEDrw7Mg",
         "userName": "Robert Moser",
         "userImage": "https://play-lh.googleusercontent.com/-IsC0_1vEcIM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmHQyeGSHr4UEs6sR23wkxfqyr99Q/photo.jpg",
@@ -9120,18 +9144,6 @@
         "repliedAt": null
     },
     {
-        "reviewId": "gp:AOqpTOG_bZ13FW67iu0OWEGmmAHjg3cNRAjYSPWU9wqSsc2uMG-pNuIF8LRkcm7bjBfwEp_JEATuH8NcrtX7ZA",
-        "userName": "Schweng1",
-        "userImage": "https://play-lh.googleusercontent.com/-kx3f-wsjn04/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm7Q--Cq3ubxu3fC0nAt6j188IzPg/photo.jpg",
-        "content": "Neuinstallation regelt.",
-        "score": 3,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": null,
-        "at": "2020-06-26 18:42:51",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
         "reviewId": "gp:AOqpTOHoZCBLhsVVpPj7azITAYVXmJ98baA0zA0w5vemYxhs39f401pd0928xtxh1T_EFlo1SF8OFBf1KNWFow",
         "userName": "Martin Bene",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiVjNkXMfnAPUlYgFnAFM8DbylrpBhaNKqXJJq7OQ",
@@ -11984,18 +11996,6 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.2.0.12-QA_229",
         "at": "2020-06-02 12:58:02",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOGaenQp2e7TOWnHUWdqHnehoRG2-sVBaEjrgIhNRMWBNuHNcEV2qHjqKAoxMsnz3AL0BN96A6SLvMHMYQ",
-        "userName": "Stefan Djordjevic",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjLMH0sV7Xt7QmH1gIoYNntpHMMQRgDRjQCDACnMA",
-        "content": "An L\u00e4cherlichkeit nicht mehr zu \u00fcbertreffen",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": null,
-        "at": "2020-06-02 10:54:00",
         "replyContent": null,
         "repliedAt": null
     }

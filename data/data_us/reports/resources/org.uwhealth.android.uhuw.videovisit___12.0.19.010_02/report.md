@@ -241,10 +241,12 @@ The UW Health Care Anywhere - Video Visit app has been installed by more than **
 #### 3-star reviews
 
 <p align="center">
-
+<img src="3_star_reviews_wordcloud.png" alt="org.uwhealth.android.uhuw.videovisit 3 reviews"/>
 </p>
 
-No recent reviews available with 3 stars.
+> The app works great but I happened to be out of state during my video visit so the doctor refused to see me. She said it was considered practicing medicine across state lines which violates her license and that UW was very strict about that. I totally understood and told the doctor to disconnect our call. But that requirement should be made clear in all communications made with patients. Many of us travel extensively for work. Make sure you are in the state when you have an appointment.<br> :date: __2021-02-25 21:19:35__
+
+
 
 #### 2-star reviews
 

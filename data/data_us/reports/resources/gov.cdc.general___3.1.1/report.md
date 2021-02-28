@@ -188,6 +188,12 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 <img src="5_star_reviews_wordcloud.png" alt="gov.cdc.general 5 reviews"/>
 </p>
 
+> Thank you for keeping us updated and safe during this pandemic!<br> :date: __2021-02-26 12:35:23__
+
+> Well is the best app thus far<br> :date: __2021-02-24 11:56:11__
+
+> Ok<br> :date: __2021-02-24 06:10:59__
+
 > Info....👍👍👍👍.<br> :date: __2021-02-21 13:38:37__
 
 > I love this app. Tessa harrod<br> :date: __2021-02-20 01:18:17__
@@ -201,12 +207,6 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 > Grest app to get up to dste info on thr pandemic as well as best practices for curtailing transmission. Grest as long as executive branch keeps his hands away from thr organization and allows them to help the people.<br> :date: __2021-01-12 12:41:08__
 
 > Constantly being updated to provide latest information, a must have app for providers<br> :date: __2021-01-03 23:30:14__
-
-> A great way to keep up with mother nature's little creatures.<br> :date: __2020-12-30 18:40:45__
-
-> Very helpful<br> :date: __2020-12-24 20:04:43__
-
-> Its OK but I don't want it thank you any way<br> :date: __2020-12-23 09:14:11__
 
 
 
@@ -272,6 +272,8 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 <img src="2_star_reviews_wordcloud.png" alt="gov.cdc.general 2 reviews"/>
 </p>
 
+> No search on opening screen<br> :date: __2021-02-24 19:24:58__
+
 > Cannot find the post test for a module that took me an hour to complete, and only offers 0.5 CEs 🤬<br> :date: __2021-01-10 22:38:32__
 
 > Not interesting<br> :date: __2020-12-19 19:21:51__
@@ -290,8 +292,6 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 
 > I hear the very Patriot Japanese have a Voluntary CoVid19 website where they have the option to report if they feel sick or well and their accurate tracking, voluntarily. Scientists says this raw data would be useful. So which Politicians are again standing in the way of Public Health and Progress??<br> :date: __2020-05-25 06:30:00__
 
-> I give only two stars only because I've only learned of the "CDC" Due to the Covid-19. Im very secluded other then facebook so i regret i can not rate CDC with a higher rating.<br> :date: __2020-05-07 08:06:04__
-
 
 
 #### 1-star reviews
@@ -299,6 +299,10 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="gov.cdc.general 1 reviews"/>
 </p>
+
+> bad experience<br> :date: __2021-02-27 02:45:47__
+
+> I've tried several times to get the app to open. All i get is a white screen. I've uninstalled and installed the app several time and it won't open.<br> :date: __2021-02-26 03:18:05__
 
 > Impossible to find your way around.<br> :date: __2021-02-05 20:15:20__
 
@@ -315,9 +319,5 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 > We can no longer trust the CDC.<br> :date: __2020-09-03 02:55:12__
 
 > Case count for covid is not available. Covid information is too bast it lacks its own menu or search box.<br> :date: __2020-08-31 14:45:50__
-
-> I wanted Covid detail for Texas, no such luck.......<br> :date: __2020-08-24 20:09:37__
-
-> Slow and wrong information.<br> :date: __2020-08-23 14:09:31__
 
 

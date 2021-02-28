@@ -137,6 +137,10 @@ The COVIDaware MN app has been installed by more than **100000** times. At this 
 <img src="5_star_reviews_wordcloud.png" alt="org.pathcheck.covidsafepathsBt.mn 5 reviews"/>
 </p>
 
+> Havent had any major issues so far, to speak of..certainly a work in progress<br> :date: __2021-02-27 03:28:13__
+
+> Gdonna892 @gmailcom<br> :date: __2021-02-24 06:59:47__
+
 > It's a very good way to keep up with the pandemic in my home state.<br> :date: __2021-02-21 03:19:51__
 
 > I like the fact that this app checks for covid it alerts you to let you know what exactly its doing. Most Recommended<br> :date: __2021-02-16 20:26:02__
@@ -153,10 +157,6 @@ The COVIDaware MN app has been installed by more than **100000** times. At this 
 
 > (optional)<br> :date: __2021-01-20 08:52:59__
 
-> Edit: the below issue has been addressed. Much better now! Old review: "Like the app, easy to use, pleasant interface. However, I was exposed about a month ago. It alerted me correctly, but it never cleared/updated the exposure notice. It says "Possible exposure 7-14 days ago". So after your first possible exposure, you'll be tempted to ignore it. It would be more effective if it either said "Possible exposure between "11/14 and 11/21" or simply added a timestamp to each exposure notification."<br> :date: __2021-01-13 15:17:30__
-
-> No personal data taken and easy to use.<br> :date: __2021-01-13 03:44:15__
-
 
 
 #### 4-star reviews
@@ -171,8 +171,6 @@ The COVIDaware MN app has been installed by more than **100000** times. At this 
 
 > Very easy and personal.<br> :date: __2020-12-28 01:18:37__
 
-> You have to leave your bluetooth and location on when your out and around. Otherwise I would have given it 5. It's a great app otherwise.<br> :date: __2020-12-20 10:32:09__
-
 > Excellent information<br> :date: __2020-12-10 15:11:22__
 
 > Great idea. But I don't know anyone that uses the app. I doubt a lot of people have the app install. It defeats the purpose of being useful if only a handful if people are using the app.<br> :date: __2020-12-08 23:56:12__
@@ -184,6 +182,8 @@ The COVIDaware MN app has been installed by more than **100000** times. At this 
 > Carol M<br> :date: __2020-12-06 02:15:38__
 
 > Good idea, but needs support of the places that provides the tests. which currently do not provide a verification code with a positive test.<br> :date: __2020-12-02 05:45:58__
+
+> I wish that there was a nap so I can see where cases are getting bad it would be a good feature.<br> :date: __2020-11-27 19:22:55__
 
 
 
@@ -221,6 +221,8 @@ The COVIDaware MN app has been installed by more than **100000** times. At this 
 <img src="2_star_reviews_wordcloud.png" alt="org.pathcheck.covidsafepathsBt.mn 2 reviews"/>
 </p>
 
+> I tested this app with someone I know had recently tested positive for Covid-19 2 days after they entered their confirmation code. I never recieved a notice or warning. My phone was next to this person's phone on a table for two hours on three different days? I'm concerned about the purpose for this application and where this information is going and why.. I think logically and am not afflicted with episodes of paranoia. Please explain.<br> :date: __2021-02-26 09:16:08__
+
 > This app gives very vague information about potential exposure. It caused me to be quarantined for exposure to a neighbor whom I rarely ever see. That placed me closer to that neighbor than I normally would be. After testing negative on the 6th day, I decided to remove the app from my phone.<br> :date: __2021-02-18 14:08:36__
 
 > Downloads multiples files every day, there is no settings I have limited data and there is no download with confirmation to see if we want to wait on the updates. It's downloads showing in notifications bar. This behavior is not acceptable to me...as I have Limited data each month. Give us the option to download these files for the app when we are ina Wi-Fi spot..I don't want to use my cellular data all the time, give us the ability to stop auto downloads till we get to wifi spot. Thanks<br> :date: __2021-02-04 04:32:02__
@@ -239,8 +241,6 @@ The COVIDaware MN app has been installed by more than **100000** times. At this 
 
 > Verification code is not work.<br> :date: __2020-12-20 06:19:01__
 
-> Marketing the launch, this listing, and info via the app itself could use improvements. User is instructed most explicitly in receiving notifications, and not the other major function - reporting. Please include in how-to and link in more places to the FAQ where this entire part is even touched on. Why does the app say "Verify your diagnosis"? You literally already have your diagnosis from your doctor. Why not "send" or "report"? Thanks<br> :date: __2020-12-18 01:21:17__
-
 
 
 #### 1-star reviews
@@ -248,6 +248,8 @@ The COVIDaware MN app has been installed by more than **100000** times. At this 
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="org.pathcheck.covidsafepathsBt.mn 1 reviews"/>
 </p>
+
+> Push notifications can't be silenced<br> :date: __2021-02-23 18:25:36__
 
 > These people have no idea what they're talking about. One mask, two masks, a thousand masks, it doesn't matter. This is all to justify the destruction of our way of life.<br> :date: __2021-02-20 12:11:59__
 
@@ -266,7 +268,5 @@ The COVIDaware MN app has been installed by more than **100000** times. At this 
 > Always buzzing, and very disturbing<br> :date: __2021-02-06 02:11:23__
 
 > App doesn't work. I have received 7 different verification codes and called MDH about a dozen times now. None of the codes worked. I have tried on two different phones, but I haven't ever got it to work on either. I have zero confidence that this app actually does anything at all.<br> :date: __2021-01-31 20:11:44__
-
-> It's an app that will track YOU even when it's off. Supreme Court ruled that they cannot track you without a Search Warrant. This popped up on my new phone...unrequested!<br> :date: __2021-01-28 06:07:15__
 
 

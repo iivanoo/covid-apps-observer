@@ -283,6 +283,8 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <img src="1_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 1 reviews"/>
 </p>
 
+> Naõ faz atualizaçaõ.<br> :date: __2021-02-25 11:00:27__
+
 > Não funciona em telemóveis com Android 10<br> :date: __2021-02-15 21:53:37__
 
 > Para quando uma actualização de software pra poder funcionar nas versões mais recentes de Android?! Só estamos à frente naquilo que não interessa...<br> :date: __2021-02-15 20:59:51__
@@ -300,7 +302,5 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 > Olá boa tarde,eu instalei a APP no meu telemóvel que é Xiaomi mi10 e não abre diz que está desatualizada e não funciona neste telemóvel por favor atualize a APP obrigado<br> :date: __2021-02-12 14:17:59__
 
 > Não funciona em telefone recente<br> :date: __2021-02-12 11:22:03__
-
-> Não abre sequer no meu Android<br> :date: __2021-02-12 10:56:33__
 
 

@@ -178,25 +178,25 @@ The NowClinic app has been installed by more than **50000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="com.americanwell.android.member.optum 5 reviews"/>
 </p>
 
-> Service was fast and the provider was very knowledgeable. Would definitely recommend them!<br> :date: __2021-02-22 10:03:22__
+> Easy to use, set up was simple, camera and sound good. Using a Samsung note9<br> :date: __2021-02-25 06:35:52__
 
-> Good<br> :date: __2021-02-19 20:47:39__
+> Awesome experience<br> :date: __2021-02-24 22:50:24__
+
+> It worked easily without any problems both installing and using.<br> :date: __2021-02-24 22:37:41__
+
+> Quick and easy to chat with the doctor.<br> :date: __2021-02-24 22:02:10__
+
+> Easier than I expected.<br> :date: __2021-02-24 17:05:24__
+
+> Worked well some small hesitation but over all good.<br> :date: __2021-02-24 04:08:27__
+
+> Good<br> :date: __2021-02-23 20:01:06__
+
+> Service was fast and the provider was very knowledgeable. Would definitely recommend them!<br> :date: __2021-02-22 10:03:22__
 
 > Very good! I actually prefer this method to reduce loss of work time. With COVID-19, it has to be the safest method for patients to meet with their health care providers. Thank you Dr Gotardo!<br> :date: __2021-02-19 16:59:11__
 
 > It's most effective<br> :date: __2021-02-18 22:53:01__
-
-> Thank the heavens for this App!<br> :date: __2021-02-18 20:03:32__
-
-> So convienient! I can see the doctor without getting out of bed!<br> :date: __2021-02-18 00:32:39__
-
-> Traditional hospitals are pretty much useless now. I've gotten more help on this app than going in to a physical location.<br> :date: __2021-02-17 23:28:47__
-
-> Amazing<br> :date: __2021-02-17 19:36:07__
-
-> The doctors are very helpful very pleased with the doctors and this service. I'm extremely leery about going to a hospital or urgent care or even a doctor's office right now because of covid-19 this helps extremely in the fact that I can stay home and still see a doctor.<br> :date: __2021-02-13 01:23:25__
-
-> Best THING EVER SEE JERRY NISBET!!!! I REFUSE TONSEE ANY OTHER DR NOW!!<br> :date: __2021-02-11 22:49:43__
 
 
 
@@ -258,6 +258,8 @@ The NowClinic app has been installed by more than **50000** times. At this time,
 <img src="2_star_reviews_wordcloud.png" alt="com.americanwell.android.member.optum 2 reviews"/>
 </p>
 
+> Only works for NV MEDICAID AND MEDICARE ADVANTAGE PLANS.LOCAL WALLGREENS FORGET IT .THIS APP SUCKS<br> :date: __2021-02-25 01:09:01__
+
 > Its not available on all devices<br> :date: __2021-02-09 14:14:12__
 
 > This app doesn't work for me because when I was with waiting for the doctor the app stop<br> :date: __2019-11-20 03:32:03__
@@ -273,6 +275,8 @@ The NowClinic app has been installed by more than **50000** times. At this time,
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="com.americanwell.android.member.optum 1 reviews"/>
 </p>
+
+> Dr leslie remedies is very rude<br> :date: __2021-02-26 02:18:56__
 
 > This app is terrible. I didnt used to have problems with it but the last 2 times have been a nightmare. The doctors werent able to connect, 1 had to call me and for the other the app stated that my appointment had finished even though it never connected me to the doctor.<br> :date: __2021-02-22 22:33:48__
 
@@ -291,7 +295,5 @@ The NowClinic app has been installed by more than **50000** times. At this time,
 > Made to use this app because of Corona virus, 200$ for a normal check up? No thanks I'd rather die.<br> :date: __2020-05-18 12:28:23__
 
 > It doesn't open 😠 I've tried and tried and nothing!!<br> :date: __2020-04-12 03:17:30__
-
-> Why, oh why...when I do my initial login, after the app sends me an email verification code, does the app kick me back to the initial login screen when I switch my phone screen to said email to obtain said verification code, thereby invalidating the aforementioned verification code? When I put my credentials back in, I am sent a new verification code. Rinse, lather...repeat... Will I ever be able to login without requiring a secondary device just to check my email???<br> :date: __2020-04-04 03:09:35__
 
 

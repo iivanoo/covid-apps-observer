@@ -185,10 +185,12 @@ No recent reviews available with 4 stars.
 #### 3-star reviews
 
 <p align="center">
-
+<img src="3_star_reviews_wordcloud.png" alt="de.my.patientdata 3 reviews"/>
 </p>
 
-No recent reviews available with 3 stars.
+> Nur mal angeschaut. Kein endgültiges Urteil möglich.<br> :date: __2021-02-25 21:04:43__
+
+
 
 #### 2-star reviews
 

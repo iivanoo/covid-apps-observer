@@ -192,6 +192,18 @@ The 98point6 app has been installed by more than **50000** times. At this time, 
 <img src="5_star_reviews_wordcloud.png" alt="com.ninety8point6.patientapp 5 reviews"/>
 </p>
 
+> The doctor was very helpful and listen to my concerns and answered all my questions and found a medication and a plan for my health.<br> :date: __2021-02-26 18:11:45__
+
+> Awesome doctors. Great app<br> :date: __2021-02-26 10:06:36__
+
+> Groundbreaking approach to medicine. Deeply grateful.<br> :date: __2021-02-25 20:17:53__
+
+> Love this app!!<br> :date: __2021-02-25 13:30:03__
+
+> So easy<br> :date: __2021-02-24 00:31:35__
+
+> Easy to use. Perfect to meet my schedule needs and each doctor has provided amazing patient skills.<br> :date: __2021-02-23 20:01:30__
+
 > Great experience for my first time visit<br> :date: __2021-02-23 03:34:01__
 
 > Absolutely awesome service.<br> :date: __2021-02-22 20:26:01__
@@ -199,18 +211,6 @@ The 98point6 app has been installed by more than **50000** times. At this time, 
 > Very helpful especially in these crazy times<br> :date: __2021-02-22 18:54:04__
 
 > I love being able to discuss symptoms with a Dr and they can help me with figuring out home remedies or if we need a trip to a Dr in person. I feel very confident in the advice they give me. It's a free service through my insurance and I really appreciate it!<br> :date: __2021-02-22 12:24:23__
-
-> This is such an easy way to get help from the comfort of my home. Kind medical staff.<br> :date: __2021-02-21 18:18:57__
-
-> Easy, quick, and very helpful!<br> :date: __2021-02-21 17:16:22__
-
-> Love this app<br> :date: __2021-02-21 14:42:50__
-
-> Easy to use with competent and professional Dr's<br> :date: __2021-02-20 07:38:10__
-
-> Excellent, excellent, excellent. I am so thankful my employer has allowed this service thru my health plan. I have used for me and my 3 year old. I have always received great advice. As well as having medication called to pharmacy from a UTI to a sinus infection for myself. I highly recommend. Especially during covid no need to expose yourself unnecessarily in a MD office.<br> :date: __2021-02-19 14:13:14__
-
-> Great, very responsive<br> :date: __2021-02-16 19:11:47__
 
 
 

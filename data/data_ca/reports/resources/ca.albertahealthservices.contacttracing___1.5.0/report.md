@@ -257,6 +257,8 @@ The ABTraceTogether app has been installed by more than **100000** times. At thi
 <img src="1_star_reviews_wordcloud.png" alt="ca.albertahealthservices.contacttracing 1 reviews"/>
 </p>
 
+> Alberta needs to join the national tracking app and quit thinking their app is worth a damn<br> :date: __2021-02-26 20:37:06__
+
 > National app available. Why arnt we using it<br> :date: __2021-02-19 16:29:03__
 
 > This app only works with crowd sourcing. I can't find anyone else using the app. My work has thousands of people, many of whom are from out of province, some using the Canada Covid app. But not a single person has said they have ABtracetogether... Waste of tax payer dollars.<br> :date: __2021-02-16 16:57:09__
@@ -274,7 +276,5 @@ The ABTraceTogether app has been installed by more than **100000** times. At thi
 > Same complaints as everyone else<br> :date: __2021-01-29 16:42:42__
 
 > Like others are saying, it needs an off button because of the battery drain when using it at home. Also, we need to use the federal app asap this one just doesn't have a audience anymore.<br> :date: __2021-01-26 03:30:38__
-
-> Just use the fed app already!! The petty squabbling of the prov govt is tiresome!! And ridiculous when people's health is involved. Grow up!<br> :date: __2021-01-21 23:04:39__
 
 

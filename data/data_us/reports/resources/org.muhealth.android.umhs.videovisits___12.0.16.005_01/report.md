@@ -210,6 +210,8 @@ The MU Health Care Video Visits app has been installed by more than **5000** tim
 <img src="5_star_reviews_wordcloud.png" alt="org.muhealth.android.umhs.videovisits 5 reviews"/>
 </p>
 
+> Very good.<br> :date: __2021-02-24 17:59:43__
+
 > Worked very well twice now for simple issues that didn't warrant COVID exposure in a doctor's office. Very efficient. Worth the cost of office visit for the convenience.<br> :date: __2020-12-31 22:40:07__
 
 > Super Easy to use. So convenient.<br> :date: __2020-09-06 17:47:36__
@@ -227,8 +229,6 @@ The MU Health Care Video Visits app has been installed by more than **5000** tim
 > Very easy to use.<br> :date: __2020-03-30 16:06:11__
 
 > Very professional and helpful.<br> :date: __2020-03-27 17:17:13__
-
-> Everything went smoothly<br> :date: __2020-03-04 16:01:31__
 
 
 

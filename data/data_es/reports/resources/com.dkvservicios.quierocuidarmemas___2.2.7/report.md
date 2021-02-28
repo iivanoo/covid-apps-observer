@@ -217,6 +217,14 @@ The DKV Quiero cuidarme Más: tu salud y médicos online app has been installed 
 <img src="5_star_reviews_wordcloud.png" alt="com.dkvservicios.quierocuidarmemas 5 reviews"/>
 </p>
 
+> Va súper bien,los especialistas atiende muy bien y te hacen todo lo necesario para solucionar el problema. Estoy muy contenta con ellos<br> :date: __2021-02-26 13:29:16__
+
+> Excelente app me encanta<br> :date: __2021-02-26 12:50:17__
+
+> Muy top!<br> :date: __2021-02-24 12:48:49__
+
+> Los doctores muy atentos y la aplicación muy bien<br> :date: __2021-02-24 11:05:58__
+
 > Pues la verdad que soy nueva en esto pero la carpeta salud de mi hijo no se abre por lo cual no puedo entrar para ver las recetas Muchas gracias<br> :date: __2021-02-23 15:19:35__
 
 > Buen trato<br> :date: __2021-02-22 15:24:35__
@@ -228,14 +236,6 @@ The DKV Quiero cuidarme Más: tu salud y médicos online app has been installed 
 > Muy buena<br> :date: __2021-02-13 19:22:45__
 
 > Muy buena aplicación pedir citas y ponerte en contacto con médicos que te den recetas y consejos<br> :date: __2021-02-11 19:57:13__
-
-> parece que esta todo correcto pero se deberia desarrollar la app para windows , seria mas comodo para compartir los informes medicos y las recetas electronica , gana tiempo y evita ir a las consultas para temas leves. dos detalles mas : los correos de empresa o de dominio propio dan problemas solo acepta gmail, hotmail... y el codigo que hay que meter sobran los ultimos cinco ceros...en cualquier caso enhorabuena !!!!<br> :date: __2021-02-11 13:43:49__
-
-> Muy útil, con un trato excelente.<br> :date: __2021-01-22 11:06:41__
-
-> Genial, necesitaba una opinión médica y de un día para otro ya estaba consultando o line<br> :date: __2021-01-21 10:17:21__
-
-> Excelente servicio<br> :date: __2021-01-18 12:18:54__
 
 
 

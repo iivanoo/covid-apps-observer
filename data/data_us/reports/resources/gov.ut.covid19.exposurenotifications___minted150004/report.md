@@ -124,6 +124,10 @@ The UT Exposure Notifications app has been installed by more than **10000** time
 <img src="5_star_reviews_wordcloud.png" alt="gov.ut.covid19.exposurenotifications 5 reviews"/>
 </p>
 
+> I downloaded this just for fun. Let's see if it can brainwash me or feed me fear 🐑🐑<br> :date: __2021-02-25 17:08:37__
+
+> We're currently wasting millions of vaccines on people who have already had covid and are likely immune, but don't know it. Do your part for getting society up and running by downloading this app, getting tested, and not being a weirdo about masks. We all want the end of the pandemic.<br> :date: __2021-02-23 21:46:23__
+
 > Excellent to have someone tell you you're sunburned or not<br> :date: __2021-02-20 13:50:05__
 
 > Definitely late to the game, but I am happy to see Utah finally supporting the Exposure Notifications System.<br> :date: __2021-02-20 08:31:48__
@@ -171,6 +175,16 @@ No recent reviews available with 2 stars.
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="gov.ut.covid19.exposurenotifications 1 reviews"/>
 </p>
+
+> Grose invasion of privacy<br> :date: __2021-02-26 16:18:34__
+
+> No one is even a tiny bit concerned as to how this app works......really?<br> :date: __2021-02-26 04:18:09__
+
+> Violation of HIPPA. My medical history is none of your business. You thought your phone was tracking you before? Wear a mask and mind your own.<br> :date: __2021-02-25 17:19:14__
+
+> You have to have bluetooth on and location on all the time. B.S.<br> :date: __2021-02-24 19:25:47__
+
+> Let's you know if you've been exposed to the China Flu!!! You only have a 99.7% chance to live!! Oh no!!! Much scary!! Better give up your freedoms and hide behind 13 masks if you want to survive!!!<br> :date: __2021-02-23 18:14:02__
 
 > Very intrusive. Runs during phone calls. It also drains my battery.<br> :date: __2021-02-21 07:28:36__
 

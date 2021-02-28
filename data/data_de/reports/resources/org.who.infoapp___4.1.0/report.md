@@ -167,10 +167,12 @@ The WHO Info app has been installed by more than **500000** times. At this time,
 #### 3-star reviews
 
 <p align="center">
-
+<img src="3_star_reviews_wordcloud.png" alt="org.who.infoapp 3 reviews"/>
 </p>
 
-No recent reviews available with 3 stars.
+> 😕 schön und gut aber alle sprachen aber nur kein Deutsch/Germany geht gar nicht! Bitte nachbessern !<br> :date: __2021-02-26 06:49:25__
+
+
 
 #### 2-star reviews
 

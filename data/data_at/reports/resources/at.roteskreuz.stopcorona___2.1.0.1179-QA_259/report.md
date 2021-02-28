@@ -148,6 +148,8 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 <img src="5_star_reviews_wordcloud.png" alt="at.roteskreuz.stopcorona 5 reviews"/>
 </p>
 
+> Gut Nur empfehlen<br> :date: __2021-02-26 17:45:42__
+
 > Sehr wichtige APP !!!<br> :date: __2021-02-23 12:22:31__
 
 > Perfekt<br> :date: __2021-02-23 09:54:04__
@@ -165,8 +167,6 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 > Ich hatte noch keine Warnung über einen Kontakt mit positiv getestete Person.<br> :date: __2021-02-11 11:53:04__
 
 > Finde ich sehr wichtig!<br> :date: __2021-02-07 12:41:40__
-
-> Super<br> :date: __2021-02-06 20:31:38__
 
 
 
@@ -260,6 +260,10 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 <img src="1_star_reviews_wordcloud.png" alt="at.roteskreuz.stopcorona 1 reviews"/>
 </p>
 
+> 500 MB Datenvolumen in einem Monat seit dem Update verbraucht. Da stimmt doch was nicht.<br> :date: __2021-02-26 11:23:14__
+
+> Bin seit 11.20 angemeldet. Sinnlose App reagiert erst nach 30 Tage ohne Meldung. Hab jetzt lang genug getestet. Sinnlos<br> :date: __2021-02-25 21:43:57__
+
 > Seit dem Update Ende Jänner hat sich der Datenverbrauch egal ob WLAN bzw LTE. verhundertfacht!!!! 600 MB im Monat - das ist bei mir mehr als WhatsApp<br> :date: __2021-02-23 19:58:43__
 
 > Also ich habe auch den Verdacht dass alle Bluetooth Geräte gespeichert werden... sobald ich mein Headset einschalte... zack, allein zuHause zw 21 und 4 uhr Früh immer Laptop, Bluetooth Lautsprecher alles Meldungen wo definitiv nur ich mit diesen Geräten in Sendereichweite bin ..... Aber 2 Kolleginnen die sehr oft mit mir gearbeitet haben und auch die App installiert UND am Laufen haben.. diese Kontakte wurden NICHT gespeichert... also komplett Sinnbefreit diese österreichische Lösung dieser App<br> :date: __2021-02-18 16:34:06__
@@ -275,9 +279,5 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 > Hätte mir viel mehr erwartet, inzwischen hätte man ja vielleicht neue Funktionen einbauen können, wie Impfanmeldung, Info zur Inzidenz Entwicklung etc. So nutzt die App eigentlich erst wenn du offiziell als infiziert gemeldet bist, und da nur jenen die sie auch installiert haben. Nett, aber ausbaufähig<br> :date: __2021-02-11 10:45:16__
 
 > Verwendet die noch jemand? Irgendeine Info, ob sie überhaupt was tut (Anzahl der Kontakte mit anderen Corona Apps, Gesamtanzahl der Risiko Kontakte die mittels der App identifiziert wurden) wäre gut. Gibt auch keine updates dafür. Wieder deinstalliert.<br> :date: __2021-02-08 09:27:55__
-
-> Wenn eine Mehrheit der Bevölkerung intellektuell überfordert ist, den Sinn dieser App zu erfassen, ist diese eben wenig sinnvoll. Die Frage, ob das Design anspricht und die App gefällt, passt dazu.<br> :date: __2021-02-07 23:13:32__
-
-> Diese App funktioniert überhaupt nicht, meine Nachbarn hatten Corona mussten 2wochen zu Hause bleiben, ich bekam auch keine Warnung, habe Alles gelöscht was Corona betrifft, bin sowas von der App Enttäuscht 😞 😞 und was Corona betrifft.<br> :date: __2021-02-07 11:36:19__
 
 

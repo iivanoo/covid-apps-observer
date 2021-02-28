@@ -149,6 +149,8 @@ The StopCOVID NI app has been installed by more than **100000** times. At this t
 <img src="5_star_reviews_wordcloud.png" alt="net.hscni.covidtracker 5 reviews"/>
 </p>
 
+> Clear and easy to use<br> :date: __2021-02-25 15:33:24__
+
 > DOWNLOAD THIS APP<br> :date: __2021-02-16 18:41:31__
 
 > Excellent<br> :date: __2021-02-12 01:34:28__
@@ -166,8 +168,6 @@ The StopCOVID NI app has been installed by more than **100000** times. At this t
 > Installed this as soon as it became available. Happy to support the good work<br> :date: __2021-01-03 15:43:57__
 
 > Helpful<br> :date: __2021-01-02 01:45:10__
-
-> I strumming for DCI middlemoor u big style fun and games cock<br> :date: __2020-12-26 05:13:43__
 
 
 
@@ -261,6 +261,8 @@ The StopCOVID NI app has been installed by more than **100000** times. At this t
 <img src="1_star_reviews_wordcloud.png" alt="net.hscni.covidtracker 1 reviews"/>
 </p>
 
+> Got a positive test but no code issued for the app to alert close contacts.<br> :date: __2021-02-25 01:20:16__
+
 > My privacy wasn't private<br> :date: __2021-02-21 15:53:18__
 
 > This coronavirus went on far to long now. I'm now tired of it. This pandemic is bad for are mental health. But yet not one listen to waer a face covering, or social disancing and gel let kills 99% but why do they not do it. I listen to these but I see people that don't take it seriously tho<br> :date: __2021-02-17 04:07:44__
@@ -278,7 +280,5 @@ The StopCOVID NI app has been installed by more than **100000** times. At this t
 > Its not working...I have uninstalled it twice and reinstalled and its not even doing checks. I havent received anything from this app. This needs fixed if its designed to help prevent spread of Covid-19 and save lives. Very disappointed<br> :date: __2021-02-11 01:43:48__
 
 > Absolute waste of time. Even after spending 12 days in hospital and being exposed to co-vid, I received nothing from this app<br> :date: __2021-02-10 13:17:55__
-
-> I used this app from I tested positive it has never turned red etc like it suppose to 😡<br> :date: __2021-02-06 15:42:06__
 
 

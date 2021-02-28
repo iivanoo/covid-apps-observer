@@ -174,25 +174,25 @@ The Healthy Together - COVID-19 app has been installed by more than **500000** t
 <img src="5_star_reviews_wordcloud.png" alt="co.twenty.stop.spread 5 reviews"/>
 </p>
 
-> Very nice ans hellfuly app<br> :date: __2021-02-22 19:51:09__
+> Super fast an great information..Thank you<br> :date: __2021-02-26 21:58:02__
 
-> Great<br> :date: __2021-02-22 10:47:00__
+> SIMPLE EASY AND QUICK<br> :date: __2021-02-26 21:11:42__
 
-> much love<br> :date: __2021-02-22 02:48:59__
+> Very professional staff, clean environment and Covid-19 protocols followed<br> :date: __2021-02-26 16:37:29__
 
-> Fast & painless<br> :date: __2021-02-22 00:58:53__
+> Fast Results<br> :date: __2021-02-26 16:07:08__
 
-> Really useful app, gives you the results fast and offers a great deal of info<br> :date: __2021-02-21 20:36:06__
+> It gas been a very professional and prompt service .<br> :date: __2021-02-26 11:01:59__
 
-> We need Togetherness Right Now<br> :date: __2021-02-21 20:29:24__
+> very thankful for this useful app<br> :date: __2021-02-25 21:16:18__
 
-> Keep track on my health, testing and vaccination health evolution.<br> :date: __2021-02-21 16:08:11__
+> Really fast way to get your results.<br> :date: __2021-02-25 17:18:45__
 
-> it's a wonderful app to quickly check testing<br> :date: __2021-02-21 15:18:17__
+> Shayla and entire staff amazing at advent health labs in Tavares<br> :date: __2021-02-25 15:19:14__
 
-> I feel great and if I don't I will go to urgent care it's nice to know that somebody is there to always help you<br> :date: __2021-02-20 15:56:34__
+> decent and quick response<br> :date: __2021-02-25 06:29:16__
 
-> I love this app. Tessa harrod<br> :date: __2021-02-20 01:39:31__
+> Excellent service<br> :date: __2021-02-25 00:30:31__
 
 
 
@@ -201,6 +201,10 @@ The Healthy Together - COVID-19 app has been installed by more than **500000** t
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="co.twenty.stop.spread 4 reviews"/>
 </p>
+
+> great job<br> :date: __2021-02-26 16:38:54__
+
+> Won't download. Now downloaded and working fine. Thanks<br> :date: __2021-02-24 21:59:02__
 
 > very fast results!<br> :date: __2021-02-22 14:07:35__
 
@@ -218,10 +222,6 @@ The Healthy Together - COVID-19 app has been installed by more than **500000** t
 
 > App works!<br> :date: __2021-02-16 02:45:49__
 
-> I'm new to this, but so far, so good. I will provide more feedback if applicable.<br> :date: __2021-02-09 16:32:09__
-
-> Healthcare support staff, great app allows me to get Covid-19 results in one place, no matter WHERE I have my test done (be it PCR or rapid )<br> :date: __2021-02-09 05:13:58__
-
 
 
 #### 3-star reviews
@@ -229,6 +229,8 @@ The Healthy Together - COVID-19 app has been installed by more than **500000** t
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="co.twenty.stop.spread 3 reviews"/>
 </p>
+
+> Pain to get setup. But then its ok i guess<br> :date: __2021-02-26 15:44:55__
 
 > Nice app fast results ,Can you make it available for Samsung tablets<br> :date: __2021-02-20 22:15:15__
 
@@ -247,8 +249,6 @@ The Healthy Together - COVID-19 app has been installed by more than **500000** t
 > This app does a great job of collating test results in chronological order, appears to use proper security, and has a useful interface. Test results from NYS reported to FL are listed too. Currently, none of my results from before December 2020 are listed, nor are employed the personal proximity features that were built for Android specifically for the Covid-19 pandemic that kills more Americans per day than died on the terrorist attack on our country on 11 September 2001. Fix for five stars.<br> :date: __2021-02-02 17:11:31__
 
 > The test took 6 days ,I asked for tje test results to be sooner I was told no more then 3 days,so I had a flight to n.y. booked ,I needed the papers cleared of covid which I am negative.but didn't get them on time so the airline said I could not fly with out it..So ticket was none refundable ,so I not only I could not go to n.y. I also lost the 200 dollar ticket I paid for....Again i asked for the results to be sooner and it took 6 days.<br> :date: __2021-02-01 17:06:29__
-
-> Udate..issues being adressed..will change my rating once resolved ..Thankyou twenty inc for tesponding.<br> :date: __2021-01-26 02:37:58__
 
 
 
@@ -286,24 +286,24 @@ The Healthy Together - COVID-19 app has been installed by more than **500000** t
 <img src="1_star_reviews_wordcloud.png" alt="co.twenty.stop.spread 1 reviews"/>
 </p>
 
-> Birthday not even close<br> :date: __2021-02-23 00:09:08__
+> Installed app. Requested pin 3 times. Haven't yet received pin even though it says it has been sent.<br> :date: __2021-02-26 22:26:01__
 
-> I'm going with, SCAM!!!! Should be a zero star.<br> :date: __2021-02-22 01:30:44__
+> Could not get my results after signing up.<br> :date: __2021-02-26 22:00:43__
 
-> Awful app. Unable to check my covid-19 test results. The worst app ever.<br> :date: __2021-02-22 01:18:39__
+> I stopped registering after the app required me to enter my device password. Not cool. I saw another comment say the same thing and the app denied it saying it was requesting the pin. I already entered the pin at this point and it will not let me continue unless I give my device password. Update after developer response: I already entered the texted pin when it explicitly asked for my device password<br> :date: __2021-02-26 17:03:03__
 
-> I went to the verified my Google account and yet it still never showed the covid results<br> :date: __2021-02-21 16:26:45__
+> The app will not open. I get a text saying my results are ready, but when I click on the link, I'm taken to the Google play page and told the app is "installed", but am given no way to open it or access my results, and no way to request assistance. Would have given 0 stars had the option been available<br> :date: __2021-02-26 16:31:34__
 
-> Too hard for an older person to figure out<br> :date: __2021-02-20 17:14:39__
+> Having problems getting in for weeks<br> :date: __2021-02-26 16:08:49__
 
-> Too many notifications<br> :date: __2021-02-20 02:35:42__
+> I already have my results. Why should I download an app that I don't need? If they want more personal info from me they are not going to get it!<br> :date: __2021-02-25 20:59:19__
 
-> Can't open app. After getting a code, getting the code, the app still ask to request a code.<br> :date: __2021-02-19 21:57:56__
+> Unable to unlock if errpred in input.<br> :date: __2021-02-25 00:31:48__
 
-> I was forced to download it.<br> :date: __2021-02-19 18:15:51__
+> Received a text stating download this app for test results. I did. Nothing on it. Now 2 hours and 2 additional text later... telling me results are in. Yet the app reads no new info. Waste of time.......<br> :date: __2021-02-24 17:58:56__
 
-> Could not find my test results. Complicated for an older person<br> :date: __2021-02-19 00:44:56__
+> Prompts for sign in every use. How is this effective for contact tracing when it doesn't activate the option in settings? Daily checkups aren't able to be responded to from notification quick response.<br> :date: __2021-02-24 17:49:55__
 
-> Not giving permission to track me like a dog.....<br> :date: __2021-02-18 17:26:49__
+> First of all you cant get it down loaded<br> :date: __2021-02-24 17:27:16__
 
 

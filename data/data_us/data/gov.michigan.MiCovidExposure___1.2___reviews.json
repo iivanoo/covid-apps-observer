@@ -1,5 +1,53 @@
 [
     {
+        "reviewId": "gp:AOqpTOFsoVFAjm5FvL29NfnmaoCvT44owDlO2YG-UM5-c3jh06u-m07FsRMsCTef1ZXm5Ah6VX9KMK4oN20dRoU",
+        "userName": "billie zinke",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhdNjscDG-2XhJX8RsHAbJ-uO2YZaiNbPZjIMTi",
+        "content": "Used to work but now it hasn't checked for exposure since Feb 13th. It's up to date, I've uninstalled and reinstalled, phone restart, checked permissions. Nothing has worked. I'm uninstalling because it's not worth the waste of space.",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.2",
+        "at": "2021-02-27 02:06:51",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOF62jq8ofkT5zksdF7dpwHqttGQSm3QqTOicu-dIMnND8hOEQUVCuqFN2BMNNuRPFZr_5a6Ulgshc6rRQo",
+        "userName": "Mason Eubank",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiQ0qpUY7g9ocoHRWpM9ktiSTpy6GVwVPBQD6ikTA",
+        "content": "Has not checked exposure since last update.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.2",
+        "at": "2021-02-26 22:09:59",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOF4_J6hRI7N-zrooaQXQnfrmy59VTaNfTl7NPFGh1JFJL26rNRHvPQM38KlO88gQ8_dQQ3IlFiZw2HLsF0",
+        "userName": "Tammy Graves",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhFHcKYybh30VsFZgALyNBtFrKIaIWfFTxqMhyHVg",
+        "content": "Keeps us up to date us Michiganders Stay safe everyone...",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2021-02-26 13:44:15",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHpd6qyA_CcyVbaEEtISJ3H2pOWoU9dXv9hnWVj4c3ihVZnbLa6NCK7SXQuWiqEwAJL8IUiQgsWHiXutyY",
+        "userName": "Mark Brooks",
+        "userImage": "https://play-lh.googleusercontent.com/-bPEP2JDJFlc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmDlnc0Gceq0O5UX88FI-6IqMcYqg/photo.jpg",
+        "content": "Today is 2/24, the last scan was on 1/24. Leave it to the government to create a useless app.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.2",
+        "at": "2021-02-23 22:51:20",
+        "replyContent": "Hi Mark, we are working with Google on a solution. There is a planned release to prevent underlying jobs from dropping out. This version greatly improves app reliability and will be out this week. At that time please uninstall your current app and install the new version. If you have further issues email us at mdhhs-micovidalert@michigan.gov.",
+        "repliedAt": "2021-02-24 16:33:13"
+    },
+    {
         "reviewId": "gp:AOqpTOGCb0oi12Hnp7OBrvS3ceQkEIeg2E0wwX0huJ-_BxHt5BDEDnt7sa4n7YzRMugX_zDTpsR2ELy4hp6lc2I",
         "userName": "Jeffry Wilson",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gizp1JOIOuwxF7tFUH46phvjO0l7y7Vf-uNOVCM",
@@ -8,8 +56,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.2",
         "at": "2021-02-22 19:53:15",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Jeffry, stats are reported twice weekly from Johns Hopkins University via the stats tab within the MI COVID Alert app. The following link (is updated more regularly) and provides updated data from the latest download from the last 24 hours. https://coronavirus.jhu.edu/. Please let us know if you have any other questions or need assistance.",
+        "repliedAt": "2021-02-23 16:35:54"
     },
     {
         "reviewId": "gp:AOqpTOEwdYLBdVOkKoW7uVwuj0Sr5W5LVZJDWt-4_6gANmF5lgRLsRKiwHF0upXyiip_JpRQxXGdnlAQtlGjaOI",
@@ -29,7 +77,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-zY6xTqRk0jM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucke_YK38bvn5XGpiEczgh4jANRUVQ/photo.jpg",
         "content": "The app doesn't seem to be very functional. Initially it was updating possible exposure or lack thereof on a daily basis then it stopped updating. I actually uninstalled and reinstalled the, like the first installation, it updated daily for s few days and then stopped updating.",
         "score": 1,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 2,
         "reviewCreatedVersion": "1.2",
         "at": "2021-02-20 20:00:10",
         "replyContent": "Hi Robert, we are working with Google on a solution. There is a planned release to prevent underlying jobs from dropping out. This version greatly improves app reliability and will be out this week. At that time please uninstall your current app and install the new version. If you have further issues email us at mdhhs-micovidalert@michigan.gov.",
@@ -101,7 +149,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GikcQW1WHmICN_qpm1iph_pcE-C3cmHvUhDIidE8A",
         "content": "Like others I think it is pointless if it doesn't check exposures for more than a month. And seeing the lazy copy and paste response to concerns by the developer makes it even worse because it shows lack of concern. Just stop making excuses and telling users to go to some website that won't change anything and improve your app. It's not the phone manufacturer's fault your app sucks.",
         "score": 1,
-        "thumbsUpCount": 9,
+        "thumbsUpCount": 11,
         "reviewCreatedVersion": "1.2",
         "at": "2021-02-14 14:35:44",
         "replyContent": "We provided the www.dontkillmyapp.com link because this has been working for most folks having this issue.",
@@ -161,7 +209,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-I-hYlwCgKdU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnHmw577MrpilFiwR3saeXh857JGQ/photo.jpg",
         "content": "I have read other reviews of the app, and they say the same thing. No one has received an exposure alert. According to this app, I must be living in the only Covid-free area. Even if nobody reports having a positive test result, they could still tell you which areas are hot spots for a concentration of cases from other sources. I tried re-installing the app, and there was no change. Update: The response given to me and everyone else does not address the fact that this app does not work. I would.",
         "score": 1,
-        "thumbsUpCount": 9,
+        "thumbsUpCount": 12,
         "reviewCreatedVersion": "1.2",
         "at": "2021-02-12 14:21:03",
         "replyContent": "Check the following link: https://dontkillmyapp.com/samsung. Some phone manufacturers disable apps if not used after a specific period of time. Check the following settings: Settings/Google/COVID19 Exposure Notifications. \"Exposure last checked\" date & time, can be viewed on the Exposures tab. Send any questions to mdhhs-micovidalert@michigan.gov.",
@@ -266,7 +314,7 @@
     {
         "reviewId": "gp:AOqpTOHCN8el4uCAnpYYHf_58VwZCwEWIgurA1kJcoCt-mEP8w2Htv2gj_WfWYXtTmYrn0t6KNF8-WLNb1uWbF8",
         "userName": "September Pope",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiYZczTvspapIbvuU0BvCK6g1nc9hDXzejYcsAfsQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgCNRfpIHKRMJv2GJVwj1se8y_ls0sk7oRyv-hTdg",
         "content": "Really do appreciate this app. I'm high risk and so is my husband, staying on top of where this virus is and if we may have been in contact with it puts my mind at ease.",
         "score": 5,
         "thumbsUpCount": 1,
@@ -1945,7 +1993,7 @@
     },
     {
         "reviewId": "gp:AOqpTOF3wvApsQQ7W7gZO7-BSF3FxT5w7b6R4vnDNGKPp7uPP5yMwX0503GNxxL2SkpO7-JtcdiCft_Re75RZPw",
-        "userName": "YOUTUBE SUCKS",
+        "userName": "Rob M",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhgEdTqVAdh-tDViQCugthBWN3eBlWbMl3uPghSvkk",
         "content": "Tyrannical government app",
         "score": 1,

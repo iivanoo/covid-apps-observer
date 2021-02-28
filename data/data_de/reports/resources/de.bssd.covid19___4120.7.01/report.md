@@ -243,6 +243,8 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 <img src="1_star_reviews_wordcloud.png" alt="de.bssd.covid19 1 reviews"/>
 </p>
 
+> Am liebsten 0 Sterne. Da ich auf mein Ergebnis warte und sich die App schon seit längeren nicht mehr öffnen lässt. Das kann doch nicht sein man wartet und die App geht nicht.<br> :date: __2021-02-27 07:14:03__
+
 > Man kommt nicht rein<br> :date: __2021-02-16 18:22:39__
 
 > Wie komme ich an code<br> :date: __2021-02-16 11:30:25__
@@ -260,7 +262,5 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 > Die App stürzt direkt beim Öffnen ab. (Android 11 Galaxy S20+)<br> :date: __2021-02-04 10:08:28__
 
 > Es ist lange genug bekannt dass die App nicht fubktioniert. QR Codes werden über den integrierten Scanner nicht erkannt und den Code den man manuell eintippt bringt die Fehlermeldung zurück dass es nicht dem entsprechenden Format entspricht. Es ist lächerlich Menschen diese App Überprüfung eines Corona Tests anzubieten.<br> :date: __2021-02-02 10:40:23__
-
-> Nicht Mal einen Stern ist die App wert,denn mit dem Code funktioniert Überhaupt nicht größer Müll. Nicht zu Empfehlen...<br> :date: __2021-01-27 16:24:49__
 
 

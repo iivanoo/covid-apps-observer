@@ -139,6 +139,12 @@ The Protect Scotland app has been installed by more than **500000** times. At th
 <img src="5_star_reviews_wordcloud.png" alt="gov.scot.covidtracker 5 reviews"/>
 </p>
 
+> Fantastic app easy to use<br> :date: __2021-02-27 10:12:44__
+
+> Just had a message from track and trace so it works thanks<br> :date: __2021-02-26 09:40:37__
+
+> Very easily installed to give you piece of mind whilst around others<br> :date: __2021-02-25 10:15:50__
+
 > Fine<br> :date: __2021-02-21 14:47:38__
 
 > Keeps me informed<br> :date: __2021-02-20 12:18:37__
@@ -152,12 +158,6 @@ The Protect Scotland app has been installed by more than **500000** times. At th
 > Very easy to use<br> :date: __2021-02-16 23:09:47__
 
 > A must<br> :date: __2021-02-15 18:04:13__
-
-> All of them are excellent}p<br> :date: __2021-02-15 15:09:17__
-
-> A simple way to keep you safe leave your Bluetooth and location on then forget about it easy<br> :date: __2021-02-14 20:41:30__
-
-> Good to know contacts are being checked<br> :date: __2021-02-14 12:02:37__
 
 
 
@@ -195,6 +195,8 @@ The Protect Scotland app has been installed by more than **500000** times. At th
 <img src="3_star_reviews_wordcloud.png" alt="gov.scot.covidtracker 3 reviews"/>
 </p>
 
+> Oooft photo.yruk<br> :date: __2021-02-25 12:44:41__
+
 > Not enough people using it to make it effective.<br> :date: __2021-02-19 17:56:39__
 
 > None yet .<br> :date: __2021-02-18 22:15:08__
@@ -212,8 +214,6 @@ The Protect Scotland app has been installed by more than **500000** times. At th
 > The app used to work fine until the 10 Dec update but then stopped checking for exposures automatically. It was difficult to report the issue --- it feels like mails / app reviews only got attention after people made fuss on social media. The app works OK now, after the 5 Jan update, but I wish there was an easier way to report bugs, and more transparency regarding existing ones.<br> :date: __2021-01-08 13:18:19__
 
 > Just got a notification after accidently turning off my.location to be informed I haven't been checked since 14th December !!!<br> :date: __2021-01-07 23:23:07__
-
-> Was working for a while but not performed a check since 16th December 2020 despite always being on.<br> :date: __2021-01-03 22:07:19__
 
 
 

@@ -194,7 +194,7 @@ The Coronika - Dein Corona Kontakttagebuch app has been installed by more than *
 <img src="4_star_reviews_wordcloud.png" alt="de.kreativzirkel.coronika 4 reviews"/>
 </p>
 
-> Gute App, nutze sie seit fast einem Jahr und hat sich viel verbessert. Bitte noch eine Funktion zum Exportieren und Importieren einbauen oder erlauben die App zu backupen. Sonst verliert man alles wenn man das Handy wechselt.<br> :date: __2021-02-23 15:23:21__
+> Etwas kompliziert für ältere Menschen.<br> :date: __2021-02-25 19:34:10__
 
 > Sehr gute und intuitive App zum Aufzeichnen von Kontakten. 1 Stern abzug gibt es für den Export der Aufzeichnung, hier würde ich mir wünschen das beim Export ebenfalls die Erfassten Daten wie Maske, Abstand etc., sowie die Notizen für den Kontakt mit exportiert werden.<br> :date: __2021-02-01 20:46:41__
 
@@ -278,7 +278,7 @@ The Coronika - Dein Corona Kontakttagebuch app has been installed by more than *
 <img src="1_star_reviews_wordcloud.png" alt="de.kreativzirkel.coronika 1 reviews"/>
 </p>
 
-> Mein Gott geht's noch? Wie schwachsinnig ist den so was? Gibt es wirklich solche Vollpfosten, die ihre Kontakte eintragen und glauben, dass das irgend eine Auswirkung auf das Virus hat? Vielleicht lacht es sich ja tot! Das Virus wird zu 99% von den Medien übertragen und dagegen hilft keine App! Unbenutzt gelöscht! Völlig überflüssig! Ich hoffe, dass diese Schwachsinns-App nicht mehr fortgeführt wird. Hoffentlich begeben sich die bisherigen Nutzer\*innen dann in dauernde Selbstisolation.<br> :date: __2021-02-23 00:14:35__
+> Geht's noch? Gibt es wirklich Leute, die permanent versuchen, ihre Kontakte einzutragen und auch noch glauben, dass das irgend jemandem etwas nützt? Hoffentlich kennen sie alle Menschen, denen sie begegnen. Diese App ist sinnlos und überflüssig! Ich habe sie gleich wieder gelöscht. Großes Indianer-Ehrenwort. Ich hoffe, dass diese Schwachsinns-App nicht mehr fortgeführt wird und sich die bisherigen Nutzer\*innen dann in dauernde Selbstisolation begeben. Das erhöht den IQ-Durchschnitt im Freien.<br> :date: __2021-02-27 00:07:13__
 
 > Nach dem heutigen Update waren alle bisherigen Eintragungen weg! Die App ist leider unbrauchbar. Ich habe sie wieder gelöscht<br> :date: __2020-12-20 22:53:19__
 

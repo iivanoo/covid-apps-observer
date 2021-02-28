@@ -191,25 +191,25 @@ The Doctor On Demand app has been installed by more than **1000000** times. At t
 <img src="5_star_reviews_wordcloud.png" alt="com.doctorondemand.android.patient 5 reviews"/>
 </p>
 
-> Awesome doctor visit! This is by far the best PCP I've ever visited. And to think I can visit a Dr any time of day and get this kind of care is amazing!<br> :date: __2021-02-23 16:37:53__
+> I love this service!! The Doctors are Awesome, they take the time to explain everything patiently to you. I will recommend Doctor on Demand 100% to anyone.<br> :date: __2021-02-27 09:11:48__
 
-> Awesome<br> :date: __2021-02-23 16:13:14__
+> Great option vs going into a doc office<br> :date: __2021-02-27 04:54:57__
 
-> Awesome<br> :date: __2021-02-23 15:51:05__
+> Nice<br> :date: __2021-02-27 04:07:07__
 
-> Every experience I have had with the doctors has been amazing! They are caring, kind, and genuinely want to help. I appreciate having this service, with my insurance I don't even have to pay a copay!!<br> :date: __2021-02-23 08:17:04__
+> Professional, quick, and extremly helpful!<br> :date: __2021-02-27 01:46:52__
 
-> Quick and easy<br> :date: __2021-02-23 00:48:04__
+> Great experience with Dr. Andrew Zaager. Fast and efficient! Will definitely use again!👍<br> :date: __2021-02-27 01:39:33__
 
-> This app was very helpful and the doctor was very thorough when helping me get what I needed.<br> :date: __2021-02-23 00:05:31__
+> Doctor was available quicker than estimated, and showed concern while providing fast care. And free through my insurance! Will use again if needed. Edit: used today for a different medical concern. The doctor ordered labs immediately, gave me homework, and asked for a follow-up visit to build a plan. I feel better already knowing my concerns are being addressed.<br> :date: __2021-02-26 23:50:54__
 
-> Excellent, excellent resource!<br> :date: __2021-02-22 23:46:57__
+> great service and easy to use. attentive doctors! Always very satisfied after numerous calls with different doctors. Highly recommend. App works very.<br> :date: __2021-02-26 22:08:28__
 
-> Wonderful<br> :date: __2021-02-22 22:25:18__
+> Convenient<br> :date: __2021-02-26 19:38:23__
 
-> Great experience!<br> :date: __2021-02-22 21:54:26__
+> Simply the best<br> :date: __2021-02-26 19:21:15__
 
-> These doctors are so easy to understand and very friendly ♥️<br> :date: __2021-02-22 21:23:45__
+> This app is the future of medicine. It's not perfect yet but we it will get there<br> :date: __2021-02-26 17:47:36__
 
 
 
@@ -218,6 +218,16 @@ The Doctor On Demand app has been installed by more than **1000000** times. At t
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.doctorondemand.android.patient 4 reviews"/>
 </p>
+
+> It's nice to get good care at home<br> :date: __2021-02-26 23:03:42__
+
+> App is a great idea, but the doctor needs to be in a quieter room, ie curtains or something on the walls and acoustic tiles on the ceiling, somehing to help absorb the noise, sort of echoes. Also even with 4 bars the video and audio froze up twice, needs to use less bandwidth<br> :date: __2021-02-26 22:46:55__
+
+> Awesome!<br> :date: __2021-02-26 18:57:22__
+
+> Great help for a quick easy visit to the dr for minor aliment that needed medical prescription .<br> :date: __2021-02-26 16:09:57__
+
+> It was great for me perfect I'll advise anybody if you need to talk with the doctor to go ahead and download the app in talk to a doctor I got my prescription I'm good<br> :date: __2021-02-25 23:51:04__
 
 > Other than some tech glitches, very useful.<br> :date: __2021-02-22 15:56:52__
 
@@ -229,16 +239,6 @@ The Doctor On Demand app has been installed by more than **1000000** times. At t
 
 > It's a good option for a lot of more minor problem's. The audio kept breaking up but the weather is horrible and that was a connection issue not Dr..onD. 's fault.<br> :date: __2021-02-14 20:09:58__
 
-> Very helpful! Only downside is you can't contact in between appointments unless you CALL.<br> :date: __2021-02-12 17:31:00__
-
-> Very great app during this time. Just had one issue. It kept making my phone reboot and cutting off the visit. I had to use my tablet for it to work.<br> :date: __2021-02-12 04:47:29__
-
-> Exceptional<br> :date: __2021-02-11 21:27:55__
-
-> Thanks I need help<br> :date: __2021-02-11 07:14:23__
-
-> Good for when you are in a pinch or rush and can't or don't want to spend hours getting treated. this has been a lifesaver for me and my family a few times now and def would use again.<br> :date: __2021-02-07 23:04:21__
-
 
 
 #### 3-star reviews
@@ -246,6 +246,8 @@ The Doctor On Demand app has been installed by more than **1000000** times. At t
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="com.doctorondemand.android.patient 3 reviews"/>
 </p>
+
+> Dr great. Tech not so good.<br> :date: __2021-02-23 18:48:28__
 
 > The doctor was fine, but the audio was atrocious. Turns out you have to manually tell the app to switch to headphones from speaker even with wireless or wired headphones active on your device. I didn't figure this out until the end of the call. That is some backwards technology.<br> :date: __2021-02-19 16:05:41__
 
@@ -260,8 +262,6 @@ The Doctor On Demand app has been installed by more than **1000000** times. At t
 > The doctors are fabulous. However their lack of ability of tec support and processing insurance is not good.<br> :date: __2021-01-22 01:24:14__
 
 > Nice and safe way to check symptoms before going in to ER.<br> :date: __2021-01-09 03:28:42__
-
-> While I like the convenience of this platform, it is UNACCEPTABLE that I have been cut off at the 15 minute mark, while the doctor is still talking to me! This has been twice! I have no idea what she is going to do and I have no time to ask questions at all! Its my health! I am definitely considering going back to the office, if possible as this is really unethical.<br> :date: __2021-01-04 18:34:00__
 
 
 
@@ -291,6 +291,10 @@ The Doctor On Demand app has been installed by more than **1000000** times. At t
 <img src="1_star_reviews_wordcloud.png" alt="com.doctorondemand.android.patient 1 reviews"/>
 </p>
 
+> only wanf to use this app when i am sick and it is so frustrating to use I give up<br> :date: __2021-02-26 23:18:05__
+
+> Cannot get payment option to explain what is needed.<br> :date: __2021-02-23 23:56:18__
+
 > Can't give referrals<br> :date: __2021-02-23 16:37:46__
 
 > I have changes my 5 star review to a 1 star! For urgent care services and to avoid a trip to the emergency room, this app has been great! However, my most recent experiences have not been the same. I have made 3 appointments for therapy services and each time we are prepared waiting for the appointment to start and the appointment drops or is canceled within minutes. Very disappointing!<br> :date: __2021-02-22 22:23:20__
@@ -306,9 +310,5 @@ The Doctor On Demand app has been installed by more than **1000000** times. At t
 > HORRIBLE EXPERIENCE entered data and got TO pharmacy input a nd screen said "no pharmacy" listed Three days later tried and hitting on initial pro.pts for ins,pharm, etc dont work IM TOO SICK AND VERY DONE WITH THIS SLOW DISORGANIZED OUTFIT!!!<br> :date: __2021-02-13 22:13:21__
 
 > Dr.Phil said they take Medicare part b,4 a freedr.appt.they would not do this.<br> :date: __2021-02-13 20:58:56__
-
-> The doctor is great. Everything else is lousy. Inability to communicate with doctor, tech support is lousy, poor customer service. I wish someone with power to change process and improve software would contact me. Its got a ways to go.<br> :date: __2021-02-12 22:27:22__
-
-> The doctors etc available are great but you cannot contact them if you have questions or need immediate assistance with a prescription they prescribed. Support said they would call within a few hours but it has been days. Edit: reached customer service, they were so inept they forgot what I was talking about and reissued a prescription in error that I know have to call the pharmacy to cancel. They refuse to acknowledge that their automatic reply system is flawed and dangerous. Don't use this app<br> :date: __2021-02-08 04:26:32__
 
 

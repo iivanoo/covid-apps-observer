@@ -185,6 +185,8 @@ The PassCOVID.gal app has been installed by more than **50000** times. At this t
 <img src="5_star_reviews_wordcloud.png" alt="gal.xunta.covidpass 5 reviews"/>
 </p>
 
+> Muy buena aplicación, lo malo es que aunque se ha descargado la actualización del día 21/02, al abrirla, aún sigue con los datos del 17/02<br> :date: __2021-02-24 22:46:40__
+
 > Siempre avisa de los cambios<br> :date: __2021-02-13 01:57:35__
 
 > Quiero protejerme espero que me sirba de algo<br> :date: __2021-02-08 19:41:42__
@@ -203,8 +205,6 @@ The PassCOVID.gal app has been installed by more than **50000** times. At this t
 
 > Bien la información ofrecida.<br> :date: __2020-11-27 16:04:04__
 
-> Esta aplicación va muy bien felicito al SERGAS por la excelente aplicación.<br> :date: __2020-11-26 10:09:08__
-
 
 
 #### 4-star reviews
@@ -213,9 +213,11 @@ The PassCOVID.gal app has been installed by more than **50000** times. At this t
 <img src="4_star_reviews_wordcloud.png" alt="gal.xunta.covidpass 4 reviews"/>
 </p>
 
-> A app e estupenda para informarte de todas as limitacións do teu concello pero o día dos cambios de normas tarda moito en actualizar. Eu prefiroa en vez da páxina da Xunta porque e máis rápida incluindo o teu concello. Polo demais noraboa porque e moito mellor e mais específica que a app nacional. Douvos un catro por ser mellorable na actualización. Noraboa<br> :date: __2021-01-09 02:14:35__
+> Funciones e información de restricciones del concello donde vives. Para registrar el acceso o permanencia en un bar ó restaurante. Muy útil.<br> :date: __2021-02-26 20:20:43__
 
-> Aparte de lo invasiva que resulta (llama la atención porque la propone el partido que acusaba a Radar Covid de serlo), cuando quiero introducir el QR de algún establecimiento resulta que los establecimientos NO TIENEN CÓDIGO QR que escanear. Ni cafeterías, ni supermercados, farmacias, bancos, ferreterías, tiendas de ropa....<br> :date: __2020-11-08 18:47:18__
+> Resulta muy sencillo comprobar las restricciones de tu municipio. Y la idea del código QR aparenta muy práctica. Quizás hecho en falta el mapa con los municipios según restricciones<br> :date: __2021-02-26 11:57:16__
+
+> A app e estupenda para informarte de todas as limitacións do teu concello pero o día dos cambios de normas tarda moito en actualizar. Eu prefiroa en vez da páxina da Xunta porque e máis rápida incluindo o teu concello. Polo demais noraboa porque e moito mellor e mais específica que a app nacional. Douvos un catro por ser mellorable na actualización. Noraboa<br> :date: __2021-01-09 02:14:35__
 
 > Salen textos cortados o superpuestos y en la pantalla de registro finalizado sale cortado el botón (apenas se puede pulsar) y no hay scroll. Por lo demás no pinta mal.<br> :date: __2020-10-27 20:57:05__
 
@@ -245,6 +247,10 @@ The PassCOVID.gal app has been installed by more than **50000** times. At this t
 <img src="2_star_reviews_wordcloud.png" alt="gal.xunta.covidpass 2 reviews"/>
 </p>
 
+> En Lugo, según la aplicación el interior de los locales de hostelería CERRADO, cuando según el DOG también en interior al 30%. Y los establecimientos NO TIENEN CÓDIGO QR que escanear. Ni cafeterías, ni supermercados, farmacias, bancos, ferreterías, tiendas de ropa....<br> :date: __2021-02-27 09:00:56__
+
+> Mal elaborada, me parece que dar como opción de identificación solo chave 365 es un error, en mi caso tengo certificado digital y no es posible registrarse con el.<br> :date: __2021-02-25 16:20:44__
+
 > No te puedes fiar de las restricciones. De nada sirve informarse de las restricciones de tu ciudad en la aplicación si después cada concello pone las suyas propias. Consulté una restricción relativa a presenciar un evento deportivo en la app, llamé al número de atención Covid, me confirmaron que podía ir y cuando llegué al pabellón no me dejaron entrar por la normativa que puso el concello. En la aplicación no se puede poner una normativa en un concello determinado y que realmente no sea así.<br> :date: __2021-01-17 12:22:05__
 
 > No publican las actualizaciones es lenta sin información actualizada.<br> :date: __2021-01-14 15:54:11__
@@ -261,10 +267,6 @@ The PassCOVID.gal app has been installed by more than **50000** times. At this t
 
 > Solo me deja personalizar con chave pero no con certificado digital, por qué?<br> :date: __2020-11-30 11:12:47__
 
-> Códigos de verificación sigo esperando,fallo<br> :date: __2020-11-29 21:08:21__
-
-> Non permitirá ser unha útil ferramenta , mediante o escaneo dos códigos QR por non esistir dito QR nos establecementos, públicos e privados . Sen quedar regixtrado que unha persoa a visitado ese establecemento. Sentidiño Indicacións pra protexernos contra a COVID-19.<br> :date: __2020-11-29 01:47:38__
-
 
 
 #### 1-star reviews
@@ -272,6 +274,8 @@ The PassCOVID.gal app has been installed by more than **50000** times. At this t
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="gal.xunta.covidpass 1 reviews"/>
 </p>
+
+> No sirve para nada, además aunque la configures en castellano sigue poniendo todo en gallego , muy útil para turistas y todos los castellano parlantes.<br> :date: __2021-02-26 08:03:05__
 
 > Sin comentarios<br> :date: __2021-01-16 12:21:58__
 
@@ -290,7 +294,5 @@ The PassCOVID.gal app has been installed by more than **50000** times. At this t
 > Decepcionante ! A mí no me sirve de nada.La información que me da ya la tengo cada dia en los informativos(pongo una estrella porque no me deja no dar ninguna)<br> :date: __2020-11-30 23:50:29__
 
 > Es mala y Liosa. Demasiados apartados. Con lo fácil que es, simplemente notificar si eres positivo o que te notifiquen si entre tus contactos hay alguno... Así, sin más.<br> :date: __2020-11-30 19:53:56__
-
-> De vergüenza tener que meter la tarjeta de crédito LADRONES<br> :date: __2020-11-28 18:22:54__
 
 

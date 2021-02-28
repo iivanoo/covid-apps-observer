@@ -262,6 +262,8 @@ The Healthily: Self-Care & Health Journal app has been installed by more than **
 <img src="3_star_reviews_wordcloud.png" alt="md.your 3 reviews"/>
 </p>
 
+> There could be more choices as to things to track. More importantly, I've had notes that I've written disappear. I know if I get here and record things about my condition, I write a note and there aren't always notes.<br> :date: __2021-02-24 16:46:44__
+
 > it's helpful<br> :date: __2020-12-18 09:23:55__
 
 > 👍🏿<br> :date: __2020-12-14 15:49:12__
@@ -280,8 +282,6 @@ The Healthily: Self-Care & Health Journal app has been installed by more than **
 
 > Hello! I can't open the app after updating, it just shows blank page and then closes. I'm still on android version 5.1 if it helps. I really like this app as a health checker, hope it gets a fix soon.<br> :date: __2020-09-12 21:18:27__
 
-> The chat with someone part sucks but rest is interesting<br> :date: __2020-09-05 08:41:55__
-
 
 
 #### 2-star reviews
@@ -289,6 +289,8 @@ The Healthily: Self-Care & Health Journal app has been installed by more than **
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="md.your 2 reviews"/>
 </p>
+
+> It was good but now I can't connect!<br> :date: __2021-02-25 08:58:02__
 
 > Just asked how i felt today, i said awful and the reply was.....Awesome? Bye bye<br> :date: __2020-10-12 01:00:36__
 
@@ -307,8 +309,6 @@ The Healthily: Self-Care & Health Journal app has been installed by more than **
 > Not what I expected didnt find it very helpful for me<br> :date: __2020-04-01 08:10:43__
 
 > I tried to open the app and when it asked for my birth year I put 2006,it said the app was only for 16-100 but I dont get why,people under the age of 16 might need help too this app is limiting chances of people the age of 15 and under to get help,apart from this I think the app is quite good for those over 16 as it can help them with things they didnt know they could use help with or give them more help. In conclusion good app but improve on the age situation please as I want to try it.<br> :date: __2019-12-30 23:59:09__
-
-> Pl advice doctors advice which u give here from which country<br> :date: __2019-09-15 18:35:53__
 
 
 

@@ -137,6 +137,8 @@ The Госуслуги.COVID трекер app has been installed by more than **
 <img src="5_star_reviews_wordcloud.png" alt="com.minsvyaz.gosuslugi.exposurenotificationdroid 5 reviews"/>
 </p>
 
+> Хорошо!<br> :date: __2021-02-25 23:02:55__
+
 > Установил, возможно это мне и другому человеку поможет избежать заболевания ковидом. Всем здоровья!<br> :date: __2021-02-16 07:00:54__
 
 > Япония<br> :date: __2021-02-13 03:32:48__
@@ -155,8 +157,6 @@ The Госуслуги.COVID трекер app has been installed by more than **
 
 > Надеюсь что охват приложения выростет а также будет опубликована сводная информация по работе с базой - что/как/когда проверяется после информирования о положительном тесте, чтобы было больше доверия, а то многие не понимают как оно работает. Нужно правильно работать с населением!<br> :date: __2021-01-10 13:59:05__
 
-> Приложение от Госуслуг предупреждающее, что рядом есть больные короновирус ной инфекцией, работающее по блютус.<br> :date: __2021-01-05 20:06:57__
-
 
 
 #### 4-star reviews
@@ -164,6 +164,8 @@ The Госуслуги.COVID трекер app has been installed by more than **
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.minsvyaz.gosuslugi.exposurenotificationdroid 4 reviews"/>
 </p>
+
+> Нет данных о вакцинированных<br> :date: __2021-02-25 08:51:10__
 
 > zdrastvuite a pachimu uminia net pridlajenia putishestvia bez kovid19 skajite pajalusta jdu na vaprosa<br> :date: __2021-01-29 15:09:36__
 

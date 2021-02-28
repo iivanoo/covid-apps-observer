@@ -134,6 +134,8 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 <img src="5_star_reviews_wordcloud.png" alt="gov.vdh.exposurenotification 5 reviews"/>
 </p>
 
+> Works in background, only time I know its installed is if zi turn off Bluetooth.<br> :date: __2021-02-27 02:02:06__
+
 > It is fixed now. It updates.<br> :date: __2021-02-17 19:17:02__
 
 > Love it<br> :date: __2021-02-16 01:37:29__
@@ -152,8 +154,6 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 
 > nice app it works well<br> :date: __2020-12-18 21:17:36__
 
-> For your safety and the safety of others, stay connected and download this app<br> :date: __2020-12-14 18:55:26__
-
 
 
 #### 4-star reviews
@@ -163,8 +163,6 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 </p>
 
 > 👍👍<br> :date: __2021-02-15 20:05:33__
-
-> I've been running this since last July? August? Seemingly it's worked fine -- no notifications, but I'm rarely out of the house. App stopped checking the server about a week ago; had to reinstall to get it to start up again...<br> :date: __2021-02-10 21:17:36__
 
 > It seems my phone was just slow and loaded the app in the background. Looked later and there it was.<br> :date: __2021-01-15 19:20:49__
 
@@ -182,6 +180,8 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 
 > Awesome<br> :date: __2020-11-15 02:07:21__
 
+> I've had this app for a couple weeks. However, is this for Virginia only? Or is it tracking in my area, El Paso, TX? Thanks.<br> :date: __2020-11-05 23:10:25__
+
 
 
 #### 3-star reviews
@@ -189,6 +189,10 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="gov.vdh.exposurenotification 3 reviews"/>
 </p>
+
+> It was working and put date of checking very often. Now it hasn't did anything since feb 10.<br> :date: __2021-02-26 21:46:45__
+
+> I am safe.<br> :date: __2021-02-26 12:22:10__
 
 > Yikes! I wish I saw the reviews before. It's a good idea but either the VDH doesn't have the resources to handle reporting for this app or something else is going on. Damn this gives me a false sense of security, which is bad since I'm both a retail essential worker, and I also reside with my older in laws.<br> :date: __2021-02-16 11:51:01__
 
@@ -205,10 +209,6 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 > At least Someone Creative is Trying to Help this State and The Good Hard Working Citizens. JD<br> :date: __2020-12-28 03:13:20__
 
 > God bless<br> :date: __2020-12-09 09:12:24__
-
-> Only good for the residents within Virginia. or can this be utilized from someone else in another state? And what are the parameters required to utilize this feature; say for a state like Texas? They do not have a contact tracing app.<br> :date: __2020-11-30 20:55:45__
-
-> My problem is that in the DC area folks from DC, Maryland, Virginia mix regularly and then we have people from all over the country coming in. But it seems I can only have one contact app enabled at a time, and as best I can tell that means I wouldn't get notified if my phone had been getting chirps from someone on a different app. Am I incorrect?<br> :date: __2020-11-23 17:52:47__
 
 
 
@@ -246,6 +246,14 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 <img src="1_star_reviews_wordcloud.png" alt="gov.vdh.exposurenotification 1 reviews"/>
 </p>
 
+> I've been running this since last July? August? Seemingly it's worked fine -- no notifications, but I'm rarely out of the house. App stopped checking the server about a week ago; had to reinstall to get it to start up again... Edit: Covidwise continues to stop checking exposures, despite following VDH's recommendations and protecting the app from power-related backgrounding. It kind of kills the purpose of the app if one has to reinstall it frequently, losing all exposure history...<br> :date: __2021-02-27 02:27:31__
+
+> App does nothing but intrusion, All it does is track you and your wearabouts and that is worth billions to the right company. We have been had.<br> :date: __2021-02-26 21:23:50__
+
+> According to the app, the last time exposure was checked was January 29, 2021 (as of this writing, that is almost a full month ago). I see this is mentioned in other reviews, and that you are responding with the same form response to those reports. Please investigate and resolve this issue.<br> :date: __2021-02-24 18:18:51__
+
+> How is this even real if today is 2/22/21 and the last time this was checked was 2/6/21 there is no before to this if it never checked<br> :date: __2021-02-23 16:27:00__
+
 > App will not update when covid status last checked. Tried all fixes given in app-- none work. Was working until about a month ago. Seems pretty useless without dates covid checks.<br> :date: __2021-02-22 15:54:30__
 
 > Doesn't work. Supposed to alert after 15 min exposure. Left my phone sitting next to wife's phone for 10 hours got no alert.<br> :date: __2021-02-22 14:24:00__
@@ -257,13 +265,5 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 > It quit updating in January. I see it has happened to others. Would appreciate an answer here rather than the canned see our faq page on another site.<br> :date: __2021-02-20 11:46:10__
 
 > I received my COVID-19 test on 2/15, and positive results followed. Yet VDH still says no information available on me. Makes this app pretty much worthless. No way to contact anyone about the error. Meanwhile, I'm COVID-19 positive, and no contact tracing being done. FAIL.<br> :date: __2021-02-20 02:04:58__
-
-> The app has not updated exposure notification since 31 January. That's shortly after you issued an update. Is the app broken or just not displaying updated exposure checks? In response to you 17 Feb note, I have reviewed the FAQ, I have the latest version, and I have contacted your support email address.<br> :date: __2021-02-17 19:17:53__
-
-> I just realized this app says "Exposure last checked January 29". Today is February 15. I have found no way to tell it to refresh or anything. I have had it turned on this whole time. Doesn't seem to be doing me a lot of good.<br> :date: __2021-02-16 04:51:07__
-
-> The app doesn't update anymore despite refreshing all settings. The app is useless if it spontaneously stops updating without warning. Since it won't tell me any exposures I may have potentially had since December, who knows what sort of exposures this app could have prevented if it actually worked, given im in contact with hundreds of people weekly. Will delete, not re-downloading unless it is completely overhauled.<br> :date: __2021-02-14 04:03:30__
-
-> Big Brother ver 19.84<br> :date: __2021-02-13 10:25:49__
 
 

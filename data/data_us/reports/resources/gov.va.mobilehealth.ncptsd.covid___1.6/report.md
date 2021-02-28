@@ -140,6 +140,10 @@ The COVID Coach app has been installed by more than **10000** times. At this tim
 <img src="5_star_reviews_wordcloud.png" alt="gov.va.mobilehealth.ncptsd.covid 5 reviews"/>
 </p>
 
+> Fantastic App.<br> :date: __2021-02-25 16:40:16__
+
+> This app not only helped during Covid, but it also helps my every day anxiety and depression!!<br> :date: __2021-02-24 20:58:21__
+
 > Very, very good, for self and family💘<br> :date: __2021-02-10 20:25:53__
 
 > Very helpful. Easy to explore and use. A lot available to spend time on.<br> :date: __2021-02-09 19:37:19__
@@ -156,10 +160,6 @@ The COVID Coach app has been installed by more than **10000** times. At this tim
 
 > I don't know why I resisted using an emotional support app but I did. Originally I downloaded this Covid Coach to evaluate it before recommending it to tech preference friends. Now utilizing this app for myself is supportive in ways that surprise me. It reminds me to USE the tools I have which allows me to have more choice in my days & nights. This ultimately allows me to have a life more of my choosing. By acknowledging where I'm at with my scheduled check-ins I choose what to do from there.<br> :date: __2021-02-02 13:12:27__
 
-> My counselor suggested this to me, so I'm trying it out. She'll be happy I'm doing this.<br> :date: __2021-02-02 06:54:00__
-
-> Used to monitor well being over a period of 6 months. I found it very useful for a personal check in using the surveys weekly.<br> :date: __2021-01-29 21:34:54__
-
 
 
 #### 4-star reviews
@@ -167,6 +167,8 @@ The COVID Coach app has been installed by more than **10000** times. At this tim
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="gov.va.mobilehealth.ncptsd.covid 4 reviews"/>
 </p>
+
+> Worthwhile, inspiring daily messages<br> :date: __2021-02-26 16:03:25__
 
 > Great ideas for combating stress.<br> :date: __2021-02-20 05:57:49__
 
@@ -185,8 +187,6 @@ The COVID Coach app has been installed by more than **10000** times. At this tim
 > Not a meditatong person but Wow! Body scan leaves me fresh as having a two hour nap.<br> :date: __2020-08-03 20:12:13__
 
 > So far, so good.☺️<br> :date: __2020-07-15 02:32:24__
-
-> Nothing else follows<br> :date: __2020-07-14 18:24:59__
 
 
 
@@ -217,6 +217,8 @@ The COVID Coach app has been installed by more than **10000** times. At this tim
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="gov.va.mobilehealth.ncptsd.covid 1 reviews"/>
 </p>
+
+> Why do I have to allow this app to access my photos? I installed it and uninstalled. Please, explain why need access to my files .<br> :date: __2021-02-26 23:48:21__
 
 > Requires access to your photos and files just to open the app. No thanks.<br> :date: __2020-11-13 01:54:50__
 

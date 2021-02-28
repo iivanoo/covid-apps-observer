@@ -119,6 +119,10 @@ The CONFINAPP app has been installed by more than **10000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="cat.gencat.mobi.confinApp 5 reviews"/>
 </p>
 
+> Perfecte per l'Estat policial en el qual vivim!!<br> :date: __2021-02-27 07:40:50__
+
+> Fenomenal app para solicitar morbilidad<br> :date: __2021-02-26 15:03:49__
+
 > Muy buena<br> :date: __2021-01-29 23:52:30__
 
 > Prou util i simple de fer servir. Funcional y sencilla de manejar.<br> :date: __2021-01-04 20:33:53__
@@ -134,10 +138,6 @@ The CONFINAPP app has been installed by more than **10000** times. At this time,
 > Molt bé. Clar. Avui faig dos trajectes. De Sant Boi a Cornellà i de Cornellà a Canovelles. No quedaria reflectit el primer trajecte<br> :date: __2020-11-01 10:44:04__
 
 > Util<br> :date: __2020-10-31 22:47:53__
-
-> Información detallada de utilidad sobre lo relacionado con Covid_19, desde ayudas a última hora<br> :date: __2020-07-17 13:40:23__
-
-> Buena<br> :date: __2020-06-16 16:01:27__
 
 
 
@@ -213,6 +213,8 @@ The CONFINAPP app has been installed by more than **10000** times. At this time,
 <img src="1_star_reviews_wordcloud.png" alt="cat.gencat.mobi.confinApp 1 reviews"/>
 </p>
 
+> Basura,como cualquier cosa que venga del gobierno<br> :date: __2021-02-25 21:27:42__
+
 > Sólo para p*""" catalanes<br> :date: __2021-02-22 01:00:35__
 
 > Porque no se puede poner 0 estrellas. Ni siquiera se inicia la aplicación. Actualicenla, estamos esperando, año 2021<br> :date: __2021-02-17 07:57:20__
@@ -230,7 +232,5 @@ The CONFINAPP app has been installed by more than **10000** times. At this time,
 > No es una App, se limita a abrir lo mismo que verías desde el navegador.<br> :date: __2021-01-22 08:45:18__
 
 > Molt poc útil, les novetats no s' actualitzen, el certificats no es guarden. És una llastima perque actualitzada i amb els certificats seria una app super útil<br> :date: __2021-01-16 09:17:01__
-
-> Funciona cuando le da la puñetera gana, vaya chapuza!!!<br> :date: __2021-01-14 11:26:59__
 
 

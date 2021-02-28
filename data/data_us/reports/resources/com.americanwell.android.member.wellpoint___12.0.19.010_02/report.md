@@ -186,6 +186,18 @@ The LiveHealth Online Mobile app has been installed by more than **500000** time
 <img src="5_star_reviews_wordcloud.png" alt="com.americanwell.android.member.wellpoint 5 reviews"/>
 </p>
 
+> amazing<br> :date: __2021-02-27 05:59:59__
+
+> Input reason why I need to talk to a doctor Meds refill and Pharmacy info Attending Dr. stratton was very nice and take care of my refill Rx right away and reply accordingly. Thanks so much.Great service God bless 💫🙏☘️🕊️<br> :date: __2021-02-27 00:09:31__
+
+> Well some medical concerns benefit from having an ongoing relationship, most of my medical needs are transactional in nature, and this app makes it extremely easy<br> :date: __2021-02-26 13:01:54__
+
+> Access to lots of doctors of all kinds almost instantly, my prescription was ready an hour later and the only thing I left the house for was to pick up the medicine. Far exceeded my expectations.<br> :date: __2021-02-26 00:40:20__
+
+> Great experience work's just like it should<br> :date: __2021-02-25 17:58:57__
+
+> Excellent from start to finish. Very well organized app. Quick visit got the help I needed.<br> :date: __2021-02-23 21:34:15__
+
 > Quick and easy<br> :date: __2021-02-20 20:58:25__
 
 > Excellent providers and convenient.<br> :date: __2021-02-20 15:51:08__
@@ -193,18 +205,6 @@ The LiveHealth Online Mobile app has been installed by more than **500000** time
 > Very easy to use<br> :date: __2021-02-19 21:56:29__
 
 > Great services and it is very professional<br> :date: __2021-02-19 19:32:07__
-
-> So convienant.<br> :date: __2021-02-18 19:39:25__
-
-> AWESOME<br> :date: __2021-02-18 18:57:12__
-
-> App works smoothly. Easy to use.<br> :date: __2021-02-18 16:55:12__
-
-> Easy, convenient and readily available healthcare!<br> :date: __2021-02-17 21:21:08__
-
-> Very good doctor I spoke with<br> :date: __2021-02-17 00:36:04__
-
-> Good<br> :date: __2021-02-15 23:57:30__
 
 
 
@@ -298,7 +298,7 @@ The LiveHealth Online Mobile app has been installed by more than **500000** time
 <img src="1_star_reviews_wordcloud.png" alt="com.americanwell.android.member.wellpoint 1 reviews"/>
 </p>
 
-> Will not respond to refill requests causing you to not only have your treatment delayed, but also to pay an additional $60 for an appointment. I have tried at least 8 times with multiple providers.<br> :date: __2021-02-10 14:41:05__
+> Camera won't connect. This is a huge failure, and the idea had so much promise. There are problems with the camera on my phone connecting every time. I'm very disappointed.<br> :date: __2021-02-25 14:59:53__
 
 > Never works<br> :date: __2021-01-30 00:36:54__
 

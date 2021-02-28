@@ -210,6 +210,14 @@ The Service NSW app has been installed by more than **1000000** times. At this t
 <img src="5_star_reviews_wordcloud.png" alt="au.gov.nsw.service 5 reviews"/>
 </p>
 
+> Great advice and Info<br> :date: __2021-02-25 05:44:57__
+
+> I updated the app yesterday morning and tried to check in to a restaurant I opened the app tried to scan it and it done nothing was working fine till i updated it Saturday morning Edit thanks for your reply just seen it yes it's fine now it must of been the one time it never worked but was okay 2 days ago cheer's<br> :date: __2021-02-25 02:48:20__
+
+> Very easy to use<br> :date: __2021-02-25 01:18:27__
+
+> Convenient and safe<br> :date: __2021-02-24 04:45:46__
+
 > Really good confidence<br> :date: __2021-02-22 23:43:06__
 
 > Great app, very helpful<br> :date: __2021-02-22 10:34:21__
@@ -222,14 +230,6 @@ The Service NSW app has been installed by more than **1000000** times. At this t
 
 > The Covid check-in button is now the top!! 👌<br> :date: __2021-02-19 04:52:30__
 
-> Easy to use. Now just have to get it to save to home screen.<br> :date: __2021-02-18 06:03:05__
-
-> ONLY ONE ISSUE WITH CHECKING IN! HAD TO USE WEBSITE INSTEAD... PLEASE FIX YOUR APP TO STOP COMPLAINING THAT DETAILS INCORRECT WHEN CORRECT - ALREADY SAVED AND POPULATED BY APP!!<br> :date: __2021-02-17 05:24:28__
-
-> Easly access to drivers licence real good stuff<br> :date: __2021-02-16 10:58:40__
-
-> Easy to use<br> :date: __2021-02-16 10:12:08__
-
 
 
 #### 4-star reviews
@@ -237,6 +237,10 @@ The Service NSW app has been installed by more than **1000000** times. At this t
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="au.gov.nsw.service 4 reviews"/>
 </p>
+
+> I find it easy to utilise the system, which is kinda amazing for me as I am quite useless when it comes to technology 🤫<br> :date: __2021-02-24 06:17:57__
+
+> The app has definately improved and is very easy to use now! 👍🏻<br> :date: __2021-02-24 00:08:17__
 
 > Glad every time i chat to my daughter .<br> :date: __2021-02-23 14:40:59__
 
@@ -246,11 +250,7 @@ The Service NSW app has been installed by more than **1000000** times. At this t
 
 > Satisfactory Once learned<br> :date: __2021-02-21 11:38:47__
 
-> I updated the app yesterday morning and tried to check in to a restaurant I opened the app tried to scan it and it done nothing was working fine till i updated it Saturday morning<br> :date: __2021-02-21 04:31:37__
-
 > Can be a bit temperamental but generally works well.<br> :date: __2021-02-20 03:17:49__
-
-> Waste of time<br> :date: __2021-02-19 06:26:34__
 
 > Great<br> :date: __2021-02-17 23:16:12__
 
@@ -294,6 +294,16 @@ The Service NSW app has been installed by more than **1000000** times. At this t
 <img src="2_star_reviews_wordcloud.png" alt="au.gov.nsw.service 2 reviews"/>
 </p>
 
+> Ease to install. Thanks.<br> :date: __2021-02-27 12:33:38__
+
+> This app was working fine for me for almost a year then all of a sudden out of nowhere it will no longer let me in. It rejected my (correct) 4 digit code and after logging out to see if that aids the problem, it won't let me log back in. I've reset my password and I can access my account on the website, but the app still won't log me in. Despite ensuring correct log in information, I'm still being told it's incorrect. Very frustrating.<br> :date: __2021-02-26 12:40:27__
+
+> Can't log out of location very easily. Have to book in again and then log out straight away.<br> :date: __2021-02-25 01:18:36__
+
+> Does anyone know how to add this icon onto their home page for quicker access? Fed up having to access play store to open it every time I need to sign in at places.<br> :date: __2021-02-24 23:12:15__
+
+> I have to continuously logon to checkin or checkout. It chews my battery. I should not have to rescan the qr code for places I visit regularly. The covid checkin should have its own widget . Designed by people with no app experience.<br> :date: __2021-02-24 00:41:10__
+
 > I am so frustrated with this app. Initially it was working with no problems, then all of a sudden it stopped allowing me to check in saying to check the accuracy of the time on my phone? I have since been trying to log in and it continues to say incorrect password even though I know it is correct as I can sign in via the web. Dead set frustrating and I still have no reason why it happened to begin with. Uninstall, here I come.<br> :date: __2021-02-20 21:08:09__
 
 > I'll DC<br> :date: __2021-02-19 17:42:15__
@@ -304,16 +314,6 @@ The Service NSW app has been installed by more than **1000000** times. At this t
 
 > Latest update has created check-in/out issues, unable to do either<br> :date: __2021-02-15 23:52:16__
 
-> Ok app in principle...the app used to work ok on my Samsung s8 phone but I got a new Samsung a51 and its glitchy. I can't reliably scan and login nor scan then logout of a premise. I try 10 to 20 times and it doesn't work. Sometimes it works after a few tries, sometimes it doesn't work at all. This happens at multiple sites not just one QR code site. Eventually I give up which isn't good. I have the latest app version on my phone. Can you please help?<br> :date: __2021-02-15 23:01:42__
-
-> Nothing seems to work?<br> :date: __2021-02-15 03:32:21__
-
-> This app is useless for anything other than vovid check-in. I can't add my licence without contacting services by phone. I can't register the car due to the app not being available at this time. Once everything works, it would be a great app!!<br> :date: __2021-02-15 00:21:29__
-
-> Worked fine but now its saying I have the wrong email or password and I know that I am using the correct ones. So I cant log in any more<br> :date: __2021-02-14 09:51:12__
-
-> Says "cannot verify phone number" and then does nothing. However, I am somewhat relieved that this terribly-programmed app fails at its task of facilitating gross government overreach and invasion of privacy so for that it gets an extra star.<br> :date: __2021-02-13 02:24:57__
-
 
 
 #### 1-star reviews
@@ -322,24 +322,24 @@ The Service NSW app has been installed by more than **1000000** times. At this t
 <img src="1_star_reviews_wordcloud.png" alt="au.gov.nsw.service 1 reviews"/>
 </p>
 
+> Continually poor experience now I can't even finish a review<br> :date: __2021-02-27 11:09:31__
+
+> Incorrect password at login stage. It is super frustrating as I need to upload and provide certain information for my new employer however I can't because it won't let me login. I've attempted to reset my password for weeks now and same issue.<br> :date: __2021-02-26 22:26:36__
+
+> App wouldn't update so i deleted it. Now tried to install new app and it won't download??<br> :date: __2021-02-25 07:10:25__
+
+> App doesn't work and won't let me sign in. Reinstalled it and updated the password and still can't use app. Please fix it, businesses get annoyed<br> :date: __2021-02-24 20:59:26__
+
+> Whatever changed with the app has caused my login attempts to keep failing. I can login to the service nsw webpage using the same credentials, but not the app anymore. Such a pity as this was a useful app. :(<br> :date: __2021-02-24 17:08:39__
+
+> There's is a problem with this app it's stop working please fixed asap.<br> :date: __2021-02-24 09:14:55__
+
+> Cannot download this app. Visitors to NSW. Not great.<br> :date: __2021-02-24 08:16:27__
+
+> Too complex<br> :date: __2021-02-24 03:36:13__
+
+> Suddenly my pin was incorrect won't log me in so I tried login in with email says incorrect password. I've changed nothing.<br> :date: __2021-02-23 20:08:34__
+
 > When I try to add licence, it keeps telling me to add email to link Roads and Maritime records. When I click add, it says success but again gets back to that page to add link.<br> :date: __2021-02-23 02:16:46__
-
-> Goverment Rubbish cant log in using samsung Galaxy s10, Cant get help from Service NSW they put you on hold than cut me off all to hard for them , Cant log in means cant see digital license cant view my rego so im deleting the rubbish and that means no Covid check in , both service nsw and the developer off this app are scum cant get any help .<br> :date: __2021-02-22 08:44:33__
-
-> Doesnt work after February update. Tried to reinstall AND reset my password AND both to no avail. Login is fine on the web so it's an app problem.<br> :date: __2021-02-22 07:52:04__
-
-> I have downloaded the service nsw app but I cannot access any services or download the co vid sign in app. It will not accept my current email address to log in ? WHY !!<br> :date: __2021-02-22 04:13:54__
-
-> Covid app is useless and doesn't work most of the time and unbelievably not with nsw health. Pin keeps not working, doesn't remember my log in details. Total waste of time<br> :date: __2021-02-22 02:41:48__
-
-> One of the most disfunctional apps in the app store. Not sure where to start. Apps are supposed to make things easier. But this one definitely doesn't. Have to manually re enter everything every time I covid check in. Have to re login whenever I use a different service within the app. If you forget your password you can get sent a code. But can't get the code without the app closing and you have to send for it again. Could only be designed by government.<br> :date: __2021-02-21 07:50:27__
-
-> Latest update QR code not reading at many places.<br> :date: __2021-02-21 04:34:50__
-
-> When you go to create an account, it tells you to make a password of 8 or more numbers, letters & symbols. I've done that & it still won't accept my password. I've tried over 20 times. It's ridiculous!!! No help at all!!!<br> :date: __2021-02-21 04:18:01__
-
-> This is quite a bad experience. I am able to login online into my account but unable to do so on my new phone and a clean install. I have tried this a few times. Quite a poor implementation must say.<br> :date: __2021-02-21 02:43:09__
-
-> I can't register you fools<br> :date: __2021-02-21 01:52:54__
 
 

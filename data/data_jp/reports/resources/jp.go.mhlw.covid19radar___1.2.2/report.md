@@ -237,6 +237,8 @@ The COCOA - COVID-19 Contact App app has been installed by more than **5000000**
 <img src="1_star_reviews_wordcloud.png" alt="jp.go.mhlw.covid19radar 1 reviews"/>
 </p>
 
+> Is it just a mockup?<br> :date: __2021-02-26 05:43:29__
+
 > Worse than a fax machine. I've been using this app diligently since release, only to find out it hasn't been functioning for Android or iPhone for months. A complete wasted effort on part of developers and the government sponsors. These apps have proven critical in New Zealand and other countries in the fight against covid, so it's a shame that Japan didn't take it more seriously.<br> :date: __2021-02-23 00:27:33__
 
 > 報道にある通り<br> :date: __2021-02-22 04:16:01__
@@ -254,7 +256,5 @@ The COCOA - COVID-19 Contact App app has been installed by more than **5000000**
 > 控えめに行ってゴミクズアプリ！！ 誰が使うかこんなバカみてえなもの！ヘドが出るわ！！！ 星一もつけねえよ誰も！ クソほどの金つぎ込んで適当なゴミアプリ作りやがって！ アプリの根幹の機能が使えないのに、それで個人情報だけは奪われてるとかホントにふざけてんじゃねえよ！💢💢💢<br> :date: __2021-02-16 09:15:04__
 
 > Placebo<br> :date: __2021-02-11 00:56:17__
-
-> Hahaha, it doesn't even work properly! An update broke the contact communication with other users about 4 months ago, and they haven't fixed it yet. And we thought this would help us to keep safe, eh? What a waste of taxpayer money.<br> :date: __2021-02-08 02:47:26__
 
 

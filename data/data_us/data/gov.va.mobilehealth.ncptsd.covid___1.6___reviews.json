@@ -1,5 +1,53 @@
 [
     {
+        "reviewId": "gp:AOqpTOFeeLxmSuei1Ct_etLcB-WQNErpRT7flMpzcHxvsAedMeY_G9YfKC6Wmuhw1Kb2DWK3QMlUBEFcybuw0zY",
+        "userName": "Alesja Lavrinovica",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhuFljfY-He-ziTp-5vuZAmovk_mTP_YIkvKeRxeQ",
+        "content": "Why do I have to allow this app to access my photos? I installed it and uninstalled. Please, explain why need access to my files .",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2021-02-26 23:48:21",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHYREhDdBtTwma8PnxuqkgLsOaYJWgiZyvcApzEbnznIqy57PhyFFtHyZ5pKgCS_ODJGIaLnW7PFWWl9sw",
+        "userName": "Elliotte Ashburn",
+        "userImage": "https://play-lh.googleusercontent.com/-fYyNaqaKMjQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck8M-OeZB6AKMGvLB_EDyNzK4QFVQ/photo.jpg",
+        "content": "Worthwhile, inspiring daily messages",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.6",
+        "at": "2021-02-26 16:03:25",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGWclNqVlFuwERzx_Cow8g2Aq--mTjxPXXN4ELdduC_okmBsFy9ADB4F03BIvDYX7LmOrLBS1qXY_fQEEU",
+        "userName": "Jerry Johnson",
+        "userImage": "https://play-lh.googleusercontent.com/-gQi1cn-8UrQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnCoWtMbSgkCQB6-lnGYQlIiJSa8A/photo.jpg",
+        "content": "Fantastic App.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.6",
+        "at": "2021-02-25 16:40:16",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFQAwi1lap9i8gGN6emYruuHGew-3XHWCbi5jgxgw1oLGcW9y-fqZguqOnpkUO8taGTtsJabPW2ookXfcw",
+        "userName": "ajgrego21",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ghd96n4CGVn7k3ARoTsHGTUCXFZ-KjrHY9ik_ZOIcI",
+        "content": "This app not only helped during Covid, but it also helps my every day anxiety and depression!!",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.6",
+        "at": "2021-02-24 20:58:21",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOFwhEIEanuernITfiMBtBLOV2KzsK9of7na3UEGs_iZYbOQRL7beaOmiSOTPxBfhMt5eypX6smRrzyROWA",
         "userName": "kenneth spann",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ghcalc_wJoFMcc5ea3XeJKmbs0cQ2RHRaW5WtSh",
@@ -101,7 +149,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-WhUo6l2VA08/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmH15PoXwFhUf4U-KQkwcOcyj8YXw/photo.jpg",
         "content": "I don't know why I resisted using an emotional support app but I did. Originally I downloaded this Covid Coach to evaluate it before recommending it to tech preference friends. Now utilizing this app for myself is supportive in ways that surprise me. It reminds me to USE the tools I have which allows me to have more choice in my days & nights. This ultimately allows me to have a life more of my choosing. By acknowledging where I'm at with my scheduled check-ins I choose what to do from there.",
         "score": 5,
-        "thumbsUpCount": 5,
+        "thumbsUpCount": 6,
         "reviewCreatedVersion": "1.5",
         "at": "2021-02-02 13:12:27",
         "replyContent": null,
@@ -169,7 +217,7 @@
     },
     {
         "reviewId": "gp:AOqpTOGGS8s_Fw_1SNv3AmjTG_oyBWDEpmvoI9NvKwQjeVbbqwbnv5J7vtd1b6qqndxUAEzbQChjhDHzQehpirw",
-        "userName": "Melissa",
+        "userName": "Google User",
         "userImage": "https://play-lh.googleusercontent.com/-Czzo-ibcqCA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucln95xF7MKEaK4EUfazj-bHPpSO3A/photo.jpg",
         "content": "Helpful resources on any app capable mobile phone is an excellent app that is at no cost to anyone! Typically an app like this charges a subscription fee but this one doesn't. Thank you very much for this!",
         "score": 5,
@@ -218,7 +266,7 @@
     {
         "reviewId": "gp:AOqpTOGYs2nwIUQJJGIIhHEuAt0wylrOzrsU248NxXVDLHLSckx2fWUJ3es0VJFHDHxUCj7RiYBCJLo5k5C5hC8",
         "userName": "Gary Bishop",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhoAE-Cn5FPjRaAWIa_FzTH1_fytmErCJvaKYx7GA",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh9yS-a6m22_inY-SE3hg0WDvO3SbtXKH5jYUxiFys",
         "content": "Can't see how it is useful for COVID. Name is missleading.",
         "score": 2,
         "thumbsUpCount": 1,

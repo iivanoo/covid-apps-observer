@@ -257,6 +257,8 @@ The COVID Alert NY app has been installed by more than **500000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="gov.ny.health.proximity 1 reviews"/>
 </p>
 
+> No help<br> :date: __2021-02-23 17:55:03__
+
 > Imagine being a pathetic sheep and allowing yourself to be stalked wherever you go by this app. Let alone, the government.<br> :date: __2021-02-20 13:27:47__
 
 > Stop asking me if I want this app. .this is good for people who drive around by themselves with mask on.Media is lying to you.<br> :date: __2021-02-17 03:33:20__
@@ -274,7 +276,5 @@ The COVID Alert NY app has been installed by more than **500000** times. At this
 > Garbage<br> :date: __2021-01-31 18:50:40__
 
 > We had the app and have since deleted it. We caught Covid. There is no way to state so in the app. You need to wait for the Health Dept to do something with it. By the time we received a call from the HD (poor staff are so over worked because people are careless!) we were almost off quarantine, so they didn't bother doing anything with the app or contact tracing (which we had already done on our own anyway). The app was a waste! Totally defeated the purpose of it.<br> :date: __2021-01-28 03:27:26__
-
-> Why can't I use this with another COVID exposure notification app? I live near both NY and CT. This should definitely be something to consider. Terrible. I have to pick one state.<br> :date: __2021-01-28 01:19:24__
 
 

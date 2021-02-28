@@ -185,6 +185,8 @@ The MD COVID Alert app has been installed by more than **100000** times. At this
 <img src="3_star_reviews_wordcloud.png" alt="gov.md.covid19.exposurenotifications 3 reviews"/>
 </p>
 
+> I have to "assume" it works - haven't received an alert, and I have no idea if I've actually been near anyone with the disease. I've had a couple of negative tests and the first vaccine dose so I'm cautiously optimistic.<br> :date: __2021-02-26 14:22:12__
+
 > Okay<br> :date: __2021-01-25 15:36:44__
 
 > Finally Maryland is aboard with this Alert system.<br> :date: __2021-01-18 17:03:51__
@@ -202,8 +204,6 @@ The MD COVID Alert app has been installed by more than **100000** times. At this
 > Requires GPS to be on all the time. Another reviewer stated the phone's location doesnt need to be turned on, but as soon as I turn it off I get a notification stating "Exposure Notifications Inactive To use this feature, turn on location".<br> :date: __2020-12-17 06:31:55__
 
 > I can't figure out where to get my one time verification code so I can use this app.<br> :date: __2020-12-12 19:08:23__
-
-> I keep getting a error on install. Smdh<br> :date: __2020-12-08 12:22:49__
 
 
 

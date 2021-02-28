@@ -1,5 +1,17 @@
 [
     {
+        "reviewId": "gp:AOqpTOGJ0pybU7MeMKRzH6WL8C-ZFfHupnjSoGIHB6Ntu4KO9-2l124Hg0GhVMkPJYsqWGG1BuapmMPKzMOq5Kc",
+        "userName": "Oliver",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg9Xx4Vq7eJYxFWoYKPVDA8xEZAIZasvul7qsPS5P4",
+        "content": "Prima App. Sehr sch\u00f6n Designed und die Informationen sind gut aufbereitet. Weiter so.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.2.24",
+        "at": "2021-02-27 09:41:14",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOEqV-Oi-w5GdgAJEmkhaD1LzasHqRgAb1R7Hdyui2QvFWZcTlLrZ0yC29UsYnfvvb1t9RUw4nMgSeereyc",
         "userName": "THE TO",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh6e7ki1CJq1L8WrT7Z23Mv3wJK5hXH8Hql9LjZcQ",
@@ -250,18 +262,6 @@
         "at": "2020-12-15 19:16:19",
         "replyContent": "Hallo Karlo Schneider, leider muss wegen dem Fehler in der vorherigen Version die aktuelle Version ein mal gel\u00f6scht und neu installiert werden. Danach sollte es klappen. Sollte dies nicht klappen, w\u00fcrden wir uns \u00fcber eine Mail an appdev@solingen.de freuen. Dann k\u00f6nnen wir uns das genau anschauen! Vielen Dank!",
         "repliedAt": "2020-12-16 14:33:45"
-    },
-    {
-        "reviewId": "gp:AOqpTOES6r1tz7an9EVLJ_YuJXC0xrxSVAAPREN4MiiF2vENYHCp1GioqRWOTMXmfpdSieFOnUwuUZR2z55S-4s",
-        "userName": "patti ketti",
-        "userImage": "https://play-lh.googleusercontent.com/-QBLOLugmj1Y/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckEX20G-1DuV-d4LbN6IGFRSW5K7g/photo.jpg",
-        "content": "St\u00fcrzt schon beim ersten Ausprobieren ab und passt sich nicht an die Displaygr\u00f6\u00dfe meines Moto G5 an. Update: St\u00fcrzt immer noch ab und auch nach 2 Updates funktioniert der Abfallkalender nicht, unbrauchbar, deshalb DEINSTALLIERT.",
-        "score": 1,
-        "thumbsUpCount": 2,
-        "reviewCreatedVersion": "2.2.4",
-        "at": "2020-12-15 12:43:52",
-        "replyContent": "Hallo patti ketti, die aktuelle Version wurde mit zahlreichen Testern, die sich hier gemeldeten hatten gepr\u00fcft und klappt dort. Wir w\u00fcrden uns freuen, wenn Du Dich unter appdev@solingen.de bei uns melden w\u00fcrdest. Dann k\u00f6nnen wir uns das genau anschauen! Vielen Dank!",
-        "repliedAt": "2020-12-15 21:50:34"
     },
     {
         "reviewId": "gp:AOqpTOGY6jR0VoHdpw4a6QxuRP39y6Ir39njJhM6EZLl2ilZRpMrzk2l_qU9L2lHtZJ4FhyMw35Wl8y1q5Mmo8A",

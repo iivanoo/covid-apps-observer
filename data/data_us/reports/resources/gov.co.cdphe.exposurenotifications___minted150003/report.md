@@ -181,6 +181,8 @@ The CO Exposure Notifications app has been installed by more than **100000** tim
 <img src="3_star_reviews_wordcloud.png" alt="gov.co.cdphe.exposurenotifications 3 reviews"/>
 </p>
 
+> Neutral opinion of this app<br> :date: __2021-02-26 22:31:53__
+
 > Didn't give me the ability to alert potential contact (button didn't work)<br> :date: __2021-01-02 06:48:03__
 
 > Like<br> :date: __2020-12-12 07:54:21__
@@ -198,8 +200,6 @@ The CO Exposure Notifications app has been installed by more than **100000** tim
 > I was in the same house with a person who tested positive... 3 days later... Still no notification! Uninstalling!<br> :date: __2020-11-12 18:55:04__
 
 > Been running into issues of it not checking for possible exposures even with location/Bluetooth being on during the day. Been working around the public and it checked 3 days ago with a hefty amount of keys but not the day after or yesterday for that matter until I found I had to delete all the keys and then it'll restart and start collecting again, all my co workers have it on also. Not a good thing incase I ran into anyone days before that and they tested positive and the keys match later on.<br> :date: __2020-11-07 12:54:36__
-
-> Positive test here but can't share my result because I don't have a verification code. failed app so far🤷‍♂️ I've searched for about 15min and can only figure it's because my test was conducted out of state. However, I was around people in CO and would like to share it. Will people share if it's not easily available? I would also recommend information about privacy and how your results a reported. People might have a sense of shame or guilt but might share if there's some sense of anonymity.<br> :date: __2020-11-07 01:48:11__
 
 
 

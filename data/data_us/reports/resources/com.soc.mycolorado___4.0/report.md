@@ -186,6 +186,8 @@ The myColorado app has been installed by more than **10000** times. At this time
 <img src="5_star_reviews_wordcloud.png" alt="com.soc.mycolorado 5 reviews"/>
 </p>
 
+> Absolutely love this app I don't have to dig through my purse to find my ID my phone is already in my hands and my ID is already in my hand<br> :date: __2021-02-27 04:15:09__
+
 > Good app to keep important vehicle papers<br> :date: __2021-02-23 04:19:15__
 
 > Easy to do<br> :date: __2021-02-22 01:13:30__
@@ -203,8 +205,6 @@ The myColorado app has been installed by more than **10000** times. At this time
 > Easy to upload information. Navigation is intuitive and I like the available features.<br> :date: __2021-02-07 18:34:22__
 
 > Love this app it's an great idea for Colorado....<br> :date: __2021-02-03 02:30:25__
-
-> Great!! Fast and easy!!<br> :date: __2021-02-01 22:47:37__
 
 
 
@@ -242,6 +242,8 @@ The myColorado app has been installed by more than **10000** times. At this time
 <img src="3_star_reviews_wordcloud.png" alt="com.soc.mycolorado 3 reviews"/>
 </p>
 
+> Can't get it to scan my id in????<br> :date: __2021-02-26 21:16:20__
+
 > Keeps crashing when I try to upload an insurance ID card. Everything else is awesome!<br> :date: __2021-02-01 20:44:35__
 
 > pretty 🆒<br> :date: __2021-01-14 19:25:48__
@@ -259,8 +261,6 @@ The myColorado app has been installed by more than **10000** times. At this time
 > Everything was bool, then my picture didnt show up<br> :date: __2020-07-22 03:08:11__
 
 > Drivers license does not show all the license it cuts off not able to see entire number cannot retake picture of new license that i renewed other parts of the app work great<br> :date: __2020-07-13 16:56:19__
-
-> Had to use my sister's phone to scan my I.D., for whatever reason, my phone wouldn't scan, but other than that, I like this app..<br> :date: __2020-06-01 02:31:47__
 
 
 
@@ -298,6 +298,12 @@ The myColorado app has been installed by more than **10000** times. At this time
 <img src="1_star_reviews_wordcloud.png" alt="com.soc.mycolorado 1 reviews"/>
 </p>
 
+> App doesn't work don't bother downloading waste of time. I tried making an account and it said I already made one when I tried to make it the night before it claimed the site was down and to try the next morning.<br> :date: __2021-02-24 22:58:24__
+
+> I even took a screen shot of my username and password and its still not letting me log in???<br> :date: __2021-02-24 19:07:01__
+
+> Just downloaded the app, I'm trying to create an account and its not scanning the bar code on the back of my ID. The app closes completely everytime I have tried. It's getting a little frustrating.<br> :date: __2021-02-24 17:15:47__
+
 > Everytime i try to setup my account i scan the back of my DL and then the app crashes.<br> :date: __2021-02-22 17:40:53__
 
 > Horrible<br> :date: __2021-02-19 18:15:50__
@@ -311,11 +317,5 @@ The myColorado app has been installed by more than **10000** times. At this time
 > I have a LG V60. During the selfie facial rocognition the picture oval stays black like its not connecting to my camera. I gave the app all permissions it needs.<br> :date: __2021-02-04 17:37:12__
 
 > Worst app layout, I have seen in a few years. Taxes five minutes to set up, if you have 5 bars. Is heavy, and has minimal, albeit, important use...<br> :date: __2021-02-04 06:38:23__
-
-> It keeps crashing everytime I try to scan my license.<br> :date: __2021-01-30 16:56:27__
-
-> App barely works<br> :date: __2021-01-27 02:09:54__
-
-> Junk. It doesn't validate any information. Uninstalling<br> :date: __2021-01-23 01:48:13__
 
 

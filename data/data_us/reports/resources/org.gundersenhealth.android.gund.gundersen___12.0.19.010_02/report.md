@@ -204,6 +204,8 @@ The Gundersen VirtualVisit app has been installed by more than **1000** times. A
 <img src="5_star_reviews_wordcloud.png" alt="org.gundersenhealth.android.gund.gundersen 5 reviews"/>
 </p>
 
+> great in a jam!<br> :date: __2021-02-24 10:56:49__
+
 > Good experience , got the help I needed without having to make the trip to the Dr.'s office.<br> :date: __2020-12-30 15:56:23__
 
 > This is the third time I've used it. Awesome!<br> :date: __2020-11-25 19:03:14__
@@ -221,8 +223,6 @@ The Gundersen VirtualVisit app has been installed by more than **1000** times. A
 > During this time of uncertainty, my virtual visit was awesome!! I had a nice clear connection with my provider who was great. She was able to look at my chart during our visit all while I was comfortably at home<br> :date: __2020-04-15 21:44:35__
 
 > My provider was great! Everything went smooth and she was very understanding and helpful! I appreciate this app SO MUCH with having 3 SMALL kids at home this was the way to go! Thank you!<br> :date: __2020-03-22 18:57:40__
-
-> Incredibly convenient. It just saved me an hour drive and untold time sitting in urgent care just to have a care provider take a peek at me. I'm a believer after just one e-visit. If it's something that a high resolution photo and a brief description of symptoms could handle this is the ticket. Doctor was very through and set appropriate expectations. Also you get to pick from a list of available doctors and you are able to review their basic credentials on there biography page. Mind blown...<br> :date: __2020-01-21 23:46:25__
 
 
 

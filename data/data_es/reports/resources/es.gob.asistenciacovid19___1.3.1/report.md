@@ -136,6 +136,8 @@ The Asistencia COVID-19 app has been installed by more than **100000** times. At
 <img src="5_star_reviews_wordcloud.png" alt="es.gob.asistenciacovid19 5 reviews"/>
 </p>
 
+> Muy buena<br> :date: __2021-02-25 19:30:57__
+
 > Alguien a notificao slguna vez un positivo u recibido una alerta,pues con una incidencia esagerada y medio barrio en cuarentena,nunca recibi nada en esta app<br> :date: __2021-02-15 10:34:07__
 
 > Aún no tengo Experiencia.<br> :date: __2021-01-12 17:13:50__
@@ -153,8 +155,6 @@ The Asistencia COVID-19 app has been installed by more than **100000** times. At
 > Perfecto 👌 gracias<br> :date: __2020-09-18 21:29:37__
 
 > Eso esta bien<br> :date: __2020-09-11 21:20:08__
-
-> Genial gracias<br> :date: __2020-09-06 15:59:33__
 
 
 

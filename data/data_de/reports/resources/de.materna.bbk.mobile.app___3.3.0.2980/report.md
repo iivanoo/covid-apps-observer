@@ -154,6 +154,16 @@ The NINA - Die Warn-App des BBK app has been installed by more than **1000000** 
 <img src="5_star_reviews_wordcloud.png" alt="de.materna.bbk.mobile.app 5 reviews"/>
 </p>
 
+> Sehr gut geworden die App, mittlerweile auch mit Coroba Infos!<br> :date: __2021-02-27 10:29:19__
+
+> Sollte jeder haben. Gute Unwetterwarnung. Auch bei Corona gute Details<br> :date: __2021-02-26 16:54:21__
+
+> Irgendwie stimmen die Zahlen vom Salzlandkreis nicht, gestern hatten wir ca 5800 Fälle und heute sind es ca 11900 Fälle, wir können doch keine 6000 neue Fälle dazubekommen haben. Die anderen Zahlen sind auch stark gestiegen.<br> :date: __2021-02-26 11:52:43__
+
+> Ortsangaben, sind genau und Pünktlich<br> :date: __2021-02-25 23:44:02__
+
+> Sehr zufrieden. Informiert bei Bombenfunden&Wetterlagen sowie Hochwasser. Auch die aktuellen Coronafallzahlen können abgerufen werden. Einfach und kompetent.<br> :date: __2021-02-25 14:46:52__
+
 > Perfektes Tool.<br> :date: __2021-02-20 08:30:35__
 
 > Schnell und exakt...<br> :date: __2021-02-17 11:44:43__
@@ -163,16 +173,6 @@ The NINA - Die Warn-App des BBK app has been installed by more than **1000000** 
 > Einfach und gut... jedoch besser kann man immer werden<br> :date: __2021-02-15 19:59:43__
 
 > Sehr gut<br> :date: __2021-02-13 11:17:42__
-
-> Sehr nützlich für alle Leute die über alle gefahren informiert sein wollen<br> :date: __2021-02-13 07:24:59__
-
-> Sehr Empfehlenswert. WeinhausRoyal.de<br> :date: __2021-02-13 04:33:36__
-
-> Sehr empfehlenswert<br> :date: __2021-02-12 21:41:57__
-
-> Meha praktisch ist die App (sagt corona Zahlen) Glätte alles LG schnell<br> :date: __2021-02-09 15:38:45__
-
-> Sehr gut<br> :date: __2021-02-09 09:03:36__
 
 
 
@@ -238,6 +238,10 @@ The NINA - Die Warn-App des BBK app has been installed by more than **1000000** 
 <img src="2_star_reviews_wordcloud.png" alt="de.materna.bbk.mobile.app 2 reviews"/>
 </p>
 
+> Corona Meldungen nerven! Eigentlich habe ich die App, damit ich über Wetter-Katastrophen u.ä. unterrichtet werde. Seit Covid werden jeden Tag irgendwelche nicht-zeitkritische Meldungen über irgendwelche Corona-Sachen gepusht - und zwar mit intensivem Vibrationsalarm. Das erschreckt mich jedes Mal unnötig, denn die Meldungen sind so, dass es auch reicht, sie irgendwann mal zu lesen.<br> :date: __2021-02-24 17:07:07__
+
+> Auf dem Android- Desktop zeigt die App mit einer Ziffer in einem roten Kreis das Vorliegen neuer Benachrichtigungen an. Wenn ich die App dann öffne ist aber nicht klar, welche der gelisteten Benachrichtigungen gemeint ist. Die betreffende Nachricht steht weder oben in der Liste zu jedem Ort, noch ist diese durch eine farbliche oder sonstige Hervorhebung gekennzeichnet. Im Zweifelsfall sehe ich dann alle Benachrichtigungen durch, zu allen drei Orten, die ich eingetragen habe. Danach würde ich erwarten, dass wie auch bei einer Email- oder Messenger-App der rote Kreis, der ja über noch nicht gesehene Nachrichten informieren sollte, auf dem Android-Desktop ausgeblendet wird um mir die Sicherheit zu geben, dass ich nun alle Benachrichtigungen gesehen habe. Doch die kleine Ziffer im roten Kreis bleibt bestehen, als ob inzwischen weitere Benachrichtigungen eingetroffen wären. Kartendarstellung: Wenn eine Benachrichtigung, z.B. ein Gefahrstoffaustritt oder Brand gemeldet wird, so wird der Gefahrenbereich in einer Karte angezeigt. Der Kartenausschnitt ist dabei aber so klein gewählt, dass es schwierig ist zu erkennen, wo das Gefahrenereignis tatsächlich ist. Und noch schlimmer: Wenn man dann heraus zoomt um sich auf der Karte zu orientieren, so verschwindet die Darstellung des Gefahrenbereichs. Ich denke, dass diese App dringend überarbeitet werden muss, damit sie sich intuitiv bedienen lässt. Man hat den Eindruck, dass die Personen, die diese App abgenommen und freigegeben haben selbst kein Handy benutzen und den Computer wohl noch ein "Datensichtgerät" nennen.<br> :date: __2021-02-24 11:54:00__
+
 > Ich nutze diese App schon seid ein paar Jahren und fand sie sehr praktisch. Allerdings geht es in dieser App fast nur noch um Corona... Obwohl ich die Push Mitteilungen bezüglich Corona Deaktiviert habe kommen diese weiterhin. Da ich alles um Corona nicht mehr sehen , hören usw. kann habe ich diese App erstmal Deinstalliert . Wenn der ganze Irrsinn mal vorbei ist werde ich mir diese App mal wieder ansehen .<br> :date: __2021-02-22 13:03:48__
 
 > Immer wieder gibt es bei neuen Warnmeldung keine Benachrichtigungen, obwohl es aktuelle Meldungen in NINA gibt. Sowohl bei mir als auch bei meiner Freundin - beispielsweise heute bezüglich des Gasausfalls im Bereich Eutin. Samsung Galaxy 2017 A, Android 8.0.0<br> :date: __2021-02-20 11:31:02__
@@ -254,10 +258,6 @@ The NINA - Die Warn-App des BBK app has been installed by more than **1000000** 
 
 > Ich erhalte eine Warnung über Signalton. Schaue ich dann aufs Handy, heißt es "Nina reagiert nicht". Es erscheint auch keine Warnung in der Benachrichtigungsleiste. Starte ich dann die App (was übrigens ewig dauert), wird die Warnung angezeigt. Das ist IMMER so. Außerdem stürzt die App ab, sobald ich versuche den Systemton als Warnton einzustellen.<br> :date: __2021-02-08 13:17:45__
 
-> An sich eine gute Sache, aber es ist wie mit dem Kind was ständig um Hilfe ruft obwohl nichts ist. Wenn dann wirklich was ist, hört man nicht mehr hin. Genau so verhält es sich bei bei 5 bis 6 täglichen Alarmen wegen Hochwasser in NRW (nicht da wo ich much aufhalte sondern egal wo in NRW). Wenn hier demnächst in der benachbarten Chemie Bude was giftiges in die Luft fliegt, wird keiner mehr Notiz von der Warnung durch die App nehmen.<br> :date: __2021-02-08 11:11:46__
-
-> Ich war auch eine Zeitlang zufrieden, aber seit ca einem halben Jahr macht sie nichts mehr! Falls mal was sein sollte, bin ich wahrscheinlich die letzte die was erfährt. Ich fande sie echt interessant! Habe sie deswegen schon öfter deinstalliert und wieder installiert. Doch bei meinem Sony X5 bringt es leider nichts<br> :date: __2021-02-07 08:14:54__
-
 
 
 #### 1-star reviews
@@ -266,24 +266,24 @@ The NINA - Die Warn-App des BBK app has been installed by more than **1000000** 
 <img src="1_star_reviews_wordcloud.png" alt="de.materna.bbk.mobile.app 1 reviews"/>
 </p>
 
+> Bildschirmausrichtung wird unabhängig von der Systemeinstellung ignoriert. Portraitmodus kann nicht erzwungen werden.<br> :date: __2021-02-27 01:53:32__
+
+> Schlecht wenn nicht sogar sehr schlecht. Informationen kommen zu Spät oder garantiert gar nicht. Es ist kein verlass auf diese App.<br> :date: __2021-02-26 16:49:50__
+
+> Es kommen keine Benachrichtigungen, weder zu allgemeinen Sachen wie Bränden (gerade aktuell im Landkreis Greiz, obwohl die Warnung in der App aufgelistet ist), noch zu Corona-Aktualisierungen. Ich habe alle Benachrichtigungseinstellungen überprüft und richtig gesetzt.<br> :date: __2021-02-26 15:57:05__
+
+> Warnungen kommen oft erst verspätet, wenn überhaupt. Und wenn mal ein Alarm kommt, ist es zu 90% einfach nur eine Zusammenfassung von Pressekonferenzen oder Videokonferenzen. Ich hatte mir die App zum Sirenentest-Tag geholt, wurde nicht ausgelöst.<br> :date: __2021-02-25 20:37:03__
+
+> Keine warnung Benachrichtigung seit monaten<br> :date: __2021-02-24 15:27:02__
+
+> Ich bekomme heute am 24.2.21 bei warmen 18 Grad eine Warnung vom 9.2.21 über Glatteis. 🙄 Bitte arbeitet daran.<br> :date: __2021-02-24 14:47:57__
+
+> Mindestens genauso unwichtig und unbedeutend wie Katwarn...<br> :date: __2021-02-24 00:15:55__
+
 > Schlechteste App aller Zeiten<br> :date: __2021-02-23 16:43:28__
 
 > Update: Gestern Gasleck, heute Großbrand: Die App warnt nicht. Lediglich die Entwarnung wurde signalisiert. Das ist richtiger Müll! Daher noch ein Stern weniger. ---- Momentan läuft eine Bombenentschärfung in Hamburg. Die App hat jedoch nichts gemeldet. Als Warnapp viel zu unzuverlässig. Deinstalliert.<br> :date: __2021-02-23 15:41:20__
 
 > Hat am 10.09.20 in Flensburg überhaupt nicht gemeldet. Nur KATWARN hat funktioniert. Die App ist eine Katastrophe und kann vor sich selbst warnen.<br> :date: __2021-02-23 10:44:12__
-
-> Großbrand in der Stadt, Fenster und Türen geschlossen halten und keine Benachrichtigung, Android 8.0.0 mitAsus Z012D, Zenfone 3<br> :date: __2021-02-21 22:11:03__
-
-> Mittlerweile verwahrlost das Ganze zur Corona Propaganda Plattform. Leute, es interessiert mich nicht ob Jensi mal wieder ne dolle Idee hat, damit werd ich schon permanent im Fernsehen zugeballert. Feuer, Chemie Unfall, über Dinge dieser Art möchte ich hier informiert werden!!!!!!!!<br> :date: __2021-02-20 21:25:21__
-
-> Deutschland das digitale Niemandsland. Ich schließe mich den Vorrednern an. Ich habe einfach keinen Bock darauf 2021 eine App ständig De/Installieren zu müssen, damit sie funktioniert. Adios Amigos. Ps: Wer finanziert diesen Humbug?<br> :date: __2021-02-20 11:29:04__
-
-> Funktioniert nicht die Corona Info startet nicht, ein Stern ist schon zu viel<br> :date: __2021-02-20 11:03:02__
-
-> Ernüchternd. Die App warnt seit Monaten nicht. Wendet man sich an die hier immer angegebene E-Mail-Adresse , bekommt man ein politisches Referat, aber keine technische Unterstützung. Behörden sind halt keine Dienstleister. Die Entwicklung der App scheint einem Selbstzweck zu dienen, aber nicht dem, der außen auf dem Etikett steht. Vielleicht kommt die App-Behörde auch nicht schnell genug mit den Android-Versionen nach. Aktuell ist 11! Die Hinweise beziehen sich auf 6.<br> :date: __2021-02-20 09:43:08__
-
-> Eigentlich nicht schlecht, nur erwarte ich bei dieser App tägliche Aktualisierungen, diese sind aber nur schleppend, die neueste Coronaverordnung ist noch nicht eingearbeitet, stattdessen finden sich Coronaschutzverordnungen teils vom Oktober 2020 darin. Hochwasserwarnungen hingegen funktionieren gut.<br> :date: __2021-02-20 07:48:26__
-
-> Wenn die dauerhafte C. Virus Warnung bestehen bleibt, wird die App gelöscht.<br> :date: __2021-02-18 20:31:42__
 
 

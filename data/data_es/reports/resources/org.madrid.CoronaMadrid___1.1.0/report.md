@@ -178,6 +178,8 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 <img src="4_star_reviews_wordcloud.png" alt="org.madrid.CoronaMadrid 4 reviews"/>
 </p>
 
+> La aplicación es muy útil, permite hacer un auto reconocimiento de los síntomas y así poder determinar si pudieras portar el virus, además es muy bueno que puedas hacérselo a un familiar también y que pongan recomendaciones sobre los cuidados que se deben tener y una ubicación de los centros de salud a los que se pueda acudir en caso de sospechas.<br> :date: __2021-02-25 18:25:34__
+
 > Funciona correctamente<br> :date: __2021-02-01 18:58:33__
 
 > Excelente app que cumple con lo indicado. Fácil de navegar por ella con buen diseño y sobretodo una app que te ayuda a controlar tus síntomas de covid. También da información de los hospitales más cercanos según tu ubicación.<br> :date: __2021-01-10 19:05:33__
@@ -195,8 +197,6 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 > Te va avisando de cuando puedes ir haciéndote el test de las preguntas. Te da pautas a seguir según el resultado que te haya dado<br> :date: __2020-04-23 17:45:23__
 
 > Buena<br> :date: __2020-04-13 09:25:49__
-
-> Me ayuda a despejar las dudas<br> :date: __2020-04-12 14:47:41__
 
 
 

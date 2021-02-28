@@ -274,6 +274,8 @@ The Smittestop app has been installed by more than **500000** times. At this tim
 <img src="1_star_reviews_wordcloud.png" alt="com.netcompany.smittestop_exposure_notification 1 reviews"/>
 </p>
 
+> Shows PM/AM times in a 24H setting!<br> :date: __2021-02-23 21:07:15__
+
 > På det sidste har jeg fået en notifikation hver morgen om at appen er deaktiveret. Ydermere er er jo næsten ubrugeligt at appen ikke fortæller hvilken dag man har været i kontakt med nogen, så man ved hvilke dage man burde blive testet.<br> :date: __2021-02-15 07:56:43__
 
 > Keeps on pushing notifications on different times at day or night without any new alerts. As we say in Danish: Det er en ommer.<br> :date: __2021-02-09 17:10:10__
@@ -291,7 +293,5 @@ The Smittestop app has been installed by more than **500000** times. At this tim
 > Doesn't work. Was infected can't share my results. Is not getting notifications about close to infected person (wife, who could share it). Just draining power from my phone.<br> :date: __2021-01-20 06:55:34__
 
 > Fungerer ikke<br> :date: __2021-01-20 00:49:32__
-
-> Jeg henter den igen når i ikke spammer med ligegyldige notifikationer.<br> :date: __2021-01-18 10:43:00__
 
 

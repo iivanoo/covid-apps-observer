@@ -257,6 +257,10 @@ The GuideSafe app has been installed by more than **100000** times. At this time
 <img src="1_star_reviews_wordcloud.png" alt="gov.adph.exposurenotifications 1 reviews"/>
 </p>
 
+> Absolutely cringe<br> :date: __2021-02-25 19:52:40__
+
+> DON'T HAVE ON MY PHONE<br> :date: __2021-02-24 17:54:17__
+
 > Wasnt for my state<br> :date: __2021-02-23 07:32:27__
 
 > Funny how it stopped updating right after the election! Weird huh? I'm not for either side I just find it very very strange that covid is not as big a deal now.<br> :date: __2021-02-18 01:59:41__
@@ -272,9 +276,5 @@ The GuideSafe app has been installed by more than **100000** times. At this time
 > I tested positive and reported it through the app. My husband STILL has not received an exposure notification 4 days later.<br> :date: __2021-02-03 00:24:41__
 
 > As far as dumb and useless apps go, this one definitely takes the cake.<br> :date: __2021-02-01 05:37:56__
-
-> Doesn't seem to work. Exposure hasn't been checked since Nov and I don't see anyway to force it to check.<br> :date: __2021-01-29 04:07:05__
-
-> It stopped working. The last report was over 6 weeks ago.<br> :date: __2021-01-27 13:36:45__
 
 

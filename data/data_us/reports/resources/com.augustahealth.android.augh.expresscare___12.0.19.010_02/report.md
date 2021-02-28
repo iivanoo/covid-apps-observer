@@ -184,6 +184,8 @@ The Augusta Virtual Care app has been installed by more than **10000** times. At
 <img src="5_star_reviews_wordcloud.png" alt="com.augustahealth.android.augh.expresscare 5 reviews"/>
 </p>
 
+> I loved it. It took 5 minutes and I can avoid a covid hotspot<br> :date: __2021-02-24 16:58:56__
+
 > Very helpful thanks<br> :date: __2020-12-15 17:58:19__
 
 > It was great and I'm satisfied!!!<br> :date: __2020-12-07 20:19:35__
@@ -201,8 +203,6 @@ The Augusta Virtual Care app has been installed by more than **10000** times. At
 > Doctor was very kind, listened to my concerns and the process was very easy<br> :date: __2020-06-14 00:33:42__
 
 > I had a great experience. The video and audio worked great, after one initial error with wifi connection. My doctor and myself were able to have a visit like we were in the same room.<br> :date: __2020-06-12 19:33:57__
-
-> Great App!<br> :date: __2020-06-11 20:20:35__
 
 
 

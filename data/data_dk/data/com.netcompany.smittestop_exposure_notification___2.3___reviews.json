@@ -1,5 +1,17 @@
 [
     {
+        "reviewId": "gp:AOqpTOGjuXGLNuEGxxbZrrxh1GXBEfv4SJelt4wgoDv8FhnQ28YDQEoYEn6aBtaa7CCQbcLLlkChM7zuFjulIg",
+        "userName": "Niels Testet",
+        "userImage": "https://play-lh.googleusercontent.com/-L2GeQkccJoc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm_SSLMXXdLDu1NWuJfMMw0WHYJGQ/photo.jpg",
+        "content": "Shows PM/AM times in a 24H setting!",
+        "score": 1,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "2.3",
+        "at": "2021-02-23 21:07:15",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOHIgOmmyH9GufvxGBUicYetADnbvsW1iw5ctDD_qM4do0xrkCfRXI9UiwesUBvqzPSWJ9EfSDgKaulWJQ",
         "userName": "Jonas Hansen",
         "userImage": "https://play-lh.googleusercontent.com/-fNPAv1PJaPg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucltAT_vUjK5IeWgLIKulpzmum_v6w/photo.jpg",
@@ -542,7 +554,7 @@
     {
         "reviewId": "gp:AOqpTOHglmk12Uk6gVGnd_mvMXtRaPnLHmMb3I7DCV71llUj-HEZGm1q9qbff9n9rtMS1lTL8BkdZ3OXxe_Mwg",
         "userName": "Marek Hlava",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhrwM2ij-kJw7kXMLdy_lBXAjmihgyPE8qbqXNfTg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiL-Pa3SuAV30SdNoBJFuu6i26JP8Kp-W99rw3b8k4",
         "content": "Looks like the app is finally working now. I have multiple checks per day that come with a notification. And the daily updates are a nice feature too. Next time you need to ask for consent, you have to send us a notification, nobody opens this app every day.",
         "score": 5,
         "thumbsUpCount": 12,
@@ -970,18 +982,6 @@
         "at": "2020-10-09 09:05:16",
         "replyContent": "Sundheds- og \u00c6ldreministeriet og Digitaliseringsstyrelsen har haft fokus p\u00e5 sikkerhed, privatlivsbeskyttelse og innovativ teknologiske valg, for at sikre en annonym deltagelse i fors\u00f8get p\u00e5 at stoppe smittek\u00e6der. ingen data kan dermed overv\u00e5ges, da data kun lagres p\u00e5 DIN telefon for at beskytte Dig. du kan l\u00e6se mere p\u00e5 www.smittestop.dk",
         "repliedAt": "2020-06-18 10:50:37"
-    },
-    {
-        "reviewId": "gp:AOqpTOGjuXGLNuEGxxbZrrxh1GXBEfv4SJelt4wgoDv8FhnQ28YDQEoYEn6aBtaa7CCQbcLLlkChM7zuFjulIg",
-        "userName": "Niels Testet",
-        "userImage": "https://play-lh.googleusercontent.com/-L2GeQkccJoc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm_SSLMXXdLDu1NWuJfMMw0WHYJGQ/photo.jpg",
-        "content": "Still no update on announced (2 weeks ago) errors. :-(",
-        "score": 1,
-        "thumbsUpCount": 1,
-        "reviewCreatedVersion": "1.1",
-        "at": "2020-10-08 18:36:01",
-        "replyContent": null,
-        "repliedAt": null
     },
     {
         "reviewId": "gp:AOqpTOECd0nQCNBrw7AM__NcSzqu6vA17ZKp9HrrLJNizvRfNs1xWw99aiaBadrMtyUwYbWJDtFA5N-9CDKYJQ",

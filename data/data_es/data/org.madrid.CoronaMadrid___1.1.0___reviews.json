@@ -1,5 +1,17 @@
 [
     {
+        "reviewId": "gp:AOqpTOECJeohdxaCV5x_-6Utz8fi82AOHtpe-LpoeWoHM5uL-xphoDIVkSHWOJaiD-EbKcLyg_pugw3hV2WuRA",
+        "userName": "Yasnay Acosta",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjwDCW-C3yBe_HqiWnuiNdKZDYEDO8vICWyp2TIqg",
+        "content": "La aplicaci\u00f3n es muy \u00fatil, permite hacer un auto reconocimiento de los s\u00edntomas y as\u00ed poder determinar si pudieras portar el virus, adem\u00e1s es muy bueno que puedas hac\u00e9rselo a un familiar tambi\u00e9n y que pongan recomendaciones sobre los cuidados que se deben tener y una ubicaci\u00f3n de los centros de salud a los que se pueda acudir en caso de sospechas.",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.1.0",
+        "at": "2021-02-25 18:25:34",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOEWRw4KJpHffe9_yJJGUWPnA1CasanA8hQikYQlEQ2K-dNxRg_0fLurhTnrFvidQks9bJk4VKOgiiQueQ",
         "userName": "jose pruebas",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GinxKC4e8iorV1RgBQbAPdCWDqf1JzNi0UK8jbv",
@@ -65,7 +77,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-WdkedNmnU4U/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnSqwv_wNaFDg85eDqw7CtDpqiY0w/photo.jpg",
         "content": "No me enviaba el c\u00f3digo de registro. Despu\u00e9s de 55 minutos, me han llegado 4. Al ir a meterlos, no me acepta ninguno y cuando intento pedir uno nuevo, me dice que he superado el m\u00e1ximo de intentos. La desinstalo ahora mismo, porque vaya basura.",
         "score": 1,
-        "thumbsUpCount": 1,
+        "thumbsUpCount": 2,
         "reviewCreatedVersion": "1.1.0",
         "at": "2021-02-15 19:24:26",
         "replyContent": null,
@@ -3458,7 +3470,7 @@
     {
         "reviewId": "gp:AOqpTOEcfjdu90bquqjWxrx4HVbC5g5YU3iZ4s4UkXXOeR1lqwTnd-jX_YUo-rbLyXfkRb6aarkb6tISxOqpqQ",
         "userName": "F.J. Oliva",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjO8QKO3egDrp7rpkBHar-RrRI3BqJInQAh7kmHT30",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgBo4jDhN_B2RI5UfUsVUOMxFijWs289GdemxZWbk4",
         "content": "Se queda bloqueada y no me puedo registrar al introducir el tel\u00e9fono.",
         "score": 5,
         "thumbsUpCount": 4,

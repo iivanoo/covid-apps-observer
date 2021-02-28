@@ -189,6 +189,8 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 <img src="5_star_reviews_wordcloud.png" alt="com.ascent.phr 5 reviews"/>
 </p>
 
+> does what it says on the tin as long as your GP is on the ball with updating at their end.<br> :date: __2021-02-24 11:35:02__
+
 > great app<br> :date: __2021-02-22 12:56:01__
 
 > works well for ordering repeat scripts<br> :date: __2021-02-21 18:37:51__
@@ -206,8 +208,6 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 > Always easy to use and keeps you up to date at all times.<br> :date: __2021-01-31 19:05:27__
 
 > very good<br> :date: __2021-01-30 17:10:52__
-
-> very easy to use app<br> :date: __2021-01-27 17:11:33__
 
 
 

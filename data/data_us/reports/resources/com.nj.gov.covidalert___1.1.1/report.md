@@ -202,6 +202,8 @@ The COVID Alert NJ app has been installed by more than **100000** times. At this
 <img src="3_star_reviews_wordcloud.png" alt="com.nj.gov.covidalert 3 reviews"/>
 </p>
 
+> no data update for several days<br> :date: __2021-02-23 18:09:44__
+
 > Never received any alerts<br> :date: __2021-02-12 03:18:12__
 
 > The app icon went from filling in the whole circle to becoming an unreadable tiny square in a circle.<br> :date: __2021-02-07 18:56:39__
@@ -219,8 +221,6 @@ The COVID Alert NJ app has been installed by more than **100000** times. At this
 > Works ONLY: #1. If an infected person ALSO has the APP and you both have Bluetooth &. Location turned on. And #2. You come within 6 Feet for more than 10 minutes of an infected person AND #3 The infected person AGREES to allow the Tracers to access the app code information. What code? When your phone meets another phone ( see #1) a code is sent via bluetooth to both phones. The app remembers the code info. The tracer simply activates that code to send you an alert. Good for crowds etc.<br> :date: __2020-11-18 04:34:50__
 
 > This app collects daily data well enough, BUT IT GIVES LITTLE INFO THAT CAN HELP PEOPLE!! PLEASE IMPROVE IT!!! - County-level % is % of STATE!! USELESS!! WHAT'S IMPORTANT is the current 7 day positivity testing rate!!! - NOT BY COUNTY, BUT BY MY CURRENT LOCATION!!! - EVEN BETTER: GIVE THE % POSITIVITY WITHIN A 1,5,10,25 MIKE RADIUS!!! THIS WAY, PEOPLE CAN MANAGE RISK!!! - YOU HAVE THE GPS COORDINATES OF EVERYONE, SO YOU CAN DO THIS!!! WHY DON'T YOU????<br> :date: __2020-11-15 21:25:32__
-
-> Just really want to know if the app talks to the NY and PA apps? I deal with people from both daily.<br> :date: __2020-11-15 21:15:30__
 
 
 
@@ -258,6 +258,10 @@ The COVID Alert NJ app has been installed by more than **100000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="com.nj.gov.covidalert 1 reviews"/>
 </p>
 
+> This is not my state take it off of my phone now<br> :date: __2021-02-26 14:44:24__
+
+> Informative<br> :date: __2021-02-25 12:22:40__
+
 > Death transparency is gone. What are you hiding?<br> :date: __2021-02-16 19:01:21__
 
 > Good<br> :date: __2021-02-10 22:35:09__
@@ -273,9 +277,5 @@ The COVID Alert NJ app has been installed by more than **100000** times. At this
 > It's not mine but it's on my phone<br> :date: __2021-01-12 11:50:16__
 
 > 2019 US deaths be4 Pandemic: 2.85 mil 2020 US deaths After Pandemic: 2.83 mil Per C.D.C. Say no to fascism. Say no to this garbage app..<br> :date: __2021-01-06 11:15:47__
-
-> The contact alert feature is bordeine comsumer fraud .has it zctually od contact by anyone why are comments going oy back to decembet<br> :date: __2021-01-02 00:59:00__
-
-> #PRESIDENTSTEVENKING #STEVENKING I KNOW THE CURE FOR COVIDE, FDA APPORVED ME TO RESEarch<br> :date: __2021-01-01 22:54:10__
 
 

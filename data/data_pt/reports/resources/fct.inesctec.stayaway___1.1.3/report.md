@@ -137,6 +137,10 @@ The STAYAWAY COVID app has been installed by more than **1000000** times. At thi
 <img src="5_star_reviews_wordcloud.png" alt="fct.inesctec.stayaway 5 reviews"/>
 </p>
 
+> O 😯😯😯😯😯😯🙎🙎🙎🙎 .<br> :date: __2021-02-24 23:19:49__
+
+> Muito bom<br> :date: __2021-02-23 23:23:24__
+
 > Vamos testar.<br> :date: __2021-02-22 00:43:21__
 
 > Muito útil está aplicação.<br> :date: __2021-02-19 14:23:21__
@@ -153,10 +157,6 @@ The STAYAWAY COVID app has been installed by more than **1000000** times. At thi
 
 > Bom<br> :date: __2021-02-12 15:48:31__
 
-> Gostei<br> :date: __2021-02-11 13:33:35__
-
-> Tenho dificuldade em abrir a aplicação<br> :date: __2021-02-08 11:08:11__
-
 
 
 #### 4-star reviews
@@ -164,6 +164,8 @@ The STAYAWAY COVID app has been installed by more than **1000000** times. At thi
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="fct.inesctec.stayaway 4 reviews"/>
 </p>
+
+> Boa<br> :date: __2021-02-25 21:57:08__
 
 > Penso que poderia ser um pouco diferente, tal como detectar mesmo o covid , parabéns pela app.<br> :date: __2021-02-10 10:39:34__
 
@@ -183,8 +185,6 @@ The STAYAWAY COVID app has been installed by more than **1000000** times. At thi
 
 > bom dia, tenho a app, instalada ha algum tempo, hoje nao abria, desliguei o telefone voltei a ligar, aparece a ultima avaliação de risco foi ontem e não passa para hoje. Desinstalei e voltei a instalar a app, e agora não passa da parte do consentimento. Ha algum problema hoje com a aplicação? O meu telefone é um Samsung S8+<br> :date: __2021-01-13 12:46:52__
 
-> Bom<br> :date: __2021-01-13 00:22:32__
-
 
 
 #### 3-star reviews
@@ -192,6 +192,8 @@ The STAYAWAY COVID app has been installed by more than **1000000** times. At thi
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="fct.inesctec.stayaway 3 reviews"/>
 </p>
+
+> Não discuto o mérito desta app. Mas o que gostava era de saber qual o impacto que ela já teve no controlo da pandemia. Estatísticas sérias sobre a sua real utilidade.<br> :date: __2021-02-25 08:59:25__
 
 > Desde há semanas que está a mostrar erro de acesso ao servidor: falha a carregar dados de infeção.<br> :date: __2021-02-20 18:05:03__
 
@@ -210,8 +212,6 @@ The STAYAWAY COVID app has been installed by more than **1000000** times. At thi
 > Misses European countries app integration like the Spanish app which has a integration between each other. How can I monitor my app if I study abroad? There should be just one EU app for all<br> :date: __2021-01-17 14:22:59__
 
 > Não dá para ter essa aplicação porque tenho que ter o Bluetooth ligado 24 horas sobre 24horas. Ao ter isso sempre ligado, há interferências no meu telemóvel. Não vou danificar o meu telemóvel porque não tenho dinheiro para comprar outro e o estado não vai dar me um novo. Por isso eu não uso a aplicação. Eu protejo me ao máximo porque eu quero estar protegida e quero proteger as outras pessoas.<br> :date: __2021-01-12 16:29:52__
-
-> Vou testar se for bom dou 5 estrelas<br> :date: __2021-01-12 13:02:39__
 
 
 
@@ -249,6 +249,16 @@ The STAYAWAY COVID app has been installed by more than **1000000** times. At thi
 <img src="1_star_reviews_wordcloud.png" alt="fct.inesctec.stayaway 1 reviews"/>
 </p>
 
+> M3rda!! Tudo fachada!! Uma completa farça!! Se não queres apanhar covid não é a app que te salva. Tens de utilizar mascara, respeitar o distanciamento e higienizar as mãos para te precaver. E a vacina é treta!! Não houve tempo para testar a vacina como deve de ser. Quem acredita que isto é a salvação para o covid anda a dormir na vida. Sem travão ninguém nos quê? Sem travão ninguém nos pára. Boca calada nunca xibo na nha brada Mesmo levando porrada Manto e firme o pé na estrada FK gang 🔞😤😤🔞<br> :date: __2021-02-27 10:51:45__
+
+> O nome é stayaway covid mas mesmo assim apanhei covid, pensando que este APP ia fazer com que o covid ficasse longe de mim.<br> :date: __2021-02-25 23:07:47__
+
+> Useless, my friends.<br> :date: __2021-02-25 22:16:45__
+
+> não vale a pena mesmo lol.<br> :date: __2021-02-25 17:20:30__
+
+> Não funciona<br> :date: __2021-02-23 23:40:56__
+
 > Não presta e não serve<br> :date: __2021-02-23 01:00:52__
 
 > Péssima! Não faz sentido, só ocupa espaço necessário para aplicações mais importantes.<br> :date: __2021-02-21 21:44:55__
@@ -258,15 +268,5 @@ The STAYAWAY COVID app has been installed by more than **1000000** times. At thi
 > Só têm um problema! NÃO FUNCIONA<br> :date: __2021-02-21 05:09:45__
 
 > Muito obrigado pela atenção e disponibilidade para me ajudar a resolver o problema com a maioria da minha empresa e que me fez sentir bem e que me fez sentir bem e que me fez sentir bem e que me fez sentir bem e que me fez sentir bem e que me faz sorrir sempre.<br> :date: __2021-02-18 16:17:46__
-
-> ja tive com varias pessoas com o cavid e nao tive nenhum alerta a<br> :date: __2021-02-18 11:06:29__
-
-> Não serve para nada Inútil😡<br> :date: __2021-02-18 09:30:46__
-
-> Infelizmente sem a obrigatoriedade de registo de novos casos na app, a mesma torna-se desnecessária e ineficaz.<br> :date: __2021-02-18 01:06:16__
-
-> Pelo menos ganharam um bom dinheiro com está app inútil<br> :date: __2021-02-17 21:04:32__
-
-> Muito fraco<br> :date: __2021-02-17 19:53:08__
 
 
